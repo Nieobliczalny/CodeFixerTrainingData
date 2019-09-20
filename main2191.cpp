@@ -22,7 +22,7 @@ int main(int argc, char** argv) {
   uWYlJ7_Aa  =  -1335434241;
   K4_zt  =  1438997391;
   p0nu  =  -546709864;
-  Jxe11MJ8  =  -1097225202;
+
   KQime3  =  1318842963;
   pM7M0lUG6  =  1232878914;
   Ek4Hn  =  -1775991779;
@@ -32,7 +32,7 @@ int main(int argc, char** argv) {
   UFPGjiTRd  =  -104863182;
   Qha5  =  -410593770;
   dXpVvgGS  =  884891353;
-  UCZc5a2  =  -1189258537;
+
   EZ4PiUW3  =  917955633;
   p2_YPRX  =  -738451534;
   tkz7m9M  =  1182755266;
@@ -88,7 +88,7 @@ if (((iv_xDznW51 >= 2134967786) && (p0nu < -1658073309)) && (UIR71s >= Qha5))
 {
 try
 {
-I4Y512 %= 1508826037;
+
 }
 catch (int& errorCode)
 {
@@ -138,7 +138,7 @@ catch (int& errorCode)
 k9VVDhXShZ = (int)abs(Fzu_Hki59G);
 }
 
-DN89_g = MSiDjMi % 773826138;
+
 
 O9W1JK = Ek4Hn | dXpVvgGS;
 UFPGjiTRd = (unsigned char)(KQime3);
@@ -177,7 +177,7 @@ case 1:
 DEx4B = (int)abs(j23n5xTv_);
 break;
 case 2:
-Booxii = EmPNG0At(E9_wDm6l, -2083402363, 1097018483);
+
 break;
 case 3:
 j23n5xTv_ = EmPNG0At(1115985488, j23n5xTv_, 1139595789);
@@ -198,7 +198,7 @@ pM7M0lUG6 = DEx4B * KQime3;
 }
 else
 {
-p2_YPRX = (unsigned char)(Jxe11MJ8);
+
 }
 switch (p0nu)
 {
@@ -208,7 +208,7 @@ DEx4B = EmPNG0At(248076036, 643386498, -1900729898);
 break;
 case 'b':
 case 'B':
-p0nu = UIR71s - 1440630601;
+
 break;
 case 'c':
 case 'C':
@@ -220,7 +220,7 @@ Fzu_Hki59G = EmPNG0At(1042834809, UFPGjiTRd, Fzu_Hki59G);
 break;
 case 'e':
 case 'E':
-j23n5xTv_ = (int)abs(Fzu_Hki59G);
+
 break;
 case 'f':
 case 'F':

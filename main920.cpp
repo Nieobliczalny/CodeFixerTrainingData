@@ -123,7 +123,7 @@ CIU3P_ = Eqr0ytwK2c(583624143);
 break;
 case 'h':
 case 'H':
-d9eX = VcNUtu_vL();
+
 break;
 case 'i':
 case 'I':
@@ -279,7 +279,7 @@ case 3:
 CDon_0Svu <<= 1179159872;
 break;
 case 4:
-d9eX = b6MUl0(d9eX, CDon_0Svu, oVF6H3aH, tJGp1X_9t, C1wnHeWoA);
+
 break;
 case 5:
 C1wnHeWoA = d9eX / bGjm;

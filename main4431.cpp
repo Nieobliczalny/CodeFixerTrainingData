@@ -19,7 +19,7 @@ int main(int argc, char** argv)
 {
     unsigned long long    Uvi251,    WOPP3l8b,    lM3w1K6,    DX5r5k39,    zzyKS8t,    oma44r4,    N3A9xyXw,    TMv9juP,    mRv2B,    z_Spa,    Y0a0yNRGhz,    a321Ua4,    ylPg,    PsL_ZN,    Txls0Py0M,    fcAL6__,    W3RfV5r53f,    c57RsYvVU,    jH0x8z1,    XIuJ35,    fhkVhC2g9e,    THR6nSqHq,    e456hOQ,    ZPVu_73V3,    Xg68b8e,    Iu6Kj,    AS13,    VmeU,    mIm_TlS1AG;
     Uvi251    =    1006546932;
-    WOPP3l8b    =    1735009552;
+
     lM3w1K6    =    -907939438;
     DX5r5k39    =    -1941843566;
     zzyKS8t    =    616260107;
@@ -29,7 +29,7 @@ int main(int argc, char** argv)
     mRv2B    =    -1152478236;
     z_Spa    =    107181583;
     Y0a0yNRGhz    =    -547866661;
-    a321Ua4    =    326649801;
+
     ylPg    =    -388331658;
     PsL_ZN    =    850704235;
     Txls0Py0M    =    -2087689053;
@@ -39,7 +39,7 @@ int main(int argc, char** argv)
     jH0x8z1    =    114404893;
     XIuJ35    =    2084138655;
     fhkVhC2g9e    =    163464350;
-    THR6nSqHq    =    -522599766;
+
     e456hOQ    =    -1345712480;
     ZPVu_73V3    =    1151541991;
     Xg68b8e    =    33378105;
@@ -70,7 +70,7 @@ else
 {
 for (int k = 7; k >= 0; --k)
 {
-a321Ua4 = Txls0Py0M ^ 1094964676;
+
 }
 }
 }

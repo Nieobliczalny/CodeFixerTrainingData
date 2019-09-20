@@ -80,7 +80,7 @@ Gp8x = GQPF5qs10z(-1910015259, 1755413231);
 }
 }
 
-p81O_S = (int)abs(Kae12X1);
+
 p81O_S = No14Q6Cgd2(k6Zc0a5RvY, -203142159);
 myUq2Xq = Kae12X1 + H66K;
 
@@ -190,7 +190,7 @@ try
 int k = 0;
 while (k < 4)
 {
-p81O_S = No14Q6Cgd2(-1426422180, -1523537319);
+
 k++;
 }
 }
@@ -236,7 +236,7 @@ case 'b':
 I54Rg3 = l7B2Kno5(-727866724, 1259414544, -569135698, 166627911);
 break;
 case 'c':
-p81O_S = (int)abs(mCVMbu);
+
 break;
 default:
 Kae12X1 = No14Q6Cgd2(559853872, -1478129935);
@@ -247,7 +247,7 @@ break;
 while (i < 5);
 }
 
-myUq2Xq = H66K | I54Rg3;
+
 return 0;
 }
 

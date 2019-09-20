@@ -224,7 +224,7 @@ if (AYrJF1VEfi >= u6NFt25)
 {
 if (((frB42g2r) || (AYrJF1VEfi <= -332254392)) || (uHTw65r & 722871795))
 {
-AYrJF1VEfi /= 1066206977;
+
 }
 else
 {
@@ -333,7 +333,7 @@ l9DUoITUum = Hbsur2(l9DUoITUum);
 i++;
 }
 }
-uHTw65r = (unsigned int)(TTmgmI4jL);
+
 return 0;
 }
 

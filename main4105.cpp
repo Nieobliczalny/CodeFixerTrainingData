@@ -588,7 +588,7 @@ A4_HW_ht /= 1510354073;
 
 for (int i = 0; i < 2; ++i)
 {
-c4Aa_Ky1 = (int)(LbYNfe4);
+
 }
 switch (lhSS844r)
 {
@@ -608,7 +608,7 @@ case 4:
 mKS07CR02 = (int)floor(U7a_znH86);
 break;
 case 5:
-tHyN05537s %= A4_HW_ht;
+
 break;
 case 6:
 mKS07CR02 = GcaFm1U5c2 << lhSS844r;
@@ -647,7 +647,7 @@ xLOmp = (int)ceil(mKS07CR02);
 while (i >= 0);
 }
 i6D_ = (unsigned short)(LbYNfe4);
-g7pUKPQD |= A4_HW_ht;
+
 
 switch (i6D_)
 {

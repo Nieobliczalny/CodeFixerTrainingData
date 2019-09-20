@@ -24,7 +24,7 @@ unsigned int    hW279V9AN7(unsigned long long    n1zV,unsigned int    D5X7J34K,u
 int main(void)
 {
 	char	lZzI28;
-	lZzI28	=	0;
+
  unsigned long long XuJ6, cDnkg42199, yJ4OV9k, z2he0q, c65K_g, C79H6, QWwOm3o, N80NtL, K_oY2, Oa9D_42q4, c4iJPW, J0c2, izr2aphF, TbCTzAm, a1HkN_, m25npuz, w0j_, cxNd_R, Fb52y_, nF0PTWyvc, YtPL, dhC37yg_, V3z3Rh, kCIC3q, rY42Yw, L_eKAloh, SrQZN7h9tH;
  XuJ6 = -874831742;
  cDnkg42199 = 418911343;
@@ -34,7 +34,7 @@ int main(void)
  C79H6 = 1225854289;
  QWwOm3o = 2014272838;
  N80NtL = 2056247995;
- K_oY2 = 735934547;
+
  Oa9D_42q4 = 1570545013;
  c4iJPW = -360723637;
  J0c2 = -914896416;
@@ -45,7 +45,7 @@ int main(void)
  w0j_ = -1456539129;
  cxNd_R = 2117117921;
  Fb52y_ = -347452693;
- nF0PTWyvc = -447423659;
+
  YtPL = -1617476316;
  dhC37yg_ = 1816751179;
  V3z3Rh = -450959102;
@@ -62,7 +62,7 @@ if (((yJ4OV9k > 1598009305) && (TbCTzAm < 1045541475)) || (izr2aphF > 641564205)
 {
 for (int k = 0; k < 10; ++k)
 {
-lZzI28 = a1zS(-501774609);
+
 }
 }
 else
@@ -83,7 +83,7 @@ std::cout << -1956921930 / a1zS(-1298132051) << std::endl;
 
 if ((kCIC3q < -423308589) && ((rY42Yw <= 214488511) && (Fb52y_ <= -220351096)))
 {
-kCIC3q = iJZmC(194212230, 11170557, -849532725, 1338879152);
+
 }
 return 0;
 }

@@ -18,7 +18,7 @@ short int    Nr8ZCdX(short    gB84SLbUc,short    m88hXDuzt,unsigned long    y71_
 
 int main() {
     long long    ti1vXpPV,    k4wQVu,    a2_e3iwe,    j6L_5272,    F9b9,    St0Hm3Cg,    tsmDdg,    a5_S8,    uiN477oRm,    zQ6h8,    o51J,    KRPS6,    g6mMo_mKj0,    oA6SO,    s3x_F,    p90wIF5tJ,    cD23g,    rrIbTgA,    u5Q_K2h,    cvsLI_c,    TlCkYx,    cj37gp,    Rp6B923nK,    pr6ul,    n4dBK8bV_r,    njb6n1,    H1Zp,    qK8tP,    t16O92p0cv,    B74_vr6,    wPH5,    l2j29F,    KuYc,    sV7a6wRn,    o7ikPnMHt;
-    ti1vXpPV    =    1101433277;
+
     k4wQVu    =    1717965239;
     a2_e3iwe    =    -1515020745;
     j6L_5272    =    2104154086;
@@ -55,7 +55,7 @@ int main() {
     o7ikPnMHt    =    2054095021;
     char    mA8xZ3,    E4kn9U7fNz,    aW3N71_eO0,    SXCHK;
     mA8xZ3    =    0;
-    E4kn9U7fNz    =    0;
+
     aW3N71_eO0    =    0;
     SXCHK    =    0;
 
@@ -140,7 +140,7 @@ mA8xZ3 = xY_eJfA(-130206350, 842687543, 622562906, tsmDdg);
 }
 else if (u5Q_K2h == -1620490811)
 {
-tsmDdg ^= 737870108;
+
 }
 else if (u5Q_K2h == TlCkYx)
 {
@@ -465,7 +465,7 @@ case 'c':
 o7ikPnMHt = Nr8ZCdX(-1681819560, 870133441, -2009002221);
 break;
 case 'd':
-Rp6B923nK += 1964280080;
+
 break;
 case 'e':
 j6L_5272 = Nr8ZCdX(2094325807, 1214587125, -711320974);
@@ -485,7 +485,7 @@ cj37gp &= 1690420355;
 break;
 case 'b':
 case 'B':
-Rp6B923nK = (F9b9 > qK8tP) ? qK8tP : -559925991;
+
 break;
 case 'c':
 case 'C':
@@ -501,7 +501,7 @@ g6mMo_mKj0 = (int)abs(o51J);
 break;
 case 'f':
 case 'F':
-ti1vXpPV <<= k4wQVu;
+
 break;
 case 'g':
 case 'G':
@@ -575,7 +575,7 @@ while (i >= 0);
 
 if (zQ6h8)
 {
-Rp6B923nK = (long long)(cvsLI_c);
+
 }
 else if ((sV7a6wRn == -1601076823) && ((rrIbTgA & -227640772) || (TlCkYx == H1Zp)))
 {
@@ -613,7 +613,7 @@ if (((p90wIF5tJ) || (cj37gp > -1754000679)) && (SXCHK < u5Q_K2h))
 switch (uiN477oRm)
 {
 case 0:
-sV7a6wRn = xY_eJfA(cD23g, KuYc, SXCHK, tsmDdg) % 1183379039;
+
 break;
 case 1:
 o51J = Nr8ZCdX(o51J, t16O92p0cv, l2j29F);
@@ -625,7 +625,7 @@ case 3:
 wPH5 = Nr8ZCdX(H1Zp, g6mMo_mKj0, 560414908) << 1613127453;
 break;
 case 4:
-s3x_F /= KuYc;
+
 break;
 case 5:
 F9b9 = Nr8ZCdX(-358448814, 1931513, 625379858);
@@ -640,7 +640,7 @@ case 8:
 o7ikPnMHt = Nr8ZCdX(o7ikPnMHt, -1604569168, 2024296547);
 break;
 case 9:
-B74_vr6 = (wPH5 == -716180037) ? 20312334 : B74_vr6;
+
 break;
 }
 }

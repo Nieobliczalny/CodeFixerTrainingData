@@ -37,7 +37,7 @@ int main(int argc, char** argv)
 
 try
 {
-Dk0N30R = (short int)(XJ3G);
+
 }
 catch (int& errorCode)
 {
@@ -47,7 +47,7 @@ t0KH >>= vw340Gfb;
 t0KH = -86184298 / rqNNK27;
 if (xba4a == fRN9fRB0G)
 {
-sj0od = (short int)(vw340Gfb);
+
 }
 else
 {
@@ -90,7 +90,7 @@ i--;
 }
 while (i >= 0);
 }
-rEsB6 = (short int)(pHwl07v);
+
 switch (xba4a)
 {
 case 'a':

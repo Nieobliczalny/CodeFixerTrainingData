@@ -58,7 +58,7 @@ TS090dDd ^= 1642614006;
 break;
 case 'b':
 case 'B':
-ZYF9IjGRq6 = FW_08 / FW_08;
+
 break;
 default:
 FW_08 = (TS090dDd > mKGmrx) ? IN8xfv10Tl(ARrrY1_, 1812197746) : mKGmrx;
@@ -154,7 +154,7 @@ case 0:
 ARrrY1_ = (int)ceil(FW_08);
 break;
 case 1:
-oys3X80 = mgm3();
+
 break;
 case 2:
 uqCLsz72v = (int)abs(oys3X80) + (813576061);
@@ -184,7 +184,7 @@ break;
 }
 else if (oys3X80 <= TVs0Y2)
 {
-oys3X80 = mgm3();
+
 }
 else if (((qbZA & -457490643) || (j772rGo >= mKGmrx)) && (qbZA & TS090dDd))
 {
@@ -303,7 +303,7 @@ std::cout << "N2343L" << ZYF9IjGRq6 << std::endl;
 }
 }
 
-ZYF9IjGRq6 = (unsigned char)(mKGmrx);
+
 ZYF9IjGRq6 = uqCLsz72v ^ 939481394;
 {
 int i = 0;

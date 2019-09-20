@@ -136,7 +136,7 @@ int main() {
 cout << m8_4_NW68L << endl;
 for (int i = 4; i >= 0; i--)
 {
-Biorx = (unsigned long)(cic9Kv);
+
 }
 
 CP9Pd8 = (int)ceil(P6Jw2vI2);
@@ -151,7 +151,7 @@ i--;
 
 if ((FekVN(ZB2bf2NM, oSKPOc) / ENQWKxBBu2) >= 688011387)
 {
-xc77Nq = n9RyRtzNp_ / m8_4_NW68L;
+
 }
 
 {
@@ -164,7 +164,7 @@ case 0:
 rTITM7 = (int)abs(P6Jw2vI2);
 break;
 case 1:
-yA0ua4E9G = (int)floor(ihx7U);
+
 break;
 }
 i--;
@@ -204,7 +204,7 @@ FjG31zZ = (int)floor(jo0OK7Y);
 int i = 0;
 do
 {
-AYFRG = (int)ceil(rTITM7);
+
 ++i;
 }
 while (i < 7);

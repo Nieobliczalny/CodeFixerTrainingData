@@ -45,7 +45,7 @@ int main() {
   ZD2zLCCm  =  526055822;
   w_df8_  =  1797350742;
   nxJV  =  -115160257;
-  YVJHU_W  =  -37226022;
+
   yM6Gxlt  =  -1728198890;
   qNUaf  =  1681950273;
   bBR7l  =  1999388784;
@@ -58,7 +58,7 @@ int main() {
   NP68U_  =  1826205665;
   FnZKwHs  =  -693356615;
   YFf6Mr  =  -1009546145;
-  if4_Ag  =  -1837368680;
+
   Q_t59HZ_9  =  2038679383;
   ZAOsd6  =  -1039974106;
   BuPBIy2S3W  =  -1709821087;
@@ -72,7 +72,7 @@ int main() {
   I8uVvP  =  -1993601690;
   BTu0  =  811131093;
   AvuGS  =  948953468;
-  rpmgp9Y4  =  457757718;
+
   P9603_qt_  =  -313471416;
   dg__w  =  -1637136993;
 
@@ -234,7 +234,7 @@ else if (ZD2zLCCm >= -230414339)
 switch (X928X)
 {
 case 0:
-Z8uY42 = Y4lNV3(BTu0, Z8uY42);
+
 break;
 case 1:
 bBR7l = XfM3VDou(bBR7l, BTu0, 730700402);
@@ -246,7 +246,7 @@ case 3:
 rpmgp9Y4 = (int)ceil(wBWAC);
 break;
 case 4:
-rpmgp9Y4 = (NP68U_ <= -96615461) ? 735688755 : Y4lNV3(ZAOsd6, 1206339468);
+
 break;
 default:
 jdrIg27BZ = XfM3VDou(jdrIg27BZ, -1692410055, -590298440);
@@ -273,7 +273,7 @@ int k = 0;
 while (k < 2)
 {
 k++;
-rpmgp9Y4 = (int)floor(Fz5Z5e4K);
+
 }
 }
 }
@@ -360,7 +360,7 @@ int k = 0;
 while (k < 3)
 {
 ++k;
-S_28xEi517 = (int)floor(CW0PkEr);
+
 }
 }
 }
@@ -404,7 +404,7 @@ std::cout << sR7b4A << "Q14rYb" << std::endl;
 --i;
 }
 }
-D9g_96po *= 2032951461;
+
 wQ6JKO3Kb = (int)floor(b3JPU4483K);
 sR7b4A = (float)(JL4FDq4hDB);
 
@@ -425,7 +425,7 @@ int i = 0;
 do
 {
 i++;
-dg__w = (float)(b3JPU4483K);
+
 }
 while (i < 6);
 }
@@ -439,7 +439,7 @@ std::cout << ie32rH59n << wM_Uizfbq << b3JPU4483K << "d34_UZ6h" << std::endl;
 
 if (oKwao)
 {
-j266WI_Z = (int)ceil(BuPBIy2S3W);
+
 }
 std::cout << "Det8O77C4" << Y4lNV3(wQ6JKO3Kb, xFZh) << X928X << XfM3VDou(249432228, -1432444992, YTW2) << std::endl;
 
@@ -458,7 +458,7 @@ for (int j = 7; j >= 0; j--)
 {
 if (ZD2zLCCm <= 167531868)
 {
-jdrIg27BZ = Q_t59HZ_9 / 678647851;
+
 }
 else if (X928X != -559876450)
 {
@@ -480,7 +480,7 @@ for (int j = 0; j < 2; j++)
 {
 for (int k = 0; k < 5; ++k)
 {
-Z8uY42 = Y4lNV3(BTu0, 9748012);
+
 }
 }
 }

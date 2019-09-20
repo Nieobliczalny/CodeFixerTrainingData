@@ -51,7 +51,7 @@ int main() {
  unsigned short O_61;
  O_61 = 1886085962;
     float    LM591G;
-    LM591G    =    513492514;
+
   unsigned char  UGDc;
   UGDc  =  -1918482809;
 	long long	cJf0;
@@ -170,7 +170,7 @@ UGDc >>= 1795570315;
 
 if (TYj8Q7d3V == 0)
 {
-	qlA_3y = Ffrs4 / TYj8Q7d3V;
+
 }
 qlA_3y = dr__912v(-1323876399, 1129114627);
 
@@ -366,7 +366,7 @@ break;
 while (i < 6);
 }
 
-LM591G /= 881521421;
+
 
 if ((UGDc >= w9AnA) && (UGDc & i__U8n))
 {

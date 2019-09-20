@@ -103,7 +103,7 @@ if (tClKu1bThM != c3GI9)
 {
 if ((p38u != 893281242) || ((YMgep5) && (Ep7Xme90k5)))
 {
-r0SG9NU3Bl = (int)floor(i228);
+
 }
 }
 else
@@ -133,7 +133,7 @@ for (int j = 6; j >= 0; j--)
 int k = 5;
 do
 {
-A7S4Q = (int)abs(tZ_i);
+
 k--;
 }
 while (k >= 0);
@@ -146,7 +146,7 @@ for (int i = 0; i < 3; i++)
 {
 kDW3zb *= 2014812549;
 }
-AZ5Wn5kwS = (int)floor(kDW3zb);
+
 {
 int i = 3;
 do
@@ -167,7 +167,7 @@ while (i >= 0);
 switch (DMw9Q57bYX)
 {
 case 'a':
-tZ_i = (int)abs(uzO3d3W3n);
+
 break;
 case 'b':
 kDW3zb = (int)abs(bg51_DpA8);
@@ -179,7 +179,7 @@ case 'd':
 V_I6z2 -= mig3qDp;
 break;
 case 'e':
-kDW3zb = (int)ceil(sB265e);
+
 break;
 default:
 tZ_i = (int)floor(kDW3zb);
@@ -195,7 +195,7 @@ case 0:
 b7Vg = m7MZ6I | 1884876981;
 break;
 case 1:
-tZ_i = (int)abs(EggBd4_g);
+
 break;
 case 2:
 ab3fr = YXd7E3fmM5 - 414786444;

@@ -36,7 +36,7 @@ long    cUGm3U6Sbv()
 
 int main() {
  unsigned char fm_PI6KF6;
- fm_PI6KF6 = 1740925866;
+
 	unsigned int	L8dme3qh1O;
 	L8dme3qh1O	=	0;
   unsigned char  C6MT_EePL6;
@@ -52,7 +52,7 @@ int main() {
  float WZPE8;
  WZPE8 = -745728348;
 	long long	h10_eGB8uD;
-	h10_eGB8uD	=	289055309;
+
     unsigned short    wxn29rBzLA;
     wxn29rBzLA    =    1004575235;
     unsigned long    PZz9;
@@ -203,7 +203,7 @@ NG2z_h = (int)ceil(jCrG6U_);
 break;
 case 'b':
 case 'B':
-jCrG6U_ = (int)ceil(Y5Pa7GJ96H);
+
 break;
 case 'c':
 case 'C':
@@ -232,7 +232,7 @@ break;
 
 for (int i = 0; i < 1; i++)
 {
-jCrG6U_ = (int)ceil(Es9ILT9v);
+
 }
 {
 int i = 3;
@@ -319,7 +319,7 @@ XtkM45A2o = (int)floor(NG2z_h);
 switch (G1KlOb)
 {
 case 0:
-HV115 = nlqtR7 >> kA8cfJX0;
+
 break;
 case 1:
 k97V = cUGm3U6Sbv();
@@ -331,7 +331,7 @@ case 3:
 YV9ULH104 |= PZz9;
 break;
 case 4:
-lt8Qb_UWx >>= 1065139646;
+
 break;
 case 5:
 Es9ILT9v = paUmC86bP(-684508930, 800119641);
@@ -344,7 +344,7 @@ if ((wxn29rBzLA == Es9ILT9v) || ((L8dme3qh1O >= k838) && (L8dme3qh1O == 52239296
 {
 for (int k = 0; k < 3; k++)
 {
-ntJ0ZEXE_ = (int)floor(XtkM45A2o);
+
 }
 }
 else if (((L8dme3qh1O >= ouoF8ZcHx) || (zYQ6JX == k838)) && (ouoF8ZcHx == -974055017))
@@ -362,7 +362,7 @@ else if (XtkM45A2o < t2_1cYI_)
 {
 if (LW9VT & L8dme3qh1O)
 {
-V4_pWk_1jP = Er0VXUPv7D(-458417157, f8f2Y5O9, -744559103, 9167610);
+
 }
 else if ((nlqtR7) && (XtkM45A2o > -348651085))
 {
@@ -379,7 +379,7 @@ WZPE8 = (int)ceil(zYQ6JX);
 }
 else if (NG2z_h <= 1427951802)
 {
-jCrG6U_ = (int)floor(XtkM45A2o);
+
 }
 else if ((wxn29rBzLA) || (QQ70t != -1588204068))
 {
@@ -389,7 +389,7 @@ WZPE8 = (int)ceil(ntJ0ZEXE_);
 }
 else if (i15w <= BSBxybD8Jb)
 {
-ntJ0ZEXE_ = (int)ceil(Y5Pa7GJ96H);
+
 }
 else if ((iS_xY9Yah > 1377332100) || (XtkM45A2o < -1774605129))
 {
@@ -406,7 +406,7 @@ Es9ILT9v = (int)abs(G1KlOb);
 }
 else if ((f5MvlKR6k == wxn29rBzLA) || (YV9ULH104 == 1645469532))
 {
-ouoF8ZcHx = paUmC86bP(1971439284, 1277934429);
+
 }
 else
 {
@@ -418,7 +418,7 @@ whsd4305_p <<= 1170359019;
 }
 else if ((Es9ILT9v == BSBxybD8Jb) && (L8dme3qh1O >= BSBxybD8Jb))
 {
-lt8Qb_UWx = (unsigned int)(k97V);
+
 }
 else
 {
@@ -431,7 +431,7 @@ int k = 10;
 while (k >= 0)
 {
 --k;
-L8dme3qh1O = N3W3(-445997088);
+
 }
 }
 j--;
@@ -442,7 +442,7 @@ while (j >= 0);
 
 for (int i = 10; i >= 0; --i)
 {
-L8dme3qh1O = N3W3(-244799198);
+
 }
 return 0;
 }

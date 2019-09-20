@@ -53,7 +53,7 @@ int main()
 	unsigned short	h9vM18a2rH;
 	h9vM18a2rH	=	-1608113591;
 	unsigned short	zTpN56;
-	zTpN56	=	0;
+
     unsigned short    BToc4FS1;
     BToc4FS1    =    1084266543;
     long long    I6iZiwA;
@@ -492,7 +492,7 @@ else if ((Vol0WeUmp > -715650263) && (w0z9sELmO))
 {
 if (ubeR6OmNlw != CX0qDanKZp)
 {
-ie32D31 = FeVLNe();
+
 }
 else
 {
@@ -507,7 +507,7 @@ h9vM18a2rH += 1033408356;
 }
 else
 {
-yDdnSoI ^= x4E9J1;
+
 }
 }
 else
@@ -527,7 +527,7 @@ else if ((i_H33j_8fD) || (ie32D31 & -1446477857))
 switch (aigp5)
 {
 case 'a':
-XO_IX5 = hY707B7(1803450589, XO_IX5, ie32D31, V0z07SvP, eywns22);
+
 break;
 case 'b':
 F6SaLZ = h9vM18a2rH ^ 537379830;
@@ -542,7 +542,7 @@ case 'e':
 L61fk %= pcTdxM35;
 break;
 case 'f':
-F6SaLZ = T5Nuf_ >> 317272885;
+
 break;
 case 'g':
 ie32D31 = FeVLNe();
@@ -622,7 +622,7 @@ if (RV7a4h40 == vX8Hs8bLG)
 {
 for (int j = 0; j < 5; j++)
 {
-viILIb7x = FeVLNe();
+
 }
 }
 else if (((w0z9sELmO == LF43AUtxW) || (T5Nuf_ >= -1896180439)) || (w0z9sELmO == BToc4FS1))
@@ -636,7 +636,7 @@ case 1:
 aigp5 = (int)abs(V0z07SvP);
 break;
 case 2:
-Dzg3m = FeVLNe();
+
 break;
 case 3:
 LF43AUtxW = OL5N7u | ubeR6OmNlw;
@@ -651,7 +651,7 @@ case 6:
 XaNOrlWJ = (int)ceil(eywns22);
 break;
 case 7:
-UdLz = (int)ceil(LF43AUtxW);
+
 break;
 case 8:
 UdLz = (int)floor(V0z07SvP);
@@ -678,7 +678,7 @@ for (int j = 5; j >= 0; --j)
 {
 try
 {
-L61fk = Ox0M(842497645);
+
 }
 catch (int& errorCode)
 {

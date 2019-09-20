@@ -23,7 +23,7 @@ int main(void) {
  long long IxWu16H0;
  IxWu16H0 = 0;
     unsigned long    Z83DAp;
-    Z83DAp    =    577172321;
+
 	short	K4YZ;
 	K4YZ	=	-390289310;
 	short int	e3Aqne24;
@@ -41,7 +41,7 @@ int main(void) {
   unsigned long long  IQwv7eLh5i;
   IQwv7eLh5i  =  578975832;
  unsigned char A5Z3YQQ;
- A5Z3YQQ = 0;
+
 
 for (int i = 0; i < 9; i++)
 {
@@ -100,7 +100,7 @@ case 3:
 Z102uvaWC = G606yw2Ly(Z102uvaWC, -950433142, 186856317, 282011759);
 break;
 case 4:
-IQwv7eLh5i = u_zU | 633588726;
+
 break;
 case 5:
 Z83DAp = (e3Aqne24) ? Y4ph5l : 1529227925;
@@ -122,7 +122,7 @@ Z102uvaWC = G606yw2Ly(1941362305, 1430312702, 1977612493, Z102uvaWC);
 }
 }
 }
-e3Aqne24 = G606yw2Ly(e3Aqne24, 1465653092, 662094926, K4YZ);
+
 
 CPT8emm_R = W30z & K4YZ;
 

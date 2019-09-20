@@ -184,7 +184,7 @@ switch (F1Gsdpvq)
 {
 case 'a':
 case 'A':
-SFaksn0n5 = a4F3Lx85S();
+
 break;
 }
 
@@ -325,7 +325,7 @@ case 'd':
 B98jw9X = (int)abs(roa3PR);
 break;
 case 'e':
-QZ7GL_W_ = (int)abs(B98jw9X) * 0;
+
 break;
 case 'f':
 Ux8ci = ZrcDv * 951145688;
@@ -346,7 +346,7 @@ f2g5WmK = FvIQXQ(f2g5WmK, -220494958, 1709263512);
 break;
 case 'b':
 case 'B':
-PCSgr1bYr0 = yKS3E8Mj4 ^ 1508316505;
+
 break;
 case 'c':
 case 'C':
@@ -365,7 +365,7 @@ case 'F':
 GFzxowN3 = SB9g9FH(GFzxowN3, 1761166179, B2p92, -1928519090, B98jw9X);
 break;
 default:
-roa3PR = (int)ceil(NOqo4HQRh);
+
 break;
 }
 {
@@ -398,7 +398,7 @@ case 5:
 f2g5WmK = (int)ceil(B8w4K0);
 break;
 case 6:
-SFaksn0n5 <<= 793644182;
+
 break;
 default:
 IPhk = (int)abs(do9sp0);

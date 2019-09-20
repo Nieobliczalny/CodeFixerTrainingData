@@ -356,7 +356,7 @@ while (j >= 0);
 }
 else if (R5_G > 1052043818)
 {
-VhKH2M = (int)floor(q_4ffz);
+
 }
 else
 {
@@ -400,7 +400,7 @@ case 4:
 KFxGl3_o = iYmIOs4z(-159698273, Z_d6fS9RT);
 break;
 case 5:
-F1mkIW = (int)floor(q_4ffz);
+
 break;
 case 6:
 Z_d6fS9RT = Zvv66l94j8(-100458949, R5_G, -956490833, -1177644713, fk_VX);
@@ -446,7 +446,7 @@ PP__C0OI2H = D5iBOIE(PP__C0OI2H);
 }
 else if (Z_d6fS9RT >= 1388037565)
 {
-VhKH2M = oNT2d608 | l79X51951P;
+
 }
 else
 {
@@ -463,7 +463,7 @@ while (i >= 0);
 cout << "Ap02VG" << jlUr8ho << QE4Tao9 << endl;
 try
 {
-oNT2d608 = (unsigned long)(fk_VX);
+
 }
 catch (int& errorCode)
 {

@@ -257,7 +257,7 @@ M5YOWC = V3z7uxXVi - 1467544869;
 switch (N95I)
 {
 case 0:
-cYb61 = FX4DDl780g << 1608928046;
+
 break;
 case 1:
 WTm4 = Im2c_7mN & HLp3Ff2;
@@ -284,7 +284,7 @@ int j = 0;
 do
 {
 j++;
-cYb61 = z1gJ / 1123250897;
+
 }
 while (j < 5);
 }
@@ -298,7 +298,7 @@ case 1:
 N95I = V95H_Rg ^ nO__0kQ;
 break;
 case 2:
-wr418FeP = (V95H_Rg) ? N95I : Ncjwk2;
+
 break;
 case 3:
 FX4DDl780g <<= ua3_m9y;
@@ -310,7 +310,7 @@ case 5:
 WTm4 >>= 2051769977;
 break;
 case 6:
-Ncjwk2 = (int)abs(M5YOWC) * 0;
+
 break;
 }
 if (ua3_m9y != WTm4)
@@ -330,7 +330,7 @@ case 'd':
 V95H_Rg &= 1967909523;
 break;
 case 'e':
-NNqL06Cd = M5YOWC % 932870294;
+
 break;
 }
 }

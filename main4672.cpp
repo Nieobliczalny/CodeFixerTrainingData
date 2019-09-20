@@ -178,7 +178,7 @@ case 4:
 a1RX8t_x *= 43173302;
 break;
 case 5:
-YFlO_V_ = dbsuj ^ a1RX8t_x;
+
 break;
 case 6:
 uAM_dc = (int)floor(aOaxA8);
@@ -524,7 +524,7 @@ uAM_dc = ZMPm3Dp37F(1951695105, aOaxA8, 1962821924, YFlO_V_) ^ jtazdis;
 break;
 }
 a1RX8t_x = w64s_6Cr / pMIXT4_1q;
-YFlO_V_ = (unsigned short int)(g8_n6);
+
 
 fMxQfN = (int)ceil(dr9NE_);
 if (a1RX8t_x == 1807200725)
@@ -597,7 +597,7 @@ g8_n6 = fDL_A_1p14();
 }
 else
 {
-ts8H = ZMPm3Dp37F(g8_n6, -2103257030, -2109723720, fSQlRBx1) | 454101308;
+
 }
 }
 }
@@ -619,7 +619,7 @@ pMIXT4_1q = ZMPm3Dp37F(1107503438, 294582788, -667726354, -2026606278);
 
 std::cout << ggqD34G68i << s8FkZybM << "N7Lmc_y" << "i3Mvk35" << std::endl;
 
-ts8H = (int)abs(L1_E14IPLC);
+
 
 return 0;
 }

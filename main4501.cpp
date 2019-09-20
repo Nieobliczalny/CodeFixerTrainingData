@@ -30,7 +30,7 @@ int main(void) {
     C7Ztuti0BK    =    115742361;
     NBJgGIJAO    =    -503150408;
     aV58a    =    -1818997118;
-    en5Syp    =    -1988748368;
+
     IomGv    =    -1147824676;
     d_iTf    =    -415358146;
     T6nS5guM_    =    -1703949144;
@@ -111,7 +111,7 @@ do
 j++;
 if (yy2Xh1e > 1784497378)
 {
-Zo2uE4O = MX33zc(973575502, NBJgGIJAO, 1184791223, LQb6_DJj7);
+
 }
 }
 while (j < 3);
@@ -358,7 +358,7 @@ while (k < 10);
 }
 else
 {
-Zo2uE4O &= 946393582;
+
 }
 }
 else
@@ -431,7 +431,7 @@ cout << rGs_YDiHYQ << MX33zc(ELc1n8x, yy2Xh1e, 982916145, -981572060) << Hx_75QW
 }
 else
 {
-lHL2ZX_ = (unsigned int)(yy2Xh1e);
+
 }
 }
 return 0;

@@ -77,7 +77,7 @@ while (i >= 0)
 switch (p_RUV)
 {
 case 0:
-U73lOyN_ = (int)abs(pb8a2D);
+
 break;
 case 1:
 e2tP7a %= 32580117;
@@ -89,7 +89,7 @@ case 3:
 YWM7 >>= GgxaV5cE;
 break;
 case 4:
-fialLEw_ = e1Do << 1401636560;
+
 break;
 case 5:
 E6ML_b = (int)floor(pb8a2D);
@@ -123,7 +123,7 @@ while (k < 7);
 }
 }
 }
-F6N_h = t7Pa(dk2eq_8, -1588671823, E6ML_b, -1222790831, 749664301) / iD828T;
+
 switch (iD828T)
 {
 case 0:
@@ -133,7 +133,7 @@ case 1:
 pb8a2D = t928(pb8a2D, -918462132);
 break;
 default:
-n5_18DSEJ >>= J9g48g92IW;
+
 break;
 }
 
@@ -146,7 +146,7 @@ int i = 0;
 while (i < 5)
 {
 i++;
-p_RUV = (unsigned short)(sphe);
+
 }
 }
 switch (sN909q)

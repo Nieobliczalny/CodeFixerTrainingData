@@ -16,7 +16,7 @@ int main()
  Ruk0q3M9 = 0;
 	char	JX2C_Z_SKx,	Qp_loZkn6,	oWJjD,	jEiQ,	Ka_0W1Ptt,	w3MX8,	c_nZaw;
 	JX2C_Z_SKx	=	-1818092924;
-	Qp_loZkn6	=	-1298248534;
+
 	oWJjD	=	12652588;
 	jEiQ	=	-1903946345;
 	Ka_0W1Ptt	=	1681317633;
@@ -65,7 +65,7 @@ try
 {
 for (int k = 1; k >= 0; --k)
 {
-w3MX8 = U4FsH % 90369558;
+
 }
 }
 catch (int& errorCode)
@@ -75,7 +75,7 @@ Ka_0W1Ptt /= Ka_0W1Ptt;
 }
 }
 
-JX2C_Z_SKx = (int)abs(Ka_0W1Ptt);
+
 
 w3MX8 = Ka_0W1Ptt & c_nZaw;
 Ka_0W1Ptt = c_nZaw / g9a5A9;

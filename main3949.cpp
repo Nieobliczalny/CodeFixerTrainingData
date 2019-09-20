@@ -531,7 +531,7 @@ case 2:
 f8_cPlmG4t = (int)abs(D24jDIZ);
 break;
 case 3:
-A1162 = VFJ2aF1b();
+
 break;
 case 4:
 Uq1CN8 = VFJ2aF1b();
@@ -546,7 +546,7 @@ case 7:
 SR1xLEVqe++;
 break;
 default:
-s_06k13p6 = DE9G75(s_06k13p6, D6Jj476aK, 1140218050, D24jDIZ, o3E7co96Wb);
+
 break;
 }
 }

@@ -20,7 +20,7 @@ int main(int argc, char** argv)
     ej4b2vC_w    =    -825223040;
     s5_n    =    162298957;
     DkJC    =    -141257608;
-    M8BJw    =    86012404;
+
     Nx08rU667n    =    -2143363963;
     lkn1PieF_T    =    -925896063;
     M_Ea33    =    -992806179;
@@ -36,7 +36,7 @@ int main(int argc, char** argv)
     N8M5Yi8    =    502841367;
     o23U0wV8    =    -46469574;
     Og0s    =    -1120783405;
-    iRt7    =    -1304346130;
+
     kAO5He    =    -2145635633;
     usfr    =    -1371175666;
     Wr09Up8_    =    716179590;
@@ -51,7 +51,7 @@ int main(int argc, char** argv)
     WYNQ    =    1866117708;
     G14hWWF    =    -1390336224;
     sCDCy    =    533964703;
-    G34_A70_Pp    =    -980409750;
+
     fwp__G_3z    =    1088540635;
     gR0GIT    =    -1775200451;
     fj8E4Ay    =    -1478155853;
@@ -177,7 +177,7 @@ case 3:
 D4snPH7U1 = nZS8CJ * 745882493;
 break;
 case 4:
-FTB6Nq4Ai = (int)abs(A5OHRQ0);
+
 break;
 case 5:
 O1_2lKm = lxOoQBpY(-212163518, 2064284462, -1695978687);
@@ -195,7 +195,7 @@ for (int i = 0; i < 10; i++)
 {
 cout << lxOoQBpY(O1_2lKm, -1251583379, lkn1PieF_T) << endl;
 }
-gR0GIT = (long long)(s5_n);
+
 
 for (int i = 0; i < 9; ++i)
 {
@@ -273,7 +273,7 @@ else if (A5OHRQ0 == t4I58Kfag)
 switch (Wr09Up8_)
 {
 case 0:
-G34_A70_Pp = WYNQ & 949081132;
+
 break;
 case 1:
 gh1j = (int)abs(tu3SSbC);
@@ -297,7 +297,7 @@ break;
 }
 else if (t4I58Kfag & 882634196)
 {
-G14hWWF = (long long)(mLaMd);
+
 }
 else if (N8M5Yi8 < -1524938759)
 {
@@ -310,7 +310,7 @@ Q5dQIv4yWW = lxOoQBpY(Q5dQIv4yWW, 145256592, -522922044);
 }
 else if ((o23U0wV8 < SDSvz04) && (s5_n == 1920458659))
 {
-G14hWWF = (long long)(tu3SSbC);
+
 }
 else if (nZS8CJ == -1498792482)
 {
@@ -337,7 +337,7 @@ int k = 0;
 do
 {
 ++k;
-ej4b2vC_w = lxOoQBpY(1879828261, -1528064122, g7_21uT2Pg);
+
 }
 while (k < 1);
 }
@@ -359,7 +359,7 @@ case 0:
 fwp__G_3z = (int)abs(sCDCy);
 break;
 case 1:
-R_NrEEnmJ9 = fwp__G_3z | 1045861209;
+
 break;
 case 2:
 A5OHRQ0 >>= D61Gxka;
@@ -375,7 +375,7 @@ while (i < 2);
 switch (A5OHRQ0)
 {
 case 0:
-UT79v7i2w = E079v(1614112358, UT79v7i2w, O1_2lKm);
+
 break;
 case 1:
 DkJC = lxOoQBpY(DkJC, dV77N_, A5OHRQ0);
@@ -393,7 +393,7 @@ do
 {
 if ((pO1r2OLuw < -1853527631) && (iRt7 < -1255483014))
 {
-UT79v7i2w = E079v(Wr09Up8_, fwp__G_3z, tu3SSbC);
+
 }
 else
 {

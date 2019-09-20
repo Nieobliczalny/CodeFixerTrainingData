@@ -45,7 +45,7 @@ int main(int argc, char** argv)
     char    bpjg4;
     bpjg4    =    0;
   unsigned short  L21C58NlK;
-  L21C58NlK  =  1491744436;
+
   unsigned short int  R_kIfGJ;
   R_kIfGJ  =  0;
  unsigned short int UYPS;
@@ -55,7 +55,7 @@ int main(int argc, char** argv)
   unsigned short  sVniY_;
   sVniY_  =  297805513;
  float pir72TI;
- pir72TI = 1707114115;
+
 	unsigned int	u07Z2u0X;
 	u07Z2u0X	=	-2122642446;
  unsigned long long XL5nT;
@@ -74,7 +74,7 @@ case 0:
 UYPS = zWG8sw7j / 1825423488;
 break;
 case 1:
-U_65 = n_tm4NR3(U_65, -1778256588);
+
 break;
 case 2:
 TLpVf94 = u07Z2u0X - 1950609254;
@@ -161,7 +161,7 @@ int j = 0;
 do
 {
 j++;
-pir72TI = (float)(zWG8sw7j + (-1620343174));
+
 }
 while (j < 1);
 }
@@ -392,7 +392,7 @@ if (u07Z2u0X < U_65)
 {
 if (U_65)
 {
-f7R4e539OA = zWG8sw7j | TLpVf94;
+
 }
 else
 {
@@ -473,7 +473,7 @@ XL5nT = (unsigned long long)(R_kIfGJ);
 }
 else if (L21C58NlK != yD2Dv)
 {
-bLIg = (unsigned long long)(zWG8sw7j + (-1658303659));
+
 }
 else if (bLIg != XL5nT)
 {
@@ -490,7 +490,7 @@ else if (sVniY_ < zWG8sw7j)
 {
 if (yD2Dv == -247345643)
 {
-R_kIfGJ = I3_U374B();
+
 }
 else
 {
@@ -547,7 +547,7 @@ pir72TI = DJiUiO_b(205442518);
 break;
 case 'b':
 case 'B':
-U_65 <<= 71864729;
+
 break;
 case 'c':
 case 'C':
@@ -582,7 +582,7 @@ if (f7R4e539OA < -2089900924)
 switch (sVniY_)
 {
 case 0:
-U_65 = yD2Dv / 877986872;
+
 break;
 case 1:
 UYPS = n_tm4NR3(1796171722, UYPS);

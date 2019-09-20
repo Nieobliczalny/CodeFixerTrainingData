@@ -68,7 +68,7 @@ int main(void)
     short    KA2eF4Y;
     KA2eF4Y    =    1942800593;
 	unsigned int	L2v1K3;
-	L2v1K3	=	-1839991458;
+
   short  i8WbKjA7;
   i8WbKjA7  =  -216599393;
 	short	l2erZ2We;
@@ -242,7 +242,7 @@ case 3:
 S0Nuczgi5 = (int)ceil(ymRmHa2QQg);
 break;
 case 4:
-eYE7WAhpQ = ovSXH0 | KA2eF4Y;
+
 break;
 case 5:
 L2v1K3 = K4TLbm(Wh3HL_3Gfm, OA8P3, KmLRcd9_5N, uqh3fsMrhM) / vL6X;
@@ -326,7 +326,7 @@ if (Bbw95(g032) == 0)
 
 if ((eWwL & 1323680432) && (T6nsCk7k76 == 1866254288))
 {
-Wh3HL_3Gfm = P87UaHKfW(Wh3HL_3Gfm, 114391425, 2123127117);
+
 }
 else
 {
@@ -341,7 +341,7 @@ HV8w5 = (int)abs(svEFnm73O);
 }
 if (l2erZ2We > -649120183)
 {
-y2dB1 |= 1904635134;
+
 }
 switch (jA_UF_B)
 {
@@ -351,7 +351,7 @@ c153b5w = Bbw95(-382740508);
 break;
 case 'b':
 case 'B':
-gY_G86EG7S = FGGeY4o - 1029178435;
+
 break;
 case 'c':
 case 'C':
@@ -363,7 +363,7 @@ OA8P3 %= 995946491;
 break;
 case 'e':
 case 'E':
-l2erZ2We = On59s();
+
 break;
 case 'f':
 case 'F':

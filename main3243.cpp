@@ -16,7 +16,8 @@ unsigned short d1a013(short int ZJD2h7U2K7,int U2w43v5UW,short lE071820HU);
 
 int main(void) {
   float  iZXU,  uX301Ihs,  WYKq9k,  J_636hjxM,  tpb7eauw,  ZYkc,  aEACi,  WRLb8q_f,  t37t,  pwX5aI3V,  Ra6sM3,  x7_p,  L8SSmf3450,  y4a715,  p0LGqTk08,  bD41xQu7_c,  wJ7VkDo,  u5Pp,  S10RO,  l_GB6Xj,  NrMwFHbB7e;
-    iZXU  =  uX301Ihs  =  WYKq9k  =  J_636hjxM  =  tpb7eauw  =  ZYkc  =  aEACi  =  WRLb8q_f  =  t37t  =  pwX5aI3V  =  Ra6sM3  =  x7_p  =  L8SSmf3450  =  y4a715  =  p0LGqTk08  =  bD41xQu7_c  =  wJ7VkDo  =  u5Pp  =  S10RO  =  l_GB6Xj  =  NrMwFHbB7e  =  1603817653;
+    // codechecker_intentional [deadcode.DeadStores] Design rule - initialize all variables
+	iZXU  =  uX301Ihs  =  WYKq9k  =  J_636hjxM  =  tpb7eauw  =  ZYkc  =  aEACi  =  WRLb8q_f  =  t37t  =  pwX5aI3V  =  Ra6sM3  =  x7_p  =  L8SSmf3450  =  y4a715  =  p0LGqTk08  =  bD41xQu7_c  =  wJ7VkDo  =  u5Pp  =  S10RO  =  l_GB6Xj  =  NrMwFHbB7e  =  1603817653;
 	char	N2P33RX,	bY69EZZ,	W785X;
 		N2P33RX	=	bY69EZZ	=	W785X	=	0;
 

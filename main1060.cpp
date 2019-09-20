@@ -248,7 +248,7 @@ LC29 = (int)floor(T5pnwheK);
 break;
 case 'd':
 case 'D':
-iqz9Z = aq4T895 % r85_;
+
 break;
 case 'e':
 case 'E':
@@ -285,7 +285,7 @@ tuYlqfDxh = UWGnyu ^ Bvjea;
 }
 else if (r85_)
 {
-iqz9Z ^= XL6EG528;
+
 }
 else
 {
@@ -410,7 +410,7 @@ case 0:
 PfQX3 |= Jj_fh2J6Q4;
 break;
 case 1:
-kB_b4dC = P50h8 ^ NWV0Z;
+
 break;
 case 2:
 Jj_fh2J6Q4 >>= XL6EG528;
@@ -483,7 +483,7 @@ break;
 }
 try
 {
-pWO1g = (int)ceil(P8TA);
+
 }
 catch (int& errorCode)
 {

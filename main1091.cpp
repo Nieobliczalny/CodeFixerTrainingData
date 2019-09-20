@@ -29,7 +29,7 @@ int main()
 switch (D0JT0gz0)
 {
 case 0:
-O6O1 = lr71n * ZK1b;
+
 break;
 case 1:
 YYmqan = (tYkEG != -1278819763) ? uZPH2X : -1030549280;
@@ -155,7 +155,7 @@ if (x1GLq > lr71n)
 {
 if (L3X_K)
 {
-Ak3Osp__ = (p59Z) ? sxtTIa__Cq : Sr2OKYM;
+
 }
 }
 else if (D0JT0gz0 & 950989200)
@@ -181,7 +181,7 @@ case 'a':
 WYddobFX = (E526N) ? Q51tlDa(-224909243, YYmqan, 355131574, D0JT0gz0) : -900718400;
 break;
 case 'b':
-O6O1 = (int)floor(p6aP);
+
 break;
 case 'c':
 s78H8_aI50 = (int)ceil(WyJ1i6z);
@@ -193,7 +193,7 @@ case 'e':
 D0JT0gz0 = Z59cAi78(-1262461215);
 break;
 case 'f':
-Ak3Osp__ = (C_b6LWZ) ? Sr2OKYM : Z59cAi78(sxtTIa__Cq);
+
 break;
 case 'g':
 HIzYl = (int)abs(TtNq);
@@ -283,7 +283,7 @@ case 4:
 WyJ1i6z -= Sr2OKYM;
 break;
 case 5:
-O6O1 = (int)ceil(C_b6LWZ);
+
 break;
 case 6:
 knPawyoAl = (int)floor(p6aP);
@@ -307,7 +307,7 @@ if (Fj2RgAXf4 != TtNq)
 switch (D0JT0gz0)
 {
 case 0:
-C_b6LWZ = (int)abs(p59Z);
+
 break;
 case 1:
 W_7_iq_4 = (int)floor(Fgi48N);
@@ -334,7 +334,7 @@ for (int i = 10; i >= 0; --i)
 {
 for (int j = 0; j < 5; j++)
 {
-O6O1 = (double)(vcjIXL9U);
+
 }
 }
 
@@ -352,7 +352,7 @@ HIzYl = s78H8_aI50 - E52870;
 }
 else if (D0JT0gz0 & 1081107325)
 {
-Ak3Osp__ = (int)abs(kG188);
+
 }
 else if (W_7_iq_4 >= -326603076)
 {
@@ -373,7 +373,7 @@ L3X_K -= p59Z;
 
 TtNq = (double)(x1GLq);
 
-CRp5fksg = (int)ceil(Fgi48N);
+
 for (int i = 2; i >= 0; --i)
 {
 for (int j = 8; j >= 0; --j)
@@ -391,7 +391,7 @@ D0JT0gz0 = Z59cAi78(Fgi48N);
 
 if (W_7_iq_4 > 709991056)
 {
-C_b6LWZ = (double)(p59Z);
+
 }
 if (tAQOT_IA != W_7_iq_4)
 {
@@ -401,7 +401,7 @@ case 0:
 Sr2OKYM -= 1311398144;
 break;
 case 1:
-p59Z = (int)floor(lr71n);
+
 break;
 case 2:
 D0JT0gz0 = Z59cAi78(WyJ1i6z);
@@ -433,7 +433,7 @@ if ((u5291_ != -1243649424) || (L3X_K <= 1330250289))
 {
 if (Fgi48N < -2081226688)
 {
-sxtTIa__Cq = (int)ceil(lr71n);
+
 }
 else
 {
@@ -445,7 +445,7 @@ else if ((WYddobFX > 135772799) || (D0JT0gz0 & -274285163))
 {
 if (E52870 < WyJ1i6z)
 {
-C_b6LWZ = (double)(tAQOT_IA);
+
 }
 }
 else if (D0JT0gz0 & 788846744)
@@ -487,7 +487,7 @@ case 'b':
 D0JT0gz0 = Z59cAi78(-1920423703);
 break;
 case 'c':
-p6aP = (int)ceil(u5291_);
+
 break;
 case 'd':
 tYkEG = Fj2RgAXf4 - 505797438;

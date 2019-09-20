@@ -16,7 +16,7 @@ int main()
 	hTXB0r	=	1266855855;
 	TMx7o0	=	-1865710141;
 	enTx1R	=	1235402892;
-	Q_6tKu7Fl	=	215972398;
+
 	gX7wQKxk	=	1396343861;
 	itAu847	=	-1744161011;
 	short int	BK0p,	dId6E6,	Ot8518mGzB;
@@ -345,7 +345,7 @@ TMx7o0 -= 653846072;
 
 if (tkBqq != 182165622)
 {
-itAu847 %= 1694246050;
+
 }
 else if ((gX7wQKxk <= 1644532796) && (enTx1R >= -475542743))
 {
@@ -461,7 +461,7 @@ hTXB0r = (unsigned char)(TMx7o0);
 switch (S2KKvb)
 {
 case 0:
-S2KKvb -= 404642290;
+
 break;
 }
 return 0;

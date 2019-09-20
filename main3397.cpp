@@ -529,7 +529,7 @@ while (i >= 0);
 p7C49 = (long long)(iWVx2H * p7C49);
 if (gb_2M5ztJ == -716289337)
 {
-mUXSXZ = yqcdYx();
+
 }
 else if (N039Pv4 <= -1328410920)
 {
@@ -561,7 +561,7 @@ N88SA = N039Pv4 % 96420269;
 }
 }
 
-I6cIqui = (unsigned int)(N88SA);
+
 
 if (g1w5e06R_9 != IOWq2hl5Kt)
 {
@@ -602,7 +602,7 @@ case 0:
 p7C49 = rsQ8Z(808481285, c8h8, 624502354, -1599182029, IEIO40u9);
 break;
 case 1:
-p9cb2ex8Z4 &= xjbV0bJSGK;
+
 break;
 }
 }

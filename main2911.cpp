@@ -644,7 +644,7 @@ xe_GLm >>= X8MU5Gv6d;
 }
 else if (((V_kMkS71 < 95552694) && (T1_6J24ON == -1331656679)) || (Cx44g6l < -329769146))
 {
-qNR468Rr = RTu2 & BQWgB7NGpK;
+
 }
 else if (V_kMkS71 != 296744233)
 {
@@ -890,7 +890,7 @@ catch (int& errorCode)
 {
 L078_r80h = (int)abs(RTu2);
 }
-T1_6J24ON >>= vfPnV;
+
 std::cout << VOQJ << std::endl;
 
 std::cout << QcT576 << Lk4fFI << Bc5K << YA5A9s4cn << std::endl;
@@ -937,7 +937,7 @@ Jb2Jx = h943wg40_9(-667033374, sg77187BW, ZKc8_fZ5PJ, 442380240);
 break;
 case 'd':
 case 'D':
-f5t6L117q7 = (int)abs(LzJQ);
+
 break;
 case 'e':
 case 'E':
@@ -979,7 +979,7 @@ case 1:
 Jb2Jx = h943wg40_9(-1315471324, 525989913, -2030093049, 1603165267);
 break;
 case 2:
-f5t6L117q7 = (int)abs(xe_GLm);
+
 break;
 case 3:
 xe_GLm &= y1l5;

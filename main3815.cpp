@@ -44,7 +44,7 @@ int main(void)
 
 if ((O_rr == ciN5e0) || (W9eM & 224432759))
 {
-W9eM = (unsigned long long)(ciN5e0 + (-998942505));
+
 }
 OTOb48i6 = (int)floor(JNE25208qa);
 JNE25208qa = ifoo(JNE25208qa, -2010596248, -32209155);
@@ -58,7 +58,7 @@ while (i < 1)
 int j = 3;
 do
 {
-S6uVOlM7j = Z9cc2we << 365372560;
+
 --j;
 }
 while (j >= 0);
@@ -68,7 +68,7 @@ i++;
 }
 JNE25208qa = (int)ceil(k371BC);
 
-I0_QYOc8 = oFbFLO1rK0 / iamkZzH();
+
 
 cout << O4Sz09 << "YoFCIP4" << endl;
 switch (S200S)

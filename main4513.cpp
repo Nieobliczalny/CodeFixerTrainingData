@@ -22,7 +22,7 @@ int main(int argc, char** argv)
 	gTpO006	=	0;
 	vTUcfQ	=	0;
 	LmNxDeP0	=	0;
-	ByLO70vm9	=	0;
+
 	yOI_37n	=	0;
  long double ZSLa, Bua_QKz796, I8nL6zES, M5s7, h2j2Vc9, a2Sc877z, CZDh3I9, E658, O3W81Gu, fsRQ, R3m2fo, X8wfj, MAdP8ZF, l145RUgx, cSD_9yX_o, Yrxq56t, F5LR9, G8H_Zis, rXZT, RA3_e61AC, YZ9fV_niiQ, d0RGUAtt1F, k5B92w, sR4o3, KHkKk_R96_, Zkx1c6n9fU, xB_I4MKfPb, OUqL4Yp, NjDZHG4gM, I7jqVa, f0S98p0, ww0L80EQKA, mHQ9D2;
  ZSLa = 1384943739;
@@ -34,7 +34,7 @@ int main(int argc, char** argv)
  CZDh3I9 = -1884355726;
  E658 = -1465064512;
  O3W81Gu = -1214841433;
- fsRQ = 873471334;
+
  R3m2fo = 1047855220;
  X8wfj = -1556607622;
  MAdP8ZF = -955169011;
@@ -45,7 +45,7 @@ int main(int argc, char** argv)
  G8H_Zis = 1578709032;
  rXZT = 2025317965;
  RA3_e61AC = -101010045;
- YZ9fV_niiQ = -379553412;
+
  d0RGUAtt1F = -1681124080;
  k5B92w = 1137347023;
  sR4o3 = 402878147;
@@ -120,7 +120,7 @@ try
 int k = 0;
 while (k < 5)
 {
-Zkx1c6n9fU = (ZSLa <= h2j2Vc9) ? Yrxq56t : Tebt(224146290);
+
 ++k;
 }
 }
@@ -140,7 +140,7 @@ switch (LmNxDeP0)
 {
 case 'a':
 case 'A':
-CZDh3I9 = d3DA09sWV();
+
 break;
 case 'b':
 case 'B':
@@ -160,7 +160,7 @@ M5s7 -= M5s7;
 break;
 case 'f':
 case 'F':
-l145RUgx = d3DA09sWV();
+
 break;
 case 'g':
 case 'G':
@@ -208,7 +208,7 @@ else
 {
 if (cSD_9yX_o)
 {
-l145RUgx = (int)ceil(NjDZHG4gM);
+
 }
 else
 {
@@ -220,7 +220,7 @@ else if (M5s7 != 814236432)
 {
 if (vTUcfQ != -1299054650)
 {
-Zkx1c6n9fU = (long double)(E658);
+
 }
 else if (E658 != -1608951236)
 {
@@ -233,7 +233,7 @@ case 1:
 G8H_Zis = (int)abs(CZDh3I9);
 break;
 case 2:
-ZSLa = (int)ceil(X8wfj);
+
 break;
 case 3:
 Yrxq56t = (int)floor(d0RGUAtt1F);
@@ -245,7 +245,7 @@ case 5:
 LmNxDeP0 = Tebt(851139460);
 break;
 default:
-l145RUgx = d3DA09sWV();
+
 break;
 }
 }
@@ -270,7 +270,7 @@ else if (MAdP8ZF != 1614018272)
 int k = 9;
 do
 {
-KHkKk_R96_ = sR4o3 * 349316890;
+
 --k;
 }
 while (k >= 0);
@@ -283,7 +283,7 @@ cout << mHQ9D2 << endl;
 }
 else
 {
-E658 /= 1150195790;
+
 }
 
 vTUcfQ = Tebt(M5s7);
@@ -298,7 +298,7 @@ while (j < 4)
 j++;
 for (int k = 10; k >= 0; --k)
 {
-ww0L80EQKA = G8H_Zis * I7jqVa;
+
 }
 }
 }

@@ -76,7 +76,7 @@ while (j < 5);
 }
 else
 {
-J5lSu *= WToo7M;
+
 }
 
 J5lSu = fuY8Td6hLQ % 1107927873;
@@ -144,7 +144,7 @@ fuY8Td6hLQ >>= C4yd912;
 std::cout << Ggdh << WToo7M << WToo7M << kkPni2 << std::endl;
 if (G_TBPgMf > 1150394407)
 {
-J5lSu = (int)abs(Ggdh);
+
 }
 else
 {

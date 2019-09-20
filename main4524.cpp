@@ -24,7 +24,7 @@ R77VP6Kk = (hK2I85Em & 870297644) ? R77VP6Kk : q_maC7;
 break;
 case 'b':
 case 'B':
-Ujv09_k2l = wycndQp - Jv4_0__;
+
 break;
 case 'c':
 case 'C':
@@ -35,7 +35,7 @@ case 'D':
 bU27BVC6p /= v05q;
 break;
 default:
-eE1cB164 = (int)ceil(w9G8yMp);
+
 break;
 }
 }
@@ -50,7 +50,7 @@ if (sfNW < -1405694760)
 int j = 0;
 do
 {
-C487dI = (int)ceil(g_H4e9);
+
 ++j;
 }
 while (j < 2);
@@ -62,7 +62,7 @@ int i = 0;
 do
 {
 i++;
-R77VP6Kk = (int)floor(VUd127d1SV);
+
 }
 while (i < 5);
 }
@@ -74,7 +74,7 @@ oQNG_ /= 1533699878;
 int i = 10;
 do
 {
-XyK_ = (double)(KCD2u7RH3R);
+
 --i;
 }
 while (i >= 0);

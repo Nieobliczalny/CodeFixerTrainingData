@@ -26,7 +26,7 @@ int main()
 
 if ((IJ_1o_ == kBzrITeW) && (Qq00IW & 1952289942))
 {
-r_w4 = (unsigned short)(BleQn_ + (KM30n5Y));
+
 }
 else
 {
@@ -131,7 +131,7 @@ j--;
 }
 }
 
-A96sk7B = OlC_fj(170412683, 1725388132, uYT833, Dy42ti, -661573396) + c4yKS;
+
 
 NV1f3 = (unsigned short)(Qq00IW + (KM30n5Y));
 
@@ -168,7 +168,7 @@ else
 {
 if (h16wJ == 370130588)
 {
-S7_jOa1M = h4m_j1(bjc59y61, -710070723);
+
 }
 }
 }

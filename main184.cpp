@@ -181,7 +181,7 @@ i--;
 while (i >= 0);
 }
 
-y8461WM = (long)(ei39);
+
 
 if (VpG6YHN)
 {
@@ -202,7 +202,7 @@ TvK5cNEq = wmq12n_g38(-1221050172, 260315039, TvK5cNEq, VpG6YHN, -995208725) / i
 int i = 7;
 do
 {
-SVkT3M3g7 = (int)abs(VpG6YHN);
+
 --i;
 }
 while (i >= 0);

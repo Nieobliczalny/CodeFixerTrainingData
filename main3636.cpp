@@ -224,7 +224,7 @@ case 'a':
 ONSb &= G3094_A;
 break;
 case 'b':
-wSLvp &= G3094_A;
+
 break;
 case 'c':
 eWZX14XK = AEcTO6(eWZX14XK, G3094_A, jAHY_, -1894605238, -523365711);
@@ -329,7 +329,7 @@ for (int j = 0; j < 1; ++j)
 {
 for (int k = 0; k < 3; ++k)
 {
-NfVHMSSXr0 = (int)abs(Fjs5BO3Q) * 0;
+
 }
 }
 }
@@ -349,7 +349,7 @@ case 1:
 G3094_A = ceEN0jtx0(-1911347088);
 break;
 case 2:
-ONSb = AEcTO6(ONSb, 1362160383, 1141337991, eWZX14XK, -26051875);
+
 break;
 case 3:
 Fjs5BO3Q = (int)ceil(y95GCm8);

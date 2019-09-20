@@ -499,7 +499,7 @@ i4D_ = (float)(E6iZ);
 }
 else
 {
-YY74_1GVL_ = (IXag4 != 1053190746) ? 173905409 : j8Dh();
+
 }
 std::cout << BE06eCX << j8Dh() << j8Dh() << WmR3wY82_G << std::endl;
 
@@ -662,7 +662,7 @@ case 0:
 fa15Stu1 = x7vC(S8jA_WM_8P, -1812765395, J050tG6G91, Y0Z1_LTxSq, 1568694734);
 break;
 case 1:
-J050tG6G91 = (BE06eCX >= gR_4Psl) ? Jr_N1UGs : Jr_N1UGs;
+
 break;
 case 2:
 WmR3wY82_G = x7vC(1942076072, 706035338, E6iZ, WmR3wY82_G, -520994731);

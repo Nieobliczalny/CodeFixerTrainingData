@@ -18,6 +18,7 @@ short	L13F(short	D_461thuM,short int	Je6nT60FX);
 
 int main(void) {
  unsigned short b0D8LV, w54ix3inE, m2_07E8, WetMG499, qL9f3S_s, Zh_Q9XsK, Rx1G, EHlHT7, N8pT90fmDU, nOpaMuzPQ, J429, w1R_3F, DEfLiW, F4BRe, clBq, yj64tu2G, WPoip355, z8IZovP5q5, xRb0GX39, VC246CpW0, ZTGvTO, EH4N, dnEM_0yUJ, X2DN, yHw2q512U, Vi8wT4_5, X8c278d0, X9YNb0L3, s2l63WkzZ_, w9UjP, guU54, jPVYUBQea, bIkYWE43, jHRT05sm_, csrB38, Uxm_E, MFHcJM5R2O, hhyGb, Q39Cz3, vWYLuri7, aH6j, D52ws6yvl, UIQeqOwPZ, O1EI8qx1_4, o7LJI, SWUFE, i775PKO, o9v01b, xWiyW6, Rv_z_T8, G__Uy9R6K, aKm5wjNGv, ew13J, C9_w, C9Y3, jM6p74, H59m8;
+  // codechecker_intentional [deadcode.DeadStores] Design rule - initialize all variables
   b0D8LV = w54ix3inE = m2_07E8 = WetMG499 = qL9f3S_s = Zh_Q9XsK = Rx1G = EHlHT7 = N8pT90fmDU = nOpaMuzPQ = J429 = w1R_3F = DEfLiW = F4BRe = clBq = yj64tu2G = WPoip355 = z8IZovP5q5 = xRb0GX39 = VC246CpW0 = ZTGvTO = EH4N = dnEM_0yUJ = X2DN = yHw2q512U = Vi8wT4_5 = X8c278d0 = X9YNb0L3 = s2l63WkzZ_ = w9UjP = guU54 = jPVYUBQea = bIkYWE43 = jHRT05sm_ = csrB38 = Uxm_E = MFHcJM5R2O = hhyGb = Q39Cz3 = vWYLuri7 = aH6j = D52ws6yvl = UIQeqOwPZ = O1EI8qx1_4 = o7LJI = SWUFE = i775PKO = o9v01b = xWiyW6 = Rv_z_T8 = G__Uy9R6K = aKm5wjNGv = ew13J = C9_w = C9Y3 = jM6p74 = H59m8 = -1133227213;
  long Y13gWn7no, XNuiMWpWi4, EevIXd;
   Y13gWn7no = XNuiMWpWi4 = EevIXd = 0;

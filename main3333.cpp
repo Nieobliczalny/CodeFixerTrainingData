@@ -20,7 +20,7 @@ int main() {
     short int    FYHqH3spy;
     FYHqH3spy    =    0;
   long long  IVLi6;
-  IVLi6  =  -279551793;
+
 	unsigned short int	s7Pvf;
 	s7Pvf	=	-1242639965;
 	unsigned int	SKhyW8;
@@ -30,7 +30,7 @@ int main() {
     unsigned long    YOYD50b;
     YOYD50b    =    1249283249;
   short  AI1EL4;
-  AI1EL4  =  0;
+
  short vJnu2;
  vJnu2 = 0;
 
@@ -40,7 +40,7 @@ YOYD50b -= s7Pvf;
 }
 else
 {
-s7Pvf += FYHqH3spy;
+
 }
 {
 int i = 9;
@@ -55,7 +55,7 @@ while (i >= 0);
 std::cout << 1899867735 / SKhyW8 << std::endl;
 if ((YOYD50b & -175638685) || (SohUL1vV == vJnu2))
 {
-SKhyW8 = (unsigned int)(q53l7kkj * SKhyW8);
+
 }
 return 0;
 }

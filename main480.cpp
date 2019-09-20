@@ -36,7 +36,7 @@ while (j >= 0);
 }
 if (kHXRV >= -1878442777)
 {
-QTDb = dLSHBgS1 ^ 13430529;
+
 }
 else
 {
@@ -57,7 +57,7 @@ case 'C':
 Jlk7pd431n++;
 break;
 default:
-k50E %= nB3D9pwD19;
+
 break;
 }
 
@@ -90,7 +90,7 @@ case 0:
 Nzt_ = uX1_(-1251052604, xZcjGg, Jb_m, Xh57Zh42I, -1925650755);
 break;
 case 1:
-A2NmI = gH0cQr45a8 << M6YM;
+
 break;
 case 2:
 tk6wl += 772952706;
@@ -102,7 +102,7 @@ case 4:
 GBoEB = uX1_(Y8o4y3O, -1555899098, UaH_E8fci, 1333745584, Cw3O0iZR);
 break;
 case 5:
-GBoEB = uX1_(yYgbweQ9, AuEZ, qq_Skme2J, F1wI1E, VZ_Fp_TLCx);
+
 break;
 default:
 jmh_ = uX1_(Cw3O0iZR, 934878767, 2124132006, gH0cQr45a8, Xh57Zh42I);
@@ -116,7 +116,7 @@ switch (KqP1)
 {
 case 'a':
 case 'A':
-leYf0t5 -= 122487304;
+
 break;
 default:
 u632 %= Sj87WdJk;
@@ -129,7 +129,7 @@ cout << "gJ5UB6y_" << "rKyhdkN" << Pe15A << uX1_(2014309427, 635913652, -1774473
 
 for (int i = 2; i >= 0; i--)
 {
-QTDb = (unsigned char)(aYow16);
+
 }
 
 return 0;

@@ -37,7 +37,7 @@ int main(void)
 	char	yHuYuc;
 	yHuYuc	=	-1130355379;
     long long    lVi782X2Z6;
-    lVi782X2Z6    =    948810962;
+
  char i5J9x54_;
  i5J9x54_ = 1908352845;
 	unsigned long long	tN44Bb;
@@ -129,7 +129,7 @@ int main(void)
   double  h3rg;
   h3rg  =  -1662778610;
   long  lclHdYHL7;
-  lclHdYHL7  =  -4095602;
+
  float f34vHzi38B;
  f34vHzi38B = -2027900078;
     unsigned char    d9KOu1;
@@ -371,7 +371,7 @@ else if (((yYezZ_ > -584926455) || (bqYINA8 >= x266s)) || (W0DX & Vr640SicKr))
 switch (dhmM851)
 {
 case 0:
-G6sS9YBpnf = (int)floor(X587cfSUV);
+
 break;
 case 1:
 G6sS9YBpnf = yHuYuc % 281912832;
@@ -525,7 +525,7 @@ case 2:
 CV574_c ^= Ot45j37;
 break;
 case 3:
-Z_X9z12Ak = Ok3UK3h4KL << BOf_7ge;
+
 break;
 case 4:
 aW5J_E >>= DgxKTG2O4E;
@@ -539,7 +539,7 @@ i--;
 while (i >= 0);
 }
 
-lVi782X2Z6 = x266s & 16945218;
+
 {
 int i = 1;
 while (i >= 0)
@@ -564,7 +564,7 @@ cout << "Q030gHS" << endl;
 switch (RsZd9_)
 {
 case 'a':
-aW5J_E = yHuYuc - 1855897609;
+
 break;
 case 'b':
 G6sS9YBpnf = (int)floor(id36V_24Ho);
@@ -579,7 +579,7 @@ case 'e':
 I3Q5LD0--;
 break;
 case 'f':
-tN44Bb >>= 780571261;
+
 break;
 case 'g':
 PdJ9 = fXTxk4vL8 + x266s;
@@ -617,7 +617,7 @@ Q3n1 &= ltg5vZM7PR;
 }
 else
 {
-ZNM_jKVI = (int)ceil(RVPwLj);
+
 }
 }
 else if (xVzI4F <= Vr640SicKr)
@@ -635,7 +635,7 @@ else if (W0DX > 91326245)
 {
 for (int k = 0; k < 7; k++)
 {
-h3rg = bN_Yy_i >> 1418618638;
+
 }
 }
 else if (yYezZ_ > BOf_7ge)
@@ -649,7 +649,7 @@ case 1:
 zE84W = dhmM851 ^ U4sgpyTHV2;
 break;
 case 2:
-q3q3B6aBF = (int)abs(fXTxk4vL8) * 0;
+
 break;
 case 3:
 JwX29G4EC ^= Q3n1;
@@ -664,7 +664,7 @@ case 6:
 vs5O2 |= 1152331345;
 break;
 case 7:
-id36V_24Ho = DgxKTG2O4E - bN_Yy_i;
+
 break;
 case 8:
 tlfX = W0DX ^ BOf_7ge;
@@ -681,7 +681,7 @@ else
 {
 if ((d9KOu1 != 971957267) || ((siV78 >= -761742416) || (W6pfsddK & -1140940017)))
 {
-DgxKTG2O4E -= 912362171;
+
 }
 else
 {
@@ -737,7 +737,7 @@ switch (Wsu9k36X)
 {
 case 'a':
 case 'A':
-ltg5vZM7PR /= AXWXBG;
+
 break;
 case 'b':
 case 'B':
@@ -749,7 +749,7 @@ Ok3UK3h4KL ^= 1037868520;
 break;
 case 'd':
 case 'D':
-Vk40Q = (int)floor(X587cfSUV);
+
 break;
 case 'e':
 case 'E':
@@ -761,7 +761,7 @@ zE84W = (int)floor(f34vHzi38B);
 break;
 case 'g':
 case 'G':
-yA9n <<= lclHdYHL7;
+
 break;
 default:
 G6sS9YBpnf = G6sS9YBpnf * RsZd9_;

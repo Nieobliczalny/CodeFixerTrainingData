@@ -128,7 +128,7 @@ std::cout << "J_P01e9jer" << std::endl;
 switch (bsLg)
 {
 case 0:
-hOHhqRIH = (int)floor(k11oy356);
+
 break;
 case 1:
 zNpp_ = (int)floor(DcG2mDW23z);
@@ -140,7 +140,7 @@ case 3:
 iN4Kr = X2sqKWr(-402121931, -729248134, piPCOZK);
 break;
 case 4:
-T3o1p4Y7I %= zC_cipbH;
+
 break;
 case 5:
 zJcD = mLz4 << X9_0o74X_8;
@@ -174,7 +174,7 @@ int i = 4;
 do
 {
 i--;
-G1DB4_x = Ch5j(zC_cipbH, 1305471821, X9_0o74X_8);
+
 }
 while (i >= 0);
 }

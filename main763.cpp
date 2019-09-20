@@ -27,7 +27,7 @@ int main(int argc, char** argv) {
  long HF6DDth4U;
  HF6DDth4U = 204299301;
     unsigned char    P1BjY9;
-    P1BjY9    =    -2020018605;
+
   short  OEr0p1Tfg;
   OEr0p1Tfg  =  578414035;
   float  CeS1;
@@ -37,7 +37,7 @@ int main(int argc, char** argv) {
     short int    e8Eq4;
     e8Eq4    =    377603082;
 	int	lo9L;
-	lo9L	=	0;
+
 	short	b09QNJ8rwU;
 	b09QNJ8rwU	=	-848204618;
 	int	eMQt1G;
@@ -68,7 +68,7 @@ case 'a':
 ng3mkN = (int)abs(e8Eq4);
 break;
 case 'b':
-lo9L = URcaG681(581065377, -381879499, 1628853212, 1459476918, 373925519);
+
 break;
 case 'c':
 bb8DZ0ap = (int)ceil(nbjXVL);
@@ -90,7 +90,7 @@ int j = 0;
 while (j < 1)
 {
 ++j;
-lo9L = URcaG681(-2044670095, F0vaNUh, SI21, HF6DDth4U, -740472972);
+
 }
 }
 }
@@ -100,7 +100,7 @@ while (i < 2);
 switch (ng3mkN)
 {
 case 0:
-lo9L = URcaG681(ng3mkN, SI21, CeS1, bb8DZ0ap, xt_Gb640xQ);
+
 break;
 case 1:
 bb8DZ0ap = (int)floor(CeS1);
@@ -124,7 +124,7 @@ case 7:
 ng3mkN = QZhfg(ng3mkN);
 break;
 default:
-lo9L = URcaG681(1459426180, 1750150167, ng3mkN, 1874869039, CeS1);
+
 break;
 }
 
@@ -140,7 +140,7 @@ if (lo9L & F0vaNUh)
 {
 if (Nn80 & -402414872)
 {
-P1BjY9 <<= 695696489;
+
 }
 else
 {
@@ -166,7 +166,7 @@ if (QL4_k)
 {
 if ((F9WI2 < -609308828) && ((lo9L >= nbjXVL) && (lo9L >= 479593583)))
 {
-QL4_k -= 795250774;
+
 }
 }
 else if (HF6DDth4U == -1709991766)
@@ -197,7 +197,7 @@ catch (int& errorCode)
 nbjXVL = (int)floor(CeS1);
 }
 
-P1BjY9 = URcaG681(-2134863277, 1565317997, 248735012, -841746391, -59782239) - 2014570110;
+
 
 F9WI2 = (int)abs(nbjXVL);
 lo9L = URcaG681(-2144330900, Nn80, -1159199197, CeS1, -1966699688);
@@ -207,7 +207,7 @@ bb8DZ0ap = (long double)(OEr0p1Tfg);
 }
 else
 {
-xt_Gb640xQ <<= ng3mkN;
+
 }
 
 e8Eq4 = QZhfg(e8Eq4);

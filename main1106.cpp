@@ -403,7 +403,7 @@ case 0:
 cIv4n8G26N = s7op();
 break;
 case 1:
-siE_nZ ^= 1084823184;
+
 break;
 case 2:
 b_54m2z = QqFi1a(NM13V2nH2, cLF1WVXJ, 1620121461, 699641238);
@@ -424,7 +424,7 @@ case 7:
 NM13V2nH2 = s7op();
 break;
 case 8:
-cLF1WVXJ = RD_lR2();
+
 break;
 case 9:
 NM13V2nH2 <<= a_1wzO69;
@@ -435,7 +435,7 @@ a_1wzO69 *= 1664078665;
 
 if (NM13V2nH2 != a_1wzO69)
 {
-cLF1WVXJ = (unsigned short)(b_54m2z + (-1764451470));
+
 }
 cLF1WVXJ = s7op();
 

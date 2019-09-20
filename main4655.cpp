@@ -104,7 +104,7 @@ MWNRr = (int)ceil(VMQ11yU);
 }
 }
 
-VMQ11yU = (int)ceil(Xzgjg8v);
+
 
 {
 int i = 9;
@@ -116,7 +116,7 @@ int j = 0;
 do
 {
 j++;
-VMQ11yU = (int)abs(MWNRr);
+
 }
 while (j < 6);
 }

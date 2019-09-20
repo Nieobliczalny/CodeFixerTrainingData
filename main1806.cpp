@@ -114,7 +114,7 @@ int main(void)
     short int    gNbWZUYy    =    634568070;
     double    j2az    =    901837591;
 
-DpBHbXU189 = (int)abs(ax14vkNC);
+
 std::cout << "z7LRJ1" << std::endl;
 l1yU = iDZbm04C(706870411, -47428767, 81296673);
 
@@ -127,7 +127,7 @@ f5mb00Y0 = iDZbm04C(GaUXD, -231299456, -572699913);
 switch (Gf8qa8_h)
 {
 case 0:
-YJ3c13jpN -= 1750308289;
+
 break;
 case 1:
 EeNAD_ >>= fKyh8e0;
@@ -139,7 +139,7 @@ case 3:
 XuAp4 = ClCk6oz6 << PKNThlr6;
 break;
 case 4:
-CogA6j = (int)abs(p3Kh4ou3S_);
+
 break;
 case 5:
 jK1_Gz = Fb90p9 & QzQOcSZ72O;
@@ -149,7 +149,7 @@ txBG = iDZbm04C(mS6YMm7, 791455157, -2140115018);
 break;
 }
 zIWU %= 709448521;
-l1yU = iDZbm04C(DZQG48, 1313761733, 797073673);
+
 
 {
 int i = 0;
@@ -165,7 +165,7 @@ while (i < 10);
 int i = 0;
 while (i < 5)
 {
-l1yU = iDZbm04C(h3KtMIIx4W, 1367296059, 15620174);
+
 i++;
 }
 }
@@ -186,7 +186,7 @@ while (i < 5);
 switch (u67s49eVR)
 {
 case 0:
-gxqCQhNp87 = (int)floor(ctn75QB);
+
 break;
 case 1:
 j116Z3tXD = ClCk6oz6 % 171497269;
@@ -198,7 +198,7 @@ case 3:
 eK_32 = iDZbm04C(Prlp5G, 777657189, -276456225);
 break;
 case 4:
-p3Kh4ou3S_ = pRB6WA(p3Kh4ou3S_, -1799402519);
+
 break;
 case 5:
 bW3Jf1--;
@@ -213,7 +213,7 @@ case 8:
 tOPM_9JK--;
 break;
 case 9:
-rVy4bR5r = (int)floor(opD3oj);
+
 break;
 }
 OT_AVBkIBl = (int)floor(j116Z3tXD);

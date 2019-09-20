@@ -21,7 +21,7 @@ int main(int argc, char** argv)
 	HrbGfZ	=	-2000977902;
 	veP93dRDrG	=	-1720550052;
 	h9k62	=	-1492472050;
-	phcZS7u	=	1268640845;
+
 	B2oyNz	=	904110321;
 	vDCTc	=	-244465988;
 	zrjwkSl	=	-1296537659;
@@ -196,7 +196,7 @@ j++;
 }
 }
 vDCTc = vDCTc - B2oyNz;
-vDCTc /= 305452828;
+
 B2oyNz = Y_I3BEl / Y_I3BEl;
 
 try
@@ -215,7 +215,7 @@ if (Y_I3BEl & vXQSc)
 switch (vXQSc)
 {
 case 0:
-HrbGfZ = phcZS7u * 764926170;
+
 break;
 case 1:
 zrjwkSl = h9k62 / 1857042820;

@@ -27,7 +27,7 @@ int main(void) {
     unsigned long    JRQ0pQr    =    0,    s3BD    =    0,    y60kn5u7PY    =    0;
 
 std::cout << kZ_kl(P7tc, J4_ZY4, qO3RW0nno5) << std::endl;
-qO3RW0nno5 *= 1441683128;
+
 s3BD = kZ_kl(-1545157649, -2126736196, PwhNa_q_);
 oQb79 = AXNd__ / y60kn5u7PY;
 
@@ -41,7 +41,7 @@ if (JRQ0pQr & 766284858)
 {
 if (((v6Tv1) && (XV5PDB61R == Z3TAj3h5Bv)) || (fy9P616S1 < BrlZSw29o))
 {
-mOg4pqQ87 /= 49498777;
+
 }
 }
 else

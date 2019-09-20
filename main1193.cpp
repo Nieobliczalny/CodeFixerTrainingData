@@ -113,7 +113,7 @@ VH5hC41 = Kw9d2 - nhMu;
 }
 if (VH5hC41 < nkLU)
 {
-nkLU = (unsigned short int)(Kw9d2);
+
 }
 Kw9d2 = (unsigned short int)(X0F2ILJ);
 

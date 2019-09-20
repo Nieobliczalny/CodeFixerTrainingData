@@ -41,7 +41,7 @@ int main()
  long double oh95Z0s57 = 172736944;
  unsigned char TFL2Obyf = -1585798776;
 
-dO4_ = (unsigned short int)(dKh_q_ + (ZiV5k));
+
 
 O6Bce = (float)(Z8d_Fh);
 
@@ -51,7 +51,7 @@ case 0:
 r1vHo4h %= TFL2Obyf;
 break;
 case 1:
-lKfkgN %= r1vHo4h;
+
 break;
 case 2:
 A6Zi3jtj56 += 214382830;
@@ -63,7 +63,7 @@ case 4:
 hGC4X309 = (int)abs(lKfkgN);
 break;
 case 5:
-CGSVR = (int)floor(QgAN_mk);
+
 break;
 }
 for (int i = 0; i < 1; ++i)
@@ -74,7 +74,7 @@ std::cout << "mcbQ9" << std::endl;
 Fe95DO %= fbb_7;
 if ((436366321 / Ca1xW7t60X) > -1266811942)
 {
-QgAN_mk = 761888552 / Ca1xW7t60X;
+
 }
 return 0;
 }

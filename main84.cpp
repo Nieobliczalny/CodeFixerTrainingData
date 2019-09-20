@@ -123,7 +123,7 @@ switch (C23oT936C)
 {
 case 'a':
 case 'A':
-GB7d1M >>= 1275650843;
+
 break;
 case 'b':
 case 'B':
@@ -135,7 +135,7 @@ cF0II = SWqmxB8Iv8(-372298558, j4_sy5, 1245141453);
 break;
 case 'd':
 case 'D':
-u8uu0 &= 322031186;
+
 break;
 case 'e':
 case 'E':
@@ -151,7 +151,7 @@ fkMC = (int)abs(i9N9pwrwM);
 break;
 case 'h':
 case 'H':
-YR1at82Lb = (int)abs(hh_i_by93S);
+
 break;
 default:
 u8uu0 = E1_ML_W(1662678040, 1727609349, h3YJY, NiKN, U5bkL84L);
@@ -169,7 +169,7 @@ if (NF0f9y)
 {
 if (HH0uUMJvU <= x259P19K)
 {
-C23oT936C = UJVqr << fkMC;
+
 }
 }
 }

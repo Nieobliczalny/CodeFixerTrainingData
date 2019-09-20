@@ -193,7 +193,7 @@ cAjpjeq0kg = (int)abs(MzV28);
 }
 else
 {
-YXy1pqs0v <<= 1907422733;
+
 }
 }
 else if (MzV28 <= 1488071894)
@@ -223,7 +223,7 @@ if (YyNS6P > cAjpjeq0kg)
 int j = 3;
 while (j >= 0)
 {
-cAjpjeq0kg = (int)abs(MzV28);
+
 j--;
 }
 }
@@ -309,7 +309,7 @@ case 'e':
 p2hb2Q7 = (t6h_ <= i6IDYW8Jf) ? cAjpjeq0kg : sI8MTtx3;
 break;
 case 'f':
-Vf79xu ^= 1939739309;
+
 break;
 case 'g':
 t6h_ = P8tTevd(t6h_, p_pT);
@@ -328,7 +328,7 @@ int k = 0;
 do
 {
 k++;
-cAjpjeq0kg = (int)abs(MzV28);
+
 }
 while (k < 2);
 }

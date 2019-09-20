@@ -22,7 +22,7 @@ int main(void)
   char  J5w56;
   J5w56  =  942671830;
  int PsLl;
- PsLl = 726456405;
+
 	long long	Yoy2;
 	Yoy2	=	-1585883814;
     unsigned char    A71SFfzitt;
@@ -32,7 +32,7 @@ int main(void)
     short int    b5C9l5;
     b5C9l5    =    939850481;
  double eE8u;
- eE8u = 319342301;
+
     unsigned long    a0gqDgd;
     a0gqDgd    =    494950835;
   unsigned long  c13YST_8n;
@@ -44,7 +44,7 @@ int main(void)
 	int	gd__itr;
 	gd__itr	=	0;
 	long long	Gv164f;
-	Gv164f	=	227718839;
+
   long double  tI2084w;
   tI2084w  =  1528592936;
  double W_c_;
@@ -74,7 +74,7 @@ int main(void)
     long double    Hx_Bx39k5;
     Hx_Bx39k5    =    1582054565;
 	int	I5uDvRArlf;
-	I5uDvRArlf	=	-993491586;
+
 
 try
 {
@@ -129,7 +129,7 @@ if (gqCiiu >= jE61G)
 {
 if ((gqCiiu == 254713213) && (om3uY7x < 979116772))
 {
-I5uDvRArlf = qQ5P8 - PsLl;
+
 }
 else
 {
@@ -221,7 +221,7 @@ int i = 0;
 do
 {
 ++i;
-gqCiiu = (int)ceil(qMY_7);
+
 }
 while (i < 1);
 }
@@ -243,7 +243,7 @@ i--;
 }
 }
 
-a0gqDgd = (unsigned long)(xOtnuTm7);
+
 
 for (int i = 6; i >= 0; i--)
 {
@@ -279,7 +279,7 @@ std::cout << SoB7E_ << "PK_Te" << SoB7E_ << std::endl;
 while (i >= 0);
 }
 
-gqCiiu = (r6I3m_i) ? xOtnuTm7 : 1396989739;
+
 {
 int i = 8;
 do
@@ -296,7 +296,7 @@ tI2084w = (int)floor(W_c_);
 }
 while (i >= 0);
 }
-SVFec3b = vP_Em_03U ^ 994347801;
+
 eE8u = (int)abs(qMY_7);
 {
 int i = 0;
@@ -307,7 +307,7 @@ b5C9l5 = (short int)(ke_I + (1630951325));
 }
 while (i < 4);
 }
-TlKAPG2P = (unsigned char)(Yoy2);
+
 std::cout << B_0Mw7R8Q << jE61G << "N_gr8R01KA" << "thtA957o" << "y86wDA" << std::endl;
 SVFec3b = vP_Em_03U >> 122974699;
 

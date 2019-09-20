@@ -634,7 +634,7 @@ int k = 0;
 do
 {
 ++k;
-D0e0 = (int)abs(Z3xVBk1NJT);
+
 }
 while (k < 2);
 }
@@ -678,7 +678,7 @@ else
 switch (n19_I_)
 {
 case 0:
-le6A -= a5Pf2;
+
 break;
 case 1:
 egIr570 = VIOHM6ynIU - h749H;
@@ -693,7 +693,7 @@ case 4:
 h749H ^= Aqm6clLa9y;
 break;
 default:
-le6A &= egIr570;
+
 break;
 }
 }

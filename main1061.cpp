@@ -17,7 +17,7 @@ unsigned short int    IWt54_Vt(unsigned long long    BTXQrmd9,unsigned short int
 
 int main() {
  unsigned char sKl3j74zH;
- sKl3j74zH = 0;
+
   short int  oPtx_5,  C0lvc,  n8823XcJ,  xf_K6KF,  j1WT5kx,  W4o9s1D4I,  x5o6F94e,  p0QZ_zHoL;
   oPtx_5  =  2143975002;
   C0lvc  =  1322450647;
@@ -98,7 +98,7 @@ sKl3j74zH = IWt54_Vt(oPtx_5, sKl3j74zH);
 break;
 case 'd':
 case 'D':
-n8823XcJ = (int)abs(p0QZ_zHoL);
+
 break;
 case 'e':
 case 'E':
@@ -262,7 +262,7 @@ W4o9s1D4I -= 990523854;
 }
 if ((oPtx_5 != n4u6DP) || (x5o6F94e > N2DUn7VU_1))
 {
-xf_K6KF = (short int)(C0lvc);
+
 }
 else if ((oPtx_5 > x5o6F94e) || ((xf_K6KF < -1410879998) && (C0lvc < -1643803496)))
 {
@@ -276,7 +276,7 @@ case 0:
 oPtx_5 = (int)abs(j1WT5kx);
 break;
 case 1:
-n8823XcJ += 208631337;
+
 break;
 case 2:
 sKl3j74zH = IWt54_Vt(-322109970, x5o6F94e);
@@ -288,7 +288,7 @@ case 4:
 sKl3j74zH = IWt54_Vt(oPtx_5, -1836445733);
 break;
 case 5:
-n8823XcJ -= xf_K6KF;
+
 break;
 case 6:
 x5o6F94e %= 841598567;
@@ -381,7 +381,7 @@ int k = 0;
 do
 {
 ++k;
-sKl3j74zH = IWt54_Vt(896965742, -623432475);
+
 }
 while (k < 10);
 }

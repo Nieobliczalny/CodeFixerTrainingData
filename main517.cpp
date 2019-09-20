@@ -26,7 +26,7 @@ int main(int argc, char** argv) {
 	double	JknlRt6G7,	I71eaI5,	EFw_g2,	Frs6_EM,	af4M_,	FVi96H0M,	QPlE537VQ,	J30O_mWTdD,	mSvT8,	w7wWI;
 	JknlRt6G7	=	1344837391;
 	I71eaI5	=	812875804;
-	EFw_g2	=	-1121574667;
+
 	Frs6_EM	=	-1868223552;
 	af4M_	=	-1092128590;
 	FVi96H0M	=	1124672376;
@@ -58,7 +58,7 @@ case 3:
 Frs6_EM /= 1422240840;
 break;
 case 4:
-J30O_mWTdD = (int)floor(mSvT8);
+
 break;
 case 5:
 EFw_g2 = (af4M_ <= -1836583676) ? w7wWI : F7K15f0e(m7N2OM647p);
@@ -113,7 +113,7 @@ case 'a':
 mSvT8 = (int)abs(Frs6_EM);
 break;
 case 'b':
-I71eaI5 = (int)abs(w7wWI);
+
 break;
 default:
 JU2M = F7K15f0e(336532713);
@@ -145,7 +145,7 @@ while (j < 6);
 }
 else
 {
-J30O_mWTdD = (int)floor(af4M_);
+
 }
 FfD9M5y = F7K15f0e(-181242598);
 JknlRt6G7 = (int)ceil(I71eaI5);
@@ -159,7 +159,7 @@ m7N2OM647p = F7K15f0e(m7N2OM647p);
 }
 else if ((Frs6_EM) || (FfD9M5y & -1446805382))
 {
-tLu22ldu_ = F7K15f0e(JknlRt6G7);
+
 }
 else if (FVi96H0M == m7N2OM647p)
 {

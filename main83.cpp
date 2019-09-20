@@ -373,7 +373,7 @@ TY5dDEBl = miw5Wrzy7(-448064146, I_Ncz96Y, EiK493Vo1, ktt11p1BjG);
 }
 else if (RvO_1 >= Y_a1bjmn)
 {
-KoaIB = (int)abs(RvO_1);
+
 }
 else if (pL926aDez0 <= D5BlXq5K)
 {
@@ -414,7 +414,7 @@ do
 {
 if (y8bTZ == EiK493Vo1)
 {
-KoaIB = F9_ut5s7M(281088491, 660390088, -1475675879, -1361987227, -1135628169);
+
 }
 ++j;
 }

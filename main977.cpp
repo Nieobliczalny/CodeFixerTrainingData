@@ -329,7 +329,7 @@ int j = 0;
 do
 {
 ++j;
-CRtM87sT = (long)(ik0OvN_6a2);
+
 }
 while (j < 4);
 }
@@ -432,7 +432,7 @@ cMQCFEcqjX >>= h4p_U8o4;
 break;
 case 'c':
 case 'C':
-ik0OvN_6a2 = XKO2F(803597058, -984364291);
+
 break;
 case 'd':
 case 'D':
@@ -452,7 +452,7 @@ v3894EQ9P6 = A1ztx(sTOa8wb, v3894EQ9P6);
 break;
 case 'h':
 case 'H':
-d90Zfy = sTOa8wb / W6_1cms;
+
 break;
 case 'i':
 case 'I':

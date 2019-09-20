@@ -68,7 +68,7 @@ case 'a':
 bu4R += 938272951;
 break;
 case 'b':
-i1RLe = Q5hRqK7(i1RLe);
+
 break;
 case 'c':
 towu3 = Q5hRqK7(towu3);
@@ -97,7 +97,7 @@ case 1:
 bF4uQNBi = VnvX7_ * 1221392885;
 break;
 case 2:
-Rn8YIi = j5Z31bR6d(bu4R, -98440157);
+
 break;
 case 3:
 roqTOkUe += bF4uQNBi;
@@ -122,7 +122,7 @@ break;
 switch (q9sy1qA)
 {
 case 0:
-DMh_V = Q5hRqK7(DMh_V);
+
 break;
 case 1:
 bF4uQNBi = Q5hRqK7(bF4uQNBi);
@@ -134,7 +134,7 @@ case 3:
 r2Nb5Nmt %= 1258116213;
 break;
 default:
-mhZ8 /= HBSb;
+
 break;
 }
 bu4R = (LOlpYmA376 != 1870188359) ? LOlpYmA376 : LOlpYmA376;

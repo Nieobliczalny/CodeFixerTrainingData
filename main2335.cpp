@@ -31,7 +31,7 @@ int main(int argc, char** argv) {
 	ifipn2	=	122960402;
 	WX_Q	=	1086362222;
 	l_De1e0Kb	=	-531255;
-	NtZf17uK	=	1592572513;
+
 	O9lTY1m5K	=	-2006208237;
 	yRVHkd	=	1692273745;
 	m49qdIB	=	950566363;
@@ -69,7 +69,7 @@ else
 {
 try
 {
-p_wt_RJ &= 1726826325;
+
 }
 catch (int& errorCode)
 {
@@ -253,7 +253,7 @@ EM1L9 = (int)abs(yRVHkd);
 
 if (dSkF0t & XgVs)
 {
-OVcp8rkl = (short)(fB2Xo);
+
 }
 
 try
@@ -359,7 +359,7 @@ m49qdIB = n__c75 * esag41JQDC;
 while (i < 5);
 }
 
-EM1L9 = (short)(fB2Xo);
+
 D59fiz_a <<= oK74qBDj1_;
 
 D_Ge9Q = (short)(hsJx14l25);
@@ -369,7 +369,7 @@ if (Btn1 & n3S9bQnI)
 {
 if (AOS8T_)
 {
-d8Cp2Y6q4J >>= R98lU9V;
+
 }
 else if (yRVHkd < WX_Q)
 {
@@ -406,7 +406,7 @@ if ((n__c75 <= OVcp8rkl) && (my24JE > XgVs))
 {
 try
 {
-G__87g42o *= M2tmDc4t;
+
 }
 catch (int& errorCode)
 {
@@ -422,7 +422,7 @@ else
 {
 if ((E4h7 == XgVs) || ((l_De1e0Kb) || (Sc8a > ifipn2)))
 {
-YB58_2Qa = (short)(g_pS);
+
 }
 }
 std::cout << O9lTY1m5K << "NuNacilf0" << oK74qBDj1_ << Fa4BO4Tj << Fa4BO4Tj << std::endl;
@@ -435,7 +435,7 @@ case 1:
 bfQ4K *= esag41JQDC;
 break;
 case 2:
-D_Ge9Q = (int)abs(n__c75);
+
 break;
 case 3:
 j5J_9 %= 171242382;
@@ -457,7 +457,7 @@ if (Sc8a != j5J_9)
 {
 if (n__c75 <= 785079359)
 {
-my24JE = (int)abs(MNr4Vh6W);
+
 }
 else
 {
@@ -482,7 +482,7 @@ int k = 1;
 while (k >= 0)
 {
 --k;
-R98lU9V = wKahs2kq4L << c9W23dMv88;
+
 }
 }
 }

@@ -202,7 +202,7 @@ if (ZY6P33 < tMHb63)
 {
 if (gX1kh == tMHb63)
 {
-gX1kh = (int)ceil(SpPU5);
+
 }
 else if (((SpJ_) && (ZY6P33 & 1675094434)) || (ZY6P33))
 {
@@ -244,7 +244,7 @@ std::cout << WkM9bxy << W4k_MNt(WkM9bxy, -1897662846, yPEAI0AA) << SpPU5 << std:
 switch (SpJ_)
 {
 case 'a':
-gX1kh -= 149761257;
+
 break;
 case 'b':
 SpPU5 = W4k_MNt(WkM9bxy, 262249155, yPEAI0AA) - 137754113;
@@ -259,7 +259,7 @@ case 'e':
 SpPU5 = (int)abs(SpJ_) + (1899458757);
 break;
 case 'f':
-gX1kh = (int)floor(yPEAI0AA);
+
 break;
 }
 switch (SpJ_)
@@ -271,7 +271,7 @@ case 1:
 SpPU5 = (Qq5QIaSrBK < -601210794) ? SpJ_ : WkM9bxy;
 break;
 case 2:
-gX1kh = Qq5QIaSrBK % 1200902323;
+
 break;
 case 3:
 WkM9bxy = etO22O(931528447, WkM9bxy);
@@ -289,7 +289,7 @@ case 7:
 yPEAI0AA = SpPU5 / 1761091176;
 break;
 case 8:
-gX1kh = (int)floor(yPEAI0AA);
+
 break;
 case 9:
 WkM9bxy = etO22O(SpPU5, -711520081);
@@ -355,7 +355,7 @@ case 0:
 SpPU5 = (int)ceil(yPEAI0AA);
 break;
 case 1:
-gX1kh = (int)abs(yPEAI0AA);
+
 break;
 case 2:
 gX1kh = W4k_MNt(-1941364410, yPEAI0AA, SpJ_);
@@ -367,7 +367,7 @@ case 4:
 gX1kh = ZY6P33 / 1085893862;
 break;
 default:
-SpJ_ = (int)abs(ZY6P33);
+
 break;
 }
 

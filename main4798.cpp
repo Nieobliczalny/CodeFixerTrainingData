@@ -61,7 +61,7 @@ int main(void) {
 int i = 9;
 do
 {
-Z99tO8 = (float)(u26Fw5w);
+
 --i;
 }
 while (i >= 0);
@@ -145,7 +145,7 @@ case 4:
 rNLME3 = J4lRv(rNLME3, yMADFWmvi, K59MZ, T8bA3Lj, iGFt_V0eI);
 break;
 case 5:
-Z99tO8 = (int)abs(Fz9R);
+
 break;
 case 6:
 gZNqJT65 ^= b3N8q8KBOc;
@@ -215,7 +215,7 @@ df3D7BTga *= 1845347080;
 break;
 case 'b':
 case 'B':
-gZNqJT65 = Vu0igMWtU + 2088287240;
+
 break;
 case 'c':
 case 'C':
@@ -364,7 +364,7 @@ case 2:
 Sk975 = (int)floor(Q0hP6K0kY);
 break;
 case 3:
-zVrM8QPcKE = rC6n1YrW();
+
 break;
 case 4:
 Fz9R = (int)floor(Z99tO8);
@@ -376,7 +376,7 @@ case 6:
 zVrM8QPcKE = rC6n1YrW();
 break;
 case 7:
-Z99tO8 = (int)ceil(Sk975);
+
 break;
 }
 }
@@ -386,7 +386,7 @@ for (int j = 1; j >= 0; --j)
 {
 if ((b3N8q8KBOc & 2087410414) || (df3D7BTga <= jMw3))
 {
-zVrM8QPcKE = rC6n1YrW();
+
 }
 else if (Q0hP6K0kY > iOt_vw)
 {
@@ -420,7 +420,7 @@ if (Z99tO8 < iOt_vw)
 {
 for (int k = 0; k < 8; k++)
 {
-cmDnv = (int)ceil(Z99tO8);
+
 }
 }
 }
@@ -430,7 +430,7 @@ iceUiW0 = rC6n1YrW();
 }
 else if (cmDnv <= 1548467551)
 {
-Z99tO8 = (int)ceil(Fz9R);
+
 }
 else
 {
@@ -462,7 +462,7 @@ if ((G4wu3476g > -2058180580) || (i3Im6 & F31ZS))
 {
 try
 {
-iceUiW0 = rC6n1YrW();
+
 }
 catch (int& errorCode)
 {
@@ -475,7 +475,7 @@ catch (int& errorCode)
 hu_4hfl0w /= J781E58OV;
 }
 
-gZNqJT65 += d1d2eDBls;
+
 
 std::cout << y6u5QS << rC6n1YrW() << std::endl;
 KVuv8 = (unsigned short)(jMw3);
@@ -488,7 +488,7 @@ zVrM8QPcKE = rC6n1YrW();
 --i;
 }
 }
-df3D7BTga = (unsigned long)(d1d2eDBls);
+
 
 if (K59MZ >= Xu53qImnm)
 {
@@ -500,7 +500,7 @@ jMw3 = y1_2v4C / IwzzltW_YQ;
 break;
 case 'b':
 case 'B':
-y6u5QS = J4lRv(y6u5QS, 1703609789, hu_4hfl0w, -2125100399, 225217555);
+
 break;
 case 'c':
 case 'C':
@@ -516,7 +516,7 @@ Vu0igMWtU = (int)floor(Fz9R);
 break;
 case 'f':
 case 'F':
-Fz9R = (int)floor(Sk975);
+
 break;
 case 'g':
 case 'G':
@@ -528,7 +528,7 @@ acH5g9 >>= rNLME3;
 break;
 case 'i':
 case 'I':
-zVrM8QPcKE = rC6n1YrW();
+
 break;
 default:
 b3N8q8KBOc = rC6n1YrW() >> 367337543;
@@ -544,7 +544,7 @@ while (j < 3)
 j++;
 if (hu_4hfl0w != rNLME3)
 {
-iceUiW0 = rC6n1YrW();
+
 }
 }
 }
@@ -556,7 +556,7 @@ int j = 0;
 do
 {
 j++;
-IwzzltW_YQ = (long long)(UtCoWY);
+
 }
 while (j < 5);
 }
@@ -573,7 +573,7 @@ while (i < 4)
 d1d2eDBls = F31ZS << 1420544132;
 }
 }
-iGFt_V0eI = J4lRv(iGFt_V0eI, Vu0igMWtU, WJ8R, -255504161, 1037627478);
+
 return 0;
 }
 

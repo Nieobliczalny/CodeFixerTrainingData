@@ -271,7 +271,7 @@ if (((Y18x8Oeeh & H1utVjgi) || (KRwMu4 > 1691293688)) && ((ysHG0CO <= cwBOwYxy) 
 switch (ysHG0CO)
 {
 case 'a':
-QEkqgTS = (int)ceil(KRwMu4);
+
 break;
 default:
 l908806J *= l1TrfW;
@@ -326,7 +326,7 @@ else
 {
 try
 {
-QEkqgTS = SIGvjsPzG8 >> Y18x8Oeeh;
+
 }
 catch (int& errorCode)
 {
@@ -340,7 +340,7 @@ if (qlK9X2 < V8l5wQckI8)
 {
 if (k6NW7 & H1utVjgi)
 {
-KRwMu4 /= QEkqgTS;
+
 }
 else if (l1TrfW)
 {
@@ -381,7 +381,7 @@ case 1:
 JkiRcjYGX = (int)abs(cwBOwYxy);
 break;
 case 2:
-WxAN8 <<= 59494821;
+
 break;
 case 3:
 A2H35fIM >>= 1896567947;
@@ -420,7 +420,7 @@ if (Xx71O <= -81998615)
 {
 for (int k = 0; k < 7; k++)
 {
-Xx71O = (int)abs(A2H35fIM);
+
 }
 }
 }
@@ -445,7 +445,7 @@ do
 j++;
 for (int k = 9; k >= 0; k--)
 {
-f_Rf4 = (int)floor(sP_fR4);
+
 }
 }
 while (j < 4);
@@ -456,7 +456,7 @@ else
 switch (mu7EoB53M)
 {
 case 0:
-f_Rf4 = (int)floor(sP_fR4);
+
 break;
 case 1:
 V8l5wQckI8 %= ShytJV;
@@ -468,7 +468,7 @@ case 3:
 k6NW7 = h7odgfLl8 % lhaTaqd;
 break;
 case 4:
-V8l5wQckI8 = l1TrfW / N_ILh;
+
 break;
 default:
 yyvA = ShytJV << 934359290;
@@ -478,7 +478,7 @@ break;
 
 N_ILh = LC39 / Co86rFcvlK;
 
-sP_fR4 = (int)abs(UD37CF5);
+
 return 0;
 }
 

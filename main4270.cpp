@@ -67,7 +67,7 @@ case 'f':
 SQJm_ud_ = qg2Z << yKFBl;
 break;
 case 'g':
-sCyP7 = F35GA4 | 1316889515;
+
 break;
 default:
 SQJm_ud_ = fBX5 | kn_MB;
@@ -86,7 +86,7 @@ case 'c':
 vtca *= 737287275;
 break;
 case 'd':
-S_sw59 = Rkf90 * 1797271157;
+
 break;
 case 'e':
 hO3DT = sfrrG << 96668797;
@@ -120,7 +120,7 @@ if ((vT798i == VB68o8) || (Q6xkl_ >= -650487467))
 {
 if (ok_2hU)
 {
-S_sw59 = S9wHbVH2b6 - 1503770895;
+
 }
 }
 else
@@ -132,7 +132,7 @@ if ((JXo3b <= ok_2hU) && ((dpT8 > 1384139678) || (uho6k)))
 {
 for (int j = 1; j >= 0; j--)
 {
-W722oCXjw = aY7fSbU3 % o3y5SC3_;
+
 }
 }
 else
@@ -142,7 +142,7 @@ cout << o3y5SC3_ << vj83 << endl;
 switch (BWhd)
 {
 case 'a':
-WmC89Oq2_Y ^= 854071047;
+
 break;
 case 'b':
 bhx6Ec0 = (Q6xkl_ != vtca) ? 53293096 : dpT8;
@@ -279,7 +279,7 @@ tGAjQq2 = bhx6Ec0 << 387984359;
 }
 else if (F4Vc2L3_ <= -588663492)
 {
-WmC89Oq2_Y = BYuuE / kn_MB;
+
 }
 else if (iQi31348Zd == 953861493)
 {
@@ -332,7 +332,7 @@ bixv = ruw3 | 1619659188;
 }
 else if ((f68Oj <= 1561451553) && (F35GA4 >= kW1j))
 {
-yKFBl = sfrrG ^ 1656006672;
+
 }
 else if (oPooVj7)
 {
@@ -366,7 +366,7 @@ sfrrG = (unsigned long long)(qnO6y6z);
 }
 else
 {
-Y9a1 -= 1675235597;
+
 }
 {
 int i = 1;
@@ -385,7 +385,7 @@ VB68o8 <<= eOpKBbt_g;
 }
 else if ((Cfm15r70 != pA3pn2je) && (gY8M_5 >= 2072779061))
 {
-Vx1IYNhdi = (int)abs(l3TL0Bz99C);
+
 }
 else if (L6Z86 > fBX5)
 {
@@ -409,7 +409,7 @@ if (vj83 != N_kJE)
 {
 if (GUo1qvb0x >= J6Eip5g)
 {
-xB5Yo = o3y5SC3_ | hy_IKG;
+
 }
 else if (L6Z86)
 {
@@ -440,7 +440,7 @@ G0h_B &= BYuuE;
 while (i >= 0);
 }
 
-W_2mh = (unsigned long long)(b3qv5);
+
 
 switch (X31p3)
 {
@@ -450,7 +450,7 @@ break;
 }
 
 cout << hy_IKG << vgon6x93O << yAE78 << endl;
-ok_2hU = (unsigned long long)(Z2NSK6H0);
+
 if ((BYuuE != -1051915104) || (sfrrG & fSW_))
 {
 for (int j = 0; j < 4; ++j)
@@ -467,7 +467,7 @@ int i = 0;
 do
 {
 ++i;
-m1G3X5 = i2Sk_ % KqS5tGO;
+
 }
 while (i < 9);
 }
@@ -479,7 +479,7 @@ else
 {
 for (int j = 0; j < 10; ++j)
 {
-dpT8 = Jux4 % 680463532;
+
 }
 }
 F4Vc2L3_ &= qO58f;
@@ -493,7 +493,7 @@ while (j >= 0)
 {
 if (CP705eb > 1977719439)
 {
-F4Vc2L3_ = J6Eip5g + 97966391;
+
 }
 else if (bhx6Ec0 & r1W7l)
 {
@@ -510,7 +510,7 @@ i--;
 }
 while (i >= 0);
 }
-l3TL0Bz99C = (int)abs(btGJ);
+
 
 cout << "ia56" << srI5rda6 << f68Oj << "TbXRSg496" << KqS5tGO << endl;
 return 0;

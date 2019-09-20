@@ -96,7 +96,7 @@ case 1:
 G0HgHMuiLM = BGo_K(G0HgHMuiLM, 659256837);
 break;
 case 2:
-SybY5 = nJ68th4 + tb_ka86;
+
 break;
 case 3:
 obkh5_19 = BGo_K(G0HgHMuiLM, ctVR1wQY) % nG5K;
@@ -299,7 +299,7 @@ case 2:
 UszoPC_m9 = nho6p_j1w * HNt9V89;
 break;
 case 3:
-tb_ka86 = OETevzk(1912557766, -909667166, 838045225, -1930064781, Crf7o_h);
+
 break;
 default:
 fkVRuZ = BGo_K(371790252, gdgg_Dw);
@@ -315,7 +315,7 @@ SC0t2YZd7 = OETevzk(SC0t2YZd7, JUsbIJ, 1806888302, CZhdDF1, h0sG);
 }
 else if (oq61_n3 > loQU8A)
 {
-tb_ka86 = (char)(ctVR1wQY);
+
 }
 else if (KqyY0T & 1646484599)
 {
@@ -351,7 +351,7 @@ a0bLw_ = OETevzk(a0bLw_, IrAL9M, dg_qn, 1582478586, VXiA);
 }
 }
 
-OEsL4 = (char)(CZhdDF1);
+
 ctVR1wQY = (char)(I3x_);
 
 cout << "p8j93R" << "zrEz4K" << endl;
@@ -364,7 +364,7 @@ try
 switch (d9V3OC5H)
 {
 case 'a':
-CZhdDF1 = mAO8Mx << 793790474;
+
 break;
 case 'b':
 z6_y /= T9KgHNUvn_;
@@ -408,7 +408,7 @@ case 'a':
 G0HgHMuiLM = BGo_K(x7dr8i, a9Lm);
 break;
 case 'b':
-p_BZGeeH = OETevzk(-1329596480, 1682872259, tcqA7, z6_y, -1659274757);
+
 break;
 case 'c':
 z6_y ^= m8ggfMmNAF;
@@ -423,7 +423,7 @@ case 'f':
 J6eST_2X8G *= VXiA;
 break;
 case 'g':
-JsF67v16A = (int)abs(ZfSbJ);
+
 break;
 case 'h':
 j17lCw3Gkp = (int)abs(e2_g0m7Y);
@@ -436,7 +436,7 @@ try
 {
 if (H6KK != Crf7o_h)
 {
-KqyY0T ^= 687706094;
+
 }
 }
 catch (int& errorCode)
@@ -448,7 +448,7 @@ else if ((hkRaE3 <= 53177297) && ((sT7SeopCF >= loQU8A) || (q1sS35y6Cq > 9299926
 {
 try
 {
-DPqQo9Ev = (int)abs(jcS2X9Y);
+
 }
 catch (int& errorCode)
 {
@@ -481,7 +481,7 @@ int k = 0;
 while (k < 2)
 {
 ++k;
-P_MCkuGvDU = (int)abs(p_BZGeeH);
+
 }
 }
 }
@@ -526,7 +526,7 @@ fkVRuZ = BGo_K(sT7SeopCF, fkVRuZ);
 }
 }
 }
-hkRaE3 = s_54R / fkVRuZ;
+
 
 if (IrAL9M == 1254805492)
 {
@@ -539,7 +539,7 @@ case 1:
 q1sS35y6Cq |= NtT27_1;
 break;
 case 2:
-s_54R = OETevzk(s_54R, I3x_, 1184411178, h0sG, 1596759956);
+
 break;
 case 3:
 gLIXdPy = j17lCw3Gkp + 204922811;
@@ -551,7 +551,7 @@ case 5:
 d9V3OC5H = BGo_K(Cp6sPQ, d9V3OC5H);
 break;
 case 6:
-tcqA7 = OETevzk(tcqA7, Rpazwd, -2036290883, gLIXdPy, sT7SeopCF);
+
 break;
 case 7:
 nho6p_j1w = (int)abs(oq61_n3);

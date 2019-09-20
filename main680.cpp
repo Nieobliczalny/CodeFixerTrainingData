@@ -88,7 +88,7 @@ VX0ikoCHnu = VX0ikoCHnu - 1749089496;
 }
 else
 {
-cak8_zL = (int)abs(VX0ikoCHnu) * 0;
+
 }
 }
 else if (eZCQ0E9VS2 == XDmRyR)

@@ -21,7 +21,7 @@ int main(int argc, char** argv) {
 	unsigned short int	A2E5LWn;
 	A2E5LWn	=	0;
     int    HMN3W;
-    HMN3W    =    -1826268480;
+
     unsigned int    dZkb_s9d5I;
     dZkb_s9d5I    =    0;
 
@@ -68,7 +68,7 @@ std::cout << DaqM_L685E(HMN3W, A2E5LWn, WpA_P5f5N) << unM_8 << dZkb_s9d5I << std
 
 if (dZkb_s9d5I == -1465698553)
 {
-unM_8 = PHGRnD2jUT();
+
 }
 else if (dZkb_s9d5I)
 {
@@ -91,7 +91,7 @@ if (A2E5LWn >= -236611290)
 {
 for (int k = 0; k < 5; ++k)
 {
-unM_8 = PHGRnD2jUT();
+
 }
 }
 else
@@ -102,7 +102,7 @@ HMN3W = unM_8 + WpA_P5f5N;
 }
 else
 {
-HMN3W = c5Q4_3(dZkb_s9d5I, HMN3W, unM_8, 1813909351, WpA_P5f5N);
+
 }
 }
 }
@@ -112,7 +112,7 @@ std::cout << "OM12aB_t" << std::endl;
 }
 else
 {
-HMN3W *= 1602843784;
+
 }
 
 return 0;

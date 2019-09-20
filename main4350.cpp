@@ -22,7 +22,7 @@ int main()
 {
     unsigned long    Xl05,    Ldlx,    VqUn0A1HhG,    udt8,    k0v4V_BD0,    R1sv9;
     Xl05    =    135994401;
-    Ldlx    =    1100995488;
+
     VqUn0A1HhG    =    1235637953;
     udt8    =    223597882;
     k0v4V_BD0    =    -344312660;
@@ -148,7 +148,7 @@ switch (udt8)
 {
 case 'a':
 case 'A':
-Ldlx = XxFy1(1448105633, udt8);
+
 break;
 case 'b':
 case 'B':
@@ -238,7 +238,7 @@ R1sv9 /= k0v4V_BD0;
 break;
 case 'e':
 case 'E':
-Ldlx |= 705822838;
+
 break;
 case 'f':
 case 'F':
@@ -263,7 +263,7 @@ udt8 = XxFy1(-1013122498, -385569371);
 break;
 case 'b':
 case 'B':
-Ldlx = R1sv9 % k0v4V_BD0;
+
 break;
 case 'c':
 case 'C':
@@ -322,7 +322,7 @@ switch (udt8)
 {
 case 'a':
 case 'A':
-IgMNw8 = w9C_47V_8(udt8, -638473090);
+
 break;
 case 'b':
 case 'B':
@@ -346,7 +346,7 @@ k0v4V_BD0 = kdbOU(k0v4V_BD0, 554912956, 1887932488, 931720960, 455965195);
 break;
 case 'g':
 case 'G':
-IgMNw8 = w9C_47V_8(256989583, Xl05);
+
 break;
 case 'h':
 case 'H':
@@ -363,7 +363,7 @@ else
 switch (R1sv9)
 {
 case 'a':
-FID8KkAF8R = w9C_47V_8(FID8KkAF8R, -1418185896);
+
 break;
 case 'b':
 S0F0 = (int)abs(FID8KkAF8R);
@@ -381,7 +381,7 @@ case 'f':
 k0v4V_BD0 = k0v4V_BD0 << udt8;
 break;
 case 'g':
-IgMNw8 = w9C_47V_8(R1sv9, 1351452516);
+
 break;
 case 'h':
 Ldlx = kdbOU(-1773314107, FID8KkAF8R, -107552619, VqUn0A1HhG, R1sv9);

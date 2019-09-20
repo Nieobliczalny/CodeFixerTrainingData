@@ -36,7 +36,7 @@ cout << HOH154pKn9 << "UoldK2h" << "WTNK6" << endl;
 }
 else if ((Z_6v_CX & -829127758) && ((V4Qm6AL1ad != FUn6k) && (X0C9hl1X != -1254452419)))
 {
-CKpipHxEr = (int)(X0C9hl1X + (-1667529676));
+
 }
 else
 {
@@ -46,7 +46,7 @@ case 0:
 V4Qm6AL1ad = Z_6v_CX / X0C9hl1X;
 break;
 case 1:
-CKpipHxEr >>= V4Qm6AL1ad;
+
 break;
 case 2:
 V4Qm6AL1ad = FUn6k + 1688755101;
@@ -161,7 +161,7 @@ while (i >= 0);
 
 cout << "K4ERN2tkB" << Z_6v_CX << HOH154pKn9 << HOH154pKn9 << "X0_W" << endl;
 
-CKpipHxEr = CKpipHxEr >> 1676857888;
+
 
 cout << V4Qm6AL1ad << "b57of4K78" << endl;
 if (X0C9hl1X >= 1613018867)
@@ -180,7 +180,7 @@ k--;
 }
 else
 {
-FUn6k = (unsigned short int)(HOH154pKn9);
+
 }
 {
 int i = 4;

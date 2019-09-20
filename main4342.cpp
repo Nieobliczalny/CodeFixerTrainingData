@@ -119,7 +119,7 @@ int main(void) {
 
 if ((TaZ7 / zxqgbq(VPo_P2, 348558436, l7Kt_bh8Z2)) <= -839979379)
 {
-I6_W3Lm_p = (short)(x4ro_2);
+
 }
 IPj_ = zxqgbq(yZIk, 992147761, AJ2qW);
 

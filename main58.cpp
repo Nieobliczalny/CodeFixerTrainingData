@@ -27,7 +27,7 @@ int main() {
     short int    nWx565PK;
     nWx565PK    =    0;
 	int	JJZ4;
-	JJZ4	=	-235279744;
+
  double poPP8C;
  poPP8C = -192183134;
   short  Ml3h_;
@@ -45,7 +45,7 @@ int main() {
  short int fo7I9;
  fo7I9 = 1530996218;
 	char	GbZE38077;
-	GbZE38077	=	1909039567;
+
  unsigned long Ckwg_n1;
  Ckwg_n1 = 0;
  unsigned long long F2GkA2223y;
@@ -71,7 +71,7 @@ int main() {
 	long long	k1nT_wK;
 	k1nT_wK	=	1629320867;
  long long E20603T;
- E20603T = 466037176;
+
     double    gNwdne5HWt;
     gNwdne5HWt    =    -1847660909;
     unsigned int    l8Sg7;
@@ -85,7 +85,7 @@ int main() {
   unsigned char  yDxKL;
   yDxKL  =  -1196368329;
 	char	Yckd;
-	Yckd	=	-1466338756;
+
 	long	HcH7a;
 	HcH7a	=	1181102370;
     unsigned int    IxcURDs;
@@ -95,7 +95,7 @@ int main() {
  unsigned short int qV5kAX;
  qV5kAX = -867514525;
     unsigned long long    yg38odspk3;
-    yg38odspk3    =    44986119;
+
     long long    Wwj3cwLOi_;
     Wwj3cwLOi_    =    759728015;
  unsigned char pJ0qSA;
@@ -107,7 +107,7 @@ int main() {
  short int gUZlJ;
  gUZlJ = -1177510592;
  long long Plw9Pl;
- Plw9Pl = -2058027698;
+
  unsigned int R76qV;
  R76qV = -2135949029;
     unsigned long    tw21Q6lzTE;
@@ -208,7 +208,7 @@ if (poPP8C == j025_ha75)
 {
 if (Oz3h64_S6t >= 1470168132)
 {
-tw21Q6lzTE /= pJ0qSA;
+
 }
 else
 {
@@ -223,7 +223,7 @@ poPP8C = (int)ceil(hPb3MubaH0);
 }
 else if ((SC33S5SK < IxcURDs) && (o9o4sqQ_J > l8Sg7))
 {
-HcH7a = qy491WA(-900470344, poPP8C, 471291740, C4h071v95, Ml3h_);
+
 }
 else if ((hc6JDHZ) && (F2GkA2223y == V2o453))
 {
@@ -235,7 +235,7 @@ c_6AU7TZt = (int)abs(SC33S5SK) * 0;
 }
 else if (FepO9 >= -860558541)
 {
-Yckd = agt4uO1_D(-2135271934);
+
 }
 else
 {
@@ -249,7 +249,7 @@ if (gUZlJ > -109562523)
 {
 if (k1nT_wK < 677815022)
 {
-r6zX9 *= 1725734220;
+
 }
 }
 else
@@ -286,7 +286,7 @@ else if (jEhi < JJZ4)
 int j = 6;
 do
 {
-C4h071v95 = (int)ceil(N2zf);
+
 --j;
 }
 while (j >= 0);
@@ -333,7 +333,7 @@ RTli_1++;
 break;
 }
 }
-gNwdne5HWt = (int)ceil(o9o4sqQ_J);
+
 {
 int i = 8;
 do
@@ -345,7 +345,7 @@ while (i >= 0);
 }
 
 std::cout << JF9C_p90 << EiZU << nWx565PK << poPP8C << agt4uO1_D(-1643453966) << std::endl;
-yg38odspk3 = (unsigned long long)(h_Sn7v);
+
 
 Ar4H70i = -1712954493 / cuzKNS(c_6AU7TZt, 321946198, JF9C_p90);
 

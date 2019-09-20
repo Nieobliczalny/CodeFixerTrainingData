@@ -50,7 +50,7 @@ case 'd':
 INqo77CDR = (int)abs(YBp7);
 break;
 case 'e':
-un483s += 1531811315;
+
 break;
 case 'f':
 cGSe >>= ID_NhTfqa;
@@ -97,7 +97,7 @@ int k = 7;
 do
 {
 k--;
-f_dH = HM6LGD3M0y >> 1591426334;
+
 }
 while (k >= 0);
 }
@@ -121,7 +121,7 @@ else
 {
 try
 {
-y_3vU8 = (p94E_dw1 != BEnPe) ? Hof7b2f : -818408023;
+
 }
 catch (int& errorCode)
 {
@@ -132,7 +132,7 @@ if ((cGSe / YBp7) <= 57752767)
 {
 if (INqo77CDR == 0)
 {
-	Q7v7f = cGSe / INqo77CDR;
+
 }
 }
 cout << "OU4Oj1W" << "e87w" << v00v << "qxOwxb_" << endl;

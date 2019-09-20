@@ -123,7 +123,7 @@ daGEH9 = N8879F7F(daGEH9, c_7eVpL12);
 
 if (I63_5LVB7_ == 0)
 {
-	rq_u2z6r = -1511268882 / I63_5LVB7_;
+
 }
 
 if (D_rN8 != -1069103560)
@@ -139,7 +139,7 @@ while (j >= 0);
 }
 }
 
-cLgD = (int)abs(m0bO71v);
+
 cout << yV227q64LO << I4Q4(495810760) << "qlWvit9" << P0Uy038y6(daGEH9) << endl;
 {
 int i = 7;
@@ -150,7 +150,7 @@ OBJH2 = (unsigned short int)(u03O + (vB9IO9vAz));
 }
 while (i >= 0);
 }
-SNa0tJ = N8879F7F(755261226, qleCxxC);
+
 return 0;
 }
 

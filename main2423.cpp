@@ -23,7 +23,7 @@ int main(void) {
     n_f15j0    =    -1182031733;
     n32t3GG    =    215032650;
     dLCl    =    2039278163;
-    KaD8Ar1    =    -287370347;
+
     I3QkA    =    1899686018;
     h2sNQy    =    636428981;
     Uo68fd    =    -618899867;
@@ -48,7 +48,7 @@ int main(void) {
     uF09RH_h    =    327451762;
     HohG89    =    1392272922;
     JQd32Q1    =    921300385;
-    ATwSk0f0    =    -554230071;
+
     fhJ_oA    =    -106605949;
     i1jaWMa    =    -2117080231;
     bj3ne7VS2P    =    -1785010979;
@@ -98,7 +98,7 @@ Md3Ac /= K07sfUZSc;
 }
 else
 {
-ATwSk0f0 = rz51_q - 1517793940;
+
 }
 }
 catch (int& errorCode)
@@ -131,7 +131,7 @@ case 'B':
 W4l86 = iAp9i(tOTl, G3kR3OQk, n32t3GG, bj3ne7VS2P, i1jaWMa);
 break;
 default:
-JJ46 = iAp9i(-1310385544, bnsUrLn4A, -84518160, wLInCyDIS, 1600428451);
+
 break;
 }
 }
@@ -296,7 +296,7 @@ else if (JZyr)
 int k = 0;
 do
 {
-G3kR3OQk = (int)ceil(C_uvtwy2);
+
 ++k;
 }
 while (k < 4);
@@ -335,7 +335,7 @@ case 0:
 JJ46 = iAp9i(431501476, 1006085957, Opyd5, JQd32Q1, Uo68fd);
 break;
 case 1:
-ATwSk0f0 = iAp9i(V_nsH, 1371071231, Opyd5, JQd32Q1, Uo68fd) ^ 38670263;
+
 break;
 case 2:
 W4l86 = iAp9i(W4l86, -752850428, fAp8F083, tOTl, 1515890769);
@@ -353,7 +353,7 @@ case 6:
 JJ46 = iAp9i(wLInCyDIS, -299399364, -946752931, Uo68fd, I3QkA);
 break;
 case 7:
-Ahopf = (int)ceil(fAp8F083);
+
 break;
 case 8:
 JJ46 = iAp9i(i75n, Opyd5, 352324742, -257075996, -1855714631);
@@ -409,7 +409,7 @@ else
 {
 if (D5Qv >= Md3Ac)
 {
-w28_VSa9f9 = (int)ceil(dLCl);
+
 }
 else
 {
@@ -465,7 +465,7 @@ h2sNQy = (long double)(K07sfUZSc);
 
 if ((fAp8F083 > fgOHr__4) || (JJ46 & O5mv3qNC))
 {
-Ahopf = (int)abs(W4l86) + (2088738666);
+
 }
 else
 {
@@ -506,7 +506,7 @@ break;
 }
 }
 
-G3kR3OQk = (int)floor(YmO5_);
+
 if (Uo68fd > O5mv3qNC)
 {
 cout << "Y8z1" << "RJ8c" << bnsUrLn4A << "Y4A6__W" << i75n << endl;
@@ -528,7 +528,7 @@ else
 int j = 0;
 while (j < 9)
 {
-fAp8F083 = (int)ceil(kDU3P3QRm);
+
 j++;
 }
 }
@@ -540,7 +540,7 @@ int j = 0;
 while (j < 9)
 {
 ++j;
-i1jaWMa = (int)floor(n32t3GG);
+
 }
 }
 }
@@ -554,7 +554,7 @@ while (j < 6)
 int k = 0;
 while (k < 1)
 {
-lWT1PV = (int)ceil(kDU3P3QRm);
+
 ++k;
 }
 }
@@ -565,7 +565,7 @@ j++;
 
 if (D5Qv <= -1789530236)
 {
-h2sNQy = (int)abs(HYE4p7);
+
 }
 else
 {

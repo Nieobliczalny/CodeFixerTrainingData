@@ -34,7 +34,7 @@ int main(int argc, char** argv)
  int vlT5Vj;
  vlT5Vj = 1373937293;
  float Qmqxxo;
- Qmqxxo = 835264054;
+
  long Ujjl9A3xs;
  Ujjl9A3xs = -985779493;
 	int	qcct8;
@@ -518,7 +518,7 @@ TgTvRqumU <<= kBI20aN;
 }
 if ((kBI20aN) || ((Ujjl9A3xs >= HjHd) && (vlT5Vj <= bz0jE_Ox)))
 {
-qcct8 = (int)abs(vlT5Vj);
+
 }
 else if (Co9sp > 838088258)
 {
@@ -540,7 +540,7 @@ else if ((vlT5Vj >= -2068788323) && (Qmqxxo != 631462747))
 int j = 0;
 do
 {
-IibIC5 = (int)abs(vlT5Vj) * 0;
+
 j++;
 }
 while (j < 6);
@@ -566,7 +566,7 @@ j++;
 }
 else
 {
-IibIC5 = (char)(bz0jE_Ox);
+
 }
 
 return 0;

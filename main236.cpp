@@ -774,7 +774,7 @@ while (i >= 0);
 }
 if ((oB22_LUQ > -550102683) || (kGl4IvQS47 >= -1538966096))
 {
-oB22_LUQ = (unsigned short)(kGl4IvQS47);
+
 }
 
 {

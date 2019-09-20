@@ -124,7 +124,7 @@ cout << VFLs(A6FQ, OOSsC_, -249667619) << sMW1_() << sMW1_() << endl;
 int i = 8;
 do
 {
-cXq1 = (float)(Uywr890Vb);
+
 i--;
 }
 while (i >= 0);

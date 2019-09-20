@@ -298,7 +298,7 @@ TYxEY3U = D2L82iNYo(2097732085, -1811269989, 1407865725);
 }
 }
 }
-yPH8M95_ ^= Lp5L_Imkn;
+
 if (cNMMAxp3 & XI8V9H)
 {
 std::cout << ajK3sb << DqTu24M << "jPnt6Wlxqv" << std::endl;
@@ -314,7 +314,7 @@ case 0:
 tam6xdO = RuNKizK1(TYxEY3U);
 break;
 case 1:
-Ykm0r |= 714477740;
+
 break;
 case 2:
 TYxEY3U = D2L82iNYo(1873736006, aX2d, I7tC);
@@ -326,7 +326,7 @@ case 4:
 QK2Dmx2J5 = RuNKizK1(QK2Dmx2J5);
 break;
 case 5:
-Vt212 = R_SXK0(Vt212, Lp5L_Imkn, lox6hTxk0);
+
 break;
 case 6:
 u14q1sB0Tk = RuNKizK1(u14q1sB0Tk);
@@ -361,7 +361,7 @@ case 1:
 TYxEY3U = D2L82iNYo(-1862302851, tam6xdO, DqTu24M);
 break;
 case 2:
-QK2Dmx2J5 = Cjz33 >> 2080144787;
+
 break;
 case 3:
 Cjz33 -= 1727532862;

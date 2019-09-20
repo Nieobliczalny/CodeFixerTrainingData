@@ -23,7 +23,7 @@ int main(void)
  unsigned char oMh_fQ;
  oMh_fQ = 0;
   long long  ZeGj82r;
-  ZeGj82r  =  0;
+
   char  atim5;
   atim5  =  -396402636;
  long double pPN1;
@@ -41,7 +41,7 @@ int main(void)
 	unsigned long	W_lgV;
 	W_lgV	=	136570952;
   double  v1Fm1;
-  v1Fm1  =  1298888423;
+
 
 h_N6_o6c %= 1150993384;
 QXCt = (vP_kR51d) ? h_N6_o6c : 237203414;
@@ -53,7 +53,7 @@ try
 {
 if (e_AoGSi > -1018863647)
 {
-v1Fm1 = (int)ceil(pPN1);
+
 }
 }
 catch (int& errorCode)
@@ -105,7 +105,7 @@ k++;
 }
 for (int i = 0; i < 7; i++)
 {
-ZeGj82r = vqeq8R1(W_lgV);
+
 }
 try
 {
@@ -117,7 +117,7 @@ v24i2_ %= 261271968;
 }
 if (vqeq8R1(W_lgV) == 0)
 {
-	j_5WRD = v1Fm1 / vqeq8R1(W_lgV);
+
 }
 ZeGj82r = (int)abs(vP_kR51d);
 {
@@ -135,7 +135,7 @@ case 0:
 h_N6_o6c = (pPN1) ? W_lgV : -67011837;
 break;
 case 1:
-v1Fm1 -= 524479426;
+
 break;
 case 2:
 atim5 &= v24i2_;
@@ -153,7 +153,7 @@ case 6:
 e_AoGSi = vqeq8R1(-6894360);
 break;
 default:
-v1Fm1 = (int)floor(pPN1);
+
 break;
 }
 v1Fm1 = (int)floor(pPN1);
@@ -167,7 +167,7 @@ switch (h_N6_o6c)
 {
 case 'a':
 case 'A':
-oMh_fQ = vqeq8R1(-1676283416);
+
 break;
 case 'b':
 case 'B':
@@ -183,7 +183,7 @@ v1Fm1 = (int)ceil(pPN1);
 break;
 case 'e':
 case 'E':
-e_AoGSi = vqeq8R1(atim5);
+
 break;
 case 'f':
 case 'F':
@@ -209,7 +209,7 @@ else if (vP_kR51d)
 {
 if (ZeGj82r & 712893760)
 {
-e_AoGSi = vqeq8R1(e_AoGSi);
+
 }
 }
 else
@@ -233,7 +233,7 @@ std::cout << vqeq8R1(atim5) << ZeGj82r << vqeq8R1(-1081112595) << "Ca3j7p5J_i" <
 ++i;
 }
 }
-pPN1 = (int)floor(v1Fm1);
+
 j_5WRD = (int)abs(v1Fm1);
 
 e_AoGSi = vqeq8R1(-2050831566);

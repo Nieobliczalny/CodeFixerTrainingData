@@ -181,7 +181,7 @@ x2CCxmtKN = (int)floor(p4bLx56S6a);
 break;
 case 'd':
 case 'D':
-m2z3Yq <<= 351873326;
+
 break;
 case 'e':
 case 'E':
@@ -243,7 +243,7 @@ case 'a':
 Uw_B = I2E0Q(Uw_B, 1077097520, fnb_J18j, 282185891);
 break;
 case 'b':
-j5sd_Q = qY8JUFBb(-1166155441, 1427936635);
+
 break;
 case 'c':
 p4bLx56S6a = (int)floor(x2CCxmtKN);

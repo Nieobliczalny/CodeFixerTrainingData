@@ -26,7 +26,7 @@ int main(int argc, char** argv)
   unsigned short int  J18F1_44;
   J18F1_44  =  1059661151;
     char    p6N_7o4IHp;
-    p6N_7o4IHp    =    142268503;
+
   long long  JKJVh;
   JKJVh  =  -1320700388;
  int wqDbg3BV9;
@@ -40,7 +40,7 @@ int main(int argc, char** argv)
  long long q_K7Hldec;
  q_K7Hldec = 1125793417;
     char    jhfod_0;
-    jhfod_0    =    0;
+
 	unsigned char	D81pqOWfc;
 	D81pqOWfc	=	-932427066;
  int g_66qaVRp;
@@ -70,7 +70,7 @@ int main(int argc, char** argv)
 	double	jeh3fs;
 	jeh3fs	=	1097898953;
  int gbG_9;
- gbG_9 = -829642577;
+
 
 gbG_9 = f_1a22cT / VF7CM2nXYO;
 
@@ -88,7 +88,7 @@ F5imxk = (int)abs(wqDbg3BV9);
 }
 else if (v4y4is1Z == -1749430676)
 {
-VF7CM2nXYO = zdc7K95(xQcZG);
+
 }
 else
 {
@@ -131,7 +131,7 @@ case 'i':
 F5imxk = (int)ceil(jeh3fs);
 break;
 default:
-VF7CM2nXYO = zdc7K95(-1564618284);
+
 break;
 }
 }
@@ -155,7 +155,7 @@ sX4R2x = (int)abs(jeh3fs);
 }
 if (kPka7 < yPWmr17pce)
 {
-g_66qaVRp = JKJVh + 1079673131;
+
 }
 else if (((kPka7 & ndOLP6sd) && (xQcZG <= -903559918)) || (fhsaZ))
 {
@@ -165,7 +165,7 @@ case 0:
 fhsaZ = zdc7K95(I5fLHFx);
 break;
 case 1:
-xQcZG -= 335276395;
+
 break;
 default:
 jhfod_0 = zdc7K95(845995199);
@@ -195,7 +195,7 @@ F5imxk = (int)ceil(jeh3fs);
 break;
 case 'b':
 case 'B':
-jhfod_0 = zdc7K95(q_K7Hldec);
+
 break;
 case 'c':
 case 'C':
@@ -211,7 +211,7 @@ jeh3fs = (int)ceil(F5imxk);
 break;
 case 'f':
 case 'F':
-VF7CM2nXYO = zdc7K95(g_66qaVRp);
+
 break;
 }
 }
@@ -222,7 +222,7 @@ int k = 0;
 do
 {
 k++;
-VF7CM2nXYO = zdc7K95(2092185982);
+
 }
 while (k < 9);
 }
@@ -265,7 +265,7 @@ do
 {
 if (kPka7 < F5imxk)
 {
-g_66qaVRp = (int)abs(sX4R2x);
+
 }
 j++;
 }

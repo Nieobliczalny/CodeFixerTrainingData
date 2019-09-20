@@ -188,7 +188,7 @@ else if ((xKZV45D7) && (H8y0rMDD == eV3aJ_0Ox))
 {
 if (B7qNbe < -259727352)
 {
-NQi3Yk0 -= 2130900305;
+
 }
 else
 {
@@ -300,7 +300,7 @@ case 5:
 hn8Ur = SXA4hVs8m - K_R24;
 break;
 case 6:
-R_b7V &= 2033598456;
+
 break;
 case 7:
 OM91o <<= 1618264364;
@@ -431,7 +431,7 @@ i_9Q--;
 switch (NrXD)
 {
 case 0:
-NQi3Yk0 += 2118819158;
+
 break;
 case 1:
 Yk0r4_CW = h7pGSt ^ 95522481;
@@ -452,7 +452,7 @@ case 6:
 eV3aJ_0Ox -= 1348830608;
 break;
 case 7:
-R_b7V = (int)abs(cZ629R);
+
 break;
 default:
 l66RIv9 |= OrZ55nE;
@@ -462,7 +462,7 @@ break;
 switch (H8y0rMDD)
 {
 case 0:
-fJ1_s = Y_6_ << n8cV01_5;
+
 break;
 }
 K_R24 = Yk0r4_CW + 342409322;
@@ -492,7 +492,7 @@ OrZ55nE = (int)abs(h7pGSt);
 break;
 case 'f':
 case 'F':
-tWT5 /= c2_2UK1qO;
+
 break;
 case 'g':
 case 'G':
@@ -504,7 +504,7 @@ xKZV45D7 <<= Sff7KUj;
 break;
 case 'i':
 case 'I':
-fJ1_s = ToHU / x_c1o_;
+
 break;
 case 'j':
 case 'J':
@@ -522,7 +522,7 @@ if (te_0)
 {
 if (MT0OEz >= -411512218)
 {
-FCm1y1m7ls = WFpGpE << 1654071744;
+
 }
 }
 else if (l66RIv9 & J9xLp3J9N1)
@@ -555,7 +555,7 @@ Zo14oJK_U -= 1317260916;
 break;
 case 'g':
 case 'G':
-uo351BQ = OM91o + 1032556783;
+
 break;
 case 'h':
 case 'H':
@@ -598,7 +598,7 @@ for (int j = 0; j < 2; ++j)
 {
 if (W7JojIg >= 2137873641)
 {
-xKZV45D7 = x_c1o_ >> 591061837;
+
 }
 else if (o1M4HRj2E < 1691654937)
 {
@@ -624,7 +624,7 @@ if (xumE5_1 & 519015669)
 {
 if ((GP63 != H8y0rMDD) && (p_4Aq2Ytu8 > c2_2UK1qO))
 {
-mWkJ0_xh = Xp4R5s & CNQj2s;
+
 }
 else
 {
@@ -634,7 +634,7 @@ fJ1_s = MT0OEz >> 650422276;
 }
 else
 {
-Xp4R5s = SXA4hVs8m << 1152344346;
+
 }
 }
 }
@@ -655,7 +655,7 @@ else if ((fteN92 >= 651384711) || (BGXqjly9 < W7JojIg))
 switch (C_45OX9)
 {
 case 0:
-YB7j9Eb6 = (int)abs(SXA4hVs8m);
+
 break;
 case 1:
 A4hrScG -= dAR_f;
@@ -673,7 +673,7 @@ else
 switch (BuCm)
 {
 case 'a':
-uo351BQ = h7pGSt * jS3Hjprn;
+
 break;
 case 'b':
 mWkJ0_xh &= 2088308699;
@@ -685,7 +685,7 @@ case 'd':
 cZ629R = BuCm ^ 898770649;
 break;
 case 'e':
-H8y0rMDD = a9cRcI230 - 577579478;
+
 break;
 case 'f':
 dpl0sLi4 = o1M4HRj2E + 1086294384;
@@ -705,7 +705,7 @@ int j = 4;
 while (j >= 0)
 {
 --j;
-n8cV01_5 = (long long)(Zo14oJK_U);
+
 }
 }
 }
@@ -715,7 +715,7 @@ if ((cZ629R > 1444552728) && (Dl24x9 == -747213753))
 {
 cout << D97HB3uuz9 << endl;
 }
-OM91o = XFk5 >> 558946641;
+
 
 cout << LUEV3V9R1b << endl;
 cout << Sff7KUj << endl;

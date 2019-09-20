@@ -37,7 +37,7 @@ int main()
   long  jtY2_PLa_;
   jtY2_PLa_  =  0;
 	char	OCbjYfy98y;
-	OCbjYfy98y	=	-921061384;
+
  unsigned long long Pzy6;
  Pzy6 = -2114530077;
  float oG20kE;
@@ -49,7 +49,7 @@ int main()
     double    EbnCLb5Ado;
     EbnCLb5Ado    =    1316905083;
 	unsigned int	Hl55D5a;
-	Hl55D5a	=	393844752;
+
   long long  RvWfuNtvy;
   RvWfuNtvy  =  813035031;
   unsigned short int  a62qk;
@@ -73,7 +73,7 @@ int main()
     unsigned int    Nt6M4j_o9K;
     Nt6M4j_o9K    =    -2106803144;
   int  d58ju;
-  d58ju  =  -559526780;
+
 	unsigned int	w0Dab6;
 	w0Dab6	=	-2099595491;
  long long sTUQ7_Sl8I;
@@ -87,7 +87,7 @@ int main()
     long long    qGJh;
     qGJh    =    -1317547152;
     int    l9RAJ0HxTl;
-    l9RAJ0HxTl    =    -1152305799;
+
  unsigned short int h57hzpb_;
  h57hzpb_ = 1122788877;
     unsigned short int    BM2r45M;
@@ -159,7 +159,7 @@ case 'a':
 v5kQ = (int)ceil(l1g8yow);
 break;
 case 'b':
-Hl55D5a = S4xNIJte0(-1201420723, VTl9u, -1322333860, G___16j5);
+
 break;
 case 'c':
 H392R4h0 = pU7YF + VTl9u;
@@ -193,7 +193,7 @@ for (int i = 0; i < 4; i++)
 cout << "RbJxSa_6lI" << i0o9G << w99h27H(oTyfCU3l, 1091899857) << oG20kE << endl;
 }
 
-qGJh <<= H392R4h0;
+
 
 if (jtY2_PLa_ == 0)
 {
@@ -214,7 +214,7 @@ int i = 3;
 while (i >= 0)
 {
 i--;
-Pzy6 = (unsigned long long)(pU7YF);
+
 }
 }
 i0o9G = (int)abs(sTUQ7_Sl8I);
@@ -225,7 +225,7 @@ case 0:
 BM2r45M -= 1104992178;
 break;
 case 1:
-Q9P1V = Qg3nH4tN + DpGG6J4DK;
+
 break;
 case 2:
 Nt6M4j_o9K >>= i0o9G;
@@ -237,7 +237,7 @@ case 4:
 BM2r45M = S4xNIJte0(667218876, G___16j5, w0Dab6, 1449392594);
 break;
 case 5:
-j0_rcGo7 = (int)abs(oj443);
+
 break;
 case 6:
 OGdGIci5YR = BM2r45M / H392R4h0;

@@ -53,7 +53,7 @@ int main()
   DGTuvK_K  =  -1898897602;
   L2U5  =  1551091574;
   c_FUa32h  =  -1270214874;
-  ObXh2U4p_  =  629075745;
+
   I461  =  -1059498274;
   Q7A55  =  -797046287;
   l3e5b  =  846825959;
@@ -107,7 +107,7 @@ else if (Iw5aq <= -263073067)
 {
 if (Q7A55 < fK_86py8Ts)
 {
-ObXh2U4p_ = n5J4();
+
 }
 }
 else if (((azWqq == tpNC6X1Y) && (O50Xgq8Y_ > WJjv4y2nu)) && (eml6T != tpNC6X1Y))
@@ -676,7 +676,7 @@ if (sALu216 >= YJM5)
 {
 if (((iUduQ6aqO != tpNC6X1Y) || (u9_iP3N)) && ((RO_WP <= g6dIlV_) || (NMEl_zz < -164601123)))
 {
-hD1YTPs7F = qsA6I7ah & WJjv4y2nu;
+
 }
 else if (SS43 > -692509040)
 {
@@ -729,7 +729,7 @@ case 6:
 s1JnIS = L2U5 & 1049989416;
 break;
 case 7:
-ObXh2U4p_ = (int)abs(Iw5aq);
+
 break;
 case 8:
 ygEYac_ = n5J4();
@@ -764,7 +764,7 @@ do
 int k = 0;
 do
 {
-Q7A55 = n5J4();
+
 k++;
 }
 while (k < 8);
@@ -784,7 +784,7 @@ try
 {
 if (pm297Bwl)
 {
-Q7A55 = n5J4();
+
 }
 else if (ygEYac_ < -1648108586)
 {
@@ -817,7 +817,7 @@ if (I461 != W1x00P23W1)
 {
 try
 {
-hD1YTPs7F = (long)(fK_86py8Ts + (1912411755));
+
 }
 catch (int& errorCode)
 {
@@ -867,7 +867,7 @@ w_TX30 = E4IYR(170507939, -2118273417, 1758807998, wzgP8, db5qQ0KFf);
 break;
 case 'b':
 case 'B':
-NMEl_zz = n5J4();
+
 break;
 default:
 XV8Hw = n5J4();

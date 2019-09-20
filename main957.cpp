@@ -160,7 +160,7 @@ case 'd':
 haVFg >>= 1447180794;
 break;
 case 'e':
-AYP3L = (int)abs(vq3K2Yv1Aq) * 0;
+
 break;
 case 'f':
 npEQ ^= 7942573;
@@ -396,7 +396,7 @@ owfUYRnmI7 *= ozto9;
 
 cout << "ZRx3V63i" << endl;
 
-a6AN = (int)ceil(owfUYRnmI7);
+
 cout << haVFg << "TBg9Ntg6_R" << endl;
 
 lCyFGDN5F = GLy0q9GiAb & 1043887285;

@@ -45,7 +45,7 @@ int main() {
 
 if (GgDAMw == 0)
 {
-	N_oj0acLk = yDtf6PRv / GgDAMw;
+
 }
 cout << "qtbCEh8" << endl;
 
@@ -61,7 +61,7 @@ case 'c':
 U1ox9 = (cP89 >= -13737434) ? 1644297439 : MeGPcj7wS;
 break;
 case 'd':
-hpG4AB_ = (int)abs(ZMh9MTh9G5) * 0;
+
 break;
 case 'e':
 U1ox9 = (int)floor(fI_qI_o);
@@ -79,7 +79,7 @@ hFr6WpopO = (int)abs(c_S0_0X10C);
 switch (XYAtmRqYv)
 {
 case 0:
-p99v0 %= 685355930;
+
 break;
 case 1:
 c_S0_0X10C = p99v0 / rJpr4Vi;
@@ -91,7 +91,7 @@ case 3:
 kiC87_371 >>= XYAtmRqYv;
 break;
 case 4:
-rJpr4Vi >>= BD4Cg1;
+
 break;
 case 5:
 MeGPcj7wS = (int)floor(U1ox9);
@@ -103,7 +103,7 @@ case 7:
 U1ox9 = hFr6WpopO << SL1yk9Y;
 break;
 case 8:
-ZMh9MTh9G5 = SL1yk9Y - 1441723067;
+
 break;
 }
 {
@@ -125,7 +125,7 @@ i++;
 }
 }
 
-hpG4AB_ = (long)(U1ox9 * (Om5SNtM6_));
+
 return 0;
 }
 

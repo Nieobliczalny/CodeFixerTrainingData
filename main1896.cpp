@@ -91,7 +91,7 @@ switch (ZllbqlXi)
 {
 case 'a':
 case 'A':
-ZllbqlXi = Ji72 ^ dSpJF6r21A;
+
 break;
 case 'b':
 case 'B':
@@ -272,7 +272,7 @@ case 3:
 z3xjq2EJ = MNfamy1iK(2031864917, -1410726904, ZllbqlXi);
 break;
 case 4:
-JyQ16mIFv = z8jk(JyQ16mIFv);
+
 break;
 case 5:
 UTWP_ = (int)abs(dSpJF6r21A);
@@ -309,7 +309,7 @@ std::cout << R66QyOKk << D1496ITO(1324069991, 1779167834, 775698796, dSpJF6r21A)
 
 if ((z3xjq2EJ > -1506271976) && (R66QyOKk & 468974711))
 {
-UTWP_ = (long long)(xsirn);
+
 }
 else
 {

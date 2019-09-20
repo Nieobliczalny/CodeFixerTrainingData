@@ -32,7 +32,7 @@ int main() {
 
 if (lJRYmr8N3)
 {
-uUyQHfi = (unsigned long)(zIQPN5DJ74);
+
 }
 else if (Iqn71 & 1489752633)
 {
@@ -48,7 +48,7 @@ while (j < 8);
 }
 else
 {
-c713 = (int)ceil(kWyr5);
+
 }
 eIaMmGq6z = (long long)(CYMbL9ZfB1);
 
@@ -265,7 +265,7 @@ case 1:
 FOd0Tiz = (int)abs(QUX6O87Z);
 break;
 case 2:
-c713 = (int)ceil(kWyr5);
+
 break;
 case 3:
 uUyQHfi *= 905054846;
@@ -298,7 +298,7 @@ lJRYmr8N3 >>= Iqn71;
 }
 for (int i = 0; i < 3; ++i)
 {
-uUyQHfi = aXx1 | Jco78oJY1;
+
 }
 
 c713 = (int)abs(O19hGRh);
@@ -320,7 +320,7 @@ QUX6O87Z = (int)abs(eIaMmGq6z) + (534074759);
 
 uUyQHfi = FOd0Tiz | 1814007659;
 
-aXx1 = (long)(CYMbL9ZfB1);
+
 
 cout << "k___i" << Iqn71 << W6VQ42G46N << Pp5iZav2 << "w8Sbf_" << endl;
 switch (gIiG9)
@@ -331,7 +331,7 @@ kWyr5 = (int)floor(c713);
 break;
 case 'b':
 case 'B':
-uUyQHfi &= 526151686;
+
 break;
 case 'c':
 case 'C':
@@ -343,7 +343,7 @@ BZeDNY4uxl = gIiG9 ^ T6Osdh2f;
 break;
 case 'e':
 case 'E':
-Iqn71 = QUX6O87Z & gIiG9;
+
 break;
 case 'f':
 case 'F':
@@ -358,7 +358,7 @@ case 'H':
 kWyr5 = (int)floor(c713);
 break;
 default:
-W6VQ42G46N *= 67007017;
+
 break;
 }
 

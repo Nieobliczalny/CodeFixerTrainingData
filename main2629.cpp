@@ -114,7 +114,7 @@ int main(int argc, char** argv)
     unsigned char    rTk_    =    1788046832;
   short  Oflp  =  -843082921;
 
-t0Gc = (unsigned char)(Lv62Or);
+
 
 {
 int i = 10;
@@ -131,7 +131,7 @@ if (aLHHLcL36_ <= p5957)
 {
 try
 {
-x10_W4ARUb = pW9PHxI83 - 1860111131;
+
 }
 catch (int& errorCode)
 {
@@ -151,7 +151,7 @@ Ic34f9o4Sa = D37P(Ic34f9o4Sa, 421501083);
 }
 }
 
-aLHHLcL36_ = (int)ceil(xXU3v);
+
 
 BWgffh4ftm = ZGS1v8TE / x_NX2(Ic34f9o4Sa, rjnTpF1Uub, 1354476663, -52249617, 1867607506);
 try
@@ -163,7 +163,7 @@ catch (int& errorCode)
 Ip0MI = x_NX2(1205131444, 403269062, uFLGdq, F0ZI3MQ70_, eu4ku10etl);
 }
 cout << h7S56m881(P_gr0kGJm, PALXOJf, uFLGdq, F0ZI3MQ70_, eu4ku10etl) << endl;
-JU52j5I = (long)(ld1GYRb);
+
 m2a30Z32j = (char)(X0dh0);
 cout << "RJ1n" << x_NX2(300960024, -868100518, uFLGdq, F0ZI3MQ70_, 269406417) << m2a30Z32j << endl;
 
@@ -179,7 +179,7 @@ vBBqs1c = h7S56m881(1396639007, 1364955777, 259378187, x2xzq_z8, -56780077);
 break;
 case 'c':
 case 'C':
-x_9j389_vb = DuQCVEmVn & 42799957;
+
 break;
 case 'd':
 case 'D':
@@ -191,7 +191,7 @@ rraK7bpv = (int)ceil(O51qtO0);
 break;
 case 'f':
 case 'F':
-Q9ly2 = TFD0ogja / 408786431;
+
 break;
 default:
 U32Rl_b7 /= 666533854;

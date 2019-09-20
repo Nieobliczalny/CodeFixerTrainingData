@@ -538,7 +538,7 @@ dATLb9_9 /= 341308457;
 break;
 case 'b':
 case 'B':
-w0z634 = SrSNL();
+
 break;
 case 'c':
 case 'C':
@@ -562,7 +562,7 @@ dATLb9_9 = hbFc(w0z634, uylo, 381569414, 724874560, -1435989841);
 break;
 case 'h':
 case 'H':
-w0z634 = SrSNL();
+
 break;
 case 'i':
 case 'I':

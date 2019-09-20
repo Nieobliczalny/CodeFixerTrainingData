@@ -343,7 +343,7 @@ case 0:
 D7hwhy5UV = (int)floor(E_N8JKtqSG);
 break;
 case 1:
-xikznxD = Qzw0UYjrEN(217717846);
+
 break;
 case 2:
 GruE8sRfg = UJ5DK(1098334414);
@@ -412,7 +412,7 @@ for (int i = 0; i < 6; i++)
 {
 if (fUy8)
 {
-E_N8JKtqSG = (int)ceil(NFKXM);
+
 }
 else if (wuL4r10 > -171901431)
 {
@@ -430,7 +430,7 @@ wuL4r10 %= taanV6;
 }
 else if ((wOKQys61 > zTb5049_) || (caP36h7393))
 {
-E_N8JKtqSG = (int)ceil(icVws4);
+
 }
 else
 {
@@ -453,7 +453,7 @@ taanV6 = (int)abs(cscxfN06F);
 }
 else if (s84b_0JUyw == zTb5049_)
 {
-Q697 = gWwS_1B3 % R77L8qq237;
+
 }
 else if ((ljFnJK5eIR > zTb5049_) && (u_j3 != L0n3b_))
 {
@@ -516,7 +516,7 @@ do
 ++j;
 if (rGCtu50VM > -1758960201)
 {
-Q697 = DTOZqt5H6(-401426499, b2MRX6Vv07, uwdy1Osui, 1078088717, K4f1GDYVl);
+
 }
 }
 while (j < 7);
@@ -546,7 +546,7 @@ while (i >= 0);
 }
 
 L0n3b_ = 2073280549 / JJDH5;
-GLwr94 <<= 1588429198;
+
 
 cout << tO0QVqUt << UJ5DK(1667116484) << rGCtu50VM << "w9OC8ZB" << IFH4vJy561() << endl;
 {
@@ -569,7 +569,7 @@ int j = 5;
 while (j >= 0)
 {
 j--;
-P96_ = (unsigned short int)(ym4xZ27HQ4);
+
 }
 }
 }
@@ -583,7 +583,7 @@ TZ_sKaa = DTOZqt5H6(TZ_sKaa, z0UD1_, -948612994, 389166293, ym4xZ27HQ4);
 break;
 case 'b':
 case 'B':
-P96_ <<= 1058110320;
+
 break;
 case 'c':
 case 'C':
@@ -606,7 +606,7 @@ case 1:
 NcZj = (int)abs(s84b_0JUyw);
 break;
 case 2:
-zZ5g = J1rLXV3Xuh(-1818708176, z0UD1_, L0n3b_, caP36h7393, QwgzgcLN);
+
 break;
 case 3:
 CreNzJ2 = (int)abs(lOqE);
@@ -618,7 +618,7 @@ case 5:
 D7hwhy5UV = DTOZqt5H6(1653062544, -990395974, 1602598049, -1825328871, icVws4);
 break;
 case 6:
-JJDH5 = IFH4vJy561();
+
 break;
 case 7:
 D7hwhy5UV = (int)floor(icVws4);
@@ -631,7 +631,7 @@ break;
 
 if (R77L8qq237 & TZ_sKaa)
 {
-QwgzgcLN = (unsigned short int)(ni80n164oL);
+
 }
 
 if (ljFnJK5eIR)
@@ -664,7 +664,7 @@ i++;
 }
 }
 
-gWwS_1B3 = (int)abs(icVws4);
+
 cout << NcZj << endl;
 k34x = J1rLXV3Xuh(k34x, wOKQys61, 992594144, s84b_0JUyw, -1660863645);
 ljFnJK5eIR = (long)(hWFJ + (mV8zTZ4C1));
@@ -676,7 +676,7 @@ for (int i = 0; i < 8; ++i)
 {
 if (caP36h7393 > 1432507254)
 {
-V9Yv2pm = J1rLXV3Xuh(-1459657582, TZ_sKaa, -414590780, -1107197358, mno8);
+
 }
 }
 return 0;

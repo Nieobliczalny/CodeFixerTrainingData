@@ -19,7 +19,7 @@ std::cout << "a1d4Gs4K18" << "Z5pV_4JX9w" << std::endl;
 
 if (BYo1339O3w(1708165912, 1678004061, TjTR_1kmHc, Gn6gRXK7P4) == 0)
 {
-	x0310 = Zye2_mTJ / BYo1339O3w(1708165912, 1678004061, TjTR_1kmHc, Gn6gRXK7P4);
+
 }
 
 for (int i = 0; i < 7; i++)
@@ -32,7 +32,7 @@ while (j < 9)
 int k = 10;
 while (k >= 0)
 {
-vQYW8_V0 = BYo1339O3w(ECRqZtm, MWBnSg6, -928175161, -2034722540);
+
 k--;
 }
 }
@@ -42,7 +42,7 @@ j++;
 }
 y9w12634Y = (unsigned long)(fi5D);
 
-IaiyO = ByT7(IaiyO);
+
 
 return 0;
 }

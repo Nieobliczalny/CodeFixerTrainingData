@@ -205,7 +205,7 @@ XG51b5eU4m = (int)abs(FyQBdv);
 switch (iFOX6)
 {
 case 0:
-bO29Xc7eIC = p4Cf | 1447093217;
+
 break;
 case 1:
 Rtjk = d5B1Vg(1842080313, Rtjk);
@@ -220,7 +220,7 @@ case 4:
 P185 = d5B1Vg(380581767, sJ4La_70);
 break;
 case 5:
-VMUD2h &= 261731835;
+
 break;
 case 6:
 p4Cf = nlyD9v >> Sw0R6;
@@ -289,7 +289,7 @@ std::cout << oo6pl << v6oB59u << "lHadOcoQvI" << std::endl;
 
 if (d5B1Vg(TWlR, 1961003985) == 0)
 {
-	Bg355MFw67 = -1242138192 / d5B1Vg(TWlR, 1961003985);
+
 }
 if (FyQBdv & -1915650934)
 {
@@ -325,7 +325,7 @@ Ng_PoIq &= 1631716889;
 }
 std::cout << d5B1Vg(592349175, RM4g2) << std::endl;
 
-m407HyZ = RQgp - E_7TQ;
+
 
 V759mlj_3++;
 return 0;

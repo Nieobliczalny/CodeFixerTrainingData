@@ -313,7 +313,7 @@ while (i < 2);
 O8x8 = (unsigned short)(e91Lee31);
 J_C2vw <<= 620804030;
 
-e91Lee31 = (unsigned short)(G2ch);
+
 
 e91Lee31 = (unsigned short)(G2ch);
 

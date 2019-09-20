@@ -168,7 +168,7 @@ for (int j = 8; j >= 0; j--)
 {
 for (int k = 10; k >= 0; k--)
 {
-o_0kx = (int)floor(GVk2hRW_o);
+
 }
 }
 }
@@ -340,7 +340,7 @@ cout << O0Ex << oHXq26(AlAxm, 928285756, b6ih_Af1Y) << LT5jnka2C(AlAxm, 18110031
 }
 }
 
-p6Ah_ = (short)(usz395);
+
 MYs5GxDpx_ -= Xh47Bq;
 
 if ((G30bn1c) || (AlAxm >= -1491637230))
@@ -439,7 +439,7 @@ try
 {
 if ((gBPS_7OQy > -1092189180) && (U5T98V4I == -270010359))
 {
-t_2La = i557F25U_();
+
 }
 }
 catch (int& errorCode)
@@ -454,7 +454,7 @@ if (KKl5Jz < 654967458)
 {
 if (FdO_3 <= -302812237)
 {
-oh_S911j = (unsigned long)(AgJ2u3P6_);
+
 }
 }
 
@@ -464,7 +464,7 @@ switch (usz395)
 {
 case 'a':
 case 'A':
-eylF79 = oHXq26(788482264, KKl5Jz, 271322222);
+
 break;
 case 'b':
 case 'B':
@@ -480,7 +480,7 @@ else if (XfV783QqYC < 1070260510)
 {
 try
 {
-ITN__26 = (short)(I6IW1MX);
+
 }
 catch (int& errorCode)
 {
@@ -526,7 +526,7 @@ GVk2hRW_o *= 1520681915;
 }
 else
 {
-FdO_3 = t5gd0VYAC % 79398329;
+
 }
 }
 }
@@ -560,7 +560,7 @@ case 3:
 gWV4hD_g |= b6ih_Af1Y;
 break;
 case 4:
-usz395 = oHXq26(usz395, -1718935693, CqcR);
+
 break;
 case 5:
 NZSpxkQN9 = pDTLVBmLV % 916767074;
@@ -586,7 +586,7 @@ do
 i--;
 if (gq_2 >= gBPS_7OQy)
 {
-L6MM_1A6l = Jh_7krJw & 440778913;
+
 }
 else if (s13k4U1i < -802904946)
 {
@@ -629,7 +629,7 @@ else if ((kFTO != 434200177) || (y7z7 < 2011324524))
 {
 for (int k = 5; k >= 0; k--)
 {
-FTfl4 = gBPS_7OQy * 349578657;
+
 }
 }
 else if (s13k4U1i < -969392222)
@@ -641,7 +641,7 @@ Lu2QsD7i <<= J21lOS;
 }
 else if (((AlAxm) && (KKl5Jz < -746764802)) || (XfV783QqYC == gBPS_7OQy))
 {
-MYs5GxDpx_ = (int)floor(GVk2hRW_o);
+
 }
 else if (AlAxm < N5S8nB35U)
 {
@@ -651,7 +651,7 @@ o_0kx = (int)floor(GVk2hRW_o);
 }
 else if (U67Z88O9u < pDTLVBmLV)
 {
-Bn5W70_eC5 = (int)abs(y7z7);
+
 }
 else
 {
@@ -664,7 +664,7 @@ cout << oHXq26(I6IW1MX, 1557379210, J21lOS) << endl;
 }
 else
 {
-Ucy9M80 = Sgg2f(Ucy9M80, -1324893070);
+
 }
 }
 else
@@ -677,7 +677,7 @@ while (j < 5)
 int k = 0;
 while (k < 7)
 {
-cYM0vssM = LT5jnka2C(Ucy9M80, 990387520, 205137362, 104334533) ^ 1444324783;
+
 k++;
 }
 }

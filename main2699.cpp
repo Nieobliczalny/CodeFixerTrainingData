@@ -27,7 +27,7 @@ int main(void) {
 	long	dJlc5;
 	dJlc5	=	0;
 	long	e3ssufEa;
-	e3ssufEa	=	1264480704;
+
     unsigned short int    AFq31j;
     AFq31j    =    -284744347;
   unsigned char  cC8r;
@@ -45,7 +45,7 @@ int main(void) {
     unsigned int    juG15Fy5_5;
     juG15Fy5_5    =    -75848860;
   long  W_Iln;
-  W_Iln  =  -276869886;
+
  float Mr_k599Sa;
  Mr_k599Sa = 356496563;
   unsigned short int  n87_WS;
@@ -69,7 +69,7 @@ int main(void) {
  long iW0BAO5S4;
  iW0BAO5S4 = 1335950196;
   unsigned char  FSNoR7;
-  FSNoR7  =  0;
+
     long double    p66DaF;
     p66DaF    =    1726120603;
 	char	Er8YyqbFw;
@@ -87,7 +87,7 @@ int main(void) {
 	unsigned int	e45y;
 	e45y	=	-569879488;
 	unsigned short	L7ydxnc0;
-	L7ydxnc0	=	2005599409;
+
     unsigned long    m173pE2;
     m173pE2    =    -212378105;
   char  jxAo0w8;
@@ -99,7 +99,7 @@ int main(void) {
   unsigned short  iVx2QD;
   iVx2QD  =  2143972621;
     unsigned short int    Bqo5WtChIK;
-    Bqo5WtChIK    =    1478120153;
+
 	unsigned int	J818p;
 	J818p	=	1388953291;
     unsigned short    J7P2KSQ;
@@ -113,7 +113,7 @@ int main(void) {
   int  c419Je;
   c419Je  =  -715604944;
  unsigned int jWQluE1;
- jWQluE1 = 1422582426;
+
   double  bqjn;
   bqjn  =  2035722881;
 
@@ -158,7 +158,7 @@ iW0BAO5S4 = N258(1004615529, 25243356, vBuaC, 1888146386, lSeY);
 }
 }
 
-FSNoR7 = l92RMWo(Eov0M6aC83);
+
 L44Q88b3 = N258(-1167687918, L44Q88b3, 1285830803, -696407641, 1998982456);
 
 try
@@ -222,7 +222,7 @@ break;
 }
 std::cout << N258(-1377813762, D4gcl_5H, vBuaC, 1214062148, 758162951) << std::endl;
 
-jxAo0w8 -= 1976049306;
+
 for (int i = 0; i < 2; i++)
 {
 vBuaC = (long double)(poK0);
@@ -246,7 +246,7 @@ switch (B7me)
 {
 case 'a':
 case 'A':
-jxAo0w8 = Qqs67k & AFq31j;
+
 break;
 case 'b':
 case 'B':
@@ -292,7 +292,7 @@ int i = 5;
 do
 {
 --i;
-Bqo5WtChIK = WYmjf3V3 * 1348444438;
+
 }
 while (i >= 0);
 }
@@ -318,7 +318,7 @@ else
 switch (Qqs67k)
 {
 case 0:
-L44Q88b3 = (int)abs(poK0);
+
 break;
 case 1:
 vBuaC = (int)ceil(bqjn);
@@ -336,7 +336,7 @@ do
 switch (ZF71UJS2a)
 {
 case 'a':
-FSNoR7 = l92RMWo(Eov0M6aC83);
+
 break;
 case 'b':
 p66DaF = (int)floor(bqjn);
@@ -354,7 +354,7 @@ case 'f':
 W_Iln %= poK0;
 break;
 case 'g':
-AFq31j = cC8r | iVx2QD;
+
 break;
 case 'h':
 Q6hFYpF5N = jUDoN0v64f(Q6hFYpF5N, iVx2QD, 1883716853, dJlc5, 1295875711);

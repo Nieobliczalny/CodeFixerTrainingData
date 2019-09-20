@@ -22,7 +22,7 @@ int main(void)
  L7914E1Nh = 548969092;
  M1bNA = -55545488;
  glgGbtu01m = -352392893;
- wS2XuIwC73 = -779063048;
+
  t51Q1 = 853853615;
  kUuGT = -298473213;
  F__48X = 1028268239;
@@ -37,7 +37,7 @@ int main(void)
  o46UXb = -1469246404;
  Rna32X268 = 1793817536;
  p9FLXLU0d = -2026935183;
- vPR800dmx = -1005896607;
+
  ng7H4f4Bp = -691888030;
  J3t0scgnU = 196572512;
  me25i = -1020532877;
@@ -48,7 +48,7 @@ int main(void)
  XLs8E2weX = -1683515720;
  Ue_yKY97jD = 51714502;
  yZdb = -1518241980;
- L6B7yrL = -243360913;
+
  hrsY_m72Rw = -949195907;
  YUv8K0crq5 = -750985228;
  m1Q2S807Y = -63041792;
@@ -66,7 +66,7 @@ int main(void)
  qE98_Olv_G = 495224372;
  ET6l14 = 1977134412;
   unsigned short int  w880n1i_3O;
-  w880n1i_3O  =  0;
+
 
 for (int i = 8; i >= 0; --i)
 {
@@ -127,7 +127,7 @@ if ((nmBy5 == -1058123880) && (qE98_Olv_G <= 1291796165))
 int k = 0;
 do
 {
-f9qWgL = xW46T843E5 & 1807557266;
+
 k++;
 }
 while (k < 8);
@@ -184,7 +184,7 @@ else if (C17LvuCD == 666518887)
 switch (ET6l14)
 {
 case 0:
-l84IC = Ti87(1423193472, m1Q2S807Y, Tafb);
+
 break;
 default:
 kUuGT = qfkv(-1528788047);
@@ -196,7 +196,7 @@ else
 Nbp3m = (unsigned long long)(QJP2);
 }
 
-lcsKPL = (unsigned long long)(QJP2);
+
 
 {
 int i = 3;
@@ -207,7 +207,7 @@ xW46T843E5 ^= 1662896801;
 }
 while (i >= 0);
 }
-VtnmvT4I = -680018620 / scOPd(568462256, -1369576914, L7914E1Nh);
+
 if (ekW5l53N_ >= 726064120)
 {
 switch (glgGbtu01m)
@@ -222,7 +222,7 @@ case 2:
 Nbp3m = qfkv(1518248703);
 break;
 case 3:
-w880n1i_3O = scOPd(-1658707574, qE98_Olv_G, -1321282887);
+
 break;
 case 4:
 OKTH_f13R++;
@@ -234,7 +234,7 @@ case 6:
 L7914E1Nh = Ti87(-1505871461, p9FLXLU0d, 1456178496);
 break;
 default:
-w880n1i_3O = scOPd(1620733329, MqMHdY0gC, rWrV13);
+
 break;
 }
 }
@@ -250,7 +250,7 @@ catch (int& errorCode)
 {
 Wh9_ /= Wh9_;
 }
-Rna32X268 = (unsigned long long)(oS6Ju3uO96);
+
 xW46T843E5 = (unsigned long long)(QJP2);
 
 {
@@ -262,7 +262,7 @@ switch (F__48X)
 {
 case 'a':
 case 'A':
-L6B7yrL = Ti87(489500265, MqMHdY0gC, rWrV13) / M1bNA;
+
 break;
 case 'b':
 case 'B':
@@ -286,7 +286,7 @@ ET6l14--;
 break;
 case 'g':
 case 'G':
-wS2XuIwC73 = qfkv(-122172220) / 305376835;
+
 break;
 case 'h':
 case 'H':
@@ -298,7 +298,7 @@ w880n1i_3O = scOPd(1336185652, 663885262, -1490652312);
 break;
 case 'j':
 case 'J':
-l84IC = (nmBy5 < krP541V56H) ? o46UXb : 1253375196;
+
 break;
 default:
 Ue_yKY97jD = qfkv(-627832752);

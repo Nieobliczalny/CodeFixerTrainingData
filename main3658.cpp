@@ -36,7 +36,7 @@ int main(int argc, char** argv)
  float If65W;
  If65W = 198374569;
 	unsigned int	YN7t7;
-	YN7t7	=	2098201452;
+
  char rJS6B;
  rJS6B = 0;
  float fWEBCw5G;
@@ -60,7 +60,7 @@ int main(int argc, char** argv)
     short int    DQ94cfUew;
     DQ94cfUew    =    1727566268;
   long long  y4RY0;
-  y4RY0  =  -1677341412;
+
 	char	fw_t7_;
 	fw_t7_	=	-691825784;
  unsigned int Ui80hdi;
@@ -310,7 +310,7 @@ case 0:
 rJS6B = rigJ0();
 break;
 case 1:
-gp5M954 <<= 1783007610;
+
 break;
 case 2:
 fWEBCw5G = (int)floor(T54CFvA);
@@ -384,7 +384,7 @@ while (j < 9)
 j++;
 try
 {
-wv_1Lz = (int)abs(V_pkQK);
+
 }
 catch (int& errorCode)
 {
@@ -397,7 +397,7 @@ else
 {
 if (lY03HA != eZ8b235N)
 {
-QY7mJR2F12 = (unsigned long)(wv_1Lz);
+
 }
 else if (B214_RJBJw)
 {
@@ -437,7 +437,7 @@ else
 {
 if (DQ94cfUew)
 {
-MCl_6n4Y0 = yVY36cr8zw - rJS6B;
+
 }
 else
 {
@@ -471,7 +471,7 @@ cout << "V98F4U" << "lqr3m7b" << rigJ0() << rigJ0() << "SlE4" << endl;
 }
 else
 {
-qaBeyL -= 939646887;
+
 }
 if (fWEBCw5G < eZ8b235N)
 {
@@ -484,7 +484,7 @@ int j = 5;
 while (j >= 0)
 {
 j--;
-T54CFvA = (int)floor(fWEBCw5G);
+
 }
 }
 }

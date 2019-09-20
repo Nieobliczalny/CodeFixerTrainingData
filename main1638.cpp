@@ -16,7 +16,7 @@ int main(int argc, char** argv) {
 	unsigned int	e_05;
 	e_05	=	-200412425;
 	long double	qm17P8zdb;
-	qm17P8zdb	=	-613634673;
+
   unsigned long long  lL68;
   lL68  =  0;
 	short	kAnO_XQa6;
@@ -28,7 +28,7 @@ int main(int argc, char** argv) {
 	float	VVR8Z23Vt;
 	VVR8Z23Vt	=	1114474036;
  unsigned long gpAP3L;
- gpAP3L = 0;
+
 	unsigned short	zOPfC;
 	zOPfC	=	-457107060;
  int ibcu_Ouy;
@@ -39,7 +39,7 @@ int main(int argc, char** argv) {
 switch (W_8J9h)
 {
 case 'a':
-NrKaY362Z |= W_8J9h;
+
 break;
 case 'b':
 NrKaY362Z--;
@@ -53,7 +53,7 @@ break;
 int i = 0;
 do
 {
-qm17P8zdb = (long double)(VVR8Z23Vt);
+
 i++;
 }
 while (i < 5);

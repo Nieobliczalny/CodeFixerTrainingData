@@ -10,7 +10,7 @@ using namespace std;
 
 int main(void) {
 	unsigned short	MlQytgY;
-	MlQytgY	=	1626921992;
+
     short    Ww2aHg74u;
     Ww2aHg74u    =    -58749059;
   double  xAd5l;
@@ -22,7 +22,7 @@ int main(void) {
  short int bdHbS;
  bdHbS = 1095086044;
     int    l965;
-    l965    =    -286720345;
+
     unsigned char    M2ONt1;
     M2ONt1    =    -846377416;
   unsigned short int  cD2h;
@@ -32,7 +32,7 @@ int main(void) {
  unsigned short int UgKYa99Y39;
  UgKYa99Y39 = 195565588;
     short    Ctu05MJ_;
-    Ctu05MJ_    =    -1152201285;
+
   short int  iDd544KXT6;
   iDd544KXT6  =  1271809738;
  short XenVN;
@@ -42,7 +42,7 @@ int main(void) {
     unsigned long long    X_Hzw;
     X_Hzw    =    -14781980;
  long long I42Yb26f7h;
- I42Yb26f7h = 439053992;
+
   long long  jRiF8I;
   jRiF8I  =  368082969;
 	long long	fi7lVr;
@@ -54,7 +54,7 @@ int main(void) {
  int K81PPA;
  K81PPA = 1794883894;
   char  AS05CHc;
-  AS05CHc  =  -1936059131;
+
     unsigned long    w0Y325;
     w0Y325    =    -204177812;
  float o9G1;
@@ -64,7 +64,7 @@ int main(void) {
     short    e_3tgO7U;
     e_3tgO7U    =    -662530374;
  int HrBROl78_;
- HrBROl78_ = -958446542;
+
 	long double	WFlMs0PLb;
 	WFlMs0PLb	=	266462382;
 	char	o5MsXB4;
@@ -74,7 +74,7 @@ int main(void) {
     long double    c__FL;
     c__FL    =    1785069798;
     unsigned short    fY4_c;
-    fY4_c    =    -812055518;
+
   short int  D2Ck0976m;
   D2Ck0976m  =  0;
 	char	O1_db01JK;
@@ -106,7 +106,7 @@ while (j >= 0);
 }
 try
 {
-e_3tgO7U = XenVN + 1994001682;
+
 }
 catch (int& errorCode)
 {
@@ -119,7 +119,7 @@ O1_db01JK = M2ONt1 / D2Ck0976m;
 switch (iDd544KXT6)
 {
 case 'a':
-O1_db01JK = (int)abs(iDd544KXT6);
+
 break;
 case 'b':
 x8BGX ^= 722427227;
@@ -131,7 +131,7 @@ case 'd':
 w0Y325 |= Hel9;
 break;
 case 'e':
-wAAZ5o = tieW9R2hzb << 1327457647;
+
 break;
 case 'f':
 UgKYa99Y39 = V3UYpM_I + 2088587389;
@@ -143,7 +143,7 @@ case 'h':
 UgKYa99Y39 = Jds3kV | 1421456717;
 break;
 case 'i':
-UgKYa99Y39 /= 154587435;
+
 break;
 default:
 I42Yb26f7h = V3UYpM_I << 1110110642;

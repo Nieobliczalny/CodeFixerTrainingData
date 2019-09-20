@@ -11,7 +11,7 @@ using namespace std;
 
 int main() {
     char    liaw4,    IsIQ,    e4Jx,    G311M,    D53Yms0wD5;
-    liaw4    =    0;
+
     IsIQ    =    0;
     e4Jx    =    0;
     G311M    =    0;
@@ -25,7 +25,7 @@ int main() {
   i37AaGd  =  818582924;
   v290rjY7X  =  378776140;
   TGMy_CUmO  =  -2067694086;
-  vIPRU4yO  =  1425893670;
+
   f75A6Oy  =  -58981364;
   klFSk23  =  -2041112656;
   M5QVcm  =  -982481167;
@@ -37,7 +37,7 @@ int main() {
   z8zz  =  -1752018929;
   t3Y_gxU7  =  -1703670200;
   Hwfjy_  =  -1762682751;
-  AaZ9w3  =  1665661669;
+
   ZEa7S4  =  591791644;
   AbsNFo5j  =  1645802633;
   hJ29  =  222632276;
@@ -49,7 +49,7 @@ int main() {
   V_k7Yv6L  =  1794782014;
   w8Y_5T_6Zj  =  -1196832892;
   xw6i  =  2017992595;
-  aT1_  =  -1731560736;
+
   QDTZ  =  2098837484;
   h159HYJC  =  -1772577682;
   x0Tsb1_  =  -684577808;
@@ -61,7 +61,7 @@ int main() {
   gcQG  =  570383162;
   Mok22Sr57_  =  -416538483;
   r89OKp  =  -1164216628;
-  K172zCj0T  =  -1775064166;
+
   PR5k2  =  508702945;
 
 try
@@ -87,7 +87,7 @@ kq6CzH4Ul &= 1436172422;
 
 if (i37AaGd < -1884631470)
 {
-klFSk23 ^= 775914529;
+
 }
 else
 {
@@ -97,7 +97,7 @@ std::cout << Mok22Sr57_ << CrZmprI << xw6i << "r_M6eQ" << xw6i << std::endl;
 
 try
 {
-AaZ9w3 = (long)(hJ29);
+
 }
 catch (int& errorCode)
 {
@@ -124,7 +124,7 @@ if (aT1_ != jgGcueT9)
 {
 try
 {
-CrZmprI += aT1_;
+
 }
 catch (int& errorCode)
 {
@@ -182,7 +182,7 @@ while (j < 8)
 int k = 0;
 do
 {
-klFSk23 = (int)abs(V_k7Yv6L);
+
 ++k;
 }
 while (k < 5);
@@ -192,7 +192,7 @@ while (k < 5);
 }
 else
 {
-kylcoG47O = f75A6Oy << i37AaGd;
+
 }
 F_52R |= f620G;
 
@@ -216,7 +216,7 @@ if (gO8kE <= jgGcueT9)
 {
 if (kq6CzH4Ul >= -1084578011)
 {
-qf3TQLc -= xhQWrw_l;
+
 }
 }
 }
@@ -226,7 +226,7 @@ M5QVcm = (long)(Hwfjy_);
 }
 if (e4Jx == 0)
 {
-	goNpW1DC__ = -1749323441 / e4Jx;
+
 }
 
 if (uMOE6R0 < e4Jx)
@@ -243,7 +243,7 @@ ZEa7S4--;
 break;
 case 'c':
 case 'C':
-f75A6Oy ^= x0Tsb1_;
+
 break;
 }
 }

@@ -81,7 +81,7 @@ case 'c':
 w7_l ^= l4l3C8r5;
 break;
 case 'd':
-Q53_i <<= 1177496702;
+
 break;
 case 'e':
 IzhB63F = (int)ceil(LSf150);
@@ -362,7 +362,7 @@ else if (Inh_K9e)
 {
 for (int k = 7; k >= 0; k--)
 {
-wF_29B = (int)abs(ptZu);
+
 }
 }
 else
@@ -375,7 +375,7 @@ else if (Q53_i != Gj2G)
 switch (rsltp5)
 {
 case 0:
-wF_29B = (int)abs(byRn2g0z);
+
 break;
 }
 }
@@ -413,7 +413,7 @@ IzhB63F = (int)ceil(LSf150);
 switch (J3_NQ2)
 {
 case 'a':
-Q53_i %= 174893117;
+
 break;
 case 'b':
 qyau3Qe0 = (int)ceil(IzhB63F);
@@ -451,7 +451,7 @@ iTJwvnTX = (int)ceil(byRn2g0z);
 
 if (rR135k7Y)
 {
-p361 = (unsigned int)(KA8i0_k);
+
 }
 else if (iTJwvnTX <= -370329910)
 {
@@ -490,7 +490,7 @@ case 0:
 LSf150 = w7_l * 517575428;
 break;
 case 1:
-KA8i0_k = (pOD7 > qyau3Qe0) ? r75b902Vj : r7tJ4U4;
+
 break;
 case 2:
 qyau3Qe0 = (int)floor(byRn2g0z);
@@ -511,7 +511,7 @@ i--;
 switch (NX_Z)
 {
 case 0:
-pOD7 = XCwVS | 976231517;
+
 break;
 case 1:
 M0LZ /= 1262559665;
@@ -523,7 +523,7 @@ case 3:
 XCwVS *= 251390631;
 break;
 case 4:
-KA8i0_k = (int)abs(wApj);
+
 break;
 case 5:
 IzhB63F = (int)floor(iTJwvnTX);
@@ -535,7 +535,7 @@ case 7:
 C_Wx = (int)abs(U_Bq9d);
 break;
 case 8:
-D_D4_V = (int)ceil(qyau3Qe0);
+
 break;
 case 9:
 M_2n_IER = N10j072 % rR135k7Y;

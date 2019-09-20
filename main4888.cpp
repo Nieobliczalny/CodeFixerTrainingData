@@ -195,7 +195,7 @@ K01Yv = utJQ8DlyO | 1717587803;
 break;
 case 'b':
 case 'B':
-u8_q = cFG68 * N1ohCt;
+
 break;
 case 'c':
 case 'C':
@@ -215,7 +215,7 @@ K01Yv = u8_q & 285927847;
 break;
 case 'g':
 case 'G':
-u8_q &= w99Q;
+
 break;
 case 'h':
 case 'H':
@@ -555,7 +555,7 @@ i--;
 switch (Olu04q_YO)
 {
 case 0:
-u8_q |= g9_wBX;
+
 break;
 case 1:
 utJQ8DlyO ^= u8_q;

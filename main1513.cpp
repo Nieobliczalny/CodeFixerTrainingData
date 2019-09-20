@@ -88,7 +88,7 @@ int main(int argc, char** argv) {
 	unsigned long long	g3Kspu	=	1472587322;
 	long	Q7Etl9kF	=	-354760363;
 
-PlFDmb9w = VUHH7z / gIgbx09GGM;
+
 
 YbgI7cXn = (int)floor(h55Luu_H7);
 
@@ -169,7 +169,7 @@ if (iYQq)
 {
 if (t76249Ek2 <= -1297166247)
 {
-IrGs = (J993744) ? N6_LAz7G05(ph9V0AQ4__, -1020468041, k2hDd0JMVR) : GSuaiM;
+
 }
 }
 else
@@ -193,7 +193,7 @@ if (gTYbuyZl)
 switch (clDh)
 {
 case 0:
-njkWz78K = hCY255O(njkWz78K, lY2cO, -1342651933, -959395494);
+
 break;
 case 1:
 q3c4W = HjbuDDu22 % aoqj7uN72;
@@ -231,7 +231,7 @@ else if (g3Kspu)
 {
 if (pG41ywZ2 <= 80586557)
 {
-f578u = gIgbx09GGM / dPdl7xTJf;
+
 }
 else if (Q7Etl9kF == -1266856606)
 {
@@ -247,7 +247,7 @@ YbgI7cXn = (int)floor(gTYbuyZl);
 }
 else if (hEQnAr5OEF == 1129204251)
 {
-Sq7X *= 1926422685;
+
 }
 else if ((ph9V0AQ4__ <= 1631371589) || (gIgbx09GGM == -1298452989))
 {
@@ -304,7 +304,7 @@ h55Luu_H7 = (int)floor(YbgI7cXn);
 }
 else
 {
-o6H_4868_N = (int)abs(YFVyoDb98);
+
 }
 }
 else if (A9dLf4_75H < 1618381231)
@@ -324,7 +324,7 @@ case 'd':
 iTFawgw6 = (int)ceil(gTYbuyZl);
 break;
 case 'e':
-IrGs = xV6sdEP(1099033362);
+
 break;
 case 'f':
 h55Luu_H7 *= 250383918;
@@ -390,7 +390,7 @@ int k = 0;
 do
 {
 ++k;
-pG41ywZ2 = RoFF5rEb(-781659225) * iz1306ji;
+
 }
 while (k < 5);
 }
@@ -422,7 +422,7 @@ else
 {
 if ((gTYbuyZl < -745351965) || (dPdl7xTJf))
 {
-YbgI7cXn = (int)floor(iTFawgw6);
+
 }
 else
 {
@@ -434,7 +434,7 @@ h55Luu_H7 = (int)abs(iYQq);
 while (i < 3);
 }
 
-YFVyoDb98 = (int)(h55Luu_H7);
+
 h55Luu_H7 = (int)floor(iTFawgw6);
 
 for (int i = 8; i >= 0; i--)
@@ -453,7 +453,7 @@ i--;
 switch (iYQq)
 {
 case 0:
-YbgI7cXn = (int)ceil(gTYbuyZl);
+
 break;
 case 1:
 iTFawgw6 = gIgbx09GGM - BI_TtjD;
@@ -465,7 +465,7 @@ case 3:
 iTFawgw6 = (int)floor(gTYbuyZl);
 break;
 case 4:
-h55Luu_H7 = (int)floor(gTYbuyZl);
+
 break;
 case 5:
 iTFawgw6 = (int)ceil(h55Luu_H7);
@@ -485,7 +485,7 @@ while (j < 9)
 {
 if (hEQnAr5OEF < 304010256)
 {
-i9IatTe = (int)abs(ITE56Yt_23);
+
 }
 else if ((gIgbx09GGM >= EWxpcC) && ((ITE56Yt_23 <= -2080099250) || (H9Qz_AKz_7 >= -839699660)))
 {
@@ -505,7 +505,7 @@ j++;
 }
 }
 
-h55Luu_H7 = (int)ceil(gTYbuyZl);
+
 if (iTFawgw6 != 212680953)
 {
 cout << N6_LAz7G05(-1927657093, -1554102021, gTYbuyZl) << "t_2o_881" << "rfMM9_Zab" << N6_LAz7G05(68307246, 1028412088, -1612766884) << N6_LAz7G05(I8C4r, x6v_052, gTYbuyZl) << endl;

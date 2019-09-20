@@ -308,7 +308,7 @@ TsIvH |= siTOc4_4id;
 
 if (siTOc4_4id)
 {
-siTOc4_4id = p_mG9b62l_(755267395, y1O3, -597881898, zoxpjx1Bb1);
+
 }
 else if (PGrY28mU < YCUQJ4B4t)
 {
@@ -337,7 +337,7 @@ if (((TsIvH < -1856236610) || (XVGYbK >= L2idj13k_)) && (F4FLd9Um >= XTdTQNA))
 {
 if (cg5mCel < 807344788)
 {
-Ko8SQ = G_8E17VFf(-1527874150, Ko8SQ, 338190260, 534723814);
+
 }
 }
 else

@@ -23,7 +23,7 @@ int main(int argc, char** argv)
  unsigned int FVYn8jB;
  FVYn8jB = -805358193;
 	short int	QGItRFr3A;
-	QGItRFr3A	=	1903990291;
+
  unsigned long long w9I_2r;
  w9I_2r = -1741674636;
  unsigned long mUdwY;
@@ -39,7 +39,7 @@ int main(int argc, char** argv)
   unsigned short int  vxOU;
   vxOU  =  1809402474;
   short int  sX6z;
-  sX6z  =  395740934;
+
 	double	dZdeEiy24;
 	dZdeEiy24	=	-514229219;
   char  RmcO9V;
@@ -57,7 +57,7 @@ int main(int argc, char** argv)
   float  ULVc;
   ULVc  =  -1487466309;
 	short	Z_vIb3;
-	Z_vIb3	=	546652162;
+
  char s42QDP;
  s42QDP = 105348798;
  unsigned int Gya5;
@@ -67,7 +67,7 @@ int main(int argc, char** argv)
  unsigned long long G2T8;
  G2T8 = -418847523;
 	short int	qV7N;
-	qV7N	=	275814755;
+
     short    DzLqmVI4;
     DzLqmVI4    =    2065077122;
     int    mU_910mS;
@@ -79,7 +79,7 @@ int main(int argc, char** argv)
   unsigned int  H0B_;
   H0B_  =  2071548212;
  unsigned long long s_0lD;
- s_0lD = 328082671;
+
   unsigned short int  jSu4Xh5LB;
   jSu4Xh5LB  =  1979115445;
 	unsigned short	PCIrF;
@@ -95,7 +95,7 @@ int main(int argc, char** argv)
   long  D_3SD;
   D_3SD  =  253142644;
     long double    frvSt;
-    frvSt    =    1884158307;
+
 	short	XEs7;
 	XEs7	=	1847615660;
 
@@ -184,7 +184,7 @@ v88t8Q0 = (int)ceil(ULVc);
 }
 else
 {
-QGItRFr3A = (int)abs(dZdeEiy24);
+
 }
 }
 }
@@ -197,7 +197,7 @@ F2GdZo1 = rjR6NA3ctF << 1269916379;
 }
 }
 
-PCIrF = (unsigned short)(j1fXR);
+
 
 std::cout << XEs7 << std::endl;
 jN3ofo++;
@@ -223,7 +223,7 @@ case 'b':
 ZDn8W08++;
 break;
 case 'c':
-XEs7 = (int)abs(y_enHy3_) + (-1130064394);
+
 break;
 case 'd':
 Z_vIb3 = RmcO9V - pHwaO20nB;
@@ -274,7 +274,7 @@ try
 {
 try
 {
-G2T8 ^= 752376437;
+
 }
 catch (int& errorCode)
 {

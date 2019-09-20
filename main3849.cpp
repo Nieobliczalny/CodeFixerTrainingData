@@ -203,7 +203,7 @@ case 'b':
 WdBCIH173Z = x2Xaxwl(U__uWBf5, -1742288750, 1436180025);
 break;
 case 'c':
-zry3b1R9_ = (int)floor(RKNG4wO);
+
 break;
 case 'd':
 QBXvX40sr++;
@@ -215,7 +215,7 @@ case 'f':
 o9061 = (int)floor(MqUlcHl5y);
 break;
 default:
-cR_I_ = hyhV4 * a__I0_KPn;
+
 break;
 }
 if (LFD_x819 & fJXf)
@@ -235,7 +235,7 @@ z6n3IBE7 = U7sU ^ 602923095;
 }
 else
 {
-tGft = (int)abs(I7Vsd8Y);
+
 }
 }
 }
@@ -246,7 +246,7 @@ int j = 0;
 while (j < 5)
 {
 j++;
-V9Tt = (int)floor(slsR9H61v);
+
 }
 }
 }
@@ -280,7 +280,7 @@ WdBCIH173Z = x2Xaxwl(NBd66, -293464694, Evqs2b_8);
 }
 else
 {
-yiZPU -= Zf104VT;
+
 }
 }
 else if (((nP8zw >= pA6j480XH) || (o9061 != qm20YCtrM)) || (yiZPU <= 1172590735))
@@ -302,7 +302,7 @@ else if (((LFD_x819 & 1007318101) || (aRK7r7f48)) || ((hdAZ09LA != a__I0_KPn) &&
 {
 for (int k = 0; k < 6; k++)
 {
-o6Kuxwi3XU = (oPZf_Cw_ <= -1687943556) ? pA6j480XH : x2Xaxwl(Evqs2b_8, tU7593C0iA, hbR_E10oL);
+
 }
 }
 else
@@ -331,7 +331,7 @@ WdBCIH173Z = x2Xaxwl(-1870227189, -1776888519, 1732901476);
 }
 
 WdBCIH173Z = x2Xaxwl(HzQm3V, -237645587, KcL0);
-sOxH6ML = pA6j480XH / x2Xaxwl(HzQm3V, R9Tm_teH6e, 1870711014);
+
 V9Tt = (long double)(i98YmMa);
 cout << "Y_SB1TP" << mKP8Ag1_c << NBd66 << "IbCF2" << endl;
 
@@ -341,7 +341,7 @@ case 'a':
 zry3b1R9_ = (int)ceil(N18HY);
 break;
 case 'b':
-MqUlcHl5y = (int)floor(k6I_y5fe6);
+
 break;
 default:
 v9_W = Evqs2b_8 | yg0Pd3NMm8;
@@ -354,7 +354,7 @@ w7Ay83 >>= 2137871508;
 switch (W_387Ishyf)
 {
 case 0:
-ZVvB5f <<= 326632298;
+
 break;
 case 1:
 WdBCIH173Z = x2Xaxwl(-1125668831, 1424711791, 379784126);
@@ -366,7 +366,7 @@ case 3:
 WdBCIH173Z = x2Xaxwl(slsR9H61v, 326794628, U__uWBf5);
 break;
 case 4:
-x76K7 %= 1966820194;
+
 break;
 }
 {
@@ -383,7 +383,7 @@ case 'a':
 z6n3IBE7 %= VYs55F2;
 break;
 case 'b':
-GFJw = (int)floor(i98YmMa);
+
 break;
 case 'c':
 e660DZ = (int)ceil(Hl95o);
@@ -395,7 +395,7 @@ case 'e':
 WdBCIH173Z = x2Xaxwl(-2027022794, -311220338, 1414923036);
 break;
 case 'f':
-k6I_y5fe6 = (int)floor(PZ95D1K);
+
 break;
 default:
 WdBCIH173Z = x2Xaxwl(39015332, qm20YCtrM, WEH3);
@@ -408,7 +408,7 @@ while (j >= 0);
 --i;
 }
 }
-o9061 = (int)floor(mKP8Ag1_c);
+
 
 return 0;
 }

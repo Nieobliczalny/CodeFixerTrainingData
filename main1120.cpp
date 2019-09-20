@@ -24,7 +24,7 @@ e0l30_4k7 = (int)abs(o1eb59n);
 }
 Y5D_57gC = (pA2a6 >= 647755590) ? wYE65 : -257981303;
 
-UJ_4w = (short int)(yeKaWed0);
+
 
 for (int i = 0; i < 8; i++)
 {
@@ -44,7 +44,7 @@ UivqmGHi_ = H3J_X6 << 802755928;
 }
 }
 }
-SjiL1bI = (short int)(K04TQ);
+
 pA2a6 = (short int)(P89KeCs);
 
 switch (wYE65)
@@ -59,7 +59,7 @@ break;
 
 try
 {
-EAb48qB = (unsigned long long)(zWjbvK * EAb48qB);
+
 }
 catch (int& errorCode)
 {
@@ -81,7 +81,7 @@ J607QEgoAX--;
 break;
 case 'd':
 case 'D':
-b9zV5 = K04TQ >> YQM0i;
+
 break;
 case 'e':
 case 'E':
@@ -91,7 +91,7 @@ default:
 UivqmGHi_ /= 1581033287;
 break;
 }
-KKbUB = (short int)(P89KeCs);
+
 
 if ((aTd6Ig7 == qwsslx) || ((i__F7 > 266984905) || (XCd0Bs > FHToanhN)))
 {
@@ -119,7 +119,7 @@ while (j >= 0);
 }
 while (i < 6);
 }
-C7do8Eg52d = (short int)(Z40y);
+
 for (int i = 2; i >= 0; --i)
 {
 {
@@ -131,7 +131,7 @@ int k = 0;
 while (k < 2)
 {
 k++;
-EAb48qB = lOnEs8u(UivqmGHi_, 1174747556, 1555907634, -749165837);
+
 }
 }
 ++j;
@@ -144,7 +144,7 @@ for (int i = 3; i >= 0; --i)
 {
 if ((CRpt > 691543019) && (ZQeejF8f == -1721429304))
 {
-w47hT = (short int)(X33_TFrW1);
+
 }
 else if (EAb48qB)
 {
@@ -163,7 +163,7 @@ tzB8R37yqM = (int)abs(FhK3m);
 }
 else if (ZB_i5p_gR2 & -599242667)
 {
-yrK9rZP = (short int)(EXOg2x);
+
 }
 else if (UivqmGHi_ >= -4385994)
 {

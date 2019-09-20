@@ -19,7 +19,7 @@ int i = 0;
 while (i < 7)
 {
 ++i;
-n3_8u43mA = Oa566U * 2143068886;
+
 }
 }
 
@@ -32,7 +32,7 @@ int k = 0;
 do
 {
 k++;
-d9TQT1 = u88l3DiWAM(S_O9qLHX);
+
 }
 while (k < 10);
 }
@@ -51,7 +51,7 @@ for (int j = 9; j >= 0; --j)
 {
 if (Gi1j474A < 1171300209)
 {
-gWmj6bX = u88l3DiWAM(m49qR_G) / 1609666178;
+
 }
 else
 {
@@ -66,7 +66,7 @@ do
 {
 for (int j = 6; j >= 0; j--)
 {
-d9TQT1 = u88l3DiWAM(-1508762794);
+
 }
 i--;
 }

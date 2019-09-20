@@ -79,7 +79,7 @@ sV1Mv6w = b3YQ(-1922545745, -130659008, a3RPE7nv0, -1618021173);
 }
 else if (qwkDa2 >= vKRKgU)
 {
-qwkDa2 = QUxy(qwkDa2, 1448887645, 1785776774, TGHDc_uKZ, -1213959164);
+
 }
 else
 {
@@ -158,7 +158,7 @@ while (j >= 0)
 {
 try
 {
-XqJ22ToPB = (vKRKgU) ? TGHDc_uKZ : -1234386765;
+
 }
 catch (int& errorCode)
 {
@@ -180,7 +180,7 @@ cout << b3YQ(-305632790, 1225967401, xIeL4n, wm5_c_) << D571g(-632547389, TGHDc_
 int i = 4;
 do
 {
-mfCZ2U6L = (unsigned short)(xIeL4n);
+
 i--;
 }
 while (i >= 0);

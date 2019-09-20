@@ -38,7 +38,7 @@ int main(void)
   unsigned char  F4ib94CY;
   F4ib94CY  =  -1616891759;
  short o86p70p;
- o86p70p = 806435777;
+
     unsigned long long    V0fGQ;
     V0fGQ    =    -1913872554;
 	unsigned char	D8B8o7QD;
@@ -60,7 +60,7 @@ int main(void)
 	unsigned int	f6_vHRY20;
 	f6_vHRY20	=	-509243286;
     unsigned char    S6ey3U3hV;
-    S6ey3U3hV    =    118160076;
+
  unsigned short o8GIDcZ;
  o8GIDcZ = -1560917296;
     unsigned long long    zmoy0;
@@ -84,7 +84,7 @@ int main(void)
  double kQxsAC48Ug;
  kQxsAC48Ug = -2096796514;
   long  yMS1K4;
-  yMS1K4  =  887388811;
+
   unsigned short  L_sm4EZv3;
   L_sm4EZv3  =  -1505473399;
  double mL3845Dy;
@@ -94,7 +94,7 @@ int main(void)
  unsigned long gOyC;
  gOyC = -1243674988;
   long  O80v4051;
-  O80v4051  =  1823843864;
+
  long double ps3u;
  ps3u = -1533299994;
     short    tjzdY24oz;
@@ -112,7 +112,7 @@ int main(void)
 	long	Kqk1c7;
 	Kqk1c7	=	0;
   short int  kGv9fNu1;
-  kGv9fNu1  =  -545035863;
+
   unsigned long long  J5dBs;
   J5dBs  =  -656003413;
 	short	lB1_Y;
@@ -124,7 +124,7 @@ int main(void)
  long double n3P_1;
  n3P_1 = 1653882677;
 	unsigned long	lW9h022q8;
-	lW9h022q8	=	1180474761;
+
 	int	hw4T;
 	hw4T	=	-685945547;
 	unsigned short int	pwaF;
@@ -134,7 +134,7 @@ int main(void)
 	unsigned char	sT_WohZwqC;
 	sT_WohZwqC	=	-225730482;
   unsigned int  n__F09;
-  n__F09  =  -2130751374;
+
     short int    Yi_U_pdnc;
     Yi_U_pdnc    =    1909981232;
   unsigned int  Z51VpL;
@@ -152,7 +152,7 @@ int main(void)
 	long long	Erwz1;
 	Erwz1	=	741556773;
  char vVB16Z7C41;
- vVB16Z7C41 = 448707912;
+
   long  R5_idi_;
   R5_idi_  =  -523430325;
 	short int	jA1Vec;
@@ -162,7 +162,7 @@ int main(void)
   unsigned char  Jcfn6A;
   Jcfn6A  =  -503647148;
 	long	wjS9O;
-	wjS9O	=	689954433;
+
     short    SP8T8;
     SP8T8    =    -1211015127;
     unsigned long    G_9D50q;
@@ -186,7 +186,7 @@ int main(void)
     long    m8n1;
     m8n1    =    0;
   long double  TdW0E_;
-  TdW0E_  =  1373705000;
+
     int    jiiq2RS5;
     jiiq2RS5    =    100683546;
   int  y_FS;
@@ -196,7 +196,7 @@ int main(void)
 	double	vX1i1yBr;
 	vX1i1yBr	=	669396783;
     unsigned short    pb8C6gnYZ;
-    pb8C6gnYZ    =    1756572579;
+
  short int t0q5wl;
  t0q5wl = -1591205841;
     unsigned short    Y1656WVx;
@@ -229,7 +229,7 @@ case 5:
 j_aW00Wh = bss1(-865973290, R5_idi_, 1260754370);
 break;
 default:
-wjS9O = (int)abs(Kw9rN7);
+
 break;
 }
 --i;
@@ -254,7 +254,7 @@ SP8T8 &= 698089915;
 }
 else
 {
-MQyFyO8d4 <<= J0Q8Ps_YQA;
+
 }
 }
 else if ((O360VXml >= Pu_VFEi) || ((D8B8o7QD == mpn3EI_Qaa) || (mpn3EI_Qaa >= -1839439177)))
@@ -313,7 +313,7 @@ case 3:
 mCwS5 = y10K & yOC8E_IH4;
 break;
 case 4:
-pb8C6gnYZ = DmOrz_On * 591153531;
+
 break;
 case 5:
 u9_A = (int)floor(CgQPhF);
@@ -325,7 +325,7 @@ case 7:
 t_ecGos6q7 *= 1116870369;
 break;
 case 8:
-lNNM = bss1(Kqk1c7, 259676118, yOC8E_IH4);
+
 break;
 case 9:
 M1n_7y85Xf = (int)abs(jw8a7v);
@@ -371,7 +371,7 @@ while (j >= 0);
 }
 else
 {
-Y1656WVx = (unsigned short)(ANnNoz5pY);
+
 }
 
 {
@@ -395,7 +395,7 @@ jA1Vec = (int)abs(odtV9);
 }
 else if (v0znZSV1)
 {
-Kqk1c7 = B0D_fuYK(-701452907, -1879078950);
+
 }
 else
 {
@@ -437,7 +437,7 @@ wV4xm++;
 }
 else
 {
-y_FS = (int)abs(wV4xm);
+
 }
 cout << bss1(mCwS5, 696556429, -1419335858) << endl;
 mL3845Dy = (int)ceil(O360VXml);
@@ -452,7 +452,7 @@ case 'b':
 sT_WohZwqC = ifKloa - V0fGQ;
 break;
 case 'c':
-Kqk1c7 = B0D_fuYK(-1601078427, u9_A);
+
 break;
 case 'd':
 x2Eow_X = (int)abs(Ck1e);
@@ -478,7 +478,7 @@ switch (GWvxi)
 {
 case 'a':
 case 'A':
-m8n1 = B0D_fuYK(-807604230, -1605433301);
+
 break;
 case 'b':
 case 'B':
@@ -490,7 +490,7 @@ SP8T8 /= 1005317266;
 break;
 case 'd':
 case 'D':
-lh7Q44AY5P &= 59207912;
+
 break;
 case 'e':
 case 'E':
@@ -502,7 +502,7 @@ tjzdY24oz &= 1521524060;
 break;
 case 'g':
 case 'G':
-u9_A = (int)ceil(O360VXml);
+
 break;
 case 'h':
 case 'H':
@@ -526,7 +526,7 @@ if (((V0fGQ == 1094428305) || (jiiq2RS5 > -1566669080)) || (pwaF >= 1308502895))
 {
 if (((f6_vHRY20 > n3P_1) && (sT_WohZwqC <= 2080265082)) && (lB1_Y))
 {
-m8n1 = B0D_fuYK(Z51VpL, K25NQp);
+
 }
 }
 else

@@ -527,7 +527,7 @@ if (z0f1tP & idZk)
 switch (jv4Z_wWb)
 {
 case 0:
-jv4Z_wWb >>= e08IDc;
+
 break;
 }
 }

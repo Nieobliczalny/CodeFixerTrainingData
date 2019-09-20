@@ -112,7 +112,7 @@ else
 int k = 0;
 do
 {
-n53sgoB1ba = (int)abs(dD7Y_4S3);
+
 k++;
 }
 while (k < 2);
@@ -138,7 +138,7 @@ d5aP <<= n53sgoB1ba;
 }
 for (int i = 9; i >= 0; i--)
 {
-dD7Y_4S3 = (short int)(qjC40CuV7P);
+
 }
 for (int i = 0; i < 9; i++)
 {
@@ -250,7 +250,7 @@ std::cout << g08W << std::endl;
 
 try
 {
-Vp1XX2170g = (int)abs(Y3AmX);
+
 }
 catch (int& errorCode)
 {
@@ -276,7 +276,7 @@ case 0:
 sYu4U6_ = y4ORYOo();
 break;
 case 1:
-qjC40CuV7P *= d5aP;
+
 break;
 case 2:
 Y94x = NfpANdJsMP + 1113486780;
@@ -288,7 +288,7 @@ case 4:
 kB_t_ = Wh31EA7K_4 << 2078896686;
 break;
 case 5:
-kB_t_ = (int)abs(qjC40CuV7P);
+
 break;
 case 6:
 N6Z1 = y4ORYOo();

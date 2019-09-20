@@ -13,7 +13,7 @@ int main(int argc, char** argv) {
     double    CDk77;
     CDk77    =    -1410665078;
 	unsigned short int	tt80;
-	tt80	=	-1729992367;
+
  short y6H23H;
  y6H23H = 1753813962;
  int tX5W8;
@@ -101,7 +101,7 @@ int main(int argc, char** argv) {
   double  gcZ_mI1C;
   gcZ_mI1C  =  1103902974;
     unsigned long long    Kuy2oF3bDb;
-    Kuy2oF3bDb    =    298277005;
+
 	unsigned long long	g8vf_G7;
 	g8vf_G7	=	-439554232;
     unsigned long    sYBq4AY;
@@ -117,7 +117,7 @@ int main(int argc, char** argv) {
   float  VK__XGE4Z0;
   VK__XGE4Z0  =  -1388720836;
  unsigned short int kbMiZV5;
- kbMiZV5 = -1919459346;
+
 
 switch (jASTI3)
 {
@@ -163,7 +163,7 @@ case 4:
 nCq7Jz_58 = l59uQ6 ^ d1mgD4_IJ;
 break;
 case 5:
-TBjImg89 = QRkXt * Lb5CES3ZEz;
+
 break;
 case 6:
 VK__XGE4Z0 = (int)ceil(u1o9l7);
@@ -202,7 +202,7 @@ case 7:
 Fo95U203 <<= 815197419;
 break;
 case 8:
-d1mgD4_IJ = m120dKF_ % 297915317;
+
 break;
 case 9:
 y2T0hB = (int)floor(iK_3XdjH);
@@ -306,7 +306,7 @@ case 0:
 L_0_r |= m120dKF_;
 break;
 case 1:
-yhl4vN21 = R8CIFNids << T9y0Z413q;
+
 break;
 case 2:
 l59uQ6 &= 1188880152;
@@ -320,7 +320,7 @@ for (int i = 0; i < 7; ++i)
 tX5W8 = Lb5CES3ZEz % 121275159;
 }
 
-t3S9HHdhb5 = V2vch3yR % 1745274486;
+
 
 L_0_r ^= f4L3;
 
@@ -394,7 +394,7 @@ catch (int& errorCode)
 {
 m120dKF_ = iK_3XdjH + 855722244;
 }
-ww8bR = EcgrRcA759 % 1759991941;
+
 
 if (iK_3XdjH == 1901672974)
 {
@@ -409,7 +409,7 @@ try
 switch (R8CIFNids)
 {
 case 0:
-u1o9l7 = JJJL2Cl11p >> 1049331285;
+
 break;
 case 1:
 ww8bR = RzhyO3 / Cd73PEq2D;
@@ -424,7 +424,7 @@ case 4:
 f4oM ^= 1186766001;
 break;
 case 5:
-t3S9HHdhb5 = sYBq4AY / 545675881;
+
 break;
 }
 }
@@ -450,7 +450,7 @@ if ((f4oM & L_0_r) && (QnUT != nCq7Jz_58))
 {
 if ((JJJL2Cl11p) && (CEV9A <= 365578473))
 {
-Fo95U203 /= 79151146;
+
 }
 }
 else
@@ -469,7 +469,7 @@ l59uQ6 = (int)abs(Cd73PEq2D);
 std::cout << Vif2s_o4 << "n4m4l3jtJ" << std::endl;
 if (g8vf_G7 == 32238309)
 {
-ww8bR = (long long)(Ycsa_NW);
+
 }
 
 if (iK_3XdjH >= 1944539340)
@@ -481,7 +481,7 @@ rXqRz = (int)ceil(CDk77);
 }
 else if (V2vch3yR & -511544232)
 {
-QnUT = (int)abs(GaW4t15) * 0;
+
 }
 else if (h9j2_K == L_0_r)
 {
@@ -505,7 +505,7 @@ else
 {
 for (int j = 9; j >= 0; --j)
 {
-d1mgD4_IJ = QnUT - 14349409;
+
 }
 }
 
@@ -515,7 +515,7 @@ case 0:
 u1o9l7 = QRkXt - 1139328177;
 break;
 case 1:
-cx8t8A ^= 899300873;
+
 break;
 case 2:
 gcZ_mI1C = (int)ceil(VK__XGE4Z0);
@@ -530,7 +530,7 @@ break;
 
 try
 {
-GaW4t15 = (int)ceil(iK_3XdjH);
+
 }
 catch (int& errorCode)
 {

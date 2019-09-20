@@ -57,7 +57,7 @@ int main(int argc, char** argv) {
   unsigned char  waJFq;
   waJFq  =  -2023375004;
 	unsigned int	aacCzJE0_3;
-	aacCzJE0_3	=	1274431962;
+
  int M1iHRscv;
  M1iHRscv = 1315507209;
     unsigned int    MBVGK;
@@ -257,7 +257,7 @@ else if ((HTUhD2qn) && (ow5u3J & 1368293179))
 switch (AaJg27_Y)
 {
 case 0:
-w3Ey82cxM = r_eNeR7T(w3Ey82cxM);
+
 break;
 case 1:
 B231Z6O_p6 = r_eNeR7T(-1170137349);
@@ -272,7 +272,7 @@ case 4:
 W5ukJHVD = (int)ceil(IL3kbhP3);
 break;
 case 5:
-IL3kbhP3 = MBVGK - w3Ey82cxM;
+
 break;
 }
 }
@@ -284,7 +284,7 @@ else if (((MBVGK >= -738453542) || (HTUhD2qn)) || ((W5ukJHVD > -1253929438) || (
 {
 try
 {
-xyweldM77 = (int)abs(B231Z6O_p6);
+
 }
 catch (int& errorCode)
 {
@@ -295,7 +295,7 @@ else if (((NL5W1F) || (AaJg27_Y < 454266201)) || ((aacCzJE0_3 <= 221323539) || (
 {
 if ((MBVGK == 486716184) && (R6OB >= 211802988))
 {
-IL3kbhP3 = (int)floor(B231Z6O_p6);
+
 }
 else
 {
@@ -399,7 +399,7 @@ case 3:
 B231Z6O_p6 = r_eNeR7T(118833317);
 break;
 case 4:
-IL3kbhP3 = (int)floor(W5ukJHVD);
+
 break;
 case 5:
 TSK3g3NL = IMU6fs4rl(w68jw_cq);
@@ -419,7 +419,7 @@ for (int i = 0; i < 7; ++i)
 NL2c6Jv385 /= 498115618;
 }
 
-w3Ey82cxM |= aacCzJE0_3;
+
 if (waJFq > -401084611)
 {
 if (MBVGK > w68jw_cq)
@@ -439,7 +439,7 @@ else
 int k = 0;
 do
 {
-NL2c6Jv385 = (int)ceil(W5ukJHVD);
+
 ++k;
 }
 while (k < 7);
@@ -457,7 +457,7 @@ while (i >= 0)
 {
 for (int j = 1; j >= 0; --j)
 {
-M1iHRscv = Q31qgg << MBVGK;
+
 }
 --i;
 }

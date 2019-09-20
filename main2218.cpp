@@ -15,7 +15,7 @@ int main(void) {
  unsigned char ypcf9r_x6Q;
  ypcf9r_x6Q = -1706235803;
  unsigned short z6z7204br;
- z6z7204br = 1225424275;
+
  unsigned short int Oc74gOeL8W;
  Oc74gOeL8W = -1831808236;
 	unsigned short int	nbYI;
@@ -71,7 +71,7 @@ int main(void) {
 	double	aqxOM_;
 	aqxOM_	=	-856871910;
  unsigned int jS7mQ1C;
- jS7mQ1C = -543502777;
+
 
 iUb758 = (int)ceil(nDG09IV);
 
@@ -162,7 +162,7 @@ case 2:
 nDG09IV = (int)floor(iUb758);
 break;
 case 3:
-Zls2i7s53q += FHhg_nzPX;
+
 break;
 case 4:
 baK8WQqmw ^= 257044493;
@@ -209,7 +209,7 @@ jS7mQ1C = O2gio6SAU_ >> r0TfI1SDv;
 switch (Oc74gOeL8W)
 {
 case 0:
-yfy0KA6 = XkC1Pd0G * UkGHbi;
+
 break;
 case 1:
 x4tg %= oc73q23;
@@ -256,7 +256,7 @@ i++;
 }
 if ((N6Dt != r0TfI1SDv) && ((XkC1Pd0G < iF5Bk942q) || (x4tg == 2063443516)))
 {
-ypcf9r_x6Q = (unsigned char)(J3V4T26 + (C0FFc));
+
 }
 
 yfy0KA6 = oc73q23 - 872961471;
@@ -269,7 +269,7 @@ case 'a':
 UkGHbi--;
 break;
 case 'b':
-x3ubc68Xy &= x27kfV;
+
 break;
 case 'c':
 iUb758 = (int)floor(aqxOM_);
@@ -290,7 +290,7 @@ case 'h':
 vvXk = (int)abs(UkGHbi);
 break;
 case 'i':
-r0TfI1SDv = YnUrSK | 1052410520;
+
 break;
 case 'j':
 x27kfV |= oc73q23;
@@ -302,7 +302,7 @@ case 'a':
 vvXk = (int)floor(aqxOM_);
 break;
 case 'b':
-O2gio6SAU_ &= 1630364964;
+
 break;
 case 'c':
 O2gio6SAU_ >>= 1306170888;
@@ -324,7 +324,7 @@ break;
 int i = 8;
 while (i >= 0)
 {
-jS7mQ1C = (unsigned int)(J3V4T26 + (C0FFc));
+
 i--;
 }
 }
@@ -382,7 +382,7 @@ while (i >= 0);
 
 for (int i = 10; i >= 0; --i)
 {
-Oc74gOeL8W = (oF1S97QPIm == iUb758) ? x27kfV : -640089345;
+
 }
 if (XkC1Pd0G & -273844335)
 {

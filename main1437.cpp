@@ -57,7 +57,7 @@ int main(void) {
  unsigned long K6z8yG__;
  K6z8yG__ = -407074397;
   unsigned long  IcABtPdsC;
-  IcABtPdsC  =  -949335710;
+
     short    MCfTubx;
     MCfTubx    =    73478028;
  long vlMleVV;
@@ -243,7 +243,7 @@ while (i >= 0);
 }
 std::cout << "BOd2AD" << std::endl;
 std::cout << V83V9R << C8_P7 << HxoH88w17 << G48e1gj1e9(1178889677, -177817443, 340760690, -419893687, 1578388833) << BUpvv(45233901, 1841685621, K6z8yG__) << std::endl;
-J7_U7i = (int)abs(irFga);
+
 
 switch (ompjs6)
 {
@@ -352,7 +352,7 @@ case 'a':
 K6z8yG__ = BUpvv(1936899657, 1652818660, -24302489);
 break;
 case 'b':
-V83V9R = G48e1gj1e9(cGc2_5B3N1, sVXK5R4, 1321689525, -1382234836, IcABtPdsC);
+
 break;
 case 'c':
 MBAgTWa = (int)abs(J7_U7i);
@@ -363,7 +363,7 @@ else if (q64OHC < -1386681032)
 {
 if (C8_P7)
 {
-sVXK5R4 = (char)(Ehh_Gg9P);
+
 }
 else if (sVXK5R4 > -147855312)
 {
@@ -412,7 +412,7 @@ else
 switch (HxH25096)
 {
 case 0:
-V83V9R = G48e1gj1e9(1529760295, Ehh_Gg9P, sVXK5R4, -1362288797, rm4lXJg);
+
 break;
 case 1:
 Ehh_Gg9P = PhvJWF * 195178924;
@@ -463,7 +463,7 @@ switch (Vw5fEvFu)
 {
 case 'a':
 case 'A':
-V83V9R = G48e1gj1e9(2056935368, 885094647, 1966236959, B3dc2, WWhM);
+
 break;
 case 'b':
 case 'B':
@@ -519,7 +519,7 @@ else if (J0_Y3t <= 828477902)
 int k = 0;
 do
 {
-sVXK5R4 = J7_U7i * 229099169;
+
 ++k;
 }
 while (k < 4);
@@ -561,7 +561,7 @@ j++;
 while (i >= 0);
 }
 
-sVXK5R4 = Mj0AcrM6 / feKK;
+
 {
 int i = 10;
 while (i >= 0)
@@ -578,7 +578,7 @@ J0_Y3t = (int)ceil(XtOg_a_MW0);
 }
 else if (((AvxH1Cr9 & MT4UIG) && (Zamn > 1936217495)) && ((rm4lXJg > -460980672) || (rm4lXJg <= -269309669)))
 {
-J7_U7i = (int)abs(cGc2_5B3N1);
+
 }
 else if (K8Q2A529 < irFga)
 {
@@ -624,7 +624,7 @@ case 0:
 MBAgTWa = (int)ceil(XtOg_a_MW0);
 break;
 case 1:
-AvxH1Cr9 <<= 1028586912;
+
 break;
 case 2:
 Z4_J &= ompjs6;
@@ -636,7 +636,7 @@ case 4:
 MBAgTWa = (int)abs(vlMleVV);
 break;
 case 5:
-rm4lXJg = G48e1gj1e9(-2141097754, -258017127, 55425284, 1086973449, 1924908142);
+
 break;
 case 6:
 s5G7ka |= 2089977356;
@@ -685,7 +685,7 @@ int i = 8;
 do
 {
 --i;
-RKr9t0ffeL = (unsigned long long)(Z4_J);
+
 }
 while (i >= 0);
 }
@@ -714,7 +714,7 @@ int k = 0;
 while (k < 9)
 {
 k++;
-irFga = (int)ceil(XtOg_a_MW0);
+
 }
 }
 }

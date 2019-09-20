@@ -14,7 +14,7 @@ int main()
 {
 	unsigned short	Mn99UDo,	YdseQ,	TIZLee,	SIU3P,	KR0reh588g,	OQFX9xB,	ev13EKK,	W7eP,	nQfQcqD,	rJMyG6l0T4,	Nauu8Ot,	Y11V25p3,	FpUBuro,	IX3_Q3,	Wl6PuFc1,	BhXjW0Ju,	anP6u,	wP12j_33E,	oI2OK,	KqQk8ou0,	vY76,	I5rs7_KDG,	sgJ2e4131,	G43z18zX,	cRROj517,	yB7Yq0jS0S,	b87B,	EWhUH55AS,	Kh9t1fQ,	hS8VShO,	kQA5Kp,	n5e5o7,	CYK4d,	pBkQ,	OHu07H_0,	wcP1zR9X1,	smw2qGB,	RWzF_v6Xt,	d2prA9,	bVwz8jXc,	u3a8,	N7VHbwpuAN;
 	Mn99UDo	=	370612171;
-	YdseQ	=	357681794;
+
 	TIZLee	=	2065393546;
 	SIU3P	=	-33752594;
 	KR0reh588g	=	-328211224;
@@ -36,7 +36,7 @@ int main()
 	vY76	=	-185914328;
 	I5rs7_KDG	=	-461883745;
 	sgJ2e4131	=	-1620038380;
-	G43z18zX	=	-197095653;
+
 	cRROj517	=	1016633967;
 	yB7Yq0jS0S	=	-684515727;
 	b87B	=	149235503;
@@ -52,7 +52,7 @@ int main()
 	smw2qGB	=	-95141403;
 	RWzF_v6Xt	=	-711118590;
 	d2prA9	=	1076803461;
-	bVwz8jXc	=	689249846;
+
 	u3a8	=	63165163;
 	N7VHbwpuAN	=	-1939448583;
     long    f5quNPNF2,    g43_a5i,    tKr05N;
@@ -135,7 +135,7 @@ g43_a5i = (int)abs(tKr05N);
 }
 else
 {
-wcP1zR9X1 ^= 179745206;
+
 }
 }
 catch (int& errorCode)
@@ -175,7 +175,7 @@ tKr05N = ve1P33zf4b(-2097916664, tKr05N, 10255971, pBkQ, OQFX9xB);
 break;
 case 'c':
 case 'C':
-hS8VShO = ve1P33zf4b(-1334813036, -1929187419, -1127418662, 608298209, OQFX9xB) >> Y11V25p3;
+
 break;
 case 'd':
 case 'D':
@@ -199,7 +199,7 @@ EWhUH55AS += 826123764;
 break;
 case 'i':
 case 'I':
-wcP1zR9X1 = (d2prA9 > -1687926527) ? ve1P33zf4b(W7eP, 243522736, d2prA9, 154728032, KqQk8ou0) : 366506683;
+
 break;
 case 'j':
 case 'J':
@@ -228,7 +228,7 @@ case 2:
 f5quNPNF2 = ve1P33zf4b(127918633, pBkQ, -322405158, OHu07H_0, vY76);
 break;
 case 3:
-sgJ2e4131 = FpUBuro + 1578098712;
+
 break;
 }
 j++;
@@ -261,7 +261,7 @@ while (j >= 0)
 int k = 0;
 do
 {
-W7eP = OQFX9xB & 838280868;
+
 ++k;
 }
 while (k < 3);
@@ -273,7 +273,7 @@ else
 {
 if ((RWzF_v6Xt > g43_a5i) || (n5e5o7 <= -1861349330))
 {
-Y11V25p3 = (unsigned short)(TIZLee);
+
 }
 else
 {
@@ -292,7 +292,7 @@ switch (b87B)
 {
 case 'a':
 case 'A':
-FpUBuro = tKr05N / cRROj517;
+
 break;
 case 'b':
 case 'B':
@@ -316,7 +316,7 @@ f5quNPNF2 = ve1P33zf4b(KqQk8ou0, CYK4d, oI2OK, BhXjW0Ju, smw2qGB);
 break;
 case 'g':
 case 'G':
-tKr05N = ve1P33zf4b(-1627576872, kQA5Kp, tKr05N, 1160742007, 438948748);
+
 break;
 case 'h':
 case 'H':

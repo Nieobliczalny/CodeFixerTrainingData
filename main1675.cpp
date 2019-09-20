@@ -235,7 +235,7 @@ else if (hJRCG7Tu > 2116069872)
 {
 if (H9AY < 435882623)
 {
-pCt19p_s = (a5_ZXMG < 2013430563) ? 1720477603 : -947224318;
+
 }
 else
 {
@@ -256,7 +256,7 @@ switch (S0t4Ohex5)
 {
 case 'a':
 case 'A':
-pCt19p_s <<= 669928955;
+
 break;
 case 'b':
 case 'B':
@@ -272,7 +272,7 @@ zE_yhI = a5_ZXMG % 1185878495;
 break;
 case 'e':
 case 'E':
-a5_ZXMG = (int)abs(hJRCG7Tu);
+
 break;
 case 'f':
 case 'F':
@@ -288,7 +288,7 @@ pCt19p_s--;
 break;
 case 'i':
 case 'I':
-a5_ZXMG = (int)abs(aBR1);
+
 break;
 case 'j':
 case 'J':
@@ -308,7 +308,7 @@ do
 {
 for (int j = 2; j >= 0; --j)
 {
-a5_ZXMG = (int)abs(hJRCG7Tu);
+
 }
 i++;
 }

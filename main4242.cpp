@@ -33,7 +33,7 @@ int main()
     long long    Yty4Rl;
     Yty4Rl    =    -172768264;
 	long long	C7dP9nEQ14;
-	C7dP9nEQ14	=	0;
+
   char  Ifi8;
   Ifi8  =  -146820036;
 	short int	Ou05CUG9;
@@ -209,7 +209,7 @@ f_ZG >>= Brt62Z;
 break;
 case 'c':
 case 'C':
-i41ar = w6NGuH6M + 724663263;
+
 break;
 case 'd':
 case 'D':
@@ -368,7 +368,7 @@ case 0:
 D38fgd = (int)floor(oVHQ_26MCT);
 break;
 case 1:
-S2lbo9 = S2lbo9 | f4_KMX_;
+
 break;
 case 2:
 i9SGqoQ++;
@@ -380,7 +380,7 @@ case 4:
 w6NGuH6M <<= b37u1;
 break;
 case 5:
-O3_NQLtKMy = S9bsc2Kiv & 826913354;
+
 break;
 case 6:
 Brt62Z >>= 1797593883;
@@ -396,7 +396,7 @@ dFjg7717w = (int)abs(b37u1);
 break;
 }
 }
-F4aye5gq = Brt62Z % 970212849;
+
 
 F4aye5gq = D38fgd - Q3nF;
 for (int i = 9; i >= 0; --i)

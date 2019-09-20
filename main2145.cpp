@@ -298,7 +298,7 @@ case 2:
 k7z0_6 = Nan29Pdd * e9qD;
 break;
 case 3:
-pGGdfntX8g = (int)abs(k7z0_6) * 0;
+
 break;
 case 4:
 k7z0_6 = j70_ml(656164314);

@@ -210,7 +210,7 @@ case 4:
 Jsts_ = (int)abs(X13gg4Eg);
 break;
 case 5:
-X13gg4Eg = hHZ8f11(X13gg4Eg, 70545888);
+
 break;
 default:
 X13gg4Eg = f0NZ2 / kENVa59fJY;
@@ -406,7 +406,7 @@ case 7:
 Q8fdF %= gq9wX_Ub;
 break;
 case 8:
-B2CAF96R += Zgwsvu5yi;
+
 break;
 case 9:
 PE5Z = ty04Y(Jsts_, 1338374429) % R23RdMQFF6;
@@ -621,7 +621,7 @@ case 8:
 jJ1ZE9 = Gz2fDf(-125756765);
 break;
 case 9:
-b18192 %= 2054526133;
+
 break;
 default:
 PE5Z = Qsc660 - yM8Kv;
@@ -657,7 +657,7 @@ int k = 0;
 while (k < 3)
 {
 k++;
-Q8fdF = KS5pP_PMW - f0NZ2;
+
 }
 }
 }
@@ -669,7 +669,7 @@ b18192 = (int)abs(i_Ws);
 }
 else
 {
-KS5pP_PMW = A8NSD14iMs | 583602293;
+
 }
 }
 }

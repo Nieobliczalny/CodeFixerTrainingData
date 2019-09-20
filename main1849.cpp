@@ -105,7 +105,7 @@ for (int i = 8; i >= 0; i--)
 {
 if (HZfPZr)
 {
-tcg_ = (char)(y72ptSdW + (-169679085));
+
 }
 else
 {
@@ -130,7 +130,7 @@ do
 j++;
 if ((a_blh == ZGLK5BzA64) && (OIm9 <= -516188121))
 {
-UEBe_zyte = (int)floor(UASw3);
+
 }
 else if (d8EB9lr6_ == -759150444)
 {
@@ -148,7 +148,7 @@ catch (int& errorCode)
 {
 r4g8y6xl = o8Aps4L_UO | 758628448;
 }
-UASw3 = (int)floor(QJrz_d);
+
 
 return 0;
 }

@@ -20,7 +20,7 @@ switch (tl8q8fOWR)
 {
 case 'a':
 case 'A':
-p5428 &= 232316338;
+
 break;
 case 'b':
 case 'B':
@@ -128,7 +128,7 @@ else
 {
 if (ECiiu_r8J > 71453431)
 {
-l2drdi0QN = rkaG << 271967230;
+
 }
 }
 ++i;
@@ -169,7 +169,7 @@ O1nh = kLbr5oD618 | 1014020692;
 break;
 case 'c':
 case 'C':
-ibm00 = FAqAO3761 - Uh9r;
+
 break;
 case 'd':
 case 'D':
@@ -193,7 +193,7 @@ catch (int& errorCode)
 {
 rkaG = y2L88ZC & W7G9P3Gs_5;
 }
-Pe_lr8nuG = vE45 * f73uCBa7Cj;
+
 return 0;
 }
 

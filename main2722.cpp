@@ -108,7 +108,7 @@ int main(int argc, char** argv) {
   unsigned short  IrN9  =  0;
 	int	A1Ul88NA7	=	1322134695;
 
-nnrb27ve = I6hY(-2083056023, 524385955, -490088705);
+
 
 if (h3V5MQ2k2 <= ajbd3)
 {
@@ -127,7 +127,7 @@ case 'b':
 Jr2RG2WU80 = yx6_x_p2 ^ 628002950;
 break;
 case 'c':
-IrN9 = I6hY(Nsfh02i, u369m2yUw, -1536043114);
+
 break;
 }
 }
@@ -139,7 +139,7 @@ yu58 = (int)abs(P_0GnzQ);
 }
 else
 {
-IrN9 = I6hY(910969844, Z65ejJ2, Qqg5K2l);
+
 }
 }
 }
@@ -184,7 +184,7 @@ if (ahU_Mkyc & cnUjBPyzDk)
 int k = 1;
 do
 {
-ZhSz413X = (int)ceil(c6_3qFZR);
+
 k--;
 }
 while (k >= 0);
@@ -237,7 +237,7 @@ int k = 1;
 do
 {
 --k;
-IrN9 = I6hY(443532107, SL091Sej, -1909356708);
+
 }
 while (k >= 0);
 }
@@ -265,7 +265,7 @@ int k = 7;
 do
 {
 k--;
-ZhSz413X = (int)ceil(c6_3qFZR);
+
 }
 while (k >= 0);
 }
@@ -276,7 +276,7 @@ while (k >= 0);
 switch (jWiQ1s1T)
 {
 case 0:
-JK_7N = I6hY(2086204284, 1240725187, P_0GnzQ);
+
 break;
 case 1:
 k_kBm1U05Y &= 347979444;
@@ -288,7 +288,7 @@ case 3:
 yu58 = M9Wyi_G ^ s4LpNPCyD;
 break;
 case 4:
-L609MU = I6hY(-308133861, 1436323999, LV6W2f0Q36);
+
 break;
 case 5:
 c6_3qFZR = (int)floor(d815LjN22);
@@ -300,7 +300,7 @@ case 7:
 JK_7N = I6hY(1505402364, 305106525, -1262120850);
 break;
 case 8:
-jST9l -= 1798601216;
+
 break;
 }
 JK_7N = I6hY(64139925, yx6_x_p2, d815LjN22);
@@ -322,7 +322,7 @@ i--;
 while (i >= 0);
 }
 
-J37D5 = (int)abs(ajbd3);
+
 if ((222011114 / I6hY(ynO401w, 2127067498, d815LjN22)) <= -960722532)
 {
 try
@@ -333,7 +333,7 @@ while (j < 10)
 {
 for (int k = 0; k < 6; k++)
 {
-d815LjN22 = (int)ceil(LIahqD3i4k);
+
 }
 j++;
 }
@@ -345,7 +345,7 @@ c6_3qFZR += 2053175686;
 }
 }
 
-nnrb27ve = I6hY(-1640661704, 1535823657, NovtZdly0u);
+
 
 IOCm6_ = (long)(G4_y_bFw);
 cnUjBPyzDk = (short)(k_kBm1U05Y);

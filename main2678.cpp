@@ -225,7 +225,7 @@ else
 {
 if (g1A05u <= -144516550)
 {
-ved3D8 = F9qNk5DRT & 525215712;
+
 }
 else if ((PRuxB1yB1Q & Y64LG42F_O) && (ug74NCca & 357424078))
 {
@@ -282,7 +282,7 @@ int i = 0;
 while (i < 7)
 {
 i++;
-p2ZR = GxPBMVyqj ^ I4a2LHgV2i;
+
 }
 }
 {
@@ -304,7 +304,7 @@ int k = 7;
 while (k >= 0)
 {
 --k;
-PRuxB1yB1Q = J0rux | upg9;
+
 }
 }
 }
@@ -323,7 +323,7 @@ GxPBMVyqj %= 299695021;
 ++i;
 }
 }
-GxPBMVyqj = M4IMl1a | g43h19GK;
+
 
 switch (c76gD2)
 {
@@ -334,7 +334,7 @@ case 1:
 C84t4 %= WOYnhHl6R;
 break;
 case 2:
-vu_Qu1 >>= 1840263504;
+
 break;
 case 3:
 WOYnhHl6R++;
@@ -355,7 +355,7 @@ int i = 0;
 do
 {
 i++;
-C84t4 = kHgKR3x % 1955841180;
+
 }
 while (i < 6);
 }

@@ -19,7 +19,7 @@ int main() {
 	unsigned long	a1K_;
 	a1K_	=	-511712801;
     unsigned int    Fe5JxC1;
-    Fe5JxC1    =    -1299753243;
+
     unsigned long long    qx2696Iy;
     qx2696Iy    =    1294833264;
     unsigned int    Rxk9iBP;
@@ -31,7 +31,7 @@ int main() {
     char    lqq2h;
     lqq2h    =    1921903116;
   long double  UY81U5L6;
-  UY81U5L6  =  1826616365;
+
   unsigned short  y9_I;
   y9_I  =  1862959574;
  short int NNn1fR2196;
@@ -45,7 +45,7 @@ int main() {
  long double O0EXTQ;
  O0EXTQ = -147632375;
 	unsigned char	SJp01y;
-	SJp01y	=	-1146250058;
+
 	unsigned short	l1kbs105c;
 	l1kbs105c	=	1169092421;
     double    e4_uDor_4G;
@@ -61,7 +61,7 @@ int main() {
 	unsigned long	j__U0;
 	j__U0	=	-633108415;
 	short int	OOSm;
-	OOSm	=	-368944927;
+
 	long	I47s;
 	I47s	=	-1800202162;
   long double  sV8cQ6o;
@@ -79,7 +79,7 @@ int main() {
  long Pb_ETh;
  Pb_ETh = -172482691;
     short int    SN1F3W;
-    SN1F3W    =    463177140;
+
  unsigned long oFi9WiD_12;
  oFi9WiD_12 = -269868396;
 	short	hiY39_;
@@ -91,7 +91,7 @@ int main() {
 	short int	c_D_M32g_;
 	c_D_M32g_	=	1522655167;
 	long long	bu74pBx;
-	bu74pBx	=	-1089455120;
+
  unsigned long XKTOk95X;
  XKTOk95X = -154293737;
  short KwYo;
@@ -103,7 +103,7 @@ int main() {
 	int	hdwXMSy;
 	hdwXMSy	=	-2062259684;
     long long    fr_0ynO;
-    fr_0ynO    =    2105329407;
+
   long long  MHS1;
   MHS1  =  419486904;
  unsigned short w0X540;
@@ -129,7 +129,7 @@ int main() {
  unsigned long jwOe2;
  jwOe2 = 16375403;
   unsigned short  nCQC2;
-  nCQC2  =  1158122349;
+
  unsigned char hkdpg58;
  hkdpg58 = -869104956;
     float    kWj2_ZZQ9;
@@ -141,7 +141,7 @@ int main() {
     unsigned int    H592b5ehBp;
     H592b5ehBp    =    1428652810;
 	int	d_T6Z;
-	d_T6Z	=	1711321770;
+
     unsigned long long    PF3i29;
     PF3i29    =    -774482920;
     long long    B3xgls6Sq;
@@ -165,7 +165,7 @@ int main() {
 	unsigned char	ZOkxWbDd;
 	ZOkxWbDd	=	1816492730;
     double    ex00I350U;
-    ex00I350U    =    1442645756;
+
     double    P5NQ;
     P5NQ    =    -1112763599;
   unsigned long long  hoT753;
@@ -175,7 +175,7 @@ int main() {
  long long SytmB_;
  SytmB_ = -262809635;
     char    k72T;
-    k72T    =    520487302;
+
 
 waeQFXrP0l = (unsigned char)(iX3yXz5tT8);
 if (kWj2_ZZQ9 > -1458347322)
@@ -208,7 +208,7 @@ int k = 0;
 while (k < 7)
 {
 k++;
-ex00I350U = (int)ceil(d_B6ZUy);
+
 }
 }
 }
@@ -223,7 +223,7 @@ else
 {
 if (((hiY39_ & K7_8zM) || (C81zk & dUTXp)) || (pLQ0AM >= Q9tEZCV))
 {
-qx2696Iy ^= O820;
+
 }
 }
 }
@@ -239,7 +239,7 @@ if ((ZOkxWbDd == K7_8zM) && ((xOfYx > 699367067) && (Vqbf4en != 362277578)))
 switch (lT8aZ0Qd)
 {
 case 0:
-Tu_5w4j55 = E8xi(-430712059);
+
 break;
 default:
 O820 = (int)abs(O0EXTQ);
@@ -258,7 +258,7 @@ j--;
 }
 }
 
-Tu_5w4j55 = E8xi(-1668232340);
+
 
 Tu_5w4j55 = E8xi(z4525_);
 UY81U5L6 = (int)floor(c9uMQrs);
@@ -338,7 +338,7 @@ qprBg53 = E8xi(972656527);
 break;
 case 'e':
 case 'E':
-lT8aZ0Qd = xOfYx | BBvkrzO_J;
+
 break;
 case 'f':
 case 'F':
@@ -353,7 +353,7 @@ qprBg53 = E8xi(2061410319);
 }
 
 std::cout << "HOFSsY" << E8xi(-94951868) << E8xi(-1144514175) << MI2__TJ2vJ << M8E5O9AYe << std::endl;
-Vqbf4en ^= 205767121;
+
 
 {
 int i = 3;
@@ -380,7 +380,7 @@ case 'b':
 Q9tEZCV = (int)floor(kWj2_ZZQ9);
 break;
 case 'c':
-hoT753 = hiY39_ % 806015689;
+
 break;
 case 'd':
 WvN4_ = KwYo + MI2__TJ2vJ;
@@ -395,7 +395,7 @@ case 'g':
 lH5kshH = E8xi(c_D_M32g_);
 break;
 default:
-BBvkrzO_J %= ak58x973;
+
 break;
 }
 
@@ -411,7 +411,7 @@ else if (UY81U5L6 != KF9a)
 {
 if (ak58x973)
 {
-ak58x973 = (int)abs(lqq2h);
+
 }
 else if ((w0X540) && (M8E5O9AYe <= 84557422))
 {
@@ -425,7 +425,7 @@ c9uMQrs = (int)floor(MI2__TJ2vJ);
 }
 else if (mjoh29Y_ == -1128143169)
 {
-UY81U5L6 = (int)ceil(Q9tEZCV);
+
 }
 else if (O820 < 582914786)
 {
@@ -437,7 +437,7 @@ U2_vKu0i = y9_I | t_0hiV0F7;
 }
 else
 {
-waeQFXrP0l >>= w0X540;
+
 }
 }
 else if (kWj2_ZZQ9 != -1093077933)
@@ -450,7 +450,7 @@ WvN4_ = (int)ceil(R4xb6h20);
 }
 else if (oFi9WiD_12)
 {
-O0EXTQ = (int)floor(UY81U5L6);
+
 }
 else
 {
@@ -466,7 +466,7 @@ lH5kshH = E8xi(2089436028);
 }
 else if ((a1K_ <= FI9G) && (FI9G == -1610375930))
 {
-NNn1fR2196 >>= 1706831424;
+
 }
 else if ((oFi9WiD_12 == -683246460) || ((WvN4_ == -1546835561) || (jwOe2 < P5NQ)))
 {

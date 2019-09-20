@@ -34,7 +34,7 @@ int main()
  unsigned short int FNaA;
  FNaA = 0;
 	int	r3095OMQ9,	OlK27NH,	mKLUgV,	IYcL16x_6,	pxwf,	loX9,	Y1T9yTRy4r;
-	r3095OMQ9	=	1373506312;
+
 	OlK27NH	=	1535288610;
 	mKLUgV	=	596257823;
 	IYcL16x_6	=	1213489371;
@@ -46,7 +46,7 @@ int main()
 int i = 0;
 while (i < 5)
 {
-Y1T9yTRy4r = b4HyN(-139659082, FNaA, OlK27NH);
+
 ++i;
 }
 }

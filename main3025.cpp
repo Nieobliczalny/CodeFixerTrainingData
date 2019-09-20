@@ -115,7 +115,7 @@ int main(void)
 
 if (IrRCco > LgNQ)
 {
-hKCJfDZw = (gDG43fG & -1783667553) ? -1683377142 : rkARDIC_5m(860119411, -404681563, -2098372484, -1905666695, -1142659606);
+
 }
 else
 {
@@ -127,7 +127,7 @@ Jl20n9L4 = rkARDIC_5m(-1796198451, -1670319515, -1959300619, twhYSG64J, Yu25sWsQ
 break;
 case 'b':
 case 'B':
-U70u6M = fAvDZkA + g0D3YV4Ms;
+
 break;
 case 'c':
 case 'C':
@@ -150,7 +150,7 @@ case 0:
 I8NnV_cE = (int)floor(IrRCco);
 break;
 case 1:
-C8y_ = rkARDIC_5m(C8y_, WBE_0GwY, lvUD1, 1402288392, X8XB2Vd7Pq);
+
 break;
 case 2:
 v63iG6 = HTXh9YnS(PQdKiX3_7);
@@ -168,7 +168,7 @@ case 6:
 akg1 = Uw7IXd5 % wpqD5ucpv4;
 break;
 case 7:
-g0D3YV4Ms = r6_8D12(g0D3YV4Ms, -1761119945, o9V8y_8, eM3e6);
+
 break;
 case 8:
 LT0r++;
@@ -201,7 +201,7 @@ case 0:
 livD936 = r6_8D12(livD936, P4kR9, SFKNKZ_BFh, 1192711484);
 break;
 case 1:
-SFKNKZ_BFh = (int)floor(tXTUsf00A5);
+
 break;
 case 2:
 OWnRz >>= 907260632;
@@ -235,7 +235,7 @@ EZ8Zxm6Z = (double)(igLp6a1U);
 }
 else if ((Or4InFCS == -1322721568) || ((Yu25sWsQ_I < 952472208) || (Cx_z == -1386359877)))
 {
-xaYlD5oI = (unsigned long)(LixYG9cc);
+
 }
 else if (OWnRz > -791924214)
 {
@@ -250,7 +250,7 @@ else if (lQai & LT0r)
 int k = 8;
 do
 {
-D9soe9H4 = (int)abs(h7E2mw4w5);
+
 --k;
 }
 while (k >= 0);
@@ -260,7 +260,7 @@ else if (lvUD1 < -2010381965)
 {
 if (((O4_tn4JMw2) && (igLp6a1U >= 1461559133)) && ((eM3e6 <= BIGrHWc) && (AuLzoh < 1670221)))
 {
-s7lHtzfi = (int)floor(aBxZ9__WO);
+
 }
 else
 {
@@ -292,7 +292,7 @@ M5S46a6 = (int)floor(I8NnV_cE);
 break;
 case 'b':
 case 'B':
-Q2Dc = (int)abs(Y8jTub);
+
 break;
 case 'c':
 case 'C':
@@ -320,7 +320,7 @@ M5S46a6 = (int)floor(sXzKO22pB6);
 break;
 case 'i':
 case 'I':
-OWnRz = (int)abs(gDG43fG);
+
 break;
 }
 i++;
@@ -345,7 +345,7 @@ i--;
 switch (a3R_v)
 {
 case 0:
-j5SA4 = HTXh9YnS(679031542);
+
 break;
 case 1:
 v63iG6 = HTXh9YnS(twhYSG64J);
@@ -363,7 +363,7 @@ case 0:
 aBxZ9__WO = (int)floor(tXTUsf00A5);
 break;
 case 1:
-s7lHtzfi = (int)abs(fAvDZkA);
+
 break;
 case 2:
 igLp6a1U = HTXh9YnS(613320013) - 311895793;
@@ -375,7 +375,7 @@ case 4:
 L15A13d = (int)ceil(EZ8Zxm6Z);
 break;
 }
-jZ9iO = (float)(mo27Qh);
+
 try
 {
 cout << rkARDIC_5m(442847491, -177662280, 1670764247, 536608459, LixYG9cc) << endl;

@@ -25,7 +25,7 @@ switch (NK2AI_jTkv)
 {
 case 'a':
 case 'A':
-Rd1SSN0Z = O43Oy / 473075883;
+
 break;
 case 'b':
 case 'B':
@@ -37,7 +37,7 @@ xLeo = rznqw(A2FhMO, xLeo, 1588594355, a7V8djxvR2);
 break;
 case 'd':
 case 'D':
-Rd1SSN0Z = z_oU2_gu20(1820576830);
+
 break;
 case 'e':
 case 'E':
@@ -51,7 +51,7 @@ break;
 xZVhpLV9h = (short int)(NK2AI_jTkv);
 if (RwRCc29Bd(hK4bs3, s842Y, -2141401158, o0IjC2i, aVkzS) == 0)
 {
-	Rd1SSN0Z = xG01 / RwRCc29Bd(hK4bs3, s842Y, -2141401158, o0IjC2i, aVkzS);
+
 }
 {
 int i = 5;

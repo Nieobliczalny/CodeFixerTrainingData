@@ -33,7 +33,7 @@ int main(int argc, char** argv) {
  short gO56P_3;
  gO56P_3 = 944569843;
     unsigned int    E227T;
-    E227T    =    197325812;
+
     unsigned long    E6aJz9;
     E6aJz9    =    -857363676;
  int IH7Pc;
@@ -133,7 +133,7 @@ while (j < 7);
 }
 }
 }
-E227T = (unsigned int)(dEzFKh8);
+
 
 try
 {
@@ -239,7 +239,7 @@ case 'a':
 dEzFKh8 = (int)abs(pLKRgod);
 break;
 case 'b':
-pLKRgod = lDXxkO8v_E(dbkB6uXpb);
+
 break;
 case 'c':
 ne68JE = XkLtDw(-1547480321);
@@ -352,7 +352,7 @@ case 7:
 wHDf = XkLtDw(-1864541929);
 break;
 case 8:
-OMi2H -= 1573499717;
+
 break;
 default:
 dEzFKh8 = beNQ8X70n6 & 311604271;
@@ -403,7 +403,7 @@ catch (int& errorCode)
 {
 Ks_19W = XkLtDw(-1895400880);
 }
-beNQ8X70n6 = (int)(Ks_19W + (-1033718211));
+
 Q1Qa322 = (int)ceil(zhTq);
 for (int i = 9; i >= 0; --i)
 {
@@ -418,7 +418,7 @@ while (j < 9);
 }
 }
 
-pLKRgod = (int)(VrPUlsawN);
+
 e3vE68 = (int)ceil(HiUE9yuG3C);
 switch (IH7Pc)
 {
@@ -432,7 +432,7 @@ case 2:
 wa4mHWZAB = G1XQW_D << 71021488;
 break;
 case 3:
-ne68JE = XkLtDw(E6aJz9);
+
 break;
 default:
 E227T = dEzFKh8 & aOi1r;
@@ -452,7 +452,7 @@ for (int i = 8; i >= 0; --i)
 {
 eq8OF5 = lDXxkO8v_E(eq8OF5);
 }
-ne68JE = XkLtDw(-1869762606);
+
 std::cout << "rX59DO1355" << "X26V1pR" << XkLtDw(gO56P_3) << lDXxkO8v_E(gO56P_3) << std::endl;
 if (E227T == 936993167)
 {
@@ -468,7 +468,7 @@ HiUE9yuG3C = (int)ceil(Tz208Eqp);
 break;
 case 'c':
 case 'C':
-A7XmOa = XkLtDw(-1924517202) ^ 1960708754;
+
 break;
 case 'd':
 case 'D':
@@ -488,7 +488,7 @@ Y70_b0_1CE--;
 break;
 case 'h':
 case 'H':
-Q1Qa322 = (int)floor(zhTq);
+
 break;
 default:
 dbkB6uXpb = XkLtDw(1132279933);
@@ -498,7 +498,7 @@ break;
 switch (mHT2mQJWm4)
 {
 case 0:
-A7XmOa = XkLtDw(-1822377482) ^ mHT2mQJWm4;
+
 break;
 case 1:
 w70d22S4T = mHT2mQJWm4 - wHDf;
@@ -515,7 +515,7 @@ int i = 9;
 while (i >= 0)
 {
 --i;
-E227T = lDXxkO8v_E(-1317960280) & dEzFKh8;
+
 }
 }
 switch (wHDf)
@@ -527,7 +527,7 @@ case 1:
 Yof5EoK = (int)abs(wa4mHWZAB);
 break;
 case 2:
-w70d22S4T = mHT2mQJWm4 ^ 1845488022;
+
 break;
 case 3:
 Ks_19W = XkLtDw(aOi1r);
@@ -539,7 +539,7 @@ case 5:
 mHT2mQJWm4 = lDXxkO8v_E(1514498839);
 break;
 case 6:
-ne68JE = XkLtDw(-353100262);
+
 break;
 case 7:
 ZHquQJT3H5 /= HiUE9yuG3C;
@@ -555,7 +555,7 @@ Yof5EoK = (int)floor(HiUE9yuG3C);
 break;
 }
 
-ne68JE = XkLtDw(1724645900);
+
 
 return 0;
 }

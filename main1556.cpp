@@ -15,7 +15,7 @@ long long  X1aU9tb(unsigned long  we_4)
 int main(int argc, char** argv)
 {
   unsigned char  izmy;
-  izmy  =  679236401;
+
 	long long	YL822MVf;
 	YL822MVf	=	975948389;
  unsigned long long fhb__;
@@ -29,7 +29,7 @@ int main(int argc, char** argv)
     double    A3lCM7;
     A3lCM7    =    1794581419;
 	long	a571WJHHT;
-	a571WJHHT	=	0;
+
   float  JuU65aQ;
   JuU65aQ  =  1154539612;
 	char	SO7V;
@@ -39,7 +39,7 @@ int main(int argc, char** argv)
     unsigned long long    Q7e0_;
     Q7e0_    =    -347510446;
  int n_fKx;
- n_fKx = -299263231;
+
  unsigned int zODL;
  zODL = 992543794;
  long h4ku;
@@ -49,7 +49,7 @@ int main(int argc, char** argv)
     long double    V7s6M;
     V7s6M    =    -1125193533;
   long long  l6yo0e6;
-  l6yo0e6  =  -76415031;
+
     unsigned long long    TAdqDWO8B6;
     TAdqDWO8B6    =    1355514214;
   unsigned short int  o4hM6_;
@@ -63,7 +63,7 @@ for (int j = 1; j >= 0; --j)
 int k = 8;
 do
 {
-o4hM6_ = X1aU9tb(-1830490006);
+
 --k;
 }
 while (k >= 0);
@@ -85,7 +85,7 @@ B4Q3iQ = (int)floor(V7s6M);
 }
 std::cout << X1aU9tb(fhb__) << "R0QFp7i6r" << std::endl;
 
-zODL = -1511253809 / X1aU9tb(fhb__);
+
 z8t4F = X1aU9tb(1607550028);
 for (int i = 0; i < 2; ++i)
 {

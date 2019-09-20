@@ -39,7 +39,7 @@ int main(int argc, char** argv)
   long long  lb9yE6;
   lb9yE6  =  1442272962;
   long  JKYY;
-  JKYY  =  0;
+
   unsigned long long  yLvtt;
   yLvtt  =  277602194;
 
@@ -221,7 +221,7 @@ for (int j = 0; j < 1; ++j)
 {
 if (I0Khk9hM)
 {
-JKYY = Euw3B9h8(ksTlQ_u);
+
 }
 }
 }
@@ -245,7 +245,7 @@ int k = 0;
 while (k < 5)
 {
 k++;
-ksTlQ_u = (int)abs(JKYY) + (867204562);
+
 }
 }
 }
@@ -257,7 +257,7 @@ else if (N_pP0o9_4 <= yXh9e55)
 {
 for (int k = 6; k >= 0; k--)
 {
-JKYY = Euw3B9h8(j8d35Zl);
+
 }
 }
 else if ((JKYY > yXh9e55) || (Q1IKKc != sKm7t54kN))
@@ -325,7 +325,7 @@ break;
 }
 }
 }
-N_pP0o9_4 = N_pP0o9_4 / Q1IKKc;
+
 return 0;
 }
 

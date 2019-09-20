@@ -52,7 +52,7 @@ int main(void)
   short int  J703Y3m9_V  =  982267932;
     unsigned int    f7y4SykPg    =    0;
 
-kDy9 ^= 1881472168;
+
 
 kDy9 = 1099032840 / h1rt0_5;
 return 0;

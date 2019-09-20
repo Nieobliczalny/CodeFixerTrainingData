@@ -11,7 +11,7 @@ int main(int argc, char** argv) {
     unsigned long    gm9xP4;
     gm9xP4    =    -1392769373;
  short Lxfk7Nyv;
- Lxfk7Nyv = -487614288;
+
   unsigned short  x58_h98S4X;
   x58_h98S4X  =  -1917855113;
   short int  dF14I6Q;
@@ -33,7 +33,7 @@ int main(int argc, char** argv) {
   short int  qq_Cy;
   qq_Cy  =  -1339406213;
     long long    HEm9iu6;
-    HEm9iu6    =    -1273740524;
+
   double  fxMhn3gJ;
   fxMhn3gJ  =  1525038654;
     double    G6DH;
@@ -71,7 +71,7 @@ int main(int argc, char** argv) {
   unsigned int  R5X2;
   R5X2  =  290505842;
 	short int	r2_E9_H;
-	r2_E9_H	=	-1150534838;
+
     long double    jZK4oj0M8;
     jZK4oj0M8    =    2006531611;
 	unsigned long long	Tj2Re6R7q;
@@ -87,7 +87,7 @@ int main(int argc, char** argv) {
     long    s1KM;
     s1KM    =    -695443608;
     unsigned int    Kdr2JF;
-    Kdr2JF    =    1314250495;
+
     unsigned long long    TW964d92Zl;
     TW964d92Zl    =    589367979;
     unsigned int    zuG4O83C;
@@ -101,7 +101,7 @@ int main(int argc, char** argv) {
  long yeJovag_J;
  yeJovag_J = -1591697219;
   unsigned short  AbhZcbb337;
-  AbhZcbb337  =  -1859441720;
+
 	float	YMdvhdNR;
 	YMdvhdNR	=	923879199;
   unsigned short  nBpJ7GyT3;
@@ -121,7 +121,7 @@ int main(int argc, char** argv) {
  unsigned char gbeG4T;
  gbeG4T = -152506870;
 	float	g_hb;
-	g_hb	=	1124259941;
+
   long long  vTfX;
   vTfX  =  1825103136;
  float Z0I1;
@@ -131,7 +131,7 @@ int main(int argc, char** argv) {
     unsigned long long    vlsWy6Tm;
     vlsWy6Tm    =    2038176064;
  long long wB_FXOeq;
- wB_FXOeq = -2026020312;
+
     int    Hxa7k0K;
     Hxa7k0K    =    -1113512274;
 	unsigned long	AWHRS4Q5ka;
@@ -151,7 +151,7 @@ jZK4oj0M8 = (int)ceil(fxMhn3gJ);
 HEm9iu6 = JR8Q1_d7 ^ gm9xP4;
 if (sX6H2rPog < a_MU4bze9v)
 {
-g_hb = (int)floor(Jr7ByQ84);
+
 }
 G6DH = x58_h98S4X / 383931416;
 if (cGzy64 >= -355570531)
@@ -186,7 +186,7 @@ case 5:
 bM4i5 = S2Clilgm << 376435476;
 break;
 case 6:
-g_hb = (int)ceil(tls_J47);
+
 break;
 case 7:
 Jr7ByQ84 = R5X2 >> ii_g461mPK;
@@ -258,7 +258,7 @@ case 'a':
 bM4i5 = o5pyPg / o3_L96;
 break;
 case 'b':
-g_hb = (int)floor(YMdvhdNR);
+
 break;
 case 'c':
 Hxa7k0K += 294955381;
@@ -269,7 +269,7 @@ break;
 
 if (gm9xP4 > 1783919080)
 {
-U9n3L = jZK4oj0M8 - h91wxx7qnj;
+
 }
 else if (yeJovag_J < 242654508)
 {
@@ -279,7 +279,7 @@ if (gf1yHs5j)
 int k = 9;
 while (k >= 0)
 {
-STXp033zBl = B269qL9h << FmXu4Y3;
+
 --k;
 }
 }
@@ -304,7 +304,7 @@ else if ((AWHRS4Q5ka == bM4i5) && (OimOjKU == -458400672))
 {
 if (((a_MU4bze9v < 792286736) && (STXp033zBl == Sqtp)) || (TW964d92Zl != 606557362))
 {
-vlsWy6Tm &= 1016629023;
+
 }
 else if (((TW964d92Zl != ylV4) && (ii_g461mPK <= -25537392)) && (ii_g461mPK != 1944742714))
 {
@@ -318,7 +318,7 @@ else if (gzG8 <= 1116421661)
 {
 if (((tAxh_xIf) || (gm9xP4 <= Z0I1)) && (nBpJ7GyT3 == -637046041))
 {
-gzG8 = (int)abs(JR8Q1_d7);
+
 }
 else if (hN3V_1O_ > 164523570)
 {
@@ -330,7 +330,7 @@ s1KM = OimOjKU * 194075704;
 }
 else
 {
-gzG8 = (int)abs(HEm9iu6);
+
 }
 }
 else if ((H6B651njar) && ((sD7OLza > sX6H2rPog) && (x05lF1)))
@@ -343,7 +343,7 @@ switch (Au84)
 {
 case 'a':
 case 'A':
-s1KM ^= 1145702588;
+
 break;
 case 'b':
 case 'B':
@@ -355,7 +355,7 @@ gm9xP4 &= 711004824;
 break;
 case 'd':
 case 'D':
-s67Z_6d26 = o3_L96 * H6B651njar;
+
 break;
 case 'e':
 case 'E':
@@ -373,7 +373,7 @@ else
 int k = 2;
 while (k >= 0)
 {
-gzG8 = (int)floor(Jr7ByQ84);
+
 k--;
 }
 }
@@ -389,7 +389,7 @@ do
 {
 if (bIAh9R >= -707794046)
 {
-ii_g461mPK = (short)(GCAym8jeZ);
+
 }
 i--;
 }
@@ -407,7 +407,7 @@ switch (BwpGZiIu4)
 {
 case 'a':
 case 'A':
-a_MU4bze9v = (int)ceil(Jr7ByQ84);
+
 break;
 case 'b':
 case 'B':
@@ -419,7 +419,7 @@ YMdvhdNR = (int)ceil(a_MU4bze9v);
 break;
 case 'd':
 case 'D':
-Tj2Re6R7q += 189340878;
+
 break;
 case 'e':
 case 'E':
@@ -445,7 +445,7 @@ gm9xP4 = TvZdsKC | o5pyPg;
 
 for (int i = 0; i < 8; ++i)
 {
-g_hb = (int)floor(Z0I1);
+
 }
 cuTj34O &= 94656051;
 std::cout << o5pyPg << E470O << Sqtp << PHZjFNR << std::endl;
@@ -455,7 +455,7 @@ YMdvhdNR = (float)(AWHRS4Q5ka);
 
 YMdvhdNR = vTfX / zuG4O83C;
 
-r2_E9_H = (short int)(nBpJ7GyT3);
+
 Kdr2JF = JR8Q1_d7 << 1797783424;
 YMdvhdNR = (int)ceil(G6DH);
 

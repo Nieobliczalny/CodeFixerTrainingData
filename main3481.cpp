@@ -30,7 +30,7 @@ int main(int argc, char** argv)
   long long  ROA__L__7_;
   ROA__L__7_  =  0;
   float  Rp1_ml;
-  Rp1_ml  =  -546556716;
+
  unsigned long Hw4C;
  Hw4C = 0;
   unsigned short  Fyn6Rl;
@@ -48,7 +48,7 @@ int main(int argc, char** argv)
  float WOez;
  WOez = -1913082975;
 
-Rp1_ml = (int)floor(WOez);
+
 
 IZEH06S = l6z2w(-1738611136);
 IZEH06S = G1Fp_37c6 / G1Fp_37c6;
@@ -150,7 +150,7 @@ tU36Vj %= 1271128112;
 }
 else if (Hw4C & 862273912)
 {
-Rp1_ml -= IZEH06S;
+
 }
 else if (tU36Vj)
 {
@@ -203,7 +203,7 @@ else
 {
 if (G1Fp_37c6 <= ROA__L__7_)
 {
-Rp1_ml = HG3duPyBS(G1Fp_37c6, 721142645, -429149515, 775266124, WOez);
+
 }
 }
 }
@@ -274,7 +274,7 @@ r_L3NF7 >>= tU36Vj;
 int i = 7;
 do
 {
-tU36Vj = l6z2w(Hw4C);
+
 --i;
 }
 while (i >= 0);

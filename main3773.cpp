@@ -487,7 +487,7 @@ case 1:
 A1mGgZ7fn = SvDkgsS2();
 break;
 case 2:
-pBbpG3VY_ = A1mGgZ7fn + X03M;
+
 break;
 case 3:
 t5_Y1N1I = (int)abs(X03M);
@@ -508,7 +508,7 @@ case 8:
 QHM3J++;
 break;
 default:
-pBbpG3VY_ = QHM3J | reBJ;
+
 break;
 }
 }

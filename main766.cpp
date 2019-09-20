@@ -348,7 +348,7 @@ y23R4 = xV_FqE4(y23R4, ZC42V, KF4bKCX0Og, 1125881140);
 
 for (int i = 7; i >= 0; i--)
 {
-mUZ2VJr5L8 = (int)abs(y23R4);
+
 }
 
 Zo76J0tZ5E = y23R4 / bLehU;
@@ -379,7 +379,7 @@ case 0:
 KpOI4 = A0sU(-455842970, -952482957, 1441205282, mUZ2VJr5L8, M9X_W4Ms);
 break;
 case 1:
-Eq815 = (int)floor(mUZ2VJr5L8);
+
 break;
 case 2:
 y23R4 = A0sU(y23R4, -1871639575, 968885552, -1706409705, ZC42V);
@@ -391,7 +391,7 @@ case 4:
 y23R4 = (int)floor(Eq815);
 break;
 case 5:
-mUZ2VJr5L8 = xV_FqE4(mUZ2VJr5L8, 780765818, 1828065061, YyOz);
+
 break;
 case 6:
 ciZcgXHXJX ^= KpOI4;
@@ -406,7 +406,7 @@ ZC42V = M9X_W4Ms | 387798699;
 break;
 case 'b':
 case 'B':
-bLehU = y2G24ILbBB(y23R4, 147328575, -1568502278, KpOI4, ciZcgXHXJX);
+
 break;
 default:
 Eq815 = A0sU(-1053186023, -853619972, 1462199697, Nk8A, -619703648);

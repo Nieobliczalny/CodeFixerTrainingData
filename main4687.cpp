@@ -42,7 +42,7 @@ Tg9SHsj = SB_3lxyV9g(K3_46J19, 1709224493, -1469852090);
 
 M35ss5e = SB_3lxyV9g(M35ss5e, d3_WcAA, 812642392);
 K3_46J19 = UV5VR5TKU0();
-d_Z6k = (unsigned char)(NV226jY);
+
 
 K3_46J19 = UV5VR5TKU0();
 m_25 = (unsigned char)(q980_i5);
@@ -418,7 +418,7 @@ U2L73ZZX = SB_3lxyV9g(U2L73ZZX, Tg9SHsj, aGw_XFB);
 switch (I5ox1R7eds)
 {
 case 'a':
-yZ384v *= V3P3B8i;
+
 break;
 case 'b':
 q980_i5 = (NV226jY == -399490080) ? K3_46J19 : -705212801;
@@ -430,7 +430,7 @@ case 'd':
 K3_46J19 = UV5VR5TKU0();
 break;
 case 'e':
-NV226jY = AXj0MrzWa_ / 593087970;
+
 break;
 case 'f':
 Z2g0d0 = SB_3lxyV9g(Z2g0d0, yZ384v, -213046544);

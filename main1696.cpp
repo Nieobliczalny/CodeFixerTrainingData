@@ -34,7 +34,8 @@ int main(int argc, char** argv)
   int  hns9Kf,  L5_PE2,  D_2nQHf,  zE5h,  W1N4,  YI947,  Y2t36P0,  x7bRn4,  go0p0,  daR5Ug4,  RscK09,  Yj0UeWjaB1,  i8214Bo,  NNMwz8Z55,  vb1Y1DW2DT,  A0mY,  Kg29y4_,  pSCy_0O,  ZDR_,  U61Ntv7k4W,  vu9f9,  fK8__a9,  p1uSXJWU,  p63aEBP,  n_r1,  gjRa3pBP_2,  X4Mu4hNeAx,  b7YY1,  nvP5,  RCJfGogLkh,  H727W_e,  O1m80h3SPj,  use1wV7Z,  K22x0Mw2,  F5rd,  wo85,  lM5Tc,  gai1Snc1nF,  hwD6T,  vs9txc,  UI_9Q,  nQ_4u0,  O2_7,  R__L,  Oi8_zI5S25,  A94_uh9,  oA634,  pIsAVh0,  tgB481_2;
     hns9Kf  =  L5_PE2  =  D_2nQHf  =  zE5h  =  W1N4  =  YI947  =  Y2t36P0  =  x7bRn4  =  go0p0  =  daR5Ug4  =  RscK09  =  Yj0UeWjaB1  =  i8214Bo  =  NNMwz8Z55  =  vb1Y1DW2DT  =  A0mY  =  Kg29y4_  =  pSCy_0O  =  ZDR_  =  U61Ntv7k4W  =  vu9f9  =  fK8__a9  =  p1uSXJWU  =  p63aEBP  =  n_r1  =  gjRa3pBP_2  =  X4Mu4hNeAx  =  b7YY1  =  nvP5  =  RCJfGogLkh  =  H727W_e  =  O1m80h3SPj  =  use1wV7Z  =  K22x0Mw2  =  F5rd  =  wo85  =  lM5Tc  =  gai1Snc1nF  =  hwD6T  =  vs9txc  =  UI_9Q  =  nQ_4u0  =  O2_7  =  R__L  =  Oi8_zI5S25  =  A94_uh9  =  oA634  =  pIsAVh0  =  tgB481_2  =  -1363151606;
     unsigned short    x8MuW,    wN9pDKqQ;
-        x8MuW    =    wN9pDKqQ    =    0;
+        // codechecker_intentional [deadcode.DeadStores] Design rule - initialize all variables
+		x8MuW    =    wN9pDKqQ    =    0;
 
 if (hwD6T < f5alo)
 {

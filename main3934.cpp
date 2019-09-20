@@ -173,7 +173,7 @@ else
 bozzpFj = (long double)(w6e09);
 }
 
-D2TbO4 = (long double)(k_T_z + (1492986056));
+
 if (v4oxSho(bozzpFj, i8qC) == 0)
 {
 	kGC1w = Sn8rYqSp / v4oxSho(bozzpFj, i8qC);
@@ -375,7 +375,7 @@ switch (i8qC)
 {
 case 'a':
 case 'A':
-qkWj = I0D9n(qkWj, bozzpFj, 614851032, 498020104);
+
 break;
 case 'b':
 case 'B':
@@ -387,7 +387,7 @@ C37Ab = v4oxSho(-124275085, Cca9yahdS);
 break;
 case 'd':
 case 'D':
-MW55gRU8 = I0D9n(MW55gRU8, ah4r8s7, K2hNS55, H58cQYR1);
+
 break;
 default:
 wg7MBl7RDH = (int)ceil(iWq534w5);
@@ -398,7 +398,7 @@ else if ((D2TbO4 <= h_9d57a5F) || ((RQq453413 <= k_T_z) || (X1oi > k_T_z)))
 {
 if (((Sn8rYqSp <= C9E_COGI) && (G3Fsa == ah4r8s7)) || (qkWj >= -620839488))
 {
-EBRQ_zgL /= C9E_COGI;
+
 }
 else if (G3Fsa)
 {
@@ -408,7 +408,7 @@ pxm96w14G = (int)floor(wg7MBl7RDH);
 }
 else
 {
-RQq453413 = v4oxSho(837611636, 1363203917);
+
 }
 }
 else if (bozzpFj != 995007583)
@@ -426,7 +426,7 @@ else if (RQq453413 & k_T_z)
 {
 for (int k = 0; k < 5; k++)
 {
-i8qC = v4oxSho(129251919, s2_4c3C_);
+
 }
 }
 else
@@ -466,7 +466,7 @@ Jq4hjn = I0D9n(1665048456, C37Ab, i8qC, -206052465);
 }
 else
 {
-jb7l0GvGV2 = (int)abs(K2hNS55);
+
 }
 }
 else if (WP_1)
@@ -477,7 +477,7 @@ case 0:
 H58cQYR1 += 2092902959;
 break;
 case 1:
-i8qC = v4oxSho(-304102414, qkWj);
+
 break;
 case 2:
 Jq4hjn = ah4r8s7 / H58cQYR1;
@@ -489,7 +489,7 @@ case 4:
 Hf__Bl_mZb = (GYpZ359963 == 645664861) ? kGC1w : 1584847846;
 break;
 case 5:
-RQq453413 = v4oxSho(bozzpFj, -772868686);
+
 break;
 case 6:
 iWq534w5 = H58cQYR1 * C37Ab;
@@ -511,7 +511,7 @@ else if (bozzpFj < iWq534w5)
 switch (RQq453413)
 {
 case 'a':
-H58cQYR1 = I0D9n(374436947, h95Cq, A6BiQ3PY, Jq4hjn);
+
 break;
 }
 }
@@ -530,7 +530,7 @@ case 1:
 Sn8rYqSp = I0D9n(Sn8rYqSp, GYpZ359963, h95Cq, ah4r8s7);
 break;
 case 2:
-WP_1 = I0D9n(662670030, 1779189668, qkWj, Sn8rYqSp);
+
 break;
 case 3:
 H58cQYR1 = (int)ceil(Cca9yahdS);
@@ -542,7 +542,7 @@ case 5:
 Cca9yahdS = I0D9n(Cca9yahdS, GYpZ359963, 1369668557, f338);
 break;
 case 6:
-i8qC = v4oxSho(MW55gRU8, G3Fsa);
+
 break;
 case 7:
 K2hNS55 = k_T_z % 871188915;
@@ -561,7 +561,7 @@ else
 int k = 0;
 while (k < 1)
 {
-h_9d57a5F = v4oxSho(MW55gRU8, G3Fsa) | 600317474;
+
 k++;
 }
 }

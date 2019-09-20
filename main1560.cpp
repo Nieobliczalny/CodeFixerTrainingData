@@ -23,7 +23,7 @@ int main()
  short int j_28h88qH3;
  j_28h88qH3 = 0;
  int bXL36;
- bXL36 = 999830140;
+
  unsigned short xYk514x;
  xYk514x = 0;
  float Md0lX;
@@ -254,7 +254,7 @@ else if (EEyk0 <= fadk3lWoS3)
 {
 if ((uZKdYKz0 < D390) || (No0po < -2127799364))
 {
-j_28h88qH3 = (int)abs(UD0S23lrJ) * 0;
+
 }
 else
 {
@@ -281,7 +281,7 @@ zRz8x = No0po << UD0S23lrJ;
 }
 else
 {
-No0po = EEyk0 & 1888419014;
+
 }
 
 No0po = OX_IZZKj66 + 315815388;
@@ -328,7 +328,7 @@ else
 {
 try
 {
-RXCQv = (long long)(fadk3lWoS3 * (hntMUd));
+
 }
 catch (int& errorCode)
 {

@@ -37,7 +37,7 @@ do
 --i;
 if (fuY9i7FY < HIEu)
 {
-M7Gx = (unsigned char)(HIEu);
+
 }
 else
 {
@@ -61,7 +61,7 @@ else
 int k = 1;
 do
 {
-v5prSN = r67W << c1aT;
+
 --k;
 }
 while (k >= 0);
@@ -74,7 +74,7 @@ GKW2i_aO2h = -773909282 / wgtR9(1508608375, m2_OGBg, -1948961654, VNIv75U);
 
 gZ7796l = BsyVEJaNaG(gZ7796l, -1405763641, INu3wbiHK, 156412323, DF1F);
 
-c1aT *= 1579370985;
+
 {
 int i = 0;
 while (i < 2)
@@ -120,7 +120,7 @@ do
 switch (W_Dvq734)
 {
 case 0:
-gZ7796l = yfTxG(2065371170, -1335748372, B_487BH, hH58713IYA, 722922413);
+
 break;
 case 1:
 D078Mt0 = GkfY(-93698447, 1748354271, W_Dvq734);
@@ -165,7 +165,7 @@ while (i < 4);
 
 if (r9GB < zBjKT0Ux1)
 {
-rk3gLWmQy = (unsigned char)(Yaf4c9b + (HIEu));
+
 }
 else
 {
@@ -202,7 +202,7 @@ for (int i = 0; i < 10; ++i)
 switch (IG537)
 {
 case 'a':
-XzaG53A = wgtR9(VC8Xh1UGt3, -1912377385, E2nVd9, yh_u);
+
 break;
 case 'b':
 INu3wbiHK = yfTxG(INu3wbiHK, -5913873, 374889285, 977469490, zi9e_qn);
@@ -225,7 +225,7 @@ j7JBORPbB--;
 int i = 7;
 while (i >= 0)
 {
-z8kPh6E = (unsigned char)(HIEu);
+
 --i;
 }
 }

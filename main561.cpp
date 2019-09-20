@@ -289,7 +289,7 @@ while (i >= 0);
 switch (Pl1xU9l_)
 {
 case 'a':
-mUxFaoQ99 = idx7(1527979652, Idv05, -1875645586, NaH5, -1817220837);
+
 break;
 case 'b':
 b25g8Xlz = y4W62(1639529324, NaH5, 496585291);
@@ -368,7 +368,7 @@ case 'a':
 Pl1xU9l_ = y4W62(-1531411503, Pl1xU9l_, 779904055) + 1291855616;
 break;
 case 'b':
-b25g8Xlz = (int)abs(NaH5);
+
 break;
 case 'c':
 Ct7o4vv = mUxFaoQ99 * 1396210825;

@@ -107,7 +107,7 @@ case 8:
 npK4h6r71 = F1x9153TC();
 break;
 case 9:
-V5As13P2 %= x6710;
+
 break;
 }
 
@@ -200,7 +200,7 @@ else if (v331_h3 >= -1529777178)
 int j = 8;
 do
 {
-rQoI = DjD49l(203465242, 1617863020, quR8QEh5Db, -293719767);
+
 --j;
 }
 while (j >= 0);
@@ -212,7 +212,7 @@ else if (xGCwd8 > 1394857182)
 int j = 6;
 while (j >= 0)
 {
-Cldb = (unsigned char)(j1Rd4);
+
 --j;
 }
 }
@@ -232,7 +232,7 @@ ZUz2 = XMbFu13gA(ZUz2, vVl7lDQ_1, l0_N44);
 D6sT7sA = (float)(lCjH7Ap7Lk);
 std::cout << "gQ0g9CugA5" << std::endl;
 
-jEBdhh2 %= 1788311487;
+
 ZUz2 = (int)ceil(S7_d_);
 for (int i = 9; i >= 0; i--)
 {
@@ -247,7 +247,7 @@ try
 switch (MHA8VN_8i)
 {
 case 0:
-quR8QEh5Db = (int)ceil(x573UN);
+
 break;
 case 1:
 C7j1a9 = (int)abs(x573UN);
@@ -259,7 +259,7 @@ case 3:
 KkKZp54 >>= 493533358;
 break;
 case 4:
-KkKZp54 = DjD49l(MHA8VN_8i, MQ3xz, jqGZ3Mw9, -77212624) >> 148956226;
+
 break;
 case 5:
 aEEw5t = xGCwd8 ^ 1173884707;

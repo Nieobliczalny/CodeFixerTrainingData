@@ -27,7 +27,7 @@ unsigned short int  xec5XS_(unsigned short int  i4vb19u7Y,long  eMyiDs6_,unsigne
 
 int main(void) {
  unsigned char DLWBSJ;
- DLWBSJ = -2040880155;
+
     unsigned long    LZH39;
     LZH39    =    0;
   unsigned int  cCt3;

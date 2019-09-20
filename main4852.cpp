@@ -558,7 +558,7 @@ case 1:
 bV_cn24W = ZbW7xH(417216295);
 break;
 case 2:
-Tpg7s226P %= 8018492;
+
 break;
 case 3:
 Bvie7zJ = (int)abs(gjXYH9);
@@ -650,7 +650,7 @@ rY8pVUNg8n = x92G3 & 994936497;
 break;
 case 'b':
 case 'B':
-Tpg7s226P = Bvie7zJ & Z4_cs9B_;
+
 break;
 case 'c':
 case 'C':
@@ -662,7 +662,7 @@ n8WO5MvFH8 = fgk68w_c5 | 855593176;
 break;
 case 'e':
 case 'E':
-g6nmxl4_ >>= vVb4T9wj;
+
 break;
 }
 }
@@ -691,7 +691,7 @@ ckuitIhUV = ZbW7xH(x92G3);
 }
 else
 {
-x92G3 = ZbW7xH(x92G3) ^ Z4_cs9B_;
+
 }
 }
 catch (int& errorCode)
@@ -734,7 +734,7 @@ do
 {
 if (O_y04na6H & 1374508183)
 {
-n8WO5MvFH8 = (int)abs(yZ10qG);
+
 }
 else
 {
@@ -777,7 +777,7 @@ int i = 5;
 while (i >= 0)
 {
 i--;
-Kr50Hq = (short int)(lqHhC5b4);
+
 }
 }
 

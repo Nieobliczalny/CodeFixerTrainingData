@@ -194,7 +194,7 @@ case 'c':
 HY_8 = liPNFquuE6 / 800391134;
 break;
 case 'd':
-qv8h6IOq3b = d6gGe1(qv8h6IOq3b, HY_8, 551721735);
+
 break;
 case 'e':
 HY_8 = Pq0gd5n * 1612578869;
@@ -209,7 +209,7 @@ case 'h':
 co9YH6A2SG--;
 break;
 default:
-dJTL *= HY_8;
+
 break;
 }
 }

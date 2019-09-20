@@ -143,7 +143,7 @@ int j = 0;
 do
 {
 j++;
-tm984wx = Tts5eL / mASs;
+
 }
 while (j < 3);
 }

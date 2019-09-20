@@ -22,7 +22,7 @@ int main(void)
 
 try
 {
-akD8_I >>= 625694720;
+
 }
 catch (int& errorCode)
 {
@@ -37,7 +37,7 @@ try
 switch (Ja4bar8Ty_)
 {
 case 0:
-as113FB = (T5CXk_uDw != YXJ2lstSeK) ? W_xBklb : vN30e06A;
+
 break;
 case 1:
 Tq2QwrkLm = W_xBklb >> tVcPO;
@@ -103,7 +103,7 @@ ZoSg4F0L2m = OauJFZ(vcvz43PK6);
 
 if (bDRy7ehp3B)
 {
-HF_GqYb60 = (unsigned int)(YXJ2lstSeK);
+
 }
 ZoSg4F0L2m = OauJFZ(Hsjmbj5P3c);
 
@@ -117,7 +117,7 @@ while (j >= 0)
 int k = 0;
 while (k < 5)
 {
-b07pe30bgS = o38y - 1797261731;
+
 ++k;
 }
 }
@@ -133,7 +133,7 @@ switch (Un99)
 {
 case 'a':
 case 'A':
-eK6i29Ha3F = q3a2sf8 << 1446889820;
+
 break;
 case 'b':
 case 'B':
@@ -145,7 +145,7 @@ X26uTu5 = DSGQ2 - ZoSg4F0L2m;
 break;
 case 'd':
 case 'D':
-fU8a92U_ |= 951416007;
+
 break;
 case 'e':
 case 'E':
@@ -193,7 +193,7 @@ case 2:
 ZoSg4F0L2m = OauJFZ(DDFI);
 break;
 case 3:
-aBY0GE44 = tVcPO % 1094164011;
+
 break;
 case 4:
 ZoSg4F0L2m = OauJFZ(GUxdM6);
@@ -205,7 +205,7 @@ case 6:
 tjL56d6815 = H_4O6Gf_ & 1799007542;
 break;
 case 7:
-q02y = fU8a92U_ % 2029830065;
+
 break;
 }
 }
@@ -221,7 +221,7 @@ for (int j = 0; j < 9; ++j)
 int k = 1;
 while (k >= 0)
 {
-u8i66m5d = wftTctZs << 920623910;
+
 --k;
 }
 }

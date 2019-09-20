@@ -158,7 +158,7 @@ NIe83yS = zt9V9V << 803032460;
 break;
 case 'f':
 case 'F':
-Nk_19 = gQDmfN(Nk_19);
+
 break;
 }
 }

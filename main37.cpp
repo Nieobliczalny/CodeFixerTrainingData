@@ -31,6 +31,7 @@ int main(int argc, char** argv)
 	short	se024G6QQj,	cc1j,	q99u59110;
 		se024G6QQj	=	cc1j	=	q99u59110	=	0;
  char AC858Vfx4, JS5IUoa6, uc4E, IdYgW9FE, Wr1B, rihK, O27uU, sHoH, i7gx, Wt2f99DiZ, z4L249A8S, D1402C8, P77bGP7LN, nNB43, Kzw4b7Ow6, DMJT6hN, RwOoUxL, gt5jIc97Yb;
+  // codechecker_intentional [deadcode.DeadStores] Design rule - initialize all variables
   AC858Vfx4 = JS5IUoa6 = uc4E = IdYgW9FE = Wr1B = rihK = O27uU = sHoH = i7gx = Wt2f99DiZ = z4L249A8S = D1402C8 = P77bGP7LN = nNB43 = Kzw4b7Ow6 = DMJT6hN = RwOoUxL = gt5jIc97Yb = -796858129;
 
 switch (Wr1B)

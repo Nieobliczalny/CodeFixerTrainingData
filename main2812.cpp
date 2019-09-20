@@ -28,7 +28,7 @@ DA_20XQ = (short)(tGdue * (zxoZV));
 
 std::cout << I3ymbwExE << "m_MRGmt51P" << N15Q9Oz6v << sDxqB << std::endl;
 
-sDxqB /= DA_20XQ;
+
 if ((xW2AArp4 & zxoZV) || (ZWCG86Ha8))
 {
 std::cout << ZSva2cg << ub990VuJ47 << "iemIU8" << "SPQGHSL" << std::endl;
@@ -41,7 +41,7 @@ N15Q9Oz6v = edee9Gt7ut - Fn9o;
 
 for (int i = 3; i >= 0; i--)
 {
-N15Q9Oz6v = (short int)(S_bCXQZj);
+
 }
 
 std::cout << "NUz9lx56o" << tGdue << std::endl;
@@ -55,7 +55,7 @@ if (edee9Gt7ut == 0)
 }
 
 std::cout << edee9Gt7ut << d_tvU26u << o0Zxm << tGdue << JK2V << std::endl;
-I3ymbwExE = (short int)(S_bCXQZj);
+
 
 uIewkLEXlz %= 1350012056;
 

@@ -44,7 +44,7 @@ int main(void)
 
 Np3_Loh -= 160353772;
 
-KMu3 = I_w1fArBt7 / u3tZ;
+
 
 {
 int i = 8;
@@ -57,7 +57,7 @@ PZN3_5xH = (float)(rZy034_oD);
 --i;
 }
 }
-FXz_2 += 135572657;
+
 rf1D6 = (int)floor(PE2uR6y7W1);
 y_c3 %= 586534662;
 return 0;

@@ -298,7 +298,7 @@ qcEwke54e = K2D8s4a85 >> DeE4J55;
 break;
 case 'f':
 case 'F':
-aHY6U = (mh__aZ_rX5 == L2gd_) ? VV2w : f8E5whC;
+
 break;
 case 'g':
 case 'G':
@@ -396,7 +396,7 @@ for (int j = 0; j < 8; ++j)
 int k = 5;
 while (k >= 0)
 {
-FkWd05i6 = hh1C(-758220244, bCrM) * pGMnUt;
+
 k--;
 }
 }

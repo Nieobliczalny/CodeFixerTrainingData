@@ -50,7 +50,7 @@ int main() {
 	int	PSbDbuvf;
 	PSbDbuvf	=	117296016;
   long long  Lia6133_7;
-  Lia6133_7  =  -1167794552;
+
     short    t6R4eR;
     t6R4eR    =    -440494316;
  long double UB8X2;
@@ -68,7 +68,7 @@ int main() {
 	unsigned long long	iBfM5;
 	iBfM5	=	-887669474;
 	short	BK3UG1opw;
-	BK3UG1opw	=	-1701383984;
+
  short int RL98KnfK_;
  RL98KnfK_ = -194170072;
  unsigned int T8Bmy56;
@@ -78,7 +78,7 @@ int main() {
   long  ju10dNv7v;
   ju10dNv7v  =  -1322789728;
     float    Fu_lx_T9w;
-    Fu_lx_T9w    =    1609694647;
+
   short int  zX__8V;
   zX__8V  =  146288445;
 	double	fkRM_;
@@ -93,7 +93,7 @@ int main() {
 switch (Kn271X)
 {
 case 0:
-jQ91W = (int)ceil(e5N088);
+
 break;
 case 1:
 CeB7R = (int)floor(jQ91W);
@@ -111,7 +111,7 @@ case 5:
 q4X3 = zX__8V >> z8X8dfy;
 break;
 case 6:
-Fu_lx_T9w = (int)ceil(UB8X2);
+
 break;
 case 7:
 xOCa1H2Y6K ^= 765472112;
@@ -191,7 +191,7 @@ case 2:
 jQ91W = nR6C & 949121281;
 break;
 case 3:
-ju10dNv7v = f0gAOi4_iP + 1728949945;
+
 break;
 case 4:
 sf17y71M7w--;
@@ -239,7 +239,7 @@ QNLPB1SMXM = (int)abs(e5N088);
 while (i < 10);
 }
 
-fkRM_ = G2_k02Ib | 1900145018;
+
 
 try
 {
@@ -255,7 +255,7 @@ if (zX__8V > C260_GWYz)
 {
 if (f0gAOi4_iP > CeB7R)
 {
-RL98KnfK_ = (int)abs(UB8X2);
+
 }
 }
 else if (z8X8dfy < 781453730)
@@ -268,7 +268,7 @@ switch (z8X8dfy)
 {
 case 'a':
 case 'A':
-MJNl_H -= CeB7R;
+
 break;
 case 'b':
 case 'B':
@@ -280,7 +280,7 @@ C260_GWYz = (int)abs(t6R4eR);
 break;
 case 'd':
 case 'D':
-C260_GWYz = (int)abs(z8X8dfy);
+
 break;
 case 'e':
 case 'E':
@@ -292,7 +292,7 @@ b96bOiHxPP = Ybqih * 677057129;
 break;
 case 'g':
 case 'G':
-f0gAOi4_iP = Au897 ^ 11797574;
+
 break;
 case 'h':
 case 'H':
@@ -307,7 +307,7 @@ if (sf17y71M7w != 453342079)
 switch (pr0pwwa)
 {
 case 0:
-e5N088 *= nR6C;
+
 break;
 case 1:
 BK3UG1opw = (int)abs(oqsO8A);
@@ -328,7 +328,7 @@ case 6:
 q4X3++;
 break;
 default:
-q4X3 >>= qJP2QuT7;
+
 break;
 }
 }
@@ -342,7 +342,7 @@ b4EijwswHD = (int)abs(C260_GWYz);
 break;
 case 'b':
 case 'B':
-oqsO8A = iBfM5 >> 1151581441;
+
 break;
 case 'c':
 case 'C':
@@ -354,7 +354,7 @@ jQ91W = (int)ceil(e5N088);
 break;
 case 'e':
 case 'E':
-oqsO8A += 69762082;
+
 break;
 default:
 q4X3 = q4X3 % 169176197;

@@ -101,7 +101,7 @@ int main(void) {
     short int    PV0w9    =    1985934389;
 	short int	u6C_38h6	=	-1664633073;
 
-N7eDL0PW = (int)abs(E8n3b0kd) * 0;
+
 
 pvCQs867D9 = JYct / HMi38J_Ef;
 

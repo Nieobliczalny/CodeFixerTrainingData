@@ -30,7 +30,7 @@ int main() {
  unsigned int r0abPCHQu3;
  r0abPCHQu3 = 0;
     unsigned short    zZr2WrwE;
-    zZr2WrwE    =    -1889959187;
+
  unsigned long SM061_AiCT;
  SM061_AiCT = 0;
   unsigned short int  Rw9qL;
@@ -374,7 +374,7 @@ Rw9qL = (unsigned short int)(Si3jQ8 * Rw9qL);
 std::cout << ucu_FFGy << Ks6Di4vn3f(682924857, -2022799715, b300qxmj26, 773807217) << g1l4() << "LQ77uyi0Y_" << Ks6Di4vn3f(ZzdEvll, q_nn, b300qxmj26, Rw9qL) << std::endl;
 q_nn = (int)abs(Wtv__Cq_);
 
-ZzdEvll = Ks6Di4vn3f(ZzdEvll, Wtv__Cq_, ucu_FFGy, r0abPCHQu3);
+
 return 0;
 }
 

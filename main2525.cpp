@@ -645,7 +645,7 @@ if (hVE1_0fH8H > xm914lWf5)
 {
 if ((o83N1S31x > 1576959369) || (qRXHb == kv5BZ3))
 {
-Nc5da8vsFZ -= 606801234;
+
 }
 else
 {
@@ -780,7 +780,7 @@ case 1:
 ITMz88f--;
 break;
 case 2:
-JHL9G = lPU0Z % aSbZ3l;
+
 break;
 case 3:
 lPU0Z = fC_qXky4m(o83N1S31x) % Eo75W83iA1;

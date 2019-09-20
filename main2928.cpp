@@ -306,7 +306,7 @@ case 0:
 Vkv0 = RM1_7587mE();
 break;
 case 1:
-nmkkma = (int)abs(t9O_OH) * 0;
+
 break;
 case 2:
 nmkkma = RM1_7587mE();
@@ -321,7 +321,7 @@ case 5:
 t9O_OH -= 1326773752;
 break;
 case 6:
-nmkkma = RM1_7587mE();
+
 break;
 case 7:
 Vkv0 = RM1_7587mE();

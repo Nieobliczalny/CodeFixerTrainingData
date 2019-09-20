@@ -53,7 +53,7 @@ int main(void)
     char    I49846T;
     I49846T    =    0;
 	short	H_A7JwJ74;
-	H_A7JwJ74	=	1394386706;
+
 	long double	o7U71Q;
 	o7U71Q	=	-384055213;
  long dRQFZMe;
@@ -77,7 +77,7 @@ int main(void)
  unsigned long chqDB;
  chqDB = 664459432;
     unsigned char    Wfh4;
-    Wfh4    =    550366611;
+
 	long	WrP12Y_w;
 	WrP12Y_w	=	-1842514310;
     long long    ZoH4n3;
@@ -95,7 +95,7 @@ int main(void)
   char  qJzi4LEI;
   qJzi4LEI  =  199876548;
  unsigned long f81G9mi_Td;
- f81G9mi_Td = -1222649845;
+
 	unsigned int	I8pu5;
 	I8pu5	=	871052755;
  unsigned int S7q7H0Z;
@@ -113,7 +113,7 @@ int main(void)
  unsigned char kf4Php4S;
  kf4Php4S = -1413244329;
   long double  r38EGX;
-  r38EGX  =  1585501911;
+
  unsigned short CER_jTxaO1;
  CER_jTxaO1 = 14657706;
 	unsigned long long	Qvw6307Nv7;
@@ -208,7 +208,7 @@ case 1:
 OgeHa0eG = BbCg731KV - 726768464;
 break;
 case 2:
-njMHR9EE8 = zd_1Xh9_q() % dN05JnA6Gk;
+
 break;
 case 3:
 vzCGzGlv = (int)abs(OgeHa0eG);
@@ -235,7 +235,7 @@ if (qJzi4LEI == I49846T)
 {
 try
 {
-MKjU84l0 = (double)(IHgDX);
+
 }
 catch (int& errorCode)
 {
@@ -246,7 +246,7 @@ try
 {
 try
 {
-dRQFZMe = (int)abs(v8Ch0THX);
+
 }
 catch (int& errorCode)
 {
@@ -266,7 +266,7 @@ case 0:
 Aw_vqw = (int)floor(o7U71Q);
 break;
 case 1:
-Zan_ = zd_1Xh9_q();
+
 break;
 case 2:
 yl95N2 = w5_a24(-2068256679);
@@ -295,7 +295,7 @@ ZoH4n3 = s_AGB2ODG(-276291893, -944737760, vzCGzGlv, -309086189);
 Aw_vqw = (int)floor(QH8MK);
 
 cout << zd_1Xh9_q() << "P4lZ" << w5_a24(1054044847) << Psbry2x9 << nIVpQ53(1336358224, nlLhB, -614496157, 1816706073, QH8MK) << endl;
-H_A7JwJ74 = (int)abs(I49846T) + (-1403155700);
+
 switch (CER_jTxaO1)
 {
 case 'a':
@@ -305,7 +305,7 @@ case 'b':
 ex3k8q8m = s_AGB2ODG(ex3k8q8m, tY7rHl85lD, v8Ch0THX, -1717733301);
 break;
 case 'c':
-CER_jTxaO1 = nIVpQ53(-1235894818, Pafk8hh41, S7q7H0Z, 1078971239, ugCQxoW1u);
+
 break;
 case 'd':
 I49846T = zd_1Xh9_q();
@@ -316,7 +316,7 @@ break;
 }
 if (r4PEz >= njMHR9EE8)
 {
-Pafk8hh41 = (int)abs(r4PEz);
+
 }
 else
 {
@@ -336,7 +336,7 @@ int i = 0;
 while (i < 8)
 {
 i++;
-CER_jTxaO1 = (unsigned short)(IHgDX);
+
 }
 }
 {
@@ -358,7 +358,7 @@ i--;
 int i = 4;
 do
 {
-zCwIhZ = (unsigned char)(LEI4oJR6V);
+
 i--;
 }
 while (i >= 0);

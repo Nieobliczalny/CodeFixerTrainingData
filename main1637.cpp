@@ -21,7 +21,7 @@ int main(void)
  y701o_I = -1205007075;
  H38sp = 868392113;
  iWSM = 1652009668;
- W53G0 = 866654508;
+
  r5_9AZ = -2010597043;
  IT3JnS9o = 2041267025;
  Ni68n = -1452744893;
@@ -32,7 +32,7 @@ int main(void)
  kQtm = -730895485;
  K4s_5o5 = -1738077170;
  UgJSMfc2 = 889859770;
- U4mF714k3 = -1173438845;
+
  NXZ6RNe = 1394932058;
  kxp4yF = -769178645;
  U8pi1 = -565535459;
@@ -44,7 +44,7 @@ int main(void)
  emj_3 = 1568741575;
  Fd0d0N3ww0 = -928996927;
  ex466Gz = 1488633711;
- xWnSAg = 1745773914;
+
  u5s2K73qJ = 74899491;
  d8cDB6 = 589180775;
  CTCQA = -2100036149;
@@ -54,7 +54,7 @@ int main(void)
  nB5ge = 1127505635;
  KYVFz = -664673091;
  o33txvJn = -1766030607;
- kvb_L = -1160760558;
+
  Pg9x = 2129852204;
  ai5D3ds = -951885927;
  PMaUtrX = -555354562;
@@ -64,7 +64,7 @@ int main(void)
  Ahe_2BvyF5 = -985151703;
  q9Ak6GYM = -1805952970;
  JhRj3izx7 = 138008174;
- uk1csB2w3 = -118107104;
+
  QzE4Bw = -505101372;
  d01kn = -1258084422;
  hhqv7fH = 2143330255;
@@ -96,7 +96,7 @@ else
 {
 R46EK5 = LQ8u(255608280, Ahe_2BvyF5, -70831213, hcxE93wC1E);
 }
-Dx74w6KA__ = 1855633457 / R46EK5;
+
 {
 int i = 0;
 do
@@ -137,7 +137,7 @@ for (int i = 0; i < 9; i++)
 std::cout << q9Ak6GYM << ex466Gz << "m3A63_pK" << "C7njt" << jZr38Bp << std::endl;
 }
 
-uk1csB2w3 = (float)(U8pi1);
+
 
 std::cout << "KYAc" << vwC2K0xKco(KYVFz) << "B6s7ZB" << Pg9x << Ni68n << std::endl;
 
@@ -157,7 +157,7 @@ UgJSMfc2 = (int)floor(G5a38tD);
 break;
 case 'c':
 case 'C':
-U8pi1 -= NXZ6RNe;
+
 break;
 case 'd':
 case 'D':
@@ -173,7 +173,7 @@ G5a38tD = vwC2K0xKco(2024583634) % 1069050911;
 break;
 case 'g':
 case 'G':
-Pg9x = (int)floor(u5s2K73qJ);
+
 break;
 case 'h':
 case 'H':
@@ -195,7 +195,7 @@ case 1:
 PNJl -= PNJl;
 break;
 case 2:
-kxp4yF = (int)floor(nB5ge);
+
 break;
 case 3:
 o33txvJn = kxp4yF - 116541008;
@@ -207,7 +207,7 @@ case 5:
 kvb_L = hcxE93wC1E + nB5ge;
 break;
 default:
-hcxE93wC1E = (int)floor(ai5D3ds);
+
 break;
 }
 }
@@ -218,7 +218,7 @@ int j = 7;
 while (j >= 0)
 {
 j--;
-N8E1 = (int)ceil(q9Ak6GYM);
+
 }
 }
 }
@@ -234,7 +234,7 @@ int j = 8;
 do
 {
 j--;
-N8E1 = (int)ceil(jXl8);
+
 }
 while (j >= 0);
 }
@@ -254,7 +254,7 @@ if ((xm_azEpdaF) || ((K4s_5o5 > 600919912) && (nNx2x1 != -1957867571)))
 int k = 10;
 while (k >= 0)
 {
-R46EK5 = LQ8u(1443110599, -569566002, Fd0d0N3ww0, 1546842852);
+
 --k;
 }
 }
@@ -264,7 +264,7 @@ else
 {
 R2D4 = vwC2K0xKco(R2D4);
 }
-u5s2K73qJ = (float)(emj_3);
+
 
 o33txvJn = vwC2K0xKco(1764349665);
 

@@ -25,7 +25,7 @@ int main(int argc, char** argv)
     unsigned short int    H7pyhM0;
     H7pyhM0    =    -1869075918;
     unsigned short    WQs3QR2M_v;
-    WQs3QR2M_v    =    1482463337;
+
  unsigned char U86Gcg;
  U86Gcg = 1344252711;
   long  YceUBt84;
@@ -47,7 +47,7 @@ int main(int argc, char** argv)
 	int	gV1Ne;
 	gV1Ne	=	2045301933;
  short int GqW8_;
- GqW8_ = -1807248498;
+
 	unsigned short int	xGJ5;
 	xGJ5	=	-430123400;
   unsigned long long  cT1K7WXJK5;
@@ -61,7 +61,7 @@ int main(int argc, char** argv)
 	unsigned char	puGj;
 	puGj	=	-844814039;
   unsigned short int  KHl0V4j_;
-  KHl0V4j_  =  1730510505;
+
 	long double	l__60G1SL;
 	l__60G1SL	=	1583375464;
 	unsigned short	K_6P5;
@@ -79,7 +79,7 @@ int main(int argc, char** argv)
  unsigned int UNKn25T6_;
  UNKn25T6_ = -1791617784;
  short int HJyq5mf;
- HJyq5mf = -1213272140;
+
 	float	w1zUgq0;
 	w1zUgq0	=	1279440271;
     unsigned long    U0gl;
@@ -122,7 +122,7 @@ xCxdVcsN = (int)abs(q1PdRPMlDQ);
 }
 else if (YbKW0_7C != -175445030)
 {
-HJyq5mf -= 673035143;
+
 }
 else
 {
@@ -204,7 +204,7 @@ while (j < 2)
 {
 try
 {
-w1zUgq0 = (int)ceil(YbKW0_7C);
+
 }
 catch (int& errorCode)
 {
@@ -223,7 +223,7 @@ do
 i++;
 for (int j = 0; j < 9; ++j)
 {
-w1zUgq0 = (int)ceil(dn0dY_NT);
+
 }
 }
 while (i < 5);
@@ -286,7 +286,7 @@ i++;
 }
 l__60G1SL = (int)floor(YbKW0_7C);
 
-w1zUgq0 = (int)ceil(l__60G1SL);
+
 
 for (int i = 7; i >= 0; --i)
 {
@@ -325,7 +325,7 @@ case 3:
 H7pyhM0 = r_1Uv43(1152309411, VnqzzjID, UNKn25T6_, j_c_1_p1g);
 break;
 default:
-hlx__8cW7U = cUk0OV3USH(hlx__8cW7U, xCxdVcsN, -1313609362, m51cQ, 2018436999);
+
 break;
 }
 }
@@ -362,7 +362,7 @@ case 'e':
 A6sO = sjUM539_H(z5d8cia5, j_c_1_p1g, 659344841);
 break;
 case 'f':
-hlx__8cW7U = (int)abs(YceUBt84);
+
 break;
 case 'g':
 dn0dY_NT = UNKn25T6_ ^ 2079800463;
@@ -372,7 +372,7 @@ m51cQ = aO7YqTb6(m51cQ);
 break;
 }
 
-w1zUgq0 = (float)(WQs3QR2M_v);
+
 
 {
 int i = 5;
@@ -388,7 +388,7 @@ q1PdRPMlDQ = (long long)(UNKn25T6_);
 switch (Zd71G6Q7G)
 {
 case 0:
-w1zUgq0 = (int)ceil(YbKW0_7C);
+
 break;
 case 1:
 U0gl /= 803056257;
@@ -400,7 +400,7 @@ case 3:
 puGj |= 1927791738;
 break;
 case 4:
-w1zUgq0 = (int)ceil(l__60G1SL);
+
 break;
 case 5:
 j_c_1_p1g = (A6sO) ? Zd71G6Q7G : q1PdRPMlDQ;
@@ -415,7 +415,7 @@ break;
 l__60G1SL = (int)abs(xCxdVcsN);
 YbKW0_7C = (int)floor(TVlPFl05me);
 K_6P5 = (unsigned short)(U0gl);
-U86Gcg = KHl0V4j_ + 1203364836;
+
 return 0;
 }
 

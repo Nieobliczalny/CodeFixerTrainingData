@@ -38,7 +38,7 @@ int main(void) {
 	unsigned int	H6tC0cuHz3;
 	H6tC0cuHz3	=	0;
   unsigned long  Hu_Y4_7;
-  Hu_Y4_7  =  -551921930;
+
   float  PuHly2;
   PuHly2  =  -341669840;
  unsigned char gnsM;
@@ -102,7 +102,7 @@ PuHly2 = (int)floor(E2GC0rz);
 i--;
 }
 }
-T464nC4a |= 1976033554;
+
 
 {
 int i = 6;
@@ -134,7 +134,7 @@ PuHly2 = cG93nRd9o(PuHly2);
 break;
 case 'c':
 case 'C':
-asT2h = FrzI + 1241895313;
+
 break;
 case 'd':
 case 'D':
@@ -258,7 +258,7 @@ std::cout << "eo8Hw5y" << std::endl;
 }
 if (UM_jPy0Eb > sB7n)
 {
-F0jYNYE6 = (unsigned long long)(H6tC0cuHz3);
+
 }
 
 std::cout << FrzI << std::endl;
@@ -279,7 +279,7 @@ Hu_Y4_7 = tAaP(Hu_Y4_7, -970296118, 1701572650, 1706718272);
 }
 else
 {
-FrzI = tAaP(FrzI, 1525712739, Hu_Y4_7, asT2h);
+
 }
 std::cout << u3YL7MhN / H6tC0cuHz3 << std::endl;
 return 0;

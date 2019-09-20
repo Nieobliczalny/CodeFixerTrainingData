@@ -591,7 +591,7 @@ case 2:
 YSplw41 %= Vjxyd8He;
 break;
 case 3:
-XXkb5DZAP = (int)abs(S9v78378Xh) * 0;
+
 break;
 case 4:
 k6a0kGnR = (int)ceil(HWYS_6N);
@@ -708,7 +708,7 @@ k6a0kGnR = XXkb5DZAP - 1519966186;
 }
 else if (((kfEoBsNNah & H9bibOX109) && (U991Y == 1119196806)) && ((HWYS_6N < -2143533235) || (hVy7G_21_O & 411202272)))
 {
-Am71j07h27 = (short)(yyG6 * Am71j07h27);
+
 }
 else if (XXkb5DZAP >= H9bibOX109)
 {

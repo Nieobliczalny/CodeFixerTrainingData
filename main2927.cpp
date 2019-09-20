@@ -337,7 +337,7 @@ L7_2gO = vC0c << 145721087;
 std::cout << "qU0N0q9z" << std::endl;
 std::cout << "oTd40" << kOO4kYY() << "dhV6h" << OQXFN << std::endl;
 
-Z6_s = (short int)(Z_q_1L);
+
 
 S1P3k63l = (unsigned short int)(kZKqh9J_fw);
 
@@ -405,7 +405,7 @@ ydyjU9 = kOO4kYY();
 break;
 case 'c':
 case 'C':
-uhX1D = (int)floor(Xg9i7ippY);
+
 break;
 case 'd':
 case 'D':
@@ -444,7 +444,7 @@ else
 ydyjU9 = kOO4kYY();
 }
 
-Z6_s = (int)abs(vC0c);
+
 Wo58UC--;
 for (int i = 0; i < 9; ++i)
 {

@@ -357,7 +357,7 @@ amO1uxXENQ = kl7Z00FL(amO1uxXENQ);
 switch (G_8_)
 {
 case 0:
-GGgP4qF59 = (int)abs(pQ0Hsqpkt3);
+
 break;
 case 1:
 O0_Fs >>= 602491495;
@@ -372,7 +372,7 @@ case 4:
 KMPc8 = (int)abs(G_8_);
 break;
 case 5:
-O0_Fs = (int)abs(amO1uxXENQ);
+
 break;
 case 6:
 pQ0Hsqpkt3 -= m3fiu65_2;
@@ -387,7 +387,7 @@ case 9:
 KMPc8 *= 1948367085;
 break;
 default:
-P48k5 = (int)abs(ybCI4);
+
 break;
 }
 

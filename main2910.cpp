@@ -25,7 +25,7 @@ int main(int argc, char** argv)
     unsigned long long    SS2_TcP89Y;
     SS2_TcP89Y    =    1482239617;
 	long	wFpKYYS_;
-	wFpKYYS_	=	0;
+
 	short int	DCAr0ad;
 	DCAr0ad	=	2083541956;
   unsigned short int  Z27Ol81;
@@ -51,7 +51,7 @@ int main(int argc, char** argv)
 	short	Q76q5_L;
 	Q76q5_L	=	1548973597;
 	unsigned char	wo_2Kw;
-	wo_2Kw	=	332067477;
+
     double    xnZBk2U3Ee;
     xnZBk2U3Ee    =    -1839089510;
   float  ddMU6W6HNA;
@@ -72,7 +72,7 @@ try
 {
 try
 {
-wo_2Kw = XKJiZic9 | DCAr0ad;
+
 }
 catch (int& errorCode)
 {
@@ -89,7 +89,7 @@ if (OWIw85TTM & -257425423)
 switch (biFla)
 {
 case 0:
-ddMU6W6HNA = U7V4UR(-117617869, -51843289, NMhhB);
+
 break;
 case 1:
 F4oKZC64ZJ = XKJiZic9 << 1460354632;
@@ -137,7 +137,7 @@ Z27Ol81 = c155 | 484449990;
 break;
 case 'i':
 case 'I':
-xnZBk2U3Ee = (int)floor(j6yF);
+
 break;
 case 'j':
 case 'J':
@@ -174,7 +174,7 @@ switch (Q76q5_L)
 {
 case 'a':
 case 'A':
-xnZBk2U3Ee = F4oKZC64ZJ >> OWIw85TTM;
+
 break;
 case 'b':
 case 'B':
@@ -200,7 +200,7 @@ j6yF = (long double)(Y_hww0Sd + (321823567));
 
 for (int i = 3; i >= 0; i--)
 {
-O3ZFP17T = Y_hww0Sd & 815193596;
+
 }
 
 m4nnlE = (unsigned char)(SS2_TcP89Y * m4nnlE);
@@ -219,7 +219,7 @@ K4O3J = (int)(j6yF * K4O3J);
 
 try
 {
-F4oKZC64ZJ = (long)(Q76q5_L);
+
 }
 catch (int& errorCode)
 {

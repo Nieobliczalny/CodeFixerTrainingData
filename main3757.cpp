@@ -91,7 +91,7 @@ else if (bBKd97V59V > -362097273)
 switch (iY4_Wjk)
 {
 case 0:
-PiPN_2 = (int)abs(mJi7_W);
+
 break;
 case 1:
 hlML = PH_g(hlML, q116a_i7, -330002443);
@@ -130,7 +130,7 @@ hlML /= lyTnLB_m1;
 }
 else if (q_M3 != 969284277)
 {
-qvn4xfpm76 = kB1ZKWM();
+
 }
 else
 {
@@ -164,7 +164,7 @@ try
 switch (VNQ7n2nRc)
 {
 case 0:
-qvn4xfpm76 /= PiPN_2;
+
 break;
 case 1:
 d6CSlK = (int)floor(S0vUy2);
@@ -203,7 +203,7 @@ case 3:
 Y_D650q40 = (sFQIZ != d6CSlK) ? -901242688 : 269739488;
 break;
 case 4:
-PiPN_2 = (int)floor(hVW6Q);
+
 break;
 case 5:
 UYZ_Z_W = EG1oqn9();
@@ -235,7 +235,7 @@ try
 int k = 8;
 do
 {
-sFQIZ = (int)floor(hVW6Q);
+
 --k;
 }
 while (k >= 0);
@@ -259,7 +259,7 @@ if (qH54 == -2063411349)
 int j = 0;
 do
 {
-FpHKe9Jd3 = (long double)(q116a_i7);
+
 ++j;
 }
 while (j < 8);
@@ -280,7 +280,7 @@ int k = 0;
 do
 {
 ++k;
-qvn4xfpm76 = (int)ceil(Y_D650q40);
+
 }
 while (k < 4);
 }
@@ -290,7 +290,7 @@ j++;
 }
 else if (((BgY9JbDre > UYZ_Z_W) || (q_M3 >= bBKd97V59V)) && (hlML <= -1109302540))
 {
-VNQ7n2nRc = (unsigned short)(lyTnLB_m1 * VNQ7n2nRc);
+
 }
 else
 {
@@ -320,7 +320,7 @@ h3_gvZ9jq = cN01Y0() + Y_D650q40;
 }
 }
 
-iY4_Wjk = (unsigned short)(bBKd97V59V);
+
 
 std::cout << S0vUy2 << std::endl;
 std::cout << h3_gvZ9jq / cN01Y0() << std::endl;

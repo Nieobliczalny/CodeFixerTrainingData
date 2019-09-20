@@ -309,7 +309,7 @@ else if (VC_q4iJKL >= 469997723)
 {
 if (eG63jJB8C > UeGl1Q)
 {
-W57GkFL_ <<= 352224237;
+
 }
 else
 {
@@ -830,7 +830,7 @@ UeGl1Q = OdtyE_U(-624122682, VC_q4iJKL);
 }
 else if (KDjFyXj8r > W57GkFL_)
 {
-W57GkFL_ = (unsigned int)(W6HunP);
+
 }
 else
 {

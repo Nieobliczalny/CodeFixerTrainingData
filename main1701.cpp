@@ -363,7 +363,7 @@ cJ52 ^= z5j3GDe;
 switch (x1e67H2)
 {
 case 0:
-x1e67H2 = f6pLe(1604620429, vln61N, Y3VQZZy5, F57s_4u6S1);
+
 break;
 case 1:
 DC53EV *= NAMpI;
@@ -378,7 +378,7 @@ case 4:
 rr7dq = pP96sE();
 break;
 case 5:
-IJB7M_4R2 = gQUFU();
+
 break;
 case 6:
 IJB7M_4R2 = gQUFU();
@@ -397,7 +397,7 @@ i--;
 }
 }
 
-HxO47Vhq = Kb_401Z();
+
 
 J49A *= 398028060;
 

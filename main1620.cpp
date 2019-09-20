@@ -31,7 +31,7 @@ int main() {
   long double  xRlsSc6OU;
   xRlsSc6OU  =  1667891922;
 	unsigned short	H3wc7r1eX;
-	H3wc7r1eX	=	820088531;
+
     long    t5Zvj2_5MS;
     t5Zvj2_5MS    =    -1359156247;
  int MC6acd;
@@ -47,7 +47,7 @@ int main() {
 	unsigned short int	JCgai;
 	JCgai	=	-950672878;
  short kG9d45MA;
- kG9d45MA = -2026078953;
+
  unsigned char cg9e;
  cg9e = -2069345027;
 	float	U9N0EbE;
@@ -73,7 +73,7 @@ int main() {
   unsigned long  S7IH8s7Wnh;
   S7IH8s7Wnh  =  1773296172;
   unsigned char  Sn205;
-  Sn205  =  -2003414711;
+
 	unsigned short	BeZTS33;
 	BeZTS33	=	555967799;
   long long  e_bBi6iOu;
@@ -85,7 +85,7 @@ int main() {
   char  cD46;
   cD46  =  1806127820;
  unsigned int c6P377;
- c6P377 = -863308933;
+
  int x4ga359XW;
  x4ga359XW = -1669183032;
   unsigned long long  r3GYt7;
@@ -99,7 +99,7 @@ int main() {
 	long double	K5_M9AkGns;
 	K5_M9AkGns	=	-1570678778;
   short int  MjVelt6;
-  MjVelt6  =  0;
+
 	long double	AvVms;
 	AvVms	=	-626626278;
 	unsigned char	cCngaV3vX6;
@@ -109,7 +109,7 @@ int main() {
   long double  tmwg;
   tmwg  =  -1730398513;
  unsigned long QB8m2z4u;
- QB8m2z4u = -513971088;
+
     short    MQVV9;
     MQVV9    =    609414692;
  float Ls88PHr;
@@ -121,7 +121,7 @@ int main() {
  unsigned short c2zc7XMJ;
  c2zc7XMJ = 1657322504;
 	int	m55j_27_O;
-	m55j_27_O	=	891926834;
+
  char F2Rs_;
  F2Rs_ = 129542171;
 	unsigned short	E8t6A9yQ;
@@ -135,7 +135,7 @@ int main() {
  unsigned int j0Rg0QoaW9;
  j0Rg0QoaW9 = 380288989;
     float    vJEnPP;
-    vJEnPP    =    -1329544673;
+
   unsigned long  ftNSK7IWDf;
   ftNSK7IWDf  =  110025019;
  char AN415n951;
@@ -151,7 +151,7 @@ int main() {
   char  iJHQ;
   iJHQ  =  -405177039;
  int HBz62;
- HBz62 = -350093521;
+
  float JwdEC2yP;
  JwdEC2yP = 164596244;
     int    N583R72W;
@@ -174,7 +174,7 @@ if (cD46 >= -1016071345)
 switch (TWpio8)
 {
 case 0:
-l8MIv = kak1nylal3(l8MIv, leW6j, j0Rg0QoaW9, MvUIC1VCv);
+
 break;
 case 1:
 vW8g_d3Jk = kak1nylal3(-75116524, MvUIC1VCv, GBTD, 1458552909);
@@ -189,7 +189,7 @@ case 4:
 U9N0EbE = kak1nylal3(U9N0EbE, AvVms, cD46, GXIq6);
 break;
 case 5:
-MvUIC1VCv = elSy1Q(f_S1_9, 1542650384, -93536073, -987871841, AvVms);
+
 break;
 case 6:
 Ls88PHr = (int)ceil(SOn8B);
@@ -201,7 +201,7 @@ case 8:
 m55j_27_O = L3DB << 1989858468;
 break;
 case 9:
-Ls88PHr = (int)ceil(dT3R0lB5k);
+
 break;
 default:
 Sn205 = vW8g_d3Jk % 279196244;
@@ -214,7 +214,7 @@ if ((e_bBi6iOu != ZXBsjTYm7) && (uQn1_ >= o9I54k))
 {
 if (F2Rs_ > 1393463370)
 {
-i9Q_ = L17v4a << 685973603;
+
 }
 else if (EEFMyztozx < -984352164)
 {
@@ -226,7 +226,7 @@ GXIq6 = elSy1Q(GXIq6, w_3X0c9b9, -1824448971, 1425339793, cs0492Z4JU);
 }
 else if ((JCgai & c5_wW6C_Y0) && (GBTD))
 {
-EEFMyztozx = kak1nylal3(EEFMyztozx, -1633363506, TZ8cI0gT, f_S1_9);
+
 }
 else if (pByt2RQ >= 1331666591)
 {
@@ -243,7 +243,7 @@ switch (S7IH8s7Wnh)
 {
 case 'a':
 case 'A':
-AN415n951 = (int)abs(w_3X0c9b9);
+
 break;
 case 'b':
 case 'B':
@@ -255,7 +255,7 @@ G8_a_lT3++;
 break;
 case 'd':
 case 'D':
-xRlsSc6OU = fCeSWS << ZXBsjTYm7;
+
 break;
 case 'e':
 case 'E':
@@ -267,7 +267,7 @@ JwdEC2yP = (int)ceil(SOn8B);
 break;
 case 'g':
 case 'G':
-vJEnPP = (int)abs(cs0492Z4JU);
+
 break;
 }
 }
@@ -297,7 +297,7 @@ switch (ftNSK7IWDf)
 {
 case 'a':
 case 'A':
-l8MIv = (int)ceil(U9N0EbE);
+
 break;
 case 'b':
 case 'B':
@@ -313,7 +313,7 @@ uQn1_ = (int)floor(AvVms);
 break;
 case 'e':
 case 'E':
-cCngaV3vX6 ^= 369866516;
+
 break;
 case 'f':
 case 'F':
@@ -333,7 +333,7 @@ tmwg = o5jMRm5H - 1274581458;
 break;
 case 'j':
 case 'J':
-m55j_27_O = (K5_M9AkGns < 686682523) ? EEFMyztozx : -1733724846;
+
 break;
 }
 }
@@ -343,7 +343,7 @@ if (cD46 != Yi0YAI)
 {
 if (F2Rs_)
 {
-xRlsSc6OU = (int)abs(tLP6TC);
+
 }
 else
 {
@@ -354,7 +354,7 @@ else
 {
 if (x4Xdn > c2zc7XMJ)
 {
-MvUIC1VCv = elSy1Q(1041164480, -1059122891, -140839371, 1302082053, uQn1_);
+
 }
 }
 }
@@ -366,7 +366,7 @@ if (cNphJ3RK == o9I54k)
 XD_e9Ee = (short int)(K5_M9AkGns);
 }
 
-XD_e9Ee = kak1nylal3(GBTD, U9N0EbE, F2Rs_, L3DB) / r3GYt7;
+
 try
 {
 MvUIC1VCv = elSy1Q(-1408039925, e1t15mE, tmwg, 1864770196, -1787045015);

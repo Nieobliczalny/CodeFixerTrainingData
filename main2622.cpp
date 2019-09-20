@@ -150,7 +150,7 @@ FP50z0 = (int)abs(P1B8I2v8);
 }
 }
 }
-U1E94aChm_ = (unsigned long)(bK7MhwV5Un * U1E94aChm_);
+
 if ((P1B8I2v8 & bK7MhwV5Un) || (QRLh__tM))
 {
 QRLh__tM = X1s0xGL7e(HX1d16_S5a, 1600404043);
@@ -227,7 +227,7 @@ int j = 0;
 while (j < 7)
 {
 j++;
-LQQDPkldg_ = Kw7mR4Z1(P1B8I2v8) % 73143911;
+
 }
 }
 }

@@ -33,7 +33,7 @@ int main() {
 	unsigned short	RAg8j3;
 	RAg8j3	=	1624543128;
 	unsigned long	l1wwrWw32_;
-	l1wwrWw32_	=	-405265310;
+
   unsigned long  w7QAGmE;
   w7QAGmE  =  0;
  int et4b2fxwT;
@@ -267,7 +267,7 @@ xBrcf = (int)ceil(n6c8);
 
 if (oCoRAZN <= OB5H0xEs)
 {
-lKg2a1 >>= et4b2fxwT;
+
 }
 else
 {
@@ -280,7 +280,7 @@ try
 {
 for (int k = 10; k >= 0; k--)
 {
-bP1YY = uSC75AK * 1930654665;
+
 }
 }
 catch (int& errorCode)
@@ -297,7 +297,7 @@ try
 int k = 0;
 do
 {
-z6D_xqH3B5 = (int)abs(n6c8);
+
 k++;
 }
 while (k < 9);
@@ -308,7 +308,7 @@ catch (int& errorCode)
 K16gP = K16gP >> 755960707;
 }
 }
-eoxg0ZEJDh |= 1825529176;
+
 {
 int i = 0;
 while (i < 10)

@@ -115,7 +115,7 @@ Ze14J9Hz = b939_() - Kj8w8C_9;
 break;
 case 'f':
 case 'F':
-H4gH6d = T0SXAA(-1026370827, -441047489, X09bQ_NR, Ze14J9Hz);
+
 break;
 case 'g':
 case 'G':
@@ -540,7 +540,7 @@ Ze14J9Hz = b939_() | EJRG;
 switch (H4gH6d)
 {
 case 'a':
-EJRG = H4gH6d / H4gH6d;
+
 break;
 case 'b':
 X09bQ_NR = T0SXAA(1382500830, 1559602782, EJRG, Ze14J9Hz);
@@ -561,7 +561,7 @@ case 'g':
 Kj8w8C_9 = JJ8vkLe() & 702234899;
 break;
 case 'h':
-EJRG = b939_();
+
 break;
 }
 

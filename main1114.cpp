@@ -429,7 +429,7 @@ cout << zJ1z << "x9xrLoFc83" << endl;
 
 ny603 = ipzi_RJ8l % gr0__;
 
-X2tB9Dj = (unsigned char)(ipzi_RJ8l * X2tB9Dj);
+
 X2tB9Dj = ZaMtO0j8(zJ1z);
 {
 int i = 1;
@@ -594,7 +594,7 @@ LQ3HkFJ6Z = gr0__ >> 1106380306;
 }
 else if ((Hh7oJ >= 1430145561) && (LQ3HkFJ6Z < 674301895))
 {
-p3rY = ZaMtO0j8(-1613264279);
+
 }
 else
 {
@@ -610,7 +610,7 @@ cout << "Ri0I0J1" << dWcIp << l1l_5lr(-202228131, zJ1z, -695236574, JgjYx) << l1
 }
 else if (ny603 != ipzi_RJ8l)
 {
-S1EhFgjH = l1l_5lr(X2tB9Dj, S1EhFgjH, ny603, 1458415822);
+
 }
 else if (dWcIp != 2111548771)
 {
@@ -632,7 +632,7 @@ for (int j = 0; j < 6; ++j)
 int k = 0;
 while (k < 6)
 {
-mjkZT946_ = zJ1z >> 1920414712;
+
 k++;
 }
 }
@@ -651,7 +651,7 @@ switch (zJ1z)
 {
 case 'a':
 case 'A':
-JgjYx = LQ3HkFJ6Z % 2064780465;
+
 break;
 case 'b':
 case 'B':

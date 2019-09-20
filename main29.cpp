@@ -79,7 +79,7 @@ case 2:
 qx9o_16Xw = (int)ceil(Js69GqZ1M);
 break;
 case 3:
-gWE1q8 = (int)abs(vDxdC3j8);
+
 break;
 case 4:
 Vd056 = QOW42M8 * tu8sRS;
@@ -104,7 +104,7 @@ for (int i = 0; i < 2; ++i)
 BfH9OXNP7f = bM7W_2_(w18Ft, BfH9OXNP7f, qx9o_16Xw, zwjHAycs);
 }
 
-ivgij = vDxdC3j8 / bM7W_2_(w18Ft, -1907242664, -398597716, 1199934408);
+
 
 return 0;
 }

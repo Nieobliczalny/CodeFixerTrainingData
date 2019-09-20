@@ -199,7 +199,7 @@ case 2:
 t3ss6rvX5--;
 break;
 case 3:
-F2k9udW &= 1828857007;
+
 break;
 case 4:
 EPtQ0fgbrD = (int)abs(t3ss6rvX5);
@@ -230,7 +230,7 @@ GO61 = Bqq652r7 * 598137423;
 }
 else if (W0Kry_2j5 & -766724790)
 {
-W0Kry_2j5 += PvW1e_2;
+
 }
 else if (tW7NqXQ > -1825550730)
 {
@@ -256,7 +256,7 @@ Bqq652r7 = (t3ss6rvX5 > -1674565869) ? -1863539849 : 791464259;
 }
 else
 {
-F2k9udW = (short int)(g_40eiMmq);
+
 }
 
 std::cout << "GTaC6O" << GO61 << std::endl;
@@ -319,7 +319,7 @@ while (j >= 0)
 --j;
 if (GQuWN >= g_40eiMmq)
 {
-W0Kry_2j5 = i4_WIyg << L7_8e1iu4f;
+
 }
 }
 }
@@ -344,7 +344,7 @@ int j = 10;
 do
 {
 --j;
-uJ84k6i = (short int)(Bqq652r7);
+
 }
 while (j >= 0);
 }
@@ -376,7 +376,7 @@ while (j >= 0)
 --j;
 if (((Tc9C < -485934959) && (x876khR6N > -275063048)) || ((L7_8e1iu4f != -2012070428) || (m4LdBn8I < 891737427)))
 {
-yPz4W = (int)abs(t3ss6rvX5);
+
 }
 }
 }

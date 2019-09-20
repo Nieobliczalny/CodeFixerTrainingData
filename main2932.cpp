@@ -56,7 +56,7 @@ std::cout << nvE2O_kH << nvE2O_kH << std::endl;
 }
 }
 
-j1y50KaB1b = KZAonZ(j1y50KaB1b, nLBc3Y, 161354468, -675014504);
+
 
 j1y50KaB1b = (char)(nLBc3Y + (1785506871));
 if (nLBc3Y == 1075570525)
@@ -206,7 +206,7 @@ j1y50KaB1b = NfZgi5l1Q(nvE2O_kH, j1y50KaB1b, FW1akX8K, 370236526, 1087966960);
 switch (nLBc3Y)
 {
 case 'a':
-j1y50KaB1b = (int)abs(FW1akX8K) + (-1964237066);
+
 break;
 case 'b':
 j1y50KaB1b = gG57TG5i_ / nvE2O_kH;

@@ -19,7 +19,8 @@ short int    LKXLnr_Cy(unsigned short int    Cus5IX3b,short int    Axn4uP,short 
 int main()
 {
   long  EHOBO5XA_,  P46i,  a_Ua67Rc66,  nLme69R,  yB6718,  D3kHipV,  Oec0vzCbo,  ZIY67_iI0x,  tGlAX_QbsU,  r6_6S,  CCW012oZ,  YX3G,  M1e9v,  CYEs2i1CR8,  Zjw5B_Vp69,  msKI,  O2PWK19jb;
-    EHOBO5XA_  =  P46i  =  a_Ua67Rc66  =  nLme69R  =  yB6718  =  D3kHipV  =  Oec0vzCbo  =  ZIY67_iI0x  =  tGlAX_QbsU  =  r6_6S  =  CCW012oZ  =  YX3G  =  M1e9v  =  CYEs2i1CR8  =  Zjw5B_Vp69  =  msKI  =  O2PWK19jb  =  117794144;
+    // codechecker_intentional [deadcode.DeadStores] Design rule - initialize all variables
+	EHOBO5XA_  =  P46i  =  a_Ua67Rc66  =  nLme69R  =  yB6718  =  D3kHipV  =  Oec0vzCbo  =  ZIY67_iI0x  =  tGlAX_QbsU  =  r6_6S  =  CCW012oZ  =  YX3G  =  M1e9v  =  CYEs2i1CR8  =  Zjw5B_Vp69  =  msKI  =  O2PWK19jb  =  117794144;
   short  abX94s799K,  E8rHl5m5;
     abX94s799K  =  E8rHl5m5  =  0;
 

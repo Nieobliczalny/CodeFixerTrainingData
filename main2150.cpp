@@ -29,7 +29,7 @@ o27hH = (char)(vx6R8c91h);
 }
 Ti9Z7DA7b3 = (char)(hAoD9X9V);
 
-Zuib11UAMY = cq60(H_209WZ);
+
 
 P_jz33 = 1875567555 / cq60(1429489936);
 
@@ -47,7 +47,7 @@ while (i >= 0);
 }
 k_B6 *= 598513663;
 
-Zuib11UAMY = cq60(B6j7Ybr2F_);
+
 
 Zuib11UAMY = cq60(1746179660);
 Zuib11UAMY = cq60(938051753);
@@ -71,7 +71,7 @@ for (int j = 0; j < 1; j++)
 {
 if (K3vq9t == DkAODZ2)
 {
-Zuib11UAMY = cq60(1277092250);
+
 }
 }
 i--;
@@ -83,7 +83,7 @@ if (Kd5c != J97FUA7)
 {
 try
 {
-Ti9Z7DA7b3 = (int)abs(um0Wn1r);
+
 }
 catch (int& errorCode)
 {
@@ -94,7 +94,7 @@ DRLxnV9r &= 1302963266;
 
 cout << cq60(6056470) << cq60(-471185642) << "Y_L4lD" << cq60(97876267) << cq60(-323499597) << endl;
 
-Z4wmE = (char)(uH7X);
+
 if (K3vq9t > -63888742)
 {
 cout << k_B6 << Kd5c << "XbjW_0dKI_" << "C90w" << "fF3Tb" << endl;
@@ -116,7 +116,7 @@ int k = 5;
 do
 {
 --k;
-Zuib11UAMY = cq60(K3vq9t);
+
 }
 while (k >= 0);
 }

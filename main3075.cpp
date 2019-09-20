@@ -464,7 +464,7 @@ case 5:
 I46rvB6qw = P93R9I(I46rvB6qw, -1084632565);
 break;
 case 6:
-Y3ov_82CG = P93R9I(-557689868, -1125870749);
+
 break;
 case 7:
 EQ3p9IvV_ = P93R9I(-2120431202, Y3ov_82CG);
@@ -561,7 +561,7 @@ if ((Q_391(-172675327) / A_As55a6wH) > 1409154702)
 {
 std::cout << "o109lLI" << fWN0u6ka60(A_As55a6wH, -1502283648, X2rCW, 1882585645) << "ek0l0sh" << Y3ov_82CG << "cU_1Ujzth" << std::endl;
 }
-Y3ov_82CG /= 1869654171;
+
 
 try
 {
@@ -592,7 +592,7 @@ aV5Yq = Q_391(aV5Yq);
 }
 else
 {
-I46rvB6qw %= nIj5;
+
 }
 }
 else
@@ -608,7 +608,7 @@ while (k >= 0);
 }
 }
 }
-Y3ov_82CG &= EQ3p9IvV_;
+
 
 for (int i = 10; i >= 0; --i)
 {

@@ -35,7 +35,8 @@ int main()
   long  ce5ha20W2f,  T5J9Wn2nE,  atL_Xhm8,  Cb0Rwrg,  xP66n60,  p95pU,  bF1oED_xL,  XYZPO4RM_3,  CivNg3,  b_EZ_SEl,  bz8v2,  l81QYm,  N1TzZ,  jUP84IMV,  Rdov8L,  RFC_RK,  mE4vc,  DhRb4VwREh,  GW7EB3,  I5eORLn,  nHWVBD1c,  RTs8CSWSo,  a9OAs,  CjWlFp428Z,  H3Q3Y,  d351,  o7nqocp2WQ,  AA6sXq,  s99Abff,  j9S3BCZ,  JYHH4hky,  G8Bwp_d,  F8bbrw3oal,  G4Ik,  w_CI8_H15,  MRXr,  PFeppCS1,  Q255l_,  bT7z,  j48__Cu,  VrJxK,  fKx72,  GGKYG,  YeWsq,  n_9ZCV,  K_r0,  g16_d6Y_32,  n2VNd,  xtSlo,  Ag1qKk_0zc,  qz_4JWCL_e,  lYw6Pk6A,  lgC9YQXo_5,  gVHlF_62f,  CgD3lq6l,  gVg60I,  m7sf8,  P0g5X02,  l0TCq03M9,  CgYfB_pl1,  HW615arS3,  MpI_4bHXpW,  LuN1c27,  QYSpm3,  UABNxz1Q5,  oG3l0;
     ce5ha20W2f  =  T5J9Wn2nE  =  atL_Xhm8  =  Cb0Rwrg  =  xP66n60  =  p95pU  =  bF1oED_xL  =  XYZPO4RM_3  =  CivNg3  =  b_EZ_SEl  =  bz8v2  =  l81QYm  =  N1TzZ  =  jUP84IMV  =  Rdov8L  =  RFC_RK  =  mE4vc  =  DhRb4VwREh  =  GW7EB3  =  I5eORLn  =  nHWVBD1c  =  RTs8CSWSo  =  a9OAs  =  CjWlFp428Z  =  H3Q3Y  =  d351  =  o7nqocp2WQ  =  AA6sXq  =  s99Abff  =  j9S3BCZ  =  JYHH4hky  =  G8Bwp_d  =  F8bbrw3oal  =  G4Ik  =  w_CI8_H15  =  MRXr  =  PFeppCS1  =  Q255l_  =  bT7z  =  j48__Cu  =  VrJxK  =  fKx72  =  GGKYG  =  YeWsq  =  n_9ZCV  =  K_r0  =  g16_d6Y_32  =  n2VNd  =  xtSlo  =  Ag1qKk_0zc  =  qz_4JWCL_e  =  lYw6Pk6A  =  lgC9YQXo_5  =  gVHlF_62f  =  CgD3lq6l  =  gVg60I  =  m7sf8  =  P0g5X02  =  l0TCq03M9  =  CgYfB_pl1  =  HW615arS3  =  MpI_4bHXpW  =  LuN1c27  =  QYSpm3  =  UABNxz1Q5  =  oG3l0  =  1067706023;
     unsigned long long    o98t9h,    Eby0j,    r_ir8TJ;
-        o98t9h    =    Eby0j    =    r_ir8TJ    =    0;
+        // codechecker_intentional [deadcode.DeadStores] Design rule - initialize all variables
+		o98t9h    =    Eby0j    =    r_ir8TJ    =    0;
 
 for (int i = 9; i >= 0; --i)
 {

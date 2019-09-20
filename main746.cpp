@@ -108,7 +108,7 @@ int k = 3;
 do
 {
 --k;
-exs948 = q47_l2n8b(517551333, -1879234503) + AtwesJuez;
+
 }
 while (k >= 0);
 }
@@ -143,7 +143,7 @@ i++;
 while (i < 9);
 }
 GMoUtd = (int)floor(FI2T7);
-KkFQ = q47_l2n8b(-1549996506, OMqI);
+
 cIMU8JN = q47_l2n8b(cIMU8JN, FI2T7);
 
 {
@@ -177,7 +177,7 @@ Yqn3V29 = (unsigned short)(U5Su);
 }
 else
 {
-FI2T7 = (int)floor(GMoUtd);
+
 }
 }
 catch (int& errorCode)
@@ -235,7 +235,7 @@ GVfR = q47_l2n8b(GVfR, AtwesJuez);
 break;
 case 'b':
 case 'B':
-Sqg_A1X = (int)abs(G_404x);
+
 break;
 case 'c':
 case 'C':
@@ -268,7 +268,7 @@ std::cout << "z61fA10kn" << TE69(137306767, -721263993, ToQM73) << "P2atk9t7" <<
 FI2T7 = (int)floor(GMoUtd);
 if (V_xaV0 <= 1720141748)
 {
-IZpP8fKfA7 = (unsigned long long)(LBMuu);
+
 }
 
 switch (xLt1nW1Gc)
@@ -280,7 +280,7 @@ case 'b':
 FI2T7 = (int)ceil(GMoUtd);
 break;
 case 'c':
-GMoUtd = (int)floor(FI2T7);
+
 break;
 case 'd':
 FI2T7 = (int)ceil(GMoUtd);
@@ -303,7 +303,7 @@ case 1:
 FI2T7 = q47_l2n8b(FI2T7, tT0r);
 break;
 case 2:
-GMoUtd = (int)floor(FI2T7);
+
 break;
 case 3:
 OMqI = q47_l2n8b(F4795, OMqI);
@@ -315,7 +315,7 @@ case 5:
 cIMU8JN = zT3Fhc * 849781470;
 break;
 case 6:
-F1e7Y1G = q47_l2n8b(809824534, -1074289551);
+
 break;
 case 7:
 KkFQ = cIMU8JN & 869831721;
@@ -327,7 +327,7 @@ break;
 }
 while (i >= 0);
 }
-F4795 = TE69(Yqn3V29, sVP7, 999650831);
+
 KkFQ = (long long)(zT3Fhc);
 QC7v = (unsigned long long)(CbTZd4YYvI);
 

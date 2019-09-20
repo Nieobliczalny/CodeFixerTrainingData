@@ -14,7 +14,7 @@ unsigned char	QBlY(int	dvvb)	{
 
 int main(int argc, char** argv) {
     long double    KjSXJ;
-    KjSXJ    =    2046543561;
+
  int KW_569gO;
  KW_569gO = 1823384272;
 	unsigned long	UufP;
@@ -30,7 +30,7 @@ int main(int argc, char** argv) {
     short int    x1c9_kV;
     x1c9_kV    =    0;
  unsigned short int KR4BawXzzi;
- KR4BawXzzi = -866071770;
+
 	float	oE1ezrc;
 	oE1ezrc	=	152654106;
 	unsigned short	j84kE2o3;
@@ -57,7 +57,7 @@ case 'd':
 x1c9_kV = QBlY(x1c9_kV);
 break;
 case 'e':
-Pti0O = QBlY(m3ap);
+
 break;
 case 'f':
 Pti0O = QBlY(-250259335);
@@ -164,7 +164,7 @@ UufP = KR4BawXzzi % D15eae;
 std::cout << QBlY(Pti0O) << std::endl;
 j84kE2o3 = QBlY(-2030968418);
 
-Pti0O = QBlY(KjSXJ);
+
 
 if ((x1c9_kV) && ((KjSXJ <= 666778979) || (U3F4E0R419 & 1839911795)))
 {
@@ -183,7 +183,7 @@ for (int i = 3; i >= 0; i--)
 m3ap = (long)(j84kE2o3 + (-243301378));
 }
 
-oE1ezrc = QBlY(KjSXJ) + 1210131835;
+
 oE1ezrc = (int)abs(x1c9_kV) + (-1295087154);
 
 if (m3ap & -488060899)
@@ -195,7 +195,7 @@ do
 --j;
 if ((oE1ezrc >= D15eae) && (UufP <= 2051384009))
 {
-j84kE2o3 = QBlY(1100014562);
+
 }
 else
 {
@@ -207,7 +207,7 @@ while (j >= 0);
 }
 else
 {
-j84kE2o3 = QBlY(922759769);
+
 }
 oE1ezrc = (int)floor(KjSXJ);
 return 0;

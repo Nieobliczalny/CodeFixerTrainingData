@@ -43,7 +43,7 @@ try
 {
 if (BkR04 >= -331561318)
 {
-AR9e = (long long)(j_5j07);
+
 }
 else if (vXo5)
 {
@@ -77,7 +77,7 @@ case 'd':
 Lsv7j3 = (int)floor(sj3QK8);
 break;
 case 'e':
-f_X_3p9zb -= AR9e;
+
 break;
 case 'f':
 sj3QK8 -= iAZ0;
@@ -128,7 +128,7 @@ case 4:
 U5W07xj2t = (int)floor(Z1H7rdVD);
 break;
 case 5:
-T83B7 = U5W07xj2t * 1443475531;
+
 break;
 case 6:
 j_5j07 = (int)abs(T83B7);
@@ -143,7 +143,7 @@ else
 MBO2EE = uo5l8 << CTnw;
 }
 
-CTnw = zdlfpk / t91wd;
+
 
 T83B7 = (char)(E2L96);
 
@@ -172,7 +172,7 @@ Lsv7j3 = sj3QK8 * T83B7;
 
 if (IrXP09 == -1730504680)
 {
-T83B7 = BkR04 ^ 866844964;
+
 }
 else
 {

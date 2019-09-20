@@ -20,7 +20,7 @@ long long    VKbCAxy712(short int    W_o4,unsigned int    sw1Fe,long long    U9J
 
 int main() {
  char whM_;
- whM_ = 421972638;
+
  unsigned int H819E;
  H819E = 0;
  unsigned long long olvd_YMG;
@@ -36,7 +36,7 @@ int main() {
  int bJ7uR;
  bJ7uR = -905010329;
  unsigned char r6026_q1B1;
- r6026_q1B1 = 688794643;
+
 	char	pFg3Ljl;
 	pFg3Ljl	=	2113849006;
   short int  o719mHKs0;
@@ -77,7 +77,7 @@ while (j < 2)
 j++;
 if (F3_X3Jj < 2005683312)
 {
-Uc0n = z5a_(-1729493808, 1592593236) & 677377540;
+
 }
 else
 {
@@ -119,7 +119,7 @@ Uc0n = pFg3Ljl << O_r5Zyp061;
 }
 else if (((O_r5Zyp061) || (r9j__QA2y)) && ((qx4e & g0_f) || (Uc0n <= O_r5Zyp061)))
 {
-F3_X3Jj = z5a_(-136369273, FNFgDPuIN);
+
 }
 else if (R_0l25Y & 918241485)
 {
@@ -150,7 +150,7 @@ else
 switch (pFg3Ljl)
 {
 case 0:
-F3_X3Jj = L5Q8p(F3_X3Jj, j_Er00, qw80445g);
+
 break;
 case 1:
 bJ7uR = E8ff(-1550578481, j_Er00, qw80445g, -605484250) % F3_X3Jj;
@@ -162,7 +162,7 @@ case 3:
 r6026_q1B1 <<= F3_X3Jj;
 break;
 case 4:
-H819E = OIf8_(H819E, -1674055828, whM_, 1881652636);
+
 break;
 case 5:
 j_Er00 = (int)abs(pFg3Ljl);

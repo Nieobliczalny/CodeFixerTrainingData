@@ -71,7 +71,7 @@ int main(int argc, char** argv) {
 int i = 10;
 while (i >= 0)
 {
-H1HCF4I69J = (unsigned long long)(aFmv + (-1787796381));
+
 i--;
 }
 }
@@ -83,7 +83,7 @@ while (i < 7)
 i++;
 if (sYXyEI & 1184646940)
 {
-VM576C = (unsigned int)(F3Fxut);
+
 }
 else
 {
@@ -100,7 +100,7 @@ sYXyEI = (a5jPUd05O == 243626570) ? e_2v7JAh35 : 1977003436;
 }
 
 std::cout << e_2v7JAh35 << sYXyEI << V10GDk << FMqa3n4079 << "S_hw" << std::endl;
-YK_C133_l &= p2M2Y;
+
 
 return 0;
 }

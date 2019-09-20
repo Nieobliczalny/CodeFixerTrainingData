@@ -63,7 +63,7 @@ case 0:
 Kqyk1Ht /= 759913435;
 break;
 case 1:
-LuD7 = YPhGd3q(LuD7);
+
 break;
 case 2:
 SvBpPsa = F_FN55uCS & Kqyk1Ht;
@@ -233,7 +233,7 @@ switch (Kqyk1Ht)
 {
 case 'a':
 case 'A':
-F_FN55uCS = j6Ji4(F_FN55uCS, SvBpPsa);
+
 break;
 case 'b':
 case 'B':
@@ -252,7 +252,7 @@ else
 {
 if (Kqyk1Ht)
 {
-F_FN55uCS = YPhGd3q(-133884824) ^ 1862332741;
+
 }
 else if (sru5lABcj >= -1175914055)
 {
@@ -274,7 +274,7 @@ std::cout << RbMV << j6Ji4(LuD7, RbMV) << L1X8s3 << j6Ji4(LuD7, 2014572275) << s
 }
 std::cout << j6Ji4(LuD7, 1714804663) << J5nc3lf3b_ << "tH_u" << std::endl;
 
-F_FN55uCS = (unsigned short int)(SvBpPsa);
+
 F_FN55uCS = L1X8s3 / J5nc3lf3b_;
 LuD7 = YPhGd3q(328497245);
 {
@@ -422,7 +422,7 @@ F_FN55uCS = Lz87oks2I2(L1X8s3, J5nc3lf3b_);
 break;
 case 'i':
 case 'I':
-RbMV = YPhGd3q(SvBpPsa);
+
 break;
 case 'j':
 case 'J':
@@ -436,7 +436,7 @@ std::cout << sru5lABcj << L1X8s3 << Lz87oks2I2(SvBpPsa, 2049986688) << "C2lQ42S"
 switch (J5nc3lf3b_)
 {
 case 'a':
-SvBpPsa -= 919985593;
+
 break;
 case 'b':
 F_FN55uCS++;
@@ -448,7 +448,7 @@ case 'd':
 Kqyk1Ht |= 1932177278;
 break;
 case 'e':
-sru5lABcj = Kqyk1Ht % F_FN55uCS;
+
 break;
 case 'f':
 SvBpPsa -= Kqyk1Ht;
@@ -460,7 +460,7 @@ case 'h':
 SvBpPsa = Lz87oks2I2(-1036590896, SvBpPsa);
 break;
 case 'i':
-Kqyk1Ht = j6Ji4(Kqyk1Ht, L1X8s3);
+
 break;
 default:
 sru5lABcj = j6Ji4(sru5lABcj, -1401918195);

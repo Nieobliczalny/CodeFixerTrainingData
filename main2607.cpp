@@ -14,7 +14,7 @@ unsigned short int	cs_0j7g92(long	X_387gN7,long	hHr_,int	isg1ZQ,unsigned short	U
 
 int main(void) {
  unsigned short cn35;
-  cn35 = 0;
+
 	unsigned char	o606R_L,	NNts,	XTK7ZcA3Wf,	jYgOV,	L_V4nu_2CW,	ju4L1J,	oT232_emr,	ORowKZSUA,	z9_PY64s,	xEYonX,	ZfYf,	d2Kk669Q,	cs_1gsP8_v;
 		o606R_L	=	NNts	=	XTK7ZcA3Wf	=	jYgOV	=	L_V4nu_2CW	=	ju4L1J	=	oT232_emr	=	ORowKZSUA	=	z9_PY64s	=	xEYonX	=	ZfYf	=	d2Kk669Q	=	cs_1gsP8_v	=	90027281;
 
@@ -24,7 +24,7 @@ std::cout << cs_0j7g92(-1375189076, NNts, XTK7ZcA3Wf, -1354509229, L_V4nu_2CW) <
 
 try
 {
-oT232_emr = SC9kV7_IJ(1999300283, jYgOV, 1174468339);
+
 }
 catch (int& errorCode)
 {
@@ -34,7 +34,7 @@ L_V4nu_2CW += 2009170896;
 
 ZfYf /= 292241616;
 
-L_V4nu_2CW = (unsigned char)(jYgOV);
+
 
 return 0;
 }

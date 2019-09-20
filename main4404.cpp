@@ -21,7 +21,7 @@ int main(void) {
     rD666_    =    0;
   long long  XhFgi0I_B8,  ea7J8Q,  X3MT5_AQ,  F_th9kz,  S27Eutq83,  vhaneR,  y_pSEY,  cv3pKIWM,  ONw_581,  Y_hk48QZP,  Jp7mlwBcT,  k0cSp,  zqsYis9by,  CnO_68L,  x2gFR,  A4ZFPp7W8p,  z_kstae5,  g9YZLiB1O,  i0Omybj2G4,  akf8e,  ym40Rk,  hC79,  IWPt9j,  TcDx,  VctSdk,  tpc0,  J92KJ,  qyT1,  O8a_,  YGwGzyL7_,  l5ta_6d12T,  a9O46P1v,  Rp6PaCxG4,  Qp_h6sr,  B_u2p3MB,  YB9FSNC_0,  J3md,  a_3YW,  r7_49g,  Xyxqt_,  F3dOC_G4X,  fkHLP,  Wz4pL3R,  a6pFite2hc,  iOw3wHJ6T,  g47PfHZ,  qE88doS,  bB1j1,  W9vWE,  BhMm82ho,  i6_2mYDBP,  SnC_3k,  O16Nt,  Zy39ee4,  CEQv2HCZ,  bwh6UAyGWj,  u9phz_5,  WZvDnr,  YIE8kH7,  H9bVo68Yr,  op903c,  h23VlBo82,  dZjm5t,  dTCw2t54pK,  kBEi8mrjtS,  Aw9_anGR5n,  GHRD,  QRC7S,  O_940,  EPC4WG2,  ACD5eW5,  HPsqq,  W983Tzh,  iSfbc4_Q,  anLH6xd0M,  B9aT3,  D47BiFulKu,  x49M,  W7KI81_Cc;
   XhFgi0I_B8  =  1785774799;
-  ea7J8Q  =  1219751638;
+
   X3MT5_AQ  =  -2035115668;
   F_th9kz  =  -1558061116;
   S27Eutq83  =  478437987;
@@ -34,7 +34,7 @@ int main(void) {
   k0cSp  =  1968200751;
   zqsYis9by  =  1876096476;
   CnO_68L  =  196158442;
-  x2gFR  =  1344886417;
+
   A4ZFPp7W8p  =  493560078;
   z_kstae5  =  1421204758;
   g9YZLiB1O  =  1926715982;
@@ -46,7 +46,7 @@ int main(void) {
   TcDx  =  117781785;
   VctSdk  =  -1691796782;
   tpc0  =  999799777;
-  J92KJ  =  -2039967638;
+
   qyT1  =  7001926;
   O8a_  =  1713250707;
   YGwGzyL7_  =  -500062722;
@@ -59,7 +59,7 @@ int main(void) {
   J3md  =  297012520;
   a_3YW  =  197723606;
   r7_49g  =  -577794754;
-  Xyxqt_  =  -1336200882;
+
   F3dOC_G4X  =  -1901492098;
   fkHLP  =  -1551876528;
   Wz4pL3R  =  -1363854761;
@@ -73,7 +73,7 @@ int main(void) {
   i6_2mYDBP  =  -638641762;
   SnC_3k  =  572767357;
   O16Nt  =  -1615124718;
-  Zy39ee4  =  -386902664;
+
   CEQv2HCZ  =  2143709420;
   bwh6UAyGWj  =  15004732;
   u9phz_5  =  -1108823954;
@@ -91,7 +91,7 @@ int main(void) {
   O_940  =  1785767220;
   EPC4WG2  =  652706671;
   ACD5eW5  =  519700526;
-  HPsqq  =  -202388808;
+
   W983Tzh  =  1849709168;
   iSfbc4_Q  =  1069996354;
   anLH6xd0M  =  -1916722445;
@@ -107,7 +107,7 @@ if (BhMm82ho < op903c)
 switch (Y_hk48QZP)
 {
 case 0:
-qyT1 = AXr42Qu9(123442646, 531396152);
+
 break;
 default:
 B_u2p3MB /= YB9FSNC_0;
@@ -171,7 +171,7 @@ if (B_u2p3MB <= Mo70A)
 switch (dTCw2t54pK)
 {
 case 0:
-i6_2mYDBP = (int)abs(ONw_581);
+
 break;
 case 1:
 Wz4pL3R = AXr42Qu9(Wz4pL3R, Aw9_anGR5n);
@@ -192,7 +192,7 @@ case 6:
 tpc0 = W983Tzh * z_kstae5;
 break;
 case 7:
-z_kstae5 = (int)abs(XhFgi0I_B8);
+
 break;
 }
 }
@@ -263,7 +263,7 @@ case 0:
 ONw_581 >>= X3MT5_AQ;
 break;
 case 1:
-O8a_ = (y_pSEY <= akf8e) ? i0Omybj2G4 : Mo70A;
+
 break;
 case 2:
 vhaneR = AXr42Qu9(vhaneR, 1893360743);
@@ -286,7 +286,7 @@ do
 switch (h23VlBo82)
 {
 case 'a':
-SnC_3k = aKiMm8Q6(-1516822721);
+
 break;
 default:
 B_u2p3MB = (int)abs(Jp7mlwBcT);
@@ -299,7 +299,7 @@ while (j >= 0);
 }
 else if (Wz4pL3R)
 {
-H9bVo68Yr &= 1882289365;
+
 }
 else if (l5ta_6d12T & 1988201102)
 {
@@ -323,7 +323,7 @@ Aw9_anGR5n = AXr42Qu9(Aw9_anGR5n, r7_49g);
 }
 else if (W983Tzh >= y_pSEY)
 {
-A4ZFPp7W8p = (int)abs(iOw3wHJ6T);
+
 }
 else if (SnC_3k == rD666_)
 {
@@ -421,7 +421,7 @@ else if (O_940 < qXx3k)
 {
 for (int k = 0; k < 2; ++k)
 {
-g9YZLiB1O = (int)abs(GHRD);
+
 }
 }
 else if (W7KI81_Cc > 1752276645)
@@ -437,7 +437,7 @@ else if ((a_3YW >= -1103340757) && (WZvDnr <= Mo70A))
 {
 for (int k = 0; k < 10; k++)
 {
-Xyxqt_ = (int)abs(YB9FSNC_0);
+
 }
 }
 else
@@ -464,7 +464,7 @@ try
 {
 for (int k = 0; k < 1; k++)
 {
-SnC_3k = (int)abs(h23VlBo82);
+
 }
 }
 catch (int& errorCode)
@@ -482,7 +482,7 @@ try
 {
 if (VctSdk <= 592924625)
 {
-Jp7mlwBcT = (int)abs(Qp_h6sr);
+
 }
 else if (i0Omybj2G4 >= -2016644493)
 {
@@ -494,7 +494,7 @@ J3md = i6_2mYDBP & 806618139;
 }
 else if (B_u2p3MB != -1532629083)
 {
-ACD5eW5 = (i6_2mYDBP != Mo70A) ? 67570369 : qXx3k;
+
 }
 else if (akf8e <= i6_2mYDBP)
 {
@@ -524,7 +524,7 @@ for (int j = 0; j < 7; j++)
 int k = 0;
 do
 {
-Jp7mlwBcT = (int)abs(TcDx);
+
 ++k;
 }
 while (k < 7);
@@ -557,7 +557,7 @@ if (((XhFgi0I_B8 & BhMm82ho) || (YIE8kH7)) && (akf8e < qXx3k))
 {
 if (zqsYis9by)
 {
-y_pSEY = bwh6UAyGWj >> Zy39ee4;
+
 }
 }
 }

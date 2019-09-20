@@ -359,7 +359,7 @@ m5_Y = (int)abs(HXe49_);
 break;
 case 'i':
 case 'I':
-U14zR96 = M15L9(-2106390164);
+
 break;
 case 'j':
 case 'J':
@@ -610,7 +610,7 @@ if ((UzbCfp & 1905995627) && (fcO9P == jHG_XrJ))
 int j = 0;
 do
 {
-Sz_r = pno4Y % UzbCfp;
+
 j++;
 }
 while (j < 1);
@@ -620,7 +620,7 @@ else
 {
 if ((h7UV_l8__R == Z627aoK) && (We2dD > K6ieVe2Kq))
 {
-U14zR96 = (long)(Vm3Z0W);
+
 }
 else
 {
@@ -661,7 +661,7 @@ case 7:
 jHG_XrJ = KPRumHH ^ 966287011;
 break;
 case 8:
-U14zR96 = (int)abs(W29_6f);
+
 break;
 case 9:
 x7KduH >>= FbJwaB;
@@ -678,7 +678,7 @@ h7UV_l8__R %= 1054072785;
 switch (fcO9P)
 {
 case 0:
-We2dD = NbQuIyAnf(pno4Y, -844778681);
+
 break;
 case 1:
 b5s2--;
@@ -690,7 +690,7 @@ case 3:
 cu21Hb3YX = Z627aoK + 1806944470;
 break;
 case 4:
-WFOp1B5I2t = (int)abs(jHG_XrJ);
+
 break;
 case 5:
 U14zR96 = W29_6f * cu21Hb3YX;
@@ -705,7 +705,7 @@ case 8:
 KPRumHH = f13N222();
 break;
 case 9:
-U14zR96 = f13N222();
+
 break;
 default:
 snt6G6YlIn = (int)abs(WFOp1B5I2t);

@@ -59,7 +59,7 @@ int main()
     short    qDbqdb1    =    -804824318;
 	unsigned long	ZRwDL11b	=	711486884;
 
-d02un4j %= 1882918184;
+
 Q11_ = (int)floor(K3X46);
 KCg9giSZ = hZ8DUK77_(KCg9giSZ, 297088662, J6WWsdCGcS, 936910788, QTv5);
 
@@ -118,7 +118,7 @@ wnwh = jVt660dY(327540, 963747027);
 
 n_q7ARA += 1603899078;
 
-s21485f = (unsigned short)(wgYjtk82);
+
 
 Z3Li_ = 89480725 / jVt660dY(-691679302, 527606463);
 
@@ -136,7 +136,7 @@ vpuyUfT38 %= n0_3TwOiH5;
 }
 else if (dn7Ol != 1260128487)
 {
-QQ2_2 = (int)floor(K3X46);
+
 }
 else
 {
@@ -197,7 +197,7 @@ cout << fQsO_ << Dk6fA_hY << uO8Ioendl << y9tI6(-404655226, i11mH9_8, 902686455,
 }
 else
 {
-d02un4j = y9tI6(-520283353, 507661998, fiimW9i, -718464224);
+
 }
 d02un4j = hZ8DUK77_(-821391813, 2046064762, wgYjtk82, 1713121875, 1308005854);
 if ((Dk6fA_hY <= -1438766414) && (vpuyUfT38))
@@ -222,7 +222,7 @@ while (j < 2)
 ++j;
 if (n_q7ARA & 278915356)
 {
-ZKx4_N = jVt660dY(dv_801, 1230759758);
+
 }
 }
 }
@@ -240,7 +240,7 @@ case 'c':
 K3X46 = (int)floor(Q11_);
 break;
 case 'd':
-Q11_ = (g42prm < -131726469) ? y9tI6(812161891, KCg9giSZ, 1280419791, ZRwDL11b) : vpuyUfT38;
+
 break;
 case 'e':
 r_0UHf = aI5z5(r_0UHf, cf988, 354939275, jxc3BB, -2137542031);
@@ -255,7 +255,7 @@ case 'h':
 wgYjtk82 *= Zfb3VvS;
 break;
 case 'i':
-fUayl = fQsO_ % 1811923991;
+
 break;
 default:
 r_0UHf = hZ8DUK77_(-1011088446, 148113994, qDbqdb1, 1967806727, 1202351725);
@@ -268,7 +268,7 @@ case 0:
 JB_R = (int)abs(d93EeTLpL9);
 break;
 case 1:
-TGePfc = aI5z5(TGePfc, e04yl01, n0_3TwOiH5, -605170426, wgYjtk82);
+
 break;
 case 2:
 wnwh = jVt660dY(1288867187, 892432522);
@@ -293,7 +293,7 @@ cout << "Hv4caMGns" << jVt660dY(fQsO_, uO8Ioendl) << e04yl01 << y9tI6(fQsO_, uO8
 int i = 7;
 do
 {
-ZRwDL11b = (unsigned long)(n0_3TwOiH5);
+
 --i;
 }
 while (i >= 0);
@@ -307,7 +307,7 @@ JB_R = (int)abs(QTv5);
 break;
 case 'b':
 case 'B':
-vpuyUfT38 = y9tI6(i11mH9_8, vpuyUfT38, -1906022368, A7H_zWKz7);
+
 break;
 case 'c':
 case 'C':
@@ -319,7 +319,7 @@ TGePfc = hZ8DUK77_(-2022248715, jxc3BB, 1152760296, J6WWsdCGcS, Z3Li_);
 break;
 case 'e':
 case 'E':
-J6WWsdCGcS -= 215473724;
+
 break;
 }
 
@@ -329,7 +329,7 @@ do
 {
 for (int j = 1; j >= 0; j--)
 {
-J6WWsdCGcS = (int)ceil(K3X46);
+
 }
 --i;
 }

@@ -480,7 +480,7 @@ case 3:
 PJsvY_PK = (int)abs(brvAGb9S6y);
 break;
 case 4:
-P_ppp <<= k42FBfF9LB;
+
 break;
 default:
 rfKoDZWRMg = djC_6fOw - tLT4;
@@ -652,7 +652,7 @@ int k = 10;
 while (k >= 0)
 {
 --k;
-k42FBfF9LB = (TpdK0HA & W8a3) ? 1959126436 : vxKGJ5yT3A;
+
 }
 }
 }

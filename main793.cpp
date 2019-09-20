@@ -32,7 +32,7 @@ int main(void)
   long long  nCG51w7l;
   nCG51w7l  =  0;
 	unsigned long long	f2btOb6BX3;
-	f2btOb6BX3	=	1226811475;
+
 	long	YVJ8;
 	YVJ8	=	483337291;
   unsigned long long  iW4OCk7_;
@@ -42,7 +42,7 @@ int main(void)
     unsigned short    wh7p;
     wh7p    =    -139419032;
 	unsigned long	OK6x_QN9pj;
-	OK6x_QN9pj	=	0;
+
   unsigned short  Iw6by2d6;
   Iw6by2d6  =  0;
 	unsigned short int	Q_HN6;
@@ -52,7 +52,7 @@ int main(void)
   long long  yp7lm5;
   yp7lm5  =  -2126295949;
   double  EN0roJqr;
-  EN0roJqr  =  39784892;
+
     long long    iIBBl;
     iIBBl    =    -1415117911;
 	unsigned long long	g097x28;
@@ -62,7 +62,7 @@ int main(void)
  float jiSY37a90;
  jiSY37a90 = -1279504311;
   short int  cTC5;
-  cTC5  =  1196719684;
+
  unsigned short int C0q_9;
  C0q_9 = -2095740066;
   long  BqhTJwml1e;
@@ -74,7 +74,7 @@ int main(void)
   unsigned char  vaYm;
   vaYm  =  1330635367;
 	short int	zwM6f022;
-	zwM6f022	=	0;
+
   short int  BYIma9w58r;
   BYIma9w58r  =  -766229465;
 
@@ -87,7 +87,7 @@ iW4OCk7_ ^= 894565792;
 }
 while (i < 2);
 }
-EN0roJqr = (int)ceil(jiSY37a90);
+
 
 {
 int i = 8;
@@ -152,7 +152,7 @@ int k = 7;
 while (k >= 0)
 {
 k--;
-EN0roJqr = (int)ceil(jiSY37a90);
+
 }
 }
 }

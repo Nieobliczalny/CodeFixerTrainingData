@@ -24,7 +24,7 @@ int main(void)
 	Vvr4u3_Rk5	=	-1325883638;
 	zC79sJtb8	=	-775811007;
 	Xuw1gv	=	-487767949;
-	xvZpy4J1	=	-558603245;
+
 	SB5juw	=	925128535;
 	sCog7n	=	-2073591314;
 	qpe9R6	=	772106581;
@@ -35,7 +35,7 @@ int main(void)
 	fBsQte3BFy	=	1898914413;
 	MkTM8A90SS	=	992391539;
 	pe24_7L	=	-833007728;
-	qPIpu7i	=	-1110345886;
+
 	R8Vpp	=	-1194747627;
 	BYt37	=	-700714643;
 	b0s8	=	1033002037;
@@ -56,7 +56,7 @@ case 0:
 R8Vpp -= 2063758847;
 break;
 case 1:
-qPIpu7i = zC79sJtb8 * zC79sJtb8;
+
 break;
 case 2:
 j9c4 /= 1349553441;
@@ -76,7 +76,7 @@ int j = 9;
 while (j >= 0)
 {
 --j;
-qPIpu7i = (long double)(I_wsRO);
+
 }
 }
 }
@@ -88,7 +88,7 @@ case 0:
 BYt37 = pe24_7L / 1767235679;
 break;
 case 1:
-Hh2gF_YIP -= 604389474;
+
 break;
 case 2:
 pe24_7L = (int)ceil(j9c4);
@@ -152,7 +152,7 @@ try
 {
 if (AkWbo1I5W & 1979942869)
 {
-nK9c6vE *= j9c4;
+
 }
 else
 {
@@ -162,7 +162,7 @@ case 0:
 pe24_7L = (int)ceil(sCog7n);
 break;
 case 1:
-nK9c6vE *= pe24_7L;
+
 break;
 case 2:
 qpe9R6 = (int)abs(j9c4);
@@ -174,7 +174,7 @@ case 4:
 zC79sJtb8 *= nK9c6vE;
 break;
 case 5:
-nK9c6vE /= 1639809125;
+
 break;
 case 6:
 Xuw1gv = (int)floor(nK9c6vE);
@@ -207,7 +207,7 @@ j9c4 *= 1590616905;
 
 cout << "e70If3" << AkWbo1I5W << endl;
 
-I_wsRO *= 278741851;
+
 
 {
 int i = 0;
@@ -238,7 +238,7 @@ int k = 3;
 do
 {
 --k;
-Xuw1gv = (z8gsR7rx3 & 533594073) ? -659326715 : -2129391960;
+
 }
 while (k >= 0);
 }
@@ -250,7 +250,7 @@ i++;
 switch (HR5wx73a1)
 {
 case 0:
-qPIpu7i = Vvr4u3_Rk5 - 1811950714;
+
 break;
 }
 {

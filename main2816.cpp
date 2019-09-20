@@ -204,7 +204,7 @@ OFf7OJ4N |= 4020536;
 }
 }
 
-mkR8W181 = mK7EqT << 933686619;
+
 
 mkR8W181 = K06A6INv_N & mi63;
 
@@ -261,7 +261,7 @@ std::cout << "XNA5iZ_" << "rd1dhP" << y8Q7zhNG << "yqG93h" << ATG791cNfg << std:
 }
 else
 {
-g3vQEj5 /= nH0SLv;
+
 }
 
 if (ry_R7 != 1990971959)
@@ -279,7 +279,7 @@ K1r_Wa &= 1338324823;
 }
 else
 {
-o0HLQ88_ = (long)(DuSH4o + (1256397570));
+
 }
 }
 else
@@ -347,7 +347,7 @@ std::cout << TLEgo << fQQz0PW << "h6e8504ac" << std::endl;
 
 if (DuSH4o == 0)
 {
-	PGB1KQR1K = -861811610 / DuSH4o;
+
 }
 
 {
@@ -407,7 +407,7 @@ Ie5916S_ ^= 190011263;
 }
 else
 {
-j_WQHkeO1 += gBNv4Q;
+
 }
 std::cout << "k__lo" << "e8_Zv6OA" << ATG791cNfg << "QS66_KZXG0" << i86QlScd27 << std::endl;
 
@@ -420,7 +420,7 @@ while (j < 2)
 ++j;
 if (nH0SLv <= 1948848079)
 {
-FEw22 = fT73Sy / ry_R7;
+
 }
 else
 {
@@ -433,7 +433,7 @@ xC7E6_sMJ *= Z2Z1kQ0P;
 switch (mkR8W181)
 {
 case 0:
-QVE3vAJnJS <<= 1221988677;
+
 break;
 case 1:
 Yv36 = R4_FJI64 - 609241543;
@@ -445,7 +445,7 @@ case 3:
 K1r_Wa = Z2Z1kQ0P / xIx2;
 break;
 case 4:
-tOB23_Tu4 = (zS_Pvz != YTa_Z) ? -238896176 : 975507596;
+
 break;
 case 5:
 STsq_F7_ = YLEM7wUw7K & K06A6INv_N;
@@ -459,7 +459,7 @@ break;
 }
 if (IX_5s != TLEgo)
 {
-H97Ot |= 1634130383;
+
 }
 else
 {
@@ -471,7 +471,7 @@ case 'a':
 UDGGzR1va *= R4_FJI64;
 break;
 case 'b':
-x7v9 = mkR8W181 & 1632239855;
+
 break;
 case 'c':
 uSQ3y = UDGGzR1va >> x7v9;
@@ -485,7 +485,7 @@ else
 {
 if ((Z9R155kXag < -2116904802) && ((c2R9qct & 1563638383) || (y0m5_x_zZX)))
 {
-OBz69 = oo950ot >> ZX4N91o9F;
+
 }
 else if (oo950ot != -1578138914)
 {
@@ -501,7 +501,7 @@ xC7E6_sMJ--;
 }
 else
 {
-ZX4N91o9F /= 2084056222;
+
 }
 }
 }
@@ -512,7 +512,7 @@ if (((Nal7971b >= -1175478986) || (dK00vV35 == 935886432)) || ((Ajxf56x & G8wbi0
 {
 if (UDGGzR1va <= 253847301)
 {
-M_1CG = (long)(rA_K3t);
+
 }
 else if (Z2Z1kQ0P <= 2068346405)
 {
@@ -522,7 +522,7 @@ else if (Ie5916S_ <= DuSH4o)
 {
 for (int k = 0; k < 6; k++)
 {
-i86QlScd27 = S9161AQ - n03CkXdlZ3;
+
 }
 }
 else
@@ -532,7 +532,7 @@ h49RtHrnvq = (h49RtHrnvq <= 1337385488) ? 346964984 : -1633915193;
 }
 else
 {
-uUfK_hi8a >>= 2001046780;
+
 }
 
 for (int i = 2; i >= 0; --i)

@@ -19,7 +19,7 @@ unsigned short int    SWvm(long    MJ1oB8E,short int    Vw8Nj,char    l59oT2,lon
 
 int main() {
     unsigned long long    iq_Rt;
-    iq_Rt    =    -530274291;
+
 	float	Z6l3;
 	Z6l3	=	-196424360;
     float    saGuq2;
@@ -31,7 +31,7 @@ int main() {
  short int GjxYJA76P;
  GjxYJA76P = 1934411165;
   long long  XbiWH;
-  XbiWH  =  1551935773;
+
  float lKf3ce2s;
  lKf3ce2s = 1733021429;
  double I0zXE8jJTa;
@@ -41,7 +41,7 @@ int main() {
     long    JtSiI;
     JtSiI    =    399519558;
  long C76UVEL;
- C76UVEL = 1587779963;
+
 	unsigned long	T8ogU1;
 	T8ogU1	=	-1504287406;
     unsigned short int    umxDPV0BC;
@@ -51,7 +51,7 @@ int main() {
   long  g6233v6;
   g6233v6  =  -1239523909;
 	int	bcmzGd25;
-	bcmzGd25	=	500584762;
+
  long double T4U06e0;
  T4U06e0 = -459162946;
     unsigned int    IZC0Fm3H;
@@ -61,7 +61,7 @@ int main() {
  unsigned char ohN0rNS;
  ohN0rNS = -923764280;
     short    BYIi6hpfll;
-    BYIi6hpfll    =    1557109311;
+
   int  hEvhsqC0;
   hEvhsqC0  =  -1957381941;
  unsigned short int e4yuh0;
@@ -73,7 +73,7 @@ int main() {
  unsigned char FK63;
  FK63 = 1917424927;
  char a3Hn6;
- a3Hn6 = -1138951893;
+
 	long	Q2Sr;
 	Q2Sr	=	2036857440;
   short  i529XR8jq;
@@ -87,7 +87,7 @@ int main() {
 	float	nmrd4zF;
 	nmrd4zF	=	-1545832402;
 	long long	OWXO;
-	OWXO	=	2093489337;
+
  float rOBVO7Y88;
  rOBVO7Y88 = -289867003;
     long    PA6e;
@@ -101,7 +101,7 @@ int main() {
     unsigned short int    Lg4nM;
     Lg4nM    =    0;
   int  cJThuff_;
-  cJThuff_  =  -427934328;
+
     int    AgBrr;
     AgBrr    =    -1888723497;
  int t5Xn3_;
@@ -111,7 +111,7 @@ for (int i = 7; i >= 0; i--)
 {
 if (((x7jA_5 & CJ6_J) && (lKf3ce2s > -1389540485)) && ((FK63 >= mFzoFJn) || (i529XR8jq != 2025835847)))
 {
-a4uS = (unsigned short)(g6233v6);
+
 }
 }
 try
@@ -129,7 +129,7 @@ catch (int& errorCode)
 {
 JtSiI = xNn7(988357910, U2HdHo, -1292110924) + umxDPV0BC;
 }
-g6233v6 = ndTp & 596659836;
+
 
 if (s2qE6U_U <= 901625009)
 {
@@ -153,7 +153,7 @@ j++;
 }
 }
 
-a3Hn6 = GjxYJA76P / Lg4nM;
+
 
 rOBVO7Y88 = (int)floor(nmrd4zF);
 

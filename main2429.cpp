@@ -102,7 +102,7 @@ wwCcMe_A = (unsigned short int)(N57I2sFMu0 * (d__C8z));
 }
 
 ve954n = (float)(N57I2sFMu0);
-N57I2sFMu0 = (int)abs(i00h1);
+
 
 N57I2sFMu0 = SMdB9rHU(1528903486, U3F8CDhOS, -381757483);
 
@@ -124,7 +124,7 @@ case 'c':
 ve954n = (int)ceil(i00h1);
 break;
 default:
-i00h1 = (int)abs(PjX4);
+
 break;
 }
 }
@@ -135,7 +135,7 @@ std::cout << "pg8CwH7sr" << PjX4 << ve954n << std::endl;
 ve954n = (float)(PjX4);
 try
 {
-i00h1 = (int)floor(ve954n);
+
 }
 catch (int& errorCode)
 {

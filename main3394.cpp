@@ -185,7 +185,7 @@ case 'a':
 k61_21 = auGo();
 break;
 case 'b':
-Ni2R5w8a6 = UA61hek(-238127941);
+
 break;
 default:
 UTy_ = auGo();
@@ -202,7 +202,7 @@ XPX2nGA0g &= 1392712302;
 }
 else if (y2S5q & fh8y)
 {
-Ni2R5w8a6 = (int)floor(VYiy6H8);
+
 }
 else if (((uhmLx493 != 41865759) || (UTy_ == -204038525)) && (Mf7dX <= 541305620))
 {
@@ -223,7 +223,7 @@ Pf8LiCI = Mf7dX >> 999594597;
 }
 else if ((GcPv >= y2S5q) && (y2S5q & -2014671908))
 {
-VYiy6H8 = (int)floor(Ni2R5w8a6);
+
 }
 else if ((o0NOIY < -291723985) && (Pf8LiCI <= v_R5PYQW_7))
 {
@@ -325,7 +325,7 @@ case 1:
 q8_v803qa |= u7DZDmPmnD;
 break;
 case 2:
-UTy_ = QaRo_afZ20(847055350, a4X615gur) - 189271894;
+
 break;
 case 3:
 Mf7dX = E_ZC607(222516781, Mf7dX, yB2398hRV0, XPX2nGA0g);
@@ -377,7 +377,7 @@ int k = 6;
 do
 {
 k--;
-k61_21 = Pf8LiCI - XPX2nGA0g;
+
 }
 while (k >= 0);
 }
@@ -425,7 +425,7 @@ else if (y2S5q)
 int k = 1;
 do
 {
-XPX2nGA0g = auGo();
+
 --k;
 }
 while (k >= 0);
@@ -452,7 +452,7 @@ case 'C':
 UTy_ /= 316446802;
 break;
 default:
-Ni2R5w8a6 = (int)floor(VYiy6H8);
+
 break;
 }
 }
@@ -463,7 +463,7 @@ switch (QgT_b78b6j)
 {
 case 'a':
 case 'A':
-uhmLx493 = auGo();
+
 break;
 case 'b':
 case 'B':
@@ -494,7 +494,7 @@ else
 {
 Pf8LiCI = (VYiy6H8 <= 260068602) ? auGo() : -299781994;
 }
-Z7pu_ = (unsigned char)(v_R5PYQW_7);
+
 Ni2R5w8a6 = (int)floor(GcPv);
 if (UTy_ != -392448423)
 {
@@ -507,7 +507,7 @@ int j = 5;
 while (j >= 0)
 {
 j--;
-Ni2R5w8a6 = (int)ceil(Pf8LiCI);
+
 }
 }
 }
@@ -528,7 +528,7 @@ y2S5q %= 1614356272;
 }
 else
 {
-t4iE4Sfa = (unsigned long)(a4X615gur + (943541418));
+
 }
 
 try
@@ -538,7 +538,7 @@ for (int j = 0; j < 5; ++j)
 switch (o0NOIY)
 {
 case 0:
-GcPv = (int)ceil(Pf8LiCI);
+
 break;
 case 1:
 y2S5q = auGo();
@@ -550,7 +550,7 @@ case 3:
 a4X615gur = E_ZC607(PsHFh810n, 1794254751, VYiy6H8, q8_v803qa);
 break;
 case 4:
-XPX2nGA0g = d1BB % 1945560592;
+
 break;
 case 5:
 Pf8LiCI = (int)floor(VYiy6H8);
@@ -565,7 +565,7 @@ catch (int& errorCode)
 {
 Vl1_ = PsHFh810n >> 1075670601;
 }
-yB2398hRV0 = o0NOIY * QgT_b78b6j;
+
 q8_v803qa = UA61hek(207943421);
 return 0;
 }

@@ -140,7 +140,7 @@ EeBow = -167640752 / bqUZ4_a_50;
 yJ19e3T24c = P9aa7H5 << 1556683449;
 if (t0ZQ >= LsvF8)
 {
-xpq2Q_jM = (int)floor(HL6D);
+
 }
 {
 int i = 4;
@@ -157,7 +157,7 @@ if (((e2WrX6 != ja5XWI) || (u7o8Iz2T7 == ebCLynM6W)) && ((iYz9G6a != -1338827420
 switch (tu6m58W4)
 {
 case 0:
-h4rymx23 = xr6d(1400524258, J0qx65gRaM, -670062710);
+
 break;
 case 1:
 tu6m58W4 = f0rfjR(tu6m58W4, hF8tLw, 328620381, q5EoW, P9aa7H5);
@@ -169,7 +169,7 @@ case 3:
 EeBow = f0rfjR(124015707, v6wQxK0, iYz9G6a, VRk7, bqUZ4_a_50);
 break;
 case 4:
-nGYaL = (uY4dYG == r6w9r) ? xr6d(-512337374, 62907404, -1228236524) : Wb0rYvBB;
+
 break;
 default:
 i38UG = (int)floor(W3Lyq659);
@@ -184,7 +184,7 @@ cout << kz78Z67lWG << gsJqt33W << f0rfjR(328362349, v6wQxK0, iYz9G6a, 867259487,
 switch (kz78Z67lWG)
 {
 case 0:
-nGYaL = xr6d(2578906, VM83Rc5, -1852296684);
+
 break;
 case 1:
 nhjf = XFJWh98A >> Y23mG;
@@ -196,7 +196,7 @@ case 3:
 o0yVs9M_7W = (int)floor(zh9qRy5W6);
 break;
 case 4:
-u7o8Iz2T7 = xr6d(u7o8Iz2T7, -1857966711, -575772932);
+
 break;
 case 5:
 D37y387b7 = hF8tLw ^ 1835455291;
@@ -208,7 +208,7 @@ case 7:
 hF8tLw /= UqRlVumh0;
 break;
 case 8:
-C368_f = f0rfjR(C368_f, 139133593, jH_4uiK9, qHrPnA7MA, tu6m58W4);
+
 break;
 case 9:
 f4Lb3Fh7c0 ^= 664300236;
@@ -226,7 +226,7 @@ while (j >= 0)
 --j;
 if (K8Q6p_4 > -748194127)
 {
-HL6D = (int)floor(PO2q1066c);
+
 }
 else
 {

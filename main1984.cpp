@@ -31,7 +31,7 @@ int main(int argc, char** argv)
 	unsigned short int	FkI8yTgTu_;
 	FkI8yTgTu_	=	1978597787;
     unsigned int    uH1lAoe_2O;
-    uH1lAoe_2O    =    -81107059;
+
 	unsigned int	x0Wf9;
 	x0Wf9	=	-1894285482;
     long long    JjPcCWa;
@@ -43,7 +43,7 @@ int main(int argc, char** argv)
  int t_27Z;
  t_27Z = 0;
     unsigned short    O_MBxn;
-    O_MBxn    =    1463707201;
+
  unsigned long kbK480rG;
  kbK480rG = 0;
   unsigned int  KEGX_ia5G7;
@@ -61,7 +61,7 @@ int main(int argc, char** argv)
     long long    h7td;
     h7td    =    -605375662;
  unsigned short Zw4FSUpo;
- Zw4FSUpo = -11649429;
+
  unsigned short fX2yNt22Vr;
  fX2yNt22Vr = -2145541654;
     double    BM0N;
@@ -83,7 +83,7 @@ int main(int argc, char** argv)
 	unsigned char	S8CZCcV8;
 	S8CZCcV8	=	300991509;
     int    iGBD;
-    iGBD    =    0;
+
   long long  f3p9K8svk;
   f3p9K8svk  =  -3752712;
  short int r67gHo_j50;
@@ -99,7 +99,7 @@ if (yyGGMfP > 1224751767)
 {
 if (((x4Th26Fi & 172025685) || (f3p9K8svk != 1318646026)) || (I67gQZxv))
 {
-uEUAFz7I = (int)ceil(I67gQZxv);
+
 }
 else if (u19JnZ62)
 {
@@ -111,7 +111,7 @@ P9Qk6gL %= 1583784819;
 }
 else
 {
-uxD4N6 = (int)floor(uEUAFz7I);
+
 }
 }
 else if ((h7td > 1730524164) && (BM0N <= -1380263238))
@@ -129,7 +129,7 @@ cout << fX2yNt22Vr << endl;
 }
 else
 {
-xlx8kjLY %= 75796810;
+
 }
 if (u19JnZ62 == kbK480rG)
 {
@@ -147,7 +147,7 @@ int k = 0;
 do
 {
 ++k;
-f3p9K8svk = (int)abs(vdp3970) + (-119494638);
+
 }
 while (k < 1);
 }
@@ -158,7 +158,7 @@ else
 int k = 6;
 while (k >= 0)
 {
-ysR_GyC3O = (u19JnZ62 <= 938061947) ? vdp3970 : 1416786523;
+
 k--;
 }
 }
@@ -211,7 +211,7 @@ cout << x0Wf9 << "iPo30_ovB" << r67gHo_j50 << "K5v_jwb" << endl;
 switch (fX2yNt22Vr)
 {
 case 'a':
-KEGX_ia5G7 = FkI8yTgTu_ % jnqcSJ6W;
+
 break;
 case 'b':
 xlx8kjLY = fX2yNt22Vr >> 1925871755;
@@ -223,7 +223,7 @@ case 'd':
 W7rCRDBC = (int)floor(I67gQZxv);
 break;
 case 'e':
-I67gQZxv = (int)floor(W7rCRDBC);
+
 break;
 }
 if (FkI8yTgTu_ < yyGGMfP)
@@ -235,7 +235,7 @@ x4Th26Fi /= 696333689;
 }
 else
 {
-t_27Z = (int)(P9Qk6gL * t_27Z);
+
 }
 FkI8yTgTu_ *= 1551379308;
 

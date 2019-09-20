@@ -98,7 +98,7 @@ for (int i = 10; i >= 0; --i)
 {
 for (int j = 5; j >= 0; j--)
 {
-Hz7rTTaw = (unsigned short int)(zvtF5ps4);
+
 }
 }
 
@@ -111,7 +111,7 @@ switch (RiS7l0II)
 {
 case 'a':
 case 'A':
-Hz7rTTaw = pe_Q / cN8Bw2;
+
 break;
 case 'b':
 case 'B':

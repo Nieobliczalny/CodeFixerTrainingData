@@ -41,7 +41,7 @@ int main() {
 	int	YwhXb;
 	YwhXb	=	1214898873;
     unsigned long    t7DN;
-    t7DN    =    -594380225;
+
     unsigned short int    HO64;
     HO64    =    933844842;
 	long long	Uu441_;
@@ -63,7 +63,7 @@ int main() {
     short    MQ3__OPjL9;
     MQ3__OPjL9    =    1142047872;
  float Rl141OgpS_;
- Rl141OgpS_ = 1616101588;
+
     long double    Ud92F;
     Ud92F    =    1857591554;
  unsigned long long cW6q65Z4YA;
@@ -83,7 +83,7 @@ int main() {
 	unsigned long long	rCs9re5W;
 	rCs9re5W	=	2032144151;
 	short int	V83fpmpsjW;
-	V83fpmpsjW	=	117547683;
+
   char  m17yQ65;
   m17yQ65  =  1964090076;
 	double	r1qAR;
@@ -97,7 +97,7 @@ int main() {
  long long H4_8Do;
  H4_8Do = -1664654530;
 	unsigned short	J9gR_l5vO1;
-	J9gR_l5vO1	=	1730012655;
+
 	unsigned char	C3KGt9xF;
 	C3KGt9xF	=	1939336952;
 	char	ps0AkI_;
@@ -127,7 +127,7 @@ int main() {
     char    vKe7ffR1w2;
     vKe7ffR1w2    =    892276269;
  unsigned long long W4Y3;
- W4Y3 = -177950003;
+
  unsigned long long dGJGIWK3R;
  dGJGIWK3R = -454470153;
 	char	hJfO;
@@ -147,7 +147,7 @@ int main() {
 	double	JvySWE9Q;
 	JvySWE9Q	=	-324587946;
   unsigned long  D3_raMR11E;
-  D3_raMR11E  =  1923650596;
+
  long long FS4i5;
  FS4i5 = -1338735467;
   char  EeA_J;
@@ -165,7 +165,7 @@ int main() {
   double  X7pVd8d;
   X7pVd8d  =  -416681486;
  unsigned int yOF_m4wC3U;
- yOF_m4wC3U = -310943255;
+
  short int Kl7CnZZ;
  Kl7CnZZ = 1824144991;
 	unsigned short int	x_Ow;
@@ -248,7 +248,7 @@ case 1:
 rN18PGkfq = YhY0E8032_(B2grh8C9);
 break;
 case 2:
-J9gR_l5vO1 = B3xoR0n4fz(-1371683630, 1008672001, x_Ow) - 832992828;
+
 break;
 case 3:
 rN18PGkfq = YhY0E8032_(M4a3VKr8);
@@ -263,7 +263,7 @@ case 6:
 YwhXb = (int)abs(T06gtSJUF3);
 break;
 case 7:
-m17yQ65 = r60Q * VP2OnfibW;
+
 break;
 case 8:
 r1qAR = (int)abs(HM_ZXE5v30);
@@ -312,7 +312,7 @@ case 'f':
 rOlY3upyP4 = YhY0E8032_(1040021108);
 break;
 case 'g':
-Rl141OgpS_ = (int)ceil(ID5_cG6);
+
 break;
 case 'h':
 tZ9fV = B3xoR0n4fz(tZ9fV, -855997110, GyI6c);
@@ -353,7 +353,7 @@ switch (icMp_)
 {
 case 'a':
 case 'A':
-DCZ19x /= 2000389630;
+
 break;
 case 'b':
 case 'B':
@@ -383,7 +383,7 @@ break;
 }
 else if (r1qAR > -689223424)
 {
-D3_raMR11E = B3xoR0n4fz(1341199475, -349005123, 1944690597);
+
 }
 else if (Z0YpARr < -1544824119)
 {
@@ -432,7 +432,7 @@ else
 {
 if (hJfO)
 {
-x_Ow <<= icMp_;
+
 }
 }
 
@@ -480,7 +480,7 @@ rdqQYR = vKe7ffR1w2 % 2057552858;
 int i = 8;
 do
 {
-pi0z = (int)floor(XBTWt);
+
 --i;
 }
 while (i >= 0);
@@ -492,7 +492,7 @@ switch (T06gtSJUF3)
 {
 case 'a':
 case 'A':
-D3_raMR11E = B3xoR0n4fz(305682126, V83fpmpsjW, wnQ6Zrl);
+
 break;
 case 'b':
 case 'B':
@@ -504,7 +504,7 @@ HY4m = (int)abs(abM528n);
 break;
 case 'd':
 case 'D':
-hJfO = (int)abs(xVdvnD);
+
 break;
 case 'e':
 case 'E':
@@ -529,7 +529,7 @@ break;
 }
 else if ((Qd11Ghl8Oy < HY4m) && ((rlavb5GREe) || (ixNSx != 217985498)))
 {
-tZ9fV = B3xoR0n4fz(tZ9fV, -1192835861, r1qAR);
+
 }
 else if ((B2grh8C9 <= -690487322) || (DjxNE != rdqQYR))
 {
@@ -548,7 +548,7 @@ XBTWt = (int)abs(ID5_cG6);
 }
 else if (uD_16 & -1698250990)
 {
-xVdvnD = B3xoR0n4fz(-1177736847, -2130913915, uU55d);
+
 }
 else
 {
@@ -559,7 +559,7 @@ uU55d ^= 673215982;
 }
 else if ((tZ9fV <= -1801335091) || (yk9q_8 == -189300894))
 {
-W3NW = (unsigned short int)(ixNSx);
+
 }
 else
 {
@@ -631,7 +631,7 @@ dS0BHd9_cj = (int)abs(MQ3__OPjL9);
 switch (T8_ocZ)
 {
 case 0:
-abM528n = (int)ceil(Ud92F);
+
 break;
 case 1:
 b_47w5xoSO = B3xoR0n4fz(b_47w5xoSO, cW6q65Z4YA, -1797365106);
@@ -649,7 +649,7 @@ case 5:
 JvySWE9Q = (int)ceil(ixNSx);
 break;
 case 6:
-t7DN /= cW6q65Z4YA;
+
 break;
 case 7:
 rOlY3upyP4 = YhY0E8032_(206647862);
@@ -666,7 +666,7 @@ if ((T5efA1AI < r60Q) && ((V83fpmpsjW >= -1764730048) && (wU46F == JSDZYFS4_)))
 {
 if (uU55d)
 {
-DCZ19x = HO64 ^ 2118379397;
+
 }
 else if (D2au7sV5s)
 {
@@ -683,7 +683,7 @@ else if ((ixNSx != ZXqS64jL2) || (HM_ZXE5v30))
 {
 try
 {
-dS0BHd9_cj = (int)floor(ixNSx);
+
 }
 catch (int& errorCode)
 {
@@ -704,7 +704,7 @@ rOlY3upyP4 = YhY0E8032_(D2au7sV5s);
 }
 else
 {
-b_47w5xoSO = (short int)(rN18PGkfq + (479444149));
+
 }
 
 for (int i = 8; i >= 0; --i)

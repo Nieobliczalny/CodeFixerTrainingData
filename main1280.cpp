@@ -239,7 +239,7 @@ int k = 3;
 while (k >= 0)
 {
 k--;
-U797E_SH82 = DS4_ ^ 916673692;
+
 }
 }
 }
@@ -262,7 +262,7 @@ DS4_ *= 922808566;
 }
 else
 {
-e1T8v = wNkXx(bW07WsY, 903734657, Wn7e3rCw5, JhDuxUImVw);
+
 }
 }
 else
@@ -328,7 +328,7 @@ catch (int& errorCode)
 {
 S4Wb9 = (int)floor(Tsy_5jrAr);
 }
-JhDuxUImVw = (char)(S4Wb9);
+
 
 X6k80_p8p |= 684477385;
 for (int i = 0; i < 2; ++i)

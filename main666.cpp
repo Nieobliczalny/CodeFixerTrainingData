@@ -24,7 +24,7 @@ int main(int argc, char** argv)
 	float	Bd3Jy;
 	Bd3Jy	=	1748691878;
 	unsigned long	O_AE;
-	O_AE	=	0;
+
  unsigned long CS1q_Aa7;
  CS1q_Aa7 = 83404597;
 	unsigned int	J3JwEz39;
@@ -38,7 +38,7 @@ int main(int argc, char** argv)
 	float	phLbt8_N9;
 	phLbt8_N9	=	-542567761;
  short int kTGul;
- kTGul = 1371447456;
+
     short int    R0S0c8Qj0t;
     R0S0c8Qj0t    =    1765880884;
   short  Lfl28;
@@ -48,7 +48,7 @@ int main(int argc, char** argv)
   unsigned long long  U5bn05H;
   U5bn05H  =  0;
     short    t3riV;
-    t3riV    =    -1758213536;
+
  unsigned long long RX_S798q;
  RX_S798q = -1116423400;
 	unsigned long long	O0RR;
@@ -75,7 +75,7 @@ int main(int argc, char** argv)
 std::cout << d6Ke2iJT(CS1q_Aa7, phLbt8_N9, IpZxNOjo8, Bd3Jy) << OLX8(CS1q_Aa7, phLbt8_N9, IpZxNOjo8, Bd3Jy, s5Flnn) << "c33uw60__9" << R0S0c8Qj0t << "dfnQ6p9S" << std::endl;
 if (R79b1f)
 {
-DwCpk1S = (int)abs(R0S0c8Qj0t);
+
 }
 else if (s5Flnn & R0S0c8Qj0t)
 {
@@ -180,7 +180,7 @@ int k = 10;
 do
 {
 --k;
-Bd3Jy = (int)floor(phLbt8_N9);
+
 }
 while (k >= 0);
 }
@@ -199,7 +199,7 @@ while (k >= 0);
 }
 else if (IpZxNOjo8 < g4QXOw_)
 {
-phLbt8_N9 = M5UPwp1b(-1221450516);
+
 }
 else if (FHEb_ == U5bn05H)
 {
@@ -233,7 +233,7 @@ else if (((s5Flnn < Lfl28) || (J3JwEz39)) || (zTUDkG == g4QXOw_))
 switch (J3JwEz39)
 {
 case 'a':
-DwCpk1S = (int)floor(phLbt8_N9);
+
 break;
 case 'b':
 bu0H31S6 = (int)ceil(Bd3Jy);
@@ -251,7 +251,7 @@ case 'f':
 CS1q_Aa7 = sH2eY0(CS1q_Aa7, -480732710);
 break;
 case 'g':
-A87_ = (A87_ != U5bn05H) ? wBOh0T : g4QXOw_;
+
 break;
 default:
 wBOh0T--;
@@ -266,7 +266,7 @@ kTGul = (int)abs(z1YU7t);
 
 if (((R79b1f) && (zTUDkG & 960332789)) && (CS1q_Aa7 <= kTGul))
 {
-s5Flnn = (int)(g4QXOw_ + (1342813150));
+
 }
 else
 {

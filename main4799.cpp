@@ -26,7 +26,7 @@ int main(void)
     unsigned long    OEJk4ebtRR;
     OEJk4ebtRR    =    -419451176;
     unsigned short    F428oV8;
-    F428oV8    =    1308300875;
+
     double    tI260krO;
     tI260krO    =    793335837;
   unsigned short  y0b0;
@@ -36,7 +36,7 @@ int main(void)
     short    i7aDy0JI1;
     i7aDy0JI1    =    0;
  int CZXg;
- CZXg = -1427843690;
+
 	float	H9x01Bk;
 	H9x01Bk	=	1097147124;
     char    cHpbqc_B31;
@@ -46,7 +46,7 @@ int main(void)
   unsigned char  n6tra4;
   n6tra4  =  -140714133;
   unsigned int  r8mu;
-  r8mu  =  0;
+
   long double  K1MSDHZI;
   K1MSDHZI  =  119787526;
   short  ISOcGsWRtE;
@@ -58,7 +58,7 @@ int main(void)
 	unsigned short int	qH6SBo;
 	qH6SBo	=	281403791;
  unsigned char HksZpu_;
- HksZpu_ = 0;
+
  long long Hxy33_;
  Hxy33_ = 1345263988;
  unsigned long L3lxLa;
@@ -68,7 +68,7 @@ int main(void)
     short    DABNTCp;
     DABNTCp    =    -459165917;
 	unsigned short int	cSGyx;
-	cSGyx	=	-1442998145;
+
     char    K1eqi;
     K1eqi    =    1449824324;
  unsigned long ypykS;
@@ -88,7 +88,7 @@ int main(void)
  long long y_99;
  y_99 = 1709729425;
   unsigned short int  dprjBUez;
-  dprjBUez  =  863019992;
+
  unsigned long F2X1vg5Z;
  F2X1vg5Z = -2024053228;
 
@@ -98,7 +98,7 @@ case 0:
 xmBJfxt = GzQK1(-132509070, H9x01Bk, xmBJfxt, 639798137, -991921956);
 break;
 case 1:
-HksZpu_ = GzQK1(F2X1vg5Z, tI260krO, ACvv8m, y_99, 202547548);
+
 break;
 case 2:
 K1MSDHZI = (int)floor(SHiIepwM);
@@ -120,7 +120,7 @@ if (d_Xpoo == -2127481114)
 {
 if (y_99 != mi9w8)
 {
-H9x01Bk = n6tra4 + 680608737;
+
 }
 }
 }
@@ -143,7 +143,7 @@ int j = 0;
 do
 {
 ++j;
-HksZpu_ = GzQK1(qH6SBo, wKvNOWq, ZI30Y2_75h, 994875098, 265029054);
+
 }
 while (j < 5);
 }
@@ -157,7 +157,7 @@ switch (y_99)
 {
 case 'a':
 case 'A':
-i7aDy0JI1 = GzQK1(407028126, i7aDy0JI1, 1755910996, -966136654, SHiIepwM);
+
 break;
 case 'b':
 case 'B':
@@ -169,7 +169,7 @@ r6st0pO6c <<= 1926503138;
 break;
 case 'd':
 case 'D':
-AyP0856 = q4lqB45Pn - 2089773734;
+
 break;
 case 'e':
 case 'E':
@@ -183,7 +183,7 @@ break;
 
 try
 {
-tI260krO = (double)(d_Xpoo);
+
 }
 catch (int& errorCode)
 {

@@ -82,7 +82,7 @@ int main() {
 	char	EorjfHh;
 	EorjfHh	=	-1291276327;
     long    LJsPx58zA;
-    LJsPx58zA    =    -538038074;
+
   unsigned long  Tf9e77as;
   Tf9e77as  =  820977225;
     short int    oISN70;
@@ -185,7 +185,7 @@ T4QOb2B = (int)ceil(R88D4h8QT);
 }
 
 std::cout << x2fq3o << std::endl;
-LJsPx58zA = (long)(xfDZv1l);
+
 for (int i = 0; i < 1; ++i)
 {
 for (int j = 3; j >= 0; j--)
@@ -409,7 +409,7 @@ if (FwN3oKY & 1285887825)
 {
 try
 {
-K87OCu9 = (int)ceil(md_2);
+
 }
 catch (int& errorCode)
 {
@@ -472,7 +472,7 @@ case 'C':
 oISN70 = m65eZcvD0(z_w_, KYYg1, oISN70);
 break;
 default:
-TwWY *= 1299175812;
+
 break;
 }
 
@@ -486,7 +486,7 @@ try
 {
 if (l_15VE4nm != sweMKlg)
 {
-J9Cq5i744d = m65eZcvD0(-1531740294, xfDZv1l, -1790403165);
+
 }
 else if (((Gp7i) && (R88D4h8QT == -1491878431)) || ((uY0_oe & -65550740) || (xV4NyA2 >= 1154881762)))
 {
@@ -511,7 +511,7 @@ if ((b51CmFx7TW >= VT_Uhv95) || ((KYYg1 & -898464367) || (d898v8Na == 1015836347
 {
 if (((md_2 < l_15VE4nm) && (d898v8Na <= 1608821737)) && ((LJsPx58zA) || (oISN70 & -1916538121)))
 {
-z_w_ = (float)(B0_Rb + (1021012066));
+
 }
 }
 return 0;

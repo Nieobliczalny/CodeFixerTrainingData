@@ -22,7 +22,7 @@ int main() {
 
 if (i40w6FZ1yC != B8AAbsJgn)
 {
-F9NhJg = VVSKoM();
+
 }
 i40w6FZ1yC = k6YMB + C3_i2H;
 
@@ -159,7 +159,7 @@ while (j < 2)
 j++;
 if (qPOT_4E >= I4cNk)
 {
-F9NhJg = VVSKoM();
+
 }
 }
 }
@@ -278,7 +278,7 @@ case 2:
 bJl4E4S = (int)ceil(B8AAbsJgn);
 break;
 case 3:
-k6YMB = (int)floor(bJl4E4S);
+
 break;
 case 4:
 z_a6 = qPOT_4E * 929627630;

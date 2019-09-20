@@ -376,7 +376,7 @@ case 6:
 S6vf_k = pQhp8pTXu(1151613257, UQJ85ueZ2S, 1151745534, 741137681, o5_pUK);
 break;
 case 7:
-UQJ85ueZ2S = pQhp8pTXu(UQJ85ueZ2S, oYWiu, COUf, -845369932, shPz);
+
 break;
 case 8:
 jG9H = wwv5(-293293345);
@@ -396,7 +396,7 @@ do
 switch (ITqU2tg84)
 {
 case 0:
-Au6apCbrh = oYWiu + 87190577;
+
 break;
 case 1:
 shPz = o5_pUK | T2o8dKsL;

@@ -41,7 +41,7 @@ int main() {
  long double VgfI657cv = 1450965132, H1JT63N7 = -724971521, W7h4gLI57 = -875061590, b1V9N_36 = 1842405216, P0V7 = 544837393, DR736KU = -1731218689, JEN2u85g = -72140256;
 
 H1JT63N7 = (int)abs(VgfI657cv);
-JEN2u85g = (long double)(W7h4gLI57);
+
 P0V7 = jtnihKIStG(-1125944804, 570120401, W7h4gLI57, b1V9N_36) / NHWxncC(VgfI657cv, -1714047288, W7h4gLI57);
 
 for (int i = 0; i < 3; ++i)
@@ -63,7 +63,7 @@ else
 int k = 0;
 do
 {
-DR736KU = IaZ3NA2(-1891668871, H1JT63N7, P0V7, -1383319403, -1990097489);
+
 k++;
 }
 while (k < 5);

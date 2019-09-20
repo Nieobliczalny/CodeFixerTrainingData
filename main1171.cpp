@@ -515,7 +515,7 @@ case 'I':
 UHZ9_412 = (int)ceil(LxQ0D);
 break;
 default:
-L3h_f88Tc = L3h_f88Tc & 1707226360;
+
 break;
 }
 

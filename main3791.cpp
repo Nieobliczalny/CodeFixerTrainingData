@@ -64,7 +64,7 @@ case 0:
 B3453c = AOQLGl7tg | TydRK;
 break;
 case 1:
-zwLZ = EZ_w >> wpSJD__4I_;
+
 break;
 case 2:
 EZ_w = (int)abs(RF5BCTft);
@@ -105,7 +105,7 @@ HMv3Z_ = HMv3Z_ | GEDSl;
 int i = 1;
 while (i >= 0)
 {
-ps0OPM3kGA = (unsigned char)(ElQ5Z);
+
 --i;
 }
 }
@@ -141,7 +141,7 @@ else
 switch (vv2NH)
 {
 case 0:
-vlO165h8 = (int)abs(U1hF);
+
 break;
 default:
 RF5BCTft = qUN5 - 1138114704;
@@ -162,7 +162,7 @@ case 1:
 GEDSl--;
 break;
 case 2:
-yu57_ = uLrob | dIC4N;
+
 break;
 case 3:
 Cq7BQBkBQv %= uLrob;
@@ -335,7 +335,7 @@ if (((GEDSl != 245504016) && (x7_1 >= -741329803)) || ((AOQLGl7tg == wpSJD__4I_)
 switch (U1hF)
 {
 case 'a':
-B3453c = RF5BCTft / 1214587223;
+
 break;
 case 'b':
 b928sZ6 = (int)abs(uth4Oi);

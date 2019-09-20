@@ -22,7 +22,7 @@ int main()
 {
 	unsigned short	D4uo,	qKbUP2od;
 	D4uo	=	0;
-	qKbUP2od	=	0;
+
 	long long	od5rp,	LlthUqjsoW,	oBl30ElJ,	chcSaFe6v,	VA_StX,	gUS0m__i0_,	Vd1u24z,	o909_,	mdLC_f,	MPm0,	FFEFZ_P640,	Kee_Fb88_v,	ODiTw_18,	G1449Iaue,	V3XJWA,	Y9_bz_M3Hj,	S6Gq,	qSX0,	qVio;
 	od5rp	=	-1644323617;
 	LlthUqjsoW	=	-471256457;
@@ -44,7 +44,7 @@ int main()
 	qSX0	=	701914284;
 	qVio	=	328948360;
 
-qKbUP2od = PORd();
+
 std::cout << od5rp << "V12Mb" << qVio << PORd() << std::endl;
 try
 {
@@ -87,7 +87,7 @@ case 2:
 D4uo = PORd();
 break;
 case 3:
-qKbUP2od = PORd();
+
 break;
 case 4:
 LlthUqjsoW |= 2135122797;
@@ -109,7 +109,7 @@ switch (FFEFZ_P640)
 {
 case 'a':
 case 'A':
-qKbUP2od = PORd();
+
 break;
 case 'b':
 case 'B':
@@ -144,7 +144,7 @@ case 'I':
 qSX0++;
 break;
 default:
-qKbUP2od = PORd();
+
 break;
 }
 
@@ -154,7 +154,7 @@ case 0:
 mdLC_f %= S6Gq;
 break;
 case 1:
-gUS0m__i0_ = (int)abs(LlthUqjsoW);
+
 break;
 case 2:
 qKbUP2od = PORd();
@@ -182,7 +182,7 @@ int j = 0;
 while (j < 4)
 {
 ++j;
-qKbUP2od = PORd();
+
 }
 }
 }
@@ -215,7 +215,7 @@ try
 int k = 0;
 while (k < 2)
 {
-qKbUP2od = PORd();
+
 k++;
 }
 }
@@ -258,7 +258,7 @@ ODiTw_18 = (int)abs(VA_StX);
 }
 else
 {
-qKbUP2od = PORd();
+
 }
 }
 }
@@ -303,7 +303,7 @@ else if (((G1449Iaue >= -1762512808) && (VA_StX <= Mzb21CGg5)) || (VA_StX & od5r
 switch (Y9_bz_M3Hj)
 {
 case 0:
-gUS0m__i0_ = LlthUqjsoW + 639850528;
+
 break;
 case 1:
 D4uo = PORd();
@@ -315,7 +315,7 @@ case 3:
 qKbUP2od = PORd();
 break;
 case 4:
-Vd1u24z = (int)abs(FFEFZ_P640);
+
 break;
 case 5:
 chcSaFe6v = mdLC_f | 1440559226;
@@ -362,7 +362,7 @@ while (j < 5)
 int k = 0;
 while (k < 8)
 {
-qKbUP2od = PORd();
+
 k++;
 }
 }

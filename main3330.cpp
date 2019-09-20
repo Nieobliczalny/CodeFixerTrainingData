@@ -38,7 +38,7 @@ int main() {
  unsigned short Sb17pPwE8;
  Sb17pPwE8 = -594440030;
 	char	j91BnRj;
-	j91BnRj	=	751592921;
+
  short kYxZR5L;
  kYxZR5L = 0;
     char    gT990r;
@@ -54,7 +54,7 @@ int main() {
 	short int	jfA8U;
 	jfA8U	=	-1005924609;
     long long    HQ34;
-    HQ34    =    0;
+
   unsigned int  DWUc7zt5;
   DWUc7zt5  =  -1957240198;
  unsigned long WJX7;
@@ -115,7 +115,7 @@ j++;
 switch (w_u8p0Ht7x)
 {
 case 0:
-j91BnRj = (gT990r <= 1382712776) ? s77Gfgi(-1590781042, -34090165, 616943829, 1388912866) : mM1_;
+
 break;
 case 1:
 gT990r = (int)abs(M5UJ_zSv) * 0;
@@ -138,7 +138,7 @@ break;
 }
 try
 {
-q58X5pZz5 ^= Sb17pPwE8;
+
 }
 catch (int& errorCode)
 {
@@ -157,7 +157,7 @@ while (j < 1)
 int k = 8;
 do
 {
-w_u8p0Ht7x = ENpEs7v5();
+
 --k;
 }
 while (k >= 0);
@@ -188,7 +188,7 @@ switch (Sb17pPwE8)
 {
 case 'a':
 case 'A':
-gT990r = s77Gfgi(-285535608, EcxSOB, -550629927, R73n4);
+
 break;
 case 'b':
 case 'B':

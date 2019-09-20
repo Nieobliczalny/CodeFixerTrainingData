@@ -28,7 +28,7 @@ int main(void) {
     unsigned short int    SY5L;
     SY5L    =    -1486424536;
     unsigned char    u58g;
-    u58g    =    -308886141;
+
 	short int	rtop2A87V;
 	rtop2A87V	=	-1597445784;
 	int	PYH6;
@@ -217,7 +217,7 @@ do
 switch (lLon3)
 {
 case 0:
-n81n11 = (k3BaJp7k9 >= -186073773) ? mxJgZ9 : 1612503083;
+
 break;
 case 1:
 k3BaJp7k9 = m3W72j3(-835079972, 444104105);
@@ -258,7 +258,7 @@ l8I4ijTW = rZzXWx_4cz(-2018739854);
 SY5L = (unsigned short int)(u58g);
 
 h08Gcu_ = l8I4ijTW >> mxJgZ9;
-vYvZ_9 = (int)ceil(X_9LfVK4);
+
 {
 int i = 10;
 while (i >= 0)
@@ -276,7 +276,7 @@ I24HP5l = Hxl5(I24HP5l, rtop2A87V, k3BaJp7k9, 921406815, SY5L);
 }
 else if ((xKiNatS0Y > 1700265103) || (xKiNatS0Y != SY5L))
 {
-vYvZ_9 = (int)floor(Na0_g0iS);
+
 }
 else if (fncw7b > 244233346)
 {
@@ -316,7 +316,7 @@ while (i >= 0);
 
 if (hInpX(lLon3, 1602423854) == 0)
 {
-	u58g = -619434039 / hInpX(lLon3, 1602423854);
+
 }
 
 {
@@ -330,7 +330,7 @@ while (i >= 0);
 }
 if (n81n11 == Na0_g0iS)
 {
-n81n11 = rZzXWx_4cz(n81n11);
+
 }
 {
 int i = 8;
@@ -342,7 +342,7 @@ int j = 8;
 while (j >= 0)
 {
 j--;
-n81n11 = (int)ceil(RLfR7GS);
+
 }
 }
 }

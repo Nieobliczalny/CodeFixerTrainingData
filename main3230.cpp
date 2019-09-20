@@ -222,7 +222,7 @@ case 3:
 NTc6s ^= dgQhE;
 break;
 default:
-hGP0 = nQ13Bx5 + Keaz5_R;
+
 break;
 }
 switch (gsDuY54)
@@ -329,7 +329,7 @@ int j = 4;
 do
 {
 j--;
-g12W = (unsigned short int)(rwqSJiBGB);
+
 }
 while (j >= 0);
 }
@@ -344,7 +344,7 @@ else
 {
 if (QZK4Bt2_ != gsDuY54)
 {
-QZK4Bt2_ = (yCz6 > NTc6s) ? -259036663 : H_885d;
+
 }
 else
 {
@@ -358,7 +358,7 @@ switch (POS6)
 {
 case 'a':
 case 'A':
-BWj3te = UN9l0as() >> 840663340;
+
 break;
 case 'b':
 case 'B':
@@ -370,7 +370,7 @@ mpcmDJY33 = BWj3te | 1115966157;
 break;
 case 'd':
 case 'D':
-BWj3te = Du4w << 888144412;
+
 break;
 case 'e':
 case 'E':
@@ -382,7 +382,7 @@ W76_gH5 = u5c58eoD(W76_gH5);
 break;
 case 'g':
 case 'G':
-nQ13Bx5 = UN9l0as();
+
 break;
 default:
 dgQhE = UN9l0as();

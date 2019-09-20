@@ -15,7 +15,7 @@ using namespace std;
 int main(void) {
 	unsigned char	M2Bd5XRE,	MIMp7oN_,	k6OUHS98K,	F8DbGc7Pli,	k7TH9lQz_y;
 	M2Bd5XRE	=	0;
-	MIMp7oN_	=	0;
+
 	k6OUHS98K	=	0;
 	F8DbGc7Pli	=	0;
 	k7TH9lQz_y	=	0;
@@ -28,7 +28,7 @@ int main(void) {
 	L7aWA8	=	-1888213790;
 	qStmA	=	735075792;
 	ZPEO	=	-1658835120;
-	FB2_o7	=	-1884084628;
+
 	KD6iL_	=	1002921061;
 	m2_k	=	-194875223;
 	k4dTS1	=	-1816488278;
@@ -42,7 +42,7 @@ int main(void) {
 	Ma9OwT0e3	=	-865181289;
 	Qe1XB03W	=	-1953104064;
 	Vu48	=	2143757586;
-	t3x_CDxx1	=	5980412;
+
 	W5_Jedl4T6	=	-2026264415;
 	PjFg8	=	559885451;
 	gKoakM2zA	=	-1122982357;
@@ -53,7 +53,7 @@ int main(void) {
 	iq9vJM	=	2033484899;
 	Bf_u	=	1719434236;
 	H2Z2GvSFoQ	=	-546092638;
-	K2aiG24W22	=	-1306587572;
+
 	uUL_2O4XG	=	1424584217;
 	Msu7gUQ	=	1681021633;
 	cRoRoj	=	-980354665;
@@ -63,7 +63,7 @@ int main(void) {
 	Y3fv	=	-660182542;
 	LYftF6TX	=	-2072914166;
 	LpdT0W1	=	1249497353;
-	Vt9LKbnq8	=	1718618321;
+
 	t2ELNr0r9u	=	1936572237;
 	lB4_wN	=	-532275148;
 	inz9dgb215	=	-274998673;
@@ -101,7 +101,7 @@ S3K2 = (char)(H1HW1V9);
 switch (behK18JM84)
 {
 case 0:
-Msu7gUQ = (int)abs(Vu48);
+
 break;
 case 1:
 gKoakM2zA >>= 1903250205;
@@ -129,7 +129,7 @@ behK18JM84 = (int)abs(ZPEO);
 break;
 }
 
-Knm_ = iq9vJM / M2Bd5XRE;
+
 
 {
 int i = 4;
@@ -159,7 +159,7 @@ case 2:
 LYftF6TX = (int)abs(M_o2);
 break;
 case 3:
-cRoRoj = L7aWA8 >> t2ELNr0r9u;
+
 break;
 case 4:
 K2aiG24W22 = ZPEO * 1116760082;
@@ -171,7 +171,7 @@ lB4_wN <<= 2013417253;
 }
 if (z_MVN9 >= 1986633988)
 {
-S3K2 = (char)(oUB0owg);
+
 }
 else if ((u_1Vh9M > 1672139202) || (TVK4yYcy == ynOPC9wu))
 {
@@ -186,7 +186,7 @@ std::cout << Vu48 << z_MVN9 << std::endl;
 }
 else if (((LpdT0W1 > oUB0owg) && (gKoakM2zA)) && (k4dTS1 <= 833920726))
 {
-Msu7gUQ = (char)(k4dTS1);
+
 }
 else if (LYftF6TX >= behK18JM84)
 {
@@ -198,7 +198,7 @@ S3K2 = H2Z2GvSFoQ >> 1990354219;
 }
 else
 {
-inz9dgb215 /= 473902495;
+
 }
 }
 else
@@ -237,7 +237,7 @@ IkE59tx4o0 <<= H2Z2GvSFoQ;
 int i = 5;
 do
 {
-ZPEO = (char)(Ma9OwT0e3);
+
 i--;
 }
 while (i >= 0);
@@ -248,7 +248,7 @@ if (M2Bd5XRE >= -883659489)
 int j = 0;
 while (j < 6)
 {
-hj9LaX1 = j69Q8905L9 << Ma9OwT0e3;
+
 ++j;
 }
 }
@@ -259,7 +259,7 @@ for (int j = 0; j < 2; j++)
 {
 for (int k = 9; k >= 0; --k)
 {
-Qe1XB03W = k6OUHS98K * u_1Vh9M;
+
 }
 }
 }
@@ -278,7 +278,7 @@ if (L7aWA8)
 {
 for (int k = 0; k < 7; k++)
 {
-N5ll = KD6iL_ / 1036523084;
+
 }
 }
 }

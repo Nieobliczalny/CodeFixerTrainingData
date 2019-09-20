@@ -109,7 +109,7 @@ if (X1LRvufJ == -1952159899)
 int k = 10;
 while (k >= 0)
 {
-asxCo_ = f5E8g90q(-1788502122, 340334616);
+
 --k;
 }
 }
@@ -130,7 +130,7 @@ if ((mR63kSVE(zyv9JTl, -1708452055, Pw8blCl0, -1456514003, 396007264) / X1LRvufJ
 {
 if (mvioXcA == 0)
 {
-	asxCo_ = 132026272 / mvioXcA;
+
 }
 }
 return 0;

@@ -80,7 +80,7 @@ rvs1C0a = AS4Maj();
 while (i >= 0);
 }
 BUa1l5ZSc <<= 1362038231;
-p_w8DQ &= 15899337;
+
 
 {
 int i = 9;
@@ -248,7 +248,7 @@ IEW1 = avrl66(IEW1);
 break;
 case 'd':
 case 'D':
-K80vNh = avrl66(1132482347);
+
 break;
 case 'e':
 case 'E':
@@ -274,7 +274,7 @@ lEwH07ax2T = AS4Maj();
 }
 else
 {
-Q_Ys7pg1 = Q_Ys7pg1 + 1130100784;
+
 }
 switch (Y6MpEVM)
 {
@@ -288,7 +288,7 @@ case 2:
 lEwH07ax2T = AS4Maj();
 break;
 case 3:
-IFCbl8uwDe >>= Y6MpEVM;
+
 break;
 case 4:
 BUa1l5ZSc <<= 1161695317;

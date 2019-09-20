@@ -36,7 +36,7 @@ int main(int argc, char** argv) {
  wTDgQ = -536430210;
  W3B6cZPb5s = 592248911;
  sb3xg = 1233634552;
- tfKVVf = 589311264;
+
  m08nrDLStR = -1319472351;
  KJaP62uE6 = 1090341860;
  YBUcJKYEmJ = -270429908;
@@ -80,7 +80,7 @@ i--;
 switch (DM2EI41221)
 {
 case 0:
-tfKVVf = l738 / W3B6cZPb5s;
+
 break;
 }
 }
@@ -180,7 +180,7 @@ case 5:
 vBCb2j7f ^= Oh947;
 break;
 case 6:
-yS9V532L <<= 2005353973;
+
 break;
 case 7:
 aR_l_ = aR_l_ >> 731303432;
@@ -201,7 +201,7 @@ for (int j = 10; j >= 0; j--)
 {
 for (int k = 3; k >= 0; --k)
 {
-yS9V532L = JCkD4H50ah % 1307925413;
+
 }
 }
 }
@@ -228,7 +228,7 @@ W3B6cZPb5s &= xt6ir23Z;
 i--;
 }
 }
-DFGyF6If = QYaZci % 1160457918;
+
 
 v299Nn_7 |= 1943448162;
 
@@ -251,7 +251,7 @@ case 0:
 PEXU_7W6 -= 1186998288;
 break;
 case 1:
-yS9V532L = BY4T0u74rv - 389397694;
+
 break;
 case 2:
 y4_C3 = PEXU_7W6 ^ R6R02;
@@ -263,7 +263,7 @@ case 4:
 xt6ir23Z ^= I7VW;
 break;
 case 5:
-wTDgQ |= 1190201403;
+
 break;
 case 6:
 Oh947 = Z6ihJ - 1137047412;
@@ -307,7 +307,7 @@ k++;
 }
 else if (E7A5uTNrY & 201190469)
 {
-TiD8tOL8 = (int)abs(zZR4) * 0;
+
 }
 else if ((m08nrDLStR == -1189671203) || (r__HNuPpKK))
 {
@@ -458,7 +458,7 @@ while (j < 6);
 }
 tfKVVf = (int)abs(uWiG) + (1124658148);
 
-Y70Bkc >>= W3B6cZPb5s;
+
 
 qmC97Lo = (short)(QYaZci);
 Y70Bkc = YBUcJKYEmJ + nF4nv_3e_1;
@@ -476,7 +476,7 @@ case 1:
 QYaZci = (int)abs(puHoT_u_);
 break;
 case 2:
-vBCb2j7f = wiN0l5hg & 1544945829;
+
 break;
 case 3:
 puHoT_u_ %= qfP1;
@@ -510,7 +510,7 @@ JCkD4H50ah = (int)abs(E7A5uTNrY);
 
 if (aR_l_ & 496186046)
 {
-tfKVVf = DFGyF6If % 1117100784;
+
 }
 else
 {
@@ -529,7 +529,7 @@ qfP1--;
 }
 else if (tfBBQtq > -166384988)
 {
-g8aErU_ = (int)abs(l0gY);
+
 }
 else if ((BY4T0u74rv < z_c8NJf) && (tfKVVf == e7nFE7))
 {
@@ -561,7 +561,7 @@ case 'A':
 puHoT_u_ &= 993496621;
 break;
 default:
-g8aErU_ <<= H9au;
+
 break;
 }
 }
@@ -573,7 +573,7 @@ case 0:
 sb3xg--;
 break;
 case 1:
-sb3xg /= 1797092082;
+
 break;
 case 2:
 sb3xg = KJaP62uE6 & 859618910;
@@ -585,7 +585,7 @@ case 4:
 mlrN0 = PEXU_7W6 / 349757033;
 break;
 case 5:
-mlrN0 -= sb3xg;
+
 break;
 default:
 H9au = I7VW + YBUcJKYEmJ;

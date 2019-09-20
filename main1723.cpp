@@ -119,7 +119,7 @@ if (NVUBW == 1649575972)
 {
 for (int k = 0; k < 9; ++k)
 {
-xN8u = S8708fld * 1569195484;
+
 }
 }
 i--;
@@ -129,7 +129,7 @@ while (i >= 0);
 
 H63a796fb = D80mS / GL8W7CrTe;
 cout << "ZLR73hCc" << "T1X7" << endl;
-iV_qM = (unsigned long long)(Sj166j);
+
 NVUBW = (unsigned long)(GL8W7CrTe + (-671539184));
 D4kb7jXDxG = (int)floor(RW74rwV);
 C_j08p92 = (int)abs(OIjA3_Bsr);

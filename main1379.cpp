@@ -23,7 +23,7 @@ int main()
 	short	B0vj9J2z9;
 	B0vj9J2z9	=	-182997126;
  unsigned short int YEbo7lszW;
- YEbo7lszW = -814029332;
+
   short  ElG5a;
   ElG5a  =  -906644343;
 	unsigned short int	otZ85U;
@@ -41,7 +41,7 @@ int main()
   float  Ou2_;
   Ou2_  =  1803609699;
     int    PtMNHL6;
-    PtMNHL6    =    74093451;
+
 	int	E92x7gw;
 	E92x7gw	=	-485470920;
   float  KqR9c6_;
@@ -51,7 +51,7 @@ int main()
  short SfZA__j;
  SfZA__j = 1156839293;
 	unsigned int	eaxQvL8;
-	eaxQvL8	=	-321250673;
+
   long long  I4gv2WXOzZ;
   I4gv2WXOzZ  =  541480948;
     unsigned short int    a53PJU;
@@ -61,7 +61,7 @@ int main()
     short    A5cf8_h8_;
     A5cf8_h8_    =    1865079390;
   short int  JSe_a;
-  JSe_a  =  -1574194893;
+
  short eee3V;
  eee3V = 33058970;
  int t3k6i;
@@ -73,7 +73,7 @@ int main()
  double SD7Sh;
  SD7Sh = -1020947928;
  unsigned long long Y5iNy0i043;
- Y5iNy0i043 = -1099013599;
+
   float  YO74;
   YO74  =  -1964754174;
 	long long	lTWw;
@@ -110,7 +110,7 @@ case 4:
 lTWw = dl7Ah(kF5wLY, -1609274902, -139880060);
 break;
 case 5:
-NX7p %= 623046510;
+
 break;
 }
 if ((iS82_7QVc4 <= 1320513195) || (cmV10DOP8 > 1003201809))
@@ -125,7 +125,7 @@ I4gv2WXOzZ = (long long)(zMEZPo68N3);
 switch (k4GiY)
 {
 case 'a':
-NX7p = PjPF();
+
 break;
 case 'b':
 Ou2_ = (int)ceil(SD7Sh);
@@ -158,7 +158,7 @@ case 1:
 c7l23Nrnm &= 1358970619;
 break;
 case 2:
-a53PJU = dl7Ah(-1884638972, Ou2_, eee3V);
+
 break;
 case 3:
 a53PJU = dl7Ah(-134303112, 622138378, eI_3s4vB2);
@@ -202,7 +202,7 @@ if (SD7Sh < eee3V)
 {
 for (int j = 0; j < 2; j++)
 {
-lTWw = dl7Ah(1165383464, k4GiY, K05U);
+
 }
 }
 else if ((ElG5a <= SD7Sh) && (Ou2_ < 106042667))
@@ -214,7 +214,7 @@ do
 --j;
 try
 {
-a53PJU = dl7Ah(2043597624, -1303795546, kF5wLY);
+
 }
 catch (int& errorCode)
 {
@@ -241,7 +241,7 @@ switch (p_D3)
 {
 case 'a':
 case 'A':
-eee3V += B0vj9J2z9;
+
 break;
 case 'b':
 case 'B':
@@ -253,7 +253,7 @@ XX7EQ1 = PjPF() * 394700315;
 break;
 case 'd':
 case 'D':
-NoP_wa *= 1673472720;
+
 break;
 case 'e':
 case 'E':
@@ -265,7 +265,7 @@ break;
 }
 }
 
-SfZA__j = 112596259 / dl7Ah(2107834725, -1795221626, E92x7gw);
+
 JSe_a = (int)abs(XX7EQ1);
 return 0;
 }

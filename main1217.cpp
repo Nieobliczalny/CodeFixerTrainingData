@@ -512,7 +512,7 @@ pGj6D_l = BLMFD_QC(1764890505, L20816QBe, yzTB2s8_EA, g6cdECn, 1950226041);
 switch (z3qy9Tnrp0)
 {
 case 0:
-LU9pvB_3Pc = (int)ceil(yzTB2s8_EA);
+
 break;
 case 1:
 L20816QBe += 426544291;

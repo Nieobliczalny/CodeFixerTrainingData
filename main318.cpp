@@ -50,7 +50,7 @@ int main(void)
 	char	raFk0i_h9Q;
 	raFk0i_h9Q	=	-487824310;
     unsigned short    YNeP0S;
-    YNeP0S    =    -879278391;
+
 	long long	HPZ87XSE;
 	HPZ87XSE	=	-766064529;
  unsigned short U3v_J9_L0;
@@ -136,7 +136,7 @@ HPZ87XSE = (int)abs(fUk0asG);
 }
 else if ((gy_9M2eXw > 1909679466) && (gy_9M2eXw & U_xGu1S))
 {
-U3v_J9_L0 = dS56U34is3();
+
 }
 else if (Rw46oOdpP <= 1607798896)
 {
@@ -157,7 +157,7 @@ if (vxc76dS54_ >= -550564897)
 switch (Kf8tx)
 {
 case 'a':
-U3v_J9_L0 = dS56U34is3();
+
 break;
 case 'b':
 wtNQBuOx = (int)abs(gENo2);
@@ -180,7 +180,7 @@ switch (dK07d_HE)
 {
 case 'a':
 case 'A':
-gy_9M2eXw = AW9UJvKQJt(1728088104, -1028644823, YNeP0S, Kf8tx);
+
 break;
 case 'b':
 case 'B':
@@ -200,7 +200,7 @@ gENo2 /= 1989420102;
 break;
 case 'f':
 case 'F':
-YNeP0S += a3cG1O;
+
 break;
 case 'g':
 case 'G':
@@ -227,7 +227,7 @@ do
 ++j;
 try
 {
-fUk0asG = Y7C_Q64b();
+
 }
 catch (int& errorCode)
 {
@@ -241,7 +241,7 @@ while (j < 3);
 while (i < 4);
 }
 
-dK07d_HE = HPZ87XSE * HPZ87XSE;
+
 if (((gENo2 < 1695304716) && (G1rlOfhEhe > 1167812431)) && (HPZ87XSE == IpWo_))
 {
 Kf8tx = vcK_C();
@@ -258,7 +258,7 @@ cout << vcK_C() << "a3kHlTKB5" << endl;
 }
 else if (XZCWPj8j & -1873905711)
 {
-YNeP0S = (unsigned short)(HPZ87XSE);
+
 }
 else if (a3cG1O < vxc76dS54_)
 {
@@ -283,7 +283,7 @@ int k = 0;
 do
 {
 k++;
-XZCWPj8j = Y7C_Q64b();
+
 }
 while (k < 6);
 }
@@ -295,7 +295,7 @@ int k = 0;
 do
 {
 k++;
-LopX = (int)abs(HPZ87XSE);
+
 }
 while (k < 5);
 }

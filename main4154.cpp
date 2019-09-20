@@ -37,7 +37,7 @@ int main(int argc, char** argv) {
 	ccLp1b5	=	-471826144;
 	Qb2mp	=	1115745622;
 	EdO9	=	1082356565;
-	mnxS4F8_W	=	-966194158;
+
 	exABkr	=	-1858660737;
 	p29Eu_	=	-305178497;
 	F9TC8ZA2xB	=	-736279600;
@@ -227,7 +227,7 @@ if (exABkr <= -1872085699)
 switch (SHs9q)
 {
 case 'a':
-y9Nrg5_W = (exABkr <= de46) ? -57820411 : SHEaR;
+
 break;
 case 'b':
 Qtp5se = (int)ceil(vek6_7b94);
@@ -239,7 +239,7 @@ case 'd':
 wbPd8PN = rxm2n3Q5v8(-2108469145, k2oZ8KLl22);
 break;
 case 'e':
-p29Eu_ /= de46;
+
 break;
 case 'f':
 Qb2mp = f9Pqw26w4(Qb2mp, exABkr);
@@ -252,7 +252,7 @@ break;
 }
 else if (p29Eu_ >= -2058596441)
 {
-SHs9q = (unsigned short int)(k2oZ8KLl22 * SHs9q);
+
 }
 else if (((Mn1K7 <= -883925575) && (y9Nrg5_W > -502564186)) && (de46 >= -1464292246))
 {

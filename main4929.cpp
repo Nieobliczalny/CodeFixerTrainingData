@@ -341,7 +341,7 @@ hxnQLV <<= 1140964559;
 }
 }
 
-t7Ig = jE133(2016719577, -2059132232, Ks5K6Uuj, EJv0tY);
+
 M6J7 = (short)(yR0bQI9);
 switch (YE7FckPG_)
 {
@@ -408,7 +408,7 @@ std::cout << dIyseC8() << std::endl;
 while (i >= 0);
 }
 
-hxnQLV = (short)(LKMj1w0);
+
 switch (y7sawr4TNV)
 {
 case 0:
@@ -538,7 +538,7 @@ case 2:
 xKj9 = FXn5sq(1304285243, zUg7Kr7s);
 break;
 case 3:
-YE7FckPG_ = jE133(xKj9, -2022042488, MBmN_99XR, v_9LC) ^ 28671787;
+
 break;
 case 4:
 M6J7 = MZTs5(1530377259);
@@ -553,7 +553,7 @@ case 7:
 t7x91H9 = dIyseC8();
 break;
 case 8:
-cM8u5CljS = s9WMBkQ5mn % 888665613;
+
 break;
 default:
 v_9LC = LKMj1w0 - 2041761994;
@@ -612,7 +612,7 @@ else
 switch (t7Ig)
 {
 case 'a':
-uiOkSX4kH9 = Ks5K6Uuj - CS8P1C;
+
 break;
 case 'b':
 IWMD7UDroH = jE133(EJv0tY, -2049930374, -410969947, 292501104);
@@ -630,7 +630,7 @@ case 'f':
 IWMD7UDroH = jE133(LKMj1w0, o8u4, k5fXqc5, t7x91H9);
 break;
 case 'g':
-MBmN_99XR = k5fXqc5 + 1384042509;
+
 break;
 default:
 zUg7Kr7s = MZTs5(179527398) ^ o_2uI75a85;
@@ -641,7 +641,7 @@ break;
 switch (GRSXUh)
 {
 case 0:
-cDTw_C3fP |= 394095028;
+
 break;
 case 1:
 h3o211Aawk = MZTs5(h3o211Aawk);
@@ -672,7 +672,7 @@ y7sawr4TNV = (short)(o_2uI75a85);
 int i = 0;
 do
 {
-cDTw_C3fP = dIyseC8();
+
 ++i;
 }
 while (i < 8);
@@ -706,7 +706,7 @@ case 0:
 J8uk0398 = (int)abs(IWMD7UDroH) + (36393157);
 break;
 case 1:
-N37SwYqa = (int)abs(i4FG);
+
 break;
 case 2:
 Noz5I7nB = jE133(xKj9, y7sawr4TNV, zUg7Kr7s, -2020462271);
@@ -721,7 +721,7 @@ case 5:
 osMX_ktG = y7sawr4TNV % 966694686;
 break;
 case 6:
-Ks5K6Uuj = IWMD7UDroH / zbb78lpc60;
+
 break;
 case 7:
 h3o211Aawk = dIyseC8();
@@ -736,7 +736,7 @@ if ((v_9LC != 498811794) || (rt9W != 707969639))
 int k = 0;
 while (k < 6)
 {
-zbb78lpc60 = (int)abs(cjeL);
+
 ++k;
 }
 }
@@ -755,7 +755,7 @@ LKMj1w0 = yR0bQI9 ^ 1390596229;
 }
 else if ((zUg7Kr7s <= ZoCFnZ_) && (t7Ig < -813879372))
 {
-zbb78lpc60 = (short)(Noz5I7nB + (1562194061));
+
 }
 else
 {
@@ -768,7 +768,7 @@ o_2uI75a85 = (short)(y7sawr4TNV);
 }
 else
 {
-v_9LC = J8uk0398 * 841944820;
+
 }
 return 0;
 }

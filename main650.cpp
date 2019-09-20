@@ -573,7 +573,7 @@ wo4C = (int)abs(cAbT);
 break;
 case 'e':
 case 'E':
-E30N1_4 = (int)abs(pkyhS8) * 0;
+
 break;
 case 'f':
 case 'F':

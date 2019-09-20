@@ -21,7 +21,7 @@ int main(void)
     unsigned short    c6R0K1G;
     c6R0K1G    =    2035371541;
 	unsigned long long	Q0DX9jN;
-	Q0DX9jN	=	564702294;
+
  unsigned int SIZrNYUB1;
  SIZrNYUB1 = -2105978019;
   double  sZZsa6O;
@@ -59,7 +59,7 @@ int main(void)
     unsigned long    OOhfT;
     OOhfT    =    2062516770;
     unsigned long long    y72RYcyjml;
-    y72RYcyjml    =    -2124755788;
+
 	unsigned int	E3_sqq;
 	E3_sqq	=	-861701063;
   short  pToer;
@@ -87,7 +87,7 @@ int main(void)
   unsigned char  Wcwtb7J0;
   Wcwtb7J0  =  1723417700;
  long ZrE507m;
- ZrE507m = -1109352883;
+
 	unsigned long long	I2B39E;
 	I2B39E	=	-1540780136;
     unsigned int    VK9_L_4i2F;
@@ -97,7 +97,7 @@ int main(void)
   char  K40dJUk;
   K40dJUk  =  -456700356;
 	unsigned short	i62u;
-	i62u	=	1135856106;
+
     unsigned long long    x2Bn;
     x2Bn    =    0;
     float    TXMB;
@@ -115,7 +115,7 @@ int main(void)
  long long Fk2l97cLue;
  Fk2l97cLue = -927227659;
 	unsigned long long	L4uc;
-	L4uc	=	-1155538030;
+
  unsigned long e033n0Cyz;
  e033n0Cyz = -1618854225;
 	long double	a_Lb_rA_A;
@@ -137,7 +137,7 @@ int main(void)
  char bD5ED;
  bD5ED = -1945804478;
 	short int	g_TNy_cOlA;
-	g_TNy_cOlA	=	-69491686;
+
     unsigned long    i2zaK;
     i2zaK    =    -1268772717;
 	short	NDnu8fwm;
@@ -147,7 +147,7 @@ int main(void)
     short int    z_OiE;
     z_OiE    =    -563368588;
   unsigned short int  BFniA_;
-  BFniA_  =  -806546632;
+
   int  qSh07722ur;
   qSh07722ur  =  873869387;
  unsigned long long I4St_61v4;
@@ -344,7 +344,7 @@ if (((wdOyw9 == ypfW3719) || (QqPMm7QS1o)) || ((qSh07722ur < sc0vC5) || (I4St_61
 {
 if ((a8jBq86Qj < cG3_P1_Y4) || (TJ11Q5L != -1639916878))
 {
-W0BJ0E |= 336166302;
+
 }
 else if (y4ero65o != Ki3L5c)
 {
@@ -356,7 +356,7 @@ GMjVDADM = (int)ceil(I5R3);
 }
 else
 {
-fUy68912 = Wcwtb7J0 >> 1708673423;
+
 }
 }
 else
@@ -414,7 +414,7 @@ x2Bn = RIOoa8W(OqEjs_M, -1463743989, GMjVDADM);
 
 if (a_Lb_rA_A <= cG3_P1_Y4)
 {
-a_Lb_rA_A = (int)ceil(ORzv);
+
 }
 else if ((Ut21O7D != 1570575327) || (Blte != -1083535727))
 {
@@ -476,7 +476,7 @@ x2Bn = RIOoa8W(2020534414, E3_sqq, m5wB6Vx4A0);
 break;
 case 'c':
 case 'C':
-EG1m_O8 >>= 1311039378;
+
 break;
 case 'd':
 case 'D':
@@ -492,7 +492,7 @@ x2Bn = RIOoa8W(843354255, sc0vC5, 1039760151);
 break;
 case 'g':
 case 'G':
-Fm2LcZ_HQ = qSh07722ur / 1800041160;
+
 break;
 }
 

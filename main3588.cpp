@@ -36,7 +36,7 @@ int main(int argc, char** argv)
  short vLZC8aI3p;
  vLZC8aI3p = 1361257196;
 	unsigned int	w4I4X;
-	w4I4X	=	-810403050;
+
     int    D0d42;
     D0d42    =    -1363984133;
     short    Q2muitI;
@@ -56,7 +56,7 @@ int main(int argc, char** argv)
   int  JVAq0w_l;
   JVAq0w_l  =  624850826;
   unsigned long  z_51g;
-  z_51g  =  -1875396248;
+
  long double XwJc;
  XwJc = -403263761;
     unsigned short int    Y7T9vwCYqu;
@@ -84,7 +84,7 @@ int main(int argc, char** argv)
     unsigned int    AiGsnJC;
     AiGsnJC    =    -1125809654;
   unsigned long  m03j1;
-  m03j1  =  -1099853649;
+
 	unsigned long long	Dg525;
 	Dg525	=	2120260473;
 	double	lF9QYsFT;
@@ -98,7 +98,7 @@ int main(int argc, char** argv)
 	unsigned short	yY0b5b7aI;
 	yY0b5b7aI	=	-499071215;
  unsigned char fcVd;
- fcVd = -1755980014;
+
 	float	ORMn_F5Q;
 	ORMn_F5Q	=	-969606522;
  unsigned long GmM996qJD;
@@ -162,7 +162,7 @@ case 'b':
 DI9iAIhWD = kKklz5(609854998, -618956757, AiGsnJC);
 break;
 case 'c':
-QHgoFxFh = H878m4y1pJ(378052986);
+
 break;
 case 'd':
 E2SrLU8 = E2SrLU8 % FV647YWgv;
@@ -181,7 +181,7 @@ Q2muitI = Q3Z6 | b9Bg8112;
 break;
 }
 
-bfIo = (short)(M38x1l);
+
 switch (Q2muitI)
 {
 case 0:
@@ -262,7 +262,7 @@ switch (D0d42)
 {
 case 'a':
 case 'A':
-Q3Z6 = (FV647YWgv <= r7P6) ? r7P6 : 1980515038;
+
 break;
 case 'b':
 case 'B':
@@ -274,7 +274,7 @@ XwJc = H878m4y1pJ(-1771611869);
 break;
 case 'd':
 case 'D':
-XwJc = (int)floor(lF9QYsFT);
+
 break;
 default:
 DI9iAIhWD = kKklz5(sS13zVS, b9Bg8112, cL6M);
@@ -295,7 +295,7 @@ else
 Sq41clSVY_ = (short int)(xMEYWkro3);
 }
 
-v818P24R = H878m4y1pJ(v818P24R);
+
 
 AKDM = (short)(eIEZk88);
 
@@ -310,7 +310,7 @@ while (j >= 0)
 switch (DI9iAIhWD)
 {
 case 0:
-cL6M = WA5b40B * 218503240;
+
 break;
 case 1:
 r8eg5P9_yI = (int)floor(r7P6);
@@ -354,7 +354,7 @@ else if (Sq41clSVY_ < 1336537891)
 {
 for (int j = 3; j >= 0; --j)
 {
-fcVd = (unsigned char)(Y2xqWU38);
+
 }
 }
 else if ((JVAq0w_l != M38x1l) && ((r7P6 < j6nca) && (vLZC8aI3p <= W2GrD4ao)))
@@ -373,7 +373,7 @@ j--;
 }
 else
 {
-JVAq0w_l = H878m4y1pJ(DI9iAIhWD);
+
 }
 return 0;
 }

@@ -314,7 +314,7 @@ int i = 5;
 do
 {
 --i;
-kZ8i1Gb1 = (unsigned short)(Lw39_3M);
+
 }
 while (i >= 0);
 }

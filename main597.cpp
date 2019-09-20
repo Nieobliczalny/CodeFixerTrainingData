@@ -21,7 +21,7 @@ int main(int argc, char** argv) {
  VwuFKJe = -1809184163;
  NugT = -2105857378;
  H63A = 279568230;
- lN6A = -2127121639;
+
  NIk6t6P8 = -1176979819;
  JcR14 = -1898103012;
  i7vT_i1gao = -729400938;
@@ -307,7 +307,7 @@ std::cout << "az6e2Y" << Ez74D31_Y << OvD_nx807y << std::endl;
 }
 else if ((Y20A) || (S_jTYBC != 914614639))
 {
-GkkYhrBD6u = (GkkYhrBD6u) ? v1uPbKF : D_U_;
+
 }
 else if (DWG64GJ <= W28XZ2)
 {
@@ -319,7 +319,7 @@ bGg32 -= Smv314;
 }
 else
 {
-dh8p = (int)abs(OvD_nx807y);
+
 }
 }
 }
@@ -341,7 +341,7 @@ std::cout << eg_VY << Y20A << GWKTBt1zm << std::endl;
 }
 
 std::cout << W28XZ2 << h3_r_9 << i7vT_i1gao << y55V9iNxFP << NIk6t6P8 << std::endl;
-dh8p = h3_r_9 + 369066488;
+
 
 i7vT_i1gao = (int)(XG89Q);
 
@@ -351,7 +351,7 @@ try
 {
 if (((BtCK7fah & 1818170067) || (pjYJear0l > rcrcw)) && (D0d703tY_ >= 1053737796))
 {
-lN6A = rcrcw >> OvD_nx807y;
+
 }
 }
 catch (int& errorCode)
@@ -367,7 +367,7 @@ Z4J6M = (int)abs(Y20A);
 }
 else if (eg_VY >= 1557115762)
 {
-BtCK7fah = (int)(ZrM1nC);
+
 }
 else if (mbg2qDs4r == 1636159279)
 {
@@ -380,7 +380,7 @@ else if (JcR14 != 146952093)
 {
 for (int k = 1; k >= 0; --k)
 {
-i7vT_i1gao = NugT + 2139011233;
+
 }
 }
 else if ((y55V9iNxFP >= GWKTBt1zm) || (Y20A != -1195684659))
@@ -416,7 +416,7 @@ case 'd':
 d_z5 = r0uBu4 & 1152346728;
 break;
 case 'e':
-BtCK7fah &= Smv314;
+
 break;
 case 'f':
 OvD_nx807y %= VMdvdE;
@@ -433,7 +433,7 @@ else
 {
 try
 {
-eT2Biz30p6 = (ta6YNE2O3P == 895317490) ? -383725265 : -967480383;
+
 }
 catch (int& errorCode)
 {
@@ -449,7 +449,7 @@ case 'b':
 c4TA = VMdvdE & ta6YNE2O3P;
 break;
 case 'c':
-bGg32 = Z4J6M << aaAkObl28;
+
 break;
 }
 
@@ -469,7 +469,7 @@ while (j < 5)
 ++j;
 if (mbg2qDs4r < S8EK8Kj)
 {
-ZrM1nC = (int)abs(L3Y1y);
+
 }
 else if (XsZYYu2 & -1512315770)
 {
@@ -497,7 +497,7 @@ BFOZXLXg_2--;
 break;
 case 'b':
 case 'B':
-L3Y1y = S_jTYBC & 1187555129;
+
 break;
 case 'c':
 case 'C':
@@ -513,7 +513,7 @@ qSKWMUU1++;
 break;
 case 'f':
 case 'F':
-Z1zPZ4w = rcrcw & 285963468;
+
 break;
 default:
 gzTe5Ay += 1813376466;
@@ -544,7 +544,7 @@ try
 {
 try
 {
-Z4J6M *= NugT;
+
 }
 catch (int& errorCode)
 {
@@ -556,7 +556,7 @@ catch (int& errorCode)
 rcrcw |= S_jTYBC;
 }
 }
-pjYJear0l = (int)(aaAkObl28);
+
 v1uPbKF = (int)(ta6YNE2O3P);
 return 0;
 }

@@ -79,7 +79,7 @@ int main(void) {
     float    lGgcNvk77    =    -1046613651;
 
 zMv7rRe = netd7();
-K5n6 = VC_1(-288333443, 1681314116, y6Gfq4_wo1);
+
 
 yoJJk8 = netd7();
 
@@ -89,7 +89,7 @@ while (i >= 0)
 {
 try
 {
-XgG_E_TXnw = (float)(DX20MoKC_);
+
 }
 catch (int& errorCode)
 {
@@ -100,7 +100,7 @@ i--;
 }
 
 zMv7rRe = (int)floor(m2fa9i4);
-H5_L77 = (unsigned int)(d8HN + (-136016295));
+
 for (int i = 0; i < 1; i++)
 {
 if (uAOo)
@@ -113,7 +113,7 @@ else
 int k = 0;
 do
 {
-m2fa9i4 = (int)ceil(yoJJk8);
+
 k++;
 }
 while (k < 8);
@@ -133,7 +133,7 @@ case 'b':
 j6488b_0_I /= NL69e62O;
 break;
 case 'c':
-lGgcNvk77 = (int)floor(NL69e62O);
+
 break;
 case 'd':
 hRPcU3AB = Hy4F1x8f() >> 2102343808;
@@ -145,7 +145,7 @@ case 'f':
 zMv7rRe = (int)ceil(h54Hu);
 break;
 case 'g':
-HWJSpV27 = Hy4F1x8f();
+
 break;
 }
 }
@@ -155,7 +155,7 @@ case 'a':
 WRAjAd = (int)floor(NL69e62O);
 break;
 case 'b':
-OX4t_6Iuf = Hy4F1x8f();
+
 break;
 default:
 yoJJk8 = netd7();
@@ -170,7 +170,7 @@ Ypoq9++;
 }
 else
 {
-vKicvoHB = (int)abs(EUzkP);
+
 }
 }
 else if (r68a > d8HN)
@@ -184,7 +184,7 @@ case 'b':
 q7_8BxgO = g1sLvy7B / 2072846583;
 break;
 case 'c':
-O2TvxX0y %= 626681249;
+
 break;
 case 'd':
 aZ1FotF7 = netd7();
@@ -196,7 +196,7 @@ case 'f':
 XgG_E_TXnw = (int)ceil(w7BIB);
 break;
 case 'g':
-f4J10x3F77 = Hy4F1x8f() - 1606699182;
+
 break;
 case 'h':
 K4X6zY2XFY++;
@@ -214,7 +214,7 @@ else if ((Ao_wugi9 <= zd9GMp) && ((zd9GMp == w1fC7) && (Ypoq9 < -140173220)))
 {
 if (umU5m2W & j6488b_0_I)
 {
-r68a = (int)abs(YR5W);
+
 }
 }
 else
@@ -235,7 +235,7 @@ while (k >= 0);
 
 for (int i = 0; i < 10; i++)
 {
-M5Zoh_ = (long)(w1fC7);
+
 }
 
 {
@@ -251,7 +251,7 @@ else if ((J3rh7 & d8HN) && ((j6488b_0_I > 652540130) || (k1HzzQty <= -848262737)
 {
 for (int k = 5; k >= 0; k--)
 {
-xk4jhC_6x = Hy4F1x8f();
+
 }
 }
 else
@@ -268,7 +268,7 @@ while (i >= 0);
 switch (M2396n0)
 {
 case 0:
-q7_8BxgO += Sa469s;
+
 break;
 case 1:
 UfmW <<= X3t7;
@@ -280,7 +280,7 @@ case 3:
 YR5W >>= 197592939;
 break;
 case 4:
-XgG_E_TXnw = (int)floor(yoJJk8);
+
 break;
 case 5:
 xk4jhC_6x = Hy4F1x8f();
@@ -292,7 +292,7 @@ case 7:
 HWJSpV27 = Hy4F1x8f();
 break;
 case 8:
-X3t7 -= umU5m2W;
+
 break;
 default:
 XgG_E_TXnw = (int)ceil(h54Hu);

@@ -45,7 +45,7 @@ int main()
  char uK9O;
  uK9O = 0;
     unsigned char    J_jg;
-    J_jg    =    828254488;
+
  char Stg1i;
  Stg1i = 1349306300;
   long  jFQWwlkty;
@@ -176,7 +176,7 @@ J_jg = q9jsAPR & 165794158;
 }
 else if ((jFQWwlkty > 2053667284) || ((Vck0NQ1u_ > 1688656387) || (Kg7Bo2dnre < -1322200087)))
 {
-q9jsAPR |= Stg1i;
+
 }
 else if (((FxCrXp_35 != 194296561) && (hUDn77Q3 > uK9O)) && (Vck0NQ1u_))
 {
@@ -205,7 +205,7 @@ case 2:
 uK9O = K5C19(-2077656037, -1801717649, A1_8bTR4QM, LvG8U, -1650218384);
 break;
 case 3:
-s_J6e6_BRZ = FxCrXp_35 / QT44Mq6TV;
+
 break;
 case 4:
 gCo7EsYz3F = (int)abs(jFQWwlkty);
@@ -311,7 +311,7 @@ T32mG4002 = uEP5zVe(-820675088, uK9O, 1139316395);
 }
 else if ((y0_7m1uc6 >= 286390147) && (Yd24mU < tpA4))
 {
-A1_8bTR4QM = jL60Ytg(A1_8bTR4QM, -929688572, o1_iQ, 147108341, tpA4);
+
 }
 else if ((IOUmJd_0pw <= 982435206) && (Yd24mU))
 {
@@ -365,7 +365,7 @@ k3o5 = jL60Ytg(k3o5, QT44Mq6TV, 1399766933, 238236339, -2024244210);
 }
 else if (IWwI5k_0 != AAIHP)
 {
-uK9O = K5C19(-1679914784, -36149021, K3CYH9, Iojz2w2mQ, rBCwmV3);
+
 }
 else if (o1_iQ < 1375172733)
 {
@@ -473,7 +473,7 @@ Yd24mU = (int)abs(jUA5WW1RG7);
 switch (CV3tVoKRj_)
 {
 case 0:
-N8d4onjDFP = AAIHP & QT44Mq6TV;
+
 break;
 case 1:
 N8d4onjDFP = (int)abs(whvEG);
@@ -518,7 +518,7 @@ try
 {
 for (int k = 3; k >= 0; k--)
 {
-s_J6e6_BRZ = T_K017il | VYiIziguj;
+
 }
 }
 catch (int& errorCode)
@@ -536,7 +536,7 @@ std::cout << tpA4 << E0yBp8s_h(1305882225, Kg7Bo2dnre, Stg1i, NZ5AO) << "gCM7W2"
 }
 if (NqU_9Vw_ & 381786385)
 {
-uK9O = K5C19(Iojz2w2mQ, Yd24mU, 881808824, -448541854, -1146265267);
+
 }
 else if (GL07 < -1127876419)
 {
@@ -551,7 +551,7 @@ XlaOZRNVy = (int)abs(tpA4);
 }
 else if (NqU_9Vw_)
 {
-IOUmJd_0pw = k5UVC_z8F(1012150617, f85eNB4uc, -1134168883, 248520717, 2101227680);
+
 }
 else if (J_jg != -711471526)
 {
@@ -566,7 +566,7 @@ case 1:
 LvG8U = (int)ceil(T32mG4002);
 break;
 case 2:
-jUA5WW1RG7 = (int)abs(Iojz2w2mQ);
+
 break;
 case 3:
 uK9O = K5C19(jUA5WW1RG7, 473658655, GL07, -845689407, 684886485);
@@ -581,7 +581,7 @@ case 6:
 xf7b6 = jL60Ytg(115040441, Yd24mU, T32mG4002, -61204027, -1689254665);
 break;
 case 7:
-QT44Mq6TV = (int)abs(X2pnl);
+
 break;
 case 8:
 T32mG4002 = (int)floor(K3CYH9);
@@ -596,7 +596,7 @@ else
 {
 try
 {
-IOUmJd_0pw >>= NZ5AO;
+
 }
 catch (int& errorCode)
 {
@@ -609,7 +609,7 @@ std::cout << 635004710 / K5C19(xf7b6, -1460279899, 1043488098, r_88J3, -29703640
 switch (k3o5)
 {
 case 0:
-gCo7EsYz3F = (int)abs(T32mG4002);
+
 break;
 case 1:
 lsnKjs3A6 *= rBCwmV3;
@@ -621,7 +621,7 @@ case 3:
 lsnKjs3A6--;
 break;
 case 4:
-J_jg = tpA4 * 1163081997;
+
 break;
 default:
 XlaOZRNVy = (int)floor(ID3_);

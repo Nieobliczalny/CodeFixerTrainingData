@@ -384,7 +384,7 @@ switch (jfHv)
 {
 case 'a':
 case 'A':
-IQ32 = RYOx_a8C / L9EL;
+
 break;
 case 'b':
 case 'B':
@@ -433,7 +433,7 @@ bxrw93r0G4 = (int)abs(aWKr) + (-159494229);
 }
 else if (bxrw93r0G4 <= 655021033)
 {
-sV_2y_OkH = (int)floor(EVGL2k_i4);
+
 }
 else if (JKw3 >= 381680550)
 {
@@ -464,7 +464,7 @@ switch (bxrw93r0G4)
 {
 case 'a':
 case 'A':
-S_57i_0Sc = (int)abs(EVGL2k_i4);
+
 break;
 default:
 aKHbJtMS--;
@@ -489,7 +489,7 @@ int k = 0;
 do
 {
 ++k;
-nkT00L_ = rFw4pK_ + S4EXgysG;
+
 }
 while (k < 1);
 }

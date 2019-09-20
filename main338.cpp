@@ -41,7 +41,7 @@ int main()
   J31jl6Xa  =  -832048939;
   L5Cifu  =  1906864446;
   aJW3Dp  =  -1656422335;
-  yv15yAU6CE  =  -1539421679;
+
   UJLm_3  =  -966798210;
   DF8EA3Aq  =  1866868941;
   cvu5J  =  285090991;
@@ -56,7 +56,7 @@ int main()
   RDlhR8cEM  =  -1391708379;
   TGq815HEU  =  1428171196;
   T2x0F  =  -1304560200;
-  hk1V57C  =  -215475191;
+
   SUmGjTdO  =  -1346789972;
   uhL2rKr  =  -782318663;
   zj_w  =  247768919;
@@ -71,7 +71,7 @@ int main()
   hAeE2d  =  1771040060;
   X9s1M_w7L  =  1445144319;
   h27B  =  -1411417209;
-  t_3KF3PP  =  -2018433170;
+
   unsigned long  GM9Lp;
   GM9Lp  =  0;
 
@@ -90,7 +90,7 @@ int k = 0;
 while (k < 1)
 {
 ++k;
-i8991B4yM = cvu5J / X0idu;
+
 }
 }
 }
@@ -120,7 +120,7 @@ case 'C':
 GM9Lp = iR2g81g5vh(DF8EA3Aq, -589930882);
 break;
 default:
-yv15yAU6CE = MQ84Pw7 ^ 102304226;
+
 break;
 }
 cout << zCSLY50P << TGq815HEU << iR2g81g5vh(DF8EA3Aq, J31jl6Xa) << zCSLY50P << endl;
@@ -438,7 +438,7 @@ case 7:
 hAeE2d |= aJW3Dp;
 break;
 case 8:
-uMWJam9p0 |= 174663808;
+
 break;
 }
 if (xQdX2 <= 1055007141)
@@ -498,7 +498,7 @@ cvu5J = qya45pyLDg ^ 1003500013;
 }
 else if (i_bY1)
 {
-T2x0F = cvu5J / 604501837;
+
 }
 else if ((i_bY1 == 1815709173) && (C90FHe >= LfcLYPoh2))
 {
@@ -582,7 +582,7 @@ case 6:
 GM9Lp = iR2g81g5vh(DF8EA3Aq, 1280699073);
 break;
 case 7:
-vmRy >>= C90FHe;
+
 break;
 default:
 GM9Lp = iR2g81g5vh(-1568110171, t_3KF3PP);
@@ -602,7 +602,7 @@ UHN18_7 = sNM7l5l >> t_3KF3PP;
 }
 else
 {
-uhL2rKr = u3c0 + 625573083;
+
 }
 }
 while (j >= 0);
@@ -719,7 +719,7 @@ case 1:
 sNM7l5l = iR2g81g5vh(cvu5J, -821086873) ^ zj_w;
 break;
 case 2:
-i_bY1 -= C90FHe;
+
 break;
 case 3:
 UJLm_3++;
@@ -748,7 +748,7 @@ else if (J31jl6Xa & -1950917083)
 {
 if (i8991B4yM > -2022507242)
 {
-eyM1 = UHN18_7 | foHP;
+
 }
 else if (((u3c0 <= -719573611) || (RDlhR8cEM <= t_3KF3PP)) && ((hk1V57C) && (LfcLYPoh2 <= -752972629)))
 {
@@ -764,7 +764,7 @@ else
 switch (hAeE2d)
 {
 case 0:
-biaq3qc_L -= UHN18_7;
+
 break;
 case 1:
 GM9Lp = iR2g81g5vh(1303544525, jB87H9);
@@ -776,7 +776,7 @@ case 3:
 eyM1 = iR2g81g5vh(-1633410343, 163167498) >> h27B;
 break;
 case 4:
-H1_Rf = (int)abs(t_3KF3PP);
+
 break;
 case 5:
 RDlhR8cEM >>= xQdX2;

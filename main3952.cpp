@@ -34,7 +34,7 @@ int main(int argc, char** argv)
 q_DD1I7 = (unsigned long long)(E1Lk4Aj);
 OVSATwBz4 = OVSATwBz4 / XT1Is(1490075101);
 std::cout << Ux2E4_b16 << cNDr << Ux2E4_b16 << BeOg5i2O << std::endl;
-BeOg5i2O = (int)floor(OZM1tR_9);
+
 std::cout << E1Lk4Aj << XT1Is(-654908005) << SUiaz << std::endl;
 
 switch (cNDr)
@@ -46,7 +46,7 @@ case 1:
 bAt9c4d *= RXeV24qHWs;
 break;
 case 2:
-BeOg5i2O = (int)floor(OZM1tR_9);
+
 break;
 }
 try
@@ -85,7 +85,7 @@ switch (aK5H)
 {
 case 'a':
 case 'A':
-BeOg5i2O = (int)floor(OZM1tR_9);
+
 break;
 case 'b':
 case 'B':
@@ -112,7 +112,7 @@ OZM1tR_9 = XT1Is(1964698973) << Ux2E4_b16;
 break;
 }
 
-i5_1h4ED = (unsigned short int)(uGpG_);
+
 
 if (Ux2E4_b16)
 {

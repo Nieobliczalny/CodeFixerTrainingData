@@ -299,7 +299,7 @@ j_P35 %= 2032953985;
 }
 else
 {
-vl3pj = (int)floor(l8cWtnO5P);
+
 }
 }
 }
@@ -311,7 +311,7 @@ vl3pj = uTl_uu() << fvPCvvH;
 switch (v08XdpsW0)
 {
 case 0:
-vl3pj = l8cWtnO5P - vl3pj;
+
 break;
 case 1:
 l8cWtnO5P = VO0nc(-1098935481, -1631954772, NhbUCy1);
@@ -333,7 +333,7 @@ for (int j = 2; j >= 0; j--)
 {
 for (int k = 0; k < 7; k++)
 {
-vl3pj = (int)ceil(l8cWtnO5P);
+
 }
 }
 }
@@ -345,7 +345,7 @@ fvPCvvH = NB_5UWXl(v08XdpsW0, pc_vkbYZ3, fvPCvvH, -296680650) % pc_vkbYZ3;
 
 if (po_Txaw != -2069914455)
 {
-j_P35 %= sRJK;
+
 }
 try
 {
@@ -359,7 +359,7 @@ pc_vkbYZ3 = VO0nc(pc_vkbYZ3, l8cWtnO5P, fvPCvvH);
 switch (fvPCvvH)
 {
 case 0:
-vl3pj = (int)ceil(l8cWtnO5P);
+
 break;
 default:
 po_Txaw = NhbUCy1 | pc_vkbYZ3;
@@ -369,7 +369,7 @@ break;
 int i = 0;
 while (i < 4)
 {
-v08XdpsW0 = uTl_uu();
+
 i++;
 }
 }
@@ -412,7 +412,7 @@ case 8:
 po_Txaw = AXGez4();
 break;
 default:
-j_P35 = sRJK << fvPCvvH;
+
 break;
 }
 }

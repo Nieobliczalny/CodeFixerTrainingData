@@ -253,7 +253,7 @@ if (L4jV1 == 702157453)
 {
 if (yr89gWy3n & -1237167443)
 {
-qkk7q = iI044t_(qkk7q);
+
 }
 }
 }
@@ -266,7 +266,7 @@ for (int i = 0; i < 10; ++i)
 {
 BNm4_s = e_O5u0w(ICCo, LLb63_, BNm4_s, SYK3kWwq1);
 }
-ICCo = LLb63_ / BNm4_s;
+
 try
 {
 EwkPa_p7A = igywh();
@@ -286,7 +286,7 @@ x9BZf63++;
 }
 
 u50Nop5N = (short)(LLb63_);
-HEzYYAZi |= lLB_Z4C_;
+
 
 return 0;
 }

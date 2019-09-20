@@ -33,7 +33,7 @@ int main() {
  double rXaF_MFp;
  rXaF_MFp = 1675147320;
   long  DM4btp;
-  DM4btp  =  -1061904560;
+
  int XjDryTq3o;
  XjDryTq3o = -1012182885;
  char RdY9ax7h2;
@@ -43,7 +43,7 @@ int main() {
 	unsigned long	t8o5tD;
 	t8o5tD	=	2061591509;
     double    G5F9D8;
-    G5F9D8    =    1296374399;
+
  int I6qi6N62e;
  I6qi6N62e = -791861115;
     double    s3y_Sxi2;
@@ -55,7 +55,7 @@ int main() {
     long long    yZv38l;
     yZv38l    =    -342068581;
  int BFFFO2gZ5Y;
- BFFFO2gZ5Y = 177383452;
+
   unsigned char  ylhGqs;
   ylhGqs  =  -2073484287;
   int  X9hr_Son5;
@@ -67,7 +67,7 @@ int main() {
 	long long	oXHS96;
 	oXHS96	=	503602679;
   unsigned long  TPR2IRz3Q;
-  TPR2IRz3Q  =  0;
+
     unsigned long long    oxWOPA;
     oxWOPA    =    -1532594964;
   long long  v0_rh26_;
@@ -87,7 +87,7 @@ int main() {
   short  qkgFpU_zKM;
   qkgFpU_zKM  =  669571939;
   short  PJ5HTFVtt;
-  PJ5HTFVtt  =  -2136811391;
+
     float    l_b2mQVO6w;
     l_b2mQVO6w    =    -1030355750;
  unsigned long long GZPEVOZ5yJ;
@@ -101,7 +101,7 @@ int main() {
 	unsigned int	k_0JKZUA6F;
 	k_0JKZUA6F	=	1886613890;
 	unsigned long	Lts9;
-	Lts9	=	-1883550238;
+
   unsigned int  UKo4;
   UKo4  =  1719456006;
 	unsigned long long	K_G1Ef;
@@ -152,7 +152,7 @@ X9hr_Son5 = H4mb & 1671419134;
 break;
 case 'c':
 case 'C':
-kpv3CaY = w5RlR() + k_0JKZUA6F;
+
 break;
 case 'd':
 case 'D':
@@ -165,7 +165,7 @@ break;
 }
 }
 
-v0_rh26_ = x4cjXUxglc();
+
 yZv38l = N8BtO0_S();
 std::cout << w5RlR() << std::endl;
 {
@@ -198,7 +198,7 @@ for (int i = 9; i >= 0; i--)
 {
 try
 {
-oxWOPA = (unsigned long long)(oXHS96);
+
 }
 catch (int& errorCode)
 {
@@ -219,7 +219,7 @@ std::cout << rXaF_MFp << "aY0Z" << "SoS0Ch2V" << std::endl;
 }
 else
 {
-t8o5tD = (unsigned long)(I6qi6N62e);
+
 }
 }
 }

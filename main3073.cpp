@@ -186,7 +186,7 @@ K2Mj_7X = K37Z08s78(-183142384, -1817439892, -936182577, 944743996);
 std::cout << Cg0988 << "oQO_hx" << "n1iEc1" << "GcCdK0" << X6t7n78 << std::endl;
 vL932LR2O >>= kv8Bugq_;
 
-m_7bb = (int)abs(haaZyGrpMW);
+
 {
 int i = 6;
 do
@@ -220,7 +220,7 @@ std::cout << K37Z08s78(-1237335979, z29nab_, -319848499, vL932LR2O) << std::endl
 int i = 8;
 while (i >= 0)
 {
-sr6OB_L = (unsigned char)(Y01va75Vx2);
+
 --i;
 }
 }
@@ -279,7 +279,7 @@ if (A2t69m >= 14092922)
 {
 if ((tBlFERt16g != -2134576944) && ((X6t7n78) && (tBlFERt16g == 1139853832)))
 {
-Cg0988 = K37Z08s78(308710284, haaZyGrpMW, 910952176, Y01va75Vx2);
+
 }
 }
 }
@@ -292,7 +292,7 @@ case 1:
 Xme10_8Cw6 = K37Z08s78(-251903803, 1126218901, ja4C0, x7651U007);
 break;
 case 2:
-ZIp34z9 = toy3t3j5H4 + 1709836225;
+
 break;
 case 3:
 u1or &= 2123672743;
@@ -304,7 +304,7 @@ case 5:
 K2Mj_7X = c8YrHt(1040834911, 28029901, XS7M_Mob);
 break;
 case 6:
-ZIp34z9 = c8YrHt(2099501969, 2038225575, -2092624594);
+
 break;
 case 7:
 ekYbMxrtzi = c8YrHt(ekYbMxrtzi, kv8Bugq_, cSQ_BJ);
@@ -328,7 +328,7 @@ else
 {
 for (int j = 0; j < 10; j++)
 {
-sv82 = (Lrq60vnQo3 < -1460814088) ? c8YrHt(ekYbMxrtzi, -1848309429, cSQ_BJ) : c8YrHt(ekYbMxrtzi, 1353428130, cSQ_BJ);
+
 }
 }
 {
@@ -346,7 +346,7 @@ if ((Y01va75Vx2 == 907811851) || ((OOCY22 != -1326573142) && (K2Mj_7X != Z9cuF39
 {
 if (FwH_6 == 1874181713)
 {
-kp9FSEAL = (int)floor(M68S);
+
 }
 }
 else
@@ -372,7 +372,7 @@ while (j >= 0)
 int k = 2;
 do
 {
-tBlFERt16g = (int)ceil(oO6Z21Tl65);
+
 --k;
 }
 while (k >= 0);
@@ -385,7 +385,7 @@ else
 std::cout << Z9cuF39f0 << K37Z08s78(-1299561442, vL932LR2O, M68S, 691837070) << "QDPNV_VcT" << std::endl;
 }
 
-OOCY22 = (int)floor(UQB7o2);
+
 
 std::cout << Xme10_8Cw6 << TDVUt58() << K37Z08s78(W81939MwX, vL932LR2O, M68S, 1147401141) << K37Z08s78(-486270398, vL932LR2O, M68S, CX1T61CX8f) << std::endl;
 return 0;

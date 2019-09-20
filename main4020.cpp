@@ -222,7 +222,7 @@ switch (OCJ4VEtP)
 {
 case 'a':
 case 'A':
-rSy4N0_6W5 &= Z_4rt7utz;
+
 break;
 case 'b':
 case 'B':
@@ -298,7 +298,7 @@ case 'b':
 y8YP9h8 = rH6RCs7 | Z_4rt7utz;
 break;
 case 'c':
-rSy4N0_6W5 = TgNCV0uea >> 1857841682;
+
 break;
 case 'd':
 APlL_U &= 577226212;
@@ -347,7 +347,7 @@ catch (int& errorCode)
 MgO45c >>= M2RqeO;
 }
 
-rSy4N0_6W5 = (unsigned short int)(q0JN5 + (A_z9Cz5));
+
 OCJ4VEtP = (long long)(fH6B7c);
 
 OCJ4VEtP = (long long)(TgNCV0uea + (A_z9Cz5));
@@ -366,7 +366,7 @@ wR0i--;
 break;
 }
 
-fH6B7c = EcWo2G6Bm << 1517612828;
+
 
 try
 {
@@ -392,7 +392,7 @@ catch (int& errorCode)
 OCJ4VEtP >>= A__YXfqJ27;
 }
 
-P1i3O9lx4 = (unsigned long)(TgNCV0uea);
+
 return 0;
 }
 

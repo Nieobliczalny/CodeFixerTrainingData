@@ -241,7 +241,7 @@ switch (T1_cY)
 {
 case 'a':
 case 'A':
-E9TYB_ = (int)abs(y1Seb28Z8X) + (178189998);
+
 break;
 case 'b':
 case 'B':
@@ -253,7 +253,7 @@ E9TYB_ = E9TYB_ - 987401681;
 break;
 case 'd':
 case 'D':
-E9TYB_ %= jG39m;
+
 break;
 }
 

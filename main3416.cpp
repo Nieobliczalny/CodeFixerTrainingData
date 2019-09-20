@@ -53,7 +53,7 @@ std::cout << K4f02h_ << suSN_ << std::endl;
 switch (blj61)
 {
 case 0:
-H_dfnx = wS1nF05zpf();
+
 break;
 case 1:
 z2H7Zy = N0p38FE ^ Wn2E;
@@ -361,7 +361,7 @@ if ((kW62GNzD) && (aDRCtfW))
 {
 if (blj61 & aDRCtfW)
 {
-Spq_6 = XB2L % 19308243;
+
 }
 else
 {
@@ -386,7 +386,7 @@ if ((blj61 <= bKGco) || (OIOQ7qg6N <= -354582618))
 {
 if (blj61)
 {
-x5w8N = bJRIfz88(x5w8N, 1484014562);
+
 }
 else
 {

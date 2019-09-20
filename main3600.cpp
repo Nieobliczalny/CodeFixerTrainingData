@@ -50,7 +50,7 @@ int main()
 	unsigned long long	Pxo3o53I;
 	Pxo3o53I	=	-354126950;
   double  UEvy_1Jb;
-  UEvy_1Jb  =  1461312857;
+
   double  Ty3iF;
   Ty3iF  =  929053911;
   unsigned long  zssV08pQY0;
@@ -60,7 +60,7 @@ int main()
   float  bJsP6yFe6j;
   bJsP6yFe6j  =  -1821683711;
   unsigned char  sP53iv0RvC;
-  sP53iv0RvC  =  2113052693;
+
  long long QZE6Lny;
  QZE6Lny = 1758879715;
 	unsigned char	RgQ60VAc8;
@@ -72,7 +72,7 @@ int main()
   long  iJAW3;
   iJAW3  =  -1953579421;
   unsigned short int  aVMCfj;
-  aVMCfj  =  1641850621;
+
  unsigned char an5Tt6;
  an5Tt6 = -989881487;
 	short	mf5ncu52X;
@@ -95,7 +95,7 @@ std::cout << "hMqEvLm_aC" << std::endl;
 std::cout << linh2Teww(990040020) << mf2660S_KM << zssV08pQY0 << std::endl;
 for (int i = 0; i < 8; ++i)
 {
-UEvy_1Jb = (int)abs(QZE6Lny);
+
 }
 
 UEvy_1Jb = bxCI3RZ << Pxo3o53I;
@@ -118,7 +118,7 @@ yw21 = linh2Teww(-1419753290);
 break;
 case 'd':
 case 'D':
-ZYD9KI = (int)ceil(CnTIcrH51);
+
 break;
 case 'e':
 case 'E':
@@ -168,7 +168,7 @@ case 0:
 mf5ncu52X = V6z2uuL(mf5ncu52X, mf2660S_KM, -1614214948, an5Tt6, -1339881732);
 break;
 case 1:
-QZE6Lny |= yw21;
+
 break;
 case 2:
 WX1p00DwUC = (int)abs(QZE6Lny);
@@ -190,7 +190,7 @@ int k = 8;
 do
 {
 --k;
-bJsP6yFe6j = (int)ceil(UEvy_1Jb);
+
 }
 while (k >= 0);
 }
@@ -208,7 +208,7 @@ D3v412s = V6z2uuL(1142825033, 515172720, an5Tt6, mf5ncu52X, -1288864921);
 }
 }
 }
-ZYD9KI = (int)abs(bKQ_Cz76b);
+
 
 yw21 = xKEc93pE8h() / pmLCrL3Kd;
 
@@ -240,7 +240,7 @@ if (RgQ60VAc8 == OPfwP)
 {
 try
 {
-w5_p37c = OPfwP / 1125340950;
+
 }
 catch (int& errorCode)
 {

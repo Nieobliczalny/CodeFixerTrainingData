@@ -24,7 +24,8 @@ unsigned short int c7Sjjt_Ym(unsigned short jkK5vk8ZBV,char md4VG3Iw4,long long 
 
 int main(int argc, char** argv) {
     unsigned long    LRF6UZJ,    kBtP79DR,    k9I1Qq5Xcl,    kO8C4,    EN6eM62,    nD9_Na62K2,    g98uRYy7sV,    nV_5,    UQFD,    vWryRO8,    G0xldq,    DzCLi3kH,    jecJ830t,    KZOlp6,    Um714OZCy,    YG6B,    aqw_KIKG,    eu_k,    T1LyIMV,    s03OlitOfJ,    PKf9,    QXu6IbIQ_,    ihyl;
-        LRF6UZJ    =    kBtP79DR    =    k9I1Qq5Xcl    =    kO8C4    =    EN6eM62    =    nD9_Na62K2    =    g98uRYy7sV    =    nV_5    =    UQFD    =    vWryRO8    =    G0xldq    =    DzCLi3kH    =    jecJ830t    =    KZOlp6    =    Um714OZCy    =    YG6B    =    aqw_KIKG    =    eu_k    =    T1LyIMV    =    s03OlitOfJ    =    PKf9    =    QXu6IbIQ_    =    ihyl    =    -1693717686;
+        // codechecker_intentional [deadcode.DeadStores] Design rule - initialize all variables
+		LRF6UZJ    =    kBtP79DR    =    k9I1Qq5Xcl    =    kO8C4    =    EN6eM62    =    nD9_Na62K2    =    g98uRYy7sV    =    nV_5    =    UQFD    =    vWryRO8    =    G0xldq    =    DzCLi3kH    =    jecJ830t    =    KZOlp6    =    Um714OZCy    =    YG6B    =    aqw_KIKG    =    eu_k    =    T1LyIMV    =    s03OlitOfJ    =    PKf9    =    QXu6IbIQ_    =    ihyl    =    -1693717686;
 	unsigned short int	q4k6N7O,	Nl99,	GTA0p_qYfg,	SgiBD8b_,	kn3q_vr;
 		q4k6N7O	=	Nl99	=	GTA0p_qYfg	=	SgiBD8b_	=	kn3q_vr	=	0;
 

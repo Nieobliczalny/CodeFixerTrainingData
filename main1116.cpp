@@ -115,7 +115,7 @@ Je_3 = Jdp3(1554099545, 402085870, NP82C, -1727303753);
 }
 SB_h = (int)abs(JG8Pc57N);
 
-w4d33 = (int)floor(REi76);
+
 if (pwlk != -1216888293)
 {
 XCpI3dG_Dx = (short)(Jw_mza0 + (197881622));
@@ -157,7 +157,7 @@ case 'D':
 b0i1Y2H = (oEy99RoQ <= 1830777934) ? RVGJHzs8b : SB_h;
 break;
 default:
-JG8Pc57N = (int)abs(RVGJHzs8b);
+
 break;
 }
 }
@@ -171,7 +171,7 @@ int i = 0;
 do
 {
 ++i;
-REi76 = (int)floor(MX_0);
+
 }
 while (i < 6);
 }
@@ -182,7 +182,7 @@ if (Jw_mza0 == 0)
 }
 if (U_J7e9_9a)
 {
-MX_0 = (int)floor(NP82C);
+
 }
 
 std::cout << Je_3 << "IANja__c" << Jdp3(-540931001, 351170142, Ll4x0, 489824992) << Je_3 << std::endl;

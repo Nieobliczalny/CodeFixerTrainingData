@@ -46,7 +46,7 @@ int main(int argc, char** argv)
     double    ZZ69_3ujda;
     ZZ69_3ujda    =    1717612808;
  long long p7J_;
- p7J_ = -2002468176;
+
     unsigned short    W3ZV;
     W3ZV    =    2127482796;
  long double e90_;
@@ -76,7 +76,7 @@ int main(int argc, char** argv)
 	int	pLgrt_768;
 	pLgrt_768	=	-224079389;
 	float	q500U;
-	q500U	=	-283508463;
+
 	long long	GBv_6Yv;
 	GBv_6Yv	=	1592666171;
   long  h0815Lz5;
@@ -413,7 +413,7 @@ if ((b5og1p0MGw > 13191244) && ((h0815Lz5 >= q500U) && (UDlEea3r0t == 509258855)
 int k = 0;
 while (k < 9)
 {
-mEyw9J = Bv21ka(1374048645, 1220993308, -360755853, -562329742, -316499231);
+
 ++k;
 }
 }
@@ -455,7 +455,7 @@ case 3:
 ZZ69_3ujda = (int)floor(e90_);
 break;
 case 4:
-rL7H = Bv21ka(-847104111, Mm8k0, F60FeNaU, o04y, pLgrt_768);
+
 break;
 default:
 mJD9B_f4Y &= Xp_R;
@@ -504,7 +504,7 @@ Wi2O = (int)abs(o04y);
 }
 }
 }
-klp0 = (unsigned int)(w_T9dm);
+
 
 G655zYa = (int)abs(Ftr7H9p);
 return 0;

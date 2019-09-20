@@ -119,7 +119,7 @@ case 'f':
 EMOYIQmq = (int)abs(ql_N);
 break;
 case 'g':
-TntzBMzn = Rr2hAi7lH8(-1736874595, -1361819565);
+
 break;
 default:
 ql_N = (int)abs(l50RB8sBr_);
@@ -679,7 +679,7 @@ else if (ql_N)
 {
 try
 {
-TntzBMzn = Rr2hAi7lH8(TntzBMzn, f6bUb5_Ztk);
+
 }
 catch (int& errorCode)
 {
@@ -723,7 +723,7 @@ int k = 3;
 while (k >= 0)
 {
 k--;
-TntzBMzn = na8bM115(-1876646552, -1469884597, 2136497832, -734595033) - YOx6;
+
 }
 }
 }

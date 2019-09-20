@@ -57,7 +57,7 @@ int main()
 	unsigned char	KLS7Q;
 	KLS7Q	=	959939874;
 	short int	Wmh9D39330;
-	Wmh9D39330	=	242021392;
+
  unsigned short Pt_t56_Ib;
  Pt_t56_Ib = -1884312565;
   long double  gBv_57r60E;
@@ -150,7 +150,7 @@ else
 {
 try
 {
-Wmh9D39330 = (int)abs(TS_AG_4Q69) + (-1780048884);
+
 }
 catch (int& errorCode)
 {
@@ -462,7 +462,7 @@ try
 switch (Wmh9D39330)
 {
 case 0:
-KLS7Q = kVE169_N(-73192725);
+
 break;
 case 1:
 TS_AG_4Q69 = ffSPy7i(-69766543, -860048263, 795765075);
@@ -490,7 +490,7 @@ else
 {
 for (int j = 0; j < 4; ++j)
 {
-Pt_t56_Ib = (H5FA83J1) ? x7Pnd : ue0EPlqoR;
+
 }
 }
 

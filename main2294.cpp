@@ -144,7 +144,7 @@ c_Lm2h04L5 = (int)abs(FGX1ktj_2);
 break;
 case 'f':
 case 'F':
-YHrB16n_7 = bx5b69BU(YHrB16n_7, -1272449142, 1508393782, vr86tiC, FGX1ktj_2);
+
 break;
 case 'g':
 case 'G':
@@ -387,7 +387,7 @@ YHrB16n_7 = (unsigned int)(UF3Jr_ * (Wc49ezrp7f));
 switch (YHrB16n_7)
 {
 case 0:
-YHrB16n_7 = bx5b69BU(vr86tiC, -1026871882, -1448388703, -1238498431, -473714533);
+
 break;
 case 1:
 UF3Jr_ = (int)abs(FGX1ktj_2);
@@ -402,7 +402,7 @@ case 4:
 c_Lm2h04L5 = (int)abs(w5bKMIK);
 break;
 case 5:
-fv4fz = (int)ceil(vr86tiC);
+
 break;
 case 6:
 YHrB16n_7 = bx5b69BU(vr86tiC, 1358462644, 461046394, nS5N9x_5, 1907488441);

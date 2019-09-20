@@ -525,7 +525,7 @@ case 'g':
 xxD7jVbNZ = Yd7Qn + 310947905;
 break;
 case 'h':
-T5iU59KW3 = (int)abs(cGp6HY10ge);
+
 break;
 case 'i':
 qcAFKd7T1C <<= W1o_QJ0;
@@ -600,7 +600,7 @@ XoY5a228 = (int)floor(GZWH756);
 break;
 case 'i':
 case 'I':
-T5iU59KW3 = (int)abs(cGp6HY10ge);
+
 break;
 default:
 r8s0_ = (GZWH756 == Cp09) ? Yd7Qn : Pg7_ISsV7s;
@@ -624,7 +624,7 @@ case 2:
 Pg7_ISsV7s %= 2114514744;
 break;
 case 3:
-qcAFKd7T1C = W1o_QJ0 % xxD7jVbNZ;
+
 break;
 case 4:
 XoY5a228 = (int)floor(GZWH756);

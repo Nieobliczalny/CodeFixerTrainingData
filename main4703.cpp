@@ -15,7 +15,7 @@ int main()
 {
   short int  rVzgjdy_9,  zmXr3Z36n,  Xcgkm,  LN51SYO,  py3XN52,  Ter8f,  W7YJ17,  MiFkGo63pr,  gZLa,  BO_T,  Qa9oMMB_6a,  LjNo,  i841X7GmY,  B1ZpA5P4dS,  U361X44aRr,  aPI6K5qX,  q8uN_w4M3,  t9Jhj9yM0,  WVGk52,  x548Fk,  bmI5TI,  bbINw2Pg,  u3__ZZeY8,  Jxv0zpj,  z655kU7w3,  lydeG,  dO2g_Wb,  ZybP,  L_Mi_8,  rX26xH0,  Xii0,  Y3Z_NJ7R,  J5gYW5qrA,  wLhU6W,  Sb21CJRYUn,  eclBYaG,  H1y4,  VOY_p33m_0,  ghbQRP,  eAzg,  piPjoLnF;
   rVzgjdy_9  =  609010320;
-  zmXr3Z36n  =  1315098440;
+
   Xcgkm  =  2046201834;
   LN51SYO  =  1962339566;
   py3XN52  =  1650826181;
@@ -26,7 +26,7 @@ int main()
   BO_T  =  1654745449;
   Qa9oMMB_6a  =  986738488;
   LjNo  =  910270284;
-  i841X7GmY  =  -1537151611;
+
   B1ZpA5P4dS  =  245559870;
   U361X44aRr  =  520246358;
   aPI6K5qX  =  -288498361;
@@ -40,7 +40,7 @@ int main()
   Jxv0zpj  =  -470055146;
   z655kU7w3  =  573130193;
   lydeG  =  -136715400;
-  dO2g_Wb  =  712928752;
+
   ZybP  =  1706248475;
   L_Mi_8  =  832566122;
   rX26xH0  =  -2014235774;
@@ -50,7 +50,7 @@ int main()
   wLhU6W  =  1725908357;
   Sb21CJRYUn  =  394415652;
   eclBYaG  =  143648946;
-  H1y4  =  1446649613;
+
   VOY_p33m_0  =  1547117662;
   ghbQRP  =  357019640;
   eAzg  =  -760136546;
@@ -60,7 +60,7 @@ int main()
  Q_4SrVG = 0;
  IaKLRF4 = 0;
 
-x548Fk >>= eAzg;
+
 
 {
 int i = 0;
@@ -98,7 +98,7 @@ gZLa = (int)abs(py3XN52);
 switch (BO_T)
 {
 case 0:
-L_Mi_8 = VOY_p33m_0 % u3__ZZeY8;
+
 break;
 case 1:
 dO2g_Wb += J5gYW5qrA;
@@ -120,7 +120,7 @@ if (((eAzg >= -2015262599) && (Xii0 != rVzgjdy_9)) && (h8k5w3fJMr >= -1661953300
 switch (piPjoLnF)
 {
 case 0:
-ZybP += dO2g_Wb;
+
 break;
 case 1:
 LN51SYO = Ter8f >> Qa9oMMB_6a;
@@ -141,7 +141,7 @@ else if (t9Jhj9yM0 >= U361X44aRr)
 {
 if (piPjoLnF <= 894617962)
 {
-Q_4SrVG = sk3M8(x548Fk);
+
 }
 }
 else if (Sb21CJRYUn > 1561162706)
@@ -152,7 +152,7 @@ else
 {
 if (IaKLRF4)
 {
-MiFkGo63pr = rVzgjdy_9 - 1650056394;
+
 }
 else
 {
@@ -165,7 +165,7 @@ for (int i = 0; i < 6; i++)
 {
 if (((LN51SYO != -662517586) || (h8k5w3fJMr >= aPI6K5qX)) && (z655kU7w3 & 878618555))
 {
-rX26xH0 = (short int)(LN51SYO);
+
 }
 }
 

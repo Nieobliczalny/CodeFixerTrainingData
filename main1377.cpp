@@ -42,7 +42,7 @@ int main() {
     unsigned char    qNjw;
     qNjw    =    -871383754;
     unsigned long long    U2eU4WdMe;
-    U2eU4WdMe    =    888761505;
+
  unsigned int Uv43F5;
  Uv43F5 = -51861414;
   unsigned int  k6qMbRa;
@@ -366,7 +366,7 @@ case 0:
 ido4ZBBdZ = (int)floor(L5Ij4);
 break;
 default:
-fXaDl += 1216378416;
+
 break;
 }
 
@@ -516,7 +516,7 @@ case 'a':
 xnZYvnZhm = a7tP9H_dZi >> fFc1dVzg90;
 break;
 case 'b':
-q5zWeQ8Y9A = U2eU4WdMe % 337628337;
+
 break;
 case 'c':
 L5Ij4 = (int)floor(qNSz3h8e);
@@ -562,7 +562,7 @@ case 0:
 Z4qH6Jz390 = zxCjjf8 << 334274344;
 break;
 case 1:
-q5zWeQ8Y9A = Z4qH6Jz390 << 703046248;
+
 break;
 case 2:
 L5Ij4 = (int)ceil(qNSz3h8e);
@@ -813,7 +813,7 @@ case 'e':
 ido4ZBBdZ = (int)floor(qNSz3h8e);
 break;
 case 'f':
-fFc1dVzg90 = kwmQ51X | 1480805049;
+
 break;
 case 'g':
 xnZYvnZhm++;
@@ -841,7 +841,7 @@ vPd2t3NK0 = (unsigned long)(ZKf7c4 + (zxCjjf8));
 }
 if (A543 != -2027162240)
 {
-Uv43F5 = kwmQ51X ^ 506802329;
+
 }
 else if (((fXaDl & zxCjjf8) || (Z4qH6Jz390 > kwmQ51X)) || (BBd9mT7x & A543))
 {
@@ -877,7 +877,7 @@ else
 switch (m9yG)
 {
 case 0:
-a7tP9H_dZi = A543 & 1343136429;
+
 break;
 case 1:
 A543 += 286666633;
@@ -889,7 +889,7 @@ case 3:
 VdT_++;
 break;
 case 4:
-BBd9mT7x &= k6qMbRa;
+
 break;
 case 5:
 ido4ZBBdZ = (int)floor(L5Ij4);

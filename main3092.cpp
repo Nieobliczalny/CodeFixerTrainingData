@@ -11,7 +11,7 @@ using namespace std;
 int main(void)
 {
 	short int	BnBOF;
-	BnBOF	=	-1128784537;
+
  long Sw6H7;
  Sw6H7 = 30167669;
     long double    jx0H;
@@ -21,7 +21,7 @@ int main(void)
   long  M1_1J6d6;
   M1_1J6d6  =  1426234591;
  unsigned long R70_IV4FT;
- R70_IV4FT = 899897341;
+
   unsigned short  Uhjs5R64V;
   Uhjs5R64V  =  1090692547;
     unsigned short int    VIbb;
@@ -31,7 +31,7 @@ int main(void)
     unsigned long    iXHX4nJ;
     iXHX4nJ    =    454480617;
  unsigned int BZ5hgCO0;
- BZ5hgCO0 = -940363837;
+
     unsigned short    sPS7d49;
     sPS7d49    =    1301981377;
     long double    M5k0Jw249x;
@@ -45,7 +45,7 @@ int main(void)
  unsigned short Xv8P_KPa3;
  Xv8P_KPa3 = -716087856;
  unsigned int fDP1Lsgy8q;
- fDP1Lsgy8q = -284936175;
+
   short  gqxhV46;
   gqxhV46  =  677895290;
   short  uZT4;
@@ -55,7 +55,7 @@ int main(void)
     unsigned short    e_6k;
     e_6k    =    801689578;
     short    itB0lU0;
-    itB0lU0    =    1350186581;
+
   float  b1L7Jai8Fm;
   b1L7Jai8Fm  =  2076768433;
   unsigned long  Y4aVzt;
@@ -65,7 +65,7 @@ int main(void)
   double  HzfU2X03;
   HzfU2X03  =  719732919;
     unsigned int    AbQc4jdN2;
-    AbQc4jdN2    =    -641503398;
+
     short int    vCQkHadc;
     vCQkHadc    =    144971086;
     float    a2Hb__6Bng;
@@ -75,7 +75,7 @@ int main(void)
 
 uZT4 = (short)(GC75pri);
 
-DEvFY = (b1L7Jai8Fm <= 1015308727) ? -476946876 : 832527331;
+
 if ((GC75pri < sPS7d49) && (vCQkHadc >= Xv8P_KPa3))
 {
 h6E74Fk -= 1388336138;
@@ -85,7 +85,7 @@ else
 M5k0Jw249x = (long double)(VIbb);
 }
 
-b1L7Jai8Fm = (int)floor(M5k0Jw249x);
+
 
 switch (gqxhV46)
 {
@@ -99,7 +99,7 @@ case 'c':
 HzfU2X03 /= 1027437522;
 break;
 case 'd':
-mVKH_E = (int)ceil(M5k0Jw249x);
+
 break;
 }
 if (YU7n3 == 0)
@@ -120,7 +120,7 @@ do
 ++j;
 if (jx0H <= -1186820277)
 {
-b1L7Jai8Fm = (int)ceil(HzfU2X03);
+
 }
 else
 {

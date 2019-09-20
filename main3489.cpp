@@ -25,7 +25,7 @@ int main(int argc, char** argv)
 
 if (leIE == 1290231099)
 {
-SxwJ = (int)(RN8yjI);
+
 }
 else
 {
@@ -50,7 +50,7 @@ case 'f':
 V1Ult_rJR6 |= 615896519;
 break;
 case 'g':
-uULu_jho = (int)abs(s7_gPK9J);
+
 break;
 case 'h':
 U8X74 %= PW552Cu_;
@@ -64,7 +64,7 @@ break;
 switch (yBx5Y8N)
 {
 case 0:
-L_9lDwh = (int)abs(gda_66_);
+
 break;
 case 1:
 ruA6216a = (wuTex == 1935940235) ? Cjqc_32lb(97578347, wuTex, 1225174153, jKB54L) : yBx5Y8N;
@@ -80,7 +80,7 @@ N_Q1 = eNT_OfuKf2(-832299248, kV3kW, t6E680, Fns8tHq, V1Ult_rJR6);
 break;
 }
 
-b1uWrf2mt = Elib(864004297, nMw0hZJ, iySNzE4sB, GM1USmZ3, N_Q1);
+
 
 try
 {
@@ -96,7 +96,7 @@ case 0:
 I6anKBsCQ = Cjqc_32lb(2058671671, vR6xjvgcE_, -772735489, FaNtvtTc);
 break;
 case 1:
-YB6Z_2M >>= ZWv9v91D;
+
 break;
 case 2:
 k8Do8Oi0_ = xFjG_IBl(k8Do8Oi0_, 220250777, 1671969008, 912716637);
@@ -136,7 +136,7 @@ else
 {
 if (ruA6216a <= 1644908961)
 {
-SxwJ = n0LJz55 - 1453656806;
+
 }
 else if ((t6E680 > ruA6216a) && (fErN))
 {
@@ -148,7 +148,7 @@ eWurj6 |= 1916017850;
 }
 else
 {
-b1uWrf2mt = N_Q1 >> 697531746;
+
 }
 }
 }
@@ -164,7 +164,7 @@ try
 {
 if (n0LJz55 >= I6anKBsCQ)
 {
-r_JADWAF8 &= leIE;
+
 }
 }
 catch (int& errorCode)
@@ -219,7 +219,7 @@ std::cout << Elib(-1971531816, NiSzZA, 2107054903, nMw0hZJ, -709967597) << std::
 Fq731_ = xFjG_IBl(vR6xjvgcE_, NiSzZA, -1260716607, 1663426650) % jKB54L;
 RN8yjI = KWXsP / FFLBv6A;
 
-vR6xjvgcE_ = Cjqc_32lb(-753256256, ATxME5t, -483144883, -1771228104);
+
 {
 int i = 5;
 while (i >= 0)
@@ -251,7 +251,7 @@ switch (JmoV_)
 {
 case 'a':
 case 'A':
-FaNtvtTc &= SD20;
+
 break;
 }
 }

@@ -98,7 +98,7 @@ case 'H':
 oVRE = (int)ceil(yxev_6r9KV);
 break;
 }
-CFAPwbIfm6 &= 907325837;
+
 for (int i = 0; i < 6; i++)
 {
 cout << kDwtiO << "AIIWf" << endl;
@@ -117,7 +117,7 @@ VJCb = (short int)(IJ7KR3);
 }
 }
 
-K_vs = w_U1l_Ao7p(zfm6pB5YQx, -26504467, -1759988417, K_vs);
+
 {
 int i = 2;
 do
@@ -138,7 +138,7 @@ kDwtiO ^= o321g3K;
 }
 else
 {
-K_vs = w_U1l_Ao7p(d3_x, q4qQ, -1496901586, kDwtiO);
+
 }
 }
 --i;
@@ -149,7 +149,7 @@ while (i >= 0);
 VJCb = w_U1l_Ao7p(q4qQ, 1492268021, o321g3K, -424754249);
 if (yxev_6r9KV == -1917774927)
 {
-d3_x |= q4qQ;
+
 }
 else if (oVRE < zfm6pB5YQx)
 {
@@ -165,7 +165,7 @@ else
 {
 if (IJ7KR3)
 {
-VJCb = (short int)(PX__GfU4l * VJCb);
+
 }
 }
 

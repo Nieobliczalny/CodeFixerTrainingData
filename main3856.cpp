@@ -106,7 +106,7 @@ int main() {
 
 E5cjT = jQLQ_e7 & 88427969;
 
-LG9DL82j = ifdF >> 1771115292;
+
 if (ZkoRh & -815198371)
 {
 s2uhJJt92 = (short int)(hPFaMN);
@@ -120,7 +120,7 @@ ccH425vo = (double)(Z9yZS);
 
 for (int i = 0; i < 2; i++)
 {
-YImy448 = (double)(V_5RL);
+
 }
 
 if ((ekU92Hja) && (o6rI4_))
@@ -158,7 +158,7 @@ et4GAr += 79987350;
 }
 else
 {
-O26i = (int)ceil(cjs455U);
+
 }
 j--;
 }
@@ -196,7 +196,7 @@ P_OE = r8RD - zJfEwurk;
 }
 else
 {
-P25P8Zy /= 600883482;
+
 }
 }
 else
@@ -227,7 +227,7 @@ int k = 6;
 do
 {
 k--;
-ZDMc = (int)ceil(gOk0);
+
 }
 while (k >= 0);
 }
@@ -242,7 +242,7 @@ else
 switch (IM1JU)
 {
 case 'a':
-nWb31Zz42a ^= mY58k;
+
 break;
 default:
 yuh3 += IG0P3;
@@ -262,7 +262,7 @@ Fw8h03F8 <<= 969822728;
 cout << IG0P3 << sk7l << endl;
 try
 {
-ccH425vo = (double)(jQLQ_e7);
+
 }
 catch (int& errorCode)
 {
@@ -284,7 +284,7 @@ case 1:
 P_OE |= IM1JU;
 break;
 case 2:
-Kg8Dy = (int)ceil(e8ht618v_J);
+
 break;
 case 3:
 A80Bu4U = kSb0_ | 411261487;
@@ -303,7 +303,7 @@ do
 switch (X5zM)
 {
 case 0:
-yNC81q = IM1JU * rG_6Pbxd9;
+
 break;
 case 1:
 K866lg = CdCQV4C / E5cjT;
@@ -329,7 +329,7 @@ case 0:
 GUT4sY = R_9x5 / O78_RB;
 break;
 case 1:
-n6esysJd6 = (int)floor(UjOi2y0);
+
 break;
 case 2:
 w__5MXkD5 = (int)abs(OaULMt7R);
@@ -347,7 +347,7 @@ if (C08sr4A_8 >= IG0P3)
 {
 for (int k = 0; k < 4; k++)
 {
-Kg8Dy = (int)ceil(cjs455U);
+
 }
 }
 }
@@ -364,7 +364,7 @@ catch (int& errorCode)
 {
 GUT4sY &= M_Zn;
 }
-glbt_HR8M = (int)ceil(rG_6Pbxd9);
+
 
 try
 {
@@ -386,7 +386,7 @@ OaULMt7R /= 375053086;
 int i = 0;
 do
 {
-YImy448 = (int)floor(rG_6Pbxd9);
+
 ++i;
 }
 while (i < 5);

@@ -22,7 +22,7 @@ int main(void) {
   do58Vvr  =  -1007750746;
   w5844k  =  -2118140776;
   jFj2yM7  =  -159744282;
-  E_2hD9sc6  =  -1488250677;
+
   hWb_x  =  -644968417;
   mMSQ3hu  =  170426511;
   XpAS  =  -1825918638;
@@ -39,7 +39,7 @@ int main(void) {
   pxyG_s56Z  =  -938033902;
   y9NSCKECL  =  -25710242;
   Zp897  =  1069506585;
-  N029  =  -1378413877;
+
   lLQC8836  =  1827708185;
   namZ  =  -2142525083;
   G2_4J  =  -715905381;
@@ -211,7 +211,7 @@ vwbT5Xz5b = S3G4LNb();
 break;
 case 'g':
 case 'G':
-BZwb_ = QRiL32S | rfS4Xs71I4;
+
 break;
 case 'h':
 case 'H':
@@ -260,7 +260,7 @@ if ((r7ek4) || ((k2D9f < KW067eh5) && (KlN_IFK4uf < rfS4Xs71I4)))
 {
 if (KW067eh5)
 {
-k2D9f = S3G4LNb();
+
 }
 else if (namZ == 1637801535)
 {
@@ -418,7 +418,7 @@ case 'e':
 Rg3jC = pGfPVi();
 break;
 case 'f':
-y9NSCKECL %= x6c23NL;
+
 break;
 case 'g':
 KW067eh5 <<= S8ncl;
@@ -513,7 +513,7 @@ case 2:
 y__M1Q_ = pGfPVi();
 break;
 case 3:
-E_2hD9sc6 = QRiL32S & SlB2d15SL;
+
 break;
 case 4:
 XpAS++;
@@ -590,7 +590,7 @@ Ew99SX %= 280937788;
 break;
 case 'c':
 case 'C':
-S8ncl = S3G4LNb();
+
 break;
 case 'd':
 case 'D':
@@ -623,7 +623,7 @@ while (j >= 0)
 j--;
 if ((y__M1Q_ >= KW067eh5) && (namZ != 1146924178))
 {
-N029 = Wj6EA5 / 2038230696;
+
 }
 }
 }
@@ -648,7 +648,7 @@ while (i < 9);
 
 if (aC_bl570 >= 1222113482)
 {
-pxyG_s56Z = (short)(Ew99SX);
+
 }
 else if (Zp897 != QRiL32S)
 {
@@ -684,7 +684,7 @@ P4X6Xg1 = (int)abs(jFj2yM7);
 }
 }
 
-B7jod = (short)(QRiL32S + (1786001085));
+
 BZwb_ = S3G4LNb();
 
 for (int i = 9; i >= 0; --i)
@@ -698,7 +698,7 @@ if ((tz2D >= 1306230668) || (y9NSCKECL > -1177224060))
 {
 if (KW067eh5 <= -1902215851)
 {
-B7jod = lLQC8836 - x6c23NL;
+
 }
 else if ((XpAS < 1022319140) || (qoshaXhZ > jFj2yM7))
 {
@@ -743,7 +743,7 @@ Rg3jC = pGfPVi();
 break;
 case 'b':
 case 'B':
-KlN_IFK4uf *= 153728805;
+
 break;
 case 'c':
 case 'C':
@@ -759,7 +759,7 @@ rJxz2 = pGfPVi();
 break;
 case 'f':
 case 'F':
-y__M1Q_ = pGfPVi();
+
 break;
 case 'g':
 case 'G':
@@ -786,7 +786,7 @@ catch (int& errorCode)
 qoshaXhZ = rfS4Xs71I4 * fPM0eRtF;
 }
 
-y__M1Q_ = pGfPVi();
+
 
 Ew99SX = (short)(QRiL32S + (-1076039267));
 {

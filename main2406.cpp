@@ -52,7 +52,7 @@ int main()
  r15W = 1800960781;
  C80Ds6 = -452336255;
  ccRDJQ = 1804921137;
- GbnTKk = -107925766;
+
  S5037x = 100285788;
  RaefDmY = -1448879869;
  h1bG = 1205489414;
@@ -308,7 +308,7 @@ case 1:
 ANr8t06 = o40U * 819526034;
 break;
 case 2:
-oB962P7kAB -= b8a6y;
+
 break;
 case 3:
 TisWYPSJS1 = A1o5VQ2(1771893496, C80Ds6, pi5ildGMA);
@@ -333,7 +333,7 @@ catch (int& errorCode)
 V2N6 += 1008435477;
 }
 
-Zsv_4SCv = (int)floor(KbIL0m5H);
+
 
 PNDT = (float)(BuV36);
 cout << Yf6ON3APc(-1250218475, QtXu, V2N6, q65c, C80Ds6) << K0wdvC << endl;
@@ -348,7 +348,7 @@ int k = 2;
 do
 {
 k--;
-RaefDmY = (int)abs(C80Ds6);
+
 }
 while (k >= 0);
 }

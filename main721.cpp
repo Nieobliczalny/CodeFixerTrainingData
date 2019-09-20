@@ -14,7 +14,7 @@ int main(void) {
     unsigned long    p19V7e;
     p19V7e    =    1476901414;
  unsigned int tn5Y;
- tn5Y = 1243343450;
+
   float  DahF;
   DahF  =  491665329;
  long C2rbcN0;
@@ -24,7 +24,7 @@ int main(void) {
 	unsigned short	UQi4ps9l4;
 	UQi4ps9l4	=	0;
     short    QF_zY8Jd09;
-    QF_zY8Jd09    =    -1229436218;
+
 	unsigned short int	YU1F;
 	YU1F	=	0;
   unsigned long  PkToX9;
@@ -34,7 +34,7 @@ int main(void) {
  long double mclt1;
  mclt1 = -2038513104;
 	unsigned long	FI8k;
-	FI8k	=	-1935930487;
+
 	long long	tDr87;
 	tDr87	=	0;
   char  P6jgVtF6;
@@ -52,7 +52,7 @@ int main(void) {
  int C52651;
  C52651 = -1774601035;
 	unsigned short	G_47u6t9t;
-	G_47u6t9t	=	0;
+
 
 try
 {
@@ -99,7 +99,7 @@ C2rbcN0++;
 
 for (int i = 0; i < 7; i++)
 {
-tn5Y = (unsigned int)(fHH0O18U7);
+
 }
 try
 {
@@ -139,7 +139,7 @@ int i = 1;
 while (i >= 0)
 {
 --i;
-tDr87 = yTa847G6(311268112, 892626229, mclt1, RBWx5, HmKSN00b1N);
+
 }
 }
 if (DahF == -910368609)
@@ -157,7 +157,7 @@ mclt1 = (int)abs(C2rbcN0);
 }
 }
 YU1F = yTa847G6(DahF, 1904285695, -1492825802, -209417469, C52651);
-UQi4ps9l4 = yTa847G6(907992711, 375973751, -437739624, UQi4ps9l4, C2rbcN0);
+
 
 P6jgVtF6 = 1328996688 / RBWx5;
 

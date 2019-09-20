@@ -341,7 +341,7 @@ switch (wE9Y6)
 {
 case 'a':
 case 'A':
-npjkG0wa = k9Twr(npjkG0wa);
+
 break;
 }
 fonZ7L101 = (long long)(F__WK);
@@ -532,7 +532,7 @@ std::cout << FX20_Qs4sv(l_hyo) << FX20_Qs4sv(-800132916) << std::endl;
 }
 else if ((MLWTzBZbJ2 > -602600706) || (MLWTzBZbJ2 <= 418932556))
 {
-Q_733 = (unsigned long long)(c9fZREfZN * Q_733);
+
 }
 else if ((npjkG0wa > -18213145) || (wE9Y6 != 1785672262))
 {
@@ -562,7 +562,7 @@ try
 {
 if (EmIfX)
 {
-sGBNq_mX1 = fonZ7L101 - c9fZREfZN;
+
 }
 }
 catch (int& errorCode)
@@ -576,7 +576,7 @@ for (int i = 1; i >= 0; --i)
 {
 EmIfX <<= VOfN5A;
 }
-jI_B = (unsigned long long)(fonZ7L101 * jI_B);
+
 
 return 0;
 }

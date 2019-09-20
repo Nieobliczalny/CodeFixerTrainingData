@@ -18,7 +18,7 @@ int main(int argc, char** argv)
  unsigned int BD1_ScN;
  BD1_ScN = -1312703069;
     float    JYuPmho;
-    JYuPmho    =    1639274095;
+
     int    OxGGXC9_yD;
     OxGGXC9_yD    =    -1999826419;
  unsigned long tAIle;
@@ -64,7 +64,7 @@ int main(int argc, char** argv)
     char    K1Uu;
     K1Uu    =    -1359791397;
     float    Hj_Y2nkq28;
-    Hj_Y2nkq28    =    1763889050;
+
  short int A2X5ky3M9C;
  A2X5ky3M9C = 0;
     char    BbKP4r;
@@ -84,7 +84,7 @@ int main(int argc, char** argv)
   unsigned long  T_L75cFG;
   T_L75cFG  =  265624607;
  float ymqYfw3nj;
- ymqYfw3nj = 1393784671;
+
   unsigned short  ych2Bm;
   ych2Bm  =  -742729671;
  long GCmX_A72d1;
@@ -99,7 +99,7 @@ int main(int argc, char** argv)
  j912 = 275862561;
 
 OxGGXC9_yD /= 108837858;
-JYuPmho = (int)abs(JiD3_);
+
 
 if (GCmX_A72d1 != -516824556)
 {
@@ -349,7 +349,7 @@ case 0:
 K1Uu--;
 break;
 case 1:
-GW7Q80dd8 = q1Zz | 2144101723;
+
 break;
 case 2:
 z0SZ2In = (int)floor(Q03k);
@@ -453,7 +453,7 @@ case 5:
 z0SZ2In = V99wxoCEa % q1Zz;
 break;
 case 6:
-LaBi1348 = K1Uu - yw9waRcz8v;
+
 break;
 default:
 jk1qKC80 = M87Y - V3ND;
@@ -491,7 +491,7 @@ V99wxoCEa = Q_8BgDvWu * 376634078;
 break;
 case 'e':
 case 'E':
-Wq1J -= A2X5ky3M9C;
+
 break;
 case 'f':
 case 'F':
@@ -536,7 +536,7 @@ case 1:
 z0SZ2In = (int)ceil(Hj_Y2nkq28);
 break;
 case 2:
-ych2Bm ^= 499041649;
+
 break;
 case 3:
 M87Y = T_L75cFG % GCmX_A72d1;
@@ -554,7 +554,7 @@ case 7:
 j912 = fUQb_Ti_QY >> F3ptq;
 break;
 case 8:
-ymqYfw3nj = (int)ceil(JYuPmho);
+
 break;
 case 9:
 Q03k = (int)floor(HyJezset);
@@ -582,7 +582,7 @@ if (kuDQ_52yc <= -325389922)
 {
 try
 {
-ymqYfw3nj = (int)abs(GK3c5c) + (-609361196);
+
 }
 catch (int& errorCode)
 {
@@ -595,7 +595,7 @@ std::cout << "A2w7" << JYuPmho << "Ah3oVvB_e2" << "mlCDj9B6" << std::endl;
 }
 else if (BbKP4r)
 {
-E1__E_3_qm = neOp95 ^ S6Cx;
+
 }
 else if ((WF8I & 151487625) && (K1Uu))
 {
@@ -621,7 +621,7 @@ else if ((Hj_Y2nkq28 <= 548725871) || ((E1__E_3_qm <= 545363554) || (J_cDPpV1i >
 switch (yw9waRcz8v)
 {
 case 0:
-GCmX_A72d1 = V99wxoCEa | WF8I;
+
 break;
 default:
 BbKP4r = (int)abs(gpS3IBa3mR);
@@ -633,7 +633,7 @@ else if (GW7Q80dd8 == -663746568)
 switch (q7T5)
 {
 case 0:
-ymqYfw3nj = (int)ceil(Hj_Y2nkq28);
+
 break;
 case 1:
 OxGGXC9_yD *= 1818227083;
@@ -652,7 +652,7 @@ if (j912 == -383006468)
 {
 if (gpS3IBa3mR > M87Y)
 {
-Q03k = (int)floor(JiD3_);
+
 }
 }
 else if ((GW7Q80dd8 & 289287308) && (BD1_ScN < 1315728367))
@@ -666,7 +666,7 @@ else
 {
 if (j912 > OxGGXC9_yD)
 {
-YZ_2Sl = (int)ceil(JiD3_);
+
 }
 }
 }

@@ -248,7 +248,7 @@ case 'f':
 wlz3tO = xx6c / a_8Ixu;
 break;
 case 'g':
-PF9Qa = EX_shg2V(PF9Qa);
+
 break;
 case 'h':
 wlz3tO = xm38Z220F1(2129319762) + PF9Qa;
@@ -384,7 +384,7 @@ case 'a':
 eWsjt7K6_G = xm38Z220F1(-1325172275);
 break;
 case 'b':
-P2trU1C = P2trU1C & B5Ad2_w;
+
 break;
 case 'c':
 ee65 = (int)abs(PF9Qa) * 0;
@@ -396,7 +396,7 @@ case 'e':
 P2trU1C -= a_8Ixu;
 break;
 case 'f':
-P2trU1C = a_8Ixu + 1631949922;
+
 break;
 case 'g':
 wlz3tO = Xxn5Z__R7(wlz3tO, a_8Ixu, ee65, eWsjt7K6_G);
@@ -421,7 +421,7 @@ wlz3tO *= ee65;
 }
 }
 
-a_8Ixu = (double)(eWsjt7K6_G + (-1741617722));
+
 cout << wlz3tO << xx6c << xx6c << xm38Z220F1(eWsjt7K6_G) << EX_shg2V(eWsjt7K6_G) << endl;
 return 0;
 }

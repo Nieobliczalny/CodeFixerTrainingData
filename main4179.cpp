@@ -29,7 +29,7 @@ int main(void)
 	char	we1Kw;
 	we1Kw	=	0;
 	short int	behL;
-	behL	=	2103809108;
+
   unsigned int  R63VN_5gFt;
   R63VN_5gFt  =  1047223987;
     unsigned short    U0ha0AX_;
@@ -178,7 +178,7 @@ while (j < 7);
 }
 else if (B4Ny9s)
 {
-oahx1c = l_nvG(-27890823, behL, B4Ny9s, I_91m1_QS_, 1135058331);
+
 }
 else
 {
@@ -220,7 +220,7 @@ I_91m1_QS_ %= B4Ny9s;
 }
 else
 {
-we1Kw = ETwy7j(1764422738, we1Kw, 1171073964);
+
 }
 }
 else

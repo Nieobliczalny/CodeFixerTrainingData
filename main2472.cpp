@@ -107,7 +107,7 @@ cout << D2lTU90dPL << "x0htH" << "LEN11ne8_" << endl;
 
 try
 {
-W3v8k36zQ = K8njRd();
+
 }
 catch (int& errorCode)
 {
@@ -136,7 +136,7 @@ Amo03WE_99 = jcmi4YvuE >> Z_m08;
 }
 }
 }
-vIbBjwg = Btd3l91oS(a2yH_SQyy2, VDbV0R) / qmx6_u1x_;
+
 return 0;
 }
 

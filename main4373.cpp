@@ -29,7 +29,7 @@ switch (C048p)
 {
 case 'a':
 case 'A':
-iawACcU9 = E7xTbGrbEZ(ObvY4a, 458504244);
+
 break;
 case 'b':
 case 'B':
@@ -49,7 +49,7 @@ fX896wFc7 = E7xTbGrbEZ(p9FFOamK8, h4_Xv) / eUG6Z9;
 break;
 case 'f':
 case 'F':
-kvFg9 = WIwnjk0xh(kvFg9);
+
 break;
 case 'g':
 case 'G':
@@ -61,7 +61,7 @@ iawACcU9 = E7xTbGrbEZ(1875939932, -1120568318);
 break;
 case 'i':
 case 'I':
-iawACcU9 = E7xTbGrbEZ(dM2sG97, -198170907);
+
 break;
 }
 
@@ -104,7 +104,7 @@ MpSK37 = A3QN7wB2f9(MpSK37, gW52_9a3, E_0VgncYd, p9FFOamK8, xhJVb);
 }
 else if (((RsG2 <= -432781353) && (ObvY4a >= -956491701)) || ((OHLGG > lHX78y) || (vE2dm_tdQd != fX896wFc7)))
 {
-N_w88 = WIwnjk0xh(N_w88);
+
 }
 else
 {
@@ -115,7 +115,7 @@ else
 {
 try
 {
-iawACcU9 = E7xTbGrbEZ(DQ6Wlp0MH, LvR9K);
+
 }
 catch (int& errorCode)
 {
@@ -137,7 +137,7 @@ switch (voGx590s)
 {
 case 'a':
 case 'A':
-DQ6Wlp0MH = WIwnjk0xh(1908926084);
+
 break;
 default:
 C048p = WIwnjk0xh(C048p);
@@ -169,7 +169,7 @@ case 1:
 kF73_ /= V7qCZJASR9;
 break;
 case 2:
-jpINUNgy = fX896wFc7 / 1568699054;
+
 break;
 case 3:
 fSMlYSqh = A3QN7wB2f9(1767874382, -949788558, ObvY4a, -173497796, l41H7bkrY9);
@@ -202,7 +202,7 @@ lHX78y = WIwnjk0xh(lHX78y);
 }
 else if (R7q693u72I >= dM2sG97)
 {
-ZWHvw594 = g94h / h1hA_;
+
 }
 else if (iawACcU9)
 {
@@ -218,7 +218,7 @@ lHX78y = A3QN7wB2f9(1141488295, 175529374, -1732250754, -750453860, BU8Y9);
 }
 else
 {
-iawACcU9 = E7xTbGrbEZ(lHX78y, -1642672266);
+
 }
 }
 }
@@ -228,7 +228,7 @@ std::cout << eUG6Z9 << "Z7m063" << E7xTbGrbEZ(lHX78y, -283170056) << std::endl;
 }
 else if ((N_w88 != 663531323) && ((fX896wFc7 < -351331553) && (k_Rmr != 348857805)))
 {
-iawACcU9 = E7xTbGrbEZ(362886335, OHLGG);
+
 }
 else
 {
@@ -256,7 +256,7 @@ while (j < 2)
 ++j;
 if ((XhJCH9wLl & -1638032829) || (R7q693u72I <= OHLGG))
 {
-r_f0K0 = A3QN7wB2f9(498081464, whvII, -567589762, t8_nhW, gDP3H_D3B9);
+
 }
 else if (U5o8 == 1611677834)
 {
@@ -282,7 +282,7 @@ i--;
 
 std::cout << A3QN7wB2f9(lHX78y, g94h, -257980660, MpSK37, -1125739812) << "unM_U" << std::endl;
 
-fSMlYSqh = (unsigned short)(cZW3);
+
 return 0;
 }
 

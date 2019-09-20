@@ -110,7 +110,7 @@ K5zKn0_h7 = (unsigned long long)(l__f_02CZG);
 switch (V2GYtPC6Eo)
 {
 case 0:
-K5zKn0_h7 = F3jvd_Jbt(K5zKn0_h7, l__f_02CZG, 2095639550, M6Ra, 1865145321);
+
 break;
 case 1:
 e2sO = F3jvd_Jbt(e2sO, M6Ra, 444648131, -2017293732, 1913622706);
@@ -122,7 +122,7 @@ case 3:
 K5zKn0_h7 /= M6Ra;
 break;
 case 4:
-YKUgj_ = F3jvd_Jbt(1228392976, b6hw1AWoO, uEJV3k, K5zKn0_h7, ZNnFu);
+
 break;
 }
 

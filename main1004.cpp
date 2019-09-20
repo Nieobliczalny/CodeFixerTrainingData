@@ -94,7 +94,7 @@ int main() {
 	short int	TIZ1EC;
 	TIZ1EC	=	1468241688;
 	short	p7uXq5FmYE;
-	p7uXq5FmYE	=	0;
+
 	unsigned char	TKfOJ649zQ;
 	TKfOJ649zQ	=	2086229167;
   unsigned short  KPL7;
@@ -118,7 +118,7 @@ int main() {
 	unsigned long long	f1fr;
 	f1fr	=	32766891;
  unsigned long cC5S00yzlQ;
- cC5S00yzlQ = 1471600837;
+
  unsigned long lz7_;
  lz7_ = -332220407;
 	long	nv2a21;
@@ -246,7 +246,7 @@ f1CSjP0 = d4g1(J7c4F5P8, -1015717221, lz7_, A8K3hh7, 1693273469) - Ji_6g;
 break;
 case 'b':
 case 'B':
-p7uXq5FmYE = (int)abs(VTg3v7_3r) * 0;
+
 break;
 case 'c':
 case 'C':
@@ -350,7 +350,7 @@ LZ_i4zJ = N2YO7 >> eVZt_Z;
 switch (f81Q)
 {
 case 'a':
-JXFtn0NM8 %= xbyGpG57D9;
+
 break;
 case 'b':
 D_auJyUy = (int)ceil(Ir94Qz3w);
@@ -398,7 +398,7 @@ case 'd':
 X0_7 = (int)abs(wo00M06x59);
 break;
 case 'e':
-Vo9o5Jm = (int)abs(LZ_i4zJ);
+
 break;
 case 'f':
 LZ_i4zJ <<= 1377989202;
@@ -419,7 +419,7 @@ try
 {
 if ((mKOM == Ss9cQIGh) || (miYT6V == -1999924128))
 {
-dYMk_a_WF = (int)floor(dAYA6l);
+
 }
 }
 catch (int& errorCode)
@@ -430,7 +430,7 @@ f1CSjP0 >>= 86277957;
 cout << "A2oZdNLr_" << endl;
 
 JXFtn0NM8 = v7_0(-1396270538, wo00M06x59, KPL7, nv2a21, f1fr);
-dYMk_a_WF = GUxpfGVp(JXFtn0NM8, 396933136, -1178383453, nv2a21) / GUxpfGVp(JXFtn0NM8, 1060449952, KPL7, -1588515854);
+
 for (int i = 8; i >= 0; --i)
 {
 Z0R19Rv = y8O7i4 % TKfOJ649zQ;
@@ -441,7 +441,7 @@ int i = 0;
 while (i < 6)
 {
 ++i;
-f1fr = (unsigned long long)(dzOFh0s87);
+
 }
 }
 if (((VLVB66 >= eg47hotm) && (KLCNlH43 <= 1951078200)) || ((lz7_ == eVZt_Z) || (f81Q <= KPL7)))
@@ -463,7 +463,7 @@ else
 switch (UpdFs)
 {
 case 0:
-y8O7i4 = BgjM(y8O7i4, 1303843866, 1899380898);
+
 break;
 case 1:
 TIZ1EC = lz7_ % 1400290748;
@@ -516,7 +516,7 @@ while (i >= 0)
 {
 if ((kp8w & -1913923594) || (dzOFh0s87 == -2139809564))
 {
-y8O7i4 = (unsigned short)(T1_vG1m0eP);
+
 }
 else
 {
@@ -538,7 +538,7 @@ j6XUNS309W = (float)(SR7S);
 
 for (int i = 0; i < 7; ++i)
 {
-I6Uja = v7_0(-1475062960, 393856238, 1710752361, KPL7, J8hnlU1KI);
+
 }
 f1fr = (unsigned long long)(eG3M63e);
 
@@ -592,7 +592,7 @@ else
 {
 if (dYMk_a_WF == z2xxo8H)
 {
-UpdFs = GUxpfGVp(f81Q, 1999373463, -1472589631, 877476976);
+
 }
 }
 }
@@ -621,7 +621,7 @@ j6XUNS309W *= KPL7;
 while (j >= 0);
 }
 }
-TIZ1EC = (short int)(p3XDhq);
+
 xbyGpG57D9 = (char)(p3XDhq);
 return 0;
 }

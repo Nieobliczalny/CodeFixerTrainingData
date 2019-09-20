@@ -31,7 +31,7 @@ int main()
   J8Asr0I5_x  =  993237573;
   Xw4x9p1WL  =  897154695;
   XNT8Qbx5  =  1564892549;
-  Hs429r  =  728582971;
+
   WY8u44ZxC7  =  973172463;
   ZBp6y  =  -187494741;
   mBQN_s0A3  =  -1847200788;
@@ -243,7 +243,7 @@ if (SGyCp6 & PNB10)
 {
 try
 {
-D75el_ = (float)(x92t);
+
 }
 catch (int& errorCode)
 {
@@ -315,7 +315,7 @@ int k = 4;
 do
 {
 k--;
-s5ndRkZsb = (XNT8Qbx5 != o3IRJ) ? -1878099718 : Xw4x9p1WL;
+
 }
 while (k >= 0);
 }

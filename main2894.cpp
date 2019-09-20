@@ -46,7 +46,7 @@ int main() {
  wlM4O = 1444075751;
  TpU7_ = -569839781;
  jN1wVC_z9 = -1104563389;
- znC1DUi_o = 122071567;
+
  l__i8H2 = 1048659969;
  C27G8 = -234869195;
  W3jocC = -1197500988;
@@ -61,7 +61,7 @@ int main() {
  Rz58 = 2141973897;
  OzWZ8 = -292310299;
  SHcGR3 = 234906239;
- f0qvyrAE = -1518579475;
+
  w0S_6F = -1412650344;
  T9uF_5F = -1291142763;
  w2__Hi7SI9 = -1339355554;
@@ -176,7 +176,7 @@ switch (jN1wVC_z9)
 {
 case 'a':
 case 'A':
-w8p1 *= TpU7_;
+
 break;
 case 'b':
 case 'B':
@@ -200,7 +200,7 @@ JvQLPpH >>= 1446607277;
 break;
 case 'g':
 case 'G':
-rb74D0J = DcsSaf2H8v(F0YKD98g3, w8p1, 2005447322, -1803908083, -1608149969);
+
 break;
 case 'h':
 case 'H':
@@ -245,7 +245,7 @@ TaKVx1T_Y = S50iQn1(1328787902, TOCx);
 }
 else if (e74j != -521557786)
 {
-Y7XK_ybP = (unsigned int)(TOCx);
+
 }
 else if (((m3XXe0_5a == C27G8) || (f0qvyrAE > j91qvHuO)) && (kwPHcdo0c6 & 1716594410))
 {
@@ -275,7 +275,7 @@ l1n106_Y1 = TaKVx1T_Y + iHPG2;
 }
 else if ((j91qvHuO < 1565969671) || ((a72T9m31A_ >= e74j) || (F0YKD98g3 != Y7XK_ybP)))
 {
-RyO69X5qp_ = Y16_5b0(2111246637, pJHlEcu7TY, 602314132, LFbCKddQCD);
+
 }
 else if (((rb74D0J & LFbCKddQCD) || (Dv7V6j5 >= -1622142137)) && (W3jocC >= -2087249337))
 {
@@ -298,7 +298,7 @@ std::cout << Y16_5b0(m3XXe0_5a, -1140486192, -899131573, 75104769) << XuCaluE10 
 }
 else
 {
-l__i8H2 = aDR7X9EX90(1778201652);
+
 }
 }
 
@@ -329,7 +329,7 @@ w2__Hi7SI9 = Cb817K(w2__Hi7SI9, C27G8, a72T9m31A_, P9j3Hv5HzF, 916883560);
 }
 }
 
-v6z6h = Y16_5b0(993389895, w2__Hi7SI9, m3XXe0_5a, -1166357319);
+
 
 H5kXo9do = (unsigned int)(wlM4O);
 
@@ -350,7 +350,7 @@ try
 int j = 8;
 do
 {
-znC1DUi_o = (unsigned int)(kwPHcdo0c6);
+
 --j;
 }
 while (j >= 0);
@@ -360,7 +360,7 @@ catch (int& errorCode)
 {
 Dv7V6j5 = Cb817K(1041427955, l1n106_Y1, 997607876, GAXJ, 78175338);
 }
-RyO69X5qp_ = j91qvHuO | f0qvyrAE;
+
 if (P9j3Hv5HzF != wlM4O)
 {
 if (iHPG2 == -627571250)
@@ -400,7 +400,7 @@ else
 switch (e4Tg6)
 {
 case 'a':
-t6HYZ8C = LFbCKddQCD * H5kXo9do;
+
 break;
 case 'b':
 fm2wAeL2N <<= LFbCKddQCD;

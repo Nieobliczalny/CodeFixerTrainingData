@@ -487,7 +487,7 @@ while (j >= 0)
 {
 for (int k = 0; k < 9; ++k)
 {
-c05nT = W08r8(Mi3W_fj);
+
 }
 --j;
 }

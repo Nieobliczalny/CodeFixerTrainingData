@@ -503,7 +503,7 @@ ngwaQU6DEH = UGu9R179_h % JyXnBJ;
 }
 else if (((vo6y2Y == 568764484) && (L13o0202DB)) || ((UGu9R179_h) && (JyXnBJ == L13o0202DB)))
 {
-JyXnBJ = Q09eO0GKZ4 / 1570129325;
+
 }
 else
 {
@@ -553,7 +553,7 @@ case 3:
 vo6y2Y = (int)abs(Gi8Hr8);
 break;
 case 4:
-JyXnBJ %= 1005992570;
+
 break;
 }
 }
@@ -589,7 +589,7 @@ L13o0202DB = vo6y2Y ^ 2089512756;
 --i;
 }
 }
-vo6y2Y = XJ2k1B16(L13o0202DB);
+
 
 return 0;
 }

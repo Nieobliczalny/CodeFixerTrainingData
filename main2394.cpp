@@ -43,7 +43,7 @@ int main(void)
 	char	Optx8wYwmV;
 	Optx8wYwmV	=	-460309512;
 	long double	tL08PLH3;
-	tL08PLH3	=	-199028048;
+
   long long  gr7eVN;
   gr7eVN  =  402279932;
  unsigned long X4482x;
@@ -79,7 +79,7 @@ for (int j = 0; j < 6; ++j)
 {
 for (int k = 5; k >= 0; --k)
 {
-PZU_D = Pe2n(-563619630, h5Lkx, 660162320, 528597098, 162993440);
+
 }
 }
 }
@@ -95,7 +95,7 @@ cout << Pe2n(Z64y0R, h5Lkx, -588198708, 1534453386, JzWtAB) << "P4VWC" << X4482x
 }
 else if (y7SR4Zjx == doG3HurV)
 {
-PZU_D = Pe2n(O_i01gaFS, -127716476, 223985782, 282027514, 1355714662);
+
 }
 else
 {
@@ -125,7 +125,7 @@ else
 switch (paEZh)
 {
 case 'a':
-PZU_D = Pe2n(-1344861209, UH6M1c, BTg_crHf, -142972930, ouH5_ZU);
+
 break;
 case 'b':
 cpNRt = (int)floor(s7lJ8E0s);
@@ -137,7 +137,7 @@ case 'd':
 PZU_D = Pe2n(-1012805019, 1457287023, B9VAzgE, 563352911, 318637805);
 break;
 case 'e':
-PZU_D = Pe2n(-1227248138, u9066SeB45, 1226371962, -1387625177, 602202353);
+
 break;
 case 'f':
 Optx8wYwmV--;
@@ -152,7 +152,7 @@ break;
 }
 cout << gr7eVN << gr7eVN << O_i01gaFS << "f6F70" << "o8h8" << endl;
 
-PZU_D = Pe2n(847865778, 1665146686, O_i01gaFS, gr7eVN, cpNRt);
+
 
 PZU_D = Pe2n(paEZh, hBo9EL, -755989196, i1VLb69, -77527764);
 
@@ -229,7 +229,7 @@ switch (i1VLb69)
 {
 case 'a':
 case 'A':
-B9VAzgE = isUNGx1c4w * 731855319;
+
 break;
 default:
 PZU_D = Pe2n(-1805030530, fETSNZksO4, 572886565, 139676688, isUNGx1c4w);
@@ -267,7 +267,7 @@ if (s7lJ8E0s)
 {
 if (O_i01gaFS >= isUNGx1c4w)
 {
-fETSNZksO4 = (int)abs(k_21sKat);
+
 }
 else
 {
@@ -315,7 +315,7 @@ VH9RY4wnZ >>= 1674700877;
 }
 else
 {
-tL08PLH3 = (int)abs(gr7eVN);
+
 }
 }
 }
@@ -327,7 +327,7 @@ int i = 9;
 while (i >= 0)
 {
 --i;
-PZU_D = Pe2n(189876270, hBo9EL, paEZh, 1905534943, JzWtAB);
+
 }
 }
 

@@ -25,7 +25,7 @@ unsigned long  DHnN()  {
 int main(void)
 {
   char  ao4C3DcZP;
-  ao4C3DcZP  =  0;
+
 	unsigned long	mPntL5;
 	mPntL5	=	-723681019;
     unsigned int    uE0Cy;
@@ -39,7 +39,7 @@ int main(void)
 	unsigned long	Zwv35l_;
 	Zwv35l_	=	1457656888;
   long double  KFhNtD;
-  KFhNtD  =  1480266658;
+
     unsigned long long    e42y;
     e42y    =    -1128100661;
  short int dZor;
@@ -51,7 +51,7 @@ int main(void)
 	double	s_4IqbZ5;
 	s_4IqbZ5	=	-1603800893;
     long long    f0rW;
-    f0rW    =    -536151486;
+
     char    x5TiRu_;
     x5TiRu_    =    0;
   short  tvAzf8Rk2;
@@ -61,7 +61,7 @@ int main(void)
     unsigned long    T3oi0j9k;
     T3oi0j9k    =    -446609656;
  float gJWp84l;
- gJWp84l = -1587282051;
+
   unsigned long  YR8__m;
   YR8__m  =  154704007;
 	long long	jFM4z82r3y;
@@ -73,7 +73,7 @@ int main(void)
   long long  pq8p_IAe6L;
   pq8p_IAe6L  =  1952260726;
   int  iT3D3T_C;
-  iT3D3T_C  =  295510941;
+
 	unsigned short	j00d;
 	j00d	=	-1108857532;
     long long    bVMHTRH_K;
@@ -83,7 +83,7 @@ int main(void)
  unsigned long long oH1x0jf;
  oH1x0jf = 0;
     short    lnBgMP5kh;
-    lnBgMP5kh    =    1396837934;
+
 	unsigned short int	ZC4s9V;
 	ZC4s9V	=	-749582402;
  long double oD_1SBx7n;
@@ -95,7 +95,7 @@ int main(void)
   unsigned long long  d3O7B;
   d3O7B  =  -1429767849;
   short  e__o;
-  e__o  =  -284552853;
+
 	char	Y05f2BY4Sh;
 	Y05f2BY4Sh	=	93594965;
     short int    Ruj_Ny;
@@ -130,7 +130,7 @@ switch (n_6M92)
 {
 case 'a':
 case 'A':
-gJWp84l = (int)ceil(s_4IqbZ5);
+
 break;
 case 'b':
 case 'B':
@@ -142,7 +142,7 @@ tvAzf8Rk2--;
 break;
 case 'd':
 case 'D':
-x5TiRu_ = Jj60H(dZor, 1285291362, 616352125);
+
 break;
 case 'e':
 case 'E':

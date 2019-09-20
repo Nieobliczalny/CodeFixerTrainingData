@@ -119,7 +119,7 @@ X46ur2hKf--;
 }
 else if (X46ur2hKf <= ay_fo_GlX)
 {
-WjA27i584_ = JAQ0Pe(-77324664, -177124263);
+
 }
 else
 {
@@ -264,7 +264,7 @@ case 4:
 GHJgC = v_JoSF2 | P32X3nN;
 break;
 case 5:
-WjA27i584_ = JAQ0Pe(zSX55, P6g99RyM);
+
 break;
 case 6:
 i55qva_0 = Mkt51V8204(zSX55, P6g99RyM) + ay_fo_GlX;
@@ -295,7 +295,7 @@ else if (GHJgC >= -1251195769)
 int k = 1;
 while (k >= 0)
 {
-S062QxwCZ = (int)abs(NicCxnn) * 0;
+
 k--;
 }
 }
@@ -308,7 +308,7 @@ else
 {
 for (int k = 0; k < 3; ++k)
 {
-S062QxwCZ = JAQ0Pe(1260927289, 1771208275);
+
 }
 }
 }
@@ -340,7 +340,7 @@ GHJgC = (unsigned char)(ay_fo_GlX);
 
 if (X46ur2hKf)
 {
-zSX55 = (short)(Wd43zmn2V6);
+
 }
 
 v_JoSF2 = P_M1B16fKs();
@@ -358,7 +358,7 @@ cout << v_JoSF2 << RZ1G_(v_JoSF2, -402433860, -1669598504) << gk6LU(v_JoSF2, 198
 switch (Fq7iSXc4t)
 {
 case 0:
-WjA27i584_ = JAQ0Pe(1457829899, -132525298);
+
 break;
 case 1:
 X46ur2hKf = P_M1B16fKs();

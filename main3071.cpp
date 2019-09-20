@@ -36,7 +36,7 @@ int main(int argc, char** argv)
   VwwaU  =  -1392544213;
   r3lRh4ZTS  =  649990031;
   EojyvNK_13  =  1724560440;
-  L0lfnI7L  =  911864808;
+
   w1nIh30  =  -1363658419;
   o0Ia  =  959962457;
   BtpPN  =  -126935812;
@@ -55,7 +55,7 @@ int main(int argc, char** argv)
   a_39G56Gv  =  9486360;
   jZ8vb  =  2019309086;
   Sje4b_5  =  -33941217;
-  yE70t_82FD  =  1633910081;
+
   THUqUQ  =  364921204;
   rXnO  =  635270318;
   o3Af  =  -315890961;
@@ -73,7 +73,7 @@ do
 {
 for (int j = 0; j < 1; ++j)
 {
-rXnO = (int)floor(VwwaU);
+
 }
 ++i;
 }
@@ -192,7 +192,7 @@ Sje4b_5 = -910872923 / obQZO;
 switch (WY9_1Lc68)
 {
 case 'a':
-GrLK = (jZ8vb > Y6u_TV) ? WY9_1Lc68 : THUqUQ;
+
 break;
 case 'b':
 yE70t_82FD = THUqUQ * 663158446;
@@ -226,7 +226,7 @@ case 0:
 o0Ia = Qcb3xxY48R() % 255241895;
 break;
 case 1:
-a_39G56Gv = EojyvNK_13 - o3Af;
+
 break;
 default:
 o3Af = I9Qf8uhs(-148923926, cfuJp, 2138700384, 510090074);
@@ -249,7 +249,7 @@ case 1:
 o0Ia *= 1759654050;
 break;
 case 2:
-I3bm_R5 = I9Qf8uhs(-187510631, -1251996945, -582708036, cCryZ);
+
 break;
 default:
 o3Af = (int)floor(v4Ex10zGO5);
@@ -278,7 +278,7 @@ cout << VwwaU << KryDdEm(uk16O1, Y6u_TV, -703823270, ZGw0JZGUQ, 1648969674) << I
 
 try
 {
-TTPIxZ = (int)abs(cCryZ) * 0;
+
 }
 catch (int& errorCode)
 {

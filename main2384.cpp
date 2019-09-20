@@ -106,7 +106,7 @@ H_7lti0Ab = (int)ceil(ANhHOozWuJ);
 switch (ussM9Vf)
 {
 case 0:
-yFkL = TFyXl();
+
 break;
 case 1:
 UxqY_2A = kGoVc7(2020780027, H_7lti0Ab);
@@ -121,7 +121,7 @@ case 4:
 ussM9Vf = gQ86s66();
 break;
 case 5:
-yFkL = ussM9Vf | Fu46j5Sb;
+
 break;
 case 6:
 z1g4_zY9z = kGoVc7(n9PF9G7J, -2026061153);
@@ -223,7 +223,7 @@ switch (BqT_)
 {
 case 'a':
 case 'A':
-RdFLST_5X8 = TFyXl();
+
 break;
 case 'b':
 case 'B':
@@ -239,7 +239,7 @@ tG1AWs0o6_ = fWHde(-1105698016, 1138350060, -1014989040);
 break;
 case 'e':
 case 'E':
-Y598Ho_8 = (int)ceil(U2y1m);
+
 break;
 default:
 RdFLST_5X8 = TFyXl();
@@ -249,7 +249,7 @@ break;
 UxqY_2A -= pE6s;
 
 Y598Ho_8 = (int)ceil(J53_v1W8N);
-Y598Ho_8 = TFyXl();
+
 std::cout << gQ86s66() << std::endl;
 return 0;
 }

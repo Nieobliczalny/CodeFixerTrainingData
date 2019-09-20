@@ -32,7 +32,8 @@ char QTlLxK88(unsigned char CQQfK) {
 
 int main() {
     long    f29gJ2U9,    lA6y0I_3G,    I3rovatx9J,    M4Ewwe5R;
-        f29gJ2U9    =    lA6y0I_3G    =    I3rovatx9J    =    M4Ewwe5R    =    0;
+        // codechecker_intentional [deadcode.DeadStores] Design rule - initialize all variables
+		f29gJ2U9    =    lA6y0I_3G    =    I3rovatx9J    =    M4Ewwe5R    =    0;
  int Ws77W8bSb, Jn_2, u_Vr9, g70LwSS0, X7Ok, P8LbP, rIR50s2L, q_185, Zh9_m, V0VXC10_m, g9z4o5kVIj, kME_8czD, s7814H, w_wv79, g4tdY_Au, BC7Nf, MUmoisy, XeHL, i760uSGAT, X4O0npW94k, zRzzAiz56, R296xmps6, bXYxwe1, Glp7_, h8UN1dbX34, G834c3u6, M21B_NG, b3h4q, Xl36dh3lw, kW4tmgk, ECs0Gy27, BKYs_md, W643KjY5, cP10adfr0, dQSixE, gU734, pLB3_1DR_w, o5m9ED, vcQmgaa, h9zsz380u0, YNVph_kAc, HGDo7, w2326D, C5S469, smddl0, j9b5R9I_x, fnH7c1ojkC, boH636VO_o, HgTTE, Q7UDr6Anl, BYr765_5, ha8N7vCU, xiFK6f567, De2R6, vmC1B8Q, SChv3k5Yq, k70yNRut5c, Ff65W2K6kP, Gh8udj0zD4, nl8Vkq015, Kl756hE9j4, lt04x_QE0h, M_SiTu, FXHt5, X94K, Z92m0Y, P0A7_PX1Ms, K38wj6, kHc_2_, Jj944, Q68lbw7, vl98802sTZ, xX3GC0kf, sSj1wB, QTSb_Xhe, o4g1qFA3Z, vv4T67kR, lYP_2u, NYn6601k, lrj_kKc;
   Ws77W8bSb = Jn_2 = u_Vr9 = g70LwSS0 = X7Ok = P8LbP = rIR50s2L = q_185 = Zh9_m = V0VXC10_m = g9z4o5kVIj = kME_8czD = s7814H = w_wv79 = g4tdY_Au = BC7Nf = MUmoisy = XeHL = i760uSGAT = X4O0npW94k = zRzzAiz56 = R296xmps6 = bXYxwe1 = Glp7_ = h8UN1dbX34 = G834c3u6 = M21B_NG = b3h4q = Xl36dh3lw = kW4tmgk = ECs0Gy27 = BKYs_md = W643KjY5 = cP10adfr0 = dQSixE = gU734 = pLB3_1DR_w = o5m9ED = vcQmgaa = h9zsz380u0 = YNVph_kAc = HGDo7 = w2326D = C5S469 = smddl0 = j9b5R9I_x = fnH7c1ojkC = boH636VO_o = HgTTE = Q7UDr6Anl = BYr765_5 = ha8N7vCU = xiFK6f567 = De2R6 = vmC1B8Q = SChv3k5Yq = k70yNRut5c = Ff65W2K6kP = Gh8udj0zD4 = nl8Vkq015 = Kl756hE9j4 = lt04x_QE0h = M_SiTu = FXHt5 = X94K = Z92m0Y = P0A7_PX1Ms = K38wj6 = kHc_2_ = Jj944 = Q68lbw7 = vl98802sTZ = xX3GC0kf = sSj1wB = QTSb_Xhe = o4g1qFA3Z = vv4T67kR = lYP_2u = NYn6601k = lrj_kKc = 1805770429;
 

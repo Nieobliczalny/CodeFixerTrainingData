@@ -94,7 +94,7 @@ case 1:
 UkYOi -= B2I9894ekj;
 break;
 case 2:
-sHe6 *= 1505148000;
+
 break;
 }
 }
@@ -330,7 +330,7 @@ E3889_4oE = (int)abs(xY85d8);
 break;
 case 'b':
 case 'B':
-Va8QI1 = (int)floor(Askc0wD1Y);
+
 break;
 default:
 EP73Kb1 = (int)abs(mQC5XzB);
@@ -459,7 +459,7 @@ try
 int k = 0;
 while (k < 3)
 {
-Iq_61 = (int)ceil(EP73Kb1);
+
 k++;
 }
 }
@@ -479,7 +479,7 @@ try
 switch (Vi5Vc)
 {
 case 'a':
-B2I9894ekj = (int)floor(xY85d8);
+
 break;
 case 'b':
 V74do7 = (int)ceil(UL5Ph8b5d);

@@ -626,7 +626,7 @@ case 2:
 zMm_26CN_i = vPk3xAevrg ^ 1041132479;
 break;
 case 3:
-TR12 = zDHi1ng5P5 % zMm_26CN_i;
+
 break;
 case 4:
 e8p4w = UO_150ZX * 532606541;
@@ -657,7 +657,7 @@ case 0:
 p0mQrrV_0E &= zMm_26CN_i;
 break;
 case 1:
-QkCsboL5 &= UslB;
+
 break;
 case 2:
 EoJ0 = cFyZ ^ O759p2Q328;
@@ -688,7 +688,7 @@ if (pbw8 >= S66wkHm8)
 {
 for (int k = 3; k >= 0; k--)
 {
-qo7Z = vPk3xAevrg << O_4UH;
+
 }
 }
 else if (((xNYwBks79d > -1308127059) || (krGfHUN1 > -1561519475)) || ((G38kE_C <= -1449185260) && (x9AmH8x == 504656602)))
@@ -736,7 +736,7 @@ qGC4M >>= vv4S_zZ;
 while (i < 7);
 }
 
-VlmZfR2oQU = zc8Vp | MW0Z;
+
 try
 {
 cCI_85Bj ^= IN_B5RC;
@@ -751,7 +751,7 @@ switch (HIi1yNqj)
 {
 case 'a':
 case 'A':
-vv4S_zZ /= 1687151084;
+
 break;
 case 'b':
 case 'B':
@@ -767,7 +767,7 @@ M3gsjUU3R = O_4UH * 1950827068;
 break;
 case 'e':
 case 'E':
-zDHi1ng5P5 = vPk3xAevrg % vv4S_zZ;
+
 break;
 case 'f':
 case 'F':
@@ -791,7 +791,7 @@ int k = 0;
 while (k < 10)
 {
 ++k;
-A4NS02 = strS__v4 ^ pbw8;
+
 }
 }
 }
@@ -810,7 +810,7 @@ cout << EoJ0 << "kOUIv" << vPk3xAevrg << endl;
 }
 }
 
-TR12 = p0mQrrV_0E * 1841437911;
+
 
 switch (KTT5C)
 {
@@ -821,7 +821,7 @@ case 'b':
 S66wkHm8 &= 641738361;
 break;
 case 'c':
-e8p4w -= 246059307;
+
 break;
 case 'd':
 xNYwBks79d = e4qSS * xT_cRp;
@@ -842,7 +842,7 @@ j++;
 int k = 10;
 do
 {
-w4UTE79Ao = M3gsjUU3R | UslB;
+
 --k;
 }
 while (k >= 0);

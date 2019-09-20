@@ -122,7 +122,7 @@ int i = 9;
 while (i >= 0)
 {
 --i;
-Z_R_GPxHR = UTSE(api3K2lB, c68T6p0E00) + 801912451;
+
 }
 }
 
@@ -141,7 +141,7 @@ std::cout << UTSE(r_3U8U0, C21IN0) << h9bg << HkeyXwrR << N17Wvn_ << std::endl;
 }
 }
 }
-C21IN0 = (unsigned short)(F_1_Fi);
+
 
 if ((api3K2lB != o17V54O0) || (dnoe <= 1808306519))
 {
@@ -177,7 +177,7 @@ else if (h7mj <= Q9qXF15Z9)
 {
 for (int j = 0; j < 5; ++j)
 {
-o17V54O0 = (int)abs(M3hhy);
+
 }
 }
 else if (BfPK <= mHSnH)
@@ -192,7 +192,7 @@ case 0:
 Q9qXF15Z9 = UTSE(-2117984174, lgNlm4iPt);
 break;
 case 1:
-o17V54O0 = UTSE(M6CvnYJS, -1628739110);
+
 break;
 case 2:
 Q9qXF15Z9 = UTSE(api3K2lB, -1469586529);
@@ -207,7 +207,7 @@ case 5:
 kP6ne1e4 = A0OX6kGQz >> BfPK;
 break;
 case 6:
-Z9UKpn51 = pO30ce >> F_1_Fi;
+
 break;
 default:
 B6go /= 2052753240;
@@ -219,7 +219,7 @@ else
 o17V54O0 = UTSE(1867497346, xIf1);
 }
 
-Z9UKpn51 = (unsigned short)(xIf1);
+
 
 IQBuR = h9bg & 1325849756;
 
@@ -261,7 +261,7 @@ TQyRy = (int)abs(Q9qXF15Z9);
 switch (yYq9XZta_c)
 {
 case 0:
-N17Wvn_ = QM6_ ^ lgNlm4iPt;
+
 break;
 case 1:
 Q9qXF15Z9 = UTSE(MFtlnWAq, Y6g_kLo);
@@ -273,7 +273,7 @@ case 3:
 wtEvX2uL--;
 break;
 case 4:
-A0OX6kGQz = BFzwQoT4n << JS4_MkX;
+
 break;
 default:
 TQyRy = UTSE(-1692334118, uhKa);
@@ -327,7 +327,7 @@ case 0:
 o17V54O0 = (int)abs(TQyRy);
 break;
 case 1:
-IQBuR *= kP6ne1e4;
+
 break;
 }
 
@@ -339,7 +339,7 @@ case 'a':
 M3hhy = (int)abs(o17V54O0);
 break;
 case 'b':
-z4M1 /= Y6g_kLo;
+
 break;
 case 'c':
 NE7X629 *= 2055353692;
@@ -354,7 +354,7 @@ case 'f':
 TQyRy = UTSE(wtEvX2uL, -991647775);
 break;
 case 'g':
-BFzwQoT4n ^= 1792368257;
+
 break;
 case 'h':
 M3hhy = UTSE(-1287785340, 907833818);
@@ -386,7 +386,7 @@ i++;
 }
 }
 
-api3K2lB >>= HkeyXwrR;
+
 z4M1 = dnoe / Q9qXF15Z9;
 
 switch (k5UFv)
@@ -398,7 +398,7 @@ break;
 switch (mHSnH)
 {
 case 'a':
-QM6_ -= 2040274713;
+
 break;
 case 'b':
 lzljd >>= 1352253740;
@@ -410,7 +410,7 @@ case 'd':
 ZAaK--;
 break;
 case 'e':
-IQBuR = UTSE(657000992, -1121256813) % 1353143609;
+
 break;
 case 'f':
 M3hhy = (int)abs(o17V54O0);

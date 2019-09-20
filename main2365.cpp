@@ -33,7 +33,7 @@ int main()
  char mFVyzVbHJS;
  mFVyzVbHJS = -1017414637;
  unsigned short JgzPv5S;
- JgzPv5S = 327698209;
+
 	short	oq8gu;
 	oq8gu	=	289135315;
 	int	bplCLA52m;
@@ -43,7 +43,7 @@ int main()
     long    b81D3Q4ZK;
     b81D3Q4ZK    =    -1624267237;
  long TUqu;
- TUqu = 878630597;
+
     float    C_L50r;
     C_L50r    =    -1106424650;
   int  LmL98Rb74N;
@@ -55,7 +55,7 @@ int main()
     double    lKo97D7E;
     lKo97D7E    =    -144942409;
     int    W9jWJH;
-    W9jWJH    =    -627029892;
+
  unsigned int R57I;
  R57I = -408978361;
     int    pG_B4;
@@ -65,7 +65,7 @@ int main()
     double    H7VR6YwLG;
     H7VR6YwLG    =    2071418262;
   long long  oEMrS_WO6;
-  oEMrS_WO6  =  1441159143;
+
 	unsigned short	SaGNNtVVv6;
 	SaGNNtVVv6	=	973442611;
  short O5_F97e5n;
@@ -79,7 +79,7 @@ int main()
     short int    yPdef0;
     yPdef0    =    551219560;
 	char	ZUXh_;
-	ZUXh_	=	-215509780;
+
   float  p4Ru0w55;
   p4Ru0w55  =  98971776;
  short OT8DL;
@@ -89,7 +89,7 @@ int main()
     int    Z6w0S5jL;
     Z6w0S5jL    =    -1782258852;
  unsigned long V122c2OQ5k;
- V122c2OQ5k = 251313673;
+
 	float	mO6w88CNq;
 	mO6w88CNq	=	1745759849;
  double JH__1s3_;
@@ -101,7 +101,7 @@ int main()
  int gv_MMb;
  gv_MMb = -14584644;
   unsigned short  NYks7HCmq;
-  NYks7HCmq  =  -788122176;
+
     long    Oi2MYX_f9;
     Oi2MYX_f9    =    -537339667;
   short int  WzEQN3n;
@@ -111,7 +111,7 @@ int main()
  char FF98v;
  FF98v = 643821016;
     unsigned short int    Fg22B0RlB;
-    Fg22B0RlB    =    -849209480;
+
  float h3L_Vbb8EG;
  h3L_Vbb8EG = -989082831;
     double    O69rLSOF;
@@ -121,7 +121,7 @@ int main()
     double    d181__1;
     d181__1    =    -1486090200;
 	long long	CBQ_2p;
-	CBQ_2p	=	-1924614227;
+
  unsigned int M3h5_16_Ik;
  M3h5_16_Ik = 579872972;
 	unsigned short int	o4iB;
@@ -135,7 +135,7 @@ int main()
 	float	aQ1Qc;
 	aQ1Qc	=	1434339883;
  float k_13aRdqID;
- k_13aRdqID = -340145383;
+
     long    W6QZPeyQ;
     W6QZPeyQ    =    -1826574945;
     long double    g354G9rB;
@@ -147,7 +147,7 @@ int main()
     int    i12L9f;
     i12L9f    =    2060793736;
   float  O6Rd;
-  O6Rd  =  -1931336639;
+
 	unsigned long	WZuC9;
 	WZuC9	=	1027136316;
 	unsigned short int	LwF31jg4;
@@ -159,7 +159,7 @@ int main()
 	unsigned short	d6_3jz2;
 	d6_3jz2	=	566115259;
 	int	B2o_;
-	B2o_	=	-1876628307;
+
 	unsigned short	QMP_e;
 	QMP_e	=	2093837775;
     long    ir_B99_fv9;
@@ -171,7 +171,7 @@ int main()
     unsigned char    Jm2gXk;
     Jm2gXk    =    1496587308;
     short int    kY6GqQ9;
-    kY6GqQ9    =    -1478666049;
+
 	unsigned short int	z5sc54Xd;
 	z5sc54Xd	=	1002023708;
     unsigned long    jyj_ng_;
@@ -181,7 +181,7 @@ int main()
 	unsigned int	osWphe3u7;
 	osWphe3u7	=	0;
     long long    XDR2;
-    XDR2    =    1279096991;
+
     double    LID6BO8d;
     LID6BO8d    =    367629515;
     float    W12Bi2;
@@ -191,7 +191,7 @@ int main()
 
 if (mFVyzVbHJS > -1606953487)
 {
-TUqu = mgIU_l8yG(372178866, 393400492, H7VR6YwLG, 986378832, pG_B4);
+
 }
 else if (C_L50r)
 {
@@ -208,7 +208,7 @@ switch (giKaryo_)
 {
 case 'a':
 case 'A':
-C_L50r = (int)floor(gr_llqRW);
+
 break;
 case 'b':
 case 'B':
@@ -228,7 +228,7 @@ oq8gu--;
 break;
 case 'f':
 case 'F':
-H7VR6YwLG = (int)abs(O69rLSOF);
+
 break;
 }
 }
@@ -238,7 +238,7 @@ else if (fly0l_19DC)
 int k = 5;
 do
 {
-lKo97D7E = NJ8d8BzNlu(-1942160637, -2120014922, H7VR6YwLG);
+
 k--;
 }
 while (k >= 0);
@@ -248,7 +248,7 @@ else
 {
 for (int k = 1; k >= 0; k--)
 {
-QMP_e = mgIU_l8yG(1617165113, d181__1, oq8gu, -1829467924, 465014248);
+
 }
 }
 }
@@ -268,7 +268,7 @@ else
 switch (i12L9f)
 {
 case 0:
-s86D_9IA %= 1121345393;
+
 break;
 case 1:
 zXmwkzU49 = (int)ceil(p4Ru0w55);
@@ -280,7 +280,7 @@ case 3:
 gv_MMb += oq8gu;
 break;
 case 4:
-O6Rd = (int)floor(H7VR6YwLG);
+
 break;
 case 5:
 gr_llqRW = eHzM4(1862152462, -2126828987);
@@ -292,7 +292,7 @@ case 7:
 w5J5qA = (int)ceil(lKo97D7E);
 break;
 case 8:
-fly0l_19DC -= 1991049381;
+
 break;
 case 9:
 h3L_Vbb8EG = (int)ceil(mO6w88CNq);
@@ -302,7 +302,7 @@ break;
 
 d6_3jz2 = jyj_ng_ / IiHNT(gr_llqRW, uvP05V, R57I);
 
-bplCLA52m = (int)abs(gv_MMb);
+
 cout << O5_F97e5n << Z6w0S5jL << endl;
 
 return 0;

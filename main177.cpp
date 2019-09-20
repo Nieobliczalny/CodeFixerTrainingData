@@ -116,7 +116,7 @@ switch (q72SVwRFw8)
 {
 case 'a':
 case 'A':
-zrOo6EkYEL = gzY_(zrOo6EkYEL, -199395961, 1522025294, vtQO76Cd76);
+
 break;
 case 'b':
 case 'B':
@@ -132,7 +132,7 @@ XKEQ = (int)floor(nvK9);
 break;
 case 'e':
 case 'E':
-fn59nV2qpr = (int)floor(f2Wl3K);
+
 break;
 case 'f':
 case 'F':
@@ -144,7 +144,7 @@ ihg0AHRYKj = (int)floor(F61m1uU2);
 break;
 case 'h':
 case 'H':
-fn59nV2qpr = (int)floor(J3VTJcx81I);
+
 break;
 case 'i':
 case 'I':
@@ -156,7 +156,7 @@ int i = 0;
 while (i < 3)
 {
 i++;
-z8k48xA0w = uA6CtW110(Dyyznoell_, L_vrt) - 1204106330;
+
 }
 }
 switch (G2Ruvoq9)
@@ -171,7 +171,7 @@ case 'c':
 uK0tI961 = (int)abs(zzkw);
 break;
 case 'd':
-kW_e /= 946556838;
+
 break;
 case 'e':
 avoKBIFLC8 = IBI5LdSMX(889673012);
@@ -185,7 +185,7 @@ break;
 int i = 9;
 do
 {
-kIE1T6bA = gzY_(1329753253, 1762667133, 2064474151, 2027616931);
+
 i--;
 }
 while (i >= 0);
@@ -210,7 +210,7 @@ while (i >= 0);
 }
 
 mRJtfDp = (int)floor(F61m1uU2);
-dZZa02Z = (unsigned long)(O11z6W1 + (45249796));
+
 for (int i = 0; i < 2; i++)
 {
 f2Wl3K = (long double)(O11z6W1 + (-1305786622));
@@ -238,7 +238,7 @@ hIpS = uA6CtW110(XKEQ, NYEIaz1);
 break;
 case 'c':
 case 'C':
-HYh4 = uA6CtW110(vtQO76Cd76, g81AdGY);
+
 break;
 case 'd':
 case 'D':
@@ -257,7 +257,7 @@ L_vrt -= 978429174;
 break;
 }
 }
-SM324OB3_n = (long long)(p9CmN8);
+
 if (zkhff46TE <= O11z6W1)
 {
 switch (K5286)
@@ -269,7 +269,7 @@ case 1:
 mRJtfDp = IBI5LdSMX(647008270);
 break;
 case 2:
-TT0Le6_530 = gzY_(TT0Le6_530, mdoO2, -272798571, -1432401498);
+
 break;
 case 3:
 nkjR5UC = (int)floor(avoKBIFLC8);
@@ -281,7 +281,7 @@ case 5:
 UrzUvH = (int)abs(hIpS) + (-601412419);
 break;
 case 6:
-R_1YXpk8NO = (int)ceil(uJE_niY);
+
 break;
 case 7:
 uJE_niY = u3SMp(uJE_niY, Q2h0RWGCW, 1254287885, vtQO76Cd76, -1475650090);
@@ -323,7 +323,7 @@ if (mKv9M <= 555011264)
 switch (xn69x7nXk)
 {
 case 0:
-F61m1uU2 = (int)floor(mRJtfDp);
+
 break;
 case 1:
 q72SVwRFw8 += 1592163541;
@@ -335,7 +335,7 @@ case 3:
 J3VTJcx81I = (int)abs(v0M914I_);
 break;
 case 4:
-ihg0AHRYKj = (int)ceil(JvwaY0t7H);
+
 break;
 case 5:
 mdoO2 = IBI5LdSMX(-767329733);
@@ -347,7 +347,7 @@ case 7:
 zkhff46TE = gzY_(zkhff46TE, 124761991, -1092135034, EKp950);
 break;
 default:
-Dyyznoell_ = IBI5LdSMX(-1710277701);
+
 break;
 }
 }
@@ -360,7 +360,7 @@ int j = 0;
 do
 {
 ++j;
-f2Wl3K = (int)ceil(Nj7A);
+
 }
 while (j < 6);
 }

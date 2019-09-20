@@ -265,7 +265,7 @@ X0jtYyT = sTuE16Ud5_(X0jtYyT);
 break;
 case 'd':
 case 'D':
-PS30t = k3Sq << YqECAf4pU;
+
 break;
 case 'e':
 case 'E':
@@ -277,7 +277,7 @@ MNvTheMTA1 &= 1783126992;
 break;
 case 'g':
 case 'G':
-PS30t = k3Sq ^ 1084780606;
+
 break;
 default:
 ybT0 = aX9114io % Il7yq;
@@ -294,7 +294,7 @@ j++;
 switch (aX9114io)
 {
 case 0:
-PS30t = YqECAf4pU ^ 600799032;
+
 break;
 }
 }
@@ -336,7 +336,7 @@ else if (mJ8Wnr != jil997by)
 {
 if (Y0NTN6 >= -1934200642)
 {
-ybT0 = (unsigned long)(Jn5R4);
+
 }
 }
 else

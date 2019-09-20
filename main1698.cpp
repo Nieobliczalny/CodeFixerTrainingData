@@ -170,7 +170,7 @@ if ((345682558 / RobW_p) != -189096616)
 {
 if (RobW_p == 0)
 {
-	ACY6_m = Jk3y1A(58626879, 1649289760) / RobW_p;
+
 }
 }
 
@@ -180,7 +180,7 @@ case 0:
 LY0bzmgAH = (int)ceil(pk13y5);
 break;
 case 1:
-s2Aq0l = (int)abs(pb8G_9Bu);
+
 break;
 case 2:
 RobW_p = Rr8NDRUy5B(LY0bzmgAH, s2Aq0l);
@@ -199,7 +199,7 @@ if (LY0bzmgAH != -1925383010)
 int k = 0;
 while (k < 3)
 {
-s2Aq0l = (int)abs(j39_p22);
+
 k++;
 }
 }

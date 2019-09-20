@@ -18,7 +18,7 @@ int main(void) {
  c73P = 739781374;
  tj92cw7 = 1456942774;
  k59_9 = 1350135585;
- MeE16y8d = 999187531;
+
  AMUml = 465246591;
  sjs2H = -263485727;
  r_iED37O = -974025157;
@@ -36,7 +36,7 @@ case 2:
 OYizs |= k59_9;
 break;
 case 3:
-MeE16y8d = u64l_w - 1696307689;
+
 break;
 case 4:
 sjs2H += t70Yb2;
@@ -51,7 +51,7 @@ case 7:
 r_iED37O = oQy05xRji * 440119256;
 break;
 case 8:
-tj92cw7 %= 735388134;
+
 break;
 default:
 t70Yb2 += 1816650011;
@@ -81,7 +81,7 @@ k59_9 += 693283541;
 break;
 case 'b':
 case 'B':
-tj92cw7 = t70Yb2 << MeE16y8d;
+
 break;
 case 'c':
 case 'C':
@@ -105,7 +105,7 @@ if ((NM9P17l5S6 == -347672420) && (k59_9 == tj92cw7))
 switch (sjs2H)
 {
 case 0:
-c73P += 865124984;
+
 break;
 case 1:
 k59_9 <<= 1505816163;
@@ -145,7 +145,7 @@ case 6:
 tj92cw7 = tj92cw7 / 1450013566;
 break;
 case 7:
-sjs2H = (AMUml & c73P) ? 195057890 : -103074106;
+
 break;
 case 8:
 OYizs = OYizs | MeE16y8d;
@@ -158,7 +158,7 @@ j--;
 
 for (int i = 0; i < 6; i++)
 {
-sjs2H = (oQy05xRji != t70Yb2) ? -1827072899 : k59_9;
+
 }
 switch (MeE16y8d)
 {
@@ -172,7 +172,7 @@ AMUml = r_iED37O + 1887289598;
 break;
 }
 
-u64l_w /= 175920560;
+
 
 AMUml++;
 

@@ -127,7 +127,7 @@ if (OsbBe == 1900686839)
 switch (UNWa)
 {
 case 'a':
-WlN3KHihO = (int)ceil(k_zX);
+
 break;
 case 'b':
 LypC = Tg9otO6j(745904790, -1486754365, LypC, -690155100, -798557155);
@@ -145,7 +145,7 @@ case 'f':
 LypC = Tg9otO6j(-112551283, k_zX, -1019946417, 1643007141, Ax1iMh1_Q);
 break;
 case 'g':
-WlN3KHihO = (int)floor(k_zX);
+
 break;
 case 'h':
 C7dzzxp = ln_Jf3(OsbBe, 352920965, 1519101684, 1875382423, C7dzzxp);
@@ -169,7 +169,7 @@ else
 {
 if ((LypC >= oOS84r0) && ((unyl_zz) && (E4poc != UNWa)))
 {
-WlN3KHihO = (int)ceil(k_zX);
+
 }
 }
 }
@@ -282,7 +282,7 @@ k_j24P52 = E4poc + Ax1iMh1_Q;
 }
 else if (mK3J90 > Gi_GRFS4)
 {
-unyl_zz = Tg9otO6j(761748437, -1056225971, 1883002595, WlN3KHihO, -757506300);
+
 }
 else if ((UNWa < -815813167) && (k_zX > 1668770524))
 {
@@ -337,7 +337,7 @@ int k = 0;
 while (k < 9)
 {
 k++;
-E4poc = mtjO1Ahy9 / 1634441929;
+
 }
 }
 }
@@ -353,7 +353,7 @@ std::cout << k_j24P52 << "wOTntP" << "R8P11" << std::endl;
 int i = 1;
 do
 {
-WlN3KHihO = (int)abs(OsbBe);
+
 i--;
 }
 while (i >= 0);

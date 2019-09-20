@@ -99,7 +99,7 @@ int main(void) {
 	int	c0nec6_;
 	c0nec6_	=	-1210100363;
 	unsigned int	RSdS9gZ5;
-	RSdS9gZ5	=	-1368606875;
+
  long long yzDVf;
  yzDVf = 107762511;
 	unsigned short int	o_ym3;
@@ -113,7 +113,7 @@ int main(void) {
   unsigned long  kI4P9zdid9;
   kI4P9zdid9  =  2119061793;
   unsigned short  xNJS0iA6;
-  xNJS0iA6  =  -2026099868;
+
     unsigned int    y1SJk1jRk;
     y1SJk1jRk    =    -1253721113;
 	long	UzZO;
@@ -184,7 +184,7 @@ switch (HmdB43opX)
 {
 case 'a':
 case 'A':
-bnsB2f2r = (int)abs(q3rukFBmK);
+
 break;
 case 'b':
 case 'B':
@@ -200,7 +200,7 @@ mB93 = X3YCR(HmdB43opX, CP5nHZ6d, mB93);
 break;
 case 'e':
 case 'E':
-bnsB2f2r = (int)abs(M9__62z);
+
 break;
 }
 }
@@ -333,7 +333,7 @@ case 2:
 y2Ba4YgdKE = (int)floor(vC1u0jNb);
 break;
 case 3:
-VVBb_QMj5 = (int)abs(j9FD76uUNX);
+
 break;
 }
 if (u8zqE > 342357862)
@@ -384,7 +384,7 @@ case 3:
 k_75_Qa5U = (int)abs(y2Ba4YgdKE);
 break;
 case 4:
-M9__62z = gA6vkG9ou % wuCAiz6;
+
 break;
 case 5:
 FOZXO_FTF = (int)abs(wuCAiz6);
@@ -414,7 +414,7 @@ s8bw__8KC |= 1151074916;
 }
 }
 
-c0nec6_ = (int)(ayB8m4);
+
 for (int i = 4; i >= 0; i--)
 {
 j78McLx7A8 = HmdB43opX % 288377252;
@@ -438,7 +438,7 @@ if (y8M30_0_3 & G0a3vyG6R)
 {
 for (int k = 8; k >= 0; k--)
 {
-y2Ba4YgdKE = (int)floor(q3rukFBmK);
+
 }
 }
 ++i;
@@ -493,7 +493,7 @@ l4YjbAoW = X3YCR(y8M30_0_3, l5_10, -1580099823);
 }
 else if (RxNtz2x_ > 26262320)
 {
-UzZO = (long)(mB93 + (-1831017038));
+
 }
 else if (ji11Oy != q3rukFBmK)
 {
@@ -507,7 +507,7 @@ k_75_Qa5U = (int)floor(vC1u0jNb);
 }
 else if (vC1u0jNb > y1SJk1jRk)
 {
-wuCAiz6 = (int)abs(vC1u0jNb);
+
 }
 else if (S8Ovr < -148529670)
 {
@@ -532,7 +532,7 @@ cout << "jF727O" << "LU4d_gv6N" << aIZw88F36m << endl;
 }
 else
 {
-aIZw88F36m = (long long)(Zm0_a64);
+
 }
 }
 else if ((BGWdEYp > ayB8m4) && ((Zm0_a64 == -156634088) || (gA6vkG9ou & BO_EstM)))
@@ -571,7 +571,7 @@ else if (FOZXO_FTF > yPI2)
 int k = 6;
 while (k >= 0)
 {
-e8LN369W7O = h_DSRiuc1x + N7Qg02;
+
 --k;
 }
 }

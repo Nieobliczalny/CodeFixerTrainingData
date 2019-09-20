@@ -58,7 +58,7 @@ break;
 while (i >= 0);
 }
 
-NQlE2Gl = (int)ceil(o_Dyxrqq);
+
 o_Dyxrqq *= 1125674807;
 o_Dyxrqq = t3SNF_G / c7OS;
 {
@@ -84,7 +84,7 @@ case 'c':
 oH3Kn_4nW = (int)ceil(NQlE2Gl);
 break;
 case 'd':
-o_Dyxrqq = (int)floor(oH3Kn_4nW);
+
 break;
 case 'e':
 d3H9rVs779 = (int)ceil(NQlE2Gl);
@@ -120,7 +120,7 @@ std::cout << "D8O0t_7" << t3SNF_G << "Uas40R" << pl571i << oH3Kn_4nW << std::end
 switch (pl571i)
 {
 case 0:
-o_Dyxrqq = (int)abs(d3H9rVs779);
+
 break;
 case 1:
 d3H9rVs779 = (int)floor(NQlE2Gl);
@@ -132,7 +132,7 @@ case 3:
 o_Dyxrqq = NQlE2Gl * 1504960562;
 break;
 case 4:
-o_Dyxrqq = (int)ceil(NQlE2Gl);
+
 break;
 case 5:
 NQlE2Gl = (int)floor(d3H9rVs779);

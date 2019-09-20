@@ -317,7 +317,7 @@ djB_41 = (int)floor(We33);
 
 if (sSg_4_4 <= KXcP6xlvc)
 {
-i0zXp9 /= 666421455;
+
 }
 else if (sSg_4_4 >= 888178231)
 {
@@ -429,7 +429,7 @@ else
 {
 try
 {
-i0zXp9 *= FqbjxZ_q7t;
+
 }
 catch (int& errorCode)
 {

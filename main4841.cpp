@@ -64,7 +64,7 @@ int main() {
     char    XvH39uw    =    860991502;
     short int    pnXSqs    =    903682226;
 
-C7_9s68 = (short int)(aabGa45A);
+
 L0Sv5ywAi = -1223719929 / bQTB;
 JVYw_05Qg = x2A9(JVYw_05Qg);
 if (Nx_7)
@@ -89,7 +89,7 @@ else
 {
 try
 {
-vwC5e3JsF = x2A9(879154709);
+
 }
 catch (int& errorCode)
 {
@@ -107,7 +107,7 @@ do
 {
 try
 {
-bQTB = ByI09ZM41Y();
+
 }
 catch (int& errorCode)
 {

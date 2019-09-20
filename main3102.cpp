@@ -289,7 +289,7 @@ while (i >= 0);
 
 AwQ9sf ^= C8l7cQIL5y;
 std::cout << Ht_9U8() << Ht_9U8() << std::endl;
-C49rE00446 = (short)(C8l7cQIL5y * (e0le17OOT5));
+
 
 C49rE00446 = FGcqHt730(C8l7cQIL5y, AwQ9sf, 2093678214, -105798847);
 
@@ -471,7 +471,7 @@ case 'd':
 C8l7cQIL5y = Ht_9U8();
 break;
 case 'e':
-C49rE00446 = FGcqHt730(C49rE00446, C8l7cQIL5y, AwQ9sf, 2136617875);
+
 break;
 case 'f':
 AwQ9sf = e0le17OOT5 & C8l7cQIL5y;
@@ -486,7 +486,7 @@ case 'i':
 C8l7cQIL5y = C49rE00446 * y6853GLFWS;
 break;
 case 'j':
-C49rE00446 = FGcqHt730(C49rE00446, C8l7cQIL5y, y6853GLFWS, AwQ9sf);
+
 break;
 default:
 AwQ9sf = Ht_9U8();

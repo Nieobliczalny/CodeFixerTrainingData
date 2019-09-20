@@ -20,7 +20,7 @@ short int    x0lbGvZGjx(unsigned long    Ufi0,unsigned short    i8QSL,short    x
 
 int main(int argc, char** argv) {
   float  qXrNvuL1Wo;
-  qXrNvuL1Wo  =  -1123978634;
+
   unsigned short  Ua170b;
   Ua170b  =  -1750314678;
  unsigned short l6xa60r;
@@ -30,7 +30,7 @@ int main(int argc, char** argv) {
  double fzbYkC;
  fzbYkC = -1006368586;
 	unsigned long	xyf4PArvn;
-	xyf4PArvn	=	-2019387760;
+
  unsigned short CHa0tWVJ;
  CHa0tWVJ = -1372574402;
   unsigned long long  jAKv0syn;
@@ -44,7 +44,7 @@ int main(int argc, char** argv) {
     unsigned short int    zZa6;
     zZa6    =    -148051407;
 	unsigned long long	zEM2kB;
-	zEM2kB	=	-1380248867;
+
     short    ZVolz;
     ZVolz    =    -1856783149;
     short    rj7D93n;
@@ -54,7 +54,7 @@ int main(int argc, char** argv) {
 	float	xdnJ0HVIN;
 	xdnJ0HVIN	=	-1433174581;
  char IX2kIgJ;
- IX2kIgJ = -1711418834;
+
 	short	w96vRtKZvg;
 	w96vRtKZvg	=	-1040847296;
 	int	G9_ehRf;
@@ -76,7 +76,7 @@ int main(int argc, char** argv) {
     short    kNk679_bme;
     kNk679_bme    =    -90704423;
     unsigned short int    efdK;
-    efdK    =    -881881063;
+
 	unsigned long long	G7HJKccE;
 	G7HJKccE	=	850993383;
 	short	Gn9JY;
@@ -86,7 +86,7 @@ int main(int argc, char** argv) {
 	char	fbWj8v49K;
 	fbWj8v49K	=	-581035919;
   long double  B5fz;
-  B5fz  =  1441854414;
+
   unsigned short  gAzvQ41;
   gAzvQ41  =  260923628;
   unsigned int  NN_239WQ7;
@@ -98,7 +98,7 @@ int main(int argc, char** argv) {
  long long sLBWw_7M;
  sLBWw_7M = 1142225780;
     unsigned long long    E9r02Nnhq7;
-    E9r02Nnhq7    =    -1788117434;
+
     int    dd4wl;
     dd4wl    =    -528887870;
     unsigned short int    bZBQY4a17s;
@@ -108,7 +108,7 @@ int main(int argc, char** argv) {
  short vIfbo;
  vIfbo = -16715683;
   unsigned short int  dw496012;
-  dw496012  =  0;
+
  short ZSiJ;
  ZSiJ = 1721580618;
   unsigned int  x_m15;
@@ -118,7 +118,7 @@ int main(int argc, char** argv) {
 	unsigned char	ZI__;
 	ZI__	=	734459486;
 	unsigned long long	H0Ad86lA0C;
-	H0Ad86lA0C	=	0;
+
  unsigned short int rx1_bBw;
  rx1_bBw = 1939241607;
  unsigned short int SMUIu1hbL;
@@ -140,7 +140,7 @@ int main(int argc, char** argv) {
     char    C7I_z6pA8;
     C7I_z6pA8    =    -1194210670;
     unsigned long long    mqinPv7Vr;
-    mqinPv7Vr    =    -564331545;
+
  unsigned short int wv1fH9O;
  wv1fH9O = 1290774636;
   char  sLzHKR;
@@ -158,7 +158,7 @@ int main(int argc, char** argv) {
   double  IJ7HALcD;
   IJ7HALcD  =  1357622825;
  unsigned char k5Uhbt9;
- k5Uhbt9 = -1145831696;
+
     unsigned long    E26BYm85Y;
     E26BYm85Y    =    -1767837078;
  unsigned long long VeP9j0iq;
@@ -175,7 +175,7 @@ JyjnQgwL = (unsigned long)(Au22);
 
 if (IjcjVI9 & 184624558)
 {
-qXrNvuL1Wo = (int)ceil(s5o_iQ4A4);
+
 }
 else if ((xdnJ0HVIN >= JyjnQgwL) && ((V8C8_DPV3U < -946546777) && (Px4Jp9wF_ < Gn9JY)))
 {
@@ -196,7 +196,7 @@ case 0:
 Px4Jp9wF_ = (int)ceil(yOZRC);
 break;
 case 1:
-s5o_iQ4A4 = (int)floor(x6gQ);
+
 break;
 case 2:
 xdnJ0HVIN = (int)ceil(x6gQ);
@@ -208,7 +208,7 @@ case 4:
 EMu216 = KGLy4(EMu216, -21842098, -1437420340);
 break;
 case 5:
-QGoNa >>= 925610244;
+
 break;
 }
 }
@@ -239,7 +239,7 @@ while (j < 5);
 }
 else if (vJK_SSO7 > CHa0tWVJ)
 {
-EMu216 = (int)floor(xdnJ0HVIN);
+
 }
 else
 {
@@ -255,7 +255,7 @@ switch (V8C8_DPV3U)
 {
 case 'a':
 case 'A':
-rj7D93n = x0lbGvZGjx(-1812800381, f31XW, -93831987, 1143556827, -396059339);
+
 break;
 default:
 l6xa60r = ZSiJ >> kNk679_bme;
@@ -267,7 +267,7 @@ k5Uhbt9 = fbWj8v49K / zWJfcuU4u();
 
 if (v7oa & 669157059)
 {
-D9K4x = (zZa6 > C7I_z6pA8) ? wv1fH9O : 597683002;
+
 }
 else
 {
@@ -279,7 +279,7 @@ case 'a':
 H0Ad86lA0C = zWJfcuU4u();
 break;
 case 'b':
-QDNUQaa4 = (int)abs(Y1SY446);
+
 break;
 case 'c':
 SgXCc = x0lbGvZGjx(SgXCc, IJ7HALcD, 129725855, gAzvQ41, en5n5X_);
@@ -291,7 +291,7 @@ for (int i = 0; i < 6; i++)
 int j = 0;
 do
 {
-zZa6 = (unsigned short int)(VeP9j0iq);
+
 j++;
 }
 while (j < 2);
@@ -311,7 +311,7 @@ do
 {
 try
 {
-x6gQ = (int)ceil(Bq6Ozh);
+
 }
 catch (int& errorCode)
 {
@@ -328,7 +328,7 @@ while (i >= 0);
 
 cout << NeY7A << endl;
 
-B5fz = (int)ceil(vJK_SSO7);
+
 
 return 0;
 }

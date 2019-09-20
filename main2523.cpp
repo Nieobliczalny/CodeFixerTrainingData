@@ -16,7 +16,7 @@ using namespace std;
 int main(int argc, char** argv)
 {
  char jSWgZcjk;
- jSWgZcjk = -2146487369;
+
     short    rGoi0;
     rGoi0    =    539763811;
  short a1Wgo;
@@ -40,7 +40,7 @@ int main(int argc, char** argv)
  unsigned short HXc1_J2;
  HXc1_J2 = 344677407;
 	int	K2LeO6H3;
-	K2LeO6H3	=	-35983300;
+
 	long	f826;
 	f826	=	-1809436632;
     long double    sssPI9r;
@@ -50,7 +50,7 @@ int main(int argc, char** argv)
 	unsigned long	G_9DT;
 	G_9DT	=	1795983151;
 	unsigned char	Xx769BOF;
-	Xx769BOF	=	-1241477685;
+
     unsigned int    vvS8_;
     vvS8_    =    1573084217;
   unsigned long  W3ejCIR;
@@ -72,7 +72,7 @@ int main(int argc, char** argv)
 	short int	SHDaNN4_xi;
 	SHDaNN4_xi	=	63379548;
     unsigned short int    ccnHq;
-    ccnHq    =    -1005197792;
+
   double  Wk3u_j9Wka;
   Wk3u_j9Wka  =  -972152911;
 	double	wZZpve;
@@ -82,7 +82,7 @@ int main(int argc, char** argv)
   unsigned short int  Sl5s25IE;
   Sl5s25IE  =  -289957628;
  unsigned long long cvLIpDWUV;
- cvLIpDWUV = 0;
+
   char  M9vM;
   M9vM  =  -1459327994;
     float    e5009f3;
@@ -92,7 +92,7 @@ int main(int argc, char** argv)
 	float	XKJ8t7qI5c;
 	XKJ8t7qI5c	=	1562398470;
     float    BzmHO9pt;
-    BzmHO9pt    =    -1276568069;
+
   short  KSlM;
   KSlM  =  -1424767197;
   short int  mma9tSb;
@@ -110,7 +110,7 @@ int main(int argc, char** argv)
   short  bEcM_d;
   bEcM_d  =  -1229391093;
 	short	gK5XnlQ1_1;
-	gK5XnlQ1_1	=	1999883936;
+
 
 jjs6s0fO = (int)abs(rO8dN_n);
 switch (jjs6s0fO)
@@ -190,7 +190,7 @@ else
 {
 vvS8_++;
 }
-MIkvw = (unsigned short int)(BsOmZ7);
+
 if (k8GoUet >= sssPI9r)
 {
 if (zQvYsdD == wZZpve)
@@ -215,7 +215,7 @@ i60B = (int)ceil(sssPI9r);
 }
 cout << "C6u4FLlTL" << "k1GZ6_42" << Iu1_N7 << endl;
 
-sssPI9r = (int)abs(mma9tSb) + (1324651384);
+
 cout << t6be0_ << "ZUU2" << Wk3u_j9Wka << BsOmZ7 << endl;
 if (Sl5s25IE & 1665682274)
 {
@@ -231,7 +231,7 @@ if (C76Aip1T >= -1001383860)
 {
 try
 {
-k8GoUet = (int)floor(rO8dN_n);
+
 }
 catch (int& errorCode)
 {
@@ -243,7 +243,7 @@ else if (W3ejCIR <= W6_84978Sw)
 switch (H86W)
 {
 case 0:
-rGoi0 %= 1947479862;
+
 break;
 case 1:
 W3ejCIR = f826 << 527418272;
@@ -264,7 +264,7 @@ else if (KSlM)
 {
 for (int k = 0; k < 6; k++)
 {
-e5009f3 = (int)floor(wZZpve);
+
 }
 }
 else if ((rO8dN_n >= AWc_gp) && ((nO8pK_Jes & AWc_gp) && (nff9tewe2l <= vjSZq)))
@@ -280,7 +280,7 @@ k--;
 }
 else
 {
-G_9DT = (f826 >= -1225595403) ? wZZpve : 1781913414;
+
 }
 }
 else if ((f826 > W6_84978Sw) && ((W3ejCIR & HXc1_J2) || (SHDaNN4_xi)))
@@ -312,7 +312,7 @@ ty29_Hs = a1Wgo & C76Aip1T;
 break;
 case 'd':
 case 'D':
-bEcM_d = (t6be0_ != 487550344) ? -835342261 : -550680447;
+
 break;
 }
 i++;

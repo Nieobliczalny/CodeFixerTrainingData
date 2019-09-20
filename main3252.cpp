@@ -111,7 +111,7 @@ int main(int argc, char** argv)
     short int    ttJcxWW6_b    =    -442732510;
     double    sAm94f3    =    -2138433180;
 
-PHK9_1X = -2119744763 / Cq05;
+
 switch (AD_q8v)
 {
 case 'a':
@@ -124,7 +124,7 @@ K6hi7t = XDz4hbJ3B / I4gK_Tt;
 break;
 case 'c':
 case 'C':
-xNgSXNF /= 2053095888;
+
 break;
 case 'd':
 case 'D':
@@ -137,7 +137,7 @@ vx399432pA = (float)(Z2Xfh6);
 
 for (int i = 0; i < 5; ++i)
 {
-N9QBIh_cPI = n133H + 1378911617;
+
 }
 sAm94f3 = (int)floor(lsOZSl);
 return 0;

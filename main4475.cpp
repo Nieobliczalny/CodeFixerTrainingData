@@ -628,7 +628,7 @@ case 8:
 AB9zE2 = (int)floor(EdTI_);
 break;
 }
-WAw_9_QNi = F5Qr1mQ0();
+
 AB9zE2 = (int)floor(fISn2_O62);
 {
 int i = 4;
@@ -639,7 +639,7 @@ if (NVKeT4a7)
 {
 if ((zrXc26E & aGc2QnHC1E) && (qTID17UoK < -8838500))
 {
-WAw_9_QNi = F5Qr1mQ0() | 2093577475;
+
 }
 else
 {
@@ -652,7 +652,7 @@ std::cout << AB9zE2 << F5Qr1mQ0() << std::endl;
 
 if (aGc2QnHC1E == AB9zE2)
 {
-EdTI_ = (long double)(a3mBE5d);
+
 }
 
 AB9zE2 = (int)ceil(fISn2_O62);

@@ -40,7 +40,7 @@ catch (int& errorCode)
 {
 B5wk1_Tc /= 500201438;
 }
-Ecs_0q_gC = -1792928695 / yzu3_l1;
+
 
 {
 int i = 1;

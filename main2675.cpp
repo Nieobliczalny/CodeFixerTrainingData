@@ -186,7 +186,7 @@ h_51nOSk1 = SD7Dm2Ad4b * WjN19N;
 break;
 case 'd':
 case 'D':
-qBS9X = U_My7M(SD7Dm2Ad4b, -1489554765);
+
 break;
 case 'e':
 case 'E':
@@ -202,7 +202,7 @@ d60twW2 = (int)abs(iG4CM);
 break;
 case 'h':
 case 'H':
-qBS9X = U_My7M(1806255595, pGB7ItMm);
+
 break;
 }
 
@@ -396,7 +396,7 @@ SD7Dm2Ad4b &= pGB7ItMm;
 break;
 case 'c':
 case 'C':
-qBS9X = U_My7M(SD7Dm2Ad4b, qBS9X);
+
 break;
 case 'd':
 case 'D':

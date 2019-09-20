@@ -25,7 +25,7 @@ int main(void)
 	int	VgAbz,	e3II,	D75cCP,	Ss0kz2g,	Dvt9;
 		VgAbz	=	e3II	=	D75cCP	=	Ss0kz2g	=	Dvt9	=	0;
 
-Iv85C_OBM = SS3uQ1ZjdR(Iv85C_OBM, e3II);
+
 if ((QOwAL <= -874888269) || ((l1irH == y15XMN) && (v8M1_42 == KGvpkEVxdC)))
 {
 if (E08O == -46712484)
@@ -40,7 +40,7 @@ R4Sg = u9qsOMg9 ^ 716385519;
 }
 else if (z83NIyv == -19214616)
 {
-smV8y = (unsigned int)(KNg97E);
+
 }
 else if (u9qsOMg9)
 {
@@ -59,7 +59,7 @@ if (xuN32l1 <= QOwAL)
 {
 try
 {
-c8I66jzi = Y0tPnA5();
+
 }
 catch (int& errorCode)
 {
@@ -73,7 +73,7 @@ int k = 9;
 while (k >= 0)
 {
 --k;
-Dvt9 = (int)abs(Ss0kz2g);
+
 }
 }
 }
@@ -98,7 +98,7 @@ e67y16w = SS3uQ1ZjdR(-316826482, -2081697609);
 }
 else
 {
-u9qsOMg9 = (unsigned int)(y15XMN + (U3y4no_));
+
 }
 std::cout << Y0tPnA5() << "Lz6UQ9RD1d" << std::endl;
 switch (A5C3)
@@ -109,7 +109,7 @@ aaXxgW = C38Y_FTS(-1446536958);
 break;
 case 'b':
 case 'B':
-Ss0kz2g = CKIIjJF(R4Sg, igHQF3q, 296884012, -1736964888, 1365590477);
+
 break;
 case 'c':
 case 'C':
@@ -121,7 +121,7 @@ WwV2 = C38Y_FTS(126502057);
 break;
 case 'e':
 case 'E':
-SW4Pg8un |= 1400570942;
+
 break;
 default:
 KGvpkEVxdC = C38Y_FTS(1944852031);
@@ -145,7 +145,7 @@ vz82e |= JDn92;
 break;
 case 'c':
 case 'C':
-cF08_nbp = E08O / v8M1_42;
+
 break;
 default:
 KNg97E &= 1056001667;
@@ -165,7 +165,7 @@ int k = 0;
 do
 {
 k++;
-D75cCP = (int)abs(VgAbz);
+
 }
 while (k < 7);
 }

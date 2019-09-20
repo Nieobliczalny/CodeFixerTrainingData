@@ -26,7 +26,7 @@ int main() {
  unsigned long long pU949FparJ = 1118398190, nR_M1JSKY = -1483375575, ruiotiT = -1364596764, N_auQkXCT = 2058261237, q9a6xY0vS = -1955237758, VG1qU = -560451784, XsJinV8F = -1651782636, AGn7 = -246573434, c50z = 2022226178, bJj6h = 1922573567, JiMntG90I = -1719747325, R8j73 = -138018381, Zv2PL = -924598753, pRX83pfQm4 = 1195258474, amv7P = 801753924, fcA8xGA = 289600126, AA3i59jq = -785543072, vPtJ = 753097102, Yl9L0_XGfF = -2096666875, ary6p43GP = 164777915, fNj9S = -548036930, N_76UC = 494466178, KEEYBV = -1927248059, e786iAZvc_ = -451274362, DJsB = 1284353441, TIYrq6 = 303626129, pskJ1 = 2115345889, W_HhC6Hpil = 1750410495, rk797bW1U7 = 237081214, lzgD_ssZ92 = -236891178, v6LQ2 = 855803084, S3LRA_A = -101429558, Vq19IO88C6 = 1155936352, WIfvS9B11 = -1563438447, VgbDjZ = -661729865, yrL2iq9vFG = 1884667632;
     unsigned short int    j6pJyks    =    0;
 
-vPtJ += 338543559;
+
 
 std::cout << N_auQkXCT << Egv0rDG(-53540216) << std::endl;
 
@@ -42,7 +42,7 @@ case 'a':
 j6pJyks = mQy8gA(-1890718414, -832622467, -1335411909, lzgD_ssZ92, -1246901056);
 break;
 case 'b':
-DJsB = Egv0rDG(-1433158398);
+
 break;
 case 'c':
 WIfvS9B11 <<= S3LRA_A;
@@ -79,7 +79,7 @@ else
 {
 try
 {
-WIfvS9B11 = G8925dF(617152898, Vq19IO88C6, -427248481, N_76UC, -2118624387) >> ary6p43GP;
+
 }
 catch (int& errorCode)
 {
@@ -131,7 +131,7 @@ while (j >= 0);
 }
 }
 
-amv7P = bJj6h >> rk797bW1U7;
+
 if ((fcA8xGA / j6pJyks) >= 346515079)
 {
 if (Zv2PL != q9a6xY0vS)
@@ -151,7 +151,7 @@ TIYrq6 = (unsigned long long)(fNj9S);
 }
 }
 
-fcA8xGA <<= ruiotiT;
+
 
 return 0;
 }

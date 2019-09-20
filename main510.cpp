@@ -820,7 +820,7 @@ case 'a':
 mo4H = Loh_AFY << 1848972799;
 break;
 case 'b':
-v2Ec = HB_152j();
+
 break;
 default:
 c5091JL82p = (Tx5mEL3) ? mo4H : K1dc;

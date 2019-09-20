@@ -30,7 +30,7 @@ int main(int argc, char** argv)
     z4_0i26    =    0;
     XSgqZUq54V    =    0;
     Wm5Bq    =    0;
-    K42Q37    =    0;
+
 
 {
 int i = 0;
@@ -113,7 +113,7 @@ int i = 0;
 while (i < 3)
 {
 i++;
-YcKBD = (int)abs(C99Q2Nuj);
+
 }
 }
 pO7P = C99Q2Nuj / XSgqZUq54V;

@@ -294,7 +294,7 @@ int j = 9;
 while (j >= 0)
 {
 j--;
-hy9Q3 = o75N + 1608883176;
+
 }
 }
 }
@@ -385,7 +385,7 @@ case 'a':
 MRJNU_nqyb++;
 break;
 case 'b':
-MRJNU_nqyb = gjvi & 1794180775;
+
 break;
 case 'c':
 I1_y_ = s_TPqza9G2 / h72cI;
@@ -478,7 +478,7 @@ if ((bCx19D) || ((hy9Q3 != 454964387) || (h72cI == -719543123)))
 int j = 0;
 do
 {
-s_TPqza9G2 = (int)(GwX68E + (-1083460307));
+
 j++;
 }
 while (j < 6);

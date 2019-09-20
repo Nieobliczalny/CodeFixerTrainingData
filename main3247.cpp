@@ -38,7 +38,7 @@ KUR5w29y = HjflWWr << 200432555;
 }
 for (int i = 0; i < 3; i++)
 {
-BTVZ = (float)(dhbjkYxlCL);
+
 }
 
 {
@@ -57,7 +57,7 @@ while (i >= 0);
 }
 std::cout << m1M9 / vFT8Y << std::endl;
 
-M1l1n = (unsigned short)(W2SA_G);
+
 
 qXizf1nHuR = J9v0 * 1448291040;
 return 0;

@@ -18,7 +18,7 @@ int main(int argc, char** argv)
 
 for (int i = 1; i >= 0; i--)
 {
-ghwcrV = (short)(pqhavC93pP);
+
 }
 
 if ((B6Vf < N0hbP) || (IrJ_mi != -1661789576))
@@ -53,7 +53,7 @@ Z6QYAW9 ^= 1729106839;
 break;
 case 'b':
 case 'B':
-RO5OyCyg5J = Eqla();
+
 break;
 default:
 JJY5v08V *= 1532155443;
@@ -64,7 +64,7 @@ break;
 
 P3_P66C = wL8HS2pr(1450548781, 231626835, ekN_BRt7O);
 
-YcuAWe0J = 387074853 / j_Mh;
+
 
 std::cout << Eqla() << wL8HS2pr(P3_P66C, HaJ84_EsrT, ekN_BRt7O) << "XI0CrcnB" << std::endl;
 
@@ -79,7 +79,7 @@ case 1:
 gHy8C7MC *= 1049221664;
 break;
 case 2:
-HaJ84_EsrT = (int)abs(Th9J) + (2062144215);
+
 break;
 case 3:
 LDm4m = wL8HS2pr(839514873, -1818100451, -674569216);
@@ -95,7 +95,7 @@ break;
 int i = 4;
 do
 {
-s47_gLOiS9 = hy_Fk % Gr3g076Vc_;
+
 --i;
 }
 while (i >= 0);
@@ -109,7 +109,7 @@ do
 ++j;
 for (int k = 0; k < 10; ++k)
 {
-IrJ_mi = Eqla();
+
 }
 }
 while (j < 4);
@@ -134,7 +134,7 @@ break;
 }
 }
 }
-ekN_BRt7O %= gHy8C7MC;
+
 Th9J = (int)(eyReX * Th9J);
 
 RO5OyCyg5J = Eqla();

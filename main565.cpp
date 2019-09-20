@@ -10,7 +10,7 @@
 int main()
 {
  short int Fd55QR_rpB;
- Fd55QR_rpB = -592718472;
+
 	float	n792xv8AT;
 	n792xv8AT	=	85606475;
   long  tw21d;
@@ -210,7 +210,7 @@ case 0:
 j92r4 = p81D ^ rM88;
 break;
 case 1:
-q5K9Womv = q5K9Womv ^ 954506503;
+
 break;
 case 2:
 C8EWP2 ^= 1135201055;
@@ -225,7 +225,7 @@ case 5:
 F337d5s9dk = x0j8ObY - 1787492171;
 break;
 case 6:
-Y1o4 = (int)ceil(n792xv8AT);
+
 break;
 case 7:
 N_k73a = (int)abs(rM88);
@@ -242,7 +242,7 @@ tw21d = htCD / c7bvI;
 switch (C8EWP2)
 {
 case 0:
-vi_vT = em23_ft9i % 702678648;
+
 break;
 case 1:
 Fd55QR_rpB = SqjC - 1486877598;
@@ -254,7 +254,7 @@ case 3:
 V9YyMuXp8 %= 1647041454;
 break;
 case 4:
-Ki3h1N58q ^= 1671390098;
+
 break;
 case 5:
 gdy0s0g = (int)floor(j92r4);
@@ -269,7 +269,7 @@ case 8:
 Bq5aCiPRxb = tw21d / C8EWP2;
 break;
 case 9:
-j92r4 = (int)ceil(n792xv8AT);
+
 break;
 default:
 C8EWP2 = Se2nnTyNq * 1004943361;
@@ -282,7 +282,7 @@ while (i >= 0)
 switch (N_k73a)
 {
 case 0:
-Ki3h1N58q = p81D / wbbtkQ;
+
 break;
 case 1:
 SqjC <<= Xf1Je_o;
@@ -349,7 +349,7 @@ else
 {
 try
 {
-Se2nnTyNq = (int)floor(vh_j25c);
+
 }
 catch (int& errorCode)
 {
@@ -365,7 +365,7 @@ N_k73a = (int)abs(SqjC);
 
 if (((n792xv8AT) && (N_k73a <= 1571473859)) && (x0j8ObY))
 {
-SqjC = (char)(V9YyMuXp8);
+
 }
 std::cout << "xnBF29i_" << "eebMey" << "Vt__6JoGo0" << "Md_gJ8HDuA" << std::endl;
 

@@ -164,7 +164,7 @@ uDfIfaC4 = (char)(HBE1CS * uDfIfaC4);
 std::cout << oIbvY(-1001317206, 109202138, RJ17Q1avDy) << "E9IvZK3" << std::endl;
 if (HeKuOX1X0M & 865483679)
 {
-uDfIfaC4 = (char)(HeKuOX1X0M * uDfIfaC4);
+
 }
 return 0;
 }

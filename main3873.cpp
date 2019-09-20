@@ -26,7 +26,7 @@ int main()
  short cDSkij8DoP;
  cDSkij8DoP = 1617987339;
  long double lC75;
- lC75 = 552674780;
+
     double    l2LKxqBX79;
     l2LKxqBX79    =    1701485480;
  float k3r0pe_3;
@@ -42,7 +42,7 @@ int main()
     float    z79TTNr;
     z79TTNr    =    370467360;
   unsigned long long  a9Lm7;
-  a9Lm7  =  -1565530186;
+
     unsigned short int    wbTI6ppJR;
     wbTI6ppJR    =    -955931100;
  long long iCnl_P6G;
@@ -52,7 +52,7 @@ int main()
 	short int	U45r;
 	U45r	=	1638461886;
  unsigned short Zn7DCatWd;
- Zn7DCatWd = -455747643;
+
   long double  U9M25ETd;
   U9M25ETd  =  133307688;
  long RYp7P;
@@ -124,7 +124,7 @@ int main()
 	char	o2mO;
 	o2mO	=	-411127049;
 	unsigned long long	eu0n;
-	eu0n	=	1034783845;
+
 	char	dno4;
 	dno4	=	0;
   double  vX0ufvFr;
@@ -148,7 +148,7 @@ int main()
     short int    Ut__CO6czx;
     Ut__CO6czx    =    -1387300476;
  long double FYN0gLB5m;
- FYN0gLB5m = 1891666100;
+
   unsigned short int  yW794P;
   yW794P  =  387147138;
 	short int	C1q_O_k432;
@@ -174,7 +174,7 @@ r1AOgGrZ = (int)ceil(sV67);
 ebIP = (unsigned long long)(rY693O);
 EYvKT = (unsigned char)(JUVJ);
 
-FYN0gLB5m = (int)abs(PCl0bbN_cO);
+
 
 if (t6j7n16bW < 957583508)
 {
@@ -202,7 +202,7 @@ o2mO = (int)abs(E35u);
 break;
 case 'c':
 case 'C':
-U9M25ETd = (int)floor(tzn7);
+
 break;
 case 'd':
 case 'D':
@@ -230,7 +230,7 @@ break;
 
 std::cout << s6p7Pt28 << std::endl;
 
-LGCYc = (int)abs(Cv2g2g4);
+
 
 if (z0zMI57y_ > 1603434831)
 {
@@ -304,7 +304,7 @@ case 3:
 sV67 = (int)floor(vX0ufvFr);
 break;
 case 4:
-q67mRvPd >>= GEW2_M9Dp;
+
 break;
 case 5:
 z0zMI57y_ = pWqC4(PCl0bbN_cO, yW794P, -1028657653);
@@ -367,7 +367,7 @@ case 'a':
 qLqML ^= 1269090621;
 break;
 case 'b':
-dno4 = pWqC4(1758568892, f0zssI8, -607452104);
+
 break;
 case 'c':
 cDSkij8DoP = epJC2t5_();
@@ -411,7 +411,7 @@ PCl0bbN_cO = (int)abs(rfelD0TE1);
 }
 else
 {
-rY693O = epJC2t5_();
+
 }
 }
 else if (hCCIg27 > QPgB)
@@ -426,7 +426,7 @@ else
 {
 try
 {
-woULrMu3 = AHi8L8d1 - 778045735;
+
 }
 catch (int& errorCode)
 {
@@ -460,7 +460,7 @@ else
 {
 std::cout << d0vAp(910200918, 1153586484) << yW794P << std::endl;
 }
-RYp7P = wbTI6ppJR / LG8bD;
+
 
 return 0;
 }

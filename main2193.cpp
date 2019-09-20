@@ -71,7 +71,7 @@ if (Z_s2b01EO == 1571964532)
 cout << "EU6WIR" << C4Ar << pdOm(84109676) << endl;
 }
 
-lvXI_RAxQA = (long)(i9A12rF);
+
 
 for (int i = 0; i < 7; i++)
 {
@@ -81,7 +81,7 @@ for (int j = 0; j < 8; j++)
 int k = 2;
 do
 {
-P8eRg = pdOm(mrd51YR);
+
 --k;
 }
 while (k >= 0);
@@ -101,7 +101,7 @@ if ((g_dVN > -973769347) || (TY_ETAt != KKG_4ES65))
 {
 if (mrd51YR > 1998024302)
 {
-U9y3a7N |= JHhw;
+
 }
 else
 {
@@ -111,7 +111,7 @@ Q6HFc4 = pdOm(2086463854);
 }
 else
 {
-P8eRg = pdOm(-575405215);
+
 }
 }
 }
@@ -142,7 +142,7 @@ cout << pdOm(l3i0zP7568) << gRe2(1546503573, -252256210, 440714233) << endl;
 
 for (int i = 5; i >= 0; i--)
 {
-P8eRg = pdOm(Qhx9V);
+
 }
 
 lvXI_RAxQA = gRe2(-213585221, g_dVN, QU_fv82b);
@@ -188,7 +188,7 @@ case 4:
 ouhe = (i9A12rF & -1940834306) ? Fwc98G0 : MYDIT;
 break;
 case 5:
-trhP = QU_fv82b & ow1l8BKC5;
+
 break;
 case 6:
 Q6HFc4 = pdOm(34193412);
@@ -214,7 +214,7 @@ while (i < 10);
 
 for (int i = 0; i < 3; ++i)
 {
-P8eRg = pdOm(uah3X);
+
 }
 return 0;
 }

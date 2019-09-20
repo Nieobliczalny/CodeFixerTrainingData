@@ -26,7 +26,7 @@ for (int j = 0; j < 6; j++)
 int k = 0;
 do
 {
-HHlXh6yfPp = (int)abs(ot9I);
+
 k++;
 }
 while (k < 9);
@@ -43,7 +43,7 @@ while (j < 6)
 int k = 0;
 do
 {
-IhraYR = (vY578t <= lS7K009) ? ECEbf : -37488725;
+
 k++;
 }
 while (k < 6);
@@ -58,7 +58,7 @@ if (((aTXE <= vY578t) && (xwN47rzf4a > AoXv)) || (rgVkl7g > ECEbf))
 {
 for (int j = 0; j < 6; ++j)
 {
-b7cyJOW3W = Y_Ubj9X3n_(-1810136642, nAZL5, 1649732945);
+
 }
 }
 return 0;

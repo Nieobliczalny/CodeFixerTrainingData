@@ -117,7 +117,7 @@ int main()
 switch (Q5_1nQYI)
 {
 case 'a':
-AXgm %= KNNMAA;
+
 break;
 case 'b':
 jN29_m6u9H *= huSPo6P_bf;
@@ -141,7 +141,7 @@ catch (int& errorCode)
 eTDuj_bCn1 = XYtPM();
 }
 
-U8J7 = -1303479475 / LQIQCukS;
+
 
 wY32Wt09b = (float)(pPY79L_);
 
@@ -157,7 +157,7 @@ tP92R = XYtPM();
 switch (td3h38)
 {
 case 0:
-Yz_2RMzN9p = h3WDx0o(Z34_57d, 981314468, -240586859, q0NtE__l9h);
+
 break;
 case 1:
 rr4esp1JX9 = h3WDx0o(rr4esp1JX9, -1858343707, voWyMk, 2146406072);
@@ -169,7 +169,7 @@ case 3:
 MA7U4zC = (int)floor(wY32Wt09b);
 break;
 case 4:
-MA7U4zC = (int)ceil(hOx_6ZclW);
+
 break;
 case 5:
 dFJ8ml = h3WDx0o(Z34_57d, dFJ8ml, -1076089740, -578456668);

@@ -147,7 +147,7 @@ AM78S5L = FYg7YE9s(P3LrRv, -513822414, -1185215982, 1910600500, o2xKNZ);
 }
 else
 {
-B5KEH1h07k = B5KEH1h07k + 739815330;
+
 }
 }
 else if ((l2PFDQ & 1873472520) || (l2PFDQ == -1122337544))
@@ -187,7 +187,7 @@ int k = 9;
 while (k >= 0)
 {
 --k;
-iWe4stjM = FYg7YE9s(zkwM, OwIoT1, 1484315534, -259186862, P3LrRv);
+
 }
 }
 }

@@ -140,7 +140,7 @@ if (((nV991j == 1122515748) || (nV991j <= c8xl4X9c8)) && (nV991j <= 1297640647))
 {
 if (P3L42 > IG7w)
 {
-IG7w = lbdk66KSK4();
+
 }
 else if (nV991j != IG7w)
 {
@@ -245,7 +245,7 @@ while (j < 7);
 }
 HC9x4z2 = oA_51uGIS();
 
-B9sr219O = (unsigned long)(nV991j * B9sr219O);
+
 for (int i = 0; i < 1; i++)
 {
 if (HC9x4z2 != -1654679513)

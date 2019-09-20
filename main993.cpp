@@ -16,7 +16,7 @@ short int	KJuS2(long	zpAf544DF,short int	HW5P__v);
 
 int main(void) {
     unsigned char    MaHy1K8kC,    kVt_,    e_5QW88u,    JLnw6_f4G5,    Ke_7;
-    MaHy1K8kC    =    0;
+
     kVt_    =    0;
     e_5QW88u    =    0;
     JLnw6_f4G5    =    0;
@@ -26,7 +26,7 @@ int main(void) {
 	V05F	=	-559303397;
 	Is4Ne	=	1604165606;
 	BH_cjKmV_c	=	1985262114;
-	uY8jjcB7q	=	1806367303;
+
 	meja	=	2022589877;
 	q5k9353p	=	-1271819199;
 	Y82K0c4	=	1120084437;

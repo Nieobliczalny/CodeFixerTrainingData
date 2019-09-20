@@ -58,7 +58,7 @@ int main(void) {
   short  BuI_sq  =  1559395003;
     unsigned long long    P795fT    =    0;
 
-WV1Q17 = a0Q7ZVZ22U(WV1Q17);
+
 WV1Q17 = qj1f_b >> 1555311494;
 cout << y7J0Sdp2cU(37656255, IaCE3p5p, 403469734, -1077006468, 582553251) << endl;
 {
@@ -150,7 +150,7 @@ while (i < 5)
 switch (oW1Js_1Jp3)
 {
 case 0:
-W5u_lN7Zge = TRn8DTJX2_(719618320, 1349818563, 1164037717, U22h1bj, -458814450);
+
 break;
 case 1:
 g3X0j1bn98 = (int)abs(t99LH7p4o);
@@ -165,7 +165,7 @@ case 4:
 U22h1bj = (int)ceil(aLdG8Sh);
 break;
 case 5:
-KCJ5r12 = IaCE3p5p + J63fy;
+
 break;
 default:
 Mejg_jtrn = (int)ceil(zziGl0);
@@ -175,7 +175,7 @@ break;
 }
 }
 
-U22h1bj = (int)ceil(aLdG8Sh);
+
 
 if ((Am73_ >= I7_694) && ((g3X0j1bn98) || (jSL81 < I7_694)))
 {
@@ -205,7 +205,7 @@ case 'a':
 UJx__5YL4 = TRn8DTJX2_(oW1Js_1Jp3, -301415216, t99LH7p4o, UJx__5YL4, -842917290);
 break;
 case 'b':
-qj1f_b = G7BrIOe & 1733306760;
+
 break;
 case 'c':
 g3X0j1bn98 = y7J0Sdp2cU(g3X0j1bn98, oL938TNMm, -1967972350, 2113743766, 1768683863);
@@ -228,7 +228,7 @@ i++;
 while (i < 2);
 }
 
-U22h1bj = (int)floor(Am73_);
+
 return 0;
 }
 

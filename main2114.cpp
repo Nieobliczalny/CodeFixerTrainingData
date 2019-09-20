@@ -49,7 +49,7 @@ K_434ZAT = Zk_P7cfL();
 
 if (KfPpUGIS <= mG21Lp4Mvn)
 {
-VvNnFM = Iw3O(981212226, mG21Lp4Mvn, VvNnFM, dW8h);
+
 }
 else if (((vv241WhL5 > Qq0_C) || (rA0z0hh7V9 > NSuBTg)) && (LSoA61Ib >= h2h_V))
 {
@@ -79,7 +79,7 @@ if ((y3fB9P2iJ2 > F_5ze_7) || ((NYXDtJF5k8 <= -878636670) && (dg7p0s6Ud)))
 {
 if (rSsFn8m68_ <= dW8h)
 {
-fEQ8BTJQ >>= Qd4nz;
+
 }
 else
 {
@@ -98,7 +98,7 @@ se54Yv22T = (int)abs(v0pt);
 }
 else if (G6ssKVv != IgjZsJK)
 {
-Syot = HB4bIN5 / 304764329;
+
 }
 else
 {
@@ -109,7 +109,7 @@ else if (se54Yv22T & y3fB9P2iJ2)
 {
 if (Kg68cvf31 != vuGX3)
 {
-vv241WhL5 = Syot & EVdBZ;
+
 }
 else if (rA0z0hh7V9 == z2WVc6qEs7)
 {
@@ -125,7 +125,7 @@ LYlfj7 = Zk_P7cfL();
 }
 else if (VvNnFM < 815326548)
 {
-T50KeVS_S8 = Kg68cvf31 & qHuZq99wyX;
+
 }
 else
 {
@@ -136,7 +136,7 @@ else if (f038s > NSuBTg)
 {
 for (int k = 0; k < 1; ++k)
 {
-VvNnFM = Iw3O(WOk6awNPa, 610421579, -1626806348, MbDc6);
+
 }
 }
 else
@@ -146,7 +146,7 @@ int k = 8;
 do
 {
 k--;
-VvNnFM = Iw3O(1564038033, HB4bIN5, 1803875643, -572495431);
+
 }
 while (k >= 0);
 }
@@ -162,7 +162,7 @@ switch (f038s)
 {
 case 'a':
 case 'A':
-eSuHOx_OBa ^= T50KeVS_S8;
+
 break;
 case 'b':
 case 'B':
@@ -178,7 +178,7 @@ Y6VC %= 584949728;
 break;
 case 'e':
 case 'E':
-dg7p0s6Ud |= T50KeVS_S8;
+
 break;
 case 'f':
 case 'F':
@@ -190,7 +190,7 @@ Y6K4isl = uiT79(139801182, Tq7R5Uy);
 break;
 case 'h':
 case 'H':
-IgjZsJK = H4PxX4P4 | 1188569413;
+
 break;
 case 'i':
 case 'I':
@@ -210,7 +210,7 @@ if (Y6K4isl)
 switch (rA0z0hh7V9)
 {
 case 'a':
-WOk6awNPa = uiT79(209701824, g9c893vUP6);
+
 break;
 case 'b':
 mG21Lp4Mvn = (int)abs(iN4SY52);
@@ -222,7 +222,7 @@ case 'd':
 g2lwgig = NYXDtJF5k8 >> 1649146837;
 break;
 case 'e':
-XDBcLPX = NSuBTg & 326204430;
+
 break;
 default:
 NYXDtJF5k8 ^= Y6VC;
@@ -239,7 +239,7 @@ LYlfj7 /= a7uWwN;
 }
 else
 {
-xDHO = (int)abs(GVwiMpY408) + (-720254660);
+
 }
 
 XUTA3KC = Zk_P7cfL();
@@ -251,7 +251,7 @@ std::cout << Zk_P7cfL() << dW8h << K_434ZAT << "D2z6" << std::endl;
 vL3l98Q = z3Q11Ivv(vL3l98Q, -393490016);
 try
 {
-LYlfj7 = (short)(NSuBTg + (1269661925));
+
 }
 catch (int& errorCode)
 {

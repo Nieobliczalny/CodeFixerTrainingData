@@ -180,7 +180,7 @@ case 'a':
 lkpGf_8 = u6DowgzNA(-1032566669, -1659423186, T5YEeJm, LiDe8J_G, -1275842483);
 break;
 case 'b':
-d_sSA = PTSP0LaT_t(VMg1_1k, Le45BOqP, -163036093, 653195717, T5YEeJm);
+
 break;
 case 'c':
 Le45BOqP = (int)abs(VMg1_1k);
@@ -249,7 +249,7 @@ if (h3OkhhuSo & -595327489)
 switch (ny8611_Ep)
 {
 case 0:
-ny8611_Ep = u6DowgzNA(ny8611_Ep, Le45BOqP, 1348643080, W1Nq8f1B5, T5YEeJm);
+
 break;
 case 1:
 VMg1_1k = EyT17 * Le45BOqP;

@@ -52,7 +52,7 @@ z4f9 = (int)abs(T_DG_2);
 int i = 2;
 while (i >= 0)
 {
-M8802o = gXi6_brVH9(25148399, 944390155, 1522779310);
+
 --i;
 }
 }
@@ -108,7 +108,7 @@ break;
 }
 mIs9sJ49V4 = kox3(700252494, -1053412888) / w8IYVCp_;
 
-Ech197l1AC = kox3(Ech197l1AC, o0J1EFo);
+
 
 RDQZ6BlME = (long)(vHFx);
 
@@ -153,7 +153,7 @@ for (int i = 9; i >= 0; --i)
 RDQZ6BlME = kox3(RDQZ6BlME, 913081640);
 }
 h9iy = LgryA7_ ^ 1168006275;
-ZenIHq -= 193747280;
+
 {
 int i = 9;
 do
@@ -283,7 +283,7 @@ cout << "yCJe" << SaoDid(T_DG_2, F0Yz_) << kox3(T_DG_2, F0Yz_) << gXi6_brVH9(-13
 }
 else
 {
-Fm4U0At9 = (long)(uKExA7Z);
+
 }
 BZCb = wF_suP1O << 85520323;
 for (int i = 0; i < 8; ++i)
@@ -308,7 +308,7 @@ J4i5i = kox3(a7ZfBuMWw7, b6zbd86g);
 switch (yGn7)
 {
 case 0:
-MosD &= 165066546;
+
 break;
 case 1:
 z4f9 = mgo5P9(1118108024, 1760496933, LgryA7_);
@@ -326,7 +326,7 @@ case 5:
 fA0D391mY4 = gXi6_brVH9(-2039176543, y7wDr3_BX, SKx9);
 break;
 case 6:
-MosD = a7ZfBuMWw7 - 429639517;
+
 break;
 case 7:
 uKExA7Z = mIs9sJ49V4 >> z8p5X5lq2j;
@@ -358,7 +358,7 @@ b6zbd86g = SaoDid(ge5qoD6_8, u_nhk);
 switch (o0J1EFo)
 {
 case 0:
-Xgf7e |= yIHx;
+
 break;
 case 1:
 rtuyAi = gXi6_brVH9(rtuyAi, q5VZ1u, -1818615561);
@@ -370,7 +370,7 @@ case 3:
 Pb61N_9++;
 break;
 case 4:
-uKExA7Z = wF_suP1O << SKx9;
+
 break;
 default:
 fA0D391mY4 = kox3(rtuyAi, q5VZ1u) | 1907414976;

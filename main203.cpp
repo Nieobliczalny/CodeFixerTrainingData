@@ -233,7 +233,7 @@ case 'g':
 qzl5I97 += 807726438;
 break;
 case 'h':
-fRCOdZitIP = uzyqTB_2O4(fRCOdZitIP, -111674375, 2067583294, -1750858494);
+
 break;
 case 'i':
 cKk1oU_olB -= Go4f_kaT;
@@ -317,7 +317,7 @@ SvNdLNMHF_ = uzyqTB_2O4(362604997, 1896688687, SvNdLNMHF_, -1991297095);
 switch (V6a13sMOP)
 {
 case 0:
-fRCOdZitIP = KvU58IT(-1656448685, -1438680600) & 1847934198;
+
 break;
 case 1:
 SvNdLNMHF_ = (cKk1oU_olB > loP1) ? -780629912 : u0xpg6H;
@@ -415,7 +415,7 @@ case 'b':
 qzl5I97 -= qzl5I97;
 break;
 case 'c':
-fRCOdZitIP = uzyqTB_2O4(-703367529, 838296802, d_9c, -29614216);
+
 break;
 case 'd':
 Go4f_kaT |= IDBpRZeC;
@@ -430,7 +430,7 @@ case 'g':
 RMQ3Mzifi ^= H8mQ;
 break;
 case 'h':
-V6a13sMOP = RMQ3Mzifi * 784565087;
+
 break;
 case 'i':
 RMQ3Mzifi = uzyqTB_2O4(-1336052101, 730213124, 1027520933, -882883347);

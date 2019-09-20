@@ -18,7 +18,7 @@ int main() {
     short int    GPK86a9__;
     GPK86a9__    =    1434552247;
 	unsigned char	no7_m__;
-	no7_m__	=	0;
+
  unsigned short L3xx6;
  L3xx6 = 290342266;
  long long lqQJmnyZ;
@@ -73,7 +73,7 @@ for (int j = 0; j < 2; j++)
 JT2XxS5p = (int)floor(E_Qy);
 }
 }
-no7_m__ = a_73qt_Nw(JT2XxS5p, 1487072011, q0O79bC0T);
+
 
 c1czhBJ6 -= 1067608244;
 
@@ -127,7 +127,7 @@ case 2:
 JT2XxS5p = Dg3s7Sh01(2018529031, -657265142, -1225165324, -401933670);
 break;
 case 3:
-m8729b0 = Dg3s7Sh01(387770089, -647242146, 358867805, thHQ);
+
 break;
 case 4:
 L3xx6 = JT2XxS5p + no7_m__;
@@ -160,7 +160,7 @@ case 'e':
 E_Qy /= 145738807;
 break;
 case 'f':
-no7_m__ = a_73qt_Nw(D_1nc, 1748385499, lqQJmnyZ);
+
 break;
 case 'g':
 lqQJmnyZ = jn_K4m << 1725698173;
@@ -172,7 +172,7 @@ case 'i':
 JT2XxS5p = (int)ceil(E_Qy);
 break;
 default:
-O6H5 = Dg3s7Sh01(-705656363, O6H5, 624272116, QKb8A7_P);
+
 break;
 }
 }
@@ -186,7 +186,7 @@ switch (c1czhBJ6)
 {
 case 'a':
 case 'A':
-no7_m__ = a_73qt_Nw(984414096, -1741575108, -429614292);
+
 break;
 case 'b':
 case 'B':
@@ -204,7 +204,7 @@ std::cout << q0O79bC0T << Dg3s7Sh01(ruuAwDA, -1477556163, 154740821, Xcnf1KGqC) 
 
 JZexmR_2 = (unsigned long long)(D_1nc);
 
-lqQJmnyZ = QKb8A7_P / a_73qt_Nw(518498103, QKb8A7_P, -852726721);
+
 {
 int i = 0;
 while (i < 6)
@@ -220,7 +220,7 @@ q0O79bC0T -= JZexmR_2;
 
 if (TjLh44m > E_Qy)
 {
-m8729b0 = NnFhEZ0Ql - thHQ;
+
 }
 
 O6H5 = (unsigned int)(jn_K4m);
@@ -235,7 +235,7 @@ if (JZexmR_2 & ruuAwDA)
 {
 if (JZexmR_2 < -727520378)
 {
-c1czhBJ6 = (unsigned char)(L3xx6);
+
 }
 else if (GPK86a9__ & JZexmR_2)
 {
@@ -250,7 +250,7 @@ else if (jff_P3SE != m8729b0)
 switch (GPK86a9__)
 {
 case 'a':
-JT2XxS5p = (int)floor(E_Qy);
+
 break;
 case 'b':
 n55yd *= 1521833234;
@@ -272,7 +272,7 @@ else if (NnFhEZ0Ql <= 1813307963)
 int k = 0;
 do
 {
-JT2XxS5p = (int)ceil(E_Qy);
+
 ++k;
 }
 while (k < 8);
@@ -289,7 +289,7 @@ O6H5 = (unsigned int)(L3xx6);
 }
 else
 {
-f7hqklKLF = QKb8A7_P | thHQ;
+
 }
 if (F2357 & 1386876230)
 {
@@ -319,7 +319,7 @@ break;
 }
 if (NnFhEZ0Ql > q0O79bC0T)
 {
-GPK86a9__ = D_1nc << ruuAwDA;
+
 }
 else
 {

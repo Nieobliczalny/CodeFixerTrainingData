@@ -90,7 +90,7 @@ int main(void)
   long long  ebDUkO;
   ebDUkO  =  -1524006102;
     unsigned short    V0x632;
-    V0x632    =    -1180844415;
+
   unsigned long long  F_PR4jd;
   F_PR4jd  =  880638679;
  long double dXc_m6Gt8;
@@ -235,7 +235,7 @@ Wgcw_QcTA = (int)abs(ebDUkO) * 0;
 }
 else if (P9HjIkrr86 != u1_D)
 {
-lJ3pYo = KrS1zprOF(lJ3pYo, 1387760381, 466125300);
+
 }
 else if (F_PR4jd == E63rv)
 {
@@ -251,7 +251,7 @@ while (k < 4);
 }
 else if (E16Pt <= E63rv)
 {
-lJ3pYo = x5kSJy(-900342898, QisSK660ur, 1511441450, 1207523597, c6A52vK);
+
 }
 else
 {
@@ -280,7 +280,7 @@ PRS8yj21_ = (int)abs(TuLo3l8VEw);
 switch (T5eRUxp0)
 {
 case 'a':
-e29NvfMH5 >>= 930481539;
+
 break;
 case 'b':
 ebDUkO *= KBM_;
@@ -387,7 +387,7 @@ for (int i = 5; i >= 0; --i)
 {
 if (J6VW)
 {
-lJ3pYo = (int)abs(G9F1_G);
+
 }
 else if (((lc2y_4 < KPB8rTSW) && (G9F1_G != 1208952672)) || (V0x632 < E63rv))
 {
@@ -403,7 +403,7 @@ case 2:
 V0x632 = E63rv * nzeHT;
 break;
 case 3:
-e29NvfMH5 = X3tOlG2452();
+
 break;
 case 4:
 pFT621P = KrS1zprOF(pFT621P, lc2y_4, P9HjIkrr86);
@@ -463,7 +463,7 @@ QisSK660ur = ttS9D(QisSK660ur, nzeHT, TuLo3l8VEw, A03Q3O2k);
 while (i >= 0);
 }
 
-A03Q3O2k = (int)floor(dXc_m6Gt8);
+
 
 {
 int i = 2;
@@ -485,7 +485,7 @@ ebDUkO >>= 340253587;
 }
 else if (nzeHT)
 {
-A03Q3O2k = (int)ceil(ARlkA64);
+
 }
 else
 {
@@ -528,7 +528,7 @@ case 2:
 T5eRUxp0 = ttS9D(T5eRUxp0, QisSK660ur, 1014151266, eCYX9hCU);
 break;
 case 3:
-L807WX_C_ = X3tOlG2452();
+
 break;
 case 4:
 ARlkA64 = V9fj / 2062814801;
@@ -558,7 +558,7 @@ int k = 10;
 while (k >= 0)
 {
 --k;
-ARlkA64 = (int)ceil(dXc_m6Gt8);
+
 }
 }
 }
@@ -570,7 +570,7 @@ switch (Wgcw_QcTA)
 {
 case 'a':
 case 'A':
-E16Pt *= 1496833528;
+
 break;
 case 'b':
 case 'B':
@@ -582,7 +582,7 @@ Wgcw_QcTA = Q4Grdig4();
 break;
 case 'd':
 case 'D':
-GI_rr *= nzeHT;
+
 break;
 case 'e':
 case 'E':
@@ -594,7 +594,7 @@ QisSK660ur = (int)ceil(J6VW);
 break;
 case 'g':
 case 'G':
-u1_D ^= DTqa078;
+
 break;
 case 'h':
 case 'H':
@@ -605,7 +605,7 @@ case 'I':
 QisSK660ur = (int)floor(dXc_m6Gt8);
 break;
 default:
-X6AR >>= GI_rr;
+
 break;
 }
 }
@@ -617,7 +617,7 @@ for (int i = 0; i < 9; ++i)
 {
 try
 {
-DTqa078 = (unsigned int)(E63rv + (-1897215596));
+
 }
 catch (int& errorCode)
 {

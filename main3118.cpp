@@ -256,7 +256,7 @@ i--;
 }
 while (i >= 0);
 }
-e_zSNX_J &= 1978573104;
+
 e_zSNX_J = (unsigned short)(kggC4C1);
 
 EZ45b4i = ZLjr1l_Bx_();
@@ -388,7 +388,7 @@ WWrU = (unsigned short)(ilbA6y7);
 }
 else if (ilbA6y7 <= 769975364)
 {
-ilbA6y7 = Z8zqJI(-771913300, 414034279);
+
 }
 else
 {

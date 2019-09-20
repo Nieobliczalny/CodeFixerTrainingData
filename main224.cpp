@@ -488,7 +488,7 @@ int k = 0;
 while (k < 10)
 {
 ++k;
-GWk8 = ZSKomME28K << 33258713;
+
 }
 }
 }
@@ -522,7 +522,7 @@ else if (ko44w0nQQ == fW1DyN3066)
 {
 try
 {
-GWk8 = (int)abs(hO372GW);
+
 }
 catch (int& errorCode)
 {
@@ -547,7 +547,7 @@ else
 switch (Vlpa4)
 {
 case 0:
-GWk8 = (int)abs(ko44w0nQQ) + (1053287582);
+
 break;
 case 1:
 ZSKomME28K = fW1DyN3066 + Vlpa4;
@@ -562,7 +562,7 @@ case 4:
 ko44w0nQQ = bx8i9lem25(hO372GW, Vlpa4, fR2M);
 break;
 case 5:
-GWk8 = (int)abs(hO372GW);
+
 break;
 case 6:
 hO372GW = Vlpa4 >> fR2M;

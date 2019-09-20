@@ -21,7 +21,7 @@ int main(int argc, char** argv)
   B7dWIY  =  -63760813;
   jkSgwlgeR  =  -354123441;
   kJZfuu  =  1749409983;
-  g_Ie4yMxl2  =  2043011786;
+
   Rxdzn2RV  =  -1733044678;
   O3qj  =  -1638978827;
   q3QKE  =  -1582466333;
@@ -35,7 +35,7 @@ int main(int argc, char** argv)
   ML3bj96KYi  =  -435641578;
   b9n564x  =  -1677070674;
   ltN7ia  =  -1528776850;
-  nvbP_2  =  -502819734;
+
   oX05FOU2D  =  1269313958;
   B2q8Sod  =  1646367156;
   btUcysgr  =  -804266630;
@@ -193,7 +193,7 @@ i++;
 }
 if (Tkvh2s < 565594656)
 {
-kJZfuu = jkSgwlgeR & tkHV;
+
 }
 
 kJZfuu = btUcysgr / FqQuuO_1c;
@@ -374,7 +374,7 @@ eOozkwvteP >>= 2114134310;
 }
 else if ((mp086 == -110765472) || (Tkvh2s < -1267433085))
 {
-Ogzn2 = (unsigned int)(XEVK);
+
 }
 else if (jkSgwlgeR == 1492378493)
 {
@@ -491,7 +491,7 @@ while (k < 1);
 }
 else if ((pp4Ob_BIQ & 1645199688) && (yh3DF77 != 1404108123))
 {
-K5yt4MN8 <<= g_Ie4yMxl2;
+
 }
 else
 {
@@ -504,7 +504,7 @@ case 1:
 tkHV--;
 break;
 case 2:
-eOozkwvteP -= 1922692807;
+
 break;
 case 3:
 q3QKE /= Tkvh2s;
@@ -531,7 +531,7 @@ catch (int& errorCode)
 {
 XEVK |= b9n564x;
 }
-kJZfuu = (unsigned int)(H8K4TP);
+
 f6ik77 = i00a933 - g_Ie4yMxl2;
 yh3DF77 %= 1704541474;
 if ((H8K4TP) || (tjZ8_j >= Dru0arr))

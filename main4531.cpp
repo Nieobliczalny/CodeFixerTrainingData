@@ -27,7 +27,7 @@ int main(void) {
 
 for (int i = 5; i >= 0; i--)
 {
-j44i5 = yNfG_5 - 658391605;
+
 }
 
 if (uPx0aaWP53 == 391679883)
@@ -42,7 +42,7 @@ else if (gb7l != -1843430475)
 int k = 0;
 while (k < 3)
 {
-li38kP9fS = JApTyQ0V4v(-1110949988, lL1KY3V1P) & 1147882100;
+
 ++k;
 }
 }
@@ -53,7 +53,7 @@ std::cout << "o540m" << MOmekaxi << std::endl;
 }
 else if ((V5a1b3ez > -825178000) && (yBo6 != -377411770))
 {
-yBo6 = (double)(S5QejDIK6 + (-517078571));
+
 }
 else if (S_pvKh)
 {
@@ -80,7 +80,7 @@ int k = 0;
 while (k < 3)
 {
 k++;
-CH600x3p = (int)floor(ZZv9);
+
 }
 }
 }
@@ -140,7 +140,7 @@ case 0:
 pHp5gtt6 = gb7l * 1935501012;
 break;
 case 1:
-L2YfaOSg1 = (int)ceil(dnDpXBBo);
+
 break;
 }
 }
@@ -150,7 +150,7 @@ std::cout << HQo0R1Y << "Qbd3_VnK" << wLF_9J(tO0o2lY02, 2061216682) << k4nH32m4 
 switch (V5a1b3ez)
 {
 case 0:
-g4bW8 *= 1689824366;
+
 break;
 case 1:
 pHp5gtt6 -= kKa22_GO;
@@ -162,7 +162,7 @@ case 3:
 EOfjTfI_SF = (int)abs(I6ia_ZE);
 break;
 case 4:
-V5a1b3ez = wLF_9J(x1L4Z, -1623990123);
+
 break;
 case 5:
 x1L4Z = JApTyQ0V4v(163900342, 1470690956);
@@ -174,7 +174,7 @@ default:
 aQIVE_eH57 = (int)ceil(bzcl01);
 break;
 }
-OK157_ = JApTyQ0V4v(-1080593780, OK157_);
+
 {
 int i = 0;
 do

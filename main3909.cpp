@@ -30,7 +30,7 @@ int main() {
 	unsigned char	qdeVy_S1y;
 	qdeVy_S1y	=	1535301944;
     int    X3uUi8GXh_;
-    X3uUi8GXh_    =    0;
+
     short    dTf7J6D2X0;
     dTf7J6D2X0    =    162668529;
 	unsigned short int	jXca;
@@ -176,7 +176,7 @@ while (j >= 0);
 }
 }
 
-qS659rJMiZ = Yei1_moBRL % Z_fI_pcZ;
+
 
 nV0C6K = Z_fI_pcZ | T6_Px;
 smfUG >>= jXca;
@@ -299,7 +299,7 @@ catch (int& errorCode)
 x7l_7fB95 = (int)floor(fSI6_);
 }
 
-Z_00CS = m0_cWJ106 >> 1614503782;
+
 if (QCW4 < h0H4oNru)
 {
 if (nV0C6K)
@@ -313,7 +313,7 @@ Yei1_moBRL = ABijh3k1(S7cY7AQ, qdeVy_S1y, smfUG, -1085432379, dTf7J6D2X0);
 }
 for (int i = 5; i >= 0; i--)
 {
-Z_00CS = (unsigned short int)(bv0BQ6 + (-1590609913));
+
 }
 for (int i = 10; i >= 0; --i)
 {

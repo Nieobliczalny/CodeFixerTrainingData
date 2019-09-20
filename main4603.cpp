@@ -247,7 +247,7 @@ int j = 0;
 do
 {
 ++j;
-h4qbJQih6 = Dx3I * ZfH1sVW;
+
 }
 while (j < 2);
 }

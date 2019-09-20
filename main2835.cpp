@@ -65,7 +65,7 @@ else
 switch (T_6Kv1)
 {
 case 'a':
-Qx09h = qJ4_9 % Je16T7x61;
+
 break;
 default:
 tEji3 -= 1998702344;
@@ -162,7 +162,7 @@ if (T_6Kv1 < tEji3)
 switch (T_I3)
 {
 case 0:
-ASomyf01 = p7WS8N6Dzj(ASomyf01);
+
 break;
 case 1:
 Je16T7x61 = (IIs4_6t > ow6ID4) ? G1pmHwjn : -1387702377;
@@ -174,7 +174,7 @@ case 3:
 Je16T7x61 %= 62873391;
 break;
 case 4:
-T_6Kv1 = Ckt2ivd * DcmHXG;
+
 break;
 case 5:
 CA9NAUm5X_ = J_hv();
@@ -186,7 +186,7 @@ case 7:
 oY9E *= ASomyf01;
 break;
 case 8:
-hY_5lY = J_hv();
+
 break;
 default:
 XSD594Vb = p7WS8N6Dzj(1114276677);

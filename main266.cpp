@@ -40,7 +40,7 @@ case 'f':
 GAF1brKa = (int)abs(KvU4);
 break;
 case 'g':
-yGTwp110 = VQD9Vuckk8 ^ W0jz;
+
 break;
 case 'h':
 ImCc = Wi79H3efU(d5QIZ, -920510402, YwWjJl6e, 1954108588);
@@ -62,7 +62,7 @@ case 3:
 Vix1kY = m89E11KPjH % 1920415999;
 break;
 case 4:
-Yl4xj5l6cX |= u4a4yNp3Qm;
+
 break;
 case 5:
 W0jz -= 2049338352;
@@ -74,7 +74,7 @@ case 7:
 b1bqJtP0DE %= 445280173;
 break;
 case 8:
-YwWjJl6e = YwWjJl6e - q58jp0G5o;
+
 break;
 default:
 d5QIZ = Vix1kY / 1921364595;
@@ -84,7 +84,7 @@ switch (W0jz)
 {
 case 'a':
 case 'A':
-m89E11KPjH = aDRMt8yQ & 62817252;
+
 break;
 case 'b':
 case 'B':
@@ -119,7 +119,7 @@ break;
 int i = 0;
 do
 {
-ShQEv7f = (unsigned short int)(loR49g2H);
+
 i++;
 }
 while (i < 9);
@@ -168,7 +168,7 @@ break;
 }
 }
 
-y_pHq40 = TNLcI / Wi79H3efU(Om8PoF, -1732707682, a4vfp3H84, 1622153158);
+
 for (int i = 1; i >= 0; --i)
 {
 G7nb5o3 >>= Vix1kY;

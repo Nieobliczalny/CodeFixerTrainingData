@@ -27,7 +27,7 @@ int main(int argc, char** argv) {
   unsigned long long  O5hw;
   O5hw  =  0;
 	long long	L7dwrA_q_I;
-	L7dwrA_q_I	=	0;
+
  char ui3CODor;
  ui3CODor = 0;
  unsigned long y7777;
@@ -409,7 +409,7 @@ p4hxBJHyM = lFWEWkp9(WZW12SF, y7777, 85386864, L7dwrA_q_I, ui3CODor);
 }
 }
 
-y7777 = (unsigned long)(ui3CODor);
+
 p4hxBJHyM &= 2083051559;
 
 L7dwrA_q_I = (long long)(Z44qDbdzI);
@@ -434,7 +434,7 @@ else
 {
 try
 {
-L7dwrA_q_I = (long long)(O5hw);
+
 }
 catch (int& errorCode)
 {

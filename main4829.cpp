@@ -35,7 +35,7 @@ int main(int argc, char** argv)
  unsigned int IwmDgF;
  IwmDgF = -539717769;
   int  tt9KNG_z;
-  tt9KNG_z  =  -2131826978;
+
   unsigned short int  LK3bTq716n;
   LK3bTq716n  =  -1972438815;
     unsigned char    w0gCn;
@@ -233,7 +233,7 @@ else
 {
 try
 {
-IwmDgF ^= 297366791;
+
 }
 catch (int& errorCode)
 {
@@ -292,7 +292,7 @@ case 'G':
 Lm2qtf_8 = N82dgTT - 107639800;
 break;
 default:
-T_DMRM6_ui = vBxN5 / 393410328;
+
 break;
 }
 }
@@ -310,7 +310,7 @@ std::cout << vBxN5 << QFTRE << std::endl;
 }
 else if ((yi_iw) || (Lm2qtf_8 == 935714724))
 {
-nCcfH_r8 = (long)(kBna * nCcfH_r8);
+
 }
 else
 {
@@ -345,7 +345,7 @@ if (Fh7j3b6Pt == qG_3h)
 {
 for (int k = 10; k >= 0; --k)
 {
-yi_iw = (int)abs(k776488cJZ) * 0;
+
 }
 }
 else
@@ -356,7 +356,7 @@ HGt5 /= 2101694232;
 }
 else if (aedDm == z65d_0NA)
 {
-LK3bTq716n = ZI0J3iEGPn % 813853556;
+
 }
 else if (betHnlq > 737972936)
 {
@@ -368,7 +368,7 @@ w0gCn = (vBxN5 <= tt9KNG_z) ? QFTRE : tt9KNG_z;
 }
 else if ((z65d_0NA >= kBna) || (Lm2qtf_8 == -293078829))
 {
-LK3bTq716n &= HGt5;
+
 }
 else
 {

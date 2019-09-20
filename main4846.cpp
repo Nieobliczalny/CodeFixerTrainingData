@@ -391,7 +391,7 @@ switch (grk9TF_G)
 {
 case 'a':
 case 'A':
-IV6OQwhCu5 = ffV5Se4(IV6OQwhCu5, grk9TF_G, 86656610, 1853316752, bn05cI);
+
 break;
 case 'b':
 case 'B':
@@ -407,7 +407,7 @@ N6f0t6Pyi = cVGLZlv | rym4;
 break;
 case 'e':
 case 'E':
-Gsu7S118c = omwei2(-523145808, 153593833, rym4, Rjhz36Y3);
+
 break;
 case 'f':
 case 'F':

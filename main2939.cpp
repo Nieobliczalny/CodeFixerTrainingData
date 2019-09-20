@@ -73,7 +73,7 @@ j++;
 }
 }
 
-X3x4DwEI0i /= mGVj_8u7V;
+
 
 X3x4DwEI0i = (int)abs(nEld8);
 for (int i = 0; i < 6; i++)
@@ -108,7 +108,7 @@ case 'c':
 X3x4DwEI0i = Y1JuA + cYg9A;
 break;
 case 'd':
-y9zsJ >>= nEld8;
+
 break;
 case 'e':
 Y1JuA = (Y1JuA & y9zsJ) ? nEld8 : y9zsJ;
@@ -120,7 +120,7 @@ case 'g':
 mGVj_8u7V = mGVj_8u7V << y9zsJ;
 break;
 case 'h':
-y9zsJ = X3x4DwEI0i - 1467731012;
+
 break;
 case 'i':
 nEld8 = (int)abs(Yfyl);
@@ -138,7 +138,7 @@ int k = 7;
 while (k >= 0)
 {
 k--;
-y9zsJ = (int)abs(mGVj_8u7V);
+
 }
 }
 }
@@ -157,7 +157,7 @@ y9zsJ = mGVj_8u7V * nEld8;
 switch (Yfyl)
 {
 case 0:
-nEld8 = nEld8 << 1554265794;
+
 break;
 case 1:
 Y1JuA = cYg9A & 1228239178;
@@ -169,7 +169,7 @@ case 3:
 y9zsJ = Y1JuA << 1631835316;
 break;
 case 4:
-nEld8 %= 1198387428;
+
 break;
 case 5:
 nEld8 += 703110503;
@@ -181,7 +181,7 @@ case 7:
 nEld8 = X3x4DwEI0i >> 783147928;
 break;
 case 8:
-Y1JuA >>= Yfyl;
+
 break;
 case 9:
 mGVj_8u7V = Y1JuA / 1323605110;
@@ -191,7 +191,7 @@ mGVj_8u7V--;
 break;
 }
 
-X3x4DwEI0i = y9zsJ / cYg9A;
+
 return 0;
 }
 

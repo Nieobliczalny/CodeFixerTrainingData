@@ -22,7 +22,7 @@ int main(int argc, char** argv)
 	long long	ki9UDDj;
 	ki9UDDj	=	-1683424562;
 	float	y53y2lO3;
-	y53y2lO3	=	929038168;
+
  float qDMV;
  qDMV = -986181872;
 	unsigned char	TK_02Ote;
@@ -34,7 +34,7 @@ int main(int argc, char** argv)
  long long wD_Y7614Tl;
  wD_Y7614Tl = -946549343;
   double  b3ufp;
-  b3ufp  =  -563946915;
+
 	long double	W5q7pnJ6Y;
 	W5q7pnJ6Y	=	-281824528;
     unsigned short int    w3AtW6fA;
@@ -44,7 +44,7 @@ int main(int argc, char** argv)
     unsigned char    Ps61BQ0yp4;
     Ps61BQ0yp4    =    1257427924;
  double F3_76a_9g;
- F3_76a_9g = -632044908;
+
     char    TOIsIj2h;
     TOIsIj2h    =    540232822;
 	long long	N_lebWy;
@@ -66,7 +66,7 @@ int main(int argc, char** argv)
  unsigned long long HhX2;
  HhX2 = -1628955063;
 	long long	KYhV3R1d8;
-	KYhV3R1d8	=	90691479;
+
 	short	o51l7QnF0;
 	o51l7QnF0	=	650025564;
 
@@ -97,7 +97,7 @@ int k = 0;
 do
 {
 k++;
-b3ufp = UEC_9vItT * 1757692592;
+
 }
 while (k < 3);
 }
@@ -135,7 +135,7 @@ TK_02Ote = (unsigned char)(Uhn_R);
 }
 if (ki9UDDj)
 {
-Ps61BQ0yp4 = k5Y65v(Ps61BQ0yp4, Uhn_R, aR5PH3);
+
 }
 std::cout << "V3hys" << CIiF_3(-1411114135, -767595327, aR5PH3, -1606875172, 1240648388) << k5Y65v(-1128504750, Uhn_R, -189370177) << b35v2_5PU(-1691395765, Uhn_R, 2010880329, TK_02Ote, HhX2) << std::endl;
 
@@ -145,7 +145,7 @@ S4BDr8_pNr = CIiF_3(1197600330, 680268844, o51l7QnF0, 1958184775, -22610088);
 }
 try
 {
-HhX2 = HhX2 ^ 1397834314;
+
 }
 catch (int& errorCode)
 {
@@ -155,7 +155,7 @@ UW53E = (int)floor(UEC_9vItT);
 int i = 6;
 do
 {
-N_lebWy = (int)abs(qDMV);
+
 i--;
 }
 while (i >= 0);
@@ -172,7 +172,7 @@ while (j < 10)
 {
 for (int k = 4; k >= 0; k--)
 {
-w3AtW6fA = k5Y65v(1333654826, N0QiFL, -164493921);
+
 }
 ++j;
 }
@@ -182,7 +182,7 @@ w3AtW6fA = k5Y65v(1333654826, N0QiFL, -164493921);
 wD_Y7614Tl = (int)abs(Vq7N);
 
 jv59v_ = b35v2_5PU(jv59v_, 1209984391, -283130878, -959242073, ki9UDDj);
-B7Px0 = -2069255173 / S4BDr8_pNr;
+
 return 0;
 }
 

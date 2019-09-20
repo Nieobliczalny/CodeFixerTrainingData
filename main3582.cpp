@@ -404,7 +404,7 @@ V6jwV = gq22(-469268771);
 }
 }
 }
-vmy11_Z = (short int)(V6jwV * (J55J5JC));
+
 V6jwV >>= 1619353985;
 vmy11_Z = (short int)(J55J5JC);
 try
@@ -518,7 +518,7 @@ if (vmy11_Z != -390205991)
 std::cout << "LuBh2" << "j4lnme" << std::endl;
 }
 
-vmy11_Z = (short int)(V6jwV * vmy11_Z);
+
 V6jwV = gq22(506632819);
 
 return 0;

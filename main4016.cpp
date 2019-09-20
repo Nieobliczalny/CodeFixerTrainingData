@@ -20,7 +20,7 @@ unsigned int	BVT5XAo(unsigned long	rBHIyzte4L,unsigned long	p99ll2,unsigned long
 int main() {
 	unsigned char	E_dn1U,	sn1IDo_v,	jP4ef5a,	qn4Ojf,	urw3izDaw,	PUC26H1,	F75U,	L3rmNkU67,	PUKW3R,	MIt1,	Yy3_,	PNkfJgStiI;
 	E_dn1U	=	1177178209;
-	sn1IDo_v	=	-1515937219;
+
 	jP4ef5a	=	57709741;
 	qn4Ojf	=	745815514;
 	urw3izDaw	=	-2134602458;
@@ -30,7 +30,7 @@ int main() {
 	PUKW3R	=	-1350890319;
 	MIt1	=	-874583595;
 	Yy3_	=	1547922039;
-	PNkfJgStiI	=	-859455935;
+
     unsigned int    AA9R,    wm10__1,    q8FUocgVqy,    D92iu;
     AA9R    =    0;
     wm10__1    =    0;
@@ -45,7 +45,7 @@ int i = 5;
 do
 {
 i--;
-PUKW3R = Yy3_ - D92iu;
+
 }
 while (i >= 0);
 }

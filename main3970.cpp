@@ -17,7 +17,7 @@ int main(void)
     short    M45bw7KH_;
     M45bw7KH_    =    0;
  unsigned long ttp_5;
- ttp_5 = 288306821;
+
 	unsigned char	sC0j;
 	sC0j	=	-170341092;
  unsigned short int IL_1DFz77;
@@ -31,7 +31,7 @@ int main(void)
     unsigned long long    j92aN5;
     j92aN5    =    225707643;
 	char	yk8fvy;
-	yk8fvy	=	458671177;
+
  float zbZld85;
  zbZld85 = -682264148;
  long HyqfS;
@@ -43,7 +43,7 @@ int main(void)
   float  bC0LA7;
   bC0LA7  =  776681992;
   long  cqaf0x733;
-  cqaf0x733  =  1039388599;
+
  unsigned long E8QmpHnz;
  E8QmpHnz = 1972511590;
 	unsigned long long	sSHTF_;
@@ -81,7 +81,7 @@ int main(void)
  char uXmCVG2_71;
  uXmCVG2_71 = 0;
  float h_1_9msaz;
- h_1_9msaz = -1058431623;
+
  double iho_H2W;
  iho_H2W = 2089582508;
     unsigned char    y_P3K6Eq;
@@ -91,7 +91,7 @@ int main(void)
 	unsigned short	UE24zSw3AH;
 	UE24zSw3AH	=	2011663523;
 	unsigned long long	zqlnc1w;
-	zqlnc1w	=	0;
+
   unsigned short  XX0Ww8m_F;
   XX0Ww8m_F  =  -1031061952;
   char  eEYe6cM;
@@ -105,7 +105,7 @@ int main(void)
 	unsigned short int	FZJC5kW5;
 	FZJC5kW5	=	0;
 	unsigned short	ex3e;
-	ex3e	=	342001624;
+
 
 {
 int i = 3;
@@ -163,7 +163,7 @@ if (y_P3K6Eq == -1183563675)
 {
 try
 {
-eEdnC = IL_1DFz77 % E8QmpHnz;
+
 }
 catch (int& errorCode)
 {
@@ -204,7 +204,7 @@ case 0:
 j92aN5 /= 1846881635;
 break;
 case 1:
-gOqN3 = p299 * y_P3K6Eq;
+
 break;
 case 2:
 eEdnC = (int)abs(xLD5);
@@ -216,7 +216,7 @@ case 4:
 F8ZfmqSn |= DSPvsDq;
 break;
 case 5:
-LNH80hoK = UE24zSw3AH ^ 179562638;
+
 break;
 default:
 h_1_9msaz = j92aN5 * xLD5;
@@ -226,7 +226,7 @@ break;
 switch (mI8XyF7)
 {
 case 0:
-xLD5 = (int)ceil(bC0LA7);
+
 break;
 case 1:
 t8E6_zT5S /= y_P3K6Eq;
@@ -238,7 +238,7 @@ case 3:
 xLD5 = (int)floor(zbZld85);
 break;
 case 4:
-u5_Y9opuE /= gsK1S7;
+
 break;
 default:
 mI8XyF7 = S7p__f80y7 % u5_Y9opuE;
@@ -254,7 +254,7 @@ eEYe6cM = Vs8fzd * cYXk6Y;
 switch (HyqfS)
 {
 case 0:
-qFPLuwB = j92aN5 & 136255123;
+
 break;
 case 1:
 IL_1DFz77 = qFPLuwB * 1209850783;
@@ -269,7 +269,7 @@ case 4:
 t_kv = sSHTF_ & eEYe6cM;
 break;
 case 5:
-eEdnC = (int)ceil(bC0LA7);
+
 break;
 case 6:
 eEdnC = (int)abs(M45bw7KH_) + (1530860930);
@@ -304,7 +304,7 @@ while (j < 3);
 
 if (UE24zSw3AH >= -1504211106)
 {
-Vs8fzd = (int)abs(F8ZfmqSn);
+
 }
 else
 {
@@ -325,7 +325,7 @@ if ((E8QmpHnz / M45bw7KH_) == 800851806)
 {
 if (uXmCVG2_71 == 0)
 {
-	eEYe6cM = IprD43j / uXmCVG2_71;
+
 }
 }
 

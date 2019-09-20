@@ -38,7 +38,7 @@ int main(void)
 	float	g9AXhOu,	tZy6b8,	o90n8jQCE,	oDnj3OK,	N5m2h_KF1;
 		g9AXhOu	=	tZy6b8	=	o90n8jQCE	=	oDnj3OK	=	N5m2h_KF1	=	1280229137;
 
-o90n8jQCE = yhS6 / o90n8jQCE;
+
 N5m2h_KF1 = sAJ9jCf_ / sAJ9jCf_;
 
 g9AXhOu = Q83os9(g9AXhOu);
@@ -79,7 +79,7 @@ try
 {
 if (N5m2h_KF1)
 {
-o90n8jQCE = sAJ9jCf_ << 929949079;
+
 }
 else if ((sAJ9jCf_ != -1703317705) || (oDnj3OK < -1743648880))
 {
@@ -104,7 +104,7 @@ while (j >= 0)
 --j;
 if (((oDnj3OK) || (yhS6)) || ((Jf2bI_ >= -542825656) && (Jf2bI_)))
 {
-o90n8jQCE = (oDnj3OK == -1618169573) ? 414332089 : tZy6b8;
+
 }
 else
 {

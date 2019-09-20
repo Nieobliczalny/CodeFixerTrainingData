@@ -14,7 +14,7 @@ unsigned int f68GggIz(long uw49,short mcBokpl3,short AI5onHqlRk,unsigned int fmR
 
 int main(void) {
  unsigned short int FJpZ;
- FJpZ = 0;
+
  float F_2KG;
  F_2KG = -179954269;
     short    DcI164;
@@ -24,7 +24,7 @@ int main(void) {
     long    h_nE1Ph;
     h_nE1Ph    =    419420477;
   short int  Xj_xcVh1y1;
-  Xj_xcVh1y1  =  -1958285525;
+
   unsigned long  hz4q7l8K_5;
   hz4q7l8K_5  =  657774087;
   unsigned char  V7xEJb8;
@@ -36,7 +36,7 @@ int main(void) {
  unsigned long qqi4n;
  qqi4n = -850863493;
 	long double	sAbk_F1;
-	sAbk_F1	=	-1021154126;
+
   unsigned long long  VUoYW;
   VUoYW  =  932481717;
     short    bDGHL9fyi;
@@ -46,7 +46,7 @@ int main(void) {
     unsigned short    aNfXrs06J;
     aNfXrs06J    =    -968657692;
   long  YN2iU;
-  YN2iU  =  299789758;
+
   int  I2Yk_;
   I2Yk_  =  -1106349175;
   long long  GE_LI80FaK;
@@ -56,7 +56,7 @@ int main(void) {
 	long	vtlq7;
 	vtlq7	=	-1773945777;
 	unsigned long	Momq4Eoc;
-	Momq4Eoc	=	-1221795506;
+
   long double  bD8ca;
   bD8ca  =  -1327024560;
 	double	Zo7ci7EMk;
@@ -68,7 +68,7 @@ int main(void) {
     unsigned long long    iyGZ;
     iyGZ    =    -196228581;
     double    pvE0;
-    pvE0    =    1124352348;
+
 	char	T_pF7sRE_;
 	T_pF7sRE_	=	1722281356;
     unsigned char    V9qZT4Dm9;
@@ -78,7 +78,7 @@ int main(void) {
 	unsigned long long	uz_R_377;
 	uz_R_377	=	-1388787159;
 	short	Ge_Uj;
-	Ge_Uj	=	813643830;
+
 	unsigned int	NVR0i;
 	NVR0i	=	774465599;
   int  Xoc4L_0s8t;
@@ -92,7 +92,7 @@ int main(void) {
  long double ODT79G46j;
  ODT79G46j = 1048070057;
  double ZT88hep;
- ZT88hep = -2036796877;
+
     long double    z6Il_;
     z6Il_    =    -1895127565;
     unsigned int    yX_0DPGfr9;
@@ -102,7 +102,7 @@ int main(void) {
   unsigned short  XtDgg;
   XtDgg  =  0;
   unsigned long long  J3JNuj8T;
-  J3JNuj8T  =  1934420242;
+
     unsigned int    Oq216QU;
     Oq216QU    =    -272460843;
   unsigned char  Uxu8;
@@ -112,7 +112,7 @@ int main(void) {
     unsigned long    DD4fY;
     DD4fY    =    -2014139231;
 	unsigned short	BvtU0gtk8e;
-	BvtU0gtk8e	=	-1506280081;
+
  unsigned long long e2k26230p5;
  e2k26230p5 = -1421215923;
 	long	pA35;
@@ -122,7 +122,7 @@ int main(void) {
 
 std::cout << f68GggIz(1921542445, -462436314, Xoc4L_0s8t, -1916281306, 135269936) << f68GggIz(F4ZrcZ0, V9qZT4Dm9, Xoc4L_0s8t, qqi4n, Zo7ci7EMk) << h_nE1Ph << f68GggIz(1513779581, 1436575400, Xoc4L_0s8t, 1565920804, 40527957) << std::endl;
 
-ZT88hep = vtlq7 / f68GggIz(F4ZrcZ0, -15213345, Xoc4L_0s8t, -317017436, -493770585);
+
 
 try
 {
@@ -139,7 +139,7 @@ dTBKmokCI++;
 int i = 0;
 do
 {
-qqi4n = (unsigned long)(aNfXrs06J);
+
 ++i;
 }
 while (i < 1);

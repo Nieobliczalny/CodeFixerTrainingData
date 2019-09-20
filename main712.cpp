@@ -301,7 +301,7 @@ case 2:
 h_UI27Fu3 = (int)abs(ip3N_uG12J);
 break;
 case 3:
-Xpf34wu = q41c(Xpf34wu, h_UI27Fu3);
+
 break;
 }
 for (int i = 0; i < 3; ++i)
@@ -311,7 +311,7 @@ if (RR382cFB < 929058818)
 switch (BlR7QJz8_)
 {
 case 0:
-RG3Z8B80T = Zz662 & dxtX;
+
 break;
 case 1:
 h_UI27Fu3 = (int)abs(QP7_);
@@ -326,7 +326,7 @@ case 4:
 fUGu += PTBv;
 break;
 case 5:
-RG3Z8B80T = FWl_Ta_() & 1734684814;
+
 break;
 case 6:
 vj73To3XqM = IA1hs6 | 189579379;
@@ -341,7 +341,7 @@ case 9:
 BlR7QJz8_ = voH0ax8H7(-139295323, -1577996717);
 break;
 default:
-pR7_ = ip3N_uG12J % 586800751;
+
 break;
 }
 }

@@ -24,7 +24,7 @@ std::cout << HAeIM7SMj(289708120, -1997259528) << "ic0w3VA" << std::endl;
 }
 }
 
-ll8CE1 = (unsigned short)(arp_F + (542140411));
+
 for (int i = 0; i < 7; i++)
 {
 for (int j = 0; j < 2; ++j)
@@ -41,7 +41,7 @@ while (k >= 0);
 }
 }
 
-uPd0cPEc5 = HAeIM7SMj(734964221, iC56) << yzvV;
+
 
 try
 {
@@ -52,7 +52,7 @@ catch (int& errorCode)
 u7tN9I2bKm %= 1569200736;
 }
 
-Ys1x0_Q = i72d0YDT ^ E7Hhww;
+
 
 if (gVq2v >= A9rFIt257Y)
 {
@@ -98,7 +98,7 @@ case 'a':
 hJfbqm0y = HAeIM7SMj(s3iFo4cyOe, diB25fj948);
 break;
 case 'b':
-i72d0YDT = (int)abs(CDV0d75_e);
+
 break;
 case 'c':
 xlVF2rR6 ^= 570228334;
@@ -116,7 +116,7 @@ break;
 }
 else
 {
-AUOX21w = (unsigned short)(H6Z_);
+
 }
 
 switch (js81Qw_4_8)
@@ -128,7 +128,7 @@ case 1:
 ttvW52W2z = (int)abs(hJfbqm0y);
 break;
 case 2:
-js81Qw_4_8 = d3Xy_Lx0f + 746910833;
+
 break;
 case 3:
 H6Z_ &= f98ydWFk;
@@ -140,7 +140,7 @@ case 5:
 UX26z3_ = HAeIM7SMj(889284664, 1914855570);
 break;
 case 6:
-ll8CE1 = xlVF2rR6 % 1596209973;
+
 break;
 default:
 CDV0d75_e = HAeIM7SMj(f98ydWFk, E7Hhww);
@@ -150,7 +150,7 @@ break;
 switch (dXVA_2Xx)
 {
 case 0:
-S017 = A9rFIt257Y & MyC29lljL7;
+
 break;
 case 1:
 m4HwH = oWd8KtSV << 1035374635;

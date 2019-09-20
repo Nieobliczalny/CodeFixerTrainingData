@@ -29,7 +29,7 @@ int main(int argc, char** argv) {
 	NTA38	=	-662766067;
     short    HYat4uHe_,    R69rsjEgk,    VuVN1Q,    JNt5f3d,    J84P;
     HYat4uHe_    =    0;
-    R69rsjEgk    =    0;
+
     VuVN1Q    =    0;
     JNt5f3d    =    0;
     J84P    =    0;
@@ -90,7 +90,7 @@ R69rsjEgk = TxSV_(R69rsjEgk, 1673204295, 1416902944);
 }
 else if (HYat4uHe_)
 {
-JNt5f3d = (int)abs(VuVN1Q);
+
 }
 else if (K2dS947VT >= -956220162)
 {
@@ -170,7 +170,7 @@ if (ISh_n51 & AZehlQS)
 int k = 0;
 while (k < 4)
 {
-VuVN1Q = TxSV_(c3uM6T, 531559860, K2dS947VT);
+
 ++k;
 }
 }
@@ -213,7 +213,7 @@ else
 {
 if ((VuVN1Q < -1136973124) || (U4z_d4E86 == -32044958))
 {
-VuVN1Q = TxSV_(Ew5d2ln53, VuVN1Q, c3uM6T);
+
 }
 else if (VuVN1Q & -140727423)
 {
@@ -240,7 +240,7 @@ HYat4uHe_ = TxSV_(c3uM6T, -1774033046, dxc6c0N2);
 
 if (R69rsjEgk == 0)
 {
-	NTA38 = TxSV_(c3uM6T, U4z_d4E86, dxc6c0N2) / R69rsjEgk;
+
 }
 
 switch (oMYAD0fU)
@@ -341,7 +341,7 @@ case 1:
 dxc6c0N2 = oMYAD0fU >> 726811754;
 break;
 case 2:
-JNt5f3d = (int)abs(HYat4uHe_);
+
 break;
 case 3:
 R69rsjEgk = TxSV_(R69rsjEgk, nI_rc7, U4z_d4E86);

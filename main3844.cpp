@@ -128,7 +128,7 @@ case 0:
 G11u = q4R4uW();
 break;
 case 1:
-xk9d5b3 = q4R4uW();
+
 break;
 case 2:
 T2K88 = q4R4uW();
@@ -422,7 +422,7 @@ int k = 8;
 do
 {
 --k;
-sm_085 = (int)abs(T2K88) + (1124531938);
+
 }
 while (k >= 0);
 }
@@ -461,7 +461,7 @@ try
 {
 if (S_jjDL6YuR >= PsMBH)
 {
-sm_085 += G11u;
+
 }
 else if (yNudl1K != G11u)
 {
@@ -521,7 +521,7 @@ if (yNudl1K)
 {
 if (T2K88 >= sm_085)
 {
-G11u = (unsigned long long)(T2K88);
+
 }
 }
 for (int i = 0; i < 1; i++)
@@ -546,7 +546,7 @@ sm_085 = ztp_mM8nje ^ XqLf;
 switch (XqLf)
 {
 case 0:
-G11u = q4R4uW();
+
 break;
 case 1:
 sm_085 = sm_085 >> 39766840;
@@ -567,7 +567,7 @@ case 6:
 ztp_mM8nje ^= XqLf;
 break;
 default:
-G11u = q4R4uW();
+
 break;
 }
 

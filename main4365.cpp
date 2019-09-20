@@ -34,7 +34,7 @@ switch (i20dRUBK)
 {
 case 'a':
 case 'A':
-Ikjr = AlcD(-598803602);
+
 break;
 case 'b':
 case 'B':
@@ -54,7 +54,7 @@ D7uk3RCC = ljhB - 495089885;
 break;
 case 'f':
 case 'F':
-JR6kYS = xiNgbml45N(vaL1I0P, Hu03w_5okm);
+
 break;
 case 'g':
 case 'G':
@@ -79,7 +79,7 @@ case 0:
 j67Pmo = xiNgbml45N(1632435673, 1549163539);
 break;
 case 1:
-my7Z4 = uP6N1V3 + 279939442;
+
 break;
 case 2:
 kdspgw--;
@@ -91,7 +91,7 @@ case 4:
 W1J1NF06 = AlcD(-112693539);
 break;
 case 5:
-AcOW = NY8NCJ66rL();
+
 break;
 case 6:
 AcOW = k564_DvPLq ^ 1207214163;
@@ -103,7 +103,7 @@ case 8:
 k564_DvPLq += Hu03w_5okm;
 break;
 case 9:
-H6K8cCr_X &= 1543096706;
+
 break;
 }
 }
@@ -145,7 +145,7 @@ int i = 5;
 while (i >= 0)
 {
 --i;
-c13kW_9 = (unsigned short)(k_1rI);
+
 }
 }
 
@@ -159,7 +159,7 @@ std::cout << "Ht3sV" << k9QDZRkhx << JUWiw083_(D_wRT5sx1A, -1672887411) << "Z4_5
 switch (O6a4yD)
 {
 case 0:
-g_xy3J6W = xiNgbml45N(m7928_O0, H9rg34_6);
+
 break;
 case 1:
 O1yB = NY8NCJ66rL();
@@ -171,7 +171,7 @@ case 3:
 A_6l = xiNgbml45N(Wj89m9G, -1910041876);
 break;
 case 4:
-R_dI4zi <<= Zg9cl3;
+
 break;
 case 5:
 g_xy3J6W = xiNgbml45N(Wj89m9G, -1043616639);

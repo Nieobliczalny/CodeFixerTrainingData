@@ -43,7 +43,7 @@ int main(int argc, char** argv)
 	long double	JaQY__j0;
 	JaQY__j0	=	-144148772;
     unsigned int    Z8adZ;
-    Z8adZ    =    1955289181;
+
  short FTaEVQ;
  FTaEVQ = 118718969;
 	unsigned int	NzO0C;
@@ -93,7 +93,7 @@ int main(int argc, char** argv)
  unsigned short int MtLC0_pz9u;
  MtLC0_pz9u = 562894144;
 	unsigned short	iA95xZWdi;
-	iA95xZWdi	=	-1001783600;
+
   unsigned short  AXJ8Q5md;
   AXJ8Q5md  =  1864478244;
     double    RpuWN1BQ;
@@ -172,7 +172,7 @@ case 7:
 t_CdSoP5_1 = z67E(t_CdSoP5_1, 273630073, a4tx, -1029561487);
 break;
 default:
-dRcmyt1 = (int)abs(FTaEVQ);
+
 break;
 }
 }
@@ -213,7 +213,7 @@ DbBtv = aJ6z3f + 1319710364;
 }
 }
 
-v0_9 = KWXDL9BPM / ujs3;
+
 
 if ((FTaEVQ > -1158914614) && (bJYXipWA != uErxPx1W))
 {
@@ -231,7 +231,7 @@ jkeb9X99--;
 }
 else if ((fH2p8 & 1576164411) && (mEp1 > Vn0wel_AT6))
 {
-Vn0wel_AT6 = (long double)(K4OEw);
+
 }
 else if (Alm41X5T & icQuY)
 {
@@ -243,7 +243,7 @@ yj8MFugT3 = (int)abs(t_CdSoP5_1);
 }
 else if (s0De_ < KWXDL9BPM)
 {
-jkeb9X99 = aJ6z3f / a4tx;
+
 }
 else if (KWXDL9BPM != GYgv6Yz)
 {
@@ -282,7 +282,7 @@ case 'b':
 IAgb_M6R0t = h707z(IAgb_M6R0t, ci56, S_95, 1519837494);
 break;
 case 'c':
-mEp1 = (int)ceil(z_70F6GkL);
+
 break;
 case 'd':
 N6Bf7Xh3 = i1Q16(1978575093, N6Bf7Xh3, H6Nh);
@@ -294,7 +294,7 @@ case 'f':
 mEp1 = Vs2Y * 896662893;
 break;
 case 'g':
-ci56 = K4OEw >> 745005019;
+
 break;
 case 'h':
 iA95xZWdi = dRcmyt1 % 382643061;
@@ -308,7 +308,7 @@ else
 {
 for (int j = 3; j >= 0; j--)
 {
-mEp1 = (int)abs(DbBtv);
+
 }
 }
 iA95xZWdi = i1Q16(-2027308697, -1613976326, s4ANcr);
@@ -322,7 +322,7 @@ switch (bJYXipWA)
 {
 case 'a':
 case 'A':
-N6Bf7Xh3 = (int)abs(H6Nh);
+
 break;
 case 'b':
 case 'B':
@@ -373,7 +373,7 @@ case 1:
 ujs3 = QP1M6Ya(AH_w3_W9, S_95, f1Mp59A32W);
 break;
 case 2:
-Vs2Y = i1Q16(-1228469521, wT7oellUP, 1312560656);
+
 break;
 case 3:
 usQw1Vc33_ = f_NkZ9(usQw1Vc33_, IqBsl8q1D2, fH2p8, -156963874);
@@ -408,7 +408,7 @@ i--;
 }
 }
 
-z_70F6GkL = (float)(a15JO23lsJ + (K4OEw));
+
 
 if (r5z3g & yj8MFugT3)
 {
@@ -418,7 +418,7 @@ yj8MFugT3 = (TN_Jb0 != 247274917) ? QX0EU29Cp : uErxPx1W;
 }
 else
 {
-a4tx = (long long)(kZ2_5c);
+
 }
 }
 bJYXipWA = (unsigned int)(uErxPx1W);

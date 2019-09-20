@@ -16,7 +16,7 @@ int main(void)
   snQ48Zd  =  0;
     long long    JW385G2N5,    lVmi61dI,    bTp1A83__,    C_ogNXNmq,    HxwZ,    B_33ut1i,    g7s_K6v,    XqH16,    v859ZP4wm7,    B5ZqA9,    wxGBENZ_,    Xn3487uTZp,    U5xgbf_,    XMA_v76,    xQxQK0V,    y1279_,    uF26Q,    Hz71_3_,    yzwSacd3,    vVf9;
     JW385G2N5    =    -1125543913;
-    lVmi61dI    =    121335393;
+
     bTp1A83__    =    1071136520;
     C_ogNXNmq    =    807917782;
     HxwZ    =    102529556;
@@ -27,7 +27,7 @@ int main(void)
     B5ZqA9    =    1594296386;
     wxGBENZ_    =    259113502;
     Xn3487uTZp    =    -840075790;
-    U5xgbf_    =    1094864976;
+
     XMA_v76    =    1078005310;
     xQxQK0V    =    -410964623;
     y1279_    =    -554584027;
@@ -45,7 +45,7 @@ case 'a':
 xQxQK0V = v859ZP4wm7 + Hz71_3_;
 break;
 case 'b':
-wxGBENZ_ = v859ZP4wm7 | 1883562661;
+
 break;
 case 'c':
 Xn3487uTZp = Xn3487uTZp - snQ48Zd;
@@ -57,7 +57,7 @@ case 'e':
 snQ48Zd = AWrfQ();
 break;
 case 'f':
-B_33ut1i /= vVf9;
+
 break;
 case 'g':
 snQ48Zd = AWrfQ();
@@ -69,7 +69,7 @@ case 'i':
 g7s_K6v = AWrfQ() * 1987625378;
 break;
 case 'j':
-lVmi61dI = g7s_K6v << 395531501;
+
 break;
 default:
 snQ48Zd = AWrfQ();
@@ -94,7 +94,7 @@ while (i < 1)
 ++i;
 try
 {
-JW385G2N5 = (long long)(yzwSacd3);
+
 }
 catch (int& errorCode)
 {

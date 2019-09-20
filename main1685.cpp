@@ -203,7 +203,7 @@ int k = 0;
 while (k < 6)
 {
 ++k;
-OFa2 = (int)abs(P51N5IkO);
+
 }
 }
 }
@@ -314,7 +314,7 @@ while (i < 3)
 {
 if ((t1rLTr8 <= -516610590) || (i1oe_04 <= CgZDEs8m))
 {
-S0h9YO = (unsigned short int)(i1oe_04);
+
 }
 ++i;
 }
@@ -343,7 +343,7 @@ t1rLTr8 = kw9hWmG(EEZiJ_, t1rLTr8);
 while (i >= 0);
 }
 RIt139RT = (unsigned short int)(r71x);
-J3arjQuDt1 = kw9hWmG(151871606, -268592705);
+
 
 {
 int i = 0;

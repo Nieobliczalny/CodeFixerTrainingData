@@ -160,7 +160,7 @@ if (SWOMz != 1865759219)
 {
 for (int k = 0; k < 8; ++k)
 {
-p3moTFv = lJ53();
+
 }
 }
 }
@@ -189,7 +189,7 @@ u8ZRk /= 1662134127;
 }
 }
 
-p3moTFv = (int)abs(u8ZRk) * 0;
+
 return 0;
 }
 

@@ -27,7 +27,7 @@ int main(int argc, char** argv)
  tp8cmG4H = 872569132;
  p4yc_8Lk = -1177040758;
  OiW_5Mw = 683034469;
- E6_T40r = -796542560;
+
  lO6p73J = 1214058056;
  lLAc = -1005907371;
  M300n = -2030730287;
@@ -50,7 +50,7 @@ int main(int argc, char** argv)
  nqXmY7yD = 1089646822;
  Z0g8ZZU = -1470665349;
  UsWK_RF = -1724243389;
- WKn973 = -1462721303;
+
  JF5pa0M3o = -1633680491;
  bNJee4FvE = -659526856;
 	int	u_9i758AX;
@@ -434,7 +434,7 @@ else
 switch (M7r0d)
 {
 case 0:
-N2vaanl7 %= 1635497751;
+
 break;
 case 1:
 N2vaanl7 = Pt14H5 / 992547774;
@@ -508,7 +508,7 @@ else
 {
 if (Pt14H5 != q5dtAFD)
 {
-BwAR0IQA5 = tp8cmG4H >> 670926426;
+
 }
 }
 }
@@ -535,7 +535,7 @@ case 'b':
 u_9i758AX = zqwv3_Tm5(Snx7, 1202975583, -1536102623, L71u4, OiW_5Mw);
 break;
 case 'c':
-OiW_5Mw = (M300n & z1wLiM) ? L71u4 : -234639431;
+
 break;
 case 'd':
 J_3K_Et6J ^= 1294241379;
@@ -550,7 +550,7 @@ case 'g':
 q5dtAFD = Pt14H5 >> p4yc_8Lk;
 break;
 default:
-Z0g8ZZU &= P_Pt8_;
+
 break;
 }
 return 0;

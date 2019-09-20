@@ -31,7 +31,7 @@ do
 {
 for (int j = 0; j < 5; j++)
 {
-d8L244G8ed = (int)abs(K6wUg0_WPm);
+
 }
 i++;
 }

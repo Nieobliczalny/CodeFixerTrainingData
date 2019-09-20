@@ -27,7 +27,7 @@ int main()
 	long double	W6y4	=	-104629735,	wUoI2	=	1332618865,	V07H7vqgpA	=	-410311967,	kP3G04e4JI	=	-429782491,	c1lk	=	-1581135460,	PmAX	=	957019174,	J7Qgd	=	-1271298373,	yO48Ry8	=	-1229696363,	afQ6	=	1521448661,	chFDNww01	=	514842372,	jWwWpruM	=	798028899,	TShnUFv26c	=	1745671268,	zgR7q	=	856998007,	ro0R044e	=	-1900815842,	LXSsUo_8	=	-1069413372,	eMwEW82	=	-1985861126,	j_V5m_s	=	91237931,	itd4W6Ehj	=	845040546,	ncbO	=	2086743860,	gD2W9X25I	=	-179724803,	x0N6a95	=	236414070,	DWDE19Aey	=	479222485,	tJ2X	=	-1585281408,	Wd8SzFs	=	1838110676,	v6D18X_y3	=	-792621884,	S7NRNk6Cu	=	558292954,	h8bTV8	=	1292497748,	Qoa9hEgcP	=	1842166747,	yX5a	=	2074914075,	A5ZjLtY	=	825248701,	R8MkM2Rzc	=	-920693005,	Wi44	=	1727201710,	x1C4w5lC2G	=	-138883312,	y8oac8P5J	=	2136813389,	O9FlL04m1	=	-1502648518,	cDFk	=	739402871,	P__M	=	1257565962,	jh9j	=	-675018122,	nN3E0gnmKf	=	-1326580866,	pA_AX8Sv3	=	-97269996,	dV8v4s4l_	=	-1139072644,	DY5wLNah89	=	-1625347075,	SUlgIx59P	=	480972898,	KNY6Qb6887	=	-470993039,	fs05o3	=	-1184077557,	k4KZ	=	1889767397,	ej528BIz2	=	-621140645,	Dx8n4r	=	-1614900434,	wh2PM3JC	=	685614940,	z675i4U06	=	781028397,	PER2ZZY3	=	717231750,	bCAI9	=	-1944010085;
   unsigned char  Z15rSwmqHS  =  0,  VH42_  =  0;
 
-R8MkM2Rzc = toFA(W6y4, wUoI2, V07H7vqgpA, kP3G04e4JI, c1lk) / a8_5T(587014783);
+
 
 PmAX = (int)floor(ncbO);
 x1C4w5lC2G = (LXSsUo_8 == P__M) ? PER2ZZY3 : 134910793;
@@ -45,7 +45,7 @@ Qoa9hEgcP = (PmAX != pfks) ? -499694627 : 894704423;
 }
 else if (yX5a != pfks)
 {
-O9FlL04m1 = (fs05o3 <= 727539145) ? c1lk : -245515811;
+
 }
 else if (VH42_ & Z15rSwmqHS)
 {
@@ -82,7 +82,7 @@ try
 int k = 5;
 while (k >= 0)
 {
-R8MkM2Rzc = toFA(1484670172, Wd8SzFs, 133138904, c1lk, S7NRNk6Cu);
+
 k--;
 }
 }
@@ -153,7 +153,7 @@ if ((LXSsUo_8 >= -1026641321) && ((wUoI2 >= Wd8SzFs) && (PmAX != gD2W9X25I)))
 {
 if (jh9j)
 {
-pA_AX8Sv3 = toFA(-1486333970, 1265202812, 468739878, VH42_, jh9j);
+
 }
 else
 {
@@ -165,7 +165,7 @@ wUoI2 = (int)ceil(k4KZ);
 }
 else if (SUlgIx59P >= pfks)
 {
-k4KZ = (int)abs(wh2PM3JC);
+
 }
 else
 {
@@ -200,7 +200,7 @@ itd4W6Ehj -= 1172366594;
 break;
 case 'd':
 case 'D':
-x0N6a95 = LXSsUo_8 - J7Qgd;
+
 break;
 case 'e':
 case 'E':

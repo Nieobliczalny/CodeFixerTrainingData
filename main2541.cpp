@@ -26,7 +26,7 @@ int main(int argc, char** argv) {
     kjea5f12    =    -439618398;
     uQS834HQbP    =    1710283649;
     Jlybdm3B    =    858498016;
-    bGcbqJ    =    1996137144;
+
     BZFArL    =    1324525130;
     int    EAk_js,    UY4EyNU8,    QpV8Fsnh2,    BwUq5n;
     EAk_js    =    0;
@@ -62,7 +62,7 @@ std::cout << "A3g9" << "zMtYEt4" << std::endl;
 }
 
 std::cout << JZCg5a_ << "SY0G" << "gkDheU5gy" << std::endl;
-bGcbqJ = (EAk_js < -1605216870) ? dT69 : 342923982;
+
 if (yxpR_gnx == 482457081)
 {
 std::cout << kjea5f12 << p6XQKKmhGo << std::endl;
@@ -133,7 +133,7 @@ switch (QpV8Fsnh2)
 {
 case 'a':
 case 'A':
-EAk_js = (int)abs(BwUq5n);
+
 break;
 case 'b':
 case 'B':
@@ -152,7 +152,7 @@ Jlybdm3B %= 1603539786;
 break;
 }
 
-W3qQ0Bf |= wZk_6TNGz;
+
 
 for (int i = 0; i < 10; ++i)
 {
@@ -205,7 +205,7 @@ std::cout << J0MPNzB97s << std::endl;
 
 zR4M = kjea5f12 * J0MPNzB97s;
 
-Jlybdm3B &= bGcbqJ;
+
 return 0;
 }
 

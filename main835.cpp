@@ -150,7 +150,7 @@ break;
 
 if (S2M6 == 0)
 {
-	i08xStZGT = G16dEc / S2M6;
+
 }
 i08xStZGT = X5bEeh - 890695596;
 std::cout << imcQ8h(-1671262743, 793731387) << pD_u(vU_8I057, i08xStZGT) << bSmE6zf(11471402, i08xStZGT) << std::endl;

@@ -77,7 +77,7 @@ int main(int argc, char** argv) {
     int    EizMRKVOSH    =    -931360083;
   unsigned int  K_Z2A  =  661224585;
 
-Z75mBN5V = w1__d / VvKGt7hRbT;
+
 
 if ((UU_wLi <= 313596532) && (W1MHt6 <= -1460852391))
 {
@@ -89,7 +89,7 @@ while (j < 3)
 int k = 4;
 while (k >= 0)
 {
-h_tMB8 = sdm9KsK2();
+
 k--;
 }
 }
@@ -106,7 +106,7 @@ while (i < 2)
 int j = 4;
 while (j >= 0)
 {
-Ut3kkTg1m4 = (float)(wEMzS_0eM);
+
 j--;
 }
 }

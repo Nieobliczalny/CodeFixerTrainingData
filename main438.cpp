@@ -196,7 +196,7 @@ else
 switch (vI7h5l2_HX)
 {
 case 0:
-xV3Aw |= 499194777;
+
 break;
 case 1:
 fj_R9X5r5j = FBQDB10_(1698267304, oo2mjw8f, FSt_jeg02);
@@ -208,7 +208,7 @@ case 3:
 fj_R9X5r5j = FBQDB10_(aIuAdI1a8, fj_R9X5r5j, aBfBD);
 break;
 case 4:
-X33eGr5_62 >>= 1726188536;
+
 break;
 case 5:
 NYJZZ = FBQDB10_(NYJZZ, aBfBD, Jq6kpnYw5);
@@ -222,7 +222,7 @@ break;
 }
 }
 
-z67RiE = (short)(c9giw7K5);
+
 try
 {
 ErWh = (long)(Jq6kpnYw5);

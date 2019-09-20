@@ -55,7 +55,7 @@ int main(void)
   long  Zl1A248  =  482711911;
     int    uAeF7GtJTc    =    -1560491350;
 
-aCFy252fD4 = (unsigned int)(a1QxisTna7 + (2129182518));
+
 
 for (int i = 0; i < 4; ++i)
 {
@@ -358,7 +358,7 @@ vwb5 = j9cRBcNqs(-1528538929);
 }
 else if (KD6_G6Mp != -475112912)
 {
-g08p >>= GJ6xv;
+
 }
 else
 {
@@ -396,7 +396,7 @@ break;
 
 if (KD6_G6Mp == Dd4KQlS0)
 {
-gRasp2i += cVLiAw549;
+
 }
 
 switch (KD6_G6Mp)
@@ -414,7 +414,7 @@ case 'd':
 vwb5 = j9cRBcNqs(-139265309);
 break;
 case 'e':
-Dd4KQlS0 = (int)abs(NQf0iwe699);
+
 break;
 case 'f':
 gRasp2i = (int)abs(FZtk);
@@ -443,7 +443,7 @@ else if ((Ou4oETkO >= G2Xj31) && (Zl1A248 <= GJ6xv))
 {
 try
 {
-cVLiAw549 ^= 1950824861;
+
 }
 catch (int& errorCode)
 {
@@ -474,7 +474,7 @@ Ug8Sm9PTo = l2i6sR + BhMEeA;
 }
 else if (uAeF7GtJTc & 2078577241)
 {
-Dd4KQlS0 = vwb5 + 491310233;
+
 }
 else if (H1_od4)
 {
@@ -486,7 +486,7 @@ d0mEbk7 = (int)floor(Ug8Sm9PTo);
 }
 else
 {
-hszi -= q2N_;
+
 }
 }
 else if (BhMEeA & i6u5v)
@@ -529,7 +529,7 @@ break;
 cout << j9cRBcNqs(l2i6sR) << yo_qN8G << endl;
 for (int i = 5; i >= 0; --i)
 {
-cVLiAw549 = (int)abs(JIMO5U_0W);
+
 }
 {
 int i = 1;
@@ -553,7 +553,7 @@ case 'a':
 G2Xj31 = (int)floor(qt93Mu_);
 break;
 case 'b':
-g08p = uAeF7GtJTc / 1873553176;
+
 break;
 case 'c':
 whVQ += 1759296549;
@@ -580,7 +580,7 @@ int i = 4;
 while (i >= 0)
 {
 i--;
-y3n1 = j9cRBcNqs(CfWjT);
+
 }
 }
 cout << CfWjT << aCFy252fD4 << endl;

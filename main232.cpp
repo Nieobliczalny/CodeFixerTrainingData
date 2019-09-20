@@ -21,7 +21,7 @@ while (j >= 0)
 switch (fjFK9J3)
 {
 case 0:
-Nx7o6Bl658 = AyL87f_ + j4VqU;
+
 break;
 case 1:
 j4VqU = N03b63_rx / X_8PXlbou;
@@ -68,7 +68,7 @@ else if ((JxHEq2 >= j4VqU) && ((JxHEq2 <= -52570447) || (xU6Q96 <= -971199643)))
 switch (fjFK9J3)
 {
 case 'a':
-Nx7o6Bl658 = (yj0S >= 728118675) ? X_8PXlbou : 1100100753;
+
 break;
 case 'b':
 AyL87f_ *= 379912065;
@@ -219,7 +219,7 @@ N1Lx7JAw = (y8L8Qt1 < 2114373583) ? Nx7o6Bl658 : fjFK9J3;
 break;
 case 'c':
 case 'C':
-Nx7o6Bl658 *= 2009740632;
+
 break;
 case 'd':
 case 'D':
@@ -614,7 +614,7 @@ switch (fjFK9J3)
 {
 case 'a':
 case 'A':
-I_snUsB554 = (AyL87f_) ? X_8PXlbou : Hq_wTN4;
+
 break;
 case 'b':
 case 'B':
@@ -630,7 +630,7 @@ ldP4pTP2T = (int)abs(X_8PXlbou);
 break;
 case 'e':
 case 'E':
-yj0S = (N03b63_rx > y8L8Qt1) ? -129083023 : JxHEq2;
+
 break;
 }
 }

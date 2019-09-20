@@ -23,7 +23,7 @@ int main(void)
     unsigned char    tvG_Qw;
     tvG_Qw    =    157378026;
  long double VVcs0ORjUk;
- VVcs0ORjUk = 942017051;
+
   unsigned long  rdvtEl6;
   rdvtEl6  =  1063300344;
   short int  oBan5sQyDx;
@@ -33,7 +33,7 @@ int main(void)
  short Tx52Mc;
  Tx52Mc = 70869908;
     int    z3ry1;
-    z3ry1    =    0;
+
     unsigned long long    BPq1;
     BPq1    =    728464584;
 	double	rSm6A;
@@ -71,7 +71,7 @@ int main(void)
   unsigned short int  LYrHGBBTed;
   LYrHGBBTed  =  -948988140;
 	unsigned long long	URKyW;
-	URKyW	=	0;
+
   unsigned int  hfGQsi;
   hfGQsi  =  2022083169;
  int mFv_TwQUh;
@@ -89,7 +89,7 @@ int main(void)
  double Gl10h1;
  Gl10h1 = -210372776;
  long nRPA11z;
- nRPA11z = 1887960249;
+
 
 VVcs0ORjUk = (int)ceil(Z4J4w);
 
@@ -118,7 +118,7 @@ case 'a':
 oBan5sQyDx |= 1907237684;
 break;
 case 'b':
-mFv_TwQUh = hfGQsi >> rdvtEl6;
+
 break;
 case 'c':
 hQVos <<= 469212578;
@@ -153,7 +153,7 @@ while (i >= 0);
 switch (D3B1)
 {
 case 0:
-URKyW = Q3xtOCn0(a7tguW);
+
 break;
 default:
 dIhp = (int)floor(Z4J4w);
@@ -185,7 +185,7 @@ if (Kqf6 <= C591TZw7)
 {
 try
 {
-URKyW = Q3xtOCn0(R2hsY5oNS);
+
 }
 catch (int& errorCode)
 {
@@ -218,7 +218,7 @@ else
 {
 for (int k = 2; k >= 0; k--)
 {
-BPq1 = vG62b1R * 502611110;
+
 }
 }
 ++i;

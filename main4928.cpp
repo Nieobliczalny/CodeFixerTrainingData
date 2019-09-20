@@ -80,7 +80,7 @@ case 1:
 t4Xf >>= JbmRVzF7;
 break;
 case 2:
-J7_9lzD_ = u5lR(1144152765, -1385308457, JbmRVzF7, P81dd33HS, 1082858954);
+
 break;
 case 3:
 t4Xf ^= JbmRVzF7;
@@ -91,7 +91,7 @@ switch (t4Xf)
 {
 case 'a':
 case 'A':
-J7_9lzD_ = fZ3b << 137095147;
+
 break;
 case 'b':
 case 'B':
@@ -122,7 +122,7 @@ for (int j = 4; j >= 0; j--)
 int k = 3;
 while (k >= 0)
 {
-J7_9lzD_ = LuWU79h3m << 15036420;
+
 --k;
 }
 }

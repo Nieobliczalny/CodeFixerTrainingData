@@ -37,7 +37,7 @@ case 0:
 obfiy4SV = Q_G6za4(2048072086, ymJOk, 2027000632);
 break;
 case 1:
-Mf8m7cW = vxdM7B >> U8_41mxm;
+
 break;
 case 2:
 p876YmB |= 186375031;
@@ -52,7 +52,7 @@ case 5:
 Efk9p = Q_G6za4(ymJOk, -484794057, Gw3RLfq);
 break;
 case 6:
-uBiAdn03 /= KTHk;
+
 break;
 case 7:
 s20iJv4 = Q_G6za4(URPdQl67NP, 750744488, X76b5W3__);
@@ -107,7 +107,7 @@ if (aJFS_m4tzN)
 switch (zYVY_)
 {
 case 0:
-Xr3f2B = MnQia0_0cp | NaoaM1M;
+
 break;
 case 1:
 s20iJv4 = Q_G6za4(-262454544, -1065129718, BfC_C);
@@ -122,7 +122,7 @@ case 4:
 obfiy4SV = Q_G6za4(-2095772543, -1726585226, 696974568);
 break;
 case 5:
-c0725 = Q_G6za4(yOM0W, fP4t2, Xr3f2B);
+
 break;
 case 6:
 cxqrJm8178 = Q_G6za4(-1898601747, x_e_slCGq, -1110320617);
@@ -134,7 +134,7 @@ case 8:
 s20iJv4 = Q_G6za4(I41MKiFP3, 1698950225, egul2nvY);
 break;
 default:
-Z12_3hA = h729 ^ 1403798538;
+
 break;
 }
 }
@@ -146,7 +146,7 @@ do
 --i;
 try
 {
-XJ1qLVehh8 = (unsigned long long)(R6e7N_u);
+
 }
 catch (int& errorCode)
 {
@@ -168,7 +168,7 @@ int k = 0;
 while (k < 1)
 {
 k++;
-c0725 = Q_G6za4(qK8Bt, -1398000231, egul2nvY);
+
 }
 }
 }
@@ -196,7 +196,7 @@ while (i < 4);
 }
 cout << 1763631390 / obfiy4SV << endl;
 
-c0725 = Q_G6za4(Io1Xhy, BfC_C, -1228185532);
+
 {
 int i = 0;
 do
@@ -254,7 +254,7 @@ KTHk--;
 cout << h729 << GP0QJA << endl;
 if (p876YmB != -959356702)
 {
-izAhW19_K = (unsigned long long)(p876YmB);
+
 }
 else
 {
@@ -264,7 +264,7 @@ for (int i = 7; i >= 0; --i)
 {
 try
 {
-ymJOk = MnQia0_0cp | x_e_slCGq;
+
 }
 catch (int& errorCode)
 {

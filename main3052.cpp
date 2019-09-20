@@ -95,7 +95,7 @@ switch (O7Au3sv8n)
 {
 case 'a':
 case 'A':
-rRya = DVaV / g3JYZ;
+
 break;
 case 'b':
 case 'B':
@@ -140,7 +140,7 @@ T1_8_BhDbx = (int)floor(yayOy);
 break;
 case 'd':
 case 'D':
-rRya = (int)abs(uM806I6SzS);
+
 break;
 default:
 rRya = O7Au3sv8n | 171072685;
@@ -363,7 +363,7 @@ case 3:
 Q827dXjWc = (int)ceil(sAVsU);
 break;
 case 4:
-PGayl0x2 = (int)abs(vVE6iylT79) * 0;
+
 break;
 }
 }

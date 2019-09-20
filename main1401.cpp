@@ -38,7 +38,7 @@ switch (C0DZ)
 {
 case 'a':
 case 'A':
-B2oFx6 |= C0DZ;
+
 break;
 case 'b':
 case 'B':
@@ -102,7 +102,7 @@ case 'a':
 a8Lq_4h /= ix_fug;
 break;
 case 'b':
-mp3B7C = uB7V(-1271434767, ySX79eVXQp, a6e5_d90x);
+
 break;
 case 'c':
 a8Lq_4h >>= 488019282;
@@ -125,7 +125,7 @@ j++;
 
 for (int i = O4yKgG13; i < 198; i++)
 {
-q9zfg = m771V / uB7V(O4yKgG13, 541164900, -447332693);
+
 	c1d7Gf = uB7V(O4yKgG13, ZX0u2, 945205532) / i;
 try
 {
@@ -148,7 +148,7 @@ switch (M6M42m9h)
 {
 case 'a':
 case 'A':
-mp3B7C = uB7V(CaR_8t2, sMLOl7_, -1772709090);
+
 break;
 default:
 b5_egFaMk = uB7V(Cpt554hVE, 1740501331, b5_egFaMk);

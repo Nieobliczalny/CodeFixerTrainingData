@@ -344,7 +344,7 @@ switch (HGEyvJ)
 {
 case 'a':
 case 'A':
-FrHMF = HGEyvJ - HGEyvJ;
+
 break;
 case 'b':
 case 'B':
@@ -425,7 +425,7 @@ if ((VcL7 & wd_XEyu) || ((r8gEJ0 <= VcL7) || (bWqH >= -1898382753)))
 {
 for (int j = 0; j < 3; j++)
 {
-FrHMF = jrgSG(2072583655, 2120075808, wd_XEyu, 704971638, bWqH);
+
 }
 }
 FrHMF = (short int)(wd_XEyu);
@@ -446,7 +446,7 @@ if (VcL7 <= 1867019661)
 wd_XEyu = jrgSG(HGEyvJ, lg3H6J4B, wd_XEyu, 1549225677, -357739519);
 }
 
-FrHMF = (short int)(lg3H6J4B + (-902293459));
+
 
 std::cout << lg3H6J4B << "xWz8" << r1KpJ(HGEyvJ, lg3H6J4B, -998638049) << "yhhtZ" << std::endl;
 wd_XEyu ^= 66647611;

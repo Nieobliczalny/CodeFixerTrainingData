@@ -92,7 +92,7 @@ int main()
  unsigned long long Sx7aZ = 0;
 	double	Avd3E05I4	=	1514796870;
 
-ADWtTRljU >>= 1409152457;
+
 try
 {
 for (int j = 0; j < 7; j++)
@@ -105,7 +105,7 @@ catch (int& errorCode)
 f3Fn14c0 = n7hl ^ id9F3;
 }
 aU28i = YX6fpd2_ << 2117324524;
-idwIgki_ = (int)(T15keq9);
+
 
 PMz3 = xL13BiY5_(374106559, -1699940288);
 
@@ -131,7 +131,7 @@ std::cout << fVvM4c << xL13BiY5_(-1405640470, -1963890681) << "CI94Sa8L0F" << st
 
 id9F3 = xL13BiY5_(id9F3, oNJAwL_n4Y);
 
-kPXdxH = i36J4_ << lPjPk230;
+
 
 switch (BtBO44uYoP)
 {
@@ -142,7 +142,7 @@ case 'b':
 Y8a_L5cN = xL13BiY5_(Y8a_L5cN, T15keq9);
 break;
 case 'c':
-dQy280 = xL13BiY5_(dQy280, Gr9JfB7P);
+
 break;
 }
 
@@ -156,7 +156,7 @@ else if (VO0S == ar7al)
 {
 if (((Fedo & YX6fpd2_) && (Sx7aZ & Wd_ldW27)) && ((i0WTx3vms >= ar7al) || (ZeJ57385dA == 1662371728)))
 {
-cx3_wr73p2 = xL13BiY5_(cx3_wr73p2, fVLFUyNioN);
+
 }
 else
 {
@@ -170,7 +170,7 @@ int k = 0;
 while (k < 2)
 {
 k++;
-BtBO44uYoP = (int)abs(fp0F) * 0;
+
 }
 }
 }
@@ -189,7 +189,7 @@ else if ((BtBO44uYoP == YX6fpd2_) || (Wd_ldW27 != id9F3))
 {
 if (((fVLFUyNioN & 1404008748) || (yN044g471 <= 927039682)) && (f3Fn14c0 >= YX6fpd2_))
 {
-B2r6JhM = (int)ceil(iBMnbpk4K);
+
 }
 }
 else
@@ -200,7 +200,7 @@ case 'a':
 Avd3E05I4 = (int)floor(fp0F);
 break;
 case 'b':
-k_1j = xL13BiY5_(k_1j, fVLFUyNioN);
+
 break;
 case 'c':
 Wd_ldW27 |= 697983374;
@@ -212,7 +212,7 @@ case 'e':
 b6af1X = WP___8r * cayJof4uq;
 break;
 case 'f':
-Ha3L4316 = fVLFUyNioN | 1841931701;
+
 break;
 }
 }
@@ -228,7 +228,7 @@ if (((i36J4_ == -1712954075) || (JsY325o22K > ar7al)) && (Cz8W9_81 <= eGEls))
 {
 for (int k = 3; k >= 0; k--)
 {
-i0WTx3vms = xL13BiY5_(-403432794, 760615125);
+
 }
 }
 }
@@ -239,7 +239,7 @@ int i = 3;
 do
 {
 --i;
-FX7g9LP63 = (int)abs(lPjPk230);
+
 }
 while (i >= 0);
 }
@@ -249,7 +249,7 @@ cayJof4uq = -1069656867 / I_BU(-1000658439, 893148586, 1111390077);
 switch (b6af1X)
 {
 case 0:
-BD9poX = xL13BiY5_(377409033, zE4TS0Iy2s);
+
 break;
 case 1:
 BtBO44uYoP = I_BU(-2120885636, -1941545565, l_Th_Y7rk);
@@ -260,7 +260,7 @@ break;
 }
 if (xf082i_ < -1096327081)
 {
-kPXdxH = (char)(WP___8r);
+
 }
 
 return 0;

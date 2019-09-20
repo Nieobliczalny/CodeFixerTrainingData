@@ -164,7 +164,7 @@ ZxfEV = IZ57mnCej(816431359, 580965717, -558562230, vfRmTZ83);
 break;
 case 'c':
 case 'C':
-tX2_j18gY &= 671673105;
+
 break;
 }
 qIrXtAT5D6 = R7C3v_Q8t(256522950, gy543A7, pS8sFt8Fp);
@@ -219,7 +219,7 @@ if (uqCE == qIrXtAT5D6)
 int k = 0;
 while (k < 1)
 {
-KK0T54oGg = (int)ceil(pS8sFt8Fp);
+
 k++;
 }
 }
@@ -255,7 +255,7 @@ ZxfEV = IZ57mnCej(C7CubX74x, -1286933038, 1990261080, vC6HwL5h);
 }
 else
 {
-RP3s17 = E6B8();
+
 }
 
 try
@@ -291,7 +291,7 @@ vC6HwL5h = (int)floor(qHcfY);
 }
 else
 {
-RP3s17 = (int)ceil(XOF1T5vM);
+
 }
 }
 else if (dAE7 <= V0rwvkf1P)
@@ -309,7 +309,7 @@ else if ((Ea612L != 1375253574) || (i_6_PIU5Pu <= pH5_I_2i9K))
 {
 if ((v1Z0061nC != -1489049100) && ((vfRmTZ83) || (O_CY > qIrXtAT5D6)))
 {
-RP3s17 = (int)abs(ZxfEV) + (190923644);
+
 }
 else if (rEl6aUfv != -1800690509)
 {
@@ -399,7 +399,7 @@ case 6:
 A39CT8j_j = (int)floor(gy543A7);
 break;
 case 7:
-V0rwvkf1P = IZ57mnCej(-1532335817, 1129481558, -277755904, i_6_PIU5Pu);
+
 break;
 case 8:
 vUOv73RYp = IZ57mnCej(pH5_I_2i9K, FToD4Tt9, SP43aE_AF9, vUOv73RYp);
@@ -465,7 +465,7 @@ for (int j = 0; j < 2; j++)
 {
 if ((KXdVbd < O_zXU0wL) && (vfRmTZ83))
 {
-ZxfEV = (int)abs(sV13ZbcC) * 0;
+
 }
 else
 {
@@ -476,7 +476,7 @@ O_CY += 332787758;
 }
 while (i < 5);
 }
-I26U = rEl6aUfv / bevPy;
+
 
 switch (Vk17864)
 {
@@ -502,7 +502,7 @@ case 6:
 O_zXU0wL <<= Hh_7FUyzWy;
 break;
 case 7:
-V0rwvkf1P = IZ57mnCej(i_6_PIU5Pu, -182019259, -30461937, 1215312668);
+
 break;
 case 8:
 gy543A7 += wYG7j966P;
@@ -541,7 +541,7 @@ B495696 = (long double)(LpXlSq69rv);
 }
 else
 {
-fuuO9P9 = (float)(i_6_PIU5Pu);
+
 }
 }
 else if (O_CY & 1557194174)
@@ -601,7 +601,7 @@ case 'd':
 Vk17864 = E6B8();
 break;
 case 'e':
-P5E512N_g = E9lBCeVP + TDFIc0;
+
 break;
 }
 }
@@ -613,7 +613,7 @@ switch (MM8Am77323)
 {
 case 'a':
 case 'A':
-E9lBCeVP <<= dAE7;
+
 break;
 case 'b':
 case 'B':
@@ -633,7 +633,7 @@ Ea612L = R7C3v_Q8t(2107651750, gy543A7, -1708288612);
 break;
 case 'f':
 case 'F':
-V0rwvkf1P = IZ57mnCej(1090251658, -1112902342, pS8sFt8Fp, 553387258);
+
 break;
 case 'g':
 case 'G':
@@ -657,7 +657,7 @@ else if (eMGA < C7CubX74x)
 int k = 0;
 while (k < 10)
 {
-FM45h289 = (int)floor(B495696);
+
 k++;
 }
 }
@@ -690,7 +690,7 @@ else
 {
 if (ijnQz == -649126324)
 {
-fuuO9P9 = (int)floor(KK0T54oGg);
+
 }
 }
 }
@@ -762,7 +762,7 @@ while (j >= 0);
 }
 }
 
-Esfp0ZQL %= w0791;
+
 for (int i = 0; i < 2; ++i)
 {
 std::cout << E6B8() << E6B8() << std::endl;

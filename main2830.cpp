@@ -269,7 +269,7 @@ else
 {
 if (Nd9V < Vy7p9u)
 {
-yTy1yT = W1gh_5(bUkb_M, yTy1yT);
+
 }
 }
 }
@@ -295,7 +295,7 @@ case 0:
 Nd9V = Vy7p9u | mPIR0;
 break;
 case 1:
-yTy1yT = W1gh_5(zeM8M_yL3, -511247188);
+
 break;
 }
 try
@@ -306,7 +306,7 @@ catch (int& errorCode)
 {
 zeM8M_yL3 = MVsac ^ K79At4jHz;
 }
-Q_a_Tzvv = W1gh_5(1926319449, 203307294);
+
 return 0;
 }
 

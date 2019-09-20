@@ -318,7 +318,7 @@ xGwjMsd9 = r070t14b / 1844303680;
 
 cout << uIi6QOym09(324457218, -1225112123) << endl;
 
-N4E2I028H = (int)abs(nt_Q6_) * 0;
+
 
 SPp3E1No = r070t14b / b9_N06ko;
 nt_Q6_ = uIi6QOym09(nt_Q6_, -1628157054);

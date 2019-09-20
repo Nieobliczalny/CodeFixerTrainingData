@@ -29,7 +29,8 @@ int main(int argc, char** argv)
 	double	ICVh24,	C19cw8k2u,	p_e42s2,	PjY_,	O7jnc,	uQd1JJNy,	Oxgt8,	v3_0_,	KIIb,	ETk9v5Nzl,	VLc6,	QXjzXeN0bH,	fmG_4,	a5O4C,	fUuOSf__6,	kd9_8DJ6p,	Y0ch3U,	hkI8v,	jVZ_,	twfKEMz,	bHD_,	M89y166r,	O9lUAonu,	s_Vb6,	QJphQt13Ck,	vMM2iJ_re,	roGB7WGp9,	soFr5n,	jNdo714J,	Tc_t,	dy0l8_,	AO1GALUW5,	T3r_I,	R8f6j,	MUvG,	pP93cpi,	UChoDj,	M0KKa,	Q93F,	QB8SHZ6,	TP9hgJr4T,	cCpJ691sUL,	UjQYL16MFM,	u5Bima8,	pRFI,	lz78C,	T68aBJQe,	k1N1UQ,	Ewx02O0w09,	Ga0o7OF2oi,	Zh59MnW,	dBoO,	MG8auevZ,	U_JW2cG,	Pbs_mwd3q4,	do13_xK,	X_XpC7,	sy5VPxWPJ,	ve3U5c,	rzL0c8_Qp,	ohlO4172_1,	d54z13,	pB_yyoDpa,	huxyn,	hky9,	PX8FTL03,	GA_dz8Qw9;
 		ICVh24	=	C19cw8k2u	=	p_e42s2	=	PjY_	=	O7jnc	=	uQd1JJNy	=	Oxgt8	=	v3_0_	=	KIIb	=	ETk9v5Nzl	=	VLc6	=	QXjzXeN0bH	=	fmG_4	=	a5O4C	=	fUuOSf__6	=	kd9_8DJ6p	=	Y0ch3U	=	hkI8v	=	jVZ_	=	twfKEMz	=	bHD_	=	M89y166r	=	O9lUAonu	=	s_Vb6	=	QJphQt13Ck	=	vMM2iJ_re	=	roGB7WGp9	=	soFr5n	=	jNdo714J	=	Tc_t	=	dy0l8_	=	AO1GALUW5	=	T3r_I	=	R8f6j	=	MUvG	=	pP93cpi	=	UChoDj	=	M0KKa	=	Q93F	=	QB8SHZ6	=	TP9hgJr4T	=	cCpJ691sUL	=	UjQYL16MFM	=	u5Bima8	=	pRFI	=	lz78C	=	T68aBJQe	=	k1N1UQ	=	Ewx02O0w09	=	Ga0o7OF2oi	=	Zh59MnW	=	dBoO	=	MG8auevZ	=	U_JW2cG	=	Pbs_mwd3q4	=	do13_xK	=	X_XpC7	=	sy5VPxWPJ	=	ve3U5c	=	rzL0c8_Qp	=	ohlO4172_1	=	d54z13	=	pB_yyoDpa	=	huxyn	=	hky9	=	PX8FTL03	=	GA_dz8Qw9	=	-1312784442;
     char    V9Z6,    hWEZLW8_QA,    FFZT,    m_cbx1dR;
-        V9Z6    =    hWEZLW8_QA    =    FFZT    =    m_cbx1dR    =    0;
+        // codechecker_intentional [deadcode.DeadStores] Design rule - initialize all variables
+		V9Z6    =    hWEZLW8_QA    =    FFZT    =    m_cbx1dR    =    0;
 
 std::cout << "e3cS" << "NZPPL6of92" << "ip7SWawX" << "KE92" << std::endl;
 O9lUAonu = (double)(a5O4C);

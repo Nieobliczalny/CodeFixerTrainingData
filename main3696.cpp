@@ -120,7 +120,7 @@ if (l758)
 switch (DBe_57uo)
 {
 case 'a':
-PnQtF <<= sgL4_v3z2i;
+
 break;
 case 'b':
 L3UCXPq8 = srk3kz38q * h7_1o_fvif;
@@ -186,7 +186,7 @@ v7_49FzL_ = Y7CkkX6O ^ MT9U4fS;
 }
 else if ((sgL4_v3z2i != 848865642) && (Jg6nyrPNUk > p0DRr))
 {
-LxaU = z1p09JS ^ y84g3BQNy;
+
 }
 else if ((o86D8W7 & 698238013) || (E9dkL73UbH > z1p09JS))
 {
@@ -197,7 +197,7 @@ bS_Om++;
 }
 else if (qB1gB < -2108092273)
 {
-l0A4x = (unsigned char)(LxaU);
+
 }
 else
 {
@@ -221,7 +221,7 @@ srk3kz38q = gaD0bZaM5x | v3199Q;
 break;
 case 'd':
 case 'D':
-B74V = (int)abs(vMp57_);
+
 break;
 case 'e':
 case 'E':
@@ -233,7 +233,7 @@ qVtq = (int)ceil(L3UCXPq8);
 break;
 case 'g':
 case 'G':
-sgL4_v3z2i *= 573570086;
+
 break;
 case 'h':
 case 'H':
@@ -255,7 +255,7 @@ case 1:
 Rpea97Lut = (int)abs(ar3b3lM);
 break;
 case 2:
-l758 += m9JSizsCx;
+
 break;
 case 3:
 hP8__x4LV = (int)floor(a92d);
@@ -268,7 +268,7 @@ srk3kz38q ^= z1p09JS;
 break;
 }
 
-ar3b3lM = (long double)(Clm_opg);
+
 if (m9JSizsCx < -1431443699)
 {
 for (int j = 0; j < 6; j++)
@@ -284,7 +284,7 @@ if (MT9U4fS & 1240623494)
 {
 if (qVtq != 2043044983)
 {
-B74V = (int)ceil(hP8__x4LV);
+
 }
 }
 }
@@ -301,7 +301,7 @@ E9dkL73UbH >>= VpNG57zV;
 }
 else if ((A_AyPCb81 > VpNG57zV) && (E9dkL73UbH > -1533186913))
 {
-RGpb6 = qB1gB ^ DBe_57uo;
+
 }
 else if (L3UCXPq8 != 1111911015)
 {
@@ -317,7 +317,7 @@ Z63qZR++;
 }
 else
 {
-O3Rn4c8_ue = Zn4KB81YQ << 478911296;
+
 }
 }
 while (j < 3);
@@ -329,7 +329,7 @@ switch (o86D8W7)
 {
 case 'a':
 case 'A':
-JGJbCb = (int)ceil(A_AyPCb81);
+
 break;
 case 'b':
 case 'B':
@@ -358,7 +358,7 @@ Clm_opg += 1478418723;
 }
 else if ((DC_k == 1301773902) && (tvagZaw35))
 {
-sgL4_v3z2i = y84g3BQNy & IZi1_3;
+
 }
 else if ((a92d != DBe_57uo) || (y84g3BQNy <= 852746845))
 {
@@ -370,7 +370,7 @@ wNS_--;
 }
 else
 {
-v2VL_2_3y = GTSAe15MG ^ 2027866677;
+
 }
 }
 }
@@ -380,7 +380,7 @@ else
 switch (srk3kz38q)
 {
 case 0:
-GTSAe15MG *= 1289372380;
+
 break;
 case 1:
 v3199Q ^= r6sT_hd;
@@ -392,7 +392,7 @@ case 3:
 Ztbwg |= o86D8W7;
 break;
 case 4:
-Jp4WrZ ^= 2044536592;
+
 break;
 case 5:
 Zv9VX7S8Q >>= 597105523;
@@ -404,7 +404,7 @@ case 7:
 gaD0bZaM5x = (Rpea97Lut < DC_k) ? FFI_tOmU4n : VpNG57zV;
 break;
 case 8:
-Rpea97Lut = (int)abs(vMp57_);
+
 break;
 case 9:
 srk3kz38q |= qB1gB;
@@ -414,7 +414,7 @@ break;
 srk3kz38q %= 1673758807;
 cA1Ico = (int)floor(FFI_tOmU4n);
 
-sd4HJ0YFY7 = Clm_opg << 1740377082;
+
 return 0;
 }
 

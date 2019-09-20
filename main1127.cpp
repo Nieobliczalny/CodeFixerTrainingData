@@ -118,7 +118,7 @@ yX82lW90C_ = kL7Hfg / 1283137537;
 }
 else
 {
-Kvffn = (NUP39R != 1226738244) ? VyeWnuQ : NCtDYa4Vts;
+
 }
 }
 }
@@ -188,7 +188,7 @@ std::cout << p5o_Tb << "YR__lS" << std::endl;
 int i = 0;
 do
 {
-DrWrwe7 = RXbg8XQN ^ PcqP2_z5;
+
 i++;
 }
 while (i < 8);
@@ -206,7 +206,7 @@ std::cout << "z1y5EzT9" << "ILwg07wZ3D" << "kCeMWRCOs" << Z7_Ar7 << std::endl;
 while (i < 3);
 }
 
-DrWrwe7 = LG9z / LJ97gy;
+
 
 Z7_Ar7 = (int)ceil(NUP39R);
 
@@ -226,7 +226,7 @@ NCtDYa4Vts *= RXbg8XQN;
 break;
 case 'd':
 case 'D':
-RcIht4P__ = (RXbg8XQN) ? kL7Hfg : O882Xa2Ha;
+
 break;
 case 'e':
 case 'E':
@@ -247,7 +247,7 @@ case 1:
 LG9z = VyeWnuQ | Kvffn;
 break;
 case 2:
-FIz06Xrs = G2o7p3QmT >> 796105141;
+
 break;
 default:
 Xfw7UBoaY = NCtDYa4Vts << 320596221;
@@ -259,7 +259,7 @@ try
 switch (aD4_n)
 {
 case 0:
-bS54l2CW = DrWrwe7 | yX82lW90C_;
+
 break;
 case 1:
 bS54l2CW = RcIht4P__ / Ow0_01m9;
@@ -286,7 +286,7 @@ std::cout << O882Xa2Ha << GhTDn0Q40 << "opb6" << Xfw7UBoaY << std::endl;
 switch (Xfw7UBoaY)
 {
 case 0:
-PcqP2_z5 >>= G2o7p3QmT;
+
 break;
 case 1:
 PcqP2_z5 = RXbg8XQN ^ 662908640;

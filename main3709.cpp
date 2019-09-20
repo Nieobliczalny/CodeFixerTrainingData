@@ -910,7 +910,7 @@ CGR2Kbk8y0 = nn2os2o - 36139648;
 break;
 case 'g':
 case 'G':
-VUhO77495G = pF6RG8ajo2();
+
 break;
 case 'h':
 case 'H':
@@ -929,7 +929,7 @@ else if (nn2os2o > 281872628)
 {
 for (int k = 0; k < 10; k++)
 {
-VUhO77495G = pF6RG8ajo2();
+
 }
 }
 else if (fji3LL54_I > -675647854)
@@ -951,7 +951,7 @@ else if (xibs93 > fji3LL54_I)
 {
 for (int k = 8; k >= 0; k--)
 {
-VUhO77495G = pF6RG8ajo2();
+
 }
 }
 else

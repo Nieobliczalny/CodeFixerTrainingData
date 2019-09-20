@@ -47,7 +47,7 @@ if (O1IO5lrr9Q & e2g_)
 switch (m16XRO6K6)
 {
 case 0:
-tAU6Qpy = (int)abs(Mj9C8E);
+
 break;
 case 1:
 Ol0Yx7_ = w760 >> tE8KEL2;
@@ -59,7 +59,7 @@ case 3:
 k7jl = Tn73v7iWS >> 198276686;
 break;
 case 4:
-kBU2Ge4EX = Mj9C8E << x4TK;
+
 break;
 case 5:
 jFfX11J = oM18(jL66, 1073894018, iqI_Oxf0e);
@@ -76,7 +76,7 @@ pA0I %= 1133149711;
 std::cout << oM18(jL66, N_27gGv, -809221114) << std::endl;
 jFfX11J = oM18(L4nR2UE, pa7fD, NL_59w1EcB);
 
-D3Q8i2MXE = (int)abs(AiYvN5_V);
+
 
 FxSZ_ = FZPc1xg7 / jFfX11J;
 
@@ -96,7 +96,7 @@ case 3:
 jFfX11J = oM18(nMoi, osr8a, -1111629880);
 break;
 case 4:
-rq1zMEy = KmJ1hw / 1899893701;
+
 break;
 case 5:
 FUJ71FK1_n = (int)abs(e96Kh);

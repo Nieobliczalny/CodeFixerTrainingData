@@ -64,7 +64,7 @@ int main(void) {
   unsigned short  tJWkBuV1Cl;
   tJWkBuV1Cl  =  1860566492;
   unsigned short  D_X5;
-  D_X5  =  -830126812;
+
   unsigned char  J1wp7F92;
   J1wp7F92  =  1831552436;
   unsigned long long  u_PV;
@@ -204,7 +204,7 @@ for (int j = 0; j < 3; j++)
 {
 for (int k = 0; k < 2; ++k)
 {
-VfVQ9r = (int)ceil(xbC7);
+
 }
 }
 --i;
@@ -214,7 +214,7 @@ while (i >= 0);
 
 QfOie += 1020092544;
 
-VfVQ9r = (int)abs(Mt_8M0);
+
 
 Q129w5kx78 = Wx7B23HsZA(1612163147, -1839678416, 1716659973, RZOxQXXn, 1227630236);
 for (int i = 0; i < 10; i++)
@@ -227,7 +227,7 @@ if (F6VSk7x < 1383079708)
 cout << cY9Y9890O(1045986908, -141609970) << endl;
 }
 
-Mt_8M0 = (int)abs(xbC7);
+
 
 Q129w5kx78 = Wx7B23HsZA(1122332829, X_AxX, -124504510, amM1D, -1035445988);
 if (dTO2MH5E_)
@@ -331,7 +331,7 @@ J1wp7F92--;
 break;
 case 'f':
 case 'F':
-VfVQ9r = (int)ceil(ZG_u7);
+
 break;
 case 'g':
 case 'G':
@@ -352,7 +352,7 @@ int i = 10;
 while (i >= 0)
 {
 i--;
-amM1D = J1wp7F92 % luGrBq5;
+
 }
 }
 VfVQ9r = (int)floor(xbC7);
@@ -374,7 +374,7 @@ else if ((luGrBq5 <= pw39Jr) || ((h9KX3 <= -840700281) && (ixFMsb <= pw39Jr)))
 {
 if (RZOxQXXn > B0esM_T)
 {
-ixFMsb = (unsigned int)(F6VSk7x);
+
 }
 else if (((xbC7 >= F6VSk7x) || (H3u241J > J1wp7F92)) || ((D_X5 >= Mjg9) || (pw39Jr >= -1253687960)))
 {
@@ -388,7 +388,7 @@ ZG_u7 = (int)ceil(VfVQ9r);
 }
 else if (((D_X5 <= -591828235) || (ZG_u7 <= TnMFgoH)) || (ixFMsb & -886503936))
 {
-VfVQ9r = (int)floor(ZG_u7);
+
 }
 else if (F6VSk7x != -709826044)
 {
@@ -411,7 +411,7 @@ ZG_u7 = (int)ceil(xbC7);
 }
 else if (D_X5 <= 1963750525)
 {
-X_AxX = f1EZ1(-363889334);
+
 }
 else if ((Mjg9) && (I19r5js & 384844576))
 {
@@ -434,7 +434,7 @@ case 0:
 Q129w5kx78 = Wx7B23HsZA(-216177179, J1wp7F92, 139012068, ZG_u7, -846258566);
 break;
 case 1:
-Mjg9 = Mt_8M0 - u_PV;
+
 break;
 case 2:
 lLry1_Ej5 = cY9Y9890O(lLry1_Ej5, X_AxX);
@@ -446,7 +446,7 @@ case 4:
 q6i0y4 <<= klUC;
 break;
 case 5:
-klUC -= 283014583;
+
 break;
 case 6:
 xbC7 = (int)floor(VfVQ9r);
@@ -459,7 +459,7 @@ break;
 }
 else if (Mjg9 == MPHmigkKD)
 {
-RZOxQXXn ^= 710812980;
+
 }
 else
 {

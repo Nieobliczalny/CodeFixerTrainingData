@@ -39,7 +39,7 @@ int main(int argc, char** argv) {
 	KP7_62V	=	1792451663;
 	q5hW40s	=	878849975;
 	D8u_63nWl	=	-897355190;
-	c9Dh	=	1891825200;
+
 	Ar0Pw_URM	=	185706958;
 	zrZJPtvx	=	-1522884922;
 	MS08G8J	=	1726737131;
@@ -601,7 +601,7 @@ case 2:
 kbh3Uye = cyE3c9v_(j09IE);
 break;
 case 3:
-tNZcB4 -= MS08G8J;
+
 break;
 case 4:
 kbh3Uye = (int)abs(IyN7H_46N);
@@ -673,7 +673,7 @@ case 4:
 IyN7H_46N = cyE3c9v_(1996900095);
 break;
 case 5:
-db_qr97d = IyN7H_46N + 1258676211;
+
 break;
 case 6:
 zrZJPtvx = bj0ULA7 - 849499180;
@@ -800,7 +800,7 @@ case 6:
 IyN7H_46N = cyE3c9v_(dk7oB);
 break;
 case 7:
-x9JBX7 = x2ZAU_1_c9 | 17162712;
+
 break;
 case 8:
 kbh3Uye = cyE3c9v_(-1037453909);
@@ -839,7 +839,7 @@ break;
 
 kbh3Uye = (long)(vSFKIb * kbh3Uye);
 
-bj0ULA7 = (unsigned short)(q5hW40s);
+
 
 return 0;
 }

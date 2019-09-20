@@ -28,7 +28,7 @@ catch (int& errorCode)
 {
 Oj7rM5Kt %= wz6xxAmNK;
 }
-MQYCU = V6rOEupN_ + 1611834684;
+
 for (int i = 1; i >= 0; i--)
 {
 GNQ69q2B = (long long)(zRK33o);
@@ -54,7 +54,7 @@ if (GvJO7R8YB6 & jB1Yt)
 {
 try
 {
-G41OO8vi = (cZsPoDu == 443717937) ? 378250655 : -442912027;
+
 }
 catch (int& errorCode)
 {
@@ -69,7 +69,7 @@ H8DXsf0 = (long long)(U2Q358);
 }
 if (H8DXsf0 < Lg9pCF0G7l)
 {
-V6rOEupN_ += 1382417128;
+
 }
 else if ((Lg9pCF0G7l > -973077601) || (wz6xxAmNK > -1403695528))
 {
@@ -87,7 +87,7 @@ int k = 6;
 do
 {
 --k;
-BwtAN = (int)abs(Oj7rM5Kt);
+
 }
 while (k >= 0);
 }

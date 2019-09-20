@@ -97,7 +97,7 @@ switch (tP809a)
 {
 case 'a':
 case 'A':
-TaVmWbcfI4 = w8DRKlC(-1597777853, 1638389741, MHt_4, 403133217);
+
 break;
 case 'b':
 case 'B':
@@ -109,7 +109,7 @@ o792PGe6A = G2w1YQ(o792PGe6A, kEp15r, dpDDFdL2);
 break;
 case 'd':
 case 'D':
-YxSoP8I5Dk = b86waG3_4X(Q37KRYB7aF, -1983416571);
+
 break;
 case 'e':
 case 'E':
@@ -125,7 +125,7 @@ YxzZ = G2w1YQ(-2103259056, -1342757842, -2083034891);
 break;
 case 'h':
 case 'H':
-ybxX3H = (int)ceil(X_C2z94Xt);
+
 break;
 default:
 MHt_4 = (int)ceil(Q37KRYB7aF);
@@ -163,7 +163,7 @@ break;
 while (i < 8);
 }
 
-lRtjYNUpqd = NyF8k(-394715193, -837305461, 548938385, x_HB4koM_i);
+
 
 ghJSE14 = (unsigned long)(bsZYkn);
 AnL061x = w8DRKlC(-720094835, r3XvBh2P, -1145268474, -1891125609);

@@ -31,7 +31,7 @@ int main(int argc, char** argv)
 	float	dw3ciiB0;
 	dw3ciiB0	=	1172134716;
 	float	In0S;
-	In0S	=	-130459046;
+
 	int	wO1_;
 	wO1_	=	915333953;
     int    Crx732;
@@ -49,7 +49,7 @@ int main(int argc, char** argv)
 	int	Yd044H;
 	Yd044H	=	1439605667;
 	long double	J9b9t4Upg;
-	J9b9t4Upg	=	-180456517;
+
   long double  cwcj05_tqq;
   cwcj05_tqq  =  -1466732484;
  long double SdkPg8PtZ;
@@ -96,7 +96,7 @@ case 3:
 f9qa9q = (int)ceil(In0S);
 break;
 case 4:
-Yd044H >>= 556600409;
+
 break;
 case 5:
 SdkPg8PtZ = (int)abs(L4yvB);
@@ -144,7 +144,7 @@ cwcj05_tqq = (int)abs(Yd044H);
 }
 if (((AdGy9s == -5918519) || (n3Zd186)) || ((f9qa9q <= Bhkx7H) || (n3Zd186 == 781882443)))
 {
-Bhkx7H = (int)abs(L4yvB);
+
 }
 else if (cHIG8P != J9b9t4Upg)
 {
@@ -227,7 +227,7 @@ E6tjQrN2 = LQO_7i >> 1340571748;
 break;
 case 'g':
 case 'G':
-In0S = (int)ceil(Bhkx7H);
+
 break;
 case 'h':
 case 'H':
@@ -318,7 +318,7 @@ int i = 0;
 do
 {
 i++;
-In0S = (float)(P1TysU9PN + (481215631));
+
 }
 while (i < 3);
 }

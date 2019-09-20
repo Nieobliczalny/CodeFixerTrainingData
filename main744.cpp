@@ -20,7 +20,7 @@ short FQj9tO7(unsigned int sa_f);
 
 int main(int argc, char** argv) {
  unsigned int Q456QL;
- Q456QL = -1102768991;
+
  unsigned char k1yFCK;
  k1yFCK = -101007691;
     char    zuBuM;
@@ -30,7 +30,7 @@ int main(int argc, char** argv) {
     unsigned long long    bvj_1;
     bvj_1    =    1270544578;
 	unsigned long	ou22QCqlsf;
-	ou22QCqlsf	=	0;
+
     long    FjS8__jt75;
     FjS8__jt75    =    -1851336353;
     unsigned char    VOl5H04;
@@ -42,7 +42,7 @@ int main(int argc, char** argv) {
 	long long	R9GGq;
 	R9GGq	=	-395767087;
     short int    ThYt9I;
-    ThYt9I    =    -1979963162;
+
 	unsigned long	b02PfT3_;
 	b02PfT3_	=	-36887517;
  short FsUkvcetE;
@@ -54,7 +54,7 @@ int main(int argc, char** argv) {
  unsigned int G_8_7ah_7V;
  G_8_7ah_7V = -1477385254;
     unsigned short    se1wrW_X6;
-    se1wrW_X6    =    1740985371;
+
 	unsigned long	BjDf2;
 	BjDf2	=	-1900574120;
     double    YT8FtgrX;
@@ -64,7 +64,7 @@ int main(int argc, char** argv) {
  unsigned short int m7TzGT0cH;
  m7TzGT0cH = 0;
     unsigned long long    I77740O;
-    I77740O    =    430323748;
+
 	long double	U1aZSay8;
 	U1aZSay8	=	817674584;
 	int	YY9BR4;
@@ -74,7 +74,7 @@ int main(int argc, char** argv) {
 	float	aGNhxs;
 	aGNhxs	=	1014488833;
 	long	F3bv;
-	F3bv	=	900128012;
+
     unsigned short    S4y0J;
     S4y0J    =    221645972;
  unsigned short ETW_msyk3;
@@ -94,7 +94,7 @@ int main(int argc, char** argv) {
 	long	Hj9CXL_s3;
 	Hj9CXL_s3	=	-262231178;
  unsigned short int es_6dZiI;
- es_6dZiI = 1211286102;
+
 	double	RGs59UgO;
 	RGs59UgO	=	198625610;
     short    T6p_v_;
@@ -110,7 +110,7 @@ int main(int argc, char** argv) {
     long long    JU63pqcevA;
     JU63pqcevA    =    0;
     unsigned short    Z8g2s_FFj;
-    Z8g2s_FFj    =    -2058752029;
+
 	unsigned short	yGWK;
 	yGWK	=	533199508;
     unsigned short int    Hp11kF;
@@ -126,7 +126,7 @@ int main(int argc, char** argv) {
     char    yqiV;
     yqiV    =    -671666582;
  long double W52_3KBbU;
- W52_3KBbU = -1235226096;
+
     unsigned char    agwF3TQrJ;
     agwF3TQrJ    =    -1497591638;
     short int    YcQ4;
@@ -136,7 +136,7 @@ int main(int argc, char** argv) {
   float  W_hI4;
   W_hI4  =  -915189645;
   unsigned long long  y4ausK;
-  y4ausK  =  531021123;
+
     char    qzt4SSd_Gl;
     qzt4SSd_Gl    =    -158202226;
 	unsigned long	Jm0Lf228;
@@ -146,7 +146,7 @@ int main(int argc, char** argv) {
 	float	KvV_sN;
 	KvV_sN	=	796771467;
 	short	Qb225q;
-	Qb225q	=	2119284347;
+
  unsigned long long sjM2wNEfQ;
  sjM2wNEfQ = -751975543;
 	double	TKaB6;
@@ -171,7 +171,7 @@ int main(int argc, char** argv) {
  TQsIaNS = -249457903;
 
 yqiV = D_LYX4(yqiV);
-U1aZSay8 = (int)floor(WvzZ2);
+
 {
 int i = 4;
 do
@@ -206,7 +206,7 @@ else if (f1ci497)
 int k = 0;
 do
 {
-W52_3KBbU = (int)ceil(i6ymwDPv);
+
 ++k;
 }
 while (k < 4);
@@ -216,7 +216,7 @@ else if ((W_hI4 > R9GGq) || (sjM2wNEfQ >= 779003885))
 {
 if (T6p_v_ < 476428935)
 {
-Q456QL = W_hI4 * 986382794;
+
 }
 }
 else if (b7KmD3 == b02PfT3_)
@@ -236,7 +236,7 @@ cout << iQgBlRp71_(ETW_msyk3, 482547478, f0_eFVCU5, G7WW_It, -1749674664) << L0_
 }
 else if ((aGNhxs == DOV_ZxA) || (TgYIXM3a >= 139820979))
 {
-ETW_msyk3 = D_LYX4(-1505071792);
+
 }
 else
 {
@@ -258,7 +258,7 @@ if (Hj9CXL_s3 & 1245173043)
 switch (TQsIaNS)
 {
 case 'a':
-Z8g2s_FFj = m7TzGT0cH & E1kWGj66;
+
 break;
 case 'b':
 Hp11kF--;
@@ -287,7 +287,7 @@ xo5wKA = iQgBlRp71_(1908721111, b02PfT3_, 640125148, 657915953, R9GGq);
 }
 else
 {
-Zb6_gu = YY9BR4 + Jm0Lf228;
+
 }
 }
 }
@@ -301,7 +301,7 @@ cout << "t4_P13y9jz" << FQj9tO7(xo5wKA) << A1Kck(942289970, b02PfT3_, VOl5H04, 1
 }
 else if ((loB811Z < -573945430) || ((R9GGq & 139795935) && (yut_26K1 != VOl5H04)))
 {
-gUP07F3 = (int)floor(YT8FtgrX);
+
 }
 else
 {
@@ -312,7 +312,7 @@ YY9BR4 /= W_hI4;
 switch (Hp11kF)
 {
 case 'a':
-cuw755F7 >>= 2070117922;
+
 break;
 case 'b':
 YcQ4 = D_LYX4(-1033926730);
@@ -324,7 +324,7 @@ case 'd':
 BjDf2 >>= FjS8__jt75;
 break;
 case 'e':
-m7TzGT0cH = FQj9tO7(-2091134102);
+
 break;
 case 'f':
 E1kWGj66 = D_LYX4(1875508906);
@@ -336,7 +336,7 @@ case 'h':
 FsUkvcetE = G7WW_It + kPCr2X5;
 break;
 default:
-U1aZSay8 = (int)ceil(v8yg);
+
 break;
 }
 if (YT8FtgrX <= -686660854)

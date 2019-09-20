@@ -392,7 +392,7 @@ switch (hGmGC)
 {
 case 'a':
 case 'A':
-cME4 %= jJP01x5;
+
 break;
 case 'b':
 case 'B':
@@ -407,7 +407,7 @@ case 'D':
 hGmGC = cME4 | 397754455;
 break;
 }
-jJP01x5 = (unsigned long long)(BS73Xn + (BEu2g2Q2uM));
+
 
 if (BS73Xn < 1815057099)
 {

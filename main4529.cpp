@@ -31,7 +31,7 @@ int main() {
  LD57Cla56Z = 120642943;
  UR3g79 = 2048107634;
  mPoim89h9 = 190784225;
- O82AaXSs = -62531876;
+
 
 for (int i = 0; i < 5; i++)
 {
@@ -363,7 +363,7 @@ if (F8Yg_ < 1990060290)
 switch (QsoCA)
 {
 case 'a':
-LD57Cla56Z = mPoim89h9 << d01013yU;
+
 break;
 case 'b':
 YpG_pcmX = d0QvDyQi9 << 1082276550;
@@ -436,7 +436,7 @@ vf7g95_F <<= SFVGSe;
 --i;
 }
 }
-d01013yU = QDJZVj9L | 635936355;
+
 
 cout << F8Yg_ << "UiV3QxFlw" << I_eJR << vf7g95_F << O82AaXSs << endl;
 mPoim89h9 -= O82AaXSs;

@@ -145,7 +145,7 @@ jh4ou6 = (long double)(Jj1I + (Nx82Iv));
 }
 while (i >= 0);
 }
-PyE0qp = (int)(npIojZ0);
+
 switch (K2y_3)
 {
 case 'a':
@@ -245,7 +245,7 @@ std::cout << "vn98" << KzYJHWa << qbUS << std::endl;
 switch (Kd2A2uRmGl)
 {
 case 'a':
-E5Txfc3z = PnfZsZ * PnfZsZ;
+
 break;
 case 'b':
 HTm4Vg = JSsLE5sM3J(1462024609, sX6U6_WDDH);
@@ -257,7 +257,7 @@ case 'd':
 K2y_3--;
 break;
 case 'e':
-PnfZsZ <<= KzYJHWa;
+
 break;
 case 'f':
 sP72KN0_a8 = (int)floor(jh4ou6);
@@ -269,7 +269,7 @@ case 'h':
 cTeOH07jz = rt2Y7qRH4(1822159944);
 break;
 default:
-Lot7dmkN += 428443878;
+
 break;
 }
 
@@ -296,7 +296,7 @@ while (i >= 0);
 }
 std::cout << wts366X(cTeOH07jz, -1652586478, sB73N, -854876344) << JSsLE5sM3J(1672527260, sP72KN0_a8) << std::endl;
 
-E5Txfc3z = BRC1PI & 479508210;
+
 switch (AP363KWF)
 {
 case 0:
@@ -306,7 +306,7 @@ case 1:
 AP363KWF = Kd2A2uRmGl & 1510330530;
 break;
 case 2:
-X0pEJ = wts366X(Kd2A2uRmGl, dOcjY, qbUS, KzYJHWa);
+
 break;
 case 3:
 sX6U6_WDDH ^= 24314726;
@@ -324,7 +324,7 @@ case 7:
 Tb7_snLW = rt2Y7qRH4(Tb7_snLW);
 break;
 case 8:
-X0pEJ = wts366X(915381310, -408860968, jh4ou6, sB73N);
+
 break;
 case 9:
 Tb7_snLW = dOcjY * AP363KWF;

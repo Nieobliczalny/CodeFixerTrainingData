@@ -122,7 +122,7 @@ cout << e2Usa8LE2V << endl;
 switch (s_sd73)
 {
 case 0:
-S0gw_2N98 = RWJR();
+
 break;
 case 1:
 mB4Nr = Y37T319 % 884685913;
@@ -140,7 +140,7 @@ case 5:
 Y37T319 = KbSTw96gW(-1436516674, dKWd3J1);
 break;
 case 6:
-DVH3l2heTH = KbSTw96gW(-861455707, h8Gyxb9L);
+
 break;
 case 7:
 d2yIq5f |= U8CZm;
@@ -153,7 +153,7 @@ if (e9jQN2f < mCt4)
 {
 if (CM54H)
 {
-h8Gyxb9L >>= Tn9J725iuq;
+
 }
 else
 {
@@ -163,7 +163,7 @@ o1ONjfE = h8Gyxb9L * 177525045;
 }
 s_sd73 = (unsigned short)(U8CZm);
 
-d2yIq5f = (unsigned short)(Y37T319);
+
 return 0;
 }
 

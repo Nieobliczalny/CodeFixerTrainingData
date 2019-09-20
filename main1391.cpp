@@ -210,7 +210,7 @@ while (j < 7);
 switch (OkR5P40a)
 {
 case 0:
-Hw0H93wJ__ = nbcMiSd << 1877636136;
+
 break;
 case 1:
 Hw0H93wJ__ = Yk_TNR_(Hw0H93wJ__, 1733535589, -151212323, 1607587566, -1236728524);

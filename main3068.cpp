@@ -88,7 +88,7 @@ TY5mddk9b = (long long)(XWSPmI + (-1440743782));
 
 KYS96p = pGz_w() / OW77A2u69(1603109009);
 
-arGzBX = pGz_w();
+
 
 gCFvl = gCFvl ^ LS_DW;
 
@@ -112,7 +112,7 @@ gCFvl = LS_DW * IXF6Nvr;
 break;
 case 'd':
 case 'D':
-Dt818e48y1 = (int)abs(IXF6Nvr);
+
 break;
 }
 }

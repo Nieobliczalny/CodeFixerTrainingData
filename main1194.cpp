@@ -58,7 +58,7 @@ cout << GZtc05A << "grB8Dm4_x" << "T45N5R9" << YGdz << endl;
 --i;
 }
 }
-douh9_vj8A = douh9_vj8A / G7KS;
+
 
 douh9_vj8A = (int)abs(N5P1);
 {
@@ -120,7 +120,7 @@ for (int i = 0; i < 10; i++)
 ymq4m3W7oM *= 44877969;
 }
 
-Y76bjXMk = (int)abs(p3R2) * 0;
+
 
 {
 int i = 0;
@@ -137,7 +137,7 @@ try
 switch (G7KS)
 {
 case 0:
-o90Ye >>= 1581270559;
+
 break;
 default:
 jSAT5Z0 = gH6F47CBJ * ymq4m3W7oM;
@@ -151,7 +151,7 @@ p3R2 = (int)ceil(VIdlJ);
 }
 else
 {
-ymq4m3W7oM >>= N2Oz;
+
 }
 
 return 0;

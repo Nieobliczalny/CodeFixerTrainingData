@@ -15,7 +15,8 @@ short int  aR55lo5qo3(unsigned long  n3q0g0,short int  jfPhtq6x)
 int main()
 {
   long double  Tc2__42_Q,  mefg_F,  Op4i_,  QU1TXD6M8x,  c5pX2_;
-    Tc2__42_Q  =  mefg_F  =  Op4i_  =  QU1TXD6M8x  =  c5pX2_  =  1949599886;
+    // codechecker_intentional [deadcode.DeadStores] Design rule - initialize all variables
+	Tc2__42_Q  =  mefg_F  =  Op4i_  =  QU1TXD6M8x  =  c5pX2_  =  1949599886;
   short int  ZbDo0n7x;
     ZbDo0n7x  =  0;
 

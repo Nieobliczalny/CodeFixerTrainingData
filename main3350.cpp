@@ -41,7 +41,7 @@ case 0:
 MTg_r_V8C = E3Syl(-224783403, -648634353, -766819718, yFyh7a, -1412511185);
 break;
 case 1:
-zp4X_u = (int)floor(NGA605);
+
 break;
 case 2:
 iiw9bAH_ -= A73H6;
@@ -66,7 +66,7 @@ else if (T861M0)
 {
 if (k_tJvFPr == hml96d2)
 {
-ESUC = (float)(Dcso4q);
+
 }
 }
 else if (((pH55bFrs < hml96d2) || (oV_7rnS9_v >= 1144894689)) || (g4WHG > hml96d2))
@@ -107,7 +107,7 @@ wuozc_3S7 /= 2086455492;
 --i;
 }
 }
-CBykxJduz = (float)(hml96d2 + (1614136298));
+
 
 {
 int i = 0;
@@ -117,7 +117,7 @@ switch (txz_04PQ5)
 {
 case 'a':
 case 'A':
-coxf68S = (int)ceil(Dcso4q);
+
 break;
 default:
 hWkr3 = E3Syl(1777379471, u_N3Czv, F5LY7, -1727648833, iN9iE8_d6B);
@@ -172,7 +172,7 @@ txz_04PQ5 = E3Syl(zD7T0i2i6z, -1545442743, N68u0H52K7, -984780748, 1937891862);
 }
 else if (k_tJvFPr >= q1RYr32hIU)
 {
-NGA605 = (int)floor(i6lDFFw);
+
 }
 else if (((xBbW2 & txz_04PQ5) || (Q4oPi9 == -306272775)) && (k78fCH < xBbW2))
 {
@@ -198,7 +198,7 @@ int k = 8;
 do
 {
 k--;
-YilM80gUe3 = (Q4oPi9 == x1czWf_WMi) ? hml96d2 : E3Syl(-599460151, 564163300, kjupMGr, oSPBd, lgFN1xe9);
+
 }
 while (k >= 0);
 }
@@ -234,7 +234,7 @@ cout << E3Syl(oSPBd, -1143202946, tLu1TOb0, -421983996, YH_7) << E3Syl(-13948142
 switch (xBbW2)
 {
 case 0:
-LWye = (int)abs(rhCS3);
+
 break;
 case 1:
 txz_04PQ5 = E3Syl(-1154286857, Hr3d, -2022930757, u_N3Czv, 1965988143);
@@ -249,7 +249,7 @@ case 4:
 xBbW2 = E3Syl(-766372540, 1936823850, xBbW2, -2030085354, -1807764637);
 break;
 case 5:
-oSPBd /= 1905755686;
+
 break;
 case 6:
 tLu1TOb0 = oSPBd - n323w;
@@ -286,7 +286,7 @@ case 0:
 GWWxbU2J7w = xBbW2 % 1214823028;
 break;
 case 1:
-x1czWf_WMi = (int)ceil(k146OPKLXi);
+
 break;
 case 2:
 MTg_r_V8C = E3Syl(QVB8M_G45w, gIo5g4_4f, WJvp02, wuozc_3S7, -1299004408);
@@ -298,7 +298,7 @@ case 4:
 xBbW2 = E3Syl(1407395696, q1RYr32hIU, 953180795, yFyh7a, 996672216);
 break;
 case 5:
-g4WHG = (int)ceil(B0vqsZ);
+
 break;
 case 6:
 cB1f2yM9 = (int)abs(N68u0H52K7);
@@ -322,7 +322,7 @@ while (j >= 0)
 j--;
 if (JMuz4 == hml96d2)
 {
-aBmRE2Q = hml96d2 * 674277668;
+
 }
 }
 }

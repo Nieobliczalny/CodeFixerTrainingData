@@ -20,7 +20,7 @@ int main(void)
   long  Tq0Akd8lQ,  d0da4x,  uJrUNV4q_g,  d1DlBD,  mf_qUp8o1,  KF_8p1,  zjtDC,  nkOsP_3XUu,  ekZ5,  sJyz,  B6_B_,  sQ_ZE;
   Tq0Akd8lQ  =  1960506244;
   d0da4x  =  -918837670;
-  uJrUNV4q_g  =  -233750746;
+
   d1DlBD  =  1117484455;
   mf_qUp8o1  =  -494978761;
   KF_8p1  =  1460636245;
@@ -400,7 +400,7 @@ case 'a':
 uJrUNV4q_g = d0da4x - X3yB;
 break;
 case 'b':
-d1DlBD = sJyz % B6_B_;
+
 break;
 case 'c':
 gCgGAX5 = L04pK6(-541006888, -1075629783);
@@ -420,7 +420,7 @@ i--;
 }
 
 gCgGAX5 = (char)(mf_qUp8o1 * gCgGAX5);
-d0da4x = (long)(sJyz);
+
 return 0;
 }
 

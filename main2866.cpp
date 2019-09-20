@@ -69,7 +69,7 @@ case 'A':
 rc_5lg <<= Cc2Ylii4K8;
 break;
 default:
-Cc2Ylii4K8 += ukYPU;
+
 break;
 }
 
@@ -91,7 +91,7 @@ Io16 >>= rc_5lg;
 cout << u9oz1e << hael67z74D << n9y9NuN << Y__enyv6gu << endl;
 try
 {
-Io16 /= 516526442;
+
 }
 catch (int& errorCode)
 {

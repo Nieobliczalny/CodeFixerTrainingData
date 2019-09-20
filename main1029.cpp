@@ -132,7 +132,7 @@ int main() {
 std::cout << "E2_dFwB289" << FFd8Mtnp0 << pfX_oF << iWRnb0U0X4(1858510134, 418705693, w80Ia8) << std::endl;
 if (M0b_ == 0)
 {
-	FikvM9 = 1940296302 / M0b_;
+
 }
 WAPU = R6_FR << V8_8j;
 

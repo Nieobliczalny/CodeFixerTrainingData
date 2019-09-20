@@ -40,7 +40,7 @@ int main() {
   float  gJ7LK25Q4  =  -884758783;
 
 ARlCk4 = (unsigned int)(MMGxq891P);
-DYZc7v = (int)abs(mLb21);
+
 {
 int i = 9;
 do
@@ -52,7 +52,7 @@ while (i >= 0);
 }
 if (DQXiptEN(hmVpA7I, 153284361) == 0)
 {
-	DYZc7v = DoWg / DQXiptEN(hmVpA7I, 153284361);
+
 }
 
 oROO_7a2n6 %= 1160342226;
@@ -114,7 +114,7 @@ if (oROO_7a2n6 <= fi01bCR2f8)
 int k = 2;
 do
 {
-DYZc7v = w00MspmvI();
+
 --k;
 }
 while (k >= 0);
@@ -131,7 +131,7 @@ g3Z5hiG = (hwhpo != s8rA) ? -1311541370 : -520488767;
 }
 else
 {
-s8rA = DQXiptEN(-2075208746, -95928901);
+
 }
 }
 }
@@ -143,7 +143,7 @@ hwhpo = DQXiptEN(hwhpo, GBzi03I1);
 hI9S = (unsigned long long)(mLb21);
 try
 {
-dL7e = (char)(gJ7LK25Q4);
+
 }
 catch (int& errorCode)
 {
@@ -155,7 +155,7 @@ u97N8lr2x = (unsigned short)(oROO_7a2n6);
 switch (hI9S)
 {
 case 0:
-J44CCR2ju8 = w00MspmvI();
+
 break;
 case 1:
 g97ewkE = w00MspmvI();
@@ -167,7 +167,7 @@ case 3:
 aLg0xf1e4s = w00MspmvI();
 break;
 case 4:
-hmVpA7I &= Jk8Dr;
+
 break;
 case 5:
 s8rA = DQXiptEN(mLb21, MMGxq891P);

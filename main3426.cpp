@@ -98,7 +98,7 @@ IE725Zcvob &= JP52v1KZ6E;
 }
 std::cout << hCQ5ri << SR_143X(944356330, -1080444419, -201392556, l2f3Kth24) << "R_VMKO89" << std::endl;
 
-hCQ5ri = SR_143X(aZaY3, 1164598653, hCQ5ri, IHf0aRG6);
+
 hCQ5ri = SR_143X(-1807356209, l2f3Kth24, 1133441805, -1792905975);
 
 JP52v1KZ6E++;
@@ -313,7 +313,7 @@ case 'g':
 IE725Zcvob &= JP52v1KZ6E;
 break;
 case 'h':
-hCQ5ri = SR_143X(501011858, aZaY3, 1177350858, JP52v1KZ6E);
+
 break;
 }
 i--;

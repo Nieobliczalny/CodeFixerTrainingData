@@ -51,7 +51,7 @@ int main(int argc, char** argv) {
  long long eT3de;
  eT3de = 604379780;
 	unsigned char	ouK2N32r;
-	ouK2N32r	=	536818732;
+
     double    o1en;
     o1en    =    1172712447;
  char C07YT2i;
@@ -435,7 +435,7 @@ FTBNk = d161 % 322008807;
 break;
 }
 }
-HBlIDvx9mt = (int)abs(P1F7007P);
+
 if ((MA_7DnUR & d161) || ((n1ypO != -1783826785) && (C07YT2i <= -1021004150)))
 {
 {
@@ -577,7 +577,7 @@ case 0:
 vZTpl7xt2u = (int)abs(eMCtqxw9S);
 break;
 case 1:
-o1en = (int)abs(n1ypO);
+
 break;
 case 2:
 bUvlL0VF3o *= 2000021822;
@@ -658,7 +658,7 @@ o1en = (int)ceil(P1F7007P);
 
 cout << n1ypO << tCbE3(1421604305, o1en, -1473141150, MA_7DnUR) << S25xu << z5Ke8_y_C(-618200909) << endl;
 
-GSDk4wG7 = z5Ke8_y_C(1600619986) | 1973636334;
+
 
 if ((bUvlL0VF3o >= aUxyt5_E) && (dMFzl7F))
 {
@@ -676,7 +676,7 @@ if ((eT3de < -781445339) && (LO_7EEK >= fIwRZ9G8Es))
 int k = 0;
 while (k < 9)
 {
-r1TscXUZZ = t_9bgcw - 2035980795;
+
 ++k;
 }
 }
@@ -695,7 +695,7 @@ for (int i = 1; i >= 0; i--)
 {
 vZTpl7xt2u = (int)(cBRE + (fIwRZ9G8Es));
 }
-GSDk4wG7 = (int)abs(n1ypO);
+
 cout << tCbE3(1630618925, o1en, LO_7EEK, MA_7DnUR) << endl;
 
 try
@@ -713,7 +713,7 @@ do
 {
 if (o1en < -1211390164)
 {
-MA_7DnUR = tCbE3(1610752796, -1469265308, 1974284158, C07YT2i);
+
 }
 else
 {
@@ -735,7 +735,7 @@ eMCtqxw9S = (int)floor(S25xu);
 eT3de = FTBNk << ouK2N32r;
 dMFzl7F = z5Ke8_y_C(dMFzl7F);
 
-r1TscXUZZ = (unsigned char)(vZTpl7xt2u);
+
 return 0;
 }
 

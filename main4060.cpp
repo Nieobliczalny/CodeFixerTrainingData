@@ -37,7 +37,7 @@ int main(void)
 	Ykw9j	=	-1452524623;
 	vy_27StX	=	-1262071898;
 	Uj818UU9y	=	-1263990945;
-	SPK2Xk3PU5	=	1657104815;
+
 	xxfT1m44	=	-955967370;
 	VkfUI	=	1174725863;
 	p6b22j0	=	1805464754;
@@ -62,7 +62,7 @@ int main(void)
 	GPQwPS2_	=	1255006886;
 	z0kYDcd	=	319257402;
 	eTTA6d_	=	-1007351252;
-	PN1R54C	=	689780981;
+
 	RiZE4YME	=	-555447404;
 	F4J24P0	=	993122546;
 	fLwL1ue9a	=	-2009026268;
@@ -98,7 +98,7 @@ switch (a777FfYr)
 {
 case 'a':
 case 'A':
-sY78h95rr = AqhaG - 1327212948;
+
 break;
 case 'b':
 case 'B':
@@ -260,7 +260,7 @@ VS6LM1h = (int)abs(m8I8);
 }
 else
 {
-iGk0U34 = K165zYrn73(iGk0U34, -1400014363, En3t082j);
+
 }
 }
 else
@@ -275,7 +275,7 @@ E23zQwU_l = QAD2DR << I3x4R;
 }
 else
 {
-I4TelB_g62 = Ykw9j / OiJ1Ww1;
+
 }
 }
 }
@@ -385,7 +385,7 @@ case 'c':
 QwAt6Dbb = xp_n5(VS6LM1h, 418891681, VGnRxlkiX, 1526498927);
 break;
 case 'd':
-F4J24P0 = LKvn(143465556, RiZE4YME, 1224415125, yK418d);
+
 break;
 case 'e':
 QAD2DR %= 189363386;
@@ -419,7 +419,7 @@ AqhaG = LKvn(1250388662, -810304494, -559562868, -1713378612);
 break;
 case 'f':
 case 'F':
-p6b22j0 = LKvn(p6b22j0, En3t082j, -1717608710, -1244528224);
+
 break;
 case 'g':
 case 'G':
@@ -431,7 +431,7 @@ mnT4KEj_m = LKvn(mnT4KEj_m, -993072141, 1749151349, 161552052);
 break;
 case 'i':
 case 'I':
-njysO4_t9e = a777FfYr % 1793426921;
+
 break;
 }
 
@@ -451,7 +451,7 @@ TzEbs5 -= z0kYDcd;
 }
 else
 {
-AqhaG = xp_n5(-129138785, F9T63pwML8, -149048481, z0kYDcd);
+
 }
 ++j;
 }
@@ -463,7 +463,7 @@ else if (MTiC7ri & pcDi)
 switch (D0Fp4VN9)
 {
 case 'a':
-GPQwPS2_ = K165zYrn73(-269492922, -789539489, ck1Q);
+
 break;
 case 'b':
 LnzWfHDd = wg2Nm(LnzWfHDd, jYyJsSqQJ, xxfT1m44, 1474003021);
@@ -475,7 +475,7 @@ case 'd':
 En3t082j = wg2Nm(En3t082j, -1631856515, 1170792306, -1453371129);
 break;
 case 'e':
-jYyJsSqQJ = LKvn(1011796012, LnzWfHDd, -466064782, 763735350);
+
 break;
 }
 }
@@ -489,7 +489,7 @@ case 'a':
 OUz_hl0KS *= 856304750;
 break;
 default:
-x_vgVk3 = SbpVf << EY5l549u;
+
 break;
 }
 }
@@ -517,7 +517,7 @@ int k = 0;
 do
 {
 ++k;
-fLwL1ue9a = xp_n5(-676943107, -1886941998, 530090994, 1410825245);
+
 }
 while (k < 2);
 }
@@ -531,7 +531,7 @@ int i = 1;
 while (i >= 0)
 {
 --i;
-p6b22j0 = (unsigned char)(VS6LM1h + (510311878));
+
 }
 }
 VS6LM1h = (int)abs(m8I8);

@@ -24,7 +24,7 @@ int main(int argc, char** argv) {
  unsigned short int n7Yg;
  n7Yg = 0;
     double    yD_djzEe41;
-    yD_djzEe41    =    -820786608;
+
  unsigned long QAOn17;
  QAOn17 = 1660161911;
 	unsigned long long	xpEH;
@@ -330,7 +330,7 @@ break;
 }
 }
 
-yD_djzEe41 = SsDVwG06Y(-42097682, yD_djzEe41, 489930304) + xpEH;
+
 
 return 0;
 }

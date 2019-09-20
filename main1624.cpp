@@ -15,7 +15,7 @@ using std::floor;
 int main()
 {
     float    AQsk;
-    AQsk    =    -1816741661;
+
     unsigned short int    CbxMj;
     CbxMj    =    726392949;
  int Tow_0JbpM;
@@ -29,7 +29,7 @@ int main()
 	float	auec1h;
 	auec1h	=	-1488043997;
   char  XtJp;
-  XtJp  =  247163968;
+
     unsigned long    u4rV;
     u4rV    =    518841219;
   long long  W_ta;
@@ -41,7 +41,7 @@ int main()
  unsigned short kDkrx_wm;
  kDkrx_wm = 1884686586;
  short int OlEIM;
- OlEIM = 73884091;
+
 	short int	sGiOXY16;
 	sGiOXY16	=	651332997;
   unsigned int  eue04U;
@@ -51,7 +51,7 @@ int main()
   unsigned short  kfXIVBf7Ea;
   kfXIVBf7Ea  =  0;
   unsigned long long  do5EmVWoq;
-  do5EmVWoq  =  10461594;
+
     char    ht_VX9;
     ht_VX9    =    68246140;
  float Qx7E9zY8;
@@ -63,7 +63,7 @@ int main()
  short int z37m9Gw;
  z37m9Gw = -626923119;
     long    MWOa3ROW;
-    MWOa3ROW    =    1938299098;
+
     long    QtUb_d;
     QtUb_d    =    358200829;
   long double  DV_NU9p__;
@@ -73,7 +73,7 @@ int main()
 	unsigned short int	E3yvTd4l;
 	E3yvTd4l	=	-481277753;
   unsigned char  NE6S0M__;
-  NE6S0M__  =  253558307;
+
  double hAsFuVfo58;
  hAsFuVfo58 = 839942201;
 	unsigned int	Sdwk_Yq4cp;
@@ -87,7 +87,7 @@ int main()
   short int  HOmSVlhyX;
   HOmSVlhyX  =  2074731225;
  long long pTpfv1K5;
- pTpfv1K5 = 0;
+
 	unsigned long long	k3yYJRgvp;
 	k3yYJRgvp	=	-46273303;
     long double    t1V777zI5;
@@ -97,7 +97,7 @@ int main()
  int MsP9P;
  MsP9P = 1448996263;
   unsigned int  WYf0n;
-  WYf0n  =  2109275104;
+
   short  V2cA3cIHZ;
   V2cA3cIHZ  =  -1980038869;
     unsigned char    TJSfD5tP;
@@ -107,7 +107,7 @@ int main()
  float xAY07Bn;
  xAY07Bn = 870777629;
  double XwEsPT36;
- XwEsPT36 = 707691391;
+
 	char	YdX7;
 	YdX7	=	668290441;
 	long double	D8y5A5egt;
@@ -117,7 +117,7 @@ int main()
  unsigned char uN5vnSi2s;
  uN5vnSi2s = 0;
   unsigned short int  mBiTh_;
-  mBiTh_  =  -1322878829;
+
     short    D_ZXi927FG;
     D_ZXi927FG    =    1009391608;
   char  xa5i;
@@ -129,7 +129,7 @@ int main()
 	unsigned long	SIHy0_O;
 	SIHy0_O	=	-182527383;
     long long    VKIp;
-    VKIp    =    827448126;
+
  int X2I81rd;
  X2I81rd = -64364598;
     unsigned long    lY64;
@@ -139,7 +139,7 @@ int main()
  long double Nqik685;
  Nqik685 = -1873053546;
   unsigned int  nn9A0gmHpp;
-  nn9A0gmHpp  =  1551414824;
+
 	unsigned short int	b8l3X;
 	b8l3X	=	-574059039;
 	unsigned short int	g_G4;
@@ -149,7 +149,7 @@ int main()
 	long double	ICE_a4_w;
 	ICE_a4_w	=	33952737;
   unsigned long long  i_nGntV;
-  i_nGntV  =  -1140719772;
+
   char  Ic1Qx56;
   Ic1Qx56  =  486096151;
   long  W04EyiS_;
@@ -161,7 +161,7 @@ int main()
   long double  qfGl;
   qfGl  =  197819640;
 	int	Yjrvp31N5;
-	Yjrvp31N5	=	0;
+
  unsigned short int ChEWhod94;
  ChEWhod94 = -1128822029;
   unsigned long  wyd72Im;
@@ -171,7 +171,7 @@ int main()
   double  Sb4009Qje;
   Sb4009Qje  =  1455042160;
  unsigned long p7n1fr;
- p7n1fr = -1685715868;
+
 	float	q_qQ2m;
 	q_qQ2m	=	-1468763232;
     short    Na3mVSY3;
@@ -196,7 +196,7 @@ j++;
 }
 else if (q_qQ2m)
 {
-Tow_0JbpM ^= iA2TV0g727;
+
 }
 else
 {
@@ -232,7 +232,7 @@ D8y5A5egt = (int)floor(qfGl);
 break;
 case 'c':
 case 'C':
-hAsFuVfo58 = (int)floor(auec1h);
+
 break;
 case 'd':
 case 'D':
@@ -254,7 +254,7 @@ while (i < 2);
 switch (V2cA3cIHZ)
 {
 case 0:
-PCuMk = (int)floor(Nqik685);
+
 break;
 case 1:
 z37m9Gw += 1443664964;
@@ -269,7 +269,7 @@ case 4:
 DV_NU9p__ = (int)floor(q_qQ2m);
 break;
 case 5:
-DiSU1s = YdX7 - 1534444369;
+
 break;
 case 6:
 Tow_0JbpM = (I696___ <= 2067658849) ? 1782996673 : -2031712490;
@@ -281,7 +281,7 @@ case 8:
 OlEIM = vuw3Cya4 % HOmSVlhyX;
 break;
 case 9:
-do5EmVWoq = iA2TV0g727 ^ 282384372;
+
 break;
 default:
 auec1h = hdhl22HUdU & 693506487;
@@ -298,7 +298,7 @@ try
 {
 if (DV_NU9p__ == -277944760)
 {
-ht_VX9 = qfGl / Bp_78v_;
+
 }
 }
 catch (int& errorCode)
@@ -311,7 +311,7 @@ catch (int& errorCode)
 fBrI2UM = (int)floor(Sb4009Qje);
 }
 
-Qx7E9zY8 = (float)(ICE_a4_w);
+
 if (A8YxsUzv0)
 {
 CbxMj = (unsigned short int)(vuw3Cya4);

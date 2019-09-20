@@ -66,7 +66,7 @@ while (j >= 0)
 int k = 3;
 while (k >= 0)
 {
-hEp7p_a = oFgu_L2k4 & P55nNkfB;
+
 k--;
 }
 }
@@ -83,7 +83,7 @@ case 0:
 ltEt4XIb9Y = LCtA7bR * 1796664555;
 break;
 case 1:
-VQ2nC8 = ltkXl4 / tjO01iSrq6;
+
 break;
 case 2:
 tjO01iSrq6++;
@@ -95,7 +95,7 @@ case 4:
 ltEt4XIb9Y = (int)abs(D853ejUa4R);
 break;
 default:
-VQ2nC8 |= 1782832380;
+
 break;
 }
 
@@ -105,7 +105,7 @@ case 0:
 sH8HyjiX_L = puv6Dgu_ | 1096046437;
 break;
 case 1:
-cMmDs25_ = N_a_Vc600 | pDBRIAM9vb;
+
 break;
 case 2:
 s31v3oMxp ^= DxW_kmv5gZ;
@@ -117,7 +117,7 @@ case 4:
 P55nNkfB = ltEt4XIb9Y | tjO01iSrq6;
 break;
 case 5:
-W1q8MV_b0v = (int)abs(N_a_Vc600);
+
 break;
 }
 
@@ -130,7 +130,7 @@ int k = 5;
 while (k >= 0)
 {
 --k;
-G2gO6TxQ0 = x_Kn69C4 >> 2071145174;
+
 }
 }
 }
@@ -143,7 +143,7 @@ else
 switch (koTl78u)
 {
 case 'a':
-Z3BrT ^= f4BC_;
+
 break;
 case 'b':
 WVol_SZ__1 ^= gopuY2x;

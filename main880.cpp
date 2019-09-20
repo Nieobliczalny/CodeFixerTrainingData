@@ -178,7 +178,7 @@ KBqmU = (int)abs(D0l6Nz);
 }
 }
 
-vu040T45 = (gwDr <= myeYF_wz) ? TiL6_y4_ : vu040T45;
+
 
 if (gwDr > -815763214)
 {
@@ -204,7 +204,7 @@ break;
 }
 else
 {
-nBl9pfo = (double)(D8Tk0EW);
+
 }
 D8Tk0EW = YR70 * h2eHS;
 
@@ -214,7 +214,7 @@ if (BJtG87q_(NG9FH, 1985210336) == 0)
 }
 try
 {
-NG9FH = BJtG87q_(KBqmU, h2eHS);
+
 }
 catch (int& errorCode)
 {

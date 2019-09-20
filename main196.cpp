@@ -255,7 +255,7 @@ case 2:
 hDg0++;
 break;
 case 3:
-C666XDJ = tpV2jx3S7 | 434675127;
+
 break;
 case 4:
 DIFbP_p0N_ %= gkyD;
@@ -284,7 +284,7 @@ do
 int k = 1;
 do
 {
-nJ82Hc = EVeXV1 ^ 1411694278;
+
 --k;
 }
 while (k >= 0);
@@ -301,7 +301,7 @@ switch (d7Xs6bt1lk)
 {
 case 'a':
 case 'A':
-hDg0 = A50u ^ sA22EX4;
+
 break;
 case 'b':
 case 'B':
@@ -313,7 +313,7 @@ Q3Cp = NeutTWdU2(M76Kbh7a, 348653412, EVeXV1, F5eqh);
 break;
 case 'd':
 case 'D':
-C666XDJ = qfHu9HOBH - d3qJwl;
+
 break;
 }
 }

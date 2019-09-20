@@ -21,7 +21,7 @@ int main(int argc, char** argv)
     int    mVQNt;
     mVQNt    =    2029503983;
     short int    A23eaI_cws;
-    A23eaI_cws    =    1934495612;
+
     char    a2pt_o;
     a2pt_o    =    -1630798016;
 	double	TmQ9;
@@ -339,7 +339,7 @@ case 0:
 mVQNt = t5gEI5 ^ gVjgUv7;
 break;
 case 1:
-AGVWdsZp_0 = A23eaI_cws / A23eaI_cws;
+
 break;
 case 2:
 OBu5_KU %= 917961930;
@@ -421,7 +421,7 @@ while (k >= 0);
 
 try
 {
-kC_YSumW = OBu5_KU + 1103932551;
+
 }
 catch (int& errorCode)
 {

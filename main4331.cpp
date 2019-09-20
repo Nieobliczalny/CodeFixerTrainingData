@@ -248,7 +248,7 @@ j--;
 while (j >= 0);
 }
 }
-Yk_a = b8QW6Z(Yk_a, s2QR3qv0kk, -1985915349, PrDXVez8M);
+
 
 for (int i = 0; i < 10; i++)
 {
@@ -339,7 +339,7 @@ cout << "yBL54zWd" << endl;
 }
 else
 {
-Yk_a = (short int)(nCreO_b_e);
+
 }
 if (((nR6_Y9z & -1457799344) || (PlY6 >= 253651248)) || (cTdr4x_o & nR6_Y9z))
 {
@@ -351,7 +351,7 @@ w63k9it++;
 }
 else
 {
-cTdr4x_o |= 991098017;
+
 }
 }
 catch (int& errorCode)

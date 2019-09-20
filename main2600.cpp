@@ -38,7 +38,7 @@ int main()
  int imikD27;
  imikD27 = 560253098;
  short d_38;
- d_38 = -40120650;
+
     unsigned char    A8nX_7LM0;
     A8nX_7LM0    =    206716868;
 	long double	C9By;
@@ -50,7 +50,7 @@ int main()
     unsigned short    Kf5obdyta1;
     Kf5obdyta1    =    1577537069;
   unsigned long long  j6q880Bu;
-  j6q880Bu  =  -1571082561;
+
 	char	D62v_4;
 	D62v_4	=	-1158859996;
 	unsigned short int	nKS8;
@@ -110,7 +110,7 @@ int main()
     short int    vKHo;
     vKHo    =    945876812;
  unsigned short oyq4XK4;
- oyq4XK4 = -1601781252;
+
 
 {
 int i = 0;
@@ -223,7 +223,7 @@ bxblR = QPLq8p(104189791, iq__MYATlz, nKS8);
 break;
 case 'c':
 case 'C':
-M8m0 &= C_qv5bE7Z4;
+
 break;
 case 'd':
 case 'D':
@@ -247,7 +247,7 @@ catch (int& errorCode)
 {
 or23BJSoW %= 1399809719;
 }
-J15LWFpM3T = (unsigned int)(A9TRF3hw);
+
 X0ttO_I_ = (int)floor(nkm8o);
 
 cout << "SLFks" << QPLq8p(imikD27, 1993499216, 1864188187) << "ZUZH32" << "z5Yi7_" << endl;
@@ -279,7 +279,7 @@ if (b4qrc != -2043959790)
 {
 if (jqOvtl < 1047763842)
 {
-oyq4XK4 = QPLq8p(-960726077, CTAKI_eP, Vdo1);
+
 }
 else
 {
@@ -289,7 +289,7 @@ Ua_z59LK = sb018Z8(or23BJSoW);
 }
 else if (Y_0QzhWhqF <= etlSE)
 {
-Q_B_A8x = sb018Z8(H5SBx1clF9);
+
 }
 else
 {
@@ -305,7 +305,7 @@ if (W1x5Q != A9TRF3hw)
 {
 e68__oJFKN = (int)abs(v089lL70E);
 }
-J15LWFpM3T = (unsigned int)(bxblR);
+
 
 X0ttO_I_ = (int)floor(j66xX4A9_l);
 switch (Q4493J6)
@@ -316,7 +316,7 @@ MuHcv66tI = Y_0QzhWhqF + ny8358e7bL;
 break;
 case 'b':
 case 'B':
-Q_B_A8x = sb018Z8(-1557697779);
+
 break;
 case 'c':
 case 'C':
@@ -351,7 +351,7 @@ case 'J':
 nkm8o = (int)ceil(j66xX4A9_l);
 break;
 default:
-jqOvtl = Kf5obdyta1 << 2089677880;
+
 break;
 }
 
@@ -362,7 +362,7 @@ int j = 0;
 while (j < 6)
 {
 ++j;
-j66xX4A9_l = (int)ceil(X0ttO_I_);
+
 }
 }
 }
@@ -385,7 +385,7 @@ break;
 switch (b4qrc)
 {
 case 0:
-Q_B_A8x = sb018Z8(-823122147);
+
 break;
 case 1:
 u4Q1X5Y9 = (int)floor(D0H49688);
@@ -431,7 +431,7 @@ case 4:
 or23BJSoW &= 1352299369;
 break;
 case 5:
-iq__MYATlz = QPLq8p(392037741, -76533958, Vdo1);
+
 break;
 case 6:
 X0ttO_I_ = (int)floor(Nxpf1_);
@@ -452,7 +452,7 @@ if (vKHo != etlSE)
 switch (Kf5obdyta1)
 {
 case 'a':
-u4Q1X5Y9 = (int)ceil(nkm8o);
+
 break;
 case 'b':
 MuHcv66tI = QPLq8p(MuHcv66tI, Zl_ljC_, -1727449458);

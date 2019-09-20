@@ -157,7 +157,7 @@ while (i < 4)
 int j = 4;
 while (j >= 0)
 {
-VkMhn = (int)ceil(NX8d1BI8G);
+
 --j;
 }
 }
@@ -173,7 +173,7 @@ if ((jZAvn1H5jP < -2014743529) && (mzZm1p0366 != -225864909))
 {
 if (R9soX9tB > -295828517)
 {
-NX8d1BI8G = (int)floor(Nx1v51M8U);
+
 }
 else if (WTFu > 818157077)
 {
@@ -190,7 +190,7 @@ WTFu = u0575Pq4k7(-709077842, -1400250156, -359809422);
 switch (me9f6pJj)
 {
 case 'a':
-VPPRiw454M = u0575Pq4k7(-694989816, -568495599, 1501460847);
+
 break;
 case 'b':
 VPPRiw454M = (int)floor(JQ4ZM6);
@@ -209,7 +209,7 @@ if (K47L_XVCmD <= oS0I)
 switch (K0XMg7dQ3)
 {
 case 0:
-zQ7tcEt = u0575Pq4k7(zQ7tcEt, R9soX9tB, jZAvn1H5jP);
+
 break;
 case 1:
 me9f6pJj = u0575Pq4k7(1231817737, -1017318540, -1669270011);
@@ -221,7 +221,7 @@ case 3:
 JQ4ZM6 = (R9soX9tB >= 1915845215) ? x_Pm : JQ4ZM6;
 break;
 case 4:
-ECEVtHt3 = (int)abs(YE4Y);
+
 break;
 }
 }
@@ -235,7 +235,7 @@ if ((me9f6pJj != 683204598) && (oS0I >= 884510501))
 {
 try
 {
-JQ4ZM6 = (int)abs(ECEVtHt3);
+
 }
 catch (int& errorCode)
 {
@@ -246,7 +246,7 @@ else if (((gmSu4x0_2 <= -1696014582) || (oS0I)) && (q76x2h <= -1634047644))
 {
 if (oS0I)
 {
-oS0I = me9f6pJj << 1563284034;
+
 }
 }
 else if (WTFu >= -702967434)
@@ -257,7 +257,7 @@ case 0:
 gmSu4x0_2 = K0XMg7dQ3 & 305801533;
 break;
 case 1:
-OiIWJz6pTu = u0575Pq4k7(1773090418, mzZm1p0366, Llf1);
+
 break;
 case 2:
 Nx1v51M8U = (int)floor(VPPRiw454M);
@@ -269,7 +269,7 @@ case 4:
 oS0I |= HnqtN7;
 break;
 case 5:
-mzZm1p0366 ^= HnqtN7;
+
 break;
 case 6:
 x_Pm = ZOBJM9(-634793027, -295125428);
@@ -281,7 +281,7 @@ case 8:
 bhw2WVBY0p = fN9S(-421762834, n9rA);
 break;
 case 9:
-mzZm1p0366 >>= 1110577404;
+
 break;
 }
 }
@@ -293,7 +293,7 @@ ie7g8_99K = fN9S(-2010074798, VPPRiw454M);
 }
 else if (me9f6pJj < n9rA)
 {
-JQ4ZM6 = (int)abs(oS0I);
+
 }
 else if (K47L_XVCmD & me9f6pJj)
 {
@@ -305,7 +305,7 @@ bhw2WVBY0p = R9soX9tB ^ 1778280712;
 }
 else if ((YE4Y != 153895884) || ((x_Pm) || (g15b_y2 >= q76x2h)))
 {
-tfv20OKR = Llf1 << OiIWJz6pTu;
+
 }
 else
 {
@@ -318,7 +318,7 @@ switch (HnqtN7)
 {
 case 'a':
 case 'A':
-B5mY79q40 = u0575Pq4k7(ie7g8_99K, -1471606030, n9rA) + 1708299320;
+
 break;
 }
 }
@@ -329,7 +329,7 @@ int k = 0;
 while (k < 3)
 {
 ++k;
-K0XMg7dQ3 = ruLXX7();
+
 }
 }
 }

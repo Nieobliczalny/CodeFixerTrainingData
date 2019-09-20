@@ -186,7 +186,7 @@ case 0:
 X34t674Cn8 = a8OPN(X34t674Cn8, ko5f2, -801583711);
 break;
 case 1:
-Vdo3J %= DKsiv;
+
 break;
 case 2:
 X34t674Cn8 = N43q54xSk(X34t674Cn8, DKsiv);
@@ -201,7 +201,7 @@ case 5:
 lYYHjZnbpK |= 1695790103;
 break;
 case 6:
-Vdo3J -= 403272153;
+
 break;
 case 7:
 PYjs = Q0AU5c(COTK7pI24E, -1534210619, X34t674Cn8, 1002268266, 737975146);
@@ -225,7 +225,7 @@ switch (COTK7pI24E)
 {
 case 'a':
 case 'A':
-Vdo3J = X34t674Cn8 & rm62Gh5r;
+
 break;
 case 'b':
 case 'B':
@@ -429,7 +429,7 @@ while (k < 1);
 }
 else if ((y9x3K < -311473763) || ((uWDv_r5P >= 2052628820) && (Vdo3J)))
 {
-KwGyx3Q = jrXbf4UWM(-639114840, lYYHjZnbpK, 1306147241, -485243387);
+
 }
 else if (y9x3K >= COTK7pI24E)
 {

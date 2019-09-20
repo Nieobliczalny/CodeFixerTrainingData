@@ -95,7 +95,7 @@ else if (d4aQ9t <= 1478509957)
 {
 if (R3s_o9aZ <= -1345173540)
 {
-zq_K92 = (int)abs(K1n50VAb);
+
 }
 }
 else
@@ -150,7 +150,7 @@ else if (mziAxg < -149606278)
 {
 for (int k = 0; k < 1; k++)
 {
-zq_K92 = gkE_caZ & 529250136;
+
 }
 }
 else

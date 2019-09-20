@@ -30,7 +30,7 @@ int main()
     short    ANKxc87;
     ANKxc87    =    0;
  int t61PtA8ox;
- t61PtA8ox = 0;
+
  long double yW401DKt;
  yW401DKt = -925303432;
 	unsigned int	V5UN8;
@@ -40,7 +40,7 @@ int main()
  short int WI411cSHK;
  WI411cSHK = 0;
 	unsigned long long	cPAoJ;
-	cPAoJ	=	1663274640;
+
     unsigned short    I7KIm2Bw;
     I7KIm2Bw    =    -820130657;
 	int	f_HM;
@@ -166,7 +166,7 @@ default:
 V5UN8 = G_d7d * 2086047794;
 break;
 }
-fZUm = (unsigned long long)(I752lNlx);
+
 
 U21153 = (unsigned short)(N37hOXeT + (-1425274026));
 
@@ -300,7 +300,7 @@ switch (tKYOmxKc5)
 {
 case 'a':
 case 'A':
-f_HM = (int)abs(yW401DKt);
+
 break;
 }
 }
@@ -383,7 +383,7 @@ if (V5UN8 > 457361158)
 switch (Y_3BS1FY)
 {
 case 'a':
-D5P8R = Wj4gl << v821Ef4t;
+
 break;
 case 'b':
 RJtkC ^= vzwSF73dt;
@@ -395,7 +395,7 @@ case 'd':
 R0T1 /= 657148409;
 break;
 default:
-ilnv_e <<= 395226941;
+
 break;
 }
 }
@@ -405,7 +405,7 @@ else if (v821Ef4t > ja54J_3DI8)
 int k = 1;
 while (k >= 0)
 {
-D5P8R = (int)floor(CT4BN_256_);
+
 k--;
 }
 }
@@ -422,7 +422,7 @@ OstztJHv2 = ilnv_e >> 2005797811;
 }
 else if (MH7I4jqMpq < -1489497930)
 {
-gvdP9SZ1k5 &= Y_3BS1FY;
+
 }
 else if (A9NG444ZS <= Y_4xiV)
 {
@@ -443,7 +443,7 @@ std::cout << ja54J_3DI8 << j7pHH_8IW4 << v821Ef4t << std::endl;
 }
 else if (OstztJHv2)
 {
-R0T1 = (unsigned long long)(MH7I4jqMpq);
+
 }
 else
 {
@@ -460,7 +460,7 @@ k++;
 
 if (D2GUPpU2q == 0)
 {
-	ilnv_e = -530720915 / D2GUPpU2q;
+
 }
 
 switch (I752lNlx)
@@ -475,7 +475,7 @@ case 2:
 C4021A_3J++;
 break;
 case 3:
-p98lw_ = (int)abs(vzwSF73dt);
+
 break;
 case 4:
 p98lw_ = IttQl1v1SQ - 451987336;
@@ -509,7 +509,7 @@ int j = 8;
 do
 {
 j--;
-G_d7d = (int)abs(Y_3BS1FY);
+
 }
 while (j >= 0);
 }
@@ -523,7 +523,7 @@ try
 {
 if ((ANKxc87) || (ANKxc87))
 {
-G_d7d = (int)(Ou0StLj4);
+
 }
 }
 catch (int& errorCode)
@@ -534,7 +534,7 @@ switch (rJSbtD)
 {
 case 'a':
 case 'A':
-MH7I4jqMpq = Xd_Oqth >> e4wyh4cM;
+
 break;
 case 'b':
 case 'B':
@@ -546,7 +546,7 @@ j7pHH_8IW4 = (int)abs(aII7JW);
 break;
 case 'd':
 case 'D':
-YOm3J &= 284879345;
+
 break;
 case 'e':
 case 'E':
@@ -558,7 +558,7 @@ v821Ef4t += YOm3J;
 break;
 case 'g':
 case 'G':
-e66S0PljS = (int)floor(CT4BN_256_);
+
 break;
 }
 

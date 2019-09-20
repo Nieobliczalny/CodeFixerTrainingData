@@ -42,7 +42,7 @@ break;
 }
 else if (q1zp >= 297259010)
 {
-ij974EP_ = (unsigned int)(Jv5mNx5Rk * ij974EP_);
+
 }
 else if (zeU5OL7SR)
 {
@@ -52,7 +52,7 @@ case 0:
 JLSa5X8 /= l1w9;
 break;
 case 1:
-Bt1UNYz += 1099663144;
+
 break;
 case 2:
 c70GR8Y = y0YY & Yj2Sg;
@@ -106,7 +106,7 @@ for (int i = 8; i >= 0; --i)
 switch (oJrVr_90)
 {
 case 0:
-wgz59CT = dF8_71 * hOYrZSs;
+
 break;
 case 1:
 l1w9 = h96P8941lg - 745260582;
@@ -118,7 +118,7 @@ case 3:
 EQ6RnL8 = nUh67 % 1092391844;
 break;
 case 4:
-K2a6CBr = awqv >> 428862385;
+
 break;
 case 5:
 TqGAvSFcrW = (c6NO > 1204192563) ? -1308564172 : i90e3C;
@@ -146,7 +146,7 @@ if (awqv == 0)
 }
 std::cout << wpEJYyv << std::endl;
 
-dF8_71 = (unsigned int)(Z6q5O1H * dF8_71);
+
 if (((mjR7Sd) && (Ty0_8YptGS == -612064466)) || ((x1u7R94610 >= 1130818403) && (V4n8CD05mJ > JLSa5X8)))
 {
 for (int j = 0; j < 4; j++)
@@ -179,7 +179,7 @@ case 0:
 boat >>= Q9hT8eb;
 break;
 case 1:
-Pb3NvZA = zv1W / f84N7x;
+
 break;
 case 2:
 boat = X0oU544yt >> LU0v_c3EuW;
@@ -197,7 +197,7 @@ case 6:
 Yj2Sg -= wpEJYyv;
 break;
 case 7:
-jjud0 = aW5C63f | 1688836622;
+
 break;
 default:
 Tq9l8 |= 904755573;
@@ -216,7 +216,7 @@ catch (int& errorCode)
 CM182Oz5 += 379892798;
 }
 
-sWCOo8xs0 %= 1383564452;
+
 
 for (int i = 0; i < 6; i++)
 {
@@ -235,7 +235,7 @@ zuZRT7H ^= 1886705805;
 
 try
 {
-RrJp = (unsigned char)(y0YY);
+
 }
 catch (int& errorCode)
 {
@@ -255,7 +255,7 @@ wpEJYyv &= 938650270;
 }
 else
 {
-krpR0syY = nUh67 >> 995001934;
+
 }
 }
 while (j < 2);
@@ -266,7 +266,7 @@ else if (zv1W == 312033445)
 switch (V4n8CD05mJ)
 {
 case 0:
-Ya__vKex4k = (KkghlQ3o5f) ? Tq9l8 : otHn67A;
+
 break;
 case 1:
 CFdlg_j__V ^= 1847345180;
@@ -278,7 +278,7 @@ case 3:
 c70GR8Y++;
 break;
 default:
-mvdJ = Q9hT8eb % 1880874685;
+
 break;
 }
 }
@@ -292,7 +292,7 @@ Jv5mNx5Rk <<= 403390858;
 
 if (f84N7x <= 947251036)
 {
-boat = (unsigned char)(r96w2BL09v);
+
 }
 return 0;
 }

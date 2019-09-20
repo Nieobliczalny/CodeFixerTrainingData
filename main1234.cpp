@@ -246,7 +246,7 @@ else if (iJ1k == cphqKs)
 int k = 0;
 while (k < 2)
 {
-y9Ks = (int)floor(q3N5);
+
 k++;
 }
 }
@@ -276,7 +276,7 @@ try
 {
 if (((cphqKs == aLx1) && (G52ex14aBi == -1160174875)) && (O0qpaxSH & 1450258206))
 {
-s_FkB = (int)abs(Bb165Q_6h) + (361455112);
+
 }
 else if (SBy45S6 == CFNI61e13)
 {
@@ -288,7 +288,7 @@ G52ex14aBi = f__qx31 << 1458777675;
 }
 else if (UB67 < EPi5GV007)
 {
-WciK7PjeT5 = Y758QW5212(WciK7PjeT5, 1909711878, qekV, ULCOyl);
+
 }
 else if (Y0_eS_waCV)
 {
@@ -324,7 +324,7 @@ else if (((TRaIbr3pS & pcOr) && (O0qpaxSH == -1364923521)) && (ULCOyl & sMKC))
 int k = 2;
 while (k >= 0)
 {
-U3xM = (int)abs(TRaIbr3pS);
+
 --k;
 }
 }
@@ -344,7 +344,7 @@ else if (((G52ex14aBi == -480372067) && (bDgIb9W < -1592583254)) || ((gw79413 < 
 {
 if (T3nDS00V6 == dF1eos)
 {
-y9Ks = bh2q(-2106545716, f__qx31, -2042105843, -312826426, 1969940453);
+
 }
 else
 {
@@ -379,7 +379,7 @@ xZ3A = Q_29mCGx();
 }
 }
 J2m_r++;
-EPi5GV007 = Q_29mCGx();
+
 {
 int i = 4;
 do
@@ -400,7 +400,7 @@ while (j >= 0);
 }
 while (i >= 0);
 }
-aLx1 = (long double)(Y0_eS_waCV);
+
 ixSxQY59Cv = (unsigned short)(tRii);
 
 p3k14 = Y758QW5212(605023535, q3N5, UZ5lqF02rO, Y0_eS_waCV);
@@ -412,7 +412,7 @@ while (i < 10)
 i++;
 if (dDu5W3 == -643031209)
 {
-UB67 = (long double)(aoo5q);
+
 }
 else if (qekV <= 1720931454)
 {
@@ -426,7 +426,7 @@ nJ30nIo = ZieRs6qdfv(1440092689, R_3a6Svol, Hb_3Mn, RTG9048);
 }
 else
 {
-Vb5CT3S0 = (int)floor(oN0OAR1BD);
+
 }
 }
 else if (y0zOlhA)
@@ -446,7 +446,7 @@ cout << "s26N3ogSY" << R3pbed9 << endl;
 }
 }
 }
-p3k14 = (int)ceil(Osf4oShyz);
+
 x2EG278H = (int)floor(Hb_3Mn);
 u2uQKq = -2032030421 / Bb165Q_6h;
 
@@ -465,7 +465,7 @@ else
 int k = 6;
 do
 {
-pcOr = nJ30nIo / 1698498003;
+
 --k;
 }
 while (k >= 0);
@@ -502,7 +502,7 @@ cphqKs = LPO2C9JZz(-1197063411);
 }
 else if ((R3pbed9 < f__qx31) && ((nJ30nIo <= fGX1T) && (Wr0fMD >= cphqKs)))
 {
-TRaIbr3pS = (int)abs(Zt49);
+
 }
 else if ((Osf4oShyz) && (f_9d > TOuVW))
 {
@@ -518,7 +518,7 @@ Bb165Q_6h = Q_29mCGx();
 }
 else
 {
-J2m_r = ZieRs6qdfv(-910140270, -2073272928, Bb165Q_6h, aff9Xi_);
+
 }
 }
 }
@@ -534,7 +534,7 @@ int k = 2;
 do
 {
 --k;
-DRTCsQB = Y758QW5212(-1430358948, Osf4oShyz, Bb165Q_6h, 754905210) >> 1030865755;
+
 }
 while (k >= 0);
 }

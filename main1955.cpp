@@ -44,7 +44,7 @@ int main()
  long long XI_9x;
  XI_9x = -1783075734;
     long    f_NTb;
-    f_NTb    =    1711745549;
+
     short    H6S0nrS5R;
     H6S0nrS5R    =    -1658064302;
  short int LQG2281d;
@@ -68,7 +68,7 @@ int main()
   long  Cz1s0N;
   Cz1s0N  =  -580115908;
     short int    wBK0;
-    wBK0    =    -757958578;
+
 	unsigned short int	GR34;
 	GR34	=	-264973655;
   double  N766;
@@ -100,7 +100,7 @@ int main()
     unsigned short    lq02V;
     lq02V    =    0;
  unsigned long long OuV34lpLo;
- OuV34lpLo = 1151587653;
+
 	long double	yi8QYLD;
 	yi8QYLD	=	852473628;
   unsigned char  S8fs_vPk7;
@@ -359,7 +359,7 @@ break;
 }
 }
 
-f_NTb = (long)(GF52346);
+
 
 switch (XEtWck)
 {
@@ -379,7 +379,7 @@ default:
 sShZ = (int)abs(K17XqVZ179);
 break;
 }
-f_NTb = r863WS160 ^ 1684969700;
+
 {
 int i = 0;
 do
@@ -405,7 +405,7 @@ if (sShZ <= -601340295)
 switch (W67w2z281)
 {
 case 0:
-Z20CPxW13y = (int)abs(LQG2281d);
+
 break;
 case 1:
 g6MCc58g64 += zd82Cy6w;
@@ -455,7 +455,7 @@ case 2:
 K17XqVZ179 = (dfFTDJ46PO != 1087144653) ? S8fs_vPk7 : 2076758382;
 break;
 case 3:
-zd82Cy6w = (aox_uRC < -1172942629) ? N766 : RA2_27R;
+
 break;
 case 4:
 hMXgS = GR34 << RA2_27R;
@@ -485,7 +485,7 @@ break;
 }
 else if (xum4aF_y >= 1774688920)
 {
-FT_24eKV1 = (short)(LQG2281d);
+
 }
 else if ((y1sg22sNr > -1753230805) || (y1sg22sNr == sC1C6))
 {
@@ -498,7 +498,7 @@ case 1:
 GF52346 = (int)floor(w_5x1Sgd);
 break;
 case 2:
-wBK0 = (HKu3 > 290902170) ? w_5x1Sgd : nR_3omJ1;
+
 break;
 case 3:
 l5IEOrEm_ = K17XqVZ179 << 533482797;
@@ -547,7 +547,7 @@ case 4:
 sShZ = (int)floor(w_5x1Sgd);
 break;
 case 5:
-vJlX <<= 1567406964;
+
 break;
 default:
 tKSsZ9m = PC4590 << 185496873;
@@ -559,7 +559,7 @@ else
 switch (I44O47)
 {
 case 'a':
-f_NTb = (int)abs(w_5x1Sgd);
+
 break;
 case 'b':
 fbg6 = jhIYBe6PUY - 1674979367;
@@ -601,7 +601,7 @@ if (m403 < SZt6C_)
 switch (LQG2281d)
 {
 case 'a':
-dfFTDJ46PO = (int)ceil(w_5x1Sgd);
+
 break;
 case 'b':
 PC4590 /= 1114428022;
@@ -613,7 +613,7 @@ case 'd':
 HKu3 = K17XqVZ179 & GR34;
 break;
 case 'e':
-FT_24eKV1 = lq02V | 120770183;
+
 break;
 case 'f':
 O7BGB++;
@@ -625,7 +625,7 @@ case 'h':
 hMXgS >>= 1099866109;
 break;
 case 'i':
-D1JKJn = C8w0kr3GP ^ HKu3;
+
 break;
 case 'j':
 fbg6 *= 1487643415;
@@ -637,7 +637,7 @@ break;
 }
 else
 {
-XEtWck = GR34 - 407414616;
+
 }
 for (int i = 0; i < 3; ++i)
 {

@@ -123,7 +123,7 @@ else if (KEzZ8aKt3 != zQ76)
 {
 for (int k = 3; k >= 0; k--)
 {
-mYRn40_i6 = (int)floor(NSm74vu5);
+
 }
 }
 else if (RUaXQ <= 1827464828)
@@ -134,7 +134,7 @@ wcr6OXA2f = ge0A3ry(-5665403, 1226933936, 1910526199, O2tlt3D9wO);
 }
 else
 {
-O2tlt3D9wO = (int)floor(L41aoo);
+
 }
 }
 else if (wcr6OXA2f != -1769621790)
@@ -153,7 +153,7 @@ else if (L41aoo < wcr6OXA2f)
 {
 for (int k = 2; k >= 0; --k)
 {
-Lt78W5 = (int)abs(eeGH2Haq7);
+
 }
 }
 else if ((En2l_6SYx0) || ((X09d71Hj != k6Ww9W4SQq) && (A3f786__ == VUtBYPm1A7)))
@@ -164,7 +164,7 @@ else
 {
 if (((wMAT9hfY5) && (jlYb_6SW >= -1594827468)) || ((Za26ws5U9 < KEzZ8aKt3) && (Sn4a)))
 {
-mYRn40_i6 = G_F4bxV_(-1674497571, -1978977289);
+
 }
 else
 {
@@ -190,7 +190,7 @@ n3Mc_rd = FO33_JV(n3Mc_rd, 185997934, LsiP7N9, Ze4Ugk6, 1121115953);
 }
 for (int i = 0; i < 66; i++)
 {
-Lt78W5 = 300455244 / RUaXQ;
+
 	Rw_t = vho0A__1 / i;
 cout << zQ76 << "aSQ44bz" << xc5hpzV7_(658680346, -1446482660, -1039558985, Ze4Ugk6, -1831288498) << Sn4a << "hgb1" << endl;
 }
@@ -227,7 +227,7 @@ switch (aQu2ow)
 {
 case 'a':
 case 'A':
-Sn4a = (int)floor(eeGH2Haq7);
+
 break;
 case 'b':
 case 'B':
@@ -239,7 +239,7 @@ JS8Z5q7 >>= 478437614;
 break;
 case 'd':
 case 'D':
-mYRn40_i6 = (int)floor(NSm74vu5);
+
 break;
 case 'e':
 case 'E':
@@ -254,7 +254,7 @@ aQu2ow = (unsigned long long)(XtBkJP);
 
 if (Ze4Ugk6 & -1009213117)
 {
-mYRn40_i6 = GCrx15k(1704525819);
+
 }
 else
 {
@@ -267,7 +267,7 @@ int k = 0;
 do
 {
 k++;
-Sn4a = (int)ceil(CgtzIFh);
+
 }
 while (k < 1);
 }
@@ -297,7 +297,7 @@ int k = 4;
 while (k >= 0)
 {
 --k;
-Lt78W5 = (int)ceil(eeGH2Haq7);
+
 }
 }
 }
@@ -315,7 +315,7 @@ while (j >= 0)
 {
 if (H_W3rZ4 & XtBkJP)
 {
-bAXg79W = k6Ww9W4SQq & t3Ii;
+
 }
 else
 {
@@ -336,7 +336,7 @@ int j = 0;
 do
 {
 ++j;
-eeGH2Haq7 = G_F4bxV_(720475016, PuyZBM4r7);
+
 }
 while (j < 10);
 }
@@ -362,7 +362,7 @@ wMAT9hfY5 %= 1892756670;
 
 try
 {
-Sn4a = (int)floor(CgtzIFh);
+
 }
 catch (int& errorCode)
 {
@@ -379,7 +379,7 @@ h10K_ = G_F4bxV_(h10K_, m22tt7j);
 
 try
 {
-WR8_sr = PuyZBM4r7 | aQu2ow;
+
 }
 catch (int& errorCode)
 {

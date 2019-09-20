@@ -486,7 +486,7 @@ V63s6aONxN /= 1289399223;
 break;
 case 'g':
 case 'G':
-EUUs7M26 = (int)abs(rHcY);
+
 break;
 case 'h':
 case 'H':
@@ -541,7 +541,7 @@ catch (int& errorCode)
 znU5--;
 }
 
-EUUs7M26 = (int)abs(V63s6aONxN) * 0;
+
 try
 {
 cout << V63s6aONxN << "D88M" << w4t2V7 << endl;

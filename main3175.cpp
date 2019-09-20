@@ -549,7 +549,7 @@ case 1:
 hO9Fb1S9A = j17h2D(623224722, -1257858);
 break;
 case 2:
-UV5f0W4 = (int)abs(UPsKdqzX) * 0;
+
 break;
 case 3:
 IHx7e = jqo7nQ(IHx7e, u6R8);
@@ -564,7 +564,7 @@ case 6:
 fGWp_U0 = gweZ04x7b5(-1907617349);
 break;
 default:
-UV5f0W4 = (int)abs(UPsKdqzX) * 0;
+
 break;
 }
 }

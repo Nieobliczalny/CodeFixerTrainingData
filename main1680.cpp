@@ -201,7 +201,7 @@ case 1:
 G6GbC >>= LK6I5A;
 break;
 case 2:
-lQE_9_2 = R80hgZsG9L & 522696365;
+
 break;
 case 3:
 IxPZFq = slCuNT / 379378821;
@@ -222,7 +222,7 @@ G6GbC %= 973697556;
 }
 else
 {
-lQE_9_2 = (int)floor(PYb5a9);
+
 }
 }
 else if (LK6I5A)
@@ -255,7 +255,7 @@ IxPZFq <<= Br5ZY;
 }
 else
 {
-joP9C_8G_7 = (unsigned short)(IxPZFq * joP9C_8G_7);
+
 }
 }
 else if (KG1YqNRYY > 1124962952)
@@ -307,7 +307,7 @@ IxPZFq = joP9C_8G_7 / joP9C_8G_7;
 }
 }
 
-slCuNT = G6GbC - IxPZFq;
+
 
 {
 int i = 6;

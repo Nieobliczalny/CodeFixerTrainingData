@@ -48,7 +48,7 @@ int main(int argc, char** argv)
   long long  sTG6qZX6R  =  -1073646244;
  long long zU_tLfUju = 745901826;
 
-Zle4LI9DX5 = HR4e >> tksTGU3ae;
+
 try
 {
 if (QHcJp29_rs >= -1041930869)
@@ -60,7 +60,7 @@ else
 switch (Tk50476D25)
 {
 case 'a':
-h28g_MFl = (int)abs(g_IzLYNNn);
+
 break;
 case 'b':
 zxN9F6117_ = QHcJp29_rs | y1_R3i;
@@ -72,7 +72,7 @@ case 'd':
 rpF3AcI0f = (int)ceil(p9Fwl_931);
 break;
 case 'e':
-P4R48PbWtP = D3In4sY2(1237158146, 1942597619, -1804902908);
+
 break;
 case 'f':
 rpF3AcI0f = (int)ceil(p9Fwl_931);
@@ -90,7 +90,7 @@ case 'j':
 QHcJp29_rs = h28g_MFl + 1392939345;
 break;
 default:
-P4R48PbWtP = D3In4sY2(Nkt_W4Dcz, P4R48PbWtP, sTG6qZX6R);
+
 break;
 }
 }
@@ -114,7 +114,7 @@ case 1:
 rpF3AcI0f -= R80laVKr5x;
 break;
 case 2:
-g_IzLYNNn = (int)abs(EqR36F8z) * 0;
+
 break;
 case 3:
 p9Fwl_931 = (int)abs(C5e2w9);
@@ -141,7 +141,7 @@ zxN9F6117_--;
 break;
 case 'b':
 case 'B':
-prP0Nl = (int)ceil(rpF3AcI0f);
+
 break;
 case 'c':
 case 'C':
@@ -164,7 +164,7 @@ while (j >= 0)
 {
 try
 {
-cA1_CN450 = zU_tLfUju << k4OE;
+
 }
 catch (int& errorCode)
 {
@@ -177,7 +177,7 @@ i++;
 }
 while (i < 5);
 }
-O7XfJsP7 = U45Dn(O7XfJsP7, 1834524110, -1137693639, zU_tLfUju);
+
 
 return 0;
 }

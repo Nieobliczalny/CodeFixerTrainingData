@@ -26,7 +26,7 @@ int main() {
 	long	F8jg418CO;
 	F8jg418CO	=	243918445;
  unsigned short K30n1aZ;
- K30n1aZ = -351946794;
+
     short    yv23Y;
     yv23Y    =    -489567406;
 	unsigned short	IxX6Z1lgOp;
@@ -36,7 +36,7 @@ int main() {
     char    YdBC;
     YdBC    =    -405512405;
     long    JH6xKx;
-    JH6xKx    =    1132460981;
+
   char  q1nOGa;
   q1nOGa  =  1076219228;
 	unsigned long long	U7KxJ0GwY2;
@@ -263,7 +263,7 @@ case 4:
 GI8F7 = (int)ceil(VnNU4702K);
 break;
 case 5:
-K30n1aZ = B8xI(1184354684, -1920010754, 1501310644, IxX6Z1lgOp);
+
 break;
 case 6:
 VN3x46U36 = (uj_E0Xx_r >= G94J9g) ? UXvl : G94J9g;
@@ -278,7 +278,7 @@ case 9:
 GI8F7 = (int)ceil(I9HP1s4n);
 break;
 default:
-K30n1aZ = (m89luo2MB >= -1639419312) ? MDuh8(FL5mIzX7Y, 1903532941) : -1875592057;
+
 break;
 }
 for (int i = 0; i < 1; ++i)
@@ -302,7 +302,7 @@ if (VN3x46U36 < GI8F7)
 {
 if (q2vr != V_m6q)
 {
-yv23Y = (int)abs(GI8F7);
+
 }
 }
 
@@ -318,7 +318,7 @@ try
 {
 if (((UXvl > -652352119) || (VN3x46U36 <= A0Zt_h)) && ((IxX6Z1lgOp > q2vr) && (q2vr >= V_m6q)))
 {
-q1nOGa >>= JD66;
+
 }
 else
 {
@@ -333,7 +333,7 @@ uj_E0Xx_r = ayQ2(uj_E0Xx_r, KNd79_U);
 KNd79_U = p3Kac(uj_E0Xx_r, 2147184131, 2115377498, q2vr) / VdTYiuV0M;
 
 std::cout << "l8A_z45ymm" << std::endl;
-q1nOGa = B8xI(752864771, 766824789, V_m6q, -1089520209);
+
 q1nOGa = B8xI(937689119, KNd79_U, Miu_2gLHc, YdBC);
 try
 {
@@ -343,7 +343,7 @@ catch (int& errorCode)
 {
 hWnB = B8xI(VdTYiuV0M, hWnB, 346698645, I9HP1s4n);
 }
-q1nOGa ^= m89luo2MB;
+
 
 VnNU4702K = YdBC | KNd79_U;
 

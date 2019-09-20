@@ -27,7 +27,7 @@ int main() {
  vDaAuD__ = 1536096919;
  I7H__ = -694654008;
  kZ83H0 = -1801844532;
- YK74 = -860213384;
+
  d5I10W = 850280976;
  X4966 = -1538349815;
  lzni_hwl6 = 968311042;
@@ -64,7 +64,7 @@ int main() {
  GlbrHP = -233918745;
  I54j = -1017386293;
  MNVy1_2 = -1156991680;
- N0397 = 1835928451;
+
  l0IY = -2071049257;
  EZb7 = -819143807;
  sViei = -1523403916;
@@ -79,7 +79,7 @@ int main() {
  rW5WFxz = 1684228205;
  kjgrP4ON = 941492960;
  nir8p0 = 77894184;
- ZDD2h = -864392290;
+
  g7Zg9 = -94586514;
  cKyLeDw9Jh = 296142890;
  tSGR3sL59 = 20543245;
@@ -91,7 +91,7 @@ int main() {
  C2SMD1X = 470703414;
  N9Sv9 = 156010610;
  n4cdfXi = 1347943777;
- yNH8ABa = 553248525;
+
 
 switch (Ez0Lz)
 {
@@ -144,7 +144,7 @@ No53M1_ = E7a_y72(341016550, -837212342, Ez0Lz, Rgej4);
 break;
 case 'h':
 case 'H':
-bKba ^= Wf_7hA;
+
 break;
 case 'i':
 case 'I':
@@ -334,7 +334,7 @@ if (q0V5)
 {
 if (Odv1YK59 & -6610219)
 {
-l3maN = (int)abs(R71wf0Q);
+
 }
 else if (X4966 & TI6m_)
 {
@@ -354,7 +354,7 @@ kjgrP4ON /= 1243420761;
 }
 else if (ktUE4tEr < -732867484)
 {
-R71wf0Q += 1179570687;
+
 }
 else
 {
@@ -437,7 +437,7 @@ ktUE4tEr = PFPeo(TI6m_, 1373665378);
 break;
 case 'b':
 case 'B':
-ZDD2h = (int)abs(YPjD_);
+
 break;
 case 'c':
 case 'C':
@@ -465,7 +465,7 @@ else
 bKba = (int)abs(YPjD_);
 }
 
-VZU12if = PFPeo(1142989879, YCPZl) >> MNVy1_2;
+
 
 std::cout << PFPeo(1023800882, 9288041) << std::endl;
 try
@@ -482,7 +482,7 @@ Ez0Lz = E7a_y72(376595394, vDaAuD__, No53M1_, -2011100535);
 }
 else
 {
-d5I10W -= 1059759840;
+
 }
 if (PFPeo(Ez0Lz, vDaAuD__) == 0)
 {
@@ -492,7 +492,7 @@ ktUE4tEr = PFPeo(I7H__, -704386172);
 
 I54j = (int)abs(q0V5);
 
-Ez0Lz = (long long)(rW5WFxz);
+
 
 for (int i = 10; i >= 0; --i)
 {
@@ -504,7 +504,7 @@ else
 {
 if (bKba)
 {
-Odv1YK59 = (int)abs(I4m_iqC57);
+
 }
 else if (O26tweYN1 & 581863016)
 {
@@ -540,7 +540,7 @@ case 1:
 g79R = wbgi_2PeKr(g79R);
 break;
 case 2:
-sViei = (int)abs(Jwg8JK_Vgr);
+
 break;
 case 3:
 nir8p0 = D1mjAJ << C2SMD1X;
@@ -558,7 +558,7 @@ for (int j = 0; j < 3; j++)
 {
 try
 {
-R71wf0Q = wbgi_2PeKr(Bkpqd296SL) ^ MNVy1_2;
+
 }
 catch (int& errorCode)
 {
@@ -584,7 +584,7 @@ while (j < 10)
 {
 if (a1meS == -1804216786)
 {
-n4cdfXi = No53M1_ / P9_QD9C4A;
+
 }
 else
 {
@@ -594,7 +594,7 @@ j++;
 }
 }
 }
-n4cdfXi = PFPeo(g79R, -134754192) - oF76S6;
+
 
 for (int i = 10; i >= 0; --i)
 {
@@ -652,7 +652,7 @@ while (j < 10);
 }
 while (i >= 0);
 }
-kjgrP4ON = TI6m_ | CR1Dh;
+
 for (int i = 3; i >= 0; i--)
 {
 jj83Mm0Mc /= 2032591483;

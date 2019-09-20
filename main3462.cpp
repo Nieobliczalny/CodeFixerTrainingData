@@ -359,7 +359,7 @@ switch (lplg48WwR4)
 {
 case 'a':
 case 'A':
-k5rxhk1n <<= TfAPK20;
+
 break;
 case 'b':
 case 'B':
@@ -394,7 +394,7 @@ for (int i = 5; i >= 0; --i)
 {
 try
 {
-DP90 = IFOIY0A5w(1890120342, -623166922, 722677364);
+
 }
 catch (int& errorCode)
 {

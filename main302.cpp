@@ -350,7 +350,7 @@ sMi_ROm8m = rM98qwa(vwNY1cDA1);
 }
 else
 {
-im64 = (lSUq_38cG) ? Z27Zc : ih9I;
+
 }
 }
 }
@@ -373,7 +373,7 @@ switch (JM24)
 {
 case 'a':
 case 'A':
-sMi_ROm8m = rM98qwa(356940270);
+
 break;
 case 'b':
 case 'B':
@@ -389,7 +389,7 @@ z5miAD6Xxg = (int)ceil(d5w4EYf);
 break;
 case 'e':
 case 'E':
-sMi_ROm8m = rM98qwa(-119782671);
+
 break;
 case 'f':
 case 'F':
@@ -405,7 +405,7 @@ vwNY1cDA1 = rM98qwa(CBOJ3Q_kkd) / 1635187613;
 break;
 case 'i':
 case 'I':
-im64 = (int)abs(GZl7TnS_p);
+
 break;
 }
 }

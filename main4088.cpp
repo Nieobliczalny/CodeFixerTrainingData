@@ -41,7 +41,7 @@ GFmBl3 = qi1m9c >> 434703904;
 break;
 case 'e':
 case 'E':
-qi1m9c &= PX4288hu;
+
 break;
 case 'f':
 case 'F':
@@ -461,7 +461,7 @@ j++;
 int k = 0;
 while (k < 4)
 {
-qi1m9c = (H_MQH2PW_ > -135341176) ? 400929606 : g87Xe;
+
 k++;
 }
 }

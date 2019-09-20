@@ -34,7 +34,7 @@ int main(int argc, char** argv) {
  double RHl8__;
  RHl8__ = 1941926193;
 	long long	R9EM592_9E;
-	R9EM592_9E	=	1664013775;
+
 	unsigned long	kFssfv45;
 	kFssfv45	=	366322526;
  unsigned short int oUliC9LB2;
@@ -166,7 +166,7 @@ else if (th7b >= 1465681701)
 {
 if (i967gDc <= et8E)
 {
-U_wP8ziK = (float)(Cq93dXhY5M);
+
 }
 else if (i967gDc & 1669770437)
 {
@@ -208,7 +208,7 @@ while (k < 2);
 }
 else
 {
-wA8RGxU4s = FJ5xG47lz(771318431);
+
 }
 }
 else if (oUliC9LB2 >= 271091695)
@@ -295,7 +295,7 @@ else if (u702Nd7gJ8 < AL4Ge)
 {
 if ((u702Nd7gJ8) || (zYpNwoZ_ & DKCR28))
 {
-Cq93dXhY5M <<= 967204910;
+
 }
 else
 {
@@ -348,7 +348,7 @@ Nxun = FJ5xG47lz(1939154062);
 }
 else
 {
-Cq93dXhY5M = (unsigned long)(zYpNwoZ_);
+
 }
 }
 if (t_8la6p9A == -814141808)
@@ -361,7 +361,7 @@ UdvDYB2tIt = o17h();
 break;
 case 'b':
 case 'B':
-U_wP8ziK = (int)floor(q8zt9A);
+
 break;
 case 'c':
 case 'C':
@@ -377,7 +377,7 @@ CcnM = o17h() - 1844878803;
 break;
 case 'f':
 case 'F':
-s873 = (int)abs(DKCR28);
+
 break;
 default:
 UdvDYB2tIt |= omu_b26;
@@ -393,7 +393,7 @@ int k = 0;
 do
 {
 ++k;
-AL4Ge = (int)abs(omu_b26);
+
 }
 while (k < 8);
 }
@@ -406,7 +406,7 @@ omu_b26 = po5iY9 + WZ_iG;
 }
 else if (kFssfv45 < 2117753705)
 {
-XHm7S = o17h();
+
 }
 else if (((QSD21X8H & F_5mq8Z6n) && (Nxun == -1715060059)) || ((th7b > 381171255) && (jS21pz)))
 {
@@ -418,7 +418,7 @@ s873 = (int)floor(U_wP8ziK);
 }
 else if (WZ_iG >= omu_b26)
 {
-QSD21X8H = (int)abs(omu_b26);
+
 }
 else
 {
@@ -429,7 +429,7 @@ else if (ou6g2_E6D > -1192566462)
 {
 for (int k = 0; k < 6; k++)
 {
-q8zt9A = (int)ceil(U_wP8ziK);
+
 }
 }
 else
@@ -444,7 +444,7 @@ RHl8__ = o17h();
 }
 else if ((oUliC9LB2 & -1034913842) && ((AL4Ge == 1965142379) || (e7Xkx < -45487627)))
 {
-s873 = (int)floor(q8zt9A);
+
 }
 else if ((q8zt9A) && (y5f20h8f8M >= 1604267843))
 {
@@ -456,7 +456,7 @@ jS21pz = o17h();
 }
 else if (((s873 >= -1670656065) || (b45I != 1253632998)) && (po5iY9 != XHm7S))
 {
-s873 = (int)ceil(aKjx2HV_6O);
+
 }
 else
 {
@@ -485,7 +485,7 @@ e7Xkx = qHy6x7kd(bwTG1_6, 864846280, -684470841, F_5mq8Z6n);
 while (i < 1);
 }
 
-u702Nd7gJ8 |= et8E;
+
 return 0;
 }
 

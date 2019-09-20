@@ -147,7 +147,7 @@ while (i >= 0);
 }
 
 xRp1P6 = (unsigned short)(numzU7 * xRp1P6);
-Nz633 = (char)(xQo059);
+
 
 Kgmc2 = (int)(g3ml582);
 if ((y9zMWhZ == 1548300338) && (KC6u2I8U13 > i3xo))
@@ -188,7 +188,7 @@ s24BR8t = (long long)(oSB9);
 }
 else if (VF1JsEC5 >= -1512103040)
 {
-X62gX6Wy = (short)(cpurt3);
+
 }
 else if (((fG_s1yx & -2060813528) || (P3jb0cM5V == V89BGc8r)) || (i3xo))
 {
@@ -214,7 +214,7 @@ rOnq = a35Z >> i3xo;
 }
 else
 {
-uk95D = xBB1juWv(631585706);
+
 }
 }
 }
@@ -406,7 +406,7 @@ ga16_Q2 = (int)floor(gGPiun);
 break;
 case 'e':
 case 'E':
-OFQUH7R8 ^= 821200502;
+
 break;
 case 'f':
 case 'F':
@@ -426,7 +426,7 @@ f365wWqC7 = (int)abs(y9zMWhZ);
 break;
 case 'j':
 case 'J':
-uk95D = FQ6M1upC(1841456190, qowBJp_);
+
 break;
 default:
 Z_7__HHfx = (int)floor(s7M3);
@@ -461,7 +461,7 @@ for (int j = 6; j >= 0; j--)
 {
 if (m5C9 == 1476271835)
 {
-Z_r07LVrn = vOb8EMI(-1893766881, gPlUj, numzU7);
+
 }
 else
 {
@@ -476,7 +476,7 @@ if ((hQEB4Lp) || (numzU7 == 257631398))
 switch (f365wWqC7)
 {
 case 0:
-VE086 = (int)ceil(ga16_Q2);
+
 break;
 }
 }
@@ -527,7 +527,7 @@ Gq1ipC %= KI6u5PhfU;
 }
 else if ((YdK1nwHN <= -1483987913) && ((JSJCg99w_C >= -508152175) || (i5SDbTIR2 == KC5VV8)))
 {
-a35Z = vOb8EMI(815312573, 2058199455, -1415135791);
+
 }
 else
 {
@@ -539,7 +539,7 @@ while (j >= 0);
 }
 else
 {
-YdK1nwHN = xBB1juWv(656435833);
+
 }
 
 ii5S3k <<= 1515130215;
@@ -554,7 +554,7 @@ std::cout << b6VEL4(qowBJp_) << "NOLn5H" << "qbQ5" << m5C9 << Us_2D27k90(-864251
 
 if (tA57Jl1 < Qxr_r)
 {
-numzU7 = vOb8EMI(2058973659, -931819042, s24BR8t);
+
 }
 
 M9_5SS &= m5C9;
@@ -571,7 +571,7 @@ Z_7__HHfx = (int)floor(cpurt3);
 break;
 case 'c':
 case 'C':
-qowBJp_ = b6VEL4(-1881547805);
+
 break;
 case 'd':
 case 'D':
@@ -583,7 +583,7 @@ zSt28pd -= Kgmc2;
 break;
 case 'f':
 case 'F':
-tA57Jl1 = b6VEL4(-2027086165);
+
 break;
 }
 
@@ -593,7 +593,7 @@ case 0:
 PcX_nPYN1U--;
 break;
 case 1:
-s7M3 = (int)floor(Z_7__HHfx);
+
 break;
 case 2:
 M9_5SS += 1422911212;
@@ -605,7 +605,7 @@ break;
 switch (t9UBb1)
 {
 case 0:
-TG4W = (int)abs(n8RD_W9);
+
 break;
 case 1:
 cpurt3 = (int)ceil(VE086);

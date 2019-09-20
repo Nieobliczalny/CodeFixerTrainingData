@@ -47,7 +47,7 @@ int main(int argc, char** argv) {
  double Anpq4Pf;
  Anpq4Pf = 842338265;
  short int BT5q7U;
- BT5q7U = 0;
+
 	unsigned char	s8Ql9;
 	s8Ql9	=	0;
 	short	k9OjX965;
@@ -67,7 +67,7 @@ int main(int argc, char** argv) {
  double DBqcDq802;
  DBqcDq802 = -808222196;
 	short int	TO2Q;
-	TO2Q	=	-725181931;
+
  long mQzS541;
  mQzS541 = -1053021316;
   long double  x7Mb6x9;
@@ -77,7 +77,7 @@ int main(int argc, char** argv) {
 	char	pKac5;
 	pKac5	=	1330144505;
     char    f2M_3v;
-    f2M_3v    =    0;
+
     char    Yn9oES;
     Yn9oES    =    -393192831;
 
@@ -96,7 +96,7 @@ DBqcDq802 = (int)floor(ixcRmS_6);
 break;
 }
 
-TO2Q = O110IoQ7_ % mQzS541;
+
 
 pKac5 = (int)abs(INKPCx1A);
 
@@ -132,7 +132,7 @@ case 2:
 Ie049 = (int)abs(a_y12Y4);
 break;
 case 3:
-a_y12Y4 = (int)abs(x7Mb6x9);
+
 break;
 default:
 pKac5 = (int)abs(e_93N);
@@ -161,7 +161,7 @@ if (mQzS541 != 1096193437)
 {
 for (int j = 9; j >= 0; --j)
 {
-vl0q2b2jC = O83hkgl(1296888304, A4vQZW1);
+
 }
 }
 else if (((arc10xCab & O110IoQ7_) || (h_nenNT == 1814892059)) || (INKPCx1A > -656836333))
@@ -189,7 +189,7 @@ x7Mb6x9 = (vl0q2b2jC & f2M_3v) ? h_nenNT : Ie049;
 
 try
 {
-BT5q7U = (short int)(Ie049 * (O110IoQ7_));
+
 }
 catch (int& errorCode)
 {
@@ -202,7 +202,7 @@ Imx49lEO = (char)(PMX2T4Pf);
 }
 else
 {
-TO2Q = O83hkgl(1005336120, DBqcDq802);
+
 }
 k9OjX965 = o_mt0Ps(k9OjX965);
 std::cout << O83hkgl(k9OjX965, 110899690) << nCz6uEky4 << S6IUMZN(652203442, DBqcDq802, -1932214405, Anpq4Pf, f2M_3v) << lJAr_h1(k9OjX965, -1131009185, -1216019103, Anpq4Pf) << "w0rxY5Mq" << std::endl;

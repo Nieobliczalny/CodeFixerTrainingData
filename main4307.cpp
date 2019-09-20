@@ -398,7 +398,7 @@ while (j >= 0);
 }
 }
 
-q6E2oiS = (int)abs(fkN5tOLK) * 0;
+
 return 0;
 }
 

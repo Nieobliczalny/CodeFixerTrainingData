@@ -17,7 +17,7 @@ int main()
 
 std::cout << r1A_40y5op / OahrRn31H << std::endl;
 std::cout << "ZPgbl84" << "F3P6" << FHlY5 << FHlY5 << std::endl;
-Mq34bTal -= r1A_40y5op;
+
 
 i19fTh = (int)ceil(r1A_40y5op);
 
@@ -60,7 +60,7 @@ break;
 }
 }
 }
-Mq34bTal = (int)floor(i19fTh);
+
 
 return 0;
 }

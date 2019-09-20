@@ -90,7 +90,7 @@ if (((pQOm < -2065631643) && (hl75Iv53 >= -1282940711)) || (Q_f4KUld))
 std::cout << "ly509" << lcHV_0q << j04aQ << Gx9C(1300855512, -277630765, -801259836, Q_f4KUld, -424326157) << std::endl;
 }
 
-j04aQ >>= Q_f4KUld;
+
 j04aQ = z2lAvW();
 
 if (Pi_1hb44n & 1330590359)
@@ -101,7 +101,7 @@ switch (j04aQ)
 {
 case 'a':
 case 'A':
-lcHV_0q = (int)abs(s64B);
+
 break;
 case 'b':
 case 'B':
@@ -117,7 +117,7 @@ s64B = z2lAvW();
 }
 else
 {
-lcHV_0q = (int)floor(hl75Iv53);
+
 }
 j04aQ >>= 866627832;
 

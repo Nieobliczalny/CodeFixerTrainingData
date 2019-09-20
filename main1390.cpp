@@ -50,7 +50,7 @@ int main(void)
     XG5GLCG    =    -999932215;
     MD9_6XN    =    1598412134;
     cQ4Q4Pq    =    -811072589;
-    l0_qGop5    =    -2025702118;
+
     K008xVfA    =    831118172;
     Rwz62Q    =    1710000322;
     u0a6VS2    =    1451227096;
@@ -320,7 +320,7 @@ while (i >= 0);
 }
 try
 {
-bY_1_xs7Y = Y7Yr9F8(bY_1_xs7Y, K008xVfA);
+
 }
 catch (int& errorCode)
 {
@@ -336,7 +336,7 @@ int i = 0;
 do
 {
 i++;
-zHfft_cI_9 = (int)ceil(F3fjtnNR);
+
 }
 while (i < 2);
 }
@@ -395,7 +395,7 @@ switch (oEABdpC2)
 {
 case 'a':
 case 'A':
-F3fjtnNR = (int)abs(Rwz62Q);
+
 break;
 case 'b':
 case 'B':
@@ -407,7 +407,7 @@ XG5GLCG = (oEABdpC2 == coB2DMY) ? 1017334708 : -1744391570;
 break;
 case 'd':
 case 'D':
-sRAfcUxnr = u0a6VS2 * 726169461;
+
 break;
 default:
 F3fjtnNR = (int)ceil(XG5GLCG);

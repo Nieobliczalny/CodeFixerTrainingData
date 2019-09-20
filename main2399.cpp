@@ -20,7 +20,7 @@ int main() {
 int i = 0;
 while (i < 7)
 {
-j_Q7 = (unsigned char)(B4341FW);
+
 ++i;
 }
 }
@@ -43,7 +43,7 @@ for (int j = 0; j < 5; ++j)
 int k = 5;
 do
 {
-t61hzvZq3 = D3N02d(1784486932) << y8mK;
+
 k--;
 }
 while (k >= 0);
@@ -58,7 +58,7 @@ else
 {
 if (V50bU7JJT1 & 346462394)
 {
-gHhh3rg1t = D3N02d(384480752) << gQIVK;
+
 }
 else
 {
@@ -76,7 +76,7 @@ cs4t6bHZ8b >>= 523837109;
 switch (H0do)
 {
 case 0:
-P9HhF = D3N02d(P9HhF);
+
 break;
 case 1:
 S3TgJF4H2_ = D3N02d(-346291474);
@@ -89,7 +89,7 @@ wGWVdqxD = D3N02d(wGWVdqxD);
 break;
 }
 
-u3ee = Q60JZ_E(l4_8GaY, aaWF2, -731211357, 1054949251);
+
 
 if ((uZ47oY) && (S3TgJF4H2_ & ak_GO86))
 {
@@ -99,7 +99,7 @@ do
 {
 if (sNPz8iO5t & -994433468)
 {
-G2k3XUm = Q60JZ_E(-1531845468, -1099815343, 544425464, -1755797820);
+
 }
 ++j;
 }
@@ -113,7 +113,7 @@ meh2 = Mkxf6 / Q60JZ_E(-749970687, hECvol7LoR, -1636215640, 1094928239);
 int i = 0;
 while (i < 2)
 {
-G2k3XUm = Q60JZ_E(F90u, moMWUaR2F, meh2, YJ1Bh3Rc8c);
+
 ++i;
 }
 }
@@ -125,7 +125,7 @@ if (N_I3 > 687573587)
 int k = 0;
 while (k < 8)
 {
-H0do = (NRzg3P6n4_ < -1341911204) ? Q60JZ_E(-1354881802, 1529334547, -349633999, 361510740) : ak_GO86;
+
 ++k;
 }
 }

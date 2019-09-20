@@ -17,7 +17,7 @@ unsigned long    hCX2oD_U4(long long    jx15akx,unsigned long    yb8I5e);
 int main(int argc, char** argv)
 {
  unsigned long nhO_a;
-  nhO_a = 0;
+
   short  Hj3H50t4WJ,  Zj00O,  S4wW55N,  R3_9dS1,  FAgB_Yd33T,  Rp7Bml_La_,  a4h_U,  k5P9c1y2O,  atBbfX8t76,  QL3E,  c42iMXe811,  vShazp47,  kh6vyX_0,  r_Ea0nreq,  bc1GNNmV,  JG_VnXG,  AeAbY_9K8F,  dfut4_qJdx,  nEthTsd_W0,  Z0Vk,  sG253_uj,  d7nu_D,  lE8_w01,  Ir_m_79le8,  bvCt4T,  tlzZ,  vcLB,  rn1p,  f6J7e,  KDanxg,  eMyj2;
     Hj3H50t4WJ  =  Zj00O  =  S4wW55N  =  R3_9dS1  =  FAgB_Yd33T  =  Rp7Bml_La_  =  a4h_U  =  k5P9c1y2O  =  atBbfX8t76  =  QL3E  =  c42iMXe811  =  vShazp47  =  kh6vyX_0  =  r_Ea0nreq  =  bc1GNNmV  =  JG_VnXG  =  AeAbY_9K8F  =  dfut4_qJdx  =  nEthTsd_W0  =  Z0Vk  =  sG253_uj  =  d7nu_D  =  lE8_w01  =  Ir_m_79le8  =  bvCt4T  =  tlzZ  =  vcLB  =  rn1p  =  f6J7e  =  KDanxg  =  eMyj2  =  -1661358051;
 
@@ -28,7 +28,7 @@ switch (AeAbY_9K8F)
 {
 case 'a':
 case 'A':
-bvCt4T = lnF6x9p3();
+
 break;
 case 'b':
 case 'B':
@@ -100,7 +100,7 @@ case 1:
 Hj3H50t4WJ = lnF6x9p3();
 break;
 case 2:
-bvCt4T = lnF6x9p3() >> d7nu_D;
+
 break;
 }
 --i;
@@ -160,7 +160,7 @@ if (d7nu_D != -1447836272)
 int k = 6;
 do
 {
-atBbfX8t76 = (int)abs(eMyj2);
+
 --k;
 }
 while (k >= 0);
@@ -174,7 +174,7 @@ sG253_uj = hCX2oD_U4(1820710447, Ir_m_79le8);
 }
 else
 {
-FAgB_Yd33T = lnF6x9p3();
+
 }
 }
 }
@@ -201,7 +201,7 @@ else if (c42iMXe811 <= 1030189577)
 {
 try
 {
-f6J7e = r_Ea0nreq / FAgB_Yd33T;
+
 }
 catch (int& errorCode)
 {
@@ -233,7 +233,7 @@ case 'e':
 c42iMXe811 = hCX2oD_U4(1964159270, dfut4_qJdx);
 break;
 case 'f':
-FAgB_Yd33T = lnF6x9p3() << 1106186319;
+
 break;
 case 'g':
 bc1GNNmV = lnF6x9p3();
@@ -251,7 +251,7 @@ if (lE8_w01 < nEthTsd_W0)
 {
 if (vShazp47 > vcLB)
 {
-kh6vyX_0 = AeAbY_9K8F >> 1307096523;
+
 }
 else
 {
@@ -309,7 +309,7 @@ int k = 0;
 do
 {
 k++;
-c42iMXe811 = hCX2oD_U4(-449204039, Zj00O);
+
 }
 while (k < 1);
 }
@@ -325,7 +325,7 @@ catch (int& errorCode)
 QL3E = bc1GNNmV / 610534927;
 }
 
-FAgB_Yd33T = (int)abs(R3_9dS1);
+
 cout << 892458376 / nhO_a << endl;
 
 {
@@ -348,7 +348,7 @@ while (i < 3);
 
 if ((bc1GNNmV != 666146073) && (JG_VnXG > Zj00O))
 {
-dfut4_qJdx = (short)(KDanxg);
+
 }
 else
 {

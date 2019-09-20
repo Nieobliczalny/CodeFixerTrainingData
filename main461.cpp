@@ -43,7 +43,7 @@ int main(int argc, char** argv)
   unsigned long long  aDEME1K;
   aDEME1K  =  -921127505;
 	unsigned long	e12M7K;
-	e12M7K	=	-1065280308;
+
     float    F7F39p3L_;
     F7F39p3L_    =    -419085532;
     unsigned short    W_JsJ6e0_;
@@ -374,7 +374,7 @@ if (U8lY4W == M2CNq3_)
 int k = 0;
 do
 {
-AN8SXdWm = F2u70yb - PG7u6qI;
+
 ++k;
 }
 while (k < 2);
@@ -401,7 +401,7 @@ else if (aDEME1K != B4nOe)
 int k = 6;
 do
 {
-M8rasD_fI_ = (int)ceil(F2u70yb);
+
 k--;
 }
 while (k >= 0);
@@ -427,7 +427,7 @@ std::cout << V_KriD << x3unUrcg << F2u70yb << "RgtaeX" << std::endl;
 }
 }
 }
-YZ5Z2YsHaj = Aip9bW_6 / aDEME1K;
+
 for (int i = 0; i < 10; i++)
 {
 std::cout << W_JsJ6e0_ << U8lY4W << T6Y52l8_5r << std::endl;
@@ -460,7 +460,7 @@ if (((U8lY4W & p3y_77kUFw) || (pZILkw8CP > Y_9___NEq)) && (F7F39p3L_ == -9457947
 int j = 0;
 while (j < 1)
 {
-V_KriD = (long double)(PG7u6qI);
+
 j++;
 }
 }

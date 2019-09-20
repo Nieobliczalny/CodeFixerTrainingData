@@ -25,7 +25,7 @@ int main(int argc, char** argv)
 	long double	OZ91OY5x;
 	OZ91OY5x	=	-2094470363;
 	char	EY29;
-	EY29	=	0;
+
   unsigned char  BQt19DY91K;
   BQt19DY91K  =  346069258;
  long lZ6g_;
@@ -35,7 +35,7 @@ int main(int argc, char** argv)
  unsigned long MH8w;
  MH8w = 196332839;
   unsigned long  f7Xq;
-  f7Xq  =  527551969;
+
 	unsigned char	R6Xwctf_;
 	R6Xwctf_	=	347886346;
   long double  y8w_8M_1F2;
@@ -65,7 +65,7 @@ int main(int argc, char** argv)
 	unsigned long	sZVvQ4E;
 	sZVvQ4E	=	386996138;
 	int	x1D8;
-	x1D8	=	0;
+
     double    pv32v_90;
     pv32v_90    =    1550687341;
     unsigned long long    Ehr2R5JVsv;
@@ -77,7 +77,7 @@ int main(int argc, char** argv)
   long  qb_7RO7m;
   qb_7RO7m  =  2112511794;
   long double  A6bm49Qa;
-  A6bm49Qa  =  -1191254772;
+
     unsigned int    pHTQcvN;
     pHTQcvN    =    1101095406;
 	long double	Oh__4;
@@ -87,7 +87,7 @@ int main(int argc, char** argv)
  short r2C0zW6;
  r2C0zW6 = -360051984;
  short Pf5_u0i9;
- Pf5_u0i9 = 777664437;
+
 	long double	UD_u_4E_;
 	UD_u_4E_	=	-913251446;
   long long  Or2Ghg;
@@ -99,7 +99,7 @@ int main(int argc, char** argv)
   unsigned long  uw1pgr18x4;
   uw1pgr18x4  =  -137878170;
  int rdzcAR9;
- rdzcAR9 = 514454267;
+
     char    draP47;
     draP47    =    -231649872;
     unsigned int    Eg2mBB7bQ;
@@ -117,7 +117,7 @@ int main(int argc, char** argv)
   int  jq1O53;
   jq1O53  =  -1687481521;
   long  Qs5awWs;
-  Qs5awWs  =  -640732125;
+
     int    n4KaC5m_OT;
     n4KaC5m_OT    =    1952764642;
  unsigned int YrMa1D6H97;
@@ -137,7 +137,7 @@ int main(int argc, char** argv)
 	double	Y52C;
 	Y52C	=	-1682865884;
  int vw07g;
- vw07g = 0;
+
   double  l3wz4JDT8;
   l3wz4JDT8  =  -820706295;
     char    Zy20PQea;
@@ -149,7 +149,7 @@ int main(int argc, char** argv)
  double v7jB_;
  v7jB_ = -1867657670;
  unsigned short dQ4bqC;
- dQ4bqC = 1620404822;
+
 	unsigned int	smhxd;
 	smhxd	=	-968967483;
   unsigned short  lwT2xubRW;
@@ -165,7 +165,7 @@ int main(int argc, char** argv)
     unsigned short int    VSa62eN;
     VSa62eN    =    1333512477;
 	unsigned int	HgnA;
-	HgnA	=	82363011;
+
 	unsigned short	C0nsh8y_4;
 	C0nsh8y_4	=	329716356;
  unsigned short Uf296l3A;
@@ -245,7 +245,7 @@ while (j >= 0)
 {
 if (qb_7RO7m < 174085654)
 {
-dQ4bqC = zXMWO();
+
 }
 else
 {
@@ -301,7 +301,7 @@ if (VSa62eN >= 904141831)
 switch (IN38l39)
 {
 case 0:
-y4LYN_ksA = (int)abs(v4_zyNZ);
+
 break;
 case 1:
 k3QSgx4P %= Or2Ghg;
@@ -336,7 +336,7 @@ for (int i = 9; i >= 0; --i)
 {
 if (((pv32v_90 > -978693199) || (yaERuVg >= mt87Q9G)) || (MH8w >= -109152251))
 {
-x1D8 = Slli();
+
 }
 }
 try
@@ -350,7 +350,7 @@ wyPb_6++;
 
 if (Eg2mBB7bQ <= 1190656814)
 {
-Zy20PQea *= 1988521353;
+
 }
 else if (((Lr01 >= 86042276) || (h32dB < lZ6g_)) || (ak7HTh08h & -1867243612))
 {
@@ -368,7 +368,7 @@ else if (VSa62eN & -391147654)
 switch (YrMa1D6H97)
 {
 case 'a':
-v7jB_ = (int)abs(OZ91OY5x);
+
 break;
 case 'b':
 B5Ot_ |= 1805503920;
@@ -380,7 +380,7 @@ case 'd':
 h32dB = zXMWO();
 break;
 case 'e':
-v4_zyNZ = PsV1(h32dB, 141236537, B5Ot_, -435037801) << Lr01;
+
 break;
 case 'f':
 YXv0o = (int)floor(l3wz4JDT8);
@@ -410,7 +410,7 @@ else if (l3wz4JDT8 > Uf296l3A)
 {
 if (C0nsh8y_4 <= 346326932)
 {
-y8w_8M_1F2 = WCG2z(y8w_8M_1F2);
+
 }
 else if ((uw1pgr18x4 & fg_t7) && (uw1pgr18x4))
 {
@@ -422,7 +422,7 @@ OZ91OY5x = (int)ceil(UD_u_4E_);
 }
 else if (v7jB_ <= -28447086)
 {
-Eg2mBB7bQ = Slli();
+
 }
 else if ((draP47 & 283527046) || ((R6Xwctf_) || (Q6_fH <= pz_x)))
 {
@@ -434,7 +434,7 @@ pv32v_90 = (int)floor(e2SgXKQY5);
 }
 else
 {
-v4_zyNZ = (int)ceil(pD5Mv1kE);
+
 }
 }
 else if (B5Ot_ < 780058354)
@@ -445,7 +445,7 @@ else if (Oh__4)
 {
 if (v4_zyNZ < sZVvQ4E)
 {
-Y52C = (int)abs(Zy20PQea);
+
 }
 else
 {
@@ -456,7 +456,7 @@ else if ((Fw3n131) && (Y52C))
 {
 for (int k = 3; k >= 0; k--)
 {
-OZ91OY5x = draP47 % 2052229715;
+
 }
 }
 else if (((Tt53 > -191709794) || (yaERuVg >= -624916860)) && (B5Ot_ > -419475461))
@@ -467,7 +467,7 @@ else
 {
 for (int k = 0; k < 2; k++)
 {
-qb_7RO7m = (int)abs(r2C0zW6);
+
 }
 }
 }
@@ -479,7 +479,7 @@ else
 {
 if (Zekay == -2106283037)
 {
-S0xG1xs = zXMWO();
+
 }
 }
 {
@@ -492,7 +492,7 @@ EY29 = (int)abs(yaERuVg) * 0;
 while (i < 10);
 }
 
-r2C0zW6 &= 1618503343;
+
 {
 int i = 10;
 do

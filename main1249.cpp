@@ -213,7 +213,7 @@ if ((Ya7tT == R8rDkBEz) || (xK67 > -156177838))
 {
 if ((uwM77vp != Ya7tT) || (TXW31cLs2 != w7F3i638))
 {
-xK67 = eYD_O(-1817292543, 1782765182);
+
 }
 else
 {
@@ -491,7 +491,7 @@ FK6l2 = ycYw9qh();
 }
 else if (TXW31cLs2 <= 885669554)
 {
-Ya7tT = ycYw9qh();
+
 }
 else
 {

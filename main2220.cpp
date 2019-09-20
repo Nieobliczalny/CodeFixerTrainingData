@@ -68,7 +68,7 @@ i--;
 M9Xu = (float)(c6_2_78 + (-1190175605));
 }
 }
-XV02 = (int)ceil(M9Xu);
+
 
 std::cout << -1800433459 / LiY7gg << std::endl;
 
@@ -78,7 +78,7 @@ try
 {
 for (int k = 0; k < 1; ++k)
 {
-kK1N7uj = g00l0(363535531, e9SmlXp17_, Sy6yA);
+
 }
 }
 catch (int& errorCode)

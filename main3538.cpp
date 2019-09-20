@@ -11,7 +11,7 @@ using namespace std;
 int main()
 {
 	short int	P36i8q56;
-	P36i8q56	=	-1215127314;
+
     double    Erk51yjA8;
     Erk51yjA8    =    80261767;
     int    Bqo1wRZ;
@@ -21,7 +21,7 @@ int main()
     unsigned short int    Mt8iiNj;
     Mt8iiNj    =    -1558384134;
     float    i8HhhPAM;
-    i8HhhPAM    =    -1582633914;
+
 	unsigned char	O6710;
 	O6710	=	-744380082;
  float U8Eh7Y;
@@ -31,7 +31,7 @@ int main()
   unsigned long  W62eAl;
   W62eAl  =  -1509331796;
  double ig0US5;
- ig0US5 = -1117944787;
+
  unsigned char xiY60;
  xiY60 = -2076995586;
   long  mW8Grb__j_;
@@ -41,7 +41,7 @@ int main()
  unsigned long long aro96ezl;
  aro96ezl = 0;
     unsigned long long    e9T3ll;
-    e9T3ll    =    878585726;
+
  unsigned long DsSN130nc8;
  DsSN130nc8 = 876238841;
   unsigned long long  pUTr0WA;
@@ -55,7 +55,7 @@ int main()
  short int dQ_Q89A_5l;
  dQ_Q89A_5l = 1481137694;
 	int	vvG9NkX4;
-	vvG9NkX4	=	0;
+
     short int    h7e78kF;
     h7e78kF    =    -1062779690;
 	unsigned long	yS1g9tW;
@@ -67,7 +67,7 @@ int main()
  long long bt7QWC8Y;
  bt7QWC8Y = 0;
  unsigned long L966wR5;
- L966wR5 = 2119257968;
+
  short z34BOaiFO;
  z34BOaiFO = 539562150;
   int  f02TIN9tY7;
@@ -79,7 +79,7 @@ int main()
   long  S6uAzEh97j;
   S6uAzEh97j  =  1252137938;
   long long  guu8dU5t;
-  guu8dU5t  =  -451691149;
+
  unsigned short int h2SevY8U2z;
  h2SevY8U2z = -2053628914;
 	long long	r_4yI4W_7A;
@@ -89,7 +89,7 @@ int main()
  short int rE6gL0;
  rE6gL0 = -1924094866;
 	char	k63672KPrG;
-	k63672KPrG	=	-549451214;
+
  int LE023;
  LE023 = -1786081323;
 
@@ -107,7 +107,7 @@ cout << Gq61CP << endl;
 
 Bqo1wRZ = (int)(aro96ezl + (320195004));
 cout << i3ZZa / bt7QWC8Y << endl;
-WJh1q = (int)floor(U8Eh7Y);
+
 
 {
 int i = 9;
@@ -120,7 +120,7 @@ z34BOaiFO = (short)(i3ZZa);
 }
 }
 }
-z34BOaiFO += 1038794702;
+
 {
 int i = 0;
 while (i < 10)
@@ -130,7 +130,7 @@ try
 {
 try
 {
-f02TIN9tY7 = (VRB0s7 >= -1786767656) ? h2SevY8U2z : 1208538015;
+
 }
 catch (int& errorCode)
 {
@@ -143,7 +143,7 @@ O6710 = dQ_Q89A_5l ^ 777698913;
 }
 }
 }
-pUTr0WA = (unsigned long long)(k3Fl9EK2W_);
+
 
 if (Bqo1wRZ)
 {

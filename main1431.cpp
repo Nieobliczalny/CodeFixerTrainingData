@@ -35,7 +35,7 @@ long	UYTfX(unsigned short	xBXLHHFqS2,unsigned short	i_60i973W7)
 
 int main(int argc, char** argv) {
     unsigned short int    WV34Naisb5;
-    WV34Naisb5    =    -1253028974;
+
     short int    Tdi59;
     Tdi59    =    1932058050;
     unsigned char    Dv6I;
@@ -45,7 +45,7 @@ int main(int argc, char** argv) {
   short  FuH8842C17;
   FuH8842C17  =  0;
  unsigned short KGEm;
- KGEm = -237683879;
+
 	unsigned long long	vrrNd_H;
 	vrrNd_H	=	-263810505;
     short    K4Yf8G9v3k;
@@ -57,7 +57,7 @@ int main(int argc, char** argv) {
 	unsigned short	ouVSI_F2o;
 	ouVSI_F2o	=	-292795962;
 	unsigned int	B01N3uBgGA;
-	B01N3uBgGA	=	1327912215;
+
  unsigned short int O9M3jx3;
  O9M3jx3 = 918880220;
 	float	b43jsW4DQY;
@@ -67,7 +67,7 @@ int main(int argc, char** argv) {
   float  R9lx;
   R9lx  =  -739118726;
     unsigned int    TNAsh;
-    TNAsh    =    1730958347;
+
     double    j3S_IQ2B;
     j3S_IQ2B    =    -470708998;
  unsigned short EhLG;
@@ -79,7 +79,7 @@ int main(int argc, char** argv) {
 	char	hqnZD_a;
 	hqnZD_a	=	-1371727388;
  unsigned char N376e8;
- N376e8 = -735626225;
+
  unsigned short Ku48qff5;
  Ku48qff5 = -583026311;
   unsigned long  XVUc1nG4a;
@@ -89,7 +89,7 @@ int main(int argc, char** argv) {
     unsigned short int    dq31;
     dq31    =    1774748924;
     float    wtqq5GNgL;
-    wtqq5GNgL    =    1548233941;
+
 	unsigned int	Ve224H;
 	Ve224H	=	2025321135;
   unsigned short  JnEy;
@@ -107,7 +107,7 @@ int main(int argc, char** argv) {
     double    hnqp;
     hnqp    =    -397483623;
   long long  pSG8P72K;
-  pSG8P72K  =  0;
+
 	int	O_GfrV2BJ;
 	O_GfrV2BJ	=	1138109585;
  short V3pj7Yv50R;
@@ -121,7 +121,7 @@ int main(int argc, char** argv) {
   long long  t7Ep1;
   t7Ep1  =  -986240394;
  float xE7e2c_v;
- xE7e2c_v = -614279651;
+
     unsigned short int    K3sOP6P5yV;
     K3sOP6P5yV    =    467439391;
  char jsW7iyA1;
@@ -139,7 +139,7 @@ int main(int argc, char** argv) {
   short int  jY5lZ690;
   jY5lZ690  =  362932988;
   unsigned long  yMq29k;
-  yMq29k  =  758496783;
+
     unsigned int    P5MvdGr;
     P5MvdGr    =    -1036644372;
   unsigned long long  Gn96Q9ho6;
@@ -157,7 +157,7 @@ int main(int argc, char** argv) {
 	unsigned short int	XYcE;
 	XYcE	=	-1857607144;
     char    UWDqPU;
-    UWDqPU    =    723640670;
+
  int z66R7i;
  z66R7i = 72595668;
 	double	JIh4V;
@@ -167,7 +167,7 @@ int main(int argc, char** argv) {
 	int	FCSU5zO1_S;
 	FCSU5zO1_S	=	-280097103;
   unsigned int  y71yX;
-  y71yX  =  -1537082322;
+
  short K237u8uZ;
  K237u8uZ = 0;
  char uAPTR;
@@ -181,7 +181,7 @@ int main(int argc, char** argv) {
   double  tsNC_b6C;
   tsNC_b6C  =  -2039833065;
 	float	A_UxC;
-	A_UxC	=	109793501;
+
     unsigned long long    k_R94PG;
     k_R94PG    =    -601392966;
     long long    wq7n__5T25;
@@ -196,7 +196,7 @@ cout << 1716668057 / IZjDj675() << endl;
 switch (lXWY)
 {
 case 0:
-JnEy = UYTfX(-491235180, Zb7slFmn_);
+
 break;
 case 1:
 R9lx = (int)floor(N8i6Px9HMG);
@@ -214,7 +214,7 @@ case 1:
 b8640vs6w_ = (int)abs(K4Yf8G9v3k);
 break;
 case 2:
-nwYO198jp = FuH8842C17 + eux4ol;
+
 break;
 case 3:
 IMHP4M = jY5lZ690 * 660969633;
@@ -226,7 +226,7 @@ case 5:
 Yg4e <<= 63945334;
 break;
 case 6:
-wtqq5GNgL = (int)abs(K4Yf8G9v3k);
+
 break;
 case 7:
 hqnZD_a = (int)abs(M_u78BNJy);
@@ -242,7 +242,7 @@ hqnZD_a = o4Zf(hqnZD_a);
 break;
 }
 
-wtqq5GNgL = (int)abs(FuH8842C17) + (-903942063);
+
 try
 {
 pSG8P72K = IZjDj675();
@@ -271,7 +271,7 @@ switch (pSG8P72K)
 {
 case 'a':
 case 'A':
-cIslPa4 = Ve224H >> 1110048070;
+
 break;
 case 'b':
 case 'B':
@@ -287,7 +287,7 @@ b43jsW4DQY = (int)floor(R9lx);
 break;
 case 'e':
 case 'E':
-JIh4V = (int)ceil(eux4ol);
+
 break;
 case 'f':
 case 'F':
@@ -302,7 +302,7 @@ while (i >= 0);
 int i = 0;
 while (i < 8)
 {
-JnEy = (unsigned short)(EhLG);
+
 ++i;
 }
 }
@@ -315,7 +315,7 @@ for (int j = 0; j < 2; j++)
 int k = 3;
 while (k >= 0)
 {
-JIh4V = (int)abs(hqnZD_a);
+
 --k;
 }
 }
@@ -353,7 +353,7 @@ do
 int k = 0;
 while (k < 5)
 {
-MBo57142 = (int)abs(jdi2U9Wb1x);
+
 k++;
 }
 }
@@ -375,7 +375,7 @@ for (int j = 0; j < 4; ++j)
 {
 if (b43jsW4DQY > Gn96Q9ho6)
 {
-wtqq5GNgL = (int)floor(XQPx_2);
+
 }
 else if (b8640vs6w_ == A6vP81M7y)
 {
@@ -398,7 +398,7 @@ if (P5MvdGr & -2070515045)
 int j = 7;
 while (j >= 0)
 {
-JnEy = t7Ep1 / Tdi59;
+
 --j;
 }
 }

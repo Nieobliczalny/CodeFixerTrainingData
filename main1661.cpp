@@ -79,7 +79,7 @@ case 'a':
 tq2dViIf += 1226617609;
 break;
 case 'b':
-TG_3TZV1N = d2f6DZ7I96(th_X1b66, TG_3TZV1N, Sg4wybz, 1395165825);
+
 break;
 case 'c':
 TG_3TZV1N = (int)abs(cPX9338M);
@@ -94,7 +94,7 @@ case 'f':
 cPX9338M -= Hb5z;
 break;
 case 'g':
-Hb5z = tq2dViIf & 2117713704;
+
 break;
 case 'h':
 Hb5z--;
@@ -111,7 +111,7 @@ if (Hb5z == Sg4wybz)
 {
 for (int k = 4; k >= 0; --k)
 {
-Hb5z = Yo3j();
+
 }
 }
 }
@@ -144,7 +144,7 @@ std::cout << "p8K1" << cPX9338M << Yo3j() << std::endl;
 }
 }
 
-TG_3TZV1N = (int)(Hb5z);
+
 
 if (urP8YR & -1419899788)
 {
@@ -175,7 +175,7 @@ while (i < 1);
 }
 if (tq2dViIf != -404887633)
 {
-TG_3TZV1N = tq2dViIf << 664716640;
+
 }
 try
 {

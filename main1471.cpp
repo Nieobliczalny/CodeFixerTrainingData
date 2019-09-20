@@ -32,7 +32,7 @@ int main(void) {
  ibj0 = 751410740;
  O8_W_4 = -671659427;
  A9B255U8V = -1445168255;
- u1I0wHCW = -581825729;
+
  I010k955ms = -1177428478;
  WKFN1C4 = 783224430;
  T_7Pr6 = 1895882626;
@@ -47,7 +47,7 @@ int main(void) {
  mPE9_pxh = 875497959;
  NUiVs7 = -197762049;
  NPv2JpOdK = -1301013208;
- b1ZEQI7CPe = 620422209;
+
  nZ6QlJe = -1161647771;
  Bii85w3 = -720724610;
  O2W267_ = -1608780266;
@@ -60,7 +60,7 @@ int main(void) {
  sKGJTcV0 = 761042439;
  BSv09J = -651352316;
  i52EV = -51802869;
- aKCNJN5D_8 = -2021277511;
+
  ZtAq = 1226544378;
   unsigned char  rbxBhk_y,  GL634P,  WPBD4,  d0bHzwd__k,  GC_C1SDGR;
   rbxBhk_y  =  0;
@@ -96,7 +96,7 @@ sKGJTcV0 -= k_2xQZ;
 }
 else
 {
-u1I0wHCW = (long double)(NUiVs7);
+
 }
 std::cout << "MClP0xY" << "Pc5iEm1J" << eD5h4nN4(d0bHzwd__k) << "qz5h" << std::endl;
 for (int i = 0; i < 10; ++i)
@@ -149,7 +149,7 @@ if (A9B255U8V < 834217417)
 switch (GL634P)
 {
 case 0:
-WKFN1C4 /= U0Nd3B;
+
 break;
 case 1:
 ibj0 -= 536439580;
@@ -164,7 +164,7 @@ case 4:
 BSv09J = (int)floor(k_803e1);
 break;
 case 5:
-aKCNJN5D_8 = f_FyX(-190961850);
+
 break;
 case 6:
 ND4B_k = (int)abs(cGOeu);
@@ -182,7 +182,7 @@ break;
 }
 
 std::cout << uI9bS8() << IgpQ2N9Hj6 << std::endl;
-I010k955ms = (int)abs(O2W267_);
+
 for (int i = 0; i < 1; ++i)
 {
 d0bHzwd__k = (unsigned char)(O7ri0_);
@@ -198,7 +198,7 @@ case 1:
 WPBD4 = eD5h4nN4(1095302561);
 break;
 case 2:
-i52EV = (int)floor(UinLQ6Q);
+
 break;
 case 3:
 BSv09J = (int)abs(e9DdCx540V);
@@ -210,7 +210,7 @@ case 5:
 k_803e1 -= 1685902998;
 break;
 case 6:
-d8P07O = (int)ceil(T_7Pr6);
+
 break;
 case 7:
 mPE9_pxh = (int)floor(Ur5ZMP);
@@ -221,7 +221,7 @@ break;
 }
 if ((BSv09J / d0bHzwd__k) != -1185071451)
 {
-d0cCaGE = y5TYx1b_k / rbxBhk_y;
+
 }
 if (IgpQ2N9Hj6 != -2144040172)
 {
@@ -242,7 +242,7 @@ NUiVs7 = f_FyX(NUiVs7);
 break;
 case 'b':
 case 'B':
-ofS1drb = (int)floor(vJ52s);
+
 break;
 case 'c':
 case 'C':
@@ -269,7 +269,7 @@ int i = 0;
 while (i < 1)
 {
 i++;
-NUiVs7 = (long double)(k_803e1);
+
 }
 }
 if ((rbxBhk_y <= qLrPiktYH) || ((GL634P < D9OZ) && (NPv2JpOdK != D9OZ)))
@@ -279,7 +279,7 @@ for (int j = 0; j < 4; ++j)
 Bii85w3 = l9o9F(-1453287988, Vs2pZs5S8, 668507231);
 }
 }
-u1I0wHCW = (long double)(AHN3ID);
+
 for (int i = 7; i >= 0; i--)
 {
 {

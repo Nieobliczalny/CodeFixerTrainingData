@@ -48,7 +48,7 @@ int main()
 	b_HWT5Y80	=	862928936;
 	n9_8q	=	-1452301992;
 	P02KeU	=	-2015758892;
-	Q0zt	=	-396693204;
+
 	Fhvd5z	=	1378529844;
 	H4_u8I	=	936160001;
 	xA7RZ6n7Bn	=	-1258470650;
@@ -168,7 +168,7 @@ case 4:
 b_HWT5Y80 = goq_4x(b_HWT5Y80, 1837708833, P02KeU, -2026077880, 584936011);
 break;
 case 5:
-q25eA8LAm *= 1163208409;
+
 break;
 }
 }
@@ -242,7 +242,7 @@ if ((R_19S == -1336618003) && (aurZHM4Q != -1877520918))
 {
 if (Fhvd5z < -1323805803)
 {
-tUzl6NP6L = tTys_ << Z__WR_;
+
 }
 else if ((Z__WR_ & 1372136021) || (aurZHM4Q < -1784734407))
 {
@@ -258,7 +258,7 @@ CSfbqHRG = D33JK_Wx5(CSfbqHRG, Q3db, xA7RZ6n7Bn);
 }
 else if (((Q3db & J6WIyu9rn) && (mnLw_VJZG == l4cn_)) && ((Fhvd5z != 1341066472) || (aurZHM4Q & zohr09Y)))
 {
-P02KeU = D33JK_Wx5(1658253091, Rs5Z9ziBv, 223571622);
+
 }
 else
 {
@@ -281,7 +281,7 @@ k44ioRM = goq_4x(k44ioRM, 1424481963, n9_8q, -352991287, P02KeU);
 }
 else if (Q3db > 887282412)
 {
-P02KeU &= 389346939;
+
 }
 else if ((Fhvd5z <= l4cn_) && (l4cn_ < J6WIyu9rn))
 {
@@ -307,7 +307,7 @@ tjItM2 = IUnDFOr7V5(tjItM2, l4cn_);
 }
 else
 {
-SrtsUR = (unsigned short int)(tUzl6NP6L);
+
 }
 }
 
@@ -354,7 +354,7 @@ e6AwI5_lJ += 1666344255;
 pTW_Y8_vX = LD2S65R_A6();
 
 q25eA8LAm = u60q | tTys_;
-O4ruT0ZUt = goq_4x(O4ruT0ZUt, Rs5Z9ziBv, 232035973, d_i393JfDn, pvj_0);
+
 {
 int i = 0;
 do
@@ -394,7 +394,7 @@ catch (int& errorCode)
 qO44_Z = LD2S65R_A6();
 }
 
-N12zz3m = D33JK_Wx5(pTW_Y8_vX, N12zz3m, tjItM2);
+
 
 JbpOUoG = b_PjC83 & 1632544772;
 
@@ -514,7 +514,7 @@ aurZHM4Q = goq_4x(-2067155047, e6AwI5_lJ, -1093696546, -1391892529, qO44_Z);
 }
 else if (aurZHM4Q < l4cn_)
 {
-xA7RZ6n7Bn = (unsigned short int)(J6WIyu9rn + (1071437084));
+
 }
 else if (KwG9Ckh != J6WIyu9rn)
 {
@@ -525,7 +525,7 @@ case 'A':
 b_PjC83 = eT6_MD44 << H4_u8I;
 break;
 default:
-H4_u8I = hjve & 1495227133;
+
 break;
 }
 }
@@ -536,7 +536,7 @@ int j = 0;
 do
 {
 j++;
-n9_8q = e6AwI5_lJ & 1914834920;
+
 }
 while (j < 5);
 }
@@ -556,7 +556,7 @@ b_PjC83 = goq_4x(aurZHM4Q, 530940116, JbpOUoG, -1416008227, qO44_Z) % 1470150079
 break;
 case 'b':
 case 'B':
-d_i393JfDn = mnLw_VJZG & Fhvd5z;
+
 break;
 case 'c':
 case 'C':

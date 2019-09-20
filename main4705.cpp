@@ -99,7 +99,7 @@ if (JidV >= -762712338)
 {
 if (F8BVi >= EfStn7)
 {
-yr3MAEhW_7 = iwvS % 1896219384;
+
 }
 }
 else if (C8W_3v8320 != F8BVi)
@@ -110,7 +110,7 @@ C_wKUR96y = (int)floor(Ko_kdKI);
 }
 else
 {
-Ko_kdKI = (int)floor(C_wKUR96y);
+
 }
 }
 else if (yr3MAEhW_7 < -977596429)
@@ -123,7 +123,7 @@ else if (n9NXA1Miy < FNFKW2k6)
 int k = 0;
 while (k < 4)
 {
-n9NXA1Miy = iwvS >> 828592553;
+
 ++k;
 }
 }
@@ -144,7 +144,7 @@ else if (C8W_3v8320 & -199610470)
 switch (iM7TLA)
 {
 case 'a':
-Ko_kdKI = (int)floor(C_wKUR96y);
+
 break;
 case 'b':
 yr3MAEhW_7 = (int)abs(JidV);
@@ -156,7 +156,7 @@ case 'd':
 fo6Ru0q22 = h_3gEix(yr3MAEhW_7, -378881362);
 break;
 case 'e':
-fo6Ru0q22 = h_3gEix(8046347, 1096066090);
+
 break;
 case 'f':
 n9NXA1Miy *= C8W_3v8320;
@@ -189,7 +189,7 @@ Ko_kdKI = (int)ceil(C_wKUR96y);
 
 JidV = bg_rvP(-833157227, F8BVi, 623984631, iwvS);
 
-fo6Ru0q22 = h_3gEix(t1oMQn, 1412916324);
+
 try
 {
 if (Ko_kdKI != EfStn7)
@@ -200,7 +200,7 @@ else
 {
 if (JidV == -2119182858)
 {
-F8BVi = bg_rvP(F8BVi, Ko_kdKI, 1136838250, JidV);
+
 }
 else
 {
@@ -213,7 +213,7 @@ catch (int& errorCode)
 A9kSI83Q = (int)abs(iM7TLA);
 }
 Ko_kdKI = (double)(C8W_3v8320);
-iwvS = (unsigned short int)(Ko_kdKI);
+
 
 return 0;
 }

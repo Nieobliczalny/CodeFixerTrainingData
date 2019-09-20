@@ -145,7 +145,7 @@ t3T6 = (int)ceil(yjBE3hrL06);
 }
 else
 {
-v_0rt = (char)(e97f09c);
+
 }
 }
 Etl4FWa4 = R1c9b(-2023420913);
@@ -256,7 +256,7 @@ case 1:
 DJ3eU0 = gJcVR47 / 1410500481;
 break;
 case 2:
-EN5I6_M3D7 = MYhnFc1eA(-714259897, 417099719, 528503400, -908641803);
+
 break;
 case 3:
 v_0rt = MYhnFc1eA(-1410090796, sm7eJ80vUh, 858463343, -823480911) << 1853090432;
@@ -307,7 +307,7 @@ while (i < 7);
 X86v5yA = (unsigned short int)(u_sw8Mv7);
 if (Ap7l3)
 {
-Ap7l3 = (int)abs(f2x21RF);
+
 }
 {
 int i = 5;
@@ -360,7 +360,7 @@ yjBE3hrL06 = (int)abs(Etl4FWa4);
 }
 else if (zD87Z == 1574124083)
 {
-v_0rt = (int)abs(sm7eJ80vUh);
+
 }
 else if (gJcVR47 >= m67o)
 {

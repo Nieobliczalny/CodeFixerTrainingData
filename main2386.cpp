@@ -54,7 +54,7 @@ while (j >= 0)
 j--;
 if (Mga_MfQb & a1799kPum)
 {
-W032V794u = xRvYvFsdNj & 1121150217;
+
 }
 else if (W4Kx != -257119540)
 {
@@ -66,7 +66,7 @@ F4Hr = cbBr_jY | d8Pf0Z2oGS;
 }
 else
 {
-bjyDPOfo6n = T9H1t_ - cbBr_jY;
+
 }
 }
 }
@@ -76,7 +76,7 @@ switch (CugfI_)
 {
 case 'a':
 case 'A':
-W2W91W = (int)ceil(X60Y);
+
 break;
 case 'b':
 case 'B':
@@ -87,7 +87,7 @@ case 'C':
 A3AN = (int)ceil(W2W91W);
 break;
 }
-bjyDPOfo6n = (unsigned int)(xRvYvFsdNj);
+
 
 Bn8621_8--;
 
@@ -99,7 +99,7 @@ catch (int& errorCode)
 {
 X60Y = (int)floor(j5kbmq8);
 }
-s7Qtm6q = 1626437665 / v_8Z;
+
 return 0;
 }
 

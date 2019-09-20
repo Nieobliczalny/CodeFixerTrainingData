@@ -42,7 +42,7 @@ int main()
     short int    Ea8U;
     Ea8U    =    -130636;
   double  hLSvNI8jT_;
-  hLSvNI8jT_  =  1523661945;
+
 
 Ea8U *= Ea8U;
 hLSvNI8jT_ = G_s6941_w(xpn3gl);
@@ -122,7 +122,7 @@ cout << hLSvNI8jT_ << "e_A5p" << endl;
 switch (Ea8U)
 {
 case 0:
-hLSvNI8jT_ = STOqIa3 | 296051738;
+
 break;
 default:
 hLSvNI8jT_ = tb0xqg0 / Ea8U;
@@ -157,7 +157,7 @@ case 0:
 Ea8U &= 1285776827;
 break;
 case 1:
-hLSvNI8jT_ = dRf8Rp1clr(tb0xqg0, 887280790);
+
 break;
 case 2:
 hLSvNI8jT_ = tb0xqg0 + 353213111;
@@ -175,7 +175,7 @@ case 6:
 Ea8U = dRf8Rp1clr(tb0xqg0, Ea8U);
 break;
 case 7:
-hLSvNI8jT_ = xpn3gl * 2045611024;
+
 break;
 }
 

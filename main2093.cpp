@@ -44,7 +44,7 @@ std::cout << "fGQx6" << jAZa5 << G97qKLGB << WL37zSj << std::endl;
 }
 }
 
-Zkv1Yb = (long)(Hk5k8M5);
+
 for (int i = 8; i >= 0; --i)
 {
 if (VOeWN & fm9sbQm)
@@ -68,7 +68,7 @@ case 2:
 R8E5k = (NKmg9qaNT > fm9sbQm) ? g_X68(931016120) : 830393808;
 break;
 case 3:
-N12PYK7y *= 1856281735;
+
 break;
 case 4:
 NKmg9qaNT <<= 1444034079;
@@ -159,7 +159,7 @@ while (j < 3);
 std::cout << "rxZcV" << std::endl;
 
 G97qKLGB = g_X68(-607082193);
-MNW4G = (long)(L_Yl);
+
 {
 int i = 9;
 do
@@ -206,7 +206,7 @@ for (int j = 4; j >= 0; --j)
 {
 try
 {
-MNW4G = (int)abs(Pp_431zq_4);
+
 }
 catch (int& errorCode)
 {
@@ -241,7 +241,7 @@ case 'h':
 G97qKLGB = g_X68(719503561);
 break;
 case 'i':
-Ht4Si0K_Yg |= p6pJ2;
+
 break;
 case 'j':
 Z80V = g_X68(671543902);
@@ -263,7 +263,7 @@ G97qKLGB = g_X68(p6LGcOc2);
 break;
 case 'c':
 case 'C':
-p6LGcOc2 = cF4HJ << Hk5k8M5;
+
 break;
 case 'd':
 case 'D':
@@ -275,7 +275,7 @@ Z80V = g_X68(-1875058496);
 break;
 case 'f':
 case 'F':
-Pp_431zq_4 |= 1027900455;
+
 break;
 default:
 QkM_JN = (f39Ye166M > WL37zSj) ? TT1DjXlSEd : 1670278988;
@@ -306,7 +306,7 @@ if (R8E5k & fm9sbQm)
 switch (jAZa5)
 {
 case 0:
-W0GHBk37 /= cF4HJ;
+
 break;
 case 1:
 iZftu <<= fdDA;
@@ -318,7 +318,7 @@ case 3:
 Z80V = g_X68(nx3KIbf);
 break;
 case 4:
-St2F8ugXC9 += Q5mD;
+
 break;
 case 5:
 r6ZNN5766++;
@@ -348,7 +348,7 @@ case 0:
 Z80V = g_X68(-1789560347);
 break;
 case 1:
-Shxn7 -= R8E5k;
+
 break;
 case 2:
 ZTZ6FH0C = QkM_JN % Hz6KBW;
@@ -360,7 +360,7 @@ case 4:
 G97qKLGB = g_X68(1323501449);
 break;
 case 5:
-Q2Hnc4 = BKSi / IRc9;
+
 break;
 case 6:
 L_Yl = U_abG7400i / ccAZW79OM;

@@ -103,7 +103,7 @@ case 2:
 xRrY = (int)ceil(ZYC0rD);
 break;
 case 3:
-y872 = (int)ceil(mYv3Tg38);
+
 break;
 default:
 ZYC0rD = RPgVr_d0Aq(-1481426046, nd3RN26b);
@@ -153,7 +153,7 @@ e5DvC3f_ = (int)abs(J9ONFz5);
 }
 else
 {
-J9ONFz5 = (int)floor(xRrY);
+
 }
 try
 {
@@ -166,7 +166,7 @@ switch (x0My4_)
 {
 case 'a':
 case 'A':
-cdMkx = M8Kbv26j % Cj6OW5F3EO;
+
 break;
 case 'b':
 case 'B':
@@ -186,7 +186,7 @@ XnOX_N = RPgVr_d0Aq(-1350637352, TWj7DU);
 break;
 case 'f':
 case 'F':
-PnK8BBSVku = WYE8w82X(-1866053402, F0g1_8, 570086019, btmz, -1377661849);
+
 break;
 case 'g':
 case 'G':
@@ -269,7 +269,7 @@ if (xRrY != 1338268677)
 {
 if (((mYv3Tg38 == 1948225039) && (st9Fm == KdX4Xu)) && (XwaF52U3))
 {
-h90qRk6bmU = WYE8w82X(-909935893, 560552692, xwV8PBTZni, -550828843, -327487968);
+
 }
 else
 {
@@ -321,7 +321,7 @@ nd3RN26b = DmXxQ - 567088205;
 switch (ZINhvGPZGg)
 {
 case 0:
-H1oxb = foRy8QybXh(1190821139, 789169322, 2084155573);
+
 break;
 case 1:
 F0g1_8 = WYE8w82X(-360856089, -1253818244, Ixa7, 180608152, f88W44278r);
@@ -336,7 +336,7 @@ case 4:
 U8_dF_ = foRy8QybXh(1005045197, P9qt, -1333035746);
 break;
 case 5:
-d0BB8 = sCM7eF81PJ(1630292018);
+
 break;
 default:
 x0h_d &= B1E4QeXC;
@@ -360,7 +360,7 @@ else
 m39XX = (int)abs(PqpIw);
 }
 
-KKzS788 = IFXjk360 % tZ4o;
+
 
 switch (iM587Ue)
 {
@@ -377,7 +377,7 @@ case 'd':
 G0HFBxhpY5 = WYE8w82X(G0HFBxhpY5, 1572928203, x8g0k84ut, 531391739, 1388622020);
 break;
 case 'e':
-J9ONFz5 = (int)ceil(e5DvC3f_);
+
 break;
 case 'f':
 Ixa7 = (int)abs(mYv3Tg38);
@@ -392,7 +392,7 @@ case 'i':
 B1E4QeXC--;
 break;
 case 'j':
-ZYC0rD = (int)abs(XnOX_N);
+
 break;
 default:
 sF7q_O5 = (int)abs(ZYC0rD);
@@ -402,7 +402,7 @@ break;
 switch (U8_dF_)
 {
 case 0:
-mYv3Tg38 = Ji_1_ & F0g1_8;
+
 break;
 case 1:
 Ixa7 = (int)ceil(m39XX);
@@ -417,7 +417,7 @@ case 4:
 e5DvC3f_ = (int)abs(XwaF52U3);
 break;
 case 5:
-Ixa7 = (int)abs(y872);
+
 break;
 case 6:
 U8_dF_ = WYE8w82X(U8_dF_, 545060736, j3k13, M8Kbv26j, G0HFBxhpY5);
@@ -429,7 +429,7 @@ case 8:
 dxBT0Cz = RPgVr_d0Aq(dxBT0Cz, V8HDs2wq7J);
 break;
 case 9:
-vQVoOjB97b = foRy8QybXh(vQVoOjB97b, PqpIw, -68934597);
+
 break;
 }
 KmPV0zjXG = (long long)(KdX4Xu);

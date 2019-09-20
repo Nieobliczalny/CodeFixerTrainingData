@@ -55,7 +55,7 @@ pElh1J6hIz = p4c_X(pElh1J6hIz, 385980, j9N7RK, -969289296, es2wt);
 pyD58ZK4 = z4MuCOL(1375915734, NyCafF, es2wt, nL4g09gGI6);
 try
 {
-pElh1J6hIz = (unsigned long)(O_rYqaVE * pElh1J6hIz);
+
 }
 catch (int& errorCode)
 {
@@ -166,7 +166,7 @@ if (NyCafF & 1033275546)
 int j = 7;
 do
 {
-V0iQ = (T4SN <= -312801431) ? p4c_X(112495516, nL4g09gGI6, 1484231998, -1361604762, -398652471) : j9N7RK;
+
 j--;
 }
 while (j >= 0);
@@ -384,7 +384,7 @@ case 6:
 D5YJvK1fi_ = (int)abs(es2wt);
 break;
 case 7:
-HVY80qP3D = (int)abs(D5YJvK1fi_);
+
 break;
 }
 

@@ -307,7 +307,7 @@ D42IK211j0 = qywUzj();
 break;
 case 'b':
 case 'B':
-Hc3F8 = VZMpJ_9 - 2064895250;
+
 break;
 default:
 wt4Wm = KM4XHdrP();
@@ -319,7 +319,7 @@ break;
 }
 
 k6Ue = wt4Wm * k6Ue;
-wt4Wm = Eo0M54E72(wt4Wm, D42IK211j0, LXK_, 1431349840);
+
 
 return 0;
 }

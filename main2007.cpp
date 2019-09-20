@@ -27,7 +27,7 @@ if (ifSk != T2I2EQdP11)
 int j = 10;
 do
 {
-dZ_s = (int)floor(wbxWEci);
+
 --j;
 }
 while (j >= 0);
@@ -42,7 +42,7 @@ int i = 10;
 while (i >= 0)
 {
 --i;
-aW0zd = (int)floor(ifSk);
+
 }
 }
 {
@@ -65,7 +65,7 @@ lRYLpFNI_ = (int)ceil(T4mh1);
 }
 while (i >= 0);
 }
-T4mh1 = -1288010073 / MW22vD1Q0i;
+
 
 dZ_s = (float)(G7_y5v);
 switch (mB2f8NG)

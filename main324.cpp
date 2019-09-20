@@ -125,7 +125,7 @@ int main()
 switch (DHJ_mn56M9)
 {
 case 0:
-d2jyy = (zE5b8 > p_dmay6nzA) ? -1800577669 : e7q1;
+
 break;
 case 1:
 e7q1 = (int)abs(Retz9);
@@ -225,7 +225,7 @@ case 4:
 v74uQMe_ = c1rx4 % rkvvN6;
 break;
 case 5:
-u5u__t1_2u = H8nYwmK ^ qN86MzxA;
+
 break;
 case 6:
 xnb8dT >>= 996281265;
@@ -237,7 +237,7 @@ case 8:
 nY8j1JQ = (int)ceil(NJ6yx7Awk7);
 break;
 }
-zE5b8 <<= tolb;
+
 CiLA4UX1M = UzS1 / UzS1;
 qtKYKye = (int)abs(Mvfoj);
 
@@ -248,7 +248,7 @@ if ((U68K5lkFU2) && (kTL_g0 < H8nYwmK))
 {
 if (uVoG < H8nYwmK)
 {
-taHxoM /= CiLA4UX1M;
+
 }
 else if ((Jt965lOAK_ & -298332247) || ((i_V_ & H8nYwmK) && (G7zi7uN_ < XHV895)))
 {
@@ -260,7 +260,7 @@ jTCqmH = (int)abs(r_nja);
 }
 else if ((HP90N77a != G7zi7uN_) && ((he177p3 >= 370720315) || (rx2ZBea)))
 {
-Dj9IeY_ZdM = (int)abs(LRAI470F2);
+
 }
 else
 {
@@ -287,7 +287,7 @@ JhDCmLzw4++;
 }
 else
 {
-qN86MzxA = Lr_0n(qN86MzxA, 1922450491, rx2ZBea, PH22);
+
 }
 switch (m3IWKty)
 {
@@ -298,7 +298,7 @@ case 1:
 Retz9 = (int)floor(r_nja);
 break;
 case 2:
-r_85r = SFw3(922338177, dB1yOD5g, vJJWyz0, ej6dqFWxe);
+
 break;
 case 3:
 LRAI470F2 = (int)floor(U68K5lkFU2);
@@ -309,7 +309,7 @@ if (((qtKYKye & H8nYwmK) && (zE5b8 == Ue84_FUAVO)) && (U68K5lkFU2 == yW743eu1Je)
 switch (G7zi7uN_)
 {
 case 0:
-JhDCmLzw4 = Q78ao122a8 / zE_NGDGp5_;
+
 break;
 case 1:
 KqrjB13 = (int)ceil(he177p3);
@@ -321,7 +321,7 @@ case 3:
 jTCqmH = Lr_0n(jTCqmH, Bil3v0vF, -1456441666, txl2vF78jA);
 break;
 case 4:
-he177p3 = (int)abs(r1Rm2_);
+
 break;
 case 5:
 JhDCmLzw4 ^= I78t8Cj8;
@@ -341,7 +341,7 @@ for (int j = 0; j < 3; ++j)
 {
 try
 {
-nY8j1JQ = (int)ceil(HP90N77a);
+
 }
 catch (int& errorCode)
 {
@@ -355,7 +355,7 @@ if (((WAq4 < H8nYwmK) && (XxRp8pA < H8nYwmK)) && ((AURhP8 <= H8nYwmK) || (P4_vV1
 {
 if (IToNGO & H8nYwmK)
 {
-CiLA4UX1M = Lr_0n(CiLA4UX1M, zE_NGDGp5_, v74uQMe_, 1382958703);
+
 }
 }
 }
@@ -370,7 +370,7 @@ if (jTCqmH < H8nYwmK)
 {
 if (zE_NGDGp5_ <= KeOOvW97m)
 {
-v74uQMe_ = (int)ceil(b1U26);
+
 }
 else if (Mvfoj)
 {
@@ -390,7 +390,7 @@ switch (Ce6Z5_)
 {
 case 'a':
 case 'A':
-NJ6yx7Awk7 = (int)floor(U68K5lkFU2);
+
 break;
 case 'b':
 case 'B':

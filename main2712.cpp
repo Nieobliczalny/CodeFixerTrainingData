@@ -47,7 +47,7 @@ case 'c':
 Rems8rU /= 585144096;
 break;
 case 'd':
-T93FJa0uB0 ^= smpS;
+
 break;
 case 'e':
 j2r4fYK89 = (int)abs(thShl);
@@ -295,7 +295,7 @@ int k = 0;
 while (k < 7)
 {
 ++k;
-T93FJa0uB0 = MlHxb2NnO * YQr2;
+
 }
 }
 }

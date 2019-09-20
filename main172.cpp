@@ -13,7 +13,7 @@ int main(void)
     unsigned long    jg3P_3d8s;
     jg3P_3d8s    =    0;
     unsigned int    uL4n9YV8wF;
-    uL4n9YV8wF    =    1624151826;
+
  short int pJDfCV;
  pJDfCV = 824386776;
   unsigned int  m8ta6e;
@@ -29,7 +29,7 @@ int main(void)
   long double  f4m0B;
   f4m0B  =  -2015331144;
   unsigned short int  Ch6nM;
-  Ch6nM  =  0;
+
     double    E_XmeT88;
     E_XmeT88    =    -836828207;
 	long double	P3_8HTt;
@@ -51,7 +51,7 @@ int main(void)
  char u5WkZ76;
  u5WkZ76 = 1207500589;
  long double AsGgi7Ep9;
- AsGgi7Ep9 = 670677217;
+
  short int ph7_kn;
  ph7_kn = -433237524;
     unsigned short int    nVgza7Xn;
@@ -61,7 +61,7 @@ int main(void)
 	short int	l9VPD5c;
 	l9VPD5c	=	-1041167977;
   int  W1hYGf6mz9;
-  W1hYGf6mz9  =  1055436566;
+
   long long  XP9111;
   XP9111  =  -1779491223;
 	long long	L4rbx_59e;
@@ -71,7 +71,7 @@ int main(void)
  unsigned short RhFDb5f;
  RhFDb5f = 598176008;
     unsigned long long    JOFD6a5P;
-    JOFD6a5P    =    1129188325;
+
  unsigned short int DiCBf6Laot;
  DiCBf6Laot = -1368081183;
  short PBEZ;
@@ -81,7 +81,7 @@ int main(void)
     unsigned int    WSdrCdD00;
     WSdrCdD00    =    -1901099629;
  double Ea1QUzz9;
- Ea1QUzz9 = 698652010;
+
 
 TkyLa0VmU2 = 486761228 / jg3P_3d8s;
 switch (pJDfCV)
@@ -94,7 +94,7 @@ break;
 p7o9V40G = (long)(E_XmeT88);
 if (Mix4F7 <= Z841GizH_)
 {
-AsGgi7Ep9 = (int)ceil(EqhG);
+
 }
 else
 {
@@ -113,7 +113,7 @@ case 'b':
 XP9111 = A7wxbubF & Mix4F7;
 break;
 case 'c':
-Ea1QUzz9 = (int)floor(E_XmeT88);
+
 break;
 }
 TkyLa0VmU2 = (short)(l9VPD5c);
@@ -127,7 +127,7 @@ while (j >= 0)
 {
 if (((u5WkZ76 <= GXRqtx) || (yUS70zKB <= 430256414)) || (u5WkZ76 < -1535297144))
 {
-DiCBf6Laot = PBEZ & pJDfCV;
+
 }
 --j;
 }
@@ -139,7 +139,7 @@ d19ao6M = (int)abs(f4m0B);
 }
 else if (f4m0B > -285220599)
 {
-Ea1QUzz9 = (double)(yUS70zKB);
+
 }
 else if (GXRqtx & -2019429365)
 {
@@ -153,7 +153,7 @@ if (f4m0B <= -1290881302)
 int k = 5;
 while (k >= 0)
 {
-CW03 = d19ao6M << nVgza7Xn;
+
 k--;
 }
 }
@@ -171,7 +171,7 @@ k--;
 }
 else
 {
-DiCBf6Laot = (unsigned short int)(L4rbx_59e);
+
 }
 }
 GXRqtx -= p7o9V40G;
@@ -188,7 +188,7 @@ p7o9V40G = (int)abs(yUS70zKB);
 break;
 case 'b':
 case 'B':
-TkyLa0VmU2 = V0AyE - 762450142;
+
 break;
 case 'c':
 case 'C':
@@ -206,7 +206,7 @@ break;
 }
 while (i < 1);
 }
-W1hYGf6mz9 = (int)(Mix4F7);
+
 for (int i = 0; i < 9; ++i)
 {
 cout << "h408Yy" << endl;

@@ -102,7 +102,7 @@ switch (EIatKsEqZ)
 {
 case 'a':
 case 'A':
-tR27rQa = n_6s1x2j8 - G9Ui4;
+
 break;
 case 'b':
 case 'B':
@@ -280,7 +280,7 @@ v0WFp4fq = ndE86IeuG8 | 958848549;
 
 for (int i = 0; i < 4; ++i)
 {
-rfSH64gAP = (unsigned char)(p9PYB);
+
 }
 
 Il97K3n = (unsigned char)(C2JB73dC6V + (-1483095023));
@@ -434,7 +434,7 @@ case 1:
 s2Vx5b += p9PYB;
 break;
 case 2:
-B0LYr = A6HkB_ - 1017619188;
+
 break;
 case 3:
 t34O198x <<= EpCWfhw;
@@ -473,7 +473,7 @@ else if (mj6dJ4mQwv <= C2JB73dC6V)
 switch (v0WFp4fq)
 {
 case 0:
-hTKUU1cO2x <<= W770QBh60;
+
 break;
 case 1:
 L3F_LtBk4 |= 2094480279;
@@ -544,7 +544,7 @@ txnM = (unsigned char)(C2JB73dC6V + (1340681048));
 }
 else
 {
-SPB92 = e20r9C & 1927577065;
+
 }
 std::cout << "NE85U" << XVRrB8 << W770QBh60 << u75JB << std::endl;
 
@@ -584,7 +584,7 @@ else
 int k = 0;
 do
 {
-XVRrB8 = T09UqwF9UN / k0TN0n;
+
 ++k;
 }
 while (k < 5);
@@ -597,7 +597,7 @@ try
 switch (LWqL2Uu_)
 {
 case 'a':
-EIatKsEqZ &= 2075174747;
+
 break;
 case 'b':
 g40k5_oKLZ = N_BgtSi_ * phtT;
@@ -609,7 +609,7 @@ case 'd':
 s2Vx5b >>= j97ky;
 break;
 case 'e':
-K7WUS = VkuJPAY55B >> lat2;
+
 break;
 case 'f':
 e20r9C -= Z30m019VP;
@@ -700,7 +700,7 @@ else
 {
 if (lat2 > C2JB73dC6V)
 {
-iffW0_RvM = QVU4V & vVa26xX;
+
 }
 }
 }
@@ -713,7 +713,7 @@ kdWl1cD = sw04_T_X1I << 574630605;
 switch (s2Vx5b)
 {
 case 'a':
-phtT = Rb9uYSB + W521;
+
 break;
 case 'b':
 vVa26xX = e20r9C << 1197318906;

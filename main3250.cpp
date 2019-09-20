@@ -198,7 +198,7 @@ case 'b':
 W63U = (int)floor(zYj5);
 break;
 case 'c':
-b49c = sZ7x | 1335736984;
+
 break;
 case 'd':
 Z3SgQ2O40 >>= PH46;
@@ -214,7 +214,7 @@ case 'a':
 sqm12qI = qA4Zw(1290729960);
 break;
 case 'b':
-Ae_1K7N6WY = mOgERA();
+
 break;
 case 'c':
 I4G18REF1 = PH46 % 504694144;
@@ -239,7 +239,7 @@ XS_Ze831 &= sZ7x;
 }
 }
 cout << qA4Zw(NxUN_r3Q) << "V35T" << g_aT << "Nnkxj3M" << endl;
-zYj5 = -27797250 / ydFc;
+
 
 switch (h_tR4Z6C)
 {
@@ -253,7 +253,7 @@ case 2:
 W63U = sqm12qI ^ wRL7;
 break;
 default:
-lrqLOCGe = g_aT % qA6_;
+
 break;
 }
 LN39 &= 1332728315;
@@ -268,7 +268,7 @@ try
 int k = 0;
 while (k < 3)
 {
-PY760Q8o12 = (int)floor(W63U);
+
 k++;
 }
 }
@@ -285,7 +285,7 @@ case 0:
 LN39++;
 break;
 case 1:
-E6b0 >>= NxUN_r3Q;
+
 break;
 case 2:
 WWxrPM = qA4Zw(qA6_);

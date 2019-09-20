@@ -312,7 +312,7 @@ if (g8vRtCw0c == v_Zm0)
 {
 if (((v_Zm0 > -2118775896) && (ni41 == -1384832776)) && (v_Zm0))
 {
-v_Zm0 = (int)abs(t2_nJn) * 0;
+
 }
 else
 {

@@ -22,7 +22,7 @@ int main(int argc, char** argv) {
  double nndw9ES6;
  nndw9ES6 = 1366416825;
   short int  MqLN_tJ7;
-  MqLN_tJ7  =  687639721;
+
 	long long	z1_qR;
 	z1_qR	=	-1946107287;
     long double    hWnI;
@@ -36,7 +36,7 @@ int main(int argc, char** argv) {
 	long	UhfO;
 	UhfO	=	1806425803;
  unsigned long long e6P8;
- e6P8 = -1591122528;
+
 	float	V5NyqKkcN;
 	V5NyqKkcN	=	-1629287847;
   double  rI1rgR;
@@ -46,7 +46,7 @@ int main(int argc, char** argv) {
 	long long	j8pB13KLWh;
 	j8pB13KLWh	=	-1068391923;
  unsigned short YI0Cba;
- YI0Cba = -425002832;
+
 	float	tkDiEzEIB;
 	tkDiEzEIB	=	249192701;
 	unsigned long long	Q5VhhX29;
@@ -56,7 +56,7 @@ int main(int argc, char** argv) {
   unsigned short  CVN5_iWeq;
   CVN5_iWeq  =  2123810995;
     long double    tY1_;
-    tY1_    =    -1527968133;
+
  unsigned short O37L0;
  O37L0 = -482568144;
 	long long	RioH_;
@@ -66,7 +66,7 @@ int main(int argc, char** argv) {
     int    kH587q7bU;
     kH587q7bU    =    -732342393;
     unsigned int    XxJn4I;
-    XxJn4I    =    1500111191;
+
  unsigned long f_3S823;
  f_3S823 = 1713389261;
  unsigned int GDVYm8Vn;
@@ -78,7 +78,7 @@ int main(int argc, char** argv) {
 	double	q5ioQjm;
 	q5ioQjm	=	1738636563;
 	double	oMTp_xmw;
-	oMTp_xmw	=	493468165;
+
  int l9yEOMY7a;
  l9yEOMY7a = -1067366441;
 
@@ -88,7 +88,7 @@ case 'a':
 MqLN_tJ7 = (int)abs(hWnI);
 break;
 case 'b':
-KfGiulWA = (int)abs(l9yEOMY7a);
+
 break;
 case 'c':
 tY1_ = (int)abs(nndw9ES6);
@@ -100,7 +100,7 @@ case 'e':
 tkDiEzEIB = (int)floor(nndw9ES6);
 break;
 }
-rI1rgR = (int)abs(nndw9ES6);
+
 if (CVN5_iWeq == 1131541281)
 {
 cout << "zB9_" << O37L0 << endl;
@@ -115,7 +115,7 @@ case 0:
 O37L0--;
 break;
 case 1:
-Q5VhhX29 = J50Y81J * 1800549649;
+
 break;
 case 2:
 FnhpeTEPy = (int)abs(UhfO);
@@ -128,7 +128,7 @@ if (V5NyqKkcN <= -1583221501)
 {
 hWnI = Pq0f3uBKX0(V5NyqKkcN, 1997658696, 352168545) << FnhpeTEPy;
 }
-nndw9ES6 = (double)(q5ioQjm);
+
 tkDiEzEIB = UhfO / RioH_;
 
 z1_qR = (long long)(hWnI);
@@ -145,7 +145,7 @@ if (hWnI >= 1975979312)
 {
 for (int k = 7; k >= 0; --k)
 {
-RioH_ = Pq0f3uBKX0(-1675790771, -291409123, Nh06B0dk);
+
 }
 }
 }

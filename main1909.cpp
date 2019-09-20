@@ -339,7 +339,7 @@ while (j >= 0);
 
 if (ZcdY < -1173128020)
 {
-vu4mb = (long)(Wi46);
+
 }
 else if (WV6Q <= -1762591429)
 {
@@ -433,7 +433,7 @@ i++;
 }
 while (i < 2);
 }
-Wi46 %= 1305215515;
+
 OQIQ16_ = WGaME6b();
 CYAMvO_FUA = (int)floor(jFgJu20F);
 if ((b_bB < 518412635) && (OzrB_641G))
@@ -458,7 +458,7 @@ OzrB_641G = ih265kPM2z();
 }
 if (((Je5vlT == jFgJu20F) && (vB2qxl & A1ITFk840)) || (CYAMvO_FUA))
 {
-b_bB = (int)floor(jFgJu20F);
+
 }
 
 std::cout << d3c3Y8zj << A75L << vB2qxl << vricWF() << WGaME6b() << std::endl;
@@ -469,7 +469,7 @@ case 0:
 CYAMvO_FUA /= A75L;
 break;
 case 1:
-xyku25l_E = WGaME6b();
+
 break;
 case 2:
 OQIQ16_ = WGaME6b();

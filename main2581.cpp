@@ -45,7 +45,7 @@ a1Y0 = nA6IqJi5t(a1Y0, j4u3NMPqt, 1944761372, 806985379, O4_u3);
 break;
 case 'd':
 case 'D':
-oL4jBZ32 <<= rHp438NnT;
+
 break;
 case 'e':
 case 'E':
@@ -84,7 +84,7 @@ case 1:
 j4u3NMPqt = nA6IqJi5t(j4u3NMPqt, O4_u3, -379887857, 1022962486, -412779885);
 break;
 default:
-Rj9p0 = nA6IqJi5t(-2070682876, iLxn5ZdHLn, DYjlw, O4_u3, -1348370050);
+
 break;
 }
 std::cout << O4_u3 << std::endl;
@@ -95,7 +95,7 @@ int j = 7;
 do
 {
 j--;
-Rj9p0 = (long long)(j4u3NMPqt);
+
 }
 while (j >= 0);
 }

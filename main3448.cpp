@@ -230,7 +230,7 @@ if (CeI1_ < YT8O1Mi1)
 {
 for (int j = 0; j < 7; ++j)
 {
-n3z1Hr246_ = (long long)(Qw5S);
+
 }
 }
 else if (m924o0 != YT8O1Mi1)
@@ -289,7 +289,7 @@ case 1:
 N2AoHgp -= G6YhbY;
 break;
 case 2:
-n3z1Hr246_ *= 1281173185;
+
 break;
 case 3:
 w052TnAmj--;
@@ -316,7 +316,7 @@ q5qSK = HZ45(sDRI, G6YhbY, PHmHd);
 switch (N2AoHgp)
 {
 case 0:
-TtlTMKS83T <<= 907759501;
+
 break;
 case 1:
 m924o0 = m_WOS4S << G6YhbY;
@@ -328,7 +328,7 @@ case 3:
 czS3 = (int)abs(TtlTMKS83T);
 break;
 case 4:
-G6YhbY += 1626632492;
+
 break;
 case 5:
 hG54sd7 = (int)abs(i8JO);
@@ -392,7 +392,7 @@ j++;
 int k = 0;
 while (k < 5)
 {
-N2AoHgp = (int)abs(vd89p_K0);
+
 k++;
 }
 }

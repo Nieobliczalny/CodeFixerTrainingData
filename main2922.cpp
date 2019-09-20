@@ -19,7 +19,7 @@ int main(void)
 	char	dH56OUEa1,	SKQ60VE,	t_bD8h,	O1I3O;
 		dH56OUEa1	=	SKQ60VE	=	t_bD8h	=	O1I3O	=	0;
 
-u31uvhG9a = (int)floor(L2M7jf6ja);
+
 R05_Z3005 = (long double)(O6qr1);
 {
 int i = 3;
@@ -32,7 +32,7 @@ do
 switch (t_bD8h)
 {
 case 0:
-ugc8I8 = CScuc - J6y17nC;
+
 break;
 case 1:
 f6BV9_ *= 560733200;
@@ -49,7 +49,7 @@ while (j >= 0);
 }
 }
 cout << "DpLp80" << u3Gwqu1 << endl;
-Cwyh7s = (int)ceil(nBW21A66e);
+
 
 if (LD3VWsg <= x_x36e)
 {
@@ -72,7 +72,7 @@ for (int j = 0; j < 2; ++j)
 {
 if (yWT22fZ6T > gy_0I_w0)
 {
-pci2tV = (oA1U4K54 > Wria9gZk) ? nBW21A66e : 1089989652;
+
 }
 }
 }
@@ -85,7 +85,7 @@ R934 -= 133509721;
 break;
 case 'b':
 case 'B':
-fHdrje2f7 = (int)floor(Q1O2pis8K4);
+
 break;
 case 'c':
 case 'C':
@@ -97,7 +97,7 @@ R_OeI9DOE7 = gy_0I_w0 * 1042549573;
 break;
 case 'e':
 case 'E':
-wPf344Z = (int)floor(rFok23);
+
 break;
 case 'f':
 case 'F':
@@ -108,7 +108,7 @@ case 'G':
 x_x36e = x_x36e / 1845173559;
 break;
 default:
-o_zGyx39zb = (int)abs(O8o1Y);
+
 break;
 }
 
@@ -134,7 +134,7 @@ int k = 9;
 while (k >= 0)
 {
 --k;
-TqiHw1 = (int)abs(R934);
+
 }
 }
 j++;
@@ -149,7 +149,7 @@ if (Z4DnCvi > -1956689912)
 {
 if (rFok23 != V1Cm)
 {
-Q1O2pis8K4 = (int)abs(x_x36e);
+
 }
 }
 else
@@ -163,7 +163,7 @@ catch (int& errorCode)
 YuZ0 *= X0Jrk8A;
 }
 }
-Z4DnCvi -= MukWeDh6XM;
+
 {
 int i = 5;
 do
@@ -176,7 +176,7 @@ while (i >= 0);
 
 cout << dH56OUEa1 / dH56OUEa1 << endl;
 
-rFok23 = (long double)(GIrA87R);
+
 return 0;
 }
 

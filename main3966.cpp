@@ -21,7 +21,7 @@ int main(int argc, char** argv)
 	unsigned long	PBF4Ljp6Kq;
 	PBF4Ljp6Kq	=	1363244900;
 	char	ZTBW8J9eT;
-	ZTBW8J9eT	=	-1040516556;
+
     char    xsXH8t7TA;
     xsXH8t7TA    =    0;
     long long    CkC6Z;
@@ -41,7 +41,7 @@ int main(int argc, char** argv)
   double  e70L4At_U;
   e70L4At_U  =  -610244893;
 	unsigned long	T_4v72a1;
-	T_4v72a1	=	813286514;
+
   unsigned int  K3Nnj85d;
   K3Nnj85d  =  705682182;
 	unsigned short	NeR0;
@@ -53,7 +53,7 @@ int main(int argc, char** argv)
  unsigned int sPA_cub3;
  sPA_cub3 = 0;
     float    sXdX;
-    sXdX    =    -278469016;
+
 	unsigned char	B9D4za;
 	B9D4za	=	-2112657010;
   unsigned long  WDSJR;
@@ -67,7 +67,7 @@ int main(int argc, char** argv)
   unsigned long  cedCZFv124;
   cedCZFv124  =  39719097;
 	short	dRJGS;
-	dRJGS	=	616563889;
+
  long double h3q7D98N92;
  h3q7D98N92 = -647733660;
     unsigned short int    w22XbtAhD;
@@ -102,7 +102,7 @@ while (j >= 0);
 }
 }
 
-sXdX = (int)floor(y07V);
+
 T_4v72a1 = (unsigned long)(P7TIp50zF);
 Y141uy = -652183455 / NU_Nr09EFQ(-223453600, PBF4Ljp6Kq, w22XbtAhD, 908247132);
 
@@ -114,7 +114,7 @@ PBF4Ljp6Kq = (unsigned long)(h3q7D98N92);
 switch (Uu5LV2CEM9)
 {
 case 0:
-y07V /= 1931410824;
+
 break;
 case 1:
 sXdX = (int)abs(h3q7D98N92);
@@ -126,7 +126,7 @@ case 3:
 xsXH8t7TA = NU_Nr09EFQ(1187008841, Dx9CP5d0dE, -1061530355, -1111457745);
 break;
 }
-ht96f = sPA_cub3 / Gu8lTBCN;
+
 if ((Gu8lTBCN > 359226111) || (T_4v72a1 <= h3q7D98N92))
 {
 WDSJR *= 56880190;

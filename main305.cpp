@@ -101,7 +101,7 @@ int main(void) {
     iC0EKc1t    =    -732512391;
     OpxgP73A    =    -1588528073;
     nILnCg7Ge    =    -574610435;
-    TTl13R31A5    =    -608182120;
+
 
 if ((JIJK < 1877004223) || (KL8TL & 1165785831))
 {
@@ -270,7 +270,7 @@ b2oguJnc = e5WyeL6rb7(-106641022, -1931681680, -1761951222);
 }
 else if (hijkq >= 651940440)
 {
-Mir1E = (long long)(qgI9CKMg + (mThk872n));
+
 }
 else if (((MZdXW) || (kJ0C831)) && (Q1C1 > q_sUs6))
 {
@@ -381,7 +381,7 @@ case 0:
 b2oguJnc = e5WyeL6rb7(996191212, rTd1_14, -406771387);
 break;
 case 1:
-o8HYzEU3 &= OpxgP73A;
+
 break;
 case 2:
 b2oguJnc = e5WyeL6rb7(tOSC4, -674767926, J6LJ8Cl);
@@ -420,7 +420,7 @@ G6744c *= BTO6;
 }
 else
 {
-swIvQy1 ^= 1999199554;
+
 }
 }
 else
@@ -447,7 +447,7 @@ else
 {
 if (uxv_ > mThk872n)
 {
-n7T1Hs295H = (long long)(Mir1E);
+
 }
 else
 {
@@ -483,7 +483,7 @@ std::cout << "Te02H4_fWC" << N5s05 << Q1C1 << e5WyeL6rb7(-2076421901, -449146507
 int i = 0;
 while (i < 7)
 {
-C8Bf34Q8 = (long long)(Uqal9x);
+
 ++i;
 }
 }
@@ -536,7 +536,7 @@ switch (KL8TL)
 {
 case 'a':
 case 'A':
-S1z2deNUml += b2oguJnc;
+
 break;
 case 'b':
 case 'B':
@@ -556,7 +556,7 @@ uxv_ = Ykil6SS3pj & hgGAD_;
 break;
 case 'f':
 case 'F':
-JIJK = Uqal9x | 1774403688;
+
 break;
 case 'g':
 case 'G':
@@ -568,7 +568,7 @@ ualGq--;
 break;
 case 'i':
 case 'I':
-Qg7Fvz = eY8u - a97f4;
+
 break;
 }
 
@@ -625,7 +625,7 @@ if ((J_kbTQU44 < EuLiqtT_0) && (QC1z1QqWUv))
 {
 try
 {
-Mir1E = (int)abs(MZdXW);
+
 }
 catch (int& errorCode)
 {
@@ -666,7 +666,7 @@ b2oguJnc = e5WyeL6rb7(F9mkuzSmgm, -2036954388, 1678185478);
 }
 }
 }
-a97f4 = PAsw_MMl8 / e5WyeL6rb7(885623802, -1653908017, a97f4);
+
 
 switch (q_sUs6)
 {
@@ -683,7 +683,7 @@ case 3:
 b0rM9ybVuQ = (int)abs(F9mkuzSmgm);
 break;
 case 4:
-uxv_ <<= 1523912631;
+
 break;
 case 5:
 o6AO8 >>= DX15_e1n;
@@ -701,7 +701,7 @@ do
 switch (eC3PPMq7q)
 {
 case 0:
-TTl13R31A5 = (int)abs(vj87skYM);
+
 break;
 case 1:
 b2oguJnc = e5WyeL6rb7(b0rM9ybVuQ, P3oBj, -1215288804);
@@ -713,7 +713,7 @@ case 3:
 b2oguJnc = e5WyeL6rb7(Y904_, -1765207387, b2oguJnc);
 break;
 default:
-nILnCg7Ge = e5WyeL6rb7(-871706709, l30DA_7R6R, 1471218897) - 713692954;
+
 break;
 }
 ++j;

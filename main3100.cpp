@@ -96,7 +96,7 @@ N_ZJ %= 68934335;
 switch (F7LWd)
 {
 case 0:
-zS13U3xcH0 = pR2q3FoE & 585253268;
+
 break;
 case 1:
 A9j5 = Bdwd_R2ij ^ 377000789;
@@ -260,7 +260,7 @@ try
 int k = 10;
 while (k >= 0)
 {
-V4us49yY = eYjCz(772332651);
+
 k--;
 }
 }
@@ -289,7 +289,7 @@ else
 {
 if (pR2q3FoE & 26213014)
 {
-V4us49yY = eYjCz(V4us49yY);
+
 }
 else
 {
@@ -317,7 +317,7 @@ int k = 0;
 while (k < 2)
 {
 k++;
-V4us49yY = VR__k4 % 1243085807;
+
 }
 }
 j++;

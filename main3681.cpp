@@ -95,7 +95,7 @@ BuYWt = d01gbuEr_4(BuYWt, HeeO, cjiZ24u1);
 break;
 case 'd':
 case 'D':
-JzqX1W <<= 1456889353;
+
 break;
 }
 
@@ -131,7 +131,7 @@ if (((wMq4 < 1435131872) || (OMUL < pjE77wPM1A)) && ((n5fA787 <= TV_tfLZT90) || 
 {
 try
 {
-tCjVdMIOg = HbgDbkc8Nc(A__8WHfYk, tCjVdMIOg, 673051818);
+
 }
 catch (int& errorCode)
 {

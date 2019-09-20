@@ -509,7 +509,7 @@ S42s_h1K_ = z4cAm(S42s_h1K_, q7vr_B1, CRb9S, 303640284);
 }
 else
 {
-WlJy = (int)floor(jcm0N6YwB);
+
 }
 }
 catch (int& errorCode)
@@ -642,7 +642,7 @@ IV2_Fw = (int)abs(Ta4l_jL6G);
 }
 else if (V3sh6YMvD <= 1391484839)
 {
-OjyQLga8G = veP1oRBn - 1127231260;
+
 }
 else if (S42s_h1K_ & Fv54KRq44)
 {

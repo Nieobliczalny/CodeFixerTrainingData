@@ -106,7 +106,7 @@ while (j >= 0);
 }
 }
 
-SRfuFjAK5 = (short int)(EDCH4_H * (W3611qSg));
+
 SRfuFjAK5 = (int)abs(UsDh);
 {
 int i = 7;
@@ -171,7 +171,7 @@ ntf_Y_cxN %= QmZ5Kjk5;
 break;
 case 'd':
 case 'D':
-PEs3yPHm >>= 2118337602;
+
 break;
 case 'e':
 case 'E':
@@ -288,7 +288,7 @@ break;
 }
 else if (h706qVc > re_JgR747S)
 {
-zdKU5k = P_oLNy(-1521996538, NDRG9op8, 429502628, -1344168518, YIm10);
+
 }
 else if (ntf_Y_cxN > 9622478)
 {
@@ -343,7 +343,7 @@ case 6:
 EDCH4_H = P_oLNy(VHhV, EDCH4_H, QmZ5Kjk5, 2050613886, f2fpxsbDZ0);
 break;
 case 7:
-zdKU5k = P_oLNy(zdKU5k, 1743548147, YIm10, VHhV, u8Vjct5I);
+
 break;
 case 8:
 h706qVc <<= 1596377665;
@@ -382,7 +382,7 @@ i++;
 }
 while (i < 5);
 }
-f2fpxsbDZ0 = 770740332 / VHhV;
+
 {
 int i = 0;
 do
@@ -447,7 +447,7 @@ H_8J6tW = P_oLNy(307857333, qc_rNmFY, RheeHD_71, 204848301, 1755731355);
 }
 else if (ntf_Y_cxN > 1951724733)
 {
-f2fpxsbDZ0 = EDCH4_H + 220985666;
+
 }
 else
 {
@@ -486,7 +486,7 @@ case 0:
 h706qVc %= 96493655;
 break;
 case 1:
-qc_rNmFY = ntf_Y_cxN - 2138380412;
+
 break;
 case 2:
 h706qVc = u8Vjct5I << zn87_Yh;
@@ -498,7 +498,7 @@ case 4:
 VHhV = OXWq6(-667359281);
 break;
 case 5:
-ntf_Y_cxN = (NDRG9op8 & LCt6r4P) ? PEs3yPHm : 694356904;
+
 break;
 case 6:
 VHhV = OXWq6(659082260);
@@ -527,7 +527,7 @@ case 0:
 STTOi2_U_V++;
 break;
 case 1:
-UsDh = (int)abs(XDMn1);
+
 break;
 case 2:
 VHhV = (int)abs(UsDh);
@@ -539,7 +539,7 @@ case 4:
 STTOi2_U_V *= CbuFOxg8;
 break;
 case 5:
-H_8J6tW = P_oLNy(H_8J6tW, nHEQsqgPBY, zdKU5k, -458911415, -1489587490);
+
 break;
 case 6:
 LCt6r4P = P_oLNy(LCt6r4P, 67521043, 89762534, -85770744, -1606324406);
@@ -556,7 +556,7 @@ break;
 }
 for (int i = 2; i >= 0; --i)
 {
-H_8J6tW = (unsigned short)(u8Vjct5I);
+
 }
 std::cout << E68B0 << "eObwY8m" << LCt6r4P << E68B0 << OXWq6(SRfuFjAK5) << std::endl;
 SRfuFjAK5 = OXWq6(SRfuFjAK5);
@@ -578,7 +578,7 @@ int j = 1;
 do
 {
 --j;
-LCt6r4P = RheeHD_71 | qUA88FH9g;
+
 }
 while (j >= 0);
 }
@@ -593,7 +593,7 @@ int i = 6;
 while (i >= 0)
 {
 i--;
-YIm10 = (unsigned short)(re_JgR747S);
+
 }
 }
 

@@ -29,7 +29,7 @@ int main()
     double    Hyteva;
     Hyteva    =    1748414942;
  long fMA2sQ2n;
- fMA2sQ2n = 0;
+
  unsigned short LKV3;
  LKV3 = -245167704;
   unsigned short int  SO9BE;
@@ -49,7 +49,7 @@ int main()
 	unsigned int	n_U3;
 	n_U3	=	-982832805;
 	long	ZrH_hh8;
-	ZrH_hh8	=	691102731;
+
     unsigned char    A4s87Z5y;
     A4s87Z5y    =    466848273;
     float    X3__dSRlif;
@@ -75,7 +75,7 @@ for (int j = 0; j < 6; j++)
 {
 if ((lH8o2IJz4 <= 582758813) && (fSg6f > UIfE5a4))
 {
-fMA2sQ2n = G8n689L();
+
 }
 }
 }
@@ -89,7 +89,7 @@ else
 {
 if (B9W5TKj4 >= 1178995037)
 {
-fMA2sQ2n = G8n689L();
+
 }
 else if (sYxU3f > Flc3)
 {
@@ -101,7 +101,7 @@ fMA2sQ2n = G8n689L();
 }
 else if (fSg6f & -810114810)
 {
-fMA2sQ2n = G8n689L();
+
 }
 else
 {
@@ -111,7 +111,7 @@ B7wCs2 >>= n_U3;
 }
 else
 {
-fMA2sQ2n = G8n689L();
+
 }
 ZrH_hh8 = (long)(FOHYM);
 
@@ -145,7 +145,7 @@ case 2:
 fMA2sQ2n = G8n689L();
 break;
 case 3:
-n_U3 <<= 964850167;
+
 break;
 case 4:
 fMA2sQ2n = G8n689L();
@@ -201,7 +201,7 @@ i--;
 cout << "oee5W" << "an4EAr3z_6" << SQPLPxj << Z_12C << G8n689L() << endl;
 cout << G8n689L() << X3__dSRlif << endl;
 cout << G8n689L() / fMA2sQ2n << endl;
-Hyteva = (double)(B7wCs2);
+
 {
 int i = 0;
 do
@@ -242,7 +242,7 @@ else if (X3__dSRlif >= 187003242)
 {
 for (int k = 0; k < 6; ++k)
 {
-B7wCs2 = ZrH_hh8 >> 800626014;
+
 }
 }
 else if (fxm0 != -785660418)
@@ -269,7 +269,7 @@ fMA2sQ2n = G8n689L();
 }
 }
 
-Hyteva = (int)floor(fxm0);
+
 if (rRMf9z50Z != -1612682763)
 {
 fxm0 = (int)ceil(lH8o2IJz4);
@@ -280,7 +280,7 @@ for (int j = 3; j >= 0; --j)
 {
 if ((UIfE5a4) || ((N72N38 != X3__dSRlif) || (Flc3 >= LKV3)))
 {
-fMA2sQ2n = G8n689L();
+
 }
 else if (rRMf9z50Z != SQPLPxj)
 {

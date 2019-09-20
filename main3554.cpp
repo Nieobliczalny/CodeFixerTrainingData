@@ -54,7 +54,7 @@ int main(int argc, char** argv) {
     short    UMRxoJF;
     UMRxoJF    =    2019359432;
     unsigned long long    B7o9q3Fs;
-    B7o9q3Fs    =    -1079282034;
+
   unsigned char  Dd_8Jn2;
   Dd_8Jn2  =  1763698071;
  unsigned long long GD678BJ9;
@@ -76,7 +76,7 @@ int main(int argc, char** argv) {
   unsigned int  c_TS60Ravc;
   c_TS60Ravc  =  24767060;
  long double PDPwqfI;
- PDPwqfI = 1168858764;
+
 	short int	Uhsb;
 	Uhsb	=	-788553922;
   float  k9kCfK_BDo;
@@ -88,7 +88,7 @@ int main(int argc, char** argv) {
   unsigned char  H69mNmNDl;
   H69mNmNDl  =  -1262334282;
   unsigned long  tnsw;
-  tnsw  =  -874903331;
+
 	short int	bGHK;
 	bGHK	=	1321302193;
  unsigned int x8vFu5wR;
@@ -104,7 +104,7 @@ int main(int argc, char** argv) {
  long i66_839k5;
  i66_839k5 = 909364409;
 	unsigned char	k6_UUD;
-	k6_UUD	=	1064238337;
+
 	float	Ss9y0FSV;
 	Ss9y0FSV	=	1631534915;
     int    Nro2VXS69g;
@@ -114,7 +114,7 @@ int main(int argc, char** argv) {
     unsigned long long    ncV2L;
     ncV2L    =    0;
     unsigned char    a9kQcBa961;
-    a9kQcBa961    =    1385341461;
+
 	unsigned short	j4cFx;
 	j4cFx	=	-626942625;
     long long    gNM_Y8nES7;
@@ -124,7 +124,7 @@ int main(int argc, char** argv) {
   unsigned char  z6Fjq_PNQ;
   z6Fjq_PNQ  =  0;
     unsigned short    bR2v98;
-    bR2v98    =    -829604966;
+
  unsigned char ohUunp;
  ohUunp = -1791538307;
 	long	Q4_6lQg;
@@ -142,7 +142,7 @@ int main(int argc, char** argv) {
 	long long	Ds_66gJ;
 	Ds_66gJ	=	344794440;
  long double EzXVF9;
- EzXVF9 = -1512053217;
+
     long    yD1bjC;
     yD1bjC    =    -1528060322;
  long long UA366n93Q;
@@ -164,7 +164,7 @@ int main(int argc, char** argv) {
  long pPnnHun6v;
  pPnnHun6v = -1000633444;
  unsigned short int B2cYR6uj;
- B2cYR6uj = -527408839;
+
 	unsigned char	eiteq6Qi;
 	eiteq6Qi	=	1885998081;
  unsigned short int pTF_m4mO4_;
@@ -183,7 +183,7 @@ int main(int argc, char** argv) {
 switch (Q4_6lQg)
 {
 case 'a':
-Dd_8Jn2 = e9auj2(cjw51T, 1145260776) | 332803699;
+
 break;
 case 'b':
 K00q ^= 2090552421;
@@ -198,7 +198,7 @@ default:
 gF8L3G = (int)ceil(apc_);
 break;
 }
-EzXVF9 = (int)floor(gF8L3G);
+
 switch (S72SOUT)
 {
 case 'a':
@@ -215,7 +215,7 @@ i66_839k5 = (int)abs(gF8L3G);
 break;
 case 'd':
 case 'D':
-x8vFu5wR = V36zc(1844162863);
+
 break;
 case 'e':
 case 'E':
@@ -239,7 +239,7 @@ try
 int j = 10;
 while (j >= 0)
 {
-PDPwqfI = (int)ceil(TWe_cL2hO);
+
 --j;
 }
 }
@@ -272,7 +272,7 @@ for (int i = 0; i < 3; i++)
 {
 if ((TWe_cL2hO <= PDPwqfI) && ((GhJdh7QT > 108247214) || (Uhsb <= H6dcuAS6C)))
 {
-EzXVF9 = n5n2 + 2128996788;
+
 }
 else if (ftaA >= a1TYec5z)
 {
@@ -341,7 +341,7 @@ int k = 0;
 do
 {
 k++;
-Vi_e_ttjL = (int)floor(VsIf1QEmlX);
+
 }
 while (k < 2);
 }
@@ -394,7 +394,7 @@ apc_ = (int)floor(YM5kq5);
 }
 else if (Uhsb & Ds_66gJ)
 {
-J5s966n7A = e9auj2(1584273839, 1748468785);
+
 }
 else if (eiteq6Qi >= 1666656892)
 {
@@ -412,7 +412,7 @@ else if ((os2Kfl1Z > 691716063) || (fJVv == z6Fjq_PNQ))
 {
 if ((qM9E & cjw51T) || (ncV2L == -94031324))
 {
-bGHK = (short int)(T6_X2uzhe);
+
 }
 }
 else if ((S72SOUT < -1514351227) || (apc_ > YP0rtRi3K))
@@ -453,7 +453,7 @@ if (((K00q > 1014479420) && (z6Fjq_PNQ != 1765033343)) || (i1zZ != H69mNmNDl))
 {
 if (Uhsb == 1227591462)
 {
-k6_UUD = (unsigned char)(ftaA);
+
 }
 else if (iDbD == -650580095)
 {
@@ -500,7 +500,7 @@ Wxa1J270 = V36zc(96605187);
 break;
 case 'f':
 case 'F':
-H6dcuAS6C >>= 521681703;
+
 break;
 default:
 ncV2L = z9Kb84(1865676702);
@@ -514,7 +514,7 @@ int k = 10;
 do
 {
 --k;
-PDPwqfI = (int)floor(VsIf1QEmlX);
+
 }
 while (k >= 0);
 }
@@ -526,7 +526,7 @@ int k = 0;
 do
 {
 k++;
-VsIf1QEmlX = (int)floor(PDPwqfI);
+
 }
 while (k < 8);
 }
@@ -548,7 +548,7 @@ Ss9y0FSV = o3_P522 | 1269963323;
 }
 }
 }
-xBPI2t2r4j = Rv18F__ / z9Kb84(eiteq6Qi);
+
 
 if (fJOx != -1150014155)
 {
@@ -582,7 +582,7 @@ if (z6Fjq_PNQ == -1271630116)
 {
 if (yD1bjC <= 158867829)
 {
-Rv18F__ = (unsigned short)(i66_839k5);
+
 }
 }
 K00q = (short int)(NcSXhQttR);
@@ -605,7 +605,7 @@ KdEea8Y_3h = GdeX_();
 }
 else
 {
-VsIf1QEmlX = e9auj2(KdEea8Y_3h, 457505173) % fJOx;
+
 }
 }
 }

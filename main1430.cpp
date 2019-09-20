@@ -69,7 +69,7 @@ std::cout << AiOC(D2SPwk, bE3Ah, -228444253, O_Y5104) << "lXVuzmvv" << std::endl
 }
 else
 {
-bNvSyN36T3 = (uAFw < JoV1GgyKJ) ? V9gY1j5Z : b10r25H;
+
 }
 }
 Ua4_3f058 = (short)(b10r25H * Ua4_3f058);
@@ -267,7 +267,7 @@ i++;
 }
 while (i < 1);
 }
-q5E6 = (I0F31H != 152717251) ? 1524157044 : rCo2P40;
+
 
 for (int i = 2; i >= 0; i--)
 {
@@ -349,7 +349,7 @@ bNvSyN36T3 /= 1287234233;
 switch (GFa6z)
 {
 case 0:
-b10r25H = uAFw * 1860581431;
+
 break;
 }
 {
@@ -393,7 +393,7 @@ while (j < 7);
 while (i < 9);
 }
 
-C7wGkg8 = GFa6z + AD5QrT0;
+
 std::cout << R16Z6Y << "oU2_mRF" << GFa6z << q5E6 << Ua4_3f058 << std::endl;
 return 0;
 }

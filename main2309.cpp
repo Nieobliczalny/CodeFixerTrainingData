@@ -249,7 +249,7 @@ HaQ_v8S = (unsigned char)(VKkJA_glK + (-1328432268));
 int i = 0;
 do
 {
-v2_LlG = (unsigned long)(q1v4n1w6j);
+
 ++i;
 }
 while (i < 4);
@@ -268,7 +268,7 @@ case 0:
 q1v4n1w6j = O_K7(NclJ3, q1v4n1w6j, -391908068);
 break;
 case 1:
-v2_LlG = O_K7(-94850117, 182440673, q1v4n1w6j);
+
 break;
 case 2:
 HaQ_v8S = HaQ_v8S << 634975609;

@@ -85,7 +85,7 @@ DKiYGphprZ = NBn1xO(1202209888, g96d04oCb);
 break;
 case 'f':
 case 'F':
-S_BN1oEq_ = lMAZH << XKKH31NX;
+
 break;
 case 'g':
 case 'G':
@@ -257,7 +257,7 @@ case 'h':
 kJ_huJQ_8 = MhQNO1l_ % g96d04oCb;
 break;
 case 'i':
-LLP2l = Ml42O8h(C9nsNz, LEsH, 174419717, LJhr6w6) + X9_tu;
+
 break;
 }
 }
@@ -346,7 +346,7 @@ case 1:
 u_X_jK58D = GrF4();
 break;
 case 2:
-GA67xu4 ^= ho9mkgm1;
+
 break;
 case 3:
 ffefnRc = N1344(ffefnRc, -1777787481);
@@ -389,7 +389,7 @@ int k = 0;
 do
 {
 ++k;
-qIJc = UhO2XQI ^ 1271262525;
+
 }
 while (k < 9);
 }
@@ -431,7 +431,7 @@ else if ((yy__3_08m) || (T88IwYh6X <= JmSh4B))
 {
 if (GTwo & 1971378528)
 {
-T5ibUt /= 1227668167;
+
 }
 }
 else if (((FswLv2094 < Mkcgd9wp) || (Oy6T >= 1963317922)) || (dYV4g_s9 <= -119232236))
@@ -454,7 +454,7 @@ u6csR = Xrd_u85uc(ho9mkgm1, u6csR);
 }
 else if (X9_tu)
 {
-jPW56 >>= 1937401506;
+
 }
 else
 {
@@ -496,7 +496,7 @@ a6hs46 = Xrd_u85uc(X9_tu, GTwo);
 break;
 case 'e':
 case 'E':
-Y_qGmCNby = K_m165 % 764789604;
+
 break;
 case 'f':
 case 'F':
@@ -512,7 +512,7 @@ cg0C = V_59fl & C9nsNz;
 break;
 case 'i':
 case 'I':
-X4_VU_46o = N1344(X4_VU_46o, 803333288);
+
 break;
 case 'j':
 case 'J':
@@ -553,7 +553,7 @@ case 2:
 kJ_huJQ_8 = Ml42O8h(567322689, y2l85J6RgY, 1099734195, 533629841);
 break;
 case 3:
-q_J1 = K1Uwcr * pT4Z25y5pA;
+
 break;
 case 4:
 LLP2l = Ml42O8h(LLP2l, JmSh4B, 701881467, kxw0RaHvBr);
@@ -632,7 +632,7 @@ case 2:
 K1Uwcr++;
 break;
 case 3:
-jPW56 = N1344(867523397, D26cm);
+
 break;
 case 4:
 q78s = N1344(q78s, 483692377);
@@ -661,7 +661,7 @@ case 0:
 XKKH31NX = NBn1xO(1275027483, -531413378);
 break;
 case 1:
-UhO2XQI = pT4Z25y5pA * D26cm;
+
 break;
 case 2:
 Net6 = Ml42O8h(1715174782, a_xaJBhW, T88IwYh6X, ffefnRc);
@@ -682,7 +682,7 @@ case 7:
 kzAU8b6 ^= JmSh4B;
 break;
 case 8:
-GA67xu4 = PA5Y412 + a6hs46;
+
 break;
 case 9:
 jz1Ig = Au39t3 * DKiYGphprZ;
@@ -700,7 +700,7 @@ j++;
 switch (pT4Z25y5pA)
 {
 case 0:
-wuv_IB = N1344(wuv_IB, 2075624235);
+
 break;
 case 1:
 S_BN1oEq_ = N1344(-1447346316, yy__3_08m);
@@ -712,7 +712,7 @@ break;
 switch (T88IwYh6X)
 {
 case 0:
-DI_3v = Ml42O8h(803937561, DI_3v, -1372837225, U89L8vjPx2);
+
 break;
 case 1:
 LEsH &= 1470789395;
@@ -724,7 +724,7 @@ case 3:
 u6csR = Xrd_u85uc(-1533200389, 159758849);
 break;
 case 4:
-Xlz_8_e43W -= D0wP;
+
 break;
 case 5:
 XKKH31NX = T8l5CQ2K47 ^ Mkcgd9wp;
@@ -740,7 +740,7 @@ std::cout << LEsH << "k9YjFCOI" << std::endl;
 
 if (S_BN1oEq_ < 1804701125)
 {
-IdYK = YQZt >> Oy6T;
+
 }
 return 0;
 }

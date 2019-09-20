@@ -21,7 +21,7 @@ int main()
     int    DdBoqO0bJX;
     DdBoqO0bJX    =    495244785;
   unsigned long  Wuandv6;
-  Wuandv6  =  1536680371;
+
   unsigned short int  or0_U;
   or0_U  =  1980747134;
     unsigned short int    Es0fx2_g5;
@@ -43,7 +43,7 @@ int main()
  unsigned short kAz2;
  kAz2 = -1762263954;
     unsigned short    hP8O1;
-    hP8O1    =    1611926940;
+
  unsigned long vjrb3;
  vjrb3 = 0;
 	long double	o2S4o;
@@ -65,7 +65,7 @@ int main()
  char Pe45Ox5;
  Pe45Ox5 = 915401475;
     short    D1szNY0yq;
-    D1szNY0yq    =    -1671278808;
+
   unsigned int  Xi76;
   Xi76  =  975599873;
 	unsigned char	F6yG;
@@ -79,7 +79,7 @@ int main()
  long long Z7z8;
  Z7z8 = -785408853;
   short int  KhZO1J_n;
-  KhZO1J_n  =  -913377770;
+
     long long    Hi8S_xbJv;
     Hi8S_xbJv    =    1753826370;
  char F4nOScSNV;
@@ -95,7 +95,7 @@ int main()
     float    dAkTF6z9a;
     dAkTF6z9a    =    112468080;
     char    XF_jca2Up;
-    XF_jca2Up    =    1866515709;
+
 	unsigned long long	aVXP09;
 	aVXP09	=	-164303180;
 
@@ -115,7 +115,7 @@ EEA0x0LO1 |= XyBSPFQ4ep;
 }
 if (((Z4c0X_7k >= A664cMw) && (GQEi7 >= AeM7_Qa)) || ((pgPa_j) && (F6yG < FQTAuJRI)))
 {
-D1szNY0yq = (short)(YioU1LvP8);
+
 }
 AFkZy_rB ^= kAz2;
 F4nOScSNV = K1T3eC9(Es0fx2_g5, Vd6Vh7, 30723516, NpG_u) ^ XyBSPFQ4ep;
@@ -130,7 +130,7 @@ if (Hi8S_xbJv >= j81MoOcLi)
 switch (NpG_u)
 {
 case 0:
-dAkTF6z9a = (int)ceil(dG_7);
+
 break;
 case 1:
 vjrb3 = K1T3eC9(1812982970, CuHiiY2I6A, 1463508700, 72243074);
@@ -145,7 +145,7 @@ case 4:
 e4Do948 = (dAkTF6z9a == SYPA3FoeN) ? K1T3eC9(Pe45Ox5, -595397130, GQEi7, pgPa_j) : -1473751502;
 break;
 case 5:
-vjrb3 = K1T3eC9(CuHiiY2I6A, -277349339, 2117287608, Hi8S_xbJv);
+
 break;
 case 6:
 o2S4o = (int)ceil(dG_7);
@@ -159,7 +159,7 @@ else
 {
 for (int j = 0; j < 2; ++j)
 {
-o2S4o = (int)ceil(dG_7);
+
 }
 }
 std::cout << xv8P8Z << EEA0x0LO1 << K1T3eC9(CuHiiY2I6A, -677584771, B8qeRJ1, Hi8S_xbJv) << K1T3eC9(CuHiiY2I6A, Es0fx2_g5, B8qeRJ1, -458018932) << std::endl;
@@ -173,7 +173,7 @@ else if (GQEi7 == Vd6Vh7)
 {
 if (FQTAuJRI > j81MoOcLi)
 {
-o2S4o = (int)floor(dG_7);
+
 }
 else
 {
@@ -196,7 +196,7 @@ catch (int& errorCode)
 {
 xv8P8Z %= 563744766;
 }
-e4Do948 <<= B8qeRJ1;
+
 for (int i = 1; i >= 0; i--)
 {
 if (((Z7z8 != NZf9_Z_m9Y) && (v43YE <= t_l3e)) && ((Z4c0X_7k) || (EEA0x0LO1)))
@@ -206,7 +206,7 @@ int k = 0;
 while (k < 10)
 {
 ++k;
-NpG_u = (int)abs(GQEi7);
+
 }
 }
 }

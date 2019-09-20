@@ -25,7 +25,7 @@ int main(int argc, char** argv) {
  float z13izN;
  z13izN = 573971302;
     unsigned short int    KePZT24Owa;
-    KePZT24Owa    =    1267914630;
+
 	long	e8y62;
 	e8y62	=	-1829303527;
 	int	zSLmDS9yA;
@@ -43,7 +43,7 @@ int main(int argc, char** argv) {
   unsigned long long  MYw5FhK5R;
   MYw5FhK5R  =  -89136526;
  float ti_iue;
- ti_iue = -417831232;
+
   unsigned short  pU33;
   pU33  =  -691284659;
  unsigned short int mGEB;
@@ -53,7 +53,7 @@ int main(int argc, char** argv) {
     unsigned short    JJMOr80;
     JJMOr80    =    -530564686;
 	long long	Z_1N_y;
-	Z_1N_y	=	-1980802898;
+
   unsigned long  oLJNjJvd65;
   oLJNjJvd65  =  -2017863809;
 	int	j3oTjR;
@@ -85,7 +85,7 @@ int main(int argc, char** argv) {
     unsigned char    V0eL4;
     V0eL4    =    -1711494389;
   double  V4XAc;
-  V4XAc  =  1364334156;
+
 	char	qsFUu;
 	qsFUu	=	537588203;
     unsigned long long    xS4ch;
@@ -252,7 +252,7 @@ catch (int& errorCode)
 {
 o7C9_YDfE = (int)abs(q1eeND);
 }
-hcTK1NkL >>= 552295429;
+
 Cy35N5PM2 = (short int)(OAS2 + (-1834642960));
 {
 int i = 0;
@@ -306,7 +306,7 @@ case 'f':
 kcTCGGRr6 = (int)floor(R0CPRQ_2CI);
 break;
 case 'g':
-rze5p79W >>= Cy35N5PM2;
+
 break;
 case 'h':
 Z_1N_y = (int)abs(h_Av);
@@ -330,7 +330,7 @@ mGEB <<= 1736799220;
 break;
 case 'c':
 case 'C':
-p29s8 = u_O8Z1ba + pup0;
+
 break;
 case 'd':
 case 'D':
@@ -358,7 +358,7 @@ AGmScL0 = Wtg44() - 1388306342;
 break;
 case 'c':
 case 'C':
-p29s8 = Wtg44() + 193274461;
+
 break;
 case 'd':
 case 'D':
@@ -379,7 +379,7 @@ cout << Wtg44() << Wtg44() << "MKXf84C" << Wtg44() << Z_1N_y << endl;
 }
 else
 {
-V4XAc = (int)ceil(q1eeND);
+
 }
 i--;
 }
@@ -396,7 +396,7 @@ cout << R_26B476_4 << endl;
 
 xS4ch = Wtg44();
 
-k770cgOM_ *= 264235180;
+
 
 h8IKO5YE = (unsigned int)(qsFUu);
 try
@@ -424,7 +424,7 @@ if ((zSLmDS9yA != -1401603750) && (oZO_wz6))
 {
 if (k2qTff < 2119218156)
 {
-ti_iue = (int)floor(pup0);
+
 }
 }
 else if (AGmScL0 >= q1eeND)
@@ -439,7 +439,7 @@ xS4ch = Wtg44();
 }
 else
 {
-kcTCGGRr6 += 1312563231;
+
 }
 if (Qz5864lg <= -368061546)
 {
@@ -452,7 +452,7 @@ int k = 1;
 do
 {
 k--;
-kcTCGGRr6 = (int)ceil(q1eeND);
+
 }
 while (k >= 0);
 }
@@ -469,7 +469,7 @@ do
 j++;
 for (int k = 0; k < 6; ++k)
 {
-z13izN = (int)ceil(pup0);
+
 }
 }
 while (j < 4);
@@ -479,7 +479,7 @@ else
 {
 try
 {
-h_Av <<= 559309869;
+
 }
 catch (int& errorCode)
 {

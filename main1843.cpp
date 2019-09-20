@@ -80,7 +80,7 @@ int main(void)
   long long  cQd6q  =  -1261611826;
     double    qjv3PewNkx    =    -1222352753;
 
-U39vdQK = -1177573831 / eq4r;
+
 
 return 0;
 }

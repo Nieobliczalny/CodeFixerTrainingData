@@ -599,7 +599,7 @@ do
 --j;
 for (int k = 7; k >= 0; k--)
 {
-SVr2Z0di = (int)abs(ggL450H);
+
 }
 }
 while (j >= 0);
@@ -646,7 +646,7 @@ catch (int& errorCode)
 {
 VX2xS_ += 1907006760;
 }
-XEpL = VX2xS_ >> ggL450H;
+
 
 return 0;
 }

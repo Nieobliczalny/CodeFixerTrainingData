@@ -49,7 +49,7 @@ int main()
 	unsigned long long	Mi7ku_1iTk;
 	Mi7ku_1iTk	=	1284440129;
 	unsigned char	m_L8CDfJ;
-	m_L8CDfJ	=	-501080023;
+
   long double  u87an3D9;
   u87an3D9  =  -35264316;
   unsigned char  q00N;
@@ -75,7 +75,7 @@ int main()
   unsigned long long  Ui6KOnk4Av;
   Ui6KOnk4Av  =  -1631373499;
     short int    l4018n7pn_;
-    l4018n7pn_    =    710874951;
+
   char  Q93cwrq;
   Q93cwrq  =  361294398;
  float uiFm66lEgH;
@@ -103,7 +103,7 @@ int main()
  unsigned long V_aW9dv;
  V_aW9dv = 1865438615;
     long double    qB3Y_M;
-    qB3Y_M    =    -1254157330;
+
  float a9aW;
  a9aW = 298452660;
     unsigned char    Dcjsp7B;
@@ -115,7 +115,7 @@ int main()
 	unsigned short	zi2f3w;
 	zi2f3w	=	1331193176;
     unsigned long long    MZUaTwY_;
-    MZUaTwY_    =    -1361500232;
+
   long  tzwX6sa0H5;
   tzwX6sa0H5  =  -1496074440;
  unsigned long a8OR_90G;
@@ -129,7 +129,7 @@ int main()
     short int    wq3r_82_rG;
     wq3r_82_rG    =    1542600371;
     unsigned short int    FE3_7ZrQ;
-    FE3_7ZrQ    =    -415174805;
+
   short  pG8nQ0j2f8;
   pG8nQ0j2f8  =  1536865322;
 	short int	UoM1D99Qd;
@@ -192,7 +192,7 @@ try
 {
 try
 {
-j6H51y1n += UR95Y;
+
 }
 catch (int& errorCode)
 {
@@ -220,7 +220,7 @@ if ((enpO31_30) && (Fmog <= xNe0h3P))
 {
 try
 {
-Z3_rYh = (int)floor(EhiBfUL7);
+
 }
 catch (int& errorCode)
 {
@@ -235,7 +235,7 @@ tZcfTwl0_ = xVS6Nie8MQ(1515145446, vh6UDm7e9);
 }
 else
 {
-EhiBfUL7 = (int)ceil(u87an3D9);
+
 }
 }
 }
@@ -272,7 +272,7 @@ else
 {
 std::cout << "zxb1" << "IlB97RmUP" << std::endl;
 }
-enpO31_30 = (int)abs(bG5AFs);
+
 
 s4XLoG1 = (long long)(a9aW);
 Z3_rYh = (double)(u87an3D9);
@@ -303,7 +303,7 @@ else
 {
 if (AzV4AV879 < xNe0h3P)
 {
-t8323gG_L = (float)(j9lJ4);
+
 }
 else if (t8323gG_L <= eNQw)
 {
@@ -320,7 +320,7 @@ case 0:
 wq3r_82_rG >>= 1519706760;
 break;
 case 1:
-tzwX6sa0H5 = W2O1S6(tzwX6sa0H5, -934311378, -6578341, Gf39k);
+
 break;
 case 2:
 j9lJ4 = xVS6Nie8MQ(j9lJ4, t8323gG_L);
@@ -332,7 +332,7 @@ case 4:
 g0ih >>= E1Gy;
 break;
 case 5:
-tzwX6sa0H5 = (int)abs(priz);
+
 break;
 default:
 EhiBfUL7 = (int)floor(a9aW);
@@ -353,7 +353,7 @@ do
 {
 if (Fmog != xNe0h3P)
 {
-A1x9CWf_R8 = L24mRj8(TbVK, Mi7ku_1iTk, Ui6KOnk4Av);
+
 }
 ++i;
 }

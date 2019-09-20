@@ -53,7 +53,7 @@ JDoUT0j = H40jPnL(-1935054444, c4rDM164_c, A4smU);
 switch (A4smU)
 {
 case 0:
-JDoUT0j = (int)abs(OFDG132);
+
 break;
 case 1:
 c4rDM164_c ^= OFDG132;
@@ -74,7 +74,7 @@ case 6:
 c4rDM164_c = (int)abs(OFDG132);
 break;
 case 7:
-JDoUT0j *= c4rDM164_c;
+
 break;
 case 8:
 c4rDM164_c >>= OFDG132;
@@ -288,7 +288,7 @@ int i = 0;
 while (i < 10)
 {
 i++;
-JDoUT0j = (int)ceil(fQC01v);
+
 }
 }
 JDoUT0j = (float)(c4rDM164_c);
@@ -360,7 +360,7 @@ fQC01v = H40jPnL(fQC01v, 1294996507, c4rDM164_c);
 break;
 }
 
-JDoUT0j = H40jPnL(A4smU, JDoUT0j, c4rDM164_c);
+
 
 fQC01v = H40jPnL(-1275756966, -1615369779, 1188142783);
 
@@ -576,7 +576,7 @@ else if (OFDG132 != 1812962514)
 switch (A4smU)
 {
 case 0:
-OFDG132 = (int)abs(JDoUT0j);
+
 break;
 case 1:
 fQC01v = (int)ceil(JDoUT0j);
@@ -600,7 +600,7 @@ case 7:
 A4smU = R7OAFfzKl(-1130994368);
 break;
 case 8:
-JDoUT0j = (int)floor(fQC01v);
+
 break;
 }
 }
@@ -610,7 +610,7 @@ try
 {
 if ((OFDG132 < 1460701470) && ((A4smU > 119506226) && (A4smU <= -1875717927)))
 {
-JDoUT0j = R7OAFfzKl(1811586510) ^ OFDG132;
+
 }
 else
 {
@@ -636,7 +636,7 @@ A4smU = R7OAFfzKl(fQC01v);
 break;
 case 'c':
 case 'C':
-OFDG132 += 9890302;
+
 break;
 case 'd':
 case 'D':
@@ -648,7 +648,7 @@ OFDG132 = A4smU & c4rDM164_c;
 break;
 case 'f':
 case 'F':
-OFDG132 = JDoUT0j - 1558851163;
+
 break;
 case 'g':
 case 'G':

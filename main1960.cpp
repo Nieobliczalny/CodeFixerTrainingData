@@ -34,7 +34,7 @@ if (OuXzQ >= INi1gd)
 switch (l01sgJ)
 {
 case 0:
-dMx27 = WY23(dMx27, 821930081, -1725301550);
+
 break;
 case 1:
 dMx27 = dMx27 | 1025506319;
@@ -46,7 +46,7 @@ case 3:
 l01sgJ = t2c3rXGE(l01sgJ, G5HA_4, 751427309);
 break;
 case 4:
-d4oOMrK = t2c3rXGE(fj9C, d4oOMrK, hztN0XNCpy);
+
 break;
 default:
 bczeU0O = dMx27 / A8IiG0fYsi;
@@ -58,7 +58,7 @@ for (int i = 2; i >= 0; i--)
 {
 f5_48Il7 += 629333245;
 }
-fj9C = (int)abs(K2r_Nq);
+
 h5SuA3 = v1R_(-446614484) / I9GxI;
 
 for (int i = 0; i < 2; ++i)
@@ -71,7 +71,7 @@ case 0:
 hb2YNj80ns >>= Td701uC;
 break;
 case 1:
-w7L0ZLG = WY23(371825879, -514547652, dYLu3F);
+
 break;
 case 2:
 bczeU0O ^= 2069429210;
@@ -83,7 +83,7 @@ case 4:
 h5SuA3 = WY23(h5SuA3, I9GxI, fL_6sS);
 break;
 case 5:
-X7Z8 = WY23(-188896269, -233587760, -108409188);
+
 break;
 case 6:
 WJUe20SzUT = t2c3rXGE(WJUe20SzUT, -1696408773, 2032227993);
@@ -100,7 +100,7 @@ lwkAVi = TWIQQSc5V / yuc81m;
 
 if (fL_6sS > 1795288598)
 {
-EMTcwj5 += bczeU0O;
+
 }
 return 0;
 }

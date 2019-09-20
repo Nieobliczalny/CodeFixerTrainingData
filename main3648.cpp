@@ -35,7 +35,7 @@ int main()
   long  jbMOC0QJ;
   jbMOC0QJ  =  1615715167;
 	long double	sG5Jz94Z;
-	sG5Jz94Z	=	108939576;
+
     unsigned long    yjjp_;
     yjjp_    =    340240081;
     unsigned short    KDv_;
@@ -45,7 +45,7 @@ int main()
     short int    rEO48;
     rEO48    =    1241688870;
  unsigned short int PeIWFlD;
- PeIWFlD = -1823886593;
+
  unsigned short int EoT4h;
  EoT4h = 0;
     float    erT45;
@@ -73,7 +73,7 @@ int main()
   double  K6k3_4tTOZ;
   K6k3_4tTOZ  =  -93198695;
  unsigned long long aI82;
- aI82 = -389099324;
+
   unsigned char  PCJ31A3_5;
   PCJ31A3_5  =  1059320032;
     short    BqBVicM43;
@@ -148,7 +148,7 @@ tj_QS = (int)floor(K6k3_4tTOZ);
 }
 else if (K8y8 > kEX2q1)
 {
-sG5Jz94Z = (int)floor(G_7n);
+
 }
 else if (xyU6j0 <= bCkT_6ABX7)
 {
@@ -174,7 +174,7 @@ case 1:
 ZgN3Hio0SF = woia_29Cw(2016807898);
 break;
 case 2:
-txelJg_8 = (int)abs(q83x_two);
+
 break;
 case 3:
 q83x_two = (int)abs(erT45);
@@ -515,7 +515,7 @@ case 5:
 erT45 = (int)abs(BqBVicM43);
 break;
 case 6:
-yzuO8 = yjjp_ & 116815500;
+
 break;
 }
 ++i;
@@ -580,7 +580,7 @@ if ((q83x_two != -1868126114) && ((PeIWFlD == q83x_two) || (QtQIVW5Z > 863675854
 {
 try
 {
-ZdVJ2s <<= 1583382152;
+
 }
 catch (int& errorCode)
 {
@@ -641,7 +641,7 @@ sG5Jz94Z = (int)floor(erT45);
 break;
 }
 }
-aI82 = (unsigned long long)(q83x_two);
+
 Eqab++;
 
 for (int i = 6; i >= 0; --i)
@@ -655,7 +655,7 @@ case 'b':
 I06PJtuW7E = EoT4h + 164352995;
 break;
 case 'c':
-ZgN3Hio0SF = woia_29Cw(QtQIVW5Z);
+
 break;
 case 'd':
 G_7n = (int)floor(Y4_rZ_Fd);
@@ -667,7 +667,7 @@ case 'f':
 ZgN3Hio0SF = woia_29Cw(Y4_rZ_Fd);
 break;
 case 'g':
-wux4asbe = PCJ31A3_5 & 345162904;
+
 break;
 case 'h':
 KDv_ = woia_29Cw(-693124293);

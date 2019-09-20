@@ -16,7 +16,7 @@ int main(int argc, char** argv)
 	int	Xscs5;
 	Xscs5	=	1156680757;
 	unsigned char	vJ9Z;
-	vJ9Z	=	-1812569890;
+
  short int zvpKFr;
  zvpKFr = -169232564;
   long long  Zz9_;
@@ -34,7 +34,7 @@ int main(int argc, char** argv)
   unsigned int  aU7_;
   aU7_  =  1518420610;
 	long long	divciEE6k8;
-	divciEE6k8	=	740730300;
+
 	unsigned short int	n79cd;
 	n79cd	=	-2081209115;
   float  L3Uxw35x32;
@@ -46,7 +46,7 @@ int main(int argc, char** argv)
  unsigned short Lu0xCIOS;
  Lu0xCIOS = -901370863;
 	char	RHv7kvJs;
-	RHv7kvJs	=	-1272283222;
+
   long double  k5_75Bo_2y;
   k5_75Bo_2y  =  2089429203;
  int TEd_;
@@ -56,7 +56,7 @@ int main(int argc, char** argv)
     long    sByn;
     sByn    =    1141206512;
  double m2ma0DcE;
- m2ma0DcE = -1658227629;
+
   short int  HJMWrw19Z;
   HJMWrw19Z  =  746406791;
     long double    P6184;
@@ -68,7 +68,7 @@ int main(int argc, char** argv)
     long double    efeo;
     efeo    =    -1354070691;
   unsigned long  GIAZ0;
-  GIAZ0  =  267468384;
+
 	unsigned char	mvIgxDH90C;
 	mvIgxDH90C	=	-1502780099;
 	unsigned int	gT48w;
@@ -80,7 +80,7 @@ int main(int argc, char** argv)
     long long    LFM0HN1aKb;
     LFM0HN1aKb    =    -439092371;
  unsigned long l8iK;
- l8iK = 0;
+
   unsigned short  VDqt;
   VDqt  =  -1211338971;
   char  FRzeXbtf6;
@@ -90,7 +90,7 @@ int main(int argc, char** argv)
 	long double	vXu8g;
 	vXu8g	=	-1900451555;
   short  pgzf;
-  pgzf  =  16233722;
+
 	short	fZe9p;
 	fZe9p	=	0;
  unsigned long ZvVU;
@@ -106,7 +106,7 @@ int main(int argc, char** argv)
     unsigned short int    GrH4;
     GrH4    =    -856763633;
  unsigned short ICfY9VtO8;
- ICfY9VtO8 = 552344084;
+
     unsigned short int    vhK8G3_;
     vhK8G3_    =    -128211908;
 	unsigned long long	n0HJ;
@@ -164,7 +164,7 @@ int k = 0;
 do
 {
 ++k;
-l8iK = RpSCRrvJMZ(c7_5p7avk, -881613372);
+
 }
 while (k < 4);
 }
@@ -205,7 +205,7 @@ while (j < 8)
 int k = 8;
 do
 {
-m2ma0DcE = (int)abs(vXu8g);
+
 k--;
 }
 while (k >= 0);
@@ -245,7 +245,7 @@ while (i >= 0);
 int i = 0;
 do
 {
-ICfY9VtO8 = (unsigned short)(U5A6e06buT);
+
 ++i;
 }
 while (i < 5);
@@ -264,7 +264,7 @@ HWV39732 *= znR6eihjOv;
 
 if ((FRzeXbtf6 < 1026791701) && (Lu0xCIOS))
 {
-ASaF44L1Hm = (unsigned short)(Lu0xCIOS);
+
 }
 else
 {
@@ -300,7 +300,7 @@ std::cout << RpSCRrvJMZ(J_AX, 2066805788) << "sk_pR78jMh" << std::endl;
 }
 else
 {
-m2ma0DcE = (int)floor(E_3PDi);
+
 }
 i--;
 }
@@ -313,7 +313,7 @@ Lu0xCIOS = VDqt / fZe9p;
 int i = 0;
 do
 {
-l8iK = RpSCRrvJMZ(U5A6e06buT, -1530846835);
+
 ++i;
 }
 while (i < 8);
@@ -331,7 +331,7 @@ else
 int k = 5;
 do
 {
-l8iK = RpSCRrvJMZ(374654434, -76285448);
+
 --k;
 }
 while (k >= 0);

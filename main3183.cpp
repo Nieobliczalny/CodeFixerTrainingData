@@ -18,7 +18,7 @@ switch (dK3Tw)
 {
 case 'a':
 case 'A':
-Wnbk = (int)abs(dK3Tw) + (1331582291);
+
 break;
 case 'b':
 case 'B':
@@ -97,7 +97,7 @@ j_bLuqad *= j_bLuqad;
 
 Wnbk = (j_bLuqad <= -450587952) ? 1747118353 : 1861031906;
 
-dK3Tw = (int)(j_bLuqad * dK3Tw);
+
 ITvYBMNHP5 = (int)ceil(Wnbk);
 return 0;
 }

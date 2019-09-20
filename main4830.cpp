@@ -29,7 +29,7 @@ int main(void)
   long long  OR6y8w4Y_N;
   OR6y8w4Y_N  =  1877916343;
  short int GLnKZ6;
- GLnKZ6 = 431359800;
+
   short  ZID30;
   ZID30  =  5016586;
  double ia9R51;
@@ -55,7 +55,7 @@ int main(void)
   short  Rh8Z;
   Rh8Z  =  -1384681729;
   unsigned int  DGpih;
-  DGpih  =  1411003237;
+
   unsigned long long  rgiI;
   rgiI  =  -1468734023;
   unsigned short int  y480H6vt2a;
@@ -69,7 +69,7 @@ int main(void)
   unsigned char  Lj_3p;
   Lj_3p  =  2070457496;
 	long long	wmsAf7C4FN;
-	wmsAf7C4FN	=	-1887558694;
+
  long double V4L6aY6e7;
  V4L6aY6e7 = 279035889;
     unsigned short    niL_94v_;
@@ -81,7 +81,7 @@ int main(void)
     short    Q88_gPdkk;
     Q88_gPdkk    =    1826211526;
     unsigned char    oN5Fr6h_I;
-    oN5Fr6h_I    =    1133813855;
+
   unsigned long  l2HCaZ1b;
   l2HCaZ1b  =  0;
  long C4KM9J201;
@@ -95,7 +95,7 @@ int main(void)
   unsigned int  KGm8y6qUsA;
   KGm8y6qUsA  =  1291992569;
   unsigned short int  M9ge;
-  M9ge  =  1460123557;
+
     short    TuEII;
     TuEII    =    -754182365;
   long  c8rFsT3;
@@ -109,7 +109,7 @@ int main(void)
     unsigned short    PImNG8;
     PImNG8    =    -1003674466;
   unsigned long long  TDmi4;
-  TDmi4  =  55472944;
+
  unsigned int awkKi;
  awkKi = -958906560;
  unsigned char BZ1PTLrz17;
@@ -282,7 +282,7 @@ try
 switch (ZID30)
 {
 case 'a':
-uSOwS7eEN5 = yw05pN7tB(901451596, c8rFsT3, sVbPs25dG, BZ1PTLrz17);
+
 break;
 case 'b':
 m56b_7ON <<= 1628254336;
@@ -294,7 +294,7 @@ case 'd':
 O_6l = (int)ceil(ia9R51);
 break;
 case 'e':
-h_1Go8Aic9 = yw05pN7tB(h_1Go8Aic9, PImNG8, TuEII, Lr99322);
+
 break;
 case 'f':
 W68ma080 = (int)floor(O_6l);
@@ -334,7 +334,7 @@ while (k < 5);
 }
 
 V4L6aY6e7 = BQ0wPC / l2HCaZ1b;
-Rh8Z = KGm8y6qUsA % 560332552;
+
 c8rFsT3 = ar4YywaLbn(678065871, TuEII, PImNG8, -2035372174);
 
 try
@@ -372,7 +372,7 @@ switch (Lj_3p)
 {
 case 'a':
 case 'A':
-X4Co0I8N = IfEd3E8U & 871507824;
+
 break;
 case 'b':
 case 'B':
@@ -384,7 +384,7 @@ O_6l = (int)ceil(W68ma080);
 break;
 case 'd':
 case 'D':
-mW0s = U9Dcmt_ * 1047004637;
+
 break;
 case 'e':
 case 'E':
@@ -396,7 +396,7 @@ GOn5q2 %= TKOW5;
 break;
 case 'g':
 case 'G':
-bZd6mf = (int)abs(yf4dMcgu60);
+
 break;
 case 'h':
 case 'H':

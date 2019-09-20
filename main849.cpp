@@ -17,7 +17,7 @@ using std::floor;
 
 int main(void) {
     float    N91LeB4;
-    N91LeB4    =    1427212562;
+
  short XQ49762;
  XQ49762 = 660547426;
   unsigned long  RKqj;
@@ -27,7 +27,7 @@ int main(void) {
 	unsigned short	NvIfo3WA;
 	NvIfo3WA	=	-393831974;
  short myStCjokR;
- myStCjokR = 1203927652;
+
   short  agOBHrMrE;
   agOBHrMrE  =  992713938;
     int    kzL9;
@@ -37,7 +37,7 @@ int main(void) {
   unsigned long  rT4e5L8;
   rT4e5L8  =  35121985;
 	short int	OT4JV;
-	OT4JV	=	1742958687;
+
 	short	Xzdh3lz;
 	Xzdh3lz	=	2010406958;
  unsigned char LDb8tIM;
@@ -47,7 +47,7 @@ int main(void) {
  char Py5J1616;
  Py5J1616 = 506464407;
 	long	u539;
-	u539	=	-1720321239;
+
 	short	C4_73;
 	C4_73	=	-1026122126;
   long double  p4Eh;
@@ -57,7 +57,7 @@ int main(void) {
     short    ii6j;
     ii6j    =    -805298088;
     unsigned long    I5yNr;
-    I5yNr    =    -1510791225;
+
     char    zXO5ukh8M7;
     zXO5ukh8M7    =    829269921;
 	unsigned int	IG_B;
@@ -67,7 +67,7 @@ int main(void) {
   unsigned long long  j295qGk;
   j295qGk  =  1961754077;
 	double	XSGD;
-	XSGD	=	1148767417;
+
 	long	Z5z088l;
 	Z5z088l	=	-1496655479;
     unsigned int    q6JEiDaI;
@@ -77,7 +77,7 @@ int main(void) {
  unsigned short int zT76HD30_4;
  zT76HD30_4 = -506050512;
 	char	A28EN;
-	A28EN	=	0;
+
   double  KnJSFlJc;
   KnJSFlJc  =  -416955649;
     unsigned char    UcNi1;
@@ -89,7 +89,7 @@ int main(void) {
   char  HOqpE8Aq2;
   HOqpE8Aq2  =  0;
  int xMHS;
- xMHS = 848327247;
+
 	long double	GUM174wPW;
 	GUM174wPW	=	1634428053;
   unsigned long  n72iKJn9;
@@ -99,7 +99,7 @@ int main(void) {
   long double  g38_;
   g38_  =  -325186067;
   long double  VVh7v0d5_M;
-  VVh7v0d5_M  =  385828389;
+
  short int u4YKt2UtZ5;
  u4YKt2UtZ5 = -1483712323;
  long double Kt96;
@@ -109,7 +109,7 @@ int main(void) {
   int  jky_9o;
   jky_9o  =  -598464898;
     char    M6r8;
-    M6r8    =    -1054223074;
+
     unsigned long long    Z63HT;
     Z63HT    =    0;
  unsigned char buC6uL__3q;
@@ -119,7 +119,7 @@ int main(void) {
 	unsigned long long	mlt6u;
 	mlt6u	=	480511314;
     long    DuX3p7;
-    DuX3p7    =    -1896997632;
+
   double  qhL7I00Xg;
   qhL7I00Xg  =  -141273656;
   short  UmSG3XU3S;
@@ -131,7 +131,7 @@ int main(void) {
 	int	labv7F;
 	labv7F	=	-552161783;
 	unsigned long long	g26Stv9DT;
-	g26Stv9DT	=	1434675068;
+
     double    KQOj7;
     KQOj7    =    47602063;
 	long	sebOL;
@@ -143,7 +143,7 @@ int main(void) {
   char  J6SBSE1j6i;
   J6SBSE1j6i  =  0;
     char    LRrTK;
-    LRrTK    =    1683733142;
+
  unsigned long EiM7cF;
  EiM7cF = -863136928;
 
@@ -154,7 +154,7 @@ int i = 0;
 while (i < 8)
 {
 ++i;
-UmSG3XU3S = (int)abs(j6bDAj);
+
 }
 }
 
@@ -173,7 +173,7 @@ try
 {
 if (J6SBSE1j6i)
 {
-Xzdh3lz = labv7F & 363089648;
+
 }
 else
 {
@@ -186,7 +186,7 @@ p4Eh = (LDb8tIM < r5M0bX9) ? XQ49762 : -13178229;
 }
 std::cout << agOBHrMrE << KnJSFlJc << std::endl;
 
-yW7H883xD = (float)(a12_SDbXk + (1924971591));
+
 
 return 0;
 }

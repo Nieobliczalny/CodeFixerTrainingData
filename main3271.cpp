@@ -35,7 +35,7 @@ int main() {
  hy99t = 1106211353;
  D7B0bIu = 432573995;
  Ji_4Sr7ZM4 = 953042519;
- VY3AJ8 = -1053177343;
+
  KKmCpt1 = 487815833;
  sF9gbKS = 1915480182;
  wAdnakjk_ = -42647288;
@@ -55,7 +55,7 @@ int main() {
  NT1oO0H0 = -1829874360;
  vvt3QAw47P = 264135459;
  S5m7_B6 = -1069645145;
- K8OyT_d_ = -782130431;
+
  eNhXmz66kR = 641564726;
  W7bnZR = 1770263276;
  C_zb = 852515493;
@@ -67,7 +67,7 @@ int main() {
  IkI169 = -1491608452;
  s_6Fd = -170449920;
  wg_aOrD = -1726203073;
- Oa_bVnrGZv = -1206607996;
+
  tOE9CZd_ = -2084987789;
  Vmr8 = 34409430;
  P51161F8 = 933949866;
@@ -91,7 +91,7 @@ case 2:
 Kw2I = Ed7424e_3y(211116895, NT1oO0H0, 111054019, -188276282, 763730317);
 break;
 case 3:
-KKmCpt1 = NT1oO0H0 ^ g_Ia;
+
 break;
 }
 
@@ -209,7 +209,7 @@ cout << Ed7424e_3y(-1194484171, 1263363432, gW6iyHti, IkI169, C8A7QXbZps) << hy9
 switch (P51161F8)
 {
 case 0:
-C8A7QXbZps -= P51161F8;
+
 break;
 case 1:
 wAdnakjk_++;
@@ -242,7 +242,7 @@ while (i < 5);
 kEkPw525N4 = Ed7424e_3y(kEkPw525N4, 1188932610, 1848509783, -760274399, -1848772914);
 try
 {
-P51161F8 &= 486320626;
+
 }
 catch (int& errorCode)
 {
@@ -255,7 +255,7 @@ a_ThX2JU = (kEkPw525N4 == 565430699) ? ifw05Rb(438878370, -657221553, 1136442995
 }
 else
 {
-B_39x = Osk5Y0Uq8n(-1886516556, -51279779);
+
 }
 if ((OavawX) || ((Y4WR8asBfa < 399532198) || (W7bnZR < -943580369)))
 {
@@ -266,7 +266,7 @@ cout << ifw05Rb(-4905889, sF9gbKS, W7bnZR) << hy99t << "yCP30c" << endl;
 }
 else
 {
-s_6Fd *= 771083910;
+
 }
 
 if (XzB8Y58t12)

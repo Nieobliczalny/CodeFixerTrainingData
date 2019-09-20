@@ -85,7 +85,7 @@ int main() {
 
 for (int i = 0; i < 9; ++i)
 {
-vd635 = fl7GNKJ2O6(-314294563, 408580572, juBJM_H5, -93307962, G0kqXDJ);
+
 }
 Q8qUk_mUf_ = (unsigned char)(ONq2Bfr4);
 if (m25iT7f & 470228274)
@@ -101,7 +101,7 @@ else
 {
 if (lT75r_BDA)
 {
-itb897N = HHg8T6 / 263118761;
+
 }
 else
 {
@@ -117,7 +117,7 @@ std::cout << "eSPN" << vXDcQnh17 << "I0O699" << std::endl;
 int i = 0;
 while (i < 4)
 {
-dlbduqmNk = (long)(Ffpi9F17);
+
 i++;
 }
 }
@@ -131,7 +131,7 @@ if (fl7GNKJ2O6(1119107340, 310350313, Ffpi9F17, -1876859990, 1600349972) == 0)
 K258 = (int)floor(N0gEIew);
 if (Js654QqV >= -1501083271)
 {
-obfOshz9 = (long double)(ztcsy);
+
 }
 else if (Zye_ <= -1223999172)
 {
@@ -181,7 +181,7 @@ int k = 5;
 do
 {
 --k;
-V9aq0 = (int)ceil(Q8SXth);
+
 }
 while (k >= 0);
 }
@@ -201,7 +201,7 @@ case 0:
 HQ9Y--;
 break;
 case 1:
-juBJM_H5 = GOpJ6P1X7 * 2108500770;
+
 break;
 case 2:
 vd635 = fl7GNKJ2O6(1776048985, N0gEIew, K258, k1_lP8usA, -956205646);
@@ -213,7 +213,7 @@ case 4:
 uhTeRmDM = uhTeRmDM % FRVc6UoD;
 break;
 case 5:
-dXqIBJH = dO6sk & UD8rM9;
+
 break;
 case 6:
 obfOshz9 = faSy ^ 443948704;
@@ -237,7 +237,7 @@ switch (ONq2Bfr4)
 {
 case 'a':
 case 'A':
-i6rUvm0N3 = N0gEIew - 74014470;
+
 break;
 case 'b':
 case 'B':
@@ -252,7 +252,7 @@ break;
 while (i >= 0);
 }
 
-i6rUvm0N3 = (int)ceil(Q8SXth);
+
 
 if (obfOshz9 != Js654QqV)
 {
@@ -279,7 +279,7 @@ for (int j = 0; j < 3; j++)
 {
 if (FSQjg4 >= N0gEIew)
 {
-obfOshz9 = (int)ceil(aHzSOa);
+
 }
 else
 {
@@ -289,7 +289,7 @@ i45_ = Ip_t7(FSQjg4) ^ ge2qM;
 }
 if ((faSy < 1312513483) && (q3lZJXEt))
 {
-juBJM_H5 = (unsigned long long)(vXDcQnh17);
+
 }
 Zu1ISbqhW = Ip_t7(Zu1ISbqhW);
 
@@ -309,7 +309,7 @@ if (lT75r_BDA <= -882764494)
 {
 if (k1_lP8usA >= 987293768)
 {
-Js654QqV = Xc17(592739666, 482146355, 1125158377, 871872765, Ffpi9F17);
+
 }
 else if (i45_ <= 1738425356)
 {
@@ -319,7 +319,7 @@ G0kqXDJ = (int)floor(Q8SXth);
 }
 else
 {
-g42m3kq6 %= 1311126554;
+
 }
 }
 else if (ONq2Bfr4)
@@ -332,7 +332,7 @@ k1_lP8usA = (long long)(Zu1ISbqhW);
 }
 else if (((wKHtU7X6) || (l_KEHh1 >= GXJ0)) || (F_Bcz2iX > Js654QqV))
 {
-B3UEeQ60b = (int)floor(aHzSOa);
+
 }
 else
 {
@@ -342,7 +342,7 @@ Zye_ >>= 1915681035;
 }
 else
 {
-Zu1ISbqhW = ERaHZ2();
+
 }
 }
 }
@@ -354,7 +354,7 @@ case 'a':
 FRVc6UoD = F21777 << 193900532;
 break;
 case 'b':
-ge2qM %= 1646210388;
+
 break;
 }
 }

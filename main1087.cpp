@@ -14,7 +14,7 @@ int main(void) {
     unsigned short int    au625r9    =    0;
  short elAfNqfb0N = -753317479, dPoR2r17 = -998345943, YS242A8z5n = 1663130510, xr5yN84 = 1929058960, AUD_rWCc = -1994439927, q7Lu = -940250965, HuwSeO16 = -177216552, ba8ZPe = 4214377, hTs_311 = -2051521878, lfh_3Qdb = -882981414, FidWsY6C = 1948498675, Qa1p = -1523374277, w1aW7L080 = 1550291201, Qv_d8u7z = 704683244, NJ8VA9uA2 = 233855773, b61OeN_st = 2108414638, E_Ar = -1063807084, BvF8V0so = -1175243007, wJwcE94_I = -1045356678, EI_40F2wY0 = 107878276, xdenvS = 40903306, bGWpVN30 = 1321037868, q09Rpk1og = 1497216256, dO7McsVcX = -1621155122, Ff56oAN = -1884276718, mU0MbAa7x = -414776602, N0OB = -259303744, W614kw_ = -1885678330, Vx7b = 1689523912, lr9b42_6Y = -45743376, hM63OUi49P = 1015644511, hwh5Kyh = 1530968996, Y3G_r3088j = 334610771, mVv9_2cQ1 = -1568760241, q_h9pQ = 2079629151, IZ8W = 1226952652, n9gm1N77lN = 2047246051, NnzMf = -1264302521, RxZM = 2101361294, IwTN0QK_H = 102905632, BTUm = 1424782911, xT4d = 79913807, pAp3V2N = -262513028, xgg4 = 1662311621, Sck9inFQoP = -1747254752, LLjh0fia1 = -55580865, RkyOH92Nd = 262856951, o40w40rPr = -1270498311, v2PL6fp = -845305247, J3N0 = -1371810576, EeM1Rt = 1608355690, v8975_f = -420837957, oh2h6 = 1579761599, cy0sK = -2113392769, eWu_Qnt = 349061211, KF0K94WzgK = -413312781, KODBp = -542252248, sLdN0n = 1367819245, LA6IS6M1 = 41280810, ii22Y6q7X9 = -1582835788, VC85 = -993396165, sORJ = -1357052049, DGkR80e_ = 717348484, L_LPE_w5R = 1593337420, LD65 = 335256382, ifGhUP5u = 362599547, jA44RX_ = 1783301097, u3Haa5A = -1185494173, X4K_Nc5V22 = 773015290, kqI3sQ0L3z = -1661647502, dNCK = 1732320006, at8m = -854088169, sFPh9 = -253542260, NP_P_Qvv = -175303528, nyY9_V_uV3 = -233564470, qMoC16 = -1125408886, g4P9 = -1299032201, RiQ2K7 = 2086642840, Pb5zndZp = -1646843464, ImAxyViv0L = -98965505, PuDgPJCd = 1846351603, gKABGiK_l = 172792787, n5Rnx = 873208510, n9v44o = -1987619251, DJ_C5ONSG5 = -1365459698, MKe_2F2R = -144606985, k4Zt_fuMy = -604791957, XR6Dl_LFI5 = 1560061361, ZkdKx0j = 1521526895, XyCJF0p8HM = -1841208468, A7oF47 = -758716841, NWjUIl_ = 470437928;
 
-au625r9 = NF7028Yk(-297578182);
+
 
 Qv_d8u7z = NP_P_Qvv + IwTN0QK_H;
 g4P9 &= 2088612408;
@@ -38,7 +38,7 @@ switch (ZkdKx0j)
 {
 case 'a':
 case 'A':
-au625r9 = NF7028Yk(hTs_311);
+
 break;
 case 'b':
 case 'B':
@@ -54,7 +54,7 @@ Y3G_r3088j = (int)abs(q_h9pQ);
 break;
 case 'e':
 case 'E':
-au625r9 = NF7028Yk(E_Ar);
+
 break;
 case 'f':
 case 'F':
@@ -66,7 +66,7 @@ au625r9 = NF7028Yk(A7oF47);
 break;
 case 'h':
 case 'H':
-au625r9 = NF7028Yk(N0OB);
+
 break;
 case 'i':
 case 'I':
@@ -77,7 +77,7 @@ case 'J':
 au625r9 = NF7028Yk(1306541106);
 break;
 default:
-au625r9 = NF7028Yk(b61OeN_st);
+
 break;
 }
 
@@ -89,7 +89,7 @@ case 'a':
 au625r9 = NF7028Yk(-2049243537);
 break;
 case 'b':
-au625r9 = NF7028Yk(mU0MbAa7x);
+
 break;
 default:
 YS242A8z5n >>= 1918400391;
@@ -110,7 +110,7 @@ au625r9 = NF7028Yk(1678657253);
 }
 while (i >= 0);
 }
-YS242A8z5n = LLjh0fia1 ^ u3Haa5A;
+
 
 if (cy0sK & u3Haa5A)
 {
@@ -209,7 +209,7 @@ case 3:
 au625r9 = NF7028Yk(-2139646716);
 break;
 case 4:
-Qa1p = (int)abs(BTUm);
+
 break;
 case 5:
 au625r9 = NF7028Yk(1076074890);
@@ -224,7 +224,7 @@ break;
 }
 while (i >= 0);
 }
-ii22Y6q7X9 = (short)(W614kw_);
+
 
 NWjUIl_ = NF7028Yk(-1855781698) / au625r9;
 
@@ -235,7 +235,7 @@ case 0:
 gKABGiK_l = (int)abs(lfh_3Qdb);
 break;
 case 1:
-au625r9 = NF7028Yk(n9gm1N77lN);
+
 break;
 case 2:
 W614kw_ |= bGWpVN30;
@@ -250,7 +250,7 @@ case 5:
 A7oF47 /= 1815335447;
 break;
 case 6:
-au625r9 = NF7028Yk(1303176860);
+
 break;
 case 7:
 EeM1Rt = KODBp + 1043855778;
@@ -278,7 +278,7 @@ if (mU0MbAa7x == BTUm)
 cout << NF7028Yk(KF0K94WzgK) << endl;
 }
 
-XyCJF0p8HM = (short)(sFPh9);
+
 
 for (int i = 0; i < 10; ++i)
 {
@@ -288,7 +288,7 @@ do
 {
 if ((Ff56oAN & 1337878677) || (eWu_Qnt >= n9gm1N77lN))
 {
-au625r9 = NF7028Yk(pAp3V2N);
+
 }
 else if ((J3N0 <= mVv9_2cQ1) || (xr5yN84 >= -1680905460))
 {
@@ -308,7 +308,7 @@ LLjh0fia1 /= VC85;
 }
 else if (elAfNqfb0N < 194699765)
 {
-au625r9 = NF7028Yk(1071715145);
+
 }
 else
 {
@@ -323,7 +323,7 @@ while (j >= 0);
 cout << Y3G_r3088j << NF7028Yk(A7oF47) << NF7028Yk(A7oF47) << endl;
 cout << NF7028Yk(-1720208888) << at8m << "gXOg" << NF7028Yk(A7oF47) << endl;
 
-au625r9 = NF7028Yk(u3Haa5A);
+
 RiQ2K7 = NF7028Yk(1499271174) & 1153094980;
 
 return 0;

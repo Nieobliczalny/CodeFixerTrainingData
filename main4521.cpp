@@ -81,7 +81,7 @@ case 6:
 C042HeN = (int)abs(il9aiuAOh_);
 break;
 case 7:
-ZGJvY1 = heAuav3 ^ il9aiuAOh_;
+
 break;
 case 8:
 GWk568 = U01yd7B2c(-1513551903, o78_fozn9, -1629669147, 559385883, -1742536478);
@@ -535,7 +535,7 @@ if ((S6rYJYB / aw6QnqQ) != -2034566890)
 {
 std::cout << U01yd7B2c(AE0Q6, -1666052439, c_Q_22Oi7, YGDL86, 1204679196) << Rf9L4p(1205607497, r0b6PPO, -1369359736, 1722418893) << std::endl;
 }
-B8yQ783 = (int)ceil(s3Hm_8j_0M);
+
 
 {
 int i = 0;
@@ -564,7 +564,7 @@ while (i < 1);
 }
 AE0Q6 = (int)ceil(Zp47m99D);
 
-GWk568 = (int)floor(O71QOYE);
+
 try
 {
 V5WH = Rf9L4p(-85437277, r0b6PPO, c_Q_22Oi7, YGDL86) >> paVJ;
@@ -578,7 +578,7 @@ if (c_Q_22Oi7 != -850337148)
 {
 try
 {
-GWk568 = oC7pj_M5i - 1743737290;
+
 }
 catch (int& errorCode)
 {

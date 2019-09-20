@@ -124,7 +124,7 @@ kY_B = zwlcR_3Zv();
 }
 else if (u5j7yvVMJX >= 1377206086)
 {
-C_XK = n_d0 | 1187616243;
+
 }
 else if ((hqut50O == qz4rvT) || ((h7CE1dgyh5) && (OgLGH & -1155794427)))
 {
@@ -157,7 +157,7 @@ int i = 0;
 do
 {
 i++;
-C_XK = (unsigned short)(Bdd72rN);
+
 }
 while (i < 5);
 }
@@ -176,7 +176,7 @@ case 'c':
 gu4uhI4Q = zwlcR_3Zv();
 break;
 case 'd':
-LLvu7w6Em0 &= IKRCYZVXw;
+
 break;
 }
 
@@ -238,7 +238,7 @@ for (int j = 0; j < 10; j++)
 {
 try
 {
-IKRCYZVXw = tBdsa + 1504468152;
+
 }
 catch (int& errorCode)
 {
@@ -269,7 +269,7 @@ while (i >= 0);
 switch (jH40407T)
 {
 case 0:
-p4th87W = hqut50O + 459035953;
+
 break;
 case 1:
 kY_B = (int)abs(gu4uhI4Q);
@@ -287,7 +287,7 @@ case 5:
 kY_B = zwlcR_3Zv();
 break;
 case 6:
-Bdd72rN %= 72723774;
+
 break;
 case 7:
 kY_B = zwlcR_3Zv();
@@ -302,7 +302,7 @@ if (E_ghxJ9dD < neI_F5546)
 switch (E_ghxJ9dD)
 {
 case 0:
-OgLGH = h259 << 10196499;
+
 break;
 case 1:
 kY_B = zwlcR_3Zv();
@@ -317,7 +317,7 @@ case 4:
 kY_B = zwlcR_3Zv();
 break;
 case 5:
-hqut50O &= E_ghxJ9dD;
+
 break;
 default:
 h259 = neI_F5546 % 27621017;

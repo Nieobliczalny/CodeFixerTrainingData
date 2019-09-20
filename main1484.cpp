@@ -32,7 +32,7 @@ int main()
 	unsigned long long	na1BnXSf2;
 	na1BnXSf2	=	-1907019490;
  char ej_DKs6_;
- ej_DKs6_ = 1872780591;
+
   long  v6958A_68U;
   v6958A_68U  =  1332254327;
 	float	S7C6TC_82K;
@@ -56,7 +56,7 @@ int main()
     unsigned char    i0EY9e7Vh;
     i0EY9e7Vh    =    -347853018;
  double MCi92LUxB;
- MCi92LUxB = 1626702549;
+
   short int  iJ80G0de;
   iJ80G0de  =  -1713550634;
 	unsigned long long	fy03A0;
@@ -107,7 +107,7 @@ case 2:
 Q0rwt_0P = MK_AswX4Hg();
 break;
 case 3:
-ej_DKs6_ = sG4uQ8(1813517782, -1646604713);
+
 break;
 case 4:
 hc352 = Q0rwt_0P ^ 1646140802;
@@ -126,7 +126,7 @@ E_JmZd = G2u5AN3T_ / 1416532089;
 break;
 }
 
-MCi92LUxB = kQx0(-1570743395, AS_HC1e, 937205873);
+
 if (WUP3c85i_ >= iNVB8C9Z9)
 {
 {
@@ -170,7 +170,7 @@ E_JmZd = MK_AswX4Hg() | v6958A_68U;
 break;
 case 'b':
 case 'B':
-WUP3c85i_ = iNVB8C9Z9 * Q0rwt_0P;
+
 break;
 case 'c':
 case 'C':
@@ -186,7 +186,7 @@ S7C6TC_82K = (int)ceil(q6Vf9o_U5);
 break;
 case 'f':
 case 'F':
-WUP3c85i_ = (int)abs(S7C6TC_82K);
+
 break;
 case 'g':
 case 'G':
@@ -426,7 +426,7 @@ case 0:
 iNVB8C9Z9 = (int)floor(hc352);
 break;
 case 1:
-MCi92LUxB = (int)ceil(WUP3c85i_);
+
 break;
 case 2:
 BT_nA01 = (int)abs(Q0rwt_0P) + (92049987);
@@ -447,7 +447,7 @@ case 7:
 hc352 = VHpZnwM9eC(-259899534);
 break;
 case 8:
-tF9U9qC = sG4uQ8(1774718701, -555639465);
+
 break;
 default:
 XW7j = sG4uQ8(XW7j, -1846005794);
@@ -482,7 +482,7 @@ else if (S7C6TC_82K != q6Vf9o_U5)
 switch (E_JmZd)
 {
 case 0:
-E_JmZd = sG4uQ8(385667024, 224117712);
+
 break;
 case 1:
 iNVB8C9Z9 = sG4uQ8(iNVB8C9Z9, na1BnXSf2);
@@ -548,7 +548,7 @@ int k = 2;
 while (k >= 0)
 {
 k--;
-iJ80G0de = ej_DKs6_ >> 1673407609;
+
 }
 }
 }
@@ -560,7 +560,7 @@ if (ej_DKs6_ & 2045923085)
 switch (w_TY38Wlx)
 {
 case 0:
-fy03A0 = VHpZnwM9eC(-2100350352);
+
 break;
 case 1:
 Kn_XyZ = (int)floor(iNVB8C9Z9);
@@ -575,7 +575,7 @@ case 4:
 w_TY38Wlx = MK_AswX4Hg();
 break;
 case 5:
-BT_nA01 = iNVB8C9Z9 + 247327423;
+
 break;
 default:
 hc352 = (int)abs(q6Vf9o_U5);
@@ -604,7 +604,7 @@ if (na1BnXSf2 == lA7IXMeY6)
 switch (G2u5AN3T_)
 {
 case 0:
-G_Ht6N2Ar = (int)ceil(WUP3c85i_);
+
 break;
 case 1:
 iNVB8C9Z9 = kQx0(iNVB8C9Z9, -357538481, -1229863894);
@@ -616,7 +616,7 @@ case 3:
 jWL8A5Of = (int)ceil(Kn_XyZ);
 break;
 case 4:
-fy03A0 = VHpZnwM9eC(1274531840);
+
 break;
 case 5:
 jWL8A5Of *= jWL8A5Of;

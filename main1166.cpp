@@ -23,7 +23,7 @@ int main()
   long double  sc45;
   sc45  =  -2024219125;
     double    Z9D2e5F_;
-    Z9D2e5F_    =    -1177986667;
+
     double    rEZaA;
     rEZaA    =    -969857367;
     unsigned short int    a15MDO_T;
@@ -35,7 +35,7 @@ int main()
   long  nI3_g1Ejzx;
   nI3_g1Ejzx  =  993915111;
     short    dKYb_;
-    dKYb_    =    1992638934;
+
   double  RaIso;
   RaIso  =  1720412597;
  short KiK3;
@@ -53,7 +53,7 @@ int main()
 	unsigned short	tTi26G;
 	tTi26G	=	-1470460297;
     unsigned int    l6jzje;
-    l6jzje    =    -544187970;
+
   unsigned short  a_RTi;
   a_RTi  =  0;
   unsigned int  C8CJ18;
@@ -65,7 +65,7 @@ int main()
  unsigned int ZgxUatq9W2;
  ZgxUatq9W2 = 1775128537;
   unsigned short  JSU5fz5ky;
-  JSU5fz5ky  =  -584173523;
+
     long double    d70K0gAPS1;
     d70K0gAPS1    =    1050533070;
   unsigned long long  t1Yh3p5i9S;
@@ -75,7 +75,7 @@ int main()
   unsigned char  Ny0Ov591X;
   Ny0Ov591X  =  2092759903;
  long long TC__qRl7X;
- TC__qRl7X = -174756012;
+
     char    ba2F9u;
     ba2F9u    =    -2022537840;
     short    SWxJV4z;
@@ -87,7 +87,7 @@ int main()
     double    QN577;
     QN577    =    1205798109;
  char B7Hi0_;
- B7Hi0_ = 1502175362;
+
     long    F2C63;
     F2C63    =    0;
  double f4JV;
@@ -99,7 +99,7 @@ int main()
   int  a7D_ex;
   a7D_ex  =  1671436162;
 	short int	m7g3cU9;
-	m7g3cU9	=	-392822748;
+
 	int	y94n2N;
 	y94n2N	=	911443075;
 	short	WX00;
@@ -109,7 +109,7 @@ int main()
     long    K4E6R;
     K4E6R    =    -3081808;
     char    f3e6B;
-    f3e6B    =    1679255006;
+
 	long long	S6uRK;
 	S6uRK	=	-653186920;
   unsigned char  M3nsv_;
@@ -125,7 +125,7 @@ int main()
  unsigned long long q_E9B1Yp;
  q_E9B1Yp = -85193775;
 	unsigned char	msXEO80_5;
-	msXEO80_5	=	0;
+
  unsigned int vMID6;
  vMID6 = -2091703626;
     unsigned short    duE29Q6;
@@ -135,7 +135,7 @@ int main()
 	short int	M4PQIa2;
 	M4PQIa2	=	-902161715;
     long double    C4xhE;
-    C4xhE    =    458448969;
+
 	char	Jx4tKh4zuY;
 	Jx4tKh4zuY	=	1107555623;
  short wtbE7;
@@ -149,7 +149,7 @@ int main()
     long double    t5_64K;
     t5_64K    =    351729302;
  unsigned char GMg5W;
- GMg5W = -111784741;
+
 	long	KKNRRYoPh;
 	KKNRRYoPh	=	1222923556;
     long long    Y919KyLi;
@@ -163,7 +163,7 @@ int main()
  unsigned int nwL4YgF;
  nwL4YgF = 221360862;
 	long	zmOA;
-	zmOA	=	1604969027;
+
  long c797;
  c797 = 357787059;
 	unsigned short int	LttDwR02A5;
@@ -175,7 +175,7 @@ int main()
     short    U1uDhtc;
     U1uDhtc    =    -1158258304;
     char    m441;
-    m441    =    -1025440675;
+
  unsigned char cSzE4;
  cSzE4 = 1404291566;
   int  xrGx;
@@ -185,7 +185,7 @@ int main()
     long long    ZLA_BMbtFF;
     ZLA_BMbtFF    =    -934967668;
     long long    o6UTY0jOe;
-    o6UTY0jOe    =    1076059987;
+
     unsigned long long    UH78h;
     UH78h    =    1972744314;
 	unsigned long long	YmhhG_D;
@@ -199,7 +199,7 @@ int main()
   short int  s_AD;
   s_AD  =  1917275025;
  unsigned long s208tzb;
- s208tzb = 135465190;
+
 
 f4JV = DLq1Ad >> SWxJV4z;
 if (QN577 > a7D_ex)
@@ -243,7 +243,7 @@ else
 {
 Cg9l2z3q = (long)(U1uDhtc);
 }
-F2C63 = JPwjPykHm1(1744308296, 2080817717, xrGx, ZgxUatq9W2, -1424713445);
+
 {
 int i = 0;
 while (i < 3)
@@ -260,7 +260,7 @@ l6jzje = (unsigned int)(c8oOJ4BYk_);
 int i = 0;
 do
 {
-s208tzb = (unsigned long)(HiO81Lo30v);
+
 i++;
 }
 while (i < 3);
@@ -275,7 +275,7 @@ Jx4tKh4zuY++;
 }
 }
 
-C4xhE = (int)floor(RaIso);
+
 
 b5r1kN = JPwjPykHm1(M4PQIa2, -1303222592, -1089453209, 480502977, 532725343) / hcS2Pds;
 {
@@ -293,7 +293,7 @@ if ((cb7hU5f5A7) || ((RaIso <= ZgxUatq9W2) && (Ntp3N)))
 {
 if (((vMID6) && (c797 >= vMID6)) && ((y94n2N != NQvI603__) && (sc45 >= OSGR5JqSnn)))
 {
-btP3 = (int)abs(ZXYZ);
+
 }
 else
 {
@@ -308,7 +308,7 @@ else if (ZgxUatq9W2 == NQvI603__)
 {
 try
 {
-T7jQH7X30r >>= s_AD;
+
 }
 catch (int& errorCode)
 {
@@ -325,7 +325,7 @@ if (xrGx >= 1472269154)
 switch (tTi26G)
 {
 case 0:
-m7g3cU9 = (int)abs(Y919KyLi);
+
 break;
 case 1:
 s_AD += Oim3;
@@ -337,7 +337,7 @@ break;
 }
 else if (sc45 > c8oOJ4BYk_)
 {
-btP3 = (long long)(P621oH);
+
 }
 else if (t1Yh3p5i9S == -1884723893)
 {
@@ -351,7 +351,7 @@ for (int j = 8; j >= 0; j--)
 int k = 5;
 do
 {
-QO_2t7fOZ = (int)ceil(t5_64K);
+
 --k;
 }
 while (k >= 0);

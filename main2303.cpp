@@ -22,7 +22,7 @@ int main(int argc, char** argv) {
   unsigned char  HRI383o;
   HRI383o  =  1592823877;
 	long double	nx9Rz49d;
-	nx9Rz49d	=	-62569849;
+
  long double Dc2Ipx2;
  Dc2Ipx2 = 613356107;
 	long long	NI1K4;
@@ -76,7 +76,7 @@ case 0:
 s9700vw9s = (int)abs(FGrde2F);
 break;
 case 1:
-nx9Rz49d = (int)ceil(Dc2Ipx2);
+
 break;
 case 2:
 a91PpQA8 = uQ7nv(-1425662503, -1222219354, ZE53P5oD, 1530359395, -392815523);
@@ -336,7 +336,7 @@ else if (KfG9W >= -1323780516)
 switch (V_KNE3)
 {
 case 'a':
-s9700vw9s = (int)ceil(Dc2Ipx2);
+
 break;
 default:
 MlppFFbi9s = uQ7nv(1474925693, FGrde2F, 775424841, -487656770, 1088760641);
@@ -357,7 +357,7 @@ cout << n4Mtn << "rR_4Q0" << oiWqjWuO8 << endl;
 s9700vw9s = (int)abs(VgQ7ae1);
 G0qc5cFF = uQ7nv(NI1K4, VgQ7ae1, G0qc5cFF, 603564999, -1380396064);
 
-bx5S3BqM_ = uQ7nv(NI1K4, 2027790782, -1501654025, 458197849, DfvySaru4) << X_j2WOvO8;
+
 
 if (Dc2Ipx2 >= J8lrkW_)
 {
@@ -381,7 +381,7 @@ case 'c':
 a91PpQA8 = uQ7nv(-26594049, Q0G1szGUg, c5OXi53g5N, -1740227874, 318498690);
 break;
 case 'd':
-VgQ7ae1 = (int)abs(J8lrkW_);
+
 break;
 case 'e':
 oiWqjWuO8 = (int)floor(nx9Rz49d);

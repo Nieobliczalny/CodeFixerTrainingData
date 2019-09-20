@@ -31,7 +31,7 @@ int main() {
   float  H5gPm17n  =  1482230279,  bspyZ  =  1474820057,  fDU6Nx  =  -901143841,  KiNo5nZ_Or  =  -1390855909,  zOiqA  =  -391287251,  G_HWLa  =  -845299052,  rvWs24m6W  =  -1412904940,  gc1_H_K  =  1731873624,  bVQ17u  =  575341704,  kh3KTgk8_  =  391434013,  K5ma_U_H  =  -1341585475,  YF77h  =  -724848399,  lhA9Y  =  1921999322,  f62xBl  =  495719749,  TOq14qNZjU  =  1129457254,  RfC_Nrp6  =  -1964743146,  e_w0V4zZ82  =  -1680772959,  gopEqXvcs  =  1614868639,  As2hf  =  -1196845690,  vEl43iGVQ  =  -33322905,  Z3FPhEGL  =  800961218,  OD3Z64gZN_  =  -1101572760,  EfVQhl9q7m  =  356328361,  MAI0Uj  =  1249750238,  K041pQ0N  =  1872295833,  t30T_S1a  =  -1936127012,  cxB5ZFrGGI  =  910046515,  fE3tMbn1  =  1727327403,  IGJYp_Gc  =  -2067526096,  QAC46  =  -1316539480,  l20Kr8_j  =  1611216745,  vZpV__  =  -346441786,  EPrQmz  =  332685543,  e85Q  =  1154304459,  YLIQ8  =  787264357,  CIboUhO  =  -1325482853,  N_ZwPe  =  -1970053781,  FYS6i3  =  1403693113,  CyA8y  =  1960372002,  NK82  =  -1959379529,  YuP61gXk2  =  -597253157,  pNNMMnr  =  -1019647549,  dY36eq  =  -1567365140,  lr_S  =  1359614827,  UVHh70DGV  =  1751101473,  NvbhrZd_5  =  1357707974,  P57R6  =  958605466,  Bo7h4U5  =  124397933,  fLYf_Wb  =  911197313,  HsrLs30_W  =  -421053067,  JDvB85d  =  -1776877681,  M1W2h_ZIzL  =  -1691895731,  O9G8atAU  =  -1422406106,  gklV_1S  =  1761418278,  pCK4  =  888472965,  PXf39  =  -1871614717,  KJDlo  =  -682426592,  hGxIjJ7  =  1295591391;
 	unsigned short	bHOk7YSQ	=	0;
 
-gklV_1S = WseRJ_W7(-391092737);
+
 
 for (int i = 4; i >= 0; --i)
 {
@@ -48,7 +48,7 @@ gopEqXvcs = QTd_5I1(1002014714) ^ 1669508439;
 }
 }
 
-zOiqA = (int)floor(bspyZ);
+
 
 zOiqA = (int)floor(N_ZwPe);
 for (int i = 0; i < 2; ++i)
@@ -128,7 +128,7 @@ switch (bHOk7YSQ)
 {
 case 'a':
 case 'A':
-IGJYp_Gc = K041pQ0N + 49387207;
+
 break;
 default:
 gopEqXvcs = kh3KTgk8_ * e85Q;
@@ -161,7 +161,7 @@ while (k >= 0);
 }
 else if (hGxIjJ7 <= KJDlo)
 {
-P57R6 = (int)abs(N_ZwPe);
+
 }
 else
 {
@@ -244,7 +244,7 @@ j++;
 int k = 0;
 while (k < 9)
 {
-YF77h = (int)floor(H5gPm17n);
+
 k++;
 }
 }
@@ -257,7 +257,7 @@ while (i >= 0);
 
 std::cout << "Z7GL_r" << WseRJ_W7(-792689016) << gc1_H_K << QTd_5I1(M1W2h_ZIzL) << "Mmg91RVIF0" << std::endl;
 
-vEl43iGVQ = y3i1(-1669045785, 1679769530);
+
 
 std::cout << cxB5ZFrGGI << "BoMQW83" << std::endl;
 
@@ -297,7 +297,7 @@ int k = 0;
 while (k < 4)
 {
 k++;
-rvWs24m6W = (int)ceil(gopEqXvcs);
+
 }
 }
 }
@@ -309,7 +309,7 @@ else
 {
 if (kh3KTgk8_ != 1719295451)
 {
-rvWs24m6W /= KJDlo;
+
 }
 else
 {
@@ -319,7 +319,7 @@ zOiqA = y3i1(-1249250945, 1092174659) - gopEqXvcs;
 }
 else
 {
-kh3KTgk8_ = QTd_5I1(kh3KTgk8_);
+
 }
 bVQ17u = -1395937575 / bHOk7YSQ;
 return 0;

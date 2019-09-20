@@ -329,7 +329,7 @@ try
 switch (W2ac8wsu5)
 {
 case 0:
-x9_0yGkC = a2zASF5L % 561619827;
+
 break;
 case 1:
 EI0ong6 = QljR(Gbfmf, EI0ong6, OdG9c_6g7s) * KI0GjB6V3;
@@ -562,7 +562,7 @@ W2ac8wsu5 += a2zASF5L;
 }
 }
 
-Lc8SxB = (float)(x9_0yGkC);
+
 return 0;
 }
 

@@ -128,7 +128,7 @@ jeyx_9_7H1 = W_6iil2P - NTAL;
 int i = 0;
 while (i < 7)
 {
-N7Vp__ = sxhFLJF7c7(-955958752, -6887856) ^ 752107999;
+
 ++i;
 }
 }
@@ -139,7 +139,7 @@ case 0:
 W_6iil2P = fPlxba(W_6iil2P);
 break;
 case 1:
-A8I_eIW_ = d5b5Jkl66 * A8I_eIW_;
+
 break;
 case 2:
 jBwer_ = (int)abs(N10Y) + (1758012520);
@@ -151,7 +151,7 @@ case 4:
 NTAL = dX8i / 899775473;
 break;
 case 5:
-d5b5Jkl66 = f474_V2Y2q / 1165505477;
+
 break;
 case 6:
 NTAL = fPlxba(NTAL);
@@ -176,7 +176,7 @@ while (j >= 0);
 }
 }
 }
-YO7c36 = dX8i / sxhFLJF7c7(-398370601, -127162732);
+
 return 0;
 }
 

@@ -27,7 +27,7 @@ int main(void)
  char XnKQwNG;
  XnKQwNG = 1944707415;
  unsigned long B2Z8;
- B2Z8 = 1603211388;
+
  unsigned long fkzL;
  fkzL = -1308832029;
 	unsigned short int	mS1g;
@@ -47,7 +47,7 @@ int main(void)
 	char	nyBFI6Q;
 	nyBFI6Q	=	-1867371897;
     unsigned short int    ITb51fME99;
-    ITb51fME99    =    1997280647;
+
   double  N0Ga;
   N0Ga  =  345348230;
 	int	Vs5M_U0Q;
@@ -59,7 +59,7 @@ int main(void)
   int  OTdW;
   OTdW  =  248726400;
  long zGwopl7;
- zGwopl7 = -1711740662;
+
 	float	pxs_2o74e;
 	pxs_2o74e	=	1363107683;
   char  g_S_8CkrLN;
@@ -85,7 +85,7 @@ int main(void)
 	unsigned int	Bb6t4;
 	Bb6t4	=	-2040009053;
 	int	JY9h5Cq;
-	JY9h5Cq	=	767538783;
+
   long  n5Kh_1d61;
   n5Kh_1d61  =  1067746593;
  long long F0PJhAc;
@@ -103,7 +103,7 @@ int main(void)
 	char	g425_H;
 	g425_H	=	-1573754395;
   unsigned short  LmgsPbD;
-  LmgsPbD  =  -332489758;
+
     long double    ToQt_ngB;
     ToQt_ngB    =    -1785248004;
 	float	Cw2J2N4m96;
@@ -155,7 +155,7 @@ n5Kh_1d61 ^= 899866804;
 }
 else if ((zA279l33S9 >= -980077204) && (e1NGeKSa != C25c30))
 {
-F0PJhAc = nt0j(g425_H);
+
 }
 else
 {
@@ -188,7 +188,7 @@ Cw2J2N4m96 = (int)floor(UQE3sK8F);
 break;
 case 'f':
 case 'F':
-F0PJhAc = nt0j(NP1Dcx_O5U);
+
 break;
 case 'g':
 case 'G':
@@ -254,7 +254,7 @@ u0yJ577 = nt0j(-1468239176);
 break;
 case 'b':
 case 'B':
-ITb51fME99 = e1NGeKSa - 1114180925;
+
 break;
 case 'c':
 case 'C':
@@ -270,7 +270,7 @@ rVK58Ohf = (int)floor(pxs_2o74e);
 break;
 case 'f':
 case 'F':
-n5Kh_1d61 >>= 702023591;
+
 break;
 }
 }
@@ -325,7 +325,7 @@ Cw2J2N4m96 = (int)floor(UQE3sK8F);
 }
 else if (pxs_2o74e >= N73Y6)
 {
-ToQt_ngB = (int)ceil(N0Ga);
+
 }
 else
 {
@@ -451,7 +451,7 @@ j++;
 }
 }
 
-F0PJhAc = nt0j(ETkkD);
+
 
 try
 {
@@ -461,7 +461,7 @@ case 0:
 Cw2J2N4m96 = (int)abs(xQ8wOh_xN);
 break;
 case 1:
-rVK58Ohf = (int)ceil(N0Ga);
+
 break;
 case 2:
 C25c30 %= 41625050;
@@ -473,7 +473,7 @@ case 4:
 OTdW = (int)abs(nyBFI6Q);
 break;
 case 5:
-vZ58xIphA = (int)abs(zGwopl7);
+
 break;
 case 6:
 u0yJ577 = nt0j(1009058044);
@@ -501,7 +501,7 @@ case 2:
 g425_H = Vs5M_U0Q / Cw2J2N4m96;
 break;
 case 3:
-F0PJhAc = nt0j(Bb6t4);
+
 break;
 default:
 DY0B1k0q = (int)abs(zGwopl7);

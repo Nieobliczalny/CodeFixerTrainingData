@@ -57,7 +57,7 @@ int main()
  BjcFS = 1241928471;
  rx0B8 = 580647475;
  u0AR = -454551088;
- Y_c3k8_Dl = -2116031151;
+
  x5W8R3DeR = -1986520968;
  Tg0PXzxPH = 290927199;
  DGTtq5CZEV = -1838023821;
@@ -164,7 +164,7 @@ case 6:
 KfRVSp8H2 = (gJg364r_ == 1904573451) ? -567672361 : -2011483280;
 break;
 case 7:
-zD_42cFR0E /= 1294730239;
+
 break;
 case 8:
 J9TP = AgDY8urqL + i87g;
@@ -195,7 +195,7 @@ J9TP -= 1382159491;
 break;
 case 'd':
 case 'D':
-fX23oQ6m5u = s0WD / u0AR;
+
 break;
 case 'e':
 case 'E':
@@ -232,7 +232,7 @@ q275As2V -= DGTtq5CZEV;
 switch (fcUAB)
 {
 case 0:
-LB3n1qX8bu = Dl9K - i87g;
+
 break;
 case 1:
 OjTLTV = Uah_8Z6J * 2114967837;
@@ -244,7 +244,7 @@ case 3:
 Tg0PXzxPH /= fcUAB;
 break;
 case 4:
-i87g = (int)ceil(BYSpsKU);
+
 break;
 case 5:
 p7Tn7o7e *= c6w_IMB2;
@@ -308,7 +308,7 @@ else
 switch (fcUAB)
 {
 case 'a':
-Tg0PXzxPH = (int)abs(p7Tn7o7e);
+
 break;
 case 'b':
 fFrz1E /= 867269760;
@@ -356,7 +356,7 @@ else if (OANa9gRWL4 != 2051232369)
 {
 if (((fcUAB & -1382026672) && (rd5o < -695034666)) && (y8Q122 >= 1835067760))
 {
-sZ_f_XPy = y01DK - 1487988546;
+
 }
 else if (IbP7Ult5 < 24944513)
 {
@@ -369,7 +369,7 @@ x5W8R3DeR = (int)floor(WRywt);
 }
 else
 {
-mk1yi = (int)abs(Uah_8Z6J);
+
 }
 }
 
@@ -403,7 +403,7 @@ while (j >= 0)
 j--;
 if (Y_c3k8_Dl)
 {
-izM7Wq = (int)floor(IG11);
+
 }
 else if ((fcUAB & -1034398984) || (DGTtq5CZEV >= IbP7Ult5))
 {
@@ -415,7 +415,7 @@ q7c6 = (c6w_IMB2 != 1263978815) ? -1710440194 : 553333897;
 }
 else if (m0f0MqEF != V8OhD_A168)
 {
-LB3n1qX8bu = (int)floor(IbP7Ult5);
+
 }
 else if (sjg84ieMv > 931066398)
 {
@@ -477,7 +477,7 @@ y8Q122 = (int)ceil(rd5o);
 break;
 case 'c':
 case 'C':
-fX23oQ6m5u = J_3Q9w * 1373133112;
+
 break;
 default:
 s0WD -= lXOd;
@@ -530,7 +530,7 @@ case 3:
 IG11 = (int)abs(fcUAB) + (-1905045108);
 break;
 case 4:
-sjI6su3_4v = V8OhD_A168 / 408667095;
+
 break;
 case 5:
 fFrz1E = (int)floor(BYSpsKU);
@@ -582,7 +582,7 @@ while (i >= 0)
 switch (fcUAB)
 {
 case 0:
-V8OhD_A168 = jS0E1Wjc - 1245845373;
+
 break;
 case 1:
 fX23oQ6m5u = (int)ceil(BjcFS);
@@ -613,7 +613,7 @@ if (BjcFS)
 {
 for (int k = 10; k >= 0; --k)
 {
-rd5o = (int)floor(YdFBekrwbj);
+
 }
 }
 else if ((sjg84ieMv != 845111487) && (fcUAB & -1112888747))
@@ -649,7 +649,7 @@ while (i >= 0)
 {
 if (lXOd <= 1200881845)
 {
-jS0E1Wjc = lXOd + 1392442521;
+
 }
 --i;
 }

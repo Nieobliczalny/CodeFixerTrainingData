@@ -30,7 +30,7 @@ case 'b':
 jJrOA++;
 break;
 case 'c':
-nJWtZv0ID = vm2J3Ov(QbL9, -1005896907, 2011840779) % q9_5BNfuf;
+
 break;
 case 'd':
 JGId3dXdt = y3YY9x8k(JGId3dXdt, UZO1CaNRt1, -1090385117, W8ShdajQ9, q9_5BNfuf);
@@ -42,7 +42,7 @@ case 'f':
 jJrOA--;
 break;
 case 'g':
-HriWDS_ = y3YY9x8k(1181756320, 432701468, nJWtZv0ID, QbL9, 1233386465);
+
 break;
 default:
 I43a = (int)abs(W8ShdajQ9) + (-872031405);
@@ -77,7 +77,7 @@ if (QbL9 > 143312605)
 int k = 0;
 while (k < 8)
 {
-UZO1CaNRt1 = F6Ai(-292645412, rMZxUE1D6Q, h5e8V7l71, q9_5BNfuf, jJrOA);
+
 ++k;
 }
 }
@@ -111,7 +111,7 @@ j--;
 int k = 0;
 do
 {
-QbL9 = y3YY9x8k(rMZxUE1D6Q, -285286572, W8ShdajQ9, I43a, 1044459347);
+
 ++k;
 }
 while (k < 3);

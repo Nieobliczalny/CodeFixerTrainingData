@@ -160,7 +160,7 @@ case 3:
 NeWS = fF1Od2(LP66__t_zK) | 979322229;
 break;
 case 4:
-L6ZH5t8 *= 1184622295;
+
 break;
 case 5:
 NeWS = rd_1EkmV(-912116172, bo0o, 1885704859, -1162397815);
@@ -220,7 +220,7 @@ if ((P5V6BA72_1 & LP66__t_zK) || (F762M & 470552687))
 int k = 3;
 while (k >= 0)
 {
-P5V6BA72_1 = fF1Od2(L6ZH5t8);
+
 --k;
 }
 }
@@ -256,7 +256,7 @@ bo0o = (int)floor(gS56);
 }
 else if ((P5V6BA72_1 >= -590183465) || ((cRb_iuQ8c >= gS56) && (cRb_iuQ8c < 1993925785)))
 {
-L6ZH5t8 = ZiPeKn5ql & 1645094565;
+
 }
 else if (L6ZH5t8 == -1487109236)
 {
@@ -288,7 +288,7 @@ case 0:
 ZiPeKn5ql = rd_1EkmV(-1401483075, -525656816, L6ZH5t8, gS56) / LP66__t_zK;
 break;
 case 1:
-P5V6BA72_1 = fF1Od2(312716484);
+
 break;
 case 2:
 F762M = fF1Od2(-1635867987);
@@ -306,7 +306,7 @@ case 6:
 LP66__t_zK = ZiPeKn5ql * LP66__t_zK;
 break;
 case 7:
-L6ZH5t8 ^= 691867712;
+
 break;
 case 8:
 bo0o = (int)ceil(gS56);

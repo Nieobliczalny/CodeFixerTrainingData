@@ -16,7 +16,7 @@ int main(int argc, char** argv) {
 	unsigned long	qAh43;
 	qAh43	=	0;
  unsigned int Bc58g4T;
- Bc58g4T = -1472479965;
+
   short  v9_g01L;
   v9_g01L  =  -1401104769;
   unsigned int  h_EVri;
@@ -49,7 +49,7 @@ cout << OpSQ2Ke << endl;
 
 cout << "i4ivhL" << qAh43 << As3t4ehT1 << h_EVri << "OSVI69" << endl;
 
-As3t4ehT1 = -1397834357 / h_EVri;
+
 
 Ww_1F = (int)abs(KctCJ) * 0;
 {
@@ -79,7 +79,7 @@ while (i < 5);
 
 try
 {
-As3t4ehT1 = V4gCom__v3 | TD41f0I;
+
 }
 catch (int& errorCode)
 {
@@ -120,7 +120,7 @@ TD41f0I = KctCJ >> R8q2cB6J;
 switch (TD41f0I)
 {
 case 'a':
-As3t4ehT1 = (int)abs(V4gCom__v3);
+
 break;
 case 'b':
 As3t4ehT1 = Ww_1F ^ tBT4w0;
@@ -162,7 +162,7 @@ while (k < 9);
 
 if (Ww_1F > tBT4w0)
 {
-Y_4r5cVjvQ = (unsigned int)(V4gCom__v3);
+
 }
 {
 int i = 0;

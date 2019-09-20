@@ -27,7 +27,7 @@ int main(int argc, char** argv)
 {
 	unsigned long long	Fm_b445iD1,	UPy1ND0z5S,	ktL_r1,	BRn1Q_8V,	v33OG1h4,	U_9OP,	EZclwgVj_i,	BnLL,	d21y,	VvXP8,	Bs_ck_Y95,	M_pS;
 	Fm_b445iD1	=	1385600358;
-	UPy1ND0z5S	=	1107751304;
+
 	ktL_r1	=	-1787274519;
 	BRn1Q_8V	=	2014020179;
 	v33OG1h4	=	375385433;
@@ -51,7 +51,7 @@ U_9OP = c9eMRZ0(U_9OP, -1031378533);
 }
 else
 {
-Fm_b445iD1 -= M37vFp4;
+
 }
 if (E7W0t5hAvd)
 {
@@ -79,7 +79,7 @@ case 'd':
 Xs9kk2Q = t1PgrK0iGt(1167209051);
 break;
 case 'e':
-ktL_r1 = Bs_ck_Y95 + 1667661761;
+
 break;
 case 'f':
 U_9OP = c9eMRZ0(-2088957850, M37vFp4);
@@ -125,7 +125,7 @@ else
 {
 for (int j = 0; j < 3; ++j)
 {
-Xs9kk2Q = (unsigned int)(JTVh4675SL * (c5s1));
+
 }
 }
 for (int i = 0; i < 1; ++i)

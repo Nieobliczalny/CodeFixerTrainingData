@@ -52,7 +52,7 @@ KqF3XY = W3ZU6A();
 break;
 case 'c':
 case 'C':
-D1C4t = KqF3XY / 1829603486;
+
 break;
 case 'd':
 case 'D':
@@ -163,7 +163,7 @@ case 1:
 LqE0 = iL1vTF3AN(-860647393, bz99J1X, D1C4t);
 break;
 case 2:
-J6MNr2p = W3ZU6A();
+
 break;
 default:
 bz99J1X = KqF3XY | 38525400;
@@ -579,7 +579,7 @@ case 'a':
 D1C4t = iL1vTF3AN(451294398, LqE0, 799646008);
 break;
 case 'b':
-dK3n = W3ZU6A() + RHmv9VMu8i;
+
 break;
 case 'c':
 bz99J1X = bz99J1X / y8206;

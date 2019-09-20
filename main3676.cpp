@@ -281,7 +281,7 @@ G1uZ %= 2061832977;
 break;
 }
 
-GN6d = (unsigned long)(aAkb0ft6n);
+
 
 return 0;
 }

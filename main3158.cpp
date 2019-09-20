@@ -30,7 +30,7 @@ int main() {
 	unsigned long long	K56b,	ymPrW1j,	Qvx6tHY3h0,	A8F12419,	JSSj37U,	x4vF1Vrol5;
 	K56b	=	-1006826926;
 	ymPrW1j	=	955390864;
-	Qvx6tHY3h0	=	-1140433934;
+
 	A8F12419	=	-727580388;
 	JSSj37U	=	1574129570;
 	x4vF1Vrol5	=	-876777976;

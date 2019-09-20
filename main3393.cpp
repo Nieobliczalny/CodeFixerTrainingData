@@ -152,7 +152,7 @@ catch (int& errorCode)
 rc6J6r = h129723(-2092348178);
 }
 
-W36f97 = (unsigned short int)(cm9Pm7Hz5i + (2133643622));
+
 
 OwkUD = h129723(-1742309893);
 
@@ -251,7 +251,7 @@ case 'a':
 oY8a1mbBU = nxebY3(BK4y99wwc, -1648030268);
 break;
 case 'b':
-WPEufIcQ6 = r3iM - 707904112;
+
 break;
 case 'c':
 rOa1j2 = Amr3O(BK4y99wwc, Mx9wg8l9Pf, yyOx4bJ_, 578198541) / nrLM_2B;

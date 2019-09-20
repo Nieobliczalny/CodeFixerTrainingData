@@ -652,7 +652,7 @@ cout << h00Athd(22040243, -650968045, Wij3y) << endl;
 }
 
 k_9K = (unsigned char)(l92ZIB * k_9K);
-B7uKbUQgn = BN5hS5NX7(B7uKbUQgn, 1105959692);
+
 try
 {
 {
@@ -676,7 +676,7 @@ NlZfY_ = (short int)(Wij3y);
 }
 else if (((NlZfY_ == -742743914) && (dX08 >= 2126048300)) && ((DpPaSK_BUT & -647454639) || (w6ApPhI & 312026850)))
 {
-w6ApPhI = (int)abs(SyY7dV48);
+
 }
 else if (DpPaSK_BUT < 1558958554)
 {
@@ -761,7 +761,7 @@ cout << SyY7dV48 << h00Athd(-1830721544, P018slvq, 2041423716) << oGv9jK8(ZRUsOU
 switch (Wij3y)
 {
 case 'a':
-Y_03S = h00Athd(Y_03S, 1632730060, 424890393);
+
 break;
 case 'b':
 B653ksN1Q = oGv9jK8(Y_03S, 1278573721, Z1Dm2) % NlZfY_;

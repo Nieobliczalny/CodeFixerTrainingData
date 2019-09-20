@@ -30,7 +30,8 @@ int main() {
   short int  a_Z6IgyuV,  Kw4ie,  hG1sH91Y,  q_H9_39J,  Fk55za,  E6y9,  YjnpwZO11,  XoV553ZXaI,  xtl5d6,  HvyX47;
     a_Z6IgyuV  =  Kw4ie  =  hG1sH91Y  =  q_H9_39J  =  Fk55za  =  E6y9  =  YjnpwZO11  =  XoV553ZXaI  =  xtl5d6  =  HvyX47  =  -217283606;
     long    ouPC,    DU0P7x,    rz5_L,    Eo8T3NR_Z,    GFLVOB7;
-        ouPC    =    DU0P7x    =    rz5_L    =    Eo8T3NR_Z    =    GFLVOB7    =    0;
+        // codechecker_intentional [deadcode.DeadStores] Design rule - initialize all variables
+		ouPC    =    DU0P7x    =    rz5_L    =    Eo8T3NR_Z    =    GFLVOB7    =    0;
 
 for (int i = 10; i >= 0; --i)
 {

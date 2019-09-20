@@ -36,7 +36,7 @@ i32u8iR++;
 }
 while (i >= 0);
 }
-voA_sX2Z = (long long)(Tu8YubX_);
+
 YxrQ6Yand = (long long)(wLHO0 + (-921486612));
 
 tBEoQ3tTXo = (int)abs(x1cgA);
@@ -55,7 +55,7 @@ case 0:
 BPk5i8 = o14cR5G(bDv4N23__o, YxrQ6Yand, 114704763, 626890883, j66SL1);
 break;
 case 1:
-ATWC *= f6h6RT;
+
 break;
 case 2:
 G_C8 <<= tBEoQ3tTXo;
@@ -67,7 +67,7 @@ case 4:
 VbZFrv51fv <<= OIa25_;
 break;
 case 5:
-mJu1 = C9dr(mJu1, FFz4P);
+
 break;
 case 6:
 src5 = C9dr(src5, 412834050);
@@ -108,7 +108,7 @@ Jj06b08Q70 = y9o_3 | src5;
 
 a5H1x2GfxF = C9dr(-1886610575, Xoi8);
 
-voA_sX2Z = (long long)(Bhu9u);
+
 
 {
 int i = 5;
@@ -137,7 +137,7 @@ else
 {
 if (V0Xrel & -746738703)
 {
-FFRGG = o14cR5G(2033816071, -948292782, 755208122, -1656323513, 268655655);
+
 }
 else if (twBz5x2)
 {
@@ -153,7 +153,7 @@ jHjWj = ixwIV7 >> 268376398;
 }
 else if (a_I__lz_4 < yTE25_8z)
 {
-tBEoQ3tTXo = C9dr(-641837877, MzieS40Yh8);
+
 }
 else if (((Ze1P4J > Jj06b08Q70) && (OIa25_ & -1922927750)) || (cn5_0i6 < -489687927))
 {
@@ -203,7 +203,7 @@ V0Xrel = o14cR5G(OIa25_, Bhu9u, z78sC_7, tz0_s3A, bDv4N23__o);
 }
 else
 {
-tBEoQ3tTXo = Wto_qjIG * cn5_0i6;
+
 }
 }
 std::cout << "HndJ" << "K46168OS4" << "PH6OQhI3" << G_C8 << std::endl;
@@ -236,7 +236,7 @@ case 'C':
 or8lDf /= 461181952;
 break;
 default:
-FFRGG = o14cR5G(gi5N5, femse, -1251669275, J_D3_R4, 861111578);
+
 break;
 }
 ++j;
@@ -248,7 +248,7 @@ else if (((Bhu9u != ixwIV7) && (BsdbK72vs > ixwIV7)) || (x1cgA & 835589079))
 {
 if ((H5Eqoa75n) || ((gi5N5 <= b6sTVm) && (n0x2J)))
 {
-Wto_qjIG = (long long)(b6sTVm);
+
 }
 else
 {
@@ -274,7 +274,7 @@ while (j < 4);
 j66SL1 = C9dr(-258858991, BPk5i8);
 for (int i = 9; i >= 0; i--)
 {
-X3O4v1av = o14cR5G(-703689115, -2005911004, -2017627574, 1432082452, -183134589) - 1275344072;
+
 }
 
 V0Xrel = o14cR5G(101698226, 1975708985, -1118477672, M8xx0, pcOE);
@@ -298,7 +298,7 @@ switch (a5H1x2GfxF)
 {
 case 'a':
 case 'A':
-FFRGG = o14cR5G(BsdbK72vs, V2tTj, L2NOvZgp07, j66SL1, 1516479593);
+
 break;
 case 'b':
 case 'B':
@@ -310,7 +310,7 @@ ZO3b4v2OF <<= i0OLw08;
 break;
 case 'd':
 case 'D':
-J5G22wO = C9dr(538995610, rKtzl);
+
 break;
 case 'e':
 case 'E':

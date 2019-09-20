@@ -39,7 +39,7 @@ int main(int argc, char** argv) {
   ch283  =  -1772867700;
   W_cZ5  =  1497581908;
   vyvj21  =  -346098800;
-  fIEITb1Rh  =  -2072342403;
+
   VNv4  =  -795931728;
   q3h2r  =  -1362462385;
   x7_3b  =  2132638660;
@@ -86,7 +86,7 @@ Hw7z0K33wb = Rm4exnslv >> ch283;
 break;
 case 'b':
 case 'B':
-Q_toGj3O0 = (Ohu_U6TlE >= 591094012) ? f_RkD : GS88el8;
+
 break;
 case 'c':
 case 'C':
@@ -110,7 +110,7 @@ pWEK /= 1635637889;
 break;
 case 'h':
 case 'H':
-x7_3b = LW8crvsQ(-1488363777);
+
 break;
 case 'i':
 case 'I':
@@ -131,7 +131,7 @@ while (i < 4);
 }
 
 std::cout << qyhyi(pWEK) << "wS_JDh62" << "vS8ld4" << std::endl;
-ptV7s = RCW_Hf_6ZS / Ohu_U6TlE;
+
 std::cout << Hw7z0K33wb << f_RkD << tF_62n7271 << Ohu_U6TlE << std::endl;
 tF_62n7271 = WBWHc1 << vyvj21;
 
@@ -142,7 +142,7 @@ do
 switch (j5LS_uC)
 {
 case 0:
-fIEITb1Rh = qyhyi(-209212711);
+
 break;
 case 1:
 Rm4exnslv &= 1510696027;
@@ -196,7 +196,7 @@ std::cout << cQ96 << std::endl;
 }
 if (AZqmJ7u5m0 <= X4NMJ)
 {
-AK5o23VU5s = (unsigned int)(tF_62n7271);
+
 }
 else
 {
@@ -233,7 +233,7 @@ try
 {
 for (int k = 0; k < 3; ++k)
 {
-j5LS_uC = cQ96 | 1724111114;
+
 }
 }
 catch (int& errorCode)
@@ -256,7 +256,7 @@ int k = 10;
 while (k >= 0)
 {
 --k;
-pWEK = DeK1();
+
 }
 }
 }
@@ -278,7 +278,7 @@ else if ((VNv4 < 1796599319) || (q3h2r & 975820334))
 {
 if ((Hw7z0K33wb) && (AZqmJ7u5m0))
 {
-Hw7z0K33wb = LW8crvsQ(Ohu_U6TlE);
+
 }
 else
 {

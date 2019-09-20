@@ -98,7 +98,7 @@ k--;
 }
 }
 
-Ps8857sY7 = 998608367 / b420b54W;
+
 
 try
 {
@@ -108,7 +108,7 @@ case 0:
 Z3jI1 = (int)floor(hJ6BwO_PS);
 break;
 case 1:
-D5AlwRqhq_ = Ug9VdU7 * 138660585;
+
 break;
 case 2:
 Y0Y4 = (int)abs(R4_A2x0OR);
@@ -132,7 +132,7 @@ int i = 10;
 while (i >= 0)
 {
 i--;
-qisjBd3454 = T5TpV - 797524796;
+
 }
 }
 return 0;

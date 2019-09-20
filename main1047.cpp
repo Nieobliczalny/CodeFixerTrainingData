@@ -107,7 +107,7 @@ case 'a':
 d5t5_A >>= x4AR;
 break;
 case 'b':
-e6WdS6 = e6WdS6 << Ks07p;
+
 break;
 case 'c':
 x4AR /= 1050859379;
@@ -128,7 +128,7 @@ case 'h':
 Ks07p++;
 break;
 case 'i':
-Y2J__N += x4AR;
+
 break;
 case 'j':
 g88_x6F7 = Ks07p >> Y2J__N;

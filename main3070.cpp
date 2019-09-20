@@ -261,7 +261,7 @@ UvV7Qp /= 1599277983;
 break;
 case 'e':
 case 'E':
-ziS2Jo = (int)ceil(yw4n70);
+
 break;
 case 'f':
 case 'F':
@@ -281,7 +281,7 @@ I8L3PLkSQM *= 1720396371;
 break;
 case 'j':
 case 'J':
-oOph = s8mT5fmMK + F5103gnM;
+
 break;
 }
 j++;
@@ -306,7 +306,7 @@ yw4n70 += yw4n70;
 }
 else if ((I8L3PLkSQM & s8mT5fmMK) || (F5103gnM != UvV7Qp))
 {
-oOph /= UvV7Qp;
+
 }
 else if ((BqejR) || (I8L3PLkSQM == -1678982119))
 {

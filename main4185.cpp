@@ -255,7 +255,7 @@ else
 {
 for (int k = 0; k < 2; k++)
 {
-MniZ = (int)abs(I6_hGJ) + (-1285398587);
+
 }
 }
 }

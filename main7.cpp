@@ -33,7 +33,7 @@ int main(int argc, char** argv)
 	unsigned int	DGEP;
 	DGEP	=	-1698921030;
 	unsigned long long	wfOzvy5dW;
-	wfOzvy5dW	=	2007486398;
+
     unsigned char    HdSd;
     HdSd    =    1459397440;
 	short int	JhtJ0I;
@@ -85,7 +85,7 @@ int main(int argc, char** argv)
 	float	G7xLu_pB;
 	G7xLu_pB	=	-1929621894;
   float  xnRztmnt;
-  xnRztmnt  =  1071139302;
+
  unsigned long ZHm6;
  ZHm6 = 0;
 	unsigned short int	g1G0fN_fj4;
@@ -101,7 +101,7 @@ int main(int argc, char** argv)
   int  sP4zYP;
   sP4zYP  =  173786595;
 	short	gaQFHR;
-	gaQFHR	=	1942109250;
+
 	unsigned char	AMh96Tj5;
 	AMh96Tj5	=	1933559061;
  char mJb0;
@@ -117,7 +117,7 @@ int main(int argc, char** argv)
     short int    X_P6;
     X_P6    =    -1566592459;
  unsigned short fqt71ty;
- fqt71ty = -44948277;
+
 	long	A3djly;
 	A3djly	=	-535873478;
 	unsigned char	Sfdw;
@@ -133,7 +133,7 @@ int main(int argc, char** argv)
 	double	zP_rJ;
 	zP_rJ	=	-557380044;
   unsigned char  eVb_9rE52S;
-  eVb_9rE52S  =  -1901843069;
+
   unsigned char  pHq7k9KW;
   pHq7k9KW  =  -1250246217;
  unsigned long MUvztPh;
@@ -143,7 +143,7 @@ int main(int argc, char** argv)
 	short	LgU5L;
 	LgU5L	=	-1349725550;
  double oos7o;
- oos7o = 891534205;
+
  long b_a39;
  b_a39 = 836763762;
  short wsV64aY;
@@ -153,7 +153,7 @@ int main(int argc, char** argv)
     char    VQNx_TEr9;
     VQNx_TEr9    =    -1559686307;
  unsigned int sb_O7yNpf4;
- sb_O7yNpf4 = 122090550;
+
  char Mmfg;
  Mmfg = -1786316420;
 	long long	Ec7U;
@@ -165,7 +165,7 @@ int main(int argc, char** argv)
     unsigned long    P1SZ1HRD;
     P1SZ1HRD    =    -1709531783;
  unsigned short dgxlmY7;
- dgxlmY7 = 1950016613;
+
 	double	K5E627N;
 	K5E627N	=	-325685793;
 	float	kCbdJ;
@@ -230,7 +230,7 @@ int k = 4;
 while (k >= 0)
 {
 k--;
-fqt71ty = rV_apVTU3c + 1519887359;
+
 }
 }
 ++j;
@@ -262,7 +262,7 @@ else
 switch (j0IkZ8dR65)
 {
 case 0:
-e6M9_lw = erPrh_j1(bQRWgI6_8L);
+
 break;
 case 1:
 fqt71ty = bga4228(-2084769606, -1333444690, zP_rJ, -820951895);
@@ -274,7 +274,7 @@ case 3:
 e6M9_lw = erPrh_j1(-779246322);
 break;
 case 4:
-tr6TiIjI2 <<= nLuie_Ny8p;
+
 break;
 case 5:
 sfiMbDO %= 1944614412;
@@ -289,7 +289,7 @@ case 8:
 JtkIupg = (int)ceil(e8H04a);
 break;
 case 9:
-g1G0fN_fj4 >>= 564926023;
+
 break;
 default:
 AMh96Tj5 = Unx_();
@@ -324,7 +324,7 @@ catch (int& errorCode)
 {
 bQRWgI6_8L = (int)abs(ADu3ZD5);
 }
-eVb_9rE52S = (unsigned char)(wsV64aY);
+
 
 try
 {
@@ -382,7 +382,7 @@ if ((qa6irnxt < K5E627N) || ((q3f7q) || (mJb0 & -1966262771)))
 {
 for (int k = 8; k >= 0; k--)
 {
-eVb_9rE52S = rV_apVTU3c ^ 212199320;
+
 }
 }
 else
@@ -410,7 +410,7 @@ break;
 }
 for (int i = 1; i >= 0; --i)
 {
-oos7o = (double)(d4tO5tf0V);
+
 }
 wsV64aY = Unx_();
 {
@@ -440,7 +440,7 @@ for (int j = 0; j < 8; ++j)
 switch (NQ2qJ7)
 {
 case 0:
-s8nX50 = sfiMbDO << DGEP;
+
 break;
 case 1:
 Ec7U = m9Ep24W_(2004459210, 487776871, -1294301067, 323242922);
@@ -452,7 +452,7 @@ case 3:
 sfiMbDO = bga4228(-144114495, A3djly, GqW0JUW1I, MUvztPh) | 430158004;
 break;
 case 4:
-roTI7W = JhtJ0I ^ b_a39;
+
 break;
 case 5:
 gaQFHR = hx__N + HdSd;
@@ -464,7 +464,7 @@ case 7:
 bQRWgI6_8L -= pHq7k9KW;
 break;
 default:
-s8nX50 = (int)abs(OA39_9c);
+
 break;
 }
 }
@@ -494,7 +494,7 @@ case 0:
 C9tWs_22_o = kCbdJ - 1610856937;
 break;
 case 1:
-sP4zYP = (int)abs(bQRWgI6_8L);
+
 break;
 case 2:
 HdSd = (K5E627N != 2006036478) ? X_P6 : rV_apVTU3c;
@@ -506,7 +506,7 @@ case 4:
 ZHm6 = erPrh_j1(juCO);
 break;
 case 5:
-hSSK = (int)floor(knW56M5wkH);
+
 break;
 case 6:
 e6M9_lw = erPrh_j1(aVGfF);
@@ -518,7 +518,7 @@ case 8:
 eVb_9rE52S = (vEh2 < 261733875) ? 2117438308 : mJb0;
 break;
 default:
-e2n7WV5vA &= Mmfg;
+
 break;
 }
 try
@@ -542,7 +542,7 @@ int k = 0;
 while (k < 5)
 {
 ++k;
-RKntc = Unx_();
+
 }
 }
 }
@@ -563,7 +563,7 @@ ECd5kIw = Unx_();
 break;
 case 'b':
 case 'B':
-GqW0JUW1I = (int)ceil(e8H04a);
+
 break;
 case 'c':
 case 'C':
@@ -575,7 +575,7 @@ o4s025 = m9Ep24W_(o4s025, 772619184, -2523472, 44032064);
 break;
 case 'e':
 case 'E':
-GqW0JUW1I = Unx_();
+
 break;
 default:
 vEh2 = erPrh_j1(lqFL14QB);
@@ -590,7 +590,7 @@ else if (PP6r & 1319114615)
 {
 try
 {
-sP4zYP = (int)abs(juCO);
+
 }
 catch (int& errorCode)
 {
@@ -608,7 +608,7 @@ switch (RKntc)
 {
 case 'a':
 case 'A':
-DGEP = m9Ep24W_(-1114110585, -1955287930, 21066060, nLuie_Ny8p);
+
 break;
 }
 }
@@ -621,7 +621,7 @@ case 0:
 sfiMbDO--;
 break;
 case 1:
-hSSK = (int)floor(G7xLu_pB);
+
 break;
 case 2:
 q3f7q = (int)abs(kCbdJ);
@@ -641,7 +641,7 @@ do
 int k = 0;
 while (k < 6)
 {
-gaQFHR = Unx_() * 117944412;
+
 k++;
 }
 }
@@ -654,7 +654,7 @@ else
 {
 juCO = (int)ceil(oos7o);
 }
-OA39_9c = (int)floor(e8H04a);
+
 return 0;
 }
 

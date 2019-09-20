@@ -43,7 +43,7 @@ int main()
     long    RGo6_E;
     RGo6_E    =    -1506740275;
  unsigned short int cPFV;
- cPFV = -1310155069;
+
  char w5S1vrnU2o;
  w5S1vrnU2o = -1056384037;
  float IhkA;
@@ -69,7 +69,7 @@ int main()
 	long long	y2gvdH1w0;
 	y2gvdH1w0	=	165621589;
   unsigned short  j8M3FH;
-  j8M3FH  =  292189866;
+
     char    P6XA6QL_;
     P6XA6QL_    =    1091780743;
     long double    fgLPh;
@@ -79,7 +79,7 @@ int main()
  int CW1_CrPCbC;
  CW1_CrPCbC = -137708442;
   unsigned long  dE942CEF08;
-  dE942CEF08  =  -526248872;
+
   char  g1o9K_Veo;
   g1o9K_Veo  =  -1016208365;
   long long  schGr;
@@ -106,7 +106,7 @@ std::cout << F7FX << "i4B0h" << std::endl;
 switch (y2gvdH1w0)
 {
 case 'a':
-j8M3FH = qP6t5lc1(-772049466, zwl7262s_7, w5S1vrnU2o);
+
 break;
 case 'b':
 IhkA = (int)floor(EiH5);
@@ -118,7 +118,7 @@ case 'd':
 EiH5 = (int)ceil(IhkA);
 break;
 case 'e':
-schGr = (int)abs(Q2o_R) + (-48126511);
+
 break;
 case 'f':
 w5S1vrnU2o = (int)abs(uR_u81);
@@ -130,7 +130,7 @@ case 'h':
 kKBX_a = W_2z3k(hn__wGn, kKBX_a);
 break;
 case 'i':
-schGr >>= 1888532303;
+
 break;
 }
 
@@ -141,7 +141,7 @@ case 0:
 dE942CEF08 = qP6t5lc1(-1427205898, l4xY, -2132595148);
 break;
 case 1:
-fgLPh = (int)abs(kv0K7I431);
+
 break;
 default:
 HPq5R916Nu = y2gvdH1w0 ^ zwl7262s_7;
@@ -161,7 +161,7 @@ if (HPq5R916Nu == w1xHV4)
 {
 if (jOLZVHRjW <= udiFw0d6VI)
 {
-pjWjB0xeJ = LHwU_C(P6XA6QL_, pjWjB0xeJ, -1766702936);
+
 }
 }
 if (ExP_nD9s8n)
@@ -172,7 +172,7 @@ case 'a':
 CW1_CrPCbC = (int)abs(hn__wGn) + (1369323718);
 break;
 case 'b':
-HPq5R916Nu = W_2z3k(1439562517, -737349986);
+
 break;
 case 'c':
 IhkA = (int)floor(EiH5);
@@ -184,7 +184,7 @@ case 'e':
 g1o9K_Veo /= kv0K7I431;
 break;
 case 'f':
-RGo6_E *= KrtW;
+
 break;
 case 'g':
 kKBX_a = h4rL1J5(1418419174, 1510461794, F7FX, 1167558961, -281005749);
@@ -196,7 +196,7 @@ case 'i':
 KrtW = qP6t5lc1(-828186226, -591695336, -885196934);
 break;
 default:
-fgLPh = (int)floor(IhkA);
+
 break;
 }
 }
@@ -215,7 +215,7 @@ EiH5 = (double)(P6XA6QL_);
 std::cout << W_2z3k(KrtW, 1902655927) << qP6t5lc1(-1810685434, kKBX_a, 1341717211) << std::endl;
 for (int i = 0; i < 3; ++i)
 {
-fgLPh = (int)floor(EiH5);
+
 }
 return 0;
 }

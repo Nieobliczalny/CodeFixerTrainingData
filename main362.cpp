@@ -802,7 +802,7 @@ V7BT = vXYY9gF7();
 break;
 case 'b':
 case 'B':
-jrr4tFib = (int)abs(zdvzksl6C);
+
 break;
 case 'c':
 case 'C':
@@ -824,7 +824,7 @@ int j = 0;
 do
 {
 ++j;
-NA7532 = vXYY9gF7();
+
 }
 while (j < 7);
 }

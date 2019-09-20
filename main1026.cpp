@@ -465,7 +465,7 @@ case 0:
 TepU2 = xC0Bu ^ H3elGGS;
 break;
 case 1:
-UK_UQD8_In = (rp2P285 == -1420256320) ? -674731574 : bXi_CG(ocf5pxVe, TepU2, xC0Bu, -241340372);
+
 break;
 case 2:
 ZOUWylrzi = bXi_CG(-461682175, ZOUWylrzi, -688946706, xC0Bu);
@@ -512,7 +512,7 @@ else if (bGG98 >= 2061629106)
 {
 for (int j = 0; j < 8; j++)
 {
-tdB_3_4 = (long)(sSWfP4YYO);
+
 }
 }
 else

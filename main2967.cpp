@@ -26,7 +26,7 @@ int main(void) {
     long long    plmza;
     plmza    =    0;
  long cIi86;
- cIi86 = -1388257765;
+
  unsigned long long pnfOnle4k9;
  pnfOnle4k9 = -1673914466;
     unsigned short    WxN5QB;
@@ -307,7 +307,7 @@ case 3:
 XDt8L_o3 = Fn5_57I0BK(-822604635, 111370403, -959258508, -587543907, -1424073882);
 break;
 case 4:
-V26LvC0xso = Fn5_57I0BK(155540864, 1359955580, 563631385, XDt8L_o3, WxN5QB);
+
 break;
 case 5:
 Z5Yp %= 1891821366;
@@ -327,7 +327,7 @@ else
 std::cout << plmza << std::endl;
 }
 
-XDt8L_o3 = Fn5_57I0BK(y8G36u, -1843907259, -1550640989, XDt8L_o3, 295114874);
+
 
 for (int i = 0; i < 1; i++)
 {
@@ -361,7 +361,7 @@ j--;
 }
 }
 }
-V26LvC0xso = Fn5_57I0BK(Z5Yp, 658719598, 1912370421, -1082709626, plmza);
+
 try
 {
 if (tmse_ETBI != 1562598184)

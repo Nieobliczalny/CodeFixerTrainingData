@@ -19,7 +19,7 @@ int main(int argc, char** argv) {
  long double SIZrn_;
  SIZrn_ = 481446364;
     unsigned long long    mLvO2T2;
-    mLvO2T2    =    -1906072733;
+
 	long	W13aH5_8;
 	W13aH5_8	=	1792639010;
     unsigned short int    CYgya;
@@ -31,7 +31,7 @@ int main(int argc, char** argv) {
     float    ca_l5;
     ca_l5    =    751621812;
 	unsigned long long	y98qR5mH;
-	y98qR5mH	=	-2047038427;
+
  short int s3C10_0D1G;
  s3C10_0D1G = -948069063;
 	unsigned char	LBJO2;
@@ -41,7 +41,7 @@ int main(int argc, char** argv) {
     int    gC2V;
     gC2V    =    -1481626877;
   double  N31r8;
-  N31r8  =  -161716664;
+
  unsigned short fi8H;
  fi8H = -1407289088;
  unsigned char plS5qX8y;
@@ -51,7 +51,7 @@ int main(int argc, char** argv) {
   int  RUQ4Cd414z;
   RUQ4Cd414z  =  -847236341;
     unsigned short    mbD9B5xw9n;
-    mbD9B5xw9n    =    -1735394913;
+
     float    KhXO;
     KhXO    =    1917206018;
   unsigned long long  Fx5cWAUGWP;
@@ -73,7 +73,7 @@ int main(int argc, char** argv) {
     char    tx8amF;
     tx8amF    =    -280996748;
   unsigned char  Dr040Bv;
-  Dr040Bv  =  -1408865555;
+
  unsigned long ki1_;
  ki1_ = -554163315;
  long long kh88u;
@@ -85,7 +85,7 @@ int main(int argc, char** argv) {
  float Is154UN;
  Is154UN = -1597387934;
   unsigned char  Si1utTlOki;
-  Si1utTlOki  =  -1786757895;
+
     int    c20I1x;
     c20I1x    =    -41594531;
  long double UbqbP;
@@ -95,7 +95,7 @@ int main(int argc, char** argv) {
     long    e9_6;
     e9_6    =    -2087825794;
   short int  TA4ARm_;
-  TA4ARm_  =  1850777464;
+
 	char	iEm1zY1ecC;
 	iEm1zY1ecC	=	998724676;
 	char	LqUqH_Co;
@@ -105,7 +105,7 @@ int main(int argc, char** argv) {
   short int  S6deS;
   S6deS  =  1400190000;
   short  dWJn0zQFM6;
-  dWJn0zQFM6  =  1834731219;
+
   int  xYRA_Tw_;
   xYRA_Tw_  =  -1109153921;
     long long    X_RT6;
@@ -115,7 +115,7 @@ int main(int argc, char** argv) {
  double GZJY4pUp;
  GZJY4pUp = 1783316502;
  float wNrvnccd;
- wNrvnccd = -1773882318;
+
   unsigned long long  hz7_2LLek;
   hz7_2LLek  =  1820021282;
     long long    TF8l;
@@ -127,7 +127,7 @@ int main(int argc, char** argv) {
     short    O71p1;
     O71p1    =    -1807429475;
 	unsigned int	TLo17W92n;
-	TLo17W92n	=	0;
+
   float  Tjg3ZL8;
   Tjg3ZL8  =  1402858886;
 	char	O2I_1l4Y_;
@@ -139,7 +139,7 @@ int main(int argc, char** argv) {
   int  qx9G3KBnD4;
   qx9G3KBnD4  =  -143158815;
 	unsigned short	zqRK3xwXW5;
-	zqRK3xwXW5	=	-634586988;
+
   unsigned long  lO7t672pvN;
   lO7t672pvN  =  165517910;
   long long  ptO3aLc;
@@ -149,7 +149,7 @@ int main(int argc, char** argv) {
  long mUWeB0O7W;
  mUWeB0O7W = -303604036;
   unsigned long long  wi4078qV;
-  wi4078qV  =  1640529700;
+
   short int  tFE0DDdc3T;
   tFE0DDdc3T  =  -1951287310;
 	unsigned char	p_Ro;
@@ -161,7 +161,7 @@ int main(int argc, char** argv) {
  unsigned short int NnD10lF;
  NnD10lF = -603507034;
 	float	xY642Hb_xP;
-	xY642Hb_xP	=	-639851878;
+
     int    OwcK5eH0;
     OwcK5eH0    =    1354491619;
     unsigned short    kNf98Uk781;
@@ -171,7 +171,7 @@ int main(int argc, char** argv) {
   unsigned char  E_XYBm;
   E_XYBm  =  -2010151159;
  short mkHd1cM2ba;
- mkHd1cM2ba = 1108171018;
+
   short  vsazGG;
   vsazGG  =  121784527;
  long double Tm3I0;
@@ -198,7 +198,7 @@ while (j >= 0)
 int k = 0;
 do
 {
-TLo17W92n = S7_r3(TF8l, -1239490543, -1646782438);
+
 ++k;
 }
 while (k < 9);
@@ -220,7 +220,7 @@ case 2:
 xYRA_Tw_--;
 break;
 case 3:
-TLo17W92n = S7_r3(X_RT6, ptO3aLc, 2011871204);
+
 break;
 case 4:
 N31r8 = (int)floor(GZJY4pUp);
@@ -235,7 +235,7 @@ case 7:
 SIZrn_ = (int)abs(B3134);
 break;
 default:
-xe_8P1f = S7_r3(1657092793, X_RT6, vQRj1V52);
+
 break;
 }
 }
@@ -245,7 +245,7 @@ SIZrn_ /= at20s;
 }
 else
 {
-O2I_1l4Y_ = (char)(tFE0DDdc3T);
+
 }
 std::cout << LSQmKmr4o2 << TF8l << "OMTH" << "WtXUKpT" << std::endl;
 mbD9B5xw9n = zCPB % 1560214572;
@@ -264,7 +264,7 @@ ca_l5 = (int)floor(B3134);
 }
 }
 }
-p_Ro = -1011971521 / TLo17W92n;
+
 
 std::cout << "uLHig4_" << SIZrn_ << "UI_eDC41Zy" << Is154UN << S7_r3(-506312431, -1031015403, Hh77) << std::endl;
 
@@ -279,7 +279,7 @@ int i = 7;
 do
 {
 --i;
-tx8amF = (int)abs(kh88u);
+
 }
 while (i >= 0);
 }

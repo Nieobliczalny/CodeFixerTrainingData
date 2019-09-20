@@ -295,7 +295,7 @@ if (i28muO1 <= AYgA6y_lx)
 switch (gv5nzXr68e)
 {
 case 0:
-D241b_Nb *= 1630236596;
+
 break;
 case 1:
 i28muO1 = iY08(i28muO1, i83yW);
@@ -324,7 +324,7 @@ case 1:
 a2SsZ4km1++;
 break;
 case 2:
-IbW7phy2 = iY08(-1336424860, i83yW);
+
 break;
 case 3:
 i83yW |= O8O4;

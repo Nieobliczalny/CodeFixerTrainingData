@@ -22,7 +22,7 @@ int main() {
 	unsigned char	xUHpO;
 	xUHpO	=	582138301;
     unsigned char    a5ua;
-    a5ua    =    1862441577;
+
     int    Seg9;
     Seg9    =    -1694267030;
 	long long	l5iuy;
@@ -42,7 +42,7 @@ int main() {
  double bvO9f_bih;
  bvO9f_bih = -976590792;
  unsigned long hieRu2YqPi;
- hieRu2YqPi = -1340569197;
+
     double    NbF1ufs3;
     NbF1ufs3    =    2072016417;
 	double	t7mBR4;
@@ -56,7 +56,7 @@ int main() {
     int    L8XXi_w8;
     L8XXi_w8    =    -529476928;
 	unsigned short	K4_HBy;
-	K4_HBy	=	1462810170;
+
   long long  r8wA_;
   r8wA_  =  663222959;
   unsigned long long  EMKMU55;
@@ -68,7 +68,7 @@ int main() {
     short    JbucDdl;
     JbucDdl    =    -377675326;
  long double cKo7Gpo_8;
- cKo7Gpo_8 = 293245292;
+
     unsigned long long    jx2COFO7Jn;
     jx2COFO7Jn    =    1591831322;
     unsigned long long    ud2dol2S98;
@@ -78,7 +78,7 @@ int main() {
   unsigned short  G7GC;
   G7GC  =  -1356989290;
 	short int	h5_N8;
-	h5_N8	=	-1967359878;
+
  long double xejtYnfy_l;
  xejtYnfy_l = 1061671516;
   long long  q4P3;
@@ -100,7 +100,7 @@ int main() {
     short int    nmBV;
     nmBV    =    1092949113;
  short y47uVvONc;
- y47uVvONc = -1065015442;
+
     char    hK_E73;
     hK_E73    =    1286473145;
 	unsigned char	S9gT5z;
@@ -124,7 +124,7 @@ int main() {
   float  Ip4w;
   Ip4w  =  1051146043;
 	unsigned short	p1KryR2k;
-	p1KryR2k	=	1053439545;
+
 	float	S0Gv9h;
 	S0Gv9h	=	-680584457;
  unsigned int GBrQ1;
@@ -140,7 +140,7 @@ int main() {
   long  V52ctc0Ob2;
   V52ctc0Ob2  =  1389356733;
   double  q4B029;
-  q4B029  =  1737760774;
+
   int  zDD43z956;
   zDD43z956  =  -1831783965;
 	int	yzppxg0;
@@ -152,7 +152,7 @@ int main() {
  short int nw0B5;
  nw0B5 = 41982796;
  unsigned char v9Mt9;
- v9Mt9 = 2049435372;
+
  int OmmetO;
  OmmetO = -596537665;
  unsigned int t7Q_Y;
@@ -162,7 +162,7 @@ int main() {
   long long  gFmysBaD;
   gFmysBaD  =  -1433736374;
   unsigned long  iOR82H89F_;
-  iOR82H89F_  =  1863584777;
+
 	unsigned long long	cYG__;
 	cYG__	=	1794868534;
  long eJ39woi;
@@ -172,7 +172,7 @@ int main() {
 	unsigned char	S__tUD7Tdi;
 	S__tUD7Tdi	=	853337614;
  long l8m8;
- l8m8 = 1815363638;
+
     unsigned int    Gu5r8ASf;
     Gu5r8ASf    =    70060483;
  int T_FB3ZFOuC;
@@ -182,7 +182,7 @@ int main() {
  short int D73sk1J;
  D73sk1J = -399986059;
   unsigned short int  uLQL_;
-  uLQL_  =  -72392222;
+
  unsigned long C5c45K;
  C5c45K = -2048528012;
 	unsigned char	s7v024n;
@@ -196,7 +196,7 @@ int main() {
 	int	yj55;
 	yj55	=	1754955805;
 
-y47uVvONc = (short)(da56 + (-227286239));
+
 
 {
 int i = 0;
@@ -259,7 +259,7 @@ l5iuy = w43gy(s7Z4q6, Lh5_2_t, 1626287994, drhdpl61Ny);
 }
 else if (((nmBV & -1708814001) || (S9gT5z & 54316801)) && ((Xv_f_a4MS & B7650AW) && (wnz84R5iy0 <= 1505419780)))
 {
-NbF1ufs3 = (int)ceil(M0A0I);
+
 }
 else if (EMKMU55 != -210575962)
 {
@@ -272,7 +272,7 @@ VSgo = (int)abs(zDD43z956);
 }
 else if ((r8wA_ > -2117938957) && ((c_3d6 & da56) && (nw0B5)))
 {
-a5ua = (unsigned char)(b_X71w);
+
 }
 else if (NSQGo1tt <= y1su6)
 {
@@ -285,7 +285,7 @@ case 'b':
 l5iuy = w43gy(W4XQR, hK_E73, 1587699869, c_3d6);
 break;
 case 'c':
-q4P3 = (int)abs(gFmysBaD);
+
 break;
 case 'd':
 D73sk1J ^= X7MKmL6CFL;
@@ -306,7 +306,7 @@ case 'i':
 gHX9w = (int)floor(Alj02Umhj);
 break;
 default:
-NSQGo1tt = GBrQ1 + OmmetO;
+
 break;
 }
 }
@@ -368,7 +368,7 @@ if (k_21 == W4XQR)
 {
 if (M0A0I >= jx2COFO7Jn)
 {
-r8wA_ ^= HLc75Y;
+
 }
 else
 {
@@ -405,7 +405,7 @@ l5iuy = w43gy(-551873942, Gu5r8ASf, 1901560492, X7MKmL6CFL);
 }
 else if (Ip4w <= ipi22cclC3)
 {
-Lh5_2_t = (int)ceil(MB_F);
+
 }
 else if (((Xv_f_a4MS <= 960421671) || (VSgo < k_21)) || ((xUHpO) || (Gu5r8ASf < da56)))
 {
@@ -440,7 +440,7 @@ if (kaeOTLL9E <= t7mBR4)
 ipi22cclC3 = w43gy(V52ctc0Ob2, jx2COFO7Jn, mhUdy4CwE, 1123275987);
 }
 
-DpcyBoiHQ3 = (int)abs(L8XXi_w8);
+
 
 if (xUHpO)
 {
@@ -461,7 +461,7 @@ ipi22cclC3 = w43gy(OmmetO, 1025841659, t7mBR4, -1106783572);
 }
 }
 
-R4Mp = (long)(da56 + (245889510));
+
 ipi22cclC3 = w43gy(kaeOTLL9E, k_21, 1583667484, JbucDdl);
 cout << "l85N" << endl;
 D73sk1J %= 1548895785;

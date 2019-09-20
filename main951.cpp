@@ -40,7 +40,7 @@ int main(void) {
 P3R77o = y_CVVez1T / X1QKYVtm;
 
 me96o <<= 1578312549;
-X5X1uFdH0I = s0Id6J / tv7OuM94;
+
 
 std::cout << aq3XNjw << std::endl;
 try
@@ -169,7 +169,7 @@ else if (((sy3bXdQU4 > 446664473) || (y_CVVez1T)) && ((ItM1cE7ns < sy3bXdQU4) &&
 switch (tv7OuM94)
 {
 case 'a':
-pd_owbn1PS = (L33D) ? y_CVVez1T : me96o;
+
 break;
 case 'b':
 jhXzps = (int)ceil(s_N7q1Q);
@@ -353,7 +353,7 @@ me96o = ZBU6h7 << 1510012794;
 }
 else
 {
-Yp3n5Wj = b32y ^ W6DGSS;
+
 }
 }
 }
@@ -374,7 +374,7 @@ case 3:
 X5X1uFdH0I = (int)abs(ac26vr3Ky6);
 break;
 case 4:
-y_CVVez1T = sy3bXdQU4 * 513644683;
+
 break;
 case 5:
 y_CVVez1T <<= X6qML0;
@@ -422,7 +422,7 @@ int k = 4;
 while (k >= 0)
 {
 k--;
-L33D = (sy3bXdQU4 <= -1728232169) ? 766685629 : 704719457;
+
 }
 }
 }
@@ -434,7 +434,7 @@ Ye5Q = DnFl - 24696535;
 }
 else
 {
-p5WN88c *= 1508062698;
+
 }
 }
 }
@@ -444,7 +444,7 @@ s0Id6J = (int)ceil(ac26vr3Ky6);
 }
 else if (me96o <= 1434758444)
 {
-y_CVVez1T = OJDe_N << CnTwP6;
+
 }
 else
 {

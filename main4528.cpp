@@ -22,7 +22,7 @@ int main() {
     long    wvnTH,    Coz72EA,    d63px6,    c1vU4c6t,    pIy8J,    bSp21V0,    fAKhQd,    Uo0v,    Y63kTo1X2,    Ffi2_4u,    qV54,    X59c9,    UB9j9,    Cft7u92ez0,    E_Eu,    L18Fo6f4,    J9mS,    E9jX,    yPs5W_fo5,    s__m2Xu,    H5_8EY5,    K9OM,    GziPvaMFag,    etwWzBIbiq,    Gy8lZaxV1,    E7kH3_0Jg,    t2sJyL,    oTp1kGLO5,    N8JsTy97,    T5rOT,    v3sc;
     wvnTH    =    -230154426;
     Coz72EA    =    1875215551;
-    d63px6    =    -1500905383;
+
     c1vU4c6t    =    -1096742381;
     pIy8J    =    562728389;
     bSp21V0    =    -422910879;
@@ -45,7 +45,7 @@ int main() {
     GziPvaMFag    =    771105012;
     etwWzBIbiq    =    -2056944448;
     Gy8lZaxV1    =    -811810051;
-    E7kH3_0Jg    =    -1374726210;
+
     t2sJyL    =    1755968682;
     oTp1kGLO5    =    -1073351413;
     N8JsTy97    =    -272485968;
@@ -84,7 +84,7 @@ case 5:
 K9OM = (int)abs(a2s6V3xL) + (2091521106);
 break;
 case 6:
-d63px6 = Y63kTo1X2 / 1242251609;
+
 break;
 case 7:
 H5_8EY5 = J9mS << etwWzBIbiq;
@@ -101,7 +101,7 @@ else
 {
 if (Coz72EA & 752154684)
 {
-pIy8J = (etwWzBIbiq < Xi4gD2rYsU) ? wvnTH : K9OM;
+
 }
 else if (qV54 >= -454498663)
 {
@@ -113,7 +113,7 @@ Y63kTo1X2 >>= Coz72EA;
 }
 else
 {
-A679x1k41b = Po6GAzDPK();
+
 }
 }
 i--;
@@ -146,7 +146,7 @@ case 0:
 X59c9 >>= UB9j9;
 break;
 case 1:
-Gy8lZaxV1 = (N8JsTy97 == NREFuw) ? Po6GAzDPK() : Uo0v;
+
 break;
 case 2:
 UB9j9 = Po6GAzDPK() ^ c1vU4c6t;
@@ -158,7 +158,7 @@ case 4:
 J9mS |= 82991535;
 break;
 case 5:
-a2s6V3xL = (int)abs(c1vU4c6t) * 0;
+
 break;
 case 6:
 N8JsTy97 = (int)abs(GziPvaMFag);
@@ -180,7 +180,7 @@ while (j < 9)
 ++j;
 for (int k = 4; k >= 0; --k)
 {
-luT4Ey5 = Po6GAzDPK();
+
 }
 }
 }
@@ -199,7 +199,7 @@ if (Y63kTo1X2 != -2028422449)
 {
 try
 {
-Gy8lZaxV1 = N8JsTy97 * bSp21V0;
+
 }
 catch (int& errorCode)
 {
@@ -210,7 +210,7 @@ else if (J9mS >= Xi4gD2rYsU)
 {
 if (AUT_1n45 <= K9OM)
 {
-t2sJyL = (int)abs(Cft7u92ez0);
+
 }
 else if ((v3sc >= p60q40_1) || (etwWzBIbiq & -1344801320))
 {
@@ -223,7 +223,7 @@ AUT_1n45 = Po6GAzDPK();
 }
 else
 {
-luT4Ey5 = Po6GAzDPK();
+
 }
 }
 else
@@ -243,7 +243,7 @@ v3sc &= etwWzBIbiq;
 
 std::cout << Po6GAzDPK() << Po6GAzDPK() << Po6GAzDPK() << etwWzBIbiq << K9OM << std::endl;
 
-oTp1kGLO5 = (int)abs(Ffi2_4u);
+
 
 std::cout << UB9j9 / AUT_1n45 << std::endl;
 return 0;

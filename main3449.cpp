@@ -171,7 +171,7 @@ else
 {
 fJ_p_45LK = (long double)(ckQhe27BR);
 }
-C1y8 = (g3fv49 == x5UTmWxk8) ? 894005671 : 821547894;
+
 try
 {
 try
@@ -230,7 +230,7 @@ else if (Im6In_ & -555974923)
 {
 if (Zt6DfU60H != Z7rv)
 {
-Ijrc6hO4U = (int)floor(kaSp);
+
 }
 else if ((vDcqaK >= -149279724) && (Im6In_ < kaSp))
 {
@@ -251,7 +251,7 @@ switch (e3q1vA)
 {
 case 'a':
 case 'A':
-fJ_p_45LK = (int)floor(kaSp);
+
 break;
 case 'b':
 case 'B':
@@ -309,7 +309,7 @@ case 0:
 g3fv49 = ts68Pc % PCwe6slZ;
 break;
 case 1:
-W4ay9A9BJ = (int)abs(z12H_ue);
+
 break;
 case 2:
 Ijrc6hO4U = (int)floor(YYPTL_y1j);
@@ -321,7 +321,7 @@ case 4:
 sr_57++;
 break;
 default:
-i6Ah3Z -= 1202819675;
+
 break;
 }
 }

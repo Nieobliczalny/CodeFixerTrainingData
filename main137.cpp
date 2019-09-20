@@ -13,7 +13,7 @@ int main()
   double  WIz1pG3,  Qp958y,  ZMXOP,  pu44Vn38m,  R99uvr_J9G;
   WIz1pG3  =  1507901111;
   Qp958y  =  -535468570;
-  ZMXOP  =  -1903045173;
+
   pu44Vn38m  =  -1266422841;
   R99uvr_J9G  =  -1204939614;
 	unsigned short	Pq4e,	zGpZ9H,	ff62dSB,	nbem2njy_,	gh09M6OswM;
@@ -77,7 +77,7 @@ cout << Qp958y << endl;
 }
 else if (ZMXOP)
 {
-Pq4e = (unsigned short)(pu44Vn38m * Pq4e);
+
 }
 else if (R99uvr_J9G <= -1371525342)
 {
@@ -87,7 +87,7 @@ else if (Pq4e >= 986037830)
 {
 for (int k = 0; k < 9; ++k)
 {
-R99uvr_J9G = Pq4e % 1814196135;
+
 }
 }
 else
@@ -110,7 +110,7 @@ if (Pq4e & 1592889407)
 int k = 0;
 while (k < 3)
 {
-ZMXOP = Qp958y * pu44Vn38m;
+
 k++;
 }
 }
@@ -140,7 +140,7 @@ WIz1pG3 *= 289804519;
 }
 else
 {
-R99uvr_J9G = (int)abs(pu44Vn38m);
+
 }
 
 Qp958y = Qp958y * 1802596609;

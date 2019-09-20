@@ -102,7 +102,7 @@ int main()
   unsigned char  Rkrg3_6  =  1473924105;
     unsigned long    F1D1eY_7v    =    1863145104;
 
-KKmW1CZVs = aKfBJ_It5w / Ta6k68u7U1;
+
 
 if (BS538zX > o6fHU)
 {
@@ -113,7 +113,7 @@ int k = 3;
 while (k >= 0)
 {
 k--;
-zcG7YF3D = (int)floor(BS538zX);
+
 }
 }
 }
@@ -141,7 +141,7 @@ switch (gygHHEEi61)
 {
 case 'a':
 case 'A':
-FZfsk5s = vEc4__q(FZfsk5s, 1179171547);
+
 break;
 case 'b':
 case 'B':
@@ -156,7 +156,7 @@ case 'D':
 cV4Ts <<= uaPy_;
 break;
 default:
-dX599_KUz = (int)ceil(v6t2r);
+
 break;
 }
 }
@@ -175,7 +175,7 @@ case 0:
 E9l1Y7 = BM08G2J4(-397750222, v6t2r, CZJj9);
 break;
 case 1:
-U6Y3UDlndh = BM08G2J4(1816297013, Lpug5u5G, 1878763865);
+
 break;
 case 2:
 gyp71diw = b1sIE(1547951868, rBb4372bI0, S310r8);
@@ -187,7 +187,7 @@ case 4:
 OMIW = (int)ceil(x0gc9E);
 break;
 case 5:
-k3jd >>= 761620262;
+
 break;
 }
 }
@@ -206,7 +206,7 @@ else if (XkA9h <= Sc3p2ZBf)
 {
 for (int k = 0; k < 2; k++)
 {
-v6t2r = t1BM(-1293176641, 1464608943, -1956309784);
+
 }
 }
 else if ((uE80 == 1755618839) && (cdkG4QZkN != S310r8))
@@ -232,7 +232,7 @@ std::cout << g_MRDI << "yt_Rvq6m" << cdkG4QZkN << aKfBJ_It5w << Iu0My5 << std::e
 switch (W9gh3147i9)
 {
 case 'a':
-CZJj9 = b1sIE(CZJj9, -1597052909, DZZt9KCze6);
+
 break;
 case 'b':
 NSlJT2 = (int)floor(PqeX62V4I);
@@ -247,7 +247,7 @@ case 'e':
 OKlUh5 = (int)abs(Lpug5u5G);
 break;
 case 'f':
-Z6Xy94 = cV4Ts % 1940905614;
+
 break;
 case 'g':
 E9l1Y7 = vEc4__q(E9l1Y7, 198822504);
@@ -267,7 +267,7 @@ d0dRK75 = (int)abs(TQhJ21);
 break;
 }
 
-BS538zX = (float)(Z246OhG);
+
 W9gh3147i9 = (unsigned char)(XkA9h);
 
 aKfBJ_It5w = t1BM(1460593722, c3KQJy362, o6fHU);
@@ -303,7 +303,7 @@ W9gh3147i9 >>= Ltri;
 }
 else if (PqeX62V4I <= x1T6)
 {
-zcG7YF3D = (int)floor(x0gc9E);
+
 }
 else
 {
@@ -315,7 +315,7 @@ while (i >= 0);
 switch (Nd0A5Njo)
 {
 case 0:
-E9l1Y7 |= X3hx;
+
 break;
 }
 for (int i = 0; i < 2; i++)
@@ -331,7 +331,7 @@ c3KQJy362 = BM08G2J4(c3KQJy362, -2002784508, iP8Xr);
 }
 else if (hWZva1 <= Ta6k68u7U1)
 {
-dX599_KUz = (int)abs(OKlUh5);
+
 }
 else
 {

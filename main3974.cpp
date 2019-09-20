@@ -35,7 +35,7 @@ cout << En09A1() << "z6bqa750" << XWsqzvTCW8 << k86braz_R(IA18H3B9_e) << endl;
 }
 else if (IA18H3B9_e)
 {
-qq2_0G8pvi = k1igsydx2(729789844, UpT5, hXXhZ);
+
 }
 else if ((FrS2wa) || ((qq2_0G8pvi == 108644784) || (jyYhBd15E >= -1831761423)))
 {
@@ -53,7 +53,7 @@ else if (t2tLk == -1196992106)
 switch (VFiO86)
 {
 case 0:
-FrS2wa = En09A1();
+
 break;
 case 1:
 HZLoeq33O -= zWKdlTe;
@@ -94,7 +94,7 @@ if ((xYrO4yt7Q < UwSa) && (cTC_x))
 int j = 4;
 do
 {
-o_dFz = P2KzV(-1862867037, 1280590641);
+
 --j;
 }
 while (j >= 0);
@@ -117,7 +117,7 @@ else
 cout << k86braz_R(jyYhBd15E) << k86braz_R(1987741459) << VFiO86 << endl;
 }
 
-YFSSjJmMeU |= 1693623202;
+
 {
 int i = 0;
 do
@@ -161,7 +161,7 @@ cout << cTC_x << "tdZ2Wb69U2" << endl;
 }
 
 cout << "O_oS" << "chSevQ4" << endl;
-PPFJ3eGI = k1igsydx2(-2043065449, hXXhZ, -1004428481) / oQM9ZJa;
+
 
 return 0;
 }

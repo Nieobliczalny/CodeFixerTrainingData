@@ -57,7 +57,7 @@ if (XoB_5sW5H == 473301927)
 {
 for (int k = 0; k < 3; k++)
 {
-mO_El0DY = ky8IPP2(1247827093, -1937852993, -727870088, 1825376402, fT1gF_wg5C);
+
 }
 }
 }
@@ -104,7 +104,7 @@ catch (int& errorCode)
 {
 A0_S = p8GWZ3Xhs(423109541, -1861723927, De_k1, vHu5uiVOs0);
 }
-O8POs = (unsigned long)(Cm3afJTb);
+
 std::cout << 804904442 / De_k1 << std::endl;
 std::cout << oC7jY << "gz791j" << "Hu1ybIRsR9" << lrcU << "i6618c" << std::endl;
 
@@ -114,7 +114,7 @@ case 'a':
 ywqux5 = fkLNp(ywqux5, lrcU, A0_S, wby1GYf7aZ, Gm91saFq3h);
 break;
 default:
-S9De_RY1JV -= 759798146;
+
 break;
 }
 QyVEX679z = p8GWZ3Xhs(QyVEX679z, 1281901416, z6_0B38h, LnPt);
@@ -127,7 +127,7 @@ int k = 0;
 do
 {
 ++k;
-aZK4V = ywqux5 % 1666918649;
+
 }
 while (k < 2);
 }

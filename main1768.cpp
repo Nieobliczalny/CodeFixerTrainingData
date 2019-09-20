@@ -386,7 +386,7 @@ case 'b':
 VbLn9Qy3sP = VkhPh(x7U7f1g7u);
 break;
 case 'c':
-qTsI4pWz = (int)abs(x53P5);
+
 break;
 }
 }

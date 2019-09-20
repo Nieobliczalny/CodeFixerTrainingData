@@ -62,7 +62,7 @@ int k = 0;
 do
 {
 k++;
-vv9P6b = aALtj * Kbr37uG_x;
+
 }
 while (k < 8);
 }

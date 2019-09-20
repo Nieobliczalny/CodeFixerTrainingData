@@ -210,7 +210,7 @@ try
 int k = 4;
 do
 {
-yasX3TnI7w = (int)abs(z4R_) * 0;
+
 k--;
 }
 while (k >= 0);

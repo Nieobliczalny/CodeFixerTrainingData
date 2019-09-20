@@ -34,7 +34,7 @@ int main(void)
  m4O0xye3 = -34142999;
  Q4F8Y35m0 = 1896397378;
  mA360i0U = 1900792586;
- c6974Z7 = 89904130;
+
  Pu7k7ea9n = -1648016928;
  fxNH_ = 177376970;
  rj0D = -1443793558;
@@ -53,7 +53,7 @@ case 0:
 u95TGN = Q4F8Y35m0 >> T1sP;
 break;
 case 1:
-c6974Z7 = rj0D >> 86898682;
+
 break;
 case 2:
 nohX_n24 = Pu7k7ea9n / 637290547;
@@ -97,7 +97,7 @@ T1sP /= 1507092463;
 
 Fu_W1u2e9 = (unsigned short)(bRmi7m);
 
-qV_2dish_ = (unsigned short)(T1sP);
+
 
 c6974Z7 -= mA360i0U;
 
@@ -154,7 +154,7 @@ mA360i0U += u95TGN;
 while (i >= 0);
 }
 
-c6974Z7 <<= nohX_n24;
+
 
 if ((bRmi7m < 470469196) && (nohX_n24 != 1252629317))
 {
@@ -233,7 +233,7 @@ while (j >= 0);
 switch (l21hFW)
 {
 case 0:
-c6974Z7 = JY7z9G & 1096863205;
+
 break;
 case 1:
 fxNH_ = noQEXhp4u4 << 1720882779;
@@ -252,7 +252,7 @@ fxNH_ <<= 1001027896;
 break;
 }
 
-l21hFW = (int)abs(OS0R_5x);
+
 {
 int i = 0;
 do
@@ -274,7 +274,7 @@ while (i < 8)
 switch (fxNH_)
 {
 case 0:
-l21hFW = (int)abs(OS0R_5x);
+
 break;
 case 1:
 k28rYpG9ll &= Fu_W1u2e9;
@@ -296,7 +296,7 @@ switch (mA360i0U)
 {
 case 'a':
 case 'A':
-bRmi7m ^= WbdaHB7;
+
 break;
 case 'b':
 case 'B':
@@ -317,7 +317,7 @@ break;
 switch (JY7z9G)
 {
 case 0:
-u95TGN <<= m4O0xye3;
+
 break;
 case 1:
 u95TGN >>= 8575607;
@@ -329,7 +329,7 @@ case 3:
 bRmi7m = Pu7k7ea9n - m4O0xye3;
 break;
 case 4:
-Xm9HS ^= 1605533651;
+
 break;
 case 5:
 fxNH_ = vXQY * 994589108;
@@ -341,7 +341,7 @@ case 7:
 JY7z9G = (nohX_n24 < Xm9HS) ? WbdaHB7 : rIqb;
 break;
 default:
-l21hFW = (int)abs(OS0R_5x);
+
 break;
 }
 return 0;

@@ -105,7 +105,7 @@ try
 {
 if (y5Ge > -1582896208)
 {
-xRh01193C = (unsigned short)(uo7Qk);
+
 }
 }
 catch (int& errorCode)
@@ -293,7 +293,7 @@ case 6:
 S9ie |= 810357948;
 break;
 case 7:
-BBIfgTq = (int)abs(YhE2_9);
+
 break;
 case 8:
 gh84920CO = GTXar - 424182035;

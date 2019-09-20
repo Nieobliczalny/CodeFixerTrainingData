@@ -112,7 +112,7 @@ int main(void) {
  char Kq4x = -2056113552;
     float    t9dbBe817b    =    1597503733;
 
-iSg4Z = (unsigned short int)(JV5Y);
+
 for (int i = 0; i < 3; i++)
 {
 try
@@ -207,7 +207,7 @@ while (i < 1);
 switch (BCJKfzOKu0)
 {
 case 'a':
-Kq4x = cpFu0_Jtr(Kq4x, -96115292, cs8wR8, HS7vF, PIcB0051U);
+
 break;
 case 'b':
 cmkYe45DTf = TV5NA7i(diZeymeI, -315139515);
@@ -225,7 +225,7 @@ case 'f':
 LAvQ = (int)floor(LmWPhJIGwT);
 break;
 case 'g':
-F_1czb5kO2 = (int)floor(yE9KrE);
+
 break;
 case 'h':
 C6u866_ZV6 = Ui_87Ef / 881304074;
@@ -238,7 +238,7 @@ N3VXF -= 1883788248;
 break;
 }
 F4WEGI = (short)(Cx31XhF2LX);
-N3VXF = Fr_ag9paH / oNR9ZKQ1;
+
 iSg4Z = (unsigned short int)(lgMTDL);
 {
 int i = 6;
@@ -369,7 +369,7 @@ z0w6 = cpFu0_Jtr(z0w6, LmWPhJIGwT, aEYZ4, gWdaOH07C, 1483615368);
 }
 else if (mB3Qz03v9 == 888067140)
 {
-T754BB = (int)abs(aE6aI8CNU);
+
 }
 else if ((Cx31XhF2LX < -1382421414) && (oNR9ZKQ1 >= 24185872))
 {
@@ -400,7 +400,7 @@ std::cout << IrX77Qf << cpFu0_Jtr(-919702492, e8D20B, 915825393, LAvQ, t9dbBe817
 
 if (((A6x1 == 1486962265) || (Ba2s <= -1618366055)) && ((BCJKfzOKu0 == aE6aI8CNU) && (Cx31XhF2LX >= 1251918136)))
 {
-Te_eQp = i9yhN % 444006036;
+
 }
 else if ((cs8wR8 > -1848180038) || ((F4WEGI == -1389362709) && (iSg4Z & olDv)))
 {
@@ -419,7 +419,7 @@ int k = 8;
 do
 {
 k--;
-GKEprO = AgovuO();
+
 }
 while (k >= 0);
 }
@@ -430,7 +430,7 @@ else
 switch (Ui_87Ef)
 {
 case 0:
-t9dbBe817b = AgovuO();
+
 break;
 case 1:
 olDv = AgovuO();
@@ -442,7 +442,7 @@ case 3:
 n9tEM9ke6p = TBfn << sN673;
 break;
 case 4:
-iSg4Z >>= 668104292;
+
 break;
 case 5:
 iSg4Z = C6u866_ZV6 >> IrX77Qf;
@@ -454,7 +454,7 @@ case 7:
 X64Ay0 = cpFu0_Jtr(X64Ay0, e8D20B, u5Ej1QTZfA, -807646966, 1718126652);
 break;
 case 8:
-hkyVLhaUW = cpFu0_Jtr(hkyVLhaUW, -38094140, Cx31XhF2LX, X64Ay0, N054);
+
 break;
 case 9:
 B2RJon = cpFu0_Jtr(1909053696, 1779210872, -266638036, c6_nuDvj3E, -2098424005);
@@ -467,7 +467,7 @@ break;
 
 EvH4Iw5F = cpFu0_Jtr(EvH4Iw5F, -1450032947, KXmC, n9tEM9ke6p, Rjeh0);
 std::cout << cpFu0_Jtr(EvH4Iw5F, 286255270, -1900884929, -371055317, Rjeh0) << cmkYe45DTf << IrX77Qf << cpFu0_Jtr(EvH4Iw5F, yE9KrE, 944284592, n9tEM9ke6p, -33057975) << std::endl;
-NW1g_PJP = LAvQ - 595874930;
+
 
 return 0;
 }

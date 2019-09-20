@@ -19,7 +19,7 @@ int main(void)
 	double	hQSm9;
 	hQSm9	=	1922881299;
     unsigned long long    T9e0LKiYT;
-    T9e0LKiYT    =    1228279755;
+
 	unsigned short int	ums0;
 	ums0	=	1083578808;
  char nYzr6kXPCx;
@@ -33,7 +33,7 @@ int main(void)
   short  uaDi3E8;
   uaDi3E8  =  1958391544;
     unsigned long    P98_5W3_0;
-    P98_5W3_0    =    -956853848;
+
     unsigned int    ge3_R5sLy;
     ge3_R5sLy    =    132034483;
     char    LN6Kv29z;
@@ -47,7 +47,7 @@ int main(void)
     short    DC9P5T;
     DC9P5T    =    2145927193;
   short  EoBT4a0;
-  EoBT4a0  =  321465959;
+
   unsigned short  sf3tST8Lj;
   sf3tST8Lj  =  -1659856791;
  unsigned long long ei6S0Lz76O;
@@ -94,7 +94,7 @@ if (Mc25u != gopCR48w04)
 switch (EsuAru)
 {
 case 0:
-V5tofJ_w = (int)floor(O5n_660in6);
+
 break;
 case 1:
 fmMVd_ = e__ARY % LN6Kv29z;
@@ -160,7 +160,7 @@ std::cout << i4_RlGGd << "uvjW0" << std::endl;
 }
 else if (h49UUfZA != 1580299123)
 {
-Mc25u /= 1416075091;
+
 }
 else
 {
@@ -174,7 +174,7 @@ int i = 0;
 while (i < 10)
 {
 ++i;
-Gb7_KK117 = (int)(uaDi3E8);
+
 }
 }
 
@@ -223,7 +223,7 @@ case 3:
 sf3tST8Lj |= 1913896289;
 break;
 case 4:
-P98_5W3_0 = Mdtfory458 >> KZ3pDebxp;
+
 break;
 case 5:
 hQSm9 = KZ3pDebxp % i4_RlGGd;
@@ -253,7 +253,7 @@ case 1:
 nYzr6kXPCx = YCBd + K17_0;
 break;
 case 2:
-LN6Kv29z = DC9P5T & 1596111469;
+
 break;
 case 3:
 Ru8SKk5XGR = (int)floor(OD9Jl6G32);

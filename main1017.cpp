@@ -40,7 +40,7 @@ int main(int argc, char** argv)
     long double    nKomE;
     nKomE    =    -54427734;
     char    ehO83pL;
-    ehO83pL    =    54969439;
+
  short int UFDR;
  UFDR = 0;
 	int	l8x7v921_2;
@@ -87,7 +87,7 @@ break;
 }
 else
 {
-UFDR = A0O4();
+
 }
 }
 else if (SokZj != iyoct51)
@@ -127,7 +127,7 @@ case 'g':
 w243FsM = A0O4() + 796162415;
 break;
 case 'h':
-l8x7v921_2 = A0O4();
+
 break;
 case 'i':
 AdTF140V = nKomE * 439043588;
@@ -160,7 +160,7 @@ w243FsM ^= 1335307081;
 break;
 case 'c':
 case 'C':
-ehO83pL = (int)abs(z5qnWD);
+
 break;
 case 'd':
 case 'D':
@@ -205,7 +205,7 @@ j--;
 }
 }
 }
-ehO83pL = h_05e62aL / A0O4();
+
 
 o7mE630ZuD = (unsigned short int)(S17_ * o7mE630ZuD);
 
@@ -217,7 +217,7 @@ case 0:
 IgmB3H3Ls++;
 break;
 case 1:
-BD4NaXE3Mw = k8yKlO4_r & 573251717;
+
 break;
 case 2:
 jyRShnR = (int)ceil(nKomE);
@@ -231,7 +231,7 @@ if ((B5w6v1jG & iyoct51) && (o7mE630ZuD < 625838641))
 B5w6v1jG = A0O4();
 }
 YMm31oJ = A0O4();
-k8yKlO4_r = B5w6v1jG + B5w6v1jG;
+
 jyRShnR -= 958735119;
 
 nKomE = (int)abs(jyRShnR);
@@ -243,7 +243,7 @@ int j = 0;
 while (j < 9)
 {
 ++j;
-UFDR = A0O4();
+
 }
 }
 }
@@ -278,7 +278,7 @@ do
 {
 try
 {
-AdTF140V = iyoct51 % 2059980570;
+
 }
 catch (int& errorCode)
 {
@@ -290,7 +290,7 @@ while (j < 6);
 }
 }
 
-BD4NaXE3Mw = (int)(iyoct51 + (1905895889));
+
 
 if (w3rfw > 1020060810)
 {
@@ -309,7 +309,7 @@ else
 int j = 0;
 while (j < 5)
 {
-o7mE630ZuD = A0O4();
+
 j++;
 }
 }

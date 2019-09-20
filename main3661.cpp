@@ -29,7 +29,7 @@ int main(int argc, char** argv)
 int i = 0;
 do
 {
-nP8o5aj = (char)(LIS8zxIxR);
+
 ++i;
 }
 while (i < 4);
@@ -93,7 +93,7 @@ case 'b':
 QANVHSKB6 = ru374();
 break;
 default:
-Nt9T0ET0 = F25Z();
+
 break;
 }
 --j;
@@ -114,7 +114,7 @@ H3vbK_h = ru374();
 }
 else if ((QANVHSKB6 & C9uwrz) || ((MLntX58a_ != -143253254) && (uW22 > LIS8zxIxR)))
 {
-hIY1 = (int)abs(f9_0g3663l);
+
 }
 else if (Lcy6Z0Dxc >= C47dkT2s)
 {
@@ -130,7 +130,7 @@ LYcxTwqjG = er5xBKrZ % 1536659192;
 }
 else
 {
-v94S = f4gfVxSO >> BehC3LO;
+
 }
 }
 else
@@ -141,7 +141,7 @@ uzgsk8yPcM = C9uwrz ^ J0UNDXin;
 }
 else
 {
-u83gfDY = n0x0xAD8q & Dp2V75;
+
 }
 }
 }
@@ -156,7 +156,7 @@ PPa6S30xx = (char)(Ck4D_sN);
 int i = 10;
 do
 {
-uzgsk8yPcM = (char)(Ck4D_sN);
+
 --i;
 }
 while (i >= 0);
@@ -168,7 +168,7 @@ while (i < 4)
 i++;
 if (mD2Q__jcv7 == C47dkT2s)
 {
-f9_0g3663l = F25Z();
+
 }
 else
 {
@@ -187,7 +187,7 @@ try
 {
 for (int k = 0; k < 4; ++k)
 {
-Ad67JWguI = ru374();
+
 }
 }
 catch (int& errorCode)
@@ -201,7 +201,7 @@ for (int j = 0; j < 10; j++)
 {
 if (Q33_uBoq >= LIS8zxIxR)
 {
-tHuwX = BEUxXJ9YUK(QANVHSKB6, -194414328);
+
 }
 else
 {

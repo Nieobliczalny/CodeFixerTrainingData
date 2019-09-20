@@ -82,7 +82,7 @@ if (Su9_Qftsg < 1684841708)
 switch (d21FNVD_6)
 {
 case 0:
-d21FNVD_6 = (int)abs(I6O0816);
+
 break;
 default:
 JcVKA = y01E(909089248);
@@ -101,7 +101,7 @@ try
 {
 if (Dtl0)
 {
-Md6vWG = (int)ceil(V3p_i0I);
+
 }
 else if (ccpbANJB)
 {
@@ -113,7 +113,7 @@ JcVKA = y01E(JcVKA);
 }
 else
 {
-aFVSyk = n0WuQ(-1640214875);
+
 }
 }
 catch (int& errorCode)
@@ -127,7 +127,7 @@ Su9_Qftsg = (int)ceil(V3p_i0I);
 }
 try
 {
-WPnEw7ZX = (int)floor(V3p_i0I);
+
 }
 catch (int& errorCode)
 {
@@ -157,7 +157,7 @@ PF75Ot = LKI_R2d(EU3U, 1523927205, c6Riky);
 while (i >= 0);
 }
 AWDB468 = y01E(2026632936);
-BVqCDk6 = y01E(-403502428) / LKI_R2d(AWDB468, 637476530, Su9_Qftsg);
+
 return 0;
 }
 

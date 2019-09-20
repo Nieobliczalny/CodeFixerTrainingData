@@ -18,7 +18,7 @@ int main() {
 	zzAsPQJ	=	0;
   double  f7rK56416,  W0olZ,  nVG3yZDMA,  eUIl5hQ8,  I_51_ujGtP,  c1q3o63I,  w_siZC,  BUx_,  B4Gj,  Y3uBo25P5,  I0i4K5Owg,  g227E,  FQo20;
   f7rK56416  =  -1310958824;
-  W0olZ  =  237135554;
+
   nVG3yZDMA  =  1559275511;
   eUIl5hQ8  =  2030680475;
   I_51_ujGtP  =  1572201803;
@@ -322,7 +322,7 @@ case 2:
 zzAsPQJ = Fbrb5(BUx_);
 break;
 case 3:
-I_51_ujGtP = (W0olZ) ? -648046 : g227E;
+
 break;
 case 4:
 c1q3o63I = (int)ceil(FQo20);
@@ -346,7 +346,7 @@ case 0:
 eUIl5hQ8 = (int)abs(W0olZ);
 break;
 case 1:
-I_51_ujGtP = (int)floor(f7rK56416);
+
 break;
 case 2:
 W0olZ = (int)ceil(I0i4K5Owg);
@@ -367,7 +367,7 @@ case 7:
 zzAsPQJ = Fbrb5(w_siZC);
 break;
 case 8:
-FQo20 = (int)floor(w_siZC);
+
 break;
 default:
 W0olZ *= zzAsPQJ;

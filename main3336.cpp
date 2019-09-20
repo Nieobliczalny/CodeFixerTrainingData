@@ -18,7 +18,7 @@ unsigned short int  Y_UXD0_s(unsigned int  J04djyP,short int  CgzQTC1IwP,long lo
 
 int main(int argc, char** argv) {
   unsigned short  SPY_hd6d;
-  SPY_hd6d  =  0;
+
 	long long	P_BdQMAG,	ipqG,	M5w66,	yuHIE2,	m_cg2f95,	FCGc_8fv4,	G87s78oTO,	QdOq,	q9AjDT8Lyi,	tkxNuT,	qtwT1,	hV6_S5,	Qmr5wcv3S,	fLz5,	g9yvEcX,	NW4QEAI65,	ka9p;
 	P_BdQMAG	=	1079270589;
 	ipqG	=	1693192363;
@@ -36,7 +36,7 @@ int main(int argc, char** argv) {
 	fLz5	=	2008678259;
 	g9yvEcX	=	-1739815571;
 	NW4QEAI65	=	1092472044;
-	ka9p	=	165918149;
+
 
 ka9p = (int)abs(ipqG);
 SPY_hd6d = Y_UXD0_s(272447802, -874873499, 362097630, -2078656981, tkxNuT);
@@ -68,7 +68,7 @@ else
 int j = 0;
 do
 {
-FCGc_8fv4 = m_cg2f95 >> g9yvEcX;
+
 j++;
 }
 while (j < 9);
@@ -134,7 +134,7 @@ int k = 0;
 while (k < 2)
 {
 k++;
-SPY_hd6d = Y_UXD0_s(P_BdQMAG, g9yvEcX, ipqG, -1496140627, -1458536484);
+
 }
 }
 }
@@ -152,7 +152,7 @@ do
 j++;
 for (int k = 7; k >= 0; --k)
 {
-fLz5 = G87s78oTO + M5w66;
+
 }
 }
 while (j < 1);

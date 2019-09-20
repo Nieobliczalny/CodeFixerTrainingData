@@ -32,7 +32,7 @@ int main() {
   float  GsTmE;
   GsTmE  =  -739916658;
     long    UkV_I;
-    UkV_I    =    1863560004;
+
 	long	sAPxftjplJ;
 	sAPxftjplJ	=	0;
 	unsigned char	bNpbN87q;
@@ -90,7 +90,7 @@ int main() {
  short o46gd;
  o46gd = 1250827533;
 	short int	n88upg;
-	n88upg	=	470714905;
+
 	long long	Z_7IhTV;
 	Z_7IhTV	=	-936468474;
     unsigned char    CVMRu1;
@@ -122,7 +122,7 @@ case 2:
 GsTmE = (int)ceil(szL7q0);
 break;
 case 3:
-szL7q0 = (int)floor(ZnY4);
+
 break;
 case 4:
 nv075Q1 = ZnY4 - auiz444n;
@@ -160,7 +160,7 @@ for (int i = 0; i < 9; ++i)
 {
 nv075Q1 = zL4OVif & 666790883;
 }
-n88upg = gfq63JC % E6O6s2iN7;
+
 UkV_I = E6O6s2iN7 / pRTh8A1X;
 
 try
@@ -201,7 +201,7 @@ case 'e':
 r5F2mhHj--;
 break;
 case 'f':
-MIBW = (int)floor(SQ19N3Pu);
+
 break;
 case 'g':
 GsTmE = (int)floor(CobC);
@@ -231,7 +231,7 @@ J57ZOxmdeT = (int)ceil(CobC);
 }
 else
 {
-szL7q0 = (int)floor(tWwWr_k9a);
+
 }
 
 PHg3kEx8i = PHg3kEx8i / bAX2;
@@ -250,7 +250,7 @@ case 1:
 bBwoC83A %= NB8mUtqW;
 break;
 case 2:
-Y2yn_B_8_r &= gfq63JC;
+
 break;
 case 3:
 NB8mUtqW = E6O6s2iN7 << X4cYZ;
@@ -262,7 +262,7 @@ case 5:
 dQl_z8_Chd |= h9150Yp;
 break;
 case 6:
-szL7q0 = (int)floor(xQu_);
+
 break;
 }
 }
@@ -273,7 +273,7 @@ int k = 4;
 do
 {
 --k;
-MIBW = (int)floor(GsTmE);
+
 }
 while (k >= 0);
 }
@@ -325,7 +325,7 @@ GsTmE = (int)floor(J57ZOxmdeT);
 }
 else if (bBwoC83A)
 {
-CobC = (int)floor(MIBW);
+
 }
 else if ((J57ZOxmdeT < 41843425) && (pRTh8A1X != 329137433))
 {
@@ -341,7 +341,7 @@ gfq63JC = bNpbN87q & zL4OVif;
 }
 else if (CVMRu1 < -160417828)
 {
-CobC = L2ay7 % PHg3kEx8i;
+
 }
 else
 {
@@ -374,7 +374,7 @@ case 1:
 r5F2mhHj = nv075Q1 << 1219085060;
 break;
 case 2:
-CobC = (int)ceil(xQu_);
+
 break;
 case 3:
 Z_7IhTV = pRTh8A1X + 970054320;
@@ -386,7 +386,7 @@ case 5:
 hzChB_3 = nv075Q1 ^ PHg3kEx8i;
 break;
 default:
-n88upg = (int)abs(o46gd);
+
 break;
 }
 GsTmE -= 1513579163;
@@ -413,7 +413,7 @@ if (Z_7IhTV < 677171131)
 {
 cout << "Y8lvX7m1" << gfq63JC << NB8mUtqW << endl;
 }
-r5F2mhHj *= bBwoC83A;
+
 
 {
 int i = 0;
@@ -433,7 +433,7 @@ L2ay7 = (int)abs(C2R9gs);
 ++i;
 }
 }
-m795V = (short)(oAllp);
+
 try
 {
 szL7q0 = (int)abs(hzChB_3);
@@ -458,7 +458,7 @@ int j = 0;
 while (j < 1)
 {
 ++j;
-Z_7IhTV = (long long)(C2R9gs);
+
 }
 }
 }
@@ -488,7 +488,7 @@ if (PHg3kEx8i > o46gd)
 int j = 0;
 while (j < 5)
 {
-CobC = (int)ceil(tWwWr_k9a);
+
 j++;
 }
 }

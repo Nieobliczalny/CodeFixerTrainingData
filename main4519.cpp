@@ -37,7 +37,7 @@ int main()
   Ao5vX_iCL  =  -211514485;
   G85vYyII  =  2098579846;
   jn6_V  =  37435006;
-  hhQj  =  -285343843;
+
   g_26Kik8  =  751127430;
   gGoy  =  145850965;
   ww8uM  =  -1028500122;
@@ -80,7 +80,7 @@ if (U868)
 switch (u1tio)
 {
 case 0:
-aKTo2d += 388737455;
+
 break;
 case 1:
 o_hmuw9B = BJMCqQmyb + o_hmuw9B;
@@ -179,7 +179,7 @@ u1tio = G85vYyII * aG51Y42;
 }
 else if ((aKTo2d <= 1800045994) && ((jn6_V > aKTo2d) && (o_hmuw9B <= g_26Kik8)))
 {
-FQ_pPC = (int)abs(OO9h) * 0;
+
 }
 else
 {
@@ -227,7 +227,7 @@ break;
 switch (aG51Y42)
 {
 case 0:
-OO9h = vwNppI76 >> M7Zyq;
+
 break;
 case 1:
 vwNppI76 = t5_o3 << 915785514;
@@ -255,7 +255,7 @@ aNfhuS2kF = BJMCqQmyb % 1731127171;
 GlLK = (int)(t5_o3);
 aKTo2d = ww8uM / CvT4bL3;
 
-hhQj = J926T37 | I0W8;
+
 
 {
 int i = 10;
@@ -303,7 +303,7 @@ GlLK -= 300857034;
 
 for (int i = 0; i < 10; ++i)
 {
-M7Zyq = (int)(I0W8);
+
 }
 if ((RCDD2A1 < Xk33pn5I) || ((aG51Y42 != LI_77_) || (ww8uM > 420821428)))
 {
@@ -335,7 +335,7 @@ while (i < 4)
 i++;
 if (y9LR4 < CvT4bL3)
 {
-M7Zyq = aNfhuS2kF - o_hmuw9B;
+
 }
 }
 }
@@ -364,7 +364,7 @@ if (BJMCqQmyb < Ij3Bs)
 {
 if (aKTo2d < oc7y82U6)
 {
-g_26Kik8 = gf2jw_5 & vwNppI76;
+
 }
 else
 {
@@ -380,7 +380,7 @@ if (vwNppI76 > jn6_V)
 {
 RCDD2A1 = (int)(t5_o3);
 }
-FQ_pPC = (int)abs(qn8zZfW) * 0;
+
 std::cout << "D70_qY4_" << gGoy << "vgg5ic" << "c5na2F" << RCDD2A1 << std::endl;
 
 if (PdMg > 1568637530)
@@ -424,7 +424,7 @@ if (((aNfhuS2kF != 1909358727) && (jn6_V & ww8uM)) && ((Ij3Bs == RCDD2A1) && (jn
 {
 if (LlpZ4_k > 1593890958)
 {
-LI_77_ = (aKTo2d >= -27320914) ? -2071609741 : 527835901;
+
 }
 else
 {
@@ -438,7 +438,7 @@ int k = 0;
 do
 {
 ++k;
-U868 = aKTo2d & Y5R86ID;
+
 }
 while (k < 9);
 }
@@ -456,7 +456,7 @@ qzFh0 = vwNppI76 * J926T37;
 }
 else if (gf2jw_5 >= RCDD2A1)
 {
-BJMCqQmyb = oc7y82U6 % qn8zZfW;
+
 }
 else if ((Xk33pn5I != 877260957) || (GlLK != vwNppI76))
 {
@@ -472,7 +472,7 @@ else
 switch (CvT4bL3)
 {
 case 'a':
-U868 += 1105749140;
+
 break;
 case 'b':
 g_26Kik8 += 243250564;
@@ -484,7 +484,7 @@ case 'd':
 Ao5vX_iCL -= 1771452033;
 break;
 case 'e':
-jn6_V = CvT4bL3 & 403667271;
+
 break;
 case 'f':
 Ij3Bs = o_hmuw9B & ww8uM;
@@ -496,7 +496,7 @@ case 'h':
 Y5R86ID += 1189133679;
 break;
 case 'i':
-y86R <<= 1165073530;
+
 break;
 }
 }

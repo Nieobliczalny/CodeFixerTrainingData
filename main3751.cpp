@@ -551,7 +551,7 @@ else
 {
 if (S1v2a0A <= AP_77)
 {
-S1v2a0A = (int)abs(HP7Y8x) + (567668068);
+
 }
 else
 {
@@ -565,7 +565,7 @@ switch (HP7Y8x)
 {
 case 'a':
 case 'A':
-LQtHtu8 = (int)abs(RdLMf_);
+
 break;
 case 'b':
 case 'B':
@@ -586,7 +586,7 @@ int i = 0;
 do
 {
 ++i;
-XTm0MK6o84 = Ksv_aqlr49();
+
 }
 while (i < 9);
 }

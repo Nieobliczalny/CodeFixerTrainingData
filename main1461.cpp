@@ -127,7 +127,7 @@ catch (int& errorCode)
 {
 HN_04Mksg = J66M(HN_04Mksg) * 1019030126;
 }
-i4iy_PT7Rl = (char)(z_056FrCi);
+
 std::cout << "wxB80BWcKc" << "JC_2v29E_1" << gas5dxr0 << "SI0N2_6I" << std::endl;
 Do_xe8 = k3_H2nZ5T / L5I_AR(HN_04Mksg, SrN53xx, -600365454);
 PN9YB4SN5 = J66M(PN9YB4SN5);
@@ -142,7 +142,7 @@ case 'a':
 ct40 = L5I_AR(2122675638, I7WdR, Do_xe8);
 break;
 case 'b':
-BFB5h = e_168 * ZXUBl2kp6r;
+
 break;
 case 'c':
 k3_H2nZ5T = L5I_AR(1533180033, -1824436906, HN_04Mksg);
@@ -158,7 +158,7 @@ break;
 }
 
 z_056FrCi = (char)(i6G4ERMXb);
-e_168 = (int)abs(M_d8);
+
 if (zDMrJ >= 165048084)
 {
 switch (k_bV_CTzE)
@@ -170,7 +170,7 @@ case 1:
 ct40 = L5I_AR(HN_04Mksg, -1368172579, -220451020);
 break;
 case 2:
-e_168 = G0tz | dQ5snyW0;
+
 break;
 case 3:
 vBO_pf8XV--;
@@ -182,7 +182,7 @@ case 5:
 e_168 = dQ5snyW0 ^ 1535071498;
 break;
 case 6:
-Do_xe8 = DuqYLp2V9(Do_xe8);
+
 break;
 }
 }
@@ -196,7 +196,7 @@ while (j < 7)
 switch (FXXvs86zR)
 {
 case 'a':
-ct40 = L5I_AR(Do_xe8, -1808797078, -823291329);
+
 break;
 case 'b':
 SrN53xx = J66M(Do_xe8) & 1720838691;

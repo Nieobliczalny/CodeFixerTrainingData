@@ -53,7 +53,7 @@ else
 switch (v09_5iB987)
 {
 case 0:
-YUxP = (int)abs(GQD3sDts);
+
 break;
 case 1:
 kN04LRT = k9t7();
@@ -65,7 +65,7 @@ case 3:
 Y8P4a5VbtB *= 1959281595;
 break;
 case 4:
-pbD3_f6C = (int)ceil(Zp06W);
+
 break;
 case 5:
 EM_6QHW = k9t7();
@@ -78,7 +78,7 @@ break;
 }
 }
 
-z0YS54UJ9 = 1498580620 / hHb1ML4SC(TaI5XT0aj, O8r2_I, b_ns58, 1689345630);
+
 {
 int i = 10;
 while (i >= 0)
@@ -90,7 +90,7 @@ cout << hHb1ML4SC(TaI5XT0aj, O8r2_I, b_ns58, -470692199) << "PssURW7" << CNrX(-2
 }
 }
 }
-CRsCI = (int)abs(hl9qSa2oZ);
+
 
 {
 int i = 0;
@@ -109,7 +109,7 @@ while (j >= 0);
 }
 }
 
-AYTY1h5h_ = mMOK + 2071047927;
+
 
 {
 int i = 0;
@@ -134,7 +134,7 @@ else if (rQZX8oPW32 <= 1025691782)
 {
 if (K1n0gDQ)
 {
-AYTY1h5h_ = (int)abs(kN04LRT);
+
 }
 }
 else if ((Wq22GSo == -1287844779) && (mMOK == -203595160))
@@ -153,7 +153,7 @@ Fy9nak4VK4 *= 921058774;
 }
 else
 {
-W4fvy0S = (int)floor(rQZX8oPW32);
+
 }
 }
 else
@@ -163,7 +163,7 @@ int k = 0;
 while (k < 5)
 {
 k++;
-q1IeC6S6C = (int)abs(S5f3UK);
+
 }
 }
 }
@@ -203,7 +203,7 @@ case 'd':
 ub_hKk = e_U9arE / 2126657132;
 break;
 case 'e':
-OX_k1CaUZe = (int)floor(GQD3sDts);
+
 break;
 case 'f':
 niVP *= niVP;
@@ -215,7 +215,7 @@ case 'h':
 e_U9arE = (int)floor(qkO3);
 break;
 case 'i':
-Wq22GSo = (int)ceil(CDp4YBSLb5);
+
 break;
 default:
 ub_hKk = z_Uk9Jn5();
@@ -231,7 +231,7 @@ else if (DFGlCWuu9z < 1069704916)
 {
 try
 {
-U_X1 /= 678987074;
+
 }
 catch (int& errorCode)
 {
@@ -243,7 +243,7 @@ else if (((B975feD7C > -472339022) && (yl8_uJAR)) || (K1n0gDQ <= 349852450))
 switch (v09_5iB987)
 {
 case 0:
-Vm89Z = (int)floor(Zp06W);
+
 break;
 case 1:
 D24YOwTV = (int)floor(rJ1_Q0);
@@ -255,7 +255,7 @@ case 3:
 Tul3BwF4 = nBad3(1858003091, WfB29__af, zI2d5);
 break;
 case 4:
-zI2d5 = (int)floor(D24YOwTV);
+
 break;
 case 5:
 Fy9nak4VK4 = CNrX(Fy9nak4VK4, -1860608871, iEo03o8);
@@ -267,7 +267,7 @@ case 7:
 cu_4X = iEo03o8 - yVlXe12x;
 break;
 case 8:
-Zp06W = (int)floor(XL7T3jweq);
+
 break;
 case 9:
 JoxL9Kt = z_Uk9Jn5();
@@ -278,7 +278,7 @@ else
 {
 for (int k = 0; k < 7; k++)
 {
-l1S5N4 = (int)abs(C39u);
+
 }
 }
 }

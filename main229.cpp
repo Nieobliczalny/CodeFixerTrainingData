@@ -570,7 +570,7 @@ else if (b9_R0j49q != 652799396)
 {
 for (int k = 2; k >= 0; k--)
 {
-jF1bv8 = KLN9o4d_ & P4kI60;
+
 }
 }
 else
@@ -601,7 +601,7 @@ m06yjUJz -= 1193419397;
 break;
 }
 }
-sa7E2 = VEoB7 % 297427204;
+
 
 return 0;
 }

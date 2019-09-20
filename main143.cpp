@@ -24,7 +24,7 @@ int main(int argc, char** argv) {
 	long long	R75f;
 	R75f	=	-228676321;
     unsigned short int    Iy28YI0EP9;
-    Iy28YI0EP9    =    -472521936;
+
 	long long	h7_J;
 	h7_J	=	1904025572;
  unsigned int odhFSl8;
@@ -46,7 +46,7 @@ int main(int argc, char** argv) {
     unsigned int    YMzi;
     YMzi    =    -598141842;
     unsigned int    vsHjuY31A9;
-    vsHjuY31A9    =    -1276689929;
+
   char  mkn6l;
   mkn6l  =  -1657611823;
     unsigned int    w05YW23t0m;
@@ -82,7 +82,7 @@ int main(int argc, char** argv) {
  short int S7GBrvq;
  S7GBrvq = -888627312;
   double  qx3I;
-  qx3I  =  546114602;
+
  char aag4;
  aag4 = 1833992897;
   char  MDSqdIl;
@@ -94,7 +94,7 @@ int main(int argc, char** argv) {
   long long  TdwkjMAT;
   TdwkjMAT  =  284947608;
  short g_BQ8kxm8;
- g_BQ8kxm8 = -547817681;
+
  long long QzVpuR;
  QzVpuR = -775034819;
 	long long	ZL75Ucu5mt;
@@ -110,7 +110,7 @@ int main(int argc, char** argv) {
     unsigned long long    Wb_Ex0FB;
     Wb_Ex0FB    =    946221826;
   long long  j_BQX_4;
-  j_BQX_4  =  871054522;
+
   float  wbu_xX5226;
   wbu_xX5226  =  -1906363293;
   unsigned long long  d3knydsW0;
@@ -150,7 +150,7 @@ int main(int argc, char** argv) {
 	long double	dP_H;
 	dP_H	=	1513447149;
  double l5Cb_0d5;
- l5Cb_0d5 = 850752666;
+
     unsigned short    wuBS9;
     wuBS9    =    0;
     unsigned short int    mK6Jjw_;
@@ -160,7 +160,7 @@ int main(int argc, char** argv) {
  unsigned long bt66o6B;
  bt66o6B = -919842473;
 	unsigned int	WV_N;
-	WV_N	=	580598414;
+
     short int    WdV2Kj6;
     WdV2Kj6    =    712992265;
  long long YAcL7P95d_;
@@ -176,7 +176,7 @@ int main(int argc, char** argv) {
  long hMR7WW;
  hMR7WW = 1667049106;
     long    VpBgI3Z_2;
-    VpBgI3Z_2    =    1699339173;
+
 
 vsHjuY31A9 = UDGU10 ^ K74dItWA6;
 switch (YAcL7P95d_)
@@ -205,7 +205,7 @@ break;
 }
 if (aag4)
 {
-YAcL7P95d_ = nA_lw287P / ONl96wa11;
+
 }
 else if (PgEjuDNWVW != -2031989552)
 {
@@ -325,7 +325,7 @@ try
 {
 for (int k = 0; k < 1; k++)
 {
-kw4_ = (int)floor(z5Am7m);
+
 }
 }
 catch (int& errorCode)
@@ -399,7 +399,7 @@ while (i >= 0)
 --i;
 for (int j = 0; j < 1; ++j)
 {
-wuBS9 = TX9w16fa(OZEwjPF, vHb_);
+
 }
 }
 }
@@ -423,7 +423,7 @@ ONl96wa11 >>= f2gafcn;
 }
 else if (S86pu1 & 1269786247)
 {
-l5Cb_0d5 = NvTl();
+
 }
 else if ((z5Am7m) && ((Z9Z09GEh < VQ46O) && (WrYzIR > VQ46O)))
 {
@@ -452,7 +452,7 @@ while (i < 6);
 switch (AFsJ)
 {
 case 'a':
-j0fxrj = NvTl();
+
 break;
 case 'b':
 D6z6 = Gdvq3N();
@@ -470,7 +470,7 @@ int i = 2;
 do
 {
 i--;
-ur7t = D6z6 * 93696135;
+
 }
 while (i >= 0);
 }
@@ -488,7 +488,7 @@ if (x6_d5lm)
 switch (PgEjuDNWVW)
 {
 case 'a':
-z5Am7m = Gdvq3N() + 1490136185;
+
 break;
 case 'b':
 zr41X6 += WFv6KS26h;
@@ -503,7 +503,7 @@ case 'e':
 vsHjuY31A9 %= 56500916;
 break;
 case 'f':
-ur7t = R75f << 123144808;
+
 break;
 case 'g':
 g_BQ8kxm8 = rkdX_gqo5n(237450464, m266e, TdwkjMAT);
@@ -515,7 +515,7 @@ case 'i':
 d3n_ = NvTl();
 break;
 default:
-FQ7_ = (int)ceil(LNATSnn2);
+
 break;
 }
 }
@@ -532,7 +532,7 @@ else if ((ZL75Ucu5mt > -2091325866) || (Pca_bbL != VQ46O))
 switch (X5Qb8eN)
 {
 case 0:
-bx28 -= Wb_Ex0FB;
+
 break;
 case 1:
 zYFm = NvTl() >> nA_lw287P;
@@ -544,7 +544,7 @@ case 3:
 w6i8w4z %= 1762502779;
 break;
 case 4:
-hMR7WW *= 758051557;
+
 break;
 case 5:
 Iy28YI0EP9 = WEPc6y3dM(1566212267, hMR7WW, 1443045604, UDGU10);
@@ -565,7 +565,7 @@ case 2:
 OZEwjPF <<= tgzCb;
 break;
 case 3:
-gzgoH = rkdX_gqo5n(gzgoH, S86pu1, 1196978776);
+
 break;
 case 4:
 m266e <<= 1071883569;
@@ -594,7 +594,7 @@ case 0:
 m266e = rkdX_gqo5n(m266e, -1659299717, W9v2Q6L_dU);
 break;
 case 1:
-WFv6KS26h = rkdX_gqo5n(-345271915, -27851306, yGhzsVet);
+
 break;
 case 2:
 ogvmpLC = Gdvq3N();
@@ -614,7 +614,7 @@ switch (jPxRxrY)
 {
 case 'a':
 case 'A':
-L0R2HruX4a %= vsHjuY31A9;
+
 break;
 case 'b':
 case 'B':
@@ -633,7 +633,7 @@ case 'E':
 L0R2HruX4a--;
 break;
 default:
-PgEjuDNWVW = K8x7d_I ^ 1264637558;
+
 break;
 }
 
@@ -647,7 +647,7 @@ int i = 10;
 while (i >= 0)
 {
 --i;
-W9v2Q6L_dU = TX9w16fa(514216618, oxrV4_);
+
 }
 }
 
@@ -657,7 +657,7 @@ int i = 3;
 while (i >= 0)
 {
 i--;
-yGhzsVet = (unsigned short int)(D6z6);
+
 }
 }
 

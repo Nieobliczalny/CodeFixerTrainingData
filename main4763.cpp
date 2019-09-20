@@ -62,7 +62,7 @@ case 0:
 Ia6Gnh_ &= O31GZ;
 break;
 case 1:
-O31GZ = O31GZ % Knwh;
+
 break;
 case 2:
 d9st <<= 1744045535;
@@ -140,7 +140,7 @@ try
 {
 if (((Knwh >= s1pzpW7) || (d9st >= DD1jy)) || ((n5Q1OQ) && (O31GZ != 350066993)))
 {
-T87ry2x4 = (short)(s1pzpW7 * T87ry2x4);
+
 }
 else if (F84gJh < s1pzpW7)
 {
@@ -154,7 +154,7 @@ else
 {
 if (A9eV5wUY == 561239211)
 {
-d9st -= n5Q1OQ;
+
 }
 }
 }

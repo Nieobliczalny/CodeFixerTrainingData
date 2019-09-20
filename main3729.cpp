@@ -87,7 +87,7 @@ case 0:
 aAh3I4g = P896L0W4g * 1393722579;
 break;
 case 1:
-aIguz9dr = (int)ceil(P4EC3lRr);
+
 break;
 case 2:
 uODgM = sp1wm(251032645, CeHf5, MFxb6dk, khAFHCvx);
@@ -99,7 +99,7 @@ case 4:
 uODgM = sp1wm(aIguz9dr, uODgM, khAFHCvx, 1127391274);
 break;
 case 5:
-uODgM = sp1wm(-1781291441, aAh3I4g, Tzj4o8TW_g, -2082062765);
+
 break;
 default:
 aIguz9dr = WEKFwG_9(1030371182, 1125551983, Tzj4o8TW_g, bJ61nuO, 625504117) & khAFHCvx;

@@ -39,7 +39,7 @@ int main(int argc, char** argv) {
 	SlKl_	=	-565590581;
 	wb6p7b	=	46650900;
 	t_h0mb9g4o	=	866816522;
-	dn1V	=	-212691207;
+
 	iqTKs9__	=	-270036263;
 	s07Xkc5g	=	912412164;
 	WYxtJEa	=	410644566;
@@ -209,7 +209,7 @@ dn1V += 365859876;
 break;
 case 'b':
 case 'B':
-W_g5Q0 = n4E68_q ^ 869504745;
+
 break;
 case 'c':
 case 'C':
@@ -287,7 +287,7 @@ case 1:
 W_g5Q0 ^= WYxtJEa;
 break;
 default:
-dn1V = je5nLkA_2c(dn1V, diyf82, 621114940, s07Xkc5g, 1114698198);
+
 break;
 }
 }
@@ -449,7 +449,7 @@ case 'a':
 WYxtJEa -= YiMUF7lt8p;
 break;
 case 'b':
-iqTKs9__ -= z8wE_c;
+
 break;
 case 'c':
 BxgbvL3F = lilUL34W2G ^ s07Xkc5g;
@@ -464,7 +464,7 @@ case 'f':
 s07Xkc5g %= iqTKs9__;
 break;
 case 'g':
-z8wE_c = XtP4Iv(z8wE_c);
+
 break;
 case 'h':
 z8wE_c = XtP4Iv(W_g5Q0);
@@ -477,7 +477,7 @@ lilUL34W2G = XtP4Iv(WYxtJEa);
 }
 else
 {
-iqTKs9__ -= 1882828182;
+
 }
 
 try
@@ -521,7 +521,7 @@ catch (int& errorCode)
 {
 t_h0mb9g4o = (int)abs(BxgbvL3F);
 }
-s07Xkc5g = (int)(SlKl_);
+
 
 BxgbvL3F = (int)(n4E68_q);
 
@@ -531,7 +531,7 @@ std::cout << "Kiso" << BxgbvL3F << YiMUF7lt8p << BxgbvL3F << std::endl;
 }
 else
 {
-dn1V = (int)(fUUng4_);
+
 }
 
 std::cout << L6jn(wb6p7b) << std::endl;

@@ -332,7 +332,7 @@ if (aj4L0n >= -1385278768)
 switch (N6Toce8)
 {
 case 0:
-QlM_b ^= 1828683145;
+
 break;
 default:
 ya5j1z = (int)abs(LiW30);

@@ -38,7 +38,7 @@ while (j < 9)
 {
 if (ZRPpTgT7X < -1039497874)
 {
-UM1zPh = tRfTm | 5525410;
+
 }
 else
 {
@@ -58,7 +58,7 @@ case 0:
 tZnM = DN_S1X(-121770790, 1164578560, 1912138333, pVjm6G0c, Bts4Lf);
 break;
 case 1:
-UM1zPh = w1bmF(1461383576, EZ6744, -136663143, 1102699952, P3k5n_WV4q);
+
 break;
 case 2:
 h206DgjEx = w1bmF(1166710280, Rnh4cdCBV, MPG0_7, W24nkPyEq2, 766247152);

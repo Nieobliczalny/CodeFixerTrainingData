@@ -17,7 +17,8 @@ unsigned char	JIh4s47Q(long long	O4u89_S,unsigned long long	JXVfVH,unsigned long
 int main(int argc, char** argv)
 {
   unsigned long  zX9tg7,  Bb1FShFkr,  qDgOL,  AQ06,  Z_4WUKT49,  Y6b_uW5S,  v_TmWZ,  DANT4_QeZ1,  Cn630,  kZIS,  iF1hZOP_,  bnKw_gZ,  WDInd,  u_8t6,  EFB27nD,  yneYc,  XFhLoPX,  sq_W,  x1JKQE2yKc,  Oqhw7I8Tq,  t_XV9,  UgPv9f,  Nz_890,  Fa7413_hi,  J6KgPk0Kb,  ZG5BVp_ydX,  Z3Jv4,  ZD8mLjg,  IwBc,  s3IC,  Bl681WJP,  EmpE,  x1e_8dU,  HhY3bQ7l31;
-    zX9tg7  =  Bb1FShFkr  =  qDgOL  =  AQ06  =  Z_4WUKT49  =  Y6b_uW5S  =  v_TmWZ  =  DANT4_QeZ1  =  Cn630  =  kZIS  =  iF1hZOP_  =  bnKw_gZ  =  WDInd  =  u_8t6  =  EFB27nD  =  yneYc  =  XFhLoPX  =  sq_W  =  x1JKQE2yKc  =  Oqhw7I8Tq  =  t_XV9  =  UgPv9f  =  Nz_890  =  Fa7413_hi  =  J6KgPk0Kb  =  ZG5BVp_ydX  =  Z3Jv4  =  ZD8mLjg  =  IwBc  =  s3IC  =  Bl681WJP  =  EmpE  =  x1e_8dU  =  HhY3bQ7l31  =  1885633714;
+    // codechecker_intentional [deadcode.DeadStores] Design rule - initialize all variables
+	zX9tg7  =  Bb1FShFkr  =  qDgOL  =  AQ06  =  Z_4WUKT49  =  Y6b_uW5S  =  v_TmWZ  =  DANT4_QeZ1  =  Cn630  =  kZIS  =  iF1hZOP_  =  bnKw_gZ  =  WDInd  =  u_8t6  =  EFB27nD  =  yneYc  =  XFhLoPX  =  sq_W  =  x1JKQE2yKc  =  Oqhw7I8Tq  =  t_XV9  =  UgPv9f  =  Nz_890  =  Fa7413_hi  =  J6KgPk0Kb  =  ZG5BVp_ydX  =  Z3Jv4  =  ZD8mLjg  =  IwBc  =  s3IC  =  Bl681WJP  =  EmpE  =  x1e_8dU  =  HhY3bQ7l31  =  1885633714;
   unsigned long long  ymv8VJshzx,  ffzvL8VGI,  KmDP,  rO0wVJ,  Dt8BtDqQD;
     ymv8VJshzx  =  ffzvL8VGI  =  KmDP  =  rO0wVJ  =  Dt8BtDqQD  =  0;
 

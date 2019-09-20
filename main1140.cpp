@@ -21,7 +21,7 @@ int main() {
  unsigned short PuQs858;
  PuQs858 = -320365997;
     float    WcKS___8;
-    WcKS___8    =    1969632168;
+
   unsigned short  IN99Yx4h;
   IN99Yx4h  =  601133774;
   unsigned long  EGIr;
@@ -31,7 +31,7 @@ int main() {
  float tmLFO8r842;
  tmLFO8r842 = 1097184184;
   int  DiZ4;
-  DiZ4  =  1788441484;
+
 	long double	sHEj_Dkz;
 	sHEj_Dkz	=	-1514024742;
   char  z___kf;
@@ -41,7 +41,7 @@ int main() {
     int    o38_KN;
     o38_KN    =    -763826772;
  unsigned long long yxvj_a5L;
- yxvj_a5L = 173020258;
+
   unsigned long  w5cau;
   w5cau  =  1870810980;
     unsigned long    hG14xxJIw;
@@ -51,7 +51,7 @@ int main() {
  unsigned char d74d_U;
  d74d_U = -665044983;
   double  x_P5x;
-  x_P5x  =  432056045;
+
     short int    q9IVoSti27;
     q9IVoSti27    =    1028028069;
     float    P1TB8Rw;
@@ -65,7 +65,7 @@ int main() {
     float    UQvx;
     UQvx    =    1914062181;
   unsigned short  UYgOX2;
-  UYgOX2  =  2010493765;
+
  int Lmwj47;
  Lmwj47 = 819101211;
  unsigned int Ok8CMD;
@@ -85,7 +85,7 @@ int main() {
  unsigned int faMDsv8p;
  faMDsv8p = 1405814498;
 	float	k820;
-	k820	=	-1585918842;
+
   double  sut_gSfSe1;
   sut_gSfSe1  =  -1318351823;
     unsigned long long    eBVQ;
@@ -97,7 +97,7 @@ int main() {
  char NVq_7;
  NVq_7 = 675912504;
  char BL5U;
- BL5U = -2036856649;
+
 	short int	z75pOn;
 	z75pOn	=	-677812831;
  unsigned short int NiEpUhuB;
@@ -109,7 +109,7 @@ int main() {
   int  EB0zqT6;
   EB0zqT6  =  -1531360163;
   unsigned long long  L510;
-  L510  =  1400536938;
+
  long double oAUd;
  oAUd = -803759345;
  unsigned short ac8M24J6;
@@ -119,7 +119,7 @@ int main() {
     long double    I89Sk22pJq;
     I89Sk22pJq    =    -1396808008;
 	unsigned long long	rO82aF;
-	rO82aF	=	-1749915795;
+
  long double XU_j8R0OF9;
  XU_j8R0OF9 = 2013533288;
   unsigned short int  Z_z7b5;
@@ -129,7 +129,7 @@ int main() {
   unsigned short  y1uE;
   y1uE  =  1392611633;
  unsigned short int b13EF6n;
- b13EF6n = -926937611;
+
   float  bUiLs;
   bUiLs  =  -1105911528;
     unsigned char    e17Vc9Kh;
@@ -139,7 +139,7 @@ int main() {
 	unsigned long	F12A577mW;
 	F12A577mW	=	-675113036;
 	int	xFpTN;
-	xFpTN	=	1724481197;
+
   unsigned char  FTc52;
   FTc52  =  137685437;
     int    Xknn2M;
@@ -161,7 +161,7 @@ int main() {
  unsigned short R76_9e;
  R76_9e = 1417918134;
  unsigned short int H1_F0pDQ3;
- H1_F0pDQ3 = -1294060066;
+
 	unsigned long long	f5G8JJE2;
 	f5G8JJE2	=	-825998974;
     long    t0116Y;
@@ -175,7 +175,7 @@ int main() {
  int X_4EdQbw;
  X_4EdQbw = -1943050054;
  unsigned short int YMdlW7pp;
- YMdlW7pp = 1362228366;
+
     short    qtkYxr__4;
     qtkYxr__4    =    0;
   short int  dv7738;
@@ -205,7 +205,7 @@ if (tL8jX3 >= 1064116785)
 {
 if (J2jZ812 == rp85kp)
 {
-x8jT3Qi %= 141666746;
+
 }
 else if (X_4EdQbw & v8T6zTv8xG)
 {
@@ -215,7 +215,7 @@ oAUd = (int)ceil(I89Sk22pJq);
 }
 else if ((t0116Y > SFxe6zvpS) && (Xknn2M <= 334661124))
 {
-SPc7 = Lmwj47 * sut_gSfSe1;
+
 }
 else
 {
@@ -231,7 +231,7 @@ else if (CZH6A <= -191665340)
 switch (hJ_7I)
 {
 case 'a':
-NVq_7 += bUiLs;
+
 break;
 case 'b':
 YMdlW7pp = Xg1Kuqt ^ 1437324256;
@@ -243,7 +243,7 @@ case 'd':
 o38_KN >>= nV3E;
 break;
 case 'e':
-NVq_7 = (int)abs(t0116Y);
+
 break;
 case 'f':
 h31P3r_P /= EGIr;
@@ -258,7 +258,7 @@ case 'i':
 Lmwj47 = (int)abs(CZH6A);
 break;
 case 'j':
-ykt_B3 += 658596011;
+
 break;
 }
 }
@@ -270,7 +270,7 @@ case 0:
 dv7738 = Xg1Kuqt % tL8jX3;
 break;
 case 1:
-tmLFO8r842 = (int)floor(P1TB8Rw);
+
 break;
 case 2:
 Q0J3pa_ = rp85kp ^ eBVQ;
@@ -285,7 +285,7 @@ case 5:
 oAUd = (QNkDN2I0aX >= v8T6zTv8xG) ? Uf1FRf8Q4N : VC9_;
 break;
 default:
-q9IVoSti27 = (int)abs(T6_ZXj3);
+
 break;
 }
 }
@@ -299,7 +299,7 @@ cout << "uNL92cWap2" << oAUd << "zzX5" << "KiOYiUrxN" << endl;
 switch (d74d_U)
 {
 case 0:
-OMgd >>= 1994100264;
+
 break;
 case 1:
 t0116Y = QNkDN2I0aX >> R76_9e;
@@ -311,7 +311,7 @@ case 3:
 w5cau = SFxe6zvpS >> 654512416;
 break;
 case 4:
-X_4EdQbw = faMDsv8p % R76_9e;
+
 break;
 case 5:
 J2jZ812 = N0svu9k5 ^ 1172981482;
@@ -321,7 +321,7 @@ B6Ayl0qN0P >>= U_IvLdf3_A;
 break;
 }
 
-DiZ4 = 82410407 / ws6Mf5;
+
 return 0;
 }
 

@@ -20,7 +20,7 @@ int main(void)
 {
     long long    ggN9ij,    NU_FvME1g;
     ggN9ij    =    0;
-    NU_FvME1g    =    0;
+
     unsigned int    aC2_z,    O0OdH,    e_TAHk,    n030t3,    PvddXHF0u,    n_YGNyV2,    H5552003G,    AArDZuH8Uj,    RkkBtAA,    l4SHh,    egTIZ1xF0Z,    tBWiJpU,    niRd4VH2,    dKDplBo,    Zuqd,    LHb42fPj7,    g3_8rh,    h17DW,    wRR0,    xwEa1C8a1,    aJJ41,    w2cP,    FUo2d12,    kF7pJ,    xw1vIkH,    v9Y0I,    Fo3i,    E6H68,    Xbrp65h,    UdO0U2,    f31DCL6vFX,    jimSpkdJW,    y7aN5,    orFGl83h_I,    Pz450v7w,    Q8Qa7D018;
     aC2_z    =    1139508314;
     O0OdH    =    -152270560;
@@ -206,7 +206,7 @@ NU_FvME1g = (int)abs(ggN9ij);
 }
 else if ((LHb42fPj7) || (y7aN5 & PvddXHF0u))
 {
-l4SHh = MaIpvb2(l4SHh, g3_8rh, e_TAHk, dKDplBo, w2cP);
+
 }
 else if (LHb42fPj7 < g3_8rh)
 {
@@ -218,7 +218,7 @@ wRR0 = Jle_l6iu0l() - ggN9ij;
 }
 cout << Jle_l6iu0l() << dKDplBo << Q8Qa7D018 << endl;
 
-l4SHh = (unsigned int)(wRR0);
+
 if (n_YGNyV2)
 {
 ggN9ij = Jle_l6iu0l();
@@ -305,7 +305,7 @@ catch (int& errorCode)
 ggN9ij = Jle_l6iu0l();
 }
 }
-dKDplBo = (unsigned int)(jimSpkdJW);
+
 cout << n_YGNyV2 << "qsB_RD7hRM" << "Kugry00i" << aJJ41 << Jle_l6iu0l() << endl;
 
 dKDplBo = (unsigned int)(Zuqd);
@@ -316,7 +316,7 @@ if ((jimSpkdJW >= 149377807) || ((egTIZ1xF0Z < -1497906044) && (xw1vIkH & -97985
 switch (kF7pJ)
 {
 case 0:
-NU_FvME1g = Jle_l6iu0l();
+
 break;
 case 1:
 n030t3 = w2cP >> 1226577963;
@@ -328,7 +328,7 @@ case 3:
 niRd4VH2 = MaIpvb2(niRd4VH2, y7aN5, v9Y0I, 1275484001, -501242505);
 break;
 case 4:
-UdO0U2 = MaIpvb2(UdO0U2, 1426971052, -1450209836, Zuqd, n_YGNyV2);
+
 break;
 case 5:
 egTIZ1xF0Z++;
@@ -340,7 +340,7 @@ case 7:
 NU_FvME1g = Jle_l6iu0l();
 break;
 case 8:
-xwEa1C8a1 = MaIpvb2(-402409442, 1598671887, aC2_z, jimSpkdJW, -204781423);
+
 break;
 }
 }
@@ -352,7 +352,7 @@ if (jimSpkdJW & -1917467016)
 int k = 10;
 while (k >= 0)
 {
-g3_8rh = PvddXHF0u >> wRR0;
+
 k--;
 }
 }
@@ -366,7 +366,7 @@ tBWiJpU /= UdO0U2;
 }
 else
 {
-NU_FvME1g = (int)abs(ggN9ij);
+
 }
 }
 return 0;

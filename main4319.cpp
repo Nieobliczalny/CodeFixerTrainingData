@@ -63,7 +63,7 @@ if ((q14I66 / G9GJp1) == 1224082097)
 int i = 0;
 do
 {
-Qs8pB0tRB = bEUL6(-1951936105, 2066326676);
+
 i++;
 }
 while (i < 2);
@@ -101,7 +101,7 @@ case 1:
 jzEx6B9 = (G9GJp1 != 348836498) ? -1812826976 : pdSPpvJILO;
 break;
 case 2:
-G9GJp1 = L_yW9(x_zws, t_ceoKg);
+
 break;
 case 3:
 G9_7zd_2 = feZ24tWT5 / 217093779;
@@ -113,7 +113,7 @@ case 5:
 WCakWK935e = f__xzW(WCakWK935e, C7756, -1124910834, at037z75t);
 break;
 case 6:
-C7756 = k_K13x07E + d_K2QrxO;
+
 break;
 }
 }

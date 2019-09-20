@@ -27,7 +27,7 @@ int main(int argc, char** argv)
   float  KNoe;
   KNoe  =  1472516089;
   int  OwcJ018;
-  OwcJ018  =  -461903911;
+
     long long    F42jix5v05;
     F42jix5v05    =    -47520709;
 	unsigned long long	i_Z2_i;
@@ -118,7 +118,7 @@ case 4:
 x0Te = vI5hx1t1a() + 1840745813;
 break;
 case 5:
-K57Go = (int)ceil(ZI6I6);
+
 break;
 case 6:
 XkxMN = (int)floor(DHz_g_h0D);
@@ -363,7 +363,7 @@ cout << vI5hx1t1a() << "XAY722_" << Ey6X9n << "J4Hbo62bme" << "Xs6LA3y" << endl;
 }
 else if (X9WARru & B05L008)
 {
-pM9kmknZ = ZI6I6 * 1498108691;
+
 }
 else
 {
@@ -393,7 +393,7 @@ W9sR9S4 = vI5hx1t1a();
 }
 else
 {
-DHz_g_h0D = (int)abs(X9WARru);
+
 }
 }
 }
@@ -523,7 +523,7 @@ case 1:
 W9sR9S4 = vI5hx1t1a();
 break;
 case 2:
-r40c5b = (int)abs(Ey6X9n);
+
 break;
 case 3:
 p_S1 = K73RP7 + XiEL;
@@ -535,7 +535,7 @@ case 5:
 xk9_s_8D = Ey6X9n + 268763469;
 break;
 case 6:
-wu0NS1 ^= xk9_s_8D;
+
 break;
 case 7:
 W9sR9S4 = vI5hx1t1a();
@@ -566,7 +566,7 @@ K57Go = (int)floor(DHz_g_h0D);
 break;
 case 'c':
 case 'C':
-kNU8S3yI4j += i_Z2_i;
+
 break;
 default:
 r40c5b <<= 1829379814;
@@ -583,7 +583,7 @@ else
 {
 for (int k = 2; k >= 0; --k)
 {
-x0Te = (int)abs(K57Go);
+
 }
 }
 }
@@ -613,7 +613,7 @@ case 'a':
 W9sR9S4 = vI5hx1t1a();
 break;
 case 'b':
-xk9_s_8D <<= MyL5fiorL;
+
 break;
 case 'c':
 xZbx30Uxq8 = pM9kmknZ ^ p_S1;
@@ -638,7 +638,7 @@ W9sR9S4 = vI5hx1t1a();
 }
 }
 
-MZSHWq8tS = (int)abs(K57Go);
+
 return 0;
 }
 

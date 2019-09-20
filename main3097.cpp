@@ -67,7 +67,7 @@ do
 {
 try
 {
-qV8R158S1 = (unsigned long long)(wEB1);
+
 }
 catch (int& errorCode)
 {
@@ -128,7 +128,7 @@ uH572a28 = (int)floor(kVxIr);
 
 try
 {
-H4Ojnj9Lq = (int)floor(khw_prGBMR);
+
 }
 catch (int& errorCode)
 {
@@ -142,7 +142,7 @@ case 0:
 I05FcG++;
 break;
 case 1:
-zf_026R5 >>= hN6N4JsU8;
+
 break;
 case 2:
 ap04_RA %= 1864967663;
@@ -154,7 +154,7 @@ case 4:
 H4Ojnj9Lq = sj90ah ^ QJwGSIO;
 break;
 case 5:
-hN6N4JsU8 <<= 312497303;
+
 break;
 case 6:
 H4Ojnj9Lq = (int)floor(uH572a28);
@@ -166,7 +166,7 @@ case 8:
 PpPE ^= U74U_8;
 break;
 case 9:
-wwm6ut = w4C0vye % k_kA2;
+
 break;
 default:
 wwm6ut = (Q8121MgAk & -918843733) ? zf_026R5 : -1349110000;
@@ -180,7 +180,7 @@ int j = 9;
 while (j >= 0)
 {
 --j;
-qV8R158S1 = U74U_8 + 698502782;
+
 }
 }
 }
@@ -223,7 +223,7 @@ while (k < 3);
 }
 }
 
-QJwGSIO >>= 1317454491;
+
 try
 {
 {
@@ -243,7 +243,7 @@ wEB1--;
 
 Af23T4mhr = uXa_kP8 + 736360216;
 
-H4Ojnj9Lq = (int)floor(kVxIr);
+
 
 g_D5 = (int)abs(PpPE) * 0;
 
@@ -288,7 +288,7 @@ std::cout << wEB1 << "V1_H" << "ffy2" << "k2dd10" << q_9e1 << std::endl;
 }
 else
 {
-m5X2K = (short)(k_kA2);
+
 }
 H4Ojnj9Lq = (int)ceil(khw_prGBMR);
 {
@@ -309,7 +309,7 @@ case 'a':
 kI_toqj3G--;
 break;
 case 'b':
-K5hFRdy5q = SF7XM01 & U74U_8;
+
 break;
 case 'c':
 G0OG7jZr_l |= K5hFRdy5q;
@@ -324,7 +324,7 @@ break;
 switch (w2r1lbN)
 {
 case 0:
-GX7X35j3X = (int)abs(khw_prGBMR);
+
 break;
 case 1:
 QJwGSIO = uXa_kP8 - vuE690;
@@ -336,7 +336,7 @@ default:
 SF7XM01 = u4R4 * 37847939;
 break;
 }
-ap04_RA >>= kI_toqj3G;
+
 w2r1lbN = (short int)(q_9e1 + (l_g9));
 
 return 0;

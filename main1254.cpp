@@ -256,7 +256,7 @@ Qqh8 = (int)abs(Ah7mIn_);
 break;
 }
 
-bdr_ %= Ah7mIn_;
+
 return 0;
 }
 

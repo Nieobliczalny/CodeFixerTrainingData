@@ -12,7 +12,7 @@ short int AgPw(short MhoImz3_l);
 
 int main(int argc, char** argv) {
  int L202e1DnAW;
- L202e1DnAW = 1207894787;
+
  unsigned short f744B09_;
  f744B09_ = 1604419181;
  unsigned short PQ_a;
@@ -26,7 +26,7 @@ int main(int argc, char** argv) {
  unsigned char EBXsm3Eh;
  EBXsm3Eh = 1649216445;
 	unsigned int	L65v3S6S;
-	L65v3S6S	=	715391538;
+
     unsigned short int    vEZxj;
     vEZxj    =    0;
   short int  s_j_oo;
@@ -38,7 +38,7 @@ int main(int argc, char** argv) {
     unsigned int    PUomj5Ep_;
     PUomj5Ep_    =    -385493418;
 	long	rM4_H713;
-	rM4_H713	=	-294028735;
+
   short int  iYYO9O2;
   iYYO9O2  =  -1602658071;
   unsigned char  DUlelQ;
@@ -70,7 +70,7 @@ int main(int argc, char** argv) {
 	short	uE30;
 	uE30	=	-299875956;
  unsigned short n5Sd35;
- n5Sd35 = 1172129505;
+
  short vQz6vqnM;
  vQz6vqnM = -74652614;
 	double	ITgZk;
@@ -83,7 +83,7 @@ int main(int argc, char** argv) {
 L65v3S6S = (unsigned int)(uE30);
 Lz2kr >>= v_6v;
 
-DUlelQ = B015Ja4 >> kMk_;
+
 
 if (vEZxj == 0)
 {
@@ -104,7 +104,7 @@ case 2:
 ITgZk = (int)floor(f8DXcd_AY);
 break;
 case 3:
-rM4_H713 = (int)abs(uP100G1);
+
 break;
 case 4:
 vEZxj = AgPw(f744B09_);
@@ -180,7 +180,7 @@ vEZxj = AgPw(uE30);
 break;
 case 'd':
 case 'D':
-ni82 %= L65v3S6S;
+
 break;
 case 'e':
 case 'E':
@@ -204,7 +204,7 @@ catch (int& errorCode)
 {
 ITgZk = (int)ceil(f8DXcd_AY);
 }
-g2zVBtUv = (unsigned short)(uE30);
+
 
 for (int i = 0; i < 2; i++)
 {
@@ -230,7 +230,7 @@ for (int i = 3; i >= 0; i--)
 vEZxj = AgPw(U5YB_8KI);
 }
 
-g_5B6eH84 = (uP100G1 != -1677738424) ? AgPw(U5YB_8KI) : 1925326355;
+
 
 try
 {

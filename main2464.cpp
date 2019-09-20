@@ -94,7 +94,7 @@ i--;
 
 if (evbp == 0)
 {
-	h67zfi5 = 467604750 / evbp;
+
 }
 uDN6 = RphtWc5();
 
@@ -133,7 +133,7 @@ if (uDN6)
 {
 for (int k = 2; k >= 0; k--)
 {
-jrFFTWk = RphtWc5() << AP1S;
+
 }
 }
 }
@@ -145,7 +145,7 @@ while (i >= 0)
 switch (AP1S)
 {
 case 0:
-jrFFTWk = AP1S ^ 61807151;
+
 break;
 case 1:
 uDN6 = RphtWc5();
@@ -157,7 +157,7 @@ break;
 i--;
 }
 }
-evbp = RphtWc5();
+
 
 return 0;
 }

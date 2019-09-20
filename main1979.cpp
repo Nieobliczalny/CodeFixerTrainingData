@@ -42,7 +42,7 @@ cout << "yD_1E" << "fXSb" << "cixA7PL" << "n_n5uYM" << endl;
 }
 else if (((c_7nx0 > MeY95C4) && (qs0Nt < UXluV)) && ((lBghM5i8R > bEqAs1JFI4) || (c_7nx0 != 1616949394)))
 {
-UXluV /= 1570378157;
+
 }
 else if (s1WSmP6J != -735055219)
 {
@@ -187,7 +187,7 @@ while (i < 5);
 }
 if (xOK70To2 == 1390447510)
 {
-UXluV = (int)abs(IuTbUaG);
+
 }
 
 switch (fXifRh1O)
@@ -239,7 +239,7 @@ case 6:
 L4S4 = eEC12N_0(Ugzwk5vis, 77057874, 1147791487);
 break;
 case 7:
-MMx0w = MF1ScVrE & ugdOoJSfU;
+
 break;
 case 8:
 IuTbUaG++;
@@ -321,7 +321,7 @@ cout << "Vq_4Tp" << "Uk4Vw" << "A8DU" << endl;
 L4S4 = eEC12N_0(-1521251848, -665485192, 2130879510);
 
 L4S4 = eEC12N_0(xOK70To2, 116789771, 1961790804);
-QBbn_ >>= pCBk96;
+
 if (L4S4 == 0)
 {
 	qs0Nt = MF1ScVrE / L4S4;
@@ -347,7 +347,7 @@ fXifRh1O++;
 }
 else if ((Wr6Id0f == sZ8xi) || (ugdOoJSfU <= -197574516))
 {
-Z679 = (char)(MeY95C4 + (bEqAs1JFI4));
+
 }
 else if (M0__ <= yVYRP9J)
 {
@@ -363,7 +363,7 @@ IuTbUaG++;
 }
 else if ((l9fmjuUd >= -452717997) && (qs0Nt > EH0am2))
 {
-nEd6C = (int)abs(fXifRh1O);
+
 }
 else
 {
@@ -380,7 +380,7 @@ else
 L4S4 = eEC12N_0(36977638, ugdOoJSfU, Csha67p);
 }
 
-sZ8xi = (char)(Ugzwk5vis);
+
 iPMm92m3M = (char)(Ugzwk5vis);
 
 if ((lBghM5i8R != bEqAs1JFI4) && (Wr6Id0f != bEqAs1JFI4))

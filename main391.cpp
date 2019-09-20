@@ -96,7 +96,7 @@ int main(int argc, char** argv)
  long double QpFo = -551657742;
     short    gIqz82Zw    =    -791105389;
 
-Qvyb3 >>= eak5;
+
 TiE7zX = 1784416569 / I43_(1668121664);
 TiE7zX &= Z7aLDD_46E;
 

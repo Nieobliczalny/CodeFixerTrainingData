@@ -19,7 +19,7 @@ int main(void)
  int kZgB249;
  kZgB249 = 2118326907;
     unsigned char    st72;
-    st72    =    0;
+
     char    Zj2D;
     Zj2D    =    0;
   unsigned int  qm8zYo_;
@@ -29,7 +29,7 @@ int main(void)
     short int    K2SbDy;
     K2SbDy    =    -912730502;
     short int    xF_2Y_963z;
-    xF_2Y_963z    =    -2056058525;
+
 	short int	yBOyS9r27Q;
 	yBOyS9r27Q	=	1832794089;
  float XF_I70dj;
@@ -47,7 +47,7 @@ int main(void)
  long long y6Yvv;
  y6Yvv = -1824181518;
  unsigned long wzrNwcG;
- wzrNwcG = -1966424895;
+
   long long  PUG7;
   PUG7  =  -1677005711;
     unsigned long    kDcun7s9;
@@ -61,7 +61,7 @@ int main(void)
   char  yTG4A0yU4;
   yTG4A0yU4  =  1631682002;
   int  W779;
-  W779  =  163817405;
+
     unsigned char    j3X_;
     j3X_    =    897927429;
  long long w6mN5Y1;
@@ -71,7 +71,7 @@ int main(void)
 	char	fp_dcm;
 	fp_dcm	=	-712039596;
   short  Crnxt0Q922;
-  Crnxt0Q922  =  370038246;
+
 	char	m8_Hxts;
 	m8_Hxts	=	260147304;
 	int	dARF9U68;
@@ -81,7 +81,7 @@ int main(void)
  unsigned char OrhTkI;
  OrhTkI = 0;
 	long	S0257k61;
-	S0257k61	=	1029672605;
+
   int  l49yls3usZ;
   l49yls3usZ  =  704824494;
  double X9oy;
@@ -93,7 +93,7 @@ int main(void)
     unsigned long    Z_S5Kb3O;
     Z_S5Kb3O    =    1987390312;
   double  G6_d_5;
-  G6_d_5  =  2115085020;
+
  unsigned int freg65_;
  freg65_ = -1359166976;
 	char	OO6qx9M;
@@ -108,7 +108,7 @@ else if (dARF9U68 < GTlH5xM)
 {
 try
 {
-y6Yvv ^= 1534913133;
+
 }
 catch (int& errorCode)
 {
@@ -147,7 +147,7 @@ else
 switch (Zj2D)
 {
 case 0:
-DMf1W1 = GTlH5xM | 1762842497;
+
 break;
 case 1:
 kZgB249 >>= 1913726508;
@@ -168,7 +168,7 @@ case 6:
 X9oy = (int)floor(XF_I70dj);
 break;
 case 7:
-XK_8 |= 457866665;
+
 break;
 }
 }
@@ -181,7 +181,7 @@ if ((qm8zYo_ <= 1305924675) || ((FurRM0I <= g48qX6v9) || (wzrNwcG > w6mN5Y1)))
 XF_I70dj = (int)ceil(FurRM0I);
 }
 }
-gONxIYUc = (float)(GTlH5xM + (-1234252381));
+
 try
 {
 freg65_ = FWdO60EWFA + 845916316;
@@ -191,7 +191,7 @@ catch (int& errorCode)
 l49yls3usZ %= K2SbDy;
 }
 
-xRw_HH5 = (int)(GTlH5xM + (enD2u1Y_8));
+
 try
 {
 if ((X9oy == -1926532423) && (OrhTkI <= 1827299890))

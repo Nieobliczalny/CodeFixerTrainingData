@@ -40,7 +40,7 @@ if (ekaE3xlb != 1982009785)
 {
 if (cGYxG_Z3 >= Iyj0RMOvYq)
 {
-ekaE3xlb = mqahtkZ + R2aWb94;
+
 }
 else if (cGYxG_Z3 != Q_O3G07ZI)
 {
@@ -93,7 +93,7 @@ else
 {
 if (R2aWb94 < -2094758605)
 {
-ekaE3xlb = cGYxG_Z3 * 69171049;
+
 }
 else
 {
@@ -151,7 +151,7 @@ Iyj0RMOvYq ^= 710690834;
 switch (mqahtkZ)
 {
 case 0:
-R2aWb94 = (int)abs(cGYxG_Z3);
+
 break;
 case 1:
 Q_O3G07ZI &= Iyj0RMOvYq;
@@ -166,7 +166,7 @@ case 4:
 Iyj0RMOvYq--;
 break;
 }
-Q_O3G07ZI = (unsigned short int)(V_gM9nB + (636485618));
+
 
 return 0;
 }

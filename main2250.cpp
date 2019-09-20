@@ -138,7 +138,7 @@ m7q9QiO = (int)abs(Fa3wOG);
 switch (YgZiY)
 {
 case 0:
-belqFU = (int)abs(Fa3wOG) * 0;
+
 break;
 case 1:
 Q7_6QY = YgZiY >> 1023406055;
@@ -268,7 +268,7 @@ case 1:
 Fa3wOG++;
 break;
 case 2:
-Q7_6QY = (int)floor(asAazE406);
+
 break;
 case 3:
 m7q9QiO = (int)abs(Q7_6QY);

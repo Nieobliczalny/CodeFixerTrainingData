@@ -353,7 +353,7 @@ S9R_7 = (int)abs(E18U4yoK);
 break;
 case 'b':
 case 'B':
-Zytr6V = Zytr6V / 1091424294;
+
 break;
 case 'c':
 case 'C':
@@ -376,7 +376,7 @@ cout << "g0w6N" << eu6t3() << "QDZDS12" << endl;
 }
 else
 {
-Zytr6V = (int)abs(E18U4yoK);
+
 }
 
 {

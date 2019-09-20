@@ -67,7 +67,7 @@ case 0:
 u8J24 = L1oeF7IJ2 / WtQo2N4_R2;
 break;
 case 1:
-z8k2yXI = L1oeF7IJ2 & u8J24;
+
 break;
 case 2:
 u8J24 = u8J24 ^ 827887893;
@@ -307,7 +307,7 @@ case 'a':
 oEaF5C = (int)abs(u8J24);
 break;
 case 'b':
-XJcRE2wbGQ *= gqntkhD39g;
+
 break;
 case 'c':
 XJcRE2wbGQ &= 31012731;
@@ -322,7 +322,7 @@ case 'f':
 oEaF5C = (int)abs(u8J24);
 break;
 case 'g':
-XJcRE2wbGQ = Lrudxr00H << 1574433823;
+
 break;
 case 'h':
 u8J24 = gqntkhD39g ^ 1951610745;
@@ -336,7 +336,7 @@ else
 {
 if (((z8k2yXI & L1oeF7IJ2) && (WtQo2N4_R2)) || (WtQo2N4_R2 <= -1733521472))
 {
-z8k2yXI -= u8J24;
+
 }
 else if (og75bD >= KYtV)
 {
@@ -356,7 +356,7 @@ try
 int k = 0;
 do
 {
-XJcRE2wbGQ = oEaF5C ^ u8J24;
+
 ++k;
 }
 while (k < 5);
@@ -367,7 +367,7 @@ catch (int& errorCode)
 oEaF5C = KYtV * u8J24;
 }
 }
-z8k2yXI = gqntkhD39g | 1019886279;
+
 return 0;
 }
 

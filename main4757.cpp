@@ -198,7 +198,7 @@ switch (P5e9y)
 {
 case 'a':
 case 'A':
-IZ4bXJW9 = SJsXIE % L_74;
+
 break;
 case 'b':
 case 'B':
@@ -241,7 +241,7 @@ std::cout << Pxfi6Fi7C() << Pxfi6Fi7C() << WjKyD1 << "IbeO4H" << Pxfi6Fi7C() << 
 }
 if (U2o7KiQ7 >= qld1)
 {
-hO9d4 = SJsXIE >> 1954041465;
+
 }
 else
 {

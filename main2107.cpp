@@ -19,6 +19,7 @@ int main(void)
  long V8t1N5, KY7Q, X1W7, i7_InKf_, Wk8vlHOcg6, Wf9DD, an08Vk5E, C0r6P4, pr82fhkv, lslFs, Cn1kt6, H6WkE7, m7I4Y, zkP96G8_CT, hLQXo4H, k718k, TTb5li0, XZm709k, eczm4sG, fS3m60, IM50i, ZJyQRRq, dIUJRU24_v, R61iYVa8, Ecv6fs, l_etE, E_P_fU0;
   V8t1N5 = KY7Q = X1W7 = i7_InKf_ = Wk8vlHOcg6 = Wf9DD = an08Vk5E = C0r6P4 = pr82fhkv = lslFs = Cn1kt6 = H6WkE7 = m7I4Y = zkP96G8_CT = hLQXo4H = k718k = TTb5li0 = XZm709k = eczm4sG = fS3m60 = IM50i = ZJyQRRq = dIUJRU24_v = R61iYVa8 = Ecv6fs = l_etE = E_P_fU0 = 1042545024;
  short int RJgQv, CZ52S3IuaA, p6_38;
+  // codechecker_intentional [deadcode.DeadStores] Design rule - initialize all variables
   RJgQv = CZ52S3IuaA = p6_38 = 0;
 
 if (R61iYVa8 >= -1507436937)

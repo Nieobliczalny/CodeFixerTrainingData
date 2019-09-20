@@ -28,7 +28,7 @@ long long    jRxA48hdvN(int    yh2189b0Ru,unsigned char    jegD4,unsigned short 
 
 int main(int argc, char** argv) {
 	short int	y3835LwJj;
-	y3835LwJj	=	-765018139;
+
 	unsigned short	NxOH;
 	NxOH	=	-282386485;
  unsigned long long N05C;
@@ -38,7 +38,7 @@ int main(int argc, char** argv) {
  short int FyJaOk;
  FyJaOk = 0;
     unsigned short int    Dq06c7tsj;
-    Dq06c7tsj    =    -1668355768;
+
   unsigned long long  mesc9;
   mesc9  =  0;
     long long    Y4eRn;
@@ -48,7 +48,7 @@ int main(int argc, char** argv) {
     unsigned char    l7wElcX0;
     l7wElcX0    =    666067360;
   long  frCOSqGt49;
-  frCOSqGt49  =  1783164008;
+
 	double	D8xk810f;
 	D8xk810f	=	2072868990;
  unsigned short int jt9Yi;
@@ -62,7 +62,7 @@ int main(int argc, char** argv) {
   short int  X2o4;
   X2o4  =  1622249144;
     unsigned int    W0Ra;
-    W0Ra    =    -608702536;
+
     unsigned short    I_kvMZU3Id;
     I_kvMZU3Id    =    -1029836487;
  unsigned short int E_wQFAm3W;
@@ -82,7 +82,7 @@ int main(int argc, char** argv) {
     int    TwGTC0mp_;
     TwGTC0mp_    =    2102985463;
 	char	zdPNCMY;
-	zdPNCMY	=	1761657367;
+
     unsigned short int    D7G308R1;
     D7G308R1    =    -1293444830;
 	long	LAXx;
@@ -92,7 +92,7 @@ int main(int argc, char** argv) {
  unsigned char AgK9aK;
  AgK9aK = -425791119;
  unsigned long long AesQ;
- AesQ = 1470078724;
+
  unsigned int fmpT;
  fmpT = -1171802363;
   unsigned long  i6a4_HXM5P;
@@ -106,7 +106,7 @@ int main(int argc, char** argv) {
   unsigned long  WV1lT4i;
   WV1lT4i  =  -834462323;
   float  u_0ZfbP0;
-  u_0ZfbP0  =  866749736;
+
  int jC3wg;
  jC3wg = 0;
 
@@ -124,7 +124,7 @@ catch (int& errorCode)
 Wr_tIy4 = vN8j(24224077, nq49ma, 1386975934, -1201150295, LAXx);
 }
 }
-u_0ZfbP0 = (int)floor(BC973);
+
 Y4eRn = APac / mesc9;
 E_wQFAm3W = G6nq(1754035705, 698680691);
 
@@ -145,7 +145,7 @@ case 'a':
 E6zTmODR = kng1420_f(E6zTmODR, I_kvMZU3Id);
 break;
 case 'b':
-mesc9 = vN8j(X2o4, -1686746698, 287678602, rU016, -1566963838);
+
 break;
 }
 }
@@ -159,7 +159,7 @@ do
 switch (X2o4)
 {
 case 'a':
-D8xk810f = kng1420_f(X2o4, 1423714606) - WV1lT4i;
+
 break;
 case 'b':
 D8xk810f = (int)ceil(nq49ma);
@@ -174,7 +174,7 @@ case 'e':
 Bm5II44 %= 995208397;
 break;
 case 'f':
-k3187He = (int)abs(X2o4);
+
 break;
 case 'g':
 i6a4_HXM5P = kng1420_f(-1880865300, 150912328);

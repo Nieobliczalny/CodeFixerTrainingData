@@ -100,7 +100,7 @@ case 0:
 KwL52qcB = eQhu0gs(Gvr9LyD, KwL52qcB);
 break;
 case 1:
-uq46NAK = cNaB % GP6yf;
+
 break;
 default:
 KwL52qcB = Mi72f88nF(KwL52qcB, wfd13f, 1880113680, Gvr9LyD, uq46NAK);
@@ -263,7 +263,7 @@ try
 {
 if (CwjC4NUsM >= -1323042102)
 {
-wfd13f = wfd13f ^ KwL52qcB;
+
 }
 else
 {
@@ -287,7 +287,7 @@ else if (Bf7R0 < 1975370606)
 int k = 1;
 while (k >= 0)
 {
-wfd13f = Mi72f88nF(158565158, Bf7R0, -1155704916, 38055166, 18508667);
+
 --k;
 }
 }
@@ -303,7 +303,7 @@ else if (KwL52qcB == -985278048)
 {
 for (int k = 10; k >= 0; k--)
 {
-M6g0 = (int)abs(Gvr9LyD);
+
 }
 }
 else if (uq46NAK < 1386299178)

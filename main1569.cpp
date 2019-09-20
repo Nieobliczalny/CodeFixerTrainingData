@@ -771,7 +771,7 @@ j--;
 }
 }
 
-WqxZ6 = ayrZ670 / eSV0Ea9M;
+
 
 return 0;
 }

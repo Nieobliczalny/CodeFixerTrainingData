@@ -214,7 +214,7 @@ break;
 
 UDE_ = (int)ceil(iaDX);
 
-KPWxY2dlb = r_X8 - Ir8Z;
+
 {
 int i = 10;
 while (i >= 0)
@@ -471,7 +471,7 @@ Fqciz0__6 = LCpbXd7(KPWxY2dlb, g0v9y);
 }
 else if ((iaDX >= zBsSQ1) || (pvtywt1Y == 620438029))
 {
-cdHL9A6_PT = th6vp7 & 334073793;
+
 }
 else if (r_X8 != th6vp7)
 {
@@ -483,7 +483,7 @@ D4G4_G_1 = (int)floor(oGEm);
 }
 else if (cEM9dG <= th6vp7)
 {
-y9p4TGb = Ir8Z >> 505861970;
+
 }
 else if ((YJy4xyF <= -288143908) && ((D4G4_G_1 != th6vp7) || (D4G4_G_1 <= -1031821672)))
 {

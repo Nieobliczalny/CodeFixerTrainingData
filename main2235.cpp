@@ -376,7 +376,7 @@ bQUOOkr--;
 break;
 case 'b':
 case 'B':
-EZ9Nl7d4 = (int)abs(GyBMT6_b);
+
 break;
 case 'c':
 case 'C':

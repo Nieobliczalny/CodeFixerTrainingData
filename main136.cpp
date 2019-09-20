@@ -41,7 +41,7 @@ case 2:
 f_00el8_ = kjb4nb(-2137125201, 1960270583, -2050753012, -334523753, r7Zh);
 break;
 }
-Zb_j7C /= 945776082;
+
 
 cout << WU7tMcIUJ4 / F_Zh9 << endl;
 
@@ -67,7 +67,7 @@ for (int j = 6; j >= 0; --j)
 {
 if ((QtQohf < Q7hB4) || ((mniX3 == 423499928) || (WU7tMcIUJ4 == 471877916)))
 {
-Zb_j7C = (int)floor(KD_IC92jv);
+
 }
 }
 }
@@ -79,7 +79,7 @@ else
 {
 cout << kjb4nb(1704239490, KD_IC92jv, Xri058, 1506563441, 1034593766) << "AI4EET6gq" << QtQohf << "PABB2aG1" << endl;
 }
-F_Zh9 = zay3_(-1959042162, -1299865208, f_00el8_, 196368707, -1470107419);
+
 
 return 0;
 }

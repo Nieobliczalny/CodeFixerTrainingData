@@ -33,7 +33,7 @@ do
 int k = 6;
 while (k >= 0)
 {
-NR8J1ZQ7h3 = HqaNe_6Q - O4k45lV;
+
 --k;
 }
 }
@@ -76,7 +76,7 @@ if ((zRoU == GJK78U) && (SohTx63F1z == qTwC6v))
 switch (JzfXwZ2)
 {
 case 0:
-NR8J1ZQ7h3 = SohTx63F1z ^ 1253495603;
+
 break;
 case 1:
 u6Cb5++;
@@ -88,7 +88,7 @@ case 3:
 nD4G_lh9m = O_01_3 | 904804363;
 break;
 case 4:
-w0aJS_U3 = ly228 | O4k45lV;
+
 break;
 case 5:
 u6Cb5 += MQTcc5;
@@ -100,7 +100,7 @@ case 7:
 n7c949yA = GL83pBqbb >> 2114487947;
 break;
 case 8:
-w6Pg = w0aJS_U3 / UGEe76B;
+
 break;
 }
 }
@@ -148,7 +148,7 @@ O4k45lV = qTwC6v / 1435808178;
 
 if (YyIu_i & CWT_Vkhp)
 {
-uXfzY = (unsigned short int)(Rqnft);
+
 }
 else if (u6Cb5 != H_5bv)
 {
@@ -180,7 +180,7 @@ do
 int k = 10;
 do
 {
-z6KJAzc = nD4G_lh9m + 1523993970;
+
 k--;
 }
 while (k >= 0);

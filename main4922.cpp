@@ -20,7 +20,7 @@ int main() {
 switch (VrnLdj6)
 {
 case 0:
-ALh8u2DRh = VhRC9QF(q7Gs_Mf4, -203995506, -903037426);
+
 break;
 case 1:
 ALh8u2DRh = VhRC9QF(B56cj, -1244482986, z5016);
@@ -32,7 +32,7 @@ case 3:
 j4u0 = VhRC9QF(-607654542, -737998912, 1900014608);
 break;
 default:
-GV3yxH = T6lPCaEEjV(GV3yxH, X4zkDFv5q, 574111049, w41N);
+
 break;
 }
 
@@ -49,7 +49,7 @@ int k = 0;
 do
 {
 ++k;
-Q40o9sZ = T6lPCaEEjV(1076111108, -414585230, m60DP, 1336834791);
+
 }
 while (k < 1);
 }
@@ -65,7 +65,7 @@ else
 {
 if ((mr9pM_aGZ4 <= -778666522) || (sF_SCW < -2143049830))
 {
-Gf39B = (int)abs(b62gn);
+
 }
 }
 }

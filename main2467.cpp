@@ -16,7 +16,7 @@ unsigned short int  qHK1(unsigned long  ogH6TvGr93,unsigned short  H_Uj0h4Yj,uns
 
 int main(int argc, char** argv) {
     short    d9lY,    aU97,    aXba2wD2Vm,    bx2S9303db;
-    d9lY    =    0;
+
     aU97    =    0;
     aXba2wD2Vm    =    0;
     bx2S9303db    =    0;
@@ -26,7 +26,7 @@ int main(int argc, char** argv) {
   Uk4Yev  =  -1542244803;
   CXX3ZJQ884  =  -1436342765;
   k4gD0  =  -657314505;
-  CK7agKYKL1  =  -1368603041;
+
   qpaS_Z  =  -75943596;
   PPH16S  =  1857938510;
   c_ESX0  =  -1899619562;
@@ -36,7 +36,7 @@ int main(int argc, char** argv) {
   r2Q69I  =  -1644182081;
   fYs_Whe  =  801331997;
   azi2zo8ikX  =  791713298;
-  Y3qbPcJiP2  =  -1866107126;
+
   kTH3rHT8  =  1031231868;
   ucxud  =  828612681;
   Ur3C45cw  =  -1318492122;
@@ -47,7 +47,7 @@ int main(int argc, char** argv) {
   Mndyn4HK18  =  1445027827;
   jhXgH63S57  =  185086712;
   KnX7q8Z383  =  357739182;
-  CIf_HGP  =  -2000949365;
+
   xMqPkYDmEZ  =  -466931667;
 
 sz_c0 = qpaS_Z / qHK1(-952813388, -190718009, -372893562, 704779289, k4gD0);
@@ -63,7 +63,7 @@ switch (aU97)
 {
 case 'a':
 case 'A':
-cFSmLai = v60k9tYmYo(-417315199, -1898082676, 1595694047, -1594885499);
+
 break;
 case 'b':
 case 'B':
@@ -75,7 +75,7 @@ qpaS_Z = T54fJ << 953625492;
 break;
 case 'd':
 case 'D':
-d9lY = qHK1(HynqoAIA9, 797229054, -1022400987, 1909112741, 321139651);
+
 break;
 }
 

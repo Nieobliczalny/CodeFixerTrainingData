@@ -21,7 +21,7 @@ long WlMw(int e3721_6_0o,int dtOHh06GU5,unsigned short q9XLo6OFHf);
 int main(int argc, char** argv) {
  long long LE6PO4S1uv, f3Bi, RVh1L2_1oY;
  LE6PO4S1uv = 0;
- f3Bi = 0;
+
  RVh1L2_1oY = 0;
  unsigned short int g7w3CSk5O, n6ItbHvAZ, O074K, UW3Q_Vz_, C6YmlnShaq, GM12kBcf, iZG_K5B, hKu_c2, aGpHTA, U2hZJ2pWI, e2FRNG, x6pLhJKo, D34D, o0cr9a, y4s3_8AP8B, G4yv_Bui9, jvEdFht9, DnTCeJvR2, yD76197f6, kHKS2d, N58ruaN, XZ0HxmXu8, YFdi0HQ, cuWSPr;
  g7w3CSk5O = -781392918;
@@ -34,7 +34,7 @@ int main(int argc, char** argv) {
  hKu_c2 = -1271385774;
  aGpHTA = -951654698;
  U2hZJ2pWI = -269545143;
- e2FRNG = -636995397;
+
  x6pLhJKo = -286957308;
  D34D = 9068074;
  o0cr9a = -213993221;
@@ -45,7 +45,7 @@ int main(int argc, char** argv) {
  yD76197f6 = 568968237;
  kHKS2d = -1980716089;
  N58ruaN = 2052329963;
- XZ0HxmXu8 = 879078980;
+
  YFdi0HQ = 1853750134;
  cuWSPr = -1145954250;
 
@@ -58,7 +58,7 @@ default:
 cuWSPr >>= 646659278;
 break;
 }
-g7w3CSk5O = RVh1L2_1oY / WlMw(-567686217, cuWSPr, jvEdFht9);
+
 cout << "kRUlw" << On3DF66I(D34D, cuWSPr, jvEdFht9) << "sK25t" << "ISglJ_d" << C6YmlnShaq << endl;
 x6pLhJKo /= aGpHTA;
 cout << C6YmlnShaq << ng6M1_i70() << endl;
@@ -92,7 +92,7 @@ while (i >= 0);
 
 cout << d2_922_(kHKS2d, -404734751, x6pLhJKo, 449973312, n6ItbHvAZ) << LE6PO4S1uv << endl;
 
-YFdi0HQ = (unsigned short int)(RVh1L2_1oY + (1631418538));
+
 for (int i = 0; i < 8; ++i)
 {
 cout << UW3Q_Vz_ << "Qp91" << endl;
@@ -104,7 +104,7 @@ o0cr9a %= n6ItbHvAZ;
 switch (U2hZJ2pWI)
 {
 case 0:
-yD76197f6 = d2_922_(kHKS2d, -1451066675, -1387848828, C6YmlnShaq, n6ItbHvAZ) ^ N58ruaN;
+
 break;
 default:
 yD76197f6 = X8clThlJ(294641117, LE6PO4S1uv, -1311925347, n6ItbHvAZ, D34D);

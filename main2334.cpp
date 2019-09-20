@@ -27,7 +27,7 @@ int main(int argc, char** argv) {
 
 for (int i = 0; i < 5; i++)
 {
-zay8 = i83aDy4 - 405400518;
+
 }
 
 E_EjVhbD8y = QXN6_L8tu / 139021127;
@@ -41,7 +41,7 @@ switch (FZhG_)
 {
 case 'a':
 case 'A':
-fO5RObS5 = p6Ye(815658300, Q5dO_821b);
+
 break;
 case 'b':
 case 'B':
@@ -53,7 +53,7 @@ EJVCb3P *= 1665933977;
 break;
 case 'd':
 case 'D':
-E_EjVhbD8y = v90PN9e9(rC6G6W, E_EjVhbD8y, -1599725371, FZhG_);
+
 break;
 case 'e':
 case 'E':
@@ -65,7 +65,7 @@ rC6G6W = (int)abs(QXN6_L8tu);
 break;
 case 'g':
 case 'G':
-E_EjVhbD8y = rNo3D(E_EjVhbD8y, QXN6_L8tu, i83aDy4);
+
 break;
 case 'h':
 case 'H':
@@ -77,7 +77,7 @@ i83aDy4 = rNo3D(1488156620, i83aDy4, -1440542966);
 break;
 case 'j':
 case 'J':
-i83aDy4 = rNo3D(1850366547, Q5dO_821b, 1939903613);
+
 break;
 }
 

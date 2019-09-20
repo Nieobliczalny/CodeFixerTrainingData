@@ -272,7 +272,7 @@ try
 switch (GzGWfi)
 {
 case 'a':
-GzGWfi = (int)abs(a37_00R) * 0;
+
 break;
 }
 }
@@ -392,7 +392,7 @@ a37_00R = iEBfh04C();
 }
 try
 {
-GzGWfi = (char)(Ya4B * GzGWfi);
+
 }
 catch (int& errorCode)
 {

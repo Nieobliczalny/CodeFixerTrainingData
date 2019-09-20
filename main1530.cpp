@@ -58,7 +58,7 @@ int main(int argc, char** argv) {
     jdyo    =    -468187330;
     RBX1072    =    -703151536;
     q418z    =    524050906;
-    Ba3JXwKo    =    -1889234738;
+
     Pb9yO    =    1738983686;
     Z6Vf    =    499761104;
     k_fV3    =    -1037960098;
@@ -185,7 +185,7 @@ else
 {
 if ((vC8u < 838455636) && (hSL33 != P9x5TIf))
 {
-Ba3JXwKo = Pb9yO - DJ_WM_F9y;
+
 }
 else
 {
@@ -200,7 +200,7 @@ if (Egm3 < k_fV3)
 {
 try
 {
-Pb9yO &= 1549817122;
+
 }
 catch (int& errorCode)
 {
@@ -213,7 +213,7 @@ else if (j_e2l <= 1540502377)
 int k = 0;
 do
 {
-Pb9yO = lnUzQa();
+
 ++k;
 }
 while (k < 3);
@@ -400,7 +400,7 @@ else
 int k = 0;
 while (k < 8)
 {
-Pb9yO = Nboa_B();
+
 ++k;
 }
 }
@@ -474,7 +474,7 @@ do
 {
 for (int k = 0; k < 3; ++k)
 {
-Z6Vf = Ad9f2G - ap6UvqT9b7;
+
 }
 ++j;
 }
@@ -487,7 +487,7 @@ switch (jdyo)
 {
 case 'a':
 case 'A':
-Egm3 = Nboa_B();
+
 break;
 case 'b':
 case 'B':
@@ -514,7 +514,7 @@ case 'G':
 xEy_R_CX = zerhkWUT & Ad9f2G;
 break;
 default:
-Z6Vf = lnUzQa();
+
 break;
 }
 }
@@ -541,7 +541,7 @@ else
 switch (JKhyCi)
 {
 case 0:
-JKhyCi = lnUzQa();
+
 break;
 case 1:
 a2H49P5K %= c8032;
@@ -575,7 +575,7 @@ switch (hSL33)
 {
 case 'a':
 case 'A':
-JKhyCi = P9x5TIf | Z3_Y;
+
 break;
 case 'b':
 case 'B':
@@ -587,7 +587,7 @@ cK568kmb1 = Nboa_B() | 1691322676;
 break;
 case 'd':
 case 'D':
-jdyo = j_e2l / cK568kmb1;
+
 break;
 case 'e':
 case 'E':

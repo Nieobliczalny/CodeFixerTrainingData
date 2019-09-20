@@ -111,7 +111,7 @@ int main(int argc, char** argv) {
     double    EdMy8qx    =    -1100038025;
     double    h74_2QOXZ    =    508188104;
 
-gYmu2 = -244717224 / h270vbxx(806035409, 1050378201);
+
 try
 {
 for (int j = 5; j >= 0; --j)
@@ -133,7 +133,7 @@ L4_y1NthZ_ = (int)ceil(h74_2QOXZ);
 
 for (int i = 0; i < 1; ++i)
 {
-u_4l8050 = h270vbxx(EbE56m2BzJ, ZxIkt9hL);
+
 }
 BRSP *= HO51uIn;
 
@@ -145,7 +145,7 @@ while (i >= 0)
 int j = 5;
 do
 {
-Sm4mxx = (short int)(x2GakT + (-906196134));
+
 --j;
 }
 while (j >= 0);

@@ -17,7 +17,7 @@ int main(int argc, char** argv) {
   int  tM34;
   tM34  =  849736807;
 	unsigned short	IfHTklNO;
-	IfHTklNO	=	-713197549;
+
     unsigned int    afSTZ;
     afSTZ    =    172117669;
   char  Wqz_l;
@@ -37,7 +37,7 @@ int main(int argc, char** argv) {
   float  oCw7;
   oCw7  =  -730568436;
     short int    V_7I5j;
-    V_7I5j    =    0;
+
  short int w06X75Gd;
  w06X75Gd = -1411383160;
   unsigned short int  vcwI5M;
@@ -49,7 +49,7 @@ int main(int argc, char** argv) {
   unsigned short int  POo6_6gf1G;
   POo6_6gf1G  =  706621837;
     unsigned int    y0L4eIwKV4;
-    y0L4eIwKV4    =    0;
+
     float    XXBa;
     XXBa    =    -1166976460;
   unsigned char  FBp8r;
@@ -65,7 +65,7 @@ int main(int argc, char** argv) {
 	unsigned short	lm2r;
 	lm2r	=	720005721;
     unsigned long long    Ed836;
-    Ed836    =    0;
+
  unsigned long long TdC0__K;
  TdC0__K = 217089301;
 	unsigned short	wdZe7f;
@@ -75,7 +75,7 @@ int main(int argc, char** argv) {
   long  Nas09z8EpI;
   Nas09z8EpI  =  902210752;
     char    p_xhEEh;
-    p_xhEEh    =    -680003624;
+
 	unsigned int	M4ePKsJB5D;
 	M4ePKsJB5D	=	-575256297;
 	short	Qg2_yv;
@@ -89,7 +89,7 @@ int main(int argc, char** argv) {
   unsigned char  Cvk4_BG6;
   Cvk4_BG6  =  -1142844734;
     unsigned short    j06N4Zfa;
-    j06N4Zfa    =    -615888934;
+
     char    Sq7AsTf;
     Sq7AsTf    =    -353218218;
   unsigned short  A2A4_7gd2;
@@ -99,7 +99,7 @@ int main(int argc, char** argv) {
     long double    W_96r;
     W_96r    =    291319390;
  unsigned long ZJ8475bH6g;
- ZJ8475bH6g = 2138366037;
+
 	double	mfKhB28W6e;
 	mfKhB28W6e	=	-207018319;
     char    Q6_k0;
@@ -113,7 +113,7 @@ int main(int argc, char** argv) {
 	unsigned short int	vE_G4K3;
 	vE_G4K3	=	-1066388438;
     long long    Bn_Id2ja;
-    Bn_Id2ja    =    -1244369556;
+
     int    q28WMa;
     q28WMa    =    -1566256019;
 	short	Pt09pYwa77;
@@ -137,7 +137,7 @@ case 2:
 Sue70W = (int)ceil(W_96r);
 break;
 case 3:
-y0L4eIwKV4 = e_MSj(-222136622);
+
 break;
 case 4:
 Wxsdh = e_MSj(1355850881);
@@ -185,7 +185,7 @@ Ed836 = e_MSj(-657631960);
 break;
 case 'd':
 case 'D':
-V_7I5j = e_MSj(-542119320);
+
 break;
 case 'e':
 case 'E':
@@ -204,7 +204,7 @@ case 'H':
 Ed836 = e_MSj(YxpJOxNr0m);
 break;
 default:
-y0L4eIwKV4 = e_MSj(1679631289);
+
 break;
 }
 try
@@ -250,7 +250,7 @@ while (j < 2)
 switch (vcwI5M)
 {
 case 0:
-y0L4eIwKV4 = e_MSj(Qg2_yv);
+
 break;
 default:
 Wxsdh = e_MSj(xpV1f_A0Hb);
@@ -290,7 +290,7 @@ Wxsdh = e_MSj(A2A4_7gd2);
 }
 if (w06X75Gd > -2120039391)
 {
-Bn_Id2ja = (long long)(Wxsdh + (-800974746));
+
 }
 else if ((H3VW >= y0L4eIwKV4) || (oCw7 < x57pS8410F))
 {
@@ -304,7 +304,7 @@ case 'a':
 Wxsdh = e_MSj(z0Z294);
 break;
 case 'b':
-x57pS8410F /= w06X75Gd;
+
 break;
 case 'c':
 V_7I5j = e_MSj(144923564);
@@ -319,7 +319,7 @@ case 'f':
 Sq7AsTf = (int)abs(XXBa);
 break;
 case 'g':
-vE_G4K3 = E942j9A3n / 1755229581;
+
 break;
 case 'h':
 j96Y = e_MSj(PWKh) / afSTZ;
@@ -355,7 +355,7 @@ Sq7AsTf <<= vcwI5M;
 }
 else
 {
-Pt09pYwa77 = z0Z294 >> 1385544890;
+
 }
 }
 else if (Cvk4_BG6 <= x57pS8410F)
@@ -384,7 +384,7 @@ switch (DYfdOgMK9)
 {
 case 'a':
 case 'A':
-Sue70W = (int)floor(mfKhB28W6e);
+
 break;
 case 'b':
 case 'B':
@@ -396,7 +396,7 @@ Ed836 = e_MSj(-520821967);
 break;
 case 'd':
 case 'D':
-wdZe7f >>= w06X75Gd;
+
 break;
 case 'e':
 case 'E':
@@ -414,7 +414,7 @@ if (c7ajKz < -568812316)
 {
 if (IfHTklNO & Ed836)
 {
-mfKhB28W6e = (double)(Sq7AsTf);
+
 }
 else
 {
@@ -426,7 +426,7 @@ else if (pF3jo != -1429500055)
 switch (M4ePKsJB5D)
 {
 case 0:
-j96Y = A2A4_7gd2 * Q6_k0;
+
 break;
 case 1:
 POo6_6gf1G |= Sq7AsTf;
@@ -438,7 +438,7 @@ case 3:
 WLBB7w4L -= Cvk4_BG6;
 break;
 case 4:
-XXBa = (int)floor(oCw7);
+
 break;
 case 5:
 V_7I5j = e_MSj(-945574376);
@@ -450,7 +450,7 @@ case 7:
 V_7I5j = e_MSj(1550350024);
 break;
 case 8:
-Sue70W = (int)ceil(XXBa);
+
 break;
 }
 }
@@ -460,7 +460,7 @@ if (R4HI)
 {
 if (lm2r != -1857307633)
 {
-Qg2_yv = (int)abs(PWKh);
+
 }
 else if (WLBB7w4L < 949824958)
 {
@@ -479,7 +479,7 @@ else if ((A2A4_7gd2 <= -857191101) && (XXBa == 738855849))
 {
 for (int k = 7; k >= 0; --k)
 {
-oCw7 = (int)ceil(Ja4dIa4M6V);
+
 }
 }
 else
@@ -493,7 +493,7 @@ GR0rp = (unsigned short int)(Qg2_yv);
 }
 else
 {
-V_7I5j = e_MSj(-513079216);
+
 }
 M4ePKsJB5D = Gzis / Ed836;
 

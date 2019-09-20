@@ -42,7 +42,7 @@ int main(int argc, char** argv)
  unsigned long long wf72P;
  wf72P = -1012144524;
   char  fTjP1;
-  fTjP1  =  0;
+
 	int	kSJyF49_tl;
 	kSJyF49_tl	=	-57004867;
   short  s42eiD;
@@ -117,7 +117,7 @@ if (rMg6_p > s42eiD)
 {
 try
 {
-fTjP1 = eAEu();
+
 }
 catch (int& errorCode)
 {
@@ -225,7 +225,7 @@ case 'e':
 rMg6_p = eAEu();
 break;
 case 'f':
-UMf6F = rMg6_p % 287728757;
+
 break;
 case 'g':
 s42eiD = fTjP1 / Yt0x;
@@ -240,7 +240,7 @@ case 'j':
 d1975 = (int)ceil(jGQ7V0476_);
 break;
 default:
-I28YD1Vt5 = y7532OKv(-1199978095, r0Hj6, wf72P, A_3s833, DsCjwAba0);
+
 break;
 }
 
@@ -272,7 +272,7 @@ else
 {
 for (int k = 10; k >= 0; --k)
 {
-I28YD1Vt5 = wf72P - kSJyF49_tl;
+
 }
 }
 }
@@ -302,7 +302,7 @@ while (i < 5);
 switch (s42eiD)
 {
 case 0:
-s42eiD = y7532OKv(-438089228, d1975, U_6bsML, -406715892, 317852854);
+
 break;
 case 1:
 rMg6_p = eAEu();
@@ -326,7 +326,7 @@ if ((aGH_Apadm <= ice6) && ((aGH_Apadm <= jGQ7V0476_) && (r0Hj6 != 696488474)))
 switch (W06b)
 {
 case 'a':
-kSJyF49_tl = (int)abs(d1975);
+
 break;
 case 'b':
 jGQ7V0476_ = (int)floor(d1975);
@@ -341,7 +341,7 @@ case 'e':
 rMg6_p = eAEu();
 break;
 case 'f':
-A_3s833 = wf72P | 1008996639;
+
 break;
 case 'g':
 HIDMNtJi = T83Tp6_ << 1199128815;

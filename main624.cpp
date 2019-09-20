@@ -98,7 +98,7 @@ m664PJ = vN_Ms4e9(byw9, 903184324, 12002216);
 }
 else if (f_6ELRX0XR <= -1903644728)
 {
-Wjs6_G_Ka = (unsigned short)(lku0h_8n1);
+
 }
 else if (((f_6ELRX0XR & gDlH2HTKOa) && (U7jRdW82u & khz10o7_)) && ((m664PJ <= 601686324) || (Wjs6_G_Ka)))
 {
@@ -132,7 +132,7 @@ case 2:
 E6K2 = (int)abs(r1rr5y56Y) + (547623936);
 break;
 case 3:
-Wjs6_G_Ka = oH8w(2073672389, U7jRdW82u, RF7L, E6K2, fV_wOu3jH6);
+
 break;
 case 4:
 fV_wOu3jH6 = oH8w(-525164138, m664PJ, 894766123, -1847908854, E6K2);
@@ -313,7 +313,7 @@ for (int i = 0; i < 10; ++i)
 {
 try
 {
-r1rr5y56Y = vN_Ms4e9(-1206320106, 1967106404, -1733663797);
+
 }
 catch (int& errorCode)
 {
@@ -325,7 +325,7 @@ Wjs6_G_Ka = 1907250436 / w_PnbmNo;
 gDlH2HTKOa = oH8w(1206769576, gDlH2HTKOa, U7jRdW82u, RF7L, khz10o7_);
 
 TCMQpu = lku0h_8n1 | 1543924637;
-Wjs6_G_Ka = (unsigned short)(U7jRdW82u);
+
 {
 int i = 1;
 while (i >= 0)
@@ -344,7 +344,7 @@ try
 {
 if (avCw8 & 28862539)
 {
-w_PnbmNo = vN_Ms4e9(1196857429, lku0h_8n1, -497483041);
+
 }
 else if (f_6ELRX0XR > avCw8)
 {

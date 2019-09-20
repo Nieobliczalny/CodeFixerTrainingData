@@ -95,7 +95,7 @@ int main(void)
   int  o94X;
   o94X  =  1182153616;
  double Bk6bKq;
- Bk6bKq = -1272051866;
+
  unsigned long N_3953Pf;
  N_3953Pf = -244558747;
 	unsigned char	kx0SO;
@@ -123,7 +123,7 @@ int main(void)
 	double	KYeSuX;
 	KYeSuX	=	-1841377760;
  unsigned long long Z54rs2;
- Z54rs2 = -207659600;
+
  double DLH30z5Vs3;
  DLH30z5Vs3 = -133367219;
     long double    T92g;
@@ -400,7 +400,7 @@ nA0jhjgr__ = PMV2h();
 }
 if (((cyy88uVq != -719586308) && (kC4ud_h < -1186128506)) && (kx0SO & 765509290))
 {
-DLH30z5Vs3 = (double)(NCZ1MVCA__);
+
 }
 else
 {
@@ -463,7 +463,7 @@ NCZ1MVCA__ = (int)ceil(Cfq3VlRs0);
 }
 else if (fZBC1nC == 708804578)
 {
-pYW9 = PMV2h();
+
 }
 else if (iN8hcaEe8k & 1080294594)
 {
@@ -551,7 +551,7 @@ SZA1R46Bz = m1ry & 1566886345;
 }
 else if (SEzs6x & N_3953Pf)
 {
-Q9rMbn2 = H8i_l(Q9rMbn2, T92g, fR53ah, aKw83L3yjY, kC4ud_h);
+
 }
 else if (Nc33m4eKD < cyy88uVq)
 {
@@ -594,7 +594,7 @@ Bk6bKq = (int)ceil(S3JoW2__8);
 }
 else
 {
-kC4ud_h = (long)(iHnu_cWS);
+
 }
 
 switch (fZBC1nC)
@@ -633,7 +633,7 @@ N_3953Pf = H8i_l(686329864, -1182769434, 1016761062, qcH1a7WBq, Bd0X4Ft_5);
 break;
 case 'i':
 case 'I':
-Q9rMbn2 = vT2T49lR << 1748158745;
+
 break;
 case 'j':
 case 'J':
@@ -648,7 +648,7 @@ if (DH4uCw < vT2T49lR)
 switch (o94X)
 {
 case 0:
-S3JoW2__8 = SZA1R46Bz % 441434908;
+
 break;
 case 1:
 vT2T49lR = uVTrBs76(V3OW6Z, -2068061929);
@@ -660,7 +660,7 @@ case 3:
 CS2ZaSEm9 = H8i_l(CS2ZaSEm9, 2052202106, -1141719232, 1366479134, tZh3ZPP8);
 break;
 case 4:
-Nc33m4eKD = H8i_l(Nc33m4eKD, jmcfn_Fy59, ANzBFIUG, SvL34W_VXY, 810508806);
+
 break;
 default:
 ZWeyA630k9 = (int)floor(TrW1wS);
@@ -679,7 +679,7 @@ case 0:
 qcH1a7WBq = (int)abs(CS2ZaSEm9);
 break;
 case 1:
-ZYT_1W >>= 2095361778;
+
 break;
 case 2:
 vT2T49lR = uVTrBs76(-1419784167, OOQE);
@@ -700,7 +700,7 @@ c8cxTQw = (long double)(EMi4Zlb__);
 }
 else if ((QR_97ho_uP == nA0jhjgr__) || ((rwv6y) && (U9O61N)))
 {
-Nc33m4eKD = (unsigned long)(aKw83L3yjY);
+
 }
 else if (fZBC1nC != 276169079)
 {
@@ -715,7 +715,7 @@ int k = 2;
 do
 {
 k--;
-m62ON31_ = (int)abs(Bk6bKq);
+
 }
 while (k >= 0);
 }
@@ -738,7 +738,7 @@ else if (SEzs6x < -1160428140)
 {
 try
 {
-Xj7Vhh = iN8hcaEe8k ^ n5_P;
+
 }
 catch (int& errorCode)
 {
@@ -755,7 +755,7 @@ fR53ah = (unsigned int)(m62ON31_);
 }
 else
 {
-S3JoW2__8 = (int)floor(aKw83L3yjY);
+
 }
 }
 {
@@ -785,7 +785,7 @@ std::cout << "j94R_" << fR53ah << n5_P << Z9BQAI << std::endl;
 int i = 0;
 while (i < 2)
 {
-ZWeyA630k9 = (int)floor(Ba1V_);
+
 ++i;
 }
 }

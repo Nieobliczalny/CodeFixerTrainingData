@@ -77,7 +77,7 @@ case 'a':
 HJU9 = WHC3m1Q2rt(W9k7cT879);
 break;
 case 'b':
-pQ_n += 1549036021;
+
 break;
 case 'c':
 nPUWL3 = WHC3m1Q2rt(Dw6qlz2);
@@ -92,7 +92,7 @@ case 'f':
 zfb1FX &= 852321851;
 break;
 case 'g':
-pQ_n = Xa_gb1F << 1420228191;
+
 break;
 case 'h':
 q82Oi /= pQ_n;
@@ -192,7 +192,7 @@ if (Xa_gb1F & -1237017418)
 {
 if (q82Oi == -717945217)
 {
-nPUWL3 = (long long)(q82Oi * nPUWL3);
+
 }
 }
 else
@@ -246,7 +246,7 @@ zfb1FX = v46xWeT8(418087638);
 break;
 case 'c':
 case 'C':
-TU1Ck = WHC3m1Q2rt(686088364);
+
 break;
 case 'd':
 case 'D':
@@ -260,7 +260,7 @@ std::cout << "Llc5" << "oJ8F1" << "bb5_E" << std::endl;
 
 if (WHC3m1Q2rt(-264246698) == 0)
 {
-	Dw6qlz2 = RU09(591784678, -518344656) / WHC3m1Q2rt(-264246698);
+
 }
 
 JLmiA_uqGc = RU09(pQ_n, zfb1FX) | 1414984191;
@@ -271,7 +271,7 @@ HJU9 = (int)(Xa_gb1F * HJU9);
 switch (JLmiA_uqGc)
 {
 case 0:
-q82Oi ^= 904824631;
+
 break;
 case 1:
 pQ_n = oU44 | 1558529815;

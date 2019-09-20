@@ -169,7 +169,7 @@ hKKC30I7 = O_6Ex34fP4 / hKKC30I7;
 break;
 case 'c':
 case 'C':
-O_6Ex34fP4 -= hKKC30I7;
+
 break;
 case 'd':
 case 'D':
@@ -189,7 +189,7 @@ Xk_vis_ = (int)abs(W1cKC_Gc);
 break;
 case 'h':
 case 'H':
-O_6Ex34fP4 += hKKC30I7;
+
 break;
 case 'i':
 case 'I':
@@ -208,7 +208,7 @@ int k = 0;
 do
 {
 k++;
-O_6Ex34fP4 = W1cKC_Gc + PpdeOY;
+
 }
 while (k < 8);
 }

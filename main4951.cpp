@@ -52,7 +52,7 @@ int main()
  float li5IVp0L;
  li5IVp0L = -1358672240;
   unsigned short  tM7Mz;
-  tM7Mz  =  1652007365;
+
 	long	S3OkHkB;
 	S3OkHkB	=	-1214400241;
  long eIs7;
@@ -70,7 +70,7 @@ int main()
 	unsigned int	gJq6N4A7d;
 	gJq6N4A7d	=	231856539;
 	unsigned int	is_NSMxW;
-	is_NSMxW	=	-1133654536;
+
   unsigned int  VcIX;
   VcIX  =  78006888;
 	long double	OOR_;
@@ -100,7 +100,7 @@ int main()
     unsigned long long    kQ8LB6tVg;
     kQ8LB6tVg    =    1596730272;
     short int    e5c98Jku;
-    e5c98Jku    =    -927678449;
+
   unsigned int  Xu1iU8kc;
   Xu1iU8kc  =  1586951689;
   unsigned int  LHiDB;
@@ -118,7 +118,7 @@ int main()
  unsigned char Hv44;
  Hv44 = 255668374;
     float    rJbh;
-    rJbh    =    -1769257210;
+
   unsigned short int  f3m6fo;
   f3m6fo  =  -645690702;
  double Hv3fcZc1X;
@@ -172,7 +172,7 @@ SsDNJlO *= hT31SxC4;
 break;
 case 'i':
 case 'I':
-hT31SxC4 |= 351695265;
+
 break;
 default:
 kQ8LB6tVg = C7OD4b6Mi();
@@ -189,7 +189,7 @@ case 0:
 Xu1iU8kc = k48nOYQ / G695L;
 break;
 default:
-e5c98Jku = dDAqj2Ba ^ 2035011927;
+
 break;
 }
 
@@ -253,7 +253,7 @@ case 0:
 ZO9_ = y5rZHrAGc(-1062617439, ZO9_);
 break;
 case 1:
-FpF4 = W7ns_d(813040009, 1443657142, -188089779);
+
 break;
 case 2:
 rd3jY = y5rZHrAGc(-708197261, I_n4lmB5);
@@ -265,7 +265,7 @@ case 4:
 V7z_0G = W7ns_d(2104121865, 1947630117, FpF4);
 break;
 case 5:
-f3m6fo = Hd4J * k48nOYQ;
+
 break;
 }
 }
@@ -285,7 +285,7 @@ for (int j = 5; j >= 0; --j)
 {
 if (B5n_y > -863727346)
 {
-AdI27l = C7OD4b6Mi() & 639672868;
+
 }
 }
 }
@@ -296,7 +296,7 @@ int j = 0;
 while (j < 10)
 {
 j++;
-xiOmm = nLc84qFe - 1075746494;
+
 }
 }
 }
@@ -311,7 +311,7 @@ if ((RFa_5QNOt <= V7z_0G) && (Sm28y1n != 1381800003))
 switch (LHiDB)
 {
 case 0:
-G695L ^= yx0o1B1u5;
+
 break;
 }
 }
@@ -329,7 +329,7 @@ mSMVKEx = V7z_0G ^ 1144047764;
 }
 Hv3fcZc1X = (int)ceil(Hd4J);
 
-SkPsxZtR8 = (short)(F1QBpAzo + (NB1eDAkdS));
+
 
 xiOmm = (unsigned short)(ZO9_ + (NB1eDAkdS));
 try
@@ -341,7 +341,7 @@ catch (int& errorCode)
 Ugg9oSvTJ = C7OD4b6Mi();
 }
 
-eIs7 = h84J % SsDNJlO;
+
 return 0;
 }
 

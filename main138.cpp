@@ -17,7 +17,7 @@ int main(void)
  int Xdi_;
  Xdi_ = 1144982872;
  unsigned char DKqMbm;
- DKqMbm = 739111382;
+
 	unsigned short	bTge;
 	bTge	=	769532536;
  short int rOhfb;
@@ -37,7 +37,7 @@ int main(void)
     short int    KF9IRn28;
     KF9IRn28    =    -210885746;
 	float	u6hn3vw;
-	u6hn3vw	=	-17773487;
+
   long long  IgH3b;
   IgH3b  =  -125792852;
     double    KN4_zm5R;
@@ -55,7 +55,7 @@ int main(void)
  double CmuTF6dD;
  CmuTF6dD = 899376845;
 	double	JXW9w7znPV;
-	JXW9w7znPV	=	-1965221779;
+
 	unsigned short int	d1v87Pa;
 	d1v87Pa	=	1003238288;
  long double d93aF1JV;
@@ -118,7 +118,7 @@ case 4:
 KN4_zm5R = CmuTF6dD + 1976922604;
 break;
 case 5:
-g39s6zYh_ %= IgH3b;
+
 break;
 case 6:
 OR_WKRbo = (int)floor(ZCQCA36dz);
@@ -143,7 +143,7 @@ u6hn3vw = (int)abs(KF9IRn28);
 
 if (o4OQ >= 549783207)
 {
-o4OQ = K5bg5K(-1845360253, HFKlL19);
+
 }
 
 if ((pW1PTfgM <= rOhfb) && ((bTge <= IgH3b) && (KF9IRn28 <= Ks62YU5z)))
@@ -153,7 +153,7 @@ try
 switch (egNbhw)
 {
 case 0:
-JXW9w7znPV = (int)ceil(u6hn3vw);
+
 break;
 case 1:
 o4OQ = K5bg5K(-420122525, -1776052917);
@@ -165,7 +165,7 @@ case 3:
 KN4_zm5R = (int)ceil(d93aF1JV);
 break;
 case 4:
-pW1PTfgM %= 1016551865;
+
 break;
 case 5:
 KN4_zm5R = (int)ceil(u6hn3vw);
@@ -177,7 +177,7 @@ case 7:
 CmuTF6dD = (int)floor(u6hn3vw);
 break;
 case 8:
-u6hn3vw = (int)floor(OR_WKRbo);
+
 break;
 }
 }
@@ -188,7 +188,7 @@ rOhfb = egNbhw & HFKlL19;
 }
 else if (KF9IRn28 >= 1163400375)
 {
-o4OQ = K5bg5K(-1356470682, HFKlL19);
+
 }
 else if (Xdi_)
 {
@@ -202,7 +202,7 @@ switch (d36Z56K4ss)
 {
 case 'a':
 case 'A':
-Xdi_ = (KN4_zm5R != 1258569404) ? -157847451 : K5bg5K(OR_WKRbo, HFKlL19);
+
 break;
 case 'b':
 case 'B':
@@ -217,7 +217,7 @@ case 'D':
 IgH3b = IgH3b & sz0b16uY;
 break;
 default:
-o4OQ = K5bg5K(1095136629, -1407959197);
+
 break;
 }
 }
@@ -229,7 +229,7 @@ int j = 0;
 while (j < 5)
 {
 j++;
-pW1PTfgM = Xdi_ ^ HFKlL19;
+
 }
 }
 }
@@ -239,7 +239,7 @@ ZCQCA36dz = (int)floor(OR_WKRbo);
 }
 if (D1LP9_A0e8 != HFKlL19)
 {
-RHR6GfH ^= 201265715;
+
 }
 else
 {
@@ -250,7 +250,7 @@ int k = 4;
 do
 {
 --k;
-o4OQ = K5bg5K(IgH3b, 1092330988);
+
 }
 while (k >= 0);
 }

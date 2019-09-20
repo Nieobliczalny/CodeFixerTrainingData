@@ -132,7 +132,7 @@ break;
 
 for (int i = 7; i >= 0; --i)
 {
-OOSBZcnT8T = (short)(s7Ey_xctI);
+
 }
 try
 {
@@ -150,7 +150,7 @@ catch (int& errorCode)
 f0Z2NU9 = (int)abs(P3Ncs1R) * 0;
 }
 
-V7Jb7aeq = Yx437 + 1356567919;
+
 V7Jb7aeq = Qr0xh / o0j3_uQf;
 r9_78Q5DK9 = a0oMywi();
 
@@ -173,7 +173,7 @@ R3TW = W0Xr(R3TW, by9Q_sGG, 1554846061, fi121yV5, IQGPri);
 }
 else if (((c558K0O > by9Q_sGG) || (j_Vqq > P3Ncs1R)) || (BkI8vDEy >= 1212990218))
 {
-mkb5Tr_fQa = (int)ceil(M2Pu);
+
 }
 else if ((jy197l0u > s7Ey_xctI) || (orDF5LFI9 >= Ng7t3py_))
 {
@@ -207,7 +207,7 @@ std::cout << M2Pu << std::endl;
 int i = 10;
 do
 {
-LUW3 = wTMIH7t_7(BKK0rMJApd);
+
 i--;
 }
 while (i >= 0);
@@ -223,7 +223,7 @@ ki_lTA75 = (int)ceil(SIHw9ka9);
 break;
 case 'b':
 case 'B':
-mkb5Tr_fQa = leCFc4xb_ % I6w3d;
+
 break;
 case 'c':
 case 'C':
@@ -239,7 +239,7 @@ c558K0O = (int)floor(ki_lTA75);
 break;
 case 'f':
 case 'F':
-jzD5psgd8 = (int)floor(my_T);
+
 break;
 case 'g':
 case 'G':
@@ -253,7 +253,7 @@ break;
 
 if (bwXHlE < Y_ZOG0wQZI)
 {
-IKc5 = (long long)(cYq0u + (qD21_l36Y));
+
 }
 std::cout << wTMIH7t_7(-1974895469) << fRizq << "C38R5I" << "SYbqb" << "m8x916Rt" << std::endl;
 j_Vqq = a0oMywi();
@@ -269,7 +269,7 @@ else if (SIHw9ka9 >= Q8OvFr)
 int k = 0;
 while (k < 9)
 {
-IKc5 = a0oMywi();
+
 ++k;
 }
 }
@@ -280,7 +280,7 @@ else if ((V7Jb7aeq < cYq0u) && (c558K0O > V66F_orvz))
 int k = 0;
 while (k < 8)
 {
-VWBdH9gF = (int)ceil(SIHw9ka9);
+
 k++;
 }
 }
@@ -290,7 +290,7 @@ else if (eE1IHk & 50565178)
 switch (fi121yV5)
 {
 case 0:
-RO2Om = V66F_orvz & 1419049907;
+
 break;
 case 1:
 B_y11bG_26 = (int)ceil(VWBdH9gF);
@@ -302,7 +302,7 @@ case 3:
 eE1IHk = bAwCgwG - 256801373;
 break;
 case 4:
-by9Q_sGG = wTMIH7t_7(YzZyU);
+
 break;
 case 5:
 j_Vqq *= 1617458610;
@@ -314,7 +314,7 @@ case 7:
 jzD5psgd8 = (int)ceil(Y_ZOG0wQZI);
 break;
 case 8:
-iAsXphtX4 = H9M8pGjY1(877142225, 1979384286);
+
 break;
 case 9:
 BAM1b78 = H9M8pGjY1(-62718354, -724673790);
@@ -340,7 +340,7 @@ if (ADYc5Jx4 != -1268434274)
 {
 if ((P3Ncs1R >= -1415393711) || (wS09g > -1685622025))
 {
-iAsXphtX4 = (int)abs(SIHw9ka9);
+
 }
 else if (ZX8z88 == cYq0u)
 {
@@ -362,7 +362,7 @@ ADYc5Jx4 = (int)floor(Y_ZOG0wQZI);
 }
 while (i < 4);
 }
-pnd_R = (unsigned short int)(fRizq);
+
 return 0;
 }
 

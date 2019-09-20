@@ -35,7 +35,7 @@ int main(int argc, char** argv) {
   R9tzv_  =  -521590477;
   TlnWJ8irwh  =  -370149508;
   k620s  =  316178721;
-  Khxil  =  -1718447433;
+
   a9RGO5  =  -194685854;
   wF81VV1gA  =  2106451105;
   Zf9U4dV  =  578494070;
@@ -71,7 +71,7 @@ SdDEX8j5aT = jWmla(SdDEX8j5aT, R9tzv_);
 }
 while (i < 2);
 }
-Zf9U4dV = (int)abs(fDA8_IW);
+
 std::cout << w_WZqfw(SdDEX8j5aT, R9tzv_, -472521496, 288750125, -990554687) << "thv0989" << w_WZqfw(SdDEX8j5aT, 1908098403, 1215408259, pA3HB, zme5AkL51) << "tNf9IO4" << std::endl;
 
 if (pA3HB)
@@ -140,7 +140,7 @@ Khxil = (int)ceil(TlnWJ8irwh);
 while (i < 9);
 }
 std::cout << "tbT7s7" << EpJ1m(P2Xcf9k, Zf9U4dV, k620s, qIT4Oq2) << EpJ1m(P2Xcf9k, Zf9U4dV, 1441285113, -346321580) << "KDqhst" << std::endl;
-Zf9U4dV /= 1206463142;
+
 {
 int i = 0;
 while (i < 8)
@@ -222,7 +222,7 @@ case 1:
 qIT4Oq2 = w_WZqfw(1263481184, a9RGO5, IIEhf, jtwcT, -2092828476);
 break;
 case 2:
-wF81VV1gA *= w_thei_NUH;
+
 break;
 case 3:
 a9RGO5 = R9tzv_ * R9tzv_;
@@ -234,7 +234,7 @@ case 5:
 wF81VV1gA = (int)ceil(meXZP);
 break;
 case 6:
-R9tzv_ = w_thei_NUH - pA3HB;
+
 break;
 case 7:
 SdDEX8j5aT = (int)abs(dEJ1TSOX);
@@ -244,7 +244,7 @@ TlnWJ8irwh = TlnWJ8irwh - P2Xcf9k;
 switch (qIT4Oq2)
 {
 case 0:
-Uh4rB18 = EpJ1m(Uh4rB18, SdDEX8j5aT, meXZP, Xu_at92M);
+
 break;
 case 1:
 fDA8_IW = EpJ1m(K0O_FdQ8K, fDA8_IW, -230764264, -1750566145);
@@ -256,7 +256,7 @@ case 3:
 meXZP = (int)ceil(pA3HB);
 break;
 case 4:
-dEJ1TSOX = EpJ1m(dEJ1TSOX, DhgZQ, fDA8_IW, aVg9Q9q_Z);
+
 break;
 case 5:
 Khxil = jWmla(-2050156763, 1613375174);

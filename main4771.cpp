@@ -81,7 +81,7 @@ NbJXg4zZ1 = vZWm4M(-1353629672, -977612969, 518600046, -79167539, i174Xw);
 switch (EDI89UB73)
 {
 case 0:
-NWJkRHnNX1 = S6k747727l(-294781279, Z1iY, 793590929, FXS_01E84K);
+
 break;
 case 1:
 BRwkE = S6k747727l(BRwkE, -328113219, 1994591619, -742450735);
@@ -171,7 +171,7 @@ else if ((e1sU1 == 1820587073) && (nSWLH8Q))
 {
 if (n4cV0 & 781053008)
 {
-Nx53T5 = (unsigned short)(n4cV0);
+
 }
 else
 {
@@ -205,7 +205,7 @@ std::cout << UQRvQE_wXp(-992543019, FqqkU, 669274209) << M1gU << Nx53T5 << "g7Nu
 }
 else if (FXS_01E84K != 1680123834)
 {
-gl3vCG = Emz_w9Y0_7 + 807524792;
+
 }
 else if (dW3a36_mp & 371807918)
 {
@@ -223,7 +223,7 @@ else if ((vIqj <= -491893191) || (TlhQ3m == 1108932166))
 {
 if (A9g17qc7 > FNVFP)
 {
-S8Zp29_ ^= D5bSZ8D;
+
 }
 }
 else
@@ -240,7 +240,7 @@ enIsoK = UQRvQE_wXp(-610053855, X8t1bh_i, dW3a36_mp);
 }
 else
 {
-QG_k0zuf = S6k747727l(QG_k0zuf, 1570457954, QvR4jb51, -822300754);
+
 }
 
 Z_125 = (j1bHZW != -268629959) ? -2058656564 : 1879822443;
@@ -267,7 +267,7 @@ case 'b':
 yy9_4Y = UQRvQE_wXp(2087395958, 732345446, A9g17qc7);
 break;
 case 'c':
-eWQ8X3OP ^= 88216737;
+
 break;
 case 'd':
 fg9Mu = S6k747727l(-1195508099, qp_8_U, 1899195205, -708992365);
@@ -282,7 +282,7 @@ case 'g':
 hY8E_4 /= 1760570393;
 break;
 case 'h':
-fg9Mu = UQRvQE_wXp(fg9Mu, 1958072291, EDI89UB73);
+
 break;
 case 'i':
 j1bHZW -= Yc_4z11n;
@@ -294,7 +294,7 @@ default:
 C08N -= 424246574;
 break;
 }
-QvR4jb51 = (unsigned short)(okpWH87Xf);
+
 {
 int i = 0;
 while (i < 6)
@@ -304,7 +304,7 @@ ZPk_1N_Y = S6k747727l(ZPk_1N_Y, yy9_4Y, -1790022215, 1931162334);
 }
 }
 
-M27jQ = UQRvQE_wXp(M27jQ, MIyQj5, -2030206634);
+
 f3e9 = j92o9(g_Dg38PQ8g, X8t1bh_i, xeQ1jwehm9, bXRuo7kW, -658314651);
 
 fg9Mu = (unsigned short)(Y6I11_);
@@ -323,7 +323,7 @@ case 'c':
 lNqs51 = vZWm4M(lNqs51, FNVFP, jtBxy6nf, Y6I11_, C07bx);
 break;
 case 'd':
-cg335KfZ *= dEP6_564e0;
+
 break;
 case 'e':
 EDI89UB73 += 855981869;
@@ -397,7 +397,7 @@ int i = 1;
 while (i >= 0)
 {
 --i;
-yy9_4Y = (unsigned short)(j1bHZW);
+
 }
 }
 if (((ZPk_1N_Y <= Y6I11_) && (vIqj <= 1741428933)) && (n6V2_ba_s3 & i174Xw))

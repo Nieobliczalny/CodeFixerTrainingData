@@ -247,7 +247,7 @@ case 0:
 LiHV = (int)floor(nx2yEw);
 break;
 case 1:
-ZeH9rQ = prg72xwb & 834492189;
+
 break;
 case 2:
 ZeH9rQ = (int)abs(ZQ4x85XF) + (-347988372);
@@ -294,7 +294,7 @@ else
 {
 if (VasXJ40Xk0 == -1589654213)
 {
-IV6g *= Ap7L5Rzu;
+
 }
 }
 }
@@ -378,7 +378,7 @@ else
 {
 try
 {
-X6PK = dkSaW << prg72xwb;
+
 }
 catch (int& errorCode)
 {
@@ -410,7 +410,7 @@ catch (int& errorCode)
 Byp4B41M = (int)floor(LiHV);
 }
 
-D416 = LiHV / ZQ4x85XF;
+
 return 0;
 }
 

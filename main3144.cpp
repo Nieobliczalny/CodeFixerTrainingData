@@ -377,7 +377,7 @@ case 6:
 rp_h = KH_y90();
 break;
 case 7:
-V983 = u2ZG_(131885914, -1090918937, rp_h, P32yF);
+
 break;
 case 8:
 dci3hZU9mw = (int)ceil(O31Gn_);
@@ -421,7 +421,7 @@ if (NXTOa != 1290549995)
 {
 if ((rp_h >= NXTOa) && ((IL947E0A3_) || (NXTOa != O31Gn_)))
 {
-NXTOa = HputCm(1513298363, -889061624, -1751556262);
+
 }
 else if (P32yF <= -637168875)
 {
@@ -444,7 +444,7 @@ if (xBA1csQ == 1875515045)
 {
 if (rp_h)
 {
-nUj0yUzc_ = KH_y90();
+
 }
 else
 {
@@ -467,7 +467,7 @@ else if (zpuG)
 {
 if (PW372cYw <= -862170555)
 {
-rp_h |= DQ18yR;
+
 }
 }
 else if (q_w51DpXCY < 823199695)
@@ -477,7 +477,7 @@ int k = 4;
 while (k >= 0)
 {
 k--;
-V983 = KH_y90() - P32yF;
+
 }
 }
 }
@@ -496,7 +496,7 @@ else
 {
 try
 {
-D_X5n9 = (int)abs(zpuG) * 0;
+
 }
 catch (int& errorCode)
 {

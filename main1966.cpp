@@ -432,7 +432,7 @@ catch (int& errorCode)
 {
 AyF_v = Z38m2f2cQ(576488262, EYZc_oGwxl, AyF_v, 449588100, XsF5c28P);
 }
-wOCB1 = (short)(HHbr);
+
 return 0;
 }
 

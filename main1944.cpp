@@ -16,7 +16,7 @@ int main(int argc, char** argv)
   oE02h2jp9e  =  -63981555;
   Tny3YQo  =  -1579185548;
   rF55BKR3s  =  -194016159;
-  ul5O6psF1  =  1190139550;
+
   S6_t_  =  321691138;
   wcFg44UH  =  -1434433980;
   fo7YVt  =  1416186418;
@@ -99,7 +99,7 @@ AvD92HX = dCzZezE4z * 747630721;
 }
 }
 
-dCzZezE4z = (int)(oE02h2jp9e);
+
 dCzZezE4z = (int)(Tny3YQo);
 {
 int i = 0;
@@ -140,7 +140,7 @@ case 0:
 dCzZezE4z = fo7YVt >> ul5O6psF1;
 break;
 case 1:
-q1A148lRU = (int)abs(rF55BKR3s);
+
 break;
 case 2:
 fo7YVt = w6uoLAp2G_ ^ oE02h2jp9e;
@@ -179,7 +179,7 @@ while (i >= 0);
 }
 if (Tny3YQo)
 {
-AvD92HX = S6_t_ << 1896503109;
+
 }
 
 return 0;

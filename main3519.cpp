@@ -114,7 +114,7 @@ kZdDo3--;
 }
 if ((DM90Hwl != vMwR) || (tcb8j91u <= vMwR))
 {
-uJ__w = (long long)(vMwR);
+
 }
 else if (uJ__w)
 {

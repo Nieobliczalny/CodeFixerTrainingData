@@ -409,7 +409,7 @@ for (int j = 0; j < 2; j++)
 {
 if (((bZHWP) && (fj3yvWOnlX == 1472990616)) && (fj3yvWOnlX < -820437340))
 {
-cBY294z22 = (int)abs(C2A8jAhSN_);
+
 }
 else
 {
@@ -421,7 +421,7 @@ else if (C2A8jAhSN_ <= fj3yvWOnlX)
 {
 try
 {
-C2A8jAhSN_ = (int)abs(bZHWP);
+
 }
 catch (int& errorCode)
 {

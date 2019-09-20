@@ -23,7 +23,7 @@ int main(int argc, char** argv) {
 	g79k	=	-445581008;
 	R8Dmbn_Un	=	-1571886762;
 	gUiAb	=	-1126875509;
-	UGTnwc946V	=	1530567863;
+
 	nBxFCE	=	-328697369;
 	oVXg64jbjl	=	-128454949;
 	zVQ39	=	925179835;
@@ -61,7 +61,7 @@ int main(int argc, char** argv) {
  pvdRBjUBT = 0;
  OK130Ja22 = 0;
  l3Z6Slac = 0;
- d_6l_1f1nj = 0;
+
 
 UGTnwc946V = (unsigned short int)(I7u9w2);
 if (gpq2F_f >= -1312407539)
@@ -72,7 +72,7 @@ case 0:
 pAZ559313--;
 break;
 default:
-zVQ39 = R8Dmbn_Un + 259129460;
+
 break;
 }
 }
@@ -334,7 +334,7 @@ case 1:
 d_6l_1f1nj = (int)abs(pvdRBjUBT);
 break;
 default:
-z9RbYE2uV ^= G_PdIAS;
+
 break;
 }
 }
@@ -422,7 +422,7 @@ l3Z6Slac = (int)abs(OK130Ja22);
 break;
 case 'f':
 case 'F':
-t4XG36dOqx /= Q2G8Fb;
+
 break;
 case 'g':
 case 'G':
@@ -441,7 +441,7 @@ if ((nBxFCE <= 963667716) && (Gu6m2dK != 818427791))
 {
 try
 {
-q15kR |= 784428501;
+
 }
 catch (int& errorCode)
 {
@@ -470,7 +470,7 @@ Wyc3 = dWldyW >> 1512234927;
 }
 else
 {
-H347Bkt += 1025877904;
+
 }
 }
 else if (R8Dmbn_Un > 91234223)
@@ -500,7 +500,7 @@ else if (ODtC9 > z4n07ro_IT)
 {
 if (((ApryZYoe <= 1332087560) || (Xo6F & FN_EmaET)) && ((H347Bkt >= 1714210639) || (Xo6F > nBxFCE)))
 {
-OK130Ja22 = (int)abs(d_6l_1f1nj);
+
 }
 else if (q15kR & YA1WAQ)
 {
@@ -512,7 +512,7 @@ k8niPj_ *= 64831378;
 }
 else if (k8niPj_ & 1075280691)
 {
-xo6sWapxn8 = ODtC9 << nBxFCE;
+
 }
 else if (ODtC9 != gUiAb)
 {
@@ -542,7 +542,7 @@ if (nBxFCE >= G_PdIAS)
 {
 try
 {
-t4XG36dOqx = BR82 << 2014510376;
+
 }
 catch (int& errorCode)
 {
@@ -565,7 +565,7 @@ int k = 0;
 do
 {
 k++;
-ODtC9 = (n6k0LjF5 < 631354343) ? m6OFSXkw : 1761531264;
+
 }
 while (k < 5);
 }
@@ -581,7 +581,7 @@ case 'a':
 g79k = FN_EmaET << 1543763622;
 break;
 case 'b':
-r_29EzV8R *= z9RbYE2uV;
+
 break;
 case 'c':
 so08Py0tR <<= 230928667;
@@ -599,7 +599,7 @@ case 'g':
 Xo6F--;
 break;
 case 'h':
-K59p_U %= R8Dmbn_Un;
+
 break;
 case 'i':
 m6OFSXkw %= pAZ559313;
@@ -615,7 +615,7 @@ BR82 &= 1879886820;
 }
 else if (ymn1bNE1 & pvdRBjUBT)
 {
-jHHi = ymn1bNE1 ^ BPCiD2N10K;
+
 }
 else
 {
@@ -628,7 +628,7 @@ else
 int k = 0;
 do
 {
-r_29EzV8R = GbQuNBkJ + pAZ559313;
+
 ++k;
 }
 while (k < 9);

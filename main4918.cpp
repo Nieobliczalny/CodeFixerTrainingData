@@ -19,7 +19,7 @@ int main() {
   short  L6GbaIN_cd;
   L6GbaIN_cd  =  -625492032;
     float    l457z;
-    l457z    =    -1305088745;
+
   float  bqW_4Tq;
   bqW_4Tq  =  2085452229;
 	int	bwkH3;
@@ -42,7 +42,7 @@ if (l457z < L6GbaIN_cd)
 {
 if (bqW_4Tq <= 1146230769)
 {
-l457z = (float)(L6GbaIN_cd);
+
 }
 }
 L6GbaIN_cd--;
@@ -58,7 +58,7 @@ bwkH3 &= 595060430;
 break;
 case 'b':
 case 'B':
-bqW_4Tq = l457z / 1737470834;
+
 break;
 case 'c':
 case 'C':
@@ -121,7 +121,7 @@ while (j >= 0)
 {
 for (int k = 0; k < 5; ++k)
 {
-bqW_4Tq = l457z * IFX2SDnmQ;
+
 }
 --j;
 }

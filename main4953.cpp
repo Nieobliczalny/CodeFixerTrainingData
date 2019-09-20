@@ -14,7 +14,7 @@ int main(int argc, char** argv)
  DxCk42K = 0;
 	unsigned short int	tFLRz,	Kr_20,	W5cyvgSi,	fA74v,	B_07sD2j,	Vgn584,	YwRCY,	t717KewA,	iUPyGM,	ixIhVSJ38T,	f8gu3njZ0c,	ip2z,	QzWkNQ,	KAZ5E,	RSwLX577dc,	Hl_96Rcr,	eMR_Y;
 	tFLRz	=	835660939;
-	Kr_20	=	-9324209;
+
 	W5cyvgSi	=	-2076302438;
 	fA74v	=	915588747;
 	B_07sD2j	=	-1876328429;
@@ -244,7 +244,7 @@ case 'd':
 B_07sD2j--;
 break;
 case 'e':
-Vgn584 = eMR_Y + DxCk42K;
+
 break;
 case 'f':
 YwRCY ^= 518526552;
@@ -381,7 +381,7 @@ ip2z |= 590235879;
 std::cout << "ZF8zIs7m6" << t717KewA << QzWkNQ << ip2z << B_07sD2j << std::endl;
 if (ixIhVSJ38T <= 804199106)
 {
-Kr_20 = KAZ5E & RSwLX577dc;
+
 }
 
 return 0;

@@ -99,7 +99,7 @@ int main() {
   unsigned short int  pzX_X  =  953662734;
     double    M9VKYVZ9    =    1531527240;
 
-lc6r0U6 = ww9V3 / yDoGky8b;
+
 {
 int i = 0;
 do
@@ -109,7 +109,7 @@ if (AWexxj & i76mn6E)
 {
 if (hO8J <= -666946563)
 {
-jfOmp4aJ2 = (int)abs(MrYyioul1M);
+
 }
 else
 {
@@ -123,7 +123,7 @@ while (i < 8);
 switch (yDoGky8b)
 {
 case 0:
-Efv_WD |= 1050394841;
+
 break;
 case 1:
 H7yNFE = j_17Q2QN * z5klkVE;
@@ -135,7 +135,7 @@ case 3:
 DQ07 = hfs3N(DQ07);
 break;
 case 4:
-E8G7HJR7vM = Qr9eg << 1194774053;
+
 break;
 case 5:
 E8G7HJR7vM = (int)ceil(UQmhL7Nj);
@@ -147,7 +147,7 @@ case 7:
 rSAEw_1 = J76XS ^ 1334102491;
 break;
 case 8:
-vQjW1b0k = Pcams(vQjW1b0k, 195526015);
+
 break;
 }
 switch (Nam1_3P)
@@ -159,7 +159,7 @@ case 1:
 WQtY = F6E8(1568665031, 1767406908, 733494388, L7WUGL1cD_, -1945696635);
 break;
 case 2:
-E6hrOH63 = UQmhL7Nj / i76mn6E;
+
 break;
 case 3:
 g_Q_o9 = Nam1_3P | 78323870;
@@ -171,7 +171,7 @@ case 5:
 Qr9eg |= 1376961818;
 break;
 case 6:
-Gkl1Fg3 -= 947555909;
+
 break;
 case 7:
 WQtY = F6E8(-1021721296, apDmRm5TX_, 125404594, yBk_A8H3V, h9m9V);

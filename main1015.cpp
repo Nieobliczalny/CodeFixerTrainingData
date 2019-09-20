@@ -104,7 +104,7 @@ M157Xhab1 |= T8t14;
 break;
 case 'b':
 case 'B':
-MxtV = (int)abs(W12yB0w7) * 0;
+
 break;
 case 'c':
 case 'C':
@@ -129,7 +129,7 @@ case 1:
 b0hi--;
 break;
 case 2:
-FS16b = IlVpE(FS16b, dOx24Z, 1647833143, up9h, 1893007579);
+
 break;
 case 3:
 W12yB0w7 = FS16b ^ G05sD;

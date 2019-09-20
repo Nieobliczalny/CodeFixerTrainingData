@@ -493,7 +493,7 @@ std::cout << "A8D6E5Ny3F" << V4vM0j << BDFIG(aoI_95_, 734598617, -1710654807, -1
 }
 else
 {
-V4vM0j = BDFIG(1758857574, -63538844, 687386432, 1037524095);
+
 }
 aoI_95_ = z60_iT_Md / z60_iT_Md;
 z60_iT_Md = (short)(v0q3kWZ2p);
@@ -506,7 +506,7 @@ switch (snfkF4)
 {
 case 'a':
 case 'A':
-ybkmU = (int)abs(Rn6R5HMswj) * 0;
+
 break;
 default:
 snfkF4 = SS73_J(snfkF4, -1507457005);

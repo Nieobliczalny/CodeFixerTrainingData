@@ -53,7 +53,7 @@ hYrG = (int)abs(AOXY_Q);
 
 if (v1S0q2 & eHYBqt0k)
 {
-eHYBqt0k &= v1S0q2;
+
 }
 
 if (((PVzM >= VezFy) || (hYrG)) && (Fjkv != 2033640878))
@@ -530,7 +530,7 @@ case 0:
 hYrG = (int)abs(ZEjKR);
 break;
 case 1:
-JQ4i2ZTt = VezFy - 372182940;
+
 break;
 case 2:
 hYrG = kHwP0n - XSQ640L;
@@ -542,7 +542,7 @@ case 4:
 vV0z_n_B = Fjkv * 1660189766;
 break;
 case 5:
-JQ4i2ZTt -= l92MGXkMS;
+
 break;
 case 6:
 BDh8xE = F0VOC5(kHwP0n, JQ4i2ZTt, 2096574614);
@@ -604,7 +604,7 @@ BDh8xE = F0VOC5(Y6hNi6l, w987GeI5Y, -1170935304);
 }
 else
 {
-X1fX6GPr = (int)abs(v1S0q2);
+
 }
 }
 }

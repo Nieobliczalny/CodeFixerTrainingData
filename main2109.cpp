@@ -138,7 +138,7 @@ case 5:
 gD6i = d6tkd_(gD6i, -2142515139, U1_tI5, 808028987);
 break;
 case 6:
-um4kb460B = d6tkd_(um4kb460B, gD6i, -435480616, P0MOO8);
+
 break;
 }
 }
@@ -332,7 +332,7 @@ else if (Ari78fd_0_ > Y5ef1eoR)
 {
 if (KMZ5f > 866460948)
 {
-Y5ef1eoR = TsKeONYUM2(601237835, -698344071, 1625575939, 739187275, 325474855);
+
 }
 }
 else if (((H4c9_6MTx6 < P0MOO8) || (P_Vtlg6 == -498568605)) && (Wu8m6aR8 > U1_tI5))
@@ -346,7 +346,7 @@ um4kb460B = (unsigned short int)(GpPL7Q4lgt);
 
 for (int i = 3; i >= 0; i--)
 {
-P_Vtlg6 = um4kb460B | gD6i;
+
 }
 
 return 0;

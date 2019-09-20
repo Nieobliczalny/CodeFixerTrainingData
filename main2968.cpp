@@ -185,7 +185,7 @@ case 'd':
 r7wyixMuK -= c95oS6rp2;
 break;
 case 'e':
-bZ1ZE5IW = MA3O6x / 242612641;
+
 break;
 }
 }
@@ -212,7 +212,7 @@ else
 {
 if (Y51weo & 1188666585)
 {
-YYef_eX9 = uDnkMH3 * 1135499241;
+
 }
 }
 }
@@ -224,7 +224,7 @@ TZM6Fa0 = (double)(jZN2fE66);
 
 cout << "u096j" << endl;
 
-j3Pv = (double)(oQ8IiMs);
+
 
 hhcCXV7m = D7gmnEXqpU() >> 604248332;
 
@@ -248,7 +248,7 @@ cout << tp_KQe90_(1282976244, 895854689, hhcCXV7m, -1555491359, oyWgr) << tp_KQe
 i++;
 }
 }
-yLfoVh3u = (int)floor(S_2_OctHc);
+
 if (JwG0Wv == 1739757556)
 {
 if (((Cc792 <= 314338405) && (Xa_31o > 247732475)) && (B2Mkt4C3uI < 733446186))
@@ -264,7 +264,7 @@ D6Q6FFv5V = D7gmnEXqpU();
 }
 else if (DNgDHr == 1491184472)
 {
-O8lE_h7 = i22_J0EN5h(O8lE_h7, 716333159);
+
 }
 else if (V17i == 999192539)
 {
@@ -274,7 +274,7 @@ MYx9c3 = (int)abs(w70ElFnMxq);
 }
 else if (B2Mkt4C3uI == 1626190279)
 {
-s60gTV = (int)ceil(af9D8Oho);
+
 }
 else if (B4gr > -419919059)
 {
@@ -287,7 +287,7 @@ yI7Jo3 -= 1824773133;
 }
 else if (Y51weo & 365221167)
 {
-q5tAs = i22_J0EN5h(q5tAs, sE_pI);
+
 }
 else if ((Bugbil40w != 474099177) || ((Bugbil40w == 399467539) || (Y51weo & Bugbil40w)))
 {
@@ -300,7 +300,7 @@ else if (MA3O6x != 618289541)
 {
 if (JwG0Wv >= -614675610)
 {
-MYx9c3 = c95oS6rp2 + 1235091001;
+
 }
 else
 {
@@ -311,7 +311,7 @@ else
 {
 if ((BjvA1m4 != Bugbil40w) || (GxWt_VQ7hR >= -884555435))
 {
-sE_pI /= 1934480421;
+
 }
 else if ((N33R3 <= 1411673208) && (hhcCXV7m != I4Fa86o))
 {
@@ -323,7 +323,7 @@ MA3O6x = D7gmnEXqpU();
 }
 else if (Bugbil40w >= 951861260)
 {
-MA3O6x = (int)floor(s60gTV);
+
 }
 else
 {
@@ -333,7 +333,7 @@ yC6nnokKa = D7gmnEXqpU();
 }
 else if (oQ8IiMs)
 {
-Q40h26 = Gf70(-272416213);
+
 }
 else if (Bugbil40w == -867650317)
 {
@@ -344,7 +344,7 @@ else if (sE_pI >= SR9_cb)
 switch (Y51weo)
 {
 case 'a':
-kk5yarwqD = GxWt_VQ7hR + 1250313402;
+
 break;
 case 'b':
 Xa_31o = (xC8M == 996522904) ? qp0OXRgC56 : TZM6Fa0;
@@ -356,7 +356,7 @@ case 'd':
 I2V6cZ5 = tp_KQe90_(I2V6cZ5, 499483114, sE_pI, S4l_e7J_s, 1878025297);
 break;
 case 'e':
-DpLD8j = tk6x(-1951413093, yC6nnokKa, -717251997);
+
 break;
 case 'f':
 MaW_Sg = tp_KQe90_(-1198778084, z6Q_zp6, 1936517368, -280187960, -922925276);
@@ -376,7 +376,7 @@ else if (V7L__WP >= XcWMO)
 {
 for (int j = 7; j >= 0; j--)
 {
-MA3O6x = (Q9B1MT2 > -127039748) ? JwG0Wv : Tjss0n6;
+
 }
 }
 else
@@ -395,7 +395,7 @@ do
 j--;
 for (int k = 0; k < 1; k++)
 {
-r1pi7MN = (int)abs(w70ElFnMxq);
+
 }
 }
 while (j >= 0);

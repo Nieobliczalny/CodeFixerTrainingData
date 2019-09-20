@@ -24,7 +24,7 @@ int main() {
     short    ln3X5b;
     ln3X5b    =    -1149307303;
  unsigned short DU2fWU;
- DU2fWU = 1753037437;
+
  short int cbp8lH;
  cbp8lH = 0;
   long long  I0uU_oj;
@@ -34,7 +34,7 @@ int main() {
   unsigned char  WUc7M;
   WUc7M  =  667654874;
     short    a947;
-    a947    =    1959156339;
+
 	short	KsHX65Wd;
 	KsHX65Wd	=	-964561159;
   unsigned long long  A6iB;
@@ -66,7 +66,7 @@ case 'a':
 hC1TQ_B = hC1TQ_B + DElGUt7d;
 break;
 case 'b':
-DU2fWU = E9316 * avky31Lsk;
+
 break;
 case 'c':
 qQq2A_12 %= ln3X5b;
@@ -142,7 +142,7 @@ qQq2A_12 &= 476416552;
 KsHX65Wd = (int)abs(E9316) + (1042519841);
 a947 = aJPr / 1585157522;
 
-aJPr -= UF0TJt94;
+
 RT2v5Cm = (int)abs(ln3X5b);
 aJPr = (int)floor(DElGUt7d);
 if (avky31Lsk < iC0UD)
@@ -161,7 +161,7 @@ KsHX65Wd++;
 }
 else
 {
-DElGUt7d = (int)ceil(aJPr);
+
 }
 
 DElGUt7d = (int)ceil(aJPr);
@@ -174,7 +174,7 @@ UF0TJt94 = (short)(m04G);
 }
 while (i < 4);
 }
-DU2fWU = I0uU_oj / I0uU_oj;
+
 A6iB = (unsigned long long)(iC0UD + (-1191962911));
 
 if (KsHX65Wd == WUc7M)
@@ -188,7 +188,7 @@ int k = 7;
 while (k >= 0)
 {
 k--;
-DU2fWU = VAKL & a947;
+
 }
 }
 ++j;
@@ -260,7 +260,7 @@ cout << "OwaThB1KgS" << "M_CaD2h7" << A6iB << endl;
 
 if (A6iB > avky31Lsk)
 {
-aJPr = (int)ceil(DElGUt7d);
+
 }
 else
 {
@@ -271,7 +271,7 @@ VAKL = UF0TJt94 >> qQq2A_12;
 
 cout << ln3X5b << "lV1Fqc_Qf" << endl;
 
-a947 = (int)abs(cbp8lH) + (1275972038);
+
 
 {
 int i = 10;
@@ -286,7 +286,7 @@ do
 int k = 2;
 do
 {
-RT2v5Cm = Gxb96L >> 465716307;
+
 k--;
 }
 while (k >= 0);
@@ -313,7 +313,7 @@ A6iB %= 76165440;
 int i = 0;
 while (i < 3)
 {
-a947 = I0uU_oj - WUc7M;
+
 ++i;
 }
 }
@@ -334,7 +334,7 @@ i++;
 while (i < 7);
 }
 
-aJPr = (int)floor(DElGUt7d);
+
 
 return 0;
 }

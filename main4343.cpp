@@ -224,7 +224,7 @@ x60Pk6i = KQ46(954559290, -1662837739, CkKxH6E, 2046358764, -994296498);
 }
 else if (((IlS8ww59E != -825295351) && (CkKxH6E == 721717324)) || (IlS8ww59E <= -1548914466))
 {
-IlS8ww59E = (short int)(CkKxH6E * IlS8ww59E);
+
 }
 else if (CkKxH6E < 1634057890)
 {

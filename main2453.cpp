@@ -18,7 +18,7 @@ int main() {
 
 if (ogHX8r0Tc != E4cmo_m931)
 {
-YFuVIL -= 306517640;
+
 }
 else if (VTT5g7d4 & G_Wii0)
 {
@@ -28,7 +28,7 @@ case 0:
 K3k95++;
 break;
 case 1:
-N6vB_y8yR1 -= ie1zGU;
+
 break;
 case 2:
 N6vB_y8yR1 = EL_UaAq08X + 1617834097;
@@ -46,7 +46,7 @@ else if (D32K2H)
 switch (U2tUfo35AJ)
 {
 case 0:
-p8dof_2O >>= Dd0XN8;
+
 break;
 case 1:
 py540q20PM = kv291A * 1933309716;
@@ -61,7 +61,7 @@ break;
 }
 else if (Pe5GBB < sAl_x13)
 {
-CGx6 = (int)(k_iw + (1393658692));
+
 }
 else if (D32K2H <= sAl_x13)
 {
@@ -99,7 +99,7 @@ else if (kv291A <= S_6p)
 {
 if ((hiEsrDhTv6 <= -2047964878) && ((Ik395vui2G) && (V6waUlX1O & -147709468)))
 {
-Dd0XN8 &= h0pir6dC;
+
 }
 }
 else if (OmseFj5GuQ & -1048511313)
@@ -110,7 +110,7 @@ case 'a':
 iy9_VND_5 = YC_waiRm3J + 462295653;
 break;
 case 'b':
-ztadOB0k = a4x2 >> 2056634335;
+
 break;
 case 'c':
 kv291A /= n6zF7_d0;
@@ -136,7 +136,7 @@ K3k95--;
 std::cout << hCg4MRq6T << "xqD_5" << JWg3S9 << std::endl;
 for (int i = 0; i < 47; i++)
 {
-u389 = X_91TKhT / 737612553;
+
 	f14NB = -1026879244 / i;
 D32K2H = Qsg_syd / k_iw;
 }

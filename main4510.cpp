@@ -339,7 +339,7 @@ int k = 4;
 do
 {
 k--;
-J1viY = (int)ceil(VjEWG);
+
 }
 while (k >= 0);
 }
@@ -356,7 +356,7 @@ SfGsB3BYd = nFpg5S | 263702048;
 }
 else if ((QaD2blc2 < -1521548986) || (VjEWG))
 {
-Eit0_8X = BsL3(-1727825801, 1767491069, -115106954, 1571593101, -1057053711);
+
 }
 else if (QaD2blc2 != Eit0_8X)
 {

@@ -67,7 +67,7 @@ int main()
  gO62JG = -1988444627;
  kTr2 = -1169666809;
  OOVddL6Mqg = -2115661423;
- ioJn9 = -1270074167;
+
  Nm4J = -705135638;
  tanvcP7 = 1380188933;
  rNg2jn7W = 1181155057;
@@ -214,7 +214,7 @@ switch (iI222aPg)
 {
 case 'a':
 case 'A':
-xK5SylQo4 = G996dgM - 748084536;
+
 break;
 case 'b':
 case 'B':
@@ -278,7 +278,7 @@ case 1:
 b4zLUOpa0 = b6n94 * 245176398;
 break;
 case 2:
-BLziK = f27u3wg - kTr2;
+
 break;
 case 3:
 a880q4Bam = (z821_bM >= wqJV4NC29E) ? IpfdA2Ms : -451205064;
@@ -299,7 +299,7 @@ case 8:
 uK0UT = db7O / b53oSo_R;
 break;
 case 9:
-uC2pLF38O0 = db7O - TJh_Hb;
+
 break;
 }
 }
@@ -315,7 +315,7 @@ D687y -= b4zLUOpa0;
 }
 }
 K_2iNX = (long double)(PP_4);
-rNg2jn7W = iDyfkl66I * 1319372662;
+
 
 cout << "k56kQ99" << cR8M << OOVddL6Mqg << y_bGy7rkc8 << endl;
 
@@ -343,7 +343,7 @@ while (j >= 0);
 }
 while (i >= 0);
 }
-vH1Ssy0 = -253316868 / iI222aPg;
+
 
 if (((iI222aPg & 1041236028) || (a880q4Bam >= -883436547)) && ((iI222aPg) && (h2h_FaacX2 < PP_4)))
 {
@@ -409,7 +409,7 @@ for (int i = 2; i >= 0; i--)
 cout << "K3_5W6L" << "lvNK2_g3X" << "XgXey3Fr" << IY6nYd << endl;
 }
 
-f27u3wg = (long double)(W3NiJOBSz3);
+
 cout << "l1xyo_lE" << YUi4IhZ << endl;
 if (iI222aPg & ifYfw)
 {
@@ -431,7 +431,7 @@ uC2pLF38O0 = O0dABqtq7i / K7KrF51F0h;
 switch (iI222aPg)
 {
 case 'a':
-rNg2jn7W = K7KrF51F0h * IpfdA2Ms;
+
 break;
 case 'b':
 In6_3PMFd3 = (int)ceil(b53oSo_R);
@@ -461,7 +461,7 @@ o8wnH0mBlx /= Da08sKp;
 }
 else if (Ffe78K > -1267484545)
 {
-Nm4J = uC2pLF38O0 - b6n94;
+
 }
 else if (sUFu6R <= -648148364)
 {
@@ -477,7 +477,7 @@ u201_ = (int)ceil(b6n94);
 }
 else if (N3E9QFzx)
 {
-O0dABqtq7i = (int)abs(YUi4IhZ);
+
 }
 else if (In6_3PMFd3 >= K_2iNX)
 {
@@ -489,7 +489,7 @@ for (int j = 8; j >= 0; j--)
 {
 if (Nm4J >= wqJV4NC29E)
 {
-N3E9QFzx = (int)floor(OOVddL6Mqg);
+
 }
 else if ((G996dgM) && (Nm4J <= -241317688))
 {
@@ -505,7 +505,7 @@ h2h_FaacX2 *= 1465855588;
 }
 else if (tanvcP7)
 {
-m60dd_n1T = mwoT1HPo1 * iDyfkl66I;
+
 }
 else if (b74blAd3Q > PP_4)
 {
@@ -532,7 +532,7 @@ j--;
 switch (iI222aPg)
 {
 case 0:
-uK0UT = (iI222aPg & 81323478) ? Df2_Mv02_6 : 1819232581;
+
 break;
 case 1:
 kTr2 *= 2075719928;
@@ -549,7 +549,7 @@ while (j >= 0);
 }
 }
 
-X_AYP = wqJV4NC29E | 1415373814;
+
 return 0;
 }
 

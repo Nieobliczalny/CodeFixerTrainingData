@@ -16,7 +16,7 @@ using namespace std;
 int main()
 {
 	unsigned short	Xfc_ZR;
-	Xfc_ZR	=	-1820582491;
+
  short QgDA9cv;
  QgDA9cv = 1758682514;
  long double mtSntS;
@@ -34,7 +34,7 @@ int main()
     unsigned long long    Bu3EKuQ84R;
     Bu3EKuQ84R    =    1094662707;
     unsigned short int    zwaw2D;
-    zwaw2D    =    -283309458;
+
     unsigned short    wU_3bLX_;
     wU_3bLX_    =    -1062797537;
 	unsigned long	A94_wn;
@@ -46,7 +46,7 @@ int main()
 	unsigned long	muo9O9V;
 	muo9O9V	=	-736080170;
     unsigned int    e9n82r0l8r;
-    e9n82r0l8r    =    0;
+
   char  OI3DI59c;
   OI3DI59c  =  668483340;
   long  L27V_0vZ;
@@ -60,7 +60,7 @@ int main()
  unsigned long long PMl58;
  PMl58 = 239587045;
 	unsigned int	M_bxnQ;
-	M_bxnQ	=	-549403673;
+
  float zOt2ai2;
  zOt2ai2 = 1901492439;
   short  D216_tL4d;
@@ -92,7 +92,7 @@ zOt2ai2 = (int)floor(NrxXJO6);
 }
 else
 {
-OI3DI59c = (int)abs(tJzCPGW1O1);
+
 }
 }
 }
@@ -102,7 +102,7 @@ xwRqH = P68C2b8_ / cmQild;
 switch (A94_wn)
 {
 case 0:
-mtSntS = (int)floor(q76gacY);
+
 break;
 case 1:
 PMl58 *= muo9O9V;
@@ -116,7 +116,7 @@ switch (L27V_0vZ)
 {
 case 'a':
 case 'A':
-rT7D = wU_3bLX_ & 570791612;
+
 break;
 case 'b':
 case 'B':
@@ -128,7 +128,7 @@ R4e_Z &= 309226755;
 break;
 case 'd':
 case 'D':
-zOt2ai2 = (int)floor(NrxXJO6);
+
 break;
 case 'e':
 case 'E':
@@ -140,7 +140,7 @@ A94_wn = Pnf8_o << P68C2b8_;
 break;
 case 'g':
 case 'G':
-muo9O9V = cmQild >> xwRqH;
+
 break;
 case 'h':
 case 'H':
@@ -152,7 +152,7 @@ mtSntS = (int)ceil(tJzCPGW1O1);
 break;
 case 'j':
 case 'J':
-NrxXJO6 = (int)floor(zOt2ai2);
+
 break;
 }
 return 0;

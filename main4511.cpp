@@ -23,7 +23,7 @@ int main()
  unsigned short sJ6po3n6;
  sJ6po3n6 = -1200606107;
 	unsigned short int	s_7oq;
-	s_7oq	=	-1892863845;
+
   unsigned long long  VUTLkU;
   VUTLkU  =  111520321;
  unsigned short int p5_5fu7XRH;
@@ -402,7 +402,7 @@ case 'a':
 x1PHE1 |= VUTLkU;
 break;
 case 'b':
-RGvSJi = (int)abs(ryZ5x_6__) * 0;
+
 break;
 case 'c':
 p5_5fu7XRH = YHF2(-826414529, 1303644147);
@@ -635,7 +635,7 @@ else
 switch (x1PHE1)
 {
 case 0:
-RGvSJi = YHF2(256983734, sJ6po3n6);
+
 break;
 case 1:
 Ju36iNDmps |= VUTLkU;
@@ -647,7 +647,7 @@ case 3:
 GRbr5pL7S = bLpV(Uyo__, 1875042220);
 break;
 case 4:
-J267DP = Yn5jY_41WU(J267DP, sJ6po3n6, kWwdE6c, 1316835827, -203914679);
+
 break;
 case 5:
 kWwdE6c ^= 942188019;

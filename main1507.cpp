@@ -743,7 +743,7 @@ LHSO = (int)abs(xePo20h7);
 switch (xePo20h7)
 {
 case 0:
-xePo20h7 *= Yg_67Y;
+
 break;
 case 1:
 hYLAc = ug0AjG25RA * 2026355067;

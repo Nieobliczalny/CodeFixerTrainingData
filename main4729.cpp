@@ -60,7 +60,7 @@ int main(int argc, char** argv) {
     unsigned short    VkR2k37PBE;
     VkR2k37PBE    =    1278385140;
  unsigned short bpaSX3;
- bpaSX3 = -521146904;
+
  long double qmT5t_nid;
  qmT5t_nid = -2001098611;
  double lzbT_5d;
@@ -104,7 +104,7 @@ int main(int argc, char** argv) {
     short    Or0T;
     Or0T    =    1314963902;
   short int  kwpP95;
-  kwpP95  =  -1783460561;
+
   short int  K2F30_g;
   K2F30_g  =  1912362196;
 	long long	H4P_3nTKy1;
@@ -124,7 +124,7 @@ int main(int argc, char** argv) {
  unsigned short int v7U77_;
  v7U77_ = -277710618;
 	short int	KIwI;
-	KIwI	=	-1882182904;
+
   long  vP_YP0LR0;
   vP_YP0LR0  =  894163431;
   short int  ogYAp4T7;
@@ -235,7 +235,7 @@ case 'd':
 T43k_m9 = (int)abs(uET0I52913);
 break;
 default:
-WWEiX = rfXz(WWEiX, f0why1, 1218685908, -497846721);
+
 break;
 }
 }
@@ -312,7 +312,7 @@ else
 PpJgPxDmr = Zp8w6ib_2(-1557746276, eyk5d8TS, f0why1, WWEiX);
 }
 
-xz6d = (T43k_m9 < -1580161775) ? Zp8w6ib_2(PpJgPxDmr, -1594816397, 1426884603, WWEiX) : Zp8w6ib_2(PpJgPxDmr, eyk5d8TS, f0why1, WWEiX);
+
 
 if ((ZnSM / S1WS_l(PpJgPxDmr)) > 26224913)
 {
@@ -349,7 +349,7 @@ else
 h1o7jD -= 1173829735;
 }
 
-f48Nt = (int)abs(h1o7jD);
+
 
 try
 {
@@ -396,7 +396,7 @@ f0why1 = S1WS_l(v7U77_);
 }
 else if ((H4P_3nTKy1 != -230912038) && (pu8I7kqa0N <= 750069420))
 {
-eR36 = DE1dQ7f187 + LQX_0F29;
+
 }
 else
 {
@@ -420,7 +420,7 @@ while (i < 6);
 }
 
 OeVcjHFaeM = Zp8w6ib_2(OeVcjHFaeM, -72712845, T43k_m9, 530049798);
-yLPF00 = (unsigned short)(On_6GXe + (-2053823999));
+
 if ((vP_YP0LR0 & 1153237760) && ((F6_5 < 1720523751) || (T43k_m9 > -770247922)))
 {
 for (int j = 0; j < 2; j++)
@@ -454,7 +454,7 @@ dEs36e9 = (int)floor(C3fQ221tC);
 }
 else
 {
-cm04m5 = hDw_A1l6q(-2046931024);
+
 }
 
 for (int i = 0; i < 7; ++i)
@@ -465,7 +465,7 @@ case 0:
 LQX_0F29 <<= JY_pbAW;
 break;
 case 1:
-OeVcjHFaeM = hDw_A1l6q(-2001473477);
+
 break;
 case 2:
 qmT5t_nid = (int)floor(WWEiX);
@@ -480,7 +480,7 @@ case 5:
 C3fQ221tC = (int)ceil(lzbT_5d);
 break;
 case 6:
-fTqRD = w_5Dv8 * f0why1;
+
 break;
 default:
 yT2f = S1WS_l(1376498873);
@@ -493,7 +493,7 @@ int i = 3;
 while (i >= 0)
 {
 --i;
-v7U77_ = (unsigned short int)(kwpP95);
+
 }
 }
 

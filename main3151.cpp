@@ -19,7 +19,7 @@ int main()
   double  G105,  i391ba,  WQ4Z,  l0Xy,  sjKpE,  QQI5H,  ZPgQ1M8r1K,  t1VDfgcN5,  YWR49o,  e6n5B19_,  x43J,  l0rj92_9,  F66iGHc,  w_rzc,  nf9L846G,  ZwovLJ,  LpNBMK6,  o92qj4i,  b1L7m93ke8,  sME4c,  EbK818U6,  e00ZxOq,  v_72,  zxe8i2h,  We5vm,  Wbdh950TVK,  trTk30G,  jmd5h,  wp_r,  aCK2Wb_0W,  xFU3,  RZeM,  X41Dm2h7b0,  d7b_,  Oo9sx,  D2CmAICoT,  hQ51AR,  WX4vI,  mI5J15,  j3ye,  u1czxB7G1F,  Sw_aN7o,  V99lAkq,  lC_05lDc,  qrlLW4ae30,  ADm9mM6,  Kzkwo,  Z9AGkDvOXE,  L_hr9JbePT,  k6Jn,  m56_bb3U,  jU03Ia,  YT71XYB,  S00_74,  sO1e8wu6qI,  U9G8NL,  X6LSu,  yNeNOxl,  pZ97Tu7,  EGP_PRgR,  oPXUjr,  r1bwrU_,  GSC1,  TPX6n3y7jU,  Qbk5L2x,  qGAPD7t3hA,  YdQ9d77q,  uoLZ_7_e;
   G105  =  1585231970;
   i391ba  =  1037485030;
-  WQ4Z  =  1525350379;
+
   l0Xy  =  -2110070009;
   sjKpE  =  1797297756;
   QQI5H  =  347805400;
@@ -36,7 +36,7 @@ int main()
   LpNBMK6  =  -1205032321;
   o92qj4i  =  -89973322;
   b1L7m93ke8  =  2083618599;
-  sME4c  =  -1878773171;
+
   EbK818U6  =  -24127032;
   e00ZxOq  =  -1174851254;
   v_72  =  200437457;
@@ -52,7 +52,7 @@ int main()
   X41Dm2h7b0  =  -1945614056;
   d7b_  =  -350294138;
   Oo9sx  =  1579227968;
-  D2CmAICoT  =  317181793;
+
   hQ51AR  =  219448523;
   WX4vI  =  1036613699;
   mI5J15  =  844586142;
@@ -62,7 +62,7 @@ int main()
   V99lAkq  =  2076005912;
   lC_05lDc  =  -1580542288;
   qrlLW4ae30  =  895984229;
-  ADm9mM6  =  -1885917564;
+
   Kzkwo  =  270903771;
   Z9AGkDvOXE  =  -628976620;
   L_hr9JbePT  =  -2109849606;
@@ -72,7 +72,7 @@ int main()
   YT71XYB  =  1462048238;
   S00_74  =  1035330155;
   sO1e8wu6qI  =  -1688022847;
-  U9G8NL  =  868419204;
+
   X6LSu  =  -1113792753;
   yNeNOxl  =  -365939545;
   pZ97Tu7  =  -1080717141;
@@ -82,7 +82,7 @@ int main()
   GSC1  =  2045431588;
   TPX6n3y7jU  =  -1631287534;
   Qbk5L2x  =  -214310451;
-  qGAPD7t3hA  =  1040843299;
+
   YdQ9d77q  =  -1743972005;
   uoLZ_7_e  =  -1638560127;
  char LSOh1, jxBt93R1o, hzNG45u6Z;
@@ -116,7 +116,7 @@ wp_r = (int)floor(oPXUjr);
 }
 cout << "w1Vh3l8wb7" << "vJ2R" << endl;
 
-e00ZxOq = (int)floor(xFU3);
+
 switch (hzNG45u6Z)
 {
 case 'a':
@@ -126,7 +126,7 @@ case 'b':
 l0Xy /= 1864422599;
 break;
 case 'c':
-l0rj92_9 = (int)floor(sjKpE);
+
 break;
 case 'd':
 We5vm = (int)abs(Sw_aN7o);
@@ -147,7 +147,7 @@ case 'i':
 l0Xy = (int)abs(k6Jn);
 break;
 case 'j':
-e00ZxOq = YWR49o - 613371336;
+
 break;
 }
 if (Oo9sx < i391ba)
@@ -187,7 +187,7 @@ EbK818U6 = (int)abs(YWR49o);
 }
 else
 {
-EGP_PRgR = (int)ceil(F66iGHc);
+
 }
 }
 else if (ZwovLJ != uoLZ_7_e)
@@ -200,7 +200,7 @@ yNeNOxl = Sw_aN7o * 2016765883;
 }
 }
 
-sME4c = (int)floor(i391ba);
+
 for (int i = 0; i < 4; i++)
 {
 {
@@ -312,7 +312,7 @@ if ((wp_r == -911550309) && ((jxBt93R1o > 1246913578) && (wp_r)))
 {
 if (xFU3 == 2062885576)
 {
-l0rj92_9 = (X41Dm2h7b0) ? F66iGHc : d7b_;
+
 }
 }
 else
@@ -361,7 +361,7 @@ try
 {
 try
 {
-YdQ9d77q = (int)floor(aCK2Wb_0W);
+
 }
 catch (int& errorCode)
 {
@@ -392,7 +392,7 @@ LSOh1 = OGDxmh0tH(RZeM, 1326176544, l0Xy, 112013727, 829681391);
 }
 else if (wp_r < -795727678)
 {
-EbK818U6 = (int)abs(e6n5B19_);
+
 }
 else
 {
@@ -405,7 +405,7 @@ switch (jxBt93R1o)
 {
 case 'a':
 case 'A':
-l0rj92_9 = k27kr2QU(-1044166335, -1742148593, L_hr9JbePT, o92qj4i, xFU3);
+
 break;
 case 'b':
 case 'B':
@@ -417,7 +417,7 @@ aCK2Wb_0W = k27kr2QU(TPX6n3y7jU, k6Jn, -738950375, lC_05lDc, m56_bb3U) % 1158391
 break;
 case 'd':
 case 'D':
-ZPgQ1M8r1K = (int)abs(pZ97Tu7);
+
 break;
 default:
 L_hr9JbePT = L_hr9JbePT - 512907196;
@@ -432,7 +432,7 @@ We5vm -= 662519472;
 }
 else if (EbK818U6 != v_72)
 {
-ADm9mM6 = k27kr2QU(ADm9mM6, jU03Ia, 1381515774, jmd5h, -1924702483);
+
 }
 else if (hzNG45u6Z & LSOh1)
 {
@@ -444,7 +444,7 @@ e6n5B19_ = (int)ceil(X41Dm2h7b0);
 }
 else if (yNeNOxl)
 {
-Z9AGkDvOXE = (int)ceil(QQI5H);
+
 }
 else
 {
@@ -455,7 +455,7 @@ else if (Qbk5L2x <= -1922280404)
 {
 for (int k = 2; k >= 0; --k)
 {
-sO1e8wu6qI = (int)floor(mI5J15);
+
 }
 }
 else if (RZeM == 771294796)
@@ -470,7 +470,7 @@ cout << k27kr2QU(2002686358, j3ye, We5vm, lC_05lDc, LpNBMK6) << ZwovLJ << OGDxmh
 
 try
 {
-YWR49o = kjirA_0(-653109868, j3ye, 1652149399, -1298575116) << 1739814073;
+
 }
 catch (int& errorCode)
 {

@@ -19,7 +19,7 @@ int main(void) {
     nYjXn    =    1294277591;
     VwFeAxfleN    =    1668142323;
     B1Js    =    476910071;
-    B1xL9Ne    =    -4127823;
+
     Y55S    =    1572412539;
     q885d    =    -159556982;
     I11n4r94V    =    555695490;
@@ -493,7 +493,7 @@ while (i < 8);
 }
 if (lZsr4P7 >= 1202984109)
 {
-MAo1l9 = (unsigned char)(l6eDEE923);
+
 }
 else
 {
@@ -700,7 +700,7 @@ case 1:
 G8K71Q1L4 -= xseJMs9;
 break;
 case 2:
-B1xL9Ne ^= 2011697638;
+
 break;
 case 3:
 mF78 = a5PhMw926N();
@@ -712,7 +712,7 @@ case 5:
 UCXC8 = WqB_Y8fUC << 1298354715;
 break;
 case 6:
-B1xL9Ne -= 1690902754;
+
 break;
 default:
 mF78 = a5PhMw926N();
@@ -729,7 +729,7 @@ if (B1Js)
 {
 for (int k = 0; k < 10; k++)
 {
-hEb7D4S = l6eDEE923 >> Y55S;
+
 }
 }
 }
@@ -745,7 +745,7 @@ else
 switch (X7_HY0)
 {
 case 'a':
-Y55S ^= 209572756;
+
 break;
 case 'b':
 mF78 = a5PhMw926N();
@@ -760,7 +760,7 @@ case 'e':
 mF78 = a5PhMw926N();
 break;
 case 'f':
-UCXC8 %= lZsr4P7;
+
 break;
 case 'g':
 G8K71Q1L4 %= MAo1l9;

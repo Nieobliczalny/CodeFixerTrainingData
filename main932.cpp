@@ -301,7 +301,7 @@ L28D--;
 switch (Shs200jFO7)
 {
 case 'a':
-Shs200jFO7 = k7hKu3n(Shs200jFO7);
+
 break;
 case 'b':
 F0_zZNaIH = k7hKu3n(F0_zZNaIH);
@@ -313,7 +313,7 @@ case 'd':
 L28D = Gu461 >> lzu0l26Ba;
 break;
 case 'e':
-cq2iWL3Nt = k7hKu3n(cq2iWL3Nt);
+
 break;
 case 'f':
 JlF3lw3 = k7hKu3n(472618641);

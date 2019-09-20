@@ -51,7 +51,7 @@ int main() {
   unsigned long  qaVK;
   qaVK  =  -491176049;
     int    I0cLo;
-    I0cLo    =    0;
+
 	unsigned long long	aQ4I;
 	aQ4I	=	-1413678292;
   short int  DV8Z6a20;
@@ -259,7 +259,7 @@ else if (ls1bPq6v < -406485851)
 int j = 9;
 do
 {
-Np971h72F8 = (int)ceil(a0bVkd_A);
+
 j--;
 }
 while (j >= 0);
@@ -313,7 +313,7 @@ Ru_RK = S04dFZZKwf(718923608, gH0UnwXr, GUa8m6v0_, I0cLo);
 break;
 case 'c':
 case 'C':
-Np971h72F8 = (int)ceil(hk_4Iiu9);
+
 break;
 case 'd':
 case 'D':
@@ -428,7 +428,7 @@ Qn5WVqsB = S04dFZZKwf(-72494353, j104Okd0, gH0UnwXr, -381976846);
 }
 else
 {
-I0cLo = (int)(qovgy_ * I0cLo);
+
 }
 }
 
@@ -512,7 +512,7 @@ db16rJGt -= 325062092;
 break;
 case 'b':
 case 'B':
-Vg4Z4hD4 >>= S8j1Z2O_46;
+
 break;
 case 'c':
 case 'C':
@@ -524,7 +524,7 @@ hk_4Iiu9 = (int)ceil(U2SD);
 break;
 case 'e':
 case 'E':
-j104Okd0 = (int)abs(S8j1Z2O_46);
+
 break;
 case 'f':
 case 'F':
@@ -539,7 +539,7 @@ case 'H':
 Ty3nixp0M |= 747073461;
 break;
 default:
-Ru_RK = S04dFZZKwf(-134597942, -1201606114, -874496052, 101512985) ^ Im6z7xtG;
+
 break;
 }
 }
@@ -565,7 +565,7 @@ Qn5WVqsB = (int)ceil(h0Yx8);
 }
 else
 {
-S908 = S04dFZZKwf(S908, e0Ua2qlzV2, -778943949, WVI08uX6Z2);
+
 }
 }
 else if ((bYT5C428x != 1866588899) || ((Q6rH < elVaFq) && (WVI08uX6Z2 < 1511742537)))
@@ -632,7 +632,7 @@ else if (((e0Ua2qlzV2 >= wzjDIMVKPn) || (Im6z7xtG != Qn5WVqsB)) || (gV7_9wHD & -
 {
 if (Bpfvq_8 & Ty3nixp0M)
 {
-qaVK = TQXV2KtDn() ^ 1334191782;
+
 }
 }
 else
@@ -650,7 +650,7 @@ while (j < 6)
 int k = 6;
 do
 {
-Ru_RK = (int)ceil(h0Yx8);
+
 k--;
 }
 while (k >= 0);
@@ -684,7 +684,7 @@ int k = 0;
 while (k < 2)
 {
 k++;
-U2SD = (int)ceil(hk_4Iiu9);
+
 }
 }
 ++j;
@@ -726,7 +726,7 @@ fihF9 <<= 1378780513;
 }
 else
 {
-Np971h72F8 = (int)floor(Qn5WVqsB);
+
 }
 }
 else
@@ -746,7 +746,7 @@ int j = 3;
 while (j >= 0)
 {
 --j;
-L3b__x_9q = (int)abs(lH9GM3Lv);
+
 }
 }
 }
@@ -780,7 +780,7 @@ Qn5WVqsB = (int)abs(DV8Z6a20);
 }
 else if (e0Ua2qlzV2 != wzjDIMVKPn)
 {
-S908 = (unsigned long)(a0bVkd_A);
+
 }
 else if (qovgy_)
 {
@@ -797,7 +797,7 @@ else if (ls1bPq6v < 745298594)
 {
 for (int k = 8; k >= 0; --k)
 {
-U2SD = (int)ceil(hk_4Iiu9);
+
 }
 }
 else if (Bpfvq_8 < -2044609988)

@@ -61,7 +61,7 @@ cout << k92iQu << "qoicR" << endl;
 }
 else
 {
-cqMtq78x /= 1254300648;
+
 }
 
 R_8L = (Dy7jO35) ? -2029657417 : pU0_c;
@@ -86,7 +86,7 @@ int k = 1;
 do
 {
 k--;
-W1q5xIe3L = (int)floor(kD6RUP);
+
 }
 while (k >= 0);
 }
@@ -101,7 +101,7 @@ else if ((m88IZaa5P < Y651_O4) && (xc47h5 != 1578855614))
 switch (Dy7jO35)
 {
 case 0:
-ds5Oi_C = aKRe03 | 2073788792;
+
 break;
 }
 }
@@ -117,7 +117,7 @@ if (e1j_E > 494234882)
 int k = 5;
 while (k >= 0)
 {
-cqMtq78x = (int)ceil(kD6RUP);
+
 k--;
 }
 }

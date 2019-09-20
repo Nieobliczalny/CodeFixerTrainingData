@@ -16,7 +16,7 @@ unsigned short    lLZf4wa_u(long    t1fcvI)
 int main()
 {
   double  o4dBdgM9s,  ha_Kscda1,  vQuy3yV,  qOZ_2xSs9,  CbiMyv,  t05t17,  quJio,  B6Fak8,  jGS15vh,  jJj_9,  zB6SdIhr,  EGvi__91rr,  ddz_F8MU,  dWSi,  nmd6X_4v,  TmHLGD,  CA46,  Uac_68,  Mr_8XoaYM,  g515H,  uJf6SxqTX,  cT1lZz1f,  z5oub1n_,  r16l7DOB,  URxp9,  mx24_RJFYj,  VaFd8iZ,  nMjR9o,  zjL0_63qyH,  m6d0XR,  as0O,  MHou2,  F84cf0qweR,  kz_KO52inU,  nmCl0ks83p,  w0lRoVIKl,  SfQ2h,  uH0M47Y1,  hlqJ5W,  jxUS6J,  FNr7;
-  o4dBdgM9s  =  1140808234;
+
   ha_Kscda1  =  198497446;
   vQuy3yV  =  370518104;
   qOZ_2xSs9  =  -977583094;
@@ -38,7 +38,7 @@ int main()
   g515H  =  302986762;
   uJf6SxqTX  =  -96305759;
   cT1lZz1f  =  1850088479;
-  z5oub1n_  =  -128381758;
+
   r16l7DOB  =  -1644733766;
   URxp9  =  989484710;
   mx24_RJFYj  =  1998365906;
@@ -51,7 +51,7 @@ int main()
   F84cf0qweR  =  -68987889;
   kz_KO52inU  =  -280874961;
   nmCl0ks83p  =  1788285036;
-  w0lRoVIKl  =  980734160;
+
   SfQ2h  =  740820868;
   uH0M47Y1  =  307476824;
   hlqJ5W  =  394912953;
@@ -119,7 +119,7 @@ QZqch82Ac1 = lLZf4wa_u(qOZ_2xSs9);
 }
 else
 {
-qOZ_2xSs9 = (int)floor(uH0M47Y1);
+
 }
 
 TmHLGD = (double)(as0O);
@@ -129,7 +129,7 @@ for (int i = 0; i < 4; i++)
 QZqch82Ac1 = lLZf4wa_u(kz_KO52inU);
 }
 
-CbiMyv /= hlqJ5W;
+
 if (((cT1lZz1f == -1936046756) && (vQuy3yV != zjL0_63qyH)) || (as0O != -42160618))
 {
 std::cout << "hjRTn7i0A" << lLZf4wa_u(kz_KO52inU) << std::endl;
@@ -140,7 +140,7 @@ QZqch82Ac1 = lLZf4wa_u(1474270796);
 }
 else if ((uH0M47Y1 == -1061611641) || ((m6d0XR <= -1457540569) || (uJf6SxqTX > nmCl0ks83p)))
 {
-B6Fak8 = (double)(kz_KO52inU);
+
 }
 else if (zB6SdIhr <= 77782854)
 {
@@ -156,7 +156,7 @@ QZqch82Ac1 = lLZf4wa_u(-584207618);
 }
 else if (QZqch82Ac1 & 366198737)
 {
-TmHLGD = (int)ceil(Uac_68);
+
 }
 else if (QZqch82Ac1 <= -1713106579)
 {
@@ -178,7 +178,7 @@ try
 {
 try
 {
-w0lRoVIKl = zB6SdIhr / 1022057373;
+
 }
 catch (int& errorCode)
 {
@@ -193,7 +193,7 @@ cT1lZz1f *= nMjR9o;
 g515H -= SfQ2h;
 vQuy3yV = (F84cf0qweR) ? ha_Kscda1 : 141912291;
 m6d0XR = (double)(VaFd8iZ);
-uH0M47Y1 = Uac_68 / QZqch82Ac1;
+
 for (int i = 0; i < 9; ++i)
 {
 try
@@ -217,7 +217,7 @@ for (int i = 7; i >= 0; i--)
 QZqch82Ac1 = lLZf4wa_u(vQuy3yV);
 }
 
-hlqJ5W = (double)(zB6SdIhr);
+
 
 URxp9 = (int)ceil(jJj_9);
 return 0;

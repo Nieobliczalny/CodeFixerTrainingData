@@ -60,7 +60,7 @@ mw794J = A9O8qbH(tSag4woo, 96781209, xpi88_3, 1974434448, mw794J);
 break;
 case 'e':
 case 'E':
-p246r = (int)ceil(nzgc6O);
+
 break;
 default:
 nXVkXubPc = q4kh1 << 679079327;
@@ -216,7 +216,7 @@ WR_r /= 1237732982;
 }
 vefdDR = xpi88_3 & 622165642;
 
-nzgc6O = (int)ceil(T41q);
+
 
 std::cout << A9O8qbH(-1398815133, 519856786, 1914329715, -1956020469, P5JWp7f_5Z) << std::endl;
 
@@ -230,7 +230,7 @@ i--;
 }
 }
 
-qGhXAy8 |= 342582490;
+
 
 for (int i = 0; i < 7; i++)
 {
@@ -254,7 +254,7 @@ UVWZ9 = A9O8qbH(1719727948, 210412332, WR_r, -1480542446, qmKn_77aPN);
 }
 else if (KK5_3CmkV <= x1pu__z9D)
 {
-qGhXAy8 = KK5_3CmkV << nXVkXubPc;
+
 }
 else
 {
@@ -316,7 +316,7 @@ switch (mw794J)
 {
 case 'a':
 case 'A':
-T41q = (int)floor(p246r);
+
 break;
 default:
 nXVkXubPc >>= 170034044;

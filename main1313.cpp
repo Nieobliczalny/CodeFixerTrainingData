@@ -42,7 +42,7 @@ int main(int argc, char** argv) {
 	unsigned long long	yzJ5O;
 	yzJ5O	=	-1059948483;
 	short int	Uc9GY5;
-	Uc9GY5	=	1630795512;
+
 	short int	EWfVJ;
 	EWfVJ	=	-940210032;
 	short int	r78O;
@@ -94,7 +94,7 @@ int main(int argc, char** argv) {
  short WZ_7R8K;
  WZ_7R8K = -253411496;
     unsigned long long    V_yZU34;
-    V_yZU34    =    -1386217230;
+
   unsigned long  RUmR;
   RUmR  =  667398494;
 	unsigned short int	f5j0Sq_Evc;
@@ -104,7 +104,7 @@ int main(int argc, char** argv) {
  long double t34758m7;
  t34758m7 = 1502956954;
     int    pRC7F5Y7T;
-    pRC7F5Y7T    =    -492184768;
+
  unsigned short int U7f45G5h;
  U7f45G5h = 1531949141;
   unsigned char  g14D9OAWi;
@@ -126,7 +126,7 @@ int main(int argc, char** argv) {
  char r9heEU;
  r9heEU = -2131869125;
 	long	X8171j;
-	X8171j	=	-1467100301;
+
     unsigned long    Ci_PAy;
     Ci_PAy    =    1937748760;
 	float	SXwW5H;
@@ -160,7 +160,7 @@ int main(int argc, char** argv) {
  unsigned int Rr5Tl;
  Rr5Tl = -201068115;
   double  fvG3QU;
-  fvG3QU  =  -20974736;
+
     short int    ae0ARpi;
     ae0ARpi    =    1800290265;
   unsigned char  LdNblG_49;
@@ -178,7 +178,7 @@ int main(int argc, char** argv) {
   unsigned char  f_H7z;
   f_H7z  =  280237755;
     unsigned int    g29Wq;
-    g29Wq    =    150711540;
+
 	long	ox_RkX4_x;
 	ox_RkX4_x	=	1115091583;
 	double	hT_1;
@@ -404,7 +404,7 @@ cxID5I80 = (int)ceil(hu3RvqokK);
 fvG3QU = (int)ceil(Q42G);
 
 z_7Es_3 = (short int)(t34758m7);
-f_H7z %= 800588954;
+
 if ((d8015qbd3B & 2119334090) || (SXwW5H >= 2004820620))
 {
 if (aaL0e >= -80882986)
@@ -451,7 +451,7 @@ else
 switch (fIiv7g)
 {
 case 'a':
-V_yZU34 = ZQ64__5i / 1243603105;
+
 break;
 case 'b':
 pbh40C = (int)abs(L2FvPd5s);
@@ -527,7 +527,7 @@ if (VBUh4k_SU > rbKY1)
 switch (yt6ttTZs)
 {
 case 0:
-K834643Zpb = tV0U1t735h(462764357, -1455587352, fIiv7g);
+
 break;
 case 1:
 uT8woj0U >>= 1027079175;
@@ -545,7 +545,7 @@ case 5:
 woxOM2 = Zuk_g5 - 2146372381;
 break;
 case 6:
-Uc9GY5 = (int)abs(N_6Vk_75);
+
 break;
 }
 }
@@ -555,7 +555,7 @@ else if ((SXXlsb) && ((RALBrv < QM_63aM) || (Zuk_g5 != 1411514540)))
 int k = 1;
 while (k >= 0)
 {
-vMRsA2x1k9 = (int)abs(LcMoQ5q3);
+
 k--;
 }
 }
@@ -568,7 +568,7 @@ EWfVJ <<= KxubA;
 }
 else
 {
-K834643Zpb = tV0U1t735h(PQp9e38, 1199819366, Ci_PAy);
+
 }
 }
 else if (OLv76zRQG0 == rbKY1)
@@ -579,7 +579,7 @@ else if (K834643Zpb > WZ_7R8K)
 {
 if (L2FvPd5s < fIiv7g)
 {
-fvG3QU = (int)abs(ZWK48);
+
 }
 else if (Q8Ax < aaL0e)
 {
@@ -591,7 +591,7 @@ IblJ5++;
 }
 else if ((cUd4x) && (OLv76zRQG0 != RUmR))
 {
-K834643Zpb = tV0U1t735h(742391369, 1063605041, -52887194);
+
 }
 else if (ae0ARpi == -619567925)
 {
@@ -608,7 +608,7 @@ else
 int k = 0;
 while (k < 2)
 {
-K834643Zpb = tV0U1t735h(141902023, -1365778818, LcMoQ5q3);
+
 ++k;
 }
 }
@@ -654,7 +654,7 @@ WZ_7R8K = (short)(JP3g);
 }
 else
 {
-z_7Es_3 = (short int)(hT_1);
+
 }
 
 nkqdjKbn--;
@@ -667,7 +667,7 @@ int j = 0;
 while (j < 1)
 {
 ++j;
-X8171j = (long)(d8015qbd3B);
+
 }
 }
 }
@@ -693,7 +693,7 @@ case 2:
 Q42G = (int)ceil(SXwW5H);
 break;
 case 3:
-hT_1 = (int)abs(gDbiPhF0);
+
 break;
 default:
 ox_RkX4_x = LcMoQ5q3 & 1306560167;
@@ -716,7 +716,7 @@ else
 switch (L_Kj)
 {
 case 'a':
-fvG3QU = (int)ceil(gDbiPhF0);
+
 break;
 case 'b':
 K834643Zpb = tV0U1t735h(E0d9zuCxH, -1364757899, -1318687877);
@@ -731,7 +731,7 @@ case 'e':
 QM_63aM = (int)floor(Zuk_g5);
 break;
 case 'f':
-aLiCexXBA4 = (woxOM2 != -709278560) ? tV0U1t735h(E0d9zuCxH, 1035942572, ZWK48) : U7f45G5h;
+
 break;
 }
 }
@@ -742,7 +742,7 @@ Rr5Tl = tV0U1t735h(E0d9zuCxH, -1270162064, ZWK48) / K834643Zpb;
 cout << "y_37Wbf" << endl;
 
 ZQ64__5i -= RUmR;
-K834643Zpb = tV0U1t735h(VbFOGx3y, -614710711, 1005779343);
+
 
 K834643Zpb = tV0U1t735h(pUjL4NA, vlF78w, -1639245072);
 {
@@ -756,7 +756,7 @@ while (j < 10)
 {
 if (at1S & -288292749)
 {
-fvG3QU = (int)floor(Q42G);
+
 }
 else if (((I0d74G9g4 >= 898510284) || (pbh40C)) || (czh55PdRO6 > -736901221))
 {
@@ -772,7 +772,7 @@ zkFq754M64 = (int)abs(ae0ARpi);
 }
 else if ((ZQ64__5i == 434303437) && (RALBrv != ox_RkX4_x))
 {
-rbKY1 = OKhTFZM9Y + JZ_0;
+
 }
 else if (zkFq754M64)
 {
@@ -788,7 +788,7 @@ j++;
 }
 }
 
-ae0ARpi = (short int)(yt6ttTZs);
+
 return 0;
 }
 

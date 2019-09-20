@@ -37,7 +37,7 @@ int main(int argc, char** argv) {
     long    uVTDEaC;
     uVTDEaC    =    0;
     unsigned char    FBH75;
-    FBH75    =    -152613789;
+
 	long	yhuAHkU;
 	yhuAHkU	=	-311277120;
     short int    J8lk;
@@ -59,7 +59,7 @@ int main(int argc, char** argv) {
     unsigned short    Jkt8Bm12MO;
     Jkt8Bm12MO    =    0;
  unsigned char p6_4;
- p6_4 = -1330934639;
+
  unsigned long long THE4H2_L0;
  THE4H2_L0 = 347424667;
   short  w3ki7U;
@@ -259,7 +259,7 @@ case 'c':
 WsPG = PwGD3dI(WsPG, -635590104);
 break;
 case 'd':
-Eo5z = (int)abs(HViI5AyN0O);
+
 break;
 case 'e':
 Jkt8Bm12MO = em_6();
@@ -395,7 +395,7 @@ int i = 0;
 do
 {
 ++i;
-t_qFU = (short int)(E_jj06K);
+
 }
 while (i < 4);
 }
@@ -415,7 +415,7 @@ switch (rY_OI)
 {
 case 'a':
 case 'A':
-huGP6 = (int)ceil(dUC28);
+
 break;
 default:
 w3ki7U = (int)abs(E_jj06K);
@@ -430,7 +430,7 @@ do
 {
 if (tZnZm_ <= kg8BO_vW6)
 {
-MPi0fx = tZnZm_ | UngoIb9;
+
 }
 else
 {
@@ -480,7 +480,7 @@ fcMy8uL4 = FuhVt1 * J32XQ1Q65;
 }
 else
 {
-p6_4 = PwGD3dI(dUC28, 382449788) ^ 1427031383;
+
 }
 if (uVTDEaC <= 121572431)
 {
@@ -508,7 +508,7 @@ case 6:
 Zr300nAx = KY2gjdc7(492070523, wIvrE, 445930392);
 break;
 default:
-w72m4rZvi = BpRN3(w72m4rZvi, J8lk);
+
 break;
 }
 }
@@ -541,7 +541,7 @@ if (cllj <= -616408592)
 {
 try
 {
-Eo5z = BpRN3(1385178718, dUC28);
+
 }
 catch (int& errorCode)
 {
@@ -559,7 +559,7 @@ else if (CZ053 & s2pKi_)
 int j = 7;
 do
 {
-huGP6 = (int)ceil(VWU_RC1N);
+
 j--;
 }
 while (j >= 0);
@@ -571,7 +571,7 @@ dUC28 = (int)ceil(huGP6);
 }
 else if ((Jzn4Y <= 1914094560) && (R3uyQ <= s2pKi_))
 {
-Ev2q = (int)abs(J32XQ1Q65);
+
 }
 else
 {
@@ -584,7 +584,7 @@ case 1:
 uVTDEaC = em_6();
 break;
 default:
-huGP6 = (int)floor(dUC28);
+
 break;
 }
 }
@@ -594,7 +594,7 @@ VWU_RC1N = (double)(Gnpd5);
 
 if (J8lk != 736566025)
 {
-rY_OI = (unsigned short)(kg8BO_vW6);
+
 }
 else
 {
@@ -604,7 +604,7 @@ case 0:
 WsPG %= 926994014;
 break;
 case 1:
-Eo5z = (int)abs(E_jj06K);
+
 break;
 default:
 dpYKvQG1t3 = KY2gjdc7(dpYKvQG1t3, 1703761607, J3_2c78kb);
@@ -626,7 +626,7 @@ while (j < 9)
 {
 for (int k = 0; k < 10; ++k)
 {
-VWU_RC1N = (int)ceil(HViI5AyN0O);
+
 }
 j++;
 }

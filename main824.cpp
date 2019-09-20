@@ -78,7 +78,7 @@ t1ue5FS6 = ccnd_C(t1ue5FS6, pX7Eo27KU);
 }
 else if (((Qh4j) || (Iqk6HF == CcdNjDK)) || (XX0Db6iWa == hM66_Ps425))
 {
-hM66_Ps425 %= L_24;
+
 }
 else
 {
@@ -528,7 +528,7 @@ try
 {
 if (pX7Eo27KU != 1789864623)
 {
-r_joC = Fhu2(r_joC);
+
 }
 else
 {

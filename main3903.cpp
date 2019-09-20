@@ -740,7 +740,7 @@ Zh6a91swL = Lwjb / Zh6a91swL;
 C9ale += 2007497486;
 try
 {
-K14DC3 ^= g67kL;
+
 }
 catch (int& errorCode)
 {

@@ -40,7 +40,7 @@ int main(int argc, char** argv)
     int    ZPxhV_t5L;
     ZPxhV_t5L    =    314653796;
     unsigned char    psqQqXBG;
-    psqQqXBG    =    2081540101;
+
  unsigned long long ms22;
  ms22 = -142217084;
   unsigned short  cU5K2oD;
@@ -60,7 +60,7 @@ int main(int argc, char** argv)
  unsigned long long c9M52g;
  c9M52g = -989081520;
  unsigned char pcAWx0iXUh;
- pcAWx0iXUh = 0;
+
  unsigned long YV8vT82JM;
  YV8vT82JM = 588932220;
 	unsigned long long	b_Cz758J5J;
@@ -98,7 +98,7 @@ int main(int argc, char** argv)
     unsigned int    VtT4lzpZ3;
     VtT4lzpZ3    =    37674523;
  unsigned char B302IhxY;
- B302IhxY = -1285894742;
+
     short    xCMh;
     xCMh    =    414285949;
 	int	lb17mzSN6c;
@@ -110,7 +110,7 @@ int main(int argc, char** argv)
  unsigned char M6SI68Fr;
  M6SI68Fr = 1382200248;
  int NRblUTGoP;
- NRblUTGoP = 1947846896;
+
     unsigned char    K63Vvw9Me;
     K63Vvw9Me    =    0;
     long    I5Tg;
@@ -169,7 +169,7 @@ U8__w6h = v0s17BAa2(U8__w6h);
 }
 else if ((az52C >= 1559468900) && (lb17mzSN6c >= hN_3b6U))
 {
-YV8vT82JM = (yqstk < 1561934179) ? G2oDx2 : cU5K2oD;
+
 }
 else
 {
@@ -188,7 +188,7 @@ for (int i = 0; i < 10; i++)
 {
 xCMh = (short)(hN_3b6U);
 }
-psqQqXBG = (unsigned char)(IIp0J6isc);
+
 pcAWx0iXUh = Kv56on9R9(I5Tg, YkL8, G2oDx2, 614242550);
 
 if ((hr484_I != 872191961) && ((xJ_4VYB9) || (xCMh >= 537839664)))
@@ -237,7 +237,7 @@ switch (VtT4lzpZ3)
 {
 case 'a':
 case 'A':
-U8__w6h = v0s17BAa2(-1650958831);
+
 break;
 case 'b':
 case 'B':
@@ -249,7 +249,7 @@ kogC98 -= 1837875141;
 break;
 case 'd':
 case 'D':
-VtT4lzpZ3 = rANb(-37753413, 1390888787);
+
 break;
 case 'e':
 case 'E':
@@ -261,7 +261,7 @@ Da__2RB *= 1357654514;
 break;
 case 'g':
 case 'G':
-HD7U4A = exVIT7();
+
 break;
 case 'h':
 case 'H':
@@ -281,7 +281,7 @@ switch (YkL8)
 {
 case 'a':
 case 'A':
-jO5C_864u = (int)ceil(qjg8);
+
 break;
 case 'b':
 case 'B':
@@ -328,7 +328,7 @@ cout << f0rr6JUIyC << rANb(-763520845, 2128488805) << endl;
 }
 if (Kv56on9R9(I5Tg, -1880043111, gi1B3, c9M52g) == 0)
 {
-	gi1B3 = Kv56on9R9(I5Tg, kogC98, gi1B3, 2017842300) / Kv56on9R9(I5Tg, -1880043111, gi1B3, c9M52g);
+
 }
 
 FNRrsj_MLw = (int)floor(HfPjlBG2w8);
@@ -338,7 +338,7 @@ if (ms22 & M6SI68Fr)
 cout << xgo9S3O << "U8S7SZ" << v0s17BAa2(-1353612895) << f0rr6JUIyC << "AAIuF3U" << endl;
 }
 
-EwOM3s9y6 = b8LV2Tl >> xCMh;
+
 return 0;
 }
 

@@ -120,7 +120,7 @@ else if ((Z_Qq <= F77VDK) || (memck <= -1012997392))
 {
 if (CR064ES67)
 {
-s8D3 = (int)ceil(F77VDK);
+
 }
 else
 {
@@ -135,7 +135,7 @@ R_60nRa = (int)abs(s8D3);
 }
 else
 {
-JO4M_EBf02 |= R_60nRa;
+
 }
 }
 }
@@ -151,7 +151,7 @@ case 0:
 U7K6_29gh5 = je68se(-2118970598, U7K6_29gh5, -1680146);
 break;
 case 1:
-CR064ES67 = (int)abs(F77VDK) * 0;
+
 break;
 case 2:
 U7K6_29gh5 = je68se(U7K6_29gh5, CR064ES67, s8D3);
@@ -163,7 +163,7 @@ case 4:
 memck = YKAohC72();
 break;
 default:
-memck = YKAohC72();
+
 break;
 }
 }
@@ -184,7 +184,7 @@ while (j >= 0);
 }
 for (int i = 0; i < 1; i++)
 {
-CR064ES67 = YKAohC72();
+
 }
 cout << F77VDK << R_60nRa << endl;
 

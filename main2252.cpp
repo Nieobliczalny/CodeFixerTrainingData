@@ -19,7 +19,7 @@ unsigned int U7u_O3gILd(unsigned long Ei9JNa0B,unsigned char K277W8_,char iUPbr4
 
 int main(void) {
   long double  Ncr7eKJ_Q;
-  Ncr7eKJ_Q  =  1676329833;
+
   unsigned short int  O1jZWHX;
   O1jZWHX  =  -1055139309;
 	long	j92SrMM4Y;
@@ -37,7 +37,7 @@ int main(void) {
     unsigned char    RruapUd2p;
     RruapUd2p    =    -66073326;
  long double d7Zg_5Pk;
- d7Zg_5Pk = 544305733;
+
  unsigned long nGYg_LqFtI;
  nGYg_LqFtI = 359087779;
     unsigned long long    Tr8Rx;
@@ -47,7 +47,7 @@ int main(void) {
   unsigned char  P_9lN_3;
   P_9lN_3  =  668800609;
  double x9_8K4;
- x9_8K4 = -1986447384;
+
  short int gRaMY50CQ;
  gRaMY50CQ = -486578206;
 	long double	vzJl21;
@@ -81,7 +81,7 @@ x9_8K4 = (int)floor(Ncr7eKJ_Q);
 
 Tr8Rx = (unsigned long long)(let1pFw2D7);
 
-j92SrMM4Y = (int)abs(t25MYn1);
+
 O1jZWHX = (unsigned short int)(Z08USO);
 
 for (int i = 0; i < 5; i++)
@@ -231,7 +231,7 @@ d7Zg_5Pk = (int)floor(Av1PRaEV1M);
 break;
 case 'f':
 case 'F':
-vzJl21 = (int)floor(x9_8K4);
+
 break;
 default:
 lq43S82FK = U7u_O3gILd(-1759910632, 663961127, 825246786);
@@ -312,7 +312,7 @@ while (j >= 0);
 }
 else if (d16zp8_P8 <= d7Zg_5Pk)
 {
-x9_8K4 = s5hd7(-1981687338);
+
 }
 else if ((QS09DQ_7Z > -605481688) || (j92SrMM4Y <= 175390930))
 {
@@ -380,7 +380,7 @@ if (Tr8Rx != Cuk3)
 int k = 6;
 do
 {
-Z08USO = s5hd7(-2053954125);
+
 --k;
 }
 while (k >= 0);
@@ -392,7 +392,7 @@ cout << O1jZWHX << endl;
 }
 }
 
-t25MYn1 /= nGYg_LqFtI;
+
 return 0;
 }
 

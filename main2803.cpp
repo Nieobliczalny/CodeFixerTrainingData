@@ -135,7 +135,7 @@ case 5:
 Jy7ER = CG9J(1676845063, -846508321, 352787728, SQGPKfA);
 break;
 case 6:
-SQGPKfA = CG9J(SQGPKfA, jy4tKXG2FT, 970719963, -1853469180);
+
 break;
 case 7:
 s9ZO4 = CG9J(1171034248, jy4tKXG2FT, 1993944164, -2050302551);
@@ -147,7 +147,7 @@ break;
 
 for (int i = CG9J(-480909270, Jy7ER, s9ZO4, OPGG4132); i < 44; i++)
 {
-jvj37y3J8 = npqU9Rq * 1745101875;
+
 	jvj37y3J8 = TR4P7m / i;
 if (((jvj37y3J8 != -345295815) && (jy4tKXG2FT != -1146193118)) || ((npqU9Rq < -469755214) && (OPGG4132 != -1374582053)))
 {

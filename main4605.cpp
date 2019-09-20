@@ -26,7 +26,7 @@ unsigned short  qBJK0(char  WZx5T);
 int main(int argc, char** argv)
 {
   unsigned char  jUuT_yN,  nxU0t6R1,  Hx_2;
-  jUuT_yN  =  0;
+
   nxU0t6R1  =  0;
   Hx_2  =  0;
     unsigned short int    y6QN_jl02,    r91rDdt,    AS2HQ5LE8m,    AKa8,    aVcg9gdT87,    I_32StPN,    KFL4CL,    P521,    E7qv_s3,    u4Y1JCna,    jrdJ89W_11,    MucL7p,    DUwF6;
@@ -36,7 +36,7 @@ int main(int argc, char** argv)
     AKa8    =    -516809016;
     aVcg9gdT87    =    708558889;
     I_32StPN    =    -798214184;
-    KFL4CL    =    184686489;
+
     P521    =    -5372190;
     E7qv_s3    =    952082075;
     u4Y1JCna    =    -1373793420;

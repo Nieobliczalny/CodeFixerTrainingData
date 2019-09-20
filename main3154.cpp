@@ -26,7 +26,7 @@ long long	XW4Fzn7(long long	Jug__AW5)
 int main(void)
 {
   unsigned int  f2G8K;
-  f2G8K  =  0;
+
  float fRsO;
  fRsO = -375094823;
   int  dM8jz;
@@ -42,7 +42,7 @@ int main(void)
 	float	YVSZ;
 	YVSZ	=	1071269781;
   long long  Z0el2O;
-  Z0el2O  =  -446269214;
+
   short int  WYh9D41a;
   WYh9D41a  =  1826642809;
 	float	k25z;
@@ -54,7 +54,7 @@ int main(void)
   unsigned short int  SlCbdRRx;
   SlCbdRRx  =  -762569518;
  int Iyit;
- Iyit = 1580063361;
+
   short  ml48;
   ml48  =  -1927782451;
   unsigned int  C71_N8;
@@ -74,7 +74,7 @@ int main(void)
  unsigned int Ww32;
  Ww32 = 641210881;
  int mt7VzziD;
- mt7VzziD = -1872009474;
+
     unsigned short int    h5pXS36kxk;
     h5pXS36kxk    =    496939936;
  long long D8IK3KE2;
@@ -84,7 +84,7 @@ int main(void)
  float eDE8xn9;
  eDE8xn9 = -731348714;
   unsigned short  k8B8lm;
-  k8B8lm  =  -1623489464;
+
   unsigned int  w5t5Xb6U;
   w5t5Xb6U  =  0;
  double JpKA2D9;
@@ -104,7 +104,7 @@ int main(void)
     unsigned long long    o1G4sJScA;
     o1G4sJScA    =    1337494653;
     unsigned char    KX46B;
-    KX46B    =    63563728;
+
   unsigned short  fkLTUpI7D;
   fkLTUpI7D  =  -218848870;
  unsigned long d_8r;
@@ -120,7 +120,7 @@ int main(void)
  unsigned long Fa6ds;
  Fa6ds = -1875803421;
   unsigned short  XUJYb6_;
-  XUJYb6_  =  -2035586538;
+
 
 w5t5Xb6U = XW4Fzn7(-906645371);
 {
@@ -138,7 +138,7 @@ Ct45Tb2 = (int)floor(c7qwV);
 --i;
 }
 }
-Iyit = nEA36Zh4 / XW4Fzn7(p59i_);
+
 
 switch (C71_N8)
 {
@@ -149,7 +149,7 @@ case 'b':
 f2G8K = XW4Fzn7(wB63);
 break;
 case 'c':
-fRsO = (int)ceil(IkjwgfA);
+
 break;
 case 'd':
 Fbtr = Fa6ds << o1G4sJScA;
@@ -164,7 +164,7 @@ case 'g':
 wB63++;
 break;
 case 'h':
-Fbtr = riVxol3(1365070005, 584729312, -711972043, egDu, -761727779);
+
 break;
 case 'i':
 eDE8xn9 = (int)floor(lbi3IKgi0);
@@ -176,7 +176,7 @@ default:
 nNjnHdf_sB = riVxol3(853354575, 1940755530, 1921075417, 1489900524, NO86eU);
 break;
 }
-dM8jz = (int)(pDFz5_19 + (1334179123));
+
 
 switch (SEKLMf92)
 {
@@ -187,7 +187,7 @@ case 1:
 SlCbdRRx = Fz1oK3B(-537046522, XrOo, -523582681, f31Xq0);
 break;
 case 2:
-NO86eU = riVxol3(-380983059, C41BTli, 1247986349, 1443778410, 35995320);
+
 break;
 case 3:
 N4H_5Nht--;
@@ -199,7 +199,7 @@ case 5:
 ml48 = (int)abs(c7qwV);
 break;
 case 6:
-h5pXS36kxk &= 1940999743;
+
 break;
 case 7:
 N4H_5Nht *= p59i_;

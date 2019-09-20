@@ -128,7 +128,7 @@ case 'g':
 hoeU1fB = UC753 / 1243098200;
 break;
 case 'h':
-U_w0gj /= FRe90X;
+
 break;
 case 'i':
 r9Vf67e_ >>= irrQzw5u;
@@ -451,7 +451,7 @@ case 1:
 TkUNqy = DAvSN0 >> 690808544;
 break;
 case 2:
-U_w0gj = (int)abs(TkUNqy);
+
 break;
 case 3:
 awPJ = (int)abs(U_w0gj);
@@ -546,7 +546,7 @@ case 'c':
 hoeU1fB++;
 break;
 case 'd':
-U_w0gj = (int)abs(E72sT6);
+
 break;
 case 'e':
 awPJ = TBEJ(awPJ, FRe90X, -1070026497) << 1301766356;
@@ -618,7 +618,7 @@ for (int i = 2; i >= 0; --i)
 rISYgiuK9q = (unsigned int)(EbQ71d_0x3);
 }
 
-r6hS6 = (long long)(hoeU1fB);
+
 if (rISYgiuK9q == awPJ)
 {
 cout << "L9__edwZ" << "fnHij7mO" << TBEJ(625696349, -96740060, r9Vf67e_) << endl;

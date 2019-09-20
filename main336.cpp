@@ -19,7 +19,7 @@ int main(int argc, char** argv)
 	unsigned long long	L735iqDg;
 	L735iqDg	=	-64996899;
   long long  b1ZfUSEqZ;
-  b1ZfUSEqZ  =  -1909516674;
+
  short Ka3Md9u5;
  Ka3Md9u5 = -698201080;
     unsigned char    c4lQ9V5r;
@@ -122,7 +122,7 @@ else if ((u43p944 >= OVLblID7U8) && (O30Z & OVLblID7U8))
 int k = 0;
 while (k < 5)
 {
-hzpg = (int)floor(wAULMQ);
+
 k++;
 }
 }
@@ -172,7 +172,7 @@ case 0:
 Ka3Md9u5 = (int)abs(odpukby);
 break;
 case 1:
-TQ5Q63i91 = (int)ceil(aYfJ_F1ck);
+
 break;
 case 2:
 H8Cut /= 1925097419;
@@ -248,7 +248,7 @@ if (C1xYt >= Ka3Md9u5)
 {
 try
 {
-TQ5Q63i91 = odpukby << 2125721252;
+
 }
 catch (int& errorCode)
 {
@@ -271,7 +271,7 @@ while (j < 2);
 }
 }
 
-hzpg = (int)floor(wAULMQ);
+
 
 for (int i = 1; i >= 0; --i)
 {
@@ -306,7 +306,7 @@ switch (ohZ1x2C32)
 {
 case 'a':
 case 'A':
-L414WXt5vl = J1Bu % H8Cut;
+
 break;
 case 'b':
 case 'B':
@@ -318,7 +318,7 @@ c4lQ9V5r = BV14nnSfH3 << 1876200071;
 break;
 case 'd':
 case 'D':
-Wum13b = L735iqDg - szApmR;
+
 break;
 }
 }

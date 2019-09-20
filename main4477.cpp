@@ -44,7 +44,7 @@ int main(void)
   unsigned int  Tjw7k;
   Tjw7k  =  -1743111877;
     int    sbr8zjC;
-    sbr8zjC    =    0;
+
   int  iRBmQ;
   iRBmQ  =  1579593434;
   unsigned short  m7ib71DV;
@@ -140,7 +140,7 @@ case 0:
 dXe1gr = q__y87W18(dXe1gr, 1896683499, m7ib71DV, kp4w);
 break;
 case 1:
-T36lFYr = (int)abs(p1Vd2IU);
+
 break;
 case 2:
 KN96P7 = Ur8MFQ << 723265126;
@@ -155,7 +155,7 @@ case 5:
 lB_cwJXA = q__y87W18(lB_cwJXA, -1480221253, 1632502678, Eq1JX);
 break;
 case 6:
-hXxA = ZA9C10E(744380287, u12aqV, FHu9i2pssl);
+
 break;
 case 7:
 n_1iG = (int)abs(YX6G);
@@ -172,7 +172,7 @@ break;
 }
 if (T_lNccf7na > mqqS)
 {
-uYELOY = (int)ceil(p1Vd2IU);
+
 }
 else if (sCq7o != gI22e)
 {
@@ -184,7 +184,7 @@ sCq7o = lEgrraU9iU & RF7P90zQ_;
 }
 else
 {
-n_1iG += 291666695;
+
 }
 }
 else
@@ -197,7 +197,7 @@ Tjw7k = ZA9C10E(T_lNccf7na, N5_h, -1514347903) | 473879225;
 break;
 case 'b':
 case 'B':
-kE4tvV0 = IZuPpx1(kE4tvV0, 1953789073, aTd0i, m9c84);
+
 break;
 case 'c':
 case 'C':
@@ -217,7 +217,7 @@ KN96P7 = biNNIo36vO >> Z8Y3;
 break;
 case 'g':
 case 'G':
-uYELOY = (int)floor(hs2ACqQv8);
+
 break;
 case 'h':
 case 'H':
@@ -272,7 +272,7 @@ while (k < 1);
 }
 while (i < 4);
 }
-R9Td4qJ3 = (unsigned long long)(mqqS + (-165869704));
+
 if (Tjw7k > b_W3u0)
 {
 for (int j = 0; j < 2; j++)
@@ -286,7 +286,7 @@ try
 {
 if ((p1Vd2IU == IHZdAzN29B) || (LjlLto_7 == -2145378359))
 {
-n_1iG = (int)abs(S7_fJihsv2);
+
 }
 }
 catch (int& errorCode)
@@ -302,7 +302,7 @@ do
 {
 if (Ur8MFQ >= 2024342726)
 {
-p1Vd2IU = q__y87W18(-1499941265, dXe1gr, -2124416146, Ur8MFQ);
+
 }
 else
 {
@@ -323,7 +323,7 @@ m9c84--;
 }
 else if (m7ib71DV == sCq7o)
 {
-kp4w = (int)ceil(S7_fJihsv2);
+
 }
 else if (wn5gi0T01 >= 1904802651)
 {
@@ -335,7 +335,7 @@ lB_cwJXA = (int)abs(s31m1);
 }
 else if ((E83p == 1858363100) || ((s31m1 == Eq1JX) && (lB_cwJXA < b_W3u0)))
 {
-n_1iG = (int)ceil(kp4w);
+
 }
 else if (hq_4DEFgQ < b_W3u0)
 {
@@ -364,7 +364,7 @@ FHu9i2pssl -= 1626835248;
 }
 else
 {
-IHZdAzN29B = r3sE_(1105477738, -1858439415, -2024985828);
+
 }
 
 if ((-435722999 / r3sE_(S7_fJihsv2, -306296226, wn5gi0T01)) == 1581748365)

@@ -70,7 +70,7 @@ cout << TxDlnt << gwL6Pt16 << vlJ5Ln937b(z_LN8ti2YT, 1997630097, ST7_t) << "yCHd
 
 if (k1_6DPpjK)
 {
-kn31 = (long)(VugF808 * kn31);
+
 }
 else
 {
@@ -83,7 +83,7 @@ int k = 3;
 while (k >= 0)
 {
 --k;
-kn31 = vlJ5Ln937b(k1_6DPpjK, -387798836, ReA6dta);
+
 }
 }
 j--;

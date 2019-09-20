@@ -10,7 +10,7 @@ using namespace std;
 
 int main() {
 	int	Uv_AAz1Em_,	VAZ7_z7u,	YWyTJc;
-	Uv_AAz1Em_	=	352063280;
+
 	VAZ7_z7u	=	149103418;
 	YWyTJc	=	-751370130;
   char  ElW6mTb1G,  XT_fF7,  XHv_vjMB7,  dcsMB7de;
@@ -47,7 +47,7 @@ j++;
 }
 
 YWyTJc = (int)abs(dcsMB7de) + (378034754);
-Uv_AAz1Em_ = -495894437 / ElW6mTb1G;
+
 XHv_vjMB7 = (char)(YWyTJc * XHv_vjMB7);
 return 0;
 }

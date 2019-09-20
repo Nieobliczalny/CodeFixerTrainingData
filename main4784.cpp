@@ -164,7 +164,7 @@ if (fo8B72F == -169897005)
 switch (s3CPxciZf)
 {
 case 'a':
-s3CPxciZf = RG9Af5();
+
 break;
 case 'b':
 d9S10h4c = YS4JaA(-1103602053) - 1155120699;
@@ -273,7 +273,7 @@ try
 {
 try
 {
-JHEt9TMRPm = YS4JaA(-1790922475) / 1657350373;
+
 }
 catch (int& errorCode)
 {
@@ -340,7 +340,7 @@ int k = 10;
 do
 {
 --k;
-T4xH = (int)abs(c46zAUEy);
+
 }
 while (k >= 0);
 }
@@ -350,7 +350,7 @@ while (j >= 0);
 }
 else if ((NlFdUatYq) && (c244hZ))
 {
-s3CPxciZf = f6L0 | 1537226943;
+
 }
 else
 {
@@ -377,7 +377,7 @@ else if (D8sr21 <= 618182197)
 {
 for (int k = 0; k < 5; ++k)
 {
-T4xH = (int)abs(c46zAUEy);
+
 }
 }
 else if (yS1t < c46zAUEy)
@@ -411,7 +411,7 @@ for (int j = 10; j >= 0; j--)
 {
 for (int k = 0; k < 9; k++)
 {
-s3CPxciZf = wUm3418l(-2146689456) % yS1t;
+
 }
 }
 }

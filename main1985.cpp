@@ -21,7 +21,8 @@ unsigned char    N57190t1(unsigned char    v6r9_x,unsigned char    y8M_u8,unsign
 int main(int argc, char** argv)
 {
     short int    do9vnN2y_,    Zai70h,    EwJKa_VH,    isGQ4;
-        do9vnN2y_    =    Zai70h    =    EwJKa_VH    =    isGQ4    =    0;
+        // codechecker_intentional [deadcode.DeadStores] Design rule - initialize all variables
+		do9vnN2y_    =    Zai70h    =    EwJKa_VH    =    isGQ4    =    0;
 	unsigned int	mIB5c_exr,	g9fUt1_qv,	z3K9W0bw,	ByH1EqE45,	NfGQ88qZ,	vVS7,	Bb_60_n,	IimvW,	zo837k,	NX4EO2xk7q,	e4fLl,	XfZxt7A7X7,	X5_e,	dHnP,	zxV560j,	C0xO_1gJ,	qMtyI,	z5_76e5,	LjcWb,	L96D,	HR5cGSbF_v,	Dvfz,	AG13,	oFbCT522t4,	ON5D68w,	Hw6IdN_,	z6EApy,	Qswzt,	hk_k1,	W0fLcA9eb,	Ps_7U,	I_0v7MP4,	uuYv,	M3ag52Mr1,	hw9ZK84lq,	kBRgZ0J,	NG0X9,	Jnn1D2,	D5yM9EFm5,	Z59N97r0J,	w_r2RE84D6,	xnxfuJGl,	qX363,	ir7HU56dcG,	z4J8gF,	p7JpQr,	jJXKq,	Pl0a2,	sXMppql,	cj38M_PB_K,	QBP2iS,	V6d5ng3C_,	S0pkf_,	stAqW3wK,	vV58,	e2C9PM,	ec_1a,	X_N7slB5,	jEkupvsKL,	b4m44yA,	VggOuf8,	ku880vv,	mxEHfL,	t539v5vj,	ZwDb9fCeh,	l6a2p,	oyazTcRa15,	V0PrVR3g,	Nk9C4t8,	uX1MH,	b2TLmi_,	M1I1j,	iQh_Xrq8_,	j1_Q,	w1gh9Pg,	Xn1Pr,	uvAQA;
 		mIB5c_exr	=	g9fUt1_qv	=	z3K9W0bw	=	ByH1EqE45	=	NfGQ88qZ	=	vVS7	=	Bb_60_n	=	IimvW	=	zo837k	=	NX4EO2xk7q	=	e4fLl	=	XfZxt7A7X7	=	X5_e	=	dHnP	=	zxV560j	=	C0xO_1gJ	=	qMtyI	=	z5_76e5	=	LjcWb	=	L96D	=	HR5cGSbF_v	=	Dvfz	=	AG13	=	oFbCT522t4	=	ON5D68w	=	Hw6IdN_	=	z6EApy	=	Qswzt	=	hk_k1	=	W0fLcA9eb	=	Ps_7U	=	I_0v7MP4	=	uuYv	=	M3ag52Mr1	=	hw9ZK84lq	=	kBRgZ0J	=	NG0X9	=	Jnn1D2	=	D5yM9EFm5	=	Z59N97r0J	=	w_r2RE84D6	=	xnxfuJGl	=	qX363	=	ir7HU56dcG	=	z4J8gF	=	p7JpQr	=	jJXKq	=	Pl0a2	=	sXMppql	=	cj38M_PB_K	=	QBP2iS	=	V6d5ng3C_	=	S0pkf_	=	stAqW3wK	=	vV58	=	e2C9PM	=	ec_1a	=	X_N7slB5	=	jEkupvsKL	=	b4m44yA	=	VggOuf8	=	ku880vv	=	mxEHfL	=	t539v5vj	=	ZwDb9fCeh	=	l6a2p	=	oyazTcRa15	=	V0PrVR3g	=	Nk9C4t8	=	uX1MH	=	b2TLmi_	=	M1I1j	=	iQh_Xrq8_	=	j1_Q	=	w1gh9Pg	=	Xn1Pr	=	uvAQA	=	-395207234;
 

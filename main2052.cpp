@@ -107,7 +107,7 @@ int main()
 	long	Aw_A0	=	366533098;
   unsigned short  ShK7cj  =  1636699129;
 
-hI0I &= 594388507;
+
 
 if (wK_85o079r <= flx2u9)
 {
@@ -136,7 +136,7 @@ catch (int& errorCode)
 {
 baYH = (int)ceil(hRsocA_4);
 }
-TtIFAJr <<= dioc6_;
+
 for (int i = 0; i < 2; ++i)
 {
 C1DIV6Mlj %= 277547999;
@@ -147,7 +147,7 @@ i_6c1_E5v = flx2u9 << 105934651;
 
 if (WoR__3Q46a == flx2u9)
 {
-XntI_S7 = XntI_S7 << 1416780143;
+
 }
 else if (uvBZc > -367132316)
 {
@@ -165,7 +165,7 @@ int k = 0;
 do
 {
 ++k;
-nw_bmOd1ec = K5_vtfTt6 & 1803394611;
+
 }
 while (k < 2);
 }

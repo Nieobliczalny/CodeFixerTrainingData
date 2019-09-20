@@ -13,7 +13,7 @@ int main()
   long  QKnJWR;
   QKnJWR  =  -345439740;
 	unsigned int	NcoJ;
-	NcoJ	=	1235704156;
+
     char    iAIu0;
     iAIu0    =    885907382;
   unsigned short  pocE7Cux8X;
@@ -23,7 +23,7 @@ int main()
     unsigned long long    AzB6yu18LM;
     AzB6yu18LM    =    1542006633;
   char  BB6G2_Yh2;
-  BB6G2_Yh2  =  -2010270104;
+
 	int	SDB9AKQ;
 	SDB9AKQ	=	859710909;
  unsigned short int ogdwI45UG;
@@ -37,7 +37,7 @@ int main()
 	unsigned short	pELZmYxOK3;
 	pELZmYxOK3	=	1350582799;
  short bTR_;
- bTR_ = -1599803568;
+
 	unsigned short int	vCcj7x;
 	vCcj7x	=	327164644;
   short int  D8kAw1;
@@ -71,7 +71,7 @@ int main()
 	long double	Iny12jJp;
 	Iny12jJp	=	-595664778;
 	long	jXuPDUiR_;
-	jXuPDUiR_	=	-319195850;
+
  long long b2qP5H2k0C;
  b2qP5H2k0C = 1670961024;
   unsigned short int  YlmZ7lrn9;
@@ -81,7 +81,7 @@ int main()
 	unsigned long long	K70i5q8;
 	K70i5q8	=	-1006130480;
  unsigned short int qWh1;
- qWh1 = 1023603893;
+
 	char	y_mp2m9_Dl;
 	y_mp2m9_Dl	=	-896611856;
     unsigned int    H51Wi;
@@ -97,7 +97,7 @@ int main()
 	char	kh2r11;
 	kh2r11	=	-1518211412;
   unsigned short int  GB_y;
-  GB_y  =  0;
+
     unsigned short int    n_925Dq;
     n_925Dq    =    -1737331522;
 	unsigned int	U6LrJ7;
@@ -130,7 +130,7 @@ case 'd':
 A7v9rM = (int)abs(YHsEcS);
 break;
 case 'e':
-QKnJWR >>= ogdwI45UG;
+
 break;
 case 'f':
 ogdwI45UG /= ORnT779x;
@@ -145,7 +145,7 @@ break;
 
 try
 {
-to3l >>= wsB3ybRs;
+
 }
 catch (int& errorCode)
 {
@@ -164,7 +164,7 @@ cout << "w_CVVNw" << endl;
 EP5xq0uL8D = EP5xq0uL8D >> 502669571;
 
 kIbo2GqE36 %= FsTdsVz;
-FsTdsVz = fS0R94 & 1966187912;
+
 cout << -1924776894 / Vx7a << endl;
 for (int i = 5; i >= 0; i--)
 {
@@ -195,7 +195,7 @@ A7v9rM += 1974518296;
 }
 for (int i = 0; i < 3; ++i)
 {
-l6vgI = (int)abs(DJ9QFG);
+
 }
 for (int i = 0; i < 1; i++)
 {
@@ -213,7 +213,7 @@ int j = 3;
 while (j >= 0)
 {
 j--;
-to3l = (unsigned long)(kIbo2GqE36);
+
 }
 }
 }
@@ -223,7 +223,7 @@ try
 {
 if ((DJ9QFG) && (hw66u_DY9 & -266413042))
 {
-fS0R94 |= sry29J0_;
+
 }
 else
 {
@@ -239,7 +239,7 @@ else
 {
 A7v9rM = (short int)(ogdwI45UG);
 }
-ORnT779x = (int)ceil(DP2Z69);
+
 P9ll = DJ9QFG + xx__fc9;
 jXuPDUiR_ = hjytO8b_ / D8kAw1;
 

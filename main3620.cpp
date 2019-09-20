@@ -47,7 +47,7 @@ do
 {
 if (vrcC_P != -1378978492)
 {
-HN8KH3nB = (int)floor(t144);
+
 }
 else if ((vy16Hi > 743764471) || ((To6YC >= 911196925) && (L99y < 1082051905)))
 {
@@ -72,7 +72,7 @@ if (hSJQSq_ >= -1321392022)
 switch (Fgz9)
 {
 case 'a':
-HN8KH3nB = MI7_62p << 1275811001;
+
 break;
 case 'b':
 Fgz9 %= vrcC_P;
@@ -188,7 +188,7 @@ std::cout << HN8KH3nB << "Dmv3HE9756" << Fgz9 << ni10QET4z << v2nBLn << std::end
 }
 else
 {
-l_2We_Z9sL = (int)ceil(T7Q1G2pj8);
+
 }
 l_2We_Z9sL = (float)(HN8KH3nB);
 
@@ -246,7 +246,7 @@ do
 int k = 7;
 while (k >= 0)
 {
-t144 = (int)abs(K835y);
+
 k--;
 }
 }
@@ -257,7 +257,7 @@ while (j < 7);
 }
 if (((Fgz9 >= l_2We_Z9sL) || (mJc7aFpi & MI7_62p)) && ((iH7D3D > K835y) || (ni10QET4z == 1997085142)))
 {
-t144 = (long double)(ni10QET4z + (1681058507));
+
 }
 else
 {
@@ -267,7 +267,7 @@ case 0:
 mJc7aFpi <<= 94192504;
 break;
 case 1:
-t144 = (int)ceil(T7Q1G2pj8);
+
 break;
 case 2:
 hSJQSq_ = JNvZ_m51 << MI7_62p;
@@ -341,7 +341,7 @@ do
 int k = 0;
 do
 {
-HN8KH3nB = (int)floor(v2nBLn);
+
 k++;
 }
 while (k < 9);
@@ -357,7 +357,7 @@ switch (R2eKclg)
 {
 case 'a':
 case 'A':
-vy16Hi >>= Fgz9;
+
 break;
 case 'b':
 case 'B':
@@ -373,7 +373,7 @@ T4Maa25 = JNvZ_m51 ^ KTJb36n1O5;
 break;
 case 'e':
 case 'E':
-v2nBLn = mJc7aFpi + iv7o_A;
+
 break;
 case 'f':
 case 'F':
@@ -420,7 +420,7 @@ hSJQSq_ >>= 2114466793;
 }
 }
 
-l_2We_Z9sL -= T4Maa25;
+
 
 if (ni10QET4z == 0)
 {

@@ -34,7 +34,7 @@ int main(void)
     short int    WeLea6;
     WeLea6    =    0;
     long double    YC5zx;
-    YC5zx    =    -730029319;
+
  char z52dmS;
  z52dmS = -643649944;
   unsigned long long  KwFc8CA;
@@ -55,7 +55,7 @@ int main(void)
 K6_04MuS_ ^= 756607247;
 
 std::cout << "N9wT" << SG32mlV(-781939918, -2002386564) << "WYjm3JKbM" << SG32mlV(-1206025119, kzHd1hQ9tO) << std::endl;
-YC5zx = (int)ceil(th95c2);
+
 switch (xL1078D)
 {
 case 'a':
@@ -90,7 +90,7 @@ i++;
 switch (z52dmS)
 {
 case 'a':
-YC5zx = (int)ceil(xfx5p74);
+
 break;
 case 'b':
 kzHd1hQ9tO *= mjUq;
@@ -102,7 +102,7 @@ case 'd':
 mjUq = SG32mlV(-769208427, -1877671757);
 break;
 case 'e':
-YC5zx = (int)ceil(xfx5p74);
+
 break;
 case 'f':
 DoTfI = SG32mlV(DoTfI, lG3v6zyR);
@@ -123,7 +123,7 @@ else
 std::cout << "BoT052nY60" << SG32mlV(729478276, -96256969) << SG32mlV(xfx5p74, 1424986508) << "RpY5l_" << "KN8qBFnxx" << std::endl;
 }
 
-lG3v6zyR = (unsigned int)(mjUq + (2070562487));
+
 
 WeLea6 = SG32mlV(-522873700, 381757275);
 {
@@ -191,7 +191,7 @@ if (((xfx5p74 != 1288011318) && (QjenwkIC != 335380158)) && ((th95c2 < 157042932
 int k = 0;
 do
 {
-KwFc8CA = xfx5p74 - 446046560;
+
 k++;
 }
 while (k < 5);
@@ -223,7 +223,7 @@ D8I1VnX = SG32mlV(-1262210349, -1911106886);
 break;
 case 'b':
 case 'B':
-YC5zx = (int)ceil(th95c2);
+
 break;
 default:
 DoTfI = (int)abs(YbUe) * 0;

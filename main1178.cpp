@@ -201,7 +201,7 @@ else if (((tlAQBD2 < B_BdS2f0) || (btyTJK > Ou2MJ)) || (HU8k9S <= tlAQBD2))
 {
 if (Iu_z_oo_G >= -464959016)
 {
-ovok *= 1170341483;
+
 }
 }
 else if (ovok & ZtzI_dmH)
@@ -218,7 +218,7 @@ J2h2r10 &= D1m1_M;
 }
 else if (D1m1_M == ZtzI_dmH)
 {
-B_BdS2f0 = HU8k9S / D1m1_M;
+
 }
 else
 {
@@ -234,7 +234,7 @@ case 0:
 cjcMXFMi37 = Yzf7d7O0Jr(1353190165, 909833927, Iu_z_oo_G, -625364322, 2089429717);
 break;
 case 1:
-B10X3PPX ^= 1298084248;
+
 break;
 case 2:
 B10X3PPX++;

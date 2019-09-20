@@ -32,7 +32,7 @@ long	dtv87(unsigned short int	IcZI0,long	nPG74t,unsigned short	Mi632I)	{
 
 int main(void) {
     double    X53D_16;
-    X53D_16    =    672800538;
+
   long long  kZrjb0;
   kZrjb0  =  1429490027;
   long  r8lBd9D9z;
@@ -42,7 +42,7 @@ int main(void) {
 	unsigned long	OKKBY9GDUU;
 	OKKBY9GDUU	=	-4032840;
   short int  U5TA67ZQzc;
-  U5TA67ZQzc  =  140908933;
+
   long  OU6bNu9O;
   OU6bNu9O  =  -1674350557;
     unsigned short    ON57i;
@@ -70,7 +70,7 @@ int main(void) {
 	unsigned long long	VQKhi7u4;
 	VQKhi7u4	=	-2087122211;
  short int VL__;
- VL__ = -832372414;
+
   unsigned short int  ymBc543073;
   ymBc543073  =  284721392;
 	int	Hj2_T0r;
@@ -80,7 +80,7 @@ int main(void) {
   long long  Y96i;
   Y96i  =  -2042922515;
     long    Ok_Dhie;
-    Ok_Dhie    =    -956419172;
+
   short int  La34Y;
   La34Y  =  1710658196;
   unsigned short int  Jyq23;
@@ -104,7 +104,7 @@ int main(void) {
  unsigned short int iqzBm1ygU2;
  iqzBm1ygU2 = -416390068;
     short int    Fv8uy1p6j6;
-    Fv8uy1p6j6    =    1678889311;
+
   unsigned short int  L7CnL;
   L7CnL  =  -1851904743;
 	long double	TuaC2z;
@@ -122,7 +122,7 @@ int main(void) {
     short    D9H0A;
     D9H0A    =    -619652801;
   int  Z6NHC7bbiY;
-  Z6NHC7bbiY  =  207380469;
+
     double    Kdf6;
     Kdf6    =    -1699371837;
 	long	SSQ_S8;
@@ -220,7 +220,7 @@ int i = 0;
 while (i < 1)
 {
 i++;
-W_1ud = Mc3tAr461P(-1315616955, 1437606776, ZJ7NdZ, -745749147);
+
 }
 }
 if (Hj2_T0r < bt_C3)
@@ -270,7 +270,7 @@ else if (((T_IG_Ew1 >= -1835253362) || (V46afO2L != bt_C3)) || (N07E != 17161800
 switch (O60wlz_4)
 {
 case 'a':
-X2e90vp468 = (int)floor(Kdf6);
+
 break;
 case 'b':
 ugf7C3F = cw77f37I0(EkVA);
@@ -282,7 +282,7 @@ case 'd':
 euF005 *= iaBB1A08W;
 break;
 case 'e':
-TuaC2z = upST % O60wlz_4;
+
 break;
 case 'f':
 VQKhi7u4++;
@@ -306,7 +306,7 @@ else
 {
 if (Bi05q5xn84 == upST)
 {
-ymBc543073 = dtv87(ymBc543073, k368kI91u, O60wlz_4);
+
 }
 }
 switch (Bi05q5xn84)
@@ -317,7 +317,7 @@ sPjXU %= ON57i;
 break;
 case 'b':
 case 'B':
-iqzBm1ygU2 = ptB_O(iqzBm1ygU2);
+
 break;
 }
 switch (N07E)
@@ -329,7 +329,7 @@ case 1:
 VL__ = dtv87(-1551221620, -1675348054, ugf7C3F);
 break;
 default:
-Kdf6 = (int)ceil(vcMA9);
+
 break;
 }
 EkVA %= 2020458111;
@@ -368,7 +368,7 @@ for (int i = 0; i < 10; i++)
 OKKBY9GDUU <<= 2042690678;
 }
 
-r8lBd9D9z = Y96i / cw77f37I0(1144872872);
+
 TuaC2z = (int)floor(M88e_L744t);
 {
 int i = 0;
@@ -384,7 +384,7 @@ try
 {
 for (int k = 8; k >= 0; k--)
 {
-Kdf6 = (int)ceil(V46afO2L);
+
 }
 }
 catch (int& errorCode)

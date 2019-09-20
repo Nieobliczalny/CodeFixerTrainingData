@@ -121,7 +121,7 @@ J22w8t8rs3 = (int)ceil(EUz5);
 switch (F_UeMo)
 {
 case 0:
-r2Quy0E = jfAjw << Hk795jZ0Y;
+
 break;
 case 1:
 wPX3yp >>= 1938098345;
@@ -136,7 +136,7 @@ case 4:
 se22 = B_MS | 857870999;
 break;
 case 5:
-r2Quy0E <<= jfAjw;
+
 break;
 case 6:
 EUz5 = (int)floor(A40u0308);
@@ -332,7 +332,7 @@ switch (duKm)
 {
 case 'a':
 case 'A':
-r2Quy0E = F_UeMo * 14853666;
+
 break;
 case 'b':
 case 'B':
@@ -425,7 +425,7 @@ case 4:
 AY_gKq0wtx = r2Quy0E << 1058951062;
 break;
 case 5:
-A40u0308 = (int)floor(d_q07);
+
 break;
 }
 
@@ -475,7 +475,7 @@ HlZ6_Qyv61 = (unsigned short)(Hk795jZ0Y);
 }
 }
 
-A40u0308 = (int)ceil(J22w8t8rs3);
+
 switch (luO_)
 {
 case 'a':
@@ -495,7 +495,7 @@ case 'D':
 JVU99_IOVc = i_22xkj1F << 263944833;
 break;
 default:
-Ae0M3_ = l1f3urpnU ^ 1429152221;
+
 break;
 }
 
@@ -506,7 +506,7 @@ if (zLgu2 != Hk795jZ0Y)
 switch (Hk795jZ0Y)
 {
 case 0:
-JVU99_IOVc = (int)floor(J22w8t8rs3);
+
 break;
 case 1:
 JVU99_IOVc = (int)floor(EUz5);
@@ -518,7 +518,7 @@ case 3:
 gM7ZXL = F_UeMo & 2048819645;
 break;
 case 4:
-JVU99_IOVc = (int)ceil(J22w8t8rs3);
+
 break;
 case 5:
 d_q07 = (int)abs(gM7ZXL);
@@ -540,7 +540,7 @@ else if (B_MS != -1279187835)
 {
 try
 {
-d_q07 = (int)ceil(JVU99_IOVc);
+
 }
 catch (int& errorCode)
 {

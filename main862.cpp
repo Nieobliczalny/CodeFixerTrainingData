@@ -117,7 +117,7 @@ UBWJde--;
 }
 }
 }
-iFI7_Xce9W = (unsigned char)(Vi6OWFAL);
+
 mTYS *= Z33237Y7BI;
 
 for (int i = 0; i < 2; ++i)
@@ -132,7 +132,7 @@ switch (AS1gz)
 {
 case 'a':
 case 'A':
-RDR0X = y1JDe86pFd / 939791425;
+
 break;
 }
 }

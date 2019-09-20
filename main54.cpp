@@ -24,7 +24,7 @@ int main(void) {
   long long  l5Lh8dM6_;
   l5Lh8dM6_  =  0;
  long long k0NY_y_;
- k0NY_y_ = 1580376753;
+
   unsigned long  mXtsO;
   mXtsO  =  942110245;
 	long long	rN6D4bo90;
@@ -96,7 +96,7 @@ case 'g':
 X5w03j = o07DjmFM5(-289954186, 635704490, -1067425651, 1767003606);
 break;
 default:
-mXtsO = kYWbyVag_i(iYu8FT, 2107967844, -622294750);
+
 break;
 }
 --j;
@@ -123,7 +123,7 @@ std::cout << o07DjmFM5(X5w03j, 1043176942, rN6D4bo90, iYu8FT) << iYu8FT << std::
 }
 else if (rN6D4bo90 < v2_orh9z2)
 {
-v2_orh9z2 >>= 1486960988;
+
 }
 else if (iYu8FT & 427633806)
 {
@@ -134,7 +134,7 @@ else
 switch (X5w03j)
 {
 case 'a':
-mXtsO = l5Lh8dM6_ ^ 1836677816;
+
 break;
 case 'b':
 mXtsO >>= 1236765871;
@@ -146,7 +146,7 @@ case 'd':
 rN6D4bo90 = (int)abs(k0NY_y_) * 0;
 break;
 case 'e':
-k0NY_y_ = iYu8FT & mXtsO;
+
 break;
 case 'f':
 k0NY_y_ = (int)abs(iYu8FT) + (368082239);
@@ -158,7 +158,7 @@ case 'h':
 k0NY_y_ = kYWbyVag_i(k0NY_y_, 815289911, -199235769) % mXtsO;
 break;
 case 'i':
-k0NY_y_ = kYWbyVag_i(X5w03j, -50091085, -187598932);
+
 break;
 case 'j':
 mXtsO = kYWbyVag_i(mXtsO, -240914158, 1683537166);

@@ -26,7 +26,7 @@ int main(int argc, char** argv) {
  float Mxi4X6, ychAqo3zRy, rpXCD_7nhy, rSQ5Mt18Lc, pE05_, FR15Hq, ak3_V;
  Mxi4X6 = -564334026;
  ychAqo3zRy = -554024407;
- rpXCD_7nhy = -2041814044;
+
  rSQ5Mt18Lc = 1529109065;
  pE05_ = 2074832464;
  FR15Hq = 1338527363;
@@ -342,7 +342,7 @@ ak3_V = vymAt5OP >> 133235711;
 
 Mxi4X6 = tAGL41_4Eg(vymAt5OP, rSQ5Mt18Lc) / vymAt5OP;
 
-Mxi4X6 -= rpXCD_7nhy;
+
 
 Mxi4X6 = (int)abs(ak3_V);
 switch (w3i3K7A_ao)
@@ -390,7 +390,7 @@ case 'a':
 FR15Hq = (int)ceil(ychAqo3zRy);
 break;
 case 'b':
-rpXCD_7nhy = pE05_ / 1713158308;
+
 break;
 case 'c':
 ak3_V = (int)abs(ychAqo3zRy);
@@ -402,7 +402,7 @@ case 'e':
 Mxi4X6 += pE05_;
 break;
 case 'f':
-F48Hud8k = D7kQ(pE05_, F48Hud8k, rSQ5Mt18Lc);
+
 break;
 case 'g':
 FR15Hq = M7nP_zg_tQ & 91482944;
@@ -414,7 +414,7 @@ case 'i':
 rpXCD_7nhy = tAGL41_4Eg(rpXCD_7nhy, -1418069800);
 break;
 case 'j':
-w3i3K7A_ao = D7kQ(ak3_V, 374338347, fU556);
+
 break;
 }
 }
@@ -430,7 +430,7 @@ int j = 0;
 do
 {
 ++j;
-rSQ5Mt18Lc = vymAt5OP / vymAt5OP;
+
 }
 while (j < 2);
 }

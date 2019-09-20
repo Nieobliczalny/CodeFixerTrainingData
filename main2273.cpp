@@ -42,7 +42,7 @@ case 0:
 HG23TcS--;
 break;
 case 1:
-a78Pd1wrtG = (int)abs(AG35u);
+
 break;
 case 2:
 a78Pd1wrtG = L4xcv(a78Pd1wrtG, -364727685, -50256958, -1834125213);
@@ -66,7 +66,7 @@ case 8:
 T1Ra0_d = (int)abs(dP5PQk9);
 break;
 default:
-a78Pd1wrtG = l56o ^ nd_Fyx;
+
 break;
 }
 
@@ -76,7 +76,7 @@ cout << "GH08xAfF" << YUw6LG0m << endl;
 
 if (K2UbI == 0)
 {
-	dP5PQk9 = 1378733472 / K2UbI;
+
 }
 
 switch (HG23TcS)

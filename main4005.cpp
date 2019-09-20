@@ -306,7 +306,7 @@ case 6:
 v_I7q1_R -= f4_H11Kfp;
 break;
 case 7:
-TC32PC8u_ = gNS59(185413498);
+
 break;
 case 8:
 f4_H11Kfp = (int)ceil(b90HT);
@@ -377,7 +377,7 @@ case 0:
 f4_H11Kfp = v_I7q1_R * 1627077263;
 break;
 case 1:
-bb0rjtGi = bb0rjtGi - 41766157;
+
 break;
 case 2:
 b90HT = (v_I7q1_R) ? -1658230072 : qPKM5;

@@ -20,7 +20,7 @@ int main() {
  float L_iEfBn;
  L_iEfBn = -998905982;
  int zd1_j;
- zd1_j = 874435560;
+
   unsigned long  y1_5a1_;
   y1_5a1_  =  -1580273276;
  short e2jqCv;
@@ -36,7 +36,7 @@ int main() {
  long QD_b7k;
  QD_b7k = 1683256535;
  float EjI7;
- EjI7 = 481956673;
+
     int    FR5CxVZ5t5;
     FR5CxVZ5t5    =    -461588001;
 	char	MtPt11UV7o;
@@ -164,7 +164,7 @@ switch (v53k0ZP)
 {
 case 'a':
 case 'A':
-E1ze45blO = mdKD7i5(1675784235, MtPt11UV7o, 1075879229, zd1_j, 560946265);
+
 break;
 case 'b':
 case 'B':

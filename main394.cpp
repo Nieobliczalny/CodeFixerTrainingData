@@ -29,7 +29,7 @@ int main(void)
  long PB9C9656vX;
  PB9C9656vX = 687936087;
 	unsigned int	jHudR4_i26;
-	jHudR4_i26	=	72395696;
+
 	long double	xDoy;
 	xDoy	=	-1108399271;
 	unsigned int	PtWVJp;
@@ -293,7 +293,7 @@ catch (int& errorCode)
 NLBjaVlDP = (int)abs(yaq4j);
 }
 
-c58AwZ = r2C151cE - jHudR4_i26;
+
 
 for (int i = 0; i < 3; ++i)
 {
@@ -309,7 +309,7 @@ else
 switch (xw8RtdcpY2)
 {
 case 'a':
-r2C151cE = xw8RtdcpY2 ^ Mqr047HJ6;
+
 break;
 }
 }
@@ -336,7 +336,7 @@ RP1rZ0 = (int)ceil(l2SOA4e);
 switch (AnTkyE3jt)
 {
 case 'a':
-c58AwZ = (int)abs(xDoy);
+
 break;
 case 'b':
 eR0ohVb = adW0O4 * 1302617819;
@@ -351,7 +351,7 @@ switch (os9Dy)
 {
 case 'a':
 case 'A':
-d30IoS0ToM = Rv3LfV50 >> 2096065414;
+
 break;
 case 'b':
 case 'B':

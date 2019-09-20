@@ -235,7 +235,7 @@ BG2PI /= 5977998;
 break;
 case 'h':
 case 'H':
-v8CeBEPp = (int)abs(xe4nZn3);
+
 break;
 case 'i':
 case 'I':
@@ -549,7 +549,7 @@ else
 switch (L428ho5)
 {
 case 0:
-v8CeBEPp = Sj27(410388662);
+
 break;
 }
 }

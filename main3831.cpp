@@ -65,7 +65,7 @@ else if ((rdfsnT18yk < yP6cb3EE0) || (x615sdTzS != -1993003762))
 {
 if (WWwc3 & XCzO)
 {
-xo1AQ = (int)ceil(Z_F6Cq5KZd);
+
 }
 else
 {
@@ -110,7 +110,7 @@ case 3:
 hvkeY /= hvkeY;
 break;
 case 4:
-uK0_7J = nus_0 / 992905573;
+
 break;
 case 5:
 Se0YfV *= 338272434;
@@ -136,7 +136,7 @@ std::cout << B6kB0e6 << W5u53 << "kPr4iK0Wgu" << WBzBzQhYP << XCzO << std::endl;
 }
 else if (hvkeY)
 {
-uK0_7J += AGg86v4hXV;
+
 }
 else
 {
@@ -150,7 +150,7 @@ if (XCzO >= rdfsnT18yk)
 int j = 3;
 do
 {
-IWyvSy1 = rdfsnT18yk * tD0rrNw8;
+
 --j;
 }
 while (j >= 0);
@@ -164,7 +164,7 @@ if ((Se0YfV == pQ7jt0cY_V) && ((yP6cb3EE0 == JF25) && (WBzBzQhYP == 1550790430))
 {
 if (Qy680Az53i <= 1763543296)
 {
-xo1AQ = (int)abs(rdfsnT18yk);
+
 }
 }
 else if (WWwc3 != nus_0)
@@ -185,7 +185,7 @@ else if (yKvH_5_Q >= yP6cb3EE0)
 int j = 5;
 do
 {
-uK0_7J = (long double)(QVd3_Z02Jz);
+
 --j;
 }
 while (j >= 0);
@@ -205,7 +205,7 @@ case 2:
 B6kB0e6 = WWwc3 >> 740120986;
 break;
 case 3:
-IWyvSy1 = WWwc3 % 1046271798;
+
 break;
 case 4:
 AGg86v4hXV = yP6cb3EE0 - Qy680Az53i;
@@ -216,7 +216,7 @@ break;
 }
 }
 
-rdfsnT18yk = (long double)(QVd3_Z02Jz);
+
 try
 {
 if (pQ7jt0cY_V == Z_F6Cq5KZd)

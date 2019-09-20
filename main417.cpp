@@ -19,7 +19,7 @@ unsigned char	fmRfn();
 int main()
 {
  int u0p55;
- u0p55 = 0;
+
   long long  q_5J_;
   q_5J_  =  0;
 	short	fp44v;
@@ -77,7 +77,7 @@ switch (q_5J_)
 {
 case 'a':
 case 'A':
-u0p55 = (int)abs(j6st7wUL) * 0;
+
 break;
 case 'b':
 case 'B':
@@ -226,7 +226,7 @@ fp44v = (int)abs(c754JhG);
 }
 else
 {
-u0p55 = fmRfn();
+
 }
 }
 }
@@ -327,7 +327,7 @@ q_5J_ = (int)abs(m9cy) * 0;
 A41EzU81Ar = (unsigned int)(c4WepMBC);
 
 AIol9G = u_6T(AIol9G, -310921996, -970079705);
-iO5P4 = -590563933 / fmRfn();
+
 
 std::cout << m9cy << std::endl;
 
@@ -359,7 +359,7 @@ try
 {
 for (int k = 0; k < 1; k++)
 {
-fp44v = u_6T(1818750866, -572081339, -1568655914);
+
 }
 }
 catch (int& errorCode)
@@ -456,7 +456,7 @@ if ((q_5J_ != HkrHO) || (lV64yR2))
 {
 try
 {
-lV64yR2 = (short)(c754JhG);
+
 }
 catch (int& errorCode)
 {

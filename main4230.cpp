@@ -295,7 +295,7 @@ case 'c':
 m6U27U0bj2 >>= 2115124665;
 break;
 case 'd':
-Pay0 = Ofrazi | 19600837;
+
 break;
 case 'e':
 Pay0 |= m6U27U0bj2;
@@ -318,7 +318,7 @@ s1d2 /= m6U27U0bj2;
 }
 else
 {
-Pay0 = (int)abs(ylH7Rm);
+
 }
 try
 {
@@ -340,7 +340,7 @@ a561_8r = (int)abs(TZrI);
 }
 if (ylH7Rm == hKSOd)
 {
-hKSOd = (int)abs(Ofrazi);
+
 }
 else
 {

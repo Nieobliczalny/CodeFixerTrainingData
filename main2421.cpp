@@ -132,7 +132,7 @@ case 0:
 SexCfXsE = h4g__9 / 426898211;
 break;
 case 1:
-h4g__9 = (h4g__9 < WVu0) ? nGgfFBb : olLwBVe2;
+
 break;
 case 2:
 h4g__9 ^= 17793298;
@@ -425,7 +425,7 @@ std::cout << "s8BF9Mv" << MP3lCrVuxX << olLwBVe2 << h4g__9 << std::endl;
 
 if (anvs1it <= dn5K1)
 {
-IAHg8W = (short)(SexCfXsE);
+
 }
 else
 {
@@ -603,7 +603,7 @@ DHge_1q--;
 break;
 case 'b':
 case 'B':
-jY_9Fa1_nT |= WVu0;
+
 break;
 case 'c':
 case 'C':
@@ -615,7 +615,7 @@ WVu0 = (int)abs(z1L9p6QgDn);
 break;
 case 'e':
 case 'E':
-BS34NI %= anvs1it;
+
 break;
 case 'f':
 case 'F':
@@ -631,7 +631,7 @@ T4UDc09u = (int)abs(x8_2RASJE) + (690263242);
 break;
 case 'i':
 case 'I':
-owuyk3AN79 &= H8ig5r2;
+
 break;
 default:
 H8ig5r2 = R3vxf3s % WVu0;

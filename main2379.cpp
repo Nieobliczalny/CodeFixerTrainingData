@@ -80,7 +80,7 @@ int main()
  short naqJWOg = -1120558484;
  long double b91i2 = -104931813;
 
-a0nsF = 557467861 / x1UL45_1aU(-861177975);
+
 {
 int i = 0;
 do

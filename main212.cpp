@@ -43,7 +43,7 @@ case 'a':
 yz5_T /= 436765812;
 break;
 case 'b':
-w7_n = (s9s855 > yz5_T) ? 328286540 : v236;
+
 break;
 case 'c':
 x883_3Vuj <<= Kl7J;
@@ -55,7 +55,7 @@ case 'e':
 w7_n = XC11LNz379(267125531);
 break;
 case 'f':
-w7_n = yz5_T % 1755080384;
+
 break;
 case 'g':
 yz5_T = y65GCi_ | x883_3Vuj;
@@ -129,7 +129,7 @@ Kl7J = v236 * m0W1aloEK;
 
 if ((qFtKV & -1540770736) && (d__oX6xUQb != 605093929))
 {
-Kl7J >>= x883_3Vuj;
+
 }
 else
 {
@@ -149,7 +149,7 @@ do
 int j = 10;
 while (j >= 0)
 {
-yz5_T = XC11LNz379(-979051027);
+
 j--;
 }
 }
@@ -171,7 +171,7 @@ if (SrL5 <= 1918404440)
 {
 if (v236 >= 1641237462)
 {
-w7_n = IC2V(2074891314);
+
 }
 }
 
@@ -181,7 +181,7 @@ case 0:
 v236 = SrL5 ^ 1720384499;
 break;
 case 1:
-yz5_T = XC11LNz379(-350762673);
+
 break;
 }
 
@@ -193,7 +193,7 @@ std::cout << m0W1aloEK / dONgaO0 << std::endl;
 m0W1aloEK = (unsigned short)(v236 * m0W1aloEK);
 x883_3Vuj |= 1937355019;
 
-SrL5 = (unsigned short)(x883_3Vuj * SrL5);
+
 
 {
 int i = 0;

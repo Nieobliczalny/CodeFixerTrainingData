@@ -74,7 +74,7 @@ oT9ZG35 = (int)ceil(vQ8iR33729);
 break;
 case 'b':
 case 'B':
-wribmf = Csw9_u9P3 * wribmf;
+
 break;
 case 'c':
 case 'C':
@@ -85,7 +85,7 @@ case 'D':
 Csw9_u9P3 = (int)abs(vQ8iR33729);
 break;
 default:
-Csw9_u9P3 = jXe_5_9ew_(vQ8iR33729, oT9ZG35, -357635631) & 2099036664;
+
 break;
 }
 

@@ -339,7 +339,7 @@ vt0gOSnr = qx072rWQ4(1394038552, vt0gOSnr);
 }
 else if ((M_g6IwL59) || ((vt0gOSnr != Osm7bS3_b) || (pE0FH1efT == VrFE9)))
 {
-v2Bus1PE = iP3RW7s | vt0gOSnr;
+
 }
 else if (v2Bus1PE & nFc1ER)
 {
@@ -495,7 +495,7 @@ case 1:
 nh0sLHsX = HTsWc(346602575, IR5mmBkZM_, nh0sLHsX, -1255629209);
 break;
 case 2:
-v2Bus1PE = qx072rWQ4(X3rN3F, 706777119);
+
 break;
 case 3:
 nHggv0D >>= 608586333;
@@ -542,7 +542,7 @@ int k = 0;
 do
 {
 ++k;
-v2Bus1PE = qx072rWQ4(-1087489509, pE0FH1efT);
+
 }
 while (k < 3);
 }

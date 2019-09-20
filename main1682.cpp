@@ -67,7 +67,7 @@ case 0:
 w86E8Vr++;
 break;
 case 1:
-e0jMUcEe19 = e0jMUcEe19 >> 1495212542;
+
 break;
 case 2:
 FFrw6y = vT7p5txQ_1(55663150);
@@ -91,7 +91,7 @@ try
 switch (fzn7B4)
 {
 case 'a':
-R8d4c += 1117958735;
+
 break;
 case 'b':
 F_EXy = vT7p5txQ_1(O1nMy3);

@@ -70,7 +70,7 @@ int main(void) {
 
 if ((n_Di1au6 & -1008685104) && (ZZty_ <= g3J7J62e8P))
 {
-jMLgmimFK2 = (long double)(g3J7J62e8P + (998565843));
+
 }
 else
 {
@@ -86,7 +86,7 @@ std::cout << Opd1N7gymW << std::endl;
 switch (lYWcK_q2)
 {
 case 0:
-kHdv7rxXY = q013C2iT6c(VAV2_d_0c1, -348480121, 2072923955);
+
 break;
 case 1:
 Cl79UOpiZ = q013C2iT6c(Cl79UOpiZ, -184618560, 657874262);
@@ -97,7 +97,7 @@ if ((Nmj15rb / PxyY(2067274819, BS_uDUAS, -1512874063)) == -436079773)
 lYWcK_q2 = Fjl_tN3EyW / hAzc1hq;
 }
 
-N44XA = (unsigned int)(g3J7J62e8P + (1334746793));
+
 
 return 0;
 }

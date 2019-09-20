@@ -516,7 +516,7 @@ case 'g':
 h8j99LhK = flrpZ(h8j99LhK);
 break;
 case 'h':
-CrNTPdM_e = flrpZ(356400908);
+
 break;
 default:
 F6es1tWKn = x34Q_3_Ec | 1860967268;
@@ -601,7 +601,7 @@ F6es1tWKn = zc2CT_ZS(F6es1tWKn, AXjQrIhkP, x34Q_3_Ec);
 wrkg = (short)(ov3L * wrkg);
 h8j99LhK = (char)(k14Q1WlG);
 
-XwONqle0 %= 704248603;
+
 return 0;
 }
 

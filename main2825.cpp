@@ -52,7 +52,7 @@ int main(void)
     unsigned int    nW7tHw;
     nW7tHw    =    355920565;
   short int  zD_sR9l;
-  zD_sR9l  =  -1180345993;
+
 	char	dwv0_vqu1P;
 	dwv0_vqu1P	=	-265777160;
 	unsigned short	D02KZ0;
@@ -79,7 +79,7 @@ vqt0V %= 1380657254;
 switch (wdsQ)
 {
 case 'a':
-dwv0_vqu1P += 1479255327;
+
 break;
 case 'b':
 D02KZ0++;
@@ -129,7 +129,7 @@ f4z3iJ /= ur7L6AI;
 int i = 8;
 while (i >= 0)
 {
-dwv0_vqu1P = f69a - 1878352004;
+
 --i;
 }
 }
@@ -139,7 +139,7 @@ case 0:
 u7D5Si_8LA = D373xe0(2060888752, -345993949);
 break;
 case 1:
-wdsQ = (int)abs(f69a);
+
 break;
 case 2:
 fKjdIUz %= 186507648;
@@ -185,7 +185,7 @@ switch (f4z3iJ)
 {
 case 'a':
 case 'A':
-f69a = (int)floor(frCXX);
+
 break;
 case 'b':
 case 'B':
@@ -197,7 +197,7 @@ break;
 }
 }
 
-wdsQ = l20cQ1q0EG / xV8A3Dq_;
+
 
 {
 int i = 1;
@@ -209,7 +209,7 @@ u7D5Si_8LA = O36c2_(-1559890854, ur7L6AI, 1421517711, -1572755046, xV8A3Dq_);
 while (i >= 0);
 }
 
-fKjdIUz = (int)abs(ur7L6AI);
+
 
 return 0;
 }

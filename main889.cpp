@@ -91,7 +91,7 @@ int main(int argc, char** argv) {
   short int  pqUdHn4  =  784741703;
 	char	L_G6O_5X7	=	-730784004;
 
-eNaG32v0g0 += fV9_pn;
+
 
 xV__ = zSq9Tf();
 
@@ -102,7 +102,7 @@ int j = 0;
 do
 {
 ++j;
-Vi6x6I = (int)abs(xdiI5rad2);
+
 }
 while (j < 7);
 }
@@ -112,7 +112,7 @@ dqqtKT = (int)ceil(ek7S);
 
 for (int i = 0; i < 4; ++i)
 {
-LAqxzUM = (long double)(n_Gn);
+
 }
 if (Xl6W != -174754979)
 {
@@ -123,7 +123,7 @@ for (int i = 6; i >= 0; i--)
 {
 fV9_pn = (unsigned short)(mdF5La9qL);
 }
-Du960B = (unsigned long long)(fa5O8_11);
+
 if ((-1348719723 / xV__) <= 871501069)
 {
 k519k = -619465070 / iiF47G4iI;
@@ -163,7 +163,7 @@ std::cout << "NoOY0" << std::endl;
 }
 else
 {
-dqqtKT = (long double)(mdF5La9qL);
+
 }
 
 return 0;

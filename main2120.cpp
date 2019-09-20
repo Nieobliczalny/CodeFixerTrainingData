@@ -150,7 +150,7 @@ yNZ8IN = bo3BOil6w(q51744);
 break;
 case 'i':
 case 'I':
-NB12hNE1H4 = RFxT(-1684518676, 896988833, 1499743453, -1906702683);
+
 break;
 }
 }
@@ -180,7 +180,7 @@ try
 {
 if (jmdN3 & brbRVdy4)
 {
-Hm8Z5_ = RFxT(WOUqh, Hm8Z5_, -213360812, -1070341602);
+
 }
 else
 {
@@ -275,7 +275,7 @@ z2aw5D = fa1av - 1685046172;
 }
 else if (Ex_D7 != F4rUe)
 {
-fa1av = (unsigned char)(w_32lh83);
+
 }
 else if (Dlkf > DI_8g_lj9)
 {
@@ -415,7 +415,7 @@ Sp4Tu7_RH = (int)(vYRUfB8q2);
 int i = 5;
 while (i >= 0)
 {
-frmO1c8E = FBod_3c | 1989254451;
+
 --i;
 }
 }
@@ -465,7 +465,7 @@ else if (I9ma5h == 1521390940)
 {
 if ((tfhs9ev4sG < -1065526811) && ((yZqX) || (SLoP >= kfHkS38S)))
 {
-F4rUe = aD7FgP + Dlkf;
+
 }
 else
 {
@@ -515,7 +515,7 @@ F4rUe++;
 }
 else
 {
-yZqX &= P4cJt8;
+
 }
 }
 }
@@ -536,7 +536,7 @@ for (int i = 0; i < 9; i++)
 cout << HM_a << I_3f28oMJ << bo3BOil6w(-1932162605) << endl;
 }
 
-S3H7j = bo3BOil6w(Gp7Qzi) << r80Uud8v3;
+
 try
 {
 switch (Eu3D58)
@@ -548,7 +548,7 @@ case 'b':
 WOUqh = bo3BOil6w(392694489);
 break;
 case 'c':
-jmdN3 = (int)abs(xj0TJ490);
+
 break;
 case 'd':
 WOUqh = bo3BOil6w(h71QwW49XW);
@@ -579,7 +579,7 @@ case 'b':
 nkUot = (int)floor(T42quV);
 break;
 case 'c':
-vYRUfB8q2 <<= 962661172;
+
 break;
 case 'd':
 h8PvD = (int)ceil(nkUot);
@@ -600,7 +600,7 @@ case 'i':
 a2C_NU = (int)ceil(JmgaqHiBs5);
 break;
 case 'j':
-WS48__OEB = WS48__OEB - 1884447867;
+
 break;
 }
 }
@@ -629,7 +629,7 @@ I9ma5h = bo3BOil6w(z2aw5D) | 1909998949;
 break;
 case 'c':
 case 'C':
-Gp7Qzi |= 1001217134;
+
 break;
 default:
 xYK6g = bo3BOil6w(PWH97Vjp);
@@ -640,7 +640,7 @@ else if (MtbB & 1857288769)
 {
 for (int k = 0; k < 1; ++k)
 {
-ll34AyV8 = h71QwW49XW ^ 73569266;
+
 }
 }
 else
@@ -674,7 +674,7 @@ case 'b':
 JmgaqHiBs5 = (int)floor(h8PvD);
 break;
 case 'c':
-DIrP6P88 = (NKC8t0rAx == RjyQ11f) ? RFxT(1228220990, 756375719, -729759267, WOUqh) : -103008268;
+
 break;
 }
 }
@@ -696,7 +696,7 @@ nkUot = (int)floor(JmgaqHiBs5);
 }
 else
 {
-VyA6NP = ntcceSBtj | 1989660981;
+
 }
 }
 else if ((lc61Pyl > 1940607521) || (PWH97Vjp))
@@ -718,7 +718,7 @@ else if (ag87Y1arQ != w88JsI)
 {
 for (int k = 0; k < 5; k++)
 {
-w_32lh83 = RFxT(744346938, -34285184, -1010534243, 266562406);
+
 }
 }
 else
@@ -740,7 +740,7 @@ while (i >= 0);
 switch (C_k6)
 {
 case 0:
-a2C_NU = (int)floor(JmgaqHiBs5);
+
 break;
 case 1:
 I9ma5h >>= HM_a;
@@ -750,7 +750,7 @@ pkTJ08D9k++;
 break;
 }
 
-lg3iOXjJw = (int)abs(kfHkS38S);
+
 
 return 0;
 }

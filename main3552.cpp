@@ -309,7 +309,7 @@ while (j < 10)
 switch (nh5ef)
 {
 case 0:
-ej_52z5z = d4B5_e();
+
 break;
 case 1:
 GUEY = (int)abs(wT_Y5_clT);

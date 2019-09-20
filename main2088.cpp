@@ -36,7 +36,7 @@ std::cout << eo4Mj << TDB332O << famB1653(lC85Q877E1, 703662863, z4WAlL2g, -1872
 }
 }
 
-NE0SdvA58y = (short int)(GFLiH_jmdV + (1094013100));
+
 {
 int i = 0;
 while (i < 9)
@@ -59,7 +59,7 @@ i--;
 switch (r11j)
 {
 case 0:
-Yrn44b = (int)abs(Dm80zai1);
+
 break;
 case 1:
 eo4Mj = (int)abs(iTK9HR5d);
@@ -99,7 +99,7 @@ Sp3n5s0v = zGQah2V6 + tWKN6b197;
 }
 std::cout << "N6Dd7" << LV72Q(303894507, Dm80zai1, NzP5W0mfF, 1579714612, A_T1sj) << "Z0BrjNW0" << LV72Q(1655816819, Dm80zai1, 841727713, UZ15hLR6, A_T1sj) << TDB332O << std::endl;
 
-Dm80zai1 -= 2112287835;
+
 
 return 0;
 }

@@ -57,7 +57,7 @@ int main(int argc, char** argv)
     unsigned long    R9o2_3;
     R9o2_3    =    1998563454;
   unsigned short  BnrD6;
-  BnrD6  =  1614648658;
+
     unsigned short int    kL0lhj0Iy;
     kL0lhj0Iy    =    -2028312462;
  float E48tv2um;
@@ -67,7 +67,7 @@ int main(int argc, char** argv)
  int QITJWQp;
  QITJWQp = -745056691;
 
-dT_Q = hgZO(dT_Q, m0c9gI, 388717687);
+
 QITJWQp &= ws_J02EE1C;
 try
 {
@@ -91,7 +91,7 @@ case 3:
 vV9S_ = hgZO(-1819435024, aoknPwW_y, 1029434350);
 break;
 case 4:
-dT_Q = Gx6O_5(-1492439679, aoknPwW_y, mFoq4k_E, TN_495DOz) / TN_495DOz;
+
 break;
 case 5:
 w010kW8 /= 1924566116;
@@ -165,7 +165,7 @@ TpQ3 = Gx6O_5(-2019354612, -610195518, mFoq4k_E, -1983772784);
 break;
 case 'c':
 case 'C':
-w010kW8 = hgZO(w010kW8, -445766875, 1486651589);
+
 break;
 case 'd':
 case 'D':

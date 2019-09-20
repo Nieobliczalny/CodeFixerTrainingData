@@ -65,7 +65,7 @@ int main()
     float    J4vLbpsE;
     J4vLbpsE    =    -1730311478;
     unsigned int    Vgjv;
-    Vgjv    =    -419672545;
+
 	long	niH11_4W5;
 	niH11_4W5	=	1004783042;
  double KkOi_nvyV_;
@@ -93,7 +93,7 @@ int main()
 	long long	Y0WO;
 	Y0WO	=	0;
  unsigned long long i52e;
- i52e = 1881505399;
+
  float bG2_;
  bG2_ = -1405346169;
  unsigned int Cja3uHj;
@@ -105,7 +105,7 @@ if (Bhm7a6 != KkOi_nvyV_)
 {
 if (T0j__ & Vgjv)
 {
-Vgjv = dPj3E(25600422, 1397643682);
+
 }
 else if (aIFKk87 < Vx63t)
 {
@@ -162,7 +162,7 @@ else
 std::cout << "x4t_G83_" << "E87V639" << JDdisjO(Jfu8z, -740766325) << Ra48I5JIDV << niH11_4W5 << std::endl;
 }
 Cja3uHj >>= Vx63t;
-i52e = (unsigned long long)(s_1g3 + (-926278474));
+
 
 VCJz81e = VCJz81e / Y0WO;
 if (E3794)
@@ -186,7 +186,7 @@ else if (khe33r5f & L9en810)
 {
 if ((Cja3uHj < 1297710493) && ((KkOi_nvyV_ != 1556933821) || (Vx63t < bG2_)))
 {
-H_mNod = (int)abs(Ra48I5JIDV);
+
 }
 else
 {
@@ -197,7 +197,7 @@ else if (((niH11_4W5 <= Bhm7a6) && (Cja3uHj >= J4vLbpsE)) || (A_O5yV96 >= Cja3uH
 {
 if (((z03zq == 2034615285) || (x6771G0 != 1198926637)) || ((L9en810 >= z03zq) || (z03zq == -1795748650)))
 {
-KkOi_nvyV_ = (int)floor(J4vLbpsE);
+
 }
 else if (z03zq != A_O5yV96)
 {
@@ -212,7 +212,7 @@ else if (KkOi_nvyV_ >= Yisq_8o1)
 {
 for (int k = 0; k < 7; k++)
 {
-Bhm7a6 = dPj3E(-395982744, KkOi_nvyV_);
+
 }
 }
 else
@@ -255,7 +255,7 @@ if (JrJ36RO > 2123659082)
 int k = 0;
 while (k < 6)
 {
-LE_f0rW = (int)abs(J4vLbpsE);
+
 k++;
 }
 }
@@ -272,7 +272,7 @@ try
 switch (T0j__)
 {
 case 'a':
-bG2_ = (int)floor(aIFKk87);
+
 break;
 case 'b':
 KkOi_nvyV_ = (int)ceil(J4vLbpsE);
@@ -284,7 +284,7 @@ case 'd':
 LE_f0rW = dPj3E(-650657566, 445118847);
 break;
 case 'e':
-gh9ZakA |= L9en810;
+
 break;
 case 'f':
 aIFKk87 = (int)ceil(VCJz81e);
@@ -308,7 +308,7 @@ UEFb4h_Lv = T0j__ % 1288443918;
 break;
 case 'b':
 case 'B':
-x6771G0 = N8thE9c();
+
 break;
 case 'c':
 case 'C':

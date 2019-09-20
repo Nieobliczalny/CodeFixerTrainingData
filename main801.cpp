@@ -24,7 +24,7 @@ int main(int argc, char** argv)
  short JWg0NsQj;
  JWg0NsQj = -1626379854;
 	long long	FNus97;
-	FNus97	=	1452628898;
+
 	long	T16C54G;
 	T16C54G	=	-1049303357;
   long  gB36V5nxMk;
@@ -300,7 +300,7 @@ Zq_p3 = (int)floor(U73O8);
 }
 else if (P1fR7xz >= T16C54G)
 {
-T16C54G <<= JWg0NsQj;
+
 }
 else
 {
@@ -527,7 +527,7 @@ case 6:
 wCh1d = (int)ceil(b08CEJi);
 break;
 case 7:
-Zq_p3 = (int)floor(Wy8xqGw0);
+
 break;
 default:
 MD0ZRfk3b = QI024H_S16(1855175856, MD0ZRfk3b, Ct27X11qT, Zq_p3);
@@ -559,7 +559,7 @@ switch (PlTQw83qv6)
 {
 case 'a':
 case 'A':
-Nk_P2V = Zca1_Ks2qw(Nk_P2V);
+
 break;
 case 'b':
 case 'B':
@@ -575,7 +575,7 @@ else if (Zq_p3 < d7FdQdhQJ)
 switch (qS99R8tGV)
 {
 case 0:
-RW5Y_q = (int)ceil(b08CEJi);
+
 break;
 case 1:
 MD0ZRfk3b = QI024H_S16(-1855371580, -129725886, -2102169452, -1066853917);
@@ -587,7 +587,7 @@ case 3:
 P1fR7xz = U73O8 * QuIE;
 break;
 case 4:
-P1fR7xz = Zca1_Ks2qw(-293862180);
+
 break;
 case 5:
 Zq_p3 = (int)floor(RW5Y_q);
@@ -653,7 +653,7 @@ case 3:
 YU12Gd3Il += 238671887;
 break;
 case 4:
-dM4QUMO5P = VYMh5pqd8K / 337349132;
+
 break;
 case 5:
 b08CEJi = (int)ceil(d7FdQdhQJ);

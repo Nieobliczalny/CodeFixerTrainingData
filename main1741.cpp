@@ -37,7 +37,7 @@ case 'a':
 xK49i = LgV7_Z4I / mbxX8e;
 break;
 case 'b':
-SjZUm7q4W = Glkcbm8 >> dnK20;
+
 break;
 default:
 dnK20 -= k6H4O16;
@@ -47,7 +47,7 @@ break;
 i--;
 }
 }
-dnK20 = (unsigned short int)(ARvd);
+
 dnK20 = TA80u8fP - 780524542;
 Glkcbm8 = 2006622752 / mbxX8e;
 cout << Glkcbm8 << BVBl9M << LgV7_Z4I << BVBl9M << endl;
@@ -161,7 +161,7 @@ int j = 7;
 do
 {
 j--;
-SjZUm7q4W = (char)(A4V4W63kdm);
+
 }
 while (j >= 0);
 }

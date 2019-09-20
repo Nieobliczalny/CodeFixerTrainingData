@@ -19,7 +19,7 @@ int main(int argc, char** argv)
     long long    on14iM;
     on14iM    =    -1502340164;
     unsigned char    sSUGXgrUv5;
-    sSUGXgrUv5    =    -1537121423;
+
     char    ZrjKR_ysk;
     ZrjKR_ysk    =    -196195524;
   long  Te_AzrX;
@@ -65,7 +65,7 @@ int main(int argc, char** argv)
     char    fYumqu;
     fYumqu    =    2104738304;
 	unsigned short int	S_z_U;
-	S_z_U	=	-1890720906;
+
  unsigned short Zio2KhE1p;
  Zio2KhE1p = 279537732;
     float    urKhSD;
@@ -97,7 +97,7 @@ int main(int argc, char** argv)
  unsigned char ILjA1;
  ILjA1 = 0;
  short int pqotxO;
- pqotxO = 219032645;
+
   unsigned int  hTg3Rd3_PP;
   hTg3Rd3_PP  =  -1190950025;
 	long double	TLb643;
@@ -230,7 +230,7 @@ int k = 0;
 while (k < 4)
 {
 k++;
-sSUGXgrUv5 = gy1A - Zio2KhE1p;
+
 }
 }
 }
@@ -294,7 +294,7 @@ XoUR3I804 -= PV55;
 }
 else
 {
-sL2psol89 *= lgLyfLP3hH;
+
 }
 }
 }
@@ -346,7 +346,7 @@ case 3:
 TLb643 = (int)floor(yn3u2jdqST);
 break;
 case 4:
-w09Uh = (int)floor(o4sos4mH);
+
 break;
 case 5:
 fYumqu = hsPz66zmle(-336125317, -1774536968, yn3u2jdqST, pj83, -1765012680);
@@ -373,7 +373,7 @@ case 0:
 E4qu_5yf <<= sKvH;
 break;
 case 1:
-V4UdFplN = h_s3rR6(1497874989, pj83, -982309607) << gy1A;
+
 break;
 case 2:
 on14iM &= oLpFqwU;
@@ -388,7 +388,7 @@ case 5:
 lgLyfLP3hH = h_s3rR6(-1053387151, -1746832978, -143192935);
 break;
 case 6:
-vJC5g = hsPz66zmle(vJC5g, -558066528, TLb643, 2006769008, E4qu_5yf);
+
 break;
 case 7:
 t7IF0Gw_12 = h_s3rR6(1000139355, 350711347, TLb643) + 368693595;
@@ -410,7 +410,7 @@ while (i >= 0)
 ILjA1 = h_s3rR6(fYumqu, LzsWuA, -370066921);
 }
 }
-fYumqu = 1138958393 / Xgq3;
+
 
 PV55 = hsPz66zmle(-1920225755, Z_0bhIo, oLpFqwU, LzsWuA, o4sos4mH);
 try

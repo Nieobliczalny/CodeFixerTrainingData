@@ -54,7 +54,7 @@ int main(void)
   short  rjvL10M;
   rjvL10M  =  1897876420;
  int yQTDVmOh;
- yQTDVmOh = 904527566;
+
   unsigned long long  SIF4w3aE;
   SIF4w3aE  =  -1960999422;
   unsigned short  pJ1BOe1Y_;
@@ -310,7 +310,7 @@ case 1:
 U333HS >>= uWA1c0;
 break;
 case 2:
-rjvL10M = Pr7o6G >> f0x90;
+
 break;
 case 3:
 Vo77r1G7 = (int)abs(f0x90);
@@ -322,7 +322,7 @@ case 5:
 wQ_q >>= f0x90;
 break;
 default:
-rjvL10M += Pr7o6G;
+
 break;
 }
 }
@@ -343,7 +343,7 @@ int k = 3;
 do
 {
 k--;
-IN1gy3_El = Vo77r1G7 << lO_BqvM_32;
+
 }
 while (k >= 0);
 }
@@ -357,7 +357,7 @@ sz2h7ZjlQ_ = imSgTa + 1585393880;
 }
 else if (jOsu <= -460918360)
 {
-JP6I8F_9c = (short int)(c2g4kn);
+
 }
 else if (rjvL10M != tfD9)
 {
@@ -439,7 +439,7 @@ WMZH7c8 &= 1752557377;
 }
 else if (jl2IATQ <= imSgTa)
 {
-IN1gy3_El = (int)ceil(imSgTa);
+
 }
 else if (((f0x90) && (sbu5yl0Bz6 <= UKQ49yn3M)) || ((lO_BqvM_32 == -806314937) || (jl2IATQ <= N9144sL8)))
 {
@@ -451,7 +451,7 @@ IN1gy3_El = (int)abs(imSgTa);
 }
 else
 {
-b_U_ *= c2g4kn;
+
 }
 }
 }
@@ -502,7 +502,7 @@ case 2:
 U_Z7h = U333HS % 111080937;
 break;
 case 3:
-IN1gy3_El = EY5l48 | Pr7o6G;
+
 break;
 case 4:
 eQ89KcKeL1 |= 1085230404;
@@ -530,7 +530,7 @@ if (((mA2iv4 > -621307659) && (pJ1BOe1Y_ <= smyC)) && ((jOsu != 1155006450) && (
 switch (Vo77r1G7)
 {
 case 0:
-c2g4kn &= 757330487;
+
 break;
 case 1:
 Pr7o6G = ID3o_UP9A * 435303140;
@@ -545,7 +545,7 @@ case 4:
 U_Z7h = (int)ceil(YqMd6Sp);
 break;
 case 5:
-jl2IATQ = (int)floor(U_Z7h);
+
 break;
 }
 }
@@ -573,7 +573,7 @@ try
 {
 if (jl2IATQ != lO_BqvM_32)
 {
-yQTDVmOh >>= mA2iv4;
+
 }
 else
 {
@@ -587,7 +587,7 @@ ID3o_UP9A *= U333HS;
 }
 else if (sbu5yl0Bz6 == smyC)
 {
-imSgTa = (int)floor(jl2IATQ);
+
 }
 else if ((f0x90 == UKQ49yn3M) || (pJ1BOe1Y_ >= 1179352460))
 {
@@ -601,7 +601,7 @@ while (j >= 0)
 {
 for (int k = 5; k >= 0; --k)
 {
-IN1gy3_El = (int)abs(ZezX2eJ);
+
 }
 --j;
 }
@@ -621,7 +621,7 @@ case 1:
 ID3o_UP9A >>= SIF4w3aE;
 break;
 case 2:
-jl2IATQ = (int)ceil(bD3o8NmTTT);
+
 break;
 case 3:
 eQ89KcKeL1++;
@@ -636,7 +636,7 @@ case 6:
 bD3o8NmTTT = tfD9 << 1131680573;
 break;
 case 7:
-N9144sL8 /= f0x90;
+
 break;
 default:
 sz2h7ZjlQ_ = zyLNw_Seh_ >> 1169200639;

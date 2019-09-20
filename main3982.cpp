@@ -191,7 +191,7 @@ if (((QoWdF_6nB6 & -695590613) || (hfj_rzk314 > -1679434712)) || (e8_HeD1j3t < 1
 std::cout << hfj_rzk314 << "l64i6d" << std::endl;
 }
 
-QoWdF_6nB6 = (int)(ItT51As);
+
 
 e8_HeD1j3t = -1435185249 / g035JXqp;
 return 0;

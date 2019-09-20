@@ -178,7 +178,7 @@ FKylU2x0 = L6_2_W / 2107554053;
 switch (h819)
 {
 case 'a':
-EylKR0_Bh = Uh62x_s(EylKR0_Bh, l4dI, tM0I6c468c);
+
 break;
 case 'b':
 yUacBe_E1 = (wll8Fgdz3 >= -849282893) ? uf9LP1R(-810094188, l4dI) : l4dI;
@@ -502,7 +502,7 @@ case 0:
 nr0_hHU89F = Z26A7(1930507435, TW4_, n4UuM, -1398540436, 1200279090);
 break;
 case 1:
-l4dI = (int)abs(r89q0Lh4W);
+
 break;
 default:
 DexXOt = SX_V(-1413607506, k5h7, r89q0Lh4W, EylKR0_Bh, DexXOt);
@@ -517,7 +517,7 @@ int j = 6;
 while (j >= 0)
 {
 j--;
-DexXOt = (short)(JMO_E2sG1_);
+
 }
 }
 }
@@ -530,7 +530,7 @@ while (j < 9)
 ++j;
 try
 {
-DexXOt = SX_V(j2c344El0, -1129810726, 138432276, EylKR0_Bh, gc9YhzLV5);
+
 }
 catch (int& errorCode)
 {

@@ -149,7 +149,7 @@ case 4:
 smD2J0 = (int)abs(n8VTv);
 break;
 case 5:
-Q387D = SNJNY % NfPul_z6;
+
 break;
 case 6:
 C1z6q = (int)abs(Z2o65);
@@ -275,7 +275,7 @@ case 8:
 W7Jd &= Z2o65;
 break;
 case 9:
-gI6532 = ddJZd69b | 985380352;
+
 break;
 }
 }
@@ -299,7 +299,7 @@ else if (qc9Wz7 < 253430895)
 {
 if (ddJZd69b == muW6)
 {
-SNJNY = qc9Wz7 + KOVas_;
+
 }
 }
 else if (KOVas_ != oDSQ51)
@@ -327,7 +327,7 @@ while (k >= 0);
 }
 }
 }
-n8VTv = n8VTv | C1z6q;
+
 {
 int i = 9;
 while (i >= 0)

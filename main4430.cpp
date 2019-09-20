@@ -151,7 +151,7 @@ jGu_9tj4 = GWX9oj4(-875030943, jGu_9tj4);
 }
 for (int i = 0; i < 45; i++)
 {
-tiruFe_ = (unsigned long)(Z07cZ + (L3nR5APuAk));
+
 	Q4579KT = jGu_9tj4 / i;
 Q4579KT = i41894NnC(788049567);
 }
@@ -252,7 +252,7 @@ std::cout << "I2mniHEm" << jGu_9tj4 << s7AnqyW_gZ << std::endl;
 switch (tiruFe_)
 {
 case 'a':
-tiruFe_ = s7AnqyW_gZ >> 1800663156;
+
 break;
 case 'b':
 Q4579KT = cgR7m9_z_3 & 88248965;
@@ -293,7 +293,7 @@ case 1:
 Z07cZ = GWX9oj4(-2121447868, s7AnqyW_gZ);
 break;
 case 2:
-tiruFe_ = Z07cZ % X4_5y2mokn;
+
 break;
 case 3:
 Z07cZ = GWX9oj4(X4_5y2mokn, -992631091);
@@ -308,7 +308,7 @@ break;
 }
 }
 
-cgR7m9_z_3 = i41894NnC(Z07cZ);
+
 
 return 0;
 }

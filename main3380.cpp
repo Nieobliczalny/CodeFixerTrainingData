@@ -20,7 +20,7 @@ unsigned int    U8_m0(unsigned long    bG999ch,unsigned long long    k9UKW);
 
 int main() {
     short int    Q0jVdsqv7q;
-    Q0jVdsqv7q    =    0;
+
     short int    UQdX;
     UQdX    =    770922950;
  long FMoy_1Sp;
@@ -524,7 +524,7 @@ Z0TVo = Z0TVo + ML799jz;
 }
 else if (P_9ZdSD_5)
 {
-WhUz2 = (long long)(Z0TVo);
+
 }
 else if (UQdX > -1884327978)
 {

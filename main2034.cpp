@@ -312,7 +312,7 @@ case 4:
 z14mQIMS2 = (int)abs(gas9Pi7) + (28758554);
 break;
 case 5:
-v1p6f__6 = DH_b(92024514, -288205140);
+
 break;
 case 6:
 wQv3w1_Gi = gas9Pi7 & 985441267;
@@ -359,7 +359,7 @@ if (a4yfA > -24654624)
 int k = 5;
 while (k >= 0)
 {
-e_y3W = bjA7A2_8(-1941453543, nq42j26, -960568533, -2134007459);
+
 k--;
 }
 }
@@ -468,7 +468,7 @@ nq42j26 = OG1oDS / nq42j26;
 }
 else if (us5z < -1426288396)
 {
-c1wB_25 = N1cCH2H(-770630542, TzR74a, 746683394, a4yfA);
+
 }
 else
 {

@@ -36,7 +36,7 @@ int main(void) {
  unsigned char PDnbE;
  PDnbE = -182166002;
   long double  jbl00_Kc;
-  jbl00_Kc  =  -1773374017;
+
   unsigned short int  Hw8oL;
   Hw8oL  =  -678510123;
     unsigned char    r00UB60b4_;
@@ -324,7 +324,7 @@ F8uAEhD1 = (int)abs(DDz6Kpa03);
 }
 }
 
-TNs9GMB_T5 = 1002244951 / I_06;
+
 
 for (int i = 4; i >= 0; i--)
 {
@@ -372,7 +372,7 @@ P77_c <<= b7x2;
 break;
 case 'b':
 case 'B':
-v6Y3B = MW9b9t4je - 1064571925;
+
 break;
 case 'c':
 case 'C':

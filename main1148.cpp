@@ -40,7 +40,7 @@ try
 switch (T49R868H)
 {
 case 0:
-GG8O56W = s_46540 >> Q4_C39G7k;
+
 break;
 case 1:
 t5hCdZ1 = FbA79(Ijc_89p);
@@ -76,7 +76,7 @@ while (i >= 0);
 
 pzNJI = FbA79(-1234178841);
 
-Djs5v = (unsigned short)(qJP0yuvT_U);
+
 
 if (pzNJI == -1369587849)
 {
@@ -238,7 +238,7 @@ std::cout << GG8O56W << FbA79(t5hCdZ1) << FbA79(786926852) << "SeUt" << std::end
 }
 else if (Q4_C39G7k == qJP0yuvT_U)
 {
-Djs5v = (Tj30C4m9I == xW095Ik6) ? Tj30C4m9I : 149485151;
+
 }
 else if (I6YN0 < 318618816)
 {
@@ -260,7 +260,7 @@ qB20 = (int)floor(zvtL3gN);
 }
 else if (zIjK07d <= Sd7z9v)
 {
-s_46540 = (unsigned long)(v6Z2N9d9S);
+
 }
 else if (TOmB <= 404981701)
 {
@@ -279,7 +279,7 @@ else
 switch (t5hCdZ1)
 {
 case 0:
-pzNJI = FbA79(-1834337724);
+
 break;
 case 1:
 GG8O56W--;

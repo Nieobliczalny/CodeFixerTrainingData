@@ -20,7 +20,7 @@ using std::floor;
 int main()
 {
     unsigned long    h9VZ_2;
-    h9VZ_2    =    1507691097;
+
     unsigned short int    eYF7;
     eYF7    =    -1859163458;
     unsigned short int    EBro_13e;
@@ -48,7 +48,7 @@ int main()
     unsigned char    nC20;
     nC20    =    -1897387498;
   short  VORMU5mO;
-  VORMU5mO  =  1232440538;
+
   unsigned long  E055XY;
   E055XY  =  -1286196912;
 
@@ -130,7 +130,7 @@ int k = 5;
 while (k >= 0)
 {
 --k;
-j80LO5F = (int)abs(zNGLHF);
+
 }
 }
 }
@@ -178,7 +178,7 @@ ztQYmv3_G = (int)abs(dQr1bZcC);
 }
 else if (E055XY >= 635328693)
 {
-j80LO5F = (dQr1bZcC == 972937461) ? h9VZ_2 : z_h_;
+
 }
 else
 {
@@ -193,7 +193,7 @@ while (j >= 0);
 switch (EBro_13e)
 {
 case 0:
-dQr1bZcC = (int)abs(eps9i);
+
 break;
 case 1:
 E055XY /= 1766772042;

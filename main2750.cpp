@@ -37,7 +37,7 @@ case 'c':
 RY_Q = (int)abs(n897) + (600862561);
 break;
 case 'd':
-n897 = sw4I();
+
 break;
 case 'e':
 n897 = sw4I();
@@ -71,7 +71,7 @@ int k = 0;
 while (k < 7)
 {
 ++k;
-n897 = sw4I();
+
 }
 }
 }
@@ -84,7 +84,7 @@ else
 {
 pey7 = (unsigned int)(V3HP_G);
 }
-n897 = sw4I();
+
 
 V3HP_G <<= zR1bg;
 {
@@ -101,7 +101,7 @@ if (pey7 <= 1101295775)
 {
 if (RY_Q < V3HP_G)
 {
-zR1bg -= 1975274704;
+
 }
 else if (pey7 <= V3HP_G)
 {
@@ -111,7 +111,7 @@ nNu3 ^= zR1bg;
 }
 else
 {
-V3HP_G ^= 136926804;
+
 }
 }
 else if (V3HP_G != n897)
@@ -122,7 +122,7 @@ case 0:
 pey7 = sw4I() | V3HP_G;
 break;
 case 1:
-zR1bg &= 1062258383;
+
 break;
 case 2:
 V3HP_G = pey7 | nNu3;
@@ -148,7 +148,7 @@ else if (zR1bg != -907170544)
 {
 if ((V3HP_G == 1191117729) && ((RY_Q < 1324835542) || (zR1bg >= 602747273)))
 {
-n897 = sw4I();
+
 }
 }
 else

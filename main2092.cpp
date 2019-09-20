@@ -48,7 +48,7 @@ case 5:
 G1N_++;
 break;
 default:
-IJFnW1DF = U21vPX >> 775402742;
+
 break;
 }
 }
@@ -270,7 +270,7 @@ dQe81_80 = (int)abs(W7X3rHMJ);
 }
 else if (((IJFnW1DF == WQ1FVq_6r) && (iH6rb0l0 & 1200675038)) || ((MZ3pK6B6 <= -1326069726) && (HI9m)))
 {
-W7X3rHMJ = (int)(Rqon86R8l);
+
 }
 else if ((L4qE6pkN != -1772649571) || ((c69Qvc5U1A < uJ_33G_4S) && (lS7_wZB == uJ_33G_4S)))
 {

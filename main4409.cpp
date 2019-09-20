@@ -169,7 +169,7 @@ std::cout << xtBMzj6_(K7D_) << TuJd << tow4ue(-1207141640, Wfye935q9s, oi2WpwjF6
 }
 
 oi2WpwjF6 = tow4ue(K7D_, -1589551069, oi2WpwjF6, Er4p0T) / pcuA_adL;
-Hk7LPp5 = (int)abs(K7D_);
+
 
 Hk7LPp5 = (float)(Er4p0T);
 try
@@ -560,7 +560,7 @@ Hk7LPp5 = (Wfye935q9s >= W5r2pgDh) ? OBn7 : V3_PXDh(TuJd, -640183607, Hk7LPp5, f
 
 if (((GD1T0O) || (K7D_ <= N_r3R9)) || ((f_Ox7 >= Hk7LPp5) && (Er4p0T <= -1328613580)))
 {
-Hk7LPp5 = (int)ceil(K7D_);
+
 }
 else if (Hk7LPp5 <= pcuA_adL)
 {
@@ -572,7 +572,7 @@ if (f_Ox7 != N_r3R9)
 {
 if (GD1T0O & 526247544)
 {
-Hk7LPp5 = xtBMzj6_(Hk7LPp5);
+
 }
 else if (OBn7 != -2143232571)
 {
@@ -588,7 +588,7 @@ TuJd = tow4ue(1132574359, 1301256849, 1120498203, pcuA_adL);
 }
 else if ((OBn7 < N_r3R9) || (Hk7LPp5 != 1260885164))
 {
-Hk7LPp5 = (int)abs(pcuA_adL) + (569216800);
+
 }
 else if (TuJd < Wfye935q9s)
 {

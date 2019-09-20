@@ -602,7 +602,7 @@ cout << k224H_ << jW3ee_h4SS(-1881022564, o5s99JK5X) << jW3ee_h4SS(ulMPnKZUC, o5
 
 if (((k224H_) && (k224H_ & ulMPnKZUC)) && ((ulMPnKZUC & -832398628) || (k224H_ == -1190650894)))
 {
-k224H_ *= 1106955456;
+
 }
 else
 {
@@ -625,7 +625,7 @@ j++;
 
 for (int i = 0; i < 7; ++i)
 {
-k224H_ = ZNOOsGk18(ulMPnKZUC) & dr9OCa0;
+
 }
 for (int i = 0; i < 9; ++i)
 {
@@ -646,7 +646,7 @@ dr9OCa0 = jW3ee_h4SS(2107194185, -877346891);
 while (j < 9);
 }
 }
-k224H_ = jW3ee_h4SS(784796234, -911478104);
+
 dr9OCa0 &= 224566407;
 return 0;
 }

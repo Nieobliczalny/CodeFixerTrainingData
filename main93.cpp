@@ -230,7 +230,7 @@ GS_B = Ed6s(GS_B, f5978jn, 1040315174);
 break;
 case 'e':
 case 'E':
-vM8RNn7j = (int)abs(NvQ7X6) + (537083469);
+
 break;
 case 'f':
 case 'F':
@@ -365,7 +365,7 @@ int i = 0;
 while (i < 5)
 {
 i++;
-JhWS934 = vM8RNn7j | 1663794973;
+
 }
 }
 {
@@ -393,7 +393,7 @@ k++;
 }
 else if (DUn2M8_eM)
 {
-p9Y2x27_ = H0cs03f(2020588959, F3jv3mk49z, 908613055);
+
 }
 else if (NvQ7X6 <= -1069357799)
 {
@@ -432,7 +432,7 @@ vM8RNn7j &= 260368349;
 --i;
 }
 }
-PYQPpZt89 = NvQ7X6 >> 1244987707;
+
 
 KI37DaAW = H0cs03f(-203615136, 787805784, Z__2t3);
 std::cout << "N6tyV" << H0cs03f(936412293, mGPko, Z__2t3) << "AhiFj_5q" << "zH7c" << std::endl;

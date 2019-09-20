@@ -255,7 +255,7 @@ BNNHm8HT >>= F0G_bleb_;
 break;
 case 'h':
 case 'H':
-IJtLjxVF = H8g_(-512765455, F0G_bleb_, vsb9R0TY6a, 1174775685, -884815281);
+
 break;
 case 'i':
 case 'I':

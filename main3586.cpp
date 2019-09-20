@@ -446,7 +446,7 @@ m8Sg_ = m8Sg_ << 2029329812;
 cout << woOig1 / zuRjEkQ_ << endl;
 cout << boCJ0WbTC8 << "AdrC_fJsO" << endl;
 BFIB += 852311009;
-n2Z9RHv65 = (int)abs(zuRjEkQ_);
+
 cout << qTcq4JTT << "dINVjQ" << endl;
 try
 {
@@ -501,7 +501,7 @@ Q74wxhz &= 575216368;
 }
 while (i >= 0);
 }
-woOig1 = (short)(z638J);
+
 
 cout << sx2j << "A93_6_d" << "bu1MG6PmN" << BFIB << endl;
 if (qTcq4JTT == 1411277652)
@@ -511,7 +511,7 @@ ivNZM6 >>= 879493743;
 switch (q6Df1)
 {
 case 'a':
-G088XCS7zc = a_g64qJ6 + boCJ0WbTC8;
+
 break;
 default:
 m8Sg_ -= 1826159373;
@@ -527,7 +527,7 @@ z9SLP1IMx = q6Df1 / Q74wxhz;
 while (i < 1);
 }
 
-ivNZM6 |= qTcq4JTT;
+
 
 hY47m = R_5Kc73xw * 350085823;
 for (int i = 0; i < 9; i++)

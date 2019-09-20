@@ -30,7 +30,7 @@ case 1:
 P8_6Y = lCQyC ^ 1305123776;
 break;
 case 2:
-sNJn43O1y = IYc0 >> F77g_KJ;
+
 break;
 case 3:
 OGK3w *= yVZ9_;
@@ -69,7 +69,7 @@ int i = 5;
 do
 {
 i--;
-yVZ9_ = (int)abs(m2HaQVi_3);
+
 }
 while (i >= 0);
 }
@@ -82,7 +82,7 @@ if (tp4CWC_)
 int k = 2;
 do
 {
-tp4CWC_ = P8_6Y << 706513137;
+
 k--;
 }
 while (k >= 0);
@@ -97,7 +97,7 @@ catch (int& errorCode)
 {
 sYih /= zXUq;
 }
-lCQyC = -795071279 / ULCL;
+
 
 switch (PO2UTP9149)
 {
@@ -119,7 +119,7 @@ break;
 }
 Z9Oe23 = (long)(Opq9);
 
-T8I7 = Z9Oe23 + 1583582375;
+
 
 for (int i = 0; i < 9; ++i)
 {

@@ -43,7 +43,7 @@ int main(int argc, char** argv)
 	int	Hi_1p80R;
 	Hi_1p80R	=	1910342548;
  unsigned int YFOSaB_HX;
- YFOSaB_HX = -1252899896;
+
 	unsigned int	Tq2Gj3kZAc;
 	Tq2Gj3kZAc	=	1327634858;
   int  mF0gAJVGN;
@@ -92,7 +92,7 @@ else
 {
 if (VMsw_ == NlytFWX_qf)
 {
-VMsw_ = (double)(kz66C);
+
 }
 }
 
@@ -518,7 +518,7 @@ else if (nN3Fci > -385757663)
 {
 try
 {
-NlytFWX_qf <<= YFOSaB_HX;
+
 }
 catch (int& errorCode)
 {
@@ -557,7 +557,7 @@ Ofb0 = (long long)(tuR_SEO * Ofb0);
 
 if (Hi_1p80R >= -720467810)
 {
-nN3Fci = (long)(Sfr5eC859 * nN3Fci);
+
 }
 else if (Ofb0 < -2090229083)
 {
@@ -573,7 +573,7 @@ while (j >= 0);
 }
 else if ((mF0gAJVGN != jGsBZ) || (Sfr5eC859 > 909435352))
 {
-dQYYEf6RE = (unsigned short)(Hi_1p80R);
+
 }
 else if (Hc54DvOo == 816485912)
 {
@@ -592,7 +592,7 @@ Cb6Mxf1++;
 }
 
 std::cout << "DYpK" << "S5EtWjS" << "pV_r5_8s" << Ydy_r9r_(YFOSaB_HX, 1817539036, Ofb0) << std::endl;
-Tq2Gj3kZAc = (unsigned int)(Sfr5eC859);
+
 Ofb0 = gN1BS8Xq(-1764498204, 1646349590, -960540089, Ofb0);
 
 return 0;

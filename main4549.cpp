@@ -32,7 +32,7 @@ unsigned char	O_457_sSY4(char	YO7Y,int	mL_7ojRe,char	kH9Jr7_a,unsigned long	EIW_
 
 int main(int argc, char** argv) {
     float    vlsQ,    o_mTj,    E38Y,    Xz1CuoH_VG,    wfX21mTSz,    wB_65573Y,    x676j6xZC7,    Dzn740R,    ucI08NI3DU,    WdMP_4ir59,    z5Q2,    SIdo5,    CYU620,    LzEVY,    kG8F5,    D5DsV4,    y_fefx5i8,    hp6Kk_,    LLGi7wAs,    jcuW_6LaH,    QWcJ,    LI6tSt37O,    q3018,    X__4,    A62nG,    XVod,    IFzYMs1X0u,    QOLTX,    EJ1cfT54B,    y3_RD9_4O6;
-    vlsQ    =    2079386808;
+
     o_mTj    =    477106884;
     E38Y    =    1765339841;
     Xz1CuoH_VG    =    -231033442;
@@ -46,7 +46,7 @@ int main(int argc, char** argv) {
     SIdo5    =    -850361321;
     CYU620    =    -1527074425;
     LzEVY    =    -1028941835;
-    kG8F5    =    -2018667923;
+
     D5DsV4    =    -1630829924;
     y_fefx5i8    =    230827169;
     hp6Kk_    =    1953268898;
@@ -56,7 +56,7 @@ int main(int argc, char** argv) {
     LI6tSt37O    =    726279185;
     q3018    =    -796773430;
     X__4    =    -72577217;
-    A62nG    =    1903428975;
+
     XVod    =    -148909149;
     IFzYMs1X0u    =    158096254;
     QOLTX    =    -2079063339;
@@ -132,7 +132,7 @@ QOLTX = (int)floor(wfX21mTSz);
 }
 }
 
-Dzn740R = IFzYMs1X0u + A62nG;
+
 
 ucI08NI3DU = (float)(CYU620);
 std::cout << k0Mpv55ayO(-595723675, x676j6xZC7, -1529609236, 1469899495, IFzYMs1X0u) << E38Y << O_457_sSY4(jcuW_6LaH, 2046401109, 906970638, 1396111174, -829854055) << CYU620 << hp6Kk_ << std::endl;
@@ -162,7 +162,7 @@ wfX21mTSz = (o_mTj == x676j6xZC7) ? q3018 : SIdo5;
 }
 else if (LzEVY)
 {
-z0Xdk8Jt4w = m6m2J721my();
+
 }
 else if ((o_mTj == LLGi7wAs) || (WdMP_4ir59 > -635363517))
 {
@@ -174,7 +174,7 @@ LI6tSt37O = O_457_sSY4(-1017506617, q3018, 1560124095, jcuW_6LaH, QWcJ);
 }
 else
 {
-CYU620 = O_457_sSY4(-989314243, q3018, -1990653501, jcuW_6LaH, 1678160760) | 1669116241;
+
 }
 }
 catch (int& errorCode)
@@ -188,7 +188,7 @@ switch (z0Xdk8Jt4w)
 {
 case 'a':
 case 'A':
-hp6Kk_ = (int)abs(E38Y);
+
 break;
 case 'b':
 case 'B':
@@ -240,7 +240,7 @@ catch (int& errorCode)
 {
 q3018 = k0Mpv55ayO(-1132209140, -1992364173, 1723317174, -1420790339, LzEVY);
 }
-A62nG = (int)floor(o_mTj);
+
 
 for (int i = 3; i >= 0; i--)
 {
@@ -270,7 +270,7 @@ while (k >= 0);
 }
 if (y3_RD9_4O6 != -1302589782)
 {
-XVod = (int)ceil(y_fefx5i8);
+
 }
 else
 {

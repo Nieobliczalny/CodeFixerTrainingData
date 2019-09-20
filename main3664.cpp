@@ -333,7 +333,7 @@ switch (sEP2j)
 {
 case 'a':
 case 'A':
-txxMZ = (int)abs(sEP2j);
+
 break;
 case 'b':
 case 'B':
@@ -369,7 +369,7 @@ do
 j++;
 for (int k = 4; k >= 0; k--)
 {
-txxMZ = (int)abs(sEP2j);
+
 }
 }
 while (j < 4);

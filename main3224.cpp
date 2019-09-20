@@ -21,7 +21,7 @@ int main(void) {
 switch (K_2nkb)
 {
 case 'a':
-K_2nkb = Co7_gn(l_02d, uL44eo6);
+
 break;
 }
 

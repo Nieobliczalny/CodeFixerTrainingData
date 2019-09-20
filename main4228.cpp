@@ -87,7 +87,7 @@ switch (e0N21SV)
 {
 case 'a':
 case 'A':
-mOTqV52e = (int)ceil(JiQ02W);
+
 break;
 case 'b':
 case 'B':
@@ -120,7 +120,7 @@ M2ib -= NccGU73gM4;
 }
 else if (mOTqV52e > P1Va2)
 {
-i_2W4NWD = P1Va2 * 2102287703;
+
 }
 else if ((NjIHg6_c2i >= z44ZsU4p) && ((u8dR04ine > Fd29) && (Z021wtm <= HKJnS9_)))
 {
@@ -138,7 +138,7 @@ Iy4MRO12 = ZUA1rfP(Iy4MRO12);
 }
 else
 {
-rf34ik2o = (unsigned long)(VUHv60_);
+
 }
 
 {
@@ -151,7 +151,7 @@ int j = 9;
 while (j >= 0)
 {
 --j;
-JiQ02W = rBO26dJy_(720024431, 2130122677, 843907166);
+
 }
 }
 }

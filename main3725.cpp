@@ -23,6 +23,7 @@ int main()
     unsigned short int    D0MmO8g;
         D0MmO8g    =    0;
 	long	IAkY_,	zxruLMM5k,	RpaJ,	djc9N,	t0ftnt5,	rJmz7,	tOOhA4Ruh0,	m4kF,	SvT2_Ri,	wzZb5f,	j48044Cs,	HV40,	vo4MYHy3,	Q6IsT_0,	Q_j0m3,	h5SH9VVQ,	kru94yjU67,	pLu7Rlwn0,	VKxuy_,	p9g0Kf1gZ,	YiTU1t32i,	mQOxWGOT2x,	n8_S,	eP83,	KS4LsY8M,	i142Y77xp;
+		// codechecker_intentional [deadcode.DeadStores] Design rule - initialize all variables
 		IAkY_	=	zxruLMM5k	=	RpaJ	=	djc9N	=	t0ftnt5	=	rJmz7	=	tOOhA4Ruh0	=	m4kF	=	SvT2_Ri	=	wzZb5f	=	j48044Cs	=	HV40	=	vo4MYHy3	=	Q6IsT_0	=	Q_j0m3	=	h5SH9VVQ	=	kru94yjU67	=	pLu7Rlwn0	=	VKxuy_	=	p9g0Kf1gZ	=	YiTU1t32i	=	mQOxWGOT2x	=	n8_S	=	eP83	=	KS4LsY8M	=	i142Y77xp	=	-698758472;
 
 if (mQOxWGOT2x <= Q6IsT_0)

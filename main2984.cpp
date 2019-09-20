@@ -82,7 +82,7 @@ int main(void) {
 	char	ei9p73XL5	=	1880535000;
 
 std::cout << SasA28hI / pEIJBHf5_ << std::endl;
-cElu6ZY1d = (int)abs(XG69J);
+
 
 return 0;
 }

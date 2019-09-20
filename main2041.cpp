@@ -25,7 +25,8 @@ int main() {
     unsigned long long    sp9cs7,    c5DL_,    Z0LO9v,    o5F6TynM7;
         sp9cs7    =    c5DL_    =    Z0LO9v    =    o5F6TynM7    =    -175989474;
   long long  hvg6oklXw1,  chJ_dKbxV1,  E6_68b3D;
-    hvg6oklXw1  =  chJ_dKbxV1  =  E6_68b3D  =  0;
+    // codechecker_intentional [deadcode.DeadStores] Design rule - initialize all variables
+	hvg6oklXw1  =  chJ_dKbxV1  =  E6_68b3D  =  0;
 
 Z0LO9v = X64H(1948724082, 946566577, chJ_dKbxV1);
 

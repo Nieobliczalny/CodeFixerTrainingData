@@ -77,7 +77,7 @@ K314Bqx8_ = (int)ceil(ZyVnG_8);
 switch (a3Jl5L)
 {
 case 0:
-JXpNXK2bRx = w165bp2C();
+
 break;
 }
 
@@ -89,7 +89,7 @@ case 'a':
 NEI8N = w165bp2C();
 break;
 case 'b':
-I5awfl = wn7L_3_Dt / 654855595;
+
 break;
 case 'c':
 B1Nt4 = (int)floor(K314Bqx8_);
@@ -112,7 +112,7 @@ switch (A1mdRM__Y)
 {
 case 'a':
 case 'A':
-Tg6PA = w165bp2C();
+
 break;
 case 'b':
 case 'B':
@@ -127,7 +127,7 @@ case 'D':
 Fm81nJk7 ^= 1200654133;
 break;
 default:
-K314Bqx8_ = (int)ceil(jn_5A9U8x);
+
 break;
 }
 j++;

@@ -272,7 +272,7 @@ SV0V_o9R = (int)floor(fMCk5cJt5e);
 
 szM6dF7 = (long double)(U741);
 
-CD5nmJ = (zKM2Q3 < LK44hh) ? fMCk5cJt5e : 1885618234;
+
 
 try
 {
@@ -314,7 +314,7 @@ L_kvmN02 = h48a(-98474551, NhS8tpc, fMCk5cJt5e, F_l0WuX6p, 1032801335);
 }
 }
 }
-CD5nmJ = (long double)(wN359YVV5L);
+
 L_kvmN02 = h48a(V59ct25, zKM2Q3, nG5rv3e, 1764306258, 170408035);
 
 return 0;

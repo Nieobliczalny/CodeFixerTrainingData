@@ -294,7 +294,7 @@ else
 {
 TJcd72 = (bTGDYd < 152482655) ? TJcd72 : oXl6o7DXP;
 }
-oXl6o7DXP = jy4nh6G6b(oXl6o7DXP, 2122162849, -1746481305, bTGDYd, 204241109);
+
 
 oXl6o7DXP = (int)(ugxh52D03 * (bpQ36A));
 
@@ -760,7 +760,7 @@ jl4ae6aGdJ = He725YzN(-1884301898, -527215312, 1070598135, TJcd72);
 break;
 case 'd':
 case 'D':
-oXl6o7DXP = jy4nh6G6b(-1474951963, 493186062, 935496648, 1232904123, -1608751178);
+
 break;
 default:
 jl4ae6aGdJ = jl4ae6aGdJ * 893670309;

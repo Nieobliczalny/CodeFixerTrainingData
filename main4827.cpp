@@ -31,7 +31,7 @@ int main()
  unsigned long E8ZH;
  E8ZH = -17608236;
     long    h2Jp_yOL;
-    h2Jp_yOL    =    -404759700;
+
   long  S7CA1XFyzs;
   S7CA1XFyzs  =  -577454592;
 	unsigned char	K_J09py;
@@ -41,7 +41,7 @@ int main()
   double  b8i4KY97ba;
   b8i4KY97ba  =  745153558;
   unsigned short  l0G84e;
-  l0G84e  =  2080530793;
+
  unsigned long long r2fD;
  r2fD = -1774749057;
 	float	BV3x;
@@ -59,7 +59,7 @@ int main()
 	int	q8Rj;
 	q8Rj	=	1775913331;
     unsigned int    kt2NVkgG4;
-    kt2NVkgG4    =    1476376207;
+
  double y5j_kE;
  y5j_kE = 1293940339;
   unsigned int  EFunX;
@@ -75,7 +75,7 @@ int main()
 	short int	uS8j_moGQy;
 	uS8j_moGQy	=	-551132810;
 	double	QY9f5O344;
-	QY9f5O344	=	571579431;
+
  unsigned short int R1GYyd28;
  R1GYyd28 = 211521531;
   long  GI7UZw;
@@ -87,7 +87,7 @@ int main()
   double  C7_9;
   C7_9  =  1197145721;
 	long	U_mB6;
-	U_mB6	=	0;
+
 	unsigned short	W3ZiF;
 	W3ZiF	=	-1585850550;
     int    J_s_P;
@@ -104,7 +104,7 @@ while (i >= 0)
 --i;
 try
 {
-BV3x = (int)ceil(b8i4KY97ba);
+
 }
 catch (int& errorCode)
 {
@@ -165,7 +165,7 @@ i++;
 }
 }
 
-J_s_P = (int)abs(BV3x);
+
 b8i4KY97ba = ADsc(b8i4KY97ba, L_OD, 1564791070, 1049045751);
 
 {
@@ -184,7 +184,7 @@ q8Rj = dvwVaY_k(q8Rj);
 }
 else
 {
-r2fD = Mno299(1933945525, 1189936307, W3ZiF, EFunX);
+
 }
 }
 while (j >= 0);
@@ -204,7 +204,7 @@ if (K_J09py == 1084288963)
 {
 for (int k = 9; k >= 0; k--)
 {
-yTd9hv = (int)floor(BV3x);
+
 }
 }
 else
@@ -216,7 +216,7 @@ yTd9hv = (int)ceil(BV3x);
 }
 }
 
-U_mB6 = Ye7m();
+
 {
 int i = 0;
 do

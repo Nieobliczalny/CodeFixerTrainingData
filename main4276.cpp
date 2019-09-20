@@ -22,7 +22,8 @@ int main() {
 	double	pi_3,	s2J53wAw,	sb6_eLp9Oc,	GvStJ_,	xX10,	r_3b_6BI,	No865,	KBzU,	O2Z998_R,	KWEu4RU,	R8021vJ,	f58_e,	ScY1YjR,	wPZp,	ZLb3lu7vb,	y9bovgU6R,	Y_Ce3op,	nGwlaRYT_,	D0bW7,	j_igS,	Lm023n,	UBlk0M,	SW67owWw,	eUhkI9fV_,	t2rmJO,	iw9OD_GCA,	hi41n7,	cE567YM80H,	x536O,	p26zjdfNw,	meFe93aT6G,	n5_BwP92L7,	mQe5G,	GTX_JW7L,	tIGV4Hq;
 		pi_3	=	s2J53wAw	=	sb6_eLp9Oc	=	GvStJ_	=	xX10	=	r_3b_6BI	=	No865	=	KBzU	=	O2Z998_R	=	KWEu4RU	=	R8021vJ	=	f58_e	=	ScY1YjR	=	wPZp	=	ZLb3lu7vb	=	y9bovgU6R	=	Y_Ce3op	=	nGwlaRYT_	=	D0bW7	=	j_igS	=	Lm023n	=	UBlk0M	=	SW67owWw	=	eUhkI9fV_	=	t2rmJO	=	iw9OD_GCA	=	hi41n7	=	cE567YM80H	=	x536O	=	p26zjdfNw	=	meFe93aT6G	=	n5_BwP92L7	=	mQe5G	=	GTX_JW7L	=	tIGV4Hq	=	-855856526;
     unsigned short    MwP_MN_9OL,    wHIZ,    woD9PAhcq_,    XY9J;
-        MwP_MN_9OL    =    wHIZ    =    woD9PAhcq_    =    XY9J    =    0;
+        // codechecker_intentional [deadcode.DeadStores] Design rule - initialize all variables
+		MwP_MN_9OL    =    wHIZ    =    woD9PAhcq_    =    XY9J    =    0;
 
 try
 {

@@ -49,7 +49,7 @@ int main() {
   rX_M2_2R  =  -854609015;
   tJ67Exm9  =  -945745940;
   p0J906b  =  -637462165;
-  YpII  =  -780228147;
+
   UIFwmNW  =  -1150610978;
   Ypg0K8  =  -1196549030;
   l0Zq4I  =  -892150521;
@@ -296,7 +296,7 @@ case 3:
 rX_M2_2R = (int)abs(p0J906b);
 break;
 case 4:
-YpII = (int)abs(rX_M2_2R);
+
 break;
 case 5:
 qt17636L = (int)abs(YpII);
@@ -377,7 +377,7 @@ UIFwmNW = P4yU - s7mC9h6_V;
 }
 else
 {
-p0J906b = P4yU >> Ypg0K8;
+
 }
 --j;
 }

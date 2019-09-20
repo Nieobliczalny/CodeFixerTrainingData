@@ -349,7 +349,7 @@ case 0:
 g6D_J = pvH50uzr + 200009916;
 break;
 case 1:
-JK0QevZ2Kb = c6uKvk(JK0QevZ2Kb, 2103630704, 1670915356);
+
 break;
 default:
 g6D_J = (g6D_J < 1167137145) ? g6D_J : c6uKvk(JK0QevZ2Kb, 732779414, -234695137);

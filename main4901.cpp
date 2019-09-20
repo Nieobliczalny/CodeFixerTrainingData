@@ -48,7 +48,7 @@ mJv7892I6 = (int)abs(kL2B);
 }
 else
 {
-y709JB = I6CQ04(903234189, U_XaeT7M, V26368aph);
+
 }
 }
 }
@@ -118,7 +118,7 @@ while (i >= 0);
 }
 
 std::cout << "G8gS68_j" << std::endl;
-V26368aph = -2142194657 / xr4zzi(-1113643360, 578493596, 222054847, 343589382, E8AlW);
+
 std::cout << t8XGixdye(kL2B, -460916916, b7oa, -357674027) << mJv7892I6 << "o_3_77nd51" << "U1OMn" << std::endl;
 if (vzUO39)
 {
@@ -164,7 +164,7 @@ if (eKBxG >= kL2B)
 {
 if (mRQAcqx != -1536918812)
 {
-y709JB = (short int)(z6mry);
+
 }
 else if (U_XaeT7M & k3HiHCA1)
 {
@@ -210,7 +210,7 @@ if (E9u6 >= 115180656)
 switch (X_P_zxeE9)
 {
 case 'a':
-vzUO39 = I6CQ04(-1132334100, kL2B, -1163676881);
+
 break;
 case 'b':
 mJv7892I6 = (aED_38P < -740550459) ? t8XGixdye(-12463718, kL2B, 162219137, -500857072) : Xl_v;
@@ -225,7 +225,7 @@ case 'e':
 t45x = t8XGixdye(-180082495, -1768947586, 1583682684, EEV_EZuLs);
 break;
 case 'f':
-Xl_v = (int)abs(E8AlW) * 0;
+
 break;
 case 'g':
 X_P_zxeE9 = xr4zzi(-2130346324, 2112812856, 301745490, -736836324, -812522196);
@@ -237,7 +237,7 @@ case 'i':
 E9u6 >>= vzUO39;
 break;
 case 'j':
-E9u6 = (int)abs(mRQAcqx);
+
 break;
 default:
 ZPwtv9_ /= 1888073458;
@@ -280,7 +280,7 @@ else
 {
 try
 {
-mRQAcqx = (int)abs(q0udDOh);
+
 }
 catch (int& errorCode)
 {

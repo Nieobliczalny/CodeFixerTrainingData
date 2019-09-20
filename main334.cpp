@@ -39,7 +39,7 @@ int main(void) {
 switch (zTS2lwBjL)
 {
 case 0:
-Wveq7 = (int)floor(r_1Ve85OaY);
+
 break;
 case 1:
 e0_tb3G = n1m_2luA14(Q_3et, evTWa6T77, et91lAZ, -210532540);
@@ -51,7 +51,7 @@ case 3:
 zBfl = i4Y6_ue(1487209377, 257355324, Tfg4LyUhY7, wz6rNmUl, 1810501927);
 break;
 case 4:
-Wveq7 = (int)abs(Vt8_c);
+
 break;
 case 5:
 e0_tb3G = n1m_2luA14(198415781, zTS2lwBjL, -377641354, -611098049);
@@ -64,7 +64,7 @@ e0_tb3G = n1m_2luA14(1649122856, RfR627CVlJ, -539012622, e0_tb3G);
 switch (g5d_)
 {
 case 'a':
-Wveq7 = (int)ceil(r_1Ve85OaY);
+
 break;
 default:
 Wveq7 = (int)abs(wz6rNmUl);

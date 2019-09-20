@@ -18,7 +18,7 @@ int main() {
   double  rw8dpg,  R4NGb8q98N,  lP8C0e,  uvzb9S0yR,  EPjEQSHN,  zRrM,  JTW5,  JqOnszvw7,  jU4Cgr_,  vUpcj3,  udcAntAc,  mwiD,  bOpl4cq,  ox9o82e,  brj5035T,  uI_919,  OOC_w,  UA6v7ob,  gyTS_k,  x96z9F1cM,  z9b_p,  g71FIBT_4d,  h9aOG_cAY8;
   rw8dpg  =  170170878;
   R4NGb8q98N  =  -1280611231;
-  lP8C0e  =  -1566093557;
+
   uvzb9S0yR  =  -853493654;
   EPjEQSHN  =  659540830;
   zRrM  =  95919244;
@@ -32,7 +32,7 @@ int main() {
   ox9o82e  =  -1233241545;
   brj5035T  =  578449177;
   uI_919  =  1131300818;
-  OOC_w  =  1354602288;
+
   UA6v7ob  =  2007209875;
   gyTS_k  =  -588824902;
   x96z9F1cM  =  -1420247104;
@@ -96,7 +96,7 @@ std::cout << UA6v7ob << ox9o82e << uI_919 << brj5035T << std::endl;
 
 if (ox9o82e)
 {
-uI_919 = ew6iCox380 * 1520212299;
+
 }
 
 {
@@ -112,7 +112,7 @@ x96z9F1cM = EPjEQSHN / uvzb9S0yR;
 int i = 2;
 do
 {
-OOC_w = EPjEQSHN - JTW5;
+
 --i;
 }
 while (i >= 0);
@@ -143,7 +143,7 @@ ox9o82e = (brj5035T >= U___HNN) ? -823352105 : CS7pb;
 switch (ew6iCox380)
 {
 case 'a':
-mwiD = (banBmxubrK & W2IgbczUd_) ? zRrM : z9b_p;
+
 break;
 case 'b':
 JTW5 = banBmxubrK | 1407138213;
@@ -161,7 +161,7 @@ case 'f':
 brj5035T = (brj5035T < udcAntAc) ? CS7pb : EPjEQSHN;
 break;
 case 'g':
-mwiD = (int)ceil(brj5035T);
+
 break;
 case 'h':
 x96z9F1cM *= 1460045026;
@@ -177,7 +177,7 @@ case 1:
 h9aOG_cAY8 *= 194477857;
 break;
 case 2:
-rw8dpg = (int)abs(banBmxubrK) + (82090573);
+
 break;
 case 3:
 brj5035T = (int)ceil(uvzb9S0yR);
@@ -192,7 +192,7 @@ case 6:
 brj5035T = U___HNN >> 788842769;
 break;
 case 7:
-bOpl4cq = (int)abs(uvzb9S0yR);
+
 break;
 default:
 mwiD = (int)floor(g71FIBT_4d);

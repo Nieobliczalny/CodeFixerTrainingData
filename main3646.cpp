@@ -20,7 +20,7 @@ int main() {
 	kVE6s	=	-1146465809;
 	HCVNkv	=	-1700223946;
 	y80x	=	-1364776973;
-	e649V	=	1860333466;
+
 	xdS98	=	973737270;
 	kBT8Y5k9y	=	-1527727267;
     long    Gm5u8UK_W,    VQiue9K7zB,    Kj_2j,    ZoG9wK,    KNh6Q2;
@@ -118,7 +118,7 @@ case 'i':
 PUcP = (xdS98 < e649V) ? 1370300056 : VQiue9K7zB;
 break;
 default:
-Gm5u8UK_W = q8fOb(-1946557463, Gm5u8UK_W, e649V, kVE6s);
+
 break;
 }
 Gm5u8UK_W = q8fOb(384207165, 1845486664, NJtQ3, 1482900130);
@@ -128,7 +128,7 @@ if ((kBT8Y5k9y == -1676782076) && (xdS98 >= 2007670882))
 switch (NJtQ3)
 {
 case 0:
-Gm5u8UK_W = q8fOb(-811848681, 617442768, kVE6s, xdS98);
+
 break;
 case 1:
 Gm5u8UK_W = q8fOb(Y23wrm, 1761166824, kVE6s, Kj_2j);
@@ -155,7 +155,7 @@ try
 switch (kVE6s)
 {
 case 'a':
-Gm5u8UK_W = q8fOb(213183754, HCVNkv, -1431063952, e649V);
+
 break;
 case 'b':
 kVE6s++;
@@ -274,7 +274,7 @@ kVE6s /= 1298095996;
 while (i >= 0);
 }
 
-kBT8Y5k9y = (long)(kVE6s);
+
 
 if (ZoG9wK == 1276816686)
 {

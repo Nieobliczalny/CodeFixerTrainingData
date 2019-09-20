@@ -133,7 +133,7 @@ cout << "tL7O1z8h" << endl;
 
 if (((FUSo361) && (UupM != -1540666733)) && (cJ8Gg & 512945297))
 {
-zCcyug_851 = (unsigned short)(zrH166);
+
 }
 else
 {
@@ -249,7 +249,7 @@ case 0:
 FUSo361 = (int)abs(S9Tx7pi);
 break;
 case 1:
-o9RyiJ_H5 >>= 547244254;
+
 break;
 case 2:
 Z0L74x = c45OzMJH(Z0L74x, jjO3Rq5n2);
@@ -292,7 +292,7 @@ case 0:
 M073 = (int)abs(cJ8Gg);
 break;
 case 1:
-lgvNLYi_5 = OUGZD(1870109692, Rc03R_UzK, -1263735260, -974883550, 467478506);
+
 break;
 case 2:
 BB_2gq4xw9 = (int)abs(xJw5AF);
@@ -319,7 +319,7 @@ case 9:
 Zot88h0YE = (int)floor(I01Td);
 break;
 default:
-K5vFpf = (a2jaRV13) ? K5vFpf : lgvNLYi_5;
+
 break;
 }
 if (M073)
@@ -330,7 +330,7 @@ else
 {
 if (Zot88h0YE >= zrH166)
 {
-G00Vk2 = OUGZD(-1793714461, 1476521534, Mxqt0, -1033164660, U4DVCPse);
+
 }
 else
 {
@@ -343,7 +343,7 @@ M073 = (int)ceil(S9Tx7pi);
 switch (U4DVCPse)
 {
 case 0:
-qUr6q8OyY4 = aa0n92Uh - 1073523795;
+
 break;
 case 1:
 wU94S = (int)abs(HTo_je62Sk);
@@ -355,7 +355,7 @@ case 3:
 G00Vk2 = (int)abs(S9Tx7pi);
 break;
 case 4:
-aa0n92Uh = KAwb << HTo_je62Sk;
+
 break;
 case 5:
 xMHo = c45OzMJH(xMHo, 628713316);
@@ -372,7 +372,7 @@ break;
 int i = 9;
 while (i >= 0)
 {
-pt3zIud6 = (int)ceil(S9Tx7pi);
+
 i--;
 }
 }

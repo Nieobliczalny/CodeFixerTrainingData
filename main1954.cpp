@@ -393,7 +393,7 @@ std::cout << vFH6HRcdB(jeFIwo, 2139658526, -1793744290, Auay) << HG47491Ylq(-303
 switch (x98R3Uebq)
 {
 case 0:
-U1d4L = (int)abs(vC7bRGH8s);
+
 break;
 case 1:
 jeFIwo = HG47491Ylq(jeFIwo, 393798058, 2118246676, -598610018);
@@ -405,7 +405,7 @@ case 3:
 vC7bRGH8s = HG47491Ylq(vC7bRGH8s, jeFIwo, XI0Q6O4Oxe, X9Tvr6aF2);
 break;
 case 4:
-X9Tvr6aF2 = Cdf3_89_Lr(561311409, W4_u__4);
+
 break;
 case 5:
 C4M4c7nf53 <<= 31090671;
@@ -417,7 +417,7 @@ case 7:
 x98R3Uebq = Cdf3_89_Lr(x98R3Uebq, Auay);
 break;
 case 8:
-X9Tvr6aF2 = X9Tvr6aF2 * Auay;
+
 break;
 }
 return 0;

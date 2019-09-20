@@ -68,7 +68,7 @@ int main(int argc, char** argv) {
 
 if (p8VaG9 == 0)
 {
-	o51i24FAjy = Ab8NND9(1669629147, -1595068162, CN7D0oi, 138624144, LV35) / p8VaG9;
+
 }
 YH450v6 = (float)(vn_8lI);
 if (((vy01) && (Z_C9 < -384671518)) && (S5tSKd < CX0n1))
@@ -94,7 +94,7 @@ else
 {
 for (int j = 0; j < 8; ++j)
 {
-LV35 = (int)abs(b7LBuz);
+
 }
 }
 
@@ -113,7 +113,7 @@ zQu4HVpnwU = (float)(y172);
 }
 else
 {
-ElTT__F6J = (int)abs(A1418uZYR) + (1854329199);
+
 }
 if (YH450v6 == 2091125478)
 {
@@ -132,7 +132,7 @@ if (m0k8 > -271147396)
 {
 if (xoHt_J2fs != m0k8)
 {
-ElTT__F6J = (int)abs(b7LBuz);
+
 }
 else
 {
@@ -145,7 +145,7 @@ else if ((vy01 != ZXWGpKd0) && (j50Q))
 int k = 1;
 do
 {
-y4Y3_ZS = Ab8NND9(27826011, VmG0thl, -1703676969, 537075736, -1895634415);
+
 k--;
 }
 while (k >= 0);
@@ -166,7 +166,7 @@ zQu4HVpnwU = (int)abs(p8VaG9) + (-819917102);
 while (i < 8);
 }
 
-YH450v6 = (float)(hl7hB_GQu9);
+
 
 std::cout << Z_C9 << "ErX_D" << jCXsZg0S << x_qWt << "ISllBAN6vq" << std::endl;
 return 0;

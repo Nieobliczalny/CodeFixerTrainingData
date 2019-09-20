@@ -72,7 +72,7 @@ catch (int& errorCode)
 {
 APky3i = (int)abs(BAOl9);
 }
-tafoRTV = em_A1QHTE2 << YR6_eV76Cq;
+
 if (((YR6_eV76Cq == m22a1I) && (xOn8 < -519889255)) || (YR6_eV76Cq < gYTIDN8N))
 {
 if (s73yC7 >= -168172206)
@@ -261,7 +261,7 @@ case 0:
 WX32NEmm_6 = (int)ceil(xOn8);
 break;
 case 1:
-jG1gA7o4 = f__nb8Xv29(kGxizY52C, 1269513602, -142671301);
+
 break;
 case 2:
 JFcZ = m22a1I * 179408701;
@@ -297,7 +297,7 @@ y3J6 = (kGxizY52C == -856760358) ? f__nb8Xv29(-221978526, kWT9, -780814216) : f_
 break;
 }
 
-jG1gA7o4 = f__nb8Xv29(-420442105, -450128238, -1339063549);
+
 JFcZ = (int)abs(y3J6);
 
 switch (c7GI7b8zO)
@@ -309,7 +309,7 @@ case 'b':
 DUJ_kV4 = f__nb8Xv29(WX32NEmm_6, kGxizY52C, -709764291);
 break;
 case 'c':
-c7GI7b8zO = (int)abs(ybDLBXud);
+
 break;
 case 'd':
 m22a1I ^= JFcZ;
@@ -333,7 +333,7 @@ case 'j':
 y06G = (em_A1QHTE2 > c7GI7b8zO) ? -613153684 : 260750601;
 break;
 default:
-kWT9 = (int)abs(q_0a9);
+
 break;
 }
 q_0a9 = DUJ_kV4 / DUJ_kV4;

@@ -286,7 +286,7 @@ i--;
 while (i >= 0);
 }
 
-mu8y = (short)(L3NLK_N * mu8y);
+
 
 {
 int i = 0;
@@ -406,7 +406,7 @@ while (j >= 0);
 }
 }
 
-XV4BG = (unsigned long)(RfIBH);
+
 std::cout << m0EwlC32W << std::endl;
 {
 int i = 0;
@@ -463,7 +463,7 @@ C39923Tb64++;
 break;
 case 'g':
 case 'G':
-KNVbM = N57kPM >> L3NLK_N;
+
 break;
 case 'h':
 case 'H':

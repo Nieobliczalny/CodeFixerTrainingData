@@ -94,7 +94,7 @@ while (i >= 0);
 switch (xmGeP_oZ)
 {
 case 0:
-v84Y99 = ptp1vM9b34 % 1341135965;
+
 break;
 case 1:
 X_ROGO2VzK = toliw03 % 355446377;
@@ -109,7 +109,7 @@ case 4:
 ptp1vM9b34 <<= P8R_Gd_Oz;
 break;
 case 5:
-ZYIdP3 = (int)floor(U2p415Z);
+
 break;
 case 6:
 BP8K >>= 1136701282;
@@ -133,7 +133,7 @@ case 1:
 P8R_Gd_Oz--;
 break;
 case 2:
-mnKQoNRE = (Xo7M6 == BaT__69g__) ? sWT3 : 802505611;
+
 break;
 case 3:
 X7x7 &= V53AJ44BC;
@@ -147,7 +147,7 @@ else
 {
 Q93tT_i >>= 1694392266;
 }
-ZPu0my = Q93tT_i + 1730960235;
+
 
 return 0;
 }

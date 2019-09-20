@@ -97,7 +97,7 @@ case 'c':
 MjM88 = g_9e7A0E1(-776391836, iJ6HlMq79Q, A5yB9AAW);
 break;
 case 'd':
-zk13Z1dOD_ = y4JYW1SheY(zk13Z1dOD_, JEgt8, 1909783161, 644262455);
+
 break;
 case 'e':
 asM87 = lH5N6(-1521010415, -1226157227, 1438873283);
@@ -335,7 +335,7 @@ while (j >= 0);
 }
 }
 
-ce2cSHFyXU = (int)floor(MjM88);
+
 
 for (int i = 10; i >= 0; i--)
 {
@@ -354,7 +354,7 @@ int k = 1;
 while (k >= 0)
 {
 k--;
-RtZ326 = t__gRE80() % 653506882;
+
 }
 }
 }
@@ -374,7 +374,7 @@ case 0:
 t9cI660JP5 = (int)floor(nQ03ez);
 break;
 case 1:
-P8Up9_ = (int)ceil(t9cI660JP5);
+
 break;
 case 2:
 pf3JBL4M8 /= M27S82R8;
@@ -392,7 +392,7 @@ case 6:
 t9cI660JP5 = (int)floor(nQ03ez);
 break;
 case 7:
-cKC8T85CE8 = lH5N6(KJwAq1C, oU4t, u9aN7) | T6o2a0O3F;
+
 break;
 default:
 gw2j6I50 = k2Q3q6 - ue2aI2s9QN;
@@ -404,7 +404,7 @@ break;
 A5yB9AAW = (short int)(A41Z6);
 for (int i = 4; i >= 0; i--)
 {
-cKC8T85CE8 = (unsigned long)(k9x6Qvy0CV);
+
 }
 for (int i = 7; i >= 0; i--)
 {

@@ -24,7 +24,7 @@ int main(int argc, char** argv) {
     fX0ZywzxUn    =    1470403726;
     VKPpe    =    363698863;
     BzI4l90uJ    =    -557052728;
-    gY3n_4W4    =    -234613812;
+
     z368    =    1112717597;
     q7_u    =    -1784877856;
     B_tV    =    -618720331;
@@ -40,7 +40,7 @@ int main(int argc, char** argv) {
     HU1ku7    =    136769420;
     Pq6_2__43    =    -673454462;
     V9jH_DNR    =    1979603573;
-    BKYU_3n    =    -945867320;
+
     QRoSu    =    -1443219951;
     p9AB_    =    -843153702;
     LfskE    =    -1864843979;
@@ -262,7 +262,7 @@ if (p9AB_ <= 1979936476)
 {
 g644CnFUL = vryDVe5(-557139720);
 }
-X20T_9jPd = (int)ceil(QmD_B8dCH);
+
 
 switch (crz5Ccz)
 {
@@ -302,7 +302,7 @@ int i = 1;
 do
 {
 i--;
-X20T_9jPd = (int)ceil(p9AB_);
+
 }
 while (i >= 0);
 }
@@ -346,7 +346,7 @@ cout << vryDVe5(1372663301) << crz5Ccz << endl;
 switch (wZ5Myh)
 {
 case 0:
-gY3n_4W4 = (int)floor(yd5_59);
+
 break;
 case 1:
 QRoSu = I5bY1 - 849079904;
@@ -373,7 +373,7 @@ try
 {
 try
 {
-BKYU_3n = FPS9X5JCWr(2005507226, p9AB_, -623399687, 700783329, -756998843) ^ 1635569409;
+
 }
 catch (int& errorCode)
 {
@@ -397,7 +397,7 @@ switch (g644CnFUL)
 {
 case 'a':
 case 'A':
-yd5_59 = (VKPpe != 1247895714) ? vryDVe5(138193018) : 1725040966;
+
 break;
 default:
 QRoSu = c1P3c(C4hfTzce0W, QRoSu, 312591988, 1694338879);

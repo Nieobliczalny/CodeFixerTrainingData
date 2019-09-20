@@ -14,7 +14,7 @@ using std::floor;
 
 int main(int argc, char** argv) {
  unsigned short DFN9;
- DFN9 = -594324458;
+
 	short	NY5bxM5N_;
 	NY5bxM5N_	=	2890715;
   unsigned short int  fO83;
@@ -30,7 +30,7 @@ int main(int argc, char** argv) {
   char  bQFekqbe8B;
   bQFekqbe8B  =  -2049932297;
     int    tL0C;
-    tL0C    =    0;
+
  short int v6wD0F;
  v6wD0F = 1437534112;
  long LdAX099bd1;
@@ -54,7 +54,7 @@ int main(int argc, char** argv) {
  unsigned short Z935cvX;
  Z935cvX = 0;
   unsigned short  gYVbfs8E;
-  gYVbfs8E  =  -1639726519;
+
     int    YBbqoCZi;
     YBbqoCZi    =    -3547393;
 
@@ -64,7 +64,7 @@ case 0:
 xWIo0 = NY5bxM5N_ * xWIo0;
 break;
 case 1:
-Jt6SR /= sVK1Kxi5Rg;
+
 break;
 case 2:
 cJ51mvP += HZnw8y;
@@ -82,7 +82,7 @@ case 6:
 NY5bxM5N_--;
 break;
 case 7:
-Jt6SR = NY5bxM5N_ * 1062142575;
+
 break;
 case 8:
 fO83 = O_Gkl7x >> 1175699179;
@@ -92,7 +92,7 @@ bQFekqbe8B >>= 789026462;
 break;
 }
 
-Jt6SR = -450370072 / FlCO9i_zy;
+
 
 Jt6SR = (unsigned short)(QiVo5bvD);
 
@@ -162,7 +162,7 @@ YBbqoCZi++;
 }
 }
 }
-QiVo5bvD |= sVK1Kxi5Rg;
+
 if (Jt6SR > 274407614)
 {
 switch (LdAX099bd1)
@@ -174,7 +174,7 @@ case 1:
 cJ51mvP = cJ51mvP - 1516911861;
 break;
 case 2:
-RA967ORZ0K = xWIo0 * 675491344;
+
 break;
 case 3:
 QiVo5bvD = xWIo0 ^ O_Gkl7x;
@@ -186,7 +186,7 @@ case 5:
 OObNU <<= 17705140;
 break;
 case 6:
-v6wD0F %= fO83;
+
 break;
 case 7:
 yBf0O2 %= 164822717;

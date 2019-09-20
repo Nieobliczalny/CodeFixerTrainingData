@@ -38,7 +38,7 @@ int main(void)
   C7Uv  =  409753605;
   VF76G  =  -1483216946;
   y7K3  =  -473232551;
-  aBoK  =  -922547279;
+
   P6__RcE8Wy  =  430061688;
   b0kuhF  =  640499102;
   S7C0T  =  392195695;
@@ -52,7 +52,7 @@ int main(void)
   um47C_2Rx  =  593794486;
   C27E2N  =  -885664547;
  unsigned long PW7dAc3t, QJLDXWXn, D6ZUx;
- PW7dAc3t = 0;
+
  QJLDXWXn = 0;
  D6ZUx = 0;
 
@@ -62,7 +62,7 @@ switch (o38QhX0_B)
 {
 case 'a':
 case 'A':
-D6ZUx = f7Ba4N(fE0tfWrjg, b0kuhF, Pjt77, -1140449762, -256227040);
+
 break;
 }
 }
@@ -77,7 +77,7 @@ else if (h1vnDJ == S7C0T)
 switch (C7Uv)
 {
 case 0:
-D6ZUx = f7Ba4N(D6ZUx, S7C0T, 1469852883, q5Vc_3, P0RC);
+
 break;
 case 1:
 o38QhX0_B = D6ZUx - 1141279986;
@@ -169,7 +169,7 @@ b0kuhF = y_sI(-1320137941, -1890979974, 1115838095);
 }
 else
 {
-fE0tfWrjg <<= cquH6A;
+
 }
 }
 else if (Pjt77 <= b0kuhF)
@@ -183,7 +183,7 @@ t_Cc = (unsigned short)(SeME + (1302547355));
 }
 else if (O5ba22eDQ > SeME)
 {
-D6ZUx = f7Ba4N(-1059346826, 1235285128, 1215182523, VF76G, zJ23Euu6iM);
+
 }
 else
 {
@@ -216,7 +216,7 @@ int k = 7;
 while (k >= 0)
 {
 --k;
-PW7dAc3t = f7Ba4N(zJ23Euu6iM, P6__RcE8Wy, -1587197572, -784186826, 358322118);
+
 }
 }
 }
@@ -234,7 +234,7 @@ case 'c':
 QJLDXWXn = f7Ba4N(479077740, -1001709437, P6__RcE8Wy, 220199224, -446018997);
 break;
 case 'd':
-u8795h279I = y_sI(-2048773315, FT2x3, 219541347);
+
 break;
 default:
 y7K3 /= P0RC;
@@ -252,7 +252,7 @@ switch (W6c5f4G8XP)
 {
 case 'a':
 case 'A':
-t_Cc += 1274133856;
+
 break;
 case 'b':
 case 'B':
@@ -268,7 +268,7 @@ QJLDXWXn = f7Ba4N(C7Uv, -33109970, o38QhX0_B, -222366663, QJLDXWXn);
 break;
 case 'e':
 case 'E':
-P6__RcE8Wy &= W6c5f4G8XP;
+
 break;
 case 'f':
 case 'F':
@@ -279,7 +279,7 @@ case 'G':
 C7Uv = y_sI(C7Uv, 1782020013, -339295128);
 break;
 default:
-PW7dAc3t = f7Ba4N(-1323755297, -1825025871, 44686052, t_Cc, -1646055285);
+
 break;
 }
 }
@@ -289,7 +289,7 @@ case 0:
 O5ba22eDQ = y_sI(591108205, 1222289982, QJLDXWXn);
 break;
 case 1:
-b0kuhF = y_sI(b0kuhF, 1664731863, G2QT6);
+
 break;
 case 2:
 FT2x3 = y_sI(540972296, Pjt77, -1053481115);
@@ -301,7 +301,7 @@ case 4:
 Pjt77 = y_sI(1728345967, S7C0T, 724405952);
 break;
 case 5:
-wFw833 = tZJ940cue2 - 89565151;
+
 break;
 case 6:
 ILkeNx3l8--;

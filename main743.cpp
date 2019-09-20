@@ -79,7 +79,7 @@ try
 switch (EkPRbRb)
 {
 case 0:
-h0PS9 = LM_LP46Rb_(b1eD) + lKDvAB;
+
 break;
 case 1:
 MayY = (int)abs(E508d);
@@ -93,7 +93,7 @@ gQZR67 = (int)abs(MayY);
 
 std::cout << M42_6tF / LM_LP46Rb_(-548922176) << std::endl;
 
-Y1NW6 = (unsigned char)(KMM0PZ);
+
 V581 = LM_LP46Rb_(-280701558);
 switch (j5245LELUP)
 {
@@ -120,7 +120,7 @@ switch (TXS65DV)
 {
 case 'a':
 case 'A':
-bYZ_iA = D_1Y1f * 1049836626;
+
 break;
 case 'b':
 case 'B':
@@ -132,7 +132,7 @@ F_oe <<= 1379680049;
 break;
 case 'd':
 case 'D':
-b1eD = chIKAY << 489761586;
+
 break;
 case 'e':
 case 'E':
@@ -145,7 +145,7 @@ case 'a':
 M4x99d = (int)floor(fICQ);
 break;
 case 'b':
-U8f5 -= 2116957103;
+
 break;
 case 'c':
 tcZ6tk09_ += VY357k607;
@@ -157,7 +157,7 @@ case 'e':
 V581 = LM_LP46Rb_(QopLh_);
 break;
 case 'f':
-WA5M63_b12 = (int)floor(M1CU9);
+
 break;
 case 'g':
 V581 = LM_LP46Rb_(F7qtP8fb5);
@@ -179,7 +179,7 @@ case 'a':
 M4x99d = (int)ceil(D_1Y1f);
 break;
 case 'b':
-V581 = LM_LP46Rb_(j5245LELUP);
+
 break;
 case 'c':
 M5sNO5 = (int)floor(fICQ);

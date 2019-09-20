@@ -51,7 +51,7 @@ else if (nQZ2 < J_x0BX)
 switch (B19u8h3Bb)
 {
 case 'a':
-EP0aGipR_ = BDR4fb + PHs_7uy4;
+
 break;
 case 'b':
 B19u8h3Bb = bLZNT % ETATF;
@@ -63,7 +63,7 @@ case 'd':
 B19u8h3Bb = bLZNT % NBgTvV;
 break;
 case 'e':
-EP0aGipR_ = nQZ2 % ETATF;
+
 break;
 case 'f':
 ETATF *= tjt5B8;
@@ -78,7 +78,7 @@ case 'i':
 ETATF++;
 break;
 case 'j':
-ETATF = PHs_7uy4 - BDR4fb;
+
 break;
 }
 }
@@ -90,7 +90,7 @@ case 0:
 ETATF = (int)abs(pH80t);
 break;
 case 1:
-NBgTvV = BDR4fb | 1856899233;
+
 break;
 case 2:
 Yo9dbms0U = nQZ2 * e8Aq;
@@ -102,7 +102,7 @@ break;
 }
 try
 {
-Yo9dbms0U = tjt5B8 ^ bLZNT;
+
 }
 catch (int& errorCode)
 {
@@ -122,7 +122,7 @@ std::cout << "x18A3Q" << B19u8h3Bb << std::endl;
 
 PHs_7uy4 = (unsigned char)(bqG69qVTTQ * PHs_7uy4);
 
-nQZ2 = (short)(MmduLvgmP + (-215402559));
+
 
 std::cout << mm8Lo868RS / PHs_7uy4 << std::endl;
 return 0;

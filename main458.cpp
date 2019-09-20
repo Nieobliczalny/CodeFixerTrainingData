@@ -104,7 +104,7 @@ switch (h4b05Jt08)
 {
 case 'a':
 case 'A':
-mCu3 = (int)ceil(GzvZ);
+
 break;
 case 'b':
 case 'B':
@@ -116,7 +116,7 @@ Q7_vMx00 = b7m7(872724402, 396169031, 1773656403);
 break;
 case 'd':
 case 'D':
-mCu3 = (int)floor(V10Gi200);
+
 break;
 }
 fwc7 = T5u1EZO ^ 2014492481;

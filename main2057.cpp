@@ -33,7 +33,8 @@ unsigned long i8e8(unsigned short haK__9y) {
 int main(int argc, char** argv)
 {
     short    ertb_R,    Za0z4ltB,    X5VJl,    VY_2A4FE,    u4Rzr1Dtf_;
-        ertb_R    =    Za0z4ltB    =    X5VJl    =    VY_2A4FE    =    u4Rzr1Dtf_    =    0;
+        // codechecker_intentional [deadcode.DeadStores] Design rule - initialize all variables
+		ertb_R    =    Za0z4ltB    =    X5VJl    =    VY_2A4FE    =    u4Rzr1Dtf_    =    0;
   float  J8Zv,  Go69yok,  niwOE1Qk,  H47ysv,  tp6IY,  l6OL,  nvYGM,  Q56ul,  r8M3LntIGR,  z_ZD3zSc,  ay_Q2o02C,  Ta6Ex4kY,  aU_Gjj_H,  Z6ht3JHWO,  EIGYKj5,  KV5Hqr37vO,  R758N,  ql0Hr8W,  O2DBG31,  FtSH5KYhJ,  DiBkKLJ__,  j0S7U_,  B4u1_,  Rm2gb9iV,  jMT7w_dt,  VL4sG9,  haTzBxu1oc,  OflZ5R9Z,  bNC3c,  VHW0PFh6,  Rb7bJ_,  NfZKk,  SCN699G,  pI6r,  obu2dp,  Fk49qK5,  FX_9v,  Ez3r740R,  TD4h06Wfv_,  z_br,  B3UH64wt,  aDhVb5kT,  yv__381kh,  JBFe,  EmQDSaU1z,  XU_HrXng,  f675xA1,  Zi620M95eL,  eQx93Ojbo,  FSRl,  B1s07da921,  xWhyq,  t729;
     J8Zv  =  Go69yok  =  niwOE1Qk  =  H47ysv  =  tp6IY  =  l6OL  =  nvYGM  =  Q56ul  =  r8M3LntIGR  =  z_ZD3zSc  =  ay_Q2o02C  =  Ta6Ex4kY  =  aU_Gjj_H  =  Z6ht3JHWO  =  EIGYKj5  =  KV5Hqr37vO  =  R758N  =  ql0Hr8W  =  O2DBG31  =  FtSH5KYhJ  =  DiBkKLJ__  =  j0S7U_  =  B4u1_  =  Rm2gb9iV  =  jMT7w_dt  =  VL4sG9  =  haTzBxu1oc  =  OflZ5R9Z  =  bNC3c  =  VHW0PFh6  =  Rb7bJ_  =  NfZKk  =  SCN699G  =  pI6r  =  obu2dp  =  Fk49qK5  =  FX_9v  =  Ez3r740R  =  TD4h06Wfv_  =  z_br  =  B3UH64wt  =  aDhVb5kT  =  yv__381kh  =  JBFe  =  EmQDSaU1z  =  XU_HrXng  =  f675xA1  =  Zi620M95eL  =  eQx93Ojbo  =  FSRl  =  B1s07da921  =  xWhyq  =  t729  =  -2011726627;
 

@@ -231,7 +231,7 @@ R1TRtU = KD5iMB_Z + lX0RnDS5;
 break;
 case 'c':
 case 'C':
-YJ48 = W28Mo >> 1738732669;
+
 break;
 case 'd':
 case 'D':
@@ -247,7 +247,7 @@ weH2zC8 = KAIaxVzb * vLbglupz8;
 break;
 case 'g':
 case 'G':
-m1QLSvHd = (int)abs(lW0FU67a);
+
 break;
 }
 W28Mo--;
@@ -281,7 +281,7 @@ j3zF = R_s23D67x5(-623303497);
 switch (hJ3Y)
 {
 case 0:
-YJ48 = zqq9();
+
 break;
 case 1:
 wQa3z = zqq9();
@@ -293,7 +293,7 @@ case 3:
 lX0RnDS5 = (int)abs(hJ3Y);
 break;
 case 4:
-hJ3Y = KD5iMB_Z >> hcN9RZuJ;
+
 break;
 case 5:
 lW0FU67a %= 184489045;
@@ -305,7 +305,7 @@ break;
 
 std::cout << "nd8f0" << mhLR_Nk4l << "tnESLAWg" << std::endl;
 
-m1QLSvHd = zqq9();
+
 return 0;
 }
 

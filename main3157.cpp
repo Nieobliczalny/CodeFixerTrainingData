@@ -80,7 +80,7 @@ int main() {
   unsigned long  pKz_886AGa  =  330445132;
  unsigned char ybe20kcR = -630167193;
 
-v656J93_ = (float)(qMAhE);
+
 dHztV = 292923560 / F36Y3;
 
 amDbz_Z = gQ_bWO6_X / 1347211761;
@@ -94,7 +94,7 @@ j--;
 switch (xGzm4fETc)
 {
 case 0:
-qrZOYcX2 = (int)abs(T6mWiJVa52);
+
 break;
 case 1:
 hWz1ZEW = (int)abs(C11z_);
@@ -113,7 +113,7 @@ for (int i = 0; i < 8; ++i)
 {
 cout << k1oQ << endl;
 }
-amDbz_Z = xGzm4fETc + uH5f_Cil;
+
 
 if (rH0eADb >= 396976332)
 {
@@ -125,7 +125,7 @@ case 'a':
 DCGAY2k9N5 = (int)floor(oI_4nLno_);
 break;
 case 'b':
-pSOWJ += 1194169789;
+
 break;
 case 'c':
 nQNQ = (int)abs(F36Y3) + (-1023535774);
@@ -139,7 +139,7 @@ try
 {
 if (FaAk_42 != 736447097)
 {
-m55MRG = (int)ceil(uH5f_Cil);
+
 }
 else
 {
@@ -155,7 +155,7 @@ VFR4 /= 2097290633;
 switch (b0rH1aNCM)
 {
 case 0:
-bc7_m = X7sfPb02h / j_LZ1Z_oZq;
+
 break;
 case 1:
 T6mWiJVa52 |= 700444014;
@@ -167,7 +167,7 @@ case 3:
 v_TnB092Kv = J9E34NtK & 1596679207;
 break;
 default:
-Oy5cLa9lfW = (int)ceil(VFR4);
+
 break;
 }
 

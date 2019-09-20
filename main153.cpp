@@ -477,7 +477,7 @@ case 0:
 Ld74L = lyFm6I184(561858431);
 break;
 case 1:
-yz_nczn %= Ld74L;
+
 break;
 case 2:
 df88aMvy5 = lyFm6I184(1870553664);
@@ -527,7 +527,7 @@ M9b6Pp_10 = (M9b6Pp_10 != -215128712) ? a05zss5V : nK9i;
 break;
 case 'd':
 case 'D':
-nK9i = (int)abs(a05zss5V);
+
 break;
 case 'e':
 case 'E':

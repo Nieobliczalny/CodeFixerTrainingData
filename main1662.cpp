@@ -49,7 +49,7 @@ int main(int argc, char** argv)
   short int  Ol70DkY;
   Ol70DkY  =  1847649192;
  float oKxVIL3f9;
- oKxVIL3f9 = 1680630334;
+
 	long double	BxfkV;
 	BxfkV	=	1938574284;
 	long long	bEpzt8BSb;
@@ -514,7 +514,7 @@ iey3 -= o6RAdcS2r;
 }
 }
 }
-fIpe3tM4 = (int)abs(fE0bI1rzaU);
+
 LFQc = jn8g >> KAn1093e;
 if (oKxVIL3f9 != 1531734463)
 {
@@ -564,7 +564,7 @@ case 6:
 G4d5aRGP93 = jv3y | 66057519;
 break;
 case 7:
-H7DXwx = (int)abs(hZdfjeD);
+
 break;
 case 8:
 LlNE = (int)floor(H7DXwx);
@@ -588,7 +588,7 @@ fE0bI1rzaU = QaKu3uqk00 << 1266774905;
 }
 }
 
-fIpe3tM4 = (char)(o6RAdcS2r);
+
 
 if (Th907ocNM6 < -1546706237)
 {
@@ -633,7 +633,7 @@ case 2:
 wqk5u3x1 /= QaKu3uqk00;
 break;
 case 3:
-A699t ^= 1989992568;
+
 break;
 case 4:
 Ol70DkY &= iQg7_4_;
@@ -648,7 +648,7 @@ break;
 }
 else if (e7HX < -977481832)
 {
-A699t ^= 1424223734;
+
 }
 else if (U5aSbBO_X6)
 {
@@ -684,7 +684,7 @@ else if (z49gote)
 {
 if ((QaKu3uqk00 < -1466516700) || (NSwQ66SZT9))
 {
-U5aSbBO_X6 = (int)ceil(oKxVIL3f9);
+
 }
 else
 {
@@ -712,7 +712,7 @@ while (j >= 0)
 j--;
 try
 {
-hZdfjeD = (int)abs(Th907ocNM6);
+
 }
 catch (int& errorCode)
 {
@@ -726,7 +726,7 @@ else if ((g2BDPYT26U >= -174945107) && (aOAjVFSV != qcDH))
 switch (LFQc)
 {
 case 0:
-ZKNI26CECD = (int)abs(nM32yO);
+
 break;
 case 1:
 wqk5u3x1++;
@@ -791,7 +791,7 @@ l_oL080 = (jv3y != g2Lq6rx) ? e7HX : 904847273;
 break;
 case 'e':
 case 'E':
-H7DXwx = (int)ceil(LlNE);
+
 break;
 case 'f':
 case 'F':
@@ -803,7 +803,7 @@ oKxVIL3f9 = (int)ceil(iey3);
 break;
 case 'h':
 case 'H':
-T45b += 210426966;
+
 break;
 case 'i':
 case 'I':
@@ -817,7 +817,7 @@ break;
 }
 else if ((oKxVIL3f9 < jn8g) && ((CI8839BOr == -1854381532) || (fE0bI1rzaU & 1452720206)))
 {
-z49gote = (int)abs(LlNE);
+
 }
 else if (gqd2w3Z)
 {
@@ -834,7 +834,7 @@ catch (int& errorCode)
 bEpzt8BSb = OBAVYT03 + 2118392953;
 }
 }
-qcDH = (unsigned int)(bWb_8t);
+
 
 std::cout << 825540394 / R09ox4Pvw0 << std::endl;
 
@@ -849,7 +849,7 @@ int j = 1;
 do
 {
 --j;
-CI8839BOr = (int)abs(puz7sofk00);
+
 }
 while (j >= 0);
 }

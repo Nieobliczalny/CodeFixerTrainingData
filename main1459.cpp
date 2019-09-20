@@ -56,7 +56,7 @@ int main(void)
 	long long	w1_Vi8F;
 	w1_Vi8F	=	-2078768850;
     float    S4TYj_yj;
-    S4TYj_yj    =    1645101461;
+
 	unsigned long	Zks_;
 	Zks_	=	1521734158;
 	long	k6AacU7wXz;
@@ -228,7 +228,7 @@ int k = 0;
 while (k < 4)
 {
 ++k;
-w1307 = (int)floor(X1tYxCou);
+
 }
 }
 j++;
@@ -424,7 +424,7 @@ case 6:
 Fv704A2aj_ = zQP2 % I5M7w44;
 break;
 case 7:
-i_51 = c75Gq0zPpr >> 899288509;
+
 break;
 case 8:
 w1307 = I5M7w44 | j4Nzl;
@@ -487,7 +487,7 @@ dWCK = (int)ceil(Zh7RW3);
 break;
 case 'e':
 case 'E':
-w1307 = T2Ti45G9fx - j4Nzl;
+
 break;
 case 'f':
 case 'F':
@@ -512,7 +512,7 @@ for (int j = 0; j < 10; j++)
 switch (j4Nzl)
 {
 case 0:
-zf1Frpd62 = j1799n % Fv704A2aj_;
+
 break;
 case 1:
 i_51 = XRFcNpEU5 + X1tYxCou;
@@ -555,7 +555,7 @@ qMbE48 -= S4TYj_yj;
 }
 else if (j1799n >= -687628680)
 {
-X1tYxCou = (int)floor(QgI52_sEz9);
+
 }
 else
 {

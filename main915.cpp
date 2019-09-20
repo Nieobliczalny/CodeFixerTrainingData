@@ -32,7 +32,7 @@ int main(int argc, char** argv) {
     J0Bpjkyu9u    =    -1256854684;
     tuI5DSA_U    =    -1496043012;
     q_422    =    -22121077;
-    w9_WNfZFi    =    -915670988;
+
     p_AY    =    373160420;
     Sec4V    =    -250776707;
 
@@ -399,7 +399,7 @@ case 'd':
 p_AY = z1ofSN(p_AY, -1561653022, 215059242, w9_WNfZFi);
 break;
 case 'e':
-Sec4V = G764D(1507406592, 1573657985, -1206614725, 1461590109, lVhC_);
+
 break;
 case 'f':
 q_422 -= JEydtt;
@@ -421,7 +421,7 @@ int k = 8;
 while (k >= 0)
 {
 k--;
-w9_WNfZFi = (int)abs(k_4I);
+
 }
 }
 }

@@ -24,7 +24,7 @@ int main(void)
 
 slln2 = (double)(s8GdnMVKy);
 rOGHIw /= D57kJRb5;
-slln2 -= 1438106083;
+
 {
 int i = 0;
 while (i < 4)
@@ -35,7 +35,7 @@ Ycf35h1 = (double)(zUo_g);
 }
 I9TCHA4UXe = (double)(Zj0V_xwv);
 
-NJ69I_dhA = (double)(GZznOo_90);
+
 
 std::cout << "ZzXh7je6q" << C20KOL1W << c41j << "W3VF30Y5H" << mn74Ml3y << std::endl;
 
@@ -47,7 +47,7 @@ while (i >= 0)
 std::cout << RM17anVOs_ << Ah42eNi << std::endl;
 }
 }
-vsjE = (double)(s8GdnMVKy);
+
 switch (Jwt9U)
 {
 case 0:
@@ -63,7 +63,7 @@ case 3:
 xq1x1 += f57lEj_l;
 break;
 case 4:
-yVzI_40i4v = (int)abs(H401A2IF);
+
 break;
 case 5:
 Hg2sKZ = P6mB46 - 1510403803;
@@ -99,7 +99,7 @@ case 'd':
 r1hnz05 = y_gX5l2p - YU54_;
 break;
 default:
-yVzI_40i4v = (int)abs(K_w2dIjNg);
+
 break;
 }
 
@@ -113,7 +113,7 @@ try
 {
 try
 {
-j2ToY64 *= wDoaj98p_;
+
 }
 catch (int& errorCode)
 {
@@ -133,7 +133,7 @@ try
 int k = 0;
 do
 {
-csU709 = Zj0V_xwv << 1921469037;
+
 ++k;
 }
 while (k < 8);
@@ -167,7 +167,7 @@ o0_cX_M91 = (WOKXVB3eF <= jRhG8) ? eNHO : 140683292;
 }
 else
 {
-csU709 = (DT1r5887y > qPPw676a) ? -710686189 : -1289616979;
+
 }
 }
 
@@ -193,7 +193,7 @@ case 'e':
 uL1_6 /= jRhG8;
 break;
 case 'f':
-q1k2TD_N = (int)floor(ms4Nh52V1);
+
 break;
 case 'g':
 r1hnz05 = f5TXa7cC_ + 150031212;
@@ -205,7 +205,7 @@ case 'i':
 VO2EXxSt = Jwt9U >> 1450710514;
 break;
 default:
-CC_mva6 = Ycf35h1 * 858521687;
+
 break;
 }
 i++;
@@ -226,7 +226,7 @@ int i = 2;
 while (i >= 0)
 {
 --i;
-CC_mva6 = Fyy9hXh_4 / TqbCq;
+
 }
 }
 for (int i = 0; i < 6; ++i)
@@ -259,7 +259,7 @@ else if ((Ze2qcXJ6 < k66zAKJX10) || (H401A2IF >= ms4Nh52V1))
 switch (Jwt9U)
 {
 case 'a':
-OvQ8q9a6g = (int)floor(Fyy9hXh_4);
+
 break;
 case 'b':
 k66zAKJX10 = (int)abs(dtb1871JU);
@@ -274,7 +274,7 @@ case 'e':
 dtb1871JU -= A7_i;
 break;
 case 'f':
-Ip2EkCm += K3_gNIw75J;
+
 break;
 case 'g':
 y_gX5l2p -= jo94wD;
@@ -306,7 +306,7 @@ xq1x1 = (int)abs(dtb1871JU);
 }
 else
 {
-lbHxB0hK /= C20KOL1W;
+
 }
 }
 else
@@ -326,7 +326,7 @@ D57kJRb5 /= 407832899;
 
 std::cout << j7PIYy << "pFzeuyPqk" << mEC1n7Zi << xuzSRc_g << "c33Jf5ECI" << std::endl;
 
-I9rbj2O7 = (int)floor(O1QwPZP_a);
+
 {
 int i = 0;
 while (i < 2)

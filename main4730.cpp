@@ -21,7 +21,7 @@ unsigned char    m5YiG(unsigned long    TagVOyOP8);
 int main(int argc, char** argv)
 {
  unsigned int N0zo5t728;
- N0zo5t728 = 0;
+
  double DDkCI0;
  DDkCI0 = 335479631;
   unsigned char  aGzhe;
@@ -41,7 +41,7 @@ int main(int argc, char** argv)
 	unsigned long	Gv09lMM3v;
 	Gv09lMM3v	=	0;
     unsigned short int    ts1TW73S;
-    ts1TW73S    =    1496671928;
+
  unsigned int IWKqu;
  IWKqu = -2140258245;
 
@@ -332,7 +332,7 @@ if (IWKqu != 1948275848)
 int k = 4;
 do
 {
-MXlxf8H4Q = (int)ceil(DDkCI0);
+
 k--;
 }
 while (k >= 0);
@@ -343,7 +343,7 @@ else
 switch (IWKqu)
 {
 case 'a':
-aGzhe = qoqD2zsyvc(-1693691631, -1016424167, 1499056926);
+
 break;
 default:
 aGzhe = axr9GHk1xT(aGzhe, 793376069, -759176638) & 997808182;
@@ -353,7 +353,7 @@ break;
 }
 else
 {
-ts1TW73S &= aGzhe;
+
 }
 return 0;
 }

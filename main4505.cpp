@@ -50,7 +50,7 @@ int main(int argc, char** argv)
 
 if ((389418450 / VfC46P3D0x(1586729285)) == 379349452)
 {
-Hrb71U = VfC46P3D0x(BLjKRA1ac);
+
 }
 
 for (int i = 0; i < 5; ++i)
@@ -60,7 +60,7 @@ if (((zN7oM5j < 14184970) || (Iu6ym0MW >= vC29R)) && (kjQkyKoJFS & rLP87Ns3B))
 switch (Ni_nWr)
 {
 case 'a':
-Kp65u = (int)abs(giYzeh);
+
 break;
 case 'b':
 ZeDvZQ8 = EBh27bo ^ kjQkyKoJFS;
@@ -72,7 +72,7 @@ break;
 }
 else
 {
-Hrb71U = VfC46P3D0x(282852681);
+
 }
 }
 
@@ -102,7 +102,7 @@ else
 {
 for (int j = 8; j >= 0; --j)
 {
-BLjKRA1ac = (int)abs(IRMVz_9_H8);
+
 }
 }
 U66a9PGFa = (int)floor(eh3EHyjM);
@@ -115,7 +115,7 @@ eh3EHyjM = (double)(Iu6ym0MW);
 }
 }
 
-Hrb71U = (long long)(ZeDvZQ8 * (Ewce8M));
+
 Hrb71U = VfC46P3D0x(262285287);
 return 0;
 }

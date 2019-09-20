@@ -33,7 +33,7 @@ case 0:
 WM_13 %= IQH_;
 break;
 default:
-H6_9 = Nuk2_7();
+
 break;
 }
 std::cout << FM28 << "lNNMB" << std::endl;
@@ -48,7 +48,7 @@ case 1:
 TfEajB0Sqw = qZM0c6b_c(vv_2DT0Cl, Ljo2, -533463928, -450316964);
 break;
 case 2:
-cV8VVX = Nuk2_7() * X7_87n;
+
 break;
 case 3:
 TfEajB0Sqw += 1536322352;
@@ -82,7 +82,7 @@ while (i >= 0)
 --i;
 try
 {
-WM_13 = n_Na1HT * B9l7crl;
+
 }
 catch (int& errorCode)
 {

@@ -28,7 +28,7 @@ int main(int argc, char** argv) {
 	xp75Sn_	=	717843199;
 	dn_gNt6	=	361877932;
 	yWX6qo9	=	1365630386;
-	TdqV	=	961158328;
+
 	kN0_G	=	285166032;
 	QnZ2dzjV9q	=	2036216008;
 	zoqG909P	=	1923116583;
@@ -50,7 +50,7 @@ int main(int argc, char** argv) {
 	FztQ	=	544626873;
 	Ohf1	=	526151801;
 	n9gy4o96	=	-130853300;
-	Ec56n8En6	=	-74067727;
+
 	qka8xL450N	=	-1470879307;
 	j4N58za	=	1667650762;
 	usaBn4529	=	-397696626;
@@ -336,7 +336,7 @@ else if (Q95Dq2q3 >= rfmeC_)
 switch (q12M)
 {
 case 'a':
-w_YRD9Q = (int)abs(O4V_B7U);
+
 break;
 case 'b':
 O4V_B7U = jdSbT28F6(598316326, AreF1OS);
@@ -354,7 +354,7 @@ case 'f':
 O4V_B7U = jdSbT28F6(-405591792, qka8xL450N);
 break;
 case 'g':
-xp75Sn_ = F7a01 ^ 1072708733;
+
 break;
 case 'h':
 x63UtL7 = jdSbT28F6(-1726544275, -841835957) >> H_36h_3;
@@ -382,7 +382,7 @@ int k = 4;
 do
 {
 k--;
-w_YRD9Q = (int)abs(x_hMl92);
+
 }
 while (k >= 0);
 }
@@ -445,7 +445,7 @@ case 'd':
 Ohf1 |= 1062552597;
 break;
 case 'e':
-w_YRD9Q = (int)abs(x_hMl92);
+
 break;
 case 'f':
 x_hMl92 = (int)abs(O4V_B7U);

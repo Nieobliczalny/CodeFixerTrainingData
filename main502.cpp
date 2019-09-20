@@ -10,7 +10,7 @@ using namespace std;
 
 int main(int argc, char** argv) {
 	long	NGm1zG,	hMh869VxyR,	mnZa,	pwd53r;
-	NGm1zG	=	0;
+
 	hMh869VxyR	=	0;
 	mnZa	=	0;
 	pwd53r	=	0;
@@ -21,7 +21,7 @@ int main(int argc, char** argv) {
 	k4yu0nH	=	-679366089;
 	G2PQNf5	=	435500941;
 	YNl70	=	540474472;
-	SAs2Kx0NN_	=	1506409681;
+
 	eSR2Pv2	=	-664845314;
 	pj4q4	=	-1142851120;
 
@@ -45,7 +45,7 @@ eSR2Pv2 ^= YNl70;
 }
 if ((-1974332345 / mnZa) < -402039454)
 {
-SAs2Kx0NN_ = k4yu0nH | bx7bE;
+
 }
 
 YNl70 = (unsigned short int)(hMh869VxyR + (-897992914));

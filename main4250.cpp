@@ -301,7 +301,7 @@ case 1:
 Y163P8p = RVdveuf(1030092746, DE6Z, 1094067445, 607092589);
 break;
 case 2:
-f0Q2kF0Vmd = Kpa8FO(Q2W4FLw6QU, f0Q2kF0Vmd);
+
 break;
 case 3:
 k28S = (int)abs(mMrVd);
@@ -448,7 +448,7 @@ Q___WK7Oo = f0Q2kF0Vmd | mMrVd;
 }
 else if (mT8b4)
 {
-Q2W4FLw6QU = (short int)(a7r1g97hO4);
+
 }
 else
 {
@@ -471,7 +471,7 @@ catch (int& errorCode)
 Y163P8p = Kpa8FO(vqd26wYd, Q___WK7Oo) + mT8b4;
 }
 gMv7ivcm = Kpa8FO(Y163P8p, 320483475);
-Q2W4FLw6QU = -1948889369 / gMv7ivcm;
+
 return 0;
 }
 

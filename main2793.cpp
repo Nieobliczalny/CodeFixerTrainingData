@@ -373,7 +373,7 @@ U7HE1 = R132fL3RF5(-1850906288, U7HE1, -665180356);
 }
 else
 {
-Ih7W3 = (unsigned char)(idht);
+
 }
 switch (idht)
 {
@@ -689,7 +689,7 @@ std::cout << "yAS54n" << SwRQ73y << std::endl;
 
 if (IW0Dc3yj2 <= Ih7W3)
 {
-da3WYT %= 1674653190;
+
 }
 else if (((JfXKV2hcL_ <= 697979550) || (SwRQ73y >= -372790486)) || ((u340W2C & -949864414) || (JfXKV2hcL_ & -662688153)))
 {
@@ -725,7 +725,7 @@ case 1:
 JfXKV2hcL_ = y_T944Y(idht, -1542549888, TvIkGM);
 break;
 case 2:
-sf_2Q3G /= TvIkGM;
+
 break;
 case 3:
 sf_2Q3G ^= 1189921802;
@@ -760,7 +760,7 @@ JfXKV2hcL_ = y_T944Y(Ih7W3, -36120550, idht);
 break;
 case 'b':
 case 'B':
-qu7kD7VC = Nx_V6o(qu7kD7VC);
+
 break;
 case 'c':
 case 'C':

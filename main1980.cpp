@@ -43,7 +43,7 @@ int main() {
 	unsigned int	nwKN;
 	nwKN	=	-1297462894;
   short  Mkl166sa;
-  Mkl166sa  =  -362754829;
+
   short  Yw__gu9;
   Yw__gu9  =  -705152441;
 	unsigned long	Je5T;
@@ -59,7 +59,7 @@ int main() {
  unsigned long LN893QT;
  LN893QT = 0;
 	short	s_VIZ;
-	s_VIZ	=	776172634;
+
 	short	DDk8_7HlB;
 	DDk8_7HlB	=	0;
   unsigned short int  J60FCg;
@@ -75,7 +75,7 @@ int main() {
   unsigned short  hxDB_;
   hxDB_  =  0;
   float  p2omo9;
-  p2omo9  =  1655210723;
+
  int cp3Evt;
  cp3Evt = 1935346335;
 	unsigned short	Cp15;
@@ -194,7 +194,7 @@ case 3:
 Idx2zw946 = A1x2e();
 break;
 case 4:
-x_AM6U6UD1 = t8q87DD - Kcua;
+
 break;
 default:
 AyKVDWG = H3f_pLJ7_(AyKVDWG, -1772513461, Kcua, DDk8_7HlB);
@@ -263,7 +263,7 @@ cVooHL723 <<= 1904943842;
 }
 else if ((Idx2zw946 != Je5T) || ((Idx2zw946) || (v9b60r & 924629943)))
 {
-Mkl166sa = (int)abs(cVooHL723);
+
 }
 else if (AyKVDWG != t8q87DD)
 {
@@ -277,7 +277,7 @@ WqN67pX = (int)ceil(AyKVDWG);
 }
 else
 {
-DDk8_7HlB = (int)abs(t8q87DD) * 0;
+
 }
 
 Ne37w = H3f_pLJ7_(hxDB_, -1833047487, 647626749, ihDP2J77);
@@ -293,7 +293,7 @@ for (int j = 0; j < 4; j++)
 {
 if (X2tp != v9b60r)
 {
-onRyD = A1x2e();
+
 }
 }
 }
@@ -316,7 +316,7 @@ catch (int& errorCode)
 v9b60r /= nwKN;
 }
 
-Cp15 = R_0rsa(Cp15);
+
 {
 int i = 0;
 do
@@ -331,7 +331,7 @@ if (cVooHL723 >= Ne37w)
 switch (nwKN)
 {
 case 0:
-onRyD = (int)abs(pwt9fJ7or);
+
 break;
 case 1:
 DDk8_7HlB = hI4o(cp3Evt, 1152713460, -139178987);
@@ -346,7 +346,7 @@ else if (iqjM6 <= V226G6d3)
 switch (Vd02)
 {
 case 'a':
-K1zH1cv = V226G6d3 | pwt9fJ7or;
+
 break;
 case 'b':
 p2omo9 = H3f_pLJ7_(p2omo9, -2025343365, WqN67pX, cp3Evt);
@@ -358,7 +358,7 @@ case 'd':
 p2omo9 = (int)ceil(g6OOr2_c);
 break;
 case 'e':
-t8q87DD = A1x2e();
+
 break;
 case 'f':
 DWxH83Bv /= V226G6d3;
@@ -374,7 +374,7 @@ Ne37w--;
 }
 else if (V226G6d3 < nwKN)
 {
-mgXh = hI4o(-1449662377, -1587737160, b_tt3_OJS);
+
 }
 else if (Yw__gu9 != B87_)
 {
@@ -385,7 +385,7 @@ else
 mgXh = (unsigned short int)(Ne37w * mgXh);
 }
 
-DWxH83Bv = Vd02 / ihDP2J77;
+
 
 if (((LWAK6G5zG1 < O_R34ZyEW_) && (g6OOr2_c > 1810321788)) || (X2tp >= Ne37w))
 {

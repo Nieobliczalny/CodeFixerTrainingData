@@ -125,7 +125,7 @@ FQCK8 = (int)ceil(DHT6nUIJZP);
 switch (cDud0832)
 {
 case 'a':
-tAaZJX = ZOVO1W0u(-687108652, YAO8cx);
+
 break;
 case 'b':
 tAaZJX = ZOVO1W0u(85039016, DHT6nUIJZP);
@@ -140,7 +140,7 @@ case 'e':
 ta9ibel3 = ZOVO1W0u(ta9ibel3, -1489328111);
 break;
 case 'f':
-tAaZJX = ZOVO1W0u(-584535157, DHT6nUIJZP);
+
 break;
 case 'g':
 ta9ibel3 = (int)abs(cDud0832);

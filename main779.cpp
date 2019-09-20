@@ -10,7 +10,7 @@ using namespace std;
 
 int main(void) {
  int fhXEo;
- fhXEo = -931545072;
+
 	unsigned long	lpcz5X;
 	lpcz5X	=	-1750448240;
 	unsigned short	lIvhB_Y;
@@ -44,7 +44,7 @@ int main(void) {
     unsigned short int    LrAn;
     LrAn    =    -483933671;
   unsigned char  rjEV6ch9LL;
-  rjEV6ch9LL  =  -1034862164;
+
 	unsigned char	Z9BS;
 	Z9BS	=	823690062;
   float  G4fs8ZmdA;
@@ -80,7 +80,7 @@ int main(void) {
   unsigned char  L_yI8ot2v6;
   L_yI8ot2v6  =  1586015958;
  unsigned short int DEJ5_;
- DEJ5_ = -652232692;
+
   short int  HgZ_cG;
   HgZ_cG  =  1302269758;
 	long	kGj8C;
@@ -129,7 +129,7 @@ else if (Yp2zN1_)
 {
 if ((d5Pnz0dv_I > HgZ_cG) && (an_FssxKk == -1674863712))
 {
-gkDB = (int)floor(mM1C_PhS8);
+
 }
 else if ((a8SBIYC != -1814646304) && (Y0DF))
 {
@@ -143,7 +143,7 @@ else if (qd__jmr343 == -856848023)
 {
 if ((uTbQC > -1015701718) && (an_FssxKk & 1934592163))
 {
-bYlx3T <<= 1174838516;
+
 }
 else
 {
@@ -187,7 +187,7 @@ if (((DEJ5_ < L_yI8ot2v6) || (qd__jmr343 == a8SBIYC)) || (InZJ9Z7 != kT9_x))
 {
 if ((YIM0gB4zH <= 2098737291) && ((xZ7kcV >= 1103248780) || (lIvhB_Y <= 1049020347)))
 {
-si0jB75CYK = Yp2zN1_ & 746118354;
+
 }
 }
 else if ((kT9_x) && (ekqv0lurL5))
@@ -212,7 +212,7 @@ if (YIM0gB4zH >= G4fs8ZmdA)
 int k = 0;
 while (k < 4)
 {
-gl8j4XKP0 = DEJ5_ & HgZ_cG;
+
 ++k;
 }
 }
@@ -227,7 +227,7 @@ for (int i = 0; i < 9; ++i)
 cout << nhW2m << endl;
 }
 
-bYlx3T = HtDI14WF / kGj8C;
+
 
 if (((YIM0gB4zH >= -2017213899) || (Y0DF == ekqv0lurL5)) && ((Y0DF >= G4fs8ZmdA) || (LrAn != d5Pnz0dv_I)))
 {
@@ -240,7 +240,7 @@ case 1:
 lIvhB_Y--;
 break;
 case 2:
-ekqv0lurL5 = kT9_x % 563809720;
+
 break;
 case 3:
 I8oia2t2d <<= 326620827;
@@ -252,7 +252,7 @@ case 5:
 gkDB = lIvhB_Y & 2037908466;
 break;
 case 6:
-vlYF0W = (int)ceil(hBdI6d0WHt);
+
 break;
 case 7:
 JurU /= aH92Ut3S;
@@ -291,7 +291,7 @@ try
 {
 if (YaoH <= -1933658396)
 {
-xZ7kcV ^= 1412938202;
+
 }
 else
 {
@@ -311,7 +311,7 @@ case 'a':
 JurU ^= Y0DF;
 break;
 case 'b':
-kGj8C = (int)abs(Yp2zN1_) * 0;
+
 break;
 case 'c':
 gkDB = (int)ceil(K8i9Sef_U9);
@@ -329,7 +329,7 @@ case 'g':
 an_FssxKk = L4TmsMHIW3 >> 1204897945;
 break;
 case 'h':
-M7Oxs7817 = Ymm6 ^ aH92Ut3S;
+
 break;
 }
 try
@@ -352,7 +352,7 @@ switch (Ymm6)
 {
 case 'a':
 case 'A':
-G4fs8ZmdA = (int)abs(paMm6);
+
 break;
 case 'b':
 case 'B':

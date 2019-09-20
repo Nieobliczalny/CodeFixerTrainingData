@@ -34,7 +34,7 @@ int main(void) {
     tP15y6a_g    =    0;
     Wb0_2Ws3    =    0;
   long  iGmj2NhS,  S9Eu,  P2i1dS,  Y_NgEIwSW7,  nk5efPHgZV,  S81x3Y,  U0I6sB35iN,  TgUC_jYhh,  Q75hb,  E0SzQW11,  xfDm_YCro,  y075u9T2Jw,  hXVts_8_6,  cfReuR39Wg,  ctUenq5,  DvFGXGDjBh,  KO5LckY,  d8mC8GXe,  RDZXR7HMs,  qm10,  FvB7B6G_0,  yQP1978,  DGB47,  m_p_wa,  b_PxR,  x561qozU3H,  MB48sZ6b5,  E7Y82,  Edk0Wejz,  Bvis56,  U_6L4SF1A,  u32F_P,  AMlPMKm,  e5QQ08J3,  zCV6h,  kXSi,  z_JI9,  K4X4V5,  T5WwOA11,  Y_gvFLta_,  saPR1,  w5a44n,  vr8x0tq;
-  iGmj2NhS  =  603541226;
+
   S9Eu  =  -1052658970;
   P2i1dS  =  -362307893;
   Y_NgEIwSW7  =  585035613;
@@ -278,7 +278,7 @@ else if (Q75hb > T5WwOA11)
 {
 try
 {
-Q75hb ^= 570218048;
+
 }
 catch (int& errorCode)
 {
@@ -302,7 +302,7 @@ else
 int k = 8;
 while (k >= 0)
 {
-Q75hb = TP9ggrc();
+
 --k;
 }
 }
@@ -328,7 +328,7 @@ case 'e':
 zCV6h = TQZhsvMsp_(-1258542311, -1951726151, y075u9T2Jw);
 break;
 case 'f':
-TgUC_jYhh = TQZhsvMsp_(100527236, LC0J5WUl, P2i1dS);
+
 break;
 case 'g':
 saPR1 = TP9ggrc();
@@ -467,7 +467,7 @@ else if (LC0J5WUl > 1313723145)
 {
 if (vr8x0tq >= DGB47)
 {
-Q75hb = (long)(T5WwOA11);
+
 }
 else if (T5WwOA11)
 {
@@ -513,7 +513,7 @@ else
 int j = 0;
 do
 {
-e5QQ08J3 = (int)abs(S81x3Y);
+
 ++j;
 }
 while (j < 2);
@@ -555,7 +555,7 @@ case 2:
 Q8PNn = IF1r_(u32F_P, K4X4V5);
 break;
 case 3:
-U0I6sB35iN %= TgUC_jYhh;
+
 break;
 case 4:
 yQP1978 = yQP1978 & 727300573;
@@ -576,7 +576,7 @@ case 9:
 KO5LckY = TQZhsvMsp_(KO5LckY, Edk0Wejz, U0I6sB35iN);
 break;
 default:
-U_6L4SF1A = TQZhsvMsp_(Q8PNn, U_6L4SF1A, KO5LckY);
+
 break;
 }
 }
@@ -591,7 +591,7 @@ Wb0_2Ws3 = IF1r_(T5WwOA11, x561qozU3H);
 switch (m_p_wa)
 {
 case 'a':
-U0I6sB35iN = IF1r_(T5WwOA11, x561qozU3H) - 1993530757;
+
 break;
 default:
 E7Y82 -= E0SzQW11;
@@ -602,7 +602,7 @@ if (Bvis56 <= z_JI9)
 {
 if (E7Y82 >= Y_gvFLta_)
 {
-FvB7B6G_0 = vr8x0tq % S9Eu;
+
 }
 else if ((qm10 < -1290187346) && ((yQP1978 >= AMlPMKm) && (yQP1978 & Q8PNn)))
 {
@@ -618,7 +618,7 @@ else
 int k = 1;
 while (k >= 0)
 {
-KO5LckY = TP9ggrc();
+
 k--;
 }
 }

@@ -53,7 +53,7 @@ int main(void) {
 	unsigned long	bumDSVo4us;
 	bumDSVo4us	=	1386156008;
  unsigned short int n3t3sOxNS;
- n3t3sOxNS = -1755173067;
+
  unsigned long lW4k;
  lW4k = 194716345;
   long long  G6J9a2;
@@ -95,7 +95,7 @@ int main(void) {
   int  wzx3Cya3Nq;
   wzx3Cya3Nq  =  327111876;
   float  R1R4s6HF;
-  R1R4s6HF  =  2092699241;
+
  float Z46yvJePji;
  Z46yvJePji = 711403993;
  long double gJSd;
@@ -113,7 +113,7 @@ int main(void) {
 	long	qq4D3O_;
 	qq4D3O_	=	0;
  double i_0XKG;
- i_0XKG = -1260779901;
+
  short int v9667nU9Zb;
  v9667nU9Zb = 2009046733;
 
@@ -197,7 +197,7 @@ try
 {
 if ((G6J9a2 <= -828350575) || (tl_O <= GSKa81))
 {
-GNofqcV = n_5pJ(GNofqcV);
+
 }
 else
 {
@@ -219,7 +219,7 @@ q97b3Me3 /= 1710537085;
 }
 else
 {
-ySsVjduOAB = Ouh9iJ_m >> cE2T9;
+
 }
 }
 }
@@ -267,7 +267,7 @@ switch (Vp_pH)
 {
 case 'a':
 case 'A':
-K1IYwj = PKx9waRR << 156538722;
+
 break;
 case 'b':
 case 'B':
@@ -279,7 +279,7 @@ KqujMU5 = n_5pJ(KqujMU5);
 break;
 case 'd':
 case 'D':
-Yce4eh = n_5pJ(KqujMU5) ^ Ouh9iJ_m;
+
 break;
 case 'e':
 case 'E':
@@ -359,7 +359,7 @@ aG9g1G1 = (unsigned short int)(qq4D3O_ + (-470815488));
 YMNu = (int)abs(Vxqpj);
 n3t3sOxNS = (unsigned short int)(G6J9a2);
 
-G6J9a2 = n_5pJ(1515881854);
+
 
 v2YD = QsQY(aG9g1G1, z4smaBPUxN, 1649284686, 1640539278);
 
@@ -372,7 +372,7 @@ if ((fS04G6U6 > aG9g1G1) || ((ZhnLxxh9f >= 1105681721) && (ePz51P > qq4D3O_)))
 {
 for (int k = 0; k < 2; ++k)
 {
-Yce4eh = XZuy8 - 45402966;
+
 }
 }
 }
@@ -413,7 +413,7 @@ Re4_ |= 953041119;
 --i;
 }
 }
-FY1PYPjn = (unsigned short int)(Vp_pH);
+
 
 switch (xYENo)
 {
@@ -424,7 +424,7 @@ case 1:
 ljQ_S5c71o |= YMNu;
 break;
 case 2:
-aG9g1G1 = n_5pJ(aG9g1G1);
+
 break;
 case 3:
 nm4Gb4 = n3t3sOxNS / q97b3Me3;
@@ -439,7 +439,7 @@ break;
 
 if (OWs52eR)
 {
-m3043 = (int)floor(nJHQ);
+
 }
 else
 {
@@ -466,7 +466,7 @@ int j = 8;
 while (j >= 0)
 {
 --j;
-tl_O = (char)(fS04G6U6);
+
 }
 }
 }
@@ -491,7 +491,7 @@ gJSd = (int)abs(s09Lr6I);
 
 if (PKx9waRR != fhbmhIeIz)
 {
-ySsVjduOAB = q97b3Me3 % 1948251398;
+
 }
 
 return 0;

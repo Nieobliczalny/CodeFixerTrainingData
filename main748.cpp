@@ -299,7 +299,7 @@ if ((X3Jb < 136981804) && (qGdp2 == 1519018081))
 switch (i5BDF8Gw)
 {
 case 'a':
-jRAI4a2 = ytS9l(mRA1bC, jRAI4a2, koeVZP1, qGdp2);
+
 break;
 case 'b':
 WuR7O21 = zGqD / 1046537604;
@@ -402,7 +402,7 @@ else
 switch (tSU_8)
 {
 case 0:
-jRAI4a2 = ytS9l(-1845617153, Ua3u076E, 2044426105, tSU_8);
+
 break;
 case 1:
 jRAI4a2 = ytS9l(jRAI4a2, 139276849, -2087611091, 1773130547);
@@ -607,7 +607,7 @@ B08vgc99Bo = ytS9l(B08vgc99Bo, i5BDF8Gw, mRA1bC, -318700380);
 switch (B08vgc99Bo)
 {
 case 0:
-koeVZP1 = (int)abs(ROcj2NC);
+
 break;
 case 1:
 zGqD = koeVZP1 - 1805848096;
@@ -622,7 +622,7 @@ case 4:
 zGqD = (int)abs(tSU_8);
 break;
 case 5:
-qGdp2 = ytS9l(qGdp2, 1011021506, zGqD, ROcj2NC);
+
 break;
 case 6:
 zGqD--;

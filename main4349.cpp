@@ -67,7 +67,7 @@ int k = 10;
 while (k >= 0)
 {
 k--;
-anEsSn = JPEL6 % 977844455;
+
 }
 }
 }
@@ -133,7 +133,7 @@ try
 {
 if (a0MR_9V == n6YB)
 {
-Rh76N56o87 = Zdv0nW4(N3ZAVQ0qVA, 2048764488, 1335832168, 1125815532);
+
 }
 else if ((jNY2pl & -1773937372) || (Y00Ra >= 333251073))
 {
@@ -143,7 +143,7 @@ case 'a':
 Og3MpsU = H8bo >> jgKEG2;
 break;
 case 'b':
-cd1GF5f_r = i3U9_70n(-1382521105, N3ZAVQ0qVA, v33XJyue0p, -207215262);
+
 break;
 case 'c':
 W2oFy12wD = Zdv0nW4(660166832, W2oFy12wD, jNY2pl, 1736235268);
@@ -170,7 +170,7 @@ int j = 1;
 while (j >= 0)
 {
 --j;
-H8bo = (unsigned short int)(nLY5vz_Q1);
+
 }
 }
 }

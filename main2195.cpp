@@ -41,7 +41,7 @@ int k = 0;
 do
 {
 ++k;
-ySg_NSv = (int)abs(udUjBdn1d) * 0;
+
 }
 while (k < 9);
 }

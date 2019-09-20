@@ -70,7 +70,7 @@ int main(int argc, char** argv) {
   short  f7OtE_4F39;
   f7OtE_4F39  =  -1341606420;
 	long double	tzE9;
-	tzE9	=	1751913261;
+
     unsigned long long    Qwdwk_6SV;
     Qwdwk_6SV    =    -1292855120;
 	unsigned long	jW_dXZJ7c;
@@ -82,7 +82,7 @@ int main(int argc, char** argv) {
 	unsigned int	qEV8z1kBR;
 	qEV8z1kBR	=	-1104572375;
 	unsigned char	TkX44gXHfZ;
-	TkX44gXHfZ	=	-791639813;
+
  float f5OhPrrS8D;
  f5OhPrrS8D = -299450233;
   unsigned long  tMS3900J4;
@@ -92,7 +92,7 @@ int main(int argc, char** argv) {
 	unsigned short	cql4DZ4;
 	cql4DZ4	=	560570967;
   unsigned short  LZh9g;
-  LZh9g  =  1655428526;
+
   double  jq28Y1uP57;
   jq28Y1uP57  =  -1627795101;
   int  DVT7FSp;
@@ -122,7 +122,7 @@ int main(int argc, char** argv) {
 
 if (oe0EViwzs < SzY_yUw)
 {
-tzE9 = (int)floor(f5OhPrrS8D);
+
 }
 else
 {
@@ -142,7 +142,7 @@ qEV8z1kBR = xqB_c / WR_LG780N;
 
 if (DB9L3uZoj == N5Ymx6s49)
 {
-oe0EViwzs = (short)(SzY_yUw);
+
 }
 else
 {
@@ -253,7 +253,7 @@ switch (EJ2u5bS_I)
 {
 case 'a':
 case 'A':
-f5OhPrrS8D = f1VSa232(1578257147, U4tbq7, EJ2u5bS_I, 312766233, IYt7u5X);
+
 break;
 }
 }
@@ -289,7 +289,7 @@ else
 {
 try
 {
-f5OhPrrS8D = (int)floor(jq28Y1uP57);
+
 }
 catch (int& errorCode)
 {
@@ -336,7 +336,7 @@ if (Eb6neV0(Qwdwk_6SV) == 0)
 {
 	jW_dXZJ7c = CC99 / Eb6neV0(Qwdwk_6SV);
 }
-JWcB8f2_ = (int)ceil(Wo1t);
+
 {
 int i = 5;
 do
@@ -377,7 +377,7 @@ case 'f':
 oe0EViwzs--;
 break;
 default:
-f5OhPrrS8D = (int)floor(tzE9);
+
 break;
 }
 D46QV = BkBr0rQfe();
@@ -389,7 +389,7 @@ while (i >= 0)
 int j = 0;
 do
 {
-qEV8z1kBR = iPM98v0O | 301479125;
+
 ++j;
 }
 while (j < 9);
@@ -400,7 +400,7 @@ i--;
 switch (Qwdwk_6SV)
 {
 case 0:
-q_K722k_ = HqdqDwip(q_K722k_, sxYQ2PCF);
+
 break;
 case 1:
 DVT7FSp = (int)abs(xqB_c);
@@ -420,7 +420,7 @@ if (KMASN & CC99)
 int j = 6;
 while (j >= 0)
 {
-cql4DZ4 = KMASN * sxYQ2PCF;
+
 j--;
 }
 }
@@ -441,7 +441,7 @@ else if (sxYQ2PCF > FNCjN12Sr)
 {
 for (int j = 8; j >= 0; --j)
 {
-iPM98v0O = Eb6neV0(-967534338);
+
 }
 }
 else if (((jq28Y1uP57) || (U4tbq7 & y8f6)) || (KMASN))
@@ -452,7 +452,7 @@ else if (jW_dXZJ7c >= SzY_yUw)
 {
 try
 {
-iPM98v0O = (unsigned long long)(jW_dXZJ7c * (CC99));
+
 }
 catch (int& errorCode)
 {

@@ -97,7 +97,7 @@ case 1:
 iWmy = B_MnSu5Fu >> 604065225;
 break;
 case 2:
-w6x39NRve1 = Nk7bbcYC8(I3RT, w6x39NRve1, 1916193091, f42s4N);
+
 break;
 case 3:
 w6x39NRve1 = Nk7bbcYC8(husW9, f42s4N, ndy7, w6x39NRve1);
@@ -123,7 +123,7 @@ p99523J = (int)ceil(Y0Pv82yCE);
 }
 else if (Ji6131ws2 > 1843110517)
 {
-w6x39NRve1 = Nk7bbcYC8(1905876988, I3RT, -1900512747, -1216355234);
+
 }
 else
 {
@@ -175,7 +175,7 @@ cout << Nk7bbcYC8(561959713, 1567503380, w7p6Rt, -129361377) << oGX2Mm << "f_AwE
 switch (g3OnP1244)
 {
 case 'a':
-PfQ08y += Ji6131ws2;
+
 break;
 case 'b':
 w6x39NRve1 = Nk7bbcYC8(fd43EI9izC, oGX2Mm, PfQ08y, I3RT);
@@ -193,7 +193,7 @@ if (((k1M9) && (p99523J >= fd43EI9izC)) && ((fd43EI9izC < hr4AV) && (N_i2dWi)))
 int k = 0;
 do
 {
-I3RT = N_i2dWi & oGX2Mm;
+
 ++k;
 }
 while (k < 1);
@@ -330,7 +330,7 @@ p99523J = (int)floor(Y0Pv82yCE);
 }
 }
 
-sGjv >>= N_i2dWi;
+
 return 0;
 }
 

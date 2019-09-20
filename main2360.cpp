@@ -189,7 +189,7 @@ y4N5 = S60sjWS5b + v2rf3bleE;
 break;
 case 'b':
 case 'B':
-X59B &= 437031297;
+
 break;
 case 'c':
 case 'C':
@@ -267,7 +267,7 @@ break;
 }
 else if ((v2rf3bleE != Y1T0o901) || (Y1T0o901 < 370575586))
 {
-xp4R2 = WH0F2DUi / 1115706618;
+
 }
 else if (xp4R2 >= -2036436806)
 {
@@ -300,7 +300,7 @@ if (y4N5 != 1104729424)
 switch (G_jm)
 {
 case 'a':
-y4N5 = W4g17lFj << 503228699;
+
 break;
 case 'b':
 S60sjWS5b /= X59B;

@@ -31,7 +31,7 @@ int main(void) {
  pQoe6 = -171391892;
  OtHuU0k6 = 1245546201;
  VO647dsH = 2133274616;
- V_ine_ = -680365512;
+
  ihq1HLcky = -726205041;
  LC_eM = 438927363;
  z36my = -2114653287;
@@ -131,7 +131,7 @@ case 'D':
 YxB_gXBLm = k1r8WVRWC(pQoe6, N675, ihq1HLcky);
 break;
 default:
-V_ine_ = C77T(-624630933, RsXL, OtHuU0k6);
+
 break;
 }
 }
@@ -496,7 +496,7 @@ case 3:
 ihq1HLcky = C77T(-1126173382, ihq1HLcky, pQoe6);
 break;
 case 4:
-V_ine_ = V_ine_ + r17cL8w5;
+
 break;
 default:
 ZiwK2a_zZ5 = Nvq76U9_ >> 1962155250;
@@ -556,7 +556,7 @@ else
 {
 try
 {
-V_ine_ = C77T(-1238006484, 1290274213, -361775744);
+
 }
 catch (int& errorCode)
 {
@@ -566,7 +566,7 @@ VO647dsH /= 1874815567;
 }
 if (((r1p3rxOYb) && (LC_eM >= Nvq76U9_)) || ((ihq1HLcky >= OtHuU0k6) || (r17cL8w5 == ZiwK2a_zZ5)))
 {
-ihq1HLcky = i2foccQ1bZ & 1771101946;
+
 }
 else if (i2foccQ1bZ & 1941759202)
 {
@@ -587,7 +587,7 @@ case 'a':
 zYJ8WhMEd = k1r8WVRWC(VO647dsH, -209228002, -1950658229);
 break;
 case 'b':
-fn4O_15rU_ *= 1683146555;
+
 break;
 case 'c':
 iVUzRJTzn = C77T(J99FG, 1220552104, -1403881368);
@@ -599,7 +599,7 @@ case 'e':
 r1p3rxOYb = (int)abs(N675);
 break;
 case 'f':
-z36my -= 565002136;
+
 break;
 default:
 V_ine_ = (int)abs(ZiwK2a_zZ5);
@@ -629,7 +629,7 @@ else
 {
 cout << qSv3d << "LP11t" << C77T(839204588, -705061702, i2foccQ1bZ) << C77T(-1846761909, 17403744, i2foccQ1bZ) << endl;
 }
-ZiwK2a_zZ5 = 551548814 / zYJ8WhMEd;
+
 
 return 0;
 }

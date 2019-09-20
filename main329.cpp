@@ -170,7 +170,7 @@ i--;
 }
 while (i >= 0);
 }
-xGP4uQ5_V = (unsigned short)(oAtD2QRoI);
+
 
 xGP4uQ5_V = (unsigned short)(oAtD2QRoI);
 switch (J4SI15o)

@@ -34,7 +34,7 @@ int main() {
     Nc_uk8    =    1983339608;
     r7CSs1L    =    899825329;
     Tg8PD24zzQ    =    -1604528210;
-    J4Tby    =    -1794094510;
+
     FN_yzzv    =    -486073608;
     y8hY    =    1507236044;
     V8ArCH    =    507021992;
@@ -60,7 +60,7 @@ int main() {
     NTz2eLR    =    584075066;
     nWPG427zV    =    509832384;
     x9qy    =    986485477;
-    L0P8    =    1234263701;
+
     X77YrN    =    1313357107;
     J_QM7    =    -1826159604;
     WpziZ    =    -2049999306;
@@ -84,7 +84,7 @@ while (j >= 0)
 int k = 8;
 while (k >= 0)
 {
-qKn6X1xsg = o_8_nhr51d + x9qy;
+
 k--;
 }
 }
@@ -182,7 +182,7 @@ else
 int j = 0;
 do
 {
-Tg8PD24zzQ = (char)(IBjKi4Kx2M);
+
 ++j;
 }
 while (j < 5);
@@ -228,7 +228,7 @@ if (dOxs9wp3C <= 508173552)
 int j = 2;
 while (j >= 0)
 {
-k58CmP = (char)(y8hY);
+
 j--;
 }
 }
@@ -253,7 +253,7 @@ AiYmFtD5 += J_QM7;
 }
 else if (dOxs9wp3C < 82816788)
 {
-SC7xq3Z = Xfx0 * 442791182;
+
 }
 else if (((WpziZ < x9qy) && (IBjKi4Kx2M < CeQ4zmZu)) && (o_8_nhr51d != 831390297))
 {
@@ -264,7 +264,7 @@ X767XW__M = E8zJD4(X767XW__M, V8ArCH, 362787288, 374606952);
 }
 else
 {
-V8ArCH = (char)(nWPG427zV);
+
 }
 k58CmP = E8zJD4(1769488436, Nc_uk8, 1701273293, FN_yzzv);
 
@@ -278,7 +278,7 @@ int j = 0;
 while (j < 4)
 {
 j++;
-k2u4y47j = (char)(xkiR);
+
 }
 }
 }
@@ -300,7 +300,7 @@ int j = 7;
 do
 {
 j--;
-qKn6X1xsg = (int)abs(ozC8);
+
 }
 while (j >= 0);
 }
@@ -326,7 +326,7 @@ else
 std::cout << NHkn_V984(1095476169, -734231055, -1843422636) << std::endl;
 }
 std::cout << Z95ct6 << "TAktx" << std::endl;
-xkiR = h0CP ^ 176082124;
+
 try
 {
 r40xQYX15l = (char)(nWPG427zV);

@@ -40,7 +40,7 @@ case 0:
 kMTZDGa4_B = AFu5O8r0(801613237);
 break;
 case 1:
-k4oz = nySnR_jTB(k4oz, -1486634684, 1405351822, -622725941, smLEt);
+
 break;
 case 2:
 vnAA7 = AFu5O8r0(1508192132);
@@ -52,7 +52,7 @@ case 4:
 kMTZDGa4_B = AFu5O8r0(-2072621990);
 break;
 case 5:
-p46ZGg %= C1Ig;
+
 break;
 case 6:
 Fb_3k = AFu5O8r0(Fb_3k);
@@ -105,7 +105,7 @@ C1Ig = C1Ig ^ 100455810;
 break;
 case 'c':
 case 'C':
-TU05U = nySnR_jTB(1690973687, vnAA7, -2069339075, ptV8PS3Y, -1267296685) >> YHhI;
+
 break;
 case 'd':
 case 'D':
@@ -119,7 +119,7 @@ while (j >= 0);
 }
 }
 std::cout << ptV8PS3Y << std::endl;
-C1Ig = (unsigned long long)(smLEt);
+
 
 std::cout << "QB2_5Dd" << R35mv6PSm << std::endl;
 
@@ -131,7 +131,7 @@ R266 -= 2120770847;
 }
 O1_jj++;
 
-R35mv6PSm = hm6_8(981407548, 1532800725);
+
 
 return 0;
 }

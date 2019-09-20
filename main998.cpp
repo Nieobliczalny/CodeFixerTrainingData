@@ -121,7 +121,7 @@ j--;
 switch (KQyY57DDkp)
 {
 case 0:
-YIY2v4i_q_ = q6mb5Q2 & MeYU4jxDv_;
+
 break;
 case 1:
 KQyY57DDkp = ba0grcx4JC(z4h2, -802241937, MeYU4jxDv_);
@@ -249,7 +249,7 @@ case 5:
 TJAhpF_k0 = ONPxH8ZA(dEBeC92x2, YIY2v4i_q_, 1221174451, NOGp8WvGK, -1746411858);
 break;
 case 6:
-YIY2v4i_q_ = XzS7541z9f(YIY2v4i_q_, jFFPVVy, 906988566);
+
 break;
 case 7:
 jFFPVVy = KNSSc();
@@ -294,7 +294,7 @@ case 'b':
 NOGp8WvGK <<= KQyY57DDkp;
 break;
 case 'c':
-dEBeC92x2 = X4bzs(dEBeC92x2, 469629627, -284662768, YIY2v4i_q_, 1168482603);
+
 break;
 case 'd':
 TJAhpF_k0 = ONPxH8ZA(-786686314, 1229271712, 1076848978, 687873422, -424333661);
@@ -360,7 +360,7 @@ q6mb5Q2 -= NOGp8WvGK;
 break;
 }
 
-dEBeC92x2 = jFFPVVy / ONPxH8ZA(YIY2v4i_q_, IB4Atik, -1415545309, -1331390048, -1164541283);
+
 
 std::cout << ONPxH8ZA(1688604218, IB4Atik, NOGp8WvGK, q6mb5Q2, 1108993799) << std::endl;
 

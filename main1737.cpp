@@ -19,7 +19,7 @@ int main(void)
 	unsigned int	aeI7zW9t3I;
 	aeI7zW9t3I	=	750618015;
  short int d8ttqb;
- d8ttqb = 1468356830;
+
     unsigned int    Lnk61;
     Lnk61    =    1679689754;
 	unsigned short int	vdU4h2t;
@@ -29,7 +29,7 @@ int main(void)
  float BQP3;
  BQP3 = -2125132968;
     unsigned long long    v9cVQZ5Tt1;
-    v9cVQZ5Tt1    =    1535807736;
+
 	unsigned long long	E6c4UC09p;
 	E6c4UC09p	=	420700592;
   long  Hvj7rQ_k2;
@@ -41,7 +41,7 @@ int main(void)
 	long long	ZcAqukVYR;
 	ZcAqukVYR	=	-920366474;
     long    n0O_To0D;
-    n0O_To0D    =    -1546504187;
+
     int    ItkrA42PRc;
     ItkrA42PRc    =    310260210;
   unsigned long long  cuGd2;
@@ -69,7 +69,7 @@ int main(void)
     short    PmH_46j;
     PmH_46j    =    -2116442149;
     int    WZDsg5I;
-    WZDsg5I    =    351810828;
+
     short int    kZ18bwD;
     kZ18bwD    =    1937103034;
  unsigned short int t56tULYvX;
@@ -79,7 +79,7 @@ int main(void)
   float  wi959OAefk;
   wi959OAefk  =  -844298902;
     double    iW16kyaJ;
-    iW16kyaJ    =    -1085959291;
+
 	short int	KcbuZH;
 	KcbuZH	=	-845832466;
 	short int	o_tahts27i;
@@ -93,7 +93,7 @@ int main(void)
     unsigned int    BgEh1D8A8I;
     BgEh1D8A8I    =    -1826004982;
  unsigned short Rzfy8;
- Rzfy8 = -1709060010;
+
 	unsigned char	bh5ii88;
 	bh5ii88	=	-729244225;
     short int    w5SLdj3040;
@@ -103,7 +103,7 @@ int main(void)
     int    A1YLt25mI;
     A1YLt25mI    =    1515881619;
 	char	CT_77V;
-	CT_77V	=	1540591792;
+
 	unsigned long long	mndLg;
 	mndLg	=	-1485140399;
     unsigned long    yh99c1r;
@@ -113,7 +113,7 @@ int main(void)
  long long k79D_8r4;
  k79D_8r4 = -134937328;
     unsigned char    FN9goH3Y;
-    FN9goH3Y    =    -228012872;
+
   long long  YL3d0;
   YL3d0  =  -503145114;
 	short	s4_Yl5jB;
@@ -189,7 +189,7 @@ case 'd':
 zgr2_UIK6 = PT0_O(639267652);
 break;
 case 'e':
-BgEh1D8A8I *= 1013006523;
+
 break;
 case 'f':
 w5SLdj3040 &= 457195609;
@@ -227,7 +227,7 @@ case 2:
 Dd1e = (int)floor(E0_uV);
 break;
 case 3:
-ESZLJttL = PT0_O(BQP3) / 666547556;
+
 break;
 case 4:
 Q84404EWe--;

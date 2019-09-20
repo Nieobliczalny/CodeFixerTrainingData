@@ -394,7 +394,7 @@ try
 {
 try
 {
-JQ90 = (char)(dzs_l6 * JQ90);
+
 }
 catch (int& errorCode)
 {
@@ -509,7 +509,7 @@ switch (q_pM)
 {
 case 'a':
 case 'A':
-ZjDTSaCC = p3nSjufC(56612148, feHpF2oK8, oG3kf0P9Aw);
+
 break;
 }
 }

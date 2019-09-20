@@ -87,7 +87,7 @@ int main(void) {
 	unsigned long long	Tk3YFV;
 	Tk3YFV	=	406859179;
  float yK9p6;
- yK9p6 = -1049863701;
+
   unsigned int  l8k8TFp;
   l8k8TFp  =  1376913116;
  unsigned short int AQ0ef;
@@ -99,7 +99,7 @@ int main(void) {
 	unsigned short	afWuM;
 	afWuM	=	-42831728;
 	unsigned int	Aa5ya8E5j;
-	Aa5ya8E5j	=	-982734700;
+
 	long	bsP40f2jI;
 	bsP40f2jI	=	0;
   unsigned short int  b6oh9CE6WZ;
@@ -189,7 +189,7 @@ case 3:
 pg73y9 = (int)ceil(uRP1);
 break;
 case 4:
-Aa5ya8E5j = KlGB_k3bI(-644576540) - 1816681697;
+
 break;
 }
 }
@@ -245,7 +245,7 @@ w_us92J_95 = (char)(Tk3YFV);
 Aa5ya8E5j = M_aD4h1T4() / bsP40f2jI;
 if ((UgF_v < -1706485322) || (V0tEJ != 646166785))
 {
-p8Bjt = HdF90r(358936974, pyxwBsN, xL4co8Q, Qb4Q34V);
+
 }
 else if (UgF_v == VbS_NUR03)
 {
@@ -278,7 +278,7 @@ case 'c':
 uRP1 = (int)floor(R__yLO4);
 break;
 case 'd':
-yK9p6 = (int)floor(R__yLO4);
+
 break;
 case 'e':
 uRP1 = (int)floor(R__yLO4);
@@ -301,7 +301,7 @@ else if ((VbS_NUR03 < E9g5) && ((bsP40f2jI <= -91867876) || (v5Vz9HuYn == -67140
 int k = 10;
 do
 {
-p8Bjt = M_aD4h1T4();
+
 k--;
 }
 while (k >= 0);
@@ -429,7 +429,7 @@ while (k >= 0);
 }
 else if (bsP40f2jI <= D1Jf2hn4s)
 {
-bsP40f2jI = KlGB_k3bI(pyxwBsN);
+
 }
 else if ((pyxwBsN == b6oh9CE6WZ) || ((S3dE34o < bRpU_7h) || (Ne1500z6q >= 1846128827)))
 {
@@ -447,7 +447,7 @@ bRpU_7h <<= mDNob;
 }
 else if (d16mP <= xPWPuqk5)
 {
-D1Jf2hn4s = AWm_H(D1Jf2hn4s, Qb4Q34V);
+
 }
 else if (mDNob > 845193444)
 {
@@ -464,7 +464,7 @@ else if (afWuM <= 195105911)
 int k = 0;
 do
 {
-yK9p6 = (int)ceil(pg73y9);
+
 ++k;
 }
 while (k < 7);
@@ -474,7 +474,7 @@ else
 {
 if ((Qb4Q34V <= -823109287) && (w_us92J_95 < O3wgpJ5p))
 {
-Qb4Q34V = xL4co8Q << Ois2P5j_;
+
 }
 }
 }
@@ -527,7 +527,7 @@ case 3:
 bRpU_7h = M_aD4h1T4();
 break;
 case 4:
-yK9p6 = VbS_NUR03 % bRpU_7h;
+
 break;
 case 5:
 bsP40f2jI = (int)abs(JF7AQQ_) * 0;
@@ -543,7 +543,7 @@ if ((VbS_NUR03 > -985903209) || (xPWPuqk5 & -173026029))
 {
 try
 {
-bsP40f2jI = KlGB_k3bI(-1389567375);
+
 }
 catch (int& errorCode)
 {
@@ -558,7 +558,7 @@ if (mDNob != 813495825)
 std::cout << "mPtX_8" << std::endl;
 }
 
-uRP1 = iq4lmZ & pyxwBsN;
+
 
 try
 {
@@ -570,7 +570,7 @@ else
 {
 if (w_us92J_95 & -1880555872)
 {
-afWuM = AWm_H(413715141, afWuM);
+
 }
 else if (tVhRLSEo_ != v5Vz9HuYn)
 {
@@ -595,7 +595,7 @@ pg73y9 = HdF90r(655296539, O3wgpJ5p, UgF_v, -1868237887);
 }
 }
 
-bsP40f2jI = (int)abs(R__yLO4) * 0;
+
 
 return 0;
 }

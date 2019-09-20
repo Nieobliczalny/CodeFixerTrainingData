@@ -44,7 +44,7 @@ int main(int argc, char** argv)
 	SldX1D02	=	-1554179075;
 	HyfLsn	=	1068903692;
 	fnmtWut	=	-155763347;
-	t0kq_51x	=	-1406906618;
+
 	LnI_t_2_Z2	=	-1991120275;
 	UuuSya9Dt	=	-40628486;
 	p2pox	=	1307622317;
@@ -56,7 +56,7 @@ int main(int argc, char** argv)
 	iV5xu6VrG	=	163190784;
 	qh43i	=	-574063531;
 	A9o7VK	=	-1957525282;
-	YLPWOIGdhf	=	-483064391;
+
 	q2ZIQ	=	1728181566;
 	LZ5D	=	61402938;
 	V7tt_DJ1Z	=	1571572558;
@@ -67,7 +67,7 @@ int main(int argc, char** argv)
 	W5h_k1	=	-357835315;
 	htWVhv	=	500050103;
 	IirSE4s	=	-567609419;
-	n2jZ6	=	47971595;
+
 	RypT	=	2681711;
 	ol9Ra2t_7	=	391114000;
 	FZG_4	=	-1818952820;
@@ -81,7 +81,7 @@ int main(int argc, char** argv)
 	DZWLrOQx	=	142850327;
 	n_iW	=	-1070917888;
 	S8vWCh	=	824471922;
-	TPc8Wg5sO	=	-157465931;
+
 	NaHW6P	=	1054164971;
 	iY_G	=	-1722064389;
 	ElIG	=	2128512073;
@@ -109,7 +109,7 @@ case 'b':
 IirSE4s = (int)abs(NmL09);
 break;
 case 'c':
-Vmxz_cNTk0 = ZvTq8lQ6X(319644164, 1009066193);
+
 break;
 case 'd':
 uWeeMkM = aAY_6_3L5(114024068, 319902351);
@@ -181,7 +181,7 @@ iV5xu6VrG = (int)abs(L9q9O05);
 
 if (L9q9O05 <= -299463634)
 {
-p2pox = (short)(fnmtWut);
+
 }
 else
 {
@@ -196,7 +196,7 @@ while (j >= 0)
 --j;
 for (int k = 0; k < 10; k++)
 {
-YLPWOIGdhf = V4Ni2mD1I6 ^ 1205685801;
+
 }
 }
 }
@@ -212,7 +212,7 @@ else
 switch (sxtqt)
 {
 case 0:
-NmL09 = ZvTq8lQ6X(NmL09, 1002527013);
+
 break;
 case 1:
 fnmtWut = (iY_G > 917338215) ? aAY_6_3L5(-1870351666, -2146613436) : z9qpeS01XB(NmL09, 463148121, q2ZIQ, UuuSya9Dt, 1773629444);
@@ -248,7 +248,7 @@ for (int j = 0; j < 9; ++j)
 switch (F_3M5Y)
 {
 case 0:
-YLPWOIGdhf = Zcf_();
+
 break;
 }
 }
@@ -260,7 +260,7 @@ case 'a':
 uWeeMkM = aAY_6_3L5(CI0f59o, -2074963855);
 break;
 case 'b':
-fnmtWut = r_sYnv9y + q2ZIQ;
+
 break;
 case 'c':
 V4Ni2mD1I6 = db2phj(-771061868, -49583459, 1816259022, W5h_k1, 1421530161);
@@ -311,7 +311,7 @@ n_iW = (int)abs(k1_V1a);
 }
 else if (uWeeMkM > -848925002)
 {
-W5h_k1 = (int)abs(iY_G);
+
 }
 else if (L9q9O05)
 {
@@ -323,7 +323,7 @@ P895q_0LV_ *= 658873843;
 }
 else if (CI0f59o <= ol9Ra2t_7)
 {
-YLPWOIGdhf = n_iW << iY_G;
+
 }
 else
 {
@@ -338,7 +338,7 @@ while (i < 4);
 int i = 0;
 while (i < 9)
 {
-CI0f59o = (short)(r_sYnv9y);
+
 i++;
 }
 }
@@ -352,7 +352,7 @@ if ((YLPWOIGdhf > P895q_0LV_) || ((LnI_t_2_Z2 == -554157436) || (qh43i == U96s1L
 int j = 10;
 do
 {
-t0kq_51x = aAY_6_3L5(-460433613, P895q_0LV_) / 1089909998;
+
 --j;
 }
 while (j >= 0);

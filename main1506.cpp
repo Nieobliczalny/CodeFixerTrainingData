@@ -30,7 +30,7 @@ int main()
   unsigned short  aAX15g_,  H_87M_zpa,  x4jd;
     aAX15g_  =  H_87M_zpa  =  x4jd  =  0;
   long  s5it42dg48;
-    s5it42dg48  =  327978983;
+
 
 s5it42dg48 = -1672169778 / aAX15g_;
 
@@ -46,7 +46,7 @@ break;
 switch (aAX15g_)
 {
 case 0:
-s5it42dg48 = nWXna(-325024740, 240441024);
+
 break;
 case 1:
 s5it42dg48 &= 2054447475;
@@ -58,7 +58,7 @@ case 3:
 s5it42dg48 = nWXna(-1752321323, aAX15g_);
 break;
 case 4:
-s5it42dg48 = nWXna(s5it42dg48, 419132404);
+
 break;
 case 5:
 s5it42dg48 = nWXna(1715653585, 1487810812);

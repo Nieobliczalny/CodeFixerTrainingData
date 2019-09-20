@@ -165,7 +165,7 @@ switch (OLd3eKLN)
 {
 case 'a':
 case 'A':
-sd31 = ctII1i1fe6 * gM5hY;
+
 break;
 case 'b':
 case 'B':
@@ -216,7 +216,7 @@ if ((ng0b > z37K37oJ0E) && (u_3O105 > -1558548870))
 {
 for (int j = 0; j < 7; j++)
 {
-iu28m83 = (int)abs(J0_OgT5x1k);
+
 }
 }
 else if (((a0YXlj >= jriBRG) && (gqA160U81 & -365403364)) || ((vLd1A < ng0b) || (ng0b)))
@@ -237,7 +237,7 @@ O3_6wG6A3_ = (int)abs(EAcvD8);
 }
 else
 {
-a0YXlj = (int)ceil(uTyeodhPJ);
+
 }
 }
 }

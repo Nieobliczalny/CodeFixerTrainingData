@@ -77,7 +77,7 @@ int main(void) {
 	double	c4W3iB;
 	c4W3iB	=	-432791174;
 	int	qEL4B3_d;
-	qEL4B3_d	=	-278320040;
+
 	unsigned long long	ye2k;
 	ye2k	=	-1310770876;
   unsigned long  FUUDR;
@@ -132,7 +132,7 @@ case 'b':
 qaL74 <<= 443523699;
 break;
 case 'c':
-NWpfl5YlwE = (int)ceil(HH5Dw2u60_);
+
 break;
 case 'd':
 phS_6uDO89 = v3V4QVat_ << L2X12zwf;
@@ -154,7 +154,7 @@ Ql7tw5 = pypqhSle(-1560929681, 224658957, A0a31Wl80b, enPUOmvM_, TM2hbp2);
 }
 else
 {
-NWpfl5YlwE = Ql7tw5 << 1481056891;
+
 }
 j--;
 }
@@ -423,7 +423,7 @@ else if (c4W3iB >= 1000905303)
 {
 if (phS_6uDO89 >= c6vVB)
 {
-XfBJ = fEL0y(XfBJ, HH5Dw2u60_, -1051207325);
+
 }
 else if (T02LH8n_ & dlI8)
 {
@@ -457,7 +457,7 @@ case 'b':
 Zk887_8SX_ = SF85cS8qbY(1482971598, -1088374954, -1404324606, Ql7tw5);
 break;
 case 'c':
-qaL74 = fEL0y(-919711135, 1657580372, M_uu);
+
 break;
 case 'd':
 M_uu = (int)abs(ufc2PI);
@@ -487,7 +487,7 @@ case 'a':
 x6_y = fEL0y(-2050361612, c6vVB, FUUDR);
 break;
 case 'b':
-YIYv0p0TJ = (int)abs(M_uu);
+
 break;
 case 'c':
 aoTah = qEL4B3_d << ZC1uOPO;
@@ -537,7 +537,7 @@ case 'd':
 TZyV &= 1346736455;
 break;
 case 'e':
-ZC1uOPO = fEL0y(ZC1uOPO, phS_6uDO89, Y7o0y2J);
+
 break;
 case 'f':
 NWpfl5YlwE = (int)floor(l8x2);
@@ -583,7 +583,7 @@ HH5Dw2u60_ = (int)ceil(y9bx2);
 
 for (int i = 0; i < 2; ++i)
 {
-ye2k = (unsigned long long)(L_24_pCn);
+
 }
 fO_9 = fO_9 >> 375829633;
 XfBJ = qEL4B3_d / odsrivwsBi;
@@ -593,7 +593,7 @@ ZC1uOPO = (unsigned long long)(FUUDR);
 
 try
 {
-M_uu = (int)abs(odsrivwsBi) + (276391946);
+
 }
 catch (int& errorCode)
 {
@@ -606,7 +606,7 @@ if ((aoTah & L_24_pCn) && (Ys3CzIq4y & L_24_pCn))
 {
 if (ZC1uOPO != dlI8)
 {
-Ql7tw5 = (int)abs(SK0L_4) * 0;
+
 }
 else if (KxZ8FBS7R)
 {
@@ -618,7 +618,7 @@ I57qRCy36_ = fEL0y(423964748, L2X12zwf, m8PlHs9_Q_);
 }
 else if (A0a31Wl80b > 23492263)
 {
-T02LH8n_ *= qEL4B3_d;
+
 }
 else
 {
@@ -631,7 +631,7 @@ switch (ZC1uOPO)
 {
 case 'a':
 case 'A':
-Ql7tw5 = pypqhSle(203892914, Zk887_8SX_, -144306294, 16943085, I57qRCy36_);
+
 break;
 case 'b':
 case 'B':
@@ -645,7 +645,7 @@ cout << pypqhSle(y9bx2, Zk887_8SX_, Y7o0y2J, 1274815232, -532185571) << endl;
 }
 else if (((HO6PZJY < JP9P) && (XUIS61g3OH & L_24_pCn)) || (HO6PZJY <= rj1M2))
 {
-fO_9 = fEL0y(fO_9, v3V4QVat_, gKhw2aX8);
+
 }
 else
 {
@@ -656,7 +656,7 @@ catch (int& errorCode)
 {
 c4W3iB = nqMH ^ 1865543334;
 }
-y9bx2 = (double)(rj1M2 + (1202245959));
+
 for (int i = 0; i < 4; ++i)
 {
 if (H_5_93 < 78125583)
@@ -672,7 +672,7 @@ KxZ8FBS7R = oT5K(-611064136);
 switch (TZyV)
 {
 case 'a':
-y9bx2 = TM2hbp2 - 62486059;
+
 break;
 }
 Zk887_8SX_ = IgEkmk8_ue << 1285824922;

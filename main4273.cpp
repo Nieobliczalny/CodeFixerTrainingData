@@ -88,7 +88,7 @@ else if (No3dt0ZM != KO96G3)
 {
 if (lz_lHgOXLH < gWBZsR)
 {
-gt8ZA3k5 = RGKY8zXr_ & T7i1mc;
+
 }
 else
 {
@@ -103,7 +103,7 @@ else if ((gt8ZA3k5 != 1406851778) || (T7i1mc & gt8ZA3k5))
 {
 if (KO96G3 & 744748040)
 {
-JiUd5Io2G = (int)abs(gWBZsR);
+
 }
 else
 {

@@ -696,7 +696,7 @@ Y_0JvoIBh = O7Oo(1921735142, BQEBR1);
 }
 }
 
-Y_0JvoIBh = O7Oo(-83704848, 1749272891);
+
 N2kuQ = O7Oo(FIWAYFO6, AIzZ77);
 
 {
@@ -717,7 +717,7 @@ while (i < 8);
 }
 RwQ583Z = (float)(BQEBR1);
 
-wann = trafh0DuJ(-846274656, -409439146, COG_2, FIWAYFO6, 1485909101);
+
 
 RwQ583Z = (int)ceil(A0Eg9h);
 

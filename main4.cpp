@@ -45,7 +45,7 @@ ejiKg = T8llzch();
 }
 else if (ZIwa >= -1005631300)
 {
-n2EuE = H3k3W9 * 1081720655;
+
 }
 else
 {
@@ -64,7 +64,7 @@ case 1:
 L2xZw |= 396389772;
 break;
 case 2:
-U_vT_9 = T8llzch();
+
 break;
 case 3:
 ejiKg = T8llzch();
@@ -98,7 +98,7 @@ GP0H20Q78E = (ejiKg != 445652630) ? xj9JYYar1 : M90QO;
 }
 }
 
-U_vT_9 = T8llzch();
+
 lc5Kov_cC++;
 EX9r66 = (short int)(vQRU__);
 for (int i = 7; i >= 0; --i)
@@ -124,7 +124,7 @@ else
 {
 cout << "l9tY" << T8llzch() << T8llzch() << endl;
 }
-U_vT_9 = T8llzch();
+
 
 return 0;
 }

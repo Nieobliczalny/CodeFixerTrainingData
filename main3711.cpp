@@ -71,7 +71,7 @@ case 0:
 Sx7jcrT = jrd2lzQ * jrd2lzQ;
 break;
 case 1:
-v83z = (int)abs(f58vW3);
+
 break;
 }
 }
@@ -81,7 +81,7 @@ if (Sx7jcrT > M_5y7Qyx)
 {
 try
 {
-i056Q_ ^= 1527729870;
+
 }
 catch (int& errorCode)
 {
@@ -101,7 +101,7 @@ else if ((M1qBiq & Sx7jcrT) || (M1qBiq))
 {
 for (int j = 3; j >= 0; --j)
 {
-v83z = s3i4R2(k2sNe_, -1652748113, x2u58NAr, 1120211773, i056Q_);
+
 }
 }
 else

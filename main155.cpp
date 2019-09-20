@@ -440,7 +440,7 @@ case 0:
 QS0T94JWj <<= 1623804252;
 break;
 case 1:
-wb4wW1 = (int)abs(jl154CHg);
+
 break;
 case 2:
 f5321 = (kZGOV9if < wb4wW1) ? jl154CHg : -396053471;
@@ -458,7 +458,7 @@ case 6:
 kZGOV9if = (int)abs(ghad2tzc) * 0;
 break;
 default:
-wb4wW1 ^= jl154CHg;
+
 break;
 }
 }
@@ -499,7 +499,7 @@ else
 {
 try
 {
-wb4wW1 *= 1260186288;
+
 }
 catch (int& errorCode)
 {
@@ -536,7 +536,7 @@ PnP_9if = ghad2tzc & 2026915410;
 break;
 case 'f':
 case 'F':
-wb4wW1 = f5321 & PnP_9if;
+
 break;
 case 'g':
 case 'G':

@@ -111,7 +111,7 @@ case 'b':
 FZq8SJX_ = QF99Tg93V(L24Yq, -42180151, FZq8SJX_);
 break;
 default:
-L24Yq -= 739431704;
+
 break;
 }
 L24Yq = (int)abs(FZq8SJX_) + (-1633686964);
@@ -302,7 +302,7 @@ case 'b':
 o_142n7p = (L24Yq == FZq8SJX_) ? FZq8SJX_ : o_142n7p;
 break;
 case 'c':
-L24Yq = C_d56(FZq8SJX_, 203661921, o_142n7p);
+
 break;
 case 'd':
 L24Yq = L24Yq & 1623262613;
@@ -317,7 +317,7 @@ case 'g':
 o_142n7p = C_d56(o_142n7p, FZq8SJX_, -1719814740);
 break;
 case 'h':
-L24Yq %= 1240933765;
+
 break;
 }
 

@@ -328,7 +328,7 @@ int i = 0;
 while (i < 2)
 {
 i++;
-ww35QEB = (unsigned char)(W4C0 + (-649728349));
+
 }
 }
 
@@ -375,7 +375,7 @@ TrKkPD <<= pMUAbX3;
 }
 }
 
-b6j3 %= nOfZ1CKz;
+
 cout << Euv1X_P << "CJ8HytjtB" << ah983wVC << n4W809d << axJexf(-374537370, -2145157445, nOfZ1CKz, X8m1E82Hs9) << endl;
 
 {

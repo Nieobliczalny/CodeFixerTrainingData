@@ -35,7 +35,7 @@ int main(int argc, char** argv) {
     long    k78O01Xr8;
     k78O01Xr8    =    -860164152;
 	unsigned char	t7TD;
-	t7TD	=	-664126019;
+
 	unsigned long	YM4zm;
 	YM4zm	=	-630582777;
   double  lGxaaZf7N;
@@ -61,7 +61,7 @@ int main(int argc, char** argv) {
   short int  i7fFucdL7H;
   i7fFucdL7H  =  901831639;
     long long    NhiJfy;
-    NhiJfy    =    0;
+
  unsigned long long p_Gx5W2M;
  p_Gx5W2M = -487186822;
   unsigned char  ltRk;
@@ -79,7 +79,7 @@ int main(int argc, char** argv) {
  int gVV0x;
  gVV0x = -33702548;
  short o5a86D06Ak;
- o5a86D06Ak = 100140539;
+
  int MODS59c;
  MODS59c = 0;
  int B3eI;
@@ -160,7 +160,7 @@ case 3:
 k78O01Xr8 ^= 803630012;
 break;
 case 4:
-lGxaaZf7N = (int)floor(b98IK2H);
+
 break;
 case 5:
 lGxaaZf7N = (int)floor(DeMpr7gygD);
@@ -282,7 +282,7 @@ case 2:
 k78O01Xr8 = Ai9D3(n7oibW2) / 2094957073;
 break;
 case 3:
-NhiJfy = Ai9D3(kZYD10);
+
 break;
 default:
 ntQv ^= 1032762068;
@@ -292,7 +292,7 @@ break;
 }
 else if (B3eI)
 {
-NhiJfy = Ai9D3(-29722621);
+
 }
 else if (p_Gx5W2M == HkR5687R)
 {
@@ -320,7 +320,7 @@ i7fFucdL7H = e5lB | 1685574923;
 }
 else if (degra < B3eI)
 {
-lGxaaZf7N = (int)ceil(UNO9SV7W7);
+
 }
 else if (mfInu6 > kl3aj4)
 {
@@ -336,7 +336,7 @@ case 2:
 MODS59c = Ai9D3(-474445099);
 break;
 case 3:
-NhiJfy = Ai9D3(-568977510);
+
 break;
 case 4:
 UNO9SV7W7 = (int)ceil(DeMpr7gygD);
@@ -494,7 +494,7 @@ t7TD >>= ltRk;
 }
 else
 {
-NhiJfy = Ai9D3(-1471243808);
+
 }
 }
 }
@@ -540,7 +540,7 @@ if (((K72Wo7OU != HkR5687R) && (KKO2 >= gVV0x)) || (Nxmh_W47_ >= ltRk))
 int j = 0;
 do
 {
-lGxaaZf7N = (int)floor(uvkrEn);
+
 ++j;
 }
 while (j < 3);
@@ -550,7 +550,7 @@ else if (MODS59c < HkR5687R)
 {
 if (YM4zm & a6t7)
 {
-KKO2 = Ai9D3(-672225147);
+
 }
 else if (((W2JT_3y6 & 1238501119) && (Nh5a79973 < qrz1GI8tO)) && ((i7fFucdL7H < DeMpr7gygD) || (Nxmh_W47_ == qrz1GI8tO)))
 {
@@ -561,7 +561,7 @@ else
 switch (ntQv)
 {
 case 0:
-NhiJfy = Ai9D3(2114953375);
+
 break;
 case 1:
 NhiJfy = Ai9D3(-690787281);
@@ -573,7 +573,7 @@ case 3:
 NhiJfy = Ai9D3(t7TD);
 break;
 case 4:
-mfInu6 = (int)abs(UNO9SV7W7);
+
 break;
 case 5:
 b98IK2H = (int)ceil(UNO9SV7W7);
@@ -585,7 +585,7 @@ case 7:
 B3eI -= 576823029;
 break;
 case 8:
-YM4zm &= 1311302342;
+
 break;
 default:
 MODS59c = Ai9D3(28931066);
@@ -599,7 +599,7 @@ try
 {
 for (int k = 0; k < 9; k++)
 {
-UNO9SV7W7 = (int)ceil(b98IK2H);
+
 }
 }
 catch (int& errorCode)
@@ -613,7 +613,7 @@ switch (k78O01Xr8)
 {
 case 'a':
 case 'A':
-B3eI = (int)abs(uvkrEn);
+
 break;
 case 'b':
 case 'B':
@@ -625,7 +625,7 @@ KKO2 = Ai9D3(lGxaaZf7N);
 break;
 case 'd':
 case 'D':
-k78O01Xr8 &= q_34Mu;
+
 break;
 case 'e':
 case 'E':
@@ -639,7 +639,7 @@ break;
 }
 else
 {
-lGxaaZf7N = (int)ceil(uvkrEn);
+
 }
 
 return 0;

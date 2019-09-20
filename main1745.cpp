@@ -24,7 +24,7 @@ int main(int argc, char** argv) {
 	v8OcmZ0	=	0;
 	w21n45	=	0;
 	char	XwXR,	a5dbe,	cRQEMCh,	Eeb5,	JN0E45ub,	WlWNN2j,	VWXN,	skOBb,	z3F8zflm,	hJH22w,	wVYrvS0,	bCXfnX,	USYF6Z01U5,	kT9QN79I,	b_e9f,	flFJT,	D977x50Hqu,	G7Q3,	Qa9S_B4,	dm3Shgp,	I4W1H0AKB,	e5M1Fyks,	Sx6721M,	yiPc,	Y09UAwqK5,	Zh2it3,	U4jInD_8W,	sP1CK_bf2,	BU8a,	jXWF,	L1Sc1X7di,	o5P6SEcb7,	ZVBz7QX,	Or5ls,	XPp54A4Ot;
-	XwXR	=	608278881;
+
 	a5dbe	=	1163107507;
 	cRQEMCh	=	-651469954;
 	Eeb5	=	814441104;
@@ -35,7 +35,7 @@ int main(int argc, char** argv) {
 	z3F8zflm	=	19521227;
 	hJH22w	=	-2061285703;
 	wVYrvS0	=	825158324;
-	bCXfnX	=	-507073633;
+
 	USYF6Z01U5	=	-1497476943;
 	kT9QN79I	=	-1071863905;
 	b_e9f	=	-1749688757;
@@ -47,7 +47,7 @@ int main(int argc, char** argv) {
 	I4W1H0AKB	=	-381177528;
 	e5M1Fyks	=	-1446343170;
 	Sx6721M	=	1778100153;
-	yiPc	=	1244811046;
+
 	Y09UAwqK5	=	-392528352;
 	Zh2it3	=	-2124627905;
 	U4jInD_8W	=	432013739;
@@ -101,7 +101,7 @@ do
 int j = 0;
 while (j < 3)
 {
-yiPc = (char)(dm3Shgp);
+
 j++;
 }
 }
@@ -130,7 +130,7 @@ try
 {
 for (int k = 0; k < 10; k++)
 {
-XwXR = (int)abs(b_e9f);
+
 }
 }
 catch (int& errorCode)
@@ -174,7 +174,7 @@ I4W1H0AKB = Zh2it3 / Zh2it3;
 }
 else if (Y7C5v3q9 & 760612123)
 {
-Qa9S_B4 = (int)abs(Or5ls);
+
 }
 else if (v8OcmZ0)
 {
@@ -198,7 +198,7 @@ while (j < 4);
 }
 else
 {
-hJH22w = q_PQnhP9VJ(hJH22w, U4jInD_8W, 531636919, Or5ls, cRQEMCh);
+
 }
 switch (kT9QN79I)
 {
@@ -212,7 +212,7 @@ case 'c':
 L1Sc1X7di = (int)abs(D977x50Hqu);
 break;
 case 'd':
-Y09UAwqK5 %= 366820567;
+
 break;
 case 'e':
 Y09UAwqK5 &= I4W1H0AKB;
@@ -224,7 +224,7 @@ case 'g':
 a5dbe = q_PQnhP9VJ(-107588615, -1155111805, XPp54A4Ot, wVYrvS0, skOBb);
 break;
 case 'h':
-D977x50Hqu = (int)abs(flFJT);
+
 break;
 case 'i':
 Y09UAwqK5 |= G7Q3;
@@ -261,7 +261,7 @@ cRQEMCh &= I4W1H0AKB;
 }
 
 cout << ghubtVh(-1411170145, b_e9f, w21n45, z3F8zflm) << ghubtVh(1517944379, b_e9f, w21n45, -2120888273) << endl;
-b_e9f = q_PQnhP9VJ(b_e9f, -1268476759, Y7C5v3q9, I4W1H0AKB, Eeb5);
+
 
 Zh2it3 = cRQEMCh << 876524022;
 {
@@ -276,7 +276,7 @@ cout << "u_5Ymo2rE" << endl;
 }
 while (i < 1);
 }
-JN0E45ub = q_PQnhP9VJ(JN0E45ub, L1Sc1X7di, USYF6Z01U5, 651213929, e5M1Fyks);
+
 
 {
 int i = 0;
@@ -302,7 +302,7 @@ while (k < 6);
 }
 }
 
-U4jInD_8W = (char)(USYF6Z01U5);
+
 {
 int i = 9;
 while (i >= 0)
@@ -314,7 +314,7 @@ while (j >= 0)
 --j;
 if (flFJT > z3F8zflm)
 {
-w21n45 = sxn1660wiu(sP1CK_bf2, I4W1H0AKB);
+
 }
 }
 }

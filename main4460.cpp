@@ -58,7 +58,7 @@ case 9:
 PdnFVOY = G27B3j_5(-804952158, 796396799, k22l_02, pFAgrE66, IhJ4);
 break;
 default:
-hx5zQ9z2 = (int)ceil(bVR_3);
+
 break;
 }
 
@@ -154,7 +154,7 @@ int i = 0;
 do
 {
 i++;
-r9ly14 = (double)(eFtyjTS + (-902739626));
+
 }
 while (i < 3);
 }
@@ -271,7 +271,7 @@ for (int i = 0; i < 10; ++i)
 {
 if ((b2UxTbe9VO <= eFtyjTS) && (Edi2HmlId3 > eFtyjTS))
 {
-S3Ej = (T07s) ? eFtyjTS : bVR_3;
+
 }
 else if (ec9M5qPiLr >= eFtyjTS)
 {
@@ -358,7 +358,7 @@ case 'G':
 IhJ4 = zB5g(IhJ4, 1469829051, b2UxTbe9VO, L929eVI54, nmvQ32j);
 break;
 default:
-S3Ej = gRJAv % 453117101;
+
 break;
 }
 }

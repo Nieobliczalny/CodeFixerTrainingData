@@ -265,7 +265,7 @@ switch (ymLD4D4_)
 {
 case 'a':
 case 'A':
-AcA0G_ = (int)abs(ymLD4D4_);
+
 break;
 case 'b':
 case 'B':

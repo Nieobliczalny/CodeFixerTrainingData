@@ -23,7 +23,7 @@ int main() {
  unsigned short Vvp1;
  Vvp1 = -1743588028;
  short int ymZyfrz;
- ymZyfrz = -322555346;
+
  char K62gq4v1Y6;
  K62gq4v1Y6 = 0;
 	unsigned short	F0_56y5z;
@@ -536,7 +536,7 @@ Gkq_49FI = (int)floor(se4EhdQ6c0);
 break;
 case 'e':
 case 'E':
-LiGAz *= Xi37V16l;
+
 break;
 case 'f':
 case 'F':
@@ -557,7 +557,7 @@ else
 {
 try
 {
-Vvp1 = c9CZX >> 43709592;
+
 }
 catch (int& errorCode)
 {
@@ -573,7 +573,7 @@ case 'a':
 Xi37V16l = QCKEO ^ lnH4A_Cu;
 break;
 case 'b':
-LiGAz -= 602596448;
+
 break;
 case 'c':
 K62gq4v1Y6 = q_8PA(Vvp1, 360162792);
@@ -730,7 +730,7 @@ break;
 int i = 0;
 do
 {
-lnH4A_Cu = (unsigned long)(B2Me8v6c);
+
 ++i;
 }
 while (i < 2);

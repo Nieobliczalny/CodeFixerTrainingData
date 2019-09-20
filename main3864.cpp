@@ -351,7 +351,7 @@ case 0:
 U9_fOVv = (int)ceil(W0GH);
 break;
 case 1:
-z9zx = (gr6K5_N31l < 777126196) ? 2112261189 : W0GH;
+
 break;
 case 2:
 huzI8WqUp *= 1117269088;
@@ -366,7 +366,7 @@ case 5:
 huzI8WqUp = (P6_Q1u9_ < -1496542476) ? U9_fOVv : z9zx;
 break;
 case 6:
-gr6K5_N31l = (int)floor(W0GH);
+
 break;
 default:
 gr6K5_N31l = W0GH + 1363305193;
@@ -395,7 +395,7 @@ while (k >= 0);
 
 std::cout << "JmjM9iYz9" << U9_fOVv << std::endl;
 
-z9zx = (long double)(huzI8WqUp);
+
 std::cout << U9_fOVv << "ZoXZ" << "f3vU" << std::endl;
 return 0;
 }

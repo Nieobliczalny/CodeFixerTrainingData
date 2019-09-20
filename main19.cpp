@@ -16,7 +16,7 @@ int main(void) {
     char    tAb4_m26X;
     tAb4_m26X    =    -51644511;
 	unsigned long long	m9UPDpYFrU;
-	m9UPDpYFrU	=	-1287833934;
+
     int    BFBH;
     BFBH    =    253788173;
 	unsigned long long	Dfyd9;
@@ -54,7 +54,7 @@ int main(void) {
 	short	wZhY;
 	wZhY	=	1316570179;
   unsigned char  j1_RKIgf;
-  j1_RKIgf  =  1655668972;
+
   long  qC6J5B3;
   qC6J5B3  =  124486183;
   long long  ur6d_o;
@@ -66,7 +66,7 @@ int main(void) {
   float  M0wYr8U;
   M0wYr8U  =  796528744;
   long double  l_YzgDj;
-  l_YzgDj  =  1577657173;
+
   int  k_U0f_B_i5;
   k_U0f_B_i5  =  1234213430;
 	long long	HIN5;
@@ -92,7 +92,7 @@ int main(void) {
     char    nf_5;
     nf_5    =    643144290;
  long long GI68B;
- GI68B = 658793989;
+
 	char	NNZ0RQ;
 	NNZ0RQ	=	0;
 	int	CB2I;
@@ -104,7 +104,7 @@ int main(void) {
 	unsigned int	N5eJELK;
 	N5eJELK	=	626949694;
     unsigned char    VPw7_G5lC;
-    VPw7_G5lC    =    177221600;
+
 	long double	Jj1G;
 	Jj1G	=	1650403307;
     unsigned int    X8K8OX;
@@ -139,7 +139,7 @@ amseNrX0sz %= qC6J5B3;
 switch (N5eJELK)
 {
 case 'a':
-S_zqFWt7 <<= 1478156822;
+
 break;
 case 'b':
 gM0O ^= 1041790665;
@@ -172,7 +172,7 @@ else
 {
 if (Ra250976 == -2117921396)
 {
-j1_RKIgf = YOOh / 1088869590;
+
 }
 }
 }
@@ -275,7 +275,7 @@ Guo_8W9o2 = (int)floor(zW2iG6DYl);
 }
 else if ((j1_RKIgf & -738248660) || ((vhiphnLh9 >= 954094497) || (D8BizP1 & tAb4_m26X)))
 {
-uJFL2 = Ra250976 / 546240814;
+
 }
 else if (amseNrX0sz & -129555909)
 {
@@ -303,7 +303,7 @@ else if (Dfyd9 & 525158278)
 int j = 1;
 while (j >= 0)
 {
-k4O92 = CB2I & Dfyd9;
+
 --j;
 }
 }
@@ -336,7 +336,7 @@ case 0:
 vhiphnLh9 = (HxDKE >= 1860738692) ? -220398800 : BoT4s2xW9;
 break;
 case 1:
-uJFL2 = p54I * 86619917;
+
 break;
 case 2:
 j1_RKIgf = nf_5 / l_YzgDj;
@@ -352,7 +352,7 @@ while (j >= 0);
 }
 if (Tk6R5C5m54)
 {
-ur6d_o %= 1549030037;
+
 }
 else if ((D8BizP1 == 1681683837) && (CB2I))
 {
@@ -364,7 +364,7 @@ switch (uD2_Gdn)
 {
 case 'a':
 case 'A':
-ORH17k = N5eJELK / 1223554149;
+
 break;
 case 'b':
 case 'B':
@@ -384,7 +384,7 @@ M0wYr8U = (int)floor(l_YzgDj);
 break;
 case 'f':
 case 'F':
-Jj1G = (int)ceil(mft9q);
+
 break;
 case 'g':
 case 'G':
@@ -400,7 +400,7 @@ qC6J5B3 = j1_RKIgf * 1213022346;
 break;
 case 'j':
 case 'J':
-HxDKE <<= vhiphnLh9;
+
 break;
 default:
 VPw7_G5lC = xP1PXX ^ 952879056;

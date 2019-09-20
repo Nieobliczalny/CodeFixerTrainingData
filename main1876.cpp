@@ -29,7 +29,7 @@ int main(int argc, char** argv) {
 int i = 0;
 while (i < 1)
 {
-xpNO = Zfj42rtz * 1623255765;
+
 ++i;
 }
 }
@@ -162,7 +162,7 @@ M_Q7w = (int)abs(AhUYVhvL) + (-1077145905);
 break;
 case 'f':
 case 'F':
-xpNO = (int)floor(Zfj42rtz);
+
 break;
 default:
 LaIktgEz7 *= r6a1MLd;
@@ -233,7 +233,7 @@ case 'B':
 eGbq4H = ETI7_0(eGbq4H, Rek9MgD, aS871j1_, CN6bL16FLi, t_EG6GDm);
 break;
 default:
-LaIktgEz7 = ETI7_0(LaIktgEz7, 1102787296, -135729287, E_a0Hd6, -2126843705);
+
 break;
 }
 LaIktgEz7 = eGbq4H * 1468646796;
@@ -429,7 +429,7 @@ if (l8aitT7uFX)
 {
 if ((ATDZpSJ) || ((u6x4o45m <= -1243085628) || (AhUYVhvL > -966793578)))
 {
-CN6bL16FLi = (int)ceil(Rek9MgD);
+
 }
 }
 }
@@ -448,7 +448,7 @@ M_Q7w = (int)abs(TOWw);
 }
 t_EG6GDm = (long double)(kCbg7zO + (-2016695966));
 
-Zfj42rtz = (int)ceil(TOWw);
+
 
 Jm1A79S8uY = (int)abs(t_EG6GDm);
 

@@ -27,7 +27,7 @@ char	E1kneG_n(char	mSgTGOLGJ,int	V26SCP)	{
 
 int main(void) {
     unsigned short int    W_NYZ1;
-    W_NYZ1    =    1351639443;
+
 	unsigned short	xv9B;
 	xv9B	=	-376530984;
  unsigned int fDfTs;
@@ -37,7 +37,7 @@ int main(void) {
 	short	RaUzTY48;
 	RaUzTY48	=	-1618300774;
  char Q908a69;
- Q908a69 = -1370384280;
+
 	int	Ts9EF8Y;
 	Ts9EF8Y	=	-169536059;
     short int    Gec3ihD7vd;
@@ -47,7 +47,7 @@ int main(void) {
 	unsigned short int	xNr_4Nmq9Z;
 	xNr_4Nmq9Z	=	0;
 	float	eFmgU;
-	eFmgU	=	-1617566838;
+
  short int MXBFGnt5J9;
  MXBFGnt5J9 = 0;
     unsigned long long    HX69S94;
@@ -57,7 +57,7 @@ int main(void) {
 
 if (NA9US4 == 0)
 {
-	B9LvR = MXBFGnt5J9 / NA9US4;
+
 }
 
 NA9US4 = (unsigned char)(HX69S94);

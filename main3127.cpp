@@ -85,7 +85,7 @@ case 3:
 ZMv7s = KxoQA14nQ();
 break;
 case 4:
-gix_ = W1lT5K_6h / 1723758295;
+
 break;
 default:
 apAA -= gix_;
@@ -102,7 +102,7 @@ Xd_I2t = (int)abs(E8Nk6z);
 
 if (KxoQA14nQ() == 0)
 {
-	gix_ = ltl5Czb7q / KxoQA14nQ();
+
 }
 
 gix_ = (float)(ZMv7s + (892284269));
@@ -115,7 +115,7 @@ switch (ZMv7s)
 {
 case 'a':
 case 'A':
-qy2WR *= apAA;
+
 break;
 case 'b':
 case 'B':
@@ -139,7 +139,7 @@ ltl5Czb7q *= ZMv7s;
 break;
 case 'g':
 case 'G':
-ZMv7s = KxoQA14nQ();
+
 break;
 default:
 ZMv7s = KxoQA14nQ();
@@ -150,7 +150,7 @@ cout << KxoQA14nQ() << endl;
 
 ZMv7s = KxoQA14nQ();
 
-gix_ = apAA / E8Nk6z;
+
 W1lT5K_6h = (int)ceil(ltl5Czb7q);
 if (apAA >= 1629346762)
 {
@@ -161,7 +161,7 @@ else
 cout << "q8yyK4g" << "nc8TO" << KxoQA14nQ() << KxoQA14nQ() << "k06SPGB" << endl;
 }
 
-Xd_I2t /= 896348093;
+
 return 0;
 }
 

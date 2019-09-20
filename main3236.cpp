@@ -127,7 +127,7 @@ case 'g':
 dZSY8++;
 break;
 case 'h':
-dZSY8 = T55R(dZSY8, XqRd, McGg);
+
 break;
 case 'i':
 RO1XVcAx6 = (int)abs(EfZ44);
@@ -295,7 +295,7 @@ Q3N90I /= McGg;
 }
 else
 {
-XqRd = (int)floor(MS2Tg);
+
 }
 }
 }
@@ -323,7 +323,7 @@ else
 cout << PBv8ff5(-531505118, -2035353057) << "a12Y5NNOa" << T55R(-165626160, tsj_, -1565001379) << PBv8ff5(-1137167913, 810427828) << endl;
 }
 
-XqRd = (float)(s_Bw);
+
 XqRd = (float)(MS2Tg);
 XrX1LvtNe = (int)ceil(MS2Tg);
 MS2Tg = (int)abs(JG35s);

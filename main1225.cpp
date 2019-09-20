@@ -56,7 +56,7 @@ int main(void) {
 	int	raYYE;
 	raYYE	=	-1956539109;
  double xS5v3;
- xS5v3 = -1109724797;
+
   unsigned long  C2_MVT732T;
   C2_MVT732T  =  0;
     char    t1_a69;
@@ -85,7 +85,7 @@ int j = 0;
 while (j < 1)
 {
 j++;
-xS5v3 = (double)(H50v);
+
 }
 }
 }
@@ -325,7 +325,7 @@ oku44kuUsx = (int)abs(qX01J);
 }
 else
 {
-TFXTN6 |= 807218782;
+
 }
 }
 else if ((S46z <= oku44kuUsx) || (t1_a69 > WlNBkw))
@@ -367,7 +367,7 @@ case 0:
 oku44kuUsx = (int)ceil(V4Twx);
 break;
 case 1:
-v1yRn |= 1893868987;
+
 break;
 case 2:
 B1_u = MOYk(w503yl);
@@ -379,7 +379,7 @@ case 4:
 p0G3 /= B1_u;
 break;
 case 5:
-o6nq1 *= V_JRXxS44l;
+
 break;
 case 6:
 eqNRl = TFXTN6 - 784863923;
@@ -429,7 +429,7 @@ C2_MVT732T = MOYk(-2110323914);
 }
 
 std::cout << MOYk(NRFfrD_fD) / ImQd87pw6K << std::endl;
-WlNBkw = (int)abs(T69cF_) + (1729240374);
+
 switch (raYYE)
 {
 case 'a':
@@ -442,7 +442,7 @@ C2_MVT732T = MOYk(C2_MVT732T);
 break;
 case 'c':
 case 'C':
-d9Us = MOYk(121577228);
+
 break;
 case 'd':
 case 'D':

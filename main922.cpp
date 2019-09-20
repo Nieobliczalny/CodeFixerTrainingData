@@ -73,7 +73,7 @@ Jdk61wx2 += 1880330178;
 switch (IhqU_nj0E)
 {
 case 0:
-U7yE96 = krdEc(1328982065, IhqU_nj0E, 324388449);
+
 break;
 }
 
@@ -95,7 +95,7 @@ j++;
 int k = 3;
 while (k >= 0)
 {
-omRARlbKl4 = (int)abs(IhqU_nj0E);
+
 --k;
 }
 }
@@ -111,7 +111,7 @@ lQJTBWL0++;
 
 if ((bE6jQX >= -42576404) && (zC8_ia == -1434743716))
 {
-IhqU_nj0E = (int)abs(s6PoC30e);
+
 }
 return 0;
 }

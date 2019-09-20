@@ -194,7 +194,7 @@ while (k < 8);
 }
 if (kH_9Lb == 0)
 {
-	T56caVIU5 = 309949750 / kH_9Lb;
+
 }
 cdUxNGU7n0 = (int)ceil(icN2bwT5);
 
@@ -222,7 +222,7 @@ lw18_ ^= 465549267;
 }
 else if (((G94z8 == 529612279) || (Hip8l & -2083624101)) || (VXYHb8kWfx == -1992546144))
 {
-Gg0G = FoHpbZD & wQP7CL4945;
+
 }
 else
 {

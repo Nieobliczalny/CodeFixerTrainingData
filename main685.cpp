@@ -27,7 +27,7 @@ int main(void) {
     long long    myDk9I_58;
     myDk9I_58    =    0;
   unsigned short int  zS9tvI5;
-  zS9tvI5  =  0;
+
 
 try
 {

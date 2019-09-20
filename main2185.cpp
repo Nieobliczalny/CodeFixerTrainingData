@@ -212,7 +212,7 @@ try
 {
 if (M1L8gt & n6M74JJa65)
 {
-GPhAP18WST = SDQ4w(-1013306273, qheD7, iG7g, Z4MYSsrt_H);
+
 }
 else if (GPhAP18WST > iG7g)
 {

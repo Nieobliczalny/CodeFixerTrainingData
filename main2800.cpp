@@ -34,7 +34,7 @@ int main(int argc, char** argv) {
  unsigned short int cmwKY91joQ;
  cmwKY91joQ = 1189580785;
     unsigned long long    CgNF1;
-    CgNF1    =    909170016;
+
 	unsigned short int	OnCIA;
 	OnCIA	=	923923450;
     long long    Ne__enFruU;
@@ -46,7 +46,7 @@ int main(int argc, char** argv) {
     double    o4u9;
     o4u9    =    716309761;
   unsigned char  O_NkA_4Yk8;
-  O_NkA_4Yk8  =  -1274915879;
+
 	short int	Q5n_X_8;
 	Q5n_X_8	=	-413783726;
     long long    G_29;
@@ -64,7 +64,7 @@ int main(int argc, char** argv) {
     short    MF70;
     MF70    =    -1990095066;
   unsigned char  l0SHwZ1a45;
-  l0SHwZ1a45  =  1213623960;
+
 	long	KHo_d;
 	KHo_d	=	0;
  long long cVN2Z9gs;
@@ -80,7 +80,7 @@ int main(int argc, char** argv) {
   unsigned short int  xRFJ5PaU;
   xRFJ5PaU  =  118334173;
   unsigned short  hw33D6;
-  hw33D6  =  -806954828;
+
   long long  DyaZUzKc5_;
   DyaZUzKc5_  =  2111026617;
   unsigned int  GM_EZ9t;
@@ -94,7 +94,7 @@ int main(int argc, char** argv) {
 	unsigned int	g6UrhX37;
 	g6UrhX37	=	241250170;
 	short int	E_lq2X_h31;
-	E_lq2X_h31	=	-631488113;
+
   long double  Oe129wFW4r;
   Oe129wFW4r  =  1185790878;
 	long double	tdz1tO9_;
@@ -113,7 +113,7 @@ int i = 0;
 do
 {
 i++;
-y__ic3t = wn6sDF_s / MF70;
+
 }
 while (i < 2);
 }
@@ -155,7 +155,7 @@ UI01OuoB8 = (int)ceil(tdz1tO9_);
 break;
 }
 }
-y__ic3t = (int)abs(lKpL);
+
 
 {
 int i = 3;
@@ -173,7 +173,7 @@ while (j < 8);
 --i;
 }
 }
-GM_EZ9t = 1375186609 / qhv5;
+
 z0152cu++;
 {
 int i = 6;
@@ -225,7 +225,7 @@ UI01OuoB8 = (int)floor(wn6sDF_s);
 }
 if (cz_Ml & -1770358495)
 {
-Q5n_X_8 = (short int)(es1Gl5);
+
 }
 else
 {
@@ -237,7 +237,7 @@ o4u9 /= 812765249;
 }
 else if (A0ZZ)
 {
-DyaZUzKc5_ = fvf46 << 1438447537;
+
 }
 else if (OnCIA == -914301705)
 {
@@ -254,7 +254,7 @@ switch (g6UrhX37)
 {
 case 'a':
 case 'A':
-es1Gl5 = (int)ceil(Pbwxthq);
+
 break;
 case 'b':
 case 'B':
@@ -287,7 +287,7 @@ switch (cVN2Z9gs)
 {
 case 'a':
 case 'A':
-kD4i8Fl |= 1150647612;
+
 break;
 case 'b':
 case 'B':
@@ -307,7 +307,7 @@ zXRe0dl0Kn |= 114245643;
 break;
 case 'f':
 case 'F':
-wM4jC &= 1038794151;
+
 break;
 case 'g':
 case 'G':
@@ -318,7 +318,7 @@ case 'H':
 B92waNl7l6 += tdz1tO9_;
 break;
 default:
-A0ZZ >>= B92waNl7l6;
+
 break;
 }
 }
@@ -341,7 +341,7 @@ do
 int k = 9;
 while (k >= 0)
 {
-es1Gl5 = (int)ceil(Oe129wFW4r);
+
 k--;
 }
 }
@@ -360,7 +360,7 @@ switch (a_nZ3)
 {
 case 'a':
 case 'A':
-CgNF1 = a2fglPh6dH / O5s60co_;
+
 break;
 case 'b':
 case 'B':

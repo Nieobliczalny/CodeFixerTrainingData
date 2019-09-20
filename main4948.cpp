@@ -82,7 +82,7 @@ int main(int argc, char** argv)
 std::cout << fr6hUl7f << std::endl;
 try
 {
-uOodzCGhy = (int)floor(vBA_zfT);
+
 }
 catch (int& errorCode)
 {
@@ -97,7 +97,7 @@ pjmr = P1Au(pjmr);
 break;
 case 'b':
 case 'B':
-DQ_I8G0C1v |= 540042927;
+
 break;
 case 'c':
 case 'C':
@@ -110,7 +110,7 @@ break;
 }
 Fpm2 = (int)abs(JULkG);
 
-fr6hUl7f = -283094933 / pjmr;
+
 
 uOodzCGhy = (float)(EAN_fxht);
 
@@ -121,7 +121,7 @@ if (lSZDX != d_s5R)
 {
 if ((Fpm2 & j3Qo9o333) && (JULkG < j3Qo9o333))
 {
-y_8X = (int)ceil(EEOf);
+
 }
 else
 {
@@ -135,7 +135,7 @@ int k = 0;
 do
 {
 ++k;
-EAN_fxht = (int)floor(uOodzCGhy);
+
 }
 while (k < 2);
 }
@@ -154,7 +154,7 @@ while (i < 5);
 switch (RmoA50)
 {
 case 0:
-EEOf = gARZI5_L2(-1145252888);
+
 break;
 case 1:
 V6_S3P69 = gARZI5_L2(-1893490244);
@@ -173,7 +173,7 @@ for (int j = 4; j >= 0; --j)
 {
 if ((nRC1c9826) || (qGh9Pv >= -876100110))
 {
-g1jCP8a = (int)abs(kSh_1Me1f) + (-151503909);
+
 }
 }
 }
@@ -186,7 +186,7 @@ i--;
 int j = 0;
 do
 {
-V6_S3P69 = (int)(j3Qo9o333);
+
 ++j;
 }
 while (j < 6);

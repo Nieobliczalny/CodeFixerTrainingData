@@ -236,7 +236,7 @@ pUXSz = (int)abs(D7z3);
 }
 cWP7be2f = oi31zs(-1025541923);
 cout << MyrB1y3L << UkKDq(2041790133, 1727113422, -313732159) << UkKDq(cWP7be2f, WZ_573JrW5, -297668734) << "wtYFV" << endl;
-xJcQGpW = EnxcqbU * 3156048;
+
 
 {
 int i = 6;
@@ -256,7 +256,7 @@ while (j < 6);
 while (i >= 0);
 }
 
-cWP7be2f = oi31zs(-252394556);
+
 return 0;
 }
 

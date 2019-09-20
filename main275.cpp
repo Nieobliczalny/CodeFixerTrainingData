@@ -224,7 +224,7 @@ do
 {
 if (tuBe_Rp6P <= 1078261783)
 {
-zjpwBvWK = i2k5RH(-1321223770, -1509705254, -1638520721, 712616670, 2094676456);
+
 }
 j--;
 }
@@ -265,7 +265,7 @@ case 1:
 tuBe_Rp6P = i2k5RH(tuBe_Rp6P, -290459875, 1033002127, 531601290, 1368230176);
 break;
 case 2:
-F19o4nXb01 = (int)abs(oVQoj5ql);
+
 break;
 case 3:
 tbC5M4xm = (int)floor(F19o4nXb01);

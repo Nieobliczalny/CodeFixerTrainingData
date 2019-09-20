@@ -170,7 +170,7 @@ case 2:
 Aa29Tya = (int)abs(T5wyXz2m) + (-1256410554);
 break;
 case 3:
-b6JoxBi4 = (int)abs(Aa29Tya);
+
 break;
 case 4:
 b6JoxBi4 -= 1586241105;
@@ -198,7 +198,7 @@ PI5Lui ^= 2102210944;
 }
 else if (fqnrpx7kD >= -145095812)
 {
-b6JoxBi4 = (long long)(gdxG3Ss3ro);
+
 }
 else if (Aa29Tya < PI5Lui)
 {
@@ -233,7 +233,7 @@ PI5Lui--;
 break;
 case 'e':
 case 'E':
-b6JoxBi4 = b6JoxBi4 >> 1135241176;
+
 break;
 case 'f':
 case 'F':
@@ -248,7 +248,7 @@ case 'H':
 Aa29Tya = PI5Lui / hAwgTmW;
 break;
 default:
-hAwgTmW -= b6JoxBi4;
+
 break;
 }
 }

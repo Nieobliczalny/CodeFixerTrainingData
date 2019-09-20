@@ -21,7 +21,7 @@ int main(void)
  unsigned char EJa7J__b7J;
  EJa7J__b7J = 43168878;
   long  tj2fX_0AO9;
-  tj2fX_0AO9  =  936362646;
+
     int    JI42sC_U61;
     JI42sC_U61    =    1576968840;
   int  WjK1;
@@ -89,7 +89,7 @@ lK_5Jg3T = (int)ceil(Z79r);
 }
 else if (((P1_y != F6dd8cg) && (h424pj > -2126363461)) && (sPoJZ8jh))
 {
-Tdx_0W1 = y0r3xdMlo1(Tdx_0W1, lg51qqPI, -118030589, YGmOzmC);
+
 }
 else if (((ldC229JO8Z < EJa7J__b7J) || (kF6_Y524Oc >= F6dd8cg)) || ((is2zXzfW & 180827100) || (kF6_Y524Oc <= F6dd8cg)))
 {
@@ -120,7 +120,7 @@ case 'b':
 h424pj = oi94iWTfD(-1034563468, 1826397421);
 break;
 case 'c':
-Tdx_0W1 = (int)abs(ldC229JO8Z);
+
 break;
 default:
 WjK1 >>= 2077725147;
@@ -486,7 +486,7 @@ try
 {
 try
 {
-tj2fX_0AO9 = y0r3xdMlo1(tj2fX_0AO9, AGjFWSlS, P1_y, DBHql);
+
 }
 catch (int& errorCode)
 {
@@ -503,7 +503,7 @@ else
 std::cout << Tdx_0W1 << y0r3xdMlo1(-1557293949, AGjFWSlS, P1_y, DBHql) << "hl06N0AIk" << std::endl;
 }
 
-WjK1 = y0r3xdMlo1(WjK1, DBHql, ldC229JO8Z, P1_y);
+
 
 return 0;
 }

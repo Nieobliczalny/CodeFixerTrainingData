@@ -646,7 +646,7 @@ case 'B':
 lqY1Qp0V &= 823810278;
 break;
 default:
-eh9MccC = (int)abs(D5jjg5);
+
 break;
 }
 return 0;

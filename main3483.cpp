@@ -13,7 +13,7 @@ long long tl8c0Ae(unsigned short h_8_x_Jl,short int Eix9T_r7Y);
 
 int main(int argc, char** argv) {
  char aRN8;
- aRN8 = -71384479;
+
  unsigned long long EaMm8t4tal;
  EaMm8t4tal = 899277168;
 	int	La4_1;
@@ -27,7 +27,7 @@ int main(int argc, char** argv) {
 	unsigned long	SJo0_J;
 	SJo0_J	=	-1837457397;
     unsigned short int    n8_jZ;
-    n8_jZ    =    -2095547555;
+
   float  Z49L;
   Z49L  =  1401879925;
     short int    TBy29X_8Ge;
@@ -43,7 +43,7 @@ int main(int argc, char** argv) {
  char w41k3;
  w41k3 = 1891481672;
  short int quK_j;
- quK_j = 2056791304;
+
  double V6raXwuF7j;
  V6raXwuF7j = 1349855777;
   long double  KbECn_;
@@ -109,7 +109,7 @@ int main(int argc, char** argv) {
  float z3qp;
  z3qp = -420252394;
   short  c5Y0;
-  c5Y0  =  -1370861258;
+
 	char	t1nI;
 	t1nI	=	-390752861;
     int    H_R6HSt;
@@ -208,7 +208,7 @@ mn_EL8_7 = tl8c0Ae(t7m5n1T, -1256811777);
 break;
 case 'b':
 case 'B':
-S2aYhGv = (xZP2CmXt0 <= labDT) ? uilKZxr4jY : -1064354672;
+
 break;
 case 'c':
 case 'C':
@@ -249,7 +249,7 @@ switch (f9xZ4d8Yws)
 {
 case 'a':
 case 'A':
-DpZS |= 1492848408;
+
 break;
 case 'b':
 case 'B':
@@ -344,7 +344,7 @@ do
 {
 if (E1_97uBx_3)
 {
-DpZS = labDT & 1094819147;
+
 }
 else
 {
@@ -361,7 +361,7 @@ xhE8Hai = (int)floor(aAtVO);
 }
 else if (jVy2 < Yu10)
 {
-S2aYhGv = (double)(G46_962d);
+
 }
 else if (f9xZ4d8Yws <= Yu10)
 {
@@ -388,7 +388,7 @@ while (j < 10)
 ++j;
 if (wQ07nFw > -1195672694)
 {
-J8GV4NR = (int)floor(kVq0);
+
 }
 else
 {
@@ -402,7 +402,7 @@ if (mn_EL8_7 == 0)
 {
 	Z49L = 787496143 / mn_EL8_7;
 }
-J8GV4NR = (long double)(Yu10);
+
 try
 {
 E1_97uBx_3 /= 409292825;
@@ -462,7 +462,7 @@ else
 {
 if (t1nI >= 667875844)
 {
-La4_1 = (int)(M35ZI8x7ml);
+
 }
 else if (fXuZ_9YF4L == c5Y0)
 {
@@ -530,7 +530,7 @@ if (uilKZxr4jY == R8qTh)
 mn_EL8_7 = tl8c0Ae(-788813114, f945);
 }
 
-J8GV4NR = (int)floor(z3qp);
+
 if ((mTqDWc) && ((quK_j < 831334393) && (HsUFo373 == Yu10)))
 {
 std::cout << tl8c0Ae(-1151135871, f945) << std::endl;
@@ -544,7 +544,7 @@ mn_EL8_7 = tl8c0Ae(-1120486871, Y0E9bZ6);
 }
 if (Y0E9bZ6 >= -1262975281)
 {
-hc_117K8a = (int)abs(KbECn_);
+
 }
 else
 {

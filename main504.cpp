@@ -19,7 +19,7 @@ unsigned short L0Ech3(long long y2L1R5T,long lJH9u,long long KWwC);
 int main()
 {
     unsigned char    zg1tn332;
-    zg1tn332    =    2080013162;
+
 	short int	Fly_;
 	Fly_	=	-793453322;
     long double    G9444iQs;
@@ -78,7 +78,7 @@ case 2:
 EWe4x4nA = (int)abs(FYVeddq);
 break;
 case 3:
-zg1tn332 = E1QcV69Oca & x_K4;
+
 break;
 case 4:
 zg1tn332 = L0Ech3(1130681991, -381314383, 1660456692);
@@ -330,7 +330,7 @@ case 0:
 G9444iQs = (int)floor(cAMHXHYvC);
 break;
 case 1:
-E1QcV69Oca = L0Ech3(-821338742, -287842744, 1409038669);
+
 break;
 case 2:
 cAMHXHYvC = bYh_5hxzu & 1352192853;
@@ -351,7 +351,7 @@ case 7:
 ILZ1Usly3 = cAMHXHYvC / zg1tn332;
 break;
 case 8:
-bYh_5hxzu = L0Ech3(-1481013671, cAMHXHYvC, x_K4);
+
 break;
 default:
 ILZ1Usly3 = L0Ech3(1944247570, E1QcV69Oca, -1349899417);
@@ -381,7 +381,7 @@ while (j < 7);
 switch (hiTx)
 {
 case 'a':
-YuR1 <<= zg1tn332;
+
 break;
 case 'b':
 EWe4x4nA = (int)ceil(cAMHXHYvC);
@@ -393,7 +393,7 @@ break;
 
 if (ILZ1Usly3 & x_K4)
 {
-Fly_ = (zg1tn332 <= GQH1kK) ? -971914619 : x_K4;
+
 }
 else
 {

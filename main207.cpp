@@ -144,7 +144,7 @@ case 'a':
 TGwQORQ = PnGK % 208327569;
 break;
 case 'b':
-anFUOF |= 2056398908;
+
 break;
 case 'c':
 TGwQORQ = A0j6p >> kpCaGWrJz;
@@ -165,7 +165,7 @@ f41H3G6c0 = N126Z9H6();
 switch (eo5010)
 {
 case 0:
-OC3HJxq ^= 274272912;
+
 break;
 case 1:
 A0j6p = br9vCYE_U(A0j6p, PnGK);
@@ -282,7 +282,7 @@ eo5010 = q0P1e(454446990, 695216015, PnGK, gu2QWy6RWz, A0j6p);
 }
 else if (((P9_0wf8 <= -2073203947) || (eo5010 != 252304947)) || (oWhr36gF & -1634551892))
 {
-GxZQX9___ = (unsigned long)(g0oYY0bDPV);
+
 }
 else
 {
@@ -304,7 +304,7 @@ std::cout << "O8Y05j" << zM4JHaoA << T7JBDy7aT(-1499876481, g0oYY0bDPV, -9921727
 }
 else
 {
-si_tuO6RMX ^= oWhr36gF;
+
 }
 try
 {
@@ -315,7 +315,7 @@ catch (int& errorCode)
 CFTcENh4Sx = (int)abs(eo5010);
 }
 
-P5iP1 = (unsigned long)(TGwQORQ);
+
 
 return 0;
 }

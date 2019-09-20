@@ -15,7 +15,7 @@ int main() {
   unsigned short  EEQK_zocu;
   EEQK_zocu  =  1361884798;
 	double	AzMBO;
-	AzMBO	=	1425828266;
+
     short    A6k6fv;
     A6k6fv    =    -235824960;
     int    WdY1Np;
@@ -25,7 +25,7 @@ int main() {
 	short	J2_v2XKVuO;
 	J2_v2XKVuO	=	-767193200;
     unsigned long long    CZ_F;
-    CZ_F    =    -917674670;
+
   short  Rl5N9;
   Rl5N9  =  -1234146039;
     char    LFU9O2;
@@ -114,7 +114,7 @@ while (j < 6)
 {
 if ((c8f598fhi != -215017789) && (hurov8A > c8f598fhi))
 {
-mRM0BDu = (int)floor(k_Pl);
+
 }
 ++j;
 }
@@ -401,7 +401,7 @@ if (((VEpWR4Z == 112654452) && (w7_a < 1009359980)) && (EEQK_zocu < -1821831578)
 {
 if (QDM38kD0 < A6k6fv)
 {
-LN3Eo7 = (unsigned char)(f4_H3e * LN3Eo7);
+
 }
 else
 {
@@ -419,7 +419,7 @@ break;
 }
 else if ((ROG_ndy < -1001270898) || ((DBfX66Z != LFU9O2) || (d03w == uaYfH9650_)))
 {
-Uxv782 &= x9nPnBB6;
+
 }
 else if ((fU6PiWPQb7 >= -1181433015) && (lc39CrzOB > 839368936))
 {
@@ -510,7 +510,7 @@ std::cout << "V3LD85" << O081QP6KhP << k_Pl << hurov8A << A6k6fv << std::endl;
 }
 else
 {
-Bg79x = (int)abs(LFU9O2) + (-118457451);
+
 }
 }
 if (J2_v2XKVuO < 2100858320)
@@ -536,7 +536,7 @@ else
 {
 try
 {
-Uxv782 = vi7EHc + 1518894637;
+
 }
 catch (int& errorCode)
 {
@@ -551,7 +551,7 @@ if ((Ru_Fk3 <= x9nPnBB6) && (uaYfH9650_ & -645638228))
 switch (vi7EHc)
 {
 case 0:
-WdY1Np %= vi7EHc;
+
 break;
 case 1:
 I5mbc = (int)abs(R3UG1TRJ4f);
@@ -648,7 +648,7 @@ case 'C':
 huhYK_0YK ^= a7oWG;
 break;
 default:
-fU6PiWPQb7 /= CZ_F;
+
 break;
 }
 }
@@ -659,7 +659,7 @@ if (O081QP6KhP > 82331546)
 switch (Ru_Fk3)
 {
 case 'a':
-uaYfH9650_ >>= 115807706;
+
 break;
 case 'b':
 c8f598fhi >>= 702089240;
@@ -683,7 +683,7 @@ case 'h':
 P4pVe = vWUh % LXon4x_7z7;
 break;
 case 'i':
-c8f598fhi = d5FqF3O / 455312434;
+
 break;
 case 'j':
 QDM38kD0 = (int)ceil(ROG_ndy);
@@ -721,7 +721,7 @@ try
 int k = 4;
 while (k >= 0)
 {
-xfL2_ = d03w * vi7EHc;
+
 k--;
 }
 }
@@ -761,7 +761,7 @@ try
 switch (J2_v2XKVuO)
 {
 case 0:
-A6g2r = zQL8C7A * 1264664438;
+
 break;
 case 1:
 P4pVe += Rl5N9;
@@ -773,7 +773,7 @@ case 3:
 d03w >>= 16668097;
 break;
 case 4:
-AzMBO = (int)ceil(mRM0BDu);
+
 break;
 case 5:
 a7oWG <<= 1150811678;

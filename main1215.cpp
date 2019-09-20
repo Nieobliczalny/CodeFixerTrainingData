@@ -183,7 +183,7 @@ std::cout << DkyD << std::endl;
 switch (r8j76w)
 {
 case 0:
-sZhNQqo36 %= 463306999;
+
 break;
 case 1:
 C1MSbs *= wFc54;
@@ -195,7 +195,7 @@ default:
 qVESBw /= Dqii;
 break;
 }
-Dqii = (unsigned short)(C1MSbs);
+
 
 std::cout << "J9_Gnh_" << uvYZ7f << r8j76w << wFc54 << wFc54 << std::endl;
 

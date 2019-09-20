@@ -19,7 +19,7 @@ int main() {
   arh__o  =  -2030664925;
   w3BFS67  =  1613650932;
   fU342PZ00  =  -682745931;
-  G4B__GxGo  =  -1923765202;
+
   Q5pD06_9  =  2012580126;
   UK_pv26  =  -269987311;
   QxMC_FLf6P  =  100509086;
@@ -30,7 +30,7 @@ int main() {
   fhQ7LrcB7  =  -959585121;
   vF9OeJjp2  =  -1919236159;
   oTlCO7  =  71982755;
-  z8Jbuuq3J  =  -1630615124;
+
   qB7AP6  =  -2006538600;
   LU861h55  =  -1249946414;
   KQ003GvD2  =  -476942786;
@@ -47,7 +47,7 @@ int main() {
   b1l6  =  850385580;
   K3255ySPV2  =  1497289817;
   U8IJdvTP  =  656216991;
-  I598_  =  -1345230843;
+
   rUr31  =  -1204143055;
   rHad2s5  =  -1587205321;
   H20lNVf4  =  -1338325570;
@@ -69,7 +69,7 @@ int main() {
   GSt6lN_4Zt  =  559173458;
   q48281kR9  =  1497968948;
   zevlM  =  -467259219;
-  XaHP  =  -1356671106;
+
   Ei5V  =  998918132;
   nO5J3lMw  =  1080875984;
   D1ouJ5ewo  =  -1004381216;
@@ -80,7 +80,7 @@ int main() {
   X7fud  =  -1781895307;
   F4_2  =  470839182;
   zhuc  =  1279989858;
-  KRNBr5DE4L  =  314585510;
+
   u0B148  =  -1831091463;
   LWfV  =  -1977478787;
   oc12__  =  1288324981;
@@ -97,7 +97,7 @@ int main() {
   I16LptCHuW  =  -1354918026;
   Rm11  =  -763682521;
   KexLyX  =  51374352;
-  Q4t0nKxEWb  =  -923307869;
+
   TLxZ  =  -744044149;
   K_bv_  =  690214446;
   unsigned short int  kk631V5B;
@@ -265,7 +265,7 @@ kk631V5B = VQr5lhRg(-38654571, 1816616572, lnC9);
 }
 else
 {
-V0w5F = jUJYL5Jq(171783532, t6j63);
+
 }
 }
 else
@@ -289,7 +289,7 @@ z3ggppm--;
 }
 else
 {
-F4_2 = (char)(H20lNVf4);
+
 }
 
 {
@@ -331,7 +331,7 @@ do
 {
 if (((Q5pD06_9 < 2049115887) && (JoWX_BP6 < PX91Q)) || ((DY_J >= q48281kR9) || (Ei5V >= DGQ1XMa)))
 {
-JlPQxE039 = (int)abs(QWrhZJ);
+
 }
 else
 {
@@ -345,7 +345,7 @@ i--;
 }
 }
 std::cout << VQr5lhRg(qB7AP6, U8IJdvTP, LU861h55) << std::endl;
-lnC9 = (char)(fU342PZ00);
+
 
 for (int i = 0; i < 8; i++)
 {
@@ -358,7 +358,7 @@ if (G9gr5 >= rReJyeG)
 {
 if (G4g7K > mbg5WD3E)
 {
-DGQ1XMa = (char)(w3BFS67);
+
 }
 }
 }
@@ -397,7 +397,7 @@ switch (GSt6lN_4Zt)
 {
 case 'a':
 case 'A':
-zevlM = (int)abs(LWfV);
+
 break;
 case 'b':
 case 'B':
@@ -409,7 +409,7 @@ kk631V5B = VQr5lhRg(-1769288425, H_7Ox, 50705962);
 break;
 case 'd':
 case 'D':
-Ei5V = (K_bv_ >= PX91Q) ? KexLyX : 749277096;
+
 break;
 case 'e':
 case 'E':
@@ -419,7 +419,7 @@ break;
 }
 }
 
-G9gr5 = (char)(KexLyX);
+
 
 {
 int i = 0;

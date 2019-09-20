@@ -24,7 +24,7 @@ int main(void) {
  unsigned short sW332;
  sW332 = 0;
     short int    kv9__7J;
-    kv9__7J    =    0;
+
 	unsigned long long	q_DMJEZm;
 	q_DMJEZm	=	1230029720;
 	int	yn86m;
@@ -36,7 +36,7 @@ int main(void) {
 	float	NyI7v5X;
 	NyI7v5X	=	1513518551;
   long  y71Wn_pl;
-  y71Wn_pl  =  1093339826;
+
   unsigned short  Ivl2;
   Ivl2  =  -641104190;
   long long  PB4gxdN1;
@@ -81,7 +81,7 @@ qA87o_Ccj = (int)floor(Bf_Jc_6Px0);
 }
 else
 {
-y71Wn_pl = (int)abs(PB4gxdN1);
+
 }
 
 switch (Y3qm6T3o_L)
@@ -96,7 +96,7 @@ kr6zdT4Pn = (int)floor(NyI7v5X);
 break;
 case 'c':
 case 'C':
-FtvZsg9y = (int)abs(Bf_Jc_6Px0) * 0;
+
 break;
 case 'd':
 case 'D':
@@ -120,7 +120,7 @@ EmPW65 = elS_(1661299277, RIX9_V, 1758005141, qA87o_Ccj, NyI7v5X);
 break;
 case 'i':
 case 'I':
-MS7959Q2kX = FtvZsg9y & 1709956436;
+
 break;
 }
 
@@ -130,7 +130,7 @@ std::cout << elS_(-2034021812, -231088748, -1083760180, qA87o_Ccj, NyI7v5X) << s
 }
 else
 {
-c352_28_ = elS_(PB4gxdN1, RIX9_V, Ivl2, qA87o_Ccj, NyI7v5X) ^ Ivl2;
+
 }
 
 {
@@ -169,7 +169,7 @@ std::cout << elS_(yn86m, -868924658, O6Jyxid1i4, 376049376, FtvZsg9y) << std::en
 }
 }
 }
-EmPW65 = elS_(-641431893, kr6zdT4Pn, -1725606056, q_DMJEZm, EmPW65);
+
 kr6zdT4Pn = (int)abs(qA87o_Ccj);
 sW332 = elS_(-1830364779, -136231500, Bf_Jc_6Px0, 413677865, -1093981977);
 qA87o_Ccj = (float)(yn86m);
@@ -179,7 +179,7 @@ std::cout << elS_(GeTsmic, -1060823732, -993551210, kr6zdT4Pn, 778224569) << PB4
 qA87o_Ccj = (int)ceil(kr6zdT4Pn);
 
 Ivl2 = (unsigned short)(Y3qm6T3o_L + (-1386224620));
-NyI7v5X = (float)(Y3qm6T3o_L + (1798272335));
+
 qA87o_Ccj = (int)ceil(Bf_Jc_6Px0);
 return 0;
 }

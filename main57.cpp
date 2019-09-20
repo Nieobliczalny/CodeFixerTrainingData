@@ -62,7 +62,7 @@ int main()
     unsigned long long    MQNNdVY    =    573321376;
 	short int	n_i1	=	-707497345;
 
-WzJF9 = 2005984244 / m55FPhQ_;
+
 
 Fy9E_yHk = RiBP(i48hD6T, fFUddP, pnFazgw, -1380367973, 1103689301) | i48hD6T;
 std::cout << RiBP(-1946575463, -1141578001, pnFazgw, IEq5mmM, Ky8yUnok0) << n_i1 << std::endl;
@@ -103,7 +103,7 @@ pnFazgw = VlQ8(pnFazgw, N3a6IdPDT, -935670965, hD_kT66X7, MQNNdVY);
 break;
 case 'c':
 case 'C':
-N3a6IdPDT = RiBP(N3a6IdPDT, -599129382, -1938736411, fT3_Z, 710360731);
+
 break;
 }
 
@@ -114,7 +114,7 @@ int j = 0;
 do
 {
 j++;
-y_89e7j = RiBP(1995870764, fFUddP, 568836002, bLsZJmq, m55FPhQ_);
+
 }
 while (j < 9);
 }
@@ -124,7 +124,7 @@ else
 J53Mxia35h++;
 }
 
-N3a6IdPDT = RiBP(1975960816, i48hD6T, -890482451, fT3_Z, TvW9OWz5X);
+
 if (i48hD6T < fT3_Z)
 {
 try
@@ -136,7 +136,7 @@ catch (int& errorCode)
 AAwCJ = VJ02v_6m(AAwCJ, 2094775477, bLsZJmq, 1942904454, 1293451517);
 }
 }
-m55FPhQ_ = YNTm46Bcn(23707629, fT3_Z);
+
 {
 int i = 8;
 while (i >= 0)
@@ -150,7 +150,7 @@ std::cout << VJ02v_6m(xQJr_9uq, fT3_Z, 1124777150, d4RJKrf6s, M8tx) << VlQ8(xQJr
 
 Fy9E_yHk++;
 
-fT3_Z = (int)floor(bLsZJmq);
+
 return 0;
 }
 

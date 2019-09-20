@@ -16,7 +16,7 @@ int main(void)
 switch (E6eI)
 {
 case 0:
-Sgt9HYFN = VddK & 324707730;
+
 break;
 case 1:
 FU8JjXTLb &= yY3445WUO0;
@@ -31,7 +31,7 @@ case 4:
 FU8JjXTLb &= IlnQAGt;
 break;
 case 5:
-E0WFz591sP = L444551A2t << a4B2S;
+
 break;
 case 6:
 fSC920h %= 1218876305;
@@ -92,7 +92,7 @@ if (W58NMxOZ > p92Gqvnv_l)
 {
 for (int k = 4; k >= 0; --k)
 {
-m7_ONM = FU8JjXTLb / 1675294661;
+
 }
 }
 else if (N8Kjs3vr == -1082760777)
@@ -124,7 +124,7 @@ cout << CD1X6_0T << i2bxi50Rm << i2bxi50Rm << PiDem1 << endl;
 ++i;
 }
 }
-L444551A2t = w27Y + wVwJ;
+
 
 for (int i = 0; i < 4; ++i)
 {
@@ -136,7 +136,7 @@ zcuS = (int)abs(i2bxi50Rm);
 }
 else
 {
-Sgt9HYFN = x8yVx_ ^ sAYCAN;
+
 }
 }
 }
@@ -146,7 +146,7 @@ int i = 0;
 do
 {
 ++i;
-oss2bo29L = Cb5B1r0sP / OqVu94;
+
 }
 while (i < 2);
 }
@@ -168,7 +168,7 @@ cout << VddK << endl;
 while (j < 2);
 }
 }
-zcuS = VIjT1U - BGZG73v;
+
 
 return 0;
 }

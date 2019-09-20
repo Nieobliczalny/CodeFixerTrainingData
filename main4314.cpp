@@ -28,7 +28,7 @@ int main() {
   PqnxYOz2  =  43590907;
   bTrtF36  =  -810409968;
   ExTi8O  =  -1911613400;
-  Vv3vf1Ah  =  -238850304;
+
   r6_4QN  =  -1655655489;
   J__4  =  -1369558634;
   pIcfur1A  =  -1042097133;
@@ -49,7 +49,7 @@ int main() {
   St47f8y82i  =  -855204646;
   B1lH  =  -1515233439;
   u5dA56R  =  1013877505;
-  HZ9Db96p_  =  -1250180073;
+
   wO6pkVCgF5  =  -1973570118;
   a1WvE2a3  =  -2038356130;
   E_A26R  =  -2073712311;
@@ -125,7 +125,7 @@ case 'c':
 J0L7 = B9EA51_z40(J0L7, h_7zEs, -1080604624, XyyZCW_d, -1112550330);
 break;
 default:
-Vv3vf1Ah = vH3c034x3();
+
 break;
 }
 }
@@ -285,7 +285,7 @@ SyRO69_ = SyRO69_ - 1954889297;
 }
 else
 {
-pSIFE = (unsigned long)(SSkY2);
+
 }
 }
 
@@ -328,7 +328,7 @@ else if (pG95 != -1649580627)
 {
 if (J__4 == 526911292)
 {
-a1WvE2a3 = RDhrIz >> pIcfur1A;
+
 }
 else if (HZ9Db96p_ & -91375321)
 {
@@ -350,7 +350,7 @@ IPX9p = vH3c034x3();
 }
 else
 {
-a1WvE2a3 = P66f5vRHoA();
+
 }
 }
 else if (r6_4QN <= 2144514745)
@@ -404,7 +404,7 @@ case 'd':
 K4O1aUy_6 = pIcfur1A % Vv3vf1Ah;
 break;
 case 'e':
-Kbl4Tis = cyJz_ % 642930975;
+
 break;
 case 'f':
 bx6pD2B = vH3c034x3();
@@ -416,7 +416,7 @@ case 'h':
 h_7zEs = P66f5vRHoA();
 break;
 default:
-u5dA56R = SSkY2 / 72070789;
+
 break;
 }
 j--;
@@ -441,7 +441,7 @@ if (Rj_X_li1 != 415767779)
 switch (e05OfF)
 {
 case 0:
-J__4 = P66f5vRHoA();
+
 break;
 case 1:
 aK1Bx = B9EA51_z40(QLLVeIXv, -1495440739, SyRO69_, CX864l, -2116621068);
@@ -462,7 +462,7 @@ break;
 }
 else if (aK1Bx == 1309127678)
 {
-u5dA56R = (unsigned long)(Kbl4Tis);
+
 }
 else if (E_A26R >= CX864l)
 {
@@ -506,7 +506,7 @@ do
 --j;
 if (((ph745t3a >= -1360032297) && (SyRO69_)) || ((h_7zEs != 776846570) && (f1J5 & -225704873)))
 {
-Kbl4Tis = P66f5vRHoA();
+
 }
 else
 {
@@ -520,7 +520,7 @@ while (j >= 0);
 int i = 7;
 do
 {
-e05OfF = (unsigned long)(XyyZCW_d);
+
 i--;
 }
 while (i >= 0);
@@ -543,7 +543,7 @@ case 1:
 pIcfur1A = IPX9p ^ 108293737;
 break;
 default:
-cyJz_ = vH3c034x3();
+
 break;
 }
 }
@@ -553,7 +553,7 @@ while (i < 1);
 std::cout << bTrtF36 << "dih5s" << std::endl;
 
 A5Q9Rc4 = pIcfur1A - pIcfur1A;
-QLLVeIXv = vH3c034x3() | 640916665;
+
 RDhrIz = vH3c034x3();
 g1vH = vH3c034x3();
 {
@@ -574,7 +574,7 @@ switch (lUuax4yeZ1)
 {
 case 'a':
 case 'A':
-SyRO69_ ^= A5Q9Rc4;
+
 break;
 case 'b':
 case 'B':
@@ -594,7 +594,7 @@ pIcfur1A *= 1486315016;
 break;
 case 'f':
 case 'F':
-pG95 = P66f5vRHoA();
+
 break;
 case 'g':
 case 'G':
@@ -605,7 +605,7 @@ case 'H':
 f1J5 = B9EA51_z40(h_7zEs, -1275828006, 87684455, 2005478916, -61446676);
 break;
 default:
-h_7zEs = K4O1aUy_6 - HZ9Db96p_;
+
 break;
 }
 

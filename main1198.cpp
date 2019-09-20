@@ -303,7 +303,7 @@ if (uQc0_le < I6_xpBBSL)
 int k = 3;
 do
 {
-uQc0_le = (int)ceil(Z7Wh);
+
 --k;
 }
 while (k >= 0);
@@ -332,7 +332,7 @@ else if (hJ38U >= 1680609649)
 {
 if (Hb1V <= 1114340697)
 {
-uQc0_le = gcxI / 1854168446;
+
 }
 else
 {
@@ -363,7 +363,7 @@ case 0:
 Z7Wh = (int)floor(Vtci721xD);
 break;
 case 1:
-uQc0_le = (int)floor(Z7Wh);
+
 break;
 case 2:
 hJ38U = u86_JOft5p >> 265562416;
@@ -375,7 +375,7 @@ case 4:
 u86_JOft5p = (int)abs(hJ38U) * 0;
 break;
 case 5:
-uQc0_le = fXNKajo9nE(I6_xpBBSL, u86_JOft5p, -1862575549, 1686149368, Hb1V);
+
 break;
 }
 }
@@ -485,7 +485,7 @@ Z7Wh = EenuU(-1997219348, -1258121228, -1507697510, -1185349670);
 break;
 case 'c':
 case 'C':
-gcxI = BHw1orM5(uQc0_le, -1491580591, gcxI, q9X6zU);
+
 break;
 case 'd':
 case 'D':

@@ -123,7 +123,7 @@ case 'd':
 Gqro = W0Py6(984020491, 1280455252);
 break;
 case 'e':
-pOOi_yh = Zuxu9 / 1870658135;
+
 break;
 case 'f':
 soSe6e25u = x3k3J6S(742910662, bUBIYk);
@@ -237,7 +237,7 @@ std::cout << W0Py6(mErH08ed4C, kU77) << W0Py6(mErH08ed4C, kU77) << std::endl;
 pOOi_yh = (short int)(N1AL1_uI3M);
 if ((bUBIYk == a8_6H24) && (Po_E6 & -1422508784))
 {
-kU77 = (short int)(yDAu8W6sf);
+
 }
 else if (((k3R1__2fw0 < xE5gYhq_) || (Gqro < -1581745118)) || ((JCOvQ96H) && (ij1GIaf > kU77)))
 {
@@ -247,7 +247,7 @@ case 0:
 j2Z_o = pOOi_yh % k3R1__2fw0;
 break;
 case 1:
-mErH08ed4C = x3k3J6S(Gqro, fj32Qm);
+
 break;
 case 2:
 L0nv4G = (int)abs(pOOi_yh);
@@ -259,7 +259,7 @@ case 4:
 mX_i %= xPOaZGT;
 break;
 case 5:
-R_r7_8 = (int)abs(kU77);
+
 break;
 case 6:
 k3R1__2fw0 >>= 1474924886;
@@ -290,7 +290,7 @@ case 3:
 A38uRmYOq = W0Py6(A38uRmYOq, -1854328825);
 break;
 case 4:
-R_r7_8 = W0Py6(R_r7_8, fj32Qm);
+
 break;
 case 5:
 I44nbL1iwN++;
@@ -303,7 +303,7 @@ if (uFxVz >= 1170121716)
 {
 if (J3fVbg47 <= 907206884)
 {
-L0nv4G = W0Py6(L0nv4G, -2101988070);
+
 }
 else if ((fj32Qm & -786373746) && (TxcO <= Pfqdj1))
 {
@@ -315,7 +315,7 @@ uPNuEC1813 <<= 719334981;
 }
 else if (zcONJ >= 460291330)
 {
-kU77 = x3k3J6S(819973966, -1310237679) ^ fj32Qm;
+
 }
 else if (Gqro)
 {
@@ -335,7 +335,7 @@ try
 {
 if (a8_6H24 > -920653366)
 {
-uPNuEC1813 = W0Py6(1640202698, uFxVz);
+
 }
 }
 catch (int& errorCode)
@@ -355,7 +355,7 @@ if (a8_6H24 >= 1037038895)
 switch (Do_ZnAE)
 {
 case 0:
-Do_ZnAE = (int)abs(a8_6H24);
+
 break;
 case 1:
 WBCWjx0 >>= j2Z_o;
@@ -373,7 +373,7 @@ case 5:
 j2Z_o = Po_E6 + j2Z_o;
 break;
 case 6:
-TxcO = zcONJ - 386362544;
+
 break;
 case 7:
 Pfqdj1 ^= bUBIYk;
@@ -389,7 +389,7 @@ break;
 }
 else if (mX_i != TxcO)
 {
-kU77 = I44nbL1iwN ^ 1053891466;
+
 }
 else if ((zcONJ >= qwc2) || (zcONJ <= Do_ZnAE))
 {
@@ -401,7 +401,7 @@ bUBIYk = (int)abs(JCOvQ96H);
 }
 else if (a8_6H24 > 1429837085)
 {
-pOOi_yh = W0Py6(-1293521543, 1359263925);
+
 }
 else if (k3R1__2fw0 != fj32Qm)
 {
@@ -415,7 +415,7 @@ Xcq65612 = x3k3J6S(-1713646720, Do_ZnAE);
 }
 else if (Zuxu9 & N1AL1_uI3M)
 {
-OrV92YHPH_ = W0Py6(-1148606480, 1385256160);
+
 }
 else if (J3fVbg47 & Gqro)
 {
@@ -425,7 +425,7 @@ do
 {
 if (Zuxu9)
 {
-uPNuEC1813 = (int)abs(Do_ZnAE);
+
 }
 --j;
 }
@@ -462,7 +462,7 @@ i++;
 int i = 9;
 while (i >= 0)
 {
-pOOi_yh = (short int)(xE5gYhq_ + (-2069650983));
+
 i--;
 }
 }

@@ -194,7 +194,7 @@ switch (Lx00c8)
 {
 case 'a':
 case 'A':
-TxopF5hWO = zl72Y24r % 1986077439;
+
 break;
 case 'b':
 case 'B':
@@ -309,7 +309,7 @@ W2Ra287da7 = wji_Nh(zl72Y24r, 472812325, 96948323);
 }
 }
 
-jUq1p7_ = (short)(Lx00c8 + (1659683294));
+
 
 for (int i = 7; i >= 0; --i)
 {
@@ -329,7 +329,7 @@ catch (int& errorCode)
 B2Z08cp = wji_Nh(A91Z, 924207427, B2Z08cp);
 }
 
-k9l1vbK = Zt_s0UA / B2Z08cp;
+
 return 0;
 }
 

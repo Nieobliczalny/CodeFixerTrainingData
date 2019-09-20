@@ -517,7 +517,7 @@ if (X0SKz_ != 2092125213)
 switch (X0SKz_)
 {
 case 0:
-qR_tfZR58Z = bWIiL_Lh0(-1258724527, qR_tfZR58Z);
+
 break;
 case 1:
 T20c = CO8XF5 / 1352758532;
@@ -531,7 +531,7 @@ else
 {
 for (int k = 2; k >= 0; k--)
 {
-qR_tfZR58Z = (int)abs(aXKl_) * 0;
+
 }
 }
 }

@@ -45,7 +45,7 @@ BgKMLX5W = t730(v34yko, NV11);
 }
 }
 
-cA4U_ = Q6lX4Dw / BgKMLX5W;
+
 
 switch (w_qTzisk4K)
 {
@@ -56,7 +56,7 @@ case 1:
 sT3NH ^= 1817922287;
 break;
 case 2:
-cA4U_ = (int)abs(FONwBazK0);
+
 break;
 case 3:
 bjq7b &= Qr0BD;
@@ -74,7 +74,7 @@ int k = 0;
 do
 {
 k++;
-Xw6Z5 = t730(-378056881, NV11) & 1658895949;
+
 }
 while (k < 3);
 }

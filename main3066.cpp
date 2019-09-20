@@ -34,7 +34,7 @@ int main(int argc, char** argv)
   long long  SfW3Ckgi6;
   SfW3Ckgi6  =  0;
  long double UC28OXiV;
- UC28OXiV = -1328756353;
+
 	double	MpsLFfsd0;
 	MpsLFfsd0	=	341052198;
 	long	LX8A2X;
@@ -46,7 +46,7 @@ int main(int argc, char** argv)
 	double	g3ekq7_x6;
 	g3ekq7_x6	=	1125943719;
   unsigned long long  tr8ST8;
-  tr8ST8  =  -1065367106;
+
     long    fjHWf;
     fjHWf    =    -1635090113;
     long double    d3AIWCpKG;
@@ -64,7 +64,7 @@ int main(int argc, char** argv)
  short UNXe7bW;
  UNXe7bW = 1376443743;
   long long  SosDn;
-  SosDn  =  -1828670004;
+
  char GwDwAiFH5;
  GwDwAiFH5 = -738038264;
   unsigned char  P1jl;
@@ -80,7 +80,7 @@ int main(int argc, char** argv)
  unsigned short rM4DW44w2;
  rM4DW44w2 = 338630766;
  long long wcGRE;
- wcGRE = 1207891163;
+
   short  u_Wk;
   u_Wk  =  -1612395155;
  unsigned short ALK9fHw;
@@ -120,7 +120,7 @@ int main(int argc, char** argv)
   short  nV_1;
   nV_1  =  -785804055;
  float ntPT4;
- ntPT4 = -1749591102;
+
 	unsigned short int	d4o3j17Jjk;
 	d4o3j17Jjk	=	-1558981997;
     int    Cdagm6;
@@ -130,7 +130,7 @@ int main(int argc, char** argv)
     unsigned short    FkO1Y8QqTP;
     FkO1Y8QqTP    =    1907155960;
  short e_17T;
- e_17T = -126951104;
+
   unsigned short int  lWpywF4913;
   lWpywF4913  =  -2130904665;
  unsigned short i3Ez;
@@ -168,7 +168,7 @@ int main(int argc, char** argv)
  char d7bzy9c9r;
  d7bzy9c9r = 1540853120;
     int    b1eQ;
-    b1eQ    =    -574849926;
+
  unsigned int Dpz8zKR;
  Dpz8zKR = -1518844106;
 	long double	PN2gm1y;
@@ -252,7 +252,7 @@ break;
 }
 try
 {
-LX8A2X = (long)(oJ9L7465x8);
+
 }
 catch (int& errorCode)
 {
@@ -272,7 +272,7 @@ else if (ALK9fHw >= 1300458478)
 {
 try
 {
-PN2gm1y = (Dpz8zKR) ? -797793578 : 1018149055;
+
 }
 catch (int& errorCode)
 {
@@ -283,7 +283,7 @@ else if ((g3ekq7_x6 < -1381333944) && ((IMcfvWD2tu >= L_JjK5) || (sXt__p > -1476
 {
 if (lWpywF4913)
 {
-d3AIWCpKG = (int)ceil(DZlC2V);
+
 }
 else
 {
@@ -312,7 +312,7 @@ M8e57 = f84xR34();
 }
 if ((aLoQ7cW5H > 1087893183) || (M8e57 & SfW3Ckgi6))
 {
-g3ekq7_x6 = (int)floor(z43Tfg__4);
+
 }
 else
 {
@@ -396,7 +396,7 @@ else
 {
 try
 {
-Ffh5h2 = qSBBY7F_6H % n_902F4C95;
+
 }
 catch (int& errorCode)
 {
@@ -409,7 +409,7 @@ if (((E057mc >= d7bzy9c9r) && (mIgL < 2100386631)) && ((joJbeBU7tC >= iZLQF_ls) 
 {
 try
 {
-mIgL = (int)floor(n_bX);
+
 }
 catch (int& errorCode)
 {
@@ -435,7 +435,7 @@ case 'a':
 K7OC1582SW = (int)floor(L2K3Ss7zo);
 break;
 case 'b':
-e44m6dGdgW >>= Pez5O79;
+
 break;
 case 'c':
 xH6f -= 1496224461;
@@ -447,7 +447,7 @@ case 'e':
 Pez5O79++;
 break;
 case 'f':
-it1UmK5ou9 = nb0894m8 ^ dorI2J;
+
 break;
 case 'g':
 ubr0 = IMcfvWD2tu & Pez5O79;
@@ -468,7 +468,7 @@ M8e57 = f84xR34();
 }
 else if (DZlC2V <= oJ9L7465x8)
 {
-f_9ufX6M = (unsigned int)(aLoQ7cW5H);
+
 }
 else if (RkH6 < oJ9L7465x8)
 {
@@ -481,7 +481,7 @@ Om6W7W4J1 = gb0nb3gA(Om6W7W4J1, -1521544873, Z60P6_f, -254145336);
 }
 else if (wX_f >= cC0XZ6oT1g)
 {
-vNq7 -= 1568854568;
+
 }
 else if (dorI2J)
 {
@@ -491,7 +491,7 @@ xH6f |= Pez5O79;
 }
 else
 {
-MpsLFfsd0 = (int)ceil(z43Tfg__4);
+
 }
 }
 else if ((RkH6 == H3b2Yp1CM6) && ((mIgL) || (cC0XZ6oT1g != C9_9kU)))
@@ -502,7 +502,7 @@ else if (K7OC1582SW > iZLQF_ls)
 {
 if (r4TD8_NpX0 >= joJbeBU7tC)
 {
-mIgL = gb0nb3gA(mIgL, 503643917, -684984157, cC0XZ6oT1g);
+
 }
 }
 else if (xH6f >= p_Ok)
@@ -515,7 +515,7 @@ switch (Dpz8zKR)
 {
 case 'a':
 case 'A':
-MpsLFfsd0 = gb0nb3gA(lHBtyc3, QqRk1yBFy1, -1650408541, -1688761709) << 85676292;
+
 break;
 case 'b':
 case 'B':
@@ -538,7 +538,7 @@ case 'F':
 lHBtyc3--;
 break;
 default:
-mIgL = (int)floor(UC28OXiV);
+
 break;
 }
 }
@@ -555,7 +555,7 @@ while (j >= 0)
 {
 if (ubr0 != XS1v5)
 {
-Q_1JRkw = gb0nb3gA(1507507499, 309054999, -340843494, -1568832780);
+
 }
 else
 {
@@ -571,7 +571,7 @@ if (C9_9kU == 1148419230)
 {
 if ((IMcfvWD2tu) && ((kS4qW9CIxu < sXt__p) || (U5_q727 != -838045363)))
 {
-SosDn = (FkO1Y8QqTP > -915691097) ? xH6f : 1100208712;
+
 }
 else
 {
@@ -582,7 +582,7 @@ n_bX = (int)ceil(K7OC1582SW);
 wX_f = f84xR34();
 std::cout << f84xR34() << f84xR34() << "omKo61" << f84xR34() << std::endl;
 
-d3AIWCpKG = (int)floor(LfHUnJ);
+
 
 if ((f84xR34() / f84xR34()) >= -564603425)
 {
@@ -592,7 +592,7 @@ for (int i = 10; i >= 0; i--)
 {
 if (sBRd5_oe2h & i_4ZbGPNY)
 {
-cC0XZ6oT1g = (float)(iZLQF_ls);
+
 }
 else
 {

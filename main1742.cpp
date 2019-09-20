@@ -27,7 +27,7 @@ int main(void)
 switch (CK85)
 {
 case 0:
-oEIJ_uV07 = S3sRfgJ5GF * 1556532387;
+
 break;
 case 1:
 Z33YeBk_39 <<= 1283230825;
@@ -42,7 +42,7 @@ if (Jwqap66)
 int j = 0;
 while (j < 1)
 {
-CG72To9E = v7DCghP3C(1394052332, Ct0aal4, -1216734691, -1317483551, J3t8R);
+
 j++;
 }
 }
@@ -53,7 +53,7 @@ if (kctXY7pa < Jwqap66)
 {
 for (int k = 0; k < 6; k++)
 {
-t09n1 = (int)abs(vw1n9);
+
 }
 }
 }
@@ -78,7 +78,7 @@ if (CY_MD)
 {
 try
 {
-U6vK *= 45540787;
+
 }
 catch (int& errorCode)
 {
@@ -88,7 +88,7 @@ phBo_a1 = v7DCghP3C(phBo_a1, 733620540, -1783281746, 1779148119, PJLR9);
 }
 else if (t09n1 <= 715135028)
 {
-qXE_X6_T = (long)(S3sRfgJ5GF);
+
 }
 else if ((Jwqap66 == j5X6W6) && (Jwqap66 < j5X6W6))
 {
@@ -98,7 +98,7 @@ else
 {
 if (t77X >= j5X6W6)
 {
-J3t8R = (long long)(A1Nh * J3t8R);
+
 }
 }
 

@@ -356,7 +356,7 @@ if ((wL03N != -255157382) && ((CsM_q4y2 > -1658118758) || (ScTlmmVO != Us56jq2a0
 switch (MN01)
 {
 case 0:
-J36DN = Us56jq2a08 % 371928645;
+
 break;
 case 1:
 CsM_q4y2 = HmvcV9 + w1AIFz;
@@ -429,7 +429,7 @@ ScTlmmVO = HmvcV9 | CsM_q4y2;
 HmvcV9 = ScTlmmVO / Us56jq2a08;
 CsM_q4y2 = (unsigned short)(w1AIFz);
 
-Us56jq2a08 = (unsigned short)(w1AIFz * Us56jq2a08);
+
 
 CsM_q4y2 /= avqRNFJ;
 {

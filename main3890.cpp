@@ -440,7 +440,7 @@ case 4:
 bs0Q2 = (int)abs(dAaC3Ky0B);
 break;
 case 5:
-dAaC3Ky0B = mp65(644156712, dAaC3Ky0B, 403887941, Zhx3, VcN3);
+
 break;
 default:
 bs0Q2 ^= 928964212;
@@ -451,7 +451,7 @@ else if (Zhx3 <= -54090844)
 {
 if (((bs0Q2 >= 1561435630) && (IesJX__X2 == -1954544667)) || (pJVhU <= -380241686))
 {
-dAaC3Ky0B = q3_dj >> 1126611408;
+
 }
 else if (bs0Q2 > -1657603073)
 {
@@ -465,7 +465,7 @@ IesJX__X2 = (int)abs(VcN3) * 0;
 }
 else
 {
-dAaC3Ky0B = (int)abs(VcN3);
+
 }
 }
 else

@@ -482,7 +482,7 @@ Fs62s = (int)ceil(S_L7J1);
 }
 else if (a5_9DiiO != -372970420)
 {
-a5_9DiiO = L3rak5(94288178, Q7nYg2UYf);
+
 }
 else if (W4tL > Q7nYg2UYf)
 {
@@ -599,7 +599,7 @@ z1NwIh3 = tdh6YquVv(W4tL, -390407999, n_8aQ) * Q7nYg2UYf;
 int i = 0;
 do
 {
-a5_9DiiO = (long double)(n_8aQ);
+
 i++;
 }
 while (i < 4);

@@ -82,7 +82,7 @@ int main() {
 
 std::cout << wE7_4 << f2Jt6ka(HLCS56o8) << f2Jt6ka(1342184607) << m48k << GR4d_5ji << std::endl;
 
-WWDEo = JxC0 ^ m48k;
+
 {
 int i = 1;
 do
@@ -102,7 +102,7 @@ std::cout << f2Jt6ka(105702988) << f2Jt6ka(-314701729) << f2Jt6ka(HLCS56o8) << f
 while (i >= 0);
 }
 
-S763e5 = 3837850 / It7926T5;
+
 return 0;
 }
 

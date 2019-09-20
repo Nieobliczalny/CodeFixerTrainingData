@@ -305,7 +305,7 @@ l3_8D0 &= Cs83n9;
 break;
 case 'e':
 case 'E':
-r3d2xZ3 = J8rAANC >> gJdJ79;
+
 break;
 case 'f':
 case 'F':
@@ -343,7 +343,7 @@ if (V4mRpA)
 switch (XVcD8)
 {
 case 0:
-J8rAANC /= n44Wz1Q;
+
 break;
 case 1:
 n44Wz1Q = (int)abs(PCA3cQ);
@@ -398,7 +398,7 @@ switch (a908U)
 {
 case 'a':
 case 'A':
-l3_8D0 *= 981628047;
+
 break;
 default:
 Cs83n9 ^= a908U;
@@ -447,7 +447,7 @@ do
 {
 try
 {
-n44Wz1Q = (int)abs(RalhVTk2);
+
 }
 catch (int& errorCode)
 {

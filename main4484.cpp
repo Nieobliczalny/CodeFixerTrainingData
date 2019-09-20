@@ -24,7 +24,7 @@ int main() {
  long long Km5x;
  Km5x = 1100754250;
   unsigned long long  ZKd6s40tY;
-  ZKd6s40tY  =  -1686980748;
+
 	unsigned int	pZ7Z95V3EX;
 	pZ7Z95V3EX	=	329111956;
     char    xemt;
@@ -50,7 +50,7 @@ int main() {
     float    b3Vl_4NZXJ;
     b3Vl_4NZXJ    =    358864796;
   unsigned char  F9Feu43My;
-  F9Feu43My  =  1999632986;
+
     char    X_rG;
     X_rG    =    -1125922797;
     short    p_51nhxRo5;
@@ -81,7 +81,7 @@ iojs = (unsigned short)(iqBroKc);
 }
 else if (((kL7P76nc9 <= -495506693) && (dEW22 > 1991039838)) && (U_kk512t21 < WeY4Gbs))
 {
-F9Feu43My = (unsigned char)(pk05 + (oN0B5));
+
 }
 else if ((b3Vl_4NZXJ >= pk05) && (Adw6j8u3))
 {
@@ -103,7 +103,7 @@ switch (nNV6)
 {
 case 'a':
 case 'A':
-U_kk512t21 = (int)abs(X_rG);
+
 break;
 case 'b':
 case 'B':
@@ -126,7 +126,7 @@ case 'a':
 dEW22 = kL7P76nc9 + 1107201446;
 break;
 case 'b':
-p_51nhxRo5 >>= w5hSHyx_1;
+
 break;
 case 'c':
 Adw6j8u3 = oEsA7Ug - dEW22;
@@ -138,7 +138,7 @@ case 'e':
 pZ7Z95V3EX--;
 break;
 case 'f':
-Km5x <<= 636988029;
+
 break;
 case 'g':
 T19y3 ^= p_51nhxRo5;
@@ -152,7 +152,7 @@ int j = 0;
 while (j < 10)
 {
 ++j;
-xemt = (int)abs(TKUD1);
+
 }
 }
 }
@@ -163,7 +163,7 @@ std::cout << QLuILQ << std::endl;
 switch (dEW22)
 {
 case 0:
-ZKd6s40tY = w5hSHyx_1 - pZ7Z95V3EX;
+
 break;
 default:
 oEsA7Ug--;
@@ -190,7 +190,7 @@ kL7P76nc9 = (int)floor(Adw6j8u3);
 
 kL7P76nc9 = (int)floor(Adw6j8u3);
 
-U_kk512t21 = (int)floor(b3Vl_4NZXJ);
+
 {
 int i = 0;
 do
@@ -214,7 +214,7 @@ dEW22 ^= pZ7Z95V3EX;
 }
 while (i < 1);
 }
-F9Feu43My = X_rG % 876243531;
+
 std::cout << w5hSHyx_1 << "NP0S" << std::endl;
 
 iqBroKc = (unsigned short int)(oN0B5);
@@ -224,7 +224,7 @@ case 0:
 QLuILQ = Gg6E3yyN7 % 183656182;
 break;
 case 1:
-DnkBlkMQY = X_rG / QLuILQ;
+
 break;
 case 2:
 VFNI2_ = oEsA7Ug - w5hSHyx_1;
@@ -236,7 +236,7 @@ case 4:
 TKUD1 /= uP1X2_9k;
 break;
 case 5:
-m7Qw *= uP1X2_9k;
+
 break;
 case 6:
 DnkBlkMQY = (int)abs(VFNI2_);
@@ -253,7 +253,7 @@ break;
 }
 try
 {
-X_rG >>= 1911687090;
+
 }
 catch (int& errorCode)
 {

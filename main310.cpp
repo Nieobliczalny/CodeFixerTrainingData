@@ -227,7 +227,7 @@ else
 {
 for (int k = 10; k >= 0; k--)
 {
-D4nPZ7s = (int)ceil(K48_4);
+
 }
 }
 }
@@ -277,7 +277,7 @@ eh4Cg1 = (int)ceil(K48_4);
 }
 else
 {
-e8H4b = Nk6Q8Ve3n8();
+
 }
 }
 return 0;

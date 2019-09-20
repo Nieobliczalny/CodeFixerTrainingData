@@ -71,7 +71,7 @@ while (i < 1)
 {
 for (int j = 0; j < 10; ++j)
 {
-Yaws40Wz = (unsigned short)(nxUYNkV3ip + (-499169123));
+
 }
 i++;
 }

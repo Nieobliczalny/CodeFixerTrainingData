@@ -610,7 +610,7 @@ case 'B':
 B2t39m_D <<= u421YS_6Q;
 break;
 default:
-j7uywz1 = VI5Z & EfN8;
+
 break;
 }
 }
@@ -668,7 +668,7 @@ else
 {
 if (u421YS_6Q == AI41h11_33)
 {
-j7uywz1 = L69js1 & 1510810998;
+
 }
 else if (Q4_kuH & VI5Z)
 {

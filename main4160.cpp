@@ -69,7 +69,7 @@ int main(int argc, char** argv)
  unsigned long long u1Rx6ps8;
  u1Rx6ps8 = 1006255760;
 	long double	TLF5vzC8O;
-	TLF5vzC8O	=	-468473946;
+
   unsigned long long  Yz5_X;
   Yz5_X  =  -201558;
   double  W4Yxl4t0;
@@ -155,7 +155,7 @@ else if (g5Hr16 < -1964451842)
 {
 try
 {
-FGXas1 <<= 1406471461;
+
 }
 catch (int& errorCode)
 {
@@ -193,7 +193,7 @@ bEL3GK5YZ = F1G3h / f9CmAUWH;
 }
 else
 {
-Gi3Y1P6x75 = (int)ceil(v3f44jHGJ);
+
 }
 }
 else if (s21x1v <= Sl81JH8A)
@@ -301,7 +301,7 @@ for (int j = 7; j >= 0; j--)
 int k = 0;
 do
 {
-YQQvN6kf3O = u1Rx6ps8 % SI0A;
+
 k++;
 }
 while (k < 8);
@@ -325,7 +325,7 @@ case 'b':
 qKApy900j += SI0A;
 break;
 case 'c':
-F1G3h = WLfUl9L7 << Sl81JH8A;
+
 break;
 case 'd':
 fPXsXV_YT1 = (int)floor(W4Yxl4t0);
@@ -337,7 +337,7 @@ default:
 tRwE43aEq >>= 1175746461;
 break;
 }
-fPXsXV_YT1 = (int)ceil(qKApy900j);
+
 
 bEL3GK5YZ = (int)floor(v3f44jHGJ);
 switch (t9uu2x58k0)
@@ -359,7 +359,7 @@ case 'D':
 Yz5_X &= 595233386;
 break;
 default:
-fPXsXV_YT1 = H15KU << l2vbEk;
+
 break;
 }
 switch (tRwE43aEq)
@@ -371,7 +371,7 @@ case 1:
 qKApy900j = s21x1v * v3f44jHGJ;
 break;
 case 2:
-pV53 = r57D | u42R3mR8;
+
 break;
 default:
 s21x1v = (int)floor(bEL3GK5YZ);
@@ -381,7 +381,7 @@ break;
 GSH9q ^= 936822787;
 std::cout << GSH9q << s21x1v << K8OE << std::endl;
 
-GSH9q = K2ZXdcDhJA >> 1708642084;
+
 if (g_i3uQs8_ >= SI0A)
 {
 {
@@ -394,7 +394,7 @@ u1Rx6ps8 = BmCWl - 1979807553;
 }
 else
 {
-K2ZXdcDhJA = tRwE43aEq * H15KU;
+
 }
 j--;
 }
@@ -413,7 +413,7 @@ catch (int& errorCode)
 {
 g_i3uQs8_ |= Yz5_X;
 }
-TLF5vzC8O = (int)ceil(fPXsXV_YT1);
+
 return 0;
 }
 

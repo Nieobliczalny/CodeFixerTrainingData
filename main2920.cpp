@@ -332,7 +332,7 @@ while (j >= 0);
 
 for (int i = 9; i >= 0; i--)
 {
-bFX5 = (unsigned long)(Rjj6);
+
 }
 try
 {
@@ -344,7 +344,7 @@ Hy6B71 = BJ434j9lmW();
 }
 Hy6B71 = (int)abs(pZ4SJ_2xH4);
 
-bFX5 = (unsigned long)(pZ4SJ_2xH4 + (-671485471));
+
 
 return 0;
 }

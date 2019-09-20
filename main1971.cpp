@@ -17,7 +17,7 @@ char l2QM1L(unsigned short Qzb_GI,unsigned char B6STTw,short j9OPs674HC,unsigned
 
 int main(int argc, char** argv) {
   unsigned long long  zqaZw6Wuem;
-  zqaZw6Wuem  =  0;
+
     unsigned int    eapbK;
     eapbK    =    1010977512;
  int kbBul;
@@ -37,7 +37,7 @@ int main(int argc, char** argv) {
   float  tl_fVSaWp;
   tl_fVSaWp  =  1892695231;
  unsigned short sFUnl;
- sFUnl = 179904140;
+
  long double lQdv9VU;
  lQdv9VU = 1095182992;
 	unsigned char	gM2eO_;
@@ -55,7 +55,7 @@ int main(int argc, char** argv) {
 	unsigned int	njdTrRM;
 	njdTrRM	=	319461517;
   double  KYXBrFN;
-  KYXBrFN  =  -93629418;
+
 
 if (uyL3IU >= 285317049)
 {
@@ -69,7 +69,7 @@ else if (eapbK < wlL1i_BO)
 int k = 7;
 do
 {
-lQdv9VU = (int)ceil(tl_fVSaWp);
+
 k--;
 }
 while (k >= 0);
@@ -89,7 +89,7 @@ while (k >= 0);
 }
 else if (Vajw < 1684548955)
 {
-eapbK = kbBul ^ 1132681238;
+
 }
 else if (uyL3IU == -664909127)
 {
@@ -175,7 +175,7 @@ FaHJI = je64();
 }
 else if (lQdv9VU)
 {
-uyL3IU = hu7BM(-1607515926, 1669779210, tl_fVSaWp, a_IN_5M38);
+
 }
 else
 {
@@ -195,7 +195,7 @@ if (FaHJI & mfWH75m)
 {
 if (((njdTrRM > kbBul) && (Vajw < -269552786)) || (a_IN_5M38 != C6sxPiB))
 {
-C6sxPiB = (long double)(njdTrRM);
+
 }
 }
 return 0;

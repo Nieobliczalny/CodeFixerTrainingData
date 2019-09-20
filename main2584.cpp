@@ -32,7 +32,7 @@ int main(int argc, char** argv) {
     unsigned long long    OLlKS;
     OLlKS    =    -504418064;
  unsigned char hsV7o6;
- hsV7o6 = 1383854582;
+
   short int  T_MRP;
   T_MRP  =  0;
   short  eav6u;
@@ -99,7 +99,7 @@ int i = 6;
 do
 {
 --i;
-hsV7o6 = (lW8j9mj & -201716487) ? Cl5S : Z7_06Rm5lR(J0Csa, xGh7PvmXRN);
+
 }
 while (i >= 0);
 }
@@ -213,7 +213,7 @@ break;
 }
 else
 {
-wIaItO = hTukZ(J0Csa) - 1327317089;
+
 }
 try
 {
@@ -269,7 +269,7 @@ L2bg = (unsigned char)(lW8j9mj);
 }
 }
 
-wIaItO = (unsigned short)(L2bg);
+
 
 T52b3m7Wy = hTukZ(T52b3m7Wy);
 
@@ -309,7 +309,7 @@ else
 {
 cout << "FBwz0qDz8" << hTukZ(1940375972) << endl;
 }
-QU_3589M4 = hTukZ(QU_3589M4);
+
 if (T52b3m7Wy)
 {
 Hz4WaE = (int)ceil(U58X83eZX);
@@ -355,7 +355,7 @@ while (i >= 0)
 switch (ESm7NCN3)
 {
 case 'a':
-s3YIFi33 = GNzFER4 >> 821146024;
+
 break;
 case 'b':
 T_MRP = fyL9AvjS5T(349950339, 1892525655, J0Csa, 1652809115);
@@ -393,7 +393,7 @@ case 'a':
 m3_haQC4c = fyL9AvjS5T(1889222769, TP82M_Jxy, eav6u, 901495895) | eav6u;
 break;
 case 'b':
-S5x_V = (int)abs(n9qm_GCU_);
+
 break;
 }
 }
@@ -403,7 +403,7 @@ case 0:
 U1dre5HY = (int)abs(Jc_ZyqSipT);
 break;
 case 1:
-n9qm_GCU_ = (int)ceil(U1dre5HY);
+
 break;
 default:
 U1dre5HY = Z7_06Rm5lR(U1dre5HY, -1436623234);
@@ -439,7 +439,7 @@ cout << Z7_06Rm5lR(U58X83eZX, ESm7NCN3) << Z7_06Rm5lR(-1048289019, 996684669) <<
 }
 }
 
-U1dre5HY = RezOuK9 - 1251157411;
+
 
 for (int i = 8; i >= 0; i--)
 {

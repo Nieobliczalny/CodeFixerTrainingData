@@ -45,7 +45,7 @@ case 'g':
 Ilpa <<= 1893331514;
 break;
 case 'h':
-NYPS18 = dfU0NLOlp + 356135293;
+
 break;
 case 'i':
 LmhFtA0U %= b5bKc;
@@ -211,7 +211,7 @@ catch (int& errorCode)
 Vgzu6Oj7 = (int)abs(Kni34FF);
 }
 
-a6TWG4 <<= 749369253;
+
 
 Kni34FF = (long)(purl8G * Kni34FF);
 
@@ -227,7 +227,7 @@ std::cout << ddZsYPp << "S3iraql" << std::endl;
 }
 while (i < 3);
 }
-fOH05A = (unsigned short int)(Vgzu6Oj7 + (-1734153390));
+
 for (int i = 9; i >= 0; --i)
 {
 std::cout << cVgzrV9 << purl8G << A6XPHv_GDH << "I39aot" << sa_GnvVdWD << std::endl;
@@ -280,7 +280,7 @@ Kni34FF = (int)abs(Vgzu6Oj7);
 }
 else if (lJGW2dgngw == 2063415850)
 {
-K82CJ4LVQ_ = sa_GnvVdWD / 1356625173;
+
 }
 else if (YpMEkA > 1591273471)
 {

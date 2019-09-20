@@ -15,6 +15,7 @@ unsigned long	Rp9A4(unsigned int	F1fdY,int	bJS8ci,char	t_BnWTfDu,short int	IkFWc
 
 int main() {
  int ksR70WnMqz, ar3r, lOa2jpR;
+  // codechecker_intentional [deadcode.DeadStores] Design rule - initialize all variables
   ksR70WnMqz = ar3r = lOa2jpR = 0;
 	int	bbF_c,	pn6y2E,	jp7cUu,	Ls1BD54,	q30X518tmi,	Mfj98,	HF53_,	Df828hs,	x5wZBXsHb,	bKuZ,	fCd7u6b2,	MgZ0c,	zk_PE_Yr6b,	k_kiFwA,	GhYI06_7,	MJq0,	kr_FCXQ,	VPVZRbGzK,	V02ZdBa_S,	VZj7HerHeh;
 		bbF_c	=	pn6y2E	=	jp7cUu	=	Ls1BD54	=	q30X518tmi	=	Mfj98	=	HF53_	=	Df828hs	=	x5wZBXsHb	=	bKuZ	=	fCd7u6b2	=	MgZ0c	=	zk_PE_Yr6b	=	k_kiFwA	=	GhYI06_7	=	MJq0	=	kr_FCXQ	=	VPVZRbGzK	=	V02ZdBa_S	=	VZj7HerHeh	=	1497450072;

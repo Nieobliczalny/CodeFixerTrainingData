@@ -393,7 +393,7 @@ else
 {
 if (o8eyO & 985826473)
 {
-Urru6ez = P9Meab - 2064992432;
+
 }
 }
 }
@@ -408,7 +408,7 @@ N7WZQR = t903JVGU9 / cT4r;
 
 cout << UC4S_8 << Xb5Mrm4up << P9Meab << endl;
 
-F6du = (long long)(UC4S_8);
+
 try
 {
 u6nPDJ3_ = (long long)(M1ZI);

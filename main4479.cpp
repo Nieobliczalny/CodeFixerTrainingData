@@ -40,7 +40,7 @@ int main() {
   unsigned char  p7571zs  =  -1498164276;
  unsigned short UY_K6 = -1070412645;
 
-D6cS2fz5 = (int)ceil(k80G7I5_);
+
 cout << R43R << "NuB16_IH8b" << Y90h2k8VpV << endl;
 if ((m__8A1d < SsJ9vm7db) || (Hql83_9 > R43R))
 {
@@ -59,7 +59,7 @@ try
 {
 if ((fP7t_ < mhHDccu) && (UY_K6))
 {
-fP7t_ &= 1227027264;
+
 }
 }
 catch (int& errorCode)
@@ -104,7 +104,7 @@ Y90h2k8VpV = shm0RK6t(mhHDccu, BrR5);
 m__65 = (int)ceil(F68Q);
 k80G7I5_ = mX0r3e093 / Y90h2k8VpV;
 
-EQYoO0W1 = (int)(mhHDccu);
+
 YE5l0 = shm0RK6t(1247188949, -1841616021);
 
 V3cR = (short int)(p7571zs);

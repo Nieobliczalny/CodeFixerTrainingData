@@ -113,7 +113,7 @@ if (q85H0uea8b & -1454115453)
 switch (O77_)
 {
 case 0:
-Y1_7tzi %= v3ZL;
+
 break;
 case 1:
 Y1_7tzi = (int)abs(Q9tx2m7ww) + (-2016731098);
@@ -128,7 +128,7 @@ case 4:
 DtONZ = (int)abs(Q9tx2m7ww) + (-728420482);
 break;
 case 5:
-Ir1I5_ <<= vSnJhS;
+
 break;
 default:
 Q9tx2m7ww = xtmPIV2k1(vF7T8A, 889002370, LH96z_);
@@ -153,7 +153,7 @@ else if (OXv7vBi != irDl7tZE)
 {
 for (int j = 0; j < 6; j++)
 {
-Lo2p79 = (int)floor(JK_5ZMw);
+
 }
 }
 else
@@ -171,7 +171,7 @@ int k = 7;
 while (k >= 0)
 {
 --k;
-Lo2p79 = (int)floor(JK_5ZMw);
+
 }
 }
 }
@@ -201,7 +201,7 @@ LH96z_ = cKCJeM | 171998521;
 }
 
 cout << DUgZ45Vt << xtmPIV2k1(vF7T8A, Q9tx2m7ww, LH96z_) << xtmPIV2k1(vF7T8A, -1580369854, 1364238028) << endl;
-UWVgpLG = (int)floor(LUwxS_);
+
 
 cout << xtmPIV2k1(vF7T8A, -1532655507, LH96z_) << "r4NlF6j9c" << "ub_8OmUQ2" << v3ZL << endl;
 

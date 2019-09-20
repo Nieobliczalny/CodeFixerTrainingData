@@ -18,7 +18,7 @@ int main(int argc, char** argv)
 	unsigned short	K4_xd	=	0;
     double    XCt_Bmkaah    =    -730924094,    G9qNO    =    -1827764800,    G6BN8TI    =    -217925082,    z77c    =    -1989551296,    r_tImVlCOX    =    268323151,    xeq5x1    =    -2106096044,    L0QpAT58    =    -704129580,    hobbZQM1    =    2123738878,    uxmKzEE    =    1736186877,    Jz5i45eO    =    606047550,    A_JD6    =    -1046507487,    Hp1Cezyc4L    =    625422333,    il76    =    1766736134,    gB3r    =    -1315226771,    HmSk4    =    1646403470,    oJ10E46    =    1196862633,    f3RYmfglQd    =    -1156287220,    dDmX0_DVT    =    1729633571,    k8F5hrz8y4    =    -1192501283,    g90992h3MC    =    -1845675623,    Csa23by9Ui    =    -1754442101,    C0ZOis1sl9    =    -700898912,    Z6_QHoH    =    738532342,    WjXbUU0    =    -169791933,    RuGRV_Kx    =    -1540374695,    bg6hk33y    =    1992747317,    OGB_700fBl    =    784517938,    joEdB    =    1820197338;
 
-hobbZQM1 += 1177891800;
+
 
 std::cout << iUNc52VmT() << std::endl;
 
@@ -94,7 +94,7 @@ case 'b':
 Jz5i45eO = iUNc52VmT();
 break;
 case 'c':
-hobbZQM1 = (int)floor(joEdB);
+
 break;
 case 'd':
 K4_xd = P94_4();
@@ -143,7 +143,7 @@ if (Z6_QHoH > -64163611)
 {
 if (RuGRV_Kx >= f3RYmfglQd)
 {
-uxmKzEE = k1DO9oe(631912437, 39175181, RuGRV_Kx, 994293193);
+
 }
 }
 }
@@ -158,7 +158,7 @@ uxmKzEE = (double)(C0ZOis1sl9);
 
 std::cout << RuGRV_Kx << A_JD6 << std::endl;
 
-hobbZQM1 = (double)(il76);
+
 {
 int i = 1;
 do
@@ -170,7 +170,7 @@ case 0:
 XCt_Bmkaah = (Csa23by9Ui >= -2137479369) ? 640007451 : 1711690117;
 break;
 case 1:
-r_tImVlCOX = k1DO9oe(813099354, RuGRV_Kx, -2102434530, -1467213068);
+
 break;
 case 2:
 oJ10E46 = iUNc52VmT();
@@ -192,7 +192,7 @@ else if (K4_xd & -2074423314)
 switch (K4_xd)
 {
 case 0:
-gB3r = iUNc52VmT();
+
 break;
 case 1:
 f3RYmfglQd = (int)ceil(z77c);
@@ -204,7 +204,7 @@ case 3:
 dDmX0_DVT = (int)floor(WjXbUU0);
 break;
 case 4:
-Csa23by9Ui /= 55881066;
+
 break;
 case 5:
 k8F5hrz8y4 = (int)abs(joEdB);
@@ -216,7 +216,7 @@ case 7:
 oJ10E46 = (int)abs(G6BN8TI);
 break;
 case 8:
-A_JD6 = (int)floor(f3RYmfglQd);
+
 break;
 case 9:
 OGB_700fBl = (int)ceil(WjXbUU0);
@@ -228,7 +228,7 @@ break;
 }
 else
 {
-xeq5x1 -= 54366908;
+
 }
 
 return 0;

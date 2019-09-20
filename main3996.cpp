@@ -105,7 +105,7 @@ else
 std::cout << "Q8Gf" << LmK7(401194129, B8QJ, -1937242353, 990858647, oJw45_bR) << lRL6(1587335748, B8QJ, -1702963497, RVZC8_E9_, -1427043465) << std::endl;
 }
 RVZC8_E9_ = LmK7(RVZC8_E9_, 885204519, lwCN_NS, 824715823, 1318126446);
-ndmhO6Jq_ = LmK7(917341653, -2076702893, BDQa_le8E, j_6i3y, 1218535931);
+
 
 {
 int i = 5;
@@ -137,7 +137,7 @@ while (j >= 0)
 int k = 0;
 while (k < 4)
 {
-HKPjYt6S = LmK7(341402928, -952371257, 470003579, SN5F, Fk2aU);
+
 ++k;
 }
 }
@@ -151,7 +151,7 @@ if (LMP5 < Xc1bIp)
 {
 if (mXko == 421932371)
 {
-SW4_ = n2Y16();
+
 }
 }
 else if (b1_MM_)
@@ -166,7 +166,7 @@ else if ((ETlh8qET & rnW2h) || (fXQGORv1q2 & NCWiC0qgO))
 {
 if ((g4dGmU8Pq == JY7qtj6) && (SItSH4FQ_7 <= 1033564785))
 {
-vz88 = n2Y16();
+
 }
 else
 {
@@ -185,7 +185,7 @@ RTgo = n2Y16();
 }
 else if (HKPjYt6S == NCWiC0qgO)
 {
-W3c7E8BccV = (int)abs(k0KFD8t);
+
 }
 else if (XSJl86FaYN & LMP5)
 {
@@ -201,7 +201,7 @@ b40wbvl3--;
 }
 else
 {
-ZihMynbT1_ = VFaJ(-269394000, 703188864, LMP5, -2129901064);
+
 }
 }
 else if ((tIMOeg67 <= NCWiC0qgO) && (SN5F <= rnW2h))
@@ -229,7 +229,7 @@ if ((vz88) && (hsyd1r3i2o <= -1697439554))
 {
 if (H_i_0 <= RN77S0_Z5C)
 {
-mXko = n2Y16();
+
 }
 else
 {
@@ -243,7 +243,7 @@ B8QJ = (unsigned int)(HLJ6W);
 }
 else if ((Fk2aU < X7Ef) || (SItSH4FQ_7))
 {
-rnW2h = LmK7(-1929199544, ch7Z0i1W, 822095341, -1339344517, -1789714);
+
 }
 else if (((I_xg <= rL90_) && (RTgo > -2061633912)) && (XSJl86FaYN != CCXc44H))
 {
@@ -269,7 +269,7 @@ case 1:
 k0KFD8t = (int)abs(b1_MM_);
 break;
 case 2:
-ch7Z0i1W = (int)floor(H_i_0);
+
 break;
 }
 }
@@ -286,7 +286,7 @@ q_9zi47g5 = n2Y16();
 }
 else if (((RVZC8_E9_ & 1613189360) && (r1DLdFC2 & HLJ6W)) || (K543v8 > 962142760))
 {
-ETlh8qET = n2Y16();
+
 }
 else
 {
@@ -303,7 +303,7 @@ SItSH4FQ_7 = VFaJ(-627817879, -2064988010, 1732555782, -1156073842) / b1_MM_;
 }
 }
 
-d__r6rLSTK = lRL6(2041460144, -731112555, -1361227356, b1_MM_, K543v8) & oJw45_bR;
+
 i5P_Sr = (long)(rL90_ + (1625461369));
 
 mXko = (float)(rL90_ + (1970047133));
@@ -317,7 +317,7 @@ case 'a':
 lwCN_NS = LmK7(lwCN_NS, -650974894, SItSH4FQ_7, q_9zi47g5, Xc1bIp);
 break;
 case 'b':
-B8QJ = LmK7(-162891966, 1760337134, 1470944677, r1DLdFC2, 1587162504);
+
 break;
 case 'c':
 BDQa_le8E = (int)floor(JY7qtj6);
@@ -336,7 +336,7 @@ case 'a':
 BDQa_le8E = (int)ceil(mXko);
 break;
 default:
-vjkENRBP ^= 522778070;
+
 break;
 }
 }

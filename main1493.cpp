@@ -425,7 +425,7 @@ na9loIHUE0 = wXK4(433930717, BMTna0, GC1E6, 354268637, 1082493898) * GC1E6;
 }
 
 cout << "DTAk_bt4S3" << endl;
-LvY__9 = (int)abs(vHCTJ90F);
+
 {
 int i = 10;
 do

@@ -92,7 +92,7 @@ else
 int k = 0;
 do
 {
-scN9 = (int)ceil(EyuKD);
+
 ++k;
 }
 while (k < 6);
@@ -130,7 +130,7 @@ N8JTFe2_W = (int)abs(ej7tX23Jl);
 }
 else if (xB7Dd3bkp9 >= scN9)
 {
-mnrM4uW = y68278EaW - EyuKD;
+
 }
 else if (N8JTFe2_W != 372616094)
 {
@@ -153,7 +153,7 @@ N8JTFe2_W = P_PQndzK1x(1893249591, -2128877865, -2029444275, 784338149);
 int i = 0;
 while (i < 7)
 {
-scN9 = (float)(Sa_06uZ + (548785711));
+
 ++i;
 }
 }

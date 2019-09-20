@@ -18,7 +18,7 @@ short TPXmFeS_pf()
 int main(int argc, char** argv)
 {
   unsigned short int  x6Az52K;
-  x6Az52K  =  0;
+
 	int	LSC0pq8;
 	LSC0pq8	=	0;
 	long	ofrc04Ll;
@@ -30,7 +30,7 @@ int main(int argc, char** argv)
     char    h2oMCVSE;
     h2oMCVSE    =    -763218389;
  unsigned long long a_Nuodp;
- a_Nuodp = 234302836;
+
 	long	vEXFR;
 	vEXFR	=	1319170368;
 	unsigned long long	R252GQMz2z;
@@ -68,7 +68,7 @@ case 2:
 ofrc04Ll = ofrc04Ll * Gv2w;
 break;
 case 3:
-K0z1z2T9 = R252GQMz2z * 1853397289;
+
 break;
 case 4:
 LSC0pq8 = (int)abs(vEXFR) * 0;
@@ -84,7 +84,7 @@ std::cout << TPXmFeS_pf() << TPXmFeS_pf() << K0z1z2T9 << Gv2w << std::endl;
 }
 else if ((a_Nuodp <= 1924577387) && ((a_Nuodp & x6Az52K) && (Gv2w != dAuMhR4R)))
 {
-h2oMCVSE %= 1932632861;
+
 }
 else if (Og524_ < x6Az52K)
 {
@@ -98,7 +98,7 @@ vEXFR = a_Nuodp % Gv2w;
 }
 else
 {
-h2oMCVSE = Og524_ << 1462883336;
+
 }
 j--;
 }
@@ -147,7 +147,7 @@ case 'f':
 vEXFR = (int)abs(h2oMCVSE);
 break;
 case 'g':
-Gv2w ^= h2oMCVSE;
+
 break;
 case 'h':
 K0z1z2T9 = h2oMCVSE / K0z1z2T9;

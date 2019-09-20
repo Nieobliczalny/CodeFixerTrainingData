@@ -78,7 +78,7 @@ int main()
   char  t3651;
   t3651  =  550256503;
   float  vlko7;
-  vlko7  =  1595715045;
+
     long    m6_ZOVIf;
     m6_ZOVIf    =    -1259848550;
   float  Plvl;
@@ -116,7 +116,7 @@ int main()
     unsigned char    C_P3YngZum;
     C_P3YngZum    =    0;
 	unsigned short int	d5736;
-	d5736	=	-692678593;
+
  int gKlF1;
  gKlF1 = 1981578817;
     unsigned short    J5R0;
@@ -277,7 +277,7 @@ else if ((PCr19wIL3 & H266Yq) && (Vknhbm == 1038523716))
 switch (Dpu1JjM)
 {
 case 'a':
-mB11G_iU9e = (int)abs(aCjbV) + (267704774);
+
 break;
 default:
 h764FjN9LY = OaRe6fWxH();
@@ -324,7 +324,7 @@ case 0:
 vlko7 = (int)ceil(cWoRm);
 break;
 case 1:
-OA_KaccVDJ = O8rO_7IDA >> 516892377;
+
 break;
 case 2:
 AFJ1Y_0Cq = (int)floor(hS654zYLR7);
@@ -345,7 +345,7 @@ case 7:
 Dpu1JjM = OaRe6fWxH();
 break;
 case 8:
-AFJ1Y_0Cq = (int)ceil(vlko7);
+
 break;
 default:
 Vknhbm ^= 1364654951;
@@ -417,7 +417,7 @@ std::cout << t3651 << Vqp680() << Dz3_5AF_I6(J5R0, -618058554) << std::endl;
 }
 P6wT = (int)abs(FbRQ3);
 
-E4jl6hC3 = Dz3_5AF_I6(E4jl6hC3, P6wT);
+
 
 hKTf = J5R0 & 1413885763;
 
@@ -429,7 +429,7 @@ if (H266Yq)
 {
 if ((h6nVa1BtXl & f1a05_H) || ((vlko7 != S552_KV) && (mB11G_iU9e >= -2071644519)))
 {
-AH3SU83I_ = (int)abs(EAF_) * 0;
+
 }
 }
 
@@ -471,7 +471,7 @@ H266Yq %= 252877281;
 break;
 case 'i':
 case 'I':
-h6nVa1BtXl = (int)abs(t3651);
+
 break;
 default:
 OA_KaccVDJ = bHXXddLEd1();
@@ -493,7 +493,7 @@ case 3:
 aCjbV = OaRe6fWxH();
 break;
 case 4:
-m6_ZOVIf /= eUMm8150;
+
 break;
 case 5:
 vlko7 = (int)ceil(OA_KaccVDJ);
@@ -552,7 +552,7 @@ cWoRm = (int)ceil(OA_KaccVDJ);
 }
 else if ((V_Bwo_C0 != AH3SU83I_) || (hS654zYLR7 != 1781214367))
 {
-i5cmoH %= 1312884425;
+
 }
 else if (Dpu1JjM == tid6rcFRer)
 {
@@ -575,7 +575,7 @@ Plvl = (int)ceil(P6wT);
 }
 else if ((V_Bwo_C0 != FbRQ3) || ((m821J != f1a05_H) || (C_P3YngZum > W89JzV)))
 {
-O1Qp = bHXXddLEd1();
+
 }
 else if ((O1Qp >= -28868494) && (AH3SU83I_ != 2133531337))
 {
@@ -634,7 +634,7 @@ else
 int j = 0;
 do
 {
-oKdXpBa = aCjbV & PCr19wIL3;
+
 j++;
 }
 while (j < 2);

@@ -153,7 +153,7 @@ std::cout << s_16_14pE << std::endl;
 for (int i = SX790(mZixQYf31, kQKu); i < 89; i++)
 {
 V68E = uKU2 >> 1198894603;
-	gkoUmBV99 = 1730314707 / i;
+
 std::cout << d705139 << xD6l33(1816069808, 1549937469) << SX790(432237594, kQKu) << f5sU_0(mZixQYf31, kQKu, U4A_w26M, d705139, -894121338) << mZixQYf31 << std::endl;
 }
 
@@ -287,7 +287,7 @@ wtIKC = (int)abs(FF9yOb3);
 }
 else
 {
-gkoUmBV99 = s747aBAG(-1888625981, -1699416819, U4A_w26M, -198808090);
+
 }
 }
 else
@@ -311,7 +311,7 @@ i--;
 std::cout << K8Pv75 << "zJ58Bsde" << f5sU_0(vjz31oy2k_, 1813334750, JS0Sx, zPu8, -298950497) << SX790(782296978, U4A_w26M) << B07_tM4(vjz31oy2k_, 1734745232, JS0Sx) << std::endl;
 }
 }
-TdL873569 = (unsigned short)(uKU2 + (1086030737));
+
 switch (CTd34tGS)
 {
 case 0:
@@ -324,7 +324,7 @@ case 2:
 V68E = f5sU_0(V68E, -777007569, kQKu, uufR, JS0Sx);
 break;
 case 3:
-q0v0o0 = mZixQYf31 & zPu8;
+
 break;
 default:
 u4M0rMAIul >>= s_16_14pE;

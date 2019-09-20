@@ -62,7 +62,7 @@ case 3:
 lH2X = (int)abs(e9Av9_8pjX);
 break;
 case 4:
-T32Y = J_D5p92K(-1371900379);
+
 break;
 case 5:
 Uq4b__ = mVZAl | 1957276322;
@@ -131,7 +131,7 @@ case 3:
 lH2X %= 892279708;
 break;
 case 4:
-T32Y = RF0Y3n_7ch - 933907628;
+
 break;
 case 5:
 T32Y |= a8S2Id5M;
@@ -212,7 +212,7 @@ if (lH2X >= -165256374)
 {
 for (int k = 0; k < 6; ++k)
 {
-e9Av9_8pjX = G05g();
+
 }
 }
 else
@@ -438,7 +438,7 @@ while (k >= 0);
 }
 else if (RF0Y3n_7ch & e9Av9_8pjX)
 {
-T32Y = G05g();
+
 }
 else if ((zJDPJg != RF0Y3n_7ch) || ((jhHb813npm <= -153810838) || (aH97O12B0 >= r4lBKi8f6L)))
 {
@@ -448,7 +448,7 @@ case 'a':
 Uq4b__ ^= a8S2Id5M;
 break;
 case 'b':
-e9Av9_8pjX = (int)abs(mVZAl);
+
 break;
 case 'c':
 mVZAl = G05g();

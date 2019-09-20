@@ -129,7 +129,7 @@ int main(void)
 switch (LQ1aw7s)
 {
 case 0:
-j31pkB_G8l = gU00Y | 1621404913;
+
 break;
 case 1:
 A_Uzw = (int)abs(yl190Tm0m);
@@ -144,7 +144,7 @@ case 4:
 Qg8_F = n0XwZ(d5urt6, 1335633562, Dgv6kqkH0j, vBDO);
 break;
 case 5:
-t1kVy9 &= 779120011;
+
 break;
 case 6:
 JASOzV = VbDrjht(krDJo0zSc, JASOzV, -95606707);
@@ -174,7 +174,7 @@ int i = 8;
 do
 {
 --i;
-b7Lf = (cr5j >= dm_6Ys) ? 162156364 : A4oAYA8;
+
 }
 while (i >= 0);
 }
@@ -184,7 +184,7 @@ for (int j = 0; j < 10; j++)
 {
 for (int k = 2; k >= 0; k--)
 {
-Gds7c = ITzHvT(1309951164, We4_DQq2);
+
 }
 }
 }

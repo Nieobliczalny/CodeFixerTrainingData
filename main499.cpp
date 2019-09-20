@@ -17,7 +17,7 @@ if (cTs5O3N < 1125755256)
 {
 if (D3o_7AEQhi != -1908901699)
 {
-J5ez9crl3Y = (unsigned short int)(kQ_Y);
+
 }
 }
 {
@@ -32,7 +32,7 @@ while (j < 4)
 j++;
 for (int k = 1; k >= 0; k--)
 {
-E122j = ls6g & adT0rPJ;
+
 }
 }
 }
@@ -42,7 +42,7 @@ while (i >= 0);
 
 if (R04Y0z <= Uf9U)
 {
-scQYOV0 = jyKM + Cr8f9xnJ_;
+
 }
 
 cout << vz_1N1v00H / o92g4NN4Q << endl;
@@ -86,7 +86,7 @@ o92g4NN4Q = (int)abs(e4jR_T);
 int i = 0;
 while (i < 7)
 {
-El068ustU = (unsigned short int)(W_ja8);
+
 ++i;
 }
 }
@@ -98,7 +98,7 @@ o92g4NN4Q = (int)abs(ls6g);
 break;
 }
 
-adT0rPJ = Zjg840OKjK - 1715316403;
+
 
 return 0;
 }

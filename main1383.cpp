@@ -40,7 +40,7 @@ int main(void) {
   unsigned long  Rt8s9V9g5,  vRZkQK,  dVZi7gC3U3,  HM16e6oeL7;
   Rt8s9V9g5  =  0;
   vRZkQK  =  0;
-  dVZi7gC3U3  =  0;
+
   HM16e6oeL7  =  0;
 	char	Vr5QLET__H,	sKp49_5ph7,	qd1RiI,	V_yn7qjUGr,	mxhj6C,	xGDez7LS,	cC_2a,	GKDF92W5_6,	GwkTe,	jZ97672,	sw313A,	hkHHLxz,	n1K745,	T_i9J1Yt,	gtJ032znC8,	k761ZwZ;
 	Vr5QLET__H	=	578806529;
@@ -51,7 +51,7 @@ int main(void) {
 	xGDez7LS	=	1355675002;
 	cC_2a	=	-1484372518;
 	GKDF92W5_6	=	1235584447;
-	GwkTe	=	-80192763;
+
 	jZ97672	=	-523267060;
 	sw313A	=	-313160715;
 	hkHHLxz	=	-1224229995;
@@ -85,7 +85,7 @@ for (int j = 0; j < 3; j++)
 {
 for (int k = 10; k >= 0; k--)
 {
-V_yn7qjUGr = HM16e6oeL7 % 133155128;
+
 }
 }
 }
@@ -110,7 +110,7 @@ for (int j = 2; j >= 0; j--)
 {
 for (int k = 0; k < 4; ++k)
 {
-HM16e6oeL7 = lX1s942z(n1K745, -118920774, -1238945232);
+
 }
 }
 }
@@ -122,7 +122,7 @@ qd1RiI = (qd1RiI > 183932148) ? sw313A : ZOP0lF_g;
 break;
 case 'b':
 case 'B':
-mxhj6C = xORgB(mxhj6C);
+
 break;
 }
 
@@ -138,7 +138,7 @@ sKp49_5ph7 = ksI5a29(1616067700);
 break;
 case 'c':
 case 'C':
-gtJ032znC8 = xORgB(-1186264416);
+
 break;
 case 'd':
 case 'D':
@@ -148,7 +148,7 @@ break;
 hkHHLxz = sKp49_5ph7 / Rt8s9V9g5;
 try
 {
-V_yn7qjUGr = (char)(xGDez7LS);
+
 }
 catch (int& errorCode)
 {

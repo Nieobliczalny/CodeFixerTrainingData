@@ -21,7 +21,8 @@ int main(int argc, char** argv)
   double  vnSVp,  tg_06c,  c6R5pT3Ip,  B1OE,  UG1T4,  sQ0T,  POn1Y7l5,  he0BPx,  AZV5N05qe,  DV0kKEb,  crWxzjM,  lG45Vb,  SMaJ8S2,  L9fwzfT,  ig6z3C,  ZQS4X8mZ2,  d6zdBHnan,  IHBp_z,  v0JsrMW29_,  uj11Ob2z0,  TKjYtK,  w86_u,  UV60eBzp,  X9qCHK42,  t2Tx,  K53__g1hZr,  ix6c28,  MkliG,  T0s9,  Iy0CRJrI,  x7_Ww9q,  nBls,  c7CG_26Q,  Mei8,  dh544d0,  G4Nmk9A46q,  KI_0vDZkRM,  K50vy0y1u7,  eesTy3TAr9,  CZ59P910,  BmYGLSNO,  Tf2cJveQ,  qCI4w68,  AvLVm1,  AI5FjKmqV,  I_cC0i41,  mal5get,  Df9Mq,  YT7_J,  xhx5,  bxRp0d1jn,  oZDzol3s,  BRFuSpUK_R,  K98Z0dCP_,  HZPVNxa,  DhjbxLO,  Tf4O,  eJmz8M,  MDl_8ls,  qZyZs;
     vnSVp  =  tg_06c  =  c6R5pT3Ip  =  B1OE  =  UG1T4  =  sQ0T  =  POn1Y7l5  =  he0BPx  =  AZV5N05qe  =  DV0kKEb  =  crWxzjM  =  lG45Vb  =  SMaJ8S2  =  L9fwzfT  =  ig6z3C  =  ZQS4X8mZ2  =  d6zdBHnan  =  IHBp_z  =  v0JsrMW29_  =  uj11Ob2z0  =  TKjYtK  =  w86_u  =  UV60eBzp  =  X9qCHK42  =  t2Tx  =  K53__g1hZr  =  ix6c28  =  MkliG  =  T0s9  =  Iy0CRJrI  =  x7_Ww9q  =  nBls  =  c7CG_26Q  =  Mei8  =  dh544d0  =  G4Nmk9A46q  =  KI_0vDZkRM  =  K50vy0y1u7  =  eesTy3TAr9  =  CZ59P910  =  BmYGLSNO  =  Tf2cJveQ  =  qCI4w68  =  AvLVm1  =  AI5FjKmqV  =  I_cC0i41  =  mal5get  =  Df9Mq  =  YT7_J  =  xhx5  =  bxRp0d1jn  =  oZDzol3s  =  BRFuSpUK_R  =  K98Z0dCP_  =  HZPVNxa  =  DhjbxLO  =  Tf4O  =  eJmz8M  =  MDl_8ls  =  qZyZs  =  -419315061;
   unsigned char  DP9m6_vwy,  ftcT,  t3f51L,  c94bCpuG;
-    DP9m6_vwy  =  ftcT  =  t3f51L  =  c94bCpuG  =  0;
+    // codechecker_intentional [deadcode.DeadStores] Design rule - initialize all variables
+	DP9m6_vwy  =  ftcT  =  t3f51L  =  c94bCpuG  =  0;
 
 {
 int i = 1;

@@ -138,7 +138,7 @@ case 0:
 txv8N3Im0O = bs3unV1 ^ nUS1m743;
 break;
 case 1:
-sDq_A = omq_as ^ 1791548263;
+
 break;
 case 2:
 ao2_1HUq1P = S8I088xs(HPP3c6, KnSWJy8);
@@ -263,7 +263,7 @@ else
 BFVs0798_ = S8I088xs(KnSWJy8, IwHc0);
 }
 
-G23iT5J2 = (int)floor(Mp_9);
+
 
 switch (omq_as)
 {
@@ -274,7 +274,7 @@ case 'b':
 G23iT5J2 = (int)floor(N965);
 break;
 case 'c':
-Mp_9 = (int)floor(N965);
+
 break;
 case 'd':
 S_JLF_M = nUS1m743 << 1136167627;
@@ -286,7 +286,7 @@ case 'f':
 Mp_9 = (int)floor(O150Ii_8xV);
 break;
 case 'g':
-ES34 &= 1461508452;
+
 break;
 case 'h':
 gCJO = (int)abs(IwHc0);
@@ -299,7 +299,7 @@ EGOefye0_ /= umq695q_;
 break;
 }
 
-G23iT5J2 = (int)abs(ab7h6Mp6k6);
+
 EGOefye0_ = (unsigned short)(txlD1uu6_e);
 ab7h6Mp6k6 = (int)(UBJY5);
 
@@ -309,7 +309,7 @@ case 0:
 dZ_i8 = (int)abs(iGmaTPpo);
 break;
 case 1:
-G23iT5J2 = (int)ceil(iGmaTPpo);
+
 break;
 case 2:
 CWQX6Kz2G--;
@@ -322,7 +322,7 @@ ao2_1HUq1P = S8I088xs(RpwI, j_Lc);
 break;
 }
 
-umq695q_ ^= 365895650;
+
 cout << S8I088xs(RpwI, -1693726797) << S8I088xs(567129103, -1223425803) << endl;
 dZ_i8 = (int)abs(WFr3F6);
 
@@ -338,7 +338,7 @@ dZ_i8 = (int)floor(K4wbm);
 switch (VYFk3S)
 {
 case 0:
-HPP3c6 *= 1328272896;
+
 break;
 case 1:
 y6XC1H2Z = hqCu % 1467073422;

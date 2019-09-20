@@ -31,7 +31,7 @@ int main(int argc, char** argv)
  vC_qV = 1910290676;
  JoxWE = -27363087;
  uN16 = -829793861;
- j8ZWrD = 991058004;
+
  P3EhJvh = 826031154;
  FKj9F = -1925571738;
 
@@ -153,7 +153,7 @@ ibX8Jl1G_D = (short int)(st6V3 * (E_mW0Htuk));
 
 if (a_1Psq < -920429604)
 {
-a_1Psq -= al_b1OtO;
+
 }
 else if (FKj9F == IE07)
 {
@@ -167,7 +167,7 @@ try
 int k = 0;
 do
 {
-w_kf_ = (int)ceil(uN16);
+
 k++;
 }
 while (k < 2);
@@ -198,7 +198,7 @@ j++;
 }
 else
 {
-w_kf_ = (int)floor(FKj9F);
+
 }
 
 std::cout << al_b1OtO << "kXqSA" << "G2NnJ" << h87Rvtbg6 << "DyWEt0CF8" << std::endl;
@@ -221,7 +221,7 @@ if (al_b1OtO != h87Rvtbg6)
 {
 try
 {
-u5_9Uq1qaQ = P3EhJvh * 586998085;
+
 }
 catch (int& errorCode)
 {
@@ -250,7 +250,7 @@ h87Rvtbg6 = (int)abs(WJ0z50h6);
 }
 else
 {
-a_1Psq = vC_qV * WJ0z50h6;
+
 }
 }
 if (((sthox8T7 & 2027351763) || (FKj9F >= -2038647378)) || ((w_kf_ > IE07) && (h87Rvtbg6 != -892190990)))

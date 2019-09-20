@@ -47,7 +47,7 @@ int main(void)
     short int    PLbnl102r;
     PLbnl102r    =    -1424231811;
   unsigned long long  iYl5;
-  iYl5  =  0;
+
   unsigned long  bdJ2;
   bdJ2  =  0;
     long long    cc4zAv4a;
@@ -81,7 +81,7 @@ int main(void)
  unsigned long OpYX0;
  OpYX0 = -975572091;
   double  a46e9k4Fh;
-  a46e9k4Fh  =  633320401;
+
  short e317_3Am;
  e317_3Am = 1370503707;
 	unsigned char	ep5wOB_o;
@@ -252,7 +252,7 @@ else if (((a46e9k4Fh) && (a46e9k4Fh)) || (bY10E))
 {
 try
 {
-OpYX0 = (a46e9k4Fh <= 1650430966) ? 899999498 : M4Kmi;
+
 }
 catch (int& errorCode)
 {
@@ -380,7 +380,7 @@ if (a46e9k4Fh == Sv169)
 switch (Txt_Hn9)
 {
 case 'a':
-GLbdw759 = f8hWfaGn * 1982169166;
+
 break;
 case 'b':
 MFgjjCj3--;
@@ -411,7 +411,7 @@ case 2:
 MFgjjCj3 &= v3aQ;
 break;
 case 3:
-a46e9k4Fh = (int)floor(fU97r5QN24);
+
 break;
 case 4:
 fr2mGT = (int)ceil(fU97r5QN24);
@@ -426,7 +426,7 @@ case 7:
 PB14XRe = (int)floor(fU97r5QN24);
 break;
 case 8:
-C1Njx___GH = xgJC0LI5Ds * fU97r5QN24;
+
 break;
 case 9:
 ZI6H3Cj ^= bY10E;
@@ -480,7 +480,7 @@ tO__3sGfK ^= 1654075991;
 
 try
 {
-bY10E = (PLbnl102r == Qa2A222v) ? -1890353690 : Y_5MTgprm9;
+
 }
 catch (int& errorCode)
 {
@@ -493,7 +493,7 @@ if (n_w1bkX0O == -968436228)
 switch (D5iJ47)
 {
 case 0:
-T1YXq14 %= tO__3sGfK;
+
 break;
 case 1:
 Wp4x6Z7 = v3aQ << n_w1bkX0O;

@@ -168,7 +168,7 @@ A5QHlEbB = (long)(NYp_2PIU5Z * A5QHlEbB);
 switch (A5QHlEbB)
 {
 case 'a':
-S6iaMPb1 = O1PABRM(S6iaMPb1, NYp_2PIU5Z, 734754178);
+
 break;
 case 'b':
 NYp_2PIU5Z = (gB0_k >= -1168394715) ? N0jug22anf : eQ81z6(2115857527, 1914942519, -1000956780, eww487B, sUQ7AV2Dy3);
@@ -187,7 +187,7 @@ std::cout << "l9569J2uZ6" << "hz8U_x_q" << std::endl;
 }
 }
 
-eww487B >>= 1980123344;
+
 
 return 0;
 }

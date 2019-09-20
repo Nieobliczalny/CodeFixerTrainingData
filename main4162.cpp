@@ -12,6 +12,7 @@ using namespace std;
 int main(int argc, char** argv)
 {
  int MUhi_c, j1WlES, J_1ulTZGg6, nUCuLbK7mn;
+  // codechecker_intentional [deadcode.DeadStores] Design rule - initialize all variables
   MUhi_c = j1WlES = J_1ulTZGg6 = nUCuLbK7mn = 0;
     long double    m69QS,    z7XN4ViijO,    i1o0M4,    MeQ3bQoDdO,    v2d1uYE,    kfJT,    LI89,    Bz39F,    bm25D,    yoUuwCQ0,    z_L_3_uIR7,    q2eA6S_,    H8q9,    ACtY845d4,    Z5R18,    HyFR9_f,    Ne8g8FnY,    iK_qmydZq,    wjV04,    jFz8GU,    ix86,    BTM5,    S2vYgN,    ay6y4,    aF3M,    SjC2KZ,    ilqp4,    lO6OU,    Uw6mMeXT,    bgC1,    y68YvUk,    xJP7,    O7mk57239P,    ZY05L_R,    vgmC_R,    m8xY2e34,    kr3BpPe,    q189,    HD4Q65255M,    q1WIJqg,    soWyyP;
         m69QS    =    z7XN4ViijO    =    i1o0M4    =    MeQ3bQoDdO    =    v2d1uYE    =    kfJT    =    LI89    =    Bz39F    =    bm25D    =    yoUuwCQ0    =    z_L_3_uIR7    =    q2eA6S_    =    H8q9    =    ACtY845d4    =    Z5R18    =    HyFR9_f    =    Ne8g8FnY    =    iK_qmydZq    =    wjV04    =    jFz8GU    =    ix86    =    BTM5    =    S2vYgN    =    ay6y4    =    aF3M    =    SjC2KZ    =    ilqp4    =    lO6OU    =    Uw6mMeXT    =    bgC1    =    y68YvUk    =    xJP7    =    O7mk57239P    =    ZY05L_R    =    vgmC_R    =    m8xY2e34    =    kr3BpPe    =    q189    =    HD4Q65255M    =    q1WIJqg    =    soWyyP    =    1194789134;

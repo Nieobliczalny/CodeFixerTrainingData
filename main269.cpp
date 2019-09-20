@@ -16,7 +16,7 @@ int main(void)
     U4Wj4_AH5    =    0;
   double  b7bGTgRd8B,  d4wcP,  CX5znl,  qc47zt4,  KHT1LJd,  yr7OyOJRVa,  X4X_,  B_tPkN,  nP1__PL,  uPb7,  fn57,  HyGLO3AV,  S1XYt4,  hYZGA_2,  vj0m8q_4j,  p2P6dccI,  YPc15P6,  TwG6,  VAA5UH36v,  E70z,  o8UR5,  xLomo4A,  h432bp,  QJfr608SXU,  Z05r85nFS,  itY164U,  j91W,  K0KO0zZpuu,  iOIY,  HE50u4,  Kj0RPz,  oX9xIb44IG,  pzP6,  BQKh,  rjd8SO2,  uFR5fa82,  iL0Q,  uQp62I2,  CE37;
   b7bGTgRd8B  =  298818265;
-  d4wcP  =  73546660;
+
   CX5znl  =  185202150;
   qc47zt4  =  2129508725;
   KHT1LJd  =  1379870363;
@@ -127,7 +127,7 @@ case 4:
 HE50u4 -= 1994795294;
 break;
 case 5:
-QJfr608SXU = rI6lFzTs6 >> 631956348;
+
 break;
 case 6:
 KHT1LJd = iL0Q - U4Wj4_AH5;
@@ -336,7 +336,7 @@ pzP6 *= uQp62I2;
 break;
 case 'f':
 case 'F':
-QJfr608SXU = (U4Wj4_AH5 & -1421214755) ? KHT1LJd : -142677967;
+
 break;
 case 'g':
 case 'G':
@@ -348,7 +348,7 @@ fn57 = E70z * 1872718137;
 break;
 case 'i':
 case 'I':
-xLomo4A = (int)abs(vj0m8q_4j);
+
 break;
 }
 }
@@ -383,7 +383,7 @@ if (((K0KO0zZpuu <= d4wcP) || (TwG6 <= -1042074090)) && (CX5znl >= 709850907))
 {
 if (b7bGTgRd8B >= syygG5zKS)
 {
-uFR5fa82 = KHT1LJd - hYZGA_2;
+
 }
 else
 {
@@ -406,7 +406,7 @@ if (TwG6 <= syygG5zKS)
 {
 if (HE50u4 >= syygG5zKS)
 {
-Z05r85nFS = (int)ceil(B_tPkN);
+
 }
 else if (((U4Wj4_AH5 & ZrKI_2S) || (K0KO0zZpuu)) && (B_tPkN < syygG5zKS))
 {
@@ -419,7 +419,7 @@ else if (HE50u4 == syygG5zKS)
 {
 if (HyGLO3AV <= syygG5zKS)
 {
-VAA5UH36v /= Z05r85nFS;
+
 }
 else
 {
@@ -434,7 +434,7 @@ else
 {
 try
 {
-iOIY = (b7bGTgRd8B >= itY164U) ? 1747101490 : 984463831;
+
 }
 catch (int& errorCode)
 {
@@ -448,7 +448,7 @@ for (int j = 0; j < 6; ++j)
 {
 try
 {
-HyGLO3AV = (int)ceil(YPc15P6);
+
 }
 catch (int& errorCode)
 {
@@ -462,7 +462,7 @@ if (uQp62I2 == syygG5zKS)
 {
 try
 {
-uPb7 = d4wcP * X4X_;
+
 }
 catch (int& errorCode)
 {
@@ -476,7 +476,7 @@ KHT1LJd = (int)floor(qc47zt4);
 }
 else
 {
-S1XYt4 /= E70z;
+
 }
 
 {
@@ -488,7 +488,7 @@ uFR5fa82 = TwG6 / 1044670385;
 }
 while (i < 9);
 }
-xLomo4A = h432bp / ZrKI_2S;
+
 for (int i = 0; i < 8; ++i)
 {
 {
@@ -501,7 +501,7 @@ j--;
 while (j >= 0);
 }
 }
-B_tPkN = (int)ceil(CX5znl);
+
 
 return 0;
 }

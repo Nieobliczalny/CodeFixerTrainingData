@@ -27,7 +27,7 @@ int main()
   unsigned long long  NCY8BQU6F;
   NCY8BQU6F  =  -831834473;
 	long	p1Znk_7I;
-	p1Znk_7I	=	0;
+
 	short int	DI_sKeslR;
 	DI_sKeslR	=	-2139797725;
  char e9G0xByO;
@@ -77,7 +77,7 @@ int main()
     unsigned long long    hsIiT;
     hsIiT    =    1207958552;
 	unsigned char	p44TSdy98r;
-	p44TSdy98r	=	-1624657559;
+
 	unsigned long long	nq_O36loWQ;
 	nq_O36loWQ	=	0;
  unsigned long p23u;
@@ -224,7 +224,7 @@ do
 ++j;
 try
 {
-G733w = x9ePn(vp56p, HgXb4Gj3, J3s7X, DI_sKeslR, -1507852706) % IIIZhbcax;
+
 }
 catch (int& errorCode)
 {
@@ -329,7 +329,7 @@ case 1:
 LKV6984ZL = (int)floor(PbLbuE9dBP);
 break;
 case 2:
-TAg3BaG = u9800p7(TAg3BaG, -80523802, DI_sKeslR, 723905183);
+
 break;
 case 3:
 p23u = ot7gF3(-1574743935, -1465060663, dw5YN4);
@@ -352,7 +352,7 @@ vp56p--;
 }
 else if (e9G0xByO & 412523818)
 {
-p44TSdy98r = LVTC * 971945769;
+
 }
 else
 {
@@ -385,7 +385,7 @@ switch (k9999U3v)
 {
 case 'a':
 case 'A':
-G733w = k9999U3v + 738596989;
+
 break;
 case 'b':
 case 'B':
@@ -441,7 +441,7 @@ J3s7X = u9800p7(J3s7X, NSL2, -1271961887, DI_sKeslR);
 break;
 case 'd':
 case 'D':
-p1Znk_7I = x9ePn(-1672874070, -143686344, TBAA, 1075671074, -1019938982);
+
 break;
 default:
 p23u -= 1904633194;
@@ -466,7 +466,7 @@ c_6_1z3 = ns_SQ6v();
 }
 for (int i = 0; i < 9; i++)
 {
-AWYaV6cV3 = (unsigned char)(rTiPVF74z);
+
 }
 
 qPSI = (int)abs(TBAA);

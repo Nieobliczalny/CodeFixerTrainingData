@@ -68,7 +68,7 @@ else
 switch (Y9Aor4_Qh)
 {
 case 0:
-p3Aj %= 2038842740;
+
 break;
 case 1:
 By9nnxxG--;
@@ -86,7 +86,7 @@ case 5:
 T6Vn = (int)abs(sZCdIGng06);
 break;
 case 6:
-p3Aj -= T6Vn;
+
 break;
 case 7:
 lW_P7 = IfED5g(-1902316353, -698129136, 619715680, cf2ct_9_6S, C4Xo);
@@ -214,7 +214,7 @@ else if (lW_P7 >= Y0ii)
 {
 if ((p3Aj < C4Xo) && (lW_P7))
 {
-mPlF259 = Y0ii >> Bu76if;
+
 }
 else if (By9nnxxG >= Bu76if)
 {
@@ -226,7 +226,7 @@ Y0ii = IfED5g(1834127284, 705027106, -1253411903, sZCdIGng06, dw8TZ201);
 }
 else if (cf2ct_9_6S == -1116742656)
 {
-C4Xo = iX4P() | 272527993;
+
 }
 else
 {
@@ -250,7 +250,7 @@ do
 {
 for (int k = 0; k < 9; k++)
 {
-By9nnxxG = Y9Aor4_Qh & H_Mz4;
+
 }
 j++;
 }

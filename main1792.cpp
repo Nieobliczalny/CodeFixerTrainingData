@@ -33,6 +33,7 @@ int main(int argc, char** argv) {
     unsigned char    w7720fdK0p,    tGjgLJ,    P22a5Ps5;
         w7720fdK0p    =    tGjgLJ    =    P22a5Ps5    =    0;
 	unsigned long long	a9rX53GU,	ugSw6,	MoJEREu,	K7cV0bhoH3,	na8Ukk,	Dy7zy5,	Y6cv6_6wpq,	mRslUDlT,	CrX6,	jR1iNK08,	aAC7Rhu7,	eBp3ZeWfy,	awAh,	M_2Xcz,	rH0bs4,	uYb5y4A4A,	tR3mVzdxh;
+		// codechecker_intentional [deadcode.DeadStores] Design rule - initialize all variables
 		a9rX53GU	=	ugSw6	=	MoJEREu	=	K7cV0bhoH3	=	na8Ukk	=	Dy7zy5	=	Y6cv6_6wpq	=	mRslUDlT	=	CrX6	=	jR1iNK08	=	aAC7Rhu7	=	eBp3ZeWfy	=	awAh	=	M_2Xcz	=	rH0bs4	=	uYb5y4A4A	=	tR3mVzdxh	=	1342306763;
 
 a9rX53GU = (unsigned long long)(u84Rg1kw7q + (1972848635));

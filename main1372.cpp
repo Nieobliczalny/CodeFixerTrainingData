@@ -32,7 +32,7 @@ int main(void) {
   unsigned long  bT2K47;
   bT2K47  =  2123808159;
 	unsigned int	etq0dGe;
-	etq0dGe	=	-867775305;
+
  unsigned char FaHYaP3U8A;
  FaHYaP3U8A = 716091965;
 	unsigned short	jHyE;
@@ -62,7 +62,7 @@ int main(void) {
     short int    JiE30;
     JiE30    =    -1208181531;
  short int q4y_;
- q4y_ = 681101142;
+
     unsigned long long    Ker0;
     Ker0    =    1638536498;
   unsigned char  LTr87z;
@@ -80,7 +80,7 @@ if ((ZN07(-1928428289) / M4o9) > 1457396046)
 {
 cout << ZN07(-25211273) / s6wWj9kAV << endl;
 }
-vARL_5i = (float)(jHyE);
+
 
 if (pOmSigu == -323825460)
 {
@@ -128,7 +128,7 @@ case 'd':
 gu4fsc = E605rEB << Z9qjUc_k1;
 break;
 case 'e':
-tih9 = (int)ceil(Wl1DrmmeL_);
+
 break;
 case 'f':
 t9vip3 = w4bwE3U431();
@@ -140,7 +140,7 @@ case 'h':
 trQFrCon %= HUI3rUE9U;
 break;
 case 'i':
-ndMB2R = Zy69nm(ndMB2R);
+
 break;
 default:
 d_iMsX35 = (int)ceil(C2ji);
@@ -189,7 +189,7 @@ Vt47Y49MMy = (int)abs(Wl1DrmmeL_);
 }
 else
 {
-vARL_5i = trQFrCon >> bT2K47;
+
 }
 }
 }
@@ -235,7 +235,7 @@ case 'f':
 b1Dv8t4i5 = ZN07(b1Dv8t4i5);
 break;
 case 'g':
-LTr87z = (b1Dv8t4i5 > -68923080) ? E605rEB : 1922770310;
+
 break;
 case 'h':
 ZfiJwIp12n = ZN07(2012664151);
@@ -294,7 +294,7 @@ case 5:
 d_iMsX35 = (int)floor(Wl1DrmmeL_);
 break;
 case 6:
-pOmSigu = (int)abs(b1Dv8t4i5);
+
 break;
 case 7:
 s6wWj9kAV = w4bwE3U431();
@@ -336,7 +336,7 @@ C2ji = Zy69nm(gu4fsc) / 1335608870;
 int i = 0;
 while (i < 4)
 {
-HUI3rUE9U = (int)abs(gu4fsc);
+
 ++i;
 }
 }

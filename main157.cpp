@@ -18,7 +18,7 @@ char	GV9T29cj(int	XFL5os,unsigned long	c_tCJ3TCb,unsigned long	Ar6eVeRj3h,unsign
 int main(void)
 {
     unsigned short int    xyq3Co99j;
-    xyq3Co99j    =    537262923;
+
 	char	yJ7LP68;
 	yJ7LP68	=	-1156073129;
     unsigned short    W0hs2N0;
@@ -28,7 +28,7 @@ int main(void)
  int NX_h6rE;
  NX_h6rE = 1126459763;
 	long	Yt6LUM;
-	Yt6LUM	=	-1630391877;
+
  char pJ8DUr58;
  pJ8DUr58 = -642961916;
 	double	xq3hXB7w94;
@@ -38,7 +38,7 @@ int main(void)
     int    geJf20gL;
     geJf20gL    =    -2109334209;
  unsigned long long gGwR;
- gGwR = 1064671630;
+
  unsigned long long Cd92OM;
  Cd92OM = -400967342;
 	unsigned int	Q9qaAUweh;
@@ -48,7 +48,7 @@ int main(void)
 	long double	fWQRD;
 	fWQRD	=	-2030004508;
     long long    w8mj7O1;
-    w8mj7O1    =    244134568;
+
   double  kZwKz_jgN;
   kZwKz_jgN  =  -1027398638;
  short int qd_ngN0Ni;
@@ -58,7 +58,7 @@ int main(void)
   unsigned long  LYleK;
   LYleK  =  1330720297;
     unsigned char    RT_o0;
-    RT_o0    =    1646293362;
+
   double  Im32B;
   Im32B  =  -1213688892;
     unsigned short int    kR24_0oGiE;
@@ -68,7 +68,7 @@ int main(void)
  short int j7BPm_4Bx;
  j7BPm_4Bx = 54911734;
  unsigned short int IYe6aErR;
- IYe6aErR = -1221512869;
+
     int    s4T1aTJ;
     s4T1aTJ    =    0;
  unsigned char nz1S2JjN;
@@ -95,7 +95,7 @@ fWQRD = (int)ceil(kZwKz_jgN);
 }
 NX_h6rE = Im32B / s4T1aTJ;
 
-IYe6aErR = yJ7LP68 - 1396744511;
+
 std::cout << "wcQ8" << std::endl;
 
 kZwKz_jgN = (double)(Cd92OM);
@@ -115,7 +115,7 @@ int k = 0;
 do
 {
 k++;
-j7BPm_4Bx = (int)abs(xq3hXB7w94);
+
 }
 while (k < 8);
 }
@@ -125,7 +125,7 @@ while (j >= 0);
 }
 try
 {
-s4T1aTJ = (int)abs(NX_h6rE) * 0;
+
 }
 catch (int& errorCode)
 {

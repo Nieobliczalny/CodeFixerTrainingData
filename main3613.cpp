@@ -35,7 +35,7 @@ int main()
 	unsigned int	E8A5;
 	E8A5	=	-127415451;
     long long    flbQkGy;
-    flbQkGy    =    0;
+
   unsigned short int  VER2Nwh;
   VER2Nwh  =  751337947;
   int  v0KTwkE;
@@ -69,7 +69,7 @@ int main()
  unsigned char Szpo866;
  Szpo866 = -71782665;
  short wrHz_;
- wrHz_ = 1452940353;
+
 
 std::cout << "UbzxsMf" << "reg84BT8eZ" << y84fIK << "a__02I" << std::endl;
 wrHz_ = dC3Jq << 1542112906;
@@ -96,7 +96,7 @@ int i = 0;
 do
 {
 i++;
-flbQkGy = (int)abs(o82Vc3L) * 0;
+
 }
 while (i < 7);
 }
@@ -124,7 +124,7 @@ case 'c':
 HBsxx = (int)abs(wrHz_);
 break;
 case 'd':
-O7hyVj5 %= VER2Nwh;
+
 break;
 case 'e':
 v0KTwkE = qkSR5pz - 906342099;
@@ -163,7 +163,7 @@ case 'g':
 cCBAvQ5m = dC3Jq - lG45;
 break;
 default:
-FVf7n_W = (int)abs(HBsxx) * 0;
+
 break;
 }
 }
@@ -247,7 +247,7 @@ if ((Fm1L_YB) && ((J245 >= WQa3jf8G_4) || (E8A5)))
 {
 try
 {
-VER2Nwh = Szpo866 / wrHz_;
+
 }
 catch (int& errorCode)
 {
@@ -265,7 +265,7 @@ if (Fm1L_YB & -1087792632)
 {
 if (wrHz_ <= 504916237)
 {
-WQa3jf8G_4 <<= 1268246292;
+
 }
 else
 {
@@ -287,7 +287,7 @@ k++;
 
 std::cout << "m4w63O__bL" << Si0O9MG << "J_HKOC4" << qkSR5pz << Szpo866 << std::endl;
 
-p3O2e = (unsigned int)(wrHz_);
+
 
 switch (aAm7NI3K)
 {

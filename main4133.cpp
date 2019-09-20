@@ -155,7 +155,7 @@ case 0:
 Prc23z9 = (int)abs(j74B6v3n) * 0;
 break;
 case 1:
-Z8wply = (int)abs(SlLRPq) * 0;
+
 break;
 case 2:
 C32_s /= l9Pr_VR8T;
@@ -180,7 +180,7 @@ break;
 }
 
 Prc23z9 = (long)(JOM1 * Prc23z9);
-TG8C5SX = (float)(q2449);
+
 Z8wply = FDqlD5Z5t_(-352860098, -1036071559, CytCL84b, JOM1, -223386022);
 
 {
@@ -196,7 +196,7 @@ while (j < 5)
 int k = 0;
 while (k < 2)
 {
-CytCL84b = SlLRPq * xDKU;
+
 k++;
 }
 }
@@ -207,7 +207,7 @@ k++;
 while (i < 10);
 }
 
-TG8C5SX = j74B6v3n / Z8wply;
+
 CytCL84b = (int)abs(xDKU);
 
 std::cout << l9Pr_VR8T << AdXoBL(-406033969, J_mk3zqcji) << "l0uS7" << Z8wply << "Kl66_Kdv" << std::endl;
@@ -219,7 +219,7 @@ xDKU = (int)ceil(CytCL84b);
 
 SlLRPq = (int)floor(l9Pr_VR8T);
 
-C32_s = AdXoBL(664345226, 503530980);
+
 
 CytCL84b *= q2449;
 if (q2449 >= l9Pr_VR8T)
@@ -233,7 +233,7 @@ SlLRPq = xDKU / 932406194;
 }
 else
 {
-xDKU = (float)(JOM1);
+
 }
 }
 else if (Z8wply & Prc23z9)
@@ -251,7 +251,7 @@ while (j >= 0)
 int k = 5;
 while (k >= 0)
 {
-xDKU = AdXoBL(1256815975, -255320558);
+
 --k;
 }
 }
@@ -264,7 +264,7 @@ std::cout << q2449 << FDqlD5Z5t_(-659470530, 1596750193, l9Pr_VR8T, -452004101, 
 }
 else if (xDKU >= -20061735)
 {
-JOM1 = (float)(J_mk3zqcji);
+
 }
 else
 {

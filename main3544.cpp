@@ -39,7 +39,7 @@ int main()
     short    ZNrOl21ua;
     ZNrOl21ua    =    0;
  short int WcC18Wx2Z;
- WcC18Wx2Z = 0;
+
   short  jvlOhz4pDJ;
   jvlOhz4pDJ  =  -316911903;
 
@@ -83,7 +83,7 @@ while (k < 8);
 }
 while (i < 6);
 }
-J_LdVZ48 = 1270882885 / e__isYbbJ(J_LdVZ48, -137105370, CsQh0q8, jvlOhz4pDJ, ZNrOl21ua);
+
 
 J_LdVZ48 = (CsQh0q8 < V_PVZb) ? VtYOIsd_ : s5dw;
 

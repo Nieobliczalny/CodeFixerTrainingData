@@ -44,7 +44,7 @@ int main(int argc, char** argv) {
     unsigned long    XaxTN_OiA2;
     XaxTN_OiA2    =    -160198082;
  unsigned char kHz_hD;
- kHz_hD = 370186846;
+
 	long double	pq2ExQTtb7;
 	pq2ExQTtb7	=	2133818012;
 	unsigned long long	eGBSpAgCr4;
@@ -66,7 +66,7 @@ int main(int argc, char** argv) {
  long Rp7Gd0N;
  Rp7Gd0N = 1966665633;
     unsigned long long    y2aPBr6qd;
-    y2aPBr6qd    =    -1439725098;
+
     unsigned short int    tS8m4O1;
     tS8m4O1    =    1129659354;
 	unsigned long long	Er3ahdl_E5;
@@ -295,7 +295,7 @@ break;
 }
 if (Ckr_)
 {
-Ckr_ = LDt8EO56C4(1705677453, u1_l9) & 1279473904;
+
 }
 else
 {
@@ -317,7 +317,7 @@ case 1:
 ZeOmk11 = (int)abs(CD0W14M);
 break;
 case 2:
-aj_bnsbtH8 = Eixb3coF3 % 530991935;
+
 break;
 case 3:
 nlfQn = LDt8EO56C4(wx06, tS8m4O1);
@@ -380,7 +380,7 @@ try
 {
 if (y2aPBr6qd < 1154448821)
 {
-Rp7Gd0N = (long)(y4C_ggj6Bh);
+
 }
 }
 catch (int& errorCode)
@@ -403,7 +403,7 @@ else if (((v8hn7Qz77 & hggpkp5A) && (v8hn7Qz77)) && (Eixb3coF3 & y4C_ggj6Bh))
 {
 if (F2B50 == 2131026293)
 {
-u1_l9 = (unsigned short)(jLoOUET);
+
 }
 }
 else if (Eixb3coF3 & V4zbFU3D)
@@ -423,7 +423,7 @@ else
 switch (zPC3b9J)
 {
 case 'a':
-B830MPgb2 = dhGB9 | P_AdgRh;
+
 break;
 case 'b':
 r7le = (int)ceil(M_BOY);
@@ -435,7 +435,7 @@ case 'd':
 jLoOUET ^= qLb0h_5;
 break;
 case 'e':
-Rp7Gd0N = u933_Zrm1E % Kry7MUv39g;
+
 break;
 case 'f':
 u1_l9 = kHz_hD | sdGr0gP;
@@ -457,7 +457,7 @@ nlfQn = LDt8EO56C4(eGBSpAgCr4, -1664062225);
 int i = 0;
 do
 {
-r7le = (int)floor(M_BOY);
+
 ++i;
 }
 while (i < 1);

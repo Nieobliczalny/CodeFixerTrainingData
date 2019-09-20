@@ -616,7 +616,7 @@ int i = 3;
 while (i >= 0)
 {
 i--;
-RQT4k_78OZ = (unsigned int)(w36IFQ + (461954444));
+
 }
 }
 
@@ -642,7 +642,7 @@ Qe5XXL_P = (int)abs(oF8YJBhZ);
 break;
 case 'd':
 case 'D':
-RQT4k_78OZ = Dxe_a0sj();
+
 break;
 case 'e':
 case 'E':
@@ -658,7 +658,7 @@ break;
 oF8YJBhZ = (short)(w36IFQ);
 if (Qpak4s < 637200265)
 {
-Ag1aZvNc52 -= zN3n_z3;
+
 }
 
 return 0;

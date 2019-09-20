@@ -77,7 +77,7 @@ try
 int j = 6;
 do
 {
-fiIHI = Np8_7Gn6MY(Tut2, byF_vgI);
+
 j--;
 }
 while (j >= 0);
@@ -115,7 +115,7 @@ nzxFa = bRAAv();
 break;
 case 'b':
 case 'B':
-fiIHI = Np8_7Gn6MY(aD1ulmG42, -1388560970);
+
 break;
 case 'c':
 case 'C':
@@ -179,7 +179,7 @@ case 4:
 u_Xd *= BN7lF;
 break;
 case 5:
-wz3Y = bRAAv();
+
 break;
 case 6:
 Z_8Bh -= F1K2qI7e;
@@ -416,7 +416,7 @@ case 'g':
 zm6_M3YO1b = Np8_7Gn6MY(WIP_, -80555417);
 break;
 case 'h':
-Tut2 &= F1K2qI7e;
+
 break;
 case 'i':
 u_OAUAYEx = bRAAv() / xFXFA5g6Q2;
@@ -553,7 +553,7 @@ switch (zm6_M3YO1b)
 {
 case 'a':
 case 'A':
-u_OAUAYEx = bRAAv();
+
 break;
 case 'b':
 case 'B':
@@ -573,7 +573,7 @@ xFXFA5g6Q2--;
 break;
 case 'f':
 case 'F':
-zm6_M3YO1b = Np8_7Gn6MY(442756228, 680055360);
+
 break;
 case 'g':
 case 'G':
@@ -617,7 +617,7 @@ else if (eACO8 > dckV)
 {
 try
 {
-wz3Y = bRAAv() * 683801178;
+
 }
 catch (int& errorCode)
 {
@@ -650,7 +650,7 @@ while (j < 5)
 j++;
 if (KeZl & 1906508767)
 {
-aD1ulmG42 = yP19H5 % Z_8Bh;
+
 }
 }
 }
@@ -665,7 +665,7 @@ case 'a':
 WIP_--;
 break;
 case 'b':
-SFe4s87j ^= 1247121610;
+
 break;
 case 'c':
 fiIHI = (int)abs(zm6_M3YO1b);
@@ -677,7 +677,7 @@ case 'e':
 z9OPLd4D = bRAAv();
 break;
 case 'f':
-zm6_M3YO1b = (int)abs(fiIHI);
+
 break;
 case 'g':
 eACO8 /= 1033025424;
@@ -689,7 +689,7 @@ case 'i':
 Vv7vh = WIP_ >> bHYjsP2r;
 break;
 case 'j':
-u2iB3 *= 1604538167;
+
 break;
 }
 }
@@ -701,7 +701,7 @@ case 0:
 bHYjsP2r = bRAAv();
 break;
 case 1:
-Z_8Bh = bRAAv();
+
 break;
 case 2:
 fiIHI = (int)abs(zm6_M3YO1b);
@@ -716,7 +716,7 @@ case 5:
 P_x0++;
 break;
 default:
-zm6_M3YO1b = (int)abs(fiIHI);
+
 break;
 }
 }
@@ -729,7 +729,7 @@ Tut2 = F1K2qI7e | 2126930477;
 }
 else if (byF_vgI == Riq_1Ch)
 {
-fiIHI = (long long)(Z_8Bh * fiIHI);
+
 }
 else
 {
@@ -739,7 +739,7 @@ vD0n5_Q = bRAAv();
 }
 else
 {
-zm6_M3YO1b = Np8_7Gn6MY(-2068623771, vD0n5_Q);
+
 }
 }
 }
@@ -749,7 +749,7 @@ yP19H5 = bRAAv();
 }
 cout << Np8_7Gn6MY(1010450068, 1125089097) << Np8_7Gn6MY(yP19H5, 526397797) << KeZl << endl;
 
-u_OAUAYEx = dckV | 2006539288;
+
 
 BN7lF--;
 

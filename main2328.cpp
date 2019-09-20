@@ -28,7 +28,7 @@ int main(int argc, char** argv)
  int QnHsFeE95, eJ6TM55WS, IEi8v8zZ1, UZTaC_6, hczcR97G, LJd576Y, nlD5krAWP, K_6mZr9N, s06mDWW, w779H6, y2DNP565, HxN9PLBI, feLd4LpV_B, caCM6j, I4LZC20, no2S4K461, UfFh, UxcD5, Z3lzkA, xpUNE, XqDf_6645F, W65VzT70Wi, zTceO5, tWj4, r7_68, Rkrk2Ywi, fc9L4rN, jnqJR, l5t07qp, pQUAd_Z8U, L7yFSV0D, rrKNV_ZZO;
  QnHsFeE95 = 1467279977;
  eJ6TM55WS = -1275001351;
- IEi8v8zZ1 = -426611258;
+
  UZTaC_6 = 629991913;
  hczcR97G = -1764155891;
  LJd576Y = 470625827;
@@ -106,7 +106,7 @@ case 8:
 lK8F9Rl = lbm4v(nlD5krAWP, hczcR97G, I4LZC20);
 break;
 default:
-I4LZC20 = kQx74y(I4LZC20, -52051153, hczcR97G, -1637611981, pQUAd_Z8U);
+
 break;
 }
 for (int i = 2; i >= 0; i--)
@@ -176,7 +176,7 @@ switch (s06mDWW)
 {
 case 'a':
 case 'A':
-zTceO5 = kQx74y(zTceO5, nlD5krAWP, HxN9PLBI, 699071869, 1080379104);
+
 break;
 }
 }
@@ -198,7 +198,7 @@ case 2:
 s06mDWW--;
 break;
 case 3:
-HxN9PLBI = tf_j % 1073590574;
+
 break;
 case 4:
 Rkrk2Ywi = (int)abs(hczcR97G);
@@ -218,7 +218,7 @@ try
 switch (y2DNP565)
 {
 case 'a':
-tf_j = lbm4v(-471228759, no2S4K461, s06mDWW);
+
 break;
 case 'b':
 zTceO5 = jnqJR | 968487725;
@@ -230,7 +230,7 @@ case 'd':
 pQUAd_Z8U = (int)abs(feLd4LpV_B);
 break;
 case 'e':
-no2S4K461 %= 1574588049;
+
 break;
 default:
 lK8F9Rl = lbm4v(r7_68, -690021698, 845583284);
@@ -266,7 +266,7 @@ else
 switch (y2DNP565)
 {
 case 0:
-hczcR97G = kQx74y(-435665663, L7yFSV0D, -355120553, -2931790, QnHsFeE95);
+
 break;
 case 1:
 caCM6j = no2S4K461 << 489733659;
@@ -278,7 +278,7 @@ case 3:
 w779H6 = kQx74y(1503529704, pQUAd_Z8U, -740965804, -805581542, UZTaC_6) | W65VzT70Wi;
 break;
 case 4:
-tf_j = lbm4v(1721576952, Rkrk2Ywi, -465431704);
+
 break;
 case 5:
 caCM6j = w779H6 * 891546171;
@@ -290,7 +290,7 @@ case 7:
 lK8F9Rl = (int)abs(Z3lzkA) * 0;
 break;
 case 8:
-tf_j = (int)abs(IEi8v8zZ1) * 0;
+
 break;
 default:
 r7_68 = kQx74y(pQUAd_Z8U, -349730444, HxN9PLBI, y2DNP565, 2018370581) >> L7yFSV0D;
@@ -325,7 +325,7 @@ i--;
 int i = 7;
 do
 {
-LJd576Y = (int)(tWj4);
+
 i--;
 }
 while (i >= 0);

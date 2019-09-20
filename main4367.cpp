@@ -138,7 +138,7 @@ int j = 3;
 while (j >= 0)
 {
 --j;
-B7AKiLs83 = (double)(nbf2I4b);
+
 }
 }
 }

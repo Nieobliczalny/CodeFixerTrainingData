@@ -69,7 +69,7 @@ int main() {
  unsigned long long vQSGRf356e;
  vQSGRf356e = -1091942583;
   unsigned short  ptH3X;
-  ptH3X  =  -565370886;
+
  long long e2mF_cK;
  e2mF_cK = -310578921;
 	double	TL7AgfK9Xs;
@@ -109,7 +109,7 @@ int main() {
   int  AUShwf;
   AUShwf  =  520496063;
  unsigned short int d1Tm;
- d1Tm = 788563852;
+
 	char	rWvxx6hMr;
 	rWvxx6hMr	=	1252572716;
  unsigned int a7T_0Y;
@@ -233,7 +233,7 @@ case 6:
 Z88fw_PHa_ = (int)ceil(TT792d5e6);
 break;
 case 7:
-fKGW14I = (int)abs(Ydrym) + (1396881742);
+
 break;
 case 8:
 zndGClV24 = (int)abs(ofvxzWCXT);
@@ -469,7 +469,7 @@ H9o_z5vG = (int)ceil(PJ2n0A);
 }
 else if ((rWvxx6hMr >= Nr2E1CkSwo) && (a1mP9q6V8 >= 543773462))
 {
-d5GJrO = Nr2E1CkSwo % 975301853;
+
 }
 else if (Wd0H0OY & 1558750323)
 {
@@ -530,7 +530,7 @@ case 'j':
 y0uOJKj = NO6HtbD8V(1477952061, -1229461932, y0uOJKj, -1803849702);
 break;
 default:
-G323 = NO6HtbD8V(-797382585, d5GJrO, pgp6_Uf, 2105978677);
+
 break;
 }
 }
@@ -540,7 +540,7 @@ Ydrym = NO6HtbD8V(vQSGRf356e, 889075659, -1383963806, TI1kfAwp91);
 }
 std::cout << NO6HtbD8V(vQSGRf356e, EUngqsV5, DzBS1m_W2A, 681401461) << NO6HtbD8V(vQSGRf356e, -1547575099, 805421031, TI1kfAwp91) << std::endl;
 
-Nr2E1CkSwo = NO6HtbD8V(T4o5_2h, 324171787, 949965128, XaKo);
+
 
 EUngqsV5 = oW4xuZ << 1884972194;
 
@@ -593,7 +593,7 @@ PJ2n0A = (int)ceil(TL7AgfK9Xs);
 }
 else if (vQSGRf356e & -1307570296)
 {
-a7T_0Y = (unsigned int)(ig52hWYc);
+
 }
 else if (Ydrym)
 {
@@ -616,7 +616,7 @@ Z88_6 = (int)abs(zndGClV24);
 }
 else if (Gnv77zb2V != 1278746411)
 {
-a7T_0Y = (unsigned int)(po509);
+
 }
 else if (vQSGRf356e != Gnv77zb2V)
 {
@@ -655,7 +655,7 @@ else if (H9zuL > b5lYAxpb99)
 {
 for (int j = 0; j < 2; j++)
 {
-Nr2E1CkSwo = NO6HtbD8V(Si2KM, a7T_0Y, PJ2n0A, -1440542759);
+
 }
 }
 else
@@ -676,7 +676,7 @@ case 2:
 Wd0H0OY = XRd31L_7b(984710639, -1376187055, d1Tm);
 break;
 case 3:
-nX4mWWz1 = Gnv77zb2V >> 792478352;
+
 break;
 case 4:
 Nr2E1CkSwo = NO6HtbD8V(1095459459, -426290233, JJ6U, po509);
@@ -731,7 +731,7 @@ case 'a':
 PJ2n0A = (int)ceil(TT792d5e6);
 break;
 case 'b':
-ig52hWYc = akb_GQ(ig52hWYc, rWvxx6hMr, pgp6_Uf);
+
 break;
 case 'c':
 G323 = NO6HtbD8V(oW4xuZ, a9dv9, -787097498, 1748903871);

@@ -35,7 +35,7 @@ int main()
 	unsigned long long	GYd71Uqow;
 	GYd71Uqow	=	-1910295743;
 	unsigned long long	XRcZMsGC;
-	XRcZMsGC	=	-1358965540;
+
     unsigned long    fu94rb;
     fu94rb    =    -280678520;
     int    uv89;
@@ -73,7 +73,7 @@ int main()
     long long    pmIhk;
     pmIhk    =    -260066294;
  char wGKOI;
- wGKOI = 1856436438;
+
 	unsigned short int	T3DqwrKBC5;
 	T3DqwrKBC5	=	-1757730054;
  int f3C5VCW;
@@ -97,7 +97,7 @@ int main()
  double Wck49QZ_g3;
  Wck49QZ_g3 = -544490169;
 	unsigned long long	s3mn6myQgj;
-	s3mn6myQgj	=	-987624859;
+
     short int    p3VJ4;
     p3VJ4    =    -725955258;
  float Ft8a_6;
@@ -148,7 +148,7 @@ TYj0UJ = hLZV9L();
 
 if (twuvcw & BOIs71Da)
 {
-mu9yQnLg = (int)ceil(Ft8a_6);
+
 }
 
 if (p3VJ4 != O42_w6_Nm)
@@ -168,7 +168,7 @@ if (f3C5VCW == 82055846)
 int k = 0;
 do
 {
-mu9yQnLg = (int)floor(zJne);
+
 ++k;
 }
 while (k < 10);
@@ -274,7 +274,7 @@ else if ((cAWcctTsF & 1223985211) && ((NXA_ != s3mn6myQgj) || (X3gz)))
 int j = 0;
 while (j < 2)
 {
-muEp1f = (int)floor(Ft8a_6);
+
 ++j;
 }
 }
@@ -317,7 +317,7 @@ break;
 }
 else
 {
-mu9yQnLg = (int)ceil(lo2C06);
+
 }
 Lr6KXM_qE2 = wM5T7 | X3gz;
 
@@ -333,7 +333,7 @@ do
 {
 try
 {
-p3VJ4 = s_6_d13 | Lr6KXM_qE2;
+
 }
 catch (int& errorCode)
 {
@@ -344,7 +344,7 @@ i--;
 while (i >= 0);
 }
 
-j94xlWa9 = kjby(zJne, -290059049) - 1136763903;
+
 
 switch (T3DqwrKBC5)
 {
@@ -361,7 +361,7 @@ case 'd':
 s3mn6myQgj = kjby(s3mn6myQgj, -191603459);
 break;
 case 'e':
-dHK3 -= 925498444;
+
 break;
 case 'f':
 TYj0UJ = hLZV9L();
@@ -411,7 +411,7 @@ Wck49QZ_g3 = (double)(BOIs71Da);
 p3VJ4 = (int)abs(NXA_);
 Wck49QZ_g3 = (int)floor(Ft8a_6);
 
-T3DqwrKBC5 = (unsigned short int)(NXA_);
+
 if ((s3mn6myQgj > pmIhk) && (lo2C06 > -1188769380))
 {
 Wck49QZ_g3 = (int)floor(lo2C06);
@@ -435,7 +435,7 @@ i6Qq2 = (int)abs(uv89);
 }
 else if ((p3VJ4) || (hgpBy))
 {
-p1bW2Fw9n *= R7AH4U0L;
+
 }
 else
 {
@@ -452,7 +452,7 @@ case 0:
 Ep6_d--;
 break;
 case 1:
-pcTXjf_51 = f3C5VCW & GYd71Uqow;
+
 break;
 case 2:
 muEp1f = (int)ceil(Wck49QZ_g3);
@@ -481,7 +481,7 @@ s_6_d13 %= kY63;
 
 for (int i = 0; i < 8; ++i)
 {
-mo029SS = (unsigned short)(Wck49QZ_g3);
+
 }
 
 return 0;

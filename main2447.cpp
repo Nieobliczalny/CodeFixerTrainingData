@@ -95,7 +95,7 @@ cout << VA7Lv << endl;
 }
 else
 {
-q9LH = hxVWX >> 1443793957;
+
 }
 }
 if (c6P8YFqZLR != hr6TCQvj)
@@ -141,7 +141,7 @@ while (i >= 0)
 i--;
 if (RX65 >= cBcxh_2)
 {
-HH1Gz8 = (char)(B_fW52Ie_);
+
 }
 else if (VA7Lv < RX65)
 {
@@ -188,7 +188,7 @@ cout << HH1Gz8 << endl;
 }
 if (HH1Gz8 != c6P8YFqZLR)
 {
-q9LH %= 1260298827;
+
 }
 else if (W4H3e17rzF & cBcxh_2)
 {
@@ -220,7 +220,7 @@ int k = 2;
 do
 {
 k--;
-HH1Gz8 = VA7Lv * 1631336319;
+
 }
 while (k >= 0);
 }

@@ -396,7 +396,7 @@ else if (C47L7 >= o7XVLwdGO)
 {
 try
 {
-Ck28jOY4C = (int)floor(kwM4m);
+
 }
 catch (int& errorCode)
 {
@@ -554,7 +554,7 @@ int i = 1;
 while (i >= 0)
 {
 i--;
-Ck28jOY4C = (int)ceil(JntbTr0);
+
 }
 }
 

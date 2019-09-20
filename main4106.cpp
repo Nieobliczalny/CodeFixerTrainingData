@@ -18,7 +18,7 @@ int main()
   f8hP1  =  0;
   eRr6p6  =  0;
  unsigned int LBfYTb, fpmHRhp, ZJnm6u, Sh4gFE5v, au8N4CA_, n2e81j, u27pY9yh, qU0B2, Lw1AR2F, W_5Zw, MVNZvb6yM, NhV2j, fbFl9tl1, c8U7w4Yt, CytT_3, m4_41, Ib1Q95, CD_M5436, tMU_bt5, hjw4_7H2, m409, scI625, i5Ty, Sy72, R52P7y, VK3ZHy0, Sa0yfb6wZ, qpgo, gPt_7Txf, zJmH40onV, b7R1z1latg, GE903sb, w3675_PtY8, A_Xy11u20i, P98ngp, rzP39z_2fn, XErk, zQ6PyY, EAYB42, TDz7, bX_W_dX5S, TEZPZBb, CmKuxIWBP, w7p6351tFB;
- LBfYTb = 2008838091;
+
  fpmHRhp = 1744857041;
  ZJnm6u = 1102749362;
  Sh4gFE5v = -612693486;
@@ -123,7 +123,7 @@ case 4:
 qpgo = P3Q__() >> tMU_bt5;
 break;
 case 5:
-f8hP1 = P3Q__();
+
 break;
 case 6:
 f8hP1 = (int)abs(eRr6p6);
@@ -163,7 +163,7 @@ if ((fbFl9tl1 & MVNZvb6yM) || (u27pY9yh & MVNZvb6yM))
 {
 if (W_5Zw <= -569491360)
 {
-TDz7 = pNeChF6_5_();
+
 }
 else if (((CytT_3) && (fbFl9tl1 == 1036396486)) && ((b7R1z1latg) || (qU0B2 > CmKuxIWBP)))
 {
@@ -237,7 +237,7 @@ gPt_7Txf %= 338684826;
 while (i >= 0);
 }
 cout << "M5Zi4G1Y" << "UpRuP_S" << P3Q__() << P3Q__() << P3Q__() << endl;
-TEZPZBb = (unsigned int)(fbFl9tl1);
+
 
 CytT_3 = m4_41 / zQ6PyY;
 cout << P3Q__() << zJmH40onV << P3Q__() << "RfNI6TNZlZ" << "xU0odZQ3E1" << endl;
@@ -250,7 +250,7 @@ f8hP1 = (int)abs(eRr6p6);
 break;
 case 'b':
 case 'B':
-TDz7 = pNeChF6_5_();
+
 break;
 case 'c':
 case 'C':
@@ -285,7 +285,7 @@ int k = 7;
 while (k >= 0)
 {
 k--;
-CmKuxIWBP = Sa0yfb6wZ >> Sy72;
+
 }
 }
 }
@@ -312,7 +312,7 @@ CD_M5436 = pNeChF6_5_();
 break;
 case 'b':
 case 'B':
-eRr6p6 = P3Q__();
+
 break;
 case 'c':
 case 'C':
@@ -328,7 +328,7 @@ f8hP1 = P3Q__();
 break;
 case 'f':
 case 'F':
-CytT_3 = EAYB42 / 267481227;
+
 break;
 case 'g':
 case 'G':
@@ -342,7 +342,7 @@ break;
 switch (CD_M5436)
 {
 case 'a':
-m4_41 |= w7p6351tFB;
+
 break;
 case 'b':
 m4_41 = pNeChF6_5_();
@@ -354,7 +354,7 @@ case 'd':
 rzP39z_2fn ^= 304683891;
 break;
 default:
-W_5Zw = hjw4_7H2 >> 342590954;
+
 break;
 }
 return 0;

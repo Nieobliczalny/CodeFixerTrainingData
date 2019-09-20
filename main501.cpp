@@ -9,7 +9,7 @@
 
 int main(int argc, char** argv) {
   unsigned short int  pValiDJ;
-  pValiDJ  =  0;
+
     double    T2hK;
     T2hK    =    -1879044861;
     char    tNuqNx;
@@ -39,7 +39,7 @@ int main(int argc, char** argv) {
  short int i81L3CF_i4;
  i81L3CF_i4 = 2093295200;
     float    M9pT685;
-    M9pT685    =    -548167963;
+
 	short int	D3bn_;
 	D3bn_	=	1252890652;
   short int  EFFfm;
@@ -55,7 +55,7 @@ int main(int argc, char** argv) {
     long double    A0eUVt12ci;
     A0eUVt12ci    =    -1270383646;
     short int    qe8SenMhZ;
-    qe8SenMhZ    =    2066025838;
+
   long double  o1RZqunQ;
   o1RZqunQ  =  46959359;
 	short	Q8D27;
@@ -104,7 +104,7 @@ std::cout << "X621Ike70I" << T2hK << T_CYX << std::endl;
 
 if (T_CYX == 0)
 {
-	Q8D27 = A0eUVt12ci / T_CYX;
+
 }
 
 std::cout << "tk_3l2W91" << "GsFRB5" << A0eUVt12ci << std::endl;
@@ -130,7 +130,7 @@ case 1:
 f3iLH8 = (tNuqNx & EFFfm) ? o1RZqunQ : -778921848;
 break;
 case 2:
-i81L3CF_i4 /= 111811559;
+
 break;
 case 3:
 lAjt09B0N %= 2117433840;

@@ -236,7 +236,7 @@ v2c_hTO04 = bQp3ymon(1509472177);
 }
 else if (cRa0 > i_cg7b41)
 {
-TZh7Y = (unsigned short)(aH0X3z5iA);
+
 }
 else if (aH0X3z5iA)
 {
@@ -289,7 +289,7 @@ aH0X3z5iA = GypbYq27m(-2114062472, v2c_hTO04, 1021823917, cRa0);
 }
 else
 {
-TZh7Y = GypbYq27m(TZh7Y, cRa0, 1098964438, aH0X3z5iA);
+
 }
 }
 else

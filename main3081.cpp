@@ -97,7 +97,7 @@ switch (kr8d)
 {
 case 'a':
 case 'A':
-EaHne &= 515360944;
+
 break;
 }
 }
@@ -214,7 +214,7 @@ case 0:
 T860LKqM9 = (int)ceil(Vg41k5jRe);
 break;
 case 1:
-EaHne = (int)abs(VBoS_6CNw);
+
 break;
 case 2:
 WAM_y4L = e_fF(SuUr9xQ3, U17J9) & 215068161;
@@ -263,7 +263,7 @@ K5vt0 = (int)ceil(T860LKqM9);
 int i = 0;
 do
 {
-MW1qD_4E0 = (char)(JU1R86);
+
 i++;
 }
 while (i < 3);
@@ -274,7 +274,7 @@ case 0:
 B47_EGI_Y = KCIxiau17v(B47_EGI_Y, 1380921761, Vg41k5jRe);
 break;
 case 1:
-q7_5c /= U17J9;
+
 break;
 case 2:
 r8GN9QTsep = qRhectqb(-691929570, B8i1PlgK);
@@ -299,7 +299,7 @@ case 1:
 K5vt0 = (int)floor(Vg41k5jRe);
 break;
 case 2:
-kr8d = r8GN9QTsep - 1622929674;
+
 break;
 case 3:
 uG7SK = qRhectqb(-1959104052, YNA_N0);

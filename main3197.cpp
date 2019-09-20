@@ -41,7 +41,7 @@ int main()
   sG5qaFzC9V  =  -699641234;
   nESh  =  -1450228522;
   wwSR_mP_i  =  -702279075;
-  i0iSF19  =  -1763236418;
+
   B4A_Tb6jTB  =  -1288867743;
   uIgz_u6  =  -114939175;
   Y43eNC  =  2130244823;
@@ -55,7 +55,7 @@ int main()
   a95Mwh  =  295272605;
   z_V_xw  =  -134713702;
   ZNj715  =  -776851731;
-  V4DHl3AX  =  -126936630;
+
   Ahcv0f5j74  =  2387316;
   zu5_MjBYbV  =  109331474;
   DqE9PVO_h  =  -1867585043;
@@ -75,7 +75,7 @@ int main()
   I_bmSvmd7  =  1170343436;
   P5Loz80v  =  -1655523285;
   R_v4iL0P0  =  6187711;
-  mmqzJ9  =  91187192;
+
   bNG8_7o  =  277841069;
   U7TJ1M9  =  -284795435;
   zSPdp  =  -1834707398;
@@ -208,7 +208,7 @@ case 0:
 LblqD = jc7En2FGss(a95Mwh, o9_E6L, 325146715);
 break;
 case 1:
-Xr2q >>= jg0se;
+
 break;
 case 2:
 MK20jfFtR *= 1883669419;
@@ -220,7 +220,7 @@ case 4:
 LblqD = jc7En2FGss(JwAQvY, l4Nt, 1748263382);
 break;
 case 5:
-Xr2q *= 1006318772;
+
 break;
 case 6:
 LblqD = jc7En2FGss(1461645579, -1521290460, -456768966);
@@ -232,7 +232,7 @@ case 8:
 bNG8_7o = nqnjzPR >> ZNj715;
 break;
 case 9:
-Ze20 &= 1258931112;
+
 break;
 }
 }
@@ -328,7 +328,7 @@ LblqD = jc7En2FGss(2127774204, 758801077, Az9l);
 }
 else if (((bBgPq0F == -1824520661) && (MK20jfFtR != f1l6)) || (P5Loz80v != -721130765))
 {
-GVFvyZ5o = ghf6l3 & d4H9_j2L;
+
 }
 else if (Ux66ID8KT2 >= JwAQvY)
 {
@@ -464,7 +464,7 @@ case 1:
 LblqD = (int)abs(xA0wg_M0CS);
 break;
 case 2:
-o9_E6L = P3dC1_G | d2__;
+
 break;
 case 3:
 bBgPq0F <<= 149422576;
@@ -537,7 +537,7 @@ LblqD = jc7En2FGss(1964357725, ZNj715, 234355125);
 break;
 case 'b':
 case 'B':
-xA0wg_M0CS = jc7En2FGss(d4_y, thBV, Ux66ID8KT2);
+
 break;
 case 'c':
 case 'C':
@@ -549,7 +549,7 @@ Ze20 = u2qGsg % 14633956;
 break;
 case 'e':
 case 'E':
-xA0wg_M0CS = jc7En2FGss(YHvE, AyXj9, P3dC1_G);
+
 break;
 case 'f':
 case 'F':
@@ -564,7 +564,7 @@ case 'H':
 LblqD = jc7En2FGss(-39799007, 109317856, -1438384141);
 break;
 default:
-xA0wg_M0CS = jc7En2FGss(jQxW_kT, -912834775, z_V_xw);
+
 break;
 }
 }
@@ -580,7 +580,7 @@ LblqD = (int)abs(xA0wg_M0CS);
 }
 }
 
-JwAQvY = (unsigned char)(R_v4iL0P0);
+
 return 0;
 }
 

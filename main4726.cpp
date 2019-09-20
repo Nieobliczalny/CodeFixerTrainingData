@@ -13,7 +13,7 @@ short Hid6_6v();
 int main(void)
 {
     char    Cql3L445,    YDd25l2GvZ,    EaRbmH7,    IxL0oE;
-    Cql3L445    =    0;
+
     YDd25l2GvZ    =    0;
     EaRbmH7    =    0;
     IxL0oE    =    0;
@@ -23,7 +23,7 @@ int main(void)
 	G7U0Y4l6	=	-631995452;
 	w40J	=	-793715198;
 	t1U6SZ_WnP	=	1148420163;
-	ENCQr_	=	-556100910;
+
 	V11f_62	=	-847084827;
 	IjFtR5Aw15	=	566146714;
 	zBEt_	=	361109198;
@@ -34,7 +34,7 @@ int main(void)
 	BPj42a	=	1820358192;
 	e35k2ybzE	=	1367106696;
 	s124I	=	-1114119389;
-	YFPmjQR	=	881509119;
+
 	jEi034	=	-473327864;
 	i6_Z8KP	=	1274235886;
 	Etu7_xaH5	=	1206684810;
@@ -47,7 +47,7 @@ int main(void)
 	KcVar6z	=	-240676634;
 	LuBF0	=	-871975822;
 	rX37	=	-608055512;
-	KB_mxzCSH_	=	2009901397;
+
 	xuuavm	=	268084232;
 	TVE_6eI6h	=	1457069662;
 	c2_3o_AJ	=	-1622886716;
@@ -100,7 +100,7 @@ KcVar6z = Hid6_6v() & 1691978077;
 break;
 }
 
-Cql3L445 = (int)abs(YDd25l2GvZ);
+
 cout << "Va72" << Hid6_6v() << Hid6_6v() << endl;
 if ((jEi034 <= 163931137) || ((G7U0Y4l6 < -1639428036) && (YDd25l2GvZ >= t1U6SZ_WnP)))
 {
@@ -187,7 +187,7 @@ else if (((G99PvB86Os == 606467706) || (t5Q7lZuB > LuBF0)) || ((wrzd_9_m >= 2005
 {
 if ((IxL0oE) || ((zBEt_ == -734136509) && (c2_3o_AJ != -218584096)))
 {
-Cql3L445 = Hid6_6v();
+
 }
 }
 else
@@ -205,7 +205,7 @@ while (k >= 0);
 }
 
 cout << Hid6_6v() << "ui7T93" << CyuHbs6 << VDWLQKm_96 << endl;
-Cql3L445 = Hid6_6v();
+
 for (int i = 0; i < 5; ++i)
 {
 if ((IxL0oE != 1159135762) || ((VDWLQKm_96) || (BPj42a <= t5Q7lZuB)))
@@ -233,7 +233,7 @@ EaRbmH7 = Hid6_6v();
 }
 else
 {
-Cql3L445 = Hid6_6v();
+
 }
 }
 
@@ -244,7 +244,7 @@ int j = 0;
 while (j < 6)
 {
 j++;
-IjFtR5Aw15 = LuBF0 | wrzd_9_m;
+
 }
 }
 }
@@ -254,7 +254,7 @@ for (int j = 3; j >= 0; --j)
 {
 try
 {
-Cql3L445 = Hid6_6v();
+
 }
 catch (int& errorCode)
 {
@@ -268,7 +268,7 @@ cout << Hid6_6v() << ZFlMe3M << endl;
 }
 else if ((Xoh2r9F7v & 36634707) || ((LuBF0 & -174299362) || (t1U6SZ_WnP != 1058969204)))
 {
-l78lv = (unsigned short int)(jEi034);
+
 }
 else if (KcVar6z == -53231087)
 {
@@ -280,7 +280,7 @@ if ((e35k2ybzE > 189240641) && (jEi034 != 1958882965))
 {
 if (G99PvB86Os > w40J)
 {
-Cql3L445 = Hid6_6v();
+
 }
 else if ((Etu7_xaH5 & 13818325) && (BPj42a & 1935741018))
 {
@@ -307,7 +307,7 @@ int j = 0;
 while (j < 9)
 {
 ++j;
-o5hl = i6_Z8KP | 1777738254;
+
 }
 }
 }
@@ -323,7 +323,7 @@ for (int j = 7; j >= 0; j--)
 {
 try
 {
-HA6F = IxL0oE / 671737192;
+
 }
 catch (int& errorCode)
 {

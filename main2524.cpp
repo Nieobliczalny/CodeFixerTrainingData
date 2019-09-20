@@ -34,7 +34,7 @@ int main() {
 	hv42S4dO	=	0;
 	RSUG47ERqc	=	0;
     unsigned char    m8H8g8YZ5T,    vQL91y_S,    iMGy_x2r,    TbXY,    uf9x,    y38pp,    c8TL,    Jk7_z4XLBB,    GLAhw6NsH8,    sDOy,    aGg3afS3j,    s174,    c211,    vN3R,    c_oJzY_P2,    c2OWPIlb,    GVELgD,    B2KJ4xxRX,    MWtMC8G,    f3_Pr89s,    Ul14V,    kYs8,    Y3zFwY2DF,    zV1nbEhQq,    U8hOHz,    MmPAB,    YUem6,    CZU6G,    J4Jz5_1S,    D6j2,    Y8dwy4bj61,    QSy08,    jTnx,    JL9bt,    WK_A8gB7,    k8UaIb,    G4h_UO78,    UIh909LQg9,    j29UY5O5,    kyfU8LQ8a,    S5U9Dom,    AUgrt_,    h_vilOB,    QjM54p,    y2VM8_UgH,    k22Z,    A9U6t,    Jho0Uv,    xln2bTN7e_,    lA19,    HUKyMa,    WW0mr98vi,    iwjwUYW,    ICg4,    sGZrJvW2d8,    W5Y7KT,    ZLUJ_4m,    i_Lx2,    Ai_G,    NbDmwUgHcI,    gl0Iv,    rsB_t4M,    gFtG2,    uKGdG3,    sg906q5L3,    C5vJW1RL5,    XAarCewQu,    SR04f,    UymI5ldS,    gD_q5,    eB9Q,    ACms6T5sIE,    y_eb8ALFF,    orZtFZ,    R68B8qy,    Us2sXm2r9,    hnp6,    Wg3CONE5;
-    m8H8g8YZ5T    =    -399954886;
+
     vQL91y_S    =    1087972259;
     iMGy_x2r    =    370257828;
     TbXY    =    1714519168;
@@ -44,7 +44,7 @@ int main() {
     Jk7_z4XLBB    =    -616732044;
     GLAhw6NsH8    =    1180275578;
     sDOy    =    -1393025651;
-    aGg3afS3j    =    -1229506349;
+
     s174    =    -1610969873;
     c211    =    -954017621;
     vN3R    =    876629421;
@@ -55,7 +55,7 @@ int main() {
     MWtMC8G    =    1353721086;
     f3_Pr89s    =    1397185249;
     Ul14V    =    -886054828;
-    kYs8    =    -741029714;
+
     Y3zFwY2DF    =    712897597;
     zV1nbEhQq    =    -1847904328;
     U8hOHz    =    784194633;
@@ -66,7 +66,7 @@ int main() {
     D6j2    =    49557967;
     Y8dwy4bj61    =    632304405;
     QSy08    =    330034548;
-    jTnx    =    164343509;
+
     JL9bt    =    -1633831323;
     WK_A8gB7    =    -431537118;
     k8UaIb    =    1005926669;
@@ -77,7 +77,7 @@ int main() {
     S5U9Dom    =    313539288;
     AUgrt_    =    -2115060678;
     h_vilOB    =    -753703924;
-    QjM54p    =    -709338916;
+
     y2VM8_UgH    =    1775121514;
     k22Z    =    501412490;
     A9U6t    =    -2006723183;
@@ -88,7 +88,7 @@ int main() {
     WW0mr98vi    =    -499613406;
     iwjwUYW    =    -581159242;
     ICg4    =    -1818029269;
-    sGZrJvW2d8    =    -2129707254;
+
     W5Y7KT    =    -557462180;
     ZLUJ_4m    =    -1826458714;
     i_Lx2    =    -1699917797;
@@ -99,7 +99,7 @@ int main() {
     gFtG2    =    2142191748;
     uKGdG3    =    1291198709;
     sg906q5L3    =    1910908287;
-    C5vJW1RL5    =    2032448620;
+
     XAarCewQu    =    613354769;
     SR04f    =    814327758;
     UymI5ldS    =    -254293592;
@@ -109,7 +109,7 @@ int main() {
     y_eb8ALFF    =    -581768525;
     orZtFZ    =    -262480477;
     R68B8qy    =    -1117806666;
-    Us2sXm2r9    =    2096973368;
+
     hnp6    =    -1265139471;
     Wg3CONE5    =    -523424620;
 
@@ -131,7 +131,7 @@ RSUG47ERqc = (int)abs(hv42S4dO);
 }
 else if (y38pp != Ajr_0)
 {
-gFtG2 %= 902948352;
+
 }
 else if (W5Y7KT != orZtFZ)
 {
@@ -159,7 +159,7 @@ else
 k8UaIb |= s174;
 }
 }
-lA19 = gD_q5 | xln2bTN7e_;
+
 
 {
 int i = 8;
@@ -175,7 +175,7 @@ c8TL = Kv43();
 --i;
 }
 }
-D6j2 = ICg4 / hv42S4dO;
+
 switch (G4h_UO78)
 {
 case 0:
@@ -185,7 +185,7 @@ case 1:
 Y8dwy4bj61 = UIh909LQg9 >> UymI5ldS;
 break;
 case 2:
-y2VM8_UgH = Kv43();
+
 break;
 case 3:
 c2OWPIlb = Kv43();
@@ -226,7 +226,7 @@ std::cout << Kv43() << Kv43() << std::endl;
 while (i >= 0);
 }
 
-hnp6 = (unsigned char)(Ajr_0 + (iCYtie7dv));
+
 
 if (zV1nbEhQq >= iCYtie7dv)
 {
@@ -237,7 +237,7 @@ int k = 0;
 while (k < 8)
 {
 k++;
-zV1nbEhQq = Ajr_0 / 2145185915;
+
 }
 }
 }
@@ -251,7 +251,7 @@ XAarCewQu %= HUKyMa;
 }
 else if ((s174 != Ajr_0) || (Y3zFwY2DF <= Ajr_0))
 {
-WW0mr98vi = Ajr_0 << Ul14V;
+
 }
 else if ((k8UaIb & vQL91y_S) && (y38pp < Ajr_0))
 {
@@ -281,7 +281,7 @@ try
 {
 if (ICg4 <= Ai_G)
 {
-UymI5ldS = h_vilOB * 272896207;
+
 }
 else
 {
@@ -299,7 +299,7 @@ std::cout << h_vilOB << std::endl;
 }
 else
 {
-B2KJ4xxRX = (unsigned char)(iCYtie7dv);
+
 }
 
 RSUG47ERqc = (int)abs(hv42S4dO);
@@ -312,7 +312,7 @@ try
 switch (k22Z)
 {
 case 0:
-RSUG47ERqc = (int)abs(hv42S4dO);
+
 break;
 case 1:
 Ai_G <<= 583385314;

@@ -38,7 +38,7 @@ int main(int argc, char** argv)
  dBXy = -1947676775;
  HPt8bH34AZ = -2123605838;
  Pzhs_C_g = -1602769670;
- h9uOkb = -90988282;
+
  Y2cP0rK = 1801896626;
  a_8lWNz = 629068474;
  V9_q = -1373439171;
@@ -57,7 +57,7 @@ int main(int argc, char** argv)
  AtS_Tv = -1628526270;
  CWD4 = -1658152600;
  K325qc = -174204628;
- ySJZ4L1p = -1411883764;
+
  ZVb3 = -2136170791;
  v6at0 = -1225794444;
  K7E3Z5p = 1345687651;
@@ -69,7 +69,7 @@ int main(int argc, char** argv)
  brHkes = 1992951018;
  SA0uAc = -1023014013;
  S7FK1a = 2092726737;
- T371t4 = -1291878496;
+
  G_4x7r0 = 1746460006;
  LOwFe1I = -383088305;
  OL32tu27m = 531234353;
@@ -82,7 +82,7 @@ int main(int argc, char** argv)
  Zd7kR9e = -1973238161;
  Ml32 = 330644256;
  Vp8Yy28HQ = 1231615032;
- X5UZmHO = 254270484;
+
  Xa027PX = -82625929;
  jEM1n9 = 1596358801;
  o_mP2F_7 = 2062628187;
@@ -124,7 +124,7 @@ else
 std::cout << u47aRiS_Z(tuRmN__1SP, ZpyG7h, 1610994350, dBXy) << "b6Sb" << std::endl;
 }
 }
-i4zp8 = Ml32 - DHMrQqS5;
+
 {
 int i = 3;
 do
@@ -137,7 +137,7 @@ a_8lWNz = u47aRiS_Z(a_8lWNz, -980283579, K325qc, -178600090);
 break;
 case 'b':
 case 'B':
-FwLQXu4G = IYfVDT / 1958995227;
+
 break;
 }
 i--;
@@ -147,7 +147,7 @@ while (i >= 0);
 
 std::cout << "HSsZkfBr" << Rqvg6O(1336933339, nNIJn62GIH, -1436717606, 1619848238) << std::endl;
 
-o_mP2F_7 >>= xgZCIIo;
+
 
 try
 {
@@ -161,7 +161,7 @@ catch (int& errorCode)
 o9wI7OJy = xNr_A(BfwUiY, ZVb3);
 }
 
-If36M0O &= 869691020;
+
 OL32tu27m = kVa1Iwm1T(BfwUiY) / o9wI7OJy;
 
 try
@@ -189,7 +189,7 @@ switch (BfwUiY)
 {
 case 'a':
 case 'A':
-nNd31DCm = Rqvg6O(-1980210296, -187546011, -1489138068, tuRmN__1SP) & 1003102052;
+
 break;
 case 'b':
 case 'B':
@@ -201,7 +201,7 @@ Vp8Yy28HQ = brHkes % 1951656892;
 break;
 case 'd':
 case 'D':
-zNeN *= LOwFe1I;
+
 break;
 case 'e':
 case 'E':
@@ -225,7 +225,7 @@ G_ThW_92 = CWD4 << brHkes;
 break;
 case 'j':
 case 'J':
-FtW_eeW9 -= Vp8Yy28HQ;
+
 break;
 }
 }
@@ -245,7 +245,7 @@ catch (int& errorCode)
 {
 o9wI7OJy = xNr_A(-1500187408, 1403266819);
 }
-gCzPAn = (long long)(TpsKaNiT + (-749073717));
+
 
 if (DHMrQqS5)
 {
@@ -271,7 +271,7 @@ case 'A':
 G_4x7r0 = Rqvg6O(G_4x7r0, bq_ODUUj7, -13437647, -469807192);
 break;
 default:
-ySJZ4L1p = N46ao >> Kn_On3A;
+
 break;
 }
 }

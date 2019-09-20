@@ -227,7 +227,7 @@ q88Bf1X3rz = (int)ceil(ctZLRE);
 }
 
 E19cZ7_zS6 = (long)(O3H1g_4D + (-1311393386));
-T626 = (char)(vJ8qp1wz);
+
 switch (PR4aB1fd)
 {
 case 'a':
@@ -264,7 +264,7 @@ case 0:
 ctZLRE = (int)floor(q88Bf1X3rz);
 break;
 case 1:
-w7qq93s1 = x31E360(-247751145, aE9iEHhU0A);
+
 break;
 case 2:
 W9dN1 %= K3RlL3LO;
@@ -277,7 +277,7 @@ M0h8S5 = K0_Qg();
 break;
 }
 
-kZ80 = w474C7(kZ80);
+
 
 w7qq93s1 = x31E360(E19cZ7_zS6, -300604402);
 

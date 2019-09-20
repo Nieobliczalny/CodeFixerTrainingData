@@ -25,7 +25,7 @@ int    f2h5Q8Lh();
 
 int main(void) {
   unsigned short int  k0v3Iv8;
-  k0v3Iv8  =  -186242640;
+
     int    V501YT;
     V501YT    =    -412927693;
     unsigned long long    st2N05C;
@@ -35,7 +35,7 @@ int main(void) {
 	int	N5KM8J;
 	N5KM8J	=	-1319223397;
   char  bn0hPF;
-  bn0hPF  =  -474253628;
+
     long double    EPG_1uox;
     EPG_1uox    =    -1555085512;
     long double    Jm0Jk_;
@@ -45,7 +45,7 @@ int main(void) {
   unsigned int  n2CWkrH6;
   n2CWkrH6  =  334786022;
   unsigned long  iYwGkN6;
-  iYwGkN6  =  -1549619055;
+
  long double d9hMmRKg;
  d9hMmRKg = -1759917777;
  long long NnB3H;
@@ -55,7 +55,7 @@ int main(void) {
   short int  GukA12D;
   GukA12D  =  587901246;
  char YK3Ng_gvdu;
- YK3Ng_gvdu = 394191921;
+
 	unsigned short int	rx_L;
 	rx_L	=	0;
  char Pf8YqT2aF;
@@ -65,7 +65,7 @@ int main(void) {
  unsigned int I_12i_XRI;
  I_12i_XRI = 248328432;
  unsigned int xhh93uR;
- xhh93uR = -1838624052;
+
 	int	t_cg;
 	t_cg	=	-1189987751;
   long double  ppojF3t;
@@ -75,7 +75,7 @@ int main(void) {
  unsigned short int F6VcE;
  F6VcE = -756363202;
 	unsigned short int	KEUE;
-	KEUE	=	0;
+
   unsigned short  uZKHO;
   uZKHO  =  -1268975463;
   char  oO_00ho1Q;
@@ -85,7 +85,7 @@ int main(void) {
     char    A1tR3_Z;
     A1tR3_Z    =    1062968564;
   long long  tHHS_as;
-  tHHS_as  =  -2132252895;
+
  unsigned int NSd3LH8;
  NSd3LH8 = -354513871;
     long long    y9oYxWQ3E;
@@ -95,7 +95,7 @@ int main(void) {
 	int	u2FB;
 	u2FB	=	2002366387;
 	unsigned char	wG8tRK2Z28;
-	wG8tRK2Z28	=	2005893951;
+
  double ca5m01c0;
  ca5m01c0 = -1016164420;
     long double    fSDK0tB;
@@ -105,7 +105,7 @@ int main(void) {
  short b4fhA5d0;
  b4fhA5d0 = -1314453220;
     long long    oj4s3_;
-    oj4s3_    =    0;
+
 	long double	Z8Hh_o;
 	Z8Hh_o	=	345860774;
   unsigned char  MO4A490_0;
@@ -115,7 +115,7 @@ int main(void) {
   short  cn9F_G9p;
   cn9F_G9p  =  -1682225034;
   unsigned short int  wPRi8N;
-  wPRi8N  =  801154053;
+
     unsigned short int    yVXz1Dn;
     yVXz1Dn    =    1495466760;
  long double LiUSG3T;
@@ -125,7 +125,7 @@ int main(void) {
  unsigned long TH4Nq7_1X;
  TH4Nq7_1X = -814590181;
     short    CxgyGfK61;
-    CxgyGfK61    =    -36320993;
+
  unsigned long long dHiW_;
  dHiW_ = 369113139;
   unsigned int  Fjnf;
@@ -135,7 +135,7 @@ int main(void) {
   short  PqJxsPl4;
   PqJxsPl4  =  475663465;
   float  I6uHI461w;
-  I6uHI461w  =  -858774402;
+
  unsigned int oJAw;
  oJAw = -1584325972;
  unsigned long long KMCrS;
@@ -145,7 +145,7 @@ int main(void) {
  char mB1jQ7S;
  mB1jQ7S = -105534961;
   char  O0FL_6i;
-  O0FL_6i  =  1143920558;
+
     float    IqD07;
     IqD07    =    1862052071;
   long double  Fw22qT8Qc;
@@ -155,7 +155,7 @@ int main(void) {
 	long	RJV0y1_;
 	RJV0y1_	=	-387135138;
 	unsigned short	wufg8lJiY;
-	wufg8lJiY	=	0;
+
 	unsigned short int	GI_SR4sv;
 	GI_SR4sv	=	-130323574;
  float Pl5L38;
@@ -173,7 +173,7 @@ while (j >= 0)
 int k = 4;
 do
 {
-Fw22qT8Qc = (int)floor(ppojF3t);
+
 --k;
 }
 while (k >= 0);
@@ -187,7 +187,7 @@ catch (int& errorCode)
 rx_L = za2tN0lZK();
 }
 
-EPG_1uox = (int)floor(fSDK0tB);
+
 
 std::cout << "t_7I0G5eN2" << f2h5Q8Lh() << za2tN0lZK() << std::endl;
 

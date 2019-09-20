@@ -356,7 +356,7 @@ qD1oP79 = (unsigned char)(ENPq);
 
 if (((ENPq & Y0_L) || (vaSWQsQtE8)) || (qD1oP79))
 {
-HUbEVXGHx8 = (int)abs(Y0_L);
+
 }
 else if (kKG79S < HUbEVXGHx8)
 {

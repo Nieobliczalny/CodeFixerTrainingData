@@ -582,7 +582,7 @@ pLF5L = if1OUXk6(BE748ki, L82UXi6P99, E85U7bW5);
 }
 else
 {
-ikNu = (int)abs(L82UXi6P99);
+
 }
 
 {
@@ -596,7 +596,7 @@ g1t9s7x = Cvf7 * g1t9s7x;
 
 try
 {
-vD3kS2W8N7 = (int)abs(xvj4k1WLI);
+
 }
 catch (int& errorCode)
 {

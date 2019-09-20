@@ -41,7 +41,7 @@ int main(void)
     long long    yf7g61lgtX;
     yf7g61lgtX    =    0;
 	unsigned short int	W0HJ5m5;
-	W0HJ5m5	=	2054289282;
+
  unsigned long long wW_v_R__l;
  wW_v_R__l = -1104110578;
   long double  zd__9XcZ2;
@@ -73,7 +73,7 @@ int main(void)
 	unsigned long long	sD8mrQ;
 	sD8mrQ	=	478449363;
     unsigned char    yTBmW;
-    yTBmW    =    1642002987;
+
   short  nD5TV210Mt;
   nD5TV210Mt  =  1918817785;
  int kT36n;
@@ -89,7 +89,7 @@ int main(void)
  unsigned long long P8bL6PM;
  P8bL6PM = 0;
  unsigned long long ovw67;
- ovw67 = 1417766961;
+
  unsigned char E_uXQfZ;
  E_uXQfZ = -1239918680;
  int r60ux90r;
@@ -107,7 +107,7 @@ int main(void)
 	long	L2nAQW_j;
 	L2nAQW_j	=	-149519889;
 	long long	xbt4g;
-	xbt4g	=	-1006461044;
+
   unsigned long long  R98G_b9_;
   R98G_b9_  =  -471427318;
   float  dUcP25;
@@ -119,7 +119,7 @@ int main(void)
   short  qds4;
   qds4  =  1454374469;
 	double	U67scT;
-	U67scT	=	-1840058453;
+
 
 {
 int i = 1;
@@ -135,7 +135,7 @@ if (((Ua1_Wu3N & R98G_b9_) || (KSi66 & VY_t6xu_E)) && ((D2FX3DR81 >= h5hNL_) || 
 switch (D2FX3DR81)
 {
 case 'a':
-g5Q_ |= r60ux90r;
+
 break;
 case 'b':
 KSi66 = (int)abs(M_1T4v9);
@@ -158,7 +158,7 @@ for (int j = 0; j < 2; ++j)
 {
 if (oTOI9)
 {
-r60ux90r = qs_0ZF - C5IaGz0;
+
 }
 else if (qds4 <= 924809082)
 {
@@ -204,7 +204,7 @@ dUcP25 = (int)ceil(BwfeX7O83X);
 switch (E_fL)
 {
 case 'a':
-oTOI9 -= C5IaGz0;
+
 break;
 case 'b':
 q4Q9T--;
@@ -228,7 +228,7 @@ case 'h':
 R98G_b9_ |= M_1T4v9;
 break;
 case 'i':
-PoPD70R8 &= sD8mrQ;
+
 break;
 case 'j':
 KSi66 = (int)abs(FXO4);
@@ -239,7 +239,7 @@ break;
 }
 D2FX3DR81 ^= KSi66;
 
-qds4 = (int)abs(b3F27g) + (-1986905863);
+
 h5hNL_ = rS8M >> Mzri;
 
 if ((Mzri / P8bL6PM) == -1820031930)
@@ -265,7 +265,7 @@ VY_t6xu_E = (long)(htO8I6L);
 }
 else if (YOnBKZR5 > 1008219597)
 {
-KSi66 = (int)(E_uXQfZ);
+
 }
 else if ((kT36n <= -863628388) && (dUcP25 >= zd__9XcZ2))
 {
@@ -316,7 +316,7 @@ U6i9931ui = nD5TV210Mt ^ Ype_6WJP4;
 
 if (scVz_8X7G8 <= -1866811795)
 {
-G_tpcu = b3F27g * 1916911231;
+
 }
 else if (Iqa_Wmdm <= U6i9931ui)
 {
@@ -338,7 +338,7 @@ else
 int j = 0;
 do
 {
-C5IaGz0 = b3F27g & v3H1Vv5HN;
+
 ++j;
 }
 while (j < 10);
@@ -368,7 +368,7 @@ catch (int& errorCode)
 {
 VY_t6xu_E = Q2xSM + Q2xSM;
 }
-YOnBKZR5 = (int)ceil(I_Xn);
+
 try
 {
 q4Q9T = (short)(zXB3);
@@ -378,7 +378,7 @@ catch (int& errorCode)
 BwfeX7O83X = (int)floor(P_l7te9);
 }
 
-qds4 = (short)(nD5TV210Mt);
+
 
 return 0;
 }

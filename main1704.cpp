@@ -19,7 +19,7 @@ int main()
   double  JIsGG3a1_;
   JIsGG3a1_  =  1158686153;
  unsigned long long sB02S0__ui;
- sB02S0__ui = 1457127232;
+
   long  S9iT;
   S9iT  =  -370619900;
     unsigned char    P1e8EtXfec;
@@ -37,7 +37,7 @@ int main()
 	short	UBUu5j43z;
 	UBUu5j43z	=	2004334646;
   short int  rFtyVmH_5;
-  rFtyVmH_5  =  937449428;
+
     unsigned short    CqskRPxP;
     CqskRPxP    =    1560523407;
     unsigned char    Pw8B81q;
@@ -55,7 +55,7 @@ int main()
   unsigned char  d_di_JcUV;
   d_di_JcUV  =  -1762140314;
     unsigned long long    V1v76Ii;
-    V1v76Ii    =    672887955;
+
   long long  MPFrMuTv;
   MPFrMuTv  =  0;
   double  w47ui;
@@ -65,7 +65,7 @@ int main()
     unsigned long long    Cf3DSw5B;
     Cf3DSw5B    =    384262921;
 	double	lJNHB;
-	lJNHB	=	-1873214471;
+
 	unsigned short int	hFBJ9;
 	hFBJ9	=	-380333642;
 	unsigned short	C0BCTOA;
@@ -85,7 +85,7 @@ int main()
     long long    kH_a;
     kH_a    =    1140609333;
   double  OTIb4Ng_;
-  OTIb4Ng_  =  349939205;
+
  short int J2en6e0;
  J2en6e0 = -1840566161;
     short    jMlRoJN;
@@ -95,7 +95,7 @@ int main()
     unsigned char    r27Zk88Hvy;
     r27Zk88Hvy    =    -805192782;
  long double DvZmW56Zts;
- DvZmW56Zts = 899036796;
+
  unsigned short int Qu_QDjgW;
  Qu_QDjgW = 1868743107;
     unsigned short int    EKhUsC;
@@ -113,7 +113,7 @@ int main()
  long diRzU81j;
  diRzU81j = -1343519971;
 	unsigned char	uxD67eD;
-	uxD67eD	=	-864587511;
+
 	float	oO4fRuHfSi;
 	oO4fRuHfSi	=	-1208417406;
 	float	QS58wC8hQ;
@@ -123,7 +123,7 @@ int main()
   long double  firPfMKXg;
   firPfMKXg  =  531094816;
     float    Ws18X_A_;
-    Ws18X_A_    =    1983061827;
+
  long double M41I;
  M41I = -1633961152;
  unsigned long Y33t0X9_Ss;
@@ -147,7 +147,7 @@ int main()
     int    ZTCdAau51J;
     ZTCdAau51J    =    -1540806191;
 	int	wISVdU;
-	wISVdU	=	1109747891;
+
  unsigned char SJS9N;
  SJS9N = 814438619;
     unsigned char    HAc5;
@@ -181,7 +181,7 @@ cout << "aFPh" << "W6CYcxZV" << endl;
 }
 else if (UjwUhpyDZG == 998097960)
 {
-MPFrMuTv = (int)abs(llS6lI_P) * 0;
+
 }
 else if (UJHd0b7WhJ != diRzU81j)
 {
@@ -191,7 +191,7 @@ case 'a':
 mJjUDSG9B8 = i_my3(sYS7EHY, -2115465206, 1143555193, UJHd0b7WhJ) - 1443541968;
 break;
 case 'b':
-r27Zk88Hvy <<= 972293399;
+
 break;
 case 'c':
 Ay8V3Z <<= 1166794574;
@@ -206,7 +206,7 @@ case 'f':
 M41I = (int)floor(ZrlD2c5Mv7);
 break;
 case 'g':
-oS_0f1 = i_my3(oS_0f1, gRC8, 23798300, n2845Z);
+
 break;
 case 'h':
 l8_V_ = i_my3(l8_V_, -1234054763, ak3R_8P, R6H87u);
@@ -221,7 +221,7 @@ break;
 }
 else if (d9WJjxcHC >= -1997740939)
 {
-OTIb4Ng_ = (int)floor(u8_9);
+
 }
 else
 {
@@ -242,7 +242,7 @@ while (k < 10);
 }
 }
 }
-firPfMKXg = (int)ceil(w47ui);
+
 switch (d_di_JcUV)
 {
 case 0:
@@ -252,7 +252,7 @@ case 1:
 JUdg8O6 = (int)abs(CIi5R);
 break;
 case 2:
-llS6lI_P = (int)abs(CyYa3O);
+
 break;
 case 3:
 diRzU81j = SYIti9C(diRzU81j, HAc5, KRpBkEvcG, lpd3ue2Du, EKhUsC);
@@ -262,7 +262,7 @@ wISVdU = (int)abs(s61Dnl5);
 break;
 }
 
-lJNHB = (int)ceil(F2VuqH);
+
 
 if ((Qu_QDjgW <= Cf3DSw5B) || (qb9cQSP7y & s61Dnl5))
 {
@@ -277,7 +277,7 @@ gRC8 = (int)ceil(CIi5R);
 }
 else
 {
-Qu_QDjgW |= pD2M6;
+
 }
 
 Y8mqZeGg = (short int)(UBUu5j43z);
@@ -312,7 +312,7 @@ do
 {
 for (int k = 2; k >= 0; --k)
 {
-EKhUsC = mJjUDSG9B8 / hFBJ9;
+
 }
 j--;
 }
@@ -328,7 +328,7 @@ case 1:
 mJjUDSG9B8 = (int)ceil(Z4M5_Y_b3);
 break;
 case 2:
-QS58wC8hQ = (int)floor(o4Wcu);
+
 break;
 case 3:
 ZrlD2c5Mv7 = KQGM6_NrT & HAc5;
@@ -345,7 +345,7 @@ break;
 int i = 2;
 do
 {
-sB02S0__ui = i_my3(120132821, Ir4vg5Eg, 653107685, -1572221562);
+
 --i;
 }
 while (i >= 0);
@@ -358,7 +358,7 @@ case 'a':
 Pf4P09L = M41I - 371804930;
 break;
 case 'b':
-ZTCdAau51J = (int)abs(E8nasdfiv);
+
 break;
 case 'c':
 u8_9 = (int)ceil(JIsGG3a1_);
@@ -370,7 +370,7 @@ case 'e':
 E8nasdfiv = b5BnrIDc * pce92Bd4;
 break;
 case 'f':
-HEOL = i_my3(HEOL, -613448199, -938492461, gRC8);
+
 break;
 case 'g':
 UBUu5j43z |= qb9cQSP7y;
@@ -382,7 +382,7 @@ case 'i':
 UjwUhpyDZG = SYIti9C(UjwUhpyDZG, mJjUDSG9B8, -362526833, -816865193, 282241130);
 break;
 case 'j':
-KQGM6_NrT = i_my3(KQGM6_NrT, 1624966547, 231559823, -463655220);
+
 break;
 default:
 u8_9 = ak3R_8P ^ d_di_JcUV;
@@ -393,7 +393,7 @@ catch (int& errorCode)
 {
 M41I = (int)abs(Pf4P09L);
 }
-HEOL = (int)(X2mda);
+
 
 return 0;
 }

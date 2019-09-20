@@ -86,7 +86,7 @@ if (KfJjy)
 {
 if (F3DZp >= PpimBQ)
 {
-Xtqb1xK7 = fHGz5();
+
 }
 }
 }

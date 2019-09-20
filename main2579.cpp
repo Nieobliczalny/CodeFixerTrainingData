@@ -19,6 +19,7 @@ int main(void) {
 	unsigned short int	UQSm_,	W5ymf_B7G5,	Lu5Nw0u0,	A97R,	y9h5o,	YO_U,	H_82BB3,	isbtGW78t,	uLjjfAF,	DJ42v6L4l,	r3Hc9Z0,	aHBAz,	I59w_,	E9tju,	q6L02LPhL,	KoU_6,	ggixDx,	f9eeUd9Bym,	Jj7z_5,	uF26Ac,	w_7xN,	a1mhUS,	cPPr,	moh_c9Dw,	jqGlb87kc,	Jpn2,	MzKXp28AQ,	Y_d9IHI,	N81W0px,	EdBBQ505,	xjyXh19,	pSct7ha,	ZHD_YtJ07s,	Iu2Vy0K,	A9rN,	l6_2P94d,	rcoK065tUf,	TU6tkpW,	uh7_a4_YaN;
 		UQSm_	=	W5ymf_B7G5	=	Lu5Nw0u0	=	A97R	=	y9h5o	=	YO_U	=	H_82BB3	=	isbtGW78t	=	uLjjfAF	=	DJ42v6L4l	=	r3Hc9Z0	=	aHBAz	=	I59w_	=	E9tju	=	q6L02LPhL	=	KoU_6	=	ggixDx	=	f9eeUd9Bym	=	Jj7z_5	=	uF26Ac	=	w_7xN	=	a1mhUS	=	cPPr	=	moh_c9Dw	=	jqGlb87kc	=	Jpn2	=	MzKXp28AQ	=	Y_d9IHI	=	N81W0px	=	EdBBQ505	=	xjyXh19	=	pSct7ha	=	ZHD_YtJ07s	=	Iu2Vy0K	=	A9rN	=	l6_2P94d	=	rcoK065tUf	=	TU6tkpW	=	uh7_a4_YaN	=	-1367379057;
 	unsigned int	A8_Lfz,	LwAMn2q,	Z5h_dd9p0l,	x9_80;
+		// codechecker_intentional [deadcode.DeadStores] Design rule - initialize all variables
 		A8_Lfz	=	LwAMn2q	=	Z5h_dd9p0l	=	x9_80	=	0;
 
 {

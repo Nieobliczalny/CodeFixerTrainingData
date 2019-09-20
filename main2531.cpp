@@ -164,7 +164,7 @@ case 7:
 w5fiv83 = UF6I(1192539923, -444488013, 804107533, 555406830);
 break;
 default:
-SA1PpJ = UF6I(fgeIkHf, -991414906, -751695415, HJl3x) & 495130063;
+
 break;
 }
 
@@ -434,7 +434,7 @@ w5fiv83 = UF6I(zQCUMjq, 1389559098, 1575985789, w5fiv83);
 break;
 case 'e':
 case 'E':
-Eb1_ -= 1348264907;
+
 break;
 case 'f':
 case 'F':

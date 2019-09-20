@@ -27,7 +27,7 @@ int main() {
   FsJL0733  =  -1219327601;
   Hzb9Z9e  =  -1345550254;
   dBW4HL4m  =  95586245;
-  FmQd9Ow  =  1843656215;
+
   B1105D_on0  =  -401158226;
   e2dv69  =  -977749882;
   uL52oq0s  =  410383663;
@@ -73,7 +73,7 @@ int main() {
   fA6K_Ktg2  =  -557726852;
   ZOT16w7  =  -1286036496;
   C_QIkVc5TG  =  1556193488;
-  yo4cHOSc  =  2012477966;
+
 	unsigned long long	qm_vrx42u,	G2MAC51,	y66aD,	P5r96Z3N,	tQ63yr_;
 	qm_vrx42u	=	0;
 	G2MAC51	=	0;
@@ -299,7 +299,7 @@ else
 int k = 6;
 do
 {
-r7I7 = j6AG8G ^ 242461722;
+
 --k;
 }
 while (k >= 0);
@@ -330,7 +330,7 @@ if (AgYGYV)
 {
 if (fA6K_Ktg2 >= B4__WHSj7)
 {
-r7I7 *= uL52oq0s;
+
 }
 else if (N_zF27jq5_ == r7I7)
 {
@@ -379,7 +379,7 @@ Th_2wd_ = h6A3P159m1(Th_2wd_, ZAqdvpTq, P5r96Z3N, 1674002425);
 }
 else if (yMkhkP > d5q0ND9)
 {
-Ga1_rd_BP_ = (int)abs(fA6K_Ktg2);
+
 }
 else if (((qm_vrx42u & Sb_6g98Jqk) || (fA6K_Ktg2 & Sb_6g98Jqk)) && (Th_2wd_ != Sb_6g98Jqk))
 {
@@ -477,7 +477,7 @@ if (Z_81 < fC8b)
 {
 cout << "X2oDtmY" << "IJb4" << uL52oq0s << Orb77() << endl;
 }
-C_QIkVc5TG = (long long)(fC8b);
+
 
 if (((dBW4HL4m <= 1735082695) || (Z_81 & AfTTgmXZyt)) && (yMkhkP & ZR3C2))
 {
@@ -492,7 +492,7 @@ KD_2 = h6A3P159m1(KD_2, -815789305, Lcw_5kl, y66aD);
 }
 else if (B1105D_on0 & JORmW)
 {
-yo4cHOSc = (int)abs(Sb_6g98Jqk);
+
 }
 else if (Ob51r0 == 385547431)
 {
@@ -521,7 +521,7 @@ int j = 8;
 while (j >= 0)
 {
 --j;
-yo4cHOSc = (int)abs(Lcw_5kl);
+
 }
 }
 }
@@ -533,7 +533,7 @@ if ((P2kPX67W) || (hvxWn > -151997317))
 {
 try
 {
-ZOT16w7 = Ob51r0 | 1598064507;
+
 }
 catch (int& errorCode)
 {
@@ -555,7 +555,7 @@ while (i >= 0);
 switch (JORmW)
 {
 case 0:
-FmQd9Ow = (int)abs(UmV603);
+
 break;
 case 1:
 hvxWn = h6A3P159m1(hvxWn, pkA33, 1062907545, G2MAC51);
@@ -570,7 +570,7 @@ cout << "s_A4cX79js" << h6A3P159m1(-1551981836, pkA33, SxIfm, 986519876) << h6A3
 
 if (y66aD == 1853131822)
 {
-FsJL0733 = (KD_2 > 640450325) ? B1105D_on0 : -1910019711;
+
 }
 else
 {
@@ -580,7 +580,7 @@ case 0:
 FsJL0733 >>= 116972217;
 break;
 case 1:
-G2MAC51 = Orb77();
+
 break;
 case 2:
 P2kPX67W = BJtN << 51226075;
@@ -592,7 +592,7 @@ case 4:
 z52k2LB = (int)abs(B1105D_on0);
 break;
 default:
-Th_2wd_ <<= j6AG8G;
+
 break;
 }
 }
@@ -615,7 +615,7 @@ case 0:
 P2kPX67W = (int)abs(dBW4HL4m);
 break;
 case 1:
-KD_2 = JORmW & 568881678;
+
 break;
 case 2:
 IPfB5 = (int)abs(v456x_A95);
@@ -627,7 +627,7 @@ case 4:
 B1105D_on0 = h6A3P159m1(B1105D_on0, v456x_A95, A26B2HW, K2OnGl8TFZ);
 break;
 case 5:
-Fp5T1csz = V8Ou(Fp5T1csz);
+
 break;
 case 6:
 FlWtJ_pN++;

@@ -36,7 +36,7 @@ int main(int argc, char** argv)
     long long    HQQ0PVk;
     HQQ0PVk    =    -723375833;
     char    vI49rv;
-    vI49rv    =    506659360;
+
   unsigned char  G9zAt;
   G9zAt  =  2106699520;
  short wMK0zUT;
@@ -58,7 +58,7 @@ int main(int argc, char** argv)
     int    U591wV29z;
     U591wV29z    =    1426844828;
  char xH33rW8wP;
- xH33rW8wP = 0;
+
  unsigned long long EG_di5;
  EG_di5 = -1097356580;
 	double	h_wP;
@@ -110,7 +110,7 @@ case 'i':
 i65B = (int)abs(vG4s);
 break;
 default:
-wMK0zUT = F4Pf_d5z(247262548, P_0u);
+
 break;
 }
 }
@@ -133,7 +133,7 @@ else
 {
 for (int k = 3; k >= 0; --k)
 {
-RtfUdNO99 = aalBESkIz2(i65B, sx83CM2ri, -2127208495, -1214343340, FCgt4jXAB3) ^ 1547663017;
+
 }
 }
 }
@@ -195,7 +195,7 @@ case 'a':
 bLCOc++;
 break;
 case 'b':
-P_0u = (int)ceil(i65B);
+
 break;
 }
 try

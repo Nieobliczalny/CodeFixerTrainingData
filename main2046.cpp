@@ -14,7 +14,7 @@ int main(int argc, char** argv) {
 
 aWACu8o = (unsigned long)(uG0v);
 
-RX_b28UG5D <<= 519942487;
+
 X3t3Gmq6 ^= 2021963099;
 for (int i = 4; i >= 0; --i)
 {
@@ -88,7 +88,7 @@ else
 int k = 0;
 while (k < 4)
 {
-Fwd3316z = i1Rr ^ 745108574;
+
 ++k;
 }
 }
@@ -117,7 +117,7 @@ if (bBTpp3 == -1522434603)
 switch (I3g34ZUl75)
 {
 case 'a':
-FtAL8P_ >>= 595447250;
+
 break;
 case 'b':
 jN_L4HEV_ = tKRj7nct / 1831617622;
@@ -136,7 +136,7 @@ while (j < 7)
 j++;
 if (gWi8t1vCgQ < -990869030)
 {
-Y9NWt07 = aWACu8o % 387076528;
+
 }
 }
 }
@@ -157,7 +157,7 @@ else if (OMrWl & 226852860)
 {
 if (l2R79 & z31k1E_U9)
 {
-l2R79 = (unsigned long)(K3ic8D5HCm);
+
 }
 }
 else
@@ -187,7 +187,7 @@ while (i >= 0);
 int i = 6;
 while (i >= 0)
 {
-FtAL8P_ = p52d >> 218199689;
+
 --i;
 }
 }
@@ -207,7 +207,7 @@ switch (eb15QK15_)
 {
 case 'a':
 case 'A':
-w9b1_0 = lp0G_ + 8500113;
+
 break;
 case 'b':
 case 'B':
@@ -219,7 +219,7 @@ aR3OS_joz7 |= 476823978;
 break;
 case 'd':
 case 'D':
-yT0gDiK = (bBTpp3 & E0D6EJlmr4) ? -270928294 : -522378808;
+
 break;
 case 'e':
 case 'E':
@@ -231,7 +231,7 @@ EvWY8Doll_ = Q_8_n & z31k1E_U9;
 break;
 case 'g':
 case 'G':
-mErz62 = q29j7n / I3g34ZUl75;
+
 break;
 case 'h':
 case 'H':
@@ -243,7 +243,7 @@ d0WN73CO97 >>= 757951759;
 break;
 case 'j':
 case 'J':
-X3EdV_X40P -= 772822600;
+
 break;
 default:
 TE3BVJ43 = nL6825__K | 1074959705;

@@ -67,7 +67,7 @@ int main()
  char srA4dzZW = 241715419;
  unsigned short mEnj = -1016477157;
 
-Gwh7xqy5D = (int)floor(d2_01X);
+
 for (int i = 2; i >= 0; i--)
 {
 Sr6f = (int)floor(Ka83);
@@ -94,7 +94,7 @@ while (j >= 0);
 while (i >= 0);
 }
 q6Rlu49D = y3YJ(iZVVst);
-K2DRba5N3C = (unsigned char)(H0upm2);
+
 QD4O4Pv5_ = (int)floor(GeG1l5T83);
 
 for (int i = 8; i >= 0; --i)
@@ -116,7 +116,7 @@ while (j >= 0);
 switch (A8CocZ)
 {
 case 0:
-iZVVst /= odkJ;
+
 break;
 case 1:
 q6Rlu49D = y3YJ(CLtL);
@@ -134,7 +134,7 @@ case 5:
 q6Rlu49D = y3YJ(-340911070);
 break;
 case 6:
-Ka83 = (int)ceil(d2_01X);
+
 break;
 case 7:
 q6Rlu49D = y3YJ(RNoR0_jr);
@@ -155,7 +155,7 @@ q6Rlu49D = y3YJ(A8CocZ);
 
 if (q6Rlu49D == 0)
 {
-	Sr6f = BRm_JpL / q6Rlu49D;
+
 }
 mEnj /= u2VkbITVC;
 return 0;

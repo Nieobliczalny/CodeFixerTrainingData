@@ -77,7 +77,7 @@ int k = 2;
 do
 {
 --k;
-BVqP = A7szJzEG >> 247850743;
+
 }
 while (k >= 0);
 }
@@ -97,7 +97,7 @@ Q118c3 -= HE1Xi5T;
 }
 }
 }
-e72Um_88Ni = MJew1rD1O1 - 1870726368;
+
 
 for (int i = 0; i < 2; ++i)
 {
@@ -107,7 +107,7 @@ bHkc = (int)abs(HE1Xi5T);
 }
 else
 {
-ac9KRoo = (dJOnz3R3 >= -1692946780) ? -1965917737 : -2077490221;
+
 }
 }
 
@@ -119,7 +119,7 @@ BVqP = o7t3n28 - bHkc;
 switch (o7t3n28)
 {
 case 0:
-ok2qX |= BVqP;
+
 break;
 case 1:
 EmeEx--;
