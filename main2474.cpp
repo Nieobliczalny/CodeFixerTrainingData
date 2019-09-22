@@ -49,7 +49,7 @@ int main(void)
 	unsigned int	M86oD_Fm1;
 
     unsigned int    vA1o;
-    vA1o    =    372090881;
+
     unsigned char    W4FAYuz2;
     W4FAYuz2    =    408122328;
 	unsigned char	s59v;
@@ -59,7 +59,7 @@ int main(void)
 	unsigned short int	S6A_kN;
 	S6A_kN	=	437611697;
  long KDMWt5P94;
- KDMWt5P94 = -241848831;
+
 	short	fXiX6b1eT;
 	fXiX6b1eT	=	-1337203500;
     int    ipmPU2;
@@ -91,7 +91,7 @@ int main(void)
 	char	E1TL3Y2;
 	E1TL3Y2	=	872379204;
     short int    di8BNAtE;
-    di8BNAtE    =    1641792088;
+
     long double    a6zk_hF7Kb;
     a6zk_hF7Kb    =    -962072143;
   long  RQ3x30;
@@ -107,7 +107,7 @@ int main(void)
  unsigned short int K2MP9L;
  K2MP9L = 1508240958;
     unsigned int    X_igEQ3d;
-    X_igEQ3d    =    -1360317329;
+
   unsigned int  jNu_xN7;
   jNu_xN7  =  305520539;
  int WT5I8Yb;
@@ -119,7 +119,7 @@ int main(void)
   float  FI_du7;
   FI_du7  =  1920482035;
   short  mgSkUr;
-  mgSkUr  =  -553242430;
+
  double t80wXWYca;
  t80wXWYca = -1691728176;
   float  X9A27y;
@@ -157,7 +157,7 @@ int main(void)
 	unsigned short	LE0Z7J;
 	LE0Z7J	=	-2061804430;
 	unsigned long	e9VCx;
-	e9VCx	=	1137757427;
+
  double F_kS4DKr1;
  F_kS4DKr1 = -2072675752;
 	unsigned short	GNy70;
@@ -179,7 +179,7 @@ int main(void)
     long double    e9Dj;
 
  unsigned short int wH44;
- wH44 = -1676615570;
+
  unsigned char Y86C9;
  Y86C9 = -564872199;
  long double McPKsF4e;
@@ -189,7 +189,7 @@ int main(void)
     unsigned char    txLZY1B;
 
  long double e38h79b;
- e38h79b = 769235692;
+
 	long long	gG0jrRK;
 	gG0jrRK	=	-994210823;
 	short int	pCbG;
@@ -209,7 +209,7 @@ int main(void)
   short  n9O8;
 
  unsigned short int KBC_2D;
- KBC_2D = 672579799;
+
 	int	niZ4qFG;
 	niZ4qFG	=	0;
 
@@ -235,7 +235,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-txLZY1B = f5a_RXJ ^ 1706250564;
+
 break;
 case 'f':
 case 'F':
@@ -297,7 +297,7 @@ do
 ++i;
 try
 {
-McPKsF4e = (int)floor(sqjkXwH);
+
 }
 catch (int& errorCode)
 {
@@ -347,7 +347,7 @@ case 1:
 
 break;
 case 2:
-sqjkXwH = (int)abs(i4e3N3);
+
 break;
 case 3:
 niZ4qFG = Y25w34jRM(W4FAYuz2, F_kS4DKr1, 634910807, sLCY0y6LP);
@@ -475,7 +475,7 @@ niZ4qFG = Y25w34jRM(sLCY0y6LP, 831511587, -1248445113, -282683690);
 }
 else if (p4J1)
 {
-a6zk_hF7Kb = (int)ceil(X9A27y);
+
 }
 else
 {
@@ -592,7 +592,7 @@ else
 i++;
 }
 }
-n9O8 = (BAO56Rpcc < 2146195759) ? GjIPC : E1TL3Y2;
+
 {
 int i = 0;
 while (i < 3)

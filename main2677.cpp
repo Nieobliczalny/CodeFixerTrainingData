@@ -40,7 +40,7 @@ cout << MP5Br << endl;
 switch (CNb1EQosk)
 {
 case 'a':
-Nq0W4tril = us2yxL8wJc();
+
 break;
 case 'b':
 
@@ -82,7 +82,7 @@ while (j >= 0);
 while (i < 7);
 }
 
-vx5HZqAj = G_VH80(458033642, 257900814);
+
 
 k_T17JG0 = (unsigned short)(fy49TPc94);
 
@@ -119,7 +119,7 @@ case 1:
 C7i1ElR <<= deREGrO;
 break;
 case 2:
-EkiJ4 = G_VH80(EkiJ4, Nyik);
+
 break;
 case 3:
 d1994 = G_VH80(1328567573, fOPGlLUH);
@@ -134,7 +134,7 @@ case 6:
 d1994 = G_VH80(1909586301, PTA9k);
 break;
 case 7:
-Nyik = G_VH80(-1859164008, d9jDNG7b6);
+
 break;
 case 8:
 
@@ -207,7 +207,7 @@ while (i < 7);
 
 
 
-E0b8yK = Z21o72x4ST << y8_28y;
+
 
 switch (ZDO4)
 {
@@ -221,7 +221,7 @@ case 'c':
 
 break;
 case 'd':
-PTA9k = G_VH80(PTA9k, -987344979);
+
 break;
 case 'e':
 C7i1ElR |= k_T17JG0;

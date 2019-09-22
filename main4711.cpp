@@ -156,7 +156,7 @@ j--;
 switch (BUh5b)
 {
 case 'a':
-Dq5D57j2_ = uX6RB ^ 217412915;
+
 break;
 case 'b':
 K7HIMqTQ28 = (int)abs(XX_Hz1WJ);
@@ -235,7 +235,7 @@ case 'g':
 
 break;
 case 'h':
-vyIud2 %= Qe9dibYZ_;
+
 break;
 case 'i':
 KyKNy1n7D = XX_Hz1WJ / 965197466;
@@ -343,7 +343,7 @@ case 2:
 
 break;
 case 3:
-K5_26q8l = d48fo41bQ(K5_26q8l, d3yQpg4lk);
+
 break;
 case 4:
 VjG1 = VjG1 >> BUh5b;
@@ -367,7 +367,7 @@ break;
 
 
 
-BHL4 = (unsigned short int)(q2Q3);
+
 return 0;
 }
 

@@ -434,7 +434,7 @@ else
 switch (npc2Xf)
 {
 case 0:
-Xmo1o55D4a = (int)abs(OIHtIG_41M);
+
 break;
 case 1:
 
@@ -520,7 +520,7 @@ case 0:
 
 break;
 case 1:
-WD2_Eo98 = Rv3k3E / 1996052152;
+
 break;
 case 2:
 GJ0IYOzr = C99uxc2y << 872628078;
@@ -532,7 +532,7 @@ case 4:
 
 break;
 case 5:
-fJP7D0MX0U = xf92xTs & u66hFli6H;
+
 break;
 }
 
@@ -551,7 +551,7 @@ for (int k = 7; k >= 0; --k)
 i++;
 }
 }
-WQTDi &= A56w1d;
+
 
 {
 int i = 0;

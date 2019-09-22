@@ -300,7 +300,7 @@ case 0:
 CDBL = (int)abs(Sm7V_kCTp);
 break;
 case 1:
-vBZ63HlP = (int)abs(y2G1);
+
 break;
 case 2:
 CDBL = XQ8wAIwL2p(CDBL, Sm7V_kCTp);
@@ -482,7 +482,7 @@ else if ((tpARy1MZ5K <= mJe7) && (cR37y5dl >= 2050813934))
 }
 else if (lDKu_CiNr == I2577E)
 {
-Sm7V_kCTp = H5Kvj7U642(Sm7V_kCTp, -1773983035, o9Mn4w);
+
 }
 else
 {
@@ -586,7 +586,7 @@ int i = 4;
 do
 {
 --i;
-jTy8y5 = (int)abs(Hncu_Dp);
+
 }
 while (i >= 0);
 }
@@ -596,7 +596,7 @@ std::cout << "rqu_z490tP" << U2I85Dqu << h17bEf35po << H5Kvj7U642(KLtf3jM, -1553
 switch (MFy37DD)
 {
 case 0:
-I2577E = (int)abs(hID9);
+
 break;
 case 1:
 nLzob9rU ^= cR37y5dl;
@@ -620,7 +620,7 @@ case 7:
 tpARy1MZ5K = H5Kvj7U642(tpARy1MZ5K, L3W3n, -1352281599);
 break;
 default:
-hID9 = (int)abs(gRq_67);
+
 break;
 }
 return 0;

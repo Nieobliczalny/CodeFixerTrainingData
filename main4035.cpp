@@ -344,7 +344,7 @@ case 0:
 
 break;
 case 1:
-zoQ6lo4 = n9W0T6k(X97h0FA_HA);
+
 break;
 case 2:
 nGRY3k7z >>= lP_ad;
@@ -420,7 +420,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-ab29_H >>= nGRY3k7z;
+
 break;
 case 'd':
 case 'D':

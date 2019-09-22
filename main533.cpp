@@ -41,7 +41,7 @@ int main(void)
   int  AGjFWSlS;
   AGjFWSlS  =  -1357354283;
 	unsigned short	lg51qqPI;
-	lg51qqPI	=	0;
+
  int h424pj;
  h424pj = -1067523481;
     long    hHVL4_;
@@ -421,7 +421,7 @@ catch (int& errorCode)
 h424pj = (int)abs(YGmOzmC);
 }
 
-tj2fX_0AO9 = y0r3xdMlo1(tj2fX_0AO9, 994580861, -360761732, -177223336);
+
 
 hqjIFE9_m ^= JI42sC_U61;
 if (Tdx_0W1 > tq7wF)
@@ -449,7 +449,7 @@ Z79r = (int)abs(WjK1);
 }
 else if (hHVL4_)
 {
-DBHql ^= YGmOzmC;
+
 }
 else if (((aG_871N808 <= wJvB_sXa) || (Tdx_0W1 == lK_5Jg3T)) || (aG_871N808 < F6dd8cg))
 {

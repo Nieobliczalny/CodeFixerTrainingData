@@ -219,7 +219,7 @@ else
 std::cout << yv3win15e() << HvWOur << sUf9q(1976220526, 1752493490, ops6) << std::endl;
 I_nW02_NC6 = GFSbfl9w(I_nW02_NC6, ops6, 323632905, G5cVkY_4q_);
 
-w87dY = (unsigned int)(G5cVkY_4q_);
+
 
 try
 {
@@ -229,7 +229,7 @@ case 'a':
 
 break;
 case 'b':
-LK2T4Iw7 = GFSbfl9w(1318906618, G5cVkY_4q_, n3gTnMfR, -1177807137);
+
 break;
 case 'c':
 HvWOur = (int)floor(G5cVkY_4q_);
@@ -241,7 +241,7 @@ case 'e':
 
 break;
 case 'f':
-n3gTnMfR %= 1871027744;
+
 break;
 case 'g':
 ops6 = GFSbfl9w(-264911000, LK2T4Iw7, dQ_89fv, -828451088);

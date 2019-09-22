@@ -126,7 +126,7 @@ case 'a':
 L46UfG9 = E119V_F1O7(-1455662344, -991545919, s8a0uwxxF0, 1156878127);
 break;
 case 'b':
-WcT9zf38X = (int)abs(nh0ny);
+
 break;
 case 'c':
 NFo329N62 = (int)abs(L46UfG9) + (1977570950);
@@ -171,7 +171,7 @@ for (int i = 0; i < 7; i++)
 {
 if (OQ0rLc_ == -239496025)
 {
-mG6c3 = (int)floor(NrgJ21E8hg);
+
 }
 else
 {
@@ -209,7 +209,7 @@ case 'd':
 
 break;
 case 'e':
-Y5sO = (int)floor(kL4H_9);
+
 break;
 case 'f':
 vXxE__M = E119V_F1O7(NFo329N62, 106130416, C840, -1078209628);
@@ -282,7 +282,7 @@ do
 int k = 8;
 do
 {
-wbv38w = vXxE__M ^ 400069996;
+
 k--;
 }
 while (k >= 0);

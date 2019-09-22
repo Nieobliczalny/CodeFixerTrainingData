@@ -91,7 +91,7 @@ int main(void) {
     unsigned long    m173pE2;
     m173pE2    =    -212378105;
   char  jxAo0w8;
-  jxAo0w8  =  -1726447464;
+
     long    poK0;
     poK0    =    -183274116;
     long double    vBuaC;
@@ -105,7 +105,7 @@ int main(void) {
     unsigned short    J7P2KSQ;
     J7P2KSQ    =    2051987008;
     long    Ai8_ER;
-    Ai8_ER    =    712353039;
+
 	char	a6f1Z1Vp29;
 	a6f1Z1Vp29	=	-1266425783;
     char    y6gfPC8n;
@@ -342,7 +342,7 @@ case 'b':
 p66DaF = (int)floor(bqjn);
 break;
 case 'c':
-Ai8_ER = jUDoN0v64f(1840434701, 1980511755, W_Iln, 1610038686, -210235803);
+
 break;
 case 'd':
 p66DaF = (int)abs(bqjn);

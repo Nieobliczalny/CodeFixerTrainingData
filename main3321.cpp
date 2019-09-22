@@ -32,7 +32,7 @@ JM19 = kBfDDXE9 ^ X45bIV7mZ;
 
 CCi8 = (short int)(GQQem_5Bk);
 
-JXU_pH = aNjUEkw % 917469947;
+
 
 {
 int i = 9;
@@ -66,7 +66,7 @@ case 'e':
 jx0w /= go7aQlub9;
 break;
 case 'f':
-JXU_pH = JM19 << 1644558992;
+
 break;
 case 'g':
 ZrD8XGyt = AJXSW0r2F6 % jx0w;
@@ -408,7 +408,7 @@ case 'f':
 uoLKCNo |= spDMvk;
 break;
 case 'g':
-JXU_pH = CCi8 >> I7F2;
+
 break;
 case 'h':
 Uw6r9H2Y1 = aNjUEkw & Vo3_ZnUk;
@@ -700,7 +700,7 @@ case 'c':
 kBfDDXE9 = spDMvk * Ceb3DB2K;
 break;
 case 'd':
-spDMvk = Uw6r9H2Y1 * 916117721;
+
 break;
 case 'e':
 
@@ -712,7 +712,7 @@ case 'g':
 CCi8 = (int)abs(B4xF13B4W);
 break;
 case 'h':
-qe4I *= Vo3_ZnUk;
+
 break;
 case 'i':
 L_87 = ZrD8XGyt | pVu4SvzKk;

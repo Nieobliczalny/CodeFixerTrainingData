@@ -63,7 +63,7 @@ int main(void) {
   char  zZxS3y0;
   zZxS3y0  =  921056484;
  long double yIPcx_cN;
- yIPcx_cN = 363761750;
+
 	unsigned short	h6n4T;
 	h6n4T	=	0;
     long double    T_1u0fhw;
@@ -79,7 +79,7 @@ int main(void) {
 	long double	dLOD;
 	dLOD	=	1541846758;
   long  c4txjv99;
-  c4txjv99  =  1857747149;
+
     short int    h9V6h_2;
     h9V6h_2    =    -1674611097;
 	float	Th0z;
@@ -186,7 +186,7 @@ case 'b':
 izz55qX12O = Y669r(513330706, rLj_esUg_6, tC4RB_x_, -555634679, tI45917);
 break;
 case 'c':
-h6n4T = ZX9U_8z9np();
+
 break;
 case 'd':
 dLOD = (int)ceil(mXPKxv);
@@ -307,7 +307,7 @@ else if (izz55qX12O == ui_F_oB92)
 }
 else if ((CxrhKk8 < -2000661516) || (MR6w == ui_F_oB92))
 {
-qrmJ = ZX9U_8z9np();
+
 }
 else if (Th0z == Q447G)
 {

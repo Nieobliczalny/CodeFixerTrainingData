@@ -483,7 +483,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-zQB3Gv9bLd = b459Tl2 | 65935549;
+
 break;
 case 'g':
 case 'G':

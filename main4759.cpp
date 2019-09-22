@@ -28,7 +28,7 @@ int main(int argc, char** argv)
     char    p6N_7o4IHp;
 
   long long  JKJVh;
-  JKJVh  =  -1320700388;
+
  int wqDbg3BV9;
  wqDbg3BV9 = -764938377;
     unsigned short    b5b33bM;
@@ -48,7 +48,7 @@ int main(int argc, char** argv)
   short int  I5fLHFx;
   I5fLHFx  =  1793409691;
 	long	KBL7;
-	KBL7	=	-2004992670;
+
   short  sX4R2x;
   sX4R2x  =  -2023863077;
 	unsigned char	VF7CM2nXYO;
@@ -72,7 +72,7 @@ int main(int argc, char** argv)
  int gbG_9;
 
 
-gbG_9 = f_1a22cT / VF7CM2nXYO;
+
 
 E9W63 |= K1c2OE5y_;
 KBL7 = (int)abs(g_66qaVRp);
@@ -162,7 +162,7 @@ else if (((kPka7 & ndOLP6sd) && (xQcZG <= -903559918)) || (fhsaZ))
 switch (E9W63)
 {
 case 0:
-fhsaZ = zdc7K95(I5fLHFx);
+
 break;
 case 1:
 
@@ -199,7 +199,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-JKJVh = wqDbg3BV9 >> g_66qaVRp;
+
 break;
 case 'd':
 case 'D':

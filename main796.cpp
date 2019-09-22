@@ -107,7 +107,7 @@ switch (Fgto)
 {
 case 'a':
 case 'A':
-BrCc0Fn1 |= 45041014;
+
 break;
 case 'b':
 case 'B':
@@ -123,7 +123,7 @@ qwJ8++;
 break;
 case 'e':
 case 'E':
-eV8O = CeqE4XaxR3(-81688697, eV8O);
+
 break;
 case 'f':
 case 'F':
@@ -226,7 +226,7 @@ else if (((qwJ8 & gf4z0bUh) || (pprQdmULAT != Fgto)) || (OuG_5O & CXJ4X))
 }
 else if (T3y3G4 > uiBQOI)
 {
-b_g2_ = (int)abs(Pi41g);
+
 }
 else if (de1IeY9w > 1331455011)
 {

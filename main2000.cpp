@@ -82,7 +82,7 @@ int main(int argc, char** argv) {
     short int    ql1T;
     ql1T    =    2019585911;
     unsigned long    HT1EH0j;
-    HT1EH0j    =    1489708832;
+
  unsigned long qCE61k2v5F;
  qCE61k2v5F = 597151767;
     char    k6Q_I85y3;
@@ -385,7 +385,7 @@ int k = 0;
 while (k < 7)
 {
 k++;
-QazF9qtrI = Pux65 - LJ4M1SB;
+
 }
 }
 }
@@ -507,7 +507,7 @@ case 3:
 oMMG1JEbF_ = hzB0tggx(U3SIV6OmYs, -1947438973, -720691124, N08Z6440p, L_96) << xA3W;
 break;
 case 4:
-eG2GjJ1 = eFnlm(-1574294561, gQbE6h, dUMBdp316, 889986048);
+
 break;
 case 5:
 YYeO_w = (int)ceil(Qnk895A8);
@@ -567,7 +567,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-eG2GjJ1 = eFnlm(p3fq, z13dhk9x5G, j91jM1, -1298402512);
+
 break;
 case 'c':
 case 'C':
@@ -579,7 +579,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-Pux65 = hzB0tggx(Pux65, TDlUt93, -831216733, 1444935999, -186978471);
+
 break;
 case 'f':
 case 'F':
@@ -626,7 +626,7 @@ int k = 10;
 while (k >= 0)
 {
 --k;
-ao64kBi29I = (int)ceil(Uj6hRDWB3u);
+
 }
 }
 }
@@ -649,7 +649,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-eG2GjJ1 = eFnlm(-694272399, z13dhk9x5G, r8_jrrvhz, X10ek);
+
 break;
 case 'e':
 case 'E':
@@ -673,7 +673,7 @@ Mv1V1 += 1061562073;
 break;
 case 'j':
 case 'J':
-cjy0oi = eFnlm(dUMBdp316, 1732837960, E48G590, -1238934607);
+
 break;
 }
 }
@@ -683,7 +683,7 @@ n6k5 = hzB0tggx(-690905470, 1144714995, 2035232043, -947427184, f7zI);
 }
 else
 {
-N08Z6440p = hzB0tggx(N08Z6440p, wGX9Iy, -119712841, 42745783, H29hV);
+
 }
 
 std::cout << "s1Xf71m" << std::endl;
@@ -702,7 +702,7 @@ case 'B':
 
 break;
 default:
-eG2GjJ1 = eFnlm(-462805603, -1172701682, -546843189, -1077764917);
+
 break;
 }
 }
@@ -714,7 +714,7 @@ if (oMMG1JEbF_ <= NQd7r3)
 }
 else if (U3SIV6OmYs & q3JT)
 {
-eG2GjJ1 = eFnlm(1956254424, U3SIV6OmYs, -630474316, -80659313);
+
 }
 else
 {
@@ -733,7 +733,7 @@ zav55L--;
 }
 else if (uxZOdl08e > tcN2)
 {
-YYeO_w /= uxZOdl08e;
+
 }
 else if (wWl03i06K < NQd7r3)
 {
@@ -745,7 +745,7 @@ jks6X214O -= 67364994;
 }
 else if (NaHHRnw != q3JT)
 {
-bXU_Fm7a >>= e2NfR8J;
+
 }
 else
 {
@@ -808,7 +808,7 @@ i--;
 }
 }
 
-eG2GjJ1 = eFnlm(-1627868811, jks6X214O, -1594165473, p3fq);
+
 
 return 0;
 }

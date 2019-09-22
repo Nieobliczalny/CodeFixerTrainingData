@@ -54,7 +54,7 @@ int main(int argc, char** argv) {
 	short	Mu23g5sTeF;
 	Mu23g5sTeF	=	-405495339;
     long long    qKS6h2L_cO;
-    qKS6h2L_cO    =    -439242708;
+
  unsigned long eS95I;
  eS95I = 2114906692;
  unsigned short v8H5vAJl6m;
@@ -76,7 +76,7 @@ int main(int argc, char** argv) {
   int  O1e9o;
 
     int    S12kz2PVL;
-    S12kz2PVL    =    -470056866;
+
  long double RQ40e6w_s;
  RQ40e6w_s = 1737912856;
  long double Mx0pF2oqU0;
@@ -92,7 +92,7 @@ int main(int argc, char** argv) {
     float    uQCF74i;
     uQCF74i    =    118331846;
   char  J_Ce5FHsx7;
-  J_Ce5FHsx7  =  -877521715;
+
 	unsigned char	d92EN3b7;
 	d92EN3b7	=	1044348680;
  int Ti_b1w8GQ;
@@ -128,7 +128,7 @@ for (int i = 4; i >= 0; i--)
 {
 for (int j = 7; j >= 0; --j)
 {
-C79ws = V_EDs_(nYCtyfGx5Q, 1050457506, eS95I, -202903563);
+
 }
 }
 
@@ -160,7 +160,7 @@ case 'f':
 UfWTG0 = V_EDs_(Mx0pF2oqU0, kis86vp, Mu23g5sTeF, B3IUsv);
 break;
 case 'g':
-S12kz2PVL = (int)abs(tYif2);
+
 break;
 case 'h':
 B3IUsv = (int)abs(b0_3571K5);
@@ -221,7 +221,7 @@ case 0:
 
 break;
 case 1:
-ICdfcb = (int)ceil(F5DpRf5);
+
 break;
 case 2:
 C79ws = V_EDs_(-2071873361, GGo_iXuP_l, a4_x1V, f8_Qx);
@@ -255,7 +255,7 @@ std::cout << V_EDs_(s297w91bb, 178842371, -1888555050, Mu23g5sTeF) << V_EDs_(s29
 
 if ((GGo_iXuP_l >= -1765197371) && (s297w91bb))
 {
-S12kz2PVL = (int)(arp_j6NQw1);
+
 }
 else
 {
@@ -282,7 +282,7 @@ case 0:
 
 break;
 case 1:
-ICdfcb = (int)floor(B_ydV_L_mc);
+
 break;
 case 2:
 C79ws = V_EDs_(E49vT886_, -583470494, -1425353969, -1544393067);
@@ -294,7 +294,7 @@ case 4:
 
 break;
 case 5:
-UfWTG0 = V_EDs_(vC746Rbrt2, EuaWy6YDc, D3763, Mx0pF2oqU0);
+
 break;
 case 6:
 O1e9o = (int)abs(UfWTG0) + (-2118946651);
@@ -325,7 +325,7 @@ while (i >= 0)
 i--;
 }
 }
-b0_3571K5 = (int)ceil(uQCF74i);
+
 return 0;
 }
 

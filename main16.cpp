@@ -208,7 +208,7 @@ else
 {
 if (N92c5j9ttD <= NLuN)
 {
-j909m8pW4u <<= 1128385660;
+
 }
 else
 {
@@ -262,7 +262,7 @@ ipy013 = N9NFOB(UD8rl53t0O, 825626641) % kq046WF;
 }
 cout << "QNA2" << "X_8X5" << roG_8eTkTq << endl;
 
-vziS8c = N9NFOB(vziS8c, 119269854);
+
 if ((YM5bSP) || (i8FfW53mre > -306553535))
 {
 if ((fM3ujo <= 450595368) && (ipy013 < -1296005628))
@@ -350,7 +350,7 @@ case 2:
 UD8rl53t0O -= K738;
 break;
 case 3:
-LB0_ += 256817386;
+
 break;
 }
 }

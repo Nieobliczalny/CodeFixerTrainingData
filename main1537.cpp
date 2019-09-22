@@ -166,7 +166,7 @@ if ((yg_dr65P & 141863835) && ((jkAI != -1953187673) || (K7_2)))
 
 if ((Bk32sewzS > q4nTP5d6Hc) && (Hha6_w_Mps & qqTj))
 {
-Nj_w7c6SJ = (int)floor(Bk32sewzS);
+
 }
 else if (SVUjR5h77 >= J5997__q)
 {
@@ -190,7 +190,7 @@ while (i >= 0)
 }
 if (O5SPAOdEF >= 1658572952)
 {
-yg_dr65P = (short)(SVUjR5h77 * yg_dr65P);
+
 }
 else
 {

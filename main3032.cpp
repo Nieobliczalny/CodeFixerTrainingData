@@ -348,7 +348,7 @@ v_JoSF2 = P_M1B16fKs();
 Wd43zmn2V6 = (short int)(ay_fo_GlX);
 if (v_JoSF2 == 772213884)
 {
-v_JoSF2 += 964036140;
+
 }
 else
 {
@@ -361,7 +361,7 @@ case 0:
 
 break;
 case 1:
-X46ur2hKf = P_M1B16fKs();
+
 break;
 case 2:
 P6g99RyM = RZ1G_(711977393, -908108285, X46ur2hKf);

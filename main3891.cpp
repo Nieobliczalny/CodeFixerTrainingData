@@ -25,7 +25,7 @@ int main()
 
 try
 {
-YLDMY = (int)ceil(lh9EC6bUn);
+
 }
 catch (int& errorCode)
 {

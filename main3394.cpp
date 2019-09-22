@@ -467,7 +467,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-uhmLx493 = yB2398hRV0 + Ni2R5w8a6;
+
 break;
 }
 }
@@ -495,7 +495,7 @@ else
 Pf8LiCI = (VYiy6H8 <= 260068602) ? auGo() : -299781994;
 }
 
-Ni2R5w8a6 = (int)floor(GcPv);
+
 if (UTy_ != -392448423)
 {
 uhmLx493 = auGo();
@@ -541,7 +541,7 @@ case 0:
 
 break;
 case 1:
-y2S5q = auGo();
+
 break;
 case 2:
 v_R5PYQW_7 = E_ZC607(1141957049, 2096732742, d1BB, v_R5PYQW_7);
@@ -553,7 +553,7 @@ case 4:
 
 break;
 case 5:
-Pf8LiCI = (int)floor(VYiy6H8);
+
 break;
 default:
 GcPv = auGo();
@@ -566,7 +566,7 @@ catch (int& errorCode)
 Vl1_ = PsHFh810n >> 1075670601;
 }
 
-q8_v803qa = UA61hek(207943421);
+
 return 0;
 }
 

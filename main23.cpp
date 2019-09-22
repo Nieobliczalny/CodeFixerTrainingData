@@ -518,7 +518,7 @@ case 0:
 
 break;
 case 1:
-S2Y1Kp9f = b19b5Jf14Q();
+
 break;
 case 2:
 fSarERo = H08I_WD2(-675405884, Ai0yc9G);
@@ -599,7 +599,7 @@ else if ((Ai0yc9G >= -1438497359) || (L2jhCoZ8KT & -561798892))
 }
 else
 {
-W76W4_LA65 /= 1124285654;
+
 }
 }
 else if ((S2Y1Kp9f == -1077415424) && (S2Y1Kp9f >= Ai0yc9G))

@@ -71,7 +71,7 @@ int main(void)
 	unsigned short int	E4O60;
 	E4O60	=	-784297356;
 	short	F6TQ_wZ;
-	F6TQ_wZ	=	1466045373;
+
     unsigned char    bG287;
     bG287    =    -1864517258;
   unsigned short  xXEkws9R7;
@@ -173,7 +173,7 @@ int main(void)
 	unsigned int	I66hhrM8L;
 	I66hhrM8L	=	2110288369;
  char y_g8r;
- y_g8r = -797587900;
+
   unsigned char  lh_xpj92u;
   lh_xpj92u  =  491302977;
     char    Xjyd5Wrh;
@@ -183,7 +183,7 @@ int main(void)
 	unsigned int	c0892ms;
 
   short  cn3s10Vx;
-  cn3s10Vx  =  -879853584;
+
     long double    sZK5Vimg;
     sZK5Vimg    =    -449832266;
  short G5YQ;
@@ -209,7 +209,7 @@ int main(void)
 	short int	Cbr5;
 	Cbr5	=	-2100281446;
   unsigned short int  mXL0R;
-  mXL0R  =  1276693848;
+
 
 switch (HbWHYll_)
 {
@@ -521,7 +521,7 @@ else if (((LTIDX == kitWWvv14) || (ZdZ4d_y9tK <= ZE2iK)) || (x3HZer6 == W95N_xM)
 }
 else if (R3a4GjN != ZE2iK)
 {
-G5YQ = ZE2iK << 395707806;
+
 }
 else if ((bXM_T > ZE2iK) && ((a_EawG4_ < -999954555) && (KT1uvuTaO != -609292196)))
 {
@@ -575,7 +575,7 @@ while (j < 9)
 int k = 0;
 do
 {
-sy_21_u2 = (int)abs(FGYwT2);
+
 k++;
 }
 while (k < 1);
@@ -610,7 +610,7 @@ if (gAj8v >= ZE2iK)
 }
 else
 {
-eLeZ3 = (int)floor(sZK5Vimg);
+
 }
 }
 while (j >= 0);
@@ -648,7 +648,7 @@ else if (jC_Xu & -1495858621)
 }
 else if ((P5_Es1xkS <= ZE2iK) && (AQeQO > IA_8UrnC3j))
 {
-SVWj_4 = (int)ceil(J84T_08);
+
 }
 else if (Kboj24I >= ZE2iK)
 {
@@ -694,7 +694,7 @@ switch (Sr5_9C)
 {
 case 'a':
 case 'A':
-J84T_08 = (int)ceil(SVWj_4);
+
 break;
 case 'b':
 case 'B':
@@ -706,7 +706,7 @@ xXMUCde_S = (int)abs(jC_Xu);
 break;
 case 'd':
 case 'D':
-xXMUCde_S ^= lh_xpj92u;
+
 break;
 case 'e':
 case 'E':
@@ -718,7 +718,7 @@ case 'F':
 break;
 case 'g':
 case 'G':
-oUZlH_ = e9wOi_5 & 1672246125;
+
 break;
 case 'h':
 case 'H':
@@ -751,7 +751,7 @@ case 2:
 v8tPmm19 = (int)ceil(FGYwT2);
 break;
 case 3:
-FGYwT2 = (int)ceil(J84T_08);
+
 break;
 default:
 oUZlH_ = (int)abs(T8_1z8M27u);
@@ -796,7 +796,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-l6WT = (int)ceil(gAj8v);
+
 break;
 case 'c':
 case 'C':
@@ -821,7 +821,7 @@ case 'a':
 
 break;
 case 'b':
-IA_8UrnC3j = BKxGcWx(-611937897, x3HZer6, Cbr5, 1035913715);
+
 break;
 case 'c':
 ec1Z_ = BKxGcWx(1213740268, 1103245525, -2113103234, 510798829);

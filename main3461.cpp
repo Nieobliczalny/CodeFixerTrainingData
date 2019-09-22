@@ -288,7 +288,7 @@ else
 }
 }
 }
-YWd0x97 = (int)floor(Yr5o4k);
+
 if (Gz9DR3 & -638615689)
 {
 EZ6C2eF = Qd49H_();
@@ -306,7 +306,7 @@ case 'c':
 
 break;
 case 'd':
-mDlI7R85 = S41XM(g7m5nCZo, 2038260356, NWzu6m382, -1886921167, -664542111) ^ 73982723;
+
 break;
 }
 Ot71m5fS9 <<= JN_Z;

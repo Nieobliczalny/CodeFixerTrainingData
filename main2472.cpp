@@ -128,7 +128,7 @@ if ((frR5dve < 503716290) || (Nfzov2M != s8XfHo))
 {
 try
 {
-a2yH_SQyy2 = Btd3l91oS(267870924, 521541282);
+
 }
 catch (int& errorCode)
 {

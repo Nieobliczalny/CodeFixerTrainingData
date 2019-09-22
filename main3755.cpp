@@ -320,7 +320,7 @@ cout << uIi6QOym09(324457218, -1225112123) << endl;
 
 
 
-SPp3E1No = r070t14b / b9_N06ko;
+
 nt_Q6_ = uIi6QOym09(nt_Q6_, -1628157054);
 return 0;
 }

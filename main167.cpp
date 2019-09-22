@@ -531,7 +531,7 @@ else if (PVYj3L3j > 1595802890)
 {
 if (PVYj3L3j == 1004631583)
 {
-sKnI0Xcopv = MQPzo / 5392828;
+
 }
 else if (MQPzo != -44870913)
 {
@@ -571,7 +571,7 @@ else if ((MQPzo != luE064D1_N) && (PVYj3L3j == gzC1930tgd))
 }
 else
 {
-sKnI0Xcopv = AV31luL7OX & 1521664851;
+
 }
 }
 }

@@ -25,7 +25,7 @@ int main(int argc, char** argv) {
   long long  bEYINx;
   bEYINx  =  -1102953742;
     unsigned long long    quyG;
-    quyG    =    491670815;
+
     unsigned short int    yT_vT8r;
     yT_vT8r    =    -518114207;
 	long double	aGC6rS6n8;
@@ -61,7 +61,7 @@ int main(int argc, char** argv) {
   unsigned long  B8vtDd7;
   B8vtDd7  =  -1347332150;
     unsigned short int    M0X_T;
-    M0X_T    =    126313710;
+
 	short int	hmIY_1;
 	hmIY_1	=	376306273;
 	unsigned int	lJUk9Y;
@@ -141,7 +141,7 @@ int main(int argc, char** argv) {
 	unsigned int	jU8LlfM;
 	jU8LlfM	=	-344290204;
     unsigned char    vJG62;
-    vJG62    =    -396543882;
+
     float    pb7F0_g6;
     pb7F0_g6    =    939494183;
   char  R9ev8w3iyS;
@@ -334,7 +334,7 @@ case 1:
 
 break;
 default:
-Lw12 = tnfZ2(1216379992);
+
 break;
 }
 {
@@ -359,7 +359,7 @@ cout << "p0KB9qy1u5" << "pH7V2a7f" << r3zH938yeo(-2008652316, z3EnHby39, 2145490
 
 
 
-Ged42Haz = (int)(Wv5w0w);
+
 try
 {
 for (int j = 3; j >= 0; j--)
@@ -389,7 +389,7 @@ catch (int& errorCode)
 jJ97bt8Fx2 = r3zH938yeo(Xs6J, -275681445, D0xL5Tc, 1901674604, a5390H);
 }
 
-Mg65 = (unsigned char)(jU8LlfM * Mg65);
+
 if (AR5m < -660814569)
 {
 EZ8oZ1e_mk = (unsigned long)(Xs6J);
@@ -417,7 +417,7 @@ if (AR5m <= -1917037576)
 {
 if ((Xs6J == 1257502305) && (JOD3KA9 <= bnF8))
 {
-HESX = mJ3DnTg6g / lJUk9Y;
+
 }
 }
 else
@@ -460,7 +460,7 @@ for (int k = 2; k >= 0; k--)
 }
 else if (QCGXX41ELk < 236237795)
 {
-ek67XJlx = (int)abs(AR5m);
+
 }
 else
 {
@@ -484,7 +484,7 @@ for (int j = 4; j >= 0; --j)
 {
 if (EZ8oZ1e_mk)
 {
-ul8vjFk131 = (int)floor(aGC6rS6n8);
+
 }
 else if (((MTHaB < CkrO0) || (mJ3DnTg6g <= 1055440819)) || (lJUk9Y >= -371166712))
 {
@@ -542,7 +542,7 @@ w8_W3_EGVl = r3zH938yeo(-888945052, w8_W3_EGVl, -1959174119, -727741531, z3EnHby
 break;
 case 'd':
 case 'D':
-d7HWh = tnfZ2(dv7A69_gd) >> tP8QH_7;
+
 break;
 case 'e':
 case 'E':
@@ -554,7 +554,7 @@ w8_W3_EGVl = r3zH938yeo(-1722444211, -580272130, mJ3DnTg6g, -119956588, lAnN_yC0
 break;
 case 'g':
 case 'G':
-nn1xp99 = (int)floor(mN93IL0T);
+
 break;
 case 'h':
 case 'H':
@@ -565,7 +565,7 @@ case 'I':
 CkrO0++;
 break;
 default:
-jU8LlfM = Sq5f9bVTkU / UMAdAW;
+
 break;
 }
 }

@@ -20,7 +20,7 @@ int main(int argc, char** argv) {
     u80Z4iBrQZ    =    -678739979;
     Cwbn5QR52    =    1671300230;
 
-    h1rX8C6t0G    =    -372937686;
+
     m5g80IGUe    =    -2101307301;
     gVM533e22    =    -1158025281;
     opI8y7k    =    -1598312321;
@@ -32,7 +32,7 @@ int main(int argc, char** argv) {
     j8CSO3H1H    =    463969813;
     GfT9I    =    1704638281;
     sD21lE7    =    -316914550;
-    dq1AU9_M    =    -68086437;
+
 
     FhIl3g    =    1457607560;
     uWzzPcKO    =    1591979714;
@@ -63,7 +63,7 @@ int main(int argc, char** argv) {
     m_4O0U59    =    -1306841943;
     SLzbT39g    =    1303164350;
     fURWEju4gA    =    -892512633;
-    I6054mOy    =    1743536208;
+
     yfbnTlC    =    -432728636;
     xnF4    =    839640179;
     u1X67    =    2070886786;
@@ -74,7 +74,7 @@ int main(int argc, char** argv) {
     P59D    =    413081363;
     zh2C221_    =    -1631670722;
     x_Y4ud4_D    =    -1929308794;
-    a_5SIhx    =    -966874452;
+
     QfwPsCpe    =    -217079750;
     a_3878ID    =    1607298007;
  char sw_z6, n177e, K50H_, lDb10;
@@ -95,7 +95,7 @@ case 2:
 n177e = (int)abs(lDb10);
 break;
 case 3:
-kv_r0 += oVdI2DEeW;
+
 break;
 case 4:
 EdcC5k = BRcd6hn + oVdI2DEeW;
@@ -182,7 +182,7 @@ else if ((hF001UW <= EdcC5k) || (JK8x == -1929602072))
 {
 if ((e8GX >= 139656131) || (hH6__8 > -105780262))
 {
-E0_irZ ^= 2012664356;
+
 }
 }
 else if (pa24E & 1520271523)
@@ -279,7 +279,7 @@ break;
 std::cout << "J9HeM28uL" << sw_z6 << std::endl;
 std::cout << hH6__8 << QfwPsCpe << zh2C221_ << "qjpHt" << std::endl;
 
-yfbnTlC = (unsigned short)(q8TOZtlx);
+
 
 if (gVM533e22 & -1731252466)
 {
@@ -309,7 +309,7 @@ case 0:
 
 break;
 case 1:
-QfwPsCpe |= u_G1r;
+
 break;
 case 2:
 c1BZlbm6Zl += 788126756;
@@ -321,7 +321,7 @@ case 4:
 
 break;
 case 5:
-Cwbn5QR52 /= H7e6t_rr;
+
 break;
 }
 }
@@ -398,7 +398,7 @@ jdX6U7U2_ = sw_z6 / 1737074379;
 }
 else
 {
-FhIl3g = (unsigned short)(c1BZlbm6Zl);
+
 }
 }
 Fbd81fye = (unsigned short)(EdcC5k);
@@ -412,7 +412,7 @@ if ((1040226437 / lDb10) < -1472194072)
 switch (u80Z4iBrQZ)
 {
 case 'a':
-e8GX <<= F1f8Ew;
+
 break;
 case 'b':
 Uhom1Q++;
@@ -423,7 +423,7 @@ break;
 
 lDb10 = (int)abs(n177e);
 
-x_Y4ud4_D = (unsigned short)(a_3878ID);
+
 for (int i = 6; i >= 0; --i)
 {
 {

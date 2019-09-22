@@ -32,7 +32,7 @@ int main(void) {
     float    F0Xxs_d2yt;
     F0Xxs_d2yt    =    -697978229;
     long double    CSKeXeW3;
-    CSKeXeW3    =    -948486501;
+
     long long    zw5w1qGrt3;
     zw5w1qGrt3    =    2049549208;
  long MF31LYx;
@@ -124,7 +124,7 @@ t3CDkBoMcF = xre56qs / 1133156226;
 }
 else
 {
-CSKeXeW3 = (int)floor(F0Xxs_d2yt);
+
 }
 }
 }
@@ -190,7 +190,7 @@ if (cfQlcSGEG < -1577551634)
 }
 else
 {
-eAs5g61 = (int)abs(MF31LYx) * 0;
+
 }
 }
 }
@@ -221,7 +221,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-cEUJSHY >>= Mo1LGY;
+
 break;
 case 'c':
 case 'C':
@@ -237,7 +237,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-F0Xxs_d2yt = (int)floor(t3CDkBoMcF);
+
 break;
 case 'g':
 case 'G':
@@ -249,7 +249,7 @@ case 'H':
 break;
 }
 
-qBC67g3c = (int)(gavD2cB4_);
+
 return 0;
 }
 

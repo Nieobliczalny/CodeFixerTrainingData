@@ -366,7 +366,7 @@ Z0WA4RZN = (int)ceil(mcV2Y9d5);
 break;
 case 'c':
 case 'C':
-ASC97 = (int)floor(Z0WA4RZN);
+
 break;
 case 'd':
 case 'D':
@@ -468,7 +468,7 @@ if ((aNcO2 & eUOpb19) && (t_8RP_G5g7 != 1487777041))
 {
 if (aNcO2 & eUOpb19)
 {
-WNgREA9 -= eUOpb19;
+
 }
 }
 }

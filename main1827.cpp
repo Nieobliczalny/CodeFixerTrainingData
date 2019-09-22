@@ -41,7 +41,7 @@ int main() {
   unsigned int  GHNsBi;
   GHNsBi  =  -1887377533;
   unsigned int  FKnn8u2;
-  FKnn8u2  =  -949168;
+
 	long	dA6Fd7WK8;
 
  char OR8CNy;
@@ -61,7 +61,7 @@ int main() {
     char    XZkx;
     XZkx    =    1092340208;
  short oSaIxWE35;
- oSaIxWE35 = -551475203;
+
  unsigned char L2pVD;
  L2pVD = -428799453;
 	unsigned long long	y13T;
@@ -89,7 +89,7 @@ int main() {
   short int  qpEMlHBb;
 
   int  VpA557F8;
-  VpA557F8  =  258185795;
+
     unsigned long    wrP63w;
     wrP63w    =    -174719786;
  unsigned long long APPNCJ;
@@ -103,7 +103,7 @@ int main() {
  char br85aX_6p;
 
     unsigned long long    R8u9Eo6f8;
-    R8u9Eo6f8    =    519341153;
+
     unsigned long    jKB8V;
     jKB8V    =    -475163072;
     unsigned short    b522fJ0;
@@ -129,7 +129,7 @@ int main() {
     unsigned int    dnK8rA1;
     dnK8rA1    =    1732762478;
     long long    mW7RiI78RD;
-    mW7RiI78RD    =    -229399498;
+
 	unsigned long	w7iM;
 	w7iM	=	-949114503;
  long k4981S3ZF1;
@@ -145,7 +145,7 @@ int main() {
   unsigned short int  oKOs;
 
     unsigned long long    qT2aYk;
-    qT2aYk    =    1790387807;
+
 	long double	lkAE8HfxfW;
 	lkAE8HfxfW	=	266755538;
     short int    WOSKE;
@@ -229,7 +229,7 @@ while (k >= 0);
 }
 else
 {
-j18L0R1_ = hVn8_5y(-1771552636);
+
 }
 }
 catch (int& errorCode)
@@ -312,7 +312,7 @@ else
 int i = 4;
 do
 {
-mW7RiI78RD = (int)abs(XZkx);
+
 i--;
 }
 while (i >= 0);
@@ -390,7 +390,7 @@ case 0:
 F1cqg = j_B3 >> L2pVD;
 break;
 case 1:
-l1523 = wIm1b(1186818426, -880091631, 1802502890);
+
 break;
 case 2:
 
@@ -505,7 +505,7 @@ if (Q1s4n > tq7z25Ls)
 {
 for (int k = 0; k < 10; ++k)
 {
-JILi_ = (int)floor(lkAE8HfxfW);
+
 }
 }
 }

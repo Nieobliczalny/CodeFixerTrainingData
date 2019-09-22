@@ -304,7 +304,7 @@ else if (kQ6kLVe)
 }
 else if ((A6vUy1MWs > YhJkO_) || (YhJkO_ != -1472854877))
 {
-op8L9_Ofw = (int)abs(m6l169);
+
 }
 else
 {
@@ -358,7 +358,7 @@ case 3:
 nz8ee = ilDkw(fMa_4_G, bC9u2H);
 break;
 case 4:
-q666 = (Y383pltSf > -1542229688) ? Y383pltSf : 751818079;
+
 break;
 case 5:
 nz8ee /= P_YY8Wsq;
@@ -421,7 +421,7 @@ if ((op8L9_Ofw <= f5yV_D) || (m6l169 != -584313488))
 }
 else
 {
-q666 = (long double)(ZaTSe);
+
 }
 }
 return 0;

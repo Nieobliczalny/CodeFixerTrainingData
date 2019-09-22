@@ -52,7 +52,7 @@ int main(void)
  short qQ5P8;
  qQ5P8 = 1144497598;
 	long double	aoV_k2arN;
-	aoV_k2arN	=	764737394;
+
   double  vNmXDBBno;
   vNmXDBBno  =  -154112864;
 	unsigned short	O5urng;
@@ -297,7 +297,7 @@ tI2084w = (int)floor(W_c_);
 while (i >= 0);
 }
 
-eE8u = (int)abs(qMY_7);
+
 {
 int i = 0;
 do
@@ -309,7 +309,7 @@ while (i < 4);
 }
 
 std::cout << B_0Mw7R8Q << jE61G << "N_gr8R01KA" << "thtA957o" << "y86wDA" << std::endl;
-SVFec3b = vP_Em_03U >> 122974699;
+
 
 return 0;
 }

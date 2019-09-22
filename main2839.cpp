@@ -187,7 +187,7 @@ case 3:
 a1HzH6Z = N_skvKEr * sAye1yQ;
 break;
 case 4:
-iAyq287t = ECV_U * iAyq287t;
+
 break;
 case 5:
 HT0X_MWcW = ECV_U | ip9y5_Vs;
@@ -322,7 +322,7 @@ case 6:
 qj9Vfy17 |= 1974194642;
 break;
 case 7:
-sAye1yQ *= 297298752;
+
 break;
 case 8:
 Yeds1QB = HT0X_MWcW * nCYgZ0U30M;
@@ -351,7 +351,7 @@ else if (K8CpyW == -552428168)
 switch (EtcKX1988)
 {
 case 'a':
-u_I8g = (Vr5ZY7z) ? 2124646435 : XYN__SAYQ;
+
 break;
 case 'b':
 PbRX = n7Qpw ^ jv4Z_3;
@@ -457,7 +457,7 @@ case 4:
 
 break;
 case 5:
-u_I8g = G8HzhuP & TPDB_I4;
+
 break;
 case 6:
 HN6I0 /= 1335650135;
@@ -559,7 +559,7 @@ case 1:
 
 break;
 case 2:
-n7Qpw = i4mp6A9u2 + sP62O8uqJp;
+
 break;
 default:
 e8jQ7u90g -= b8YPe_;

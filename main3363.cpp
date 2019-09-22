@@ -29,7 +29,7 @@ int main(void) {
     // codechecker_intentional [deadcode.DeadStores] Design rule - initialize all variables
 	BSYR9D  =  c64UYBG6W  =  wIx8Y  =  P0036jF93  =  s7p4hcM  =  0;
 
-iQqOJG = z1t7zf2 ^ qNQb;
+
 
 {
 int i = 7;
@@ -52,7 +52,7 @@ else
 {
 if (wb2uK >= -690437556)
 {
-f58F = Z4nO5(749272008, 1770135510, vPShQ);
+
 }
 else
 {
@@ -111,7 +111,7 @@ while (j < 7);
 }
 else
 {
-RDW2 = Z4nO5(554555788, A0Y4Jzd1P, Mvtyo);
+
 }
 B52mMB3 <<= o093_n;
 
@@ -121,7 +121,7 @@ if (v2_6hiJ & Qa2juL50)
 {
 if (GA6NXi_ >= -667677338)
 {
-VYHB3 = TAEde2w(-391108694, -513178178, 1938240953);
+
 }
 else if (jYqhnPxwW != 1063046485)
 {
@@ -133,7 +133,7 @@ XO_8P6_47 %= 236581620;
 }
 else
 {
-IWTjNT1_1 = MQr5kI * bOUaej9b;
+
 }
 }
 }
@@ -144,7 +144,7 @@ dh1Z1 = (int)(WYV54YoBz);
 d5y_989P8r = TAEde2w(1798866241, 675629683, 782555194);
 if (i_5F < T351m)
 {
-WYV54YoBz += wb2uK;
+
 }
 YyJrme7I77 = (int)(jq16w7B29);
 return 0;

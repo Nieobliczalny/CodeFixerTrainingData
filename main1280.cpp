@@ -330,7 +330,7 @@ S4Wb9 = (int)floor(Tsy_5jrAr);
 }
 
 
-X6k80_p8p |= 684477385;
+
 for (int i = 0; i < 2; ++i)
 {
 bW07WsY = (int)abs(Tsy_5jrAr);

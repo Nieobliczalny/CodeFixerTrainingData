@@ -41,7 +41,7 @@ int main() {
  unsigned short int A4bJA;
  A4bJA = -1910530486;
 	unsigned long	t8o5tD;
-	t8o5tD	=	2061591509;
+
     double    G5F9D8;
 
  int I6qi6N62e;
@@ -51,7 +51,7 @@ int main() {
 	float	l_yS1E;
 	l_yS1E	=	1693494916;
     unsigned short int    Mp9zgaG;
-    Mp9zgaG    =    -1075104758;
+
     long long    yZv38l;
     yZv38l    =    -342068581;
  int BFFFO2gZ5Y;
@@ -61,7 +61,7 @@ int main() {
   int  X9hr_Son5;
   X9hr_Son5  =  -1069929243;
     unsigned short    sePM;
-    sePM    =    0;
+
     unsigned long long    i_TQ;
     i_TQ    =    -2098411082;
 	long long	oXHS96;
@@ -71,7 +71,7 @@ int main() {
     unsigned long long    oxWOPA;
     oxWOPA    =    -1532594964;
   long long  v0_rh26_;
-  v0_rh26_  =  1553334722;
+
  unsigned int op6LZE0;
  op6LZE0 = -991304595;
 	long	PVIR5;
@@ -103,7 +103,7 @@ int main() {
 	unsigned long	Lts9;
 
   unsigned int  UKo4;
-  UKo4  =  1719456006;
+
 	unsigned long long	K_G1Ef;
 	K_G1Ef	=	-489078124;
 	unsigned short int	B3atvyQh8;
@@ -172,7 +172,7 @@ std::cout << w5RlR() << std::endl;
 int i = 0;
 while (i < 2)
 {
-sePM = VxFHt(-373897889, ylhGqs, 231404716);
+
 ++i;
 }
 }
@@ -207,7 +207,7 @@ yZv38l /= qkgFpU_zKM;
 }
 ylhGqs = x4J0 + y8p2wb;
 std::cout << VxFHt(I6qi6N62e, ylhGqs, 1518378538) << w5RlR() << x4cjXUxglc() << VxFHt(1879596372, ylhGqs, yZv38l) << std::endl;
-GZPEVOZ5yJ = -1809187360 / VxFHt(1304967393, -1050400618, yZv38l);
+
 {
 int i = 1;
 while (i >= 0)
@@ -223,7 +223,7 @@ else
 }
 }
 }
-zj2k ^= ylhGqs;
+
 
 L26f5L9 = N8BtO0_S();
 H4mb /= 961434120;

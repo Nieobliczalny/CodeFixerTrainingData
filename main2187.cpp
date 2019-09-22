@@ -611,7 +611,7 @@ Ft9d_0k = M538 & Jdd0_Z0A;
 }
 else
 {
-L69K = (int)abs(qk4bME);
+
 }
 }
 }
@@ -657,7 +657,7 @@ else
 
 for (int i = 0; i < 3; i++)
 {
-aQpVf60_0 = (unsigned short int)(qk4bME);
+
 }
 return 0;
 }

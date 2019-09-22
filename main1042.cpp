@@ -203,7 +203,7 @@ case 'f':
 KgnUxtE_F = HY_8 | 1024930358;
 break;
 case 'g':
-dJTL = h4MRihe_76(qv8h6IOq3b, HY_8, 159066395) - KgnUxtE_F;
+
 break;
 case 'h':
 co9YH6A2SG--;

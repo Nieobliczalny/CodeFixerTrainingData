@@ -65,7 +65,7 @@ do
 {
 try
 {
-ELEi = (long)(cfhS0L);
+
 }
 catch (int& errorCode)
 {
@@ -84,7 +84,7 @@ case 0:
 
 break;
 default:
-H5wl46W4NE = vOUALd6gMJ(H5wl46W4NE, eW7iI, J9hokq);
+
 break;
 }
 }

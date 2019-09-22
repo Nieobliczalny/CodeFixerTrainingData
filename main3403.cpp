@@ -14,7 +14,7 @@ int main() {
   banBmxubrK  =  0;
   ew6iCox380  =  0;
   U___HNN  =  0;
-  W2IgbczUd_  =  0;
+
   double  rw8dpg,  R4NGb8q98N,  lP8C0e,  uvzb9S0yR,  EPjEQSHN,  zRrM,  JTW5,  JqOnszvw7,  jU4Cgr_,  vUpcj3,  udcAntAc,  mwiD,  bOpl4cq,  ox9o82e,  brj5035T,  uI_919,  OOC_w,  UA6v7ob,  gyTS_k,  x96z9F1cM,  z9b_p,  g71FIBT_4d,  h9aOG_cAY8;
   rw8dpg  =  170170878;
   R4NGb8q98N  =  -1280611231;
@@ -26,7 +26,7 @@ int main() {
   JqOnszvw7  =  103915990;
   jU4Cgr_  =  -805024302;
   vUpcj3  =  542087145;
-  udcAntAc  =  -244858217;
+
   mwiD  =  897986639;
   bOpl4cq  =  -288862425;
   ox9o82e  =  -1233241545;
@@ -152,7 +152,7 @@ case 'c':
 uvzb9S0yR = (int)floor(EPjEQSHN);
 break;
 case 'd':
-jU4Cgr_ = (int)floor(h9aOG_cAY8);
+
 break;
 case 'e':
 bOpl4cq += 828056310;
@@ -164,7 +164,7 @@ case 'g':
 
 break;
 case 'h':
-x96z9F1cM *= 1460045026;
+
 break;
 }
 std::cout << "PC3w" << ox9o82e << UA6v7ob << "aRQxXl" << std::endl;
@@ -183,7 +183,7 @@ case 3:
 brj5035T = (int)ceil(uvzb9S0yR);
 break;
 case 4:
-g71FIBT_4d = JTW5 - 119177928;
+
 break;
 case 5:
 gyTS_k = (bOpl4cq < CS7pb) ? 1822248847 : gyTS_k;
@@ -195,7 +195,7 @@ case 7:
 
 break;
 default:
-mwiD = (int)floor(g71FIBT_4d);
+
 break;
 }
 

@@ -140,7 +140,7 @@ case 0:
 
 break;
 case 1:
-t2gs = (int)abs(q44jM4eE);
+
 break;
 default:
 i0QdMHS1b_ = D4Sk << pAK0i;
@@ -180,7 +180,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-b812m0zW = op9vv7x5(t2gs, -1213327834, ASvCHGs);
+
 break;
 case 'f':
 case 'F':
@@ -207,7 +207,7 @@ for (int j = 0; j < 2; ++j)
 {
 for (int k = 0; k < 6; ++k)
 {
-pAK0i = MQ_wgdof(1436356530);
+
 }
 }
 }
@@ -235,7 +235,7 @@ case 2:
 FT6zUVD2W1 = (int)floor(JY_D924Pj);
 break;
 case 3:
-i0QdMHS1b_ = er_OV0 - 361661486;
+
 break;
 }
 }

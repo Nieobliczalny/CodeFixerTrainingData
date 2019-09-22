@@ -19,7 +19,7 @@ int main(void)
  vIPc5l = 578641974;
  cTvh5svR0 = -1436262150;
  NCX24XDS4 = -2065133642;
- re2e_4 = -1267987612;
+
  WtMvO_3g = -2082843652;
  K_1d = -1379555610;
  cWyEC689 = -523986017;
@@ -34,7 +34,7 @@ int main(void)
  S501VQo6vT = 531904128;
  IYd6jh = 962528287;
  yGS97hE = 2050481098;
- IyGoE3li1 = 2031382824;
+
  z_Sp0fk = 247241720;
  A454793Jn = 2084175983;
  PM1W = 1694578044;
@@ -65,7 +65,7 @@ if (d_kmys != 328746377)
 }
 else if (((DtgtM <= 1663673918) || (K_1d != 851037294)) && ((Nr4i5gZ_l == dw0_CHz988) || (Nr4i5gZ_l < 994962288)))
 {
-re2e_4 = (int)floor(dw0_CHz988);
+
 }
 else if (NCX24XDS4 < 1163511682)
 {
@@ -172,7 +172,7 @@ break;
 }
 try
 {
-KoH2_ = (long double)(vIPc5l);
+
 }
 catch (int& errorCode)
 {
@@ -279,7 +279,7 @@ case 'c':
 hVu855 = M58jv8r2H(vIPc5l);
 break;
 case 'd':
-h_0vzfTs = X56e5O21k / 1171399954;
+
 break;
 case 'e':
 

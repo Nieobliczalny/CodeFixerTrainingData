@@ -28,7 +28,7 @@ int main(int argc, char** argv)
 	int	y3jlNlH,	lQUR6Ke_Jk,	Wj74CZBjMs,	f824XY,	AmMBgH,	zx56LW,	eo_o_Xoz72,	q_6x8z43ZV,	UHWxc0,	s9hjRm8,	FD5I3Po,	c2BQ,	JV40n0en,	r4WLt,	ANdsA,	mDd9Z6To,	X65mAY,	Z3Y0sPUoh5,	C0Qmi,	DZ7o7,	xAi5IPw5b,	kBFXfzsus,	az00SBLRk6,	af2ju0q,	fCa_xy_1,	C8Gs4k7z5,	oBYVH;
 
 	lQUR6Ke_Jk	=	836386149;
-	Wj74CZBjMs	=	-1804547363;
+
 	f824XY	=	130375819;
 	AmMBgH	=	-673384867;
 	zx56LW	=	1547283630;
@@ -51,7 +51,7 @@ int main(int argc, char** argv)
 
 	af2ju0q	=	1604295013;
 	fCa_xy_1	=	-1160064942;
-	C8Gs4k7z5	=	-1429360644;
+
 	oBYVH	=	-1640635846;
 
 eo_o_Xoz72 = X65mAY / KTZy1;
@@ -82,7 +82,7 @@ if ((JV40n0en == mDd9Z6To) && (kBFXfzsus >= xAi5IPw5b))
 {
 if (af2ju0q == 2117664806)
 {
-FD5I3Po = c2BQ / fCa_xy_1;
+
 }
 }
 }
@@ -142,7 +142,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-X65mAY = UHWxc0 * r4WLt;
+
 break;
 case 'e':
 case 'E':
@@ -157,7 +157,7 @@ switch (AmMBgH)
 {
 case 'a':
 case 'A':
-y3jlNlH = kBFXfzsus >> 1468344416;
+
 break;
 case 'b':
 case 'B':
@@ -169,7 +169,7 @@ lQUR6Ke_Jk = UrFE8R_7(lQUR6Ke_Jk);
 break;
 case 'd':
 case 'D':
-f824XY *= kBFXfzsus;
+
 break;
 case 'e':
 case 'E':
@@ -181,7 +181,7 @@ int i = 0;
 do
 {
 i++;
-UHWxc0 = (int)abs(s9hjRm8);
+
 }
 while (i < 5);
 }

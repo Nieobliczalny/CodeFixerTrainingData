@@ -329,7 +329,7 @@ while (j >= 0);
 }
 }
 }
-RSwLX577dc = (unsigned short int)(QzWkNQ);
+
 for (int i = 0; i < 6; ++i)
 {
 if (Vgn584 == 771359698)

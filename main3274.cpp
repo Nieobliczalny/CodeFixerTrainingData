@@ -143,7 +143,7 @@ Eo8T3NR_Z = V6i_Y74f(1698212885, Eo8T3NR_Z, -1562767878);
 }
 }
 }
-ouPC = (int)abs(Eo8T3NR_Z);
+
 
 for (int i = 0; i < 7; ++i)
 {
@@ -483,7 +483,7 @@ case 'b':
 YjnpwZO11 = j5o0(YjnpwZO11, 122983692, 748902695, -618345926, q_H9_39J);
 break;
 case 'c':
-Eo8T3NR_Z = V6i_Y74f(E6y9, 610040617, q_H9_39J);
+
 break;
 case 'd':
 E6y9 = q_H9_39J & Fk55za;

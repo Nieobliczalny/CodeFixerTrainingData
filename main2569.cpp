@@ -37,7 +37,7 @@ int main(int argc, char** argv)
 	long long	yD2Dv;
 	yD2Dv	=	1935356737;
  char U_65;
- U_65 = -1704836628;
+
  long f7R4e539OA;
  f7R4e539OA = 1888506788;
   unsigned char  TLpVf94;
@@ -403,7 +403,7 @@ else if (UYPS <= L21C58NlK)
 {
 if (bpjg4 & zWG8sw7j)
 {
-U_65 /= 628724962;
+
 }
 }
 else if (pir72TI)
@@ -426,7 +426,7 @@ else
 {
 for (int k = 0; k < 5; k++)
 {
-U_65 = qPfXK(-1901396122, 28477405, TLpVf94, -1908683442);
+
 }
 }
 }
@@ -599,7 +599,7 @@ int k = 2;
 do
 {
 --k;
-yD2Dv = (int)abs(pir72TI);
+
 }
 while (k >= 0);
 }

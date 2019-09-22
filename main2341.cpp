@@ -139,7 +139,7 @@ case 8:
 AT_lQ68AUX *= 1289765727;
 break;
 default:
-a3fTR_j = (int)abs(aXN0_oKsN);
+
 break;
 }
 }
@@ -180,7 +180,7 @@ while (j < 3);
 Mwr8si3Oc8 = HT_RW - 1271011545;
 R_lh9Kn2oM = l7280Wv_Om(R_lh9Kn2oM, -645390917, jgbr, 570654000, Z0w_9xD);
 
-EZ6jaUuN = (double)(lpKGZFwQu);
+
 if ((672991009 / xJZ0(R_lh9Kn2oM)) == -1733083497)
 {
 tkIQ = C5dNCrwaS / Ol_pF6w;
@@ -239,7 +239,7 @@ b9L_F = (int)floor(x_L3);
 }
 else
 {
-WezWMju = (int)ceil(SHdgj128Z);
+
 }
 }
 else

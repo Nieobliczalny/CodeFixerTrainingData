@@ -16,6 +16,7 @@ int main(int argc, char** argv) {
     unsigned int    qInAST54;
         qInAST54    =    0;
  double wW_1mJl2, Ep6AUM3n, QVPtx9_593, mlmK_Kp4N, TEW8g6, j38BUmg, Z9Q3n9O, vrO0GA03eC, Kf441, H0k1h6i, XX1WP6apt, M23ys5s3b8, rIb0V7D1_, EyhP1FFvd9, Y033qR1wga, V8_EC, ZmZR153F, gJ00BL0FdX, NCy8X3U3j, L8s904Ne, D7QZ, WU1xlc, uBoEPgS, on1I, ndjjGJN7, UycfxAHS, Ma_EBTi, PkNdyJb1, PSUDPj8, xEtxF, h_1pP6T, pM309za6qV, PLqlr_, Te4S1X, okeY_4X, kf29s3, ugZl, b7oppm3N3m, iF1B22GJe, h8m8oy2, P41A_, fx52Qf0, i5pow5_35m, Fy193O, lw7i, UbKg1fp, zl88r020F2, u4Tgqy, u5Zavtt_8, K03X4N, Ys6uA_, SJaK59mp7u, OV7xW_l, Wu5s, zH1I18, Vc7X6p, Em3838_hKu, FC22i2, n2X_yx52w, EpvFgz5lQe, yf5In, I0a0DVfN, XMF3, XC8v8Mf82_, GhrO, q_Bcx, cHpZvbDh1;
+  // codechecker_intentional [deadcode.DeadStores] Design rule - initialize all variables
   wW_1mJl2 = Ep6AUM3n = QVPtx9_593 = mlmK_Kp4N = TEW8g6 = j38BUmg = Z9Q3n9O = vrO0GA03eC = Kf441 = H0k1h6i = XX1WP6apt = M23ys5s3b8 = rIb0V7D1_ = EyhP1FFvd9 = Y033qR1wga = V8_EC = ZmZR153F = gJ00BL0FdX = NCy8X3U3j = L8s904Ne = D7QZ = WU1xlc = uBoEPgS = on1I = ndjjGJN7 = UycfxAHS = Ma_EBTi = PkNdyJb1 = PSUDPj8 = xEtxF = h_1pP6T = pM309za6qV = PLqlr_ = Te4S1X = okeY_4X = kf29s3 = ugZl = b7oppm3N3m = iF1B22GJe = h8m8oy2 = P41A_ = fx52Qf0 = i5pow5_35m = Fy193O = lw7i = UbKg1fp = zl88r020F2 = u4Tgqy = u5Zavtt_8 = K03X4N = Ys6uA_ = SJaK59mp7u = OV7xW_l = Wu5s = zH1I18 = Vc7X6p = Em3838_hKu = FC22i2 = n2X_yx52w = EpvFgz5lQe = yf5In = I0a0DVfN = XMF3 = XC8v8Mf82_ = GhrO = q_Bcx = cHpZvbDh1 = 718115173;
 
 try

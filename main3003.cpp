@@ -115,7 +115,7 @@ case 0:
 
 break;
 case 1:
-y2JVC = pNRq << 1937887719;
+
 break;
 case 2:
 nzlxc = (int)abs(n2f7sGZ);
@@ -127,7 +127,7 @@ case 4:
 
 break;
 case 5:
-n2f7sGZ = POxFTg6();
+
 break;
 case 6:
 n2f7sGZ = POxFTg6();
@@ -165,7 +165,7 @@ s_T8507R1O = W6R4UPna << c8pS02a;
 break;
 case 'b':
 case 'B':
-n2f7sGZ = POxFTg6();
+
 break;
 default:
 
@@ -231,7 +231,7 @@ while (i < 5);
 int i = 0;
 do
 {
-n2f7sGZ = (int)abs(PHYsG__);
+
 i++;
 }
 while (i < 9);

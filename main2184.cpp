@@ -142,7 +142,7 @@ case 'b':
 
 break;
 case 'c':
-Om59 = ntz7() & 1104514944;
+
 break;
 case 'd':
 NfwQ8QA33A = S2VTD_pC(NfwQ8QA33A, -376176516, Rr7e5S7, 1775252410);
@@ -440,7 +440,7 @@ case 'H':
 break;
 case 'i':
 case 'I':
-i1XrG_i5C_ %= 1337894756;
+
 break;
 case 'j':
 case 'J':
@@ -454,7 +454,7 @@ break;
 }
 else
 {
-a436_pJW = (unsigned long)(fitEvS0Uu);
+
 }
 
 if (wD5Z == 0)
@@ -468,7 +468,7 @@ if (rm6U1lQ_ < I460P767)
 {
 try
 {
-I460P767 = KBHwJ6D(I460P767, -616774550);
+
 }
 catch (int& errorCode)
 {
@@ -491,7 +491,7 @@ if (jA4S9G1fB2 & -2114553194)
 switch (dJt5_Xyti)
 {
 case 0:
-I460P767 = CD_6L5p / 859979981;
+
 break;
 case 1:
 I460P767 = W8syl2QL06 ^ 1345813115;
@@ -503,7 +503,7 @@ case 3:
 T2u0l6DAL = (int)abs(wD5Z);
 break;
 case 4:
-AAHiL3 = KBHwJ6D(AAHiL3, AzMrg9fU);
+
 break;
 case 5:
 WYlmRub_zT = S2VTD_pC(WYlmRub_zT, CD_6L5p, -2021511593, rm6U1lQ_);

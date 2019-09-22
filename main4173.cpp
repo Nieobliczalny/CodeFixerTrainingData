@@ -329,7 +329,7 @@ HQ0CO = (long double)(T7T30Dj + (-342537822));
 }
 try
 {
-T7T30Dj = Yvw_x(-901165524, -1990951604, -2055493761);
+
 }
 catch (int& errorCode)
 {
@@ -350,7 +350,7 @@ case 1:
 gZaPW01si6 = Yvw_x(gZaPW01si6, rFHGO9_a, -1867388248);
 break;
 case 2:
-ZjLQQNH = (int)abs(RO3aD9vN) * 0;
+
 break;
 case 3:
 t33g586 = Yw4H32cFwe(26515502, 241472170, m5sxqc_, dr369e) - 1477747845;

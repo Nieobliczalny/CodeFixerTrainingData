@@ -29,7 +29,7 @@ kDwtiO = w_U1l_Ao7p(650434884, PX__GfU4l, 570371048, q4qQ) / w_U1l_Ao7p(14918234
 
 try
 {
-CFAPwbIfm6 %= 1507478172;
+
 }
 catch (int& errorCode)
 {
@@ -157,7 +157,7 @@ for (int j = 0; j < 6; ++j)
 {
 if ((yxev_6r9KV < o321g3K) || ((VJCb < 953797559) || (PX__GfU4l >= CFAPwbIfm6)))
 {
-IJ7KR3 = w_U1l_Ao7p(-862141269, d3_x, 1317395114, -1692116904);
+
 }
 }
 }

@@ -25,7 +25,7 @@ int main(int argc, char** argv) {
 	w21n45	=	0;
 	char	XwXR,	a5dbe,	cRQEMCh,	Eeb5,	JN0E45ub,	WlWNN2j,	VWXN,	skOBb,	z3F8zflm,	hJH22w,	wVYrvS0,	bCXfnX,	USYF6Z01U5,	kT9QN79I,	b_e9f,	flFJT,	D977x50Hqu,	G7Q3,	Qa9S_B4,	dm3Shgp,	I4W1H0AKB,	e5M1Fyks,	Sx6721M,	yiPc,	Y09UAwqK5,	Zh2it3,	U4jInD_8W,	sP1CK_bf2,	BU8a,	jXWF,	L1Sc1X7di,	o5P6SEcb7,	ZVBz7QX,	Or5ls,	XPp54A4Ot;
 
-	a5dbe	=	1163107507;
+
 	cRQEMCh	=	-651469954;
 	Eeb5	=	814441104;
 	JN0E45ub	=	-2070002029;
@@ -43,7 +43,7 @@ int main(int argc, char** argv) {
 	D977x50Hqu	=	1847820774;
 	G7Q3	=	-184782423;
 	Qa9S_B4	=	939128672;
-	dm3Shgp	=	-489333908;
+
 	I4W1H0AKB	=	-381177528;
 	e5M1Fyks	=	-1446343170;
 	Sx6721M	=	1778100153;
@@ -68,7 +68,7 @@ Eeb5--;
 break;
 case 'b':
 case 'B':
-USYF6Z01U5 <<= 747395197;
+
 break;
 case 'c':
 case 'C':
@@ -203,7 +203,7 @@ else
 switch (kT9QN79I)
 {
 case 'a':
-Y7C5v3q9 = sxn1660wiu(700534143, 2727848);
+
 break;
 case 'b':
 Or5ls = (ZVBz7QX != 1717284327) ? b_e9f : -2061651382;
@@ -215,7 +215,7 @@ case 'd':
 
 break;
 case 'e':
-Y09UAwqK5 &= I4W1H0AKB;
+
 break;
 case 'f':
 VWXN = jXWF - 991626578;
@@ -227,7 +227,7 @@ case 'h':
 
 break;
 case 'i':
-Y09UAwqK5 |= G7Q3;
+
 break;
 default:
 kT9QN79I = q_PQnhP9VJ(-1720402454, 1878869216, -689298764, jXWF, 1788640273);

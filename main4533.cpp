@@ -47,7 +47,7 @@ for (int i = 8; i >= 0; --i)
 {
 
 }
-Nhi_q_ = (int)floor(x3l7WQS_);
+
 
 std::cout << "bAe74KZup" << bsiQZeeM << std::endl;
 
@@ -86,7 +86,7 @@ case 1:
 
 break;
 case 2:
-tAhFDtD9_4 = (int)floor(mGgDq);
+
 break;
 case 3:
 E1Tt5 = (M3_k != bsiQZeeM) ? x3l7WQS_ : fX_OE0MNfd;
@@ -104,7 +104,7 @@ if (E1Tt5 < 1985033953)
 switch (u_hW)
 {
 case 0:
-d27CvkF = (I51aG63ZL <= -650002550) ? OT_O8C : -881883367;
+
 break;
 case 1:
 

@@ -313,7 +313,7 @@ catch (int& errorCode)
 {
 kPFn5Gh_uP = (int)ceil(W9Vk1CN);
 }
-dUO_4N = (int)(Es_31sBu);
+
 bfP4sPw++;
 if (L5wWK == 1304383411)
 {
@@ -348,7 +348,7 @@ case 'a':
 
 break;
 case 'b':
-Ov9W4H1 = jeZI();
+
 break;
 case 'c':
 NYXYD7bI -= 2146953481;
@@ -366,7 +366,7 @@ case 'g':
 
 break;
 case 'h':
-Ov9W4H1 = jeZI();
+
 break;
 case 'i':
 m2Run1 %= 1139014118;

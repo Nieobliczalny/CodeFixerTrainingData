@@ -71,7 +71,7 @@ int main() {
   char  JKqdm7y;
   JKqdm7y  =  -1261164118;
   unsigned short int  v_Nbdg;
-  v_Nbdg  =  303924611;
+
   unsigned long long  WpR1Qv;
   WpR1Qv  =  0;
 	unsigned int	Jq42t_;
@@ -83,7 +83,7 @@ int main() {
     double    VNA0eu8T;
     VNA0eu8T    =    -1232855499;
  float sz39;
- sz39 = 1536053356;
+
 	unsigned long long	e267fMmI;
 	e267fMmI	=	850627421;
  unsigned long p4345;
@@ -157,7 +157,7 @@ int main() {
  unsigned char v_3suz1;
  v_3suz1 = 1195910713;
  unsigned int qNf_O;
- qNf_O = 235552942;
+
     short int    Z2jWx3GfYy;
     Z2jWx3GfYy    =    317135747;
  char TI6e8;
@@ -177,7 +177,7 @@ int main() {
  double F3_b7gl3;
  F3_b7gl3 = 308304775;
   unsigned int  XMOu7M6;
-  XMOu7M6  =  1400826553;
+
   int  Psc5P8o;
   Psc5P8o  =  1257151805;
     short int    hBrAz65bb_;
@@ -205,7 +205,7 @@ int main() {
 	unsigned int	jhsi2nU;
 
   unsigned char  wLE3FhH53;
-  wLE3FhH53  =  58655981;
+
 
 switch (DVUJ0htmR)
 {
@@ -313,7 +313,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-EGHBREq99f |= z91y;
+
 break;
 case 'd':
 case 'D':
@@ -328,7 +328,7 @@ case 'F':
 HLT936MwN = (int)floor(EmDEnu);
 break;
 default:
-tF9T_X_71U &= 296604618;
+
 break;
 }
 
@@ -446,7 +446,7 @@ case 'd':
 Y7BJ = We4W3IM13T % RJq3IzbNU;
 break;
 case 'e':
-wLE3FhH53 = C0a4788O27 & z473_PQ2d0;
+
 break;
 }
 }
@@ -602,7 +602,7 @@ catch (int& errorCode)
 {
 C53T6yLR_ = f3IZzmz8WA ^ AeKIp87WF;
 }
-sz39 = (float)(Pkg654);
+
 switch (z338NiFT)
 {
 case 0:
@@ -615,7 +615,7 @@ case 2:
 
 break;
 case 3:
-thZ6wp9Y = ZqgBHZ5iM >> KmVDVe8X4;
+
 break;
 case 4:
 F3_b7gl3 += ebf865;
@@ -633,7 +633,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-d5O1 = e267fMmI % 573393519;
+
 break;
 case 'c':
 case 'C':
@@ -645,7 +645,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-JKqdm7y |= x53UK8;
+
 break;
 case 'f':
 case 'F':
@@ -658,7 +658,7 @@ break;
 
 if ((SGByI6_JHi == 1826639201) || ((u5JRxemgP & -212704322) && (u5JRxemgP)))
 {
-cQ067dac = (int)ceil(VNA0eu8T);
+
 }
 for (int i = 0; i < 10; ++i)
 {
@@ -692,7 +692,7 @@ if (HxIqIxWj4 <= -983487891)
 {
 for (int k = 5; k >= 0; --k)
 {
-Ts9_A = (int)floor(JV04L);
+
 }
 }
 else if ((IZIg == 1319132119) || (AT7siNVO2l <= eK7Bz))
@@ -720,7 +720,7 @@ else
 int k = 0;
 while (k < 3)
 {
-m_B_xEV4I = C53T6yLR_ + 1851073826;
+
 ++k;
 }
 }

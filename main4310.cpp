@@ -188,7 +188,7 @@ kanNr = L99k(Et9df6II);
 break;
 case 'f':
 case 'F':
-x7y068po = L99k(I4E4g648NL);
+
 break;
 case 'g':
 case 'G':
@@ -544,7 +544,7 @@ case 'F':
 KS0A4vE++;
 break;
 default:
-B6r75xS = POtXEC0 / 1750130008;
+
 break;
 }
 
@@ -560,7 +560,7 @@ switch (pZ3a33I)
 {
 case 'a':
 case 'A':
-G__F = L99k(G__F);
+
 break;
 case 'b':
 case 'B':

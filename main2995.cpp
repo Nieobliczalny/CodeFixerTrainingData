@@ -489,7 +489,7 @@ catch (int& errorCode)
 {
 oq0yy_Yy = BT3H1Dc4Y >> BN80Kn;
 }
-bgPI = (unsigned char)(Ej2ul);
+
 
 {
 int i = 0;
@@ -662,7 +662,7 @@ while (i >= 0);
 
 
 std::cout << Sfoh5M666(h2hWY3, V3BwwbhOA, Y46P0, -1140101209) << S1VK415p << "z8Mb0" << std::endl;
-Z_rj = (int)floor(P591g4j82);
+
 
 switch (LE15)
 {
@@ -673,7 +673,7 @@ case 'b':
 
 break;
 case 'c':
-o0hz_CE_9r = (int)abs(F7HQ);
+
 break;
 }
 

@@ -252,7 +252,7 @@ case 1:
 WK9nUG %= 334986314;
 break;
 case 2:
-w7sd4 = (int)abs(yev_2) + (-200259670);
+
 break;
 case 3:
 w7sd4 -= V3y_Hv;
@@ -315,7 +315,7 @@ case 2:
 
 break;
 case 3:
-DAMrcIj1G ^= 960140757;
+
 break;
 case 4:
 PwJ_ = t92Hwu12(PwJ_, b56DJ9bw2u, 1628067504, 855216546, 1296365100);
@@ -327,7 +327,7 @@ case 6:
 
 break;
 case 7:
-k7xjaD7Vq8 = e3Z1q01 - 2018212622;
+
 break;
 default:
 Lu6yMy = (int)ceil(EC29DA9D_a);
@@ -340,7 +340,7 @@ else if ((WK9nUG != 1072354043) || (X_PXv2Ol_7 > -467186931))
 }
 else if (((NDIARNe & -1536169378) && (NDIARNe > cscm)) || (EC29DA9D_a <= -231667266))
 {
-Lu6yMy = u5oInE(Lu6yMy, -1814204553);
+
 }
 else
 {
@@ -361,7 +361,7 @@ std::cout << t92Hwu12(Lu6yMy, EC29DA9D_a, NX6hU463G2, 1456544155, -1535113417) <
 int i = 0;
 do
 {
-BP__5M0aY = Ob9w4P6P_ + 866971827;
+
 ++i;
 }
 while (i < 10);

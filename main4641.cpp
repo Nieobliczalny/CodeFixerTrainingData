@@ -28,7 +28,7 @@ int main(void)
 switch (OExMq55)
 {
 case 'a':
-SM_v = z758f5(SM_v, 1213965403, r3CQllRp);
+
 break;
 case 'b':
 b4d6w78lif = p605Lj6unG(-1347832716, uz2J, WXpq3jN, -713616830, k5sb2BrPI);
@@ -40,7 +40,7 @@ case 'd':
 n8NcHM = i9rS1q9g(617532624, MK1gtbrA, qJM36YsK, K8p_8o4h1, b4d6w78lif);
 break;
 case 'e':
-kzU2NM = (qJM36YsK < WMrX0) ? IoE90sD : q1B_9_88oQ;
+
 break;
 case 'f':
 kzU2NM = z758f5(1672924260, -1112656293, 1214454593);

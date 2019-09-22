@@ -84,7 +84,7 @@ int main(int argc, char** argv)
     unsigned long    n0Jeo;
     n0Jeo    =    1374235918;
     unsigned long    oTuKEgH6;
-    oTuKEgH6    =    -1229137813;
+
   unsigned short  vATU26;
   vATU26  =  0;
     unsigned short    Ijcnr;
@@ -102,7 +102,7 @@ int main(int argc, char** argv)
     unsigned int    Y2u1oJGW;
     Y2u1oJGW    =    -958739687;
  char p02O8y;
- p02O8y = -307627854;
+
   long double  R31M90sI;
   R31M90sI  =  376284009;
 	long double	wCj299Rdv;
@@ -122,7 +122,7 @@ int main(int argc, char** argv)
 	long double	mqqIyq_X;
 	mqqIyq_X	=	-600620344;
   long double  oA8E;
-  oA8E  =  1614448582;
+
     char    D_zI;
     D_zI    =    -469817353;
 	unsigned long	q2y3XCK;
@@ -148,7 +148,7 @@ int main(int argc, char** argv)
  unsigned long long MN9Tw;
  MN9Tw = -1839589019;
   unsigned int  iMh0_R0q;
-  iMh0_R0q  =  932519015;
+
  int j7sNLK_ng;
  j7sNLK_ng = 752172785;
     unsigned short    t55wUb;
@@ -200,7 +200,7 @@ int main(int argc, char** argv)
   long double  ZBd8;
   ZBd8  =  812959916;
 	double	Q6we;
-	Q6we	=	-2130225206;
+
 	long long	jP129z6E;
 	jP129z6E	=	1158719094;
 	int	g6l6Npe;
@@ -473,7 +473,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-vATU26 = Z1_0g3d(803136808, 516711479, -1750343526, JM34fZL, 452375355);
+
 break;
 case 'g':
 case 'G':
@@ -517,7 +517,7 @@ case 4:
 Z_J80_zt = (int)abs(IEPsbpKheW);
 break;
 case 5:
-vt1l2Y = JRM2 << 1756076829;
+
 break;
 case 6:
 
@@ -562,7 +562,7 @@ if (HmD7nm1s & -3154944)
 }
 else if ((tU743c0e1j != 306179562) || (H96zttgt23 <= pH647))
 {
-Juy4G9a1o_ = Z1_0g3d(-1528963704, Twq4c_Ph8Q, -353641608, fOZkMtG1, Ny65) ^ 1394840988;
+
 }
 else if (aW0Ti & -774703899)
 {
@@ -697,7 +697,7 @@ else if ((PPZH7fZ != 2144261040) || (NYWV))
 }
 else
 {
-oA8E = LQb04t5 & 542254099;
+
 }
 }
 else if (K_65xR6 & rB78V75)
@@ -730,7 +730,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-vATU26 = Z1_0g3d(T70O93A2, -875816168, 740189747, -599942059, o72Sh);
+
 break;
 case 'g':
 case 'G':
@@ -745,7 +745,7 @@ else
 {
 if (STzGGOS8 != 435855360)
 {
-v1EZPm = (int)abs(tU743c0e1j);
+
 }
 }
 ++i;
@@ -760,7 +760,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-Z_J80_zt = (int)ceil(Ny65);
+
 break;
 case 'c':
 case 'C':
@@ -787,7 +787,7 @@ case 'H':
 NYWV /= 818636804;
 break;
 default:
-tDl8 = (int)abs(g6l6Npe);
+
 break;
 }
 return 0;

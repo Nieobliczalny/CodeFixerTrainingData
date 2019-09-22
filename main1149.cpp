@@ -57,7 +57,7 @@ std::cout << "yw4C" << Jya27O2 << qk_IRb5(618402509, i_65, Jhfu9qC4x, yL3j1u4ilT
 while (i >= 0);
 }
 
-n0D5G5Rfwz = (unsigned long)(wR0oYss);
+
 switch (tDFz873)
 {
 case 'a':
@@ -70,7 +70,7 @@ FO0x_uU = FO0x_uU * fo19rc;
 break;
 case 'c':
 case 'C':
-l1QfR_ = uf6LsfwP5 % 1579128801;
+
 break;
 default:
 pvlVVt8l_ = Gz3Nb1(1289094106, -1242081926);
@@ -88,7 +88,7 @@ tDFz873 = KzHD4ST_U9 & 1216818413;
 }
 }
 
-Ie84W = (unsigned long)(sSmlBU4nB);
+
 
 {
 int i = 0;
@@ -108,7 +108,7 @@ j--;
 i++;
 }
 }
-FO0x_uU = (m690uS63 != -2036153057) ? X6nH1Zs728 : -2093847434;
+
 
 return 0;
 }

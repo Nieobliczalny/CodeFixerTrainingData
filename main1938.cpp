@@ -36,7 +36,7 @@ int main() {
  unsigned long V2flt6T;
  V2flt6T = 855374224;
  unsigned int N_Xt57u;
- N_Xt57u = -2040961423;
+
     short    ai9VIif;
     ai9VIif    =    -481305008;
     unsigned short int    j3J0Oqk;
@@ -204,7 +204,7 @@ else if (((Af9c1Tr_7 < 295453944) && (co3PWWQ > 603119892)) && (HWOHj4k & 190547
 }
 else if (N249Nm > -439715519)
 {
-zK2_ixl81 = B2WUGEw_E | UDW1NDnzF;
+
 }
 else
 {
@@ -236,7 +236,7 @@ j++;
 }
 cout << HWOHj4k << gCg5(co3PWWQ) << JB9Wcw3Om << "Z7MZW" << endl;
 
-N249Nm = (float)(kFxnzo_);
+
 return 0;
 }
 

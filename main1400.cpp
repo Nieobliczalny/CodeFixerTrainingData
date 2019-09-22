@@ -321,7 +321,7 @@ int k = 0;
 while (k < 6)
 {
 k++;
-Rw6sPusTp3 = N965Xf(pIZZ4CTu, 1423804238, ojrC_) + LP61;
+
 }
 }
 j++;
@@ -366,7 +366,7 @@ while (j < 3);
 }
 while (i >= 0);
 }
-ORc5 = ec3m(ORc5, -831040044);
+
 Rw6sPusTp3 = (unsigned long)(kB__ + (zPsY_2Q5));
 return 0;
 }

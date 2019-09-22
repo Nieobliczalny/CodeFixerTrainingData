@@ -435,7 +435,7 @@ if ((ATDZpSJ) || ((u6x4o45m <= -1243085628) || (AhUYVhvL > -966793578)))
 }
 while (i < 2);
 }
-CN6bL16FLi = (int)abs(gvgRsE) + (-1593585917);
+
 
 std::cout << TOWw << GVUVUFWqx(203694757, -560837148, -1257978460, -1456436233, EQ0ybITV) << "ikbim" << i028E8 << std::endl;
 try
@@ -450,7 +450,7 @@ t_EG6GDm = (long double)(kCbg7zO + (-2016695966));
 
 
 
-Jm1A79S8uY = (int)abs(t_EG6GDm);
+
 
 return 0;
 }

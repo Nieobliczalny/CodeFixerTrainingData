@@ -143,7 +143,7 @@ C1DIV6Mlj %= 277547999;
 }
 cout << oZ6Bh << "uIOhtyw9F" << endl;
 cout << WoR__3Q46a << KF0fd << endl;
-i_6c1_E5v = flx2u9 << 105934651;
+
 
 if (WoR__3Q46a == flx2u9)
 {

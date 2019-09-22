@@ -17,7 +17,7 @@ int main(int argc, char** argv)
  short int J608, lui0V, bmlH, Ix27rvCYb, FN69Ojp;
  J608 = 0;
  lui0V = 0;
- bmlH = 0;
+
 
  FN69Ojp = 0;
     unsigned char    nSvk,    Qd4AA3,    P5BbsMwwxZ,    uYGF93,    q5mb_a,    vt00,    wI_RF3kJ,    Zrz98y,    s4rvjtAE,    oawa0Z,    RV6e14,    l3d38ax12,    q_uv_e2sIa,    mATpMQu877,    ZcqsX,    VQNDVy,    Pwt_J9KB9O,    nNvd2Mg,    eHy6HyLKWb,    R_C9O7Q4vR,    SbKma,    gjRt00COe,    J1xu6N7278,    sSGF_9xA,    pk1xPu,    Ko2I68v7m,    d2_58,    Wb6nZCWyUI,    h88Sw9de_,    oN0zP,    x2Hf5u,    m_gkJtAPz0,    X8lvR,    nR2i6J6i,    kXkp84,    EZ5bgws9,    zZY6e,    IpI6_Bp0O,    khpt9Z,    PKQ3b1,    y1R9lSW,    oHbFMcZ;
@@ -96,7 +96,7 @@ pk1xPu = X8lvR % Zrz98y;
 switch (oHbFMcZ)
 {
 case 'a':
-y1R9lSW = (zZY6e <= uYGF93) ? Zrz98y : 1817502503;
+
 break;
 case 'b':
 uYGF93 = Q7F55VD >> 1984882451;
@@ -168,7 +168,7 @@ if (VQNDVy < Qd4AA3)
 switch (zZY6e)
 {
 case 'a':
-oawa0Z = PrU8(-768629789, -1640040732, -1109018017, P5BbsMwwxZ);
+
 break;
 case 'b':
 wI_RF3kJ = oN0zP | nR2i6J6i;
@@ -314,7 +314,7 @@ std::cout << PrU8(-806361958, -939373954, -849208616, -1123939587) << "A_9r8K7" 
 }
 }
 
-oHbFMcZ <<= 391850481;
+
 
 bmlH = (int)abs(lui0V);
 
@@ -345,7 +345,7 @@ case 'f':
 
 break;
 case 'g':
-bmlH = (int)abs(J608);
+
 break;
 }
 --j;
@@ -374,7 +374,7 @@ case 4:
 Ix27rvCYb = T3S4l(Ix27rvCYb, 1197863000);
 break;
 case 5:
-bmlH = T3S4l(-2139525963, 142631338);
+
 break;
 default:
 FN69Ojp = (int)abs(bmlH);
@@ -451,7 +451,7 @@ case 'a':
 
 break;
 case 'b':
-l3d38ax12 = P5BbsMwwxZ >> 301857774;
+
 break;
 case 'c':
 Zrz98y--;
@@ -488,7 +488,7 @@ case 5:
 
 break;
 case 6:
-Ix27rvCYb = (int)abs(FN69Ojp);
+
 break;
 default:
 Ko2I68v7m *= Pwt_J9KB9O;

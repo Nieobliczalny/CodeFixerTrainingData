@@ -24,7 +24,7 @@ int main(void) {
  unsigned char Hh1eb;
 
 	char	c0z_;
-	c0z_	=	-1004579869;
+
  long g19S_xoNDA;
  g19S_xoNDA = -771562194;
  long TD7P3V;
@@ -36,7 +36,7 @@ int main(void) {
   unsigned int  o_2ZE4;
   o_2ZE4  =  2020895968;
   unsigned short int  U0kAac9;
-  U0kAac9  =  0;
+
   long  AyoCMa2B;
   AyoCMa2B  =  258849127;
     long    ErYi117;
@@ -46,7 +46,7 @@ int main(void) {
   int  w5b2;
 
     long double    BQdAdb8Q;
-    BQdAdb8Q    =    -1133702055;
+
   short int  R4D3HX;
   R4D3HX  =  -655658804;
   short int  DEhRpS43;
@@ -56,7 +56,7 @@ int main(void) {
     unsigned short int    J6i92q2L5;
 
     int    xaRs7IGk;
-    xaRs7IGk    =    2014347842;
+
     double    Okk6;
     Okk6    =    1373825477;
     unsigned short int    B2i71jNE;
@@ -66,7 +66,7 @@ int main(void) {
   char  rzj4;
   rzj4  =  306247569;
 	unsigned short	DGN2F;
-	DGN2F	=	258579614;
+
     long long    A7d660;
 
 	long double	Vnf_1k;
@@ -76,7 +76,7 @@ int main(void) {
     int    HgksUQNXXa;
     HgksUQNXXa    =    344555430;
 	long	Pq8NXU;
-	Pq8NXU	=	-699577919;
+
 	unsigned short	U1ojQD4z7;
 	U1ojQD4z7	=	190112368;
     long    IM5_M2;
@@ -86,7 +86,7 @@ int main(void) {
  unsigned int A8_v;
  A8_v = -1795826206;
     long long    RNl2_A5;
-    RNl2_A5    =    622187089;
+
  int M29me_W;
  M29me_W = 861095861;
  char QEHB8R;
@@ -96,7 +96,7 @@ int main(void) {
 	double	AYaT;
 	AYaT	=	-2102879020;
   short  LsV2Gu2yu;
-  LsV2Gu2yu  =  0;
+
  unsigned long nI817jmR;
  nI817jmR = 631373457;
   double  yX63I8;
@@ -108,7 +108,7 @@ int main(void) {
 	unsigned char	kx_Qf4g;
 	kx_Qf4g	=	1947009279;
   double  me_0p;
-  me_0p  =  -1456260808;
+
   float  KeD_0;
   KeD_0  =  483809940;
 	float	tc8e9;
@@ -120,7 +120,7 @@ int main(void) {
   long  THU001z;
   THU001z  =  -445709064;
     unsigned short int    J_3Ab_Y;
-    J_3Ab_Y    =    -1119657415;
+
   float  abAk;
   abAk  =  -1645053644;
  unsigned short int ZHSiXm;
@@ -130,7 +130,7 @@ int main(void) {
     short    a_H1ZCKnr3;
     a_H1ZCKnr3    =    -841104916;
  unsigned short a3Or;
- a3Or = 389621052;
+
   unsigned short int  DIMN2S8DNM;
   DIMN2S8DNM  =  831161144;
  unsigned short int sgM9;
@@ -140,7 +140,7 @@ int main(void) {
     long long    h7_zCQ8j1u;
     h7_zCQ8j1u    =    -1901108220;
  unsigned int Hv3I9Z8m0;
- Hv3I9Z8m0 = 1713723127;
+
   float  W_GtQM8;
   W_GtQM8  =  -1417754435;
  long VMo9;
@@ -150,7 +150,7 @@ int main(void) {
   long long  fZww2XqV;
 
     unsigned short int    hlMQRn2Q;
-    hlMQRn2Q    =    -718994728;
+
   unsigned int  q2cNU7;
   q2cNU7  =  -729074823;
 	char	kAjL7n;
@@ -168,7 +168,7 @@ int main(void) {
  unsigned short int nz43N;
  nz43N = 1832451940;
 	short	pkIMuw;
-	pkIMuw	=	-1763096482;
+
 	unsigned int	d4O7z6WqO8;
 	d4O7z6WqO8	=	-1684561348;
 	double	wUnEE5qFQi;
@@ -178,7 +178,7 @@ int main(void) {
   long  q8LO;
   q8LO  =  1804740391;
  long double dBn03W3S7S;
- dBn03W3S7S = 50446588;
+
     char    agKuKVsCj;
     agKuKVsCj    =    -1017602911;
 	short int	V8ogG;
@@ -190,7 +190,7 @@ int main(void) {
   long double  pPJ_;
   pPJ_  =  1730942557;
     unsigned long long    zL8Tne44;
-    zL8Tne44    =    1435705231;
+
  unsigned short dgO4DP6_5;
  dgO4DP6_5 = 495358129;
  long long nfkm55657;
@@ -202,7 +202,7 @@ int main(void) {
     unsigned short    d9o2;
     d9o2    =    1725222979;
 	short int	f08K;
-	f08K	=	1259621291;
+
 
 
 
@@ -213,7 +213,7 @@ AYaT = (int)ceil(gG7ah);
 switch (THU001z)
 {
 case 0:
-abAk = (int)floor(pPJ_);
+
 break;
 case 1:
 rzj4 = ED4988SgN_(rzj4);
@@ -228,7 +228,7 @@ case 4:
 
 break;
 case 5:
-zfAv6gsJLS = ED4988SgN_(-1630602125);
+
 break;
 case 6:
 wUnEE5qFQi = (kVusb60) ? KeD_0 : ED4988SgN_(zfAv6gsJLS);
@@ -253,7 +253,7 @@ case 1:
 Vnf_1k = (int)ceil(tc8e9);
 break;
 case 2:
-Hv3I9Z8m0 = ZG73Ek2kX6();
+
 break;
 case 3:
 b35bsf6L_ = ZG73Ek2kX6();
@@ -303,7 +303,7 @@ case 'E':
 
 break;
 default:
-a_H1ZCKnr3 = ED4988SgN_(b35bsf6L_) ^ AkI8;
+
 break;
 }
 }
@@ -317,7 +317,7 @@ i--;
 while (i >= 0);
 }
 
-Okk6 = (int)floor(sAvPyvV4jd);
+
 Okk6 = (int)abs(kUlWGP);
 
 dq4O9n20 = (agKuKVsCj <= y2_qLq6w) ? ED4988SgN_(b35bsf6L_) : -141853046;
@@ -328,7 +328,7 @@ case 0:
 
 break;
 case 1:
-me_0p = (d9o2 <= -1640240300) ? KeD_0 : ED4988SgN_(b35bsf6L_);
+
 break;
 case 2:
 Pq8NXU = U1ojQD4z7 % ZHSiXm;
@@ -340,7 +340,7 @@ case 4:
 
 break;
 case 5:
-kAjL7n = sr33CnIrL() ^ o_2ZE4;
+
 break;
 case 6:
 gG7ah = (int)ceil(gNLg);

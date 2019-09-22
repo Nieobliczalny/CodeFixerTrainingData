@@ -561,7 +561,7 @@ case 7:
 
 break;
 case 8:
-Slb988Wt = Uqr1y0Ef | pDH9cTaL;
+
 break;
 case 9:
 Ymm1_gF &= IhWi_R;
@@ -675,7 +675,7 @@ if (n5HXDFjrq8 > 1641126804)
 }
 else if ((xq6_E5 == c5L2I) || (NgU6_ < Qtzj0))
 {
-Ymm1_gF = LT6NA - J0_7_fNP;
+
 }
 else if (t6ioVfYpr & Ezyt5NtHt)
 {
@@ -700,7 +700,7 @@ j++;
 }
 else if (lZ8b66WoL < P13_jXCY)
 {
-gGr48T *= 239656562;
+
 }
 else
 {
@@ -734,7 +734,7 @@ case 3:
 
 break;
 case 4:
-LT6NA = Qtzj0 % 1075705932;
+
 break;
 case 5:
 P13_jXCY %= t6ioVfYpr;

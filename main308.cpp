@@ -137,7 +137,7 @@ guNgo -= 1893022525;
 
 if (V8c7pvD & 2054850790)
 {
-BCjqe_ = guNgo << 153924971;
+
 }
 else if (FKT8L_rxu <= 636221550)
 {
@@ -147,7 +147,7 @@ else
 {
 A1R6x = (int)abs(G2j04K0N7);
 }
-E789w_S /= N2CY84C;
+
 
 if ((IdcORFQrZP & gw72xos) || ((z9ZK == h2fF) || (uG_6nyl1 < 1076540353)))
 {
@@ -166,7 +166,7 @@ case 0:
 
 break;
 case 1:
-K2j_g6Ne -= 210158111;
+
 break;
 case 2:
 w9y5OB_IA4 = (int)abs(nA3XYS4qY5);
@@ -178,7 +178,7 @@ case 4:
 
 break;
 case 5:
-MA2Jgb = guNgo ^ 1351261969;
+
 break;
 case 6:
 l_M_ = Y2574_10y - 559754207;
@@ -217,7 +217,7 @@ case 2:
 JYQ_0PW94 %= dBBjNHgG;
 break;
 case 3:
-E789w_S = (int)abs(ac_aVfDQ);
+
 break;
 case 4:
 ghsQmd -= P4R6N1K9T;
@@ -412,7 +412,7 @@ else if ((A1R6x > 862893727) || ((RGktg != 1991758935) || (nA3XYS4qY5 < aChswWqz
 }
 else
 {
-nRlBN8m /= JE2Vg7;
+
 }
 
 switch (FKT8L_rxu)
@@ -422,7 +422,7 @@ case 'A':
 
 break;
 default:
-gw72xos = DGvLqkF * HU_56R;
+
 break;
 }
 x8BfK6x = (unsigned short int)(X_E_Tezyr);
@@ -447,7 +447,7 @@ case 0:
 
 break;
 case 1:
-AErRcJ_M = (int)floor(MPj1);
+
 break;
 case 2:
 h2fF = (int)floor(w_gTWn1);
@@ -466,7 +466,7 @@ else
 {
 std::cout << KMQa_9iQ << jj77 << std::endl;
 }
-gw72xos = x8BfK6x | RlzU5V3;
+
 return 0;
 }
 

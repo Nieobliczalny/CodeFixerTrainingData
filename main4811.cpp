@@ -453,7 +453,7 @@ if (vIajw > 1384943840)
 {
 if (((Y7YuVY != 151413874) && (XZ_Bf == -6622829)) || (nIP9 > 1355170518))
 {
-HjEmJo15S = (int)floor(P0ur_61T4);
+
 }
 else if (y_g6 > Hn_YN0A1_5)
 {
@@ -465,7 +465,7 @@ l1Wy &= 1002436557;
 }
 else if (m_likC >= y_g6)
 {
-HjEmJo15S = (int)floor(eO_OJ788s_);
+
 }
 else if (BDLCP32 > vIajw)
 {
@@ -562,7 +562,7 @@ case 3:
 
 break;
 case 4:
-gBd_X0 = co__iv(GeFt2) % 254778309;
+
 break;
 case 5:
 evKeW29z3K = (int)abs(LEVNp6);
@@ -598,7 +598,7 @@ case 2:
 Xisi_357J = YkROE(Xisi_357J, -84464953, vHXD, Hn_YN0A1_5, yp6N2pfvb3);
 break;
 case 3:
-jg6_z |= 1720008995;
+
 break;
 case 4:
 Hn_YN0A1_5 = co__iv(1540442012);
@@ -616,7 +616,7 @@ case 8:
 Xisi_357J = V54331Hl20(892108701, yp6N2pfvb3, tBuvV6_, -635839202);
 break;
 case 9:
-td9m1e7J += 1907583716;
+
 break;
 }
 }
@@ -675,7 +675,7 @@ case 8:
 N2OBMU1 = co__iv(evKeW29z3K);
 break;
 case 9:
-HjEmJo15S = (int)ceil(L1CgO5iBOR);
+
 break;
 }
 }
@@ -727,7 +727,7 @@ case 1:
 N2OBMU1 = co__iv(-506529935);
 break;
 case 2:
-Y7YuVY = tBuvV6_ << 1806800074;
+
 break;
 case 3:
 vIajw = (int)ceil(YYD0ks);
@@ -739,7 +739,7 @@ case 5:
 RNq7pZn |= G9Xc0;
 break;
 case 6:
-ds69wAuS = (int)floor(DdTc3);
+
 break;
 case 7:
 m2pg = V54331Hl20(m2pg, -975648186, 212884393, l5_1U1);
@@ -765,7 +765,7 @@ case 'a':
 
 break;
 case 'b':
-YYD0ks = (int)abs(O0Ke0gi);
+
 break;
 case 'c':
 PGcxdJHJD9 = V54331Hl20(-267571651, -1009605051, -231296664, EyRu7t9756);
@@ -780,7 +780,7 @@ case 'f':
 eO_OJ788s_ = evKeW29z3K / R7lwQNx8FM;
 break;
 case 'g':
-vIajw = N2OBMU1 / 2116286249;
+
 break;
 case 'h':
 vIajw = (int)ceil(I_i9bG8_);
@@ -805,7 +805,7 @@ switch (bokp2o)
 {
 case 'a':
 case 'A':
-SYpI = co__iv(-1024794832) >> BDLCP32;
+
 break;
 case 'b':
 case 'B':
@@ -825,7 +825,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-I_i9bG8_ = (int)floor(GeFt2);
+
 break;
 }
 }
@@ -847,7 +847,7 @@ IcrVD = V54331Hl20(IcrVD, P0ur_61T4, EyRu7t9756, PK8y7);
 }
 }
 }
-YYD0ks = (int)ceil(eO_OJ788s_);
+
 std::cout << "S6R5s" << IcrVD << evKeW29z3K << G9Xc0 << V54331Hl20(853052587, -2041763252, EyRu7t9756, PK8y7) << std::endl;
 switch (cv8sR7z81)
 {
@@ -858,7 +858,7 @@ case 1:
 N2OBMU1 = co__iv(Xisi_357J);
 break;
 case 2:
-LjiPmn |= rhg9J;
+
 break;
 }
 std::cout << YkROE(Xisi_357J, m2pg, 1183212870, 1056964890, W27BkD8F) << "imWp2V" << std::endl;

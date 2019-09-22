@@ -21,7 +21,7 @@ int main(int argc, char** argv)
 
  e34Rl41 = -1282568192;
  M_163pQGk = -863234396;
- z6Zfqrwd = -21312520;
+
  w3Whq8_F = -2009597585;
  kD_H3 = -550473468;
  pwSJh9 = 591535037;
@@ -67,7 +67,7 @@ else
 }
 }
 }
-pwSJh9 = (int)abs(bUODFB0I);
+
 e34Rl41 = (int)floor(w3Whq8_F);
 
 z6Zfqrwd = (long double)(e34Rl41);
@@ -78,7 +78,7 @@ for (int i = 0; i < 6; i++)
 {
 M_163pQGk -= kD_H3;
 }
-pwSJh9 = (long double)(M_163pQGk);
+
 
 try
 {

@@ -140,7 +140,7 @@ case 0:
 
 break;
 default:
-jSAT5Z0 = gH6F47CBJ * ymq4m3W7oM;
+
 break;
 }
 }

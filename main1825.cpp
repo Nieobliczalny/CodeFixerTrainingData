@@ -316,7 +316,7 @@ if (y1O3 == 1426482498)
 {
 try
 {
-TsIvH >>= 1868392355;
+
 }
 catch (int& errorCode)
 {
@@ -342,7 +342,7 @@ if (cg5mCel < 807344788)
 }
 else
 {
-y1O3 = tt9oU48HD0(y1O3, 1630304087, siTOc4_4id, YCUQJ4B4t);
+
 }
 }
 else

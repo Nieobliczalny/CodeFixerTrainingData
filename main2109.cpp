@@ -248,7 +248,7 @@ P_Vtlg6 = d6tkd_(-578531244, -554527339, SLRI, CRR7ht7);
 break;
 case 'b':
 case 'B':
-um4kb460B >>= 676650611;
+
 break;
 case 'c':
 case 'C':
@@ -276,7 +276,7 @@ Y5ef1eoR += 1858294433;
 break;
 case 'i':
 case 'I':
-um4kb460B = TsKeONYUM2(CRR7ht7, -1989117737, 1153857875, -1307315066, -247617271);
+
 break;
 }
 }
@@ -341,7 +341,7 @@ std::cout << "h_b1PuJ7O" << std::endl;
 }
 else
 {
-um4kb460B = (unsigned short int)(GpPL7Q4lgt);
+
 }
 
 for (int i = 3; i >= 0; i--)

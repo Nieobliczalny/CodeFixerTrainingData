@@ -123,7 +123,7 @@ case 'a':
 
 break;
 case 'b':
-As3t4ehT1 = Ww_1F ^ tBT4w0;
+
 break;
 case 'c':
 KctCJ = (int)abs(v9_g01L);

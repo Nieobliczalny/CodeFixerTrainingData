@@ -133,7 +133,7 @@ j--;
 
 
 
-NV1f3 = (unsigned short)(Qq00IW + (KM30n5Y));
+
 
 cout << h4m_j1(345158, -861583345) << "g2CevBD6" << OlC_fj(wwu764z2, yqbA, -332810386, 1492553974, -2038213093) << a_HG << endl;
 lWdXy = OlC_fj(832427614, -6606943, 1304113407, e25vfde1PX, j27CpddGBk);
@@ -174,7 +174,7 @@ if (h16wJ == 370130588)
 }
 }
 
-Ut6q47W22s = -169569027 / Qq00IW;
+
 return 0;
 }
 

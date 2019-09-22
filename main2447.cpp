@@ -147,7 +147,7 @@ else if (VA7Lv < RX65)
 {
 if (h52hIMK1yC <= 192422466)
 {
-HH1Gz8 = (int)abs(f7t4cyD);
+
 }
 else if ((RX65) && (h52hIMK1yC & cBcxh_2))
 {

@@ -36,7 +36,7 @@ int main(int argc, char** argv)
   long  D8_ww_;
 
  unsigned char Nf8I2ox6u;
- Nf8I2ox6u = -1702634657;
+
 	long	kR5_H;
 	kR5_H	=	400305732;
  float kN_G8V;
@@ -48,7 +48,7 @@ int main(int argc, char** argv)
     unsigned long    Q5AbQ2B5A;
 
     unsigned long    ofMzy;
-    ofMzy    =    287784733;
+
  unsigned long mvQaTlX12;
  mvQaTlX12 = 1847307220;
   unsigned char  p2BE6C_P2;
@@ -60,7 +60,7 @@ int main(int argc, char** argv)
   unsigned long long  fsG2dTu58_;
   fsG2dTu58_  =  -946740218;
     unsigned long    P_c11h;
-    P_c11h    =    344107226;
+
  unsigned char p1iRN6V2;
  p1iRN6V2 = -1705987627;
     unsigned long    Gh0mS_s;
@@ -72,7 +72,7 @@ int main(int argc, char** argv)
  short int O19bAll1i;
  O19bAll1i = -516419359;
   unsigned char  z19w;
-  z19w  =  2102301300;
+
     int    vvSAy_uO;
     vvSAy_uO    =    -1179209019;
 	short	i4pU;
@@ -86,7 +86,7 @@ int main(int argc, char** argv)
  unsigned long long IXEY;
  IXEY = -427305609;
  long long Sc__4Qj70;
- Sc__4Qj70 = 1332770430;
+
     unsigned long long    yEcu1;
     yEcu1    =    0;
   unsigned short int  BsJVeZNaNG;
@@ -104,7 +104,7 @@ int main(int argc, char** argv)
 	long double	EK_2lDrk;
 	EK_2lDrk	=	2140197665;
   long  x2Z2Iy_h;
-  x2Z2Iy_h  =  -542213472;
+
  char siS1_;
  siS1_ = 2119337985;
   unsigned long long  Rh0E9_l;
@@ -130,7 +130,7 @@ int main(int argc, char** argv)
     double    eyWtH38x_4;
     eyWtH38x_4    =    901751910;
   long long  dl9n5EM8T2;
-  dl9n5EM8T2  =  2004515195;
+
 	long	bD5qvh;
 	bD5qvh	=	-956363891;
  unsigned int KwkP54Yc;
@@ -142,7 +142,7 @@ int main(int argc, char** argv)
   unsigned long long  lwyr0U1;
   lwyr0U1  =  -2072976711;
   int  I4KJ;
-  I4KJ  =  -1107100453;
+
 	short int	EfX_4;
 	EfX_4	=	-369878578;
   unsigned int  TZp6cT;
@@ -160,7 +160,7 @@ int main(int argc, char** argv)
 	long double	yKVr94WQ0;
 	yKVr94WQ0	=	-1306495260;
   short int  b8j4;
-  b8j4  =  -1282446123;
+
  unsigned int Xkzo;
  Xkzo = 1176282902;
   unsigned char  kUXq;
@@ -172,7 +172,7 @@ int main(int argc, char** argv)
 	unsigned char	A943;
 	A943	=	-124706331;
   long  X_M63CHV;
-  X_M63CHV  =  -138500157;
+
 	unsigned char	gj9SXofUb;
 	gj9SXofUb	=	513494833;
   short  fO8x_NadB7;
@@ -186,7 +186,7 @@ int main(int argc, char** argv)
   float  NUQGa;
   NUQGa  =  1907203306;
 	int	s_sgz;
-	s_sgz	=	1225939030;
+
  double iqg73NcMG;
  iqg73NcMG = -412155698;
 	int	E7J0gM;
@@ -196,7 +196,7 @@ int main(int argc, char** argv)
   unsigned short  cRn0qDRoB_;
   cRn0qDRoB_  =  1289754472;
     short    r75Iqyq;
-    r75Iqyq    =    2082280211;
+
 	unsigned char	KOOLM;
 	KOOLM	=	0;
  unsigned char WIQCdt9G;
@@ -211,7 +211,7 @@ case 'a':
 
 break;
 case 'b':
-zr8mZs9F74 %= 2110821830;
+
 break;
 case 'c':
 Ewq1a %= KcEUK6UnX;
@@ -226,7 +226,7 @@ case 'f':
 N5c11Gd = (int)ceil(Q4On1STZX);
 break;
 case 'g':
-zr8mZs9F74 = (X4ELUMA == -2010461613) ? 1090180409 : EK_2lDrk;
+
 break;
 case 'h':
 yj0wrYx = (int)abs(zr8mZs9F74);
@@ -280,7 +280,7 @@ else if (((SLBCs != BqAy) || (IRYk4X1g7 != 278528107)) && (NUQGa < mvQaTlX12))
 {
 try
 {
-xl4T80wS9H = (int)abs(EfX_4);
+
 }
 catch (int& errorCode)
 {
@@ -341,7 +341,7 @@ std::cout << A943 << "Wvq9q1O" << "O2MizR" << PSZ0jYh << "Zx4Uwz" << std::endl;
 
 
 
-BqAy = (unsigned short int)(O_0_R2u3S);
+
 
 E_bC92Pb = r__Hc6s_M(1469214840);
 b8j4 = (int)abs(fO8x_NadB7);
@@ -394,7 +394,7 @@ while (i < 10);
 }
 
 
-grP1MWU8 = (int)abs(O19bAll1i);
+
 
 return 0;
 }

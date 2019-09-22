@@ -457,7 +457,7 @@ else if (y7gT <= tMw3Siad52)
 {
 if ((OmTnhuy93_ < -981632418) || ((AYb_W9sp0 < 1659068629) && (AYb_W9sp0 <= 476768567)))
 {
-IAM0mbW = Hrj9Hal();
+
 }
 }
 else
@@ -603,7 +603,7 @@ case 2:
 wVJpW2 = (int)floor(ys7UN57Ae);
 break;
 case 3:
-OmTnhuy93_ /= IAM0mbW;
+
 break;
 case 4:
 AYb_W9sp0 = (int)ceil(ys7UN57Ae);
@@ -618,7 +618,7 @@ case 7:
 sA74959--;
 break;
 case 8:
-a1Ww = P_f82(-1710557837, y7gT, 352213957);
+
 break;
 }
 

@@ -31,7 +31,7 @@ int main(int argc, char** argv) {
  DW1Nz = -1530317251;
  hu2YHs3V2K = 1272842274;
 
- KxzVBZIg = 407539525;
+
  a0g73166r = 1807179990;
  V_O4_09qB9 = 1775060100;
  yH1Y038VC = -1356031549;
@@ -70,7 +70,7 @@ case 3:
 a0g73166r = (int)abs(J3RR9zJ1_);
 break;
 default:
-X365QXzc25 = br4n4NPUL(uAll4Vnx4W);
+
 break;
 }
 j--;
@@ -588,7 +588,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-yoK1WlY = (int)abs(zu7XqYS);
+
 break;
 case 'c':
 case 'C':

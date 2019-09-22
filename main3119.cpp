@@ -324,7 +324,7 @@ case 1:
 N4_uGv = (int)floor(jbsH_ukqO);
 break;
 case 2:
-Cg4Y8TY = bDqe & 8856472;
+
 break;
 case 3:
 IEPEBVgW = VIO96PsW * IEPEBVgW;
@@ -352,7 +352,7 @@ j1l23yH098 = (int)ceil(N4_uGv);
 
 for (int i = 0; i < 10; i++)
 {
-b94A0X1 = Jv_f_1ahm - x4JkBKd;
+
 }
 o6dxuRdLD %= hFcvC4D;
 

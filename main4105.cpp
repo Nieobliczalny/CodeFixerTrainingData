@@ -492,7 +492,7 @@ case 5:
 mKS07CR02 = s7o_ | 993145671;
 break;
 case 6:
-tHyN05537s = UnYlw2 & LbYNfe4;
+
 break;
 case 7:
 vr6FoE4 = (int)abs(lhSS844r);
@@ -629,7 +629,7 @@ for (int j = 0; j < 3; ++j)
 {
 for (int k = 10; k >= 0; --k)
 {
-g7pUKPQD = GcaFm1U5c2 & 1779939011;
+
 }
 }
 }
@@ -652,7 +652,7 @@ i6D_ = (unsigned short)(LbYNfe4);
 switch (i6D_)
 {
 case 0:
-g7pUKPQD = UnYlw2 - 835941368;
+
 break;
 case 1:
 GcaFm1U5c2--;

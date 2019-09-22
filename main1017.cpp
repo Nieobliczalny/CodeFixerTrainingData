@@ -94,7 +94,7 @@ else if (SokZj != iyoct51)
 {
 try
 {
-AdTF140V *= 43251644;
+
 }
 catch (int& errorCode)
 {
@@ -130,7 +130,7 @@ case 'h':
 
 break;
 case 'i':
-AdTF140V = nKomE * 439043588;
+
 break;
 case 'j':
 B5w6v1jG = A0O4();
@@ -142,7 +142,7 @@ break;
 }
 else if (B5w6v1jG != iyoct51)
 {
-k8yKlO4_r = k8yKlO4_r + 1702916004;
+
 }
 else
 {
@@ -248,7 +248,7 @@ while (j < 9)
 }
 }
 
-BD4NaXE3Mw = (int)(iyoct51 + (-2083368134));
+
 if (((nKomE) || (z5qnWD <= 991682783)) || (w243FsM & S17_))
 {
 o7mE630ZuD = A0O4();

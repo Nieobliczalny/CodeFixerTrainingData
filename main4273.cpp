@@ -107,7 +107,7 @@ if (KO96G3 & 744748040)
 }
 else
 {
-gWBZsR *= No3dt0ZM;
+
 }
 }
 else

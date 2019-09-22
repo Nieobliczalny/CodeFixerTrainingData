@@ -39,7 +39,7 @@ int main()
 	char	Yjh6o1CLA;
 	Yjh6o1CLA	=	0;
   unsigned int  iUc9_4;
-  iUc9_4  =  0;
+
     float    l274;
     l274    =    -1688000840;
     short int    oPL2y7__dT;
@@ -53,7 +53,7 @@ int main()
   unsigned long long  X1LX5_k5;
   X1LX5_k5  =  4251013;
  unsigned long long Ol9Mx_;
- Ol9Mx_ = -449201066;
+
 
 {
 int i = 0;
@@ -78,7 +78,7 @@ case 'c':
 GDgU *= UKLE;
 break;
 case 'd':
-X08g9 = (X08g9 & GMwc9j6) ? UKLE : 250657235;
+
 break;
 default:
 iUc9_4 = dGe1();
@@ -172,7 +172,7 @@ bGzs1duBV_ = dGe1();
 break;
 case 'h':
 case 'H':
-ImDij3b1u4 = (int)ceil(l274);
+
 break;
 case 'i':
 case 'I':
@@ -193,7 +193,7 @@ else
 }
 u2fe_7Dv3n = (unsigned short)(oPL2y7__dT + (-1066875476));
 
-l274 = bGzs1duBV_ / Yjh6o1CLA;
+
 
 return 0;
 }

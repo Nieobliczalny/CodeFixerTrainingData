@@ -314,7 +314,7 @@ case 3:
 uD0y *= l5_o58_N;
 break;
 case 4:
-WXda2V4I6 = SDb_42a - WXda2V4I6;
+
 break;
 case 5:
 n5j6 ^= 634616880;
@@ -499,7 +499,7 @@ case 1:
 jQk98g23 = Bv368_U ^ OXKQM7k8o;
 break;
 case 2:
-WXda2V4I6 = (int)abs(uD0y);
+
 break;
 case 3:
 eV5Fr_FT0 &= TOE21633;
@@ -527,7 +527,7 @@ bgijxX_Y6_ <<= e378;
 }
 else
 {
-WXda2V4I6 = (short)(uD0y);
+
 }
 }
 else
@@ -629,7 +629,7 @@ if ((PBUyzlYP) || (eG_AnES0w8 <= -1113472961))
 }
 else
 {
-uD0y = OXKQM7k8o + 703782363;
+
 }
 }
 else if (r_uxrQAD & -1906039605)
@@ -658,7 +658,7 @@ case 1:
 k__HR1Gy |= gxI58o09IR;
 break;
 case 2:
-vM0zB2z = gxI58o09IR & 224461842;
+
 break;
 case 3:
 r2hIUB71X4 |= pk_2;

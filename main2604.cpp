@@ -228,7 +228,7 @@ if (HXYnk1 <= T6o4)
 {
 
 }
-HXYnk1 = (float)(ErApfS);
+
 try
 {
 for (int j = 0; j < 1; ++j)
@@ -262,7 +262,7 @@ if (ErApfS == QI0VkZ_)
 {
 if (ErApfS >= qTM4tTo)
 {
-Mu5_D8Uc = (qTM4tTo != 2017354870) ? -18918515 : -1071307621;
+
 }
 }
 }

@@ -28,7 +28,7 @@ int main(int argc, char** argv)
   vG1KLV  =  156712567;
   W2X_jvj7N  =  -521407697;
   Dru0arr  =  -1826827973;
-  Tkvh2s  =  -1546753496;
+
   Ogzn2  =  -91233471;
   x99Jimla  =  -3629701;
   eOozkwvteP  =  279472742;
@@ -507,7 +507,7 @@ case 2:
 
 break;
 case 3:
-q3QKE /= Tkvh2s;
+
 break;
 case 4:
 g_Ie4yMxl2 = (kJZfuu >= FqQuuO_1c) ? -46340949 : 659100571;
@@ -532,7 +532,7 @@ catch (int& errorCode)
 XEVK |= b9n564x;
 }
 
-f6ik77 = i00a933 - g_Ie4yMxl2;
+
 yh3DF77 %= 1704541474;
 if ((H8K4TP) || (tjZ8_j >= Dru0arr))
 {

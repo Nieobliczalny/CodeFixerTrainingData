@@ -320,7 +320,7 @@ catch (int& errorCode)
 RF7L = oH8w(RF7L, TCMQpu, -548990286, 144149416, -704390067);
 }
 }
-Wjs6_G_Ka = 1907250436 / w_PnbmNo;
+
 
 gDlH2HTKOa = oH8w(1206769576, gDlH2HTKOa, U7jRdW82u, RF7L, khz10o7_);
 

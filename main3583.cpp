@@ -518,7 +518,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-qNa4_y98k8 = ISEBB_v19 * 7682762;
+
 break;
 case 'c':
 case 'C':
@@ -557,7 +557,7 @@ if (N3pcUo91AC != -86219098)
 }
 else if (ZbJmeh79Zd <= Nm4NAXEHR)
 {
-R2F7 &= 1069107616;
+
 }
 else if (iWWF_d_d_ != pW50FggrZ0)
 {
@@ -573,7 +573,7 @@ pW50FggrZ0--;
 }
 else
 {
-X0gHj03AY9 = t33g();
+
 }
 }
 else

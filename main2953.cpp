@@ -25,7 +25,7 @@ int main(void) {
 	unsigned short int	kXd2NEN;
 	kXd2NEN	=	1642581707;
   unsigned int  a7sZ7;
-  a7sZ7  =  792684794;
+
     long long    l78Sh1dqw;
 
 	unsigned int	q03hAa;
@@ -39,7 +39,7 @@ int main(void) {
  unsigned long long L8IcxY6H;
 
   unsigned int  XD1__;
-  XD1__  =  -1422964500;
+
  unsigned int iHF9Ox;
  iHF9Ox = 1669525538;
  long tKiZ0V32T;
@@ -55,7 +55,7 @@ int main(void) {
   unsigned int  Nh15zs1;
   Nh15zs1  =  0;
     unsigned long long    D4l37iOZ;
-    D4l37iOZ    =    -1232892569;
+
 	char	D2lno8;
 	D2lno8	=	318928729;
 	unsigned long long	v9Wa;
@@ -65,7 +65,7 @@ int main(void) {
 	short	PBiN88ibw2;
 	PBiN88ibw2	=	745335410;
 	unsigned int	N8W_el0R3;
-	N8W_el0R3	=	973172179;
+
   long long  M0Dj;
   M0Dj  =  -1672055051;
  unsigned long ym983VYQO6;
@@ -95,7 +95,7 @@ int main(void) {
   short int  j650B;
 
 	long double	C0w7cC23;
-	C0w7cC23	=	-206598436;
+
     unsigned char    Lk9mytLpR8;
     Lk9mytLpR8    =    2022565210;
  unsigned char AM66;
@@ -105,7 +105,7 @@ int main(void) {
   short int  A3KS;
   A3KS  =  -253580688;
   short int  h6SSy;
-  h6SSy  =  1828524710;
+
 	long long	bh5wL;
 
  unsigned short iLWQ1Fo;
@@ -119,7 +119,7 @@ int main(void) {
 	int	fwl4zpJ;
 
  long ztqGNjD;
- ztqGNjD = -373291527;
+
 	short int	pHu_P2qfT;
 	pHu_P2qfT	=	-535076490;
  unsigned short i57L7y_eFX;
@@ -129,7 +129,7 @@ int main(void) {
 	char	UdQkSh82p;
 
     long    SUTKB1_9;
-    SUTKB1_9    =    1472652639;
+
  long long YDcMq9Ud7F;
  YDcMq9Ud7F = -299125900;
     double    WMijZ1pK5;
@@ -149,7 +149,7 @@ int main(void) {
 
 try
 {
-bh5wL = wrK0Y89(tKiZ0V32T, 861512265, -928005135) * PBiN88ibw2;
+
 }
 catch (int& errorCode)
 {
@@ -194,7 +194,7 @@ case 0:
 
 break;
 case 1:
-fwl4zpJ = wrK0Y89(462465254, -703101511, -143409458);
+
 break;
 case 2:
 L8IcxY6H = N_T_(k53u94, 2097634006, 1532993190, 1658320633, 1774958504) ^ 887751044;
@@ -212,7 +212,7 @@ else
 kXd2NEN--;
 if ((1174115704 / Nh15zs1) >= -1277972526)
 {
-Bb_8b8vVw2 = tfYx / wrK0Y89(1744973377, kXd2NEN, aZZKgNQ3);
+
 }
 {
 int i = 2;
@@ -231,7 +231,7 @@ czU12q = (int)ceil(P8o_zk5R);
 while (i >= 0);
 }
 
-k53u94 = c9V1aj6U8q % 1200239941;
+
 try
 {
 for (int j = 2; j >= 0; j--)

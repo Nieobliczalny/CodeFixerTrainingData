@@ -31,7 +31,7 @@ int main()
   float  dcxAe3_;
   dcxAe3_  =  2032273642;
 	float	vLJ351;
-	vLJ351	=	1712896480;
+
 	long	N8wPM;
 	N8wPM	=	1249517303;
 	unsigned short	X0wDSbq;
@@ -41,7 +41,7 @@ int main()
   short  nqSrf4u;
   nqSrf4u  =  -1379110409;
     int    L5B1xX;
-    L5B1xX    =    -1875919701;
+
  long CQ8C42;
  CQ8C42 = -185293005;
   unsigned short  VawZ_6cT6;
@@ -59,7 +59,7 @@ int main()
     unsigned short int    UL254J42bJ;
     UL254J42bJ    =    -5485192;
     unsigned long long    Gljtb_7nG;
-    Gljtb_7nG    =    1306307772;
+
  short d24_rSx23;
  d24_rSx23 = -1940485827;
  long tCm26Sk5F;
@@ -71,7 +71,7 @@ int main()
 	short	z2li_H45;
 	z2li_H45	=	-561655733;
 	short int	SDK8gT;
-	SDK8gT	=	-816003565;
+
  float xN__2MB5T8;
  xN__2MB5T8 = -160457052;
  double FWxU;
@@ -83,7 +83,7 @@ int main()
 	unsigned short	dO6aiKPi1;
 	dO6aiKPi1	=	0;
   unsigned long  Sm_jajs;
-  Sm_jajs  =  85852976;
+
     long    QcHZdah;
     QcHZdah    =    1221046167;
  unsigned long s6u_u;
@@ -95,7 +95,7 @@ int main()
  long double q0vKLt;
  q0vKLt = 148275676;
   double  v_8A01w;
-  v_8A01w  =  1890021332;
+
     unsigned long    ma2W275Fn;
     ma2W275Fn    =    -346749284;
   long  REHvIg4;
@@ -105,7 +105,7 @@ int main()
   int  D5e3fwwYxZ;
 
     short    b53luCTCB;
-    b53luCTCB    =    -2025478734;
+
     long long    vPjg;
     vPjg    =    873826585;
  long double e0o_M42c6;
@@ -115,7 +115,7 @@ int main()
 	short int	XV95w;
 	XV95w	=	1933907014;
 	float	RD27;
-	RD27	=	-250642585;
+
 	unsigned short	RU94r9z2_P;
 
     long    mA_gpd4l9k;
@@ -125,7 +125,7 @@ int main()
  float gJ571WI98;
  gJ571WI98 = -806228779;
  short PzZsn7QuuA;
- PzZsn7QuuA = 2135999237;
+
 
 try
 {
@@ -150,7 +150,7 @@ if (m3w401 < Tw7f03)
 {
 for (int k = 7; k >= 0; k--)
 {
-xN__2MB5T8 = D7j1aamc5c();
+
 }
 }
 else
@@ -161,7 +161,7 @@ case 'a':
 
 break;
 case 'b':
-RD27 = (int)floor(a_tTdhXIO);
+
 break;
 case 'c':
 lwXtNdw *= 1524927038;
@@ -212,7 +212,7 @@ case 'b':
 
 break;
 case 'c':
-m3w401 = (int)abs(nqSrf4u);
+
 break;
 default:
 RD27 = (int)ceil(dcxAe3_);
@@ -262,7 +262,7 @@ lwXtNdw = D7j1aamc5c();
 }
 else
 {
-a5vs6jQ2 = vPjg ^ 1684208237;
+
 }
 }
 i--;
@@ -296,7 +296,7 @@ std::cout << 487754309 / UJV4i(724413431) << std::endl;
 }
 
 
-V6SkWJt7B3 %= 1526973359;
+
 
 OJL3tF = (int)floor(a_tTdhXIO);
 
@@ -317,7 +317,7 @@ for (int k = 0; k < 5; k++)
 --i;
 }
 }
-s6u_u = (unsigned long)(hu0p);
+
 
 return 0;
 }

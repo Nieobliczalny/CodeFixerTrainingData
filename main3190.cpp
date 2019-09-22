@@ -453,7 +453,7 @@ case 2:
 ps375N *= nFgZc2_;
 break;
 case 3:
-N8J087 >>= oSSS_;
+
 break;
 case 4:
 nFgZc2_ = (int)abs(N8J087);
@@ -521,7 +521,7 @@ else if ((pZH1b6 < oSSS_) && ((sq4TgkA != -1126158570) || (sq4TgkA < 878406711))
 int k = 2;
 do
 {
-N8J087 = (int)abs(sq4TgkA);
+
 k--;
 }
 while (k >= 0);

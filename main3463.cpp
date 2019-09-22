@@ -96,7 +96,7 @@ int main(void) {
  unsigned short pkBs7N5j = -601317844;
 
 
-b6_OI = -74070801 / BKdc1aEf(-350287792, -1313793882, -494158960);
+
 
 std::cout << JZGh9(Sfja8L0, B5Q7Iq5OP_, 1414266975, -403421102) << F90b1 << y1m7G << JZGh9(Sfja8L0, -886799339, V288UM3523, c_Xgajy) << BKdc1aEf(Sfja8L0, 1140166993, V288UM3523) << std::endl;
 {
@@ -116,7 +116,7 @@ else
 {
 std::cout << JZGh9(Sfja8L0, 819436468, V288UM3523, c_Xgajy) << CUgVNqQF << BKdc1aEf(-306480913, B5Q7Iq5OP_, -1045590635) << std::endl;
 }
-UsNXj6D29 = BKdc1aEf(-1536268340, y1m7G, -984462738);
+
 {
 int i = 0;
 while (i < 2)
@@ -129,7 +129,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-e7H_3y = w6z77lY ^ 673133730;
+
 break;
 case 'c':
 case 'C':
@@ -145,7 +145,7 @@ G1ie83k = JZGh9(463147613, -465225092, w50Ve, w6z77lY);
 break;
 case 'f':
 case 'F':
-e6eR0F = (int)ceil(RFB9);
+
 break;
 default:
 h_QKdWKT = (int)ceil(V5Vsi);
@@ -160,7 +160,7 @@ case 'a':
 
 break;
 case 'b':
-Qtu8mRp += 1384688830;
+
 break;
 case 'c':
 TKx7U = (int)abs(c_Xgajy);
@@ -205,7 +205,7 @@ case 2:
 
 break;
 case 3:
-Dm82e7 = (int)ceil(h_QKdWKT);
+
 break;
 case 4:
 msTP84oI = BKdc1aEf(-756123576, uSL7R6L, SN3wiv);

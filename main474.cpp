@@ -105,7 +105,7 @@ if (sZ___w4P9A == NqIz1)
 switch (iv_T1l6lsP)
 {
 case 0:
-U5I_ = sZ___w4P9A << iv_T1l6lsP;
+
 break;
 case 1:
 iv_T1l6lsP = womtT(iv_T1l6lsP, RHsx42pGIt, dCKbVJgjZ3, 1784706495, -1776865977);
@@ -185,7 +185,7 @@ int k = 0;
 while (k < 6)
 {
 ++k;
-U5I_ = womtT(353228115, -1163892158, -1731016420, -6468829, 1823808153);
+
 }
 }
 ++j;

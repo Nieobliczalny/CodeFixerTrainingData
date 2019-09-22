@@ -522,7 +522,7 @@ case 5:
 
 break;
 case 6:
-s1_f_bB = wpv_1j2(s1_f_bB, 490094570, rjd3);
+
 break;
 case 7:
 kIUef8 = meKilwcbK ^ B2O936H2v;
@@ -604,7 +604,7 @@ if ((Z_Dwc6oNV < 1123382395) && (s1_f_bB))
 }
 else
 {
-tA6lf = (int)floor(s1_f_bB);
+
 }
 --j;
 }

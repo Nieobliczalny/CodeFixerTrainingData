@@ -126,7 +126,7 @@ std::cout << "QcyVDcT9F4" << std::endl;
 int i = 6;
 do
 {
-D74XJ = jWAzex1B79 % i3FS;
+
 i--;
 }
 while (i >= 0);
@@ -184,7 +184,7 @@ else
 {
 if ((BDXa != a9Srcvg8Z) || (ajnn1q65 >= a9Srcvg8Z))
 {
-y_56Yc = (int)abs(s3KHRi2u4);
+
 }
 else if (mqOw >= TuCFzY4mL)
 {
@@ -196,7 +196,7 @@ n1jBb4Y = KxGSEgT0YJ();
 }
 else
 {
-k2_p4xlm1_ = (int)abs(BYAoU);
+
 }
 }
 }
@@ -237,7 +237,7 @@ case 'b':
 n1jBb4Y = KxGSEgT0YJ();
 break;
 case 'c':
-i3FS = (int)abs(YWpujY5GtQ);
+
 break;
 case 'd':
 jWAzex1B79 = (int)abs(R05_44_eb);
@@ -263,7 +263,7 @@ while (i >= 0);
 }
 
 
-ldkQE = n1jBb4Y % BDXa;
+
 ff8_8W = 1078120480 / DMIaHZ;
 {
 int i = 0;

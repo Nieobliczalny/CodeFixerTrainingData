@@ -102,7 +102,7 @@ case 3:
 obkh5_19 = BGo_K(G0HgHMuiLM, ctVR1wQY) % nG5K;
 break;
 case 4:
-nG5K = (int)abs(Rpazwd);
+
 break;
 case 5:
 Vp62 ^= H6KK;
@@ -352,7 +352,7 @@ a0bLw_ = OETevzk(a0bLw_, IrAL9M, dg_qn, 1582478586, VXiA);
 }
 
 
-ctVR1wQY = (char)(I3x_);
+
 
 cout << "p8j93R" << "zrEz4K" << endl;
 
@@ -398,7 +398,7 @@ else
 {
 IrAL9M++;
 }
-jcS2X9Y = jcS2X9Y ^ 316145830;
+
 
 if (UszoPC_m9)
 {
@@ -411,7 +411,7 @@ case 'b':
 
 break;
 case 'c':
-z6_y ^= m8ggfMmNAF;
+
 break;
 case 'd':
 G0HgHMuiLM = BGo_K(VXiA, G0HgHMuiLM);
@@ -509,7 +509,7 @@ else if (s_54R <= 1140329014)
 int k = 0;
 while (k < 7)
 {
-sT7SeopCF = (int)abs(gLIXdPy);
+
 ++k;
 }
 }
@@ -533,7 +533,7 @@ if (IrAL9M == 1254805492)
 switch (bG38)
 {
 case 0:
-fkVRuZ = BGo_K(205738501, 497390385);
+
 break;
 case 1:
 q1sS35y6Cq |= NtT27_1;
@@ -548,7 +548,7 @@ case 4:
 tZk8jm6287 >>= r21515U4;
 break;
 case 5:
-d9V3OC5H = BGo_K(Cp6sPQ, d9V3OC5H);
+
 break;
 case 6:
 

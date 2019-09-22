@@ -158,7 +158,7 @@ for (int i = 6; i >= 0; i--)
 }
 try
 {
-OgcGO1g -= 1748517572;
+
 }
 catch (int& errorCode)
 {
@@ -184,7 +184,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-LTdE1Yw7j = (int)ceil(I56K89);
+
 break;
 }
 }
@@ -292,7 +292,7 @@ R578czS >>= 784458918;
 }
 else
 {
-kfZM47 = (int)ceil(NNt6Xw_f);
+
 }
 }
 
@@ -446,7 +446,7 @@ while (j < 8);
 }
 std::cout << bhz4 << "yHs_9" << "RdfVUAH2" << "z6a9dW" << std::endl;
 
-Y29Tf9Q44 = (int)ceil(w4a36U);
+
 Abre1 = Xc3pGG / 1660381229;
 return 0;
 }

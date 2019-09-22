@@ -30,7 +30,7 @@ while (i < 10);
 
 
 
-GVK0 = mLKmr(1824540789, -290480459);
+
 e_z15Ld6 = PxN74s31p / P7c2i6fLh;
 return 0;
 }

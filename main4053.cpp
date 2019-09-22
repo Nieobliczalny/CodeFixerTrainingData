@@ -121,7 +121,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-tF5X = (int)floor(efbdBUS1);
+
 break;
 case 'c':
 case 'C':
@@ -133,7 +133,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-dW3M = nln_jELGc8 % addov5264g;
+
 break;
 case 'f':
 case 'F':
@@ -145,7 +145,7 @@ case 'G':
 break;
 case 'h':
 case 'H':
-q1lB2Qe1 = (int)floor(efbdBUS1);
+
 break;
 case 'i':
 case 'I':
@@ -163,7 +163,7 @@ catch (int& errorCode)
 OK1JhH_52 = B0z04KQ(OK1JhH_52);
 }
 
-g837ev6 = fNX_Oj21 / pgM34af;
+
 
 Sk0x70zF = jxX_71cJPN >> fm08FadIm;
 

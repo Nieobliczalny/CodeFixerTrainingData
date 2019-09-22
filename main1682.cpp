@@ -85,7 +85,7 @@ F_EXy = (short int)(t0_dC1Y + (-1713444477));
 
 pmp7Lt /= 874753486;
 
-R8d4c = DS2si1Pl << pmp7Lt;
+
 try
 {
 switch (fzn7B4)

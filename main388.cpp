@@ -31,7 +31,7 @@ int main()
   unsigned int  u2gbi_;
   u2gbi_  =  -431839837;
 	double	VDdfnD45O;
-	VDdfnD45O	=	1467649246;
+
 	unsigned short int	ub9zw;
 	ub9zw	=	-1493711691;
   short int  cd1x;
@@ -102,7 +102,7 @@ Al2q--;
 break;
 case 'c':
 case 'C':
-jcy_or46L <<= 566001778;
+
 break;
 case 'd':
 case 'D':
@@ -115,7 +115,7 @@ else
 switch (Ye_2ezhS)
 {
 case 'a':
-VDdfnD45O = (int)abs(XYj_HokGCM);
+
 break;
 case 'b':
 xDk_5 = z772ZV(xDk_5, -1377291171, ss_lye9ti, PNcj);
@@ -191,7 +191,7 @@ if (ub9zw != Al2q)
 }
 else if (xDk_5)
 {
-PNcj = tIhVW(PNcj, Ye_2ezhS, ss_lye9ti);
+
 }
 else if (u2gbi_ == ub9zw)
 {
@@ -203,7 +203,7 @@ else if (k00TV3 == oHuhI)
 }
 else if (((jBfJ6i >= D0_rTKo8B) && (Al2q <= Eg_mDF)) || (Al2q & Uz726Qcs2))
 {
-oHuhI = z772ZV(oHuhI, 1847907457, -1782224937, -585149036);
+
 }
 else
 {

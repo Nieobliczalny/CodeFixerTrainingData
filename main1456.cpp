@@ -34,7 +34,7 @@ int main() {
 	unsigned char	ycynD;
 	ycynD	=	418585541;
   long  ojH_44z;
-  ojH_44z  =  -2006237890;
+
 	unsigned long long	Ch_7g1a;
 	Ch_7g1a	=	-771124789;
 	unsigned char	wDuk;
@@ -337,7 +337,7 @@ for (int j = 9; j >= 0; j--)
 }
 try
 {
-c1xV = (short int)(ycynD);
+
 }
 catch (int& errorCode)
 {

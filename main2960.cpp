@@ -47,7 +47,7 @@ int main(int argc, char** argv) {
  T1dOax = -1601500720;
  VcqYtoxfe = -20998307;
  v024o = -1493382087;
- mOxI = 1190511257;
+
  pDKq6C = -406242266;
  wTCGZH = 1593186572;
  H3Yq__7 = -2095708997;
@@ -84,7 +84,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-wTCGZH = UV7M47t43v();
+
 break;
 case 'c':
 case 'C':
@@ -334,7 +334,7 @@ P1995 ^= 1783101183;
 }
 else
 {
-X615 /= 1053882318;
+
 }
 }
 catch (int& errorCode)
@@ -566,7 +566,7 @@ else
 {
 for (int k = 0; k < 7; ++k)
 {
-wH6qU_hBg = ejl_2 | jBDQpE2N;
+
 }
 }
 }

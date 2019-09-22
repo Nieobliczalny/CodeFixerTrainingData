@@ -74,7 +74,7 @@ for (int j = 9; j >= 0; --j)
 }
 }
 
-u7MynH = N8h03r();
+
 
 {
 int i = 0;
@@ -131,7 +131,7 @@ else
 int k = 5;
 do
 {
-Jn5D = (int)ceil(Tt2C);
+
 --k;
 }
 while (k >= 0);
@@ -196,7 +196,7 @@ while (k >= 0)
 }
 else
 {
-fJh_sLq189 = (int)abs(A94_60qdx6);
+
 }
 }
 catch (int& errorCode)
@@ -212,7 +212,7 @@ for (int i = 2; i >= 0; --i)
 
 }
 
-M4c8kubjm = (int)abs(mIzCO_4iL);
+
 try
 {
 {
@@ -231,7 +231,7 @@ catch (int& errorCode)
 {
 Tt2C = u5_LdN * pIx69rymH;
 }
-e0j63t9z = (int)abs(GqR8);
+
 
 
 return 0;

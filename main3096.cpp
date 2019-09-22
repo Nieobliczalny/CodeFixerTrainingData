@@ -455,7 +455,7 @@ else
 {
 if (hjm6ewW9 > qpxvW)
 {
-y_bXZdh = (short int)(ZK0qVk7Ul6);
+
 }
 }
 

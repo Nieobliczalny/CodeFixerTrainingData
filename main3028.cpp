@@ -193,7 +193,7 @@ if (t_Js == O4hM)
 int j = 0;
 do
 {
-p185y = (short int)(MI7_ubVI);
+
 ++j;
 }
 while (j < 6);
@@ -205,7 +205,7 @@ if (p185y < 156134214)
 {
 try
 {
-y04Uz2 = MI7_ubVI & L059;
+
 }
 catch (int& errorCode)
 {
@@ -233,7 +233,7 @@ case 1:
 hr2ll55++;
 break;
 default:
-hpQs = HRgNRpfA - gNKYV0;
+
 break;
 }
 }
@@ -260,7 +260,7 @@ case 5:
 gJ_dp_muj = (int)floor(x_Y47);
 break;
 case 6:
-hpO0hOB1_l = wGQl_vy2(hpO0hOB1_l, -1330281056, -372319382, mpXNp578T);
+
 break;
 case 7:
 R0_aw = (int)abs(tt3_0l0MO);
@@ -390,7 +390,7 @@ else
 {
 for (int j = 0; j < 7; j++)
 {
-caoXf62Aik = (unsigned long)(HRgNRpfA + (860770983));
+
 }
 }
 {
@@ -441,7 +441,7 @@ A4I9 = (int)ceil(x_Y47);
 break;
 case 'c':
 case 'C':
-WkGbo /= tt3_0l0MO;
+
 break;
 case 'd':
 case 'D':
@@ -458,7 +458,7 @@ catch (int& errorCode)
 puLque = RouI();
 }
 
-TpWXsr2T = (int)abs(Sw_0mBP);
+
 
 return 0;
 }

@@ -522,7 +522,7 @@ if (((dSUN28) || (vt0gOSnr > 153183681)) && ((M_g6IwL59 >= p_U8b) || (L07l1 & Os
 {
 for (int k = 3; k >= 0; --k)
 {
-pE0FH1efT = qx072rWQ4(pO05, 1746976138);
+
 }
 }
 }

@@ -19,7 +19,7 @@ std::cout << r1A_40y5op / OahrRn31H << std::endl;
 std::cout << "ZPgbl84" << "F3P6" << FHlY5 << FHlY5 << std::endl;
 
 
-i19fTh = (int)ceil(r1A_40y5op);
+
 
 Mq34bTal = (long double)(EAr0rMmg);
 
@@ -30,7 +30,7 @@ while (i >= 0)
 i--;
 if (((r1A_40y5op != -1451768790) && (STfP7XER6)) || (gv0eG5LqA < 822298707))
 {
-i19fTh = (STfP7XER6 == -1492309179) ? 478147786 : -2027794210;
+
 }
 }
 }

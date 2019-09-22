@@ -130,7 +130,7 @@ while (i < 9);
 switch (nUd2)
 {
 case 0:
-ukXc9k3o = (int)abs(wvNcAIR5);
+
 break;
 case 1:
 fuJv5R <<= 1928247390;
@@ -211,7 +211,7 @@ if (u9B25 > 559285806)
 switch (jui2)
 {
 case 0:
-tb08aGA = (int)abs(eO42);
+
 break;
 case 1:
 
@@ -223,7 +223,7 @@ case 3:
 L7XiJbv = jfm6c & 1886786706;
 break;
 case 4:
-c4D9Rvn7b4 = Drj_6oNlOe(1237332517, -1361363141);
+
 break;
 case 5:
 
@@ -235,7 +235,7 @@ case 7:
 rj4Kdu9 = Wjgj_vt96(rj4Kdu9, 370949146, jui2, 65132217, 2076585155);
 break;
 case 8:
-j5Wz8hV9T |= Rb6_70Ss49;
+
 break;
 case 9:
 I_GF5 = (int)ceil(wvNcAIR5);
@@ -263,7 +263,7 @@ while (i >= 0);
 Gy3TnmPz = Drj_6oNlOe(-1445748522, -891994074);
 if (T6ur == CqH9ftC)
 {
-lmgNI4 = se8DV >> TqXd;
+
 }
 else
 {
@@ -278,7 +278,7 @@ case 'b':
 Gy3TnmPz = Drj_6oNlOe(-169033136, 1604400836);
 break;
 case 'c':
-eO42 = (int)floor(I_GF5);
+
 break;
 case 'd':
 GZWF1mtbKT = Wjgj_vt96(-156411082, 1230328375, hXsl, A80y2_, nUd2);
@@ -313,7 +313,7 @@ case 1:
 
 break;
 case 2:
-se8DV = dSN1 & jui2;
+
 break;
 case 3:
 nUd2 = CqH9ftC | 758183708;

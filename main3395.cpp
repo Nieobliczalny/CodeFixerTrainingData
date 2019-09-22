@@ -36,7 +36,7 @@ int main()
   long long  G0k3Of;
   G0k3Of  =  -1021882126;
     unsigned short    SUk92G7nV;
-    SUk92G7nV    =    -184869391;
+
   unsigned long  scSq9rGa9;
 
  unsigned long NTjQl863;
@@ -66,7 +66,7 @@ int main()
 	short int	e775_b4;
 	e775_b4	=	-1465562014;
 	unsigned int	DiZkZMX;
-	DiZkZMX	=	-1347077669;
+
  unsigned int z80g4;
  z80g4 = 2126149368;
     short int    p7086lj00;
@@ -82,7 +82,7 @@ int main()
  int yhAOCm;
  yhAOCm = -1630381775;
   int  oB3S;
-  oB3S  =  1537609005;
+
  unsigned short int po92oBHu1;
  po92oBHu1 = -1945367698;
 	long	vouM06yYBz;
@@ -94,7 +94,7 @@ int main()
 	double	A1DO;
 	A1DO	=	-22544715;
   unsigned char  qRiNx3331_;
-  qRiNx3331_  =  1333912304;
+
 	int	WP_wWU;
 	WP_wWU	=	712604056;
 	double	qaBiVH;
@@ -106,7 +106,7 @@ int main()
  int U8f2;
 
  unsigned long long h0NAN2;
- h0NAN2 = 164304602;
+
     unsigned long long    aJSZz3Cp;
     aJSZz3Cp    =    2113200256;
     char    A86_;
@@ -126,7 +126,7 @@ int main()
  unsigned short FfU8uwy;
  FfU8uwy = -1519476445;
   short  SI1k8y;
-  SI1k8y  =  0;
+
   short int  Jg985yU;
   Jg985yU  =  1164942516;
   unsigned short  pAxgbaJp;
@@ -146,7 +146,7 @@ int main()
  long double G7gB_w;
 
   char  EW4x;
-  EW4x  =  -1588790961;
+
 
 h0NAN2 = (unsigned long long)(ixfQV);
 
@@ -249,7 +249,7 @@ case 'b':
 
 break;
 case 'c':
-A1DO = (int)ceil(G7gB_w);
+
 break;
 case 'd':
 HHG1 = (t04x_A != 106289737) ? dV3rCP5 : W41K;
@@ -278,7 +278,7 @@ t04x_A = (int)abs(p19C);
 }
 else if (((pAxgbaJp > 1510956890) && (lsJftw == 2102278799)) || (rEv6 & wlIbpKaiTy))
 {
-SI1k8y = cVI5(388518095, -2123499158, Z2R69G, t04x_A, RwHe0lCu);
+
 }
 else if (t9QCQO5 != -1635715986)
 {
@@ -374,7 +374,7 @@ case 'd':
 jX8n = cVI5(YVrdIa66re, ZSBwf, dV3rCP5, 146561619, oX542);
 break;
 case 'e':
-qaBiVH = (int)floor(X1RR);
+
 break;
 case 'f':
 
@@ -394,7 +394,7 @@ std::cout << s552d() << G7gB_w << std::endl;
 }
 else
 {
-DiZkZMX = s552d();
+
 }
 
 
@@ -432,7 +432,7 @@ else if (aJSZz3Cp != -478405671)
 }
 else
 {
-NTjQl863 = cVI5(WP_wWU, -1013771825, F41n, BSLq26sBLn, wlIbpKaiTy);
+
 }
 }
 }

@@ -15,7 +15,7 @@ int main(void)
  unsigned int EnH1_yO3;
 
   double  b88TL8n;
-  b88TL8n  =  -733062033;
+
   double  q_9vfV63;
   q_9vfV63  =  799505406;
   double  wF8RbyV;
@@ -29,7 +29,7 @@ int main(void)
     unsigned int    wEkSb3ZY;
     wEkSb3ZY    =    -1439866651;
     int    Zh8_vip;
-    Zh8_vip    =    1184987037;
+
 	unsigned long long	s9rM;
 	s9rM	=	-886986163;
     unsigned short    nB015iw;
@@ -45,7 +45,7 @@ int main(void)
 	double	or2bJRHM;
 	or2bJRHM	=	-797797811;
  double zd02;
- zd02 = 1097340003;
+
  unsigned char l_64D08;
  l_64D08 = 776838985;
  unsigned char M_6LI;
@@ -65,7 +65,7 @@ int main(void)
     short int    k55Ig1m;
 
 	unsigned short	P7n43_STm;
-	P7n43_STm	=	-1578930336;
+
 	unsigned long long	Nr48JAZbl;
 	Nr48JAZbl	=	0;
  long f2DxA_Uj;
@@ -85,7 +85,7 @@ int main(void)
   unsigned short  Daec55la;
   Daec55la  =  -178263388;
   long double  HNOX;
-  HNOX  =  2083089672;
+
   int  CTZWJ_0b;
   CTZWJ_0b  =  1118100497;
   unsigned long  UPEl4;
@@ -113,7 +113,7 @@ int main(void)
   short  U8bZZ6T;
   U8bZZ6T  =  1311730326;
 	double	O640H1o9uS;
-	O640H1o9uS	=	139105538;
+
   unsigned char  e3EX6;
 
 	unsigned short int	eB9x2;
@@ -149,7 +149,7 @@ case 1:
 ZKObkH92 += 533820032;
 break;
 case 2:
-Zh8_vip = Daec55la >> 1162152240;
+
 break;
 case 3:
 Zh8_vip = wEkSb3ZY % 160696998;
@@ -170,7 +170,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-nGP1 %= 678449014;
+
 break;
 case 'd':
 case 'D':
@@ -186,7 +186,7 @@ bE5D = (CTZWJ_0b > U8bZZ6T) ? -425962469 : QKK0ae;
 break;
 case 'g':
 case 'G':
-s9rM <<= 425294159;
+
 break;
 }
 }
@@ -217,7 +217,7 @@ if (ujI8ur_ <= 1605252009)
 }
 }
 
-CTZWJ_0b = rA3P9Eu91 % 573613559;
+
 
 HNOX = (long double)(wF8RbyV);
 DKDrLu6 *= QKK0ae;
@@ -231,7 +231,7 @@ case 1:
 
 break;
 case 2:
-U8bZZ6T = Nr48JAZbl | yV6Zb6YMJ;
+
 break;
 case 3:
 e0i331 *= WWTho;
@@ -243,7 +243,7 @@ case 5:
 
 break;
 case 6:
-Zh8_vip = (int)abs(rA3P9Eu91) + (420855457);
+
 break;
 case 7:
 eB9x2 <<= 1159612611;
@@ -265,7 +265,7 @@ std::cout << "pYAwM" << std::endl;
 }
 
 ZKObkH92 = (int)abs(U_9x0v1s7S);
-Wrk0 = yV6Zb6YMJ / Nr48JAZbl;
+
 
 {
 int i = 3;
@@ -291,7 +291,7 @@ while (i >= 0);
 
 UPEl4 = bE5D ^ b0XqL3;
 
-q_9vfV63 = (int)floor(wF8RbyV);
+
 std::cout << nB015iw << UPEl4 << "eVCRHWpl" << V04G << std::endl;
 
 {

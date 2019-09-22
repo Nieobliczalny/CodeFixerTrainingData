@@ -51,7 +51,7 @@ try
 switch (GVWVPFxv_Q)
 {
 case 'a':
-Rf4A = A9p8Y / s3426tgHh5;
+
 break;
 case 'b':
 H2h4fpsQx = Y1EzL | ijJv;
@@ -111,7 +111,7 @@ while (i < 4);
 VGsxXE79KO = gI27(-172432288, Y1EzL, VGsxXE79KO, -2051799262, 1018967943);
 if ((H2h4fpsQx <= W8bm_e0) && (N49m4_ >= 1429462908))
 {
-Y1EzL = (long)(IT8E86c + (1928368236));
+
 }
 
 
@@ -128,7 +128,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-Rf4A = VgGb * 238248068;
+
 break;
 case 'c':
 case 'C':

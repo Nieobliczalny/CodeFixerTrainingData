@@ -39,7 +39,7 @@ do
 {
 if (wx2c1piH9a & fM39KLd_53)
 {
-Z232 = (double)(R809O);
+
 }
 else if ((ye6nN <= 1252890848) && (zYA09 <= IUT1160))
 {
@@ -80,7 +80,7 @@ while (i < 4);
 }
 
 
-f3s8 = vg9wHO8 - 823053529;
+
 for (int i = 9; i >= 0; i--)
 {
 cout << WjMQL8(1342206763, jaAXMxBN, 1213552212) << "kdQkovq8s9" << Fy558vta43(Yk4HoOL, jaAXMxBN, Q8ezg) << QqDS2ikO << endl;
@@ -112,7 +112,7 @@ nQ9eMGx357 = KgWI5AR6();
 
 
 
-Z232 = (double)(O1p3r23);
+
 KbRq7C = xhb9 / KSdf2A0y;
 Z232 = KgWI5AR6();
 switch (fM39KLd_53)
@@ -124,7 +124,7 @@ case 1:
 Zv_rW *= 1257466168;
 break;
 case 2:
-xhb9 = (int)abs(vkDO);
+
 break;
 case 3:
 
@@ -167,7 +167,7 @@ QoNb = Fy558vta43(ay43wN, zYA09, FS_mqEfW5W) * 1890549882;
 }
 else
 {
-x__4Nx4M = (int)floor(Bg47Sr);
+
 }
 }
 catch (int& errorCode)
@@ -219,7 +219,7 @@ if ((CWcS8IB > zYA09) || (L0qUf4j > 355847944))
 }
 else if (e9_7NEm)
 {
-vg9wHO8 = (double)(Gd3Fct);
+
 }
 else if (Jd707kH8e)
 {
@@ -236,7 +236,7 @@ case 'a':
 
 break;
 case 'b':
-G67CZT_18I = Fy558vta43(G67CZT_18I, IUT1160, 1863633409);
+
 break;
 default:
 jH_5a = (int)abs(T3Yx7PB);

@@ -41,7 +41,7 @@ int main(void) {
  long CR0t_8;
  CR0t_8 = -1276681291;
     short int    nx1UIh2_R;
-    nx1UIh2_R    =    101230360;
+
   unsigned short  dbVH8Fyh9;
   dbVH8Fyh9  =  -352419649;
  long long tj0Deg_C_O;
@@ -131,7 +131,7 @@ int main(void) {
 	long double	cs7_7OtK;
 	cs7_7OtK	=	-343250293;
     long    Rd7W30nn;
-    Rd7W30nn    =    -92298056;
+
   unsigned char  v48t_dk;
 
     unsigned char    V1x9N;
@@ -143,7 +143,7 @@ int main(void) {
   unsigned char  eoFr7J9e54;
   eoFr7J9e54  =  467055576;
  long double XyE73X;
- XyE73X = -881824603;
+
   int  Mlq_ceG;
   Mlq_ceG  =  -1527298856;
     unsigned long long    YTz2inM;
@@ -177,7 +177,7 @@ int main(void) {
     unsigned int    UQ9w3XklP6;
     UQ9w3XklP6    =    2074065982;
     double    B58x9s8I;
-    B58x9s8I    =    -1826062884;
+
 
 B58x9s8I = (int)floor(yOJcEbC);
 
@@ -470,7 +470,7 @@ case 'f':
 
 break;
 case 'g':
-wR30Mt15n_ = (int)abs(NMFHTYF);
+
 break;
 case 'h':
 M9TNRJ8 -= L2vDQj;
@@ -506,7 +506,7 @@ break;
 
 if ((E4bM <= 1318926326) && (B957 <= 985837481))
 {
-aaIlN = (int)floor(NMFHTYF);
+
 }
 else if (((If_9fP9 != m1O3) || (YBDds7I <= Hn98KhHy7)) && ((d9OZdkGQ <= LDbHM) || (uR5JN4q != -1103753670)))
 {
@@ -610,7 +610,7 @@ else
 
 std::cout << y5Ugc() << d0N8se7K6(dbVH8Fyh9, CygK, -554561718) << M9TNRJ8 << "ecHgGyUv" << "ZE7o4vJE1" << std::endl;
 
-L0r_8aZk = ZyM_(L0r_8aZk, 1663932460);
+
 
 switch (L2vDQj)
 {
@@ -621,7 +621,7 @@ case 1:
 
 break;
 case 2:
-L2vDQj = (int)abs(ntYSgV);
+
 break;
 case 3:
 NMFHTYF = (int)floor(DgyV4c);

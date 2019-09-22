@@ -89,7 +89,7 @@ int main(void)
  long ZrE507m;
 
 	unsigned long long	I2B39E;
-	I2B39E	=	-1540780136;
+
     unsigned int    VK9_L_4i2F;
     VK9_L_4i2F    =    -1687415931;
 	unsigned long long	W0BJ0E;
@@ -117,7 +117,7 @@ int main(void)
 	unsigned long long	L4uc;
 
  unsigned long e033n0Cyz;
- e033n0Cyz = -1618854225;
+
 	long double	a_Lb_rA_A;
 	a_Lb_rA_A	=	-262042322;
 	unsigned int	dmUz3fIQ;
@@ -141,7 +141,7 @@ int main(void)
     unsigned long    i2zaK;
     i2zaK    =    -1268772717;
 	short	NDnu8fwm;
-	NDnu8fwm	=	1673007464;
+
     long long    jBz7pq6;
     jBz7pq6    =    -175417204;
     short int    z_OiE;
@@ -480,7 +480,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-Ki3L5c = (int)abs(jBz7pq6);
+
 break;
 case 'e':
 case 'E':
@@ -498,7 +498,7 @@ break;
 
 x2Bn = RIOoa8W(O7Krf, -1620038979, SIZrNYUB1);
 
-jBz7pq6 = Suh0 % 1841080489;
+
 
 cout << QqPMm7QS1o << RIOoa8W(O7Krf, 509731278, SIZrNYUB1) << RIOoa8W(252688233, FBrku, SIZrNYUB1) << "opM1" << sOp7Pi5I12 << endl;
 return 0;

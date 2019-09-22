@@ -203,7 +203,7 @@ if ((NfO35 > -1562902541) && ((DC3DR1_P90 < KZdZLf6) && (S9fy7fX_ <= vXS7CAq)))
 switch (Ny940FN)
 {
 case 0:
-vwYA5 = v_UugG_ / Xe0z;
+
 break;
 default:
 c94d8Vp = rt_2(tr_2) | yET00s8lJ;
@@ -286,7 +286,7 @@ case 6:
 
 break;
 case 7:
-vwYA5 = (int)abs(yET00s8lJ);
+
 break;
 case 8:
 w_la6zFX3 = (int)floor(kxK_);
@@ -412,7 +412,7 @@ j--;
 std::cout << "a606n" << std::endl;
 V25TdT3 = -1103131673 / pEpe57H7K;
 
-KZdZLf6 = (Y0J56S >= 1973006964) ? B1Kzi : NfO35;
+
 
 switch (lqNPplMnJ)
 {
@@ -423,7 +423,7 @@ case 1:
 
 break;
 case 2:
-Yc2eX4ebP = (int)abs(u19pL10l);
+
 break;
 case 3:
 I465 = v_UugG_ & Ee3jk;
@@ -435,7 +435,7 @@ case 5:
 
 break;
 case 6:
-StMZ = lo1_qKNQC4();
+
 break;
 case 7:
 yET00s8lJ |= 1648231918;

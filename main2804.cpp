@@ -81,7 +81,7 @@ if ((af_Ogp7na > 1147013930) && (ThA1 > B_tV5x))
 {
 if (BrdgD2gYks > B_tV5x)
 {
-K71M_n = (int)ceil(UMYhlBK12);
+
 }
 else if (ZVBh == -1717960701)
 {
@@ -135,7 +135,7 @@ switch (UEeg)
 {
 case 'a':
 case 'A':
-fek1 = (int)abs(A4JIi5We);
+
 break;
 case 'b':
 case 'B':
@@ -188,7 +188,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-rEyDX = l3cnj(rEyDX, MiI_zN, 1965119180, -2017074710, -172359003);
+
 break;
 case 'e':
 case 'E':
@@ -349,7 +349,7 @@ case 1:
 
 break;
 case 2:
-ZVBh = gOb1p(ZVBh, -417094455, 2056717641) - 117423527;
+
 break;
 case 3:
 l2975UmQJB = gOb1p(-1333583668, MiI_zN, l4810YS);
@@ -361,7 +361,7 @@ case 5:
 
 break;
 default:
-l4810YS = (int)floor(eYZI4N5);
+
 break;
 }
 try

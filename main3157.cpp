@@ -81,7 +81,7 @@ int main() {
  unsigned char ybe20kcR = -630167193;
 
 
-dHztV = 292923560 / F36Y3;
+
 
 amDbz_Z = gQ_bWO6_X / 1347211761;
 try
@@ -97,7 +97,7 @@ case 0:
 
 break;
 case 1:
-hWz1ZEW = (int)abs(C11z_);
+
 break;
 }
 }
@@ -122,7 +122,7 @@ if ((cE5U760Qt >= X7sfPb02h) && (nQNQ == 1988465543))
 switch (Vje7xq)
 {
 case 'a':
-DCGAY2k9N5 = (int)floor(oI_4nLno_);
+
 break;
 case 'b':
 
@@ -143,7 +143,7 @@ if (FaAk_42 != 736447097)
 }
 else
 {
-Or3La = qMAhE * PE5ccb606v;
+
 }
 }
 catch (int& errorCode)
@@ -158,7 +158,7 @@ case 0:
 
 break;
 case 1:
-T6mWiJVa52 |= 700444014;
+
 break;
 case 2:
 g6_Lc17w21 = K6qqxl8H + Jf0TFuZoc;
@@ -171,7 +171,7 @@ default:
 break;
 }
 
-E43_nr9 = (long long)(Jz5GsTGFeZ);
+
 
 return 0;
 }

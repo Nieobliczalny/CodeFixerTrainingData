@@ -31,7 +31,7 @@ int main(int argc, char** argv) {
     XP12biMy    =    -112868601;
     f_3DS_    =    530275337;
     uFN0j    =    178722672;
-    P6Iu_13    =    -1932194426;
+
     hw2oS9Mz    =    -1778998830;
     qNcS2RaO    =    -573493101;
     aM66F    =    -2093868186;
@@ -51,7 +51,7 @@ int main(int argc, char** argv) {
     I576    =    1336548279;
     gWu7Rt    =    1767900375;
 
-    Gp1Kp    =    -290018439;
+
 
 P6Iu_13 = Egf_K046O / 252552324;
 W3Sh = (unsigned short int)(Sv2piv);
@@ -89,7 +89,7 @@ int j = 5;
 while (j >= 0)
 {
 --j;
-Gp1Kp = Y7sr47() & Qk0S2Tph;
+
 }
 }
 }
@@ -361,7 +361,7 @@ Sv2piv &= 450144138;
 break;
 case 'b':
 case 'B':
-Ekj1PoI_ = itTh2Oa | aM66F;
+
 break;
 case 'c':
 case 'C':
@@ -414,7 +414,7 @@ gWu7Rt = (unsigned short int)(itTh2Oa);
 }
 else
 {
-L_CJ5Qf &= 2132495973;
+
 }
 
 
@@ -434,7 +434,7 @@ for (int k = 3; k >= 0; k--)
 while (i < 2);
 }
 
-XP12biMy = uFN0j / eo95xL3a5W;
+
 
 Lo3lLZm7 = (unsigned short int)(itTh2Oa);
 if (Xy3f4 >= ur3aXm)

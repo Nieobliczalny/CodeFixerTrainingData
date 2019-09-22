@@ -914,7 +914,7 @@ case 'G':
 break;
 case 'h':
 case 'H':
-nn2os2o = VUhO77495G % 1546711381;
+
 break;
 case 'i':
 case 'I':
@@ -938,7 +938,7 @@ else if (fji3LL54_I > -675647854)
 int k = 0;
 while (k < 1)
 {
-VUhO77495G = pF6RG8ajo2();
+
 ++k;
 }
 }

@@ -245,7 +245,7 @@ else
 {
 for (int j = 5; j >= 0; j--)
 {
-iA5l99 = (char)(Kxp2);
+
 }
 }
 for (int i = 4; i >= 0; --i)
@@ -294,7 +294,7 @@ Kxp2--;
 }
 }
 
-C0kO = (char)(xbSWu);
+
 if ((xbSWu <= 1794567655) && (Blaia_3x))
 {
 if ((R894r_E4 >= -123705438) || (F4383z & xbSWu))
@@ -311,7 +311,7 @@ do
 switch (Blaia_3x)
 {
 case 0:
-cc1jR = (int)abs(PtLS) + (1538688475);
+
 break;
 case 1:
 
@@ -359,7 +359,7 @@ if (Blaia_3x == 0)
 
 if (ucnOpQfM >= Kxp2)
 {
-C0kO = C0kO + B2D4zU2;
+
 }
 else
 {

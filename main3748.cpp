@@ -21,7 +21,7 @@ char    qqSO6OTKjL(unsigned short int    a0Hd,int    g4K42_x,short    Jep_D36);
 int main()
 {
   char  oj443;
-  oj443  =  167164966;
+
 	unsigned short int	fkU1biro;
 	fkU1biro	=	2023202893;
   unsigned short int  G___16j5;
@@ -39,7 +39,7 @@ int main()
 	char	OCbjYfy98y;
 
  unsigned long long Pzy6;
- Pzy6 = -2114530077;
+
  float oG20kE;
  oG20kE = 119909715;
 	unsigned short	Q9P1V;
@@ -85,7 +85,7 @@ int main()
  short VhdI;
  VhdI = 651500972;
     long long    qGJh;
-    qGJh    =    -1317547152;
+
     int    l9RAJ0HxTl;
 
  unsigned short int h57hzpb_;
@@ -197,7 +197,7 @@ cout << "RbJxSa_6lI" << i0o9G << w99h27H(oTyfCU3l, 1091899857) << oG20kE << endl
 
 if (jtY2_PLa_ == 0)
 {
-	VhdI = a62qk / jtY2_PLa_;
+
 }
 
 try
@@ -222,7 +222,7 @@ i0o9G = (int)abs(sTUQ7_Sl8I);
 switch (sNec0S3__A)
 {
 case 0:
-BM2r45M -= 1104992178;
+
 break;
 case 1:
 
@@ -234,7 +234,7 @@ case 3:
 oG20kE = (int)floor(l1g8yow);
 break;
 case 4:
-BM2r45M = S4xNIJte0(667218876, G___16j5, w0Dab6, 1449392594);
+
 break;
 case 5:
 

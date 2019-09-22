@@ -59,7 +59,7 @@ case 1:
 c4rDM164_c ^= OFDG132;
 break;
 case 2:
-JDoUT0j = (int)abs(c4rDM164_c);
+
 break;
 case 3:
 c4rDM164_c &= OFDG132;
@@ -338,7 +338,7 @@ case 1:
 OFDG132 = H40jPnL(OFDG132, A4smU, 347261397);
 break;
 case 2:
-JDoUT0j = (int)ceil(fQC01v);
+
 break;
 case 3:
 JDoUT0j = H40jPnL(-2003935303, 1599401394, 1409064739);
@@ -644,7 +644,7 @@ c4rDM164_c &= OFDG132;
 break;
 case 'e':
 case 'E':
-OFDG132 = A4smU & c4rDM164_c;
+
 break;
 case 'f':
 case 'F':
@@ -655,7 +655,7 @@ case 'G':
 A4smU = R7OAFfzKl(A4smU);
 break;
 default:
-JDoUT0j = (fQC01v <= -2067912929) ? -601684444 : JDoUT0j;
+
 break;
 }
 }

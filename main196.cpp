@@ -258,7 +258,7 @@ case 3:
 
 break;
 case 4:
-DIFbP_p0N_ %= gkyD;
+
 break;
 case 5:
 gkyD = (int)abs(F5eqh);

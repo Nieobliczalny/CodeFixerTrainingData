@@ -98,7 +98,7 @@ case 1:
 
 break;
 case 2:
-ujYoOl = (uVfV2 & u1G702WwA) ? WRRh : LbDlT7(-1381510652, tmuhYHe2, 1565999849);
+
 break;
 case 3:
 r63zt7tPx = (int)floor(uMrE02Z);
@@ -387,7 +387,7 @@ case 3:
 
 break;
 case 4:
-Ygr82 = LbDlT7(uVfV2, ujYoOl, r63zt7tPx);
+
 break;
 default:
 ujYoOl = (int)ceil(uMrE02Z);

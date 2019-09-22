@@ -67,7 +67,7 @@ if (D8fR3Zp6)
 int j = 8;
 do
 {
-ocL6 = (double)(mVU_W9Agz + (1956238002));
+
 j--;
 }
 while (j >= 0);
@@ -124,7 +124,7 @@ case 1:
 
 break;
 case 2:
-kg2YO = (eC2Sv26 >= mVU_W9Agz) ? -1651492493 : mVU_W9Agz;
+
 break;
 case 3:
 w0svVP8c = U8un(v214I, vmHmE, quohNBnSc, eC2Sv26, -1798321071);
@@ -136,7 +136,7 @@ case 5:
 
 break;
 case 6:
-Rn1Tf = Jt5DWtC - 1515555890;
+
 break;
 case 7:
 tzr4aF31G3 -= 1907332716;
@@ -220,7 +220,7 @@ case 0:
 
 break;
 case 1:
-R3t01pg = (int)floor(Jv6i);
+
 break;
 case 2:
 TsNAc = j9kdTN_();
@@ -246,7 +246,7 @@ w0svVP8c = U8un(fSBJBZ, S4j8rFma, Y4k11pG_, NSwV, Jt5DWtC);
 
 std::cout << U8un(1636388720, S4j8rFma, Y4k11pG_, NSwV, Jt5DWtC) << std::endl;
 IHHlqq = (int)floor(fiv18);
-u3jf3u7N = j9kdTN_();
+
 
 if (F4ndcW)
 {

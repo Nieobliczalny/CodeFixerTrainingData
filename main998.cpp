@@ -344,7 +344,7 @@ else
 int k = 0;
 while (k < 8)
 {
-YIY2v4i_q_ = qveRimJh & MeYU4jxDv_;
+
 k++;
 }
 }
@@ -366,7 +366,7 @@ std::cout << ONPxH8ZA(1688604218, IB4Atik, NOGp8WvGK, q6mb5Q2, 1108993799) << st
 
 if (IB4Atik)
 {
-p3DvA = (unsigned short int)(gsARE0AeSC + (-929698186));
+
 }
 return 0;
 }

@@ -64,7 +64,7 @@ case 1:
 
 break;
 case 2:
-YG5SW = k_y3hq1R + 1476860765;
+
 break;
 default:
 R4Up = egpA3j / 1477534539;
@@ -144,7 +144,7 @@ case 1:
 k19JJ7 = j_2e();
 break;
 case 2:
-FdPW8M356U &= 1053345163;
+
 break;
 }
 }

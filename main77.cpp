@@ -83,7 +83,7 @@ case 0:
 
 break;
 case 1:
-R_6e &= 1960229641;
+
 break;
 case 2:
 y8b152_ = VWj19R(1206234713, XG0Hg6o4, -775506413);
@@ -98,7 +98,7 @@ case 5:
 gc6wf6_m = VWj19R(1664132631, BcBe, PbAYQbM2);
 break;
 case 6:
-y8b152_ = VWj19R(y8b152_, gsO5, 1146616695);
+
 break;
 case 7:
 gc6wf6_m = VWj19R(-158560406, Av7kevIAu, -1218586698);
@@ -123,7 +123,7 @@ break;
 switch (ky9WROroM)
 {
 case 0:
-y8b152_ = VWj19R(Zj2lfjE2NB, s6LFi8oxzp, z_8a);
+
 break;
 case 1:
 
@@ -135,7 +135,7 @@ case 3:
 gsO5 %= rj4rUOe77F;
 break;
 default:
-fBW97x /= 1261484251;
+
 break;
 }
 

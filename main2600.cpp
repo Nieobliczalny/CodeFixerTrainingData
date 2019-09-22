@@ -70,7 +70,7 @@ int main()
   long  CTAKI_eP;
   CTAKI_eP  =  402845192;
  long H5SBx1clF9;
- H5SBx1clF9 = 844416795;
+
  short int V59085qa;
  V59085qa = -1543340254;
     long double    D0H49688;
@@ -197,7 +197,7 @@ break;
 }
 
 cout << QPLq8p(nkm8o, 1843899643, MuHcv66tI) << "x36272S" << sb018Z8(nkm8o) << endl;
-bxblR /= b4qrc;
+
 {
 int i = 0;
 do
@@ -219,7 +219,7 @@ V59085qa = MuHcv66tI | J15LWFpM3T;
 break;
 case 'b':
 case 'B':
-bxblR = QPLq8p(104189791, iq__MYATlz, nKS8);
+
 break;
 case 'c':
 case 'C':
@@ -348,7 +348,7 @@ Nxpf1_ /= D0H49688;
 break;
 case 'j':
 case 'J':
-nkm8o = (int)ceil(j66xX4A9_l);
+
 break;
 default:
 
@@ -378,7 +378,7 @@ case 0:
 v089lL70E = (int)abs(Q4493J6);
 break;
 default:
-nkm8o = (int)ceil(W1x5Q);
+
 break;
 }
 
@@ -455,7 +455,7 @@ case 'a':
 
 break;
 case 'b':
-MuHcv66tI = QPLq8p(MuHcv66tI, Zl_ljC_, -1727449458);
+
 break;
 case 'c':
 e68__oJFKN ^= 128594445;

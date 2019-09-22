@@ -189,7 +189,7 @@ if (hxei <= eE_Vu)
 }
 else
 {
-hxei <<= 60042701;
+
 }
 }
 else if (((DEzRCM < wXV2) && (slqLJ35q != z05AMuS)) || (hxei))
@@ -211,7 +211,7 @@ else if ((s_8IqeCaq8 <= xV0ep) || (Mgnj3N8_e1 == 594397730))
 {
 try
 {
-Hp5O2X6 = (int)abs(wXV2);
+
 }
 catch (int& errorCode)
 {

@@ -39,7 +39,7 @@ int main(int argc, char** argv)
   long long  Aql7D407;
   Aql7D407  =  -696172442;
     short int    TR0Xa1zBm;
-    TR0Xa1zBm    =    -1975023315;
+
   unsigned short int  B_U_a;
   B_U_a  =  1853278657;
     unsigned char    QG06i;
@@ -81,7 +81,7 @@ int main(int argc, char** argv)
  short yZmSZo_waW;
  yZmSZo_waW = 1380590683;
  short int Xp039u;
- Xp039u = 1548740096;
+
  unsigned long long lca9_2Ff;
  lca9_2Ff = 1969269562;
 	unsigned int	rzt6Ux3T;
@@ -111,7 +111,7 @@ int main(int argc, char** argv)
   double  q6pIq6T;
   q6pIq6T  =  12029211;
   float  TsiJv59_;
-  TsiJv59_  =  -2013451704;
+
 	unsigned long	URUP6JC_ki;
 	URUP6JC_ki	=	2059380139;
     char    tWRp7w;
@@ -131,7 +131,7 @@ q6pIq6T = (int)abs(SLeRX);
 }
 else if ((QG06i > -1799528794) || (F4w4vF == tBkK7f))
 {
-j24P33T2 %= 1495217614;
+
 }
 else if (B_s3Y >= -1690839608)
 {
@@ -176,7 +176,7 @@ case 1:
 L0fh47P0t7 = NFS6H3I5(598823321);
 break;
 case 2:
-ScxR = QG06i | 1439113760;
+
 break;
 case 3:
 TsiJv59_ = (int)abs(zlXJz5g);
@@ -191,7 +191,7 @@ case 6:
 ASG0p6 = (int)floor(ScxR);
 break;
 case 7:
-URUP6JC_ki ^= QZ9E01xy;
+
 break;
 case 8:
 n60hfiw9f = NFS6H3I5(757112160);
@@ -244,7 +244,7 @@ case 0:
 
 break;
 case 1:
-X0SE46j6 = (int)ceil(mj9L8A5ZR);
+
 break;
 case 2:
 Fkx3_J7 = (int)floor(X0SE46j6);
@@ -293,7 +293,7 @@ case 'b':
 DKJcxq3PC9 = (int)ceil(B_s3Y);
 break;
 case 'c':
-tq99 = NFS6H3I5(-651563114) & 2053532267;
+
 break;
 case 'd':
 n60hfiw9f = NFS6H3I5(QDBV);
@@ -318,7 +318,7 @@ X0SE46j6 = e61n68iymk * 1959822651;
 while (i >= 0);
 }
 
-ASG0p6 = (int)floor(NW8xNT9_A);
+
 
 {
 int i = 0;
@@ -383,7 +383,7 @@ i--;
 switch (WI75zdy_Q)
 {
 case 0:
-q6pIq6T = (int)floor(Dv1ZnJgt);
+
 break;
 case 1:
 L0fh47P0t7 = NFS6H3I5(-722837480);
@@ -412,7 +412,7 @@ case 2:
 DKJcxq3PC9 = s1525b8Kb * G6h8qdzpWR;
 break;
 case 3:
-n60hfiw9f = NFS6H3I5(tBkK7f);
+
 break;
 case 4:
 e61n68iymk = NFS6H3I5(tBkK7f) / r2n80HLWXA;
@@ -505,7 +505,7 @@ case 'd':
 NW8xNT9_A = (int)ceil(DKJcxq3PC9);
 break;
 case 'e':
-q0e8 = QDBV ^ t0sl4s;
+
 break;
 case 'f':
 SLeRX = (int)abs(WI75zdy_Q);
@@ -548,7 +548,7 @@ break;
 s1525b8Kb = NFS6H3I5(tBkK7f) / NFS6H3I5(1273077287);
 
 
-n60hfiw9f = (int)(FP3t3);
+
 
 if (s1525b8Kb == -2000662894)
 {

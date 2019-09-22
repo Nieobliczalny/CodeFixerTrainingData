@@ -68,7 +68,7 @@ case 5:
 
 break;
 case 6:
-ND8Ab2z = JiF2Os - yx_7Wj;
+
 break;
 case 7:
 eGIn6 = PVm2z(1792381694, Qc8t);
@@ -138,7 +138,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-eGIn6 = PVm2z(eGIn6, oGab_6g);
+
 break;
 case 'd':
 case 'D':
@@ -157,7 +157,7 @@ case 'G':
 b5zFdOK45 = PVm2z(b5zFdOK45, eGIn6);
 break;
 default:
-p9U0U0E0 = NG0BpA(p9U0U0E0, p_ds, w42d, -1778543496, eQB5OYeOq2);
+
 break;
 }
 
@@ -192,7 +192,7 @@ case 'b':
 
 break;
 case 'c':
-w42d = NG0BpA(1546423915, FmiXm2_jF, 916073977, 446242404, bBm7tA9H5i);
+
 break;
 case 'd':
 tR33 /= 1947483425;
@@ -205,7 +205,7 @@ case 'f':
 break;
 }
 
-JiF2Os = PVm2z(FqXAEyL, JiF2Os);
+
 
 cout << D2hr8iq6Ic << endl;
 return 0;

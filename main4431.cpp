@@ -21,7 +21,7 @@ int main(int argc, char** argv)
     Uvi251    =    1006546932;
 
     lM3w1K6    =    -907939438;
-    DX5r5k39    =    -1941843566;
+
     zzyKS8t    =    616260107;
     oma44r4    =    1509112920;
     N3A9xyXw    =    52360440;
@@ -31,7 +31,7 @@ int main(int argc, char** argv)
     Y0a0yNRGhz    =    -547866661;
 
     ylPg    =    -388331658;
-    PsL_ZN    =    850704235;
+
     Txls0Py0M    =    -2087689053;
     fcAL6__    =    849056831;
     W3RfV5r53f    =    1317125147;
@@ -42,7 +42,7 @@ int main(int argc, char** argv)
 
     e456hOQ    =    -1345712480;
     ZPVu_73V3    =    1151541991;
-    Xg68b8e    =    33378105;
+
     Iu6Kj    =    -1054144487;
     AS13    =    409045329;
     VmeU    =    -720050143;
@@ -75,7 +75,7 @@ for (int k = 7; k >= 0; --k)
 }
 }
 }
-Y0a0yNRGhz = XIuJ35 + lM3w1K6;
+
 std::cout << dC057(1117172692, 1024016121, -1157756945) << std::endl;
 e456hOQ = lOOpE / iKZ0s_I;
 return 0;

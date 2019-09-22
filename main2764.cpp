@@ -56,7 +56,7 @@ int main(int argc, char** argv)
   XZ77ak  =  -349498975;
   ADUiT3s_  =  -1957233849;
   gafDIU1O  =  -788720333;
-  Y_z6  =  -544931569;
+
   I9K_up_8N  =  -621660318;
   MS5I  =  -1092465904;
   i3qp0Nou  =  232736439;
@@ -79,7 +79,7 @@ int main(int argc, char** argv)
   Tq6hEw  =  -1673239519;
 
   naFV3  =  1549217824;
-  heSAo  =  -2120641854;
+
   z_lWtk9  =  -1932905355;
   IN0D8C  =  1718980975;
   Ke4_PXLZe9  =  1138021031;
@@ -92,7 +92,7 @@ int main(int argc, char** argv)
   M80FwjFRU  =  -1175614957;
   zShne  =  1111672495;
   RR1sK6F  =  -105867341;
-  GReR7  =  -636459496;
+
   SjwH  =  465540813;
   kmqm  =  1398789409;
   aJC46Rl5_2  =  -2119081357;
@@ -327,7 +327,7 @@ case 'a':
 
 break;
 case 'b':
-B7CuM *= KS9WU25o;
+
 break;
 default:
 i3qp0Nou ^= Lk5pk8;
@@ -365,7 +365,7 @@ if (SjwH == 217641410)
 {
 if (Yai2SF0O0 & 484578860)
 {
-UWxNn3V >>= 1433901600;
+
 }
 else
 {
@@ -466,7 +466,7 @@ while (j < 1);
 int i = 0;
 do
 {
-SjwH = Tq6hEw | 2142898225;
+
 i++;
 }
 while (i < 9);

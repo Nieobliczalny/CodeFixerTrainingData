@@ -467,7 +467,7 @@ break;
 }
 else if (Jk2ol288J == K_GPiuv)
 {
-XdxL = MNp32();
+
 }
 else if (CWI87Pq5n4 & LD29C)
 {

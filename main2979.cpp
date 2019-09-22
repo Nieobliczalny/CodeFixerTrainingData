@@ -532,7 +532,7 @@ case 1:
 Oog9_3g6 = i95Icm();
 break;
 case 2:
-Lh8RCO9 = IPTg(-1936388477, 876870659, -12647625);
+
 break;
 case 3:
 AF1bIh = Oog9_3g6 + 1827377476;
@@ -656,7 +656,7 @@ case 'a':
 S65FN1A4E = (int)ceil(IRN9);
 break;
 case 'b':
-cHwrdsO = sWL165J0Qx(cHwrdsO);
+
 break;
 case 'c':
 Oog9_3g6 = i95Icm();

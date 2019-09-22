@@ -15,7 +15,7 @@ int main() {
     unsigned long    hD8b_hBB;
     hD8b_hBB    =    -688023088;
  long long zSH0_y;
- zSH0_y = 1701139577;
+
     short int    Y_30;
     Y_30    =    1883046817;
   double  VCI_N_S8;
@@ -27,7 +27,7 @@ int main() {
 	float	qz1g0tCTG;
 	qz1g0tCTG	=	-815283604;
   short  VPeu;
-  VPeu  =  -1526205723;
+
 	long double	R4yfuzwx9w;
 	R4yfuzwx9w	=	1929085688;
   unsigned short  KQXmd13;
@@ -37,7 +37,7 @@ int main() {
   long  XNvM;
 
  unsigned long v3qelL3P;
- v3qelL3P = -1244075838;
+
   unsigned long long  qIn2KkO;
   qIn2KkO  =  -998006349;
     unsigned short int    Opfb29CQ;
@@ -51,7 +51,7 @@ int main() {
   short  z64kzL2X;
   z64kzL2X  =  1605608533;
  int PDm9eo;
- PDm9eo = -555978878;
+
     char    nQLryaK_aT;
     nQLryaK_aT    =    975296220;
   unsigned int  JYEdGMfJ;
@@ -63,7 +63,7 @@ int main() {
   char  T_BwotEbi3;
   T_BwotEbi3  =  403083874;
  char SzZD9;
- SzZD9 = -63769268;
+
     char    pYA1ze4;
     pYA1ze4    =    -439458640;
   unsigned char  Hx0_;
@@ -99,7 +99,7 @@ int main() {
  short int w9sN7088iX;
  w9sN7088iX = -1418934133;
   long double  EDQrp;
-  EDQrp  =  -1839379409;
+
  long joy_L9O;
  joy_L9O = -2005266421;
  char NXEV5D_Q;
@@ -113,7 +113,7 @@ int main() {
  unsigned short O1FkTy;
  O1FkTy = -1243676084;
   unsigned long  iszogd3N;
-  iszogd3N  =  -1766938019;
+
  int twq_kKr;
  twq_kKr = -85257410;
  int M1gq2KnW5;
@@ -151,7 +151,7 @@ case 0:
 EUaf = (int)abs(C_6e84E);
 break;
 case 1:
-r3Gogj077 = kxy5I / 459168797;
+
 break;
 case 2:
 VPeu = (r3Gogj077) ? 50426811 : 1496057131;
@@ -261,7 +261,7 @@ UMwhtb38Q = (int)floor(n87mBF1);
 }
 }
 p4ZIbQvn_A %= 2082594722;
-v3qelL3P |= 436844721;
+
 if (hD8b_hBB == R4yfuzwx9w)
 {
 try
@@ -291,7 +291,7 @@ t2uN <<= 1530386496;
 }
 else if (NXEV5D_Q == Rm69B)
 {
-kxy5I = (unsigned int)(UMwhtb38Q);
+
 }
 else if (Sm5qL)
 {
@@ -301,7 +301,7 @@ else if (jQuM3z & 688744935)
 {
 if (xLuas7J & 1095313360)
 {
-UMwhtb38Q = (int)floor(R4yfuzwx9w);
+
 }
 else
 {
@@ -314,7 +314,7 @@ M1gq2KnW5 = (int)(BEw6L);
 }
 else if ((hD8b_hBB <= Sm5qL) || (z64kzL2X))
 {
-rJSq1sMa8 = (EUaf <= -1145611540) ? KQXmd13 : 783727050;
+
 }
 else
 {
@@ -324,7 +324,7 @@ if ((Sm5qL >= -453738451) && (kxy5I > rJSq1sMa8))
 }
 else if (Pa5Kz5tbW_ == -1874727576)
 {
-g3sX4xfuRC |= 2023895358;
+
 }
 else
 {

@@ -113,7 +113,7 @@ else
 {
 try
 {
-g48_QB = EteW4WbN(sQkn, Nb6Zb);
+
 }
 catch (int& errorCode)
 {

@@ -138,7 +138,7 @@ int main(void)
 	double	DiraE;
 	DiraE	=	-338715683;
  float Le8qS;
- Le8qS = -1612632468;
+
 	unsigned long	xpElHzo;
 	xpElHzo	=	-978914670;
 	long long	iq_z8;
@@ -188,7 +188,7 @@ int main(void)
  unsigned short Z765nz;
  Z765nz = 801135689;
  unsigned short int cZ3584z;
- cZ3584z = -477801707;
+
     double    PrIm0szSf;
     PrIm0szSf    =    -781853077;
     unsigned short    syx_oR;
@@ -281,7 +281,7 @@ switch (Iw8I1P9gO)
 {
 case 'a':
 case 'A':
-qU0Q06Bf5 = (int)ceil(KA5Idp);
+
 break;
 case 'b':
 case 'B':
@@ -305,7 +305,7 @@ case 'F':
 break;
 case 'g':
 case 'G':
-x9_eR = h4MG856x + g2_VGvq;
+
 break;
 }
 }
@@ -386,7 +386,7 @@ case 2:
 MI07sl2CSf = (int)floor(c2hAXL);
 break;
 case 3:
-q0r3aV = r4Xz8s(caWQ, 1692973981);
+
 break;
 case 4:
 PrIm0szSf = (int)floor(Xw5vt6ML6);
@@ -577,7 +577,7 @@ P3qS8M3n = j4YhU(-1578394455, 1494820993, -697527905, 364667423, 1199794696);
 break;
 case 'd':
 case 'D':
-jOSD8Udg0_ = viHQ(jOSD8Udg0_, -1827881238);
+
 break;
 case 'e':
 case 'E':
@@ -644,7 +644,7 @@ else if (((adwm6 != 670384066) && (dz60_H__ != -574900228)) || (d3XN >= LRZ_f9AB
 }
 else
 {
-jOSD8Udg0_ = Z34dpVN % 2072636352;
+
 }
 }
 else
@@ -677,7 +677,7 @@ h4MG856x = viHQ(1171313365, zcksuTC);
 }
 else if (KA5Idp <= -590166513)
 {
-DiraE = (int)ceil(g2_VGvq);
+
 }
 else if (k4_GSp0Z < Yi1Y56)
 {
@@ -698,7 +698,7 @@ else if ((cGQ1rDrmG5 >= 1024424968) && (HhiOP != X_LEZpL))
 }
 else if ((Z765nz >= YSeB) || (nEJ2atb3 < S95P481B0))
 {
-d3XN = (float)(k4_GSp0Z);
+
 }
 else if (c3L89 & k4_GSp0Z)
 {
@@ -722,7 +722,7 @@ else
 {
 
 }
-DiraE = 2126956678 / r4Xz8s(1837023792, PrIm0szSf);
+
 
 try
 {
@@ -780,7 +780,7 @@ case 'E':
 
 break;
 default:
-nEJ2atb3 = (int)abs(b542b);
+
 break;
 }
 i++;
@@ -798,7 +798,7 @@ switch (MeSQC8)
 {
 case 'a':
 case 'A':
-Iw8I1P9gO = j4YhU(Iw8I1P9gO, -373190928, qnJJb_3K, 1802934468, -1107172746);
+
 break;
 case 'b':
 case 'B':
@@ -850,7 +850,7 @@ case 0:
 
 break;
 case 1:
-c5p8wXo >>= 1268467568;
+
 break;
 case 2:
 IO2P06RCT1 = r4Xz8s(y6_cw93g_, -572756994);
@@ -868,7 +868,7 @@ case 6:
 
 break;
 default:
-DiraE = (int)floor(qnJJb_3K);
+
 break;
 }
 }

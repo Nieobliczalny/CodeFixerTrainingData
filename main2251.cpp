@@ -128,7 +128,7 @@ case 1:
 
 break;
 case 2:
-PuB7U9w_ = hiawWf(PuB7U9w_, o4Eyc__1, 2054276019, WSuge_K_, mUCgm7CIY2);
+
 break;
 default:
 EZvWqNtU = (int)abs(bbjAsTv6z9) * 0;
@@ -169,7 +169,7 @@ case 'c':
 
 break;
 default:
-Hk4q = (ic3E4 == F_0u) ? z4V3gSJr0 : 1293393230;
+
 break;
 }
 
@@ -210,7 +210,7 @@ case 0:
 
 break;
 case 1:
-z4V3gSJr0 = (int)floor(IK01uc);
+
 break;
 default:
 IK01uc = Wd1w ^ 583751445;
@@ -224,7 +224,7 @@ std::cout << Gk4rIBC9V << "m1dvs66c" << "e6D00" << cS1eDt << d_941Lc << std::end
 }
 else
 {
-z4V3gSJr0 = hiawWf(SuS6mCqZ, 886171723, n3QHUe_Fh, HwO36Y0B, gXau_) | 1275852090;
+
 }
 
 

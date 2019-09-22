@@ -497,7 +497,7 @@ case 1:
 kqXk7_ = (int)ceil(s3Hm_8j_0M);
 break;
 case 2:
-O71QOYE = (int)ceil(B8yQ783);
+
 break;
 default:
 S7TBP9 >>= Fq7p12b6J;

@@ -72,7 +72,7 @@ case 0:
 TSBGfy_F = u1C184m0(1075650333, jysFv9, k641gmPH, 720351777, vG3d1);
 break;
 case 1:
-YN2Qf = (int)ceil(jysFv9);
+
 break;
 default:
 Kp50l2r = u1C184m0(B8nOYYsP, gyM80x7r, gZ6b72768, bVit, 149828133);
@@ -166,7 +166,7 @@ int j = 6;
 do
 {
 --j;
-n91vlY13ct = (int)ceil(gZ6b72768);
+
 }
 while (j >= 0);
 }
@@ -212,7 +212,7 @@ case 2:
 oHJ0mHl69 /= Vth8wUhAGz;
 break;
 case 3:
-S0359Z5_p1 = (int)floor(lX3n_2zI_Q);
+
 break;
 }
 

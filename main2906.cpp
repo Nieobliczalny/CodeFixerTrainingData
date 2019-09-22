@@ -215,7 +215,7 @@ case 2:
 bi4e3239 += 1229506445;
 break;
 case 3:
-S_2N = Psuau ^ ftDHL6i;
+
 break;
 case 4:
 dmagJ4s = wy04 - 179832387;
@@ -409,7 +409,7 @@ pr5U73gi = oV9y5V | v3dJDGquYY;
 }
 else if (m33Et == IJ11y)
 {
-lsXGs4 = (int)abs(Psuau);
+
 }
 else
 {
@@ -489,7 +489,7 @@ if ((FMZn) || ((V5J4315) || (IJ11y & -835994219)))
 }
 else
 {
-q1eJQI_2q1 = l7F_qNp_ / v3dJDGquYY;
+
 }
 ++j;
 }
@@ -516,7 +516,7 @@ case 2:
 r_kID -= 488745415;
 break;
 case 3:
-KLo2xC = zqW0u - sB7e;
+
 break;
 }
 }

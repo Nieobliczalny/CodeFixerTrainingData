@@ -323,7 +323,7 @@ case 3:
 zr5ykg--;
 break;
 case 4:
-QK2Dmx2J5 = RuNKizK1(QK2Dmx2J5);
+
 break;
 case 5:
 
@@ -364,7 +364,7 @@ case 2:
 
 break;
 case 3:
-Cjz33 -= 1727532862;
+
 break;
 case 4:
 ajK3sb -= 1382891831;

@@ -134,7 +134,7 @@ if (M0b_ == 0)
 {
 
 }
-WAPU = R6_FR << V8_8j;
+
 
 std::cout << iWRnb0U0X4(QhUtVk1Lc, u263du, 1500496332) << "qQDz" << iWRnb0U0X4(QhUtVk1Lc, u263du, w80Ia8) << srCt6xzV83 << "Y_kT" << std::endl;
 

@@ -236,7 +236,7 @@ break;
 switch (JVf8RgD__l)
 {
 case 'a':
-DHQE *= x05cL5ncSN;
+
 break;
 case 'b':
 k1kJV = U54SMoJkV(-658553291, 625070628, 1869312816, kIlJtH4d);
@@ -278,7 +278,7 @@ case 1:
 k1kJV = U54SMoJkV(-431316890, YV_3w, JDN399pwB5, -363817736);
 break;
 case 2:
-OQv9C = (EaS4uL <= 2101884323) ? -387198814 : OJ0Ptb_M;
+
 break;
 }
 }
@@ -388,7 +388,7 @@ Hpc6SDC7B6 = gN_yYp7(1013724332, -90752459, 399593127, -1652237546, k2DJEZ) | UM
 }
 else if (OJ0Ptb_M & -1269487012)
 {
-dmW5Z = (unsigned long)(f807);
+
 }
 else
 {
@@ -414,7 +414,7 @@ I_QU |= 1501337914;
 }
 else
 {
-dmW5Z >>= 1303449204;
+
 }
 }
 }
@@ -432,7 +432,7 @@ case 2:
 G6314 &= YA3vB7__tB;
 break;
 case 3:
-k1kJV = U54SMoJkV(1132706092, 1957987702, 390491137, OyR312V2ta);
+
 break;
 case 4:
 k1kJV = U54SMoJkV(kIlJtH4d, -2087923514, 454374952, YA3vB7__tB);
@@ -447,7 +447,7 @@ case 7:
 FcA2yRO1 = gN_yYp7(FcA2yRO1, JL5Y5xS, e79nDEZqT4, 303056193, w06s3P_25A);
 break;
 case 8:
-cK2e_ = (int)floor(ZQwnnvCVg);
+
 break;
 case 9:
 cK2e_ = (int)ceil(tuFE1xn5Bh);
@@ -469,7 +469,7 @@ case 'b':
 I_QU = gN_yYp7(I_QU, R_a0R, UMs6, tGQo9D, 2111229252);
 break;
 case 'c':
-aq_wgm1P = (int)abs(OJ0Ptb_M);
+
 break;
 case 'd':
 DHQE = gN_yYp7(I_QU, R_a0R, UMs6, tGQo9D, JVf8RgD__l) ^ G6314;
@@ -529,7 +529,7 @@ n_KXBFA <<= 416082932;
 }
 else if (qPf_Hl48 != -1720573435)
 {
-k1kJV = U54SMoJkV(-2098622869, I_QU, iskT, -1130154071);
+
 }
 else if ((cM7TRzw > -1924714818) && (A5wwGl6w < 550244712))
 {
@@ -550,7 +550,7 @@ else
 }
 }
 
-k1kJV = U54SMoJkV(oiKu904, 1997816584, ha2QHiz4LR, 1413447421);
+
 {
 int i = 0;
 do
@@ -670,7 +670,7 @@ case 1:
 s8SB = gN_yYp7(s8SB, tuFE1xn5Bh, pClXy3_ZJ, nk7D6HoJc, DHQE);
 break;
 case 2:
-Dn5fck_ = (int)abs(v4bZN);
+
 break;
 }
 }
@@ -687,7 +687,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-FPKg8inX8 = (int)floor(YV_3w);
+
 break;
 case 'c':
 case 'C':
@@ -699,7 +699,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-nP8ne8Xuuk = T6675BdV / FcA2yRO1;
+
 break;
 case 'f':
 case 'F':
@@ -711,7 +711,7 @@ case 'G':
 break;
 case 'h':
 case 'H':
-kIlJtH4d = gN_yYp7(kIlJtH4d, -1089271940, cM7TRzw, -618388853, -942739970);
+
 break;
 case 'i':
 case 'I':
@@ -734,7 +734,7 @@ for (int k = 1; k >= 0; k--)
 }
 else if (VG6O3hRyE9 != 1130322762)
 {
-o17Nl3 = (char)(e3E7L);
+
 }
 else
 {

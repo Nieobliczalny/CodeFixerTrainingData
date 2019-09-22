@@ -339,7 +339,7 @@ int i = 0;
 do
 {
 i++;
-qg82 = DIQg86u63Q - 619314757;
+
 }
 while (i < 10);
 }
@@ -366,7 +366,7 @@ case 'a':
 
 break;
 case 'b':
-vVh6 = (int)abs(V3pRk7o);
+
 break;
 case 'c':
 uj6_3++;
@@ -384,7 +384,7 @@ case 'g':
 
 break;
 default:
-heAj8 = ejPk7m & 146685128;
+
 break;
 }
 jUw4 = HFDQGo_p(1557126015, 423849667, 765891600, -409866531, 1836048428);

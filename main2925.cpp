@@ -344,7 +344,7 @@ if (oG9PG3 & oGeg_33H78)
 }
 else if (oG9PG3)
 {
-oG9PG3 = (int)abs(oGeg_33H78) * 0;
+
 }
 else
 {

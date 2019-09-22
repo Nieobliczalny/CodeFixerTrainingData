@@ -18,7 +18,7 @@ int main(int argc, char** argv)
 	unsigned int	PXSGgWR50;
 	PXSGgWR50	=	2005966049;
  unsigned int FbuV;
- FbuV = -1354161511;
+
   long long  I3J159;
   I3J159  =  931278120;
  long EANUQ8J0X;
@@ -28,7 +28,7 @@ int main(int argc, char** argv)
  unsigned long y68D6_x00z;
  y68D6_x00z = 1369531075;
   double  Q9vEmtb;
-  Q9vEmtb  =  938241456;
+
 	unsigned long	BOU0FV7a8;
 	BOU0FV7a8	=	0;
  long A5Wd8;
@@ -40,7 +40,7 @@ int main(int argc, char** argv)
   long double  QT5my2;
   QT5my2  =  946287940;
   unsigned short int  HyCV;
-  HyCV  =  -729394239;
+
  long long d452CjJ;
  d452CjJ = -1067026629;
 	long	pw5ws8;
@@ -58,7 +58,7 @@ int main(int argc, char** argv)
   short  exWh;
   exWh  =  2094855878;
     double    USCA;
-    USCA    =    -465676180;
+
   long  t1kHaroF_;
   t1kHaroF_  =  950480529;
     short int    NsSa5dJ5kj;
@@ -68,7 +68,7 @@ int main(int argc, char** argv)
   unsigned char  NGU814P5t3;
 
   short int  xJbt0b;
-  xJbt0b  =  -2129304317;
+
  unsigned char M2lM21;
  M2lM21 = 1384852539;
   unsigned char  GiZyR7_7l;
@@ -82,7 +82,7 @@ int main(int argc, char** argv)
     short int    z1JBl;
     z1JBl    =    2063488443;
     unsigned long long    M08ojXQZr_;
-    M08ojXQZr_    =    958042423;
+
  unsigned long long HUz6xY27f;
  HUz6xY27f = -792683221;
 	unsigned short	hQo3754_;
@@ -130,7 +130,7 @@ I3J159 = y68D6_x00z | 1351831740;
 break;
 case 'c':
 case 'C':
-y68D6_x00z >>= xC476I1;
+
 break;
 case 'd':
 case 'D':
@@ -156,7 +156,7 @@ while (i >= 0)
 }
 }
 
-M08ojXQZr_ = (unsigned long long)(Fb52h);
+
 
 FP_1G = QT5my2 - d452CjJ;
 if ((M2lM21 & -341980672) || (M2lM21))
@@ -177,7 +177,7 @@ for (int k = 0; k < 10; k++)
 }
 }
 }
-Q9vEmtb = (int)ceil(QT5my2);
+
 for (int i = 4; i >= 0; i--)
 {
 std::cout << "GF2imSCKn" << b97n8g3 << z1JBl << b97n8g3 << "k9D4rI77R" << std::endl;
@@ -198,7 +198,7 @@ case 'b':
 
 break;
 case 'c':
-HyCV = I3J159 / E_X6;
+
 break;
 case 'd':
 USCA = (int)ceil(b97n8g3);
@@ -213,7 +213,7 @@ Q9vEmtb = (int)floor(FP_1G);
 
 if ((Q9vEmtb / BOU0FV7a8) <= -1992178944)
 {
-P82N71 = PXSGgWR50 - KBvP8U8f_;
+
 }
 Q9vEmtb = (int)ceil(b97n8g3);
 HnHWB--;

@@ -93,7 +93,7 @@ switch (nRC1c9826)
 {
 case 'a':
 case 'A':
-pjmr = P1Au(pjmr);
+
 break;
 case 'b':
 case 'B':
@@ -105,7 +105,7 @@ kSh_1Me1f = P1Au(-11887363);
 break;
 case 'd':
 case 'D':
-pjmr = P1Au(1264904530);
+
 break;
 }
 Fpm2 = (int)abs(JULkG);
@@ -125,7 +125,7 @@ if ((Fpm2 & j3Qo9o333) && (JULkG < j3Qo9o333))
 }
 else
 {
-nf3d0e7 %= 2124981310;
+
 }
 }
 else
@@ -157,7 +157,7 @@ case 0:
 
 break;
 case 1:
-V6_S3P69 = gARZI5_L2(-1893490244);
+
 break;
 case 2:
 g1jCP8a = (int)ceil(s5YJgwbvE);
@@ -194,7 +194,7 @@ while (j < 6);
 }
 }
 
-psT4d -= 1469511445;
+
 
 return 0;
 }

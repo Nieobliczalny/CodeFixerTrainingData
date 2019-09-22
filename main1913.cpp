@@ -140,7 +140,7 @@ case 2:
 
 break;
 case 3:
-MkR9k98 = (int)abs(Jec9Szg) + (530474082);
+
 break;
 case 4:
 LxF9R5 = uGz7k(LxF9R5, 286392773);
@@ -222,7 +222,7 @@ if (LxF9R5 != bM4DC38U9)
 }
 else
 {
-ae5FT = N7E2vR(ae5FT, Jec9Szg, -1719711336);
+
 }
 }
 }

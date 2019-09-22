@@ -25,7 +25,7 @@ int main()
 
  a_P4o = 2096758359;
  oJ618AmH = 166845632;
- q0kI21b = 1405042024;
+
  qdYf = -1271495758;
  kvbH6 = -617346035;
  CA8N = 375083207;
@@ -39,7 +39,7 @@ int main()
 
  MbxU10 = 85607289;
  L122gnU = -1256041337;
- Hvaj193_5k = 2011851556;
+
  apW0Oz = 140833160;
  mYQ0z_yv = 56910977;
  UG04gvAT8 = 806371302;
@@ -50,7 +50,7 @@ int main()
  lDfI96o8D = 1581578379;
  yQhRNOt = -1373665575;
  BYkKO = -337914433;
- Jncc4aaUii = -538128776;
+
  i4Ok39 = 934349489;
  w60E8oq0d2 = -901890437;
  RJc7w7r = 549896620;
@@ -63,7 +63,7 @@ int main()
  z6sYDAEx = 1716814599;
 
  D87Pj8Su = -1485899930;
- Cp4_B_m5E1 = -1031992184;
+
  aVZO0X = -1079145144;
  CWmXFu = 717000760;
  pQr4z = 764690355;
@@ -74,7 +74,7 @@ int main()
 
  Y9Nu9u61zN = 1752022549;
  x77K = 1236632124;
- W5TT8 = -1607541840;
+
  nyWU3TG4 = 31746455;
     unsigned short int    TAy_L58nr;
     TAy_L58nr    =    0;
@@ -92,7 +92,7 @@ if ((CWmXFu > nyWU3TG4) && (pQr4z > O950ILz6M))
 }
 else
 {
-la7BC = (a_P4o != kvbH6) ? O950ILz6M : FaUjz;
+
 }
 }
 else if (nyWU3TG4 < la7BC)
@@ -146,7 +146,7 @@ case 'c':
 Fi8j9_ = z6sYDAEx - 1804690169;
 break;
 case 'd':
-TAy_L58nr = Kk9j25GL3(-626489374, i4Ok39, KThk8Q);
+
 break;
 case 'e':
 c_u5najW = w4oh3sjCy();
@@ -158,7 +158,7 @@ case 'g':
 z6sYDAEx = Z5F1Y(1989924066);
 break;
 case 'h':
-qdYf = w4oh3sjCy();
+
 break;
 case 'i':
 D87Pj8Su = S282VOn4(D87Pj8Su, z6sYDAEx, 1331850085, mYQ0z_yv, P0bqK87L);
@@ -177,7 +177,7 @@ else if ((UG04gvAT8 <= -1516710258) || (TAy_L58nr < i4Ok39))
 int j = 9;
 do
 {
-W5TT8 = O950ILz6M | W16c;
+
 --j;
 }
 while (j >= 0);
@@ -197,7 +197,7 @@ if (W4N7W & 1846289597)
 }
 else
 {
-D87Pj8Su -= 894371802;
+
 }
 }
 else if (((L122gnU < O950ILz6M) || (BYkKO >= 1675901514)) || (MbxU10 >= O950ILz6M))
@@ -220,7 +220,7 @@ yQhRNOt++;
 }
 else
 {
-pQr4z = (char)(O950ILz6M + (305282787));
+
 }
 }
 switch (L122gnU)
@@ -238,7 +238,7 @@ break;
 
 
 
-S6n30E1ky = -793683488 / Kk9j25GL3(W4N7W, iENn4sxV, -1152341705);
+
 std::cout << "J148S8Z15q" << K6dM << "QS4g2lhO" << HG_0a(W4N7W) << "Nc59_N8" << std::endl;
 try
 {
@@ -260,7 +260,7 @@ apW0Oz++;
 }
 
 
-Hvaj193_5k = S282VOn4(-1257494851, iENn4sxV, Fi8j9_, P0bqK87L, vp94N);
+
 if (u9Otc6yS >= Q9ZG5lVNRg)
 {
 fWcFn_ = (char)(FaUjz);

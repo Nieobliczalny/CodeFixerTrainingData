@@ -30,7 +30,7 @@ int main(int argc, char** argv) {
  DFNJH9 = 1385526230;
  vj7Y1ABr = -158152721;
  N16_ = 1946973231;
- Ld1qDT = -669001258;
+
  k054brnE7 = 1584182399;
  cHFC = 1315207165;
  q0_TiGaqMj = -1558792943;
@@ -59,7 +59,7 @@ int main(int argc, char** argv) {
  XDfP6yqC = 183908056;
  IUa_xI6 = 701062289;
 
- J92M = -2147390551;
+
  q0RVuH = 710499844;
  wZ57n = 513380352;
  HB_oi7_TU = 1780107242;
@@ -118,7 +118,7 @@ case 0:
 uW_Mf91C5 = Mg_DS(uW_Mf91C5, -1426915500, JY0zH9);
 break;
 case 1:
-N16_ -= lr1BrA;
+
 break;
 case 2:
 Icjo = M4mb(Icjo, -2050800584, -1805712618);
@@ -238,7 +238,7 @@ else if (rDwY <= 1391240338)
 }
 else if ((gbEL > Hz9Isz0) && (EqLZGpm > j_sx934w))
 {
-DFNJH9 = (int)abs(IUa_xI6);
+
 }
 else if (An5G99t8 != -531363238)
 {
@@ -295,7 +295,7 @@ else
 
 if (uG2l_30 <= Hz9Isz0)
 {
-V941g9NX = (double)(j_sx934w);
+
 }
 else
 {
@@ -307,7 +307,7 @@ if (P0_k_z == cHFC)
 }
 else
 {
-V941g9NX = (int)abs(C5iZa3drn3);
+
 }
 }
 catch (int& errorCode)
@@ -345,7 +345,7 @@ switch (tunfMxuf)
 {
 case 'a':
 case 'A':
-Vn405j2_q = (int)abs(O_Zi);
+
 break;
 case 'b':
 case 'B':
@@ -373,7 +373,7 @@ tunfMxuf = KvQJfQ9(D75Tksi94q);
 break;
 case 'h':
 case 'H':
-gSaC4 /= ccug;
+
 break;
 case 'i':
 case 'I':
@@ -460,7 +460,7 @@ case 'b':
 
 break;
 case 'c':
-HB_oi7_TU /= q0_TiGaqMj;
+
 break;
 case 'd':
 Icjo = (int)abs(tA79m);
@@ -496,7 +496,7 @@ else
 }
 else
 {
-Ld1qDT = q0RVuH / 1156207150;
+
 }
 }
 
@@ -568,7 +568,7 @@ case 0:
 
 break;
 case 1:
-tunfMxuf = KvQJfQ9(-1356753850);
+
 break;
 case 2:
 N5_jJ = M4mb(447345895, jgIq8, YjgWV19WkN);

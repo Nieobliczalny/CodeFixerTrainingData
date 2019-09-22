@@ -238,7 +238,7 @@ if ((KK5_3CmkV) || (qmKn_77aPN & q4kh1))
 {
 if (mw794J > -136696853)
 {
-nzgc6O = (int)ceil(p246r);
+
 }
 else if (mw794J > oybs25I)
 {

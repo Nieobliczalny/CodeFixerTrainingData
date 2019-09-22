@@ -48,7 +48,7 @@ if ((m__8A1d < SsJ9vm7db) || (Hql83_9 > R43R))
 int j = 4;
 while (j >= 0)
 {
-Hql83_9 = (double)(SsJ9vm7db + (-164372900));
+
 --j;
 }
 }
@@ -105,7 +105,7 @@ m__65 = (int)ceil(F68Q);
 k80G7I5_ = mX0r3e093 / Y90h2k8VpV;
 
 
-YE5l0 = shm0RK6t(1247188949, -1841616021);
+
 
 V3cR = (short int)(p7571zs);
 

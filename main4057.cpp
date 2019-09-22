@@ -119,7 +119,7 @@ mG2Eb = wGAD43eCO(-302535790, Y0Jr, -1107402497, gmoqIE1) - tF2V5_lUK;
 switch (o3qg2_)
 {
 case 'a':
-pEkHo += 1794317311;
+
 break;
 case 'b':
 xdWHoH = wGAD43eCO(-47703171, Hy1e, -21985791, 480717623);
@@ -188,7 +188,7 @@ else if (yAXT6Cw != 923901729)
 {
 for (int k = 4; k >= 0; k--)
 {
-XK8I3 = wGAD43eCO(-768761301, 321653271, DCl37cu5, 1040398196);
+
 }
 }
 else
@@ -199,7 +199,7 @@ std::cout << wGAD43eCO(cP7MXdy, -827438035, DCl37cu5, -400931667) << std::endl;
 
 
 
-yEQZJw2s0 = (unsigned long long)(K3Q_E6OY6S);
+
 {
 int i = 3;
 while (i >= 0)
@@ -243,7 +243,7 @@ break;
 }
 }
 
-pO8a3i = (unsigned long long)(NcTlKT97);
+
 
 for (int i = 2; i >= 0; i--)
 {

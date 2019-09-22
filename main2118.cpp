@@ -26,7 +26,7 @@ int main()
  iDO4tyb = -1996073504;
  iNi_I7 = 681251279;
  J72Z3yA = 1194508808;
- rEu_TR0TG = 1356757665;
+
  X6Fk = -853731515;
  w10zs = -281565805;
  bK1F6lU8_G = 1752513545;
@@ -39,7 +39,7 @@ int main()
  g1a0_86d = -696571152;
  BGN24h20 = -188812978;
  UR5Y9jrV_b = -1849242535;
- oM9hjMj = 872909618;
+
  g0__6uSZBi = -2083949659;
  Sq_94 = -1565023439;
  AN5tS8 = -1774334958;
@@ -49,7 +49,7 @@ int main()
  KaVwNGtfNz = -1919975807;
  nQ_S0Ss = -8597499;
  w_5Gi8 = -2086409169;
- Ym9t = 1352323268;
+
  d_13Ys = -1626368704;
  QC8cqs = 1053958831;
  XC4MO4 = 1703368383;
@@ -60,7 +60,7 @@ int main()
  uXbN33_0Ir = -1764523281;
  hN69M9Vs3N = 1148820009;
  dSFEb1 = -307580483;
- yAD6x3z_Lg = -2102845334;
+
  GOI38 = -662098653;
  b9Vs = -1384142726;
  j8dbOCP3G = -1900325018;
@@ -82,7 +82,7 @@ int main()
  ScJ7Q = -531910849;
  tcoIm = -146389751;
  v5EY_8j_b = 1202423989;
- s7DYgk9m = 1533985703;
+
  Z__G6A = 1624941793;
  w8ou = 358511868;
  CZ0b_ = 1219036019;
@@ -355,7 +355,7 @@ case 3:
 
 break;
 case 4:
-tcoIm = (int)abs(GTTPvG);
+
 break;
 case 5:
 A4NvNOGgE = kGWlc(1651485396, 771661106);
@@ -374,7 +374,7 @@ lndXo = ND1c / TFlKsup;
 break;
 }
 
-VpbkP = (int)ceil(IYTmC8C8);
+
 cout << "I5cx0" << "X84nag7" << endl;
 cout << GOI38 << endl;
 if ((PlAJZ) || (cbw_ == iJIrN355H))
@@ -420,7 +420,7 @@ case 'd':
 tLQ_cJp8k = kGWlc(-1244947810, 871912119);
 break;
 case 'e':
-rEu_TR0TG = (int)abs(RMLDtRH5);
+
 break;
 case 'f':
 RMLDtRH5 = w_5Gi8 - r7A8W;
@@ -469,7 +469,7 @@ case 0:
 P1T9 -= K7Wff_6;
 break;
 case 1:
-c_3_7em219 = (HU6M1dyb == 688232473) ? w_5Gi8 : -322188751;
+
 break;
 case 2:
 
@@ -507,7 +507,7 @@ case 'A':
 
 break;
 default:
-DB2XZ5P_xd = (int)floor(d_13Ys);
+
 break;
 }
 i--;
@@ -560,7 +560,7 @@ else if (((X62UJR != iJIrN355H) && (g1a0_86d > QC8cqs)) || ((A4NvNOGgE & tLQ_cJp
 {
 if (A4NvNOGgE & -82985047)
 {
-j8dbOCP3G = J72Z3yA / A4NvNOGgE;
+
 }
 else
 {
@@ -594,7 +594,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-g1a0_86d = (int)abs(iNi_I7);
+
 break;
 case 'd':
 case 'D':
@@ -614,7 +614,7 @@ A4NvNOGgE = kGWlc(854752652, w10zs);
 break;
 case 'h':
 case 'H':
-d_13Ys = (EVH7) ? 465502184 : kGWlc(rEu_TR0TG, -61283160);
+
 break;
 case 'i':
 case 'I':
@@ -626,7 +626,7 @@ int i = 7;
 while (i >= 0)
 {
 i--;
-cbw_ = (long double)(bK1F6lU8_G);
+
 }
 }
 
@@ -638,7 +638,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-IYTmC8C8 = (int)floor(f1rf2XG4Tn);
+
 break;
 case 'c':
 case 'C':

@@ -80,7 +80,7 @@ else if (rU6OvdaQNh > 418464397)
 }
 else if (R471y5D0 > 232968333)
 {
-N99H2_JM = (int)ceil(MI9Rh_);
+
 }
 else
 {
@@ -169,7 +169,7 @@ else if (YpC9 != 791357826)
 }
 else if (w1KdG6V3 > 2120131905)
 {
-y4fXivIf = (int)ceil(h24W5weUEq);
+
 }
 else if (MI9Rh_ > gQ1GnQUNY)
 {
@@ -192,7 +192,7 @@ else if (VHb7geq != -236673390)
 {
 try
 {
-sGwv9_1Zio = (int)ceil(qMHdMm);
+
 }
 catch (int& errorCode)
 {
@@ -232,7 +232,7 @@ gQ1GnQUNY = wLX78k();
 }
 }
 }
-PjTSVC = (float)(W5EgV0H4v);
+
 {
 int i = 0;
 while (i < 6)
@@ -242,7 +242,7 @@ i++;
 }
 }
 
-sGwv9_1Zio = (float)(Z7ZGXDXq8);
+
 
 try
 {
@@ -289,7 +289,7 @@ case 6:
 e1p4nB8w = wLX78k();
 break;
 case 7:
-sGwv9_1Zio = (qwXg7 != -47310968) ? -1640682206 : wLX78k();
+
 break;
 case 8:
 Ofli9eNjz = wLX78k() | 1042443298;
@@ -330,7 +330,7 @@ while (i >= 0);
 }
 DYPx1 = wLX78k() >> 1767706003;
 
-P8ZlS = (float)(Ofli9eNjz);
+
 
 {
 int i = 10;
@@ -404,7 +404,7 @@ case 2:
 w1KdG6V3 /= p96skux;
 break;
 case 3:
-h24W5weUEq = (int)ceil(aHx_qN);
+
 break;
 default:
 QzfRZz1f1 = wLX78k();
@@ -433,7 +433,7 @@ case 0:
 
 break;
 default:
-qwXg7 = (int)floor(RK7D);
+
 break;
 }
 }

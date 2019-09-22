@@ -88,7 +88,7 @@ int main()
 	unsigned char	SJKvoC52g;
 	SJKvoC52g	=	0;
  char KqX45Z;
- KqX45Z = -1501963302;
+
  unsigned short int ZZzKENR;
  ZZzKENR = 99298885;
   unsigned long long  tN483;

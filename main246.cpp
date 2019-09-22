@@ -19,7 +19,7 @@ int main() {
  YXc57s = 918260487;
  wi75C9YzQ = 407650508;
 
- WXwoj = -2097947862;
+
  ZO8iS3N7 = 1083864658;
  dScqFOB39V = -603554378;
  RD89qA_5q9 = -2135622987;
@@ -32,7 +32,7 @@ int main() {
  gNC5h7g = 975614774;
 
  h_wY = 857114689;
- Rn8_F = 1698194175;
+
  c52SVX68 = 1825502483;
  C1_j4GeL = 158995615;
  Qh2qVgFu93 = -1507499820;
@@ -42,7 +42,7 @@ int main() {
  KcwvhTl = -1621665936;
 
  H82J_o8sl = -145595233;
- cTTAmWVv = 483859940;
+
  V7Tuv = 1397043527;
  al7NTEE4q8 = -285600581;
  h640hJ = -1862943415;
@@ -53,7 +53,7 @@ int main() {
 
  QS31dPG4Y = 1547432391;
  unsigned short int r4nqOoe4lt, H_7n_b75v;
- r4nqOoe4lt = 0;
+
  H_7n_b75v = 0;
 
 doE00Y_ /= 459623530;
@@ -70,7 +70,7 @@ case 0:
 f1Tph_2dZ4 = Qd41T_9(1468650851);
 break;
 default:
-bZim635K7B /= BR11_9A19q;
+
 break;
 }
 
@@ -80,7 +80,7 @@ std::cout << Lj5zva_Lyw << IIR0_g3(f1Tph_2dZ4, 1048296907, h_wY) << "MuRv" << st
 switch (f1Tph_2dZ4)
 {
 case 'a':
-C1_j4GeL &= 1667543538;
+
 break;
 case 'b':
 f1Tph_2dZ4 |= wi75C9YzQ;
@@ -92,7 +92,7 @@ case 'd':
 kM69hNUY8d = Qd41T_9(-1804898623) / H82J_o8sl;
 break;
 case 'e':
-a__u = dScqFOB39V * 1747352668;
+
 break;
 case 'f':
 A55h24zr0N = (int)abs(gNC5h7g);
@@ -104,7 +104,7 @@ case 'h':
 H_7n_b75v = IIR0_g3(YXc57s, V7Tuv, 154836941);
 break;
 case 'i':
-a__u = (int)abs(Qh2qVgFu93);
+
 break;
 default:
 dScqFOB39V -= 1763795780;

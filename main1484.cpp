@@ -450,7 +450,7 @@ case 8:
 
 break;
 default:
-XW7j = sG4uQ8(XW7j, -1846005794);
+
 break;
 }
 }
@@ -569,7 +569,7 @@ case 2:
 w4whi = sG4uQ8(1665193599, -1327539690);
 break;
 case 3:
-G_Ht6N2Ar = (int)floor(WUP3c85i_);
+
 break;
 case 4:
 w_TY38Wlx = MK_AswX4Hg();
@@ -589,7 +589,7 @@ int k = 7;
 do
 {
 k--;
-WUP3c85i_ = VHpZnwM9eC(-1048329696);
+
 }
 while (k >= 0);
 }
@@ -610,7 +610,7 @@ case 1:
 iNVB8C9Z9 = kQx0(iNVB8C9Z9, -357538481, -1229863894);
 break;
 case 2:
-MCi92LUxB = (int)abs(CNXR);
+
 break;
 case 3:
 jWL8A5Of = (int)ceil(Kn_XyZ);
@@ -625,7 +625,7 @@ case 6:
 h81J = VHpZnwM9eC(h81J);
 break;
 case 7:
-BT_nA01 = na1BnXSf2 & v6958A_68U;
+
 break;
 default:
 WUP3c85i_ = (int)abs(K1vGX);

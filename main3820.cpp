@@ -131,7 +131,7 @@ case 0:
 
 break;
 case 1:
-zNpp_ = (int)floor(DcG2mDW23z);
+
 break;
 case 2:
 zJcD ^= 358859931;
@@ -146,7 +146,7 @@ case 5:
 zJcD = mLz4 << X9_0o74X_8;
 break;
 default:
-w_8dtSK5FH ^= 1650492951;
+
 break;
 }
 
@@ -178,7 +178,7 @@ i--;
 }
 while (i >= 0);
 }
-zNpp_ = (int)abs(j475);
+
 
 return 0;
 }

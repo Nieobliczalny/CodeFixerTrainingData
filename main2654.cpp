@@ -29,7 +29,7 @@ int main(int argc, char** argv) {
 	E8548z	=	-1270379908;
 	U08tLzV	=	-1175810546;
 	PpJ8y	=	1432735505;
-	W_2xld5v	=	-1079327013;
+
 	TQ4Y3V	=	-511208384;
 	UbJiE	=	1839338710;
 	Chynl_6q2	=	-189634649;
@@ -206,7 +206,7 @@ ClaAk6 = a13Yb1 << 1704320130;
 break;
 case 'g':
 case 'G':
-ZTEq7CCll = z17_4qIF << hJEYF4;
+
 break;
 case 'h':
 case 'H':

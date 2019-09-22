@@ -48,7 +48,7 @@ int main(void)
 	unsigned short	m0lQ14721B;
 	m0lQ14721B	=	-491216456;
   short int  zJ2jD633z;
-  zJ2jD633z  =  527488958;
+
  unsigned long EwK22Q1brl;
  EwK22Q1brl = -2116179658;
     float    MS9UVW;
@@ -68,7 +68,7 @@ int main(void)
     long    A5_N;
     A5_N    =    292234309;
 	unsigned long long	M_wg7G3q;
-	M_wg7G3q	=	1982536645;
+
   double  q_YLENJ9_;
   q_YLENJ9_  =  -319005268;
  unsigned short WnB6TOE4b;
@@ -80,7 +80,7 @@ int main(void)
 	long double	W_6U_5z_;
 	W_6U_5z_	=	532901857;
   short  OG7C30C24;
-  OG7C30C24  =  377626289;
+
     char    FJ6Q;
     FJ6Q    =    -53305002;
     unsigned char    j7n2_f_5;
@@ -94,7 +94,7 @@ int main(void)
  long QW9SwPlo;
  QW9SwPlo = 1877780811;
   unsigned char  q1bRkfZ;
-  q1bRkfZ  =  -1501190598;
+
 	char	HU_S;
 	HU_S	=	325636288;
 	unsigned short int	w68eZ2;
@@ -130,7 +130,7 @@ int main(void)
     unsigned short    XzyfGJb;
 
  float wlgYtEeq9w;
- wlgYtEeq9w = -986119092;
+
   char  E8NdTKQb_;
   E8NdTKQb_  =  -1610396315;
  unsigned short P85p9Ey918;
@@ -154,7 +154,7 @@ int main(void)
     double    sVi9x;
     sVi9x    =    543425767;
     unsigned short int    w0fcF91;
-    w0fcF91    =    0;
+
   unsigned int  ddiyH;
   ddiyH  =  -501234225;
 	float	BWL2E0hPu4;
@@ -174,7 +174,7 @@ int main(void)
   unsigned char  P8H8aM6607;
   P8H8aM6607  =  4586379;
 	unsigned long long	GsJp0;
-	GsJp0	=	1749537054;
+
     unsigned int    YR40P92kL;
     YR40P92kL    =    -1296908961;
   unsigned long long  HEqB59h0D6;
@@ -227,7 +227,7 @@ case 1:
 
 break;
 case 2:
-IlliWF8 >>= JGxc;
+
 break;
 case 3:
 w0fcF91 = nIna();
@@ -245,7 +245,7 @@ case 7:
 
 break;
 case 8:
-zMSUd2M5m += h_3e05;
+
 break;
 case 9:
 IE0TS2aPj |= 211890296;
@@ -264,7 +264,7 @@ zMSUd2M5m = (px_t4A <= -702682450) ? eP8fE3Nr_ : 1171299511;
 while (i < 5);
 }
 
-MpGPq = nIna();
+
 if (A5_N == -967491273)
 {
 if (i8C1H > O7TNz)
@@ -290,7 +290,7 @@ case 2:
 
 break;
 case 3:
-bsH8UK = (int)abs(btM5CoXq5);
+
 break;
 case 4:
 w0fcF91 = nIna();
@@ -332,7 +332,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-MpGPq = nIna();
+
 break;
 case 'e':
 case 'E':
@@ -344,7 +344,7 @@ px_t4A = (int)floor(BIKQrtkbkE);
 break;
 case 'g':
 case 'G':
-w0fcF91 = nIna();
+
 break;
 case 'h':
 case 'H':
@@ -361,7 +361,7 @@ break;
 }
 for (int i = 8; i >= 0; --i)
 {
-w0fcF91 = nIna();
+
 }
 
 HUCd11C = (float)(IE0TS2aPj);
@@ -378,7 +378,7 @@ HUCd11C = (int)floor(px_t4A);
 }
 
 
-w0fcF91 = nIna();
+
 if ((m4E1ONO != 68575308) && (HEqB59h0D6 > eP8fE3Nr_))
 {
 {
@@ -393,7 +393,7 @@ while (j >= 0);
 }
 else if (sP4hq9lWQ & -1546550049)
 {
-CS1g2X = (unsigned int)(DbfXBs_97);
+
 }
 else
 {
@@ -409,7 +409,7 @@ case 1:
 
 break;
 case 2:
-w0fcF91 = nIna();
+
 break;
 case 3:
 w68eZ2 += 759086738;
@@ -450,7 +450,7 @@ HEqB59h0D6 = (unsigned long long)(q_YLENJ9_);
 }
 else if ((A5_N != 644896928) || (zMSUd2M5m <= 651685983))
 {
-bsH8UK = (short)(T_sji08);
+
 }
 else if ((XzyfGJb >= tb0BnAIb) && (a7_0 != -990861082))
 {
@@ -472,7 +472,7 @@ else if (((mPYVh0A5K <= MS9UVW) && (m0lQ14721B > XzyfGJb)) || (liziHdZTD == -856
 }
 else if (tb0BnAIb <= EwK22Q1brl)
 {
-w0fcF91 = nIna();
+
 }
 else
 {
@@ -493,7 +493,7 @@ if (c4408N != 493844584)
 }
 else
 {
-btM5CoXq5 = (s2402036d) ? P85p9Ey918 : HUCd11C;
+
 }
 }
 }
@@ -508,7 +508,7 @@ if (s2402036d & -491190187)
 }
 else if (s2402036d < 946940324)
 {
-y2gJh = (unsigned int)(T_sji08);
+
 }
 else if (sVi9x)
 {
@@ -518,7 +518,7 @@ if (P85p9Ey918 >= 378462986)
 }
 else if (s2402036d < 376183930)
 {
-w0fcF91 = nIna();
+
 }
 else if (((hx94 & -718823061) || (kQo3T & IE0TS2aPj)) || (Rz177 & -506268986))
 {
@@ -530,7 +530,7 @@ else if ((QW9SwPlo < nBg1) || ((U_Xo) && (T_sji08 != -667838627)))
 }
 else if (q_YLENJ9_)
 {
-tracM = (int)abs(W_6U_5z_);
+
 }
 else
 {
@@ -560,7 +560,7 @@ if ((lqgN72GZ == 1283197400) || (lqgN72GZ != 1742488303))
 }
 else if ((HEqB59h0D6) || ((QW9SwPlo < -1054658874) || (Poh5 & -1605690811)))
 {
-HU_S = (int)abs(wppS0_5_);
+
 }
 else if (YR40P92kL & R2JB8I9B0)
 {
@@ -587,7 +587,7 @@ WnB6TOE4b = H750r7C8_H << 459927172;
 }
 }
 }
-tracM = (short)(m0lQ14721B);
+
 {
 int i = 0;
 do
@@ -632,7 +632,7 @@ for (int i = 0; i < 6; ++i)
 int j = 10;
 do
 {
-bsH8UK = (short)(s2402036d);
+
 --j;
 }
 while (j >= 0);
@@ -654,7 +654,7 @@ do
 while (i < 4);
 }
 
-WnB6TOE4b = nIna() / WnB6TOE4b;
+
 return 0;
 }
 

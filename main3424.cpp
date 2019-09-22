@@ -76,7 +76,7 @@ int main()
   int  hXU6Q2uv;
 
     int    O_PZd781m;
-    O_PZd781m    =    -215045506;
+
 	short int	db_93T;
 	db_93T	=	1053788753;
 	short int	XevCRH;
@@ -100,7 +100,7 @@ int main()
  long double TO2Zth3;
  TO2Zth3 = -1735389844;
   unsigned short  dX_kKBNw;
-  dX_kKBNw  =  188247805;
+
  unsigned short Gu00;
  Gu00 = 237615198;
 	unsigned short int	tB5YGoG3iC;
@@ -372,7 +372,7 @@ if (((r_o2wE6p == -1080007545) || (QI12 < m2V59)) || (XevCRH <= WII7G2Wqe))
 {
 try
 {
-FU4v8aL = C30K_(-690658295, -2027558472, XaJ3T04D2, dbFZDxI);
+
 }
 catch (int& errorCode)
 {
@@ -391,7 +391,7 @@ if (M0Nd5 > O754C7M1)
 }
 else if (n3Ua_ > 376825269)
 {
-nNe0YJ = x_x7 - 1123656959;
+
 }
 else if (((IK_439 < cI12Z48jOp) && (j3hYhGe < 254096916)) || ((nA3dnv7Ra < O754C7M1) && (UTZQ_ != h3RdSStQi)))
 {
@@ -466,7 +466,7 @@ NclaD3ae = (int)abs(wctr9TJ8);
 }
 else if (Hc_2Q < O754C7M1)
 {
-iBA26gz = (int)floor(kk7uf_g);
+
 }
 else
 {
@@ -578,7 +578,7 @@ if ((NclaD3ae) && ((x_x7 != NclaD3ae) || (nXx7BiWS18 & -1842761825)))
 }
 ZXIxD2T = C30K_(XevCRH, 58233391, XCg_1, -2117500155);
 
-XaJ3T04D2 = 486539895 / IK_439;
+
 
 switch (y_O_2M)
 {
@@ -621,7 +621,7 @@ case 1:
 m2V59 &= 313087527;
 break;
 case 2:
-cI12Z48jOp = PE65(N6x10J0, m2V59, nXx7BiWS18, 1589446123, 2038013225);
+
 break;
 case 3:
 M_rJ = MqRUuB1X(1088658914);
@@ -633,7 +633,7 @@ case 5:
 ZXIxD2T = (int)abs(YDDL4D);
 break;
 case 6:
-cI12Z48jOp = PE65(O00nl, Sfvi4X55no, iBA26gz, sB4r, 1075236980);
+
 break;
 case 7:
 rPQzUAP |= C3h6PFUpJ;
@@ -654,7 +654,7 @@ break;
 
 for (int i = 0; i < 5; ++i)
 {
-db_93T = v9J9(181296664, -742382252);
+
 }
 if (w2Y2t1_ > dbFZDxI)
 {
@@ -670,7 +670,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-kk7uf_g = MqRUuB1X(kk7uf_g);
+
 break;
 case 'c':
 case 'C':
@@ -699,7 +699,7 @@ if ((w2Y2t1_ <= O754C7M1) || ((XevCRH == U6Mypv0Vm6) && (r_o2wE6p & -694998048))
 }
 else if ((sB4r == h3RdSStQi) && (a9pN6 != x_x7))
 {
-Hc_2Q = (int)ceil(dbFZDxI);
+
 }
 else if (TO2Zth3 >= h3RdSStQi)
 {
@@ -710,7 +710,7 @@ if (y_O_2M != t07E)
 }
 else
 {
-XCg_1 = (int)(tB5YGoG3iC);
+
 }
 return 0;
 }

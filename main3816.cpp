@@ -100,7 +100,7 @@ case 1:
 X_ROGO2VzK = toliw03 % 355446377;
 break;
 case 2:
-zRMW = ptp1vM9b34 << 2062769072;
+
 break;
 case 3:
 YnqhBaH = T_4BA01 + 1617702532;
@@ -112,7 +112,7 @@ case 5:
 
 break;
 case 6:
-BP8K >>= 1136701282;
+
 break;
 }
 u9a0AKP9d3 = (long double)(c44_ + (Y6N9W_yGB));
@@ -136,7 +136,7 @@ case 2:
 
 break;
 case 3:
-X7x7 &= V53AJ44BC;
+
 break;
 default:
 X7x7 = X_ROGO2VzK ^ k7xlSrDp75;

@@ -86,7 +86,7 @@ if (K314Bqx8_ != i66EOk_j60)
 switch (Qi80qZV723)
 {
 case 'a':
-NEI8N = w165bp2C();
+
 break;
 case 'b':
 
@@ -98,7 +98,7 @@ case 'd':
 B1Nt4 = (int)ceil(jn_5A9U8x);
 break;
 case 'e':
-eR_k1tg8rO = (int)floor(ZyVnG_8);
+
 break;
 }
 }
@@ -116,7 +116,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-Tp04_uF = i1TsBV8 & qAP_5z_3P;
+
 break;
 case 'c':
 case 'C':
@@ -136,7 +136,7 @@ while (j < 8);
 }
 }
 std::cout << -1041434378 / w165bp2C() << std::endl;
-ZyVnG_8 = (int)ceil(jn_5A9U8x);
+
 return 0;
 }
 

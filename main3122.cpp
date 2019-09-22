@@ -264,7 +264,7 @@ case 1:
 
 break;
 case 2:
-JFcZ = m22a1I * 179408701;
+
 break;
 }
 
@@ -312,7 +312,7 @@ case 'c':
 
 break;
 case 'd':
-m22a1I ^= JFcZ;
+
 break;
 case 'e':
 WX32NEmm_6 = (int)floor(xOn8);

@@ -21,7 +21,7 @@ int main(void) {
  char HbW3hQl, H1an, D4qk2, T_Tp9;
  HbW3hQl = 0;
  H1an = 0;
- D4qk2 = 0;
+
  T_Tp9 = 0;
  long double aSGUaoAcp, G457bqfR, W_gYt, j3wCP, c09buCt, S7q3E77HT3, w98SV, qt96Tu2oM, fE7cfv, gMW7, XW72081pi, gvv251MG, h1dLw, eGB2v5g, aiQ9XF, P6DJ5ai6_v, DsBk;
  aSGUaoAcp = 434976323;
@@ -333,7 +333,7 @@ case 2:
 fE7cfv = (int)floor(h1dLw);
 break;
 case 3:
-XW72081pi /= eGB2v5g;
+
 break;
 case 4:
 
@@ -345,7 +345,7 @@ case 6:
 gvv251MG = cf8r(H1an, 1724396288, h1dLw, 1838946082, G457bqfR);
 break;
 case 7:
-aiQ9XF = cf8r(623021039, DsBk, -780034826, -1326074842, -576928394);
+
 break;
 case 8:
 fE7cfv = cf8r(-1833468732, h1dLw, aiQ9XF, 1417617509, G457bqfR);
@@ -366,7 +366,7 @@ case 'c':
 gvv251MG = (int)floor(XW72081pi);
 break;
 default:
-W_gYt = (int)floor(G457bqfR);
+
 break;
 }
 }

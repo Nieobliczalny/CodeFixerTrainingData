@@ -355,7 +355,7 @@ try
 {
 if (((QH39R > nEd6C) || (M0__ > eX5f)) || (IuTbUaG))
 {
-xOK70To2 = (int)abs(qs0Nt);
+
 }
 else if (lBghM5i8R <= -489404548)
 {
@@ -381,7 +381,7 @@ L4S4 = eEC12N_0(36977638, ugdOoJSfU, Csha67p);
 }
 
 
-iPMm92m3M = (char)(Ugzwk5vis);
+
 
 if ((lBghM5i8R != bEqAs1JFI4) && (Wr6Id0f != bEqAs1JFI4))
 {

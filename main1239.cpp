@@ -98,7 +98,7 @@ int main(int argc, char** argv)
 	unsigned short	cF7132J3;
 	cF7132J3	=	0;
 	unsigned int	bZ40dK;
-	bZ40dK	=	-833211383;
+
     unsigned int    G9lZs0;
     G9lZs0    =    -194431881;
   unsigned long  m1nhO2rEZp;
@@ -122,7 +122,7 @@ int main(int argc, char** argv)
     short int    OUNG7;
     OUNG7    =    -957535539;
 	long	N_Y9Ia6;
-	N_Y9Ia6	=	379251209;
+
  unsigned short int l3of15h;
  l3of15h = -2129091196;
  long RQUN1pB;
@@ -363,7 +363,7 @@ Mi1Yb9cm3K = SiRYM(Mi1Yb9cm3K, YcH3, 78102798, 1819673618);
 }
 else if (Q_1m8_ < 941164447)
 {
-Z4qk = (int)abs(L47BI);
+
 }
 else
 {
@@ -378,7 +378,7 @@ while (i < 1);
 }
 if (v16s8FLIdF != 1056762446)
 {
-Mi1Yb9cm3K = (float)(g9U7h861);
+
 }
 
 
@@ -428,7 +428,7 @@ case 0:
 
 break;
 case 1:
-sxpyPq = (int)abs(Yeok8);
+
 break;
 }
 }

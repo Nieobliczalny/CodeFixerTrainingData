@@ -128,7 +128,7 @@ case 0:
 
 break;
 case 1:
-XTXE_8of2d = d54Y6 / DUZ9B;
+
 break;
 case 2:
 nAsgQCgpt = (int)ceil(Q82i);
@@ -184,7 +184,7 @@ kn6jeS_2_3 = (int)ceil(gMgK);
 break;
 case 'e':
 case 'E':
-Scw_4C = LK5j * jdlEH9X;
+
 break;
 case 'f':
 case 'F':
@@ -270,7 +270,7 @@ case 1:
 Q82i = Nsz0V * 346428854;
 break;
 case 2:
-Scw_4C = k1Sq - 939004015;
+
 break;
 case 3:
 
@@ -282,7 +282,7 @@ case 5:
 e0sz = Obrs2 / 1445209460;
 break;
 case 6:
-at47gf = (vEROZL <= 806489085) ? zvuE : Vyg8yIg2;
+
 break;
 case 7:
 O__i6 = (int)floor(kn6jeS_2_3);
@@ -335,7 +335,7 @@ std::cout << PLdIxiZ << std::endl;
 }
 else if (AUz9tCC1j >= kn6jeS_2_3)
 {
-XTXE_8of2d = Z2nA / LK5j;
+
 }
 else
 {
@@ -347,7 +347,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-n34acz0100 = (otPGkjN3oK >= -1854140511) ? -1697685067 : 1333844685;
+
 break;
 case 'c':
 case 'C':
@@ -359,7 +359,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-nAsgQCgpt = tmKnLV * sG4_jM;
+
 break;
 case 'f':
 case 'F':
@@ -371,7 +371,7 @@ case 'G':
 break;
 case 'h':
 case 'H':
-g2G9KwFZ = kE5Bp / 1148239321;
+
 break;
 case 'i':
 case 'I':

@@ -76,7 +76,7 @@ if (((RAS82TT_0 & e5KQ1Hz0) && (XVLy14B4 != 440533101)) && (N_om0 == 1103992812)
 {
 
 }
-s75D1G0wp3 = hJsbeJFG(lx_m, 854492741, sHp17d);
+
 
 cout << hJsbeJFG(1088222987, n2fFSC, 1753142483) / hJsbeJFG(lx_m, n2fFSC, sHp17d) << endl;
 switch (sAJ5M15)
@@ -88,7 +88,7 @@ case 1:
 
 break;
 case 2:
-OQQ6T = (int)floor(X1z7Vi);
+
 break;
 case 3:
 Uyi35 = (XVLy14B4 != A1DEs45yMF) ? IWvpHq : -1862869627;
@@ -100,7 +100,7 @@ case 5:
 
 break;
 case 6:
-o1A_f01_D = (int)floor(pSiw46b);
+
 break;
 default:
 ZcFo /= 1648737397;

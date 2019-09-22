@@ -153,7 +153,7 @@ EFvIG48_J = (int)abs(iWL8_);
 }
 else if (xGf93n074g)
 {
-pp6I_1rj = spiMLIBM(-657211871, 1087359770);
+
 }
 else
 {
@@ -187,7 +187,7 @@ cout << spiMLIBM(-1691267399, -1024002326) << "QbfTeF" << endl;
 
 cout << Gy0h3y3 << endl;
 
-SXTpHAJ_A2 = (double)(s2zI_l3 + (538407340));
+
 try
 {
 if (((d26Ptp7y > -259837322) || (s2zI_l3 & 1094766532)) || (iWL8_ < -891858847))

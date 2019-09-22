@@ -52,7 +52,7 @@ dm06 = Aj81XfoJ(-1198216246, E36X2);
 switch (dm06)
 {
 case 'a':
-E36X2 = dm06 % 629846716;
+
 break;
 case 'b':
 lA045BRj = Aj81XfoJ(349670069, 860486645);
@@ -67,7 +67,7 @@ case 'e':
 E36X2--;
 break;
 case 'f':
-E36X2 = nUur4(dm06);
+
 break;
 default:
 E36X2 = nUur4(443836017);
@@ -82,7 +82,7 @@ int k = 0;
 while (k < 3)
 {
 ++k;
-E36X2 = nUur4(lA045BRj);
+
 }
 }
 }

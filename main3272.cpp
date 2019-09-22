@@ -204,7 +204,7 @@ dLO_3m1727 += 1477852126;
 break;
 case 'h':
 case 'H':
-CR_5 = cDsOe9 / f8o9A9m;
+
 break;
 case 'i':
 case 'I':
@@ -269,7 +269,7 @@ while (j >= 0)
 int k = 0;
 do
 {
-btY1w1 = (int)abs(I_TlWmo);
+
 k++;
 }
 while (k < 10);

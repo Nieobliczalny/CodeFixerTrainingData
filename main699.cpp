@@ -34,7 +34,7 @@ int main(void)
  I57IHhV9SY = 1718487226;
  Xd6v_ = 696973428;
  FlcDQ5 = 567126746;
- oIFz = 696784109;
+
  yc8Dko4C = -159071748;
  B49pcGAXv = -630291361;
  t8cq = -185403959;
@@ -45,7 +45,7 @@ int main(void)
  coyIBz = -115821681;
  riOHNMIBT = -1427183726;
  Z_rlXx4F = -2094954727;
- jx7m_Jo = -1274812583;
+
  waqkGC = 1024337680;
  Zx_jSX1v3 = -2120635967;
  STlpsH1b = 1290464114;
@@ -55,7 +55,7 @@ int main(void)
  s28sU = -1534837424;
  v2t4EA = 1685014459;
  F93T_U = -861121621;
- qxNYm1K = -299138065;
+
  C6_T = -1354449669;
  rx3aCp = 793851856;
  k7x2b54 = 411349119;
@@ -67,7 +67,7 @@ int main(void)
  B_pQZ = -1348212031;
  M5QuSs3u = 1187309375;
  b5bQ803ct = -1194838800;
- v_7nF89q = -425867213;
+
  kx9uD = 1344258414;
  o50Wwa0 = 516275226;
  M7p_Wpxa = -895609694;
@@ -95,7 +95,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-kx9uD = YR74WAarRz();
+
 break;
 case 'd':
 case 'D':
@@ -259,7 +259,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-M5QuSs3u = (Xd6v_ == DphxS) ? DR054x : 456016316;
+
 break;
 case 'g':
 case 'G':
@@ -280,7 +280,7 @@ break;
 }
 }
 
-M7p_Wpxa += 748475600;
+
 return 0;
 }
 

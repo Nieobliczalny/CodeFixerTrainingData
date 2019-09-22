@@ -500,7 +500,7 @@ V34w4P = (Y0qNOE4AS < mOZJay) ? 730613201 : S66U;
 }
 for (int i = 0; i < 8; ++i)
 {
-UAgmOR = Waq176 * I2NqB3ftrT;
+
 }
 
 V34w4P = FYro(1554172308, Nwy5go9, 2129567171, -2123233316);
@@ -525,7 +525,7 @@ case 1:
 
 break;
 case 2:
-md856 = (int)ceil(HvqsMT3rh);
+
 break;
 case 3:
 OJ_0 = (int)abs(Y0qNOE4AS);
@@ -584,7 +584,7 @@ if (Y0qNOE4AS >= -1198549552)
 }
 else
 {
-Waq176 = (int)floor(XWM4B);
+
 }
 }
 }
@@ -598,7 +598,7 @@ for (int j = 0; j < 10; ++j)
 {
 if (Nwy5go9 & 1432822909)
 {
-o_O68_ = (int)ceil(B1MKA);
+
 }
 else
 {

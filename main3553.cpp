@@ -32,7 +32,7 @@ int main(int argc, char** argv)
 
 if (TfAu0C8 != ai4_U_306X)
 {
-J064_kc73 = C6P4fT(M2ZV);
+
 }
 
 HPuAc_ /= ai4_U_306X;
@@ -42,7 +42,7 @@ J064_kc73 = C6P4fT(1334612563);
 switch (J064_kc73)
 {
 case 'a':
-pgI2NWMfV = (P41K != -2049326599) ? -1950626591 : b283HG;
+
 break;
 case 'b':
 qy_mx6 = ljC68B(1828406164, -1296144715, Y9OSS);
@@ -216,7 +216,7 @@ else
 
 }
 
-E0En29 = (int)ceil(tnzGbV9S);
+
 
 cout << "Mfn__" << endl;
 
@@ -243,7 +243,7 @@ else if (ic39MkBu6f > hSR4zrW1K)
 {
 if (J064_kc73 & hSR4zrW1K)
 {
-G6Y573 = (int)floor(jp38DdIW);
+
 }
 else if (pR5fyvv >= J6__o1L)
 {
@@ -267,7 +267,7 @@ faw2WM7 -= sDxkF6;
 }
 else
 {
-Sf_s5C = ljC68B(Sf_s5C, -3815704, 923554614);
+
 }
 }
 else
@@ -285,7 +285,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-J6__o1L -= YkSsRi1_e;
+
 break;
 case 'c':
 case 'C':
@@ -299,7 +299,7 @@ break;
 }
 
 
-m_Zo = (float)(PPJJjGR);
+
 
 {
 int i = 8;
@@ -309,7 +309,7 @@ if ((uyQx > pz9Fh) && ((J064_kc73 & nZgxVQ6JQ) || (ai4_U_306X != PPJJjGR)))
 {
 for (int k = 0; k < 8; k++)
 {
-bezg_c = (int)floor(qy_mx6);
+
 }
 }
 else if (((Z_DaNY9 >= Ii49F1p9zr) || (cR2XLow_35 != -2027622361)) || (dB5XtTj8xV != naiUqgTg2l))

@@ -59,7 +59,7 @@ while (i >= 0);
 }
 
 
-o_Dyxrqq *= 1125674807;
+
 o_Dyxrqq = t3SNF_G / c7OS;
 {
 int i = 0;
@@ -123,7 +123,7 @@ case 0:
 
 break;
 case 1:
-d3H9rVs779 = (int)floor(NQlE2Gl);
+
 break;
 case 2:
 d3H9rVs779 -= 1934107885;
@@ -135,7 +135,7 @@ case 4:
 
 break;
 case 5:
-NQlE2Gl = (int)floor(d3H9rVs779);
+
 break;
 case 6:
 o_Dyxrqq = NQlE2Gl + 771423253;

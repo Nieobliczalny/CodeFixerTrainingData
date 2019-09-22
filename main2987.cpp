@@ -297,7 +297,7 @@ else if ((L56LW > iVQMWLB) && (gK6HrH >= rnbj))
 switch (L56LW)
 {
 case 'a':
-S6pyqp8_QX = (int)ceil(r5rrZ_2);
+
 break;
 case 'b':
 r5rrZ_2 = (int)floor(n8Fg);

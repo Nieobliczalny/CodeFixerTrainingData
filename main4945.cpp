@@ -37,7 +37,7 @@ int main() {
     Gse9    =    45258686;
     xkM1J2HXq    =    1177213000;
     Hp2665Olo    =    722521978;
-    vYHypG0aVn    =    1904718005;
+
     oC3L8p0F    =    -902083960;
     QLSI8xQ    =    25440987;
     EIJ6ty__    =    -1510185835;
@@ -225,7 +225,7 @@ vANrWsi = q81WeK(1905641028, mV1QmEB_42, Rfiu, A9s97M5o);
 }
 else if ((u8pYJ1m <= -769148202) || (DEkr7S_Bz > vANrWsi))
 {
-plin = z7ARMvr / 548089650;
+
 }
 else if (K53wW != HrrNN04Ly)
 {
@@ -237,7 +237,7 @@ vANrWsi = q81WeK(u48gm, EWKsBj0W_F, vANrWsi, -630242311);
 }
 else
 {
-p9dCEGP = (int)ceil(DEkr7S_Bz);
+
 }
 }
 else if ((nnj3jN == -842522686) || (W06Ml6 < XDMkuQlz37))
@@ -308,7 +308,7 @@ case 0:
 
 break;
 case 1:
-vANrWsi = q81WeK(1132204580, 2053815577, cN6J1z_E, 1045714553);
+
 break;
 case 2:
 vANrWsi = q81WeK(-1919488300, EEx5qWB0Kg, 2020814911, -703397388);
@@ -323,7 +323,7 @@ case 5:
 un4fYL1 *= kLZ7BdK5GM;
 break;
 case 6:
-ug6sUy9_uh = (int)ceil(gXH4H);
+
 break;
 case 7:
 EWKsBj0W_F = (int)floor(rYu8L8);
@@ -349,7 +349,7 @@ case 'b':
 K53wW /= B59Vx5aLM7;
 break;
 case 'c':
-vANrWsi = q81WeK(-2104423553, C0wQN, -1063315359, S3Os);
+
 break;
 case 'd':
 FWlJI = (int)ceil(B59Vx5aLM7);
@@ -364,7 +364,7 @@ case 'g':
 Qv4IURr_aB = (int)abs(HrrNN04Ly);
 break;
 case 'h':
-ug6sUy9_uh = (int)floor(z7ARMvr);
+
 break;
 case 'i':
 
@@ -431,7 +431,7 @@ case 1:
 vANrWsi = q81WeK(TFeI, mV1QmEB_42, rYu8L8, -95250115);
 break;
 case 2:
-W0O3 = WNSY1r - WNSY1r;
+
 break;
 case 3:
 js5zHiGOi = (int)floor(nnj3jN);
@@ -516,7 +516,7 @@ while (j >= 0);
 switch (vANrWsi)
 {
 case 0:
-vANrWsi = q81WeK(-1213045165, -1920762994, nbU4bK5Nh8, xkM1J2HXq);
+
 break;
 case 1:
 vANrWsi = q81WeK(kbr_A6Ru, 1054809884, Qv4IURr_aB, -732352426);
@@ -528,7 +528,7 @@ case 3:
 za_upyG -= EWKsBj0W_F;
 break;
 case 4:
-V3rys = (int)ceil(nbU4bK5Nh8);
+
 break;
 case 5:
 vANrWsi = q81WeK(818015200, -1303784654, 449558690, g1_sF);
@@ -540,7 +540,7 @@ case 7:
 za_upyG = (int)floor(fC7Y4G4M5P);
 break;
 case 8:
-oC3L8p0F /= 1651973511;
+
 break;
 case 9:
 W0O3 = V3rys * un4fYL1;
@@ -590,7 +590,7 @@ if (DEkr7S_Bz >= 1577016977)
 
 }
 
-Rfiu /= EWKsBj0W_F;
+
 kLZ7BdK5GM = (double)(W06Ml6);
 if (t_0R4f == WNSY1r)
 {
@@ -601,7 +601,7 @@ else
 
 }
 
-vANrWsi = q81WeK(Zl6eed, Tj_7TsV2_, ieOGOx3, 227158181);
+
 return 0;
 }
 

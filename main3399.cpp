@@ -26,7 +26,7 @@ int main()
 
 uiIxa4v5 = (char)(mJS_VBV);
 
-hJw61Y4 = rnsNH6T7cp(hJw61Y4, UY1ocg4Pi8);
+
 
 for (int i = 7; i >= 0; i--)
 {
@@ -56,7 +56,7 @@ for (int i = 0; i < 1; i++)
 i8s3laTC5 &= pk37;
 }
 
-u95W = rnsNH6T7cp(-1042086311, DK65) / UY1ocg4Pi8;
+
 
 {
 int i = 0;

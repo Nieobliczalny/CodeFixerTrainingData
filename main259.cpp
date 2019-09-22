@@ -90,7 +90,7 @@ int main(int argc, char** argv) {
   unsigned int  Kry7MUv39g;
   Kry7MUv39g  =  -1996476984;
  long long dhGB9;
- dhGB9 = -587559624;
+
 	long double	ZJQEsAQ;
 	ZJQEsAQ	=	-1084863131;
     unsigned short    u1_l9;
@@ -290,7 +290,7 @@ case 0:
 ZJQEsAQ = (int)floor(r7le);
 break;
 default:
-dhGB9 = Ckr_ | 1148618191;
+
 break;
 }
 if (Ckr_)
@@ -358,7 +358,7 @@ pq2ExQTtb7 = (int)floor(M_BOY);
 }
 }
 
-P_AdgRh = HFS1Lw_XZ - JiP34_r0wl;
+
 kHz_hD = Eixb3coF3 | 1092380435;
 if (LDt8EO56C4(-2057995049, -1627529380) == 0)
 {
@@ -412,7 +412,7 @@ cout << LDt8EO56C4(1888980632, ZeOmk11) << endl;
 }
 else
 {
-Er3ahdl_E5 = (unsigned long long)(hggpkp5A + (503485663));
+
 }
 if (Fx3889 <= 603028460)
 {
@@ -426,7 +426,7 @@ case 'a':
 
 break;
 case 'b':
-r7le = (int)ceil(M_BOY);
+
 break;
 case 'c':
 qLb0h_5 = VDgpRpxWB >> zPC3b9J;
@@ -438,7 +438,7 @@ case 'e':
 
 break;
 case 'f':
-u1_l9 = kHz_hD | sdGr0gP;
+
 break;
 case 'g':
 r7le = (int)floor(pq2ExQTtb7);

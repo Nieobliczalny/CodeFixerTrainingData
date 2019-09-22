@@ -25,7 +25,7 @@ int main(void)
     long double    B9VAzgE;
     B9VAzgE    =    -1185952548;
 	double	cpNRt;
-	cpNRt	=	-377446018;
+
  short ouH5_ZU;
  ouH5_ZU = 1482622195;
  unsigned short doG3HurV;
@@ -128,7 +128,7 @@ case 'a':
 
 break;
 case 'b':
-cpNRt = (int)floor(s7lJ8E0s);
+
 break;
 case 'c':
 PZU_D = Pe2n(JzWtAB, 1761500106, 298605209, 1446765788, -914460569);
@@ -146,7 +146,7 @@ case 'g':
 X4482x = B9VAzgE / u9066SeB45;
 break;
 case 'h':
-PZU_D = Pe2n(990568163, O_i01gaFS, s7lJ8E0s, -179832861, fETSNZksO4);
+
 break;
 }
 }
@@ -271,7 +271,7 @@ if (O_i01gaFS >= isUNGx1c4w)
 }
 else
 {
-tL08PLH3 = (long double)(paEZh);
+
 }
 }
 else
@@ -331,7 +331,7 @@ while (i >= 0)
 }
 }
 
-PZU_D = Pe2n(BTg_crHf, UH6M1c, 131233442, -2034440274, B9VAzgE);
+
 return 0;
 }
 

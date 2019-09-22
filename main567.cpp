@@ -57,7 +57,7 @@ case 'b':
 B19u8h3Bb = bLZNT % ETATF;
 break;
 case 'c':
-EP0aGipR_ &= tjt5B8;
+
 break;
 case 'd':
 B19u8h3Bb = bLZNT % NBgTvV;
@@ -72,7 +72,7 @@ case 'g':
 B19u8h3Bb = u3iy_7 + B19u8h3Bb;
 break;
 case 'h':
-NBgTvV = EP0aGipR_ ^ 1390133280;
+
 break;
 case 'i':
 ETATF++;
@@ -87,7 +87,7 @@ else
 switch (ETATF)
 {
 case 0:
-ETATF = (int)abs(pH80t);
+
 break;
 case 1:
 
@@ -108,7 +108,7 @@ catch (int& errorCode)
 {
 bLZNT %= 462685688;
 }
-ETATF = (short)(nQZ2);
+
 {
 int i = 0;
 while (i < 10)

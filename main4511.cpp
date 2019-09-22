@@ -650,7 +650,7 @@ case 4:
 
 break;
 case 5:
-kWwdE6c ^= 942188019;
+
 break;
 case 6:
 kWwdE6c = thSX7r(-25179131, RGvSJi, -1187384239);

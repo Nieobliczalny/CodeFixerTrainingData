@@ -41,7 +41,7 @@ k++;
 }
 }
 
-C6di6Wwf = Xh42Mt633 | vY7Da3tT_;
+
 
 w1S8sJ6g6++;
 {
@@ -141,7 +141,7 @@ case 0:
 
 break;
 case 1:
-dYC293AH_J = svvK0_074 / 40541135;
+
 break;
 case 2:
 vW6iHS = h03jk1yb64(Xh42Mt633, QpBm4qRXLb);
@@ -157,7 +157,7 @@ case 5:
 break;
 }
 
-yq81D8x = I2zeW / CMSd7UI;
+
 {
 int i = 0;
 do
@@ -173,7 +173,7 @@ case 'B':
 svvK0_074 >>= I8nWc4v17;
 break;
 default:
-ix7R_498cp = SK00g >> 418942484;
+
 break;
 }
 ++i;

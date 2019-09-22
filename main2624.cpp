@@ -202,7 +202,7 @@ switch (qVcq)
 {
 case 'a':
 case 'A':
-x0GhB = SM492G9ZV(Tr13MfN4eH, Y3V_55, V1vgmN, Gr_5E8i4i, QI8PCqW2);
+
 break;
 case 'b':
 case 'B':
@@ -222,7 +222,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-x0GhB = SM492G9ZV(sxSh4r03B, QI8PCqW2, Y3V_55, -2048373666, -543998416);
+
 break;
 case 'g':
 case 'G':
@@ -576,7 +576,7 @@ break;
 J6t7++;
 B170 = SM492G9ZV(VyeulcG_y, z3k9CYhh29, Ms0c2, TY2B, -783740954);
 
-o6KFm2vrQ = (unsigned char)(fOf4_l0L);
+
 
 {
 int i = 7;

@@ -20,7 +20,7 @@ try
 switch (c81JF9)
 {
 case 0:
-Iuw4 = O5Q0oTh << ms0Opd4p;
+
 break;
 case 1:
 
@@ -119,7 +119,7 @@ if (ijm2bPj83 == 647948247)
 }
 else
 {
-XBXs6 = O0YdU_rLl ^ dTIDy6oHz6;
+
 }
 }
 }
@@ -130,7 +130,7 @@ cout << wdI33 << chOx << "X_0ef5" << endl;
 }
 
 
-f_1eEG5 = (long)(k_A6fV01O);
+
 
 wdI33 = (long)(ms0Opd4p);
 qps7P_30 %= Gl6Ib;

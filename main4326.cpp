@@ -35,7 +35,7 @@ int main(void)
  int y99kZA3bj;
  y99kZA3bj = -1489830891;
 	long	zJg8;
-	zJg8	=	1684119307;
+
 	int	R8_pm;
 	R8_pm	=	734635843;
     unsigned int    pu4D2D8_3e;
@@ -77,7 +77,7 @@ int main(void)
 	short	ZS18WQxd97;
 	ZS18WQxd97	=	998580248;
 	unsigned long long	lMi0_e;
-	lMi0_e	=	-563093520;
+
 	float	ga3g0d;
 	ga3g0d	=	1755994291;
     long    LyF1TBE__0;
@@ -297,7 +297,7 @@ case 1:
 
 break;
 case 2:
-zJg8 = (int)abs(c05TCgVG3);
+
 break;
 case 3:
 o00PXr = (int)floor(ga3g0d);
@@ -354,7 +354,7 @@ aTqGNKrGh = (int)ceil(Y9U4Eg6B);
 break;
 case 'e':
 case 'E':
-A6_mcv = P8trmPn4(T8ptQS4);
+
 break;
 case 'f':
 case 'F':
@@ -413,7 +413,7 @@ case 0:
 
 break;
 case 1:
-a4cc = (F9jzs & -18865759) ? EAQu9c9() : f7TqTK;
+
 break;
 case 2:
 UFz1_3GJG3 = (k_1_MuA0f > -19197298) ? y99kZA3bj : mq1Ah;
@@ -425,7 +425,7 @@ case 4:
 
 break;
 case 5:
-SW48_ = P8trmPn4(1380883341);
+
 break;
 case 6:
 jg27SSzBy6 = P8trmPn4(-1734716270) - 4367408;

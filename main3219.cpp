@@ -213,7 +213,7 @@ Z_1qx = rsttd / 161741204;
 }
 else if ((Eb8xO == 104199633) || ((N80C & 1855762487) || (Eb8xO & rFw4pK_)))
 {
-EVGL2k_i4 = (int)floor(Z_1qx);
+
 }
 else
 {

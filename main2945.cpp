@@ -17,7 +17,7 @@ int main(void)
     unsigned char    Z6O7;
 
  unsigned short int K_9ne8L_;
- K_9ne8L_ = -1388881635;
+
     short    Ffhlq;
     Ffhlq    =    134971177;
   unsigned long  E1d_AD2vU1;
@@ -27,7 +27,7 @@ int main(void)
 	unsigned long	zo1kCc1;
 	zo1kCc1	=	-1916186118;
   long double  NZ_R5w8;
-  NZ_R5w8  =  -1726982608;
+
 	short	QB_vD_D36U;
 
   int  yAwzm69;
@@ -41,7 +41,7 @@ int main(void)
   double  oZW6A;
 
   short  fTHiqb5r;
-  fTHiqb5r  =  -839482640;
+
  short QlcA0;
  QlcA0 = 250877717;
 	long	U86Z;
@@ -53,7 +53,7 @@ int main(void)
   unsigned char  evaeT614u;
   evaeT614u  =  1559930191;
     unsigned char    TuO7t3;
-    TuO7t3    =    0;
+
   long  yBEO6;
   yBEO6  =  -2025377977;
     long    ioB5B3WU;
@@ -63,7 +63,7 @@ int main(void)
 	int	xrAv;
 
 	float	m3ZM;
-	m3ZM	=	-1755234763;
+
     unsigned char    aZ08;
     aZ08    =    1924126776;
   unsigned short  zbEJ73IgFM;
@@ -75,7 +75,7 @@ int main(void)
   unsigned long  hccz;
 
   char  t9zW;
-  t9zW  =  643202414;
+
 	int	Uhbz;
 	Uhbz	=	774794430;
 	char	z40r_1pvE;
@@ -85,7 +85,7 @@ int main(void)
   long  qgc3;
 
 	unsigned long long	NLzT1hUumM;
-	NLzT1hUumM	=	-1534642070;
+
     char    RwUuXpljQ;
     RwUuXpljQ    =    -681404367;
   unsigned char  X93yWj9Jc;
@@ -97,7 +97,7 @@ int main(void)
 	unsigned char	TP620Q_;
 
   unsigned int  Fzse6;
-  Fzse6  =  766848714;
+
     unsigned short    KawN;
     KawN    =    1906123654;
 	unsigned long long	a9S4;
@@ -109,7 +109,7 @@ int main(void)
   unsigned long  SP3MecbO;
 
   long double  zS0kYu;
-  zS0kYu  =  -1701078689;
+
     float    YVyRX;
     YVyRX    =    1195538854;
  short fr607e_i2;
@@ -119,7 +119,7 @@ int main(void)
   long long  hoY9_;
 
 	unsigned char	nKU61FI;
-	nKU61FI	=	1767780339;
+
   unsigned char  Y65db2qu;
   Y65db2qu  =  10783312;
   unsigned long  m_mDw7Ch;
@@ -131,7 +131,7 @@ int main(void)
 	short	gU3e4wA;
 
   int  lv50j_W;
-  lv50j_W  =  553744073;
+
 
 std::cout << tZFJ << T5e36mQS5 << "vTmpScCF" << std::endl;
 q040 = -640047990 / gq0pC7Fn_Y;
@@ -205,7 +205,7 @@ std::cout << YVyRX << std::endl;
 
 
 
-U86Z >>= evaeT614u;
+
 h9gbSDj = (short)(PieMo3xp4 + (1529692383));
 
 {
@@ -217,7 +217,7 @@ h9gbSDj = (int)abs(RwUuXpljQ);
 }
 }
 
-fr607e_i2 -= zo1kCc1;
+
 
 oZW6A = (int)floor(YVyRX);
 

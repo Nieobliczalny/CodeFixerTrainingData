@@ -27,7 +27,7 @@ int main(int argc, char** argv) {
 
     z368    =    1112717597;
     q7_u    =    -1784877856;
-    B_tV    =    -618720331;
+
     Dpkv__494    =    1572644882;
     QmD_B8dCH    =    -897759287;
     yIyXBI2    =    -555140572;
@@ -306,7 +306,7 @@ i--;
 }
 while (i >= 0);
 }
-X20T_9jPd = (double)(SgNt7);
+
 QmD_B8dCH = (int)abs(Vub0);
 
 X20T_9jPd = (double)(V9jH_DNR);
@@ -352,7 +352,7 @@ case 1:
 QRoSu = I5bY1 - 849079904;
 break;
 case 2:
-BzI4l90uJ = z368 / BzI4l90uJ;
+
 break;
 case 3:
 p9AB_ += 309172339;
@@ -405,7 +405,7 @@ break;
 }
 cout << "zac98PSSou" << FPS9X5JCWr(-2133599232, QRoSu, -1209699978, -1808262492, 106878908) << endl;
 
-HU1ku7 = (int)ceil(j0bil);
+
 return 0;
 }
 

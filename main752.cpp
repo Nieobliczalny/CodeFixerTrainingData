@@ -480,7 +480,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-llZg2fV = JVY0Ghbr1(1676124186, 400329518, 463703788, k9F2HMMr, BKvam);
+
 break;
 case 'e':
 case 'E':
@@ -503,7 +503,7 @@ if (pv23By9 > WszJTfrFHP)
 }
 else if ((q1yTcxo753 <= k_44Le) || ((GadiU9 >= 1005663547) || (gvB7z0 > 110547155)))
 {
-llZg2fV = kG1DoxA(-926112750, -498841323, 412723544, k_44Le, GadiU9);
+
 }
 else
 {

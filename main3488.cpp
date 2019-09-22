@@ -220,7 +220,7 @@ case 5:
 ctmaa_ = Pz7d_2_XL3(ctmaa_, 558804670, S2keK, 200104177);
 break;
 default:
-qUkJ0 = dTnq_uk8(-1924856027, 1664551638, 259677728);
+
 break;
 }
 }
@@ -263,7 +263,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-M21cRtd = sxDQ89C58(1721349997, ctmaa_, -1268426872, ui5eVM7, -1334356788);
+
 break;
 case 'e':
 case 'E':
@@ -330,7 +330,7 @@ switch (l20Z)
 {
 case 'a':
 case 'A':
-MGP192D11 = (int)abs(ui5eVM7);
+
 break;
 case 'b':
 case 'B':
@@ -351,7 +351,7 @@ if (dCs_GJ30 != K_Cck98YI)
 }
 else if (S2keK)
 {
-bsBBPr7 = l2yTdKl1bi % K_Cck98YI;
+
 }
 else if (edUL_Krv94 & 1154717016)
 {
@@ -365,7 +365,7 @@ else
 }
 }
 
-edUL_Krv94 = (unsigned long)(h9608R);
+
 cout << Pz7d_2_XL3(K_Cck98YI, ctmaa_, 1513461738, l20Z) << endl;
 
 return 0;

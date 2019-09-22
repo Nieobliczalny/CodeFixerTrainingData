@@ -339,7 +339,7 @@ case 1:
 t954 = RBPK864(-1381173850, sa32_9w_9f, FooyI);
 break;
 case 2:
-W0c5ktWck = GN3B70Oe_ >> 1886610211;
+
 break;
 case 3:
 oM7e8_2 &= 1747645498;
@@ -534,7 +534,7 @@ while (i >= 0);
 
 
 
-QPaA9J = L_007 & S8S39n4;
+
 
 for (int i = 9; i >= 0; i--)
 {

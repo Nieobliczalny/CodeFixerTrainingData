@@ -697,7 +697,7 @@ l39zc2_ = s9HA9l(u2Y6AQg8O2, i_iFJce, Z5W7v4A, A8Htld1v1c, -1280842601);
 std::cout << "nJyK78" << s9HA9l(u2Y6AQg8O2, 1264742160, Z5W7v4A, -1445765226, rWK0V_3) << s9HA9l(u2Y6AQg8O2, i_iFJce, 1607301727, 1521466899, -90866195) << std::endl;
 
 
-Z5W7v4A = (unsigned long)(rWK0V_3);
+
 
 if ((QjQ8quy_ < Y8Nc3XUvuX) || ((n0eB <= puy9l3) && (v_K5w1)))
 {
@@ -761,7 +761,7 @@ j--;
 }
 
 
-PIqQ0OHxW = (unsigned long)(puy9l3 + (-232306779));
+
 {
 int i = 9;
 do
@@ -783,7 +783,7 @@ case 2:
 Dn4zWm0_eZ = s9HA9l(N5HoC, bG6_, 1974520094, -1050024292, 1778247188);
 break;
 case 3:
-u_5n4C <<= 1862516361;
+
 break;
 case 4:
 
@@ -795,7 +795,7 @@ case 6:
 DglOlZrN7 = Rg1030kQw + 940217518;
 break;
 case 7:
-dDEtuT5 = aaQ1yJ / PU4GtY;
+
 break;
 case 8:
 scRfT6u = s9HA9l(L1wcI5, 1359519964, 666301945, i3h_IWOsH3, u3mt);

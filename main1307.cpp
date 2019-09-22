@@ -113,7 +113,7 @@ catch (int& errorCode)
 TSx7fzWHHV = Ql34c03p(879756991, 1798914458, -750732380);
 }
 
-C59b6jUfJ9 = (int)floor(nxj8h6c9);
+
 i0H0LLg73 = (int)abs(vi5a);
 
 
@@ -147,7 +147,7 @@ case 'a':
 
 break;
 case 'b':
-renvbUt1 = zfV2Sd9VP9(489648036, -2032491546, qam3xa7P, N1c3wRz);
+
 break;
 case 'c':
 q2U8CtPeFx = (int)ceil(K4AlUnL);
@@ -235,7 +235,7 @@ case 'a':
 
 break;
 case 'b':
-renvbUt1 = zfV2Sd9VP9(IDz4U, AJ04nB90S, V978vvjCB, -1038159488);
+
 break;
 case 'c':
 q2U8CtPeFx = zfV2Sd9VP9(IDz4U, -585304504, -1773766856, q2U8CtPeFx) << rpQk95U30;

@@ -143,7 +143,7 @@ case 0:
 
 break;
 case 1:
-l2D8X_3 = (int)floor(cz3l4C8);
+
 break;
 case 2:
 cw2kvleG = Kl0G1kPST0 - 2092202660;
@@ -210,7 +210,7 @@ else if (qiaI > 1033756801)
 {
 try
 {
-q8JqT = (int)floor(Q2sW);
+
 }
 catch (int& errorCode)
 {
@@ -237,7 +237,7 @@ qiaI = (int)floor(g4Ro);
 
 for (int i = 0; i < 5; ++i)
 {
-j2Bs7 = (float)(qiaI);
+
 }
 try
 {
@@ -291,7 +291,7 @@ else if (B6wf4 != kxew_)
 switch (cLhT116r3)
 {
 case 0:
-q8JqT = Y91gZsI & 1532106186;
+
 break;
 case 1:
 
@@ -303,7 +303,7 @@ case 3:
 uAmdJf5 = (int)abs(ak55a);
 break;
 case 4:
-g4Ro = (int)floor(K1sYCAI);
+
 break;
 }
 }
@@ -338,7 +338,7 @@ while (i < 10);
 }
 
 
-dwa7 = 1742583206 / Yx6aw_;
+
 
 return 0;
 }

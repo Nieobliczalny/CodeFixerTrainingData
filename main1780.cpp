@@ -31,7 +31,7 @@ int main() {
 	O3ome4	=	-164505856;
 	p_OoR_o	=	-952471869;
 	cSM1	=	639812213;
-	LNHu43fNi	=	-472343665;
+
 	mzgD	=	-1680701769;
 	mH2BP	=	822499343;
 	i_kYFfXz8	=	-254186167;
@@ -53,7 +53,7 @@ int main() {
 	x_hA	=	-388907890;
 
 	G1M7_9BsN	=	1084767260;
-	OA02m5lb9	=	2026287478;
+
 	YUCgpYk	=	-2077323173;
 	khdz7B5	=	1155661852;
 	rp8dmXa	=	-911935832;
@@ -69,7 +69,7 @@ int main() {
 	hff_2RpoG	=	1894328441;
 
 	z00BIB2t	=	-1715351631;
-	DQa6dfp4	=	1414151036;
+
 	Ph052	=	198106040;
 	QQ085tql	=	608263175;
 	I1j3R9	=	20137553;
@@ -99,7 +99,7 @@ int main() {
 	gIiSc5s_2P	=	-1807037868;
 
 	BNB3	=	1364812859;
-	tOcj	=	1535200529;
+
 	PHNR4Pb	=	1463558506;
 	qAP5v	=	2077429804;
 	Mw3752	=	-1431982237;
@@ -115,7 +115,7 @@ case 1:
 kZWvk = kuiwLDGx(kZWvk, Mt_dlWh55, Bh0NkE8Z, -1861445207);
 break;
 default:
-LNHu43fNi = (dGlFH8 & XGgu) ? kuiwLDGx(1215283439, -333219258, Bh0NkE8Z, Vu0N9dG) : -2115047927;
+
 break;
 }
 }
@@ -176,7 +176,7 @@ YX1nj = kuiwLDGx(398920334, lP1G3Lb, -1305592037, 1394047207);
 }
 else if (c6OyM8o96V)
 {
-dGlFH8 = Y3E4V_5(188906445, 1806031339);
+
 }
 else
 {
@@ -266,7 +266,7 @@ oFe780LA = Y3E4V_5(Sk68, -1572659776);
 }
 else
 {
-dGlFH8 = Y3E4V_5(-1156234238, lP1G3Lb);
+
 }
 }
 while (j < 10);
@@ -365,7 +365,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-FjcI8y9F = kuiwLDGx(497066466, -1032350533, h6Y7R, chco7);
+
 break;
 case 'g':
 case 'G':
@@ -413,7 +413,7 @@ x3YU = DoF75xN + 769360413;
 
 if (lP1G3Lb <= Vu0N9dG)
 {
-z00BIB2t -= YX1nj;
+
 }
 else if ((cW2GY8AOh2 > 1378439888) || ((KJfcJfB09j & 931607311) && (rp8dmXa <= -1906789974)))
 {
@@ -424,7 +424,7 @@ else
 OyJE4 = (int)abs(np8hqlKC) + (-894711585);
 }
 
-OA02m5lb9 = D_0U__ / oFe780LA;
+
 gH9Ww4x4 = Y3E4V_5(-1585704493, 1553081848);
 
 sl9HqMjZ0I = kuiwLDGx(1989507766, qj_aMEPHGz, DoF75xN, -2007762314);
@@ -438,7 +438,7 @@ case 1:
 
 break;
 default:
-G1M7_9BsN ^= O3ome4;
+
 break;
 }
 
@@ -492,7 +492,7 @@ case 0:
 
 break;
 case 1:
-dGlFH8 = Y3E4V_5(1768255928, GC91SlmAzI);
+
 break;
 case 2:
 np8hqlKC = Y3E4V_5(-1419597282, IiV5hOQ13);
@@ -536,7 +536,7 @@ else
 while (i >= 0);
 }
 
-sl9HqMjZ0I = (int)abs(Mt_dlWh55);
+
 
 return 0;
 }

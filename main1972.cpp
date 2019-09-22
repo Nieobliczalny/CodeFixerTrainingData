@@ -336,7 +336,7 @@ while (k >= 0);
 }
 pHemR7Yg %= nbGB2;
 
-ox21 = gkn2_jH5X << 608869018;
+
 if (Xoz4e <= xIOtUD_v)
 {
 if (xIOtUD_v)
@@ -383,7 +383,7 @@ case 'b':
 
 break;
 case 'c':
-WaUMe = gkn2_jH5X + T6veAX5O;
+
 break;
 case 'd':
 o2wc7oa %= 1545764703;
@@ -401,7 +401,7 @@ case 'h':
 v8An_BHLw--;
 break;
 case 'i':
-pHemR7Yg = (int)abs(vsohd7J63x);
+
 break;
 default:
 

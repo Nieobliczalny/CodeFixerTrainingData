@@ -12,7 +12,7 @@ int main(int argc, char** argv) {
  mGVj_8u7V = -958599960;
  Y1JuA = 1468788818;
  y9zsJ = -1384319892;
- X3x4DwEI0i = -2130313513;
+
  Yfyl = 1706165227;
  nEld8 = -1000907137;
   unsigned long long  cYg9A;
@@ -126,7 +126,7 @@ case 'i':
 nEld8 = (int)abs(Yfyl);
 break;
 case 'j':
-y9zsJ = Yfyl & X3x4DwEI0i;
+
 break;
 }
 if ((Yfyl & 1497525538) && (mGVj_8u7V < -896038562))
@@ -153,7 +153,7 @@ mGVj_8u7V = (int)abs(Y1JuA);
 }
 }
 }
-y9zsJ = mGVj_8u7V * nEld8;
+
 switch (Yfyl)
 {
 case 0:
@@ -163,7 +163,7 @@ case 1:
 Y1JuA = cYg9A & 1228239178;
 break;
 case 2:
-Yfyl = (mGVj_8u7V != 888742516) ? 698143859 : 1676026091;
+
 break;
 case 3:
 y9zsJ = Y1JuA << 1631835316;
@@ -175,7 +175,7 @@ case 5:
 nEld8 += 703110503;
 break;
 case 6:
-mGVj_8u7V |= Yfyl;
+
 break;
 case 7:
 nEld8 = X3x4DwEI0i >> 783147928;

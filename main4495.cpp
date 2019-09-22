@@ -86,7 +86,7 @@ case 'd':
 oU44 = RU09(Dw6qlz2, 656678099) ^ Dw6qlz2;
 break;
 case 'e':
-pQ_n = (int)abs(nPUWL3) + (-337146371);
+
 break;
 case 'f':
 zfb1FX &= 852321851;
@@ -253,7 +253,7 @@ case 'D':
 pQ_n = RU09(-1495158242, 611832906);
 break;
 default:
-q82Oi = Dw6qlz2 * 875406616;
+
 break;
 }
 std::cout << "Llc5" << "oJ8F1" << "bb5_E" << std::endl;
@@ -265,7 +265,7 @@ if (WHC3m1Q2rt(-264246698) == 0)
 
 JLmiA_uqGc = RU09(pQ_n, zfb1FX) | 1414984191;
 
-ZMhaQ2 ^= 1353478958;
+
 HJU9 = (int)(Xa_gb1F * HJU9);
 
 switch (JLmiA_uqGc)
@@ -277,7 +277,7 @@ case 1:
 pQ_n = oU44 | 1558529815;
 break;
 default:
-nPUWL3 = WHC3m1Q2rt(-1000958892);
+
 break;
 }
 return 0;

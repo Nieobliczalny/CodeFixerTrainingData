@@ -619,7 +619,7 @@ case 2:
 lPW5LE = (int)abs(Cr44);
 break;
 default:
-p3AD1WFc = be_i(WGClW_Z4);
+
 break;
 }
 }

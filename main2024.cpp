@@ -87,7 +87,7 @@ else if (anx0 >= PlRZCyJew)
 int j = 0;
 do
 {
-lXp2O = kmXN7Oj0f ^ 1135736914;
+
 j++;
 }
 while (j < 1);
@@ -190,7 +190,7 @@ break;
 }
 else
 {
-qiIH8m4 = (int)floor(tVsl2ci7E);
+
 }
 
 for (int i = 0; i < 8; i++)
@@ -231,7 +231,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-fECcy55P = k8yn % 668831832;
+
 break;
 case 'c':
 case 'C':
@@ -252,7 +252,7 @@ case 0:
 ebf5ly1lk = fJlNRwerUe + cttjJLG070;
 break;
 case 1:
-F1Eb = TSHCiaxXif - WDG1Ip;
+
 break;
 case 2:
 tVsl2ci7E = (int)ceil(QLI0TvR7rA);
@@ -267,7 +267,7 @@ break;
 WDG1Ip = (unsigned short int)(PlRZCyJew);
 if (gp6YZO94OO == 0)
 {
-	QLI0TvR7rA = tVsl2ci7E / gp6YZO94OO;
+
 }
 
 switch (WDG1Ip)
@@ -279,7 +279,7 @@ case 1:
 u6DNZ_EC_ = (int)ceil(q1ckL);
 break;
 case 2:
-msllasC5 = anx0 | fJlNRwerUe;
+
 break;
 case 3:
 uR30_ = (D7r7yA3) ? ebf5ly1lk : k8yn;

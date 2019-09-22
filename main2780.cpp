@@ -37,7 +37,7 @@ int main()
   short int  TYI3o2M0;
   TYI3o2M0  =  1508595636;
  float G27H_x;
- G27H_x = -1581765654;
+
   short int  TD6Ih2I4;
   TD6Ih2I4  =  -1722321525;
  unsigned long Vu69;
@@ -53,7 +53,7 @@ int main()
  float Jis6FV;
  Jis6FV = -1706618180;
  unsigned short Ku54;
- Ku54 = -1461174963;
+
     short int    qb1u;
     qb1u    =    0;
  short Nf9km7;
@@ -73,7 +73,7 @@ int main()
   unsigned int  ZBXHPtwd;
 
     unsigned long    Y21sS;
-    Y21sS    =    -1894436482;
+
   unsigned long  XYb7srw6_;
   XYb7srw6_  =  1052414697;
     unsigned long    LcIn_;
@@ -93,7 +93,7 @@ int main()
  long double Yvy9;
  Yvy9 = 617165852;
     long long    y3g26h;
-    y3g26h    =    -1454564360;
+
     long    c06750;
     c06750    =    1080293534;
     short int    HXWv3t;
@@ -119,7 +119,7 @@ int main()
  float u6cn;
  u6cn = -942850400;
   short  NTBg_7AD2H;
-  NTBg_7AD2H  =  -1925034995;
+
  short H411;
  H411 = 0;
  char X2B5EL2;
@@ -131,7 +131,7 @@ int main()
     short    q3C3;
     q3C3    =    0;
 	unsigned int	a96_GRz;
-	a96_GRz	=	1679065878;
+
  unsigned long R7W6eY7;
  R7W6eY7 = 1685871615;
   long  d2rX25_F75;
@@ -149,7 +149,7 @@ int main()
   unsigned long long  Il_Y5x_Ui6;
   Il_Y5x_Ui6  =  -579327715;
  long double p186;
- p186 = -1054899599;
+
 	char	UtVclJ;
 	UtVclJ	=	1033256890;
 	unsigned long long	Qq0iqa_;
@@ -183,7 +183,7 @@ a96_GRz = Il_Y5x_Ui6 / qb1u;
 
 if (GNYjPs1rn3 < b559H9dR37)
 {
-y3g26h = (long long)(H411 + (1127925673));
+
 }
 else if (W2bv2ln9 == -964960778)
 {
@@ -207,7 +207,7 @@ else if ((Jis6FV < -882507479) && (Zzvrg >= yPsuBj7_C))
 }
 else if (R7W6eY7 > 149256493)
 {
-XYb7srw6_ = x9ZFW9();
+
 }
 else
 {
@@ -254,7 +254,7 @@ else if (TYI3o2M0 == GrY07)
 {
 try
 {
-ZBXHPtwd = x9ZFW9();
+
 }
 catch (int& errorCode)
 {
@@ -326,7 +326,7 @@ switch (c06750)
 {
 case 'a':
 case 'A':
-amyjpWd41o = (int)abs(kJ9b6);
+
 break;
 case 'b':
 case 'B':
@@ -384,7 +384,7 @@ else
 switch (bI3z6)
 {
 case 0:
-qb1u = b19Yi(-1263275915, zSz_IK0);
+
 break;
 case 1:
 
@@ -418,7 +418,7 @@ if (Yvy9 >= 2087177049)
 }
 else if ((J6jf < H4FuN) || (Bz8iCFd > 1321204401))
 {
-CbDvkD2 = (int)abs(UtVclJ);
+
 }
 else if ((o4m5_h7 > -608756048) && (TYI3o2M0 < -55300251))
 {
@@ -434,7 +434,7 @@ Yvy9 = (int)floor(E7U5v14f);
 }
 else if (HXWv3t <= TD6Ih2I4)
 {
-u6cn = (int)floor(MW5ACh4s);
+
 }
 else
 {
@@ -485,7 +485,7 @@ int j = 0;
 do
 {
 ++j;
-d2rX25_F75 = (int)abs(TD6Ih2I4);
+
 }
 while (j < 4);
 }

@@ -290,7 +290,7 @@ NxLlAuKf = M47vC(1872585117, oWVf73H, -338331883, dX6Hgo6l6, wdnj3Y8);
 }
 else if ((ZC_yTI7 > o_LVz1bt) && (W7u3331X1 <= -993338013))
 {
-GpTA14L = (int)abs(B7vK6hhK6);
+
 }
 else
 {
@@ -487,7 +487,7 @@ case 3:
 d2nbWiuG += 494237924;
 break;
 case 4:
-B2Dai04X = M47vC(B2Dai04X, 332266503, 1397316132, -498694335, -2098632302);
+
 break;
 case 5:
 GpTA14L = QG5NFjqtO >> pI1zr260QT;

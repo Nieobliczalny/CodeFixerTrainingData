@@ -255,7 +255,7 @@ while (j < 2);
 }
 
 Dx3I = 1137606135 / m_bFP;
-c11GOFO5 = Dx3I + 1567982053;
+
 
 for (int i = 5; i >= 0; i--)
 {

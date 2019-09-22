@@ -38,7 +38,7 @@ if (bjq7b < c2YLs30716)
 int k = 9;
 while (k >= 0)
 {
-BgKMLX5W = t730(v34yko, NV11);
+
 --k;
 }
 }
@@ -50,7 +50,7 @@ BgKMLX5W = t730(v34yko, NV11);
 switch (w_qTzisk4K)
 {
 case 0:
-Xw6Z5 = (Iw6498wMfa < c2YLs30716) ? c2YLs30716 : bjq7b;
+
 break;
 case 1:
 sT3NH ^= 1817922287;
@@ -62,7 +62,7 @@ case 3:
 bjq7b &= Qr0BD;
 break;
 default:
-qf0i76 = IR11WiB7 >> Qr0BD;
+
 break;
 }
 for (int i = 6; i >= 0; i--)

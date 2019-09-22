@@ -24,7 +24,7 @@ int main(int argc, char** argv)
     unsigned long    s_8vV9n1h;
 
   long long  o__1nY;
-  o__1nY  =  -8332637;
+
     int    T49q_JyE;
     T49q_JyE    =    -45873727;
  unsigned int C4tTo;
@@ -34,7 +34,7 @@ int main(int argc, char** argv)
     unsigned short    Q7aMm;
 
   unsigned long long  LcTO3_sFe;
-  LcTO3_sFe  =  38482600;
+
 	int	kO3t;
 	kO3t	=	243243776;
     long long    FD_I2dhsQ;
@@ -46,7 +46,7 @@ int main(int argc, char** argv)
 	int	rZ6xLv5fHR;
 
 	long double	UM05S_0g;
-	UM05S_0g	=	-2131430322;
+
 	unsigned short	S1_CzCuYem;
 	S1_CzCuYem	=	1385718788;
  unsigned long f02Jm3u;
@@ -60,7 +60,7 @@ int main(int argc, char** argv)
   float  fjAbtCWz;
   fjAbtCWz  =  1019289666;
 	unsigned long long	NW2Q73vuaC;
-	NW2Q73vuaC	=	-1429543766;
+
   unsigned char  A0py9l_tb;
   A0py9l_tb  =  2046287264;
     short int    Tqm8H1Q5o;
@@ -70,7 +70,7 @@ int main(int argc, char** argv)
   unsigned short  T2u0;
   T2u0  =  -579899028;
 	long double	V2T1F9I;
-	V2T1F9I	=	1414234067;
+
   long long  qve3K;
   qve3K  =  1768795886;
   float  w2K4_S;
@@ -84,7 +84,7 @@ int main(int argc, char** argv)
   long double  h6xEXMiD3B;
   h6xEXMiD3B  =  -1744793359;
   long long  p55mojw;
-  p55mojw  =  1113912128;
+
  unsigned short int rR_d1F;
  rR_d1F = -478083437;
     unsigned char    ei70m;
@@ -96,7 +96,7 @@ int main(int argc, char** argv)
   unsigned int  i2PDV8IJK;
   i2PDV8IJK  =  0;
   int  xCJDzjE;
-  xCJDzjE  =  -466314642;
+
   short int  UbKrr3hnX1;
   UbKrr3hnX1  =  217798163;
 	long	j_gW5_uO;
@@ -106,7 +106,7 @@ int main(int argc, char** argv)
     long double    xt0CTo19;
     xt0CTo19    =    -1250433859;
  float E33WmQYh;
- E33WmQYh = -488153870;
+
     int    duYb;
     duYb    =    1289125637;
 	unsigned long long	KI4nDP;
@@ -124,7 +124,7 @@ int main(int argc, char** argv)
     short    XLUylYvd;
     XLUylYvd    =    503011508;
     unsigned char    tS_7;
-    tS_7    =    988057117;
+
 	int	kX0y4cs95;
 	kX0y4cs95	=	-58902928;
 	float	jpKCm4M26;
@@ -136,7 +136,7 @@ int main(int argc, char** argv)
 	unsigned int	m8PBU;
 
     char    dM5snA3;
-    dM5snA3    =    1445105188;
+
   short int  qsh2T5Z;
   qsh2T5Z  =  876382395;
  double G82KiMu;
@@ -150,7 +150,7 @@ int main(int argc, char** argv)
   long  qJVs;
   qJVs  =  -1812598649;
 	long double	g4om;
-	g4om	=	-680597286;
+
   char  Oo_aZ;
   Oo_aZ  =  1721408979;
  unsigned short Y_9SNV;
@@ -164,7 +164,7 @@ int main(int argc, char** argv)
 	int	UMsT6d2d;
 	UMsT6d2d	=	-1314532464;
  char BR9f1wmP_;
- BR9f1wmP_ = 1460461952;
+
  char nD6L0;
 
   long long  nD5xc;
@@ -182,7 +182,7 @@ int main(int argc, char** argv)
 	short	pT1_Y;
 	pT1_Y	=	-1893947435;
     unsigned long    W0oJ5aCZQ;
-    W0oJ5aCZQ    =    650739992;
+
  long double Gx49;
  Gx49 = 232631028;
   char  oC3wMi;
@@ -194,7 +194,7 @@ int main(int argc, char** argv)
     long double    GlmU3;
     GlmU3    =    893391773;
     short    ZsPgc;
-    ZsPgc    =    69156532;
+
 	unsigned long	yhFrh;
 
  unsigned long ukF5;
@@ -204,7 +204,7 @@ int main(int argc, char** argv)
 	short int	B176aF0nVK;
 	B176aF0nVK	=	-1087715853;
 	long	HeY8_emPl;
-	HeY8_emPl	=	-55449911;
+
  unsigned char ZoD_;
  ZoD_ = -1052031100;
     char    Dor2;
@@ -235,7 +235,7 @@ if (qJVs)
 
 }
 
-rR_d1F = RF9f2C3r(rR_d1F, 2110641491, JuUjx, 538985128);
+
 
 {
 int i = 0;
@@ -261,7 +261,7 @@ case 3:
 h6xEXMiD3B = (int)ceil(q4sh4H);
 break;
 case 4:
-v5Y_KR95 = ZUFWU(RYhm6mu, Dor2, h6xEXMiD3B);
+
 break;
 case 5:
 jwMUE = (int)floor(G82KiMu);
@@ -328,7 +328,7 @@ std::cout << WPK60 << ZUFWU(-1586428125, w2K4_S, q4sh4H) << std::endl;
 
 try
 {
-fjAbtCWz = (int)ceil(G82KiMu);
+
 }
 catch (int& errorCode)
 {
@@ -360,7 +360,7 @@ case 'a':
 
 break;
 case 'b':
-v5Y_KR95 = ZUFWU(N8lt49I_gW, -1283956726, -876374949);
+
 break;
 case 'c':
 kX0y4cs95 /= 393993407;
@@ -409,7 +409,7 @@ if ((MV7s5Rq84 <= 1055294834) && (UMsT6d2d >= 41883411))
 
 }
 
-rZ6xLv5fHR = F70Jd1eTS - 1549812918;
+
 
 C4tTo = (unsigned int)(jpKCm4M26);
 
@@ -430,7 +430,7 @@ while (i >= 0);
 
 j_gW5_uO = (long)(Y_9SNV * j_gW5_uO);
 
-pT1_Y = ukF5 << 1800042898;
+
 
 jwMUE = (int)ceil(RYhm6mu);
 RYhm6mu = (int)abs(Gx49);

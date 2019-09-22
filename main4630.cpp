@@ -44,7 +44,7 @@ case 3:
 
 break;
 case 4:
-Ks732_U5 = (int)ceil(hHzv8_);
+
 break;
 case 5:
 R9R8SO_PJ = (int)ceil(q_tCY85l1);
@@ -111,7 +111,7 @@ ApSKL_6f = v4ATH4EE(290464839, eTM_TS5UM, xV6X_, -1604362201);
 break;
 case 'h':
 case 'H':
-Zm65 -= 225284030;
+
 break;
 case 'i':
 case 'I':
@@ -214,7 +214,7 @@ i--;
 
 if ((ApSKL_6f != 1057880265) && (Kiw9O & 287781064))
 {
-kbV_SM0 = (int)ceil(S86552bl);
+
 }
 else
 {

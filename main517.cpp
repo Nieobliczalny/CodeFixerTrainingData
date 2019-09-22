@@ -33,7 +33,7 @@ int main(int argc, char** argv) {
 	QPlE537VQ	=	358417004;
 	J30O_mWTdD	=	-1118123678;
 	mSvT8	=	-1037064158;
-	w7wWI	=	-1017016751;
+
 
 if (FfD9M5y == 0)
 {
@@ -61,7 +61,7 @@ case 4:
 
 break;
 case 5:
-EFw_g2 = (af4M_ <= -1836583676) ? w7wWI : F7K15f0e(m7N2OM647p);
+
 break;
 case 6:
 Frs6_EM = (int)abs(af4M_);
@@ -120,7 +120,7 @@ JU2M = F7K15f0e(336532713);
 break;
 }
 I71eaI5 = (int)ceil(w7wWI);
-FfD9M5y = (unsigned short)(af4M_ * FfD9M5y);
+
 FfD9M5y = F7K15f0e(Frs6_EM);
 
 std::cout << "awN0y58p" << std::endl;
@@ -148,7 +148,7 @@ else
 
 }
 FfD9M5y = F7K15f0e(-181242598);
-JknlRt6G7 = (int)ceil(I71eaI5);
+
 for (int i = 1; i >= 0; i--)
 {
 for (int j = 10; j >= 0; --j)
@@ -167,7 +167,7 @@ w7wWI -= mSvT8;
 }
 else
 {
-tLu22ldu_ = F7K15f0e(EFw_g2);
+
 }
 }
 }

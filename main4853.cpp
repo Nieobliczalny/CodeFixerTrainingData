@@ -23,7 +23,7 @@ int main(int argc, char** argv)
     long    Do4TFDo0I;
 
     unsigned int    dpkmgHdJ;
-    dpkmgHdJ    =    -1935130364;
+
   char  U0O7;
   U0O7  =  1691418300;
     int    D4VP;
@@ -33,7 +33,7 @@ int main(int argc, char** argv)
 	double	Tr014U8;
 
  float U91z53G_if;
- U91z53G_if = 1303101014;
+
     char    M6lpMLcK;
     M6lpMLcK    =    1819258157;
     short    k2zYRn16;
@@ -45,7 +45,7 @@ int main(int argc, char** argv)
 	float	dRZGqi2d6;
 	dRZGqi2d6	=	-1374692960;
  unsigned long long mTl7B;
- mTl7B = -1146142130;
+
  short int vzU4J2;
  vzU4J2 = 186604247;
  unsigned int r41q9z8y;
@@ -55,7 +55,7 @@ int main(int argc, char** argv)
   short  ov4qK5fM_9;
   ov4qK5fM_9  =  353410211;
   long  A4S0fN;
-  A4S0fN  =  -1158012572;
+
   long double  y6F492K687;
   y6F492K687  =  -995755034;
   unsigned short  T54z8Bh_2v;
@@ -65,7 +65,7 @@ int main(int argc, char** argv)
  long double M0J56g3el;
  M0J56g3el = -1201497080;
 	unsigned char	q5d9ywa_ZD;
-	q5d9ywa_ZD	=	900129718;
+
  unsigned short m_1IDDi8O;
  m_1IDDi8O = -1491987502;
   char  S8D64;
@@ -75,7 +75,7 @@ int main(int argc, char** argv)
   short int  WMawcmM;
   WMawcmM  =  -1080695995;
  char F4Jb13Bw5H;
- F4Jb13Bw5H = 118897520;
+
 	long double	R5pV8J;
 	R5pV8J	=	1134268272;
   long double  xnutcj6JZ;
@@ -85,7 +85,7 @@ int main(int argc, char** argv)
 	unsigned short int	Dk9g;
 	Dk9g	=	1358265695;
 	short	mB1Acbr7;
-	mB1Acbr7	=	604865973;
+
   short int  jNcKh8;
   jNcKh8  =  -1467759225;
   int  N9F_n8GF;
@@ -97,7 +97,7 @@ int main(int argc, char** argv)
 	unsigned char	JwwVCn;
 	JwwVCn	=	0;
  unsigned short zVU4xrT0n;
- zVU4xrT0n = -347213503;
+
  double Zhqq19;
  Zhqq19 = -1927291473;
 	unsigned char	mtppq;
@@ -113,7 +113,7 @@ int main(int argc, char** argv)
     int    E6LKrgo2Y;
 
   long long  Iu8lV;
-  Iu8lV  =  -386273113;
+
 	unsigned int	RDe1Wn;
 	RDe1Wn	=	-471650484;
     int    s2_Ed41;
@@ -123,7 +123,7 @@ int main(int argc, char** argv)
   unsigned long  rtZ10Edi;
 
 	float	UkgrwO3;
-	UkgrwO3	=	-1151906796;
+
   unsigned int  pYc6r;
   pYc6r  =  5339223;
 	unsigned char	fbJc4;
@@ -133,7 +133,7 @@ int main(int argc, char** argv)
   unsigned char  Rya_pdW;
 
     char    gLFBMzi;
-    gLFBMzi    =    1670354453;
+
     unsigned int    y3d59;
     y3d59    =    855132609;
     unsigned short    cAE59Ev;
@@ -143,7 +143,7 @@ int main(int argc, char** argv)
   short  l9RTJ2FhBd;
 
   float  a8MC9T_io;
-  a8MC9T_io  =  1486097287;
+
  unsigned char FX_G25;
  FX_G25 = -428380981;
 	short	ORUc;
@@ -153,7 +153,7 @@ int main(int argc, char** argv)
     short int    Hk4l7;
 
  long long vD6Sgln2;
- vD6Sgln2 = -321564744;
+
  long long yQYu8xqh2_;
  yQYu8xqh2_ = -365695648;
  unsigned short Y4QcYl24;
@@ -163,7 +163,7 @@ int main(int argc, char** argv)
     unsigned int    XRJ66;
 
   double  t50T4zyo;
-  t50T4zyo  =  -460222190;
+
  long h3c6Y_2be_;
  h3c6Y_2be_ = -1866223845;
 	long long	Qysk_;
@@ -175,7 +175,7 @@ int main(int argc, char** argv)
     float    E29G2;
 
     char    Dbl2S;
-    Dbl2S    =    -516909640;
+
   long double  UIY92tHv9;
   UIY92tHv9  =  -949891460;
     unsigned short    PJ_PA71A;
@@ -185,7 +185,7 @@ int main(int argc, char** argv)
 	long long	p1QB;
 
     long double    MB57EcX;
-    MB57EcX    =    -928257125;
+
  unsigned short Z9m_IGBF;
  Z9m_IGBF = 1636791606;
     unsigned short int    taPFW2Dmw;
@@ -195,7 +195,7 @@ int main(int argc, char** argv)
 	unsigned long	bmRyna63XO;
 
 	unsigned int	YCpU;
-	YCpU	=	278564446;
+
 	long double	ZB1QQu;
 	ZB1QQu	=	706361272;
   long  yz609sJ;
@@ -207,7 +207,7 @@ int main(int argc, char** argv)
     unsigned char    EKL8;
 
  unsigned short int M_PD14;
- M_PD14 = -317749148;
+
 	short int	SBiciJ;
 	SBiciJ	=	-500649621;
 
@@ -224,7 +224,7 @@ case 'a':
 
 break;
 case 'b':
-SBiciJ = jAa6(SBiciJ, yQYu8xqh2_);
+
 break;
 case 'c':
 cAE59Ev *= 1000766290;
@@ -249,7 +249,7 @@ case 0:
 
 break;
 case 1:
-SBiciJ = HQ75Q3(QP7smFQ) | r41q9z8y;
+
 break;
 case 2:
 F4Jb13Bw5H = (int)abs(N6l746mq);
@@ -261,7 +261,7 @@ break;
 
 
 
-JwwVCn = C5mt_v7(J6661L, 1165466472, CD5Z);
+
 return 0;
 }
 

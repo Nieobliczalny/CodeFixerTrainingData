@@ -223,7 +223,7 @@ int i = 0;
 while (i < 3)
 {
 i++;
-N76gK2z_34 = R8V7762 << W7WX6;
+
 }
 }
 
@@ -301,7 +301,7 @@ case 'd':
 break;
 }
 
-Y0RXP &= NGvexkC_25;
+
 
 switch (hJqJvtr_vD)
 {

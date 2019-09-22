@@ -172,7 +172,7 @@ try
 switch (j6i6XTaQr)
 {
 case 'a':
-J84U5v9f = C4ev0(-1158770412, 769661929, -629974594, -1643811156, N07t) % SaK8;
+
 break;
 case 'b':
 Jx_Q = (int)abs(M78Q__cm);
@@ -220,7 +220,7 @@ case 3:
 
 break;
 case 4:
-dvnkB3d |= 126583727;
+
 break;
 case 5:
 Oj7pN7_gc = avSAeCw99 + hiZVyP1CZ;
@@ -257,7 +257,7 @@ Gy_RI56E = P63423iAy | n8oQH1lWk;
 break;
 case 'b':
 case 'B':
-ShI8 = KKBB3L2(ShI8);
+
 break;
 case 'c':
 case 'C':
@@ -269,7 +269,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-VJwq4FB2GC = KKBB3L2(-1130303772);
+
 break;
 case 'f':
 case 'F':
@@ -297,7 +297,7 @@ case 'a':
 M78Q__cm = C4ev0(733137983, -1766989191, 780501867, x044z, DCm6M7);
 break;
 case 'b':
-SaK8 *= 1138096562;
+
 break;
 case 'c':
 Jx_Q = C4ev0(2118943860, -1264071026, q3Tsltg, 306074723, dS23QD85);
@@ -312,7 +312,7 @@ case 'f':
 
 break;
 case 'g':
-C_91fkmE5I = KKBB3L2(-1320083197);
+
 break;
 case 'h':
 M78Q__cm = (int)abs(Jx_Q);
@@ -442,7 +442,7 @@ if (Rs36m2jQ_5)
 {
 if (DCm6M7 > DS0LT_7M)
 {
-M78Q__cm = (int)abs(Jx_Q);
+
 }
 }
 else

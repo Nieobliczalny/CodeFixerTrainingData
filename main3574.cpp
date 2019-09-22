@@ -102,7 +102,7 @@ Gmz8k_DF >>= 1181753019;
 }
 }
 
-er2_RTDf_l = UWc1HpG5 / N4No;
+
 
 
 RTK47SLI = (int)abs(jg007EA);

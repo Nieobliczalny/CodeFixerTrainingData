@@ -50,7 +50,7 @@ hQtAJ9yk19 = (short)(TiaK7cKS8);
 }
 else if (((foOCq == -524934187) && (uY_4A2z > -2075090168)) || (ls6A))
 {
-cw4L1 = HFX1B % 1366121094;
+
 }
 else if (E6F74N2 & od914q)
 {
@@ -101,7 +101,7 @@ std::cout << "OLE6tL3" << "R_WF" << b_Moz8N << "Ux7o016Kyp" << std::endl;
 }
 else
 {
-SuQ3B25 = Qryu7FG * Qryu7FG;
+
 }
 
 ls6A = S_0FK_ / E4W_r;
@@ -166,7 +166,7 @@ case 3:
 
 break;
 case 4:
-XZe_49Yj = (int)abs(fjh1g4zmN2);
+
 break;
 case 5:
 foOCq ^= 912198733;
@@ -182,7 +182,7 @@ default:
 break;
 }
 
-DfmJhX5Z = (int)ceil(bgOTkxu1);
+
 
 std::cout << "h_MS5i_l" << M5hU5 << "H2U5" << std::endl;
 
@@ -198,7 +198,7 @@ if (YW02d == od914q)
 {
 try
 {
-aZ5i56 = E6F74N2 << 997700390;
+
 }
 catch (int& errorCode)
 {
@@ -237,7 +237,7 @@ while (i >= 0);
 
 
 
-hQtAJ9yk19 = od914q - M5hU5;
+
 
 XZe_49Yj = (int)ceil(rfJYl6_);
 for (int i = 7; i >= 0; --i)
@@ -254,7 +254,7 @@ k++;
 }
 }
 }
-M5hU5 = (fjh1g4zmN2 <= GivD) ? bgOTkxu1 : -718437996;
+
 SuQ3B25 = (int)ceil(rfJYl6_);
 
 return 0;

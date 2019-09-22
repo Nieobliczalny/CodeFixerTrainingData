@@ -308,7 +308,7 @@ std::cout << Nm1Y(634660936, -1134064354, kVZ36lbGT, Fj15glv8J, k54_aN) << "Fx4C
 
 if (((PIomV0C_wu <= i9o5) && (Ze3PVJrU_ & Ct2_)) || (HdXK5fF))
 {
-qv4drRb0gx = (long long)(mXM7xrq);
+
 }
 else if ((qV1GJ >= 1798253961) || (Vt6m))
 {
@@ -331,7 +331,7 @@ else if (A2iH_ <= C8vkDt)
 switch (GQvs1SCuy7)
 {
 case 'a':
-h8QJLVD6 = (int)ceil(x5JskLzxB1);
+
 break;
 case 'b':
 oIzV635p = (int)floor(F41c91P);
@@ -349,7 +349,7 @@ case 'f':
 zy8Nq0 = (int)floor(zJGq6);
 break;
 case 'g':
-C8vkDt = (int)floor(h8QJLVD6);
+
 break;
 case 'h':
 
@@ -382,7 +382,7 @@ for (int k = 0; k < 8; ++k)
 }
 else if (ah377E < MyCv)
 {
-mF2_L = (long)(f7Z_n + (mXM7xrq));
+
 }
 else if (Fj15glv8J == UCLS6)
 {
@@ -405,7 +405,7 @@ case 0:
 
 break;
 case 1:
-C8vkDt = (int)floor(A2iH_);
+
 break;
 case 2:
 T4H7B_4s += 1833989197;
@@ -435,7 +435,7 @@ case 'b':
 
 break;
 case 'c':
-yv_JV79I9 = dh7z_sv * 1333149055;
+
 break;
 case 'd':
 CCVTgtHI4r = Fj15glv8J / dh7z_sv;
@@ -447,7 +447,7 @@ case 'f':
 
 break;
 case 'g':
-zJGq6 = I0W7Ou();
+
 break;
 case 'h':
 HdXK5fF = Nm1Y(HdXK5fF, kVZ36lbGT, nvH_xPHr2, CCVTgtHI4r, -436103661);
@@ -474,7 +474,7 @@ if (hd30 & HoC_g_6EwP)
 }
 else
 {
-F41c91P = (int)ceil(AGZSV);
+
 }
 --j;
 }

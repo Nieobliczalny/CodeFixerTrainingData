@@ -146,7 +146,7 @@ case 2:
 If1hHEZv = (int)floor(C0F_Cqgq);
 break;
 case 3:
-H8BjcOJ_ += vXu1C;
+
 break;
 case 4:
 ZVA05VWwX = fT71uit();
@@ -454,7 +454,7 @@ if (((uRMfy >= V2vwbY61) || (vXu1C >= T379k_U6)) || (H8BjcOJ_ <= a_dWut))
 }
 else
 {
-H8BjcOJ_ = R74ka9CH * 1633367092;
+
 }
 }
 else if (H8BjcOJ_ < If1hHEZv)

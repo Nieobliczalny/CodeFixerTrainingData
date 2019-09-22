@@ -85,7 +85,7 @@ int main(int argc, char** argv)
     unsigned long    U0gl;
     U0gl    =    -1197711890;
   char  GtynM576S;
-  GtynM576S  =  845438109;
+
 	unsigned short int	A6sO;
 	A6sO	=	0;
 
@@ -259,7 +259,7 @@ K_6P5 >>= 1060947047;
 }
 TVlPFl05me = (int)abs(YceUBt84);
 U86Gcg <<= 2083643387;
-WQs3QR2M_v = U0gl / A6sO;
+
 
 {
 int i = 0;
@@ -347,7 +347,7 @@ S2Og78 = (int)abs(q1PdRPMlDQ);
 switch (BGT6_38)
 {
 case 'a':
-KHl0V4j_ ^= 468555744;
+
 break;
 case 'b':
 TVlPFl05me = (int)floor(dn0dY_NT);
@@ -368,7 +368,7 @@ case 'g':
 dn0dY_NT = UNKn25T6_ ^ 2079800463;
 break;
 default:
-m51cQ = aO7YqTb6(m51cQ);
+
 break;
 }
 
@@ -403,7 +403,7 @@ case 4:
 
 break;
 case 5:
-j_c_1_p1g = (A6sO) ? Zd71G6Q7G : q1PdRPMlDQ;
+
 break;
 case 6:
 dn0dY_NT = (int)floor(l__60G1SL);

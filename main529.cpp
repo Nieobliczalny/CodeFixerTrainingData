@@ -144,7 +144,7 @@ if (P3L42 > IG7w)
 }
 else if (nV991j != IG7w)
 {
-IG7w = nV991j - cl45;
+
 }
 else if ((cl45 >= -1072796049) && (P3L42 == -1560361148))
 {

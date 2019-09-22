@@ -18,7 +18,7 @@ int main(int argc, char** argv)
   unsigned long long  t_i2C,  eGK_a,  nKq04hUXYN,  sk6x,  J3Kj,  aXdhP,  ORCqk,  e3ghVu_0_,  LiB08_Lv5,  l_775,  H8orasx,  ZG6NL_6DJ,  f5a_bI,  T5F_Ry,  w5SAFmRLq,  Y2efm2_F0,  vx7IFROeXl,  wNZ09u5_,  n7k4T99;
     t_i2C  =  eGK_a  =  nKq04hUXYN  =  sk6x  =  J3Kj  =  aXdhP  =  ORCqk  =  e3ghVu_0_  =  LiB08_Lv5  =  l_775  =  H8orasx  =  ZG6NL_6DJ  =  f5a_bI  =  T5F_Ry  =  w5SAFmRLq  =  Y2efm2_F0  =  vx7IFROeXl  =  wNZ09u5_  =  n7k4T99  =  -696864365;
 
-eGK_a = J2Au6D * z0d28R2e8I;
+
 ZG6NL_6DJ = J2Au6D - 276872933;
 
 switch (sk6x)
@@ -30,7 +30,7 @@ case 1:
 f5a_bI = f5a_bI >> 2023536700;
 break;
 default:
-e3ghVu_0_ >>= ZG6NL_6DJ;
+
 break;
 }
 Tu2f = GD3KXtb(1021396847, -246981186);
@@ -47,7 +47,7 @@ while (i < 6);
 
 if (GD3KXtb(1772548466, -361756283) == 0)
 {
-	sk6x = -367898532 / GD3KXtb(1772548466, -361756283);
+
 }
 
 {

@@ -24,7 +24,7 @@ unsigned long	o6z_Xg2s_(long long	AJZM,unsigned long	GdKoy4,short	jX8DQP)
 
 int main(int argc, char** argv) {
   unsigned short  JrMoXi8;
-  JrMoXi8  =  2020046340;
+
     short    LAlChcC4L;
 
     unsigned char    V4Kb7VqtL;
@@ -34,7 +34,7 @@ int main(int argc, char** argv) {
   long double  M4cV3;
   M4cV3  =  -1551121936;
     unsigned short int    DfRc8nlo00;
-    DfRc8nlo00    =    0;
+
  short rZljnj1M;
  rZljnj1M = 1358793366;
   unsigned long long  WYeX8pG5_;
@@ -74,7 +74,7 @@ int main(int argc, char** argv) {
  long long Z8YjTY56;
 
     unsigned short int    V540mG6EpG;
-    V540mG6EpG    =    -1854906087;
+
     int    aNvL57k5xk;
     aNvL57k5xk    =    386701005;
     unsigned char    dkG0;
@@ -108,7 +108,7 @@ int main(int argc, char** argv) {
     short    vlKL8F1;
     vlKL8F1    =    -1916247574;
 	unsigned long long	u0OWfzIi;
-	u0OWfzIi	=	-1620395461;
+
   int  SB6gVo;
 
     unsigned long long    g_xSYla;
@@ -140,7 +140,7 @@ int main(int argc, char** argv) {
  double Pb55;
  Pb55 = 572052589;
     unsigned int    bEV8;
-    bEV8    =    -1546752352;
+
  unsigned long long dp3gykIR;
  dp3gykIR = -201125277;
 	short	y1n2l_;
@@ -186,7 +186,7 @@ int main(int argc, char** argv) {
  unsigned char MH4_8;
  MH4_8 = 1854180623;
     unsigned long long    egF_;
-    egF_    =    -1101831159;
+
   long double  ZI2T;
   ZI2T  =  1301566903;
  unsigned long AWr6ro;
@@ -198,7 +198,7 @@ int main(int argc, char** argv) {
     unsigned char    f9EN;
 
 	int	siWrL8ZUK;
-	siWrL8ZUK	=	-248589962;
+
  short int lt511dF;
  lt511dF = 531474380;
 	unsigned char	rGe0q0;
@@ -218,7 +218,7 @@ int main(int argc, char** argv) {
   short  DsKQ;
   DsKQ  =  -1173965693;
  unsigned short qy1_1yKek3;
- qy1_1yKek3 = 1099677568;
+
 	float	l5FoB32UhQ;
 	l5FoB32UhQ	=	-584536768;
 
@@ -245,7 +245,7 @@ break;
 }
 
 D_oeB90uVH = (unsigned int)(BR0z);
-DfRc8nlo00 = GT_2s0G9L(1768609753, 761282114, 2114482044, -2049429762);
+
 if ((o6z_Xg2s_(1658982031, 1706079089, 1813832669) / GT_2s0G9L(-1137383833, BR0z, rfNoxL23il, IP25wyzUz)) != 298488216)
 {
 if (x5Am6IX8U <= cTMg_1)
@@ -275,7 +275,7 @@ case 1:
 dp3gykIR = L8hec(dp3gykIR, 1103519217);
 break;
 default:
-ry7UYjw9 /= 486818038;
+
 break;
 }
 switch (E1x77a9)
@@ -290,7 +290,7 @@ PRwgQm ^= 1892715616;
 break;
 case 'c':
 case 'C':
-DfRc8nlo00 = GT_2s0G9L(j5OWOR, wk2FgX3, lM_hN, H0hdmc);
+
 break;
 case 'd':
 case 'D':
@@ -302,7 +302,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-P0tzb = (int)ceil(a6__);
+
 break;
 case 'g':
 case 'G':
@@ -436,7 +436,7 @@ else
 int k = 0;
 do
 {
-DfRc8nlo00 = GT_2s0G9L(H0hdmc, ilDV403pIM, NSCL9Sw, 1765788010);
+
 ++k;
 }
 while (k < 6);
@@ -496,7 +496,7 @@ if ((lpl5 <= 1245800969) || (tD6x0))
 }
 else if (j5OWOR & WYeX8pG5_)
 {
-ub758_ = (int)abs(ilDV403pIM);
+
 }
 else if (((y1n2l_ != -1861935256) || (O9p_ZA != 735797318)) && (ZI2T))
 {
@@ -508,7 +508,7 @@ else if (eQ8e8 == F1hhKZf3_g)
 }
 else
 {
-mEe_57B /= V3jRf;
+
 }
 }
 else if (Oy65HAX > Vn6UK9iY)
@@ -534,7 +534,7 @@ else if (IPtlKr6 != tjO26)
 {
 if (rGe0q0)
 {
-a6__ = (int)floor(ZI2T);
+
 }
 }
 else
@@ -564,7 +564,7 @@ case 2:
 sJFMYy2Xz5 = o6z_Xg2s_(756837293, 1218396281, V3jRf) % 1004521023;
 break;
 case 3:
-M4cV3 = (int)ceil(TYTR67);
+
 break;
 case 4:
 ZI2T = (int)floor(So65pei03D);
@@ -614,7 +614,7 @@ case 1:
 IZC3J2p = WYeX8pG5_ ^ 1775254960;
 break;
 case 2:
-D0R1 = rZljnj1M << wk2FgX3;
+
 break;
 case 3:
 BYocq_3 += x5Am6IX8U;
@@ -629,7 +629,7 @@ case 6:
 WYeX8pG5_ = Q6Q_qX3ub ^ 1336289886;
 break;
 case 7:
-y1n2l_ -= 1289258850;
+
 break;
 case 8:
 ZI2T = (int)floor(x5Am6IX8U);
@@ -680,7 +680,7 @@ DfRc8nlo00 = GT_2s0G9L(g_xSYla, 1765627591, 910699650, 551767668);
 break;
 case 'e':
 case 'E':
-NM48cj = (int)abs(sJFMYy2Xz5);
+
 break;
 case 'f':
 case 'F':
@@ -709,7 +709,7 @@ while (i < 4);
 std::cout << GT_2s0G9L(-214386118, g_xSYla, -736409717, Y489) << DfRc8nlo00 << "RM9vv7_YV_" << L8hec(841046271, g_xSYla) << o6z_Xg2s_(sJFMYy2Xz5, g_xSYla, mMtZg) << std::endl;
 std::cout << o6z_Xg2s_(sJFMYy2Xz5, -1257116843, mMtZg) << L8hec(-1943656781, g_xSYla) << "ni4YA8kf" << "JZ914H6" << "k61osjM0x6" << std::endl;
 
-DfRc8nlo00 = GT_2s0G9L(IPtlKr6, -426345986, -1583593072, -308392747);
+
 return 0;
 }
 

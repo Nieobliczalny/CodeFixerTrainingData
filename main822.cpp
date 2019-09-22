@@ -31,7 +31,7 @@ r_PA = (unsigned short int)(yd2e_);
 
 for (int i = 6; i >= 0; --i)
 {
-d2fY = (unsigned short int)(nnl6);
+
 }
 {
 int i = 7;
@@ -296,7 +296,7 @@ Ibx94Shv7 = OPK_1(T7Ukb3um);
 }
 else
 {
-N6WRy20 |= W9Yr586Igj;
+
 }
 }
 else

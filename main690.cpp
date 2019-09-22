@@ -134,7 +134,7 @@ case 4:
 
 break;
 case 5:
-T32Y |= a8S2Id5M;
+
 break;
 case 6:
 aH97O12B0 = y_epy8D_YX(-1048634608, zJDPJg);
@@ -445,7 +445,7 @@ else if ((zJDPJg != RF0Y3n_7ch) || ((jhHb813npm <= -153810838) || (aH97O12B0 >= 
 switch (lH2X)
 {
 case 'a':
-Uq4b__ ^= a8S2Id5M;
+
 break;
 case 'b':
 

@@ -30,7 +30,7 @@ int main()
     VoeQ    =    -1025358416;
     IhfZSH    =    -830326338;
 
-    BTdVNZxt6m    =    2080555671;
+
     vu5F39Co6l    =    -2050042222;
     i_4ghT    =    -1812233994;
     p3291    =    1177784371;
@@ -283,7 +283,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-o7K1 = (int)ceil(EH_1p2_k);
+
 break;
 case 'f':
 case 'F':
@@ -303,7 +303,7 @@ gohJfg = (long double)(F140U);
 UlC911H9 = -1290010564 / hfWO;
 if (V12Tm0n38h < 831642961)
 {
-IcWD7e34G = (long double)(Y56B);
+
 }
 else if (VOARGx47W == -2129066978)
 {
@@ -385,7 +385,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-VOARGx47W = O0ZX(-722481929, -1659326545, 1727336322) & 1281106256;
+
 break;
 case 'c':
 case 'C':

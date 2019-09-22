@@ -61,7 +61,7 @@ case 2:
 ewh5g = tO1a_ | 761089174;
 break;
 case 3:
-UGeba = nfhNTqtO(34208923, 281254586);
+
 break;
 case 4:
 wM6934g6 = (wM6934g6 & 770409241) ? hAC8 : OK_151yop;
@@ -77,7 +77,7 @@ if (B40085vgv > 143655771)
 }
 
 df5_i2I = nfhNTqtO(-940384348, D40b_e0a7);
-Cj7E4UpM = Y1xTG2 / sfbfBT;
+
 
 if (wM6934g6 != hOwgF)
 {
@@ -177,7 +177,7 @@ case 'E':
 zMjiWrR = koIwy2U | 827218642;
 break;
 default:
-dSYB = Vhp12g5();
+
 break;
 }
 }
@@ -302,7 +302,7 @@ else
 {
 for (int k = 8; k >= 0; k--)
 {
-P_O2 = Vhp12g5();
+
 }
 }
 }

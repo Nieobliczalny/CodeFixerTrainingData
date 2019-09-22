@@ -39,7 +39,7 @@ int main(void)
     long long    X_eeX;
     X_eeX    =    -1549487355;
  unsigned char VrYRHFvS4V;
- VrYRHFvS4V = -475912061;
+
   char  Dl583LL7qd;
   Dl583LL7qd  =  397018918;
 	unsigned short	x9Sc7S;
@@ -53,7 +53,7 @@ int main(void)
     short    f1iUGS_41;
 
     long double    BNi0i;
-    BNi0i    =    563165429;
+
   short  QvX_k1v;
   QvX_k1v  =  1275299160;
  long long Xj5Fv_Vkk;
@@ -67,7 +67,7 @@ int main(void)
     long long    KGj3V;
     KGj3V    =    -992167103;
  long SrF1oG;
- SrF1oG = 1997762614;
+
  unsigned long OH5cGT82_H;
  OH5cGT82_H = -530065465;
     unsigned long long    ts8kyf8GZ;
@@ -81,7 +81,7 @@ int main(void)
   long  pMZKZ;
   pMZKZ  =  1699019988;
  unsigned long long BQqd1;
- BQqd1 = -781001315;
+
 	unsigned short	DM6t6e;
 	DM6t6e	=	-1282376553;
 	float	xJSS1J2oZ;
@@ -93,7 +93,7 @@ int main(void)
 	unsigned short	JsUw;
 	JsUw	=	1934419223;
  unsigned char U6_33;
- U6_33 = 828747756;
+
   char  gHQEAK3ru;
   gHQEAK3ru  =  1731036878;
     unsigned long long    xbFKX4;
@@ -236,7 +236,7 @@ ImFW13Wg_ = (int)floor(bJz4hV);
 }
 else
 {
-BNi0i = TQlHp5RP(BNi0i, -289443055, 729396789, aHZ07_jSp);
+
 }
 
 switch (xbFKX4)
@@ -328,7 +328,7 @@ case 0:
 SeIMw = (int)abs(v_8xi_8tr0);
 break;
 case 1:
-Bz95x = y4w69bGmz & nc5m79;
+
 break;
 case 2:
 
@@ -340,7 +340,7 @@ case 4:
 BNi0i = (int)ceil(p_n_xrz);
 break;
 case 5:
-bJz4hV = (int)ceil(ImFW13Wg_);
+
 break;
 case 6:
 Bz95x = (int)ceil(bJz4hV);
@@ -352,7 +352,7 @@ case 8:
 v_8xi_8tr0 = (int)abs(nc5m79);
 break;
 default:
-ImFW13Wg_ = (int)ceil(bJz4hV);
+
 break;
 }
 }
@@ -389,7 +389,7 @@ cout << GT8Ey095 << endl;
 while (i < 10);
 }
 
-Xj5Fv_Vkk = (int)abs(n_y8Z9);
+
 GT8Ey095 = (short)(bIB7nVQK0);
 
 {
@@ -437,7 +437,7 @@ for (int k = 8; k >= 0; --k)
 }
 else
 {
-SeIMw = n_y8Z9 * Fv8i;
+
 }
 }
 else
@@ -447,7 +447,7 @@ cout << cP9PcSL(183084627, -2026209678, l6sfjJ) << Y7pRfFK4T() << "F3v9We" << "U
 
 cout << aDs6wI(1071338306, c38BV, -153489858) << TXpJ << endl;
 
-pwoGfM -= CPG_Qb9;
+
 for (int i = 10; i >= 0; --i)
 {
 for (int j = 9; j >= 0; j--)

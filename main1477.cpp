@@ -163,7 +163,7 @@ case 4:
 
 break;
 case 5:
-lGxaaZf7N = (int)floor(DeMpr7gygD);
+
 break;
 case 6:
 MODS59c = Ai9D3(531081330);
@@ -512,7 +512,7 @@ case 2:
 x57p5 = Ai9D3(823315117);
 break;
 case 3:
-uvkrEn = (int)abs(k78O01Xr8);
+
 break;
 }
 }
@@ -554,7 +554,7 @@ if (YM4zm & a6t7)
 }
 else if (((W2JT_3y6 & 1238501119) && (Nh5a79973 < qrz1GI8tO)) && ((i7fFucdL7H < DeMpr7gygD) || (Nxmh_W47_ == qrz1GI8tO)))
 {
-p_Gx5W2M &= 1277664988;
+
 }
 else
 {
@@ -564,7 +564,7 @@ case 0:
 
 break;
 case 1:
-NhiJfy = Ai9D3(-690787281);
+
 break;
 case 2:
 mfInu6 -= 342708440;
@@ -576,7 +576,7 @@ case 4:
 
 break;
 case 5:
-b98IK2H = (int)ceil(UNO9SV7W7);
+
 break;
 case 6:
 MODS59c = (int)abs(x57p5);
@@ -588,7 +588,7 @@ case 8:
 
 break;
 default:
-MODS59c = Ai9D3(28931066);
+
 break;
 }
 }
@@ -617,7 +617,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-ntQv %= 18219229;
+
 break;
 case 'c':
 case 'C':
@@ -629,7 +629,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-b98IK2H = (i7fFucdL7H < HkR5687R) ? L1606 : Ai9D3(lGxaaZf7N);
+
 break;
 case 'f':
 case 'F':

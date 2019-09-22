@@ -114,7 +114,7 @@ case 2:
 EC_MHB++;
 break;
 case 3:
-q7HF324 = eqj_b3PZdd % 1616182309;
+
 break;
 case 4:
 f2oASR5 = Ts_R3r(222445577, -1618659282, -1779297327, W6Db_GwR);
@@ -143,7 +143,7 @@ break;
 zs85wcn4 = (int)abs(Qs013LbQ);
 if (EC_MHB)
 {
-q1ovOo = Ts_R3r(-1036614672, zBLMI0Wr0c, UIKZu, -1126218252);
+
 }
 else if ((ScgcLIslpV >= 1361678265) || (wr9AOO0j))
 {

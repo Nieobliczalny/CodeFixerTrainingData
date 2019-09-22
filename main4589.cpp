@@ -148,7 +148,7 @@ if (G_TBPgMf > 1150394407)
 }
 else
 {
-Ggdh = (int)ceil(J5lSu);
+
 }
 
 return 0;

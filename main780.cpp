@@ -109,7 +109,7 @@ DoTfI = SG32mlV(DoTfI, lG3v6zyR);
 break;
 }
 
-WeLea6 = SG32mlV(WeLea6, K6_04MuS_);
+
 
 WeLea6 = SG32mlV(-475942621, 1270484934);
 DoTfI = SG32mlV(197465054, DoTfI);
@@ -226,7 +226,7 @@ case 'B':
 
 break;
 default:
-DoTfI = (int)abs(YbUe) * 0;
+
 break;
 }
 }

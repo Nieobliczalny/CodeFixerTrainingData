@@ -31,7 +31,7 @@ int main(int argc, char** argv)
   unsigned short  pYks0X6a54;
   pYks0X6a54  =  -1397734053;
 	unsigned long long	JGtM5rM9;
-	JGtM5rM9	=	1422794250;
+
     unsigned long long    ZDn8W08;
     ZDn8W08    =    1173525502;
   short  rjR6NA3ctF;
@@ -61,7 +61,7 @@ int main(int argc, char** argv)
  char s42QDP;
  s42QDP = 105348798;
  unsigned int Gya5;
- Gya5 = -918477767;
+
   int  VCogunrbD;
   VCogunrbD  =  0;
  unsigned long long G2T8;
@@ -229,7 +229,7 @@ case 'd':
 Z_vIb3 = RmcO9V - pHwaO20nB;
 break;
 case 'e':
-frvSt = (int)ceil(v88t8Q0);
+
 break;
 case 'f':
 dZdeEiy24 = (int)abs(ULVc);

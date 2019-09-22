@@ -277,7 +277,7 @@ yopR3 = TWPU8U1bI();
 break;
 case 'd':
 case 'D':
-gkSJCs7 = p9FjsBy(I0es, gkSJCs7);
+
 break;
 case 'e':
 case 'E':
@@ -389,7 +389,7 @@ if (O42afgTEQ < 1017355838)
 }
 else
 {
-sS4BCb = (unsigned long)(FXe7rM07R);
+
 }
 }
 

@@ -26,7 +26,7 @@ unsigned char t1PgrK0iGt(int ht7Se8T66b)
 int main(int argc, char** argv)
 {
 	unsigned long long	Fm_b445iD1,	UPy1ND0z5S,	ktL_r1,	BRn1Q_8V,	v33OG1h4,	U_9OP,	EZclwgVj_i,	BnLL,	d21y,	VvXP8,	Bs_ck_Y95,	M_pS;
-	Fm_b445iD1	=	1385600358;
+
 
 	ktL_r1	=	-1787274519;
 	BRn1Q_8V	=	2014020179;
@@ -55,7 +55,7 @@ else
 }
 if (E7W0t5hAvd)
 {
-U_9OP = c9eMRZ0(-1873142904, -1194966964);
+
 }
 else
 {

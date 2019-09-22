@@ -434,7 +434,7 @@ i++;
 while (i < 2);
 }
 
-OQIQ16_ = WGaME6b();
+
 CYAMvO_FUA = (int)floor(jFgJu20F);
 if ((b_bB < 518412635) && (OzrB_641G))
 {
@@ -472,7 +472,7 @@ case 1:
 
 break;
 case 2:
-OQIQ16_ = WGaME6b();
+
 break;
 }
 

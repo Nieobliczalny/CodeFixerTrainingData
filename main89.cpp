@@ -61,7 +61,7 @@ int main(int argc, char** argv)
 	float	SX7W8;
 	SX7W8	=	1947849726;
  short int GbUR8im;
- GbUR8im = -1179008935;
+
     unsigned short    k1FEMhp3q;
     k1FEMhp3q    =    -193539938;
  unsigned int g7_e;
@@ -75,7 +75,7 @@ int main(int argc, char** argv)
  long dbry7;
  dbry7 = -720491523;
  short int y8657;
- y8657 = -835490538;
+
  double Tk1DlK0a;
  Tk1DlK0a = 1293842132;
 	unsigned char	cKr6_;
@@ -169,7 +169,7 @@ int main(int argc, char** argv)
   unsigned short  LpRu;
 
  unsigned long fVd34CB;
- fVd34CB = 1491490591;
+
  int uW_ahY;
  uW_ahY = 1402677045;
  unsigned long long wq_A23;
@@ -232,7 +232,7 @@ hpmlY2I <<= ga0e8;
 break;
 case 'b':
 case 'B':
-y8657 = O_2zvjDe3();
+
 break;
 case 'c':
 case 'C':
@@ -316,7 +316,7 @@ Se9P2c86Kt = Su9wxi_E(Se9P2c86Kt, s4FzT, -1640484285, -250400034, 569896858);
 switch (K3NcL)
 {
 case 0:
-InuAM = (int)floor(s4FzT);
+
 break;
 case 1:
 L7o6H584 = PUO7CS(ZbP76sz, -977521288, -1284786499, F4iUo_5v);
@@ -331,7 +331,7 @@ case 4:
 
 break;
 case 5:
-y8657 = F4iUo_5v + 717742763;
+
 break;
 case 6:
 N51IOU6i7l = (int)floor(W5TNYI95);
@@ -481,7 +481,7 @@ else
 }
 NxD_wpj_rD = (int)floor(s4FzT);
 
-HgxS5_2 = Su9wxi_E(HgxS5_2, F4iUo_5v, sB876_rt, hpmlY2I, HCBiPp);
+
 for (int i = 4; i >= 0; i--)
 {
 vIM7ci = (int)ceil(cBh3P);
@@ -495,7 +495,7 @@ if (p_Dc5sdI <= 833067636)
 
 if (df208k4v2)
 {
-e2C9zD8 = (unsigned char)(g7_e);
+
 }
 else
 {
@@ -505,7 +505,7 @@ case 0:
 
 break;
 case 1:
-Se9P2c86Kt = DY_K0wE71T(Se9P2c86Kt, k1FEMhp3q, L7o6H584, -1333575523, ioB1gJ);
+
 break;
 case 2:
 W38Nik2h = O_2zvjDe3();
@@ -520,7 +520,7 @@ case 5:
 dbry7 = sB876_rt % 43681629;
 break;
 case 6:
-L7o6H584 = PUO7CS(p1AnX, l_x6c, 1047311848, W5TNYI95);
+
 break;
 case 7:
 GbUR8im = (OXOn9myaV_ & 947304805) ? n492f1 : UfQk7y30;
@@ -557,7 +557,7 @@ if (cKr6_ < 162805809)
 {
 if (z0Jp21Ni62 > -1426340070)
 {
-s4FzT = DY_K0wE71T(969773902, agF0, 875445949, IR90, sB876_rt);
+
 }
 else
 {
@@ -570,7 +570,7 @@ else if (zs2C >= -1884039749)
 }
 else
 {
-Tk1DlK0a = (int)ceil(SX7W8);
+
 }
 }
 return 0;

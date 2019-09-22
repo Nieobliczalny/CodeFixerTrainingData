@@ -57,7 +57,7 @@ else if (FkBuV9JFJ < zt4QY3D)
 {
 try
 {
-OkuSRQt_ %= 1793606002;
+
 }
 catch (int& errorCode)
 {
@@ -132,7 +132,7 @@ Cj1ov /= HmQvd4;
 }
 }
 
-P69irZ34Bp <<= zt4QY3D;
+
 cout << "oUMT" << endl;
 {
 int i = 0;
@@ -455,7 +455,7 @@ else if (((qnt__ZBu9Y > Yl8p) || (Agb_6Nkz)) || (A17k0e == F69g))
 {
 try
 {
-oxKs809V9G = TS1qJEi * 1134464431;
+
 }
 catch (int& errorCode)
 {

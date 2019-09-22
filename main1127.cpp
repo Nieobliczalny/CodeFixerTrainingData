@@ -208,7 +208,7 @@ while (i < 3);
 
 
 
-Z7_Ar7 = (int)ceil(NUP39R);
+
 
 switch (Z69UhAKfwS)
 {
@@ -253,7 +253,7 @@ default:
 Xfw7UBoaY = NCtDYa4Vts << 320596221;
 break;
 }
-DrWrwe7 = (unsigned char)(RcIht4P__);
+
 try
 {
 switch (aD4_n)
@@ -265,7 +265,7 @@ case 1:
 bS54l2CW = RcIht4P__ / Ow0_01m9;
 break;
 case 2:
-FIz06Xrs = (int)ceil(LG9z);
+
 break;
 case 3:
 f9HzaV %= 1505476710;
@@ -289,7 +289,7 @@ case 0:
 
 break;
 case 1:
-PcqP2_z5 = RXbg8XQN ^ 662908640;
+
 break;
 case 2:
 Z69UhAKfwS--;

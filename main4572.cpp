@@ -262,7 +262,7 @@ else
 {
 
 }
-lZnTPa5B2o = (long)(W1G6zBMg);
+
 std::cout << "refmT" << jjC5 << "EX_24" << EP8OkJ1P1k << std::endl;
 
 {
@@ -280,7 +280,7 @@ if (PWyxiVTzK0 & 413472802)
 }
 else
 {
-Y5XN = ZRx3pW(-848616420);
+
 }
 ++j;
 }
@@ -351,7 +351,7 @@ while (j >= 0)
 {
 for (int k = 3; k >= 0; k--)
 {
-VZ31 = (int)abs(bqH7GJ1A);
+
 }
 --j;
 }
@@ -376,7 +376,7 @@ if (jQef)
 {
 if (((jjC5 > Y5XN) || (PWyxiVTzK0 & -908977584)) || (n57Rllic4 < -320427165))
 {
-tzXjbQo = hQstS5YbC(tzXjbQo, 1536740831, -400776090, -649445360);
+
 }
 }
 

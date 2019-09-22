@@ -40,7 +40,7 @@ int main(void)
     long    fRK0;
     fRK0    =    -1738753252;
 	long long	ZKC2Meb_9W;
-	ZKC2Meb_9W	=	-472825627;
+
     long    Ew8O9;
     Ew8O9    =    856251956;
   int  d62W;
@@ -50,7 +50,7 @@ int main(void)
  long P8Zf55H;
  P8Zf55H = 1169844506;
 	unsigned short int	lsD27l;
-	lsD27l	=	1101491978;
+
 	short	w9lLD2Q7;
 	w9lLD2Q7	=	1214391148;
  float I2lCrMZns;
@@ -64,7 +64,7 @@ int main(void)
  long rQQQd76;
 
   double  Pgdr6SEg;
-  Pgdr6SEg  =  802476014;
+
  long M_fCrdlh;
  M_fCrdlh = 1951561934;
     short    o0L6x4RN;
@@ -84,7 +84,7 @@ int main(void)
 	unsigned long long	h0W5;
 
 	unsigned short	ONQ6;
-	ONQ6	=	1498563045;
+
 	long long	Yn6AjQ6;
 	Yn6AjQ6	=	-152843430;
 	double	B4b40s;
@@ -98,7 +98,7 @@ int main(void)
   unsigned int  s0Vni4aT;
   s0Vni4aT  =  1680882302;
  float YkJu9;
- YkJu9 = 1142573955;
+
     long    IjQlAN23vW;
     IjQlAN23vW    =    0;
   short int  W3CcZ;
@@ -116,7 +116,7 @@ int main(void)
 	float	LN4_U;
 	LN4_U	=	1790442025;
 	int	S_OWst7_g5;
-	S_OWst7_g5	=	555722205;
+
  short r_jE2C92;
  r_jE2C92 = 1470539807;
  unsigned short int KA116H9R;
@@ -126,7 +126,7 @@ int main(void)
   long  e1G3UOp7g4;
 
     unsigned int    hKwHC5v5lF;
-    hKwHC5v5lF    =    -271984693;
+
 	long	rDvWULYanm;
 	rDvWULYanm	=	-738885574;
 	unsigned char	PfmWA7QE;
@@ -152,7 +152,7 @@ int main(void)
  unsigned long hB2q8P1eAc;
  hB2q8P1eAc = 650091411;
   unsigned char  jBZnED;
-  jBZnED  =  2000692520;
+
     long    ZH_ZY3;
     ZH_ZY3    =    1569573062;
   unsigned short  E_O7s94_V9;
@@ -226,7 +226,7 @@ else if (Oe4_vt <= 1909970046)
 int k = 1;
 do
 {
-Pgdr6SEg = ZTY4T8() - fRK0;
+
 --k;
 }
 while (k >= 0);
@@ -246,7 +246,7 @@ while (k < 5);
 }
 else if (py44rBOE & 555257009)
 {
-hKwHC5v5lF = (unsigned int)(B4b40s);
+
 }
 else
 {
@@ -314,7 +314,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-MHPnDKRE = (int)floor(B4b40s);
+
 break;
 case 'd':
 case 'D':
@@ -367,7 +367,7 @@ Vw6_51wV = (int)abs(c_in9V6);
 }
 
 
-Pgdr6SEg = (int)floor(zn9V8zk573);
+
 {
 int i = 9;
 while (i >= 0)
@@ -431,7 +431,7 @@ else
 switch (PfmWA7QE)
 {
 case 'a':
-Pgdr6SEg -= S79b8;
+
 break;
 case 'b':
 
@@ -443,7 +443,7 @@ case 'd':
 BE658qB16 = (int)floor(Pgdr6SEg);
 break;
 case 'e':
-QX0Klrj = XrN3(-1285944039, 874025733, I2lCrMZns);
+
 break;
 case 'f':
 
@@ -485,7 +485,7 @@ while (k < 8);
 std::cout << d62W << d719zKplA(gSEsHSvB, 1938861504, -652430285) << std::endl;
 
 
-PA6cUx_H1 = (int)(oTtu791sS + (-1858105068));
+
 return 0;
 }
 

@@ -25,7 +25,7 @@ int main(int argc, char** argv)
   unsigned short int  a__X,  Z253x,  H5VO8Ap;
     a__X  =  Z253x  =  H5VO8Ap  =  0;
 
-I6gQz = (int)floor(o0FJp2jm_);
+
 if (((I_1Q7rF < 342401270) || (p00PkG0F == 268998976)) && (a__X & 1252523024))
 {
 if (NC4165ynF != -2095634669)
@@ -43,7 +43,7 @@ else if (F9I34_Z >= -1826053161)
 {
 if ((a__X & -905347763) || (MMdhJ3I86 == o0FJp2jm_))
 {
-mT7o6p = (int)abs(SKf8);
+
 }
 else
 {
@@ -69,7 +69,7 @@ U3g_cK1E = (int)abs(ckI288);
 }
 else if (Iz15vW4b < p00PkG0F)
 {
-vQiAcvW_4k = eucl5qOT / 2146839785;
+
 }
 else
 {
@@ -84,7 +84,7 @@ H5VO8Ap = FJ5719_wf5();
 
 try
 {
-SKf8 = (long double)(lA3m);
+
 }
 catch (int& errorCode)
 {
@@ -94,7 +94,7 @@ NYXl5M_Yku = (BcKOLt2a <= -2085914327) ? 929709980 : Iv29Z5t5A;
 switch (H5VO8Ap)
 {
 case 0:
-a__X = FJ5719_wf5();
+
 break;
 case 1:
 H5VO8Ap = FJ5719_wf5();
@@ -109,7 +109,7 @@ case 4:
 H5VO8Ap = FJ5719_wf5();
 break;
 case 5:
-caK20 = Iv29Z5t5A * 523452627;
+
 break;
 case 6:
 s5U40u4t = (int)floor(V_9u__YG15);
@@ -124,7 +124,7 @@ break;
 
 try
 {
-ckI288 = (int)abs(Iv29Z5t5A);
+
 }
 catch (int& errorCode)
 {
@@ -137,7 +137,7 @@ int j = 8;
 do
 {
 j--;
-a__X = FJ5719_wf5();
+
 }
 while (j >= 0);
 }
@@ -157,7 +157,7 @@ int k = 0;
 while (k < 7)
 {
 ++k;
-jr_r = FJ5719_wf5() & 440810664;
+
 }
 }
 }
@@ -167,7 +167,7 @@ b_SbL5 = (long double)(FCySfI);
 }
 }
 
-I6gQz = (long double)(ozc3);
+
 
 if (FJ5719_wf5() == 0)
 {
@@ -183,7 +183,7 @@ std::cout << FJ5719_wf5() << "b_Ml" << YamV << std::endl;
 
 if (u16na != -2023857133)
 {
-H5VO8Ap = FJ5719_wf5();
+
 }
 
 return 0;

@@ -34,7 +34,7 @@ case 'b':
 v0g4vCx = RwXMV(1779164426);
 break;
 case 'c':
-N1x1g2B98 = GFlK8();
+
 break;
 case 'd':
 hD942xc0 = GFlK8();
@@ -61,7 +61,7 @@ for (int i = 0; i < 8; ++i)
 switch (qk3W)
 {
 case 0:
-F2mP4nl = GFlK8();
+
 break;
 case 1:
 v0g4vCx = RwXMV(1869940994);
@@ -73,7 +73,7 @@ case 3:
 v0g4vCx = RwXMV(1659435839);
 break;
 case 4:
-hD942xc0 = GFlK8();
+
 break;
 case 5:
 yC11VLLKV *= v0g4vCx;
@@ -108,7 +108,7 @@ else
 }
 while (i < 8);
 }
-huG1bIn9aj = y83og / RwXMV(-618215877);
+
 l6Vj43TJs = (unsigned char)(P_0BLzoD84);
 std::cout << RwXMV(P_0BLzoD84) << "yLp4xw_WG" << "fZqMrPb63" << RwXMV(P_0BLzoD84) << s8dU278I << std::endl;
 
@@ -132,7 +132,7 @@ std::cout << "D1Y78f8" << ElVw_TTC0F << GFlK8() << RwXMV(1575127699) << std::end
 
 std::cout << jwqo8HpPl5 << GFlK8() << GFlK8() << m8hf_1C0cn << RwXMV(-2114433220) << std::endl;
 
-cMk0y = (VUmj_nt44) ? xYiQWBHBig : -412024732;
+
 
 gcR8_KS = GFlK8();
 w6B899mPf = f4e3b46 * 514542696;
@@ -154,7 +154,7 @@ while (i < 2);
 
 for (int i = 10; i >= 0; i--)
 {
-K920qEZ = GFlK8();
+
 }
 
 for (int i = 0; i < 10; i++)

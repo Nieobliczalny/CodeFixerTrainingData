@@ -61,7 +61,7 @@ if (uyL3IU >= 285317049)
 {
 if (gM2eO_)
 {
-lQdv9VU = (int)ceil(tl_fVSaWp);
+
 }
 else if (eapbK < wlL1i_BO)
 {

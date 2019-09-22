@@ -28,7 +28,7 @@ int main(void) {
  unsigned long long bS_9Z9yywx;
  bS_9Z9yywx = -1759831002;
     unsigned char    W1Ss6XsJ;
-    W1Ss6XsJ    =    -1508706680;
+
     unsigned long    L4ir9_r;
     L4ir9_r    =    285657184;
  unsigned int LauuV;
@@ -44,7 +44,7 @@ int main(void) {
   int  o3z1;
   o3z1  =  -4373834;
   unsigned char  ha3FX3;
-  ha3FX3  =  2034513507;
+
 	long	F8oSM;
 	F8oSM	=	321859800;
   unsigned short  oGc__C;
@@ -64,7 +64,7 @@ int main(void) {
 	short int	r6NmqL78e;
 
   short int  P3845E8;
-  P3845E8  =  83840738;
+
     short    A0F5dIZZz;
     A0F5dIZZz    =    -597396539;
 	int	NR48ekrgO3;
@@ -74,7 +74,7 @@ int main(void) {
 	unsigned short int	Gc4JWNFtT7;
 	Gc4JWNFtT7	=	9176878;
     float    bg_Oz5;
-    bg_Oz5    =    2057543889;
+
     unsigned int    i6_8l;
     i6_8l    =    -2067162736;
   long  bQt_f2Mrst;
@@ -98,7 +98,7 @@ int main(void) {
   short int  Hw5YgOJ;
   Hw5YgOJ  =  -1610174305;
  long long u1nb1uk4jO;
- u1nb1uk4jO = -341742776;
+
 	long	to7P1O39;
 	to7P1O39	=	-1825765450;
     unsigned char    bdZ5i_Y;
@@ -116,7 +116,7 @@ int main(void) {
  unsigned int DmQX04R;
 
     short    GUJFS;
-    GUJFS    =    0;
+
  long double vL3i;
  vL3i = -1191551406;
   float  l39tqIo;
@@ -160,7 +160,7 @@ int main(void) {
   char  A7_StpuUh;
   A7_StpuUh  =  -1236657391;
 	long long	jD6811qaqq;
-	jD6811qaqq	=	-242764245;
+
 	unsigned short	nK1H;
 	nK1H	=	0;
   long double  TAGEc;
@@ -172,7 +172,7 @@ int main(void) {
  unsigned long eY1I6f_7;
  eY1I6f_7 = -818998019;
   unsigned short  D7210;
-  D7210  =  -1632063102;
+
 	int	Kw_R20oEX;
 	Kw_R20oEX	=	-810372544;
   short  I_EFjVz;
@@ -255,7 +255,7 @@ int k = 0;
 do
 {
 ++k;
-bg_Oz5 = jJa3D5BcM(-1882971145, -1539352914, 1962095566, mi_c_D08Q, i6_8l);
+
 }
 while (k < 9);
 }
@@ -298,7 +298,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-E1__1odG08 = (int)ceil(AW5C);
+
 break;
 case 'c':
 case 'C':
@@ -310,7 +310,7 @@ iQvmD6 = C9_f5LI & 373239148;
 break;
 case 'e':
 case 'E':
-Gf0s7h = w755WAR2();
+
 break;
 case 'f':
 case 'F':
@@ -338,7 +338,7 @@ for (int j = 0; j < 9; ++j)
 }
 while (i < 5);
 }
-E1__1odG08 = (int)floor(vL3i);
+
 
 std::cout << d52CNoarg << std::endl;
 {
@@ -372,7 +372,7 @@ std::cout << Gc4JWNFtT7 << u8_V5(231573978) << o3z1 << byNH_4rV42 << w2pg6M << s
 
 
 vBS1l3it8G = i6_8l / e9J1V5nQZ2;
-xIDi_ = (int)(TAGEc);
+
 
 if (H9m_q4 != 300962169)
 {
@@ -428,7 +428,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-i6_8l = BdM7Nv / 1362702282;
+
 break;
 case 'e':
 case 'E':
@@ -444,7 +444,7 @@ C9_f5LI = u8_V5(-1343620749);
 break;
 case 'h':
 case 'H':
-Gf0s7h = w755WAR2();
+
 break;
 case 'i':
 case 'I':
@@ -504,7 +504,7 @@ else
 }
 else if ((F8oSM > eY1I6f_7) || ((Gc4JWNFtT7) || (ZS5k4 <= -1109396988)))
 {
-bg_Oz5 = (float)(MgVt7);
+
 }
 else if (((jL5boT_ < Zfr_I) || (vL3i != Zfr_I)) || (K3_zjKQ32o < 525298526))
 {
@@ -518,7 +518,7 @@ case 'a':
 
 break;
 case 'b':
-e9J1V5nQZ2 = w755WAR2();
+
 break;
 default:
 K3_zjKQ32o = u8_V5(-411111055);
@@ -564,7 +564,7 @@ int j = 8;
 do
 {
 j--;
-Gf0s7h = w755WAR2();
+
 }
 while (j >= 0);
 }

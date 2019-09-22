@@ -17,7 +17,7 @@ int main()
 
 std::cout << a3g_z << "L8G_GuD2U" << nxXTU3 << std::endl;
 
-XnoTtHTI = JZ1wuRWZRs / xm5080;
+
 
 {
 int i = 0;

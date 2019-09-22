@@ -51,7 +51,7 @@ break;
 }
 try
 {
-cNDr = (unsigned long)(OVSATwBz4);
+
 }
 catch (int& errorCode)
 {
@@ -93,7 +93,7 @@ Hpuc = Ux2E4_b16 | 2009504695;
 break;
 case 'c':
 case 'C':
-BeOg5i2O = (int)abs(RXeV24qHWs);
+
 break;
 }
 {
@@ -120,7 +120,7 @@ if (((q_DD1I7 & 1970074115) || (GBIG < -1381604561)) || ((S_zx95_hWX == 78257965
 {
 try
 {
-OVSATwBz4 <<= 1433119084;
+
 }
 catch (int& errorCode)
 {

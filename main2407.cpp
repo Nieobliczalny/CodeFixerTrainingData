@@ -392,7 +392,7 @@ if (s_tv <= Gqy1_786O5)
 }
 else if (((s_tv < 1819745821) || (Lv_A_ <= 2021729626)) || ((omr4ev > Gqy1_786O5) && (KVZ54lkA3x <= -1201842819)))
 {
-GPDM2F7p = pdp8tCxs(1136281201);
+
 }
 else
 {
@@ -418,7 +418,7 @@ switch (Kufr)
 {
 case 'a':
 case 'A':
-GPDM2F7p = pdp8tCxs(g_d369W);
+
 break;
 case 'b':
 case 'B':
@@ -451,7 +451,7 @@ wzGHbLqSC = (int)ceil(g_d369W);
 }
 }
 }
-MO3pU0WT04 = (int)abs(u2ifI7Wfz0);
+
 G0njmB9 %= Lv_A_;
 return 0;
 }

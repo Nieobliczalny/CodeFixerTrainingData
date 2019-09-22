@@ -32,7 +32,7 @@ int main(void)
  x_cx = 215581274;
  ghv8CzaQ6 = -1050356063;
 
- GmUKs3N51c = 1793939169;
+
  Dk3JAr7s3q = -127235400;
  x9u_ = 447142809;
 
@@ -266,7 +266,7 @@ case 'f':
 
 break;
 case 'g':
-tHhG99BY6P = OCs5A & 659877529;
+
 break;
 default:
 OCs5A = h3Dy3cX(boN91dE, -2115315292);
@@ -299,7 +299,7 @@ case 6:
 
 break;
 case 7:
-tHhG99BY6P = JIP3qR8Z ^ 587031005;
+
 break;
 }
 }

@@ -24,7 +24,7 @@ int main(int argc, char** argv) {
 	unsigned long	ljI1TlNQ;
 
  unsigned long long tOIj__k;
- tOIj__k = -954285465;
+
   long long  jL5__4h2U;
   jL5__4h2U  =  246461739;
 	float	TR4215VUk;
@@ -34,7 +34,7 @@ int main(int argc, char** argv) {
     unsigned long    YVSPjy2;
 
 	short int	u3_Ws;
-	u3_Ws	=	1912070233;
+
 	unsigned long long	UtDTQH;
 	UtDTQH	=	-916135034;
  long long SptaF04;
@@ -48,7 +48,7 @@ int main(int argc, char** argv) {
   long  cXdR4U19;
 
 	int	Z8Rzbhh1ih;
-	Z8Rzbhh1ih	=	-1883306113;
+
   long long  nJ4uu__D3K;
   nJ4uu__D3K  =  -289705206;
  long long D2y_18rqIg;
@@ -58,7 +58,7 @@ int main(int argc, char** argv) {
 	long long	zTNrudM;
 
   unsigned short int  Pgx5OA2YK8;
-  Pgx5OA2YK8  =  -1143785741;
+
  unsigned char X61a3;
  X61a3 = 619088910;
  float uK12V_;
@@ -68,7 +68,7 @@ int main(int argc, char** argv) {
  unsigned short int VgrFTA5;
 
 	short	nTtL;
-	nTtL	=	-790660130;
+
   char  pl42d;
   pl42d  =  -1009950730;
   unsigned short int  mo_h;
@@ -78,7 +78,7 @@ int main(int argc, char** argv) {
     short    pUgzxIf;
 
   unsigned short int  M94s2g;
-  M94s2g  =  944999693;
+
 	char	YACD_;
 	YACD_	=	57406243;
   long  P7gEQ2D2;
@@ -88,7 +88,7 @@ int main(int argc, char** argv) {
  unsigned char a_K406N;
 
  unsigned int aCW1mid;
- aCW1mid = 333870559;
+
     unsigned short int    y7Rz7;
     y7Rz7    =    -306021946;
   unsigned short  uPJ_X;
@@ -98,7 +98,7 @@ int main(int argc, char** argv) {
     int    Evi783PH;
 
     unsigned short    efPHXPV0b6;
-    efPHXPV0b6    =    -2072872637;
+
  short int a3S_65dt9;
  a3S_65dt9 = -1754138996;
  char q8US8W;
@@ -108,7 +108,7 @@ int main(int argc, char** argv) {
     int    pYav;
 
   unsigned int  Y2o4c;
-  Y2o4c  =  747303461;
+
  long double kh__EEe3;
  kh__EEe3 = -1527541329;
 	long double	l29x7_;
@@ -122,7 +122,7 @@ int main(int argc, char** argv) {
  int X42_4OWs;
  X42_4OWs = 1364766230;
 	long long	qcox;
-	qcox	=	-1856135798;
+
 	unsigned long	Y7Yxi16t;
 	Y7Yxi16t	=	374070356;
 	long	nP7UG;
@@ -132,7 +132,7 @@ int main(int argc, char** argv) {
   unsigned int  gA505gE;
   gA505gE  =  838814826;
 	long double	SbOvNRNE;
-	SbOvNRNE	=	-1778611757;
+
     long    I1_SDQ8no;
     I1_SDQ8no    =    371988831;
 	short int	M5JI;
@@ -142,7 +142,7 @@ int main(int argc, char** argv) {
     double    DB6iX8P;
     DB6iX8P    =    -1000094393;
 	double	NcBdGbN;
-	NcBdGbN	=	87865918;
+
     long double    uTB7;
     uTB7    =    1647903748;
     long double    v_0Y5I6N8;
@@ -152,7 +152,7 @@ int main(int argc, char** argv) {
 	long double	R_zzo;
 
  double dsgQb;
- dsgQb = -812161928;
+
  short AHYkPzJ;
  AHYkPzJ = -1210798607;
     short int    ZPjI;
@@ -168,7 +168,7 @@ int main(int argc, char** argv) {
  short int JZd705;
  JZd705 = 189357660;
   long double  HHaLTR8xn;
-  HHaLTR8xn  =  1323594830;
+
  double FjMAG;
  FjMAG = 469306919;
 	char	A0iD6j_15;
@@ -178,7 +178,7 @@ int main(int argc, char** argv) {
  unsigned long long s6Y96L;
  s6Y96L = 801142742;
  long UEuW2qeE98;
- UEuW2qeE98 = -1722493455;
+
  short int Hzi3p;
  Hzi3p = -1147267002;
  unsigned short int NCso5Jo_;
@@ -188,7 +188,7 @@ int main(int argc, char** argv) {
  long double TYi7QidXVM;
  TYi7QidXVM = -732990438;
   long long  spd4Y5j_Ag;
-  spd4Y5j_Ag  =  -1847671714;
+
     long    A02k;
     A02k    =    -807230824;
     unsigned long long    YY_Uk;
@@ -200,7 +200,7 @@ int main(int argc, char** argv) {
   long double  I5YgZT;
   I5YgZT  =  -577468235;
     float    o6_06u;
-    o6_06u    =    1099107999;
+
   char  wPLsLGmE8X;
   wPLsLGmE8X  =  -824051788;
  short L4DKSvA968;
@@ -210,7 +210,7 @@ int main(int argc, char** argv) {
  char yCmYJltrhd;
  yCmYJltrhd = 2043051992;
     unsigned int    rvA_bz2D0c;
-    rvA_bz2D0c    =    -873715339;
+
  float xo40k2ewh;
  xo40k2ewh = 1371764345;
 
@@ -221,7 +221,7 @@ rPe6ZjZa = V4bJ463(961087387, -1411011024, 1539342396, -1720339643, -1851701452)
 }
 
 std::cout << XCDt8_4e7(rPe6ZjZa, JZd705) << std::endl;
-P7gEQ2D2 = XCDt8_4e7(ka8I0D_, -1587972095);
+
 
 if (I5YgZT >= 188279402)
 {
@@ -238,7 +238,7 @@ else
 {
 for (int j = 0; j < 7; ++j)
 {
-I5YgZT = (int)floor(kh__EEe3);
+
 }
 }
 std::cout << "gslLuIly" << "ppc5M" << Vi3U << "yt2yEW" << v_0Y5I6N8 << std::endl;

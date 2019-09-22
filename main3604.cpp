@@ -33,7 +33,7 @@ int main()
 	unsigned int	MYiN_SzI;
 
     unsigned long long    t8V4_MbT;
-    t8V4_MbT    =    1245006196;
+
   long  vIAZj8;
   vIAZj8  =  -894944248;
  double Yf4G0aOg;
@@ -51,7 +51,7 @@ int main()
   unsigned short int  G4md2;
 
   long double  fpr3;
-  fpr3  =  1836204295;
+
 	double	cRNIGG8X4;
 	cRNIGG8X4	=	-31190075;
   long long  T6il;
@@ -77,7 +77,7 @@ int main()
 	short	n8Z3pyK;
 	n8Z3pyK	=	75028664;
   unsigned int  yd24_heraS;
-  yd24_heraS  =  1108181488;
+
 	unsigned short int	Y6p1;
 
   unsigned int  b_tNm72_u;
@@ -101,7 +101,7 @@ int main()
 	unsigned long long	I8O14C;
 	I8O14C	=	-118221620;
   short int  kIzS9h;
-  kIzS9h  =  -232360860;
+
   unsigned long  Xk3l;
   Xk3l  =  -587401432;
  long qL7dtQP;
@@ -125,7 +125,7 @@ int main()
     unsigned long    C1Yd584f;
     C1Yd584f    =    -1510492874;
  short KA04z85PS;
- KA04z85PS = -437348470;
+
   float  KFe5;
   KFe5  =  -22236923;
  short int y2g9;
@@ -145,7 +145,7 @@ int main()
 	int	T7aM8;
 	T7aM8	=	-1378281122;
     unsigned short    a9zbUfaM;
-    a9zbUfaM    =    -716601339;
+
  long double jqywyi8Wd;
  jqywyi8Wd = -764371589;
 	unsigned long	S2W3r_B3;
@@ -155,7 +155,7 @@ int main()
  double f8Gk4Y1;
  f8Gk4Y1 = 1221009026;
   long double  Gtxzh93;
-  Gtxzh93  =  1969421808;
+
     long    EbWo;
     EbWo    =    404357667;
 	char	oBv1Q223ym;
@@ -165,7 +165,7 @@ int main()
 	float	YA2y724;
 	YA2y724	=	25930003;
 	unsigned long long	Ml74;
-	Ml74	=	2053522960;
+
   long double  AgvFpp4;
   AgvFpp4  =  1084724762;
     int    KE859gE0;
@@ -307,7 +307,7 @@ t8V4_MbT = kC7Gq9Q157(1491503817, qL7dtQP, -155112447, KFe5, -192938046) >> 3712
 
 
 
-E2i808e1 = kC7Gq9Q157(oBv1Q223ym, -1276993923, -93213092, S2W3r_B3, p5kqs7u);
+
 
 {
 int i = 8;
@@ -332,7 +332,7 @@ std::cout << p8jP_5X_pG << QXuqVY03oI << kC7Gq9Q157(-675190130, -1622843909, -10
 }
 else if ((eu1SU_E9G & -941068407) && (Z8H87 != ZZ162J))
 {
-E2i808e1 = kC7Gq9Q157(fPVcQ, pbHsNT, -2144729423, 803041630, 806269848);
+
 }
 else if (VoM4jJ6xP & -383504033)
 {
@@ -429,7 +429,7 @@ xA3_m_ = (int)ceil(Yf4G0aOg);
 break;
 }
 
-S2W3r_B3 = (unsigned long)(Da0M9LJJ);
+
 
 try
 {

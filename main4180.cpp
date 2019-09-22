@@ -20,7 +20,7 @@ int main(int argc, char** argv) {
 	unsigned long	UufP;
 	UufP	=	1707523025;
  char Pti0O;
- Pti0O = 0;
+
 	long	m3ap;
 	m3ap	=	702491221;
  char D15eae;
@@ -32,7 +32,7 @@ int main(int argc, char** argv) {
  unsigned short int KR4BawXzzi;
 
 	float	oE1ezrc;
-	oE1ezrc	=	152654106;
+
 	unsigned short	j84kE2o3;
 	j84kE2o3	=	0;
 
@@ -60,7 +60,7 @@ case 'e':
 
 break;
 case 'f':
-Pti0O = QBlY(-250259335);
+
 break;
 case 'g':
 Pti0O = QBlY(UufP);
@@ -168,7 +168,7 @@ j84kE2o3 = QBlY(-2030968418);
 
 if ((x1c9_kV) && ((KjSXJ <= 666778979) || (U3F4E0R419 & 1839911795)))
 {
-KR4BawXzzi = (unsigned short int)(x1c9_kV + (-906380478));
+
 }
 else
 {
@@ -209,7 +209,7 @@ else
 {
 
 }
-oE1ezrc = (int)floor(KjSXJ);
+
 return 0;
 }
 

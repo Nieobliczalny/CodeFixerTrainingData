@@ -834,7 +834,7 @@ else
 int k = 8;
 do
 {
-N6T3UA = (int)abs(vn4Isu) + (-121005496);
+
 --k;
 }
 while (k >= 0);
@@ -886,7 +886,7 @@ else if (kY5Wwx0 != -1366016226)
 {
 if (OFrF7 > -793506219)
 {
-N6T3UA = fmA8_wfyqd & 1333749676;
+
 }
 else
 {

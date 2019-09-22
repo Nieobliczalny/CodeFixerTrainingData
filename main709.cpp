@@ -18,7 +18,7 @@ int main(void)
  float G6gFKn;
  G6gFKn = -1646627052;
   int  G6ks24Y9;
-  G6ks24Y9  =  108671003;
+
  long double dp9Z;
  dp9Z = -1476270043;
   double  oY8v_S;
@@ -28,7 +28,7 @@ int main(void)
  unsigned int FB5VtS;
  FB5VtS = -1466684619;
  float AdH7BRLmnK;
- AdH7BRLmnK = -1993577927;
+
     short int    e96v_59bT7;
     e96v_59bT7    =    1072127634;
   float  Lzf4J5_6;
@@ -42,7 +42,7 @@ int main(void)
 	unsigned long long	pyD9v_12V;
 
     long    dP51_X4l;
-    dP51_X4l    =    -1571775775;
+
  long long T_V5Z8;
  T_V5Z8 = -1036086772;
  double mPv50z70;
@@ -54,7 +54,7 @@ int main(void)
   short int  YgA7;
 
   double  ToA6_LdwY;
-  ToA6_LdwY  =  -1040429784;
+
   double  o_X5i;
   o_X5i  =  -1760172216;
     double    M1T8B6I;
@@ -64,7 +64,7 @@ int main(void)
  long long sg_v2;
 
   double  eSUj5Le;
-  eSUj5Le  =  127886045;
+
     unsigned char    Fp6709q;
     Fp6709q    =    -252930966;
     unsigned int    ad3Omv7U;
@@ -78,7 +78,7 @@ int main(void)
     long double    qhQqswSS;
     qhQqswSS    =    153216955;
     unsigned long long    KG4BKL;
-    KG4BKL    =    -1850005778;
+
     unsigned char    NCMi4;
     NCMi4    =    -945294514;
  long L9V_9Nzr;
@@ -92,7 +92,7 @@ int main(void)
  unsigned long C_86KWyS_3;
  C_86KWyS_3 = 1573165528;
  int AWGf884;
- AWGf884 = 341676383;
+
 	unsigned long long	TWW9jZEhdg;
 
 	char	E27fy;
@@ -110,7 +110,7 @@ int main(void)
   unsigned long long  c__0hc_;
   c__0hc_  =  48279584;
 	long	PSx6rLI;
-	PSx6rLI	=	88220661;
+
   double  NJ771;
   NJ771  =  -436188094;
 	unsigned int	z546b3lz;
@@ -122,7 +122,7 @@ int main(void)
  long double q_C_f2X2;
  q_C_f2X2 = 210867146;
  char cDc4_W;
- cDc4_W = -1815861769;
+
   long double  d4wD8923;
   d4wD8923  =  1499917937;
  int Z457Ws;
@@ -134,7 +134,7 @@ int main(void)
  double yc41;
 
   unsigned long long  R5490;
-  R5490  =  1970867061;
+
   double  rHL5;
   rHL5  =  -1021608024;
 	short	n7sgug72C_;
@@ -148,7 +148,7 @@ int main(void)
     long long    skHH7RNPA;
     skHH7RNPA    =    2090559897;
   long long  N0a9CE;
-  N0a9CE  =  113911362;
+
     unsigned short int    CL72VGCu9;
     CL72VGCu9    =    0;
     float    RJgJIcNg;
@@ -174,7 +174,7 @@ switch (T_V5Z8)
 {
 case 'a':
 case 'A':
-n7sgug72C_ = (int)abs(E27fy);
+
 break;
 case 'b':
 case 'B':
@@ -198,7 +198,7 @@ case 'F':
 break;
 case 'g':
 case 'G':
-Tk805 = F10l6W7j(Tk805, FX4_, i4O20Tu, c__0hc_);
+
 break;
 case 'h':
 case 'H':
@@ -212,7 +212,7 @@ std::cout << M1T8B6I << std::endl;
 
 j8Xv3V = (long double)(q7u0k);
 
-sg_v2 = F10l6W7j(-449308570, 460041297, -2090644797, 1449013736) % 1362255519;
+
 
 
 if (dC4AMdD4 & -685428496)
@@ -231,7 +231,7 @@ if (M1T8B6I > 1374364647)
 }
 
 std::cout << C_86KWyS_3 << std::endl;
-eSUj5Le = hm8iJpl_61 / CL72VGCu9;
+
 for (int i = 6; i >= 0; --i)
 {
 if (rHL5 >= -1125710654)
@@ -258,7 +258,7 @@ if (QUu2PKR_ & -1215421145)
 {
 for (int j = 8; j >= 0; --j)
 {
-oY8v_S = (int)floor(dp9Z);
+
 }
 }
 
@@ -345,7 +345,7 @@ for (int k = 0; k < 9; ++k)
 }
 if (((CL72VGCu9 & NCMi4) && (ah9lRl44 & -94310302)) && (hm8iJpl_61 < X6K11vZ))
 {
-E27fy = (int)abs(FX4_);
+
 }
 else
 {

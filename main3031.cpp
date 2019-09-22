@@ -256,7 +256,7 @@ else if (y_J8V8cRo != 1866663016)
 }
 else if (oJl887bI32 & -600563011)
 {
-tzZ8i9_y = (int)ceil(Zqe6oc03_);
+
 }
 else
 {
@@ -618,7 +618,7 @@ else if (GeA2c4Da0 > -1595097126)
 }
 else if (Xe8n)
 {
-GeA2c4Da0 = (double)(Fgx0D0wIg);
+
 }
 else
 {

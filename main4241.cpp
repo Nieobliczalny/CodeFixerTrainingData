@@ -135,7 +135,7 @@ case 'c':
 bYZj815 = (int)ceil(eKQ6MpGK);
 break;
 case 'd':
-Wtot_ = (int)ceil(dJe1);
+
 break;
 }
 
@@ -261,7 +261,7 @@ else
 switch (a8_IzFl9n)
 {
 case 0:
-h0eMvF = Zh1Yrn(h0eMvF, 1817823723, zlN7f, Ms7C33, xFgx);
+
 break;
 case 1:
 
@@ -389,7 +389,7 @@ case 2:
 
 break;
 case 3:
-EqIb = Zh1Yrn(EqIb, w1x90u, -672178788, 388403926, QQVK);
+
 break;
 case 4:
 xFgx = ydMt();
@@ -435,7 +435,7 @@ while (k >= 0);
 }
 }
 }
-Ms7C33 = (int)floor(QQVK);
+
 
 if ((p1ZCdx) && (kR0j7aPuK != -579432639))
 {

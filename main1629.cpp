@@ -292,7 +292,7 @@ CBjjq &= Ab0AXxT;
 }
 else if ((Xrwp86 < -370059755) || (CBjjq & -768163023))
 {
-K57Go = (int)floor(ZI6I6);
+
 }
 else if (((Ey6X9n != xZbx30Uxq8) || (pM9kmknZ != 437321042)) || (K73RP7 >= xk9_s_8D))
 {
@@ -306,7 +306,7 @@ case 0:
 KNoe = kNU8S3yI4j % Ey6X9n;
 break;
 case 1:
-K57Go = (int)ceil(DHz_g_h0D);
+
 break;
 case 2:
 XkxMN = (int)ceil(ZI6I6);
@@ -324,7 +324,7 @@ case 6:
 W9sR9S4 = vI5hx1t1a();
 break;
 case 7:
-K57Go = (int)floor(KNoe);
+
 break;
 case 8:
 Xrwp86 <<= 747662522;
@@ -471,7 +471,7 @@ while (i < 3);
 cout << pM9kmknZ / W9sR9S4 << endl;
 if (((X9WARru & OwcJ018) && (MyL5fiorL < -1477446956)) && ((d2nrnR != 1336267807) || (wu0NS1 <= AR11fr)))
 {
-kNU8S3yI4j <<= xk9_s_8D;
+
 }
 else
 {
@@ -562,7 +562,7 @@ W9sR9S4 = vI5hx1t1a();
 break;
 case 'b':
 case 'B':
-K57Go = (int)floor(DHz_g_h0D);
+
 break;
 case 'c':
 case 'C':
@@ -616,7 +616,7 @@ case 'b':
 
 break;
 case 'c':
-xZbx30Uxq8 = pM9kmknZ ^ p_S1;
+
 break;
 case 'd':
 K57Go = (int)ceil(K73RP7);

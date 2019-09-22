@@ -73,7 +73,7 @@ int main(void)
     unsigned char    m3iuvbwbAk;
     m3iuvbwbAk    =    1152416792;
   double  vPU2Pz2;
-  vPU2Pz2  =  -949781961;
+
     unsigned short    gM3J8;
     gM3J8    =    114448097;
     unsigned short int    FQ182;
@@ -261,7 +261,7 @@ else if (((IXBMyB > -1949248656) && (IXBMyB >= GhCfj)) || (ejF91Q9QN < g9E5f_bPn
 {
 try
 {
-p7Mo9d <<= uYdZU5m19_;
+
 }
 catch (int& errorCode)
 {
@@ -289,7 +289,7 @@ else if (Gl8xA1g0 <= 2096387452)
 int k = 0;
 while (k < 1)
 {
-P6018cB_7 = zP1D3ff();
+
 ++k;
 }
 }
@@ -305,7 +305,7 @@ std::cout << zZqR9T << xddk6_L09E(38524208, -2138171208, lnhmiw_Xq3, W2H2_p4Zl4)
 }
 else if (m3iuvbwbAk <= 43314790)
 {
-m3iuvbwbAk <<= 2073294110;
+
 }
 else if (W2H2_p4Zl4 > -1016417150)
 {
@@ -317,7 +317,7 @@ for (int j = 0; j < 9; ++j)
 {
 try
 {
-qg90 = DcWW8_1q << Wo649Aq5;
+
 }
 catch (int& errorCode)
 {
@@ -370,7 +370,7 @@ M20Y27_8RY |= 818956980;
 switch (M20Y27_8RY)
 {
 case 'a':
-P6018cB_7 = PHBOY5_ri2(-642355639, -1050716702, V5lN9, y0E4, -948049589);
+
 break;
 case 'b':
 gM3J8--;

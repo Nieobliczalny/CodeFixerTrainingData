@@ -109,7 +109,7 @@ else
 int k = 4;
 do
 {
-CD_knJL9 = wNqzXEuGK ^ 609942600;
+
 --k;
 }
 while (k >= 0);
@@ -164,7 +164,7 @@ while (k >= 0);
 }
 }
 }
-Dqie_St748 = Gv25ZXP9e9(Dqie_St748);
+
 {
 int i = 0;
 do
@@ -222,7 +222,7 @@ else
 
 try
 {
-lHEa1ZaO = QPtcfeQlP(lHEa1ZaO, wNqzXEuGK, -1253855034, kSWLP3bV7);
+
 }
 catch (int& errorCode)
 {
@@ -237,7 +237,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-Am5RGRL1s = Gv25ZXP9e9(-1211272556);
+
 break;
 }
 Q9yN /= 1786591633;
@@ -285,7 +285,7 @@ case 'a':
 
 break;
 case 'b':
-s7SX481N9 = eB5966n(-571168104, xqWz, -1732689309, Sowtd);
+
 break;
 case 'c':
 Iw8pXj5 = X9RNM_r(s7SX481N9);
@@ -307,7 +307,7 @@ break;
 
 
 
-Am5RGRL1s = (unsigned char)(Q3290eRy);
+
 try
 {
 std::cout << "txi0" << eB5966n(c9q3, -1400432992, -1956161522, 1200031707) << eB5966n(c9q3, Z31R2h6, 756782031, -980701213) << std::endl;

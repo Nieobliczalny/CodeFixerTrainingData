@@ -697,7 +697,7 @@ Y_0JvoIBh = O7Oo(1921735142, BQEBR1);
 }
 
 
-N2kuQ = O7Oo(FIWAYFO6, AIzZ77);
+
 
 {
 int i = 0;
@@ -721,7 +721,7 @@ RwQ583Z = (float)(BQEBR1);
 
 RwQ583Z = (int)ceil(A0Eg9h);
 
-FIWAYFO6 = trafh0DuJ(1930158403, Ib29PN, nZ31Nt6W5, 1522785287, 399590846);
+
 return 0;
 }
 

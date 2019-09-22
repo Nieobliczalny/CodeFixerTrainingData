@@ -163,7 +163,7 @@ case 'b':
 wtNQBuOx = (int)abs(gENo2);
 break;
 case 'c':
-U3v_J9_L0 = dS56U34is3();
+
 break;
 case 'd':
 fUk0asG = (int)abs(ElC_mhLo9);
@@ -244,7 +244,7 @@ while (i < 4);
 
 if (((gENo2 < 1695304716) && (G1rlOfhEhe > 1167812431)) && (HPZ87XSE == IpWo_))
 {
-Kf8tx = vcK_C();
+
 }
 else if (XZCWPj8j > raFk0i_h9Q)
 {

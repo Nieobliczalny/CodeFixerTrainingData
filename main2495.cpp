@@ -474,7 +474,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-l981 <<= 1337302853;
+
 break;
 case 'g':
 case 'G':
@@ -541,7 +541,7 @@ case 'h':
 
 break;
 case 'i':
-E75g_f = sBX0(554590310, HFs9, qMY030q);
+
 break;
 default:
 GRP0Qp = sBX0(GRP0Qp, -1153690990, -1960603963);

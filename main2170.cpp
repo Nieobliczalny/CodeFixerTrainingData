@@ -267,7 +267,7 @@ std::cout << prlyl0_(rmZO_7c_, 714212816) << KoriuSf6 << i42vZ850j(rmZO_7c_, -89
 
 if (c79Gqj > 1424054938)
 {
-uQR1f_Zf = (long)(x015h8);
+
 }
 else if (((hwuhg7k9v == PR4s42sMQ) && (M2vBhFB >= 269413217)) && ((x153 & B92M9E) && (c79Gqj)))
 {
@@ -287,7 +287,7 @@ try
 {
 try
 {
-uQR1f_Zf = (int)abs(rmZO_7c_);
+
 }
 catch (int& errorCode)
 {

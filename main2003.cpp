@@ -141,7 +141,7 @@ std::cout << Kc9F__1y << "LPJ62XQIyw" << std::endl;
 
 for (int i = 8; i >= 0; i--)
 {
-w8AN48py = (float)(vGT7_jNy0V);
+
 }
 if (mT1UiB3 > GvuU94R)
 {

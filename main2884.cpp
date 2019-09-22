@@ -323,7 +323,7 @@ case 'F':
 break;
 case 'g':
 case 'G':
-ew1O7 = qCm537GT_j(ew1O7, KyCb, EKv5cB, -2076527430);
+
 break;
 }
 

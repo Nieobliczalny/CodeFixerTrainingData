@@ -62,7 +62,7 @@ Tmn6g3O <<= 1918008773;
 switch (QjKWX)
 {
 case 0:
-n98tD5__ = Q7_0sx9 * m1bNiK5;
+
 break;
 case 1:
 Eo8vW = BF90_99E4(-702291760, 1647178396, -1296137193);
@@ -262,7 +262,7 @@ while (j < 3);
 
 itTwOt9_2 <<= Tq66R8iC;
 
-Eo8vW = d5yT4_Do(-131059116);
+
 
 for (int i = 6; i >= 0; --i)
 {
@@ -338,7 +338,7 @@ else
 switch (QjKWX)
 {
 case 'a':
-LXo3F7X = yn9DUF();
+
 break;
 case 'b':
 
@@ -387,7 +387,7 @@ while (i < 8);
 std::cout << "t8wEcs" << "BOg9" << rZqIjB5(118113125, -1232881758, 1040524577) << std::endl;
 if (m1bNiK5 == 1322948864)
 {
-LXo3F7X = fKjc | m1bNiK5;
+
 }
 else if (zYoE31z != 357265684)
 {

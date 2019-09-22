@@ -245,7 +245,7 @@ case 0:
 
 break;
 case 1:
-Fd55QR_rpB = SqjC - 1486877598;
+
 break;
 case 2:
 n792xv8AT = (int)ceil(vh_j25c);
@@ -260,7 +260,7 @@ case 5:
 gdy0s0g = (int)floor(j92r4);
 break;
 case 6:
-Y1o4 = (int)floor(j92r4);
+
 break;
 case 7:
 Se2nnTyNq -= 1506492112;
@@ -288,7 +288,7 @@ case 1:
 SqjC <<= Xf1Je_o;
 break;
 case 2:
-vi_vT = wbbtkQ - 1696955462;
+
 break;
 case 3:
 q5K9Womv = (w_33JfvA <= tw21d) ? rM88 : 52274638;
@@ -373,7 +373,7 @@ std::cout << "xnBF29i_" << "eebMey" << "Vt__6JoGo0" << "Md_gJ8HDuA" << std::endl
 int i = 2;
 while (i >= 0)
 {
-em23_ft9i = (int)abs(p81D);
+
 i--;
 }
 }

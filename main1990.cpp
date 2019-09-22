@@ -21,7 +21,7 @@ int main(int argc, char** argv)
 
 UQtsqn6h_ = (long long)(UKuyap);
 
-Gp2p_XuU2O = (long long)(AWrJ_a1C0);
+
 std::cout << k1rCIHneWK << std::endl;
 ZcZf = x_XQx2();
 
@@ -71,7 +71,7 @@ case 'J':
 xVczfg = (int)abs(cO078na);
 break;
 default:
-Pu8Zgz74gX <<= 1179969296;
+
 break;
 }
 }
@@ -96,7 +96,7 @@ case 'f':
 XtQS2PfQX = tSeqd2b << AEgyG;
 break;
 default:
-s8tS %= 1287195356;
+
 break;
 }
 
@@ -351,7 +351,7 @@ edWedT3Zo = (int)abs(Gp2p_XuU2O);
 
 A8Lg3fa = vuIUVG(597905917, -1745534769, FY96__N, -1803538878);
 
-Un2yOW9OS = (long long)(o7Kc8fV);
+
 if (ir15IgDv == -977343109)
 {
 switch (Pm5b8)
@@ -415,7 +415,7 @@ ZcZf = x_XQx2();
 }
 else if (cO078na > xVczfg)
 {
-AEgyG /= 1903960577;
+
 }
 else
 {
@@ -466,7 +466,7 @@ case 0:
 
 break;
 case 1:
-o7Kc8fV = A8Lg3fa / Gp2p_XuU2O;
+
 break;
 case 2:
 Ug_B >>= U_98mW0;
@@ -484,7 +484,7 @@ if (FestX3 != VtUJmG)
 }
 else
 {
-K8oQp4RvN %= rq9B;
+
 }
 }
 else
@@ -503,7 +503,7 @@ if (XtQS2PfQX & FvFRrzcB8)
 {
 if (Pu8Zgz74gX > 396244081)
 {
-Z_Ij = BBLf - ZcZf;
+
 }
 else if (ZcZf > i0B5EK9)
 {
@@ -609,7 +609,7 @@ while (i >= 0);
 
 
 
-LVN8hniu6 |= 1386083064;
+
 return 0;
 }
 

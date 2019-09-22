@@ -23,7 +23,7 @@ int main(int argc, char** argv)
 	char	ZTBW8J9eT;
 
     char    xsXH8t7TA;
-    xsXH8t7TA    =    0;
+
     long long    CkC6Z;
     CkC6Z    =    289912972;
 	unsigned char	X7P2c_Wc;
@@ -35,7 +35,7 @@ int main(int argc, char** argv)
   char  Q3xXG2I6j;
   Q3xXG2I6j  =  1015714418;
 	float	y07V;
-	y07V	=	-2109555285;
+
  short H4Ik;
  H4Ik = -897010282;
   double  e70L4At_U;
@@ -45,7 +45,7 @@ int main(int argc, char** argv)
   unsigned int  K3Nnj85d;
   K3Nnj85d  =  705682182;
 	unsigned short	NeR0;
-	NeR0	=	308790632;
+
  long double P7TIp50zF;
  P7TIp50zF = -1855286902;
     unsigned long    W_5a2305k;
@@ -59,7 +59,7 @@ int main(int argc, char** argv)
   unsigned long  WDSJR;
   WDSJR  =  1857266386;
 	unsigned long	Y141uy;
-	Y141uy	=	-1978707389;
+
     unsigned int    ht96f;
     ht96f    =    1765760356;
     unsigned short    Gu8lTBCN;
@@ -117,7 +117,7 @@ case 0:
 
 break;
 case 1:
-sXdX = (int)abs(h3q7D98N92);
+
 break;
 case 2:
 dRJGS = NU_Nr09EFQ(-1787110523, -1713763777, w22XbtAhD, W_5a2305k) >> PBF4Ljp6Kq;
@@ -129,7 +129,7 @@ break;
 
 if ((Gu8lTBCN > 359226111) || (T_4v72a1 <= h3q7D98N92))
 {
-WDSJR *= 56880190;
+
 }
 else
 {

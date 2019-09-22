@@ -170,7 +170,7 @@ while (i < 2);
 }
 
 
-u3zMc8k = e4p9 / NhVGpkduZ1(1157678740, -1930699066);
+
 switch (JS7KwjwF4x)
 {
 case 'a':
@@ -183,7 +183,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-aMtA06MQR = NhVGpkduZ1(-2105444807, 1964832724);
+
 break;
 case 'd':
 case 'D':
@@ -256,7 +256,7 @@ case 'a':
 
 break;
 case 'b':
-J6988I6IX5 = T_u5ygV7xN(J6988I6IX5, -1290101367, ig_m9w, -1532215084, -1984116855);
+
 break;
 case 'c':
 AeEScJ = NhVGpkduZ1(-721330462, x_S00);
@@ -268,7 +268,7 @@ case 'e':
 
 break;
 default:
-A_4Yn = caH2lFjH / 2147107698;
+
 break;
 }
 }

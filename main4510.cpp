@@ -348,7 +348,7 @@ else
 {
 if (QaD2blc2 >= rX_m6b2_w)
 {
-J1viY = (int)abs(K62LAa);
+
 }
 else if (((VjEWG != 125319920) && (rX_m6b2_w)) && (SfGsB3BYd & A6BcJ9b66))
 {

@@ -160,7 +160,7 @@ case 3:
 
 break;
 case 4:
-cXTC = MiCvGD3 - 1162579462;
+
 break;
 case 5:
 C8DSK9++;
@@ -212,7 +212,7 @@ q0g9 = q0g9 + 388537287;
 }
 else if (jkX0K02_ < 1089670320)
 {
-CsZ9M5TqOu = q1Cq % 1691736800;
+
 }
 else
 {

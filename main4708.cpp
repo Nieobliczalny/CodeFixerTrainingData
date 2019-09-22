@@ -17,7 +17,7 @@ int main() {
  unsigned long long I1LvyhvFzw;
 
 	unsigned short	k49d6;
-	k49d6	=	0;
+
 	unsigned short	h72m__W;
 	h72m__W	=	-26956602;
 	char	HsX8O59b;
@@ -39,7 +39,7 @@ int main() {
     unsigned long    HM8V_Uuo;
     HM8V_Uuo    =    1638384632;
   unsigned short int  X5cFobjn0v;
-  X5cFobjn0v  =  1123121812;
+
   short  xBs8SczN;
   xBs8SczN  =  1005860179;
 	unsigned char	DtjQ4xAXI;
@@ -51,7 +51,7 @@ int main() {
 	float	PNLQO;
 	PNLQO	=	1793470512;
 	long double	AQwFlB;
-	AQwFlB	=	-1735106222;
+
  unsigned int nsuh2VM;
  nsuh2VM = -1522236416;
   long long  BopkNOS;
@@ -63,7 +63,7 @@ int main() {
 	unsigned int	fc5_k8lpBp;
 	fc5_k8lpBp	=	-942152809;
  unsigned long jH08d2;
- jH08d2 = 1746993014;
+
     long double    y67aZN;
     y67aZN    =    -148298775;
     unsigned int    XoL2FX7L_l;
@@ -87,7 +87,7 @@ int main() {
  double pbVTpr7;
  pbVTpr7 = 68246777;
   int  N0Qm1VXp9a;
-  N0Qm1VXp9a  =  -1469666185;
+
  long long dM7h656yN8;
 
   unsigned long  KEd8J8m75N;
@@ -105,7 +105,7 @@ int main() {
  unsigned short int d3h9;
  d3h9 = -1114042851;
 	int	k1ogtu_G;
-	k1ogtu_G	=	-1011789429;
+
     float    FN8A_8iE3r;
     FN8A_8iE3r    =    70112333;
  short R_jUomCF;
@@ -127,7 +127,7 @@ int main() {
   unsigned short  VmC4j;
 
   unsigned int  R2fqQ;
-  R2fqQ  =  -1170757512;
+
 	unsigned int	Tvix98gMJy;
 	Tvix98gMJy	=	-1618776191;
   short int  yc9tH;
@@ -232,7 +232,7 @@ std::cout << "PqOHN" << "FE0b2p0vKY" << tv4v8F9(307341248, HBV8Z, -187521014, -8
 }
 else if ((Z3UhxHPZl4 != 1412681532) || ((F1Bf <= -342410971) && (UQ5D2 > HBV8Z)))
 {
-fwb96 = (int)floor(AQwFlB);
+
 }
 else if (wCMoFIj <= HyNjZDaN)
 {
@@ -275,7 +275,7 @@ for (int i = 0; i < 4; ++i)
 
 if (LKp8 >= 241167497)
 {
-Yo4PPIz = (unsigned long)(jFG6W7c);
+
 }
 else
 {
@@ -287,7 +287,7 @@ else if (oK4jq6W6Z5 >= Q7yDNg_Ub2)
 {
 for (int k = 10; k >= 0; --k)
 {
-T8_bGR = tv4v8F9(1829163161, 781234891, -1108562180, Q7yDNg_Ub2, nsuh2VM);
+
 }
 }
 else
@@ -385,7 +385,7 @@ case 0:
 
 break;
 case 1:
-pbVTpr7 = (int)ceil(U9n0Zus0S);
+
 break;
 case 2:
 PNLQO = (int)abs(BopkNOS);
@@ -397,7 +397,7 @@ case 4:
 
 break;
 case 5:
-Bp_oB9CD = tv4v8F9(-379171011, jFG6W7c, R_jUomCF, qh5iw6Hy, -1080309631);
+
 break;
 case 6:
 h72m__W &= Pr6Kl;
@@ -409,7 +409,7 @@ case 8:
 
 break;
 case 9:
-k49d6 = tv4v8F9(qh5iw6Hy, IJ9f634_, ZFTWD_64a4, e1l6m9W, esvh92Ay);
+
 break;
 default:
 y67aZN = esvh92Ay * 2000056681;

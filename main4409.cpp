@@ -564,7 +564,7 @@ if (((GD1T0O) || (K7D_ <= N_r3R9)) || ((f_Ox7 >= Hk7LPp5) && (Er4p0T <= -1328613
 }
 else if (Hk7LPp5 <= pcuA_adL)
 {
-Hk7LPp5 = (int)ceil(K7D_);
+
 }
 else if ((OBn7 >= 129129765) && (GD1T0O >= 1125835360))
 {
@@ -596,7 +596,7 @@ K7D_ = V3_PXDh(OBn7, K7D_, TuJd, oi2WpwjF6);
 }
 else
 {
-Hk7LPp5 = (int)ceil(K7D_);
+
 }
 }
 }

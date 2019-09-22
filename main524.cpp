@@ -54,7 +54,7 @@ int main(void)
 	unsigned long long	dNeDc;
 	dNeDc	=	-1775397943;
  unsigned int yo26;
- yo26 = 1598714777;
+
     int    KVmcD3;
     KVmcD3    =    -565513254;
   long long  Fuo3;
@@ -82,7 +82,7 @@ int main(void)
     double    f0g7n;
     f0g7n    =    1466380396;
   unsigned short  C2d86k0BRu;
-  C2d86k0BRu  =  638080757;
+
   unsigned long  W8992fM4;
   W8992fM4  =  -496761790;
   long  ohG7F42d;
@@ -100,7 +100,7 @@ int main(void)
     float    qrNL;
     qrNL    =    794074481;
 	short int	c6K7;
-	c6K7	=	-1270477941;
+
     long double    N2NA0e5890;
     N2NA0e5890    =    872259443;
     char    e9sd_G;
@@ -144,7 +144,7 @@ int main(void)
   unsigned short int  jMF_n_;
 
 	unsigned short	Jq50261yK0;
-	Jq50261yK0	=	476468842;
+
 	char	Y0ea2T;
 	Y0ea2T	=	1049453360;
   int  DS_M_1dwK;
@@ -168,7 +168,7 @@ int main(void)
     long long    R_3X;
     R_3X    =    0;
  unsigned char f3dx;
- f3dx = -184723471;
+
  long long QZ64lkjs7;
  QZ64lkjs7 = 736622871;
 
@@ -193,7 +193,7 @@ do
 {
 for (int k = 0; k < 7; k++)
 {
-c6K7 = npeSgvW(-1738200852, O9cN4ss3, BZUKe, vG83, x35F9f) / ys3DR;
+
 }
 --j;
 }
@@ -248,7 +248,7 @@ else
 {
 if (M3m3cL != 400851841)
 {
-M3m3cL = (KVmcD3 > -15453472) ? t4Bhm1b4B : B524TolV20;
+
 }
 else
 {
@@ -356,7 +356,7 @@ case 'f':
 Fuo3 = (int)abs(i6Np);
 break;
 case 'g':
-V5KwEEu = k7EW6BxR40(r8a47dC8a8, -2014481885);
+
 break;
 default:
 glLvW2 = npeSgvW(-925442372, -1617638293, x3mlx6C9aF, -847133159, 294943553);
@@ -413,7 +413,7 @@ switch (B524TolV20)
 {
 case 'a':
 case 'A':
-IrhBi7 = (int)abs(KVmcD3) * 0;
+
 break;
 case 'b':
 case 'B':
@@ -425,7 +425,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-kHz9ZMU = k7EW6BxR40(-119332372, 220574878);
+
 break;
 case 'e':
 case 'E':
@@ -447,7 +447,7 @@ default:
 
 break;
 }
-u1K_49IiM = (long long)(c_3y5v_4i);
+
 c6K7 = npeSgvW(-1703932193, 548483570, 1492186178, -542558094, -2095854782) / k7EW6BxR40(-1310177591, mg20uRH6d);
 
 uvU0Ox = (unsigned char)(N2NA0e5890);
@@ -520,7 +520,7 @@ case 2:
 
 break;
 default:
-gvwO = mmee6_dVm % 1000194680;
+
 break;
 }
 }

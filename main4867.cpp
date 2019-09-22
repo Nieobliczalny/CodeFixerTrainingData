@@ -44,7 +44,7 @@ if (cGYxG_Z3 >= Iyj0RMOvYq)
 }
 else if (cGYxG_Z3 != Q_O3G07ZI)
 {
-ekaE3xlb = ekaE3xlb - cGYxG_Z3;
+
 }
 else
 {
@@ -154,7 +154,7 @@ case 0:
 
 break;
 case 1:
-Q_O3G07ZI &= Iyj0RMOvYq;
+
 break;
 case 2:
 Iyj0RMOvYq += 690566561;

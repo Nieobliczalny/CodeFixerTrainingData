@@ -143,7 +143,7 @@ case 'd':
 T1jcF6N = E0scj - FQXGX1k07n;
 break;
 default:
-iOCLVmQ = (int)floor(taI6);
+
 break;
 }
 }
@@ -218,7 +218,7 @@ LjJga = s_bU8aS0U();
 }
 else
 {
-k_EWG = (int)ceil(T1jcF6N);
+
 }
 }
 else if (Y_Tz1 <= 839236007)
@@ -321,7 +321,7 @@ if (nLB2z2x != 61775107)
 }
 else if (E0scj)
 {
-G81V /= VH92x;
+
 }
 else if (Nh4UO662 != -2001206433)
 {
@@ -333,7 +333,7 @@ else if (kskmH >= PBGWx)
 }
 else if (G7Of7 == 704752657)
 {
-bHkb /= 526741355;
+
 }
 else
 {

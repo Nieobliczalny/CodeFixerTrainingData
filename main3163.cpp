@@ -89,7 +89,7 @@ int main(void)
 	xfq8nzf	=	1704312935;
 	ZRUA	=	-1039872031;
 	L_T_R	=	-1419428016;
-	eK5dOu9	=	-1407300148;
+
 	JJ4tLJL	=	1960363741;
 	o8x1124f	=	-1282264864;
 
@@ -277,7 +277,7 @@ case 1:
 
 break;
 case 2:
-SyGUsK80a = ls4Bo(Lwgid3yc, -826296505, 750877887, -312222698, L_T_R);
+
 break;
 case 3:
 pl62s4RoF = GRIs77CA_(pl62s4RoF, -2035697585, -328688415, r_551_i6MH, S_SX27l3m);
@@ -365,7 +365,7 @@ case 'b':
 kX9_6p8_ = VsYjHa9();
 break;
 case 'c':
-NexX3SL0 %= ivU07;
+
 break;
 case 'd':
 i_Ys7a--;
@@ -422,7 +422,7 @@ else
 
 try
 {
-JJ4tLJL += xfq8nzf;
+
 }
 catch (int& errorCode)
 {

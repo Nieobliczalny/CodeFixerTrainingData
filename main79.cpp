@@ -24,7 +24,7 @@ int main(int argc, char** argv)
 	float	y53y2lO3;
 
  float qDMV;
- qDMV = -986181872;
+
 	unsigned char	TK_02Ote;
 	TK_02Ote	=	-665109781;
     unsigned long long    ekLWv3ZP4;
@@ -42,7 +42,7 @@ int main(int argc, char** argv)
 	unsigned short int	jv59v_;
 	jv59v_	=	1253778243;
     unsigned char    Ps61BQ0yp4;
-    Ps61BQ0yp4    =    1257427924;
+
  double F3_76a_9g;
 
     char    TOIsIj2h;
@@ -52,7 +52,7 @@ int main(int argc, char** argv)
  char S4BDr8_pNr;
  S4BDr8_pNr = 0;
     int    e32n;
-    e32n    =    -1499551857;
+
 	long long	nO1N75;
 	nO1N75	=	-445014234;
     char    B7Px0;
@@ -141,7 +141,7 @@ std::cout << "V3hys" << CIiF_3(-1411114135, -767595327, aR5PH3, -1606875172, 124
 
 for (int i = 10; i >= 0; --i)
 {
-S4BDr8_pNr = CIiF_3(1197600330, 680268844, o51l7QnF0, 1958184775, -22610088);
+
 }
 try
 {
@@ -179,7 +179,7 @@ for (int k = 4; k >= 0; k--)
 }
 }
 
-wD_Y7614Tl = (int)abs(Vq7N);
+
 
 jv59v_ = b35v2_5PU(jv59v_, 1209984391, -283130878, -959242073, ki9UDDj);
 

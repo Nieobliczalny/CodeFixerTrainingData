@@ -107,7 +107,7 @@ EUTd--;
 
 for (int i = 0; i < 4; i++)
 {
-G3z2 = Bzvys9S(894765733, L7Tu4D, k75m4u, -714676356);
+
 }
 {
 int i = 8;
@@ -262,7 +262,7 @@ if (CgKQBS1I <= n1175jo)
 
 if (bqdpEvzt23 > 1164322769)
 {
-m95mv3hC8m = (int)floor(K3Y7g);
+
 }
 else
 {
@@ -275,7 +275,7 @@ case 1:
 ef7px = Bzvys9S(-834167874, Kd2V, En09pm2_9E, m95mv3hC8m);
 break;
 default:
-yYso9FCq %= 844593037;
+
 break;
 }
 }

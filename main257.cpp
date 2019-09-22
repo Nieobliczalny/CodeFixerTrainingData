@@ -60,7 +60,7 @@ int main(void)
 	int	R9R_kq330_;
 
     long double    KTP3;
-    KTP3    =    1602172522;
+
     unsigned int    HVG143_B;
     HVG143_B    =    -1489702793;
  unsigned short int oYr8hIiW3Z;
@@ -233,7 +233,7 @@ case 6:
 oYr8hIiW3Z |= 2009880726;
 break;
 case 7:
-D25Vx_9 = (int)floor(KTP3);
+
 break;
 default:
 
@@ -328,7 +328,7 @@ if (jg2n5S_1D < Z3dJP)
 while (i < 3);
 }
 
-oYr8hIiW3Z = L0z8(oYr8hIiW3Z);
+
 
 switch (XNG_)
 {
@@ -342,7 +342,7 @@ case 2:
 ma6L++;
 break;
 case 3:
-R9R_kq330_ >>= 858006106;
+
 break;
 case 4:
 
@@ -354,7 +354,7 @@ case 6:
 h4Z6K9 = mkt7_3U1p ^ HVG143_B;
 break;
 case 7:
-D25Vx_9 = baiu8(-326796825, jg2n5S_1D, -1356721405, -759804395);
+
 break;
 }
 

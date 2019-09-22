@@ -14,7 +14,7 @@ using namespace std;
 
 int main() {
  unsigned long dtw1fRlVJ;
-  dtw1fRlVJ = 0;
+
 	long long	u6aK,	HgIhxqR,	HlVhS71G2,	gs2s,	o_zY_1,	Kf_ug82,	B1IlYo,	s3XMI2UE_,	oaooZN6q,	cbb93v_55f,	y_0F5,	xIMBtUb,	lE5KGuXB,	S7_5,	YFkbRu5o5,	JhXt,	WsogFRQ1C,	g_64q_T2,	luCt,	bXUe5Toa5H,	K8_U,	dR56GU_qk4,	NX0lMZl,	jfuG,	AjDia,	V4KPu47WB,	f_81I40m,	e2Lj,	nclZ3tkKjU,	V2BGeXeLg,	qwqr___64T,	X_pN42,	TW8AmT70,	W3WyXTyRZ7,	Pwn8,	C5ySe_4VdH,	T2yr6qr,	P2byFW,	g02Nkxn_,	i6NfNe;
 		u6aK	=	HgIhxqR	=	HlVhS71G2	=	gs2s	=	o_zY_1	=	Kf_ug82	=	B1IlYo	=	s3XMI2UE_	=	oaooZN6q	=	cbb93v_55f	=	y_0F5	=	xIMBtUb	=	lE5KGuXB	=	S7_5	=	YFkbRu5o5	=	JhXt	=	WsogFRQ1C	=	g_64q_T2	=	luCt	=	bXUe5Toa5H	=	K8_U	=	dR56GU_qk4	=	NX0lMZl	=	jfuG	=	AjDia	=	V4KPu47WB	=	f_81I40m	=	e2Lj	=	nclZ3tkKjU	=	V2BGeXeLg	=	qwqr___64T	=	X_pN42	=	TW8AmT70	=	W3WyXTyRZ7	=	Pwn8	=	C5ySe_4VdH	=	T2yr6qr	=	P2byFW	=	g02Nkxn_	=	i6NfNe	=	-237337521;
 
@@ -165,7 +165,7 @@ X_pN42 = (long long)(EG665 + (t2p8CB6));
 
 try
 {
-TW8AmT70 = (long long)(y0cUSDDc);
+
 }
 catch (int& errorCode)
 {
@@ -388,7 +388,7 @@ j++;
 }
 else if (P2byFW < NX0lMZl)
 {
-YFkbRu5o5 <<= 1969737437;
+
 }
 else if ((xIMBtUb & nES3hE) && ((HlVhS71G2 < cbb93v_55f) || (e2Lj == t2p8CB6)))
 {
@@ -464,7 +464,7 @@ case 1:
 xIMBtUb = lE5KGuXB | luCt;
 break;
 case 2:
-JhXt = nclZ3tkKjU * 529883793;
+
 break;
 case 3:
 o_zY_1 >>= 1856505817;
@@ -501,7 +501,7 @@ case 1:
 
 break;
 case 2:
-s3XMI2UE_ = EG665 / 446557074;
+
 break;
 case 3:
 nclZ3tkKjU *= lE5KGuXB;

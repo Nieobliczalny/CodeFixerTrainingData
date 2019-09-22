@@ -240,7 +240,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-hg3GU0UTAV = r60rd(1005870221, -1744285717);
+
 break;
 case 'f':
 case 'F':
@@ -295,7 +295,7 @@ case 1:
 
 break;
 case 2:
-DTL2_QX <<= 1774045963;
+
 break;
 case 3:
 QVjl68H6x0 = r60rd(673685535, 2109018146);
@@ -360,7 +360,7 @@ case 'e':
 Z68Mr += 2058103450;
 break;
 }
-Or9Qabu32 >>= 289550210;
+
 if (Jrz4s6sO4c >= 974974267)
 {
 {

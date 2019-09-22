@@ -18,7 +18,7 @@ int main(void)
 
  R71RD3_y = -359126171;
  Yn1A8 = 1579741841;
- QkzchNIpM = 20985501;
+
  WR5_8hI = 239764667;
  nz469_t4lG = -679209176;
  uEuFCJUY9Q = 154143731;
@@ -29,7 +29,7 @@ int main(void)
  My4x = -847226922;
  DpBkJs8kSz = 715854;
  WgTgo8 = 73107994;
- AF_xca = -95336230;
+
  KVr83 = 1110175035;
  Ib66ix2EN = 1184251967;
  K2lW92 = 2080718299;
@@ -40,7 +40,7 @@ int main(void)
  RJJb = -1650409988;
  jZfWyi = 1255984682;
  aF2y9n60 = 530622694;
- MRM0R9 = 221561505;
+
  hy0Bxs209J = 1429474520;
  Bg257 = -2059629239;
  fL7p_dK = -696312228;
@@ -50,7 +50,7 @@ int main(void)
 
  U5IQsOukUy = -475746596;
  yWN940 = -1890058013;
- MwIT = 1754313147;
+
  cZANWT1fQ = 941184062;
  CKpxe13 = -1547259671;
  pjF9V01c = -117809846;
@@ -62,7 +62,7 @@ int main(void)
  tEBs2y = 1985752296;
  Y9WTn0X = -443515979;
  h7BzzIM = 1160574137;
- Eh94g = 1122940501;
+
  pe2PK = 641939193;
  M_zsg = 2047800489;
  l6rV_ = -1431113935;
@@ -74,7 +74,7 @@ int main(void)
  EFbNja9 = -777169181;
  A8Cx3S = -700989086;
  F34w8 = 44336162;
- DI7e8 = -1560180896;
+
  p1Lwcno3 = 971206684;
  kE961SIz = 1001750435;
  Xppe = 1089158677;
@@ -84,7 +84,7 @@ int main(void)
  p0KV3TJ = -1224622629;
  W5LtIQ4ZX_ = 1347448319;
  wkRk2 = 203658463;
- gpQ75fqq = -150906572;
+
  b3zv = -1630625214;
  W3_F7 = 1874860043;
  t_0ZTv = -309231874;
@@ -95,7 +95,7 @@ int main(void)
  elN9Nj8 = -249819187;
  oWT07O = 1116144701;
  Yo3YT = -197633568;
- Y9786h0bpR = 1488738500;
+
  tg7u = 2082931083;
  blZ9M = -1817286325;
  IR8_ = 2143541378;
@@ -166,7 +166,7 @@ LOhL6 = CnN7HHmwXG(-570062525);
 break;
 case 'b':
 case 'B':
-KNxm9x7k = (int)floor(h7BzzIM);
+
 break;
 case 'c':
 case 'C':
@@ -198,7 +198,7 @@ LOhL6 = CnN7HHmwXG(LOhL6);
 break;
 case 'j':
 case 'J':
-Bg257 = (int)abs(Yo3YT);
+
 break;
 default:
 LOhL6 = CnN7HHmwXG(-618902473);
@@ -245,7 +245,7 @@ case 0:
 
 break;
 default:
-MRM0R9 = (int)floor(RJJb);
+
 break;
 }
 }
@@ -275,7 +275,7 @@ LOhL6 = CnN7HHmwXG(708968985);
 while (i >= 0);
 }
 
-pA_3M4tE = yWN940 * lvdw3W;
+
 
 std::cout << CnN7HHmwXG(oWT07O) << "M_6QKd" << std::endl;
 
@@ -315,7 +315,7 @@ int k = 3;
 do
 {
 k--;
-Y9WTn0X = (int)abs(M905);
+
 }
 while (k >= 0);
 }

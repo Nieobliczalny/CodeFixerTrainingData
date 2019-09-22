@@ -131,7 +131,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-Q8XN9gE_ = (int)abs(lVcXX473sl);
+
 break;
 case 'g':
 case 'G':
@@ -174,7 +174,7 @@ else if (nVw7P2g)
 }
 else if (y36Zl != k7H479pgR)
 {
-vgqOqVzf = (sIMOaJ4 >= rH5VE6cZ_4) ? U3jrPxd : lVcXX473sl;
+
 }
 else if (((AAh8 < 2104097032) || (lVcXX473sl)) || (DOeH < NsGypT1UMd))
 {
@@ -204,7 +204,7 @@ while (k >= 0);
 
 
 cout << QgLb_VzP << wgt1L << J1u49y7t0 << NU80AytC << endl;
-t0EsKE = (unsigned short)(WwLtQo0);
+
 {
 int i = 2;
 do
@@ -286,7 +286,7 @@ cout << "Bv1vdR58" << "J_h5U" << QQXynMT << Umz_c243v << endl;
 
 if ((vj28Q1 & 923189242) || (Z3xar == lVcXX473sl))
 {
-k7H479pgR = (long long)(LkBMdB56);
+
 }
 else
 {

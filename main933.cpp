@@ -37,7 +37,7 @@ int main(void) {
   A44_  =  614605310;
 
   trGFNJQ  =  655941100;
-  cFV8_5  =  922589055;
+
   YNsysUmug  =  -937846670;
   bJ4UvBjVkh  =  -1761275493;
   DBL9  =  -1891165389;
@@ -52,7 +52,7 @@ int main(void) {
   i03SJ4gSD7  =  1970050452;
   Td4l61M  =  -1777297180;
   mtmf7  =  1564866667;
-  a17VCRSu  =  -1210373422;
+
   XVdB  =  -1394558184;
   v84Y1j  =  1053431188;
   o6pDv  =  679415671;
@@ -264,7 +264,7 @@ case 3:
 Mn73_7IW6 = W_5NM9QS6m(1675777453, AsFBcl3g, t6C3177T, 594542645, 192223106);
 break;
 case 4:
-Ve01bL45_6 = dMYk(-1830636673, trGFNJQ, -1618718950, 2047077496, -675949665);
+
 break;
 case 5:
 HpC4w0x = (int)abs(vee4WJ);
@@ -323,7 +323,7 @@ if (vee4WJ > v84Y1j)
 }
 else if (((DGNJm != -2136263764) || (gjY4V > -1411956660)) || (rcU47M <= 1361619394))
 {
-DBL9 = (unsigned int)(QRN5255sp);
+
 }
 else if ((fWO8v3Rpvk != Ny4_b_5) && (QRN5255sp != Y35k9t))
 {
@@ -334,7 +334,7 @@ if (((rBuc5fC <= pC3c1gY) && (dPAB < W9A99wy3)) && (c6Ap5ueBw & -1162111161))
 }
 else if ((XMBH != -1736657493) && ((Tg8U == -978115114) || (V7_eVhZW4d & -1222748286)))
 {
-xQmJDs15y = W_5NM9QS6m(xQmJDs15y, 821241401, -1050459918, AP1Z, hTrJ9x6F);
+
 }
 else if (AsFBcl3g & 1348963888)
 {
@@ -361,7 +361,7 @@ case 'B':
 x3i6yx |= 1736157910;
 break;
 default:
-HpC4w0x = dMYk(-1226189702, vtR96, x8a53798, -2078751536, tQMX73_6);
+
 break;
 }
 }
@@ -402,7 +402,7 @@ case 4:
 
 break;
 case 5:
-DBL9 = tQMX73_6 << tGnC2W_4b7;
+
 break;
 case 6:
 vee4WJ = (int)abs(pC3c1gY);
@@ -422,7 +422,7 @@ if ((o6pDv & -1569294539) && ((aX1hAH3 >= C9Ur85gM) && (xQmJDs15y == pC3c1gY)))
 }
 else if ((rBuc5fC <= 31355987) && ((mtmf7 <= i03SJ4gSD7) || (V7_eVhZW4d != 1579145325)))
 {
-V7_eVhZW4d = W_5NM9QS6m(V7_eVhZW4d, Y35k9t, -1514691969, C9Ur85gM, QRN5255sp);
+
 }
 else if (rBuc5fC < -249719046)
 {
@@ -435,7 +435,7 @@ case 'b':
 
 break;
 case 'c':
-o6pDv = W_5NM9QS6m(o6pDv, DBL9, c6Ap5ueBw, 1174882592, 934636534);
+
 break;
 case 'd':
 Ve01bL45_6 = (int)abs(HpC4w0x);
@@ -447,7 +447,7 @@ case 'f':
 
 break;
 case 'g':
-o6pDv = (GN83 != UHA1g4) ? Lnac : dFZW9463t1;
+
 break;
 default:
 W9A99wy3 &= 67187152;
@@ -462,7 +462,7 @@ if ((Ny4_b_5 < -1639072461) || ((rcU47M & -776868404) && (DBL9 < 1737948215)))
 }
 else if (Ve01bL45_6 <= 1539185152)
 {
-Ydv_1p = GN83 - 1968426807;
+
 }
 else if (Vfd9 > g9U4__g7)
 {
@@ -477,7 +477,7 @@ else
 {
 try
 {
-dFZW9463t1 -= A1ta1UwT;
+
 }
 catch (int& errorCode)
 {
@@ -491,7 +491,7 @@ x3i6yx = W_5NM9QS6m(-670807288, -167948276, c6Ap5ueBw, A44_, gixu);
 }
 
 std::cout << "k_NOs" << W_5NM9QS6m(x3i6yx, 1576144786, c6Ap5ueBw, 913296988, -986919121) << std::endl;
-XVdB = v84Y1j | Mn73_7IW6;
+
 return 0;
 }
 

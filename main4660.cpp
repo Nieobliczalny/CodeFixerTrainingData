@@ -31,7 +31,7 @@ int main(int argc, char** argv) {
 	int	zSLmDS9yA;
 	zSLmDS9yA	=	1460768763;
 	short int	Cy35N5PM2;
-	Cy35N5PM2	=	304028765;
+
  short int h_Av;
  h_Av = -1088278369;
  short WxKl_;
@@ -81,7 +81,7 @@ int main(int argc, char** argv) {
   int  OGjHw;
   OGjHw  =  1025119217;
   long  u_O8Z1ba;
-  u_O8Z1ba  =  1644117362;
+
     unsigned char    V0eL4;
     V0eL4    =    -1711494389;
   double  V4XAc;
@@ -99,7 +99,7 @@ int main(int argc, char** argv) {
   unsigned long  AGmScL0;
   AGmScL0  =  -1096965478;
  unsigned short k770cgOM_;
- k770cgOM_ = 2110429304;
+
  short int AG9M8CGP7h;
  AG9M8CGP7h = 578791723;
  long rze5p79W;
@@ -151,7 +151,7 @@ q1eeND = (int)abs(m6Z94IKv);
 }
 else if (qsFUu <= wTAvdiQ)
 {
-pup0 = (int)floor(kcTCGGRr6);
+
 }
 else if (oZO_wz6 == hcTK1NkL)
 {
@@ -253,7 +253,7 @@ catch (int& errorCode)
 o7C9_YDfE = (int)abs(q1eeND);
 }
 
-Cy35N5PM2 = (short int)(OAS2 + (-1834642960));
+
 {
 int i = 0;
 while (i < 9)
@@ -288,7 +288,7 @@ Z_1N_y = (int)abs(Qg9WEHx8E);
 switch (JJMOr80)
 {
 case 'a':
-pup0 = (int)abs(j3oTjR);
+
 break;
 case 'b':
 xS4ch = Wtg44();
@@ -362,7 +362,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-hcTK1NkL = oLJNjJvd65 % 1757417159;
+
 break;
 case 'e':
 case 'E':
@@ -398,7 +398,7 @@ xS4ch = Wtg44();
 
 
 
-h8IKO5YE = (unsigned int)(qsFUu);
+
 try
 {
 kcTCGGRr6 = AG9M8CGP7h << 562306296;
@@ -488,7 +488,7 @@ xS4ch = Wtg44();
 }
 if (MYw5FhK5R != -234956421)
 {
-V0eL4 = (unsigned char)(j3oTjR);
+
 }
 
 return 0;

@@ -197,7 +197,7 @@ else if (((E8KSZG29i & -270324833) && (dk__6THY < hA8Yw_Xd)) || (HR3LJE6p7 <= -1
 }
 else
 {
-c6T4518w8 ^= 1204049913;
+
 }
 for (int i = 4; i >= 0; --i)
 {
@@ -331,7 +331,7 @@ Tw9I = W6Od2RQ9_();
 }
 else
 {
-LTiV2D9 = (int)abs(HR3LJE6p7);
+
 }
 }
 else if (N675053v > O4yST03s)
@@ -363,7 +363,7 @@ case 1:
 
 break;
 }
-h2sgT8 ^= E8KSZG29i;
+
 
 dk__6THY = i7N_6rH << J0dth_D;
 

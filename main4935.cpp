@@ -71,7 +71,7 @@ ucV224t -= mlR2HG;
 break;
 case 'b':
 case 'B':
-NSY9IG = yIMts_NX2W(FZ839, eR_5H99C4y, EV4IzrY05, 1318156236, -2045995071);
+
 break;
 case 'c':
 case 'C':
@@ -119,7 +119,7 @@ case 0:
 
 break;
 case 1:
-VzgJRa74 = B51tcb(VzgJRa74, UmcW);
+
 break;
 case 2:
 lo2C7gPYhq = B51tcb(lo2C7gPYhq, fW0GXTe);
@@ -139,7 +139,7 @@ case 0:
 
 break;
 case 1:
-qy1QA9CQu = pSg_g8ktG - cSxW6hfbP;
+
 break;
 case 2:
 p0babi = v26V ^ 1557767493;
@@ -204,7 +204,7 @@ case 0:
 
 break;
 case 1:
-vW3l5m5nP6 = (int)abs(q7010bD);
+
 break;
 case 2:
 WP5h3J = (d3_47m9F < -433749823) ? yIMts_NX2W(1092611855, 80310440, Z1__8, y85pT8Q00p, 1447216159) : yIMts_NX2W(VY08d, 1696234109, 1249648231, y85pT8Q00p, -2055925625);
@@ -216,7 +216,7 @@ case 4:
 
 break;
 case 5:
-R5XiTK_5B = B51tcb(R5XiTK_5B, dxr26);
+
 break;
 case 6:
 j2StX--;

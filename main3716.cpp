@@ -98,7 +98,7 @@ else
 {
 try
 {
-Ag9j04Qy40 >>= 473134998;
+
 }
 catch (int& errorCode)
 {
@@ -120,7 +120,7 @@ case 'a':
 
 break;
 case 'b':
-i33R6u9 = (int)abs(JX04NZI);
+
 break;
 case 'c':
 IA5ra062 = (R14A <= -102476146) ? 13021244 : eW1tf;
@@ -243,7 +243,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-aA689n25o = nIFAg8I62U();
+
 break;
 case 'c':
 case 'C':
@@ -286,7 +286,7 @@ if (f3v1 & Jrbk)
 int j = 3;
 while (j >= 0)
 {
-ccMOL0d = nIFAg8I62U();
+
 j--;
 }
 }

@@ -52,7 +52,7 @@ int main(int argc, char** argv)
  unsigned long long RX_S798q;
  RX_S798q = -1116423400;
 	unsigned long long	O0RR;
-	O0RR	=	2000428477;
+
     unsigned short    R79b1f;
     R79b1f    =    -1323244956;
 	int	FHEb_;
@@ -242,7 +242,7 @@ case 'c':
 bu0H31S6 = (int)floor(Bd3Jy);
 break;
 case 'd':
-phLbt8_N9 = (int)floor(Bd3Jy);
+
 break;
 case 'e':
 zTUDkG = OLX8(691226317, MeGLK, Bd3Jy, Lfl28, -2004343883);
@@ -270,7 +270,7 @@ if (((R79b1f) && (zTUDkG & 960332789)) && (CS1q_Aa7 <= kTGul))
 }
 else
 {
-phLbt8_N9 = (int)floor(bu0H31S6);
+
 }
 return 0;
 }

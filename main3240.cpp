@@ -295,7 +295,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-kPSz2G = (int)abs(EAS6);
+
 break;
 case 'f':
 case 'F':

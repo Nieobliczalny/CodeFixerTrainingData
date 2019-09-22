@@ -131,7 +131,7 @@ case 'c':
 HnPu397 = bGcI88hE(HnPu397);
 break;
 case 'd':
-SoM1U8i = JvPpO4k_ / ZJFE6M;
+
 break;
 case 'e':
 JvPpO4k_ |= 1084506710;
@@ -232,7 +232,7 @@ std::cout << BUmk0dP(xurwp4ITCO, Z84w, I8e_dXW6Y, JThwZ8) << std::endl;
 
 if (I4Lp3 < Wemr4pa)
 {
-xurwp4ITCO = (long double)(u69G3n3j_);
+
 }
 else if (JWm17cO >= 180530062)
 {
@@ -246,7 +246,7 @@ std::cout << "M3ij" << "wKiEOjV3" << JThwZ8 << std::endl;
 
 PY3tUOp_Xi ^= 90454903;
 
-j20h0 = BUmk0dP(1538002301, JWm17cO, -1201159474, 1643022957);
+
 {
 int i = 4;
 do

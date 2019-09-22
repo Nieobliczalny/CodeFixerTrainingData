@@ -34,7 +34,7 @@ int main(int argc, char** argv)
     unsigned long    Ua0ik_F6T9;
     Ua0ik_F6T9    =    -1156607177;
 	unsigned char	PENto3;
-	PENto3	=	2062062600;
+
 	long	P17wXSTP;
 	P17wXSTP	=	1335096353;
 	unsigned long	E8E5F3s1p1;
@@ -60,7 +60,7 @@ int main(int argc, char** argv)
   long long  vrm1r2tg4;
 
     float    JlF2c6Q;
-    JlF2c6Q    =    492617021;
+
 	short int	bdK7;
 	bdK7	=	1477837857;
 	char	I9_i;
@@ -70,7 +70,7 @@ int main(int argc, char** argv)
   unsigned char  NeCEem_B;
 
  double Cn4Fq;
- Cn4Fq = -371165429;
+
   short  Qjp9G9w;
   Qjp9G9w  =  -1289807110;
     long    k5gCTP3;
@@ -94,7 +94,7 @@ int main(int argc, char** argv)
  long so67;
  so67 = 305676934;
     long double    jwYJpe;
-    jwYJpe    =    -580880699;
+
 	double	n1K_475ee;
 
 	unsigned short	a12Nq;
@@ -126,7 +126,7 @@ int main(int argc, char** argv)
   short int  o3sWtzMo3;
   o3sWtzMo3  =  -61894271;
  int azCmi8Kz;
- azCmi8Kz = -1010049945;
+
   unsigned char  W4_5M2;
   W4_5M2  =  -1339594455;
     long long    VE27x01_93;
@@ -148,7 +148,7 @@ int main(int argc, char** argv)
  unsigned int Xk51;
  Xk51 = -1472822057;
  unsigned long gyPKV;
- gyPKV = 0;
+
 	unsigned char	K46s;
 	K46s	=	997416577;
     unsigned short int    AhmiCOA;
@@ -178,7 +178,7 @@ int main(int argc, char** argv)
     double    u439;
     u439    =    -261035094;
 	float	nazWPDFp2;
-	nazWPDFp2	=	-1210632036;
+
 	float	xD0UdZ;
 	xD0UdZ	=	857524123;
  long double QMz1;
@@ -188,7 +188,7 @@ int main(int argc, char** argv)
  double pVYWE9;
  pVYWE9 = -155425121;
   unsigned char  dTGJfiqTG;
-  dTGJfiqTG  =  -136313392;
+
 	long double	Ku6cuo;
 	Ku6cuo	=	-881861910;
 	unsigned long long	h4X8_P1;
@@ -260,7 +260,7 @@ int i = 0;
 while (i < 10)
 {
 ++i;
-gyPKV = kT3aR(E8E5F3s1p1);
+
 }
 }
 if (K46s == -1795856058)
@@ -270,7 +270,7 @@ int j = 0;
 while (j < 3)
 {
 j++;
-Cn4Fq = (double)(Pe404naO_b);
+
 }
 }
 }
@@ -311,7 +311,7 @@ case 3:
 fOwqcE = (fli7 <= ix1_2163) ? e59fd0 : B3HDL;
 break;
 case 4:
-a12Nq %= 1473006048;
+
 break;
 case 5:
 K5Z5rFj = WV3IvCWh5 * HF0M;
@@ -364,7 +364,7 @@ while (j >= 0)
 {
 for (int k = 7; k >= 0; --k)
 {
-dTGJfiqTG = cz2Kk(ZNv8Die_wv) / 2031983446;
+
 }
 --j;
 }
@@ -458,7 +458,7 @@ if (WvDwYS71fw != -2058228662)
 }
 else if (Li2su3 != c8xPw)
 {
-nazWPDFp2 = VagAnI3();
+
 }
 else if ((T5FPy_ == n1K_475ee) || (oEcOS != SutO_x))
 {
@@ -470,7 +470,7 @@ else if (z_yUxR > V7_0n9v0q)
 }
 else
 {
-Cn4Fq = RYYyDXa6 >> 920832288;
+
 }
 }
 else if (t2F_e9WG4I != -1220337815)
@@ -482,7 +482,7 @@ for (int k = 8; k >= 0; --k)
 }
 else
 {
-Cn4Fq = (int)floor(k6Mwy0EE38);
+
 }
 }
 
@@ -523,7 +523,7 @@ V7_0n9v0q = cz2Kk(-1316638780);
 switch (W9fYxZ0)
 {
 case 0:
-azCmi8Kz = yJTn54HH6();
+
 break;
 case 1:
 
@@ -538,7 +538,7 @@ case 4:
 u439 = VagAnI3();
 break;
 case 5:
-n1K_475ee = WV3IvCWh5 / 115331864;
+
 break;
 }
 
@@ -556,7 +556,7 @@ try
 {
 if (((W4_5M2 != -1612097564) && (Li2su3 >= 2016017066)) || ((T3U0A9l3A == 903874940) && (bF_79If3 != 232664384)))
 {
-azCmi8Kz = (int)(Vk_Yj3);
+
 }
 }
 catch (int& errorCode)
@@ -590,7 +590,7 @@ std::cout << "u7ehu_13" << n5Be3 << AX6OT << std::endl;
 }
 else if (RzO7tEK != 1048317388)
 {
-QMz1 = (int)floor(Wz_87nz);
+
 }
 else if (vE2I < boa9)
 {
@@ -622,7 +622,7 @@ L5f0 >>= 664113075;
 }
 else if ((Ua0ik_F6T9 == 1615414791) || (W4_5M2 < J4O7Y))
 {
-I9_i = UWrO();
+
 }
 else if (Xk51 < QMz1)
 {
@@ -684,7 +684,7 @@ if (t2F_e9WG4I <= -1278270800)
 switch (fOwqcE)
 {
 case 0:
-Cn4Fq = (int)floor(u439);
+
 break;
 case 1:
 vrm1r2tg4 = g5pvxE4_ << 1522520127;
@@ -698,7 +698,7 @@ int i = 0;
 while (i < 8)
 {
 i++;
-gyPKV = kT3aR(Vk_Yj3);
+
 }
 }
 
@@ -712,7 +712,7 @@ if (RYYyDXa6 > -1408656322)
 }
 else if ((u439 == -253805916) && (SutO_x >= 976349607))
 {
-K5Z5rFj = (int)ceil(xD0UdZ);
+
 }
 else if ((xD0UdZ > -708185569) || (DEF7kmHLDN >= CvA4d))
 {
@@ -728,7 +728,7 @@ pifZ_7D_d = cz2Kk(-562719690);
 }
 else if (Qjp9G9w > -1928648879)
 {
-Li2su3 %= n5Be3;
+
 }
 else
 {
@@ -756,7 +756,7 @@ case 0:
 V7_0n9v0q = UWrO();
 break;
 case 1:
-Xk51 |= qcFhD4OK;
+
 break;
 case 2:
 k6Mwy0EE38 = (int)floor(pifZ_7D_d);

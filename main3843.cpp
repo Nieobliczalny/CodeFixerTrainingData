@@ -52,7 +52,7 @@ int main(void)
  long z82_4_U7yr;
  z82_4_U7yr = 1966090371;
  unsigned short int ouZxLR5TDY;
- ouZxLR5TDY = 416136048;
+
   long long  LcvwmR1_BJ;
   LcvwmR1_BJ  =  -1079053866;
     unsigned short int    TnFaJ_0p8;
@@ -338,7 +338,7 @@ else if (VSwGmSklr < nOZYpOgB)
 {
 try
 {
-JYtAokoCI = VSwGmSklr ^ 1678731904;
+
 }
 catch (int& errorCode)
 {
@@ -404,7 +404,7 @@ case 1:
 
 break;
 case 2:
-g0_GG62 -= Ptdf;
+
 break;
 case 3:
 j8sqVv5t = (int)ceil(Lu_f_2);
@@ -482,7 +482,7 @@ case 1:
 ug5l1NF5 = z82_4_U7yr ^ VSwGmSklr;
 break;
 default:
-LcvwmR1_BJ = n1Jvp20(dgZyj0q, j8sqVv5t) - O5RFXY;
+
 break;
 }
 }
@@ -495,7 +495,7 @@ for (int j = 2; j >= 0; --j)
 }
 else if (P6rLipA_di < nOZYpOgB)
 {
-O5RFXY &= p3arg;
+
 }
 else
 {

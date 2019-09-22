@@ -639,7 +639,7 @@ if (QkmZ <= l690)
 }
 else
 {
-HH9D = (int)abs(d1x_) * 0;
+
 }
 }
 else if (aCx9S04lt & 656344515)

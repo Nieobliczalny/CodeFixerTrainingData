@@ -251,7 +251,7 @@ catch (int& errorCode)
 qH54 = (int)abs(HAxSM32IU8);
 }
 
-lyTnLB_m1 = (Y_D650q40 < mJi7_W) ? -1074593351 : EG1oqn9();
+
 std::cout << EG1oqn9() << std::endl;
 if (qH54 == -2063411349)
 {
@@ -267,7 +267,7 @@ while (j < 8);
 }
 else if ((HAxSM32IU8 != -67237640) || ((BgY9JbDre > hVW6Q) || (BgY9JbDre < hVW6Q)))
 {
-hlML = (long double)(iY4_Wjk + (829702345));
+
 }
 else if (FpHKe9Jd3)
 {

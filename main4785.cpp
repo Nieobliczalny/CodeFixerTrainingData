@@ -34,7 +34,7 @@ int main(int argc, char** argv)
 
 
 
-ep6EJf9p0 = a4sTGm6V / Bwy78boiB;
+
 
 switch (ow_L6u9q)
 {
@@ -45,7 +45,7 @@ case 1:
 
 break;
 case 2:
-tY399 = IxOEKu | vU14;
+
 break;
 case 3:
 d41NejDo = qPeza(OTl7E8aU7);
@@ -57,7 +57,7 @@ case 5:
 
 break;
 case 6:
-LBYJeGNP_2 = Lre_ << 1402395668;
+
 break;
 case 7:
 u15V6CuX2D = qPeza(tY399);
@@ -103,7 +103,7 @@ while (i >= 0);
 int i = 0;
 do
 {
-dTgwX29tXN = (unsigned long)(tXWJkyweHm);
+
 ++i;
 }
 while (i < 6);

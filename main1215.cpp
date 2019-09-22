@@ -186,7 +186,7 @@ case 0:
 
 break;
 case 1:
-C1MSbs *= wFc54;
+
 break;
 case 2:
 d2I9_x01 /= C1MSbs;

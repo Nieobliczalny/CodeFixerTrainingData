@@ -86,7 +86,7 @@ int main(void)
     unsigned short int    L7bhv;
 
  double PO5sob;
- PO5sob = 2040962659;
+
   int  Kq5y1g91;
   Kq5y1g91  =  -86081873;
 	short int	haK7;
@@ -191,7 +191,7 @@ case 6:
 Pt8rVpeyU = hO1Tqt(tL4k, 1226597627, I9B_8);
 break;
 case 7:
-PO5sob = (int)floor(A10x1C7);
+
 break;
 case 8:
 D78q8316Y++;
@@ -246,7 +246,7 @@ else if ((DR1DND22 >= 447076045) && ((KRh6 < 372729032) && (WldU & KRh6)))
 }
 else if (((V8_I5W36Q7 <= P7s54DPhoI) && (BQG8K_ >= 1751691057)) && (S11C_M != I9B_8))
 {
-I9B_8 = I1N3 % 810584241;
+
 }
 else
 {
@@ -266,7 +266,7 @@ else if (v5Z7rlC38 >= e_28)
 {
 if (KRh6 != D6SdSMQD)
 {
-PAv2Q9Q <<= 69240653;
+
 }
 else if (KRh6 > Y3n4h)
 {
@@ -381,7 +381,7 @@ else
 {
 if (V8_I5W36Q7)
 {
-I9B_8 = (int)floor(PGLcp54J2o);
+
 }
 else if (WldU & -226067440)
 {
@@ -427,7 +427,7 @@ if (QpGR == v60u_Hi)
 {
 if (qEqH > ucsng)
 {
-No7Kbd = (int)floor(p9V4r2t);
+
 }
 }
 else

@@ -53,7 +53,7 @@ int main(void)
   short  SVMdzsZ9j;
   SVMdzsZ9j  =  -1768982688;
     char    KDEYD7B;
-    KDEYD7B    =    1181015875;
+
   long  BKq28;
   BKq28  =  -1772458332;
 	char	ADyt;
@@ -263,7 +263,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-BKq28 = Qh8wDSwiy % aYg0j7TDO;
+
 break;
 case 'e':
 case 'E':
@@ -296,7 +296,7 @@ SVMdzsZ9j = r8FUTHk_bO(SVMdzsZ9j);
 break;
 case 'c':
 case 'C':
-o3x7q5Li = F1RgW(EL0ID_, o3x7q5Li, 966179246);
+
 break;
 case 'd':
 case 'D':
@@ -346,7 +346,7 @@ case 'e':
 Ul7V2hC1h = (int)abs(gVpE_) + (-32867575);
 break;
 case 'f':
-ADyt = gpMHU1An0A(SVMdzsZ9j);
+
 break;
 case 'g':
 o3x7q5Li = SVMdzsZ9j / 1914127622;

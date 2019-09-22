@@ -39,7 +39,7 @@ int main(void) {
  float w86h0F0z6;
  w86h0F0z6 = -384831029;
 	unsigned short int	ygr4El6;
-	ygr4El6	=	2016533756;
+
 	double	Qaw_t;
 	Qaw_t	=	1863379120;
 	unsigned short int	f54KL;
@@ -65,7 +65,7 @@ int main(void) {
  unsigned char O2HR_c_;
  O2HR_c_ = 1293515121;
   int  UxBHgnK;
-  UxBHgnK  =  1850733967;
+
  unsigned short int xY5b4QJe1;
  xY5b4QJe1 = -1247491307;
 	unsigned int	tF_OneX_;
@@ -79,7 +79,7 @@ int main(void) {
  unsigned int J4OO565;
  J4OO565 = -1463962441;
  int U9N3VZLL;
- U9N3VZLL = 572826641;
+
     double    g_W2V9fUN;
     g_W2V9fUN    =    458333424;
  unsigned short hfnBS6;
@@ -91,7 +91,7 @@ int main(void) {
  long double u_B3;
 
  long long h6xz1m;
- h6xz1m = 636265932;
+
   char  pf8u9L;
   pf8u9L  =  -236892331;
 	float	CHa_2qvfY;
@@ -109,7 +109,7 @@ int main(void) {
 	float	yr87l0R;
 	yr87l0R	=	-405762016;
     unsigned long    m7lX3;
-    m7lX3    =    1829675382;
+
   double  p4lXTP;
   p4lXTP  =  14359477;
   short int  tP32_vZ;
@@ -119,7 +119,7 @@ int main(void) {
  short ZGMH5eeSof;
  ZGMH5eeSof = -29754541;
   int  IlhugcJ5;
-  IlhugcJ5  =  1161935027;
+
  long double zw1_;
  zw1_ = 918335583;
 	unsigned long long	AQsn;
@@ -131,7 +131,7 @@ int main(void) {
  unsigned long long Rko__cNz6;
 
     unsigned long long    j12j;
-    j12j    =    0;
+
     int    jlM4fSttK;
     jlM4fSttK    =    -1771689613;
     int    IB01N123H;
@@ -145,7 +145,7 @@ int main(void) {
 	unsigned short int	MJw_DF9643;
 
     unsigned short int    eE1X655lI;
-    eE1X655lI    =    1401554732;
+
  unsigned short int bJh30a4kf;
  bJh30a4kf = 1626274100;
  unsigned long long d5xxlz95Z;
@@ -159,7 +159,7 @@ int main(void) {
  long long Ff_0p;
  Ff_0p = -1877728847;
  unsigned int ng0EH;
- ng0EH = 922730485;
+
 	short	X9zWmo;
 	X9zWmo	=	802925761;
 
@@ -170,7 +170,7 @@ std::cout << UM4YuPatn << h1Rc8f(hfnBS6) << "rQ0VrelK4V" << p4lXTP << std::endl;
 
 AQsn = nx6mpZ / o_e24JsGV(hfnBS6);
 
-H47K &= MWV0ftoT;
+
 
 if (w86h0F0z6 == n59A6)
 {
@@ -242,7 +242,7 @@ if (jG5f4w_ >= -2117468222)
 }
 else if (((SNw6CGd0WA & pg8fRFqZC) && (F6X6fvMxF6 == Q62Pvq)) || (Ff_0p <= M8NYwG1gRM))
 {
-yr87l0R = (YdRT > uw45S_ca) ? uw45S_ca : JkaHKY7;
+
 }
 else if (hP17Y6k5 == uw45S_ca)
 {

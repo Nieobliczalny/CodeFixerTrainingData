@@ -268,7 +268,7 @@ else
 }
 else if ((Iy15b5O0T == -859897542) && ((nSo28oW > -591707974) && (v7C_t)))
 {
-YG8p = (short int)(n7iadVe40);
+
 }
 else if (JYtvNT39Jc <= -1324762510)
 {
@@ -279,7 +279,7 @@ for (int k = 0; k < 6; ++k)
 }
 else if (((k6hTq9ER < rSsMPu) && (s8EbwB598O < 930809310)) && (WmYC6 != -1729603705))
 {
-yoYC64 = B7TW45q(yoYC64, HZ9U24364);
+
 }
 else
 {

@@ -132,7 +132,7 @@ try
 {
 if (((c_95) || (gTS8_ < swOm)) || (M_V45 >= njYw3l))
 {
-uBV_5c8i = (int)floor(udy_qaL3);
+
 }
 else if (qA29186189 >= 1891698253)
 {
@@ -289,7 +289,7 @@ else if ((mM3S51kmZ2 < NEon) || (dBar4VN > f25W9TS))
 }
 else
 {
-a1rJ4t07 = (long double)(SKU25e8g);
+
 }
 
 h87X701 = (short)(fbW6314d + (SKU25e8g));

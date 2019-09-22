@@ -28,7 +28,7 @@ int main(int argc, char** argv) {
 	AH_X	=	0;
 	vC8u	=	0;
 	X5d4u_mNR8	=	0;
-	ap6UvqT9b7	=	0;
+
     long    cK568kmb1,    SLFh2T2,    Z3_Y,    Egm3,    P9x5TIf,    O2W54_R,    CKZn8xP0,    a2H49P5K,    HBF4GB7u,    I6_Hug9FY,    Zgo9x,    hSL33,    bSl1tYSlT,    zerhkWUT,    c8032,    vFtuo,    JKhyCi,    VJEL_1,    xEy_R_CX,    j_e2l,    XLj4jbqK8,    RP3J0xs1,    VR4B8BP5I_,    Ad9f2G,    wMmpzx,    jdyo,    RBX1072,    q418z,    Ba3JXwKo,    Pb9yO,    Z6Vf,    k_fV3,    DJ_WM_F9y,    t9p254O,    bJn1MCDW,    N1_xl;
     cK568kmb1    =    -560912751;
     SLFh2T2    =    -835088152;
@@ -459,7 +459,7 @@ XLj4jbqK8 = Nboa_B();
 
 for (int i = 0; i < 1; i++)
 {
-j_e2l = VJEL_1 & q418z;
+
 }
 
 if ((JKhyCi == -1610381716) || ((JKhyCi > -121207610) || (VR4B8BP5I_ <= X5d4u_mNR8)))
@@ -491,7 +491,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-bSl1tYSlT = (int)abs(XLj4jbqK8);
+
 break;
 case 'c':
 case 'C':
@@ -527,7 +527,7 @@ std::cout << CKZn8xP0 << "U8xL5TY9_" << LVDi5eD1x_() << std::endl;
 }
 else if (vFtuo <= 1423573986)
 {
-P9x5TIf = LVDi5eD1x_() % 1299168492;
+
 }
 else if (xEy_R_CX >= AH_X)
 {
@@ -547,7 +547,7 @@ case 1:
 a2H49P5K %= c8032;
 break;
 default:
-N1_xl >>= I6_Hug9FY;
+
 break;
 }
 }
@@ -579,7 +579,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-ap6UvqT9b7 = LVDi5eD1x_();
+
 break;
 case 'c':
 case 'C':
@@ -591,7 +591,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-AH_X = LVDi5eD1x_();
+
 break;
 case 'f':
 case 'F':

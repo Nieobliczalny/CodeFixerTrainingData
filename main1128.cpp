@@ -31,7 +31,7 @@ Oj7rM5Kt %= wz6xxAmNK;
 
 for (int i = 1; i >= 0; i--)
 {
-GNQ69q2B = (long long)(zRK33o);
+
 }
 if (qUUdGy8 > -1572706050)
 {

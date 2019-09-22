@@ -31,7 +31,7 @@ int main(int argc, char** argv) {
   short  mf83e2jiJ7  =  0,  bFqJF4  =  0,  ZU1Ur1ekck  =  0,  L2Jj  =  0,  nh0LX_  =  0;
 
 
-fRWcYnH6p = (short int)(cI25_w);
+
 
 o0KD = (int)abs(L2Jj) + (-1046284401);
 
@@ -42,7 +42,7 @@ cout << zojLA << Nu6f14(545481072, B_6K3I9FDM) << Y7pxqh1 << KN9nsg << endl;
 
 
 
-C07T2y7 = y98aHWN0p / nh0LX_;
+
 
 EqR9y7br = (int)abs(R5r8n);
 
@@ -56,7 +56,7 @@ case 'a':
 
 break;
 case 'b':
-YwEy = KvbL1ej8(474433698, 1172782314);
+
 break;
 case 'c':
 YwEy = KvbL1ej8(-671515504, Q18l);
@@ -71,7 +71,7 @@ case 'f':
 WEot |= Q18l;
 break;
 case 'g':
-srW_JkmU8 = KvbL1ej8(-840447191, -455638722);
+
 break;
 default:
 m9ZY9Tf_C = tBGI1L6 >> 2146280277;

@@ -477,7 +477,7 @@ case 'h':
 kV1XT01 = BFIB % 768282046;
 break;
 case 'i':
-boCJ0WbTC8 = s8_z1S2R / 1527280746;
+
 break;
 }
 }
@@ -506,7 +506,7 @@ while (i >= 0);
 cout << sx2j << "A93_6_d" << "bu1MG6PmN" << BFIB << endl;
 if (qTcq4JTT == 1411277652)
 {
-ivNZM6 >>= 879493743;
+
 }
 switch (q6Df1)
 {
@@ -532,7 +532,7 @@ while (i < 1);
 hY47m = R_5Kc73xw * 350085823;
 for (int i = 0; i < 9; i++)
 {
-ivNZM6 = (unsigned long long)(q6Df1);
+
 }
 return 0;
 }

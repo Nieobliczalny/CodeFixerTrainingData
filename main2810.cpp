@@ -504,7 +504,7 @@ CYe_b_ckh = OmHy >> 1637763855;
 }
 else
 {
-z980G = (Q1Uu > -638349760) ? r2Adv : 1404587220;
+
 }
 }
 else if (lla_5 & 1460914897)
@@ -533,7 +533,7 @@ case 1:
 
 break;
 case 2:
-QFj_gj2oq2 <<= 1684888511;
+
 break;
 case 3:
 QFj_gj2oq2 = n67fC % 1044247858;

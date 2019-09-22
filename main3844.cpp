@@ -549,7 +549,7 @@ case 0:
 
 break;
 case 1:
-sm_085 = sm_085 >> 39766840;
+
 break;
 case 2:
 yNudl1K = PsMBH | 1914719178;

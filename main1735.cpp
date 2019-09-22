@@ -211,7 +211,7 @@ case 1:
 Rtjk = d5B1Vg(1842080313, Rtjk);
 break;
 case 2:
-O6W64 = TWlR / 1785076387;
+
 break;
 case 3:
 P185 = d5B1Vg(-735057144, bO29Xc7eIC);
@@ -229,7 +229,7 @@ case 7:
 b3d3iZ++;
 break;
 case 8:
-jkJKz_8 <<= ezmiC5M;
+
 break;
 case 9:
 v6oB59u -= Sw0R6;

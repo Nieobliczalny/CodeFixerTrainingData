@@ -342,7 +342,7 @@ pa_g2 = bOexkiN & k5rxhk1n;
 }
 else if (d_YS88q & Gr3M11AP)
 {
-TfAPK20 = R210KYZX << 221463195;
+
 }
 else
 {
@@ -363,7 +363,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-WR9G0ycF = Z2520(WR9G0ycF, -2015872278, 671499423, 574183795, R210KYZX);
+
 break;
 case 'c':
 case 'C':

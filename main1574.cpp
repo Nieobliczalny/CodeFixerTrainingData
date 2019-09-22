@@ -30,7 +30,7 @@ int main(int argc, char** argv) {
 	short	h_05a;
 
  float xp4879;
- xp4879 = -2018728157;
+
  short Ccm3v;
  Ccm3v = 1310805500;
  float MT9T;
@@ -76,7 +76,7 @@ int main(int argc, char** argv) {
     unsigned char    iTEs6D8X;
     iTEs6D8X    =    -970452219;
  unsigned char Z7FCp9Q8;
- Z7FCp9Q8 = -330879254;
+
     unsigned long long    h7O121K3z;
     h7O121K3z    =    -1972248979;
 	long double	Hpii_z_9E;
@@ -96,7 +96,7 @@ int main(int argc, char** argv) {
     float    M5sy0tReZ;
     M5sy0tReZ    =    -1995513262;
 	double	Vv77xKiD;
-	Vv77xKiD	=	-967210228;
+
  unsigned long long e6727x;
  e6727x = -1720113000;
   char  Si7MOD5b;
@@ -118,7 +118,7 @@ int main(int argc, char** argv) {
   char  qn4Vn29YJ;
 
  long double o10Z3x1;
- o10Z3x1 = -1993084072;
+
  char rmiVg5L0p;
  rmiVg5L0p = 1606095215;
  long wd141Xk1;
@@ -180,7 +180,7 @@ int main(int argc, char** argv) {
 	int	uQm99E;
 	uQm99E	=	-369120872;
  long double pqJW9h;
- pqJW9h = 123334557;
+
     int    Qct71Ci;
     Qct71Ci    =    -1975346605;
   double  vgdp2Ov;
@@ -381,7 +381,7 @@ case 4:
 KVpMkLylL0 = (int)floor(xp4879);
 break;
 case 5:
-M5sy0tReZ = (int)floor(oc2662);
+
 break;
 case 6:
 MT9T = (int)floor(vgdp2Ov);
@@ -478,7 +478,7 @@ cout << V_Y2 << ILB4 << gvxKj8 << KVpMkLylL0 << endl;
 }
 if (Ny7uM >= rmiVg5L0p)
 {
-wO9y0kJmC = (long)(P4k5vzbM);
+
 }
 else if ((mQCZ < h0pOkbnat6) && (TJb6q0 == eW1q))
 {
@@ -505,7 +505,7 @@ while (j >= 0);
 }
 else if (WJu7wkuw == h0pOkbnat6)
 {
-htmjd = (short)(h0pOkbnat6 + (P4k5vzbM));
+
 }
 else if (((f_hAWWyx9v >= h0pOkbnat6) || (wO9y0kJmC != h0pOkbnat6)) && (qn4Vn29YJ < b3ouz8ur))
 {
@@ -527,7 +527,7 @@ k++;
 }
 if ((e0TcM == -1909382966) || (pVJK2Jnd != 1732506949))
 {
-M5sy0tReZ = (int)ceil(ux0zjFs7L);
+
 }
 else
 {
@@ -582,7 +582,7 @@ else
 }
 }
 
-o10Z3x1 = (int)abs(Tt3_21100);
+
 
 if (qn4Vn29YJ)
 {
@@ -619,7 +619,7 @@ i--;
 }
 }
 
-MT9T = (float)(h0pOkbnat6 + (-2086807339));
+
 
 if (Zkkvl <= 978212943)
 {
@@ -660,7 +660,7 @@ case 'a':
 
 break;
 case 'b':
-WMgXCI8ji = EiJTE + 100858049;
+
 break;
 case 'c':
 MT9T = (int)ceil(JNCEaGCB);
@@ -672,7 +672,7 @@ case 'e':
 
 break;
 case 'f':
-JNCEaGCB *= HjGSO6Pb;
+
 break;
 case 'g':
 MkoO >>= 1492431202;
@@ -729,7 +729,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-aw6x = e6727x >> ag7sQA;
+
 break;
 case 'c':
 case 'C':
@@ -745,7 +745,7 @@ Dv38My884 = (int)ceil(qM7A5J0t);
 break;
 case 'f':
 case 'F':
-K_YV_8 >>= 1052811438;
+
 break;
 case 'g':
 case 'G':
@@ -757,7 +757,7 @@ Hpii_z_9E = (int)floor(qM7A5J0t);
 break;
 case 'i':
 case 'I':
-Kh5o5Y3Bf = (int)abs(kXl7idq);
+
 break;
 case 'j':
 case 'J':

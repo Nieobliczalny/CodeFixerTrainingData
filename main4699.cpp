@@ -593,7 +593,7 @@ if (bQ5U <= n21WC)
 }
 else
 {
-c82H = (int)abs(fGJ2);
+
 }
 }
 else if (f0hAs30yVx < -966713401)

@@ -350,7 +350,7 @@ xpoq_6 <<= 1007881592;
 break;
 case 'g':
 case 'G':
-BSHU1I9o = c665_ ^ 927462074;
+
 break;
 case 'h':
 case 'H':
@@ -414,7 +414,7 @@ break;
 
 if (k0Mpg_3K <= -302042585)
 {
-BSHU1I9o = (unsigned short int)(dwuug_cB);
+
 }
 EV7K9cl6k = nLUT7Zra | c665_;
 hnXXJ1 = (unsigned short int)(Ywf_Rc);
@@ -452,7 +452,7 @@ case 0:
 sBzCGnjh8 = T7VcE_Ju(205123650, -935495561, -1095534482, YcMb76b6E, -156893519);
 break;
 case 1:
-YcMb76b6E = T7VcE_Ju(Ywf_Rc, 1210531001, -1596044637, -1097342367, -612345747) / 1371988262;
+
 break;
 case 2:
 sBzCGnjh8 = T7VcE_Ju(VwwtiFrd4q, -57756215, 1905157877, Ab2hA20k, qa4a83g);

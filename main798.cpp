@@ -253,7 +253,7 @@ break;
 std::cout << 1885604334 / CVKP() << std::endl;
 for (int i = 10; i >= 0; --i)
 {
-s88NrL = (int)abs(XV5PbS4lqp);
+
 }
 if (CV4P & YXqnz)
 {
@@ -269,7 +269,7 @@ else if (r24l5O < -378337540)
 }
 else if (x_9YQ29 < -2027932651)
 {
-oru8utI2 = pMG4c >> 1986023413;
+
 }
 else if ((j0cIB <= DNxK1) || ((nMLi0 < I8_6) && (n_wR5_q != -89122031)))
 {
@@ -313,7 +313,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-a43IzGCgND = DNxK1 << zM9K;
+
 break;
 }
 }
@@ -325,7 +325,7 @@ else
 
 try
 {
-z32yjlLo -= AV4mZ3S;
+
 }
 catch (int& errorCode)
 {
@@ -343,7 +343,7 @@ i9_6_l = CVKP();
 
 if (lyFT0 != nMLi0)
 {
-SX34tSAAZ = K_8JMZY6HT();
+
 }
 
 for (int i = 0; i < 5; ++i)
@@ -356,7 +356,7 @@ try
 {
 if (s7a_I3D80y & YXqnz)
 {
-z32yjlLo = (short)(YXqnz);
+
 }
 else
 {
@@ -366,7 +366,7 @@ if ((nMLi0 == i9_6_l) && (d0_Z != 1349357403))
 }
 else
 {
-zM9K = (int)abs(E7D7WA6);
+
 }
 }
 }

@@ -60,7 +60,7 @@ G_MM2s--;
 }
 }
 
-B83g64T6T3 = (double)(joHY66P);
+
 
 
 {
@@ -86,7 +86,7 @@ else
 }
 }
 
-GM7w55 = Q9D02 / xDzL4;
+
 
 return 0;
 }

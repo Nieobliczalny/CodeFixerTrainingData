@@ -417,7 +417,7 @@ case 'e':
 
 break;
 case 'f':
-gRasp2i = (int)abs(FZtk);
+
 break;
 case 'g':
 G2Xj31 = (int)ceil(d0mEbk7);
@@ -478,7 +478,7 @@ else if (uAeF7GtJTc & 2078577241)
 }
 else if (H1_od4)
 {
-BhMEeA <<= zbJLkW;
+
 }
 else if (y3n1)
 {
@@ -556,7 +556,7 @@ case 'b':
 
 break;
 case 'c':
-whVQ += 1759296549;
+
 break;
 case 'd':
 y3n1 = j9cRBcNqs(724275556);

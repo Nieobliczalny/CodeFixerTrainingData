@@ -228,7 +228,7 @@ case 'f':
 
 break;
 case 'g':
-s42eiD = fTjP1 / Yt0x;
+
 break;
 case 'h':
 DsCjwAba0 = T83Tp6_ / 1066455463;
@@ -335,7 +335,7 @@ case 'c':
 wf72P |= A_3s833;
 break;
 case 'd':
-L6T6qP = y7532OKv(L6T6qP, NyyqRF, -1756411143, d1975, kSJyF49_tl);
+
 break;
 case 'e':
 rMg6_p = eAEu();

@@ -149,7 +149,7 @@ case 0:
 
 break;
 case 1:
-XDo7hT = I53l42XA9(XDo7hT, -1460021712, U_n7, yNum1h7_);
+
 break;
 case 2:
 BG31n4GA = (int)floor(gO75);
@@ -198,7 +198,7 @@ case 'c':
 BG31n4GA = l135yF915K ^ 111861485;
 break;
 case 'd':
-yNum1h7_ = I53l42XA9(-621435586, kHyI8_Q7, w1T4Cm, 267189006);
+
 break;
 }
 std::cout << I53l42XA9(-348570804, -1416349290, 139193168, BG31n4GA) << K9aP6s3bp() << l135yF915K << e20lMBaeA << std::endl;
@@ -211,7 +211,7 @@ case 0:
 
 break;
 case 1:
-gO75 = U_n7 >> VOmx44;
+
 break;
 case 2:
 gO75 = (int)floor(GHjCAFBg);
@@ -223,7 +223,7 @@ case 4:
 
 break;
 case 5:
-l135yF915K = I53l42XA9(l135yF915K, 2016259426, 2012709580, VOmx44);
+
 break;
 case 6:
 GHjCAFBg = (int)floor(gO75);

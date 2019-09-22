@@ -146,7 +146,7 @@ if (e_8Xzaq != 1443459173)
 }
 else
 {
-DHcL = (int)abs(QCj_8);
+
 }
 }
 else if (HPFN == 640154088)
@@ -174,7 +174,7 @@ if ((uL_T_9x) || (piS7yFPrZr != e_8Xzaq))
 }
 else if (AOadc8Y12R > -1433718145)
 {
-uL_T_9x = F1NH(uL_T_9x);
+
 }
 else
 {

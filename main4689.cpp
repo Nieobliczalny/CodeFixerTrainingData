@@ -34,7 +34,8 @@ unsigned int	Sh_pEj(unsigned short int	p0AxLd07a_,unsigned int	EGa0)	{
 
 int main(void) {
     int    m_g2IFJ_T_,    mCSV1ALUu,    k9F_3o,    a6Trz1NnG4,    y1zQIN,    j81c_,    nSMcuG,    lIc9,    S0US73,    S8F7Ved_se,    gU5G,    COk9189x34,    ZyypfGtC73,    DEpx9pL,    ecB5mz;
-        m_g2IFJ_T_    =    mCSV1ALUu    =    k9F_3o    =    a6Trz1NnG4    =    y1zQIN    =    j81c_    =    nSMcuG    =    lIc9    =    S0US73    =    S8F7Ved_se    =    gU5G    =    COk9189x34    =    ZyypfGtC73    =    DEpx9pL    =    ecB5mz    =    -1146393403;
+        // codechecker_intentional [deadcode.DeadStores] Design rule - initialize all variables
+		m_g2IFJ_T_    =    mCSV1ALUu    =    k9F_3o    =    a6Trz1NnG4    =    y1zQIN    =    j81c_    =    nSMcuG    =    lIc9    =    S0US73    =    S8F7Ved_se    =    gU5G    =    COk9189x34    =    ZyypfGtC73    =    DEpx9pL    =    ecB5mz    =    -1146393403;
   unsigned char  uCU_YnN0E4,  wNvVs;
     uCU_YnN0E4  =  wNvVs  =  0;
 

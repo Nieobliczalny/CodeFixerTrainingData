@@ -161,7 +161,7 @@ case 0:
 
 break;
 case 1:
-zTxhY3Y -= Sq386NT;
+
 break;
 case 2:
 QxQ6xj = (int)abs(b_3c6) + (1434651389);
@@ -236,7 +236,7 @@ else if (V__HIDMk != si1LvUF1V)
 {
 try
 {
-p6WcPN1h9 = Py_s6_de - Lg8d4Z69V;
+
 }
 catch (int& errorCode)
 {
@@ -300,7 +300,7 @@ FV9FsS = (int)abs(uqM95);
 break;
 case 'c':
 case 'C':
-Py_s6_de = xoLojBs67 * 539754526;
+
 break;
 case 'd':
 case 'D':

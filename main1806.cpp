@@ -116,7 +116,7 @@ int main(void)
 
 
 std::cout << "z7LRJ1" << std::endl;
-l1yU = iDZbm04C(706870411, -47428767, 81296673);
+
 
 x9B_g = (int)floor(CogA6j);
 
@@ -130,7 +130,7 @@ case 0:
 
 break;
 case 1:
-EeNAD_ >>= fKyh8e0;
+
 break;
 case 2:
 pBCk >>= 1901118397;
@@ -142,7 +142,7 @@ case 4:
 
 break;
 case 5:
-jK1_Gz = Fb90p9 & QzQOcSZ72O;
+
 break;
 default:
 txBG = iDZbm04C(mS6YMm7, 791455157, -2140115018);
@@ -156,7 +156,7 @@ int i = 0;
 do
 {
 i++;
-MRF53t6 = (long)(PKNThlr6);
+
 }
 while (i < 10);
 }
@@ -169,7 +169,7 @@ while (i < 5)
 i++;
 }
 }
-kRI6Iy2L = (int)ceil(S1fF1fx1t);
+
 
 {
 int i = 0;
@@ -192,7 +192,7 @@ case 1:
 j116Z3tXD = ClCk6oz6 % 171497269;
 break;
 case 2:
-OT_AVBkIBl = (int)ceil(iA19);
+
 break;
 case 3:
 eK_32 = iDZbm04C(Prlp5G, 777657189, -276456225);
@@ -204,7 +204,7 @@ case 5:
 bW3Jf1--;
 break;
 case 6:
-Fb90p9 = pRB6WA(Fb90p9, 1156967261);
+
 break;
 case 7:
 t27Q7 = iDZbm04C(Fb90p9, Jw9t6pJI_I, OT_AVBkIBl) + JTFU7E;
@@ -216,7 +216,7 @@ case 9:
 
 break;
 }
-OT_AVBkIBl = (int)floor(j116Z3tXD);
+
 
 ZSml8wpCV = K0O_LTmhBu / f5mb00Y0;
 return 0;

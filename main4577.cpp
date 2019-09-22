@@ -92,7 +92,7 @@ int main()
     long    E_6A2F;
 
     short int    Xd0ksr3_pp;
-    Xd0ksr3_pp    =    -66248392;
+
     short int    xSl2sRHUE0;
     xSl2sRHUE0    =    133738522;
   short int  pn0aX0ow_5;
@@ -112,7 +112,7 @@ int main()
     float    YaLF9mwH8;
     YaLF9mwH8    =    -1775236345;
 	float	Z9q4;
-	Z9q4	=	-78706603;
+
  unsigned long long f2Kk_;
 
  short int Uaz3zkHp0;
@@ -142,7 +142,7 @@ int main()
     long double    JQK76ZBF;
     JQK76ZBF    =    1761927690;
  long long op8O;
- op8O = -1272854554;
+
 	unsigned long long	B07u6YFN3k;
 	B07u6YFN3k	=	-932173288;
  int i09qh780h;
@@ -152,7 +152,7 @@ int main()
  long iB_j;
 
  long a_BvC;
- a_BvC = -1330293421;
+
     char    Y_08RzbH;
     Y_08RzbH    =    -720823871;
   short  D26bC;
@@ -164,7 +164,7 @@ int main()
     float    ADx_JYID7F;
     ADx_JYID7F    =    1386984825;
     unsigned long long    wqjwKPx8H;
-    wqjwKPx8H    =    1577011351;
+
     double    nM1394ZvH;
 
   unsigned int  ufbDgYcK;
@@ -180,7 +180,7 @@ int main()
     unsigned short    slOY4w5;
 
   unsigned char  sxJ2;
-  sxJ2  =  915511317;
+
     unsigned int    yh1sOi;
     yh1sOi    =    -1826672399;
   long long  iLrdY;
@@ -298,7 +298,7 @@ case 3:
 
 break;
 case 4:
-pn0aX0ow_5 = (int)abs(s0RLd);
+
 break;
 case 5:
 D5YL3_rzZ += 36288224;
@@ -356,7 +356,7 @@ case 2:
 q40A_3uB_1 = wWk0076g(rkEK8ic, oh00F0, i09qh780h, Xt5k24m6, raoNhX);
 break;
 case 3:
-j_485 *= 1612907149;
+
 break;
 case 4:
 
@@ -429,7 +429,7 @@ case 0:
 
 break;
 case 1:
-Z9q4 = (int)ceil(rHcLh8);
+
 break;
 default:
 a7227Zh3j = (int)abs(ngnJl3xDVm);
@@ -477,7 +477,7 @@ for (int k = 0; k < 1; ++k)
 }
 else if (ADx_JYID7F <= D5qn)
 {
-k8Y27 = (char)(bps3eJ + (X84_mU3tN));
+
 }
 else if (g0O5 == 677099502)
 {

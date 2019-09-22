@@ -191,7 +191,7 @@ if ((FMPw1Cuj & -1735886875) || ((S1X1__tJD != vcl4g) && (fi3BBe <= -2120873820)
 {
 cout << "tq9TOV" << er5_6zY__R << m06y6(-687086046, -1761557079, uiI9j8iqVR) << endl;
 }
-Ngnmx89V = c1Z1q(q68J, -1887650112);
+
 
 cout << S1X1__tJD / U_5ZE << endl;
 
@@ -231,7 +231,7 @@ else if (Ko08glS < Dqm2LS)
 }
 else if (DD26KLS != -727400976)
 {
-WpQCXjF = (int)(n2r8fW09V * WpQCXjF);
+
 }
 else
 {

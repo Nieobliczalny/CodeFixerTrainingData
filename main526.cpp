@@ -46,7 +46,7 @@ int k = 0;
 do
 {
 k++;
-wp0r6ty = uk8671s8(445027456) - o2tCUM;
+
 }
 while (k < 6);
 }
@@ -74,7 +74,7 @@ case 5:
 hePZYti = V96y(-259774699, bV55T71, 859855620);
 break;
 case 6:
-D79_Y = nIpf % poqRT;
+
 break;
 case 7:
 hj2FmA_0 = uk8671s8(2044687479);
@@ -93,7 +93,7 @@ case 0:
 hePZYti = V96y(-537006051, jrdaScm4_, F4xF);
 break;
 case 1:
-K9F06ThB6Z = pF843f0 - POT2IVTd6;
+
 break;
 case 2:
 oYl2h64 = V96y(qJPKm14R, F4xF, ktKxn);
@@ -111,7 +111,7 @@ case 6:
 h4n5z3 ^= I_SeM;
 break;
 case 7:
-B1i4M = l523YyO - F4xF;
+
 break;
 }
 {
@@ -135,7 +135,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-U0N4i_A7WM = V96y(222159835, 367287915, 1005474140);
+
 break;
 case 'c':
 case 'C':
@@ -150,7 +150,7 @@ case 'E':
 
 break;
 default:
-qbl_1u = uk8671s8(qbl_1u);
+
 break;
 }
 std::cout << 1750259174 / oYl2h64 << std::endl;
@@ -189,7 +189,7 @@ catch (int& errorCode)
 {
 ii84GEq = (N3vbl_1u2_ & 397496843) ? uk8671s8(142666968) : Z0fF01ypi1;
 }
-oYl2h64 = V96y(an1DV_, 2141004786, -351012886);
+
 if ((Y0_3n33 >= -1647886892) && ((ziLy5q) || (jrdaScm4_ <= poqRT)))
 {
 F4xF ^= Z0fF01ypi1;
@@ -215,7 +215,7 @@ i++;
 }
 }
 
-o2tCUM = uk8671s8(-1115997650);
+
 if (cU98C1 >= J2bkvzUd72)
 {
 std::cout << uk8671s8(-484558594) << uk8671s8(d0f06) << Y0_3n33 << uk8671s8(d0f06) << std::endl;
@@ -241,7 +241,7 @@ case 0:
 
 break;
 case 1:
-d0f06 = V96y(CfHU6z, -352724740, S9AA3O0G);
+
 break;
 case 2:
 Z0fF01ypi1 = an1DV_ % 304701865;

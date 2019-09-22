@@ -107,7 +107,7 @@ n_KpXDcS5 >>= 205051872;
 switch (n_KpXDcS5)
 {
 case 'a':
-YnKG7hIG_ = (int)abs(ZdlDE);
+
 break;
 case 'b':
 YnKG7hIG_ = (int)ceil(CMcBTmJ);
@@ -315,7 +315,7 @@ MW5S *= 483941520;
 }
 else
 {
-B1ACQnJZ = Cj_r & p7wS;
+
 }
 }
 i++;
@@ -332,7 +332,7 @@ xSuK03v |= 2796702;
 
 if ((KPYp != G6JUq_jfx) || (WV6C6367n4 > 63821838))
 {
-Rj48q8W6M = (T5li_ <= Y5sl5n) ? K498ecA6_ : Cj_r;
+
 }
 else
 {

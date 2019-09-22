@@ -27,7 +27,7 @@ int main(void)
  p8m9WK = -1877498376;
 
  w6sx = -860745809;
- LV1C = 1161851184;
+
  S72pDd496 = -1083475629;
  q_8_ = -379940516;
  rML0zX = 393778154;
@@ -42,7 +42,7 @@ int main(void)
  a7N_C = 1726901671;
  mde7sBz = 1430687155;
  tci631o0 = 616953934;
- yObVZ7u4K = 1885483698;
+
  agw1 = 422118142;
 
  qd7paZhumx = 829513170;
@@ -52,7 +52,7 @@ int main(void)
  dwgU = -1179307057;
  G4tslNE0 = -1257878820;
  Auf59 = -1562370640;
- mnHg = 1570328154;
+
  U5s49_3K = 1904065985;
  Z0P_B2i_0 = -1381848266;
  m2c6HI7Nr = -1746529086;
@@ -65,7 +65,7 @@ int main(void)
  IWz1vLn = 1602643588;
  GP65nhX = 1770222463;
  U64FPe09T = -1492733984;
- IBF5OXU1V = -211674022;
+
  U7KD4wbyj = 1484783086;
  PmLb8T8 = 1039310119;
 
@@ -75,7 +75,7 @@ int main(void)
  TPcj4n9 = -1989216543;
  q7_Z6F1fy9 = -893145507;
  RDxq0Mq = -1007313207;
- tt6REV = 429062518;
+
  HUloVFZ = -1457248187;
  Dz7O43y77P = 150698733;
  ZJ_9hs04 = -2013856604;
@@ -88,7 +88,7 @@ int main(void)
  a964dAfV = -485030520;
  EdrlB0mYsk = 1935135861;
  Uw8Nks = -1501603213;
- Rhc5 = -1652723059;
+
 
  izf79 = 1322124782;
  LnjgGI = -2145318917;
@@ -181,7 +181,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-j3wMY = g5__mZ & Auf59;
+
 break;
 case 'c':
 case 'C':
@@ -201,7 +201,7 @@ g5__mZ &= bU8L5W5;
 break;
 case 'g':
 case 'G':
-eL6pIe264o = qeYB_OT();
+
 break;
 case 'h':
 case 'H':
@@ -245,7 +245,7 @@ else
 }
 else
 {
-ZJ_9hs04 = qchvyzyF(ZJ_9hs04, TsU8398p3I, -1580801042, ZTUyO_u4d, -1461450108);
+
 }
 }
 switch (O4f1)
@@ -349,7 +349,7 @@ r4n2977bu = qeYB_OT();
 }
 else
 {
-OzrF0vjy %= 508596183;
+
 }
 }
 else
@@ -439,7 +439,7 @@ lWPqq1s3 &= IMQ5En1b;
 }
 else
 {
-ITU1NQ = (long long)(RCvyC_dsUW);
+
 }
 if ((w6sx < 261066191) && (Jy8xoJ <= -470336502))
 {
@@ -465,7 +465,7 @@ case 'a':
 
 break;
 case 'b':
-Dz7O43y77P = OsBRy >> 33398772;
+
 break;
 case 'c':
 DfU2zA = MDO4(Q519_WV5Do, -485286232, 1963900119, -1388288969, 1391565663);
@@ -477,7 +477,7 @@ case 'e':
 
 break;
 case 'f':
-G4tslNE0 += vYS0dL;
+
 break;
 case 'g':
 mnHg = OiWgMO_6Vb * 434650081;
@@ -489,7 +489,7 @@ case 'i':
 
 break;
 case 'j':
-GP65nhX -= dwgU;
+
 break;
 }
 }

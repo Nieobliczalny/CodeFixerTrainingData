@@ -32,7 +32,7 @@ int main(int argc, char** argv) {
 	long double	J59781aWk;
 	J59781aWk	=	-475434887;
     unsigned short    J3TT;
-    J3TT    =    -70046444;
+
 	unsigned long	oXB55BlR;
 	oXB55BlR	=	-723020054;
     unsigned short int    lqZ059U;
@@ -126,7 +126,7 @@ int main(int argc, char** argv) {
 	unsigned int	t9111tNEa;
 	t9111tNEa	=	-574704085;
 	long	w9WOd;
-	w9WOd	=	991146855;
+
     unsigned short int    UU3Poq;
     UU3Poq    =    0;
     unsigned char    S88ZU5dq;
@@ -253,7 +253,7 @@ else
 {
 UU3Poq = yYeS18f(-462090781, -1425284042);
 }
-X4ABK = x2gPzzO / yYeS18f(-69418956, UU3Poq);
+
 {
 int i = 9;
 do
@@ -276,7 +276,7 @@ if ((vqTB1cKxGK <= -539737103) || (BH4J == xN9xsQ5lk))
 }
 else if (Jbta7_7Fp != 929519962)
 {
-P_tZCt = (int)ceil(Wr_B3XRkA);
+
 }
 else if ((xL23rAtU) && ((v6m1z < jp0l) && (n69d0I <= cFvDj49ZL)))
 {
@@ -349,7 +349,7 @@ FNGXKXw3Hi = faSyumR4T(FNGXKXw3Hi, -587913067, -551524549, SX_uUpl);
 }
 else if (HD4f6KFe8S >= 463545771)
 {
-Wr_B3XRkA = (long double)(w360CI5J);
+
 }
 else
 {
@@ -363,7 +363,7 @@ break;
 }
 else
 {
-Q_a43770 = (int)abs(z587PI) * 0;
+
 }
 if (UU3Poq < -1350884627)
 {
@@ -386,7 +386,7 @@ i++;
 
 cout << faSyumR4T(S88ZU5dq, GUr6Z28, HybWxV1G, -40717689) << "R6Xfha2LO" << "F2O_et" << HKoPf_Uhu << endl;
 
-hw0BxkPd -= p96733US_;
+
 
 {
 int i = 10;

@@ -51,7 +51,7 @@ case 3:
 
 break;
 case 4:
-L2_LUKHGA = (int)floor(UHP5ZhH9P);
+
 break;
 case 5:
 Xv4Pr8P6 = (int)floor(Md43dj3);
@@ -264,7 +264,7 @@ KHum2 = m6l20h6(KHum2, 1735374822);
 
 if (O2BQUeA_ < 1259631931)
 {
-iYXu = VQ2YuYR(1242476880, 909312623, -240789678);
+
 }
 else
 {
@@ -330,7 +330,7 @@ case 1:
 
 break;
 case 2:
-yBJH1D18 = (int)floor(V4UTn);
+
 break;
 case 3:
 Xv4Pr8P6 = (int)ceil(Lgjzn7);
@@ -412,7 +412,7 @@ case 3:
 AP6R0GFqc9 -= 777714402;
 break;
 case 4:
-pZ9r8IX = (int)ceil(ol3w_9gyh2);
+
 break;
 case 5:
 yBJH1D18 = (int)ceil(C8pt);
@@ -424,7 +424,7 @@ case 7:
 GQ4g4Zi = KLT2b58Q0_();
 break;
 case 8:
-z81yT = (UTe3_1Q62y >= -979489572) ? E1OK6b_ : pYXeU;
+
 break;
 default:
 Lgjzn7 = m6l20h6(313912973, -629890734);

@@ -83,7 +83,7 @@ while (i >= 0)
 {
 for (int j = 6; j >= 0; --j)
 {
-v6cr643P = (unsigned long long)(T6yt0Te);
+
 }
 i--;
 }
@@ -109,7 +109,7 @@ else
 {
 for (int k = 8; k >= 0; k--)
 {
-v6cr643P = cX4y5K7 & 583686103;
+
 }
 }
 }
@@ -152,7 +152,7 @@ break;
 }
 else
 {
-puW7 = (unsigned char)(YzvPu2z3h * puW7);
+
 }
 try
 {
@@ -166,7 +166,7 @@ else
 int k = 0;
 do
 {
-x7Ek4Cx = LCK3gGV4 / Q970mQ;
+
 ++k;
 }
 while (k < 7);
@@ -248,7 +248,7 @@ case 'a':
 
 break;
 case 'b':
-puW7 = kEI_xL(mG8l2, -723009538, 1890691290, Q4813XpwQ);
+
 break;
 case 'c':
 eCUN77 = ojj5Fi(eCUN77, -1872403611, 776764226, 1233590161, -1956978409);
@@ -287,7 +287,7 @@ try
 int k = 0;
 do
 {
-x7Ek4Cx = IOpeAPMih4 % 1596371753;
+
 k++;
 }
 while (k < 7);
@@ -363,7 +363,7 @@ else if ((W3S10 >= 395115350) && ((S80R1c7TSv & -2037605686) || (B0nq & -1111216
 {
 try
 {
-Ab_IVi = XynOHQ ^ 298629264;
+
 }
 catch (int& errorCode)
 {

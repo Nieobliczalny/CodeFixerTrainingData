@@ -39,7 +39,7 @@ case 2:
 VTpGm1vuRU /= zV6_W5P;
 break;
 case 3:
-X5abupYoal = Co5R - 845886563;
+
 break;
 case 4:
 Yq0d33 = (int)abs(TqL_1u);
@@ -256,7 +256,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-Co5R = (int)abs(TqL_1u);
+
 break;
 case 'f':
 case 'F':

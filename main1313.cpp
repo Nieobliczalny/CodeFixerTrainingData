@@ -46,7 +46,7 @@ int main(int argc, char** argv) {
 	short int	EWfVJ;
 	EWfVJ	=	-940210032;
 	short int	r78O;
-	r78O	=	-1717614314;
+
 	char	L_Kj;
 	L_Kj	=	1697351616;
 	unsigned long long	aZ5Hf;
@@ -64,7 +64,7 @@ int main(int argc, char** argv) {
     short int    d8015qbd3B;
     d8015qbd3B    =    -803362387;
 	short int	JZ_0;
-	JZ_0	=	729344698;
+
     long double    cxID5I80;
     cxID5I80    =    536777519;
   long  uT8woj0U;
@@ -108,7 +108,7 @@ int main(int argc, char** argv) {
  unsigned short int U7f45G5h;
  U7f45G5h = 1531949141;
   unsigned char  g14D9OAWi;
-  g14D9OAWi  =  -1087252866;
+
     unsigned long long    nkqdjKbn;
     nkqdjKbn    =    549988285;
 	short int	z_7Es_3;
@@ -176,7 +176,7 @@ int main(int argc, char** argv) {
     unsigned int    ArsbWw;
     ArsbWw    =    -2064221978;
   unsigned char  f_H7z;
-  f_H7z  =  280237755;
+
     unsigned int    g29Wq;
 
 	long	ox_RkX4_x;
@@ -573,7 +573,7 @@ else
 }
 else if (OLv76zRQG0 == rbKY1)
 {
-fvG3QU = (int)abs(z_7Es_3);
+
 }
 else if (K834643Zpb > WZ_7R8K)
 {
@@ -583,7 +583,7 @@ if (L2FvPd5s < fIiv7g)
 }
 else if (Q8Ax < aaL0e)
 {
-aaL0e = EWfVJ - y6_r52pw;
+
 }
 else if (((cq50nn) || (czh55PdRO6 <= 1055560488)) || ((PQp9e38 >= -1430340192) && (fvG3QU <= -1318366883)))
 {
@@ -599,7 +599,7 @@ cxID5I80 = (int)floor(v7b7);
 }
 else
 {
-v7b7 *= EWfVJ;
+
 }
 }
 else
@@ -620,7 +620,7 @@ else if (OgsVDxM4 > L2FvPd5s)
 int j = 8;
 do
 {
-Q42G = (int)floor(s7b2);
+
 j--;
 }
 while (j >= 0);
@@ -690,7 +690,7 @@ case 1:
 y6_r52pw = qO3_yC1h << f7hx;
 break;
 case 2:
-Q42G = (int)ceil(SXwW5H);
+
 break;
 case 3:
 
@@ -725,7 +725,7 @@ case 'c':
 f5j0Sq_Evc++;
 break;
 case 'd':
-fvG3QU = (int)ceil(hT_1);
+
 break;
 case 'e':
 QM_63aM = (int)floor(Zuk_g5);
@@ -737,7 +737,7 @@ break;
 }
 ZQ64__5i = yt6ttTZs % 1062667807;
 
-Rr5Tl = tV0U1t735h(E0d9zuCxH, -1270162064, ZWK48) / K834643Zpb;
+
 
 cout << "y_37Wbf" << endl;
 
@@ -760,7 +760,7 @@ if (at1S & -288292749)
 }
 else if (((I0d74G9g4 >= 898510284) || (pbh40C)) || (czh55PdRO6 > -736901221))
 {
-aZ5Hf = (qi_AT2qWs4 < WZ_7R8K) ? 505200597 : L2FvPd5s;
+
 }
 else if (vXvZ == -380873323)
 {
@@ -776,7 +776,7 @@ else if ((ZQ64__5i == 434303437) && (RALBrv != ox_RkX4_x))
 }
 else if (zkFq754M64)
 {
-Ci_PAy = UtCoJKE ^ woxOM2;
+
 }
 else
 {

@@ -468,7 +468,7 @@ else if ((F1ETM != eUr7C3) && (ja_P_ & 1073120929))
 switch (NuNApF4aJ)
 {
 case 0:
-S5lbn >>= 1908692795;
+
 break;
 }
 }
@@ -509,7 +509,7 @@ case 'b':
 
 break;
 case 'c':
-HTLu0lp5 = (int)abs(fBirAD);
+
 break;
 case 'd':
 xRI6mU553s |= zSVC1H6sRw;

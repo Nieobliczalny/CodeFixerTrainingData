@@ -301,7 +301,7 @@ case 1:
 RLE9Be_4J %= 1514520544;
 break;
 case 2:
-pGsIN6 = H5YC0U >> X5vCEzB1Fw;
+
 break;
 case 3:
 ZF5O53Ft = (int)abs(pjErTj6fZ);
@@ -461,7 +461,7 @@ XqBuA1z4 -= WO5HX;
 }
 }
 }
-o6e3piX91D = (int)(J3fv09Pjv * o6e3piX91D);
+
 
 cout << cl7E656U << "K8_Scyx" << endl;
 {
@@ -573,7 +573,7 @@ case 'a':
 
 break;
 case 'b':
-nvD0JPMh ^= G_CXk21Sw;
+
 break;
 case 'c':
 bvG6v_lIhS *= eH5_F4J1h;
@@ -588,7 +588,7 @@ case 'f':
 
 break;
 case 'g':
-h4qf9l -= XqBuA1z4;
+
 break;
 case 'h':
 zs_sy |= A1cfrQIly;

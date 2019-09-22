@@ -121,7 +121,7 @@ else if ((BBP6ek_4 < hce87YB5) && (BBP6ek_4 >= -152614609))
 }
 else if (PO_U <= BBP6ek_4)
 {
-BBP6ek_4 = (int)(SqZuNLkEZ * (vL7z_gHyH));
+
 }
 else
 {

@@ -329,7 +329,7 @@ else
 }
 M0i79 = s23kZC5nl1 | o_Dia6_14;
 
-s23kZC5nl1 = (unsigned short int)(C_zQ8n);
+
 cout << Yn0033Uqx << "IA2Kk106p" << RoK1 << endl;
 
 {
@@ -377,7 +377,7 @@ case 0:
 
 break;
 case 1:
-W9LpWA7t1 += Gz_L4;
+
 break;
 case 2:
 s23kZC5nl1 = sbL9 << uKs9uQXAdL;
@@ -401,7 +401,7 @@ case 8:
 
 break;
 case 9:
-D3bs4_f7 = u7W4V % Gz_L4;
+
 break;
 default:
 d4x7e = UK3BX17 & 1051504123;

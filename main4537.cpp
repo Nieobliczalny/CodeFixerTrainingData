@@ -303,7 +303,7 @@ k++;
 }
 else if (bHOk7YSQ & 1681174694)
 {
-RfC_Nrp6 = (int)abs(e_w0V4zZ82);
+
 }
 else
 {
@@ -313,7 +313,7 @@ if (kh3KTgk8_ != 1719295451)
 }
 else
 {
-zOiqA = y3i1(-1249250945, 1092174659) - gopEqXvcs;
+
 }
 }
 }

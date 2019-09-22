@@ -168,7 +168,7 @@ else
 }
 else if (tj301gEXAV)
 {
-m38g04661 = (short int)(n4312_);
+
 }
 else
 {
@@ -227,7 +227,7 @@ case 1:
 
 break;
 case 2:
-UkiIZ = oQp_Uhtvo + O8uXEfJ50P;
+
 break;
 case 3:
 n97rQwD /= 324231085;
@@ -250,7 +250,7 @@ else if (qVwZv4u != ggAMKI)
 }
 else if (U5Vv > h3Do4lx)
 {
-i4D_TQ &= 1048820869;
+
 }
 else if (z59e__ysD)
 {
@@ -262,7 +262,7 @@ else if (H0bE0 > 50431958)
 }
 else
 {
-z59e__ysD *= g0_4Xs810n;
+
 }
 }
 }

@@ -229,7 +229,7 @@ for (int j = 0; j < 1; j++)
 }
 }
 n6i_a -= 1775326274;
-mPRS = DeWHsXHgw4 ^ 1561707714;
+
 try
 {
 g68cR2 -= 1532755013;
@@ -325,7 +325,7 @@ H_8e = (int)floor(x5T_);
 switch (MU9K)
 {
 case 0:
-g68cR2 = O4t6 * LJe9bv3Ji;
+
 break;
 case 1:
 WfO8E83 = (DeWHsXHgw4) ? Z7G1g4 : -164729472;
@@ -361,7 +361,7 @@ j++;
 int k = 9;
 do
 {
-mPRS = (int)ceil(H_8e);
+
 --k;
 }
 while (k >= 0);
@@ -396,7 +396,7 @@ i--;
 }
 }
 
-O4t6 = (MU9K <= H_8e) ? GcX0xJ6T1 : U8TLJT9fK6;
+
 
 GcX0xJ6T1 = (int)abs(pJ2MVnkf);
 

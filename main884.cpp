@@ -24,7 +24,7 @@ unsigned char    S_GpuT(unsigned int    n9Ot06O9g,short int    T7_g,unsigned lon
 int main(void)
 {
 	long long	hh9vn6;
-	hh9vn6	=	0;
+
 	char	BIEsglnY,	eIpd_gCSp,	nj12_q8,	g4v2,	pC31W,	tzyIA,	smTc2D,	tM1e3,	y3xS621vP,	HAF0sr,	dK__,	hkD305AfFY,	qnkI4V531,	VLh_9vk6,	UR049TyiT4,	m7y_6y9,	ESaB7m0,	rV_t37p,	pKzohV8Nx,	K_6Q3,	cnonC343hY,	tE3y1SS17M,	f0_5,	fu2EurrEO,	R8_IyJ8s,	Cm_8J,	n_w0,	TbbpQxA,	JrwqK,	LLv1x,	z97_w;
 
 	eIpd_gCSp	=	-1968842039;
@@ -34,7 +34,7 @@ int main(void)
 	tzyIA	=	2042158990;
 	smTc2D	=	740172221;
 	tM1e3	=	-331318570;
-	y3xS621vP	=	684234127;
+
 	HAF0sr	=	1007787735;
 
 	hkD305AfFY	=	1679753931;
@@ -45,7 +45,7 @@ int main(void)
 	ESaB7m0	=	-775433388;
 	rV_t37p	=	-180024450;
 	pKzohV8Nx	=	-1855356838;
-	K_6Q3	=	1774506113;
+
 	cnonC343hY	=	1964872168;
 
 	f0_5	=	1361107878;
@@ -55,7 +55,7 @@ int main(void)
 	n_w0	=	-2040555825;
 	TbbpQxA	=	-1070605092;
 	JrwqK	=	-980382530;
-	LLv1x	=	-1051806138;
+
 	z97_w	=	-1416877172;
 
 try
@@ -96,7 +96,7 @@ qnkI4V531 = (int)abs(z97_w);
 
 
 
-pC31W = (char)(UR049TyiT4);
+
 
 smTc2D = (char)(ESaB7m0);
 if (hkD305AfFY)
@@ -114,7 +114,7 @@ case 0:
 
 break;
 case 1:
-Cm_8J = nj12_q8 % 1032465055;
+
 break;
 case 2:
 tzyIA = (int)abs(z97_w);
@@ -126,7 +126,7 @@ case 4:
 
 break;
 case 5:
-m7y_6y9 = WC_bzrB6(304515108);
+
 break;
 case 6:
 hh9vn6 = jn1I0kV80(-2094443766, m7y_6y9);
@@ -138,7 +138,7 @@ case 8:
 
 break;
 case 9:
-hkD305AfFY = (int)abs(n_w0);
+
 break;
 }
 }

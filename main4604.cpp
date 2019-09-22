@@ -432,7 +432,7 @@ case 'a':
 a6_make4 = AsF5WVkJmN & FN292Je;
 break;
 case 'b':
-AsF5WVkJmN = (int)abs(a6_make4);
+
 break;
 case 'c':
 Ak2DC3UlLn = (int)ceil(a6_make4);

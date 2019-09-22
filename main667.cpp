@@ -54,7 +54,7 @@ int j = 0;
 do
 {
 ++j;
-gDdE3p0 = (long double)(d_uL8);
+
 }
 while (j < 4);
 }
@@ -79,7 +79,7 @@ case 'e':
 
 break;
 case 'f':
-CZ_5_i = PwWJ_9T3(MfFN);
+
 break;
 case 'g':
 MfFN += Aut3rz;
@@ -94,7 +94,7 @@ case 0:
 
 break;
 case 1:
-w71qopC_ *= C39V;
+
 break;
 case 2:
 CZ_5_i = PwWJ_9T3(zRd8jmBmg5);
@@ -123,7 +123,7 @@ xL8M = (int)abs(s2R0);
 break;
 case 'd':
 case 'D':
-X6_r5UX = (int)floor(ug6q);
+
 break;
 case 'e':
 case 'E':
@@ -134,7 +134,7 @@ ZC_Zh6Ldh = PwWJ_9T3(1644410168);
 break;
 }
 
-aa86Hz9_4c = (long double)(TQ595KM6w2);
+
 FV8k = (int)abs(e_w4aeo);
 
 cout << PwWJ_9T3(CI94X3) << PwWJ_9T3(80756213) << "vzHm" << PwWJ_9T3(CI94X3) << "Q9H6Q" << endl;
@@ -146,7 +146,7 @@ switch (ZC_Zh6Ldh)
 {
 case 'a':
 case 'A':
-pFydl3izG -= 433631113;
+
 break;
 case 'b':
 case 'B':
@@ -158,7 +158,7 @@ EM6E = (int)abs(s2R0);
 break;
 case 'd':
 case 'D':
-wJa3G = PwWJ_9T3(-673741227) ^ 608582159;
+
 break;
 default:
 
@@ -169,7 +169,7 @@ else
 {
 for (int j = 5; j >= 0; --j)
 {
-CZ_5_i = PwWJ_9T3(xL8M);
+
 }
 }
 

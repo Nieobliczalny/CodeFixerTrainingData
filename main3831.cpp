@@ -98,7 +98,7 @@ else if ((QVd3_Z02Jz != -1363403246) || (QVd3_Z02Jz))
 switch (WWwc3)
 {
 case 0:
-QVd3_Z02Jz = (int)floor(uK0_7J);
+
 break;
 case 1:
 B6kB0e6 = (int)abs(yKvH_5_Q);
@@ -116,7 +116,7 @@ case 5:
 Se0YfV *= 338272434;
 break;
 case 6:
-tD0rrNw8 = (int)floor(rdfsnT18yk);
+
 break;
 case 7:
 Z_F6Cq5KZd = B6kB0e6 / tD0rrNw8;
@@ -140,7 +140,7 @@ else if (hvkeY)
 }
 else
 {
-x615sdTzS = JF25 * 1487270717;
+
 }
 
 std::cout << "uis1" << "kU0QLu" << Z_F6Cq5KZd << W5u53 << "Pbmz42Cu" << std::endl;
@@ -211,7 +211,7 @@ case 4:
 AGg86v4hXV = yP6cb3EE0 - Qy680Az53i;
 break;
 case 5:
-JF25 -= 1776196914;
+
 break;
 }
 }
@@ -221,7 +221,7 @@ try
 {
 if (pQ7jt0cY_V == Z_F6Cq5KZd)
 {
-yKvH_5_Q = (o37yQLEbH == nus_0) ? AGg86v4hXV : -1418053773;
+
 }
 }
 catch (int& errorCode)

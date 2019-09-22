@@ -55,7 +55,7 @@ int main(void) {
  long double Er4T4me82;
  Er4T4me82 = -2030528267;
  long double qU09;
- qU09 = -852660007;
+
 	unsigned short int	pb799nh;
 	pb799nh	=	-1444145219;
 	int	K6C7y1;
@@ -200,7 +200,7 @@ eH34J = (long double)(T0up8v8S);
 switch (KDucTdy)
 {
 case 0:
-mXHdn_ |= 1371575244;
+
 break;
 case 1:
 
@@ -465,7 +465,7 @@ if ((FU_T16yHa) && (HlL9SLVPy_ != -671919120))
 {
 if ((d7728_) || (z87iWQ >= Tggj6d78))
 {
-dQ61F = (int)floor(eH34J);
+
 }
 }
 else
@@ -510,7 +510,7 @@ jga94 = (int)ceil(CbKOhCZQ);
 break;
 case 'c':
 case 'C':
-v21bWVd4 = (int)abs(SIvR3);
+
 break;
 case 'd':
 case 'D':
@@ -531,7 +531,7 @@ else
 
 }
 
-T0up8v8S = PXSuP6(T0up8v8S, VEo_b, -770540895, KDucTdy);
+
 
 switch (sf6m3)
 {
@@ -545,7 +545,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-CbKOhCZQ = (int)ceil(Er4T4me82);
+
 break;
 case 'd':
 case 'D':
@@ -557,7 +557,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-p5U7 = PXSuP6(1865569531, -72513891, 605538615, 1003170732);
+
 break;
 case 'g':
 case 'G':

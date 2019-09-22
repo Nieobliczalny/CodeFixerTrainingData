@@ -13,7 +13,7 @@ int main(int argc, char** argv) {
 
 	hMh869VxyR	=	0;
 	mnZa	=	0;
-	pwd53r	=	0;
+
 	unsigned short int	bx7bE,	sAgC8h,	yF1_,	k4yu0nH,	G2PQNf5,	YNl70,	SAs2Kx0NN_,	eSR2Pv2,	pj4q4;
 	bx7bE	=	21042674;
 	sAgC8h	=	1459652297;
@@ -23,7 +23,7 @@ int main(int argc, char** argv) {
 	YNl70	=	540474472;
 
 	eSR2Pv2	=	-664845314;
-	pj4q4	=	-1142851120;
+
 
 {
 int i = 0;
@@ -48,7 +48,7 @@ if ((-1974332345 / mnZa) < -402039454)
 
 }
 
-YNl70 = (unsigned short int)(hMh869VxyR + (-897992914));
+
 yF1_ = (unsigned short int)(sAgC8h);
 return 0;
 }

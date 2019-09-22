@@ -24,7 +24,7 @@ int main(int argc, char** argv) {
   short int  MqLN_tJ7;
 
 	long long	z1_qR;
-	z1_qR	=	-1946107287;
+
     long double    hWnI;
     hWnI    =    -242858815;
 	char	zF6dfYloQ0;
@@ -40,7 +40,7 @@ int main(int argc, char** argv) {
 	float	V5NyqKkcN;
 	V5NyqKkcN	=	-1629287847;
   double  rI1rgR;
-  rI1rgR  =  846800753;
+
   short  PcK8e;
   PcK8e  =  -1620735488;
 	long long	j8pB13KLWh;
@@ -50,7 +50,7 @@ int main(int argc, char** argv) {
 	float	tkDiEzEIB;
 	tkDiEzEIB	=	249192701;
 	unsigned long long	Q5VhhX29;
-	Q5VhhX29	=	-1705203901;
+
     float    KfGiulWA;
     KfGiulWA    =    1489048684;
   unsigned short  CVN5_iWeq;
@@ -62,7 +62,7 @@ int main(int argc, char** argv) {
 	long long	RioH_;
 	RioH_	=	0;
     unsigned long long    J50Y81J;
-    J50Y81J    =    1064543592;
+
     int    kH587q7bU;
     kH587q7bU    =    -732342393;
     unsigned int    XxJn4I;
@@ -74,7 +74,7 @@ int main(int argc, char** argv) {
 	char	FnhpeTEPy;
 	FnhpeTEPy	=	632872028;
     unsigned short    AdN8;
-    AdN8    =    1472272065;
+
 	double	q5ioQjm;
 	q5ioQjm	=	1738636563;
 	double	oMTp_xmw;
@@ -85,7 +85,7 @@ int main(int argc, char** argv) {
 switch (C66fjN9)
 {
 case 'a':
-MqLN_tJ7 = (int)abs(hWnI);
+
 break;
 case 'b':
 
@@ -97,7 +97,7 @@ case 'd':
 AdN8 = ANtrsL();
 break;
 case 'e':
-tkDiEzEIB = (int)floor(nndw9ES6);
+
 break;
 }
 
@@ -107,7 +107,7 @@ cout << "zB9_" << O37L0 << endl;
 }
 else
 {
-tY1_ = (int)floor(hWnI);
+
 }
 switch (O37L0)
 {
@@ -129,7 +129,7 @@ if (V5NyqKkcN <= -1583221501)
 hWnI = Pq0f3uBKX0(V5NyqKkcN, 1997658696, 352168545) << FnhpeTEPy;
 }
 
-tkDiEzEIB = UhfO / RioH_;
+
 
 z1_qR = (long long)(hWnI);
 tkDiEzEIB = V5NyqKkcN * 1983900078;

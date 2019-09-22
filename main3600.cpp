@@ -80,7 +80,7 @@ int main()
     unsigned char    mf2660S_KM;
     mf2660S_KM    =    -1134281999;
   float  lNRQ_1;
-  lNRQ_1  =  1725478588;
+
     long double    ZYD9KI;
     ZYD9KI    =    859442597;
   float  c3OsaAr;
@@ -98,7 +98,7 @@ for (int i = 0; i < 8; ++i)
 
 }
 
-UEvy_1Jb = bxCI3RZ << Pxo3o53I;
+
 
 if ((bKQ_Cz76b <= o2aiYIW4Ne) || (bxCI3RZ))
 {
@@ -110,7 +110,7 @@ Pxo3o53I = Ty3iF * 923458856;
 break;
 case 'b':
 case 'B':
-UEvy_1Jb = (int)ceil(bJsP6yFe6j);
+
 break;
 case 'c':
 case 'C':
@@ -210,7 +210,7 @@ D3v412s = V6z2uuL(1142825033, 515172720, an5Tt6, mf5ncu52X, -1288864921);
 }
 
 
-yw21 = xKEc93pE8h() / pmLCrL3Kd;
+
 
 std::cout << linh2Teww(D3v412s) << pmLCrL3Kd << pmLCrL3Kd << std::endl;
 

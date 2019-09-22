@@ -91,7 +91,7 @@ int main(int argc, char** argv)
 	unsigned long long	C5nNnZwYLy;
 	C5nNnZwYLy	=	1439337989;
     short    f3ScTB;
-    f3ScTB    =    -1508924980;
+
 	unsigned short int	lNHdR_;
 	lNHdR_	=	276000340;
 	unsigned char	mAw4i;
@@ -107,7 +107,7 @@ int main(int argc, char** argv)
  double nOlB8F;
 
     unsigned long    U2Rd;
-    U2Rd    =    1754090104;
+
     double    Txjsn757h;
     Txjsn757h    =    -2069807588;
 	unsigned char	O3CtAA;
@@ -121,7 +121,7 @@ int main(int argc, char** argv)
     unsigned short    N4u3Ac;
     N4u3Ac    =    -910602007;
 	unsigned short int	svRN_C;
-	svRN_C	=	0;
+
     unsigned short    N13IKa73Jd;
     N13IKa73Jd    =    2008855991;
 
@@ -158,7 +158,7 @@ case 1:
 C71xpFQIDV %= 1492781500;
 break;
 case 2:
-nOlB8F = (int)ceil(e_0V3);
+
 break;
 case 3:
 nXAlDs99R = tBi_FtR4g >> yY49y3;
@@ -197,7 +197,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-QzbnynRrH = C71xpFQIDV ^ lNHdR_;
+
 break;
 case 'c':
 case 'C':
@@ -209,7 +209,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-nXAlDs99R = KZ8P52ix0N(1657985642, -875138732, yhkR_tfc3r, 1992174442);
+
 break;
 case 'f':
 case 'F':
@@ -242,7 +242,7 @@ if (nXAlDs99R)
 }
 else if (mAw4i < -1842730805)
 {
-nOlB8F = (int)ceil(e_0V3);
+
 }
 else
 {
@@ -301,7 +301,7 @@ std::cout << L7OI177XLX(-447491742, 96403722, KTjANPGL, J67EvV_1, PYe7) << t7EVw
 
 std::cout << Txjsn757h << Dx42GBrOB << std::endl;
 
-N4u3Ac = (unsigned short)(SJ_2_OFj4O);
+
 
 return 0;
 }

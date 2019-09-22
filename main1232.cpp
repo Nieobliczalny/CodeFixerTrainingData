@@ -25,7 +25,7 @@ int main(void)
     unsigned int    XJ71;
 
 	unsigned int	qAbX;
-	qAbX	=	-1522686038;
+
 	long	R_Y3i0;
 	R_Y3i0	=	-85071325;
 	double	PP1_xkXpC;
@@ -35,7 +35,7 @@ int main(void)
     unsigned short    PXus;
 
  long double FGprx19kxP;
- FGprx19kxP = 1904016682;
+
     unsigned char    hnE77kQj;
     hnE77kQj    =    1789880508;
  char RIbp_k0G;
@@ -49,7 +49,7 @@ int main(void)
   unsigned int  LQ1XsG;
   LQ1XsG  =  1988917037;
  long long T0xD;
- T0xD = 876337492;
+
  unsigned short int fK55;
  fK55 = 907204;
     short int    L12y445Q;
@@ -59,7 +59,7 @@ int main(void)
   unsigned int  xt7Rpr45sy;
   xt7Rpr45sy  =  -1172510707;
  long vat8Sb8;
- vat8Sb8 = -1557001830;
+
   short  hHeysO1e0y;
   hHeysO1e0y  =  -1758274738;
   float  aE6F2akJI1;
@@ -69,7 +69,7 @@ int main(void)
     long long    R1x_24e;
     R1x_24e    =    -2101945264;
     unsigned long long    p8TyRV;
-    p8TyRV    =    -954131223;
+
 	unsigned short int	oC1AHQU5;
 	oC1AHQU5	=	-1432450553;
 	long long	WqjCV;
@@ -79,7 +79,7 @@ int main(void)
 	short int	nfS0Wcc;
 	nfS0Wcc	=	0;
   unsigned long  Aa7Xu;
-  Aa7Xu  =  -1058773397;
+
   char  R7gc;
   R7gc  =  -519820596;
   unsigned short  K2PQ29wknm;
@@ -89,7 +89,7 @@ int main(void)
   unsigned char  tj_y;
   tj_y  =  0;
  unsigned long rU7Az;
- rU7Az = -313890662;
+
   long long  JUu6v4t;
   JUu6v4t  =  -716007771;
   float  p4x1I;
@@ -101,7 +101,7 @@ int main(void)
 	unsigned long long	VuskC7;
 	VuskC7	=	331271452;
  unsigned long W1P0HDsVKw;
- W1P0HDsVKw = -1514298946;
+
     float    zWs_YzO;
 
   long double  e9r3613F7w;
@@ -111,7 +111,7 @@ int main(void)
     char    r54ZUO_t;
     r54ZUO_t    =    684890132;
  unsigned long W69d8u;
- W69d8u = -793555447;
+
  long VMWc;
 
     long long    V8Y0;
@@ -121,7 +121,7 @@ int main(void)
     unsigned int    m0jMlfOtQ9;
     m0jMlfOtQ9    =    2073459941;
     long double    ypKUn6;
-    ypKUn6    =    -1566581841;
+
 	int	K3R2gMi3pE;
 
     unsigned long long    sa_QyCV1D4;
@@ -131,7 +131,7 @@ int main(void)
   unsigned short  cSnxMFc;
   cSnxMFc  =  1460290976;
 	unsigned short int	srKah;
-	srKah	=	-1093718157;
+
  unsigned short int n0fXr8q5y;
 
 

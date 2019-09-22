@@ -32,7 +32,7 @@ WUWf_OK &= qUYty12;
 }
 else
 {
-yzu3_l1 = (int)abs(R1cI);
+
 }
 }
 }

@@ -29,7 +29,7 @@ int main(int argc, char** argv) {
 
     BZFArL    =    1324525130;
     int    EAk_js,    UY4EyNU8,    QpV8Fsnh2,    BwUq5n;
-    EAk_js    =    0;
+
     UY4EyNU8    =    0;
     QpV8Fsnh2    =    0;
     BwUq5n    =    0;
@@ -73,7 +73,7 @@ if (zR4M <= yxpR_gnx)
 {
 try
 {
-BwUq5n = (int)abs(QpV8Fsnh2);
+
 }
 catch (int& errorCode)
 {
@@ -148,7 +148,7 @@ case 'D':
 yxpR_gnx = ek9F9b - wZk_6TNGz;
 break;
 default:
-Jlybdm3B %= 1603539786;
+
 break;
 }
 
@@ -183,7 +183,7 @@ std::cout << J0MPNzB97s << m34n_d7 << std::endl;
 ++i;
 }
 }
-bGcbqJ = uQS834HQbP / UY4EyNU8;
+
 if ((dT69) || (yxpR_gnx != Q6z3ubb))
 {
 U_y8sd = m34n_d7 + UY4EyNU8;
@@ -193,7 +193,7 @@ wZk_6TNGz <<= kjea5f12;
 
 if (p6XQKKmhGo < 312537511)
 {
-Jlybdm3B = U_y8sd - 1067691900;
+
 }
 else
 {

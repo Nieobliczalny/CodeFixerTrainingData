@@ -319,7 +319,7 @@ if (Q0sva < -724483148)
 switch (sKb1)
 {
 case 'a':
-Ssn7E = (int)abs(Gmma6J4);
+
 break;
 case 'b':
 p82IPW4i = (int)floor(F8RVzxIm5);
@@ -636,7 +636,7 @@ case 'b':
 
 break;
 case 'c':
-Ssn7E = (int)ceil(ytlut1i5);
+
 break;
 case 'd':
 d9SgoKI = (int)ceil(KeI0C);
@@ -651,7 +651,7 @@ case 'g':
 N6aqA8i3D /= 1916302916;
 break;
 case 'h':
-tc4c3kuDS = Gmma6J4 + Po9_n1Dk2;
+
 break;
 case 'i':
 f_66 = N6aqA8i3D / 1514571080;

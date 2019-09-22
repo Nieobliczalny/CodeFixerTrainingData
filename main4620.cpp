@@ -323,7 +323,7 @@ if ((Kw8lX6 <= Pc9GR0_g80) && (PJ303aCuQ == M7t0Q))
 }
 else
 {
-E92Mm7R = z6IKh6 - 747608800;
+
 }
 }
 }
@@ -335,7 +335,7 @@ for (int j = 0; j < 1; j++)
 R9I4w %= 1062754349;
 }
 }
-APN47dX1i2 %= 1570258729;
+
 {
 int i = 10;
 while (i >= 0)
@@ -384,7 +384,7 @@ case 0:
 PJ303aCuQ = sW34OhF_R(222703293, 622417214, Th_3);
 break;
 case 1:
-Pc9GR0_g80 += 1723818017;
+
 break;
 case 2:
 
@@ -396,7 +396,7 @@ case 4:
 PJ303aCuQ = sW34OhF_R(436788724, -1176109063, gxC_0o);
 break;
 default:
-gxC_0o /= 1754838218;
+
 break;
 }
 std::cout << "o22el" << std::endl;

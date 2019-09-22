@@ -20,7 +20,7 @@ int main(int argc, char** argv)
 DJ8EkG67QG = IORw();
 
 
-Sudons5u += GZWWK6F9;
+
 
 PfDWAe1p8 = (int)abs(YqNYy9);
 
@@ -39,7 +39,7 @@ PfDWAe1p8 = Ft2K9(-595198351, 1022180288, WbTQt4xhr);
 
 hG3k = IORw();
 
-Ik8tko = IORw();
+
 if (owvxKtFJEN & -647336193)
 {
 for (int j = 0; j < 8; ++j)
@@ -119,7 +119,7 @@ PfDWAe1p8 = (int)abs(YqNYy9);
 break;
 case 'b':
 case 'B':
-AOrTlD = Lan5YTHd97 & I4dCPs;
+
 break;
 case 'c':
 case 'C':
@@ -131,7 +131,7 @@ YqNYy9 = Ft2K9(1834681637, 1314231022, SjHb9);
 break;
 case 'e':
 case 'E':
-IJlIoQg %= 1875264343;
+
 break;
 case 'f':
 case 'F':
@@ -159,7 +159,7 @@ case 2:
 PfDWAe1p8 = Ft2K9(AD55002, K3cV6Y, g1JYI5oof);
 break;
 case 3:
-HC4Dnj &= 881942869;
+
 break;
 case 4:
 U__t9CF_p %= 1962289072;
@@ -171,7 +171,7 @@ case 6:
 jS7I1LxaI = IORw() << 1595578032;
 break;
 case 7:
-aVZbJ = Ft2K9(AD55002, 1937336245, g1JYI5oof) >> 2078267274;
+
 break;
 default:
 bY1pf_C27 = IORw() / W63wN2Q;

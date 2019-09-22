@@ -545,7 +545,7 @@ if ((dCJF != 1019144029) && (aXp_bZ > 1459317993))
 
 IEx9sDIp = (int)floor(dCJF);
 
-zi2HqM = (unsigned short)(W18kUXw);
+
 
 {
 int i = 0;
@@ -605,7 +605,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-rBqTB7_ = (int)floor(wwkb_);
+
 break;
 case 'd':
 case 'D':

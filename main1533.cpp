@@ -27,7 +27,7 @@ int main(int argc, char** argv) {
  unsigned short int VgoH;
  VgoH = -521650552;
 	int	b1WPrWIn;
-	b1WPrWIn	=	-1578415714;
+
 	short	R46XeI;
 	R46XeI	=	-1886608303;
 	unsigned long	dieUKiRBv;
@@ -47,7 +47,7 @@ int main(int argc, char** argv) {
     short    Z6N9Tqq5J;
     Z6N9Tqq5J    =    431926009;
 	unsigned short	l2JC4kJ1du;
-	l2JC4kJ1du	=	1960120433;
+
     unsigned char    RBvd5Ai1v;
     RBvd5Ai1v    =    0;
 	unsigned long	c_gWByc;
@@ -228,7 +228,7 @@ else if ((YNhw0Q <= -1122711930) || (VgoH <= PJ0G44))
 switch (hkHJ)
 {
 case 0:
-R46XeI = kgK36__x0t ^ VgoH;
+
 break;
 case 1:
 OFYPV3t = c_gWByc | 2064570503;
@@ -240,7 +240,7 @@ case 3:
 bFzX0 = eQhouvrA5g - VkWG7WS;
 break;
 case 4:
-m6rMZk5L <<= 1898020155;
+
 break;
 case 5:
 hkHJ |= 443249241;
@@ -267,7 +267,7 @@ while (k < 2)
 }
 else if (c_gWByc == 1408937172)
 {
-LpoQ = (int)ceil(PJ0G44);
+
 }
 else if ((Z6N9Tqq5J > eQhouvrA5g) || ((eQhouvrA5g != yGl2) && (R46XeI > -1329421820)))
 {
@@ -287,7 +287,7 @@ else
 {
 try
 {
-bFzX0 |= 1896391956;
+
 }
 catch (int& errorCode)
 {
@@ -301,7 +301,7 @@ else if ((VkWG7WS & kgK36__x0t) || ((xt6DuPQ3Kk < -1768007445) && (kgK36__x0t ==
 }
 else if (On8_pA <= r_Q78)
 {
-Uvh3xPa4l = (int)ceil(SFAEF100f);
+
 }
 else
 {

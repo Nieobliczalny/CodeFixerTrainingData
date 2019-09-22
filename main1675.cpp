@@ -239,7 +239,7 @@ if (H9AY < 435882623)
 }
 else
 {
-pCt19p_s = pCt19p_s % 915222331;
+
 }
 }
 else if ((hJRCG7Tu > -349108585) || (aBR1 < -633495235))
@@ -264,7 +264,7 @@ zE_yhI = (int)abs(aBR1) + (1448328343);
 break;
 case 'c':
 case 'C':
-hJRCG7Tu = (int)abs(aBR1);
+
 break;
 case 'd':
 case 'D':
@@ -292,7 +292,7 @@ case 'I':
 break;
 case 'j':
 case 'J':
-pCt19p_s ^= 770764339;
+
 break;
 }
 }

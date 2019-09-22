@@ -14,7 +14,7 @@ int main() {
     long long    zL4OVif;
     zL4OVif    =    -537813292;
   unsigned long long  Y2yn_B_8_r;
-  Y2yn_B_8_r  =  -1310771775;
+
     int    r5F2mhHj;
     r5F2mhHj    =    -873464245;
   int  AR396_S;
@@ -66,7 +66,7 @@ int main() {
     short    nv075Q1;
     nv075Q1    =    -1406233404;
     double    tWwWr_k9a;
-    tWwWr_k9a    =    1845044904;
+
     short int    W415OLd;
     W415OLd    =    2070764907;
   short  m795V;
@@ -189,7 +189,7 @@ case 'a':
 Z_7IhTV = QmV6Xp % h9150Yp;
 break;
 case 'b':
-tWwWr_k9a = (int)ceil(hej6);
+
 break;
 case 'c':
 y4vE7js = oAllp & 530438688;
@@ -256,7 +256,7 @@ case 3:
 NB8mUtqW = E6O6s2iN7 << X4cYZ;
 break;
 case 4:
-szL7q0 = (int)floor(GsTmE);
+
 break;
 case 5:
 dQl_z8_Chd |= h9150Yp;
@@ -345,7 +345,7 @@ else if (CVMRu1 < -160417828)
 }
 else
 {
-tWwWr_k9a = (int)ceil(MIBW);
+
 }
 }
 }
@@ -360,7 +360,7 @@ ts76wY2Sz <<= N75of1j3;
 }
 }
 }
-r5F2mhHj = (int)abs(n88upg);
+
 cout << "MDSDdA_ndb" << endl;
 
 ZnY4 = (int)ceil(SQ19N3Pu);
@@ -371,7 +371,7 @@ case 0:
 JH0F3wRO = oAllp & 1628605673;
 break;
 case 1:
-r5F2mhHj = nv075Q1 << 1219085060;
+
 break;
 case 2:
 
@@ -436,7 +436,7 @@ L2ay7 = (int)abs(C2R9gs);
 
 try
 {
-szL7q0 = (int)abs(hzChB_3);
+
 }
 catch (int& errorCode)
 {
@@ -495,7 +495,7 @@ j++;
 }
 else
 {
-MIBW = UkV_I | 128824084;
+
 }
 return 0;
 }

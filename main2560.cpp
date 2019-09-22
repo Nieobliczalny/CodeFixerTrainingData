@@ -122,7 +122,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-dT449pMT = uAMK >> UWP7o7;
+
 break;
 }
 if ((-1131136919 / n4B7B3XIbF) >= 1066621807)
@@ -139,7 +139,7 @@ case 1:
 
 break;
 case 2:
-uAMK = (int)abs(LSNI);
+
 break;
 case 3:
 n4B7B3XIbF = IQU5c3d9C(KJ1PY, 1072560452, T9_AmGSY3r, 568731039, -1147191412);
@@ -154,7 +154,7 @@ do
 {
 try
 {
-ucEV = nt4XAIOm6();
+
 }
 catch (int& errorCode)
 {
@@ -230,7 +230,7 @@ i--;
 }
 
 
-ATbUTDV4k &= ogH9Q13;
+
 
 {
 int i = 0;

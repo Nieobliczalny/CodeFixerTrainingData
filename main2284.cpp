@@ -35,7 +35,7 @@ int main(int argc, char** argv) {
  short int nuVa4cNh5;
  nuVa4cNh5 = 0;
  long long ud28gK;
- ud28gK = 0;
+
   unsigned long long  P975_Ce;
   P975_Ce  =  1587275970;
   unsigned short int  y6s615rTj;
@@ -142,7 +142,7 @@ case 'a':
 z_qF = (int)abs(Qs11);
 break;
 case 'b':
-nuVa4cNh5 = (int)abs(z_qF) * 0;
+
 break;
 case 'c':
 
@@ -161,7 +161,7 @@ case 'g':
 break;
 }
 
-Y58bO1g = (Mb8E & -385610250) ? 73812910 : -488931718;
+
 
 return 0;
 }

@@ -176,7 +176,7 @@ int j = 7;
 while (j >= 0)
 {
 --j;
-MThiO = (unsigned short)(Cs7C0Edd);
+
 }
 }
 }
@@ -188,7 +188,7 @@ do
 {
 if (AtCTfI < EE48)
 {
-oZM9P = p31GmJFQ6l();
+
 }
 j++;
 }
@@ -216,7 +216,7 @@ int k = 1;
 do
 {
 k--;
-L1MRMpA_4C = XTxYs();
+
 }
 while (k >= 0);
 }
@@ -231,7 +231,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-AgVIXwsW = (int)ceil(S6K298);
+
 break;
 case 'c':
 case 'C':
@@ -247,7 +247,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-oZM9P = (int)floor(S6K298);
+
 break;
 case 'g':
 case 'G':
@@ -346,7 +346,7 @@ while (j < 3);
 }
 }
 
-tyNy8j1 |= 276031697;
+
 
 for (int i = 0; i < 6; i++)
 {

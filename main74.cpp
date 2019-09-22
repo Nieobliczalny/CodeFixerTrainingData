@@ -418,7 +418,7 @@ case 'd':
 hNd045 <<= ofPXg;
 break;
 default:
-lenPkf1fm = FB9qT ^ 1313180907;
+
 break;
 }
 }

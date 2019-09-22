@@ -39,7 +39,7 @@ try
 switch (r8pBZ_L6Q)
 {
 case 0:
-H_E0348oG8 /= 1198713192;
+
 break;
 case 1:
 
@@ -51,7 +51,7 @@ case 3:
 B6p0s_zuak = (int)abs(w_8_zA8o_);
 break;
 case 4:
-eIj9d = (H10jRX_N > -570893912) ? D3E6ap_ : -1018242553;
+
 break;
 case 5:
 w_8_zA8o_ = B5O7Y6_(CMTvNpO, 1566625816, o_PeiJ);
@@ -76,7 +76,7 @@ else if (r8pBZ_L6Q <= -735501624)
 {
 try
 {
-wST591 = (unsigned short int)(Nlm17);
+
 }
 catch (int& errorCode)
 {
@@ -121,7 +121,7 @@ Xs_DhNkP = n9wq4O(509649706, 2100656856, -610508063, -695590666);
 }
 
 
-yTao_L_3 = (unsigned short int)(TCekPj);
+
 
 if (OBSX > -228779575)
 {

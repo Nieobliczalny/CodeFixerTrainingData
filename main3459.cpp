@@ -42,7 +42,7 @@ int main(int argc, char** argv) {
 
   VNv4  =  -795931728;
   q3h2r  =  -1362462385;
-  x7_3b  =  2132638660;
+
   WBWHc1  =  1833671835;
   AK5o23VU5s  =  723321286;
   Q_toGj3O0  =  -250911553;
@@ -282,7 +282,7 @@ if ((Hw7z0K33wb) && (AZqmJ7u5m0))
 }
 else
 {
-ch283 = DeK1() * 22307440;
+
 }
 }
 else

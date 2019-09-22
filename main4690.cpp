@@ -217,7 +217,7 @@ case 8:
 GO61 = GO61 ^ tW7NqXQ;
 break;
 case 9:
-i4_WIyg = F2k9udW % 1184845981;
+
 break;
 }
 if (wA07Dol5K & -769818277)
@@ -238,7 +238,7 @@ tl52C <<= 1232027301;
 }
 else if (xR79 & x876khR6N)
 {
-i4_WIyg = Tc9C & tW7NqXQ;
+
 }
 else if ((VFim0ox5) || ((oEpJ > x876khR6N) || (H4s_ & 2126167499)))
 {

@@ -154,7 +154,7 @@ else
 
 AS089 = (unsigned long)(y2Yt);
 
-mtpMf17G = (unsigned long)(y2Yt * mtpMf17G);
+
 
 Sns_ = (unsigned long)(jmDP4G20_c);
 if (((KXfUPZyR >= H5hSib) || (z3slOO1e <= -731103442)) || (AS089 > 477120428))
@@ -255,7 +255,7 @@ else
 }
 else if (jXDR6FV < 538197017)
 {
-Sns_ = (unsigned long)(BmB3GH4W_);
+
 }
 else if ((Cf4Vs7t < 768387054) || ((g7ZvCrc02W) && (y2Yt <= jXDR6FV)))
 {
@@ -265,7 +265,7 @@ else
 {
 
 }
-y2Yt = d24IW5 >> KyIk4Dli;
+
 
 {
 int i = 5;

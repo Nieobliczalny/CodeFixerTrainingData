@@ -30,7 +30,7 @@ unsigned int	kBhm4Wf0w(unsigned long	qxBw33D65,char	vZKs_zO_,int	aaX4)	{
 
 int main(int argc, char** argv) {
 	int	jI8Mr4y9KY;
-	jI8Mr4y9KY	=	-1773552286;
+
   char  OQ7lpmLqX2;
   OQ7lpmLqX2  =  -2017530905;
   unsigned int  H04lD_6;
@@ -48,7 +48,7 @@ int main(int argc, char** argv) {
 	unsigned int	t0W2;
 	t0W2	=	1570745227;
     unsigned long    yqkT;
-    yqkT    =    -1717816355;
+
   unsigned long long  X4Z532tbVs;
   X4Z532tbVs  =  -1444370043;
  unsigned long IqOTYXc_Gp;
@@ -72,7 +72,7 @@ int main(int argc, char** argv) {
 	long	IZqmC1a;
 
 	char	yj1HB01aGE;
-	yj1HB01aGE	=	1212876243;
+
     long long    U3UByUPq;
     U3UByUPq    =    1856587549;
   float  R9FU;
@@ -86,7 +86,7 @@ int main(int argc, char** argv) {
   float  UX51ftQk;
 
  unsigned short sZ3g5oFH;
- sZ3g5oFH = 1731521825;
+
  short v5pC;
  v5pC = -8563736;
  char LW9Jk;
@@ -100,7 +100,7 @@ int main(int argc, char** argv) {
     long    n_9n2Y_6_p;
     n_9n2Y_6_p    =    431309308;
   unsigned char  IMr_1N7;
-  IMr_1N7  =  29817374;
+
   unsigned short  TR3KWFeF;
   TR3KWFeF  =  1147201522;
     long double    cnL6pxJWf;
@@ -112,7 +112,7 @@ int main(int argc, char** argv) {
  double Xk6WM1d;
  Xk6WM1d = 1954714373;
   long  ham3Mpf;
-  ham3Mpf  =  684415163;
+
 	unsigned long	zDZn;
 	zDZn	=	-1704750382;
     short int    fZ3cU;
@@ -130,7 +130,7 @@ int main(int argc, char** argv) {
   unsigned char  Hv4m162;
   Hv4m162  =  -1671746714;
  float Jb6472A;
- Jb6472A = -1401973860;
+
 
 PBnAxvO |= cCaVU9d;
 
@@ -158,7 +158,7 @@ case 1:
 n6e8vf0f--;
 break;
 case 2:
-g3M0Vg90_H = kBhm4Wf0w(Hv4m162, 979269528, fFu1jPffI) >> 60603097;
+
 break;
 case 3:
 OQ7lpmLqX2 *= 1873187372;
@@ -170,7 +170,7 @@ case 5:
 H04lD_6 = XFn0N();
 break;
 case 6:
-R9FU = oC_M46z(1066198190, 18655226, t0W2, jUi_D_l, -834726852);
+
 break;
 case 7:
 g3M0Vg90_H = (int)abs(n_9n2Y_6_p);
@@ -196,7 +196,7 @@ case 0:
 
 break;
 case 1:
-JKy14Ro5 = XFn0N();
+
 break;
 case 2:
 v1_F /= 1507446178;
@@ -269,7 +269,7 @@ else
 
 }
 
-w5mJFc = Xk6WM1d / xp9qND_;
+
 
 {
 int i = 2;
@@ -297,7 +297,7 @@ if (XOG_5PS5x3)
 }
 else
 {
-XOG_5PS5x3 = (int)ceil(gzaYXv_QF);
+
 }
 }
 }

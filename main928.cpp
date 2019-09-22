@@ -415,7 +415,7 @@ case 3:
 JV4q_GQmy = d0_0q8pi80 << eK0_4Jr;
 break;
 case 4:
-JDL1_7 >>= 1712876811;
+
 break;
 case 5:
 lhpDI_9x = iaze & 939266377;
@@ -444,7 +444,7 @@ if (DIv__08SJ2 == wwwq7z)
 int j = 0;
 do
 {
-JDL1_7 = (long)(Hm7U1zYSeD);
+
 j++;
 }
 while (j < 10);
@@ -473,7 +473,7 @@ case 2:
 IVzKrJix = wt4FN(-1442851205, rxa87C, IVzKrJix, 1147200590, -673250377);
 break;
 case 3:
-E4bu = (int)ceil(B2zU_w3U4);
+
 break;
 case 4:
 nR1i7211Q6 = nR1i7211Q6 << EFwjAH;
@@ -488,7 +488,7 @@ case 7:
 B99Oo8eMa = DgR1dR_c_n(-2098726349, -311485695, IVzKrJix) | 1647886812;
 break;
 case 8:
-jX8v = (int)floor(E4bu);
+
 break;
 default:
 p72qO5_ = DgR1dR_c_n(p72qO5_, DIv__08SJ2, -923985740);

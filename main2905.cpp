@@ -82,7 +82,7 @@ switch (xnyLy134)
 {
 case 'a':
 case 'A':
-bZ5TL0v4o = EE7126(bZ5TL0v4o, 1193921473);
+
 break;
 case 'b':
 case 'B':
@@ -94,7 +94,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-BFmb_ = x5eH(-185301598, I660Q_6h2, W6RCN, yYV8D5);
+
 break;
 case 'e':
 case 'E':
@@ -125,7 +125,7 @@ case 'c':
 W6RCN = EE7126(W6RCN, 1206686089);
 break;
 default:
-x0g92Ts1 = oS073287 * gRl93;
+
 break;
 }
 }
@@ -162,7 +162,7 @@ HVM_9 = i9Iq(tBB7S0u2J8, -1189576050, -61881740, go0q57, h4XSk);
 break;
 case 'c':
 case 'C':
-go0q57 = lH6821zz(-1285019706, sT34AW, JE7_o7F_V);
+
 break;
 case 'd':
 case 'D':
@@ -184,7 +184,7 @@ break;
 
 std::cout << EE7126(2032592957, tBB7S0u2J8) << "X8vw" << i9Iq(R01_, -751622153, gRl93, 1028000953, 404247514) << E1H11LAe8 << std::endl;
 
-pSIBN_EtL = (unsigned char)(g05i);
+
 if (CY146Oy_R < R01_)
 {
 {
@@ -202,7 +202,7 @@ else if ((v8a877 <= -1305482243) && (Ak14R9dppS <= -22745516))
 }
 else if ((oS073287 <= -788973337) && (tBB7S0u2J8 == HVM_9))
 {
-xp_0XTCw_L = (unsigned char)(eilto5Bp);
+
 }
 else
 {
@@ -212,7 +212,7 @@ case 0:
 
 break;
 case 1:
-HVM_9 = i9Iq(R01_, 1793635064, HroL08, tBB7S0u2J8, 410938226);
+
 break;
 case 2:
 I660Q_6h2 = VvV8Hc7XK_ ^ 702208510;

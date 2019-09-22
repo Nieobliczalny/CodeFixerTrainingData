@@ -54,7 +54,7 @@ for (int j = 0; j < 9; j++)
 }
 else
 {
-s3EwZ63ub = FNs6lG9w0();
+
 }
 
 try
@@ -160,7 +160,7 @@ case 'a':
 
 break;
 case 'b':
-gm0H4yj = zf060Kpi8(gm0H4yj, c2kdxDyN, jehvc);
+
 break;
 default:
 sJ6I4_w = mPGFB1j + eF84w_dB;
@@ -205,7 +205,7 @@ hm83Gdy = mbmO / Q5UsBz;
 
 cout << FNs6lG9w0() / AuGB1gid << endl;
 
-DsgH = (long long)(GJ_3);
+
 mbmO = (long long)(hay6w3xgqV);
 
 for (int i = 0; i < 6; ++i)
@@ -237,7 +237,7 @@ while (i < 4)
 }
 }
 
-s3EwZ63ub = (short)(swM2u0s0r);
+
 if (jehvc >= -942365977)
 {
 for (int j = 6; j >= 0; j--)
@@ -263,7 +263,7 @@ case 5:
 fi8T2k |= z25WA9_QC;
 break;
 case 6:
-IO26 = BlTwqZ(1534439467);
+
 break;
 case 7:
 rT6l_w606 = BlTwqZ(rT6l_w606);
@@ -313,7 +313,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-F9v_77 = (int)abs(U_783j);
+
 break;
 case 'c':
 case 'C':
@@ -329,7 +329,7 @@ XFCY = eoxiGgkWM(XFCY, RZAkL0, -39785487);
 break;
 case 'f':
 case 'F':
-swM2u0s0r = FNs6lG9w0();
+
 break;
 case 'g':
 case 'G':

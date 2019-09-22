@@ -127,7 +127,7 @@ i--;
 while (i >= 0);
 }
 
-H63a796fb = D80mS / GL8W7CrTe;
+
 cout << "ZLR73hCc" << "T1X7" << endl;
 
 NVUBW = (unsigned long)(GL8W7CrTe + (-671539184));

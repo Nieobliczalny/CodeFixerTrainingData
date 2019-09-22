@@ -29,7 +29,7 @@ int main(int argc, char** argv) {
   unsigned short int  fs6PSw5h5d;
   fs6PSw5h5d  =  -939490738;
  unsigned short int mZ7XRdYkp5;
- mZ7XRdYkp5 = -521912947;
+
   unsigned short int  qJ4QdRm9;
   qJ4QdRm9  =  861714382;
  long GK7_l2YF;
@@ -65,7 +65,7 @@ int main(int argc, char** argv) {
   float  oEG330n8;
 
   unsigned long  AF2F;
-  AF2F  =  1619117744;
+
     long long    y_4k53;
     y_4k53    =    -1563746099;
 	unsigned int	b39Fl806J;
@@ -111,7 +111,7 @@ int main(int argc, char** argv) {
   unsigned char  XN_LrS;
   XN_LrS  =  513127993;
   unsigned long long  It6ToL6e;
-  It6ToL6e  =  306585962;
+
     char    D21EsGH;
     D21EsGH    =    -319155970;
  char n_LNl9Y;
@@ -123,7 +123,7 @@ int main(int argc, char** argv) {
  unsigned long long tJ1N3vgd;
  tJ1N3vgd = -586246625;
  unsigned int hS8gd3;
- hS8gd3 = -2128575523;
+
     float    Dn5jGU;
     Dn5jGU    =    -1334086573;
     unsigned long long    L_YK;
@@ -133,7 +133,7 @@ int main(int argc, char** argv) {
  unsigned long GU4ub;
 
  unsigned short W_a23_5wBR;
- W_a23_5wBR = -1861765694;
+
  int ez136JS2vJ;
  ez136JS2vJ = -1729333610;
 	long	Fd1MF;
@@ -180,7 +180,7 @@ else
 }
 else
 {
-E7Gr56KM >>= RK1lm99Pp;
+
 }
 }
 switch (TfnzHj9q)
@@ -205,7 +205,7 @@ switch (S_3xAlgxL)
 {
 case 'a':
 case 'A':
-mve5o6_1 = (int)ceil(bwb33);
+
 break;
 case 'b':
 case 'B':
@@ -217,7 +217,7 @@ R14Iyi1 = mve5o6_1 + 1286618418;
 break;
 case 'd':
 case 'D':
-mve5o6_1 = (int)abs(f55I01ZFzX);
+
 break;
 case 'e':
 case 'E':
@@ -241,7 +241,7 @@ q5s95mPRO0 = (int)floor(TDg9);
 }
 else
 {
-mve5o6_1 = (int)floor(K5LCC);
+
 }
 }
 }
@@ -337,7 +337,7 @@ else if ((vsLrTNi <= -113714406) || (n_LNl9Y <= -1041228681))
 }
 else if (g1x5Zn2 < -1220355451)
 {
-K5LCC = (int)ceil(Dn5jGU);
+
 }
 else
 {
@@ -362,7 +362,7 @@ else
 {
 if (D21EsGH == -260459527)
 {
-S_3xAlgxL = r0AWK5Jb(S_3xAlgxL, RlnX_2, K5LCC);
+
 }
 else if (L97Y_1N8 & 1745686273)
 {
@@ -436,7 +436,7 @@ case 'a':
 
 break;
 case 'b':
-U3hPt1t6 = unB0(-297441861, -1989179629, N5vJiflf, 1663270831);
+
 break;
 case 'c':
 bU76o3 = mp1t0UO1(bU76o3, L97Y_1N8);
@@ -457,7 +457,7 @@ break;
 }
 else
 {
-S_3xAlgxL = (unsigned long long)(oEG330n8);
+
 }
 
 if ((oEG330n8 / mFWlSWW6) != 875561139)

@@ -24,7 +24,7 @@ int main() {
 	TCFU2_	=	0;
   unsigned long long  Ty4TziU2,  tC4wCKKr1,  Mfi8SN10fs,  HI3XwfcH,  I_q68Nu8X,  Rh0V,  V6uhpQuE,  Av1X9,  SU12mOUl9A,  N596k6,  OUChNqE,  qheSGhc2Xw,  TXUzQ_,  P9ep,  ZOMm0e_,  t06K00,  iwq88Tdq3I,  HV609dX,  Fkrx,  B05GM,  V366Mzx,  Y6osoa,  jWawVfmeuf,  I_7LIu,  L4JF_,  JfK_2Zz5,  Lazi3Nt9,  Z2nsm9EK,  GLHTxCbm,  B7cZ,  sH0__H9a8;
 
-  tC4wCKKr1  =  41705533;
+
   Mfi8SN10fs  =  -1451477479;
   HI3XwfcH  =  -1720655485;
   I_q68Nu8X  =  523867128;
@@ -39,7 +39,7 @@ int main() {
   P9ep  =  -1249962152;
 
   t06K00  =  -1147809207;
-  iwq88Tdq3I  =  -772302542;
+
   HV609dX  =  1748900412;
   Fkrx  =  319121991;
   B05GM  =  274648809;
@@ -49,7 +49,7 @@ int main() {
   I_7LIu  =  601930624;
   L4JF_  =  -268859643;
 
-  Lazi3Nt9  =  -54041832;
+
   Z2nsm9EK  =  357845413;
   GLHTxCbm  =  -1750748723;
   B7cZ  =  -1687671147;
@@ -96,7 +96,7 @@ sH0__H9a8 &= 2108822540;
 }
 else if (TXUzQ_ <= N596k6)
 {
-Mfi8SN10fs = F3N9RLX();
+
 }
 else
 {
@@ -142,7 +142,7 @@ while (i < 9);
 }
 
 
-L4JF_ = (unsigned long long)(GLHTxCbm);
+
 
 std::cout << "G5Ika2xh" << "DQBs7" << std::endl;
 

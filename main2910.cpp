@@ -33,7 +33,7 @@ int main(int argc, char** argv)
     long    F4oKZC64ZJ;
     F4oKZC64ZJ    =    -533161229;
     unsigned long long    PI_l05sbzQ;
-    PI_l05sbzQ    =    854116881;
+
   int  K4O3J;
   K4O3J  =  0;
 	long	XKJiZic9;
@@ -55,7 +55,7 @@ int main(int argc, char** argv)
     double    xnZBk2U3Ee;
     xnZBk2U3Ee    =    -1839089510;
   float  ddMU6W6HNA;
-  ddMU6W6HNA  =  -267595675;
+
   long long  Y_hww0Sd;
   Y_hww0Sd  =  0;
     long    biFla;
@@ -95,7 +95,7 @@ case 1:
 F4oKZC64ZJ = XKJiZic9 << 1460354632;
 break;
 case 2:
-ddMU6W6HNA = (int)floor(xnZBk2U3Ee);
+
 break;
 }
 }
@@ -203,7 +203,7 @@ for (int i = 3; i >= 0; i--)
 
 }
 
-m4nnlE = (unsigned char)(SS2_TcP89Y * m4nnlE);
+
 
 {
 int i = 7;

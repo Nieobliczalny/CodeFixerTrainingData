@@ -66,7 +66,7 @@ int main() {
  unsigned short yd4If;
  yd4If = 50064747;
 	short int	Vg0xG6_spU;
-	Vg0xG6_spU	=	979097966;
+
  char j4vz0;
  j4vz0 = 2061054633;
 	unsigned long long	M62DM;
@@ -88,7 +88,7 @@ int main() {
     short int    OVH9H0qZ7B;
     OVH9H0qZ7B    =    -2111382754;
     unsigned char    c6wp;
-    c6wp    =    -1953898116;
+
   int  Akftt06x;
 
   float  R0VxsJh81i;
@@ -104,7 +104,7 @@ int main() {
   unsigned char  wj1594byTH;
   wj1594byTH  =  -675254529;
   unsigned long long  llmLh;
-  llmLh  =  -766911997;
+
 	unsigned short int	beH31;
 	beH31	=	-170545741;
     float    YPcut8;
@@ -134,7 +134,7 @@ int main() {
  unsigned short int a92K7x;
  a92K7x = -434332104;
   short int  Y6Eg;
-  Y6Eg  =  -881552904;
+
   short int  CUQGS79_gs;
   CUQGS79_gs  =  2050234189;
  int xeH0h6D3BL;
@@ -156,7 +156,7 @@ int main() {
     unsigned long long    Ob35E3Y;
     Ob35E3Y    =    -621230127;
   unsigned int  g0ZDz9;
-  g0ZDz9  =  -32656285;
+
 	double	kT2Xd4;
 	kT2Xd4	=	-1838117545;
   unsigned long  QNL25c;
@@ -302,7 +302,7 @@ jIH1 = sF96(446640443, yd4If);
 }
 
 
-eQ26mw86e1 = AFs0(fLk_FV_1A);
+
 try
 {
 for (int j = 8; j >= 0; --j)
@@ -369,7 +369,7 @@ case 1:
 
 break;
 case 2:
-OD36pDMK = AFs0(QNL25c);
+
 break;
 case 3:
 SSZCd4vNH = lt1C5_JY * 307387852;
@@ -464,7 +464,7 @@ if ((nw_2Q551 != 627422382) || (f5w5qT8 & -563590040))
 {
 if (((beH31 > l4M8l8aFD) || (Rc5wd)) && (ejf8))
 {
-j4vz0 ^= nw_2Q551;
+
 }
 else
 {
@@ -499,7 +499,7 @@ G18OmQjG3n = (int)abs(uSyf3);
 break;
 case 'd':
 case 'D':
-CUQGS79_gs = wj1594byTH << S_8wlh;
+
 break;
 case 'e':
 case 'E':
@@ -511,7 +511,7 @@ G18OmQjG3n = sF96(G18OmQjG3n, a92K7x);
 break;
 case 'g':
 case 'G':
-UVrE9 = mAenkB_(-878218335);
+
 break;
 case 'h':
 case 'H':
@@ -575,7 +575,7 @@ case 0:
 
 break;
 case 1:
-OD36pDMK = AFs0(-848164863);
+
 break;
 case 2:
 nw_2Q551 = sF96(nw_2Q551, Ob35E3Y);
@@ -587,7 +587,7 @@ case 4:
 
 break;
 case 5:
-OD36pDMK = AFs0(157937810);
+
 break;
 case 6:
 kT2Xd4 = ejhJA << 891561138;
@@ -599,7 +599,7 @@ case 8:
 
 break;
 default:
-SSZCd4vNH = YXk7P - robpfflgH;
+
 break;
 }
 
@@ -609,7 +609,7 @@ case 0:
 
 break;
 case 1:
-G18OmQjG3n = (int)floor(H8yp);
+
 break;
 case 2:
 YPcut8 = (int)floor(nN1ksH);
@@ -637,7 +637,7 @@ for (int k = 0; k < 2; k++)
 while (i >= 0);
 }
 
-VF9fJay = (long)(l4M8l8aFD + (-1167613949));
+
 return 0;
 }
 

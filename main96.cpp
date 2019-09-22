@@ -360,7 +360,7 @@ case 9:
 Re_030BIUm = (int)abs(bV9MZOt);
 break;
 default:
-Nk31D5 >>= 1106665279;
+
 break;
 }
 }
@@ -429,7 +429,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-O23qcz1 /= 1821802456;
+
 break;
 default:
 V2mlo514e = (int)abs(Re_030BIUm);

@@ -295,7 +295,7 @@ NhbUCy1 = uTl_uu();
 }
 else if (po_Txaw >= 1938956262)
 {
-j_P35 %= 2032953985;
+
 }
 else
 {
@@ -307,7 +307,7 @@ catch (int& errorCode)
 {
 sRJK ^= 591740322;
 }
-vl3pj = uTl_uu() << fvPCvvH;
+
 switch (v08XdpsW0)
 {
 case 0:

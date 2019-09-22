@@ -13,7 +13,7 @@ using namespace std;
 int main(void) {
 	long double	DAKk,	ff5YioD,	uty_YQ,	CW17n,	WWV3fJk,	MmQ0f,	FK6n0_,	z9S1BykgP1,	xpQh,	PL04,	hsPe2_5,	gGJWNf0Os,	kz3P6p04ZH,	zPB3DAt,	Sf4G,	JNt9ld,	NHUEL1b,	hBX78P,	gMolS,	cM8oz1q25,	UykCG,	WM1iq8S,	K8Rwpn8T0,	t131z,	Nc27x9R_,	HN51meF9r3,	OaLjB3S4,	hZxZQz6m6E,	YtTf,	LXs_46n,	zDWY3Lh,	SkLSkbD,	jB479_s,	Z7AE,	wqAxt82,	PP5nCufUg_,	Lt32eL,	uBVk,	Gl90gcL0,	ulhar5pW,	wjkL,	afl_,	rR84468B;
 
-	ff5YioD	=	-5185150;
+
 	uty_YQ	=	84787259;
 	CW17n	=	683428779;
 	WWV3fJk	=	544060249;
@@ -23,7 +23,7 @@ int main(void) {
 	xpQh	=	-1909921675;
 	PL04	=	-241405842;
 
-	gGJWNf0Os	=	83937768;
+
 	kz3P6p04ZH	=	1171338078;
 	zPB3DAt	=	-531266856;
 	Sf4G	=	-413886263;
@@ -33,7 +33,7 @@ int main(void) {
 	gMolS	=	1429833193;
 	cM8oz1q25	=	631773432;
 
-	WM1iq8S	=	1384999607;
+
 	K8Rwpn8T0	=	-552323799;
 	t131z	=	645231890;
 	Nc27x9R_	=	-348828841;
@@ -43,7 +43,7 @@ int main(void) {
 	YtTf	=	-1488827434;
 	LXs_46n	=	-1982235900;
 
-	SkLSkbD	=	-1735216242;
+
 	jB479_s	=	848906319;
 	Z7AE	=	-1408198276;
 	wqAxt82	=	-1354615710;
@@ -54,7 +54,7 @@ int main(void) {
 	ulhar5pW	=	1868244535;
 
 	afl_	=	1443230201;
-	rR84468B	=	-922512946;
+
 	unsigned short	J08Xy,	lkw1oK3U8_,	wa86f;
 	J08Xy	=	0;
 	lkw1oK3U8_	=	0;

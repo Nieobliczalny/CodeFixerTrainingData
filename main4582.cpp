@@ -40,7 +40,7 @@ int main()
   M_6jC2B9  =  1295973513;
 
   p536k  =  -1000085886;
-  aqmg5L7F8  =  270093735;
+
   H5pQL  =  -2122336489;
   Bu63lmxA  =  -1877071772;
   Xx87_4gd  =  147188826;
@@ -50,7 +50,7 @@ int main()
   xI_5  =  1454187899;
 
   L25f6P2  =  -177639069;
-  L2IU  =  -157012494;
+
   apHY_fUo  =  -834208357;
   ryhyWb41  =  -864553909;
   uaY9l98  =  -483979619;
@@ -60,7 +60,7 @@ int main()
   ju79b  =  -1702926698;
   b49l8r  =  -2050099192;
 
-  IVm80  =  1264908379;
+
   UC6Clm_N7t  =  1408050747;
   ygOIv  =  -606326191;
   niicDj_5V4  =  -1698312724;
@@ -70,7 +70,7 @@ int main()
   gX9m  =  1307062679;
   Z3C9y  =  1510403564;
 
-  cIh37vTuxE  =  2079858121;
+
   MY17h55O  =  1623346220;
   GG8a8s6Rz2  =  -1773336308;
   yP00  =  2135247176;
@@ -80,7 +80,7 @@ int main()
   f55pB1  =  -1342650577;
   m5sr  =  1299031720;
 
-  WdBDTY  =  -1820943232;
+
     int    EMXFauX6,    m364k43,    i6j7JDDpB;
     EMXFauX6    =    0;
     m364k43    =    0;
@@ -99,7 +99,7 @@ for (int j = 3; j >= 0; j--)
 std::cout << aE9Y(be7bSjJS, -436253912, HOO74F4) << std::endl;
 }
 }
-p0_p9nbdh = AV92 | 1070292280;
+
 switch (b49l8r)
 {
 case 0:
@@ -115,7 +115,7 @@ case 0:
 
 break;
 case 1:
-wF8Tr_ = H5pQL | 876175338;
+
 break;
 case 2:
 f55pB1 /= 2076422926;
@@ -127,7 +127,7 @@ case 4:
 
 break;
 case 5:
-MY17h55O = (int)abs(EMXFauX6) + (457861505);
+
 break;
 case 6:
 uaY9l98 *= ryhyWb41;

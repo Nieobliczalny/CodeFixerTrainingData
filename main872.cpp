@@ -258,7 +258,7 @@ else
 {
 if (X5Mew <= jh_q7p)
 {
-X9puR36lB |= dqca1wAG;
+
 }
 }
 }
@@ -342,7 +342,7 @@ case 2:
 Z3GRJm += T2Pi8;
 break;
 case 3:
-jh_q7p += 1642187868;
+
 break;
 case 4:
 Yi3H_gslm_--;
@@ -385,7 +385,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-K3cIc8f4yW = T2Pi8 + Yi3H_gslm_;
+
 break;
 case 'f':
 case 'F':

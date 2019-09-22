@@ -108,7 +108,7 @@ while (j < 7);
 }
 }
 
-dqqtKT = (int)ceil(ek7S);
+
 
 for (int i = 0; i < 4; ++i)
 {
@@ -126,7 +126,7 @@ fV9_pn = (unsigned short)(mdF5La9qL);
 
 if ((-1348719723 / xV__) <= 871501069)
 {
-k519k = -619465070 / iiF47G4iI;
+
 }
 {
 int i = 4;

@@ -29,7 +29,7 @@ int main(void)
  unsigned int A4wJ2Y50WB, RG71PD, WYQ8O, YwwF1y, b_G8iZ_w_A;
   A4wJ2Y50WB = RG71PD = WYQ8O = YwwF1y = b_G8iZ_w_A = 0;
 
-pCjO1H_J_ = KmjB_l * 591801815;
+
 try
 {
 RG71PD = t1N9qevS7(-1109548182, W6e2, n3A7h, -75094376, 830295665);
@@ -41,7 +41,7 @@ mkmrT = (int)abs(JQ5_);
 
 if (FaOx51woK > 465254039)
 {
-KmjB_l = (int)ceil(gvy8);
+
 }
 else
 {
@@ -54,7 +54,7 @@ case 1:
 fgmX3GB = (int)floor(aL6IZ91TT);
 break;
 case 2:
-o9_uDSY5 = UD704C - U_72y92;
+
 break;
 default:
 P030TsI = m81NQy5el(538748882);
@@ -72,7 +72,7 @@ int k = 1;
 do
 {
 --k;
-nCZV6aDlr = m67HY(25921179, FpL889, k0SA8g4Q05);
+
 }
 while (k >= 0);
 }

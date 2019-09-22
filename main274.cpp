@@ -62,7 +62,7 @@ int main(void)
  unsigned long long PB_ngw;
  PB_ngw = -1532664461;
     unsigned char    A_Nh0x8tTd;
-    A_Nh0x8tTd    =    -712271843;
+
 	long double	dxh4;
 	dxh4	=	573398445;
  long N6IIosZ;
@@ -92,7 +92,7 @@ int main(void)
   unsigned char  lA__odFO_;
   lA__odFO_  =  906851485;
  unsigned short gSgoNztSJ;
- gSgoNztSJ = 177155547;
+
 	unsigned short	QpfmjoJ4;
 	QpfmjoJ4	=	1653766988;
  unsigned short f3w3h0gRKQ;
@@ -198,7 +198,7 @@ else
 {
 if (gSgoNztSJ)
 {
-bTte = (char)(Y9DMLBP);
+
 }
 else if (NqcGE_QLh == -659403720)
 {
@@ -219,7 +219,7 @@ case 1:
 
 break;
 case 2:
-dxh4 = (int)ceil(I7Pq2_xO);
+
 break;
 case 3:
 FFYv = n1D8fB(bTte, N6IIosZ, A_Nh0x8tTd);
@@ -287,7 +287,7 @@ for (int j = 7; j >= 0; --j)
 }
 }
 
-FFYv = n1D8fB(HAZBM_mkCA, CcauRT0, lA__odFO_);
+
 {
 int i = 8;
 while (i >= 0)
@@ -304,7 +304,7 @@ j--;
 }
 }
 
-dxh4 = (int)ceil(K48Z54x4lb);
+
 std::cout << "fYdf" << HAZBM_mkCA << "c38stJ9n7" << A_Nh0x8tTd << std::endl;
 
 

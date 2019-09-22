@@ -405,7 +405,7 @@ case 'f':
 q_422 -= JEydtt;
 break;
 case 'g':
-k_4I = G764D(k_4I, 87481867, -365441766, L78__6sIn, q_422);
+
 break;
 case 'h':
 p_AY = (int)ceil(q_422);

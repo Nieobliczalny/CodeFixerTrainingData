@@ -53,7 +53,7 @@ int main(int argc, char** argv)
 	unsigned long long	xO00;
 	xO00	=	-1274005711;
 	short int	wy5clzB0b;
-	wy5clzB0b	=	-850686475;
+
     int    geWTd24_;
     geWTd24_    =    -1138932736;
  unsigned char x0NbImCOs;
@@ -67,7 +67,7 @@ int main(int argc, char** argv)
  unsigned long R6sF44;
 
   long long  vUy58v7i5;
-  vUy58v7i5  =  -732010268;
+
 	long double	hE66h;
 	hE66h	=	1820015171;
  unsigned int B7gQi;
@@ -83,7 +83,7 @@ int main(int argc, char** argv)
     unsigned long long    sQ9O;
 
 	double	lf22bh1mXi;
-	lf22bh1mXi	=	1995636916;
+
  unsigned short int K_9T;
  K_9T = -617724388;
 	long long	eV6dj61524;
@@ -113,7 +113,7 @@ int main(int argc, char** argv)
   char  cIfMnZ1;
   cIfMnZ1  =  0;
  short int BjA6ux0;
- BjA6ux0 = -845620692;
+
   unsigned long long  A42d;
   A42d  =  -1066601717;
 	int	BBmXm7950;
@@ -143,7 +143,7 @@ int main(int argc, char** argv)
   short  nQ9NQ4rvl9;
   nQ9NQ4rvl9  =  1368375791;
     short    UMrNetQ;
-    UMrNetQ    =    927224209;
+
     int    a8M792SG;
     a8M792SG    =    1848341182;
   short  RXUX2;
@@ -270,7 +270,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-nQ9NQ4rvl9 &= xO00;
+
 break;
 case 'f':
 case 'F':
@@ -357,7 +357,7 @@ case 'c':
 DKq99 = (RXUX2 < v24DZ517) ? -1381688135 : m5AtAneS;
 break;
 case 'd':
-R6sF44 = S7WBvBA04(-2142364);
+
 break;
 case 'e':
 GIF56 = wBZO063(-205952516, qkr1H, sQ9O);
@@ -369,7 +369,7 @@ case 'g':
 dR89h7kr7C = (int)floor(nuQ6DA0);
 break;
 case 'h':
-ht46Y = E_0yXQTLo();
+
 break;
 case 'i':
 r_Rk = (int)abs(geWTd24_);
@@ -415,7 +415,7 @@ case 2:
 
 break;
 case 3:
-U8f6px_ <<= 2106729075;
+
 break;
 }
 for (int i = 0; i < 2; i++)
@@ -434,7 +434,7 @@ case 'a':
 
 break;
 case 'b':
-F0gG0b708U = wBZO063(F0gG0b708U, Yp71d118se, J7G7jM);
+
 break;
 case 'c':
 geWTd24_ %= Rd5zX;
@@ -469,7 +469,7 @@ j++;
 }
 else
 {
-Kl5iGDY2 = wBZO063(Kl5iGDY2, vZKJ1j3t, or9yekk);
+
 }
 oZ0r7 *= gLeR_E2pem;
 
@@ -506,7 +506,7 @@ do
 {
 if (JBLR6K == qkr1H)
 {
-x0NbImCOs = (unsigned char)(GIF56);
+
 }
 else
 {
@@ -519,7 +519,7 @@ if (yp67dV55KA < qkr1H)
 }
 while (i < 4);
 }
-ERmg = (int)abs(odoCybE70);
+
 
 qkr1H = (int)ceil(TctsVO6c);
 

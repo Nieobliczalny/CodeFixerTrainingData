@@ -123,7 +123,7 @@ case 7:
 kMI2 = x0ILqRJ53(386469341, 788861932, -1527658798, 1494127334);
 break;
 case 8:
-n_8_fHZ = l2woK5x | NXDCs_2Csi;
+
 break;
 default:
 cfBg1X6mm5 = x0ILqRJ53(-1784885957, -1736821959, Kt3ZUZ1Zq, 241289939);
@@ -153,7 +153,7 @@ std::cout << "K9ueY7F26" << std::endl;
 }
 else if (cCQDY < y30uJLP)
 {
-ttNVTXCYJ = (unsigned int)(cfBg1X6mm5 + (AUcBpcJhyy));
+
 }
 else if (K1yYgdHGf4 != aAB2M9Ih)
 {

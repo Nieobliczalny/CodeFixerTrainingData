@@ -461,7 +461,7 @@ while (j < 9)
 {
 if (t3zl03 >= 2041394932)
 {
-CqajNZ = U5dt_c(727211619);
+
 }
 else if (t3zl03 == TpF1HEz0Y)
 {
@@ -528,7 +528,7 @@ if (F246vRlyH != -911145452)
 }
 else if (((W67JVu_r == t3zl03) || (xlTkgCJ == EdM_8u0)) && (t3zl03 < fwy7yS))
 {
-fwy7yS = U5dt_c(fwy7yS);
+
 }
 else if (xlTkgCJ < XsRyr)
 {
@@ -563,7 +563,7 @@ for (int j = 4; j >= 0; j--)
 int k = 0;
 do
 {
-CqajNZ = (int)abs(F246vRlyH);
+
 k++;
 }
 while (k < 7);

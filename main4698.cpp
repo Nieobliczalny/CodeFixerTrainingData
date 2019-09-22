@@ -196,7 +196,7 @@ int j = 6;
 do
 {
 --j;
-i_aGL_z4 = iP13b7 | 1956001226;
+
 }
 while (j >= 0);
 }
@@ -243,7 +243,7 @@ case 'd':
 
 break;
 case 'e':
-c8f9Fs /= ShO03M85AE;
+
 break;
 case 'f':
 Z2ad9 = (int)ceil(ShO03M85AE);
@@ -255,7 +255,7 @@ case 'h':
 
 break;
 case 'i':
-urh3Y06i = C8le2e8f(urh3Y06i, 83346953, 913312867, 952042734, LlZZX9r86w);
+
 break;
 }
 

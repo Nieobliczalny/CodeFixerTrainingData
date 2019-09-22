@@ -40,7 +40,7 @@ case 3:
 F2eecJ0 = ApL_sfD(G9Hbks5N0, 448564823, NwYyhxA);
 break;
 case 4:
-JkXA4 = jsXBALXy % t41XIc;
+
 break;
 case 5:
 BZ_br %= jsXBALXy;
@@ -55,7 +55,7 @@ case 8:
 pa0wstM64++;
 break;
 case 9:
-dViRO5fKxM = ApL_sfD(-231936558, emVLvPny, -1336467216);
+
 break;
 default:
 FrOjru5B ^= l6_nN07M;

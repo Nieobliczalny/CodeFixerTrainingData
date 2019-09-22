@@ -202,7 +202,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-i87vx /= 1900764701;
+
 break;
 case 'c':
 case 'C':
@@ -245,7 +245,7 @@ if (U2o7KiQ7 >= qld1)
 }
 else
 {
-gF4EZm3w4 += 881436369;
+
 }
 {
 int i = 0;

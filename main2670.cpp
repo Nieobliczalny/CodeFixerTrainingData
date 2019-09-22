@@ -215,7 +215,7 @@ case 5:
 qjPtv = (int)floor(o_Lw);
 break;
 default:
-ghlqsZ = mxc84aN_(731308667, -493032378);
+
 break;
 }
 --j;
@@ -412,7 +412,7 @@ qjPtv = ECid_ / 35982923;
 }
 else
 {
-dYaqyw = SkW_0J(dYaqyw, S898l);
+
 }
 }
 else if (jad12BD36Z <= ECid_)
@@ -556,7 +556,7 @@ case 1:
 QN7QE_ = (int)abs(I21RsP8Kf) + (1499188117);
 break;
 default:
-MeL0a_DxQ = (bN6iCMB <= uV1P) ? -1899945446 : I21RsP8Kf;
+
 break;
 }
 }
@@ -609,7 +609,7 @@ cout << mxc84aN_(kHniJvS7, -923866939) << endl;
 int i = 0;
 do
 {
-hkw_0b = uV1P ^ Oh6K8Bnj;
+
 ++i;
 }
 while (i < 6);

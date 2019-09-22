@@ -92,7 +92,7 @@ DB29_x7 = JRVS6(DB29_x7, l7zID6l, Hn38, Ln_56fPto);
 }
 else
 {
-VTS4 = Y_1yqe_5(73579860, K_58qVZxU7, Ln_56fPto, C2FtGrK6k);
+
 }
 --i;
 }
@@ -275,7 +275,7 @@ case 'b':
 m7Qv0 &= 1349586402;
 break;
 case 'c':
-v25S_s = (int)ceil(i_3E);
+
 break;
 case 'd':
 olZd2v4 = Y_1yqe_5(olZd2v4, 995054018, -1942556527, Q04HNU0pb);

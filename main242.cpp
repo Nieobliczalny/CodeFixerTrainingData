@@ -22,7 +22,7 @@ int main(int argc, char** argv)
   unsigned long long  Ug2Bd4;
 
  long long hSo70303;
- hSo70303 = 1529081475;
+
   double  hFdDfJ;
   hFdDfJ  =  228552987;
   unsigned short  gzCmB0f_;
@@ -36,7 +36,7 @@ int main(int argc, char** argv)
  unsigned long Dxk_95;
  Dxk_95 = -1564380859;
     unsigned short    Q607e7o;
-    Q607e7o    =    -1180755615;
+
     short    e79ziCzt1;
     e79ziCzt1    =    1496700800;
     int    QdZypP_8;
@@ -46,7 +46,7 @@ int main(int argc, char** argv)
  short h_4_Qq_58;
  h_4_Qq_58 = -1411832578;
 	short	fr10BI1K;
-	fr10BI1K	=	-1163571054;
+
     long long    TIkOs;
     TIkOs    =    2102357793;
     short int    B1PC_;
@@ -56,7 +56,7 @@ int main(int argc, char** argv)
  float IyGsl_A;
  IyGsl_A = 1103259365;
 	int	hU58_yO5l;
-	hU58_yO5l	=	-239946442;
+
     unsigned long long    y9TZ;
     y9TZ    =    1905675564;
   unsigned short  fy0D;
@@ -68,7 +68,7 @@ int main(int argc, char** argv)
  char s4ca0;
  s4ca0 = -485135339;
 	long double	jSFXDrrQ;
-	jSFXDrrQ	=	-972858079;
+
   long double  ki6Q6EVcp;
   ki6Q6EVcp  =  -908107223;
     char    A9AL2yy;
@@ -80,7 +80,7 @@ int main(int argc, char** argv)
  float X8_2;
 
     short int    CLYB88ne5t;
-    CLYB88ne5t    =    1065254042;
+
 	int	zttG;
 	zttG	=	2126534644;
 	float	AHVj2;
@@ -92,7 +92,7 @@ int main(int argc, char** argv)
   unsigned char  yXg0N4;
   yXg0N4  =  -1956437602;
  unsigned short Y3Ouh;
- Y3Ouh = 1524534492;
+
   unsigned short int  QJ8Y;
   QJ8Y  =  -146243464;
 	unsigned char	X5TX;
@@ -104,7 +104,7 @@ int main(int argc, char** argv)
 	long double	c_2B0;
 	c_2B0	=	1859575198;
     long    XPPrHiga;
-    XPPrHiga    =    555730575;
+
 	int	wN4s9Y7K;
 	wN4s9Y7K	=	1946359324;
     long double    g592Z;
@@ -114,7 +114,7 @@ int main(int argc, char** argv)
   long  fVx47FY;
   fVx47FY  =  1820097033;
     long double    f5KX60;
-    f5KX60    =    751422340;
+
   unsigned short int  kYxt;
   kYxt  =  -191111680;
  float ITkgkuXo;
@@ -124,7 +124,7 @@ int main(int argc, char** argv)
     long long    nb9zk;
 
     float    fnoT;
-    fnoT    =    -789085823;
+
 	unsigned long long	W5P5;
 	W5P5	=	-1761250645;
 
@@ -194,7 +194,7 @@ if (c_2B0 >= 205751549)
 }
 else if (jSFXDrrQ <= -420137639)
 {
-M8b6nn5o = (int)floor(h3OP47);
+
 }
 else
 {
@@ -222,7 +222,7 @@ else if (ed5Q >= 1016589507)
 }
 else if ((yXg0N4 >= 44812769) || (fVx47FY > -1072276703))
 {
-fVx47FY = zttG >> Mx7iS1;
+
 }
 else
 {

@@ -38,7 +38,7 @@ int main() {
     long double    mzmceo1;
     mzmceo1    =    2076458482;
 	unsigned long long	Ibhy9nN;
-	Ibhy9nN	=	-1746456591;
+
   short int  MwLeF8442;
   MwLeF8442  =  1185476539;
   long long  z313;
@@ -110,7 +110,7 @@ int main() {
     unsigned long long    Utk3Xu0tP;
     Utk3Xu0tP    =    -1960639756;
   unsigned short  Emagyrif;
-  Emagyrif  =  0;
+
 	float	qvgz;
 	qvgz	=	-1821879545;
   double  bg_8;
@@ -132,7 +132,7 @@ int main() {
   unsigned int  vV6Ive1gN;
   vV6Ive1gN  =  -143647813;
  float pT12T6_;
- pT12T6_ = -1987178624;
+
  double g0v3sm9bcj;
  g0v3sm9bcj = -1089776030;
  unsigned long x6j5N;
@@ -156,7 +156,7 @@ int main() {
 	long double	hF34Z0Vi;
 	hF34Z0Vi	=	726593403;
     long double    dXYWeTNI;
-    dXYWeTNI    =    2001594655;
+
   long double  Sen4EdQ_7a;
   Sen4EdQ_7a  =  -1144107810;
 	long double	k_71uNYS;
@@ -194,7 +194,7 @@ int main() {
 	char	ipYubWl7D4;
 	ipYubWl7D4	=	2116826099;
  long pV33;
- pV33 = -345948760;
+
   short int  LjDcTI139k;
   LjDcTI139k  =  -1451999314;
  double m6vfRU1L;
@@ -314,7 +314,7 @@ case 'e':
 t71JTFE0J6 ^= 416363246;
 break;
 case 'f':
-b76j3g2 = yRKWry(b76j3g2, -1126697993, N843);
+
 break;
 case 'g':
 D1_NRH = yRKWry(-730087425, zZrX, sF4w);
@@ -362,7 +362,7 @@ case 2:
 Rf2f3pE95 = e_fB(Rf2f3pE95, peH4, 580526429);
 break;
 case 3:
-Emagyrif = od6e(-46456199, RR__fxN);
+
 break;
 case 4:
 k7VKjGfA20 = e_fB(k7VKjGfA20, p4h24A, Lm02P);
@@ -468,7 +468,7 @@ QemQ = (int)floor(EKQW1);
 break;
 case 'e':
 case 'E':
-H_HZr8PQ += Oy4sjr839;
+
 break;
 case 'f':
 case 'F':
@@ -494,7 +494,7 @@ int i = 6;
 do
 {
 i--;
-sF4w = (short)(VJFrGA);
+
 }
 while (i >= 0);
 }
@@ -685,7 +685,7 @@ XcFdXBRY = yRKWry(XcFdXBRY, a47X1, cPXcC);
 }
 else
 {
-L_1N = (int)ceil(zN6_3);
+
 }
 }
 }
@@ -710,7 +710,7 @@ else if (CA8Gv <= g2p1U)
 int j = 3;
 while (j >= 0)
 {
-dXYWeTNI = (int)ceil(JdAS6r7);
+
 j--;
 }
 }
@@ -787,7 +787,7 @@ for (int k = 1; k >= 0; --k)
 }
 else if (K2FL37I8E == bg_8)
 {
-N_6eoWqIn = (unsigned long long)(cPXcC);
+
 }
 else
 {
@@ -803,7 +803,7 @@ case 1:
 
 break;
 case 2:
-xMka0xq4 = yRKWry(487609008, 439333143, uxQrGjt8);
+
 break;
 case 3:
 RR__fxN = WX369FZo & f_664l_LNm;
@@ -818,7 +818,7 @@ default:
 dXvLY = wwpBuS(966746630, ZioUl, vV6Ive1gN, 1647385773);
 break;
 }
-pV33 = (long)(nmF1mv);
+
 
 std::cout << vCN7h9zo7K << e_fB(-723197783, ZioUl, vV6Ive1gN) << "wNww7" << std::endl;
 {

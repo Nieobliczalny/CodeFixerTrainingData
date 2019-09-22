@@ -23,7 +23,7 @@ int main() {
     D5Th    =    816861264;
 
     jDTea9XLrW    =    505140661;
-    cN027Kp4QE    =    -1583738572;
+
     H2PbwS7    =    -343199200;
     sVUe390gX    =    -2125824429;
     JNfk    =    1386233607;
@@ -34,7 +34,7 @@ int main() {
     fAvPlJ3    =    -521789146;
 
     jPvs66h    =    -1620368581;
-    Us_3t_vjaD    =    623072205;
+
     puZj    =    -494543543;
     FpS1V7Bs_    =    552604821;
     wdnQV    =    798625194;
@@ -44,7 +44,7 @@ int main() {
     QnEA_w3R    =    1521287052;
 
     LXS3F6A    =    -1956178227;
-    tMqjW_y3    =    -381483896;
+
     Be_3lWNejg    =    -1078982711;
     NrSKRA    =    -1302591740;
     X70UL    =    -621597640;
@@ -56,7 +56,7 @@ int main() {
     wT592sS57    =    -345948242;
 
     mWgI    =    -2088760645;
-    Hknc3Hv2    =    -440789318;
+
     FDPkp    =    222256410;
     aFER    =    1678024640;
     zKv2    =    -1331043316;
@@ -66,7 +66,7 @@ int main() {
     rMW39y2    =    277785122;
 
     LScw0h9h8F    =    -1241838833;
-    KU_c15xaJ    =    -191782336;
+
     HZ2aOIw_    =    610069971;
     Nzvj8    =    -1411829685;
     qi391hse5_    =    -1886609835;
@@ -76,7 +76,7 @@ int main() {
     lGT1    =    1150645560;
     unsigned char    k3XSJ,    T8GHBq,    JQMaBMq,    x_kJ3R;
     k3XSJ    =    0;
-    T8GHBq    =    0;
+
 
     x_kJ3R    =    0;
 
@@ -88,7 +88,7 @@ else if (JNfk > -853336836)
 {
 if ((FDPkp) || (Be_3lWNejg != k3XSJ))
 {
-T8GHBq = lz8GCZYN(Ow4PJOS);
+
 }
 else
 {
@@ -110,7 +110,7 @@ g2pB1P = Kzc3CxwL();
 std::cout << jPvs66h << s34aa7r5(g2pB1P, y4fT__5, 1173217581) << Y4kG0p_8jk << "Jx2tju14" << std::endl;
 for (int i = 8; i >= 0; --i)
 {
-zKv2 = (unsigned long)(D5Th);
+
 }
 
 {
@@ -129,7 +129,7 @@ case 'c':
 myv4_F %= 1746676884;
 break;
 case 'd':
-tMqjW_y3 = myv4_F % 365588645;
+
 break;
 case 'e':
 N9_0_Uo = SEKM8a81(-1211123073, -129773934);
@@ -167,7 +167,7 @@ case 'a':
 
 break;
 case 'b':
-x_kJ3R = lz8GCZYN(-1266048930);
+
 break;
 case 'c':
 LScw0h9h8F = DD0tSZ09G6 ^ slORZkau;
@@ -179,7 +179,7 @@ case 'e':
 
 break;
 case 'f':
-aFER = g2pB1P - 1761782479;
+
 break;
 default:
 rMW39y2 = SEKM8a81(rMW39y2, 1249239319);
@@ -194,7 +194,7 @@ int i = 4;
 do
 {
 i--;
-D5Th = (unsigned long)(F5r15_J + (404003732));
+
 }
 while (i >= 0);
 }

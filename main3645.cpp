@@ -18,7 +18,7 @@ int main(void) {
 
 	DXavi	=	-332257290;
 	KfuK9L5ZoO	=	334031539;
-	G3qD	=	-1034383121;
+
 	e9zSo9mJFR	=	806766926;
 	k3_xgZ9RI	=	945578226;
 	ZY4RL_	=	1894836578;
@@ -157,7 +157,7 @@ HBo9 = (int)ceil(VpL5b_74f);
 break;
 case 'h':
 case 'H':
-G3qD = e9zSo9mJFR / gEJ_7w;
+
 break;
 case 'i':
 case 'I':
@@ -300,7 +300,7 @@ case 4:
 k27z = ySCNc2_ - VpL5b_74f;
 break;
 case 5:
-k94yA = K9TK33A - 862872016;
+
 break;
 case 6:
 iw_u_ = (int)abs(Rl36p2S);
@@ -379,7 +379,7 @@ else
 int k = 0;
 while (k < 2)
 {
-k94yA = (VpL5b_74f == -77585759) ? Nn_28Y : -287374197;
+
 k++;
 }
 }
@@ -447,7 +447,7 @@ else if (((EytnT7 >= -1335445496) && (SgkbtY5 != -1719095444)) || (k27z == gM974
 }
 else if ((okZAgPVli) || (K9TK33A != -854644319))
 {
-k94yA = (int)abs(K9TK33A);
+
 }
 else if (ySCNc2_ > KfuK9L5ZoO)
 {
@@ -594,7 +594,7 @@ case 'b':
 
 break;
 case 'c':
-G3qD = (int)ceil(KfuK9L5ZoO);
+
 break;
 case 'd':
 GBv6q3g -= hukl0fOY5;
@@ -609,7 +609,7 @@ case 'g':
 iv833IPM = k3_xgZ9RI / 785647255;
 break;
 case 'h':
-hukl0fOY5 = (int)ceil(vu6p3l4Nq);
+
 break;
 }
 }

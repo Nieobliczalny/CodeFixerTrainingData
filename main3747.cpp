@@ -31,7 +31,7 @@ int main(int argc, char** argv) {
 	long long	gf3K85f8va,	lqZ4XaLQ,	hx90,	Qup5_6Y,	Z6SHN,	LM02P,	vIv_VMNod,	hpyd,	i3oNArb,	Cq52jr,	e__G7RRYQ9,	sJpJV1m05,	C5kU,	t7x6xA,	mb8mvD,	xH_5c6,	D6Bi,	wm8aL,	PXCr8t,	Dw88,	jKQeb27r9_,	rhn_YUV9,	fLWFHF,	YGjrk8UR7,	GN_M,	Ht4GZ4VPRL,	K23AK,	OaS0qk,	M_LG2f,	UhJmT,	J4j_VzF5qL,	RCcWm,	VxeW_5;
 	gf3K85f8va	=	-786260144;
 
-	hx90	=	-1518250397;
+
 	Qup5_6Y	=	-1095053148;
 	Z6SHN	=	981267807;
 	LM02P	=	629177422;
@@ -42,7 +42,7 @@ int main(int argc, char** argv) {
 	e__G7RRYQ9	=	1873459580;
 	sJpJV1m05	=	-882876256;
 
-	t7x6xA	=	1257816176;
+
 	mb8mvD	=	-1928615362;
 	xH_5c6	=	2111049637;
 	D6Bi	=	1185939381;
@@ -54,7 +54,7 @@ int main(int argc, char** argv) {
 	fLWFHF	=	20325279;
 
 	GN_M	=	-1489128318;
-	Ht4GZ4VPRL	=	338245639;
+
 	K23AK	=	180987988;
 	OaS0qk	=	-834538767;
 	M_LG2f	=	-815052598;
@@ -91,7 +91,7 @@ Dw88 = (long long)(Qr9q_ + (f8f_xI));
 switch (VxeW_5)
 {
 case 0:
-wm8aL = C4C_8a();
+
 break;
 case 1:
 fLWFHF++;
@@ -106,7 +106,7 @@ case 4:
 
 break;
 default:
-wm8aL += VxeW_5;
+
 break;
 }
 
@@ -138,7 +138,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-OaS0qk = ZzS8gAZPbl(OaS0qk, -1001651775, RCcWm);
+
 break;
 case 'g':
 case 'G':
@@ -149,7 +149,7 @@ case 'H':
 
 break;
 default:
-vIv_VMNod &= VxeW_5;
+
 break;
 }
 
@@ -172,7 +172,7 @@ for (int i = 0; i < 10; i++)
 {
 try
 {
-RCcWm = (long long)(Qr9q_ + (-1909601999));
+
 }
 catch (int& errorCode)
 {

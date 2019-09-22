@@ -36,7 +36,7 @@ int main()
 	unsigned long long	iG8O0MwGo	=	0;
 
 
-h1YrOia702 = FGepgp(-1266905958);
+
 zc91g = (BgYUik == hxcr8aq6v) ? q0E6h : YZEFoKnpX;
 
 if (D_T_l(iG8O0MwGo) == 0)
@@ -74,7 +74,7 @@ if ((k7d_) && ((E5M98wn & -257574448) || (p4531e0 < Lu41R9l)))
 
 }
 
-p3iW_P = (unsigned short)(dWzl);
+
 return 0;
 }
 

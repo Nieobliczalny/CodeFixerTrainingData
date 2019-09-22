@@ -818,7 +818,7 @@ int i = 0;
 do
 {
 ++i;
-E7kQc1P = (int)(d13c_FC);
+
 }
 while (i < 9);
 }

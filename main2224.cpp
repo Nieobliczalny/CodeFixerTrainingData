@@ -91,7 +91,7 @@ int main(void) {
     short    t3_59;
     t3_59    =    -1678727328;
 	unsigned long long	Cbdn6F;
-	Cbdn6F	=	-869733636;
+
   unsigned long  oc8mp;
   oc8mp  =  978695843;
   short int  F26v0g0;
@@ -381,7 +381,7 @@ case 6:
 G07h |= 1646668985;
 break;
 case 7:
-y62tWBJ = La51 % o5h5Yg0i;
+
 break;
 }
 }
@@ -528,7 +528,7 @@ case 'd':
 xH8_ = (int)ceil(WsUxJ);
 break;
 case 'e':
-R9mP = a9K3Sn2_R8 / 739238625;
+
 break;
 case 'f':
 uD6iR1EZ = ZKUGxwVEN5(uD6iR1EZ, uvTw_3R7I, -359014412);
@@ -547,7 +547,7 @@ break;
 cout << QnTddj << endl;
 V9v792dEc = (unsigned short int)(uD6iR1EZ);
 
-oD5M2m132_ = (unsigned char)(CDVrM);
+
 
 return 0;
 }

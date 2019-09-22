@@ -33,7 +33,7 @@ int main(void) {
     unsigned int    c9YbO10I;
     c9YbO10I    =    -1963125085;
   int  W_geSyBC;
-  W_geSyBC  =  0;
+
  char w_O0I;
  w_O0I = 59505072;
  long double Ll1l_YH;
@@ -43,7 +43,7 @@ int main(void) {
   short int  NJC4;
   NJC4  =  1783891381;
 	unsigned short	aaE5ov111;
-	aaE5ov111	=	749928578;
+
   unsigned short int  eZlm3uLr;
   eZlm3uLr  =  -1815652578;
     unsigned int    D2TiS;
@@ -57,7 +57,7 @@ int main(void) {
   int  H7_veQ;
   H7_veQ  =  -1228741810;
  char tYkpa3aKxz;
- tYkpa3aKxz = 1841745868;
+
     unsigned short int    A5Q0o;
     A5Q0o    =    1981333519;
  unsigned long l3Qf0;
@@ -71,7 +71,7 @@ int main(void) {
  unsigned char Q_28wvV7;
  Q_28wvV7 = 1534538730;
 	unsigned short	V_JN;
-	V_JN	=	418220118;
+
     unsigned short    vukK;
     vukK    =    0;
   int  PGf__;
@@ -117,7 +117,7 @@ int main(void) {
 	unsigned long long	Be5s;
 
 	unsigned long	oTcid0;
-	oTcid0	=	-68852092;
+
   unsigned char  uqW8Oho31;
   uqW8Oho31  =  -681051019;
     int    JAfB_I5;
@@ -189,7 +189,7 @@ case 2:
 yqWJ = (int)floor(RVL6U2);
 break;
 case 3:
-Njs8Y88C = (int)floor(yoX_a);
+
 break;
 case 4:
 PGf__ = (int)abs(X7_LL);
@@ -242,7 +242,7 @@ if (Op38 >= o8MXCd)
 }
 else if (OcDA5Wg0W & o8MXCd)
 {
-kADvrMYH3 = (char)(dF7Q8);
+
 }
 else if (w_O0I > wHms1dKF)
 {
@@ -273,7 +273,7 @@ else if (PGf__ <= wHms1dKF)
 }
 else if (JAfB_I5 >= o8MXCd)
 {
-AnIPITVd = wpLijI8B6(AnIPITVd, aLa_o, 322489855, kADvrMYH3, OcDA5Wg0W);
+
 }
 else
 {

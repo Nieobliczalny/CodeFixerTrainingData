@@ -21,7 +21,7 @@ int main(int argc, char** argv)
   bU3K2TbDxQ  =  -2004941767;
   oEw3_  =  1899506301;
   I_UI1a2Bk  =  -1949300438;
-  w9RuEgiZG  =  -1744850998;
+
   TWes2W  =  -512984238;
   aFgT71a7UC  =  713760789;
   O0KP  =  165639437;
@@ -44,7 +44,7 @@ int main(int argc, char** argv)
   TPNZ97  =  -1147486480;
   N2lk3  =  601909313;
   g8iy69s  =  1179639578;
-  gH5nl8R51H  =  1340987276;
+
   int  sEA8bN,  r2sr_MRyD,  M2U_czr4,  Qn8q,  hDKT5v_;
   sEA8bN  =  0;
   r2sr_MRyD  =  0;
@@ -215,7 +215,7 @@ std::cout << "G6__xY2" << FKXB6 << I_UI1a2Bk << std::endl;
 }
 else if (f50_mJ <= -1964937289)
 {
-O0KP = (N2lk3 > 2144403768) ? -605427061 : -2144335381;
+
 }
 else
 {
@@ -225,7 +225,7 @@ case 0:
 
 break;
 case 1:
-V810X4b6r = (int)floor(M0DhUNgN);
+
 break;
 case 2:
 bU3K2TbDxQ /= 266525604;
@@ -237,7 +237,7 @@ case 4:
 
 break;
 case 5:
-Z3_LbE5 = (r2sr_MRyD > i1Z1) ? vnfxgRZ70S : 2114134518;
+
 break;
 case 6:
 Go1VYZ = B51RV37DA * Go1VYZ;
@@ -255,7 +255,7 @@ if (V810X4b6r < f50_mJ)
 {
 for (int k = 0; k < 2; ++k)
 {
-V810X4b6r = Go1VYZ * 2059063757;
+
 }
 }
 else
@@ -285,7 +285,7 @@ case 0:
 
 break;
 case 1:
-wj0Sx = (int)ceil(QK_9O);
+
 break;
 case 2:
 aFgT71a7UC = Qn8q - 1564221751;
@@ -306,7 +306,7 @@ g3r6_ejV = (bU3K2TbDxQ <= QK_9O) ? aFgT71a7UC : 820510230;
 }
 if (M0DhUNgN <= -713165716)
 {
-V810X4b6r = (float)(g3r6_ejV);
+
 }
 
 if (Zh_1LYg != 2057761838)

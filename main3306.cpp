@@ -379,7 +379,7 @@ case 'c':
 
 break;
 case 'd':
-BUop = Q4152Z(606996891);
+
 break;
 case 'e':
 YPdq = y0F4m006k(YPdq, -1923958885);

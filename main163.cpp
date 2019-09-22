@@ -19,7 +19,7 @@ int main()
   YozM9K_JA  =  1398887690;
   chd3s4  =  38733244;
   d5e8Gnu8e  =  544069691;
-  klJza4  =  755561234;
+
   UUwho  =  -545933749;
   N7299o1N  =  -1264340214;
   ztz1X  =  -1665309850;
@@ -32,7 +32,7 @@ int main()
 
   K5Df1SB  =  445181161;
   Q44Y  =  -1128399799;
-  ZXxekQ  =  -1351936605;
+
   ga8z  =  1319702358;
   OO45k5ks  =  -698611102;
   s4uAS0P68  =  -1365344469;
@@ -64,7 +64,7 @@ int main()
   puJ7  =  646991064;
 
   D_js4wm8  =  973111924;
-  dmQfTWaYr  =  1249960609;
+
   drv5FwsH  =  844910399;
   QinKwx0u  =  1428308428;
   JU7Zdc6w8G  =  -1234814597;
@@ -79,7 +79,7 @@ int main()
   ys27l4  =  -1114978856;
 
   bVtL9_q  =  531432;
-  jq_m  =  -959698743;
+
   H65e  =  102839270;
   INUECihav9  =  97061742;
   vaZv  =  1202168782;
@@ -107,7 +107,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-l6a44ZXuR1 = (int)ceil(B6y4);
+
 break;
 case 'c':
 case 'C':
@@ -132,7 +132,7 @@ break;
 
 for (int i = 0; i < 8; i++)
 {
-ZXxekQ = (double)(eDAn7i + (1806571953));
+
 }
 
 for (int i = 4; i >= 0; --i)
@@ -150,7 +150,7 @@ wULv4 = (double)(Xl4pM8);
 D115_bY = (int)ceil(D_js4wm8);
 
 cout << "aa_UEaq" << puJ7 << wZ9LS << Xl4pM8 << endl;
-ga8z = f3li1uW9 - 305859538;
+
 pLwRzCA = ajYe4CZI / ys27l4;
 
 QOr60_7VvZ = (double)(Q44Y);
@@ -254,7 +254,7 @@ hOSW = H65e * 1531573947;
 }
 else
 {
-jq_m = (QOr60_7VvZ > eDAn7i) ? -1729756625 : 213329440;
+
 }
 
 if (F_Ffr86)
@@ -293,7 +293,7 @@ int i = 0;
 do
 {
 i++;
-G7wc7X82mF = (int)floor(MRWmXR3U);
+
 }
 while (i < 2);
 }
@@ -359,7 +359,7 @@ case 2:
 wULv4 = J85v / 556076319;
 break;
 case 3:
-WHf1R_ = (WC_2D1U35Z > 1844481627) ? ztz1X : K5Df1SB;
+
 break;
 case 4:
 H65e -= 1071357569;
@@ -427,7 +427,7 @@ case 'b':
 x2QX = jU2Lt - wULv4;
 break;
 case 'c':
-ceS_ = (int)ceil(hOSW);
+
 break;
 case 'd':
 VCIFa /= D984Vb;
@@ -439,7 +439,7 @@ case 'f':
 
 break;
 case 'g':
-tBr0 /= 1085490510;
+
 break;
 case 'h':
 B6y4 = F_Ffr86 - B6y4;
@@ -472,7 +472,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-d5e8Gnu8e = f3li1uW9 - 471237570;
+
 break;
 case 'c':
 case 'C':
@@ -504,7 +504,7 @@ if (vXkMb_n != CemIY1_9)
 switch (Lw0ZN)
 {
 case 'a':
-tBr0 = (int)ceil(F_Ffr86);
+
 break;
 case 'b':
 X76tc6 = (int)ceil(puJ7);
@@ -531,7 +531,7 @@ if (INUECihav9)
 }
 else if (l6a44ZXuR1 > f3li1uW9)
 {
-ZAVN = (int)ceil(F_Ffr86);
+
 }
 else
 {

@@ -356,7 +356,7 @@ d4OG = (int)ceil(ew67v54F);
 switch (wff1F)
 {
 case 0:
-A22E2b = U0KR_zZ(1427338057, -1370080226, 1316162982, L46Y9y5ZTy, ID4e_);
+
 break;
 case 1:
 k4kWXj_x = (int)floor(h8S__i);
@@ -399,7 +399,7 @@ case 'c':
 v21__64th = Q2E_22DXvJ(988880665, orWr4vZ3U8, 10872600, yf1s, w8OGZEH);
 break;
 case 'd':
-d4OG = (int)floor(ZfqXtM2e9R);
+
 break;
 case 'e':
 
@@ -411,7 +411,7 @@ case 'g':
 e88yDI = U0KR_zZ(319928169, r1H_Byb1, 405306729, -1256214732, 791919943);
 break;
 default:
-ID4e_ = (int)floor(kq0W5LL);
+
 break;
 }
 }
@@ -502,7 +502,7 @@ if (L46Y9y5ZTy == 306241678)
 {
 for (int k = 9; k >= 0; --k)
 {
-d98Q = (int)floor(LK9lyT_F6);
+
 }
 }
 else

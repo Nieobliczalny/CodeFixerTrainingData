@@ -45,7 +45,7 @@ int main(int argc, char** argv) {
     unsigned char    aOi1r;
     aOi1r    =    -1464056525;
  unsigned char OMi2H;
- OMi2H = -1661303238;
+
     char    mqKk33;
     mqKk33    =    -774958671;
   unsigned char  eq8OF5;
@@ -355,7 +355,7 @@ case 8:
 
 break;
 default:
-dEzFKh8 = beNQ8X70n6 & 311604271;
+
 break;
 }
 E227T = (unsigned int)(VrPUlsawN);
@@ -501,7 +501,7 @@ case 0:
 
 break;
 case 1:
-w70d22S4T = mHT2mQJWm4 - wHDf;
+
 break;
 }
 
@@ -521,7 +521,7 @@ while (i >= 0)
 switch (wHDf)
 {
 case 0:
-IH7Pc = (int)abs(zhTq);
+
 break;
 case 1:
 Yof5EoK = (int)abs(wa4mHWZAB);
@@ -533,7 +533,7 @@ case 3:
 Ks_19W = XkLtDw(aOi1r);
 break;
 case 4:
-HiUE9yuG3C = (int)ceil(e3vE68);
+
 break;
 case 5:
 mHT2mQJWm4 = lDXxkO8v_E(1514498839);
@@ -548,7 +548,7 @@ case 8:
 E6aJz9--;
 break;
 case 9:
-VrPUlsawN ^= m2Oa;
+
 break;
 default:
 Yof5EoK = (int)floor(HiUE9yuG3C);

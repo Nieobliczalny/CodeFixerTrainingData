@@ -15,7 +15,7 @@ int main()
   BH4qlt8fI  =  -789510658;
   ue0IotGsU  =  -944127507;
   l8nIa  =  451412436;
-  rv40bG  =  1245822518;
+
   U1Gl  =  452367509;
   NM1iu  =  -1702025543;
   CiAvckaVfz  =  -402303749;
@@ -244,7 +244,7 @@ X0Hdf7S3j_ = CiAvckaVfz << 1378136686;
 }
 if (zHBE6 > -1651393608)
 {
-Xs3D |= Z0daL68OQ;
+
 }
 else if (bS5_z <= 794604685)
 {
@@ -275,7 +275,7 @@ else if (ue0IotGsU <= -1172551335)
 }
 else if (YrJ1c == -522251953)
 {
-k4nyWYaz9q = k4nyWYaz9q | sA8BK8N_;
+
 }
 else if (X0Hdf7S3j_ >= 1189917585)
 {
@@ -410,7 +410,7 @@ S4M6 = (short)(Q2UknyRxGd);
 
 
 std::cout << e2Bm_ << "Kl5i3p" << BH4qlt8fI << "oh6Cw4__N" << std::endl;
-Q2UknyRxGd = S4M6 | Ez95n1;
+
 {
 int i = 0;
 do
@@ -500,7 +500,7 @@ case 1:
 sA8BK8N_ = (int)abs(L0QAt21Q);
 break;
 case 2:
-e2Bm_ >>= ue0IotGsU;
+
 break;
 case 3:
 qQ_B1bm377 = sA8BK8N_ & 547943968;
@@ -516,7 +516,7 @@ break;
 
 if (tR3Gwd_Fn4 != -1077217040)
 {
-S4M6 += 993672882;
+
 }
 
 return 0;

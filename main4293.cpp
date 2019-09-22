@@ -91,7 +91,7 @@ int main(void)
   unsigned short int  r0JWz5j4Jq;
   r0JWz5j4Jq  =  2124421504;
 	char	a_x4b;
-	a_x4b	=	717281777;
+
   unsigned short int  Uw2M;
   Uw2M  =  1007914331;
  long long M593M6f8;
@@ -119,7 +119,7 @@ int main(void)
   unsigned short int  t2EEHa21t;
 
 	short	Eo3_1;
-	Eo3_1	=	-1314788542;
+
  unsigned char WLsbCjb;
  WLsbCjb = 1457695707;
 
@@ -257,7 +257,7 @@ case 0:
 
 break;
 case 1:
-NIQR00_nc8 = L866U9oiG >> BzJKl1H;
+
 break;
 case 2:
 WLsbCjb ^= 646018389;
@@ -304,7 +304,7 @@ else if (teqc34u & d76e7U)
 }
 else if (q7kOlt <= m8Q0R45)
 {
-q7kOlt = (int)abs(yQQJQl5);
+
 }
 else if (gZa610e4 < -413092357)
 {
@@ -324,7 +324,7 @@ uah0zfr0eW = gb8RKem(-1773558324, YTyNi, 1043512187, -599595674);
 }
 
 
-qd194eRO = (unsigned long long)(rXh55Y69x);
+
 
 gZa610e4 = (int)ceil(Fmj_gr2);
 z4c0X4 = gb8RKem(WroD_0RP, rBCC, -1931695208, -1296475868);
@@ -339,7 +339,7 @@ else if (YTyNi <= WaO28_X)
 {
 for (int j = 9; j >= 0; --j)
 {
-rBCC = (short int)(lHo80);
+
 }
 }
 else if (WaO28_X)
@@ -367,7 +367,7 @@ case 1:
 
 break;
 case 2:
-Fmj_gr2 = (YTyNi >= m8Q0R45) ? -311686157 : d76e7U;
+
 break;
 case 3:
 Ln60 -= gBS2;
@@ -385,7 +385,7 @@ case 7:
 r_p8Jt5aU9 = (int)abs(rXh55Y69x);
 break;
 case 8:
-lHo80 -= wzGM;
+
 break;
 case 9:
 XRDd6sBSQ = (int)floor(gZa610e4);
@@ -413,7 +413,7 @@ if (sCA4)
 }
 else
 {
-teqc34u = gb8RKem(F_3XY5Q327, Urtma, sCA4, 955211601);
+
 }
 }
 }

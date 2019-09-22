@@ -29,7 +29,7 @@ int main(int argc, char** argv) {
   unsigned long  brie;
   brie  =  -493171490;
   unsigned short  iP26EHG;
-  iP26EHG  =  -897131165;
+
     unsigned short    Mp_V;
     Mp_V    =    -387515479;
  char wA7yEi73C;
@@ -41,7 +41,7 @@ int main(int argc, char** argv) {
 	long	MjMTEZWi;
 	MjMTEZWi	=	2020656371;
 	unsigned int	T77jJCn;
-	T77jJCn	=	665712546;
+
     unsigned char    KoXhh_Sw;
     KoXhh_Sw    =    2064566308;
  long long Zr5UZ;
@@ -57,7 +57,7 @@ int main(int argc, char** argv) {
  long double e67M0p;
  e67M0p = -2028996799;
   unsigned int  wh6n;
-  wh6n  =  -1708624996;
+
     long long    Mkuu_vj;
 
     short    u70n;
@@ -67,7 +67,7 @@ int main(int argc, char** argv) {
   unsigned short int  WOD71k10Tu;
   WOD71k10Tu  =  87612747;
 	short int	Wt41o;
-	Wt41o	=	-1302368539;
+
   unsigned char  gvkrc;
   gvkrc  =  3213503;
 	int	gw__8BsFyu;
@@ -77,7 +77,7 @@ int main(int argc, char** argv) {
     unsigned char    QobKc50;
     QobKc50    =    360090752;
   long double  Jkp8qH3_;
-  Jkp8qH3_  =  -1770085373;
+
     unsigned char    nwlgKo_zN;
     nwlgKo_zN    =    -1298479278;
 	short	WN5_4Nm_1;
@@ -103,7 +103,7 @@ int main(int argc, char** argv) {
 	unsigned long	PEyO;
 	PEyO	=	0;
  int GJBl;
- GJBl = 1703728205;
+
   long  KmANR1k0I4;
   KmANR1k0I4  =  -2032780508;
  unsigned short EN0yRGhR8;
@@ -115,7 +115,7 @@ int main(int argc, char** argv) {
   float  qbw4p2T;
   qbw4p2T  =  -23868578;
  long double pp_JWoI461;
- pp_JWoI461 = 1266968311;
+
     short    n0fo9f7p_0;
     n0fo9f7p_0    =    353048226;
  short LOQr2;
@@ -129,7 +129,7 @@ int main(int argc, char** argv) {
   int  voe3;
   voe3  =  1255274721;
 	unsigned char	RR2KTu08;
-	RR2KTu08	=	-1821018277;
+
 	unsigned short int	F_fA_13r;
 
 	unsigned long long	P5h9b;
@@ -251,7 +251,7 @@ case 'b':
 
 break;
 case 'c':
-e67M0p = (int)floor(oHcFVOs_W);
+
 break;
 case 'd':
 oHcFVOs_W = (int)ceil(OeO1l);
@@ -266,7 +266,7 @@ case 'g':
 FbL8T = (int)abs(Px1pXd8fR);
 break;
 default:
-Xhpz8f = (int)floor(qbw4p2T);
+
 break;
 }
 }
@@ -284,7 +284,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-a7w4 += 1733864890;
+
 break;
 case 'c':
 case 'C':
@@ -296,7 +296,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-b2bYh4811u = (int)abs(jp1vyvqD);
+
 break;
 case 'f':
 case 'F':
@@ -307,7 +307,7 @@ case 'G':
 
 break;
 default:
-RaWYATPa += Y_eCK13jg;
+
 break;
 }
 }
@@ -355,7 +355,7 @@ for (int k = 6; k >= 0; k--)
 switch (QMSX90R2)
 {
 case 0:
-sGiw0E = (int)floor(qbw4p2T);
+
 break;
 case 1:
 
@@ -367,7 +367,7 @@ case 3:
 wA7yEi73C++;
 break;
 }
-WN5_4Nm_1 = -1821766957 / sJA9obZ0TH;
+
 try
 {
 if ((u9rpPka < 1606499003) || ((DoZC9o22) || (hQCN6v88I0 > 2033011106)))

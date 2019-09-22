@@ -160,7 +160,7 @@ case 3:
 R_60nRa = (int)abs(F77VDK);
 break;
 case 4:
-memck = YKAohC72();
+
 break;
 default:
 

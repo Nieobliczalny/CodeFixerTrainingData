@@ -37,7 +37,7 @@ int main()
     unsigned long long    KrtW;
     KrtW    =    -1510755154;
     unsigned int    pjWjB0xeJ;
-    pjWjB0xeJ    =    0;
+
  int l4xY;
  l4xY = 256744400;
     long    RGo6_E;
@@ -49,7 +49,7 @@ int main()
  float IhkA;
  IhkA = 357284458;
 	unsigned short	PLOP2Jq4;
-	PLOP2Jq4	=	-1594546061;
+
     long long    kv0K7I431;
     kv0K7I431    =    1503398108;
     unsigned short    kKBX_a;
@@ -65,7 +65,7 @@ int main()
  long w7O5;
  w7O5 = -203411786;
   int  Q2o_R;
-  Q2o_R  =  0;
+
 	long long	y2gvdH1w0;
 	y2gvdH1w0	=	165621589;
   unsigned short  j8M3FH;
@@ -77,7 +77,7 @@ int main()
   long long  hn__wGn;
   hn__wGn  =  0;
  int CW1_CrPCbC;
- CW1_CrPCbC = -137708442;
+
   unsigned long  dE942CEF08;
 
   char  g1o9K_Veo;
@@ -109,7 +109,7 @@ case 'a':
 
 break;
 case 'b':
-IhkA = (int)floor(EiH5);
+
 break;
 case 'c':
 y2gvdH1w0 = qP6t5lc1(y2gvdH1w0, -914414414, udiFw0d6VI);
@@ -121,7 +121,7 @@ case 'e':
 
 break;
 case 'f':
-w5S1vrnU2o = (int)abs(uR_u81);
+
 break;
 case 'g':
 fgLPh = (int)abs(g1o9K_Veo);
@@ -138,7 +138,7 @@ P6XA6QL_ = W_2z3k(918114108, y2gvdH1w0);
 switch (udiFw0d6VI)
 {
 case 0:
-dE942CEF08 = qP6t5lc1(-1427205898, l4xY, -2132595148);
+
 break;
 case 1:
 
@@ -151,7 +151,7 @@ kv0K7I431 %= zwl7262s_7;
 w5S1vrnU2o = -403532118 / LHwU_C(-1824551569, 2105917511, 493656178);
 try
 {
-IhkA = (float)(w1xHV4);
+
 }
 catch (int& errorCode)
 {
@@ -169,7 +169,7 @@ if (ExP_nD9s8n)
 switch (w5S1vrnU2o)
 {
 case 'a':
-CW1_CrPCbC = (int)abs(hn__wGn) + (1369323718);
+
 break;
 case 'b':
 
@@ -181,7 +181,7 @@ case 'd':
 IhkA = (int)ceil(EiH5);
 break;
 case 'e':
-g1o9K_Veo /= kv0K7I431;
+
 break;
 case 'f':
 
@@ -204,7 +204,7 @@ else
 {
 if (ExP_nD9s8n == w7O5)
 {
-fgLPh = TCyyt * y2gvdH1w0;
+
 }
 else
 {

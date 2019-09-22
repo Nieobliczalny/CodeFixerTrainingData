@@ -144,7 +144,7 @@ while (k < 10);
 }
 else if (CW1_ <= cGb7pM)
 {
-Kuh5s = (int)floor(q04b_0M);
+
 }
 else if (jCk_u3XHr_)
 {
@@ -154,7 +154,7 @@ if (IIu5162jM > -893897607)
 }
 else
 {
-q04b_0M = XtVH >> 345868069;
+
 }
 }
 else
@@ -191,7 +191,7 @@ while (j >= 0);
 }
 else
 {
-IIu5162jM = N_gXOBxb3(IIu5162jM, 735757046, -625696826, KfviA0, -858875840);
+
 }
 return 0;
 }

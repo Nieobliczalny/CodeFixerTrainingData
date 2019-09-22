@@ -122,7 +122,7 @@ nY1_o24 = jSL81 + oL938TNMm;
 }
 if ((W5u_lN7Zge <= U22h1bj) && (IaCE3p5p < j40VdWWg30))
 {
-J63fy = (unsigned long long)(WV1Q17);
+
 }
 else
 {
@@ -137,7 +137,7 @@ int i = 0;
 do
 {
 i++;
-U22h1bj = (int)ceil(Mejg_jtrn);
+
 }
 while (i < 10);
 }
@@ -162,7 +162,7 @@ case 3:
 Mejg_jtrn = (int)ceil(Am73_);
 break;
 case 4:
-U22h1bj = (int)ceil(aLdG8Sh);
+
 break;
 case 5:
 

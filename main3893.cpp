@@ -33,7 +33,7 @@ int main()
  unsigned short LKV3;
  LKV3 = -245167704;
   unsigned short int  SO9BE;
-  SO9BE  =  1040996971;
+
   unsigned short int  FOHYM;
   FOHYM  =  882101487;
     long double    lH8o2IJz4;
@@ -51,7 +51,7 @@ int main()
 	long	ZrH_hh8;
 
     unsigned char    A4s87Z5y;
-    A4s87Z5y    =    466848273;
+
     float    X3__dSRlif;
     X3__dSRlif    =    900863335;
   long double  fxm0;
@@ -93,7 +93,7 @@ if (B9W5TKj4 >= 1178995037)
 }
 else if (sYxU3f > Flc3)
 {
-fMA2sQ2n = G8n689L();
+
 }
 else if (fxm0 >= -457786304)
 {
@@ -272,7 +272,7 @@ fMA2sQ2n = G8n689L();
 
 if (rRMf9z50Z != -1612682763)
 {
-fxm0 = (int)ceil(lH8o2IJz4);
+
 }
 else
 {
@@ -284,7 +284,7 @@ if ((UIfE5a4) || ((N72N38 != X3__dSRlif) || (Flc3 >= LKV3)))
 }
 else if (rRMf9z50Z != SQPLPxj)
 {
-lH8o2IJz4 = (int)floor(fxm0);
+
 }
 else
 {

@@ -648,7 +648,7 @@ if (j46pwRPj == -116518327)
 switch (z_R_5)
 {
 case 0:
-Uvdk4U9 = (int)abs(z_R_5);
+
 break;
 case 1:
 VHPI0dQ = (int)floor(s1JX2v);
@@ -742,7 +742,7 @@ switch (D6x93F3)
 {
 case 'a':
 case 'A':
-eI5Fxos0 /= 784585847;
+
 break;
 default:
 

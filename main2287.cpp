@@ -45,7 +45,7 @@ int main() {
     unsigned short int    HO64;
     HO64    =    933844842;
 	long long	Uu441_;
-	Uu441_	=	-500718027;
+
   unsigned long  JSDZYFS4_;
   JSDZYFS4_  =  -147373761;
  unsigned char n97D83V_;
@@ -69,7 +69,7 @@ int main() {
  unsigned long long cW6q65Z4YA;
  cW6q65Z4YA = 232649204;
 	int	r2c1vvYZtM;
-	r2c1vvYZtM	=	17782293;
+
     long long    Y7ClQI9n7;
     Y7ClQI9n7    =    1963671103;
  unsigned short int uD_16;
@@ -85,7 +85,7 @@ int main() {
 	short int	V83fpmpsjW;
 
   char  m17yQ65;
-  m17yQ65  =  1964090076;
+
 	double	r1qAR;
 	r1qAR	=	2000340681;
 	short int	wnQ6Zrl;
@@ -99,7 +99,7 @@ int main() {
 	unsigned short	J9gR_l5vO1;
 
 	unsigned char	C3KGt9xF;
-	C3KGt9xF	=	1939336952;
+
 	char	ps0AkI_;
 	ps0AkI_	=	204302812;
     char    r7dX_QRH7A;
@@ -159,7 +159,7 @@ int main() {
   long  tZ9fV;
   tZ9fV  =  -493677187;
   unsigned char  DCZ19x;
-  DCZ19x  =  -752587660;
+
     long long    yh7Jq67e9I;
     yh7Jq67e9I    =    -1688449124;
   double  X7pVd8d;
@@ -300,7 +300,7 @@ case 'b':
 dS0BHd9_cj = (int)ceil(r1qAR);
 break;
 case 'c':
-DCZ19x = rOlY3upyP4 / 1845465414;
+
 break;
 case 'd':
 t7DN = B3xoR0n4fz(t7DN, WpA7O, UXBGhSvoIZ);
@@ -321,7 +321,7 @@ case 'i':
 vsgrl2q = FS4i5 + 1699393971;
 break;
 default:
-yOF_m4wC3U = B3xoR0n4fz(1411537983, T5efA1AI, x_Ow);
+
 break;
 }
 i--;
@@ -361,7 +361,7 @@ ID5_cG6 = (int)ceil(abM528n);
 break;
 case 'c':
 case 'C':
-DCZ19x = (XBTWt >= t7DN) ? dS0BHd9_cj : YhY0E8032_(wnQ6Zrl);
+
 break;
 case 'd':
 case 'D':
@@ -436,7 +436,7 @@ if (hJfO)
 }
 }
 
-pi0z = (float)(n97D83V_);
+
 
 Uu441_ = vsgrl2q / rOlY3upyP4;
 
@@ -500,7 +500,7 @@ HM_ZXE5v30 = (int)ceil(ixNSx);
 break;
 case 'c':
 case 'C':
-HY4m = (int)abs(abM528n);
+
 break;
 case 'd':
 case 'D':
@@ -512,7 +512,7 @@ X7pVd8d = (int)floor(JvySWE9Q);
 break;
 case 'f':
 case 'F':
-pi0z = (int)ceil(HM_ZXE5v30);
+
 break;
 case 'g':
 case 'G':
@@ -567,7 +567,7 @@ if (GFdf5 == -1699099814)
 {
 try
 {
-VP2OnfibW = YhY0E8032_(-250629015) - 1358500575;
+
 }
 catch (int& errorCode)
 {
@@ -634,7 +634,7 @@ case 0:
 
 break;
 case 1:
-b_47w5xoSO = B3xoR0n4fz(b_47w5xoSO, cW6q65Z4YA, -1797365106);
+
 break;
 case 2:
 F579 %= yh7Jq67e9I;
@@ -709,7 +709,7 @@ else
 
 for (int i = 8; i >= 0; --i)
 {
-n97D83V_ = (unsigned char)(FS4i5);
+
 }
 
 return 0;

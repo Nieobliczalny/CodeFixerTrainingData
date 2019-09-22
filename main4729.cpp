@@ -50,7 +50,7 @@ int main(int argc, char** argv) {
  float dEs36e9;
  dEs36e9 = 1733835035;
 	unsigned int	On_6GXe;
-	On_6GXe	=	0;
+
 	unsigned char	ORx9F;
 	ORx9F	=	-193900051;
     int    eR36;
@@ -132,7 +132,7 @@ int main(int argc, char** argv) {
 	char	w89c3g6l;
 	w89c3g6l	=	153053083;
     unsigned short    Mly1oHBd5M;
-    Mly1oHBd5M    =    -1676558915;
+
 
 {
 int i = 5;
@@ -346,7 +346,7 @@ Tt08erj = rfXz(149846514, -742036705, oCixw8, vP_YP0LR0);
 }
 else
 {
-h1o7jD -= 1173829735;
+
 }
 
 
@@ -388,7 +388,7 @@ try
 {
 if (v7U77_ != Q6V5Mi0aj)
 {
-On_6GXe = S1WS_l(nvPf6dZ2bH);
+
 }
 else if (O4_2sgP >= cm04m5)
 {
@@ -468,7 +468,7 @@ case 1:
 
 break;
 case 2:
-qmT5t_nid = (int)floor(WWEiX);
+
 break;
 case 3:
 K18uKfTt = (int)floor(WWEiX);

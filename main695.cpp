@@ -87,7 +87,7 @@ case 'b':
 Z82h_Vw = (int)abs(snp_S0L_v);
 break;
 case 'c':
-y8z7n_BDw4 = nURf3(-2044606947, aZ55jY, D9R4);
+
 break;
 case 'd':
 U2jEy >>= 1166014500;
@@ -162,7 +162,7 @@ if ((NDnS6j >= mN2O4) && (Y77Zh5 > 544033314))
 }
 else if (((O27HOVZgM <= -305666255) && (qRdv == arj6819Oo)) && (d4_4I4))
 {
-N_H2 = nURf3(snp_S0L_v, 692279510, W4S6BrbZAE) ^ 1399842546;
+
 }
 else
 {

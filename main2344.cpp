@@ -186,7 +186,7 @@ n0nDD += 1011846319;
 break;
 case 'c':
 case 'C':
-GhUW = AJc5wZ9804 ^ mZ25T;
+
 break;
 case 'd':
 case 'D':
@@ -206,7 +206,7 @@ lqvB = DnEo(uoK8u, -1201268724, lqvB);
 break;
 case 'h':
 case 'H':
-D4Vg = pCXHyK5X9G();
+
 break;
 case 'i':
 case 'I':
@@ -217,7 +217,7 @@ case 'J':
 kjn0C8_R6d = pCXHyK5X9G();
 break;
 default:
-mZ25T = (int)abs(uoK8u);
+
 break;
 }
 }
@@ -278,7 +278,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-G4T81y = FzCq9Cf(889485290, 1808924929, Zf_y_K290, a4_j2ee);
+
 break;
 case 'c':
 case 'C':
@@ -304,7 +304,7 @@ while (i < 4);
 
 
 cout << "ItR4AkL90w" << AJc5wZ9804 << "YEoRK" << endl;
-a4_j2ee = pCXHyK5X9G();
+
 
 return 0;
 }

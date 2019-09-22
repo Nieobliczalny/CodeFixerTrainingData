@@ -376,7 +376,7 @@ le0Q = Ay9ObNabz9 * 797236846;
 break;
 case 'b':
 case 'B':
-pvJ85csJ *= le0Q;
+
 break;
 case 'c':
 case 'C':
@@ -404,7 +404,7 @@ else
 {
 
 }
-AP6qy52cu = (long double)(UG_T4Drn);
+
 {
 int i = 4;
 do
@@ -449,7 +449,7 @@ while (i < 5);
 
 
 
-AP6qy52cu = Lf18T_f_vA - POG_y;
+
 
 cout << b3lWjoL2M << endl;
 

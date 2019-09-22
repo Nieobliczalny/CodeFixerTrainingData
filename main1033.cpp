@@ -268,7 +268,7 @@ case 2:
 
 break;
 case 3:
-uUyQHfi *= 905054846;
+
 break;
 case 4:
 uUyQHfi >>= BZeDNY4uxl;
@@ -318,7 +318,7 @@ QUX6O87Z = (int)abs(eIaMmGq6z) + (534074759);
 }
 }
 
-uUyQHfi = FOd0Tiz | 1814007659;
+
 
 
 
@@ -339,7 +339,7 @@ lJRYmr8N3 = (int)abs(c713);
 break;
 case 'd':
 case 'D':
-BZeDNY4uxl = gIiG9 ^ T6Osdh2f;
+
 break;
 case 'e':
 case 'E':
@@ -351,7 +351,7 @@ kWyr5 = (int)floor(c713);
 break;
 case 'g':
 case 'G':
-c713 = (int)floor(kWyr5);
+
 break;
 case 'h':
 case 'H':

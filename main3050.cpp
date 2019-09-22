@@ -29,7 +29,8 @@ short  U_7x5FWB(unsigned short  BYSEbaHwoH,short  A3vgfA_sz,unsigned short int  
 
 int main(void) {
   short  c907M6UN,  F6T_eI2V,  On_ts23_q,  u6fJr4IR;
-    c907M6UN  =  F6T_eI2V  =  On_ts23_q  =  u6fJr4IR  =  0;
+    // codechecker_intentional [deadcode.DeadStores] Design rule - initialize all variables
+	c907M6UN  =  F6T_eI2V  =  On_ts23_q  =  u6fJr4IR  =  0;
   unsigned char  sEt28J3d0D,  X59r2_1xY1,  vahnX7z2,  D00GqxRS5L,  kq5jE58oU,  Wa5p9mTT5,  Px0y7Z13,  K_0zh4,  Mq2YV2X1oL,  Jm45HGQmx,  n_n7QP5s65,  VhdvB66,  IQs1C7I3,  BR3T_,  uK9jhg3IOt,  Afxc3H,  Q62Sz02H4,  tWW54xk,  rqi64,  i5Vfizc,  K98Pxc;
     sEt28J3d0D  =  X59r2_1xY1  =  vahnX7z2  =  D00GqxRS5L  =  kq5jE58oU  =  Wa5p9mTT5  =  Px0y7Z13  =  K_0zh4  =  Mq2YV2X1oL  =  Jm45HGQmx  =  n_n7QP5s65  =  VhdvB66  =  IQs1C7I3  =  BR3T_  =  uK9jhg3IOt  =  Afxc3H  =  Q62Sz02H4  =  tWW54xk  =  rqi64  =  i5Vfizc  =  K98Pxc  =  -773748418;
 

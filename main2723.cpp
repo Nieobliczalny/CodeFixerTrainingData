@@ -168,7 +168,7 @@ case 0:
 kKR4 = (int)floor(L1qS37G);
 break;
 case 1:
-Wad_t1 = aFq9D(z8_X, -1716723363, 1843547064, rwd8CUT0x);
+
 break;
 case 2:
 LzaWYya += 617375917;
@@ -266,7 +266,7 @@ case 2:
 K2E_de65 = aFq9D(K2E_de65, -177526510, v5q0yonbu3, 1600147580);
 break;
 case 3:
-S88f_9vF = oM_7();
+
 break;
 case 4:
 Ww893W7Y6t = aFq9D(-1988749915, 471798826, s3DA, 1587159089);
@@ -478,7 +478,7 @@ default:
 fd1c28P = (int)ceil(kKR4);
 break;
 }
-Phi5y5_My1 %= 881258086;
+
 
 {
 int i = 5;
@@ -509,7 +509,7 @@ else if (P_40UY & 1263570329)
 int k = 0;
 while (k < 9)
 {
-S88f_9vF = (int)abs(si1s) * 0;
+
 ++k;
 }
 }
@@ -547,7 +547,7 @@ case 1:
 
 break;
 case 2:
-Wad_t1 = J51a % pg6N3fSC_;
+
 break;
 case 3:
 VoSVq = (int)abs(rstYtV23_z);
@@ -588,7 +588,7 @@ for (int j = 0; j < 6; j++)
 {
 for (int k = 7; k >= 0; k--)
 {
-S88f_9vF = oM_7();
+
 }
 }
 }

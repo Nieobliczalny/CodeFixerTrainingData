@@ -36,7 +36,7 @@ int main()
 	int	r3095OMQ9,	OlK27NH,	mKLUgV,	IYcL16x_6,	pxwf,	loX9,	Y1T9yTRy4r;
 
 	OlK27NH	=	1535288610;
-	mKLUgV	=	596257823;
+
 	IYcL16x_6	=	1213489371;
 	pxwf	=	322263238;
 	loX9	=	384647959;
@@ -51,7 +51,7 @@ while (i < 5)
 }
 }
 
-mKLUgV = -1035252299 / FNaA;
+
 
 OlK27NH++;
 return 0;

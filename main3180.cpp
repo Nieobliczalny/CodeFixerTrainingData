@@ -198,7 +198,7 @@ prWQDcf %= 1426748052;
 break;
 case 'i':
 case 'I':
-KM554322 <<= 1874790826;
+
 break;
 case 'j':
 case 'J':
@@ -211,7 +211,7 @@ for (int j = 9; j >= 0; j--)
 {
 try
 {
-Qf4u = n802XIv << 1076869693;
+
 }
 catch (int& errorCode)
 {

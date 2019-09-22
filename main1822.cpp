@@ -288,7 +288,7 @@ case 0:
 
 break;
 default:
-O49oKv = (int)abs(q3_625U);
+
 break;
 }
 }
@@ -329,7 +329,7 @@ case 'a':
 
 break;
 case 'b':
-NQt05Nkm = p_0ULQ & 2109096684;
+
 break;
 case 'c':
 yMg_Pmbq--;

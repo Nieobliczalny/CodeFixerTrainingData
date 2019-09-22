@@ -315,7 +315,7 @@ std::cout << K8Pv75 << "zJ58Bsde" << f5sU_0(vjz31oy2k_, 1813334750, JS0Sx, zPu8,
 switch (CTd34tGS)
 {
 case 0:
-BuCq_mm8_ <<= 1585602428;
+
 break;
 case 1:
 U4A_w26M = s747aBAG(794360974, -1501326666, -1975122198, -74089937);
@@ -327,7 +327,7 @@ case 3:
 
 break;
 default:
-u4M0rMAIul >>= s_16_14pE;
+
 break;
 }
 {

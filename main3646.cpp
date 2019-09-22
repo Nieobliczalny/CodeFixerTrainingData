@@ -131,7 +131,7 @@ case 0:
 
 break;
 case 1:
-Gm5u8UK_W = q8fOb(Y23wrm, 1761166824, kVE6s, Kj_2j);
+
 break;
 case 2:
 e649V = q8fOb(Y23wrm, Gm5u8UK_W, -1243040058, 819866656) ^ 1030643560;
@@ -282,7 +282,7 @@ if (ZoG9wK == 1276816686)
 int j = 6;
 do
 {
-us_qUfz = (long)(PUcP);
+
 --j;
 }
 while (j >= 0);

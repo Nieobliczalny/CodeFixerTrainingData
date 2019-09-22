@@ -95,7 +95,7 @@ int main() {
 	long double	Gg377;
 
     float    m5_P;
-    m5_P    =    718872324;
+
     unsigned char    IlTv71D;
     IlTv71D    =    2109740601;
   double  Ym8F7s;
@@ -532,7 +532,7 @@ m5_P = Xg640B2olW * 86976184;
 break;
 case 'e':
 case 'E':
-Gg377 = (int)ceil(Ym8F7s);
+
 break;
 case 'f':
 case 'F':
@@ -554,7 +554,7 @@ else if (Gg377)
 {
 if (QxF__f0OT0 <= Xg640B2olW)
 {
-Qlk9nh -= 112649838;
+
 }
 else
 {
@@ -608,7 +608,7 @@ case 'f':
 
 break;
 case 'g':
-gy2eq = vE4fBPrE * 849494046;
+
 break;
 case 'h':
 s0_6S2b2 |= n_K0ser;
@@ -674,7 +674,7 @@ else if (OUsb72 < SWP5)
 {
 try
 {
-Gg377 = (int)ceil(vtw0sg9G);
+
 }
 catch (int& errorCode)
 {
@@ -689,7 +689,7 @@ case 0:
 
 break;
 case 1:
-TJO6D76BOy /= vE4fBPrE;
+
 break;
 case 2:
 TdKEZ0BGq1 = (int)floor(m5_P);
@@ -710,7 +710,7 @@ case 7:
 Pux6VhYO = r0ZP8FvR8e & D75_6S_2;
 break;
 case 8:
-m5_P = (int)ceil(Ym8F7s);
+
 break;
 default:
 EI4PCM3_7 = (int)abs(s0_6S2b2);
@@ -732,7 +732,7 @@ case 0:
 
 break;
 case 1:
-Gg377 = (int)ceil(I9sa_53n8);
+
 break;
 case 2:
 gy2eq = OV5PvTJm_6 + Tw_aeZQV;

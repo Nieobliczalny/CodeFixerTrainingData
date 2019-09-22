@@ -31,7 +31,7 @@ int main()
     long long    Wh4lzAg;
         Wh4lzAg    =    0;
 
-r_9_03GyG3 = dSx0v | 73150635;
+
 MO_88 = t784O / Wh4lzAg;
 for (int i = 0; i < 9; ++i)
 {
@@ -46,7 +46,7 @@ j++;
 }
 try
 {
-l1mz = of_s(Wh4lzAg);
+
 }
 catch (int& errorCode)
 {

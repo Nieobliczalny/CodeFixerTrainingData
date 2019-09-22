@@ -33,7 +33,7 @@ int main()
     char    C7oQqS7YE;
     C7oQqS7YE    =    0;
  unsigned char J_LdVZ48;
- J_LdVZ48 = 1044040663;
+
     double    Sek_ba7iM;
     Sek_ba7iM    =    -11408987;
     short    ZNrOl21ua;
@@ -54,7 +54,7 @@ int k = 1;
 do
 {
 k--;
-J_LdVZ48 = K47RBH1g0(-581593012, 1997899429, CsQh0q8);
+
 }
 while (k >= 0);
 }
@@ -85,7 +85,7 @@ while (i < 6);
 }
 
 
-J_LdVZ48 = (CsQh0q8 < V_PVZb) ? VtYOIsd_ : s5dw;
+
 
 jvlOhz4pDJ = (int)abs(VtYOIsd_);
 try

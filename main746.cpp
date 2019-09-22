@@ -115,7 +115,7 @@ while (k >= 0);
 }
 else
 {
-KkFQ = (long long)(V_xaV0);
+
 }
 --i;
 }
@@ -239,7 +239,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-FI2T7 = q47_l2n8b(147825108, -314783673);
+
 break;
 case 'd':
 case 'D':
@@ -309,7 +309,7 @@ case 3:
 OMqI = q47_l2n8b(F4795, OMqI);
 break;
 case 4:
-GMoUtd = (int)floor(FI2T7);
+
 break;
 case 5:
 cIMU8JN = zT3Fhc * 849781470;
@@ -321,7 +321,7 @@ case 7:
 KkFQ = cIMU8JN & 869831721;
 break;
 case 8:
-GMoUtd = (int)ceil(FI2T7);
+
 break;
 }
 }
@@ -331,7 +331,7 @@ while (i >= 0);
 KkFQ = (long long)(zT3Fhc);
 QC7v = (unsigned long long)(CbTZd4YYvI);
 
-F4795 = TE69(-1698416869, AtwesJuez, -1117526184);
+
 return 0;
 }
 

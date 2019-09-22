@@ -147,7 +147,7 @@ case 'a':
 
 break;
 case 'b':
-bp0l6 = VQ7e6Ys6(986755820, Oj27, -528320078);
+
 break;
 case 'c':
 dH6k6_ = a7td(dH6k6_, 983538684);
@@ -185,7 +185,7 @@ case 0:
 
 break;
 case 1:
-h1c3nB8 = VQ7e6Ys6(-1333630092, HK30_BNCx, 701859731);
+
 break;
 case 2:
 FS6QtY1 = (int)abs(q_4eBj0) + (2002571564);
@@ -260,7 +260,7 @@ cout << "g5T3" << a7td(1683587002, xrKnvyg) << "cBoeT14O" << "R84z" << endl;
 }
 else
 {
-dH6k6_ = (short int)(jvmlrzdgM6);
+
 }
 }
 else if (((ZyQ_80 & -1471284004) && (Ad5WM < -881675520)) || (L4353fJ))
@@ -301,7 +301,7 @@ if ((B7qgxw == -1570130320) && ((jvmlrzdgM6) || (zpiM70Jc > dr2tx5)))
 int k = 0;
 while (k < 5)
 {
-L9jN = (int)abs(Z3O2yqi);
+
 k++;
 }
 }
@@ -333,7 +333,7 @@ HK30_BNCx = K__X_8_h2 << Z4K4HTj;
 }
 else if (HK30_BNCx >= -1486489794)
 {
-L9jN = (int)ceil(xJDK01);
+
 }
 else if (V3GT == Qj86XUaoX)
 {
@@ -393,7 +393,7 @@ s2XBU9R7d2 = (int)ceil(xJDK01);
 }
 else if (BJ_347 <= Qj86XUaoX)
 {
-dH6k6_ = (int)abs(CVQ1_a);
+
 }
 else
 {
@@ -412,7 +412,7 @@ case 1:
 
 break;
 case 2:
-R2v_tIj = BJ_347 << 929167736;
+
 break;
 case 3:
 p6D9x0 = yE_wlg4(1030192132);
@@ -433,7 +433,7 @@ do
 switch (LQqx)
 {
 case 'a':
-trD0 = (int)floor(xJDK01);
+
 break;
 case 'b':
 

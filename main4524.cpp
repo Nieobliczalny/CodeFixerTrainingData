@@ -42,7 +42,7 @@ break;
 }
 else
 {
-MYdJkj38 = (double)(dzzjahp);
+
 }
 if (sfNW < -1405694760)
 {
@@ -56,7 +56,7 @@ do
 while (j < 2);
 }
 }
-A7_n_v = D8kn / hK2I85Em;
+
 {
 int i = 0;
 do

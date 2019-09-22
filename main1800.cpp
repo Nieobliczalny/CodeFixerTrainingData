@@ -525,7 +525,7 @@ case 4:
 xax42_1 = (int)abs(j7RYN);
 break;
 case 5:
-AkJ7_F2Yrd = K43_tvjhzb - 2028271099;
+
 break;
 case 6:
 z26ou5k = l8Sm9 % 450348217;
@@ -713,7 +713,7 @@ else
 {
 if (z26ou5k < 1635080848)
 {
-Nh5PTQj04t = k1N_0g5I(750531473, 1898126395, MaTEoj, 917547815) >> k6Ih4;
+
 }
 else if ((s5rro <= 2119282230) || (N0B99X8CP <= 487516016))
 {

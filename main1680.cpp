@@ -207,7 +207,7 @@ case 3:
 IxPZFq = slCuNT / 379378821;
 break;
 case 4:
-lQE_9_2 = (int)floor(PYb5a9);
+
 break;
 default:
 lQE_9_2 *= 2115312655;
@@ -262,7 +262,7 @@ else if (KG1YqNRYY > 1124962952)
 {
 if ((joP9C_8G_7 < slCuNT) && (slCuNT))
 {
-lQE_9_2 = (double)(G6GbC);
+
 }
 else
 {

@@ -105,7 +105,7 @@ int main() {
     unsigned long    vdX_t;
     vdX_t    =    1914695788;
 	unsigned short int	dJ8mfUXtgY;
-	dJ8mfUXtgY	=	310962599;
+
  short us7R;
  us7R = 1720327613;
  long long cpOnS9L;
@@ -420,7 +420,7 @@ break;
 
 
 
-gqLA6 = (unsigned short)(r1bgJGdW + (1070561927));
+
 
 try
 {
@@ -432,7 +432,7 @@ case 0:
 UHWs_E3L = (int)floor(UfO3sxBB);
 break;
 case 1:
-BUr5X__c = JCwdXHdyw(2084120952, -2016795138);
+
 break;
 case 2:
 X4GzM = R0k_MyRW % 1752346689;
@@ -561,7 +561,7 @@ case 'b':
 
 break;
 case 'c':
-BUr5X__c = Qil768N(-284318723, 190249062, -1068231352);
+
 break;
 case 'd':
 RPD9hj3--;
@@ -594,7 +594,7 @@ case 4:
 UH_8zH8v_ = R4uO(UH_8zH8v_, TB2e6w, 1046850508, HKxo);
 break;
 case 5:
-lVI7yG = IB_LPoXLB(559779334);
+
 break;
 case 6:
 C0Q256D2 = bn57pF >> hB0o7;

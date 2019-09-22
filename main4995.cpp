@@ -363,7 +363,7 @@ CsrD >>= 2076742094;
 break;
 case 'd':
 case 'D':
-v2__FNKP = pW4asS6n(qTku_3o, UyC13_, XCVyJJ4, 742421347);
+
 break;
 default:
 u1N_N12 = (int)abs(nBK51772M);
@@ -396,7 +396,7 @@ case 3:
 F25o79sHr = RC38(F25o79sHr, 1581910347, 1559554420, xv704U2z4);
 break;
 case 4:
-UyC13_ = r_ACYF7y << 2108795150;
+
 break;
 case 5:
 u1N_N12 = RC38(u1N_N12, -286042427, B_u7H, qTku_3o);
@@ -422,7 +422,7 @@ while (i >= 0);
 int i = 9;
 do
 {
-F25o79sHr = (int)ceil(u1N_N12);
+
 i--;
 }
 while (i >= 0);

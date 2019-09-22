@@ -315,7 +315,7 @@ case 'e':
 
 break;
 case 'f':
-k_6Deo = p2ve1X_o(mAv0LpoH, k_6Deo);
+
 break;
 case 'g':
 wzJ0k4F7Xg--;
@@ -440,7 +440,7 @@ else
 {
 for (int k = 0; k < 4; k++)
 {
-j54vT9u = p2ve1X_o(1841144926, nJx7ir34M) << bTR_;
+
 }
 }
 }
@@ -523,7 +523,7 @@ case 'c':
 
 break;
 case 'd':
-n_lp = p2ve1X_o(-679318825, g3rp44);
+
 break;
 }
 
@@ -557,7 +557,7 @@ case 'h':
 mAv0LpoH = t59FiQ50O(-861509942, lU9LOYanNC, j19j6mj, bTR_);
 break;
 default:
-u51M = t59FiQ50O(-1589557945, W0I_r, -1175628788, -2142501111);
+
 break;
 }
 }

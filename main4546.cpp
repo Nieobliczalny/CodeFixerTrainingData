@@ -53,7 +53,7 @@ int main()
   long double  u87an3D9;
   u87an3D9  =  -35264316;
   unsigned char  q00N;
-  q00N  =  1336311879;
+
   unsigned int  A1x9CWf_R8;
   A1x9CWf_R8  =  0;
  unsigned int txxgeLDvT;
@@ -73,7 +73,7 @@ int main()
     unsigned short    E1Gy;
     E1Gy    =    776484245;
   unsigned long long  Ui6KOnk4Av;
-  Ui6KOnk4Av  =  -1631373499;
+
     short int    l4018n7pn_;
 
   char  Q93cwrq;
@@ -91,7 +91,7 @@ int main()
   unsigned short  tZcfTwl0_;
   tZcfTwl0_  =  -1913120989;
  unsigned short int Gf39k;
- Gf39k = -2062785089;
+
   long  gZivTy;
   gZivTy  =  1748845289;
  unsigned long long jU62Y4;
@@ -111,7 +111,7 @@ int main()
   short  Fmog;
   Fmog  =  -853119717;
     unsigned short    pv3l6H15;
-    pv3l6H15    =    -1815815796;
+
 	unsigned short	zi2f3w;
 	zi2f3w	=	1331193176;
     unsigned long long    MZUaTwY_;
@@ -133,7 +133,7 @@ int main()
   short  pG8nQ0j2f8;
   pG8nQ0j2f8  =  1536865322;
 	short int	UoM1D99Qd;
-	UoM1D99Qd	=	2137007365;
+
 	double	Z3_rYh;
 	Z3_rYh	=	1159860832;
 
@@ -275,7 +275,7 @@ std::cout << "zxb1" << "IlB97RmUP" << std::endl;
 
 
 s4XLoG1 = (long long)(a9aW);
-Z3_rYh = (double)(u87an3D9);
+
 enpO31_30 = xVS6Nie8MQ(705376853, 988586219);
 
 if ((tzwX6sa0H5 < eNQw) || (a8OR_90G & -1379135139))
@@ -323,7 +323,7 @@ case 1:
 
 break;
 case 2:
-j9lJ4 = xVS6Nie8MQ(j9lJ4, t8323gG_L);
+
 break;
 case 3:
 t8323gG_L = (int)ceil(priz);
@@ -335,7 +335,7 @@ case 5:
 
 break;
 default:
-EhiBfUL7 = (int)floor(a9aW);
+
 break;
 }
 }

@@ -88,7 +88,7 @@ case 'a':
 
 break;
 case 'b':
-y32cG3uy = eC5_L3tf7 - 1924970488;
+
 break;
 case 'c':
 wGfw7mmE /= jB8XfU;
@@ -100,7 +100,7 @@ case 'e':
 
 break;
 case 'f':
-R17yV2fMc = (U62I != 1805925144) ? Eh47Oxflwb : -694572331;
+
 break;
 case 'g':
 jB8XfU /= 1644243438;
@@ -192,7 +192,7 @@ case 3:
 
 break;
 case 4:
-l5LUw_S = wGfw7mmE * gr_Ye9VO27;
+
 break;
 default:
 tsPd = SyCz * H5249t;
@@ -223,7 +223,7 @@ catch (int& errorCode)
 kmYb_q = U3x8m3Cnpm * 1607223649;
 }
 
-fnrcn9C /= 1759190567;
+
 R22z = (int)floor(REO90Re);
 
 {
@@ -245,7 +245,7 @@ rl8T61 *= 1185307407;
 }
 }
 
-iyGI8 = (int)floor(qBI_LU6Zpx);
+
 switch (e4JI5B)
 {
 case 0:
@@ -258,7 +258,7 @@ case 2:
 
 break;
 case 3:
-tsPd = (int)floor(DlG61);
+
 break;
 case 4:
 NQCGPY85 = A600pvUxv + 120080910;
@@ -271,7 +271,7 @@ default:
 break;
 }
 
-eC5_L3tf7 = qBI_LU6Zpx / 53511023;
+
 
 for (int i = 0; i < 5; ++i)
 {

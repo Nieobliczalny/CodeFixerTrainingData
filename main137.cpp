@@ -15,7 +15,7 @@ int main()
   Qp958y  =  -535468570;
 
   pu44Vn38m  =  -1266422841;
-  R99uvr_J9G  =  -1204939614;
+
 	unsigned short	Pq4e,	zGpZ9H,	ff62dSB,	nbem2njy_,	gh09M6OswM;
 	Pq4e	=	0;
 	zGpZ9H	=	0;
@@ -96,7 +96,7 @@ else
 int k = 4;
 while (k >= 0)
 {
-pu44Vn38m = (gh09M6OswM > zGpZ9H) ? -1840437064 : Pq4e;
+
 k--;
 }
 }
@@ -119,7 +119,7 @@ else if (zGpZ9H <= R99uvr_J9G)
 {
 if (WIz1pG3 != Pq4e)
 {
-pu44Vn38m = (int)floor(ZMXOP);
+
 }
 }
 else if ((ff62dSB >= -233142089) || (zGpZ9H >= 541158810))

@@ -32,7 +32,7 @@ int main(void)
 
 
 
-IOGxuGV = (int)(ZfA1aY85_ + (zkPZzrC));
+
 
 {
 int i = 7;
@@ -80,7 +80,7 @@ case 4:
 G0zz = v_gSjY85(G0zz);
 break;
 case 5:
-y2kdH = OzbaFK9zg / 1991948899;
+
 break;
 default:
 RTu5Uspgz = v_gSjY85(179143553);
@@ -143,7 +143,7 @@ case 'b':
 
 break;
 case 'c':
-OS4kj28 = v_gSjY85(1702922956);
+
 break;
 case 'd':
 rZV3yX = HElg % 1984393267;
@@ -161,7 +161,7 @@ case 'h':
 Mm7l = f383(Mm7l);
 break;
 default:
-bf8fH = h7GW_K9qkt + 1999544575;
+
 break;
 }
 
@@ -187,7 +187,7 @@ KgSe4hsxi /= 816570758;
 break;
 case 'e':
 case 'E':
-y2kdH = o7c37bH / 985229584;
+
 break;
 case 'f':
 case 'F':
@@ -270,7 +270,7 @@ else
 }
 else if (m0M445I < vTbTo9wQKr)
 {
-L48KWdAW = (long)(zkPZzrC * (ZfA1aY85_));
+
 }
 else if (cDlk8LRSr > rZV3yX)
 {
@@ -285,7 +285,7 @@ n2LLTO_2lL = v_gSjY85(-668200596);
 }
 else
 {
-kbtq9w = (int)(zkPZzrC);
+
 }
 }
 else if ((mBg1A_Q9 <= ZfA1aY85_) && (Mm7l >= mt2NH))
@@ -298,7 +298,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-rZV3yX = rVC5Py(rZV3yX, UZ77);
+
 break;
 case 'c':
 case 'C':

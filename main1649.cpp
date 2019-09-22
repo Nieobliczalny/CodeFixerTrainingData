@@ -61,7 +61,7 @@ case 1:
 
 break;
 case 2:
-h206DgjEx = w1bmF(1166710280, Rnh4cdCBV, MPG0_7, W24nkPyEq2, 766247152);
+
 break;
 case 3:
 Z5m527D3 = (int)abs(P3k5n_WV4q);

@@ -287,7 +287,7 @@ case 0:
 
 break;
 case 1:
-tLwDp = n1kA_ << 1150139617;
+
 break;
 case 2:
 Er6i0w = JFaQrn82G5 * R4_o_i99;
@@ -299,7 +299,7 @@ case 4:
 
 break;
 case 5:
-R4_o_i99 = (int)abs(Q1gDy);
+
 break;
 case 6:
 ASrW9JzW0 = PSyZf_1rh7 | R4_o_i99;
@@ -359,7 +359,7 @@ else if (PSyZf_1rh7 & fm55eT_)
 }
 else if (((T6Caq_M0j != -82945356) && (pytUY7v != fm55eT_)) && (T6Caq_M0j > -1015992982))
 {
-ASrW9JzW0 = (short int)(vqiJ);
+
 }
 else if ((tPvRrI >= -2087173733) && (tPvRrI <= 1614500814))
 {
@@ -374,7 +374,7 @@ int i = 10;
 while (i >= 0)
 {
 --i;
-Er6i0w = (int)abs(PSyZf_1rh7);
+
 }
 }
 

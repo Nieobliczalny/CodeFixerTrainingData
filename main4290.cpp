@@ -681,7 +681,7 @@ case 'h':
 LzrkF34 %= 2132516500;
 break;
 }
-EBpi7r1iuV = Ow089 >> sA3n47;
+
 {
 int i = 1;
 do
@@ -770,7 +770,7 @@ case 2:
 SRk_bMb4 = N4wgf(Zh2JVwm0, 1288852099, -839658820, -1250072265, I06Ni60P);
 break;
 case 3:
-i7vT1 *= 1973771345;
+
 break;
 case 4:
 sA3n47 %= 1441450411;
@@ -882,7 +882,7 @@ while (j >= 0)
 {
 if (((tml3M <= -719382985) || (LOiR3 != sbkXA)) && (lRcUxB63 < sbkXA))
 {
-BH0lp8X = tBlV4LrVn ^ 1253173002;
+
 }
 j--;
 }

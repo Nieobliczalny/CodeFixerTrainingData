@@ -18,7 +18,7 @@ int main()
     // codechecker_intentional [deadcode.DeadStores] Design rule - initialize all variables
 	Tc2__42_Q  =  mefg_F  =  Op4i_  =  QU1TXD6M8x  =  c5pX2_  =  1949599886;
   short int  ZbDo0n7x;
-    ZbDo0n7x  =  0;
+
 
 Tc2__42_Q = (int)ceil(Op4i_);
 

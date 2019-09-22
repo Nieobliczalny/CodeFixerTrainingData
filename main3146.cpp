@@ -89,7 +89,7 @@ i++;
 while (i < 5);
 }
 
-eLQk17h_h = (int)abs(D5Z609__UA);
+
 
 cout << P2Y9 << "ifN70Gg" << "L624t6" << endl;
 
@@ -113,7 +113,7 @@ case 0:
 
 break;
 case 1:
-J7cf0x8 = ztg6vX & P2Y9;
+
 break;
 case 2:
 WOvwg = j3lZhE(258845630, WOvwg);
@@ -125,7 +125,7 @@ case 4:
 
 break;
 case 5:
-EI6eg57M4 = ztg6vX & 689960119;
+
 break;
 }
 }
@@ -151,7 +151,7 @@ case 0:
 
 break;
 case 1:
-iw3h = (int)abs(oTEa_31) * 0;
+
 break;
 case 2:
 ISQkm98Pr = EKL_u__M(ISQkm98Pr);
@@ -163,7 +163,7 @@ case 4:
 
 break;
 case 5:
-d9Mh = M960u93Q & EI6eg57M4;
+
 break;
 }
 }

@@ -40,7 +40,7 @@ int main(int argc, char** argv)
 
 if (CB893cpmF() == 0)
 {
-	i056Q_ = i056Q_ / CB893cpmF();
+
 }
 {
 int i = 8;
@@ -109,7 +109,7 @@ else
 l6f_0_3Zm = s3i4R2(k2sNe_, 77051678, -420344954, -469647462, -248188162) + v83z;
 }
 
-x2u58NAr = (unsigned long long)(vM2V11lw3);
+
 return 0;
 }
 

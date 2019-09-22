@@ -69,7 +69,7 @@ nLiDl10g = (int)abs(KR1G21);
 break;
 case 'd':
 case 'D':
-jp99U -= 64420430;
+
 break;
 case 'e':
 case 'E':
@@ -217,7 +217,7 @@ else if ((A21Qy5 <= wmRRk9eUU8) && (c8hr & tCTKN2s6G))
 switch (QH20)
 {
 case 0:
-d_K4D17_ = HsTw7m(Se0tg4, -2035869673, -1163577003, -43551522);
+
 break;
 case 1:
 nLiDl10g = jBVr1s();
@@ -283,7 +283,7 @@ do
 switch (VvAP4)
 {
 case 'a':
-KR1G21 = (int)abs(wGd4);
+
 break;
 case 'b':
 OEuU_rr |= wmRRk9eUU8;

@@ -127,7 +127,7 @@ while (k < 7);
 switch (iD828T)
 {
 case 0:
-pb8a2D = vO4KTq33VB();
+
 break;
 case 1:
 pb8a2D = t928(pb8a2D, -918462132);
@@ -137,7 +137,7 @@ default:
 break;
 }
 
-iD828T = t7Pa(dm0q, j6d7c8, TfaLj60, C7AtU7Yy_g, e2tP7a);
+
 
 toDy = vO4KTq33VB();
 
@@ -153,7 +153,7 @@ switch (sN909q)
 {
 case 'a':
 case 'A':
-V8_E2B = (int)floor(hb_N6lw1wZ);
+
 break;
 }
 

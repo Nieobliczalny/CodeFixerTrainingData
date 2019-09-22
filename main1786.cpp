@@ -74,7 +74,7 @@ int main(int argc, char** argv) {
  long m98zn4;
  m98zn4 = 2023618793;
     unsigned int    RW_XvAv3F_;
-    RW_XvAv3F_    =    1496461792;
+
  double IoSYWo_1zR;
  IoSYWo_1zR = -770737388;
     unsigned long    Y3324;
@@ -88,7 +88,7 @@ int main(int argc, char** argv) {
  unsigned int rvDw1eRR;
  rvDw1eRR = -876465716;
   long long  rlqWzQ;
-  rlqWzQ  =  1061574297;
+
   double  TTW44;
   TTW44  =  -1112232551;
     unsigned char    pU_2u;
@@ -168,7 +168,7 @@ int main(int argc, char** argv) {
   char  SH_l;
   SH_l  =  1085287972;
 	unsigned short	Q_3_;
-	Q_3_	=	1663920539;
+
   short int  qIn97E;
   qIn97E  =  1702116062;
   double  Q15D;
@@ -512,7 +512,7 @@ case 1:
 
 break;
 case 2:
-mNb9P2 = (int)floor(r2g28_);
+
 break;
 case 3:
 N625UNnucb |= 279501861;
@@ -527,7 +527,7 @@ if (rvDw1eRR <= -835066511)
 }
 else if (jh1dp == r58rLZw)
 {
-b4np1CP6s = (int)abs(x39QtD2aG6);
+
 }
 else if (b4np1CP6s < -1841310948)
 {
@@ -539,7 +539,7 @@ else if (dTSrnq <= 577673659)
 }
 else if (Q5oR26VE)
 {
-nf9pH = (int)ceil(n6el6);
+
 }
 else
 {
@@ -602,7 +602,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-S2dV8 = (int)ceil(alJp);
+
 break;
 case 'c':
 case 'C':
@@ -628,7 +628,7 @@ break;
 }
 }
 
-ge9sj02 = uNdDJ7oH9 >> Qtf7f7aqI;
+
 
 S8HOY3Wr_e = (int)ceil(Q15D);
 return 0;

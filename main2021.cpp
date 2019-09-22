@@ -344,7 +344,7 @@ case 1:
 sm7jb9KM6 /= 1899924940;
 break;
 case 2:
-ObIa9IxLEr = sCTF_UZx_7(-473769297, -500295537, -2114923785) ^ 1543067972;
+
 break;
 case 3:
 NV0_DiI = CjcG(W2XM, ODiv3l1Ii, SdF91I3c, 877607160);
@@ -365,7 +365,7 @@ catch (int& errorCode)
 NV0_DiI = (int)abs(mbJpsP764A);
 }
 
-LgSc2 = qT3P0f7V7(LgSc2, Ii590VNf_, B40hy);
+
 if (mbJpsP764A == 0)
 {
 
@@ -375,7 +375,7 @@ int i = 0;
 do
 {
 ++i;
-tpj6S0W = pik16PN4IT / 1923771058;
+
 }
 while (i < 8);
 }
@@ -412,7 +412,7 @@ while (j >= 0);
 }
 else
 {
-LgSc2 = W6n2_B & 1223150648;
+
 }
 return 0;
 }

@@ -17,7 +17,7 @@ int main(int argc, char** argv)
   unsigned char  izmy;
 
 	long long	YL822MVf;
-	YL822MVf	=	975948389;
+
  unsigned long long fhb__;
  fhb__ = -1843333737;
 	double	i4vLuTDx;
@@ -33,7 +33,7 @@ int main(int argc, char** argv)
   float  JuU65aQ;
   JuU65aQ  =  1154539612;
 	char	SO7V;
-	SO7V	=	-2029401182;
+
   double  v_OiX20y;
   v_OiX20y  =  1668349528;
     unsigned long long    Q7e0_;
@@ -43,7 +43,7 @@ int main(int argc, char** argv)
  unsigned int zODL;
  zODL = 992543794;
  long h4ku;
- h4ku = -1266344512;
+
     unsigned short    z8t4F;
     z8t4F    =    0;
     long double    V7s6M;
@@ -53,7 +53,7 @@ int main(int argc, char** argv)
     unsigned long long    TAdqDWO8B6;
     TAdqDWO8B6    =    1355514214;
   unsigned short int  o4hM6_;
-  o4hM6_  =  0;
+
 
 try
 {
@@ -86,7 +86,7 @@ B4Q3iQ = (int)floor(V7s6M);
 std::cout << X1aU9tb(fhb__) << "R0QFp7i6r" << std::endl;
 
 
-z8t4F = X1aU9tb(1607550028);
+
 for (int i = 0; i < 2; ++i)
 {
 i4Y_90 += 1061272352;

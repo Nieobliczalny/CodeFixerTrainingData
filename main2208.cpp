@@ -35,7 +35,7 @@ int main(void)
   unsigned short int  uT3vFnlZ;
   uT3vFnlZ  =  755100721;
   unsigned int  JmuI9BTnN;
-  JmuI9BTnN  =  0;
+
  unsigned int B_8rjbZ6;
 
   short int  l46g;
@@ -45,7 +45,7 @@ int main(void)
  float Zlj500c2g;
  Zlj500c2g = 517234734;
  unsigned long long pqJX8uk;
- pqJX8uk = -831738339;
+
 	short int	uW44vMkt;
 	uW44vMkt	=	2025007180;
     long double    Wf31rS9;
@@ -57,7 +57,7 @@ int main(void)
     unsigned long long    Il_o1i7;
 
  unsigned int vgWS_;
- vgWS_ = 1285248980;
+
   short int  jVk725ob;
   jVk725ob  =  -1140339978;
  long double rq1Up;
@@ -71,7 +71,7 @@ int main(void)
  short int LoA_R;
  LoA_R = 1876166545;
   unsigned int  K3SkN4x6k;
-  K3SkN4x6k  =  189487620;
+
   int  q9lae;
   q9lae  =  -1482509467;
 	long long	hKvh;
@@ -117,7 +117,7 @@ int main(void)
   unsigned short int  Gt9G98V7;
 
     long    NSU8qC_n6;
-    NSU8qC_n6    =    0;
+
   unsigned short  gCn3v3wZ;
   gCn3v3wZ  =  1216655623;
     unsigned char    YivmQ99c;
@@ -191,7 +191,7 @@ Y_w7XB4L = (int)abs(hKvh);
 }
 else if (dbM_gTadz > -731877795)
 {
-K3SkN4x6k = izlIgU(2129653742, -1447407986, Y_w7XB4L);
+
 }
 else if (qtsm51 == 983892443)
 {
@@ -315,7 +315,7 @@ case 2:
 WU_2 = izlIgU(WU_2, -106515571, Rl_8ME2);
 break;
 case 3:
-JmuI9BTnN = Cxhof0Uc2l(1578449028, zn20y, -1247713688, J_X24_);
+
 break;
 case 4:
 
@@ -337,7 +337,7 @@ case 'a':
 
 break;
 case 'b':
-d65UxCqop %= u62zfxNNw;
+
 break;
 default:
 elyqc14g_7 = izlIgU(elyqc14g_7, 1512092470, dqYR62);
@@ -350,7 +350,7 @@ LoA_R = izlIgU(964051395, -1401848322, 1727863239);
 }
 else if (nZ07QyBNp == 1464728488)
 {
-K3SkN4x6k = j0niVb();
+
 }
 else if (((L755D) || (J_X24_ > Zlj500c2g)) || ((sfL78sbFa != 1123617552) && (dbM_gTadz == 826629034)))
 {
@@ -375,7 +375,7 @@ if (gCn3v3wZ == 1231033061)
 switch (u62zfxNNw)
 {
 case 'a':
-sfL78sbFa = izlIgU(sfL78sbFa, WU_2, z8Igo55Bz);
+
 break;
 case 'b':
 Y_w7XB4L = (int)ceil(Zlj500c2g);
@@ -387,7 +387,7 @@ case 'd':
 LoA_R %= zn20y;
 break;
 case 'e':
-uT3vFnlZ = y0xCH3wGh % hKvh;
+
 break;
 case 'f':
 yF33TCm &= J_X24_;
@@ -399,7 +399,7 @@ case 'h':
 veA2EVc2_m = yj4_7();
 break;
 case 'i':
-c2K2z_L4b = j0niVb();
+
 break;
 default:
 elyqc14g_7 = (int)floor(Wf31rS9);

@@ -214,7 +214,7 @@ h_uVzgU *= G6F81O;
 break;
 case 'd':
 case 'D':
-Xmdvh5N = (G6F81O >= n9b8niXl) ? B1_oa9 : FiVQygmT;
+
 break;
 case 'e':
 case 'E':
@@ -226,7 +226,7 @@ case 'F':
 break;
 case 'g':
 case 'G':
-p57ox90nw = (h_uVzgU == gwFo) ? GpTzRJ5gq3 : 1803288366;
+
 break;
 case 'h':
 case 'H':
@@ -342,7 +342,7 @@ cout << "e5a5QFxw" << IC7U4W48 << "PkC6D97Sd" << "W6bj" << h_uVzgU << endl;
 }
 else
 {
-cuhj6F = (int)floor(gwFo);
+
 }
 }
 Heb004 = (long double)(aMsEvV);
@@ -394,7 +394,7 @@ while (j >= 0);
 }
 else
 {
-gwFo /= 1249156593;
+
 }
 if (KICG1s8h == 2020041011)
 {
@@ -419,7 +419,7 @@ for (int i = 2; i >= 0; i--)
 
 }
 GX2J = (int)floor(ih58u1gP);
-CcI_W94 /= NW_4nf5p;
+
 
 {
 int i = 3;

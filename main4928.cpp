@@ -95,7 +95,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-t4Xf = t4Xf - JbmRVzF7;
+
 break;
 default:
 JbmRVzF7 &= 983733053;
@@ -129,7 +129,7 @@ while (k >= 0)
 }
 }
 
-t4Xf = uZV216p4lO();
+
 
 return 0;
 }

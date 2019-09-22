@@ -298,7 +298,7 @@ case 'd':
 
 break;
 case 'e':
-Pay0 |= m6U27U0bj2;
+
 break;
 case 'f':
 InpqcLTP = hKSOd % 1428496824;
@@ -344,7 +344,7 @@ if (ylH7Rm == hKSOd)
 }
 else
 {
-Pay0 = hKSOd + Ofrazi;
+
 }
 
 m6U27U0bj2 *= 832014906;

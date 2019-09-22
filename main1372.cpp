@@ -40,7 +40,7 @@ int main(void) {
  char gu4fsc;
  gu4fsc = 538419773;
   double  tih9;
-  tih9  =  -1623197410;
+
  long double P4M3vP8R_v;
  P4M3vP8R_v = 1039209778;
 	unsigned char	t9vip3;
@@ -66,7 +66,7 @@ int main(void) {
     unsigned long long    Ker0;
     Ker0    =    1638536498;
   unsigned char  LTr87z;
-  LTr87z  =  -1612677677;
+
   float  vARL_5i;
   vARL_5i  =  -879858134;
 	float	b1Dv8t4i5;
@@ -244,7 +244,7 @@ case 'i':
 bT2K47 = ZN07(312880017);
 break;
 case 'j':
-vARL_5i = (int)floor(gj4qO);
+
 break;
 default:
 FaHYaP3U8A = Zy69nm(bT2K47) % d12A2iG;

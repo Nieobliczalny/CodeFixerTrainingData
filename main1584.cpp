@@ -112,7 +112,7 @@ o3zfF6kZ2E = eLEKHZ + z_l7r;
 std::cout << s0gMEd9x8G << d1973D6NJ_(1142022322, myhtGAI5_Q, -1570064192) << P9k04Hq << std::endl;
 
 
-hES2gHhi = (float)(ZJ1C6t);
+
 
 for (int i = 5; i >= 0; i--)
 {
@@ -146,7 +146,7 @@ case 0:
 
 break;
 case 1:
-ERVX0GET = (int)abs(nu3lkt);
+
 break;
 case 2:
 FZ6Y = d1973D6NJ_(FZ6Y, -1986949207, -937543047);
@@ -249,7 +249,7 @@ bg08CVz = d1973D6NJ_(bg08CVz, -659290296, 2111698561);
 }
 else
 {
-F0_n3ArO = d1973D6NJ_(1071781250, h48mPHc, 1198484412);
+
 }
 }
 i++;

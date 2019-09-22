@@ -128,7 +128,7 @@ case 'a':
 
 break;
 case 'b':
-tAaZJX = ZOVO1W0u(85039016, DHT6nUIJZP);
+
 break;
 case 'c':
 DHT6nUIJZP = cDud0832 & 1714492562;

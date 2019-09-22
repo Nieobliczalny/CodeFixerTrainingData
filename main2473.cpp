@@ -148,7 +148,7 @@ MBO2EE = uo5l8 << CTnw;
 T83B7 = (char)(E2L96);
 
 MjayGm3 = (unsigned int)(Z1H7rdVD);
-qH___P = (unsigned long long)(MBO2EE);
+
 f_X_3p9zb = (short int)(y9UvOH);
 
 if (T83B7 >= 1281156336)
@@ -176,7 +176,7 @@ if (IrXP09 == -1730504680)
 }
 else
 {
-f_X_3p9zb += 1060599139;
+
 }
 
 cout << Mti2W_ << "TBW4cL_" << Z1H7rdVD << iAZ0 << endl;

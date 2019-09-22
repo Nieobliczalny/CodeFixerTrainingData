@@ -39,7 +39,7 @@ int main()
 
   eJz_6EQqn  =  -703564954;
   k8c55h  =  -964222890;
-  q7se3uT  =  681424152;
+
   s4xy7D4sFv  =  -2065795051;
   V_Yx_8uc86  =  399644894;
   G13KDVsjQ  =  1546765147;
@@ -50,7 +50,7 @@ int main()
   ZSL4WhKI  =  -52406041;
   LF6mUjWoH  =  -764386897;
 
-  hj2J_Ry  =  2144906123;
+
   c_p2BU  =  -800399821;
   CVaW8_taEo  =  -1902183812;
   x5_8613  =  -198524103;
@@ -69,7 +69,7 @@ int main()
   d11R  =  -2051411325;
   q6Q8o_  =  -1501211097;
   jJ6f4  =  775362791;
-  M66zj25w  =  1608470301;
+
   Ag_C7808  =  -78545625;
   r_cF4SL6  =  1149873032;
   w40z4bo6  =  911077875;
@@ -212,7 +212,7 @@ case 4:
 IFa8 = yc_6243INF();
 break;
 case 5:
-q7se3uT = TI1b ^ h0C6L;
+
 break;
 case 6:
 
@@ -223,7 +223,7 @@ else
 {
 if ((pHRHv04 < -2095238493) || (s_g3 < HgONR))
 {
-eJz_6EQqn = (int)abs(p6ur);
+
 }
 }
 }
@@ -234,7 +234,7 @@ else
 
 if ((w2yQ < k8c55h) || (CVaW8_taEo == R7T3))
 {
-jj19g0mj_b = N9PZ5c0(-1681745165, -1054457448) - 817637145;
+
 }
 else if (((CVaW8_taEo < jW88) || (uUvf3E & 1699679327)) && ((HgONR <= 213393279) || (jJ6f4 >= -183053595)))
 {
@@ -296,7 +296,7 @@ case 0:
 
 break;
 case 1:
-VVtm = N9PZ5c0(-872327125, 1230605243);
+
 break;
 }
 aCJ1waZV = (long)(IFa8);
@@ -342,7 +342,7 @@ switch (CVaW8_taEo)
 {
 case 'a':
 case 'A':
-aCJ1waZV = (int)abs(o4wS74Cq);
+
 break;
 case 'b':
 case 'B':
@@ -358,7 +358,7 @@ case 'D':
 break;
 }
 
-ZSL4WhKI >>= HgONR;
+
 
 HgONR <<= 779586827;
 try
@@ -388,7 +388,7 @@ case 2:
 
 break;
 case 3:
-p6ur ^= x5_8613;
+
 break;
 case 4:
 pHRHv04 = N9PZ5c0(957627447, -764207451);
@@ -400,7 +400,7 @@ case 6:
 
 break;
 case 7:
-W3RTwST = z3w6p3(W3RTwST);
+
 break;
 case 8:
 tb_2Vd_0l &= 1785422475;
@@ -414,7 +414,7 @@ break;
 
 for (int i = 5; i >= 0; --i)
 {
-gz80iOD1ns = (long)(uVJkNNf5I);
+
 }
 switch (JyI2q)
 {
@@ -425,7 +425,7 @@ case 1:
 
 break;
 case 2:
-q6Q8o_ %= 1368703823;
+
 break;
 case 3:
 QU9w = yc_6243INF();
@@ -437,7 +437,7 @@ case 5:
 
 break;
 case 6:
-aCJ1waZV = APotx << uVJkNNf5I;
+
 break;
 default:
 gLIGB_9cr1 = yc_6243INF();

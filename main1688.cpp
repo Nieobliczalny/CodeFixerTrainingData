@@ -256,7 +256,7 @@ break;
 }
 }
 }
-wj1j1Il = (int)floor(N0Gi778d);
+
 {
 int i = 6;
 while (i >= 0)
@@ -334,7 +334,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-TmD2O = (int)ceil(DD5I675);
+
 break;
 case 'c':
 case 'C':
@@ -583,7 +583,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-ykVm = U5eSos02XE(-1366494438);
+
 break;
 case 'c':
 case 'C':
@@ -595,7 +595,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-wj1j1Il = DD5I675 * IW0495u;
+
 break;
 case 'f':
 case 'F':

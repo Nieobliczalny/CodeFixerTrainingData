@@ -84,7 +84,7 @@ wMe972d0wO = tH2T(M700zwT5, -1211276521);
 switch (Bw8fE9jEj)
 {
 case 0:
-ck4nnf4RS = tH2T(1420074499, 954075769);
+
 break;
 case 1:
 q21I = tH2T(-890185045, -604811954);
@@ -96,7 +96,7 @@ case 3:
 CGOjb5UY4J &= p7E6VDG;
 break;
 case 4:
-Jfy9g %= sg1rhXH9;
+
 break;
 case 5:
 jB4isgQ6 = tH2T(bf0HlU5, AOPzvh1Vh);

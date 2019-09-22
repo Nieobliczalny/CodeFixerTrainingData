@@ -29,7 +29,7 @@ int main(int argc, char** argv)
 
   E9BrXAY4a  =  349602143;
   QGXiacu0l  =  455198844;
-  iBR8  =  -205217598;
+
   t92Huf8H  =  -280122463;
   mmmowdr46l  =  1036291790;
   T67UhZN38j  =  -112722202;
@@ -42,7 +42,7 @@ int main(int argc, char** argv)
   Vx2_h  =  -1222150241;
   Mw62MOEWt9  =  -672247456;
   Lo0v7Q  =  1175758686;
-  uSvVnooQNz  =  -1946827771;
+
   z_rFS  =  -1406994328;
   JvBb9Vpfp  =  -1514369840;
   A3oZ  =  -193408770;
@@ -52,7 +52,7 @@ int main(int argc, char** argv)
 
   kD9mF8Qb5v  =  69679332;
   R9S4d0N  =  -1681739190;
-  rdtr1aa  =  1141126596;
+
   iN8Agdi4O  =  370123562;
   OmRPE196a7  =  -518341666;
   NhvD  =  -308879191;
@@ -64,7 +64,7 @@ int main(int argc, char** argv)
   Zguf_EJ94  =  170660843;
   mY32gL8b6V  =  1863746916;
   a72IIu  =  -1898075022;
-  UrM1_  =  1749482460;
+
   eEqY2  =  794239910;
   TRRv2Vys2  =  908843534;
   ZC049f  =  -906982296;
@@ -76,7 +76,7 @@ int main(int argc, char** argv)
   OiuIpubG  =  1430034442;
  long long i7__AD, GL_pencAZ, McUUF3, l_MyRv;
  i7__AD = 0;
- GL_pencAZ = 0;
+
  McUUF3 = 0;
  l_MyRv = 0;
 
@@ -86,7 +86,7 @@ case 'a':
 TRRv2Vys2 = Vx2_h & QGXiacu0l;
 break;
 case 'b':
-OmRPE196a7 = IZb2J74(OmRPE196a7, GIZtn1bg, -988102539, 964312709, t92Huf8H);
+
 break;
 }
 
@@ -97,7 +97,7 @@ std::cout << -1323064281 / McUUF3 << std::endl;
 int i = 0;
 while (i < 5)
 {
-A3oZ = ePxT2T9();
+
 i++;
 }
 }
@@ -123,7 +123,7 @@ while (i >= 0);
 switch (a72IIu)
 {
 case 0:
-H48n0lCc = IZb2J74(-1247345268, Vx2_h, 81595352, iN8Agdi4O, 1997481993);
+
 break;
 case 1:
 
@@ -135,7 +135,7 @@ case 3:
 Lo0v7Q = ePxT2T9();
 break;
 case 4:
-eEqY2 = IZb2J74(eEqY2, -1026651217, mY32gL8b6V, -182896493, GIZtn1bg);
+
 break;
 case 5:
 
@@ -156,7 +156,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-ZZ7_cQWu = x2tEU9(301082006, Mw62MOEWt9);
+
 break;
 case 'd':
 case 'D':
@@ -168,7 +168,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-p38BDqp <<= 1148164359;
+
 break;
 case 'g':
 case 'G':
@@ -193,7 +193,7 @@ i--;
 
 
 
-v_kfX66 = ePxT2T9();
+
 return 0;
 }
 

@@ -265,7 +265,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-ziS2Jo = (int)floor(yw4n70);
+
 break;
 case 'g':
 case 'G':
@@ -312,7 +312,7 @@ else if ((BqejR) || (I8L3PLkSQM == -1678982119))
 {
 for (int k = 0; k < 10; k++)
 {
-BqejR = s8mT5fmMK ^ UvV7Qp;
+
 }
 }
 else if ((aFCmu >= -675098424) || ((UvV7Qp > 1591555524) || (R3g2_3Gx >= s8mT5fmMK)))

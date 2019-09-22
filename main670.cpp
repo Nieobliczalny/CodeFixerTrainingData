@@ -285,7 +285,7 @@ case 'g':
 e1EPGv4h9U = s0650b8();
 break;
 case 'h':
-f5sxT2 &= O6EExV3A;
+
 break;
 case 'i':
 e1EPGv4h9U = s0650b8();
@@ -416,7 +416,7 @@ int i = 1;
 while (i >= 0)
 {
 i--;
-I6ZK0 = (long)(NyYjxn);
+
 }
 }
 

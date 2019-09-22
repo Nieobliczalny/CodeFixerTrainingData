@@ -32,7 +32,7 @@ int main(void) {
     double    zye0E23S0;
 
 	unsigned long	UxQK;
-	UxQK	=	638855656;
+
  short p7deyB;
  p7deyB = -447004349;
     long long    ObS7E;
@@ -124,7 +124,7 @@ int main(void) {
     unsigned short    c7izWjE74;
     c7izWjE74    =    0;
 	unsigned long long	Vanc_R;
-	Vanc_R	=	789505148;
+
 	unsigned char	c00DCm;
 	c00DCm	=	1188817;
     float    zM3AEih2;
@@ -136,7 +136,7 @@ int main(void) {
 	unsigned int	wb_V6C8;
 	wb_V6C8	=	-1890090596;
     int    TOn4mN;
-    TOn4mN    =    723930936;
+
   char  tu_aYi;
   tu_aYi  =  -2000420337;
 	unsigned long	ni_ghBy0d_;
@@ -306,7 +306,7 @@ switch (axu8we5_86)
 {
 case 'a':
 case 'A':
-OKd8d79L2J = (int)ceil(zM3AEih2);
+
 break;
 case 'b':
 case 'B':
@@ -346,7 +346,7 @@ BL87 = (unsigned long long)(hCh5w);
 }
 else if ((TCTo09khD4 > Eq05B) || (xeffQ <= hCh5w))
 {
-OKd8d79L2J = QK4wq << qt410F_8;
+
 }
 else if (sWc_w0Y != ynq1Z79YS)
 {
@@ -496,7 +496,7 @@ case 0:
 
 break;
 case 1:
-OKd8d79L2J = (int)floor(PN199F);
+
 break;
 case 2:
 urGhCpLN = (int)floor(TG_xxd4f_);
@@ -529,7 +529,7 @@ lu5g8Si = (int)ceil(zSFd6);
 }
 if (Vanc_R)
 {
-OKd8d79L2J = (int)floor(PN199F);
+
 }
 if (zM3AEih2 >= 506169708)
 {
@@ -548,7 +548,7 @@ case 1:
 
 break;
 case 2:
-TG_xxd4f_ = T4cue7 * 80946831;
+
 break;
 case 3:
 zSFd6 = u6ugKsAp4 * wb_V6C8;
@@ -569,7 +569,7 @@ case 8:
 lu5g8Si = (int)floor(xeffQ);
 break;
 case 9:
-ynq1Z79YS &= wZwh;
+
 break;
 }
 }
@@ -585,7 +585,7 @@ Wq22hsh = (int)abs(W3H4Yeu);
 }
 else if ((W3H4Yeu) && ((F4yI8ip != FG7VXJm) && (EspR & uM96n4Pb)))
 {
-zye0E23S0 = (int)floor(TG_xxd4f_);
+
 }
 else if (I053n >= -2125430574)
 {
@@ -616,7 +616,7 @@ case 0:
 
 break;
 case 1:
-Vanc_R = (U1x1 & FG7VXJm) ? hCh5w : ObS7E;
+
 break;
 case 2:
 wb_V6C8 <<= 1755876395;
@@ -628,7 +628,7 @@ case 4:
 
 break;
 case 5:
-p7deyB = (int)abs(B8AK);
+
 break;
 case 6:
 MoV8S = u6ugKsAp4 & gWtp6rsJ8g;
@@ -642,7 +642,7 @@ else
 }
 else if (((O7KbW_ & 1992214816) && (c00DCm & hCh5w)) || (sWc_w0Y & FG7VXJm))
 {
-axu8we5_86 /= 7213537;
+
 }
 else if ((O7KbW_ == FG7VXJm) && (wZwh > 1850968589))
 {
@@ -654,7 +654,7 @@ else if (W3H4Yeu < FG7VXJm)
 }
 else
 {
-EspR = (unsigned short)(FG7VXJm + (958149271));
+
 }
 std::cout << qt410F_8 << zM3AEih2 << std::endl;
 std::cout << phRXAq << gWtp6rsJ8g << T4cue7 << tu_aYi << std::endl;

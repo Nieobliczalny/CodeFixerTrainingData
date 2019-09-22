@@ -145,7 +145,7 @@ try
 switch (Fr0R)
 {
 case 'a':
-Nk08l &= fo_PSG;
+
 break;
 default:
 GssKMSe0m = (int)ceil(ba8ok);
@@ -258,7 +258,7 @@ case 4:
 vo02 %= 1542155493;
 break;
 case 5:
-eG0P ^= 65685364;
+
 break;
 case 6:
 GssKMSe0m = (int)floor(vsFY);
@@ -297,7 +297,7 @@ GssKMSe0m = (int)ceil(Jn484a8t0h);
 switch (n98ZiWmhNE)
 {
 case 0:
-n98ZiWmhNE /= GsyOD;
+
 break;
 case 1:
 n3y4013k = pz5_4(1563199634);
@@ -617,7 +617,7 @@ if (sv1M == -2071991093)
 }
 else
 {
-W4ADQYGf3 <<= h_9CZe_;
+
 }
 }
 }
@@ -631,7 +631,7 @@ for (int j = 4; j >= 0; j--)
 {
 if ((T087q <= 1468300444) && (jD2XJ))
 {
-HLW5INSai = e0Lh3_1(1565521116) | 1185248492;
+
 }
 }
 }

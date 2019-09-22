@@ -310,7 +310,7 @@ case 'b':
 
 break;
 case 'c':
-XJcRE2wbGQ &= 31012731;
+
 break;
 case 'd':
 xC12t += oEaF5C;
@@ -328,7 +328,7 @@ case 'h':
 u8J24 = gqntkhD39g ^ 1951610745;
 break;
 default:
-XJcRE2wbGQ >>= u8J24;
+
 break;
 }
 }
@@ -340,7 +340,7 @@ if (((z8k2yXI & L1oeF7IJ2) && (WtQo2N4_R2)) || (WtQo2N4_R2 <= -1733521472))
 }
 else if (og75bD >= KYtV)
 {
-XJcRE2wbGQ ^= xC12t;
+
 }
 else
 {

@@ -18,7 +18,7 @@ unsigned long    ep9stJCI(unsigned short int    set33b);
 int main(int argc, char** argv) {
     double    hyAei,    l3e6Dfg37,    Lf8hl,    pZkm5,    G04EbI84,    Z_ZQ,    nJjBuwi1a,    ZD1V,    P853,    wJDWo,    gDp4hh,    i9WK2LDNi2,    FaEcpD,    jWHu,    ocI5dw3v_,    hOzy,    C001tuaOm,    AN893Rmd9,    RXs8n,    pP31H,    WP3h3Gu,    wsWbZ,    VH9YAhwFi,    zgnRCz5013,    i13vn,    s97YJkHQ,    OPIzD1V,    R71_;
 
-    l3e6Dfg37    =    -1368442859;
+
     Lf8hl    =    1471177135;
     pZkm5    =    -232838165;
     G04EbI84    =    -1969450920;
@@ -31,7 +31,7 @@ int main(int argc, char** argv) {
     i9WK2LDNi2    =    1922879673;
     FaEcpD    =    773625792;
     jWHu    =    1286348617;
-    ocI5dw3v_    =    1692922565;
+
     hOzy    =    795184974;
     C001tuaOm    =    -634291541;
     AN893Rmd9    =    -1618572130;
@@ -41,7 +41,7 @@ int main(int argc, char** argv) {
     wsWbZ    =    41734936;
     VH9YAhwFi    =    925877333;
     zgnRCz5013    =    37208559;
-    i13vn    =    2017646876;
+
     s97YJkHQ    =    -727322971;
     OPIzD1V    =    -1575404836;
     R71_    =    -1783020381;
@@ -53,7 +53,7 @@ int main(int argc, char** argv) {
 int i = 0;
 do
 {
-gDp4hh = ZD1V * 1147175575;
+
 i++;
 }
 while (i < 10);

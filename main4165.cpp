@@ -335,7 +335,7 @@ OM8wHkm = wh9xYp ^ j3Baj5;
 std::cout << xtV7 << H4yMZy_2a << "KG7_U52" << "xMOH5nYU" << std::endl;
 if (((p_r22BWBGE & -1368759198) || (b_xYSIu > -994638618)) || ((fsWg9T9_Bw & -770264488) || (jWGxa66C82 & 1458186428)))
 {
-j3Baj5 ^= RuI05TK;
+
 }
 if (O5_CI6cCF7 <= -1107557217)
 {
@@ -486,7 +486,7 @@ else if (GCjB1_ & 1914893527)
 {
 if (((OM8wHkm < 1336420115) && (zqCaI == 1700377129)) || ((QQihoJ == 1960250452) || (g0RtTt1 == -291010713)))
 {
-y2H0zko = (int)abs(H4yMZy_2a);
+
 }
 }
 else

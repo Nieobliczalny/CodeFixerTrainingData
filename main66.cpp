@@ -34,7 +34,7 @@ switch (tMjY_1)
 {
 case 'a':
 case 'A':
-QAJW8mSQhJ = cj069tgUY();
+
 break;
 case 'b':
 case 'B':
@@ -102,7 +102,7 @@ pUn1Ub1 &= 1403412794;
 }
 else
 {
-KCGfBM_ = cj069tgUY();
+
 }
 }
 catch (int& errorCode)
@@ -201,7 +201,7 @@ else
 {
 try
 {
-lCsM &= TwnMiq9b;
+
 }
 catch (int& errorCode)
 {
@@ -221,7 +221,7 @@ lzdON93YkB = rn9K(lzdON93YkB, 1406967010, 305047773);
 break;
 case 'c':
 case 'C':
-KCGfBM_ = cj069tgUY();
+
 break;
 case 'd':
 case 'D':
@@ -270,7 +270,7 @@ if ((Ws01w_v0s <= E44Sd) || ((L2oNsbQB == qGv659) && (CLUi4E_)))
 switch (oYvxKMgu)
 {
 case 'a':
-RePU = (int)abs(SCQQcb1fp);
+
 break;
 case 'b':
 QAJW8mSQhJ = cj069tgUY();
@@ -315,7 +315,7 @@ TwnMiq9b = (int)abs(EXBQ5h1FA4);
 }
 G_vGei9 = J0JNv3v(G_vGei9, -1130235600, 1556159764, 1034107995, VrMai6sZB);
 
-pEWN_ = EXBQ5h1FA4 / cj069tgUY();
+
 
 try
 {
@@ -360,7 +360,7 @@ while (k < 6);
 }
 else if (pkw5nX <= -512725981)
 {
-KCGfBM_ = cj069tgUY();
+
 }
 else
 {
@@ -400,7 +400,7 @@ while (j < 4)
 j++;
 for (int k = 0; k < 10; ++k)
 {
-C3jApMrDS_ = cj069tgUY();
+
 }
 }
 }
@@ -477,7 +477,7 @@ case 1:
 tMjY_1 >>= 710361795;
 break;
 case 2:
-wH_q_ = F4C3c2WC1U(AgcA);
+
 break;
 case 3:
 pxRD8 = (int)abs(a1O4i);
@@ -489,7 +489,7 @@ case 5:
 M74C = (int)abs(b9hM);
 break;
 default:
-KCGfBM_ = cj069tgUY();
+
 break;
 }
 }
@@ -528,7 +528,7 @@ case 1:
 L2oNsbQB <<= M74C;
 break;
 case 2:
-i2TfDou8 = aYVWt7 & 1039212149;
+
 break;
 case 3:
 mZ_cqj1U6 /= 816617237;
@@ -540,7 +540,7 @@ case 5:
 di7Y1JH89 = (i2TfDou8 < iNPLYP9) ? 1740757611 : -1042790017;
 break;
 case 6:
-qGv659 = Erlda7A6 + k8S9oE02oM;
+
 break;
 case 7:
 EXBQ5h1FA4 = m9bn7_ + tUc3;
@@ -550,7 +550,7 @@ cout << rn9K(VrMai6sZB, -1214077648, lzdON93YkB) << sE6a4Iv << cj069tgUY() << Yn
 switch (DIj_8_N)
 {
 case 0:
-Crr9P = J0JNv3v(-2014831378, A80N0j7T78, ANglW6T, kgLuorMbP0, -42747249);
+
 break;
 case 1:
 L2oNsbQB = Yn2WNS(L2oNsbQB, -585130548, TmMfP02B, -1051396420, -1740549398);
@@ -562,7 +562,7 @@ case 3:
 VrMai6sZB ^= mA5EjVK;
 break;
 case 4:
-lzdON93YkB += bPKKLEAE;
+
 break;
 }
 tMjY_1 = (char)(iNPLYP9);

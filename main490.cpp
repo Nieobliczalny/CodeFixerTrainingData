@@ -63,7 +63,7 @@ int main(void)
  double P667t8Y;
  P667t8Y = 1790924777;
  long Q_r9wMu9H;
- Q_r9wMu9H = 1849822259;
+
 	char	Z_03_;
 	Z_03_	=	0;
  int MT0B;
@@ -75,7 +75,7 @@ int main(void)
   long  xE6NKZ3;
   xE6NKZ3  =  -1672725663;
  unsigned int dmM2;
- dmM2 = 1555916229;
+
 	unsigned long	C1D7f188uF;
 	C1D7f188uF	=	-616099123;
  unsigned short int yEh_;
@@ -304,7 +304,7 @@ yEh_ = A71l4 + Z_03_;
 
 BXt2GoXrx6 = cs79w(1972372128, -1686017479, Yp_IQt, YNGmG6i9Qc, -1777293563);
 
-wC8e64 = (int)ceil(EWa0G53G);
+
 
 ry6dQKrGd3 = BXt2GoXrx6 >> ZeX16sht;
 

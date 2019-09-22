@@ -314,7 +314,7 @@ BanD = Qp1qe_b << 2014601008;
 
 if (((x2Uxevq4h0 == OYw7I7) && (KK77N != 1448455137)) && (btRqz != -535442957))
 {
-MIi3PjizP_ = (unsigned short)(YqT8B051q_);
+
 }
 else if (BGdJ < AS4uE)
 {
@@ -346,7 +346,7 @@ case 2:
 
 break;
 case 3:
-mm1FGg >>= Uc1fxYN2T;
+
 break;
 case 4:
 fr_k <<= 1371522433;
@@ -368,7 +368,7 @@ if (ew1398hK == -25255660)
 {
 if (((t9m_C > OYw7I7) && (BanD == -2079777229)) || (ODZP_1j2S >= -1359162703))
 {
-AZ9X4l5uHK /= BDg925Lw3;
+
 }
 }
 

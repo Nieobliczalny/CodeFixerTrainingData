@@ -458,7 +458,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-ld1W = (int)floor(CJKvd);
+
 break;
 case 'c':
 case 'C':
@@ -486,7 +486,7 @@ XYxS96hCw = I6S_p1v72();
 }
 if (PVOBwZ & s8BQOmn)
 {
-kG_T = s8BQOmn & 1051641174;
+
 }
 
 

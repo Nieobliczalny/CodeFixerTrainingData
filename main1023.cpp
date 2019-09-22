@@ -409,7 +409,7 @@ case 'e':
 TyysZkz = (int)abs(ohhIo70);
 break;
 case 'f':
-BYxdLIS0 = x6NVvhA & 906555351;
+
 break;
 case 'g':
 
@@ -508,7 +508,7 @@ else
 
 }
 }
-LM68kO += 1186383194;
+
 mf1fy = mf1fy - 1172882151;
 {
 int i = 0;
@@ -555,7 +555,7 @@ W7C9 = (int)abs(cS9Vag8cW);
 }
 else if (((pq_M8uYC > bU0DY) && (a945_ < 1802273467)) && (TyysZkz))
 {
-n3PH = W7C9 & 950651998;
+
 }
 else
 {

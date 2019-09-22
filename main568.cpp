@@ -562,7 +562,7 @@ if ((u_y8FZ > phZswB) || (ufD_8 == uChuGK4ypr))
 }
 else
 {
-b7okeeB = S0oro_(Jd8_O_5w5_, 34724668, ufD_8, wY_d) % 1952825196;
+
 }
 }
 else
@@ -669,7 +669,7 @@ case 'D':
 
 break;
 default:
-N2WhWmTN = S0oro_(1767438850, SJn4yxw, dFO2, LJn_tt);
+
 break;
 }
 }

@@ -173,7 +173,7 @@ case 4:
 BTxw8bQ0 = L6s_H % 868646520;
 break;
 default:
-Bkmwx0L72 = B718JFy + 567951457;
+
 break;
 }
 }
@@ -296,7 +296,7 @@ SMk88QyjN_++;
 }
 else if (((v08LI09 & -1646040468) && (JT0G12Mi != -872866260)) || (dfBZ2h != B718JFy))
 {
-PCS8 |= 886523498;
+
 }
 else if (w7LEUDv == -965128352)
 {
@@ -393,7 +393,7 @@ catch (int& errorCode)
 {
 XAIS4iikkk |= aX2jvSg;
 }
-VD_HZ = (int)(uBXKaI);
+
 K6Ku32_8 = (int)(J4jnl);
 
 SW0Ms = (int)(JT0G12Mi);
@@ -477,7 +477,7 @@ case 'f':
 
 break;
 default:
-Kv_lvB = (int)abs(XAIS4iikkk);
+
 break;
 }
 }

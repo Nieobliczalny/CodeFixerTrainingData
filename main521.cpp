@@ -351,7 +351,7 @@ if (b28GA & g6CDxx9)
 switch (z1q6_)
 {
 case 0:
-Hxi_3C6u -= 1011077969;
+
 break;
 case 1:
 fBNH = nEda25pyOU(936058573);
@@ -363,7 +363,7 @@ case 3:
 fBNH = nEda25pyOU(-90625794);
 break;
 case 4:
-z1q6_ = qEzF % Om1m4Y8f7A;
+
 break;
 case 5:
 b28GA = n8d9_ / ZFrv;

@@ -76,7 +76,7 @@ try
 {
 try
 {
-wRw1F = (int)abs(ZC77wdK3);
+
 }
 catch (int& errorCode)
 {
@@ -92,7 +92,7 @@ for (int i = 2; i >= 0; i--)
 {
 fTUR7mBv <<= 30932738;
 }
-NEF_UY35O >>= 1733915922;
+
 if (((Gavf8L >= -314806695) || (zP70Ph1 > 1486006741)) && (MUga))
 {
 std::cout << FA2LyC << TheDq517(XAn5O7oV2O, 2021389714, 1152482474) << wAy6(XAn5O7oV2O) << std::endl;
@@ -180,7 +180,7 @@ else if (Gavf8L >= U_17N4f)
 }
 else if (Xz__k3 <= -1485989281)
 {
-ZC77wdK3 = (int)abs(adDk);
+
 }
 else
 {
@@ -213,7 +213,7 @@ G__s100lf8 = b6Q0 * salJXv2Q;
 int i = 2;
 do
 {
-UgL1Z3_5g = (unsigned short int)(i7_0e2fn8);
+
 i--;
 }
 while (i >= 0);
@@ -228,7 +228,7 @@ if (I2AaV <= 1335561029)
 }
 else
 {
-SPF1bK = T787g42ZKC << yXDw9614;
+
 }
 --i;
 }
@@ -254,7 +254,7 @@ else if (MR75_3 != -981599246)
 {
 try
 {
-adDk = (int)abs(wRw1F);
+
 }
 catch (int& errorCode)
 {

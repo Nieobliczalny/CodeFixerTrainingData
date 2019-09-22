@@ -333,7 +333,7 @@ if (Nt1L3SF94 == 265467704)
 {
 for (int j = 0; j < 7; j++)
 {
-BQ0UqCF = lQ3QDsj >> 1461578476;
+
 }
 }
 else if (A2Krmy68Tp >= V_c1hu1NX)
@@ -386,7 +386,7 @@ case 1:
 
 break;
 case 2:
-rG2Sl = kYP4_J(-2043430156, x_pg_W, l2__, Nt1L3SF94, BQ0UqCF) % lBh1886fd_;
+
 break;
 case 3:
 lBh1886fd_ = kYP4_J(lBh1886fd_, xBmqJ69_v, 735612253, -1550103006, Pvzwr);
@@ -449,7 +449,7 @@ break;
 }
 }
 
-A2Krmy68Tp = (unsigned char)(l2__);
+
 return 0;
 }
 

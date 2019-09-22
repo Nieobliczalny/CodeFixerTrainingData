@@ -43,7 +43,7 @@ case 0:
 
 break;
 case 1:
-yO47c |= Uk4mx0;
+
 break;
 case 2:
 Sh342 = sqfm();
@@ -78,7 +78,7 @@ if (K4Mn == Se5L9Y)
 {
 if (c3w_Po > -2018493931)
 {
-tsSQ5Gx15 = h5qa(tsSQ5Gx15);
+
 }
 else
 {
@@ -148,7 +148,7 @@ case 0:
 
 break;
 case 1:
-e_H9V = lDPZ2 * lz2Kxm_6;
+
 break;
 }
 
@@ -178,7 +178,7 @@ else
 int j = 0;
 do
 {
-pdVb_ = n4N6C3l35i - NSAF8_;
+
 j++;
 }
 while (j < 4);
@@ -229,7 +229,7 @@ while (k >= 0);
 }
 else if (M5hR5W7bG7 != -1584481617)
 {
-Se5L9Y = (unsigned long)(WtF13hgB);
+
 }
 else if (Sh342 > -1071136820)
 {

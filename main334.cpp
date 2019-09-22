@@ -48,7 +48,7 @@ case 2:
 wz6rNmUl = i4Y6_ue(wz6rNmUl, Q_3et, et91lAZ, -1108720547, 1808010555);
 break;
 case 3:
-zBfl = i4Y6_ue(1487209377, 257355324, Tfg4LyUhY7, wz6rNmUl, 1810501927);
+
 break;
 case 4:
 
@@ -67,7 +67,7 @@ case 'a':
 
 break;
 default:
-Wveq7 = (int)abs(wz6rNmUl);
+
 break;
 }
 

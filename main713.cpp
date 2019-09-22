@@ -29,7 +29,7 @@ int main(void) {
 	unsigned short	MbPk;
 
 	float	z2ZEqa;
-	z2ZEqa	=	773500693;
+
   unsigned char  cZfvrc_572;
   cZfvrc_572  =  872348081;
   unsigned int  h0721_r;
@@ -55,7 +55,7 @@ int main(void) {
   unsigned short int  HqiqPNs2X;
 
   long long  ad88_AcY;
-  ad88_AcY  =  -592471231;
+
  double KBQPU9;
  KBQPU9 = 237966281;
 	long long	JbSEp6W;
@@ -341,7 +341,7 @@ else
 {
 
 }
-n9q_3I = v3kf_(qwwp9fLIn, n87hVHf7S, n9q_3I, D9zeQf36l);
+
 EC7Q_7 = (float)(Ehmv6zJ3Ez);
 
 switch (aDyH)
@@ -356,7 +356,7 @@ case 2:
 tqsT2H_De = (int)ceil(EC7Q_7);
 break;
 case 3:
-JbSEp6W >>= 439640584;
+
 break;
 case 4:
 KDFZC = v3kf_(f_20, 1477161066, QA8vK, JbSEp6W);
@@ -429,7 +429,7 @@ case 'F':
 break;
 case 'g':
 case 'G':
-z2ZEqa = (int)ceil(KBQPU9);
+
 break;
 case 'h':
 case 'H':
@@ -444,7 +444,7 @@ case 'J':
 
 break;
 }
-ad88_AcY = -1787104611 / jk2Qq8B_7;
+
 KDFZC = v3kf_(1895508936, KDFZC, 690172525, 221111150);
 
 return 0;

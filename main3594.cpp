@@ -110,7 +110,7 @@ CD41hmjXv |= Q5cAaBpZnt;
 
 lWD3DzMR = UV1t(182618552);
 
-tEGR536G = (int)abs(z29D9A9C);
+
 switch (k21hv4HO)
 {
 case 0:
@@ -237,7 +237,7 @@ while (k < 9);
 
 
 
-se_u0 = UV1t(NYZ2u);
+
 pbzcc = (int)floor(jTk5);
 
 for (int i = 1; i >= 0; i--)

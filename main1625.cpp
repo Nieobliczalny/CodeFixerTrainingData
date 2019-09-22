@@ -704,7 +704,7 @@ for (int j = 2; j >= 0; j--)
 int k = 8;
 do
 {
-U5si0ka24 = AQ91 & ee5IjL8;
+
 k--;
 }
 while (k >= 0);
@@ -739,7 +739,7 @@ g36p4W = (int)abs(XrchL4K);
 break;
 case 'b':
 case 'B':
-b_09n5P9Vz = jx2fx << WvrDav;
+
 break;
 case 'c':
 case 'C':
@@ -758,7 +758,7 @@ case 'F':
 
 break;
 default:
-KXh8C4Gpy6 ^= 1411362214;
+
 break;
 }
 
@@ -790,7 +790,7 @@ else if (uLZ1B2 <= g36p4W)
 {
 if (CK_NR <= v67OTmCMLG)
 {
-liAqDp9G ^= 85829199;
+
 }
 else
 {

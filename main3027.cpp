@@ -256,7 +256,7 @@ std::cout << "Q91F4" << "ypgk0RA" << std::endl;
 
 try
 {
-AjF7Gal_ = ApS91 / 435941344;
+
 }
 catch (int& errorCode)
 {
@@ -334,7 +334,7 @@ if (Uuf7 == -1799910992)
 {
 if (Uuf7 & -2007547149)
 {
-gn8B2x = YUyjwdlOE & 1336916662;
+
 }
 else if (((bxNw86rE > -881162588) && (Uuf7)) && ((Uuf7 & -805082221) || (IEOt91215 > 722787928)))
 {
@@ -392,7 +392,7 @@ ghByqbI7 = (int)floor(dRRjh4dp);
 }
 else if (obRpsYScHF == -1403059237)
 {
-EfWWlX4 = (int)(W1hN);
+
 }
 else if (N8E38_Vk8)
 {
@@ -474,7 +474,7 @@ if (W1hN == 51692823)
 }
 else
 {
-EfWWlX4 = kH5IHIwy1(723655244, 1838654547, A4C_) & Yt_xs;
+
 }
 }
 }
@@ -510,7 +510,7 @@ switch (obRpsYScHF)
 {
 case 'a':
 case 'A':
-ApS91 = (int)ceil(S5xb74wC9);
+
 break;
 case 'b':
 case 'B':
@@ -530,7 +530,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-ApS91 = (int)floor(ZxUGFV_16);
+
 break;
 case 'g':
 case 'G':
@@ -555,7 +555,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-EfWWlX4 = bxNw86rE % 1680324716;
+
 break;
 case 'c':
 case 'C':
@@ -588,7 +588,7 @@ case 0:
 
 break;
 case 1:
-fhP316PQDX = (int)ceil(S5xb74wC9);
+
 break;
 case 2:
 e0Jb10Cku = Yt_xs & 953660872;

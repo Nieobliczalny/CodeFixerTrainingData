@@ -436,7 +436,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-W6_1cms = cMQCFEcqjX << 527003145;
+
 break;
 case 'e':
 case 'E':
@@ -460,7 +460,7 @@ tTVN7dN4 %= d90Zfy;
 break;
 case 'j':
 case 'J':
-CRtM87sT = (d90Zfy >= tTVN7dN4) ? uGw4Cm : tqA_a;
+
 break;
 }
 }

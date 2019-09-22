@@ -18,7 +18,7 @@ int main(int argc, char** argv) {
     short    d9lY,    aU97,    aXba2wD2Vm,    bx2S9303db;
 
     aU97    =    0;
-    aXba2wD2Vm    =    0;
+
     bx2S9303db    =    0;
   unsigned short  Bd2_9pF7,  HynqoAIA9,  Uk4Yev,  CXX3ZJQ884,  k4gD0,  CK7agKYKL1,  qpaS_Z,  PPH16S,  c_ESX0,  GG0Ko3Z5,  T54fJ,  sz_c0,  r2Q69I,  fYs_Whe,  azi2zo8ikX,  Y3qbPcJiP2,  kTH3rHT8,  ucxud,  Ur3C45cw,  Bxe4p,  kWkq,  cFSmLai,  u_fvR,  Mndyn4HK18,  jhXgH63S57,  KnX7q8Z383,  CIf_HGP,  xMqPkYDmEZ;
   Bd2_9pF7  =  1220767145;
@@ -28,7 +28,7 @@ int main(int argc, char** argv) {
   k4gD0  =  -657314505;
 
   qpaS_Z  =  -75943596;
-  PPH16S  =  1857938510;
+
   c_ESX0  =  -1899619562;
   GG0Ko3Z5  =  1766398776;
   T54fJ  =  -1089554240;
@@ -38,7 +38,7 @@ int main(int argc, char** argv) {
   azi2zo8ikX  =  791713298;
 
   kTH3rHT8  =  1031231868;
-  ucxud  =  828612681;
+
   Ur3C45cw  =  -1318492122;
   Bxe4p  =  -1233141186;
   kWkq  =  1537938073;
@@ -50,7 +50,7 @@ int main(int argc, char** argv) {
 
   xMqPkYDmEZ  =  -466931667;
 
-sz_c0 = qpaS_Z / qHK1(-952813388, -190718009, -372893562, 704779289, k4gD0);
+
 std::cout << qHK1(6251973, HynqoAIA9, -1316878129, CXX3ZJQ884, k4gD0) << erRgz4z8(-815549232, HynqoAIA9, Uk4Yev, CXX3ZJQ884) << "id6v0676U" << qpaS_Z << "sIH1YU" << std::endl;
 
 c_ESX0 = v60k9tYmYo(c_ESX0, HynqoAIA9, cFSmLai, -943599758);
@@ -67,7 +67,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-GG0Ko3Z5 = KnX7q8Z383 | 1734155068;
+
 break;
 case 'c':
 case 'C':
@@ -81,7 +81,7 @@ break;
 
 for (int i = 6; i >= 0; --i)
 {
-fYs_Whe = (unsigned short)(Uk4Yev);
+
 }
 
 kTH3rHT8 = (unsigned short)(xMqPkYDmEZ);

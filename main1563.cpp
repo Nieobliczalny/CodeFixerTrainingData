@@ -363,7 +363,7 @@ case 'b':
 AnakAM9a0 = (int)floor(d8T9j);
 break;
 case 'c':
-vC1UX0hSh /= 751601305;
+
 break;
 case 'd':
 gOJ092btK *= 332579466;
@@ -456,7 +456,7 @@ if (F8_5h == 0)
 {
 
 }
-F8_5h = (unsigned int)(gOJ092btK * F8_5h);
+
 
 try
 {
@@ -485,7 +485,7 @@ case 3:
 break;
 }
 
-edjwy55Da = (int)abs(u5vfc1E);
+
 {
 int i = 6;
 while (i >= 0)

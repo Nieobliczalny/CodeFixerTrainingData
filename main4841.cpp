@@ -66,7 +66,7 @@ int main() {
 
 
 L0Sv5ywAi = -1223719929 / bQTB;
-JVYw_05Qg = x2A9(JVYw_05Qg);
+
 if (Nx_7)
 {
 {
@@ -97,7 +97,7 @@ UJTYpsQ = x2A9(Nx_7);
 }
 }
 
-vwC5e3JsF = (unsigned long)(S__QfyCrI);
+
 
 try
 {

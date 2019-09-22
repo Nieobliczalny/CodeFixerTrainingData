@@ -264,7 +264,7 @@ std::cout << "Ljxz00" << std::endl;
 }
 else if (Movb)
 {
-Rn_OX += 890048301;
+
 }
 else if (HIktyL76_Y >= Ot64j01)
 {
@@ -345,7 +345,7 @@ else if (xgh5)
 }
 else if (n4_Zf2D2 >= -1505511051)
 {
-JF72 = (ex8nzI3 > -1324514968) ? OHU97cf4 : 45502862;
+
 }
 else
 {
@@ -389,7 +389,7 @@ lEDHQ5jE4++;
 switch (LhYtjw)
 {
 case 'a':
-u2OtF += 834160595;
+
 break;
 case 'b':
 ex8nzI3 = p760LbWD5 / 1152993013;
@@ -409,7 +409,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-Fm_0P9G = (int)floor(O_8l9E0);
+
 break;
 case 'c':
 case 'C':

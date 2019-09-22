@@ -31,7 +31,7 @@ int main(int argc, char** argv) {
   f21S  =  144052627;
   Bhiqmf2_up  =  1529714957;
   BgZuhV  =  -1618162576;
-  vMin  =  184244774;
+
   oqgVL  =  -1250049731;
   n93toNi  =  1143543970;
   TX_o4nPba  =  -1250396525;
@@ -42,7 +42,7 @@ int main(int argc, char** argv) {
 
   nUfX45H  =  10916327;
   tO538  =  -852523050;
-  BcKzKR90Jr  =  -1000550879;
+
 
 kp3BWS = sF2aZ5(D8D_, nLoZi8Vtr) - f21S;
 
@@ -168,7 +168,7 @@ else
 }
 else if (AG16N <= -1017341002)
 {
-if7E2UtL = (long)(BgZuhV);
+
 }
 else if (((Rj_7JF_F6_ >= -1644230212) || (BsjM >= 1262286335)) && (oqgVL & -1891128074))
 {
@@ -280,7 +280,7 @@ if (K8Iv == 0)
 }
 std::cout << Yg_GQwOp << sF2aZ5(-1673275880, -1096452016) << Rj_7JF_F6_ << i1vc1 << std::endl;
 
-O_I84 = Ujn9_x5b << nLoZi8Vtr;
+
 {
 int i = 0;
 do
@@ -309,7 +309,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-Ujn9_x5b = sF2aZ5(-1816060770, BgZuhV) << jJl3ic_DBb;
+
 break;
 case 'd':
 case 'D':
@@ -323,7 +323,7 @@ default:
 
 break;
 }
-D8D_ = (long)(vMin);
+
 try
 {
 Ujn9_x5b = IW42d20Z - 1802896970;

@@ -14,7 +14,7 @@ int main(void)
  XZjPlviE = -1395504700;
  O_F2ukRZaB = 1665431038;
 
- Z0AB0LZ3 = 649351679;
+
  Nht8 = -1228496832;
  zNX2 = 1063842311;
  G93YN_w_ = 2045711702;
@@ -28,7 +28,7 @@ int main(void)
  A8a7mh_ = 1637828760;
  Hr_z = -836914916;
  nu5Rv = 951736566;
- zAt8O7xs_v = 1037103205;
+
 
  R8_mfAI_n = 1839849214;
  gDurM3NSJb = 541460791;
@@ -42,7 +42,7 @@ int main(void)
  o34_y25fxm = -1020173608;
  D0Zx_7 = -80916883;
 
- mLD12_6 = -2115082081;
+
  Ssz1iim931 = -1184862669;
  sQll918 = -147608783;
  u8C6emkQSe = -440253332;
@@ -74,7 +74,7 @@ int main(void)
  Ed9rXV = 1584806895;
  TkxC = 1363222028;
  RQ2tl_M6Fb = -1503966375;
- c4hDC = 274424212;
+
  iy07k6 = -1585878161;
  r33_5 = 377159367;
  YkHnO_ = 1007091474;
@@ -84,7 +84,7 @@ int main(void)
  k3XUv4P4D = 1145384734;
  bli84p6jNo = 1639956057;
  tyb6a57 = 1880026604;
- E80s836v = -1955333766;
+
  k6GMSimt4 = 593449741;
  F53uYDF = -1231488637;
  VstK8v7 = 688904178;
@@ -164,7 +164,7 @@ case 1:
 G93YN_w_ = (int)abs(D9RE4H);
 break;
 case 2:
-nu5Rv = arL4Q6f6 >> AU993RG8;
+
 break;
 case 3:
 
@@ -206,7 +206,7 @@ for (int i = 0; i < 9; i++)
 
 }
 
-AU993RG8 = (long)(q57rOZ_);
+
 
 for (int i = 0; i < 10; ++i)
 {
@@ -314,7 +314,7 @@ if ((uXAD7OP453) && (s1_zlm5p35 != F53uYDF))
 {
 if ((O_F2ukRZaB == 1358910509) && (E80s836v & 41615877))
 {
-arL4Q6f6 /= D9RE4H;
+
 }
 else if (H4WkF9m == -1380998703)
 {
@@ -333,7 +333,7 @@ else if (R8_mfAI_n >= DbK17)
 {
 if ((r8BK & sQll918) || ((aF16531_bP & -1033002283) || (hQxVK80 < jyGDGLdpfv)))
 {
-GFrp_uALx <<= aF16531_bP;
+
 }
 else
 {
@@ -355,7 +355,7 @@ else
 {
 if (YkHnO_ & -865447255)
 {
-r8BK = A8a7mh_ ^ i2mp0f;
+
 }
 }
 }
@@ -378,7 +378,7 @@ case 0:
 
 break;
 case 1:
-DbK17 += 929985709;
+
 break;
 case 2:
 Ssz1iim931 = aF16531_bP << 1247375974;
@@ -393,7 +393,7 @@ switch (i2mp0f)
 {
 case 'a':
 case 'A':
-bli84p6jNo <<= 961880369;
+
 break;
 case 'b':
 case 'B':
@@ -447,7 +447,7 @@ while (k >= 0);
 }
 else
 {
-cgSrV &= 601463019;
+
 }
 }
 std::cout << "cmMDHhq0" << "dLH0" << ks6_PzHAp << "UDz8" << std::endl;

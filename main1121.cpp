@@ -422,7 +422,7 @@ case 'b':
 Z_gAXH = (int)floor(l_7259G9y);
 break;
 case 'c':
-ORfSJ *= frv099k32;
+
 break;
 case 'd':
 eH3985L1CJ = V8en1_();
@@ -456,7 +456,7 @@ SsEc7 /= 956305217;
 break;
 case 'd':
 case 'D':
-ORfSJ = LcoAlsy_3(ORfSJ, -595819309, -940830178, IP38Q);
+
 break;
 case 'e':
 case 'E':

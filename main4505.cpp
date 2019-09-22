@@ -63,7 +63,7 @@ case 'a':
 
 break;
 case 'b':
-ZeDvZQ8 = EBh27bo ^ kjQkyKoJFS;
+
 break;
 default:
 ZxAhIsz += 359826779;
@@ -77,7 +77,7 @@ else
 }
 
 std::cout << "j9KDbf1" << "CYJ_w" << "azMnXRbJu" << EBh27bo << std::endl;
-j1g5Tx = (unsigned long)(Ni_nWr);
+
 for (int i = 0; i < 10; ++i)
 {
 Ni_nWr = (char)(J0Fc7);
@@ -105,7 +105,7 @@ for (int j = 8; j >= 0; --j)
 
 }
 }
-U66a9PGFa = (int)floor(eh3EHyjM);
+
 
 if (cA9Ivz8JL2 < 290625533)
 {
@@ -116,7 +116,7 @@ eh3EHyjM = (double)(Iu6ym0MW);
 }
 
 
-Hrb71U = VfC46P3D0x(262285287);
+
 return 0;
 }
 

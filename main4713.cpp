@@ -230,7 +230,7 @@ z0JkVzf = (int)ceil(K706yP14);
 }
 
 
-k8Ylc9A1 = (int)floor(DYGMA6);
+
 
 for (int i = 0; i < 6; i++)
 {
@@ -417,7 +417,7 @@ switch (T_G04cPJe)
 {
 case 'a':
 case 'A':
-I38ty3F = (int)abs(sFR0TI_);
+
 break;
 case 'b':
 case 'B':
@@ -429,7 +429,7 @@ j__BIq = YkhDPf26oG * GRi63L9n4;
 break;
 case 'd':
 case 'D':
-b5c5 = (int)ceil(sFR0TI_);
+
 break;
 case 'e':
 case 'E':
@@ -441,7 +441,7 @@ mHMpS ^= 1526879115;
 break;
 case 'g':
 case 'G':
-C11N6 = (int)abs(sFR0TI_);
+
 break;
 }
 cout << Lz5__Aos5(sFR0TI_) << g2dGiACn4 << P8Ej7Kgq << zqaqhk << endl;

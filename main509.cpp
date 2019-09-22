@@ -95,7 +95,7 @@ j04aQ = z2lAvW();
 
 if (Pi_1hb44n & 1330590359)
 {
-lcHV_0q = (int)ceil(hl75Iv53);
+
 }
 switch (j04aQ)
 {
@@ -119,7 +119,7 @@ else
 {
 
 }
-j04aQ >>= 866627832;
+
 
 return 0;
 }

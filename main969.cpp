@@ -197,7 +197,7 @@ break;
 }
 
 cout << ATpU3(c0SG9qzs, gtsFODTYi6, 1106315973, 1719128947) << "wAJTo" << endl;
-g3HX84A9z0 = (char)(dd5ZqDK242);
+
 
 switch (gtsFODTYi6)
 {
@@ -259,7 +259,7 @@ r7929F--;
 break;
 case 'd':
 case 'D':
-g3HX84A9z0 = nhF5qrou7(-286985806);
+
 break;
 case 'e':
 case 'E':

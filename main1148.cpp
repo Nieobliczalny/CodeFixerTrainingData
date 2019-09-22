@@ -80,7 +80,7 @@ pzNJI = FbA79(-1234178841);
 
 if (pzNJI == -1369587849)
 {
-GG8O56W = (unsigned char)(qJP0yuvT_U);
+
 }
 else
 {
@@ -285,7 +285,7 @@ case 1:
 GG8O56W--;
 break;
 case 2:
-Djs5v = TOmB * Ijc_89p;
+
 break;
 default:
 zIjK07d = FbA79(-102340797);

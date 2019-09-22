@@ -67,7 +67,7 @@ while (i >= 0);
 }
 
 
-dZ_s = (float)(G7_y5v);
+
 switch (mB2f8NG)
 {
 case 'a':

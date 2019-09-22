@@ -20,7 +20,7 @@ long    Hu0_();
 
 int main() {
  long long K5x85dh85;
- K5x85dh85 = -215679537;
+
     short    W145443_n;
     W145443_n    =    -138314944;
     float    V9Ch1;
@@ -34,7 +34,7 @@ int main() {
     unsigned char    G32ve;
     G32ve    =    777981879;
  short int s6cm3_I_1;
- s6cm3_I_1 = -740211866;
+
   short int  Su2wU7;
   Su2wU7  =  -430572388;
   long  vf9t9plNM_;
@@ -56,7 +56,7 @@ int main() {
 	unsigned int	GkJ5;
 
   char  pkQieF_;
-  pkQieF_  =  135965543;
+
     unsigned char    W9qJh;
     W9qJh    =    0;
  int dfzSq24iiD;
@@ -96,7 +96,7 @@ sbt1_n16 = (int)ceil(V9Ch1);
 K5x85dh85 = (long long)(kWRzMuZbq9);
 GG3hC8j ^= 685342552;
 
-kWRzMuZbq9 = Hu0_();
+
 {
 int i = 0;
 do
@@ -176,7 +176,7 @@ catch (int& errorCode)
 V9Ch1 = dfzSq24iiD % 486605405;
 }
 }
-YROy = (int)ceil(X0c5OH);
+
 {
 int i = 0;
 while (i < 5)
@@ -187,7 +187,7 @@ int j = 7;
 do
 {
 j--;
-K5x85dh85 = Hu0_();
+
 }
 while (j >= 0);
 }
@@ -207,7 +207,7 @@ if ((W9qJh == -1254850669) && ((W9qJh >= -1679428562) && (EhzbK8OGt4 > -20820413
 }
 else if (TUDR != 2015252253)
 {
-YROy = (int)ceil(qQU8Q);
+
 }
 else
 {
@@ -232,7 +232,7 @@ switch (G32ve)
 {
 case 'a':
 case 'A':
-X0c5OH = (int)floor(sbt1_n16);
+
 break;
 case 'b':
 case 'B':

@@ -138,7 +138,7 @@ case 'd':
 Y2c41ESqr = (int)abs(V4816Z);
 break;
 case 'e':
-L9hd7 = W8XJ3KK(i_7bp0);
+
 break;
 case 'f':
 rRov = (int)floor(L8aG);
@@ -197,7 +197,7 @@ switch (yCCDnk_i)
 {
 case 'a':
 case 'A':
-L9hd7 = W8XJ3KK(-656595928);
+
 break;
 }
 }
@@ -213,7 +213,7 @@ if (W8XJ3KK(2138807990) == 0)
 int i = 0;
 while (i < 6)
 {
-l6oEv = (int)ceil(Y2c41ESqr);
+
 i++;
 }
 }
@@ -278,7 +278,7 @@ Gyn20CSQ = (int)abs(EK8a9SW);
 }
 
 
-LvU2zN = pHyhc98c(Gyn20CSQ, exiyJ, kW_498) % kW_498;
+
 
 {
 int i = 0;
@@ -330,7 +330,7 @@ while (k >= 0)
 }
 }
 
-i_7bp0 = (int)ceil(rRov);
+
 
 return 0;
 }

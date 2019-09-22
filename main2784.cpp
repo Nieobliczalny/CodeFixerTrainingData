@@ -25,7 +25,7 @@ int main(void)
 	unsigned int	xa420;
 	xa420	=	1960877570;
   char  CJ0B6;
-  CJ0B6  =  -1248016028;
+
   long double  n8yf;
   n8yf  =  1458402246;
   unsigned short  d6nuJs;
@@ -79,7 +79,7 @@ int main(void)
 	unsigned short	U03cbft;
 	U03cbft	=	1039585364;
  short NcVEGX;
- NcVEGX = -1700334919;
+
     unsigned short    VysXmX62K;
     VysXmX62K    =    -1671311858;
     unsigned short int    mNl4iV4kav;
@@ -127,7 +127,7 @@ int main(void)
     unsigned long long    k9N__O9F4k;
     k9N__O9F4k    =    -535239967;
  long L6bf_sG;
- L6bf_sG = -512480861;
+
 	char	JMXzb1AG;
 	JMXzb1AG	=	-93684947;
     unsigned long    nke1BO65w;
@@ -171,7 +171,7 @@ int main(void)
 	unsigned char	wlx2;
 	wlx2	=	423688258;
 	char	iPp9W8sg;
-	iPp9W8sg	=	-1391009269;
+
  unsigned long rvChNFc;
  rvChNFc = -831574867;
  unsigned int fD7d;
@@ -397,7 +397,7 @@ t_AVBW6e5X = oJbu48_M0(-679989268);
 }
 else if (mNl4iV4kav > 24481090)
 {
-iPp9W8sg = (char)(s_CV7wnRnH);
+
 }
 else if (a8wPEZ2eml == d6nuJs)
 {
@@ -452,7 +452,7 @@ Brvk = oJbu48_M0(l662_);
 }
 else if (RnL4v8PwN)
 {
-yv2_aka = K57s836(-2071454723, 865848565, UZ_4);
+
 }
 else if (URIcR_vCm > -416594526)
 {
@@ -495,7 +495,7 @@ P74Nd = (int)abs(sAO0yI39b);
 }
 }
 }
-QAMrs3o = oJbu48_M0(s_CV7wnRnH);
+
 
 
 switch (y7kNL4hO)
@@ -599,7 +599,7 @@ fD7d = K57s836(-408290799, pp0azil3, 1309638794);
 }
 }
 
-v2TUoQFOt_ = oJbu48_M0(-2116369928) / oJbu48_M0(180090702);
+
 if (VqQZ & 1584419776)
 {
 if (kV5Gj8)
@@ -614,7 +614,7 @@ else if (R4HB0I1 != m2rB)
 }
 else if ((MeqV12p0K0 != OXGvt3rfD) || (p1Fgx == vKjTMXC))
 {
-t_AVBW6e5X = (int)abs(RnL4v8PwN) * 0;
+
 }
 else if (p1Fgx > h4nQhT7)
 {
@@ -626,7 +626,7 @@ else if (s_CV7wnRnH != 348924969)
 }
 else
 {
-fZeI7N = (int)floor(sAO0yI39b);
+
 }
 }
 }
@@ -636,7 +636,7 @@ case 'a':
 
 break;
 case 'b':
-j6JN /= 274648115;
+
 break;
 case 'c':
 k9N__O9F4k = gYKPH % 900527351;
@@ -654,7 +654,7 @@ case 'g':
 
 break;
 case 'h':
-RnL4v8PwN = (int)floor(DC0w);
+
 break;
 case 'i':
 Rs_8hj6s5 = oJbu48_M0(968478213);
@@ -672,7 +672,7 @@ else
 {
 if (Rs_8hj6s5 & 83630543)
 {
-s_CV7wnRnH = (int)floor(URIcR_vCm);
+
 }
 else if (a8wPEZ2eml)
 {
@@ -698,7 +698,7 @@ std::cout << K57s836(-896003735, GTl09hbkRa, 874728766) << "qJYW39N_" << S3t7n2b
 
 
 
-u264z5E2 = (short int)(Brvk + (-1262691516));
+
 switch (o2__c3U5)
 {
 case 'a':
@@ -733,7 +733,7 @@ i--;
 }
 }
 
-j6JN = (unsigned short)(EOj0M);
+
 
 {
 int i = 9;

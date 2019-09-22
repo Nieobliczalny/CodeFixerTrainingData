@@ -40,7 +40,7 @@ int main(int argc, char** argv) {
 	long	C_N5ew266;
 	C_N5ew266	=	40885663;
     unsigned char    T3F_rf2;
-    T3F_rf2    =    -482168674;
+
   long long  rsL2jOD;
   rsL2jOD  =  -99142403;
 	short int	WuVLEN8;
@@ -52,7 +52,7 @@ int main(int argc, char** argv) {
  long double wu5Q;
 
 	unsigned short	PvF63;
-	PvF63	=	-427233833;
+
     long long    oMI5_;
     oMI5_    =    2047379222;
  long long uZtx4s;
@@ -64,7 +64,7 @@ int main(int argc, char** argv) {
  unsigned short int PrBJc41;
  PrBJc41 = 464104346;
  double IAbyb;
- IAbyb = 163881910;
+
   char  QqOEo2j;
   QqOEo2j  =  -54979464;
 	unsigned char	OjH8rw;
@@ -78,7 +78,7 @@ int main(int argc, char** argv) {
     int    rzr4bRpel;
     rzr4bRpel    =    -65330141;
     unsigned long long    w593p5AE;
-    w593p5AE    =    -1038176920;
+
   unsigned long  Osilh0R;
   Osilh0R  =  -1370398666;
 	char	nE2NoAEXn;
@@ -90,7 +90,7 @@ int main(int argc, char** argv) {
     unsigned short int    oeg9R;
     oeg9R    =    0;
  long long h3DIGF1;
- h3DIGF1 = -1293487723;
+
   long double  J8q6eB;
   J8q6eB  =  91455304;
 	int	fhu3ccas;
@@ -118,7 +118,7 @@ int main(int argc, char** argv) {
  long t0Kn;
  t0Kn = -1426160203;
   long double  R3yH517dPb;
-  R3yH517dPb  =  -882890312;
+
 	unsigned short	j2x2;
 	j2x2	=	-327994138;
     unsigned int    ipKw3v_Cdr;
@@ -130,7 +130,7 @@ int main(int argc, char** argv) {
     long double    bHS8;
     bHS8    =    456297328;
   unsigned long long  m4WDZ_;
-  m4WDZ_  =  1279093089;
+
   char  Kb20_KCT;
 
 	long long	ndtiwdw8F;
@@ -157,7 +157,7 @@ if (rzr4bRpel < 1798536297)
 }
 else
 {
-AxqDX2e = QqOEo2j >> C_N5ew266;
+
 }
 }
 else if ((jqwn14K9v >= rA6X6Bj) || ((uZtx4s != OjH8rw) || (J8q6eB > -1767503541)))
@@ -216,7 +216,7 @@ uZtx4s = dqH45axIE(uZtx4s, -1370032525, -1134788069, -575725407, PrBJc41);
 T3F_rf2 = (unsigned char)(w2ydj93ne);
 
 oeg9R = k3gA8();
-AxqDX2e = (int)floor(aImv);
+
 
 {
 int i = 0;
@@ -266,7 +266,7 @@ for (int j = 0; j < 4; ++j)
 }
 }
 
-M_JV67_25P = A9vX1GlH / oeg9R;
+
 
 {
 int i = 0;
@@ -337,7 +337,7 @@ case 0:
 
 break;
 case 1:
-dR9t17u = dqH45axIE(-660813209, Jt49A8, 1650051419, 1900630435, -616167267);
+
 break;
 case 2:
 RMtEH = k3gA8() % 741653693;
@@ -364,7 +364,7 @@ Es70fP = k3gA8();
 }
 else if (rBI3iQ3VH & -417376278)
 {
-dR9t17u = (int)ceil(fYGr);
+
 }
 else if (F71_n_nap != QUGADnU)
 {

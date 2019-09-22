@@ -21,7 +21,7 @@ int main()
   unsigned int  y21CtBCc5;
 
 	unsigned short	m5_82icG3N;
-	m5_82icG3N	=	1170078539;
+
  unsigned char j3SA8_r0;
  j3SA8_r0 = -2105159073;
 	int	XF_d;
@@ -31,7 +31,7 @@ int main()
   long long  Sg_U_;
 
 	char	QwOD;
-	QwOD	=	1768472795;
+
  unsigned short int yCb6SD;
  yCb6SD = 1853766545;
  unsigned long long VtKb;
@@ -49,7 +49,7 @@ int main()
     long double    ROfg4;
     ROfg4    =    -1440068325;
  unsigned long f6AnF6uo;
- f6AnF6uo = 379624047;
+
 	unsigned long	gLA8hKk;
 	gLA8hKk	=	620838603;
  long double U2OnJQG66;
@@ -63,7 +63,7 @@ int main()
 	unsigned short int	yX14i65;
 	yX14i65	=	616092521;
   short  Z9g83U;
-  Z9g83U  =  -438128490;
+
     unsigned short int    p0SWBS;
 
  short int tAvuAk709_;
@@ -79,7 +79,7 @@ int main()
     long    ul9e;
     ul9e    =    -757718674;
  int oYK4I;
- oYK4I = 646848153;
+
     unsigned long    y15d0;
     y15d0    =    -1770785346;
 	double	yh_rm6d7N_;
@@ -89,7 +89,7 @@ int main()
  char MJL21IHDjp;
  MJL21IHDjp = -159977402;
   long  uc214NL;
-  uc214NL  =  1029064528;
+
 	float	mNe9VK;
 	mNe9VK	=	-22247662;
 	double	s2_7bgWH5P;
@@ -101,7 +101,7 @@ int main()
   double  hG5Z;
   hG5Z  =  -143612152;
 	long long	T4D7v;
-	T4D7v	=	2042187873;
+
 	long	d_1kao;
 	d_1kao	=	1735428330;
     int    sPmww;
@@ -111,7 +111,7 @@ int main()
  unsigned char ccepeh;
  ccepeh = -1992504608;
 	short	Y4_EAvefW;
-	Y4_EAvefW	=	1155292535;
+
   char  e_Wtg4zD;
   e_Wtg4zD  =  1826260973;
   unsigned long  g3Dlx3o;
@@ -121,7 +121,7 @@ int main()
  long double m9D0;
  m9D0 = -1944944049;
     unsigned short int    iWL8_;
-    iWL8_    =    -1218515051;
+
  unsigned short int j1n37dc;
  j1n37dc = -1338120223;
  unsigned short int ayrM2L;
@@ -131,7 +131,7 @@ int main()
     short    Kw2SUPB_4_;
 
   unsigned short  px9oG21ED;
-  px9oG21ED  =  -1397962930;
+
 	double	B3604IlS;
 	B3604IlS	=	-1785970034;
 	float	dw3mkDh;
@@ -147,7 +147,7 @@ int main()
     long double    c3o535;
     c3o535    =    1443419490;
   short int  vQ5kg;
-  vQ5kg  =  908349697;
+
     unsigned short    i7ebN_96e9;
     i7ebN_96e9    =    1923376837;
   unsigned long long  Uo_3sN2u;
@@ -159,7 +159,7 @@ int main()
  unsigned int lyI7;
  lyI7 = 866127957;
   unsigned short int  m8_pG0GS1;
-  m8_pG0GS1  =  409856797;
+
   unsigned long long  ImIj;
 
     long    b0Q323;
@@ -169,7 +169,7 @@ int main()
 	unsigned long	xTafnzG;
 	xTafnzG	=	-1336147123;
  unsigned long long S5hEAO;
- S5hEAO = -1830070;
+
  long y7f47;
 
 	long	rzeKfI_N;
@@ -179,7 +179,7 @@ int main()
     long double    TI07bXAYz;
     TI07bXAYz    =    1737655580;
     unsigned char    FGK8Wc_;
-    FGK8Wc_    =    -1906186596;
+
  unsigned int L4Se7;
 
  char dzq5;
@@ -189,7 +189,7 @@ int main()
   double  T35G35a;
   T35G35a  =  2072247065;
  long m64m;
- m64m = -865445993;
+
 	long	bmJ7ds;
 
 	int	a0M5HW0S;
@@ -209,7 +209,7 @@ while (i >= 0)
 switch (B57xphC9gU)
 {
 case 'a':
-VtKb = nrMJ();
+
 break;
 case 'b':
 
@@ -221,7 +221,7 @@ case 'd':
 X45cU = nrMJ();
 break;
 case 'e':
-J1ml2 <<= P3Apg_p_S;
+
 break;
 case 'f':
 xTafnzG--;
@@ -231,7 +231,7 @@ default:
 break;
 }
 
-VtKb = nrMJ();
+
 
 std::cout << e0RI036Pg() << e0RI036Pg() << DfYCz << D6qAP << "YdU79hc" << std::endl;
 if (((KStzqmT4tA <= -945574716) || (kD4ifIq <= y15d0)) || ((kD4ifIq > -1131277715) && (QErwU & 182886987)))
@@ -252,7 +252,7 @@ case 0:
 
 break;
 case 1:
-yCb6SD = (d_1kao < dzq5) ? e0RI036Pg() : d6zI7fQ;
+
 break;
 case 2:
 ayrM2L = e0RI036Pg();
@@ -272,7 +272,7 @@ break;
 
 try
 {
-m8_pG0GS1 = B57xphC9gU * 1072890251;
+
 }
 catch (int& errorCode)
 {
@@ -287,7 +287,7 @@ case 1:
 
 break;
 case 2:
-DfYCz = (int)floor(T35G35a);
+
 break;
 case 3:
 XEa2I = e0RI036Pg();
@@ -323,7 +323,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-mNe9VK = e0RI036Pg();
+
 break;
 case 'e':
 case 'E':
@@ -346,7 +346,7 @@ case 'I':
 
 break;
 default:
-ul9e = (int)abs(XF_d);
+
 break;
 }
 std::cout << "o49uU" << m9D0 << e0RI036Pg() << e0RI036Pg() << std::endl;
@@ -363,7 +363,7 @@ while (i < 7);
 }
 if (gLA8hKk > P3Apg_p_S)
 {
-DfYCz = (int)floor(c3o535);
+
 }
 else if (dw3mkDh)
 {
@@ -403,7 +403,7 @@ T35G35a = (int)ceil(dw3mkDh);
 }
 }
 
-a0M5HW0S = (int)(lyI7);
+
 
 try
 {

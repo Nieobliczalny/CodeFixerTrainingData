@@ -51,7 +51,7 @@ int main(void) {
   double  xeY00o;
   xeY00o  =  -651558055;
  short int E6l2YM;
- E6l2YM = -1976212088;
+
  unsigned int El71n;
  El71n = 1705887299;
  short int JLZlG4qi;
@@ -133,7 +133,7 @@ int main(void) {
  short kRsC7kT1P;
  kRsC7kT1P = -1300803550;
 	unsigned char	Q70REyt;
-	Q70REyt	=	505914970;
+
 	unsigned int	ux8hMwF3;
 	ux8hMwF3	=	-949865862;
     int    h3vr_lytkH;
@@ -226,7 +226,7 @@ int main(void) {
 TKoz_85Hfp = (unsigned short int)(Z9DK1Vm);
 dyM8_ = (short int)(tFU8agBvS_);
 
-Q70REyt = IaxGvY2(1888837917, G737EJF, HG3BfF7z8, u_v97pdbc_, ckwJ53);
+
 
 {
 int i = 3;
@@ -519,7 +519,7 @@ case 1:
 uxy2 = BOPP(uxy2, T2i_2Peu5);
 break;
 case 2:
-X_Xd = (int)abs(xeY00o);
+
 break;
 case 3:
 q7s9_Q = BOPP(-1931335827, 1641388230);
@@ -532,7 +532,7 @@ break;
 }
 else if (X185G32 != 600051889)
 {
-cxVj = BOPP(cxVj, kRsC7kT1P);
+
 }
 else
 {
@@ -588,7 +588,7 @@ break;
 switch (S024ewSZt5)
 {
 case 0:
-Rlg6E2 = JO8983kez2(X185G32, -1972294383, f05FD6l6Ih, 1235860819, WbN8);
+
 break;
 case 1:
 
@@ -606,7 +606,7 @@ case 5:
 
 break;
 case 6:
-Rlg6E2 = JO8983kez2(zhJe5CTx, -990202090, 886522977, X185G32, 638452797);
+
 break;
 case 7:
 X55Q9 = BOPP(X55Q9, s2X_am3q8);
@@ -634,7 +634,7 @@ catch (int& errorCode)
 G75Z6P_i = (int)floor(eLl6H4);
 }
 
-Rlg6E2 = (int)abs(eLl6H4) * 0;
+
 {
 int i = 0;
 while (i < 9)
@@ -691,7 +691,7 @@ eLl6H4 = (int)floor(f05FD6l6Ih);
 break;
 case 'b':
 case 'B':
-s2X_am3q8 = IaxGvY2(s2X_am3q8, tFU8agBvS_, 629525589, J1m1wrE, RZK12yO);
+
 break;
 case 'c':
 case 'C':
@@ -703,7 +703,7 @@ Rlg6E2 = JO8983kez2(JdTx58bn, UX0_p, -1409064508, -522678034, 1909911934);
 break;
 case 'e':
 case 'E':
-f05FD6l6Ih = YvRePxxo0 - 2017873981;
+
 break;
 case 'f':
 case 'F':
@@ -725,7 +725,7 @@ if (JPlQ)
 switch (yjajv_)
 {
 case 0:
-f05FD6l6Ih = gXM5 | 799653410;
+
 break;
 case 1:
 
@@ -779,7 +779,7 @@ else
 {
 for (int j = 0; j < 4; j++)
 {
-B5c2 = (int)ceil(mA579);
+
 }
 }
 
@@ -792,7 +792,7 @@ try
 int k = 0;
 while (k < 8)
 {
-JLZlG4qi = ux8hMwF3 | 1908929106;
+
 ++k;
 }
 }
@@ -803,7 +803,7 @@ X185G32 = BOPP(1842077165, mVNk6);
 }
 }
 
-JdTx58bn = (int)ceil(SIai8dqF6F);
+
 {
 int i = 0;
 while (i < 9)
@@ -824,7 +824,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-WX_lqOKf = BOPP(1999417915, JPlQ);
+
 break;
 default:
 JkI8bS_ = IaxGvY2(-1735916606, RZK12yO, 100932236, -1334340264, -1841334291);

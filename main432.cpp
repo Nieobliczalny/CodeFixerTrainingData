@@ -146,7 +146,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-BC20huAhB <<= 71166327;
+
 break;
 case 'c':
 case 'C':
@@ -166,7 +166,7 @@ case 'F':
 break;
 case 'g':
 case 'G':
-QFW5Q *= gZs0Q7_;
+
 break;
 case 'h':
 case 'H':
@@ -214,7 +214,7 @@ if (oP11l_ <= -109447199)
 }
 else if (wkfzD0 == oP11l_)
 {
-YoEEX221 = (int)abs(MX8Jwb6dv);
+
 }
 else if (HxtZ99SM & -1992279797)
 {
@@ -251,7 +251,7 @@ case 2:
 
 break;
 default:
-oo2Hp = (int)floor(NDnGR80m);
+
 break;
 }
 
@@ -267,7 +267,7 @@ while (i < 7);
 
 if ((zn6n != 560931053) && (ysVmLLc & Lwfag43XO))
 {
-IoU8sEy = (unsigned int)(L5IWx);
+
 }
 else
 {
@@ -289,7 +289,7 @@ std::cout << xU0r << std::endl;
 }
 else
 {
-sWjsfpI = (int)floor(PE9Wa0_1X);
+
 }
 }
 else
@@ -304,7 +304,7 @@ for (int i = 0; i < 6; ++i)
 {
 if (L5IWx > k17I7s)
 {
-k3i5i9L4 = (unsigned char)(hpKBb8);
+
 }
 else
 {

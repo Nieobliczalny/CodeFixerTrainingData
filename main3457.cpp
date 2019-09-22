@@ -163,7 +163,7 @@ else if (G9UEDTqB6T != -730226480)
 }
 else if (b3YsX > -67566439)
 {
-viNJef_6 = T1H0Z5V7(viNJef_6, 1033491114, aOoNv);
+
 }
 else if (rzBwt9Zu >= CQB_6d386)
 {
@@ -294,7 +294,7 @@ else if (L6Ka8X1OQ == 60910728)
 int k = 0;
 do
 {
-Ux03k4qz8n = (int)ceil(ob6wAck_);
+
 ++k;
 }
 while (k < 3);

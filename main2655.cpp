@@ -18,7 +18,7 @@ unsigned short int	E7a_y72(short	Te_KS,short	A1858P_,short int	Ck8I3I,long	G8H98
 int main() {
     long    YCPZl,    oF76S6,    HGF4,    ktUE4tEr;
     YCPZl    =    0;
-    oF76S6    =    0;
+
     HGF4    =    0;
     ktUE4tEr    =    0;
  long long Xv0R1, No53M1_, vDaAuD__, I7H__, kZ83H0, YK74, d5I10W, X4966, lzni_hwl6, D1mjAJ, WGT4O, xSpgYdCakb, k664G, xkrz52l, a1meS, I4m_iqC57, R71wf0Q, CR1Dh, Jwg8JK_Vgr, fGS6Bv4, GV8FIJmw5k, jj83Mm0Mc, N70_N95t, jY1yM, bKba, r_2__A18, xPfE64Xwwn, YPjD_, Ez0Lz, V2EVJ3x8i, sGcH1niD, nU6LKtXH5, m_LY, e906, UVHL, QWjzA14l_, g79R, Wf_7hA, P9_QD9C4A, GlbrHP, I54j, MNVy1_2, N0397, l0IY, EZb7, sViei, Bkpqd296SL, q0V5, V8V_7z, gHihHGabe, Odv1YK59, WA7lgohN_7, VZU12if, Rgej4, rW5WFxz, kjgrP4ON, nir8p0, ZDD2h, g7Zg9, cKyLeDw9Jh, tSGR3sL59, HFWtu_, O26tweYN1, TI6m_, qY11ED, l3maN, C2SMD1X, N9Sv9, n4cdfXi, yNH8ABa;
@@ -28,7 +28,7 @@ int main() {
  I7H__ = -694654008;
  kZ83H0 = -1801844532;
 
- d5I10W = 850280976;
+
  X4966 = -1538349815;
  lzni_hwl6 = 968311042;
  D1mjAJ = -1634164876;
@@ -46,7 +46,7 @@ int main() {
  jj83Mm0Mc = -353308184;
  N70_N95t = -1676687549;
  jY1yM = -1024731309;
- bKba = -1803466531;
+
  r_2__A18 = -1560985405;
  xPfE64Xwwn = 1213078047;
  YPjD_ = -1533118212;
@@ -63,7 +63,7 @@ int main() {
  P9_QD9C4A = 637522397;
  GlbrHP = -233918745;
  I54j = -1017386293;
- MNVy1_2 = -1156991680;
+
 
  l0IY = -2071049257;
  EZb7 = -819143807;
@@ -81,7 +81,7 @@ int main() {
  nir8p0 = 77894184;
 
  g7Zg9 = -94586514;
- cKyLeDw9Jh = 296142890;
+
  tSGR3sL59 = 20543245;
  HFWtu_ = -433552946;
  O26tweYN1 = 694332861;
@@ -152,7 +152,7 @@ e906 = E7a_y72(-807651754, Jwg8JK_Vgr, -1848568541, 2142584275);
 break;
 case 'j':
 case 'J':
-yNH8ABa = A4dJJ8vCL();
+
 break;
 }
 bKba = wbgi_2PeKr(844137833);
@@ -486,7 +486,7 @@ else
 }
 if (PFPeo(Ez0Lz, vDaAuD__) == 0)
 {
-	fGS6Bv4 = 10601820 / PFPeo(Ez0Lz, vDaAuD__);
+
 }
 ktUE4tEr = PFPeo(I7H__, -704386172);
 
@@ -537,7 +537,7 @@ case 0:
 rW5WFxz = (int)abs(Wf_7hA);
 break;
 case 1:
-g79R = wbgi_2PeKr(g79R);
+
 break;
 case 2:
 
@@ -588,7 +588,7 @@ if (a1meS == -1804216786)
 }
 else
 {
-oF76S6 = PFPeo(677927359, 1290308229);
+
 }
 j++;
 }
@@ -598,7 +598,7 @@ j++;
 
 for (int i = 10; i >= 0; --i)
 {
-Odv1YK59 = (int)abs(Wf_7hA);
+
 }
 try
 {

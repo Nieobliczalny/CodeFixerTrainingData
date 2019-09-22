@@ -341,7 +341,7 @@ QlVf1gS *= 1487717668;
 break;
 case 'c':
 case 'C':
-sEP2j = (int)abs(txxMZ);
+
 break;
 case 'd':
 case 'D':

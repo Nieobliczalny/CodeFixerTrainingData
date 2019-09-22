@@ -243,7 +243,7 @@ case 'b':
 i7Bx0C -= co653H75H;
 break;
 case 'c':
-ZW4yC4 <<= 1809367796;
+
 break;
 case 'd':
 fgSW4L6 = o5t0jp0 / Ues6p7Gnr;
@@ -576,7 +576,7 @@ switch (Nz3B)
 {
 case 'a':
 case 'A':
-LbSD8w = gW_DcU(LbSD8w, 1825567472, -75676671);
+
 break;
 case 'b':
 case 'B':
@@ -626,7 +626,7 @@ case 1:
 mdpuSQ = fhoOG(ixx_yoo7, 1474866907, -1949996258);
 break;
 case 2:
-LbSD8w -= wX1D4WNTMk;
+
 break;
 case 3:
 LbSD8w = zC_Q(LbSD8w);
@@ -750,7 +750,7 @@ mdpuSQ = fhoOG(683177293, f_IEY3, UxQ0);
 }
 else
 {
-Hr9W = (AX64 & -1213228967) ? mdpuSQ : AX64;
+
 }
 ++j;
 }

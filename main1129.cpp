@@ -577,7 +577,7 @@ case 7:
 tK_v89 /= gLNlp;
 break;
 default:
-Hw0EPa6Xc = nBwqk2v_Wb / 990493711;
+
 break;
 }
 }
@@ -628,7 +628,7 @@ else if ((D3k_3944N == HInhExaD) && (L1O1uM9 >= HInhExaD))
 {
 if (DnHb8 >= 1861967701)
 {
-Hw0EPa6Xc = vM0DqmJH * L1O1uM9;
+
 }
 else
 {
@@ -655,7 +655,7 @@ break;
 }
 else
 {
-Hw0EPa6Xc |= gLNlp;
+
 }
 }
 else if (Hw0EPa6Xc >= 868425223)

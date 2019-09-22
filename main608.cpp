@@ -688,7 +688,7 @@ else
 
 }
 
-jb5k_98s21 = (unsigned short int)(hHrGj_tN);
+
 s9yun = (int)ceil(w26pD);
 
 return 0;

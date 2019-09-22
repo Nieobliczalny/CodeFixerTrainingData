@@ -231,7 +231,7 @@ i--;
 yVUabA2w_ = QKKdr_();
 std::cout << QKKdr_() << std::endl;
 
-aaC2l2 &= 116733971;
+
 {
 int i = 2;
 do
@@ -300,7 +300,7 @@ else
 {
 
 }
-u337__1_ = (short int)(WlwF + (-896975466));
+
 {
 int i = 0;
 do
@@ -444,7 +444,7 @@ case 1:
 
 break;
 case 2:
-Fw5Wmu = (int)abs(bhGY_c_n_1);
+
 break;
 case 3:
 X767M9OQ5 = W2t8hT(-1301073185, hs45s9c4Af, G0o2422E, -753480010, P0Y1ndLm5);
@@ -456,7 +456,7 @@ case 5:
 
 break;
 case 6:
-hs45s9c4Af = (int)abs(L9QvdXmvo);
+
 break;
 case 7:
 X0791 = W2t8hT(-2019032847, 89775735, 1440923678, 1078847719, -1544592969);

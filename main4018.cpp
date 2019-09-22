@@ -67,7 +67,7 @@ case 0:
 
 break;
 default:
-wTwC = sSK8c4ghN0(-1611785213, 147140278);
+
 break;
 }
 
@@ -82,7 +82,7 @@ default:
 break;
 }
 
-B374 = (long long)(ci8sgiy);
+
 
 Kq499f282 = q9jhX1l(-699183826, Zqrg);
 
@@ -92,7 +92,7 @@ case 'a':
 
 break;
 default:
-Wjbd_ = q9jhX1l(Wjbd_, aPD46X_u);
+
 break;
 }
 
@@ -162,7 +162,7 @@ case 1:
 
 break;
 case 2:
-h629pq9P = (int)abs(dp1p5sOF);
+
 break;
 default:
 viw0 = (KcW_ayxS == CvS6d) ? AY1_Q : N92De;

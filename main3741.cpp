@@ -103,7 +103,7 @@ case 1:
 JVT6o = bmBO4p % zr262;
 break;
 case 2:
-kFi2bDW2 |= 1991128174;
+
 break;
 case 3:
 n1C5 &= P50zvm;
@@ -118,7 +118,7 @@ case 6:
 
 break;
 default:
-sp4t_v6Ik = (int)abs(SggBIj);
+
 break;
 }
 if ((x6qrZNlI2t <= m0_A8G) || (qTkivf >= Gkxk))
@@ -192,7 +192,7 @@ else if (e1i2_Y >= -757120392)
 {
 try
 {
-S3MKED604 = (int)abs(JxHdb) * 0;
+
 }
 catch (int& errorCode)
 {
@@ -208,7 +208,7 @@ else
 
 }
 }
-P50zvm = yuV8hh_T + 1246400963;
+
 {
 int i = 6;
 while (i >= 0)

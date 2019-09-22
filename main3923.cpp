@@ -19,7 +19,7 @@ int main(void)
 	unsigned short int	HqaNe_6Q,	vgN036uQ,	JzfXwZ2,	UGEe76B,	uXfzY,	YyIu_i,	w0aJS_U3,	SohTx63F1z,	cw9v,	Rqnft,	axK10Rk,	zrN_i6z_m,	O4k45lV,	f88uib,	NR8J1ZQ7h3,	c9_h0d1B,	z6KJAzc,	j_6k_b8z,	w6Pg,	nD4G_lh9m,	G3YN8,	zRoU,	ly228,	Grg8gAoP18,	lBX4H6sm,	O_01_3,	GL83pBqbb,	jSlm,	n7c949yA,	Q477oq9Wp,	u6Cb5,	xCh6GWE8,	Bi2yn;
 		HqaNe_6Q	=	vgN036uQ	=	JzfXwZ2	=	UGEe76B	=	uXfzY	=	YyIu_i	=	w0aJS_U3	=	SohTx63F1z	=	cw9v	=	Rqnft	=	axK10Rk	=	zrN_i6z_m	=	O4k45lV	=	f88uib	=	NR8J1ZQ7h3	=	c9_h0d1B	=	z6KJAzc	=	j_6k_b8z	=	w6Pg	=	nD4G_lh9m	=	G3YN8	=	zRoU	=	ly228	=	Grg8gAoP18	=	lBX4H6sm	=	O_01_3	=	GL83pBqbb	=	jSlm	=	n7c949yA	=	Q477oq9Wp	=	u6Cb5	=	xCh6GWE8	=	Bi2yn	=	-1801099886;
 
-Rqnft = 2021070655 / B0P6i_;
+
 
 {
 int i = 2;
@@ -85,7 +85,7 @@ case 2:
 HqaNe_6Q = f88uib << G3YN8;
 break;
 case 3:
-nD4G_lh9m = O_01_3 | 904804363;
+
 break;
 case 4:
 
@@ -97,7 +97,7 @@ case 6:
 G3YN8 = lBX4H6sm >> 637455682;
 break;
 case 7:
-n7c949yA = GL83pBqbb >> 2114487947;
+
 break;
 case 8:
 

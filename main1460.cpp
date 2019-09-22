@@ -41,7 +41,7 @@ int main(int argc, char** argv)
 switch (R9G_1Z0D73)
 {
 case 0:
-daxVTxYxV = wBiL__ >> 2008137345;
+
 break;
 case 1:
 KMaP_mfOCo = CqG8(KMaP_mfOCo, hpV_4g, 968173854, ybHS7vEA);
@@ -59,7 +59,7 @@ case 5:
 e_VY3sb9 = U2Vpmk84T(fI1e, -200262362, lqa014q937, kCLwP_F);
 break;
 case 6:
-n3i2Thq9tV += 633090372;
+
 break;
 case 7:
 kNzUGo5Nd = (fI1e > 1333281547) ? n3i2Thq9tV : -1895235575;
@@ -76,7 +76,7 @@ break;
 int i = 0;
 do
 {
-y2OhHlni = (unsigned long)(fI1e);
+
 ++i;
 }
 while (i < 5);
@@ -109,7 +109,7 @@ while (i >= 0);
 switch (eyjXQa)
 {
 case 0:
-o_WHVd = zkMERCy_02(-1950440766, f9u8K_, P87B, yBY1s4rd);
+
 break;
 case 1:
 i17sC6p2 = zkMERCy_02(i17sC6p2, KMl_, NRtUdzgrE, -2008533579);
@@ -121,7 +121,7 @@ case 3:
 NRtUdzgrE += kCLwP_F;
 break;
 case 4:
-qD73Q_yZD = s5LcE ^ 1997911728;
+
 break;
 }
 wBiL__ = -2040794698 / e_VY3sb9;

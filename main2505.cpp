@@ -468,7 +468,7 @@ case 0:
 ExsRp7 = P0Jtkb7_z(32323117);
 break;
 case 1:
-PP_QUrp7 = X9fqfHlP % 1498914009;
+
 break;
 case 2:
 qEkYJk = (R_UEFC2e >= HEG_I6c) ? y_1A88D_er(ExsRp7, Q0_E2cv, V2Ke7i7D, S_4og, T3KpD65Ex9) : 424592923;
@@ -791,7 +791,7 @@ case 1:
 V2Ke7i7D = uMNUcPHZb(V2Ke7i7D);
 break;
 case 2:
-W5wsBx1OL = (int)abs(R_UEFC2e);
+
 break;
 case 3:
 mPN0q = (oS020lbDW1 != T3KpD65Ex9) ? -1252542488 : 504142725;

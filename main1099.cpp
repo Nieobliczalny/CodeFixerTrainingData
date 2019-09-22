@@ -475,7 +475,7 @@ c9CZX = B6KEF3Yb(-303109586, wdBdSf_6G7, c9CZX, lnH4A_Cu) - 1732189396;
 break;
 case 'b':
 case 'B':
-LiGAz = (int)abs(B2Me8v6c);
+
 break;
 case 'c':
 case 'C':
@@ -736,7 +736,7 @@ do
 while (i < 2);
 }
 se4EhdQ6c0 = (int)floor(Gkq_49FI);
-ymZyfrz = (short int)(Gkq_49FI);
+
 std::cout << "ukZ8i" << "juX1U1" << Xi37V16l << K62gq4v1Y6 << std::endl;
 return 0;
 }

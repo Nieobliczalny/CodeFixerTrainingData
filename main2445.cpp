@@ -725,7 +725,7 @@ else
 std::cout << l914_F_JP << WU50M(o2f6TXIDA6) << "G5C5yVlgz4" << "yB2q0V8" << WU50M(o2f6TXIDA6) << std::endl;
 }
 
-V2bJ_r5 = (long)(FBvO799HK7);
+
 z_5Bu3 = WU50M(l914_F_JP);
 if ((mlcB_3) || ((HBZqY <= Q8kdN) || (hmb_X1K)))
 {
@@ -741,7 +741,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-m7q0N ^= ZKB8RAnB;
+
 break;
 case 'd':
 case 'D':

@@ -248,7 +248,7 @@ do
 while (i < 2);
 }
 
-uQfyFQ1 ^= fFHg5444t;
+
 if (A0bCy3p)
 {
 {
@@ -309,7 +309,7 @@ case 1:
 
 break;
 case 2:
-O35s5 = Prv2P % gJE_E18s7;
+
 break;
 case 3:
 oj2M_AiC8 = (int)floor(a6SO0);
@@ -366,7 +366,7 @@ case 0:
 
 break;
 case 1:
-c2NsFrr79I = u09Pb(1455571819, f8hSts, x__88, -2064551884, 10207109);
+
 break;
 case 2:
 a6SO0 = (int)ceil(l8_7);

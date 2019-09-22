@@ -58,7 +58,7 @@ int main(int argc, char** argv)
     long double    vjSZq;
     vjSZq    =    -537319580;
   short  jjs6s0fO;
-  jjs6s0fO  =  -355531380;
+
  int zQvYsdD;
  zQvYsdD = -1321861469;
 	int	DtN_bq;
@@ -219,7 +219,7 @@ cout << "C6u4FLlTL" << "k1GZ6_42" << Iu1_N7 << endl;
 cout << t6be0_ << "ZUU2" << Wk3u_j9Wka << BsOmZ7 << endl;
 if (Sl5s25IE & 1665682274)
 {
-vjSZq = AWc_gp ^ 97300652;
+
 }
 else if ((mma9tSb == s0iP) && ((XKJ8t7qI5c < -1571756195) && (wZZpve == -749446184)))
 {
@@ -246,7 +246,7 @@ case 0:
 
 break;
 case 1:
-W3ejCIR = f826 << 527418272;
+
 break;
 case 2:
 bEcM_d <<= 1790107466;
@@ -273,7 +273,7 @@ else if ((rO8dN_n >= AWc_gp) && ((nO8pK_Jes & AWc_gp) && (nff9tewe2l <= vjSZq)))
 int k = 10;
 while (k >= 0)
 {
-vvS8_ = nO8pK_Jes / C48ng;
+
 k--;
 }
 }
@@ -285,7 +285,7 @@ else
 }
 else if ((f826 > W6_84978Sw) && ((W3ejCIR & HXc1_J2) || (SHDaNN4_xi)))
 {
-uGAB2z = (double)(DtN_bq);
+
 }
 else
 {

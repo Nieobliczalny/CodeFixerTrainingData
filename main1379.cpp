@@ -19,7 +19,7 @@ int main()
     short int    K05U;
     K05U    =    1152713902;
   long long  NX7p;
-  NX7p  =  -1269832698;
+
 	short	B0vj9J2z9;
 	B0vj9J2z9	=	-182997126;
  unsigned short int YEbo7lszW;
@@ -49,7 +49,7 @@ int main()
 	float	Ka1wO24;
 	Ka1wO24	=	1457460646;
  short SfZA__j;
- SfZA__j = 1156839293;
+
 	unsigned int	eaxQvL8;
 
   long long  I4gv2WXOzZ;
@@ -67,7 +67,7 @@ int main()
  int t3k6i;
  t3k6i = -1673990340;
  unsigned int T7eu3lfy;
- T7eu3lfy = 103269195;
+
 	long long	k4GiY;
 	k4GiY	=	-706643792;
  double SD7Sh;
@@ -79,7 +79,7 @@ int main()
 	long long	lTWw;
 	lTWw	=	0;
  int NoP_wa;
- NoP_wa = -725995291;
+
     short    c7l23Nrnm;
     c7l23Nrnm    =    -825641811;
     unsigned short int    Ruz4YD;
@@ -118,7 +118,7 @@ if ((iS82_7QVc4 <= 1320513195) || (cmV10DOP8 > 1003201809))
 SD7Sh = (int)floor(Ka1wO24);
 }
 
-YEbo7lszW = (unsigned short int)(XX7EQ1);
+
 Ou2_ = (int)floor(KqR9c6_);
 
 I4gv2WXOzZ = (long long)(zMEZPo68N3);
@@ -134,7 +134,7 @@ case 'c':
 Ka1wO24 = (int)ceil(KqR9c6_);
 break;
 case 'd':
-NX7p = (int)abs(YO74);
+
 break;
 case 'e':
 k4GiY *= t3k6i;
@@ -161,7 +161,7 @@ case 2:
 
 break;
 case 3:
-a53PJU = dl7Ah(-134303112, 622138378, eI_3s4vB2);
+
 break;
 case 4:
 Ka1wO24 = I4gv2WXOzZ << 1121407840;
@@ -245,7 +245,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-eee3V = zMEZPo68N3 | 757161383;
+
 break;
 case 'c':
 case 'C':
@@ -257,7 +257,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-c7l23Nrnm = E92x7gw * B0vj9J2z9;
+
 break;
 default:
 lTWw = dl7Ah(XX7EQ1, KqR9c6_, E92x7gw);

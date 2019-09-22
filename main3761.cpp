@@ -146,7 +146,7 @@ int i = 7;
 do
 {
 --i;
-OBJH2 = (unsigned short int)(u03O + (vB9IO9vAz));
+
 }
 while (i >= 0);
 }

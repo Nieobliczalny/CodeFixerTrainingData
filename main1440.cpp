@@ -23,7 +23,7 @@ int main(void) {
 
     SJH6C4Qv3    =    514088096;
     epT4R    =    -1862884223;
-    E2oX9nK7    =    772955233;
+
     LD9t    =    1164659034;
     umj59_r111    =    659829789;
     MLoDKDa    =    -1372220211;
@@ -376,7 +376,7 @@ fW_mrQk = c_z0b + 1561456891;
 break;
 case 'e':
 case 'E':
-epT4R = Vznu * V2n0;
+
 break;
 case 'f':
 case 'F':
@@ -488,7 +488,7 @@ catch (int& errorCode)
 OG3Ub8GO2Q = (int)floor(QV5m4);
 }
 }
-LD9t = (long double)(umj59_r111);
+
 
 
 
@@ -527,7 +527,7 @@ case 3:
 QV5m4 = (int)abs(b5_NmFDJ);
 break;
 case 4:
-G5C118c = (int)abs(uy7BEQZaG);
+
 break;
 case 5:
 fW_mrQk = bbNE * 964073620;

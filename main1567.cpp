@@ -284,7 +284,7 @@ case 4:
 z_a6 = qPOT_4E * 929627630;
 break;
 case 5:
-F9NhJg = VVSKoM();
+
 break;
 case 6:
 qPOT_4E = (int)abs(bJl4E4S);

@@ -405,7 +405,7 @@ case 0:
 S27n = R5itArA0_h + pg_xcXl;
 break;
 case 1:
-h_5fOo_Kp = sf1Cq8i(20580813, -1903769927, pg_xcXl);
+
 break;
 case 2:
 fu4ee = G1uS | dpL_8S_;
@@ -457,7 +457,7 @@ try
 {
 if (HBkyCSI)
 {
-M5Z_Uz %= d0D8B2;
+
 }
 else if (HgHsuvDZDM != -1988957476)
 {

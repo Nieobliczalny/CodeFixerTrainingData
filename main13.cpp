@@ -18,7 +18,7 @@ int main(void) {
  float F_2KG;
  F_2KG = -179954269;
     short    DcI164;
-    DcI164    =    -21458584;
+
   short int  f4o6ww;
   f4o6ww  =  -1687285787;
     long    h_nE1Ph;
@@ -28,7 +28,7 @@ int main(void) {
   unsigned long  hz4q7l8K_5;
   hz4q7l8K_5  =  657774087;
   unsigned char  V7xEJb8;
-  V7xEJb8  =  1669838538;
+
  unsigned short int p3GC3_h;
  p3GC3_h = 0;
 	short	AT4b;
@@ -38,7 +38,7 @@ int main(void) {
 	long double	sAbk_F1;
 
   unsigned long long  VUoYW;
-  VUoYW  =  932481717;
+
     short    bDGHL9fyi;
     bDGHL9fyi    =    981515306;
  long long x1zB4G;
@@ -48,7 +48,7 @@ int main(void) {
   long  YN2iU;
 
   int  I2Yk_;
-  I2Yk_  =  -1106349175;
+
   long long  GE_LI80FaK;
   GE_LI80FaK  =  -884025917;
     unsigned long    dTBKmokCI;
@@ -58,7 +58,7 @@ int main(void) {
 	unsigned long	Momq4Eoc;
 
   long double  bD8ca;
-  bD8ca  =  -1327024560;
+
 	double	Zo7ci7EMk;
 	Zo7ci7EMk	=	1705667998;
     long    ux2Dv1iA;
@@ -70,7 +70,7 @@ int main(void) {
     double    pvE0;
 
 	char	T_pF7sRE_;
-	T_pF7sRE_	=	1722281356;
+
     unsigned char    V9qZT4Dm9;
     V9qZT4Dm9    =    -1456593202;
     char    o1SwM_JGTL;
@@ -80,7 +80,7 @@ int main(void) {
 	short	Ge_Uj;
 
 	unsigned int	NVR0i;
-	NVR0i	=	774465599;
+
   int  Xoc4L_0s8t;
   Xoc4L_0s8t  =  -842582317;
  unsigned long long EKynV;
@@ -94,7 +94,7 @@ int main(void) {
  double ZT88hep;
 
     long double    z6Il_;
-    z6Il_    =    -1895127565;
+
     unsigned int    yX_0DPGfr9;
     yX_0DPGfr9    =    -12961814;
 	int	R9fq1nF15;
@@ -104,7 +104,7 @@ int main(void) {
   unsigned long long  J3JNuj8T;
 
     unsigned int    Oq216QU;
-    Oq216QU    =    -272460843;
+
   unsigned char  Uxu8;
   Uxu8  =  1825169232;
     long    Qs_6;
@@ -114,7 +114,7 @@ int main(void) {
 	unsigned short	BvtU0gtk8e;
 
  unsigned long long e2k26230p5;
- e2k26230p5 = -1421215923;
+
 	long	pA35;
 	pA35	=	-201899164;
  short int sy3Iu5Bd;
@@ -128,7 +128,7 @@ try
 {
 for (int j = 3; j >= 0; j--)
 {
-pvE0 = (int)ceil(F_2KG);
+
 }
 }
 catch (int& errorCode)
@@ -147,7 +147,7 @@ while (i < 1);
 
 if ((iyGZ & vtlq7) && (Uxu8 > GE_LI80FaK))
 {
-XtDgg = f68GggIz(2124959201, 441398375, ODT79G46j, EKynV, pA35);
+
 }
 
 return 0;

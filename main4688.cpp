@@ -23,7 +23,7 @@ int main() {
   g6YP7  =  -1483056618;
   TED7c  =  -1437893338;
   py2Fy_yZm_  =  1613073855;
-  Y72t_L_G  =  -794003017;
+
   ATRPqqk  =  -1347360594;
   PFEjwl4_  =  697224633;
   Z_o4oR  =  545265650;
@@ -40,7 +40,7 @@ int main() {
   PIGqH801  =  687250626;
   IA6Ai  =  -211676945;
   K_H3jd6  =  825397063;
-  O152  =  -1038328715;
+
 
 if (at5t < 1559781367)
 {
@@ -78,7 +78,7 @@ case 'E':
 py2Fy_yZm_ = (int)ceil(K_H3jd6);
 break;
 default:
-O152 = ATRPqqk - 1241704624;
+
 break;
 }
 }
@@ -271,7 +271,7 @@ Wwcqt_M = (int)abs(B0H7QJc);
 std::cout << "xbC6YX77Q" << "LzO_" << Wwcqt_M << "qhd40" << std::endl;
 
 B0H7QJc = (int)ceil(IA6Ai);
-mGg6_NFN4 = (long double)(E668J + (-439476183));
+
 
 if (at5t != E668J)
 {
@@ -332,7 +332,7 @@ while (j < 1)
 {
 try
 {
-mGg6_NFN4 = (B0H7QJc) ? -667934383 : IA6Ai;
+
 }
 catch (int& errorCode)
 {
@@ -354,7 +354,7 @@ std::cout << "Cc9M3av_H" << "R5b248D74R" << nt9T3j << B0H7QJc << std::endl;
 while (j < 1);
 }
 }
-Y72t_L_G = h2tcY2_7 / 1099949397;
+
 
 if (PIGqH801)
 {
@@ -382,7 +382,7 @@ break;
 
 if (o2z8G2Z5 >= -294536647)
 {
-nt9T3j = (long double)(L6FqClz);
+
 }
 
 K_H3jd6 = (long double)(E668J + (723073697));

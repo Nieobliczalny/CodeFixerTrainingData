@@ -128,7 +128,7 @@ uzJdi7msF_ >>= Nzr5ewNu;
 
 KHHijk = m_t3wIx_(663240105) / yPI_r76;
 
-yPI_r76 = B7e5ye6(Nzr5ewNu);
+
 
 for (int i = 0; i < 1; i++)
 {
@@ -285,7 +285,7 @@ if (((gnyN_C3D8 >= 877480470) || (qL9ql > Nzr5ewNu)) || (FGU1z < -1681697312))
 {
 try
 {
-O7Am5me6um = s0UE(1335867061, xsgs, F68_d, 686579208);
+
 }
 catch (int& errorCode)
 {

@@ -135,7 +135,7 @@ case 1:
 
 break;
 case 2:
-h4g__9 ^= 17793298;
+
 break;
 case 3:
 RUkXpR_B -= 27044548;
@@ -534,7 +534,7 @@ try
 int k = 9;
 while (k >= 0)
 {
-jY_9Fa1_nT = M7r9u & RUkXpR_B;
+
 k--;
 }
 }
@@ -611,7 +611,7 @@ H8ig5r2 ^= X3jW;
 break;
 case 'd':
 case 'D':
-WVu0 = (int)abs(z1L9p6QgDn);
+
 break;
 case 'e':
 case 'E':

@@ -39,7 +39,7 @@ int main(int argc, char** argv) {
 	j4c9Nepo	=	0;
     unsigned short int    Hq9TF4q,    a3y61Hy97,    K8KmNp,    wRI6OJ,    iu7f84f,    piu6m,    jXHqnFS191,    VFP1_,    VrK_,    zS08,    P9I68oUy,    J9IDE,    GEIUP,    oG9V,    yTw3p,    t1vg7L_sH,    fe9ra,    jA84DM0F,    dYH6Rv91W,    pm8J_c9jR,    m3DF3HD,    hwU7P,    m2z3Q4CxCn,    m2OyKQI,    oQ69JArh,    o90M8Q,    K3r6,    Q8_110,    tZ09G9,    Ca1f;
     Hq9TF4q    =    1012169436;
-    a3y61Hy97    =    1650338003;
+
     K8KmNp    =    -500111616;
     wRI6OJ    =    1936069957;
     iu7f84f    =    668323461;
@@ -465,7 +465,7 @@ int k = 5;
 do
 {
 k--;
-P9I68oUy = zS08 - Q8_110;
+
 }
 while (k >= 0);
 }
@@ -514,7 +514,7 @@ case 'c':
 zS08 *= 323305434;
 break;
 case 'd':
-a3y61Hy97 = t1vg7L_sH % 50894022;
+
 break;
 case 'e':
 piu6m = VFxV ^ 274091458;
@@ -526,7 +526,7 @@ case 'g':
 SnZ5t = B8Ks(m2OyKQI, oQ69JArh, GEIUP, piu6m);
 break;
 default:
-jA84DM0F &= P9I68oUy;
+
 break;
 }
 }
@@ -541,7 +541,7 @@ case 0:
 
 break;
 case 1:
-jXHqnFS191 = TX6DzrRh(VFxV);
+
 break;
 case 2:
 Me0QHr = (int)abs(SnZ5t);
@@ -556,7 +556,7 @@ case 5:
 
 break;
 }
-yTw3p = J9IDE / 1697149832;
+
 
 for (int i = 10; i >= 0; --i)
 {
@@ -590,7 +590,7 @@ case 8:
 iu7f84f = zS08 / 46526773;
 break;
 case 9:
-jXHqnFS191 = YQiUQ_C();
+
 break;
 }
 }

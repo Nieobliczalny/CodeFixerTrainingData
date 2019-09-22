@@ -59,7 +59,7 @@ int main(void)
  unsigned long long Mc25u;
  Mc25u = 654638588;
 	short int	Mdtfory458;
-	Mdtfory458	=	236034042;
+
   double  Ru8SKk5XGR;
   Ru8SKk5XGR  =  -711335108;
     unsigned long long    h49UUfZA;
@@ -97,7 +97,7 @@ case 0:
 
 break;
 case 1:
-fmMVd_ = e__ARY % LN6Kv29z;
+
 break;
 case 2:
 fmMVd_--;
@@ -229,7 +229,7 @@ case 5:
 hQSm9 = KZ3pDebxp % i4_RlGGd;
 break;
 default:
-j87V = (int)ceil(Ru8SKk5XGR);
+
 break;
 }
 }
@@ -256,7 +256,7 @@ case 2:
 
 break;
 case 3:
-Ru8SKk5XGR = (int)floor(OD9Jl6G32);
+
 break;
 default:
 fmMVd_ = K17_0 ^ 86856972;

@@ -120,7 +120,7 @@ int main(int argc, char** argv)
  short int O7hl;
 
   unsigned short int  ROX16;
-  ROX16  =  -1882737454;
+
 	unsigned long long	KLfXo62;
 	KLfXo62	=	3748278;
  unsigned short int j0N3bs68k;
@@ -351,7 +351,7 @@ case 0:
 
 break;
 case 1:
-g2c6M_GzBT = AX6gY3u << O967HHR_7f;
+
 break;
 case 2:
 cm3PYc = iB9E(cm3PYc, Bx3L, g2c6M_GzBT, O967HHR_7f, 1618200229);
@@ -372,7 +372,7 @@ case 7:
 
 break;
 case 8:
-cm3PYc = (int)abs(z4D3eLe4c);
+
 break;
 }
 
@@ -443,7 +443,7 @@ if (Bx3L != 2099893200)
 }
 else if (((k9HRKWy9t >= -1210556718) && (TophI == -2043576473)) || ((slRfFLh & T9X3a) && (E805Tr63B & 1954225983)))
 {
-bGL6382 = (int)ceil(kpO6RJ);
+
 }
 else if (z4D3eLe4c > wmAquB428R)
 {
@@ -455,7 +455,7 @@ T9X3a = Vy_nf6();
 }
 else if (Bx3L != g7MXg_j0iz)
 {
-D9uIuBy = (int)abs(aSN6EzFC);
+
 }
 else
 {

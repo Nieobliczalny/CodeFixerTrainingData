@@ -45,7 +45,7 @@ case 'b':
 
 break;
 case 'c':
-WIfvS9B11 <<= S3LRA_A;
+
 break;
 case 'd':
 WIfvS9B11 = lzgD_ssZ92 / amv7P;
@@ -138,7 +138,7 @@ if (Zv2PL != q9a6xY0vS)
 {
 try
 {
-N_auQkXCT = VgbDjZ & Zv2PL;
+
 }
 catch (int& errorCode)
 {

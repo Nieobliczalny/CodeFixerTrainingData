@@ -82,7 +82,7 @@ case 'b':
 
 break;
 case 'c':
-TG_3TZV1N = (int)abs(cPX9338M);
+
 break;
 case 'd':
 cPX9338M >>= tq2dViIf;
@@ -181,7 +181,7 @@ try
 {
 if (urP8YR > 1849505087)
 {
-tq2dViIf |= 1596036020;
+
 }
 }
 catch (int& errorCode)

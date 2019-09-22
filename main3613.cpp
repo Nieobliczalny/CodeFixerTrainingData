@@ -37,7 +37,7 @@ int main()
     long long    flbQkGy;
 
   unsigned short int  VER2Nwh;
-  VER2Nwh  =  751337947;
+
   int  v0KTwkE;
   v0KTwkE  =  1412192734;
     short int    WQa3jf8G_4;
@@ -57,7 +57,7 @@ int main()
     unsigned char    lG45;
     lG45    =    132377609;
   unsigned long long  O7hyVj5;
-  O7hyVj5  =  -1581562433;
+
   unsigned int  p3O2e;
   p3O2e  =  2098598353;
     long long    aAm7NI3K;
@@ -269,7 +269,7 @@ if (wrHz_ <= 504916237)
 }
 else
 {
-v0KTwkE = (int)abs(F_Ii_w);
+
 }
 }
 else
@@ -292,7 +292,7 @@ std::cout << "m4w63O__bL" << Si0O9MG << "J_HKOC4" << qkSR5pz << Szpo866 << std::
 switch (aAm7NI3K)
 {
 case 'a':
-WIRA37OQq >>= 660221014;
+
 break;
 }
 

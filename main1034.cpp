@@ -257,7 +257,7 @@ case 0:
 
 break;
 case 1:
-SSq4 = kNoFKBjt(-527284668, -534235493);
+
 break;
 case 2:
 VJ2Ec15Q8C = xQi46(1084590885, C0oq4x, -1605676254, i5IW0y, -1761235472);
@@ -272,7 +272,7 @@ case 5:
 
 break;
 case 6:
-c04CH_x ^= OisHrSUd;
+
 break;
 case 7:
 uz2_ePuz = kNoFKBjt(uz2_ePuz, SSq4);
@@ -288,7 +288,7 @@ dkv4D = (Y_o5W87N7Y != AZmx) ? dkv4D : -1549984135;
 break;
 }
 
-EO4azv = xQi46(1854659969, -318286975, RgRf5Mt9, -329535878, -417831581) & 1948390935;
+
 C_xSC1i = (long long)(y07_36k0);
 return 0;
 }

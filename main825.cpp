@@ -32,7 +32,7 @@ int main(void) {
   gi8m8  =  1954818234;
   o_b4  =  1398729140;
   hD3tt8HlXs  =  836016804;
-  ZpA1  =  621376760;
+
   Ub2Hg3F  =  882219826;
   J2q3Z_2jF  =  746482771;
   A80yKA  =  109356012;
@@ -50,7 +50,7 @@ int main(void) {
   f150aa7Uk  =  -1391939792;
 
   w4y5V  =  -263320226;
-  wdw054  =  602572577;
+
   ahG4N2r  =  -1459178581;
   aDbp  =  9670486;
   C1n740I_  =  474741575;
@@ -62,7 +62,7 @@ int main(void) {
 
   Bv060  =  1052672852;
   QpkwpR  =  738039749;
-  Sac8_4  =  -321755323;
+
   UOSwy1_t  =  -597593620;
   int  LI2_s8,  nO_GK;
   LI2_s8  =  0;
@@ -98,7 +98,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-LI2_s8 = SxKh(mgNtM6, 1103783094);
+
 break;
 default:
 QpkwpR = w4y5V / gi8m8;
@@ -112,7 +112,7 @@ case 0:
 
 break;
 case 1:
-LI2_s8 = SxKh(-2134821701, -1580967547);
+
 break;
 case 2:
 aHkGs0E = YfS2(1425515004, QpkwpR);
@@ -180,7 +180,7 @@ case 0:
 
 break;
 case 1:
-ahG4N2r = l0x4c2P1(760100565, QK0B, 1430793882);
+
 break;
 case 2:
 zMWL_3To9 += 1483780698;
@@ -192,7 +192,7 @@ case 4:
 
 break;
 case 5:
-QpkwpR = l0x4c2P1(QpkwpR, mgNtM6, vQ0f7w);
+
 break;
 case 6:
 aDbp = l0x4c2P1(aDbp, 2034802189, zMWL_3To9);
@@ -251,7 +251,7 @@ catch (int& errorCode)
 j210_vj3s_ = YfS2(j210_vj3s_, UOSwy1_t);
 }
 
-LI2_s8 = (int)abs(nO_GK);
+
 {
 int i = 0;
 do
@@ -278,7 +278,7 @@ if (wdw054 & 851085699)
 {
 if (Y5Dx2IHt >= Bv060)
 {
-K23Pk92 = YfS2(-1457724172, aff3Pya);
+
 }
 }
 }

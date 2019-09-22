@@ -103,7 +103,7 @@ int main(void) {
 
 
 
-pvCQs867D9 = JYct / HMi38J_Ef;
+
 
 return 0;
 }

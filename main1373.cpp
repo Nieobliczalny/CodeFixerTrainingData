@@ -17,7 +17,7 @@ int main(int argc, char** argv)
   unsigned int  F1x8Y5Yp40,  Br1d0V___b,  X67426OzA,  YyiyR26R2v;
     F1x8Y5Yp40  =  Br1d0V___b  =  X67426OzA  =  YyiyR26R2v  =  0;
 
-YyiyR26R2v = rUz6(pJ9WF);
+
 
 std::cout << 275800311 / F1x8Y5Yp40 << std::endl;
 std::cout << rUz6(-668131238) << rUz6(1248660637) << "J3h87foFe" << "P98bWE7nls" << std::endl;
@@ -29,7 +29,7 @@ F1x8Y5Yp40 = (unsigned int)(X1x_z_ * F1x8Y5Yp40);
 switch (y2c2)
 {
 case 0:
-S_D0wNs += G455BA_G;
+
 break;
 case 1:
 i_vjQ4_cl9 = rUz6(pJ9WF) / Br1d0V___b;
@@ -55,7 +55,7 @@ case 0:
 i_vjQ4_cl9--;
 break;
 case 1:
-D7_84bSqh2 = Ehi6R5pE8 / 1637055294;
+
 break;
 case 2:
 D495 = (int)abs(i_vjQ4_cl9);
@@ -72,7 +72,7 @@ for (int i = 0; i < 5; i++)
 {
 if (mJka > u2N1)
 {
-T3b29m_K = (Ehi6R5pE8 == csdmf3ziin) ? -1140247327 : JTwOn;
+
 }
 else
 {
@@ -91,7 +91,7 @@ case 'b':
 Br1d0V___b = rUz6(FW8MUOR);
 break;
 case 'c':
-X67426OzA = rUz6(1374840746);
+
 break;
 case 'd':
 YyiyR26R2v = rUz6(-2070490948);
@@ -103,7 +103,7 @@ case 'f':
 F1x8Y5Yp40 = rUz6(w4iY6);
 break;
 case 'g':
-YyiyR26R2v = rUz6(-52649325);
+
 break;
 case 'h':
 s45r335P %= 303608677;
@@ -125,7 +125,7 @@ case 0:
 F1x8Y5Yp40 = rUz6(EzifbCe);
 break;
 default:
-X67426OzA = rUz6(tGH483D63V);
+
 break;
 }
 
@@ -135,7 +135,7 @@ Q1nr3ItAR = v_67lu - gc9pjt_E;
 }
 else
 {
-D495 = (char)(mycP);
+
 }
 
 try
@@ -153,7 +153,7 @@ if (mH_7 > 1887922864)
 {
 try
 {
-X67426OzA = rUz6(-1223076155);
+
 }
 catch (int& errorCode)
 {
@@ -176,7 +176,7 @@ FW8MUOR = (int)abs(s45r335P);
 }
 else if (Ehi6R5pE8 >= -72323038)
 {
-mH_7 %= Deqi131;
+
 }
 else
 {
@@ -195,7 +195,7 @@ std::cout << t90P6 << std::endl;
 
 try
 {
-YyiyR26R2v = rUz6(-1738102196);
+
 }
 catch (int& errorCode)
 {
@@ -206,7 +206,7 @@ if (tGH483D63V >= -1260650404)
 switch (w5AN)
 {
 case 'a':
-Br1d0V___b = rUz6(v_67lu);
+
 break;
 case 'b':
 lDVMKFE_ = rUz6(v_67lu) ^ 531008846;
@@ -226,7 +226,7 @@ zNC_2841y -= 1347460360;
 }
 else
 {
-nld9TiP = (char)(EzifbCe);
+
 }
 Deqi131 = (int)abs(w6yu);
 

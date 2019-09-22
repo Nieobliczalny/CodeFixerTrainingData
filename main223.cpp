@@ -30,7 +30,7 @@ int main()
 
 
 PmAX = (int)floor(ncbO);
-x1C4w5lC2G = (LXSsUo_8 == P__M) ? PER2ZZY3 : 134910793;
+
 
 VH42_ = (unsigned char)(V07H7vqgpA * VH42_);
 if (jh9j == yO48Ry8)
@@ -159,7 +159,7 @@ else
 {
 for (int k = 0; k < 7; ++k)
 {
-wUoI2 = (int)ceil(k4KZ);
+
 }
 }
 }

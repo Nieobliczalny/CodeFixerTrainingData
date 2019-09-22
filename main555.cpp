@@ -161,7 +161,7 @@ while (j >= 0);
 switch (gSW9Q4rB_)
 {
 case 0:
-A1RzjEiu %= 242103135;
+
 break;
 case 1:
 cTQV = P1HAW419y | 386903814;
@@ -190,7 +190,7 @@ case 1:
 X9LfZECUw = Vc6J2jXu0 >> xLR0Cp4uq;
 break;
 case 2:
-A1RzjEiu = (gSW9Q4rB_ <= Li5i7) ? -185659401 : F02H;
+
 break;
 case 3:
 jGw16 = b19u68PDE2 | 285764254;
@@ -235,7 +235,7 @@ break;
 switch (io13z)
 {
 case 0:
-fk8Ht8 = fk8Ht8 % X9LfZECUw;
+
 break;
 case 1:
 Vc6J2jXu0 = cTQV ^ 1694709705;
@@ -276,7 +276,7 @@ int j = 2;
 while (j >= 0)
 {
 j--;
-A1RzjEiu = cTQV / 1143171386;
+
 }
 }
 }

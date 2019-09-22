@@ -112,7 +112,7 @@ qQq2A_12 = UF0TJt94 * 1725386174;
 }
 else if (rfWvnHV4i7 & E9316)
 {
-VAKL += A6iB;
+
 }
 else
 {
@@ -264,7 +264,7 @@ if (A6iB > avky31Lsk)
 }
 else
 {
-E9316 = (long)(m04G * E9316);
+
 }
 
 VAKL = UF0TJt94 >> qQq2A_12;

@@ -48,7 +48,7 @@ int main(int argc, char** argv)
 	short int	uJ0J0W0_n;
 	uJ0J0W0_n	=	1628911261;
   short  sx83CM2ri;
-  sx83CM2ri  =  0;
+
   unsigned short  K3GWP;
   K3GWP  =  1282762644;
 	unsigned short	QJP1Nd;
@@ -64,7 +64,7 @@ int main(int argc, char** argv)
 	double	h_wP;
 	h_wP	=	-687959301;
  unsigned short RtfUdNO99;
- RtfUdNO99 = 1926648083;
+
   long double  jVHMB;
   jVHMB  =  -1265533526;
   float  P_0u;
@@ -107,7 +107,7 @@ case 'h':
 zl1a &= nr6SpwI;
 break;
 case 'i':
-i65B = (int)abs(vG4s);
+
 break;
 default:
 
@@ -122,7 +122,7 @@ if (jVHMB == Jsr2MNWy)
 {
 try
 {
-i65B = aalBESkIz2(-2141083950, 1368138528, uJ0J0W0_n, 608303075, FCgt4jXAB3);
+
 }
 catch (int& errorCode)
 {

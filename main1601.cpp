@@ -26,7 +26,7 @@ int main(int argc, char** argv)
   double  k320;
   k320  =  203137713;
 	unsigned char	oo5d;
-	oo5d	=	717702503;
+
  unsigned int b_fMmS;
  b_fMmS = -905725649;
 	float	P3_QP;
@@ -42,7 +42,7 @@ int main(int argc, char** argv)
 	int	Obb3zHy;
 	Obb3zHy	=	1765305700;
 	unsigned long long	wb9yRe90dd;
-	wb9yRe90dd	=	1255576927;
+
 	long	Poc3;
 	Poc3	=	976808676;
     int    RjhHmdh;
@@ -168,7 +168,7 @@ int main(int argc, char** argv)
     unsigned long    t0L9uWj7D;
     t0L9uWj7D    =    -902651222;
 	short int	E_wE1fSy;
-	E_wE1fSy	=	1788041048;
+
     unsigned long    SA2RM0P;
     SA2RM0P    =    724766703;
 	unsigned int	QhvkH3;
@@ -820,7 +820,7 @@ case 'c':
 
 break;
 case 'd':
-R1__ = GJDDp2UM6H(-1299151457, -826267998);
+
 break;
 case 'e':
 k81f4tI2 = y0DQsQpc();
@@ -832,7 +832,7 @@ case 'g':
 
 break;
 case 'h':
-jma9ND = (int)abs(n0HlKh9QV);
+
 break;
 default:
 k81f4tI2 = y0DQsQpc();
@@ -888,7 +888,7 @@ else if (tnQ6J0T1I & p7s4fS)
 }
 else if ((q9RgrQ_uwT <= xhqg6l_65) && (pszKli07 != EeBZkGa7))
 {
-knrdZl /= wdh6_Q9M_;
+
 }
 else if (zwGELdTc >= E_wE1fSy)
 {

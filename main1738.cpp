@@ -30,7 +30,7 @@ int main(void) {
   unsigned int  jI3kAyEJ;
 
     long long    jNOnCN;
-    jNOnCN    =    -994058509;
+
   unsigned short  tws97;
   tws97  =  829409961;
   unsigned long  kiv_n_Y;
@@ -46,7 +46,7 @@ int main(void) {
     unsigned short    R261i1M25R;
     R261i1M25R    =    -1587826910;
 	int	V_g44k2;
-	V_g44k2	=	-1500206684;
+
  unsigned int nS82FL4NJ;
  nS82FL4NJ = 0;
   unsigned char  cCy4;
@@ -70,7 +70,7 @@ int main(void) {
 	long double	Y6_st3;
 	Y6_st3	=	400032523;
   unsigned long long  wK0859q51;
-  wK0859q51  =  367618674;
+
     long double    UlCpR0B;
     UlCpR0B    =    470905808;
  long long F0EG03rL9;
@@ -82,7 +82,7 @@ int main(void) {
 	long	Pd3aQ;
 	Pd3aQ	=	-1366401205;
  short int wm2biFW;
- wm2biFW = 1959771068;
+
     short    zZf_w;
     zZf_w    =    999724212;
  long long t9j_F1_g4;
@@ -98,7 +98,7 @@ int main(void) {
     unsigned long long    YTHgi7L03z;
 
   unsigned long  P7kG3Tx;
-  P7kG3Tx  =  843122231;
+
   char  D35Zs;
   D35Zs  =  732835603;
   long double  K7Ls1_g;
@@ -110,7 +110,7 @@ int main(void) {
   char  GuB061svZq;
 
     long long    jeI98G0PaH;
-    jeI98G0PaH    =    -1746751117;
+
   unsigned short  G1b72V6_h;
   G1b72V6_h  =  37312695;
  unsigned long nReb7S_6;
@@ -171,7 +171,7 @@ g8bLdYG1Wk = (int)floor(UlCpR0B);
 break;
 case 'd':
 case 'D':
-jNOnCN = (int)abs(z4OGtA);
+
 break;
 case 'e':
 case 'E':
@@ -288,7 +288,7 @@ case 'b':
 X04QR23 = nReb7S_6 << R261i1M25R;
 break;
 case 'c':
-zKx7 = Pd3aQ ^ KE83p8Q5;
+
 break;
 case 'd':
 Y6_st3 /= fiBKO;

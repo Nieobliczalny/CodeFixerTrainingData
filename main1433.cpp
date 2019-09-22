@@ -98,7 +98,7 @@ tckwTjm6 = nI_rc7 ^ Ew5d2ln53;
 }
 else
 {
-NTA38 = tckwTjm6 & 559301604;
+
 }
 }
 else
@@ -347,7 +347,7 @@ case 3:
 R69rsjEgk = TxSV_(R69rsjEgk, nI_rc7, U4z_d4E86);
 break;
 case 4:
-tckwTjm6 = c3uM6T - J84P;
+
 break;
 default:
 O86BJlZ9z = l_ti(1846657472);

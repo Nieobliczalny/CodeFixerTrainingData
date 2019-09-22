@@ -413,7 +413,7 @@ case 1:
 
 break;
 case 2:
-Jj_fh2J6Q4 >>= XL6EG528;
+
 break;
 case 3:
 lQ6zblR = (int)floor(rvG57U);

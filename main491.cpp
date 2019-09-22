@@ -20,7 +20,7 @@ int main()
 	gX7wQKxk	=	1396343861;
 	itAu847	=	-1744161011;
 	short int	BK0p,	dId6E6,	Ot8518mGzB;
-	BK0p	=	0;
+
 	dId6E6	=	0;
 	Ot8518mGzB	=	0;
 

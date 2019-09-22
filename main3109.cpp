@@ -61,7 +61,7 @@ int main()
 	unsigned short	PCj5OS;
 
     unsigned int    pzZ9z0kF_A;
-    pzZ9z0kF_A    =    822320160;
+
     unsigned long    wbjUOO9O_V;
     wbjUOO9O_V    =    1055310774;
 	char	K17un;
@@ -118,7 +118,7 @@ cout << oebH2zNrC_(P9U83k) << hi6tOu(1406766720, H_5Pauw, 401631826, -570380448,
 cout << hi6tOu(1076933873, H_5Pauw, 793806403, PcW9, RqNix0y) << "Y7E3d_z4Dd" << "eXK19k24" << endl;
 X3H2D3 = oebH2zNrC_(zWCt8JpFF);
 
-pzZ9z0kF_A = (unsigned int)(K_Xa3);
+
 if (A0mk8x != H_5Pauw)
 {
 cout << W0n7ghi9(-1641548040, xf1x, 1229146710, -1954460345) << endl;
@@ -178,7 +178,7 @@ case 'c':
 RqNix0y = (int)floor(ciN2vd_U1);
 break;
 case 'd':
-kiiud += 66206307;
+
 break;
 case 'e':
 vst_4_k = B8672Hc5 | xf1x;
@@ -198,7 +198,7 @@ break;
 }
 if (X3H2D3)
 {
-PcW9 = (short int)(BD9g2t2Wm);
+
 }
 else if (wHhM97802 > K_Xa3)
 {
@@ -214,7 +214,7 @@ case 'c':
 P9U83k = w21w7sAK0();
 break;
 case 'd':
-ciN2vd_U1 = (int)floor(RqNix0y);
+
 break;
 case 'e':
 ciN2vd_U1 = (int)ceil(z56o_01xu);
@@ -232,7 +232,7 @@ case 'i':
 z56o_01xu = (zWCt8JpFF < 63576199) ? -2004018311 : BD9g2t2Wm;
 break;
 case 'j':
-uMkjb84 <<= 1104391424;
+
 break;
 default:
 A0mk8x = (int)abs(X31X) * 0;
@@ -270,7 +270,7 @@ case 1:
 D40p = hi6tOu(D40p, P9U83k, oqt_, -1679425162, b_F2GCEJ80);
 break;
 case 2:
-b_F2GCEJ80 ^= vst_4_k;
+
 break;
 default:
 uMkjb84 = w21w7sAK0();

@@ -56,7 +56,7 @@ int main(int argc, char** argv) {
 	float	umBK_;
 
  short int tGOm_I8c8U;
- tGOm_I8c8U = -818452475;
+
   short  oxPq61l;
   oxPq61l  =  -1221910880;
     double    nOE_7k1rM;
@@ -68,7 +68,7 @@ int main(int argc, char** argv) {
   unsigned long long  TFc51R3s;
   TFc51R3s  =  0;
   double  zUdC;
-  zUdC  =  -1863313182;
+
     unsigned char    LnRM1N;
     LnRM1N    =    860420714;
 	char	ey_F_Uh;
@@ -90,7 +90,7 @@ int main(int argc, char** argv) {
     char    k5WH8K4Xi;
     k5WH8K4Xi    =    -137469875;
   long  MbBx;
-  MbBx  =  923553403;
+
 	unsigned long	MGNSz;
 
   unsigned short int  Vuni;
@@ -136,7 +136,7 @@ int main(int argc, char** argv) {
  float NE0s6eK_2;
 
   unsigned int  YHahOG_V;
-  YHahOG_V  =  -647332406;
+
   short  xfnCfX;
   xfnCfX  =  607597800;
     long long    LT5pBx3;
@@ -168,7 +168,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-HC8cnWL20 -= 818239750;
+
 break;
 case 'c':
 case 'C':
@@ -184,7 +184,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-Bq9f7 = W_WpzAZ(Bq9f7);
+
 break;
 case 'g':
 case 'G':
@@ -242,7 +242,7 @@ case 0:
 EySyqU = kag5ebw + rGY9BYHJw;
 break;
 case 1:
-eaIyi4_1b = WvCJ1TL(ey_F_Uh, eaIyi4_1b);
+
 break;
 case 2:
 
@@ -254,7 +254,7 @@ case 4:
 rlFA8n = WvCJ1TL(ey_F_Uh, 758362948) / u3syClR;
 break;
 case 5:
-el39BT -= 323374953;
+
 break;
 case 6:
 
@@ -279,7 +279,7 @@ cout << "rCaKh" << E2__0n7 << endl;
 
 
 qkou65T67L = (int)ceil(kag5ebw);
-HC8cnWL20 = (int)abs(cWGZZz4Q);
+
 l49DRy_D = W_WpzAZ(l49DRy_D);
 
 {
@@ -315,7 +315,7 @@ case 1:
 
 break;
 case 2:
-G0m33vy = CCIf3n(-2037208094, x3g3, H_nFo_759, rlFA8n, 903235217);
+
 break;
 case 3:
 kag5ebw = gtEvH252E_ | rlFA8n;
@@ -327,7 +327,7 @@ case 5:
 
 break;
 default:
-TFc51R3s = Wobdz8MCN(BfeTv_ge52, -1037377984, sMXJ, 55718595);
+
 break;
 }
 ++j;
@@ -355,7 +355,7 @@ case 0:
 
 break;
 case 1:
-ICoxqjw1 = (int)abs(sMXJ);
+
 break;
 case 2:
 MGNSz = x69t_ + rGY9BYHJw;
@@ -370,7 +370,7 @@ case 5:
 N6dUx63EY = W_WpzAZ(N6dUx63EY);
 break;
 case 6:
-R4rgL = CCIf3n(893474945, RwWlW, gs0HOb, ICoxqjw1, A0j566L_) * E2__0n7;
+
 break;
 }
 

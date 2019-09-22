@@ -76,7 +76,7 @@ case 'b':
 
 break;
 case 'c':
-Lm8hxH = rAHQS29B7(-565386277, 1605840337);
+
 break;
 case 'd':
 D4r7 = (int)abs(P4n3S9o1);
@@ -102,7 +102,7 @@ std::cout << B6RnVrp << rAHQS29B7(760644125, T2tM6h3rg) << rAHQS29B7(1390761974,
 }
 }
 
-RbbbZUx = it8Zc();
+
 
 
 
@@ -153,7 +153,7 @@ case 'a':
 
 break;
 case 'b':
-olfUy = it8Zc();
+
 break;
 case 'c':
 D4r7 = (int)ceil(V0E4);
@@ -179,7 +179,7 @@ while (i >= 0)
 
 if (S829g3M1pc == 0)
 {
-	NR38 = 520682393 / S829g3M1pc;
+
 }
 
 switch (S5A2Du)
@@ -191,7 +191,7 @@ case 'b':
 vnFyJAe0 = (int)abs(V0E4);
 break;
 case 'c':
-I_2_ = j_eDN1P | 1973216508;
+
 break;
 }
 

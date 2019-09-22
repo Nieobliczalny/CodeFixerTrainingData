@@ -25,7 +25,7 @@ int main(void) {
   Pje_d8  =  63073129;
   bw_euQA26w  =  1706189312;
   dj04  =  -402658009;
-  t97wW  =  2123396176;
+
   eewV  =  -603907631;
   B_pI  =  -1329394994;
   A5SFL  =  -494167204;
@@ -41,7 +41,7 @@ int main(void) {
   D_iA00  =  -1453268149;
   sI3G0XoP2  =  494474594;
   x33E  =  709546588;
-  zC0mVS  =  1448977767;
+
   S6X9RL8  =  -2052566412;
   R9bMh3vEHt  =  -299110624;
   QOU6p  =  216551678;
@@ -184,7 +184,7 @@ case 1:
 X53zsB = (int)abs(rS0MbYAn);
 break;
 case 2:
-FB_G <<= 596295802;
+
 break;
 case 3:
 
@@ -227,7 +227,7 @@ case 3:
 KTLT5GbW3V ^= 414752125;
 break;
 case 4:
-ZKeM_k += 729159932;
+
 break;
 }
 }
@@ -269,7 +269,7 @@ case 0:
 X53zsB = (int)abs(rS0MbYAn);
 break;
 default:
-x33E >>= 1065955221;
+
 break;
 }
 switch (D_iA00)
@@ -290,7 +290,7 @@ int k = 0;
 do
 {
 ++k;
-FB_G = KqwTAO9IU6 ^ K7erMIoiN;
+
 }
 while (k < 7);
 }
@@ -313,7 +313,7 @@ mmmo5IM7m--;
 break;
 case 'c':
 case 'C':
-uBqBHyGzax = Xf7TxIoIv - e_dDt;
+
 break;
 case 'd':
 case 'D':
@@ -325,7 +325,7 @@ QI60EEh51 = (int)abs(rS0MbYAn);
 break;
 case 'f':
 case 'F':
-QI60EEh51 = (int)abs(rS0MbYAn);
+
 break;
 case 'g':
 case 'G':
@@ -352,7 +352,7 @@ if (((G_4vh6k & -2128989996) || (KJvE <= 1206955311)) || (R9bMh3vEHt < 134978320
 switch (uBqBHyGzax)
 {
 case 0:
-bw_euQA26w = R9bMh3vEHt & u0qgp48;
+
 break;
 case 1:
 
@@ -370,7 +370,7 @@ case 5:
 
 break;
 case 6:
-Pje_d8 = g78Le25Dm * 1596310892;
+
 break;
 }
 }
@@ -386,7 +386,7 @@ if (X53zsB <= -85005420)
 switch (NS2WN6S9)
 {
 case 0:
-dj04 = qj4Ji - lW0TE9MQ;
+
 break;
 case 1:
 IhqNiB <<= 1798625551;
@@ -401,7 +401,7 @@ case 4:
 IhqNiB *= bw_euQA26w;
 break;
 case 5:
-rS0MbYAn = (int)abs(QI60EEh51);
+
 break;
 default:
 
@@ -421,7 +421,7 @@ while (k < 10)
 }
 else if (Kyt_Cd == e_dDt)
 {
-qj4Ji %= i2de;
+
 }
 else if (KJvE > -258704462)
 {
@@ -436,7 +436,7 @@ while (k < 3)
 }
 else if (w49zzb1QJ > 1131663699)
 {
-mXXljg2_ *= i2de;
+
 }
 else
 {
@@ -449,7 +449,7 @@ if ((K7erMIoiN > -1124936983) && (NS2WN6S9 >= 641121679))
 {
 if ((X53zsB >= -367836112) && (KqwTAO9IU6 & B_pI))
 {
-X53zsB = (int)abs(NS2WN6S9);
+
 }
 }
 }
@@ -464,7 +464,7 @@ case 1:
 
 break;
 case 2:
-NS2WN6S9 = (int)abs(X53zsB);
+
 break;
 case 3:
 QI60EEh51 = (int)abs(rS0MbYAn);
@@ -479,7 +479,7 @@ case 6:
 
 break;
 case 7:
-w49zzb1QJ = g78Le25Dm & 762826843;
+
 break;
 case 8:
 G_4vh6k--;

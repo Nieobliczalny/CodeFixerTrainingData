@@ -331,7 +331,7 @@ case 'f':
 Ux8ci = ZrcDv * 951145688;
 break;
 case 'g':
-LXh_L = S_QEq(LXh_L, IPhk, ZYzj);
+
 break;
 default:
 B98jw9X = FvIQXQ(-127956359, IPhk, ZYzj) + 697055177;
@@ -354,7 +354,7 @@ ZrcDv--;
 break;
 case 'd':
 case 'D':
-PCSgr1bYr0 = SB9g9FH(PCSgr1bYr0, aY81_, do9sp0, -441512855, T8_v);
+
 break;
 case 'e':
 case 'E':
@@ -401,7 +401,7 @@ case 6:
 
 break;
 default:
-IPhk = (int)abs(do9sp0);
+
 break;
 }
 return 0;

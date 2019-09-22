@@ -72,7 +72,7 @@ int main(void)
  r7QMpdt = -1982399461;
  Y83otyw994 = -220968791;
  s458i1uHFb = -1287890895;
- GZ_7aW_LOy = 569393756;
+
  IY83kcr = -940869465;
  m__PyyeOAi = 399454655;
  Xfk8Oy = 418179547;
@@ -189,7 +189,7 @@ switch (b3rQ8q0yNm)
 {
 case 'a':
 case 'A':
-s458i1uHFb += X3UCwgt25;
+
 break;
 case 'b':
 case 'B':
@@ -421,7 +421,7 @@ case 0:
 MO2mCIo = l34q(MO2mCIo, -968835740);
 break;
 case 1:
-iESQKTD4 = r7QMpdt + 1987688882;
+
 break;
 case 2:
 Se1K = l34q(Se1K, -1824330427);
@@ -436,7 +436,7 @@ case 5:
 cGkedh8 %= 114596136;
 break;
 case 6:
-lagz %= iESQKTD4;
+
 break;
 case 7:
 X3UCwgt25 = upv1YN5U(1065127595);

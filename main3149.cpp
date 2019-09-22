@@ -32,7 +32,7 @@ int main(int argc, char** argv) {
     int    tL0C;
 
  short int v6wD0F;
- v6wD0F = 1437534112;
+
  long LdAX099bd1;
  LdAX099bd1 = 0;
 	unsigned short	HZnw8y;
@@ -73,7 +73,7 @@ case 3:
 HZnw8y ^= fO83;
 break;
 case 4:
-Jt6SR += OObNU;
+
 break;
 case 5:
 yBf0O2 += 696435028;
@@ -168,7 +168,7 @@ if (Jt6SR > 274407614)
 switch (LdAX099bd1)
 {
 case 0:
-OObNU = sVK1Kxi5Rg & fO83;
+
 break;
 case 1:
 cJ51mvP = cJ51mvP - 1516911861;
@@ -180,7 +180,7 @@ case 3:
 QiVo5bvD = xWIo0 ^ O_Gkl7x;
 break;
 case 4:
-bQFekqbe8B <<= sVK1Kxi5Rg;
+
 break;
 case 5:
 OObNU <<= 17705140;
@@ -192,7 +192,7 @@ case 7:
 yBf0O2 %= 164822717;
 break;
 case 8:
-HZnw8y >>= 1786315991;
+
 break;
 default:
 Jt6SR <<= xWIo0;

@@ -144,7 +144,7 @@ CP9Pd8 = (int)ceil(P6Jw2vI2);
 int i = 2;
 while (i >= 0)
 {
-DdD2 = (unsigned long long)(JPJ2d9J6);
+
 i--;
 }
 }
@@ -161,7 +161,7 @@ do
 switch (ZB2bf2NM)
 {
 case 0:
-rTITM7 = (int)abs(P6Jw2vI2);
+
 break;
 case 1:
 
@@ -210,7 +210,7 @@ do
 while (i < 7);
 }
 
-yA0ua4E9G = (int)ceil(U8G1WE_);
+
 
 AYFRG = (int)ceil(IHKcx6w78);
 

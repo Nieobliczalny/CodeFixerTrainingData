@@ -25,7 +25,7 @@ int main(int argc, char** argv)
     unsigned char    c4lQ9V5r;
     c4lQ9V5r    =    -1134943917;
   unsigned long  Wum13b;
-  Wum13b  =  1025836700;
+
 	long double	hzpg;
 	hzpg	=	614087907;
   unsigned int  W396U;
@@ -178,7 +178,7 @@ case 2:
 H8Cut /= 1925097419;
 break;
 case 3:
-szApmR = w9ci68X2g % s_C8O_70;
+
 break;
 case 4:
 szApmR = ATR7Mh7 * 2063708094;
@@ -228,7 +228,7 @@ L414WXt5vl = (int)abs(wAULMQ);
 while (i >= 0);
 }
 
-wAULMQ = (int)ceil(c19N80);
+
 
 std::cout << "LnORusc" << RBkl << odpukby << HNBU_E0K << RBkl << std::endl;
 
@@ -238,7 +238,7 @@ switch (BV14nnSfH3)
 {
 case 'a':
 case 'A':
-wAULMQ = (int)ceil(L414WXt5vl);
+
 break;
 }
 }
@@ -310,7 +310,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-u43p944 = (int)abs(cQc32);
+
 break;
 case 'c':
 case 'C':

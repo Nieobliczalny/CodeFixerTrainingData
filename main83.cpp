@@ -377,7 +377,7 @@ else if (RvO_1 >= Y_a1bjmn)
 }
 else if (pL926aDez0 <= D5BlXq5K)
 {
-v2kL6D = y8bTZ | 1167707402;
+
 }
 else if ((bty5 <= D5BlXq5K) && ((pL926aDez0 < D5BlXq5K) || (Z66iRm != 1814289975)))
 {
@@ -422,7 +422,7 @@ while (j < 1);
 }
 }
 
-ktt11p1BjG = F9_ut5s7M(-368774989, RKGX, ZcRS7LO_, 1376178289, I_Ncz96Y);
+
 
 return 0;
 }

@@ -520,7 +520,7 @@ zbI0wE += 210048886;
 break;
 case 'd':
 case 'D':
-hk_4Iiu9 = (int)ceil(U2SD);
+
 break;
 case 'e':
 case 'E':
@@ -804,7 +804,7 @@ else if (Bpfvq_8 < -2044609988)
 {
 try
 {
-qaVK = Im6z7xtG >> 916792148;
+
 }
 catch (int& errorCode)
 {

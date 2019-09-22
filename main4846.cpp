@@ -395,7 +395,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-bn05cI = ffV5Se4(Gsu7S118c, bn05cI, -300166527, 1417021598, -313293711);
+
 break;
 case 'c':
 case 'C':
@@ -411,7 +411,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-rym4 |= 1167176841;
+
 break;
 default:
 nWrx86mh = nWrx86mh - Rjhz36Y3;

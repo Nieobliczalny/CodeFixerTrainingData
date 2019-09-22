@@ -22,7 +22,7 @@ int main(void)
     ggN9ij    =    0;
 
     unsigned int    aC2_z,    O0OdH,    e_TAHk,    n030t3,    PvddXHF0u,    n_YGNyV2,    H5552003G,    AArDZuH8Uj,    RkkBtAA,    l4SHh,    egTIZ1xF0Z,    tBWiJpU,    niRd4VH2,    dKDplBo,    Zuqd,    LHb42fPj7,    g3_8rh,    h17DW,    wRR0,    xwEa1C8a1,    aJJ41,    w2cP,    FUo2d12,    kF7pJ,    xw1vIkH,    v9Y0I,    Fo3i,    E6H68,    Xbrp65h,    UdO0U2,    f31DCL6vFX,    jimSpkdJW,    y7aN5,    orFGl83h_I,    Pz450v7w,    Q8Qa7D018;
-    aC2_z    =    1139508314;
+
     O0OdH    =    -152270560;
     e_TAHk    =    -459413314;
     n030t3    =    -1839827860;
@@ -223,7 +223,7 @@ if (n_YGNyV2)
 {
 ggN9ij = Jle_l6iu0l();
 }
-e_TAHk *= 251921967;
+
 try
 {
 switch (h17DW)
@@ -308,7 +308,7 @@ ggN9ij = Jle_l6iu0l();
 
 cout << n_YGNyV2 << "qsB_RD7hRM" << "Kugry00i" << aJJ41 << Jle_l6iu0l() << endl;
 
-dKDplBo = (unsigned int)(Zuqd);
+
 
 NU_FvME1g = (long long)(Xbrp65h * NU_FvME1g);
 if ((jimSpkdJW >= 149377807) || ((egTIZ1xF0Z < -1497906044) && (xw1vIkH & -979858087)))
@@ -325,7 +325,7 @@ case 2:
 n030t3 = g3_8rh / wRR0;
 break;
 case 3:
-niRd4VH2 = MaIpvb2(niRd4VH2, y7aN5, v9Y0I, 1275484001, -501242505);
+
 break;
 case 4:
 
@@ -337,7 +337,7 @@ case 6:
 Zuqd %= FUo2d12;
 break;
 case 7:
-NU_FvME1g = Jle_l6iu0l();
+
 break;
 case 8:
 
@@ -361,7 +361,7 @@ else if (n030t3 == orFGl83h_I)
 {
 if ((aJJ41 < n030t3) && (LHb42fPj7 >= H5552003G))
 {
-tBWiJpU /= UdO0U2;
+
 }
 }
 else

@@ -33,7 +33,7 @@ int main()
  unsigned char YUJL9_qv;
 
 	unsigned short	J39Vy;
-	J39Vy	=	-1774643658;
+
     unsigned char    rvDo;
     rvDo    =    -243874377;
  int rcDdWg_;
@@ -45,7 +45,7 @@ int main()
  unsigned char m6Cbh;
 
   float  kl5_;
-  kl5_  =  1760138376;
+
  unsigned int BXtx;
  BXtx = 883554687;
     unsigned char    LEyY6g69;
@@ -55,7 +55,7 @@ int main()
     char    wH4DkiXCT;
 
     int    v_Ns5rgN0;
-    v_Ns5rgN0    =    1612908395;
+
 	unsigned short int	i124OOrU;
 	i124OOrU	=	204678484;
  unsigned short int ZKjzuXuV;
@@ -69,7 +69,7 @@ int main()
   int  o9Jl6N4;
   o9Jl6N4  =  2108716354;
     short int    IMH2;
-    IMH2    =    1588226734;
+
     unsigned long long    E7fk7;
     E7fk7    =    178683666;
     int    IM30R9C7C;
@@ -87,7 +87,7 @@ int main()
     short    F1xWfPpo;
     F1xWfPpo    =    -637101139;
  unsigned long zkG5vQBgQX;
- zkG5vQBgQX = 75262154;
+
   unsigned int  tpEm0qBi;
   tpEm0qBi  =  143942313;
     short    svIj;
@@ -97,7 +97,7 @@ int main()
     double    tOOW8N;
     tOOW8N    =    -1724760341;
   char  IgC62F91;
-  IgC62F91  =  -1702223704;
+
  long long d523_8mv;
  d523_8mv = 1646672293;
  unsigned short int OdGP08;
@@ -121,7 +121,7 @@ int main()
  long long xSze3F5;
  xSze3F5 = -204664069;
     unsigned long    O0jZb8;
-    O0jZb8    =    1830234656;
+
     long long    KpAC_K;
     KpAC_K    =    -1487645480;
     short    p6xDxkA3;
@@ -143,7 +143,7 @@ int main()
 
 try
 {
-IgC62F91 = (char)(W_G4SL8);
+
 }
 catch (int& errorCode)
 {
@@ -195,7 +195,7 @@ case 3:
 tOOW8N = OJzN954X_0(tOOW8N, 192954614, L2C674Xf0B, 1328388233, IM30R9C7C);
 break;
 case 4:
-kl5_ = OJzN954X_0(-667186241, hSg38s7eQ, o9Jl6N4, 927975298, vy36Uhu_);
+
 break;
 case 5:
 L2C674Xf0B = RtRMe(-639387885, 39153088, A6VrcY, Tf0e, eB70_);
@@ -210,7 +210,7 @@ case 8:
 rcDdWg_ = (int)abs(d523_8mv);
 break;
 default:
-Q5rPCu *= 1158277910;
+
 break;
 }
 }
@@ -276,7 +276,7 @@ j89ry--;
 break;
 }
 
-vy36Uhu_ = RtRMe(-1807936154, i124OOrU, -1226795580, -460512643, -210391420) << 1151783040;
+
 cout << RtRMe(750499834, i124OOrU, -1468157180, ji10, L2C674Xf0B) << PTp8 << endl;
 if (RtRMe(EAoH, i124OOrU, 222487857, ji10, -1775272361) == 0)
 {
@@ -288,7 +288,7 @@ if (rcDdWg_ >= Udnfc9j)
 {
 try
 {
-vy36Uhu_ = (int)abs(IM30R9C7C) + (-1926005029);
+
 }
 catch (int& errorCode)
 {
@@ -320,7 +320,7 @@ case 5:
 hfN__LBe89 = (int)abs(ItnMN6jN);
 break;
 case 6:
-Udnfc9j >>= EJ0R;
+
 break;
 case 7:
 YUJL9_qv = RtRMe(961519237, 112523377, A6VrcY, -82762002, tpEm0qBi) << o9Jl6N4;
@@ -375,7 +375,7 @@ if (L2C674Xf0B <= BXtx)
 }
 else
 {
-pYGd19 = (int)floor(tOOW8N);
+
 }
 }
 }

@@ -192,7 +192,7 @@ cwqB = (int)ceil(JUvoVvL);
 }
 if (li4bbTmy < 2022501136)
 {
-Sj2E_1 = (int)(oRH7z6AZJ0 + (-1854693010));
+
 }
 return 0;
 }

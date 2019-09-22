@@ -103,7 +103,7 @@ case 'G':
 break;
 case 'h':
 case 'H':
-y0ce0 &= 991191402;
+
 break;
 default:
 J1jSmri_A -= 1977936627;
@@ -335,7 +335,7 @@ while (i < 4)
 
 for (int i = 0; i < 6; i++)
 {
-uaZp5I = (unsigned long long)(u4Oa_);
+
 }
 Vzi84 = (unsigned long long)(uyQ1z);
 for (int i = 0; i < 6; i++)
@@ -370,7 +370,7 @@ else if (NuTep1 != w3Z0o7)
 {
 if (xCE26LG >= 1526805172)
 {
-ikdXp87H8x = WGl1 % 1392797846;
+
 }
 else if (xCE26LG > FKL6J26ci)
 {
@@ -382,7 +382,7 @@ EAbu3Dx = (WY_FZ0ue != Lx5R7) ? eeX9dSYda : 111344410;
 }
 else if (((S5K00J795p < 1764640513) && (u68k_9_ <= mD_9g)) || (F1W65 <= -1470889943))
 {
-u4Oa_ = eeX9dSYda & 730216465;
+
 }
 else
 {
@@ -399,7 +399,7 @@ else if (GGOtk)
 int k = 0;
 do
 {
-afE_zm52r = S5K00J795p + 1362664904;
+
 ++k;
 }
 while (k < 6);

@@ -137,7 +137,7 @@ for (int k = 2; k >= 0; k--)
 }
 }
 }
-jrFFTWk = (long)(uDN6 + (747898141));
+
 {
 int i = 6;
 while (i >= 0)
@@ -148,7 +148,7 @@ case 0:
 
 break;
 case 1:
-uDN6 = RphtWc5();
+
 break;
 default:
 uDN6 = RphtWc5();

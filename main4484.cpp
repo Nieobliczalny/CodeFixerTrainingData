@@ -89,7 +89,7 @@ try
 {
 if (Adw6j8u3 == DnkBlkMQY)
 {
-xemt *= 1806072474;
+
 }
 }
 catch (int& errorCode)
@@ -182,7 +182,7 @@ while (i < 2);
 
 if (r3V4f3q2DP == 0)
 {
-	X_rG = 1589484193 / r3V4f3q2DP;
+
 }
 Adw6j8u3 = (int)floor(b3Vl_4NZXJ);
 
@@ -221,7 +221,7 @@ iqBroKc = (unsigned short int)(oN0B5);
 switch (DnkBlkMQY)
 {
 case 0:
-QLuILQ = Gg6E3yyN7 % 183656182;
+
 break;
 case 1:
 
@@ -233,7 +233,7 @@ case 3:
 Adw6j8u3 += T19y3;
 break;
 case 4:
-TKUD1 /= uP1X2_9k;
+
 break;
 case 5:
 
@@ -245,7 +245,7 @@ case 7:
 s_6y54f *= 397661575;
 break;
 case 8:
-m7Qw |= nNV6;
+
 break;
 default:
 X_rG = iqBroKc & 850492448;

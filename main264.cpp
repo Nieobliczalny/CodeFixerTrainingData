@@ -298,7 +298,7 @@ l_wTK--;
 
 for (int i = 0; i < 9; ++i)
 {
-Ri6PeS_g = (int)abs(IEnIk);
+
 }
 Sq833aEpT = (int)abs(Q3l167gaU);
 {
@@ -335,7 +335,7 @@ case 2:
 IEnIk = (int)floor(d_6r9rU85);
 break;
 case 3:
-M40m3zTdx = (int)ceil(Sq833aEpT);
+
 break;
 case 4:
 gwBjYo <<= YXwTU6;
@@ -396,7 +396,7 @@ cout << IEnIk << R08_ << endl;
 }
 
 
-oLG24K1 = -1790227361 / iZy1SI3;
+
 {
 int i = 9;
 do

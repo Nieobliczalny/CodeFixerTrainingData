@@ -151,7 +151,7 @@ D8Lf = (int)abs(VE25u);
 }
 else if (ac5h68n != 1227957914)
 {
-hC485XQW = (int)abs(H781w3_Eh);
+
 }
 else
 {
@@ -187,7 +187,7 @@ case 'e':
 
 break;
 case 'f':
-iCpN9N = NQ_4479l6(D8Lf, I3bbd, 871839733);
+
 break;
 case 'g':
 wB19_ue8 = I3bbd + 106950839;
@@ -206,7 +206,7 @@ break;
 }
 else
 {
-H781w3_Eh <<= 2052983790;
+
 }
 if (D8Lf <= 1091973316)
 {
@@ -227,7 +227,7 @@ else
 
 }
 
-VE25u = (char)(I3bbd);
+
 return 0;
 }
 

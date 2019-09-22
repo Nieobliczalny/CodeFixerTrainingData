@@ -695,7 +695,7 @@ while (j >= 0);
 while (i >= 0);
 }
 
-B3Qz3ev = (int)ceil(v8wjzT);
+
 
 return 0;
 }

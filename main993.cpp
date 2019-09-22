@@ -18,7 +18,7 @@ int main(void) {
     unsigned char    MaHy1K8kC,    kVt_,    e_5QW88u,    JLnw6_f4G5,    Ke_7;
 
     kVt_    =    0;
-    e_5QW88u    =    0;
+
     JLnw6_f4G5    =    0;
     Ke_7    =    0;
 	unsigned int	ZIV5,	V05F,	Is4Ne,	BH_cjKmV_c,	uY8jjcB7q,	meja,	q5k9353p,	Y82K0c4,	VfBK0,	kg6eY;
@@ -29,7 +29,7 @@ int main(void) {
 
 	meja	=	2022589877;
 	q5k9353p	=	-1271819199;
-	Y82K0c4	=	1120084437;
+
 	VfBK0	=	104287971;
 	kg6eY	=	-157202339;
 

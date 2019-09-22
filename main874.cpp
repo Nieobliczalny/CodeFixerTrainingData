@@ -26,7 +26,7 @@ int main(int argc, char** argv) {
     unsigned char    mONRf34;
 
  short P3i45eCH;
- P3i45eCH = -1110323176;
+
   long long  C7f246;
   C7f246  =  622204515;
     unsigned long long    nLl80;
@@ -42,7 +42,7 @@ int main(int argc, char** argv) {
 	short int	ko8ezZXE;
 	ko8ezZXE	=	0;
   double  ie7MIdu;
-  ie7MIdu  =  1485619843;
+
  short int FX1l47VXe;
  FX1l47VXe = -625897024;
   float  I0mk;
@@ -54,7 +54,7 @@ int main(int argc, char** argv) {
 	unsigned short	gR0_;
 	gR0_	=	-1081106498;
 	unsigned char	XF_f;
-	XF_f	=	0;
+
   unsigned short int  F0twD;
 
   long double  i_k948;
@@ -72,7 +72,7 @@ int main(int argc, char** argv) {
   double  VpqS7IG;
   VpqS7IG  =  183995996;
   int  Z6oG40;
-  Z6oG40  =  1510989697;
+
  unsigned int d2JPc8y0;
  d2JPc8y0 = -406986186;
  short m1o5T;
@@ -94,7 +94,7 @@ int main(int argc, char** argv) {
  long Xe5JA_z5;
 
 	char	P2r6;
-	P2r6	=	1143396311;
+
  int Fhcy0;
  Fhcy0 = 175808109;
   short  Htsq3c;
@@ -106,7 +106,7 @@ int main(int argc, char** argv) {
  unsigned short int U4IM;
  U4IM = 1091327417;
 	int	sp_P7;
-	sp_P7	=	290137646;
+
 	unsigned int	KOK72;
 	KOK72	=	-288073254;
  short int BehRYRW28;
@@ -122,7 +122,7 @@ int main(int argc, char** argv) {
 	unsigned long	WCMmSegH;
 
     long    Q9f6P4n8;
-    Q9f6P4n8    =    567389692;
+
   short  Hx3acD82L;
   Hx3acD82L  =  -181800542;
  short sk2Hn;
@@ -218,7 +218,7 @@ else if (x4m4z8 > KOK72)
 {
 if (n4FFrT <= gR0_)
 {
-sp_P7 = mvJJ2w6 - e8_d;
+
 }
 }
 else if (fW_97_2 != Htsq3c)
@@ -258,7 +258,7 @@ if (((fW_97_2) || (I0mk)) && (C7f246 != 649622845))
 {
 
 }
-ie7MIdu /= Vwwx1bn;
+
 try
 {
 ko8ezZXE = LaTh6W(ko8ezZXE, 1609067810, 1994961017, -993384389);
@@ -277,7 +277,7 @@ int j = 0;
 while (j < 5)
 {
 j++;
-mvJJ2w6 = LaTh6W(266508008, Bj61LxTYv, SHGj4r163, Fhcy0);
+
 }
 }
 }
@@ -289,7 +289,7 @@ case 'a':
 
 break;
 case 'b':
-nLl80 = suMIn77(1347210392);
+
 break;
 case 'c':
 k_s3J = u3p_E6A7b & 1361626139;
@@ -304,7 +304,7 @@ break;
 }
 else
 {
-P2r6 = (char)(u3p_E6A7b + (1687028893));
+
 }
 
 F0twD = (unsigned short int)(K_Pxv7C);

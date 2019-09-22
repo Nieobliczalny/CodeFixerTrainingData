@@ -598,7 +598,7 @@ if (Zg_3 <= sD6Rr)
 }
 else
 {
-M5nD_z2 = (int)abs(JDr2VAXu);
+
 }
 }
 else if (M5nD_z2 == R3E0Hs)

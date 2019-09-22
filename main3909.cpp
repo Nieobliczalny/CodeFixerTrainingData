@@ -32,7 +32,7 @@ int main() {
     int    X3uUi8GXh_;
 
     short    dTf7J6D2X0;
-    dTf7J6D2X0    =    162668529;
+
 	unsigned short int	jXca;
 	jXca	=	1380134952;
  char idG7;
@@ -246,7 +246,7 @@ if ((T6_Px >= -574274042) && ((J3dV != 596606621) && (ZI17rh)))
 {
 if (qnsK != -1549974355)
 {
-m0_cWJ106 = ABijh3k1(A121Zaa4, -658314072, S7cY7AQ, -127625904, -1927829737) + 1287200332;
+
 }
 else if (nV0C6K == h0H4oNru)
 {
@@ -304,7 +304,7 @@ if (QCW4 < h0H4oNru)
 {
 if (nV0C6K)
 {
-idG7 = ABijh3k1(x7l_7fB95, dTf7J6D2X0, idG7, X3uUi8GXh_, QCW4);
+
 }
 else
 {
@@ -321,7 +321,7 @@ for (int i = 10; i >= 0; --i)
 int j = 1;
 do
 {
-idG7 = ABijh3k1(jXca, 1045945238, 1855126970, 1437268709, -945763239);
+
 --j;
 }
 while (j >= 0);

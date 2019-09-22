@@ -14,7 +14,7 @@ int main() {
 	unsigned char	nP1jCG_;
 	nP1jCG_	=	-444561285;
  short int wjsG3OB;
- wjsG3OB = -895070262;
+
     float    XJk25Ynn7;
     XJk25Ynn7    =    -526297758;
  int rs8c2Nso;
@@ -26,7 +26,7 @@ int main() {
  unsigned int ts2quR2n7;
  ts2quR2n7 = 819129772;
 	long double	Je0yHWc;
-	Je0yHWc	=	218016249;
+
     short int    kc6j0Dorns;
     kc6j0Dorns    =    -259792444;
   double  PvFs950R;
@@ -36,7 +36,7 @@ int main() {
     char    aP9ElvS2Y4;
     aP9ElvS2Y4    =    1944056839;
     int    cd92X8qD;
-    cd92X8qD    =    1264818745;
+
 	long long	vizw97VMx;
 	vizw97VMx	=	-160432652;
 	unsigned int	CYFr;
@@ -48,7 +48,7 @@ int main() {
 	unsigned char	AKi4;
 	AKi4	=	689891189;
     long    zkw6QC72;
-    zkw6QC72    =    819494954;
+
  unsigned char lYrRU6d;
  lYrRU6d = -2004896373;
   unsigned char  n2TFU;
@@ -60,7 +60,7 @@ int main() {
   unsigned short int  UBTYgA0;
   UBTYgA0  =  0;
     unsigned short    JhY_7;
-    JhY_7    =    10089282;
+
   unsigned long long  u9xEo4O8;
 
  unsigned int Ib4A0f6;
@@ -84,7 +84,7 @@ int main() {
     int    V65THw4;
 
     short    sDsY23_c9;
-    sDsY23_c9    =    -1354926851;
+
 	char	QEwWpr3W2H;
 	QEwWpr3W2H	=	-262984559;
     int    hfLHIK_i;
@@ -94,7 +94,7 @@ int main() {
  unsigned short int dEr_dFW_S;
 
   unsigned char  jsB65h9QY;
-  jsB65h9QY  =  -1825844395;
+
   unsigned char  IJzKe;
   IJzKe  =  -1901165676;
  unsigned short int ao81Nq;
@@ -108,7 +108,7 @@ int main() {
 	int	hyTT7C6G2e;
 
 	char	oB5ren1_4;
-	oB5ren1_4	=	0;
+
  long double uQ7Q3_k;
  uQ7Q3_k = 1714123867;
     char    ON743;
@@ -128,7 +128,7 @@ int main() {
     long    Zo16rx;
     Zo16rx    =    2110346170;
 	unsigned long	o5Nyp3;
-	o5Nyp3	=	1603198234;
+
  float OzugmW29;
  OzugmW29 = 115337668;
 	short int	cF009C;
@@ -140,7 +140,7 @@ int main() {
 
 for (int i = 10; i >= 0; i--)
 {
-jsB65h9QY = (unsigned char)(AKi4);
+
 }
 uQ7Q3_k = (int)ceil(PvFs950R);
 try
@@ -209,7 +209,7 @@ case 4:
 T57E7R2cIU = BRev0cmt * PvFs950R;
 break;
 case 5:
-Je0yHWc = (int)floor(PvFs950R);
+
 break;
 case 6:
 ts2quR2n7 /= 1932720268;
@@ -250,7 +250,7 @@ while (j < 1);
 }
 else if (R_e3khq7 >= 521433800)
 {
-UBTYgA0 = (unsigned short int)(PvFs950R * UBTYgA0);
+
 }
 else
 {
@@ -268,7 +268,7 @@ int j = 0;
 do
 {
 ++j;
-XJk25Ynn7 = (int)floor(u30_m52aq);
+
 }
 while (j < 1);
 }

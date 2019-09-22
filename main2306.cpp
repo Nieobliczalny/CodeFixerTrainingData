@@ -215,7 +215,7 @@ case 'b':
 
 break;
 case 'c':
-mLS9TviJT8 = XoJ3(O7XDdNy, -1017462624, -74661877, 1581450305) / UgeM;
+
 break;
 case 'd':
 cRu4_3Y6rM--;
@@ -230,7 +230,7 @@ case 'g':
 
 break;
 case 'h':
-Q4j_78ZFJH = (int)ceil(UgeM);
+
 break;
 }
 
@@ -291,7 +291,7 @@ case 7:
 Q4j_78ZFJH = FH6J_ / pur2BNOov;
 break;
 case 8:
-qna0vN_ = (int)abs(cRu4_3Y6rM);
+
 break;
 }
 }

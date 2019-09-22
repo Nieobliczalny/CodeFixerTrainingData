@@ -32,7 +32,7 @@ int main(int argc, char** argv) {
  FR15Hq = 1338527363;
  ak3_V = -1817552284;
  short fU556, F48Hud8k, vymAt5OP, w3i3K7A_ao;
- fU556 = 0;
+
  F48Hud8k = 0;
  vymAt5OP = 0;
  w3i3K7A_ao = 0;
@@ -340,7 +340,7 @@ ak3_V = vymAt5OP >> 133235711;
 }
 }
 
-Mxi4X6 = tAGL41_4Eg(vymAt5OP, rSQ5Mt18Lc) / vymAt5OP;
+
 
 
 
@@ -396,7 +396,7 @@ case 'c':
 ak3_V = (int)abs(ychAqo3zRy);
 break;
 case 'd':
-Mxi4X6 *= 116300143;
+
 break;
 case 'e':
 Mxi4X6 += pE05_;
@@ -411,7 +411,7 @@ case 'h':
 pE05_ = (int)floor(ak3_V);
 break;
 case 'i':
-rpXCD_7nhy = tAGL41_4Eg(rpXCD_7nhy, -1418069800);
+
 break;
 case 'j':
 

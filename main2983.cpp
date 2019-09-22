@@ -231,7 +231,7 @@ else if ((bi05 < 2035230701) || ((bi05 > oObzO2o4q8) && (N4DRXImSx >= -133977106
 {
 if (Z6KgbMH != oObzO2o4q8)
 {
-WpZJiUS &= E668701QE6;
+
 }
 else
 {
@@ -306,7 +306,7 @@ else
 
 }
 
-W12Dz = iAy2 * oI0ajAj0;
+
 if (oI0ajAj0 > -187219805)
 {
 if ((yZ88p54I) || (pr_n2OH3 == bi05))

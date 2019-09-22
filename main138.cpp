@@ -31,7 +31,7 @@ int main(void)
  long IQU6;
  IQU6 = -1437317099;
 	unsigned short int	g39s6zYh_;
-	g39s6zYh_	=	-1564516751;
+
     int    o4OQ;
     o4OQ    =    0;
     short int    KF9IRn28;
@@ -103,7 +103,7 @@ if ((KN4_zm5R == 1248229003) || ((IgH3b != -1777082883) || (pW1PTfgM == -6308927
 switch (rOhfb)
 {
 case 0:
-KN4_zm5R = (int)ceil(CmuTF6dD);
+
 break;
 case 1:
 CmuTF6dD = (int)ceil(ZCQCA36dz);
@@ -115,7 +115,7 @@ case 3:
 o4OQ = K5bg5K(ZCQCA36dz, KN4_zm5R);
 break;
 case 4:
-KN4_zm5R = CmuTF6dD + 1976922604;
+
 break;
 case 5:
 
@@ -156,7 +156,7 @@ case 0:
 
 break;
 case 1:
-o4OQ = K5bg5K(-420122525, -1776052917);
+
 break;
 case 2:
 o4OQ = K5bg5K(1446071239, ZCQCA36dz);
@@ -168,7 +168,7 @@ case 4:
 
 break;
 case 5:
-KN4_zm5R = (int)ceil(u6hn3vw);
+
 break;
 case 6:
 o4OQ = K5bg5K(-1916082803, 1293261899);
@@ -206,7 +206,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-o4OQ = K5bg5K(Ks62YU5z, 1347898311);
+
 break;
 case 'c':
 case 'C':
@@ -235,7 +235,7 @@ j++;
 }
 else
 {
-ZCQCA36dz = (int)floor(OR_WKRbo);
+
 }
 if (D1LP9_A0e8 != HFKlL19)
 {
@@ -257,7 +257,7 @@ while (k >= 0);
 }
 }
 cout << K5bg5K(IgH3b, CmuTF6dD) << endl;
-u6hn3vw = K5bg5K(714809490, CmuTF6dD) / K5bg5K(84493103, -1088938570);
+
 
 return 0;
 }

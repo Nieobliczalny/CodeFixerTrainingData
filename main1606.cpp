@@ -29,7 +29,7 @@ int main(void) {
  unsigned long long uCMZxY;
  uCMZxY = -875816503;
   unsigned long  BAtb5;
-  BAtb5  =  749803799;
+
 	short int	fAV30Iq;
 	fAV30Iq	=	-1799693814;
   int  rRaC;
@@ -41,7 +41,7 @@ int main(void) {
  long double NnW6YBRl;
  NnW6YBRl = -903045518;
     unsigned long    TSUi7V7;
-    TSUi7V7    =    -197654183;
+
   long double  q4N21l3Y;
   q4N21l3Y  =  -1032819111;
   long double  nwD_uBgd;
@@ -77,7 +77,7 @@ int main(void) {
   unsigned short int  f7L8WwY;
   f7L8WwY  =  1470508609;
  long aTSms8W;
- aTSms8W = 1010840809;
+
  long FyGT8DxK2;
  FyGT8DxK2 = 742827062;
 	unsigned long	E7_57ryO;
@@ -115,7 +115,7 @@ int main(void) {
   unsigned char  nwEVvS9A4;
   nwEVvS9A4  =  708311045;
   unsigned short int  Pni_Ogx;
-  Pni_Ogx  =  276637552;
+
     short int    N_KlzbSS;
 
   long  kc76P1;
@@ -125,7 +125,7 @@ int main(void) {
 	short int	oM6Yju_LEI;
 	oM6Yju_LEI	=	249773456;
     unsigned long long    tIIu4V;
-    tIIu4V    =    126148108;
+
     float    w68aHE;
     w68aHE    =    -208298595;
     float    v333Bj;
@@ -139,7 +139,7 @@ int main(void) {
   unsigned int  AoscWUv;
   AoscWUv  =  1735939030;
  unsigned short xaZ3IHky;
- xaZ3IHky = -1532210905;
+
 	long	z28jD1L7;
 	z28jD1L7	=	353741235;
 	unsigned long long	bsDrNk3_;
@@ -378,7 +378,7 @@ sXm51 = (int)ceil(I19D496_l);
 AoscWUv = (xNnx4 <= Qc8x7) ? 3865422 : 1999022963;
 if (b_YK85 <= -1494417480)
 {
-Dq2oLl_2q = Yj__Fq(Dq2oLl_2q, jLbNW6kQo_, 58509898, xNnx4, 2096829413);
+
 }
 
 for (int i = 0; i < 2; ++i)
@@ -434,7 +434,7 @@ if (U9E3OUj50 == -295621632)
 {
 if ((fAV30Iq == 809426427) && ((Fp0MyyIy7t == mza1vY1BV) || (z5Fb <= kH9N3)))
 {
-jSyM = dna55(-1167745) - 1046245695;
+
 }
 }
 else if (i1_ujctH <= -612885305)
@@ -475,7 +475,7 @@ else if (iRi9KlO5 >= -954486314)
 }
 else
 {
-q4N21l3Y = (int)abs(zT9Yj);
+
 }
 }
 }
@@ -495,7 +495,7 @@ case 'c':
 
 break;
 case 'd':
-Z1yxr2wcU = (int)ceil(Z258kY);
+
 break;
 case 'e':
 D5T9 = dna55(1158876378);
@@ -592,7 +592,7 @@ while (k < 5);
 
 try
 {
-D5T9 = dna55(880139820);
+
 }
 catch (int& errorCode)
 {
@@ -632,7 +632,7 @@ else if (dM21P_wzUn <= -368107891)
 }
 else
 {
-ZvJ2BoG = (int)abs(ghUpwNR3);
+
 }
 }
 }

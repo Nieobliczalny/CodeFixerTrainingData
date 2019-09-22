@@ -30,7 +30,7 @@ int main()
   long long  xa0A;
   xa0A  =  -449423363;
     short    I_Pru;
-    I_Pru    =    -1521971041;
+
   double  o67Wh3F1;
   o67Wh3F1  =  -2068235700;
   unsigned long long  U5X3;
@@ -462,7 +462,7 @@ case 0:
 I4W3750CQs *= 567746757;
 break;
 case 1:
-vZCDWu9 = (int)abs(H9T6);
+
 break;
 case 2:
 n16gPL63I_ = (int)ceil(o67Wh3F1);
@@ -496,7 +496,7 @@ while (i < 8)
 }
 try
 {
-rY87bf1Rl += 1739834282;
+
 }
 catch (int& errorCode)
 {
@@ -542,7 +542,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-H9T6 *= YSmI_m;
+
 break;
 case 'c':
 case 'C':
@@ -554,7 +554,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-vZCDWu9 = (int)abs(QkfeiH_8);
+
 break;
 case 'f':
 case 'F':
@@ -566,7 +566,7 @@ case 'G':
 break;
 case 'h':
 case 'H':
-H9T6 += 1363383575;
+
 break;
 case 'i':
 case 'I':

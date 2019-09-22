@@ -45,7 +45,7 @@ if (jPi_2)
 
 }
 }
-xSg7e6n0T = L6T6 / BCTw;
+
 
 a5SL3 = K_m22YSp << 681798889;
 
@@ -92,7 +92,7 @@ while (k >= 0);
 
 
 
-xSg7e6n0T = (unsigned long long)(ud7r_Lr85P);
+
 if (vF31 == -1156326694)
 {
 try

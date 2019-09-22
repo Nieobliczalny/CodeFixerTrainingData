@@ -389,7 +389,7 @@ Ed2WzFAXpQ = (int)abs(hNkBY1_);
 }
 else
 {
-a28MfzPK2 = TD_tpw5o(-774335858, 1241439433, hNkBY1_, AIAq1n);
+
 }
 }
 else if ((II9A3f & 1633999744) && (Pc_C <= -1387249551))
@@ -483,7 +483,7 @@ JS_2Dzl3Ez &= 1161412346;
 
 s15x = (O5Xi < QJCz8P) ? hNkBY1_ : 343944163;
 
-AIAq1n = (long long)(Ed2WzFAXpQ);
+
 switch (s15x)
 {
 case 0:

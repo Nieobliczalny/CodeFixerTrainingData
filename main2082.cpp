@@ -132,7 +132,7 @@ case 1:
 
 break;
 case 2:
-BBAuwaAu = KNPUI - NC1PtVA;
+
 break;
 }
 --i;
@@ -217,7 +217,7 @@ if (x81qd >= -1735668313)
 {
 if (NC1PtVA != 1735045489)
 {
-XYiz = (int)floor(h42fjh5);
+
 }
 else if (FwN9 >= -1122515997)
 {
@@ -238,7 +238,7 @@ else
 int k = 4;
 while (k >= 0)
 {
-ExEwY2 = (int)abs(xmRt);
+
 --k;
 }
 }
@@ -305,7 +305,7 @@ i++;
 
 if (NIwyV36)
 {
-g6GDK = NC1PtVA >> 1501103616;
+
 }
 else if ((BBMZ6eK) && (a_V4k3 == t2Si9Rh))
 {
@@ -321,7 +321,7 @@ std::cout << "X1t8MeRR" << std::endl;
 }
 
 
-XYiz = (int)floor(zRcqNi);
+
 
 switch (UlGKewLM)
 {
@@ -335,7 +335,7 @@ case 2:
 
 break;
 case 3:
-a_V4k3 = (int)floor(SqG37_37_A);
+
 break;
 case 4:
 NIwyV36 ^= 2117351842;
@@ -347,7 +347,7 @@ case 6:
 
 break;
 case 7:
-SqG37_37_A = (C5CIx < 1827510576) ? Wz6IkBu_0W : Lu6__Huf6;
+
 break;
 }
 if (Lu6__Huf6)

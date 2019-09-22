@@ -49,7 +49,7 @@ int main(int argc, char** argv)
 	long	Ggi0vz61_;
 	Ggi0vz61_	=	-1081142903;
 	float	gZ0_Da;
-	gZ0_Da	=	1958094376;
+
 	double	T3M8L;
 
 	short int	ZMz98b4;
@@ -59,7 +59,7 @@ int main(int argc, char** argv)
   unsigned int  SU8O4cPS;
   SU8O4cPS  =  -1198103791;
  short int u2C3B1d5y;
- u2C3B1d5y = -725650151;
+
  unsigned char fDfPC3K;
  fDfPC3K = -1164882023;
   short int  OsP2;
@@ -73,7 +73,7 @@ int main(int argc, char** argv)
 	unsigned short	ieIIi7;
 	ieIIi7	=	954529598;
  double EtCvc08;
- EtCvc08 = 56889416;
+
  unsigned long long J3XC4K;
  J3XC4K = 1446110767;
 	unsigned char	Qa_Y;
@@ -85,7 +85,7 @@ int main(int argc, char** argv)
     unsigned short int    XhhJXc;
     XhhJXc    =    594138646;
 	unsigned long long	Ryq8S9q;
-	Ryq8S9q	=	332434707;
+
     short    Pod_M;
     Pod_M    =    -727353645;
 	long double	L964J1eQ;
@@ -99,7 +99,7 @@ int main(int argc, char** argv)
     unsigned char    a_Coe050y;
 
 	short int	klGD4m;
-	klGD4m	=	1682096290;
+
  unsigned short Ve6c;
  Ve6c = -1145172273;
 	int	FRMBweY;
@@ -121,7 +121,7 @@ int main(int argc, char** argv)
     unsigned int    doe43Qpc0o;
     doe43Qpc0o    =    2133372637;
  unsigned short BR47nbh4A;
- BR47nbh4A = 1035388601;
+
 	float	Ov09;
 	Ov09	=	634067515;
  unsigned long long sgP0;
@@ -137,7 +137,7 @@ int main(int argc, char** argv)
     long long    a_ctYy;
     a_ctYy    =    -555440220;
  unsigned long Hj3Pus;
- Hj3Pus = -1754586809;
+
     double    J9A6Nb9;
     J9A6Nb9    =    -691687045;
     long    B0HdfFv53;
@@ -164,7 +164,7 @@ case 'b':
 Ov09 = (int)floor(J9A6Nb9);
 break;
 case 'c':
-EtCvc08 = (int)ceil(L964J1eQ);
+
 break;
 case 'd':
 P56_mC |= 61569900;
@@ -218,7 +218,7 @@ else if (J9A6Nb9)
 int k = 0;
 do
 {
-J3XC4K = RJkk590r << 1155031707;
+
 ++k;
 }
 while (k < 7);
@@ -284,7 +284,7 @@ case 3:
 FYH3_i_fe = (int)abs(cVU2p);
 break;
 case 4:
-NWsbhhzG = (int)floor(MUfC);
+
 break;
 case 5:
 UO7CtaG3c5 &= u2Lha_n1;
@@ -328,7 +328,7 @@ try
 switch (I813HM2tir)
 {
 case 0:
-cCNyH0hjA8 = FRMBweY ^ 1496000212;
+
 break;
 case 1:
 Q8Vxqp_ = (Q6lEEU_6_7 != YL7ENe) ? 1493803 : 91016857;
@@ -362,7 +362,7 @@ else
 
 }
 
-fh4h *= OsP2;
+
 
 ymjBLq = (short)(fDfPC3K);
 
@@ -415,7 +415,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-Q6lEEU_6_7 = OsP2 << ymjBLq;
+
 break;
 case 'c':
 case 'C':
@@ -431,7 +431,7 @@ pc_1h--;
 break;
 case 'f':
 case 'F':
-NWsbhhzG = (int)floor(MUfC);
+
 break;
 case 'g':
 case 'G':
@@ -458,7 +458,7 @@ else
 {
 
 }
-dR7t49 = P_X5651 / ZMz98b4;
+
 
 cout << TT8B9j << ZrS2sJ << YL7ENe << endl;
 

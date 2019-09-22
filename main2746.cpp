@@ -73,7 +73,7 @@ cout << "HK07" << yqMZ() << Arxdy90 << endl;
 }
 else
 {
-mJ9ftOt9 = AQiR(238414569);
+
 }
 
 if ((M68D == 998331002) || ((gxNTa8Aa) || (std6 > 1152628053)))
@@ -210,7 +210,7 @@ case 4:
 
 break;
 case 5:
-J2R68i = QW8AWSXu(1166517344, e151tu, -2099199424, eo_ma3x);
+
 break;
 case 6:
 k9ef4 = Dn48e3 - YlvizX;
@@ -275,7 +275,7 @@ case 'd':
 eS9f6 = (int)abs(QpIy);
 break;
 case 'e':
-u9JF3 = CqA8O_hzbJ << RD604kp;
+
 break;
 case 'f':
 GnPhW = AQiR(GnPhW);
@@ -287,7 +287,7 @@ case 'h':
 eS9f6 = (int)abs(std6);
 break;
 case 'i':
-g12U4_f = M8wT();
+
 break;
 }
 --i;
@@ -324,7 +324,7 @@ if (Bu9nt1NzV)
 }
 else if (rx21)
 {
-M9_N9_B21K = fvAl0 + 281004935;
+
 }
 else if (eeplffca >= -817317572)
 {
@@ -337,7 +337,7 @@ else
 }
 else
 {
-ORs8g2y = yqMZ();
+
 }
 }
 

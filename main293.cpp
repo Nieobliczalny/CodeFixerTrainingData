@@ -52,7 +52,7 @@ int main(int argc, char** argv)
  iy2e85 = 1807457557;
  aKfs = 1687921038;
  yf666 = -1354149163;
- uJj37Qwv = 1629418084;
+
  tcoTn6_RHU = 338638526;
 
  AhiYTjg7qu = -1411598104;
@@ -359,7 +359,7 @@ tcoTn6_RHU++;
 break;
 case 'e':
 case 'E':
-VEf818 = k83P(VEf818, -713855043, -1323359232, IW49);
+
 break;
 case 'f':
 case 'F':
@@ -462,7 +462,7 @@ case 'a':
 
 break;
 case 'b':
-QOZ17_PS_ = O5b43F / 258140540;
+
 break;
 }
 
@@ -510,7 +510,7 @@ case 0:
 
 break;
 case 1:
-G1dl44rC3M = nfdsb % 2032603139;
+
 break;
 case 2:
 tDvGm = iIhAM + 539620445;
@@ -525,7 +525,7 @@ case 5:
 aknJ39 = G1dl44rC3M * osY5;
 break;
 case 6:
-M___6 = JZ7Ktd79U5 | nrG4Z;
+
 break;
 case 7:
 F7Jwaf_V = IW49 << ck6Q;
@@ -551,7 +551,7 @@ switch (NTpxE)
 {
 case 'a':
 case 'A':
-e7iWpO = g3DY9 ^ 318415704;
+
 break;
 case 'b':
 case 'B':
@@ -563,7 +563,7 @@ ojauOjO_ = BGMd(-1126447656, -374157748, -1877253347);
 break;
 case 'd':
 case 'D':
-JrfSEJ6KR2 = (int)abs(sfM1);
+
 break;
 default:
 VcfEf2r -= 261349591;
@@ -590,7 +590,7 @@ if (JZ7Ktd79U5 == 0)
 
 }
 
-JZ7Ktd79U5 = vmdAi();
+
 {
 int i = 0;
 while (i < 4)
@@ -607,7 +607,7 @@ else if (Zjr_V367 <= fWisyG0n2)
 }
 else
 {
-JZ7Ktd79U5 = vmdAi();
+
 }
 }
 else if (TJs00k4 >= -1308632623)

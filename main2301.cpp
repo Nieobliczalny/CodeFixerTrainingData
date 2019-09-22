@@ -88,7 +88,7 @@ case 'A':
 
 break;
 default:
-UdSsp4m = (int)abs(dlhT349);
+
 break;
 }
 switch (qc3J)
@@ -99,7 +99,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-Z3Inq = IlKGD0Tt(-888804760, g3o0BDS271, ETHP2M);
+
 break;
 case 'c':
 case 'C':
@@ -114,7 +114,7 @@ cout << qc3J / ya_MfPvW5 << endl;
 switch (xIqaD)
 {
 case 0:
-Z3Inq = (int)abs(w7gL6);
+
 break;
 }
 
@@ -145,7 +145,7 @@ if ((jSP2K2 & BHk_v7) || (F0L0_Cw5q > HrSQZ_c))
 {
 if (bqGywJCJ & NCF63zCK)
 {
-jSP2K2 = (unsigned long long)(B7KD523);
+
 }
 }
 else

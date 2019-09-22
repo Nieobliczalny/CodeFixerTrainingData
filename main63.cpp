@@ -233,7 +233,7 @@ D6sT7sA = (float)(lCjH7Ap7Lk);
 std::cout << "gQ0g9CugA5" << std::endl;
 
 
-ZUz2 = (int)ceil(S7_d_);
+
 for (int i = 9; i >= 0; i--)
 {
 F4I1C = (int)abs(D6sT7sA) * 0;
@@ -250,7 +250,7 @@ case 0:
 
 break;
 case 1:
-C7j1a9 = (int)abs(x573UN);
+
 break;
 case 2:
 rQoI = (int)floor(Ijw2YY);
@@ -262,7 +262,7 @@ case 4:
 
 break;
 case 5:
-aEEw5t = xGCwd8 ^ 1173884707;
+
 break;
 case 6:
 C7j1a9 = (int)abs(x573UN);

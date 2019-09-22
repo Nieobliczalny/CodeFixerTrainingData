@@ -45,7 +45,7 @@ int main(void) {
     long    P13H7x;
     P13H7x    =    340533678;
   double  vmYBXz07P0;
-  vmYBXz07P0  =  -413946508;
+
  long double qLes2k95U8;
  qLes2k95U8 = 157927274;
     long long    VW1MPjp;
@@ -452,7 +452,7 @@ case 'c':
 bweG_3A3A = (int)floor(qLes2k95U8);
 break;
 case 'd':
-dmAH = (int)floor(qLes2k95U8);
+
 break;
 case 'e':
 diws0nTPtM = (int)abs(XOlU3SK) * 0;
@@ -478,7 +478,7 @@ else
 {
 V7CkrN = EaJga(xBad1, VGGP9Vyl) | 415779666;
 }
-vmYBXz07P0 = (double)(p27w + (-373226293));
+
 
 {
 int i = 0;

@@ -924,7 +924,7 @@ while (i < 9);
 }
 if (QqtoCj90Z < GXagUAj)
 {
-xz9FB6 *= 768450087;
+
 }
 else
 {
@@ -970,7 +970,7 @@ case 0:
 
 break;
 case 1:
-aXxkuznSKT += 1133249924;
+
 break;
 case 2:
 xz9FB6 = oB4m0Q / nMl5vD_7;
@@ -1008,7 +1008,7 @@ int i = 0;
 while (i < 3)
 {
 i++;
-F6WcI33G = (int)(oD77S27d);
+
 }
 }
 

@@ -687,7 +687,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-w83t65QH >>= 1329767944;
+
 break;
 case 'e':
 case 'E':
@@ -821,7 +821,7 @@ case 'c':
 aR_PT |= 1435616719;
 break;
 case 'd':
-LCjsX1NY = kx907Da86f * A7wJ77xB;
+
 break;
 case 'e':
 
@@ -846,7 +846,7 @@ else
 int k = 6;
 while (k >= 0)
 {
-LCjsX1NY = G0TDG(167252551, 475179897, -1855866215, -317887325);
+
 k--;
 }
 }

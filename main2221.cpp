@@ -36,7 +36,7 @@ int main()
     unsigned short int    zwaw2D;
 
     unsigned short    wU_3bLX_;
-    wU_3bLX_    =    -1062797537;
+
 	unsigned long	A94_wn;
 	A94_wn	=	-1680098903;
     unsigned int    CDpgq1obAV;
@@ -52,7 +52,7 @@ int main()
   long  L27V_0vZ;
   L27V_0vZ  =  0;
 	unsigned short	DIRZAsZyk;
-	DIRZAsZyk	=	0;
+
     long double    NrxXJO6;
     NrxXJO6    =    -481217715;
     long double    tJzCPGW1O1;
@@ -64,7 +64,7 @@ int main()
  float zOt2ai2;
  zOt2ai2 = 1901492439;
   short  D216_tL4d;
-  D216_tL4d  =  -2057844816;
+
     long double    q76gacY;
     q76gacY    =    -128169583;
  unsigned int P68C2b8_;
@@ -98,7 +98,7 @@ else
 }
 
 QgDA9cv++;
-xwRqH = P68C2b8_ / cmQild;
+
 switch (A94_wn)
 {
 case 0:
@@ -120,7 +120,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-PMl58 ^= 1060652218;
+
 break;
 case 'c':
 case 'C':
@@ -132,7 +132,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-M_bxnQ = (P68C2b8_ < -1397039082) ? 1524356858 : L85TX36C94;
+
 break;
 case 'f':
 case 'F':
@@ -144,7 +144,7 @@ case 'G':
 break;
 case 'h':
 case 'H':
-QgDA9cv = (int)abs(zOt2ai2);
+
 break;
 case 'i':
 case 'I':

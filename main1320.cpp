@@ -347,7 +347,7 @@ case 'h':
 KMhy = (int)floor(a047);
 break;
 case 'i':
-TE1O /= QuSwXhy43;
+
 break;
 }
 
@@ -391,7 +391,7 @@ int i = 0;
 while (i < 1)
 {
 i++;
-Hfp_YQ = (int)ceil(ZMcYvy26b);
+
 }
 }
 
@@ -404,7 +404,7 @@ i++;
 }
 while (i < 4);
 }
-Hfp_YQ = ZTNpCP4nn5(-316349192, EFAvv_, KMhy);
+
 
 aGFm0pdu = (long double)(Kc8R72_);
 
@@ -421,7 +421,7 @@ case 'c':
 BD3WGL = J3ZQEkh6(BD3WGL, xUNLQrP, GwQ9OV9, A046Vo);
 break;
 case 'd':
-SnIkaeqQz = (int)abs(ZMcYvy26b);
+
 break;
 case 'e':
 

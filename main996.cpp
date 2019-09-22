@@ -74,7 +74,7 @@ case 4:
 LSC0pq8 = (int)abs(vEXFR) * 0;
 break;
 default:
-Og524_ = TPXmFeS_pf();
+
 break;
 }
 }
@@ -150,7 +150,7 @@ case 'g':
 
 break;
 case 'h':
-K0z1z2T9 = h2oMCVSE / K0z1z2T9;
+
 break;
 case 'i':
 ofrc04Ll = Gv2w >> 1411979162;

@@ -15,7 +15,7 @@ int main()
   short  cpuO_qkN7;
 
 	double	viirt;
-	viirt	=	-1705943878;
+
     long long    vgiUiAT1Th;
     vgiUiAT1Th    =    0;
  short K3jV;
@@ -45,7 +45,7 @@ int main()
 	short	iG5CM_G;
 	iG5CM_G	=	-37549669;
  long L6de8w1kga;
- L6de8w1kga = 1492668866;
+
 	double	A1Fs10ZW1C;
 	A1Fs10ZW1C	=	-1954653619;
   unsigned long  hQH_zs;
@@ -59,7 +59,7 @@ int main()
  unsigned short ssrH;
  ssrH = -994501918;
     float    A0hxvrDm;
-    A0hxvrDm    =    -128897719;
+
 	unsigned long	HE2guSAO;
 	HE2guSAO	=	0;
  double S_Y50_qu6;
@@ -73,7 +73,7 @@ int main()
 	float	vYTYMp3_1f;
 	vYTYMp3_1f	=	-1832214559;
  float v7IQn2U;
- v7IQn2U = -911921489;
+
     unsigned long long    DY_3;
     DY_3    =    523720700;
 	int	R0_31q3D9;
@@ -117,7 +117,7 @@ int main()
   long double  u5eP_294;
   u5eP_294  =  1405877329;
     unsigned long long    pVjAVn;
-    pVjAVn    =    1365457594;
+
  char c6A5PSPNnW;
  c6A5PSPNnW = -1355317477;
  unsigned int HJ3di;
@@ -129,7 +129,7 @@ int main()
 	float	II6Dv;
 	II6Dv	=	-889330677;
  unsigned int yjZ8Jt_;
- yjZ8Jt_ = -56677018;
+
     unsigned long long    XH_9itfZ1C;
     XH_9itfZ1C    =    -875651745;
  short int tJGF5ThjE;
@@ -144,7 +144,7 @@ if (vgiUiAT1Th == 0)
 switch (UsOf9_)
 {
 case 0:
-XLI15p7MW = c6A5PSPNnW % K5_28c933M;
+
 break;
 case 1:
 
@@ -156,7 +156,7 @@ case 3:
 K3jV = Y4nY1Ql8 & 1975804218;
 break;
 case 4:
-LBMVZj = A1Fs10ZW1C + w0AH;
+
 break;
 case 5:
 r_zFCZB8 = UBIE5pebE | U5_Q;
@@ -167,7 +167,7 @@ break;
 }
 if ((v_hJLHYs == -1618398709) && (K5_28c933M == 1269487389))
 {
-I717Z_ = (long double)(iG5CM_G);
+
 }
 else
 {
@@ -198,7 +198,7 @@ case 7:
 vYTYMp3_1f = (int)ceil(I717Z_);
 break;
 case 8:
-DY_3 /= 505746143;
+
 break;
 }
 }
@@ -216,7 +216,7 @@ case 2:
 UBIE5pebE = g4O9IbPl / HJ3di;
 break;
 case 3:
-VO8uK = XH_9itfZ1C << ESrA50ME2a;
+
 break;
 case 4:
 
@@ -284,7 +284,7 @@ else
 
 }
 
-Y4nY1Ql8 += 1093602479;
+
 
 bCJ4MybC /= 588989376;
 iG5CM_G = (short)(lp980);
@@ -333,7 +333,7 @@ case 1:
 
 break;
 case 2:
-U5_Q = uM56eX & G5S8JAqa;
+
 break;
 case 3:
 S_Y50_qu6 = (int)ceil(u5eP_294);
@@ -357,7 +357,7 @@ case 'a':
 
 break;
 case 'b':
-v_hJLHYs /= 1958015033;
+
 break;
 case 'c':
 vYTYMp3_1f = (int)ceil(A1Fs10ZW1C);

@@ -68,7 +68,7 @@ case 'd':
 
 break;
 case 'e':
-rE841ejw = vfP94mT5T * 156364013;
+
 break;
 default:
 p7oxtoPcgM = j8J9x4X(-2137399632, 1643986864, -1390437214);
@@ -89,7 +89,7 @@ if (((x_7_t2lzE >= 1249824336) && (IC2_9m100)) || (r188O6J <= g5Ln20qINF))
 }
 else
 {
-foa6n *= d0klojzZ;
+
 }
 }
 }

@@ -45,7 +45,7 @@ UivqmGHi_ = H3J_X6 << 802755928;
 }
 }
 
-pA2a6 = (short int)(P89KeCs);
+
 
 switch (wYE65)
 {
@@ -171,7 +171,7 @@ else if (UivqmGHi_ >= -4385994)
 int k = 0;
 do
 {
-i__F7 = lOnEs8u(q8YP_x, 232914575, T9Jt43, -675842821);
+
 ++k;
 }
 while (k < 1);

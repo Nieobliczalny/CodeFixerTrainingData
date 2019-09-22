@@ -242,7 +242,7 @@ case 'a':
 
 break;
 case 'b':
-ucjH9W5WX6 = K5J8Fe9L31(1299039595, -897113219, 1061182641, 95177503);
+
 break;
 case 'c':
 v5P3M = K5J8Fe9L31(ucjH9W5WX6, -312445695, zW4l_B9, v5P3M) / dwz8RQ5;
@@ -254,7 +254,7 @@ case 'e':
 dwz8RQ5 = zW4l_B9 / hahRH_NmH1;
 break;
 case 'f':
-dwz8RQ5 += hahRH_NmH1;
+
 break;
 case 'g':
 
@@ -281,7 +281,7 @@ if (zW4l_B9 <= 1123199743)
 int j = 0;
 while (j < 6)
 {
-hahRH_NmH1 = NhUa9Vk(1690066664);
+
 j++;
 }
 }

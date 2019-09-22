@@ -30,7 +30,7 @@ int main(int argc, char** argv)
 	long	GRO8;
 	GRO8	=	884388107;
   unsigned char  pMzba4f7j;
-  pMzba4f7j  =  287648692;
+
   long double  QZ2fZ9_;
   QZ2fZ9_  =  -230660472;
   long  u2G0Lo2W5;
@@ -44,7 +44,7 @@ int main(int argc, char** argv)
 	long long	C_sUVh;
 	C_sUVh	=	-1964911946;
  int c3Djl;
- c3Djl = 1360382978;
+
  unsigned short int Y94g;
  Y94g = -2093078127;
  float I9LZ;
@@ -80,7 +80,7 @@ int main(int argc, char** argv)
  short int V5KkKd;
  V5KkKd = 1696059153;
 	unsigned long long	XxFIMOR;
-	XxFIMOR	=	406753652;
+
     unsigned long    Fab74_V;
 
   long  hzV_;
@@ -90,7 +90,7 @@ int main(int argc, char** argv)
 	double	VJ7z_2;
 	VJ7z_2	=	-33784661;
   double  y6mFD3;
-  y6mFD3  =  -912492207;
+
     int    Zfg4m_2;
     Zfg4m_2    =    793971920;
   unsigned long long  h9XBDDBi8;
@@ -241,7 +241,7 @@ while (k >= 0);
 cout << vpnx << "l_7X3E" << TTzvmj89j << wOy8O0F << endl;
 vHqe = (char)(V5KkKd);
 y6mFD3 = cKR2DtN3 / dbB2;
-pC130_72ch = df57S9w3S(1870439750, RcL00NIy1);
+
 pMzba4f7j = BJoyI ^ 995574390;
 
 {
@@ -334,7 +334,7 @@ vpnx = (int)floor(VJ7z_2);
 }
 else if (dbB2 & 632933067)
 {
-r0tdJ8nNW = gY396(1430703580, -1075406652);
+
 }
 else if ((hzV_ >= o_6967A) || (wOy8O0F > Zfg4m_2))
 {
@@ -349,7 +349,7 @@ case 1:
 
 break;
 case 2:
-dbB2 = gY396(96621682, C_sUVh);
+
 break;
 case 3:
 u2G0Lo2W5 = (int)abs(BL9B2z6);
@@ -361,7 +361,7 @@ case 5:
 
 break;
 case 6:
-pC130_72ch = (E28Eq_qF > 1666600147) ? Fab74_V : o_6967A;
+
 break;
 case 7:
 TTzvmj89j >>= r04_7;
@@ -388,7 +388,7 @@ cout << qkJGS << endl;
 switch (q6sGpfap)
 {
 case 0:
-cKR2DtN3 = (int)ceil(y6mFD3);
+
 break;
 case 1:
 x15zvH3 = (ONAG2Lf > -1317453561) ? df57S9w3S(132538805, 450354018) : ZN24UP8Q0;
@@ -400,7 +400,7 @@ case 3:
 OQ4w1G4E4_ = df57S9w3S(OQ4w1G4E4_, 2092507047);
 break;
 case 4:
-h9XBDDBi8 <<= Zfg4m_2;
+
 break;
 case 5:
 XxFIMOR = df57S9w3S(2010137489, r04_7);
@@ -415,7 +415,7 @@ case 8:
 VJ7z_2 = q2e_xhhYE << q6sGpfap;
 break;
 case 9:
-Pxl4Yd5L >>= tFBm6O;
+
 break;
 }
 
@@ -450,7 +450,7 @@ case 'c':
 wOy8O0F = (int)floor(ykjZ);
 break;
 case 'd':
-kKGSe = i5T_v / 2042780929;
+
 break;
 case 'e':
 
@@ -462,7 +462,7 @@ case 'g':
 zN1M = gY396(w18Y, tFBm6O);
 break;
 case 'h':
-pMzba4f7j = gY396(w18Y, 1718518166) - 187949071;
+
 break;
 }
 switch (q6sGpfap)
@@ -474,7 +474,7 @@ case 'b':
 BL9B2z6 = (int)floor(wOy8O0F);
 break;
 case 'c':
-tFBm6O = df57S9w3S(233930876, -1764221977);
+
 break;
 case 'd':
 BL9B2z6 = (int)ceil(I9LZ);

@@ -546,7 +546,7 @@ case 3:
 MqDr9yhe = (int)ceil(dr9NE_);
 break;
 case 4:
-L1_E14IPLC = Tgfs << jtazdis;
+
 break;
 default:
 o0A68ay6Jc |= b4VS9;
@@ -593,7 +593,7 @@ MqDr9yhe = (int)ceil(fMxQfN);
 }
 else if ((w64s_6Cr >= 671375398) || (fSQlRBx1))
 {
-g8_n6 = fDL_A_1p14();
+
 }
 else
 {

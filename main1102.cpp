@@ -396,7 +396,7 @@ kZ4x710aM = I7ejz(1419945203);
 }
 else if (px38uZaX < -1794100522)
 {
-YeSJ1O198U = (int)abs(rk0KZ6j);
+
 }
 else
 {
@@ -856,7 +856,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-YeSJ1O198U = (int)ceil(l1e3GBu);
+
 break;
 case 'e':
 case 'E':

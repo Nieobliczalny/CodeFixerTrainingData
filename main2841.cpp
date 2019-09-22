@@ -26,7 +26,7 @@ int main()
  short Bm7Ch_yh;
  Bm7Ch_yh = -1638432954;
  unsigned char c1Wl7C;
- c1Wl7C = -981714271;
+
  unsigned long long G6Fr7A2;
 
   short  Xw36GVNExO;
@@ -50,7 +50,7 @@ int main()
     long long    jSf2Yk60b;
     jSf2Yk60b    =    241560952;
  long double F6P6vK;
- F6P6vK = 567690079;
+
 	long long	RB2670afIY;
 	RB2670afIY	=	-530271143;
 	unsigned int	kur73y0_;
@@ -66,7 +66,7 @@ int main()
  float t___55r;
 
     int    C24LI;
-    C24LI    =    0;
+
  unsigned int p0326IR30;
  p0326IR30 = 158532267;
     unsigned char    yi5O8W;
@@ -76,7 +76,7 @@ int main()
     double    m6nn8;
 
     unsigned long    zwFaE1;
-    zwFaE1    =    968632744;
+
  unsigned short NuFDM1;
  NuFDM1 = 4667525;
 	unsigned short int	LyNn;
@@ -96,7 +96,7 @@ int main()
     unsigned int    K0__X2;
     K0__X2    =    63215478;
  short int L2GQ5C8v;
- L2GQ5C8v = -440122875;
+
  long double ugrB_A;
  ugrB_A = 524619810;
  unsigned short LXB_8ipq;
@@ -128,7 +128,7 @@ int main()
 	short	V0L95O36;
 
     unsigned short    zso_8uR6;
-    zso_8uR6    =    721724496;
+
     short    rZh7;
     rZh7    =    656408988;
 	char	ilW5wC;
@@ -227,7 +227,7 @@ ilW5wC >>= 1768315447;
 break;
 case 'f':
 case 'F':
-PuX671D78p = WMWvE9X4(PuX671D78p, -724343294, n_91P5f05, 1109092169, j6xc475);
+
 break;
 case 'g':
 case 'G':
@@ -259,7 +259,7 @@ for (int k = 0; k < 3; ++k)
 while (i >= 0);
 }
 
-ugrB_A = (int)ceil(o9_8_);
+
 
 for (int i = 0; i < 5; ++i)
 {
@@ -401,7 +401,7 @@ for (int i = 0; i < 7; i++)
 {
 y7beC200 = (short)(ilW5wC * y7beC200);
 }
-y7beC200 = rw_Do8(M5GI0);
+
 
 {
 int i = 0;
@@ -430,7 +430,7 @@ while (i < 2)
 }
 for (int i = 0; i < 4; ++i)
 {
-IHE0TD_f = (short int)(UE8fXv6);
+
 }
 
 return 0;

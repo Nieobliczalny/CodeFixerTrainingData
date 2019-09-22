@@ -728,7 +728,7 @@ case 2:
 
 break;
 case 3:
-sf_2Q3G ^= 1189921802;
+
 break;
 case 4:
 idht = (qu7kD7VC >= JfXKV2hcL_) ? U7HE1 : 355108609;

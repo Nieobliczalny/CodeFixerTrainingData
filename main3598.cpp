@@ -30,7 +30,7 @@ unsigned long long	z0781C25T1(long	Ph2kt)	{
 
 int main(int argc, char** argv) {
     long long    OUJ2,    T923,    flDG1t1CLC,    t4O79H2jmf,    j7h4,    F7IX,    Vd8v2A,    P81DoFb,    bD03V83_2Y,    obD1Qr,    SejWjYoKN,    EZYQkk5__,    xI0g4C,    Z5xSOYA_,    Wh4v,    iYso7B0f1,    FEFykPL5kf,    WqRAdNh9Gn,    mVj_708H,    qyVg6D,    HTvDz,    Rl1r8h6B_c,    wqONG70,    jKjS_K1,    nz3J6EX2,    cCPHGb9C4q,    CooC6,    D5y7t3,    qZW0_W40D7,    nkE53c__a,    pZGei0,    Dk0_v,    l4K0U,    Cq5JHY,    YTx7Q,    M9AZY0V_,    A59rHz,    Lamw8lrv1,    LPKWvML,    iN72,    k_F_N2O,    ySLtfFt3v,    arsxli1b3m,    p872_8f3LE,    bcu6F,    O7TW,    WyR080D7U,    qN_vVtA,    DQobL568,    pbLpw,    fj_SxQ,    OhkhnY9,    z1210Ca,    Tue6z,    aX2x,    m1Rsn2k2,    p6mkgXo6;
-    OUJ2    =    375596415;
+
     T923    =    -584856545;
     flDG1t1CLC    =    470041992;
     t4O79H2jmf    =    -1784134286;
@@ -55,7 +55,7 @@ int main(int argc, char** argv) {
     wqONG70    =    -1917791199;
     jKjS_K1    =    -724661231;
     nz3J6EX2    =    -958451989;
-    cCPHGb9C4q    =    -1106019283;
+
     CooC6    =    -1598997947;
     D5y7t3    =    2108992636;
     qZW0_W40D7    =    -1746693307;
@@ -269,7 +269,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-Dk0_v = p872_8f3LE + F7IX;
+
 break;
 case 'c':
 case 'C':
@@ -285,7 +285,7 @@ else
 switch (iYso7B0f1)
 {
 case 0:
-P81DoFb = nz3J6EX2 ^ 1668676241;
+
 break;
 case 1:
 t4O79H2jmf = t4O79H2jmf + Rl1r8h6B_c;
@@ -446,7 +446,7 @@ iN72 |= Wh4v;
 break;
 case 'e':
 case 'E':
-p6mkgXo6 = e_5JIT3(p6mkgXo6);
+
 break;
 case 'f':
 case 'F':
@@ -477,7 +477,7 @@ if (t4O79H2jmf & LLTl50qBe)
 }
 else if ((Cq5JHY == -1325130471) && ((LPKWvML >= OhkhnY9) && (m1Rsn2k2 == LLTl50qBe)))
 {
-P81DoFb &= 1904900308;
+
 }
 else if (((iN72 <= BJYuU3Sa) && (WqRAdNh9Gn)) || (bcu6F <= 2002124049))
 {
@@ -504,7 +504,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-p6mkgXo6 = (int)abs(A59rHz);
+
 break;
 case 'd':
 case 'D':
@@ -533,7 +533,7 @@ else
 }
 else if (F7IX & -1804273613)
 {
-xq7_6 = z0781C25T1(-33271902);
+
 }
 else
 {
@@ -554,7 +554,7 @@ for (int k = 0; k < 10; ++k)
 }
 }
 
-ek3J = z0781C25T1(jKjS_K1);
+
 
 if (pbLpw <= BJYuU3Sa)
 {
@@ -588,7 +588,7 @@ j++;
 }
 if ((aX2x) && ((M9AZY0V_ >= t4O79H2jmf) || (Tue6z >= -576554731)))
 {
-T923 = xI0g4C / 1992103988;
+
 }
 else
 {

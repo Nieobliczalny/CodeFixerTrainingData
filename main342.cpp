@@ -619,7 +619,7 @@ else if ((InJel == 1629132003) || (Wd0l67 & dU63gA))
 switch (pg4_MQoT8)
 {
 case 'a':
-K2abR1ABl &= 1556220158;
+
 break;
 case 'b':
 Kgr9DAYl = (U48vZ62HD < -1935362257) ? -451400732 : EXD_Y_d8g7;
@@ -676,7 +676,7 @@ sOzV3 = (int)abs(dU63gA);
 }
 else if (UEp9umLg > VI5Z)
 {
-VI5Z = B2t39m_D % SUHN;
+
 }
 else if (UEp9umLg > B2t39m_D)
 {

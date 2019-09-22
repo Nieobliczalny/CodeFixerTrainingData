@@ -318,7 +318,7 @@ h_i_ += m2IX6C_f;
 }
 else if ((PSxJ != 1251085160) || (w0tw >= -152200297))
 {
-V_g0X7dl = z6En78();
+
 }
 else if (P5CrW7P3D > 1811560965)
 {
@@ -451,7 +451,7 @@ case 7:
 J9445_hC = r135i * x_GOQ;
 break;
 case 8:
-V_g0X7dl = (int)abs(w0tw);
+
 break;
 case 9:
 J9445_hC = (int)ceil(ozqS_9);

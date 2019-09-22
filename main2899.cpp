@@ -520,7 +520,7 @@ else if (LD23n_t4F9 >= -2046350313)
 }
 else
 {
-EPnRL6_O = (int)abs(ze5nc_b);
+
 }
 j++;
 }
@@ -541,7 +541,7 @@ else
 int j = 0;
 do
 {
-Te0osz = (int)ceil(LD23n_t4F9);
+
 ++j;
 }
 while (j < 9);

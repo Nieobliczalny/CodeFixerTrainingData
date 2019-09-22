@@ -17,7 +17,7 @@ int main(void)
 	PzDg1H	=	-1583512862;
 
 	Am95Cs	=	157637710;
-	wrlD044rU	=	-1492736350;
+
 	JH6uJ	=	-820054100;
 	qB4A22v	=	157254502;
 	w_S8I_C4KI	=	1004967832;
@@ -36,7 +36,7 @@ int main(void)
 
 	c05_YP3ku	=	-1100463072;
 	eam_L_bMCs	=	-1221244947;
-	VQGR_d01B	=	-114553820;
+
 	lf9_	=	-911401402;
 	qSIeOIM0	=	906817255;
 	qF02u5_lF_	=	599023379;
@@ -47,7 +47,7 @@ int main(void)
 	mW2E	=	1805384351;
 
 	AHndI1g	=	-152078903;
-	tIM2_	=	1524566263;
+
 	yaU6	=	-708954037;
 	VH0w	=	161399371;
 	zt_0A6HUZh	=	2011653337;
@@ -58,7 +58,7 @@ int main(void)
 	G4x0	=	1374613051;
 	FA1xqU	=	-2084845365;
 
-	Ke2Id_o6v	=	1579700994;
+
 	AWnLGR0	=	-902917244;
 	pNB62H	=	1255922968;
 	HwkuR	=	-1398161741;
@@ -69,7 +69,7 @@ int main(void)
 	IIBj	=	494360744;
 
 	jWmdc9s5Vj	=	2137165990;
-	qph0s	=	813829623;
+
 	jbFw__	=	670145770;
 	lt911_0M	=	-585491730;
 	jc5H	=	-456139059;
@@ -79,7 +79,7 @@ int main(void)
 	hCI6G9	=	430574074;
 	wdVzfIKTo	=	-1144266211;
 	qZm5	=	1853374526;
-	c0no4_19GI	=	33020676;
+
 
 	C5Y0	=	-290620981;
 	W27b1Z1	=	-1566808265;
@@ -93,7 +93,7 @@ int main(void)
 	Y5ZSy66	=	-1032727711;
 	lSt68	=	-1934509471;
 
-	P__ay	=	-1278409760;
+
 	oui4_SDC1	=	-881066703;
 	qOaocRgD1Y	=	74396893;
 	SwXIpC	=	-1521428454;
@@ -135,7 +135,7 @@ case 3:
 qOaocRgD1Y = (int)floor(Am95Cs);
 break;
 case 4:
-AWnLGR0 = (EQ3u_3S == -168257958) ? 483842428 : Y5b869K0;
+
 break;
 default:
 jbFw__ = (int)abs(jc5H);
@@ -178,7 +178,7 @@ case 0:
 
 break;
 case 1:
-qph0s = (l0335W != Y5b869K0) ? q6HR1 : A60M9C;
+
 break;
 case 2:
 FA1xqU *= G0j0;
@@ -203,7 +203,7 @@ W27b1Z1 = (int)ceil(QZ3P0p);
 }
 }
 }
-lSt68 *= PkZSgmYc;
+
 
 {
 int i = 1;
@@ -261,7 +261,7 @@ else
 int k = 0;
 while (k < 1)
 {
-CK2VRv = O_6G % 597016430;
+
 ++k;
 }
 }
@@ -308,7 +308,7 @@ qOaocRgD1Y = (rM4Q5 >= EaZddmt3a) ? w_S8I_C4KI : -1473580303;
 }
 else if ((i7OE2Z6H == -344767156) || ((bO2j0B > MmON9e22) || (ZXbbXU3 & 842379121)))
 {
-IyK7 *= mu5UTTyB;
+
 }
 else if (yaU6 == Y5b869K0)
 {
@@ -320,7 +320,7 @@ G0j0 += 1822431609;
 }
 for (int i = 10; i >= 0; i--)
 {
-l0335W = (long double)(O_6G);
+
 }
 if (PkZSgmYc != 1745319752)
 {
@@ -402,7 +402,7 @@ lt911_0M = (int)abs(ILBX4RElh);
 break;
 case 'd':
 case 'D':
-J_U4 = (int)floor(qF02u5_lF_);
+
 break;
 case 'e':
 case 'E':
@@ -426,7 +426,7 @@ case 'I':
 break;
 case 'j':
 case 'J':
-q6HR1 = QZ3P0p * 1293549157;
+
 break;
 default:
 SwXIpC = (int)ceil(zt_0A6HUZh);

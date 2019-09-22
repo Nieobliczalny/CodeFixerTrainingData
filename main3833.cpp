@@ -113,7 +113,7 @@ int main(void)
 	unsigned short	Sodl_	=	1569004849;
 
 
-vA__Z3 = (unsigned int)(Lcu2ph);
+
 
 if (((N4O4Iv_K0T < 477658191) && (OI12FNJ & 117767106)) || (uwdZ > 1362253728))
 {
@@ -317,7 +317,7 @@ case 'a':
 
 break;
 case 'b':
-GJ0C3dPU = (IlGS > fseeb) ? -1238488956 : IKKmev_9Ga;
+
 break;
 case 'c':
 eqF0 = (int)ceil(Cl26Qsq);

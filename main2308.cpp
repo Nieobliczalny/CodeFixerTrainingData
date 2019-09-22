@@ -24,7 +24,7 @@ int main(int argc, char** argv) {
  unsigned char YW2yh2f;
  YW2yh2f = -1264083047;
  unsigned char bdmQV26yzS;
- bdmQV26yzS = 568632657;
+
     short    f3Bftgn6s;
     f3Bftgn6s    =    -1120230636;
     long    pccZ57;
@@ -44,7 +44,7 @@ int main(int argc, char** argv) {
   unsigned char  w5Ft0Qn16;
   w5Ft0Qn16  =  -18248897;
  short K0fT283;
- K0fT283 = -461403352;
+
 	unsigned int	eDzB1No_g;
 	eDzB1No_g	=	-1254241894;
   long double  eoEq7qWW;
@@ -62,7 +62,7 @@ int main(int argc, char** argv) {
     char    VyT1;
 
 	unsigned short	PakY5oze;
-	PakY5oze	=	1037467165;
+
  double vVkuz7X;
  vVkuz7X = -1580779122;
     unsigned short int    p_Ry;
@@ -82,7 +82,7 @@ int main(int argc, char** argv) {
  float mK2vm3Pyl;
  mK2vm3Pyl = 1481720013;
  unsigned short int iw1qLe;
- iw1qLe = -1046514919;
+
   long double  ea63g__;
   ea63g__  =  1736959520;
   unsigned char  QL5Z;
@@ -227,7 +227,7 @@ else
 {
 if (((uMK2RfYu <= PK06m687Q) || (eDzB1No_g >= ka8_3eej)) && (eFi7 >= 906460964))
 {
-faiZDX757 = (unsigned int)(ea63g__);
+
 }
 else if ((ea63g__ >= -371097015) && (T7JZ29T6_N == fkz8))
 {
@@ -285,7 +285,7 @@ EOHGCvAaa = MQIM8am4(-1250519891, AUq15T42, 2041093689, 1020744945);
 break;
 case 'd':
 case 'D':
-QrY4Y *= Hxof;
+
 break;
 }
 }
@@ -417,7 +417,7 @@ case 3:
 
 break;
 case 4:
-F6G_lCR9 = (int)abs(M95ZlcfyX2);
+
 break;
 case 5:
 Hxof = ust96d(642392979, 422368237, -1406307135, yx_g9, 146381372);
@@ -433,7 +433,7 @@ case 8:
 break;
 }
 
-F6G_lCR9 = PYEMR5AW % 1573884654;
+
 
 std::cout << B02dtg_CZ0(1959029461) << MQIM8am4(655278782, KBJanm3TG1, uMK2RfYu, yx_g9) << "zHpclK" << MQIM8am4(Hxof, KBJanm3TG1, uMK2RfYu, 171906352) << ust96d(Hxof, 1805532446, 826921401, yx_g9, p_Ry) << std::endl;
 
@@ -498,7 +498,7 @@ EOHGCvAaa = (unsigned long long)(Lq8A51DO * EOHGCvAaa);
 
 try
 {
-Wf2eoFRTg = (short int)(faiZDX757);
+
 }
 catch (int& errorCode)
 {
@@ -524,7 +524,7 @@ case 0:
 
 break;
 case 1:
-ka8_3eej = lup1j63 ^ S4_e4i;
+
 break;
 case 2:
 mK2vm3Pyl = B02dtg_CZ0(1413154837) | 624562345;
@@ -536,7 +536,7 @@ case 4:
 
 break;
 default:
-EOHGCvAaa = MQIM8am4(-2141121072, M95ZlcfyX2, O_J68D5W, wt9068EDvH);
+
 break;
 }
 

@@ -491,7 +491,7 @@ else if ((pBRZCF3l5B != m8Dt9uR) || (mH45q86o5))
 switch (XjIio221)
 {
 case 0:
-pBRZCF3l5B &= 668807992;
+
 break;
 case 1:
 m8Dt9uR++;
@@ -573,7 +573,7 @@ mH45q86o5 = (int)floor(B_R5i1j0_);
 break;
 case 'c':
 case 'C':
-cXz5x11R3 /= 500277402;
+
 break;
 case 'd':
 case 'D':

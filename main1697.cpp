@@ -43,7 +43,7 @@ int main() {
 
     W27INR    =    1552739115;
     OR4K1    =    1399882518;
-    hN38K    =    -1954827963;
+
     nzUp20aZUb    =    -532519693;
     rhGh    =    2053685183;
     wjcY    =    -1870235404;
@@ -53,7 +53,7 @@ int main() {
     ldHr52czzv    =    871268574;
 
     vHNl7ecv    =    623128713;
-    Cr07bj    =    -1677367826;
+
     AJhn    =    366741520;
     C9nt    =    -129696164;
 
@@ -219,7 +219,7 @@ k--;
 for (int i = 0; i < 192; i++)
 {
 
-	ueOYf = ldHr52czzv / i;
+
 {
 int i = 1;
 while (i >= 0)
@@ -248,7 +248,7 @@ else
 Lrlp6w = (long long)(vEqe);
 }
 }
-OR4K1 >>= bHSLfp_Bv7;
+
 
 if (wZ112kTT >= -1638909899)
 {
@@ -260,7 +260,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-XqydmU = Lrlp6w & 1120524317;
+
 break;
 case 'c':
 case 'C':

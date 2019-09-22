@@ -374,7 +374,7 @@ case 3:
 XppaO_ = (int)abs(w_D24YOf);
 break;
 case 4:
-K9jov9e665 = coQp1If % 1568780857;
+
 break;
 case 5:
 Hmx9t7u8xN = HARt_330();
@@ -530,7 +530,7 @@ case 'F':
 break;
 case 'g':
 case 'G':
-WfVTG -= 750787645;
+
 break;
 case 'h':
 case 'H':

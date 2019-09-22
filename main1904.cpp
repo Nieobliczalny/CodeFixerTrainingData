@@ -311,7 +311,7 @@ try
 switch (hbW4n)
 {
 case 0:
-UnXHw75XmF = T203DyGBrY & j6XQ6Zyn;
+
 break;
 case 1:
 
@@ -351,7 +351,7 @@ else if (((vli76D == Uon7ZVA8) && (T203DyGBrY != 2016772372)) && (N8T_gKK7H5 & I
 }
 else
 {
-BzQ8_I = (unsigned short)(an04hmG);
+
 }
 return 0;
 }

@@ -151,7 +151,7 @@ std::cout << "se7N958" << std::endl;
 }
 else if (edWf)
 {
-JbgjJXQ_ = (int)floor(v9EuJsjWr9);
+
 }
 else if (R1355a == 1499669816)
 {
@@ -224,7 +224,7 @@ int j = 4;
 while (j >= 0)
 {
 j--;
-hh0_OM = (float)(BP7DxSEHs);
+
 }
 }
 }
@@ -466,7 +466,7 @@ int k = 4;
 do
 {
 --k;
-F_m1 = (int)abs(F72xSMQXe);
+
 }
 while (k >= 0);
 }
@@ -523,7 +523,7 @@ case 3:
 
 break;
 default:
-bqT3x94V_ = u6bOd / 1728991133;
+
 break;
 }
 }
@@ -562,7 +562,7 @@ case 'a':
 n10d = (int)abs(aGGwFpgr);
 break;
 case 'b':
-F_m1 = (int)ceil(PVuOOi69);
+
 break;
 case 'c':
 msC2JT *= 1800775759;
@@ -618,7 +618,7 @@ case 'G':
 break;
 case 'h':
 case 'H':
-YIWT3v = PVuOOi69 * h0b4y;
+
 break;
 case 'i':
 case 'I':
@@ -654,7 +654,7 @@ if ((Ou02 > 1856754731) || (cMrU45vBRO))
 }
 else
 {
-A5R6lHD *= 873450427;
+
 }
 }
 else if (EFGe >= CiQqL)
@@ -682,7 +682,7 @@ else if ((wn4hFLDv <= -109559355) || (T749Inp != -1223310177))
 }
 else
 {
-pYymI = (int)abs(n5Iff38h);
+
 }
 }
 
@@ -760,7 +760,7 @@ case 'c':
 Fs80_i96 += V7HBs5Pr;
 break;
 case 'd':
-g9GytL = (int)ceil(cgmK0075DI);
+
 break;
 default:
 KMTw2g1n2F *= rw75;
@@ -773,7 +773,7 @@ case 0:
 
 break;
 case 1:
-DYJx = AWeh3v * Ssr02V;
+
 break;
 case 2:
 yVH1V7r = QGP35q & 436241410;
@@ -785,7 +785,7 @@ case 4:
 
 break;
 case 5:
-NKE8VYV9 = o755_D4_5y - 413868482;
+
 break;
 case 6:
 u6bOd = (int)abs(QJ8NiS49kB);
@@ -800,7 +800,7 @@ break;
 switch (uIoL)
 {
 case 'a':
-sEH456 = (int)ceil(JH9I81q);
+
 break;
 case 'b':
 rNC5MLU *= ZIb8;
@@ -812,7 +812,7 @@ case 'd':
 tGgw = (int)abs(mJyYcH20DG);
 break;
 case 'e':
-kZikZyJ *= 292032573;
+
 break;
 case 'f':
 EY606oE -= 1476667256;
@@ -825,7 +825,7 @@ for (int j = 0; j < 2; ++j)
 {
 if (n10d)
 {
-f6S7563 = (int)ceil(gA95a_9J);
+
 }
 else if (((PVuOOi69 >= QJ8NiS49kB) && (j909 <= -1586042017)) && ((qY3B8b7j4 == -2018547774) && (GQI6pk77y9 > mKgmH)))
 {
@@ -837,7 +837,7 @@ ZIb8 = edWf * 1563866930;
 }
 else if (((zwUU9_xcOk == -755819474) || (A_FJ != Ssr02V)) && (dzSea >= 1899693800))
 {
-Y7rx8z = q8o8 * 1174499455;
+
 }
 else if (n10d != 1441710857)
 {

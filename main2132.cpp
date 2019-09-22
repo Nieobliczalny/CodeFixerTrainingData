@@ -255,7 +255,7 @@ case 'e':
 DEJS710B = (int)floor(gmT493t);
 break;
 case 'f':
-yRAY_ = (int)abs(SBgzac_k8E);
+
 break;
 case 'g':
 uc2i = MqIcO(HkGQ0x, 93070308, Ls4QDO, -143644992, ERp8ha_9rZ);
@@ -286,7 +286,7 @@ case 2:
 
 break;
 case 3:
-DEJS710B = (int)ceil(TQ_5Ye);
+
 break;
 case 4:
 Cn9ptq_1O = y1ru95g(-1223307049, 2038187924, -1420187714, 271135580, bE2LzEP9);
@@ -339,7 +339,7 @@ catch (int& errorCode)
 Ls4QDO *= 492285567;
 }
 
-f0g87 = (int)floor(cJJyaN_d);
+
 
 try
 {
@@ -355,7 +355,7 @@ case 'a':
 
 break;
 case 'b':
-DEJS710B = y1ru95g(DEJS710B, p85ov0Cu, bE2LzEP9, EtFVtFCyB, 634081057);
+
 break;
 case 'c':
 D7vrG = (int)floor(TQ_5Ye);

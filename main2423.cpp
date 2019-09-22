@@ -27,7 +27,7 @@ int main(void) {
     I3QkA    =    1899686018;
     h2sNQy    =    636428981;
     Uo68fd    =    -618899867;
-    YmO5_    =    1337292125;
+
     DAk3AwjuTJ    =    -787301784;
     Ahopf    =    265312078;
     uvmND0vZc    =    -1142776143;
@@ -304,7 +304,7 @@ while (k < 4);
 }
 else if (dLCl)
 {
-O7c80 = (int)floor(fAp8F083);
+
 }
 else
 {
@@ -413,7 +413,7 @@ if (D5Qv >= Md3Ac)
 }
 else
 {
-uvmND0vZc /= 1859970414;
+
 }
 }
 }

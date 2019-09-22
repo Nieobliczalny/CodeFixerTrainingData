@@ -45,7 +45,7 @@ int main() {
 	double	JyGfvOk;
 
     unsigned short int    Oo79;
-    Oo79    =    1043977458;
+
   long long  lp_L;
   lp_L  =  969361579;
 	double	E137Aw;
@@ -57,7 +57,7 @@ int main() {
 	float	mLG05P1ng;
 	mLG05P1ng	=	684553257;
   char  L7x6fRN;
-  L7x6fRN  =  -1893206454;
+
 	unsigned long long	OW7_5;
 	OW7_5	=	0;
  float La_zl_b;
@@ -81,7 +81,7 @@ int main() {
 	unsigned long	fke0Mr64yE;
 
 	unsigned long	rR6CY_atI;
-	rR6CY_atI	=	0;
+
   float  Ms1n3n2ly;
   Ms1n3n2ly  =  -143233559;
   char  z9y88;
@@ -97,7 +97,7 @@ int main() {
  unsigned long long w6m72jG1D;
  w6m72jG1D = -507666844;
     short int    x0DW;
-    x0DW    =    2060759769;
+
   unsigned long long  P139epY657;
   P139epY657  =  -1310867766;
   unsigned long  Kh2kr8V62S;
@@ -107,7 +107,7 @@ int main() {
   unsigned long  a6qK7_00;
   a6qK7_00  =  0;
  short kbB6Tml;
- kbB6Tml = 152404824;
+
     double    ih65tJ802;
     ih65tJ802    =    -835022049;
     long double    xjPN3;
@@ -139,7 +139,7 @@ int main() {
     short int    Q_Bo8PVnQ;
 
     long double    dz317;
-    dz317    =    -1827217127;
+
 	unsigned int	G1MhHan;
 	G1MhHan	=	-2131790403;
 	int	P8_7_M;
@@ -151,7 +151,7 @@ x2f5 = bPsuc87Ai(x2f5);
 }
 try
 {
-g4tdv = bPsuc87Ai(Hk442M592h);
+
 }
 catch (int& errorCode)
 {
@@ -271,7 +271,7 @@ for (int k = 0; k < 4; k++)
 }
 else if (FU6sz & -286757938)
 {
-Oo79 = (unsigned short int)(U0mgp + (-1715579490));
+
 }
 else if (YZC74Hg > -2125161031)
 {
@@ -315,7 +315,7 @@ try
 switch (VB1GXfEchj)
 {
 case 'a':
-k__WM4 = (int)floor(ih65tJ802);
+
 break;
 case 'b':
 
@@ -358,7 +358,7 @@ case 'b':
 
 break;
 case 'c':
-BW9bI &= R44s34F7;
+
 break;
 case 'd':
 s62l6_ = bPsuc87Ai(-1243185448);
@@ -373,7 +373,7 @@ case 'g':
 a6qK7_00 = wHzD2Lu3(FK8_D, -980667403, -1755707424);
 break;
 }
-ZHdFwHDbY = Z0948ng - 1934705733;
+
 
 for (int i = 0; i < 1; ++i)
 {
@@ -401,7 +401,7 @@ switch (fAK5L_Fy)
 {
 case 'a':
 case 'A':
-mLG05P1ng /= RFiMNIwR_S;
+
 break;
 case 'b':
 case 'B':
@@ -417,7 +417,7 @@ lmGxa9 = bPsuc87Ai(-1944652781);
 break;
 case 'e':
 case 'E':
-OmcxAn15 ^= s62l6_;
+
 break;
 default:
 

@@ -115,7 +115,7 @@ case 'e':
 rRJEhz = Yuf07WhC8i(rRJEhz);
 break;
 case 'f':
-f4IGvoHH = G29PJh + 1079735134;
+
 break;
 default:
 D_7U >>= r59_9;
@@ -132,7 +132,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-Tv5yt = rpUZ_ & 1669985493;
+
 break;
 case 'c':
 case 'C':

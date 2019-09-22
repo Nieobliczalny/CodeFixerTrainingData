@@ -43,7 +43,7 @@ int main(int argc, char** argv) {
     long double    vi4qB0J;
     vi4qB0J    =    -48561929;
     unsigned char    j_mW;
-    j_mW    =    1222104288;
+
     long    E753;
     E753    =    -640554123;
  long double THYQfJA;
@@ -163,7 +163,7 @@ int main(int argc, char** argv) {
 	unsigned long long	N9jvC;
 	N9jvC	=	1198776349;
     int    Zq1J8Ew0Md;
-    Zq1J8Ew0Md    =    -281720632;
+
   unsigned int  eFV_X3VN;
   eFV_X3VN  =  1372054330;
  unsigned long long hx0m7F;
@@ -240,7 +240,7 @@ d1tQ = ZpqW9T34_ ^ 1255188840;
 }
 else if (ZpqW9T34_ < 646115868)
 {
-vi4qB0J = (int)floor(e_111Gyt2w);
+
 }
 else if ((VfGe != BXx1) || (wq2z_wfK < a_rvw7K0))
 {
@@ -295,7 +295,7 @@ oHuGs = CD2_v3(-835659913, r4r6i, E753, -1960437022, VfGe);
 }
 else if ((CIg8 & B4u97) || ((LfYg0) && (R_Ci5 == K11_9kG_)))
 {
-vi4qB0J = (int)abs(B57i);
+
 }
 else
 {
@@ -326,7 +326,7 @@ else
 switch (p5Ms)
 {
 case 0:
-VfGe = DNf1 - 1703218856;
+
 break;
 }
 }
@@ -445,7 +445,7 @@ r4r6i = (int)floor(THYQfJA);
 }
 }
 
-kPmNS = wF9JYa_J + aZaJ9;
+
 
 e_111Gyt2w = (long double)(K11_9kG_ + (B4u97));
 
@@ -479,7 +479,7 @@ case 2:
 uMuIXEAn6--;
 break;
 case 3:
-v36jD = dr0N(1137496950, qGZgq_39, -1331746036, 308220904);
+
 break;
 case 4:
 vi4qB0J = (int)floor(Q5jcZ8YqA);
@@ -526,7 +526,7 @@ for (int j = 0; j < 1; j++)
 {
 if (T8q562jhWW != K1m6JP39)
 {
-VfGe = ql9iuU5_9 | 546941617;
+
 }
 else
 {
@@ -536,7 +536,7 @@ GZ7GaJao = (int)abs(sssp5423);
 }
 else if (GZ7GaJao >= FRXC1)
 {
-vi4qB0J = (int)abs(WaJ50TB);
+
 }
 else if (((v36jD >= B4u97) && (cTDf5 == K11_9kG_)) && (kBkIsQZ == B4u97))
 {
@@ -613,7 +613,7 @@ do
 j--;
 try
 {
-vi4qB0J = (int)ceil(THYQfJA);
+
 }
 catch (int& errorCode)
 {
@@ -634,7 +634,7 @@ int k = 3;
 while (k >= 0)
 {
 --k;
-vi4qB0J = (int)floor(Lhncj);
+
 }
 }
 j++;
@@ -657,7 +657,7 @@ case 2:
 
 break;
 case 3:
-Be44 = CD2_v3(Be44, 572786631, -835768372, -1120003433, CIg8);
+
 break;
 case 4:
 OjZZo += 499151685;
@@ -675,7 +675,7 @@ break;
 }
 else
 {
-tvFgPsNcy = (unsigned short int)(K5VeVBvz3);
+
 }
 
 switch (BXx1)
@@ -698,7 +698,7 @@ gXDc--;
 break;
 case 'e':
 case 'E':
-Ow0x33Ij -= sssp5423;
+
 break;
 case 'f':
 case 'F':
@@ -710,7 +710,7 @@ case 'G':
 break;
 case 'h':
 case 'H':
-v36jD = dr0N(-807308199, -730876671, Lhncj, WaJ50TB);
+
 break;
 case 'i':
 case 'I':

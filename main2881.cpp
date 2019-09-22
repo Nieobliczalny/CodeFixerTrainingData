@@ -70,7 +70,7 @@ GDr2r *= nP0wWi_K2;
 
 std::cout << "vQgcDtMD" << qhne7c << std::endl;
 
-Pk1Ci_zr = t_VKL5hty(-1057493133, -2084856605) << 357487769;
+
 h27uNDNO8_ = t_VKL5hty(228267163, 501068885);
 z_6GO = t_VKL5hty(y0kgv, SyVns0) / QNcK81;
 
@@ -100,7 +100,7 @@ int j = 7;
 do
 {
 j--;
-iY_Q = (int)ceil(nrkpA);
+
 }
 while (j >= 0);
 }
@@ -117,7 +117,7 @@ if (GnJvKV <= R_Q9LwP)
 }
 else
 {
-fx7G51_7x = (int)ceil(O98Bt);
+
 }
 j++;
 }
@@ -139,7 +139,7 @@ case 1:
 
 break;
 case 2:
-SFlt = (int)abs(VxbRnkSx);
+
 break;
 case 3:
 U1ehx1jr /= at_8FuS6;
@@ -158,7 +158,7 @@ for (int k = 0; k < 1; k++)
 }
 }
 
-GnJvKV = t_VKL5hty(-1201181660, -941502150);
+
 return 0;
 }
 

@@ -30,7 +30,7 @@ int main(void)
 	Uk81	=	2123720990;
 	U53r	=	-1548119551;
 	h370N5	=	577682501;
-	ZAww_	=	-1295065796;
+
 	Ce1f7u	=	1171230632;
 	oP_Oe	=	-31119103;
 	H0gHL0gbA5	=	-668955030;
@@ -47,7 +47,7 @@ int main(void)
 	fsa278ZA	=	45184074;
 	jUgnS75g	=	236419496;
 	r_yTSN	=	-828319410;
-	kXAt	=	998691241;
+
 	sHScf0T	=	-1240658661;
 	eJLml31	=	-1112785392;
 	LkyTnu	=	212258194;
@@ -64,7 +64,7 @@ int main(void)
 	LmV8C20s39	=	-588842581;
 	W__5z4_	=	-459842109;
 	Yw32E0968C	=	137562909;
-	T0GJ9M	=	-156744640;
+
 	P7s7yo	=	-162038808;
 	T9rnm	=	249799556;
 	jiN3AOJ7mr	=	-72701312;
@@ -80,7 +80,7 @@ int main(void)
 	oecTT60V	=	-1587836084;
 	lG9aq	=	1671820809;
 	T1xFl3Zp	=	1470058844;
-	WNkSqQR8pD	=	-1378219110;
+
 	yaeT	=	-1245958845;
 	B56PcQa	=	1254042097;
 	Xfxj	=	1884749229;
@@ -94,7 +94,7 @@ int main(void)
 
 	n579Zuf7r	=	783369790;
 	O_g8	=	1816124973;
-	d_3t4Y91	=	-1599835326;
+
 	kAwENCgZD	=	74762584;
 	kdMkk37W	=	-443545359;
 	eO_V_3h	=	596439417;
@@ -194,7 +194,7 @@ vZ1o5CVsF = FyyK7ap2(vZ1o5CVsF, J1yk_24Kp, fsY4, 1399828896, 1619645224);
 break;
 case 'b':
 case 'B':
-Ce1f7u = NcU3X7Qq3B(-736142453, 1087657004, -1773289760, sHScf0T);
+
 break;
 case 'c':
 case 'C':
@@ -230,7 +230,7 @@ break;
 }
 if (xao1c3oPu7 & pIBp)
 {
-Ce1f7u = (oP_Oe > -661021440) ? B56PcQa : k96sn;
+
 }
 else if (jiN3AOJ7mr >= 1397927936)
 {
@@ -248,7 +248,7 @@ k--;
 }
 else
 {
-My8S <<= 281449893;
+
 }
 
 if (fEz4_2E == AYUH1h)
@@ -357,7 +357,7 @@ case 1:
 
 break;
 case 2:
-pO_UWxJSK8 = (int)abs(kAwENCgZD);
+
 break;
 case 3:
 T0GJ9M = (int)abs(LkyTnu);
@@ -411,7 +411,7 @@ fsY4 = O8IlQf45 / D45ARH0n_;
 
 for (int i = 0; i < 8; ++i)
 {
-WNkSqQR8pD = (short)(h370N5);
+
 }
 if ((d28uU45) && (VQ2l55wGr))
 {
@@ -503,7 +503,7 @@ LmV8C20s39 = hh32(1411467269, oecTT60V, -2078950857, -1161872520, -874268962);
 }
 }
 
-P1khP_N4G2 = (short)(O8IlQf45);
+
 
 switch (B56PcQa)
 {
@@ -523,7 +523,7 @@ case 'e':
 
 break;
 case 'f':
-sHScf0T = Y3u_f / W__5z4_;
+
 break;
 default:
 gduy7NdA3D++;
@@ -550,7 +550,7 @@ if (jUgnS75g < -660836527)
 }
 else
 {
-d_3t4Y91 = CPa68d3 | 2109195621;
+
 }
 for (int i = 0; i < 1; ++i)
 {

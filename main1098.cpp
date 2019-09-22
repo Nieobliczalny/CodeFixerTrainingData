@@ -23,7 +23,7 @@ int main()
 	short	Knp_G5v;
 	Knp_G5v	=	-1021940645;
  short int tP0M1X88Sx;
- tP0M1X88Sx = 1313648566;
+
   double  k4qW3_6vH;
   k4qW3_6vH  =  880364927;
     unsigned long    NdMS9_n9a_;
@@ -37,7 +37,7 @@ int main()
   char  S0_r2_;
 
 	int	jBWw_5L22;
-	jBWw_5L22	=	-1771978313;
+
  double lA2iux3YN;
  lA2iux3YN = 691579286;
     float    fTFCh9uE;
@@ -47,7 +47,7 @@ int main()
     float    yQ09S7S4_i;
 
  unsigned long guEu36;
- guEu36 = -557740652;
+
     unsigned long    L7u8uYu0l2;
     L7u8uYu0l2    =    1726368756;
 	float	g4vSK;
@@ -65,7 +65,7 @@ int main()
   unsigned short int  U_QLP6n17;
   U_QLP6n17  =  -452269939;
     char    TVZc8hZYy2;
-    TVZc8hZYy2    =    278726932;
+
     long long    b7V_H3ig;
     b7V_H3ig    =    1302546883;
   long double  xn6xs10ga;
@@ -75,7 +75,7 @@ int main()
     unsigned int    i6q8;
     i6q8    =    332247686;
  int l_4_0jm6;
- l_4_0jm6 = 1761588438;
+
  char xD25_3B67;
  xD25_3B67 = -193766606;
 	unsigned long	I6GL;
@@ -85,7 +85,7 @@ int main()
     unsigned short int    KLCq;
     KLCq    =    1104253844;
 	unsigned short int	GJDAfc_Q_;
-	GJDAfc_Q_	=	469011687;
+
 	short	E749wo;
 	E749wo	=	1366179411;
 	long long	XR1N_sP;
@@ -95,7 +95,7 @@ int main()
  double SNaU3cG;
  SNaU3cG = 2104233060;
  double IE0X24;
- IE0X24 = -1818899600;
+
   char  f32SiYq;
   f32SiYq  =  0;
     double    ar_G7J;
@@ -115,7 +115,7 @@ int main()
 	int	zo_1s4GhP;
 	zo_1s4GhP	=	-942930714;
 	unsigned long long	mrkq36c;
-	mrkq36c	=	1495035114;
+
 	unsigned long	AN8G_;
 	AN8G_	=	3081715;
 	unsigned short int	c460o0;
@@ -125,7 +125,7 @@ int main()
  int Zc7WeL0YvF;
  Zc7WeL0YvF = -1510788402;
   unsigned short int  MJ_bQ91;
-  MJ_bQ91  =  -99895470;
+
  short int U9h9M;
  U9h9M = 1930294983;
  unsigned long Z20P;
@@ -135,7 +135,7 @@ int main()
   unsigned long long  Pb9m;
   Pb9m  =  1002144766;
 	unsigned short	AhEr3s92;
-	AhEr3s92	=	-771631936;
+
  unsigned int F6q9BV;
  F6q9BV = -1208426172;
     unsigned long    tIJv9E2;
@@ -181,7 +181,7 @@ U9h9M -= u6s_;
 break;
 case 'i':
 case 'I':
-ar_G7J = (int)ceil(cO4e379);
+
 break;
 case 'j':
 case 'J':

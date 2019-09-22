@@ -303,7 +303,7 @@ for (int i = 7; i >= 0; i--)
 B3P4yeE = Qckb4 & M4VsAk;
 }
 LQpjMR0 = (long long)(Z4_NK6);
-kK99 = vJ2nmE6j - 1361333451;
+
 
 if (B3P4yeE >= -1224156063)
 {
@@ -473,7 +473,7 @@ case 1:
 
 break;
 case 2:
-Z4_NK6 = MpWV(w4c20wt, Z4_NK6, Sgehpa, -1528233760, 779289339);
+
 break;
 case 3:
 cPx_v /= 1316529699;
@@ -538,7 +538,7 @@ break;
 
 
 LG8Kgj9q1 = LLJfPtz950(-599825707);
-aDgx_89 = MpWV(aDgx_89, -294741977, 527599732, 812695902, vJ2nmE6j);
+
 return 0;
 }
 

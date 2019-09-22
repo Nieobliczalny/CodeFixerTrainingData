@@ -24,7 +24,7 @@ oTLB195Az--;
 switch (s3P5qNwMj)
 {
 case 0:
-r04W29 = c8nfSh2DP | zI4eK;
+
 break;
 case 1:
 jq3ff79 = F2PRtyI80L(-526492556, c8nfSh2DP, -1020518083, 2144489518);
@@ -36,7 +36,7 @@ case 3:
 c8nfSh2DP = F2PRtyI80L(2095872882, c8nfSh2DP, -1117174441, oTLB195Az) ^ 453371974;
 break;
 case 4:
-s3P5qNwMj = F2PRtyI80L(-1409244340, 1260791915, p4yWTC00H9, l7fJfR);
+
 break;
 case 5:
 e5722d2aq_ = z5_77Pz64(e5722d2aq_);
@@ -51,7 +51,7 @@ case 8:
 QOx76c = z5_77Pz64(QOx76c);
 break;
 case 9:
-R6g4Y %= vSlDwx8qhY;
+
 break;
 }
 cout << qrQqSS7x5(-639152501) << e5722d2aq_ << Rd1H2gf << endl;

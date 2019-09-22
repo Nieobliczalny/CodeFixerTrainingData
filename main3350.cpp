@@ -47,7 +47,7 @@ case 2:
 iiw9bAH_ -= A73H6;
 break;
 case 3:
-CBykxJduz = (int)abs(IkgtmIV);
+
 break;
 case 4:
 f9Zehsa002 -= 1658939269;
@@ -243,7 +243,7 @@ case 2:
 MTg_r_V8C = E3Syl(221383471, -758105773, -361824484, 1983957971, cm42yhPH);
 break;
 case 3:
-DO13 = (int)abs(yFyh7a);
+
 break;
 case 4:
 xBbW2 = E3Syl(-766372540, 1936823850, xBbW2, -2030085354, -1807764637);
@@ -273,7 +273,7 @@ for (int j = 0; j < 1; ++j)
 int k = 0;
 while (k < 9)
 {
-B0vqsZ = i63U - pXFGe_u;
+
 ++k;
 }
 }
@@ -295,7 +295,7 @@ case 3:
 txz_04PQ5 = E3Syl(pXFGe_u, jxy_9, JMuz4, QVB8M_G45w, txz_04PQ5);
 break;
 case 4:
-xBbW2 = E3Syl(1407395696, q1RYr32hIU, 953180795, yFyh7a, 996672216);
+
 break;
 case 5:
 
@@ -331,7 +331,7 @@ if (JMuz4 == hml96d2)
 }
 if (i63U & 1633116300)
 {
-cB1f2yM9 = (int)floor(iiw9bAH_);
+
 }
 else
 {

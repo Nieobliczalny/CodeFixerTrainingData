@@ -52,7 +52,7 @@ case 2:
 V4Qm6AL1ad = FUn6k + 1688755101;
 break;
 case 3:
-CKpipHxEr = CKpipHxEr | V4Qm6AL1ad;
+
 break;
 default:
 CKpipHxEr = (int)abs(X0C9hl1X) + (1018192565);

@@ -41,7 +41,7 @@ int main()
 	int	I6V22FJ81;
 	I6V22FJ81	=	-1837006772;
   unsigned long  R_2_4_h1J;
-  R_2_4_h1J  =  708249438;
+
     long double    pCcf0Xe22t;
     pCcf0Xe22t    =    306984894;
  float P3J_rL_w_;
@@ -57,7 +57,7 @@ int main()
     double    YRf99b_;
     YRf99b_    =    731378038;
  unsigned long long qGLS4l;
- qGLS4l = -1449793293;
+
     short    Q9bYra;
     Q9bYra    =    -99266494;
  long sOMDwB4w;
@@ -91,7 +91,7 @@ int main()
     unsigned short    k5_X_;
     k5_X_    =    -1713535021;
  unsigned char t89w;
- t89w = 1280812297;
+
  unsigned long OA5S6BquWE;
  OA5S6BquWE = 360081128;
   unsigned char  b3eg2tFz;
@@ -164,7 +164,7 @@ case 4:
 sOMDwB4w = lHGrPL4(-248103684, ATyR9UMf2k, if70Eo1S1, 1571457111) & Sy86xgtI;
 break;
 case 5:
-o2Nk10 -= Sy86xgtI;
+
 break;
 }
 
@@ -224,7 +224,7 @@ else
 switch (sOMDwB4w)
 {
 case 'a':
-pCcf0Xe22t = (int)ceil(qPgjKemA8c);
+
 break;
 case 'b':
 iKc8L6fdK = lHGrPL4(OA5S6BquWE, 314228747, 1536577750, -18061208);
@@ -359,7 +359,7 @@ case 5:
 F1CQ63 &= 419501809;
 break;
 case 6:
-C2yeSZV = lHGrPL4(796893837, 112748856, gr0gr2x, -501020662);
+
 break;
 case 7:
 J9UQ = AHhLS * 1970194330;
@@ -404,7 +404,7 @@ else
 cout << F4HYRvPez << mSe46eN_0() << "h2p0mlV" << endl;
 }
 
-XWbA78rz7 = lHGrPL4(816031433, Lx4vE, sOMDwB4w, 556507677);
+
 {
 int i = 0;
 do

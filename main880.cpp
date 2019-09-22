@@ -102,7 +102,7 @@ else if (myeYF_wz >= 169732999)
 {
 try
 {
-vu040T45 = (double)(TiL6_y4_);
+
 }
 catch (int& errorCode)
 {
@@ -206,7 +206,7 @@ else
 {
 
 }
-D8Tk0EW = YR70 * h2eHS;
+
 
 if (BJtG87q_(NG9FH, 1985210336) == 0)
 {
@@ -222,7 +222,7 @@ ZgQcK /= CG8UoOf3;
 }
 for (int i = 9; i >= 0; --i)
 {
-gwDr = BJtG87q_(KBqmU, -1361548859);
+
 }
 return 0;
 }

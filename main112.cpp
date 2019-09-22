@@ -329,7 +329,7 @@ if (amO1uxXENQ <= -257168139)
 {
 if (amO1uxXENQ == 527748136)
 {
-ybCI4 |= 311081070;
+
 }
 }
 else if (xvlUA3DZ & 163318341)
@@ -360,7 +360,7 @@ case 0:
 
 break;
 case 1:
-O0_Fs >>= 602491495;
+
 break;
 case 2:
 Tyxf4Gi = Uiv6o6(-497446802, 1633921964);
@@ -375,7 +375,7 @@ case 5:
 
 break;
 case 6:
-pQ0Hsqpkt3 -= m3fiu65_2;
+
 break;
 case 7:
 G_8_ = (int)abs(Tyxf4Gi) + (1624315622);
@@ -391,7 +391,7 @@ default:
 break;
 }
 
-G_8_ = (long long)(KMPc8);
+
 
 return 0;
 }

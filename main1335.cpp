@@ -55,7 +55,7 @@ int main(int argc, char** argv)
     float    ACJhlCZD;
     ACJhlCZD    =    -998567626;
  unsigned int g3lTf;
- g3lTf = 1538059690;
+
     unsigned long long    ckC1;
     ckC1    =    451230545;
     unsigned short int    unfMen5v;
@@ -67,7 +67,7 @@ int main(int argc, char** argv)
 	short int	Y7njE;
 
     double    oJKMUIyDKX;
-    oJKMUIyDKX    =    -1224575254;
+
  char y263Z7;
  y263Z7 = 1737818650;
 	unsigned short int	v57v8;
@@ -121,7 +121,7 @@ int main(int argc, char** argv)
  double yA40;
  yA40 = -33180425;
  unsigned short int ht1RU;
- ht1RU = 1735538668;
+
     long    AVvl;
 
  short ht19lu8P0;
@@ -222,7 +222,7 @@ kZfg += LI64uLv;
 }
 else
 {
-ht1RU = (unsigned short int)(tDtZ_PkvNn + (I0q7));
+
 }
 
 if (N24db > e0WwnEMFK)
@@ -320,7 +320,7 @@ g7_5wI9z = (int)abs(obaBoMu57i);
 }
 else if (g7_5wI9z <= BIM7cB)
 {
-Ktt3WkGh = (unsigned int)(e0WwnEMFK);
+
 }
 else if (((D5NMM) || (BIM7cB >= -1049969255)) && (v57v8 < obaBoMu57i))
 {
@@ -358,7 +358,7 @@ case 'i':
 
 break;
 case 'j':
-s1hk1 = (int)abs(obaBoMu57i);
+
 break;
 default:
 s1hk1 = (int)floor(ACJhlCZD);
@@ -415,7 +415,7 @@ else if (obaBoMu57i != 1544716146)
 switch (k84Z4)
 {
 case 0:
-g0WubAlse = (int)abs(N24db);
+
 break;
 case 1:
 
@@ -427,7 +427,7 @@ case 3:
 uH3A6 = (l6pO7h3 == oyE21p) ? 1969507550 : 1692152300;
 break;
 case 4:
-g3lTf = ckC1 | kZfg;
+
 break;
 default:
 z9I8 = FLRd861F42(g0WubAlse, 1309378474, P2vM98b4J0, -1860257240, 251538414);
@@ -459,7 +459,7 @@ if (Mm__bynSa)
 
 }
 
-b8y4I %= 328641898;
+
 Mm__bynSa = (int)floor(QaM4WPTv);
 return 0;
 }

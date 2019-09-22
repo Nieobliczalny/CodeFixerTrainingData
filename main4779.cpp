@@ -80,7 +80,7 @@ case 1:
 
 break;
 case 2:
-C61xquro1 = (int)abs(LmMkO);
+
 break;
 case 3:
 l_KJ9O = j5A_k | 1147060146;

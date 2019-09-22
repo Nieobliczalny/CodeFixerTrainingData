@@ -40,7 +40,7 @@ case 'd':
 
 break;
 case 'e':
-n897 = sw4I();
+
 break;
 case 'f':
 n897 = sw4I();
@@ -107,7 +107,7 @@ else if (pey7 <= V3HP_G)
 {
 if (((zR1bg & -1894053429) || (nNu3 >= -863386464)) && (V3HP_G < 2124817440))
 {
-nNu3 ^= zR1bg;
+
 }
 else
 {
@@ -119,7 +119,7 @@ else if (V3HP_G != n897)
 switch (zR1bg)
 {
 case 0:
-pey7 = sw4I() | V3HP_G;
+
 break;
 case 1:
 
@@ -153,7 +153,7 @@ if ((V3HP_G == 1191117729) && ((RY_Q < 1324835542) || (zR1bg >= 602747273)))
 }
 else
 {
-pey7 = (unsigned int)(n897 + (614264794));
+
 }
 }
 return 0;

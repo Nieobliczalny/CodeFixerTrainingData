@@ -86,7 +86,7 @@ int j = 6;
 do
 {
 j--;
-odkJ = ee3Qx_ & 976494471;
+
 }
 while (j >= 0);
 }
@@ -106,7 +106,7 @@ do
 j--;
 if (T730 & nA4vGC3o)
 {
-d2_01X = (int)floor(vJ5oxC_);
+
 }
 }
 while (j >= 0);
@@ -122,7 +122,7 @@ case 1:
 q6Rlu49D = y3YJ(CLtL);
 break;
 case 2:
-GeG1l5T83 = (int)ceil(t3Q3DH);
+
 break;
 case 3:
 H0upm2 ^= 1132456756;
@@ -140,7 +140,7 @@ case 7:
 q6Rlu49D = y3YJ(RNoR0_jr);
 break;
 }
-L88_w4 &= he4V5Bi3Z;
+
 for (int i = 10; i >= 0; i--)
 {
 {
@@ -157,7 +157,7 @@ if (q6Rlu49D == 0)
 {
 
 }
-mEnj /= u2VkbITVC;
+
 return 0;
 }
 

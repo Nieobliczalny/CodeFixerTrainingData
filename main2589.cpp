@@ -68,7 +68,7 @@ int main(void)
  Wi1k3h = -1695606668;
  G6aLd = -1310347243;
  uhCF24 = -1096237408;
- xEKFOc = 1307829604;
+
  E47184m2 = -853528205;
  Vb4l9QQW_ = -476760515;
  d2azF5i = -1357598003;
@@ -535,7 +535,7 @@ break;
 while (i < 9);
 }
 
-E48ZRkf = MJ5f4fp4y(E47184m2) << xGe5Xn5BgP;
+
 if (Xxnv0i != -1938053197)
 {
 T7T160SXNm = n27TrywDN & 2040244924;
@@ -627,7 +627,7 @@ case 0:
 
 break;
 case 1:
-E48ZRkf = n27TrywDN & E47184m2;
+
 break;
 case 2:
 Vb4l9QQW_--;
@@ -642,7 +642,7 @@ case 5:
 N7Uxd5--;
 break;
 case 6:
-d7_j = DLFe(dYsr_1M9, d7_j, y86bOX, 15690365);
+
 break;
 case 7:
 E6wz5Mb |= J4_x;
@@ -667,7 +667,7 @@ else if (y86bOX == 982337653)
 {
 try
 {
-N7Uxd5 *= V0At5r;
+
 }
 catch (int& errorCode)
 {
@@ -682,7 +682,7 @@ case 0:
 
 break;
 case 1:
-i3K4yyqqN7 = ia7jS(-182029848, -981526083, 2099625410);
+
 break;
 case 2:
 T7T160SXNm = EJRP();
@@ -699,7 +699,7 @@ break;
 
 for (int i = 8; i >= 0; i--)
 {
-Vb4l9QQW_ = MJ5f4fp4y(-2106247667) / jN_UG9X;
+
 }
 
 return 0;

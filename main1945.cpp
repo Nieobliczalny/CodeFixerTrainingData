@@ -267,7 +267,7 @@ case 1:
 b283f = y2eJ6IWC % vFyP2vghQ;
 break;
 case 2:
-B9d2u0V_J = (int)abs(gHND_EnX);
+
 break;
 case 3:
 
@@ -384,7 +384,7 @@ while (j < 1)
 ++j;
 if (oY4_LZ__DN != 872897270)
 {
-B9d2u0V_J = odN1PaCGYy(rQ9u8G6gI);
+
 }
 else
 {
@@ -445,7 +445,7 @@ rQ9u8G6gI++;
 break;
 case 'e':
 case 'E':
-y2eJ6IWC = odN1PaCGYy(u_P07It);
+
 break;
 default:
 R0YsW = rZ3Y_cok / mJJdnAx;
@@ -455,7 +455,7 @@ break;
 
 
 L_c5 = QXsm3PMr_ * 2028307979;
-jHojEzXmgJ = (unsigned int)(mJJdnAx + (1064867008));
+
 
 return 0;
 }

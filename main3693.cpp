@@ -126,7 +126,7 @@ std::cout << qzY39Y5() << "En8r8G" << qzY39Y5() << "x703OK6" << std::endl;
 switch (BFZ54nUBq)
 {
 case 'a':
-wgCz641y ^= zf_Ds;
+
 break;
 default:
 g41qzpLSpl *= 1264707659;
@@ -222,7 +222,7 @@ else if (V6yfTscy <= 1073699558)
 }
 else
 {
-z87_XvpeVX = (int)(w63mF11W);
+
 }
 if ((L31cd55) && ((BFZ54nUBq <= 1182265083) && (yrUr_w < 530855057)))
 {
@@ -263,7 +263,7 @@ NU9o9hBq2 >>= EZ3ngj;
 int i = 0;
 do
 {
-H90Mo56p = (int)floor(w63mF11W);
+
 i++;
 }
 while (i < 2);
@@ -278,7 +278,7 @@ for (int j = 4; j >= 0; j--)
 switch (k4wn)
 {
 case 0:
-uervJH = (int)abs(g41qzpLSpl);
+
 break;
 case 1:
 C1zSKdMO = qzY39Y5();
@@ -308,7 +308,7 @@ break;
 }
 }
 }
-QXL9fDEMQ = (int)ceil(cQUi2Y5);
+
 
 try
 {
@@ -320,7 +320,7 @@ C1zSKdMO = qzY39Y5();
 }
 
 
-k4wn = (unsigned char)(Vv2Mik);
+
 
 return 0;
 }

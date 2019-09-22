@@ -44,7 +44,7 @@ int main(void) {
 	W_X2fOEV	=	-1811013826;
 	l5a9iU638H	=	-143234945;
 	qDmSV	=	1893598518;
-	Z7LR	=	-1424622553;
+
 	j666N4	=	1579697674;
 	vG4aYXogMQ	=	821731502;
 	FMgGGmqbD	=	-367611598;
@@ -469,7 +469,7 @@ else if (B66Y8450n != -876815619)
 {
 try
 {
-KkU6sYm >>= 131197773;
+
 }
 catch (int& errorCode)
 {

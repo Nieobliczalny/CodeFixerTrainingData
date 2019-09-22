@@ -52,7 +52,7 @@ int main(void)
   int  gjT1ejp44;
   gjT1ejp44  =  0;
 	unsigned int	f2JsfvT;
-	f2JsfvT	=	-1951145906;
+
 
 if (vlBWI8 >= -724831549)
 {
@@ -226,7 +226,7 @@ E9_fNz95sE = gd5KdfBy(E9_fNz95sE, -187271080, 1017461244, LDEt1Vqbec);
 break;
 case 'b':
 case 'B':
-vlBWI8 >>= zpP1uqP6z;
+
 break;
 case 'c':
 case 'C':
@@ -282,7 +282,7 @@ if ((-66284318 / w786ZlZj7(YqvDz, X79T, E9_fNz95sE)) == -1492845825)
 switch (S3X9n0)
 {
 case 'a':
-aTdMR77v = gd5KdfBy(1275160418, 1021555073, 1471479254, -131169017);
+
 break;
 case 'b':
 YqvDz = (int)floor(E9_fNz95sE);

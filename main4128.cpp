@@ -104,7 +104,7 @@ case 4:
 T7gkWH = BkAiw << GN_E;
 break;
 case 5:
-f59807_ = qc_Ai | 349585651;
+
 break;
 case 6:
 SHaub += 549826319;
@@ -133,7 +133,7 @@ if (rYiV)
 {
 try
 {
-j083hv = PEzb << VkGP6;
+
 }
 catch (int& errorCode)
 {
@@ -184,7 +184,7 @@ else
 {
 if (W9wYYryHj == qrbh89_0)
 {
-R0797cCE = Te6PWX6 % ZnEW9;
+
 }
 else
 {
@@ -207,7 +207,7 @@ case 2:
 
 break;
 case 3:
-PEzb = (int)abs(gEY_cbY5qQ);
+
 break;
 case 4:
 A25lko = OPekGl6Ghz | PhfV19;
@@ -219,7 +219,7 @@ case 6:
 
 break;
 case 7:
-OqD__ha92H = (int)abs(AL3hO83);
+
 break;
 case 8:
 u8D5z = RY78t1MG01 & AM847;
@@ -296,7 +296,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-rYiV ^= 74711709;
+
 break;
 case 'c':
 case 'C':
@@ -308,7 +308,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-Ljz9SG9sgr = (F6rw6u & T7gkWH) ? qc_Ai : TH1_o_;
+
 break;
 case 'f':
 case 'F':
@@ -351,7 +351,7 @@ while (i >= 0);
 }
 
 
-PEzb = qc_Ai ^ 1976956293;
+
 return 0;
 }
 

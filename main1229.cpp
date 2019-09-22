@@ -417,7 +417,7 @@ case 7:
 
 break;
 default:
-Yy9Z = R321DA_0(68525001);
+
 break;
 }
 switch (TXsN__8n4K)
@@ -448,7 +448,7 @@ tU3C7P = mIrm0w8ZK7();
 break;
 case 'g':
 case 'G':
-FlbL03_ = xmnlo(-1023492393, ZT2H, l83na, -311514540);
+
 break;
 case 'h':
 case 'H':
@@ -475,7 +475,7 @@ case 'c':
 tU3C7P = mIrm0w8ZK7();
 break;
 case 'd':
-a3OTZf = xmnlo(864948480, -643083134, -860744160, hDK_ic);
+
 break;
 case 'e':
 Tx2Dshw9m3 = mIrm0w8ZK7();
@@ -490,7 +490,7 @@ case 'h':
 Tx2Dshw9m3 = mIrm0w8ZK7();
 break;
 case 'i':
-sEbf42S56 = mIrm0w8ZK7();
+
 break;
 default:
 NsL0 = dq9fNp * O142;
@@ -519,7 +519,7 @@ i++;
 
 if (l83na < EA9M5)
 {
-lL2gXNZM = (unsigned short int)(EA9M5 + (-844326965));
+
 }
 
 std::cout << mIrm0w8ZK7() << R321DA_0(-805927568) << Lfvt << xmnlo(-678215911, 845068644, NIX4, NPga) << std::endl;
@@ -530,7 +530,7 @@ if (YFfvo <= EA9M5)
 {
 if (e99SOU4iY_ > g1lux)
 {
-UmX03JsH = R321DA_0(719157229);
+
 }
 }
 }
@@ -557,7 +557,7 @@ case 'b':
 
 break;
 case 'c':
-Lfvt = O5K4_ >> 773490053;
+
 break;
 case 'd':
 e99SOU4iY_ = (int)abs(tU3C7P);
@@ -569,7 +569,7 @@ case 'f':
 
 break;
 case 'g':
-DbmWnH = Zra_ + 1533856365;
+
 break;
 case 'h':
 AhZDG++;

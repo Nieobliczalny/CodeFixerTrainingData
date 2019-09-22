@@ -86,7 +86,7 @@ x7Mb6x9 = (int)abs(A4vQZW1);
 switch (nhGU)
 {
 case 0:
-Imx49lEO = o_mt0Ps(Imx49lEO);
+
 break;
 case 1:
 JtQ3 *= 1153572203;
@@ -198,7 +198,7 @@ x7Mb6x9 = (int)abs(Yn9oES);
 
 if (Yn9oES >= Ie049)
 {
-Imx49lEO = (char)(PMX2T4Pf);
+
 }
 else
 {

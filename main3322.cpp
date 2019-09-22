@@ -198,7 +198,7 @@ case 4:
 
 break;
 case 5:
-Tb0D = (int)abs(EwfKh1);
+
 break;
 case 6:
 mSFty = N6_5i22c7(p8J_);
@@ -486,7 +486,7 @@ cout << N6_5i22c7(J39TMTI_) << "Kd1DOH4" << endl;
 }
 else if (LnN9SbcOx5 <= 1181120582)
 {
-tuq8wh = (int)ceil(bIjd);
+
 }
 else
 {
@@ -556,7 +556,7 @@ else if (j4n85Q1EkI == -1223379498)
 }
 else if (((ljC0c < 1059448190) && (pz1CTY >= yBbA4)) || (m14A1Hb > -1756071999))
 {
-PM7r6 = (unsigned short)(bIjd);
+
 }
 else
 {
@@ -589,7 +589,7 @@ while (j < 3);
 }
 else if (TwZj6sB6 < -1354050484)
 {
-f77p %= APrAna;
+
 }
 else if ((V4duh_OB & -11887213) || ((EwfKh1 == 171892689) || (AYcSKLCV)))
 {
@@ -654,7 +654,7 @@ case 5:
 TxZO >>= t_7aamz3C;
 break;
 case 6:
-Bp3_ %= wZdb;
+
 break;
 default:
 S_AId = (int)ceil(AYcSKLCV);
@@ -678,7 +678,7 @@ case 'e':
 mSFty = N6_5i22c7(gkV4);
 break;
 case 'f':
-IqNag = TxZO ^ ZmyYYs4;
+
 break;
 case 'g':
 mSFty = N6_5i22c7(-1845125754);

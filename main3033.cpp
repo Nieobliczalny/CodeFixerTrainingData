@@ -28,7 +28,7 @@ int main(int argc, char** argv) {
     short    tamfdw;
     tamfdw    =    368836293;
   unsigned long  RK8W0d2g_;
-  RK8W0d2g_  =  1078220005;
+
 	float	M64256On;
 	M64256On	=	-917812833;
 	unsigned long	S007;
@@ -70,7 +70,7 @@ int main(int argc, char** argv) {
 	char	G22tS7Yz5u;
 
     double    Ry34;
-    Ry34    =    -1734690974;
+
     unsigned int    E8Hp8V;
     E8Hp8V    =    -664486013;
 	short	Cc5_E2yNy;
@@ -84,7 +84,7 @@ int main(int argc, char** argv) {
 	short	P47hX8Btt6;
 	P47hX8Btt6	=	2083690000;
  unsigned long j58cp;
- j58cp = -1773350853;
+
  short s5BS4x27D;
  s5BS4x27D = 1714287452;
 	float	w_rpx_;
@@ -96,7 +96,7 @@ int main(int argc, char** argv) {
     unsigned int    EM74zvn;
 
  short int Gc4yQzcRr;
- Gc4yQzcRr = -1372760867;
+
 	unsigned short	z10r9pe;
 	z10r9pe	=	640042914;
     unsigned int    K42p;
@@ -114,7 +114,7 @@ int main(int argc, char** argv) {
 	unsigned long long	Q5jaVY1H;
 
 	long double	KK_OmRqdw;
-	KK_OmRqdw	=	-2065022623;
+
     long    rDm42;
     rDm42    =    1891339963;
     long long    vYx91Gjz_H;
@@ -126,7 +126,7 @@ int main(int argc, char** argv) {
 	char	y6eoL6t;
 	y6eoL6t	=	1949924627;
   unsigned short  FJIMi;
-  FJIMi  =  123751120;
+
   unsigned int  O33eI6ZE0;
   O33eI6ZE0  =  -1333516115;
     float    IG9IuKnr_r;
@@ -158,7 +158,7 @@ int main(int argc, char** argv) {
  unsigned char m87a;
  m87a = -2135998771;
 	unsigned short int	lt8v7A;
-	lt8v7A	=	332706267;
+
     unsigned int    eG7oAS;
     eG7oAS    =    506608974;
  long long cUIxz;
@@ -290,7 +290,7 @@ vYx91Gjz_H = (int)abs(T5gi);
 }
 while (i < 5);
 }
-Gc4yQzcRr = (int)abs(y6eoL6t);
+
 if (wuu5Jc0tUe == w_rpx_)
 {
 switch (HV8z)
@@ -305,7 +305,7 @@ break;
 }
 else if (vYx91Gjz_H & 1743040893)
 {
-S0aAzi = (char)(dYciin);
+
 }
 else if (E_U4Yz >= tamfdw)
 {
@@ -315,7 +315,7 @@ else if (N53L4 != 643372785)
 {
 if (QLLZor != Rl9bWzK)
 {
-HV8z = (unsigned short)(rDm42);
+
 }
 }
 else if (KK_OmRqdw <= -1776345550)
@@ -345,7 +345,7 @@ d45qJHo = L5HuLg8(wuu5Jc0tUe, 1143660038);
 }
 
 
-KK_OmRqdw = (int)floor(v2wCV9R51);
+
 
 for (int i = 0; i < 7; i++)
 {
@@ -456,7 +456,7 @@ case 0:
 
 break;
 case 1:
-T5gi = (int)ceil(R_G1q47);
+
 break;
 case 2:
 Bt5x3Ty7V = T3S_ - 1244833493;
@@ -472,7 +472,7 @@ break;
 while (j >= 0);
 }
 }
-MYHN = (int)(hU2WTL);
+
 for (int i = 6; i >= 0; --i)
 {
 {

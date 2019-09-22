@@ -128,7 +128,7 @@ case 0:
 
 break;
 case 1:
-w5th &= 748996224;
+
 break;
 case 2:
 F8fNX_ = (int)ceil(G_CTO62);
@@ -159,7 +159,7 @@ if (ZH9VJ301 <= -310727209)
 }
 else
 {
-T54oNXPR8 %= 715445315;
+
 }
 }
 }

@@ -49,7 +49,7 @@ int main(void) {
 FRoRi0k_Zu = (int)ceil(UD07KE);
 hnUf = IaRXS(hnUf, 615525472);
 
-UD07KE = (float)(nz7GSAZ);
+
 {
 int i = 0;
 do
@@ -174,7 +174,7 @@ case 'c':
 em6z_ = IaRXS(em6z_, FtkA5lC3);
 break;
 case 'd':
-FtkA5lC3 = yAY0P21e_(657326279, -1095269059, 1119353282, nz7GSAZ);
+
 break;
 case 'e':
 c_4QA8owvA >>= fua5gna;
@@ -354,7 +354,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-NNc7c3r = yAY0P21e_(dfxUydXv_y, CZ4K9Y34ol, eKQ3d07_, KFS_L3wuqs);
+
 break;
 case 'g':
 case 'G':

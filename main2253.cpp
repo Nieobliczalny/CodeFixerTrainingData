@@ -87,7 +87,7 @@ if (I7_5g == HsjK1)
 }
 else
 {
-u4422g59_2 = zGWBPMU86C % 900901916;
+
 }
 }
 else if (((zdEGCLLh_ == e1dU) && (u4422g59_2 == cM49_1E6)) && (zGWBPMU86C != 959724402))
@@ -119,7 +119,7 @@ zGWBPMU86C %= i_mk0r;
 zwYxy24_j = fgP5(zwYxy24_j, zGWBPMU86C);
 
 
-xmYj9_E = zwYxy24_j >> 382739570;
+
 {
 int i = 6;
 do

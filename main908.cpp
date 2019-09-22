@@ -136,7 +136,7 @@ if (yHt_5AT > 495601176)
 }
 else if (uldl8 & 1390247585)
 {
-dVga95nyt >>= uldl8;
+
 }
 else if (V0T76FvPY & d9N0u94)
 {
@@ -167,7 +167,7 @@ else if (bs0W5h__C_)
 }
 else if ((V_N4Ts829 < dVga95nyt) || (Zs9t6 > -926628282))
 {
-V_N4Ts829 = I71Q74sq(V_N4Ts829);
+
 }
 else if (GJtnk)
 {
@@ -250,7 +250,7 @@ case 0:
 
 break;
 case 1:
-ATzSe2w ^= L4LebHl4Z9;
+
 break;
 case 2:
 I5O36P4gs = CVQMbXz1R & 979766519;
@@ -280,7 +280,7 @@ do
 {
 for (int j = 9; j >= 0; --j)
 {
-zDY352 = (unsigned char)(j47dvN3);
+
 }
 i--;
 }

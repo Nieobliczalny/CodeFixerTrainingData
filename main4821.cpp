@@ -181,7 +181,7 @@ case 6:
 
 break;
 case 7:
-r8tv07_ -= T0R59a2;
+
 break;
 case 8:
 w27BL_ *= 1423256978;
@@ -297,7 +297,7 @@ D0759 = (int)abs(ks03Kmen);
 }
 }
 }
-X9V23aXq = (int)abs(Ny2u6O8Ml);
+
 
 try
 {
@@ -333,7 +333,7 @@ if (K1k0 & 1789636411)
 }
 else
 {
-qLM4 = vJvO ^ ks03Kmen;
+
 }
 ++j;
 }
@@ -343,7 +343,7 @@ while (j < 5);
 
 
 
-r8tv07_ = (short int)(d298a4b7c);
+
 
 U1q06RMW ^= K1k0;
 

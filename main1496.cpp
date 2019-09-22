@@ -47,7 +47,7 @@ int main()
  uKAK1S_ = -244397749;
  J4B1qARClx = -713743991;
  jlNcSlueg = 221178992;
- Z04BABSTXx = 699404274;
+
  h1_000 = 1480944535;
  YYMK1a29s = 668928473;
  tS78L1V = 520754979;
@@ -257,7 +257,7 @@ case 'h':
 
 break;
 }
-p9B9_n98 /= 2051007069;
+
 
 a9oG_0G0M++;
 cout << cjNx51 << endl;

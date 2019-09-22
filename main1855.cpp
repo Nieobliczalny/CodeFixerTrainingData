@@ -404,7 +404,7 @@ do
 {
 try
 {
-bC1T7fqQD = (Y_lw1A >= -1740773202) ? -197206436 : WHr_o79;
+
 }
 catch (int& errorCode)
 {
@@ -469,7 +469,7 @@ case 'e':
 
 break;
 case 'f':
-ZVZ1SfbgyY = H1Za / ZVZ1SfbgyY;
+
 break;
 case 'g':
 z67JfA = p0U6_K5 - SZvaD;

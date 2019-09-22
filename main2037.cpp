@@ -494,7 +494,7 @@ case 'b':
 fT1Cy = (int)abs(UA83A4T18d);
 break;
 case 'c':
-EwGF2tZ += FrTV;
+
 break;
 case 'd':
 uN94nj4 &= 442531560;
@@ -683,7 +683,7 @@ switch (UA83A4T18d)
 {
 case 'a':
 case 'A':
-EwGF2tZ = jS1rh8X + ecqJ;
+
 break;
 case 'b':
 case 'B':

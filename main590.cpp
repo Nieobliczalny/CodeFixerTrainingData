@@ -423,7 +423,7 @@ case 'd':
 
 break;
 case 'e':
-LpkIw4Z = H3xe2oEgp(LpkIw4Z, 1689446144, -1725656304, 352304955, -144149862);
+
 break;
 case 'f':
 F3jzNk2 = (int)abs(K1_2292W);

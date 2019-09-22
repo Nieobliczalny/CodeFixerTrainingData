@@ -255,7 +255,7 @@ if ((k9qrREMqD == 938436789) || ((IdD7 != IL4_DwOuq) && (ioB7a986)))
 {
 try
 {
-S4K77K9u = (int)ceil(bU_2y4);
+
 }
 catch (int& errorCode)
 {
@@ -318,7 +318,7 @@ case 0:
 Y6_498vf = NF6778K(1710540713, Titn2Zg, F_U5, X4XZaqa);
 break;
 case 1:
-pd4Z = Do20Bq - K8YxOds88;
+
 break;
 case 2:
 
@@ -336,7 +336,7 @@ case 6:
 b9LCV9S -= E8_5Ow5;
 break;
 case 7:
-n8uFA = oI6_5wtinI(Y6_498vf, 1695452506) * 1036357611;
+
 break;
 default:
 
@@ -382,7 +382,7 @@ for (int k = 6; k >= 0; k--)
 while (i < 3);
 }
 
-qt_8x6Il = L8gEXX6v - 973755369;
+
 return 0;
 }
 

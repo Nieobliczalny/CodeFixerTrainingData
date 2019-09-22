@@ -78,7 +78,7 @@ int main(void)
 switch (Q7_a)
 {
 case 0:
-SyS553 = M1N7p(649711162, s45oP_72h, -245825130, -907142840, 1354419425);
+
 break;
 case 1:
 Y5g_cQ_M = (int)abs(s45oP_72h);
@@ -169,7 +169,7 @@ case 2:
 Ku1H = (int)abs(N5I55);
 break;
 case 3:
-C1_H = (int)abs(Yj82);
+
 break;
 }
 switch (pW795)
@@ -217,7 +217,7 @@ case 3:
 
 break;
 case 4:
-R7ZNkupv0n = El08bd(1637282081, S5flS4_, -566731840, 1255604839);
+
 break;
 case 5:
 qgf1r2pTt = El08bd(qgf1r2pTt, -912284054, S5flS4_, 522602083);
@@ -402,7 +402,7 @@ while (j >= 0);
 }
 if ((pW795) && (titB == -1312125619))
 {
-s45oP_72h = (int)ceil(f23F24j055);
+
 }
 else
 {
@@ -431,7 +431,7 @@ case 0:
 
 break;
 case 1:
-mxNFpQQgF_ /= k7M50;
+
 break;
 case 2:
 xLg03_ = cNgY__MP6(-258210776, z39f8126Cz);
@@ -502,7 +502,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-eYDJkc %= L55w48;
+
 break;
 case 'e':
 case 'E':
@@ -525,7 +525,7 @@ for (int j = 2; j >= 0; j--)
 }
 }
 
-rj23KO = (unsigned long long)(gYzZ5b31);
+
 return 0;
 }
 

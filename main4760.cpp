@@ -112,7 +112,7 @@ while (k >= 0);
 }
 if (rDsMbXg146 == 0)
 {
-	yU14GhBah = OBhHyWYr / rDsMbXg146;
+
 }
 switch (OuUkea0aD)
 {
@@ -123,7 +123,7 @@ case 1:
 OuUkea0aD <<= 783560706;
 break;
 }
-hkgO59i1b = (char)(Xqaj6);
+
 return 0;
 }
 

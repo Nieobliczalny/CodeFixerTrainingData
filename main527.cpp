@@ -108,7 +108,7 @@ int main()
 
 dG71Fh = (int)abs(A7c4Q6q9);
 
-g4811Z02 = (unsigned int)(u_62ykWhmJ);
+
 if (dG71Fh > -1783983811)
 {
 {
@@ -161,7 +161,7 @@ case 5:
 
 break;
 case 6:
-PikJ = (int)floor(Qwqj9LY);
+
 break;
 case 7:
 a0PNXZ = EeW4m2MT5 << BFAH49_;
@@ -180,7 +180,7 @@ case 0:
 
 break;
 default:
-fxt0g5 = Qfxzcz9(fxt0g5);
+
 break;
 }
 
@@ -204,7 +204,7 @@ case 'a':
 
 break;
 case 'b':
-a0PNXZ = (int)floor(a6Aq5Z);
+
 break;
 case 'c':
 rN24 = uOm5dIc6J / 1437534329;
@@ -219,7 +219,7 @@ case 'f':
 
 break;
 case 'g':
-s_gvh = o359i36A - 1451849338;
+
 break;
 case 'h':
 a0PNXZ = (int)ceil(xA8o1p5PmU);
@@ -236,7 +236,7 @@ case 0:
 
 break;
 case 1:
-a0PNXZ = Qfxzcz9(165146127);
+
 break;
 case 2:
 a8SO6Etfo = xZ6cH_P(Qwqj9LY, AR_v9D4s_0, 755073503);
@@ -248,7 +248,7 @@ case 4:
 
 break;
 case 5:
-rN24 = X_Jq5 % 1150143582;
+
 break;
 case 6:
 ri39 = j824(ri39);
@@ -264,7 +264,7 @@ std::cout << "fBa6" << X_Jq5 << std::endl;
 
 if (T_86951d2 > 335104827)
 {
-BFAH49_ = (unsigned short)(T_86951d2);
+
 }
 return 0;
 }

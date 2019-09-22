@@ -410,7 +410,7 @@ djB_41 = (int)ceil(We33);
 break;
 }
 }
-i0zXp9 = (unsigned char)(ont1QGHniw + (418238271));
+
 if (qLg0h < jpt1Qi3)
 {
 for (int j = 0; j < 10; ++j)

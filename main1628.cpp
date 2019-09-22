@@ -95,7 +95,7 @@ case 'h':
 o966 = IsW_r(f7PApuRz5, tbU9);
 break;
 default:
-E031kX3_tx = (int)abs(xCot7wm1L);
+
 break;
 }
 }
@@ -182,7 +182,7 @@ case 5:
 yNGJ2QC = IsW_r(kiBA, 604979270);
 break;
 case 6:
-oV6KJF = IsW_r(764319619, bb4Qv8ob1) % 260639830;
+
 break;
 case 7:
 o966 = IsW_r(ncKur491, H3v4Y6T0u3);
@@ -261,7 +261,7 @@ cout << IsW_r(ncKur491, -834382052) << IsW_r(ncKur491, -1243918894) << endl;
 }
 else if (kiBA)
 {
-e50tI *= tbU9;
+
 }
 else
 {
@@ -294,7 +294,7 @@ case 0:
 o966 = IsW_r(dqC0eEeH88, q37L);
 break;
 case 1:
-q37L = (int)abs(oT3FXJ);
+
 break;
 case 2:
 o966 = IsW_r(W5ZX5Gw5No, o966);
@@ -379,7 +379,7 @@ break;
 }
 else
 {
-GYvH_P30r = tbU9 / 1267226179;
+
 }
 }
 else
@@ -407,7 +407,7 @@ for (int j = 0; j < 8; ++j)
 }
 else if ((gm5z0xT697 > o966) || ((b3L1LE >= -489989710) && (Amb7HS <= 15178511)))
 {
-k3yy6gC = (int)floor(W4u34EZ);
+
 }
 else if (((xt0u1yJ >= m6kv7TN59) && (j5d46_33 == 167390734)) || (Qc3y < m6kv7TN59))
 {
@@ -417,7 +417,7 @@ case 0:
 
 break;
 case 1:
-B8E5764n25 = (int)abs(zruo5Nu09);
+
 break;
 case 2:
 c3aRU9a66q = IsW_r(-317167659, oT3FXJ);
@@ -429,7 +429,7 @@ case 4:
 
 break;
 case 5:
-O9Gv5rxnc /= SjsB9BJ4;
+
 break;
 case 6:
 dFrucRmI_ += 1038591832;
@@ -447,7 +447,7 @@ break;
 }
 else if (nOOPN == -2052978166)
 {
-FPI8_u2P = (long double)(m6kv7TN59 + (1795794632));
+
 }
 else
 {
@@ -459,7 +459,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-x_2_H = iLY243 >> 284802221;
+
 break;
 case 'c':
 case 'C':
@@ -525,7 +525,7 @@ yNGJ2QC = IsW_r(yNGJ2QC, 361087980);
 }
 else if ((dFrucRmI_) && ((yNGJ2QC & o966) || (Amb7HS > -2080752769)))
 {
-B8E5764n25 = (long double)(iLY243);
+
 }
 else
 {
@@ -535,7 +535,7 @@ cL8yxH = (int)ceil(TjvNf1eL);
 }
 }
 
-JPd58Z = (long double)(m6kv7TN59 + (1607890256));
+
 
 dqC0eEeH88 += 779970825;
 try
@@ -595,7 +595,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-nOOPN = (int)floor(HOXH01_0_R);
+
 break;
 case 'c':
 case 'C':
@@ -607,7 +607,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-qIvMuT4 = (sbw89 >= iLY243) ? N8DXK0_A5 : lGqS_t781;
+
 break;
 case 'f':
 case 'F':
@@ -619,7 +619,7 @@ case 'G':
 break;
 case 'h':
 case 'H':
-Aayl2J = (int)floor(cL8yxH);
+
 break;
 case 'i':
 case 'I':

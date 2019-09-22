@@ -406,7 +406,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-hYr3Gz = (int)abs(gVwJM2S);
+
 break;
 case 'e':
 case 'E':
@@ -626,7 +626,7 @@ D_574 *= laQ_YR489;
 }
 else
 {
-dcbf0zFO >>= Fb07LjU8;
+
 }
 }
 }

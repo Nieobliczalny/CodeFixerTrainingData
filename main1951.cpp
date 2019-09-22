@@ -307,7 +307,7 @@ case 0:
 QAOn17 = yD_djzEe41 - F24y_Nmf;
 break;
 case 1:
-yD_djzEe41 *= YMcpNFG6;
+
 break;
 case 2:
 yD_djzEe41 = (int)abs(tt4j8) + (-1784441106);
@@ -319,7 +319,7 @@ case 4:
 QAOn17 <<= 1433060078;
 break;
 case 5:
-yD_djzEe41 = (int)abs(tt4j8) + (364779138);
+
 break;
 case 6:
 yD_djzEe41 = F24y_Nmf + 185949678;

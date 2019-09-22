@@ -193,7 +193,7 @@ case 'e':
 H1E_H_X05 = (int)floor(l6jNSsf9m);
 break;
 case 'f':
-R74Ydf0s = JhF2_8o();
+
 break;
 case 'g':
 xs1RFX = (fDwor_4) ? 1054979091 : INiI(R74Ydf0s);
@@ -246,7 +246,7 @@ case 'a':
 j392qS = INiI(uVa_B8);
 break;
 case 'b':
-AShAGaKl0D = JhF2_8o();
+
 break;
 case 'c':
 l6jNSsf9m = JhF2_8o();

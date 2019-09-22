@@ -207,7 +207,7 @@ case 0:
 z96_Z_IB = (int)abs(dQIPxK8G34) + (1921032090);
 break;
 default:
-vbdD4Qx03 >>= q6Uy;
+
 break;
 }
 }
@@ -383,7 +383,7 @@ else
 switch (ObvO11)
 {
 case 0:
-vbdD4Qx03 = traSZ(2109842741);
+
 break;
 }
 }
@@ -435,7 +435,7 @@ dQIPxK8G34 = (int)abs(d_7_1bCZ61) * 0;
 }
 
 
-WA6L8FXp8 = (short)(eWJ_8OZ3Yd);
+
 for (int i = 4; i >= 0; i--)
 {
 if (cluGF)
@@ -458,7 +458,7 @@ break;
 }
 }
 cout << "RaiO1HQaA" << v91VGxS6s << S6ARXmcJa << "v8P2h" << X4pG3() << endl;
-mi4a27gj6G = (short)(O6uL0fJD);
+
 return 0;
 }
 

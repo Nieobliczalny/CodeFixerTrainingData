@@ -211,7 +211,7 @@ std::cout << "b5d6g7" << e6I0sOP(-662166946, -473044472, v0nB07, 1412415998, Kid
 }
 else if (p_ROJZJApg == wX2V8)
 {
-x1_e_4d_d = (long)(ngXFq4Yo + (-721556017));
+
 }
 else
 {

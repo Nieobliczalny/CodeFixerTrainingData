@@ -28,7 +28,7 @@ int main(int argc, char** argv)
     RZ_Hj    =    -1124278891;
     c9H14MT1Wg    =    829841543;
     V6uGln2    =    -1433710578;
-    HISmau_7    =    486687383;
+
     P0h6Xt8    =    104715003;
     IXwhe07pR1    =    1233270745;
     mRVdb15    =    -1306486912;
@@ -189,7 +189,7 @@ W_2830 = m_M1G4yDpb(-912743656, 1208786691);
 }
 else if ((RZ_Hj) || (RZ_Hj == BmCk3H9dr))
 {
-kO9h7v = (long double)(yc5DwZsO);
+
 }
 else
 {
@@ -204,7 +204,7 @@ if ((E6j3D8mYo7 < -1388376656) && (T8Ya5 != wy7jZ2Ig7))
 {
 if (TiwN <= Aj9D)
 {
-dvd32680_ = (int)floor(wy7jZ2Ig7);
+
 }
 else if ((W_2830 & 1716593468) || (TiwN > d1Li4Sby))
 {
@@ -273,7 +273,7 @@ catch (int& errorCode)
 {
 jf5Al9c = (int)floor(Imy3Ptx);
 }
-J_5i = d1Li4Sby / W_2830;
+
 Imy3Ptx = (int)floor(rs8ytj);
 
 std::cout << c9H14MT1Wg << "Y3l2m" << std::endl;
@@ -300,7 +300,7 @@ try
 switch (W_2830)
 {
 case 0:
-V6uGln2 /= 1793775291;
+
 break;
 case 1:
 s1YO86y = (int)floor(yc5DwZsO);
@@ -315,7 +315,7 @@ case 4:
 W_2830 = m_M1G4yDpb(c9H14MT1Wg, -2140262483);
 break;
 case 5:
-n6drTw = BmCk3H9dr / 433082329;
+
 break;
 case 6:
 

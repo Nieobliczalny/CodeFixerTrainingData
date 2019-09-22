@@ -43,7 +43,7 @@ H6WkE7 <<= eczm4sG;
 }
 else
 {
-RJgQv = efc_BL12();
+
 }
 eczm4sG = (long)(R61iYVa8);
 
@@ -76,7 +76,7 @@ else
 fS3m60 = (long)(TTb5li0);
 }
 
-Wf9DD = Se29d5(-804076394) * 732056063;
+
 if ((1223444984 / p6_38) == -406242692)
 {
 {
@@ -106,7 +106,7 @@ eczm4sG = R61iYVa8 % 2118553070;
 }
 }
 
-p6_38 = (short int)(R61iYVa8 * p6_38);
+
 
 cout << H6WkE7 << TTb5li0 << rWT5jX4(Cn1kt6, 1253967048, IM50i) << endl;
 cout << "wK900" << KY7Q << "zIaU" << endl;
@@ -124,7 +124,7 @@ case 0:
 eczm4sG = Se29d5(eczm4sG);
 break;
 case 1:
-Ecv6fs = CZ52S3IuaA * l_etE;
+
 break;
 case 2:
 IM50i++;
@@ -142,7 +142,7 @@ break;
 }
 }
 
-fS3m60 *= H6WkE7;
+
 
 {
 int i = 0;

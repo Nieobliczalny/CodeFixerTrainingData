@@ -72,7 +72,7 @@ if (n4YI >= 1017900302)
 }
 else
 {
-hhXd = s53_Qv >> 305824203;
+
 }
 }
 else if ((U9wZ7Lk) && (Viwn9qEE == -1892476045))
@@ -100,7 +100,7 @@ if ((vOSJ48d >= -1624604330) && (Qn_1bB8f != 1924430425))
 {
 if (u0a3M & v3EpX)
 {
-yCyqt = (unsigned short)(tSfxaT6O);
+
 }
 }
 

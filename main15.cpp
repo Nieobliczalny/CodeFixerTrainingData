@@ -17,7 +17,7 @@ int main(void)
 	unsigned long	tYfrZJ;
 
   long double  T5Mwwlo;
-  T5Mwwlo  =  -1238647202;
+
     long double    yrsf_i5MvT;
     yrsf_i5MvT    =    227765847;
     unsigned int    IInpFTn;
@@ -27,7 +27,7 @@ int main(void)
   int  VIW27e34B0;
 
  unsigned int t2CRuZwTKZ;
- t2CRuZwTKZ = 0;
+
     short    qVpbo;
     qVpbo    =    1019592544;
     float    j0LCfjw;
@@ -37,7 +37,7 @@ int main(void)
     unsigned long long    NsGHFGE;
 
     unsigned short int    fZq2XGgd;
-    fZq2XGgd    =    -851771008;
+
     float    JQ6V860;
     JQ6V860    =    -1253549485;
  long double uS11BoO;
@@ -59,7 +59,7 @@ int main(void)
     unsigned char    u_8xo0SPi;
 
 	short	a2x6_pK7;
-	a2x6_pK7	=	-595129112;
+
  unsigned short a4XGY;
  a4XGY = -146069466;
   float  b8bnWA16_;
@@ -69,7 +69,7 @@ int main(void)
     short    V695;
 
     int    A8V0b8k5B;
-    A8V0b8k5B    =    -119272685;
+
   unsigned int  Yd_4;
   Yd_4  =  -1647674562;
   unsigned short  XX34x;
@@ -81,7 +81,7 @@ int main(void)
  short ld1hGCKbH;
  ld1hGCKbH = 553031642;
  float pG_ewL;
- pG_ewL = -477761222;
+
 	float	glR_VMFuXB;
 	glR_VMFuXB	=	1505458382;
  unsigned short int HDb0uHjJ;
@@ -95,7 +95,7 @@ int main(void)
  unsigned long C_786kpt;
  C_786kpt = 202588099;
 	char	p2HU2TsbF_;
-	p2HU2TsbF_	=	1071520648;
+
     short int    zmO_N0;
 
   long long  G1d8O;
@@ -105,7 +105,7 @@ int main(void)
 	short int	CS9yTH7;
 	CS9yTH7	=	-978585116;
 	long	y_YI_;
-	y_YI_	=	2107969057;
+
  unsigned int gsY7;
 
  short W35F5VRk6;
@@ -123,7 +123,7 @@ int main(void)
   unsigned int  H761o;
   H761o  =  0;
   int  DfG0_woT;
-  DfG0_woT  =  -1309087339;
+
 	short	xA06Y;
 	xA06Y	=	2055422490;
     unsigned char    Nw2S03Ks;
@@ -133,7 +133,7 @@ int main(void)
  unsigned long jP118s;
  jP118s = 524073462;
 	float	o05MjVw;
-	o05MjVw	=	-1610917734;
+
  short i__i5d63S;
  i__i5d63S = 1912623490;
     short int    co_v1OP2f;
@@ -143,7 +143,7 @@ int main(void)
 	unsigned long long	WRTzL;
 	WRTzL	=	822321506;
   unsigned long long  V1y5;
-  V1y5  =  -2026445038;
+
     unsigned short    mlrM;
     mlrM    =    1424003953;
 
@@ -160,7 +160,7 @@ case 'b':
 
 break;
 case 'c':
-Ja8z = Nw2S03Ks ^ IInpFTn;
+
 break;
 case 'd':
 uS11BoO = H761o ^ 2000999542;
@@ -187,7 +187,7 @@ while (i >= 0);
 
 if (((qVpbo < 805385490) || (veo4 != 1365993504)) && (fEzx8AV2))
 {
-fEzx8AV2 = yAkjkO / N0Ihn;
+
 }
 else
 {
@@ -217,7 +217,7 @@ case 1:
 
 break;
 case 2:
-DH3g056M = yAkjkO / 464178121;
+
 break;
 case 3:
 C_786kpt &= 715139905;

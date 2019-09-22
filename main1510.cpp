@@ -203,7 +203,7 @@ else
 
 std::cout << al_b1OtO << "kXqSA" << "G2NnJ" << h87Rvtbg6 << "DyWEt0CF8" << std::endl;
 w_kf_ = (int)ceil(uN16);
-uN16 -= 1115778170;
+
 std::cout << eA40W5Q7F(21962545, w_kf_, u5_9Uq1qaQ) << "oxIO38X" << "MRldU7g" << JoxWE << std::endl;
 a_1Psq = (int)ceil(WJ0z50h6);
 
@@ -255,7 +255,7 @@ else
 }
 if (((sthox8T7 & 2027351763) || (FKj9F >= -2038647378)) || ((w_kf_ > IE07) && (h87Rvtbg6 != -892190990)))
 {
-u5_9Uq1qaQ = (long double)(st6V3);
+
 }
 else
 {

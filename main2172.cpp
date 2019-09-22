@@ -39,7 +39,7 @@ t39Xn5 += 1083499202;
 }
 while (i < 3);
 }
-ZazgU6jvhr = (unsigned long)(d4Qz_);
+
 
 
 for (int i = 0; i < 4; i++)
@@ -123,7 +123,7 @@ else
 }
 while (i >= 0);
 }
-KqI_nPjH *= t3vT6mKJq;
+
 return 0;
 }
 

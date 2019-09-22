@@ -52,7 +52,7 @@ while (i >= 0)
 {
 if (Np3_Loh <= ho2QyfJGQ)
 {
-PZN3_5xH = (float)(rZy034_oD);
+
 }
 --i;
 }

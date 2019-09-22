@@ -58,7 +58,7 @@ int main()
  long eIs7;
  eIs7 = 1169281773;
     int    D_m48K2;
-    D_m48K2    =    32155499;
+
   unsigned short  ZO9_;
   ZO9_  =  0;
   int  AdI27l;
@@ -120,7 +120,7 @@ int main()
     float    rJbh;
 
   unsigned short int  f3m6fo;
-  f3m6fo  =  -645690702;
+
  double Hv3fcZc1X;
  Hv3fcZc1X = 1634026671;
  unsigned int nLc84qFe;
@@ -256,7 +256,7 @@ case 1:
 
 break;
 case 2:
-rd3jY = y5rZHrAGc(-708197261, I_n4lmB5);
+
 break;
 case 3:
 Hv3fcZc1X = (int)ceil(Hd4J);
@@ -319,7 +319,7 @@ else
 {
 if ((V7z_0G >= JG8UK) && (WFnx3g2y9 < -293790854))
 {
-rJbh = (int)abs(anscNlpj3u);
+
 }
 }
 }
@@ -331,7 +331,7 @@ Hv3fcZc1X = (int)ceil(Hd4J);
 
 
 
-xiOmm = (unsigned short)(ZO9_ + (NB1eDAkdS));
+
 try
 {
 anscNlpj3u = (int)ceil(Hv3fcZc1X);

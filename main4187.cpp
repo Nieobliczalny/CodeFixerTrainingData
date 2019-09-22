@@ -173,7 +173,7 @@ try
 {
 if (NQtZ >= 1869558343)
 {
-zfB_ = J0kL << GiB7ut;
+
 }
 else
 {
@@ -215,7 +215,7 @@ TuT02 = T1ETp2(144463124, 1926897191, 435305914);
 switch (MdBBOr)
 {
 case 0:
-zfB_ = (int)floor(Oa7r);
+
 break;
 case 1:
 p266F89 = s1697Z(1821531770, Oa7r, 1635777293);
@@ -230,7 +230,7 @@ break;
 
 if (TuT02 < -1706318804)
 {
-ixT5CL = (long double)(a1U6OaG);
+
 }
 
 ixT5CL = (int)floor(Hd7X);
@@ -245,7 +245,7 @@ case 1:
 YL37P--;
 break;
 case 2:
-u1dH87 = (int)abs(ixT5CL);
+
 break;
 case 3:
 DySubh = r43gLn(DySubh, -1856521511, -285216858, Oa7r, f6J8p6);
@@ -270,7 +270,7 @@ if (((CKxX53Zt > 1031405138) && (G_M9Ol)) || ((JKomWH <= Thm6C_1) && (Thm6C_1)))
 }
 else
 {
-vkcoq611p = s1697Z(vkcoq611p, TuT02, Sge6Ny5);
+
 }
 }
 catch (int& errorCode)

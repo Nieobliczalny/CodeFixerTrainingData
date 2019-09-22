@@ -11,7 +11,7 @@ using namespace std;
 int main()
 {
   long  QKnJWR;
-  QKnJWR  =  -345439740;
+
 	unsigned int	NcoJ;
 
     char    iAIu0;
@@ -25,7 +25,7 @@ int main()
   char  BB6G2_Yh2;
 
 	int	SDB9AKQ;
-	SDB9AKQ	=	859710909;
+
  unsigned short int ogdwI45UG;
  ogdwI45UG = -545776694;
   long long  QY9t0;
@@ -43,7 +43,7 @@ int main()
   short int  D8kAw1;
   D8kAw1  =  1059328647;
  short nLWDANL;
- nLWDANL = -1372875787;
+
     unsigned int    PY_9FahZ48;
     PY_9FahZ48    =    -897955899;
   long  xx__fc9;
@@ -67,7 +67,7 @@ int main()
   unsigned short  Dix0B_U6;
   Dix0B_U6  =  -1766299407;
 	long double	DP2Z69;
-	DP2Z69	=	-1111520470;
+
 	long double	Iny12jJp;
 	Iny12jJp	=	-595664778;
 	long	jXuPDUiR_;
@@ -79,7 +79,7 @@ int main()
   short  wsB3ybRs;
   wsB3ybRs  =  1725273575;
 	unsigned long long	K70i5q8;
-	K70i5q8	=	-1006130480;
+
  unsigned short int qWh1;
 
 	char	y_mp2m9_Dl;
@@ -89,7 +89,7 @@ int main()
 	char	l6vgI;
 	l6vgI	=	1635583005;
   unsigned short int  I61rq7;
-  I61rq7  =  -851238285;
+
  double P9ll;
  P9ll = -1473716561;
 	short	fS0R94;
@@ -136,7 +136,7 @@ case 'f':
 ogdwI45UG /= ORnT779x;
 break;
 case 'g':
-qWh1 = pELZmYxOK3 / YlmZ7lrn9;
+
 break;
 default:
 y_mp2m9_Dl = FsTdsVz | 501482507;
@@ -163,7 +163,7 @@ cout << "w_CVVNw" << endl;
 
 EP5xq0uL8D = EP5xq0uL8D >> 502669571;
 
-kIbo2GqE36 %= FsTdsVz;
+
 
 cout << -1924776894 / Vx7a << endl;
 for (int i = 5; i >= 0; i--)
@@ -199,7 +199,7 @@ for (int i = 0; i < 3; ++i)
 }
 for (int i = 0; i < 1; i++)
 {
-DP2Z69 = iAIu0 << csmUUB0;
+
 }
 
 if (sry29J0_ > 1354711315)
@@ -227,7 +227,7 @@ if ((DJ9QFG) && (hw66u_DY9 & -266413042))
 }
 else
 {
-P9ll *= Iny12jJp;
+
 }
 }
 catch (int& errorCode)
@@ -240,7 +240,7 @@ else
 A7v9rM = (short int)(ogdwI45UG);
 }
 
-P9ll = DJ9QFG + xx__fc9;
+
 jXuPDUiR_ = hjytO8b_ / D8kAw1;
 
 return 0;

@@ -16,7 +16,7 @@ int main(void) {
 	unsigned char	M2Bd5XRE,	MIMp7oN_,	k6OUHS98K,	F8DbGc7Pli,	k7TH9lQz_y;
 	M2Bd5XRE	=	0;
 
-	k6OUHS98K	=	0;
+
 	F8DbGc7Pli	=	0;
 	k7TH9lQz_y	=	0;
 	char	N5ll,	HEgZFe,	LMfMUV8,	hj9LaX1,	HtY96UAu,	L7aWA8,	qStmA,	ZPEO,	FB2_o7,	KD6iL_,	m2_k,	k4dTS1,	u_1Vh9M,	z_MVN9,	S3K2,	Y7lhzU,	IkE59tx4o0,	A3XA,	M64SvT,	Ma9OwT0e3,	Qe1XB03W,	Vu48,	t3x_CDxx1,	W5_Jedl4T6,	PjFg8,	gKoakM2zA,	j69Q8905L9,	behK18JM84,	ahcl16xk,	Knm_,	iq9vJM,	Bf_u,	H2Z2GvSFoQ,	K2aiG24W22,	uUL_2O4XG,	Msu7gUQ,	cRoRoj,	M_o2,	TVK4yYcy,	B_4Jkr,	Y3fv,	LYftF6TX,	LpdT0W1,	Vt9LKbnq8,	t2ELNr0r9u,	lB4_wN,	inz9dgb215;
@@ -30,7 +30,7 @@ int main(void) {
 	ZPEO	=	-1658835120;
 
 	KD6iL_	=	1002921061;
-	m2_k	=	-194875223;
+
 	k4dTS1	=	-1816488278;
 	u_1Vh9M	=	640454822;
 	z_MVN9	=	1022254678;
@@ -44,7 +44,7 @@ int main(void) {
 	Vu48	=	2143757586;
 
 	W5_Jedl4T6	=	-2026264415;
-	PjFg8	=	559885451;
+
 	gKoakM2zA	=	-1122982357;
 	j69Q8905L9	=	-1240975778;
 	behK18JM84	=	-1117312776;
@@ -54,7 +54,7 @@ int main(void) {
 	Bf_u	=	1719434236;
 	H2Z2GvSFoQ	=	-546092638;
 
-	uUL_2O4XG	=	1424584217;
+
 	Msu7gUQ	=	1681021633;
 	cRoRoj	=	-980354665;
 	M_o2	=	398892952;
@@ -64,7 +64,7 @@ int main(void) {
 	LYftF6TX	=	-2072914166;
 	LpdT0W1	=	1249497353;
 
-	t2ELNr0r9u	=	1936572237;
+
 	lB4_wN	=	-532275148;
 	inz9dgb215	=	-274998673;
 
@@ -107,7 +107,7 @@ case 1:
 gKoakM2zA >>= 1903250205;
 break;
 case 2:
-j69Q8905L9 = (int)abs(B_4Jkr);
+
 break;
 case 3:
 Msu7gUQ %= ahcl16xk;
@@ -162,7 +162,7 @@ case 3:
 
 break;
 case 4:
-K2aiG24W22 = ZPEO * 1116760082;
+
 break;
 }
 for (int i = 5; i >= 0; --i)
@@ -194,7 +194,7 @@ if (hj9LaX1)
 {
 if ((z_MVN9 >= oUB0owg) && ((S3K2) && (S3K2 < H1HW1V9)))
 {
-S3K2 = H2Z2GvSFoQ >> 1990354219;
+
 }
 else
 {
@@ -205,7 +205,7 @@ else
 {
 try
 {
-z_MVN9 ^= 1718157339;
+
 }
 catch (int& errorCode)
 {
@@ -226,7 +226,7 @@ else
 {
 if (((F8DbGc7Pli & ynOPC9wu) && (Bf_u)) || (u_1Vh9M & H1HW1V9))
 {
-Ma9OwT0e3 = hj9LaX1 ^ 1635767973;
+
 }
 }
 }
@@ -268,7 +268,7 @@ for (int k = 9; k >= 0; --k)
 int i = 2;
 while (i >= 0)
 {
-k7TH9lQz_y = (unsigned char)(IkE59tx4o0 * (N1y8G));
+
 i--;
 }
 }

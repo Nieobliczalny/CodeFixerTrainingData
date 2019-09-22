@@ -25,7 +25,7 @@ int main(int argc, char** argv) {
  long qtskp;
  qtskp = 1980966187;
     double    C_mQG6;
-    C_mQG6    =    -442554459;
+
  short int J623u_Ok_;
  J623u_Ok_ = -1330278257;
 	unsigned short	P6U2_XK0;
@@ -53,7 +53,7 @@ int main(int argc, char** argv) {
  double ic305FO9;
  ic305FO9 = -1093026094;
   unsigned int  bkT9SJR7F;
-  bkT9SJR7F  =  322265992;
+
     long    dz1LkT4Aw;
     dz1LkT4Aw    =    0;
   unsigned char  aGBo8;
@@ -71,7 +71,7 @@ int main(int argc, char** argv) {
     char    Fkue0P7;
     Fkue0P7    =    71025503;
     double    BOJsr;
-    BOJsr    =    -145071474;
+
 	long	bucQ_9n;
 	bucQ_9n	=	0;
  int C5qM3a0X;
@@ -175,7 +175,7 @@ while (i >= 0);
 C5qM3a0X = (int)(dL9hzDNlT8);
 try
 {
-Sm7N_O_FM = g7YawR62ed >> 1542055062;
+
 }
 catch (int& errorCode)
 {
@@ -235,7 +235,7 @@ while (k >= 0);
 }
 else
 {
-BOJsr = (double)(v3dJhc1s_ + (gJ5bw));
+
 }
 }
 else
@@ -253,7 +253,7 @@ case 'b':
 
 break;
 case 'c':
-Ze0_QXN3_2 = (int)abs(dz1LkT4Aw);
+
 break;
 case 'd':
 ic305FO9 = C5qM3a0X - I2P_J_a;
@@ -285,7 +285,7 @@ case 1:
 X97_Z = (int)ceil(LqU4RIb_);
 break;
 case 2:
-tyBv = (int)ceil(tUo5);
+
 break;
 case 3:
 P6U2_XK0 = C5qM3a0X << z9t2;
@@ -297,7 +297,7 @@ case 5:
 Fkue0P7 = dz1LkT4Aw | e98YL24R;
 break;
 case 6:
-z9t2 ^= C5qM3a0X;
+
 break;
 case 7:
 J623u_Ok_ = (int)abs(I2P_J_a);

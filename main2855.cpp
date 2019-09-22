@@ -24,7 +24,7 @@ int main(void) {
 
  RMIra_ER4q = 511257421;
  H1xddg4 = -1535746482;
- VruYa129 = -1448654470;
+
  C1_grjV = 1409371088;
  nhssdF75Q = 1085860335;
  c3OS9oir = 1119618302;
@@ -35,7 +35,7 @@ int main(void) {
  vS7_28H6 = -1013899422;
  h8Oh = -1243346859;
  UFUTlMgmT = -1700959475;
- I63p_ph_ = 1643751921;
+
  xUN0 = -1978297969;
  JGHfp82H = 1565470252;
  y3hYx = 2006772926;
@@ -45,7 +45,7 @@ int main(void) {
 
  SJg6b9 = 1103883500;
  r0i82y = -198724688;
- Zr7dxV5n = 297841376;
+
  iwC8ZVDWRE = 1967685823;
  Ury_W2 = 289958302;
  USW8H6sX5l = 1058800631;
@@ -57,7 +57,7 @@ int main(void) {
  x6tg2 = 1140503098;
  UGKtk6Lf = -2037553774;
  GJD1f = 1113847928;
- J5Ld = 1131807639;
+
  IASXk = -2114894397;
 
  HP16O9N = 1165571455;
@@ -68,7 +68,7 @@ int main(void) {
  W98R6C9X3 = -1696286817;
  w268SVh = 351055304;
  q0Dy2Eek = -1206063696;
- Ez09m = 595505509;
+
  IYkDL = 404757593;
  iN0i3_ = -595866788;
  J7_k_0QQU4 = -1375652546;
@@ -79,7 +79,7 @@ int main(void) {
  em0C90bMcq = -1545888939;
  C2UDJ = 8130135;
  MlpBL_33B8 = 1669699895;
- l5_R39yD = -632793907;
+
 
 for (int i = 9; i >= 0; --i)
 {
@@ -142,7 +142,7 @@ case 'c':
 
 break;
 case 'd':
-UFUTlMgmT <<= iwC8ZVDWRE;
+
 break;
 case 'e':
 W98R6C9X3 = Lf93(W98R6C9X3, C2UDJ, IASXk, -1340177992);
@@ -160,7 +160,7 @@ case 'i':
 LcHmC <<= 1794909561;
 break;
 case 'j':
-iwC8ZVDWRE *= 1659381455;
+
 break;
 }
 {
@@ -205,7 +205,7 @@ if (C1_grjV > Y7P6um2P)
 {
 for (int j = 0; j < 8; ++j)
 {
-vS7_28H6 = (unsigned short int)(em0C90bMcq);
+
 }
 }
 else if ((H1xddg4 <= LcHmC) && (q0Dy2Eek & 1731705140))
@@ -270,7 +270,7 @@ i++;
 }
 while (i < 2);
 }
-W98R6C9X3 = ia849lh(-1948057826, -1404461545, -293680237, 48484715) / vtP3ujp;
+
 {
 int i = 9;
 do
@@ -292,7 +292,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-No1gq178pq = nhssdF75Q & 1304393715;
+
 break;
 case 'd':
 case 'D':
@@ -304,7 +304,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-USW8H6sX5l = Lf93(USW8H6sX5l, xf38, 2127512854, 1178787202);
+
 break;
 case 'g':
 case 'G':
@@ -315,7 +315,7 @@ case 'H':
 
 break;
 default:
-g6M_23Go7Q = GJD1f | 254930785;
+
 break;
 }
 if ((C1_grjV & 427841460) && (GJD1f <= Zr7dxV5n))

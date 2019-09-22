@@ -16,7 +16,7 @@ int main() {
     int    PHIy    =    0,    R4Z3a1D    =    0,    f3213V    =    0,    tJL_    =    0;
     unsigned long long    l7nGbDwHx    =    -2071638699,    gs0X0f_    =    -32303399,    dQ_G54dhS    =    1159128599,    Xy3Ng_F    =    1813149899,    rKdW    =    962709008,    Kegw3Z88    =    1600727123,    EeU8N__3m    =    -255354721,    I9hhW3_w0T    =    1682593129,    xUl6    =    -1159333273,    b__iKU9e6_    =    -451376207,    GPf_gyxY    =    -977386713,    r76nf    =    -884825571,    H99k    =    16527154,    MR7wk9R_y    =    -234474888,    w8w5_he    =    -1479938336,    pBb3Hn96sV    =    789728187,    S47zggbm    =    440245598,    aRfhdld    =    -1937497389,    S19ic4GY6    =    718958487,    UIetfGFH2    =    -1354567415,    vxDOl    =    -1772906429,    X07ayK    =    -876303125,    ou8If7e    =    815107780,    MhvH    =    930654387,    k3N_C    =    -368242212,    z9E167_y2    =    920429543,    Dy397    =    -1810099243,    ds2Vfq    =    738861086,    eXt2PaG    =    -1543131275,    R2BkL8i    =    1631831851,    aiae67v_9    =    -2092379221,    jmJYz    =    612748850,    S5sd12ZMlw    =    -1643877709,    zRfHFJfC    =    2088410405,    CQ489ZLcti    =    -662789012,    Nm3lvcH6kx    =    1253446198,    n7C33_    =    1542118302,    XT3k423W0J    =    2117669367,    oo15_    =    300461312,    WD8ohd    =    454555428,    O_OSJ15I    =    232460423,    r5qSR6W    =    -1035221996,    RYz7LlgF    =    1842284518;
 
-ds2Vfq = (unsigned long long)(S47zggbm);
+
 {
 int i = 0;
 while (i < 1)
@@ -83,7 +83,7 @@ PHIy = S75_VI75(X07ayK);
 }
 else
 {
-GPf_gyxY <<= 1634945559;
+
 }
 }
 else if (S5sd12ZMlw == k3N_C)
@@ -208,7 +208,7 @@ if (PHIy >= -274677313)
 }
 else if (b__iKU9e6_ & 259704823)
 {
-aiae67v_9 -= 407182336;
+
 }
 else if (ou8If7e <= -1190167856)
 {
@@ -324,7 +324,7 @@ case 2:
 R4Z3a1D = S75_VI75(-992378892);
 break;
 case 3:
-tJL_ = S75_VI75(gs0X0f_);
+
 break;
 case 4:
 ou8If7e = Kegw3Z88 ^ 1709501433;
@@ -342,7 +342,7 @@ case 8:
 
 break;
 case 9:
-CQ489ZLcti &= H99k;
+
 break;
 }
 X07ayK >>= oo15_;

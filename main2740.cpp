@@ -79,7 +79,7 @@ while (i >= 0);
 int i = 0;
 do
 {
-Z9I7iK = (unsigned long)(i_HQpcX);
+
 ++i;
 }
 while (i < 2);
@@ -162,7 +162,7 @@ case 3:
 U0Cm = Apu3Fo_3W(-1616541603, -1557904383);
 break;
 case 4:
-i_HQpcX = QWLDc64 + FH5_QP;
+
 break;
 case 5:
 U0Cm = Apu3Fo_3W(b0jfQRZIu, lgAUX);
@@ -201,7 +201,7 @@ case 1:
 e0mBgp12 = (int)abs(ZgtX);
 break;
 default:
-i_HQpcX = (int)abs(X9UP2nD);
+
 break;
 }
 }
@@ -222,7 +222,7 @@ L0332 = (int)abs(h3yjf29);
 switch (e0mBgp12)
 {
 case 'a':
-M7keCg0B9 = (int)abs(VPDqgwvmP6);
+
 break;
 case 'b':
 v_ias0jk &= 922066107;
@@ -284,7 +284,7 @@ std::cout << Apu3Fo_3W(-703301798, -1153318542) << std::endl;
 }
 else if (lgAUX & b0jfQRZIu)
 {
-ZgtX = (int)abs(h3yjf29);
+
 }
 else
 {
@@ -311,7 +311,7 @@ v_ias0jk >>= Vgk45TlDA;
 }
 }
 
-h3yjf29 = (char)(llYr);
+
 X9UP2nD = (int)floor(L0332);
 
 

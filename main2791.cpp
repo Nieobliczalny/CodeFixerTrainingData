@@ -131,7 +131,7 @@ try
 {
 if (((bImn285A0 != 428161754) && (aN62 == -331522655)) && (On_Ln < -1645177382))
 {
-BdUx = h3_9K_ - 223293051;
+
 }
 else if (ekB3b5l <= pM3D_Q9FG0)
 {
@@ -261,7 +261,7 @@ if (C96_3p36N >= 952722395)
 {
 if (Xt_j)
 {
-iYSW0M4c0F = (int)abs(V7Ou_q59);
+
 }
 }
 else if (h4i07 != D94A)

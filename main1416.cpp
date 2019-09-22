@@ -115,7 +115,7 @@ int main(int argc, char** argv)
 	long	TC7q36bCo;
 	TC7q36bCo	=	-1340061452;
     short    glx3;
-    glx3    =    2057112839;
+
 	float	uJfA;
 	uJfA	=	439082254;
  unsigned long q8gpcLhIg;
@@ -201,7 +201,7 @@ int k = 0;
 do
 {
 k++;
-glx3 = (int)abs(cy34N);
+
 }
 while (k < 10);
 }
@@ -759,7 +759,7 @@ case 0:
 
 break;
 case 1:
-u7ikKGa = Js7wTUE(-1225085515);
+
 break;
 case 2:
 YNm_U079 = Js7wTUE(-1953994183) % PWYK5yb;
@@ -771,7 +771,7 @@ case 4:
 
 break;
 case 5:
-k1_17 = B3M9Sc56(-737131086, -290486760, PWYK5yb) - EH5hX4aL;
+
 break;
 case 6:
 hisUo = iMs00 & IIwqVwH_S;
@@ -818,7 +818,7 @@ else
 {
 for (int k = 10; k >= 0; --k)
 {
-DWoKcid44z = (int)floor(B06B771W44);
+
 }
 }
 }
@@ -833,7 +833,7 @@ case 1:
 
 break;
 case 2:
-OO71h2RbXb = (int)floor(MhY4AeZX);
+
 break;
 case 3:
 m18e %= iMs00;
@@ -867,7 +867,7 @@ else
 {
 for (int k = 1; k >= 0; k--)
 {
-EtRdRS4H = (int)floor(B5a9S);
+
 }
 }
 }
@@ -879,7 +879,7 @@ case 'a':
 
 break;
 default:
-ZHw8ZW3JEV /= 2028546885;
+
 break;
 }
 }

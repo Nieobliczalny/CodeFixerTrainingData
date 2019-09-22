@@ -69,7 +69,7 @@ while (k < 8);
 }
 }
 
-vv9P6b = -1587051240 / n3T5AN;
+
 return 0;
 }
 

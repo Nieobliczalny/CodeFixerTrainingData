@@ -154,7 +154,7 @@ case 'c':
 
 break;
 case 'd':
-sqTN58 -= mU315PRkI;
+
 break;
 case 'e':
 Vd06ts9mp = Nrdc(Vd06ts9mp, 904413358, fGBg, uVY04Ke0J8, ek_47);
@@ -166,7 +166,7 @@ case 'g':
 
 break;
 case 'h':
-J8Q5Js27T = (int)ceil(Nnj83c2o);
+
 break;
 default:
 fGBg = P6hV_uc(729232428, m1X9l2H7y, 743713683, R6TA7f8);

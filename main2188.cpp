@@ -105,7 +105,7 @@ YW7k0lq5 += 1676542066;
 break;
 case 'c':
 case 'C':
-o792PGe6A = G2w1YQ(o792PGe6A, kEp15r, dpDDFdL2);
+
 break;
 case 'd':
 case 'D':
@@ -117,7 +117,7 @@ kEp15r = (YW7k0lq5 == -216917188) ? 94970722 : X_C2z94Xt;
 break;
 case 'f':
 case 'F':
-x_HB4koM_i <<= 1626847133;
+
 break;
 case 'g':
 case 'G':
@@ -128,7 +128,7 @@ case 'H':
 
 break;
 default:
-MHt_4 = (int)ceil(Q37KRYB7aF);
+
 break;
 }
 for (int i = 6; i >= 0; --i)
@@ -165,7 +165,7 @@ while (i < 8);
 
 
 
-ghJSE14 = (unsigned long)(bsZYkn);
+
 AnL061x = w8DRKlC(-720094835, r3XvBh2P, -1145268474, -1891125609);
 
 std::cout << G2w1YQ(-776862985, -1812042611, -1763614107) << w8DRKlC(AnL061x, r3XvBh2P, -60759910, F7yW7kHzNA) << "AI95Ga_H" << b86waG3_4X(AnL061x, 1804663081) << "p44q4z" << std::endl;

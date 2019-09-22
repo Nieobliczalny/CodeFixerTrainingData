@@ -378,7 +378,7 @@ case 0:
 
 break;
 case 1:
-WJe2xtn = (int)abs(U_oVa);
+
 break;
 case 2:
 ceKn58Ye = (RX_UER9_ZB & 1687611404) ? hTv8 : jxXCf;

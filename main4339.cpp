@@ -77,7 +77,7 @@ int main() {
     unsigned int    Dsof79G    =    1923741148;
 	double	vr9CRtQ9Q	=	621590766;
 
-kk7kg = (int)ceil(vr9CRtQ9Q);
+
 
 {
 int i = 5;
@@ -227,7 +227,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-Wr16I0BL = rWtR3QQ802();
+
 break;
 case 'c':
 case 'C':
@@ -239,7 +239,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-Zo6885 |= W4_q9U;
+
 break;
 case 'f':
 case 'F':
@@ -251,7 +251,7 @@ case 'G':
 break;
 case 'h':
 case 'H':
-mO5eT5_ = e0VLDnMf(hxuw4q9Tl) % 1307192495;
+
 break;
 default:
 Wr16I0BL = cn05C8ll8(Wr16I0BL, GTg3h9a, kee_j4);
@@ -290,7 +290,7 @@ else if (JYDuM8dn5)
 switch (H371qT)
 {
 case 0:
-PLrFxy0 = cn05C8ll8(PLrFxy0, kk7kg, 1914643675);
+
 break;
 case 1:
 

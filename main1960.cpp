@@ -37,7 +37,7 @@ case 0:
 
 break;
 case 1:
-dMx27 = dMx27 | 1025506319;
+
 break;
 case 2:
 CaX6YD = (Sb35OtGc2O < -1216583557) ? Ru12U6BT : 2134202019;
@@ -77,7 +77,7 @@ case 2:
 bczeU0O ^= 2069429210;
 break;
 case 3:
-L6BoTGMY = W4rD9143X ^ 170723677;
+
 break;
 case 4:
 h5SuA3 = WY23(h5SuA3, I9GxI, fL_6sS);

@@ -19,7 +19,7 @@ int main(void)
 	XNd78IK4jj	=	370618588;
 	uX_985_Gz9	=	-1431481061;
 
-	H9JP	=	-941603242;
+
 	HrO1M8S	=	1408427487;
 	O1RWdY	=	-762137426;
 	vrCQ6L	=	-633825434;
@@ -35,7 +35,7 @@ int main(void)
 
 	AKUz3	=	1179405050;
 	Vsto96h89	=	-2047642288;
-	G_8_ZbUyE	=	687240354;
+
 	m0ZS3_	=	-793862722;
 	PouX	=	-867727635;
 	mkId3T	=	902595496;
@@ -45,7 +45,7 @@ int main(void)
 
 	w1_2t1	=	-1130379064;
 	Z1GXK	=	1310312111;
-	K92u_	=	1825062619;
+
 	IcUGwkR	=	-1086504246;
 	X_220_R4	=	823114560;
 	DV40w	=	-1882182341;
@@ -58,7 +58,7 @@ int main(void)
 	cJLM7pAS	=	-745169590;
 
 	fsWGuaL	=	711432278;
-	N3a7GfPtX	=	-1537980216;
+
 	y00aAn5	=	-1201304963;
 	UR1cG7Vsm4	=	51503941;
 	wVP79In	=	1844196695;
@@ -68,7 +68,7 @@ int main(void)
 	ooz0	=	1181090600;
 
 	ENwi__4	=	51646902;
-	L72O	=	691607268;
+
 	XOfa50	=	1289682021;
 	t4oRa9L1	=	431777003;
 	B33D	=	-1773483438;
@@ -83,7 +83,7 @@ int main(void)
 	d1PVH	=	1098753551;
 	O78113y_Q	=	-658068329;
 	iX9078Wlqc	=	-1059168284;
-	CtSw1A	=	-1420851423;
+
 	qWT8	=	-1373811110;
 	snL1k	=	-17703830;
 	D_KNq	=	586105088;
@@ -95,7 +95,7 @@ int main(void)
 	BAYO	=	-1886829026;
 	pP8lqxX5o	=	-233186951;
 
-	NGjo9O	=	169382178;
+
 	Bpz9	=	1246779465;
 	J3plJiF	=	1374363902;
 	zeWBrS1J6	=	-2080878956;
@@ -144,7 +144,7 @@ case 2:
 fsWGuaL *= Bpz9;
 break;
 case 3:
-uX_985_Gz9 += 137937267;
+
 break;
 case 4:
 Uv7K--;
@@ -185,7 +185,7 @@ V9dIT6702J &= 1041026202;
 break;
 case 'd':
 case 'D':
-m9Ymiqv = (int)abs(LB396sZ);
+
 break;
 default:
 
@@ -260,7 +260,7 @@ U2_Jzj4c40 = (int)abs(PX30);
 break;
 case 'c':
 case 'C':
-y00aAn5 = yIwEi_g | 137328056;
+
 break;
 case 'd':
 case 'D':
@@ -291,7 +291,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-IcUGwkR = (int)abs(LB396sZ);
+
 break;
 case 'e':
 case 'E':
@@ -303,7 +303,7 @@ case 'F':
 break;
 case 'g':
 case 'G':
-qY851 = (int)abs(PouX);
+
 break;
 default:
 zAcWJ = qyFS9B | 1807977633;
@@ -313,7 +313,7 @@ break;
 while (i >= 0);
 }
 
-wVP79In = 446846526 / uONY8;
+
 
 {
 int i = 0;
@@ -329,7 +329,7 @@ switch (zhYBuxGbI)
 {
 case 'a':
 case 'A':
-DyuEH = (int)abs(zAcWJ);
+
 break;
 default:
 zAcWJ = zhYBuxGbI ^ 314939025;
@@ -352,7 +352,7 @@ zAcWJ = (int)abs(PouX);
 }
 else if (iX9078Wlqc <= 1475307420)
 {
-yTP_1fobt = (int)abs(HrO1M8S);
+
 }
 else
 {
@@ -378,7 +378,7 @@ case 0:
 
 break;
 case 1:
-PeV4 = (int)abs(V9dIT6702J);
+
 break;
 case 2:
 X_220_R4 ^= qyFS9B;

@@ -26,7 +26,7 @@ int main(void)
 	Z2Esilh6pD	=	1640529498;
 	zg_JZXR73	=	100569174;
 	UUT03gM	=	1905421029;
-	GGA2b	=	1213617248;
+
 	y2vypJT	=	-140843130;
 	fA4cw	=	398772422;
 	vlXh	=	1018559039;
@@ -40,7 +40,7 @@ int main(void)
 	DeKgP_4t1	=	-612612532;
 	qqPrkIzcW4	=	1559078003;
 	PcKFR5k4	=	-91315040;
-	W8edIv	=	-1233289476;
+
 	HEzv2V_	=	1670026806;
 	h67B14z	=	1005389078;
 
@@ -81,7 +81,7 @@ int main(void)
 	KJ522WKu	=	-2031596377;
 	LeYm88	=	1137357602;
 	i490p3LW1	=	-1812353646;
-	Cu9O6THp	=	811027693;
+
 
 	id78p	=	-1264115247;
 	lZ25_N625O	=	1626357163;
@@ -182,7 +182,7 @@ switch (wm3q6)
 {
 case 'a':
 case 'A':
-qw_0FKXe6 <<= Df3T;
+
 break;
 case 'b':
 case 'B':
@@ -227,7 +227,7 @@ z1p1i = KjPz6M472(-1442435097, -1435420983);
 break;
 case 'f':
 case 'F':
-W8edIv = z1p1i | 674457979;
+
 break;
 case 'g':
 case 'G':
@@ -268,7 +268,7 @@ z1p1i = KjPz6M472(y2vypJT, -708342274);
 break;
 case 'f':
 case 'F':
-O0B3zM = KjPz6M472(y2vypJT, xtss4IcM) >> 471650352;
+
 break;
 case 'g':
 case 'G':
@@ -337,7 +337,7 @@ case 1:
 o1xX57 = (int)abs(tG2y_p);
 break;
 case 2:
-O3nO <<= PcKFR5k4;
+
 break;
 case 3:
 z1p1i = KjPz6M472(-1571058231, UUT03gM);
@@ -491,7 +491,7 @@ else if ((z1p1i <= -1667664063) || (MPyVl7M3 != qqPrkIzcW4))
 }
 else if (rFD6__0Sl <= Kf_d9Sp19)
 {
-FIne_2 = (int)abs(pq6aA4ZIR5);
+
 }
 else
 {
@@ -507,7 +507,7 @@ else
 std::cout << HEzv2V_ / QwHGEp << std::endl;
 for (int i = 0; i < 8; i++)
 {
-z1p1i = KjPz6M472(-957163327, O_I6);
+
 }
 {
 int i = 8;

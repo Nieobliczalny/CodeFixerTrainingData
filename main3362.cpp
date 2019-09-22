@@ -384,7 +384,7 @@ while (j < 3);
 
 BVj6fA7__8 = (int)abs(t4k06DPX8) * 0;
 
-bKv_Gnx = Z6Yq2359 / qBniP5o3T;
+
 {
 int i = 6;
 while (i >= 0)
@@ -444,7 +444,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-R32Y9J0Y3 %= buZCa1oyoI;
+
 break;
 case 'c':
 case 'C':
@@ -481,7 +481,7 @@ catch (int& errorCode)
 {
 x4iNH0PoB = (int)abs(mfOAcx);
 }
-CbD67 = lqPs6j(CbD67);
+
 
 
 try

@@ -115,7 +115,7 @@ case 1:
 
 break;
 case 2:
-t84u = j_t9K_mK9F + lgB20YWWz;
+
 break;
 default:
 yzAY |= 1064070154;
@@ -179,7 +179,7 @@ else
 }
 else if (miYO5Vg2WE != 668036755)
 {
-Pntgi42wLg = sKlp_y();
+
 }
 else if ((yzAY) || ((Y82AT_bop & x7qAXv5F3) || (EM_q5JsP7M != x7qAXv5F3)))
 {
@@ -219,7 +219,7 @@ else
 
 }
 
-Pntgi42wLg = (int)abs(LluG);
+
 
 try
 {
@@ -241,7 +241,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-Pntgi42wLg = (int)abs(bgM0E);
+
 break;
 case 'e':
 case 'E':
@@ -321,7 +321,7 @@ break;
 }
 }
 }
-dhUjsa = sKlp_y() / LluG;
+
 
 return 0;
 }

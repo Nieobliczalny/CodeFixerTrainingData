@@ -40,7 +40,7 @@ int main() {
     unsigned short int    o746ifbKU    =    0,    Ot1idsvJ    =    0,    jr0d2h    =    0,    kKv9XzMgdN    =    0,    OQC8FQ    =    0;
  long double VgfI657cv = 1450965132, H1JT63N7 = -724971521, W7h4gLI57 = -875061590, b1V9N_36 = 1842405216, P0V7 = 544837393, DR736KU = -1731218689, JEN2u85g = -72140256;
 
-H1JT63N7 = (int)abs(VgfI657cv);
+
 
 P0V7 = jtnihKIStG(-1125944804, 570120401, W7h4gLI57, b1V9N_36) / NHWxncC(VgfI657cv, -1714047288, W7h4gLI57);
 

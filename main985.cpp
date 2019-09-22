@@ -455,7 +455,7 @@ case 'c':
 BxgbvL3F = lilUL34W2G ^ s07Xkc5g;
 break;
 case 'd':
-iqTKs9__ = je5nLkA_2c(-749472302, -98325221, -937906161, -2073042201, WYxtJEa);
+
 break;
 case 'e':
 s07Xkc5g = je5nLkA_2c(436531783, 1272811347, 1846529353, diyf82, SlKl_);
@@ -467,7 +467,7 @@ case 'g':
 
 break;
 case 'h':
-z8wE_c = XtP4Iv(W_g5Q0);
+
 break;
 }
 }
@@ -495,7 +495,7 @@ std::cout << L6jn(diyf82) << L6jn(diyf82) << XtP4Iv(-860483572) << std::endl;
 }
 else if ((BxgbvL3F == W_g5Q0) && (lilUL34W2G == wb6p7b))
 {
-fUUng4_ = (int)(kIkhZ2 + (-1375215985));
+
 }
 else if (WYxtJEa)
 {

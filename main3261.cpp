@@ -124,7 +124,7 @@ case 0:
 
 break;
 case 1:
-L77B98 = tlX6vSp(L77B98, -1530485812, c1694);
+
 break;
 case 2:
 Uwx48M4L -= sXTh;
@@ -353,7 +353,7 @@ else if (x3O47 != -409038450)
 {
 for (int k = 0; k < 1; k++)
 {
-U8x3tEw = UQKadajBm_();
+
 }
 }
 else if (QzbA)
@@ -380,7 +380,7 @@ else if (QzbA != x3O47)
 {
 if (zrpUg0_0 > -226306332)
 {
-F9gJGL1a = U8x3tEw * P3zcoL7I5;
+
 }
 else if (x3O47 != 1967709526)
 {
@@ -392,7 +392,7 @@ c1694 *= b03512;
 }
 else if (Jc20zM6f == -1006724421)
 {
-U8x3tEw = UQKadajBm_();
+
 }
 else
 {
@@ -432,7 +432,7 @@ while (j < 6);
 }
 }
 
-cxae3Jg = (unsigned short int)(QzbA);
+
 
 return 0;
 }

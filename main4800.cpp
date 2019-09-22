@@ -347,7 +347,7 @@ if (TKSBKfoN)
 }
 else
 {
-i_x0r9 = (zjbh3JaZ6 < 1036600412) ? ISQ2nrbk3 : rwW3(1920953334);
+
 }
 }
 }
@@ -396,7 +396,7 @@ case 0:
 
 break;
 case 1:
-pVC0y = Uih0n ^ Ux4iG1KyVN;
+
 break;
 case 2:
 Wcgu = rwW3(-151772020);
@@ -414,7 +414,7 @@ case 6:
 s8kT_21lJk = (int)abs(L031e);
 break;
 case 7:
-Ux4iG1KyVN = TKSBKfoN * 1708575647;
+
 break;
 case 8:
 I12y_ = RBKQ6 << 979358750;
@@ -428,7 +428,7 @@ break;
 }
 }
 
-RBKQ6 = hfZS7V(1719697218, i_x0r9);
+
 
 return 0;
 }

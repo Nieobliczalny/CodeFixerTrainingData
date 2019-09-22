@@ -414,7 +414,7 @@ for (int j = 0; j < 5; j++)
 {
 try
 {
-RClfQW4l = wAA38 ^ d4Yu5Ju;
+
 }
 catch (int& errorCode)
 {

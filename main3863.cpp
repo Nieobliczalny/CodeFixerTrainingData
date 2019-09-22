@@ -32,7 +32,7 @@ int main(int argc, char** argv) {
     safv9    =    1899649194;
 
     BV06    =    -1447295083;
-    CIbC8Y    =    881841693;
+
     BTa2    =    -553486175;
     ul91    =    -1573049095;
     X1_3    =    -978224219;
@@ -133,7 +133,7 @@ case 'a':
 q6w74clZ87 /= ul91;
 break;
 case 'b':
-xF3Nz0L = (Ub3t_ & 1717500139) ? 1979175675 : -760677706;
+
 break;
 case 'c':
 CIbC8Y *= 1711301212;
@@ -157,7 +157,7 @@ break;
 }
 else if (xF3Nz0L < etVWx7)
 {
-d_2KJujc <<= W93N7Yw;
+
 }
 else if (p5KF3eU3s >= xvObR)
 {

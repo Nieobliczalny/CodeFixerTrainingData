@@ -468,7 +468,7 @@ case 'F':
 break;
 case 'g':
 case 'G':
-SxW2usE = l5wA697(SxW2usE, HBdRQ, -1901037469, m1iXO8q1);
+
 break;
 case 'h':
 case 'H':
@@ -663,7 +663,7 @@ try
 {
 if ((X_w0ynL < -1139999825) || ((Hn7w) || (mp24YrE == -385152861)))
 {
-cB37JHY1i7 ^= ZEGZp8K5;
+
 }
 }
 catch (int& errorCode)
@@ -677,7 +677,7 @@ else
 }
 for (int i = 8; i >= 0; --i)
 {
-ATR_e = pxf5825Eef + sdL2g9VP5I;
+
 }
 
 if (fe8ulixBqj < 1606031465)

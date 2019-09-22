@@ -34,7 +34,7 @@ int main(void)
 	unsigned short int	YN3Qp30;
 	YN3Qp30	=	0;
     unsigned char    H1Bk3QI2lC;
-    H1Bk3QI2lC    =    -1683947840;
+
   long long  LZENwmH_E6;
   LZENwmH_E6  =  0;
   long  q92Cl;
@@ -297,7 +297,7 @@ mbE0P_ >>= kwCO29Xaw;
 }
 else if (y42ikpg <= mbE0P_)
 {
-Aup0DA21 = w40RH724(Aup0DA21);
+
 }
 else if (((y42ikpg != jt7HNfH) || (kwCO29Xaw == 875364351)) && (lDqU7i_S5q == -1408414091))
 {
@@ -439,7 +439,7 @@ case 'b':
 Iu8qUDM7J = Lv9dne(mbE0P_, 527652770);
 break;
 case 'c':
-S90jAEys = (int)abs(ZR_ox4) + (-648963709);
+
 break;
 case 'd':
 Zn0u3 = (int)floor(icZ2I8);
@@ -489,7 +489,7 @@ while (i >= 0)
 
 q92Cl = BDOLbkAT6S - 175885835;
 cout << ryY7(601834770, 1784974814, lDqU7i_S5q, -1847765972) << uLFi39kb << Lv9dne(m1UDTKH, q92Cl) << "d70Zc2ES" << "rFSo7N67" << endl;
-U55aOdd = (int)ceil(Zn0u3);
+
 if ((t_CYJWVIE > 1917523198) && (Dwt66Y != YN3Qp30))
 {
 switch (ZR_ox4)
@@ -501,7 +501,7 @@ case 'b':
 qQ_AeXZ = (int)ceil(icZ2I8);
 break;
 case 'c':
-H1Bk3QI2lC = KGWPR3UEs & 782969776;
+
 break;
 case 'd':
 H1Bk3QI2lC--;
@@ -513,7 +513,7 @@ case 'f':
 y42ikpg = (int)abs(Kfn52W8R0) * 0;
 break;
 case 'g':
-Hnx4VksOy0 = w40RH724(Hnx4VksOy0);
+
 break;
 case 'h':
 kwCO29Xaw = w40RH724(-1398796324);
@@ -530,7 +530,7 @@ else if (WIK1hwRGha == -1243858753)
 {
 if (qQ_AeXZ)
 {
-neLhm = w40RH724(375763136);
+
 }
 else
 {
@@ -549,7 +549,7 @@ if ((X8Byd0 != 2029532425) && (qQ_AeXZ))
 }
 else
 {
-qQ_AeXZ = (int)floor(Zn0u3);
+
 }
 }
 else
@@ -564,7 +564,7 @@ else if (NSCKB7 & lSr0S4pOj)
 }
 else
 {
-icZ2I8 = (int)ceil(r94NR);
+
 }
 }
 }
@@ -605,7 +605,7 @@ else if (y42ikpg < -294433451)
 }
 else
 {
-f9_qG5z += 487885792;
+
 }
 }
 }
@@ -619,7 +619,7 @@ case 'a':
 
 break;
 case 'b':
-S90jAEys = ZR_ox4 % 2032588970;
+
 break;
 case 'c':
 t0s95CTX1a = w40RH724(422424947);
@@ -631,7 +631,7 @@ case 'e':
 
 break;
 case 'f':
-q92Cl = (int)abs(n1Uv);
+
 break;
 case 'g':
 t0s95CTX1a = YX76Xqf3 & 690881551;
@@ -649,7 +649,7 @@ catch (int& errorCode)
 Zn0u3 = (int)floor(r94NR);
 }
 }
-jEwxKT = ryY7(ZR_ox4, 1711962171, YX76Xqf3, n1Uv);
+
 
 return 0;
 }

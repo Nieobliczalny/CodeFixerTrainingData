@@ -340,7 +340,7 @@ case 'F':
 break;
 case 'g':
 case 'G':
-Z05r85nFS *= BQKh;
+
 break;
 case 'h':
 case 'H':
@@ -387,7 +387,7 @@ if (b7bGTgRd8B >= syygG5zKS)
 }
 else
 {
-uFR5fa82 = (int)floor(B_tPkN);
+
 }
 }
 }
@@ -412,7 +412,7 @@ else if (((U4Wj4_AH5 & ZrKI_2S) || (K0KO0zZpuu)) && (B_tPkN < syygG5zKS))
 {
 for (int k = 0; k < 8; k++)
 {
-xLomo4A = (int)abs(S1XYt4);
+
 }
 }
 else if (HE50u4 == syygG5zKS)
@@ -471,7 +471,7 @@ TwG6 = (int)ceil(rjd8SO2);
 }
 else
 {
-KHT1LJd = (int)floor(qc47zt4);
+
 }
 }
 else
@@ -484,7 +484,7 @@ int i = 0;
 do
 {
 ++i;
-uFR5fa82 = TwG6 / 1044670385;
+
 }
 while (i < 9);
 }
@@ -495,7 +495,7 @@ for (int i = 0; i < 8; ++i)
 int j = 7;
 do
 {
-BQKh = (double)(rI6lFzTs6);
+
 j--;
 }
 while (j >= 0);

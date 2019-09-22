@@ -247,7 +247,7 @@ hQ4cwo = ay40i();
 }
 else
 {
-d7Cc73HN5p %= 935178174;
+
 }
 }
 catch (int& errorCode)
@@ -299,7 +299,7 @@ hQ4cwo = ay40i();
 }
 else if ((f893 == -1419832377) && (BEYjStu7 < su9AUbPSRN))
 {
-RFPmw1Fr0 >>= U7l_K6W;
+
 }
 else
 {
@@ -351,7 +351,7 @@ for (int j = 0; j < 1; ++j)
 {
 if (su9AUbPSRN > d7Cc73HN5p)
 {
-RFPmw1Fr0 = CDv8J7 & d7Cc73HN5p;
+
 }
 else
 {
@@ -365,7 +365,7 @@ case 0:
 
 break;
 case 1:
-CDv8J7 = ocHJLO6N * su9AUbPSRN;
+
 break;
 default:
 hQ4cwo = ay40i();

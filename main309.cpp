@@ -20,7 +20,7 @@ int main(int argc, char** argv)
 	int	T7P_XKK8J;
 
 
-AN2507Ht = -705669101 / zrP05(2085761825);
+
 O334XgAyjO = (unsigned long long)(ipmbzj);
 
 if (ipmbzj >= K8_Tx1Q)
@@ -59,7 +59,7 @@ case 2:
 q414MA_7l /= hsnEFBDh;
 break;
 case 3:
-MlNihu4 = i2h9j % 978789039;
+
 break;
 case 4:
 yJYo30 <<= 528026371;
@@ -71,7 +71,7 @@ case 6:
 r13WII34 = zrP05(MY4Y2c9) / op500iK;
 break;
 default:
-dWqai = mQQ084c5 | 50699563;
+
 break;
 }
 }

@@ -36,7 +36,7 @@ int main(int argc, char** argv)
  char lYZhgiorXF;
 
     unsigned long long    dddY;
-    dddY    =    0;
+
  long g_bV3397Z2;
  g_bV3397Z2 = 2037839880;
  char w198i;
@@ -76,7 +76,7 @@ int main(int argc, char** argv)
  long double vgRXt;
  vgRXt = 1873411087;
     unsigned short    u298N1oz;
-    u298N1oz    =    -1427496868;
+
 	double	W7CB;
 	W7CB	=	-406689922;
     long    gB6H5609x;
@@ -98,7 +98,7 @@ int main(int argc, char** argv)
  long double N6qu;
  N6qu = -1188241239;
     unsigned long long    XvyNl0Lhq5;
-    XvyNl0Lhq5    =    1824161201;
+
 	unsigned short	Vx5c58SDN;
 	Vx5c58SDN	=	-1515118477;
 	long	jS080y4W;
@@ -122,7 +122,7 @@ int main(int argc, char** argv)
 	short	h_OJHKIy;
 	h_OJHKIy	=	-927011137;
  unsigned int G8dPWgYT;
- G8dPWgYT = 0;
+
 	unsigned int	Q0XTS;
 	Q0XTS	=	-1770601131;
   long  uA9sKiz9;
@@ -138,7 +138,7 @@ int main(int argc, char** argv)
     unsigned short int    vEkUF_ZQs;
 
     int    E6y1;
-    E6y1    =    -1223878665;
+
  long Xg08dzw9;
  Xg08dzw9 = -1190469838;
 
@@ -158,7 +158,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-XXG498Z = CL45b(XXG498Z, 1624192300);
+
 break;
 case 'e':
 case 'E':
@@ -228,7 +228,7 @@ case 'b':
 
 break;
 case 'c':
-Mlwhl3 ^= 1842242565;
+
 break;
 case 'd':
 gB6H5609x = (int)abs(I62Vd8Q6);
@@ -256,7 +256,7 @@ W7CB = (int)abs(ypET3y);
 
 XXG498Z = (int)abs(J_DcfC78C);
 
-ks6rz3V += 1738911219;
+
 if (U2Ta1x0F == YdKKU)
 {
 if (Ehr99H2_Qk > -1650271933)
@@ -285,7 +285,7 @@ int i = 4;
 while (i >= 0)
 {
 --i;
-G8dPWgYT = Y7UM7NW69(-949762532, 1737546007, Vj__7_6, -1833174739);
+
 }
 }
 try
@@ -296,7 +296,7 @@ std::cout << "aI61Kf" << "cg112h2" << std::endl;
 }
 else
 {
-eEFm = wV_986sf_e * KL0SVq;
+
 }
 }
 catch (int& errorCode)
@@ -312,7 +312,7 @@ if (((Vj__7_6 < 568343512) && (bDJECfi45)) || (BbZda2h3 < jS080y4W))
 
 if (bDJECfi45 == 0)
 {
-	v_B0D7p79 = 1454834587 / bDJECfi45;
+
 }
 for (int i = 3; i >= 0; --i)
 {
@@ -363,7 +363,7 @@ while (i < 1);
 }
 
 
-Kb6utu = (int)ceil(ypET3y);
+
 for (int i = 7; i >= 0; --i)
 {
 for (int j = 3; j >= 0; --j)

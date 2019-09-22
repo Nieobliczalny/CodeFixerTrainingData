@@ -571,7 +571,7 @@ case 'c':
 Fh4mG1_A86 = b2O_f6oM / 313331037;
 break;
 case 'd':
-Ar6c_a = XZ8IRB4e43 * hWin0mpq;
+
 break;
 case 'e':
 nhGCq = Wd3Ou2M ^ ODQHz697k;
@@ -591,7 +591,7 @@ while (j < 8)
 }
 
 KS7_ir3 -= Wd3Ou2M;
-rymUTh = (int)abs(Rr0a9e);
+
 aqN61Z8V1 = Fh4mG1_A86 << XZ8IRB4e43;
 {
 int i = 9;

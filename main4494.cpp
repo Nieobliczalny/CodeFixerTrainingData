@@ -73,7 +73,7 @@ case 0:
 
 break;
 case 1:
-Bx84 = eydJi();
+
 break;
 }
 try
@@ -134,7 +134,7 @@ case 5:
 MC1_q = eydJi();
 break;
 case 6:
-jJGY3fePb1 = eXwGG_ % 1986498180;
+
 break;
 case 7:
 
@@ -201,7 +201,7 @@ case 4:
 
 break;
 case 5:
-xnteT &= 1621350224;
+
 break;
 case 6:
 L15l2pp625 = eydJi();
@@ -219,7 +219,7 @@ if ((F_J64 > b_k3tJkqT) || (g9P2G_ & I84EOM))
 switch (Um0y1iTG)
 {
 case 'a':
-WKVb = J_p_2_l8 - 821311570;
+
 break;
 case 'b':
 ML45ONr1c = OcmWs % f6tX6;

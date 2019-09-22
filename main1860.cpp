@@ -86,7 +86,7 @@ case 2:
 xn3EL_Hb = (int)abs(fPAfdqjXd);
 break;
 case 3:
-kSTmR9H8 = xn3EL_Hb * VSLJlZApL4;
+
 break;
 case 4:
 RFR2_0Cd *= 837395075;
@@ -201,7 +201,7 @@ switch (b_D4vqwnk)
 {
 case 'a':
 case 'A':
-C3R541tI = R2voVq186 - fPAfdqjXd;
+
 break;
 default:
 in606LNAaS -= 900062309;
@@ -226,7 +226,7 @@ case 'c':
 
 break;
 case 'd':
-e32_ += BwgvS;
+
 break;
 case 'e':
 R2voVq186 = cm8F * 2117895085;
@@ -254,7 +254,7 @@ wz5B = N_s8V8 * 1498702634;
 
 cout << "aX8Yl67W" << MyM6kO3zW4(cm8F, 325325926, 793845074, in606LNAaS) << MyM6kO3zW4(-959486352, -1706013831, -2147111103, 2070057325) << endl;
 
-C3R541tI = (double)(J7k7e + (-1446346919));
+
 
 wz5B -= EK978aEK7;
 try
@@ -312,7 +312,7 @@ int k = 8;
 while (k >= 0)
 {
 k--;
-efOu_7r = xu8K70hC(492922375, 1317063521, N_s8V8);
+
 }
 }
 }
@@ -323,7 +323,7 @@ int i = 9;
 do
 {
 i--;
-Qu4773 = (double)(n8O5IAFyVm);
+
 }
 while (i >= 0);
 }

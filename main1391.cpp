@@ -213,7 +213,7 @@ case 0:
 
 break;
 case 1:
-Hw0H93wJ__ = Yk_TNR_(Hw0H93wJ__, 1733535589, -151212323, 1607587566, -1236728524);
+
 break;
 case 2:
 i3Kvc98 = T2EIpDXU(Uo_3, i3Kvc98);

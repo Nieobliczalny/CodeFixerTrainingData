@@ -24,7 +24,7 @@ int main(void) {
     char    Hu1r;
     Hu1r    =    -329603344;
     unsigned long    U5hfo4;
-    U5hfo4    =    905732314;
+
     short int    JItZwIP6;
 
  float s880z4;
@@ -42,7 +42,7 @@ int main(void) {
   unsigned short int  q4Hjjy4oz5;
   q4Hjjy4oz5  =  190894460;
 	short	Y_FKX1;
-	Y_FKX1	=	0;
+
   unsigned int  Y_qnsyNT2N;
   Y_qnsyNT2N  =  1769468140;
   unsigned short  OCDYCn2l1;
@@ -58,7 +58,7 @@ int main(void) {
   long long  XjvW8q;
   XjvW8q  =  735729587;
 	double	F3zdrs539;
-	F3zdrs539	=	700264566;
+
  long T5_5705p;
  T5_5705p = -1578532629;
   double  BPR3qRo9;
@@ -70,7 +70,7 @@ int main(void) {
     unsigned char    PWl0sf;
 
 	short	FaSi6u9H;
-	FaSi6u9H	=	1042578817;
+
   long  mk22wq8;
   mk22wq8  =  262398621;
  unsigned long long Ii_vFM;
@@ -84,7 +84,7 @@ int main(void) {
     unsigned char    Oj13Yw9;
 
     long double    HwrH0xD;
-    HwrH0xD    =    1594909508;
+
     long long    I4Ka;
     I4Ka    =    1245473083;
   short  u_giVLy71C;
@@ -114,7 +114,7 @@ int main(void) {
   unsigned char  mT31Pj_y29;
   mT31Pj_y29  =  978992061;
     long long    BYJ52;
-    BYJ52    =    -924015355;
+
   short  njkrT;
   njkrT  =  1096736075;
  int DzlXh26Zw;
@@ -134,7 +134,7 @@ int main(void) {
     float    QO0yOvG;
     QO0yOvG    =    -652026849;
 	long long	OMsQq9;
-	OMsQq9	=	-1002041095;
+
     char    zxC6bGpAO1;
     zxC6bGpAO1    =    2098162934;
   unsigned long long  OEQG;
@@ -148,7 +148,7 @@ if ((lSfeP_AHvd) || (UxOE30tK_))
 }
 else if (fBwk4fBFdt <= -1859353550)
 {
-U5hfo4 = V_Wy7YW + PXEs;
+
 }
 else if (((p9h2h < 1148695008) || (w_B68u > -892017201)) && (X3v4smL))
 {
@@ -182,7 +182,7 @@ OCDYCn2l1 = (mT31Pj_y29 >= 1514621540) ? DzlXh26Zw : CnVH_hGeMJ;
 }
 else
 {
-d884 = (int)abs(OW3NTYAaU1);
+
 }
 
 Y_FKX1 = j9lEPI6(630050865, X3v4smL);
@@ -233,7 +233,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-z17gQ3pO90 %= Hu1r;
+
 break;
 case 'd':
 case 'D':
@@ -288,7 +288,7 @@ case 6:
 
 break;
 case 7:
-BPR3qRo9 = (int)ceil(CnVH_hGeMJ);
+
 break;
 default:
 A8n_0SY_ = j9lEPI6(-1514672644, v562);
@@ -312,7 +312,7 @@ case 1:
 V_Wy7YW = j9lEPI6(b5c4_j_, -419938595);
 break;
 case 2:
-FaSi6u9H = (int)abs(u_giVLy71C);
+
 break;
 case 3:
 u_giVLy71C <<= KE8_ZBUW;

@@ -67,7 +67,7 @@ case 'e':
 U1ox9 = (int)floor(fI_qI_o);
 break;
 case 'f':
-fI_qI_o = (int)floor(CJRl65ZT);
+
 break;
 case 'g':
 ZMh9MTh9G5 = PtP1q7496 ^ SL1yk9Y;
@@ -82,7 +82,7 @@ case 0:
 
 break;
 case 1:
-c_S0_0X10C = p99v0 / rJpr4Vi;
+
 break;
 case 2:
 MeGPcj7wS = hFr6WpopO << ZRbG;

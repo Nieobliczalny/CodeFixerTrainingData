@@ -410,7 +410,7 @@ case 1:
 
 break;
 case 2:
-U8ttf2L >>= 808556736;
+
 break;
 case 3:
 S9Lp = (int)ceil(mWa4cPO8);
@@ -435,7 +435,7 @@ a1g3l = URwAuyW + 1101263958;
 while (i < 5);
 }
 
-U8ttf2L = (unsigned int)(Oc60_w7);
+
 {
 int i = 0;
 do
@@ -501,7 +501,7 @@ case 2:
 D4l0doT9 &= Eyr4Zw_LPJ;
 break;
 case 3:
-g3__eP038 = FB5DV76cs + 556298395;
+
 break;
 }
 return 0;

@@ -100,7 +100,7 @@ case 2:
 
 break;
 case 3:
-w6x39NRve1 = Nk7bbcYC8(husW9, f42s4N, ndy7, w6x39NRve1);
+
 break;
 case 4:
 w6x39NRve1 = Nk7bbcYC8(424927357, 524199102, -879236146, oGX2Mm);
@@ -178,7 +178,7 @@ case 'a':
 
 break;
 case 'b':
-w6x39NRve1 = Nk7bbcYC8(fd43EI9izC, oGX2Mm, PfQ08y, I3RT);
+
 break;
 default:
 p99523J = (int)ceil(Y0Pv82yCE);

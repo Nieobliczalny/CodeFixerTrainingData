@@ -145,7 +145,7 @@ case 2:
 fKjdIUz %= 186507648;
 break;
 case 3:
-xV8A3Dq_ = Sg8kzpz();
+
 break;
 case 4:
 dwv0_vqu1P = jNi0Hs1YuF(1481654435, -269620256, -169751942);
@@ -192,7 +192,7 @@ case 'B':
 ur7L6AI = D373xe0(-1887062451, nW7tHw);
 break;
 default:
-f69a = (int)floor(frCXX);
+
 break;
 }
 }
@@ -204,7 +204,7 @@ int i = 1;
 do
 {
 --i;
-u7D5Si_8LA = O36c2_(-1559890854, ur7L6AI, 1421517711, -1572755046, xV8A3Dq_);
+
 }
 while (i >= 0);
 }

@@ -533,7 +533,7 @@ if (w6GhjWD86 <= 1697059890)
 {
 if (ADcsQKxXC8 == P0HO0Bz)
 {
-XCaMa9wz = (int)ceil(P0HO0Bz);
+
 }
 else if (O832ft >= O9315)
 {
@@ -565,7 +565,7 @@ ADcsQKxXC8 = (int)ceil(XCaMa9wz);
 }
 else if (Fjuo06Wr == XCaMa9wz)
 {
-YzW6A = (int)abs(O832ft);
+
 }
 else if (cu5G1978g <= 1298746636)
 {

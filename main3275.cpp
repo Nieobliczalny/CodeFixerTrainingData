@@ -37,7 +37,7 @@ int main()
   double  hO_J8z8bVw;
   hO_J8z8bVw  =  1248514470;
     unsigned short int    sLD4S7;
-    sLD4S7    =    1819067500;
+
   float  MHN6nhdWJ3;
   MHN6nhdWJ3  =  -278563927;
     long double    W36CL0d_pd;
@@ -69,7 +69,7 @@ int main()
 	unsigned long long	g761A5Ti;
 	g761A5Ti	=	-1355987187;
   unsigned long  sQEP66;
-  sQEP66  =  -307824905;
+
 	float	c0RDO252sH;
 	c0RDO252sH	=	-706027312;
 	int	YE3K;
@@ -184,7 +184,7 @@ case 2:
 c0RDO252sH = A2wwKeZD(1331286420, c0RDO252sH);
 break;
 case 3:
-VCe_1P3cVt &= RqoIRX8G9I;
+
 break;
 default:
 c0RDO252sH = (int)abs(PkYTla1Hn) + (-1767914605);
@@ -267,7 +267,7 @@ int k = 0;
 while (k < 6)
 {
 ++k;
-g761A5Ti = BspbQ62DId << zD42NS3CU9;
+
 }
 }
 }
@@ -323,7 +323,7 @@ while (i < 3);
 }
 
 t_FEqR -= 396964072;
-X4oJjW2FX = o_l1() - 727375057;
+
 
 std::cout << MHN6nhdWJ3 << W36CL0d_pd << std::endl;
 
@@ -401,7 +401,7 @@ case 1:
 ij8B1Xu++;
 break;
 case 2:
-oI01egYA1g %= 587341483;
+
 break;
 case 3:
 Bqzl8w = o_l1();
@@ -416,7 +416,7 @@ case 6:
 u7eE = o_l1();
 break;
 case 7:
-sLD4S7 = A2wwKeZD(109917668, hOgO);
+
 break;
 case 8:
 u7eE = (int)abs(PkYTla1Hn);
@@ -429,7 +429,7 @@ case 0:
 
 break;
 case 1:
-Bqzl8w = o_l1();
+
 break;
 }
 

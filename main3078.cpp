@@ -28,7 +28,7 @@ int main() {
     unsigned int    g0_f;
     g0_f    =    0;
 	unsigned short int	Uc0n;
-	Uc0n	=	-2018750113;
+
   double  FNFgDPuIN;
   FNFgDPuIN  =  -1316513485;
 	long long	qw80445g;
@@ -123,7 +123,7 @@ else if (((O_r5Zyp061) || (r9j__QA2y)) && ((qx4e & g0_f) || (Uc0n <= O_r5Zyp061)
 }
 else if (R_0l25Y & 918241485)
 {
-FNFgDPuIN = (int)ceil(v8XF);
+
 }
 else if (r9j__QA2y)
 {
@@ -153,7 +153,7 @@ case 0:
 
 break;
 case 1:
-bJ7uR = E8ff(-1550578481, j_Er00, qw80445g, -605484250) % F3_X3Jj;
+
 break;
 case 2:
 whM_ %= bJ7uR;
@@ -165,7 +165,7 @@ case 4:
 
 break;
 case 5:
-j_Er00 = (int)abs(pFg3Ljl);
+
 break;
 case 6:
 pFg3Ljl = E8ff(pFg3Ljl, 89552118, 1739531360, F3_X3Jj);

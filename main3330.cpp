@@ -40,7 +40,7 @@ int main() {
 	char	j91BnRj;
 
  short kYxZR5L;
- kYxZR5L = 0;
+
     char    gT990r;
     gT990r    =    0;
     short int    M5UJ_zSv;
@@ -58,7 +58,7 @@ int main() {
   unsigned int  DWUc7zt5;
   DWUc7zt5  =  -1957240198;
  unsigned long WJX7;
- WJX7 = -1030334339;
+
  short int De5pjiEZ5;
  De5pjiEZ5 = 0;
 	unsigned long long	R73n4;
@@ -68,7 +68,7 @@ int main() {
     long long    C6Y_u;
     C6Y_u    =    -463122247;
     unsigned short int    q58X5pZz5;
-    q58X5pZz5    =    260500739;
+
 
 j91BnRj = ENpEs7v5();
 
@@ -145,7 +145,7 @@ catch (int& errorCode)
 R73n4 &= C6Y_u;
 }
 
-EcxSOB = gEHXY5Cfr(-1549017467, -1777206417) / gT990r;
+
 
 for (int i = 0; i < 10; i++)
 {
@@ -192,7 +192,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-Sb17pPwE8 = p10s7d(-202432315);
+
 break;
 }
 rCoIvKdB = (unsigned long long)(M5UJ_zSv);

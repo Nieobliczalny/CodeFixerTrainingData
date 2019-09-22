@@ -74,7 +74,7 @@ cout << O4Sz09 << "YoFCIP4" << endl;
 switch (S200S)
 {
 case 'a':
-I0_QYOc8 = ciN5e0 * 1115276399;
+
 break;
 case 'b':
 q1j_3B = ifoo(q1j_3B, 842329229, -1965247206);

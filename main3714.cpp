@@ -47,7 +47,7 @@ int main(int argc, char** argv)
     sg0bGvDM2L    =    -1306156540;
     t7u6_2_h    =    -385483064;
     qQ07    =    630281712;
-    hL8Ok9Q    =    1858850031;
+
     L67k1dua9K    =    1422861538;
     MaT3G    =    1278285275;
     unsigned long long    MO_koM,    NWeEjKG0p,    XrHTMAy,    t70x6ZK4;
@@ -113,7 +113,7 @@ case 'f':
 
 break;
 case 'g':
-hL8Ok9Q = L67k1dua9K * 2019967130;
+
 break;
 case 'h':
 ZJti8AZ49 = o267S2ug(-1971206746, sg0bGvDM2L, -1617104455, MaT3G) << 223215313;
@@ -225,7 +225,7 @@ WAPk = sneE7(WAPk, -1087890808);
 }
 else if (x4_cTX5w5 <= -1442782965)
 {
-kb5k6fk2K = MaT3G + t7u6_2_h;
+
 }
 else if ((sg0bGvDM2L & 502987206) && (xlp7vWzs6 > 934102271))
 {
@@ -315,7 +315,7 @@ case 0:
 
 break;
 case 1:
-kb5k6fk2K = k8OYw & wHBU8G;
+
 break;
 default:
 MaT3G = (int)abs(Xm_3TBIJR4);
@@ -335,7 +335,7 @@ while (i >= 0);
 
 
 
-YZb_3m2k = (long long)(NWeEjKG0p + (930745694));
+
 
 switch (wHBU8G)
 {
@@ -364,7 +364,7 @@ case 'f':
 E60d3bFXLl = gCaqJia(E60d3bFXLl);
 break;
 case 'g':
-L5Rabo += 2146837412;
+
 break;
 case 'h':
 rzejSbLP = (int)abs(X5ywEh8);

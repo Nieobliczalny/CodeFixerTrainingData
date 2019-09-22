@@ -741,7 +741,7 @@ if (Y6D4)
 }
 else if (wY6s8X >= -2022121001)
 {
-pCEG = (char)(Z40YG_f * pCEG);
+
 }
 else if (qU1_Wx5dio == Um22)
 {

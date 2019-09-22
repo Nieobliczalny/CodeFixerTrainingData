@@ -99,7 +99,7 @@ int main(int argc, char** argv) {
   unsigned short  btPUc;
   btPUc  =  -395905100;
  unsigned short XceWpjzw_;
- XceWpjzw_ = 0;
+
   char  Rcw14;
   Rcw14  =  -1939998528;
     unsigned short    kz5S;
@@ -528,7 +528,7 @@ case 1:
 AYA5_ = (int)abs(eg53s08s);
 break;
 case 2:
-eg53s08s += LPk07Fi5R;
+
 break;
 case 3:
 
@@ -562,7 +562,7 @@ switch (v2v5_kS2)
 {
 case 'a':
 case 'A':
-Jg7d80 = (int)floor(PPm00j4hat);
+
 break;
 case 'b':
 case 'B':
@@ -582,7 +582,7 @@ n16_xl = (ztH6RU5S & 1180333771) ? -415987867 : R2isG;
 break;
 case 'f':
 case 'F':
-vfv228 = g33y7Yf1i & 1442916616;
+
 break;
 case 'g':
 case 'G':
@@ -626,7 +626,7 @@ case 2:
 E6K3sd49 = jvwE6(-221688489, kz5S, b95_f2Z3V, X2lO);
 break;
 case 3:
-Jg7d80 = (int)floor(U9P4);
+
 break;
 case 4:
 N1yNaup42Z = YCQy7 % b2Oog8pwAd;
@@ -711,7 +711,7 @@ case 'a':
 
 break;
 case 'b':
-n16_xl %= 2141301579;
+
 break;
 case 'c':
 b2Oog8pwAd = qlgo7S(b2Oog8pwAd, E6K3sd49);
@@ -831,7 +831,7 @@ j++;
 }
 else
 {
-gIkm35v9sh = aB9LjI % Qp8JV;
+
 }
 {
 int i = 0;

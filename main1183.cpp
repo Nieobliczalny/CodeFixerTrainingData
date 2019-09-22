@@ -67,7 +67,7 @@ bP1Z++;
 }
 else if ((a4B2S & skX84q1) && (fSC920h > WhJoq))
 {
-Cb5B1r0sP = sAYCAN << 170721324;
+
 }
 else
 {
@@ -132,7 +132,7 @@ if (fqF9r5_4Y)
 {
 if (L7hAY8w3 >= -1004176679)
 {
-zcuS = (int)abs(i2bxi50Rm);
+
 }
 else
 {

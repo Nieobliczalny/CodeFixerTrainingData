@@ -56,7 +56,7 @@ case 2:
 jFfX11J = oM18(yzhj, 287392564, kBU2Ge4EX);
 break;
 case 3:
-k7jl = Tn73v7iWS >> 198276686;
+
 break;
 case 4:
 
@@ -78,7 +78,7 @@ jFfX11J = oM18(L4nR2UE, pa7fD, NL_59w1EcB);
 
 
 
-FxSZ_ = FZPc1xg7 / jFfX11J;
+
 
 Ol0Yx7_ ^= nMoi;
 switch (B9qXfZQwb)
@@ -99,7 +99,7 @@ case 4:
 
 break;
 case 5:
-FUJ71FK1_n = (int)abs(e96Kh);
+
 break;
 default:
 hY6uv1_YT ^= 330438857;

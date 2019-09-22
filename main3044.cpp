@@ -420,7 +420,7 @@ V42Z7ZL2fV = (int)abs(QXVksx);
 break;
 case 'd':
 case 'D':
-r2nAcE = CQ1n7E - 634417433;
+
 break;
 case 'e':
 case 'E':

@@ -380,7 +380,7 @@ DDz6Kpa03 ^= 1046576164;
 break;
 case 'd':
 case 'D':
-TNs9GMB_T5 = sq9B * 680783203;
+
 break;
 default:
 b7x2 = P77_c & sq9B;

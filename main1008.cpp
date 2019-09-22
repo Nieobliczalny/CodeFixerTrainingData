@@ -25,7 +25,7 @@ int main(int argc, char** argv)
  unsigned short xXCOK8_s;
 
  unsigned int r2zvm34s;
- r2zvm34s = -1757480937;
+
     double    BEqG7738xm;
     BEqG7738xm    =    -2126648188;
     int    BkIN6OQ;
@@ -39,7 +39,7 @@ int main(int argc, char** argv)
     unsigned long    Y59eD;
     Y59eD    =    1445714695;
   unsigned long long  Tr52XL1Z;
-  Tr52XL1Z  =  542949233;
+
 	long long	S386ab8pC;
 	S386ab8pC	=	-1436880770;
 	unsigned long	o7iF9831;
@@ -159,7 +159,7 @@ D173VY5 -= 1243744540;
 break;
 case 'd':
 case 'D':
-Tr52XL1Z = U2ttWmm4r << 851634381;
+
 break;
 default:
 kFO5p8 = (int)ceil(S5_C1);
@@ -405,7 +405,7 @@ VK5Wx %= ey968q_908;
 
 try
 {
-BH4We *= 1789062206;
+
 }
 catch (int& errorCode)
 {
@@ -428,7 +428,7 @@ case 'a':
 
 break;
 case 'b':
-m82S = (int)floor(wrK26);
+
 break;
 case 'c':
 kFO5p8 = H8n_82 / hhmt0p_3o;
@@ -440,7 +440,7 @@ case 'e':
 
 break;
 case 'f':
-i_aSH = gHT2b_0Rb + CXr2YbZHO;
+
 break;
 case 'g':
 BH4We = (int)ceil(m82S);
@@ -457,7 +457,7 @@ int j = 1;
 while (j >= 0)
 {
 --j;
-kaDn7 = Sj5I7_ppLH | 57352635;
+
 }
 }
 }

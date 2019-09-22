@@ -31,7 +31,7 @@ case 1:
 
 break;
 case 2:
-N6vB_y8yR1 = EL_UaAq08X + 1617834097;
+
 break;
 case 3:
 I83CSlJ ^= 574997015;
@@ -65,7 +65,7 @@ else if (Pe5GBB < sAl_x13)
 }
 else if (D32K2H <= sAl_x13)
 {
-TBgv_OM8 = (int)(DzLM);
+
 }
 else if (ogHX8r0Tc <= -826565951)
 {
@@ -107,7 +107,7 @@ else if (OmseFj5GuQ & -1048511313)
 switch (YiR2r0)
 {
 case 'a':
-iy9_VND_5 = YC_waiRm3J + 462295653;
+
 break;
 case 'b':
 
@@ -137,7 +137,7 @@ std::cout << hCg4MRq6T << "xqD_5" << JWg3S9 << std::endl;
 for (int i = 0; i < 47; i++)
 {
 
-	f14NB = -1026879244 / i;
+
 D32K2H = Qsg_syd / k_iw;
 }
 

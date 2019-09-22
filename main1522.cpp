@@ -72,7 +72,7 @@ int main(int argc, char** argv) {
     long double    S3iPuHo;
     S3iPuHo    =    1744384399;
   short  NUj_161_69;
-  NUj_161_69  =  757518345;
+
 	unsigned char	mcxIfWXax;
 	mcxIfWXax	=	844352883;
  int eRb01Wwr;
@@ -154,7 +154,7 @@ int main(int argc, char** argv) {
   unsigned long long  WkBcfSH;
   WkBcfSH  =  -1894784041;
 	short	eKo0;
-	eKo0	=	72020270;
+
  char k7j3_Xo04;
  k7j3_Xo04 = 2085778017;
 	long long	QRI9d;
@@ -170,7 +170,7 @@ int main(int argc, char** argv) {
  float GlSq_;
  GlSq_ = -25260928;
  unsigned long long n67hm4lgQ;
- n67hm4lgQ = 1954452623;
+
 	unsigned long long	P8n08oW;
 	P8n08oW	=	860586008;
     double    pibWVS9kn;
@@ -288,7 +288,7 @@ break;
 }
 if (((m51V == 1513773145) && (Oa4r & a3d8a)) || (k7j3_Xo04 == 1986297363))
 {
-m51V = (long double)(f_pP4);
+
 }
 
 {
@@ -561,7 +561,7 @@ case 'c':
 pz_g_ = Wzz8(1016056253, 369020658, -273691812);
 break;
 case 'd':
-k7j3_Xo04 = (int)abs(nCCfl563);
+
 break;
 case 'e':
 r1Dw0ud_ = (int)floor(Zv33U);
@@ -615,7 +615,7 @@ nCCfl563 = wDv1t | 1790020594;
 break;
 case 'c':
 case 'C':
-yUq7c = (int)abs(zMqu);
+
 break;
 case 'd':
 case 'D':
@@ -634,7 +634,7 @@ case 'G':
 S3iPuHo = (int)floor(m51V);
 break;
 default:
-yUq7c = (int)abs(i84X);
+
 break;
 }
 }
@@ -743,7 +743,7 @@ else if (W7PHxYd >= x41__)
 }
 else if (vUT587Cj != -1576326805)
 {
-NUj_161_69 = (PXeKIO1G_l <= vUT587Cj) ? -2146918007 : GlSq_;
+
 }
 else
 {
@@ -878,7 +878,7 @@ if (PXeKIO1G_l >= pibWVS9kn)
 cout << sdBG << PD61 << LqAft(-1611980194, oRY6N_2Dm_, RmxvFk, m2yQx) << Wzz8(Ust0Rk, oRY6N_2Dm_, 6928178) << endl;
 }
 
-H_gmd = BVqqEzu2oh(-2106962884, 1150080727, 1932240156);
+
 wB4i = (unsigned long)(W64yMDi);
 
 f_pP4 = LqAft(-789087682, 1522339246, -1082491279, NH3wx3Zz);

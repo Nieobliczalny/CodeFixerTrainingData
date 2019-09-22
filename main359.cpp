@@ -34,7 +34,7 @@ int main(int argc, char** argv) {
   short  JJ0ypX48;
   JJ0ypX48  =  2121613373;
     char    G_o988;
-    G_o988    =    766170631;
+
 	short int	oSEN8S9dr;
 	oSEN8S9dr	=	-655939847;
 	unsigned int	uSMk80;
@@ -50,7 +50,7 @@ int main(int argc, char** argv) {
 	long double	ztrec;
 	ztrec	=	1733064737;
   long long  ix5qk;
-  ix5qk  =  1404967618;
+
  unsigned long long d9T2ir;
  d9T2ir = -1723372219;
   short int  hH892I86;
@@ -64,7 +64,7 @@ int main(int argc, char** argv) {
 	short int	G19Mxa;
 	G19Mxa	=	0;
     long    gOQ5sOy;
-    gOQ5sOy    =    -743374588;
+
   short  vhLU;
   vhLU  =  1361073082;
     float    yXFd4y0p;
@@ -104,7 +104,7 @@ int main(int argc, char** argv) {
     short    O9fjaROb96;
     O9fjaROb96    =    -205665105;
   int  x9wbsTf;
-  x9wbsTf  =  -947326258;
+
   short  ZZanCUu;
 
     double    oP_X;
@@ -122,7 +122,7 @@ int main(int argc, char** argv) {
  short int CY877LM;
  CY877LM = 1044258362;
     unsigned int    W_y_v;
-    W_y_v    =    1907723507;
+
     unsigned short    JuH3aM7BE;
 
   char  D759;
@@ -148,7 +148,7 @@ int main(int argc, char** argv) {
     long double    W49KiPL8P;
     W49KiPL8P    =    -1863543188;
 	char	g5577EVw7X;
-	g5577EVw7X	=	1101339015;
+
     float    Z77sl1_4;
     Z77sl1_4    =    -134992273;
   long double  gaZPO_NG;
@@ -164,7 +164,7 @@ int main(int argc, char** argv) {
     unsigned long long    ufPL96fu;
     ufPL96fu    =    0;
     short    SN526_;
-    SN526_    =    -899580297;
+
     long double    K2J08;
     K2J08    =    1061202910;
   unsigned short int  GaX4W77A3S;
@@ -179,7 +179,7 @@ case 'b':
 
 break;
 case 'c':
-ix5qk = Ge9EH_IX77 % 1380814707;
+
 break;
 case 'd':
 JF_6D3cqp |= D759;
@@ -200,7 +200,7 @@ case 'i':
 pR44 <<= Ge9EH_IX77;
 break;
 case 'j':
-Zre9N0zzJ1 -= BYh_3d;
+
 break;
 default:
 Aiu7eHpQ5 = (int)floor(oP_X);
@@ -365,7 +365,7 @@ int j = 4;
 do
 {
 j--;
-ix5qk = ljI19_jFW(-1539385228, yXFd4y0p, Wo00rq_);
+
 }
 while (j >= 0);
 }
@@ -402,7 +402,7 @@ O9fjaROb96 = (int)abs(Retyo3Ql);
 
 d2c5Gc = (int)ceil(zCS3w9M4t);
 
-hH892I86 ^= 1627667203;
+
 
 {
 int i = 5;
@@ -472,7 +472,7 @@ Q7QlN1 = ljI19_jFW(Q7QlN1, 2028334039, 1349900469);
 switch (Fa5p)
 {
 case 0:
-Q7QlN1 = (int)floor(ztrec);
+
 break;
 case 1:
 gaZPO_NG = (int)floor(L_M8j);
@@ -488,7 +488,7 @@ Retyo3Ql = ljI19_jFW(Retyo3Ql, 1443647753, ZVkX__);
 break;
 }
 
-dlnOta0I = kGC5_3U_y(Retyo3Ql, -534666578, ZVkX__) >> W_y_v;
+
 
 ztrec = (int)floor(W49KiPL8P);
 if (JJ0ypX48 <= qI70S93Ml)

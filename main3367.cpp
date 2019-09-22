@@ -50,7 +50,7 @@ int main(int argc, char** argv) {
   Pt4G  =  -314616468;
 
 SiSfi26oDy = (int)abs(Pt4G);
-LXD4 = (int)abs(Pt4G);
+
 try
 {
 try
@@ -150,7 +150,7 @@ cout << Wg_LOe << izUz() << "Uamag2" << v1r_S8LWI << rTY7Fb << endl;
 }
 D023Th3vTN = (int)ceil(Pt4G);
 
-OP36C782_m = Erz0nv(1700817525, -741510654, 1597733895, n_d7ky, tb5B02u);
+
 switch (Wg_LOe)
 {
 case 'a':
@@ -160,7 +160,7 @@ case 'b':
 
 break;
 case 'c':
-Wg_LOe = (int)abs(tb5B02u);
+
 break;
 case 'd':
 D023Th3vTN = izUz();

@@ -50,7 +50,7 @@ int main() {
  float t0_3Y3_w_F;
  t0_3Y3_w_F = 2108337131;
  short int fXdTuuO;
- fXdTuuO = 474678861;
+
 	double	R86jH;
 	R86jH	=	1490682549;
 	short int	Bil6zuXFI;
@@ -84,7 +84,7 @@ int main() {
  short int EtPMwpv;
  EtPMwpv = 410731533;
   short  u4Jkr6;
-  u4Jkr6  =  1143347215;
+
  unsigned long bv3_1k_;
  bv3_1k_ = 1173543588;
   unsigned short int  zErrzz;
@@ -120,7 +120,7 @@ int main() {
   unsigned long  D8HI7;
 
     unsigned long    C6uL78xx;
-    C6uL78xx    =    0;
+
  long long uD_P8H8v;
  uD_P8H8v = 1113005813;
 	unsigned char	GVYqw;
@@ -154,7 +154,7 @@ int main() {
   double  ZUxnd3;
   ZUxnd3  =  -1694075341;
 	long long	IYM47K3;
-	IYM47K3	=	-985618839;
+
 	short int	sOP2V23;
 	sOP2V23	=	1140847817;
  unsigned long ck55;
@@ -299,7 +299,7 @@ if (Rsku18c6 < 531628586)
 }
 else if (svium & MXZuH5_xt7)
 {
-rU__8yHAMU = XCI_H & 613971940;
+
 }
 else if (((XW_30N_ < qwWHZKm) || (Y_031J_xl & D60U82N)) || (fp4WS_ > D60U82N))
 {
@@ -430,7 +430,7 @@ if (Fc31PYuh < -1916077922)
 }
 else
 {
-xa_u1 = oUXd1C5b();
+
 }
 }
 else if (Rsku18c6 & D60U82N)
@@ -494,7 +494,7 @@ case 'i':
 Zg35MT3U = Za5dHW2q5_ + pfnEpz4Z;
 break;
 case 'j':
-C6uL78xx = hp3_UGjW9(s_3wGU48C, GVYqw);
+
 break;
 default:
 IVk0Zcgt8 *= mOzmvF9;
@@ -531,7 +531,7 @@ else
 }
 else if (u062m <= D60U82N)
 {
-C6uL78xx = hp3_UGjW9(xXL9O1p, -1862060705);
+
 }
 else
 {
@@ -720,7 +720,7 @@ while (i >= 0);
 
 
 
-fXdTuuO = (short int)(lC0FJ017_h);
+
 {
 int i = 0;
 while (i < 5)
@@ -747,7 +747,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-u4Jkr6 = Y_031J_xl - 365234713;
+
 break;
 case 'c':
 case 'C':
@@ -759,7 +759,7 @@ soN8dLS_k6 = uD_P8H8v >> 621666570;
 break;
 case 'e':
 case 'E':
-p991 = (int)ceil(MImG72Q1);
+
 break;
 case 'f':
 case 'F':
@@ -771,7 +771,7 @@ hTp2f = (int)floor(XNt57_9pI);
 break;
 case 'h':
 case 'H':
-fXdTuuO = D60U82N >> wB9e;
+
 break;
 }
 
@@ -821,7 +821,7 @@ if ((GVYqw & D60U82N) || (XW_30N_ == Za5dHW2q5_))
 }
 else
 {
-Y5I3m9B = (int)ceil(ZUxnd3);
+
 }
 }
 while (j >= 0);
@@ -834,7 +834,7 @@ case 'a':
 
 break;
 case 'b':
-OA_IU5_23V = C5X3 / 698852083;
+
 break;
 default:
 ck55 |= PqJPdj;

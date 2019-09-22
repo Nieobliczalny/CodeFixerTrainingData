@@ -54,7 +54,7 @@ int main(void)
 
 
 
-kDy9 = 1099032840 / h1rt0_5;
+
 return 0;
 }
 

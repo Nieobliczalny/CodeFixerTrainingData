@@ -112,7 +112,7 @@ case 'b':
 OzE4UN = (int)abs(PP333xS1h);
 break;
 case 'c':
-UYykxZ_N23 = GrwLv2V(UYykxZ_N23, 1590540561, eagtV7yBY, rEWc);
+
 break;
 case 'd':
 R919ZY = (int)ceil(WcMnHI);
@@ -146,7 +146,7 @@ std::cout << "ATaJ0_" << Yjt633 << "w8808nL" << b3__() << GrwLv2V(r94S7Bqa, Lgkt
 q9Ipt9 = GrwLv2V(1043835779, 1817284382, EZ4_, -2087975371);
 if ((q9Ipt9 / b3__()) < 1003999487)
 {
-Fa0_Eka = (int)floor(Lgkt4BCC);
+
 }
 if (ToG5T & -50617942)
 {
@@ -184,7 +184,7 @@ else if (LJ8ZWe <= oEs75pF)
 {
 if ((TlH9H36mPT & -1494639343) && (MMDUs5U4x > 1739446262))
 {
-w5F502y = (unsigned short)(FQ2UBUT);
+
 }
 else if (u_6ynpP1q <= rgd_WJM)
 {
@@ -198,7 +198,7 @@ else if (w9Cl >= T_a_ooc1rg)
 }
 else if ((EZ4_ != -1077683841) && (LJ8ZWe <= O0BfZ27z9))
 {
-TpClxSMI2O = (int)ceil(KQakjJXl);
+
 }
 else
 {
@@ -212,7 +212,7 @@ else
 }
 else if (PP333xS1h > FQ2UBUT)
 {
-Yjt633 = (int)ceil(eWi4o9);
+
 }
 else if (oEs75pF <= FQ2UBUT)
 {
@@ -229,7 +229,7 @@ else if (v5GC >= 1910711045)
 int k = 10;
 do
 {
-R919ZY = fr_8(tm9D8ohc_) % 1747044316;
+
 --k;
 }
 while (k >= 0);
@@ -243,7 +243,7 @@ case 0:
 
 break;
 case 1:
-LCS1BRtJ77 = (int)abs(TpClxSMI2O);
+
 break;
 case 2:
 LCS1BRtJ77 *= 642814726;
@@ -263,7 +263,7 @@ else if (WsuT == 845725475)
 switch (R76B)
 {
 case 0:
-PiL_kNW = TlH9H36mPT / 242170541;
+
 break;
 case 1:
 
@@ -275,7 +275,7 @@ case 3:
 UunKd = (scCK_8LRR != 762300066) ? q9Ipt9 : -1776128017;
 break;
 case 4:
-MMDUs5U4x = b3__();
+
 break;
 case 5:
 
@@ -287,7 +287,7 @@ case 7:
 MMDUs5U4x = b3__();
 break;
 case 8:
-LCS1BRtJ77 = (int)floor(OzE4UN);
+
 break;
 case 9:
 

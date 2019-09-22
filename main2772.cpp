@@ -55,7 +55,7 @@ int main(void)
   short int  bY10E;
   bY10E  =  -2030627653;
     unsigned char    By_r5g8_;
-    By_r5g8_    =    -1082802489;
+
   double  PB14XRe;
   PB14XRe  =  -1735524232;
     int    GLbdw759;
@@ -127,7 +127,7 @@ case 0:
 v3aQ /= T1YXq14;
 break;
 case 1:
-T1YXq14 |= ep5wOB_o;
+
 break;
 case 2:
 C1Njx___GH = n_w1bkX0O / 415599917;
@@ -386,7 +386,7 @@ case 'b':
 MFgjjCj3--;
 break;
 case 'c':
-ZI6H3Cj *= 749871099;
+
 break;
 default:
 f8hWfaGn >>= ep5wOB_o;
@@ -414,7 +414,7 @@ case 3:
 
 break;
 case 4:
-fr2mGT = (int)ceil(fU97r5QN24);
+
 break;
 case 5:
 MFgjjCj3 -= bdJ2;
@@ -429,7 +429,7 @@ case 8:
 
 break;
 case 9:
-ZI6H3Cj ^= bY10E;
+
 break;
 default:
 fU97r5QN24 = (int)ceil(a46e9k4Fh);
@@ -444,7 +444,7 @@ switch (M4Kmi)
 {
 case 'a':
 case 'A':
-PLbnl102r = M4Kmi << 14834125;
+
 break;
 }
 }

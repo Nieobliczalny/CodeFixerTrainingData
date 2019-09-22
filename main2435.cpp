@@ -44,7 +44,7 @@ std::cout << "C8_g9E" << r2YcAOl << "W2Z1" << r26l6iK(286241324, eoSM74, -260513
 }
 else
 {
-Vl4f = (unsigned long long)(stce5V4f2);
+
 }
 try
 {
@@ -126,7 +126,7 @@ case 'd':
 
 break;
 case 'e':
-pHg2A0 = OzXj2p + GH_vc;
+
 break;
 }
 }
@@ -156,7 +156,7 @@ while (j >= 0);
 switch (y0tsK)
 {
 case 0:
-tM1pH = p0aAyv(1711192699, xbDa082fJL, kVF8X3gCl4, -1376950694);
+
 break;
 case 1:
 h7FFP = B5d31w_Mt + 1075113970;
@@ -208,7 +208,7 @@ break;
 }
 else
 {
-VhLs7l3 = (unsigned long long)(clr6);
+
 }
 }
 while (i >= 0);
@@ -228,7 +228,7 @@ case 'a':
 
 break;
 case 'b':
-h7FFP = f_G22(1907703921);
+
 break;
 case 'c':
 GH_vc = roE_HM();

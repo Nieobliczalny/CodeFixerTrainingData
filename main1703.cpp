@@ -15,7 +15,7 @@ int main(int argc, char** argv)
 	unsigned long long	F_IdA59;
 
  float t8c1ifqt;
- t8c1ifqt = 642573466;
+
 	unsigned int	Mcx7SA;
 	Mcx7SA	=	-1766988352;
   float  Zm0JT;
@@ -27,7 +27,7 @@ int main(int argc, char** argv)
     unsigned short    vnI_YcDqU;
 
 	float	GVhL;
-	GVhL	=	1103000652;
+
 	short	V_1A3656YU;
 	V_1A3656YU	=	-29550679;
   unsigned short int  a_1lUI4D9;
@@ -53,7 +53,7 @@ int main(int argc, char** argv)
 	char	LD0svOK;
 	LD0svOK	=	-855179824;
     unsigned short    xhHbl9Z;
-    xhHbl9Z    =    -1509353593;
+
  short e73__q32J;
  e73__q32J = 1699474875;
 	short int	RIhute_Q25;
@@ -67,7 +67,7 @@ int main(int argc, char** argv)
     long long    Qzz45Gi_t;
     Qzz45Gi_t    =    177028517;
  unsigned short int C518q76LH;
- C518q76LH = -1830770301;
+
   unsigned int  ce5QQZZ;
   ce5QQZZ  =  -871678241;
  unsigned char Qf2iulbK7z;
@@ -87,7 +87,7 @@ int main(int argc, char** argv)
   long long  W9k6R56;
 
   long  C36B;
-  C36B  =  1089227592;
+
  double DMw5h8PW;
  DMw5h8PW = -1960001293;
   unsigned short  Nwt620c;
@@ -123,7 +123,7 @@ int main(int argc, char** argv)
  long double j3iw_27;
  j3iw_27 = -141766454;
   long  d97XcN6r;
-  d97XcN6r  =  1749295468;
+
 	long	qs_b2B;
 	qs_b2B	=	0;
     long long    eN0t97M;
@@ -145,7 +145,7 @@ PyP9k = (int)abs(e73__q32J);
 int i = 10;
 while (i >= 0)
 {
-G2FPg = (int)(AnX9);
+
 --i;
 }
 }
@@ -296,7 +296,7 @@ y3e30S3hbX = (int)floor(GVhL);
 AAyuC5g = (unsigned short int)(WJ184);
 for (int i = 0; i < 8; i++)
 {
-mz0j9RD = LD0svOK | XQJCSd4X3_;
+
 }
 
 try
@@ -350,7 +350,7 @@ qs_b2B = NBf6G(biHVS, IKD8);
 }
 else if (XQJCSd4X3_ <= -510685115)
 {
-W9k6R56 -= 301135350;
+
 }
 else if (aU347 <= 926168053)
 {
@@ -365,7 +365,7 @@ else if (W9k6R56 == -119724050)
 {
 if (wONH > 666383856)
 {
-j3iw_27 = (int)floor(MEXK8);
+
 }
 else
 {
@@ -446,7 +446,7 @@ case 'b':
 Zm0JT = (int)floor(PyP9k);
 break;
 case 'c':
-Kiqk = (int)abs(aD2X2_6);
+
 break;
 case 'd':
 C36B = (int)abs(Kiqk);
@@ -461,7 +461,7 @@ case 'g':
 qs_b2B = NBf6G(1999692133, XZJL3rJo);
 break;
 case 'h':
-GVhL = (int)floor(aD2X2_6);
+
 break;
 case 'i':
 pc_5pPwX44 = NBf6G(a_1lUI4D9, -902106641);
@@ -471,7 +471,7 @@ default:
 break;
 }
 
-j3iw_27 = (int)floor(Y9b_kvS);
+
 
 xbcqd4s--;
 return 0;

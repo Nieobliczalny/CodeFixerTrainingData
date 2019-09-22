@@ -41,7 +41,7 @@ int main(void)
   long double  KFhNtD;
 
     unsigned long long    e42y;
-    e42y    =    -1128100661;
+
  short int dZor;
  dZor = 1502876192;
     unsigned short    PGaU31u_9;
@@ -53,7 +53,7 @@ int main(void)
     long long    f0rW;
 
     char    x5TiRu_;
-    x5TiRu_    =    0;
+
   short  tvAzf8Rk2;
   tvAzf8Rk2  =  580325767;
 	long	n_6M92;
@@ -63,7 +63,7 @@ int main(void)
  float gJWp84l;
 
   unsigned long  YR8__m;
-  YR8__m  =  154704007;
+
 	long long	jFM4z82r3y;
 	jFM4z82r3y	=	-618699822;
 	char	g3YLS;
@@ -77,7 +77,7 @@ int main(void)
 	unsigned short	j00d;
 	j00d	=	-1108857532;
     long long    bVMHTRH_K;
-    bVMHTRH_K    =    123973979;
+
 	short int	jBB97;
 	jBB97	=	-1238925413;
  unsigned long long oH1x0jf;
@@ -87,7 +87,7 @@ int main(void)
 	unsigned short int	ZC4s9V;
 	ZC4s9V	=	-749582402;
  long double oD_1SBx7n;
- oD_1SBx7n = 1000521300;
+
 	long double	xHLk_EI16p;
 	xHLk_EI16p	=	-1890105984;
   unsigned short  fOO5kzE;
@@ -97,7 +97,7 @@ int main(void)
   short  e__o;
 
 	char	Y05f2BY4Sh;
-	Y05f2BY4Sh	=	93594965;
+
     short int    Ruj_Ny;
     Ruj_Ny    =    761052757;
 
@@ -134,7 +134,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-eCMX ^= 1398251482;
+
 break;
 case 'c':
 case 'C':

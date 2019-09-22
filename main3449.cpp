@@ -203,7 +203,7 @@ else
 {
 for (int k = 10; k >= 0; --k)
 {
-i6Ah3Z = sr_57 | 1414946338;
+
 }
 }
 }
@@ -234,7 +234,7 @@ if (Zt6DfU60H != Z7rv)
 }
 else if ((vDcqaK >= -149279724) && (Im6In_ < kaSp))
 {
-fJ_p_45LK = (int)ceil(kaSp);
+
 }
 else
 {
@@ -258,7 +258,7 @@ case 'B':
 kaSp = (int)ceil(YYPTL_y1j);
 break;
 default:
-Ijrc6hO4U = (int)ceil(YYPTL_y1j);
+
 break;
 }
 }
@@ -312,7 +312,7 @@ case 1:
 
 break;
 case 2:
-Ijrc6hO4U = (int)floor(YYPTL_y1j);
+
 break;
 case 3:
 g3fv49++;
@@ -327,7 +327,7 @@ break;
 }
 else
 {
-UNCNv8q5E_ = FT1BZ2151(-1010073797, KL9K_x);
+
 }
 Ijrc6hO4U = (int)ceil(kaSp);
 W6cq6 = u9Ot9t(S5c4, 1284934096, Dnab4U_, z12H_ue);

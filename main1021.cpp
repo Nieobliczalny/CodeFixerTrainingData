@@ -220,7 +220,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-s86_sV = KQKoPaOq0T + Jk_nQq;
+
 break;
 case 'c':
 case 'C':

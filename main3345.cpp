@@ -16,7 +16,7 @@ int main(int argc, char** argv) {
   double  X_4H;
 
     short int    Cpfc5N;
-    Cpfc5N    =    -1338846530;
+
  unsigned int g89M9yD;
  g89M9yD = 1639854297;
   unsigned long  KWw8yy;
@@ -44,7 +44,7 @@ int main(int argc, char** argv) {
 	unsigned short	IOuxMXz;
 	IOuxMXz	=	-2053482559;
   char  b3qZY8;
-  b3qZY8  =  1653623334;
+
   short  iA3P_mEM;
 
   long  puXNs;
@@ -102,7 +102,7 @@ int main(int argc, char** argv) {
 	long	U65tz555;
 	U65tz555	=	-1733434520;
  short O202H;
- O202H = 1004609199;
+
  int k63FGt4;
  k63FGt4 = 237144090;
   unsigned short  I_J1;
@@ -152,7 +152,7 @@ int main(int argc, char** argv) {
 	unsigned char	ejXsNVX03;
 	ejXsNVX03	=	1985033193;
  long long Et7BH1o4I;
- Et7BH1o4I = -972926262;
+
     double    kvR846QZn;
     kvR846QZn    =    -1360606564;
     short    gvqVM1jBe;
@@ -197,7 +197,7 @@ bRfx8l ^= RT5_NIJBx;
 }
 }
 }
-GH7j = (int)floor(VnDs);
+
 for (int i = 6; i >= 0; --i)
 {
 if (((RT5_NIJBx <= -2099110988) && (bs_dFj_bx)) && ((KmjDH1 > f16l93JD) || (Oa67lO >= -605653391)))
@@ -429,7 +429,7 @@ case 1:
 I_J1 <<= ho910642h;
 break;
 case 2:
-D32bgCv = (int)ceil(UsEYtx3zO);
+
 break;
 case 3:
 cGI6 = DI92C / ZQ48;
@@ -442,7 +442,7 @@ default:
 break;
 }
 
-V64z5Lf = B9tg18 * vV6K5F7n;
+
 
 {
 int i = 10;
@@ -491,7 +491,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-lqY4MUg2yv = (int)abs(N8ixKqXmwl);
+
 break;
 case 'd':
 case 'D':
@@ -515,7 +515,7 @@ break;
 }
 
 std::cout << N8ixKqXmwl << Og_YM6 << std::endl;
-CmRL1l = gvqVM1jBe & Y7iJJ1x;
+
 std::cout << "fI2Ip8S6" << ejXsNVX03 << std::endl;
 
 for (int i = 4; i >= 0; i--)
@@ -525,7 +525,7 @@ for (int j = 3; j >= 0; j--)
 
 }
 }
-BcM8_75Mni /= X3hH;
+
 
 jS1_s = FVJID81_1 / 429034642;
 

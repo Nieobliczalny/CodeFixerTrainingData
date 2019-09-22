@@ -31,7 +31,7 @@ int main(int argc, char** argv)
 
 if (Pp_mTYZ71k == 1116727351)
 {
-TfqH7i = (unsigned short int)(Z1z7);
+
 }
 
 if (tEV8GI9xhL == 0)

@@ -162,7 +162,7 @@ case 7:
 
 break;
 case 8:
-yk6_SHXHR = QZ0F8dxmv5();
+
 break;
 }
 }
@@ -379,7 +379,7 @@ else if (b2m59a4g != JX0y)
 {
 for (int k = 0; k < 8; k++)
 {
-n0D63qjK = QZ0F8dxmv5();
+
 }
 }
 else if (Bd8POi == Jp_8y02z1a)
@@ -395,7 +395,7 @@ switch (b2m59a4g)
 {
 case 'a':
 case 'A':
-j8TkRZad09 = JGSY6DC(888582421);
+
 break;
 case 'b':
 case 'B':
@@ -429,7 +429,7 @@ while (k >= 0);
 }
 else if (Vj20 != x0PJE_)
 {
-b2m59a4g = KVdx9PS - 2091900796;
+
 }
 else if ((leA6OJtO < 727916854) && ((wHMIJZ62 >= Bd8POi) || (Vj20 <= x0PJE_)))
 {

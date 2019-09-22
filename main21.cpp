@@ -294,7 +294,7 @@ else
 {
 
 }
-d1hlS = v22g6Fq(d1hlS);
+
 cout << "P92by_97" << "NCiOJ" << endl;
 if (vDbmqx >= 1105858436)
 {
@@ -347,7 +347,7 @@ case 'H':
 break;
 case 'i':
 case 'I':
-UAO7F49qH = j1KqJqDVUt(1726760935, 774416972) - 1595292720;
+
 break;
 default:
 It6io5e49_ = j1KqJqDVUt(It6io5e49_, XX56oIL5jD);

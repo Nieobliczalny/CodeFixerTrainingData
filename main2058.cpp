@@ -29,7 +29,7 @@ int main(int argc, char** argv) {
   short  u_GPC8;
   u_GPC8  =  806567585;
     long    ih_Q4;
-    ih_Q4    =    798087827;
+
   float  SJ6m3RFV;
   SJ6m3RFV  =  994039148;
     unsigned char    w_zz;
@@ -47,7 +47,7 @@ int main(int argc, char** argv) {
 	unsigned long	NJ65O;
 	NJ65O	=	1873197682;
 	long	YX9o_0trn;
-	YX9o_0trn	=	-2035352528;
+
  long double QGTxp_;
  QGTxp_ = 1814736523;
  int Lp9p;
@@ -57,7 +57,7 @@ int main(int argc, char** argv) {
   char  H9Ie;
 
   float  zn4U1t_oX;
-  zn4U1t_oX  =  262993216;
+
   int  KkbH7j;
   KkbH7j  =  1534427661;
  unsigned short pw90U0;
@@ -71,7 +71,7 @@ int main(int argc, char** argv) {
  unsigned char bzCWCcnO8;
 
 	unsigned char	Fh647d_U;
-	Fh647d_U	=	136532626;
+
  double qXnsVAxEu;
  qXnsVAxEu = 54234138;
     unsigned short int    Sq0HZw;
@@ -83,7 +83,7 @@ int main(int argc, char** argv) {
 	float	l3pD9Zd0Uu;
 
  long long Ppp8H1b0D9;
- Ppp8H1b0D9 = -1019784601;
+
     float    Mt2KWStry;
     Mt2KWStry    =    -1770068067;
     int    TbM0zG5;
@@ -123,7 +123,7 @@ int main(int argc, char** argv) {
   char  HNEIq;
   HNEIq  =  695397525;
   long double  jvJL;
-  jvJL  =  -1286985049;
+
 	short	wzeKBt;
 	wzeKBt	=	-435750069;
  double z925lM_e;
@@ -143,7 +143,7 @@ int main(int argc, char** argv) {
   long double  pHne_2u;
   pHne_2u  =  -332415387;
  double rg4bz2;
- rg4bz2 = 215959288;
+
  char zcBhcuR;
  zcBhcuR = -2010627146;
  unsigned long I0k6z;
@@ -167,7 +167,7 @@ int main(int argc, char** argv) {
 	unsigned short	P22A6;
 	P22A6	=	1130945367;
     int    ftr61wS2V;
-    ftr61wS2V    =    2010677171;
+
  short int Fb61ZlKV;
  Fb61ZlKV = 972326837;
   unsigned long long  swSqJiqwH5;
@@ -177,7 +177,7 @@ int main(int argc, char** argv) {
 	float	iT_n_0My8;
 	iT_n_0My8	=	1146251313;
     unsigned int    JkWvB3B8;
-    JkWvB3B8    =    -1587928418;
+
   short  B4ntV;
   B4ntV  =  -728850990;
 	char	I9Dz3O;
@@ -287,7 +287,7 @@ int k = 0;
 do
 {
 k++;
-jvJL = N22m2t << 649054946;
+
 }
 while (k < 10);
 }
@@ -331,7 +331,7 @@ eC0P9P_d4 = ExE56(A5H2ds, n1rmW, P22A6);
 break;
 case 'c':
 case 'C':
-Ln6TX92ugP += 913910930;
+
 break;
 case 'd':
 case 'D':
@@ -472,7 +472,7 @@ else if (w_zz <= 1861862068)
 }
 else
 {
-GrP2_mc5 = (int)ceil(iT_n_0My8);
+
 }
 }
 while (j < 3);
@@ -485,7 +485,7 @@ switch (Me6I9U_7n1)
 {
 case 'a':
 case 'A':
-Ln6TX92ugP = HNEIq ^ kqla;
+
 break;
 }
 rg4bz2 = YFx64J(-1399265638, -2140531791, greDg, Mn17w28a4f, z38gYI);

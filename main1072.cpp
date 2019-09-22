@@ -131,7 +131,7 @@ std::cout << xeq5x1 << z77c << r_tImVlCOX << std::endl;
 }
 else if (((il76 <= Csa23by9Ui) || (WjXbUU0 > -49506369)) && (uxmKzEE >= 2089189755))
 {
-f3RYmfglQd = (double)(gB3r);
+
 }
 else if (((Csa23by9Ui == 1354209516) || (G6BN8TI <= 916531693)) && (xeq5x1 >= 238111173))
 {
@@ -152,7 +152,7 @@ else
 K4_xd = (unsigned short)(Z6_QHoH * K4_xd);
 }
 joEdB = (int)ceil(A_JD6);
-L0QpAT58 = -408321327 / P94_4();
+
 
 uxmKzEE = (double)(C0ZOis1sl9);
 
@@ -167,7 +167,7 @@ i--;
 switch (K4_xd)
 {
 case 0:
-XCt_Bmkaah = (Csa23by9Ui >= -2137479369) ? 640007451 : 1711690117;
+
 break;
 case 1:
 
@@ -195,7 +195,7 @@ case 0:
 
 break;
 case 1:
-f3RYmfglQd = (int)ceil(z77c);
+
 break;
 case 2:
 z77c = k1DO9oe(z77c, bg6hk33y, 1345417128, xeq5x1);
@@ -207,7 +207,7 @@ case 4:
 
 break;
 case 5:
-k8F5hrz8y4 = (int)abs(joEdB);
+
 break;
 case 6:
 uxmKzEE -= xeq5x1;
@@ -219,7 +219,7 @@ case 8:
 
 break;
 case 9:
-OGB_700fBl = (int)ceil(WjXbUU0);
+
 break;
 default:
 f3RYmfglQd = (int)floor(G6BN8TI);

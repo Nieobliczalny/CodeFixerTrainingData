@@ -160,7 +160,7 @@ case 'b':
 y4N5 = (S60sjWS5b == r914Zni) ? xp4R2 : S60sjWS5b;
 break;
 case 'c':
-W4g17lFj /= 711456907;
+
 break;
 case 'd':
 WH0F2DUi = FgfUS / S60sjWS5b;
@@ -255,7 +255,7 @@ case 0:
 G_jm = (int)abs(WH0F2DUi) * 0;
 break;
 case 1:
-W4g17lFj = r914Zni / 1805539172;
+
 break;
 case 2:
 v2rf3bleE = (int)abs(WH0F2DUi) * 0;
@@ -303,7 +303,7 @@ case 'a':
 
 break;
 case 'b':
-S60sjWS5b /= X59B;
+
 break;
 case 'c':
 y4N5--;

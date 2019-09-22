@@ -53,7 +53,7 @@ switch (h7v8_)
 {
 case 'a':
 case 'A':
-m48bcc = r29i_l(-1545834667, -236111760, -281068512, m2c3c);
+
 break;
 case 'b':
 case 'B':
@@ -65,7 +65,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-RSfF8k9 /= ek1_VR;
+
 break;
 default:
 vaWm = N5bN1(g81gZsxZ, -1215671727, -794162670) | ek1_VR;
@@ -101,7 +101,7 @@ std::cout << "iZ10k0O5" << std::endl;
 }
 }
 
-z14BgM = LV5e_AbqE / Sd3GMH9nJV;
+
 switch (Sd3GMH9nJV)
 {
 case 'a':
@@ -113,7 +113,7 @@ case 'B':
 yl1XhshgI = N5bN1(1283087169, -919988739, 1361966259);
 break;
 default:
-Q1JtbR = r29i_l(jIU7dgf, -386787280, 1274439592, wFsvsI3A88);
+
 break;
 }
 {
@@ -154,7 +154,7 @@ k++;
 }
 }
 }
-eGSEJF2 = N5bN1(-808369718, -1705595040, 141641827);
+
 if (OrUFW != -1958397821)
 {
 switch (YDrWB4yuug)
@@ -179,7 +179,7 @@ Z46ab5 = (Cjfe >= 1905155041) ? Z46ab5 : r29i_l(Cjfe, -1345328127, s_5P_u4k, F80
 }
 }
 
-Yy0Dw = (short)(J32hNv);
+
 
 std::cout << N5bN1(F806u, JLydS110__, -1800245766) << "Bvt_d" << std::endl;
 {

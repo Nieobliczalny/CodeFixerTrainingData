@@ -59,7 +59,7 @@ std::cout << m1M9 / vFT8Y << std::endl;
 
 
 
-qXizf1nHuR = J9v0 * 1448291040;
+
 return 0;
 }
 

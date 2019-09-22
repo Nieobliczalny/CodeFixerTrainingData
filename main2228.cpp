@@ -347,7 +347,7 @@ else if (oX1_ & Q4q_)
 }
 else if (WI6Dk7 == -2002175805)
 {
-n0En = Fn4WrRw % 2077298854;
+
 }
 else
 {
@@ -593,7 +593,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-Q4q_ = Fn4WrRw << T_1F952;
+
 break;
 case 'c':
 case 'C':

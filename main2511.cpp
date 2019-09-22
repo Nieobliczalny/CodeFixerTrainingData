@@ -42,7 +42,7 @@ while (j >= 0)
 switch (O5ebgD2)
 {
 case 0:
-Yj547 = KY8Kua(C6wg0D, -1242522383);
+
 break;
 case 1:
 R8QHf0A = KY8Kua(lJHT06qg32, fVKUAlVC);
@@ -92,7 +92,7 @@ for (int i = 0; i < 9; i++)
 
 }
 O5ebgD2 = KY8Kua(kyqo, 1581888407);
-XVc_1U2J_x = (long long)(ZKj96g6);
+
 if ((gwb1HTR < 623955729) || (C6wg0D <= -2137356488))
 {
 {
@@ -154,7 +154,7 @@ case 'd':
 O5ebgD2 = KY8Kua(gwb1HTR, XC3_6);
 break;
 case 'e':
-nZ4B884 = KY8Kua(-238918687, n4go_NF6);
+
 break;
 case 'f':
 bIOuR = q4r9X20Y - up_KEPH;
@@ -251,7 +251,7 @@ case 'a':
 
 break;
 case 'b':
-q4r9X20Y = czfeS3 / N9JR0T;
+
 break;
 case 'c':
 Yj547 = KY8Kua(BSejs7TTZ6, h19Omfd4);

@@ -240,7 +240,7 @@ Au6apCbrh >>= shPz;
 break;
 case 'b':
 case 'B':
-shPz = wwv5(1396630453);
+
 break;
 case 'c':
 case 'C':
@@ -399,7 +399,7 @@ case 0:
 
 break;
 case 1:
-shPz = o5_pUK | T2o8dKsL;
+
 break;
 case 2:
 o8080wufz1 = r57p3Gh * S6vf_k;

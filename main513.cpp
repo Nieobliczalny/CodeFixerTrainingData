@@ -115,7 +115,7 @@ std::cout << XM_0F << bs85 << "OE57" << std::endl;
 d6_1Ts26nG *= 798719996;
 XM_0F = EQ3gZ0_GB / bs85;
 
-bs85 = (int)abs(XM_0F);
+
 bs85 = fHxer >> 1856435740;
 
 for (int i = 5; i >= 0; i--)

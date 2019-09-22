@@ -33,7 +33,7 @@ int main(void)
   Wbid0hHJW_  =  -1069184273;
   Odkx  =  1728278577;
   CA18WX26  =  -413352937;
-  rv7j  =  -1372028698;
+
   oNl_cT09wb  =  -1660483928;
   tRsixR2  =  40932868;
   MvyJX0J15  =  -1898467153;
@@ -75,7 +75,7 @@ int k = 0;
 do
 {
 k++;
-rv7j = (int)floor(Ob0YBTzxd8);
+
 }
 while (k < 3);
 }
@@ -204,7 +204,7 @@ case 'b':
 Odkx -= 1771470127;
 break;
 case 'c':
-bEK9X = i_o4F3r9(1007981867, Odkx, 618952672, Rz15);
+
 break;
 case 'd':
 w_4G = (int)floor(CA18WX26);

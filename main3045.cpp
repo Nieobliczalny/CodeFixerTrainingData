@@ -64,7 +64,7 @@ int main(int argc, char** argv) {
   float  c_5yN20;
   c_5yN20  =  97396166;
     long double    Uo_2w;
-    Uo_2w    =    -1818186612;
+
   long  Z6m67;
   Z6m67  =  -147238989;
     long double    nvajhx;
@@ -461,7 +461,7 @@ case 0:
 
 break;
 case 1:
-ZY80I = MM8qHAd + cxFe15574_;
+
 break;
 case 2:
 Le73M = (int)abs(fw999);
@@ -531,7 +531,7 @@ case 'B':
 nvajhx = (int)floor(c_5yN20);
 break;
 default:
-e1LS5ScqI = R__9FW >> 168462514;
+
 break;
 }
 }
@@ -589,7 +589,7 @@ gmFqTnCW = uyzReV04F9(Z6m67, 1594377135);
 
 
 
-Uo_2w = (long double)(j399);
+
 return 0;
 }
 

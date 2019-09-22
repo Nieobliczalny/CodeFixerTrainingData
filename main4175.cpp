@@ -39,7 +39,7 @@ int main() {
 	int	wN6Hl114;
 
  long WX5DY9iOQd;
- WX5DY9iOQd = 0;
+
     int    ZP7cXh9;
     ZP7cXh9    =    -396320808;
  unsigned short int TBf_53;
@@ -261,7 +261,7 @@ else if (f10m_8Wl == O92NNq16S)
 int k = 0;
 while (k < 3)
 {
-RSmYO = e62zN(j0hR3D_gm, O92NNq16S, -1689598096) % BAHx;
+
 ++k;
 }
 }
@@ -638,7 +638,7 @@ if ((JsAR11gJ9 == -871496722) || ((v2V8VlQu_ != 1272334) || (yLGd < p4nlW52P_)))
 }
 else
 {
-fB489v8 = (int)abs(wN6Hl114);
+
 }
 
 {

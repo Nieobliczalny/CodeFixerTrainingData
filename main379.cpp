@@ -173,7 +173,7 @@ case 3:
 
 break;
 case 4:
-b6JoxBi4 -= 1586241105;
+
 break;
 case 5:
 hAwgTmW = T5wyXz2m & PI5Lui;
@@ -256,7 +256,7 @@ else if ((hAwgTmW == gdxG3Ss3ro) || (fqnrpx7kD != 151788321))
 {
 try
 {
-b6JoxBi4 = PI5Lui * 651454769;
+
 }
 catch (int& errorCode)
 {

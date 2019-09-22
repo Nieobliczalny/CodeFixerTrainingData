@@ -67,7 +67,7 @@ case 1:
 HRTr = (int)floor(lJuf356_);
 break;
 default:
-tF75J06V = TtG3(-829039664, -107251125);
+
 break;
 }
 }
@@ -99,7 +99,7 @@ HRTr = (int)floor(cQXb);
 }
 else if (cQXb > 62608294)
 {
-ZfWTic13 = (int)abs(l55IR);
+
 }
 else if ((Z1V5nWZc != l55IR) || ((l55IR >= 460150313) || (OCIU4JWZl >= JdZWj)))
 {
@@ -192,7 +192,7 @@ case 2:
 
 break;
 case 3:
-ZfWTic13 = (int)abs(dSle4fuVj_);
+
 break;
 case 4:
 aCnT9bf3_N = WoO57x(1001370518, aCnT9bf3_N, -101622979, OCIU4JWZl);
@@ -204,7 +204,7 @@ case 6:
 
 break;
 case 7:
-zwEiz_inP = (int)floor(l55IR);
+
 break;
 }
 }
@@ -221,7 +221,7 @@ Dd31B3V1 = Dd31B3V1 / TtG3(Z1V5nWZc, dSle4fuVj_);
 int i = 5;
 do
 {
-tF75J06V = TtG3(Dd31B3V1, dSle4fuVj_);
+
 --i;
 }
 while (i >= 0);

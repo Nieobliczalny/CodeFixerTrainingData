@@ -95,7 +95,7 @@ else
 {
 if (AzP57CSdz & DrABv6z)
 {
-Xzgjg8v = (int)ceil(VMQ11yU);
+
 }
 else
 {

@@ -14,7 +14,7 @@ int main(void)
   UnN9C  =  825266110;
   Tfgx  =  789508096;
   Se2m  =  -452214856;
-  mF_v5vUMZO  =  -1730260032;
+
   vVBkS2C  =  -369809093;
   A2URGnH  =  573359316;
   tSD5RwPM  =  550679821;
@@ -25,7 +25,7 @@ int main(void)
 
   Lzg2KCsg  =  -595081886;
   Yo6vJ  =  1048690277;
-  Mmhz  =  929356956;
+
   E86isZW  =  -2042495153;
   T6LUM1X  =  -565667473;
   Q61lZei  =  2100498469;
@@ -38,7 +38,7 @@ int main(void)
 
   h_38KEfb9Q  =  -1646936869;
   ZahM_2  =  427293034;
-  Q2zr2oWAUY  =  -1680802648;
+
   z716  =  -1704600161;
   ZDQPRXH5  =  -1869062978;
   d98Apz8k  =  -2133284685;
@@ -355,7 +355,7 @@ Yo6vJ = hoCYR_8Sg0 - 2034505900;
 break;
 case 'f':
 case 'F':
-Q2zr2oWAUY = (int)floor(E86isZW);
+
 break;
 case 'g':
 case 'G':
@@ -471,7 +471,7 @@ else if ((A2URGnH < 2132038473) && (UnN9C))
 }
 else
 {
-ZDQPRXH5 = (int)floor(orC0l);
+
 }
 }
 while (j >= 0);

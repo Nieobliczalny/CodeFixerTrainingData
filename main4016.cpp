@@ -22,7 +22,7 @@ int main() {
 	E_dn1U	=	1177178209;
 
 	jP4ef5a	=	57709741;
-	qn4Ojf	=	745815514;
+
 	urw3izDaw	=	-2134602458;
 	PUC26H1	=	-336201428;
 	F75U	=	-877975715;
@@ -33,7 +33,7 @@ int main() {
 
     unsigned int    AA9R,    wm10__1,    q8FUocgVqy,    D92iu;
     AA9R    =    0;
-    wm10__1    =    0;
+
     q8FUocgVqy    =    0;
     D92iu    =    0;
 

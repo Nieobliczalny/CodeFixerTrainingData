@@ -26,7 +26,7 @@ int main(int argc, char** argv) {
 	unsigned short int	J_6ak82c49;
 
     unsigned int    uz3u69_9;
-    uz3u69_9    =    660563391;
+
     unsigned char    J2U3htN_;
     J2U3htN_    =    1471001640;
  unsigned short int N0p38;
@@ -86,7 +86,7 @@ int main(int argc, char** argv) {
  unsigned short gvB_8;
  gvB_8 = 1377048461;
   long  c72Kx_gjj5;
-  c72Kx_gjj5  =  -1753683096;
+
 	short	o85FZ4m;
 	o85FZ4m	=	-827798344;
     long    CJwyDrF;
@@ -152,7 +152,7 @@ int main(int argc, char** argv) {
   unsigned short int  W4T6;
 
   long long  otl8Y8U;
-  otl8Y8U  =  -297878272;
+
 	short int	RM0nXK;
 	RM0nXK	=	1508068375;
 	int	EqQib0A;
@@ -188,7 +188,7 @@ case 1:
 BoWoYh9Q1 = (int)abs(dYGIc1);
 break;
 case 2:
-M2vVU729y = AZz9Qg(314329788, -1830686503, qw7hfW4, M2vVU729y);
+
 break;
 case 3:
 Yyuq4J5N04 /= Tn0Px3cdU8;
@@ -246,7 +246,7 @@ if ((r75762E <= 1885153903) || ((ckkWOf == kRI3XQXkL) || (Z678n >= 395098620)))
 {
 if (q4sD6x1Pz)
 {
-J_6ak82c49 = AZz9Qg(E4634kSr, DZc10w3I, -989729865, 1750883058);
+
 }
 else
 {
@@ -274,7 +274,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-J_6ak82c49 = AZz9Qg(ox_19589qR, Yyuq4J5N04, djQ5, W4T6);
+
 break;
 case 'c':
 case 'C':
@@ -286,7 +286,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-mu058oW = (int)floor(djQ5);
+
 break;
 case 'f':
 case 'F':
@@ -306,7 +306,7 @@ kRI3XQXkL = W4T6 * 1893572043;
 break;
 case 'j':
 case 'J':
-yeSYh_Q3 = (mbb5f41 < BoWoYh9Q1) ? eFRmI : -1791655160;
+
 break;
 default:
 CanmP6 = S0OR67(CanmP6, Yyuq4J5N04, -1937333213, -1225716771, NVjN);
@@ -321,7 +321,7 @@ if (d_tik94h)
 }
 else if (lM_c8nVR == mz9c)
 {
-o85FZ4m = (int)abs(CanmP6);
+
 }
 else if (k_07_L1f)
 {
@@ -438,7 +438,7 @@ else if (IpBwLE7OW & -1012742545)
 {
 if ((qY4aNb != -921690172) && ((PA9l7Hh < D_I2) && (z4NjSwUHy <= D_I2)))
 {
-yeSYh_Q3 = r75762E / 1832826285;
+
 }
 else
 {
@@ -466,7 +466,7 @@ std::cout << DZc10w3I << k_07_L1f << std::endl;
 
 for (int i = 0; i < 9; ++i)
 {
-Z678n = (int)ceil(pM2r);
+
 }
 A2g9Hq = (double)(K5LamwG7);
 SKZWDMNp5 = (long)(K5LamwG7);
@@ -483,7 +483,7 @@ if (E4634kSr >= K5LamwG7)
 }
 else
 {
-Z678n = (int)abs(bhidtCf1y);
+
 }
 }
 ++i;
@@ -515,7 +515,7 @@ case 5:
 
 break;
 case 6:
-djQ5 = (int)abs(pM2r);
+
 break;
 case 7:
 kpLRB = (int)ceil(kRI3XQXkL);

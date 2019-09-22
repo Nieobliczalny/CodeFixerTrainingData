@@ -153,7 +153,7 @@ Ic34f9o4Sa = D37P(Ic34f9o4Sa, 421501083);
 
 
 
-BWgffh4ftm = ZGS1v8TE / x_NX2(Ic34f9o4Sa, rjnTpF1Uub, 1354476663, -52249617, 1867607506);
+
 try
 {
 EM3A1_KpkL = (unsigned short int)(dqlw5F6Hy);
@@ -171,7 +171,7 @@ switch (RBZ0D9_8s)
 {
 case 'a':
 case 'A':
-m7Q3mqv = D37P(573149858, 1208025248);
+
 break;
 case 'b':
 case 'B':
@@ -183,7 +183,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-yh3Q <<= 1186160539;
+
 break;
 case 'e':
 case 'E':
@@ -194,7 +194,7 @@ case 'F':
 
 break;
 default:
-U32Rl_b7 /= 666533854;
+
 break;
 }
 cout << X0dh0 << "G681DgA0" << h7S56m881(vBBqs1c, -1578575248, 839156880, -100616184, si4dXk) << endl;

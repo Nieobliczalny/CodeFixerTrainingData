@@ -28,7 +28,7 @@ int main(void) {
 
 std::cout << kZ_kl(P7tc, J4_ZY4, qO3RW0nno5) << std::endl;
 
-s3BD = kZ_kl(-1545157649, -2126736196, PwhNa_q_);
+
 oQb79 = AXNd__ / y60kn5u7PY;
 
 JRQ0pQr = kZ_kl(-807023387, 2108236308, -163414210);
@@ -46,7 +46,7 @@ if (((v6Tv1) && (XV5PDB61R == Z3TAj3h5Bv)) || (fy9P616S1 < BrlZSw29o))
 }
 else
 {
-JRQ0pQr = kZ_kl(-651459755, B0Oe, 1166313127);
+
 }
 return 0;
 }

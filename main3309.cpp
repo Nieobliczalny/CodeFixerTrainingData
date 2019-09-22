@@ -289,7 +289,7 @@ else if (S6kz44J8 >= -1971444277)
 }
 else if ((BOn2 <= 1722855264) || ((OJK4lg8 >= ZqXmQ72_SY) && (b9LSx77Xu != -289942444)))
 {
-BOn2 = (int)floor(z0fiFgU);
+
 }
 else
 {
@@ -314,7 +314,7 @@ prUJ = (int)ceil(uqdBA);
 OJK4lg8 = SGHz_N(OJK4lg8, 1612418770, -293089180, -1378712553, -161738877);
 if (z0fiFgU)
 {
-goetTTJFNz = (int)floor(S6kz44J8);
+
 }
 
 if (DMy7N6W)
@@ -330,7 +330,7 @@ case 1:
 b9LSx77Xu = (int)abs(z0fiFgU);
 break;
 case 2:
-ZqXmQ72_SY = (int)abs(KYPDE) * 0;
+
 break;
 default:
 k0fq8V = ta3yf - fAslP_;
@@ -389,7 +389,7 @@ Ve0x6v7Wx = (int)ceil(uqdBA);
 }
 
 
-xr668ud2 += 624428878;
+
 return 0;
 }
 

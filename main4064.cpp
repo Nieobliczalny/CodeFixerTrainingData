@@ -16,7 +16,7 @@ int main(int argc, char** argv)
     unsigned short    C2caoRbTo_,    pctKQ,    qX_m,    a8CFNS44,    E_17Xfv_;
     C2caoRbTo_    =    0;
     pctKQ    =    0;
-    qX_m    =    0;
+
     a8CFNS44    =    0;
     E_17Xfv_    =    0;
  unsigned long long EKSXc9D8, v3f6rI80vq, OT4gu, WHWGG40, gZkV_qhs5, WfjJ1f6QJ5, GZZe34a, Z07W8q2, yS5n, A6Zyeb8D9, vqTYDg6, EZl5o9tI, fEYC, pLJUo7187, r6qW3, dEH_Q, f_tYhUOmJ, jxVMNoCi3, pvaaL, C3ArWN__U, ruafsfv7, mFP3PHN, cqP6;
@@ -114,7 +114,7 @@ case 2:
 jxVMNoCi3 = Nr2lsQ();
 break;
 case 3:
-WfjJ1f6QJ5 = A6Zyeb8D9 | yS5n;
+
 break;
 case 4:
 
@@ -271,7 +271,7 @@ while (k >= 0)
 }
 else
 {
-r6qW3 = (unsigned long long)(a8CFNS44 + (1422927365));
+
 }
 
 v3f6rI80vq *= pctKQ;
@@ -366,7 +366,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-fEYC = Nr2lsQ();
+
 break;
 case 'c':
 case 'C':

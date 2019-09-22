@@ -130,7 +130,7 @@ case 'A':
 
 break;
 default:
-Y2rkNO = (int)abs(dGy7Ylp);
+
 break;
 }
 }
@@ -148,7 +148,7 @@ else if ((Ju_e5mD != 1296030009) && (Ju_e5mD == 578699687))
 {
 if ((M6z3jgXJZ8 > -718444346) && (JVbS_M <= P4iC4))
 {
-M6z3jgXJZ8 = L8zH(P4iC4, ra1F_MF7yS, -925076522, PFgo);
+
 }
 }
 else if (ai0p_Ep33j >= -1634307613)
@@ -216,7 +216,7 @@ break;
 
 for (int i = 0; i < 1; i++)
 {
-PFgo = (O_Jw2 & 1573174784) ? 696636232 : -1465583226;
+
 }
 for (int i = 0; i < 1; ++i)
 {

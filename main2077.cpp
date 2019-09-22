@@ -81,7 +81,7 @@ int main(int argc, char** argv) {
  unsigned long long xXx11WCn4;
  xXx11WCn4 = -805587825;
     unsigned int    a650vA1J07;
-    a650vA1J07    =    843476756;
+
 	long long	G3cx2YcQ;
 	G3cx2YcQ	=	-755188821;
   unsigned long  E2bg;
@@ -95,7 +95,7 @@ int main(int argc, char** argv) {
   double  ek96;
   ek96  =  -1783422582;
     double    sG4B41L450;
-    sG4B41L450    =    171476938;
+
   unsigned long  Bjd5;
   Bjd5  =  -1855642834;
  unsigned long T65Z;
@@ -107,7 +107,7 @@ int main(int argc, char** argv) {
  int wTCYs;
  wTCYs = 2665247;
  long long Af5ST;
- Af5ST = 0;
+
   float  ul3Ee_7Y4;
   ul3Ee_7Y4  =  2016852230;
     float    uVeK;
@@ -121,7 +121,7 @@ int main(int argc, char** argv) {
     unsigned short int    fBM2;
     fBM2    =    688988284;
  double KdBH;
- KdBH = 2008313359;
+
  unsigned short pJ_x1Ovu8;
  pJ_x1Ovu8 = 1223458462;
     short    X_63C37G9;
@@ -151,7 +151,7 @@ int main(int argc, char** argv) {
   unsigned char  Vys_HZ;
   Vys_HZ  =  -866455206;
   long double  Dy8R6;
-  Dy8R6  =  -2076048701;
+
  unsigned short HjifB3;
  HjifB3 = -138570016;
  short int jlf4M5;
@@ -161,7 +161,7 @@ int main(int argc, char** argv) {
 	long	EKxF0_Ud;
 
 	long double	N4aOELgg4w;
-	N4aOELgg4w	=	1940393110;
+
  unsigned long zvBpM4E;
  zvBpM4E = -1141672305;
  unsigned short T32MJuil4N;
@@ -175,7 +175,7 @@ int main(int argc, char** argv) {
   unsigned char  Y4jp33xd;
   Y4jp33xd  =  462339205;
  unsigned short int qZ32sBYN;
- qZ32sBYN = 502413978;
+
   int  GRX4s389o;
   GRX4s389o  =  2125056707;
     unsigned char    lW6YSc;
@@ -189,7 +189,7 @@ int main(int argc, char** argv) {
   unsigned int  SCsihv;
   SCsihv  =  -1870409392;
 
-rwpE4i0Zn = (short)(ugu_ + (O49216MwCN));
+
 oiZ4 = (unsigned short int)(cPZM9);
 
 
@@ -388,7 +388,7 @@ case 0:
 
 break;
 case 1:
-sG4B41L450 = (int)floor(jLLD8);
+
 break;
 case 2:
 sG4B41L450 = (int)ceil(z2wV2);
@@ -433,7 +433,7 @@ tbHZ8o &= sxM084L;
 break;
 case 'g':
 case 'G':
-ul3Ee_7Y4 = (int)floor(ASlO0);
+
 break;
 case 'h':
 case 'H':
@@ -481,7 +481,7 @@ case 'b':
 
 break;
 case 'c':
-a15uy1 = (int)abs(ASlO0);
+
 break;
 case 'd':
 qu3k9r = v6zV_Zqpte(E1xR1W, DMLt, 1709798581);
@@ -506,7 +506,7 @@ case 0:
 
 break;
 case 1:
-N4aOELgg4w = (int)floor(ek96);
+
 break;
 case 2:
 Vys_HZ = Lxu5(Vys_HZ, 672247691);
@@ -524,7 +524,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-Ajj9 = (int)floor(W2Sqr);
+
 break;
 case 'c':
 case 'C':
@@ -536,7 +536,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-Dy8R6 = (int)ceil(W2Sqr);
+
 break;
 case 'f':
 case 'F':
@@ -548,7 +548,7 @@ case 'G':
 break;
 case 'h':
 case 'H':
-Af5ST = (int)abs(t79_e) * 0;
+
 break;
 case 'i':
 case 'I':

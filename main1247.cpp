@@ -104,7 +104,7 @@ case 'b':
 
 break;
 case 'c':
-g64g89A5j = af_V6057_M - bES1MX3l;
+
 break;
 case 'd':
 WA3TD527n = Y7uZx(411623587, -2105807239, JoTNc, -1626279327, llkWyK);
@@ -140,7 +140,7 @@ case 0:
 
 break;
 case 1:
-af_V6057_M = (int)abs(Ef9EIwMO6_);
+
 break;
 }
 }
@@ -159,7 +159,7 @@ while (k >= 0);
 ++i;
 }
 }
-Ef9EIwMO6_ = Y7uZx(-986302693, MNs_6R_VOG, JoTNc, -1649045741, -163778053);
+
 
 
 WA3TD527n = 1681134220 / L48E(-1082935512, -1220641599);

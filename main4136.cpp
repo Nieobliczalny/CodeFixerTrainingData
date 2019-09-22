@@ -378,7 +378,7 @@ do
 int k = 0;
 do
 {
-aeVZXPKTL3 = (jpOhn_c3) ? 2123219448 : j0Ce7;
+
 k++;
 }
 while (k < 7);
@@ -419,7 +419,7 @@ case 'i':
 D4ULZ = lA5cJ(1174022947, c1hh_ihnl, j0Ce7, -339063134, Rokb7Vk);
 break;
 default:
-aeVZXPKTL3 = (int)floor(FDCBT7HS);
+
 break;
 }
 }
@@ -448,7 +448,7 @@ CcmFWL1 = (int)floor(Vp432607);
 break;
 case 'd':
 case 'D':
-aeVZXPKTL3 = (int)abs(gEr0);
+
 break;
 case 'e':
 case 'E':
@@ -514,7 +514,7 @@ case 4:
 
 break;
 case 5:
-No3eKf2ubA = JTynoGfv1S();
+
 break;
 case 6:
 gEr0 = lA5cJ(gEr0, D4ULZ, rQC7_8w, -1798626326, u2Q_Q);
@@ -601,7 +601,7 @@ case 0:
 
 break;
 case 1:
-FDCBT7HS = (int)floor(jpOhn_c3);
+
 break;
 case 2:
 XFvb8p = DJL_bCOGy(rfqE82D_43);
@@ -632,7 +632,7 @@ else
 {
 if ((F83SkhSAO >= -1325404405) && (v3707jHb5 == rANb74))
 {
-fWB7Y1I = (int)abs(c1hh_ihnl);
+
 }
 else
 {
@@ -659,7 +659,7 @@ while (k >= 0)
 }
 else
 {
-sM3_U3 = (unsigned char)(dz61j07hu);
+
 }
 }
 while (i < 9);
@@ -678,7 +678,7 @@ int i = 4;
 do
 {
 --i;
-gEr0 = (int)abs(Vp432607);
+
 }
 while (i >= 0);
 }
@@ -705,7 +705,7 @@ case 5:
 rQC7_8w = P1Djtha8M % 135167251;
 break;
 case 6:
-j0Ce7 >>= 2022296653;
+
 break;
 case 7:
 
@@ -735,7 +735,7 @@ for (int i = 7; i >= 0; --i)
 {
 
 }
-j0Ce7 = (int)abs(CcmFWL1);
+
 std::cout << "Z7gh_h7" << DJL_bCOGy(hef8) << DJL_bCOGy(hef8) << std::endl;
 return 0;
 }

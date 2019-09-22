@@ -75,7 +75,7 @@ if (DS7x <= -945254761)
 }
 else if ((hZ8Rh_l3lj == 85160303) || (UcFQ08e_ < DS7x))
 {
-zKPY_V_ = vAWY1j >> 2141935038;
+
 }
 else
 {
@@ -87,7 +87,7 @@ i--;
 }
 
 
-DS7x = (gXP4D6 != 186266237) ? -2112096551 : jf6I5Rm;
+
 a_35FE9x = (unsigned char)(n84YFAjV1);
 eCCa93 = (long)(l80h);
 cout << EY5f << r3ZLzmmv << endl;
@@ -108,7 +108,7 @@ case 2:
 
 break;
 case 3:
-K254P8_yn = (int)ceil(EY5f);
+
 break;
 case 4:
 G9yHTRx_jm = (int)floor(zM_3);

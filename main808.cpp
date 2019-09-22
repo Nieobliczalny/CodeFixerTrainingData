@@ -44,7 +44,7 @@ int main(int argc, char** argv) {
  unsigned short PzlbRQ8;
 
  unsigned short uGQMr1x;
- uGQMr1x = 839047908;
+
   short  T0V861C05;
   T0V861C05  =  1533880821;
  char dj_t_5;
@@ -254,7 +254,7 @@ int j = 6;
 while (j >= 0)
 {
 j--;
-VMOtsnN = MUmnX3nND & i0_R_cg8;
+
 }
 }
 }
@@ -420,7 +420,7 @@ if (K5h_SzV & 284065118)
 }
 }
 
-VhvpFPK = (unsigned short int)(u0xhOx5);
+
 
 try
 {
@@ -430,7 +430,7 @@ catch (int& errorCode)
 {
 QkfmKXE93c = (int)floor(alvdmm);
 }
-vN0Y += 212345155;
+
 try
 {
 
@@ -441,7 +441,7 @@ RhkwyXv = (int)ceil(MIfKpT);
 }
 
 cout << g94Gud << endl;
-dVk85KKa9 = ks2Yqk / xV72_afPV0;
+
 
 {
 int i = 0;
@@ -453,7 +453,7 @@ if ((u0xhOx5) && (qQVs1N >= -1310396845))
 }
 else
 {
-c8AvL = qLqPspp3Mk & MUmnX3nND;
+
 }
 ++i;
 }
@@ -465,7 +465,7 @@ case 0:
 
 break;
 case 1:
-v116J6k_ = XuUF(-285271660, qLqPspp3Mk, pFpCl6KRVw, -1681942942);
+
 break;
 case 2:
 RWld >>= kf_2E3;
@@ -477,7 +477,7 @@ case 4:
 
 break;
 case 5:
-YmxWE_i5pq = nT94() * dj_t_5;
+
 break;
 default:
 MIfKpT = (int)ceil(QkfmKXE93c);

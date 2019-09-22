@@ -388,7 +388,7 @@ case 2:
 rM5z6GM2hy = bOhH ^ 1287141908;
 break;
 case 3:
-bOhH >>= Ja9Q;
+
 break;
 case 4:
 

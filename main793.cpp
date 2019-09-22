@@ -34,7 +34,7 @@ int main(void)
 	unsigned long long	f2btOb6BX3;
 
 	long	YVJ8;
-	YVJ8	=	483337291;
+
   unsigned long long  iW4OCk7_;
   iW4OCk7_  =  1434038758;
     short int    uEve0C11;
@@ -44,7 +44,7 @@ int main(void)
 	unsigned long	OK6x_QN9pj;
 
   unsigned short  Iw6by2d6;
-  Iw6by2d6  =  0;
+
 	unsigned short int	Q_HN6;
 	Q_HN6	=	-184507320;
 	unsigned int	ejO2;
@@ -54,7 +54,7 @@ int main(void)
   double  EN0roJqr;
 
     long long    iIBBl;
-    iIBBl    =    -1415117911;
+
 	unsigned long long	g097x28;
 	g097x28	=	1407961543;
   short int  fbIcf0_;
@@ -66,7 +66,7 @@ int main(void)
  unsigned short int C0q_9;
  C0q_9 = -2095740066;
   long  BqhTJwml1e;
-  BqhTJwml1e  =  1486705063;
+
     short    ljY6Okakz;
     ljY6Okakz    =    904132894;
  int c7_RP;
@@ -118,7 +118,7 @@ do
 ++j;
 if (yp7lm5 <= t2g8)
 {
-jiSY37a90 = (int)abs(ljY6Okakz);
+
 }
 }
 while (j < 4);
@@ -158,7 +158,7 @@ k--;
 }
 }
 
-uEve0C11 = Ug94Z_iOQ(-2139323517, KCP8);
+
 std::cout << eUwP2(-1966335888) / nCG51w7l << std::endl;
 
 BqhTJwml1e = (long)(wvI2b5O91 + (xY38));

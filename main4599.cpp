@@ -47,7 +47,7 @@ int main(int argc, char** argv)
   unsigned long long  KFN_;
   KFN_  =  0;
 	int	Yd044H;
-	Yd044H	=	1439605667;
+
 	long double	J9b9t4Upg;
 
   long double  cwcj05_tqq;
@@ -231,7 +231,7 @@ case 'G':
 break;
 case 'h':
 case 'H':
-J9b9t4Upg = (int)floor(cwcj05_tqq);
+
 break;
 case 'i':
 case 'I':

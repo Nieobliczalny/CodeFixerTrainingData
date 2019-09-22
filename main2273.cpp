@@ -45,7 +45,7 @@ case 1:
 
 break;
 case 2:
-a78Pd1wrtG = L4xcv(a78Pd1wrtG, -364727685, -50256958, -1834125213);
+
 break;
 case 3:
 dP5PQk9 = xRhLvx7OW(a78Pd1wrtG, AG35u, 649913777, K2UbI) & 1145517045;
@@ -71,7 +71,7 @@ break;
 }
 
 l56o %= T1Ra0_d;
-qKsFpP = (unsigned short)(dP5PQk9 * qKsFpP);
+
 cout << "GH08xAfF" << YUw6LG0m << endl;
 
 if (K2UbI == 0)
@@ -82,7 +82,7 @@ if (K2UbI == 0)
 switch (HG23TcS)
 {
 case 0:
-HG23TcS = (int)abs(nd_Fyx);
+
 break;
 case 1:
 YUw6LG0m = xgVc6N_jc(HG23TcS, T1Ra0_d, x_Uhn9A6, l56o);

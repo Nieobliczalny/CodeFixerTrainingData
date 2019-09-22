@@ -80,7 +80,7 @@ int main()
 switch (B1o28FK9p)
 {
 case 0:
-tZOH2A = (int)floor(Z7_r6T);
+
 break;
 case 1:
 p1Lg1h = qLz5B_d(1695721657, bbBziwHn);
@@ -208,7 +208,7 @@ try
 {
 try
 {
-Nqr26JCTd &= a3bb93;
+
 }
 catch (int& errorCode)
 {
@@ -297,7 +297,7 @@ if ((WK1b6dh03p > -1768873198) && ((eQZocS) && (rkylS)))
 
 }
 
-tZOH2A = (float)(j8Cj3kBbJC);
+
 {
 int i = 7;
 while (i >= 0)

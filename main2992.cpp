@@ -236,7 +236,7 @@ g8I2jtY_Qa = O07P2i6L6();
 i--;
 }
 }
-jUclRf4YZ = O07P2i6L6();
+
 
 std::cout << EO91q7 << "tROElfC" << "k4WI4eMK" << "V782vwdN" << std::endl;
 if (Z9UB_7Cr == M6Of)
@@ -253,7 +253,7 @@ Pcn2qH = (int)abs(u4P9_HhcTt);
 for (int i = HJB0c67(); i < 129; i++)
 {
 
-	VBbjtS5 = O07P2i6L6() / i;
+
 jUclRf4YZ = O07P2i6L6();
 }
 

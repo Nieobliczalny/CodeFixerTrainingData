@@ -180,7 +180,7 @@ case 1:
 jabr8a = g_fs(K3EMF3I0, -812504263);
 break;
 case 2:
-qf2_4iygX0 = (gyPhcBy != 893842120) ? g_fs(K3EMF3I0, r8Wi) : -1392894890;
+
 break;
 case 3:
 Cm6d = g_fs(-80402465, YWIIOQl);
@@ -257,7 +257,7 @@ vtUhe4w = (int)floor(kjeE);
 }
 else
 {
-d1Xn_v <<= 1977476487;
+
 }
 }
 else if ((N4zb4JMlXj) || (YWIIOQl == -1804915539))
@@ -492,7 +492,7 @@ else
 {
 f_6VkeY = (long double)(jabr8a + (2143349544));
 }
-icpSUx0q = (int)ceil(f_6VkeY);
+
 
 
 

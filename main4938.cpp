@@ -746,7 +746,7 @@ case 'b':
 LxLS5--;
 break;
 case 'c':
-tiBf = E94bP ^ Lje_mBX;
+
 break;
 case 'd':
 e7w23M = (int)ceil(yApz);
@@ -805,7 +805,7 @@ for (int j = 0; j < 7; j++)
 {
 if (((L6_0l45 >= 1631314531) || (Y233)) || (YdBN5N8 & kF7Kqo))
 {
-p01n4N = (int)abs(e7w23M);
+
 }
 }
 }

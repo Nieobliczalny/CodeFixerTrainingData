@@ -44,7 +44,7 @@ qwUY12a = qwUY12a + 2138350743;
 
 cout << 1339556477 / N0Hq8DD51 << endl;
 
-KU6UyaMa2 = vvp_1M06_(416721757, -229890354, irPeGtl, N0Hq8DD51);
+
 
 return 0;
 }

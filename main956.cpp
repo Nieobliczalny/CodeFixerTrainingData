@@ -189,7 +189,7 @@ else if (M_y3d2 < JEc0g4e89)
 }
 else if ((a804k590 == -467718881) && ((vNq76go != oOhsf) && (o8l0Oyjszw & Sq_3v)))
 {
-nh_k6u77v0 = (unsigned short int)(AgoP);
+
 }
 else if (nh_k6u77v0 > o8l0Oyjszw)
 {
@@ -307,7 +307,7 @@ case 0:
 
 break;
 case 1:
-HTD6 = t4qs1W8 + bx715_;
+
 break;
 case 2:
 a804k590 >>= 669706890;
@@ -322,7 +322,7 @@ case 5:
 
 break;
 case 6:
-oOhsf = (int)floor(p2hluss0K4);
+
 break;
 case 7:
 v2t784r22 = (DwrO5kQm > -43378784) ? -975932673 : -944107137;

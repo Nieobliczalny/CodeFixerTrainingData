@@ -23,7 +23,7 @@ int main()
   long long  q_5J_;
   q_5J_  =  0;
 	short	fp44v;
-	fp44v	=	-31628704;
+
   unsigned int  A41EzU81Ar;
   A41EzU81Ar  =  3255073;
 	unsigned long	iO5P4;
@@ -464,7 +464,7 @@ rqv_8n_ <<= 760765597;
 }
 }
 
-u0p55 = fmRfn();
+
 {
 int i = 4;
 do

@@ -442,7 +442,7 @@ case 'b':
 F_FN55uCS++;
 break;
 case 'c':
-F_FN55uCS >>= 329436954;
+
 break;
 case 'd':
 Kqyk1Ht |= 1932177278;
@@ -457,7 +457,7 @@ case 'g':
 F_FN55uCS--;
 break;
 case 'h':
-SvBpPsa = Lz87oks2I2(-1036590896, SvBpPsa);
+
 break;
 case 'i':
 

@@ -154,7 +154,7 @@ case 4:
 bz0k = dHBUDrQAD | 1604760544;
 break;
 case 5:
-J2UWn7i4 = E7Zw * 1599366371;
+
 break;
 }
 }
@@ -474,7 +474,7 @@ case 'a':
 
 break;
 case 'b':
-LqzjQS_2 = c8D585();
+
 break;
 case 'c':
 r9hQ_73t4 = c8D585();

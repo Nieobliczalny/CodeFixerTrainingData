@@ -22,7 +22,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-MJVFXbHsCM %= M4mwlJdg;
+
 break;
 case 'c':
 case 'C':
@@ -84,7 +84,7 @@ case 3:
 break;
 }
 
-Hibe = xd9N1ZNDG(NksmDc, f7C3U0EqcN, buWMLdp8fJ, -1775810318, 2100370880);
+
 
 std::cout << xd9N1ZNDG(NksmDc, -1141495299, buWMLdp8fJ, 556290901, -909718853) << D_Nof5o3V << xd9N1ZNDG(NksmDc, -2015927230, buWMLdp8fJ, 1814469055, 397028545) << dzY4_wV_ << vYmm_fZxq << std::endl;
 
@@ -109,7 +109,7 @@ if ((-693072115 / Volg9jEV8r) == 591145400)
 {
 cA6sh5_1 = (M_IA & -1310025577) ? 1080809703 : tW7ZI_;
 }
-Volg9jEV8r = xd9N1ZNDG(MeO0, 126159015, -1881090617, 1196809614, O845);
+
 
 Hibe = xd9N1ZNDG(Ypo5NRD, y0QOYu4U, H3__K77Vz9, 1911841166, z59W);
 
@@ -148,7 +148,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-Volg9jEV8r = xd9N1ZNDG(Xi8rN, t4Bo34mkdj, -1689729305, Y_WYmV5q1V, -1927309727);
+
 break;
 case 'c':
 case 'C':
@@ -183,7 +183,7 @@ switch (y0QOYu4U)
 {
 case 'a':
 case 'A':
-p_c45s -= 1045794810;
+
 break;
 case 'b':
 case 'B':
@@ -194,7 +194,7 @@ case 'C':
 q5bbncFVT = xd9N1ZNDG(oCPUi7MOF, G34_DO8vXb, -669616540, ETSxaku7y, -1966920876);
 break;
 default:
-p_c45s += nB8uRa_;
+
 break;
 }
 std::cout << "o_47z3" << BtrKGaVbV << "FdHO1c_RQ_" << "uVCPAzD8" << cA6sh5_1 << std::endl;
@@ -208,7 +208,7 @@ case 0:
 
 break;
 case 1:
-q5bbncFVT = xd9N1ZNDG(D_Nof5o3V, TIc9ci5V, 1544399564, gmQGP, MeO0);
+
 break;
 case 2:
 Volg9jEV8r = xd9N1ZNDG(-65919286, -2145730673, VdWx12vE, -296778541, -565969386);
@@ -220,7 +220,7 @@ case 4:
 
 break;
 case 5:
-f7i_C468gF = cry7H6pLh << vYmm_fZxq;
+
 break;
 case 6:
 f7C3U0EqcN <<= td28V4I0a;
@@ -244,7 +244,7 @@ for (int i = 0; i < 1; ++i)
 {
 
 }
-y6ORxt = (unsigned int)(VdWx12vE);
+
 for (int i = 0; i < 2; i++)
 {
 if (x2Kr6d0 != -600552314)

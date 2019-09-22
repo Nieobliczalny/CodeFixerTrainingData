@@ -77,7 +77,7 @@ for (int j = 2; j >= 0; j--)
 {
 for (int k = 0; k < 1; ++k)
 {
-M66ehs = (int)ceil(vy01);
+
 }
 }
 }
@@ -119,7 +119,7 @@ if (YH450v6 == 2091125478)
 {
 if ((jr029DpN_ == 271709156) || (TPk5k_N))
 {
-D6QK82W = fzASA1(1091875040, D6QK82W, ZXWGpKd0, 1278462706, m0k8);
+
 }
 }
 
@@ -136,7 +136,7 @@ if (xoHt_J2fs != m0k8)
 }
 else
 {
-kG4XdFN = Z_C9 - 1969439003;
+
 }
 }
 else if ((vy01 != ZXWGpKd0) && (j50Q))

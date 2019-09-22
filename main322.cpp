@@ -22,7 +22,7 @@ int main(int argc, char** argv) {
  long gEVM9LEo;
 
   unsigned short  sImCkDs;
-  sImCkDs  =  -2018569957;
+
     unsigned char    U1be;
     U1be    =    1249196564;
 	unsigned int	vwS8G467_b;
@@ -52,7 +52,7 @@ int main(int argc, char** argv) {
 	long	LWxSyqj085;
 	LWxSyqj085	=	783596910;
 	unsigned long	Q9_E4ccm7;
-	Q9_E4ccm7	=	70873727;
+
 	char	vbT5M;
 	vbT5M	=	-1212217912;
   short int  GhLQaz;
@@ -72,7 +72,7 @@ int main(int argc, char** argv) {
  char FUI2Nef;
  FUI2Nef = -981637842;
  long long rfcX;
- rfcX = -1581042509;
+
     long double    wnQ_qHV;
 
  short iCE2x9roW;
@@ -88,7 +88,7 @@ int main(int argc, char** argv) {
     short    a86HONc3;
     a86HONc3    =    -789227545;
   unsigned long long  vWwPd2Z6;
-  vWwPd2Z6  =  1298965655;
+
   unsigned long  S1xb3YM2WJ;
   S1xb3YM2WJ  =  1453033993;
   char  E_bO8;
@@ -121,7 +121,7 @@ RO82ZvLN = M9_U(RO82ZvLN, 998676404, lH09V8f2, LWxSyqj085, -1672150308);
 break;
 case 'f':
 case 'F':
-O4o_JGUO |= 716959755;
+
 break;
 case 'g':
 case 'G':
@@ -169,7 +169,7 @@ case 2:
 UKTlV_ = hc_ftO(UKTlV_, Kt_1LOz, 1706879299);
 break;
 case 3:
-Zx9E = (int)floor(peNhc);
+
 break;
 case 4:
 RUiv8 = (int)abs(GhLQaz);
@@ -231,7 +231,7 @@ a86HONc3 = (int)abs(GhLQaz);
 
 
 
-DIB8DUD0m = WlvkE / a8v6ZE0ax;
+
 if (LWxSyqj085 & -1413152481)
 {
 GhLQaz = hc_ftO(918648441, peNhc, -713553720);

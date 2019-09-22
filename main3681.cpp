@@ -140,7 +140,7 @@ cjiZ24u1 &= 466235069;
 }
 else
 {
-wLT8 = (long long)(UCEOFHJB);
+
 }
 }
 

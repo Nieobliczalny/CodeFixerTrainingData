@@ -310,7 +310,7 @@ case 0:
 wLuu7K9K1B += x83A;
 break;
 case 1:
-RfIBH <<= 342248369;
+
 break;
 case 2:
 i463 += 1459552253;
@@ -322,7 +322,7 @@ case 4:
 Nf_gS = snHS2Qsp24 << 1476318676;
 break;
 case 5:
-N57kPM <<= 1907820158;
+
 break;
 case 6:
 N57kPM = Yr9b1_F % 1540944644;
@@ -467,7 +467,7 @@ case 'G':
 break;
 case 'h':
 case 'H':
-fdhQ0X = (int)abs(x83A);
+
 break;
 case 'i':
 case 'I':

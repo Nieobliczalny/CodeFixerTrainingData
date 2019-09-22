@@ -94,7 +94,7 @@ int main() {
   short  hB5sC0y;
   hB5sC0y  =  -1693958438;
 	unsigned short	BC195wnS_w;
-	BC195wnS_w	=	-1480892019;
+
  unsigned char WnZ4;
  WnZ4 = 303294911;
 	float	Uny80q6bkJ;
@@ -112,7 +112,7 @@ int main() {
     unsigned short int    yi1_W;
     yi1_W    =    448845375;
  int iB1AcFdW;
- iB1AcFdW = 1553572202;
+
 	long double	IBY564pdoW;
 	IBY564pdoW	=	-806620082;
 	int	J7P8J;
@@ -128,7 +128,7 @@ int main() {
  short l3Q6t3KuH;
  l3Q6t3KuH = -818561831;
     float    X9R21iUI;
-    X9R21iUI    =    -204656191;
+
 	double	gvj98_9hZ2;
 	gvj98_9hZ2	=	116722406;
  double x9mK;
@@ -150,7 +150,7 @@ int main() {
 	short int	jG3ta;
 	jG3ta	=	202645562;
 	long long	Y988GaaT63;
-	Y988GaaT63	=	0;
+
 	short	Fjgc97VU;
 	Fjgc97VU	=	-1876790015;
 	float	cH5tc3gL4V;
@@ -211,7 +211,7 @@ yi1_W &= nczR1E_D;
 }
 else if (WvCye67j < -996183829)
 {
-kZ9iB <<= Y0u4MM7_e;
+
 }
 else if (gV__ != wm0f1dUG)
 {
@@ -238,7 +238,7 @@ if (EfmUN74B3 != -2045620647)
 }
 else if ((WnZ4 & 366681650) && ((Xz7p != x9mK) || (jG3ta >= BB1z0g8yg)))
 {
-lUD37YG6 = (int)floor(YcSo6);
+
 }
 else if ((YcSo6 < IBY564pdoW) || (U_HA_ & 1814617691))
 {
@@ -265,7 +265,7 @@ else if (td_v0uQ1_r)
 {
 try
 {
-BgG433z = WbGBP62bs ^ 546150437;
+
 }
 catch (int& errorCode)
 {
@@ -327,7 +327,7 @@ switch (nczR1E_D)
 {
 case 'a':
 case 'A':
-BgG433z = (int)ceil(j9j3tZEL6);
+
 break;
 case 'b':
 case 'B':
@@ -359,7 +359,7 @@ if (Xb_hFh9y < Uny80q6bkJ)
 }
 else if (MrjKGuY2 != 1470477481)
 {
-IBY564pdoW = (int)abs(tKL_m_DuS);
+
 }
 else if (dFw_5YU)
 {
@@ -375,7 +375,7 @@ else if (((WnZ4 == -1326664303) && (SEQNt >= ADaxz)) || (FOq7eJ2Qa == 2089016723
 }
 else
 {
-X9R21iUI = (int)floor(tKL_m_DuS);
+
 }
 }
 else if ((vs3sR & 1796955544) && (vs3sR))
@@ -390,7 +390,7 @@ m6hvXN5qlq--;
 }
 else if (((YcSo6 < -1209211838) && (au6B2)) || (Y0u4MM7_e == -1845749744))
 {
-YcSo6 = (int)abs(pkYI);
+
 }
 else if (DF1p98w > -776860322)
 {
@@ -402,7 +402,7 @@ Fjgc97VU = (int)abs(Ff372JAW);
 }
 else
 {
-Ff372JAW = yi1_W % 207159709;
+
 }
 }
 else
@@ -464,7 +464,7 @@ case 'a':
 
 break;
 case 'b':
-C_4J += Y0u4MM7_e;
+
 break;
 case 'c':
 c9H0HL247V = jI8Djf / Uny80q6bkJ;
@@ -476,7 +476,7 @@ case 'e':
 
 break;
 case 'f':
-l3Q6t3KuH /= T0si_4;
+
 break;
 case 'g':
 jI8Djf |= foXn;

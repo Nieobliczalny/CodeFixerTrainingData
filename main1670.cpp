@@ -52,7 +52,7 @@ int main(int argc, char** argv)
  long double e90_;
  e90_ = 1167251408;
     short    G655zYa;
-    G655zYa    =    1546640962;
+
     unsigned long long    UDlEea3r0t;
     UDlEea3r0t    =    -108909572;
 	unsigned int	S2K393Mz9;
@@ -78,7 +78,7 @@ int main(int argc, char** argv)
 	float	q500U;
 
 	long long	GBv_6Yv;
-	GBv_6Yv	=	1592666171;
+
   long  h0815Lz5;
   h0815Lz5  =  -1925314568;
     char    n1csuvb;
@@ -506,7 +506,7 @@ Wi2O = (int)abs(o04y);
 }
 
 
-G655zYa = (int)abs(Ftr7H9p);
+
 return 0;
 }
 

@@ -30,7 +30,7 @@ int main(int argc, char** argv)
 {
   unsigned int  xf0Tz2,  fS2vx4Te9t,  D9Hr_R6A,  YJrQzQi,  Pb0SxRZB2T;
 
-  fS2vx4Te9t  =  0;
+
   D9Hr_R6A  =  0;
   YJrQzQi  =  0;
   Pb0SxRZB2T  =  0;
@@ -40,7 +40,7 @@ int main(int argc, char** argv)
   XPU69N8Ad  =  -1684592923;
   Hk9quS  =  -870098648;
 
-  B_BSAcP4  =  2045676481;
+
   Rcs43oFjbk  =  -1443982513;
   wfO41ChvJ  =  -1322486502;
   NrEHB  =  -822118211;
@@ -50,7 +50,7 @@ int main(int argc, char** argv)
   qaX1zP  =  50776399;
   B9EV8A  =  299617128;
 
-  p03i0CRzc  =  1668213856;
+
   sUi5  =  1623149447;
   DRe_YLsSy  =  -838797314;
   W6_wskh  =  1974126733;
@@ -61,7 +61,7 @@ int main(int argc, char** argv)
   F61UOeL_8  =  -1314673791;
 
   OPnIy  =  -1229359373;
-  C06yZJZg  =  1091992294;
+
   c1e7iue3U  =  -815062245;
   k0Z6  =  -1837844833;
   PjXCCRFop  =  1258043769;
@@ -74,7 +74,7 @@ int main(int argc, char** argv)
   bKy2c8  =  1799953210;
 
   cO6ZX  =  1430759404;
-  I9EH4w  =  230849960;
+
   eop87_v  =  -1246125616;
   oOLE  =  1526102722;
   N7P6  =  1180396035;
@@ -85,7 +85,7 @@ int main(int argc, char** argv)
   YQIXTvo9  =  220446881;
   j2552q_MF5  =  574174446;
 
-  h846  =  -1370919991;
+
   Om2d  =  701844061;
   zxa5G76  =  1710212755;
   haHvxH_KYY  =  1561482032;
@@ -96,7 +96,7 @@ int main(int argc, char** argv)
   JTjkyY  =  -351020208;
   i5Mf  =  -187606778;
 
-  x6w_EL  =  -207407348;
+
   boC91y  =  -1948667377;
   bJ_i  =  29256858;
   tx0WgR7  =  -890201820;
@@ -106,7 +106,7 @@ int main(int argc, char** argv)
   LqaMc4Gaql  =  -1423748991;
   S8xk  =  -1905238088;
 
-  UfH1_MA  =  -2035597740;
+
   dcYpxlQzV8  =  -1714361275;
   Q7DOyy68  =  -1102954580;
   V_0WZ  =  856177190;
@@ -116,7 +116,7 @@ int main(int argc, char** argv)
   tEX9Jg4X0  =  456640025;
   hI5CQ  =  -354811854;
   FD37wEa  =  1756302277;
-  S30auiDG3B  =  -184934312;
+
 
   Yy_dBbJ0t  =  -898554452;
   Qe47pc  =  379697939;
@@ -134,7 +134,7 @@ case 'a':
 
 break;
 case 'b':
-D9Hr_R6A = NRH87677Z3(597324169, DKkG74, i5Mf, bKy2c8, OPnIy);
+
 break;
 case 'c':
 FD37wEa %= 1238886177;
@@ -178,7 +178,7 @@ std::cout << "I57bb8D" << zxa5G76 << "E5_QW7a1iS" << JyKP9Xf << mdl4O6b76 << std
 
 
 
-Qe47pc = (unsigned long)(q5t0ZghC);
+
 
 M3wG7nB9U = (unsigned long)(n9crN7xPe + (390247107));
 

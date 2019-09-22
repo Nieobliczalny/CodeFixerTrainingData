@@ -22,7 +22,7 @@ int main() {
   float  u8VD73,  XHEz,  z7Jj7159Q,  bRyqYI,  kYXm5HDy,  hR2N,  mYurY,  Fy0rf7852,  Q1leG,  DEy_dg,  C7080o_,  k7kmmS8,  EGl8YGa9,  i_X9JBS,  P_Xs7P2C,  G37ZR,  y69_PU,  ImKXIQt1_,  E_6Oj,  q8Cq70PPVW,  AolyG,  wYj_8B,  d8fBU6LP,  sYjP2FN,  gQb3k,  T1Rz7,  PVOPL,  Kpu8W,  L_cR,  jv1dR9s,  TS__TCJ,  qZfo,  g2WbTb0,  i3tY,  mtBSP,  IVWbu,  U0VBT,  UZDr9,  cSr_ftHd,  J1Kk,  coMLC,  I60P0i,  a9hNWq,  ra5FK7Os,  x1S5sB,  Gk_5G,  o6gvl,  lKRG6hq,  i4j_,  B5_SJJQy7,  SQFzZ7NY,  Ody_e,  oGEzMM,  Sz51qKm,  spgB81qN26;
   u8VD73  =  -273151546;
 
-  z7Jj7159Q  =  406050516;
+
   bRyqYI  =  -2088970096;
   kYXm5HDy  =  1504276836;
   hR2N  =  -34301829;
@@ -32,7 +32,7 @@ int main() {
   DEy_dg  =  -766839516;
   C7080o_  =  1452327325;
 
-  EGl8YGa9  =  1520855868;
+
   i_X9JBS  =  -1823680850;
   P_Xs7P2C  =  -675031120;
   G37ZR  =  1075868945;
@@ -43,7 +43,7 @@ int main() {
   AolyG  =  -397479606;
 
   d8fBU6LP  =  -2131787986;
-  sYjP2FN  =  1961534725;
+
   gQb3k  =  1607623047;
   T1Rz7  =  924261611;
   PVOPL  =  1947669508;
@@ -53,7 +53,7 @@ int main() {
   TS__TCJ  =  2008291876;
   qZfo  =  -306090400;
 
-  i3tY  =  123685619;
+
   mtBSP  =  -658986370;
   IVWbu  =  813263953;
   U0VBT  =  1413814809;
@@ -64,7 +64,7 @@ int main() {
   I60P0i  =  846885557;
 
   ra5FK7Os  =  848296753;
-  x1S5sB  =  830054008;
+
   Gk_5G  =  1639724927;
   o6gvl  =  -1132628432;
   lKRG6hq  =  185190911;
@@ -76,7 +76,7 @@ int main() {
   Sz51qKm  =  -2089703363;
   spgB81qN26  =  -110334082;
 	unsigned short int	YN_J3,	Ivpg,	YPDBh2S4c7,	F4_I047,	L5vD5;
-	YN_J3	=	0;
+
 	Ivpg	=	0;
 	YPDBh2S4c7	=	0;
 	F4_I047	=	0;
@@ -86,7 +86,7 @@ ImKXIQt1_ = I60P0i - 1803810931;
 IVWbu = (float)(I60P0i);
 
 
-k7kmmS8 = B5_SJJQy7 / 2131540732;
+
 
 {
 int i = 10;
@@ -121,7 +121,7 @@ case 3:
 C7080o_ *= 1766635607;
 break;
 default:
-a9hNWq = (int)ceil(y69_PU);
+
 break;
 }
 }
@@ -159,7 +159,7 @@ if (((T1Rz7 >= Sz51qKm) || (PVOPL < -1931237313)) && (u8VD73 != -448759644))
 }
 else if (T1Rz7 > hR2N)
 {
-ra5FK7Os *= T1Rz7;
+
 }
 else if (ra5FK7Os <= cyk5)
 {
@@ -172,7 +172,7 @@ else
 }
 else
 {
-u8VD73 = i_NAH_(-1184790948);
+
 }
 }
 else if (L5vD5 & -1452279027)
@@ -185,7 +185,7 @@ XHEz = (int)floor(u8VD73);
 }
 else
 {
-mtBSP = (float)(J1Kk);
+
 }
 
 return 0;

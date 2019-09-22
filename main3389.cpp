@@ -91,7 +91,7 @@ while (j < 3)
 j++;
 if (jqJEh & C_MkSrr)
 {
-qn30jp0p = MSTW - 120469439;
+
 }
 }
 }
@@ -162,7 +162,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-P3wso = (int)abs(r2_k);
+
 break;
 }
 }
@@ -181,7 +181,7 @@ int j = 0;
 do
 {
 ++j;
-f2k0wOJ = (long)(Izr28W);
+
 }
 while (j < 7);
 }
@@ -195,7 +195,7 @@ case 0:
 
 break;
 default:
-Hl12bt48 %= 1456064550;
+
 break;
 }
 }
@@ -271,7 +271,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-JjyXEx_ = DO0vly_4 << 1803488992;
+
 break;
 case 'e':
 case 'E':
@@ -355,7 +355,7 @@ i++;
 while (i < 4);
 }
 
-I1_VZ = ub_QW2 % 969997531;
+
 switch (qL2q29l5)
 {
 case 0:
@@ -368,7 +368,7 @@ case 2:
 
 break;
 case 3:
-MSTW %= YCgcbpf;
+
 break;
 default:
 oCj5IWy++;
@@ -380,7 +380,7 @@ break;
 xqc_--;
 std::cout << tNUX << qA32 << std::endl;
 
-QBZGK = yQF2O6XbpD - 725354003;
+
 for (int i = 5; i >= 0; i--)
 {
 {
@@ -401,7 +401,7 @@ i--;
 
 }
 }
-pvpRtM = (long)(Pt7Xw9t9_);
+
 
 {
 int i = 1;

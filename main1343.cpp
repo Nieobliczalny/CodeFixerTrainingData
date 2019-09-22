@@ -23,7 +23,7 @@ int main(void) {
     E5IiDEjE    =    0;
   long double  r_y_fns8,  us_9w,  DEOaUN,  een00B57,  k6Ql13QJT,  z827MQ,  c48Z,  yDlMan,  a1gPE,  skxA,  hCBnx,  cTT_6,  c72SEjw,  J3xx1PPzU5,  j2sF4v,  do7r,  C26MaUdmz,  nKB_6,  I4AQCz,  K7AmKGeV,  DR4XM3lWi,  N1w5,  A999,  AFL6NYhVG,  BLH1L6T0,  Gbl4,  a_8Y9NUbqw,  l6s1,  h45Gts,  AAR87,  CUDhF3Lh,  Tqg5Ab4C19,  weHI7,  Jv1_q_pgE6,  Yi0N4,  yI43KJ___,  sylP,  hSqMFIa0,  ygr9gEZ,  ee79j5q,  ATpH4uo,  Y8v55Z0O,  enuiiiT5TP,  ejT87tC,  W7Y04M,  SF4e,  c0CwACwl5,  B11l38,  aDiw,  erlV,  a72j4,  Fn6a8,  JbjUsM,  h6A4d7oO,  EV_378iz,  u_jVkx7Xo,  Ek8F6hMq;
 
-  us_9w  =  2143991162;
+
   DEOaUN  =  -588274961;
   een00B57  =  1062242521;
   k6Ql13QJT  =  -1163750531;
@@ -34,7 +34,7 @@ int main(void) {
   skxA  =  431660519;
 
   cTT_6  =  2143517183;
-  c72SEjw  =  1107363162;
+
   J3xx1PPzU5  =  1212703001;
   j2sF4v  =  -248598403;
   do7r  =  743279348;
@@ -44,7 +44,7 @@ int main(void) {
   K7AmKGeV  =  -1625715539;
 
   N1w5  =  -546304702;
-  A999  =  -1962862729;
+
   AFL6NYhVG  =  -107818702;
   BLH1L6T0  =  -1547873054;
   Gbl4  =  -1438129126;
@@ -54,7 +54,7 @@ int main(void) {
   AAR87  =  427025802;
 
   Tqg5Ab4C19  =  1386719211;
-  weHI7  =  -486712502;
+
   Jv1_q_pgE6  =  -781476060;
   Yi0N4  =  384626861;
   yI43KJ___  =  -1116964744;
@@ -64,7 +64,7 @@ int main(void) {
   ee79j5q  =  -114526626;
 
   Y8v55Z0O  =  1337597461;
-  enuiiiT5TP  =  -971647438;
+
   ejT87tC  =  -1858460075;
   W7Y04M  =  279048907;
   SF4e  =  460764337;
@@ -75,7 +75,7 @@ int main(void) {
 
   Fn6a8  =  961564298;
   JbjUsM  =  -1701343025;
-  h6A4d7oO  =  702029937;
+
   EV_378iz  =  932610056;
   u_jVkx7Xo  =  -1645634947;
   Ek8F6hMq  =  -1753588031;
@@ -87,7 +87,7 @@ c72SEjw = JbjUsM / E5IiDEjE;
 hSqMFIa0 += sylP;
 try
 {
-c48Z = (int)abs(c0CwACwl5);
+
 }
 catch (int& errorCode)
 {
@@ -106,7 +106,7 @@ if (((N5no & TkYI0a7_) && (C26MaUdmz <= AFL6NYhVG)) || ((E5IiDEjE & N5no) || (K7
 }
 else
 {
-Jv1_q_pgE6 = aU0tt(150341960, 1842635161, cTT_6, 567192919, 759281754);
+
 }
 j++;
 }
@@ -119,7 +119,7 @@ case 'a':
 
 break;
 case 'b':
-cTT_6 = (do7r) ? do7r : DEOaUN;
+
 break;
 default:
 K7AmKGeV = (N5no > -165344593) ? Ek8F6hMq : 977011227;

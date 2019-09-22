@@ -21,7 +21,7 @@ int main(void) {
   v2G0o00  =  188223869;
   sXC0_5tWQ  =  -1878135662;
 
-  j73yy_OMo  =  1156175654;
+
   KS5vY0U  =  -1432058541;
   lImKoT  =  1127714272;
   C661K0Q  =  -1931524500;
@@ -33,7 +33,7 @@ int main(void) {
   H_5X1  =  -1351980612;
   NCQ5vy51sU  =  1895813812;
   v2O5pNPP  =  -124260093;
-  He_E  =  1895922617;
+
 
   xk3XP  =  -700502089;
   WwrwkN98  =  1705525905;
@@ -48,7 +48,7 @@ int main(void) {
 
   hsRSt1NFdO  =  1888187005;
   gesx6ch3  =  -1485110480;
-  YppI0  =  -2050089524;
+
   OB_hQVTA  =  794256873;
   Q7p8lk3qs  =  1820427692;
   NZGGre_Y9  =  -1444819423;
@@ -61,7 +61,7 @@ int main(void) {
   nFsWR3v30s  =  -2112959867;
   trhi_MMIk5  =  -678368289;
 
-  nTm_q_BT6  =  1348146958;
+
   kvfp  =  939056073;
   ba0L33  =  847863720;
   kcdvkA  =  796577630;
@@ -73,7 +73,7 @@ int main(void) {
   d796u  =  892893382;
 
   ia7J4I3w  =  -264628729;
-  fyO0nRO  =  -1844619844;
+
   lQnzfk  =  515151104;
   Z_8KO1sAs  =  -1092006814;
   T4sW2xVeY  =  328063938;
@@ -94,7 +94,7 @@ case 0:
 kJ31 = WIBbB(LzcpTwAlP3, M6_9qpY) / WwrwkN98;
 break;
 case 1:
-Euq_t317bm = WIBbB(-369050973, 858777392);
+
 break;
 case 2:
 ia7J4I3w &= 211660614;
@@ -106,7 +106,7 @@ case 4:
 
 break;
 case 5:
-Euq_t317bm = WIBbB(bbA__Q1Iuj, 912130299);
+
 break;
 }
 {
@@ -161,7 +161,7 @@ while (i < 5)
 switch (r_bd56S)
 {
 case 'a':
-mOfyXk_ &= sXC0_5tWQ;
+
 break;
 case 'b':
 
@@ -197,7 +197,7 @@ YeOT9rFr = WIBbB(ba0L33, 1427943700);
 break;
 case 'e':
 case 'E':
-Euq_t317bm = WIBbB(1562811143, x9RlXtH);
+
 break;
 default:
 
@@ -219,7 +219,7 @@ if (YeOT9rFr & -868541916)
 }
 else if (nTKywp1Su9 >= -981672870)
 {
-Euq_t317bm = WIBbB(288633382, lImKoT);
+
 }
 else if (nTm_q_BT6)
 {
@@ -246,7 +246,7 @@ else
 }
 else
 {
-r_bd56S = (unsigned char)(KP4N6);
+
 }
 }
 }
@@ -272,7 +272,7 @@ case 0:
 
 break;
 case 1:
-Euq_t317bm = WIBbB(v2O5pNPP, -1957068843);
+
 break;
 case 2:
 YppI0 = M6_9qpY >> 1640023263;
@@ -292,7 +292,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-p1iXA2ml <<= QhAETL;
+
 break;
 case 'c':
 case 'C':
@@ -318,7 +318,7 @@ default:
 
 break;
 }
-ba0L33 = WIBbB(-251671986, -1319206168) / YeOT9rFr;
+
 
 return 0;
 }

@@ -58,7 +58,7 @@ int main(void)
  unsigned long long tiI09N;
 
   short  qmLp97;
-  qmLp97  =  535395006;
+
  unsigned char aeHmsfSY;
  aeHmsfSY = 746222238;
   unsigned int  aTs3c1GM;
@@ -94,7 +94,7 @@ int main(void)
  unsigned short int GrOY2;
 
   unsigned short int  a__Ib;
-  a__Ib  =  694191679;
+
  short fGcjN;
  fGcjN = -260413826;
 	unsigned long	q2Q2;
@@ -146,7 +146,7 @@ int main(void)
 	char	B40FR;
 
  unsigned long long mqg8Udg;
- mqg8Udg = 74875035;
+
  unsigned char MsALa;
  MsALa = 1825980664;
     unsigned short int    CPMn4H;
@@ -168,7 +168,7 @@ int main(void)
  unsigned char i926k;
  i926k = -1492878665;
   unsigned short int  TzK2;
-  TzK2  =  -1843546435;
+
 	unsigned long	y0kXCS;
 
 	long long	oR7_4Bz34;
@@ -422,7 +422,7 @@ cout << EmrBQ0J(aCUb, -1870890853, zSzcv253g, Vsrm, J3pKH) << V9BKv6N9zv << q2Q2
 
 cout << AgBo_ << ASHT8X75B(-612617843, Cof1j3IaAG) << "w6zwI5A7_" << kihc5nK0 << EAKXdAcr56(aCUb) << endl;
 
-aeHmsfSY = (unsigned char)(nQIlbGTxot);
+
 switch (T1Bm9697)
 {
 case 0:
@@ -432,7 +432,7 @@ case 1:
 RkjmYt35vY = sQK2XB(-1728707671, 908946457, 845103449, 1058048251, J3pKH);
 break;
 case 2:
-g8w7FgTWXS = ASHT8X75B(g8w7FgTWXS, TA3NT_8);
+
 break;
 case 3:
 h73_ = (int)abs(I_O6HuSgS6) + (474689135);
@@ -447,7 +447,7 @@ case 6:
 EF38oGQ78 /= 103958434;
 break;
 case 7:
-aTs3c1GM -= xj6Ko79g;
+
 break;
 case 8:
 
@@ -463,7 +463,7 @@ try
 {
 for (int k = 1; k >= 0; --k)
 {
-z47RcK5oR = (int)ceil(sOswliv);
+
 }
 }
 catch (int& errorCode)
@@ -479,7 +479,7 @@ try
 {
 for (int k = 0; k < 9; k++)
 {
-CPMn4H = gTj_(1470361549, -582839555, 2114836513, -145706118, 1404773335);
+
 }
 }
 catch (int& errorCode)
@@ -520,7 +520,7 @@ case 'b':
 oCK4Bhb4 = wdSNyr08 ^ 1162394752;
 break;
 case 'c':
-q2Q2 = EAKXdAcr56(ujmF) | 1647876663;
+
 break;
 case 'd':
 aCUb += 966034473;
@@ -532,7 +532,7 @@ case 'f':
 
 break;
 case 'g':
-EF38oGQ78 = EAKXdAcr56(EF38oGQ78);
+
 break;
 case 'h':
 qmLp97 = EmrBQ0J(1583727695, EF38oGQ78, RkjmYt35vY, -1848863740, K2L0tt);

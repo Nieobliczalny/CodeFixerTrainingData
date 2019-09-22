@@ -138,7 +138,7 @@ else
 
 if ((g97ewkE < J44CCR2ju8) || (hmVpA7I == 541537051))
 {
-hwhpo = DQXiptEN(hwhpo, GBzi03I1);
+
 }
 hI9S = (unsigned long long)(mLb21);
 try
@@ -149,7 +149,7 @@ catch (int& errorCode)
 {
 u97N8lr2x = MMGxq891P & g3Z5hiG;
 }
-hmVpA7I = w00MspmvI();
+
 
 u97N8lr2x = (unsigned short)(oROO_7a2n6);
 switch (hI9S)
@@ -170,7 +170,7 @@ case 4:
 
 break;
 case 5:
-s8rA = DQXiptEN(mLb21, MMGxq891P);
+
 break;
 case 6:
 mLb21 = DQXiptEN(mLb21, 1791415224) + wrgfk;

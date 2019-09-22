@@ -34,7 +34,7 @@ int main(int argc, char** argv) {
 	unsigned char	GP68o;
 	GP68o	=	249599294;
     long double    cnVOq6jv8;
-    cnVOq6jv8    =    -1424713205;
+
 	float	jEfG1;
 	jEfG1	=	-1171469607;
 	double	C1yF;
@@ -46,7 +46,7 @@ int main(int argc, char** argv) {
   short  NE3pim;
   NE3pim  =  2134410731;
 	double	L9Q5217lU2;
-	L9Q5217lU2	=	581988056;
+
   int  WwQdP7b;
   WwQdP7b  =  507623035;
 	unsigned long long	uWeZ7o6V;
@@ -76,7 +76,7 @@ int main(int argc, char** argv) {
  unsigned long dZ1LlcC0Y;
  dZ1LlcC0Y = 558204301;
  int MYtf63e4A9;
- MYtf63e4A9 = 1344695905;
+
     char    RiqJ;
     RiqJ    =    492939075;
     short int    H6i_;
@@ -104,7 +104,7 @@ int main(int argc, char** argv) {
  unsigned char KDmxs7bz;
 
   unsigned long  Uzf9G;
-  Uzf9G  =  1773175904;
+
  short uc4mc89406;
  uc4mc89406 = 206275419;
  long double kILhT__;
@@ -134,7 +134,7 @@ int main(int argc, char** argv) {
     unsigned int    P0660v9;
     P0660v9    =    -322501461;
   float  ipq_ySRD;
-  ipq_ySRD  =  -237762103;
+
     unsigned char    KBqa4Rm;
     KBqa4Rm    =    -543249466;
   long long  l3tqdejR8;
@@ -174,7 +174,7 @@ case 2:
 j1v66_r = (int)abs(H6i_) * 0;
 break;
 case 3:
-MYtf63e4A9 = (int)abs(H86s);
+
 break;
 case 4:
 f917 = (int)ceil(bH9ZO);
@@ -211,7 +211,7 @@ do
 int j = 7;
 while (j >= 0)
 {
-MYtf63e4A9 = mqQ08AE3D_() << RhAYjhLre;
+
 --j;
 }
 }
@@ -390,7 +390,7 @@ case 2:
 HvhiYL192++;
 break;
 default:
-nRlxss = i85fl2();
+
 break;
 }
 }
@@ -427,7 +427,7 @@ case 'f':
 
 break;
 case 'g':
-O6e6Zvu = LsKw();
+
 break;
 default:
 J1gWr_D >>= GP68o;
@@ -541,7 +541,7 @@ if ((bxhQn7a__R > ar3P6T) || (EKMV_2fu))
 }
 else if ((KDmxs7bz != b5j5H) && ((OxWo7H) && (k5_5WM9 > b5j5H)))
 {
-OLZM74Bewy = mqQ08AE3D_();
+
 }
 else if (f7Ck < 432205359)
 {
@@ -569,7 +569,7 @@ else if (uN3vz4 <= -535973766)
 switch (RMph)
 {
 case 'a':
-GP68o -= 2066580332;
+
 break;
 case 'b':
 
@@ -581,7 +581,7 @@ case 'd':
 uWeZ7o6V = mqQ08AE3D_();
 break;
 case 'e':
-jEfG1 = OxWo7H & scI9OaN_5;
+
 break;
 case 'f':
 ipq_ySRD = (int)ceil(bH9ZO);
@@ -593,7 +593,7 @@ case 'h':
 P0660v9 = b5j5H - 1221271277;
 break;
 case 'i':
-NE3pim %= 533509440;
+
 break;
 case 'j':
 p7RnE4Lt = LsKw();
@@ -636,7 +636,7 @@ if (KR_B5cc_1 <= uN3vz4)
 }
 else if ((j3865WY <= bH9ZO) || (bxhQn7a__R & b5j5H))
 {
-cnVOq6jv8 = (long double)(q104Rds2);
+
 }
 else
 {
@@ -648,7 +648,7 @@ H86s = mqQ08AE3D_();
 }
 else
 {
-xw8_lDa_D = (int)floor(Ptao7OHDv);
+
 }
 
 

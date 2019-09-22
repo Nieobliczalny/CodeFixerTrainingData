@@ -27,7 +27,7 @@ int main(void) {
     rAfC    =    0;
     S_WN1KSxr    =    0;
     unsigned char    SsA0187,    iDN1278EX,    v08L,    yv1Dj_kD6,    m5_64p364I,    C12223aBO,    q_B7f,    wx093_h6e,    jsd4NrdmO,    x682_50,    XoH7XzA8CT,    PD475L,    YGdooBbYq,    qggKqT61xz,    pi9c6Dj,    b3K8,    y06_0u_dCR,    z993PYf,    TypQ_IE,    B5LKE,    bXJ_P_wj,    Tg7nTTk89F,    M059J9RvQg;
-    SsA0187    =    -1953146678;
+
     iDN1278EX    =    2130210810;
     v08L    =    1439905847;
     yv1Dj_kD6    =    -1439846122;
@@ -518,7 +518,7 @@ case 6:
 
 break;
 case 7:
-TypQ_IE = qggKqT61xz << b3K8;
+
 break;
 default:
 bXJ_P_wj &= yv1Dj_kD6;

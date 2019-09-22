@@ -231,7 +231,7 @@ wmQU = (int)floor(EorBnYym);
 }
 
 wmQU = (int)ceil(vdsvz2jwQ);
-iRZOrs57 = (int)floor(wmQU);
+
 cout << x8HR5HSf4 / kS9AX9 << endl;
 
 switch (lUO7e1S)
@@ -243,7 +243,7 @@ case 1:
 
 break;
 case 2:
-gU0Y_ >>= k9ffdr_4;
+
 break;
 default:
 GXCoGTn__ = vNGZtY2s(-1887690543, -1830326699);
@@ -264,7 +264,7 @@ case 'c':
 
 break;
 case 'd':
-OCIa2Aij = pl7tr1M2pI(OCIa2Aij);
+
 break;
 case 'e':
 Q1v6 = vNGZtY2s(2109496927, -728304926);

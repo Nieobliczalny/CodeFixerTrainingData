@@ -577,7 +577,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-B0NKk = (int)ceil(ebBRC1o);
+
 break;
 }
 }
@@ -607,7 +607,7 @@ if (zutRo0w_ > -1182410068)
 
 }
 
-j3PFo5hyt ^= LmG4TY0;
+
 std::cout << U63gFMp(vJ47U_0, 272459735) << std::endl;
 
 return 0;

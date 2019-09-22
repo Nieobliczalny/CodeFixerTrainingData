@@ -260,7 +260,7 @@ case 3:
 VG4kYBcp01 = fq7f8XR87(VG4kYBcp01, L63rD);
 break;
 case 4:
-O7smjpTb9 = fq7f8XR87(1946767044, 1859799727) + XM8E;
+
 break;
 case 5:
 
@@ -333,7 +333,7 @@ while (k < 10)
 }
 else
 {
-gZiiR929 = (int)abs(wIuy01y);
+
 }
 }
 

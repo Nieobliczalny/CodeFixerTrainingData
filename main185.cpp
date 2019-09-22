@@ -296,7 +296,7 @@ case 3:
 wrbgIN2 = Fjqz();
 break;
 default:
-Fi96413TE = EK4k(418887220, -34483154);
+
 break;
 }
 

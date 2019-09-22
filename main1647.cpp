@@ -25,7 +25,7 @@ int main(void)
  long double VVcs0ORjUk;
 
   unsigned long  rdvtEl6;
-  rdvtEl6  =  1063300344;
+
   short int  oBan5sQyDx;
   oBan5sQyDx  =  -1545911805;
   unsigned long long  SHM99A_2GD;
@@ -35,7 +35,7 @@ int main(void)
     int    z3ry1;
 
     unsigned long long    BPq1;
-    BPq1    =    728464584;
+
 	double	rSm6A;
 	rSm6A	=	1395937633;
 	long	uMf_7N;
@@ -75,7 +75,7 @@ int main(void)
   unsigned int  hfGQsi;
   hfGQsi  =  2022083169;
  int mFv_TwQUh;
- mFv_TwQUh = -799278005;
+
 	long	F306F5f7BV;
 	F306F5f7BV	=	-1981896077;
  unsigned char MW3aP73;
@@ -224,7 +224,7 @@ for (int k = 2; k >= 0; k--)
 ++i;
 }
 }
-MW3aP73 = Z3eBz8pGk / D3B1;
+
 return 0;
 }
 

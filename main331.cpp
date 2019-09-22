@@ -72,7 +72,7 @@ int main(void)
   double  LGh_21S;
   LGh_21S  =  -1538275987;
 	int	vEl52wxDXC;
-	vEl52wxDXC	=	1388910915;
+
     long long    lDUTwm20H;
     lDUTwm20H    =    -2027389829;
  long double KHPVY;
@@ -86,7 +86,7 @@ int main(void)
   int  mfq6;
   mfq6  =  -1004705815;
   unsigned short int  SMX2aZ;
-  SMX2aZ  =  -1737749166;
+
     unsigned int    Qahbp8e__y;
     Qahbp8e__y    =    -930011705;
 	unsigned int	qvzLAB5;
@@ -118,7 +118,7 @@ int main(void)
  char TwVL_O92;
  TwVL_O92 = -1654809623;
  unsigned short doWk7Ab;
- doWk7Ab = 1565550237;
+
   long  JtWw5Btcu6;
   JtWw5Btcu6  =  -456925082;
 	int	gqsqu9xQ;
@@ -160,7 +160,7 @@ int main(void)
   long long  j5jN0_;
   j5jN0_  =  -1744508989;
 	int	fOPJd;
-	fOPJd	=	1335984989;
+
  char zXSN;
  zXSN = 421212328;
     double    O6i48E;
@@ -196,7 +196,7 @@ I7wz2cB = onL0911roU(-874367179, XgKA4tht66, gqsqu9xQ, 1529786126);
 }
 else
 {
-KHPVY = (int)floor(xw1p9);
+
 }
 }
 else if (jfldT3 < -1323329575)
@@ -220,7 +220,7 @@ case 2:
 
 break;
 case 3:
-d21RF = d_6GB3();
+
 break;
 case 4:
 j5jN0_ = v01_661Qz();
@@ -374,7 +374,7 @@ case 0:
 
 break;
 case 1:
-doWk7Ab = d_6GB3();
+
 break;
 }
 }
@@ -396,7 +396,7 @@ case 1:
 
 break;
 case 2:
-xDz4ye_3 ^= 1236122613;
+
 break;
 case 3:
 smULfL57q %= VmBIrO;
@@ -424,7 +424,7 @@ else if (XLY9j <= -1955868672)
 {
 if (smULfL57q > TwVL_O92)
 {
-O6i48E = XV_48VL8p >> 911218412;
+
 }
 else
 {
@@ -435,7 +435,7 @@ else if ((xDq8 >= nz0oOwU) || (wV98u1I <= -202047921))
 {
 if (((pLW57 > -1947861840) || (j1H8L75vg >= XLY9j)) || (ZA1339d > LR6_y19))
 {
-n88cD = (int)floor(kd37ER_8);
+
 }
 }
 else if (n88cD != vM706gjlI)
@@ -467,7 +467,7 @@ case 'b':
 
 break;
 case 'c':
-Kxy6txk = W5mCbN78x(Kxy6txk, ihidNGkt, Da4wr);
+
 break;
 case 'd':
 KHPVY = (int)floor(C8U1q8);
@@ -479,7 +479,7 @@ case 'f':
 
 break;
 default:
-bBv721 = asCh8_Mo % 1781676182;
+
 break;
 }
 }
@@ -495,7 +495,7 @@ case 1:
 NYUg_88 = Kxy6txk / wV98u1I;
 break;
 case 2:
-C8U1q8 = (int)floor(xDq8);
+
 break;
 case 3:
 xw1p9 = bBv721 ^ 1498942020;
@@ -510,7 +510,7 @@ case 6:
 
 break;
 case 7:
-j_Fhsb90Zp = (int)abs(Lifq_);
+
 break;
 case 8:
 XLY9j = TwVL_O92 | 1285100803;
@@ -573,7 +573,7 @@ BdDR4a = d_6GB3();
 }
 
 
-cbP696N = 317082370 / I7wz2cB;
+
 C8U1q8 = (int)abs(te7twR8Z);
 return 0;
 }

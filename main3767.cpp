@@ -68,7 +68,7 @@ R1Wx08 = (int)abs(bak22u8c);
 }
 else
 {
-SGba *= k7M5_;
+
 }
 
 switch (M2dRWV9E)

@@ -111,7 +111,7 @@ std::cout << oC7jY << "gz791j" << "Hu1ybIRsR9" << lrcU << "i6618c" << std::endl;
 switch (r61i9STYuL)
 {
 case 'a':
-ywqux5 = fkLNp(ywqux5, lrcU, A0_S, wby1GYf7aZ, Gm91saFq3h);
+
 break;
 default:
 

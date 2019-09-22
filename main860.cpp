@@ -632,7 +632,7 @@ int j = 2;
 do
 {
 --j;
-a6Da = (char)(XX2LOToD);
+
 }
 while (j >= 0);
 }

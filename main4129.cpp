@@ -17,7 +17,7 @@ int main()
     long long    kY_B    =    0,    gu4uhI4Q    =    0;
     unsigned short    MDMh    =    -1882161665,    p4th87W    =    2051414329,    E_ghxJ9dD    =    -1782820998,    OgLGH    =    356990420,    Yx22Ao    =    2101901031,    ry6YlS04J4    =    317235393,    bA_vwqx    =    203162208,    IKRCYZVXw    =    -922407099,    h8w_u4ex    =    3344891,    n_d0    =    2043264909,    tre92j    =    218059784,    Bdd72rN    =    1440505968,    tBdsa    =    -1899842532,    b_ZZX8    =    945206189,    h7CE1dgyh5    =    1274606178,    zV9VQ4r6L    =    1224272825,    t1xUKGJO_    =    1462391697,    hqut50O    =    191713022,    C_XK    =    93243969,    u5j7yvVMJX    =    -704804023,    h259    =    468070961,    LLvu7w6Em0    =    271498765,    neI_F5546    =    188368224,    kS0loiqA6    =    347038826,    jH40407T    =    1531188866;
 
-tBdsa = zwlcR_3Zv() / kY_B;
+
 
 switch (hqut50O)
 {
@@ -262,7 +262,7 @@ int i = 8;
 do
 {
 i--;
-hqut50O = (unsigned short)(OgLGH);
+
 }
 while (i >= 0);
 }
@@ -320,7 +320,7 @@ case 5:
 
 break;
 default:
-h259 = neI_F5546 % 27621017;
+
 break;
 }
 }

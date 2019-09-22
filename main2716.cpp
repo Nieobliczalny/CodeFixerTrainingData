@@ -172,7 +172,7 @@ int main(void) {
 	unsigned long long	HWMXci9;
 	HWMXci9	=	-1450423911;
   long long  yNyCv;
-  yNyCv  =  1318509763;
+
     int    r135E;
     r135E    =    1441027634;
     char    mNE8bhLfA;
@@ -274,7 +274,7 @@ e8897gSoI2 = (int)abs(UyHfr);
 }
 else if (gP2i5 < 258542948)
 {
-a2t_ = Mn66h8em8(1106859769, 80375483, xFWJ8sD0, -1379941196);
+
 }
 else if ((HWMXci9 >= nwX19JMPG) && ((U4_7pOqG8 != 1229036469) || (nz5QNige < NnFq)))
 {
@@ -548,7 +548,7 @@ TkOE5PNpv = (int)ceil(tC7ROz);
 }
 else
 {
-YG1u7HZ = q3q0f1 ^ 1842068006;
+
 }
 }
 else
@@ -571,7 +571,7 @@ Fuob69gp = (v229n0 & NnFq) ? T9S3(-2021474959, de27Md4TD, 1957157566) : V_01i;
 }
 }
 }
-J5N7lVM = (unsigned char)(nwX19JMPG);
+
 
 {
 int i = 0;
@@ -670,7 +670,7 @@ gJ0Uq = (int)abs(tqmcC5G);
 switch (nz5QNige)
 {
 case 0:
-s_l9w1M >>= Ho93N;
+
 break;
 case 1:
 Q4LE_z28_ = (int)abs(V7At);
@@ -682,7 +682,7 @@ case 3:
 WueVh6Y = (int)ceil(SVByfqS3x);
 break;
 case 4:
-P0NO_ = T9S3(1616723760, XWJGiDpUy, e8897gSoI2);
+
 break;
 case 5:
 qYzO06yDg = R8jt ^ 1714272638;
@@ -692,7 +692,7 @@ default:
 break;
 }
 
-DMvR9XuB = U4_7pOqG8 / cVu33176;
+
 std::cout << "l_TAMD8" << pXRsV << std::endl;
 if ((K2cj <= q3q0f1) && (z3Vt32gRC >= -1440450324))
 {
@@ -713,7 +713,7 @@ case 3:
 TkOE5PNpv = (int)ceil(jN5l);
 break;
 case 4:
-s8_Df7BR = (int)ceil(koNEvkue0B);
+
 break;
 case 5:
 
@@ -773,7 +773,7 @@ else if (r135E != m330Obk)
 }
 else if (MPbk != -1932494061)
 {
-V_01i = pmE6j * ve_Wzki;
+
 }
 else if (q96VFQdul >= j6ir3g9)
 {
@@ -816,7 +816,7 @@ c75uH1 = (int)ceil(QN13iZMWj);
 break;
 case 'c':
 case 'C':
-V_01i = (q96VFQdul & HWMXci9) ? T9S3(aEXq956, -1789659295, Fqs9t3) : -93468619;
+
 break;
 default:
 
@@ -855,7 +855,7 @@ Hd1bk9kr ^= q3q0f1;
 
 
 
-tC7ROz = (int)floor(gJ0Uq);
+
 
 try
 {
@@ -881,7 +881,7 @@ case 0:
 
 break;
 case 1:
-tC7ROz = Mn66h8em8(379394758, TkOE5PNpv, Fuob69gp, c75uH1);
+
 break;
 case 2:
 P0NO_ = T9S3(aEXq956, gJ0Uq, -655017574);
@@ -894,7 +894,7 @@ case 4:
 break;
 }
 
-Scpc3q = (unsigned long long)(NnFq + (pmE6j));
+
 
 tqmcC5G = (char)(pmE6j);
 return 0;

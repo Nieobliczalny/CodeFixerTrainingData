@@ -36,7 +36,7 @@ int main() {
     Tg8PD24zzQ    =    -1604528210;
 
     FN_yzzv    =    -486073608;
-    y8hY    =    1507236044;
+
     V8ArCH    =    507021992;
     h0CP    =    -1228319042;
     k58CmP    =    1878623432;
@@ -61,7 +61,7 @@ int main() {
     nWPG427zV    =    509832384;
     x9qy    =    986485477;
 
-    X77YrN    =    1313357107;
+
     J_QM7    =    -1826159604;
     WpziZ    =    -2049999306;
     Z95ct6    =    -180518280;
@@ -157,7 +157,7 @@ pB7_4hmY = eeEWTKba_(pB7_4hmY, 1614781019);
 
 for (int i = 5; i >= 0; --i)
 {
-ozC8 = (char)(k2u4y47j);
+
 }
 std::cout << "PZ5jm" << V012u_93X << std::endl;
 try
@@ -237,7 +237,7 @@ else if ((o854XWH2OM <= 985789638) || (o854XWH2OM))
 {
 if (V8ArCH)
 {
-SC7xq3Z |= 535641812;
+
 }
 else
 {
@@ -266,7 +266,7 @@ else
 {
 
 }
-k58CmP = E8zJD4(1769488436, Nc_uk8, 1701273293, FN_yzzv);
+
 
 Z95ct6 = E8zJD4(Z95ct6, 1122732118, -555058236, AiYmFtD5);
 
@@ -329,7 +329,7 @@ std::cout << Z95ct6 << "TAktx" << std::endl;
 
 try
 {
-r40xQYX15l = (char)(nWPG427zV);
+
 }
 catch (int& errorCode)
 {

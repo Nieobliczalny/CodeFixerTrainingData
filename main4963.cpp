@@ -197,7 +197,7 @@ break;
 k6TKT956BM++;
 ttUS = (int)abs(Qr9U4_);
 
-A1KeD_L = Ji_AtO(AP24);
+
 switch (j9jM)
 {
 case 0:
@@ -347,7 +347,7 @@ case 1:
 
 break;
 case 2:
-A1KeD_L = (int)abs(j9jM);
+
 break;
 }
 }
@@ -362,7 +362,7 @@ case 'b':
 mHt8kjVUz = oY9xp(mHt8kjVUz);
 break;
 case 'c':
-ERx56 = oY9xp(mHt8kjVUz) & j84_69b8Fv;
+
 break;
 case 'd':
 ttUS = (int)abs(Qr9U4_);
@@ -374,7 +374,7 @@ case 'f':
 
 break;
 case 'g':
-N5Wc = (int)abs(j9jM);
+
 break;
 case 'h':
 q8Sn3YCY2 = pKlc_Y178(1757936480, r5vLT, 687450537, -1716862620);

@@ -128,7 +128,7 @@ case 'a':
 
 break;
 case 'b':
-VJnQr4h = (int)ceil(uu40X);
+
 break;
 case 'c':
 wq2R_6TT = jTkY87 >> M333W7x;
@@ -172,7 +172,7 @@ if (((o5H_I94 & 1897879229) && (iZ7i53_F2 != X0T3ioGg)) || (wn_63adm4 > L0Xh7xh)
 }
 else
 {
-VJnQr4h = (int)abs(bjdgKg_W);
+
 }
 
 if (av_28JkK6_)

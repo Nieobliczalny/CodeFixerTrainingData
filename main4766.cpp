@@ -24,7 +24,7 @@ int main(int argc, char** argv) {
   long  MMQs67;
   MMQs67  =  0;
  unsigned char Zp48k9ZQv9;
- Zp48k9ZQv9 = 865002070;
+
  long double JyKAw;
  JyKAw = 910960415;
   char  v06u;
@@ -52,7 +52,7 @@ int main(int argc, char** argv) {
     float    b85K1Q;
     b85K1Q    =    1548398068;
   unsigned long long  y7g7_;
-  y7g7_  =  1023089955;
+
  unsigned int X7V86L4_E;
  X7V86L4_E = 160048134;
     long    UO1D6;
@@ -76,7 +76,7 @@ int main(int argc, char** argv) {
     long double    qlRBzi_6vw;
     qlRBzi_6vw    =    1067041009;
   long  v3l2wK1t7;
-  v3l2wK1t7  =  0;
+
 	double	j7rq;
 	j7rq	=	-151746576;
  unsigned short int k6s56hMD;
@@ -100,7 +100,7 @@ int main(int argc, char** argv) {
     unsigned long    eVOpFfL;
     eVOpFfL    =    1261486561;
   double  jpwPmx2lW7;
-  jpwPmx2lW7  =  2077092968;
+
   char  s0aCmW;
   s0aCmW  =  -86835178;
   unsigned char  TzgKCt_;
@@ -271,7 +271,7 @@ while (k >= 0);
 }
 else if (bCVOQd > eVOpFfL)
 {
-v7kB4Z = (int)floor(qlRBzi_6vw);
+
 }
 else if (((a7_9EX6__ < 1553086294) && (UC8Ew6 == -570548554)) && (Fm7Nx3B < 8688301))
 {
@@ -329,7 +329,7 @@ std::cout << TzgKCt_ << "q2V7gQ5" << ev96EtiyH9(hpJ_b5, 539708464, zZouExoapW) <
 }
 else
 {
-bCVOQd ^= 92614044;
+
 }
 if ((902613669 / a7_9EX6__) == -976784504)
 {
@@ -349,7 +349,7 @@ if (((U26re45 & v36z616U) && (uWQA7 & 1273909273)) || (Q59Yx353 > v06u))
 while (i < 8);
 }
 
-Q59Yx353 = (unsigned long long)(JyKAw);
+
 
 return 0;
 }

@@ -69,7 +69,7 @@ int main(void) {
     unsigned char    zwFKHl;
     zwFKHl    =    102401353;
     float    q39D11N0;
-    q39D11N0    =    131766395;
+
     long long    T0I68a;
     T0I68a    =    -1837507695;
 	unsigned long long	o6QVE;
@@ -87,7 +87,7 @@ int main(void) {
 	char	A74c;
 	A74c	=	0;
     unsigned char    z3Vs_;
-    z3Vs_    =    756711868;
+
  short int p90_J_WK8;
  p90_J_WK8 = 1068007394;
     double    JdJx04;
@@ -101,7 +101,7 @@ int main(void) {
 	int	D0x8N;
 	D0x8N	=	2073412612;
  long xRj_VJFr_b;
- xRj_VJFr_b = 548208067;
+
   unsigned short  l_yfD;
   l_yfD  =  1763926857;
   unsigned long long  JkNImMJB;
@@ -113,7 +113,7 @@ int main(void) {
   long long  JjZiUdFY;
   JjZiUdFY  =  -137030054;
 	long long	DVp9_3;
-	DVp9_3	=	1394057621;
+
  long double N9Fmy5x3;
  N9Fmy5x3 = 1276393460;
  unsigned long long nppQ52WX1;
@@ -123,7 +123,7 @@ int main(void) {
     unsigned char    GqJJx6;
     GqJJx6    =    -893057852;
 	long	m1I_w;
-	m1I_w	=	509100136;
+
     unsigned int    t9hK4Y;
     t9hK4Y    =    2017630922;
     unsigned short    OmSTV79;
@@ -145,7 +145,7 @@ int main(void) {
 	unsigned long	AXs0srB29I;
 	AXs0srB29I	=	1190924567;
   long long  S2677E;
-  S2677E  =  1879692067;
+
 	long long	JJ8v465RM;
 
   int  S4SfJiIsX;
@@ -177,7 +177,7 @@ int main(void) {
  int YA8806;
  YA8806 = 1438430192;
   char  n7wIt;
-  n7wIt  =  0;
+
     short    Q1J62FdQt5;
     Q1J62FdQt5    =    147448834;
  long double nsHAkyPP;
@@ -195,7 +195,7 @@ int main(void) {
   short int  lmSP;
   lmSP  =  947817040;
  unsigned char olz673dMc;
- olz673dMc = -2010087578;
+
  unsigned char EeTX;
  EeTX = -1333368571;
 	short	zbpgSvVQ;
@@ -262,7 +262,7 @@ while (j < 7);
 }
 else
 {
-S2677E = (int)abs(YmLI06Z);
+
 }
 
 zzc13 = PZVVW_Vy2_(zzc13, -602419641, b580);
@@ -379,7 +379,7 @@ case 'c':
 bc9j384_ = Jnme44yq(bc9j384_, Q8___A, 1612901526, zwFKHl);
 break;
 case 'd':
-N9Fmy5x3 = (int)ceil(ED3x);
+
 break;
 case 'e':
 s37nV5L = Jnme44yq(-836724811, v0TT9gL64o, 8902672, -1821886860);
@@ -395,7 +395,7 @@ jRE8F = Jnme44yq(jRE8F, SJ8PS3p, 1242809497, JjZiUdFY);
 break;
 }
 }
-cT5J_x7 = xeJ7wPmsU();
+
 
 {
 int i = 10;
@@ -447,7 +447,7 @@ OmSTV79 = (unsigned short)(fPr2);
 
 
 mdTqJz = T0I68a / A74c;
-YP2dy |= dV6JA_9py;
+
 switch (xqF2C)
 {
 case 0:
@@ -457,7 +457,7 @@ case 1:
 
 break;
 case 2:
-q39D11N0 = (int)ceil(Xdj7o);
+
 break;
 case 3:
 DG5Pz7f92o = Jnme44yq(-1484326203, -154352243, 2026457513, s37nV5L);
@@ -479,7 +479,7 @@ if (KYzrZ < 1679910691)
 }
 if (V6Sv9v_HX == KMs96)
 {
-IDBhG1 = PZVVW_Vy2_(IDBhG1, v0TT9gL64o, 1067815073);
+
 }
 else if (JjZiUdFY & 1264145593)
 {
@@ -583,7 +583,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-q39D11N0 = (int)floor(DG5Pz7f92o);
+
 break;
 case 'd':
 case 'D':
@@ -595,7 +595,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-gPWq03FP8 = P7T0w(768697071, 1484317751, 2145119261);
+
 break;
 default:
 q39D11N0 = (int)abs(U1W526dW2);
@@ -620,7 +620,7 @@ case 'c':
 
 break;
 case 'd':
-Y75AzH = (int)ceil(mdTqJz);
+
 break;
 case 'e':
 dV6JA_9py = D0x8N ^ 1793530276;
@@ -638,7 +638,7 @@ case 'i':
 K7Wko7l9b <<= 186672039;
 break;
 case 'j':
-S7590Ed7 = PZVVW_Vy2_(-406046762, jRE8F, -974064205) + 1447746098;
+
 break;
 }
 }
@@ -649,7 +649,7 @@ else
 }
 else if (WoF5dq0)
 {
-s37nV5L = (int)abs(xqF2C);
+
 }
 else if (S4SfJiIsX & -1412180708)
 {
@@ -684,7 +684,7 @@ bBWHo7Jd = (int)abs(cOpIZB_oG9);
 break;
 case 'c':
 case 'C':
-k_b_j = Jnme44yq(-1623371329, lmSP, Q1J62FdQt5, -404004596) & 775833947;
+
 break;
 case 'd':
 case 'D':
@@ -696,7 +696,7 @@ HHW_p0KmC = JjZiUdFY << 1401113097;
 break;
 case 'f':
 case 'F':
-S4SfJiIsX = (int)abs(zB27);
+
 break;
 case 'g':
 case 'G':
@@ -708,7 +708,7 @@ q39D11N0 = (int)ceil(ED3x);
 break;
 case 'i':
 case 'I':
-cT5J_x7 = (int)floor(N9Fmy5x3);
+
 break;
 case 'j':
 case 'J':
@@ -721,7 +721,7 @@ break;
 }
 else
 {
-JdJx04 = (int)abs(pavl);
+
 }
 if (EN05cGV0_3 >= -488710620)
 {
@@ -751,7 +751,7 @@ else
 
 }
 
-Y75AzH = (int)floor(bBWHo7Jd);
+
 
 std::cout << PZVVW_Vy2_(-1835258368, T0I68a, V6Sv9v_HX) << "CK2aRD" << "K5P1k85is9" << PZVVW_Vy2_(1821202978, T0I68a, -250411944) << Jnme44yq(njYw, T0I68a, -1587077894, 1685600447) << std::endl;
 

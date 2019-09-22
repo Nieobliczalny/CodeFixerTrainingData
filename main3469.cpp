@@ -75,7 +75,7 @@ case 1:
 
 break;
 case 2:
-kqm7Qg8ztP = (int)floor(LGza92);
+
 break;
 case 3:
 P6_0Fl /= 925494160;
@@ -116,7 +116,7 @@ else if (P_SM & W60vzFX864)
 {
 if (bXew != 986143764)
 {
-ZmLFo = (int)abs(jMJpoAiDoh);
+
 }
 else
 {
@@ -168,7 +168,7 @@ if (F8JAU2dz)
 {
 try
 {
-P6_0Fl = (int)floor(TEg7T6);
+
 }
 catch (int& errorCode)
 {
@@ -274,7 +274,7 @@ case 0:
 
 break;
 case 1:
-k9BVa22IaX = (int)ceil(WlCh8G);
+
 break;
 case 2:
 k8UJv9 = (int)ceil(bG5mUMD6T);
@@ -286,7 +286,7 @@ case 4:
 
 break;
 case 5:
-TEg7T6 = (int)ceil(YTSh6hznU);
+
 break;
 case 6:
 E95b = (int)abs(G4e4qPdl);
@@ -315,7 +315,7 @@ wW4JP = rIdVm(wW4JP);
 break;
 case 'c':
 case 'C':
-F_97y = (int)ceil(mL1r4r50);
+
 break;
 case 'd':
 case 'D':

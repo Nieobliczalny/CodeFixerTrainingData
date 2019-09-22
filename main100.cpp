@@ -499,7 +499,7 @@ case 3:
 rsltp5 = (int)abs(D_D4_V);
 break;
 default:
-IzhB63F = (int)ceil(iTJwvnTX);
+
 break;
 }
 
@@ -526,7 +526,7 @@ case 4:
 
 break;
 case 5:
-IzhB63F = (int)floor(iTJwvnTX);
+
 break;
 case 6:
 M0LZ = dibZ469Vu << 1598565186;
@@ -538,7 +538,7 @@ case 8:
 
 break;
 case 9:
-M_2n_IER = N10j072 % rR135k7Y;
+
 break;
 default:
 IzhB63F = (int)floor(C_Wx);

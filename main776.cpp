@@ -86,7 +86,7 @@ while (k < 8)
 
 if ((I43a & 1249182549) && (QbL9))
 {
-q9_5BNfuf = rMZxUE1D6Q & 874953436;
+
 }
 
 for (int i = 0; i < 2; ++i)
@@ -96,7 +96,7 @@ nJWtZv0ID = (int)(rMZxUE1D6Q);
 
 if ((W8ShdajQ9 / W8ShdajQ9) < 224393910)
 {
-W8ShdajQ9 = y3YY9x8k(1090669419, jJrOA, -2104031189, 179892816, nJWtZv0ID);
+
 }
 {
 int i = 0;

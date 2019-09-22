@@ -90,7 +90,7 @@ case 'c':
 IVY3bd = Wt_m(IVY3bd);
 break;
 case 'd':
-xD1_o = (int)ceil(U4mdCx43JT);
+
 break;
 case 'e':
 jLwfhvxN3L = MhdaU_ / 249099042;
@@ -215,7 +215,7 @@ if (k_7UangkIm == IVY3bd)
 }
 else
 {
-MhdaU_ = Wt_m(MhdaU_);
+
 }
 }
 else

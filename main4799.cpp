@@ -28,7 +28,7 @@ int main(void)
     unsigned short    F428oV8;
 
     double    tI260krO;
-    tI260krO    =    793335837;
+
   unsigned short  y0b0;
   y0b0  =  1092567526;
     long double    gwmS5Q;
@@ -40,7 +40,7 @@ int main(void)
 	float	H9x01Bk;
 	H9x01Bk	=	1097147124;
     char    cHpbqc_B31;
-    cHpbqc_B31    =    -230297766;
+
     short    AyP0856;
     AyP0856    =    -18505852;
   unsigned char  n6tra4;
@@ -50,7 +50,7 @@ int main(void)
   long double  K1MSDHZI;
   K1MSDHZI  =  119787526;
   short  ISOcGsWRtE;
-  ISOcGsWRtE  =  355330401;
+
     float    ZI30Y2_75h;
     ZI30Y2_75h    =    -1682447549;
 	short	kz3wDBC;
@@ -60,7 +60,7 @@ int main(void)
  unsigned char HksZpu_;
 
  long long Hxy33_;
- Hxy33_ = 1345263988;
+
  unsigned long L3lxLa;
  L3lxLa = -1569702896;
     short int    wKvNOWq;
@@ -74,7 +74,7 @@ int main(void)
  unsigned long ypykS;
  ypykS = 777674364;
   unsigned short int  ACvv8m;
-  ACvv8m  =  -431318149;
+
   unsigned short  q4lqB45Pn;
   q4lqB45Pn  =  490811532;
 	unsigned short int	r6st0pO6c;
@@ -101,7 +101,7 @@ case 1:
 
 break;
 case 2:
-K1MSDHZI = (int)floor(SHiIepwM);
+
 break;
 case 3:
 HksZpu_ = GzQK1(1493339440, r6st0pO6c, 1332375307, 1997412561, ZI30Y2_75h);
@@ -127,7 +127,7 @@ if (y_99 != mi9w8)
 std::cout << "OybD" << GzQK1(y_99, 618009010, ZI30Y2_75h, -1380827637, NWaA) << std::endl;
 try
 {
-L3lxLa = n6tra4 - 177876612;
+
 }
 catch (int& errorCode)
 {
@@ -152,7 +152,7 @@ while (j < 5);
 while (i < 6);
 }
 
-F428oV8 = AyP0856 / i7aDy0JI1;
+
 switch (y_99)
 {
 case 'a':
@@ -173,7 +173,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-xmBJfxt = GzQK1(DABNTCp, xmBJfxt, ypykS, d_Xpoo, 58904293);
+
 break;
 case 'f':
 case 'F':

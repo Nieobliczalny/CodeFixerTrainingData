@@ -23,7 +23,7 @@ int main() {
  JM_cY = -288565341;
  PpOX = 192690970;
  Rdp5 = 786625381;
- tqGEvn5Z = 864563639;
+
  X29cedLlYH = 972765364;
  IgwBBMU = 1895725523;
  QlU57 = -2146992641;
@@ -33,7 +33,7 @@ int main() {
  GW388F1 = 2136035822;
  dw901559n = -1053222676;
  SVtv_R5 = 1676918852;
- aRXOX = -1338660641;
+
  z66d5ySM = 2112875034;
  q80X = 195375057;
  w8vg8_ = -1577167905;
@@ -44,7 +44,7 @@ int main() {
  qf8TaG = -960771892;
 
  k43E = -1275868254;
- ydS8q9 = -2096887442;
+
  HjB4pY1_w = 455867246;
  LCHnpQ = -712254779;
  b0g44wxI = -602997545;
@@ -60,7 +60,7 @@ int main() {
  D_OWQa = -172755017;
  k20OKh6T = -405341193;
  UK3Az80L = -1771113125;
- kTX_4uy = -209616880;
+
  QZo378 = 450353761;
  BvWY67mP = 708959566;
  M3Tb = 1412129944;
@@ -115,7 +115,7 @@ WeJI = X29cedLlYH - 2134999969;
 
 
 
-kTX_4uy = Y5i_C9 - 1241511369;
+
 
 try
 {
@@ -230,7 +230,7 @@ case 'c':
 QlU57 *= ydS8q9;
 break;
 default:
-x3_436Wc *= 1631521516;
+
 break;
 }
 
@@ -306,7 +306,7 @@ case 1:
 
 break;
 case 2:
-tFgmjt = (int)ceil(e2m_);
+
 break;
 case 3:
 qKa9 = (int)abs(tFgmjt);
@@ -346,7 +346,7 @@ JD5F89a3_b = (z0da86e7M > gW8r80Aiyx) ? b0g44wxI : EqrfB;
 
 
 cout << ME07XR9qjS << "g3Cqps7HPr" << VvoB7 << F4i881ptZ << endl;
-SmM9Irr8pB = (int)floor(k43E);
+
 
 {
 int i = 0;

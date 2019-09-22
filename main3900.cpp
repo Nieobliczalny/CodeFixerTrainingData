@@ -252,7 +252,7 @@ case 0:
 
 break;
 case 1:
-VMg1_1k = EyT17 * Le45BOqP;
+
 break;
 default:
 T5YEeJm = (int)ceil(Le45BOqP);

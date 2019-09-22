@@ -74,7 +74,7 @@ case 'b':
 AyL87f_ *= 379912065;
 break;
 case 'c':
-Nx7o6Bl658 = (int)floor(JxHEq2);
+
 break;
 case 'd':
 N1Lx7JAw = xU6Q96 / fjFK9J3;
@@ -223,7 +223,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-Nx7o6Bl658 = j4VqU - I_snUsB554;
+
 break;
 case 'e':
 case 'E':
@@ -618,7 +618,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-yj0S = (Nx7o6Bl658 <= yj0S) ? xU6Q96 : Hq_wTN4;
+
 break;
 case 'c':
 case 'C':

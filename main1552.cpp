@@ -40,7 +40,7 @@ int main() {
  float Ck4385;
  Ck4385 = -1778731525;
   long  Xn3y2L6Ke;
-  Xn3y2L6Ke  =  152482754;
+
   unsigned char  c7Z8WPGr2;
   c7Z8WPGr2  =  -957065817;
 	short int	nqQF4fgdJ;
@@ -92,7 +92,7 @@ if (s3cFhuZZR == 87713274)
 {
 if (u1UVp1Lu_ != -91164256)
 {
-ZtJ47_0 <<= 2068836303;
+
 }
 }
 else if (Q5t4_6d5R > 479657634)
@@ -157,7 +157,7 @@ pb3e7vI = sX5vHZ(pb3e7vI);
 break;
 case 'g':
 case 'G':
-c7Z8WPGr2 -= 1581834830;
+
 break;
 case 'h':
 case 'H':
@@ -214,7 +214,7 @@ break;
 int i = 0;
 while (i < 2)
 {
-c7Z8WPGr2 = (unsigned char)(PYlWe760_2);
+
 i++;
 }
 }
@@ -335,7 +335,7 @@ while (i >= 0);
 
 if ((Pl1q == 283287661) && (u_4m < 758912938))
 {
-u1UVp1Lu_ = Gm_43Y(zN29, -1135117286, Dj0qB8_QY);
+
 }
 for (int i = 9; i >= 0; --i)
 {

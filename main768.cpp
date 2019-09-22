@@ -318,7 +318,7 @@ for (int j = 0; j < 6; j++)
 IKEeV2 = l97tPp ^ zl72Y24r;
 }
 }
-axYR917VX = (int)abs(Zt_s0UA);
+
 
 try
 {

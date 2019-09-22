@@ -75,7 +75,7 @@ else if (cd1GF5f_r > -1840931271)
 {
 try
 {
-c90kLW7qZu ^= L8p_Oy;
+
 }
 catch (int& errorCode)
 {
@@ -127,7 +127,7 @@ W2oFy12wD = h5o_W & Qt6f;
 
 std::cout << i3U9_70n(jgKEG2, -1243008080, 1855908600, -1258275533) << n6YB << Zdv0nW4(1444601043, cd1GF5f_r, 167542668, -195861210) << "OqLDUWW1" << "G4XJ" << std::endl;
 
-v33XJyue0p = (unsigned short int)(N3ZAVQ0qVA + (-294735403));
+
 
 try
 {
@@ -146,7 +146,7 @@ case 'b':
 
 break;
 case 'c':
-W2oFy12wD = Zdv0nW4(660166832, W2oFy12wD, jNY2pl, 1736235268);
+
 break;
 default:
 h5o_W = (os6L_XGwOo <= 159351424) ? -1443168576 : N3ZAVQ0qVA;

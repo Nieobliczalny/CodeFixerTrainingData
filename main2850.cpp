@@ -108,7 +108,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-M07F5E3t6 += 700485804;
+
 break;
 case 'c':
 case 'C':
@@ -244,7 +244,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-E5207fKp = (hCyZq == -1128568884) ? pn4w : 37464369;
+
 break;
 case 'c':
 case 'C':

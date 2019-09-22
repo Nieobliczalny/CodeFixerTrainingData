@@ -28,7 +28,7 @@ int main(int argc, char** argv) {
  unsigned short mhMJ;
  mhMJ = 688189910;
     char    U9y9;
-    U9y9    =    -833366625;
+
 	short int	C73SRtWm;
 	C73SRtWm	=	563601903;
     double    Jc3qq9Nt2Y;
@@ -40,7 +40,7 @@ int main(int argc, char** argv) {
  short o_5ydhugIj;
  o_5ydhugIj = 1367766488;
 	short	xyX9;
-	xyX9	=	522916129;
+
  unsigned short int d8HhQI;
  d8HhQI = 1007712651;
   long  h27TFTFd3c;
@@ -50,7 +50,7 @@ int main(int argc, char** argv) {
 	double	xck_89J_;
 
  char N1H1V00i4;
- N1H1V00i4 = -101552606;
+
   unsigned long long  DHGV;
   DHGV  =  -969400673;
 	long double	fX75JKCJ6;
@@ -60,7 +60,7 @@ int main(int argc, char** argv) {
 	long double	Stkd;
 
  short vzgxIEE3;
- vzgxIEE3 = -278659750;
+
   short  W2eRL3Y;
   W2eRL3Y  =  1564959704;
   int  RNuKSOTq;
@@ -70,7 +70,7 @@ int main(int argc, char** argv) {
  short int z6VgZOw;
 
  unsigned short H5dN6r;
- H5dN6r = -2023139223;
+
 	double	q5nv7;
 	q5nv7	=	-305061634;
  long iKFDG;
@@ -84,7 +84,7 @@ int main(int argc, char** argv) {
  unsigned int xDDY;
  xDDY = 0;
 	int	E1KY;
-	E1KY	=	-931288385;
+
 	short	rCaAbXnY;
 	rCaAbXnY	=	271144270;
 	unsigned char	N9r13CHK6i;
@@ -94,7 +94,7 @@ int main(int argc, char** argv) {
   long  UYKT927s4k;
   UYKT927s4k  =  533640671;
 	short int	g6g7B1UZgP;
-	g6g7B1UZgP	=	993679991;
+
  long t2cC;
  t2cC = 14621404;
     unsigned int    Q7XOGr_L;
@@ -104,7 +104,7 @@ int main(int argc, char** argv) {
  float oY9H6fXo;
  oY9H6fXo = 1126057583;
  char xvTEHM680c;
- xvTEHM680c = -850500337;
+
     float    Zbv5DdLW;
     Zbv5DdLW    =    1275672930;
     float    TZce2z2;
@@ -118,7 +118,7 @@ int main(int argc, char** argv) {
  long double LIiFRgzGi9;
  LIiFRgzGi9 = 1227258544;
     unsigned long long    kq_c;
-    kq_c    =    800120659;
+
 	unsigned long long	O1qu;
 
   double  Uf45c;
@@ -134,7 +134,7 @@ int main(int argc, char** argv) {
   double  eWmB3wu5jE;
   eWmB3wu5jE  =  -1495838117;
 	unsigned short	GRm0C2;
-	GRm0C2	=	1225084263;
+
 	unsigned short	RuDeOpFtB0;
 	RuDeOpFtB0	=	-548269504;
  long long J6G_s0fa35;
@@ -144,7 +144,7 @@ int main(int argc, char** argv) {
     unsigned long    F71Z6iY_I;
     F71Z6iY_I    =    -935193707;
 	unsigned int	CZXw8it_N;
-	CZXw8it_N	=	-1776801019;
+
     unsigned long long    F6pdUcjs;
     F6pdUcjs    =    1700161164;
 	long long	XM62J7;
@@ -154,7 +154,7 @@ int main(int argc, char** argv) {
 	long double	xZQ6Q4;
 	xZQ6Q4	=	-1461573423;
     char    TiLkQb;
-    TiLkQb    =    -1658136524;
+
     unsigned int    RIBcJ9FiJ1;
     RIBcJ9FiJ1    =    1795871735;
  unsigned long long Oz4Dp0a54;
@@ -166,7 +166,7 @@ int main(int argc, char** argv) {
  unsigned short h8Nc;
 
     unsigned short int    pSW05;
-    pSW05    =    1490848868;
+
     unsigned long    N3Nezo7y9d;
     N3Nezo7y9d    =    1748290372;
 	unsigned int	yZ7dog7;
@@ -178,7 +178,7 @@ int main(int argc, char** argv) {
 	short	v5li;
 	v5li	=	1710212162;
 	unsigned int	HI542R64Sz;
-	HI542R64Sz	=	-660014557;
+
   unsigned long  sC9_E;
   sC9_E  =  -740063022;
  int lbT0;
@@ -188,7 +188,7 @@ int main(int argc, char** argv) {
   long double  y0dx;
   y0dx  =  1813244271;
  double gg4T;
- gg4T = 784022081;
+
     unsigned long long    ao4IzckN;
     ao4IzckN    =    -231916817;
     unsigned long long    OQH_A;
@@ -203,7 +203,7 @@ int main(int argc, char** argv) {
     U4TBC4    =    1201793765;
 
 std::cout << OQH_A << i0CV(-1064877434, U4TBC4) << std::endl;
-XM62J7 = r9b4w9gI / xDDY;
+
 
 switch (iy_06q)
 {
@@ -219,7 +219,7 @@ break;
 }
 
 
-xck_89J_ = (int)ceil(Jc3qq9Nt2Y);
+
 pSW05 = (unsigned short int)(b0eC696);
 
 if (((N9r13CHK6i) && (RNuKSOTq < 965204742)) || ((RIBcJ9FiJ1 != Jc3qq9Nt2Y) && (zgQQk__LY0 <= Oz4Dp0a54)))
@@ -253,7 +253,7 @@ for (int j = 10; j >= 0; --j)
 {
 if (l_TaHvXv_D >= N3Nezo7y9d)
 {
-oY9H6fXo = (int)ceil(l2qrZ);
+
 }
 else
 {
@@ -265,7 +265,7 @@ catch (int& errorCode)
 {
 AOh35KiS = (int)ceil(LIiFRgzGi9);
 }
-sC9_E = B4HT0__AB9(204924286, Oz4Dp0a54, 40610601, mhMJ);
+
 
 
 yLwRy /= 377452480;
@@ -275,7 +275,7 @@ switch (mgXmzQa_)
 {
 case 'a':
 case 'A':
-U9y9 = L_r7(-1767625019, lbT0);
+
 break;
 case 'b':
 case 'B':
@@ -286,7 +286,7 @@ case 'C':
 o_5ydhugIj /= GeTdwu;
 break;
 default:
-v5li = r9b4w9gI >> 1380725364;
+
 break;
 }
 

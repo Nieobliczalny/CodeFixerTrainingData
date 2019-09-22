@@ -54,7 +54,7 @@ int main(int argc, char** argv)
     E56n0u    =    404877040;
     jf0f96m    =    1201878010;
     p8yqI23h    =    1610766497;
-    Yk0D7YL3Uz    =    354304059;
+
     n_r8KrVT3z    =    -1604174794;
     QjQM__p    =    -560760608;
     V3wjmvtR9    =    875351452;
@@ -421,7 +421,7 @@ std::cout << Wx_Wa5Xxhn(E56n0u, 1765175757, LMPNnvZ, -2051632279, hDHxav) << N2l
 }
 
 caf28e0S = uKHBZ61hxT(E56n0u, x4xxk4, 688663208, jCZp, 1353679048) / t2cwYRD2;
-lmj8OW = (int)abs(nQN_Hv50);
+
 
 std::cout << Wx_Wa5Xxhn(7515910, x4xxk4, -1024096575, jCZp, hDHxav) << CaORs8qN << W679KbR7 << std::endl;
 switch (P5sS_aTuI2)

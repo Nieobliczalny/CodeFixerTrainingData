@@ -49,7 +49,7 @@ catch (int& errorCode)
 vqgQb78PYO = LisN1HVoGU(vqgQb78PYO, -743595690);
 }
 
-eYA0dyn1Tk = (double)(gIGk + (-1999531728));
+
 cout << f4M2405Uz << endl;
 
 try
@@ -68,7 +68,7 @@ while (i >= 0)
 --i;
 if ((c9_bO <= gIGk) && ((OH0U & gIGk) && (KHRt == zY_3AjFD0)))
 {
-JItZjpL = (int)ceil(PdQm);
+
 }
 else
 {
@@ -99,7 +99,7 @@ case 2:
 kp04T = JAgD();
 break;
 case 3:
-OL16sD = (int)floor(QD_76hP1K);
+
 break;
 case 4:
 Nnz122 = (int)ceil(UhO1K);
@@ -217,7 +217,7 @@ case 0:
 
 break;
 case 1:
-Hc3siv6G = LisN1HVoGU(-1628740892, G8936XH82M);
+
 break;
 case 2:
 Yy3s = (int)ceil(J_88y);
@@ -250,7 +250,7 @@ RAXR = (int)abs(BDm400W);
 break;
 case 'b':
 case 'B':
-m4vbKUgX = (int)floor(Z6sKrnir);
+
 break;
 case 'c':
 case 'C':

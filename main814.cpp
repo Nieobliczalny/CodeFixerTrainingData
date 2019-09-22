@@ -39,7 +39,7 @@ int main(int argc, char** argv) {
 
     tY0e5    =    -1431233850;
     QI73    =    1706060443;
-    v9c__NU8    =    823716733;
+
     mCl9Q    =    537345024;
     di34K9    =    -856023606;
     TLK0bf    =    -1999505388;
@@ -49,7 +49,7 @@ int main(int argc, char** argv) {
 
     LT_Pur    =    -556626447;
     dr9Dcx883    =    1225292564;
-    a4H6tg2    =    4761986;
+
     VBRL5_c    =    1918641284;
     w_0HAfq    =    -1244806769;
     QaXUsSMA    =    853758459;
@@ -347,7 +347,7 @@ case 'a':
 
 break;
 case 'b':
-v9c__NU8 = wRcGXN_OA();
+
 break;
 case 'c':
 iUm2i3 = b3DmG3X(1344012815, N31Y53lo, 1944958566);
@@ -365,7 +365,7 @@ for (int i = 9; i >= 0; --i)
 switch (QaXUsSMA)
 {
 case 'a':
-I_37 = B2lM(1618353446, TLK0bf, QI73, d_gsbGv, 1715947805);
+
 break;
 case 'b':
 k81jd62wj7 = B2lM(-892978027, LT_Pur, KIVGK698M, -109522668, YeWm404zDx);
@@ -376,7 +376,7 @@ break;
 }
 }
 
-H5XGZul5D = QS9NlOB0(H5XGZul5D, R7_iWchJG, mCl9Q, o4V_FLD8p, w_0HAfq);
+
 cout << "Dk50W" << hLJ98jRL4k << "qltwX" << B2lM(-16435385, 1805237887, mCl9Q, 1290635538, -1020822778) << "InYljI_W0" << endl;
 
 

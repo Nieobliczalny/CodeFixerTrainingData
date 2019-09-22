@@ -22,7 +22,7 @@ int main(int argc, char** argv) {
  long long LE6PO4S1uv, f3Bi, RVh1L2_1oY;
  LE6PO4S1uv = 0;
 
- RVh1L2_1oY = 0;
+
  unsigned short int g7w3CSk5O, n6ItbHvAZ, O074K, UW3Q_Vz_, C6YmlnShaq, GM12kBcf, iZG_K5B, hKu_c2, aGpHTA, U2hZJ2pWI, e2FRNG, x6pLhJKo, D34D, o0cr9a, y4s3_8AP8B, G4yv_Bui9, jvEdFht9, DnTCeJvR2, yD76197f6, kHKS2d, N58ruaN, XZ0HxmXu8, YFdi0HQ, cuWSPr;
  g7w3CSk5O = -781392918;
  n6ItbHvAZ = 1646237623;
@@ -38,7 +38,7 @@ int main(int argc, char** argv) {
  x6pLhJKo = -286957308;
  D34D = 9068074;
  o0cr9a = -213993221;
- y4s3_8AP8B = -1301105755;
+
  G4yv_Bui9 = -1774285688;
  jvEdFht9 = -1429607050;
  DnTCeJvR2 = 724716989;
@@ -97,7 +97,7 @@ for (int i = 0; i < 8; ++i)
 {
 cout << UW3Q_Vz_ << "Qp91" << endl;
 }
-f3Bi = (int)abs(LE6PO4S1uv);
+
 
 o0cr9a %= n6ItbHvAZ;
 
@@ -107,7 +107,7 @@ case 0:
 
 break;
 default:
-yD76197f6 = X8clThlJ(294641117, LE6PO4S1uv, -1311925347, n6ItbHvAZ, D34D);
+
 break;
 }
 

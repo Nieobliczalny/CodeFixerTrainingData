@@ -32,7 +32,7 @@ int main() {
 	long long	KD5Kf1;
 
   long long  xHnt;
-  xHnt  =  -1090244450;
+
 	int	x_S7;
 	x_S7	=	-1583206261;
 	float	g612N;
@@ -46,7 +46,7 @@ int main() {
     unsigned short int    WMsq;
     WMsq    =    -1879680844;
 	int	G3yg_;
-	G3yg_	=	0;
+
 	char	VHS1dxi1L;
 	VHS1dxi1L	=	139019909;
  long long Ak3N6k78mo;
@@ -58,7 +58,7 @@ int main() {
 	long double	NZG_1ax59;
 	NZG_1ax59	=	1227790690;
     char    zv4L;
-    zv4L    =    275467140;
+
 	unsigned char	ioQcd25i5v;
 	ioQcd25i5v	=	1682407461;
   long long  rtzKdKs;
@@ -68,7 +68,7 @@ int main() {
 	long double	c41Mn_;
 	c41Mn_	=	-527114504;
  unsigned short m6sY5J3f8t;
- m6sY5J3f8t = 1572300040;
+
 	unsigned long long	eFm89r;
 	eFm89r	=	157875596;
     long double    mY56N;
@@ -78,7 +78,7 @@ int main() {
   long long  z7k47e1;
   z7k47e1  =  -223617931;
     unsigned short    q3rqS_2;
-    q3rqS_2    =    0;
+
 	unsigned short int	B415w_iAp;
 	B415w_iAp	=	848243745;
 	long	Gav_32Mt9;
@@ -114,7 +114,7 @@ int main() {
 	double	LboVag9d;
 	LboVag9d	=	254943978;
   short int  U_9L;
-  U_9L  =  447752274;
+
     float    PV_EYhR;
     PV_EYhR    =    -1794364029;
  long long j5c4;
@@ -187,7 +187,7 @@ break;
 }
 }
 
-wkB1DAx4iN <<= 122720265;
+
 
 xHnt = c7fOVb14();
 
@@ -235,7 +235,7 @@ case 'F':
 mY56N = (int)ceil(SDS1P9G7);
 break;
 default:
-z7k47e1 = SQU9vILbl | VHS1dxi1L;
+
 break;
 }
 
@@ -265,7 +265,7 @@ try
 {
 if (Qgk8 != a_dV5jp2j)
 {
-s0Gk5ciM = ktlJ(mY56N, NJOc3DJ, 1116008850, vcCV8mEd_5) << 1607646971;
+
 }
 else
 {
@@ -308,7 +308,7 @@ else if (a_dV5jp2j < Ak3N6k78mo)
 }
 else if (KD5Kf1 & -843486004)
 {
-SDS1P9G7 = (int)abs(cE3UH);
+
 }
 else
 {
@@ -327,7 +327,7 @@ PV_EYhR = (int)ceil(mwCc96Hl);
 }
 
 AJqEXW74 = (int)abs(IsUu_6k3);
-roJc = ktlJ(-2095441271, 887494402, -1033616704, PV_EYhR);
+
 switch (x_S7)
 {
 case 'a':
@@ -337,7 +337,7 @@ case 'b':
 
 break;
 case 'c':
-KD5Kf1 = (int)abs(AJqEXW74);
+
 break;
 case 'd':
 aNE_L5Ke = (int)abs(Qgk8);
@@ -349,7 +349,7 @@ case 'f':
 
 break;
 case 'g':
-SmY0dh90 /= 587913225;
+
 break;
 case 'h':
 Gav_32Mt9 = KD5Kf1 << 1780707007;

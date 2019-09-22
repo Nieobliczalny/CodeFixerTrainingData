@@ -571,7 +571,7 @@ switch (RIGQy2)
 {
 case 'a':
 case 'A':
-OFLKYU_6U -= U49A003fN;
+
 break;
 case 'b':
 case 'B':
@@ -618,7 +618,7 @@ case 6:
 qZoRNiy176 = u8_0 | OFLKYU_6U;
 break;
 default:
-SGRX3C9o ^= MK0mK__m1;
+
 break;
 }
 }
@@ -669,7 +669,7 @@ case 2:
 
 break;
 case 3:
-b1BI9q7 = U49A003fN << 1335503442;
+
 break;
 default:
 WW5O5MU44 = HcCcWq ^ 261088724;
@@ -736,7 +736,7 @@ else if (l8gG333 >= U49A003fN)
 {
 if (oNWCIkyQ & -771267234)
 {
-j53RIr559A = hY_S8zcPa0 / 947536039;
+
 }
 else
 {

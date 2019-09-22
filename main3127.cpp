@@ -73,7 +73,7 @@ if (ZMv7s & 990354821)
 switch (ZMv7s)
 {
 case 0:
-qy2WR = (int)abs(ltl5Czb7q);
+
 break;
 case 1:
 ltl5Czb7q = qy2WR * 1107770350;
@@ -96,7 +96,7 @@ else
 {
 if (Xd_I2t <= 196294901)
 {
-Xd_I2t = (int)abs(E8Nk6z);
+
 }
 }
 
@@ -119,7 +119,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-gix_ = (int)abs(apAA);
+
 break;
 case 'c':
 case 'C':
@@ -142,7 +142,7 @@ case 'G':
 
 break;
 default:
-ZMv7s = KxoQA14nQ();
+
 break;
 }
 

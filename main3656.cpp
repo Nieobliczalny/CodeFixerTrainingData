@@ -44,7 +44,7 @@ int main(void)
 	Gd55	=	-1760850630;
 	p0S0	=	546782952;
 	SP4Hr6236A	=	1167508803;
-	Ae0TO0k	=	-2141184730;
+
 	pH_Ev	=	984426115;
 	RC9A	=	-1542746396;
 	zYJ42G9	=	1359987991;
@@ -314,7 +314,7 @@ case 0:
 
 break;
 case 1:
-i7ErL5CEY = Gd55 << NB06o7;
+
 break;
 case 2:
 z2m0wBd24E = (int)abs(Z_Ewm);
@@ -326,7 +326,7 @@ case 4:
 
 break;
 case 5:
-z2m0wBd24E = fOly5p6rbk(938795234, Ae0TO0k, WGpuq, zDU6);
+
 break;
 case 6:
 Bft2OI9_ = fOly5p6rbk(1485648653, Z_Ewm, -1777553967, p76u010N);

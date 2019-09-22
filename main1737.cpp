@@ -31,7 +31,7 @@ int main(void)
     unsigned long long    v9cVQZ5Tt1;
 
 	unsigned long long	E6c4UC09p;
-	E6c4UC09p	=	420700592;
+
   long  Hvj7rQ_k2;
   Hvj7rQ_k2  =  1519885673;
   long  Ui320md93;
@@ -43,7 +43,7 @@ int main(void)
     long    n0O_To0D;
 
     int    ItkrA42PRc;
-    ItkrA42PRc    =    310260210;
+
   unsigned long long  cuGd2;
   cuGd2  =  1239032187;
 	int	w10J2Pd7;
@@ -71,7 +71,7 @@ int main(void)
     int    WZDsg5I;
 
     short int    kZ18bwD;
-    kZ18bwD    =    1937103034;
+
  unsigned short int t56tULYvX;
  t56tULYvX = 1986976837;
  long long lfSDeS1G;
@@ -83,7 +83,7 @@ int main(void)
 	short int	KcbuZH;
 	KcbuZH	=	-845832466;
 	short int	o_tahts27i;
-	o_tahts27i	=	0;
+
     unsigned int    VtAMp4n5_L;
     VtAMp4n5_L    =    2125000979;
  unsigned long long v1kQc;
@@ -95,7 +95,7 @@ int main(void)
  unsigned short Rzfy8;
 
 	unsigned char	bh5ii88;
-	bh5ii88	=	-729244225;
+
     short int    w5SLdj3040;
     w5SLdj3040    =    -416789822;
     long double    Dd1e;
@@ -105,7 +105,7 @@ int main(void)
 	char	CT_77V;
 
 	unsigned long long	mndLg;
-	mndLg	=	-1485140399;
+
     unsigned long    yh99c1r;
     yh99c1r    =    123520383;
   unsigned long long  ESZLJttL;
@@ -117,7 +117,7 @@ int main(void)
   long long  YL3d0;
   YL3d0  =  -503145114;
 	short	s4_Yl5jB;
-	s4_Yl5jB	=	2061535139;
+
 
 {
 int i = 9;
@@ -192,7 +192,7 @@ case 'e':
 
 break;
 case 'f':
-w5SLdj3040 &= 457195609;
+
 break;
 case 'g':
 vdU4h2t = PT0_O(yh99c1r);
@@ -233,7 +233,7 @@ case 4:
 Q84404EWe--;
 break;
 case 5:
-iW16kyaJ = (int)floor(wi959OAefk);
+
 break;
 case 6:
 vdU4h2t = PT0_O(-551165329);

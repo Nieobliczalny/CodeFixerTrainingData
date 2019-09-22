@@ -24,7 +24,7 @@ int main(void) {
 		// codechecker_intentional [deadcode.DeadStores] Design rule - initialize all variables
 		b0ySptB	=	S2gZT1_16	=	yLM_kWj0P	=	Y_njr4	=	RjVh9797bP	=	zzb8	=	QFR3l	=	MXX2AQotG	=	n5er45QV0f	=	VUH134	=	Q424u	=	yi9b2m_a0	=	K1hj1x8VJ	=	xa7r4	=	tVKA33Of	=	EruNt	=	f58WK	=	lctYNUJ7l	=	oVE940	=	muN55Hg41b	=	Zg_F596_	=	N4Mti	=	O0Blei	=	-1096018086;
 
-S2gZT1_16 = MXX2AQotG / 242684340;
+
 
 try
 {
@@ -59,7 +59,7 @@ i++;
 }
 
 Q424u &= muN55Hg41b;
-oVE940 = -1120227162 / G6MdWP_B;
+
 
 return 0;
 }

@@ -20,7 +20,7 @@ int main(void)
 		dH56OUEa1	=	SKQ60VE	=	t_bD8h	=	O1I3O	=	0;
 
 
-R05_Z3005 = (long double)(O6qr1);
+
 {
 int i = 3;
 while (i >= 0)
@@ -38,7 +38,7 @@ case 1:
 f6BV9_ *= 560733200;
 break;
 case 2:
-J1q7mBHL_ = O8o1Y + gy_0I_w0;
+
 break;
 }
 j--;
@@ -81,7 +81,7 @@ switch (SKQ60VE)
 {
 case 'a':
 case 'A':
-R934 -= 133509721;
+
 break;
 case 'b':
 case 'B':
@@ -93,7 +93,7 @@ aJZS /= oYdkL95eX;
 break;
 case 'd':
 case 'D':
-R_OeI9DOE7 = gy_0I_w0 * 1042549573;
+
 break;
 case 'e':
 case 'E':
@@ -105,7 +105,7 @@ u42G9E = Mvj39 * O8o1Y;
 break;
 case 'g':
 case 'G':
-x_x36e = x_x36e / 1845173559;
+
 break;
 default:
 

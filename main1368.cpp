@@ -210,7 +210,7 @@ case 'b':
 J4mFhEu02 ^= 1850550070;
 break;
 case 'c':
-D_bZOLrh = (int)ceil(SGLpVEPhd);
+
 break;
 case 'd':
 J4mFhEu02 = rvcrrAiH85(J4mFhEu02);

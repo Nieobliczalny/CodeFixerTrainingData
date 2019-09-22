@@ -91,7 +91,7 @@ case 'b':
 
 break;
 case 'c':
-K_tcKpLz1y -= 1927759600;
+
 break;
 default:
 xsxY = (int)abs(BQ7qI5);
@@ -188,7 +188,7 @@ case 3:
 
 break;
 case 4:
-tKUnty0n = (int)abs(xsxY);
+
 break;
 case 5:
 l4cQJ = f8P_6m(503974535, -1156386135, zFjFkPeK9, 1397266873);
@@ -200,7 +200,7 @@ case 7:
 
 break;
 case 8:
-BQ7qI5 = (int)abs(ICH6dOYUT);
+
 break;
 case 9:
 K_tcKpLz1y = f8P_6m(-1755562992, AgjH0bdf, BQ7qI5, ICH6dOYUT);

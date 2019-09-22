@@ -64,7 +64,7 @@ else
 
 }
 
-R_8L = (Dy7jO35) ? -2029657417 : pU0_c;
+
 AUhc8F = (short)(JYCv_cF6 + (36500525));
 if (f18H != taxo45Z33)
 {
@@ -107,7 +107,7 @@ break;
 }
 else if (rq_NeI87 <= -1708979340)
 {
-m3n6k973f = k85pis / 153112688;
+
 }
 else
 {

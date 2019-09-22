@@ -21,7 +21,7 @@ int main(int argc, char** argv) {
     w_YwfHat    =    -1008285525;
     XO68f2e    =    -1941036326;
     D7KhSm5yWo    =    979592790;
-    g9442Im    =    1858597361;
+
     JWP2eE    =    -349640865;
     qFql380    =    2048859798;
     K_t6SL    =    23800732;
@@ -32,7 +32,7 @@ int main(int argc, char** argv) {
     w2XqVqkuyC    =    1223202356;
     vt9IZ0Umn0    =    -447972997;
     HQFYt    =    1845590442;
-    F78VL5ER9    =    -948632458;
+
     H1C238e_K    =    -821440464;
     as268i    =    -1403630872;
     ths3hs    =    1692530673;
@@ -42,7 +42,7 @@ int main(int argc, char** argv) {
     Qk8uChU3Ni    =    -1125617322;
     MA92FV883Y    =    621571114;
     MGx2C    =    1581902930;
-    rPhSh4sEZ1    =    265875634;
+
     IC1mcxqK4    =    -1920971426;
     WN6p8KQI8d    =    -1386380771;
     a7XsDohm    =    67618351;
@@ -52,7 +52,7 @@ int main(int argc, char** argv) {
     q1Jq8    =    -393924040;
     p6t7Wqjd    =    1260895047;
     txY94OsX5c    =    -1049014091;
-    lW2V6    =    974603954;
+
     zr_24B    =    -129025254;
     HJ7F806    =    1517432538;
     K3P1nlx2f    =    522287482;
@@ -66,7 +66,7 @@ int main(int argc, char** argv) {
     l_H8_5k    =    894519697;
     kE5Dt8    =    2129690091;
     Cy_77sW387    =    -1538788270;
-    esTa6qKUU    =    411901187;
+
     kCstP2D3aE    =    1567966513;
     ZAYpf5c    =    -633088233;
     NU8aCrrE    =    1815537700;
@@ -117,7 +117,7 @@ case 'B':
 Flc_sU8 *= 726589915;
 break;
 default:
-a3YUi7A82E -= 1844128533;
+
 break;
 }
 }
@@ -158,7 +158,7 @@ if (Np8P80l6MY > l_H8_5k)
 }
 else
 {
-J_2tY -= 626994224;
+
 }
 }
 else if (d_543lc)
@@ -169,7 +169,7 @@ case 0:
 
 break;
 case 1:
-HJ7F806 -= pyQ63W7;
+
 break;
 case 2:
 Flc_sU8 /= 1036209241;
@@ -213,7 +213,7 @@ case 0:
 
 break;
 case 1:
-noO57w = K_t6SL - HQFYt;
+
 break;
 case 2:
 uq_6T1w2I1 = (int)floor(prMw3n);
@@ -225,7 +225,7 @@ case 4:
 
 break;
 case 5:
-MA92FV883Y /= zr_24B;
+
 break;
 case 6:
 esTa6qKUU = zLNWbKF / qFql380;
@@ -240,7 +240,7 @@ case 9:
 
 break;
 default:
-lW2V6 = (int)floor(p6t7Wqjd);
+
 break;
 }
 

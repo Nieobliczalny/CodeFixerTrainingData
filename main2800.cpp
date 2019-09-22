@@ -20,7 +20,7 @@ int main(int argc, char** argv) {
  short n3ar58;
  n3ar58 = 647792767;
   float  es1Gl5;
-  es1Gl5  =  -415218394;
+
   long double  UI01OuoB8;
   UI01OuoB8  =  -817094814;
     long    lKpL;
@@ -38,7 +38,7 @@ int main(int argc, char** argv) {
 	unsigned short int	OnCIA;
 	OnCIA	=	923923450;
     long long    Ne__enFruU;
-    Ne__enFruU    =    2117500850;
+
 	short int	hr0L21GHO;
 	hr0L21GHO	=	-1204882495;
  unsigned long long v7w9KZq;
@@ -48,7 +48,7 @@ int main(int argc, char** argv) {
   unsigned char  O_NkA_4Yk8;
 
 	short int	Q5n_X_8;
-	Q5n_X_8	=	-413783726;
+
     long long    G_29;
     G_29    =    -2045545215;
 	float	Pbwxthq;
@@ -100,7 +100,7 @@ int main(int argc, char** argv) {
 	long double	tdz1tO9_;
 	tdz1tO9_	=	1370894528;
   unsigned char  GgxdstD;
-  GgxdstD  =  1902981285;
+
 	long	y__ic3t;
 	y__ic3t	=	747135187;
 	unsigned long	kD4i8Fl;
@@ -245,7 +245,7 @@ n3ar58 = (int)abs(G_29);
 }
 else
 {
-Pbwxthq = (int)floor(Oe129wFW4r);
+
 }
 }
 }
@@ -258,7 +258,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-g6UrhX37 = cmwKY91joQ - 808807681;
+
 break;
 case 'c':
 case 'C':
@@ -291,7 +291,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-a2fglPh6dH += KsCIB6;
+
 break;
 case 'c':
 case 'C':
@@ -315,7 +315,7 @@ cVN2Z9gs = UI01OuoB8 - 247155452;
 break;
 case 'h':
 case 'H':
-B92waNl7l6 += tdz1tO9_;
+
 break;
 default:
 
@@ -364,7 +364,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-UI01OuoB8 = (int)ceil(tdz1tO9_);
+
 break;
 default:
 fvf46 = zXRe0dl0Kn / 1028584274;

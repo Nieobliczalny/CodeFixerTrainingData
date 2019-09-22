@@ -126,7 +126,7 @@ case 0:
 
 break;
 case 1:
-H7yNFE = j_17Q2QN * z5klkVE;
+
 break;
 case 2:
 UThg458298 /= 274183571;
@@ -138,7 +138,7 @@ case 4:
 
 break;
 case 5:
-E8G7HJR7vM = (int)ceil(UQmhL7Nj);
+
 break;
 case 6:
 mfw7V = hfs3N(495813429);
@@ -153,7 +153,7 @@ break;
 switch (Nam1_3P)
 {
 case 0:
-rSAEw_1 = (int)abs(xTb993C);
+
 break;
 case 1:
 WQtY = F6E8(1568665031, 1767406908, 733494388, L7WUGL1cD_, -1945696635);
@@ -165,7 +165,7 @@ case 3:
 g_Q_o9 = Nam1_3P | 78323870;
 break;
 case 4:
-WQtY = F6E8(apDmRm5TX_, -893929149, 1532809212, wSdu7, -1739589940);
+
 break;
 case 5:
 Qr9eg |= 1376961818;
@@ -180,7 +180,7 @@ case 8:
 yHK7b = hfs3N(-975853111);
 break;
 default:
-OPKSe_ukt = (int)ceil(M9VKYVZ9);
+
 break;
 }
 std::cout << F6E8(yHK7b, Nam1_3P, -618840365, -563721905, -1226112290) << g_Q_o9 << std::endl;

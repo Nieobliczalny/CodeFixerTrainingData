@@ -35,7 +35,7 @@ int main(int argc, char** argv)
  aWbb = -1637447124;
  VNC9s_2LvC = -1891023690;
  izK0t958J_ = 804600442;
- B4yk = 1370383289;
+
  QO1TK = -955612461;
  b46mv = 218439072;
  hnS_ = -651712392;
@@ -482,7 +482,7 @@ case 4:
 ESUgR7nhkM = ubIA1jnte2(e6v_sfS772, -1445225255, QO1TK, aWbb) >> 1830383874;
 break;
 case 5:
-u3Lmi = (int)abs(px7UMy);
+
 break;
 case 6:
 
@@ -538,7 +538,7 @@ if (ws77tD7PLF >= VNC9s_2LvC)
 }
 else if (((z5rRUgxL5 & Uupktcmuxu) || (i3kcZ <= -1208973847)) || (VNC9s_2LvC < 719124996))
 {
-T3j_7AhDQ = O6syBA(T3j_7AhDQ, 336718980);
+
 }
 else if (QO1TK != QJ1r)
 {

@@ -122,7 +122,7 @@ else
 {
 
 }
-Yn6l1rY *= uZhups;
+
 {
 int i = 7;
 while (i >= 0)
@@ -175,7 +175,7 @@ if (((LH8zy) || (ewmCQ9O >= j3Bk4ls)) && (j3Bk4ls < 273152995))
 }
 else if (xbeoulh == 534630365)
 {
-q4KX11 <<= 92534071;
+
 }
 else if ((Jl_YA8_ & FLYng_F2K0) || (LH8zy))
 {
@@ -193,7 +193,7 @@ else if (LH8zy < Sk7Q3pCGr0)
 {
 if ((qR43Y1B) || (LH8zy))
 {
-LH8zy = (int)floor(c9uUj);
+
 }
 }
 else
@@ -204,7 +204,7 @@ if (R4X7 & AXK3)
 }
 else
 {
-q4KX11 &= xbvBFuL;
+
 }
 }
 }

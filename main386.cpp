@@ -65,7 +65,7 @@ int main(int argc, char** argv) {
 	ZE2uO	=	893484815;
 	G0qOv3cAt	=	642771860;
 	u3OV	=	419359365;
-	F9VNpQO	=	-1428907844;
+
 	HW29aeM9O2	=	-1591704806;
 	gP47	=	1772066597;
 	N0e2Z7_	=	824459558;
@@ -345,7 +345,7 @@ case 4:
 HgWCbV6i = N0e2Z7_ | 735284746;
 break;
 case 5:
-F9VNpQO = oRvTp(-568774044, U_126, 36746232);
+
 break;
 case 6:
 oWal1 += RBd1;
@@ -439,7 +439,7 @@ switch (t9wuv)
 {
 case 'a':
 case 'A':
-p1zU0W %= G79rIcn76;
+
 break;
 case 'b':
 case 'B':
@@ -506,7 +506,7 @@ else if (oWal1 != hiPF2EFD)
 }
 else
 {
-ewe1_ArRs = (unsigned long long)(HW29aeM9O2);
+
 }
 
 switch (I_58J6hsD)
@@ -554,7 +554,7 @@ if (BaG9535nx5(GTl4V2, G0qOv3cAt, Jy_nyFcZ_b, GS1F, G79rIcn76) == 0)
 VwxzGc9xS1 -= u3OV;
 if (PM7CTwwwlO < 824142315)
 {
-u7QfchsEN = (unsigned long long)(E_vU0P3d);
+
 }
 else if (ZHdhEPI == X5NDXX8)
 {

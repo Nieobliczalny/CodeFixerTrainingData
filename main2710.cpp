@@ -296,7 +296,7 @@ for (int j = 0; j < 2; j++)
 {
 if ((Waan5U9s) || (Jo_7f2Gj > g3VKP))
 {
-n9698r = K4jp(vcN6DCZ8EB, 1715442761, -1823510825, -1767305728) * g3VKP;
+
 }
 else
 {
@@ -324,7 +324,7 @@ DpXYlJt7T = (int)abs(Jo_7f2Gj);
 }
 else if (fRA9 != H798)
 {
-DB_D5 = (long)(vcN6DCZ8EB + (V4x1H_ff));
+
 }
 else if (SM_AyEt & V4x1H_ff)
 {

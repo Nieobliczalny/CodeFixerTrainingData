@@ -102,7 +102,7 @@ break;
 switch (cMmDs25_)
 {
 case 0:
-sH8HyjiX_L = puv6Dgu_ | 1096046437;
+
 break;
 case 1:
 
@@ -114,7 +114,7 @@ case 3:
 DxW_kmv5gZ = cMmDs25_ % D853ejUa4R;
 break;
 case 4:
-P55nNkfB = ltEt4XIb9Y | tjO01iSrq6;
+
 break;
 case 5:
 
@@ -136,7 +136,7 @@ while (k >= 0)
 }
 else if (x_Kn69C4 >= 1754924510)
 {
-f4BC_ = (int)abs(h8EwSCO9sv);
+
 }
 else
 {
@@ -146,7 +146,7 @@ case 'a':
 
 break;
 case 'b':
-WVol_SZ__1 ^= gopuY2x;
+
 break;
 }
 }

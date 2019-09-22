@@ -93,7 +93,7 @@ int main(int argc, char** argv)
 	short int	wp48A8KL;
 	wp48A8KL	=	735565620;
   long long  DmYcAg;
-  DmYcAg  =  1938842996;
+
 	unsigned long	j344Sl3_5e;
 
  long double LirS_e;
@@ -491,7 +491,7 @@ while (k >= 0)
 }
 else
 {
-DmYcAg = (long long)(m0jV9Z);
+
 }
 }
 else if (V_bC0P_3 != uG6D)
@@ -504,7 +504,7 @@ if ((zay7_ != 1766860955) || (n7N8 & 956744443))
 {
 if (n56b == 897811952)
 {
-FjvL3zB40y = (int)floor(uRUYL2);
+
 }
 else
 {
@@ -540,7 +540,7 @@ else
 int k = 0;
 while (k < 4)
 {
-FjvL3zB40y = (int)abs(Z872kFW);
+
 ++k;
 }
 }
@@ -587,7 +587,7 @@ std::cout << CPeN10 << t_NsA(1352138663, jSLgEoW909) << hW3Qrl1x5(dpX0Q_, jSLgEo
 }
 else if ((dJIdMuix1 <= JiTPx6) && (LirS_e >= khn5E))
 {
-FjvL3zB40y = (int)ceil(PVRGP6py);
+
 }
 else
 {
@@ -704,7 +704,7 @@ catch (int& errorCode)
 w0UP_n6yCm = ka9tBTXPs();
 }
 std::cout << YclPL3_8 << "Vafz57ki" << "k_4qQ99" << g4nRNXhz << t_NsA(-205781431, 1576825840) << std::endl;
-TIaYfdy = (int)abs(mS6D);
+
 if (wPsVNtp18w == CPeN10)
 {
 try
@@ -812,7 +812,7 @@ case 'b':
 
 break;
 case 'c':
-t8lKt0 = (int)ceil(RyL366Wa);
+
 break;
 case 'd':
 St_64DmE = t_NsA(RyL366Wa, C4Dea);
@@ -830,7 +830,7 @@ break;
 std::cout << hW3Qrl1x5(1885152817, C4Dea) << gig3 << ndRSe_GR9v << std::endl;
 for (int i = 2; i >= 0; i--)
 {
-ZTI_LUHKU = uG6D * 742702715;
+
 }
 return 0;
 }

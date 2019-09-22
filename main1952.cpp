@@ -49,7 +49,7 @@ int main(int argc, char** argv)
 	unsigned long	TpQ3;
 	TpQ3	=	0;
 	unsigned char	dT_Q;
-	dT_Q	=	-1766788408;
+
   unsigned long  m0c9gI;
   m0c9gI  =  -1266965126;
     short int    z5szR;
@@ -59,7 +59,7 @@ int main(int argc, char** argv)
   unsigned short  BnrD6;
 
     unsigned short int    kL0lhj0Iy;
-    kL0lhj0Iy    =    -2028312462;
+
  float E48tv2um;
  E48tv2um = 1262208846;
 	short int	GhkPU;
@@ -169,7 +169,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-iHmQ = w010kW8 / TN_495DOz;
+
 break;
 }
 

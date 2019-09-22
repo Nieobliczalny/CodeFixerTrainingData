@@ -28,7 +28,7 @@ if ((PkKL6y7Ug <= -1848624820) && ((U95RDEkPU <= xU00mTTiw7) && (z_9sd < -179421
 int j = 2;
 while (j >= 0)
 {
-wxSTmjfJgj = (unsigned char)(QHRZb8);
+
 j--;
 }
 }
@@ -56,7 +56,7 @@ if (WgN_ != ob1y_B)
 }
 else if (z8wG < ug8Wp)
 {
-MZs_6 = (unsigned char)(fe0S);
+
 }
 else if (Qh881371C > 1552006750)
 {
@@ -70,7 +70,7 @@ for (int k = 0; k < 7; ++k)
 }
 else
 {
-ILINiLfP = (unsigned char)(WgN_);
+
 }
 try
 {

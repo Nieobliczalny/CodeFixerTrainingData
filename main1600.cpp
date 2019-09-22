@@ -78,7 +78,7 @@ B89e_8A = (int)floor(gjAf6r);
 
 
 
-xFxDXdH32d = (unsigned short int)(Z1Ap);
+
 nhA543BwD = bctW4L0 << 331685791;
 if (O71JCKW69G)
 {
@@ -149,7 +149,7 @@ ejg8_Vbp3j ^= 408926145;
 }
 
 
-zIOQ = qx2RkBDv3 / er7scN_8o();
+
 switch (rFO5Gu)
 {
 case 0:
@@ -162,7 +162,7 @@ case 2:
 
 break;
 case 3:
-a13TQ = (int)ceil(gjAf6r);
+
 break;
 case 4:
 yO1d88 = er7scN_8o();

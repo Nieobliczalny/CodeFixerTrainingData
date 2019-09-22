@@ -31,7 +31,7 @@ int main() {
 	long long	D55Ar;
 
     unsigned long    DnQsk6;
-    DnQsk6    =    277073400;
+
   unsigned char  S_0Y;
   S_0Y  =  -609868208;
  double j82_VFrar;
@@ -49,7 +49,7 @@ int main() {
   unsigned char  iSp2;
   iSp2  =  688871680;
 	double	O1NZWi226p;
-	O1NZWi226p	=	-1367901091;
+
     long double    mH_p77055;
     mH_p77055    =    1839803229;
  unsigned short Eu_1lW4L;
@@ -59,7 +59,7 @@ int main() {
 	char	fZ35;
 
     unsigned char    q1l1fnq;
-    q1l1fnq    =    -1631965451;
+
     double    PEMb;
     PEMb    =    1490796463;
  long long o6OcaIZUeS;
@@ -79,7 +79,7 @@ int main() {
 	int	GSK7CNc2;
 	GSK7CNc2	=	529768649;
 	short	l213QyO;
-	l213QyO	=	-1729932445;
+
   unsigned int  BQn7;
   BQn7  =  -1189735523;
     unsigned int    zf7ebr;
@@ -91,7 +91,7 @@ int main() {
 	unsigned short	A9vSVVJ;
 	A9vSVVJ	=	638331825;
   unsigned short int  TAXi4Z23;
-  TAXi4Z23  =  -1784782608;
+
  unsigned int cz1Id81I;
  cz1Id81I = 533674383;
   double  L8EN;
@@ -141,7 +141,7 @@ int main() {
  unsigned short int npT99N2_;
  npT99N2_ = -741952543;
   unsigned short  Q9mIy2oA_;
-  Q9mIy2oA_  =  320698352;
+
   unsigned long  u1_QP;
   u1_QP  =  678924560;
   unsigned char  BxoYji4a4;
@@ -153,7 +153,7 @@ int main() {
   unsigned long long  hE5T;
   hE5T  =  1135240322;
     unsigned int    fJra373;
-    fJra373    =    -91752409;
+
  unsigned short int xH381_u3T;
  xH381_u3T = -2104852125;
   double  D9A33292l;
@@ -179,7 +179,7 @@ int main() {
   short  IH_M22D1VG;
   IH_M22D1VG  =  -818171219;
   long  psT5k6w0;
-  psT5k6w0  =  -1322962677;
+
     long    hkW5L;
     hkW5L    =    906630747;
   long  q9KkN_4M;
@@ -457,7 +457,7 @@ while (k >= 0)
 }
 else
 {
-W48y = (int)abs(SpR_);
+
 }
 }
 if (IriaQ2m1Bj > EDJ9)
@@ -481,7 +481,7 @@ case 0:
 
 break;
 case 1:
-W48y = (int)abs(mpZZB);
+
 break;
 case 2:
 q9KkN_4M = z_EZ6_3z4w();
@@ -500,7 +500,7 @@ if (f8P4A)
 }
 else if ((npT99N2_ & EDJ9) && (ER6y3vZ2X > j82_VFrar))
 {
-mkRcH1 = (int)ceil(OO_9cd);
+
 }
 else if ((npT99N2_ & vIg3I2As3) && (P562s1c8 & pWjq6))
 {
@@ -534,7 +534,7 @@ if (f8P4A != 1506272513)
 }
 }
 
-s1Y4 = (int)abs(CZiqLZ);
+
 switch (tvwoefZL_4)
 {
 case 0:
@@ -547,7 +547,7 @@ case 2:
 
 break;
 case 3:
-mpZZB = z_EZ6_3z4w() >> 859542789;
+
 break;
 case 4:
 D9A33292l = (int)floor(XQZG);
@@ -565,7 +565,7 @@ case 8:
 q9KkN_4M = z_EZ6_3z4w();
 break;
 case 9:
-OO_9cd = (int)ceil(Fq2ceb6);
+
 break;
 default:
 cZM2EvET18 = z_EZ6_3z4w();

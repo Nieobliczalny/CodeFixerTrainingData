@@ -30,6 +30,7 @@ int main(int argc, char** argv)
         // codechecker_intentional [deadcode.DeadStores] Design rule - initialize all variables
 		nBnk9NK9    =    F89wZ3    =    cPOWiWT    =    h57w    =    aC4p9l3    =    Lv505Q    =    Hu55_3hw    =    KzIWHJVG0    =    C_6O8K_2W    =    IirnCCdH1d    =    O6As43    =    M_rTx1O    =    nLBC    =    q5IP8W50j    =    NmU0FrK    =    aSRKCCrP    =    r9W4    =    p7835    =    M_3AOAL_    =    ww9Ql    =    S74piQ9    =    RRvKw    =    vZMGr    =    wk_u8eL    =    Ms4tJ3oc2    =    RZU6x    =    F2xA7X4h9    =    pNstLong    =    OwpFtdGk    =    Oj7HzO3    =    KD2QrI3w    =    e24LbA    =    DOsHcUPG    =    h60Yb63    =    PoRZ1    =    Rn10_    =    X871_FuY3    =    hL8nLiq    =    t_YGX    =    viP5lZO3y    =    e42_a    =    FR30qeo    =    OWvMY33    =    s1_j    =    bv09EFr04b    =    bnJtt9    =    Z5hh5Mm    =    WJ1s    =    RCHr    =    lj6Nl    =    uR7X36bj    =    Q9HkoA    =    rl84    =    wSAZ4    =    wmaL56    =    d_PGT    =    AulbH8Idz    =    o8M58g5n    =    WC3l4I49    =    R7tS7W4_1Q    =    qahKpvzIKJ    =    A9Q65    =    K0Q2s81EmH    =    lrvk5h3    =    oRUGCO    =    XK0L0J3AV    =    hx4JMK    =    E_38    =    bt0td    =    t_o8jg_    =    CLT49O4I5    =    AWt7Rb    =    A5mFS    =    -1605167313;
  unsigned char OMmazI, EeF9NF;
+  // codechecker_intentional [deadcode.DeadStores] Design rule - initialize all variables
   OMmazI = EeF9NF = 0;
 
 switch (EeF9NF)

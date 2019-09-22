@@ -91,7 +91,7 @@ break;
 while (i < 3);
 }
 
-x6O0 = Yp1z6(-1487838370, kX89, 211135146);
+
 switch (R3sYi3)
 {
 case 'a':
@@ -101,7 +101,7 @@ case 'b':
 IvC8dlN4K2 = (int)ceil(Kt1yVM);
 break;
 case 'c':
-EtSWiaO = (int)floor(fxmUn1);
+
 break;
 case 'd':
 n6_14UR3 = (int)ceil(fxmUn1);
@@ -113,7 +113,7 @@ case 'f':
 orE1cF = (int)abs(f5BZu);
 break;
 case 'g':
-pAVkRk9OfU = JQ2C4kI(pAVkRk9OfU);
+
 break;
 case 'h':
 n6_14UR3 = JQ2C4kI(n6_14UR3);

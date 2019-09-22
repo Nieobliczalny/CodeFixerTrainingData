@@ -233,7 +233,7 @@ RctsV_ = (int)ceil(J6c7OV);
 
 M3b907cIy4 = (int)floor(v_0Z8NeF6);
 
-s2zMC1dR = (int)(x7rZ0__J * s2zMC1dR);
+
 
 if (hkhx2Uf_ == -1082306160)
 {

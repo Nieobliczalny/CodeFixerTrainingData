@@ -64,7 +64,7 @@ int main(int argc, char** argv) {
  long long guYlOAE_, IjE0, vrR_q9pp;
  guYlOAE_ = 0;
  IjE0 = 0;
- vrR_q9pp = 0;
+
 
 C_P6M = MXae >> Q8WoZB9;
 
@@ -334,7 +334,7 @@ MXae &= DpI80z;
 
 if (L_R2KV >= -787558843)
 {
-Jj7JhagG /= 2142407802;
+
 }
 else if (LSoc6o_ >= diTZ)
 {
@@ -469,7 +469,7 @@ case 2:
 guYlOAE_ = OLy_37Y3(LSoc6o_, jj09m, guYlOAE_);
 break;
 case 3:
-Jj7JhagG = (int)abs(BR71CvZ8);
+
 break;
 case 4:
 diTZ = (int)abs(jj09m);
@@ -584,7 +584,7 @@ OtE3O = IKDF0N8 & H3WLWO;
 }
 else
 {
-IjE0 = OLy_37Y3(1439626634, 263267678, 292682231);
+
 }
 }
 else if (fE85qN54Sq <= nh1r62)
@@ -681,7 +681,7 @@ case 2:
 lr341p = (int)abs(zD_KSg3);
 break;
 case 3:
-mH0kP731_ ^= Pa1X7p;
+
 break;
 default:
 
@@ -692,7 +692,7 @@ break;
 std::cout << "xT0_9OgLJS" << std::endl;
 if ((F7hhrUmWX9 < IKDF0N8) && ((OtE3O > N_hhm) && (nh1r62 > lr341p)))
 {
-VjQI95vC = (int)(G138);
+
 }
 else
 {
@@ -710,7 +710,7 @@ while (j >= 0);
 }
 }
 
-MXae = (int)(G138);
+
 
 fE85qN54Sq = (int)(IKDF0N8 + (1685399856));
 

@@ -23,7 +23,7 @@ int main() {
  short HOnoc8s622;
  HOnoc8s622 = 1439488364;
     short int    ODcWo6z;
-    ODcWo6z    =    -1211873344;
+
   short  W29RtQc_;
   W29RtQc_  =  1998440455;
   char  Y7jC_9h8;
@@ -35,7 +35,7 @@ int main() {
     short int    G4rd6;
     G4rd6    =    240865808;
 	unsigned long	ZFl4hI4g;
-	ZFl4hI4g	=	0;
+
     unsigned char    x5aE7_8Y;
     x5aE7_8Y    =    114539694;
  unsigned char U1y_FX;
@@ -59,7 +59,7 @@ int main() {
   double  OdqE2;
 
   char  A2p89RE;
-  A2p89RE  =  2001086890;
+
  double Ef43xwM8P;
  Ef43xwM8P = -2063973674;
  unsigned long long t5NS;
@@ -69,7 +69,7 @@ int main() {
     long    boIj;
 
     float    e0UcuY;
-    e0UcuY    =    266558532;
+
     short int    QI_1_yx1Dt;
     QI_1_yx1Dt    =    919819474;
     long long    jmcCGmk2;
@@ -79,7 +79,7 @@ int main() {
   long long  Wo5m7yl;
 
  long double Bz3hVAaDk;
- Bz3hVAaDk = 320700755;
+
     long long    h5H_7;
     h5H_7    =    0;
     unsigned char    fRne;
@@ -93,7 +93,7 @@ int main() {
 	int	w_5B_5pO;
 
 	unsigned long	ryid929Y;
-	ryid929Y	=	-877623181;
+
   double  jgJknZ;
   jgJknZ  =  1821684554;
     unsigned char    n94Fyy83Cn;
@@ -107,7 +107,7 @@ int main() {
     float    F6hND;
 
     unsigned short    Rh7U3H1;
-    Rh7U3H1    =    -31179629;
+
  unsigned long long DNo_xT6;
  DNo_xT6 = -1412966754;
     long long    O08S1MB;
@@ -117,7 +117,7 @@ int main() {
     unsigned long long    JyqiNY__k;
 
   long  c5l78w7pL;
-  c5l78w7pL  =  690330765;
+
     long    rrtf;
     rrtf    =    0;
     float    FO1G2LUu;
@@ -129,7 +129,7 @@ int main() {
  char FqYA00;
 
 	unsigned short int	g27CRSsO;
-	g27CRSsO	=	-1838743092;
+
     unsigned char    QIh2;
     QIh2    =    415949696;
  unsigned int sHPryC;
@@ -178,7 +178,7 @@ else
 }
 }
 
-ZFl4hI4g = C25xXF2R0U(-64785767);
+
 
 tAFfx = (int)floor(Ef43xwM8P);
 
@@ -197,7 +197,7 @@ FO1G2LUu = (int)ceil(QA6Nfz);
 }
 }
 }
-h5H_7 = (long long)(jYXzw * (FG541));
+
 HyOf3_5T = (unsigned long long)(HOnoc8s622);
 if (uv9JJA6tZC < 1458749811)
 {
@@ -209,7 +209,7 @@ if (O08S1MB & -1247776305)
 {
 for (int k = 0; k < 10; k++)
 {
-zfiN7V = C25xXF2R0U(753329774);
+
 }
 }
 }

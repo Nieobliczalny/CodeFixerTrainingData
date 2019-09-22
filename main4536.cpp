@@ -79,7 +79,7 @@ break;
 switch (QZ4bG4Aw)
 {
 case 'a':
-Xgf7e = mgo5P9(Xgf7e, Fm4U0At9, -471238319);
+
 break;
 case 'b':
 J4i5i /= 1354546414;
@@ -314,7 +314,7 @@ case 1:
 z4f9 = mgo5P9(1118108024, 1760496933, LgryA7_);
 break;
 case 2:
-h9iy = (int)abs(b7Dm6I2FMq);
+
 break;
 case 3:
 b6zbd86g = SaoDid(887266878, 1676443973);
@@ -329,7 +329,7 @@ case 6:
 
 break;
 case 7:
-uKExA7Z = mIs9sJ49V4 >> z8p5X5lq2j;
+
 break;
 case 8:
 BZCb = kox3(BZCb, -52070734);
@@ -361,7 +361,7 @@ case 0:
 
 break;
 case 1:
-rtuyAi = gXi6_brVH9(rtuyAi, q5VZ1u, -1818615561);
+
 break;
 case 2:
 LgryA7_ = (int)abs(rtuyAi);

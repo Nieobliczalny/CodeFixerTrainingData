@@ -42,7 +42,7 @@ int main(void)
  UqtcOQ = -2048865824;
 
  ystsDg_SdG = 1155526260;
- W7CQ = -1134780396;
+
  J4b8 = 1361937783;
  SK75_ = 490407580;
  EEgl = -1525923694;
@@ -52,7 +52,7 @@ int main(void)
  I9hv = 618612790;
 
  dgR2_ = -1404776935;
- ic7iMkWIMb = 722840751;
+
  Li_398_J7N = 1773898828;
  F928tXu9IH = -1985491190;
  CE2ok08 = -610072327;
@@ -62,7 +62,7 @@ int main(void)
  M2F3 = -99445738;
 
  O7ot = -1645200967;
- D2N09nGyE1 = 649692873;
+
  GM37b1V = -1011204354;
  fdI94z3 = 1632636574;
  P_6TeMTEG = -1808614877;
@@ -75,7 +75,7 @@ int main(void)
  hlgGVL = -530605658;
  d_G_C = -1330719021;
  e3Hg2174 = -1033623006;
- xYen = 1637313841;
+
  GK0ApT = 675762218;
  VH_b86F = 405099454;
  NKfcY5u3g = -2110948558;
@@ -87,7 +87,7 @@ int main(void)
  D0tvZFTO = 268418859;
  UM2uoV = -1432977278;
  yUBiVJ = -1935782414;
- Mkc8l = -99343440;
+
  z7_M = 1310830243;
  Bj51q69 = 1216833075;
  D2qOiOmVw = 2111522369;
@@ -174,7 +174,7 @@ case 1:
 
 break;
 case 2:
-U2It_0wu6Y = (int)ceil(UqtcOQ);
+
 break;
 case 3:
 EEgl -= iK_44r;
@@ -227,7 +227,7 @@ if ((KRxWWs6H1 & -629813354) && (kmj7_LSD1V >= -1986818621))
 switch (KRxWWs6H1)
 {
 case 0:
-R90T_c1E = e8oC4mQ9();
+
 break;
 default:
 Li_398_J7N = zV2Y / N8b7i_IJPE;
@@ -244,7 +244,7 @@ O7ot *= 347162635;
 
 lVrjN59If = (int)floor(F928tXu9IH);
 
-r6LWH1o = (long double)(L51uVU2Ubn + (-338210987));
+
 try
 {
 if (fdI94z3 <= pC93vD)
@@ -270,7 +270,7 @@ case 'a':
 
 break;
 case 'b':
-kk6t8y_ = oP8QBbP(333994600, Li_398_J7N, ystsDg_SdG);
+
 break;
 case 'c':
 fdI94z3 = u66_B(fdI94z3, -1783324891);
@@ -291,7 +291,7 @@ case 'h':
 F_74JmJ7 = (int)abs(kk6t8y_);
 break;
 case 'i':
-yUBiVJ *= yau5;
+
 break;
 case 'j':
 
@@ -324,7 +324,7 @@ while (j < 3)
 }
 while (i >= 0);
 }
-kmj7_LSD1V = (long double)(L51uVU2Ubn + (1279242049));
+
 {
 int i = 0;
 while (i < 8)
@@ -351,7 +351,7 @@ case 0:
 
 break;
 case 1:
-F_74JmJ7 = oqcr * UqtcOQ;
+
 break;
 case 2:
 U03hj3 = (int)floor(F_74JmJ7);
@@ -363,7 +363,7 @@ case 4:
 
 break;
 default:
-r6LWH1o = (int)ceil(yau5);
+
 break;
 }
 

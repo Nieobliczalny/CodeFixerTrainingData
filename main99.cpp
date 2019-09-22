@@ -44,7 +44,7 @@ int main()
 	short int	DM_7_B;
 	DM_7_B	=	-71657228;
 	unsigned long	c1iDzGKYd;
-	c1iDzGKYd	=	-503806976;
+
     short int    AC1H119;
     AC1H119    =    627107994;
     char    D1t4;
@@ -108,7 +108,7 @@ int main()
  long long W6qiq;
  W6qiq = 19111207;
  float m4A_;
- m4A_ = 1903090733;
+
   double  Q_66P_95;
   Q_66P_95  =  20245865;
   int  OQTZfG_o2a;
@@ -390,7 +390,7 @@ if (wGUGg8Ci == HJ_udC93Xi)
 }
 else if ((i8bfT8G1 == -443568362) || (WlCqRG46 < 258172875))
 {
-q_17Gr = i8bfT8G1 * K01ZBkPfWO;
+
 }
 else
 {
@@ -404,7 +404,7 @@ else
 }
 else
 {
-nfKFVqI = (int)floor(Q_66P_95);
+
 }
 
 std::cout << "o5pRS8G" << std::endl;

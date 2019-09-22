@@ -559,7 +559,7 @@ i--;
 }
 
 std::cout << C47L7 << QI38yRuun(KzXC, v0t3g8) << ylcR5TgZx(KzXC, 373606105, kwM4m, JntbTr0) << kwM4m << std::endl;
-ftJZX9Flw = ylcR5TgZx(931739165, 1400179759, 1978824613, -392699046);
+
 
 if (JntbTr0 != C47L7)
 {

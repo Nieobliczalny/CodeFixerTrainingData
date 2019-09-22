@@ -401,7 +401,7 @@ if (mE54IB5 > 1562573470)
 switch (rf09y9)
 {
 case 'a':
-C2_EG7JR7T ^= Tbq7Fb3kU;
+
 break;
 case 'b':
 
@@ -413,7 +413,7 @@ case 'd':
 rf09y9 = (int)abs(mE54IB5);
 break;
 case 'e':
-C2_EG7JR7T |= 2058443332;
+
 break;
 case 'f':
 

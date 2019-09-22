@@ -48,7 +48,7 @@ j++;
 
 YWyTJc = (int)abs(dcsMB7de) + (378034754);
 
-XHv_vjMB7 = (char)(YWyTJc * XHv_vjMB7);
+
 return 0;
 }
 

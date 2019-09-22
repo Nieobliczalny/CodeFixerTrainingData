@@ -31,7 +31,7 @@ int main(void)
   E7G1NgRo5  =  -921024773;
   zGSw1  =  384923841;
 
-  NrD_4  =  1915655440;
+
   Iw5xRI4XJK  =  -1496202674;
   uq35ci  =  1474944800;
   QKO8f9fK3  =  -1585945857;
@@ -297,7 +297,7 @@ else
 {
 std::cout << acmfV3IfeC(-1084887367, -361442246, tlX7iI, 558209966) << acmfV3IfeC(775990558, 75483111, 291523186, 2064934315) << "UMv9B5dn" << std::endl;
 }
-pU89zJ_y9V = (int)abs(pi90);
+
 
 try
 {
@@ -323,7 +323,7 @@ k--;
 }
 else
 {
-ktW3p = de5sp5_ * dj_Jk;
+
 }
 C3Usp = b7e_y4zW(1345470754, -779167782);
 {

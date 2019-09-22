@@ -55,7 +55,7 @@ atH0W0fS = xAt7(2099330663, -9817222, q2_KyCh3c);
 }
 if (vI9G2o77cF)
 {
-w6WH10n = (short int)(aa23d);
+
 }
 
 {
@@ -95,7 +95,7 @@ switch (xba4a)
 {
 case 'a':
 case 'A':
-XKxN0 *= vI9G2o77cF;
+
 break;
 case 'b':
 case 'B':

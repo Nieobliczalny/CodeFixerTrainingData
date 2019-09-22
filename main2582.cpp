@@ -117,7 +117,7 @@ int main(void)
 	char	CS2ZaSEm9;
 	CS2ZaSEm9	=	95985787;
   char  Q9rMbn2;
-  Q9rMbn2  =  -753844331;
+
 	double	Z9BQAI;
 	Z9BQAI	=	1942631038;
 	double	KYeSuX;
@@ -192,7 +192,7 @@ int i = 0;
 do
 {
 i++;
-Bk6bKq = (double)(Cfq3VlRs0);
+
 }
 while (i < 8);
 }
@@ -218,7 +218,7 @@ KZxRg = (int)floor(Ba1V_);
 }
 else if (iN8hcaEe8k != -350429542)
 {
-Q9rMbn2 = (int)abs(aKw83L3yjY);
+
 }
 else if (((pYW9 & ZGou) && (RcOjGF6 <= -682109246)) && (N_3953Pf > M5LA8z))
 {
@@ -547,7 +547,7 @@ EMi4Zlb__ = SEzs6x * 851754292;
 }
 else if (ANzBFIUG >= u3Ing)
 {
-SZA1R46Bz = m1ry & 1566886345;
+
 }
 else if (SEzs6x & N_3953Pf)
 {
@@ -588,7 +588,7 @@ U9O61N ^= kjHS;
 }
 else
 {
-Bk6bKq = (int)ceil(S3JoW2__8);
+
 }
 }
 }
@@ -625,7 +625,7 @@ Ba1V_ = (int)ceil(EMi4Zlb__);
 break;
 case 'g':
 case 'G':
-Bk6bKq = PMV2h();
+
 break;
 case 'h':
 case 'H':
@@ -637,7 +637,7 @@ case 'I':
 break;
 case 'j':
 case 'J':
-Bk6bKq = (int)ceil(KYeSuX);
+
 break;
 }
 
@@ -688,7 +688,7 @@ case 3:
 c8cxTQw = (int)ceil(T92g);
 break;
 case 4:
-DLH30z5Vs3 = (int)floor(itB3kQ09tR);
+
 break;
 }
 std::cout << PMV2h() << "iaq_y" << "GH1kM" << std::endl;
@@ -747,7 +747,7 @@ T92g = copU63fXdh / 975523633;
 }
 else if (jmcfn_Fy59 & 165932846)
 {
-JUJqT1Po = ANzBFIUG * 1196820631;
+
 }
 else if ((EMi4Zlb__ == U9O61N) || (Xj7Vhh == 1699230485))
 {

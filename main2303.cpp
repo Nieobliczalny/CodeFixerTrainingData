@@ -24,7 +24,7 @@ int main(int argc, char** argv) {
 	long double	nx9Rz49d;
 
  long double Dc2Ipx2;
- Dc2Ipx2 = 613356107;
+
 	long long	NI1K4;
 	NI1K4	=	-1921865675;
     unsigned char    Q0G1szGUg;
@@ -85,7 +85,7 @@ case 3:
 oiWqjWuO8 = (int)abs(zb01);
 break;
 case 4:
-Dc2Ipx2 = (int)ceil(s9700vw9s);
+
 break;
 case 5:
 Q0G1szGUg = X_j2WOvO8 ^ 1303685156;

@@ -149,7 +149,7 @@ else
 }
 }
 Etl4FWa4 = R1c9b(-2023420913);
-v_0rt = (char)(Kf2vk);
+
 v_0rt = MYhnFc1eA(1842451905, o6lX7ID, B2nz6Ap, Y_8IH3);
 
 Ap7l3 ^= 503117791;
@@ -364,7 +364,7 @@ else if (zD87Z == 1574124083)
 }
 else if (gJcVR47 >= m67o)
 {
-X3xK = (zD87Z & X86v5yA) ? Kf2vk : R1c9b(2043306457);
+
 }
 else if (tyod == 511411127)
 {

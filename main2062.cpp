@@ -125,7 +125,7 @@ case 3:
 W28Mo &= 1433577555;
 break;
 case 4:
-hcN9RZuJ = TsUP ^ 236343921;
+
 break;
 case 5:
 j3zF = R_s23D67x5(S4fMq3Y);
@@ -172,7 +172,7 @@ break;
 vLbglupz8 &= 527760209;
 for (int i = 9; i >= 0; --i)
 {
-hcN9RZuJ = (char)(TsUP);
+
 }
 lX0RnDS5 = hJ3Y / R_s23D67x5(weH2zC8);
 
@@ -239,7 +239,7 @@ hJ3Y = (int)abs(lW0FU67a);
 break;
 case 'e':
 case 'E':
-vLbglupz8 = zqq9();
+
 break;
 case 'f':
 case 'F':
@@ -251,7 +251,7 @@ case 'G':
 break;
 }
 W28Mo--;
-YJ48 = zqq9();
+
 
 {
 int i = 0;
@@ -284,7 +284,7 @@ case 0:
 
 break;
 case 1:
-wQa3z = zqq9();
+
 break;
 case 2:
 weH2zC8 = TIV1D2w(2078132520, -780582639, j3zF);

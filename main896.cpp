@@ -37,7 +37,7 @@ int main(void) {
  fc0HX = 1745094595;
  qSGOk1 = 1987171027;
  n_tdf = 873473743;
- xZfs9b = 1495213691;
+
  kRPp4 = -1314593984;
  pX4T_S1Y = -127032891;
  Fquh = -2140609630;
@@ -603,7 +603,7 @@ if (NMCQu9v3N < 1158762793)
 }
 else if ((TKG0HwXw6q == -473573727) || (n_tdf < MXTKEnGTC))
 {
-n_tdf = skhXoBszu();
+
 }
 else if ((spF_41 >= r_3W_) && ((NMCQu9v3N < TKG0HwXw6q) && (l03WNP2P9 & -130212190)))
 {
@@ -645,7 +645,7 @@ case 4:
 kRPp4 = (int)abs(eEOw_);
 break;
 case 5:
-fc0HX /= 2102930127;
+
 break;
 case 6:
 
@@ -656,7 +656,7 @@ else
 {
 if (H5fsXP0a9 <= pX4T_S1Y)
 {
-Fquh = skhXoBszu();
+
 }
 else if (Fquh > 510949733)
 {
@@ -706,7 +706,7 @@ std::cout << n_tdf << "uQ78" << nK5D00Q1r << skhXoBszu() << std::endl;
 }
 else if ((l03WNP2P9 & -2124907177) || (g0BA != H5fsXP0a9))
 {
-Fquh = (int)floor(fc0HX);
+
 }
 else if (qSGOk1 != mb6Qf9GmAe)
 {
@@ -764,7 +764,7 @@ switch (H5fsXP0a9)
 {
 case 'a':
 case 'A':
-pX4T_S1Y = xZfs9b - 1334113612;
+
 break;
 case 'b':
 case 'B':

@@ -111,7 +111,7 @@ case 1:
 
 break;
 case 2:
-Y0Y4 = (int)abs(R4_A2x0OR);
+
 break;
 default:
 Ps8857sY7 = (int)abs(Vk6lUo);

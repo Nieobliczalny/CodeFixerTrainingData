@@ -50,7 +50,7 @@ int main(int argc, char** argv) {
   long long  bjYxna;
   bjYxna  =  1050367542;
 	long long	UTpg;
-	UTpg	=	1402451467;
+
  int rhi4ZVg9E1;
  rhi4ZVg9E1 = 134357781;
  long POfT0J26;
@@ -462,7 +462,7 @@ if (S0k0s)
 }
 else
 {
-CI_m = RT2722 * 792776344;
+
 }
 }
 else
@@ -507,7 +507,7 @@ j9l2Z = KXU2 % f_tZw;
 break;
 case 'f':
 case 'F':
-c65sPn += y7X3QUvV;
+
 break;
 case 'g':
 case 'G':

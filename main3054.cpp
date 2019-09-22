@@ -180,7 +180,7 @@ uKTxq = (int)floor(XN7gwwNEG);
 switch (G58_tU)
 {
 case 0:
-X9ZgY7kA6 = tKRy2blTJ(X9ZgY7kA6);
+
 break;
 case 1:
 XN7gwwNEG -= W6_68QP;
@@ -346,7 +346,7 @@ case 3:
 OrRzx >>= JQiIviI;
 break;
 case 4:
-iUy86oFQ = B_JE5k(-597291829);
+
 break;
 case 5:
 
@@ -444,7 +444,7 @@ case 2:
 j8Diog = B_JE5k(JQiIviI) >> qa7tkuiv;
 break;
 case 3:
-zaxPj %= 173903819;
+
 break;
 default:
 iUy86oFQ = B_JE5k(1532188121);

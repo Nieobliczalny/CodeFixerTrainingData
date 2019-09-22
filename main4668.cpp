@@ -712,7 +712,7 @@ case 'c':
 l9lZlN = (int)abs(Mavl) + (299535346);
 break;
 default:
-A9hf_pS_lZ = (int)floor(iFZ1u_Y4F);
+
 break;
 }
 }
@@ -736,7 +736,7 @@ catch (int& errorCode)
 iFZ1u_Y4F = (int)floor(G_6ja3);
 }
 }
-tyDj6 >>= JwF5M1;
+
 
 return 0;
 }

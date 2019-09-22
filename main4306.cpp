@@ -189,7 +189,7 @@ while (i < 1)
 int j = 0;
 while (j < 6)
 {
-B4M_heot49 = (short int)(exML);
+
 j++;
 }
 }
@@ -239,7 +239,7 @@ case 1:
 h9_0U = (int)ceil(M7VECBnDb0);
 break;
 case 2:
-kx58t = Kh2Z_(501525104, HZ6SW);
+
 break;
 case 3:
 E_O32k5_ = qnvEclcJ(-278932907) | 1976076916;
@@ -279,7 +279,7 @@ i++;
 }
 }
 
-nKg1v3 = E_O32k5_ & 295163305;
+
 
 if (((orfbDI & -2040135137) && (TG3VQ > Mpsozf)) || ((M7VECBnDb0 > Z6G96) && (CD788)))
 {
@@ -291,7 +291,7 @@ if (((M7VECBnDb0 >= w84ef4nvha) || (LWkXlnTOX >= 1197567124)) && (E83y6d2 != TG3
 }
 else if (E3__rnn != 1883832316)
 {
-HZ6SW = Kh2Z_(HZ6SW, -1051336208);
+
 }
 else if (EE_BJwC < 2022302460)
 {
@@ -322,7 +322,7 @@ case 'B':
 
 break;
 default:
-V2UFB6Uv = (int)floor(x3R44);
+
 break;
 }
 }

@@ -309,7 +309,7 @@ if (AX_0WQe >= -1229431807)
 {
 if ((rXiLG6Bquy) || (h08_ne1X & kWfmR8yS))
 {
-AX_0WQe &= 890301148;
+
 }
 else
 {
@@ -415,7 +415,7 @@ lb9V8Jl16 |= T14E9;
 }
 else if (SMGdo2 & YR5SGHzac)
 {
-gFD1 |= 1696453251;
+
 }
 else if (lb9V8Jl16 == YR5SGHzac)
 {

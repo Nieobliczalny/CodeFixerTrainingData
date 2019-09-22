@@ -89,7 +89,7 @@ i++;
 while (i < 5);
 }
 
-x_zws = f__xzW(jzEx6B9, feZ24tWT5, -1250824683, 409560314) % 608022763;
+
 try
 {
 switch (CK144i)
@@ -104,7 +104,7 @@ case 2:
 
 break;
 case 3:
-G9_7zd_2 = feZ24tWT5 / 217093779;
+
 break;
 case 4:
 dee671ffV2 = bEUL6(-948263261, 1890027432);
@@ -122,7 +122,7 @@ catch (int& errorCode)
 at037z75t *= 1816584508;
 }
 
-d_K2QrxO = (int)abs(pdSPpvJILO);
+
 
 return 0;
 }

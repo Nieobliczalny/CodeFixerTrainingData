@@ -198,7 +198,7 @@ switch (Jo15py)
 {
 case 'a':
 case 'A':
-haRM6_5 <<= 70149437;
+
 break;
 case 'b':
 case 'B':

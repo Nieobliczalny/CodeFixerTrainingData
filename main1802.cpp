@@ -47,7 +47,7 @@ int main(void) {
  double j8yEJCR;
  j8yEJCR = -2142245829;
     unsigned int    vcN0O;
-    vcN0O    =    -1733220186;
+
   int  ChHZ6;
   ChHZ6  =  -1479151042;
   char  TF_ECvPL;
@@ -753,7 +753,7 @@ if (cT95vZv)
 switch (AK4_pfsW1)
 {
 case 0:
-r0yt |= NM2Ss8;
+
 break;
 case 1:
 c9RK0m = tx4x64MN_() & RUA0L73g51;
@@ -1022,7 +1022,7 @@ else
 {
 if (xWESmO6 < 1622324261)
 {
-nqQ6b1D1W *= 1157635864;
+
 }
 else
 {
@@ -1047,7 +1047,7 @@ case 'b':
 
 break;
 case 'c':
-yVfJiZf9s = tx4x64MN_();
+
 break;
 case 'd':
 yVfJiZf9s = tx4x64MN_();
@@ -1062,7 +1062,7 @@ case 'g':
 
 break;
 case 'h':
-Wdjfn50q *= AK4_pfsW1;
+
 break;
 }
 }
@@ -1082,7 +1082,7 @@ hFw4I41 = tx4x64MN_();
 switch (yITUM7)
 {
 case 0:
-VjIxo = RUA0L73g51 + J64ZqHA33;
+
 break;
 }
 {

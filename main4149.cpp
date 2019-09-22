@@ -26,7 +26,7 @@ int main(void)
 
 v32kUt = L2DucofLJ(596811380, 941935981, WcR3);
 
-D4T5v4_ = Xh8QVSF0k | 874935046;
+
 if (L2DucofLJ(-1128089611, 1975263579, -172289344) == 0)
 {
 	Tz2P5 = d2It17 / L2DucofLJ(-1128089611, 1975263579, -172289344);
@@ -119,7 +119,7 @@ case 'd':
 Hhn3_ = Fk8DePzV(1895214756, 1866683004, aLhNOMZ_5Z);
 break;
 case 'e':
-Htkl3IFi = LeN4 % 2099135807;
+
 break;
 case 'f':
 v32kUt = L2DucofLJ(Z7sblmgQEJ, 1787897952, -1102074020);
@@ -165,7 +165,7 @@ break;
 }
 try
 {
-Hhn3_ <<= l1RlAWu25n;
+
 }
 catch (int& errorCode)
 {

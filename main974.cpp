@@ -231,7 +231,7 @@ case 'e':
 
 break;
 case 'f':
-iGV6fD2qo = (int)floor(CCG0);
+
 break;
 case 'g':
 b8EC6J = UnsOV(L_Gk9_sA5, -741381526, -826308588, L5K2Uhv, w7veH0u);
@@ -429,7 +429,7 @@ int j = 0;
 do
 {
 ++j;
-Ws2p40Qo3 = (LJ5KC >= 1978556853) ? -1574225641 : UnsOV(p1D2BNL0_, 13592377, b8EC6J, 1137615238, h2TJh);
+
 }
 while (j < 6);
 }
@@ -450,7 +450,7 @@ L_Gk9_sA5 = b_MRZ9hf * sgfTz6iMy;
 break;
 }
 }
-fO6L5inW = (int)abs(oO12Hz17);
+
 t5RmUz46L = (int)floor(Ujr1xyl9W7);
 return 0;
 }

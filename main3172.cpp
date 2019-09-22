@@ -41,7 +41,7 @@ int main(void)
 
 N5m2h_KF1 = sAJ9jCf_ / sAJ9jCf_;
 
-g9AXhOu = Q83os9(g9AXhOu);
+
 
 o90n8jQCE = (float)(sAJ9jCf_ + (-1288275820));
 

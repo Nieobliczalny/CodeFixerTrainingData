@@ -17,7 +17,7 @@ int main() {
     C0R3D442l5    =    374650486;
     P3U9_8z1    =    -1677630026;
     R6F3mFr    =    1862458716;
-    B8mmR36YA    =    -1925936071;
+
     B7Wr0fM7y    =    -1907465496;
     M1GHZjCK    =    1415409061;
     Keav6Zxik0    =    -172946943;
@@ -27,7 +27,7 @@ int main() {
     f0Oi    =    412637246;
     M5Py2E7b    =    1861326764;
     sGXNN    =    -1432401555;
-    GTRE    =    -1018369277;
+
     zNJ58s6b1V    =    -1016508998;
     tlm0c    =    -2076150188;
     t93V    =    -1022278663;
@@ -46,7 +46,7 @@ int main() {
     C5wxI    =    -228941736;
     gY752m    =    -48733019;
     G3v1C    =    -688122141;
-    t7C57e    =    614994974;
+
     r_z8    =    -2039247236;
     l8b0    =    441463691;
     yZkk7CSk    =    -1639479218;
@@ -80,7 +80,7 @@ case 'e':
 
 break;
 case 'f':
-B8mmR36YA = (M1GHZjCK == K5jY_l2) ? -713957391 : YaF1uw;
+
 break;
 case 'g':
 hwzhjH5a_ = (P3U9_8z1 == YaF1uw) ? 954644518 : g_10f2;
@@ -129,7 +129,7 @@ case 'd':
 
 break;
 case 'e':
-GTRE = (A97m7t <= -116863643) ? 2102649832 : Hc_TM6in7;
+
 break;
 case 'f':
 iT1tdw8rod = f0Oi - zNJ58s6b1V;
@@ -164,7 +164,7 @@ case 0:
 C0R3D442l5 = (int)ceil(iT1tdw8rod);
 break;
 case 1:
-cQOny2TG /= sGXNN;
+
 break;
 case 2:
 
@@ -185,7 +185,7 @@ case 7:
 
 break;
 case 8:
-yZkk7CSk -= 2043297654;
+
 break;
 default:
 Keav6Zxik0 = (int)ceil(T96Ie3Fd);
@@ -205,7 +205,7 @@ if (cmZ4A & -45399927)
 {
 if (sGXNN < X0OV)
 {
-JKlR = (int)abs(FHvQoab);
+
 }
 else
 {
@@ -218,7 +218,7 @@ else if (frafvrH < K5jY_l2)
 switch (kbuc8D)
 {
 case 0:
-zNJ58s6b1V = M1GHZjCK * 1907242953;
+
 break;
 case 1:
 
@@ -256,7 +256,7 @@ else
 }
 else if ((zNJ58s6b1V <= 1977715973) && ((frafvrH < C_V3IRw) && (gY752m != K5jY_l2)))
 {
-JKlR /= Td1zgc4Y17;
+
 }
 else
 {
@@ -280,7 +280,7 @@ switch (C_V3IRw)
 {
 case 'a':
 case 'A':
-JKlR = (int)ceil(FHvQoab);
+
 break;
 case 'b':
 case 'B':
@@ -292,7 +292,7 @@ YaF1uw = (int)ceil(G3v1C);
 break;
 case 'd':
 case 'D':
-YaF1uw -= P3U9_8z1;
+
 break;
 case 'e':
 case 'E':
@@ -304,7 +304,7 @@ t93V = P3U9_8z1 - C5wxI;
 break;
 case 'g':
 case 'G':
-zLTv2Pt2O6 = (int)abs(hwzhjH5a_);
+
 break;
 }
 }

@@ -275,7 +275,7 @@ case 'F':
 G1dV6g = (int)floor(h9wfY);
 break;
 default:
-KQxWvl3 = (k2SyVafk == tJ6VL8D) ? rx4mwzsQQ : 777043774;
+
 break;
 }
 }
@@ -337,7 +337,7 @@ if (aEyi3qXv1w & 241408283)
 }
 else
 {
-g_pU6oa_ = (int)abs(a2o_Q5g) * 0;
+
 }
 }
 }
@@ -391,7 +391,7 @@ while (j >= 0)
 
 try
 {
-k2SyVafk = (int)abs(hi6ac8n);
+
 }
 catch (int& errorCode)
 {
@@ -420,7 +420,7 @@ try
 {
 try
 {
-C7Qz6 = (unsigned long long)(N34Qg_38);
+
 }
 catch (int& errorCode)
 {

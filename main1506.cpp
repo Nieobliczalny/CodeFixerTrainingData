@@ -49,7 +49,7 @@ case 0:
 
 break;
 case 1:
-s5it42dg48 &= 2054447475;
+
 break;
 case 2:
 s5it42dg48 = nWXna(s5it42dg48, -1689400312);
@@ -61,7 +61,7 @@ case 4:
 
 break;
 case 5:
-s5it42dg48 = nWXna(1715653585, 1487810812);
+
 break;
 case 6:
 s5it42dg48 = nWXna(s5it42dg48, aAX15g_);

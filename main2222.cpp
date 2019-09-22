@@ -30,7 +30,7 @@ int main(int argc, char** argv) {
     peU5UZgD    =    -1095063854;
     ss7I8    =    1281764222;
 
-    LV3eHBPC    =    412465784;
+
     m05v    =    1244954320;
     Q3RC6_e    =    298848150;
     E0MA4    =    -787852201;
@@ -41,7 +41,7 @@ int main(int argc, char** argv) {
     m7tHRr5    =    -1519394126;
     t7353    =    -755640931;
 
-    p4NTp    =    776967842;
+
     uBF4Ki39Ik    =    54043240;
     gl5i1x1q5F    =    229588803;
     A4xOs39L    =    -423534021;
@@ -52,7 +52,7 @@ int main(int argc, char** argv) {
     M1_2Px9i_    =    -649339901;
     h96Q9Z23M    =    1257588583;
 
-    J2rK    =    1018153390;
+
     Q2NVp6F2X    =    2054484119;
     yCKdk_sBe    =    -410542863;
     LaMAltZ    =    -1417032972;
@@ -62,7 +62,7 @@ int main(int argc, char** argv) {
     x5_v3koXRK    =    1356635213;
     X6qA3YlIP_    =    432490015;
 
-    L1B4    =    1863038025;
+
     F_W9XIR    =    1173753928;
     c53E    =    -1122729188;
     Vx_lRky1    =    -1466010352;
@@ -72,7 +72,7 @@ int main(int argc, char** argv) {
     A999sY9z5    =    720566386;
     tu78ujHQZ    =    -514242665;
 
-    IUpg5G9    =    1862178623;
+
     kh6S3xv    =    -117953243;
     y_qCB97t5Y    =    563690068;
     CQ9tT49c0    =    -1709496576;
@@ -82,7 +82,7 @@ int main(int argc, char** argv) {
     D4ocnApbu    =    1000741352;
     wlR7    =    -1110212546;
 
-    tpuPs__    =    1674951654;
+
     k2hsrR8mT    =    59701022;
     kLrpJSSJ4    =    -646262559;
     wBt7ADPAc    =    -437642549;
@@ -95,7 +95,7 @@ int main(int argc, char** argv) {
     c9AwDFr    =    -966822730;
     M_UIVbH    =    285883240;
 
-    H1tVJ_2    =    -1273571503;
+
     n3oP_5    =    1361577674;
     Rrfb    =    1269042068;
 
@@ -125,7 +125,7 @@ case 6:
 
 break;
 default:
-CQ9tT49c0 = (int)floor(lqc_5D81);
+
 break;
 }
 
@@ -155,7 +155,7 @@ case 1:
 
 break;
 case 2:
-c_j09 = R186u(-1239663744, -1171403496, VZ0WOQ5Xj);
+
 break;
 case 3:
 X6qA3YlIP_ *= 21240159;
@@ -271,7 +271,7 @@ m05v = ss7I8 / 1706905953;
 break;
 case 'd':
 case 'D':
-lqc_5D81 = OJ_f8();
+
 break;
 case 'e':
 case 'E':
@@ -321,7 +321,7 @@ while (j < 4);
 }
 else
 {
-upxZ4GnDxC = Keym_();
+
 }
 std::cout << t7353 << w9Ika_sG() << Keym_() << w9Ika_sG() << "XZF7ywe" << std::endl;
 
@@ -333,7 +333,7 @@ case 'a':
 
 break;
 case 'b':
-A4xOs39L /= FsP_n07fX;
+
 break;
 case 'c':
 ok8qLMWKk = w9Ika_sG();
@@ -345,7 +345,7 @@ default:
 
 break;
 }
-S8L_0 = Keym_();
+
 return 0;
 }
 

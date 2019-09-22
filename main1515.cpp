@@ -206,7 +206,7 @@ if (gX1kh == tMHb63)
 }
 else if (((SpJ_) && (ZY6P33 & 1675094434)) || (ZY6P33))
 {
-gX1kh = W4k_MNt(-339095483, WkM9bxy, 734802924);
+
 }
 else if ((WkM9bxy & SpJ_) || (gX1kh > yPEAI0AA))
 {
@@ -295,7 +295,7 @@ case 9:
 WkM9bxy = etO22O(SpPU5, -711520081);
 break;
 }
-gX1kh = (int)abs(WkM9bxy) + (-382256771);
+
 std::cout << W4k_MNt(SpPU5, -1776359168, 729454025) << std::endl;
 gX1kh = W4k_MNt(Qq5QIaSrBK, 291670096, -1929968194);
 
@@ -358,7 +358,7 @@ case 1:
 
 break;
 case 2:
-gX1kh = W4k_MNt(-1941364410, yPEAI0AA, SpJ_);
+
 break;
 case 3:
 yPEAI0AA = (int)ceil(SpPU5);

@@ -17,7 +17,7 @@ int main(void)
     long long    JW385G2N5,    lVmi61dI,    bTp1A83__,    C_ogNXNmq,    HxwZ,    B_33ut1i,    g7s_K6v,    XqH16,    v859ZP4wm7,    B5ZqA9,    wxGBENZ_,    Xn3487uTZp,    U5xgbf_,    XMA_v76,    xQxQK0V,    y1279_,    uF26Q,    Hz71_3_,    yzwSacd3,    vVf9;
     JW385G2N5    =    -1125543913;
 
-    bTp1A83__    =    1071136520;
+
     C_ogNXNmq    =    807917782;
     HxwZ    =    102529556;
     B_33ut1i    =    -259863886;
@@ -28,7 +28,7 @@ int main(void)
     wxGBENZ_    =    259113502;
     Xn3487uTZp    =    -840075790;
 
-    XMA_v76    =    1078005310;
+
     xQxQK0V    =    -410964623;
     y1279_    =    -554584027;
     uF26Q    =    -215316477;
@@ -48,7 +48,7 @@ case 'b':
 
 break;
 case 'c':
-Xn3487uTZp = Xn3487uTZp - snQ48Zd;
+
 break;
 case 'd':
 Hz71_3_ += 742332182;
@@ -63,7 +63,7 @@ case 'g':
 snQ48Zd = AWrfQ();
 break;
 case 'h':
-v859ZP4wm7 = (int)abs(JW385G2N5);
+
 break;
 case 'i':
 g7s_K6v = AWrfQ() * 1987625378;
@@ -103,7 +103,7 @@ snQ48Zd = AWrfQ();
 }
 }
 
-vVf9 = (long long)(B5ZqA9);
+
 return 0;
 }
 

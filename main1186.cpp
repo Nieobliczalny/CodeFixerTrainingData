@@ -250,7 +250,7 @@ else
 {
 if (UNWa > -2093814585)
 {
-OsbBe = (char)(KJ_ijp8);
+
 }
 else if (LypC > 151446911)
 {
@@ -286,7 +286,7 @@ else if (mK3J90 > Gi_GRFS4)
 }
 else if ((UNWa < -815813167) && (k_zX > 1668770524))
 {
-mtjO1Ahy9 = Tg9otO6j(-242977054, E4poc, -1204527604, k_j24P52, KJ_ijp8);
+
 }
 else if (KJ_ijp8 == OsbBe)
 {

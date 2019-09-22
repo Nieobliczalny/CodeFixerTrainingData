@@ -38,7 +38,7 @@ int main(int argc, char** argv)
 	short	j14ZO;
 	j14ZO	=	621338790;
     unsigned long long    Zyapje2WF;
-    Zyapje2WF    =    51449088;
+
 	unsigned short	n0pw4RX3O;
 	n0pw4RX3O	=	833959181;
  int pHMJz_4t;
@@ -96,7 +96,7 @@ int main(int argc, char** argv)
 	int	xUCF3vzU;
 	xUCF3vzU	=	400392430;
  double CF2Vv;
- CF2Vv = -577870006;
+
  long long dRYIWwNG3;
  dRYIWwNG3 = 1872007054;
     unsigned int    vUD9cODc6W;
@@ -108,7 +108,7 @@ int main(int argc, char** argv)
  unsigned char z2iSm;
  z2iSm = -55656907;
 	double	cq2s_U6LG;
-	cq2s_U6LG	=	1599557559;
+
   unsigned short int  lt09Z;
   lt09Z  =  -543204285;
     char    vb7O79O;
@@ -130,7 +130,7 @@ int main(int argc, char** argv)
     double    F_i30;
     F_i30    =    157979546;
 	long	G5l4;
-	G5l4	=	1219573222;
+
   unsigned short int  YsMr_r35;
   YsMr_r35  =  333784431;
  unsigned long QQ5k_36M2;
@@ -376,7 +376,7 @@ case 1:
 JkP7 = (int)abs(rl12h);
 break;
 case 2:
-QQ5k_36M2 = v4QQH90RDy(442489482) + 722063851;
+
 break;
 case 3:
 lt09Z = I_mV(lt09Z, -1827683892, -420428290, pHMJz_4t, O_i764EFHP);
@@ -447,7 +447,7 @@ case 0:
 ySXhC6d6T = (int)floor(wOXLH5YLp);
 break;
 case 1:
-cq2s_U6LG = NB8m % ZyOh;
+
 break;
 case 2:
 
@@ -459,7 +459,7 @@ case 4:
 ey15 = v4QQH90RDy(331737461);
 break;
 case 5:
-ls3c = pYP4jrJ5D | Ad8M_;
+
 break;
 case 6:
 F_i30 = I_mV(F_i30, lt09Z, ZyOh, -200129666, O_i764EFHP);
@@ -526,7 +526,7 @@ while (i >= 0);
 }
 
 
-j14ZO /= 1440320541;
+
 F_i30 = (int)abs(JkP7);
 
 if ((-916206919 / v4QQH90RDy(ls3c)) != -980241774)
@@ -570,7 +570,7 @@ case 2:
 ey15 = v4QQH90RDy(1831590036);
 break;
 case 3:
-Ad8M_ = O_i764EFHP & wX8y3HPp;
+
 break;
 case 4:
 ey15 = v4QQH90RDy(-1148539517);
@@ -600,7 +600,7 @@ else if ((sWp1VLh >= -1597332449) || ((EXQfL7l == P32571j) && (j9eHQEr != -66999
 }
 else
 {
-rl12h ^= 806976612;
+
 }
 }
 else
@@ -686,7 +686,7 @@ if (ls3c >= ra0Szi)
 }
 else
 {
-CF2Vv = n0pw4RX3O >> 1654241415;
+
 }
 }
 }
@@ -706,7 +706,7 @@ break;
 }
 else
 {
-wOXLH5YLp = (int)floor(sd4J);
+
 }
 
 for (int i = 0; i < 6; ++i)
@@ -745,7 +745,7 @@ case 0:
 
 break;
 case 1:
-tE6a2130 -= w__lbN23n;
+
 break;
 case 2:
 n0pw4RX3O = I_mV(1125800440, -258816406, BJ1NdS, 1561110221, 133087291);
@@ -776,7 +776,7 @@ else
 }
 else
 {
-v7Qav0_8td = (int)floor(BJ1NdS);
+
 }
 
 return 0;

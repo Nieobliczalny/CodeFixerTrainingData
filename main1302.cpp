@@ -16,7 +16,7 @@ int main(void) {
  OYizs = 1584089086;
  NM9P17l5S6 = 2115405709;
  c73P = 739781374;
- tj92cw7 = 1456942774;
+
  k59_9 = 1350135585;
 
  AMUml = 465246591;
@@ -27,7 +27,7 @@ std::cout << sjs2H << sjs2H << NM9P17l5S6 << u64l_w << "dsr03HovK" << std::endl;
 switch (NM9P17l5S6)
 {
 case 0:
-MeE16y8d = sjs2H >> r_iED37O;
+
 break;
 case 1:
 u64l_w = AMUml >> 299752821;
@@ -85,7 +85,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-r_iED37O ^= 251278957;
+
 break;
 default:
 k59_9 = MeE16y8d << 2131013459;
@@ -108,7 +108,7 @@ case 0:
 
 break;
 case 1:
-k59_9 <<= 1505816163;
+
 break;
 case 2:
 t70Yb2 = c73P << r_iED37O;
@@ -139,7 +139,7 @@ case 4:
 c73P = t70Yb2 / AMUml;
 break;
 case 5:
-u64l_w = AMUml ^ tj92cw7;
+
 break;
 case 6:
 tj92cw7 = tj92cw7 / 1450013566;
@@ -164,7 +164,7 @@ switch (MeE16y8d)
 {
 case 'a':
 case 'A':
-NM9P17l5S6 = r_iED37O >> 1402422453;
+
 break;
 case 'b':
 case 'B':

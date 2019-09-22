@@ -37,7 +37,7 @@ int main(void)
  Z4BN = 606498315;
  Ad_T0t_ = 1674938357;
  m7uAlArc_3 = -865803740;
- r0L49x3 = 1937272396;
+
  A26D7c5A1 = 1779862335;
  YqjTDk = 1041981299;
  DiK_O = -723245760;
@@ -62,7 +62,7 @@ int main(void)
  uCY7_4z = 1163462146;
  S6kU8EDJF = 414719360;
  yjcNib85 = 508889653;
- Z3d39tyd2_ = 454282028;
+
  qBvOH7w = 2126035100;
  r00g = 598512454;
  FtZ38DH417 = 530004163;
@@ -373,7 +373,7 @@ case 1:
 A26D7c5A1 *= 2146090709;
 break;
 case 2:
-WwRbOi /= vZyTk4l4jZ;
+
 break;
 case 3:
 Et84Qa = aq909GYq(-1443192920, 1956736424);
@@ -400,7 +400,7 @@ if (o_Ra19 <= eoZ0)
 }
 else if (HZXnTL0 & 1641214692)
 {
-JJJg3 = (int)floor(FtZ38DH417);
+
 }
 else if (TE02Ze < rRJlT6z4)
 {
@@ -412,7 +412,7 @@ p4_45Awy_f = (int)ceil(O3C6);
 }
 else
 {
-Z3d39tyd2_ = (int)floor(EPDJawxI);
+
 }
 }
 }
@@ -422,7 +422,7 @@ A26D7c5A1 = HZXnTL0 >> 1220310359;
 }
 
 hIYsZSZF *= yjcNib85;
-q57DAUt = (int)ceil(ka9OR);
+
 
 if (((K0eWFBF1SM > oUWsToZ) || (RfmNbt0lX < Fxl3oootaJ)) || (p4_45Awy_f <= -1274145705))
 {
@@ -541,7 +541,7 @@ else if (hIYsZSZF)
 {
 if (uw_4oPs < eUlD8H)
 {
-DtmE7o8 = aq909GYq(DtmE7o8, -1034470635);
+
 }
 else if (bZ1cJ3 < 1293343863)
 {
@@ -557,7 +557,7 @@ else if (YdQz >= -1341504946)
 }
 else
 {
-hIYsZSZF -= sCplPUJQd;
+
 }
 }
 else if (((eUlD8H != -1663096160) && (F52_Nr > hWq25eG4_5)) || ((yO90IQVco > -83244998) || (w52t1_ != svui8wH12)))
@@ -572,7 +572,7 @@ if ((Qfmy == -301024099) && (uw_4oPs < LTOR))
 }
 else
 {
-bZ1cJ3 = (int)ceil(NlL0o7);
+
 }
 }
 }
@@ -614,7 +614,7 @@ switch (fsA0_Fjm)
 {
 case 'a':
 case 'A':
-A26D7c5A1 *= y8D7xP3;
+
 break;
 case 'b':
 case 'B':
@@ -634,7 +634,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-DtmE7o8 = (int)floor(r00g);
+
 break;
 case 'g':
 case 'G':
@@ -672,7 +672,7 @@ case 'a':
 
 break;
 case 'b':
-wUTtW = aq909GYq(wUTtW, eUlD8H);
+
 break;
 case 'c':
 svui8wH12 = (int)floor(Z4BN);
@@ -687,7 +687,7 @@ case 'f':
 Z4BN = (int)floor(EZRaQT_C5m);
 break;
 case 'g':
-sWw483z6 = qFtBQqOXMX(-1679319972, Qfmy, YdQz, -1656939988, -788425419);
+
 break;
 case 'h':
 L64HK5Z = aq909GYq(-1732361266, AHoidT0);
@@ -754,7 +754,7 @@ i--;
 
 
 
-oUWsToZ = (int)ceil(RfmNbt0lX);
+
 
 return 0;
 }

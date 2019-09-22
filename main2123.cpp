@@ -416,7 +416,7 @@ case 4:
 JYks /= 1101524920;
 break;
 default:
-C1ye = (int)abs(DHs802Q) + (-39649179);
+
 break;
 }
 ++i;

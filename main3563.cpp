@@ -37,7 +37,7 @@ int main(void) {
  unsigned int QYC8;
  QYC8 = 500429289;
 	char	blLU8;
-	blLU8	=	1534062507;
+
     unsigned long long    SCEQ90p;
     SCEQ90p    =    1301327540;
  char a0E_;
@@ -53,7 +53,7 @@ int main(void) {
  long double ZomlS7qjTx;
  ZomlS7qjTx = 1088918392;
  char m6_vJx4FX;
- m6_vJx4FX = 0;
+
     int    XRzxC;
     XRzxC    =    512688330;
  unsigned long long B67so;
@@ -67,7 +67,7 @@ int main(void) {
 	float	HwyRv1ySr;
 	HwyRv1ySr	=	-103109665;
  unsigned long long P0bUQ5;
- P0bUQ5 = 324707839;
+
 	short	K_TaUYH;
 	K_TaUYH	=	-409040361;
   int  E36H;
@@ -79,7 +79,7 @@ int main(void) {
     char    JO8dK;
     JO8dK    =    2087907402;
     long long    Jnp4Xi3J8;
-    Jnp4Xi3J8    =    -1282421691;
+
     long long    L4620;
     L4620    =    1355444775;
   long double  W0e0C790U;
@@ -99,7 +99,7 @@ int main(void) {
  long a24q20y;
 
 	short	C0L9HPus;
-	C0L9HPus	=	-1322309763;
+
  double ZKpta01d5_;
  ZKpta01d5_ = -835713168;
     long    zUOUw;
@@ -111,7 +111,7 @@ int main(void) {
  long long ki1F_Ftfp;
  ki1F_Ftfp = 489919037;
     unsigned char    gAkT3Kd7b;
-    gAkT3Kd7b    =    1706002938;
+
   unsigned short int  ef08;
   ef08  =  -1364761058;
     short    xf32Y77eXG;
@@ -133,7 +133,7 @@ int main(void) {
     short    ldPti13xZ;
     ldPti13xZ    =    -1844665986;
   unsigned char  wNC_IM9e9;
-  wNC_IM9e9  =  219934470;
+
 	unsigned long long	L44cmrBE;
 	L44cmrBE	=	148604824;
   int  IUfV6;
@@ -147,7 +147,7 @@ int main(void) {
   long long  sDgiNxx2A;
   sDgiNxx2A  =  -1811075785;
   char  IDm4;
-  IDm4  =  1302061457;
+
     unsigned int    JgY0;
     JgY0    =    -1625972911;
  int BUIkbt;
@@ -157,7 +157,7 @@ int main(void) {
  long double bFECzB0;
  bFECzB0 = -984441339;
     float    a3umC;
-    a3umC    =    937889479;
+
 	unsigned int	euWMw;
 	euWMw	=	1803102757;
   short  Ao1FAU;
@@ -173,7 +173,7 @@ int main(void) {
   unsigned long long  L99OR_;
   L99OR_  =  -965894356;
  unsigned short int GVS564_UX7;
- GVS564_UX7 = -201483929;
+
   long double  M065jwU8;
   M065jwU8  =  -711687531;
 	long	E4jH;
@@ -185,7 +185,7 @@ int main(void) {
     unsigned long long    jyIc;
     jyIc    =    131160681;
  long double jTBq802Xg;
- jTBq802Xg = -1216426974;
+
   long long  STd006L;
   STd006L  =  53872774;
   long long  tqqhl7_XI0;
@@ -201,7 +201,7 @@ int main(void) {
  unsigned long long i0h7iG4m5;
  i0h7iG4m5 = 99149740;
 	int	fm69Aqy9;
-	fm69Aqy9	=	-203242145;
+
  long long Z45G;
 
 	short	w_IvvR_0;
@@ -227,7 +227,7 @@ for (int j = 6; j >= 0; j--)
 {
 if (B67so > 1945274676)
 {
-oobUhiP7VG = i1dO3c();
+
 }
 else if (tlc_ >= SCEQ90p)
 {
@@ -325,7 +325,7 @@ else if (PlB0 >= 822424283)
 int k = 8;
 do
 {
-Ksy0rNgeee = (int)abs(w_IvvR_0);
+
 k--;
 }
 while (k >= 0);
@@ -392,7 +392,7 @@ i--;
 }
 while (i >= 0);
 }
-jTBq802Xg = SCEQ90p * 402435093;
+
 
 if (tlc_ <= 49906941)
 {
@@ -467,7 +467,7 @@ else if (SCEQ90p == 820102481)
 switch (JgY0)
 {
 case 'a':
-STd006L |= ki1F_Ftfp;
+
 break;
 case 'b':
 sDgiNxx2A = IUfV6 << 407563819;
@@ -506,7 +506,7 @@ case 'c':
 
 break;
 default:
-Jnp4Xi3J8 = i1dO3c();
+
 break;
 }
 
@@ -571,7 +571,7 @@ case 'b':
 sDgiNxx2A += 1893469952;
 break;
 case 'c':
-gwVDaW = O1M34Ry(1084104468, ZomlS7qjTx, 598946110, 1865360152, -2014728335);
+
 break;
 case 'd':
 euWMw |= ldPti13xZ;
@@ -584,7 +584,7 @@ case 0:
 
 break;
 case 1:
-oobUhiP7VG = (int)abs(ZomlS7qjTx);
+
 break;
 case 2:
 w_IvvR_0 = UsZNLLraH(2014308565);
@@ -596,7 +596,7 @@ case 4:
 
 break;
 case 5:
-Cai1HCIDM = i1dO3c();
+
 break;
 case 6:
 W0e0C790U = (int)floor(bFECzB0);
@@ -608,7 +608,7 @@ case 8:
 
 break;
 default:
-cPc5TM4 = UsZNLLraH(cPc5TM4);
+
 break;
 }
 
@@ -622,7 +622,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-uH9d = O1M34Ry(uH9d, -288347740, -639252643, -1290209017, JxKX32x6DZ);
+
 break;
 case 'c':
 case 'C':
@@ -650,7 +650,7 @@ case 2:
 HwyRv1ySr = (int)floor(ZKpta01d5_);
 break;
 case 3:
-L8FK = i1dO3c();
+
 break;
 case 4:
 W1p_3Sz771 *= euWMw;
@@ -662,7 +662,7 @@ case 6:
 bx87LQ = BUIkbt ^ 1595286429;
 break;
 case 7:
-w_IvvR_0 /= jyIc;
+
 break;
 }
 }
@@ -686,7 +686,7 @@ case 1:
 
 break;
 default:
-F5g0ul3T = (int)abs(L4620);
+
 break;
 }
 ++i;

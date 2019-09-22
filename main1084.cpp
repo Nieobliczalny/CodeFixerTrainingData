@@ -67,7 +67,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-JkqKf1Hy = (int)abs(g_B4r8);
+
 break;
 case 'e':
 case 'E':
@@ -119,7 +119,7 @@ case 'a':
 
 break;
 case 'b':
-EN7o = V_InM ^ 8652486;
+
 break;
 case 'c':
 czjel79500 >>= 494041604;
@@ -131,7 +131,7 @@ case 'e':
 
 break;
 case 'f':
-KT9NAohYt += 139187735;
+
 break;
 case 'g':
 DF3W3 -= c7iHzs_C3Z;
@@ -174,7 +174,7 @@ else
 switch (Aus8)
 {
 case 'a':
-OQ8Cgl >>= mQFYP8XL8;
+
 break;
 case 'b':
 
@@ -186,7 +186,7 @@ case 'd':
 YskT0C5 %= c7iHzs_C3Z;
 break;
 case 'e':
-GCxesKEF = OQ8Cgl << 1404572738;
+
 break;
 }
 }

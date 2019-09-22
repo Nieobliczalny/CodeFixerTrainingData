@@ -381,7 +381,7 @@ case 'G':
 break;
 case 'h':
 case 'H':
-Z_lnF6CgpC = (int)abs(W_Y_21Nai1);
+
 break;
 case 'i':
 case 'I':
@@ -414,7 +414,7 @@ case 'f':
 W_Y_21Nai1++;
 break;
 default:
-VG90Wk0z47 = qx7mx75 - 1175668229;
+
 break;
 }
 
@@ -446,7 +446,7 @@ else
 
 }
 
-W_Y_21Nai1 = (long)(v542CwN8U);
+
 
 return 0;
 }

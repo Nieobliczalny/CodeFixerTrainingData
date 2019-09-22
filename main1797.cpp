@@ -32,7 +32,7 @@ int main() {
   int  n21scNAC;
   n21scNAC  =  1037655228;
   float  No5rX;
-  No5rX  =  -1946761458;
+
 	unsigned char	KpddC3N1_;
 	KpddC3N1_	=	1302880615;
     double    a_wa_TT8;
@@ -74,7 +74,7 @@ int main() {
   unsigned char  NG__h0b;
   NG__h0b  =  -326127653;
  char Bk5bBMr3;
- Bk5bBMr3 = 1947956514;
+
     unsigned char    LXsn;
     LXsn    =    -2017176150;
   unsigned int  a3NJPx;
@@ -198,7 +198,7 @@ else
 {
 for (int k = 5; k >= 0; --k)
 {
-pULP5tD = Gf5b(m7fa_JM, 1576836005, q58_tW_bI, Ar3eR_, sQXmY0O9rU);
+
 }
 }
 }
@@ -273,7 +273,7 @@ case 'f':
 KpddC3N1_ = Gf5b(-1294825671, fTqc2b, H6s2Mi0, LXsn, 949319134);
 break;
 case 'g':
-Ar3eR_ = (ESUSLcDpo) ? Gf5b(-1655319290, fTqc2b, H6s2Mi0, 475579541, -146600332) : k00b8V;
+
 break;
 case 'h':
 k00b8V = (int)abs(BvTmo);
@@ -403,7 +403,7 @@ if ((O6r3Sevm != -1456760627) || (aV2k9 < 1028195008))
 }
 else if (((fTqc2b != 995402297) || (StS886 >= 611167662)) && (zP90m4S != H6s2Mi0))
 {
-Ar3eR_ = (unsigned short int)(LXsn);
+
 }
 else if (lOZVHk75 & LXsn)
 {

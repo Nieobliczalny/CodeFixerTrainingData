@@ -239,7 +239,7 @@ case 'c':
 
 break;
 default:
-Kae12X1 = No14Q6Cgd2(559853872, -1478129935);
+
 break;
 }
 ++i;

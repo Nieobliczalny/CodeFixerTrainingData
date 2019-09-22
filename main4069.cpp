@@ -85,7 +85,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-RJsjUNV1Ad = PI_1T6s6(RJsjUNV1Ad, -2108083742, 1272024277);
+
 break;
 case 'c':
 case 'C':
@@ -105,7 +105,7 @@ case 'F':
 break;
 case 'g':
 case 'G':
-vU9__ni = (int)abs(Hvzq);
+
 break;
 case 'h':
 case 'H':
@@ -132,7 +132,7 @@ int i = 0;
 do
 {
 i++;
-H08Y = (long double)(m2ki_);
+
 }
 while (i < 5);
 }
@@ -151,7 +151,7 @@ case 'a':
 n0_i86B = a86I5 | DUpMyO;
 break;
 case 'b':
-s7c_M3 = l5Efa(-647121441, d1eT02, eNqS);
+
 break;
 case 'c':
 
@@ -166,7 +166,7 @@ default:
 L45_d308M = n0_i86B << Img4KHqS09;
 break;
 }
-F6UPc69eMB = PI_1T6s6(F6UPc69eMB, n0_i86B, L45_d308M);
+
 for (int i = 2; i >= 0; --i)
 {
 
@@ -184,7 +184,7 @@ case 2:
 
 break;
 case 3:
-DUpMyO = PI_1T6s6(DUpMyO, DS87, 688285461);
+
 break;
 case 4:
 Zo65u = PI_1T6s6(1078189276, 730409935, 1186327968);

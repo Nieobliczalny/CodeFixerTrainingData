@@ -209,7 +209,7 @@ break;
 }
 if (bdr_ > 1322083511)
 {
-bdr_ = Yy__5ew7();
+
 }
 Qqh8 = (int)abs(Ah7mIn_);
 

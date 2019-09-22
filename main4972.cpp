@@ -325,7 +325,7 @@ break;
 
 
 
-XQJ1OlTZ = (unsigned int)(wJrOg26B);
+
 return 0;
 }
 

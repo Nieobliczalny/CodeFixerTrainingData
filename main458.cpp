@@ -108,7 +108,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-i92D6u8T5P &= wZXQf4d;
+
 break;
 case 'c':
 case 'C':
@@ -119,7 +119,7 @@ case 'D':
 
 break;
 }
-fwc7 = T5u1EZO ^ 2014492481;
+
 
 jk7BfK = D4_0k8 / w4n0014G93;
 Y1Ha86 = w4n0014G93 ^ w8MK6i_c;

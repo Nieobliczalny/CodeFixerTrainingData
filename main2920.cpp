@@ -336,7 +336,7 @@ for (int i = 9; i >= 0; i--)
 }
 try
 {
-bFX5 = (unsigned long)(f4uAT658xM);
+
 }
 catch (int& errorCode)
 {

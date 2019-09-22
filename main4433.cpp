@@ -35,7 +35,7 @@ int main(void) {
 	unsigned long	EXtkx61jR2;
 	EXtkx61jR2	=	1708529267;
 	int	uv6V2nu6;
-	uv6V2nu6	=	-367310948;
+
     long double    PDl6;
     PDl6    =    -991394256;
     long long    L2NHWJd8k;
@@ -121,7 +121,7 @@ for (int j = 0; j < 2; ++j)
 {
 try
 {
-uv6V2nu6 = qWE4igce(-307666891, 909253012, -2108478120);
+
 }
 catch (int& errorCode)
 {
@@ -217,7 +217,7 @@ case 2:
 
 break;
 case 3:
-wXBD = (int)abs(p3k265W8);
+
 break;
 case 4:
 PDl6 = (int)ceil(En48UB);
@@ -339,7 +339,7 @@ for (int i = 9; i >= 0; i--)
 switch (Lh57L3)
 {
 case 0:
-B0h8HnQz = Z5Y69GoTY(573519035, PDl6, 1604890012, 226014202);
+
 break;
 case 1:
 Mchs797 = qWE4igce(Mchs797, mx4bQW_wf4, 816013462);
@@ -380,7 +380,7 @@ case 2:
 BLUWq1f3f = (int)floor(En48UB);
 break;
 case 3:
-EXtkx61jR2 = X32rQed(-637345973, R3X6_AlQ_, uGB5, Y63xbD, 2066933978);
+
 break;
 case 4:
 
@@ -392,7 +392,7 @@ case 6:
 wXBD = FC7O20LL65 << 500292083;
 break;
 case 7:
-o9w04K7xd4 = (int)floor(En48UB);
+
 break;
 case 8:
 

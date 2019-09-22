@@ -33,7 +33,7 @@ int main()
   int  LQ0CPYPu;
   LQ0CPYPu  =  969544083;
   unsigned short int  thWXkrO;
-  thWXkrO  =  171700853;
+
 	float	d0N06b;
 	d0N06b	=	-1142773962;
     unsigned int    WEj0;
@@ -115,7 +115,7 @@ int main()
  unsigned int tU6cF6;
  tU6cF6 = 666594321;
  long long fHTOa;
- fHTOa = 951090307;
+
     short    ZR983;
     ZR983    =    86109064;
 	unsigned long	oo5_vZ5F4N;
@@ -399,7 +399,7 @@ case 'b':
 T1Q3Oq3y = (int)ceil(Ax5NN);
 break;
 case 'c':
-d0N06b = (int)abs(C5WKk_1);
+
 break;
 case 'd':
 Y5BP67--;
@@ -421,7 +421,7 @@ T1Q3Oq3y = (int)floor(d0N06b);
 }
 else if (tU6cF6 <= 255887422)
 {
-YTrQVnb = jPUT5ItM4();
+
 }
 else if (((p7Vnd & aA0BbFFb) || (MM5z > 2105370654)) || (d0N06b > -1239751526))
 {

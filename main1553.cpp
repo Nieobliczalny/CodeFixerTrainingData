@@ -91,7 +91,7 @@ case 0:
 IxWu16H0 = G606yw2Ly(-1549566569, 1575829438, 827409220, 1936790268);
 break;
 case 1:
-e3Aqne24 = G606yw2Ly(CryYE, CPT8emm_R, 1368850480, 1533304450);
+
 break;
 case 2:
 Ig62pMK = (int)floor(m15Q);
@@ -103,7 +103,7 @@ case 4:
 
 break;
 case 5:
-Z83DAp = (e3Aqne24) ? Y4ph5l : 1529227925;
+
 break;
 case 6:
 m15Q = (int)floor(Ig62pMK);
@@ -124,7 +124,7 @@ Z102uvaWC = G606yw2Ly(1941362305, 1430312702, 1977612493, Z102uvaWC);
 }
 
 
-CPT8emm_R = W30z & K4YZ;
+
 
 return 0;
 }

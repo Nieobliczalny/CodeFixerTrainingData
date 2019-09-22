@@ -534,7 +534,7 @@ else
 switch (rfNd8)
 {
 case 'a':
-fVTOPVp861 = JEeG ^ 1738402521;
+
 break;
 case 'b':
 j6UE74F6 = (int)abs(eAmvbUd55_);

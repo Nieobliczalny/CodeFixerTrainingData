@@ -461,7 +461,7 @@ case 4:
 hMXgS = GR34 << RA2_27R;
 break;
 case 5:
-sC1C6 -= LQG2281d;
+
 break;
 case 6:
 tG5465 <<= C8w0kr3GP;
@@ -492,7 +492,7 @@ else if ((y1sg22sNr > -1753230805) || (y1sg22sNr == sC1C6))
 switch (vJlX)
 {
 case 0:
-vJlX += 2129867204;
+
 break;
 case 1:
 GF52346 = (int)floor(w_5x1Sgd);
@@ -568,7 +568,7 @@ case 'c':
 m403 &= bHqm;
 break;
 case 'd':
-S8fs_vPk7 += 689909110;
+
 break;
 default:
 flij = tG5465 % 393589019;
@@ -604,7 +604,7 @@ case 'a':
 
 break;
 case 'b':
-PC4590 /= 1114428022;
+
 break;
 case 'c':
 C8w0kr3GP >>= m403;
@@ -619,7 +619,7 @@ case 'f':
 O7BGB++;
 break;
 case 'g':
-D1JKJn = (int)abs(N766);
+
 break;
 case 'h':
 hMXgS >>= 1099866109;

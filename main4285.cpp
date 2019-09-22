@@ -409,7 +409,7 @@ case 'd':
 Rf1rkhiolJ = Zh_P / 1962696080;
 break;
 case 'e':
-ohT32 -= 2010015018;
+
 break;
 }
 }

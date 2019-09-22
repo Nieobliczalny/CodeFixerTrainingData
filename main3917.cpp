@@ -65,7 +65,7 @@ switch (q78s)
 {
 case 'a':
 case 'A':
-T5ibUt = Ml42O8h(T5ibUt, -90577951, -1604729420, g_Lj);
+
 break;
 case 'b':
 case 'B':
@@ -89,7 +89,7 @@ case 'F':
 break;
 case 'g':
 case 'G':
-jPW56 -= X4_VU_46o;
+
 break;
 default:
 ffefnRc = NBn1xO(ffefnRc, Au39t3);
@@ -115,7 +115,7 @@ else
 int j = 0;
 do
 {
-X4_VU_46o = (unsigned short)(K_m165);
+
 ++j;
 }
 while (j < 6);
@@ -504,7 +504,7 @@ K1Uwcr = NBn1xO(-595709160, EKINJbNpjU);
 break;
 case 'g':
 case 'G':
-C9nsNz = N1344(-1431797668, yy__3_08m);
+
 break;
 case 'h':
 case 'H':
@@ -516,7 +516,7 @@ case 'I':
 break;
 case 'j':
 case 'J':
-k8B_ = N1344(k8B_, jz1Ig);
+
 break;
 default:
 a6hs46 = Xrd_u85uc(-490121394, 1489046495);
@@ -544,7 +544,7 @@ jz1Ig |= 732671692;
 switch (g_Lj)
 {
 case 0:
-U89L8vjPx2 = a_xaJBhW + 2063786380;
+
 break;
 case 1:
 N2d9z_136 ^= 371762240;
@@ -610,7 +610,7 @@ case 'b':
 S_BN1oEq_ = NBn1xO(S_BN1oEq_, -1762326506);
 break;
 case 'c':
-Xlz_8_e43W = GrF4();
+
 break;
 case 'd':
 Xlz_8_e43W = NBn1xO(Xlz_8_e43W, 1320832881) | 62453403;
@@ -664,7 +664,7 @@ case 1:
 
 break;
 case 2:
-Net6 = Ml42O8h(1715174782, a_xaJBhW, T88IwYh6X, ffefnRc);
+
 break;
 case 3:
 NGJi_ = NBn1xO(NGJi_, YQZt);
@@ -718,7 +718,7 @@ case 1:
 LEsH &= 1470789395;
 break;
 case 2:
-LLP2l >>= 1114755800;
+
 break;
 case 3:
 u6csR = Xrd_u85uc(-1533200389, 159758849);
@@ -730,7 +730,7 @@ case 5:
 XKKH31NX = T8l5CQ2K47 ^ Mkcgd9wp;
 break;
 case 6:
-W7jm = NBn1xO(W7jm, CJ0nRT_2R);
+
 break;
 }
 for (int i = 7; i >= 0; i--)

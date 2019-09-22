@@ -23,7 +23,7 @@ int main(int argc, char** argv)
   dCzZezE4z  =  1592404521;
   VH0_I7  =  1135488868;
   c702  =  878467699;
-  q1A148lRU  =  -1926222068;
+
 	short int	w6uoLAp2G_;
 	w6uoLAp2G_	=	0;
 

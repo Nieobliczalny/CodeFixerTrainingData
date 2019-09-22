@@ -24,7 +24,7 @@ try
 switch (tp4CWC_)
 {
 case 0:
-m2HaQVi_3 ^= 2136689276;
+
 break;
 case 1:
 P8_6Y = lCQyC ^ 1305123776;
@@ -36,7 +36,7 @@ case 3:
 OGK3w *= yVZ9_;
 break;
 case 4:
-rB2MQ1_k = IYc0 + 64578921;
+
 break;
 default:
 sYih = ULCL & JhqL1;
@@ -102,7 +102,7 @@ sYih /= zXUq;
 switch (PO2UTP9149)
 {
 case 'a':
-GMed3 *= F_Pa73KQ1G;
+
 break;
 case 'b':
 H_U5n = J59Y9sMKR - T8I7;
@@ -117,7 +117,7 @@ case 'e':
 P8_6Y--;
 break;
 }
-Z9Oe23 = (long)(Opq9);
+
 
 
 

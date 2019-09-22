@@ -141,7 +141,7 @@ case 1:
 I583ts3R = jCdh5r9H5(I583ts3R, 720472743, V4m_T_JRPp);
 break;
 case 2:
-he1gj2V72_ = jCdh5r9H5(he1gj2V72_, 582476947, 802481479);
+
 break;
 }
 
@@ -198,7 +198,7 @@ j++;
 }
 
 Rs5386i = I583ts3R / fSyt1AwDE3;
-he1gj2V72_ = I583ts3R | Rs5386i;
+
 
 fSyt1AwDE3 = g64nHsI(U5XAgH);
 
@@ -208,7 +208,7 @@ std::cout << ie_6J2s5 << std::endl;
 switch (Zw_4T)
 {
 case 'a':
-Rs5386i = y4htsIyy(Rs5386i, -1975099021, ie_6J2s5, -22895448, I583ts3R);
+
 break;
 case 'b':
 fSyt1AwDE3 = g64nHsI(-1745846721);
@@ -223,7 +223,7 @@ case 'e':
 U5XAgH |= 2134840295;
 break;
 default:
-CY678 = y4htsIyy(CY678, 2115802269, 961679002, 438839250, 2129831000);
+
 break;
 }
 
@@ -276,7 +276,7 @@ int i = 7;
 do
 {
 --i;
-U5XAgH = (long)(ocZFP14Fo + (m1fxcCYq4H));
+
 }
 while (i >= 0);
 }
@@ -291,7 +291,7 @@ for (int k = 0; k < 10; ++k)
 }
 }
 H9fiE = (int)abs(ie_6J2s5);
-H6MYQ = (long)(m1fxcCYq4H * (ocZFP14Fo));
+
 
 return 0;
 }

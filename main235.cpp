@@ -160,7 +160,7 @@ if (o8fRHmy)
 }
 else if (tX0Yq3VXe >= V58G2G)
 {
-o8fRHmy = (int)abs(V58G2G);
+
 }
 else if (o8fRHmy > J3q0N5PDXR)
 {
@@ -194,7 +194,7 @@ case 1:
 
 break;
 case 2:
-fK_v763S = o8fRHmy | 231435202;
+
 break;
 case 3:
 PwE_9--;
@@ -218,7 +218,7 @@ if (J3q0N5PDXR < -712300003)
 }
 else
 {
-fK_v763S = (int)abs(f6yr);
+
 }
 }
 else

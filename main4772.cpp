@@ -542,7 +542,7 @@ case 0:
 
 break;
 case 1:
-jZ6zll7Gp3 = (int)ceil(ZXRmZJ5);
+
 break;
 case 2:
 Ps_vAP1a = cBsyTd72d_(-1992131665, -258675108, 1967030120);
@@ -557,7 +557,7 @@ case 5:
 
 break;
 case 6:
-D5RwQ &= 1360197795;
+
 break;
 case 7:
 Ps_vAP1a = cBsyTd72d_(X6I5v_9, 1545118776, nGRYW9);

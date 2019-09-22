@@ -33,7 +33,7 @@ int main()
 	UCGd20SJ	=	-1195889142;
 	WrOgT9U	=	-2101027638;
 	S2Apys7	=	1103849985;
-	wZv5q1vv	=	-945560339;
+
 	z7y208W28	=	1102244395;
 	u3mxf4H	=	-538152920;
 	Zga1Y0Sx5	=	442908271;
@@ -45,7 +45,7 @@ int main()
 	tK0X63Y	=	61257239;
 	OtMS	=	-1888753316;
 	PD463PbR	=	1063848470;
-	Ru9F	=	817002142;
+
 	t06B	=	271400840;
 	uB8mMKD	=	-1712914680;
 	q9Cb1_G_p	=	-1488529098;
@@ -317,7 +317,7 @@ case 'a':
 q9Cb1_G_p >>= 631540231;
 break;
 case 'b':
-Yj0Fg4zU6 = PD463PbR + 958275031;
+
 break;
 case 'c':
 Q7jYZ = U8MHnqdK(Q7jYZ, S2Apys7, 319777405, 1935681790, -93243270);
@@ -464,7 +464,7 @@ case 'b':
 
 break;
 case 'c':
-Ya1_ = BgEOPir(1095682674, -1124103438, O6U4HcIP, -384280309, 1862490535);
+
 break;
 case 'd':
 VTUra = (int)abs(sCDx);
@@ -484,7 +484,7 @@ break;
 switch (mlnMwwd1NN)
 {
 case 0:
-u3mxf4H = BgEOPir(u3mxf4H, mwQ1C8C, 1014707801, hFfXwPQq76, WrOgT9U);
+
 break;
 default:
 

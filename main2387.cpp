@@ -431,7 +431,7 @@ case 'g':
 
 break;
 case 'h':
-u685X = nf8_n(u685X, 749269944, 272040693);
+
 break;
 }
 }

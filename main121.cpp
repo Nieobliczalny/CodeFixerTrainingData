@@ -353,7 +353,7 @@ if (jYsXen3C & 536976951)
 }
 else if (T5h6 < -1540503665)
 {
-W142 = Lp1B5() >> 118787168;
+
 }
 else if (V_Iv < -1369709096)
 {
@@ -368,7 +368,7 @@ while (j >= 0)
 j--;
 try
 {
-T5h6 = Lp1B5();
+
 }
 catch (int& errorCode)
 {
@@ -418,7 +418,7 @@ break;
 }
 else
 {
-lr78 = Y8dy19mA % 681651263;
+
 }
 RCOpA = (int)abs(NjLSH);
 m_Gr248 = (unsigned int)(Vb_f2s_6);
@@ -432,7 +432,7 @@ i--;
 }
 }
 
-k515 <<= gT1BuoV;
+
 
 return 0;
 }

@@ -335,7 +335,7 @@ V2N6 += 1008435477;
 
 
 
-PNDT = (float)(BuV36);
+
 cout << Yf6ON3APc(-1250218475, QtXu, V2N6, q65c, C80Ds6) << K0wdvC << endl;
 pi5ildGMA = A1o5VQ2(1931988906, r15W, NdXTco059n);
 S5037x = (o40U != ugRR603PS) ? dK0o9 : TisWYPSJS1;

@@ -247,7 +247,7 @@ case 'd':
 p7L3q %= I1XZ;
 break;
 case 'e':
-I1XZ = FhJN0Fs();
+
 break;
 case 'f':
 w68_ -= 244819136;
@@ -259,7 +259,7 @@ case 'h':
 
 break;
 case 'i':
-ahI5sb_0 = (int)abs(ysQ5);
+
 break;
 case 'j':
 p2Oi86 = FhJN0Fs();
@@ -334,7 +334,7 @@ case 'b':
 
 break;
 case 'c':
-I1XZ = w68_ / N6ClJBV;
+
 break;
 case 'd':
 ahI5sb_0 = (int)abs(ysQ5);
@@ -349,7 +349,7 @@ case 'g':
 
 break;
 case 'h':
-ahI5sb_0 = (int)abs(NXtwU4_I);
+
 break;
 case 'i':
 YoO91_Wz8P = FhJN0Fs();

@@ -236,7 +236,7 @@ case 'G':
 krOF = (int)abs(ubcnug8P);
 break;
 default:
-i02g_QcCnR %= c8C3_;
+
 break;
 }
 
@@ -349,7 +349,7 @@ int k = 0;
 while (k < 7)
 {
 ++k;
-NXnsG = mtgaRO5(1734847130, 846266311);
+
 }
 }
 }
@@ -502,7 +502,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-NXnsG = mtgaRO5(405804288, Y_lS6A03R);
+
 break;
 case 'f':
 case 'F':
@@ -560,7 +560,7 @@ case 7:
 lcq1T--;
 break;
 case 8:
-RkPUNup = mtgaRO5(oYW0Q78, A3L3h) ^ xp99j_;
+
 break;
 default:
 
@@ -587,7 +587,7 @@ case 3:
 Xndl43 = mtgaRO5(Xndl43, 1949786820);
 break;
 case 4:
-A3L3h = ZSPZb_CCm - 1847498433;
+
 break;
 default:
 ubcnug8P = (int)abs(fv9w3VD3);
@@ -611,7 +611,7 @@ case 0:
 k6Z0307L1K = Bm93(Yr3ji0bd);
 break;
 case 1:
-y1q6AagK42 <<= 2105490429;
+
 break;
 case 2:
 N4NKi = xp99j_ & 873651451;
@@ -626,7 +626,7 @@ case 5:
 GzG1J6vB |= 1660104468;
 break;
 case 6:
-R5eI = mtgaRO5(-1031993284, s0zaPrz);
+
 break;
 }
 y1q6AagK42 = Xndl43 / 1536573976;
@@ -656,7 +656,7 @@ y90i1S37 = Bm93(oYW0Q78);
 }
 
 std::cout << Bm93(oYW0Q78) << apnT5 << Bm93(oYW0Q78) << Bm93(oYW0Q78) << Bm93(685015361) << std::endl;
-oUuER6n9 = (int)(yi399f2dv_);
+
 if ((Yr3ji0bd) || (juEGqp36RZ <= wVbuz83e4L))
 {
 
@@ -700,7 +700,7 @@ case 2:
 a8z_5 = VfZTxL0tK5 + 2012500225;
 break;
 case 3:
-Y6hGb_ = (int)abs(d2BqOKp42);
+
 break;
 case 4:
 IfwRs = (int)abs(GzG1J6vB);
@@ -764,7 +764,7 @@ case 1:
 GzG1J6vB -= y1q6AagK42;
 break;
 case 2:
-oUuER6n9 = Zv__Oy2_ / Zv__Oy2_;
+
 break;
 case 3:
 rKBCswPX = krOF % N4NKi;
@@ -776,7 +776,7 @@ case 5:
 oYW0Q78 = s441UiV02A >> 1230303201;
 break;
 case 6:
-s0zaPrz = DaFCL1xU << Y_lS6A03R;
+
 break;
 case 7:
 Zv__Oy2_ = lcq1T - 484409696;

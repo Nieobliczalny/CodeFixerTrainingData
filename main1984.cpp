@@ -37,7 +37,7 @@ int main(int argc, char** argv)
     long long    JjPcCWa;
     JjPcCWa    =    -1617649641;
   unsigned short  i63YB6w;
-  i63YB6w  =  -1655847302;
+
   unsigned long  CpVfK;
   CpVfK  =  478526905;
  int t_27Z;
@@ -49,7 +49,7 @@ int main(int argc, char** argv)
   unsigned int  KEGX_ia5G7;
   KEGX_ia5G7  =  -964174950;
  float uxD4N6;
- uxD4N6 = 1026992337;
+
     long    U0hKe_;
     U0hKe_    =    -286356206;
  long long vdp3970;
@@ -89,7 +89,7 @@ int main(int argc, char** argv)
  short int r67gHo_j50;
  r67gHo_j50 = 1886790277;
  unsigned char xlx8kjLY;
- xlx8kjLY = -1224525230;
+
 	unsigned long	U30j16A1;
 	U30j16A1	=	1605748974;
 
@@ -103,7 +103,7 @@ if (((x4Th26Fi & 172025685) || (f3p9K8svk != 1318646026)) || (I67gQZxv))
 }
 else if (u19JnZ62)
 {
-uH1lAoe_2O = v6P_B / uEUAFz7I;
+
 }
 else if (CpVfK >= 909612745)
 {
@@ -214,7 +214,7 @@ case 'a':
 
 break;
 case 'b':
-xlx8kjLY = fX2yNt22Vr >> 1925871755;
+
 break;
 case 'c':
 uxD4N6 = Ksvn6ll ^ 1596455996;
@@ -237,7 +237,7 @@ else
 {
 
 }
-FkI8yTgTu_ *= 1551379308;
+
 
 ysR_GyC3O = JjPcCWa << x4Th26Fi;
 h7td -= 2041692529;

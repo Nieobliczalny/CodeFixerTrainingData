@@ -33,7 +33,7 @@ case 1:
 Z33YeBk_39 <<= 1283230825;
 break;
 }
-YWHg_Y = 502154299 / J3t8R;
+
 
 std::cout << "J3ps" << "vXI8t9Id" << "sf5C7XYrXp" << std::endl;
 if (Jwqap66)

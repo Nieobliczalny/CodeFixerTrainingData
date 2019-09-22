@@ -305,7 +305,7 @@ else
 {
 WYstk5e79D = (int)floor(zc6xwGEd8);
 }
-FF1omJ >>= BWaq;
+
 {
 int i = 4;
 while (i >= 0)
@@ -345,7 +345,7 @@ switch (X2iRGOMx)
 {
 case 'a':
 case 'A':
-uix7 %= UFk2fvfX;
+
 break;
 case 'b':
 case 'B':
@@ -369,7 +369,7 @@ case 'F':
 break;
 case 'g':
 case 'G':
-TutNHG = TH2I9 + BWaq;
+
 break;
 case 'h':
 case 'H':
@@ -389,7 +389,7 @@ try
 {
 try
 {
-wKcV_4r = (int)ceil(jgZv66FZ);
+
 }
 catch (int& errorCode)
 {
@@ -405,7 +405,7 @@ else
 {
 
 }
-TutNHG = (unsigned long)(Ro64);
+
 
 for (int i = 0; i < 5; ++i)
 {

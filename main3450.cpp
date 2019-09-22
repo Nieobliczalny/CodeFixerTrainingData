@@ -228,7 +228,7 @@ case 'F':
 break;
 case 'g':
 case 'G':
-XfFPo /= BlobHBs8;
+
 break;
 case 'h':
 case 'H':
@@ -288,7 +288,7 @@ I0r3jl3 = T8Fy0(I0r3jl3, jB5a065_, -2059399939, 277097508, 818826446);
 
 cout << T8Fy0(I0r3jl3, -1812120673, z5RshQORv, E35h57, PDgPksXx) << r1Y5Xl8H << "OwVB" << endl;
 
-Oxa3m7Ukq = a8_uMCW7l / PDgPksXx;
+
 for (int i = 5; i >= 0; i--)
 {
 try
@@ -323,7 +323,7 @@ else if (E35h57)
 {
 if (eAB8P_q_d)
 {
-S5sx = T8Fy0(-1399566867, 627619280, E35h57, VeoXwT4u, 1331361852);
+
 }
 }
 else if ((bIpLH > -1578136547) || (cJdG43 <= -1702469876))
@@ -334,7 +334,7 @@ else if (z5RshQORv <= bIpLH)
 {
 if (Tzi4d7lZ)
 {
-bIpLH = (int)floor(XlF_b);
+
 }
 else
 {
@@ -345,7 +345,7 @@ else
 {
 for (int k = 0; k < 1; ++k)
 {
-Tzi4d7lZ = (int)ceil(O3sihXkGgj);
+
 }
 }
 }

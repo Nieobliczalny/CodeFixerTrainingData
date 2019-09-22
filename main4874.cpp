@@ -31,7 +31,7 @@ int main(int argc, char** argv) {
  short int Dl_HtmQ4;
  Dl_HtmQ4 = 698637302;
     unsigned short int    lLS4Xh0br;
-    lLS4Xh0br    =    -1982951149;
+
     unsigned char    YHXK79;
     YHXK79    =    0;
   unsigned short int  yyHITsAup_;
@@ -63,7 +63,7 @@ int main(int argc, char** argv) {
  unsigned long t9aDY;
 
 	int	hxe97z0;
-	hxe97z0	=	29803724;
+
 	long	VK3O8;
 	VK3O8	=	1007231462;
   unsigned short  ZT713;
@@ -93,7 +93,7 @@ int main(int argc, char** argv) {
   unsigned short int  HcO8aV76;
   HcO8aV76  =  -1766202154;
  unsigned char yiZO4;
- yiZO4 = -1807130248;
+
  long long yAnu9bvb;
  yAnu9bvb = -1858180108;
     double    H6c_Wz;
@@ -105,7 +105,7 @@ int main(int argc, char** argv) {
 	unsigned long long	wozf;
 	wozf	=	0;
  unsigned char Nzd92Nc;
- Nzd92Nc = 533386484;
+
     int    Tegc8f8C_5;
     Tegc8f8C_5    =    -1862972348;
  char YZPY4D8O;
@@ -135,7 +135,7 @@ int main(int argc, char** argv) {
   long  P3FA;
   P3FA  =  1836608478;
  float NL0tv45PEy;
- NL0tv45PEy = -928692165;
+
 	float	Fr6S;
 	Fr6S	=	-1421844760;
     unsigned int    hfu5iIcs;
@@ -170,7 +170,7 @@ case 3:
 KVPhc5dqKB = (int)floor(gS_l4xW);
 break;
 case 4:
-NL0tv45PEy = (int)floor(H6c_Wz);
+
 break;
 case 5:
 lf7xXH_ = (int)ceil(H6c_Wz);
@@ -337,7 +337,7 @@ while (j < 5);
 }
 else
 {
-D341NF1V = (long long)(pN_B_qYpM + (-1109739107));
+
 }
 pFnFF = (int)abs(P3FA);
 std::cout << M03jt(-110756306, zG3r0) / M03jt(-1992025592, -1147160571) << std::endl;
@@ -361,7 +361,7 @@ case 'd':
 
 break;
 default:
-H6c_Wz = (int)ceil(lf7xXH_);
+
 break;
 }
 lf7xXH_ = yyHITsAup_ | 203363523;
@@ -381,7 +381,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-WY5F7 = pN_B_qYpM - ZT713;
+
 break;
 case 'd':
 case 'D':
@@ -405,7 +405,7 @@ if (((IAkUf9_ < kv3ftD_vv) && (zHGgk9 > -3241353)) && (yD7H7WP != -1264722863))
 }
 else if (eRYUP3n <= s_LtH0Uu4)
 {
-Fp9U = yAnu9bvb + YdP3qYlyA;
+
 }
 else if (tt6uh <= -737404288)
 {
@@ -421,7 +421,7 @@ else if (wozf == V7NTTV)
 }
 else
 {
-V7NTTV = (int)floor(Fr6S);
+
 }
 }
 catch (int& errorCode)
@@ -521,7 +521,7 @@ case 0:
 
 break;
 case 1:
-lf7xXH_ = (int)floor(ElaROT);
+
 break;
 case 2:
 YdP3qYlyA = IA4kMPoU4(YdP3qYlyA, Q6tr);
@@ -533,7 +533,7 @@ case 4:
 
 break;
 case 5:
-V3HIHe = krYu24LjB5(V3HIHe, -1756260287, -484090222);
+
 break;
 case 6:
 c784QvROee = IA4kMPoU4(c784QvROee, -1146095332);
@@ -548,7 +548,7 @@ break;
 }
 else if (Ogyss5XzH < -479586115)
 {
-VK3O8 = krYu24LjB5(-289640834, hV_P2, zG3r0);
+
 }
 else
 {

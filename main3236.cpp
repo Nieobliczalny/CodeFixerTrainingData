@@ -324,7 +324,7 @@ cout << PBv8ff5(-531505118, -2035353057) << "a12Y5NNOa" << T55R(-165626160, tsj_
 }
 
 
-XqRd = (float)(MS2Tg);
+
 XrX1LvtNe = (int)ceil(MS2Tg);
 MS2Tg = (int)abs(JG35s);
 

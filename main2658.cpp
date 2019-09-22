@@ -33,7 +33,7 @@ int main(int argc, char** argv)
     GzR7_3mZ    =    1568184328;
     Sww89Gd    =    46700639;
 
-    XK8xYpH6    =    -210919341;
+
     i_1Km6YT    =    444343485;
     du77_2    =    1875243346;
     J9aYlPT    =    -1611052697;
@@ -43,7 +43,7 @@ int main(int argc, char** argv)
     w3DQ8Iil7C    =    2035827806;
     W5966yzogM    =    -291872907;
     C13Bl    =    -702331171;
-    G9YtQJpxo8    =    -1171299361;
+
     m53S_Jx    =    -268375466;
     aB61c9r    =    -1689708558;
     d6wQ    =    681618402;
@@ -58,7 +58,7 @@ int main(int argc, char** argv)
     f_9i7b    =    -1137710473;
     T0U6h    =    1521495641;
     CqSjqb9Tc7    =    -2122126325;
-    q5rr40f    =    -99584898;
+
     rSGxt9K    =    -244695241;
     w598usL    =    -1965675284;
     BFUnU22X    =    -1118414983;
@@ -70,7 +70,7 @@ int main(int argc, char** argv)
     Nrz0_6    =    -144471964;
     fQ867    =    1947147225;
     Z_6M7OqkN    =    -1654559237;
-    E_21vj2Wn    =    -380971590;
+
     h76jp15    =    -277003168;
     y96cSQ    =    1436296485;
     xTzk7    =    -951045875;
@@ -138,7 +138,7 @@ if (GzR7_3mZ != -450837414)
 }
 else if (DQ2f_ != xw_JM8)
 {
-OW_M = U9M30AEC42(OW_M, xTzk7, 1243322573, -1063553106);
+
 }
 else if (C13Bl <= rSGxt9K)
 {
@@ -150,7 +150,7 @@ else if (i1q1bL6Dh > -198961970)
 }
 else if (((xTzk7 >= i1q1bL6Dh) || (vIp_jYtku > xw_JM8)) || (y96cSQ & 428249406))
 {
-mZIm586 = U9M30AEC42(1473359081, S0DLhS, W5966yzogM, fHJ2k) % 296742252;
+
 }
 else if ((C13Bl) && (du77_2 > -1103768313))
 {
@@ -180,7 +180,7 @@ for (int j = 0; j < 7; ++j)
 {
 for (int k = 0; k < 3; k++)
 {
-XK8xYpH6 = U9M30AEC42(493179730, ivm1K1p, -1316823532, 145790361);
+
 }
 }
 }
@@ -220,7 +220,7 @@ case 'a':
 
 break;
 case 'b':
-S0qd = VfVFl1(S0qd, fQ867, -1156742620);
+
 break;
 case 'c':
 h92I_C %= i_1Km6YT;
@@ -235,7 +235,7 @@ case 'f':
 
 break;
 default:
-F6d5QTPa = U9M30AEC42(DQ2f_, F6d5QTPa, rSGxt9K, -1726050284);
+
 break;
 }
 fQ867 = DQ2f_ / ivm1K1p;
@@ -249,7 +249,7 @@ case 1:
 xK12t = VfVFl1(xK12t, 791392550, -1306970154);
 break;
 case 2:
-i1q1bL6Dh |= i_1Km6YT;
+
 break;
 case 3:
 EMxE9unt %= 1583369090;
@@ -261,7 +261,7 @@ case 5:
 Sww89Gd = U9M30AEC42(Sww89Gd, -981021775, BHpE58_H, S0DLhS);
 break;
 case 6:
-f_9i7b &= h92I_C;
+
 break;
 case 7:
 d6wQ = xK12t + T0U6h;
@@ -273,7 +273,7 @@ case 9:
 xK12t = Tbg40P() ^ 162575990;
 break;
 default:
-XK8xYpH6 = DM0d0f3e / rSGxt9K;
+
 break;
 }
 
@@ -291,7 +291,7 @@ case 0:
 
 break;
 case 1:
-BHpE58_H = S0DLhS >> 513284577;
+
 break;
 case 2:
 d6wQ %= xK12t;

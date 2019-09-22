@@ -592,7 +592,7 @@ case 'e':
 
 break;
 case 'f':
-Tmx38018z = Mw7xC + 1398301810;
+
 break;
 case 'g':
 a0AL = (int)floor(BkVsw_oaE);
@@ -707,7 +707,7 @@ if (c6iLRxvp <= 146345550)
 }
 else
 {
-jbHhuM = yA3_9Gzn(1286663349, oiYZu, Gu21ri6Dn);
+
 }
 {
 int i = 0;
@@ -754,7 +754,7 @@ case 6:
 
 break;
 case 7:
-eXefd3sk = (int)abs(L99rlno);
+
 break;
 }
 

@@ -22,7 +22,7 @@ int main(void)
 	long long	fAh0	=	0,	pH0a1QnRZp	=	0,	T6T0l56uCy	=	0,	Ros289U7b	=	0;
 
 
-T6T0l56uCy = (int)abs(pH0a1QnRZp);
+
 r1ABu12Vep = pH0a1QnRZp / fAh0;
 
 if ((fAh0 < p3I4WDx) || ((VvTMN7 >= p3I4WDx) && (t142u5g >= -1175302761)))
@@ -60,7 +60,7 @@ J5Sdb7hP7Q = X2YgT797NC(J5Sdb7hP7Q, -1729064673, t142u5g, 835088568);
 
 cout << YgY8Sj86 << NgoCIcCek(J5Sdb7hP7Q, Rhs9M2MDv, -168836990, 2057066997) << "i_k_2ns1" << X2YgT797NC(300555635, Rhs9M2MDv, t142u5g, 1106221968) << endl;
 
-j7y4 = H6Q_b3434C * eNI3U3ia1n;
+
 return 0;
 }
 

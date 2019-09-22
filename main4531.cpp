@@ -34,7 +34,7 @@ if (uPx0aaWP53 == 391679883)
 {
 if (OK157_ <= 2063483894)
 {
-yBo6 = (double)(LJ35kFN);
+
 }
 else if (gb7l != -1843430475)
 {
@@ -153,7 +153,7 @@ case 0:
 
 break;
 case 1:
-pHp5gtt6 -= kKa22_GO;
+
 break;
 case 2:
 FCFW_iF5p /= 2021060352;
@@ -165,7 +165,7 @@ case 4:
 
 break;
 case 5:
-x1L4Z = JApTyQ0V4v(163900342, 1470690956);
+
 break;
 case 6:
 CH600x3p = JApTyQ0V4v(V5a1b3ez, -679921742);

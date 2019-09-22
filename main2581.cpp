@@ -37,7 +37,7 @@ j4u3NMPqt = Rj9p0 - 375285899;
 break;
 case 'b':
 case 'B':
-iLxn5ZdHLn = (int)abs(aNZkn);
+
 break;
 case 'c':
 case 'C':
@@ -81,7 +81,7 @@ case 0:
 rHp438NnT = wSUI2(2107408970);
 break;
 case 1:
-j4u3NMPqt = nA6IqJi5t(j4u3NMPqt, O4_u3, -379887857, 1022962486, -412779885);
+
 break;
 default:
 

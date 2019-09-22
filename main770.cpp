@@ -41,7 +41,7 @@ int main(void)
     float    gONxIYUc;
     gONxIYUc    =    -1786598347;
     long    XK_8;
-    XK_8    =    -294253368;
+
   unsigned char  nOw9ZG53L;
   nOw9ZG53L  =  2116595008;
  long long y6Yvv;
@@ -63,7 +63,7 @@ int main(void)
   int  W779;
 
     unsigned char    j3X_;
-    j3X_    =    897927429;
+
  long long w6mN5Y1;
  w6mN5Y1 = -541209049;
     int    xRw_HH5;
@@ -73,7 +73,7 @@ int main(void)
   short  Crnxt0Q922;
 
 	char	m8_Hxts;
-	m8_Hxts	=	260147304;
+
 	int	dARF9U68;
 	dARF9U68	=	0;
 	short	g48qX6v9;
@@ -97,7 +97,7 @@ int main(void)
  unsigned int freg65_;
  freg65_ = -1359166976;
 	char	OO6qx9M;
-	OO6qx9M	=	565838492;
+
 
 S0257k61 = enD2u1Y_8 | 1214865049;
 if (Z_S5Kb3O)
@@ -117,7 +117,7 @@ T1lZM1 -= nOw9ZG53L;
 }
 else if (xRw_HH5 <= yTG4A0yU4)
 {
-yBOyS9r27Q = gONxIYUc * 1383328365;
+
 }
 else if (((nOw9ZG53L) && (J11e30BAF2 == SSn162qjdP)) && (OrhTkI < enD2u1Y_8))
 {
@@ -150,7 +150,7 @@ case 0:
 
 break;
 case 1:
-kZgB249 >>= 1913726508;
+
 break;
 case 2:
 T5GH >>= 2083139817;
@@ -184,7 +184,7 @@ XF_I70dj = (int)ceil(FurRM0I);
 
 try
 {
-freg65_ = FWdO60EWFA + 845916316;
+
 }
 catch (int& errorCode)
 {
@@ -196,7 +196,7 @@ try
 {
 if ((X9oy == -1926532423) && (OrhTkI <= 1827299890))
 {
-Zj2D = (int)abs(XF_I70dj) * 0;
+
 }
 }
 catch (int& errorCode)

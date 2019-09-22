@@ -41,7 +41,7 @@ int main(void)
   short int  vv8_h;
   vv8_h  =  0;
  unsigned short int VF7k9m;
- VF7k9m = -837406038;
+
     short    G3yCJt3Na;
     G3yCJt3Na    =    0;
 	long double	iJd7OGJO4v;
@@ -55,7 +55,7 @@ int main(void)
 	unsigned char	Ks0QPVXK;
 
  long dA_qs7R4H;
- dA_qs7R4H = 749768349;
+
     long long    D2U68n09RU;
     D2U68n09RU    =    1708190059;
   int  Cf12tL;
@@ -171,7 +171,7 @@ case 5:
 LxAKl_ = (int)floor(MSQK);
 break;
 case 6:
-G3yCJt3Na = (int)abs(LxAKl_) * 0;
+
 break;
 case 7:
 idiG = (int)abs(zi6g) * 0;
@@ -235,7 +235,7 @@ int k = 4;
 while (k >= 0)
 {
 k--;
-pO0718U2O = fq17JNB0f(-237057647, 1109336624, pTMf);
+
 }
 }
 }
@@ -261,7 +261,7 @@ if (qk93UR <= -1375878999)
 {
 if (pTMf <= 2131597636)
 {
-VF7k9m = pQZQ(1663889391, 999662365, -1798345293);
+
 }
 else
 {
@@ -292,7 +292,7 @@ if (D2U68n09RU <= 925594194)
 switch (l_bCOU)
 {
 case 0:
-G3yCJt3Na = hGrT0bet(-1601826786);
+
 break;
 case 1:
 pTMf = (int)ceil(JB2_yZX96);
@@ -361,7 +361,7 @@ std::cout << "wP65" << etLIHT << bG8Wf8z << Q62X52 << evcq << std::endl;
 switch (qk93UR)
 {
 case 'a':
-fvQl = fq17JNB0f(175078634, 697130196, Txiq);
+
 break;
 case 'b':
 gRakB = (int)abs(etLIHT);
@@ -376,7 +376,7 @@ case 'e':
 etLIHT = (int)abs(Cf12tL);
 break;
 case 'f':
-ZgRV4m = hGrT0bet(-1825266683);
+
 break;
 case 'g':
 pTMf = (int)ceil(V8qA0);
@@ -448,7 +448,7 @@ else
 switch (qPg297)
 {
 case 'a':
-dA_qs7R4H = pTMf / 669341005;
+
 break;
 case 'b':
 
@@ -460,7 +460,7 @@ case 'd':
 Txiq = (int)abs(LxAKl_);
 break;
 case 'e':
-qPg297 = iJd7OGJO4v / 2010932960;
+
 break;
 case 'f':
 

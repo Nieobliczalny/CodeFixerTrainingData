@@ -42,7 +42,7 @@ int main(int argc, char** argv)
     unsigned short int    y7pP;
 
 	short	OcCR;
-	OcCR	=	1606826883;
+
 	float	sF2___R4s;
 	sF2___R4s	=	1985264956;
  unsigned int P6NsCS_2;
@@ -52,7 +52,7 @@ int main(int argc, char** argv)
  unsigned long x0W4uSGGy;
 
     float    y15RsSlyw;
-    y15RsSlyw    =    1107800879;
+
 	double	WD180w03;
 	WD180w03	=	598926056;
 	unsigned short	ECOi5TzohI;
@@ -62,7 +62,7 @@ int main(int argc, char** argv)
 	unsigned short int	pHMI870;
 
 	char	r3WmFtV;
-	r3WmFtV	=	594343942;
+
 	unsigned short	H2_QH;
 	H2_QH	=	-867618910;
     short int    IGjIt;
@@ -78,7 +78,7 @@ int main(int argc, char** argv)
 	unsigned char	tomFb;
 	tomFb	=	0;
 	unsigned int	FQy_7bCQ;
-	FQy_7bCQ	=	-1937097869;
+
     unsigned char    q80_8bR_hY;
     q80_8bR_hY    =    862784075;
  unsigned short wTohq;
@@ -94,7 +94,7 @@ int main(int argc, char** argv)
     unsigned long    XiM2Bc6;
     XiM2Bc6    =    1369755412;
 	unsigned long	aN0c9CS;
-	aN0c9CS	=	-676505577;
+
 	char	SSYeN9hD_Z;
 	SSYeN9hD_Z	=	1463671399;
     double    LX8CHL;
@@ -118,7 +118,7 @@ int main(int argc, char** argv)
     int    uX363;
     uX363    =    -1616772993;
     double    uA493D57jx;
-    uA493D57jx    =    596290596;
+
   unsigned long long  ilx0UB90l;
   ilx0UB90l  =  1417702665;
   unsigned short int  eo5NIX;
@@ -136,7 +136,7 @@ int main(int argc, char** argv)
   unsigned short  VVEZF;
 
  unsigned short LUckhK;
- LUckhK = 2085228538;
+
   unsigned char  y0_ii3eLw;
   y0_ii3eLw  =  -2070345687;
     unsigned char    Jtl0m4EK79;
@@ -146,7 +146,7 @@ int main(int argc, char** argv)
  double V77f;
 
 	long long	aCo417oiQ;
-	aCo417oiQ	=	-1174195221;
+
 	unsigned char	Ty8T22k;
 	Ty8T22k	=	932977586;
   unsigned short int  F15gpDC;
@@ -158,7 +158,7 @@ int main(int argc, char** argv)
  short d3LkFDfL;
 
     float    Kn0V8h7f7q;
-    Kn0V8h7f7q    =    -1741493189;
+
   unsigned short  N4SZp1tSkv;
   N4SZp1tSkv  =  558747599;
 	double	bVZJv;
@@ -220,7 +220,7 @@ case 'D':
 
 break;
 default:
-y15RsSlyw = (int)floor(LX8CHL);
+
 break;
 }
 switch (Ty8T22k)

@@ -184,7 +184,7 @@ if ((g14eYpPK9 >= NayYfE) || ((s1w8O01 > RB64BIie) || (vwpTa9 > QhPAqz)))
 }
 else
 {
-T6Of65CBnd = (int)floor(kWAjtZ_);
+
 }
 }
 else if (TLvBP == -1231236505)
@@ -225,7 +225,7 @@ Zl4x = (int)abs(LltxE);
 int i = 0;
 do
 {
-TNK8u5Qc9Y = (int)ceil(A2BPPyuoWU);
+
 i++;
 }
 while (i < 10);
@@ -236,7 +236,7 @@ case 0:
 
 break;
 case 1:
-NDPOII = V6wB7TzSQ(1183404308);
+
 break;
 case 2:
 W_N7 = (int)abs(L_0iYG);
@@ -251,7 +251,7 @@ break;
 
 f3t4 = (long double)(jjNlK);
 
-N7JhD3ukC0 = lN0t8X >> 1953573487;
+
 
 std::cout << "Ry2l" << "K4e_0ui_X" << std::endl;
 if ((t_llb_F065 < NayYfE) || (eFWu4W >= -355964210))
@@ -306,7 +306,7 @@ case 'b':
 
 break;
 case 'c':
-NayYfE = cLHr_dy(237225426, bE7b, 1433922300, nTmvz99uJt);
+
 break;
 case 'd':
 gDL0uHyiq ^= W_N7;
@@ -327,7 +327,7 @@ default:
 evL38Ev = (int)ceil(LmHczEC);
 break;
 }
-qlvjDBg = (unsigned int)(tckqiI);
+
 if (A2BPPyuoWU >= 182941076)
 {
 
@@ -346,7 +346,7 @@ do
 j++;
 for (int k = 0; k < 4; k++)
 {
-TNK8u5Qc9Y = (int)floor(BdC025);
+
 }
 }
 while (j < 6);
@@ -382,7 +382,7 @@ case 1:
 RB64BIie >>= lL1hxX;
 break;
 case 2:
-rB1dM = (int)ceil(evL38Ev);
+
 break;
 case 3:
 TLvBP %= uO7pb;

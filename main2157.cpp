@@ -29,7 +29,7 @@ int main() {
   zkK18QIl0  =  -1102220002;
   E0hMl_C  =  1685646958;
   EChDv1eEr  =  1691480673;
-  zOiU  =  1910165500;
+
   Qn0yh  =  -161681469;
   Dd78WApLwT  =  1318797963;
   FOt7s  =  1002088825;
@@ -545,7 +545,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-SbWf0qrh = (int)ceil(PzjitU08cX);
+
 break;
 case 'g':
 case 'G':
@@ -611,7 +611,7 @@ case 0:
 
 break;
 case 1:
-YMjqprh /= L9r35_Vpp;
+
 break;
 case 2:
 Y6GR7I881 *= 107218816;
@@ -626,7 +626,7 @@ case 5:
 
 break;
 case 6:
-NOPn = (int)ceil(tes43_QJDI);
+
 break;
 case 7:
 GsN9Gj9K = OV7O08J55(-1851052169, -256000969);

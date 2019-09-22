@@ -289,7 +289,7 @@ case 1:
 
 break;
 case 2:
-KQKEfd9 = (int)abs(cL_V3j9);
+
 break;
 case 3:
 o2lZKEAp <<= 231367678;
@@ -307,7 +307,7 @@ case 7:
 wWe1r033f = XH1zsMDrS5(-13567840, jNZF8t67, 1930544937);
 break;
 case 8:
-KQKEfd9 = (int)abs(cL_V3j9);
+
 break;
 }
 }
@@ -338,7 +338,7 @@ N0Ht *= cb5YeqXm3;
 
 std::cout << Y3_sZ0(809172321) << wWe1r033f << a00Om << std::endl;
 
-SG_Vp4oyg -= 395231960;
+
 return 0;
 }
 

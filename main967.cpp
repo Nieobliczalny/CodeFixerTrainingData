@@ -40,7 +40,7 @@ int main() {
  unsigned long kOBau9_L;
  kOBau9_L = 985632630;
   int  K016;
-  K016  =  978057550;
+
   long  UDbvMpj;
   UDbvMpj  =  1618526615;
 	long double	ltG5w;
@@ -262,7 +262,7 @@ else
 {
 if (yusnPMO > l5f7L)
 {
-GwJD9_zyE = (FuysL_F7_ < 326722096) ? -1498382155 : Y4Zf8;
+
 }
 else if (((V4520N6q9 >= uMjgMj) && (UDbvMpj)) || ((b2ok > 1375077333) || (x2p_hBHO & FuysL_F7_)))
 {
@@ -561,7 +561,7 @@ for (int j = 0; j < 10; ++j)
 {
 try
 {
-gw6iK3HN = dsPMd * 475244960;
+
 }
 catch (int& errorCode)
 {
@@ -582,7 +582,7 @@ else if ((vLcaoo4995) || (KN1_K2FU > ltG5w))
 int k = 7;
 do
 {
-Ke1tL8X4HT = (int)abs(OG2v);
+
 k--;
 }
 while (k >= 0);
@@ -623,7 +623,7 @@ ltG5w = (int)abs(soiPjl);
 }
 }
 
-V_9M = (int)floor(LkXEx);
+
 
 
 return 0;

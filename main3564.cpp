@@ -366,7 +366,7 @@ DLc__sq_7N *= 1577366701;
 break;
 case 'd':
 case 'D':
-lr3u *= vn7dl8U;
+
 break;
 case 'e':
 case 'E':
@@ -386,7 +386,7 @@ lLtqLkHr = TG2c4 ^ 1646397944;
 break;
 case 'i':
 case 'I':
-lr3u = (w5cr1_d > P5vL3) ? -962726466 : w5cr1_d;
+
 break;
 }
 }
@@ -455,7 +455,7 @@ while (j >= 0);
 }
 
 std::cout << "B53SjC8c2" << std::endl;
-P5vL3 = f4z1E / 289298870;
+
 for (int i = 1; i >= 0; i--)
 {
 std::cout << AcR8ht3dJI << "X7u1mP1i2" << "fASXa4K" << TR_d9qKzB << std::endl;

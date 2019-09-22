@@ -184,7 +184,7 @@ int k = 9;
 while (k >= 0)
 {
 --k;
-r8ITfoJs9o = xi9qVAY1();
+
 }
 }
 }
@@ -614,7 +614,7 @@ int k = 1;
 do
 {
 --k;
-FoC_bQZ4L6 = xi9qVAY1();
+
 }
 while (k >= 0);
 }
@@ -749,7 +749,7 @@ else
 switch (S_p50)
 {
 case 0:
-FoC_bQZ4L6 = jZL7GS - 1446903632;
+
 break;
 case 1:
 sXnqX3N = (int)abs(M79Ma4);
@@ -830,7 +830,7 @@ while (i < 1)
 int i = 10;
 while (i >= 0)
 {
-P0S6dTK = xi9qVAY1();
+
 i--;
 }
 }

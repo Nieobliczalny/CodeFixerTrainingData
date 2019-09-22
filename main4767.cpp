@@ -28,7 +28,7 @@ case 'c':
 cNi_D = I_8RH(Cihtx_v07b);
 break;
 default:
-T_jjDe_m3 -= uYtF;
+
 break;
 }
 std::cout << "r1Yxfqw" << I_8RH(-113086559) << std::endl;
@@ -53,7 +53,7 @@ y8Bw_5ZGqp = X_nDMiwY * 1787329316;
 }
 cNi_D = I_8RH(-1872960534);
 
-bFV7p = l2CrtG();
+
 {
 int i = 2;
 while (i >= 0)
@@ -68,7 +68,7 @@ J93Y9P0 = (int)abs(Qn1o);
 
 
 
-RTKVsTF5 = (int)floor(r0_k);
+
 
 if (wQy3Z > m0_1)
 {
@@ -95,7 +95,7 @@ cNi_D = I_8RH(-2005617045);
 break;
 case 'd':
 case 'D':
-iRhb7 *= 1335103728;
+
 break;
 case 'e':
 case 'E':
@@ -135,7 +135,7 @@ case 1:
 
 break;
 case 2:
-X8ptl0 = l2CrtG();
+
 break;
 case 3:
 s9H4A9 = (int)abs(J93Y9P0);
@@ -147,7 +147,7 @@ case 5:
 
 break;
 case 6:
-MVNvgAHiV3 = l2CrtG();
+
 break;
 case 7:
 a2RpfXI = l2CrtG();
@@ -175,7 +175,7 @@ else if ((x_0tB17BS < -76723212) && (iNSnv == -369140874))
 {
 if ((QnChk6 & cNi_D) && (Qz3Op41 > 50944021))
 {
-Va73l5U = l2CrtG();
+
 }
 else if ((BDdU3mZ >= -2006848326) && (J3T1l1 != -725885500))
 {
@@ -188,7 +188,7 @@ QnChk6 = I_8RH(izCG2y39p6);
 }
 else
 {
-dUkMRH6_VW = (float)(m0_1);
+
 }
 }
 

@@ -22,7 +22,7 @@ int main()
  long PWPB06;
 
 	unsigned short int	vd8S0OC72j;
-	vd8S0OC72j	=	1677787767;
+
 	short int	j79dH;
 	j79dH	=	1095115569;
   unsigned int  cwKVD;
@@ -64,7 +64,7 @@ int main()
   int  yfH7A6;
   yfH7A6  =  -1572407413;
  short ziMAAN183l;
- ziMAAN183l = -1446048450;
+
  long nDf_qrz7;
  nDf_qrz7 = -820704532;
     double    Brx88nCT6;
@@ -78,7 +78,7 @@ int main()
  short int pLcLT7Sb;
  pLcLT7Sb = 898916607;
   unsigned short  A0rC_HJT;
-  A0rC_HJT  =  842229363;
+
   unsigned short  ON22s34;
 
   unsigned int  N2mz;
@@ -96,7 +96,7 @@ int main()
  unsigned char btEFBscZ4;
  btEFBscZ4 = -294843539;
  long long b6Frh;
- b6Frh = 803321535;
+
     unsigned long long    y4YTEHO0gJ;
     y4YTEHO0gJ    =    1432296888;
 	char	pl9_E;
@@ -108,7 +108,7 @@ int main()
  float Ino0270WP_;
  Ino0270WP_ = 963422130;
     short    EC4hlq;
-    EC4hlq    =    1586624251;
+
  unsigned int vv49k_9;
  vv49k_9 = -1446125898;
 	long	S61KaK0V7A;
@@ -168,7 +168,7 @@ e34z = -86775916 / dyq_i;
 }
 for (int i = 1; i >= 0; --i)
 {
-vd8S0OC72j = p10S(826417058, 1446227199);
+
 }
 try
 {
@@ -299,7 +299,7 @@ if (LT7tV2)
 switch (e34z)
 {
 case 'a':
-P_Nou = (int)floor(Brx88nCT6);
+
 break;
 case 'b':
 v4L9o2l6Kr = CTRS ^ kPtnw;
@@ -443,7 +443,7 @@ case 0:
 Brx88nCT6 = (int)ceil(G88tSGp8);
 break;
 case 1:
-P_Nou = (int)floor(VkIsrgP9);
+
 break;
 case 2:
 Ino0270WP_ = p10S(176465411, -359844672);
@@ -464,7 +464,7 @@ else if (Wh625S_n > yfH7A6)
 switch (P2_8_9AIf)
 {
 case 'a':
-Q7uXZI = p10S(P2_8_9AIf, -511166848) * cwKVD;
+
 break;
 case 'b':
 dyq_i = xUgw8k6DYf(Nehp97, N2mz, -498172187, -1204224742);

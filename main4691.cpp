@@ -296,7 +296,7 @@ std::cout << "w2P6S048Q4" << KwbU << std::endl;
 
 try
 {
-dm4s1L *= M4Baa;
+
 }
 catch (int& errorCode)
 {
@@ -352,7 +352,7 @@ case 3:
 
 break;
 case 4:
-WtgmvEQ -= 1197913473;
+
 break;
 case 5:
 mZyrcPY >>= 926073540;

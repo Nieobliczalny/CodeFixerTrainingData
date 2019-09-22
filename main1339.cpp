@@ -18,7 +18,7 @@ int main() {
 
 jb43eUnbqL = vYmOE436(m_sCQ3Xw9, -441845424) / eaJs;
 
-JN3_5CNg = (int)floor(LRBT4NOq7);
+
 
 {
 int i = 0;
@@ -32,7 +32,7 @@ while (i < 8);
 
 for (int i = 7; i >= 0; --i)
 {
-q9hFj = (int)floor(ZeYJa);
+
 }
 
 {
@@ -50,7 +50,7 @@ for (int k = 0; k < 5; k++)
 }
 }
 
-idr9_M5 = (int)abs(fUVXn0);
+
 std::cout << Bjqy0Ys() << std::endl;
 
 {
@@ -91,7 +91,7 @@ case 1:
 
 break;
 case 2:
-qrCL069O = vYmOE436(qrCL069O, p9L2n);
+
 break;
 case 3:
 Dj5pWsq0 = (int)abs(N3pCk6Q);
@@ -106,7 +106,7 @@ case 6:
 
 break;
 case 7:
-cclZ_l = qrCL069O - 1278590455;
+
 break;
 }
 }
@@ -123,7 +123,7 @@ W_E51 = Bjqy0Ys();
 }
 else
 {
-W3OPj8W1m = BbX1SG / GJ86;
+
 }
 }
 catch (int& errorCode)
@@ -174,7 +174,7 @@ for (int k = 4; k >= 0; k--)
 
 CnLD += XzvNx;
 
-ZeYJa = (float)(v76b);
+
 {
 int i = 6;
 while (i >= 0)

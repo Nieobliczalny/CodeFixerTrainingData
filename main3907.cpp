@@ -75,7 +75,7 @@ while (i >= 0)
 i--;
 }
 }
-i99LUur2B = 1428824760 / f8N_A9Wdvv;
+
 {
 int i = 0;
 while (i < 7)
@@ -89,7 +89,7 @@ else
 {
 try
 {
-vwdZMC_9G = z2q8k64 ^ L0b3y;
+
 }
 catch (int& errorCode)
 {

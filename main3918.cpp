@@ -250,7 +250,7 @@ case 1:
 
 break;
 case 2:
-ZeH9rQ = (int)abs(ZQ4x85XF) + (-347988372);
+
 break;
 case 3:
 u44er = Mr2ZQc22q8 % 1184802395;

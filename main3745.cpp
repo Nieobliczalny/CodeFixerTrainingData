@@ -51,7 +51,7 @@ Wh2VaKEB7 = (int)(z_Gs0nXr4);
 while (i < 2);
 }
 
-ojMV4 = ZWM7Ap / w_aPpL9W6Q(dNKvO1, -533246601, xGNyJC, eVNIN05);
+
 {
 int i = 0;
 while (i < 4)
@@ -64,7 +64,7 @@ if (EqpFf0p0 != hlFD)
 }
 else
 {
-ZYa7f = RboWj5q8FF % 295144771;
+
 }
 }
 ++i;

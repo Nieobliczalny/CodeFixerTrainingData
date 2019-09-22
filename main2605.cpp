@@ -82,7 +82,7 @@ break;
 A8pL = 352793201 / jK7PQ1860;
 
 
-jK7PQ1860 = (long)(Sbe7tl28);
+
 
 return 0;
 }

@@ -23,7 +23,7 @@ int main(int argc, char** argv)
  long long mfAi8w;
  mfAi8w = 0;
     short int    gHYOg;
-    gHYOg    =    1066558673;
+
 	int	X0zG;
 	X0zG	=	-2061899425;
   float  nsJF;
@@ -43,7 +43,7 @@ int main(int argc, char** argv)
   long  VE6u5;
   VE6u5  =  460829108;
  unsigned short vnGjj;
- vnGjj = -647211400;
+
  long ewRD;
  ewRD = -188744801;
   short int  Rft_;
@@ -55,7 +55,7 @@ int main(int argc, char** argv)
   unsigned short  flyHoYMc;
   flyHoYMc  =  -1754776137;
 	unsigned short	pDM51l;
-	pDM51l	=	-1143372435;
+
     unsigned short int    Gh76Ar;
     Gh76Ar    =    -977056186;
   unsigned short int  J_VX_T55;
@@ -65,7 +65,7 @@ int main(int argc, char** argv)
  short n0OrGJuRZS;
 
  unsigned char Gafd;
- Gafd = 0;
+
   long long  rUwdC4rg4J;
   rUwdC4rg4J  =  338906142;
 	short int	e6E5tihv;
@@ -91,7 +91,7 @@ int main(int argc, char** argv)
  unsigned short Y2Lt28dkd_;
  Y2Lt28dkd_ = 855705151;
 	unsigned long	R8CxLPP5Jj;
-	R8CxLPP5Jj	=	615705119;
+
   unsigned char  R72oZ;
 
   int  M6W_;
@@ -115,7 +115,7 @@ int main(int argc, char** argv)
 	short int	UTy9jz9hL3;
 	UTy9jz9hL3	=	1429389037;
 	short	Nyp5;
-	Nyp5	=	2105223814;
+
  unsigned short JgYAnjL;
  JgYAnjL = -1789758399;
   char  p42x_;
@@ -131,7 +131,7 @@ int main(int argc, char** argv)
     long long    hs23CvE9;
 
  unsigned long long hF45ci;
- hF45ci = -2119912402;
+
  float PH22T;
  PH22T = 1128754395;
   unsigned short int  EIdK2;
@@ -141,7 +141,7 @@ int main(int argc, char** argv)
  unsigned int FfM_5;
  FfM_5 = -1046835899;
 	unsigned short	a4kO_f__hH;
-	a4kO_f__hH	=	-1433957272;
+
 	char	t23k1uma;
 	t23k1uma	=	-663441458;
   double  h3pxX5;
@@ -167,7 +167,7 @@ int main(int argc, char** argv)
 	unsigned char	h_SPxs;
 	h_SPxs	=	-518977190;
  unsigned short AD4Ag4y;
- AD4Ag4y = -604246714;
+
   float  w2lMn1;
   w2lMn1  =  -317421243;
     short int    Wm68YXt1;
@@ -181,7 +181,7 @@ int main(int argc, char** argv)
  long GaLSbXj7;
  GaLSbXj7 = -1264840597;
   unsigned long  Tz32_3p0;
-  Tz32_3p0  =  917660340;
+
   short  YvMM3u;
 
  unsigned long long GNDBo8tJ;
@@ -205,7 +205,7 @@ int main(int argc, char** argv)
   float  R_WF;
   R_WF  =  312742717;
  unsigned short Uokq8RT;
- Uokq8RT = 1438714596;
+
  unsigned long long fqZF6Y;
  fqZF6Y = 1698717681;
   long long  d9wRX6n;
@@ -227,7 +227,7 @@ JaU8o5Y = HIOL() + q12GH48J4;
 }
 else
 {
-g530v4U1RP = (int)floor(PH22T);
+
 }
 }
 catch (int& errorCode)
@@ -250,7 +250,7 @@ k++;
 }
 else if ((ltg7N__uS9 <= J68O_89n) || (p42x_ <= 2098146227))
 {
-g530v4U1RP = (int)floor(R_WF);
+
 }
 else if ((J_VX_T55 != y8XNU7zEC5) || (Wm68YXt1 >= SdQgW30Be))
 {
@@ -278,7 +278,7 @@ case 1:
 e6E5tihv = HIOL();
 break;
 case 2:
-mfAi8w = gDLi(nsJF, -1574607125, 1577831709, mfAi8w);
+
 break;
 case 3:
 gHYOg = HIOL();
@@ -297,7 +297,7 @@ break;
 }
 else
 {
-JgYAnjL = (unsigned short)(Y8w43f3m_C);
+
 }
 
 switch (SdQgW30Be)
@@ -342,7 +342,7 @@ for (int j = 0; j < 10; ++j)
 {
 if ((avLgPkViP > dbLX_1Rwf) && (X0zG == -193107189))
 {
-XD4p = (int)floor(w2lMn1);
+
 }
 }
 }
@@ -364,7 +364,7 @@ for (int i = 0; i < 9; i++)
 }
 
 f1Qehe98e = (int)floor(w2lMn1);
-Fk4A3ZA3U0 = gDLi(t23k1uma, 1628114309, V73V4Q, -987937708);
+
 {
 int i = 3;
 do
@@ -402,7 +402,7 @@ case 0:
 
 break;
 case 1:
-Nyp5 = (int)abs(ewRD);
+
 break;
 }
 
@@ -452,7 +452,7 @@ Ta4A = (int)floor(T4JGLopz);
 
 try
 {
-nsJF = (int)ceil(aUvqMS7zo);
+
 }
 catch (int& errorCode)
 {
@@ -466,7 +466,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-mfAi8w = gDLi(Q5HOc, Y8w43f3m_C, 780394332, -282631756);
+
 break;
 case 'c':
 case 'C':
@@ -478,7 +478,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-EIdK2 = HIOL();
+
 break;
 case 'f':
 case 'F':
@@ -493,7 +493,7 @@ case 'H':
 Bh8gfMi = gDLi(R_WF, -1519949764, Bh8gfMi, h_SPxs);
 break;
 default:
-p42x_ &= 290794408;
+
 break;
 }
 switch (flyHoYMc)
@@ -508,7 +508,7 @@ case 2:
 dbLX_1Rwf *= tI4NGTN7;
 break;
 case 3:
-Rft_ /= N8xvByYys;
+
 break;
 default:
 R_WF = (int)floor(h3pxX5);
@@ -535,7 +535,7 @@ case 1:
 h3pxX5 = (int)floor(R_WF);
 break;
 case 2:
-nsJF = HIOL();
+
 break;
 case 3:
 FfM_5 = HIOL();
@@ -547,7 +547,7 @@ case 5:
 UVGTB5lXb -= 269331158;
 break;
 case 6:
-Fk4A3ZA3U0 = gDLi(-1073829361, -957173251, J6Fx, -970728941);
+
 break;
 case 7:
 T4JGLopz = (M6W_ < n_K6E) ? Ta4A : gDLi(614227752, 1604389214, J6Fx, FjZj);

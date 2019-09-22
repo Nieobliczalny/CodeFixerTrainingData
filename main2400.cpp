@@ -122,7 +122,7 @@ else
 int k = 4;
 do
 {
-g0pm5czNA = (int)abs(Q2_u8018);
+
 --k;
 }
 while (k >= 0);
@@ -313,7 +313,7 @@ case 0:
 
 break;
 case 1:
-FL9kOz4V = (int)ceil(Jqh6RaE94R);
+
 break;
 case 2:
 eFii = y0j707p(-260713319);
@@ -338,7 +338,7 @@ Ro2uYoitk9 *= 1572802322;
 }
 else
 {
-o_I2D8W7 = y0j707p(Kwk_) + 1217568296;
+
 }
 j--;
 }
@@ -357,7 +357,7 @@ Bo2x7_5V--;
 break;
 case 'c':
 case 'C':
-J3yh = awSq5449 + sZB_g;
+
 break;
 case 'd':
 case 'D':
@@ -479,7 +479,7 @@ case 'c':
 
 break;
 case 'd':
-eFii = y0j707p(PrlW4);
+
 break;
 case 'e':
 eFii = y0j707p(-1326480864);
@@ -534,7 +534,7 @@ cout << y0j707p(-742978158) << K_vX << y0j707p(1317942377) << endl;
 }
 
 
-V5Ws2Tqy = (unsigned short int)(afbuh);
+
 if (mWc9C != 1267101006)
 {
 for (int j = 10; j >= 0; --j)

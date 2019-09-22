@@ -882,7 +882,7 @@ case 4:
 jL3LWY >>= XaoPMCHRF;
 break;
 default:
-VJ2WMr1aO7 = h5GIw_GClw ^ 136436392;
+
 break;
 }
 }
@@ -898,7 +898,7 @@ krIJv66hT <<= 68743092;
 break;
 case 'b':
 case 'B':
-XaoPMCHRF ^= 2121974184;
+
 break;
 case 'c':
 case 'C':

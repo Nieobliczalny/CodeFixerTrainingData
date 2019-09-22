@@ -23,7 +23,7 @@ int main(void) {
   unsigned short int  O1jZWHX;
   O1jZWHX  =  -1055139309;
 	long	j92SrMM4Y;
-	j92SrMM4Y	=	441799065;
+
   short  lq43S82FK;
   lq43S82FK  =  0;
   int  F_lp9e_Rj2;
@@ -41,7 +41,7 @@ int main(void) {
  unsigned long nGYg_LqFtI;
  nGYg_LqFtI = 359087779;
     unsigned long long    Tr8Rx;
-    Tr8Rx    =    -1738195165;
+
     short    GhHcVw2_2;
     GhHcVw2_2    =    -1396651271;
   unsigned char  P_9lN_3;
@@ -51,7 +51,7 @@ int main(void) {
  short int gRaMY50CQ;
  gRaMY50CQ = -486578206;
 	long double	vzJl21;
-	vzJl21	=	-1326723888;
+
  double t25MYn1;
  t25MYn1 = 1018690200;
 	long double	Av1PRaEV1M;
@@ -349,7 +349,7 @@ while (j >= 0);
 }
 }
 
-t25MYn1 = (int)floor(d7Zg_5Pk);
+
 
 if (let1pFw2D7 < -1360124065)
 {
@@ -368,7 +368,7 @@ else
 switch (RruapUd2p)
 {
 case 0:
-nGYg_LqFtI = Z08USO * d7Zg_5Pk;
+
 break;
 }
 }

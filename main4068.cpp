@@ -390,7 +390,7 @@ case 'c':
 ee65 = (int)abs(PF9Qa) * 0;
 break;
 case 'd':
-P2trU1C = EX_shg2V(-2103033474);
+
 break;
 case 'e':
 P2trU1C -= a_8Ixu;
@@ -402,7 +402,7 @@ case 'g':
 wlz3tO = Xxn5Z__R7(wlz3tO, a_8Ixu, ee65, eWsjt7K6_G);
 break;
 case 'h':
-a_8Ixu = Xxn5Z__R7(eWsjt7K6_G, a_8Ixu, B5Ad2_w, xx6c);
+
 break;
 case 'i':
 xx6c = xx6c | 1163959241;

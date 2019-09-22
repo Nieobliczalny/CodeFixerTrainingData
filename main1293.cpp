@@ -17,7 +17,7 @@ int main()
 	long	ZIs_,	wYTN4dJg7s,	U5hb2E,	yJzq83i,	SokB,	CtE0h1RL5O,	A9nLM3NGf,	FVB1wlHC,	QBZba,	S9AG,	ekt3o6,	iUND,	KW7P,	gA04,	QaO_6qzUzk,	Tp09WyQ5,	sO5DU,	MATG_i,	pcNENt,	T_9r7p5D,	P3_h_1d,	YBexis650,	jvw9F8V,	Q6v3u,	AnE_gl_f,	bjjA1,	lsek9g,	fuBi_,	Ie6_,	fAGEu,	fD4Z,	ofhI2U,	cv9IX,	C2ikf,	IC7xkGE,	WyB4z6pEI,	W7eO,	EnF_jz,	R36mD04,	k7CSP8vl,	Yw9sb8_u5,	F6uq9B_7F,	noD_rEkX85,	T9oUu,	LW977e6X8,	EtFWwRAWj7,	RL8ilQAU63,	q05p93H919,	L7uf68Aivl,	G_21,	kSA1k9B,	pRzO,	VN_z,	y5eg98T6S;
 
 	wYTN4dJg7s	=	-2137846259;
-	U5hb2E	=	1061894760;
+
 	yJzq83i	=	-345297407;
 	SokB	=	-1222662577;
 	CtE0h1RL5O	=	1766516714;
@@ -40,7 +40,7 @@ int main()
 	jvw9F8V	=	-455340158;
 	Q6v3u	=	-1690700475;
 	AnE_gl_f	=	-269387186;
-	bjjA1	=	-1035983503;
+
 	lsek9g	=	-1127261267;
 	fuBi_	=	-720644147;
 
@@ -61,7 +61,7 @@ int main()
 	T9oUu	=	2113748832;
 	LW977e6X8	=	1860884154;
 	EtFWwRAWj7	=	486033582;
-	RL8ilQAU63	=	820583320;
+
 	q05p93H919	=	-322120577;
 	L7uf68Aivl	=	225143732;
 	G_21	=	2146198037;
@@ -130,7 +130,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-G_21 = wYTN4dJg7s | fAGEu;
+
 break;
 case 'c':
 case 'C':
@@ -228,7 +228,7 @@ case 'e':
 G3aJ123 = ZW_4();
 break;
 case 'f':
-CYkT0Mi68m = ZW_4();
+
 break;
 case 'g':
 
@@ -284,7 +284,7 @@ if (((Q6v3u == P3_h_1d) && (p1fxOm9fPr)) || ((F6uq9B_7F >= -1131317187) || (AnE_
 {
 for (int j = 0; j < 3; ++j)
 {
-q05p93H919 = (int)abs(yJzq83i);
+
 }
 }
 else
@@ -339,7 +339,7 @@ while (j < 4);
 }
 else if (kSA1k9B == 1073296466)
 {
-ZIs_ = a4PceM3_9();
+
 }
 else if ((F6uq9B_7F == 1651192815) && (A9nLM3NGf == R36mD04))
 {
@@ -385,7 +385,7 @@ case 'b':
 
 break;
 case 'c':
-p1fxOm9fPr = ZW_4();
+
 break;
 case 'd':
 FVB1wlHC %= 598229901;
@@ -403,7 +403,7 @@ case 'h':
 
 break;
 case 'i':
-ZIs_ = y5eg98T6S ^ C2ikf;
+
 break;
 default:
 CYkT0Mi68m = ZW_4();
@@ -427,7 +427,7 @@ G3aJ123 = ZW_4();
 }
 else if ((k7CSP8vl <= Tp09WyQ5) && (gA04))
 {
-bjjA1 = A9nLM3NGf - fD4Z;
+
 }
 else if (U5hb2E <= 602797668)
 {
@@ -471,7 +471,7 @@ case 'b':
 FVB1wlHC *= 248329802;
 break;
 case 'c':
-EnF_jz = ekt3o6 / 1155385432;
+
 break;
 case 'd':
 A9nLM3NGf = a4PceM3_9();

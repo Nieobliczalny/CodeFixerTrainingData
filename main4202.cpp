@@ -245,7 +245,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-E9TYB_ &= jG39m;
+
 break;
 case 'c':
 case 'C':

@@ -97,7 +97,7 @@ case 1:
 j70P50G = Nyd45(j70P50G);
 break;
 case 2:
-G0K3y73_J = zhVZa(G0K3y73_J, KUbhu3d8S4, vP_1Dm82jD, 1220870253);
+
 break;
 case 3:
 f_ggRO3y7f = zhVZa(f_ggRO3y7f, -225766784, r3Q8U5, -1713536112);
@@ -164,7 +164,7 @@ case 'd':
 
 break;
 case 'e':
-H1YKKs = niwB(H1YKKs);
+
 break;
 case 'f':
 p0853Z = y0unV(810806262, -1852011678);
@@ -373,7 +373,7 @@ else
 
 std::cout << bN7Z8Y4_R << GL1izNd(bEki39, -2142210850) << "o4cky" << y0unV(-417122455, lW69) << std::endl;
 
-t0Co6 = Nyd45(t0Co6);
+
 c1efsQEq = GL1izNd(c1efsQEq, -624018308);
 switch (J6SxH_R9)
 {

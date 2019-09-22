@@ -582,7 +582,7 @@ case 'b':
 cJ_usV22 = PYCJQCIp(-540689460, -860104769);
 break;
 case 'c':
-iuk_3E ^= LVp802;
+
 break;
 case 'd':
 CiGPbKb2W = (int)abs(P9xy_);
@@ -594,7 +594,7 @@ case 'f':
 lmkoQP6Wv = Op36B0QNi(jFZRA_3B, 1949298697);
 break;
 case 'g':
-h_L0 = Kzb47Hk8 % 496727942;
+
 break;
 default:
 A__660KaQ = (int)floor(h_L0);

@@ -487,7 +487,7 @@ while (j < 6);
 
 Bl3xn5ins = (int)floor(FiD7);
 
-bCx19D %= 2129469535;
+
 thIj041 += thIj041;
 
 return 0;

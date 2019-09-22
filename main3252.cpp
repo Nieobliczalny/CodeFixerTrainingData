@@ -116,7 +116,7 @@ switch (AD_q8v)
 {
 case 'a':
 case 'A':
-kelr = (int)floor(RE4TV);
+
 break;
 case 'b':
 case 'B':
@@ -128,7 +128,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-z_lb = (int)abs(XB8fQ);
+
 break;
 }
 RE4TV = (int)ceil(vu_tXa);
@@ -139,7 +139,7 @@ for (int i = 0; i < 5; ++i)
 {
 
 }
-sAm94f3 = (int)floor(lsOZSl);
+
 return 0;
 }
 

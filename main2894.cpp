@@ -184,7 +184,7 @@ SHcGR3 %= 342934670;
 break;
 case 'c':
 case 'C':
-T9uF_5F %= jN1wVC_z9;
+
 break;
 case 'd':
 case 'D':
@@ -365,7 +365,7 @@ if (P9j3Hv5HzF != wlM4O)
 {
 if (iHPG2 == -627571250)
 {
-v6z6h = (unsigned int)(XuCaluE10);
+
 }
 else if (f0qvyrAE != 1213026159)
 {
@@ -403,7 +403,7 @@ case 'a':
 
 break;
 case 'b':
-fm2wAeL2N <<= LFbCKddQCD;
+
 break;
 case 'c':
 j91qvHuO = XuCaluE10 ^ pJHlEcu7TY;

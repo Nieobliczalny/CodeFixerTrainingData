@@ -18,7 +18,7 @@ int main() {
     short    SohUL1vV;
     SohUL1vV    =    1555312345;
     short int    FYHqH3spy;
-    FYHqH3spy    =    0;
+
   long long  IVLi6;
 
 	unsigned short int	s7Pvf;
@@ -47,7 +47,7 @@ int i = 9;
 do
 {
 --i;
-s7Pvf = SKhyW8 / SKhyW8;
+
 }
 while (i >= 0);
 }

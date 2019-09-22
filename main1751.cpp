@@ -31,7 +31,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-wo_vE723 = eZnr3 & z4qO8kE7a_;
+
 break;
 case 'd':
 case 'D':
@@ -65,7 +65,7 @@ O290Enf62X *= O290Enf62X;
 i--;
 }
 }
-z4qO8kE7a_ = 377467053 / igY0();
+
 
 Y9v2Y = (unsigned long long)(eZnr3 + (-1967835060));
 if (O290Enf62X <= 1378087419)
@@ -138,7 +138,7 @@ eZnr3 = (int)abs(s_5_5P4);
 
 for (int i = 0; i < 1; ++i)
 {
-Z9av6_WhtX = (int)abs(eZnr3);
+
 }
 
 return 0;

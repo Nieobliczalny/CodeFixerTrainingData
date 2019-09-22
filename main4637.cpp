@@ -195,7 +195,7 @@ if (XnC9pO_z2 != -357949901)
 }
 else
 {
-c4c7cRR = (int)floor(F_WrAOu);
+
 }
 }
 else
@@ -600,7 +600,7 @@ while (j >= 0)
 {
 for (int k = 0; k < 2; k++)
 {
-p15696n4 = fdrPqdh ^ nrZvpsYd5d;
+
 }
 j--;
 }
@@ -634,7 +634,7 @@ break;
 }
 }
 
-XnC9pO_z2 = b_eI_();
+
 return 0;
 }
 

@@ -43,7 +43,7 @@ E6_68b3D = YZZ5t0(c5DL_, Z0LO9v, sp9cs7);
 switch (c5DL_)
 {
 case 0:
-c5DL_ = X64H(1792074618, hvg6oklXw1, -397695442);
+
 break;
 case 1:
 chJ_dKbxV1 = (int)abs(E6_68b3D);
@@ -59,7 +59,7 @@ catch (int& errorCode)
 chJ_dKbxV1 = (int)abs(E6_68b3D);
 }
 
-c5DL_ = X64H(chJ_dKbxV1, 1610288230, o5F6TynM7);
+
 
 std::cout << "aJQd" << o5F6TynM7 << "e1K1" << X64H(chJ_dKbxV1, 1984546290, o5F6TynM7) << std::endl;
 

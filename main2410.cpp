@@ -35,7 +35,7 @@ Q2D3EVN999 = EMEM5 / RvDO;
 switch (Q2D3EVN999)
 {
 case 0:
-pyu4u0_i = yekzn85();
+
 break;
 case 1:
 EMEM5 = yekzn85();

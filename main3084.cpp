@@ -86,7 +86,7 @@ case 1:
 B6S8A ^= 41951274;
 break;
 case 2:
-ipYD = oitm0G() ^ 1189702162;
+
 break;
 default:
 D5lJ >>= 1698817990;
@@ -133,7 +133,7 @@ case 5:
 dc5e /= 1920038959;
 break;
 case 6:
-ipYD = II7Sa3(-24928885, 1181666852);
+
 break;
 case 7:
 
@@ -144,7 +144,7 @@ break;
 }
 }
 
-jExF4kTgxk = -1001889961 / PHhGL;
+
 B1uVU0a11 = EgnyM7a * DDxauk95;
 std::cout << U_vY1439y << std::endl;
 
@@ -208,7 +208,7 @@ case 1:
 
 break;
 case 2:
-ZahI = (int)floor(a8eCOh341);
+
 break;
 case 3:
 mz_L7TRy1 = A4c24q(1510856655, 59295868, yFu87, -727381427) % HHeWe;
@@ -273,7 +273,7 @@ case 0:
 
 break;
 case 1:
-ZahI = (int)floor(B6uif);
+
 break;
 case 2:
 ifLp6x = (int)floor(B1uVU0a11);
@@ -342,7 +342,7 @@ hoBc6I4mP6 *= Qb504;
 break;
 case 'd':
 case 'D':
-a8eCOh341 = (int)floor(k_9J32SCa9);
+
 break;
 }
 }
@@ -360,7 +360,7 @@ else if ((tU_v >= WTkG) && (z4fv & 251014188))
 {
 for (int j = 0; j < 2; ++j)
 {
-RgG380g853 = (float)(wNb_2h0mKv);
+
 }
 }
 else if (z4fv >= -678877551)
@@ -374,7 +374,7 @@ int j = 0;
 do
 {
 ++j;
-Fzy9P = (char)(B6uif);
+
 }
 while (j < 2);
 }
@@ -389,7 +389,7 @@ else
 {
 if (yV0h > mz_L7TRy1)
 {
-hoBc6I4mP6 = oitm0G();
+
 }
 else
 {

@@ -48,7 +48,7 @@ int main() {
 	long double	wNmVHb;
 	wNmVHb	=	-424891861;
     int    YA4223a86;
-    YA4223a86    =    1850437097;
+
 	unsigned char	jSG2BaB5;
 	jSG2BaB5	=	294218586;
     long double    p8D1YeAX6;
@@ -88,7 +88,7 @@ int main() {
 	unsigned short int	ZbOKs;
 
  double m53ph34j9;
- m53ph34j9 = -460681799;
+
   int  QT7u3;
   QT7u3  =  -72882176;
     unsigned short    w3uI7248wr;
@@ -132,7 +132,7 @@ int main() {
     unsigned long    ku_llnBFQ;
     ku_llnBFQ    =    95186500;
     unsigned long long    J5C_;
-    J5C_    =    -1759000680;
+
  short int TsGk4i330;
  TsGk4i330 = 1742779623;
     short int    M_tb1p;
@@ -148,7 +148,7 @@ int main() {
     int    vw76_pv;
 
  short t3_9w;
- t3_9w = 152246345;
+
   unsigned short int  Bl23b;
   Bl23b  =  767555321;
 	unsigned long	L3YZndn01;
@@ -320,7 +320,7 @@ case 2:
 ZN_0 = jSG2BaB5 + 152382987;
 break;
 case 3:
-YkkjCpBU9 = U3_2pFux >> 1134856529;
+
 break;
 case 4:
 wNmVHb = (int)abs(y8h3dF);
@@ -362,7 +362,7 @@ else if (jSG2BaB5 == -2053829602)
 {
 if (QT7u3)
 {
-YkkjCpBU9 += FUhrb;
+
 }
 else
 {
@@ -416,7 +416,7 @@ case 0:
 FUhrb++;
 break;
 case 1:
-A0Or615s = (int)ceil(p8D1YeAX6);
+
 break;
 case 2:
 YVJ47I57_ = (int)floor(Z7h0);
@@ -447,7 +447,7 @@ ZbOKs = (unsigned short int)(Z7h0);
 
 if ((q_r4u) && (ZbOKs))
 {
-FUhrb += 1085338737;
+
 }
 else if (DhHakGkU != IZGUvuv)
 {
@@ -505,7 +505,7 @@ case 0:
 
 break;
 default:
-m53ph34j9 = (int)floor(YVJ47I57_);
+
 break;
 }
 --j;
@@ -534,7 +534,7 @@ if (wNmVHb < 1129437447)
 }
 else if (Cf1S >= YVJ47I57_)
 {
-ol_A = t_i2j & 336387043;
+
 }
 else if (U3_2pFux >= -369961127)
 {
@@ -550,7 +550,7 @@ else if (w69dC & E_3dQvF)
 }
 else
 {
-jzdY9K = R98XZV2D << v720o;
+
 }
 }
 }
@@ -570,7 +570,7 @@ if (Jl5ej4vUsh >= t_i2j)
 }
 else if ((TSurhS5 == 800628416) && ((w69dC) && (BLoijlr5E == A7BKR1L)))
 {
-YA4223a86 = (int)abs(Jl5ej4vUsh);
+
 }
 else if (T5rc >= avW3zffOG6)
 {
@@ -649,7 +649,7 @@ try
 {
 for (int k = 7; k >= 0; k--)
 {
-YA4223a86 = (int)abs(tUleQi);
+
 }
 }
 catch (int& errorCode)
@@ -669,7 +669,7 @@ i--;
 b38ZRhBmmv = (int)floor(orU4573v);
 
 O0Sk5 = TsGk4i330 >> U3_2pFux;
-sVDm_8c = (int)ceil(b38ZRhBmmv);
+
 cout << "YW5w4" << ku_llnBFQ << ZN_0 << IZGUvuv << endl;
 
 try

@@ -208,7 +208,7 @@ case 1:
 
 break;
 case 2:
-A_R6LfL %= 1265277216;
+
 break;
 }
 MMKj833Wny = LM8X6V6X3q / d_heE(523001935, kd3u_zQ, SyjNKKjgi);
@@ -231,7 +231,7 @@ else if (DvK8Lv9h11 >= -247258121)
 }
 else if (l7j1S)
 {
-cMM9gJ = (int)ceil(kd3u_zQ);
+
 }
 else
 {

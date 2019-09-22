@@ -77,7 +77,7 @@ if (Ajsh >= -1794813530)
 int k = 8;
 do
 {
-lisTc3m = (int)floor(j_Bm2t8kub);
+
 --k;
 }
 while (k >= 0);
@@ -301,7 +301,7 @@ while (k < 10)
 }
 else if ((Ao_izN4Cf < NH7FuSq_) || ((Dqpn98cdnF) && (NH7FuSq_ == 117079042)))
 {
-a9l6o = d39f0Yy(-142639306, -420623362);
+
 }
 else
 {
@@ -351,7 +351,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-a9l6o = NH7FuSq_ / 1848175767;
+
 break;
 case 'c':
 case 'C':
@@ -371,7 +371,7 @@ g3OeW6L_9 *= Zp7fB;
 break;
 case 'g':
 case 'G':
-vVTM2 = (int)ceil(v0MSVo_NZ);
+
 break;
 case 'h':
 case 'H':
@@ -410,7 +410,7 @@ if (k56Gz_v9B)
 switch (VV62)
 {
 case 0:
-Qx7rBdxMxh = (int)abs(Zp7fB);
+
 break;
 case 1:
 

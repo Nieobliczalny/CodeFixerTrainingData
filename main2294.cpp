@@ -390,7 +390,7 @@ case 0:
 
 break;
 case 1:
-UF3Jr_ = (int)abs(FGX1ktj_2);
+
 break;
 case 2:
 w5bKMIK %= c_Lm2h04L5;
@@ -405,7 +405,7 @@ case 5:
 
 break;
 case 6:
-YHrB16n_7 = bx5b69BU(vr86tiC, 1358462644, 461046394, nS5N9x_5, 1907488441);
+
 break;
 case 7:
 fv4fz = (int)ceil(vr86tiC);

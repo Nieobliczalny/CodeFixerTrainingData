@@ -54,7 +54,7 @@ int main(int argc, char** argv)
     float    oq0v;
     oq0v    =    -1897753413;
     unsigned long long    K1_ET;
-    K1_ET    =    1303552588;
+
  char qJqf_ZcV1;
  qJqf_ZcV1 = -365133300;
 	short int	On73dr51;
@@ -70,7 +70,7 @@ int main(int argc, char** argv)
 	long double	G1D6;
 	G1D6	=	-559448611;
  unsigned short w09PZy48T;
- w09PZy48T = -848013024;
+
  unsigned long long vLv6jrNJXa;
  vLv6jrNJXa = 1746067767;
     long    AXDT;
@@ -86,7 +86,7 @@ int main(int argc, char** argv)
 	short int	v__AKxy3Uu;
 	v__AKxy3Uu	=	795287723;
  unsigned char y7a1xa3;
- y7a1xa3 = 39513658;
+
 	long	ylj96Qf2;
 	ylj96Qf2	=	650755404;
   char  pA2jE8c;
@@ -102,7 +102,7 @@ int main(int argc, char** argv)
     unsigned int    srVvz;
 
     unsigned char    y4rFw3TlP;
-    y4rFw3TlP    =    1568215605;
+
     double    VpNw76PO;
     VpNw76PO    =    2120074022;
     long    nfDDCbo4;
@@ -118,7 +118,7 @@ int main(int argc, char** argv)
   char  zHT9gHnSYR;
   zHT9gHnSYR  =  -371090102;
     unsigned long    D_r77606v1;
-    D_r77606v1    =    -950381867;
+
     double    UnEvCXS;
     UnEvCXS    =    1689782732;
  int e0h_L8Aow;
@@ -130,7 +130,7 @@ int main(int argc, char** argv)
   char  mS77ToQ;
 
  long double btKOokml;
- btKOokml = -592063648;
+
     unsigned short    LymP4_C;
     LymP4_C    =    2023685967;
   unsigned short int  U1W0D;
@@ -144,7 +144,7 @@ int main(int argc, char** argv)
   short int  K19R0IVX;
 
  unsigned char pX18G;
- pX18G = -989498756;
+
   unsigned char  tM53211lAG;
   tM53211lAG  =  1485528328;
     unsigned short    bE3G;
@@ -156,7 +156,7 @@ int main(int argc, char** argv)
   unsigned char  Owu3EVVb_9;
   Owu3EVVb_9  =  1162359983;
     unsigned short int    IjfJ9;
-    IjfJ9    =    -843377964;
+
     double    s1d70oh;
     s1d70oh    =    -2041247781;
  unsigned long long STOT;
@@ -166,7 +166,7 @@ int main(int argc, char** argv)
     unsigned long long    NJ5Hznib;
     NJ5Hznib    =    1197487227;
 	unsigned long	DfMa;
-	DfMa	=	949732169;
+
     unsigned int    ICwm5G83L;
     ICwm5G83L    =    -996477528;
  long Sg6u;
@@ -176,7 +176,7 @@ int main(int argc, char** argv)
 	long	mM0F;
 
   unsigned int  QW3C944d05;
-  QW3C944d05  =  -802676998;
+
 	short	C1Z_;
 	C1Z_	=	-488660584;
   unsigned short  zez1dHs9j;
@@ -194,7 +194,7 @@ int main(int argc, char** argv)
  double R_53;
  R_53 = -1670218286;
   int  rD650_Hz8;
-  rD650_Hz8  =  -1680712257;
+
 	short int	bBBiC6C;
 	bBBiC6C	=	691288503;
 	short int	n1_J_AR;
@@ -208,7 +208,7 @@ int main(int argc, char** argv)
     short int    ABsiiY8v12;
     ABsiiY8v12    =    0;
 	int	Sza0NzoGh;
-	Sza0NzoGh	=	-402760981;
+
  long double O7G2jc;
  O7G2jc = 90805945;
     long double    t6rkBH7;
@@ -218,7 +218,7 @@ int main(int argc, char** argv)
     double    bk6q1mUKh;
 
     long double    gK1_Iq__;
-    gK1_Iq__    =    570588554;
+
   unsigned short int  q0zCb0Cx;
   q0zCb0Cx  =  1090983287;
   long double  D80aF1G;
@@ -256,7 +256,7 @@ while (k < 2)
 }
 }
 }
-Sza0NzoGh = (int)(yM7e_j);
+
 switch (v__AKxy3Uu)
 {
 case 'a':
@@ -299,7 +299,7 @@ default:
 D80aF1G = (int)floor(UnEvCXS);
 break;
 }
-D8cs = D8cs / oB0Njt6Q0_;
+
 
 std::cout << Mk7aA9(tph_8G8p, 403626860, -2132131071, -284291925) << "dEgYW7Z_" << std::endl;
 if (Owu3EVVb_9 < 1361168401)
@@ -316,7 +316,7 @@ if ((STOT) || (bE3G > 1467320334))
 }
 else
 {
-nfDDCbo4 = (int)abs(H4t05Dz);
+
 }
 }
 else if (k41q1NxG)
@@ -344,7 +344,7 @@ else if (s1d70oh == -815951229)
 int k = 8;
 while (k >= 0)
 {
-tz79eW = wUA0R | 1702933281;
+
 --k;
 }
 }
@@ -377,7 +377,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-A_FOF5C = (int)abs(zHT9gHnSYR);
+
 break;
 default:
 V6F62O835D <<= e0h_L8Aow;
@@ -400,7 +400,7 @@ pvN18R8ejE &= 2088824714;
 }
 else if (pvN18R8ejE > P_QJx_j_)
 {
-e0h_L8Aow = FVtFO78(e0h_L8Aow);
+
 }
 else
 {
@@ -480,7 +480,7 @@ int k = 7;
 do
 {
 k--;
-WmBd_5lJ5A = (int)ceil(R_53);
+
 }
 while (k >= 0);
 }
@@ -494,7 +494,7 @@ catch (int& errorCode)
 {
 NJ5Hznib = O0wLS79G3L(NJ5Hznib, -288173778, V6F62O835D, 972162075, 1381694634);
 }
-BVK_Gj = (unsigned char)(Vf16T);
+
 
 if (((UnEvCXS > 1023835895) && (n1_J_AR == hs0zY5)) || ((On73dr51 & EPnXtxcp) && (pA2jE8c < -1691678232)))
 {
@@ -517,7 +517,7 @@ switch (On73dr51)
 {
 case 'a':
 case 'A':
-tph_8G8p = AXDT + bR8Pe;
+
 break;
 case 'b':
 case 'B':
@@ -529,7 +529,7 @@ Vf16T = (int)floor(G1D6);
 break;
 case 'd':
 case 'D':
-hs0zY5 = (int)floor(oq0v);
+
 break;
 default:
 pvN18R8ejE = O0wLS79G3L(612907495, 2028616918, q0zCb0Cx, 1468723150, 1182620152);

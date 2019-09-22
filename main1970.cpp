@@ -20,7 +20,7 @@ int main(void)
 switch (wqs5D1N9m_)
 {
 case 0:
-h3eGk62MF = ZphMm * z0Mdhqm;
+
 break;
 default:
 k28sk_ &= up0SS0F;
@@ -30,7 +30,7 @@ break;
 qD0_ = (long long)(CEQfv07 + (2041499663));
 if (BR5t >= -24019621)
 {
-crwUvtgh4o = (long long)(f1Ur0YG7M);
+
 }
 else
 {
@@ -50,7 +50,7 @@ catch (int& errorCode)
 IP29s0J |= tQ65P618;
 }
 }
-qRQ0 = 1837787884 / GfqIZ;
+
 
 aiCLN7Xv1 = vfxxlzc6I - 1887260042;
 

@@ -573,7 +573,7 @@ case 1:
 POG4v3 = xx7IvJ5 << 1328031317;
 break;
 case 2:
-ShRB9 -= NTBO_2;
+
 break;
 case 3:
 HPo63eM ^= POG4v3;

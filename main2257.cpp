@@ -72,7 +72,7 @@ case 1:
 BX0_pX_N = o_coBb9da - p8DgEvfe;
 break;
 case 2:
-Fi99NAT %= wKJ93yY;
+
 break;
 case 3:
 b_1Zk20 = d3ovDV6Aq & D175pMI7;
@@ -96,7 +96,7 @@ case 9:
 cYdLE3_AN9 = (int)abs(dUh319D);
 break;
 default:
-Fi99NAT = DqRZ6BTVG / 434838343;
+
 break;
 }
 }
@@ -225,7 +225,7 @@ case 2:
 oUG0z968 = d3ovDV6Aq & 1882347784;
 break;
 case 3:
-HrIg11vZp9 = FhA66WmGt_ << 1946239513;
+
 break;
 case 4:
 
@@ -248,7 +248,7 @@ else if (cYdLE3_AN9 <= -1513687805)
 {
 try
 {
-LvssF0oG = FUw1i4(LvssF0oG, cS61, 286995800);
+
 }
 catch (int& errorCode)
 {
@@ -292,7 +292,7 @@ case 'd':
 Cy0o = FUw1i4(Cy0o, cYdLE3_AN9, -1959882491);
 break;
 default:
-k98D = (int)abs(ISOCU9);
+
 break;
 }
 }
@@ -363,7 +363,7 @@ while (k < 3);
 }
 }
 
-p8DgEvfe = FUw1i4(-2100741618, SlHOfC11s, -2044944885);
+
 
 return 0;
 }

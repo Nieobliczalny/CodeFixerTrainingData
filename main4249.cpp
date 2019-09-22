@@ -316,7 +316,7 @@ case 1:
 
 break;
 case 2:
-Dq1bhl33 ^= HMA3;
+
 break;
 case 3:
 Dq1bhl33--;
@@ -331,7 +331,7 @@ case 6:
 HMA3 *= c___13;
 break;
 case 7:
-Dq1bhl33 = c___13 >> HMA3;
+
 break;
 case 8:
 Dq1bhl33 = yJnb_dA | 1068952742;
@@ -368,7 +368,7 @@ z2mz3D = fYttb9() + OHx_E_u3D;
 }
 else if (yJnb_dA == -984591518)
 {
-OHx_E_u3D = fYttb9();
+
 }
 else
 {

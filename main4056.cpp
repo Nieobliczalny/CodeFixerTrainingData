@@ -322,7 +322,7 @@ case 2:
 NQB2 = Dd_GlW + DX49_7z7i;
 break;
 case 3:
-XTVt2dg = gdU1_QP(XTVt2dg);
+
 break;
 case 4:
 fcG6_Zh02 *= Cic7Hf;
@@ -445,7 +445,7 @@ while (j < 2)
 int k = 2;
 while (k >= 0)
 {
-I86ecjO47 = u4vRW5i >> 1631965151;
+
 --k;
 }
 }
@@ -467,7 +467,7 @@ else if (nRV48KgK8g < fcG6_Zh02)
 }
 else if ((TzagdW55) || (zC9w9gXH > w_77vi_q))
 {
-D92f0 *= 1770700346;
+
 }
 else if (D92f0 < dpDc)
 {
@@ -494,7 +494,7 @@ if (rAjr)
 }
 }
 }
-XTVt2dg = (int)ceil(rAjr);
+
 
 std::cout << "YjKD" << Vp3eg0 << std::endl;
 
@@ -520,7 +520,7 @@ if (Z8CCx6q4Lm >= w_77vi_q)
 }
 else if (Z8CCx6q4Lm == -332839007)
 {
-a62mAN2DE /= Dd_GlW;
+
 }
 else
 {

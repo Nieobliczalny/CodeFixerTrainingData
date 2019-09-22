@@ -20,7 +20,7 @@ long long sxhFLJF7c7(long long DVRG,unsigned short int D35m)
 int main(void) {
  int d5b5Jkl66, A8I_eIW_, NTAL, k03v_zS, N7Vp__, jBwer_, YO7c36, f474_V2Y2q, jeyx_9_7H1, W_6iil2P;
  d5b5Jkl66 = -461269648;
- A8I_eIW_ = -1024854819;
+
  NTAL = 1924128036;
  k03v_zS = 1638251995;
  N7Vp__ = 722941034;
@@ -90,7 +90,7 @@ NTAL = jeyx_9_7H1 & YO7c36;
 break;
 case 'b':
 case 'B':
-f474_V2Y2q = N7Vp__ / 1868464280;
+
 break;
 case 'c':
 case 'C':
@@ -136,7 +136,7 @@ while (i < 7)
 switch (jeyx_9_7H1)
 {
 case 0:
-W_6iil2P = fPlxba(W_6iil2P);
+
 break;
 case 1:
 
@@ -148,7 +148,7 @@ case 3:
 d5b5Jkl66 = N10Y << 1719226884;
 break;
 case 4:
-NTAL = dX8i / 899775473;
+
 break;
 case 5:
 

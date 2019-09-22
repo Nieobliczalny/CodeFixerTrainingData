@@ -155,7 +155,7 @@ f3l_uv = (float)(hy106p83);
 
 H1wc9 = wX7H9P1n5r(WrsCgTT8W5, t9EBbQQnt, -1416852924, ERixFi4ODy, -356281354) / q64P0hM6cE;
 
-hY_hdJvyA = (unsigned short int)(mL58M7a_X7);
+
 LtaOCRT1 = (char)(q64P0hM6cE);
 if (Bu9jD != djElNO)
 {
@@ -292,7 +292,7 @@ if (Bu9jD)
 }
 else
 {
-h5RP3B___p = (int)abs(U9m3g);
+
 }
 }
 while (j < 1);

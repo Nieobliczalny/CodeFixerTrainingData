@@ -51,7 +51,7 @@ FFKOjqWbw = (unsigned long)(vyBZ9);
 
 try
 {
-vDo9J39 <<= FFKOjqWbw;
+
 }
 catch (int& errorCode)
 {
@@ -79,7 +79,7 @@ while (i < 5);
 VvqHjeAr = (int)floor(Sbu7MAnDO);
 
 
-LQ581I >>= 2130319376;
+
 if (twgbTw317h <= -502919231)
 {
 switch (p617RY)
@@ -266,7 +266,7 @@ case 0:
 k62ho = m643(89463747, -2099387102, sqI1nCLqp6, 1501753194);
 break;
 case 1:
-DNhy = (int)abs(vyBZ9);
+
 break;
 case 2:
 h3Kl95_69X = Kugu4F + 207259754;
@@ -322,7 +322,7 @@ case 0:
 
 break;
 case 1:
-DNhy = (int)floor(eJQOId748X);
+
 break;
 case 2:
 h3Kl95_69X = vyBZ9 >> EN0d;
@@ -345,7 +345,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-NJJNRuo12 = F6795j8LfB(FFKOjqWbw, 375014002);
+
 break;
 case 'c':
 case 'C':

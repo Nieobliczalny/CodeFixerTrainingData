@@ -408,7 +408,7 @@ default:
 Udo0yHie = W5x4Ia(VX2ubc6mx, -170118331);
 break;
 }
-SaMQ = (unsigned short int)(kXfpS00xjl);
+
 
 cout << W5x4Ia(154015056, 1477599777) << W5x4Ia(-65641968, Yx8z) << endl;
 if ((xDjFbswQ9) || (P7LSu >= CP78pj))
@@ -443,7 +443,7 @@ bCWvy33oK = W5x4Ia(-177726452, i3N0q5);
 }
 else if (fPeorZ != -2079408854)
 {
-q18uYA13de = TK59j_iFq * 1041276272;
+
 }
 else if (aR2D4qgQ1 == -1772631207)
 {

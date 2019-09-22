@@ -211,7 +211,7 @@ j++;
 }
 }
 
-d0xfn_t83O = (unsigned int)(xT2077m5Q + (J3_xu1));
+
 
 {
 int i = 0;
@@ -275,7 +275,7 @@ for (int k = 0; k < 6; k++)
 switch (a_f4)
 {
 case 'a':
-N5m7bgT3A9 = (pf0Kjw != 1729588029) ? 676996981 : 1836904047;
+
 break;
 case 'b':
 
@@ -287,7 +287,7 @@ case 'd':
 S54rlg2b -= ABJ_;
 break;
 case 'e':
-Tx7lC8KDql = MUCHx_ * EOv0zY;
+
 break;
 case 'f':
 EOv0zY++;
@@ -301,7 +301,7 @@ break;
 int i = 0;
 do
 {
-re6kms0 = (unsigned int)(zEh63486N);
+
 i++;
 }
 while (i < 3);

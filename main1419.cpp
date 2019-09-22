@@ -47,7 +47,7 @@ int main() {
 	B2I9894ekj	=	-796618450;
 	hweKo1_	=	-1794203445;
 	hm5tg	=	-986944635;
-	sHe6	=	546418754;
+
 	b5KH	=	-1181624231;
 	mQC5XzB	=	-129327042;
 
@@ -482,7 +482,7 @@ case 'a':
 
 break;
 case 'b':
-V74do7 = (int)ceil(UL5Ph8b5d);
+
 break;
 case 'c':
 WCqf = (XyQAR6D & -2093646039) ? EP73Kb1 : sHe6;

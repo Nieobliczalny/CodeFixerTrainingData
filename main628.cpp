@@ -166,7 +166,7 @@ do
 {
 if (AMdq_5 <= -822354836)
 {
-Kzm6D = (int)floor(setR);
+
 }
 j++;
 }
@@ -197,7 +197,7 @@ switch (Lbea5)
 {
 case 'a':
 case 'A':
-dhor6E >>= j7mczz6;
+
 break;
 case 'b':
 case 'B':
@@ -255,7 +255,7 @@ case 1:
 vr1Awj = j7mczz6 | 1077426399;
 break;
 case 2:
-Kzm6D = A_Dq - 1545616961;
+
 break;
 }
 
@@ -296,7 +296,7 @@ for (int k = 0; k < 2; k++)
 }
 else if ((t1Ng_31 & NW6f8e5H5) || (Q1v034Tw != OM19g866_X))
 {
-v3w_2SEGRL += D0lR;
+
 }
 else if (CB0C > NW6f8e5H5)
 {
@@ -317,7 +317,7 @@ for (int i = 0; i < 2; i++)
 }
 if (((AMdq_5 != hk6hL2l) || (CB0C & NW6f8e5H5)) && (wW24M6T < 1227989963))
 {
-Q1v034Tw = oomg % xm02yIF2;
+
 }
 else if (j7mczz6 >= 747713682)
 {
@@ -379,7 +379,7 @@ b48jX12Zg1 = oomg ^ 335541302;
 }
 else
 {
-D0lR = zk9M / MOYEbs5u7;
+
 }
 }
 }
@@ -391,7 +391,7 @@ else
 switch (oomg)
 {
 case 0:
-N2U0i = (Lr3eE) ? GyOE70Q : -1420971909;
+
 break;
 case 1:
 q6Q5mX7 = b48jX12Zg1 & L34_KW2fa6;
@@ -435,7 +435,7 @@ else
 }
 
 cout << Yq2ib2IZ << CB0C << GyOE70Q << "gbfjjH" << endl;
-q6Q5mX7 = 1492118672 / S0JzMs;
+
 
 return 0;
 }

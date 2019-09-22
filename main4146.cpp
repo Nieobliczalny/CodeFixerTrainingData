@@ -148,7 +148,7 @@ case 4:
 g_kH++;
 break;
 case 5:
-ymAg6n ^= 909793775;
+
 break;
 case 6:
 dzuA = (PuJ4y8U8at >= Sx8a0) ? SihB_bn_Y : -1578049554;
@@ -165,7 +165,7 @@ else if (Plg0_M5 != YpISkK)
 {
 try
 {
-owZ393 += pT5__T;
+
 }
 catch (int& errorCode)
 {
@@ -205,7 +205,7 @@ YSdao3++;
 }
 }
 
-F5IR62 = 572910979 / MuIP7e;
+
 
 {
 int i = 0;
@@ -219,7 +219,7 @@ if (Plg0_M5 == zxpt7_7m)
 }
 else if (nc8b7q != kevG)
 {
-j93V8 = (int)floor(Gc0YX);
+
 }
 else
 {
@@ -276,7 +276,7 @@ case 0:
 
 break;
 case 1:
-ByP98H78 >>= 388588817;
+
 break;
 case 2:
 p_bCU4908 = (int)floor(Plg0_M5);
@@ -288,7 +288,7 @@ case 4:
 
 break;
 case 5:
-uQSm4bjz = MuIP7e - 454388439;
+
 break;
 case 6:
 xl59pT >>= PuJ4y8U8at;
@@ -326,7 +326,7 @@ if (uQSm4bjz > GaO2rj7VG)
 {
 for (int k = 4; k >= 0; k--)
 {
-aaf6V6VEY1 = (int)abs(n9f6xQR7);
+
 }
 }
 else if (bcMsQ6q <= n9f6xQR7)
@@ -338,7 +338,7 @@ else
 switch (nsFk)
 {
 case 0:
-Es3f5WtM = dzuA ^ 398080310;
+
 break;
 case 1:
 

@@ -17,7 +17,7 @@ int main(void)
   char  uq1oTxPzU;
   uq1oTxPzU  =  -1456120272;
     float    n4Oi7qU;
-    n4Oi7qU    =    1132208439;
+
   char  CqrC;
   CqrC  =  -1233696220;
     unsigned short    kSt0OUFx5y;
@@ -285,7 +285,7 @@ while (i < 5);
 
 for (int i = 8; i >= 0; --i)
 {
-OARHpkrD = (unsigned long)(IBz_R);
+
 }
 if (IcKGYS6u4K)
 {
@@ -340,7 +340,7 @@ if (IBz_R)
 }
 else if (yxz81 <= -658849026)
 {
-xG3G0g0gdM -= 949326247;
+
 }
 else if ((YDo2qk5X8Q & kSt0OUFx5y) || ((Tu9T0hHL == 96537473) || (QNY4_V3QYc != SPhuX6Rb)))
 {
@@ -356,7 +356,7 @@ else
 switch (t9O04fjku)
 {
 case 'a':
-CqrC |= 393449136;
+
 break;
 case 'b':
 
@@ -383,7 +383,7 @@ case 'i':
 ygE7 = yxz81 << 464629140;
 break;
 case 'j':
-s_d50dd = yxz81 - TybXP4gh;
+
 break;
 default:
 
@@ -393,7 +393,7 @@ break;
 }
 else
 {
-TybXP4gh = m48AF3 % s_d50dd;
+
 }
 cout << ge01aBy1W0 << IcKGYS6u4K << T74_yVf168 << endl;
 

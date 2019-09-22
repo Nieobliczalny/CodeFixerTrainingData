@@ -222,7 +222,7 @@ int k = 5;
 while (k >= 0)
 {
 k--;
-JKiT = C747(D_c4M62dge);
+
 }
 }
 }
@@ -242,7 +242,7 @@ int j = 0;
 while (j < 4)
 {
 j++;
-FnJRYH181F = nI0zvp();
+
 }
 }
 }
@@ -295,7 +295,7 @@ else if ((b9VnF3i2h < -1963774833) || (w06qdE087x))
 int k = 0;
 while (k < 9)
 {
-jCFEoMVV = (int)floor(O2P480slH);
+
 ++k;
 }
 }
@@ -315,7 +315,7 @@ case 'a':
 
 break;
 case 'b':
-JKiT = C747(P_g782il2S);
+
 break;
 case 'c':
 JKiT = C747(JKiT);
@@ -365,7 +365,7 @@ for (int j = 6; j >= 0; --j)
 int k = 9;
 do
 {
-D_c4M62dge = (int)abs(u_F7n31oF);
+
 --k;
 }
 while (k >= 0);
@@ -433,7 +433,7 @@ while (k >= 0);
 }
 else
 {
-jCFEoMVV = (int)floor(P_g782il2S);
+
 }
 
 return 0;

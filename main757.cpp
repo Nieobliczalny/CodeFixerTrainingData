@@ -31,7 +31,7 @@ int main(void)
 	unsigned int	e_AoGSi;
 	e_AoGSi	=	0;
 	unsigned short	QXCt;
-	QXCt	=	2073791289;
+
     short    v24i2_;
     v24i2_    =    -1288247520;
  int j_5WRD;
@@ -64,7 +64,7 @@ vP_kR51d = vqeq8R1(-444186438);
 }
 }
 
-v1Fm1 = e_AoGSi + h_N6_o6c;
+
 
 h_N6_o6c += 1664125599;
 if (((pPN1 <= W_lgV) && (QXCt == EKAetta_)) || (W_lgV >= j_5WRD))
@@ -89,7 +89,7 @@ vP_kR51d = vqeq8R1(412332079);
 }
 else if (atim5)
 {
-v1Fm1 = (int)floor(pPN1);
+
 }
 else
 {
@@ -150,7 +150,7 @@ case 5:
 atim5 = (int)abs(h_N6_o6c);
 break;
 case 6:
-e_AoGSi = vqeq8R1(-6894360);
+
 break;
 default:
 
@@ -175,7 +175,7 @@ ZeGj82r = vqeq8R1(atim5);
 break;
 case 'c':
 case 'C':
-oMh_fQ = vqeq8R1(612632199);
+
 break;
 case 'd':
 case 'D':
@@ -187,7 +187,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-QXCt /= 116810182;
+
 break;
 default:
 ZeGj82r = vqeq8R1(1855006766);
@@ -218,7 +218,7 @@ else
 int k = 0;
 do
 {
-oMh_fQ = vqeq8R1(1918320996);
+
 k++;
 }
 while (k < 2);
@@ -234,7 +234,7 @@ std::cout << vqeq8R1(atim5) << ZeGj82r << vqeq8R1(-1081112595) << "Ca3j7p5J_i" <
 }
 }
 
-j_5WRD = (int)abs(v1Fm1);
+
 
 e_AoGSi = vqeq8R1(-2050831566);
 

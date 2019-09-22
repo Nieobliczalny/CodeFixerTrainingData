@@ -25,7 +25,7 @@ int main(int argc, char** argv)
 	unsigned char	cnpOqc;
 
     unsigned short    QhAi;
-    QhAi    =    -1531760540;
+
  unsigned long long NgXv_O6;
  NgXv_O6 = 1821987683;
  unsigned long x8_VmPW0;
@@ -35,7 +35,7 @@ int main(int argc, char** argv)
   unsigned long  Pn2S78Y;
 
     char    yrt_F;
-    yrt_F    =    1451840416;
+
     unsigned long    M8H1;
     M8H1    =    513727504;
   long double  QKFKB4cuPG;
@@ -45,7 +45,7 @@ int main(int argc, char** argv)
  int phye6avNo;
 
 	long	z_0HVT;
-	z_0HVT	=	355682207;
+
   long double  r8lnlra;
   r8lnlra  =  -1695431249;
     unsigned long long    hCU9fT;
@@ -57,7 +57,7 @@ int main(int argc, char** argv)
     unsigned short    X0CL_8l263;
     X0CL_8l263    =    -1760138209;
   long  LVFd9LbjwV;
-  LVFd9LbjwV  =  1196780506;
+
     long double    PE10I4h;
     PE10I4h    =    790048950;
 	unsigned long long	zxif_z;
@@ -67,7 +67,7 @@ int main(int argc, char** argv)
   short  RwrFQ8;
   RwrFQ8  =  380881286;
 	short	J4fed4c;
-	J4fed4c	=	-760740942;
+
 	unsigned long	kf4Y4IBeVH;
 	kf4Y4IBeVH	=	-1590191201;
   char  S36QGymvl;
@@ -87,7 +87,7 @@ int main(int argc, char** argv)
     float    Q24688T13f;
 
 	char	e9aE;
-	e9aE	=	1426923122;
+
     char    v0fmJ_kUAb;
     v0fmJ_kUAb    =    615402058;
   long long  IpqV8w9;
@@ -113,7 +113,7 @@ int main(int argc, char** argv)
   long long  n_E9T29;
   n_E9T29  =  0;
  int LagJV73_9W;
- LagJV73_9W = 2087659560;
+
   long long  tq3Wl;
   tq3Wl  =  -880227609;
     short    eA60_o;
@@ -127,7 +127,7 @@ int main(int argc, char** argv)
     long    vMnw1;
 
 	unsigned long long	puD8;
-	puD8	=	-2005088715;
+
  unsigned int wGAnQ6;
  wGAnQ6 = 1574664686;
 
@@ -163,7 +163,7 @@ case 0:
 
 break;
 case 1:
-QKFKB4cuPG = (int)floor(r8lnlra);
+
 break;
 case 2:
 tq3Wl &= I29vKtXb1U;
@@ -195,7 +195,7 @@ r5E4S5Hm = (int)abs(Ag874MM);
 cout << nG5y8B4(l7zyHDI1r, 1884012218, -1942273361, I29vKtXb1U, X0CL_8l263) << l7zyHDI1r << aQ2Pm << PmIyto(-46034147, -1527302626) << endl;
 
 
-e3KZsh8s5g = (long)(v0fmJ_kUAb);
+
 
 lDvQ0O64S7++;
 r8lnlra = b7iKu3_L(1537620135);
@@ -215,7 +215,7 @@ for (int j = 4; j >= 0; j--)
 {
 try
 {
-LVFd9LbjwV = PmIyto(-2037902245, -876353314);
+
 }
 catch (int& errorCode)
 {

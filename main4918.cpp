@@ -21,7 +21,7 @@ int main() {
     float    l457z;
 
   float  bqW_4Tq;
-  bqW_4Tq  =  2085452229;
+
 	int	bwkH3;
 	bwkH3	=	-20760937;
   short int  IFX2SDnmQ;
@@ -106,7 +106,7 @@ bqW_4Tq = (int)ceil(l457z);
 std::cout << bqW_4Tq << bqW_4Tq << "kKFOb22" << bqW_4Tq << "wbvBW5kZQ" << std::endl;
 try
 {
-IFX2SDnmQ = (short int)(bqW_4Tq * IFX2SDnmQ);
+
 }
 catch (int& errorCode)
 {

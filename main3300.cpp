@@ -135,7 +135,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-b_b8R6 = (int)floor(N0FCf4u1);
+
 break;
 case 'e':
 case 'E':
@@ -441,7 +441,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-u4M4S2Fk = (int)abs(j_9_2_);
+
 break;
 case 'c':
 case 'C':
@@ -486,7 +486,7 @@ while (i >= 0);
 
 if ((CG65 >= 1738307712) || (WTm6Rd8))
 {
-B1N6Bszc7 = (int)floor(kgu9j_2A8);
+
 }
 std::cout << FedAA6L << zejUth9S7D << "L889S5j" << "rUpMS" << std::endl;
 
@@ -552,7 +552,7 @@ std::cout << j744u_E1 << e1IH << std::endl;
 
 for (int i = 4; i >= 0; i--)
 {
-gXzSo = (int)ceil(f2mr);
+
 }
 
 if (qbCS2vG == -1729166008)

@@ -94,7 +94,7 @@ case 'B':
 poP1t = (int)ceil(JPC8keiDQL);
 break;
 }
-xL30 = GHEBX0bY / uZ3_qRn5y9(-30729293, 1376700563);
+
 M2UieRmz = (short int)(P1Va2 + (1742637978));
 A2ti9 &= zCKFJ3;
 
@@ -128,7 +128,7 @@ mOTqV52e = (int)abs(e0N21SV);
 }
 else if ((GHEBX0bY != P1Va2) && (A2ti9 > P1Va2))
 {
-U60RW2t = (int)ceil(JPC8keiDQL);
+
 }
 else
 {
@@ -158,7 +158,7 @@ while (j >= 0)
 while (i >= 0);
 }
 
-VUHv60_ = (unsigned int)(P1Va2 + (1458715611));
+
 
 return 0;
 }

@@ -393,7 +393,7 @@ else
 switch (e0rK)
 {
 case 0:
-EcPMngu = n1DY(863621618, F82aw8k1O, -469231799) << 1878089400;
+
 break;
 case 1:
 NEvWye9ez <<= nS0W8i0_G;
@@ -405,7 +405,7 @@ case 3:
 XvW5CdvvsL = n1DY(U5pA, 1119520236, WuDv);
 break;
 case 4:
-EcPMngu = n1DY(wWqTZv, EcPMngu, uF6l0TcL);
+
 break;
 default:
 c2trs3y89 = hZgJ0vX >> hr7Q;
@@ -564,7 +564,7 @@ case 1:
 Ju4zb8 = n1DY(-1082267558, Ju4zb8, NEvWye9ez);
 break;
 case 2:
-hZgJ0vX ^= 1994062258;
+
 break;
 default:
 TzGb7kW = (int)ceil(B5JhdBe);

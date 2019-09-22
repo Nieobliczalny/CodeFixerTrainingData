@@ -16,7 +16,7 @@ int main(int argc, char** argv) {
  unsigned short f744B09_;
  f744B09_ = 1604419181;
  unsigned short PQ_a;
- PQ_a = 1973489696;
+
 	unsigned int	q_nrJO;
 	q_nrJO	=	-1630330593;
  short ToYTOH;
@@ -42,7 +42,7 @@ int main(int argc, char** argv) {
   short int  iYYO9O2;
   iYYO9O2  =  -1602658071;
   unsigned char  DUlelQ;
-  DUlelQ  =  -631333749;
+
 	unsigned int	soJ4w64C;
 	soJ4w64C	=	1181270263;
     long long    Lz2kr;
@@ -76,7 +76,7 @@ int main(int argc, char** argv) {
 	double	ITgZk;
 	ITgZk	=	1087858015;
 	unsigned short	ni82;
-	ni82	=	-938386018;
+
  long long kMk_;
  kMk_ = 1269894274;
 
@@ -184,7 +184,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-L65v3S6S %= g2zVBtUv;
+
 break;
 case 'f':
 case 'F':
@@ -236,7 +236,7 @@ try
 {
 try
 {
-YT9yuK = (int)(f744B09_);
+
 }
 catch (int& errorCode)
 {

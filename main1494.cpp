@@ -136,7 +136,7 @@ case 'f':
 
 break;
 case 'g':
-KO_51N0 = u9UAi772(KO_51N0, 1334291182);
+
 break;
 case 'h':
 KMA45 = lfpH(KMA45, cn13);
@@ -287,7 +287,7 @@ case 4:
 
 break;
 case 5:
-K03ir = wz58hK99_ % eCUz5yY7;
+
 break;
 case 6:
 yTJ_wD /= 772368091;
@@ -337,7 +337,7 @@ if (yTJ_wD < 1242911752)
 }
 else if (GilwW52xz == -499872401)
 {
-xu2D = lfpH(-1935418711, 401586161);
+
 }
 else if (VV12 <= -25935145)
 {
@@ -432,7 +432,7 @@ else if (EN5d8 >= i29jgq55o)
 {
 if ((eCUz5yY7 == W30qgL) || (y4I8o == jigGdU))
 {
-WNb07T_4O = mgnx8lb9(CSYmn98, -305534142, -1828813331);
+
 }
 else
 {
@@ -468,7 +468,7 @@ while (j < 1);
 }
 else if (yTJ_wD & 1097258285)
 {
-YhOZK_vz = yTJ_wD >> PY_BSdg;
+
 }
 else
 {
@@ -544,7 +544,7 @@ while (j < 9);
 }
 }
 s6s4pcvZjJ = (short int)(Fm_9drb);
-PY_BSdg = (short int)(kx2Ps);
+
 std::cout << mgnx8lb9(l3NhX7, -105224486, k1f5) << "s3N47L" << Oj4_4vk_t << std::endl;
 CSYmn98 = u9UAi772(-870457753, -146955979);
 return 0;

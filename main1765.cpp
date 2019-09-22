@@ -16,7 +16,7 @@ int main() {
 	short	z1op4;
 
     long    W6IW1xNOeu;
-    W6IW1xNOeu    =    1006483749;
+
 	unsigned short int	IQGI2v0eR;
 	IQGI2v0eR	=	1322489062;
     unsigned long    vRhJhF6_tU;
@@ -52,7 +52,7 @@ int main() {
   unsigned long  WTg03WI;
   WTg03WI  =  2062641110;
  unsigned long long s_Zw24I;
- s_Zw24I = 2084447863;
+
     unsigned short int    hl2tDE0OL_;
     hl2tDE0OL_    =    -579134484;
     char    NqqJTGhTt;
@@ -98,7 +98,7 @@ int main() {
 	double	JqUe3JUpS;
 	JqUe3JUpS	=	1180504219;
 	int	u57_ya0;
-	u57_ya0	=	-1713157542;
+
 	unsigned int	ohP5;
 	ohP5	=	2106592910;
 	short int	L2n6vYw;
@@ -130,7 +130,7 @@ int main() {
 	long double	y9bppQzZ;
 	y9bppQzZ	=	-783348056;
   unsigned short  B0_0AnL61;
-  B0_0AnL61  =  905160522;
+
   int  efklE3M4;
   efklE3M4  =  -429657079;
     int    IkM__;
@@ -142,7 +142,7 @@ int main() {
 	unsigned char	QBL2UQ_;
 	QBL2UQ_	=	-1186907232;
 	short int	OxV_uC;
-	OxV_uC	=	-1439305210;
+
 	char	qw_BZ3xE;
 	qw_BZ3xE	=	-1193581564;
 	long	JKw5PUiO;
@@ -156,7 +156,7 @@ int main() {
 	unsigned long long	ZO1_;
 	ZO1_	=	-2112201751;
  float E98Yvgj9;
- E98Yvgj9 = 702883539;
+
  unsigned long long tof6;
  tof6 = 577165059;
     unsigned long long    wa0BaB40;
@@ -190,7 +190,7 @@ VZ_odGb_ = (short int)(clfhH * VZ_odGb_);
 
 if ((ci02_y7U == -513532572) || (PO3K7J1m < ohP5))
 {
-z1op4 = vtjA();
+
 }
 else
 {
@@ -313,7 +313,7 @@ AKTUU = (int)ceil(JqUe3JUpS);
 }
 }
 
-B7JZg = (short int)(JZcA2om);
+
 std::cout << wr_L / kvplKo3R << std::endl;
 {
 int i = 0;
@@ -327,7 +327,7 @@ while (j < 6)
 j++;
 if (((GbJW2 & KVT4iq0lF) && (clfhH <= b1wG6bRO7L)) && (sDtiy384bK))
 {
-GW97kZ3Pi = (int)floor(L32rhrb_);
+
 }
 }
 }
@@ -361,7 +361,7 @@ else if (IQGI2v0eR & HNIGSXL_)
 }
 else
 {
-PO3K7J1m = (int)abs(efklE3M4);
+
 }
 }
 }
@@ -425,7 +425,7 @@ j++;
 }
 else
 {
-V58bKLQuy = aBcf26I(-1353067380);
+
 }
 
 std::cout << vtjA() << sDtiy384bK << std::endl;
@@ -450,7 +450,7 @@ k7witLJhwP = vtjA();
 
 sz139c_ = D0G26P0 >> 1957611757;
 
-Pxu959utzh = V67mF / WTg03WI;
+
 for (int i = 4; i >= 0; i--)
 {
 JKw5PUiO = vtjA();
@@ -512,7 +512,7 @@ case 0:
 
 break;
 default:
-O5m7cA = VZ_odGb_ / s3o5;
+
 break;
 }
 {
@@ -541,7 +541,7 @@ while (k < 8);
 }
 else if (u57_ya0 <= -76067359)
 {
-s3o5 = (int)abs(VZ_odGb_) + (1075391556);
+
 }
 else
 {
@@ -560,7 +560,7 @@ while (i < 5);
 }
 
 
-AKTUU = NqqJTGhTt << yc7Efprh;
+
 
 return 0;
 }

@@ -95,7 +95,7 @@ int main(void)
 
 
 
-C2fK17BV = wC4kzC();
+
 
 cout << "P0_ydvZp6" << wC4kzC() << pT2pFP93L << endl;
 
@@ -141,7 +141,7 @@ else
 {
 try
 {
-pT2pFP93L %= NG5ON7;
+
 }
 catch (int& errorCode)
 {
@@ -159,7 +159,7 @@ int i = 2;
 while (i >= 0)
 {
 i--;
-C2fK17BV = wC4kzC();
+
 }
 }
 

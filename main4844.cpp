@@ -311,7 +311,7 @@ case 0:
 x9Na8I4 = M6V3 - 747492047;
 break;
 case 1:
-z2_kR4hA3 = B0Tt | o0q5qRu;
+
 break;
 case 2:
 o0q5qRu >>= 347184106;
@@ -342,7 +342,7 @@ break;
 int i = 0;
 while (i < 7)
 {
-xwyHT = y_fIEq7VSM * BBMAtMP8;
+
 ++i;
 }
 }
@@ -378,7 +378,7 @@ if (((k_00 > -1140404543) || (X_zS_N_s6 < V_gu6agk)) && (M6V3 >= V_gu6agk))
 }
 else if (wwyGtD25 < YD70O26i19)
 {
-z2_kR4hA3 = YD70O26i19 / 1815041391;
+
 }
 else
 {

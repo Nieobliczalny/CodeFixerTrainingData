@@ -98,7 +98,7 @@ for (int j = 3; j >= 0; j--)
 switch (zvzCNRCt)
 {
 case 0:
-eC67Y_4 = (Burv78T) ? 796297131 : 539172552;
+
 break;
 case 1:
 Burv78T = QAxppe7RO8 % 326631050;
@@ -152,7 +152,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-f8NW4MieZ1 = (int)abs(vRV2X9f1);
+
 break;
 case 'd':
 case 'D':
@@ -168,7 +168,7 @@ case 'F':
 break;
 case 'g':
 case 'G':
-S_0_ONLM = (int)floor(hLYjj);
+
 break;
 default:
 zvzCNRCt = N48wXc8(-414780998, e4s_, QH44Qw4v, r0119cGA, Burv78T);
@@ -211,7 +211,7 @@ int k = 0;
 do
 {
 ++k;
-eC67Y_4 = (int)abs(vRV2X9f1);
+
 }
 while (k < 3);
 }
@@ -263,7 +263,7 @@ case 'b':
 zvzCNRCt = N48wXc8(ESsU2V2t, 1342367004, 1870115667, hLYjj, -1237350024);
 break;
 case 'c':
-zQQi = c7qi0A98 % O1U6JZQp;
+
 break;
 case 'd':
 Burv78T = eCtIo_218 | 1786946195;

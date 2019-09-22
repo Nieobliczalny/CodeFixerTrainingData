@@ -115,7 +115,7 @@ else
 }
 else if (yr3MAEhW_7 < -977596429)
 {
-t1oMQn = OW6Sle93(t1oMQn);
+
 }
 else if (n9NXA1Miy < FNFKW2k6)
 {
@@ -147,7 +147,7 @@ case 'a':
 
 break;
 case 'b':
-yr3MAEhW_7 = (int)abs(JidV);
+
 break;
 case 'c':
 C8W_3v8320 = (int)abs(A9kSI83Q);
@@ -159,7 +159,7 @@ case 'e':
 
 break;
 case 'f':
-n9NXA1Miy *= C8W_3v8320;
+
 break;
 default:
 C_wKUR96y = (int)floor(Ko_kdKI);
@@ -194,7 +194,7 @@ try
 {
 if (Ko_kdKI != EfStn7)
 {
-iwvS = OW6Sle93(1409600700);
+
 }
 else
 {
@@ -212,7 +212,7 @@ catch (int& errorCode)
 {
 A9kSI83Q = (int)abs(iM7TLA);
 }
-Ko_kdKI = (double)(C8W_3v8320);
+
 
 
 return 0;

@@ -71,7 +71,7 @@ case 4:
 mACwQ = (int)abs(W4ai3H60) + (200319056);
 break;
 case 5:
-Z3V84FVnM ^= 1643667839;
+
 break;
 case 6:
 t97wB_6aC |= lS_wqpC03;
@@ -545,7 +545,7 @@ PpN0xDrr /= 1233746937;
 
 if (lS_wqpC03 < -1737073053)
 {
-mlR1ASMwIP = bpVR >> t97wB_6aC;
+
 }
 else
 {

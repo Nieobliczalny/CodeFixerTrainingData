@@ -22,7 +22,7 @@ int main(int argc, char** argv) {
 
 if (yceG != 1425517111)
 {
-NxEWEm = Yk2S / v3z2_9;
+
 }
 
 for (int i = 8; i >= 0; i--)
@@ -46,7 +46,7 @@ else if (QX7esJ9G & eefi0V2g_9)
 {
 if (nQKnab_ != ZpXSBAys)
 {
-tP2fM720I = (int)abs(wFh1_);
+
 }
 else
 {
@@ -83,7 +83,7 @@ case 1:
 dr9BS6 = iL_W();
 break;
 case 2:
-zs66_C7EE = iL_W();
+
 break;
 case 3:
 ARx2SD %= 960877221;
@@ -110,7 +110,7 @@ for (int j = 10; j >= 0; --j)
 switch (H14a)
 {
 case 0:
-T25W = iL_W();
+
 break;
 case 1:
 vrdKy3Ud = M_j53FG(-1895479692, -627145808);
@@ -135,7 +135,7 @@ i++;
 
 for (int i = 4; i >= 0; --i)
 {
-JRZ725 = MCLth();
+
 }
 
 if (eefi0V2g_9 == 0)
@@ -151,7 +151,7 @@ case 1:
 xh_a0 = (int)abs(yceG);
 break;
 case 2:
-v_T42 = (int)abs(H14a) * 0;
+
 break;
 }
 
@@ -161,7 +161,7 @@ for (int i = 0; i < 3; i++)
 int j = 7;
 do
 {
-T25W = (short int)(U99n7ULf2H);
+
 --j;
 }
 while (j >= 0);
@@ -192,7 +192,7 @@ switch (lgtqvl0A)
 {
 case 'a':
 case 'A':
-lgtqvl0A = vrdKy3Ud % xh_a0;
+
 break;
 case 'b':
 case 'B':
@@ -204,7 +204,7 @@ oGj96 = qMNPbFi8C ^ 1257079656;
 break;
 case 'd':
 case 'D':
-KF52Y = iL_W();
+
 break;
 case 'e':
 case 'E':
@@ -215,7 +215,7 @@ case 'F':
 d99wRxj9 = M_j53FG(d99wRxj9, dr9BS6);
 break;
 default:
-eefi0V2g_9 = MCLth();
+
 break;
 }
 }
@@ -225,7 +225,7 @@ for (int i = 2; i >= 0; --i)
 int j = 4;
 do
 {
-vrdKy3Ud = MCLth() / wo11;
+
 --j;
 }
 while (j >= 0);

@@ -67,7 +67,7 @@ u8wUpH16Pp = as8ao7pr(-675209622);
 break;
 case 'g':
 case 'G':
-pmFWq = j3p6();
+
 break;
 default:
 V0_n3 /= 844654446;
@@ -100,7 +100,7 @@ break;
 
 std::cout << J0yI5m0d(1266393338) << std::endl;
 
-F357Ydqj2 = (unsigned long long)(V0_n3 * F357Ydqj2);
+
 if (V0_n3 >= -1078062522)
 {
 switch (u8wUpH16Pp)
@@ -115,7 +115,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-lFmF11Q1g = (int)abs(u8wUpH16Pp);
+
 break;
 case 'd':
 case 'D':
@@ -127,7 +127,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-u8wUpH16Pp &= I0hi;
+
 break;
 case 'g':
 case 'G':
@@ -139,7 +139,7 @@ case 'H':
 break;
 case 'i':
 case 'I':
-pmFWq = j3p6();
+
 break;
 default:
 ihvdpmK = j3p6();

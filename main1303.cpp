@@ -41,7 +41,7 @@ int main(int argc, char** argv)
   int  Ay_R;
   Ay_R  =  0;
     long double    bG0XCko74f;
-    bG0XCko74f    =    1122831133;
+
 	long double	T_9DMGm;
 	T_9DMGm	=	1719438264;
  unsigned long UNx8S2_2;
@@ -57,7 +57,7 @@ int main(int argc, char** argv)
 	long	mr7b68CX;
 
 	short int	mL9xY;
-	mL9xY	=	-2044149334;
+
 	unsigned long	cfth;
 	cfth	=	-586778454;
 	unsigned int	rTm3;
@@ -109,7 +109,7 @@ int main(int argc, char** argv)
  unsigned long long U8m2;
 
     unsigned short int    up4356;
-    up4356    =    101552127;
+
   short int  hj3L6A;
   hj3L6A  =  897500921;
 	double	B12_qox8;
@@ -167,7 +167,7 @@ while (j < 4);
 }
 else if (NJpvaO4 == gLdOG_)
 {
-bG0XCko74f = (int)ceil(T_9DMGm);
+
 }
 else
 {
@@ -281,7 +281,7 @@ case 'b':
 DwFS = a6g2(DwFS, 724259384);
 break;
 case 'c':
-bG0XCko74f = (int)ceil(T_9DMGm);
+
 break;
 case 'd':
 Bxm9b = UNx8S2_2 | 85700817;
@@ -465,7 +465,7 @@ while (i < 3)
 switch (hj3L6A)
 {
 case 'a':
-up4356 = PEvw4B_ & M2_C_5KzUH;
+
 break;
 case 'b':
 fYgg = a6g2(fYgg, 1575534330);
@@ -483,7 +483,7 @@ case 'f':
 
 break;
 default:
-G1ion268 = y5dG_z();
+
 break;
 }
 
@@ -497,7 +497,7 @@ case 0:
 
 break;
 case 1:
-i859 = (int)abs(Ay_R) + (1540192899);
+
 break;
 case 2:
 DwFS = (int)floor(OXq994);
@@ -509,7 +509,7 @@ case 4:
 
 break;
 case 5:
-bG0XCko74f = (int)ceil(OXq994);
+
 break;
 case 6:
 Y5wi = a6g2(pef_s, 117675184);
@@ -602,7 +602,7 @@ g67ZvCT0C9 = (int)abs(mr7b68CX);
 break;
 case 'c':
 case 'C':
-gLdOG_ = a6g2(216603877, 62887557);
+
 break;
 case 'd':
 case 'D':
@@ -614,7 +614,7 @@ gLdOG_ = (int)ceil(DwFS);
 break;
 case 'f':
 case 'F':
-dEyrnP = y5dG_z();
+
 break;
 case 'g':
 case 'G':
@@ -626,7 +626,7 @@ DwFS = y5dG_z();
 break;
 case 'i':
 case 'I':
-dEyrnP >>= 162613330;
+
 break;
 default:
 
@@ -647,7 +647,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-i859 = rTm3 % B2v9HTCD;
+
 break;
 case 'c':
 case 'C':
@@ -663,7 +663,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-XfmT = y5dG_z();
+
 break;
 case 'g':
 case 'G':
@@ -697,7 +697,7 @@ std::cout << y5dG_z() << y5dG_z() << std::endl;
 switch (yk6g_9dt_)
 {
 case 0:
-PEvw4B_ = a6g2(-1046637176, -1808779598);
+
 break;
 case 1:
 
@@ -709,7 +709,7 @@ case 3:
 PEvw4B_ = y5dG_z();
 break;
 case 4:
-hj3L6A = Cxq0 + 598248924;
+
 break;
 case 5:
 B12_qox8 = (int)ceil(BRYNaI_);
@@ -721,7 +721,7 @@ case 7:
 fYgg = (int)floor(OXq994);
 break;
 default:
-bG0XCko74f = y5dG_z();
+
 break;
 }
 

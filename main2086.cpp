@@ -19,7 +19,7 @@ unsigned long EhqFM9ij(unsigned long Qry_,short int V7C613p309,long long m3rcM_J
 
 int main(int argc, char** argv) {
     unsigned short    qPbzS4e1m;
-        qPbzS4e1m    =    0;
+
     short int    eTMqUV,    KZg4TePGP,    gLm0h4N0z,    aI85D17_1O,    zhy78wBZy,    KS8IcbM5iQ,    JrTOlx,    CgX45iGW1,    IH_o,    MZzj6sXIi3,    M6BUr,    X6IlrCR,    d__i,    BYmJ7q9wCA,    a5wVW,    AsA_5w_SlU,    w0Mj32,    qHr_6PGL4V,    QA_foq35,    L8u1un,    G1pQ1NLXG,    CAbCF,    mb3C53Z,    Wucne,    O9KR8_1AM,    pObA1L,    ICJK2tC6eO,    Kkev,    s19_,    g__Zk6Ga5,    RZEgXH43,    t06R26W_8r,    ic7p0,    Q275a94r,    qA9e9h_s44,    Fq_95as,    az6Cvd_,    uk83,    G5iB5JK6n,    U6NJT2GIDC,    jdYr,    GSY_,    PO65BRgU,    x10KrR,    j7_11d67Q,    pOcM8f1y5t,    p04OBbX7s8,    ntP3WRKj5N,    fgMt55W,    F2_XZxNsk,    hNx_DY_Q0,    eaB5Y,    Cst93,    zuRIWHvM,    mD1dlu722,    SZe1Ql6I8,    w_kiZtF_,    s_y7,    xfX9t0X2,    Mw2Iw,    Po_2_Oqya5,    c9cmvbQ4;
         eTMqUV    =    KZg4TePGP    =    gLm0h4N0z    =    aI85D17_1O    =    zhy78wBZy    =    KS8IcbM5iQ    =    JrTOlx    =    CgX45iGW1    =    IH_o    =    MZzj6sXIi3    =    M6BUr    =    X6IlrCR    =    d__i    =    BYmJ7q9wCA    =    a5wVW    =    AsA_5w_SlU    =    w0Mj32    =    qHr_6PGL4V    =    QA_foq35    =    L8u1un    =    G1pQ1NLXG    =    CAbCF    =    mb3C53Z    =    Wucne    =    O9KR8_1AM    =    pObA1L    =    ICJK2tC6eO    =    Kkev    =    s19_    =    g__Zk6Ga5    =    RZEgXH43    =    t06R26W_8r    =    ic7p0    =    Q275a94r    =    qA9e9h_s44    =    Fq_95as    =    az6Cvd_    =    uk83    =    G5iB5JK6n    =    U6NJT2GIDC    =    jdYr    =    GSY_    =    PO65BRgU    =    x10KrR    =    j7_11d67Q    =    pOcM8f1y5t    =    p04OBbX7s8    =    ntP3WRKj5N    =    fgMt55W    =    F2_XZxNsk    =    hNx_DY_Q0    =    eaB5Y    =    Cst93    =    zuRIWHvM    =    mD1dlu722    =    SZe1Ql6I8    =    w_kiZtF_    =    s_y7    =    xfX9t0X2    =    Mw2Iw    =    Po_2_Oqya5    =    c9cmvbQ4    =    -72166904;
 
@@ -42,7 +42,7 @@ else if (O9KR8_1AM)
 switch (fgMt55W)
 {
 case 'a':
-qPbzS4e1m = z3c8Ku(-1692911819, 467432792);
+
 break;
 default:
 
@@ -86,7 +86,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-hNx_DY_Q0 = RA5hsWpb(-17249949, -1214793818);
+
 break;
 case 'd':
 case 'D':
@@ -185,7 +185,7 @@ int i = 3;
 while (i >= 0)
 {
 i--;
-KS8IcbM5iQ = EhqFM9ij(-1622328788, 2071610203, -426725136);
+
 }
 }
 
@@ -212,7 +212,7 @@ while (j >= 0)
 }
 try
 {
-X6IlrCR = (short int)(w_kiZtF_);
+
 }
 catch (int& errorCode)
 {

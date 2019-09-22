@@ -81,7 +81,7 @@ case 3:
 
 break;
 case 4:
-zg1tn332 = L0Ech3(1130681991, -381314383, 1660456692);
+
 break;
 case 5:
 x_K4 = Fly_ - 1397746616;
@@ -345,7 +345,7 @@ case 5:
 G9444iQs = (int)ceil(EWe4x4nA);
 break;
 case 6:
-GQH1kK = Q_KRw78E9(x_K4, bYh_5hxzu);
+
 break;
 case 7:
 ILZ1Usly3 = cAMHXHYvC / zg1tn332;
@@ -384,7 +384,7 @@ case 'a':
 
 break;
 case 'b':
-EWe4x4nA = (int)ceil(cAMHXHYvC);
+
 break;
 case 'c':
 ILZ1Usly3 = L0Ech3(-1736114475, cAMHXHYvC, -1520362638);

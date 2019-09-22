@@ -141,7 +141,7 @@ AAwCJ = VJ02v_6m(AAwCJ, 2094775477, bLsZJmq, 1942904454, 1293451517);
 int i = 8;
 while (i >= 0)
 {
-TvW9OWz5X = (unsigned long long)(Ky8yUnok0);
+
 --i;
 }
 }

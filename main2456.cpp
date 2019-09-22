@@ -28,7 +28,7 @@ for (int j = 0; j < 8; j++)
 {
 if (nudD8YtNU < -1393215673)
 {
-Je66_gb = YsSJ % op4pjJI7YS;
+
 }
 else
 {
@@ -45,7 +45,7 @@ switch (rfq9_EF9K)
 {
 case 'a':
 case 'A':
-bI68tGm8J3 = (int)abs(iZpJ);
+
 break;
 case 'b':
 case 'B':
@@ -72,7 +72,7 @@ case 'G':
 wd936 = (int)abs(a58C_qjsi);
 break;
 default:
-w1w3NS_73 &= 283696593;
+
 break;
 }
 
@@ -100,7 +100,7 @@ if (IRfoN81V3 != -1645412018)
 {
 if (fiuR28 <= Ji9oCCxgN5)
 {
-QN_6SC5Jx = VQ9_4rF % 348166885;
+
 }
 }
 else if (hHu8986)
@@ -111,7 +111,7 @@ a58C_qjsi = (int)abs(y1Z_K);
 }
 else if (xn4f7G6 != -1390901994)
 {
-Vm468 -= hcb7HoNP;
+
 }
 else if (((epa788s_1 & QN_6SC5Jx) || (hk7K4kx2 >= F9_x18IyUg)) && (T708_2R97 != Cu5pwX))
 {
@@ -123,7 +123,7 @@ Ix56H = (int)abs(n9Xpk5);
 }
 else
 {
-xs05 >>= 1295202519;
+
 }
 }
 else if (qpQdF09Cob == 651371214)
@@ -137,7 +137,7 @@ int k = 2;
 do
 {
 --k;
-ysMzENP = jTS1ixz04B - JpB1qbYB;
+
 }
 while (k >= 0);
 }
@@ -154,7 +154,7 @@ fiuR28 = (int)abs(wd936);
 }
 else
 {
-osdlD0B += DDWXM1Pp4;
+
 }
 }
 else if (LM9o2_QR)
@@ -174,7 +174,7 @@ switch (MuqH)
 {
 case 'a':
 case 'A':
-Ji9oCCxgN5 <<= V1xfuu;
+
 break;
 case 'b':
 case 'B':
@@ -189,7 +189,7 @@ case 'D':
 l2_JDZfo5b = osdlD0B | XD3iB;
 break;
 default:
-G9C89_Cl7 = (int)abs(lpCL5dD);
+
 break;
 }
 }
@@ -199,7 +199,7 @@ jF4w7W6 = N3jmB_mm | 1380514129;
 switch (V8K5qqZ_)
 {
 case 0:
-SG43 = iYX17Z(TZot);
+
 break;
 case 1:
 Ix56H %= G65sE;
@@ -211,7 +211,7 @@ case 3:
 bI68tGm8J3 = Vdeh2t_bo | 697680321;
 break;
 case 4:
-nudD8YtNU -= RBn1O;
+
 break;
 case 5:
 Vdeh2t_bo = iYX17Z(-1932149472);
@@ -248,7 +248,7 @@ case 0:
 XD3iB &= gTF_;
 break;
 case 1:
-G9C89_Cl7 = (int)abs(NQ3h5b);
+
 break;
 case 2:
 fiuR28 >>= NQ3h5b;
@@ -277,7 +277,7 @@ case 0:
 hHu8986--;
 break;
 case 1:
-SG43 = iYX17Z(-850974624);
+
 break;
 case 2:
 SG43 = iYX17Z(-271484039);
@@ -292,7 +292,7 @@ case 5:
 l2_JDZfo5b++;
 break;
 case 6:
-t_Khobd_q3 -= 1756589207;
+
 break;
 case 7:
 Vdeh2t_bo = iYX17Z(-1774543738);
@@ -305,7 +305,7 @@ F9_x18IyUg = df9I8MM >> xn4f7G6;
 break;
 }
 
-gTF_ = 1790490617 / Vdeh2t_bo;
+
 return 0;
 }
 

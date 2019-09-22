@@ -73,7 +73,7 @@ case 3:
 l77N = l77N >> 611012006;
 break;
 case 4:
-A1BZ %= 1724886653;
+
 break;
 default:
 smd8O7 = B_79x(loR9_a, 531283517, 1743266043, 1892201297) - 731646090;
@@ -103,7 +103,7 @@ case 1:
 
 break;
 case 2:
-VSnY_p1L /= vhXoE4;
+
 break;
 case 3:
 ZkzuP3g40 = DzW0k - Ntp2;
@@ -126,7 +126,7 @@ break;
 }
 if (((RSsag917 >= eR40AScJ) && (d_jK < b86L7)) && (qgk3 >= -501697459))
 {
-k7TDq = (unsigned short int)(r_uu);
+
 }
 
 hjC4 += 1353119433;

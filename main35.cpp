@@ -200,7 +200,7 @@ P4212 = UCNljpVo6(1816134900, GDUf1, 157360378);
 
 zfBflv730 = (float)(IYG92);
 
-CX3Y1li2 = pE0z2_G0(CX3Y1li2, -1866350138, -716108209, x_vhydq);
+
 x5Yd6B_96x = (unsigned long)(fpI_SA5F);
 USW8 = (double)(G51TH9);
 
@@ -216,7 +216,7 @@ if (((N4tk7_WI68 & -1095092070) && (IYG92 < 377386366)) || ((P4212 < 1967346652)
 }
 else
 {
-D7Y7 = (int)floor(dlkEz2uSym);
+
 }
 }
 else
@@ -275,7 +275,7 @@ case 0:
 
 break;
 case 1:
-M53l_ = (int)ceil(dlkEz2uSym);
+
 break;
 default:
 USW8 = (int)abs(x_vhydq);

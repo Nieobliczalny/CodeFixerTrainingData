@@ -20,7 +20,7 @@ int main(int argc, char** argv)
   short  e679xo0;
 
 	unsigned long long	a3gQNH09;
-	a3gQNH09	=	0;
+
 	long long	bA_0d;
 	bA_0d	=	1819047018;
 	long	vxEgISCh3g;
@@ -48,7 +48,7 @@ int main(int argc, char** argv)
  unsigned long abc2l;
  abc2l = -575893901;
 	short int	qKq22f3OT;
-	qKq22f3OT	=	-387145790;
+
     unsigned long    qr4sR1_1;
     qr4sR1_1    =    -1344784071;
   unsigned char  ZfytVp;
@@ -62,7 +62,7 @@ int main(int argc, char** argv)
 	char	v3KZsDv;
 	v3KZsDv	=	-1816834904;
 	short	fxC5p_K59;
-	fxC5p_K59	=	-1452547795;
+
  unsigned short int L6Pq0eK;
  L6Pq0eK = -1387786916;
     unsigned int    E6vt;
@@ -76,7 +76,7 @@ int main(int argc, char** argv)
     unsigned long long    G01a02nY;
 
     unsigned long    KIN0xQhZ;
-    KIN0xQhZ    =    -702764380;
+
   unsigned int  s0dQ58;
   s0dQ58  =  702801974;
   unsigned short  yG_k7qb;
@@ -92,7 +92,7 @@ int main(int argc, char** argv)
     short    nuyJSIr;
     nuyJSIr    =    52357532;
   unsigned long  qQ5x;
-  qQ5x  =  -1441891096;
+
 	char	rY968ODR3V;
 	rY968ODR3V	=	1178854119;
 	short int	kR8Fr;
@@ -108,7 +108,7 @@ int main(int argc, char** argv)
     long long    ZlP0q4y1;
 
  unsigned long BSYMjdT;
- BSYMjdT = 2026450593;
+
 	unsigned short	jbLIKr;
 	jbLIKr	=	-250258324;
   char  R6X5e;
@@ -124,7 +124,7 @@ int main(int argc, char** argv)
  long AcSy0;
  AcSy0 = 0;
     unsigned short int    I4jd_c;
-    I4jd_c    =    805062304;
+
  long double yu2h3;
  yu2h3 = -808088663;
 	int	fC1mE0zF;
@@ -138,7 +138,7 @@ int main(int argc, char** argv)
   unsigned short int  x9gH_0_I4;
 
 	unsigned long long	YjngYEA_m;
-	YjngYEA_m	=	-1330915716;
+
   int  E4I18;
   E4I18  =  -2025585587;
     long    p7a_hl0;
@@ -154,7 +154,7 @@ int main(int argc, char** argv)
  int UjdL_6;
  UjdL_6 = 1779350046;
     unsigned short    xI1_eXQs;
-    xI1_eXQs    =    414538799;
+
     unsigned long    R72p;
 
  long double xf35K;
@@ -164,7 +164,7 @@ int main(int argc, char** argv)
   char  t4k8i;
   t4k8i  =  -931905130;
  long long o9N_KSS;
- o9N_KSS = 1784054357;
+
   unsigned short int  Ka_CDF;
   Ka_CDF  =  -540969475;
   long  X_1EK0;
@@ -176,7 +176,7 @@ int main(int argc, char** argv)
   unsigned int  P535R;
   P535R  =  -177640050;
  unsigned short pOWEP;
- pOWEP = -130244749;
+
 	int	Tch_ymFBQ1;
 	Tch_ymFBQ1	=	1284014373;
  unsigned short ad5P_MRY__;
@@ -188,7 +188,7 @@ int main(int argc, char** argv)
  short int l3YAtPxG_;
  l3YAtPxG_ = -681122922;
     unsigned char    lI4OW;
-    lI4OW    =    -1292932757;
+
   char  wybkTb;
   wybkTb  =  -1076277714;
     int    qGnqoG1;
@@ -198,7 +198,7 @@ int main(int argc, char** argv)
   float  mdi6Gi;
   mdi6Gi  =  624319292;
   unsigned long long  jPyX0u;
-  jPyX0u  =  -1134707652;
+
     long long    HIl3u;
     HIl3u    =    -1917364844;
     short int    mnYHd;
@@ -236,7 +236,7 @@ break;
 }
 else if (((yu2h3 == Sea5l4g9TU) && (Ka_CDF == -1392004561)) && (yG_k7qb > 1224704690))
 {
-jPyX0u = (xf35K != c8_8y2D) ? Sea5l4g9TU : 1861320400;
+
 }
 else
 {
@@ -256,7 +256,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-yu2h3 = (int)floor(InY1m);
+
 break;
 case 'c':
 case 'C':
@@ -268,7 +268,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-NtJFVkG3j = Ha14qq29(1793193421, 402109627, yHtDX_zF, yu2h3, BdnbR);
+
 break;
 case 'f':
 case 'F':
@@ -279,7 +279,7 @@ case 'G':
 
 break;
 default:
-yHtDX_zF = (int)abs(m3KOzqgE2N);
+
 break;
 }
 
@@ -308,7 +308,7 @@ switch (R6X5e)
 {
 case 'a':
 case 'A':
-bsOKiPVu4F = (int)floor(InY1m);
+
 break;
 case 'b':
 case 'B':
@@ -319,7 +319,7 @@ case 'C':
 v3KZsDv = y1D6(v3KZsDv, R6X5e, R39F0);
 break;
 default:
-mnYHd = (int)abs(YTg0);
+
 break;
 }
 
@@ -330,7 +330,7 @@ for (int i = 2; i >= 0; i--)
 switch (s6m3l3)
 {
 case 0:
-a3gQNH09 = Ha14qq29(R_P_, 1426509977, t6TIjjlYT, CxxSZ, -674304350);
+
 break;
 case 1:
 
@@ -342,7 +342,7 @@ case 3:
 t4k8i = y1D6(R_P_, -2066612475, t6TIjjlYT) & X_1EK0;
 break;
 case 4:
-NtJFVkG3j = Ha14qq29(992589339, -625162806, -839442312, n2ZE, -571810233);
+
 break;
 case 5:
 dhXkIa2IE <<= t6TIjjlYT;
@@ -354,7 +354,7 @@ case 7:
 
 break;
 case 8:
-ttPC = (int)abs(BdnbR);
+
 break;
 case 9:
 a3gQNH09 = Ha14qq29(-1575140208, 1096830994, YTg0, X_1EK0, abc2l);

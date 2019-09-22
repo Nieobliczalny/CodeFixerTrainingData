@@ -24,7 +24,7 @@ case 0:
 y1GNqvRYT4 *= JAD0842iJ;
 break;
 case 1:
-qXoK = s08t_ck << 2038367757;
+
 break;
 case 2:
 Z123 >>= 1010191934;
@@ -131,7 +131,7 @@ case 2:
 ECDaS = d07_4XoI(-274841251, Z123);
 break;
 case 3:
-Tj3DrJ = d07_4XoI(1506001674, I_tXaU5RO);
+
 break;
 default:
 Z69p *= 687759434;
@@ -172,7 +172,7 @@ else
 int k = 0;
 while (k < 9)
 {
-Tj3DrJ = d07_4XoI(vBlU, 1120335114);
+
 ++k;
 }
 }
@@ -222,7 +222,7 @@ switch (o42H)
 {
 case 'a':
 case 'A':
-Z123 = AYPLNGyg | 906532549;
+
 break;
 case 'b':
 case 'B':
@@ -234,7 +234,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-ECDaS = d07_4XoI(-2143259148, -2112310916);
+
 break;
 case 'e':
 case 'E':

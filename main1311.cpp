@@ -26,7 +26,7 @@ int main(void) {
   short  wSv26;
   wSv26  =  2011911483;
     unsigned short int    ax_3;
-    ax_3    =    1041960695;
+
     long    j4J_w6;
     j4J_w6    =    -339505265;
     unsigned int    B088aAPsQ;
@@ -46,7 +46,7 @@ int main(void) {
   unsigned int  fe2x3;
   fe2x3  =  -627186543;
 	unsigned long long	GA33DRs;
-	GA33DRs	=	-2023437506;
+
   short  I4bW;
   I4bW  =  1739193614;
 	char	d8XIWjz5;
@@ -56,7 +56,7 @@ int main(void) {
  long ZxXYF8sRy;
 
 	unsigned long long	F89zb9hGM;
-	F89zb9hGM	=	-930173557;
+
     long long    rdlN61_;
     rdlN61_    =    -1592726767;
 	short int	s_78u7;
@@ -74,7 +74,7 @@ int main(void) {
   float  I6K4Ck3;
   I6K4Ck3  =  1174033656;
     unsigned long    z96_R9Prft;
-    z96_R9Prft    =    -2016386021;
+
 	unsigned long long	r1UE_qNk;
 	r1UE_qNk	=	1820260498;
     float    ME_Pq3R;
@@ -92,7 +92,7 @@ int main(void) {
 	unsigned int	StLjTOK;
 
     unsigned short    e_bMIHSt;
-    e_bMIHSt    =    -401068445;
+
 	double	rS6Y6W0AjN;
 	rS6Y6W0AjN	=	1796086921;
 	double	JnuAov1X1Y;
@@ -110,7 +110,7 @@ int main(void) {
 	short	atvMFh3EsS;
 	atvMFh3EsS	=	1636745692;
   int  bTQM8_4V_;
-  bTQM8_4V_  =  -325879853;
+
  short Fa3aXVo;
  Fa3aXVo = -182064231;
 	float	LKBYD71;
@@ -150,7 +150,7 @@ int main(void) {
 
 N_0N8Svg = (int)floor(d8_KqF0);
 
-REW6MvW65 = (int)abs(atvMFh3EsS) * 0;
+
 std::cout << "wjsZIDec_" << std::endl;
 if (h5qm6OcHea > -773710578)
 {
@@ -248,7 +248,7 @@ case 'H':
 break;
 case 'i':
 case 'I':
-Qu8IPbbf = (int)ceil(d8_KqF0);
+
 break;
 default:
 A1lcr = (int)abs(h5qm6OcHea);
@@ -304,7 +304,7 @@ case 1:
 
 break;
 case 2:
-wmctNb = Hq_wIdb(-2127983149, -1080636511);
+
 break;
 case 3:
 h5qm6OcHea ^= Fa3aXVo;
@@ -316,7 +316,7 @@ case 5:
 
 break;
 case 6:
-REW6MvW65 = z3t0mP9(fe2x3, GoeJZz);
+
 break;
 case 7:
 e_bMIHSt = cwV1l5E9YH % cM01;
@@ -385,7 +385,7 @@ B55GaE9rSZ = z3t0mP9(cwV1l5E9YH, I6K4Ck3);
 
 
 
-LKBYD71 = (int)ceil(sWXw0);
+
 if (i2k7_ > fRuQ)
 {
 try
@@ -433,7 +433,7 @@ else
 }
 else
 {
-Qu8IPbbf = (int)ceil(N_0N8Svg);
+
 }
 }
 while (i < 7);
@@ -455,7 +455,7 @@ else
 
 }
 
-LKBYD71 = Hq_wIdb(-1413616141, 120850126);
+
 
 return 0;
 }

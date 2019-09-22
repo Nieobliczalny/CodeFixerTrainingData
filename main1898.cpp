@@ -167,7 +167,7 @@ while (k >= 0);
 }
 else if (iPX9M50 <= -667820981)
 {
-d5cFWQuA4 /= 900291396;
+
 }
 else
 {
@@ -213,7 +213,7 @@ if (yW_z3G)
 }
 else if (y076N5C0 > e48vVb)
 {
-B11q9Xjpe = (int)floor(ekqZp6g);
+
 }
 else
 {

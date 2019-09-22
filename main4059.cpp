@@ -323,7 +323,7 @@ WctNXJE2t &= f2gYiB90;
 }
 else if (f2gYiB90 & Ztvy)
 {
-Cc_58g = (int)abs(e7_7ei5xi);
+
 }
 else
 {
@@ -432,7 +432,7 @@ for (int i = 0; i < 2; i++)
 {
 std::cout << XKt55J_4X << rWxD << std::endl;
 }
-gD862 = (int)floor(EoRp6);
+
 
 if (x6td <= i_x8_4I3)
 {
@@ -452,7 +452,7 @@ if (lvmNl9 >= eE277_pdI0)
 }
 else if (Ygz8tA_ > Cx7H8)
 {
-gD862 = (int)floor(EoRp6);
+
 }
 else
 {
@@ -496,7 +496,7 @@ for (int i = 0; i < 7; i++)
 switch (WctNXJE2t)
 {
 case 'a':
-jN4_t = F00D * 815502637;
+
 break;
 case 'b':
 ylRd5_6P7 = (int)abs(TN1N9m);
@@ -531,7 +531,7 @@ case 'a':
 
 break;
 case 'b':
-y_sL >>= 2067891494;
+
 break;
 case 'c':
 u5m_po6i = (int)abs(XKt55J_4X) + (-1623188696);

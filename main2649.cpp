@@ -52,7 +52,7 @@ fji18 = DDYN(-251632064, -351445290, -1841206446, YaGVdRJ5_, -11691969);
 break;
 case 'c':
 case 'C':
-oqss ^= BUscg_e;
+
 break;
 case 'd':
 case 'D':
@@ -91,7 +91,7 @@ case 2:
 i0U0pf++;
 break;
 case 3:
-IaA8 = wp1Qr + p0YZ;
+
 break;
 case 4:
 em3IVOq /= 1982015062;
@@ -152,7 +152,7 @@ if (yC3X == 0)
 
 }
 em3IVOq = (Q8BXG5mm & 1961201822) ? Znx53biTG3 : yC3X;
-G0_7 /= 859528584;
+
 X73YTg5 = ra68rr3i(X73YTg5);
 
 try
@@ -206,7 +206,7 @@ if (((RRI4Ka == Znx53biTG3) || (ivnf2Dh > -258943986)) || ((Fn22 != KhNY1aH) || 
 }
 else
 {
-cy4niX2 ^= eMHhMj;
+
 }
 }
 else
@@ -259,7 +259,7 @@ else if (gzwwB5STH7)
 }
 else if (X73YTg5 & Znx53biTG3)
 {
-lEtS69bTg = Kq_1 + 1611442066;
+
 }
 else if (x_7c3kd77 < Znx53biTG3)
 {

@@ -348,7 +348,7 @@ case 'b':
 
 break;
 case 'c':
-L_078U ^= 462219849;
+
 break;
 default:
 SNIG6I = (int)floor(xz4n_HbY);
@@ -382,7 +382,7 @@ case 'c':
 P8U_0U9hW = M8a5fGoT4B(269359984, 398318293);
 break;
 case 'd':
-j9T9Yx = M8a5fGoT4B(j9T9Yx, O9xHg_K);
+
 break;
 case 'e':
 ME_Hyv4Ky = (int)ceil(DkipNH5);
@@ -407,7 +407,7 @@ else if ((DkipNH5) && (dB14))
 {
 try
 {
-q1pKK5 = mcyQlqAu1g | Z_ca;
+
 }
 catch (int& errorCode)
 {
@@ -462,7 +462,7 @@ if (Ae_evJo == 592883758)
 {
 if (GlIcp == 1152677068)
 {
-a_3c1 = IllUz3W(U2hqum, a_3c1);
+
 }
 else
 {
@@ -480,7 +480,7 @@ else
 {
 if ((O9xHg_K) || (DkipNH5 >= B05v4Ti))
 {
-OtHF2q9V1h = (int)abs(c9RuyA7h13);
+
 }
 }
 }
@@ -541,7 +541,7 @@ if (e300V < -1885504551)
 
 for (int i = 9; i >= 0; i--)
 {
-q1pKK5 = c4C2KF90op(-54375648, -1006521949, UHvq, SX3mzjf8Fk);
+
 }
 
 j9T9Yx = (g25cj5 == PrW8) ? r_iw7xMr : M8a5fGoT4B(-517623963, SNIG6I);
@@ -559,7 +559,7 @@ case 1:
 p5j2g = c3D7BFQ75 * Jf6AiXlw9G;
 break;
 case 2:
-bdiQtg4 = (int)ceil(GlIcp);
+
 break;
 case 3:
 QyEO1++;
@@ -583,7 +583,7 @@ break;
 }
 }
 
-y_U86pi = (int)ceil(Ow22Tc3gg);
+
 cout << "OO_EyU8Bh" << Z_ca << "u80kCz_3Zd" << "MK0pl" << endl;
 
 return 0;

@@ -526,7 +526,7 @@ else if (g6rL0Jnz >= Py_QmS4)
 int k = 0;
 while (k < 3)
 {
-FI7d = Y4WlhXfGJ(-622337296, g6rL0Jnz, -878011299);
+
 k++;
 }
 }
@@ -537,7 +537,7 @@ else if (RbN2543 >= -51414684)
 int k = 0;
 do
 {
-O_M10r_mz7 = (int)abs(Kwe8L9y);
+
 k++;
 }
 while (k < 4);

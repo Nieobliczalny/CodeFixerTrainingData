@@ -118,7 +118,7 @@ SB_h = (int)abs(JG8Pc57N);
 
 if (pwlk != -1216888293)
 {
-XCpI3dG_Dx = (short)(Jw_mza0 + (197881622));
+
 }
 else
 {
@@ -163,7 +163,7 @@ break;
 }
 }
 
-w4d33 = (float)(oEy99RoQ);
+
 g7tjS5_ = trJ2(-281759953, n8Go0_, -1072214115, 1019634918);
 
 {
@@ -178,7 +178,7 @@ while (i < 6);
 
 if (Jw_mza0 == 0)
 {
-	QURdCNi2b7 = 1827526655 / Jw_mza0;
+
 }
 if (U_J7e9_9a)
 {

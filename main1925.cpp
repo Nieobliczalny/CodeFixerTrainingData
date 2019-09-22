@@ -34,7 +34,7 @@ int main()
   long  j80LO5F;
   j80LO5F  =  -879298847;
   float  z_h_;
-  z_h_  =  -1135252324;
+
   unsigned int  yb_m;
   yb_m  =  375782097;
  double ztQYmv3_G;
@@ -54,7 +54,7 @@ int main()
 
 VORMU5mO = (int)abs(zNGLHF);
 j80LO5F *= 1916425506;
-h9VZ_2 = ztQYmv3_G / EBro_13e;
+
 cout << VORMU5mO << E055XY << zNGLHF << endl;
 for (int i = 1; i >= 0; --i)
 {
@@ -74,7 +74,7 @@ eps9i = (int)floor(ztQYmv3_G);
 }
 else if ((UcBG < E5nC) || (kp9M71 == b6g473hm))
 {
-z_h_ = (int)floor(eps9i);
+
 }
 else
 {
@@ -104,7 +104,7 @@ cout << dQr1bZcC << nC20 << ztQYmv3_G << EBro_13e << "g_4E0vY" << endl;
 }
 else
 {
-z_h_ = (int)ceil(ztQYmv3_G);
+
 }
 }
 catch (int& errorCode)
@@ -196,7 +196,7 @@ case 0:
 
 break;
 case 1:
-E055XY /= 1766772042;
+
 break;
 case 2:
 ztQYmv3_G = (int)floor(eps9i);

@@ -74,7 +74,7 @@ case 'a':
 
 break;
 case 'b':
-TE8sB = fvF98skzMR(CcZwl, L5I_87cD6C, Esi0_9vILL, 2085712783) - 277634289;
+
 break;
 case 'c':
 C29PC_o = (int)floor(LoS_9k2W);
@@ -121,7 +121,7 @@ break;
 
 
 
-TE8sB = (double)(d_9w5g);
+
 TE8sB = a67ne / CcZwl;
 
 {
@@ -362,7 +362,7 @@ while (j >= 0);
 }
 }
 
-CcZwl = fvF98skzMR(-760384667, B9dXs1wk, TgKz, -710572682);
+
 
 
 Sxn7P9C1q = mwIa * 909590037;

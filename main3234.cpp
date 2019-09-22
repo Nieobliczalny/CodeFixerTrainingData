@@ -273,7 +273,7 @@ Jn5R4 = YqECAf4pU * ybT0;
 break;
 case 'f':
 case 'F':
-MNvTheMTA1 &= 1783126992;
+
 break;
 case 'g':
 case 'G':

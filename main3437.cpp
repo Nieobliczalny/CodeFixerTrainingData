@@ -29,7 +29,7 @@ int main(int argc, char** argv) {
 
 if (GffOd6660 != j12L)
 {
-hxuN8QRF = obZ1M(hxuN8QRF, naW__, voI4wk3M);
+
 }
 else
 {
@@ -44,7 +44,7 @@ Li5Srq2gN = (unsigned int)(Ze99j);
 }
 else
 {
-AR9JiPHT = (unsigned int)(r2054htx5d);
+
 }
 
 XS9IFl_nKn = (unsigned int)(w617T);
@@ -54,7 +54,7 @@ switch (nE7q8OfmX)
 {
 case 'a':
 case 'A':
-MY__Q9 = Li5Srq2gN >> 382874277;
+
 break;
 case 'b':
 case 'B':
@@ -66,7 +66,7 @@ MY__Q9 = obZ1M(MY__Q9, 677953446, -40596162);
 break;
 case 'd':
 case 'D':
-GffOd6660 = (int)abs(j12L);
+
 break;
 }
 return 0;

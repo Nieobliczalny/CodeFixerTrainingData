@@ -14,7 +14,7 @@ int main(int argc, char** argv)
 	double	q3OzeIX4wq;
 	q3OzeIX4wq	=	1195341966;
 	unsigned char	P3i16I;
-	P3i16I	=	73825998;
+
   unsigned char  hUrESz;
 
     long    D2Cw6LM;
@@ -28,7 +28,7 @@ int main(int argc, char** argv)
     double    F4t_W0gW;
 
   short int  I5RS6;
-  I5RS6  =  -207688702;
+
     unsigned short int    U_Dp13df3N;
     U_Dp13df3N    =    1111626035;
  unsigned long long q4ai8h05;
@@ -38,7 +38,7 @@ int main(int argc, char** argv)
   long long  P_0WAh;
 
     unsigned short    U7ByJn89;
-    U7ByJn89    =    -896352591;
+
     unsigned char    Tt8h;
     Tt8h    =    -1741772432;
 	double	A_P57z0U;
@@ -48,7 +48,7 @@ int main(int argc, char** argv)
  unsigned char Ox_vpfFd;
 
   float  sH63m0;
-  sH63m0  =  -729207928;
+
  unsigned short int Aw3Ikd_Mn;
  Aw3Ikd_Mn = 1985920351;
 	unsigned short int	ubiVBL_m;
@@ -60,7 +60,7 @@ int main(int argc, char** argv)
   char  eN_xtH;
   eN_xtH  =  1246972058;
   long double  tKb4Kc;
-  tKb4Kc  =  -490858233;
+
  long long H67nRyH;
  H67nRyH = 647639260;
   float  K3pC;
@@ -70,7 +70,7 @@ int main(int argc, char** argv)
     long    ZFin_R3;
     ZFin_R3    =    -182332929;
  long pAO8ZdetJ;
- pAO8ZdetJ = -796832381;
+
  unsigned short bRw5_XiOq;
  bRw5_XiOq = 1661990923;
     unsigned long    dz6G0;
@@ -82,7 +82,7 @@ int main(int argc, char** argv)
  long double uk0xYh3BK;
  uk0xYh3BK = -962698969;
   float  I4Vp0278a;
-  I4Vp0278a  =  -641287415;
+
     unsigned char    HU2K7g4y;
     HU2K7g4y    =    930227863;
   short  dnQ0N0_bI5;
@@ -92,7 +92,7 @@ int main(int argc, char** argv)
 	unsigned short	iF76_4r7;
 	iF76_4r7	=	468901186;
   unsigned long  syx00P;
-  syx00P  =  1789712014;
+
     char    WX62ZVrSg;
     WX62ZVrSg    =    -1016712496;
   long  WwkPQg7rw;
@@ -102,7 +102,7 @@ int main(int argc, char** argv)
 	long	wJ9e9U4O_A;
 	wJ9e9U4O_A	=	779417160;
  unsigned long long JLP8shV9n;
- JLP8shV9n = -1681364282;
+
   unsigned short  uo_dX;
   uo_dX  =  -423817146;
     unsigned long long    I_i_Ht23Nf;
@@ -116,7 +116,7 @@ int main(int argc, char** argv)
     short    J8_2;
     J8_2    =    1699283192;
     unsigned char    FuSV1zTXK4;
-    FuSV1zTXK4    =    1312044085;
+
  unsigned long tqG3;
 
   unsigned int  YK71;
@@ -126,7 +126,7 @@ int main(int argc, char** argv)
  unsigned short oZaD5rT2mS;
  oZaD5rT2mS = -59952347;
  short rJQx25Jd1;
- rJQx25Jd1 = 434806310;
+
     long double    o5yfSz983R;
     o5yfSz983R    =    1604460234;
   double  R3ypiUY;
@@ -136,7 +136,7 @@ int main(int argc, char** argv)
     short int    v317_0;
     v317_0    =    -1494605652;
  long long FKhDpbqJ;
- FKhDpbqJ = 1752852629;
+
  long IEl10o5_;
  IEl10o5_ = 2101218541;
     short    g506;
@@ -146,7 +146,7 @@ int main(int argc, char** argv)
  double iph500e_;
  iph500e_ = 2029117112;
 	short int	WOTcKI;
-	WOTcKI	=	-962808704;
+
  short PZjlfOu92x;
  PZjlfOu92x = -1055481744;
 	int	nmqmHxq69m;
@@ -158,7 +158,7 @@ int main(int argc, char** argv)
     long double    T7OC;
 
   unsigned short  MBhn;
-  MBhn  =  865162255;
+
 	double	vPose;
 	vPose	=	-2139694702;
  long u002JA6;
@@ -170,7 +170,7 @@ int main(int argc, char** argv)
  int x1MIk;
  x1MIk = 1724773324;
  long long unxpU7;
- unxpU7 = -597684782;
+
   double  QSKc_;
   QSKc_  =  -2144167415;
     unsigned short int    M7ZU6A;
@@ -180,7 +180,7 @@ int main(int argc, char** argv)
  unsigned short int l_72OAP94;
  l_72OAP94 = -1702196561;
 	int	O8Ni3_Bn;
-	O8Ni3_Bn	=	251614278;
+
 	short	G3FD4sEJ;
 	G3FD4sEJ	=	-265851522;
  int t10b7Ezp;
@@ -200,7 +200,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-PZjlfOu92x = (uk0xYh3BK == rLf4j) ? -1168412168 : J8_2;
+
 break;
 case 'c':
 case 'C':
@@ -216,7 +216,7 @@ G3FD4sEJ = (int)abs(uk0xYh3BK);
 break;
 case 'f':
 case 'F':
-rJQx25Jd1 = eN_xtH << 1739838178;
+
 break;
 case 'g':
 case 'G':
@@ -238,7 +238,7 @@ if (e405gwkLY <= o5yfSz983R)
 }
 else if (x1MIk)
 {
-b71TsbN1v8 = Aw3Ikd_Mn ^ 1005128469;
+
 }
 else
 {
@@ -278,7 +278,7 @@ catch (int& errorCode)
 {
 i0_r2R14_ = G3FD4sEJ | 1417442821;
 }
-d2fw7F = (int)floor(A_P57z0U);
+
 
 vq3ZyTWwz4 = R3ypiUY / t10b7Ezp;
 return 0;

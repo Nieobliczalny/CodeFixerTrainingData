@@ -880,7 +880,7 @@ case 0:
 
 break;
 case 1:
-A543 += 286666633;
+
 break;
 case 2:
 qNSz3h8e = (int)abs(ido4ZBBdZ);
@@ -895,7 +895,7 @@ case 5:
 ido4ZBBdZ = (int)floor(L5Ij4);
 break;
 case 6:
-BBd9mT7x -= Uv43F5;
+
 break;
 default:
 fXaDl ^= Z4qH6Jz390;

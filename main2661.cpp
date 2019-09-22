@@ -141,7 +141,7 @@ else if ((S_T63F != w5iMJ5Xi2) || ((B8JT61LK > -2032235212) && (S_T63F != Zo0vg9
 }
 else if (((w38rU5 >= p26jk1) && (eX1_)) || (v_vM == H903m6))
 {
-l49udA = (int)abs(H515WkRSr);
+
 }
 else
 {
@@ -269,7 +269,7 @@ case 'a':
 
 break;
 case 'b':
-TNOn8cCk00 = (int)abs(Gp7d2);
+
 break;
 case 'c':
 w0c_ = (int)floor(JIW20p);

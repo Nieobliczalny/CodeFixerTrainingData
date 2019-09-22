@@ -52,7 +52,7 @@ int main(void) {
 	unsigned int	Y3qm6T3o_L;
 	Y3qm6T3o_L	=	0;
   short int  FtvZsg9y;
-  FtvZsg9y  =  0;
+
 	short int	O6Jyxid1i4;
 	O6Jyxid1i4	=	1988451259;
 
@@ -92,7 +92,7 @@ R9_K_ = Ivl2 / kr6zdT4Pn;
 break;
 case 'b':
 case 'B':
-kr6zdT4Pn = (int)floor(NyI7v5X);
+
 break;
 case 'c':
 case 'C':
@@ -104,7 +104,7 @@ EmPW65 = elS_(-629875691, MS7959Q2kX, EmPW65, -457360847, 1159554776);
 break;
 case 'e':
 case 'E':
-DnMUWfY = DnMUWfY | q_DMJEZm;
+
 break;
 case 'f':
 case 'F':
@@ -116,7 +116,7 @@ NyI7v5X = (int)floor(qA87o_Ccj);
 break;
 case 'h':
 case 'H':
-EmPW65 = elS_(1661299277, RIX9_V, 1758005141, qA87o_Ccj, NyI7v5X);
+
 break;
 case 'i':
 case 'I':
@@ -171,7 +171,7 @@ std::cout << elS_(yn86m, -868924658, O6Jyxid1i4, 376049376, FtvZsg9y) << std::en
 }
 
 kr6zdT4Pn = (int)abs(qA87o_Ccj);
-sW332 = elS_(-1830364779, -136231500, Bf_Jc_6Px0, 413677865, -1093981977);
+
 qA87o_Ccj = (float)(yn86m);
 RIX9_V = qA87o_Ccj / Y3qm6T3o_L;
 std::cout << elS_(GeTsmic, -1060823732, -993551210, kr6zdT4Pn, 778224569) << PB4gxdN1 << elS_(GeTsmic, -861893182, -737747707, 747162248, R9_K_) << q_DMJEZm << std::endl;

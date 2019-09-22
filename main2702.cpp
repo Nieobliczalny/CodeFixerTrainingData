@@ -73,7 +73,7 @@ case 'j':
 
 break;
 default:
-Kf2A = (int)abs(KfOj6zK);
+
 break;
 }
 }
@@ -111,7 +111,7 @@ case 'b':
 lxaxbUxgs++;
 break;
 default:
-a_Tw = n4Ctuy4o8(-1021385848);
+
 break;
 }
 switch (wppkZP6)

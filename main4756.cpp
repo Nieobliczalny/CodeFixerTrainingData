@@ -31,7 +31,7 @@ long long    KsXC_3(unsigned long    Urd52ZY8tc,unsigned char    zNxqvW)
 int main(int argc, char** argv)
 {
   unsigned char  v26zoL9R;
-  v26zoL9R  =  1101842467;
+
 	short int	nsK45;
 	nsK45	=	1338846123;
  unsigned short int Dy8KY;
@@ -41,7 +41,7 @@ int main(int argc, char** argv)
 	unsigned short	et4Z;
 	et4Z	=	90440437;
     unsigned char    f_m0;
-    f_m0    =    -827757882;
+
  float G_m_;
 
 	unsigned long long	kb5cc;
@@ -59,7 +59,7 @@ int main(int argc, char** argv)
     unsigned long long    k5__FXu;
     k5__FXu    =    -252422748;
   short int  g2dkoQ5;
-  g2dkoQ5  =  -2038436547;
+
   char  Swcn3TZ;
   Swcn3TZ  =  -125518493;
  long double HebL;
@@ -81,7 +81,7 @@ int main(int argc, char** argv)
 	int	Nbd5QIv5jH;
 	Nbd5QIv5jH	=	149984395;
  short int fmwioS8yu2;
- fmwioS8yu2 = -272758018;
+
 	unsigned short int	P43N_UD3;
 	P43N_UD3	=	-1359142045;
  char BaO9AW;
@@ -99,7 +99,7 @@ int main(int argc, char** argv)
 	unsigned long long	eN00bQ_48S;
 	eN00bQ_48S	=	-1657072582;
     long long    aK2ZWOexiu;
-    aK2ZWOexiu    =    193778853;
+
  short int suDPBOe;
  suDPBOe = 0;
  double JiKJYyg;
@@ -121,7 +121,7 @@ int main(int argc, char** argv)
 	short int	Csq7sRU;
 	Csq7sRU	=	-1443888096;
 	unsigned short int	i278UKBr9_;
-	i278UKBr9_	=	1884532993;
+
   long long  c0QUq;
   c0QUq  =  -1899452496;
   unsigned short int  t1Td5;
@@ -136,7 +136,7 @@ int main(int argc, char** argv)
 cout << yXG_2z(et4Z, 38754738, -1831388709, -871348971, -1121442573) << "x03mL57xw" << "O_77" << "R5x5XEqL" << endl;
 cout << kB4_T() << "Q6EVE7_" << kB4_T() << KsXC_3(1033128748, P43N_UD3) << eN00bQ_48S << endl;
 
-et4Z = uMUX / zG__r5W;
+
 
 for (int i = 0; i < 3; ++i)
 {
@@ -164,7 +164,7 @@ case 6:
 eN00bQ_48S = kB4_T();
 break;
 case 7:
-t1Td5 = T5z3(-769878247, 1522629027, dOdI_Vt, P3P_768);
+
 break;
 case 8:
 nsK45 = yXG_2z(1568469952, -236464777, 196077058, b83Qi6v, e7Tvwt);
@@ -205,7 +205,7 @@ if ((uMUX) && (zG__r5W < kb5cc))
 }
 else if (suDPBOe & kb5cc)
 {
-a87kuo9K += k5__FXu;
+
 }
 else if (oZ90 != unU7Ej)
 {
@@ -217,7 +217,7 @@ else if (zG__r5W > U12167)
 }
 else if (qvUDG < unU7Ej)
 {
-Y5qv4n = KsXC_3(303205597, YDHelZT);
+
 }
 else if (Li4Vf3KC1 > unU7Ej)
 {
@@ -238,7 +238,7 @@ int k = 0;
 while (k < 2)
 {
 ++k;
-Nbd5QIv5jH = nsK45 << 443634268;
+
 }
 }
 }
@@ -253,7 +253,7 @@ else if ((ewCKrxf2_6 == U12167) && (oZ90 != 1856781663))
 switch (YDHelZT)
 {
 case 0:
-t1Td5 = T5z3(683174528, Swcn3TZ, YDHelZT, P43N_UD3);
+
 break;
 case 1:
 Csq7sRU ^= b83Qi6v;
@@ -268,7 +268,7 @@ break;
 }
 else
 {
-JTrI97x = (int)(D4UzC * (U12167));
+
 }
 
 cout << "RY4Rv0Yt" << U26QcwRhVv << kB4_T() << Dy8KY << endl;

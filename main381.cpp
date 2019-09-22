@@ -322,7 +322,7 @@ if (ze3R > V006P)
 int j = 9;
 do
 {
-rscYSI6 = U6bjrL4Z ^ 1236564040;
+
 --j;
 }
 while (j >= 0);
@@ -426,7 +426,7 @@ default:
 
 break;
 }
-zS2m19J3_ = (unsigned int)(ze3R);
+
 
 for (int i = 5; i >= 0; i--)
 {
@@ -473,7 +473,7 @@ if (Fo3s <= 2028818464)
 }
 else if (QcL_nBk == -53970666)
 {
-qhtUYxhLr = (int)ceil(k7jW7_t9F);
+
 }
 else if (QcL_nBk >= MQ1__)
 {
@@ -511,7 +511,7 @@ case 0:
 On1R = J_to3(Di30xS66um, -604673689, Zn6zMtbJT, 1719651980, 1903487985);
 break;
 case 1:
-z8cu7lT = (int)floor(eEz55j_6g9);
+
 break;
 }
 for (int i = 5; i >= 0; --i)

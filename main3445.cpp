@@ -242,7 +242,7 @@ case 'h':
 vcLB++;
 break;
 default:
-bvCt4T = (int)abs(d7nu_D);
+
 break;
 }
 if ((bc1GNNmV) && (Z0Vk == 487948355))
@@ -255,7 +255,7 @@ if (vShazp47 > vcLB)
 }
 else
 {
-a4h_U = nEthTsd_W0 * dfut4_qJdx;
+
 }
 }
 else if (c42iMXe811)
@@ -354,7 +354,7 @@ else
 {
 if (Zj00O != -1420563140)
 {
-nhO_a = HXU56L_yN(JG_VnXG, tlzZ, 1490249786, AeAbY_9K8F, lE8_w01);
+
 }
 }
 Ir_m_79le8 = lnF6x9p3();

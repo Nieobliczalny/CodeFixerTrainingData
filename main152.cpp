@@ -32,7 +32,7 @@ int main(void) {
     int    H_A7iQN;
 
   char  eQB1P49Oyh;
-  eQB1P49Oyh  =  -745755090;
+
  unsigned long long Zf5D_;
  Zf5D_ = -1899500700;
     short    KA_9U;
@@ -42,7 +42,7 @@ int main(void) {
 	long	Ilh4;
 
     short    w1jI;
-    w1jI    =    -1595055482;
+
     long    U0mP2Z5kZP;
     U0mP2Z5kZP    =    118610830;
 	unsigned long long	QM_mb5E5;
@@ -52,7 +52,7 @@ int main(void) {
   unsigned short int  B4uFu3V;
 
     unsigned int    eC0UA9e;
-    eC0UA9e    =    -554577061;
+
   unsigned long long  Twq5M6y;
   Twq5M6y  =  -530578081;
 	long long	oCU9Z;
@@ -68,7 +68,7 @@ int main(void) {
 	unsigned short	Mc4q_soZ9;
 	Mc4q_soZ9	=	1575424560;
 	unsigned char	DhpiHhaG;
-	DhpiHhaG	=	-689066875;
+
 	unsigned char	V9kOyhWW;
 	V9kOyhWW	=	-1900490990;
   unsigned char  F31SGZUm;
@@ -78,7 +78,7 @@ int main(void) {
  long double T2a0s;
 
   short int  OePT8nzL9g;
-  OePT8nzL9g  =  1873484256;
+
     long long    cKTxI68;
     cKTxI68    =    -34138366;
 	unsigned int	vxOzdd4X;
@@ -90,7 +90,7 @@ int main(void) {
  double D0_2g;
  D0_2g = -1233160021;
     short int    Pyh8;
-    Pyh8    =    -949155779;
+
 	unsigned int	xipe3M_T;
 	xipe3M_T	=	396496314;
   long  vLDP;
@@ -100,7 +100,7 @@ int main(void) {
   short  Xl_cT;
 
   short int  Hkqb3165;
-  Hkqb3165  =  893609939;
+
   unsigned char  Usatuzix;
   Usatuzix  =  0;
  long rbyk1MHq0T;
@@ -114,7 +114,7 @@ int main(void) {
 	unsigned long	MMCN;
 
     short    Kx_11;
-    Kx_11    =    518116409;
+
  long long e6Hhdj0;
  e6Hhdj0 = -268746531;
     float    Qz35;
@@ -128,7 +128,7 @@ int main(void) {
 	unsigned short	K_g2VYWl;
 
     unsigned long long    NghtH_5;
-    NghtH_5    =    534027533;
+
 	short int	IAg3j4;
 	IAg3j4	=	53597043;
     unsigned short    EJgHutjW5H;
@@ -140,7 +140,7 @@ int main(void) {
 	char	d2qL0nz_L9;
 
     int    A9yxF30;
-    A9yxF30    =    -1813028963;
+
  long long cXP7_5_o9l;
  cXP7_5_o9l = -934301697;
     int    LcB5vhQc;
@@ -150,7 +150,7 @@ int main(void) {
  unsigned short Ks42;
 
     unsigned int    ZsB0eMh3Yw;
-    ZsB0eMh3Yw    =    -628901963;
+
     long    o_ZO09NKK;
     o_ZO09NKK    =    606566482;
  float mMPIph4_;
@@ -164,7 +164,7 @@ int main(void) {
 	long	sn3We5kGqN;
 
   char  NC4U_;
-  NC4U_  =  1673542654;
+
     unsigned char    OTy67nk56Q;
     OTy67nk56Q    =    2065793875;
   char  OIhGW3aG2f;
@@ -174,7 +174,7 @@ int main(void) {
 	short	h4Y714O;
 
 	long	u2SOyCXyB;
-	u2SOyCXyB	=	-1799168991;
+
     unsigned short int    sJ3r0g3FBf;
     sJ3r0g3FBf    =    -986237664;
 	short int	xKz1HO;
@@ -186,7 +186,7 @@ int main(void) {
 	unsigned char	O6Hn2j80;
 
   unsigned int  GLOSR_2V_;
-  GLOSR_2V_  =  1195941492;
+
  char APGw2qH;
  APGw2qH = 1671860360;
 	unsigned short int	be9gP9CoSD;
@@ -198,7 +198,7 @@ int main(void) {
 	unsigned short int	lRHjE37t;
 
   unsigned long  NQ_X;
-  NQ_X  =  552748074;
+
 	double	GN62WhH43;
 	GN62WhH43	=	-2070043913;
  long long cnYFPj;
@@ -208,7 +208,7 @@ int main(void) {
   int  uq5BZ2m;
 
  char irSP9Q2;
- irSP9Q2 = -469088597;
+
   double  JN7zF;
   JN7zF  =  -2039987393;
 	unsigned long	NZHBvZ;
@@ -218,7 +218,7 @@ int main(void) {
 	long	Ly1x5_5;
 
   int  t61Hq_1U;
-  t61Hq_1U  =  393514478;
+
  short int Gd86d;
  Gd86d = 1514650817;
     short    At4rHL8;
@@ -232,7 +232,7 @@ if (yGILdL > 2026971407)
 }
 else
 {
-Kx_11 = R4i1g_1hH(-1787507524);
+
 }
 
 try
@@ -269,7 +269,7 @@ while (i < 9)
 ++i;
 for (int j = 0; j < 7; ++j)
 {
-Usatuzix = E2I2f7wJ(159327632, 1760248057);
+
 }
 }
 }
@@ -285,7 +285,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-Y8ao40pU1a = R4i1g_1hH(1157748203);
+
 break;
 default:
 HJWt5 = (int)floor(k_k_PxQ79n);
@@ -310,7 +310,7 @@ k_k_PxQ79n = (int)floor(C95p526i);
 
 for (int i = 2; i >= 0; i--)
 {
-JN7zF = (int)floor(slj_);
+
 }
 for (int i = 0; i < 1; i++)
 {
@@ -338,7 +338,7 @@ if (At4rHL8 > yGx2)
 int j = 0;
 while (j < 7)
 {
-u8s9j = (unsigned short)(Mc4q_soZ9);
+
 j++;
 }
 }
@@ -354,7 +354,7 @@ if (o_ZO09NKK > -266801015)
 }
 else
 {
-xipe3M_T >>= dcNLf5;
+
 }
 }
 catch (int& errorCode)
@@ -398,7 +398,7 @@ case 'a':
 
 break;
 case 'b':
-mMPIph4_ = A09l2N1hlY(235150635, PJ896, OTy67nk56Q);
+
 break;
 }
 }

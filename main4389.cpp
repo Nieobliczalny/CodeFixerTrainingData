@@ -277,7 +277,7 @@ else if ((B1f_M) && (atE4bxb9St != -1687965606))
 }
 else
 {
-n150I2ots = vd0w << 283388417;
+
 }
 i++;
 }
@@ -340,7 +340,7 @@ else if (qMs7 & -951355761)
 }
 else if (cv606 != c4UH)
 {
-uN_yf55xg = qG2rO8v7hd() | B1f_M;
+
 }
 else
 {

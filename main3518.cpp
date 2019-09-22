@@ -309,7 +309,7 @@ case 2:
 r9zUGAe8dt = (int)floor(amm4K6jV);
 break;
 case 3:
-XqKM = hFntkOQO4(-417215384, TLzic_D8um, U9sU, XqKM, 623290530);
+
 break;
 case 4:
 dU01eyp = (int)abs(XqKM) + (216845659);
@@ -471,7 +471,7 @@ else if ((QfR0I != Qbtix) && (u_1cNC))
 }
 else if ((Q5g1 & hfVwNS75pq) && (Q5g1 <= Qbtix))
 {
-M1uS_9J = hFntkOQO4(s_WL, xxq0wt04D, u_1cNC, 1991648263, amm4K6jV);
+
 }
 else
 {
@@ -510,7 +510,7 @@ while (k >= 0);
 }
 }
 
-u_1cNC = dU01eyp << 692469423;
+
 {
 int i = 9;
 do

@@ -31,7 +31,7 @@ int main(int argc, char** argv)
   int  ZKXfF47;
   ZKXfF47  =  -1060590104;
     unsigned short    k_RtO;
-    k_RtO    =    -685358777;
+
 	unsigned short	nOQr4;
 	nOQr4	=	-1546165607;
     double    FUQ5CVC;
@@ -41,7 +41,7 @@ int main(int argc, char** argv)
   short int  Vg017u5S;
   Vg017u5S  =  -1393428934;
   short int  xop0;
-  xop0  =  0;
+
  float aa5pVS;
  aa5pVS = -409422850;
  short int u9PPQ6XcmI;
@@ -71,7 +71,7 @@ int main(int argc, char** argv)
   unsigned long long  poh4_18M8;
   poh4_18M8  =  -1040282217;
     unsigned long    fKSRo;
-    fKSRo    =    1460648723;
+
  int o_VG3ynlk;
  o_VG3ynlk = -201547108;
   char  f3DK42w;
@@ -83,7 +83,7 @@ int main(int argc, char** argv)
   long double  vl3lBN9Cz;
   vl3lBN9Cz  =  1332936612;
 	unsigned long	O6IJZ;
-	O6IJZ	=	-224202464;
+
 	unsigned int	mmYs2D0;
 	mmYs2D0	=	396879863;
   unsigned short  oxhZ6BGv4;
@@ -97,7 +97,7 @@ int main(int argc, char** argv)
     long    wJFaSbf64;
     wJFaSbf64    =    0;
 	unsigned short int	dK6a457;
-	dK6a457	=	963325829;
+
 
 GA880Fze = Br7X9_(195963037, wJFaSbf64, mmYs2D0, a79O96);
 r8AuLh = (int)abs(FUQ5CVC);
@@ -178,7 +178,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-a79O96 &= 109027184;
+
 break;
 }
 
@@ -194,7 +194,7 @@ case 2:
 U5Yii_c = (int)ceil(aa5pVS);
 break;
 default:
-O6IJZ = GqXiZTW9(1320250693) * Fj3823;
+
 break;
 }
 for (int i = 0; i < 10; ++i)
@@ -274,7 +274,7 @@ else if (oxhZ6BGv4 <= f3DK42w)
 }
 else
 {
-FUQ5CVC = (int)ceil(vl3lBN9Cz);
+
 }
 }
 

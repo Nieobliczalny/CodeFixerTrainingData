@@ -674,7 +674,7 @@ case 0:
 tB7Uwhlz07 = K14DC3 / K14DC3;
 break;
 case 1:
-K14DC3 *= 1834562057;
+
 break;
 }
 }

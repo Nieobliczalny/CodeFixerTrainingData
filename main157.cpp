@@ -20,7 +20,7 @@ int main(void)
     unsigned short int    xyq3Co99j;
 
 	char	yJ7LP68;
-	yJ7LP68	=	-1156073129;
+
     unsigned short    W0hs2N0;
     W0hs2N0    =    -2059288508;
 	long	y056e;
@@ -30,7 +30,7 @@ int main(void)
 	long	Yt6LUM;
 
  char pJ8DUr58;
- pJ8DUr58 = -642961916;
+
 	double	xq3hXB7w94;
 	xq3hXB7w94	=	341530595;
 	unsigned short int	MS2Cqwg7D;
@@ -42,7 +42,7 @@ int main(void)
  unsigned long long Cd92OM;
  Cd92OM = -400967342;
 	unsigned int	Q9qaAUweh;
-	Q9qaAUweh	=	738229712;
+
  unsigned long long xdJRrdm;
  xdJRrdm = 735662713;
 	long double	fWQRD;
@@ -52,7 +52,7 @@ int main(void)
   double  kZwKz_jgN;
   kZwKz_jgN  =  -1027398638;
  short int qd_ngN0Ni;
- qd_ngN0Ni = 70631074;
+
  double c45Xx2;
  c45Xx2 = -1145987823;
   unsigned long  LYleK;
@@ -66,7 +66,7 @@ int main(void)
   short int  QVM4gM__t;
   QVM4gM__t  =  -1202717477;
  short int j7BPm_4Bx;
- j7BPm_4Bx = 54911734;
+
  unsigned short int IYe6aErR;
 
     int    s4T1aTJ;
@@ -93,7 +93,7 @@ catch (int& errorCode)
 {
 fWQRD = (int)ceil(kZwKz_jgN);
 }
-NX_h6rE = Im32B / s4T1aTJ;
+
 
 
 std::cout << "wcQ8" << std::endl;

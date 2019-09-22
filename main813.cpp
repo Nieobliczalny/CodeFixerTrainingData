@@ -146,7 +146,7 @@ try
 {
 for (int j = 6; j >= 0; --j)
 {
-g_z58 = QXD1cN4 ^ CyB16;
+
 }
 }
 catch (int& errorCode)
@@ -161,7 +161,7 @@ if (b6Y_vjF > oP6upA)
 }
 else if (pjEdI_ < 911726842)
 {
-iZSE = (int)abs(C_1oa3Wn);
+
 }
 else
 {
@@ -174,7 +174,7 @@ case 'a':
 
 break;
 case 'b':
-QK6bPf = w6ROx3f1F(QK6bPf, j5p7, Re_W, -110321928);
+
 break;
 case 'c':
 oa919T = (int)floor(bjGsamMfCU);
@@ -188,7 +188,7 @@ break;
 }
 
 cout << "F5BgT" << endl;
-aUAH6b_tt9 = BBy3RBgD9R(-1812888556, rK0g6, Y_J0C0DW, CF337C7j72);
+
 
 return 0;
 }

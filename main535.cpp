@@ -53,7 +53,7 @@ while (i >= 0);
 }
 
 
-ATAX5 = lxCFYlw(ATAX5, -1536370733, Ie__Vc6Y);
+
 std::cout << P3Tvp7f / lq0C64NyH << std::endl;
 std::cout << S6Jd << std::endl;
 
@@ -96,7 +96,7 @@ if ((io7XTo1q != qBzMWv) && (p32qF3))
 }
 else if (p32qF3 < HO59V)
 {
-MzLv_ -= 1460953941;
+
 }
 else
 {
@@ -264,7 +264,7 @@ avjEW3xyW = lxCFYlw(avjEW3xyW, x6I9K, zeG07);
 break;
 case 'c':
 case 'C':
-FNf77q = rez_ & S9No9RM6kR;
+
 break;
 }
 }
@@ -326,7 +326,7 @@ switch (zeG07)
 {
 case 'a':
 case 'A':
-O_tqK = Rd5dyN | hFtbvua;
+
 break;
 case 'b':
 case 'B':
@@ -338,7 +338,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-uGi5 ^= 523618322;
+
 break;
 case 'e':
 case 'E':
@@ -350,7 +350,7 @@ case 'F':
 break;
 case 'g':
 case 'G':
-ixG6Zqc8mQ = BJ3Onu + t4wN3hP;
+
 break;
 default:
 o7lTIh58y7 = O_tqK | 1477546330;

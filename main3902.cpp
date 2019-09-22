@@ -181,7 +181,7 @@ case 3:
 
 break;
 case 4:
-t3KtKSF = (int)floor(kLsYWq6Y6);
+
 break;
 case 5:
 sYSG = (D0Rc_ <= -411846097) ? lN2TL6iI : -334254875;
@@ -397,7 +397,7 @@ case 1:
 OCVuK3QmB = DtQ_9wf6lB(OCVuK3QmB, 1208532220, D01A, A_N5LeUaka);
 break;
 case 2:
-Aq5_yFx6VG = nz2WKx(pWqqNb2ASU, 2078911920, JCaVd02, -110345341);
+
 break;
 case 3:
 e6AABKP = iZXdt0vZA0 - lz44;

@@ -488,7 +488,7 @@ else if (W4tL > Q7nYg2UYf)
 {
 if (dq58g0xi >= GiyRE7)
 {
-dq58g0xi = tdh6YquVv(H47ocbj, 489772372, 336793518);
+
 }
 }
 else

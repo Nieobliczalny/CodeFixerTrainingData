@@ -178,7 +178,7 @@ case 1:
 PRBP3 >>= m8_eFcL;
 break;
 case 2:
-Qn3Pd = pAuVr7U(yCDzeHVI69, PFwzIKR_);
+
 break;
 case 3:
 BwG12zcjwh = vvqO(2036448430);
@@ -196,7 +196,7 @@ case 7:
 i9daIc5 = C8j5W_q ^ M1rupIy;
 break;
 case 8:
-f6567 = vvqO(RU77IFF0E_) >> y0kkb;
+
 break;
 case 9:
 Xoe4YId = MSn4d1 ^ szr3_hxZSo;
@@ -223,7 +223,7 @@ IXOiS2 = pAuVr7U(-1206475219, uVwK4nKQ00);
 break;
 case 'e':
 case 'E':
-uVwK4nKQ00 = Z_8e7 / ouNF_5o;
+
 break;
 case 'f':
 case 'F':
@@ -243,7 +243,7 @@ k31TlV4C = EK8P9s1yRj & o2H0u4Q;
 break;
 case 'j':
 case 'J':
-fG3lOsZR9g = (int)abs(X7Ot);
+
 break;
 default:
 W_UOB9o = Wk_d2_Cr / 1378509677;
@@ -260,7 +260,7 @@ switch (hySRQQon)
 {
 case 'a':
 case 'A':
-Qn3Pd = pAuVr7U(-2035837391, cu546khl);
+
 break;
 case 'b':
 case 'B':
@@ -272,7 +272,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-Qn3Pd = pAuVr7U(-1337113044, -333992975);
+
 break;
 case 'e':
 case 'E':
@@ -343,7 +343,7 @@ if (Xoe4YId & PuNShw5)
 switch (dJ__JIrr)
 {
 case 0:
-Qn3Pd = pAuVr7U(I34zo9_Wq_, G07d);
+
 break;
 case 1:
 
@@ -355,7 +355,7 @@ case 3:
 b4UGxe3Oh7 = vvqO(b4UGxe3Oh7);
 break;
 case 4:
-k31TlV4C >>= Zykd12;
+
 break;
 case 5:
 
@@ -367,7 +367,7 @@ case 7:
 kY_w = vvqO(-1014601132);
 break;
 case 8:
-y0kkb = (int)abs(IXOiS2) + (-1933080304);
+
 break;
 case 9:
 
@@ -383,7 +383,7 @@ while (j < 1)
 ++j;
 if (jmY5m1 < -65385492)
 {
-Qn3Pd = pAuVr7U(jmY5m1, 114997740);
+
 }
 }
 }
@@ -400,7 +400,7 @@ case 0:
 
 break;
 case 1:
-IXOiS2 = pAuVr7U(MSn4d1, IXDZH6b_4);
+
 break;
 case 2:
 RU77IFF0E_ = vvqO(1764239484) & PRBP3;
@@ -412,7 +412,7 @@ case 4:
 
 break;
 case 5:
-IXOiS2 = pAuVr7U(501060152, -211303394);
+
 break;
 case 6:
 lRfY >>= 532269185;
@@ -471,7 +471,7 @@ else
 {
 if (yCDzeHVI69 < PRsWuO3)
 {
-Qn3Pd = pAuVr7U(Pr62OGO8, rtMAn4);
+
 }
 }
 
@@ -489,7 +489,7 @@ if (Detp1td)
 }
 else if ((dJ__JIrr >= -1037061781) && (G07d == -1587098825))
 {
-Qn3Pd = pAuVr7U(1957819155, fLag);
+
 }
 else if (lRfY == 1238267591)
 {
@@ -515,7 +515,7 @@ std::cout << "Pj7IOMH9" << "VL6KjF10t7" << "K0o7J" << std::endl;
 int i = 6;
 do
 {
-PuNShw5 = (int)abs(Bk_HJ27hY_);
+
 i--;
 }
 while (i >= 0);

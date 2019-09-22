@@ -132,7 +132,7 @@ if (HXqJ6 > 816471389)
 switch (cG8i8mM)
 {
 case 0:
-cG8i8mM = Bo_yM << pocmW;
+
 break;
 case 1:
 cG8i8mM /= Ueqv5;
@@ -441,7 +441,7 @@ case 4:
 L9zE3 = LF8jP(1048698960, -137737851, jp2yx85);
 break;
 case 5:
-i1ZDbeP8 = i1ZDbeP8 + 76925391;
+
 break;
 default:
 pocmW = LF8jP(1974018078, 1572458974, -1570760906);
@@ -473,7 +473,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-V9z9M = LF8jP(V9z9M, -1127509930, pocmW);
+
 break;
 case 'c':
 case 'C':

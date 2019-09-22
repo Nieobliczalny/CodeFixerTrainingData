@@ -17,6 +17,7 @@ int main() {
     long long    ua3_m9y,    nO__0kQ,    WTm4,    BAQI48,    V95H_Rg,    HLp3Ff2,    l7tsx_CMjf,    qbeP5JpwC,    VJ9W6j5D,    z1gJ,    wr418FeP,    cYb61,    N95I,    Im2c_7mN,    NNqL06Cd,    rY1M7Ney,    M5YOWC,    FX4DDl780g;
         ua3_m9y    =    nO__0kQ    =    WTm4    =    BAQI48    =    V95H_Rg    =    HLp3Ff2    =    l7tsx_CMjf    =    qbeP5JpwC    =    VJ9W6j5D    =    z1gJ    =    wr418FeP    =    cYb61    =    N95I    =    Im2c_7mN    =    NNqL06Cd    =    rY1M7Ney    =    M5YOWC    =    FX4DDl780g    =    675391659;
 	char	Ncjwk2,	BCWT10BEXp;
+		// codechecker_intentional [deadcode.DeadStores] Design rule - initialize all variables
 		Ncjwk2	=	BCWT10BEXp	=	0;
 
 {

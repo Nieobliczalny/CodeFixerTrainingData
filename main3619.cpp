@@ -761,7 +761,7 @@ switch (RQ1S)
 {
 case 'a':
 case 'A':
-w36nZtS = FOhPgpuUn & U7E6;
+
 break;
 case 'b':
 case 'B':
@@ -781,7 +781,7 @@ Yfv1 *= xAQy;
 break;
 case 'f':
 case 'F':
-fY7bgKyjTn = LllkkyI(2053971630, jBmzv9px, -1155780529, 1332718621, rM0f1QVA);
+
 break;
 case 'g':
 case 'G':

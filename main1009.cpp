@@ -46,7 +46,7 @@ int main()
   uo7Z  =  -1623864078;
   ZBkkDx  =  338193745;
   R9Wg4VJW  =  226111957;
-  xQH598_HE  =  788100069;
+
   NC0v7mt8  =  -882863409;
   fRetj  =  1066047725;
   JY5_28_  =  -326413308;
@@ -91,7 +91,7 @@ int main()
 m0XHY = (unsigned long long)(A6YA);
 
 nLAxFI5 = (B3bejmdu >= 1002687004) ? 1919007579 : vSjXKjaD9B;
-hbD_Mzm = (unsigned long long)(ukxX4o0f35);
+
 for (int i = 0; i < 4; ++i)
 {
 cout << lkMn7 << endl;
@@ -224,7 +224,7 @@ do
 int k = 0;
 do
 {
-hbD_Mzm = YpS0ON3(-859200161, 703933030, m7E28, x_n9vJP) % 847312832;
+
 ++k;
 }
 while (k < 2);
@@ -388,7 +388,7 @@ N8KvC |= 38318526;
 break;
 case 'b':
 case 'B':
-D3Xk5 ^= K94B1P6;
+
 break;
 case 'c':
 case 'C':

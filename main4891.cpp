@@ -29,7 +29,7 @@ int main(void) {
   long double  QQaYGT;
   QQaYGT  =  -1052706486;
   short  ZPe2s;
-  ZPe2s  =  -1160438398;
+
 	long long	cI_MaXUQ;
 	cI_MaXUQ	=	1694950257;
 	unsigned long long	KXWb4f6l;
@@ -45,7 +45,7 @@ int main(void) {
     unsigned char    awZ3_;
     awZ3_    =    1473885488;
   long  bs5s_;
-  bs5s_  =  298876356;
+
   short int  OgLZ;
   OgLZ  =  -32309446;
  short int Cw9j_epz;
@@ -65,7 +65,7 @@ int main(void) {
   short  xGqbOBve;
   xGqbOBve  =  -268148717;
 	long	is5kLt0;
-	is5kLt0	=	1576885595;
+
  unsigned char j1edd4FUv_;
  j1edd4FUv_ = 1237385515;
  float tCgkw1O;
@@ -77,7 +77,7 @@ case 0:
 HPd88l = (int)abs(yD0TMd);
 break;
 case 1:
-KXWb4f6l = X8ZW__(Os8w1, awZ3_);
+
 break;
 case 2:
 bDH__ = (int)floor(d02uB);
@@ -92,7 +92,7 @@ case 5:
 S4bqnhF |= 1875367289;
 break;
 case 6:
-KXWb4f6l = X8ZW__(j1edd4FUv_, 489119206);
+
 break;
 }
 std::cout << D7ZFj << "UcZG4b82" << "ys3u3GTE9f" << "u_JYEQ8TL" << "JfRBcM5Z" << std::endl;
@@ -167,7 +167,7 @@ if (D7ZFj > vM7tF)
 }
 else if (MDG120 != 1595091746)
 {
-V854C54PBg = X8ZW__(HPd88l, yD0TMd) + 1523333144;
+
 }
 else if ((bmg6 & -1227112269) && ((vM7tF != 1785011632) && (HPd88l > S4bqnhF)))
 {
@@ -185,7 +185,7 @@ if (xGqbOBve < -1121036736)
 }
 else
 {
-j1edd4FUv_ = vM7tF << 2064104853;
+
 }
 
 {
@@ -198,7 +198,7 @@ std::cout << "uOG3OZ28" << std::endl;
 }
 
 
-bmg6 = Cw9j_epz | HPd88l;
+
 
 tCgkw1O = (int)ceil(bDH__);
 

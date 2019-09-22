@@ -14,7 +14,7 @@ int main(int argc, char** argv)
  long double pzB7;
 
 	unsigned long	uDiaX;
-	uDiaX	=	1016518904;
+
 	float	FVN45QZ2w;
 	FVN45QZ2w	=	1749122548;
 	unsigned char	ZraiXjh522;
@@ -30,7 +30,7 @@ int main(int argc, char** argv)
   long double  CN1W72Nsw;
   CN1W72Nsw  =  -411781557;
  unsigned int S7P1;
- S7P1 = 1785778527;
+
     unsigned long    i_1j67Y;
     i_1j67Y    =    -2128871886;
   unsigned short  AjTj__970;
@@ -52,7 +52,7 @@ int main(int argc, char** argv)
 	long double	z4_v;
 	z4_v	=	-1632140528;
 	unsigned long	o015;
-	o015	=	1646248340;
+
     unsigned short int    Lb6cBP_3;
 
  unsigned short Si7kKW_3_;
@@ -80,7 +80,7 @@ int main(int argc, char** argv)
     unsigned char    Jop5oi3;
     Jop5oi3    =    757525160;
  unsigned long long EVlM;
- EVlM = -142574646;
+
     unsigned short    us8Jn2pd3d;
 
   unsigned short  tA0Vguuy3X;
@@ -160,7 +160,7 @@ int main(int argc, char** argv)
   double  uPIr3YYk;
 
  unsigned int EEZlmDc;
- EEZlmDc = -688756104;
+
     short    N27w247q;
     N27w247q    =    2042732199;
   long  A7G6GE0;
@@ -277,7 +277,7 @@ if (aSD3_Aw9x != P6Lwp4H)
 }
 if ((i_1j67Y) && (NeB7b11mRl != 691248085))
 {
-EVlM = G_SO7 << G38_;
+
 }
 else if (N27w247q <= IzF1oiA9H)
 {
@@ -296,7 +296,7 @@ case 3:
 ty07x9 = (int)ceil(c6tr);
 break;
 case 4:
-Jop5oi3 <<= SjwE;
+
 break;
 case 5:
 
@@ -308,7 +308,7 @@ case 7:
 mW6SKkJz = (int)ceil(NfJ8T6W);
 break;
 case 8:
-uPIr3YYk = (int)floor(N929);
+
 break;
 }
 }
@@ -323,7 +323,7 @@ for (int i = 0; i < 8; ++i)
 {
 HhWO1 = P86mYeuof5 | i1qS;
 }
-uPIr3YYk = (int)ceil(ty07x9);
+
 if ((P6YySt4 < d4Ol) || ((LoOT != -856660180) || (FVN45QZ2w >= -368172260)))
 {
 std::cout << IzF1oiA9H << std::endl;
@@ -376,7 +376,7 @@ while (i < 6);
 }
 if ((-1199479371 / PVE8fs) != -483816383)
 {
-uPIr3YYk = mIU_0_x / hBIthI5d8r;
+
 }
 
 if ((CN1W72Nsw > -756854117) && (K4ZdaxhY & 1574610030))
@@ -414,7 +414,7 @@ mW6SKkJz -= z4_v;
 }
 deDK_ = (short int)(mW6SKkJz);
 
-i_1j67Y = (unsigned long)(R3F8);
+
 
 {
 int i = 0;
@@ -463,7 +463,7 @@ case 0:
 
 break;
 case 1:
-G_11UATcS &= Tl3Gc0xHC;
+
 break;
 case 2:
 P86mYeuof5 = deDK_ % jU9z1y_1;
@@ -478,7 +478,7 @@ case 5:
 K1if = (int)abs(R5u13jU);
 break;
 case 6:
-ty07x9 = (int)abs(e9i_pw);
+
 break;
 case 7:
 Tl3Gc0xHC = ZraiXjh522 << 1700765339;
@@ -523,7 +523,7 @@ if (((HhWO1 > -812463946) && (pH6E >= 1745595629)) || ((N27w247q > 2005862019) |
 {
 for (int j = 1; j >= 0; --j)
 {
-H4HEl = N27w247q << M3336F_0;
+
 }
 }
 

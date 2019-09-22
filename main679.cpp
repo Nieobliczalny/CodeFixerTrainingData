@@ -566,7 +566,7 @@ case 'a':
 
 break;
 case 'b':
-A0n8Lp7U = vbN_s & 892762207;
+
 break;
 case 'c':
 TPWduSg = tCBt();

@@ -239,7 +239,7 @@ if (P0XA56naz_ >= sqh9gdGe)
 }
 else
 {
-PGfrk7m = (int)abs(xacjwip0);
+
 }
 j--;
 }

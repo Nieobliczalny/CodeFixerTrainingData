@@ -164,7 +164,7 @@ if (x848 <= -1257022606)
 {
 if (n6vflh_i0U <= -844522781)
 {
-Z39Y = (int)floor(GbD11qV7wH);
+
 }
 else
 {
@@ -202,7 +202,7 @@ else if ((ebeA3hDK75 != 261216021) && (GX86IS_ >= -1643098343))
 }
 else if (PRq4T5A2 <= -2090521501)
 {
-P0Q133 = (int)floor(tf34gKGyI);
+
 }
 else if ((q7Vd1 == -357840723) || (m98gR & -696506155))
 {

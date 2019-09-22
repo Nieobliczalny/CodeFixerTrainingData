@@ -52,7 +52,7 @@ j++;
 }
 }
 }
-r53Dq = 1820485853 / b7cyJOW3W;
+
 
 if (((aTXE <= vY578t) && (xwN47rzf4a > AoXv)) || (rgVkl7g > ECEbf))
 {

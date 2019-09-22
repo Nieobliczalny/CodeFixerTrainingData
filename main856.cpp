@@ -32,7 +32,7 @@ try
 {
 if (J_T65 < Npm2d27)
 {
-UyUc97 = v3z14VfJz(-841691735, 166855786, -192396447, -519075321);
+
 }
 }
 catch (int& errorCode)
@@ -43,7 +43,7 @@ hRoWs = (kgiB <= L11oLf) ? D17NF89Mn : tpy92q;
 
 L_P7Vt = (char)(jV0Xj5);
 
-jDax6x49 = jOu_(-1673451668, 125819061, L_P7Vt);
+
 
 cout << tpy92q << "y7COHp8" << endl;
 

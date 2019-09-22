@@ -46,7 +46,7 @@ int main(void) {
     Y1G6tU2    =    1422472421;
     Z20Ezx_s    =    -1029893450;
     vJ_4    =    641915487;
-    Q6788w51    =    -30074925;
+
     OKmgL    =    1675364521;
     u_Ckf6wD    =    1697569883;
     Sdq_oX    =    1932169179;
@@ -80,7 +80,7 @@ int main(void) {
     F3scu2    =    1688561223;
     MQY6N5ih    =    -641183979;
     OHgz8v0NYn    =    -1240153163;
-    xm3OKf7ksR    =    -768517963;
+
     cxbq87b    =    507060300;
     N_3wu7_wR4    =    302519737;
     Bodk    =    441135110;
@@ -218,7 +218,7 @@ for (int j = 0; j < 2; j++)
 int k = 7;
 do
 {
-dr62jN = pXPjg_L1_p(1949298967, 1399559929, -1462378736, 515604049, Y1G6tU2);
+
 --k;
 }
 while (k >= 0);
@@ -262,7 +262,7 @@ case 'd':
 Fns6c = YgPKwJ0 & 1344931464;
 break;
 case 'e':
-dr62jN = OHgz8v0NYn ^ 1467039809;
+
 break;
 }
 }
@@ -491,7 +491,7 @@ std::cout << UK6w << pXPjg_L1_p(Y30YA, BIkrP8, -1463079136, R916EBW6, 535175566)
 }
 else
 {
-yWKfLIa &= f6QSm;
+
 }
 
 if (jT2fnE(76299302, 2135613293, 1285936840) == 0)
@@ -507,7 +507,7 @@ case 1:
 
 break;
 case 2:
-b26f9 = mtwOR - h_7yzra5QP;
+
 break;
 case 3:
 VfBzY4 = jT2fnE(1907559429, 1539567408, eJJxsf);
@@ -559,7 +559,7 @@ case 'c':
 YgPKwJ0 >>= 558122371;
 break;
 case 'd':
-fybvWPinX = (fC3xB == Zt2b4A5x8) ? -609724081 : Ylm50PH5q5;
+
 break;
 case 'e':
 vJ_4 = pXPjg_L1_p(vJ_4, F3scu2, -972912820, n8867AJ, F_gaKkD8nK);
@@ -578,7 +578,7 @@ u_Ckf6wD = pXPjg_L1_p(263128267, 951273750, 1905447785, rQ_A5_rE2, 1155194800);
 }
 else if ((eJJxsf > Zt2b4A5x8) && ((vs811BoBR != nrau5Y88ON) && (vTGN1n6469 == Zt2b4A5x8)))
 {
-EEc5m52E_ = pXPjg_L1_p(EEc5m52E_, 1259535708, Y1G6tU2, Y30YA, -1539240909);
+
 }
 else if ((HUP82H != Z_v3IB2P) || ((mtwOR < -2062564951) && (f6QSm >= Z_v3IB2P)))
 {
@@ -599,7 +599,7 @@ if (eG4iheJ7R)
 {
 try
 {
-n8867AJ = (unsigned long)(Zt2b4A5x8 + (-1447133263));
+
 }
 catch (int& errorCode)
 {
@@ -616,7 +616,7 @@ if (UK6w >= -1012513518)
 }
 else
 {
-UK6w = pXPjg_L1_p(UK6w, Bodk, bf57dZ73IQ, Pn0igGn8TK, -749415267);
+
 }
 }
 }
@@ -646,7 +646,7 @@ VfBzY4 = jT2fnE(dr62jN, 11644133, -2119710102);
 break;
 case 'e':
 case 'E':
-dr62jN = pXPjg_L1_p(56278111, bJJLz8, -522838903, PeKaI_5849, -690722676);
+
 break;
 case 'f':
 case 'F':
@@ -747,7 +747,7 @@ break;
 
 std::cout << u6g2M << "c3x8__d8e" << std::endl;
 
-Bodk = pXPjg_L1_p(-892408513, S3x0ldOl, u_Ckf6wD, -985269264, S015ilq);
+
 HUP82H ^= 107190329;
 
 return 0;

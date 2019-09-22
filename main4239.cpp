@@ -42,7 +42,7 @@ case 4:
 p61z7 |= Cbi4;
 break;
 case 5:
-TR1d_4_1s = Ylp7 * s_lpU;
+
 break;
 case 6:
 s_lpU = (int)abs(abzteEE);
@@ -289,7 +289,7 @@ case 'a':
 N19OYW3 = (int)abs(uH93Nn6);
 break;
 case 'b':
-QUj85 &= 1494421498;
+
 break;
 case 'c':
 Ylp7 <<= 270531355;
@@ -304,7 +304,7 @@ case 'f':
 X3eew = TR1d_4_1s | JJ93Q_W_Hl;
 break;
 case 'g':
-Z81M = (int)abs(K_49mfGrnS);
+
 break;
 default:
 X3eew /= 1581933799;
@@ -329,7 +329,7 @@ while (j >= 0);
 }
 }
 }
-K_49mfGrnS = (char)(JZu1V0D6e);
+
 
 QUj85 = N19OYW3 / mS9_x;
 

@@ -192,7 +192,7 @@ g_aT |= O3h4;
 switch (I4G18REF1)
 {
 case 'a':
-W63U = (int)ceil(zYj5);
+
 break;
 case 'b':
 W63U = (int)floor(zYj5);
@@ -217,7 +217,7 @@ case 'b':
 
 break;
 case 'c':
-I4G18REF1 = PH46 % 504694144;
+
 break;
 default:
 HF24A8 = ri18f9boFL / z26aiKRXnw;
@@ -247,7 +247,7 @@ case 0:
 Y7FGZN++;
 break;
 case 1:
-NxUN_r3Q = Iq02Z3(-1092721672, -531963805);
+
 break;
 case 2:
 W63U = sqm12qI ^ wRL7;
@@ -258,7 +258,7 @@ break;
 }
 LN39 &= 1332728315;
 
-z2a_35n = mOgERA();
+
 
 for (int i = 2; i >= 0; i--)
 {
@@ -288,7 +288,7 @@ case 1:
 
 break;
 case 2:
-WWxrPM = qA4Zw(qA6_);
+
 break;
 default:
 IkWy0LHb = qA4Zw(uVg6vxQy);

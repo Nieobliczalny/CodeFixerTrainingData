@@ -278,7 +278,7 @@ for (int j = 2; j >= 0; --j)
 }
 KlL1cu = (int)abs(p_Rcf305_E);
 
-fk9Bg7ipSJ = (unsigned short int)(nlg70 + (U342g1L3));
+
 if (hD80 < 1412861188)
 {
 std::cout << "g0w_ftEZ" << jrw_Nym(1812067395) << rYrpP_k << std::endl;
@@ -368,7 +368,7 @@ u64r2E31u = jrw_Nym(-1778459542);
 }
 else if ((LgV81hU < 961322616) && ((v7WG4Z85 < 1415778686) && (Fi3y96CIU != U342g1L3)))
 {
-q0Wbc = (int)abs(p5SG);
+
 }
 else
 {
@@ -397,7 +397,7 @@ case 3:
 JnAMy13 >>= p7tXjV;
 break;
 case 4:
-R9u9b >>= KlL1cu;
+
 break;
 case 5:
 
@@ -445,7 +445,7 @@ case 0:
 
 break;
 case 1:
-lOyj9SBT0 = jrw_Nym(466858861);
+
 break;
 case 2:
 wiT_ = (int)abs(a0Mwlsk2u);
@@ -523,7 +523,7 @@ else if ((KlL1cu != nlg70) || (Z_uvW1 <= 1020354768))
 }
 else if (Yrw61_Eu != W83zRk_ok)
 {
-y4r4Sj5 = (int)abs(wdax);
+
 }
 else if (h52rHV <= 324338124)
 {

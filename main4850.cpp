@@ -13,7 +13,7 @@ int main(int argc, char** argv)
 	mi_R	=	290137553;
 
 	BZG5R3	=	1507489119;
-	O3p47Oc	=	-1346913172;
+
 	rX469D1Hu	=	-1643227471;
 	VtNXYnXs8	=	40570691;
 	MCxJZBr8w	=	-1251690357;
@@ -47,7 +47,7 @@ int main(int argc, char** argv)
 	hw6U5k3oM	=	1938468547;
 	RjOs77sT	=	-645373757;
 	T8L_z	=	-240180415;
-	UEyI	=	161148582;
+
 	Vpy5Kp2	=	2069693303;
 	fSCy2	=	-1558559488;
 	mI32C6b	=	-1341194083;
@@ -99,7 +99,7 @@ else
 {
 if ((uQA3Yls == A88aU) || (V_a97D840))
 {
-X5_J3U = uIJL37E % T8L_z;
+
 }
 else if (BZG5R3 > -1877197447)
 {
@@ -127,7 +127,7 @@ if (J9Q3N < 833028756)
 switch (vX_w_4)
 {
 case 0:
-J9Q3N |= REK81MB;
+
 break;
 case 1:
 Q04IFX /= Nvay;
@@ -267,7 +267,7 @@ while (i < 10);
 }
 
 
-l5_m_1 = hyCpU56a / 1197289745;
+
 
 std::cout << fmI9GYz0 << "HApmB" << "a35by_ODs" << "QY9iy90d" << hw6U5k3oM << std::endl;
 std::cout << "uN66y" << aZL7K69_5 << F5zd << std::endl;
@@ -361,7 +361,7 @@ case 2:
 VtNXYnXs8 = Ep1WL & 2054670593;
 break;
 case 3:
-mrKD_80g |= aZL7K69_5;
+
 break;
 }
 
@@ -450,7 +450,7 @@ case 'h':
 Nvay = Ep1WL - 364037350;
 break;
 case 'i':
-RjOs77sT = JW21fP389 / Iql5w9Pp;
+
 break;
 case 'j':
 cLfn_08P ^= kUmxn6gYq;
@@ -501,7 +501,7 @@ else
 {
 for (int j = 0; j < 5; j++)
 {
-QFTBAyr6 = (int)abs(VTy32);
+
 }
 }
 

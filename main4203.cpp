@@ -93,7 +93,7 @@ int main()
  int n0Hk97qlAa;
  n0Hk97qlAa = -1849979744;
   char  p1bW2Fw9n;
-  p1bW2Fw9n  =  -1603773065;
+
  double Wck49QZ_g3;
  Wck49QZ_g3 = -544490169;
 	unsigned long long	s3mn6myQgj;
@@ -103,7 +103,7 @@ int main()
  float Ft8a_6;
  Ft8a_6 = 1524875540;
  double mu9yQnLg;
- mu9yQnLg = 1583013081;
+
   unsigned char  d4y9oA5;
   d4y9oA5  =  1020970184;
 	unsigned int	s_6_d13;
@@ -349,7 +349,7 @@ while (i >= 0);
 switch (T3DqwrKBC5)
 {
 case 'a':
-aMD_j4n1 = mo029SS + GYd71Uqow;
+
 break;
 case 'b':
 fu94rb = pcTXjf_51 - VzES9Ek;
@@ -420,7 +420,7 @@ else if (B0f_ > 935218521)
 {
 if (fu94rb == 535823539)
 {
-B0f_ = hLZV9L();
+
 }
 }
 else if (R7AH4U0L < C48k)
@@ -441,7 +441,7 @@ else
 {
 for (int j = 0; j < 9; ++j)
 {
-dHK3 = (unsigned char)(udC2Gg);
+
 }
 }
 try
@@ -455,7 +455,7 @@ case 1:
 
 break;
 case 2:
-muEp1f = (int)ceil(Wck49QZ_g3);
+
 break;
 case 3:
 B0f_ = hLZV9L();

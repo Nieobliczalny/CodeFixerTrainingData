@@ -264,7 +264,7 @@ E9PXwdqr = (int)floor(wLIu);
 }
 DOd2Ld8e = (int)abs(wLIu);
 
-vs3n8ma_y = (int)abs(S5e6O2g);
+
 KUH2 |= 1783986122;
 
 if (Z69yg249a >= Ig58)
@@ -419,7 +419,7 @@ S5e6O2g = YUBIM_y2p() / YUBIM_y2p();
 switch (d2RJd)
 {
 case 0:
-Ig58 = (int)abs(G80_6jcT);
+
 break;
 case 1:
 H6nLCy = YUBIM_y2p();

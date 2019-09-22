@@ -413,7 +413,7 @@ ydyjU9 = kOO4kYY();
 break;
 case 'e':
 case 'E':
-uhX1D = (int)floor(Ypdi);
+
 break;
 case 'f':
 case 'F':

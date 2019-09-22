@@ -36,7 +36,7 @@ short    e9auj2(int    eJ0tuedU8,unsigned long    u910bVM7)
 
 int main(int argc, char** argv) {
 	double	VsIf1QEmlX;
-	VsIf1QEmlX	=	-664740811;
+
   float  i1zZ;
   i1zZ  =  1278883175;
   long long  xBPI2t2r4j;
@@ -56,7 +56,7 @@ int main(int argc, char** argv) {
     unsigned long long    B7o9q3Fs;
 
   unsigned char  Dd_8Jn2;
-  Dd_8Jn2  =  1763698071;
+
  unsigned long long GD678BJ9;
  GD678BJ9 = 0;
   unsigned long long  KdEea8Y_3h;
@@ -90,7 +90,7 @@ int main(int argc, char** argv) {
   unsigned long  tnsw;
 
 	short int	bGHK;
-	bGHK	=	1321302193;
+
  unsigned int x8vFu5wR;
  x8vFu5wR = -393534267;
  long fJOx;
@@ -112,7 +112,7 @@ int main(int argc, char** argv) {
   unsigned long  MkQ82pxV2;
   MkQ82pxV2  =  -2141472842;
     unsigned long long    ncV2L;
-    ncV2L    =    0;
+
     unsigned char    a9kQcBa961;
 
 	unsigned short	j4cFx;
@@ -126,7 +126,7 @@ int main(int argc, char** argv) {
     unsigned short    bR2v98;
 
  unsigned char ohUunp;
- ohUunp = -1791538307;
+
 	long	Q4_6lQg;
 	Q4_6lQg	=	1562166184;
 	long double	Vi_e_ttjL;
@@ -172,7 +172,7 @@ int main(int argc, char** argv) {
   short  k2F5;
   k2F5  =  -517483389;
 	double	T6_X2uzhe;
-	T6_X2uzhe	=	-771154338;
+
  long fJVv;
  fJVv = 1818744850;
 	unsigned short	YP0rtRi3K;
@@ -189,7 +189,7 @@ case 'b':
 K00q ^= 2090552421;
 break;
 case 'c':
-KdEea8Y_3h &= 1852024364;
+
 break;
 case 'd':
 H69mNmNDl = xBPI2t2r4j / H69mNmNDl;
@@ -203,7 +203,7 @@ switch (S72SOUT)
 {
 case 'a':
 case 'A':
-B2cYR6uj = o3_P522 % MkQ82pxV2;
+
 break;
 case 'b':
 case 'B':
@@ -223,7 +223,7 @@ YM5kq5 = (int)abs(UMRxoJF);
 break;
 case 'f':
 case 'F':
-ncV2L = z9Kb84(-394415050);
+
 break;
 case 'g':
 case 'G':
@@ -462,7 +462,7 @@ int k = 2;
 do
 {
 k--;
-Vi_e_ttjL = (int)abs(k2F5);
+
 }
 while (k >= 0);
 }
@@ -552,7 +552,7 @@ Ss9y0FSV = o3_P522 | 1269963323;
 
 if (fJOx != -1150014155)
 {
-MkQ82pxV2 = V36zc(MkQ82pxV2);
+
 }
 else if (Wxa1J270 & 1982542216)
 {
@@ -585,7 +585,7 @@ if (yD1bjC <= 158867829)
 
 }
 }
-K00q = (short int)(NcSXhQttR);
+
 
 {
 int i = 0;
@@ -601,7 +601,7 @@ for (int j = 0; j < 9; j++)
 {
 if (ncV2L >= 125170998)
 {
-KdEea8Y_3h = GdeX_();
+
 }
 else
 {

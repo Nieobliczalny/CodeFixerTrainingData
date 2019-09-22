@@ -348,7 +348,7 @@ break;
 
 if ((qFY1 > qzl5I97) || ((IDBpRZeC >= 1496997744) || (V6a13sMOP > d_9c)))
 {
-d_9c %= lw_53_Oq6C;
+
 }
 else if (rm6Y_7 != -1310164447)
 {

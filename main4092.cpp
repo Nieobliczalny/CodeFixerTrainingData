@@ -28,7 +28,7 @@ int main() {
 	int	OX0q6;
 	OX0q6	=	-201234662;
     unsigned short int    i98qQ_iW_;
-    i98qQ_iW_    =    0;
+
     long    mgME3rm;
     mgME3rm    =    -2045478827;
   short  EL30ZWNuv;
@@ -70,7 +70,7 @@ int main() {
 	unsigned short	fvO1;
 	fvO1	=	1958268264;
   unsigned int  M0LM6t_K;
-  M0LM6t_K  =  1376080167;
+
     unsigned long long    Z4wUn64;
     Z4wUn64    =    853350781;
   int  B6O_;
@@ -88,7 +88,7 @@ int main() {
     long    u2CuhL;
 
 	unsigned int	Two9;
-	Two9	=	-1451644228;
+
  long u8M_B4a7o6;
  u8M_B4a7o6 = 1773294403;
   double  ZNdNIYm1_O;
@@ -104,7 +104,7 @@ int main() {
 	long double	js7bNHyK3;
 	js7bNHyK3	=	1114319493;
 	char	JgRI;
-	JgRI	=	-833578057;
+
 	char	d86ui;
 	d86ui	=	1567595862;
   short int  A1X_0O2;
@@ -116,7 +116,7 @@ int main() {
  long X2zaRT;
  X2zaRT = 1369565446;
  unsigned short int wbCuyp;
- wbCuyp = -294929433;
+
 	short	sNQRSE;
 	sNQRSE	=	-1598144436;
 	unsigned long	O_GQg7S9;
@@ -126,7 +126,7 @@ int main() {
   float  tC9uaP9BCQ;
   tC9uaP9BCQ  =  -2128821564;
 	long	zt4tt58;
-	zt4tt58	=	30245325;
+
   long  LMh_;
   LMh_  =  667563238;
     float    U7KT2_9T;
@@ -354,7 +354,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-mgME3rm = fvO1 * S8rt74WS;
+
 break;
 case 'g':
 case 'G':
@@ -366,7 +366,7 @@ case 'H':
 break;
 case 'i':
 case 'I':
-i98qQ_iW_ = D5HqA(989784667, 1950649387, -830298287, -163965914);
+
 break;
 default:
 oX350QM8 = (int)floor(JD9di9AVu6);
@@ -415,7 +415,7 @@ else if (T8S4Dx9 >= 1534878271)
 {
 try
 {
-W9PEHCI2j = PSV_();
+
 }
 catch (int& errorCode)
 {

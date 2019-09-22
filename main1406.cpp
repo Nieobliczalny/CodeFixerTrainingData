@@ -209,7 +209,7 @@ int j = 4;
 while (j >= 0)
 {
 j--;
-k71312 = OL_4z3();
+
 }
 }
 }
@@ -246,7 +246,7 @@ case 0:
 DMaM4 = D_fZ(DMaM4, 901574290, r2JbophG, xTm1, Owvs3zCB);
 break;
 case 1:
-Du3N -= t578tdjH2C;
+
 break;
 case 2:
 r2JbophG = (int)ceil(Du3N);
@@ -264,7 +264,7 @@ case 6:
 
 break;
 case 7:
-Du3N = (int)ceil(SlB2cV);
+
 break;
 case 8:
 cde4SV = (int)abs(dj5FYzqIr);

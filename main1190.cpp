@@ -136,7 +136,7 @@ catch (int& errorCode)
 ycnk2 = whu8Qdn_z + 543120746;
 }
 
-U3_9X = NUnc79w_77 >> 1180851630;
+
 if (K1qC != -489367056)
 {
 try
@@ -252,7 +252,7 @@ do
 switch (i_PGGIq0)
 {
 case 0:
-b_FJ = hH7w4Y_B6 - i_PGGIq0;
+
 break;
 case 1:
 
@@ -299,7 +299,7 @@ j2k6_XA0 = sFpaa ^ E29V0hcFF8;
 }
 else if (cs_U != 1677707060)
 {
-hNiS = j2k6_XA0 / g6BC;
+
 }
 else
 {

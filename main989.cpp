@@ -31,7 +31,7 @@ int main(int argc, char** argv) {
 	unsigned long long	r773c;
 
  char aIEKa33d_;
- aIEKa33d_ = -1167584376;
+
 	int	PjL15;
 	PjL15	=	274115003;
  unsigned short int PRVIK5LGAb;
@@ -45,7 +45,7 @@ int main(int argc, char** argv) {
   unsigned char  fxki91xcO;
   fxki91xcO  =  -1350652861;
 	unsigned char	ReXMz6;
-	ReXMz6	=	738289722;
+
 	char	ro_rCHA5FR;
 	ro_rCHA5FR	=	-2025353119;
 	long	W_aH47lTAI;
@@ -57,7 +57,7 @@ int main(int argc, char** argv) {
     short int    l06Hfy_z6d;
     l06Hfy_z6d    =    -2028165071;
   long long  U0HKo;
-  U0HKo  =  1688047806;
+
  int R_ZWn;
  R_ZWn = 0;
     double    C_01W_;
@@ -67,7 +67,7 @@ int main(int argc, char** argv) {
   long  yP7p_ynVnR;
 
     unsigned char    LU35c1O81G;
-    LU35c1O81G    =    1102553328;
+
  unsigned long long KKR76Ad0Q;
  KKR76Ad0Q = 190475654;
  int E33OgII_x;
@@ -90,7 +90,7 @@ while (i >= 0)
 switch (Xawix0238J)
 {
 case 0:
-C_01W_ = (int)floor(qW8B2p_AQ);
+
 break;
 case 1:
 p9_MN7 = lElfEpY_(p9_MN7, F9a29uB2a7);
@@ -114,7 +114,7 @@ case 7:
 
 break;
 case 8:
-C_01W_ = (int)floor(V9h8);
+
 break;
 }
 i--;

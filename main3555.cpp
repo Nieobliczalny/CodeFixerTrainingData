@@ -27,7 +27,7 @@ int main(int argc, char** argv)
  float HuxmbA, OR526LEsT7, BGr7, PoqoIe, j9nIDP, LS3w, yl1e598fT0, Mzt0d, qym8VTPjSk, IdW_8, wr5CAI1b, q0IdqG_oSQ, Stm34X, Vs1EY, bx1AKC3E3b, uKUOR2, eM500, FZozXx, AVsx_0ecx, Jwaz_5hHj, hU3zdB, O2a99, H991ey2U, JLkM24, i9_It2, h_b_8tH7S, EXJ0YO56, kizW0nCa, gSaTyrxOA, jmNv8Ny, MX_nv, solUnQc, Ws1lUOItT, ufenDb5c0, z2tBz, rSfs, iG0_, a6GBp, yN4aMj9, y2_qoM, NKd8_Md1O, qP11, ytWGOS6l1S, NFtI, ZA3Sny3Eva, N_q04V82, j_0oX, IZYy6e0, qiKdT89, JOP9N, EDRIeC5C, flC_QHg5, TDU5VYw1, of_8ocSfk1, WG8vL_GlLq, V_po89Pk2H, wWVa1ph2ds, awXK, j59m, aln16B, P78YaTE, HRy_0XN;
  HuxmbA = -1738068765;
 
- BGr7 = 1690750646;
+
  PoqoIe = -1519614646;
  j9nIDP = 1044031180;
  LS3w = 505594085;
@@ -39,7 +39,7 @@ int main(int argc, char** argv)
  q0IdqG_oSQ = -353851635;
 
  Vs1EY = -1177923525;
- bx1AKC3E3b = -685404838;
+
  uKUOR2 = -967527336;
  eM500 = -295033245;
  FZozXx = -819966789;
@@ -50,7 +50,7 @@ int main(int argc, char** argv)
  H991ey2U = -554957310;
  JLkM24 = 1717946427;
 
- h_b_8tH7S = 1618861811;
+
  EXJ0YO56 = 1897769024;
  kizW0nCa = -896107870;
  gSaTyrxOA = -138650419;
@@ -60,7 +60,7 @@ int main(int argc, char** argv)
  Ws1lUOItT = 164376205;
  ufenDb5c0 = -1568979511;
 
- rSfs = 675309757;
+
  iG0_ = 330978433;
  a6GBp = 1617126448;
  yN4aMj9 = 1719861068;
@@ -70,7 +70,7 @@ int main(int argc, char** argv)
  ytWGOS6l1S = -2023502170;
  NFtI = 1244469901;
 
- N_q04V82 = 734590838;
+
  j_0oX = -1256371982;
  IZYy6e0 = 191769392;
  qiKdT89 = -1526527362;
@@ -80,7 +80,7 @@ int main(int argc, char** argv)
  TDU5VYw1 = -1613314457;
  of_8ocSfk1 = -374448578;
 
- V_po89Pk2H = 942809126;
+
  wWVa1ph2ds = 1117767846;
  awXK = -407724406;
  j59m = -1239385740;
@@ -121,7 +121,7 @@ for (int j = 7; j >= 0; --j)
 {
 if (H991ey2U <= -766920890)
 {
-JLkM24 = weMN_y();
+
 }
 else if (uKUOR2 >= 910884019)
 {
@@ -152,7 +152,7 @@ FZozXx = (int)floor(EXJ0YO56);
 cout << HuxmbA << endl;
 if (iRxbY2e_(-2106376762) == 0)
 {
-	P78YaTE = 343598827 / iRxbY2e_(-2106376762);
+
 }
 
 cout << "skS5F8Ry" << weMN_y() << endl;
@@ -186,7 +186,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-ZA3Sny3Eva = (int)floor(q0IdqG_oSQ);
+
 break;
 case 'c':
 case 'C':

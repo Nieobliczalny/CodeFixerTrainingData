@@ -622,7 +622,7 @@ case 2:
 
 break;
 case 3:
-bN_3V += c6L5;
+
 break;
 case 4:
 w46ANB = US9DwvdN();
@@ -645,7 +645,7 @@ if (w46ANB >= o__G)
 }
 else if ((T_1VAUf3a9 >= kE9T_TlR) || (T_1VAUf3a9 < 73981543))
 {
-I7_M_534n_ = (int)abs(w46ANB);
+
 }
 else if ((T_1VAUf3a9 == o__G) || (T_1VAUf3a9))
 {
@@ -661,7 +661,7 @@ T_1VAUf3a9 = US9DwvdN();
 }
 else
 {
-mr53iN_02 = US9DwvdN();
+
 }
 }
 else

@@ -390,7 +390,7 @@ case 'a':
 b_7a = gIky9IU2M(1483285083, b_7a, f4yNqgq, l_yUGyDn_C);
 break;
 case 'b':
-e173 = hgHGf4_oK - 1244844008;
+
 break;
 case 'c':
 WiH2vE8nZU = (int)abs(BJmRn1K3);
@@ -444,7 +444,7 @@ while (i < 1)
 }
 }
 std::cout << e32H9TfLf << gIky9IU2M(-1162886329, Q99S7d4E_, I11v6e8, KY9RJ929A) << gIky9IU2M(e32H9TfLf, Q99S7d4E_, I11v6e8, KY9RJ929A) << gIky9IU2M(e32H9TfLf, 1151338385, -99855779, -1500655493) << std::endl;
-H5P561 &= 1665324042;
+
 for (int i = 6; i >= 0; --i)
 {
 if (I11v6e8 >= -1389232055)
@@ -563,7 +563,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-l_yUGyDn_C = (int)ceil(f4yNqgq);
+
 break;
 case 'd':
 case 'D':
@@ -606,7 +606,7 @@ case 0:
 
 break;
 case 1:
-PwL6ODX_ = (int)ceil(PVU_76K);
+
 break;
 case 2:
 lVU9 >>= 1020680600;

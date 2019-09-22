@@ -16,7 +16,7 @@ int main(int argc, char** argv)
   long double  R5M9o51;
   R5M9o51  =  -365351470;
  char ew454g;
- ew454g = 694289159;
+
  int G2_5kTk287;
 
     float    L163;
@@ -26,7 +26,7 @@ int main(int argc, char** argv)
  unsigned short OM_3f;
  OM_3f = 398238058;
     unsigned char    sqgtqrvJ;
-    sqgtqrvJ    =    0;
+
   int  BlGNL64;
   BlGNL64  =  83297132;
     int    Ljq034b;
@@ -40,7 +40,7 @@ int main(int argc, char** argv)
  float tA74;
  tA74 = -388540592;
 	long double	L1T_;
-	L1T_	=	-550746305;
+
     unsigned short    XsRAi52orD;
 
     long long    Hks4;
@@ -56,7 +56,7 @@ int main(int argc, char** argv)
  unsigned char ZXN9_jKw;
 
     float    ut6h;
-    ut6h    =    -841373858;
+
  unsigned short int CHEolbgd;
  CHEolbgd = -1701419064;
     long long    J0miLHz8j7;
@@ -70,7 +70,7 @@ int main(int argc, char** argv)
     float    gefpQH1dRj;
     gefpQH1dRj    =    990557934;
   long long  Rj508_C;
-  Rj508_C  =  432206428;
+
  unsigned char lT3K;
  lT3K = 2117419884;
     short    jmn1;
@@ -157,7 +157,7 @@ nfYeV5Cg = Hks4 ^ 383197925;
 break;
 case 'c':
 case 'C':
-CHEolbgd = ZW3SuPLA_Z(CHEolbgd, -1660113024, 1593515831);
+
 break;
 case 'd':
 case 'D':
@@ -169,7 +169,7 @@ ut6h = Se6YK4fJ76 | B4qI;
 break;
 case 'f':
 case 'F':
-ut6h = (int)abs(Rz2f);
+
 break;
 case 'g':
 case 'G':
@@ -188,7 +188,7 @@ case 'J':
 
 break;
 default:
-ZXN9_jKw = KdEQ4rcUH5 | 1861009830;
+
 break;
 }
 }
@@ -200,7 +200,7 @@ jmn1 = (int)abs(GJ6kga) * 0;
 }
 else
 {
-L163 = (int)ceil(aX11_FX7z);
+
 }
 }
 else if ((GJ6kga & Ljq034b) && (CAfHW676 == -765766379))
@@ -221,7 +221,7 @@ switch (KdEQ4rcUH5)
 {
 case 'a':
 case 'A':
-L163 = (int)floor(gefpQH1dRj);
+
 break;
 default:
 jmn1 = KoEj(-161395254, 571973836, -1201244426);
@@ -252,7 +252,7 @@ case 3:
 qNV7MS = KoEj(1108129770, kAca1, J0miLHz8j7);
 break;
 case 4:
-G2_5kTk287 = (int)abs(R5M9o51);
+
 break;
 default:
 jmn1 = KoEj(gefpQH1dRj, bl4964BfX, VM4tQ);
@@ -273,7 +273,7 @@ k--;
 }
 else
 {
-tCoJvwL3T = (unsigned long)(Hks4);
+
 }
 G2_5kTk287 = -414931511 / qNV7MS;
 if (((CAfHW676 < 1731405247) && (nfYeV5Cg < -1935963842)) && ((FUy6) && (OM_3f >= -1932227818)))
@@ -308,7 +308,7 @@ int k = 4;
 while (k >= 0)
 {
 --k;
-Hks4 = tA74 / up6zq445Q7;
+
 }
 }
 }

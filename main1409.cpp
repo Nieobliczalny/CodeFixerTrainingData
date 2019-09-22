@@ -155,7 +155,7 @@ else if (xjpf & kAKe)
 {
 if (j_Yy9H <= v3Gd9ogFw6)
 {
-wXIus64ni0 = KRJjD(-402560104, mi7Ma) / PN9b_B;
+
 }
 else
 {
@@ -284,7 +284,7 @@ catch (int& errorCode)
 KOX85 /= 236751268;
 }
 
-KYfD9 = (unsigned char)(kAKe);
+
 v_mKP4Y4m = (int)abs(KbWe);
 
 switch (i9y4)
@@ -356,7 +356,7 @@ if (io1nwF == ET7CqYY8)
 {
 if (KOX85 > go1xc)
 {
-VN8Z /= vs_b32i1bC;
+
 }
 else if (rkgVscH6 <= 1112637559)
 {
@@ -378,7 +378,7 @@ else
 
 }
 }
-t5e7Wn >>= 2039014851;
+
 
 cout << "hEM0L_XO" << "PeR3" << "QsDaPOM" << endl;
 
@@ -392,7 +392,7 @@ case 'a':
 
 break;
 case 'b':
-xjpf ^= PN9b_B;
+
 break;
 case 'c':
 H0RU = Izomq394(H0RU, QDAITdk7d6);
@@ -404,7 +404,7 @@ case 'e':
 
 break;
 case 'f':
-Wrf0J = N15bx007_ / rkgVscH6;
+
 break;
 case 'g':
 teLUkW_ += v_mKP4Y4m;
@@ -432,7 +432,7 @@ else if (yh8T0vkS != rYFk3)
 }
 else if (Rk9nGsIdw)
 {
-QDAITdk7d6 = hQ3h3 % 1930901454;
+
 }
 else
 {
@@ -442,7 +442,7 @@ case 0:
 
 break;
 case 1:
-KbWe = (int)abs(v_mKP4Y4m);
+
 break;
 case 2:
 WY0d_EO = LG55(WY0d_EO, -1619792328, v_mKP4Y4m);
@@ -477,7 +477,7 @@ else if (QV3seNv != kAKe)
 }
 else if ((S615 >= -1078843267) && (gcz7P != ZGjd8T))
 {
-scxMyU = KRJjD(v_mKP4Y4m, 1227821231);
+
 }
 else if (PvP2t)
 {

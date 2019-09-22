@@ -231,7 +231,7 @@ E19cZ7_zS6 = (long)(O3H1g_4D + (-1311393386));
 switch (PR4aB1fd)
 {
 case 'a':
-T626 = K0_Qg();
+
 break;
 case 'b':
 W9dN1 = Wv091(1383487494, -1724957060, kZ80);
@@ -246,7 +246,7 @@ case 'e':
 q88Bf1X3rz /= 435526690;
 break;
 default:
-kZ80 = (int)abs(w7qq93s1) + (-174964293);
+
 break;
 }
 if (((K3RlL3LO) && (aE9iEHhU0A < vJ8qp1wz)) && (E19cZ7_zS6 > ygQoIjh4))
@@ -267,7 +267,7 @@ case 1:
 
 break;
 case 2:
-W9dN1 %= K3RlL3LO;
+
 break;
 case 3:
 q88Bf1X3rz = (int)floor(ctZLRE);

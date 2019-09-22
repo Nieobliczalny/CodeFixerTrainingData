@@ -43,7 +43,7 @@ int main()
 
 
 
-O6Bce = (float)(Z8d_Fh);
+
 
 switch (vh4q59B)
 {
@@ -54,7 +54,7 @@ case 1:
 
 break;
 case 2:
-A6Zi3jtj56 += 214382830;
+
 break;
 case 3:
 TFL2Obyf += sJy81;
@@ -71,7 +71,7 @@ for (int i = 0; i < 1; ++i)
 std::cout << "mcbQ9" << std::endl;
 }
 
-Fe95DO %= fbb_7;
+
 if ((436366321 / Ca1xW7t60X) > -1266811942)
 {
 

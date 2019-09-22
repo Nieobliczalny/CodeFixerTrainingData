@@ -123,7 +123,7 @@ l_Dz221_ = p_wt_RJ ^ 1415607632;
 break;
 case 'b':
 case 'B':
-R98lU9V += 1654513511;
+
 break;
 case 'c':
 case 'C':
@@ -258,7 +258,7 @@ if (dSkF0t & XgVs)
 
 try
 {
-pHpF_9 %= QE8I;
+
 }
 catch (int& errorCode)
 {
@@ -293,7 +293,7 @@ std::cout << AOS8T_ << D_Ge9Q << std::endl;
 }
 bfQ4K = (short)(XgVs);
 
-g_pS >>= 676221748;
+
 try
 {
 if ((AOS8T_ < PgR_X) || (vjm7l6_6w < AOS8T_))
@@ -304,7 +304,7 @@ l_Dz221_ %= 1631589636;
 }
 else if (n__c75 & fB2Xo)
 {
-G__87g42o = E4h7 & 1405720369;
+
 }
 else
 {
@@ -315,7 +315,7 @@ else
 {
 if ((YB58_2Qa == n__c75) || ((my24JE > wKahs2kq4L) && (ifipn2 <= fB2Xo)))
 {
-R98lU9V = q0bNF0 * 579722555;
+
 }
 }
 }
@@ -362,7 +362,7 @@ while (i < 5);
 
 D59fiz_a <<= oK74qBDj1_;
 
-D_Ge9Q = (short)(hsJx14l25);
+
 try
 {
 if (Btn1 & n3S9bQnI)
@@ -415,7 +415,7 @@ MNr4Vh6W--;
 }
 else
 {
-pHpF_9 = MNr4Vh6W >> 1320690023;
+
 }
 }
 else
@@ -441,7 +441,7 @@ case 3:
 j5J_9 %= 171242382;
 break;
 case 4:
-p_wt_RJ = (c9W23dMv88 >= 1589098885) ? oK74qBDj1_ : oK74qBDj1_;
+
 break;
 case 5:
 D59fiz_a++;

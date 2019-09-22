@@ -37,7 +37,7 @@ int main(int argc, char** argv) {
     unsigned long    QJIY;
     QJIY    =    1418856071;
  short int i81L3CF_i4;
- i81L3CF_i4 = 2093295200;
+
     float    M9pT685;
 
 	short int	D3bn_;
@@ -47,7 +47,7 @@ int main(int argc, char** argv) {
   unsigned char  Mm983;
   Mm983  =  -613385172;
   short int  lAjt09B0N;
-  lAjt09B0N  =  -1433009734;
+
 	short	xTd7;
 	xTd7	=	2060579281;
     unsigned char    tDJU;
@@ -133,7 +133,7 @@ case 2:
 
 break;
 case 3:
-lAjt09B0N %= 2117433840;
+
 break;
 case 4:
 A0eUVt12ci = ZXOD1 + 572077399;

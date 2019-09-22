@@ -449,7 +449,7 @@ while (k >= 0);
 }
 else if ((lFJvm1Sd < 1967880712) && (lFJvm1Sd > -974484580))
 {
-O31QV = R02y(-690190617, NPc32Lqh, -328677321, 122986203);
+
 }
 else if (WNtJ != lFJvm1Sd)
 {
@@ -484,7 +484,7 @@ case 1:
 
 break;
 case 2:
-O31QV = R02y(gvdN1D92G, eqc1BX8, O4Tp3Am58, jPQT);
+
 break;
 case 3:
 EyI55F46vL ^= 554999084;

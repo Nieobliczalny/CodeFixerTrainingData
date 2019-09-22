@@ -161,7 +161,7 @@ switch (dtnG_gq)
 {
 case 'a':
 case 'A':
-S3L8bz8 = EdZ5H(-168198726, 1167287141, V5P_QuUBMZ);
+
 break;
 case 'b':
 case 'B':
@@ -267,7 +267,7 @@ if (dtnG_gq != 651605081)
 }
 else
 {
-Y49V9 = (int)floor(KR5hhwQ);
+
 }
 }
 }
@@ -396,7 +396,7 @@ switch (Xr2_d)
 {
 case 'a':
 case 'A':
-j9_MN = (int)floor(c_oKq19);
+
 break;
 case 'b':
 case 'B':
@@ -425,7 +425,7 @@ for (int i = 0; i < 1; i++)
 {
 Y49V9 = (int)floor(DeyMoZ);
 }
-o7X8sD7D += 14152224;
+
 if ((ufKvB) || ((a5kEkm >= -923011133) || (sv6H9sMh != 1322403597)))
 {
 if (l8t87BY & 14942525)
@@ -447,7 +447,7 @@ if (y91foA0r8s & 615621652)
 }
 else
 {
-o7X8sD7D = JXFTuSEnK + 1522678842;
+
 }
 }
 else
@@ -495,7 +495,7 @@ case 1:
 
 break;
 case 2:
-ZvTIDG21 *= Xr2_d;
+
 break;
 case 3:
 Qrh3EG = NA2F8J(-519703021, 29727968, Y_0l_jNV, I4dGMlKo);
@@ -513,7 +513,7 @@ case 7:
 lmRN4sd4D = NA2F8J(-1548825782, 466322502, BU5x, 670169290);
 break;
 case 8:
-eUHruz9I_g = (int)abs(ki8f0_7x);
+
 break;
 case 9:
 c_oKq19 = (int)ceil(v8Y6f);
@@ -535,7 +535,7 @@ try
 switch (NJ6WD5Ong4)
 {
 case 0:
-j9_MN = (int)ceil(JXv9md0);
+
 break;
 case 1:
 
@@ -553,7 +553,7 @@ case 5:
 
 break;
 case 6:
-Ne_j /= ki8f0_7x;
+
 break;
 case 7:
 lmRN4sd4D = NA2F8J(-398822697, -1742301560, U80e, 117834667);
@@ -580,7 +580,7 @@ case 'a':
 
 break;
 case 'b':
-c_oKq19 = (int)ceil(ufKvB);
+
 break;
 case 'c':
 sv6H9sMh = dtnG_gq % 904835198;
@@ -592,7 +592,7 @@ case 'e':
 
 break;
 default:
-yF22iwj = (int)ceil(D7Tidj4Js);
+
 break;
 }
 }
@@ -616,7 +616,7 @@ if (l8t87BY > I32VEZ24)
 }
 else if (g57_A6U97z > -240827570)
 {
-JXv9md0 = (double)(mMTG2xj);
+
 }
 else if (((G4dj != -1797715476) && (ltctSUD)) && (Y49V9 != cfP4))
 {
@@ -632,7 +632,7 @@ else if (D7Tidj4Js == -44341268)
 {
 if (((Of6Tw >= 327809287) || (i7FjWLHq_)) || (c_oKq19 <= Fmu0t6u))
 {
-N13_L = Iw83R1iWZ(N13_L);
+
 }
 else
 {
@@ -656,7 +656,7 @@ else if (T3hcu == -543536459)
 }
 else if (KR5hhwQ < M8Sd1K1S7m)
 {
-cfP4 = EdZ5H(1169039172, 2119972925, 979851809);
+
 }
 else
 {
@@ -669,7 +669,7 @@ else if (Of6Tw < -463977320)
 }
 else
 {
-O42u7_9uP = (int)ceil(JXv9md0);
+
 }
 
 KR5hhwQ = (int)ceil(D7Tidj4Js);

@@ -38,7 +38,7 @@ int main(int argc, char** argv)
     long    e_96Q;
 
  unsigned int N3xg0Kt5;
- N3xg0Kt5 = 655366700;
+
     long long    YVh8S;
     YVh8S    =    -1989992380;
  unsigned long AkB49DOu2;
@@ -62,7 +62,7 @@ int main(int argc, char** argv)
  unsigned int R_8jhXzZS8;
  R_8jhXzZS8 = -1406466861;
 	short int	rG_38p;
-	rG_38p	=	1064725780;
+
   long  E5OgOCwXL;
   E5OgOCwXL  =  620755508;
     unsigned short    u1wdR;
@@ -136,7 +136,7 @@ else
 {
 try
 {
-VtK2CTM = l4B_pg16();
+
 }
 catch (int& errorCode)
 {
@@ -188,7 +188,7 @@ if (E5OgOCwXL == 459406121)
 }
 else if (evkp8yi5zu & Mvtgq)
 {
-b_Kx5wUumV = (int)floor(Su5pYQDew);
+
 }
 else if (R_8jhXzZS8 & rk86Lj)
 {
@@ -200,7 +200,7 @@ else if (IC02WqB != -1689804822)
 }
 else if (b_Kx5wUumV < -1953756580)
 {
-VtK2CTM *= 1967199224;
+
 }
 else
 {
@@ -211,7 +211,7 @@ Dz81YE02Zi |= 1472450317;
 
 
 
-Q13YP = (unsigned long)(YVh8S * Q13YP);
+
 
 {
 int i = 4;
@@ -236,7 +236,7 @@ k--;
 }
 while (i >= 0);
 }
-e_96Q = (int)abs(Su5pYQDew);
+
 
 Dz81YE02Zi = W31JKA(IC02WqB, -1344773209) + 1906752768;
 return 0;

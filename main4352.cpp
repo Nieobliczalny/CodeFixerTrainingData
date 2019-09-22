@@ -27,7 +27,7 @@ int main(int argc, char** argv)
   long  E2IDUOy8;
   E2IDUOy8  =  -591586515;
     short    bF1uz2QKcO;
-    bF1uz2QKcO    =    606616512;
+
  unsigned char YEwnG1cc;
  YEwnG1cc = -804274082;
     unsigned short    A09q;
@@ -463,7 +463,7 @@ case 'H':
 break;
 case 'i':
 case 'I':
-s4FR29T = (int)abs(d3b_NCI3) * 0;
+
 break;
 case 'j':
 case 'J':
@@ -567,7 +567,7 @@ if (biqmCM)
 }
 else if (pBx9Vg9e85 == -1026209254)
 {
-Tc0rg2qE /= A09q;
+
 }
 else if (bF1uz2QKcO != d3b_NCI3)
 {

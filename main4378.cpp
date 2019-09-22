@@ -315,7 +315,7 @@ if (H9axrGTo & -824019681)
 {
 if (dgCr)
 {
-dgCr = (int)abs(M2Jl);
+
 }
 else if (zv_h57g)
 {
@@ -498,7 +498,7 @@ x15673071 = OW7c / Im0kBd;
 break;
 }
 H9axrGTo = vpj8Lm & plyTcFg0;
-XgriLQ2 = (unsigned int)(ecw9FgB2);
+
 
 std::cout << "ww5pBA9X" << ecw9FgB2 << std::endl;
 
@@ -622,7 +622,7 @@ std::cout << HwMV << u9Q9exbUFk << tkHN8 << ltZhClQu9 << ltZhClQu9 << std::endl;
 }
 else
 {
-H9axrGTo = VlEioY ^ 32327528;
+
 }
 }
 else

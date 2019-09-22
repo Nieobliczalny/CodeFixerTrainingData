@@ -182,7 +182,7 @@ O4347eA = (int)abs(W3F6h);
 cout << k20_nR845 << "pENcFtiBTf" << xFHI1zC_ << endl;
 if (O4347eA == 0)
 {
-	k20_nR845 = -1191496647 / O4347eA;
+
 }
 BLJSa = (unsigned long)(a21BU);
 
@@ -192,7 +192,7 @@ if (auN710kD != 253046915)
 {
 for (int k = 7; k >= 0; k--)
 {
-g566_ = (int)abs(W3F6h);
+
 }
 }
 else
@@ -202,7 +202,7 @@ int k = 8;
 do
 {
 --k;
-g566_ = (int)abs(O4347eA);
+
 }
 while (k >= 0);
 }
@@ -317,7 +317,7 @@ else
 switch (hqh6TI2q4)
 {
 case 'a':
-xFHI1zC_ = t7lI9h9C - 1707031116;
+
 break;
 case 'b':
 
@@ -336,7 +336,7 @@ case 'a':
 
 break;
 case 'b':
-roxVY_KP4 = of8F ^ dtJ9vu0_9n;
+
 break;
 case 'c':
 JxufBo ^= hqh6TI2q4;
@@ -351,7 +351,7 @@ case 'f':
 
 break;
 case 'g':
-X3jFfK >>= Cf4Z55Aw;
+
 break;
 case 'h':
 d8n4 %= 1738818818;
@@ -368,7 +368,7 @@ break;
 }
 }
 
-JsP40PB8hh = (unsigned long)(a21BU);
+
 
 try
 {

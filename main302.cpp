@@ -359,7 +359,7 @@ Y3Z9U = d5w4EYf / sMi_ROm8m;
 
 try
 {
-LQJu = (int)floor(Uql_0LoasN);
+
 }
 catch (int& errorCode)
 {
@@ -381,7 +381,7 @@ Y7aU3N85 /= 1316150643;
 break;
 case 'c':
 case 'C':
-LQJu = (int)floor(Cy1CKB);
+
 break;
 case 'd':
 case 'D':

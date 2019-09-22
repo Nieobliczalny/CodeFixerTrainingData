@@ -172,7 +172,7 @@ i++;
 while (i < 9);
 }
 
-X2qwy = (double)(vQ3V_xP);
+
 {
 int i = 10;
 do
@@ -243,7 +243,7 @@ l0D5 &= 726947356;
 }
 else
 {
-it2rdaZ = Vz54 ^ 619022158;
+
 }
 }
 while (i < 2);
@@ -280,7 +280,7 @@ case 1:
 
 break;
 case 2:
-jF_FJ6oDDT = (int)abs(R1Bd61);
+
 break;
 case 3:
 y2XBP9 = (int)ceil(egZgf0);
@@ -298,7 +298,7 @@ case 7:
 
 break;
 default:
-Kji_IyW = r_7Ht4 | 1320679481;
+
 break;
 }
 }

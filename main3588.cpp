@@ -42,7 +42,7 @@ int main(int argc, char** argv)
     short    Q2muitI;
     Q2muitI    =    785168728;
   short  bfIo;
-  bfIo  =  -746237142;
+
  unsigned char FV647YWgv;
  FV647YWgv = 1785136449;
     double    WA5b40B;
@@ -58,7 +58,7 @@ int main(int argc, char** argv)
   unsigned long  z_51g;
 
  long double XwJc;
- XwJc = -403263761;
+
     unsigned short int    Y7T9vwCYqu;
     Y7T9vwCYqu    =    1922923634;
     double    eIEZk88;
@@ -156,7 +156,7 @@ ORMn_F5Q = (float)(c5jU);
 switch (Uucs2G7988)
 {
 case 'a':
-FV647YWgv = H878m4y1pJ(FV647YWgv);
+
 break;
 case 'b':
 DI9iAIhWD = kKklz5(609854998, -618956757, AiGsnJC);
@@ -185,7 +185,7 @@ break;
 switch (Q2muitI)
 {
 case 0:
-bfIo = (o6s5GjF > Dg525) ? D8qGOH96 : Uucs2G7988;
+
 break;
 default:
 qvs40f = H878m4y1pJ(qvs40f);
@@ -266,7 +266,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-r8eg5P9_yI = H878m4y1pJ(GmM996qJD) * fcVd;
+
 break;
 case 'c':
 case 'C':
@@ -313,7 +313,7 @@ case 0:
 
 break;
 case 1:
-r8eg5P9_yI = (int)floor(r7P6);
+
 break;
 case 2:
 D0d42 *= 842577926;

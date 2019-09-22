@@ -42,7 +42,7 @@ int main(int argc, char** argv) {
  float klza48_;
  klza48_ = -713333980;
   unsigned long long  O6F5DFq1;
-  O6F5DFq1  =  474229238;
+
 	unsigned long	AvA93P9;
 	AvA93P9	=	89000730;
  unsigned long Yp8Z;
@@ -56,7 +56,7 @@ int main(int argc, char** argv) {
 	unsigned long long	FQ_m2775;
 	FQ_m2775	=	-1939479758;
   short  y4n2O;
-  y4n2O  =  -228868803;
+
 	long double	e77jR;
 	e77jR	=	-487412554;
   char  jlvVJ;
@@ -78,7 +78,7 @@ int main(int argc, char** argv) {
 	unsigned short	N9VTKpZWq;
 	N9VTKpZWq	=	0;
   short  m_9LGH3K0p;
-  m_9LGH3K0p  =  -603823833;
+
  double A1X43a;
  A1X43a = 2071795344;
 	unsigned int	m33e33;
@@ -106,7 +106,7 @@ int main(int argc, char** argv) {
  float VX70K5;
  VX70K5 = 1080553428;
 	unsigned char	v47sx;
-	v47sx	=	-950913900;
+
 	short	aRgV;
 	aRgV	=	-1250462470;
  unsigned long long aw0r8V10;
@@ -120,7 +120,7 @@ int main(int argc, char** argv) {
     long double    IARYqt;
     IARYqt    =    1935372023;
   unsigned long long  Ro3dg;
-  Ro3dg  =  1628156334;
+
     unsigned char    PPTu3iUh;
     PPTu3iUh    =    575651249;
 	short	QhUFLXo;
@@ -146,7 +146,7 @@ int main(int argc, char** argv) {
     unsigned short    Byr6Bn;
     Byr6Bn    =    0;
   unsigned short int  Dz9TCZY;
-  Dz9TCZY  =  2121187870;
+
     unsigned short    lUOK55;
     lUOK55    =    -2092017287;
  long double X47d;
@@ -186,7 +186,7 @@ int main(int argc, char** argv) {
     long long    Oq_oPkVO;
     Oq_oPkVO    =    595946477;
     unsigned long long    dAJUYF;
-    dAJUYF    =    33018682;
+
 
 qB487Q |= jlvVJ;
 
@@ -362,7 +362,7 @@ case 1:
 
 break;
 case 2:
-m33e33 = Zs8w4jJm - 393255671;
+
 break;
 case 3:
 aRgV = h_SHzR(aRgV, AHz0EB2, LkJFgR, aw0r8V10, AR73755sJ);
@@ -424,7 +424,7 @@ while (j >= 0);
 }
 else if ((SkU98krhpx > 97962873) && ((oB4v != -1826322760) && (f_2F0QCFZ < -319403325)))
 {
-rTV89c2b6I = (c5ud != A1X43a) ? s_zBb2A1v : u09VpBY6(CTrWpRbljw, -1611152033);
+
 }
 else
 {
@@ -491,7 +491,7 @@ case 0:
 
 break;
 case 1:
-X47d = (int)ceil(VX70K5);
+
 break;
 case 2:
 AvA93P9++;
@@ -522,7 +522,7 @@ case 'b':
 
 break;
 case 'c':
-OBDJt = h_SHzR(OBDJt, 190844324, 1872773617, AvA93P9, c5ud);
+
 break;
 }
 QhUFLXo = HH7zh3_d(-723665164);

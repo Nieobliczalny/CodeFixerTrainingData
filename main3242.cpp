@@ -84,7 +84,7 @@ int main(int argc, char** argv) {
 switch (uxe3_vO4Jc)
 {
 case 'a':
-C25mdO = (int)floor(C_a6II);
+
 break;
 default:
 DlV_lFaH = qZ3qIjMW9p(-1119031155);

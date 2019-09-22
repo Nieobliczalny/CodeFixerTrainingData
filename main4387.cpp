@@ -293,7 +293,7 @@ case 0:
 
 break;
 case 1:
-h6NfSQ8Wj = (int)floor(Wk1_O4);
+
 break;
 case 2:
 jL9_ = (int)abs(uh9BI2);
@@ -410,7 +410,7 @@ switch (lk6Sq_EUW)
 {
 case 'a':
 case 'A':
-ZEF4ak_2C = TWCD9(-450168524, X3jiCk6gm8, -1730657450, jL9_);
+
 break;
 case 'b':
 case 'B':
@@ -426,7 +426,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-UA5dGZl = (int)ceil(Wk1_O4);
+
 break;
 case 'f':
 case 'F':

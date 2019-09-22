@@ -143,7 +143,7 @@ case 'D':
 
 break;
 default:
-rRya = O7Au3sv8n | 171072685;
+
 break;
 }
 }

@@ -456,7 +456,7 @@ case 1:
 iQ8daucrZ = (int)ceil(YSLqSrtB);
 break;
 case 2:
-fCwPdR1 <<= aRG_;
+
 break;
 case 3:
 E_Uv = iCo_RJe_K / 1367083052;
@@ -560,7 +560,7 @@ int k = 8;
 while (k >= 0)
 {
 k--;
-W65aiOL_ = E2fi3Nw31();
+
 }
 }
 }
@@ -773,7 +773,7 @@ case 3:
 a_Qj7UTk = (int)abs(iCo_RJe_K);
 break;
 case 4:
-N1vwac = Iyy4csdX4J(N1vwac, W41P9Gn, -1619055585, C_7zK8tX, Mg207TB5);
+
 break;
 case 5:
 
@@ -785,7 +785,7 @@ case 7:
 S23K6YC <<= C_7zK8tX;
 break;
 }
-bG2Vv5_ = (unsigned short)(GaGPQe);
+
 
 {
 int i = 0;
@@ -883,7 +883,7 @@ else
 {
 if (ST47)
 {
-GaGPQe = C0sno | 1554595120;
+
 }
 else
 {

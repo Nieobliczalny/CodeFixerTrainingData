@@ -253,7 +253,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-wFlLTlgW = (int)ceil(f4AKb);
+
 break;
 case 'e':
 case 'E':
@@ -265,7 +265,7 @@ case 'F':
 break;
 case 'g':
 case 'G':
-MyHZt9dRU = (int)floor(Ma599u);
+
 break;
 case 'h':
 case 'H':
@@ -328,7 +328,7 @@ else if (z9UQEt4z8 >= CcDe7)
 {
 for (int j = 9; j >= 0; j--)
 {
-m6ag2 = (int)floor(Ma599u);
+
 }
 }
 else if (dN5k5 < jnrvE_u_J)
@@ -342,7 +342,7 @@ case 1:
 
 break;
 case 2:
-Q8_8A = LA3QV9q(-768137109, dN5k5, 623660361, 1659066068);
+
 break;
 case 3:
 ha36k8 = F_S_Y8pU70 % 376800776;
@@ -354,7 +354,7 @@ case 5:
 
 break;
 case 6:
-lEsVeI3 = t32zZ(2117868399, -382744040, 1273216962);
+
 break;
 case 7:
 F_S_Y8pU70 = jnrvE_u_J | 1995844907;

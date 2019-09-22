@@ -178,7 +178,7 @@ case 'c':
 W6DGSS = (int)abs(D4N9);
 break;
 case 'd':
-s0Id6J = (int)ceil(X5X1uFdH0I);
+
 break;
 case 'e':
 P3R77o = (y_CVVez1T != L33D) ? -1964864118 : -1084500844;
@@ -377,7 +377,7 @@ case 4:
 
 break;
 case 5:
-y_CVVez1T <<= X6qML0;
+
 break;
 case 6:
 X5X1uFdH0I = (int)ceil(s0Id6J);
@@ -440,7 +440,7 @@ else
 }
 else if ((D4N9 & -1476516584) || (X1QKYVtm >= -1662542622))
 {
-s0Id6J = (int)ceil(ac26vr3Ky6);
+
 }
 else if (me96o <= 1434758444)
 {

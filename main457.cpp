@@ -41,7 +41,7 @@ int main(int argc, char** argv) {
 	long	yhuAHkU;
 	yhuAHkU	=	-311277120;
     short int    J8lk;
-    J8lk    =    -1037274262;
+
  unsigned short wIvrE;
  wIvrE = -2071092667;
   unsigned char  Y5FQ1O_2xN;
@@ -55,7 +55,7 @@ int main(int argc, char** argv) {
  int CZ053;
  CZ053 = -358320862;
   unsigned long long  w72m4rZvi;
-  w72m4rZvi  =  1221434253;
+
     unsigned short    Jkt8Bm12MO;
     Jkt8Bm12MO    =    0;
  unsigned char p6_4;
@@ -487,7 +487,7 @@ if (uVTDEaC <= 121572431)
 switch (J3_2c78kb)
 {
 case 0:
-Dhg2D8 = KY2gjdc7(Dhg2D8, -1199341808, -633798975);
+
 break;
 case 1:
 WsPG = PwGD3dI(1982835233, 956118215);
@@ -516,7 +516,7 @@ else
 {
 std::cout << "Is_3m5tmD" << em_6() << J8lk << H8Hc36c9n << F30T5UV4PO << std::endl;
 }
-UCY0L64Ee = BpRN3(1555907424, 193847328);
+
 HViI5AyN0O = (int)floor(huGP6);
 {
 int i = 10;
@@ -550,7 +550,7 @@ HViI5AyN0O = (int)ceil(dUC28);
 }
 else
 {
-rY_OI = (unsigned short)(ZtBK);
+
 }
 }
 else if (CZ053 & s2pKi_)
@@ -578,7 +578,7 @@ else
 switch (J8lk)
 {
 case 0:
-J32XQ1Q65 = (int)abs(UngoIb9);
+
 break;
 case 1:
 uVTDEaC = em_6();
@@ -588,7 +588,7 @@ default:
 break;
 }
 }
-R3uyQ = s2pKi_ ^ 696069872;
+
 
 VWU_RC1N = (double)(Gnpd5);
 
@@ -607,7 +607,7 @@ case 1:
 
 break;
 default:
-dpYKvQG1t3 = KY2gjdc7(dpYKvQG1t3, 1703761607, J3_2c78kb);
+
 break;
 }
 }

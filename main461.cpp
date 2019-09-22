@@ -466,7 +466,7 @@ j++;
 }
 }
 
-x3unUrcg = (int)ceil(M2CNq3_);
+
 {
 int i = 3;
 while (i >= 0)

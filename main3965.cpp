@@ -35,7 +35,7 @@ i--;
 while (i >= 0);
 }
 
-It12M8 = jZZh();
+
 if (ytrU < 970355774)
 {
 oLSs64M++;
@@ -61,7 +61,7 @@ if (TraTAF4q4v != Pu8_9J)
 }
 else
 {
-Pu8_9J = jZZh();
+
 }
 }
 else
@@ -76,7 +76,7 @@ else
 }
 }
 }
-nkYfOuQ = (unsigned int)(HPdL0);
+
 switch (s0gXHw)
 {
 case 'a':
@@ -89,7 +89,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-sXKyM = jZZh();
+
 break;
 }
 

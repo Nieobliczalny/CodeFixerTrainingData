@@ -223,7 +223,7 @@ case 1:
 
 break;
 case 2:
-yY8mnLfO1B = (int)abs(iNpkL);
+
 break;
 }
 yY8mnLfO1B = (int)abs(T7MObMzrCH);
@@ -568,7 +568,7 @@ for (int j = 0; j < 4; j++)
 switch (yEZw)
 {
 case 'a':
-T7MObMzrCH = (int)abs(I6bN);
+
 break;
 case 'b':
 iNpkL = (int)abs(yY8mnLfO1B);
@@ -599,7 +599,7 @@ case 2:
 aYmZhBswV_--;
 break;
 case 3:
-yEZw = OFirP6 * yY8mnLfO1B;
+
 break;
 case 4:
 
@@ -623,7 +623,7 @@ if (lHAC > -116738244)
 
 }
 
-yEZw = (unsigned long long)(yY8mnLfO1B);
+
 return 0;
 }
 

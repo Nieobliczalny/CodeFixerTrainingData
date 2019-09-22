@@ -506,7 +506,7 @@ Sqd222O = N0rk50();
 break;
 case 'h':
 case 'H':
-Xw3_pEa *= OIU0h1Y;
+
 break;
 case 'i':
 case 'I':
@@ -714,7 +714,7 @@ i++;
 while (i < 7);
 }
 
-TrZgmR <<= uj6FWx1R;
+
 return 0;
 }
 

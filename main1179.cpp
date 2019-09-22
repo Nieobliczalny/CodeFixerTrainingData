@@ -70,7 +70,7 @@ int main()
  long long B6b3GI;
  B6b3GI = 422487004;
   short  w443H;
-  w443H  =  -1363878028;
+
  unsigned long long LX7OkM93Ap;
  LX7OkM93Ap = 1147067891;
     long double    lF5bW;
@@ -80,7 +80,7 @@ int main()
   long long  Q_dW2X1Eqz;
   Q_dW2X1Eqz  =  0;
  long double afXGAUwbZ;
- afXGAUwbZ = 664727402;
+
  unsigned int jTeo;
  jTeo = -215321254;
   long  QSCNpknC4;
@@ -98,7 +98,7 @@ int main()
     short    hwsP0;
     hwsP0    =    -401898760;
     char    L3h443OF;
-    L3h443OF    =    301739900;
+
     unsigned short int    Uy2bf4;
     Uy2bf4    =    -926881396;
   unsigned long long  JsRm;
@@ -167,7 +167,7 @@ kh8JPdM9Z9 = (unsigned short)(TtWe);
 }
 else if (esd8650N2q)
 {
-fP9joCt1po = Om15wpK(fP9joCt1po, hBrn4EJ, uW2P6cU, -1479748817, U165N27y);
+
 }
 else if (n5MOi55JLQ > 522286176)
 {
@@ -290,7 +290,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-n5MOi55JLQ = (int)abs(U165N27y);
+
 break;
 case 'f':
 case 'F':
@@ -302,7 +302,7 @@ case 'G':
 break;
 case 'h':
 case 'H':
-n5MOi55JLQ = (int)ceil(Tsll10);
+
 break;
 default:
 jTeo = Om15wpK(-103693585, 554115235, 1883987600, QSCNpknC4, -1758902044);

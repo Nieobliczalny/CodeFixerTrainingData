@@ -29,7 +29,7 @@ int main()
 
   aG2Qu3B_3  =  2102669561;
   qAW4b  =  2090067863;
-  Gm85h06  =  -2067867638;
+
   TFrQXp3  =  -1418111318;
   a22ktRUUG  =  2112965196;
   v4Uf  =  2118070072;
@@ -41,7 +41,7 @@ int main()
 
   x76suu  =  676671924;
   Dmg89PR4  =  -1722515890;
-  m9K8AT74yv  =  1597818541;
+
   n3ziCZ  =  1942738167;
   akmz_2R69  =  1195751453;
   yLs60_Kc  =  339970335;
@@ -51,7 +51,7 @@ int main()
   Mk33  =  -1853644431;
   eopjFG4Yc  =  -1977023805;
 
-  Cd_0tSHXHl  =  -1357252052;
+
   F60x  =  -2037516318;
   BZcL0POJ6M  =  -1095620544;
   S5E1Tv1v  =  -318010292;
@@ -65,7 +65,7 @@ int main()
   rX9lUb9  =  2084617562;
   n2VMN  =  -90842559;
   DPQE8Hu4ws  =  108419108;
-  xc37u23zjB  =  142865792;
+
   GEK8N5267l  =  1221085863;
   czMCM  =  -748842976;
   U28N3  =  -318345747;
@@ -102,7 +102,7 @@ int main()
 
   mBV_3nNJZ  =  76197547;
   g58dF7_w  =  1460997389;
-  xaQMBg9  =  -1965424925;
+
   D5oDmFH  =  -1508863960;
   rrBP5k1  =  1296454519;
   PxDUg52  =  1845791400;
@@ -114,7 +114,7 @@ int main()
   H_az9  =  1518131975;
 
   s1w1R5  =  -1996498392;
-  ws5oybmPH  =  -1573707514;
+
   Lb2tnv6  =  -407936523;
   I30g5LKBC  =  -379579950;
 
@@ -248,7 +248,7 @@ U28N3 = (int)abs(ae_aCfBwV3);
 }
 else if (rrBP5k1)
 {
-Cd_0tSHXHl = (long)(JPmU70 + (275845820));
+
 }
 else
 {
@@ -459,7 +459,7 @@ DPQE8Hu4ws = m9K8AT74yv & 1181830123;
 break;
 case 'f':
 case 'F':
-SOGI8 &= ae_aCfBwV3;
+
 break;
 case 'g':
 case 'G':
@@ -487,7 +487,7 @@ case 1:
 
 break;
 case 2:
-Zt95 = u3n10X ^ H_az9;
+
 break;
 case 3:
 NC9ojK_WEg = Lb2tnv6 / M6Pjg;
@@ -532,7 +532,7 @@ case 1:
 s1w1R5 = (DPQE8Hu4ws >= 1184988099) ? Y3m_w : F60x;
 break;
 default:
-vXP1V = (int)abs(g58dF7_w);
+
 break;
 }
 }
@@ -593,7 +593,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-YqXyK5h = JPmU70 / 1069650583;
+
 break;
 case 'g':
 case 'G':
@@ -638,7 +638,7 @@ case 0:
 b5YblX = RYbMkD0sVr(1061260527) ^ nS7I;
 break;
 case 1:
-LRyP /= 1463329413;
+
 break;
 case 2:
 
@@ -659,7 +659,7 @@ break;
 }
 
 std::cout << g58dF7_w << "Q0pyp3_" << oxjGB << RYbMkD0sVr(-844162502) << WqeR(TFrQXp3, DE5WE91, 1431516504, 1500884079, -1787989493) << std::endl;
-Mk33 = (long)(GEK8N5267l);
+
 
 Y3m_w ^= s1w1R5;
 
@@ -671,7 +671,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-tFbS2 = b5YblX ^ 575972266;
+
 break;
 default:
 g58dF7_w = Y2Drw | x_BBre2s52;

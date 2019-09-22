@@ -30,7 +30,7 @@ int main()
  unsigned long G2hZ11QlE;
  G2hZ11QlE = -1529727079;
  long long tdrfmXkUHY;
- tdrfmXkUHY = 1955329363;
+
  long D08P0R2;
 
 	long	s4DxUz;
@@ -40,7 +40,7 @@ int main()
  unsigned long long x2__6b4H2o;
  x2__6b4H2o = -1838508765;
     long    O18788_Wko;
-    O18788_Wko    =    -1378110220;
+
     double    XlP11J8;
     XlP11J8    =    1948950351;
   long long  A49Yfe299I;
@@ -52,7 +52,7 @@ int main()
   unsigned short int  ALbgo;
   ALbgo  =  0;
     long    oPxtN;
-    oPxtN    =    -1814121212;
+
  unsigned char v65sMr4kH;
  v65sMr4kH = 1583504172;
  long i0a_;
@@ -127,7 +127,7 @@ bMmSjwOBwX = (float)(Dp_FJ + (nLJiXwO));
 }
 else if (i0a_ == nLJiXwO)
 {
-tdrfmXkUHY = w2p66Y40C2(696680071, -726739115, -1843152674, s106VzgE);
+
 }
 else if (Q9dB5v > Gp4F2)
 {
@@ -243,7 +243,7 @@ i--;
 }
 
 Q9dB5v = (int)abs(i0a_);
-BI76379_qq = (unsigned long long)(jfd4jA);
+
 eHJ2Lksw = kIalT_B(-2063733759);
 
 if (A49Yfe299I == 1540079391)
@@ -263,7 +263,7 @@ case 3:
 u0F_Y_pB1 = xbwRh9gKk(-266938092);
 break;
 case 4:
-MtWlJO = (int)floor(hWoJI_);
+
 break;
 case 5:
 G2hZ11QlE = x2__6b4H2o * QL39Bk8P;
@@ -292,7 +292,7 @@ else if (((Gp4F2 >= 2129709380) || (WxN_ngBxC1)) && (u0F_Y_pB1 >= -844900184))
 {
 if (V6RWPO4NX > SR0I3gFQ)
 {
-NVnK8lt3_ = (float)(s106VzgE);
+
 }
 }
 else if (m_t7Q59187)
@@ -305,7 +305,7 @@ case 'a':
 
 break;
 case 'b':
-i0a_ = (int)abs(XlP11J8);
+
 break;
 case 'c':
 bcG6 += G2hZ11QlE;
@@ -317,7 +317,7 @@ case 'e':
 
 break;
 case 'f':
-D08P0R2 = zvNX | jfd4jA;
+
 break;
 }
 }
@@ -333,7 +333,7 @@ else
 switch (A49Yfe299I)
 {
 case 0:
-m_t7Q59187 = kIalT_B(147069988);
+
 break;
 case 1:
 tdrfmXkUHY = (int)abs(MMSJQcnin_);
@@ -372,7 +372,7 @@ case 0:
 
 break;
 case 1:
-MtWlJO = (int)floor(bcG6);
+
 break;
 case 2:
 V6RWPO4NX = (int)abs(ux0_M2h22);
@@ -387,7 +387,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-NVnK8lt3_ = xn9_G3r(NVnK8lt3_, G2hZ11QlE, -1206112046);
+
 break;
 case 'c':
 case 'C':
@@ -399,7 +399,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-Gp4F2 <<= 1537869913;
+
 break;
 case 'f':
 case 'F':
@@ -414,7 +414,7 @@ case 'H':
 
 break;
 default:
-Q9dB5v = (int)abs(QL39Bk8P);
+
 break;
 }
 s106VzgE = (int)abs(A49Yfe299I);

@@ -56,7 +56,7 @@ else if (tq7FN68H & -867895618)
 {
 for (int k = 8; k >= 0; --k)
 {
-uf1nIbqrP = iobx96h_3a(Esrwc719, O2HA07157) << 1326469903;
+
 }
 }
 else if (K0Yd > -1043710589)
@@ -68,7 +68,7 @@ Esrwc719 = iobx96h_3a(-541313088, 520683240) >> Tx7v6a190;
 }
 else
 {
-M1a_1PXrb = (int)abs(U6AI8EB);
+
 }
 }
 else
@@ -82,7 +82,7 @@ case 'a':
 U6AI8EB = (S3cA4BJE == U6AI8EB) ? -1913435714 : iobx96h_3a(bLY_F4ta, ErrK7U);
 break;
 case 'b':
-T_098RQ = (int)abs(Tx7v6a190);
+
 break;
 case 'c':
 asA7jlh = (int)abs(IFrCv2Cc) + (-1390512748);
@@ -103,7 +103,7 @@ do
 int k = 0;
 do
 {
-b48m9 = Sj6o1g8e3e & 633803523;
+
 ++k;
 }
 while (k < 3);
@@ -175,7 +175,7 @@ IFrCv2Cc = iobx96h_3a(MLf_Spr, -802260011);
 switch (B9RQ8)
 {
 case 0:
-ixXN = (int)abs(U6AI8EB);
+
 break;
 case 1:
 m_8Tq9vaz8 = iobx96h_3a(2079657615, -413254676);
@@ -224,7 +224,7 @@ int k = 2;
 while (k >= 0)
 {
 --k;
-Z_3cqUyEZR = iobx96h_3a(-545247627, 663107981);
+
 }
 }
 }
@@ -250,7 +250,7 @@ while (j < 3);
 }
 while (i < 10);
 }
-K0Yd = -408424574 / IFrCv2Cc;
+
 std::cout << m_8Tq9vaz8 << iobx96h_3a(222574458, -2127315460) << iobx96h_3a(wOmReU, bLY_F4ta) << DcK_w3Gzc << std::endl;
 if (S3cA4BJE & 865949683)
 {
@@ -274,7 +274,7 @@ switch (wOmReU)
 {
 case 'a':
 case 'A':
-Z_3cqUyEZR = iobx96h_3a(2057096165, bLY_F4ta);
+
 break;
 case 'b':
 case 'B':
@@ -294,7 +294,7 @@ x_R2LY_09_ = iobx96h_3a(1561788657, U6AI8EB);
 break;
 case 'f':
 case 'F':
-b48m9 = OHTAH2 % 299368133;
+
 break;
 case 'g':
 case 'G':
@@ -308,7 +308,7 @@ else if ((PiBXI3l != 493509224) && (y006 > -1034316044))
 int k = 5;
 do
 {
-IFrCv2Cc = iobx96h_3a(1701550766, Tx7v6a190);
+
 k--;
 }
 while (k >= 0);
@@ -339,7 +339,7 @@ else if (uf1nIbqrP <= -271381705)
 int k = 10;
 while (k >= 0)
 {
-IFrCv2Cc = iobx96h_3a(X4f823d00r, PiBXI3l);
+
 k--;
 }
 }
@@ -356,7 +356,7 @@ m_8Tq9vaz8 = iobx96h_3a(518118914, -330694529);
 }
 else if (aEp8 >= 1881972068)
 {
-IFrCv2Cc = iobx96h_3a(wOmReU, 565417520);
+
 }
 else
 {
@@ -369,7 +369,7 @@ K0Yd = weL1_oov >> 2044233364;
 
 B5_Q = (long long)(m_8Tq9vaz8 + (-559451177));
 
-uf1nIbqrP = (int)abs(LF2l_X);
+
 return 0;
 }
 

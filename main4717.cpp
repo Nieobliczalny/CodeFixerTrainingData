@@ -141,7 +141,7 @@ case 2:
 
 break;
 case 3:
-xoVqg_zN8n -= KRuk;
+
 break;
 case 4:
 Jcqq4RyL = jST0NXLZd * H8l0_y3D;
@@ -257,7 +257,7 @@ case 0:
 Ua4HnB = ZK7rxD6EW >> QaXD44;
 break;
 case 1:
-ag19q6fY <<= THN1Ir;
+
 break;
 case 2:
 g774 = mcfzlv53E / q94QW_;
@@ -272,7 +272,7 @@ case 5:
 
 break;
 default:
-KRuk %= 2116609263;
+
 break;
 }
 {
@@ -303,7 +303,7 @@ case 0:
 
 break;
 case 1:
-Y4i3Y7_g = jST0NXLZd - 1103648596;
+
 break;
 case 2:
 KP2q_3t8Pp <<= 736311300;

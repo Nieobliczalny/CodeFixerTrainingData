@@ -168,7 +168,7 @@ case 3:
 Cq7BQBkBQv %= uLrob;
 break;
 case 4:
-yu57_ = uLrob ^ 896446744;
+
 break;
 case 5:
 AOQLGl7tg *= uLrob;
@@ -338,7 +338,7 @@ case 'a':
 
 break;
 case 'b':
-b928sZ6 = (int)abs(uth4Oi);
+
 break;
 case 'c':
 uth4Oi <<= q4dngAd;

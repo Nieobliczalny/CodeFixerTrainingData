@@ -77,7 +77,7 @@ case 6:
 
 break;
 case 7:
-SP69EQ /= 1964191636;
+
 break;
 default:
 SP69EQ = (int)abs(i7p3);
@@ -163,7 +163,7 @@ Fu6C <<= NI6x6A3P;
 }
 else
 {
-K_0Ydp = C4RF(-1386172712, -650271769, GN24);
+
 }
 }
 }
@@ -289,7 +289,7 @@ DkJjxo2M2 = a1mq99(-491207116, -821720773, 1443633659);
 break;
 case 'd':
 case 'D':
-K_0Ydp = a1mq99(1209428611, NI6x6A3P, th7t0);
+
 break;
 }
 
@@ -398,7 +398,7 @@ if (S95k <= ePZ0l)
 }
 else
 {
-PBn8K = GN24 | s3uu;
+
 }
 }
 else if (DkJjxo2M2 > 706648648)

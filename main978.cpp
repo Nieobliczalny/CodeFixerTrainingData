@@ -23,7 +23,7 @@ int main()
   long  ILrM;
 
  unsigned long sYTspZYY;
- sYTspZYY = 1667400332;
+
   unsigned int  EKMUNa97dL;
   EKMUNa97dL  =  428055221;
   unsigned long long  Stv7;
@@ -47,7 +47,7 @@ int main()
   unsigned short  QDo_85K;
   QDo_85K  =  1857259475;
     unsigned short int    yYkOn;
-    yYkOn    =    911807239;
+
     unsigned short    J34f_Rh7_;
     J34f_Rh7_    =    -1706385836;
   double  V2lfP2;
@@ -63,7 +63,7 @@ int main()
  unsigned char bf3z666;
 
 	unsigned long	zevZ0;
-	zevZ0	=	56158431;
+
     unsigned char    S23sc3Us8k;
     S23sc3Us8k    =    -719740853;
  unsigned char L_1z;
@@ -83,7 +83,7 @@ int main()
  unsigned int y6kT5k;
  y6kT5k = 1120077289;
   char  ZfCzabz2c;
-  ZfCzabz2c  =  0;
+
  unsigned short WDzs7XK;
  WDzs7XK = -707940709;
 	unsigned short int	XyF6mC373;
@@ -107,7 +107,7 @@ int main()
 	char	oRS5p7B0;
 	oRS5p7B0	=	-629806592;
     int    CWLb31NaG;
-    CWLb31NaG    =    1848365620;
+
 	char	TCBD0;
 	TCBD0	=	-986975640;
 	char	A_xSO;
@@ -123,7 +123,7 @@ int main()
     char    cuU9k_l4lt;
 
  long long EW7Q;
- EW7Q = -1181577642;
+
     unsigned short int    Fyu01;
     Fyu01    =    -1682581312;
     unsigned int    HysFpAo5Iv;
@@ -139,7 +139,7 @@ int main()
     int    CA9ohVCKK9;
 
   unsigned short  qmFK44GcB;
-  qmFK44GcB  =  -1905174845;
+
 	unsigned long	KFgwQ;
 	KFgwQ	=	0;
     unsigned short int    GRuVI5f;
@@ -224,7 +224,7 @@ else if (n9Ln5C5Nv == -1305414211)
 }
 else if (gS43H >= 531342215)
 {
-EKMUNa97dL = be5148Q84a(EKMUNa97dL);
+
 }
 else
 {
@@ -279,7 +279,7 @@ jAE0 = oRS5p7B0 >> o8x1Kw;
 break;
 case 'c':
 case 'C':
-QDo_85K = KbN1s3(QDo_85K, -216326757);
+
 break;
 case 'd':
 case 'D':
@@ -290,7 +290,7 @@ case 'E':
 n5rmXwxV6 = (int)floor(V2lfP2);
 break;
 default:
-w_Cz4 = (int)ceil(y4Q_9Hz);
+
 break;
 }
 {
@@ -307,7 +307,7 @@ for (int i = 0; i < 4; ++i)
 
 }
 
-CN7n = (char)(goq1qztlwN);
+
 {
 int i = 0;
 do
@@ -354,7 +354,7 @@ for (int j = 10; j >= 0; --j)
 {
 if (y6kT5k <= P6PH86)
 {
-w_Cz4 = W_s6u0sWp8 >> 1886935087;
+
 }
 }
 }
@@ -364,7 +364,7 @@ w_Cz4 = W_s6u0sWp8 >> 1886935087;
 switch (wv5_)
 {
 case 'a':
-n5rmXwxV6 = (int)ceil(LhZL6US_);
+
 break;
 case 'b':
 n5rmXwxV6 = (int)floor(V2lfP2);
@@ -375,7 +375,7 @@ break;
 }
 
 
-YjRK94K12 = (unsigned short int)(ILrM);
+
 
 return 0;
 }

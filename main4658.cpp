@@ -144,7 +144,7 @@ for (int i = 0; i < 9; i++)
 {
 for (int j = 2; j >= 0; --j)
 {
-qjC40CuV7P = (int)abs(d5aP);
+
 }
 }
 
@@ -178,7 +178,7 @@ try
 int j = 0;
 do
 {
-Y3AmX = Vp1XX2170g | KQD3T39y4;
+
 j++;
 }
 while (j < 1);
@@ -235,7 +235,7 @@ for (int j = 0; j < 10; j++)
 int k = 0;
 while (k < 4)
 {
-qjC40CuV7P = (kB_t_ <= Wh31EA7K_4) ? eO2sTxnF1Z : -1000744052;
+
 k++;
 }
 }
@@ -279,7 +279,7 @@ case 1:
 
 break;
 case 2:
-Y94x = NfpANdJsMP + 1113486780;
+
 break;
 case 3:
 sYu4U6_ = y4ORYOo();

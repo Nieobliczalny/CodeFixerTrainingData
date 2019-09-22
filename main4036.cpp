@@ -90,7 +90,7 @@ std::cout << "z327qb2Pt" << std::endl;
 w_speLgZfc = (long double)(qoGrBxcX4E);
 
 std::cout << "m9I2I9" << JLgkz1BO(1980268066, -1284135005, C688, 1255890873) << A36oy << std::endl;
-bUEZqq5XM0 = JLgkz1BO(bUEZqq5XM0, 1221361344, 1922301057, 628420984);
+
 w_speLgZfc = (int)ceil(j148w3Oh);
 
 if (BAZvf9zxM5 == -918729819)
@@ -198,7 +198,7 @@ case 1:
 
 break;
 case 2:
-fupMy4v = WX9hKn3H(-857868369);
+
 break;
 case 3:
 Q8mk22 = (k_8vh2 <= pzwb) ? SNLA2 : iCdnS55N;
@@ -222,7 +222,7 @@ case 'c':
 
 break;
 case 'd':
-j148w3Oh = (int)abs(t275V2T);
+
 break;
 default:
 BAZvf9zxM5 = uJ7O0E2pT | 2021138227;

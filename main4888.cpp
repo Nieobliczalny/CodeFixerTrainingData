@@ -561,7 +561,7 @@ case 1:
 utJQ8DlyO ^= u8_q;
 break;
 default:
-u8_q ^= 1173053092;
+
 break;
 }
 

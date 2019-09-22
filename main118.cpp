@@ -267,7 +267,7 @@ case 'c':
 
 break;
 case 'd':
-FsaF58MD = L_qNIZ5 | 660257477;
+
 break;
 case 'e':
 e54z = (int)ceil(K0tM687);
@@ -321,7 +321,7 @@ while (i < 6)
 int i = 10;
 do
 {
-b43f0za = (unsigned int)(fqw_5);
+
 --i;
 }
 while (i >= 0);
@@ -361,7 +361,7 @@ case 0:
 ardiZpE = (int)ceil(J1Ze);
 break;
 case 1:
-G_O2P8ts = (int)ceil(zmg1akr);
+
 break;
 case 2:
 fqw_5--;

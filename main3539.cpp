@@ -27,7 +27,7 @@ int main(void)
     c42Y    =    -549443853;
     NDlYLW    =    1145635246;
 
-    wPdSr6l_    =    -557250105;
+
     zmQKiKR    =    -715528776;
     ekSPak    =    -1675172014;
     D7NpW    =    796667582;
@@ -45,7 +45,7 @@ int main(void)
     muT30n1    =    -1886655879;
     c_5E4xo1f    =    -1906286046;
     FEN63    =    -1743575222;
-    KB5fZt    =    1215979665;
+
     zV1lOJ2g1X    =    -488175216;
     z0f8s_L    =    -850740416;
     FnvB_z    =    -721104368;
@@ -258,7 +258,7 @@ q_6373J0--;
 }
 else if ((ekSPak == c42Y) || (pC_j <= c_5E4xo1f))
 {
-U4tVKfve9 = (unsigned char)(FnvB_z);
+
 }
 else if (wJ7s != 2140164341)
 {

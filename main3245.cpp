@@ -442,7 +442,7 @@ case 1:
 
 break;
 case 2:
-ltPxIN_PjW = (int)abs(b1Kzh) + (415695824);
+
 break;
 }
 
@@ -538,7 +538,7 @@ oNQ4 = r9HBN_lrE(-2044891232, E_ozH9_J, 1569514023, 726529515, uoCQ9q2);
 break;
 case 'c':
 case 'C':
-cEF9UXCl = (int)floor(uoCQ9q2);
+
 break;
 case 'd':
 case 'D':

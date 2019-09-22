@@ -14,7 +14,7 @@ using std::floor;
 
 int main() {
     short    Fgh7f0yUT;
-    Fgh7f0yUT    =    673006000;
+
     unsigned long long    I9X6c53;
     I9X6c53    =    -973749693;
   long long  gjKo487r0c;
@@ -28,7 +28,7 @@ int main() {
   unsigned short int  d5TqIRLYw5;
   d5TqIRLYw5  =  -181132194;
     unsigned int    eI18hb_h;
-    eI18hb_h    =    134278556;
+
   unsigned long long  Jz34;
   Jz34  =  -1294022829;
     char    lYvBuR;
@@ -96,7 +96,7 @@ int main() {
  unsigned char WwjHNvPF;
  WwjHNvPF = 1453184776;
   unsigned long long  MmFY4;
-  MmFY4  =  -1752417241;
+
     short int    l2s_N_S0A;
     l2s_N_S0A    =    1660411977;
  unsigned long qWK8AuttRA;
@@ -138,7 +138,7 @@ int main() {
 	unsigned int	W_Jyo1t5HH;
 	W_Jyo1t5HH	=	113095312;
   unsigned long  qjle;
-  qjle  =  1490632331;
+
     int    Qy77;
     Qy77    =    -127723879;
 	unsigned long long	aY49_jh1;
@@ -160,7 +160,7 @@ int main() {
   unsigned long long  XIQV6mB;
   XIQV6mB  =  -1888842029;
  char t7YSzO;
- t7YSzO = 2143411811;
+
 	char	Gk7c_;
 	Gk7c_	=	-363011983;
 	long long	nvBKM_xnlN;
@@ -332,7 +332,7 @@ S416Hpz_o = S9Shz8 >> 485811076;
 break;
 case 'c':
 case 'C':
-Ga06C3ZB_ -= 147571129;
+
 break;
 case 'd':
 case 'D':
@@ -538,7 +538,7 @@ try
 int j = 8;
 while (j >= 0)
 {
-qZ5cW = (unsigned long long)(d8w2);
+
 --j;
 }
 }
@@ -568,7 +568,7 @@ cout << tt31f3 << u90bCcEbQK << Av49wGO << "ZUb6" << u90bCcEbQK << endl;
 i--;
 }
 }
-lbmQ_ = I9X6c53 / aY49_jh1;
+
 try
 {
 if ((S9Shz8 < 2061225840) && (aY49_jh1 <= 707312352))
@@ -636,7 +636,7 @@ if (r0hidJ5_ >= 457695066)
 }
 else
 {
-MmFY4 = pawyq924 >> W_08;
+
 }
 }
 else
@@ -647,7 +647,7 @@ if (r0hidJ5_ == -1696089125)
 }
 else
 {
-s06va = pawyq924 % 873757078;
+
 }
 }
 }
@@ -659,7 +659,7 @@ case 'a':
 
 break;
 case 'b':
-f0OE1PY1Ct = (int)floor(YA3T3I);
+
 break;
 case 'c':
 wF_oCArj_ |= 1299027518;
@@ -697,7 +697,7 @@ case 0:
 
 break;
 case 1:
-YA3T3I = (int)floor(hr__);
+
 break;
 default:
 ul_V_6 <<= 989441923;
@@ -710,7 +710,7 @@ case 'a':
 
 break;
 case 'b':
-nvBKM_xnlN = sNBsKFtc1t % 1292919398;
+
 break;
 default:
 BIkO %= 1693199483;

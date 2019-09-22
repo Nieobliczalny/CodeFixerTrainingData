@@ -306,7 +306,7 @@ int j = 9;
 do
 {
 --j;
-xUP1 = P1Hl << voe2HkdO;
+
 }
 while (j >= 0);
 }
@@ -418,7 +418,7 @@ try
 {
 if ((sws30or & 185313264) && (YxWbr1 < a9OTkp))
 {
-a9OTkp /= YxWbr1;
+
 }
 else
 {

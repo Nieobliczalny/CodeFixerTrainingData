@@ -26,7 +26,7 @@ int main(void)
     long double    oeqbaQHJ2;
     oeqbaQHJ2    =    -1171784799;
     char    JF77y;
-    JF77y    =    1910157076;
+
 	long double	S2g1;
 	S2g1	=	-381944953;
   short int  Zq5Y1E;

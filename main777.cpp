@@ -173,7 +173,7 @@ GP4hk = (int)ceil(O3_6wG6A3_);
 break;
 case 'c':
 case 'C':
-uTyeodhPJ = (int)abs(gqA160U81) + (-1092636248);
+
 break;
 case 'd':
 case 'D':
@@ -225,7 +225,7 @@ for (int j = 0; j < 10; j++)
 {
 if (ng0b >= -2101808423)
 {
-a0YXlj = yWXxo9VU7 / 2032877374;
+
 }
 else if (((u_3O105 == z37K37oJ0E) && (j0oH3h < yWXxo9VU7)) && (lOFFqFSG54 & jriBRG))
 {
@@ -243,7 +243,7 @@ else
 }
 else
 {
-gM5hY = (int)floor(yWXxo9VU7);
+
 }
 t0y_EZ_1 = EAcvD8 / 1654762602;
 O3_6wG6A3_ *= 2121459618;

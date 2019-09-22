@@ -107,7 +107,7 @@ int main(void)
   long  v0c2c_eaL8;
   v0c2c_eaL8  =  -1212253334;
 	long long	T15KE6niD;
-	T15KE6niD	=	1144991117;
+
     short    n_ESHOr;
     n_ESHOr    =    1248152548;
     float    R0ncJ528;
@@ -174,7 +174,7 @@ case 3:
 J0hIPFL2Yc = EFxS1xl_Z(-579303945, 1464311504, Y1XsDF6G, Rc0SlT5Y) ^ vwW33aiZ0d;
 break;
 default:
-cEjTZKM <<= v0c2c_eaL8;
+
 break;
 }
 }
@@ -206,7 +206,7 @@ R0ncJ528 = Htcfo ^ Ey5G;
 }
 else
 {
-o0Y73koj5W = (int)ceil(ayjrA);
+
 }
 }
 }
@@ -239,7 +239,7 @@ ijEDL6EcMy = (int)ceil(Ml_x3_JB);
 }
 }
 oTlhPdNR = (Ey5G) ? L4kRlWbh3 : K0_Q;
-wsbZi_0k = (int)ceil(Ml_x3_JB);
+
 
 switch (Y_v9jkj6)
 {
@@ -287,7 +287,7 @@ do
 int k = 0;
 do
 {
-T15KE6niD = (int)abs(JTbI6jbJ);
+
 k++;
 }
 while (k < 9);
@@ -340,7 +340,7 @@ while (j < 5);
 }
 else if (Ey5G >= 2035662241)
 {
-o0Y73koj5W = (double)(Ey5G);
+
 }
 else if ((Y1XsDF6G != zy0Qtt_v) && ((Z3gXhZz <= v0c2c_eaL8) || (Y_v9jkj6 == 124660752)))
 {
@@ -357,7 +357,7 @@ M_E8yU4kIv = (int)ceil(Rc0SlT5Y);
 int i = 8;
 while (i >= 0)
 {
-wsbZi_0k = (int)floor(M_E8yU4kIv);
+
 --i;
 }
 }
@@ -389,7 +389,7 @@ ohu0 = wb_5uj(2116013827, H6pv3fHU9y, 1107273491);
 }
 while (i < 6);
 }
-M_E8yU4kIv = (T5qx_jgv6 != Rc0SlT5Y) ? MBkRE2 : 1391709992;
+
 
 try
 {
@@ -399,7 +399,7 @@ case 'a':
 ijEDL6EcMy = (int)ceil(mdTOg);
 break;
 case 'b':
-I6eJBe0G = EFxS1xl_Z(-517739111, TofkqO, Z3gXhZz, 852105328);
+
 break;
 case 'c':
 Ouc_Sx1_0 <<= 947478794;
@@ -414,7 +414,7 @@ case 'f':
 Ouc_Sx1_0 = yA97tN >> 160321927;
 break;
 case 'g':
-I6eJBe0G = wb_5uj(-372353229, Rc0SlT5Y, -176199049) / 1266759510;
+
 break;
 case 'h':
 H6pv3fHU9y = EFxS1xl_Z(H6pv3fHU9y, 938523557, 922536678, 1758546650);
@@ -509,7 +509,7 @@ case 1:
 ijEDL6EcMy = (int)floor(Rc0SlT5Y);
 break;
 case 2:
-L4kRlWbh3 %= 746731780;
+
 break;
 case 3:
 Z3gXhZz--;
@@ -532,7 +532,7 @@ case 0:
 
 break;
 case 1:
-JTbI6jbJ = (int)ceil(R0ncJ528);
+
 break;
 case 2:
 Ml_x3_JB = (int)ceil(Rc0SlT5Y);
@@ -547,7 +547,7 @@ case 5:
 QId5 <<= Z2iy8Vrm;
 break;
 default:
-M_E8yU4kIv = (int)ceil(Rc0SlT5Y);
+
 break;
 }
 }

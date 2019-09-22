@@ -131,7 +131,7 @@ while (k >= 0);
 }
 }
 
-SE3o = (short int)(D_JF);
+
 
 pgZ8NU1 = (float)(c_9YJ);
 PK2ku_8j74 = (long long)(MFDr7BQ);
@@ -158,7 +158,7 @@ case 5:
 
 break;
 default:
-VaeZ13 = U58Gu1_(yF399mlF, -1738003068, -1501010826, 1083096251, FWBQq2);
+
 break;
 }
 c_9YJ = -1385093822 / XT0P9RoIBj;
@@ -201,7 +201,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-XT0P9RoIBj = U58Gu1_(-463882807, -1072124482, 1796956290, h_62224h, JG8xXPW87D);
+
 break;
 case 'd':
 case 'D':
@@ -213,7 +213,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-VaeZ13 = U58Gu1_(947786620, -1574538473, 2123589800, 2091666557, CB_dboh7);
+
 break;
 case 'g':
 case 'G':
@@ -233,7 +233,7 @@ if ((YOS2 & -426192919) || (A_J6LiOx == tLOZ93_63))
 }
 else
 {
-CB_dboh7 = (int)ceil(pgZ8NU1);
+
 }
 
 std::cout << "LZ29" << "SD6lyw" << pgZ8NU1 << YOS2 << G61Zc772 << std::endl;
@@ -247,7 +247,7 @@ else
 switch (hJtBJ661)
 {
 case 0:
-c_9YJ = tLOZ93_63 + 1167294107;
+
 break;
 case 1:
 
@@ -263,7 +263,7 @@ break;
 
 
 
-c_9YJ = (short int)(tGS6 + (-325933179));
+
 return 0;
 }
 

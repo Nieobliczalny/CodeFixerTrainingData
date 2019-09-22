@@ -300,7 +300,7 @@ case 'd':
 RrBV8 = GHjkoYg + 1320262112;
 break;
 case 'e':
-vx7X = (int)floor(Gio3);
+
 break;
 case 'f':
 Kk9q7lUL = LFcSj(BLI2Fc2);
@@ -312,7 +312,7 @@ case 'h':
 
 break;
 case 'i':
-vx7X = (int)ceil(LL18FKq);
+
 break;
 case 'j':
 BgBtb8 = LFcSj(vx7X) | ip_yo_H;
@@ -482,7 +482,7 @@ case 1:
 va5lr8 = kBMUDDjC ^ N6Aml1NzBi;
 break;
 case 2:
-qr3RrUQz = (int)abs(ip_yo_H);
+
 break;
 case 3:
 gvX_Lg2_8_ = R_zzoogD / Gio3;
@@ -500,7 +500,7 @@ break;
 }
 else if (L9ZM <= KbXn)
 {
-i4t9zv01S = LFcSj(jbFX);
+
 }
 else
 {
@@ -525,7 +525,7 @@ case 0:
 
 break;
 default:
-BkA9j = t0m9px_5 - Gio3;
+
 break;
 }
 if (EvIq)
@@ -559,7 +559,7 @@ case 0:
 
 break;
 case 1:
-i4t9zv01S = LFcSj(-798212588);
+
 break;
 case 2:
 ip_yo_H += Gio3;

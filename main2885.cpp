@@ -27,6 +27,7 @@ unsigned long long	A2K_d(unsigned int	u22QCc,short	P5xgTJpV14,long	S_815j,unsign
 
 int main() {
 	long long	hLs2,	r2GE5o,	w90yJc5,	VCi2,	J6eMsk;
+		// codechecker_intentional [deadcode.DeadStores] Design rule - initialize all variables
 		hLs2	=	r2GE5o	=	w90yJc5	=	VCi2	=	J6eMsk	=	0;
     unsigned short    E8_Tr6,    a8xo8ev_M_,    e11KEH_fI,    M5qIm15,    x4NoI_,    X4MMW_k,    u1H0,    NO5K_,    RIkaY,    mlI0FyT,    ynTXG71,    P8s9_X6u,    niQXih5I3,    e3Atz1WP,    o47eQ2T73,    mK1jg7AQ,    v4c0cGCH,    A4G_,    u9Bx,    S4Jsotr3p3,    ch0X_n0,    W36e,    E_40,    UR4d231ap2,    UOxVv,    TVt315s4,    d3kGPb,    SHKr,    j3hGI,    it5N,    UA11Q1oH9_,    g159oXZ115,    A0P9,    RWU4H2cIt;
         E8_Tr6    =    a8xo8ev_M_    =    e11KEH_fI    =    M5qIm15    =    x4NoI_    =    X4MMW_k    =    u1H0    =    NO5K_    =    RIkaY    =    mlI0FyT    =    ynTXG71    =    P8s9_X6u    =    niQXih5I3    =    e3Atz1WP    =    o47eQ2T73    =    mK1jg7AQ    =    v4c0cGCH    =    A4G_    =    u9Bx    =    S4Jsotr3p3    =    ch0X_n0    =    W36e    =    E_40    =    UR4d231ap2    =    UOxVv    =    TVt315s4    =    d3kGPb    =    SHKr    =    j3hGI    =    it5N    =    UA11Q1oH9_    =    g159oXZ115    =    A0P9    =    RWU4H2cIt    =    -1443244329;

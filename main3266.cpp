@@ -12,7 +12,7 @@ int main() {
  unsigned long D0n_K7jx;
  D0n_K7jx = -250201972;
 	short	Tv7ugfKfV8;
-	Tv7ugfKfV8	=	571298111;
+
   unsigned short int  JJE78r2hF2;
   JJE78r2hF2  =  1969690456;
   unsigned long long  SaA7gi20;
@@ -50,7 +50,7 @@ int main() {
   unsigned long long  ooneX6xND2;
 
   unsigned char  Uh1_o4hJm;
-  Uh1_o4hJm  =  1677964127;
+
 	short	xz1C;
 	xz1C	=	-1052891349;
 	long double	crow36GFe;
@@ -96,7 +96,7 @@ int main() {
     short int    cAqu81;
     cAqu81    =    -127976507;
     unsigned int    AUnx2;
-    AUnx2    =    -1053152917;
+
  unsigned char zOlA;
  zOlA = 7515217;
     long    lS4ua1;
@@ -114,7 +114,7 @@ int main() {
 	unsigned short int	v5Zpcl__;
 	v5Zpcl__	=	-1227940057;
 	int	pB_Il7cqk_;
-	pB_Il7cqk_	=	-29176844;
+
 	unsigned short int	fwDkK00n;
 	fwDkK00n	=	1923826904;
     unsigned char    aF0jD;
@@ -140,7 +140,7 @@ gtW2G0 = (int)floor(r58Jo1RA4t);
 }
 else if ((v5Zpcl__ >= gz_977) && (E78C5V == aLF4E0A))
 {
-tI63 /= MU1N;
+
 }
 else if (J98589)
 {
@@ -267,7 +267,7 @@ case 1:
 lS4ua1--;
 break;
 case 2:
-P4uEizji32 <<= 2032607042;
+
 break;
 case 3:
 JbYd = (int)abs(de7T5_W);
@@ -351,7 +351,7 @@ case 0:
 
 break;
 case 1:
-gtW2G0 = (int)abs(h50GD7o9R);
+
 break;
 case 2:
 P4uEizji32 = JbYd * CnQ71n;
@@ -379,7 +379,7 @@ default:
 break;
 }
 }
-gtW2G0 = (int)floor(q5D4_NKTZ);
+
 
 try
 {
@@ -402,7 +402,7 @@ case 'd':
 nD09_ja = h50GD7o9R / 909180801;
 break;
 case 'e':
-Y736qntaV = SaA7gi20 - lmWY;
+
 break;
 case 'f':
 eo7fI2OCC8++;
@@ -427,7 +427,7 @@ case 1:
 JJE78r2hF2 *= 1078853286;
 break;
 case 2:
-eo7fI2OCC8 -= lmWY;
+
 break;
 case 3:
 aLF4E0A &= S8gRC;
@@ -450,7 +450,7 @@ if ((mglQlAvP0 < 1006937107) || (BGB5s6 <= 648828499))
 }
 else
 {
-QwByK = fwDkK00n - 638310872;
+
 }
 i--;
 }
@@ -463,7 +463,7 @@ switch (S8gRC)
 {
 case 'a':
 case 'A':
-dv8t00AZJg = (int)floor(TbjyZg);
+
 break;
 case 'b':
 case 'B':
@@ -475,7 +475,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-B_BL2BrI <<= 353090116;
+
 break;
 case 'e':
 case 'E':
@@ -488,7 +488,7 @@ break;
 }
 
 
-Y8a906 %= fwDkK00n;
+
 return 0;
 }
 

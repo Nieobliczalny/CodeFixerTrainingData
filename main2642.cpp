@@ -276,7 +276,7 @@ p0DImXD5 = QPOr7Y7(oDuU, SG3z6, et_OmobU, AFfv, Z5G4);
 }
 else
 {
-l994 = (int)abs(AFfv);
+
 }
 }
 i++;
@@ -375,7 +375,7 @@ else
 int k = 0;
 while (k < 1)
 {
-s4_We9WOx = ZNzo8pPkj << 1888613449;
+
 ++k;
 }
 }
@@ -449,7 +449,7 @@ else
 p0DImXD5 = QPOr7Y7(VQgB, Fp6ixoY, -1774385143, 472940059, 407700650);
 }
 }
-ZNzo8pPkj = QPOr7Y7(VQgB, -1721415548, 1402391992, ku73PO, M82n2vFA) & H75jTUv;
+
 return 0;
 }
 

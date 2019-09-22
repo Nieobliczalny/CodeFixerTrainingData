@@ -93,7 +93,7 @@ int main(int argc, char** argv)
  long BglP1;
 
  unsigned short XV1YvVhk81;
- XV1YvVhk81 = 147908089;
+
  unsigned short int YHSk;
  YHSk = 962100873;
  char Bzy36cSK3e;
@@ -105,7 +105,7 @@ int main(int argc, char** argv)
   short  RUOS;
 
  unsigned long H8OhoPn;
- H8OhoPn = 1964505158;
+
     short    bNds;
     bNds    =    41710233;
 	unsigned int	O9Jy;
@@ -756,7 +756,7 @@ else if (Wd8V_H0H < td9JUPlZE_)
 }
 else if (bNds & Yf1S0YJxk9)
 {
-NaWuEYRb = (int)ceil(JqB13133_);
+
 }
 else
 {

@@ -14,7 +14,7 @@ int main(int argc, char** argv) {
 	unsigned short int	jXMe155;
 	jXMe155	=	-558041951;
   short  Y72DiCCG5f;
-  Y72DiCCG5f  =  0;
+
 	float	zQz4NC;
 	zQz4NC	=	1039976452;
  long double VwF1aBy;
@@ -38,7 +38,7 @@ int main(int argc, char** argv) {
 	long	tpsJ769PuW;
 	tpsJ769PuW	=	98282135;
     long double    Zwk5S;
-    Zwk5S    =    -1735221786;
+
     unsigned int    ZV0pl_;
     ZV0pl_    =    -1676355070;
  unsigned long long RnQAiz;
@@ -48,7 +48,7 @@ int main(int argc, char** argv) {
     unsigned char    e9tl;
     e9tl    =    309005731;
     long long    VOcz5_;
-    VOcz5_    =    816665676;
+
   unsigned short  Ld3N043;
   Ld3N043  =  -523477179;
  unsigned long T64_2yKwI;
@@ -60,7 +60,7 @@ int main(int argc, char** argv) {
     short    xDIg3g_y2H;
 
   unsigned long  vw_gdz58_;
-  vw_gdz58_  =  0;
+
 	long	DkvS;
 	DkvS	=	-709166345;
     short    qI0Y09_iM;
@@ -70,7 +70,7 @@ int main(int argc, char** argv) {
   unsigned char  G0f9_UUYr;
   G0f9_UUYr  =  -1391566105;
     int    I39qjQuYSM;
-    I39qjQuYSM    =    -1765310555;
+
   long long  v16N1;
 
     long long    iDue6XBo;
@@ -98,7 +98,7 @@ if (js2Uny <= kuc73)
 switch (v8j2)
 {
 case 0:
-e9tl = tv58 | 2033452205;
+
 break;
 case 1:
 xDIg3g_y2H ^= 1826146304;
@@ -145,7 +145,7 @@ if (jXMe155 & RnQAiz)
 }
 else
 {
-v16N1 = y58g * 157140655;
+
 }
 }
 }
@@ -156,7 +156,7 @@ else
 
 vw_gdz58_ = (unsigned long)(y58g * (kuc73));
 
-qI0Y09_iM = t314r / vw_gdz58_;
+
 
 if (RnQAiz != -1078463650)
 {
@@ -166,7 +166,7 @@ if (zQz4NC >= kuc73)
 }
 }
 
-lf42D = (int)ceil(hmAJYo);
+
 
 return 0;
 }

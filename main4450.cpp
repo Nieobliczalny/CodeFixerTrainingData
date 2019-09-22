@@ -417,7 +417,7 @@ case 'b':
 qbG74 = (int)ceil(AznmpZpJv1);
 break;
 case 'c':
-Pfk5_ += 900272016;
+
 break;
 case 'd':
 d5dH1 &= a5bFT;
@@ -529,7 +529,7 @@ else if (M1C_Yc6 >= fufs7E)
 {
 try
 {
-Pfk5_ = YSzCe / SV_P68I;
+
 }
 catch (int& errorCode)
 {
@@ -700,7 +700,7 @@ case 2:
 M7a8Af23 /= 653322135;
 break;
 case 3:
-fHn54dyK = g9f3N2Y & D1849Diq;
+
 break;
 case 4:
 YSzCe = CAy9 / 1707855098;
@@ -750,7 +750,7 @@ case 'a':
 
 break;
 case 'b':
-uKOv8wo = (int)abs(f9U___e1M7);
+
 break;
 case 'c':
 M1C_Yc6 ^= 867213382;

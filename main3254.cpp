@@ -431,7 +431,7 @@ CsM_q4y2 = (unsigned short)(w1AIFz);
 
 
 
-CsM_q4y2 /= avqRNFJ;
+
 {
 int i = 0;
 do

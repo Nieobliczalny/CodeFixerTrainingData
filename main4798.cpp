@@ -148,7 +148,7 @@ case 5:
 
 break;
 case 6:
-gZNqJT65 ^= b3N8q8KBOc;
+
 break;
 case 7:
 Xu53qImnm <<= 214191830;
@@ -314,7 +314,7 @@ else
 {
 cmDnv = (int)floor(Sk975);
 }
-gZNqJT65 = Xu53qImnm + F31ZS;
+
 
 if (KVuv8 & 1147069918)
 {
@@ -361,7 +361,7 @@ case 1:
 y6u5QS = J4lRv(1929415867, QJM04, iGFt_V0eI, 2108613267, yMADFWmvi);
 break;
 case 2:
-Sk975 = (int)floor(Q0hP6K0kY);
+
 break;
 case 3:
 
@@ -373,7 +373,7 @@ case 5:
 yMADFWmvi = J4lRv(619852218, -1522583930, -559666391, hu_4hfl0w, -1099862473);
 break;
 case 6:
-zVrM8QPcKE = rC6n1YrW();
+
 break;
 case 7:
 
@@ -390,7 +390,7 @@ if ((b3N8q8KBOc & 2087410414) || (df3D7BTga <= jMw3))
 }
 else if (Q0hP6K0kY > iOt_vw)
 {
-iceUiW0 = rC6n1YrW();
+
 }
 else if ((yMADFWmvi > hu_4hfl0w) || (OX4Zzjx4Ss & 1597163750))
 {
@@ -426,7 +426,7 @@ for (int k = 0; k < 8; k++)
 }
 else if (Fz9R)
 {
-iceUiW0 = rC6n1YrW();
+
 }
 else if (cmDnv <= 1548467551)
 {
@@ -478,7 +478,7 @@ hu_4hfl0w /= J781E58OV;
 
 
 std::cout << y6u5QS << rC6n1YrW() << std::endl;
-KVuv8 = (unsigned short)(jMw3);
+
 Xu53qImnm *= jMw3;
 {
 int i = 8;
@@ -496,7 +496,7 @@ switch (jMw3)
 {
 case 'a':
 case 'A':
-jMw3 = y1_2v4C / IwzzltW_YQ;
+
 break;
 case 'b':
 case 'B':
@@ -512,7 +512,7 @@ Xu53qImnm++;
 break;
 case 'e':
 case 'E':
-Vu0igMWtU = (int)floor(Fz9R);
+
 break;
 case 'f':
 case 'F':
@@ -524,7 +524,7 @@ J781E58OV &= 727685851;
 break;
 case 'h':
 case 'H':
-acH5g9 >>= rNLME3;
+
 break;
 case 'i':
 case 'I':

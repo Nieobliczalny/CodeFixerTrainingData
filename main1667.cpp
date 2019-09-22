@@ -44,7 +44,7 @@ int main() {
     unsigned short    H83474;
     H83474    =    -1964595819;
  unsigned int ZRRHX5Y8Uh;
- ZRRHX5Y8Uh = -780977078;
+
     long double    hO4JyQ6;
     hO4JyQ6    =    1235643499;
  double QXID;
@@ -54,7 +54,7 @@ int main() {
  short int X6M9A7Cf;
  X6M9A7Cf = 948871273;
  long double W5fLE4_J8;
- W5fLE4_J8 = -853347344;
+
     unsigned int    k4tJk5;
     k4tJk5    =    0;
     int    Y90S;
@@ -66,7 +66,7 @@ int main() {
  double k5vug79iML;
  k5vug79iML = 349910053;
   long long  FIl_1whX7;
-  FIl_1whX7  =  -1900137669;
+
  unsigned int xw5c;
 
 	unsigned long	fW7_;
@@ -82,7 +82,7 @@ int main() {
     unsigned long long    ys__2;
 
     char    ZLVZ2;
-    ZLVZ2    =    756825194;
+
     long    Cylmy1;
     Cylmy1    =    -1488248660;
     long    XF6trY;
@@ -96,7 +96,7 @@ int main() {
 	float	Cz11;
 
     short    b58451;
-    b58451    =    1696797029;
+
   short int  I1tXC;
   I1tXC  =  -830999998;
   unsigned short int  EPt7Il;
@@ -110,7 +110,7 @@ int main() {
 
 W5fLE4_J8 = Lf_zWd6SH / NdrIz18VM;
 std::cout << H83474 << "A1KM4q4Z" << std::endl;
-I1tXC = (int)abs(k5vug79iML);
+
 for (int i = 0; i < 2; ++i)
 {
 if (JZN94w < 580865735)
@@ -128,7 +128,7 @@ else if (XVbS754V2 <= 437813029)
 {
 if (Y90S == 377036913)
 {
-QXID = (int)ceil(Lf_zWd6SH);
+
 }
 }
 else if (cBnO)

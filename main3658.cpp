@@ -281,7 +281,7 @@ If65W = (int)floor(fWEBCw5G);
 break;
 case 'b':
 case 'B':
-wv_1Lz ^= 332688904;
+
 break;
 }
 {
@@ -403,7 +403,7 @@ else if (B214_RJBJw)
 {
 try
 {
-gp5M954 = (int)abs(eZ8b235N);
+
 }
 catch (int& errorCode)
 {

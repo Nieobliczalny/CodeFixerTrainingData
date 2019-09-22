@@ -475,7 +475,7 @@ else if ((iaDX >= zBsSQ1) || (pvtywt1Y == 620438029))
 }
 else if (r_X8 != th6vp7)
 {
-cdHL9A6_PT = (int)abs(iaDX);
+
 }
 else if (Fqciz0__6 > SH0kL)
 {
@@ -491,7 +491,7 @@ Ir8Z = LCpbXd7(xw6Xb, RIJ5);
 }
 else
 {
-y9p4TGb = (int)ceil(K07Bwrh);
+
 }
 ++j;
 }

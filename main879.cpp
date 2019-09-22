@@ -74,7 +74,7 @@ int main()
     long double    fw7BMe;
     fw7BMe    =    -733702578;
     char    PA__8lK;
-    PA__8lK    =    1943264390;
+
  long long HluI4tX3;
  HluI4tX3 = 0;
 	unsigned short	Dti64;
@@ -142,7 +142,7 @@ int main()
 	float	UvWuL;
 	UvWuL	=	1582615647;
 	short int	Rex7A6K;
-	Rex7A6K	=	1936542364;
+
     unsigned short    P9xRC;
     P9xRC    =    -1240398435;
 	unsigned char	JEhUY3kh4S;
@@ -170,7 +170,7 @@ int main()
  float T3B7Ao09;
  T3B7Ao09 = -383187956;
     long    flJ_h;
-    flJ_h    =    1420104169;
+
 	long	er7VTKl4;
 	er7VTKl4	=	914778172;
     unsigned long    q5Fv1;
@@ -206,7 +206,7 @@ int main()
 	short int	xRr4UiJ8;
 	xRr4UiJ8	=	557459687;
 	short int	WSeYXWC9;
-	WSeYXWC9	=	-951545653;
+
     char    bdbg6vD45Y;
     bdbg6vD45Y    =    1152503110;
   unsigned short int  tK9XGpro_3;
@@ -553,7 +553,7 @@ else if (zT5DarFx & c058d)
 }
 else if (Vmua & -1738369386)
 {
-S8n4v = ROBheRuYF(E1S2, -910766896, LpgsY, 2045282459) << 18521022;
+
 }
 else
 {
@@ -625,7 +625,7 @@ case 'd':
 u1dT3v643 = Vmua << 669777814;
 break;
 case 'e':
-Y2LEVo85 = GuBJy_F3(1932506431, E1S2, 2125309153, Fv_cj);
+
 break;
 case 'f':
 oMCNr = ROBheRuYF(oMCNr, hcE_, X8_ikqzs, -2081298424);
@@ -737,7 +737,7 @@ while (i >= 0);
 
 
 
-flJ_h = (int)abs(M0XoAr);
+
 w0V3NI0a_R = jc_Y4z69 >> P9xRC;
 if (sdYky47TZQ > 2045142084)
 {
@@ -839,7 +839,7 @@ case 4:
 
 break;
 case 5:
-vLAa = (int)abs(dTmW53eK9);
+
 break;
 }
 }
@@ -870,7 +870,7 @@ else if ((GzpBwmMk4h < -953626341) || (NCJ192XzO < 501462808))
 }
 else if (MI9usk > -51134520)
 {
-Pz94GXuZ = CPVpeY & 810513142;
+
 }
 else if (v9PN9czIeE > c058d)
 {
@@ -882,7 +882,7 @@ else if (Pz94GXuZ)
 }
 else if (SYIibL_Es5 != h172r_HjP)
 {
-UvWuL = (int)ceil(u1dT3v643);
+
 }
 else
 {
@@ -910,7 +910,7 @@ w8od = ROBheRuYF(-489373207, 1206081646, bdbg6vD45Y, -288537319);
 }
 else if (zT5DarFx <= -189250696)
 {
-h2Pqhy_1zD %= 943792063;
+
 }
 else if (uJfqbj15w)
 {
@@ -939,7 +939,7 @@ case 0:
 
 break;
 case 1:
-sdYky47TZQ = (int)floor(u96O);
+
 break;
 case 2:
 nRV83 = GuBJy_F3(T3B7Ao09, -826509408, E624hDE_, Dti64);
@@ -958,7 +958,7 @@ else
 
 }
 
-r53LCZCrxA = (long long)(SUBP3Wdznr);
+
 
 for (int i = 0; i < 9; i++)
 {
@@ -997,7 +997,7 @@ else
 switch (oMCNr)
 {
 case 0:
-c058d = UvoSRsjX5T / 315368845;
+
 break;
 case 1:
 
@@ -1009,7 +1009,7 @@ case 3:
 p0E_n3H %= 1973557677;
 break;
 case 4:
-h2Pqhy_1zD = er7VTKl4 ^ 1775126683;
+
 break;
 case 5:
 

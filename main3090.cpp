@@ -33,7 +33,7 @@ int main()
  char e9G0xByO;
  e9G0xByO = -1029720492;
   unsigned long  TAg3BaG;
-  TAg3BaG  =  977543375;
+
     unsigned long    dw5YN4;
     dw5YN4    =    -561212119;
 	unsigned int	J3s7X;
@@ -262,7 +262,7 @@ U1256 = s3AE6057B();
 break;
 case 'd':
 case 'D':
-DI_sKeslR &= BI78KxKuL;
+
 break;
 case 'e':
 case 'E':
@@ -469,7 +469,7 @@ for (int i = 0; i < 9; i++)
 
 }
 
-qPSI = (int)abs(TBAA);
+
 LKV6984ZL = (double)(rTiPVF74z + (-962043002));
 
 jcK7R24vw = ot7gF3(jcK7R24vw, -290047270, -1723100643);

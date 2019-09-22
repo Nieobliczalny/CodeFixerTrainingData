@@ -124,7 +124,7 @@ else
 {
 for (int k = 0; k < 9; k++)
 {
-a9E4QB94U = AjSuUo();
+
 }
 }
 }
@@ -163,7 +163,7 @@ else if (a9nx7Y27DL == mc2M7_ntq1)
 switch (z2_sHBXgn)
 {
 case 0:
-A03x_K2K5 = ExIqfSmzrG();
+
 break;
 case 1:
 Egwc = UM67Aap(Egwc, -511494932, 1350783228, -1405381710);
@@ -175,7 +175,7 @@ case 3:
 
 break;
 case 4:
-a9E4QB94U = (int)abs(Bw_x__2xu6);
+
 break;
 case 5:
 HAqR = (int)abs(Egwc);

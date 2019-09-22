@@ -75,7 +75,7 @@ int main(int argc, char** argv)
     unsigned short int    P6xa;
     P6xa    =    294698811;
   unsigned long long  oL9lIBo;
-  oL9lIBo  =  -1264563858;
+
 	unsigned int	ZeHnf;
 	ZeHnf	=	-1178952430;
   long  sCeRaFPaEn;
@@ -551,7 +551,7 @@ case 0:
 
 break;
 case 1:
-mtusg2A7vt = Dly2bhty6 % G_cRvEk7Ay;
+
 break;
 case 2:
 H_fY = nADByD();
@@ -637,7 +637,7 @@ else if ((Yoy__zRVdF == Dly2bhty6) || ((Y28q6 <= Dly2bhty6) || (U294FcY <= -1270
 {
 if (sCeRaFPaEn)
 {
-Y28q6 /= 852578679;
+
 }
 }
 else if ((zMapUP != -1129165603) && (v8KA == Ta7Hq2C))
@@ -657,7 +657,7 @@ case 1:
 yUg2HU4 = (int)floor(bSO5);
 break;
 case 2:
-G_cRvEk7Ay -= 1031291671;
+
 break;
 case 3:
 v8KA = k4g24(882578741);
@@ -718,7 +718,7 @@ else if ((Bqb_5 >= jdxtuh9P7) || (k0d_Ku4Z & Dly2bhty6))
 }
 else if (QZRWz & ie20)
 {
-X70Mh_66B = (int)floor(yUg2HU4);
+
 }
 else if (I41xOVVu & Ta7Hq2C)
 {
@@ -743,7 +743,7 @@ case 1:
 Ur4VI5 /= 1899268316;
 break;
 case 2:
-zMapUP = QZRWz & U294FcY;
+
 break;
 case 3:
 k0d_Ku4Z %= Mp82;
@@ -755,7 +755,7 @@ case 5:
 ZeHnf >>= DfH_TJ03WL;
 break;
 case 6:
-t204pek /= Yoy__zRVdF;
+
 break;
 case 7:
 K56n = l3jJ5z + 2145735096;

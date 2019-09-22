@@ -11,7 +11,7 @@ using namespace std;
 int main()
 {
  int Dy6JYPxnQ, V8CTv, qLFo6DO8H, oSaE6, f4k215GK8;
- Dy6JYPxnQ = 0;
+
  V8CTv = 0;
  qLFo6DO8H = 0;
  oSaE6 = 0;
@@ -30,7 +30,7 @@ int main()
   G235P  =  1137133894;
   e14n2c5x77  =  -884444740;
   FgEAhUL  =  374074824;
-  H8K1_8G  =  795123875;
+
 
 {
 int i = 5;
@@ -68,7 +68,7 @@ case 'c':
 B0ZP_5b4WN = (FgEAhUL <= -898808168) ? SUVu1OIM2Y : SUVu1OIM2Y;
 break;
 case 'd':
-Dy6JYPxnQ = (int)abs(f4k215GK8);
+
 break;
 case 'e':
 Dy6JYPxnQ = (int)abs(oSaE6);
@@ -94,7 +94,7 @@ case 'b':
 
 break;
 case 'c':
-O8XPno = frxhs5 ^ e14n2c5x77;
+
 break;
 case 'd':
 VA5836Vm = (f4k215GK8 > InftO002X) ? O8XPno : -1349976429;
@@ -109,7 +109,7 @@ case 'g':
 
 break;
 case 'h':
-G235P <<= B0ZP_5b4WN;
+
 break;
 case 'i':
 FgEAhUL <<= Nr3xuJ;
@@ -131,7 +131,7 @@ else
 
 }
 qLFo6DO8H = (int)(B0ZP_5b4WN * qLFo6DO8H);
-VA5836Vm = l5tp * 169783522;
+
 
 try
 {
@@ -145,7 +145,7 @@ B0ZP_5b4WN = FgEAhUL << 1483559334;
 
 if (OSb6 >= qLFo6DO8H)
 {
-OSb6 = (unsigned long)(FgEAhUL);
+
 }
 else
 {

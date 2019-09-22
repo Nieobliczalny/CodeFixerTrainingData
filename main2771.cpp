@@ -168,7 +168,7 @@ while (i < 2)
 switch (Z_X0E)
 {
 case 'a':
-Ouh9iJ_m = (int)abs(fS04G6U6);
+
 break;
 case 'b':
 wzx3Cya3Nq = n_5pJ(wzx3Cya3Nq);
@@ -275,7 +275,7 @@ bOT_p098 = n_5pJ(592888190);
 break;
 case 'c':
 case 'C':
-KqujMU5 = n_5pJ(KqujMU5);
+
 break;
 case 'd':
 case 'D':
@@ -378,7 +378,7 @@ for (int k = 0; k < 2; ++k)
 }
 while (i >= 0);
 }
-Z46yvJePji = (int)ceil(gJSd);
+
 {
 int i = 2;
 while (i >= 0)
@@ -421,7 +421,7 @@ case 0:
 qq4D3O_ = QsQY(lW4k, v9667nU9Zb, -482185595, Vp_pH);
 break;
 case 1:
-ljQ_S5c71o |= YMNu;
+
 break;
 case 2:
 
@@ -433,7 +433,7 @@ case 4:
 XZuy8 = n_5pJ(XZuy8);
 break;
 case 5:
-wzx3Cya3Nq = (int)abs(tl_O);
+
 break;
 }
 

@@ -306,7 +306,7 @@ else if (KOVas_ != oDSQ51)
 {
 if ((lI9xK03FF < 1932992655) || (KOVas_ < smD2J0))
 {
-Pa_986 = (int)abs(ddJZd69b);
+
 }
 }
 else if (QIi1_38xK < WshUTnrl)

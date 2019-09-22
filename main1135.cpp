@@ -626,7 +626,7 @@ cKe9ds3h *= E50_323J3p;
 }
 }
 
-UQw9vw = (short int)(NSS90f3a21 + (1889780374));
+
 std::cout << Ue68jWtM9g(QdtX610Q6, -1784593526, pJ9Z62yaHJ, -237646430) << "enK77h958" << w_KM2M02Tv << "n0Q31" << std::endl;
 for (int i = 0; i < 9; i++)
 {
@@ -656,7 +656,7 @@ else
 }
 else
 {
-mhU7W7 = (short int)(qI_dk9wLX);
+
 }
 
 return 0;

@@ -638,7 +638,7 @@ try
 {
 if (CA6HXW > -1772830420)
 {
-Nj7YV = UXmey8N8hW ^ jXpS89mlgJ;
+
 }
 }
 catch (int& errorCode)

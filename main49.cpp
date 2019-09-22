@@ -43,7 +43,7 @@ case 1:
 
 break;
 case 2:
-vnAA7 = AFu5O8r0(1508192132);
+
 break;
 case 3:
 O1_jj = C1Ig % 1902796722;
@@ -109,7 +109,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-Fb_3k = AFu5O8r0(-1887454024) + R266;
+
 break;
 }
 j--;
