@@ -32,7 +32,7 @@ int main(void) {
 
 gN0q7M_7p_ = (int)floor(KbD98MZ1);
 
-Vb61DXthMv = rCi7rhdh * 1084625861;
+
 try
 {
 
@@ -227,7 +227,7 @@ if (VK_g4 <= Bf491OCJ)
 {
 
 }
-l9wFJr06 += 1941748005;
+
 std::cout << aa4961N_I << c3dMyYl3Z(-1584343680) << k_2S << y400 << LJqNM4SQ_(W15La4, 2137500260, -1617182642, -792116348) << std::endl;
 i60aJc = (long double)(UHLt0lO0);
 m230K1XE = c3dMyYl3Z(t9kP6);
@@ -261,7 +261,7 @@ else if (lQ8hJ0L_99 <= rCi7rhdh)
 }
 else if (((s9sKt < RE_7z7sq) && (izr5k7Cs == P04H1Fqmh)) && ((JH6bFIr) || (VyV2 == ZxGJOxZ)))
 {
-i7ad = XuX3 - s9sKt;
+
 }
 else
 {
@@ -292,7 +292,7 @@ case 0:
 
 break;
 case 1:
-Vb61DXthMv = (int)floor(hy0KR);
+
 break;
 case 2:
 
@@ -304,7 +304,7 @@ case 4:
 
 break;
 default:
-CKgyJAR22 = (int)abs(PdCOwOrX4C);
+
 break;
 }
 

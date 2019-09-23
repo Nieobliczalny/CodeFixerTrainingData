@@ -30,7 +30,7 @@ int main(int argc, char** argv)
  unsigned char U7S_5i5Cnx;
 
     short int    K_5fd;
-    K_5fd    =    -520857415;
+
     short int    Ob21O_MA;
     Ob21O_MA    =    -1615527368;
 	char	kL2F_hTwgm;
@@ -42,7 +42,7 @@ int main(int argc, char** argv)
     unsigned short    y710FvQX5;
 
 	unsigned long	M6_4;
-	M6_4	=	1797340037;
+
     unsigned long    Y_1ue1j;
 
  unsigned int sQt2Ld6;
@@ -56,7 +56,7 @@ int main(int argc, char** argv)
 	long double	ryW79X2;
 
   short  tmWb_C65o;
-  tmWb_C65o  =  403086797;
+
     unsigned short int    B_QI;
     B_QI    =    600758768;
  short y8v3w3Rg1;
@@ -74,7 +74,7 @@ int main(int argc, char** argv)
     long long    FVtMrv;
 
   unsigned short  Uq_8;
-  Uq_8  =  -838244657;
+
     unsigned long    iEd5O400;
 
  char F_x238;
@@ -84,7 +84,7 @@ int main(int argc, char** argv)
  float mA22n;
 
 	unsigned int	nD_40T;
-	nD_40T	=	-1408639787;
+
     float    nHBiNh8sp;
 
  long long FXe94Z3CG8;
@@ -98,7 +98,7 @@ int main(int argc, char** argv)
  unsigned short int tvV3Yrc7J;
 
  float fs6qgxq4d2;
- fs6qgxq4d2 = -1678207883;
+
     short    NO_npB6;
     NO_npB6    =    1080939939;
     int    M20el5SK_;
@@ -108,7 +108,7 @@ int main(int argc, char** argv)
 	int	h8LrOHbE6W;
 
     int    KA0U3Yn5;
-    KA0U3Yn5    =    -465308521;
+
 	short int	omj1K;
 	omj1K	=	1667400316;
   float  Lk4B566v;
@@ -120,7 +120,7 @@ int main(int argc, char** argv)
   short int  a7RL7T9;
 
     unsigned long    fuIPp52HWE;
-    fuIPp52HWE    =    1881708327;
+
   long  NPs_R26_N;
 
 	unsigned int	x1_ZBM7;
@@ -136,7 +136,7 @@ int main(int argc, char** argv)
   unsigned int  xoS5sk;
 
 	float	dQmd;
-	dQmd	=	1196833210;
+
  unsigned int x2VN3;
  x2VN3 = 1834069675;
   int  CuF9m;
@@ -152,7 +152,7 @@ int main(int argc, char** argv)
   float  GAYVnuV;
 
 	int	ozRicFPYR;
-	ozRicFPYR	=	1651839627;
+
  int uSBt1589;
  uSBt1589 = 0;
 	unsigned int	wCx2vkqlVY;
@@ -162,7 +162,7 @@ int main(int argc, char** argv)
     short    KBOjrb;
 
 	unsigned int	MAmA;
-	MAmA	=	0;
+
     long long    m_wYvGjh;
 
 
@@ -191,7 +191,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-ozRicFPYR = mO4Hi6ge * Y6_7CH20Du;
+
 break;
 case 'd':
 case 'D':

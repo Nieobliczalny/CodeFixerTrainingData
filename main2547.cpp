@@ -142,7 +142,7 @@ break;
 
 
 VeXQcx3K2 = L9Xe39(-664992975, RNMVm9H, 704021488, Ag_m6V3);
-y_f6916CHi = (int)floor(q2p_8NN);
+
 
 HqEH = TKZs8Z();
 
@@ -296,7 +296,7 @@ else if (q2p_8NN >= Q_Zj10)
 }
 else if (WYt61VC != ImIn_iDJ78)
 {
-n25T %= 1812588233;
+
 }
 else if (WYt61VC < e1n99QAD)
 {

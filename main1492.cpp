@@ -41,7 +41,7 @@ int main(void)
  T72b3 = -668581896;
  y_1_kmBUD_ = -1448237403;
  C2b65vOW = 1099463490;
- fLCX9 = -419980936;
+
  K5d7 = -1271648241;
  Pze04 = 1560550774;
  azk9265 = 35458769;
@@ -66,7 +66,7 @@ int main(void)
 
  H23H_28t = 760279310;
  YbY2 = 71608885;
- ecxDorzxVW = -1502708988;
+
  kdDxf = 393075225;
  ojCUFDTIN = 1190260854;
  L5edgbCU = 871563410;
@@ -183,7 +183,7 @@ while (j < 3)
 switch (mn5f)
 {
 case 'a':
-Pze04 = l7_MYCy1(53185626, -1561625258, 190675261);
+
 break;
 case 'b':
 P7_de = (int)ceil(kdDxf);
@@ -227,7 +227,7 @@ case 4:
 
 break;
 case 5:
-fLCX9 = (int)abs(H23H_28t);
+
 break;
 case 6:
 fLCX9 = Sx46 - n7s2zad;
@@ -263,7 +263,7 @@ while (j < 7);
 
 
 YbY2 = SAJ9(1190235346, 135651106, -990375767, 2033538523, 99307481);
-K5d7 = -1258305956 / mn5f;
+
 P7_de = SAJ9(893698418, -1675569126, -795373168, -542541813, -1324919989);
 
 for (int i = 0; i < 7; ++i)
@@ -352,7 +352,7 @@ else if (((xO9fl1qo) || (pVb1x_yP < 310574537)) && (MD2kbUA < pFltRO))
 }
 else if (((dSZh4E3 > -1215175016) || (joq2 >= C2b65vOW)) || (mn5f))
 {
-t1Zj = (int)floor(YOfsUn);
+
 }
 else
 {
@@ -394,7 +394,7 @@ while (i >= 0)
 
 BL2XDy6d58 = l7_MYCy1(BL2XDy6d58, ojCUFDTIN, CvrXwNW3ls);
 std::cout << BL2XDy6d58 << "M__UBZNa" << "PrTW_YGF" << hIZWi << std::endl;
-pxkx = l7_MYCy1(pxkx, -1449783261, -237368130);
+
 
 {
 int i = 10;

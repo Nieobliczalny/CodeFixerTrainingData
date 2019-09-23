@@ -296,7 +296,7 @@ for (int j = 10; j >= 0; --j)
 {
 if ((jnulHn64 > xac_o) && ((x5UTmWxk8 != -1944089479) && (iAxG8V1 & Im6In_)))
 {
-KL9K_x = (int)abs(S5c4);
+
 }
 }
 }
@@ -329,7 +329,7 @@ else
 {
 
 }
-Ijrc6hO4U = (int)ceil(kaSp);
+
 W6cq6 = u9Ot9t(S5c4, 1284934096, Dnab4U_, z12H_ue);
 
 {

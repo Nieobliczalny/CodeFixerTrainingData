@@ -20,7 +20,7 @@ int main(int argc, char** argv)
     unsigned long long    Uvi251,    WOPP3l8b,    lM3w1K6,    DX5r5k39,    zzyKS8t,    oma44r4,    N3A9xyXw,    TMv9juP,    mRv2B,    z_Spa,    Y0a0yNRGhz,    a321Ua4,    ylPg,    PsL_ZN,    Txls0Py0M,    fcAL6__,    W3RfV5r53f,    c57RsYvVU,    jH0x8z1,    XIuJ35,    fhkVhC2g9e,    THR6nSqHq,    e456hOQ,    ZPVu_73V3,    Xg68b8e,    Iu6Kj,    AS13,    VmeU,    mIm_TlS1AG;
     Uvi251    =    1006546932;
 
-    lM3w1K6    =    -907939438;
+
 
     zzyKS8t    =    616260107;
     oma44r4    =    1509112920;
@@ -30,7 +30,7 @@ int main(int argc, char** argv)
     z_Spa    =    107181583;
     Y0a0yNRGhz    =    -547866661;
 
-    ylPg    =    -388331658;
+
 
     Txls0Py0M    =    -2087689053;
     fcAL6__    =    849056831;
@@ -40,7 +40,7 @@ int main(int argc, char** argv)
     XIuJ35    =    2084138655;
     fhkVhC2g9e    =    163464350;
 
-    e456hOQ    =    -1345712480;
+
     ZPVu_73V3    =    1151541991;
 
     Iu6Kj    =    -1054144487;
@@ -77,7 +77,7 @@ for (int k = 7; k >= 0; --k)
 }
 
 std::cout << dC057(1117172692, 1024016121, -1157756945) << std::endl;
-e456hOQ = lOOpE / iKZ0s_I;
+
 return 0;
 }
 

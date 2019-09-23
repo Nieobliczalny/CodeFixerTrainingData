@@ -32,6 +32,7 @@ unsigned long long  O4g14NZX6(unsigned long long  vBa7,unsigned long long  z7NQ)
 
 int main(int argc, char** argv) {
  unsigned short qKsFpP, YUw6LG0m, K2UbI;
+  // codechecker_intentional [deadcode.DeadStores] Design rule - initialize all variables
   qKsFpP = YUw6LG0m = K2UbI = 0;
  int nd_Fyx, AG35u, l56o, T1Ra0_d, a78Pd1wrtG, dP5PQk9, x_Uhn9A6, HG23TcS;
   nd_Fyx = AG35u = l56o = T1Ra0_d = a78Pd1wrtG = dP5PQk9 = x_Uhn9A6 = HG23TcS = -423636226;

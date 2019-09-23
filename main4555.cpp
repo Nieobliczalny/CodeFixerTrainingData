@@ -25,7 +25,7 @@ int main()
     dE83hz    =    1983704812;
 
     XnBD0    =    -28590398;
-    Rzu9fx8G_7    =    1468127270;
+
     fFYr3tTQ    =    -1662717963;
     z_zY5KqG    =    -242211583;
     UUC8Q    =    944161476;
@@ -37,7 +37,7 @@ int main()
 
     ul_15azx4    =    1214351341;
     F4EkvR9dQ    =    -564599613;
-    F5y5    =    -76059983;
+
     Rk9759    =    -2045157111;
 
     ahf7kARg3W    =    -975133395;
@@ -47,7 +47,7 @@ int main()
 
     V6lS0I7t    =    -2081318848;
     Ingd    =    -512567369;
-    pIe2_    =    1386795509;
+
     o74_8O    =    -742191297;
 
     N_9ll7grF6    =    776419682;
@@ -62,7 +62,7 @@ int main()
     f20TH    =    1342591514;
     F0wa1GLb    =    1344000891;
 
-    W6592Gn    =    -601325692;
+
     WP6Rfn    =    -1449788633;
     cpp9h3C    =    2053200120;
     D13M_T7I_    =    -1742224012;
@@ -72,7 +72,7 @@ int main()
     PG05l4x7zQ    =    -674091947;
     qG864    =    840695870;
 
-    Ah_X5ejl    =    93460403;
+
     AlZm    =    -779197554;
     QFXTZnJ    =    369596789;
     d8NzEEye4    =    1874149086;
@@ -83,7 +83,7 @@ int main()
     NdmHg6_7    =    219800479;
     nVcER31c    =    -1402960950;
 
-    nRbx9gE7D    =    -72480728;
+
     y81J08JLP    =    -170188016;
     U4s2q    =    -1562702372;
     Td1QxfkH    =    -611062622;
@@ -94,7 +94,7 @@ int main()
     TjU4j8cn6    =    637212112;
     Zx0eas1t    =    -524209603;
 
-    iFMRmiOK    =    -564166517;
+
     VFcWQ26N    =    1297632249;
     cYe0_tS6_a    =    1107312405;
     a1ij3W    =    1217776578;
@@ -126,7 +126,7 @@ break;
 
 if (itP3 & 889505453)
 {
-uX_D5 = (int)floor(F4EkvR9dQ);
+
 }
 else
 {
@@ -219,7 +219,7 @@ std::cout << Zx0eas1t << "GjL_4NevP" << mo8OFiW(F0wa1GLb, -1034701175) << std::e
 
 for (int i = 7; i >= 0; --i)
 {
-Gwx6vY = (int)floor(qG864);
+
 }
 
 
@@ -251,7 +251,7 @@ else
 }
 
 
-TjU4j8cn6 = (long double)(N_9ll7grF6);
+
 
 
 
@@ -275,7 +275,7 @@ case 4:
 
 break;
 case 5:
-NdmHg6_7 = (int)ceil(PG05l4x7zQ);
+
 break;
 default:
 Ingd = w4WqL_(-1567570664, F0wa1GLb, QFXTZnJ, -515995215);

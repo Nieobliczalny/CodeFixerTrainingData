@@ -210,7 +210,7 @@ case 4:
 
 break;
 case 5:
-W0_B08F_R = iet_T(133633040);
+
 break;
 case 6:
 BAKyg = K6eM(-2001042492, UZ1UBDG_);
@@ -497,7 +497,7 @@ if (Mc1WCW <= n8Rbn)
 int k = 10;
 do
 {
-R6v_3 = n8Rbn - J_U84LTi;
+
 --k;
 }
 while (k >= 0);
@@ -524,7 +524,7 @@ switch (Ij__eHs7k)
 {
 case 'a':
 case 'A':
-brs9jqN |= acR5i;
+
 break;
 case 'b':
 case 'B':
@@ -544,7 +544,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-h_iFR0Mr *= 1249937654;
+
 break;
 case 'g':
 case 'G':
@@ -589,7 +589,7 @@ else if (p9P696 == SniTv)
 }
 else if (vRG8 == Mf8rjir5QY)
 {
-K58V = WJ7P(sa44l6q, v_3_3Lp, 1708053320, -172531263);
+
 }
 else if (((NUsL != Sh_5JLyt) && (p9P696 > SniTv)) && ((z45SwV == CyAFYt) || (HHuV_FL5o9 & s2cs)))
 {
@@ -604,7 +604,7 @@ else
 }
 
 
-s4K2KDE = WJ7P(gT_N010y, C_Bxm, Ydp4_10, hZeREF2x7I);
+
 
 return 0;
 }

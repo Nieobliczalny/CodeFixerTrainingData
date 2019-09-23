@@ -133,7 +133,7 @@ case 2:
 
 break;
 case 3:
-g7DC7x = PPm2 ^ I24nwY;
+
 break;
 case 4:
 
@@ -151,7 +151,7 @@ case 0:
 
 break;
 case 1:
-M_ZiA7 = W8w22 * 83023283;
+
 break;
 }
 cout << -530673599 / cLdA9S5J1 << endl;

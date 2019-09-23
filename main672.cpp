@@ -228,7 +228,7 @@ case 'D':
 
 break;
 default:
-uzlp = (int)ceil(L9805O);
+
 break;
 }
 }

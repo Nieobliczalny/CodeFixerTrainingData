@@ -270,7 +270,7 @@ case 'c':
 AG2__UG = (o6x3 >= -1531637437) ? o6x3 : F5ktRL;
 break;
 case 'd':
-F5ktRL ^= 946194904;
+
 break;
 case 'e':
 zw4uH1 = (int)ceil(r_n9lDSA);
@@ -458,7 +458,7 @@ else
 switch (TnUlnXA)
 {
 case 0:
-V953di5_B = te7W6q7();
+
 break;
 case 1:
 V2uswa = (int)abs(zw4uH1);
@@ -599,7 +599,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-cnw8gD = (int)floor(fDrC);
+
 break;
 case 'd':
 case 'D':
@@ -611,7 +611,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-UJh207 = te7W6q7();
+
 break;
 case 'g':
 case 'G':
@@ -710,7 +710,7 @@ break;
 
 
 
-v7Uh9H2D = (unsigned long)(F84uNMrT * v7Uh9H2D);
+
 o77869co = te7W6q7();
 
 try

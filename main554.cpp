@@ -174,7 +174,7 @@ int k = 0;
 do
 {
 k++;
-uW1F7 = fe1Zm05(1239610353, XKHsp09NF, 432781266, -1585791740);
+
 }
 while (k < 2);
 }
@@ -188,7 +188,7 @@ else
 switch (E8cc84k)
 {
 case 0:
-uW1F7 = fe1Zm05(-1461846004, H4__81F1Km, -360222342, ySSb98k);
+
 break;
 }
 }
@@ -214,7 +214,7 @@ case 1:
 
 break;
 case 2:
-ySSb98k |= 1654008636;
+
 break;
 case 3:
 J5z6eR1b0 = N7K1d8Cw >> 1196078106;
@@ -269,7 +269,7 @@ case 'D':
 
 break;
 default:
-Pk069 &= 1965852251;
+
 break;
 }
 }
@@ -573,7 +573,7 @@ case 2:
 C33n6e = fe1Zm05(kRsEn, 283282640, 2070205152, -818958111);
 break;
 case 3:
-Cq3k = VghWb();
+
 break;
 case 4:
 
@@ -585,7 +585,7 @@ case 6:
 rynlfd = VghWb();
 break;
 case 7:
-CPWv_0cTm9 += 706221385;
+
 break;
 }
 return 0;

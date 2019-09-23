@@ -219,7 +219,7 @@ switch (R1omILiI6d)
 {
 case 'a':
 case 'A':
-QPHsqkt9 = J6U5ig | bU_2PT;
+
 break;
 }
 
@@ -239,7 +239,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-IE_yyT %= EMU3kMPW;
+
 break;
 case 'e':
 case 'E':
@@ -315,7 +315,7 @@ case 2:
 P5D4++;
 break;
 case 3:
-QMCN0zG <<= ULEa;
+
 break;
 case 4:
 

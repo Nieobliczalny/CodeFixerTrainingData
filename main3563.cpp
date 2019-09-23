@@ -41,7 +41,7 @@ int main(void) {
     unsigned long long    SCEQ90p;
     SCEQ90p    =    1301327540;
  char a0E_;
- a0E_ = 414803247;
+
  short int KLlF_;
  KLlF_ = -1563438401;
   double  GC8w9GZM51;
@@ -55,7 +55,7 @@ int main(void) {
  char m6_vJx4FX;
 
     int    XRzxC;
-    XRzxC    =    512688330;
+
  unsigned long long B67so;
  B67so = 1982966570;
  unsigned int cPc5TM4;
@@ -69,7 +69,7 @@ int main(void) {
  unsigned long long P0bUQ5;
 
 	short	K_TaUYH;
-	K_TaUYH	=	-409040361;
+
   int  E36H;
   E36H  =  1128613611;
 	unsigned short int	sw6F3k;
@@ -87,7 +87,7 @@ int main(void) {
     unsigned char    Cai1HCIDM;
     Cai1HCIDM    =    1491113302;
     short    oobUhiP7VG;
-    oobUhiP7VG    =    1632276613;
+
 	short int	K3ocQMdHJ;
 	K3ocQMdHJ	=	-1694852776;
 	char	i6Mh;
@@ -105,7 +105,7 @@ int main(void) {
     long    zUOUw;
     zUOUw    =    898301169;
 	long	F5g0ul3T;
-	F5g0ul3T	=	333121299;
+
  long long wM6Ad7EN5;
 
  long long ki1F_Ftfp;
@@ -115,7 +115,7 @@ int main(void) {
   unsigned short int  ef08;
   ef08  =  -1364761058;
     short    xf32Y77eXG;
-    xf32Y77eXG    =    -874783151;
+
  long long n_HFszy;
  n_HFszy = 1882368826;
     float    fCcPSn9F;
@@ -175,7 +175,7 @@ int main(void) {
  unsigned short int GVS564_UX7;
 
   long double  M065jwU8;
-  M065jwU8  =  -711687531;
+
 	long	E4jH;
 	E4jH	=	1511984541;
 	unsigned int	osOhhKKL;
@@ -187,7 +187,7 @@ int main(void) {
  long double jTBq802Xg;
 
   long long  STd006L;
-  STd006L  =  53872774;
+
   long long  tqqhl7_XI0;
   tqqhl7_XI0  =  162749691;
  long long sdWjCC1;
@@ -209,7 +209,7 @@ int main(void) {
 	short	dZmwdN;
 	dZmwdN	=	2035727080;
     unsigned long    fBjYR28;
-    fBjYR28    =    1516282579;
+
     short    gwVDaW;
     gwVDaW    =    -263464676;
     unsigned long    rX2xGD4jQ;
@@ -587,7 +587,7 @@ case 1:
 
 break;
 case 2:
-w_IvvR_0 = UsZNLLraH(2014308565);
+
 break;
 case 3:
 dZmwdN <<= dRIBVA;
@@ -599,7 +599,7 @@ case 5:
 
 break;
 case 6:
-W0e0C790U = (int)floor(bFECzB0);
+
 break;
 case 7:
 D_xe = tPA1_Y(rX2xGD4jQ, QYC8, -65489311, 840466324);
@@ -626,7 +626,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-jq_2YPu9 &= 830919554;
+
 break;
 }
 }
@@ -653,7 +653,7 @@ case 3:
 
 break;
 case 4:
-W1p_3Sz771 *= euWMw;
+
 break;
 case 5:
 

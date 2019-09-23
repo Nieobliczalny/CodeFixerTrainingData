@@ -34,7 +34,7 @@ int main()
   unsigned short  MP72T;
   MP72T  =  -1139860618;
  float r4q2m;
- r4q2m = -2107051291;
+
   unsigned long long  yYyVwHX;
 
  char WRfBfCj;
@@ -44,7 +44,7 @@ int main()
 	unsigned short int	Uu0Rw01_;
 
     long double    wM_N43Y3;
-    wM_N43Y3    =    -1900140665;
+
   unsigned short  i7V9U;
 
 	float	U95E;
@@ -68,7 +68,7 @@ int main()
 	long double	tH7F8P9;
 	tH7F8P9	=	-794198485;
  int ae1KJ6;
- ae1KJ6 = -1185217777;
+
 	unsigned long long	xE40b;
 	xE40b	=	-2145438645;
  short zV46y;
@@ -78,7 +78,7 @@ int main()
     double    pmRp;
     pmRp    =    1884982694;
  unsigned char TPsgv0;
- TPsgv0 = -1177298958;
+
  short int Mfr800z0R4;
  Mfr800z0R4 = -1388968555;
   int  Zm_i7q4H;
@@ -106,7 +106,7 @@ int main()
  unsigned short int uPbP;
  uPbP = 497352419;
     unsigned short    UFwB2vF2x0;
-    UFwB2vF2x0    =    2065997;
+
  short GaafD;
  GaafD = -2038917872;
 	unsigned long	qs9m_T;
@@ -130,7 +130,7 @@ int main()
   float  Pb884NR;
   Pb884NR  =  1979339040;
 	double	t_10gd;
-	t_10gd	=	2040063652;
+
   short int  eceV;
 
     unsigned short int    LRBw_iuk4W;
@@ -142,7 +142,7 @@ int main()
 	unsigned short	u_04Fue8Eo;
 	u_04Fue8Eo	=	-1888856742;
  unsigned char ItiL;
- ItiL = 160701081;
+
 	unsigned int	GUI9Zxwh;
 	GUI9Zxwh	=	900030093;
   unsigned long  p0IDo6S;
@@ -154,7 +154,7 @@ int main()
  unsigned long long tU409q5r;
  tU409q5r = 203689795;
     unsigned short    FyToyJ;
-    FyToyJ    =    -51509699;
+
 
 vn2PpAV8ou = gxU4();
 
@@ -233,7 +233,7 @@ case 'c':
 jvF547O6I <<= 1005899863;
 break;
 case 'd':
-oQzFrfA = siA0(1982529026);
+
 break;
 default:
 T9292Zl = gxU4();
@@ -305,7 +305,7 @@ case 1:
 
 break;
 case 2:
-oX3fkBE8s = (nv43GF9S8t >= Mfr800z0R4) ? WRfBfCj : tU409q5r;
+
 break;
 case 3:
 C7P63RTlI0 = (int)ceil(tH7F8P9);
@@ -406,7 +406,7 @@ C7P63RTlI0 = (int)floor(k7a67nQ);
 
 
 
-tU409q5r = siA0(-861356714);
+
 cout << "m57I7DG2u" << gxU4() << endl;
 
 GaafD >>= nv43GF9S8t;

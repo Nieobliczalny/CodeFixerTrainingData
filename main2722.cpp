@@ -294,7 +294,7 @@ case 5:
 c6_3qFZR = (int)floor(d815LjN22);
 break;
 case 6:
-nnrb27ve = (int)abs(SL091Sej) * 0;
+
 break;
 case 7:
 
@@ -305,7 +305,7 @@ break;
 }
 JK_7N = I6hY(64139925, yx6_x_p2, d815LjN22);
 
-vkSQJ = (long long)(yPPM8h);
+
 {
 int i = 4;
 do
@@ -348,7 +348,7 @@ c6_3qFZR += 2053175686;
 
 
 
-cnUjBPyzDk = (short)(k_kBm1U05Y);
+
 
 cnzfEBfq4 = (int)floor(TJ6569k42);
 return 0;

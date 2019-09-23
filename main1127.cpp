@@ -214,7 +214,7 @@ switch (Z69UhAKfwS)
 {
 case 'a':
 case 'A':
-yX82lW90C_ += Kvffn;
+
 break;
 case 'b':
 case 'B':
@@ -262,7 +262,7 @@ case 0:
 
 break;
 case 1:
-bS54l2CW = RcIht4P__ / Ow0_01m9;
+
 break;
 case 2:
 
@@ -295,7 +295,7 @@ case 2:
 Z69UhAKfwS--;
 break;
 }
-NUP39R = (int)floor(LG9z);
+
 xmaw69 = (int)ceil(LG9z);
 
 return 0;

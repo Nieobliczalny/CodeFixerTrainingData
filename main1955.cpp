@@ -610,7 +610,7 @@ case 'c':
 C8w0kr3GP >>= m403;
 break;
 case 'd':
-HKu3 = K17XqVZ179 & GR34;
+
 break;
 case 'e':
 
@@ -622,7 +622,7 @@ case 'g':
 
 break;
 case 'h':
-hMXgS >>= 1099866109;
+
 break;
 case 'i':
 

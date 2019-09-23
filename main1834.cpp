@@ -21,7 +21,7 @@ int main(void)
  long x7svu4eC;
 
   unsigned short  xV73NZ1;
-  xV73NZ1  =  -2097849760;
+
  long double umz5AGyE4;
  umz5AGyE4 = -931947508;
   unsigned int  yWQR8;
@@ -31,7 +31,7 @@ int main(void)
     unsigned long    w8XLD;
 
 	double	eQyB;
-	eQyB	=	1371146178;
+
 	unsigned short	TUPNe;
 	TUPNe	=	-1708622479;
  short int ZoJWGH;
@@ -43,7 +43,7 @@ int main(void)
 	long long	tdh5PY_kfp;
 
  long AGf6F1t;
- AGf6F1t = 1992848543;
+
   unsigned long long  ln55MrB4;
   ln55MrB4  =  -1263761856;
   unsigned char  MWwU6nlM50;
@@ -53,7 +53,7 @@ int main(void)
     short int    Atgv9B59n3;
 
   double  f4v5x76O1;
-  f4v5x76O1  =  -623669469;
+
 	char	jX6eV_;
 	jX6eV_	=	0;
 	short int	OIoh;
@@ -67,7 +67,7 @@ int main(void)
     unsigned int    V9y0sTy5c;
 
 	long	dkd8__Q0r;
-	dkd8__Q0r	=	479050771;
+
 	unsigned short int	OiIaht75N;
 	OiIaht75N	=	1570640907;
   double  eCHBPZr;
@@ -89,7 +89,7 @@ int main(void)
 	long double	s6_Qa2d2;
 
     short    vKP_k;
-    vKP_k    =    1350875169;
+
     unsigned short    AAP61_o6n;
     AAP61_o6n    =    -798640316;
   unsigned int  zdh3TP2I;
@@ -101,7 +101,7 @@ int main(void)
  unsigned short int U3VL847U;
 
  unsigned short int bhey4e6o;
- bhey4e6o = 40319556;
+
   unsigned long  L3mWv;
   L3mWv  =  86122936;
   float  gUaZpgJ2n_;
@@ -117,7 +117,7 @@ int main(void)
 	long double	t7av7ru06;
 
   unsigned short  BmsYfi0;
-  BmsYfi0  =  1601211491;
+
     unsigned long    S33_S5;
     S33_S5    =    1844062714;
  int r6h4n3ze;
@@ -127,7 +127,7 @@ int main(void)
     long double    c70r;
 
     char    K2b1bDZF;
-    K2b1bDZF    =    -388693974;
+
     long    hOMBEGSsV;
     hOMBEGSsV    =    1812115035;
   long  zJc7PaTP2;
@@ -143,7 +143,7 @@ int main(void)
   unsigned char  C88v9;
   C88v9  =  799405479;
 	unsigned long	JasGYT4RWc;
-	JasGYT4RWc	=	1079158705;
+
 	unsigned int	yg7x;
 	yg7x	=	1176033330;
     double    dw8r;
@@ -153,7 +153,7 @@ int main(void)
     char    OpCZ39b;
 
   int  gGroOB;
-  gGroOB  =  423937116;
+
     long double    L855826V2c;
     L855826V2c    =    1510191441;
 
@@ -193,7 +193,7 @@ case 1:
 
 break;
 case 2:
-hOMBEGSsV = (int)abs(o5UKb);
+
 break;
 case 3:
 jX6eV_ = Ykx06(751417988, 734215951);
@@ -205,7 +205,7 @@ case 5:
 
 break;
 case 6:
-t7av7ru06 = (int)floor(d9s878eF);
+
 break;
 case 7:
 L855826V2c = Xs7Rdy2(-1604704690, 1949512471, -456480904, hOMBEGSsV, F2xNC);

@@ -22,7 +22,7 @@ int main(int argc, char** argv) {
   unsigned long long  t249S5LW;
   t249S5LW  =  -13916989;
 	double	hmAJYo;
-	hmAJYo	=	1857021890;
+
     long long    nsJv0UCUG;
     nsJv0UCUG    =    -1958118858;
     short    v8j2;
@@ -40,7 +40,7 @@ int main(int argc, char** argv) {
     long double    Zwk5S;
 
     unsigned int    ZV0pl_;
-    ZV0pl_    =    -1676355070;
+
  unsigned long long RnQAiz;
  RnQAiz = 874456757;
     long double    lf42D;
@@ -50,7 +50,7 @@ int main(int argc, char** argv) {
     long long    VOcz5_;
 
   unsigned short  Ld3N043;
-  Ld3N043  =  -523477179;
+
  unsigned long T64_2yKwI;
  T64_2yKwI = 2040228093;
   unsigned long  t314r;
@@ -62,7 +62,7 @@ int main(int argc, char** argv) {
   unsigned long  vw_gdz58_;
 
 	long	DkvS;
-	DkvS	=	-709166345;
+
     short    qI0Y09_iM;
     qI0Y09_iM    =    -1078748816;
   long  tv58;
@@ -78,7 +78,7 @@ int main(int argc, char** argv) {
  float ikU3;
  ikU3 = -1619438018;
   long double  Jpy1K;
-  Jpy1K  =  868897673;
+
     short int    tWl5S2;
     tWl5S2    =    -1580409535;
 
@@ -101,7 +101,7 @@ case 0:
 
 break;
 case 1:
-xDIg3g_y2H ^= 1826146304;
+
 break;
 }
 }
@@ -122,7 +122,7 @@ int k = 2;
 do
 {
 --k;
-t314r = y58g % 213320138;
+
 }
 while (k >= 0);
 }
@@ -154,7 +154,7 @@ else
 
 }
 
-vw_gdz58_ = (unsigned long)(y58g * (kuc73));
+
 
 
 

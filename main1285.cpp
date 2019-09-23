@@ -231,7 +231,7 @@ case 1:
 
 break;
 case 2:
-E1kvFBC >>= 1304671406;
+
 break;
 case 3:
 Y_rBktrC9 = dcnYTe0_ns(1467112695, R3gGG, 34871353);
@@ -246,7 +246,7 @@ case 6:
 
 break;
 case 7:
-B0b5e = w94m1lZvsc(-1330783051, 1246987403);
+
 break;
 }
 

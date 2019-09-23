@@ -179,7 +179,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-v1Fm1 = (int)ceil(pPN1);
+
 break;
 case 'e':
 case 'E':
@@ -236,7 +236,7 @@ std::cout << vqeq8R1(atim5) << ZeGj82r << vqeq8R1(-1081112595) << "Ca3j7p5J_i" <
 
 
 
-e_AoGSi = vqeq8R1(-2050831566);
+
 
 oMh_fQ = vqeq8R1(v24i2_);
 

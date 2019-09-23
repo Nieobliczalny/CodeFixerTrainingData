@@ -123,7 +123,7 @@ case 'b':
 
 break;
 default:
-k6GDPp_PE += bBTpp3;
+
 break;
 }
 }
@@ -215,7 +215,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-aR3OS_joz7 |= 476823978;
+
 break;
 case 'd':
 case 'D':
@@ -227,7 +227,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-EvWY8Doll_ = Q_8_n & z31k1E_U9;
+
 break;
 case 'g':
 case 'G':
@@ -239,7 +239,7 @@ case 'H':
 break;
 case 'i':
 case 'I':
-d0WN73CO97 >>= 757951759;
+
 break;
 case 'j':
 case 'J':

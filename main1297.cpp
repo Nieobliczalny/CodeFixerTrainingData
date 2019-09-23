@@ -262,7 +262,7 @@ for (int k = 4; k >= 0; k--)
 }
 if (Lk7P <= hGAM84kYy)
 {
-j7PyGmM = (int)ceil(x4R__05jE);
+
 }
 else
 {

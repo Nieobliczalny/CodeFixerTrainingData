@@ -28,7 +28,7 @@ case 'a':
 
 break;
 case 'b':
-x9j9946NQ = Jaf8_X(2111384183, Z91Au12Ta, IRLegt708s, -2067083377) + 131143479;
+
 break;
 case 'c':
 uXrfhTvIVl = Jaf8_X(cK5Pdu, -421521457, A5WH, j4Ma5JVLV7);
@@ -78,7 +78,7 @@ cout << "YRnYdN6T8a" << Jaf8_X(z_6RoZ_vB3, y7W7k0, -1335937116, mRV9EUJF) << E3l
 
 for (int i = 5; i >= 0; --i)
 {
-TRTb0_8Y = (int)abs(lsy4c9);
+
 }
 if ((cfgI56G_Q / uXrfhTvIVl) >= 716149024)
 {
@@ -106,7 +106,7 @@ else if (M13rAVz6f > QW835m)
 {
 if (BKZZB != j4Ma5JVLV7)
 {
-E3l1B_ %= 633913176;
+
 }
 else if ((QNu1I2L4u6 > -2069888550) && ((w_I6_J > Z745L7ALb) || (UWVt_QJu04 >= Z_YDyc)))
 {
@@ -159,7 +159,7 @@ else if (Kljb0m & QD_APg)
 }
 else if (cfgI56G_Q)
 {
-L4395Bw6 = (short)(QW835m + (cJqOZl));
+
 }
 else
 {

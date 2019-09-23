@@ -286,7 +286,7 @@ case 4:
 
 break;
 case 5:
-iQlJPgM /= 905253327;
+
 break;
 case 6:
 uF0U8 &= dkv_Neu;
@@ -365,7 +365,7 @@ case 'b':
 
 break;
 case 'c':
-wj_kvjy2uI = (int)abs(f4s7i2L15);
+
 break;
 case 'd':
 pjJ49O_YK = (int)ceil(iUbTP);
@@ -380,7 +380,7 @@ case 'g':
 gtP30 >>= AJAl;
 break;
 case 'h':
-F56gej = (int)floor(P_9760N);
+
 break;
 default:
 

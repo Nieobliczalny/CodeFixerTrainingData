@@ -105,7 +105,7 @@ Gmz8k_DF >>= 1181753019;
 
 
 
-RTK47SLI = (int)abs(jg007EA);
+
 
 P8o_N = (short int)(UWc1HpG5 + (a2R0EL2P));
 if (v6_mre_f > l0DYGE7_m)

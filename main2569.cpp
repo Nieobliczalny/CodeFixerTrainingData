@@ -543,7 +543,7 @@ switch (sVniY_)
 {
 case 'a':
 case 'A':
-pir72TI = DJiUiO_b(205442518);
+
 break;
 case 'b':
 case 'B':

@@ -229,7 +229,7 @@ case 'b':
 
 break;
 default:
-fk8Ht8 = fk8Ht8 >> xLR0Cp4uq;
+
 break;
 }
 switch (io13z)

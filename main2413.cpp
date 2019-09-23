@@ -490,7 +490,7 @@ if ((tyNKE9r_w / aF4Oaqs8g(c337, V8nkFoIRF)) == 1622547411)
 
 if (yTY5jlgl8w & tyNKE9r_w)
 {
-e8Hhw66 = (long)(Koe59Hf_U);
+
 }
 else
 {

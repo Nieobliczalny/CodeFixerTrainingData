@@ -489,7 +489,7 @@ else if ((daJ6u < -2078260843) || (N_4b < QMkPF1B))
 }
 else if (V6l6r9bX4T == -9690525)
 {
-VOeXTkxfsJ = (int)(DaS3l);
+
 }
 else
 {
@@ -553,7 +553,7 @@ break;
 }
 else
 {
-gI2Z_oRZ = (int)abs(dw6f);
+
 }
 }
 catch (int& errorCode)

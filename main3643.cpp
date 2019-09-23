@@ -448,7 +448,7 @@ try
 {
 if (G1FX_oI1L <= nfhva7Bm)
 {
-xOzHG84U1 = YWpVC ^ 697604249;
+
 }
 else
 {

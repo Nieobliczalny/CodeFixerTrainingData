@@ -322,7 +322,7 @@ IKEeV2 = l97tPp ^ zl72Y24r;
 
 try
 {
-Zt_s0UA = uw2ncd3O7 & tZ26qiH_;
+
 }
 catch (int& errorCode)
 {

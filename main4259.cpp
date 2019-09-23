@@ -23,7 +23,7 @@ int main(void) {
   unsigned short int  F9xouOuQ7;
   F9xouOuQ7  =  965223288;
 	short	uXYT_p;
-	uXYT_p	=	-1009023835;
+
     unsigned int    Es7VLY1e0S;
     Es7VLY1e0S    =    -1817534549;
     unsigned short    AoP16m3l;
@@ -39,7 +39,7 @@ int main(void) {
  unsigned short int zbDDt6;
 
  unsigned long long JMq0YM;
- JMq0YM = 2057196113;
+
     unsigned int    E850;
     E850    =    1410865941;
  unsigned short int oTGcDtJ3c;
@@ -49,7 +49,7 @@ int main(void) {
  long long w246;
 
   unsigned char  gPWNw;
-  gPWNw  =  1249897461;
+
 	unsigned long	dM46g_;
 	dM46g_	=	1865851515;
  unsigned char RQ0p67_QQQ;
@@ -63,7 +63,7 @@ int main(void) {
     unsigned short    iW6_n6;
 
  int Ke1g4i;
- Ke1g4i = 1077547157;
+
  int jzxOB4p4;
 
     unsigned short    XL2bMO;
@@ -73,7 +73,7 @@ int main(void) {
     unsigned long long    pj9UnQ;
     pj9UnQ    =    -954344801;
  short int xmO5G;
- xmO5G = 325402359;
+
  short ZsL2E9QA;
 
 	long	BKJ87;
@@ -113,7 +113,7 @@ int main(void) {
 	long	nD1p;
 	nD1p	=	2022636822;
 	int	r0Rm3crC;
-	r0Rm3crC	=	-694098848;
+
  long long Ic__e4;
  Ic__e4 = 515437946;
     short    Dbm5Q0t5A;
@@ -123,7 +123,7 @@ int main(void) {
  short int s2UcbC;
  s2UcbC = 382115133;
 	unsigned long long	U7ULG;
-	U7ULG	=	646977212;
+
  unsigned long long HH1xQ4Y;
  HH1xQ4Y = -1765380448;
 	unsigned int	q4Yw;
@@ -133,7 +133,7 @@ int main(void) {
     short int    mu154b;
 
 	unsigned short	KoA1rg5c3O;
-	KoA1rg5c3O	=	-1710429436;
+
 	char	JlCz;
 	JlCz	=	608972142;
     long    JUXxH;
@@ -157,7 +157,7 @@ int main(void) {
   int  KTnQ_z;
 
 	unsigned char	u5yQ6NTf;
-	u5yQ6NTf	=	-716620998;
+
  unsigned long Qv_n2D9q;
  Qv_n2D9q = -1542004653;
  unsigned long Lkt1E094;
@@ -169,7 +169,7 @@ int main(void) {
 
 if (Lkt1E094 != -1730304819)
 {
-JUXxH = pj9UnQ * Jxi_D;
+
 }
 else
 {
@@ -229,7 +229,7 @@ case 2:
 
 break;
 case 3:
-HH1xQ4Y = (DCyRDcux <= -2063228377) ? -450810649 : 816750579;
+
 break;
 case 4:
 
@@ -253,7 +253,7 @@ case 1:
 nD1p = dM46g_ - UohS9;
 break;
 case 2:
-xEAtDOLMqX |= UohS9;
+
 break;
 case 3:
 N75C = (int)floor(Dz3i4Llm7C);
@@ -264,7 +264,7 @@ break;
 }
 
 
-PR9YB_XG = (int)floor(N75C);
+
 for (int i = 10; i >= 0; --i)
 {
 
@@ -322,7 +322,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-BKJ87 = K1IG | nD1p;
+
 break;
 case 'd':
 case 'D':
@@ -346,7 +346,7 @@ case 'H':
 break;
 case 'i':
 case 'I':
-N75C = (int)ceil(Dz3i4Llm7C);
+
 break;
 default:
 

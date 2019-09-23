@@ -462,7 +462,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-ld1W = (int)abs(ztKG9);
+
 break;
 case 'd':
 case 'D':

@@ -145,7 +145,7 @@ dFXBlJi = (double)(FN2MDB);
 }
 else
 {
-KxHnL *= sl42;
+
 }
 KfAaW_p = z75J();
 
@@ -288,7 +288,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-V_hVcZnzz = (int)floor(g9FUhZ);
+
 break;
 case 'e':
 case 'E':

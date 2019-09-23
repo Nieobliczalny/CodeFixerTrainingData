@@ -546,7 +546,7 @@ zWUu10fG = b246Ai2z77();
 break;
 case 'h':
 case 'H':
-R770YIV = e1GOQ9J1(KZ17uz, IJe09rr, cg1J0Mx);
+
 break;
 case 'i':
 case 'I':
@@ -568,7 +568,7 @@ while (i < 10)
 switch (PT5t8Nq)
 {
 case 0:
-R770YIV = (int)abs(aSlg5iYnA1);
+
 break;
 case 1:
 
@@ -589,7 +589,7 @@ int i = 0;
 while (i < 6)
 {
 ++i;
-C8ur = (RR_h83pn1I != 873153172) ? b246Ai2z77() : b246Ai2z77();
+
 }
 }
 

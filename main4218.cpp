@@ -13,7 +13,7 @@ int main() {
  unsigned short kTNhGRU0, PcYjJ, Dwh0GvLl8C, cB2f0n, g4ps;
   kTNhGRU0 = PcYjJ = Dwh0GvLl8C = cB2f0n = g4ps = 0;
 
-bD8zOF5gwj <<= 656277343;
+
 
 {
 int i = 0;

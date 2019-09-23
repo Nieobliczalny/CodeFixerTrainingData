@@ -37,7 +37,7 @@ int main(int argc, char** argv) {
   short  IwKr8qH;
   IwKr8qH  =  1226912254;
   double  PPm00j4hat;
-  PPm00j4hat  =  1988587012;
+
   float  mooN_;
   mooN_  =  -750247295;
  int fe_J3m;
@@ -546,7 +546,7 @@ case 7:
 mooN_ = (int)floor(ygX_j);
 break;
 case 8:
-aB9LjI = (int)abs(p6Nh3h);
+
 break;
 case 9:
 
@@ -566,7 +566,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-eg53s08s = b95_f2Z3V ^ zu0akz6o6;
+
 break;
 case 'c':
 case 'C':
@@ -578,7 +578,7 @@ oyT16H = x1Q__ - 305973691;
 break;
 case 'e':
 case 'E':
-n16_xl = (ztH6RU5S & 1180333771) ? -415987867 : R2isG;
+
 break;
 case 'f':
 case 'F':
@@ -717,7 +717,7 @@ case 'c':
 b2Oog8pwAd = qlgo7S(b2Oog8pwAd, E6K3sd49);
 break;
 case 'd':
-O_6h %= 1991534006;
+
 break;
 case 'e':
 YCQy7 /= p36YyPu3;
@@ -734,7 +734,7 @@ for (int j = 0; j < 3; ++j)
 {
 try
 {
-Qp8JV = Gy09 | 1744647866;
+
 }
 catch (int& errorCode)
 {

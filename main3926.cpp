@@ -123,7 +123,7 @@ case 1:
 p5D898 += 1454421109;
 break;
 case 2:
-lHiu5CSF3S = vUD1N1F5(-33035993, -1650992470, 988353646, 1170733652, 14591512);
+
 break;
 case 3:
 zI3x537rU = (int)ceil(bijF);
@@ -191,7 +191,7 @@ case 6:
 
 break;
 case 7:
-lHiu5CSF3S = vUD1N1F5(-233421855, 1519070374, oLWozpQ_eN, -1039547324, -1132558470);
+
 break;
 }
 
@@ -242,7 +242,7 @@ else if (Wa8J != 2038982026)
 }
 else if (vahK6nTY)
 {
-DL9T = Ps8B(DL9T, -264500736, y4fNF, 1877678796, 2119080178);
+
 }
 else
 {

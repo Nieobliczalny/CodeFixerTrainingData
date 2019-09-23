@@ -68,7 +68,7 @@ int main(void)
     unsigned long    K1U__KK3;
     K1U__KK3    =    750822825;
  float qMY_7;
- qMY_7 = -1592379049;
+
  unsigned long B_0Mw7R8Q;
  B_0Mw7R8Q = 0;
     long double    Hx_Bx39k5;
@@ -114,7 +114,7 @@ int j = 10;
 do
 {
 j--;
-qMY_7 = SVFec3b % 571258657;
+
 }
 while (j >= 0);
 }

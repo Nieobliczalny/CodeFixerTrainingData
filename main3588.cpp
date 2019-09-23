@@ -24,7 +24,7 @@ int main(int argc, char** argv)
  unsigned char sS13zVS;
  sS13zVS = -136701889;
   long  D8qGOH96;
-  D8qGOH96  =  1333449947;
+
   unsigned char  Uucs2G7988;
   Uucs2G7988  =  -1705363318;
     long double    r8eg5P9_yI;
@@ -64,7 +64,7 @@ int main(int argc, char** argv)
     double    eIEZk88;
     eIEZk88    =    697984432;
 	short	QHgoFxFh;
-	QHgoFxFh	=	-1494952698;
+
   short int  qvs40f;
   qvs40f  =  -1108155683;
     short    haOyFcDm3;
@@ -115,7 +115,7 @@ int j = 0;
 do
 {
 ++j;
-D8qGOH96 = AKDM ^ 643509598;
+
 }
 while (j < 9);
 }
@@ -192,7 +192,7 @@ qvs40f = H878m4y1pJ(qvs40f);
 break;
 }
 
-fcVd = Y7T9vwCYqu ^ yY0b5b7aI;
+
 vLZC8aI3p = H878m4y1pJ(vLZC8aI3p);
 
 AKDM = xMEYWkro3 + AiGsnJC;
@@ -270,7 +270,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-XwJc = H878m4y1pJ(-1771611869);
+
 break;
 case 'd':
 case 'D':

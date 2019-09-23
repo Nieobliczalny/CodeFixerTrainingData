@@ -36,7 +36,7 @@ int main(int argc, char** argv)
 switch (EeF9NF)
 {
 case 'a':
-OwpFtdGk = (int)abs(X871_FuY3);
+
 break;
 case 'b':
 Hu55_3hw = (int)ceil(Rn10_);
@@ -48,7 +48,7 @@ case 'd':
 EeF9NF = Odk9gtM(qahKpvzIKJ, 1725479506);
 break;
 case 'e':
-OMmazI = Odk9gtM(t_YGX, -949776210);
+
 break;
 case 'f':
 EeF9NF = Odk9gtM(cPOWiWT, NmU0FrK);
@@ -63,7 +63,7 @@ break;
 
 R7tS7W4_1Q = WC3l4I49 / 1876880789;
 
-t_o8jg_ = (long double)(R8b83Qal);
+
 {
 int i = 0;
 while (i < 6)
@@ -80,7 +80,7 @@ EeF9NF = Odk9gtM(F89wZ3, Z5hh5Mm);
 }
 else
 {
-h57w = (int)ceil(KD2QrI3w);
+
 }
 }
 }
@@ -99,7 +99,7 @@ Hu55_3hw = (long double)(pNstLong);
 
 try
 {
-o8M58g5n = (long double)(e24LbA);
+
 }
 catch (int& errorCode)
 {
@@ -111,7 +111,7 @@ switch (EeF9NF)
 {
 case 'a':
 case 'A':
-t_o8jg_ = (int)floor(aSRKCCrP);
+
 break;
 case 'b':
 case 'B':
@@ -122,7 +122,7 @@ case 'C':
 AWt7Rb = rl84 / A5mFS;
 break;
 default:
-E_38 += pNstLong;
+
 break;
 }
 }
@@ -134,7 +134,7 @@ RRvKw += 1547088264;
 switch (EeF9NF)
 {
 case 'a':
-aSRKCCrP = mg88N08();
+
 break;
 case 'b':
 hL8nLiq -= aSRKCCrP;
@@ -146,7 +146,7 @@ case 'd':
 q5IP8W50j = mg88N08();
 break;
 case 'e':
-Oj7HzO3 = Odk9gtM(q5IP8W50j, rl84) | 66476203;
+
 break;
 case 'f':
 oRUGCO = Odk9gtM(q5IP8W50j, 1581045382) % 760612263;
@@ -158,7 +158,7 @@ break;
 bnJtt9 = mg88N08();
 if ((wSAZ4 / Odk9gtM(bnJtt9, 695154677)) == 384276719)
 {
-wk_u8eL = 932097026 / Odk9gtM(bnJtt9, R7tS7W4_1Q);
+
 }
 
 aC4p9l3 = (int)ceil(hL8nLiq);

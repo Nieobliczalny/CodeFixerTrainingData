@@ -32,7 +32,7 @@ int main(void)
   // codechecker_intentional [deadcode.DeadStores] Design rule - initialize all variables
   W0lvEo770 = m9__6iTZJ = R9km1P8j_ = CWw_82_CR = pJU2 = NVw9qD_lne = qx3_ = G_38wgru4 = t3K1p2 = z156qv4 = dKOXMRrUf = l84F2K6 = m88dX7 = e0AMr = Pz58 = Y7bE = lMn4cu9 = Guu8F5 = A0Cca = yIMRQ1E74 = AM2anCAH = n__h = h6FdwAN_ = G2kz9Xr2 = IR68R = Q4w9EW1m = vUhQA5N1k = V2_x = N_KAQ = r0Z5 = q11J = j_Xb8 = l7H1vMTYV = oMcS = I44Lsn8m = RYPRUE68SP = Ewz81ssJ = rGpUH5 = UGxI819i = Tt5OXr3 = fR6Xd8 = m86Mw_3C = rKH4kN = P_3v = FPPx8 = i8e97 = H6sV3 = MJdX_7Va = MZqBC = zR79dFAU_ = dSa5fL4q = R7xJ_8Z = UHjSE613_ = H_43iBZr9c = q6ky1ZMi4l = LWUbF6bF3 = ifgf0NJ = F6HkcVFWR = RtC6R = H193M6572 = QdnyETKcW = ic0DI2DFN_ = qCTS56 = DO47 = tGKE4k2Kc = RPFY3R = eqc5Z_4_ = F1qPg_ = v01fW8t = ZFeWMd1 = RMl_VY9t0 = r5rjVe52VW = kl7I7M = EtqTujRRR = OR84sHb8F_ = du26 = IgqdN = F6qiv = sNuXc = sDm97FE = X_4_5o = bVCoO9r_ = Oi5o = HOZB8 = c90PTA = Ke2K2HG2Z5 = AJjx5TT = F57O = VKSvLz670 = Oz85F = jF1L42T4 = CQmA96 = -1283527996;
 
-X_4_5o = (unsigned int)(vUhQA5N1k);
+
 
 for (int i = 4; i >= 0; --i)
 {
@@ -56,7 +56,7 @@ int j = 5;
 do
 {
 --j;
-rGpUH5 = (unsigned int)(RYPRUE68SP);
+
 }
 while (j >= 0);
 }
@@ -71,7 +71,7 @@ case 0:
 q6ky1ZMi4l--;
 break;
 case 1:
-LWUbF6bF3 = Q81v(510424410, -1559698302);
+
 break;
 }
 
@@ -84,7 +84,7 @@ if ((l7H1vMTYV != Q4w9EW1m) || ((r0Z5) || (qCTS56 <= ZFeWMd1)))
 {
 try
 {
-W875xF83 = (int)abs(C181rS7KG_);
+
 }
 catch (int& errorCode)
 {
@@ -97,7 +97,7 @@ C181rS7KG_ = GQC4w9ep(-475139742, 1185517987, VKSvLz670, 82852078);
 }
 }
 }
-W875xF83 = GQC4w9ep(-1322109903, Oz85F, kl7I7M, QdnyETKcW);
+
 
 UHjSE613_ = (unsigned int)(Gl_o5 + (-95592218));
 try
@@ -109,7 +109,7 @@ catch (int& errorCode)
 RtC6R = qx3_ / c90PTA;
 }
 
-l7H1vMTYV = VKSvLz670 / GQC4w9ep(620515612, Oz85F, kl7I7M, -964529851);
+
 {
 int i = 0;
 while (i < 9)
@@ -120,7 +120,7 @@ W875xF83 = (int)abs(C181rS7KG_);
 }
 if (AM2anCAH & 1180068968)
 {
-F57O = (unsigned int)(Hq0Sz5E);
+
 }
 else
 {
@@ -131,7 +131,7 @@ int k = 4;
 while (k >= 0)
 {
 k--;
-CWw_82_CR = Q81v(C181rS7KG_, 1548619944);
+
 }
 }
 }

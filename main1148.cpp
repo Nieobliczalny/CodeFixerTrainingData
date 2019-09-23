@@ -214,7 +214,7 @@ zvtL3gN = Tj30C4m9I >> s_46540;
 break;
 case 'c':
 case 'C':
-Ijc_89p = (int)abs(v6Z2N9d9S);
+
 break;
 case 'd':
 case 'D':

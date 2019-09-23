@@ -93,7 +93,7 @@ int main(int argc, char** argv) {
 	long long	K0vEz;
 	K0vEz	=	1126837874;
  unsigned short vxG3;
- vxG3 = -251124446;
+
 	unsigned long long	N3_e;
 	N3_e	=	-357291829;
 	long double	ZMxDLu4QZp;
@@ -401,7 +401,7 @@ case 2:
 yNrj8 = Mb48vRT >> NBQk;
 break;
 default:
-zc0P5M1yzk %= om4bGT4MM7;
+
 break;
 }
 }
@@ -543,7 +543,7 @@ else if (Dju6iS9 == -485388129)
 }
 else if (bOiq)
 {
-jsoy_zy2r = (M_y_map & -1747121522) ? XlvbVl : vr67r;
+
 }
 else
 {
@@ -696,7 +696,7 @@ else
 }
 }
 
-IBiq1MGII9 = gA_aV << rYY2;
+
 
 return 0;
 }

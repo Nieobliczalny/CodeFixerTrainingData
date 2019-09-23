@@ -113,7 +113,7 @@ std::cout << "R97x2q" << SQWade_ << VKK90NX << std::endl;
 
 if ((dl_hy < 138423533) && (G1Bw2_3iy == n4na_py4a))
 {
-PGsaJMun9t = (r_7iK) ? -744279000 : -1787005298;
+
 }
 else if (r_7iK == 790922795)
 {
@@ -189,7 +189,7 @@ case 0:
 
 break;
 case 1:
-GP0x98ZVj -= 354965035;
+
 break;
 case 2:
 CBjIA = xOd7SAO_Tr / 24042030;
@@ -204,7 +204,7 @@ case 5:
 od_zvVF = (int)abs(GP0x98ZVj);
 break;
 case 6:
-o4Rl7gR -= z73r6V2;
+
 break;
 default:
 xa2D629uk = awC7ZyN % wBhj;
@@ -220,7 +220,7 @@ if (gDHZ_ < 1290428888)
 {
 if ((BC4x3 < WckCjXtm) && (hHtw >= BAflIfY))
 {
-PGsaJMun9t = (int)abs(awC7ZyN);
+
 }
 else
 {
@@ -287,7 +287,7 @@ case 2:
 TTWUNi = RkZYba44V1 | 1041732877;
 break;
 case 3:
-enBmhZ6qwt = Za0cDs1O + I04_03p3;
+
 break;
 case 4:
 
@@ -358,7 +358,7 @@ case 0:
 
 break;
 default:
-Fkp9_mTM_ = (int)abs(hHtw);
+
 break;
 }
 
@@ -387,7 +387,7 @@ case 1:
 
 break;
 case 2:
-wdP926w |= 940214743;
+
 break;
 case 3:
 eq1O5s19 = (int)abs(M0x_95C2_);
@@ -424,7 +424,7 @@ case 1:
 
 break;
 case 2:
-gf3xP /= jGgn2x;
+
 break;
 case 3:
 gtH2JGcr -= TTWUNi;

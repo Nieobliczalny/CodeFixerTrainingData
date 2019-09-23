@@ -37,7 +37,7 @@ int main(void)
     unsigned int    ge3_R5sLy;
     ge3_R5sLy    =    132034483;
     char    LN6Kv29z;
-    LN6Kv29z    =    1779021615;
+
     double    V5tofJ_w;
     V5tofJ_w    =    -1264551935;
  unsigned long i4_RlGGd;
@@ -61,7 +61,7 @@ int main(void)
 	short int	Mdtfory458;
 
   double  Ru8SKk5XGR;
-  Ru8SKk5XGR  =  -711335108;
+
     unsigned long long    h49UUfZA;
     h49UUfZA    =    -1536542088;
  long YCBd;
@@ -259,7 +259,7 @@ case 3:
 
 break;
 default:
-fmMVd_ = K17_0 ^ 86856972;
+
 break;
 }
 ++i;

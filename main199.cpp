@@ -62,7 +62,7 @@ int main(void) {
  long T5_5705p;
  T5_5705p = -1578532629;
   double  BPR3qRo9;
-  BPR3qRo9  =  -406573537;
+
   char  OW3NTYAaU1;
   OW3NTYAaU1  =  785440868;
     short    gyBC2;
@@ -74,7 +74,7 @@ int main(void) {
   long  mk22wq8;
   mk22wq8  =  262398621;
  unsigned long long Ii_vFM;
- Ii_vFM = 1072750473;
+
  unsigned long long lSfeP_AHvd;
  lSfeP_AHvd = 1195944402;
   unsigned int  X3v4smL;
@@ -90,7 +90,7 @@ int main(void) {
   short  u_giVLy71C;
   u_giVLy71C  =  -1754006150;
   unsigned long  Y4NHbt17;
-  Y4NHbt17  =  -2045093901;
+
   unsigned long long  Hm2P;
   Hm2P  =  -1372700832;
 	long double	PNKRH;
@@ -116,7 +116,7 @@ int main(void) {
     long long    BYJ52;
 
   short  njkrT;
-  njkrT  =  1096736075;
+
  int DzlXh26Zw;
  DzlXh26Zw = 366967846;
  unsigned long long b5c4_j_;
@@ -126,7 +126,7 @@ int main(void) {
   unsigned short  Twdn;
   Twdn  =  -263663638;
     unsigned char    PXEs;
-    PXEs    =    -1950973649;
+
   long  d884;
   d884  =  -1648613131;
 	long double	Py761N7p;
@@ -138,7 +138,7 @@ int main(void) {
     char    zxC6bGpAO1;
     zxC6bGpAO1    =    2098162934;
   unsigned long long  OEQG;
-  OEQG  =  -1904800489;
+
     char    MNEz;
     MNEz    =    227097161;
 
@@ -237,7 +237,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-mvC964H3 = j9lEPI6(MNEz, XjvW8q);
+
 break;
 default:
 
@@ -315,7 +315,7 @@ case 2:
 
 break;
 case 3:
-u_giVLy71C <<= KE8_ZBUW;
+
 break;
 default:
 

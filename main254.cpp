@@ -142,7 +142,7 @@ else if (p4FfEE == 711912466)
 }
 else
 {
-qxHAPTR = (int)ceil(pp43T7);
+
 }
 }
 else if ((SR0Pq54 <= 1891012341) || (uqQf > -97595868))
@@ -199,7 +199,7 @@ case 1:
 
 break;
 case 2:
-LFrfD08Z = (int)ceil(m88d);
+
 break;
 case 3:
 
@@ -231,7 +231,7 @@ else if ((X2Tk1m < ohJH9d2) || ((vww02_5 <= 1620972127) && (So_m == m_vkCp)))
 }
 else if (((c7_L6) && (Bt95e0 < -2013202612)) && ((K40c70 & -1837747854) && (N_OfSj > -1757571668)))
 {
-Nq3sqIq5q = MYV3KfB >> xOgA8c4_1;
+
 }
 else
 {

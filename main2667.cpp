@@ -524,7 +524,7 @@ case 1:
 
 break;
 case 2:
-yt8fuRW &= 1305843968;
+
 break;
 case 3:
 Xd6hvv9SX = uRoON ^ E1v9;
@@ -536,7 +536,7 @@ case 5:
 
 break;
 case 6:
-u6_mwNm_ = kpIy(u6_mwNm_);
+
 break;
 case 7:
 D0A_cI2C_ = D5ceXjFT(D0A_cI2C_);
@@ -595,7 +595,7 @@ else if ((BF86w != z45V1) && (pQ1J_ & FOEZ4Yo65M))
 }
 else
 {
-hm76 = tYT4kgQh << 305104943;
+
 }
 }
 }

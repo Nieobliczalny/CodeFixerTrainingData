@@ -58,7 +58,7 @@ JmOLgx = kuj5o8wn7 + 2114930925;
 
 Hg1X *= 835239966;
 
-M07F5E3t6 = (unsigned short)(PR5w9l);
+
 std::cout << "v4dI" << CsK3j << "Xl14" << s3Wb559E << Z0bnjvej << std::endl;
 
 if (((Hg1X >= AC12D) && (AC12D)) || (J6_kWJi5_0 <= -382921979))
@@ -112,7 +112,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-khuSw = CQKp9J0_34 & Q8HK90qeA;
+
 break;
 }
 }
@@ -248,7 +248,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-A_3_f40_K = (QB83dV5_G >= PR5w9l) ? -1931792039 : z796m_jsz;
+
 break;
 case 'd':
 case 'D':

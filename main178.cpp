@@ -80,7 +80,7 @@ for (int i = 7; i >= 0; i--)
 std::cout << "hf8b" << Ai30 << ibf1731MF << "CNBnfL" << "Uvy9l4nkP" << std::endl;
 }
 o7tq9++;
-s805 = (A0wR10xX) ? -1919775227 : qE56NpD;
+
 
 switch (d9en7R71)
 {
@@ -258,7 +258,7 @@ std::cout << ok6XBN << luh_5S << fztKLIU << "PJ4DRcM" << luh_5S << std::endl;
 
 
 
-PQ0et_o = (int)abs(B5Bg);
+
 
 {
 int i = 0;

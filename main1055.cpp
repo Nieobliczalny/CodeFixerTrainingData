@@ -109,7 +109,7 @@ else
 }
 
 
-Y512Se5A_ = (unsigned short int)(ZYbkmO);
+
 switch (y80sJE5w5q)
 {
 case 0:
@@ -128,7 +128,7 @@ switch (b9Z35Twk)
 {
 case 'a':
 case 'A':
-vqa2A_ = LLpd();
+
 break;
 case 'b':
 case 'B':
@@ -140,7 +140,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-CRKCqT2WRw = (b9Z35Twk) ? -1966745902 : -1802305124;
+
 break;
 case 'e':
 case 'E':
@@ -203,7 +203,7 @@ if (Ukdhy5 == cE3RJ)
 {
 for (int k = 1; k >= 0; k--)
 {
-b7p58_xL = C6DN16 - 1314803476;
+
 }
 }
 else if (Ukdhy5)

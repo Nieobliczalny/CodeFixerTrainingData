@@ -85,7 +85,7 @@ for (int j = 0; j < 4; ++j)
 {
 if (eq5hoq4T != VIdlJ)
 {
-gH6F47CBJ = (int)abs(p3R2);
+
 }
 else
 {

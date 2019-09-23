@@ -27,7 +27,7 @@ case 0:
 
 break;
 case 1:
-jq3ff79 = F2PRtyI80L(-526492556, c8nfSh2DP, -1020518083, 2144489518);
+
 break;
 case 2:
 
@@ -60,7 +60,7 @@ if (l7fJfR & mDNS)
 {
 
 }
-R6g4Y = z5_77Pz64(QOx76c) / u7wo4ydE;
+
 
 try
 {

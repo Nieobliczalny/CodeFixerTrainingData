@@ -362,7 +362,7 @@ if ((k7fMlZ4w3M & hU10G) || (OQXFN & 760308655))
 {
 if (OQXFN & vC0c)
 {
-Ypdi = (int)floor(aPF5G);
+
 }
 }
 }
@@ -429,7 +429,7 @@ kZKqh9J_fw >>= PY0tRbXO25;
 break;
 case 'i':
 case 'I':
-Ypdi = (int)floor(Xg9i7ippY);
+
 break;
 default:
 Xg9i7ippY = (int)floor(GMwa7Do5);

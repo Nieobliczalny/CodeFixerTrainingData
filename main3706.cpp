@@ -185,7 +185,7 @@ int i = 0;
 do
 {
 ++i;
-CQQ3IGPOLu = NDmrfY0();
+
 }
 while (i < 10);
 }
@@ -288,7 +288,7 @@ else
 }
 
 
-sV_kK2Ulg = (int)abs(OHT82);
+
 for (int i = 9; i >= 0; --i)
 {
 jXMFR4vUwC = ae9Y4();

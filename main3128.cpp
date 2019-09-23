@@ -177,7 +177,7 @@ else
 {
 if (JUM4gXE == y_325C)
 {
-x5QpQ = (int)floor(Xw_D);
+
 }
 else if (p972sHZ2 >= 1822575409)
 {
@@ -235,7 +235,7 @@ if (WpSm_10A & -1263273277)
 }
 else
 {
-x5QpQ = (int)floor(WAAaBETi1);
+
 }
 }
 }
@@ -497,7 +497,7 @@ case 5:
 
 break;
 case 6:
-lcl4xMc9ok = rkcb4VZX(1401980561);
+
 break;
 case 7:
 WAAaBETi1 = (int)floor(jGbecIb4q6);
@@ -509,7 +509,7 @@ case 9:
 
 break;
 default:
-WVDY2 = Y73B - vc1iD6;
+
 break;
 }
 }
@@ -526,7 +526,7 @@ else if (Yy9Q0Xtc == -1695231730)
 }
 else
 {
-gGlFJ5 = egcz7B ^ 1764814325;
+
 }
 }
 else

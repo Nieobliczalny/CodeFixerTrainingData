@@ -334,7 +334,7 @@ case 5:
 
 break;
 case 6:
-N51IOU6i7l = (int)floor(W5TNYI95);
+
 break;
 case 7:
 y8657 = (n492f1 & 1253313298) ? PUO7CS(1057864437, p1AnX, -1717900024, 2097668190) : l_x6c;
@@ -466,7 +466,7 @@ while (j >= 0);
 }
 else
 {
-l_x6c = O_2zvjDe3();
+
 }
 if (ks0gi447l & -1319151014)
 {
@@ -508,7 +508,7 @@ case 1:
 
 break;
 case 2:
-W38Nik2h = O_2zvjDe3();
+
 break;
 case 3:
 XpFbYZZiP4 = Su9wxi_E(XpFbYZZiP4, g58LWlI6X1, vIM7ci, 2131153907, W5TNYI95);
@@ -523,7 +523,7 @@ case 6:
 
 break;
 case 7:
-GbUR8im = (OXOn9myaV_ & 947304805) ? n492f1 : UfQk7y30;
+
 break;
 default:
 

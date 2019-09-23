@@ -69,7 +69,7 @@ int main() {
   l9Q98K  =  -428289412;
   S1UI6Z7i3W  =  -680890437;
   yiHAx7  =  -817741392;
-  tr9Ort  =  -1887173800;
+
   M91n6_  =  -1234118219;
   r0e5  =  15512738;
   ayD3x8  =  -410880646;
@@ -314,7 +314,7 @@ W2pU_oXR9--;
 }
 else
 {
-PrTXu4 = (int)abs(ppkIxy0);
+
 }
 }
 else if (xyRb1Rj > EmjV1)

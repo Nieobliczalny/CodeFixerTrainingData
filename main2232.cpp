@@ -549,7 +549,7 @@ case 6:
 
 break;
 case 7:
-i34sBP <<= 34110528;
+
 break;
 case 8:
 

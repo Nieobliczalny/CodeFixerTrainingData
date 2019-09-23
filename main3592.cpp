@@ -22,7 +22,7 @@ int k = 0;
 do
 {
 ++k;
-Pc224 = (int)ceil(iRi5JD);
+
 }
 while (k < 5);
 }
@@ -63,7 +63,7 @@ do
 int j = 2;
 while (j >= 0)
 {
-Mik4 = (lvi7Zt_4tA <= -49144224) ? e2lHiZs514 : -1710119754;
+
 --j;
 }
 }

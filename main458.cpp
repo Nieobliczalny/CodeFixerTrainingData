@@ -112,7 +112,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-Q7_vMx00 = b7m7(872724402, 396169031, 1773656403);
+
 break;
 case 'd':
 case 'D':
@@ -122,7 +122,7 @@ break;
 
 
 jk7BfK = D4_0k8 / w4n0014G93;
-Y1Ha86 = w4n0014G93 ^ w8MK6i_c;
+
 
 return 0;
 }

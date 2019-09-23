@@ -457,7 +457,7 @@ case 'c':
 
 break;
 case 'd':
-pY2U264f10 = As97oKT / 662880741;
+
 break;
 case 'e':
 N4j45Vz9Qr = FjvIOVzq % 763032012;

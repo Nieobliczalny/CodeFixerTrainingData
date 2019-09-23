@@ -145,7 +145,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-q0u6n = a2EY << 182113982;
+
 break;
 case 'c':
 case 'C':
@@ -161,7 +161,7 @@ l27yh6zD = EqWT6ln + 162245603;
 break;
 case 'f':
 case 'F':
-d_u5 = P_OPlr(s_q0fSO2, -1008002792, QgefYWwj7) | tzvdc1y3Z;
+
 break;
 case 'g':
 case 'G':
@@ -203,7 +203,7 @@ k++;
 }
 else if (C4C73iq7)
 {
-QgefYWwj7 = nu2nZ3771 - rV6eE1;
+
 }
 else if ((Ot56_2 >= ndkX6ZtVZJ) && (HKxd7d42 > rkfQ9Q))
 {

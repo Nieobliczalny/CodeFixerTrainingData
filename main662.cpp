@@ -130,7 +130,7 @@ case 6:
 
 break;
 case 7:
-U7n1F9iTU = QCJq(-1847828255, VL3u, XuRi, Ujv_z1iaL, gJUWz3nU);
+
 break;
 case 8:
 
@@ -160,7 +160,7 @@ case 'b':
 
 break;
 case 'c':
-XuRi = (int)abs(AaP26v2o) + (-848529218);
+
 break;
 case 'd':
 XuRi = (int)abs(Ern16);
@@ -175,7 +175,7 @@ case 'g':
 v7o5 |= 1670206039;
 break;
 case 'h':
-XuRi = (int)abs(Ern16);
+
 break;
 }
 

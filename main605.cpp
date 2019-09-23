@@ -188,7 +188,7 @@ case 1:
 x393Pg_l1_ = OFo0d_uI(x393Pg_l1_, hNtPT19q, 146294753, R01K, ShnqL);
 break;
 case 2:
-vnvae6JS %= 851444941;
+
 break;
 default:
 R01K = KaHQA6QDg(-1273265307);
@@ -367,7 +367,7 @@ case 'h':
 Crx6 >>= Ib_DgzGD;
 break;
 default:
-DWvr3aq %= j4l1P;
+
 break;
 }
 }
@@ -459,7 +459,7 @@ hNtPT19q = (int)ceil(R01K);
 std::cout << Zxp76R / JzP5nnMy(1968177153, R01K) << std::endl;
 
 
-b0ptc7j = (int)floor(R01K);
+
 
 TnE10ygtv = (float)(hTCZSx90);
 

@@ -558,7 +558,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-akX90bF31q |= YSmI_m;
+
 break;
 case 'g':
 case 'G':

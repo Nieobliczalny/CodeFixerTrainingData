@@ -33,7 +33,7 @@ int main(int argc, char** argv)
 	zmFcu6	=	1186066342;
 	oZweLA	=	2056941505;
 
-	TJJ_vi29t4	=	-1785450105;
+
 	VYo3lY_4sF	=	-1055758441;
 	JO0we7joX8	=	1306270413;
 
@@ -45,7 +45,7 @@ int main(int argc, char** argv)
 	saM8lEqUTH	=	1575100475;
 	wTmHGO8P	=	768330742;
 
-	HT6N_8cs	=	-1746553994;
+
 	uho80Yr_8x	=	706301794;
 	zsHH	=	-1419112206;
 
@@ -67,7 +67,7 @@ int main(int argc, char** argv)
 	NAT6	=	-94198345;
 	ut_9_L	=	1301280721;
 	YhO0	=	-970617787;
-	z6e3yZTM	=	1687597017;
+
 	WuKoeNjb72	=	2051656261;
 	mo7InPY	=	1479960914;
 	q3C3k7CShT	=	716981390;
@@ -103,7 +103,7 @@ int main(int argc, char** argv)
 	d3tMp935gi	=	-682657134;
 	RqD7AmtT_	=	1319969424;
 
-	if48Eav	=	-896453167;
+
 	hVqS3m8V9	=	1069970202;
 	w_kMOx	=	-199839162;
 	Km7zz92hxi	=	-1767154487;
@@ -330,7 +330,7 @@ case 0:
 
 break;
 case 1:
-y90s54 >>= oZweLA;
+
 break;
 case 2:
 mCzN = (int)abs(t2kMr);
@@ -372,7 +372,7 @@ else if (t75lo05 != d3tMp935gi)
 {
 if (PRFU < -1779049612)
 {
-saM8lEqUTH -= 2011908208;
+
 }
 }
 else if (GenHiH5F7 >= zCs3V0r)
@@ -455,7 +455,7 @@ case 4:
 
 break;
 case 5:
-IyQu ^= M15WK5l;
+
 break;
 case 6:
 t75lo05 ^= 440988232;
@@ -565,7 +565,7 @@ case 'd':
 
 break;
 case 'e':
-f19_GK45M = UOpJ8VA4 << EU1PV9i5;
+
 break;
 case 'f':
 YP5dxMH2--;

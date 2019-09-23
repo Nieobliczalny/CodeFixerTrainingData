@@ -587,7 +587,7 @@ else if ((Ns6yBaxOI > -1699165956) && (P9ZXt5d0 != miMd_Bwzzq))
 }
 else if (PaQcH21qH == miMd_Bwzzq)
 {
-Z6Km5gKS_V = (int)abs(L0pAQA3SH);
+
 }
 else if (Z6Km5gKS_V & yt228R45w)
 {

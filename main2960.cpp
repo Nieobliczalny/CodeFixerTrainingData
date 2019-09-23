@@ -49,7 +49,7 @@ int main(int argc, char** argv) {
  v024o = -1493382087;
 
  pDKq6C = -406242266;
- wTCGZH = 1593186572;
+
  H3Yq__7 = -2095708997;
  o7ix_v = 1411493325;
  mm2j = 1427673662;
@@ -310,7 +310,7 @@ switch (z6ac)
 {
 case 'a':
 case 'A':
-X615 *= 2050984238;
+
 break;
 case 'b':
 case 'B':

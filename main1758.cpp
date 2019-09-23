@@ -222,7 +222,7 @@ for (int i = 0; i < 8; i++)
 {
 if (SX9Gr72pm != -1849025933)
 {
-UZ2X_BM = (int)ceil(PdX6L71ux);
+
 }
 else
 {
@@ -326,7 +326,7 @@ case 'd':
 lz2jP61 /= zBMW0jm;
 break;
 case 'e':
-lKN6G1 = xuhq6It / 1765987829;
+
 break;
 case 'f':
 

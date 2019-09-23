@@ -86,7 +86,7 @@ case 0:
 
 break;
 case 1:
-mH6K2_s8mK = (BCnqi3iInP <= UTSv4) ? gQDKshhz : F6Ld;
+
 break;
 case 2:
 
@@ -98,7 +98,7 @@ case 4:
 
 break;
 case 5:
-tl07 = dPXn2 / 1076225775;
+
 break;
 case 6:
 
@@ -110,7 +110,7 @@ case 8:
 
 break;
 case 9:
-gc8xA3 -= u7Rmazc7L;
+
 break;
 }
 
@@ -157,7 +157,7 @@ else if ((mRL8YTzW <= aed40) && (aJ_K != BFv4))
 }
 else if ((fml_7 < ejW9Ki5) || (fsM3_v5h5 == -1709042937))
 {
-i5j84dO = (int)floor(g4xJI5_A);
+
 }
 else
 {

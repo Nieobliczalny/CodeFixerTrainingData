@@ -54,7 +54,7 @@ int main() {
  unsigned long W4XQR;
  W4XQR = 2032625045;
     int    L8XXi_w8;
-    L8XXi_w8    =    -529476928;
+
 	unsigned short	K4_HBy;
 
   long long  r8wA_;
@@ -82,7 +82,7 @@ int main() {
  long double xejtYnfy_l;
 
   long long  q4P3;
-  q4P3  =  1210863939;
+
 	long	R4Mp;
 	R4Mp	=	1987160306;
   int  kaeOTLL9E;
@@ -176,7 +176,7 @@ int main() {
     unsigned int    Gu5r8ASf;
     Gu5r8ASf    =    70060483;
  int T_FB3ZFOuC;
- T_FB3ZFOuC = -667967319;
+
 	unsigned int	bwxx7LU19D;
 	bwxx7LU19D	=	-947308273;
  short int D73sk1J;
@@ -186,7 +186,7 @@ int main() {
  unsigned long C5c45K;
 
 	unsigned char	s7v024n;
-	s7v024n	=	-807233860;
+
   short  T1N2R_;
   T1N2R_  =  -958578564;
 	unsigned short int	shbfSnc;
@@ -288,7 +288,7 @@ case 'c':
 
 break;
 case 'd':
-D73sk1J ^= X7MKmL6CFL;
+
 break;
 case 'e':
 
@@ -360,7 +360,7 @@ else
 {
 zKOuWk = (short)(da56 + (B7650AW));
 }
-D73sk1J = t7mBR4 / 992828328;
+
 
 try
 {
@@ -466,7 +466,7 @@ ipi22cclC3 = w43gy(kaeOTLL9E, k_21, 1583667484, JbucDdl);
 cout << "l85N" << endl;
 
 
-DpcyBoiHQ3 = (int)abs(yj55);
+
 l5iuy = w43gy(EMKMU55, t7mBR4, 222449104, bvO9f_bih);
 {
 int i = 0;

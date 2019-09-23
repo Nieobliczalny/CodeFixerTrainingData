@@ -534,7 +534,7 @@ break;
 }
 }
 
-o_9L5 = (int)ceil(QWI_PxwC);
+
 
 
 {

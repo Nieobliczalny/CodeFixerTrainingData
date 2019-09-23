@@ -23,7 +23,7 @@ int main()
 {
  unsigned long long y3663WGn, b_zs_HC0U, l750xf3_rY, Xa_wZl;
  y3663WGn = 0;
- b_zs_HC0U = 0;
+
  l750xf3_rY = 0;
  Xa_wZl = 0;
   float  Ee0V6,  secm9YL0I,  Rm19,  F50kH7o_,  qgSQk7cHZ,  wjA_h,  vYx0Pi,  HXx_,  DIp81_,  p2r3ml7u,  Z3_xCB4s,  xOo5,  s3Hn,  Q977IRl3sI,  zrf4t,  bpcDk27On5,  x72_8l9,  hOWOaNx2,  ldB6oc6ROF,  i5n2A3_6L,  p04APGYZ,  qu6ichxlll,  Jh28_Wu,  woJh0KaUY,  vf1CkG,  XXSF1GV0lI,  jx_bB,  B1i70,  EGVGV7,  VyPW1yL1,  dSEB216W7o,  M_b04,  ENgD,  eD0ra3hZu,  Zm6Jv6h,  gu5F,  fM7vC3,  Iyh9tTC0F,  Av_34NP,  Nd_M,  S5Blg,  t3x60,  kH_jHE,  n4o7,  dywk3,  GNPql_o,  H5GjJ5Y02,  TzoLYV,  S8yS3r,  HdBh,  b56uu,  GN10,  Jd5LopR,  P8_IIE,  iW0_48L,  d07gKj,  OeM0_Ba,  ePRZo1ht60,  r0kJN;
@@ -53,7 +53,7 @@ int main()
   woJh0KaUY  =  511771638;
   vf1CkG  =  -1820373621;
   XXSF1GV0lI  =  -1958216416;
-  jx_bB  =  -1563771511;
+
   B1i70  =  -691816980;
   EGVGV7  =  -2095677761;
   VyPW1yL1  =  584776992;
@@ -65,7 +65,7 @@ int main()
   gu5F  =  -1449952747;
   fM7vC3  =  -48651144;
   Iyh9tTC0F  =  -375447588;
-  Av_34NP  =  -1524268923;
+
   Nd_M  =  -2124660393;
   S5Blg  =  757792664;
 
@@ -75,7 +75,7 @@ int main()
   GNPql_o  =  562180384;
   H5GjJ5Y02  =  77722503;
   TzoLYV  =  977373713;
-  S8yS3r  =  -374973348;
+
   HdBh  =  662875596;
   b56uu  =  -1072054719;
   GN10  =  -429898229;
@@ -85,7 +85,7 @@ int main()
 
   OeM0_Ba  =  2097392934;
   ePRZo1ht60  =  -904720903;
-  r0kJN  =  1725622977;
+
 
 {
 int i = 0;
@@ -110,7 +110,7 @@ wjA_h = (int)abs(zrf4t);
 }
 else
 {
-b_zs_HC0U = lw6d3l2v(-2084654386, -660245129);
+
 }
 }
 }
@@ -143,7 +143,7 @@ l750xf3_rY = lw6d3l2v(Jh28_Wu, -1905235512);
 break;
 case 'f':
 case 'F':
-r0kJN = ePRZo1ht60 / HXx_;
+
 break;
 case 'g':
 case 'G':
@@ -164,7 +164,7 @@ break;
 
 dywk3 = (int)floor(XXSF1GV0lI);
 
-S8yS3r = (vYx0Pi) ? lw6d3l2v(HdBh, -2019713051) : ePRZo1ht60;
+
 switch (y3663WGn)
 {
 case 0:
@@ -262,7 +262,7 @@ case 1:
 
 break;
 case 2:
-s3Hn -= 940744606;
+
 break;
 case 3:
 xOo5 = (int)floor(ePRZo1ht60);
@@ -357,7 +357,7 @@ case 'b':
 
 break;
 case 'c':
-p04APGYZ = (int)floor(B1i70);
+
 break;
 case 'd':
 secm9YL0I = (int)abs(P8_IIE);
@@ -389,7 +389,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-Jd5LopR = (int)abs(qu6ichxlll);
+
 break;
 default:
 
@@ -401,7 +401,7 @@ break;
 int i = 0;
 do
 {
-gu5F = (float)(dSEB216W7o);
+
 ++i;
 }
 while (i < 6);

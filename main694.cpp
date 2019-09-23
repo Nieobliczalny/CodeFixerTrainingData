@@ -68,7 +68,7 @@ int i = 8;
 while (i >= 0)
 {
 i--;
-Jvcg = (unsigned long)(Gt_f396);
+
 }
 }
 if (EnrDNBrG == -604074233)
@@ -93,7 +93,7 @@ case 'e':
 
 break;
 default:
-CHzz = oSRC9vm(CHzz, EnrDNBrG);
+
 break;
 }
 }

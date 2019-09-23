@@ -443,7 +443,7 @@ case 0:
 p_ev7_ = w8U99GE(TGehe, 1246074693, 938674369, Fo9N8W, -7928241);
 break;
 case 1:
-up528eFW *= 1367134932;
+
 break;
 case 2:
 pchI4 ^= D68K;
@@ -455,7 +455,7 @@ case 4:
 xgqvS = w8U99GE(1179723490, -1684616888, T_18dL19ob, 1091480254, g7ceC);
 break;
 case 5:
-up528eFW = Oq8oJ2eUZ << D68K;
+
 break;
 case 6:
 xgqvS = w8U99GE(EL7xi52t5, 907840701, 508727464, 1996806439, -1165592917);
@@ -662,7 +662,7 @@ case 7:
 
 break;
 case 8:
-wE7rwsb %= 1424261331;
+
 break;
 case 9:
 c6Qdy9 >>= Z65I__;
@@ -826,7 +826,7 @@ else if (ym7W2p7)
 }
 else if (l37y >= 549662684)
 {
-dDfTR = (int)ceil(l37y);
+
 }
 else
 {

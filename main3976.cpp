@@ -48,7 +48,7 @@ int main(int argc, char** argv)
 	long long	Bb7eB;
 
 	unsigned short int	lX3U5;
-	lX3U5	=	1530605023;
+
   long double  BQeXSk6X;
   BQeXSk6X  =  379729888;
   long  b8LV2Tl;
@@ -68,7 +68,7 @@ int main(int argc, char** argv)
  double HfPjlBG2w8;
  HfPjlBG2w8 = 1761746588;
  long long G2oDx2;
- G2oDx2 = -1590328603;
+
   float  kogC98;
   kogC98  =  -605253181;
 	int	btU_2FR5fg;
@@ -88,7 +88,7 @@ int main(int argc, char** argv)
     float    ZxxZyLq__;
     ZxxZyLq__    =    -800659445;
 	double	qjg8;
-	qjg8	=	567214243;
+
  double hr484_I;
  hr484_I = 441979112;
   unsigned long long  h_ZZ_;
@@ -161,7 +161,7 @@ b_Cz758J5J++;
 }
 else if (hN_3b6U & -330553356)
 {
-qjg8 = (int)floor(FNRrsj_MLw);
+
 }
 else if (((h_ZZ_) || (HD7U4A >= IIp0J6isc)) || (xgo9S3O == 1147055488))
 {
@@ -197,7 +197,7 @@ switch (cU5K2oD)
 {
 case 'a':
 case 'A':
-Da__2RB = (int)abs(UAu4);
+
 break;
 }
 }
@@ -225,7 +225,7 @@ while (j >= 0);
 }
 else
 {
-UAu4 = M6SI68Fr / 334910499;
+
 }
 if ((b_Cz758J5J == hN_3b6U) || (kogC98 > 2049714315))
 {
@@ -245,7 +245,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-kogC98 -= 1837875141;
+
 break;
 case 'd':
 case 'D':
@@ -265,7 +265,7 @@ case 'G':
 break;
 case 'h':
 case 'H':
-BQeXSk6X = (int)ceil(FNRrsj_MLw);
+
 break;
 case 'i':
 case 'I':
@@ -297,7 +297,7 @@ ZxxZyLq__ /= ZxxZyLq__;
 break;
 case 'e':
 case 'E':
-b8LV2Tl = Kv56on9R9(-2007415534, -1886810128, HfPjlBG2w8, 926673884);
+
 break;
 case 'f':
 case 'F':

@@ -28,7 +28,7 @@ int main(void) {
   unsigned short int  luGrBq5;
   luGrBq5  =  1323839797;
  unsigned long QfOie;
- QfOie = -1063207995;
+
 	unsigned int	B0esM_T;
 	B0esM_T	=	-1068513575;
   unsigned int  Qbwx;
@@ -286,7 +286,7 @@ Q129w5kx78 = Wx7B23HsZA(H3u241J, PP0Yds1mH9, -2042537887, -1397030495, h9KX3);
 }
 }
 
-lLry1_Ej5 = PP0Yds1mH9 / Wx7B23HsZA(-587517818, PP0Yds1mH9, -772917834, 339382815, 2069965944);
+
 cout << B0esM_T << endl;
 
 try
@@ -440,7 +440,7 @@ case 2:
 
 break;
 case 3:
-u_PV |= 470669840;
+
 break;
 case 4:
 q6i0y4 <<= klUC;

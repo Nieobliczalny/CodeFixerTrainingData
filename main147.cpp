@@ -31,7 +31,7 @@ int main(int argc, char** argv) {
 	long long	S9R_lu7WO4;
 
  long V79J21;
- V79J21 = -2083740887;
+
  unsigned short int b6ay;
  b6ay = -1289022631;
     short int    ka2707otL;
@@ -49,7 +49,7 @@ int main(int argc, char** argv) {
  unsigned long long pj81q;
 
     long    i82W35Q;
-    i82W35Q    =    -751633481;
+
     double    hFzi;
     hFzi    =    1206692522;
  char SRadYK_d;
@@ -69,7 +69,7 @@ int main(int argc, char** argv) {
   float  aQFu;
   aQFu  =  -548402686;
  unsigned short P0cs_Y;
- P0cs_Y = 1135260124;
+
   long long  ZKrZ1Ag;
   ZKrZ1Ag  =  1700724021;
  short X0S76Da_PP;
@@ -81,7 +81,7 @@ int main(int argc, char** argv) {
  double LWi4vqR;
  LWi4vqR = -1105138783;
  unsigned int RtX6o3Iz;
- RtX6o3Iz = 1725493996;
+
     unsigned char    CsewQ5;
     CsewQ5    =    1359737306;
  long double YOqd81U;
@@ -103,7 +103,7 @@ int main(int argc, char** argv) {
   short int  Qc7_;
 
  unsigned long long mXxrO47;
- mXxrO47 = 1675196242;
+
   short  mU26R;
 
 	unsigned long long	I76hRG;
@@ -113,7 +113,7 @@ int main(int argc, char** argv) {
  unsigned long long ji3EbIgBJ;
 
 	long	k6BE;
-	k6BE	=	-976046315;
+
 	short int	A2904Fswn8;
 
     int    JA4_x3;
@@ -133,7 +133,7 @@ int main(int argc, char** argv) {
   long double  w_YS;
 
     long    Yt02x92;
-    Yt02x92    =    1983051551;
+
 	unsigned long long	uf8ks6hA;
 	uf8ks6hA	=	1576073268;
  long long z_K2BQs;
@@ -151,7 +151,7 @@ int main(int argc, char** argv) {
     unsigned short int    oXQk;
     oXQk    =    1957656327;
     unsigned long    lH9Hq;
-    lH9Hq    =    1740638387;
+
 	double	i9YKPE4;
 	i9YKPE4	=	-1028614247;
     long double    cVuBf9Xtx;
@@ -213,7 +213,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-d479 ^= 1381902223;
+
 break;
 case 'd':
 case 'D':
@@ -233,7 +233,7 @@ DV4wF5AnC = U89W4e & G4121tPJ2b;
 break;
 case 'h':
 case 'H':
-hFzi = (int)abs(ka2707otL) + (-645452237);
+
 break;
 case 'i':
 case 'I':
@@ -264,7 +264,7 @@ case 0:
 
 break;
 case 1:
-k6BE = RXndDO2_(263086927, -2111466066, -1674307273, 1050418386);
+
 break;
 case 2:
 KuDmM = (int)ceil(vx108mq4);
@@ -347,7 +347,7 @@ ka2707otL = hbdqq_(470739277, LWi4vqR, bkq6npu);
 }
 else
 {
-U1E9Zw0u2 = (int)abs(DV4wF5AnC);
+
 }
 
 
@@ -433,7 +433,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-DV4wF5AnC = RXndDO2_(DV4wF5AnC, -1719902123, YFMWUO9Q, 1271622069);
+
 break;
 case 'g':
 case 'G':

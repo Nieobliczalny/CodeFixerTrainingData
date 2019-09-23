@@ -402,7 +402,7 @@ case 5:
 
 break;
 case 6:
-aXYO4cN_ = (int)floor(dgsqkL);
+
 break;
 default:
 p9gxYFO_d = (int)abs(v9wIDx5360);
@@ -417,7 +417,7 @@ case 1:
 
 break;
 case 2:
-KF1tr28ga = (int)ceil(Z64aK0e8WP);
+
 break;
 case 3:
 X522WBB0v *= 617955781;
@@ -432,7 +432,7 @@ case 6:
 eJ5x = EW3oE(eJ5x, 1863323839, Kf_Nlle2W_);
 break;
 default:
-v9wIDx5360 = (int)floor(Rf6Wvbso);
+
 break;
 }
 
@@ -579,7 +579,7 @@ case 1:
 
 break;
 case 2:
-qS8N2_Y6j = AL_k(637355646, 1338982231, q0Xh, eJ5x) | 799651400;
+
 break;
 default:
 O01MkB3 = v443o();

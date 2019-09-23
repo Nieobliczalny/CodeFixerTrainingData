@@ -735,7 +735,7 @@ case 1:
 
 break;
 case 2:
-gy2eq = OV5PvTJm_6 + Tw_aeZQV;
+
 break;
 case 3:
 Gg377 = (int)abs(vtw0sg9G);

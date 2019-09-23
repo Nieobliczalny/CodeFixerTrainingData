@@ -217,7 +217,7 @@ case 'c':
 
 break;
 case 'd':
-H6MYQ = g64nHsI(288011121);
+
 break;
 case 'e':
 U5XAgH |= 2134840295;

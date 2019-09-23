@@ -513,7 +513,7 @@ case 3:
 
 break;
 default:
-JLSB3faF3 |= F_WA;
+
 break;
 }
 }

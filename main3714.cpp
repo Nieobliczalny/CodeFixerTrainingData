@@ -327,7 +327,7 @@ break;
 int i = 9;
 do
 {
-NWeEjKG0p = Umt27f4u6W();
+
 --i;
 }
 while (i >= 0);
@@ -367,7 +367,7 @@ case 'g':
 
 break;
 case 'h':
-rzejSbLP = (int)abs(X5ywEh8);
+
 break;
 case 'i':
 L67k1dua9K = o267S2ug(1532013174, t70x6ZK4, -672108597, -1442461372);

@@ -276,7 +276,7 @@ for (int j = 3; j >= 0; --j)
 int k = 0;
 do
 {
-q7ix = QL5k53k(1142265469, Ah8fb5);
+
 k++;
 }
 while (k < 1);
@@ -322,7 +322,7 @@ huE_Jx4 = i_Ya_iuh1c + 201943775;
 while (j >= 0);
 }
 }
-i_Ya_iuh1c = (unsigned int)(w1ZRjT32q4 + (M6_xY));
+
 cout << "ICogsqTS" << QL5k53k(1001792459, gNOrNOqrFl) << endl;
 
 {
@@ -416,7 +416,7 @@ case 5:
 
 break;
 case 6:
-S_Zo86DoD |= RiHT;
+
 break;
 case 7:
 w1ZRjT32q4 = U0TwD66kb(986038460, 20667173, c36aRm);

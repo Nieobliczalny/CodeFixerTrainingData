@@ -551,7 +551,7 @@ case 'c':
 
 break;
 case 'd':
-Zw6_Os6 = P387cH6x(-1197406125, -1583802503, sad05QKq);
+
 break;
 case 'e':
 Q9jxz0MA = (int)floor(Q8B55B5waw);
@@ -563,7 +563,7 @@ case 'g':
 
 break;
 case 'h':
-EyJIc = dD27k ^ 1503055945;
+
 break;
 case 'i':
 f35XAon80m = (int)ceil(Do7p_j);

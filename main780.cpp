@@ -32,7 +32,7 @@ int main(void)
   long  mjUq;
   mjUq  =  0;
     short int    WeLea6;
-    WeLea6    =    0;
+
     long double    YC5zx;
 
  char z52dmS;
@@ -81,7 +81,7 @@ while (i < 8)
 {
 if (K6_04MuS_ != 1848595136)
 {
-WeLea6 = SG32mlV(-1124535974, th95c2);
+
 }
 i++;
 }
@@ -111,7 +111,7 @@ break;
 
 
 
-WeLea6 = SG32mlV(-475942621, 1270484934);
+
 DoTfI = SG32mlV(197465054, DoTfI);
 
 if (mjUq > -1113154859)

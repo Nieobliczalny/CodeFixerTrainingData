@@ -596,7 +596,7 @@ case 'g':
 scRfT6u = s9HA9l(PIqQ0OHxW, rMkZJ, u3mt, O2tf, -1301950129);
 break;
 case 'h':
-u_5n4C &= dfLOBY6;
+
 break;
 case 'i':
 Dn4zWm0_eZ = s9HA9l(r_Ve0, fli8xdh, V8wK, Dn4zWm0_eZ, -103781661);
@@ -789,7 +789,7 @@ case 4:
 
 break;
 case 5:
-A8Htld1v1c ^= IvX4l;
+
 break;
 case 6:
 DglOlZrN7 = Rg1030kQw + 940217518;

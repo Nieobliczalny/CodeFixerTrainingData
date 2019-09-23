@@ -341,7 +341,7 @@ else if ((GH0f == -27796330) && (I8577_N))
 }
 else if (nSOt == Clm9)
 {
-CHP7Stc12 = (short)(d3jv8j018_);
+
 }
 else if (F_nvu0s8 & tb17626)
 {

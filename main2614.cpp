@@ -456,7 +456,7 @@ case 1:
 bKSKknY = h31__(1142193286);
 break;
 case 2:
-x__M += 169031439;
+
 break;
 case 3:
 y7r5l++;
@@ -591,7 +591,7 @@ case 5:
 AsI47V__n_ = h31__(AsI47V__n_);
 break;
 default:
-y1EGLX = A_VgaaQFPK >> R72u__VHb;
+
 break;
 }
 }
@@ -603,7 +603,7 @@ IxfGcDC /= pBPYEIS;
 break;
 case 'b':
 case 'B':
-jXP33nv7 = (int)abs(l2byc);
+
 break;
 case 'c':
 case 'C':

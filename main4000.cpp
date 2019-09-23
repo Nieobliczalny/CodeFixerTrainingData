@@ -172,7 +172,7 @@ case 2:
 
 break;
 case 3:
-wJvw = (int)abs(XTSIF0);
+
 break;
 case 4:
 OAd84 = (int)floor(p4d8);
@@ -295,7 +295,7 @@ else
 switch (a7x43Wgq)
 {
 case 0:
-pNB_Ka0Y = tLGemDnRL(-1972882625, 1287470325, -742148090, -1777713553);
+
 break;
 case 1:
 ld4gK8 = tLGemDnRL(ld4gK8, ORYb_5N0_C, -1438024749, p47c);
@@ -310,7 +310,7 @@ case 4:
 
 break;
 case 5:
-Aii1FXt &= 905794808;
+
 break;
 default:
 OAd84 = YH4LYzZkl6 - j_eO550q;
@@ -376,7 +376,7 @@ case 'b':
 
 break;
 default:
-TV0yV = e6AtL64 / j_eO550q;
+
 break;
 }
 }
@@ -435,7 +435,7 @@ case 2:
 
 break;
 case 3:
-mWE_0 -= Gw42;
+
 break;
 case 4:
 
@@ -466,7 +466,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-Oi53n = tLGemDnRL(Oi53n, HMHUO, -1130475369, -71020580);
+
 break;
 case 'd':
 case 'D':
@@ -478,7 +478,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-Iy9nDs_ = m99HBu2(1237924018, 20660219);
+
 break;
 case 'g':
 case 'G':

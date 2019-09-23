@@ -33,7 +33,7 @@ int main(int argc, char** argv) {
   long long  bEku;
   bEku  =  1110287844;
     char    UXQH;
-    UXQH    =    -1442233506;
+
     unsigned short    BQ9_t;
     BQ9_t    =    -740484767;
 	short int	W8Io;
@@ -45,7 +45,7 @@ int main(int argc, char** argv) {
   long double  ni8h;
   ni8h  =  511916642;
 	unsigned long	c4_eo7P6VZ;
-	c4_eo7P6VZ	=	-1734482925;
+
  char KKe1w8;
 
   unsigned long  q950bb;
@@ -59,7 +59,7 @@ int main(int argc, char** argv) {
 	unsigned char	W48vp;
 	W48vp	=	-1201436842;
 	float	jK9_;
-	jK9_	=	926902507;
+
  int an58Z_4;
  an58Z_4 = 0;
   unsigned short  Ue40BNGf8G;
@@ -75,7 +75,7 @@ int main(int argc, char** argv) {
  long long Iaes9U;
 
     unsigned long long    kUX54_0nsE;
-    kUX54_0nsE    =    -101416109;
+
   short  u_TQ;
   u_TQ  =  1065750854;
  unsigned short int aX4xAn5y;
@@ -85,7 +85,7 @@ int main(int argc, char** argv) {
  unsigned long h2XFe1v2KV;
 
 	unsigned long	Nd1I9y14_;
-	Nd1I9y14_	=	0;
+
   double  kEIss;
   kEIss  =  927771877;
     short    uH1g_9t;
@@ -97,7 +97,7 @@ int main(int argc, char** argv) {
 	unsigned int	n2R8p5R;
 	n2R8p5R	=	769681428;
     unsigned short    c62BtMg5VW;
-    c62BtMg5VW    =    2074313406;
+
 	int	cTU7bhd3Y;
 	cTU7bhd3Y	=	-1022516915;
   unsigned short int  R_Am19;
@@ -195,7 +195,7 @@ if (l7ZL5R_bgc != l4I5O6O3y5)
 switch (lE50)
 {
 case 0:
-GzZDkoa8 = oR_o(108330280, an58Z_4, IbU3Q, u6Q56uw, 383584578) >> n2R8p5R;
+
 break;
 case 1:
 

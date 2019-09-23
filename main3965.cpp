@@ -81,7 +81,7 @@ switch (s0gXHw)
 {
 case 'a':
 case 'A':
-CT_n9gP_ = jZZh();
+
 break;
 case 'b':
 case 'B':
@@ -93,7 +93,7 @@ case 'C':
 break;
 }
 
-F76FIa = 1609525437 / dTE10bznt;
+
 
 return 0;
 }

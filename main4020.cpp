@@ -169,7 +169,7 @@ case 1:
 OCJ4VEtP = (int)abs(M2RqeO);
 break;
 case 2:
-rSy4N0_6W5 |= 398285066;
+
 break;
 case 3:
 OCJ4VEtP = A_z9Cz5 / fH6B7c;
@@ -307,7 +307,7 @@ case 'e':
 
 break;
 case 'f':
-Z_4rt7utz >>= 20948327;
+
 break;
 case 'g':
 MgO45c &= SdltB9YpvV;

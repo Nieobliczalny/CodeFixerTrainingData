@@ -19,7 +19,7 @@ int main(void) {
   LzcpTwAlP3  =  -703197000;
   M6_9qpY  =  1532977022;
   v2G0o00  =  188223869;
-  sXC0_5tWQ  =  -1878135662;
+
 
 
   KS5vY0U  =  -1432058541;
@@ -29,7 +29,7 @@ int main(void) {
   x9RlXtH  =  -612490471;
   znmlvg  =  -947290089;
   QhAETL  =  1489515589;
-  cBdY5ANVR  =  1282497321;
+
   H_5X1  =  -1351980612;
   NCQ5vy51sU  =  1895813812;
   v2O5pNPP  =  -124260093;
@@ -40,7 +40,7 @@ int main(void) {
   cg9d  =  -1140754761;
   mOfyXk_  =  579912805;
   dIeH  =  1490237190;
-  Sk1tRHi6A5  =  -1386152940;
+
   t_I9mE1ow4  =  -70175079;
   bNLCizC  =  840418634;
   dMNR  =  1667183103;
@@ -50,7 +50,7 @@ int main(void) {
   gesx6ch3  =  -1485110480;
 
   OB_hQVTA  =  794256873;
-  Q7p8lk3qs  =  1820427692;
+
   NZGGre_Y9  =  -1444819423;
   CWE27H_5  =  1952743609;
   yuN0  =  -831524388;
@@ -62,7 +62,7 @@ int main(void) {
   trhi_MMIk5  =  -678368289;
 
 
-  kvfp  =  939056073;
+
   ba0L33  =  847863720;
   kcdvkA  =  796577630;
   F80981A8  =  -1723428349;
@@ -75,7 +75,7 @@ int main(void) {
   ia7J4I3w  =  -264628729;
 
   lQnzfk  =  515151104;
-  Z_8KO1sAs  =  -1092006814;
+
   T4sW2xVeY  =  328063938;
   HPDr84ZjW  =  253525311;
   hy2HdNCvHc  =  417563302;
@@ -97,7 +97,7 @@ case 1:
 
 break;
 case 2:
-ia7J4I3w &= 211660614;
+
 break;
 case 3:
 Tf1_yk57r--;
@@ -167,7 +167,7 @@ case 'b':
 
 break;
 case 'c':
-mOfyXk_ += KS5vY0U;
+
 break;
 default:
 EEz1Wpq8JF += 511435071;
@@ -206,7 +206,7 @@ break;
 }
 else
 {
-Euq_t317bm = WIBbB(-1876164099, 1903435835);
+
 }
 {
 int i = 0;
@@ -223,7 +223,7 @@ else if (nTKywp1Su9 >= -981672870)
 }
 else if (nTm_q_BT6)
 {
-Euq_t317bm = WIBbB(F80981A8, 258386284);
+
 }
 else if (YeOT9rFr & WwrwkN98)
 {
@@ -275,7 +275,7 @@ case 1:
 
 break;
 case 2:
-YppI0 = M6_9qpY >> 1640023263;
+
 break;
 default:
 bbA__Q1Iuj ^= 2040344490;
@@ -296,7 +296,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-F80981A8 = hsRSt1NFdO + CWE27H_5;
+
 break;
 case 'd':
 case 'D':
@@ -308,7 +308,7 @@ YeOT9rFr = WIBbB(571273098, yuN0);
 break;
 case 'f':
 case 'F':
-YeOT9rFr = WIBbB(-211949279, QhAETL);
+
 break;
 case 'g':
 case 'G':

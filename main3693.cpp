@@ -230,7 +230,7 @@ for (int j = 1; j >= 0; j--)
 {
 if (k4wn & L31cd55)
 {
-cQUi2Y5 = (int)floor(g41qzpLSpl);
+
 }
 else if (g41qzpLSpl > 1769895003)
 {

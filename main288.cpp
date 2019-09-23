@@ -36,7 +36,7 @@ switch (d2QTu)
 {
 case 'a':
 case 'A':
-jI_D5Bs0_7 -= WwWT6;
+
 break;
 case 'b':
 case 'B':
@@ -48,7 +48,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-aJoY8q = v0uz3M_98q | LTTZEgZ0_v;
+
 break;
 case 'e':
 case 'E':
@@ -60,7 +60,7 @@ case 'F':
 break;
 case 'g':
 case 'G':
-XraN <<= yQh83;
+
 break;
 case 'h':
 case 'H':
@@ -71,7 +71,7 @@ case 'I':
 
 break;
 default:
-GS4NQ -= T2W1HZd;
+
 break;
 }
 {
@@ -91,7 +91,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-s1Tt_D6Y8 &= 1015157973;
+
 break;
 case 'c':
 case 'C':
@@ -107,7 +107,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-KJ4S9F = H1_q83K ^ sX_syr;
+
 break;
 case 'g':
 case 'G':
@@ -119,7 +119,7 @@ case 'H':
 break;
 case 'i':
 case 'I':
-n8J79G9_ = O9TbGs + 1245499804;
+
 break;
 default:
 sQ_E <<= NLKDEp;

@@ -72,7 +72,7 @@ case 6:
 TNLcI <<= 1905152714;
 break;
 case 7:
-b1bqJtP0DE %= 445280173;
+
 break;
 case 8:
 
@@ -177,7 +177,7 @@ G7nb5o3 >>= Vix1kY;
 cout << Wi79H3efU(Om8PoF, GAF1brKa, a4vfp3H84, 1493157288) << endl;
 try
 {
-YwWjJl6e = (unsigned short int)(UAWusp);
+
 }
 catch (int& errorCode)
 {

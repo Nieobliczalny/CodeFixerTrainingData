@@ -162,7 +162,7 @@ int main() {
 	unsigned int	t_Vja6;
 
 	int	dnnVrj9;
-	dnnVrj9	=	-1756785336;
+
  long fN36N;
  fN36N = 1891829160;
 	long long	l19_LSJg;
@@ -480,7 +480,7 @@ case 3:
 
 break;
 case 4:
-C_Lb08EP = (int)ceil(SFovzzHG2);
+
 break;
 case 5:
 bS778xp10M = (int)abs(n04bb8);
@@ -599,7 +599,7 @@ for (int i = 0; i < 2; ++i)
 
 }
 
-c1bcm5b7a = (short)(U3HjcUpI0);
+
 
 try
 {
@@ -678,7 +678,7 @@ FQ8Hc++;
 }
 else
 {
-r_G415H = (int)floor(aG_Gb4GQ);
+
 }
 }
 catch (int& errorCode)

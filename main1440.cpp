@@ -383,7 +383,7 @@ case 'F':
 
 break;
 default:
-MLoDKDa = p_j_ / Vznu;
+
 break;
 }
 }

@@ -38,7 +38,7 @@ case 'e':
 
 break;
 case 'f':
-gNI3B %= q3w4;
+
 break;
 }
 
@@ -54,7 +54,7 @@ case 'c':
 
 break;
 case 'd':
-z2agy86a = YAPY * Y9Vs32I;
+
 break;
 case 'e':
 jbTch29H &= fzADhg;
@@ -246,7 +246,7 @@ case 1:
 
 break;
 case 2:
-pt6WJ9Dt6 = F_MK08 >> nYgkFb9I;
+
 break;
 case 3:
 zYFjR3337 %= 1132903509;
@@ -266,7 +266,7 @@ if ((bIYBSs1inN / mgui9gE41) >= 1367842749)
 {
 
 }
-R8_Gq = (unsigned long long)(A926ijD6);
+
 
 return 0;
 }

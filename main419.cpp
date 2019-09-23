@@ -366,7 +366,7 @@ IlfcTJ4X7 = wBzivNan_ * 547291500;
 
 std::cout << pl70hCD << "CL_yppkG15" << "AhAgS0Zc4" << IlfcTJ4X7 << std::endl;
 
-ZZNU29 = T5q0(pl70hCD) / TiHXs27;
+
 {
 int i = 6;
 do
@@ -449,7 +449,7 @@ case 'F':
 
 break;
 default:
-wBzivNan_ = T5q0(693270880);
+
 break;
 }
 ++i;
@@ -484,7 +484,7 @@ case 3:
 break;
 }
 
-PBq65L6 = (unsigned int)(JmdT_u1N * PBq65L6);
+
 
 switch (Qu78A16xhW)
 {

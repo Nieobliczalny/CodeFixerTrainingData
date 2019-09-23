@@ -383,7 +383,7 @@ while (i < 8)
 
 }
 }
-aHx_qN = (int)floor(TDQ3NSU7);
+
 
 for (int i = 1; i >= 0; i--)
 {
@@ -438,7 +438,7 @@ break;
 }
 }
 
-HqnwN3 = dP5hF58CK * d93p;
+
 
 
 return 0;

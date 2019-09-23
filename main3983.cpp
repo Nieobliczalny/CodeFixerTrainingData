@@ -61,7 +61,7 @@ case 6:
 
 break;
 case 7:
-NSAF8_ = ldAlE8_();
+
 break;
 default:
 x0FJw--;
@@ -152,7 +152,7 @@ case 1:
 break;
 }
 
-KQP69suG3 = (unsigned long)(gsdwJY);
+
 if (((JhE_8k5uS <= 2009266883) && (M5hR5W7bG7)) || (w_lb2_3 & 666558623))
 {
 for (int j = 6; j >= 0; j--)

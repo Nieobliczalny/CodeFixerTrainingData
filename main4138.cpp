@@ -30,7 +30,7 @@ int main(void)
 
 if (R6l6_3_2i8 >= 302824492)
 {
-qoQ_75H7 = lFJ6x1(qoQ_75H7);
+
 }
 else if (R6l6_3_2i8 & 1253484817)
 {
@@ -149,7 +149,7 @@ case 'e':
 
 break;
 case 'f':
-Cuiq <<= QnnKswTv;
+
 break;
 case 'g':
 DKvi2z0Oj %= 219885271;
@@ -207,7 +207,7 @@ case 'c':
 
 break;
 case 'd':
-q9r_8eA = lFJ6x1(-908232795);
+
 break;
 }
 }
@@ -224,7 +224,7 @@ else
 }
 else
 {
-MAqx0T7a_2 = (int)abs(UERQhqL5n);
+
 }
 }
 else
@@ -241,7 +241,7 @@ case 2:
 
 break;
 case 3:
-i3Cvw = lFJ6x1(539434046);
+
 break;
 case 4:
 
@@ -259,7 +259,7 @@ for (int i = 0; i < 10; i++)
 {
 
 }
-uXLdC = (int)abs(DKvi2z0Oj);
+
 return 0;
 }
 

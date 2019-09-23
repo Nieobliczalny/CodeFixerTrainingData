@@ -27,7 +27,7 @@ int main() {
   jU4Cgr_  =  -805024302;
   vUpcj3  =  542087145;
 
-  mwiD  =  897986639;
+
   bOpl4cq  =  -288862425;
   ox9o82e  =  -1233241545;
   brj5035T  =  578449177;
@@ -146,7 +146,7 @@ case 'a':
 
 break;
 case 'b':
-JTW5 = banBmxubrK | 1407138213;
+
 break;
 case 'c':
 uvzb9S0yR = (int)floor(EPjEQSHN);
@@ -186,7 +186,7 @@ case 4:
 
 break;
 case 5:
-gyTS_k = (bOpl4cq < CS7pb) ? 1822248847 : gyTS_k;
+
 break;
 case 6:
 brj5035T = U___HNN >> 788842769;

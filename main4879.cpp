@@ -171,7 +171,7 @@ int j = 7;
 while (j >= 0)
 {
 --j;
-AUf1y = h9gbL6L - el79S5DQP;
+
 }
 }
 }

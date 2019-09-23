@@ -24,7 +24,7 @@ int main(void)
     unsigned int    aC2_z,    O0OdH,    e_TAHk,    n030t3,    PvddXHF0u,    n_YGNyV2,    H5552003G,    AArDZuH8Uj,    RkkBtAA,    l4SHh,    egTIZ1xF0Z,    tBWiJpU,    niRd4VH2,    dKDplBo,    Zuqd,    LHb42fPj7,    g3_8rh,    h17DW,    wRR0,    xwEa1C8a1,    aJJ41,    w2cP,    FUo2d12,    kF7pJ,    xw1vIkH,    v9Y0I,    Fo3i,    E6H68,    Xbrp65h,    UdO0U2,    f31DCL6vFX,    jimSpkdJW,    y7aN5,    orFGl83h_I,    Pz450v7w,    Q8Qa7D018;
 
     O0OdH    =    -152270560;
-    e_TAHk    =    -459413314;
+
     n030t3    =    -1839827860;
     PvddXHF0u    =    1946894327;
     n_YGNyV2    =    -1081126589;
@@ -281,7 +281,7 @@ cout << "qzITB" << endl;
 }
 else if (Fo3i >= -1778372067)
 {
-niRd4VH2 *= 1581447281;
+
 }
 else if (((O0OdH == xw1vIkH) && (Q8Qa7D018 <= 1115541218)) || (O0OdH < -1258710294))
 {
@@ -310,7 +310,7 @@ cout << n_YGNyV2 << "qsB_RD7hRM" << "Kugry00i" << aJJ41 << Jle_l6iu0l() << endl;
 
 
 
-NU_FvME1g = (long long)(Xbrp65h * NU_FvME1g);
+
 if ((jimSpkdJW >= 149377807) || ((egTIZ1xF0Z < -1497906044) && (xw1vIkH & -979858087)))
 {
 switch (kF7pJ)
@@ -334,7 +334,7 @@ case 5:
 egTIZ1xF0Z++;
 break;
 case 6:
-Zuqd %= FUo2d12;
+
 break;
 case 7:
 

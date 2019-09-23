@@ -75,7 +75,7 @@ int main()
   long long  C9_f7;
   C9_f7  =  714310927;
 	double	ze5nc_b;
-	ze5nc_b	=	-2103309074;
+
   double  LD23n_t4F9;
   LD23n_t4F9  =  1445028354;
   unsigned short  Ag94;
@@ -148,7 +148,7 @@ int i = 0;
 while (i < 3)
 {
 i++;
-ze5nc_b = (double)(N00H);
+
 }
 }
 
@@ -345,7 +345,7 @@ int j = 6;
 do
 {
 j--;
-ze5nc_b = sl5_3och % 1104580028;
+
 }
 while (j >= 0);
 }
@@ -359,7 +359,7 @@ while (i >= 0)
 switch (EPnRL6_O)
 {
 case 0:
-ze5nc_b = (int)floor(Z_2bM6_);
+
 break;
 case 1:
 Te0osz *= 849655443;
@@ -508,7 +508,7 @@ N00H = D55P09 % 959244851;
 }
 else if (lDTL < BVg3G_)
 {
-ze5nc_b = (int)ceil(LD23n_t4F9);
+
 }
 else if (lM3evK)
 {

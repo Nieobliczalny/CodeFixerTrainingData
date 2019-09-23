@@ -564,7 +564,7 @@ case 'd':
 
 break;
 case 'e':
-r1Dw0ud_ = (int)floor(Zv33U);
+
 break;
 default:
 yd5eVST44 = e_3x(yd5eVST44, GlSq_);
@@ -747,7 +747,7 @@ else if (vUT587Cj != -1576326805)
 }
 else
 {
-a3d8a = wB4i / PAXp1RH;
+
 }
 }
 else if (((mcxIfWXax == nl2Mp8r_a) || (w5v2 > 1482452704)) && (S3iPuHo == iFb0crUY3T))
@@ -879,7 +879,7 @@ cout << sdBG << PD61 << LqAft(-1611980194, oRY6N_2Dm_, RmxvFk, m2yQx) << Wzz8(Us
 }
 
 
-wB4i = (unsigned long)(W64yMDi);
+
 
 f_pP4 = LqAft(-789087682, 1522339246, -1082491279, NH3wx3Zz);
 

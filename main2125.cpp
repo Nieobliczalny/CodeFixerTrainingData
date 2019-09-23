@@ -309,7 +309,7 @@ case 2:
 
 break;
 case 3:
-sX6U6_WDDH ^= 24314726;
+
 break;
 case 4:
 K2y_3 = rt2Y7qRH4(269560011);

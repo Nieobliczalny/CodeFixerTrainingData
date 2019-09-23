@@ -221,7 +221,7 @@ while (j < 5)
 ++j;
 for (int k = 0; k < 6; k++)
 {
-Prd6353v6 = O21MF19V(pYfGEMs, -2052432983, Ha21vDPAx) / 984678381;
+
 }
 }
 }
@@ -406,7 +406,7 @@ for (int i = 0; i < 1; ++i)
 int j = 3;
 while (j >= 0)
 {
-D1FiWt = o6AtugB7 + 54566142;
+
 j--;
 }
 }
@@ -422,7 +422,7 @@ case 1:
 
 break;
 case 2:
-Prd6353v6 = FYXH - 1994538565;
+
 break;
 case 3:
 pYfGEMs /= 476901057;
@@ -440,7 +440,7 @@ case 7:
 
 break;
 case 8:
-FGh6L ^= 1534948290;
+
 break;
 default:
 bSDxyI0 = u8_g0_8DI(bSDxyI0, q12fXj, 871468124, lYw1a2h1, tqfwgUWghm);

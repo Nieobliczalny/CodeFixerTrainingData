@@ -102,7 +102,7 @@ std::cout << "U7AQRR_vN" << EFCH_Jq << "yU33fI6Jv" << "Tr_uIiCa" << std::endl;
 
 
 
-B78B = (long)(x9d9);
+
 return 0;
 }
 

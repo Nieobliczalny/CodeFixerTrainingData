@@ -362,7 +362,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-mXDyK /= 1486712871;
+
 break;
 case 'd':
 case 'D':
@@ -378,7 +378,7 @@ case 'F':
 break;
 case 'g':
 case 'G':
-OyxcbP &= 109259337;
+
 break;
 case 'h':
 case 'H':

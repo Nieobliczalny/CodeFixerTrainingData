@@ -184,7 +184,7 @@ case 3:
 
 break;
 case 4:
-M7krlwcv4 = X54ZuB(M7krlwcv4, hm5V_3fM, cawRih4, Kmhh55F);
+
 break;
 case 5:
 DtNzpw9w8 = (int)floor(jqSop);
@@ -445,7 +445,7 @@ else if (c61u_FTS)
 }
 else
 {
-p4G94_ = (int)abs(BZIuP2);
+
 }
 }
 }

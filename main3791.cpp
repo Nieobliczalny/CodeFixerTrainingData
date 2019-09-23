@@ -341,7 +341,7 @@ case 'b':
 
 break;
 case 'c':
-uth4Oi <<= q4dngAd;
+
 break;
 }
 }

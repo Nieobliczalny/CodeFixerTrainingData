@@ -81,7 +81,7 @@ int main(void) {
 	short int	BUxaZhv;
 	BUxaZhv	=	-501029531;
     unsigned char    RV92H22_y;
-    RV92H22_y    =    512902185;
+
   unsigned short int  nBi5db;
   nBi5db  =  -1356330239;
   long  h95TSnFF;

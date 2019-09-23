@@ -136,7 +136,7 @@ int main() {
  unsigned short xb9Z0DA4;
  xb9Z0DA4 = 2072939040;
 
-nDiKeLZg2n = (int)(f8cw5Kw);
+
 switch (KrVep7wxIU)
 {
 case 'a':
@@ -284,7 +284,7 @@ catch (int& errorCode)
 Na66mvmE = r9W7(-381662609, MCwC_DA, h9Wp, 1374574365, 1057651424);
 }
 }
-qcXw90EG_w = r9W7(-298757200, 1094760407, qcXw90EG_w, -1995616871, Isx0Wf787I);
+
 try
 {
 std::cout << "BbfWHE0" << UGe6m << r9W7(-272485766, 163944765, 1927710873, -1995499387, -992686805) << fB2D << "w4oT" << std::endl;
@@ -396,7 +396,7 @@ if ((y5id55dUb3 < -178488408) || (Fv_k31 == 331085274))
 }
 else if (j1u6bW6S14 <= kf3r0)
 {
-qcXw90EG_w = r9W7(kf3r0, -59812216, 1144712415, -1290880155, EaZdS);
+
 }
 else if (of5s != 976634568)
 {
@@ -428,7 +428,7 @@ case 3:
 
 break;
 case 4:
-T0nTTZ = X91En3D9_ << onubu3K2;
+
 break;
 case 5:
 qcXw90EG_w = r9W7(1635114317, zesn5Yn, -1003425638, -254032171, Isx0Wf787I);
@@ -440,7 +440,7 @@ case 7:
 
 break;
 case 8:
-qcXw90EG_w = r9W7(zesn5Yn, U6p5w4_, Fv_k31, 1229554696, 237090982);
+
 break;
 default:
 Na66mvmE = r9W7(1034813826, 1700635942, K3wLiA85v, 51689174, 659941020);

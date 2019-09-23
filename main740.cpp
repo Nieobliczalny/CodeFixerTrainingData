@@ -50,7 +50,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-ktynM3J37 = (int)abs(v6GLL_);
+
 break;
 case 'c':
 case 'C':
@@ -319,7 +319,7 @@ else if ((AO3LS > HEI937hyrZ) || ((gP9rWNi6 != oom0SIcDt5) && (B3iA2pfKh)))
 }
 else if ((GwmQldI6 <= 107341186) || ((ktynM3J37 > 915488374) || (ktynM3J37 > -952071618)))
 {
-ktynM3J37 = HrRb8KaRQ(ktynM3J37);
+
 }
 else if (v6GLL_ >= 309112821)
 {

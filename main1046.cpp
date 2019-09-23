@@ -17,7 +17,7 @@ int main()
   // codechecker_intentional [deadcode.DeadStores] Design rule - initialize all variables
   XU3q0vF497 = q4X_JYt = vckP1 = 0;
 
-Q_4wc8mh07 = (short int)(P_ke);
+
 H9g3q = s95is7t + 803190989;
 e3Ii = QS_TkqQD / vckP1;
 return 0;

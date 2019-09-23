@@ -40,7 +40,7 @@ int main() {
     unsigned short    ZN_0;
     ZN_0    =    -1220292511;
 	unsigned short int	YkkjCpBU9;
-	YkkjCpBU9	=	-1308811898;
+
     double    HJO0_A85GF;
 
  int FUhrb;
@@ -243,7 +243,7 @@ BLoijlr5E = (int)abs(w69dC);
 break;
 case 'b':
 case 'B':
-YkkjCpBU9 = HHi78N1T & Jl5ej4vUsh;
+
 break;
 case 'c':
 case 'C':
@@ -538,7 +538,7 @@ else if (Cf1S >= YVJ47I57_)
 }
 else if (U3_2pFux >= -369961127)
 {
-YVJ47I57_ = (B_AQDg < X6p3s3c3Q) ? -2010839715 : ZT9ey;
+
 }
 else if (TfnsK3C_ & QT7u3)
 {

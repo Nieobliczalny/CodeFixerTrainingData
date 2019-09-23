@@ -26,7 +26,7 @@ int main(void) {
     l4cQJ    =    -1792937054;
     i7w9    =    837074484;
     QXeXF_m    =    477367616;
-    K_tcKpLz1y    =    24497015;
+
     lOi_MmkO    =    849231424;
     zFjFkPeK9    =    -1588234278;
     nrQR    =    -1203743527;
@@ -191,7 +191,7 @@ case 4:
 
 break;
 case 5:
-l4cQJ = f8P_6m(503974535, -1156386135, zFjFkPeK9, 1397266873);
+
 break;
 case 6:
 BQ7qI5 = (int)abs(ICH6dOYUT);
@@ -203,7 +203,7 @@ case 8:
 
 break;
 case 9:
-K_tcKpLz1y = f8P_6m(-1755562992, AgjH0bdf, BQ7qI5, ICH6dOYUT);
+
 break;
 default:
 nrQR--;

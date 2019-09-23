@@ -335,7 +335,7 @@ case 8:
 BZCb = kox3(BZCb, -52070734);
 break;
 default:
-y7wDr3_BX = (int)abs(W_gs69);
+
 break;
 }
 
@@ -364,7 +364,7 @@ case 1:
 
 break;
 case 2:
-LgryA7_ = (int)abs(rtuyAi);
+
 break;
 case 3:
 Pb61N_9++;

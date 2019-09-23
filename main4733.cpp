@@ -327,7 +327,7 @@ case 3:
 hOrl572 -= 307944974;
 break;
 case 4:
-AJ7DoP683 = IL4_DwOuq + 1581956245;
+
 break;
 case 5:
 IL4_DwOuq = (int)floor(w_R5320cw);
@@ -345,7 +345,7 @@ break;
 }
 else if ((SS0jU89) && (l4WrIP >= y227))
 {
-d9gAu = (double)(qt_8x6Il);
+
 }
 else if (E8_5Ow5 >= 921284820)
 {

@@ -32,7 +32,7 @@ int main()
 	unsigned int	vcyp;
 	vcyp	=	-1207802409;
  unsigned short int E579hn1d9;
- E579hn1d9 = 0;
+
  float F00d;
  F00d = 870806264;
  unsigned short int F_3F4;
@@ -94,7 +94,7 @@ int main()
 	long long	S7ei_IG41A;
 
   double  i4O7539;
-  i4O7539  =  -753708742;
+
  unsigned long F2C6;
  F2C6 = -1259966950;
 	unsigned long	G8bhjqay28;
@@ -106,7 +106,7 @@ int main()
  char d0LCkRY;
 
     short int    x0w3VGEb;
-    x0w3VGEb    =    -1246447877;
+
  long HH0p;
  HH0p = 388834100;
  long double vJ02PL;
@@ -272,7 +272,7 @@ case 1:
 
 break;
 case 2:
-i4O7539 = (int)floor(v5f735f5u4);
+
 break;
 case 3:
 w70a = (gZo_sdD10 > Yn_xR9) ? -1573823983 : sbobsH3;
@@ -359,7 +359,7 @@ while (j >= 0);
 
 if (((L3d2__J3 <= -539477641) && (nlev_S5q > -1406979495)) || (uaezWHeS))
 {
-jZDP = (long double)(Yn_xR9);
+
 }
 else if (o6_5he3L9 <= -1091148712)
 {
@@ -426,7 +426,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-V4_U = (int)abs(g7t9xr);
+
 break;
 case 'd':
 case 'D':
@@ -471,7 +471,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-rIw4d = (int)abs(V9w99c);
+
 break;
 case 'd':
 case 'D':
@@ -482,7 +482,7 @@ case 'E':
 
 break;
 default:
-uaezWHeS = QE06(1886662364, -2034269794, -427931830);
+
 break;
 }
 }

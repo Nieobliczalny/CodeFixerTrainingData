@@ -165,7 +165,7 @@ break;
 }
 if (j9h8y != N53sNeW0)
 {
-eVY_ = (long long)(i6Q3lJr);
+
 }
 cout << ZpJ1zM6 << HKeO << UfyoRYE1Y7 << J15zHuX << endl;
 {
@@ -214,7 +214,7 @@ case 2:
 
 break;
 case 3:
-sZjr4v6y = (int)abs(j5l0Qzv);
+
 break;
 case 4:
 
@@ -226,7 +226,7 @@ case 6:
 
 break;
 case 7:
-o9wtYA = B8GXMAsEcC / 1504369362;
+
 break;
 case 8:
 

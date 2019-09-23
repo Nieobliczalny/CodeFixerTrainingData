@@ -549,7 +549,7 @@ case 'F':
 break;
 case 'g':
 case 'G':
-P7t9N = VB92P - 1770969664;
+
 break;
 case 'h':
 case 'H':
@@ -614,7 +614,7 @@ case 1:
 
 break;
 case 2:
-Y6GR7I881 *= 107218816;
+
 break;
 case 3:
 kLV9 = tbAN6D62_ * n_6_Zq;

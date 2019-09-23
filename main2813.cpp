@@ -39,7 +39,7 @@ int main(int argc, char** argv)
     unsigned short    fLiGuYL;
 
  char Ud19;
- Ud19 = 832850254;
+
  unsigned char pAXe_Spu3X;
  pAXe_Spu3X = -897728905;
  unsigned char YFj_fz;
@@ -67,7 +67,7 @@ int main(int argc, char** argv)
     unsigned short    xDqUX1;
 
 	float	W_1Re;
-	W_1Re	=	-1719140865;
+
   long long  h3TYKLTxl5;
   h3TYKLTxl5  =  -72604409;
  unsigned long long tvXV9ywt5;
@@ -87,7 +87,7 @@ int main(int argc, char** argv)
  float Ll_E932q4;
  Ll_E932q4 = -2092438604;
   unsigned int  HxSMVPrLzm;
-  HxSMVPrLzm  =  -1364515210;
+
   char  t3S9jJ2Rg;
 
  unsigned int d2G616;
@@ -97,7 +97,7 @@ int main(int argc, char** argv)
   long  bCxvi1NKd;
   bCxvi1NKd  =  737670754;
  int u2m3C_;
- u2m3C_ = -1648283422;
+
   unsigned short int  Q2JMA74GlX;
 
   unsigned long  Fk1dFF;
@@ -137,7 +137,7 @@ else if (((AY22zL_6 == tvXV9ywt5) || (Lt10215 != tvXV9ywt5)) || ((B66263AmG0 > 5
 }
 else if ((Lt10215 != -743751080) && (R5qXJ0Z58 != ajd521af))
 {
-R5qXJ0Z58 = (int)floor(k7GoP);
+
 }
 else
 {

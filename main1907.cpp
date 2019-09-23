@@ -91,7 +91,7 @@ B14Hd = r7o9c();
 switch (B14Hd)
 {
 case 0:
-JHU_P = r7o9c();
+
 break;
 case 1:
 
@@ -242,7 +242,7 @@ case 'b':
 
 break;
 case 'c':
-Rr3O5 = T1fL9Drs & 1626283698;
+
 break;
 case 'd':
 v6Xg = T_1925 ^ 239655400;
@@ -255,7 +255,7 @@ default:
 break;
 }
 
-BRoOmrG6 = r7o9c();
+
 uKxc = (int)abs(RQ76Mq);
 return 0;
 }

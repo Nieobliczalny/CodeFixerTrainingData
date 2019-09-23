@@ -663,7 +663,7 @@ case 2:
 EoJ0 = cFyZ ^ O759p2Q328;
 break;
 default:
-A4NS02 = Unj4Kz3j / O759p2Q328;
+
 break;
 }
 }
@@ -745,7 +745,7 @@ catch (int& errorCode)
 {
 zc8Vp >>= 745003698;
 }
-m3ztpA ^= N_aM;
+
 
 switch (HIi1yNqj)
 {
@@ -771,7 +771,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-A4NS02 = qGC4M & vPk3xAevrg;
+
 break;
 case 'g':
 case 'G':
@@ -818,7 +818,7 @@ case 'a':
 
 break;
 case 'b':
-S66wkHm8 &= 641738361;
+
 break;
 case 'c':
 

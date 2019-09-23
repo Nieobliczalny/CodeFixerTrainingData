@@ -206,7 +206,7 @@ case 'c':
 
 break;
 case 'd':
-B2r6JhM = (int)floor(i0WTx3vms);
+
 break;
 case 'e':
 b6af1X = WP___8r * cayJof4uq;
@@ -245,7 +245,7 @@ while (i >= 0);
 }
 
 
-cayJof4uq = -1069656867 / I_BU(-1000658439, 893148586, 1111390077);
+
 switch (b6af1X)
 {
 case 0:

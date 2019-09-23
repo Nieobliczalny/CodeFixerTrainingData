@@ -252,7 +252,7 @@ case 2:
 
 break;
 case 3:
-p3N7m = v6YXcsj(WhRx, VoOrL6A, 1098876305, -1028189587, -198257441);
+
 break;
 }
 }
@@ -443,7 +443,7 @@ xn039 = DGQgA_eu(xn039, 1981310416, -1156370675, 954530194);
 break;
 case 'b':
 case 'B':
-THNU = P0KTjBOG5 - P0KTjBOG5;
+
 break;
 case 'c':
 case 'C':
@@ -531,7 +531,7 @@ else
 
 }
 cout << "px6or_JGsK" << endl;
-OQn91 = (int)abs(RKTB7Q);
+
 if ((o9XY <= 891204954) && (U3S9IqQqm != -1133446107))
 {
 cout << qY4vv09 << "RAg6" << ypMRK << endl;

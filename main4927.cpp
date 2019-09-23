@@ -153,7 +153,7 @@ case 'c':
 wgsbQ_U73 = (int)floor(wwqy15fj5b);
 break;
 case 'd':
-JIfR4p509T <<= b8O4nl4;
+
 break;
 case 'e':
 
@@ -177,7 +177,7 @@ case 1:
 iq67 += wgsbQ_U73;
 break;
 default:
-JIfR4p509T = (int)abs(wwqy15fj5b);
+
 break;
 }
 if (mr9qX > -1991273990)
@@ -233,7 +233,7 @@ case 1:
 A72PVNHM6 = t0XS2kR6Q + wwqy15fj5b;
 break;
 case 2:
-mr9qX += 271107946;
+
 break;
 case 3:
 wwqy15fj5b /= 50077941;
@@ -392,7 +392,7 @@ case 3:
 
 break;
 case 4:
-pFqcd_ = WPT38H >> 603475835;
+
 break;
 case 5:
 lrLfv886 = (int)ceil(wgsbQ_U73);

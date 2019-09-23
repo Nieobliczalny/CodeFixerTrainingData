@@ -116,7 +116,7 @@ case 1:
 
 break;
 case 2:
-WOvwg = j3lZhE(258845630, WOvwg);
+
 break;
 case 3:
 ztg6vX |= X20_;
@@ -157,7 +157,7 @@ case 2:
 ISQkm98Pr = EKL_u__M(ISQkm98Pr);
 break;
 case 3:
-SpMYVQA = j3lZhE(h8f2xTX, 288245303);
+
 break;
 case 4:
 

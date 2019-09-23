@@ -74,7 +74,7 @@ int i = 0;
 while (i < 3)
 {
 ++i;
-onN_2 = (int)floor(S1yx);
+
 }
 }
 
@@ -105,7 +105,7 @@ zR23n2Xm = kr7XU34d % 588705065;
 }
 else
 {
-onN_2 = Ty4U4_ << Hag8_o9U6;
+
 }
 
 {
@@ -180,7 +180,7 @@ int j = 9;
 while (j >= 0)
 {
 j--;
-onN_2 = (long double)(kr7XU34d);
+
 }
 }
 }

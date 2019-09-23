@@ -509,7 +509,7 @@ else
 {
 if (aFvXA65 > -827179041)
 {
-bM27ymIQ_3 = (int)floor(WdlR4Fk_);
+
 }
 else if (QF8Vnc >= j_iloNARp)
 {
@@ -568,7 +568,7 @@ else if (o456nlR1 != rC01)
 {
 if (vu5VQ0R2Y & m_1xo_e)
 {
-bM27ymIQ_3 = (int)ceil(w9OK_X_7Ox);
+
 }
 }
 else if ((j_iloNARp >= 1910499046) || (rC01 != 151387493))
@@ -584,7 +584,7 @@ else
 }
 else
 {
-bM27ymIQ_3 = (int)floor(LyCRVP);
+
 }
 }
 else
@@ -687,7 +687,7 @@ else
 
 }
 
-B7O8_q = (int)abs(WfoFIR);
+
 U3zn3 = ZV4_iXlF(449693853, -20793921);
 
 return 0;

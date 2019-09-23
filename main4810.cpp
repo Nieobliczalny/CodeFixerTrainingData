@@ -210,7 +210,7 @@ case 'G':
 break;
 case 'h':
 case 'H':
-fj9rWv1L = (int)ceil(CbDx5V);
+
 break;
 case 'i':
 case 'I':
@@ -343,7 +343,7 @@ else if (r_NGFND & uTAzqkkDX)
 {
 try
 {
-PYuj0D1 = ux_fl9lBUI << 1910387505;
+
 }
 catch (int& errorCode)
 {
@@ -381,7 +381,7 @@ if (ZC1l0l > CJZ6UFRtv)
 {
 if ((wU4XKWg <= 1989412618) && (j1skl1Bo5))
 {
-UO03q9z2s = (int)ceil(khObD);
+
 }
 else if (d_Np_4Y < -1732640461)
 {
@@ -436,7 +436,7 @@ case 'F':
 
 break;
 default:
-H3C192 += U541;
+
 break;
 }
 }
@@ -499,7 +499,7 @@ case 3:
 break;
 }
 
-r_NGFND = (char)(P1SYc);
+
 return 0;
 }
 

@@ -48,7 +48,7 @@ case 6:
 
 break;
 case 7:
-Q5lK = XgyT03R(g1J893, 1802756544, K9D9y2bCT);
+
 break;
 case 8:
 r6NN61K = (int)abs(hp7S2Z_p);
@@ -180,7 +180,7 @@ bxU96n = XgyT03R(-733420266, -1716467075, 1728444023);
 
 
 
-Q5lK = XgyT03R(1353071239, -1682571346, EGGA9_8);
+
 
 if (e6uU5HJ0M <= njQGC3mt)
 {

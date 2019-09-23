@@ -16,6 +16,7 @@ int    eYQ86XD(short int    dRk52,unsigned int    p3jvb,unsigned short    ype5u,
 int main()
 {
  long double YqU24w_, un1d, fT9MJ, MMSq4, a_YJG3F, MTQW13J6, lfCLt7, NbsJ0BW, N9OQy_, n3Sjtk, Zrp0vZ4, nJ6WCpA, xvQ2, x5r1BV0Sv, z_FU4G3N, d3cWwL_27f, TIanN, u5w8YJJI0, Racjd, oF92, d7Dd31_, CQ2JG09S2f, Fq9S6R_13, N45e, OYdqwo, R9_gD, LW5485O_9, tT1QjQ_y, R0Impl, Fj38ppeCQB, gxoaP50R0, j0_07lw65, Qp7787tg, qT__, d54c, Jm4a7m5QBN, Ha8Y9OF_Kn, Id0u, BkEO9a, Vs3H38, XxLVQ, U6eIt, DnU2jH_hY, b4pfs, D4m1WR, cJN_2_, TB3Dh, aeZ3, umwOM1u5, SXA87vpa2Y, ZRThJAcdq, K5bl4nc_Wl, e02T, v1PV8R8d, IOVRw, ThDXg, hLZM, eb1iHhWUc4, nIP96Hql6Z, JCe9bj2_y, c900wfLs8p, s9Rb70p_6c, d0e803i;
+  // codechecker_intentional [deadcode.DeadStores] Design rule - initialize all variables
   YqU24w_ = un1d = fT9MJ = MMSq4 = a_YJG3F = MTQW13J6 = lfCLt7 = NbsJ0BW = N9OQy_ = n3Sjtk = Zrp0vZ4 = nJ6WCpA = xvQ2 = x5r1BV0Sv = z_FU4G3N = d3cWwL_27f = TIanN = u5w8YJJI0 = Racjd = oF92 = d7Dd31_ = CQ2JG09S2f = Fq9S6R_13 = N45e = OYdqwo = R9_gD = LW5485O_9 = tT1QjQ_y = R0Impl = Fj38ppeCQB = gxoaP50R0 = j0_07lw65 = Qp7787tg = qT__ = d54c = Jm4a7m5QBN = Ha8Y9OF_Kn = Id0u = BkEO9a = Vs3H38 = XxLVQ = U6eIt = DnU2jH_hY = b4pfs = D4m1WR = cJN_2_ = TB3Dh = aeZ3 = umwOM1u5 = SXA87vpa2Y = ZRThJAcdq = K5bl4nc_Wl = e02T = v1PV8R8d = IOVRw = ThDXg = hLZM = eb1iHhWUc4 = nIP96Hql6Z = JCe9bj2_y = c900wfLs8p = s9Rb70p_6c = d0e803i = 828249733;
 	short	KN_cdAeHx,	zuNu7;
 		KN_cdAeHx	=	zuNu7	=	0;

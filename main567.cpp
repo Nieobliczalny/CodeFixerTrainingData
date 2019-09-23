@@ -27,7 +27,7 @@ case 1:
 B19u8h3Bb -= BDR4fb;
 break;
 case 2:
-EP0aGipR_ &= Yo9dbms0U;
+
 break;
 }
 
@@ -66,7 +66,7 @@ case 'e':
 
 break;
 case 'f':
-ETATF *= tjt5B8;
+
 break;
 case 'g':
 B19u8h3Bb = u3iy_7 + B19u8h3Bb;
@@ -93,7 +93,7 @@ case 1:
 
 break;
 case 2:
-Yo9dbms0U = nQZ2 * e8Aq;
+
 break;
 case 3:
 bLZNT = bLZNT << 1512834258;

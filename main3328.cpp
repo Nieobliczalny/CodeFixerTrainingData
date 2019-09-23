@@ -23,7 +23,7 @@ int main(int argc, char** argv)
 int i = 3;
 while (i >= 0)
 {
-I_915HnQ65 = (int)abs(x4ZO1iN74);
+
 --i;
 }
 }
@@ -390,7 +390,7 @@ case 3:
 
 break;
 case 4:
-mxnLK = (int)abs(L_vl);
+
 break;
 case 5:
 
@@ -429,7 +429,7 @@ case 1:
 
 break;
 case 2:
-jbyKZZ83ew = m2ks4Zc * 1509704211;
+
 break;
 }
 i--;

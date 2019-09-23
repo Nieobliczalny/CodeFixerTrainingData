@@ -98,7 +98,7 @@ if (G0R35UF7K_ > -121878937)
 {
 if (((WaFB) || (G0R35UF7K_ <= -1034932592)) && (nkDjOK16 == 1596597068))
 {
-Dt6Z6N25 = bPG8(Mk6Ed61, Dt6Z6N25);
+
 }
 }
 else if (Dt6Z6N25)
@@ -109,7 +109,7 @@ else if (nkDjOK16 != 148815707)
 {
 if (x7i1H91F < 1861273657)
 {
-Dt6Z6N25 /= 1019870277;
+
 }
 }
 else
@@ -120,7 +120,7 @@ G0R35UF7K_ = (int)abs(vlqRuMWXBM);
 }
 else
 {
-Dt6Z6N25 = G0R35UF7K_ + WaFB;
+
 }
 }
 }
@@ -141,7 +141,7 @@ int i = 5;
 do
 {
 i--;
-G0R35UF7K_ = vlqRuMWXBM >> 2069826139;
+
 }
 while (i >= 0);
 }

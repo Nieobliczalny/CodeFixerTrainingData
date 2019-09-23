@@ -117,7 +117,7 @@ else
 {
 
 }
-J_ldL9ABxu = JqU9o_sAkA / jG9OBQ;
+
 if ((X8t2lnjG1 <= q2oGamnub2) || ((p0N6sNG > 2102272540) || (Fm5c98p & -76053660)))
 {
 HW05f02 >>= 516798972;
@@ -301,7 +301,7 @@ case 1:
 
 break;
 case 2:
-khkziwVE = (int)floor(p0N6sNG);
+
 break;
 case 3:
 Cie4HUU = yplW0E >> 765255568;
@@ -319,7 +319,7 @@ case 7:
 
 break;
 case 8:
-ku1aZ8 >>= n27yyqk2eZ;
+
 break;
 case 9:
 
@@ -386,7 +386,7 @@ case 1:
 
 break;
 case 2:
-khkziwVE = (int)floor(iHWDNBw7F);
+
 break;
 case 3:
 lH45 = (int)ceil(K24kbW);

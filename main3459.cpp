@@ -44,7 +44,7 @@ int main(int argc, char** argv) {
   q3h2r  =  -1362462385;
 
   WBWHc1  =  1833671835;
-  AK5o23VU5s  =  723321286;
+
   Q_toGj3O0  =  -250911553;
   n40s74c7nS  =  1934336094;
   Y6QNG2  =  -1928015270;
@@ -287,7 +287,7 @@ else
 }
 else
 {
-WBWHc1 = qyhyi(1000137914) * 1707325134;
+
 }
 }
 catch (int& errorCode)

@@ -656,7 +656,7 @@ AbtNf34N = cx9vfvJLu3(AbtNf34N, 960724248);
 break;
 case 'c':
 case 'C':
-SXesan1 = (int)ceil(VTt4rT7K0);
+
 break;
 case 'd':
 case 'D':
@@ -849,7 +849,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-jrvJ_16Iy &= V1CP_6Q;
+
 break;
 }
 }
@@ -903,7 +903,7 @@ else if ((TJ76Kc & Z0_JWgx) && (PknCUElB7l == OidG))
 }
 else if (T6piTZ != -2013264206)
 {
-Q48vP7p = (int)abs(c9i6);
+
 }
 else
 {

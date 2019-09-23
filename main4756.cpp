@@ -33,7 +33,7 @@ int main(int argc, char** argv)
   unsigned char  v26zoL9R;
 
 	short int	nsK45;
-	nsK45	=	1338846123;
+
  unsigned short int Dy8KY;
  Dy8KY = 1340279529;
 	unsigned long long	D4UzC;
@@ -47,7 +47,7 @@ int main(int argc, char** argv)
 	unsigned long long	kb5cc;
 	kb5cc	=	-1221321901;
  long aV95gX4T;
- aV95gX4T = 460667984;
+
     long double    a87kuo9K;
     a87kuo9K    =    1950617348;
 	long double	nAWUSr9R;
@@ -57,7 +57,7 @@ int main(int argc, char** argv)
  double a2Tucpg;
  a2Tucpg = -418957835;
     unsigned long long    k5__FXu;
-    k5__FXu    =    -252422748;
+
   short int  g2dkoQ5;
 
   char  Swcn3TZ;
@@ -67,7 +67,7 @@ int main(int argc, char** argv)
  unsigned long long ZMF4143B;
 
   float  j6ahj;
-  j6ahj  =  -556816079;
+
 	unsigned short	P3P_768;
 	P3P_768	=	-2113651780;
 	int	U26QcwRhVv;
@@ -123,7 +123,7 @@ int main(int argc, char** argv)
 	unsigned short int	i278UKBr9_;
 
   long long  c0QUq;
-  c0QUq  =  -1899452496;
+
   unsigned short int  t1Td5;
   t1Td5  =  0;
 	double	zMTt5v4;
@@ -167,7 +167,7 @@ case 7:
 
 break;
 case 8:
-nsK45 = yXG_2z(1568469952, -236464777, 196077058, b83Qi6v, e7Tvwt);
+
 break;
 case 9:
 
@@ -209,7 +209,7 @@ else if (suDPBOe & kb5cc)
 }
 else if (oZ90 != unU7Ej)
 {
-e7Tvwt = yXG_2z(-724406200, 311546957, 1810534769, 1735935293, -2103246206);
+
 }
 else if (zG__r5W > U12167)
 {
@@ -221,7 +221,7 @@ else if (qvUDG < unU7Ej)
 }
 else if (Li4Vf3KC1 > unU7Ej)
 {
-Nbd5QIv5jH = yXG_2z(Nbd5QIv5jH, -2118253248, U26QcwRhVv, 1290526664, D4UzC);
+
 }
 else
 {
@@ -256,7 +256,7 @@ case 0:
 
 break;
 case 1:
-Csq7sRU ^= b83Qi6v;
+
 break;
 case 2:
 
@@ -274,7 +274,7 @@ else
 cout << "RY4Rv0Yt" << U26QcwRhVv << kB4_T() << Dy8KY << endl;
 
 
-ewCKrxf2_6 = (int)floor(nAWUSr9R);
+
 nAWUSr9R = (int)floor(JiKJYyg);
 return 0;
 }

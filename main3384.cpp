@@ -387,7 +387,7 @@ case 'e':
 N7WqKlC = yokfo0S();
 break;
 case 'f':
-v9Y_8g5SC6 /= 1664172607;
+
 break;
 case 'g':
 if63KP9J2 = (int)abs(jn0bA6FT1);
@@ -448,7 +448,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-Wl65CofC6O = yokfo0S();
+
 break;
 default:
 

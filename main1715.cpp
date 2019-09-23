@@ -124,7 +124,7 @@ case 'b':
 
 break;
 default:
-cae38GQHq = (int)ceil(W99y_44);
+
 break;
 }
 }
@@ -144,7 +144,7 @@ cout << "Bp8I5" << "cmXgH5g7w5" << CiRMj() << LY00Kdm2 << "j5086" << endl;
 while (i < 3);
 }
 
-M5BFU = -799527335 / C3P4D8;
+
 
 
 

@@ -644,7 +644,7 @@ while (i < 2);
 }
 
 cout << mb_P7N << endl;
-NtBS1HP = (int)abs(kQ4l8dX8AT);
+
 for (int i = 4; i >= 0; --i)
 {
 j_mYYRI5w = EM56(j_mYYRI5w, S4q9_, RqqP9Ag1, 573733630, 2145454565);

@@ -123,7 +123,7 @@ case 'b':
 
 break;
 case 'c':
-Ns6ux8 = (int)floor(W8bcIeed);
+
 break;
 case 'd':
 TA3FD = XYtPM();
@@ -163,7 +163,7 @@ case 1:
 
 break;
 case 2:
-ZzI_ = zWpFO8qp(rr4esp1JX9, t781UB_38V);
+
 break;
 case 3:
 MA7U4zC = (int)floor(wY32Wt09b);
@@ -175,7 +175,7 @@ case 5:
 
 break;
 case 6:
-mE54Em = (int)abs(rG1PhpJs);
+
 break;
 }
 

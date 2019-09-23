@@ -55,7 +55,7 @@ int main()
   unsigned int  xf1x;
   xf1x  =  -1495517909;
  long long kiiud;
- kiiud = -1059034651;
+
  unsigned char H_5Pauw;
  H_5Pauw = 0;
 	unsigned short	PCj5OS;
@@ -67,7 +67,7 @@ int main()
 	char	K17un;
 	K17un	=	-689866789;
   unsigned long long  u0Am;
-  u0Am  =  -2065339368;
+
     unsigned long long    uMkjb84;
     uMkjb84    =    185672441;
     unsigned short    gdxI7MyI0o;
@@ -133,7 +133,7 @@ case 0:
 wHhM97802 = c9kIIH9KR(wHhM97802);
 break;
 case 1:
-kiiud = W0n7ghi9(-291861376, -1493149589, zWCt8JpFF, -162122127);
+
 break;
 case 2:
 P9U83k = (int)abs(oqt_);
@@ -217,7 +217,7 @@ case 'd':
 
 break;
 case 'e':
-ciN2vd_U1 = (int)ceil(z56o_01xu);
+
 break;
 case 'f':
 z56o_01xu = (int)abs(P9U83k);
@@ -235,7 +235,7 @@ case 'j':
 
 break;
 default:
-A0mk8x = (int)abs(X31X) * 0;
+
 break;
 }
 }
@@ -273,7 +273,7 @@ case 2:
 
 break;
 default:
-uMkjb84 = w21w7sAK0();
+
 break;
 }
 return 0;

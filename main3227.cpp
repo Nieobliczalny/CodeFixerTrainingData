@@ -31,7 +31,7 @@ int main()
   ddz_F8MU  =  -1493478092;
   dWSi  =  -1351431060;
   nmd6X_4v  =  -1580350976;
-  TmHLGD  =  374607822;
+
   CA46  =  2139683921;
 
   Mr_8XoaYM  =  472711200;
@@ -55,7 +55,7 @@ int main()
   SfQ2h  =  740820868;
   uH0M47Y1  =  307476824;
 
-  jxUS6J  =  -909412198;
+
   FNr7  =  1089074979;
     short    QZqch82Ac1;
     QZqch82Ac1    =    0;

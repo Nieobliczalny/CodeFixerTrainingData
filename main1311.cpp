@@ -28,7 +28,7 @@ int main(void) {
     unsigned short int    ax_3;
 
     long    j4J_w6;
-    j4J_w6    =    -339505265;
+
     unsigned int    B088aAPsQ;
     B088aAPsQ    =    518754495;
   short  S4H1742O;
@@ -58,7 +58,7 @@ int main(void) {
 	unsigned long long	F89zb9hGM;
 
     long long    rdlN61_;
-    rdlN61_    =    -1592726767;
+
 	short int	s_78u7;
 	s_78u7	=	-972897032;
     unsigned long long    x9KLh3m;
@@ -98,7 +98,7 @@ int main(void) {
 	double	JnuAov1X1Y;
 	JnuAov1X1Y	=	-1499404587;
     char    REW6MvW65;
-    REW6MvW65    =    0;
+
     unsigned short    or9F69;
     or9F69    =    -350577712;
  long double O_6GE_8;
@@ -159,7 +159,7 @@ if (h5qm6OcHea > -773710578)
 
 for (int i = 8; i >= 0; --i)
 {
-REW6MvW65 = z3t0mP9(951394002, -745442162);
+
 }
 if (nIB6_QQ2 >= or9F69)
 {
@@ -307,7 +307,7 @@ case 2:
 
 break;
 case 3:
-h5qm6OcHea ^= Fa3aXVo;
+
 break;
 case 4:
 I6K4Ck3 = (int)floor(JnuAov1X1Y);
@@ -319,7 +319,7 @@ case 6:
 
 break;
 case 7:
-e_bMIHSt = cwV1l5E9YH % cM01;
+
 break;
 case 8:
 I4bW = Hq_wIdb(-1275702522, atvMFh3EsS);

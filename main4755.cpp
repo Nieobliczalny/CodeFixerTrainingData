@@ -53,7 +53,7 @@ while (i >= 0)
 {
 if ((UgoCv3 > -601102000) || ((qHGC4 > Yaf4c9b) || (IM5002 < Yaf4c9b)))
 {
-m2_OGBg = (unsigned char)(Yaf4c9b + (310262123));
+
 }
 else
 {

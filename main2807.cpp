@@ -749,7 +749,7 @@ case 'b':
 
 break;
 case 'c':
-l4ANaW0cq = (int)floor(vUB6p9);
+
 break;
 case 'd':
 LU18RhnW = (int)ceil(mHV729k);
@@ -761,7 +761,7 @@ case 'f':
 
 break;
 case 'g':
-oN7WD = (int)abs(N_XcVW);
+
 break;
 case 'h':
 d8O8zq64--;

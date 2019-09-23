@@ -152,7 +152,7 @@ do
 ++j;
 if (VZtC79V7 > 1796685627)
 {
-f_21UB = qK_9vf();
+
 }
 else
 {
@@ -164,7 +164,7 @@ while (j < 2);
 }
 else if (Ekof0_mnt)
 {
-miMbi = qK_9vf();
+
 }
 else
 {
@@ -260,7 +260,7 @@ case 'd':
 ZA272CcnB4 = bxE_9MG_mP / A_5BCvy5__;
 break;
 default:
-Q65z &= e4S7wf4Occ;
+
 break;
 }
 }
@@ -297,7 +297,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-az67of3X9_ = M4N61P();
+
 break;
 case 'd':
 case 'D':
@@ -324,7 +324,7 @@ default:
 break;
 }
 
-e4S7wf4Occ = M4N61P();
+
 {
 int i = 10;
 do

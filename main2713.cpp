@@ -148,7 +148,7 @@ int main(void)
  unsigned long jBwvr1C25;
 
     unsigned short    Zd_694;
-    Zd_694    =    668777203;
+
  unsigned short x_v5sy;
  x_v5sy = 1016366605;
   unsigned long long  R65W3H02b;
@@ -170,7 +170,7 @@ int main(void)
     unsigned long long    jVyhb;
 
 	long double	bMus09Y0;
-	bMus09Y0	=	-835868027;
+
   double  QC06L_;
   QC06L_  =  1479974128;
 	unsigned short	Em9I9Td0_;
@@ -523,7 +523,7 @@ else
 {
 
 }
-orFKx = (int)abs(il8t);
+
 
 if (RLYe6921 <= 313982634)
 {

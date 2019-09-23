@@ -130,7 +130,7 @@ HN_04Mksg = J66M(HN_04Mksg) * 1019030126;
 
 std::cout << "wxB80BWcKc" << "JC_2v29E_1" << gas5dxr0 << "SI0N2_6I" << std::endl;
 Do_xe8 = k3_H2nZ5T / L5I_AR(HN_04Mksg, SrN53xx, -600365454);
-PN9YB4SN5 = J66M(PN9YB4SN5);
+
 {
 int i = 0;
 while (i < 3)
@@ -151,7 +151,7 @@ case 'd':
 HN_04Mksg >>= ZXUBl2kp6r;
 break;
 case 'e':
-e_168 = ct40 ^ 1838558588;
+
 break;
 }
 }
@@ -167,7 +167,7 @@ case 0:
 
 break;
 case 1:
-ct40 = L5I_AR(HN_04Mksg, -1368172579, -220451020);
+
 break;
 case 2:
 
@@ -205,7 +205,7 @@ case 'c':
 Do_xe8 = J66M(1451552599);
 break;
 case 'd':
-BFB5h = RmXsohI80(2119526457, vBO_pf8XV, Do_xe8, 2108063307, k5YI4IoK);
+
 break;
 case 'e':
 ZXUBl2kp6r = DuqYLp2V9(1355837291);

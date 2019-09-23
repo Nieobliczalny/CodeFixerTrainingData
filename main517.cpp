@@ -71,7 +71,7 @@ m7N2OM647p = F7K15f0e(344695657);
 break;
 }
 
-EFw_g2 = (int)ceil(Frs6_EM);
+
 if (af4M_)
 {
 {
@@ -121,7 +121,7 @@ break;
 }
 I71eaI5 = (int)ceil(w7wWI);
 
-FfD9M5y = F7K15f0e(Frs6_EM);
+
 
 std::cout << "awN0y58p" << std::endl;
 if ((m7N2OM647p >= -618291240) || (I71eaI5 >= -681110099))

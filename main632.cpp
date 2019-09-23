@@ -589,7 +589,7 @@ try
 int k = 1;
 do
 {
-to_bQ1pp93 = aHVDbH5iXw(1227123692);
+
 --k;
 }
 while (k >= 0);
@@ -619,7 +619,7 @@ case 'a':
 
 break;
 case 'b':
-bNhGyJ = R4KSH();
+
 break;
 case 'c':
 
@@ -703,7 +703,7 @@ else if ((kd_78F96 <= y9AkJ5t1g) && (k9Xeg == y9AkJ5t1g))
 }
 else
 {
-P7XWEW9e = Pp99H ^ T_39JGJ0R3;
+
 }
 }
 }
@@ -725,7 +725,7 @@ case 'c':
 
 break;
 case 'd':
-kd_78F96 = R4KSH();
+
 break;
 case 'e':
 Que95l9F = (int)floor(g97fOH);
@@ -740,7 +740,7 @@ case 'h':
 
 break;
 case 'i':
-tZj0 = D9PuNvFqG | CN5DDQztxn;
+
 break;
 default:
 

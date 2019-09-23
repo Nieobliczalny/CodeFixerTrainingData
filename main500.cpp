@@ -95,7 +95,7 @@ break;
 
 W7w0_Bmj = (short int)(fscV9hd34q);
 
-djj7 = cPhEF55(Tqdr4HgAAA, djj7);
+
 
 std::cout << "NLo34ZD9D4" << "nQK9lW3W9z" << f1O4ukSk5k(Tqdr4HgAAA) << cGoq << std::endl;
 if (T1M2Sw > xUfFv_5DL)
@@ -351,7 +351,7 @@ case 'f':
 
 break;
 case 'g':
-TcVB450N = MLPWl << fa1qZ4WoV5;
+
 break;
 case 'h':
 q6Eei4 = YuhH00();
@@ -377,7 +377,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-k44D7 = cPhEF55(-2141976504, 420578723);
+
 break;
 case 'c':
 case 'C':
@@ -389,7 +389,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-Tqdr4HgAAA = f1O4ukSk5k(560672938);
+
 break;
 case 'f':
 case 'F':

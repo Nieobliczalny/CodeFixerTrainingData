@@ -60,7 +60,7 @@ int main(int argc, char** argv) {
  unsigned long long GD678BJ9;
  GD678BJ9 = 0;
   unsigned long long  KdEea8Y_3h;
-  KdEea8Y_3h  =  -951781575;
+
   unsigned short int  j2IXR1;
   j2IXR1  =  547095815;
     unsigned short    o3_P522;
@@ -92,7 +92,7 @@ int main(int argc, char** argv) {
 	short int	bGHK;
 
  unsigned int x8vFu5wR;
- x8vFu5wR = -393534267;
+
  long fJOx;
  fJOx = -105750374;
  short int b9cd48Bg;
@@ -118,7 +118,7 @@ int main(int argc, char** argv) {
 	unsigned short	j4cFx;
 	j4cFx	=	-626942625;
     long long    gNM_Y8nES7;
-    gNM_Y8nES7    =    -894663796;
+
   unsigned char  qM9E;
   qM9E  =  -2113739366;
   unsigned char  z6Fjq_PNQ;
@@ -192,7 +192,7 @@ case 'c':
 
 break;
 case 'd':
-H69mNmNDl = xBPI2t2r4j / H69mNmNDl;
+
 break;
 default:
 gF8L3G = (int)ceil(apc_);
@@ -591,7 +591,7 @@ if (yD1bjC <= 158867829)
 int i = 0;
 while (i < 4)
 {
-Uhsb = (int)abs(i66_839k5);
+
 ++i;
 }
 }

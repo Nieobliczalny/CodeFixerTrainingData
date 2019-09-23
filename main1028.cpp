@@ -42,7 +42,7 @@ int main(int argc, char** argv)
     long long    YVh8S;
     YVh8S    =    -1989992380;
  unsigned long AkB49DOu2;
- AkB49DOu2 = 0;
+
     unsigned long    Dz81YE02Zi;
     Dz81YE02Zi    =    -1630894328;
 	float	b_Kx5wUumV;
@@ -192,7 +192,7 @@ else if (evkp8yi5zu & Mvtgq)
 }
 else if (R_8jhXzZS8 & rk86Lj)
 {
-E5OgOCwXL += 1382670679;
+
 }
 else if (IC02WqB != -1689804822)
 {

@@ -48,7 +48,7 @@ int main() {
   j13W  =  -1745747518;
   sF131  =  1936617982;
   O8PY9b_  =  1113524825;
-  ZCj3B1L  =  823207278;
+
 
   KveGh4HO  =  1737798061;
   xJRzadUH5_  =  -1353948878;
@@ -67,7 +67,7 @@ else
 std::cout << pFcO5800 << ys8w4tfxMO(O3_6_) << std::endl;
 }
 
-aFN8Py = (int)abs(qTVYiQV);
+
 
 A9jgTRKv_C = (short)(lX6F);
 
@@ -456,7 +456,7 @@ case 'f':
 
 break;
 case 'g':
-xBG2 = MS_Wa6(xBG2, lX6F);
+
 break;
 default:
 Jme88 = N2Z7(Jme88, 1348606797);

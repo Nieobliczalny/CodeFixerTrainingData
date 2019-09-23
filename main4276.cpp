@@ -110,7 +110,7 @@ else
 
 }
 
-KBzU = (double)(s2J53wAw);
+
 ScY1YjR += 385458045;
 if (No865 < -1016352242)
 {
@@ -122,7 +122,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-KBzU = (int)abs(j_igS);
+
 break;
 case 'c':
 case 'C':
@@ -137,7 +137,7 @@ case 'E':
 
 break;
 default:
-No865 /= 44990983;
+
 break;
 }
 }

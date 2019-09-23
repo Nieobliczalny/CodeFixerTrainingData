@@ -111,7 +111,7 @@ case 0:
 Y_Uy0++;
 break;
 case 1:
-nPK7 = (int)floor(xPJ6);
+
 break;
 case 2:
 
@@ -164,7 +164,7 @@ case 'h':
 
 break;
 case 'i':
-sa_d6W8fR = (int)ceil(OB2Tz1Y);
+
 break;
 default:
 Fz44q_j7Y ^= 1216575339;
@@ -199,7 +199,7 @@ case 1:
 
 break;
 case 2:
-B9Z8i = gpew3 - LtcxwG;
+
 break;
 case 3:
 dbG6ml += YVdP;

@@ -310,7 +310,7 @@ case 1:
 
 break;
 case 2:
-yD_djzEe41 = (int)abs(tt4j8) + (-1784441106);
+
 break;
 case 3:
 yD_djzEe41 = xpEH % QAOn17;
@@ -322,7 +322,7 @@ case 5:
 
 break;
 case 6:
-yD_djzEe41 = F24y_Nmf + 185949678;
+
 break;
 default:
 yD_djzEe41 = QAOn17 & 1083864064;

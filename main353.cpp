@@ -205,7 +205,7 @@ if ((S124xtZ2K > -1090715827) || (pxTp9q593 < CE9L20U))
 int j = 0;
 while (j < 10)
 {
-pxTp9q593 = ouIu2AAa2G(695721776);
+
 j++;
 }
 }
@@ -247,7 +247,7 @@ break;
 }
 
 
-zf19 = ouIu2AAa2G(j4hOGSH87) / A_IxQS(330711723);
+
 
 CE9L20U = A_IxQS(CE9L20U);
 

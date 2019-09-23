@@ -17,7 +17,7 @@ int main()
   unsigned long  SLP9X09Xy4,  Ny2A8Eodt,  v1L9,  wq4O1n,  p17d9,  PeWS0qH4,  A7y603N7,  xQ6_4Y8E,  M8f__T7,  xa0Kju9Ej9,  vcn9,  N86w_,  OB3wBoN5,  A8MYG30TvT,  H7Acm9dp,  Lt4nS60HG,  n01r4,  Obt_W,  xHLk,  NMMsf,  vauAjJv,  G2_9Y,  Vk6d_Qz,  DxbZ0s,  ctuOvQ,  a1Cmd0487,  ZrNWw7YM_,  h4Jiuz6Pt8,  nKB_w,  Acy31b,  PIj_Xum9,  Ss6E5,  XEFB2;
 
   Ny2A8Eodt  =  -1955195080;
-  v1L9  =  2122360416;
+
   wq4O1n  =  1626980123;
   p17d9  =  1615910473;
   PeWS0qH4  =  -1865948222;
@@ -33,7 +33,7 @@ int main()
 
   n01r4  =  -1234495967;
 
-  xHLk  =  -494469840;
+
   NMMsf  =  -498718769;
   vauAjJv  =  -847903042;
   G2_9Y  =  -1370504644;
@@ -44,7 +44,7 @@ int main()
   ZrNWw7YM_  =  2069828951;
 
   nKB_w  =  -1179509063;
-  Acy31b  =  343385239;
+
   PIj_Xum9  =  200473;
   Ss6E5  =  22231860;
   XEFB2  =  1631989690;
@@ -130,7 +130,7 @@ case 1:
 
 break;
 case 2:
-Lt4nS60HG = (a1Cmd0487 <= Vk6d_Qz) ? nKB_w : Vk6d_Qz;
+
 break;
 case 3:
 A7y603N7 = ZAP3xBWw();

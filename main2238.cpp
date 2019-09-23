@@ -499,7 +499,7 @@ if (u6KsM6AT < -520814714)
 }
 else if (GW63T2SL0D <= 1287413629)
 {
-WKH0mqq %= 1078415530;
+
 }
 else if ((QZlE5_LH9k) && (pL050cs9F == j08_C3OL2))
 {
@@ -541,7 +541,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-aPh0hv &= DXY0uc5iQ;
+
 break;
 case 'f':
 case 'F':

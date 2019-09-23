@@ -52,7 +52,7 @@ int main() {
     unsigned long long    FDF9b;
     FDF9b    =    1661755660;
  short int X6M9A7Cf;
- X6M9A7Cf = 948871273;
+
  long double W5fLE4_J8;
 
     unsigned int    k4tJk5;
@@ -70,7 +70,7 @@ int main() {
  unsigned int xw5c;
 
 	unsigned long	fW7_;
-	fW7_	=	1632584063;
+
 	long double	cBnO;
 	cBnO	=	571302154;
   double  Lf_zWd6SH;
@@ -84,7 +84,7 @@ int main() {
     char    ZLVZ2;
 
     long    Cylmy1;
-    Cylmy1    =    -1488248660;
+
     long    XF6trY;
     XF6trY    =    481155253;
 	short int	PcAxQ_m;
@@ -98,7 +98,7 @@ int main() {
     short    b58451;
 
   short int  I1tXC;
-  I1tXC  =  -830999998;
+
   unsigned short int  EPt7Il;
   EPt7Il  =  -345651511;
     short int    p_AygHz3O4;
@@ -149,7 +149,7 @@ else if (k5vug79iML != 982601656)
 {
 if (((yfS_uIU3yt != -2131150384) && (XF6trY < 419114929)) || ((cBnO == -124610504) || (bPX7 > -44647643)))
 {
-Lf_zWd6SH = (int)ceil(ZVCUQcQ);
+
 }
 }
 else if (((PcAxQ_m != -1049014296) && (W5fLE4_J8)) || ((cBnO < k5vug79iML) && (j7Zmox == 1210637529)))

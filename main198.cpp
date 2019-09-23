@@ -37,7 +37,7 @@ int main(void)
 
   ls706oqsm  =  -1346399121;
 
-  QHSEysa4  =  -2081757184;
+
   KB0_Th3Cw  =  1198913215;
   e7sU85U1  =  -1126536283;
   EmQ2V81  =  1965014270;
@@ -48,7 +48,7 @@ int main(void)
   rOAp8gH  =  18670501;
   d8BYc0GF  =  -499157404;
 
-  Ng4E  =  -1215934954;
+
   y_kzRmfur  =  -1685244225;
   pyC6c_Kg3  =  -117019139;
   R78XXQq  =  -1898190921;
@@ -59,7 +59,7 @@ int main(void)
   N5_18sPT  =  1737222307;
   qF99  =  587146888;
 
-  q0X40  =  1794445973;
+
   HAYiG9  =  -1177161245;
   gKdAkPS0v  =  -1542077399;
   bn2a  =  -946595991;
@@ -77,7 +77,7 @@ int main(void)
   ZlRmKT  =  1585850655;
 
   wPr04Z  =  1577218770;
-  NacS  =  -1140779901;
+
   T_3Qti57  =  2114097787;
   KZsIJTA  =  594665093;
   lT_Sih0  =  1250327168;
@@ -90,7 +90,7 @@ int main(void)
 
   UJAazu7O  =  788160438;
   szFU3_6  =  2086038891;
-  f0c542OId3  =  -96819086;
+
   w5j4q649  =  -1290971452;
   g2F_5Nrs  =  359255132;
   h48TwS  =  -826178320;
@@ -171,7 +171,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-QHSEysa4 = uV2_cPChmO | d6bvIKEK1;
+
 break;
 case 'c':
 case 'C':
@@ -316,7 +316,7 @@ while (j < 8);
 }
 for (int i = 2; i >= 0; --i)
 {
-QHSEysa4 = Ps5d672 | de6N1;
+
 }
 
 switch (ls706oqsm)
@@ -328,7 +328,7 @@ case 1:
 
 break;
 case 2:
-gbRt4 = Gqg4tJ0178(-2044589764, UJAazu7O, RcRTL7wP);
+
 break;
 case 3:
 W8qtdc9E /= ZlRmKT;
@@ -368,7 +368,7 @@ case 'b':
 
 break;
 case 'c':
-zBUe46_X = Gqg4tJ0178(zBUe46_X, pyC6c_Kg3, EW7N2CnuOs);
+
 break;
 case 'd':
 d5Na7 = d5Na7 | S6M9pfFv;
@@ -380,7 +380,7 @@ case 'f':
 
 break;
 case 'g':
-sOTBWO = Gqg4tJ0178(zBUe46_X, pyC6c_Kg3, EW7N2CnuOs) >> j3Ki16;
+
 break;
 case 'h':
 gPd_FI3 *= O3k0WS4XK;
@@ -395,7 +395,7 @@ break;
 }
 else if (cAN92NYy6d <= mbe8)
 {
-e7sU85U1 = (unsigned char)(mbe8);
+
 }
 else if ((cna6 < -1437464827) && (Bu4AzCvU3T & mbe8))
 {
@@ -435,7 +435,7 @@ i--;
 while (i >= 0);
 }
 
-Tx5z_hlyzS = -288347920 / O0__xUs456;
+
 
 std::cout << e3_Xu << "saMZ8" << std::endl;
 {
@@ -474,7 +474,7 @@ case 1:
 
 break;
 case 2:
-OXX3T3gR = R1_Di >> I6LCH;
+
 break;
 case 3:
 d5Na7 >>= Lx1keJ0;
@@ -486,7 +486,7 @@ case 5:
 
 break;
 case 6:
-e3_Xu /= OGi2p_;
+
 break;
 case 7:
 H8PLCi660 = CYO3(wPOl, p8EB);
@@ -510,7 +510,7 @@ H8PLCi660 = CYO3(1058117000, dpvX);
 break;
 }
 
-d6bvIKEK1 = bIBN3RiP - 1806980166;
+
 
 return 0;
 }

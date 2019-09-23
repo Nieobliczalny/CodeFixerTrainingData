@@ -212,7 +212,7 @@ i++;
 }
 
 
-y3SG4u8i73 -= Y_2zy;
+
 quJurI_Kwy = (gtqoYPJaV) ? quJurI_Kwy : 721936372;
 
 {
@@ -263,7 +263,7 @@ case 'd':
 
 break;
 case 'e':
-y3SG4u8i73 = uWN2Sw89wL * c0i_1Md;
+
 break;
 case 'f':
 f2719t = (int)abs(quJurI_Kwy);
@@ -321,7 +321,7 @@ std::cout << a2_3 << std::endl;
 switch (oOSn4)
 {
 case 0:
-Du_B4PUh8k = (int)abs(GHcz_Jr_Y2);
+
 break;
 case 1:
 uZ4BS7T = (int)ceil(c8T3_Gy7I);
@@ -339,7 +339,7 @@ case 5:
 
 break;
 case 6:
-c8T3_Gy7I = WJxl / c8T3_Gy7I;
+
 break;
 case 7:
 kV62 = RCIYI2jF * 1828336253;

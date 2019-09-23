@@ -484,7 +484,7 @@ cout << M30zJX_ << "TW_q84SIzk" << "vdX4V9Oyz" << kiibmEhp() << KkUjVnXT << endl
 int i = 0;
 while (i < 6)
 {
-xs8or5jx8c = (unsigned long)(v2_bA_D5J + (313190989));
+
 i++;
 }
 }
@@ -509,7 +509,7 @@ while (j < 8);
 }
 }
 
-EiD62yt = (double)(M30zJX_ + (-54770047));
+
 
 return 0;
 }

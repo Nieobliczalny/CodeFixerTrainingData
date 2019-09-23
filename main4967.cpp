@@ -224,7 +224,7 @@ case 3:
 Ibp2HTxu--;
 break;
 case 4:
-VVwi2RfVV = WP4M7i8r53 / hPk3l7Y;
+
 break;
 }
 }
@@ -318,7 +318,7 @@ else if (J06Xx6nY5g == -1437579026)
 {
 try
 {
-c8ht3m ^= 528564563;
+
 }
 catch (int& errorCode)
 {
@@ -389,7 +389,7 @@ case 5:
 G2akNz_ -= ht4ikf3;
 break;
 case 6:
-VVwi2RfVV = B816Pu * khPZgZs;
+
 break;
 default:
 OI6O = Ibp2HTxu - 1915621685;
@@ -471,7 +471,7 @@ mR9_i = knSpU >> 2127319719;
 }
 if (Z0b0iZ & -1375453752)
 {
-zEW_S4a = seZ4H ^ J06Xx6nY5g;
+
 }
 
 std::cout << "ep44" << std::endl;
@@ -641,7 +641,7 @@ case 3:
 Ah45 = u373L5 - m67S_9S7;
 break;
 case 4:
-u373L5 = (int)abs(Ah45);
+
 break;
 case 5:
 mR9_i = (int)abs(c_E_C_);

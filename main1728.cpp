@@ -277,7 +277,7 @@ while (j < 9);
 
 try
 {
-oOpI0 = (unsigned short)(C6_W * oOpI0);
+
 }
 catch (int& errorCode)
 {

@@ -272,7 +272,7 @@ XpsdT6_9J = kTQj96(XpsdT6_9J, j6h48oEc, 477467419, pw5_7yCd, aGQ12);
 
 
 
-e47lyDP = kTQj96(864809618, 1283482425, z_2d, 1800853693, jYJTT_h);
+
 
 if (wZqa3 >= -462778209)
 {
@@ -309,7 +309,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-bB86Um7MB = bB86Um7MB / 968306397;
+
 break;
 case 'd':
 case 'D':

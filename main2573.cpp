@@ -542,7 +542,7 @@ case 1:
 
 break;
 case 2:
-KujqEV36 = (int)abs(Bz1hV);
+
 break;
 case 3:
 KujqEV36 = (int)abs(P2H7nP);

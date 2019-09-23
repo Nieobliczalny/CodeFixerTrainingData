@@ -89,7 +89,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-aJZS /= oYdkL95eX;
+
 break;
 case 'd':
 case 'D':
@@ -101,7 +101,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-u42G9E = Mvj39 * O8o1Y;
+
 break;
 case 'g':
 case 'G':

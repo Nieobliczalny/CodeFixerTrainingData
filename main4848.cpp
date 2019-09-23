@@ -43,7 +43,7 @@ int main(void) {
     short int    nx1UIh2_R;
 
   unsigned short  dbVH8Fyh9;
-  dbVH8Fyh9  =  -352419649;
+
  long long tj0Deg_C_O;
  tj0Deg_C_O = 573352094;
 	long long	AN9u;
@@ -135,7 +135,7 @@ int main(void) {
   unsigned char  v48t_dk;
 
     unsigned char    V1x9N;
-    V1x9N    =    -1266344596;
+
 	unsigned long long	jicaO9oZb;
 	jicaO9oZb	=	-1394178974;
   long long  K_R4cODT09;
@@ -179,7 +179,7 @@ int main(void) {
     double    B58x9s8I;
 
 
-B58x9s8I = (int)floor(yOJcEbC);
+
 
 FlMt = (short int)(oAtj2ZeqPZ);
 
@@ -369,7 +369,7 @@ std::cout << "yWNLNBTO" << BkDeJ2z << std::endl;
 int i = 2;
 while (i >= 0)
 {
-NMFHTYF = (int)abs(Zyt_lf);
+
 i--;
 }
 }
@@ -445,7 +445,7 @@ default:
 
 break;
 }
-L0r_8aZk *= uR5JN4q;
+
 
 try
 {
@@ -624,7 +624,7 @@ case 2:
 
 break;
 case 3:
-NMFHTYF = (int)floor(DgyV4c);
+
 break;
 case 4:
 qdoc = Mlq_ceG << Tiuba4p3D9;

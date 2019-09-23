@@ -153,7 +153,7 @@ case 'd':
 
 break;
 case 'e':
-EKxr92 = v50B ^ 611622250;
+
 break;
 case 'f':
 d890R = (int)abs(d1Yv9F9f);
@@ -194,7 +194,7 @@ case 4:
 
 break;
 case 5:
-D2ZPN = (int)floor(d890R);
+
 break;
 }
 
@@ -207,7 +207,7 @@ if ((xd8_ != qQt3) || ((t1t1 >= G1ypORJI1c) || (Lq4bZO)))
 
 for (int i = 9; i >= 0; --i)
 {
-JVvyp = (int)floor(GeGc);
+
 }
 
 switch (H7pMI)
@@ -222,7 +222,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-vKaC9KF8 = (int)abs(G5myQdGpph);
+
 break;
 case 'd':
 case 'D':
@@ -234,7 +234,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-YIJmaW7m = Y2OTo_l << 689421310;
+
 break;
 }
 

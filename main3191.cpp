@@ -118,7 +118,7 @@ int main(int argc, char** argv) {
     long long    qCvg96;
     qCvg96    =    -963300921;
  unsigned long long yb6oQ15;
- yb6oQ15 = 254704355;
+
     short int    pI3m0Xu81c;
     pI3m0Xu81c    =    0;
 	long double	j9PF_;
@@ -517,7 +517,7 @@ case 'f':
 c_QAar = IVz4J4 * 945556977;
 break;
 case 'g':
-B96j = (int)ceil(ID7T91Qkf);
+
 break;
 }
 }

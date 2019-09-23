@@ -57,7 +57,7 @@ int main(void) {
 	double	vxk40ye30;
 
 	long double	XvU4RGUM4;
-	XvU4RGUM4	=	1419048200;
+
   unsigned long  X7__ZO5;
   X7__ZO5  =  -2008168620;
   short  nLag_96;
@@ -67,7 +67,7 @@ int main(void) {
 	float	Ah32GC;
 
   float  EKrJ_bFb;
-  EKrJ_bFb  =  434909314;
+
   unsigned long  R8_K2KYvwH;
   R8_K2KYvwH  =  611628455;
     unsigned long    v1_9D2CL;
@@ -77,7 +77,7 @@ int main(void) {
     float    cmV2_h7b;
 
     long double    Eue816F;
-    Eue816F    =    -574526313;
+
  unsigned short TKnwHr;
  TKnwHr = -790612534;
     short    lymZ;
@@ -109,7 +109,7 @@ int main(void) {
  short int Ss1nyh4j;
  Ss1nyh4j = -236524777;
  int qKd6Ui;
- qKd6Ui = 1413162085;
+
 	unsigned short	XYPDhLI9gO;
 	XYPDhLI9gO	=	-1210656055;
     long long    kSS4wZL;
@@ -121,7 +121,7 @@ int main(void) {
  unsigned long EUAZ;
 
 	float	Gw8O;
-	Gw8O	=	-774901153;
+
     unsigned long long    I36Hsa;
     I36Hsa    =    1551204011;
     float    I6PR;
@@ -147,7 +147,7 @@ int main(void) {
     unsigned char    GZSR8uS;
 
 	unsigned char	m_162;
-	m_162	=	-1315869621;
+
   char  SO21AfB;
   SO21AfB  =  57282232;
   long  Qq9A17YG2;
@@ -167,7 +167,7 @@ int main(void) {
     char    ViZ87z7;
 
 	unsigned char	wje1f1Na;
-	wje1f1Na	=	1172007704;
+
  char QAuPs5dEW;
  QAuPs5dEW = -134980293;
  short int hnU4e0L2tq;
@@ -179,7 +179,7 @@ int main(void) {
     long double    PE8y;
 
 	char	YG0Xl;
-	YG0Xl	=	-2147394805;
+
   short int  lxuG;
   lxuG  =  1978508270;
 	double	VUuE_X016R;
@@ -191,7 +191,7 @@ int main(void) {
  long ijWX7QXg7b;
 
     int    m2P9reY_nc;
-    m2P9reY_nc    =    -622964389;
+
   short int  gPEE5E;
   gPEE5E  =  1453119661;
  float dOcR0ys_F;
@@ -453,7 +453,7 @@ case 'b':
 
 break;
 case 'c':
-QAuPs5dEW = (int)abs(yv08);
+
 break;
 case 'd':
 Sf65V9 = WLen6pe8MH(2092952301, -1155849084);
@@ -507,7 +507,7 @@ case 1:
 
 break;
 case 2:
-PE8y = (int)floor(iVl3z);
+
 break;
 case 3:
 dOcR0ys_F = (mC07SR) ? -830869828 : HOj900I;
@@ -519,7 +519,7 @@ case 5:
 
 break;
 default:
-n_4DYefU0 = Gpc2y93(559543776, X_VU2fv7e, -1103708604);
+
 break;
 }
 }

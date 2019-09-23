@@ -108,7 +108,7 @@ if (yIMts_NX2W(421852721, EWe1R3uq, dLZm491Ws, 1075439096, -86616563) == 0)
 }
 for (int i = 0; i < 3; ++i)
 {
-pSg_g8ktG = (char)(Qp2bF);
+
 }
 std::cout << hJ06ZO4(791897033, -389790356, -645013678, j2StX, OjsD95) << Bim7RTf2 << "PF21ZcE9" << ip1AaX << std::endl;
 if (OjsD95 <= ip1AaX)
@@ -122,7 +122,7 @@ case 1:
 
 break;
 case 2:
-lo2C7gPYhq = B51tcb(lo2C7gPYhq, fW0GXTe);
+
 break;
 }
 }
@@ -142,7 +142,7 @@ case 1:
 
 break;
 case 2:
-p0babi = v26V ^ 1557767493;
+
 break;
 case 3:
 c5n1b = WH1U(c5n1b);
@@ -210,7 +210,7 @@ case 2:
 WP5h3J = (d3_47m9F < -433749823) ? yIMts_NX2W(1092611855, 80310440, Z1__8, y85pT8Q00p, 1447216159) : yIMts_NX2W(VY08d, 1696234109, 1249648231, y85pT8Q00p, -2055925625);
 break;
 case 3:
-XxUM7 = jrV_mK << vqhAxQ;
+
 break;
 case 4:
 

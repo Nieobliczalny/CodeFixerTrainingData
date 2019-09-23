@@ -20,7 +20,7 @@ int main(void)
   int  G6ks24Y9;
 
  long double dp9Z;
- dp9Z = -1476270043;
+
   double  oY8v_S;
   oY8v_S  =  166741059;
  long long Kq0T;
@@ -46,7 +46,7 @@ int main(void)
  long long T_V5Z8;
  T_V5Z8 = -1036086772;
  double mPv50z70;
- mPv50z70 = -1425270763;
+
   double  i4O20Tu;
   i4O20Tu  =  -2057857310;
  double Tk805;
@@ -68,7 +68,7 @@ int main(void)
     unsigned char    Fp6709q;
     Fp6709q    =    -252930966;
     unsigned int    ad3Omv7U;
-    ad3Omv7U    =    -503281141;
+
   long long  sQ77GFNt9;
   sQ77GFNt9  =  855916704;
     double    O997s;
@@ -86,7 +86,7 @@ int main(void)
     long    Uo8hDl72z;
 
     char    k77LC7h;
-    k77LC7h    =    -1584017428;
+
  unsigned long mueGTDER2;
  mueGTDER2 = -1317110584;
  unsigned long C_86KWyS_3;
@@ -96,7 +96,7 @@ int main(void)
 	unsigned long long	TWW9jZEhdg;
 
 	char	E27fy;
-	E27fy	=	-1960725501;
+
   short int  n8Db6d_9ko;
   n8Db6d_9ko  =  -722704303;
 	int	D2rD9;
@@ -108,7 +108,7 @@ int main(void)
   unsigned long long  U_3XZO31W;
   U_3XZO31W  =  984872986;
   unsigned long long  c__0hc_;
-  c__0hc_  =  48279584;
+
 	long	PSx6rLI;
 
   double  NJ771;
@@ -124,7 +124,7 @@ int main(void)
  char cDc4_W;
 
   long double  d4wD8923;
-  d4wD8923  =  1499917937;
+
  int Z457Ws;
  Z457Ws = 1598217926;
 	unsigned char	dC4AMdD4;
@@ -138,7 +138,7 @@ int main(void)
   double  rHL5;
   rHL5  =  -1021608024;
 	short	n7sgug72C_;
-	n7sgug72C_	=	1548973413;
+
     double    c3mi3F2pR;
     c3mi3F2pR    =    2128216472;
     float    aDP_1_xTPo;
@@ -150,7 +150,7 @@ int main(void)
   long long  N0a9CE;
 
     unsigned short int    CL72VGCu9;
-    CL72VGCu9    =    0;
+
     float    RJgJIcNg;
     RJgJIcNg    =    -1573827404;
   long long  qh6kT5;
@@ -168,7 +168,7 @@ int main(void)
     float    AZOc1;
 
 	long long	FX4_;
-	FX4_	=	-2052509880;
+
 
 switch (T_V5Z8)
 {
@@ -202,7 +202,7 @@ case 'G':
 break;
 case 'h':
 case 'H':
-CL72VGCu9 = L42cC();
+
 break;
 }
 if (NCMi4 == -1683711249)
@@ -267,7 +267,7 @@ int i = 2;
 do
 {
 i--;
-CL72VGCu9 = L42cC();
+
 }
 while (i >= 0);
 }
@@ -351,7 +351,7 @@ else
 {
 
 }
-AZOc1 = (int)ceil(qhQqswSS);
+
 return 0;
 }
 

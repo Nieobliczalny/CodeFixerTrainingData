@@ -68,7 +68,7 @@ int main(int argc, char** argv)
     short    m18dRB;
 
  unsigned char n74n8261;
- n74n8261 = -1794636506;
+
     float    eZeODUlK;
     eZeODUlK    =    553946132;
  char cE55UjY;
@@ -80,7 +80,7 @@ int main(int argc, char** argv)
     long long    N_K3;
     N_K3    =    58530133;
     unsigned int    gCP7U;
-    gCP7U    =    549009831;
+
   unsigned short int  t3yfE3v7;
   t3yfE3v7  =  -711330671;
   long  BYgvX259z;
@@ -130,7 +130,7 @@ int main(int argc, char** argv)
     short int    f9369Z;
     f9369Z    =    404959454;
   long  TFE_6RS5XI;
-  TFE_6RS5XI  =  -1607814076;
+
 	unsigned int	h4Aj;
 	h4Aj	=	-1564762398;
     unsigned long    Iq6aa;
@@ -200,7 +200,7 @@ int main(int argc, char** argv)
     unsigned long long    fYC6;
     fYC6    =    -1700634754;
     short int    w_Dl7k5;
-    w_Dl7k5    =    -1751947844;
+
  unsigned long rCYOVDp4k4;
  rCYOVDp4k4 = -378685516;
   double  QMw8xb;
@@ -575,7 +575,7 @@ case 4:
 
 break;
 case 5:
-AD_9383A = (int)floor(WGHM2D);
+
 break;
 case 6:
 eZeODUlK = Wr8_YLX6q(eZeODUlK);
@@ -606,7 +606,7 @@ case 'b':
 
 break;
 case 'c':
-r5lz8 = Farwds % sboreN7S15;
+
 break;
 case 'd':
 AD_9383A = (int)ceil(vb_22K);
@@ -621,7 +621,7 @@ case 'g':
 T32gt_3_ = (int)floor(i72zx9J5X);
 break;
 case 'h':
-QA755U = Wr8_YLX6q(1963918681);
+
 break;
 case 'i':
 
@@ -631,7 +631,7 @@ default:
 break;
 }
 
-bvE6rb4lws = (unsigned int)(cE55UjY);
+
 
 n74n8261 = r0Yc2ea7(-1312907348, mITjyg);
 

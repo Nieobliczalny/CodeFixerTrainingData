@@ -53,7 +53,7 @@ int main(void)
   unsigned short  FhwbS0;
   FhwbS0  =  -883695565;
   short  Rh8Z;
-  Rh8Z  =  -1384681729;
+
   unsigned int  DGpih;
 
   unsigned long long  rgiI;
@@ -77,7 +77,7 @@ int main(void)
 	unsigned long long	GOn5q2;
 	GOn5q2	=	-181747347;
     unsigned long long    m56b_7ON;
-    m56b_7ON    =    1705341681;
+
     short    Q88_gPdkk;
     Q88_gPdkk    =    1826211526;
     unsigned char    oN5Fr6h_I;
@@ -101,7 +101,7 @@ int main(void)
   long  c8rFsT3;
 
     unsigned long long    uSOwS7eEN5;
-    uSOwS7eEN5    =    -1205529255;
+
 	long	mW0s;
 	mW0s	=	-134285897;
 	short int	U9Dcmt_;
@@ -288,7 +288,7 @@ case 'b':
 
 break;
 case 'c':
-yf4dMcgu60 ^= 1266222283;
+
 break;
 case 'd':
 O_6l = (int)ceil(ia9R51);
@@ -400,7 +400,7 @@ case 'G':
 break;
 case 'h':
 case 'H':
-XV4l_NDF = (int)abs(TKOW5);
+
 break;
 default:
 

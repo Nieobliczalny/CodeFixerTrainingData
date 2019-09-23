@@ -61,7 +61,7 @@ int main(int argc, char** argv)
     unsigned short int    kL0lhj0Iy;
 
  float E48tv2um;
- E48tv2um = 1262208846;
+
 	short int	GhkPU;
 	GhkPU	=	-1134806468;
  int QITJWQp;

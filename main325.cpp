@@ -299,7 +299,7 @@ case 'F':
 break;
 case 'g':
 case 'G':
-SviQdhT3_F = tH47Sl();
+
 break;
 case 'h':
 case 'H':

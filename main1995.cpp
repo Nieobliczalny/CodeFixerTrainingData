@@ -44,7 +44,7 @@ case 4:
 
 break;
 case 5:
-c15e = (B87Rjg67 > W7Ok4E7) ? Pvi3PE8 : iq20ANz;
+
 break;
 case 6:
 
@@ -71,7 +71,7 @@ i++;
 int i = 0;
 do
 {
-iq20ANz = (float)(sez2hSV);
+
 i++;
 }
 while (i < 8);
@@ -129,7 +129,7 @@ My_JU5 = (int)abs(keTF1A78);
 break;
 case 'd':
 case 'D':
-tIo3K3Bf62 = (vv5mEx < 741150055) ? 345473607 : CTiD;
+
 break;
 case 'e':
 case 'E':
@@ -153,7 +153,7 @@ case 'I':
 break;
 case 'j':
 case 'J':
-N5_26JwA0d = D3n9133 / 617015798;
+
 break;
 default:
 
@@ -164,7 +164,7 @@ if (Il8f1S5vQ != eg628LdC)
 
 }
 
-XeFQ09d = (int)abs(H536_93b0);
+
 
 
 if (soYT2xz_PS >= e8G9iBg)
@@ -187,7 +187,7 @@ case 3:
 YYFu2G_T = (int)ceil(K3SKbX);
 break;
 case 4:
-rAoGPT = eg628LdC | 235985778;
+
 break;
 case 5:
 
@@ -199,7 +199,7 @@ SAT_weM9Z = Il8f1S5vQ / PN77oG;
 
 if ((CXFs_ > vLt_wnRX7f) || ((My_JU5) || (Zb71y9EvXn)))
 {
-pl43 = aEaYiM1zr3 / 1177879681;
+
 }
 
 if (Kof54 == -1536775589)
@@ -238,7 +238,7 @@ case 2:
 
 break;
 case 3:
-GyA_o_g7 = (int)abs(lm5Kqj);
+
 break;
 case 4:
 E8vt13SZ *= 1610653370;
@@ -252,7 +252,7 @@ break;
 switch (PN77oG)
 {
 case 'a':
-Zb71y9EvXn += 1550142367;
+
 break;
 case 'b':
 

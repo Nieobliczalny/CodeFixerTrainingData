@@ -902,7 +902,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-XaoPMCHRF *= 169159509;
+
 break;
 case 'd':
 case 'D':

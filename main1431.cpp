@@ -41,7 +41,7 @@ int main(int argc, char** argv) {
     unsigned char    Dv6I;
 
 	unsigned short int	Zb7slFmn_;
-	Zb7slFmn_	=	1801186791;
+
   short  FuH8842C17;
   FuH8842C17  =  0;
  unsigned short KGEm;
@@ -53,7 +53,7 @@ int main(int argc, char** argv) {
 	unsigned short	WD3Y6;
 
 	short	kwSq398;
-	kwSq398	=	-2125357618;
+
 	unsigned short	ouVSI_F2o;
 	ouVSI_F2o	=	-292795962;
 	unsigned int	B01N3uBgGA;
@@ -71,7 +71,7 @@ int main(int argc, char** argv) {
     double    j3S_IQ2B;
     j3S_IQ2B    =    -470708998;
  unsigned short EhLG;
- EhLG = 1993019927;
+
     long    DdOxM_KK;
 
   unsigned short int  yS_88e;
@@ -87,7 +87,7 @@ int main(int argc, char** argv) {
     int    fN8H9;
 
     unsigned short int    dq31;
-    dq31    =    1774748924;
+
     float    wtqq5GNgL;
 
 	unsigned int	Ve224H;
@@ -99,7 +99,7 @@ int main(int argc, char** argv) {
     unsigned short int    h111z_6Xsg;
 
 	unsigned short	o75f2;
-	o75f2	=	-324370457;
+
 	long	A6vP81M7y;
 	A6vP81M7y	=	-2014235092;
     long double    eux4ol;
@@ -111,7 +111,7 @@ int main(int argc, char** argv) {
 	int	O_GfrV2BJ;
 
  short V3pj7Yv50R;
- V3pj7Yv50R = -117894914;
+
  long long O_Yv8z7E;
  O_Yv8z7E = 966476934;
  unsigned short int L891L_iRW;
@@ -123,7 +123,7 @@ int main(int argc, char** argv) {
  float xE7e2c_v;
 
     unsigned short int    K3sOP6P5yV;
-    K3sOP6P5yV    =    467439391;
+
  char jsW7iyA1;
  jsW7iyA1 = -1143255113;
 	short	nwYO198jp;
@@ -161,7 +161,7 @@ int main(int argc, char** argv) {
  int z66R7i;
 
 	double	JIh4V;
-	JIh4V	=	-870996709;
+
 	unsigned short	r52X79eu;
 	r52X79eu	=	0;
 	int	FCSU5zO1_S;
@@ -171,7 +171,7 @@ int main(int argc, char** argv) {
  short K237u8uZ;
 
  char uAPTR;
- uAPTR = 3370144;
+
  short jdi2U9Wb1x;
  jdi2U9Wb1x = -2010719871;
  long long MBo57142;
@@ -187,7 +187,7 @@ int main(int argc, char** argv) {
     long long    wq7n__5T25;
     wq7n__5T25    =    1907107916;
     unsigned short int    Yg4e;
-    Yg4e    =    -267745445;
+
     char    G8KLEx_CA;
     G8KLEx_CA    =    1119373070;
 
@@ -229,7 +229,7 @@ case 6:
 
 break;
 case 7:
-hqnZD_a = (int)abs(M_u78BNJy);
+
 break;
 case 8:
 a623 = o4Zf(a623);

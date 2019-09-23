@@ -51,7 +51,7 @@ int main(void)
     unsigned char    G4lBH71b40;
     G4lBH71b40    =    1901977171;
 	unsigned long long	G3S7W;
-	G3S7W	=	-705900007;
+
 	unsigned char	NUyc4;
 	NUyc4	=	161755572;
   unsigned char  ncD4D;
@@ -83,7 +83,7 @@ int main(void)
   long long  K6Rz;
   K6Rz  =  341798886;
 	long long	Hj9DA;
-	Hj9DA	=	737318121;
+
 	double	aemQJe9j;
 	aemQJe9j	=	-1533335404;
     long long    uQSv8;
@@ -152,7 +152,7 @@ case 1:
 ncD4D = ab3jMG2(-187068881, 1389346315, -629127697, 1307555391);
 break;
 case 2:
-Hj9DA = hiwxQ9L3c(438111771, 1396719498, vks0zEvaxD, ms08L, sy6__C);
+
 break;
 case 3:
 wbmD34o /= 412130488;
@@ -248,7 +248,7 @@ case 7:
 m3f1a = (int)abs(W5sr_myN);
 break;
 default:
-aemQJe9j = WF4S044 - 1704002169;
+
 break;
 }
 }
@@ -287,7 +287,7 @@ R55m = (unsigned short)(sNs2);
 switch (uQSv8)
 {
 case 'a':
-aemQJe9j = (int)floor(yftnjMs);
+
 break;
 case 'b':
 G4lBH71b40 = Lognp9h76a(922216856, 1672468714, Hig0_j_y);
@@ -436,7 +436,7 @@ if (sy6__C)
 {
 if (PhVlV < -152160986)
 {
-aemQJe9j = (int)ceil(VJf_CzVi2);
+
 }
 else
 {
@@ -448,7 +448,7 @@ q4D5pQA_ -= 949543712;
 
 std::cout << hiwxQ9L3c(-1912617526, vGQ32, 270650401, G4lBH71b40, 560519527) << m3f1a << Fo719iSkGy << uQSv8 << std::endl;
 
-W5sr_myN = a9QPRNeV(820095869, -174757126, VJf_CzVi2, -3045107, 1228522059);
+
 if (sNgQoO != J1qR)
 {
 switch (G4lBH71b40)
@@ -460,7 +460,7 @@ case 'b':
 
 break;
 case 'c':
-ga86MPqZrA = Lognp9h76a(uQSv8, ga86MPqZrA, 328409137);
+
 break;
 case 'd':
 sNgQoO = (int)abs(CX3_K6);
@@ -484,7 +484,7 @@ i--;
 }
 
 
-ga86MPqZrA = a9QPRNeV(10928244, -1496196880, q4D5pQA_, -2003514107, NUyc4);
+
 
 CqUEd34 = ab3jMG2(-861587289, -1064627415, -133053108, -340246805);
 

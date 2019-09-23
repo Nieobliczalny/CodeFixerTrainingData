@@ -152,7 +152,7 @@ if (k_G59_9clS & 236617966)
 }
 else
 {
-t33R = (int)abs(oHZG);
+
 }
 
 

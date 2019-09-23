@@ -379,7 +379,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-bIjd = (int)ceil(S_AId);
+
 break;
 default:
 a4FxIw -= 1792756764;
@@ -560,7 +560,7 @@ else if (((ljC0c < 1059448190) && (pz1CTY >= yBbA4)) || (m14A1Hb > -1756071999))
 }
 else
 {
-Bp3_ *= f77p;
+
 }
 {
 int i = 0;
@@ -651,7 +651,7 @@ case 4:
 
 break;
 case 5:
-TxZO >>= t_7aamz3C;
+
 break;
 case 6:
 

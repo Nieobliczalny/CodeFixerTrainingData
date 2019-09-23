@@ -15,7 +15,7 @@ unsigned long RtRMe(unsigned long long X8nKL,int O8PHlHPwJY,unsigned char xTSJNn
 int main()
 {
 	long	Q5rPCu;
-	Q5rPCu	=	633482980;
+
  long T_IoFXt;
  T_IoFXt = 0;
 	unsigned short	MTWel;
@@ -49,7 +49,7 @@ int main()
  unsigned int BXtx;
  BXtx = 883554687;
     unsigned char    LEyY6g69;
-    LEyY6g69    =    -1878521737;
+
   short int  m71D__62zR;
   m71D__62zR  =  481632563;
     char    wH4DkiXCT;
@@ -61,7 +61,7 @@ int main()
  unsigned short int ZKjzuXuV;
  ZKjzuXuV = 1029658889;
 	int	dE6T5If8M;
-	dE6T5If8M	=	1343736907;
+
     char    y0O3c_1S2E;
 
     unsigned long long    hSg38s7eQ;
@@ -95,7 +95,7 @@ int main()
 	unsigned long	RbF28Q55;
 	RbF28Q55	=	-62917797;
     double    tOOW8N;
-    tOOW8N    =    -1724760341;
+
   char  IgC62F91;
 
  long long d523_8mv;
@@ -105,7 +105,7 @@ int main()
     int    Vh_7rOr;
     Vh_7rOr    =    -23367408;
     char    dW6pJ90X0;
-    dW6pJ90X0    =    0;
+
   int  e95S5D_H;
   e95S5D_H  =  956035602;
     long    Udnfc9j;
@@ -192,7 +192,7 @@ case 2:
 ItnMN6jN = (int)ceil(pYGd19);
 break;
 case 3:
-tOOW8N = OJzN954X_0(tOOW8N, 192954614, L2C674Xf0B, 1328388233, IM30R9C7C);
+
 break;
 case 4:
 
@@ -204,7 +204,7 @@ case 6:
 
 break;
 case 7:
-kl5_ = (int)floor(dR33L8);
+
 break;
 case 8:
 rcDdWg_ = (int)abs(d523_8mv);
@@ -323,7 +323,7 @@ case 6:
 
 break;
 case 7:
-YUJL9_qv = RtRMe(961519237, 112523377, A6VrcY, -82762002, tpEm0qBi) << o9Jl6N4;
+
 break;
 }
 }

@@ -699,7 +699,7 @@ do
 ++i;
 for (int j = 2; j >= 0; j--)
 {
-pCEG = gw068Zo1R();
+
 }
 }
 while (i < 1);

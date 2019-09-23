@@ -89,7 +89,7 @@ int main(int argc, char** argv)
  unsigned long ZHm6;
  ZHm6 = 0;
 	unsigned short int	g1G0fN_fj4;
-	g1G0fN_fj4	=	-2028459014;
+
 	double	q3f7q;
 	q3f7q	=	-2120486555;
 	unsigned short int	j0IkZ8dR65;
@@ -107,7 +107,7 @@ int main(int argc, char** argv)
  char mJb0;
  mJb0 = 135108404;
   long  z5shz_W3;
-  z5shz_W3  =  -1793840606;
+
     char    e6M9_lw;
     e6M9_lw    =    0;
     unsigned char    hU6U;
@@ -131,7 +131,7 @@ int main(int argc, char** argv)
     unsigned char    zr6L5Dq_;
     zr6L5Dq_    =    -529797756;
 	double	zP_rJ;
-	zP_rJ	=	-557380044;
+
   unsigned char  eVb_9rE52S;
 
   unsigned char  pHq7k9KW;
@@ -141,7 +141,7 @@ int main(int argc, char** argv)
  unsigned short d4tO5tf0V;
 
 	short	LgU5L;
-	LgU5L	=	-1349725550;
+
  double oos7o;
 
  long b_a39;
@@ -193,7 +193,7 @@ OA39_9c = Unx_();
 
 if ((Mmfg <= -355429592) && (JtkIupg != hx__N))
 {
-aVGfF |= 802481343;
+
 }
 else if (Sfdw > -263779091)
 {
@@ -271,7 +271,7 @@ case 2:
 JcYbD0Wsm = Unx_();
 break;
 case 3:
-e6M9_lw = erPrh_j1(-779246322);
+
 break;
 case 4:
 
@@ -298,7 +298,7 @@ break;
 }
 N2asmv >>= 2057637706;
 
-g1G0fN_fj4 = bga4228(472961080, ADu3ZD5, -71324314, -1669524772);
+
 
 std::cout << Unx_() << "B2e0E0b" << std::endl;
 
@@ -404,7 +404,7 @@ case 'b':
 FNQ4u26 = (int)ceil(juCO);
 break;
 default:
-e8H04a = (int)abs(q3f7q);
+
 break;
 }
 }
@@ -449,7 +449,7 @@ case 2:
 hU6U %= 1048478552;
 break;
 case 3:
-sfiMbDO = bga4228(-144114495, A3djly, GqW0JUW1I, MUvztPh) | 430158004;
+
 break;
 case 4:
 
@@ -500,7 +500,7 @@ case 2:
 
 break;
 case 3:
-P1SZ1HRD = m9Ep24W_(P1SZ1HRD, 742288156, knW56M5wkH, q3f7q);
+
 break;
 case 4:
 ZHm6 = erPrh_j1(juCO);
@@ -512,7 +512,7 @@ case 6:
 
 break;
 case 7:
-qa6irnxt = m9Ep24W_(qa6irnxt, o4s025, 828608613, vEh2);
+
 break;
 case 8:
 eVb_9rE52S = (vEh2 < 261733875) ? 2117438308 : mJb0;
@@ -627,7 +627,7 @@ case 2:
 
 break;
 case 3:
-MUvztPh = bga4228(MUvztPh, 2089520433, OA39_9c, 913745077);
+
 break;
 }
 }

@@ -522,7 +522,7 @@ case 'c':
 
 break;
 case 'd':
-JqdoCk = ufK81qL5(JqdoCk);
+
 break;
 case 'e':
 ZJ60LUg = (int)floor(Quei7x2);
@@ -570,7 +570,7 @@ else
 std::cout << Y71e_S55A << F356(-1412231655) << e9ku4WcPy9 << Z3bln59(1640646321, 910001561, Bb1eEVaz, -1517798526, -1501144924) << "IJCGfzP" << std::endl;
 }
 
-Bb1eEVaz = V6gz6Y9J2 >> 1943519971;
+
 
 
 

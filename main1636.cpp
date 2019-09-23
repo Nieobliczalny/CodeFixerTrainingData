@@ -68,7 +68,7 @@ int main(int argc, char** argv)
     KdafVXt    =    0;
     iYp2_8    =    0;
 
-Od4_ = A6G_n4RRj / iYp2_8;
+
 
 for (int i = 7; i >= 0; --i)
 {

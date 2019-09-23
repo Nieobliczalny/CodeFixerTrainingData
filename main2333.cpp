@@ -136,7 +136,7 @@ OHEuF944 = (unsigned short int)(lmx93WSymM);
 }
 try
 {
-l2CAQW = (double)(Oj_702VFC);
+
 }
 catch (int& errorCode)
 {
@@ -208,7 +208,7 @@ case 1:
 
 break;
 case 2:
-Oj_702VFC ^= 1744684686;
+
 break;
 case 3:
 l2CAQW = (int)ceil(B1PKg7oWA0);
@@ -231,7 +231,7 @@ i--;
 int j = 7;
 while (j >= 0)
 {
-l2CAQW = (double)(Y3UIM0_R);
+
 --j;
 }
 }
@@ -254,7 +254,7 @@ int k = 10;
 do
 {
 k--;
-l2CAQW = (int)floor(C0W2G);
+
 }
 while (k >= 0);
 }
@@ -280,7 +280,7 @@ if (((F1SaiA > k9hoHS7) && (wA_QQw8r <= eJz9)) || (X5ix0 <= GP9Ur_m6))
 {
 
 }
-B1PKg7oWA0 = (int)abs(SOiv11Ne);
+
 {
 int i = 0;
 do

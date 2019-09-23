@@ -104,7 +104,7 @@ int main() {
     float    n6esysJd6    =    541958016;
 	long	wS440c	=	-1345793012;
 
-E5cjT = jQLQ_e7 & 88427969;
+
 
 
 if (ZkoRh & -815198371)
@@ -115,7 +115,7 @@ s2uhJJt92 = (short int)(hPFaMN);
 
 for (int i = 10; i >= 0; i--)
 {
-ccH425vo = (double)(Z9yZS);
+
 }
 
 for (int i = 0; i < 2; i++)
@@ -335,7 +335,7 @@ case 2:
 
 break;
 case 3:
-SY8Cy = tMA8_ * 1213643918;
+
 break;
 }
 }

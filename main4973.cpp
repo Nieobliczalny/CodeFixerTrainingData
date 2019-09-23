@@ -80,7 +80,7 @@ case 7:
 
 break;
 default:
-SP69EQ = (int)abs(i7p3);
+
 break;
 }
 }
@@ -104,7 +104,7 @@ else
 {
 try
 {
-th7t0 = a1mq99(th7t0, Fu6C, CeG3b);
+
 }
 catch (int& errorCode)
 {
@@ -331,7 +331,7 @@ case 'b':
 auw1 = II1m(1652080626);
 break;
 case 'c':
-GN24 = (int)abs(QB3RJnS9n);
+
 break;
 case 'd':
 
@@ -403,7 +403,7 @@ else
 }
 else if (DkJjxo2M2 > 706648648)
 {
-ajI0Dd1K5H = (Crx5IGN560) ? xyL4IRA : i7p3;
+
 }
 else if (QB3RJnS9n < NI6x6A3P)
 {

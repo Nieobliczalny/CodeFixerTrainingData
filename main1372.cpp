@@ -48,7 +48,7 @@ int main(void) {
   unsigned long  Q26pb_0;
   Q26pb_0  =  415164165;
   unsigned long long  ndMB2R;
-  ndMB2R  =  -601836956;
+
   double  Wl1DrmmeL_;
   Wl1DrmmeL_  =  -1978415511;
     unsigned long long    M4o9;
@@ -68,7 +68,7 @@ int main(void) {
   unsigned char  LTr87z;
 
   float  vARL_5i;
-  vARL_5i  =  -879858134;
+
 	float	b1Dv8t4i5;
 	b1Dv8t4i5	=	108944922;
  short int d12A2iG;

@@ -488,7 +488,7 @@ case 1:
 iNVB8C9Z9 = sG4uQ8(iNVB8C9Z9, na1BnXSf2);
 break;
 case 2:
-v6958A_68U %= 1131047937;
+
 break;
 case 3:
 G2u5AN3T_ |= i0EY9e7Vh;
@@ -628,7 +628,7 @@ case 7:
 
 break;
 default:
-WUP3c85i_ = (int)abs(K1vGX);
+
 break;
 }
 }

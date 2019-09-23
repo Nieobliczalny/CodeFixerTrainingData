@@ -24,7 +24,7 @@ int main(void)
   unsigned long long  opJLE0tG;
 
   double  Ud_9_UM2;
-  Ud_9_UM2  =  554515466;
+
   unsigned short  pbR59D;
 
   long  qAkps;
@@ -34,7 +34,7 @@ int main(void)
   long long  Vv894Yl;
   Vv894Yl  =  292432762;
 	unsigned char	CV8TVd3L;
-	CV8TVd3L	=	-935055373;
+
     float    K7g2D1;
 
 	unsigned char	Y8_U;
@@ -44,7 +44,7 @@ int main(void)
 	unsigned short int	i98SxY8mGD;
 	i98SxY8mGD	=	-1186088286;
  unsigned short ayp10jLuU;
- ayp10jLuU = -897955518;
+
  unsigned long long lkT7U;
 
     unsigned long long    NfvtaS20;
@@ -54,7 +54,7 @@ int main(void)
  double dQ4w_8n_;
  dQ4w_8n_ = 2122906289;
   long double  S3ne3;
-  S3ne3  =  1898234026;
+
 	long long	c2r_G1Q;
 	c2r_G1Q	=	523391684;
     long long    ik84S8Gp;
@@ -64,7 +64,7 @@ int main(void)
     short    C5RL;
     C5RL    =    -2141728043;
   long double  si5Y55LR4Y;
-  si5Y55LR4Y  =  1188050742;
+
     unsigned short int    x2_Mzj;
     x2_Mzj    =    0;
  short int p_3J9f_qeI;
@@ -76,7 +76,7 @@ int main(void)
  unsigned short MuK7;
  MuK7 = -1762332660;
   unsigned long  V96N7b4;
-  V96N7b4  =  0;
+
  long long qCa95djK2N;
  qCa95djK2N = 0;
   short  ZF7j__;
@@ -96,7 +96,7 @@ int main(void)
  unsigned char lW8zv;
 
     char    fgj3Z7i_k;
-    fgj3Z7i_k    =    -709414928;
+
  unsigned int KrQ3L;
  KrQ3L = -1143492182;
   unsigned long  yHi4;
@@ -110,7 +110,7 @@ int main(void)
   long long  aGwNZ71R89;
 
 	long	Wdgb33j;
-	Wdgb33j	=	-1452611895;
+
     long long    rAqGQ2;
 
 	unsigned int	ny9_ZJjtZW;
@@ -120,7 +120,7 @@ int main(void)
  short int Ep69o2zw0h;
 
 	short int	bODT128fps;
-	bODT128fps	=	-730082035;
+
  long ZuM80zj3VA;
  ZuM80zj3VA = -672413440;
     unsigned short    H6t9AIJAdX;
@@ -130,7 +130,7 @@ int main(void)
 	long double	E6qqLL34nD;
 
   double  X4ECTO44;
-  X4ECTO44  =  -1832462212;
+
 	int	jss9;
 	jss9	=	0;
  double xEI9;
@@ -147,7 +147,7 @@ if ((Hz1Ma40HD < 1731308994) && (qAkps >= Tz2W0))
 
 }
 
-MuK7 /= 1774579016;
+
 K7g2D1 = (int)floor(S3ne3);
 
 {
@@ -193,7 +193,7 @@ else if ((pRHNWp72 & 1480432370) && (O7kEXgR & wF22D))
 }
 else
 {
-tC76Q2 = (int)ceil(dQ4w_8n_);
+
 }
 }
 i++;

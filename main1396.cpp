@@ -117,7 +117,7 @@ int main(int argc, char** argv) {
     int    q28WMa;
 
 	short	Pt09pYwa77;
-	Pt09pYwa77	=	939638349;
+
 
 V_7I5j = e_MSj(Ja4dIa4M6V);
 
@@ -160,7 +160,7 @@ while (i < 3)
 {
 for (int j = 0; j < 10; ++j)
 {
-Pt09pYwa77 = (short)(vcwI5M);
+
 }
 i++;
 }
@@ -313,7 +313,7 @@ case 'd':
 pF3jo /= R4HI;
 break;
 case 'e':
-DYfdOgMK9 |= 584964349;
+
 break;
 case 'f':
 Sq7AsTf = (int)abs(XXBa);
@@ -328,7 +328,7 @@ case 'i':
 XXBa = (int)ceil(Sue70W);
 break;
 default:
-j06N4Zfa = POo6_6gf1G | 2072831975;
+
 break;
 }
 }
@@ -432,7 +432,7 @@ case 1:
 
 break;
 case 2:
-Ed836 = e_MSj(YUMWtLp_N9);
+
 break;
 case 3:
 WLBB7w4L -= Cvk4_BG6;
@@ -447,7 +447,7 @@ case 6:
 PWKh = (int)floor(W_96r);
 break;
 case 7:
-V_7I5j = e_MSj(1550350024);
+
 break;
 case 8:
 
@@ -472,7 +472,7 @@ else if (vcwI5M != -807909024)
 }
 else
 {
-Ed836 = e_MSj(vcwI5M);
+
 }
 }
 else if ((A2A4_7gd2 <= -857191101) && (XXBa == 738855849))

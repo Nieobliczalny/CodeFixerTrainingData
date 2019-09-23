@@ -183,7 +183,7 @@ case 'f':
 Xn69e4 = RGl05e9h(-1044614261, -712420202, v3v7E5);
 break;
 case 'g':
-Bs8Aqkar = (int)floor(P8NFE8sx4);
+
 break;
 case 'h':
 CL90b9lN = (int)floor(ktWih5);
@@ -271,7 +271,7 @@ K_A72T -= 669018629;
 }
 try
 {
-CL90b9lN = (int)abs(FAyD8);
+
 }
 catch (int& errorCode)
 {

@@ -268,7 +268,7 @@ EUD80Y = IYA7AjA(289697350, -1648345704, 722421807, -1028741818);
 }
 else if (hL52_8W4 >= aFJNS8G_)
 {
-yp_Ir2N2v = nUJlejInc5 % BI8_2;
+
 }
 else
 {
@@ -309,7 +309,7 @@ case 'c':
 
 break;
 case 'd':
-NpSED4J ^= SLdYI78gvW;
+
 break;
 case 'e':
 o4VyJi_ = (int)ceil(HvzA);
@@ -514,7 +514,7 @@ else
 }
 }
 
-d63_ %= AflO_90;
+
 
 return 0;
 }

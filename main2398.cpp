@@ -598,7 +598,7 @@ u8e5n -= 1122552243;
 break;
 case 'g':
 case 'G':
-Jxn__ += k941;
+
 break;
 case 'h':
 case 'H':
@@ -791,7 +791,7 @@ case 'H':
 break;
 case 'i':
 case 'I':
-u4vd = (int)floor(sRej9_vnE);
+
 break;
 }
 

@@ -499,7 +499,7 @@ case 'd':
 M9G3wtoF2R = P1Y4D(hNmjr_27, CGyq1, qYFT_8Tn82);
 break;
 case 'e':
-x3ZHhm = (int)abs(D_caBMXb);
+
 break;
 case 'f':
 
@@ -662,7 +662,7 @@ case 2:
 r7tpYrve90 -= ffMaP41H;
 break;
 case 3:
-CGyq1 = (int)ceil(sqiQX);
+
 break;
 case 4:
 
@@ -691,7 +691,7 @@ case 2:
 
 break;
 case 3:
-Bdby5 = (int)floor(VW1opA);
+
 break;
 case 4:
 

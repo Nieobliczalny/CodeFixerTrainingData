@@ -440,7 +440,7 @@ nW_8_h41_ >>= 792459236;
 break;
 case 'i':
 case 'I':
-CQ1n7E = (int)abs(q9U8abdkb5);
+
 break;
 case 'j':
 case 'J':

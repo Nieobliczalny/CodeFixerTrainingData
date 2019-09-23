@@ -399,7 +399,7 @@ case 'b':
 
 break;
 default:
-fAUz379_t = nali542 / 1024621949;
+
 break;
 }
 }
@@ -513,7 +513,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-C9hQ = (int)ceil(D5mEk);
+
 break;
 case 'e':
 case 'E':
@@ -525,7 +525,7 @@ case 'F':
 break;
 case 'g':
 case 'G':
-C9hQ = (int)floor(D5mEk);
+
 break;
 default:
 

@@ -588,7 +588,7 @@ case 'e':
 
 break;
 case 'f':
-Sp4Tu7_RH = RFxT(Sp4Tu7_RH, DI_8g_lj9, -2099593874, WS48__OEB);
+
 break;
 case 'g':
 lc61Pyl &= h71QwW49XW;
@@ -625,7 +625,7 @@ ag87Y1arQ = WOUqh << I9ma5h;
 break;
 case 'b':
 case 'B':
-I9ma5h = bo3BOil6w(z2aw5D) | 1909998949;
+
 break;
 case 'c':
 case 'C':

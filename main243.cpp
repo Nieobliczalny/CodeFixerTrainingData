@@ -282,7 +282,7 @@ break;
 }
 try
 {
-dKvB = (int)abs(N6t09bn_f);
+
 }
 catch (int& errorCode)
 {

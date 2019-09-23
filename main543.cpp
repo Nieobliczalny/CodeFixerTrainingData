@@ -288,7 +288,7 @@ case 1:
 
 break;
 case 2:
-w0X3uk = d14sh(-60926539, -1560073049, NomSSJ, -2105617654);
+
 break;
 case 3:
 u3vN71JmyN ^= 1355104899;

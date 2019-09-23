@@ -470,7 +470,7 @@ case 'e':
 
 break;
 case 'f':
-c9a6 = qLCE99 ^ 962554662;
+
 break;
 default:
 fbfs_91w4 -= 355436331;
@@ -618,7 +618,7 @@ iok5Xd_0HB = (long long)(kDXS7P3j2);
 
 if ((AvCj9 < -43744455) || (df7iiDQE))
 {
-wjBRO_A = (long long)(qLCE99 + (141438054));
+
 }
 else if (t6E8wU814 & -1947860529)
 {
@@ -749,7 +749,7 @@ fnwV5K %= VRm4yKvzH;
 
 if (iok5Xd_0HB)
 {
-NRW_OzyUW1 = (long long)(qLCE99 + (339356177));
+
 }
 {
 int i = 4;

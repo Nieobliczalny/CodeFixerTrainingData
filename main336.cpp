@@ -47,7 +47,7 @@ int main(int argc, char** argv)
 	unsigned long	HNBU_E0K;
 	HNBU_E0K	=	1494863964;
 	long	cQc32;
-	cQc32	=	1435266460;
+
   unsigned long  rLjl9;
   rLjl9  =  -929638034;
     long long    ohZ1x2C32;
@@ -181,7 +181,7 @@ case 3:
 
 break;
 case 4:
-szApmR = ATR7Mh7 * 2063708094;
+
 break;
 case 5:
 aYfJ_F1ck = (int)ceil(L414WXt5vl);
@@ -314,7 +314,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-c4lQ9V5r = BV14nnSfH3 << 1876200071;
+
 break;
 case 'd':
 case 'D':

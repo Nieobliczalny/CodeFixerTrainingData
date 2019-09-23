@@ -14,7 +14,7 @@ int main(int argc, char** argv) {
 
 
 
-DO86bJCT = (Vm_B47 <= -217901391) ? -1185450877 : -528078803;
+
 {
 int i = 0;
 do

@@ -462,7 +462,7 @@ while (j >= 0);
 }
 else
 {
-NrR7UYJRl = (unsigned short)(rfFQdmKPf);
+
 }
 
 if (p4z56QE != QAF0_by)
@@ -734,7 +734,7 @@ break;
 }
 
 
-VB_3dDx = HNBLULOMf6 << 423730358;
+
 return 0;
 }
 

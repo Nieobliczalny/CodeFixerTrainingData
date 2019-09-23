@@ -57,7 +57,7 @@ int main(int argc, char** argv) {
     q3018    =    -796773430;
     X__4    =    -72577217;
 
-    XVod    =    -148909149;
+
     IFzYMs1X0u    =    158096254;
     QOLTX    =    -2079063339;
     EJ1cfT54B    =    1222432335;
@@ -76,7 +76,7 @@ int i = 0;
 do
 {
 ++i;
-A62nG = (float)(jcuW_6LaH);
+
 }
 while (i < 10);
 }

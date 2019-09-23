@@ -330,7 +330,7 @@ case 3:
 
 break;
 case 4:
-W9Ukv2p = z6W1PGx(61736097, a__X, N3vJlmp0o2, 1710109453, g1APx89);
+
 break;
 default:
 AMylpg2 = g49tdWkIYX ^ g1APx89;
@@ -342,7 +342,7 @@ if (HPy46IR & N3vJlmp0o2)
 {
 try
 {
-N0JqPSC = t2y283g(N0JqPSC, hyP_V1h);
+
 }
 catch (int& errorCode)
 {
@@ -377,7 +377,7 @@ case 'b':
 
 break;
 case 'c':
-JuyGq83 = (int)abs(h27Hb);
+
 break;
 }
 }

@@ -54,7 +54,7 @@ int main(int argc, char** argv)
 
     u3Gv_f4F    =    -1468121895;
     b8YKcRO_    =    -1639086058;
-    tw__H    =    -1564898152;
+
     PcWzk0Lx91    =    615228734;
     vfasy    =    993423189;
     x93jpRl3q    =    653788387;
@@ -377,7 +377,7 @@ case 3:
 ljH7GZr = (FB5yYE0_36 < 1461433840) ? P9AGGOb(1031195693, 1568924215, 695113012) : QWA0s7;
 break;
 default:
-Qp_u2T |= 1627501772;
+
 break;
 }
 }

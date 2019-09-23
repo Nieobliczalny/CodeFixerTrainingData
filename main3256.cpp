@@ -301,7 +301,7 @@ case 2:
 iJd7OGJO4v = (int)ceil(pTMf);
 break;
 case 3:
-pO0718U2O = fq17JNB0f(-1903016230, V8qA0, LxAKl_) * 1202965760;
+
 break;
 case 4:
 etLIHT ^= 233768766;
@@ -454,7 +454,7 @@ case 'b':
 
 break;
 case 'c':
-pTMf = (int)abs(YF6wpvDPvD);
+
 break;
 case 'd':
 Txiq = (int)abs(LxAKl_);
@@ -466,7 +466,7 @@ case 'f':
 
 break;
 case 'g':
-V8qA0 = (int)ceil(pTMf);
+
 break;
 default:
 lzd9t82--;

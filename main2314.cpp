@@ -223,7 +223,7 @@ case 5:
 vS1Gi0f = Ht7_Nn(-428742791);
 break;
 case 6:
-FF7K2_g -= XY7_9n5t;
+
 break;
 case 7:
 
@@ -241,7 +241,7 @@ eI9g = Ht7_Nn(nbKT);
 
 
 
-aa4sfV = a72j / Ta58K49;
+
 if (jkwkv > qMlWeI)
 {
 try

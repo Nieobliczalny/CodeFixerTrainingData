@@ -225,7 +225,7 @@ case 'F':
 break;
 case 'g':
 case 'G':
-FKal2Yr0JP = oN7e9 % V1d3Ts9x;
+
 break;
 case 'h':
 case 'H':
@@ -283,7 +283,7 @@ case 1:
 
 break;
 case 2:
-A5A27aWMj = Z5a9(259176332, -1117379026, WA8J, A5A27aWMj);
+
 break;
 case 3:
 T14F8 <<= 878370413;
@@ -306,7 +306,7 @@ for (int j = 0; j < 7; ++j)
 {
 for (int k = 0; k < 2; ++k)
 {
-v_9a_ = (int)abs(TU2112) + (-1026788157);
+
 }
 }
 }
@@ -319,7 +319,7 @@ switch (F3P3l_Ob)
 {
 case 'a':
 case 'A':
-SCnpoS6 = (int)ceil(DwcHQO8Z);
+
 break;
 case 'b':
 case 'B':
@@ -329,7 +329,7 @@ default:
 
 break;
 }
-I1Ww3kZSr = (int)ceil(DwcHQO8Z);
+
 
 try
 {
@@ -358,7 +358,7 @@ if (Z9rYexSOKs != -1513451128)
 {
 
 }
-A5A27aWMj = Z5a9(1027286250, -1937006499, 1592955637, -1696699060);
+
 
 return 0;
 }

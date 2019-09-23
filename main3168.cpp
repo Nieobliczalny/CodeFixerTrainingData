@@ -372,7 +372,7 @@ case 2:
 a6SO0 = (int)ceil(l8_7);
 break;
 case 3:
-BMQG3 = (IkPj1 == Prv2P) ? 191364095 : c2NsFrr79I;
+
 break;
 }
 

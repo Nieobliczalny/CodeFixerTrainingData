@@ -318,7 +318,7 @@ case 6:
 
 break;
 case 7:
-KkFQ = cIMU8JN & 869831721;
+
 break;
 case 8:
 
@@ -328,7 +328,7 @@ break;
 while (i >= 0);
 }
 
-KkFQ = (long long)(zT3Fhc);
+
 QC7v = (unsigned long long)(CbTZd4YYvI);
 
 

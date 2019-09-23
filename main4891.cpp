@@ -31,7 +31,7 @@ int main(void) {
   short  ZPe2s;
 
 	long long	cI_MaXUQ;
-	cI_MaXUQ	=	1694950257;
+
 	unsigned long long	KXWb4f6l;
 	KXWb4f6l	=	0;
   long  yD0TMd;
@@ -43,7 +43,7 @@ int main(void) {
  unsigned long f9H6761;
  f9H6761 = -2020079842;
     unsigned char    awZ3_;
-    awZ3_    =    1473885488;
+
   long  bs5s_;
 
   short int  OgLZ;
@@ -59,7 +59,7 @@ int main(void) {
     long double    bDH__;
     bDH__    =    1426080186;
 	int	Os8w1;
-	Os8w1	=	-1343129961;
+
     unsigned long long    uDk3d9;
 
   short  xGqbOBve;
@@ -100,7 +100,7 @@ bmg6 -= 117804305;
 
 if (yD0TMd > -545497993)
 {
-KXWb4f6l = X8ZW__(-1577519003, 815940834);
+
 }
 else
 {
@@ -173,7 +173,7 @@ else if ((bmg6 & -1227112269) && ((vM7tF != 1785011632) && (HPd88l > S4bqnhF)))
 {
 if ((j1edd4FUv_ != d02uB) || (l2mXue0KyZ <= -393945276))
 {
-awZ3_ = pJyZ3kh3Bm(2044903010);
+
 }
 else
 {
@@ -200,7 +200,7 @@ std::cout << "uOG3OZ28" << std::endl;
 
 
 
-tCgkw1O = (int)ceil(bDH__);
+
 
 return 0;
 }

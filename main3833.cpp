@@ -320,7 +320,7 @@ case 'b':
 
 break;
 case 'c':
-eqF0 = (int)ceil(Cl26Qsq);
+
 break;
 case 'd':
 eouc6e = Gq2_(eouc6e, -1223070136);

@@ -48,7 +48,7 @@ int main() {
     unsigned short    n1LSwP;
     n1LSwP    =    -2119181174;
     float    u_F7n31oF;
-    u_F7n31oF    =    -887696270;
+
  unsigned char xyid1_7X2u;
  xyid1_7X2u = -248134847;
 	unsigned short	w8A4r;
@@ -105,7 +105,7 @@ case 'b':
 JKiT = C747(1770896678);
 break;
 case 'c':
-u_F7n31oF = (int)ceil(O2P480slH);
+
 break;
 case 'd':
 gZ8gGOnhW = nI0zvp();
@@ -167,7 +167,7 @@ b9EL ^= asF8x;
 break;
 case 'b':
 case 'B':
-D_c4M62dge = nI0zvp();
+
 break;
 case 'c':
 case 'C':
@@ -318,7 +318,7 @@ case 'b':
 
 break;
 case 'c':
-JKiT = C747(JKiT);
+
 break;
 case 'd':
 w8A4r = (Z45x6d != 1765821382) ? -1477971453 : rS315;

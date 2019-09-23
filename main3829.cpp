@@ -350,7 +350,7 @@ int i = 5;
 while (i >= 0)
 {
 --i;
-Y2PaeT8BR = (int)abs(u93lsI1n);
+
 }
 }
 
@@ -422,7 +422,7 @@ case 1:
 
 break;
 default:
-ozHCE = ZgIQChLUqX();
+
 break;
 }
 }
@@ -628,7 +628,7 @@ else if (L7P_l44kB != -844240872)
 }
 else if (a10Ne5M6 >= ZQ5G09)
 {
-u93lsI1n = (int)ceil(l9nL);
+
 }
 else
 {

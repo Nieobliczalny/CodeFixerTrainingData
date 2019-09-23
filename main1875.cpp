@@ -34,7 +34,7 @@ int main(int argc, char** argv) {
 
     TLS0GLO    =    -1575216877;
     R0H2    =    -463335838;
-    blf3Ri8vi7    =    -1316288950;
+
     mXH6z5    =    438137208;
     EGv_7G03_s    =    -1261740416;
 
@@ -44,7 +44,7 @@ int main(int argc, char** argv) {
     BG50    =    -26865593;
     mWr0y4w07v    =    -1697718862;
 
-    B6xfz    =    945213080;
+
     adIL3u4    =    -1622512830;
     HGY43    =    2078678413;
 
@@ -62,7 +62,7 @@ int main(int argc, char** argv) {
     qGBz8Ed0    =    -289556950;
 
     ygO42p    =    -356372632;
-    SN_r    =    -1953439494;
+
     h0y99s    =    -192454001;
     Fn4FOx    =    -1302315259;
 
@@ -73,7 +73,7 @@ int main(int argc, char** argv) {
 
     u1GDB    =    -2042186699;
     D1av3NNL1F    =    588849917;
-    Se4QFj__FC    =    -2001759513;
+
     y_q__1    =    1936216782;
 
     U76rf0dw4e    =    1176949931;
@@ -83,7 +83,7 @@ int main(int argc, char** argv) {
 
     aYYt_TwNQS    =    -397165745;
     gdtCzeAb    =    -82179766;
-    C5zr    =    -1530788283;
+
     eFRkV3ta6    =    1301096029;
     H9HY5xEw    =    -648466519;
     ZassM6GW    =    1231360943;
@@ -114,7 +114,7 @@ gUXWeu = (double)(y_q__1);
 }
 else if ((lu1QT46o == -1424871210) || (y_q__1 >= 1870610896))
 {
-Fn4FOx = (int)floor(gdtCzeAb);
+
 }
 else if (M_JRa3 >= -266219337)
 {
@@ -146,7 +146,7 @@ if (y_q__1 >= -490199200)
 
 for (int i = 1; i >= 0; i--)
 {
-eFRkV3ta6 = (double)(R0H2);
+
 }
 
 XQ2W3wF = cR7LFk2n16(-1566929251, -670714886, -219345231, TLS0GLO, -198741551);
@@ -167,7 +167,7 @@ for (int i = 5; i >= 0; --i)
 
 }
 
-z3i71 = (double)(fi0k4eh_Fs);
+
 H9HY5xEw = (int)ceil(D1av3NNL1F);
 
 for (int i = 6; i >= 0; --i)
@@ -189,7 +189,7 @@ while (k < 9);
 }
 }
 }
-CODTG2U *= R0H2;
+
 
 std::cout << j1nh_Pf_() << on0OS << std::endl;
 
@@ -201,7 +201,7 @@ case 0:
 
 break;
 case 1:
-Kwe92ZXy = (int)floor(ZassM6GW);
+
 break;
 case 2:
 

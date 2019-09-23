@@ -328,7 +328,7 @@ else if (F0d7pf & 836046300)
 }
 else if (kkvAAOOU <= AnEb3zmZ)
 {
-j5QUn = (unsigned short int)(ZTF1_4X);
+
 }
 else
 {
@@ -350,7 +350,7 @@ while (j >= 0);
 }
 }
 g2tF25q = nb99H(g2tF25q, 1129775870);
-bIjW6AAss = (long double)(ypho);
+
 
 
 
@@ -384,7 +384,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-j79u059 = (int)ceil(m_ZojW_74);
+
 break;
 case 'd':
 case 'D':
@@ -401,7 +401,7 @@ break;
 }
 else
 {
-d9Jdw7q = (char)(B_h4 + (skSR7));
+
 }
 }
 

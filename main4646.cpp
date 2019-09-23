@@ -617,7 +617,7 @@ else
 int k = 0;
 do
 {
-X76_Beb = dyb7(Opss78L4, aiZ6qGfBI) - 1341469791;
+
 ++k;
 }
 while (k < 10);
@@ -680,7 +680,7 @@ case 8:
 bnqg2 = dyb7(bnqg2, X76_Beb);
 break;
 case 9:
-uhyRO3Z = mmyT(38045522, y6T8n6);
+
 break;
 }
 }
@@ -695,7 +695,7 @@ case 1:
 omgQX = y0mR7X - 179071276;
 break;
 case 2:
-X76_Beb = QWP9K0_n % z_4ynGUu7;
+
 break;
 case 3:
 
@@ -796,7 +796,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-k941VgVP = dyb7(-1490233856, aiZ6qGfBI) / 139677874;
+
 break;
 case 'd':
 case 'D':

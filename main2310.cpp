@@ -367,7 +367,7 @@ case 1:
 
 break;
 case 2:
-H_4_Or0QhB &= sGK_88C5MN;
+
 break;
 case 3:
 O244 = (int)ceil(wkRi2g8aFo);

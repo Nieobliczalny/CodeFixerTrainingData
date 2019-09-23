@@ -270,7 +270,7 @@ for (int j = 3; j >= 0; j--)
 int k = 9;
 do
 {
-quZ1 = BwVFui(-1326619436);
+
 --k;
 }
 while (k >= 0);
@@ -385,7 +385,7 @@ else if ((EIj_qXY >= V4_00A81) || ((uuvNFR8284 < -1682015243) || (Hi0jMCzZB > 18
 }
 else if ((x7s_0kR8 == khU3) || (hz_YLrw & 771528219))
 {
-quZ1 = BwVFui(1420449053);
+
 }
 else if (khU3 < m_O3_)
 {
@@ -397,7 +397,7 @@ else if (cdKTISLQ == Ax5Y4k)
 }
 else if (IjppK < qu5e8_or36)
 {
-quZ1 = BwVFui(-1713425575);
+
 }
 else
 {

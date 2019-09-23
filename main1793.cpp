@@ -153,7 +153,7 @@ case 0:
 
 break;
 case 1:
-ksR70WnMqz = Rp9A4(MgZ0c, Ls1BD54, x5wZBXsHb, -3216214);
+
 break;
 case 2:
 VZj7HerHeh = iLrldzZQS();
@@ -171,7 +171,7 @@ case 6:
 
 break;
 case 7:
-MJq0 = MgZ0c * 700553883;
+
 break;
 case 8:
 GhYI06_7 = iLrldzZQS();

@@ -388,7 +388,7 @@ case 1:
 
 break;
 case 2:
-M5V7D_fb = (int)abs(g_o3);
+
 break;
 case 3:
 L2JL = (int)floor(aw7rj8gD);
@@ -412,7 +412,7 @@ break;
 }
 else if (w083886lW >= -143769497)
 {
-r1797 = (unsigned int)(r_wtrHt7bB);
+
 }
 else if (q2il & -641930950)
 {
@@ -517,7 +517,7 @@ case 2:
 
 break;
 case 3:
-L2JL = (int)floor(HBtzL);
+
 break;
 case 4:
 HBtzL = (int)floor(L2JL);

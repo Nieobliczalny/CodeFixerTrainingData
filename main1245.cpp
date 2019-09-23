@@ -401,7 +401,7 @@ else
 switch (RW1f)
 {
 case 0:
-dx9H2mlDv5 = (Q5Ew_y & 585908118) ? 597305802 : yiR5_K0o;
+
 break;
 default:
 UfPPh4n9 = MM76qV52(UfPPh4n9, 710045203);
@@ -465,7 +465,7 @@ case 'd':
 
 break;
 case 'e':
-U3mz5SXmwk ^= MJJJUqYPq;
+
 break;
 case 'f':
 B5W_98 &= 220194083;
@@ -553,7 +553,7 @@ case 1:
 
 break;
 case 2:
-mRUCHTC4 = MM76qV52(-1092640022, -1122339528);
+
 break;
 case 3:
 vm675 = (int)abs(Q5Ew_y);

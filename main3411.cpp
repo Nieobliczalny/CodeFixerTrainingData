@@ -40,7 +40,7 @@ K0pV4Up_ = J3y3_();
 break;
 case 'd':
 case 'D':
-QcNFQ = (int)abs(E8dST53T3);
+
 break;
 }
 if (omxduyqL6 <= -2103831341)

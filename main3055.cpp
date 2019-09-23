@@ -110,7 +110,7 @@ i--;
 switch (otX8)
 {
 case 'a':
-xaS2h = D8oEG53Ix(-1955692706);
+
 break;
 case 'b':
 
@@ -139,7 +139,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-agGu_t97 |= 1509477751;
+
 break;
 case 'd':
 case 'D':
@@ -170,7 +170,7 @@ UYh7++;
 break;
 }
 
-D0q_0yXG7Y = G4F7Y / eOk_Z6815P;
+
 
 {
 int i = 0;

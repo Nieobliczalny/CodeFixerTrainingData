@@ -33,7 +33,7 @@ int main(void) {
 
 cout << -2001706557 / Sto3_Em4X << endl;
 
-ay3DX2KW_ = B1ivKyn9xf << 1175052025;
+
 
 try
 {

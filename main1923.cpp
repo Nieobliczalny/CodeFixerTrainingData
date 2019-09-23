@@ -82,7 +82,7 @@ int main(void)
   unsigned int  y2dB1;
   y2dB1  =  1783576470;
 	char	vL6X;
-	vL6X	=	2010341900;
+
  unsigned short int VbM5;
  VbM5 = -1533502095;
     unsigned long long    U_31L5;
@@ -248,7 +248,7 @@ case 5:
 
 break;
 case 6:
-FGGeY4o = (int)abs(KA2eF4Y);
+
 break;
 case 7:
 TVYP5Q <<= 709490603;
@@ -355,7 +355,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-svEFnm73O = (int)floor(S0Nuczgi5);
+
 break;
 case 'd':
 case 'D':
@@ -367,7 +367,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-eYE7WAhpQ = jA_UF_B << E7bNKawmb_;
+
 break;
 case 'g':
 case 'G':

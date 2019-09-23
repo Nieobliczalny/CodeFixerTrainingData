@@ -150,7 +150,7 @@ for (int i = 7; i >= 0; i--)
 {
 try
 {
-u2Vrrh0lN = (int)(P8Iup4g);
+
 }
 catch (int& errorCode)
 {
@@ -220,7 +220,7 @@ case 'b':
 
 break;
 case 'c':
-Z8qwVWGo = IMVW7AplGr(1188965076, FW5So87_, -1992993191, C54z_BjW, 689008857);
+
 break;
 case 'd':
 ElXJr -= lRz8wq5k7c;
@@ -235,7 +235,7 @@ case 'g':
 T_kRF5 >>= 1753784199;
 break;
 case 'h':
-Q4WUIf5m36 = (int)abs(U9F4A5U);
+
 break;
 case 'i':
 

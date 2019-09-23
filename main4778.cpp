@@ -202,7 +202,7 @@ case 3:
 n2qb8--;
 break;
 case 4:
-c3l5o65 = (int)abs(GQk4m42M7);
+
 break;
 case 5:
 
@@ -244,7 +244,7 @@ case 4:
 wclrE8_tD = qM9U_8i(wclrE8_tD, uzT7, ZKo9ACCS);
 break;
 case 5:
-Nvr3 = qM9U_8i(-1526508560, -1292726544, TgK_Tr);
+
 break;
 }
 

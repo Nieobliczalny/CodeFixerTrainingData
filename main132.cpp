@@ -10,7 +10,7 @@
 int main(void)
 {
 	unsigned long	EZZL8O3d,	wg0Ov13qZ1,	KlXECR;
-	EZZL8O3d	=	0;
+
 	wg0Ov13qZ1	=	0;
 
   unsigned short int  opsH,  KT0gWX09PT,  aM8D,  Q_U5Xf7S,  ZHMC,  n9xKZH,  WvrI3L,  tlUb,  OvSdzFZ7,  QG8CvV,  n3paTy9,  hNsgrX18,  Mly9iE2_,  eZ4OktMv63,  djzpH5Kv5,  zRC6rDL,  y1MhmYafO,  k6O2432I,  OPP3yvK,  ajmt,  kgMpV,  K0_289tRp,  LW2hP,  S66640B0,  i1SqcN,  Pewbw6,  N797sxsz,  r632Fv,  P_6eJxN,  nA5Zx9p,  z4jKiwRC,  Md5wEZ,  W0vD1ekgJ1,  gR8WE9,  hkwK_XTBJ,  Jy03clO,  g9aaX5a3,  emAxJ5i17,  k99i0_QD0,  RPChxFh,  Woz34f7,  JjPhooF_83,  Km52TN8bV4,  CRXe1p5I,  brYQj51BL1,  A9mowC,  ox5T4xJ,  Sat3,  T13uegJ_g,  TjL7FJUD_,  Mo20,  dJ0J3c,  loJV6_l1_W,  RAkq_,  st6W2I,  s3skJ,  R22m9EY,  xKasn,  b_9i1P81df,  ErJJ0,  Hnh6g,  Un8t62U,  xq6Usb,  H_237,  ambCv7,  sOVF67,  R_mUJGIbVF,  l1ECoEK2,  EANSlbqc,  yg4VRKxiWP,  X2CcZ95K50,  iT_XSgv,  a3EC4a0uO,  w7dMp5_9,  lFAn1r,  O2fql6qq,  PGHGtU,  k9ttyw5Rt1,  nas_,  R7T1f,  e_MG9Z,  pq8V6M,  dfX_yw_Dg,  ON0Z,  MpJppG5Oj;
@@ -42,7 +42,7 @@ int main(void)
   Pewbw6  =  1553938480;
 
   r632Fv  =  198107596;
-  P_6eJxN  =  615528467;
+
   nA5Zx9p  =  -901747234;
   z4jKiwRC  =  992770210;
   Md5wEZ  =  -1890986621;
@@ -61,7 +61,7 @@ int main(void)
   brYQj51BL1  =  -872736489;
   A9mowC  =  -1935058699;
   ox5T4xJ  =  -446879424;
-  Sat3  =  -1071878268;
+
   T13uegJ_g  =  1951512137;
   TjL7FJUD_  =  417790758;
   Mo20  =  -962141122;
@@ -95,7 +95,7 @@ int main(void)
   nas_  =  2101760874;
   R7T1f  =  794572642;
   e_MG9Z  =  -677940762;
-  pq8V6M  =  -1523794823;
+
   dfX_yw_Dg  =  -866472991;
 
   MpJppG5Oj  =  -2103747939;
@@ -140,7 +140,7 @@ case 3:
 sOVF67++;
 break;
 case 4:
-ox5T4xJ ^= lFAn1r;
+
 break;
 default:
 A9mowC = JjPhooF_83 | QG8CvV;
@@ -450,7 +450,7 @@ case 'b':
 
 break;
 case 'c':
-Mo20 = (WvrI3L > g9aaX5a3) ? -1068166227 : -1838818371;
+
 break;
 case 'd':
 Un8t62U ^= 1503439868;
@@ -465,7 +465,7 @@ case 'g':
 
 break;
 case 'h':
-n3paTy9 = gR8WE9 << 394461978;
+
 break;
 default:
 ON0Z = OPP3yvK | 1084794155;
@@ -516,7 +516,7 @@ case 1:
 
 break;
 case 2:
-dJ0J3c <<= 1683344201;
+
 break;
 case 3:
 xq6Usb >>= nas_;

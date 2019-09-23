@@ -65,7 +65,7 @@ int main()
     unsigned long    a0PU_nG;
     a0PU_nG    =    2000246394;
   long double  o2Nk10;
-  o2Nk10  =  1891050411;
+
 	unsigned short	F4HYRvPez;
 	F4HYRvPez	=	792558075;
   unsigned char  F1CQ63;
@@ -172,7 +172,7 @@ RlGxN = b3eg2tFz % 369600226;
 
 o2Nk10 = (int)abs(Sy86xgtI);
 
-Q9bYra %= b_7tQq3AZ;
+
 if (F1CQ63 != 1404546792)
 {
 ATyR9UMf2k = lHGrPL4(RlGxN, Lx4vE, gFSmY9, OA5S6BquWE);
@@ -409,7 +409,7 @@ cout << F4HYRvPez << mSe46eN_0() << "h2p0mlV" << endl;
 int i = 0;
 do
 {
-I6V22FJ81 = (int)abs(if70Eo1S1);
+
 ++i;
 }
 while (i < 8);

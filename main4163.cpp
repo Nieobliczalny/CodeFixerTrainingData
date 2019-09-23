@@ -170,7 +170,7 @@ case 'd':
 
 break;
 case 'e':
-mdGglWzhV = sG1vV / 270649390;
+
 break;
 }
 }
@@ -229,7 +229,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-O_P6k5_8Y = (int)abs(YCvU);
+
 break;
 case 'f':
 case 'F':
@@ -294,7 +294,7 @@ case 2:
 
 break;
 case 3:
-Ui10F = (int)floor(Jq5_);
+
 break;
 case 4:
 
@@ -309,7 +309,7 @@ case 7:
 
 break;
 default:
-s1V4L7_p4o = (int)floor(H9o4JkhZW1);
+
 break;
 }
 }

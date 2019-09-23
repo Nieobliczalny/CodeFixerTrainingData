@@ -114,7 +114,7 @@ else
 {
 try
 {
-iyL3 = (int)ceil(T2LWC);
+
 }
 catch (int& errorCode)
 {
@@ -140,7 +140,7 @@ if (Onr5yE0 & Hj86)
 {
 try
 {
-Psw0xh = (int)floor(F9J8MHB);
+
 }
 catch (int& errorCode)
 {
@@ -204,7 +204,7 @@ else if ((RrH_k > hWl3) || (Ah_2Hqqlm >= duEw_l_N9))
 }
 else if (IyLG6JL != -1739916600)
 {
-F9J8MHB = X91Zm8 % b4ht9d5E;
+
 }
 else if (irSjsI7BKG > Hj86)
 {
@@ -256,7 +256,7 @@ case 2:
 le0o7O6TY = of71_();
 break;
 case 3:
-Jm36 = (int)abs(F9J8MHB);
+
 break;
 case 4:
 
@@ -268,7 +268,7 @@ case 6:
 Psw0xh = d96HOK6 ^ DG2ks;
 break;
 case 7:
-irSjsI7BKG = gnBkV2Y(1957498806, T54AbfoUp, 256160023, U0L8PXn399);
+
 break;
 case 8:
 
@@ -280,7 +280,7 @@ break;
 }
 else
 {
-X4QqEB = (int)ceil(T54AbfoUp);
+
 }
 std::cout << hWl3 / of71_() << std::endl;
 

@@ -82,7 +82,7 @@ case 'f':
 
 break;
 case 'g':
-MfFN += Aut3rz;
+
 break;
 case 'h':
 H_C44z5J /= 2098069097;
@@ -97,7 +97,7 @@ case 1:
 
 break;
 case 2:
-CZ_5_i = PwWJ_9T3(zRd8jmBmg5);
+
 break;
 case 3:
 a141Z60wP4 *= IcGEvg5j;
@@ -119,7 +119,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-xL8M = (int)abs(s2R0);
+
 break;
 case 'd':
 case 'D':
@@ -135,7 +135,7 @@ break;
 }
 
 
-FV8k = (int)abs(e_w4aeo);
+
 
 cout << PwWJ_9T3(CI94X3) << PwWJ_9T3(80756213) << "vzHm" << PwWJ_9T3(CI94X3) << "Q9H6Q" << endl;
 
@@ -154,7 +154,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-EM6E = (int)abs(s2R0);
+
 break;
 case 'd':
 case 'D':

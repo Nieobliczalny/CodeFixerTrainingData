@@ -285,7 +285,7 @@ if (kL4g9GBV1K <= L3mGXQ4)
 {
 if (Q_9u)
 {
-f2mr = (int)ceil(B1N6Bszc7);
+
 }
 else
 {
@@ -344,7 +344,7 @@ Fn71Rbv2pd = PL6o2yQc | FedAA6L;
 qbCS2vG = -937885728 / utV9tBJht;
 if ((oHQ_6pwgV >= -1741491683) && (p2862B7W & 1521112848))
 {
-f2mr = K3_O2QEm << t1O247a;
+
 }
 try
 {

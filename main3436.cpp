@@ -292,7 +292,7 @@ case 'c':
 
 break;
 case 'd':
-gW55 = PU77e9Gu ^ 2145940811;
+
 break;
 }
 }

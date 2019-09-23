@@ -272,7 +272,7 @@ case 'b':
 
 break;
 case 'c':
-w0c_ = (int)floor(JIW20p);
+
 break;
 case 'd':
 lZOp = (int)abs(yQ_9a4Jy);

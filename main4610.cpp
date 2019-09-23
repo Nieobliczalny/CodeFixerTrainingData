@@ -61,7 +61,7 @@ case 'c':
 lA045BRj = Aj81XfoJ(lA045BRj, E36X2);
 break;
 case 'd':
-E36X2 = nUur4(9086815);
+
 break;
 case 'e':
 E36X2--;

@@ -79,7 +79,7 @@ case 'c':
 
 break;
 case 'd':
-D4r7 = (int)abs(P4n3S9o1);
+
 break;
 default:
 U6GDO = (int)floor(u7pSs5);
@@ -106,7 +106,7 @@ std::cout << B6RnVrp << rAHQS29B7(760644125, T2tM6h3rg) << rAHQS29B7(1390761974,
 
 
 
-p7r35 = vN15 << Oj70;
+
 I_2_ = Y_Zp_g7U ^ 1363457147;
 S5A2Du = g4R5LlN01H >> NR38;
 
@@ -156,7 +156,7 @@ case 'b':
 
 break;
 case 'c':
-D4r7 = (int)ceil(V0E4);
+
 break;
 default:
 gNn8dK5dMe = (int)abs(S5A2Du);
@@ -188,7 +188,7 @@ case 'a':
 
 break;
 case 'b':
-vnFyJAe0 = (int)abs(V0E4);
+
 break;
 case 'c':
 

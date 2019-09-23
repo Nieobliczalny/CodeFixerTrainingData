@@ -614,7 +614,7 @@ cout << uYB2N3w8(ThGkPWGa8, 175511642) << bKKK8nFY << "Te95_0x4Z2" << Y20Mv1I5A 
 }
 else
 {
-hHa475QjNr = (short int)(Y24Z65gjBi);
+
 }
 
 for (int i = 0; i < 2; i++)
@@ -657,7 +657,7 @@ jPPI = uYB2N3w8(-812694052, T87RlDv1);
 int i = 0;
 do
 {
-p9F0U5PyG = uYB2N3w8(143156756, -118086381);
+
 i++;
 }
 while (i < 1);

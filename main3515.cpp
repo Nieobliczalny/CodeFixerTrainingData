@@ -87,7 +87,7 @@ int main(int argc, char** argv) {
   short  dJ__Dz0I  =  -973585052;
   long  UMKR  =  0;
 
-s93t = A_289W_();
+
 
 
 R_3FiMg5 -= m5OY;
@@ -312,7 +312,7 @@ case 'b':
 
 break;
 case 'c':
-Oa4hTT = (int)ceil(TWDTX49);
+
 break;
 case 'd':
 xNc39IH = qJGa0 << 1297815434;

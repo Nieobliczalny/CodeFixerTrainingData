@@ -11,7 +11,7 @@ using namespace std;
 int main(int argc, char** argv)
 {
     unsigned int    NP3nb_,    aelx,    ZiRN4yyOH,    P1CrMM,    yl4lSs9,    UR3e9A2S,    v4cP5,    HVy942j,    D2CeU_Xd6U,    IuL7kb4c,    Dr56lLc1,    Xxs7zv1Bi,    t5G6p0,    JydPb68c,    nfr8v,    v663eGUH,    qdU6,    s3qL00,    P08p8,    LR3N_i6jP,    x__bdhdI,    WhG40,    m7zYs,    RL5Y,    PpLy,    sE34_2,    WQx6faK9,    UsZ368Nr9P,    RDQ1C,    F_UUb3v,    odDp9D,    Tz7yB65z,    BuSuU8_,    PN0n,    u7s_06E,    mmU_SY,    dp147rSHas,    EN3H12,    yuwnhM3t2P,    zjB5IvJ,    QkxI,    vgN8K,    ECma,    qzAU,    LqF_6adpIM,    tM_6O4e,    AirUxBQ_,    Dwmc,    WEYg,    j861eP,    dlEWUG7LlL,    OjDv_s,    fiZe7027,    zA8gYr5,    z6g30tnITL,    K7395_HMtH,    dg0V,    Ylu0k,    R50Yz0pt,    d16vtOKf,    K__KyWv,    ENfQW,    aR9xCY0,    ChUs2FP1n3,    lu6Xf_r3w,    D5BZl,    hyzSTa,    OFvSgviA1,    Y16Y5R1T_B,    D575iaTe,    WWMgB09XIr,    dbL3NXnKoG,    eIlZ,    PKg45dvY1;
-    NP3nb_    =    -1079813529;
+
 
 
     P1CrMM    =    -1126659537;
@@ -25,7 +25,7 @@ int main(int argc, char** argv)
     Xxs7zv1Bi    =    2018144770;
 
 
-    nfr8v    =    -1940203929;
+
     v663eGUH    =    -2070657522;
     qdU6    =    -1627955256;
     s3qL00    =    2127444650;
@@ -38,7 +38,7 @@ int main(int argc, char** argv)
     PpLy    =    -369768422;
 
 
-    UsZ368Nr9P    =    568392092;
+
     RDQ1C    =    -2002265707;
     F_UUb3v    =    1309708191;
     odDp9D    =    1065303124;
@@ -48,7 +48,7 @@ int main(int argc, char** argv)
     u7s_06E    =    719069407;
 
 
-    EN3H12    =    189195849;
+
     yuwnhM3t2P    =    395534635;
     zjB5IvJ    =    -298557302;
     QkxI    =    -1592331110;
@@ -58,7 +58,7 @@ int main(int argc, char** argv)
     LqF_6adpIM    =    -248893581;
 
 
-    Dwmc    =    1578239262;
+
     WEYg    =    1959875195;
     j861eP    =    2034150827;
     dlEWUG7LlL    =    -2075727545;
@@ -69,7 +69,7 @@ int main(int argc, char** argv)
 
 
     Ylu0k    =    2121504635;
-    R50Yz0pt    =    697731629;
+
     d16vtOKf    =    1880444128;
     K__KyWv    =    1169745034;
     ENfQW    =    -233775736;
@@ -82,7 +82,7 @@ int main(int argc, char** argv)
 
     D575iaTe    =    -242147616;
 
-    dbL3NXnKoG    =    -1105014294;
+
     eIlZ    =    1839775040;
     PKg45dvY1    =    1935485721;
   unsigned long  nf5T1l0R88,  QwECQH;
@@ -141,7 +141,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-Xxs7zv1Bi -= F_UUb3v;
+
 break;
 case 'e':
 case 'E':

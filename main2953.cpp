@@ -29,7 +29,7 @@ int main(void) {
     long long    l78Sh1dqw;
 
 	unsigned int	q03hAa;
-	q03hAa	=	237354724;
+
 	unsigned short	a8MI3Pv;
 	a8MI3Pv	=	-394590018;
  unsigned int je3CAe;
@@ -43,7 +43,7 @@ int main(void) {
  unsigned int iHF9Ox;
  iHF9Ox = 1669525538;
  long tKiZ0V32T;
- tKiZ0V32T = 1412569845;
+
  unsigned short int Mm3IJi;
  Mm3IJi = 1961422886;
  long long w6p2iH9;
@@ -61,7 +61,7 @@ int main(void) {
 	unsigned long long	v9Wa;
 
  unsigned char s5gN4;
- s5gN4 = 1589348419;
+
 	short	PBiN88ibw2;
 	PBiN88ibw2	=	745335410;
 	unsigned int	N8W_el0R3;
@@ -71,7 +71,7 @@ int main(void) {
  unsigned long ym983VYQO6;
 
   long  lZbFsCP_l;
-  lZbFsCP_l  =  872089728;
+
   unsigned long  fIJeKVBa;
   fIJeKVBa  =  -205245660;
     long long    k53u94;
@@ -101,7 +101,7 @@ int main(void) {
  unsigned char AM66;
  AM66 = -177047987;
 	unsigned int	cgznG7D;
-	cgznG7D	=	-1807802800;
+
   short int  A3KS;
   A3KS  =  -253580688;
   short int  h6SSy;
@@ -111,7 +111,7 @@ int main(void) {
  unsigned short iLWQ1Fo;
  iLWQ1Fo = -1664658592;
 	unsigned int	sKGygDB4_;
-	sKGygDB4_	=	-736180771;
+
  short eOA5;
  eOA5 = -345406392;
 	float	P8o_zk5R;
@@ -121,7 +121,7 @@ int main(void) {
  long ztqGNjD;
 
 	short int	pHu_P2qfT;
-	pHu_P2qfT	=	-535076490;
+
  unsigned short i57L7y_eFX;
  i57L7y_eFX = -1285811503;
     unsigned long    c9V1aj6U8q;
@@ -131,7 +131,7 @@ int main(void) {
     long    SUTKB1_9;
 
  long long YDcMq9Ud7F;
- YDcMq9Ud7F = -299125900;
+
     double    WMijZ1pK5;
     WMijZ1pK5    =    -631625414;
 	unsigned char	DEf8k1__8j;
@@ -141,7 +141,7 @@ int main(void) {
  unsigned long long JNJDA;
  JNJDA = -15991182;
  unsigned char aZZKgNQ3;
- aZZKgNQ3 = 1829437164;
+
     unsigned short    QKP1rI51;
     QKP1rI51    =    -520593196;
   short  ar4Cl5d;
@@ -197,7 +197,7 @@ case 1:
 
 break;
 case 2:
-L8IcxY6H = N_T_(k53u94, 2097634006, 1532993190, 1658320633, 1774958504) ^ 887751044;
+
 break;
 default:
 QKP1rI51 |= PBiN88ibw2;
@@ -238,7 +238,7 @@ for (int j = 2; j >= 0; j--)
 {
 if (i57L7y_eFX > i4_b4DRF)
 {
-C0w7cC23 = (int)floor(P8o_zk5R);
+
 }
 else if (nIBhe_i5x > d2C_71s)
 {

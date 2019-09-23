@@ -286,7 +286,7 @@ else
 {
 if ((ORc5 <= g8_2zQSzF) && ((Rw6sPusTp3) || (Miv_E5 < -1948951623)))
 {
-LP61 = W71a % 1389636963;
+
 }
 else if (((LP61) || (N2Pvp68vSx < -1152932758)) && (F2oe != zPsY_2Q5))
 {
@@ -367,7 +367,7 @@ while (j < 3);
 while (i >= 0);
 }
 
-Rw6sPusTp3 = (unsigned long)(kB__ + (zPsY_2Q5));
+
 return 0;
 }
 

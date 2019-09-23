@@ -281,7 +281,7 @@ case 2:
 
 break;
 case 3:
-Y6vT2_ = AF__ << hiS6RPdhQR;
+
 break;
 case 4:
 rVu9x8fBJ = (int)ceil(FHG3);
@@ -419,7 +419,7 @@ case 3:
 
 break;
 case 4:
-L5eU0rYX = (int)ceil(j930ckVR78);
+
 break;
 case 5:
 
@@ -445,7 +445,7 @@ default:
 
 break;
 }
-hzFxwf9a = (float)(AF__);
+
 std::cout << Pn_tGtvW(lkjDqB_I20) << N_23lPTnI << std::endl;
 
 if ((X7Ue != Dqva) && ((Yq6D8wU > 393336252) || (kItfn & -1728954187)))

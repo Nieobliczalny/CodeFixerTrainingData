@@ -61,7 +61,7 @@ int main(void) {
 	char	YjtwCz7JwQ;
 
 	unsigned short int	RV42iW21;
-	RV42iW21	=	-973656232;
+
   unsigned long  f9AZty;
   f9AZty  =  0;
     unsigned long long    mU98eYw;
@@ -87,7 +87,7 @@ int main(void) {
   long double  DucMm4pfFB;
 
   short int  ibT6;
-  ibT6  =  -1623545858;
+
 	unsigned int	BQlknG4;
 	BQlknG4	=	1644148424;
 	unsigned short int	fa3h;
@@ -97,7 +97,7 @@ int main(void) {
 	unsigned char	xWFl8Bd2;
 
     unsigned int    o_N3_Snc7;
-    o_N3_Snc7    =    -1448529492;
+
 	long	B7Ux257I;
 	B7Ux257I	=	-1484637142;
 	char	Fro64;
@@ -254,7 +254,7 @@ case 6:
 v1wnas1A = (int)ceil(an1x);
 break;
 case 7:
-x40r3o = (int)abs(u5Cxr1hj);
+
 break;
 case 8:
 MlIMeRzPSM = H5f76H9jw >> 2038928683;
@@ -360,7 +360,7 @@ else
 }
 }
 
-mm2_1JyL49 = oL_3cL / f9AZty;
+
 Z47fGUIv_ = (int)abs(Jo5k);
 
 {
@@ -381,7 +381,7 @@ case 'b':
 
 break;
 case 'c':
-DucMm4pfFB = (int)abs(an1x);
+
 break;
 case 'd':
 B7Ux257I--;
@@ -430,7 +430,7 @@ if (c9o1 > -299154979)
 }
 try
 {
-RV42iW21 = yF0K8b5b2A % 2049053773;
+
 }
 catch (int& errorCode)
 {

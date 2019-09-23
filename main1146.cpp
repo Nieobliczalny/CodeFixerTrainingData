@@ -279,7 +279,7 @@ case 2:
 
 break;
 default:
-LMt_Q42f27 = (int)abs(Wcu7);
+
 break;
 }
 }
@@ -421,7 +421,7 @@ case 'd':
 G6t6 = hgXL80tf ^ 374759032;
 break;
 case 'e':
-Z7C3BU = a0h97 - 1981639490;
+
 break;
 }
 }

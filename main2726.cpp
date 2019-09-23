@@ -21,7 +21,7 @@ int main(int argc, char** argv) {
 
 
  VJqDNK8 = -1388896299;
- oz4c = -1935470351;
+
  NV20w2lGwS = 876175297;
  aO58uZ = -1012765697;
  w5TZoAh2 = -129977211;
@@ -31,7 +31,7 @@ int main(int argc, char** argv) {
 
 
  jeFtn84Hxt = -2131637678;
- facYho2V = -1290406620;
+
  Lzyn3aCxP = 1165066758;
  jzEyR = 133476830;
  y4la8B4 = 849186621;
@@ -46,7 +46,7 @@ int main(int argc, char** argv) {
  XO4C = -1412221573;
  n8XIXE_JH = 1808239359;
  U3_ur37Nc = -255194121;
- yO8r82BKu = -627838089;
+
  M_7o = 1172755493;
 
  IMZB2YWO9k = 282886665;
@@ -57,7 +57,7 @@ int main(int argc, char** argv) {
  Ei_W926W = -1831112554;
  q81bq = 2040017594;
  D9Y_ = 1636622090;
- zDb1oCLj1 = -1263006570;
+
 
 
  LLySNzJETY = -2023715570;
@@ -71,7 +71,7 @@ int main(int argc, char** argv) {
 
  oQmE = -845292476;
  l5bbokHC = 459027542;
- eK92hu = -182896157;
+
  OLLLa_2 = 1213787269;
 
     short    sPjxivl4,    r_T2CB,    bAbkA1,    RANX976_o,    gZUCwb3;
@@ -82,7 +82,7 @@ int main(int argc, char** argv) {
     gZUCwb3    =    0;
 
 r_T2CB = svym(-1846096815);
-tb16p1 = (long)(aO58uZ);
+
 {
 int i = 0;
 while (i < 5)
@@ -127,7 +127,7 @@ while (j >= 0)
 }
 while (i < 3);
 }
-kDi6v91X3 = Bc2KmA_o(l5bbokHC, 1355711478, Ei_W926W, RANX976_o) & U3_ur37Nc;
+
 
 for (int i = 0; i < 5; i++)
 {
@@ -188,7 +188,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-oz4c = Bc2KmA_o(324165651, U3_ur37Nc, OLLLa_2, B_h56a);
+
 break;
 case 'e':
 case 'E':
@@ -201,7 +201,7 @@ break;
 }
 else
 {
-TsAJ8FR = svym(D9Y_) >> vCuw;
+
 }
 
 
@@ -241,7 +241,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-Hz5c8bD3J7 >>= vCuw;
+
 break;
 case 'd':
 case 'D':

@@ -274,7 +274,7 @@ case 'a':
 Tyxf4Gi = Uiv6o6(602222591, Tyxf4Gi);
 break;
 case 'b':
-ybCI4 %= 1186594534;
+
 break;
 case 'c':
 O0_Fs = (int)abs(GGgP4qF59);
@@ -363,7 +363,7 @@ case 1:
 
 break;
 case 2:
-Tyxf4Gi = Uiv6o6(-497446802, 1633921964);
+
 break;
 case 3:
 m3fiu65_2 = kl7Z00FL(m3fiu65_2);
@@ -378,7 +378,7 @@ case 6:
 
 break;
 case 7:
-G_8_ = (int)abs(Tyxf4Gi) + (1624315622);
+
 break;
 case 8:
 P48k5 |= 651641207;

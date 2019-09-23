@@ -240,7 +240,7 @@ if (nGg1jO_)
 }
 
 
-i2lYl = 1609833598 / ygSM;
+
 return 0;
 }
 

@@ -16,7 +16,8 @@ int	XVUDrF(long	Th1Cqe3U,unsigned long long	FIU5);
 int main()
 {
   unsigned long  MxPYatuANj,  knWuwG_Q,  e5E38L8B,  i7__kl,  xK_L6D0n,  l_KJ9O,  IXUJ_Jq_,  yeR2GK1b2,  g03r1s3,  B5n_2nea4,  uV2u09rA;
-    MxPYatuANj  =  knWuwG_Q  =  e5E38L8B  =  i7__kl  =  xK_L6D0n  =  l_KJ9O  =  IXUJ_Jq_  =  yeR2GK1b2  =  g03r1s3  =  B5n_2nea4  =  uV2u09rA  =  -123669077;
+    // codechecker_intentional [deadcode.DeadStores] Design rule - initialize all variables
+	MxPYatuANj  =  knWuwG_Q  =  e5E38L8B  =  i7__kl  =  xK_L6D0n  =  l_KJ9O  =  IXUJ_Jq_  =  yeR2GK1b2  =  g03r1s3  =  B5n_2nea4  =  uV2u09rA  =  -123669077;
     long    LmMkO,    j5A_k,    C61xquro1;
         LmMkO    =    j5A_k    =    C61xquro1    =    0;
 

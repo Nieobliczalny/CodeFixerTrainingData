@@ -43,7 +43,7 @@ int main()
 
 
     P72gk_F0n9    =    -2072561860;
-    m_Xb    =    1398270075;
+
     U7SeFBQSJ    =    266586417;
     Q50b13Q    =    -149596321;
     TkPM1P    =    1237922678;
@@ -79,7 +79,7 @@ int main()
 
 
     Z3G85    =    455237296;
-    F46Rpwcet0    =    -586576253;
+
     b1NhC0K4I    =    -2116495469;
     X102Ld    =    1887904382;
     H0rdz8cM7M    =    1611860447;
@@ -104,7 +104,7 @@ int main()
     TXIK    =    -2121597100;
     fEs4U    =    1648586059;
 
-    Z635p0OAD    =    1695117729;
+
     ZXI3    =    160979961;
     cliA    =    -1424234518;
     TDyT1q5M1    =    -1560525404;
@@ -392,7 +392,7 @@ case 8:
 Vg1_6 = (int)abs(fEs4U);
 break;
 default:
-yVKiZg6rM = fEs4U & YTn6;
+
 break;
 }
 }
@@ -579,7 +579,7 @@ case 2:
 
 break;
 case 3:
-IbPT7 ^= TNFMG;
+
 break;
 case 4:
 CEvNns--;
@@ -630,7 +630,7 @@ ANoa84j3PK -= q5y6_HENse;
 }
 
 
-D0dmOo = (char)(au_5E7U);
+
 switch (P72gk_F0n9)
 {
 case 'a':
@@ -655,7 +655,7 @@ case 'g':
 
 break;
 case 'h':
-hY2U <<= s231sa8d9A;
+
 break;
 case 'i':
 
@@ -671,7 +671,7 @@ break;
 
 std::cout << s231sa8d9A / IixDDaa1 << std::endl;
 
-bHKOEk = (z0R8B6jE > -990982893) ? cAAm03U : 1933333238;
+
 
 return 0;
 }

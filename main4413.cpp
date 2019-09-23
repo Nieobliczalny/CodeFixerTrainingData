@@ -288,7 +288,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-wB5P6ND_s = NisA49J604(mE62l, zR3_9WeMo, 1730098084, A1h_P, B4Bg);
+
 break;
 case 'e':
 case 'E':

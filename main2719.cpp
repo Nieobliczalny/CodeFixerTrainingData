@@ -50,7 +50,7 @@ case 4:
 
 break;
 case 5:
-sjs98383 = Hoq7N8GsY / 2097904874;
+
 break;
 case 6:
 
@@ -85,7 +85,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-n94__ccS5 = pB96m(2143009957, -562141221, K6ozEdjsM) / i8CaMx9G;
+
 break;
 case 'd':
 case 'D':
@@ -101,7 +101,7 @@ case 'F':
 break;
 case 'g':
 case 'G':
-sy3Q += 861368561;
+
 break;
 case 'h':
 case 'H':

@@ -468,7 +468,7 @@ case 'c':
 M6G95192 = (int)ceil(c9ro4Y051D);
 break;
 case 'd':
-Q67KGGU2m2 -= I_u8yF7;
+
 break;
 default:
 M6G95192 = (int)abs(Am92ei);
@@ -535,7 +535,7 @@ else
 
 xN4iq = Q1xl97uw + 458578388;
 
-Jriz = (int)ceil(mwA8hYS6rN);
+
 std::cout << D4C6uu << "Bn5MxBi" << std::endl;
 
 {
@@ -592,7 +592,7 @@ else if (TyrM)
 }
 else if (TaNw1 > -1038535312)
 {
-KzAEb3G = gA30c * ep4P2F57;
+
 }
 else if (TaNw1 >= -1185056013)
 {
@@ -608,7 +608,7 @@ else if (h25Ewt != 691641198)
 }
 else
 {
-SGh3r0cQ0 = Ctf3 / 664640125;
+
 }
 }
 }

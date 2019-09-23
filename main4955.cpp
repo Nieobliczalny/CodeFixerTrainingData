@@ -74,7 +74,7 @@ int main() {
   short  LPTK;
   LPTK  =  1804770250;
   int  Ffj931v93m;
-  Ffj931v93m  =  881839718;
+
 	unsigned char	vSfOAN1P1;
 	vSfOAN1P1	=	50808301;
   double  esj1E1l6IA;
@@ -188,7 +188,7 @@ try
 {
 if (BDy891wJ == -1964536177)
 {
-Ffj931v93m = wF88B0T2(224712342, U3C3qA, v_G2, -817173482);
+
 }
 else if (vDMO1J6 <= YR2siAa7)
 {
@@ -200,7 +200,7 @@ else if (BDy891wJ != GekkSvM)
 }
 else if (K87IP > -773698546)
 {
-raqPy6 %= noISa1O45;
+
 }
 else if (j9R45 == VZ2g4dX7)
 {
@@ -226,7 +226,7 @@ do
 switch (U18Uex)
 {
 case 0:
-Ffj931v93m = (int)abs(v_G2);
+
 break;
 case 1:
 
@@ -383,7 +383,7 @@ case 3:
 
 break;
 case 4:
-K87IP = UMH9u(-824809529);
+
 break;
 case 5:
 
@@ -451,7 +451,7 @@ case 7:
 
 break;
 case 8:
-lEmVp7M = wF88B0T2(lEmVp7M, TN7M735SH, r27kdlkjz, 872286541);
+
 break;
 case 9:
 SOan41 = (int)floor(SB27gi4ENk);

@@ -83,7 +83,7 @@ case 9:
 fQpuP5 = (int)ceil(i3l2);
 break;
 default:
-bO6KV = cgb08pZSh4 - 937764630;
+
 break;
 }
 }
@@ -199,7 +199,7 @@ case 4:
 I5hE = (int)ceil(g_IB5XHpf);
 break;
 case 5:
-XY74IV *= lek5;
+
 break;
 case 6:
 
@@ -412,7 +412,7 @@ Qpx1P += 1013535109;
 }
 else
 {
-XY74IV = (long double)(hdy6i2Ti_);
+
 }
 
 cout << Bv3tf << endl;
@@ -441,7 +441,7 @@ case 4:
 
 break;
 case 5:
-Mp_86RA = rW8_t6(R3sr2) << 1333225238;
+
 break;
 case 6:
 U4Gx26_6 = rW8_t6(xXsPT);
@@ -455,7 +455,7 @@ break;
 }
 cout << VOBi << DaXY << H71GGFKB << HO_OrG() << "U_egb2fld4" << endl;
 
-VOBi = (long double)(q2Hxs94_);
+
 
 switch (DaXY)
 {
@@ -469,7 +469,7 @@ case 2:
 
 break;
 case 3:
-Ekg2 = (int)ceil(g_IB5XHpf);
+
 break;
 case 4:
 

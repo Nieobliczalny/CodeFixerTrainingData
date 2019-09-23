@@ -204,7 +204,7 @@ case 4:
 
 break;
 case 5:
-tf_j = lbm4v(-222175448, HxN9PLBI, -78691508);
+
 break;
 default:
 IEi8v8zZ1 = kQx74y(1293898465, 1908616016, XqDf_6645F, nlD5krAWP, xpUNE);
@@ -227,7 +227,7 @@ case 'c':
 caCM6j *= 1578309588;
 break;
 case 'd':
-pQUAd_Z8U = (int)abs(feLd4LpV_B);
+
 break;
 case 'e':
 

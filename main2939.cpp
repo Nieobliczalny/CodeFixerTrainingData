@@ -160,7 +160,7 @@ case 0:
 
 break;
 case 1:
-Y1JuA = cYg9A & 1228239178;
+
 break;
 case 2:
 
@@ -172,7 +172,7 @@ case 4:
 
 break;
 case 5:
-nEld8 += 703110503;
+
 break;
 case 6:
 
@@ -184,7 +184,7 @@ case 8:
 
 break;
 case 9:
-mGVj_8u7V = Y1JuA / 1323605110;
+
 break;
 default:
 mGVj_8u7V--;

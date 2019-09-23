@@ -156,7 +156,7 @@ case 1:
 
 break;
 case 2:
-whM_ %= bJ7uR;
+
 break;
 case 3:
 r6026_q1B1 <<= F3_X3Jj;
@@ -168,7 +168,7 @@ case 5:
 
 break;
 case 6:
-pFg3Ljl = E8ff(pFg3Ljl, 89552118, 1739531360, F3_X3Jj);
+
 break;
 case 7:
 rBhVfa220 = (int)ceil(FNFgDPuIN);

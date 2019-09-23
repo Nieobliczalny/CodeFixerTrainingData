@@ -30,7 +30,7 @@ int main(void) {
   unsigned char  w0_19;
   w0_19  =  -856255767;
  double hBdI6d0WHt;
- hBdI6d0WHt = 1487667271;
+
  short int d5Pnz0dv_I;
  d5Pnz0dv_I = 1236477996;
 	double	R2J_py;
@@ -199,7 +199,7 @@ if (U_hVWSmz < -1592799124)
 }
 else
 {
-hBdI6d0WHt = (int)floor(vlYF0W);
+
 }
 }
 {
@@ -243,7 +243,7 @@ case 2:
 
 break;
 case 3:
-I8oia2t2d <<= 326620827;
+
 break;
 case 4:
 
@@ -261,7 +261,7 @@ case 8:
 
 break;
 case 9:
-I8oia2t2d = (M7Oxs7817 != 555626529) ? 1671939773 : 1326769685;
+
 break;
 }
 }
@@ -317,7 +317,7 @@ case 'c':
 
 break;
 case 'd':
-lIvhB_Y = w0nHGZo3yk / kGj8C;
+
 break;
 case 'e':
 ZSM6sUV18 = Z9BS * 322520035;

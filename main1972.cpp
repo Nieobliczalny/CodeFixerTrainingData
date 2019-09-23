@@ -293,7 +293,7 @@ else
 {
 ddB75_9 += 786904582;
 }
-vsohd7J63x = (long long)(o2wc7oa);
+
 
 P4G205qi5 = FtJg0 / 1001630996;
 cRgJq2e = (short int)(P4G205qi5);
@@ -306,7 +306,7 @@ for (int j = 2; j >= 0; --j)
 {
 try
 {
-vsohd7J63x = (int)abs(cRgJq2e);
+
 }
 catch (int& errorCode)
 {
@@ -386,7 +386,7 @@ case 'c':
 
 break;
 case 'd':
-o2wc7oa %= 1545764703;
+
 break;
 case 'e':
 G39h1p *= 326670009;

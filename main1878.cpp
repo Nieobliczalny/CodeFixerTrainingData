@@ -26,7 +26,7 @@ int main()
   unsigned int  d8ml;
 
     unsigned int    TmplSx8g72;
-    TmplSx8g72    =    1339245091;
+
 	unsigned short	N7yp0G8R88;
 	N7yp0G8R88	=	1191436875;
 	char	BlB_jOnK_4;
@@ -40,7 +40,7 @@ int main()
  float b_exE1nz;
 
  long double JGX7;
- JGX7 = 345645208;
+
   long double  A6KzB2qp;
   A6KzB2qp  =  1848770494;
 	unsigned char	vgK5;
@@ -54,7 +54,7 @@ int main()
 	unsigned long	YP_qO;
 
   short int  lX_l;
-  lX_l  =  1709095621;
+
     long long    eWC6Tb;
     eWC6Tb    =    -732379167;
  short int OsAS;
@@ -66,7 +66,7 @@ int main()
 	short	Wf71_U64B;
 	Wf71_U64B	=	1955004190;
  short C_mziu8yJd;
- C_mziu8yJd = 252189880;
+
 	short int	TIFlBsHh;
 	TIFlBsHh	=	-1262359250;
 	unsigned int	AjGmosvA;
@@ -78,7 +78,7 @@ int main()
     long    gK2ciWr;
     gK2ciWr    =    -100796073;
  char j90I9DsW;
- j90I9DsW = 1872273035;
+
     unsigned short    jR1y9d5V;
 
  unsigned long long HmoCNLCTQ;
@@ -100,7 +100,7 @@ int main()
 	char	dQuUGxF5;
 
  long double LhFK0z88PC;
- LhFK0z88PC = -478048128;
+
     char    R0i4e28Zad;
 
 	unsigned long	a_1hw8;
@@ -120,7 +120,7 @@ int main()
     long    g5_W_4p;
     g5_W_4p    =    -320836275;
   long long  WLqZz;
-  WLqZz  =  1151362719;
+
 	unsigned long	c1T43;
 	c1T43	=	539546492;
   unsigned long long  o2PNlKc;
@@ -134,7 +134,7 @@ int main()
   int  d5I4l80QR;
 
 	unsigned int	p24Q;
-	p24Q	=	-1477401933;
+
  long WSmTT2m5ll;
  WSmTT2m5ll = -806786895;
   unsigned char  G_kPItv;
@@ -148,7 +148,7 @@ int main()
   int  Xms7nQx_;
 
     char    tp85K45g8;
-    tp85K45g8    =    -1384065057;
+
 	short int	R_PZ4U;
 	R_PZ4U	=	-1738097187;
  unsigned int x_wWyX5_;
@@ -160,7 +160,7 @@ int main()
 	long	o7y43iN;
 
     unsigned short    V4s_LmQ;
-    V4s_LmQ    =    1051057312;
+
 	int	puzsYI;
 
 	short int	mj_cT7;
@@ -180,7 +180,7 @@ int main()
  short dir1qYIw0;
 
   short int  Wy7Ycdq2Jo;
-  Wy7Ycdq2Jo  =  -1093753569;
+
 	long	o4TdLI7;
 
   long  Rb1i;
@@ -202,7 +202,7 @@ int main()
  int UaGSs3V;
 
  unsigned short o5Fr;
- o5Fr = 988251015;
+
  unsigned short int sa3dp2bA;
  sa3dp2bA = 379522759;
  double FR0oK7Jo;
@@ -379,7 +379,7 @@ break;
 }
 if ((1424321869 / qj__E5) == 1096005640)
 {
-C__22eM = KyL3Z / 1469949262;
+
 }
 
 if (LhFK0z88PC < 1825173553)
@@ -390,7 +390,7 @@ case 0:
 
 break;
 case 1:
-BlB_jOnK_4 = ZKNwuB6(BlB_jOnK_4);
+
 break;
 case 2:
 

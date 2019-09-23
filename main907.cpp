@@ -284,7 +284,7 @@ case 'c':
 
 break;
 case 'd':
-qEpR = JTLe(NQ9F70gy0F, -699837307, sPNB, qdkDX3);
+
 break;
 case 'e':
 Dr6tqiqL = f811 * EKf2Hop;
@@ -840,7 +840,7 @@ else
 
 }
 
-J4vMowRj = (int)abs(bA225);
+
 return 0;
 }
 

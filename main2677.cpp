@@ -31,7 +31,7 @@ cout << "lW8Kd8F" << us2yxL8wJc() << g3om4Y5cc(-531671039, -182271890, d1994, -1
 
 for (int i = 0; i < 10; i++)
 {
-y8_28y = (unsigned short)(PTA9k);
+
 }
 
 
@@ -46,7 +46,7 @@ case 'b':
 
 break;
 case 'c':
-U1kn_ = G_VH80(U1kn_, -892902868);
+
 break;
 case 'd':
 z79VAG = p93Y1 - 860794624;
@@ -212,7 +212,7 @@ while (i < 7);
 switch (ZDO4)
 {
 case 'a':
-mO810B = NRyt(mO810B, -804371853, 34635274);
+
 break;
 case 'b':
 MP5Br = NRyt(-1344225559, 448340011, DB221PNI0);
@@ -224,7 +224,7 @@ case 'd':
 
 break;
 case 'e':
-C7i1ElR |= k_T17JG0;
+
 break;
 }
 iu6j = LEZG2_Sq - 1588593810;

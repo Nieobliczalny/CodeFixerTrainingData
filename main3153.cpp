@@ -38,7 +38,7 @@ int main(int argc, char** argv)
  unsigned char Nf8I2ox6u;
 
 	long	kR5_H;
-	kR5_H	=	400305732;
+
  float kN_G8V;
  kN_G8V = -879419850;
 	char	Al52GX34;
@@ -52,7 +52,7 @@ int main(int argc, char** argv)
  unsigned long mvQaTlX12;
  mvQaTlX12 = 1847307220;
   unsigned char  p2BE6C_P2;
-  p2BE6C_P2  =  673247531;
+
 	int	qHj7y;
 	qHj7y	=	224741052;
 	long double	khy7_jF;
@@ -62,7 +62,7 @@ int main(int argc, char** argv)
     unsigned long    P_c11h;
 
  unsigned char p1iRN6V2;
- p1iRN6V2 = -1705987627;
+
     unsigned long    Gh0mS_s;
     Gh0mS_s    =    1902149287;
     unsigned long    fhNv;
@@ -74,7 +74,7 @@ int main(int argc, char** argv)
   unsigned char  z19w;
 
     int    vvSAy_uO;
-    vvSAy_uO    =    -1179209019;
+
 	short	i4pU;
 	i4pU	=	43177862;
   unsigned long long  o_2l;
@@ -88,7 +88,7 @@ int main(int argc, char** argv)
  long long Sc__4Qj70;
 
     unsigned long long    yEcu1;
-    yEcu1    =    0;
+
   unsigned short int  BsJVeZNaNG;
 
  long long GU7GZtY3M_;
@@ -102,7 +102,7 @@ int main(int argc, char** argv)
   long double  F2_6B;
 
 	long double	EK_2lDrk;
-	EK_2lDrk	=	2140197665;
+
   long  x2Z2Iy_h;
 
  char siS1_;
@@ -116,7 +116,7 @@ int main(int argc, char** argv)
   unsigned short int  BqAy;
   BqAy  =  1403815931;
  unsigned short X4ELUMA;
- X4ELUMA = -130201087;
+
     short int    pBX9jt2r;
     pBX9jt2r    =    765033920;
 	unsigned char	GF818TD_Ij;
@@ -132,7 +132,7 @@ int main(int argc, char** argv)
   long long  dl9n5EM8T2;
 
 	long	bD5qvh;
-	bD5qvh	=	-956363891;
+
  unsigned int KwkP54Yc;
 
 	int	yj0wrYx;
@@ -144,7 +144,7 @@ int main(int argc, char** argv)
   int  I4KJ;
 
 	short int	EfX_4;
-	EfX_4	=	-369878578;
+
   unsigned int  TZp6cT;
   TZp6cT  =  2134108835;
 	short	PSZ0jYh;
@@ -164,7 +164,7 @@ int main(int argc, char** argv)
  unsigned int Xkzo;
  Xkzo = 1176282902;
   unsigned char  kUXq;
-  kUXq  =  -25384111;
+
     unsigned short int    E2t06Wz;
 
   char  DTfsI;
@@ -174,7 +174,7 @@ int main(int argc, char** argv)
   long  X_M63CHV;
 
 	unsigned char	gj9SXofUb;
-	gj9SXofUb	=	513494833;
+
   short  fO8x_NadB7;
   fO8x_NadB7  =  50584847;
  unsigned int XhBT908W;
@@ -194,7 +194,7 @@ int main(int argc, char** argv)
 	unsigned short int	t3NN;
 
   unsigned short  cRn0qDRoB_;
-  cRn0qDRoB_  =  1289754472;
+
     short    r75Iqyq;
 
 	unsigned char	KOOLM;
@@ -214,7 +214,7 @@ case 'b':
 
 break;
 case 'c':
-Ewq1a %= KcEUK6UnX;
+
 break;
 case 'd':
 khy7_jF = (int)abs(eyWtH38x_4);
@@ -343,7 +343,7 @@ std::cout << A943 << "Wvq9q1O" << "O2MizR" << PSZ0jYh << "Zx4Uwz" << std::endl;
 
 
 
-E_bC92Pb = r__Hc6s_M(1469214840);
+
 b8j4 = (int)abs(fO8x_NadB7);
 
 if (FT976xc <= yj0wrYx)

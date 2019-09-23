@@ -349,7 +349,7 @@ case 5:
 
 break;
 case 6:
-JfO3d_P %= O2gZ4_;
+
 break;
 case 7:
 Op4O = (int)abs(cDAx13s1Y);
@@ -501,7 +501,7 @@ B2dWJ = VwLj_Po / cDAx13s1Y;
 
 
 cDAx13s1Y = (int)abs(Op4O);
-E0uvK8j3D = (unsigned char)(boybMsI);
+
 try
 {
 cout << XozKDi << PqClOF1 << "LeyY1F8_e6" << iPzU64C_0 << endl;
@@ -520,7 +520,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-lf5CPb = mOdke >> iPzU64C_0;
+
 break;
 case 'c':
 case 'C':
@@ -531,7 +531,7 @@ case 'D':
 
 break;
 default:
-lf5CPb = (B2dWJ == -1451934129) ? Hh7X_1q : 91897606;
+
 break;
 }
 cout << XozKDi << "i_g9zD0a" << R_HTs0NFh << endl;

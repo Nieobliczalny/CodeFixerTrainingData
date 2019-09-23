@@ -385,7 +385,7 @@ else if (II9A3f)
 }
 else if (a5SQWEjF <= 1222421996)
 {
-Ed2WzFAXpQ = (int)abs(hNkBY1_);
+
 }
 else
 {
@@ -414,7 +414,7 @@ else if (AIAq1n < -2115266852)
 {
 if (Ed2WzFAXpQ < a28MfzPK2)
 {
-Ed2WzFAXpQ = C1U08X(Ed2WzFAXpQ, AIAq1n, JS_2Dzl3Ez, -1405810088, -389940774);
+
 }
 else
 {
@@ -487,7 +487,7 @@ s15x = (O5Xi < QJCz8P) ? hNkBY1_ : 343944163;
 switch (s15x)
 {
 case 0:
-BCF_9YOf1 = (int)abs(hNkBY1_);
+
 break;
 default:
 

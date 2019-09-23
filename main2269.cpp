@@ -125,7 +125,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-zuYFJZu >>= 1439450033;
+
 break;
 case 'd':
 case 'D':
@@ -224,7 +224,7 @@ case 1:
 X8J5dg2JM7 = (int)ceil(O4N0xC260);
 break;
 case 2:
-aapzRUs = (int)floor(o3MX);
+
 break;
 }
 
@@ -322,7 +322,7 @@ case 2:
 
 break;
 default:
-dv86Vnr7H5 = (int)floor(O4N0xC260);
+
 break;
 }
 }
@@ -481,7 +481,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-UK5WY = du2i(UK5WY, cT233WxPOk);
+
 break;
 case 'd':
 case 'D':

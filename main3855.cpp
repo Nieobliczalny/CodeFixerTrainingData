@@ -33,7 +33,7 @@ int main(void)
     double    eAMdE;
     eAMdE    =    1793078847;
  long KpOx6Cr;
- KpOx6Cr = 1443263105;
+
   float  h9HrA_Ms8X;
   h9HrA_Ms8X  =  -248250798;
 	unsigned short	NfvM2Qr;
@@ -63,7 +63,7 @@ int main(void)
 	long	vwYA3Kwr;
 	vwYA3Kwr	=	1205754152;
 	float	ErO7i9;
-	ErO7i9	=	-119706660;
+
   short int  SWR0;
 
     char    U9981z0pY;
@@ -89,7 +89,7 @@ if ((fxn8k01JHN >= -1410781174) && (U9981z0pY > ux7bOCR5B8))
 }
 else if (x9u8 <= -1718006640)
 {
-Jv1sIn *= 1230107083;
+
 }
 else
 {
@@ -131,7 +131,7 @@ case 'c':
 UNYX1O = I8GhgNmh(139271167, 631941878, 1119806527);
 break;
 case 'd':
-tPsd_w &= B4n90ki;
+
 break;
 case 'e':
 ErO7i9 = (int)floor(eAMdE);
@@ -150,7 +150,7 @@ break;
 
 
 
-LFynSNSUXx = (int)ceil(qn89ygh5);
+
 
 for (int i = 0; i < 3; ++i)
 {
@@ -193,7 +193,7 @@ case 5:
 
 break;
 case 6:
-IM_N /= 881354803;
+
 break;
 case 7:
 DPz0n_9 = ZAd0z(OEDIH4GY, 68910097, 1497157130);

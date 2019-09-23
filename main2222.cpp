@@ -34,7 +34,7 @@ int main(int argc, char** argv) {
     m05v    =    1244954320;
     Q3RC6_e    =    298848150;
     E0MA4    =    -787852201;
-    Yg83sdg0    =    -498592419;
+
     KThW8vh    =    -386536159;
     IuDA    =    712135741;
     ED2r2mF    =    -1010660608;
@@ -44,7 +44,7 @@ int main(int argc, char** argv) {
 
     uBF4Ki39Ik    =    54043240;
     gl5i1x1q5F    =    229588803;
-    A4xOs39L    =    -423534021;
+
     iXP3G1    =    1342327999;
     upxZ4GnDxC    =    -305590847;
     b0baJNQC    =    -1577381622;
@@ -55,7 +55,7 @@ int main(int argc, char** argv) {
 
     Q2NVp6F2X    =    2054484119;
     yCKdk_sBe    =    -410542863;
-    LaMAltZ    =    -1417032972;
+
     j0__G2    =    -765263496;
     q69qMRq    =    1785489261;
     lqc_5D81    =    674909578;
@@ -66,7 +66,7 @@ int main(int argc, char** argv) {
     F_W9XIR    =    1173753928;
     c53E    =    -1122729188;
     Vx_lRky1    =    -1466010352;
-    uQFkE    =    151211158;
+
     Oj7Afjz    =    -639830702;
     duV8M    =    1158031169;
     A999sY9z5    =    720566386;
@@ -76,7 +76,7 @@ int main(int argc, char** argv) {
     kh6S3xv    =    -117953243;
     y_qCB97t5Y    =    563690068;
     CQ9tT49c0    =    -1709496576;
-    z7Xvq5    =    246432487;
+
     FsP_n07fX    =    1085165968;
     s2Wo    =    1277240923;
     D4ocnApbu    =    1000741352;
@@ -86,7 +86,7 @@ int main(int argc, char** argv) {
     k2hsrR8mT    =    59701022;
     kLrpJSSJ4    =    -646262559;
     wBt7ADPAc    =    -437642549;
-    bcG07p    =    682112393;
+
     lJWv    =    1507237613;
     c_j09    =    1254952944;
     PovuuWY    =    -2129992320;
@@ -96,7 +96,7 @@ int main(int argc, char** argv) {
     M_UIVbH    =    285883240;
 
 
-    n3oP_5    =    1361577674;
+
     Rrfb    =    1269042068;
 
 std::cout << w9Ika_sG() << w9Ika_sG() << "Gg8n54_" << R186u(r47_9g7n, -1847728146, peU5UZgD) << std::endl;
@@ -116,7 +116,7 @@ case 3:
 t7353 = R186u(1566079033, -1633814882, 1344428892) ^ 1366688655;
 break;
 case 4:
-A4xOs39L = c9AwDFr + 1038365212;
+
 break;
 case 5:
 ok8qLMWKk = w9Ika_sG();
@@ -129,7 +129,7 @@ default:
 break;
 }
 
-VZ0WOQ5Xj = ok8qLMWKk / S30R60Jd;
+
 ED2r2mF -= 1372690331;
 wBt7ADPAc = (int)ceil(y_qCB97t5Y);
 
@@ -336,7 +336,7 @@ case 'b':
 
 break;
 case 'c':
-ok8qLMWKk = w9Ika_sG();
+
 break;
 case 'd':
 S30R60Jd = w9Ika_sG();

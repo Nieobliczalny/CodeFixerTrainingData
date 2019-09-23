@@ -89,7 +89,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-q5fQxB = (int)floor(if7_);
+
 break;
 case 'd':
 case 'D':
@@ -109,7 +109,7 @@ case 'G':
 break;
 case 'h':
 case 'H':
-Z8RTK *= 1278488475;
+
 break;
 default:
 
@@ -136,7 +136,7 @@ i++;
 }
 while (i < 5);
 }
-q5fQxB = (int)ceil(UX_k_5QXcW);
+
 
 DS87 = (unsigned int)(DUpMyO);
 
@@ -157,7 +157,7 @@ case 'c':
 
 break;
 case 'd':
-s7c_M3 = l5Efa(1510995198, 853872473, 320819638);
+
 break;
 case 'e':
 q5fQxB = (int)floor(gdjX97);
@@ -175,7 +175,7 @@ for (int i = 2; i >= 0; --i)
 switch (ri45Sh5X)
 {
 case 0:
-m2ki_ -= 761423480;
+
 break;
 case 1:
 O4iV = k98jlKUP5(O4iV, 594706948, -287226384);
@@ -187,7 +187,7 @@ case 3:
 
 break;
 case 4:
-Zo65u = PI_1T6s6(1078189276, 730409935, 1186327968);
+
 break;
 case 5:
 rB4YI_f4p = l5Efa(VgU2sb_42, -845422924, -754520848);

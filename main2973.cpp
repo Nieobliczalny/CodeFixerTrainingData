@@ -410,7 +410,7 @@ case 1:
 
 break;
 case 2:
-Kf7btkMUst = G_kNN2T9j / 792374517;
+
 break;
 case 3:
 S18iRY = (int)abs(gVxIU2CR);
@@ -492,7 +492,7 @@ else
 }
 }
 }
-dt8wJ = XqjlR(dt8wJ, KJo4ZRS6, eqC2mrbtx);
+
 
 
 
@@ -513,7 +513,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-M84FOkyb += 1425649606;
+
 break;
 default:
 

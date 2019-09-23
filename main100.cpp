@@ -541,7 +541,7 @@ case 9:
 
 break;
 default:
-IzhB63F = (int)floor(C_Wx);
+
 break;
 }
 }

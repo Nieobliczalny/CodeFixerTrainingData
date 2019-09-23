@@ -287,7 +287,7 @@ else
 
 std::cout << RXCQv << UD0S23lrJ << "z6EV" << std::endl;
 std::cout << "j709_4s9" << std::endl;
-RXCQv = (long long)(bXL36 * (hntMUd));
+
 h7iEg = (int)floor(Md0lX);
 
 QE0QYs5A3 -= 1813501964;

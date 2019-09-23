@@ -24,7 +24,7 @@ int main(int argc, char** argv) {
 	short	E3B3aSj02u;
 	E3B3aSj02u	=	-1546917231;
     unsigned short    PF0Mcx01yK;
-    PF0Mcx01yK    =    -231934141;
+
     unsigned long    XomPAgL79f;
     XomPAgL79f    =    373523040;
  double bhk9nO7w;
@@ -34,7 +34,7 @@ int main(int argc, char** argv) {
   short  jG_coiq6;
   jG_coiq6  =  678521986;
   unsigned long  XJ_NbTU;
-  XJ_NbTU  =  -1512307886;
+
 	unsigned int	Cr5hx_s3G;
 	Cr5hx_s3G	=	-936228807;
  double F8925oury;
@@ -44,7 +44,7 @@ int main(int argc, char** argv) {
  short int smP0;
 
     unsigned long    ZLHmMDDxyg;
-    ZLHmMDDxyg    =    -361629729;
+
   unsigned long  vJ3uOy;
   vJ3uOy  =  -1556993254;
  unsigned char y70_c3yW_;
@@ -62,7 +62,7 @@ int main(int argc, char** argv) {
   double  nCB8liBzpY;
   nCB8liBzpY  =  -1421935697;
   float  RxP7_172F;
-  RxP7_172F  =  712039699;
+
   unsigned short int  wvFsGsm;
   wvFsGsm  =  -1665589017;
 	short int	FmwrL_e;
@@ -72,7 +72,7 @@ int main(int argc, char** argv) {
  long long mWdQ;
  mWdQ = -250056479;
   unsigned long  X9R0tr2;
-  X9R0tr2  =  1048303953;
+
     long double    jx2_oRLCFd;
     jx2_oRLCFd    =    264665484;
     char    jaPW_8V1gn;
@@ -86,7 +86,7 @@ int main(int argc, char** argv) {
  unsigned short z7_glC6H;
  z7_glC6H = -58450138;
   unsigned int  YGtKD;
-  YGtKD  =  -795969332;
+
 	unsigned short	coOr;
 	coOr	=	-1364933330;
     long double    fr4RE65R3z;
@@ -106,7 +106,7 @@ int main(int argc, char** argv) {
   unsigned long  j17aR69;
   j17aR69  =  -1723547262;
   float  H_kYFEy;
-  H_kYFEy  =  -1176607688;
+
 	unsigned char	y12k4ezN3G;
 
     unsigned short    KOSu96e;
@@ -122,7 +122,7 @@ int main(int argc, char** argv) {
   long long  VBziFnq0;
   VBziFnq0  =  -688761114;
     long long    p8p6g;
-    p8p6g    =    -927579350;
+
 	short int	fv2aR6;
 	fv2aR6	=	344766439;
   unsigned short  K8YXwn;
@@ -134,7 +134,7 @@ int main(int argc, char** argv) {
     short int    ldcx25Va;
 
   short int  STz5;
-  STz5  =  -702361564;
+
  int c8w3P;
  c8w3P = 1552484909;
 
@@ -149,7 +149,7 @@ case 'b':
 
 break;
 case 'c':
-Cv993Kmx8 <<= j17aR69;
+
 break;
 default:
 JB1v79FC9r = (int)floor(FbP_wN15Jv);
@@ -242,7 +242,7 @@ case 1:
 
 break;
 case 2:
-E3B3aSj02u /= z7_glC6H;
+
 break;
 case 3:
 E3B3aSj02u &= 1050137181;
@@ -290,7 +290,7 @@ case 1:
 
 break;
 case 2:
-UTO2_d = Q8b4g1d(UTO2_d);
+
 break;
 case 3:
 H_kYFEy = (int)ceil(GG7SdV_6);
@@ -305,7 +305,7 @@ case 6:
 
 break;
 case 7:
-qoHw8fuz >>= 1363885585;
+
 break;
 default:
 E3B3aSj02u = Q8b4g1d(-1144681045);

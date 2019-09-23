@@ -275,7 +275,7 @@ case 'b':
 w8qKYo7YI *= MO3woaurJj;
 break;
 default:
-DD5I675 = (int)abs(ps_2zZL3u);
+
 break;
 }
 j++;
@@ -382,7 +382,7 @@ else
 int k = 6;
 do
 {
-DD5I675 = Sn41(1724381663);
+
 k--;
 }
 while (k >= 0);

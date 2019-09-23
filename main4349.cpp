@@ -122,7 +122,7 @@ jgKEG2 = Zdv0nW4(jgKEG2, cd1GF5f_r, -1748883183, Og3MpsU);
 }
 else
 {
-W2oFy12wD = h5o_W & Qt6f;
+
 }
 
 std::cout << i3U9_70n(jgKEG2, -1243008080, 1855908600, -1258275533) << n6YB << Zdv0nW4(1444601043, cd1GF5f_r, 167542668, -195861210) << "OqLDUWW1" << "G4XJ" << std::endl;
@@ -149,7 +149,7 @@ case 'c':
 
 break;
 default:
-h5o_W = (os6L_XGwOo <= 159351424) ? -1443168576 : N3ZAVQ0qVA;
+
 break;
 }
 }

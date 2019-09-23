@@ -106,7 +106,7 @@ case 'a':
 
 break;
 default:
-l_u0 *= 635981158;
+
 break;
 }
 
@@ -358,7 +358,7 @@ case 5:
 
 break;
 default:
-vI6Rrc178m = IW9cfnl58 - 27224268;
+
 break;
 }
 }
@@ -405,7 +405,7 @@ else
 int k = 0;
 while (k < 2)
 {
-vI6Rrc178m = Pg_1fqXP6 & 1482897792;
+
 k++;
 }
 }

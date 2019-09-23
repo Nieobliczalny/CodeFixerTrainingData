@@ -33,7 +33,7 @@ int main() {
   short  Ml3h_;
 
 	float	N2zf;
-	N2zf	=	-1147156534;
+
   long long  EiZU;
   EiZU  =  225014033;
 	short	f_8scMg4;
@@ -51,7 +51,7 @@ int main() {
  unsigned long long F2GkA2223y;
  F2GkA2223y = 1674031585;
     unsigned short int    k_gpY6q2b;
-    k_gpY6q2b    =    1228587272;
+
  long c_6AU7TZt;
  c_6AU7TZt = 0;
   unsigned long  zc1F;
@@ -99,7 +99,7 @@ int main() {
     long long    Wwj3cwLOi_;
     Wwj3cwLOi_    =    759728015;
  unsigned char pJ0qSA;
- pJ0qSA = -1395128907;
+
  unsigned short int xTt1UDSNVu;
  xTt1UDSNVu = -768573440;
     long    RTli_1;
@@ -111,7 +111,7 @@ int main() {
  unsigned int R76qV;
 
     unsigned long    tw21Q6lzTE;
-    tw21Q6lzTE    =    -377846543;
+
  double o9o4sqQ_J;
  o9o4sqQ_J = 916834706;
 	unsigned char	VnA4m;
@@ -260,7 +260,7 @@ case 'a':
 
 break;
 case 'b':
-o9o4sqQ_J = (int)abs(Wwj3cwLOi_);
+
 break;
 default:
 poPP8C = (int)ceil(FepO9);
@@ -347,7 +347,7 @@ while (i >= 0);
 std::cout << JF9C_p90 << EiZU << nWx565PK << poPP8C << agt4uO1_D(-1643453966) << std::endl;
 
 
-Ar4H70i = -1712954493 / cuzKNS(c_6AU7TZt, 321946198, JF9C_p90);
+
 
 return 0;
 }

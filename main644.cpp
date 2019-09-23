@@ -93,7 +93,7 @@ int main(int argc, char** argv)
     short    f3ScTB;
 
 	unsigned short int	lNHdR_;
-	lNHdR_	=	276000340;
+
 	unsigned char	mAw4i;
 	mAw4i	=	-1435884134;
  double ZJefzi;
@@ -113,7 +113,7 @@ int main(int argc, char** argv)
 	unsigned char	O3CtAA;
 	O3CtAA	=	760859896;
 	long long	Sd0Yc6;
-	Sd0Yc6	=	324704376;
+
  unsigned short int C71xpFQIDV;
  C71xpFQIDV = -1444130324;
 	unsigned short int	PYe7;
@@ -161,7 +161,7 @@ case 2:
 
 break;
 case 3:
-nXAlDs99R = tBi_FtR4g >> yY49y3;
+
 break;
 case 4:
 QzbnynRrH = L7OI177XLX(QzbnynRrH, UWjZ1x, -635296488, -160624040, 448597101);
@@ -201,7 +201,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-ZJefzi = (int)ceil(cC36IT3);
+
 break;
 case 'd':
 case 'D':

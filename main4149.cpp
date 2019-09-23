@@ -116,7 +116,7 @@ case 'c':
 bOzt8u /= 385486650;
 break;
 case 'd':
-Hhn3_ = Fk8DePzV(1895214756, 1866683004, aLhNOMZ_5Z);
+
 break;
 case 'e':
 

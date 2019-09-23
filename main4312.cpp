@@ -601,7 +601,7 @@ case 1:
 HNg_UX--;
 break;
 case 2:
-p0J8NwXt = (int)floor(buso);
+
 break;
 case 3:
 eU57tKU6I6 = whg9 ^ 123753763;
@@ -639,7 +639,7 @@ i--;
 
 
 
-Fb_c4Ko = la9rS23D(eU57tKU6I6, 483454877);
+
 
 {
 int i = 0;
@@ -658,7 +658,7 @@ case 1:
 
 break;
 case 2:
-NI2z5ai = VQlb << KrEY;
+
 break;
 case 3:
 VQlb = (e3Swtb7oD0 > cRCMuP9IAe) ? j3jhp : r550DJ09C;
@@ -673,7 +673,7 @@ case 6:
 rMO25Cw = (int)ceil(x946);
 break;
 case 7:
-jShk3N = RAl4d3_(jShk3N, ayS28);
+
 break;
 case 8:
 

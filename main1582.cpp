@@ -32,7 +32,7 @@ int main(void)
 
 try
 {
-RG71PD = t1N9qevS7(-1109548182, W6e2, n3A7h, -75094376, 830295665);
+
 }
 catch (int& errorCode)
 {
@@ -57,7 +57,7 @@ case 2:
 
 break;
 default:
-P030TsI = m81NQy5el(538748882);
+
 break;
 }
 }

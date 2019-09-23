@@ -21,7 +21,7 @@ int main(void)
     unsigned short int    wh1_3a;
 
 	unsigned long	ILd8obe;
-	ILd8obe	=	503210673;
+
   unsigned long long  VikJ3Mbsf;
   VikJ3Mbsf  =  918449376;
     unsigned int    UP5wdkm6;
@@ -143,7 +143,7 @@ int main(void)
     double    o0g6;
     o0g6    =    -72697840;
  double p_m4050MNz;
- p_m4050MNz = 761704978;
+
  int fl97R;
  fl97R = -926119596;
   long long  S6NN;

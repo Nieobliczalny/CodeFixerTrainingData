@@ -85,7 +85,7 @@ int main(void)
 	Vd15_NgOC	=	1543254094;
 	Z2tff	=	-438398914;
 	XM13dTY	=	-112970056;
-	CbTePUN	=	-873723515;
+
 	C0_uxc	=	-251346034;
 	PaNF	=	-1397667422;
 	JIWt	=	-904860851;
@@ -805,7 +805,7 @@ case 4:
 eey9m1 = xiq4e7Xj(f1UrxY53B, Snu1l, Faf6q1);
 break;
 case 5:
-BFyE6a = L_pg();
+
 break;
 default:
 
@@ -824,7 +824,7 @@ case 'b':
 
 break;
 case 'c':
-OnhzQ %= 276235911;
+
 break;
 default:
 q08_00_ = xiq4e7Xj(-2118403036, LPry, -1685536168);
@@ -841,7 +841,7 @@ if (vSe5A8)
 }
 else if (eey9m1 > 842176538)
 {
-gDOT = xiq4e7Xj(gDOT, -1700523272, -239717354);
+
 }
 else if (GfHv >= 135837418)
 {

@@ -891,7 +891,7 @@ int j = 1;
 do
 {
 j--;
-VUC7BI58 = (unsigned int)(x8S6q9 * (E18kBS5sg));
+
 }
 while (j >= 0);
 }
@@ -1003,7 +1003,7 @@ case 1:
 
 break;
 case 2:
-VUC7BI58 = mB70g1(SsO2aX, 1476495036);
+
 break;
 case 3:
 qvfqOE = qvfqOE * 1242406221;
@@ -1015,7 +1015,7 @@ case 5:
 
 break;
 case 6:
-Y_8FS = qNNryFHDV(Y_8FS);
+
 break;
 case 7:
 sOZ14QE55B = qNNryFHDV(816608100);

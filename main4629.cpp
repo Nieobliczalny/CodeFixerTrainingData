@@ -283,7 +283,7 @@ case 2:
 
 break;
 case 3:
-y2XBP9 = (int)ceil(egZgf0);
+
 break;
 case 4:
 Vz54 = VgNZ(78004725, sP_1j6, I_nmgHI_, Vz54, 1558249056);
@@ -302,7 +302,7 @@ default:
 break;
 }
 }
-vXs1hy = (int)(eOcuMYim);
+
 
 egZgf0 = (int)abs(u2hb2LgVn6);
 

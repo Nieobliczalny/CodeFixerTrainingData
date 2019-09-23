@@ -42,7 +42,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-ZzIv = Kj4HT79B1j & 710592627;
+
 break;
 case 'd':
 case 'D':
@@ -88,7 +88,7 @@ case 3:
 
 break;
 case 4:
-W1J1NF06 = AlcD(-112693539);
+
 break;
 case 5:
 
@@ -108,7 +108,7 @@ break;
 }
 }
 std::cout << NY8NCJ66rL() << std::endl;
-LII011r8 -= O1yB;
+
 for (int i = 10; i >= 0; i--)
 {
 {
@@ -165,7 +165,7 @@ case 1:
 
 break;
 case 2:
-ub76N = AlcD(211766790) & 1501121873;
+
 break;
 case 3:
 A_6l = xiNgbml45N(Wj89m9G, -1910041876);
@@ -180,7 +180,7 @@ break;
 std::cout << AlcD(Wj89m9G) << "TH60nGT72Q" << JUWiw083_(Wj89m9G, 715192396) << xiNgbml45N(Wj89m9G, 1595742802) << AlcD(Wj89m9G) << std::endl;
 if ((vaL1I0P / A_6l) >= 1467480449)
 {
-Zg9cl3 = (unsigned short)(bRX4e6);
+
 }
 
 return 0;

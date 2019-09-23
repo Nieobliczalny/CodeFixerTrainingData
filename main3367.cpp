@@ -166,7 +166,7 @@ case 'd':
 D023Th3vTN = izUz();
 break;
 default:
-OP36C782_m = Erz0nv(-892511819, 263785893, V_i316, -640509950, AtvJvgL);
+
 break;
 }
 

@@ -19,7 +19,7 @@ int main(int argc, char** argv) {
     unsigned long    tAxh_xIf;
     tAxh_xIf    =    555829776;
     unsigned char    B269qL9h;
-    B269qL9h    =    -659890819;
+
     short    ii_g461mPK;
     ii_g461mPK    =    1157192725;
   long double  tls_J47;
@@ -41,7 +41,7 @@ int main(int argc, char** argv) {
     long double    gzG8;
     gzG8    =    948257755;
   unsigned short  VK_LIn;
-  VK_LIn  =  -2007696354;
+
  int UWMj400_Q;
  UWMj400_Q = 5227661;
  unsigned long long H6B651njar;
@@ -77,7 +77,7 @@ int main(int argc, char** argv) {
 	unsigned long long	Tj2Re6R7q;
 	Tj2Re6R7q	=	1613141441;
  unsigned long s67Z_6d26;
- s67Z_6d26 = 1884163994;
+
   long double  E470O;
   E470O  =  -729288803;
 	unsigned long long	TvZdsKC;
@@ -129,7 +129,7 @@ int main(int argc, char** argv) {
 	char	nWq0C;
 
     unsigned long long    vlsWy6Tm;
-    vlsWy6Tm    =    2038176064;
+
  long long wB_FXOeq;
 
     int    Hxa7k0K;
@@ -156,7 +156,7 @@ if (sX6H2rPog < a_MU4bze9v)
 G6DH = x58_h98S4X / 383931416;
 if (cGzy64 >= -355570531)
 {
-jZK4oj0M8 = (int)floor(G6DH);
+
 }
 
 if (tls_J47 > nBpJ7GyT3)
@@ -326,7 +326,7 @@ else if (hN3V_1O_ > 164523570)
 }
 else if ((nBpJ7GyT3 & FmXu4Y3) && (cGzy64 & -185398354))
 {
-s1KM = OimOjKU * 194075704;
+
 }
 else
 {
@@ -415,7 +415,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-YMdvhdNR = (int)ceil(a_MU4bze9v);
+
 break;
 case 'd':
 case 'D':
@@ -449,7 +449,7 @@ for (int i = 0; i < 8; ++i)
 }
 
 std::cout << o5pyPg << E470O << Sqtp << PHZjFNR << std::endl;
-s1KM = zuG4O83C << 2128011803;
+
 
 YMdvhdNR = (float)(AWHRS4Q5ka);
 

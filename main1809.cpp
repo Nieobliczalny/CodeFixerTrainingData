@@ -271,7 +271,7 @@ switch (JwTwt3Fka)
 {
 case 'a':
 case 'A':
-h8QJLVD6 = (int)abs(x5JskLzxB1);
+
 break;
 case 'b':
 case 'B':
@@ -355,7 +355,7 @@ case 'h':
 
 break;
 case 'i':
-SJcajtbB = Vt6m >> D7IqPL;
+
 break;
 case 'j':
 C8vkDt = (int)ceil(AGZSV);
@@ -411,7 +411,7 @@ case 2:
 T4H7B_4s += 1833989197;
 break;
 case 3:
-zJGq6 = (int)floor(AGZSV);
+
 break;
 case 4:
 AGZSV = (int)ceil(b5y86zvvya);
@@ -438,7 +438,7 @@ case 'c':
 
 break;
 case 'd':
-CCVTgtHI4r = Fj15glv8J / dh7z_sv;
+
 break;
 case 'e':
 x5JskLzxB1 = (int)floor(b5y86zvvya);

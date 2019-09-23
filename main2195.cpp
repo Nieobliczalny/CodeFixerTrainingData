@@ -30,7 +30,7 @@ if (Aa7v9Aq & 1901840705)
 switch (UzJFr9B2k)
 {
 case 0:
-udUjBdn1d = dya2 ^ 127139976;
+
 break;
 }
 }

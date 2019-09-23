@@ -18,7 +18,7 @@ long G0332ZhY();
 
 int main(void) {
  unsigned long long rxBhu9j6;
- rxBhu9j6 = 2046598940;
+
     unsigned short int    dK490M;
 
 	unsigned int	udaf99F26;
@@ -30,7 +30,7 @@ int main(void) {
   float  F_5y43;
   F_5y43  =  2005920200;
     double    jg9_Yuh;
-    jg9_Yuh    =    724029930;
+
 	long	w8l4A9hBZ5;
 	w8l4A9hBZ5	=	-1654024110;
     float    nU_f;
@@ -102,7 +102,7 @@ int main(void) {
  short int sJdo04L;
  sJdo04L = 104147226;
  unsigned int duM_W_;
- duM_W_ = -279709061;
+
   unsigned long long  rj87;
   rj87  =  -2021566350;
     int    dv0iT;
@@ -166,7 +166,7 @@ int main(void) {
   short int  Sfp5C;
   Sfp5C  =  -1004226984;
 	long	hL6a7H;
-	hL6a7H	=	377769928;
+
 	int	BK63Y1zO9e;
 	BK63Y1zO9e	=	76053148;
     char    Wuh_0H;
@@ -332,7 +332,7 @@ while (k >= 0);
 }
 else
 {
-jg9_Yuh = (double)(XiwRs);
+
 }
 
 std::cout << m4VQZ7dx_i << sc4zno << "Wh7_4p" << HJF4z0PHk0 << std::endl;
@@ -374,7 +374,7 @@ catch (int& errorCode)
 nU_f = (int)floor(r39o);
 }
 
-jg9_Yuh = (int)ceil(nU_f);
+
 }
 {
 int i = 10;
@@ -403,7 +403,7 @@ i++;
 switch (p_li4K)
 {
 case 0:
-jg9_Yuh = (int)ceil(F_5y43);
+
 break;
 case 1:
 sc4zno = Q0q8Xzt(-448216458);
@@ -538,7 +538,7 @@ break;
 }
 if (P4500H1n >= rjN38dx)
 {
-jg9_Yuh = (int)floor(YxSSp6kT);
+
 }
 else
 {
@@ -581,7 +581,7 @@ else if (((GmYmD == fkf6Ol8L80) && (Sfp5C > G_12U9)) || ((sa6a9 <= -242677392) &
 }
 else if (xcpt == T9PVZ6h498)
 {
-B7rP7 = aOzmGxf(BK63Y1zO9e, 574321062, li99mLSe);
+
 }
 else
 {
@@ -621,7 +621,7 @@ else if (Kn7y > 497720540)
 }
 else if (dZab_1 != WQUgrie)
 {
-X2yE6S1VMT ^= 573034960;
+
 }
 else
 {
@@ -632,7 +632,7 @@ else
 
 if (PZ3YV >= 608094327)
 {
-jg9_Yuh = (int)ceil(nU_f);
+
 }
 else if ((s_F2W7 == 1559483291) || (w8l4A9hBZ5))
 {

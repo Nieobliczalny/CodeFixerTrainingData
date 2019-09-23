@@ -92,7 +92,7 @@ int main(int argc, char** argv) {
   double  TTW44;
   TTW44  =  -1112232551;
     unsigned char    pU_2u;
-    pU_2u    =    1777261400;
+
  unsigned long OvO39t_;
  OvO39t_ = 337501639;
 	short	cr5fjUb;
@@ -172,7 +172,7 @@ int main(int argc, char** argv) {
   short int  qIn97E;
   qIn97E  =  1702116062;
   double  Q15D;
-  Q15D  =  -1360950605;
+
 	unsigned int	bq2c4;
 	bq2c4	=	1976575357;
  double mNb9P2;
@@ -268,7 +268,7 @@ else if (fggVqw > qIn97E)
 {
 try
 {
-Qtf7f7aqI ^= Auk_SP;
+
 }
 catch (int& errorCode)
 {
@@ -354,7 +354,7 @@ case 'a':
 TTW44 = (int)floor(nf9pH);
 break;
 case 'b':
-x39QtD2aG6 %= NEi885s9;
+
 break;
 case 'c':
 ly09gX = G6eug(436581327, -93744118, SgoE, -732461786, -1616035769);
@@ -432,7 +432,7 @@ std::cout << G6eug(-1795650711, 1910891093, 104504893, m98zn4, 582734558) << "KO
 
 if (V291gFZ < NEi885s9)
 {
-n6el6 = (int)ceil(V291gFZ);
+
 }
 
 alJp = -1385545352 / ly09gX;
@@ -515,7 +515,7 @@ case 2:
 
 break;
 case 3:
-N625UNnucb |= 279501861;
+
 break;
 }
 }
@@ -543,7 +543,7 @@ else if (Q5oR26VE)
 }
 else
 {
-mNb9P2 = (int)ceil(b4np1CP6s);
+
 }
 }
 else if (MTdM == zSu44LY9q)
@@ -606,7 +606,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-n6el6 = (int)ceil(TTW44);
+
 break;
 case 'd':
 case 'D':
@@ -630,7 +630,7 @@ break;
 
 
 
-S8HOY3Wr_e = (int)ceil(Q15D);
+
 return 0;
 }
 

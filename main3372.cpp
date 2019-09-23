@@ -257,7 +257,7 @@ else
 int k = 0;
 while (k < 9)
 {
-NNt6Xw_f = (int)floor(rYc59_);
+
 k++;
 }
 }

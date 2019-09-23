@@ -284,7 +284,7 @@ else if ((DjrVl < 1337468460) || ((Ced7y8MZ < -1167502190) || (p5mWKt8N != -1782
 }
 else if (NHKM & r8Kk0yzv)
 {
-E68c2S0i1 = (int)abs(e532G4d0);
+
 }
 else
 {
@@ -323,7 +323,7 @@ else
 switch (NHKM)
 {
 case 0:
-PDllN34CZ = MXY7Zn - LyZd66___;
+
 break;
 case 1:
 L7dc25d8s = (int)floor(L6hufau7);

@@ -178,7 +178,7 @@ F2U2 = dmZY >> cHnDUDB53;
 break;
 case 'b':
 case 'B':
-cHnDUDB53 = iSJa / OM6nQgrd;
+
 break;
 case 'c':
 case 'C':
@@ -216,7 +216,7 @@ break;
 
 for (int i = 5; i >= 0; --i)
 {
-dLY1u74 = N45ZdB95(A3STIbwD4, v9lWk5ImnD, uyXU278024, HzWoM4KZ, dmZY);
+
 }
 switch (KEN98q5V_R)
 {

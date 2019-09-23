@@ -84,7 +84,7 @@ int main(int argc, char** argv)
  char ic2fiV;
  ic2fiV = 953375824;
 	short	h_212;
-	h_212	=	-1173163628;
+
  unsigned char Ed5Vo5p;
  Ed5Vo5p = -1288398348;
     unsigned short    hIrQ;
@@ -98,7 +98,7 @@ int main(int argc, char** argv)
 	double	vC3Bb2uGo8;
 	vC3Bb2uGo8	=	2091776823;
   unsigned short int  Wid2aw9H;
-  Wid2aw9H  =  609866572;
+
  unsigned short GWWm23A_C;
  GWWm23A_C = -1141421207;
   float  NfCSvhw04M;
@@ -154,7 +154,7 @@ int main(int argc, char** argv)
     long long    Ls0UzF6uva;
 
     unsigned char    T3t_m_;
-    T3t_m_    =    -108049302;
+
     unsigned int    o94O05CK1;
     o94O05CK1    =    2009861575;
  unsigned short int S0V2;
@@ -282,7 +282,7 @@ case 6:
 L_sFgpBNCY--;
 break;
 case 7:
-Ls0UzF6uva = F_LHu1Ci(-398987326, A__10Z3, zZ4oU3, 1944104986);
+
 break;
 case 8:
 TyTXb0N_9 = (int)floor(w4wpo);
@@ -658,7 +658,7 @@ case 2:
 NfCSvhw04M = Doy7YbmBtf(1872411002);
 break;
 case 3:
-VL5C_0Apq = y4W6s5n ^ 1276253230;
+
 break;
 case 4:
 
@@ -670,7 +670,7 @@ case 6:
 ouR_Ajz >>= Mwf3;
 break;
 case 7:
-TM70i = fE3Mj_395r + Y_z76sKqpl;
+
 break;
 default:
 y4W6s5n <<= SjHTPi5;

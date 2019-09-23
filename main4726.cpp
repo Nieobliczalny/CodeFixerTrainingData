@@ -20,7 +20,7 @@ int main(void)
 	unsigned short int	t5Q7lZuB,	l78lv,	G7U0Y4l6,	w40J,	t1U6SZ_WnP,	ENCQr_,	V11f_62,	IjFtR5Aw15,	zBEt_,	HA6F,	G99PvB86Os,	Xoh2r9F7v,	Dv005,	BPj42a,	e35k2ybzE,	s124I,	YFPmjQR,	jEi034,	i6_Z8KP,	Etu7_xaH5,	CyuHbs6,	wrzd_9_m,	SMK2,	XEqz__NHaf,	VDWLQKm_96,	ZFlMe3M,	KcVar6z,	LuBF0,	rX37,	KB_mxzCSH_,	xuuavm,	TVE_6eI6h,	c2_3o_AJ,	o5hl,	tO11A1d,	n8l6z;
 	t5Q7lZuB	=	1452533894;
 	l78lv	=	1879430461;
-	G7U0Y4l6	=	-631995452;
+
 	w40J	=	-793715198;
 	t1U6SZ_WnP	=	1148420163;
 
@@ -53,7 +53,7 @@ int main(void)
 	c2_3o_AJ	=	-1622886716;
 	o5hl	=	299382878;
 	tO11A1d	=	1805368739;
-	n8l6z	=	-294987653;
+
 
 if (rX37 < 1036575165)
 {

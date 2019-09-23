@@ -45,7 +45,7 @@ int main(int argc, char** argv)
 	int	Y20OM7VoO;
 
  unsigned char r664eSUW;
- r664eSUW = -1089928282;
+
     unsigned char    wET_5e_0w6;
     wET_5e_0w6    =    -821916508;
   long  zWkXNR;
@@ -59,7 +59,7 @@ int main(int argc, char** argv)
   unsigned short  JK29_wPd2_;
   JK29_wPd2_  =  -1988370588;
     char    t0Kep;
-    t0Kep    =    1989456044;
+
   long  RjK44;
   RjK44  =  -268338618;
     float    a3w2kT;
@@ -73,7 +73,7 @@ int main(int argc, char** argv)
  unsigned short int I68m_Lh;
 
  double au0OH5HG1w;
- au0OH5HG1w = -999690613;
+
   unsigned long  YjZ2bZd;
   YjZ2bZd  =  -1573333313;
 	unsigned long	OBHleqes;
@@ -93,7 +93,7 @@ int main(int argc, char** argv)
  unsigned char EK5TW;
  EK5TW = 1041402096;
     double    C79wtZeh;
-    C79wtZeh    =    -470426256;
+
     double    ZX1Y3aRtj_;
     ZX1Y3aRtj_    =    -750328137;
     unsigned long long    Y3L59Z7b;
@@ -107,7 +107,7 @@ int main(int argc, char** argv)
 	double	AP6TOqIl;
 	AP6TOqIl	=	1879803743;
     long double    kytZON;
-    kytZON    =    -1641844440;
+
  unsigned short mBx5k_G;
  mBx5k_G = 1617666817;
 	unsigned int	V5Q5xs;
@@ -117,7 +117,7 @@ int main(int argc, char** argv)
  long eIbfBlUid0;
  eIbfBlUid0 = 471906915;
   unsigned long long  EVlaf_9G_;
-  EVlaf_9G_  =  1134396729;
+
   unsigned int  H5PKbz;
 
  unsigned char gKDEm0cqK;
@@ -227,7 +227,7 @@ else if (((zWkXNR > 1481750134) && (LnEz902lgC > 2081341692)) && ((zWkXNR >= -16
 {
 if ((Ryv32wS28) || (j70V6T))
 {
-EVlaf_9G_ = EK5TW << G57nXP_aiR;
+
 }
 else
 {
@@ -267,7 +267,7 @@ case 'a':
 bbKvQ1 = sNupKsqJo3(bbKvQ1, 1796066711, -1206215731);
 break;
 case 'b':
-a3w2kT = (int)ceil(IZ1nWGnPOl);
+
 break;
 case 'c':
 Rbgum -= 1212925743;
@@ -352,7 +352,7 @@ std::cout << ldZk4FgF6 << cnpAPB3yPu(c0A9kyoG1, -350243685, EK5TW, mBx5k_G, E215
 
 
 
-zWkXNR = (long)(j2I6sQv3);
+
 
 {
 int i = 0;
@@ -380,7 +380,7 @@ while (k < 9)
 }
 }
 }
-pij6Q383A ^= EK5TW;
+
 
 
 {
@@ -419,7 +419,7 @@ if ((wET_5e_0w6 == -598944172) || (Ryv32wS28 & G57nXP_aiR))
 }
 else if (N668_2o > 1657353418)
 {
-t0Kep = sNupKsqJo3(1526221417, -864074128, IIene0T8J);
+
 }
 else
 {

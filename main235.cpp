@@ -200,7 +200,7 @@ case 3:
 PwE_9--;
 break;
 case 4:
-J3q0N5PDXR = Os24q7t(X8pSx8g1n, PwE_9);
+
 break;
 case 5:
 PwE_9 %= tX0Yq3VXe;
@@ -223,7 +223,7 @@ else
 }
 else
 {
-X8pSx8g1n = (short)(lC4X6fY + (-660229552));
+
 }
 }
 return 0;

@@ -362,7 +362,7 @@ case 6:
 
 break;
 default:
-pbC5e97h = llgiCS6 / 735010014;
+
 break;
 }
 }
@@ -402,7 +402,7 @@ if ((jE18S11l_D == rTtiQZf4) || (j9vThK_FV))
 }
 else if ((d7t9f5_ <= G_GK8) || (xggB < 1935676126))
 {
-IJ12p0MyVP = (int)ceil(v1JI);
+
 }
 else if ((uufUalq2F != -758467716) && ((A9M6gmz_ == f_3QP) && (c5ruW3 != T97rIyr41)))
 {

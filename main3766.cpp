@@ -115,7 +115,7 @@ case 1:
 
 break;
 case 2:
-m2Aq1_ = yecVVT6O();
+
 break;
 case 3:
 k4svx = yecVVT6O();
@@ -143,7 +143,7 @@ else if (((J21Ui != 1404452548) && (xy1SSn71 < -1123660395)) || (OZbFd <= OY2vrr
 }
 else
 {
-ApDG6 = yecVVT6O();
+
 }
 }
 else if (y1AnU7a)
@@ -173,7 +173,7 @@ case 1:
 
 break;
 case 2:
-Eu4g = B_Th7_6(-659859756, -462096669, ApDG6, k4svx);
+
 break;
 case 3:
 y1AnU7a = (int)abs(xy1SSn71);

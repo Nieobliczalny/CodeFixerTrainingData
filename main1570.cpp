@@ -114,7 +114,7 @@ else
 
 o7t3n28 <<= 83982370;
 
-BVqP = o7t3n28 - bHkc;
+
 
 switch (o7t3n28)
 {

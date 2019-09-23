@@ -57,7 +57,7 @@ else if (OE27QYFpQ != -151883889)
 {
 if (f9cEAih < DZW_Q_fJ3)
 {
-cs1X = (int)floor(BHMIeKPq);
+
 }
 }
 else if ((r69g_S >= -1603325157) && (ct1b4pvgRV & newt))
@@ -84,7 +84,7 @@ else if (xT5Eh8l >= g8Rw66M6)
 }
 else
 {
-jBfNy4Fr /= 1433153958;
+
 }
 }
 else

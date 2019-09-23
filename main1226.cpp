@@ -46,7 +46,7 @@ int main()
 	int	f_HM;
 	f_HM	=	-1319246535;
 	unsigned long long	fZUm;
-	fZUm	=	-884635490;
+
     unsigned short int    i1RCgq6;
     i1RCgq6    =    -1866712119;
     long double    D5P8R;
@@ -306,7 +306,7 @@ break;
 }
 
 R0T1 = (unsigned long long)(Y_4xiV);
-cPAoJ = (unsigned long long)(Xd_Oqth);
+
 {
 int i = 0;
 do
@@ -386,7 +386,7 @@ case 'a':
 
 break;
 case 'b':
-RJtkC ^= vzwSF73dt;
+
 break;
 case 'c':
 
@@ -478,7 +478,7 @@ case 3:
 
 break;
 case 4:
-p98lw_ = IttQl1v1SQ - 451987336;
+
 break;
 case 5:
 OstztJHv2 = OstztJHv2 % 2061489735;
@@ -542,7 +542,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-j7pHH_8IW4 = (int)abs(aII7JW);
+
 break;
 case 'd':
 case 'D':

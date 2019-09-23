@@ -18,7 +18,7 @@ int main(int argc, char** argv) {
  long double b0_3571K5;
  b0_3571K5 = 1859996560;
 	short int	vC746Rbrt2;
-	vC746Rbrt2	=	799894794;
+
   unsigned long  D3763;
   D3763  =  -159357512;
 	short	G5C9_50i;
@@ -40,7 +40,7 @@ int main(int argc, char** argv) {
     int    RGIbW_;
     RGIbW_    =    682502676;
     int    tYif2;
-    tYif2    =    1725763874;
+
   double  a4_x1V;
   a4_x1V  =  1080047133;
  short int ph0Af;
@@ -56,7 +56,7 @@ int main(int argc, char** argv) {
     long long    qKS6h2L_cO;
 
  unsigned long eS95I;
- eS95I = 2114906692;
+
  unsigned short v8H5vAJl6m;
 
  unsigned long long f8_Qx;
@@ -78,7 +78,7 @@ int main(int argc, char** argv) {
     int    S12kz2PVL;
 
  long double RQ40e6w_s;
- RQ40e6w_s = 1737912856;
+
  long double Mx0pF2oqU0;
  Mx0pF2oqU0 = -235452572;
     long double    B_ydV_L_mc;
@@ -116,7 +116,7 @@ int main(int argc, char** argv) {
     unsigned short    k5p5Q;
     k5p5Q    =    858516416;
 	short	EuaWy6YDc;
-	EuaWy6YDc	=	367433207;
+
  long double em3M784;
  em3M784 = -1620032782;
   double  I6AjU;
@@ -142,7 +142,7 @@ else if (G5C9_50i == 1004182371)
 switch (R66qb)
 {
 case 'a':
-F5DpRf5 = (int)floor(SDef);
+
 break;
 case 'b':
 UfWTG0 = V_EDs_(SzGoj_, Mx0pF2oqU0, G5C9_50i, 465215810);
@@ -174,7 +174,7 @@ else
 {
 
 }
-Mx0pF2oqU0 = (int)abs(s297w91bb);
+
 
 for (int i = 0; i < 6; ++i)
 {
@@ -224,7 +224,7 @@ case 1:
 
 break;
 case 2:
-C79ws = V_EDs_(-2071873361, GGo_iXuP_l, a4_x1V, f8_Qx);
+
 break;
 case 3:
 UfWTG0 = V_EDs_(-71478189, -1552767673, 1479963186, d92EN3b7);
@@ -239,7 +239,7 @@ case 6:
 Mu23g5sTeF = s297w91bb + 1933310553;
 break;
 default:
-EuaWy6YDc = UfWTG0 << 50202110;
+
 break;
 }
 }
@@ -285,7 +285,7 @@ case 1:
 
 break;
 case 2:
-C79ws = V_EDs_(E49vT886_, -583470494, -1425353969, -1544393067);
+
 break;
 case 3:
 UfWTG0 = V_EDs_(f8_Qx, D3763, RGIbW_, Z4e_7QA1);
@@ -297,7 +297,7 @@ case 5:
 
 break;
 case 6:
-O1e9o = (int)abs(UfWTG0) + (-2118946651);
+
 break;
 }
 

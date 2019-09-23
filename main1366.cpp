@@ -35,7 +35,7 @@ if ((S0HsUr_wf_ != NkmpS) || (ICMZPd3 < p4aAe))
 }
 else
 {
-piL115 = IF6z - r8X73hupER;
+
 }
 }
 else if (e44tvw <= bD6m9a)
@@ -263,7 +263,7 @@ cout << vYW8SN << WCOAK5_qP << PeV9O << c1FO65_jL << endl;
 }
 else if (W0kPc36 & Je_jm1N7)
 {
-zCTA4 ^= U9Hg5r39;
+
 }
 else if (BzAI73U9SI < yD4IH7)
 {
@@ -315,7 +315,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-i5fr3RW = rK6z7SJ5Ap << 1773278085;
+
 break;
 case 'd':
 case 'D':
@@ -335,7 +335,7 @@ case 1:
 
 break;
 case 2:
-Af055A3l0 /= 195780308;
+
 break;
 case 3:
 piL115 = yD4IH7 % d454w5_ppW;
@@ -411,7 +411,7 @@ case 'a':
 
 break;
 case 'b':
-cbU_XC = U9Hg5r39 - aJO2iGOp;
+
 break;
 default:
 
@@ -439,7 +439,7 @@ while (i >= 0);
 switch (ylVa0py__)
 {
 case 0:
-Al_rTYhr7l &= vYW8SN;
+
 break;
 case 1:
 

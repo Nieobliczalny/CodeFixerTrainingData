@@ -24,7 +24,7 @@ int main(int argc, char** argv) {
   char  loWH3TxHHt;
 
     long long    LfQxG_;
-    LfQxG_    =    -1052035971;
+
   double  cHeSY8Xe1C;
   cHeSY8Xe1C  =  218492343;
   unsigned short int  a5NF;
@@ -82,7 +82,7 @@ int main(int argc, char** argv) {
   unsigned long long  atr2yn;
   atr2yn  =  1417410399;
     double    sYz1;
-    sYz1    =    1695854056;
+
  long double QQ52FLe67;
  QQ52FLe67 = 1545869449;
   short  gk8w3J87;
@@ -104,7 +104,7 @@ int main(int argc, char** argv) {
 	unsigned short int	bPL8BB;
 
     short int    ebDC5;
-    ebDC5    =    -1077050496;
+
 	int	tzd_6;
 	tzd_6	=	-1516677;
     short    MNs1;
@@ -116,7 +116,7 @@ int main(int argc, char** argv) {
     unsigned long    rbjB;
 
     char    hUO_yS;
-    hUO_yS    =    0;
+
   short  PE5v_PV;
   PE5v_PV  =  0;
  unsigned int Nu79;
@@ -132,7 +132,7 @@ int main(int argc, char** argv) {
 	float	ajmc1GiN;
 	ajmc1GiN	=	239719256;
  int ea_R5j;
- ea_R5j = -1910931259;
+
 	unsigned short	nlueP;
 	nlueP	=	-2008340320;
  long long aoU99SV;
@@ -201,7 +201,7 @@ case 'd':
 
 break;
 case 'e':
-EKx4r_c = (int)ceil(ajmc1GiN);
+
 break;
 default:
 MNs1 = (m3q6Mv0 == 494628614) ? nlueP : z172I_39;

@@ -340,7 +340,7 @@ case 'g':
 Uh2YKgDV7 <<= 88885836;
 break;
 case 'h':
-d4nFaNP4LA = (int)ceil(sK84Meo);
+
 break;
 default:
 ON4l7 = dkIB03Tmv(ON4l7, k_WR);
@@ -369,7 +369,7 @@ case 2:
 
 break;
 case 3:
-z_FV6B1ni9 = (int)abs(k_WR);
+
 break;
 case 4:
 

@@ -38,7 +38,7 @@ int main(int argc, char** argv)
  p8KS33lx2A = 1640025170;
  w36b78 = -740286533;
 
- EepJPb1_9 = 751443820;
+
  fhuHCHZ1 = -513578277;
  o_5tyi9 = 1237102872;
 
@@ -49,7 +49,7 @@ int main(int argc, char** argv)
  i5TTlC = 536376107;
  ecua = -720023281;
  sdRw5 = -1353881183;
- wERcrIR8 = -495454818;
+
 
  Y3bD_s8 = -1068603329;
  Xx2nR = -1110252336;
@@ -59,7 +59,7 @@ int main(int argc, char** argv)
 
  K8K86JT = 688851066;
  Y6MNidF9T3 = 1658569312;
- iSg8T_V = 274243008;
+
  kr_nj37 = -2038015067;
  xM0hyU = -1450275346;
  elg_7 = 1635337292;
@@ -86,7 +86,7 @@ int main(int argc, char** argv)
  aC13ug4Hg7 = -966780911;
  raFp9 = 1194237212;
  Wsvja56rB2 = -21609076;
- BypXpF_ = 1584203405;
+
  hkWy8cZCTI = -1229967180;
  u7W8x8GH = -1941513703;
  AZmV_1 = -1623603398;
@@ -244,7 +244,7 @@ case 2:
 o_5tyi9 = p1hJKikr % 1142777662;
 break;
 case 3:
-mo66 += 1329045129;
+
 break;
 case 4:
 elg_7 = kIIU2(elg_7, -751162865, -1963530713);
@@ -283,7 +283,7 @@ case 'c':
 
 break;
 case 'd':
-eCb0Sg &= 1441071459;
+
 break;
 case 'e':
 CG_Wl08448 = (int)abs(qMzen3);
@@ -324,7 +324,7 @@ case 'F':
 break;
 case 'g':
 case 'G':
-BypXpF_ = (int)abs(h0vb7s);
+
 break;
 }
 }
@@ -373,7 +373,7 @@ std::cout << BRc_z917 << k_140B5 << a4_6FIrSLC(WuM44Ds, -1149733331, raFp9, -149
 }
 }
 
-C_8SfT = IUN29 & p0_Wy0;
+
 if (Y6MNidF9T3)
 {
 for (int j = 0; j < 6; ++j)
@@ -393,7 +393,7 @@ case 'd':
 sz9x |= 1857519721;
 break;
 case 'e':
-Wsvja56rB2 = (int)abs(DhKw);
+
 break;
 case 'f':
 mW2HX1 = kIIU2(mW2HX1, 1558649516, h0vb7s);
@@ -427,7 +427,7 @@ else if ((Wsvja56rB2 != pynJ) && ((p5Y0i6_ >= -1703877564) && (BRc_z917 >= p1hJK
 }
 else if (((mW2HX1 > RiA1r) && (Mg0L & Gz1nH6_)) || ((Ya1ufpyhX > Zw4gluz8W) && (RiA1r != Gz1nH6_)))
 {
-dE5Kt4g = kIIU2(1645554682, 1755677485, -670060939);
+
 }
 else if ((Rmle6gb > k_6QYz) || (w88Vv3yj >= pynJ))
 {
@@ -440,7 +440,7 @@ else
 }
 else
 {
-k_140B5 = (short)(k_6QYz);
+
 }
 }
 else if (Um_Spj3 >= pynJ)
@@ -456,7 +456,7 @@ case 1:
 
 break;
 case 2:
-T1ido = Gz1nH6_ * t_Z6X_7pcE;
+
 break;
 }
 }

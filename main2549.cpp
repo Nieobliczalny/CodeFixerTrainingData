@@ -205,7 +205,7 @@ case 1:
 
 break;
 case 2:
-g8H0 = V8_uCw << 1194343231;
+
 break;
 }
 }
@@ -225,7 +225,7 @@ case 0:
 
 break;
 case 1:
-lGyYbqoeg /= 307910918;
+
 break;
 case 2:
 i52PldxM = vkQ8o * 2112652650;
@@ -237,7 +237,7 @@ case 4:
 opk2od4 = YZC2Y(-725017417, lGyYbqoeg);
 break;
 case 5:
-lGyYbqoeg = (int)floor(JxYEJEYM);
+
 break;
 case 6:
 
@@ -249,7 +249,7 @@ case 8:
 lGyYbqoeg = PXYjS % 1699861276;
 break;
 case 9:
-JxYEJEYM = YZC2Y(1519062288, JxYEJEYM);
+
 break;
 }
 }
@@ -271,7 +271,7 @@ case 1:
 
 break;
 case 2:
-Rwo3IVKW81 -= 1106379322;
+
 break;
 case 3:
 Nzn6M = (int)floor(ms7A);
@@ -283,7 +283,7 @@ case 5:
 
 break;
 case 6:
-Nzn6M = V9eE24vUO5 / n966AV9evf;
+
 break;
 case 7:
 VZ0Pg0h12 = (int)abs(n966AV9evf);

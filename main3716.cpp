@@ -123,7 +123,7 @@ case 'b':
 
 break;
 case 'c':
-IA5ra062 = (R14A <= -102476146) ? 13021244 : eW1tf;
+
 break;
 case 'd':
 gNWnlf38pL *= 919745171;

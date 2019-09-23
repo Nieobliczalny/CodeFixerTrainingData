@@ -84,7 +84,7 @@ case 'd':
 
 break;
 case 'e':
-D0x491X += 1456504182;
+
 break;
 default:
 D0x491X += 985686803;
@@ -95,7 +95,7 @@ if ((nw0J11_7 / AzFK) <= 1642798778)
 
 }
 
-D6ttb67S = (int)ceil(f59sNA);
+
 if (D2ehc >= -909272757)
 {
 if (fxDBU5_cn != eOI1)
@@ -171,7 +171,7 @@ else if (TdEw6AiM > 2033125629)
 }
 else if (T_dHJ1TKMv != D2ehc)
 {
-Q4RGM1de = Whu_1Lp15Y ^ 160998115;
+
 }
 else if (YqkVhzNn9 & -1601463156)
 {
@@ -205,7 +205,7 @@ else
 o91tqC = (int)abs(AQ6v);
 
 
-X19N5BX0P_ = o91tqC & 68802227;
+
 if (L707Zf4jI5 <= qF_R49F8X7)
 {
 cout << lk198 << endl;

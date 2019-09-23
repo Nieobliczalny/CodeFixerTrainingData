@@ -33,7 +33,7 @@ int main(int argc, char** argv)
 	unsigned long	T7Uk3st7el;
 	T7Uk3st7el	=	-555010111;
 	unsigned long long	PHv4;
-	PHv4	=	2127133151;
+
     unsigned long long    uRM38QcUJ_;
     uRM38QcUJ_    =    -1062577636;
     short int    g70yZ2G46;
@@ -43,7 +43,7 @@ int main(int argc, char** argv)
     short int    Qfwl5tdya;
     Qfwl5tdya    =    -167480982;
 	unsigned long long	ikP_sLQ0;
-	ikP_sLQ0	=	1222119015;
+
     unsigned int    c3P0j0Pa;
 
     long double    cH27ufJ71;
@@ -55,7 +55,7 @@ int main(int argc, char** argv)
     float    yOE2DWd7;
 
  long long VqyA0Mr8;
- VqyA0Mr8 = 1584725590;
+
 	unsigned int	XO05_x_4_;
 	XO05_x_4_	=	-2056630778;
     unsigned long    f2Dljp;
@@ -77,7 +77,7 @@ int main(int argc, char** argv)
   unsigned long  F1ye;
   F1ye  =  714897341;
  long csB44M;
- csB44M = -954418738;
+
     unsigned char    z1UQ3Ew;
     z1UQ3Ew    =    1131312340;
  short I06G;
@@ -145,7 +145,7 @@ case 1:
 
 break;
 case 2:
-yELMO2 = (int)floor(QL9gd0w);
+
 break;
 case 3:
 jdkZRP1z72 = LA9S_THjh(L_k3z8X, -1347844971, 1822437885, h8rd, b589Nfblju);
@@ -157,7 +157,7 @@ case 5:
 
 break;
 case 6:
-yOE2DWd7 = (int)ceil(LOLe9);
+
 break;
 case 7:
 NHJRq3DF1f = LA9S_THjh(yELMO2, 1539199513, T7Uk3st7el, b589Nfblju, 1707847159) & JHLQ;
@@ -176,7 +176,7 @@ else if (EjpPw >= -720056977)
 }
 else if (b589Nfblju & -418596370)
 {
-N2ztg3 = LA9S_THjh(z41xt, 176209435, 216320092, N2ztg3, 251831555);
+
 }
 else
 {
@@ -199,7 +199,7 @@ hDSDO69LD = t7t48c90DB & 71648245;
 }
 else if (xLga0 < g70yZ2G46)
 {
-EjpPw = UcA5W1UJ ^ 1124709742;
+
 }
 else
 {
@@ -215,7 +215,7 @@ else
 switch (yr5JG48SD)
 {
 case 0:
-EjpPw = (int)floor(LOLe9);
+
 break;
 case 1:
 
@@ -262,7 +262,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-a8607mNo0a = LA9S_THjh(a8607mNo0a, 2045485195, 1432781309, cH27ufJ71, f2Dljp);
+
 break;
 default:
 LOLe9 = (int)ceil(cH27ufJ71);
@@ -321,7 +321,7 @@ DQrSlr = LA9S_THjh(256199795, -2062062927, bKGPQKlR, 1970621120, -239622768) / z
 switch (fmSl4)
 {
 case 0:
-L_k3z8X *= 781425103;
+
 break;
 case 1:
 
@@ -333,7 +333,7 @@ case 3:
 A8_3 = (int)ceil(cH27ufJ71);
 break;
 case 4:
-h8rd = z41xt >> DQrSlr;
+
 break;
 case 5:
 
@@ -345,7 +345,7 @@ case 7:
 jdkZRP1z72 = LA9S_THjh(743067547, -1371721403, K4u872gvhC, LOLe9, YoVb21Na67);
 break;
 default:
-yELMO2 = (int)floor(hDSDO69LD);
+
 break;
 }
 

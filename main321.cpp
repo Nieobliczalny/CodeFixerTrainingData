@@ -17,7 +17,7 @@ int main(int argc, char** argv)
  P2x_X7 = 345087741;
 
  HfGq2 = -296910987;
- xmQ42Wpm1d = 714984666;
+
  V_Id82x = -1194022406;
  z7SF7Cya36 = 1720149896;
  T1dL4g2 = 1809559766;
@@ -27,7 +27,7 @@ int main(int argc, char** argv)
  HJZNp0 = -1262653560;
  P8ULL = -431074035;
 
- eB5VHyG6xe = -1946148601;
+
  oZS7nB = -1902954726;
  R3Ag = 1151296180;
  XJ67QEVZ = 443316757;
@@ -37,7 +37,7 @@ int main(int argc, char** argv)
  RyoEkiOD = 1639573419;
  w1q0a = -1980999806;
  Hjc_u571h0 = -884208751;
- lvWg92 = 825099148;
+
  lL1z = -7032159;
 
  uC5H3 = -14505548;
@@ -68,7 +68,7 @@ int main(int argc, char** argv)
  Hq6A = 1472509720;
  J0_E = 2069067012;
 
- PRU5 = -641385333;
+
  Xi6i0M46 = 1017798857;
  J7FK = 1514310089;
  fp0WCe_83 = -1903083834;
@@ -163,7 +163,7 @@ cout << w1q0a << Hjc_u571h0 << "RQM77gE3H2" << "DX5vbYQ" << vZ_bi4x_8 << endl;
 }
 eLpi = (char)(HJZNp0);
 
-mKsGtT += P8ULL;
+
 switch (f9rpoX_)
 {
 case 'a':
@@ -318,7 +318,7 @@ case 0:
 NwjfD4_pI = lhHLF - wEPQXRs;
 break;
 case 1:
-TNwDzZ = LGRVbiUpn + 542072152;
+
 break;
 case 2:
 T1dL4g2 += 1692509055;
@@ -333,7 +333,7 @@ case 5:
 
 break;
 case 6:
-xmQ42Wpm1d = Hq6A % 1702726302;
+
 break;
 case 7:
 
@@ -450,7 +450,7 @@ case 'B':
 
 break;
 default:
-PQ54c6 ^= HVG8;
+
 break;
 }
 }

@@ -498,7 +498,7 @@ Pf8LiCI = (VYiy6H8 <= 260068602) ? auGo() : -299781994;
 
 if (UTy_ != -392448423)
 {
-uhmLx493 = auGo();
+
 }
 else if (d1BB >= yB2398hRV0)
 {
@@ -556,7 +556,7 @@ case 5:
 
 break;
 default:
-GcPv = auGo();
+
 break;
 }
 }

@@ -39,7 +39,7 @@ case 3:
 roqTOkUe = v2ODwTMB();
 break;
 case 4:
-HBSb = i1RLe << sSD833BI;
+
 break;
 case 5:
 roqTOkUe ^= bF4uQNBi;
@@ -57,7 +57,7 @@ case 9:
 j5eG ^= 1580536093;
 break;
 default:
-LOlpYmA376 = j5Z31bR6d(HBSb, j5eG);
+
 break;
 }
 mhZ8 = (unsigned char)(Rn8YIi + (BMiJS));
@@ -71,7 +71,7 @@ case 'b':
 
 break;
 case 'c':
-towu3 = Q5hRqK7(towu3);
+
 break;
 case 'd':
 q9sy1qA = Ie_uoHtL % VnvX7_;
@@ -112,7 +112,7 @@ case 6:
 r2Nb5Nmt %= j5eG;
 break;
 default:
-towu3 = q9sy1qA >> mhZ8;
+
 break;
 }
 }
@@ -128,7 +128,7 @@ case 1:
 
 break;
 case 2:
-roqTOkUe *= 1888174396;
+
 break;
 case 3:
 r2Nb5Nmt %= 1258116213;
@@ -141,7 +141,7 @@ break;
 
 bu4R = (unsigned char)(WpYF65p9);
 
-q9sy1qA = v2ODwTMB() / Gs4TrQEdHW;
+
 cout << "eaT2" << "QQyXhJux3" << bu4R << endl;
 towu3 = r2Nb5Nmt * 745843408;
 

@@ -248,7 +248,7 @@ catch (int& errorCode)
 {
 RIj694 = m718k();
 }
-qCbT = (int)ceil(Gds_3O);
+
 
 {
 int i = 0;
@@ -301,7 +301,7 @@ SIW3 /= 361996253;
 
 
 
-SIW3 -= 2112481421;
+
 
 b66N8jAL = (int)ceil(BKIW_h);
 
@@ -408,7 +408,7 @@ else if ((RIj694 > -339671489) && (d89Rt6xu_U < BKIW_h))
 }
 else if (QCqK8R < QLIv20uG)
 {
-BKIW_h = (int)floor(Ccwa_W8);
+
 }
 else
 {
@@ -426,7 +426,7 @@ case 1:
 
 break;
 case 2:
-MXhL = l378QT8gp(1693551580, 218683578, 554224038);
+
 break;
 default:
 MXhL = l378QT8gp(QAMJOf, X3pR955796, MXhL);
@@ -475,7 +475,7 @@ else if (asdw13 < 270773930)
 }
 else if (RzK1f < seWIG7Q8)
 {
-m40YvY = (int)floor(tOnW);
+
 }
 else
 {

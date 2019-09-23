@@ -36,6 +36,7 @@ int main(void)
   long  sAJ9jCf_,  yhS6,  Jf2bI_;
     sAJ9jCf_  =  yhS6  =  Jf2bI_  =  0;
 	float	g9AXhOu,	tZy6b8,	o90n8jQCE,	oDnj3OK,	N5m2h_KF1;
+		// codechecker_intentional [deadcode.DeadStores] Design rule - initialize all variables
 		g9AXhOu	=	tZy6b8	=	o90n8jQCE	=	oDnj3OK	=	N5m2h_KF1	=	1280229137;
 
 

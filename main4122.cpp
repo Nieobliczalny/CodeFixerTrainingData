@@ -159,7 +159,7 @@ case 'f':
 
 break;
 case 'g':
-Qf_bqbQ = kW_SW299_ ^ 1082912304;
+
 break;
 case 'h':
 hxF58S6O = (q58Rh20TA == -959178288) ? 600765256 : YBTxQ;
@@ -189,7 +189,7 @@ case 'a':
 
 break;
 case 'b':
-m6kEg >>= 260167241;
+
 break;
 case 'c':
 TabvV = kW_SW299_ + ETj_6rh;
@@ -271,7 +271,7 @@ p_A3uHiPbD = j85gd % C3PwItl9;
 }
 }
 }
-LkRr >>= bf9H9;
+
 switch (qIgP)
 {
 case 'a':
@@ -284,7 +284,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-MPA_vxsgSy &= 1581504734;
+
 break;
 }
 

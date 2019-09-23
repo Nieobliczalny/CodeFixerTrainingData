@@ -248,7 +248,7 @@ for (int i = 4; i >= 0; i--)
 {
 
 }
-zEVp5_Hj1 = (int)floor(Pma64_1Rj0);
+
 
 for (int i = 0; i < 1; i++)
 {
@@ -276,7 +276,7 @@ try
 switch (hg1qmJK)
 {
 case 0:
-XnfrRw3g -= Itjs9M;
+
 break;
 default:
 S8f77_Z2o8 = (int)abs(na83_S8n0);
@@ -316,7 +316,7 @@ case 1:
 
 break;
 case 2:
-V7e96YR3C = S8n7l % 2033486843;
+
 break;
 case 3:
 y_Fm8i -= 291638212;
@@ -328,7 +328,7 @@ case 5:
 
 break;
 case 6:
-ch7D7pTwB = Z4JPo >> 204185230;
+
 break;
 case 7:
 e8iEg7XjJ++;

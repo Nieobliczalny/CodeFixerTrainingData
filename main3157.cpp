@@ -83,7 +83,7 @@ int main() {
 
 
 
-amDbz_Z = gQ_bWO6_X / 1347211761;
+
 try
 {
 {
@@ -128,7 +128,7 @@ case 'b':
 
 break;
 case 'c':
-nQNQ = (int)abs(F36Y3) + (-1023535774);
+
 break;
 }
 }
@@ -161,7 +161,7 @@ case 1:
 
 break;
 case 2:
-g6_Lc17w21 = K6qqxl8H + Jf0TFuZoc;
+
 break;
 case 3:
 v_TnB092Kv = J9E34NtK & 1596679207;

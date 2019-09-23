@@ -579,7 +579,7 @@ while (i < 1);
 
 
 
-kQLViqLGBn = (unsigned long)(lr5e2q8M * (Isc3));
+
 
 return 0;
 }

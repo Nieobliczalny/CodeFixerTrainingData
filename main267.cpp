@@ -139,7 +139,7 @@ case 0:
 UVl5xw1 = (int)abs(QhI7_B1);
 break;
 case 1:
-Tr8Mg3nSl /= bxFi5QL1E_;
+
 break;
 }
 }
@@ -311,7 +311,7 @@ while (i >= 0)
 
 }
 }
-sMnCfb8B = ivhmemha_();
+
 
 for (int i = 0; i < 5; ++i)
 {
@@ -330,7 +330,7 @@ case 3:
 
 break;
 case 4:
-Tr8Mg3nSl = K8isgAAj6 << 62061200;
+
 break;
 default:
 W4425wVPI %= y3RPJ;
@@ -368,7 +368,7 @@ case 1:
 
 break;
 case 2:
-PXNu98 = (int)floor(zgsHZ4Nx5);
+
 break;
 case 3:
 V289Iy_Cu = (int)floor(sBKkXo);
@@ -383,7 +383,7 @@ case 6:
 QhI7_B1 -= 948488873;
 break;
 case 7:
-y3RPJ += LC6ISuS;
+
 break;
 case 8:
 

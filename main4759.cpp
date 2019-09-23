@@ -22,7 +22,7 @@ int main(int argc, char** argv)
  unsigned short int kPka7;
  kPka7 = 1153613755;
  unsigned short int f_1a22cT;
- f_1a22cT = -1662497354;
+
   unsigned short int  J18F1_44;
   J18F1_44  =  1059661151;
     char    p6N_7o4IHp;
@@ -32,7 +32,7 @@ int main(int argc, char** argv)
  int wqDbg3BV9;
  wqDbg3BV9 = -764938377;
     unsigned short    b5b33bM;
-    b5b33bM    =    476106626;
+
  unsigned short int tx4Im63Qk;
  tx4Im63Qk = 1088347111;
     unsigned int    xQcZG;
@@ -52,7 +52,7 @@ int main(int argc, char** argv)
   short  sX4R2x;
   sX4R2x  =  -2023863077;
 	unsigned char	VF7CM2nXYO;
-	VF7CM2nXYO	=	0;
+
 	short	cL5X_P7Vla;
 	cL5X_P7Vla	=	-404448879;
     short    v4y4is1Z;
@@ -168,7 +168,7 @@ case 1:
 
 break;
 default:
-jhfod_0 = zdc7K95(845995199);
+
 break;
 }
 }
@@ -203,7 +203,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-cL5X_P7Vla = Pvpgc(cL5X_P7Vla, E9W63, q_K7Hldec);
+
 break;
 case 'e':
 case 'E':

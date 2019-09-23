@@ -162,7 +162,7 @@ e__Nz = (int)ceil(SdnJ);
 while (i < 7);
 }
 
-PGO6 >>= SQfSVk;
+
 cout << O0kP92_38O(868545384) << O0kP92_38O(tV7N) << lAe9b63eM << O0kP92_38O(tV7N) << endl;
 {
 int i = 2;
@@ -219,7 +219,7 @@ case 1:
 
 break;
 case 2:
-lAe9b63eM += FXTReWE3_i;
+
 break;
 case 3:
 niKVHiVct = (int)abs(sxxZ9_4TF8);
@@ -261,7 +261,7 @@ case 'c':
 z83r = (int)abs(I63xm0b0);
 break;
 case 'd':
-PzN_9JZR6y = sxxZ9_4TF8 * 762766910;
+
 break;
 case 'e':
 
@@ -273,7 +273,7 @@ case 'g':
 
 break;
 case 'h':
-yw22q1_G2 = (int)abs(DzdHH94_);
+
 break;
 default:
 WjJt3Wj = (int)floor(jX2UcF8);
@@ -301,7 +301,7 @@ case 'e':
 e__Nz = (int)ceil(HXk102);
 break;
 case 'f':
-La2i4p = O0kP92_38O(MS20l);
+
 break;
 case 'g':
 gNnn___4 = P3q4Y_rSb & TSV7lt7wv1;
@@ -331,7 +331,7 @@ case 0:
 aN34806 = O0kP92_38O(-1821671529);
 break;
 case 1:
-IJARx6u0V8 = FZ6xg6L * jX2UcF8;
+
 break;
 case 2:
 
@@ -343,7 +343,7 @@ case 4:
 Vew8 = aN34806 - s5K5_6_zA;
 break;
 case 5:
-jX2UcF8 = (int)floor(ga_V);
+
 break;
 case 6:
 

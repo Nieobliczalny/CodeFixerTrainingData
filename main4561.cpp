@@ -214,7 +214,7 @@ case 8:
 
 break;
 case 9:
-wMc96I4 = (int)ceil(YL74R_5B41);
+
 break;
 default:
 
@@ -392,7 +392,7 @@ case 'c':
 POkuTs6TwN = (int)ceil(g_I_9OPE);
 break;
 case 'd':
-ZgqBwm = jW4DlUF5N ^ 1104089757;
+
 break;
 }
 

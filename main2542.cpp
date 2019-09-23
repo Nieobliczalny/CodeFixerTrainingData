@@ -87,7 +87,7 @@ int main(void) {
  short int wBZWj9;
  wBZWj9 = -490195231;
   unsigned long  q438f4yyNr;
-  q438f4yyNr  =  0;
+
     unsigned int    pJ719;
 
     double    Wn141R;
@@ -311,7 +311,7 @@ else if ((CxrhKk8 < -2000661516) || (MR6w == ui_F_oB92))
 }
 else if (Th0z == Q447G)
 {
-h6n4T = ZX9U_8z9np();
+
 }
 else
 {

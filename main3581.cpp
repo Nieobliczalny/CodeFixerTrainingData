@@ -232,7 +232,7 @@ case 1:
 
 break;
 case 2:
-WUmaY3s = Ix4O1885y & x834q;
+
 break;
 case 3:
 p_aG2P = w5uczveS76 * 105300738;
@@ -287,7 +287,7 @@ Wi0cn7vMvI ^= 294510355;
 }
 
 std::cout << E_Fb << y987xr5 << x834q << "h8_W" << XGHdsmu_G << std::endl;
-HYBCxn = Du3q | cra3QDmIb9;
+
 
 G14_wo = (unsigned long long)(y987xr5 + (383096628));
 
@@ -299,7 +299,7 @@ switch (G14_wo)
 {
 case 'a':
 case 'A':
-d8a4Lna3q = E_Fb >> 1912947833;
+
 break;
 case 'b':
 case 'B':
@@ -319,7 +319,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-f8mFpp0 = k2UU5S - Wi0cn7vMvI;
+
 break;
 case 'g':
 case 'G':

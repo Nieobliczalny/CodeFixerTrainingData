@@ -30,7 +30,7 @@ int main(int argc, char** argv)
 
  M5s7 = -636583664;
  h2j2Vc9 = -708830383;
- a2Sc877z = 1883531712;
+
  CZDh3I9 = -1884355726;
  E658 = -1465064512;
  O3W81Gu = -1214841433;
@@ -42,7 +42,7 @@ int main(int argc, char** argv)
  cSD_9yX_o = 1123634637;
  Yrxq56t = 1689247601;
  F5LR9 = 395755485;
- G8H_Zis = 1578709032;
+
  rXZT = 2025317965;
  RA3_e61AC = -101010045;
 
@@ -52,7 +52,7 @@ int main(int argc, char** argv)
 
  Zkx1c6n9fU = -2061617982;
  xB_I4MKfPb = 1988310432;
- OUqL4Yp = -587993421;
+
  NjDZHG4gM = -1214135297;
  I7jqVa = -640468237;
  f0S98p0 = 1515658781;
@@ -230,7 +230,7 @@ case 0:
 
 break;
 case 1:
-G8H_Zis = (int)abs(CZDh3I9);
+
 break;
 case 2:
 
@@ -242,7 +242,7 @@ case 4:
 
 break;
 case 5:
-LmNxDeP0 = Tebt(851139460);
+
 break;
 default:
 
@@ -306,7 +306,7 @@ for (int k = 10; k >= 0; --k)
 
 
 
-NjDZHG4gM = -418850170 / Tebt(vTUcfQ);
+
 return 0;
 }
 

@@ -161,7 +161,7 @@ hd1rXsc97 = (int)ceil(OB2hg5h);
 break;
 case 'b':
 case 'B':
-vDt3 |= V60o;
+
 break;
 case 'c':
 case 'C':
@@ -188,7 +188,7 @@ case 2:
 yjGVT1d = fgetn1ix(yjGVT1d, kZ_a);
 break;
 case 3:
-OB2hg5h = (int)floor(C4Bl);
+
 break;
 case 4:
 V60o >>= 981042337;
@@ -203,7 +203,7 @@ case 7:
 puIXXOtIN_++;
 break;
 case 8:
-I4T6w86s = Xawl06f(1389426068);
+
 break;
 default:
 YXFUbDP -= eDlOX6SQDk;
@@ -252,7 +252,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-eqQQjx8 = (int)floor(QStxyb0ph6);
+
 break;
 case 'd':
 case 'D':
@@ -264,7 +264,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-tRhhG_r = fgetn1ix(tRhhG_r, 1547254802);
+
 break;
 case 'g':
 case 'G':
@@ -276,7 +276,7 @@ case 'H':
 break;
 case 'i':
 case 'I':
-eqQQjx8 = (int)ceil(YzYcagZjs3);
+
 break;
 default:
 ZZsZ0Qm5_k &= v8_H3besT5;
@@ -311,7 +311,7 @@ case 0:
 
 break;
 case 1:
-PSQ3C /= 1616555730;
+
 break;
 case 2:
 
@@ -331,7 +331,7 @@ if (ZZsZ0Qm5_k & pK96S)
 }
 
 
-dJR6aUsn /= S3r6a;
+
 std::cout << w857V6jvFy << fgetn1ix(904209687, -1297547277) << iJ2wFgCv_ << std::endl;
 
 switch (xx5S)
@@ -346,7 +346,7 @@ case 2:
 Q9o5s--;
 break;
 case 3:
-C7ee_UP <<= Gq8QJ9Ny9;
+
 break;
 case 4:
 
@@ -358,7 +358,7 @@ case 6:
 eDlOX6SQDk = XX39H3aSul(puIXXOtIN_, -1017264163, 2062005292) + 114546427;
 break;
 case 7:
-YXFUbDP = (int)ceil(r3G8Mguq0);
+
 break;
 case 8:
 

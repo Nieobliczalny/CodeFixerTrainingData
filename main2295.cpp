@@ -694,7 +694,7 @@ case 0:
 
 break;
 case 1:
-FJwy_1 /= uj_Lfv;
+
 break;
 case 2:
 uj_Lfv = FJwy_1 / mq7D;

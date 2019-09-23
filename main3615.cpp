@@ -228,7 +228,7 @@ case 'c':
 
 break;
 case 'd':
-GOS7X0i *= 535569053;
+
 break;
 case 'e':
 VWJF4G <<= 894690297;
@@ -286,7 +286,7 @@ case 'c':
 lnGo2rKYG4 = (int)abs(nIR0);
 break;
 case 'd':
-mJ5faajQ = U27p << 460845965;
+
 break;
 }
 }
@@ -480,7 +480,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-GOS7X0i = cl5491ku << hN68;
+
 break;
 case 'g':
 case 'G':

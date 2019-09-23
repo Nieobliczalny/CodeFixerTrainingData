@@ -26,7 +26,7 @@ int main(void) {
 	Hz6B3	=	-2101585490;
 	uG9s0scN5	=	906792225;
 	r4hnC_m	=	-223064841;
-	Tqi9	=	-1693079252;
+
 	n007	=	-1270828754;
 	c1kyXM	=	611171349;
 
@@ -60,7 +60,7 @@ int main(void) {
 	lrX3t7PD	=	-469524737;
     long    ZA1jl,    RFs2U3p2Q3,    GqF59s;
     ZA1jl    =    0;
-    RFs2U3p2Q3    =    0;
+
     GqF59s    =    0;
 
 for (int i = 0; i < 7; i++)
@@ -252,7 +252,7 @@ if (UDvL > -609253250)
 {
 if (m4c196Od7)
 {
-Tqi9 = u_7W7LHp | 1256318720;
+
 }
 }
 }
@@ -321,7 +321,7 @@ FjL1g73M9_ = UDvL * 491592477;
 break;
 case 'j':
 case 'J':
-Y95P5V >>= 175248887;
+
 break;
 }
 Lx2qV--;
@@ -370,7 +370,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-Lx2qV ^= W1OhoNv;
+
 break;
 case 'd':
 case 'D':

@@ -77,7 +77,7 @@ case 'b':
 
 break;
 case 'c':
-C29PC_o = (int)floor(LoS_9k2W);
+
 break;
 case 'd':
 fdPu949ZV -= 2127102004;
@@ -122,7 +122,7 @@ break;
 
 
 
-TE8sB = a67ne / CcZwl;
+
 
 {
 int i = 0;
@@ -365,7 +365,7 @@ while (j >= 0);
 
 
 
-Sxn7P9C1q = mwIa * 909590037;
+
 return 0;
 }
 

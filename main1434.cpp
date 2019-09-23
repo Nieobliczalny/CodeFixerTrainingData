@@ -103,7 +103,7 @@ xWOVfjb = 1861930158 / cnEF_TX5I;
 switch (LIn6YOYL4a)
 {
 case 0:
-ezw04j = gsdZo515xR + 141702147;
+
 break;
 case 1:
 sY_m7bCe *= cE34y9;
@@ -246,7 +246,7 @@ case 1:
 
 break;
 case 2:
-gsdZo515xR %= 2094155183;
+
 break;
 default:
 d9ii = (int)abs(ft_V62hge);
@@ -290,7 +290,7 @@ case 7:
 
 break;
 case 8:
-cE34y9 = (s9r_3) ? y9Ou0Y2 : -1564771202;
+
 break;
 case 9:
 
@@ -308,7 +308,7 @@ case 1:
 
 break;
 case 2:
-mC1450_Om = Hm3Z3v9 ^ Y48sk;
+
 break;
 case 3:
 w64W_7930 -= w64W_7930;
@@ -335,7 +335,7 @@ case 1:
 
 break;
 case 2:
-Et_ke9 = h40sh ^ K1O8P54;
+
 break;
 case 3:
 d9ii = (int)ceil(A5Is8ap_f);

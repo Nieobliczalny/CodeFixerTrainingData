@@ -69,7 +69,7 @@ else if (((DtgtM <= 1663673918) || (K_1d != 851037294)) && ((Nr4i5gZ_l == dw0_CH
 }
 else if (NCX24XDS4 < 1163511682)
 {
-d_kmys = (int)ceil(TTTv);
+
 }
 else
 {
@@ -285,7 +285,7 @@ case 'e':
 
 break;
 case 'f':
-cTvh5svR0 = (int)floor(Yup28AP);
+
 break;
 default:
 hVu855 = M58jv8r2H(K_1d);

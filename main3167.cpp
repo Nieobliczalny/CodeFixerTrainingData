@@ -138,7 +138,7 @@ if (VFeEU <= -518442995)
 }
 else if (MOZS5CUqZ5 > vnbqP1)
 {
-rRZan6xd = rRZan6xd << 1983647739;
+
 }
 else if (((rRZan6xd <= pophG) && (C8z3 == -766839292)) || (XQ9V77e & -296902253))
 {
@@ -185,7 +185,7 @@ else
 
 }
 Vt8aXHB = Jl3Ag2s(992075860, -65589829);
-pophG = (int)(JY_3KBqdR);
+
 {
 int i = 9;
 while (i >= 0)
@@ -209,7 +209,7 @@ case 1:
 
 break;
 case 2:
-SOfgZM_b17 = GEJu6();
+
 break;
 case 3:
 qfw9XdCW = (int)floor(C6RAq1r);
@@ -221,7 +221,7 @@ case 5:
 
 break;
 case 6:
-EdGttIx1G = (int)ceil(lt6FN9qh2);
+
 break;
 }
 }

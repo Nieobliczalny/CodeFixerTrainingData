@@ -127,7 +127,7 @@ case 2:
 
 break;
 case 3:
-UT2S_5mg = i_vjJ8w4A & 9792693;
+
 break;
 default:
 Iy172STvG2 = A01eE8 * 908992941;
@@ -301,7 +301,7 @@ case 'b':
 
 break;
 case 'c':
-OJt63 = skP7();
+
 break;
 case 'd':
 Iy172STvG2 = skP7();
@@ -334,7 +334,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-hOCZUbbO9t = l8rX8();
+
 break;
 case 'e':
 case 'E':
@@ -346,7 +346,7 @@ case 'F':
 break;
 case 'g':
 case 'G':
-q4eSSwo = sW57 - 1251709197;
+
 break;
 case 'h':
 case 'H':

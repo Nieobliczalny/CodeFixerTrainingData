@@ -43,7 +43,7 @@ int main(void)
   ZDQPRXH5  =  -1869062978;
   d98Apz8k  =  -2133284685;
   t96eo  =  1928084639;
-  yL0O20z_c  =  869084224;
+
   VHbAx  =  -838675137;
   GENowg2Pf  =  -1580834514;
   p20lg  =  611554443;
@@ -480,7 +480,7 @@ while (j >= 0);
 hoCYR_8Sg0 = udWL0Oh8 * 92714124;
 hoCYR_8Sg0 = hoCYR_8Sg0 * 2132655015;
 
-d98Apz8k = (int)floor(z716);
+
 
 cout << "z36JCFX" << yL0O20z_c << "Ay7F5xG2z" << orC0l << E86isZW << endl;
 

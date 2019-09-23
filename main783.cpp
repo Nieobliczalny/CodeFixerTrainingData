@@ -176,7 +176,7 @@ fdM_97l = XPev - 74176064;
 
 try
 {
-R8V7762 += XPev;
+
 }
 catch (int& errorCode)
 {

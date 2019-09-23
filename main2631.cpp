@@ -150,7 +150,7 @@ case 'b':
 
 break;
 case 'c':
-dH6k6_ = a7td(dH6k6_, 983538684);
+
 break;
 case 'd':
 L9jN = tNO7irv * 1695737234;
@@ -188,7 +188,7 @@ case 1:
 
 break;
 case 2:
-FS6QtY1 = (int)abs(q_4eBj0) + (2002571564);
+
 break;
 }
 }
@@ -415,7 +415,7 @@ case 2:
 
 break;
 case 3:
-p6D9x0 = yE_wlg4(1030192132);
+
 break;
 case 4:
 oDi6bHVp = a7td(oDi6bHVp, -1412808726);
@@ -439,7 +439,7 @@ case 'b':
 
 break;
 case 'c':
-j5yW7_ = (int)floor(xJDK01);
+
 break;
 case 'd':
 dRU29BE_ += l06Gq;

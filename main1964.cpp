@@ -137,7 +137,7 @@ case 'd':
 Fg1X1xY29 = jUO3Q_4ZO_(1356615561, -1123959358);
 break;
 case 'e':
-X1OG3 = (int)floor(p_Lk17MIC);
+
 break;
 case 'f':
 OX5bYj9bB9 = (int)floor(n5LJhjf);
@@ -302,7 +302,7 @@ else if (kP33eJU < 395802154)
 }
 else if (h0ISo_WNQW < a2qwt)
 {
-oWu84 = NL_x >> 932553753;
+
 }
 else
 {

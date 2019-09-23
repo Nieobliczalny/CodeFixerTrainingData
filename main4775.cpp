@@ -713,7 +713,7 @@ break;
 for (int i = qDRy5d5(); i < 3; i++)
 {
 std::cout << iS568cw << std::endl;
-	Cw6j3m4H7 = JauOUGK / i;
+
 Vpc_WDIXj = (long long)(RcDxij04y);
 }
 
@@ -835,7 +835,7 @@ case 1:
 
 break;
 case 2:
-C8r1l14T2 = (int)abs(f__3);
+
 break;
 case 3:
 iS568cw = G5Bx * 450307337;

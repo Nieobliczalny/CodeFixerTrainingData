@@ -86,7 +86,7 @@ int main()
     unsigned short    s6LHEsk_;
 
  unsigned long VAAV4v3;
- VAAV4v3 = -39992567;
+
   unsigned long long  ObkM;
   ObkM  =  0;
     int    F97z0tlV7_;
@@ -112,7 +112,7 @@ int main()
  long long c10uMiRab2;
 
     long long    AM6DBFV5;
-    AM6DBFV5    =    -305032125;
+
  unsigned long ZL7Uav4;
  ZL7Uav4 = 135590401;
 	long	c3_LJ;
@@ -265,7 +265,7 @@ if (WgoT3 < -1827544414)
 
 }
 
-MzUf = (float)(nh27);
+
 std::cout << bfskwo9() / S21t5741W(-2097016102, -1306722693, -559023692, Xsu5f54u, oI34W6) << std::endl;
 for (int i = 6; i >= 0; --i)
 {
@@ -424,7 +424,7 @@ case 'G':
 break;
 case 'h':
 case 'H':
-L0PH7b9_G = (int)floor(nh27);
+
 break;
 case 'i':
 case 'I':
@@ -461,7 +461,7 @@ case 4:
 
 break;
 case 5:
-Ex12 = (int)floor(WGY11mLYsE);
+
 break;
 case 6:
 

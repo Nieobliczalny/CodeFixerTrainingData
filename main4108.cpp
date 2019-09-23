@@ -93,7 +93,7 @@ int main(void)
     unsigned int    VK9_L_4i2F;
     VK9_L_4i2F    =    -1687415931;
 	unsigned long long	W0BJ0E;
-	W0BJ0E	=	1153389231;
+
   char  K40dJUk;
   K40dJUk  =  -456700356;
 	unsigned short	i62u;
@@ -143,7 +143,7 @@ int main(void)
 	short	NDnu8fwm;
 
     long long    jBz7pq6;
-    jBz7pq6    =    -175417204;
+
     short int    z_OiE;
     z_OiE    =    -563368588;
   unsigned short int  BFniA_;
@@ -285,7 +285,7 @@ I5R3 = (int)ceil(a_Lb_rA_A);
 break;
 case 'i':
 case 'I':
-jBz7pq6 = (int)abs(o_C2LUzZ);
+
 break;
 default:
 wdOyw9 |= 576860012;

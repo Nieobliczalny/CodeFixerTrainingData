@@ -254,7 +254,7 @@ switch (m36m)
 {
 case 'a':
 case 'A':
-ew1O7 = (int)abs(KyCb);
+
 break;
 case 'b':
 case 'B':
@@ -285,7 +285,7 @@ break;
 
 try
 {
-EKv5cB = (int)(nmHKam0);
+
 }
 catch (int& errorCode)
 {

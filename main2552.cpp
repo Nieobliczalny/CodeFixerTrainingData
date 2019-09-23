@@ -19,7 +19,7 @@ int main() {
  int i9oniRD8;
 
     float    Mk13;
-    Mk13    =    2047019552;
+
 	int	S14189EG3;
 	S14189EG3	=	-208729400;
     long double    SIU_H;
@@ -29,7 +29,7 @@ int main() {
 	unsigned short	eiI5_e;
 
  short G3f4xy;
- G3f4xy = 871089583;
+
  long double d27_5o8YzH;
  d27_5o8YzH = 1483133776;
     long double    G9W75;
@@ -41,7 +41,7 @@ int main() {
  unsigned short g43_8;
  g43_8 = 1370075088;
   char  rt566gp;
-  rt566gp  =  -1543771097;
+
  unsigned short mfD6L;
  mfD6L = -1355863552;
     double    q2TokM_o;
@@ -51,7 +51,7 @@ int main() {
  unsigned int WZq_U;
 
  float NbmOHtq;
- NbmOHtq = -174510183;
+
  unsigned long v2Y72K;
  v2Y72K = 2113951517;
   unsigned char  f8mfEHGBW5;
@@ -65,7 +65,7 @@ int main() {
  long IaOEYc5Jj5;
 
   unsigned char  DvOFtQh8L;
-  DvOFtQh8L  =  -1162698608;
+
 	char	XaG7za;
 
     short    D91nddM5l7;
@@ -83,7 +83,7 @@ int main() {
   unsigned long long  qLdF1RnBj9;
   qLdF1RnBj9  =  -1602223670;
 	short	ki39j12;
-	ki39j12	=	591080872;
+
     unsigned short int    KSOwg4APQ;
     KSOwg4APQ    =    -1498658457;
  long iSH14I0n;
@@ -93,7 +93,7 @@ int main() {
     unsigned int    GvszRS8_;
 
  unsigned int o0OcBygr;
- o0OcBygr = -1268791694;
+
 	char	u7PTI1v5o;
 	u7PTI1v5o	=	-1458029279;
   char  U1BNwV;
@@ -105,7 +105,7 @@ int main() {
 	short	igE_E8_LW;
 	igE_E8_LW	=	898838542;
 	short	q5Gn6aBI;
-	q5Gn6aBI	=	548975434;
+
     int    i3eu7FswX;
     i3eu7FswX    =    -650038746;
   char  oCZ1Di;
@@ -115,7 +115,7 @@ int main() {
     short int    o0Ec;
 
 	unsigned long long	z2Bv0rp1;
-	z2Bv0rp1	=	-942227178;
+
     float    i1k3tO3;
     i1k3tO3    =    287560996;
     long long    RRrBIhG5;
@@ -125,7 +125,7 @@ int main() {
  unsigned long wTO5N;
 
     unsigned char    P091;
-    P091    =    1116243900;
+
   long long  VoMd3mN23E;
   VoMd3mN23E  =  1568072277;
   char  P49kZ0V;
@@ -137,7 +137,7 @@ int main() {
 	unsigned short	f2DH;
 
  unsigned short int q3KRe1X;
- q3KRe1X = 1193470123;
+
  long S0IE9_60;
  S0IE9_60 = 478210025;
   short  u8ODzm;
@@ -153,7 +153,7 @@ int main() {
 	long	S23Amk7b;
 
     int    R6xt;
-    R6xt    =    -460444967;
+
     unsigned long    YLr7sKB;
     YLr7sKB    =    -91294094;
     unsigned long long    u6m7z;
@@ -163,7 +163,7 @@ int main() {
     char    Caeyw;
 
   short int  cMKVVR;
-  cMKVVR  =  814239285;
+
 	long	OWITd_;
 	OWITd_	=	-950249373;
 
@@ -191,7 +191,7 @@ while (k >= 0);
 }
 else if (bJeZ1 == HN6g3_YD)
 {
-rt566gp = (int)abs(D91nddM5l7);
+
 }
 else
 {

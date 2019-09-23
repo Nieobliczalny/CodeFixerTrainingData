@@ -647,7 +647,7 @@ H5R98 = (int)abs(BV_2kmII);
 break;
 case 'h':
 case 'H':
-q41Z57bZ9 = (int)floor(qshG1G3A5);
+
 break;
 case 'i':
 case 'I':
@@ -716,7 +716,7 @@ case 'd':
 
 break;
 default:
-D0Z7KONT = fY07IUBpbT(D0Z7KONT);
+
 break;
 }
 
@@ -729,7 +729,7 @@ if (arpItp5o == shNE)
 }
 else
 {
-D0Z7KONT = Rf52_ & 2131513166;
+
 }
 
 

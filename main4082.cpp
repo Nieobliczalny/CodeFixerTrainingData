@@ -174,7 +174,7 @@ case 0:
 SdN8q3FI5 = H56S5W(-109386151, 1985035010, -1269121110);
 break;
 case 1:
-MshqM5ePL *= ps83m9;
+
 break;
 case 2:
 isyvRQF6 = H56S5W(isyvRQF6, -1869594407, -1872167703);
@@ -205,7 +205,7 @@ if ((xS9yAbQB58 & -12968418) || (cC_At7r))
 
 }
 }
-ps83m9 = (int)floor(AvIVoDj8);
+
 
 HY8a = (float)(SdN8q3FI5);
 
@@ -222,7 +222,7 @@ while (i < 6);
 int i = 0;
 do
 {
-AvIVoDj8 = (float)(eo4_LqWE3p);
+
 i++;
 }
 while (i < 1);
@@ -259,7 +259,7 @@ case 1:
 
 break;
 case 2:
-U97jz4vTMT = (int)floor(FOrw4WirbD);
+
 break;
 case 3:
 w2bGlT2WE = H56S5W(w2bGlT2WE, -74870641, -339420580);

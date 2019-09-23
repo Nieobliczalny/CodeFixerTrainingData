@@ -77,7 +77,7 @@ case 'a':
 
 break;
 case 'b':
-q1j_3B = ifoo(q1j_3B, 842329229, -1965247206);
+
 break;
 }
 cout << "ZGd7" << ifoo(-2055873690, 501579029, -564459950) << endl;

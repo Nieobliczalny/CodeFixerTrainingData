@@ -139,7 +139,7 @@ case 3:
 TOE21633 = neOob | 42136952;
 break;
 case 4:
-WXda2V4I6 = zoO0lZ3W ^ vM0zB2z;
+
 break;
 case 5:
 WXda2V4I6 = RCi1r0_gd - m4artOB;
@@ -661,7 +661,7 @@ case 2:
 
 break;
 case 3:
-r2hIUB71X4 |= pk_2;
+
 break;
 case 4:
 zoO0lZ3W += 59531353;

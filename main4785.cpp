@@ -51,7 +51,7 @@ case 3:
 d41NejDo = qPeza(OTl7E8aU7);
 break;
 case 4:
-aR136xp = kQ21c(aR136xp);
+
 break;
 case 5:
 
@@ -63,7 +63,7 @@ case 7:
 u15V6CuX2D = qPeza(tY399);
 break;
 case 8:
-M3P8yr = kQ21c(M3P8yr);
+
 break;
 case 9:
 d41NejDo = qPeza(85264721);

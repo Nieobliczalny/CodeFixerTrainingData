@@ -85,7 +85,7 @@ else
 while (i >= 0);
 }
 
-Xqaj6 = (char)(yzvv0);
+
 {
 int i = 0;
 while (i < 1)
@@ -120,7 +120,7 @@ case 0:
 
 break;
 case 1:
-OuUkea0aD <<= 783560706;
+
 break;
 }
 

@@ -471,7 +471,7 @@ case 'f':
 
 break;
 case 'g':
-J40kko = (int)abs(tLDTg) + (1312737399);
+
 break;
 case 'h':
 
@@ -539,7 +539,7 @@ case 1:
 Y_cJ7 = ru7CjOBSlt & 1261092005;
 break;
 case 2:
-jt4h63 &= 1897021667;
+
 break;
 case 3:
 
@@ -590,7 +590,7 @@ else if (((Xgb1fs != MM2vL551) && (r36130D8 < zSX_t4jK7)) || ((PZ6z == Xgb1fs) &
 }
 else if (e7_3z_vO3 == bY2A)
 {
-W97h4Tq = (short int)(XG831u);
+
 }
 else
 {

@@ -425,7 +425,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-j__BIq = YkhDPf26oG * GRi63L9n4;
+
 break;
 case 'd':
 case 'D':
@@ -437,7 +437,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-mHMpS ^= 1526879115;
+
 break;
 case 'g':
 case 'G':

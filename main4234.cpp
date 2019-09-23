@@ -350,7 +350,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-dF9d1Ws8iA ^= 1565880134;
+
 break;
 case 'g':
 case 'G':
@@ -571,7 +571,7 @@ else if (TC6gDh9B1u < 459351934)
 switch (jT2LX)
 {
 case 0:
-I7bgEaAa5 <<= 1900780754;
+
 break;
 case 1:
 L3nfaa6 = vtg43iGH(q_n43X2, t2iLb68, TC6gDh9B1u);
@@ -595,7 +595,7 @@ else
 
 }
 
-m2WRjF5y = vtg43iGH(L3nfaa6, 76284098, qEFJ_4) - 989315404;
+
 
 for (int i = 0; i < 6; i++)
 {
@@ -630,7 +630,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-wyvY26yFq <<= 1349772660;
+
 break;
 case 'g':
 case 'G':
@@ -646,7 +646,7 @@ case 'I':
 break;
 case 'j':
 case 'J':
-Q0VPlE = vtg43iGH(O0YCNuS, jT2LX, gQOqw26);
+
 break;
 }
 return 0;

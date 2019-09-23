@@ -73,7 +73,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-pXS2JXC0Dd /= 10473190;
+
 break;
 }
 }
@@ -348,7 +348,7 @@ case 0:
 r_bk50 = MNHf34CP();
 break;
 case 1:
-LNKEv_RF0 /= 856371819;
+
 break;
 case 2:
 uR6739h = (int)ceil(S6jx4NqyNh);
@@ -456,7 +456,7 @@ case 3:
 
 break;
 case 4:
-uR6739h = Sq7c6 - hv4VrQRz;
+
 break;
 case 5:
 r_bk50 = MNHf34CP();
@@ -514,7 +514,7 @@ ovDlI4dA = MNHf34CP();
 break;
 case 'e':
 case 'E':
-Z876p39 *= MmdeY4;
+
 break;
 case 'f':
 case 'F':
@@ -526,7 +526,7 @@ case 'G':
 break;
 case 'h':
 case 'H':
-j7roIli_ = (int)floor(hv4VrQRz);
+
 break;
 }
 

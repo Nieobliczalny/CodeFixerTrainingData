@@ -426,7 +426,7 @@ default:
 break;
 }
 x8BfK6x = (unsigned short int)(X_E_Tezyr);
-IF9_rHU = (unsigned short int)(z9ZK);
+
 if (((w_gTWn1 != dBBjNHgG) || (oXU_3 >= 2011052648)) || (RlzU5V3 > -380916949))
 {
 if (JYQ_0PW94 == MICV7)
@@ -450,7 +450,7 @@ case 1:
 
 break;
 case 2:
-h2fF = (int)floor(w_gTWn1);
+
 break;
 default:
 ZaS9 <<= 963537062;

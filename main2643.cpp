@@ -41,7 +41,7 @@ int main(int argc, char** argv)
 	long double	Xs5Mlla;
 
   unsigned int  s6wcnY5_4f;
-  s6wcnY5_4f  =  -944814670;
+
   unsigned char  I1Ey;
   I1Ey  =  -653224213;
 	float	mKSnkjVRu1;
@@ -59,7 +59,7 @@ int main(int argc, char** argv)
   int  ytWqZKGb8L;
 
   unsigned int  gKZh1Y7;
-  gKZh1Y7  =  1255423077;
+
 	unsigned char	ePXq_AElqN;
 	ePXq_AElqN	=	-799472491;
     int    Ybn2pK4;
@@ -91,7 +91,7 @@ int main(int argc, char** argv)
 	unsigned int	dSxj3;
 	dSxj3	=	-179464039;
     unsigned short    cbCdV;
-    cbCdV    =    -1299601080;
+
   unsigned int  HygBAN8;
   HygBAN8  =  1336169835;
     char    t4eAD;
@@ -137,7 +137,7 @@ int main(int argc, char** argv)
   unsigned short  Ho99fhq3;
   Ho99fhq3  =  -303248575;
 	int	IOtK_;
-	IOtK_	=	-245003331;
+
   unsigned long  aY22s2Cq;
   aY22s2Cq  =  -1931501059;
 	long	VpRr8w;
@@ -151,7 +151,7 @@ int main(int argc, char** argv)
     short    a1Hs7B6w;
     a1Hs7B6w    =    0;
   unsigned long long  NE4HIk7;
-  NE4HIk7  =  455363213;
+
 
 if (((yw_Gs2) && (aYt4RdQTiy == 232169757)) && (fG9A <= GPUvk))
 {
@@ -192,7 +192,7 @@ do
 {
 try
 {
-aYt4RdQTiy = (int)floor(mKSnkjVRu1);
+
 }
 catch (int& errorCode)
 {
@@ -343,7 +343,7 @@ break;
 }
 else if (bQfdHTsi8 > h1E2_X)
 {
-l5LAzf_u3 = dSxj3 | 1845533397;
+
 }
 else if (je4I2NKBs == -1903432796)
 {
@@ -353,7 +353,7 @@ else
 {
 
 }
-NE4HIk7 = (unsigned long long)(Vc51aZNm);
+
 try
 {
 for (int j = 3; j >= 0; --j)

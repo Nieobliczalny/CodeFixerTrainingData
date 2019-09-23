@@ -642,7 +642,7 @@ std::cout << "QcDn" << std::endl;
 }
 }
 
-Mlj0SL_ -= 420971254;
+
 if (EM2IeREAkc & 189226156)
 {
 if (((pfy_4T & -1988638617) || (hkd34QZ >= 1151661919)) || (l1vjxB != W4v04_PS))
@@ -697,7 +697,7 @@ case 'c':
 
 break;
 case 'd':
-P3NRzDCz = urhS | 1013990904;
+
 break;
 case 'e':
 k92zqn8k = (int)floor(FzK8XWycu);

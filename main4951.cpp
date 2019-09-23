@@ -60,7 +60,7 @@ int main()
     int    D_m48K2;
 
   unsigned short  ZO9_;
-  ZO9_  =  0;
+
   int  AdI27l;
   AdI27l  =  459924592;
   unsigned char  dDAqj2Ba;
@@ -92,7 +92,7 @@ int main()
  unsigned short Sm28y1n;
  Sm28y1n = 1110714458;
 	long	I_n4lmB5;
-	I_n4lmB5	=	1509432879;
+
   unsigned long long  rd3jY;
   rd3jY  =  0;
 	long long	CXpHq8N4DQ;
@@ -124,7 +124,7 @@ int main()
  double Hv3fcZc1X;
  Hv3fcZc1X = 1634026671;
  unsigned int nLc84qFe;
- nLc84qFe = -514229042;
+
   unsigned long long  eYW3;
   eYW3  =  904165155;
   unsigned char  k48nOYQ;
@@ -144,7 +144,7 @@ rd3jY = y5rZHrAGc(SsDNJlO, Hv44);
 break;
 case 'b':
 case 'B':
-anscNlpj3u = (int)ceil(RFa_5QNOt);
+
 break;
 case 'c':
 case 'C':
@@ -227,7 +227,7 @@ while (j >= 0)
 {
 if (Hv44)
 {
-ZO9_ = y5rZHrAGc(1692443529, 1554667351);
+
 }
 else
 {
@@ -250,7 +250,7 @@ else if ((SZDm != -14774025) && ((B5n_y > F1QBpAzo) || (B5n_y != 40353686)))
 switch (G695L)
 {
 case 0:
-ZO9_ = y5rZHrAGc(-1062617439, ZO9_);
+
 break;
 case 1:
 
@@ -334,7 +334,7 @@ Hv3fcZc1X = (int)ceil(Hd4J);
 
 try
 {
-anscNlpj3u = (int)ceil(Hv3fcZc1X);
+
 }
 catch (int& errorCode)
 {

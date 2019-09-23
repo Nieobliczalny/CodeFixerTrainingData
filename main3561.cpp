@@ -52,7 +52,7 @@ int main(int argc, char** argv) {
   unsigned long long  wd6SG;
   wd6SG  =  -2091677221;
  long double Wr_B3XRkA;
- Wr_B3XRkA = 740201320;
+
     long    P3gTPzIS;
     P3gTPzIS    =    1767204762;
   unsigned int  Sy13c2ux;
@@ -66,7 +66,7 @@ int main(int argc, char** argv) {
     long long    oC7lq1b6F;
     oC7lq1b6F    =    1337208394;
   long long  z587PI;
-  z587PI  =  1137273250;
+
 	long long	K4aGqTV9;
 	K4aGqTV9	=	-1048636274;
 	long double	irtE8ndGN;
@@ -90,7 +90,7 @@ int main(int argc, char** argv) {
   unsigned int  m54dvj4;
 
 	long long	p96733US_;
-	p96733US_	=	162418091;
+
   double  cp2kz9Qs0;
   cp2kz9Qs0  =  1352642983;
 	long double	Oq7JS22MBq;
@@ -284,7 +284,7 @@ for (int j = 0; j < 4; j++)
 {
 if (w360CI5J <= HybWxV1G)
 {
-J3TT = faSyumR4T(-316508619, -1386229066, 1991431510, k4T9B0c);
+
 }
 else if ((V31bMJxN0 >= 309227396) && (BH4J > -1126209818))
 {

@@ -114,7 +114,7 @@ case 1:
 
 break;
 case 2:
-sc0lmoLX9 *= 1373617694;
+
 break;
 case 3:
 KPy8GmDeI = (int)abs(KxZkEM);
@@ -129,7 +129,7 @@ case 6:
 X6qGw8Nd = (int)abs(bT6C78w);
 break;
 case 7:
-p9TJ0_fNs9 = (int)abs(LIeF);
+
 break;
 case 8:
 
@@ -161,7 +161,7 @@ vIFWf7M = (int)abs(hjClQ25osT);
 switch (TE7Z9QV5)
 {
 case 'a':
-xY07f230Mo = (int)abs(xLI9PcDAV);
+
 break;
 case 'b':
 Ff4sC8_ = (int)abs(ehHT9128);
@@ -176,7 +176,7 @@ break;
 
 I33c86 = (int)ceil(X6qGw8Nd);
 
-df74IhBR = (double)(FKy7aX);
+
 
 
 switch (dyt2R2c2jB)
@@ -191,7 +191,7 @@ case 'c':
 
 break;
 case 'd':
-Ih5D658bz = (int)abs(I33c86);
+
 break;
 case 'e':
 g1X1V3 = (mu3H_ < bWAO2cHwb) ? vt3_ : 748668323;

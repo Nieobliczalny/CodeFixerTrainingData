@@ -209,7 +209,7 @@ case 2:
 
 break;
 case 3:
-y3EAO35_7 = zWA9pcDz % dGAg_Pbn;
+
 break;
 case 4:
 tb_620T = (int)abs(T9ek564Gm_);
@@ -245,7 +245,7 @@ case 1:
 break;
 }
 }
-B3W0dqc6_ = (short)(RIjdmKO3c);
+
 
 if (y9BM3 <= -633859225)
 {

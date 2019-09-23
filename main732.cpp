@@ -16,7 +16,7 @@ int main()
 
 
   fz2ANS  =  -844908717;
-  JLm8ed9V  =  317048472;
+
   elj7_X7GG  =  521030678;
   GLwpJ  =  1412877048;
   APbh2N  =  -284697548;
@@ -26,7 +26,7 @@ int main()
 
 
   JLAOU3i  =  -284495773;
-  Q_7_40eT  =  -1114202217;
+
   WBVbnF  =  -244663336;
   Vjg6J0I  =  -1467222964;
   wd1X5z2L  =  1866794763;
@@ -36,7 +36,7 @@ int main()
 
 
   pCw7  =  113100535;
-  ntognKl9  =  1568577745;
+
   PpAO  =  406616730;
   W0LMCj0M  =  1665762961;
   J0r_r_x4  =  -493465263;
@@ -47,7 +47,7 @@ int main()
   OU571mh0  =  -1999800818;
 
 
-  NWj5_2  =  -426457848;
+
   t_IbJMR  =  903878517;
   zOw8ouI8y  =  -1715509380;
   BS88DO  =  910257055;
@@ -57,7 +57,7 @@ int main()
   p1S1L_  =  1930154501;
 
 
-  z_ZyXh86X  =  1235924333;
+
   IzVZuXIQ  =  -1968971988;
   OigaLk  =  -874539494;
   VyK4ZX3iP  =  363698280;
@@ -69,7 +69,7 @@ int main()
 
   o6fE7  =  475611231;
 
-  Wd1s7_pnnq  =  2087994817;
+
   no0AJ2X  =  -975141281;
   N3xiKDM7OG  =  219192450;
   FZ5MjN01  =  1493894208;
@@ -81,7 +81,7 @@ int main()
 
   sXLw  =  712478639;
   X4XP7d_  =  -1794501235;
-  g98Iwp  =  -944648072;
+
   DlbVu  =  -383967055;
   T7Z5232xPP  =  1441901597;
   O3e3p8c  =  1986106637;
@@ -95,7 +95,7 @@ int main()
   Grg2dQ  =  803653844;
   w1lUup8  =  1528519609;
   ccRNSiB9q  =  488000534;
-  qEQ9g  =  1124803820;
+
   bra2a  =  -1815765943;
   E8Gz9ntz  =  1994914344;
   f_S8  =  1094812240;
@@ -152,7 +152,7 @@ case 1:
 
 break;
 case 2:
-pbSfP4 = (int)abs(BS88DO);
+
 break;
 case 3:
 t_IbJMR ^= 501332204;
@@ -190,7 +190,7 @@ case 1:
 
 break;
 case 2:
-o6fE7 %= Grg2dQ;
+
 break;
 default:
 xtQh_ %= 663787967;
@@ -241,7 +241,7 @@ cout << "CtsZw" << endl;
 
 NWj5_2 = (int)abs(IzVZuXIQ);
 
-b270M6 ^= t_IbJMR;
+
 
 {
 int i = 2;
@@ -277,7 +277,7 @@ GLwpJ = (int)abs(J0r_r_x4);
 
 
 
-DlbVu = (int)abs(C3OU);
+
 return 0;
 }
 

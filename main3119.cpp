@@ -333,7 +333,7 @@ case 4:
 
 break;
 case 5:
-g46_NyE /= GTuaZ;
+
 break;
 case 6:
 j1l23yH098 = (int)floor(rl7f1IlT4w);
@@ -354,7 +354,7 @@ for (int i = 0; i < 10; i++)
 {
 
 }
-o6dxuRdLD %= hFcvC4D;
+
 
 N4_uGv = mxUq % iL2yXlN;
 

@@ -128,7 +128,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-F_oe <<= 1379680049;
+
 break;
 case 'd':
 case 'D':
@@ -166,7 +166,7 @@ case 'h':
 
 break;
 case 'i':
-M1CU9 = (int)ceil(Fku2D90);
+
 break;
 case 'j':
 nGt_++;

@@ -334,7 +334,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-h9608R = (int)abs(S2keK) + (1827061781);
+
 break;
 }
 }
@@ -355,7 +355,7 @@ else if (S2keK)
 }
 else if (edUL_Krv94 & 1154717016)
 {
-IMKw3 = ctmaa_ % h9608R;
+
 }
 else
 {

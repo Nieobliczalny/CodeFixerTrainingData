@@ -55,7 +55,7 @@ else if (J77960w <= -356665351)
 }
 else
 {
-l7r_VX = (unsigned long long)(VGFv4_35);
+
 }
 }
 catch (int& errorCode)

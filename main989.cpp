@@ -33,7 +33,7 @@ int main(int argc, char** argv) {
  char aIEKa33d_;
 
 	int	PjL15;
-	PjL15	=	274115003;
+
  unsigned short int PRVIK5LGAb;
  PRVIK5LGAb = -1987306471;
 	int	HOlrT2S8T;
@@ -51,7 +51,7 @@ int main(int argc, char** argv) {
 	long	W_aH47lTAI;
 
   float  B0DT0;
-  B0DT0  =  -1114255129;
+
  unsigned int Z7_hJfjKx7;
  Z7_hJfjKx7 = -939714407;
     short int    l06Hfy_z6d;
@@ -61,7 +61,7 @@ int main(int argc, char** argv) {
  int R_ZWn;
  R_ZWn = 0;
     double    C_01W_;
-    C_01W_    =    721181084;
+
   unsigned int  pLkgYUtE;
   pLkgYUtE  =  1957837901;
   long  yP7p_ynVnR;
@@ -73,7 +73,7 @@ int main(int argc, char** argv) {
  int E33OgII_x;
  E33OgII_x = -778868616;
 	long double	qW8B2p_AQ;
-	qW8B2p_AQ	=	79928781;
+
 	long double	V9h8;
 	V9h8	=	-1109581992;
 
@@ -108,7 +108,7 @@ case 5:
 l06Hfy_z6d = R_ZWn & 991040544;
 break;
 case 6:
-qW8B2p_AQ = (int)floor(V9h8);
+
 break;
 case 7:
 

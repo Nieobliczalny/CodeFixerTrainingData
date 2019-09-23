@@ -38,7 +38,7 @@ int main() {
 	short	KsHX65Wd;
 	KsHX65Wd	=	-964561159;
   unsigned long long  A6iB;
-  A6iB  =  -1021136583;
+
 	long	E9316;
 	E9316	=	0;
     short    UF0TJt94;
@@ -267,7 +267,7 @@ else
 
 }
 
-VAKL = UF0TJt94 >> qQq2A_12;
+
 
 cout << ln3X5b << "lV1Fqc_Qf" << endl;
 

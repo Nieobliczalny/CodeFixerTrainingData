@@ -234,7 +234,7 @@ case 'i':
 
 break;
 default:
-N3VXF -= 1883788248;
+
 break;
 }
 F4WEGI = (short)(Cx31XhF2LX);
@@ -377,7 +377,7 @@ else if ((Cx31XhF2LX < -1382421414) && (oNR9ZKQ1 >= 24185872))
 }
 else if (x9fJaHhz == 1259173372)
 {
-oU3D7fLC2w = AgovuO();
+
 }
 else
 {
@@ -436,7 +436,7 @@ case 1:
 
 break;
 case 2:
-Y1Xp_2v9I &= sN673;
+
 break;
 case 3:
 n9tEM9ke6p = TBfn << sN673;
@@ -451,7 +451,7 @@ case 6:
 N054 = AgovuO();
 break;
 case 7:
-X64Ay0 = cpFu0_Jtr(X64Ay0, e8D20B, u5Ej1QTZfA, -807646966, 1718126652);
+
 break;
 case 8:
 

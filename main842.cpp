@@ -128,7 +128,7 @@ case 'd':
 B4573H4hE = (int)abs(QY_6b0);
 break;
 case 'e':
-t7b994 = (int)abs(xD9J);
+
 break;
 case 'f':
 
@@ -174,7 +174,7 @@ case 2:
 H4xf = ULW_(-838177968, 422401685);
 break;
 default:
-dMKGsY_3V3 = (int)ceil(bN5r5r2N1_);
+
 break;
 }
 if ((yM87GI <= 2095244758) || (H4xf))

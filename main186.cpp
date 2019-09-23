@@ -233,7 +233,7 @@ else if (yk6_SHXHR & b2m59a4g)
 {
 if (jUHL7m3O)
 {
-KVdx9PS ^= 2090424893;
+
 }
 else if (wHMIJZ62 & tiuJ9vQPdu)
 {
@@ -286,7 +286,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-KVdx9PS = QZ0F8dxmv5();
+
 break;
 case 'c':
 case 'C':

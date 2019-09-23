@@ -25,7 +25,7 @@ int main(int argc, char** argv)
   RFRvP3N  =  -1851711881;
   Qi3W  =  1242214404;
   XiKEfc  =  1557969422;
-  zXc5noYz  =  -1249559933;
+
 
   r5Ii7oA5  =  -1807361951;
   nM0jK  =  283967833;
@@ -40,7 +40,7 @@ int main(int argc, char** argv)
 
   IsC0aL  =  1271005526;
   J774n_  =  349804621;
-  nv2AcLX  =  283043577;
+
   bvl7_  =  -1643010083;
   dip6rjZgP5  =  -925116946;
   ii1_R2V01  =  171169492;
@@ -66,7 +66,7 @@ int main(int argc, char** argv)
   OXCPD35  =  1032687194;
   F_1X  =  -223150737;
   sSqXq5  =  -372337400;
-  z79_GP  =  805192447;
+
   gFo3A  =  -1758142569;
   oVm5GLC7cW  =  241801424;
 
@@ -85,7 +85,7 @@ int main(int argc, char** argv)
   o9FR3BBkke  =  -547225827;
   Y00_  =  2094784893;
 
-  bAmwMk  =  -2142005393;
+
 
 switch (rM6Y)
 {
@@ -337,7 +337,7 @@ case 1:
 
 break;
 case 2:
-VuTCgSZd08 = N_n31h6 & x2DtL78bn;
+
 break;
 }
 }
@@ -419,7 +419,7 @@ XiKEfc ^= r5Ii7oA5;
 break;
 case 'g':
 case 'G':
-H56Fy0il49 = ii1_R2V01 + 1128938717;
+
 break;
 case 'h':
 case 'H':
@@ -513,7 +513,7 @@ case 'b':
 
 break;
 case 'c':
-a_3P_C >>= 1131212829;
+
 break;
 case 'd':
 Qi3W = (int)abs(Sxw6suZ60W);
@@ -576,7 +576,7 @@ case 'g':
 
 break;
 case 'h':
-m7_9_ >>= 1349033730;
+
 break;
 }
 }

@@ -131,7 +131,7 @@ case 1:
 
 break;
 case 2:
-F8fNX_ = (int)ceil(G_CTO62);
+
 break;
 case 3:
 YLL5xh_ = (int)ceil(F8fNX_);
@@ -164,7 +164,7 @@ else
 }
 }
 
-F8fNX_ = (int)ceil(qf55he9);
+
 
 {
 int i = 3;

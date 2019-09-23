@@ -51,7 +51,7 @@ int main(int argc, char** argv) {
 	long	E512NDI;
 	E512NDI	=	265843273;
  int XBS3S0_9;
- XBS3S0_9 = 42678762;
+
 	unsigned long long	o3PT608;
 	o3PT608	=	363042915;
  short a9_5;
@@ -413,7 +413,7 @@ case 'c':
 
 break;
 case 'd':
-MC4AN2 = PSvISX(479874009, 398047687, bZdBT0_, StE83C) + syvdE;
+
 break;
 case 'e':
 Tq0_m81 = (int)floor(M_JK9SL6);
@@ -428,7 +428,7 @@ case 'h':
 
 break;
 case 'i':
-nZlGOW = (int)ceil(N6xS61R);
+
 break;
 case 'j':
 pNc9m = quHpn27rQ2 ^ q0CdJ4uH;
@@ -442,7 +442,7 @@ M_JK9SL6 = (int)abs(Ti9Wz);
 
 if (n7T21DaD3C >= 1819979152)
 {
-syvdE = (short int)(rI5C);
+
 }
 else
 {
@@ -483,7 +483,7 @@ case 5:
 
 break;
 case 6:
-m1i7 = PSvISX(443427776, -1512677485, -401428258, hkwX_);
+
 break;
 case 7:
 hHdbLE9 = (int)abs(Ti9Wz);
@@ -504,7 +504,7 @@ case 'a':
 mq27ke1 = (int)floor(M_JK9SL6);
 break;
 case 'b':
-o3PT608 = pNc9m ^ 154699141;
+
 break;
 case 'c':
 
@@ -516,7 +516,7 @@ case 'e':
 
 break;
 case 'f':
-rN_1oY4 = yz7nz() ^ 99896901;
+
 break;
 case 'g':
 q0K6U7GWx++;

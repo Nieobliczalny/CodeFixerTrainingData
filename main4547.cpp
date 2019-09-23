@@ -307,7 +307,7 @@ else if ((yi8_07) || ((Gbs0E05_r <= -965913764) || (SB57G3A < 815333249)))
 }
 else
 {
-yv59mB = (int)abs(pN07t);
+
 }
 }
 catch (int& errorCode)
@@ -344,7 +344,7 @@ case 'c':
 
 break;
 case 'd':
-iIlEKF = y04z1Fq9(1128156111, -333475487);
+
 break;
 case 'e':
 Si_i3B = (int)ceil(ogqa);

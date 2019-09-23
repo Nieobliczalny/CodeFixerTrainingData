@@ -250,7 +250,7 @@ case 'e':
 
 break;
 case 'f':
-w68_ -= 244819136;
+
 break;
 case 'g':
 ysQ5 = (int)abs(ahI5sb_0);
@@ -337,7 +337,7 @@ case 'c':
 
 break;
 case 'd':
-ahI5sb_0 = (int)abs(ysQ5);
+
 break;
 case 'e':
 z13SU4E = TYf4UN(z13SU4E, -1646534859, p7L3q, qrCi8Jji, p2Oi86);

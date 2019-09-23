@@ -47,7 +47,7 @@ int main()
     cau7b    =    400290336;
     W3cKE_zBW    =    -674964339;
 
-    wZ6eN1    =    524866272;
+
     GXdMHdju    =    -507786476;
     BDHkl6p_L    =    -34263406;
 
@@ -60,7 +60,7 @@ int main()
     rVzR4C03Jd    =    1207659126;
 
     Q11Fxfwnj    =    -1412711426;
-    t3S8_39fsf    =    -257528559;
+
     qM5sPE    =    -1543715281;
     Rh196Q    =    -2073020615;
     L5QqgV    =    833017666;
@@ -70,7 +70,7 @@ int main()
     l_iBIh1O    =    1771945588;
     a04UKbIYo    =    -1599568320;
 
-    kp2m_    =    1171592695;
+
     C2es_Us5    =    804182771;
     RigNOeNkS    =    -1983875778;
     JY_R77r    =    2044257830;
@@ -87,7 +87,7 @@ int main()
     K3O_    =    -1095015207;
     V6VyY11    =    -1705920160;
 
-    WNjv0N    =    170796207;
+
     Vp9EgF    =    1993292930;
     q0GVm_    =    2040350416;
     x5W9eWs_e    =    -408019871;
@@ -101,7 +101,7 @@ int main()
 
     nDp3auN    =    -1608097588;
     vT49ROI49    =    179211498;
-    wHPf4NQ    =    -755507123;
+
     V8f88    =    -1401548791;
     jnCZ_RD    =    -2037504259;
     HQmQ5o    =    1867322670;
@@ -117,7 +117,7 @@ int main()
     Jpw9jwr    =    -1593755413;
     BiIC    =    1839450285;
 
-    Mm9156Vc    =    585239736;
+
     M1MjUwd3X_    =    355489267;
     eIRrn31KLm    =    389507671;
     e2C4lxe2    =    1079365231;
@@ -179,7 +179,7 @@ case 'a':
 
 break;
 case 'b':
-IfZ9n |= D9iU;
+
 break;
 case 'c':
 K3O_ = x_G3();
@@ -227,7 +227,7 @@ case 'b':
 
 break;
 case 'c':
-X11ApCLZ = iXgAp64V7k(979150247, H4zIPxm, Jpw9jwr, 235995811, XCKD0Rk);
+
 break;
 case 'd':
 K3O_ = x_G3();
@@ -306,7 +306,7 @@ else if (vT49ROI49 <= 229812301)
 }
 else if (axxWX == HQmQ5o)
 {
-Kk0jXAyYHO = T3QyRBu5();
+
 }
 else if (y3j5A)
 {
@@ -352,7 +352,7 @@ case 1:
 
 break;
 case 2:
-Rh196Q = x_G3();
+
 break;
 default:
 IBK4EHsN1 = x_G3();
@@ -369,7 +369,7 @@ case 'a':
 
 break;
 case 'b':
-dq3LT = x_G3();
+
 break;
 case 'c':
 
@@ -381,7 +381,7 @@ case 'e':
 
 break;
 case 'f':
-y3j5A = uLknz & 1839983514;
+
 break;
 case 'g':
 

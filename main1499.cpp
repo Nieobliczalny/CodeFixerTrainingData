@@ -87,7 +87,7 @@ case 2:
 
 break;
 case 3:
-JPtiM = Jzv66X_Koi(JPtiM, 621974926);
+
 break;
 case 4:
 p8_6863g = (int)ceil(WyC2AXWnl);
@@ -276,7 +276,7 @@ V2ZY57W /= 1620195644;
 }
 else
 {
-EPPq = Jzv66X_Koi(EPPq, W3KTw3WXz);
+
 }
 
 for (int i = 0; i < 1; i++)
@@ -312,7 +312,7 @@ for (int i = 0; i < 7; ++i)
 }
 
 
-EXQ0 = (int)abs(Yi5YooX2);
+
 if ((Maed2EqIr > H_RC791_) && ((O1Jz3pl <= -375717642) && (K09o47 > GqYAv_)))
 {
 switch (kUm0r)
@@ -397,7 +397,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-gKOV = d9O12SG();
+
 break;
 case 'd':
 case 'D':

@@ -561,7 +561,7 @@ y0r7_ = (int)abs(f_66);
 }
 else if (((Tos2_BD == 902460564) && (tc4c3kuDS != -182064800)) || (d9SgoKI <= riXOtQQ_F))
 {
-ytlut1i5 = sWu0O4(ytlut1i5, Tos2_BD);
+
 }
 else
 {
@@ -639,7 +639,7 @@ case 'c':
 
 break;
 case 'd':
-d9SgoKI = (int)ceil(KeI0C);
+
 break;
 case 'e':
 Q0sva = aUQ6h4tX(Q0sva, ynAHlZ, sKb1, Gmma6J4, -1365922235);

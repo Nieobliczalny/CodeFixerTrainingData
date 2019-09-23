@@ -16,7 +16,7 @@ int main(int argc, char** argv)
   hOF6Ni142  =  132383793;
   qw_6Ne3vrR  =  -1517584683;
 
-  gJ1Y  =  1823542105;
+
   uUt6Asij  =  2068209689;
 
   l31tJ6  =  -787362121;
@@ -47,7 +47,7 @@ int main(int argc, char** argv)
 
   vm7g  =  -1630238468;
   o5qg  =  -293495555;
-  wc_B  =  -208922721;
+
   jt2Rlt7ntv  =  -159158281;
   OD7zJ03K  =  872650570;
   ZegwdNCPfX  =  -102302304;

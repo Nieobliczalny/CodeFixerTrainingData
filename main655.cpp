@@ -36,7 +36,7 @@ int main(int argc, char** argv) {
   unsigned int  H04lD_6;
 
     long    px8_;
-    px8_    =    1516865737;
+
     int    v1_F;
     v1_F    =    -637752438;
 	float	S8ul_9aEyp;
@@ -46,7 +46,7 @@ int main(int argc, char** argv) {
   double  R5Q7mfZz3k;
 
 	unsigned int	t0W2;
-	t0W2	=	1570745227;
+
     unsigned long    yqkT;
 
   unsigned long long  X4Z532tbVs;
@@ -74,7 +74,7 @@ int main(int argc, char** argv) {
 	char	yj1HB01aGE;
 
     long long    U3UByUPq;
-    U3UByUPq    =    1856587549;
+
   float  R9FU;
   R9FU  =  -1986065989;
     unsigned short int    n6e8vf0f;
@@ -108,7 +108,7 @@ int main(int argc, char** argv) {
 	unsigned short int	Y7yCEGx;
 
  double gzaYXv_QF;
- gzaYXv_QF = 1744807721;
+
  double Xk6WM1d;
  Xk6WM1d = 1954714373;
   long  ham3Mpf;
@@ -120,7 +120,7 @@ int main(int argc, char** argv) {
     unsigned long long    w5mJFc;
     w5mJFc    =    158665103;
   long long  Ma__fKc;
-  Ma__fKc  =  0;
+
 	short int	hrCSk;
 	hrCSk	=	-232292756;
 	unsigned char	cCaVU9d;
@@ -132,7 +132,7 @@ int main(int argc, char** argv) {
  float Jb6472A;
 
 
-PBnAxvO |= cCaVU9d;
+
 
 H04lD_6 = oC_M46z(2023631703, Ol0M, K74B0Ph, 916294371, 871697532);
 {
@@ -161,7 +161,7 @@ case 2:
 
 break;
 case 3:
-OQ7lpmLqX2 *= 1873187372;
+
 break;
 case 4:
 
@@ -173,7 +173,7 @@ case 6:
 
 break;
 case 7:
-g3M0Vg90_H = (int)abs(n_9n2Y_6_p);
+
 break;
 case 8:
 
@@ -199,7 +199,7 @@ case 1:
 
 break;
 case 2:
-v1_F /= 1507446178;
+
 break;
 case 3:
 JKy14Ro5 = (int)floor(Ol0M);
@@ -241,7 +241,7 @@ case 3:
 xp9qND_ = MkiY7LNNOa(zDZn, -720597903, xp9qND_, -1043764927);
 break;
 case 4:
-Xk6WM1d = (int)ceil(JKy14Ro5);
+
 break;
 case 5:
 

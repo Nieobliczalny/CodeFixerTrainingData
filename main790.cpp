@@ -611,7 +611,7 @@ std::cout << h7o8GaFnq << "G2X_7ypw5" << fdzzcbfif << std::endl;
 std::cout << VutH_S_D(EjKeH_L8, m0jr4lk5A, aDKEy2P_) << QbRs << VutH_S_D(EjKeH_L8, -332661525, aDKEy2P_) << h666 << sy0T4(403391645, m0jr4lk5A, aDKEy2P_) << std::endl;
 aDKEy2P_ = yMC5sGj0 * Fz4S9;
 
-TU5cF <<= 1226362455;
+
 
 
 try
@@ -647,7 +647,7 @@ case 6:
 
 break;
 case 7:
-oHekn = sy0T4(-204627065, T_sw, -1425052685);
+
 break;
 }
 

@@ -22,7 +22,7 @@ int main()
  long double mtSntS;
  mtSntS = -465363797;
     unsigned short int    cmQild;
-    cmQild    =    0;
+
 	int	rT7D;
 	rT7D	=	-829716762;
   unsigned int  R4e_Z;
@@ -40,7 +40,7 @@ int main()
 	unsigned long	A94_wn;
 	A94_wn	=	-1680098903;
     unsigned int    CDpgq1obAV;
-    CDpgq1obAV    =    -42990791;
+
 	long long	xwRqH;
 	xwRqH	=	-536930805;
 	unsigned long	muo9O9V;
@@ -62,7 +62,7 @@ int main()
 	unsigned int	M_bxnQ;
 
  float zOt2ai2;
- zOt2ai2 = 1901492439;
+
   short  D216_tL4d;
 
     long double    q76gacY;
@@ -88,7 +88,7 @@ if (Bu3EKuQ84R < NrxXJO6)
 {
 if (((P68C2b8_ <= OI3DI59c) && (mtSntS >= -1037167739)) && (NrxXJO6 > 1656638295))
 {
-zOt2ai2 = (int)floor(NrxXJO6);
+
 }
 else
 {
@@ -105,7 +105,7 @@ case 0:
 
 break;
 case 1:
-PMl58 *= muo9O9V;
+
 break;
 default:
 tJzCPGW1O1 = (int)ceil(q76gacY);
@@ -124,7 +124,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-R4e_Z &= 309226755;
+
 break;
 case 'd':
 case 'D':
@@ -136,7 +136,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-A94_wn = Pnf8_o << P68C2b8_;
+
 break;
 case 'g':
 case 'G':
@@ -148,7 +148,7 @@ case 'H':
 break;
 case 'i':
 case 'I':
-mtSntS = (int)ceil(tJzCPGW1O1);
+
 break;
 case 'j':
 case 'J':

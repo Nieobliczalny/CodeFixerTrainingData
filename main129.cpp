@@ -728,7 +728,7 @@ case 'b':
 
 break;
 case 'c':
-eL1o_286VY *= 961476628;
+
 break;
 case 'd':
 cnZ9e0d6X = S47h(-1654387562);

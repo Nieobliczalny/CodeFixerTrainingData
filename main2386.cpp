@@ -62,7 +62,7 @@ else if (W4Kx != -257119540)
 }
 else if (xo7254 & zViG)
 {
-F4Hr = cbBr_jY | d8Pf0Z2oGS;
+
 }
 else
 {
@@ -84,7 +84,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-A3AN = (int)ceil(W2W91W);
+
 break;
 }
 

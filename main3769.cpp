@@ -779,7 +779,7 @@ case 5:
 
 break;
 case 6:
-W65aiOL_ = E2fi3Nw31();
+
 break;
 case 7:
 S23K6YC <<= C_7zK8tX;
@@ -892,7 +892,7 @@ else
 }
 }
 
-Mg207TB5 = (int)abs(ST47);
+
 
 {
 int i = 5;

@@ -45,7 +45,7 @@ int main(int argc, char** argv) {
 	float	MOAw;
 	MOAw	=	-2101966698;
 	unsigned short int	Z039_;
-	Z039_	=	-1681777817;
+
   short  p7lD;
   p7lD  =  1818161349;
 	double	gsztDJ;
@@ -59,7 +59,7 @@ int main(int argc, char** argv) {
     double    sT1xfFfRAQ;
     sT1xfFfRAQ    =    -977031604;
   short int  BxfEpD;
-  BxfEpD  =  -1310404369;
+
   unsigned int  XqOn_;
   XqOn_  =  -743495974;
     unsigned short    WyD0de;
@@ -315,7 +315,7 @@ if (uihG50k0 > v4l3Z)
 }
 }
 
-wB_2 = KwiUVQWO / X0WZJCv7;
+
 
 if (z4i9D <= 1433348066)
 {

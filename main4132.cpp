@@ -274,7 +274,7 @@ for (int j = 0; j < 10; j++)
 {
 for (int k = 8; k >= 0; --k)
 {
-UKUe = (int)floor(QUr_07AqEP);
+
 }
 }
 }
@@ -352,7 +352,7 @@ case 'c':
 
 break;
 case 'd':
-QUr_07AqEP = (int)floor(R5GSG7);
+
 break;
 case 'e':
 MJ617znH_ *= etV9UuT2Pn;

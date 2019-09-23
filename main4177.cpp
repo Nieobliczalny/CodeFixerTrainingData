@@ -38,7 +38,7 @@ int main()
 	short int	XEgA95_;
 
     char    S_G7F817e;
-    S_G7F817e    =    359296427;
+
     unsigned short int    X88vm2j88;
     X88vm2j88    =    954604252;
   short int  g_d_3;
@@ -54,7 +54,7 @@ int main()
 	char	mdJib9;
 	mdJib9	=	929606442;
     unsigned char    w1ri4u956;
-    w1ri4u956    =    1701983848;
+
 	unsigned long	DIf0;
 	DIf0	=	-1548814955;
   unsigned int  TB1u;
@@ -70,7 +70,7 @@ int main()
 	unsigned short int	hP2k;
 	hP2k	=	219055344;
  short int WCSR7Ya;
- WCSR7Ya = 2070738636;
+
     float    gsRUy;
 
 	unsigned long	LT5E;
@@ -188,7 +188,7 @@ int main()
     short    hAONsrGC;
     hAONsrGC    =    -1086666280;
     unsigned short    wU1L_;
-    wU1L_    =    -796935441;
+
  short j654;
  j654 = 1180200604;
  long double zgjE;
@@ -206,7 +206,7 @@ int main()
  unsigned char ksJ2HgV;
 
   unsigned long long  hbiavy_;
-  hbiavy_  =  -538386251;
+
   unsigned long  W9b67;
   W9b67  =  -1292082157;
 	unsigned long long	e3PP2OO37_;
@@ -521,7 +521,7 @@ else
 {
 try
 {
-mX_f_ /= 1955584813;
+
 }
 catch (int& errorCode)
 {
@@ -573,7 +573,7 @@ else if ((xCZK < 1774236159) || (PZOp6S0A < EN7q51u))
 }
 else
 {
-f4Yr = (int)floor(dYw61l3);
+
 }
 }
 else if ((hAONsrGC <= -1373152056) && (ew5279_D_9))

@@ -69,7 +69,7 @@ int main(int argc, char** argv) {
     short    wOkslhDc3;
 
  unsigned char Oy2aQU;
- Oy2aQU = -833406996;
+
 	double	YrE1Z;
 	YrE1Z	=	1632385405;
     float    mN93IL0T;
@@ -115,7 +115,7 @@ int main(int argc, char** argv) {
     unsigned short    PQl_Yj52;
     PQl_Yj52    =    -520806028;
     unsigned char    Mg65;
-    Mg65    =    0;
+
  short dv7A69_gd;
  dv7A69_gd = 1499283959;
     unsigned char    W0Y4A8uQP;
@@ -139,7 +139,7 @@ int main(int argc, char** argv) {
     long long    jJ97bt8Fx2;
     jJ97bt8Fx2    =    0;
 	unsigned int	jU8LlfM;
-	jU8LlfM	=	-344290204;
+
     unsigned char    vJG62;
 
     float    pb7F0_g6;
@@ -206,7 +206,7 @@ z3EnHby39 = (int)floor(Wv5w0w);
 }
 else if (snZGR99E == -525061678)
 {
-Mg65 = r3zH938yeo(613184993, 594698039, mN93IL0T, -1738506237, lJUk9Y);
+
 }
 else if (B8vtDd7 == 366572513)
 {
@@ -328,7 +328,7 @@ cout << T38D << endl;
 switch (R9ev8w3iyS)
 {
 case 0:
-Wv5w0w = (int)abs(kfl3L);
+
 break;
 case 1:
 

@@ -195,7 +195,7 @@ case 'B':
 
 break;
 }
-rCoIvKdB = (unsigned long long)(M5UJ_zSv);
+
 j91BnRj = p10s7d(1090527113);
 
 return 0;

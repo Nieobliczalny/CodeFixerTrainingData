@@ -24,7 +24,7 @@ case 2:
 
 break;
 case 3:
-O1V1n4g = Cw8UD7J13D ^ ucoPE;
+
 break;
 case 4:
 UgOVjW5Be5 -= 11320964;
@@ -60,7 +60,7 @@ case 5:
 d1Nbdp_G1 = dw3a * xkN3_rS_jZ;
 break;
 case 6:
-LC815X6BHh = ufqW * wxvc0k6761;
+
 break;
 case 7:
 FKI1++;
@@ -83,7 +83,7 @@ case 2:
 
 break;
 default:
-hO30rW %= 1980615056;
+
 break;
 }
 std::cout << UR4rI1SOT << fo1T2aR094 << "I5cE6rZ4gX" << "vM1Up" << Ww3w63U4qG << std::endl;
@@ -116,7 +116,7 @@ case 'a':
 
 break;
 case 'b':
-a641h6QQ |= igI5K;
+
 break;
 case 'c':
 
@@ -128,7 +128,7 @@ case 'e':
 
 break;
 case 'f':
-ZEt9PH9 = gKMgE | Cw8UD7J13D;
+
 break;
 case 'g':
 

@@ -180,7 +180,7 @@ case 2:
 KBv4 = mg961k << if64Sya9q;
 break;
 case 3:
-sb27y = dAE4J43o - 694818929;
+
 break;
 default:
 C19NiziG = u45dJlIT % t0v5to;
@@ -242,7 +242,7 @@ else if (C19NiziG != KVQnMdPu)
 }
 else if (yTPL & -1807285827)
 {
-zo1DPLM9 = mg961k - 1714883594;
+
 }
 else
 {

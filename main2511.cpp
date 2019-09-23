@@ -122,7 +122,7 @@ int k = 0;
 while (k < 3)
 {
 ++k;
-N9JR0T = KY8Kua(410088317, dhASc8_zm) + gKZr59pJ;
+
 }
 }
 }
@@ -157,7 +157,7 @@ case 'e':
 
 break;
 case 'f':
-bIOuR = q4r9X20Y - up_KEPH;
+
 break;
 case 'g':
 
@@ -254,7 +254,7 @@ case 'b':
 
 break;
 case 'c':
-Yj547 = KY8Kua(BSejs7TTZ6, h19Omfd4);
+
 break;
 }
 }

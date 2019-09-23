@@ -84,7 +84,7 @@ int main(int argc, char** argv)
     char    n1csuvb;
     n1csuvb    =    2102731596;
 	unsigned int	F60FeNaU;
-	F60FeNaU	=	-425780891;
+
  unsigned short int b5og1p0MGw;
  b5og1p0MGw = -1484210932;
     short    Sf_d7;

@@ -38,7 +38,7 @@ int main(int argc, char** argv)
   unsigned int  GX_lv0F;
   GX_lv0F  =  -358802933;
     short int    J1K__Hkq5K;
-    J1K__Hkq5K    =    -1808406443;
+
 	long double	IOaDjJSzV6;
 	IOaDjJSzV6	=	-982551110;
 	double	vP50Fh9p;
@@ -52,7 +52,7 @@ int main(int argc, char** argv)
     short int    QUwza93;
     QUwza93    =    1462658706;
  unsigned int lcWhCc_5s;
- lcWhCc_5s = -761682673;
+
     short int    FI40HQ5z;
     FI40HQ5z    =    -291693837;
   long double  l_P2OI;
@@ -118,7 +118,7 @@ int main(int argc, char** argv)
  short MNuYq3Wg5R;
  MNuYq3Wg5R = 221809683;
 	float	zKu016GU;
-	zKu016GU	=	1742495584;
+
 	long long	gdKt7m;
 
   char  hwOeIIRl;
@@ -136,7 +136,7 @@ int main(int argc, char** argv)
 	unsigned char	j6DGdf;
 	j6DGdf	=	880529567;
     short    waik_23r;
-    waik_23r    =    -1790391202;
+
   unsigned short int  kWJYH9nwzS;
 
   unsigned long long  oEq_2Bz;
@@ -177,7 +177,7 @@ while (i >= 0);
 }
 if (j6DGdf >= aZM9)
 {
-zKu016GU = (int)floor(V66i8_7L7x);
+
 }
 
 if ((MNuYq3Wg5R <= 713744132) && (K4Y222 == 1936516496))
@@ -291,7 +291,7 @@ case 'e':
 
 break;
 case 'f':
-GX_lv0F += wn6X_b;
+
 break;
 case 'g':
 KgBWIsbsB = Sfu82uZbM(oEg5s2_, t8ly);
@@ -412,7 +412,7 @@ case 4:
 BS1ccxO = M7W1ZKNt - F69H;
 break;
 default:
-zKu016GU = (int)abs(m7p7wY5ls);
+
 break;
 }
 for (int i = 0; i < 9; i++)
@@ -432,7 +432,7 @@ while (j >= 0);
 }
 
 
-KgBWIsbsB = Sfu82uZbM(mEfj7AY, KgBWIsbsB);
+
 
 if (ic3qk_fC >= -533241968)
 {
@@ -478,7 +478,7 @@ std::cout << Sfu82uZbM(qD7Ecxw6Q, -302953487) << "Rca4f6" << Sfu82uZbM(111347699
 
 for (int i = 0; i < 3; i++)
 {
-sm39Wz1D4 = gWl6S8(2032157790, oEq_2Bz, iIYJop, -696975855, r_sO9Cq4V8);
+
 }
 try
 {

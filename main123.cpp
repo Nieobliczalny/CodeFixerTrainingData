@@ -45,7 +45,7 @@ int main()
     char    SUo0T8_3U0;
     SUo0T8_3U0    =    -2062573381;
 	short int	m7PS3HudD;
-	m7PS3HudD	=	1232056820;
+
     int    FIOGtaX0_4;
 
  unsigned short int Hg_7y;
@@ -61,7 +61,7 @@ int main()
     long double    kG56yynpC;
 
     short int    n2G4;
-    n2G4    =    -863946323;
+
     unsigned long    ER1pY;
     ER1pY    =    139085447;
  unsigned short k0uW;
@@ -77,7 +77,7 @@ int main()
   unsigned short int  cyo59CE;
   cyo59CE  =  1806892697;
   long  UTosWLLd;
-  UTosWLLd  =  2040551912;
+
  long long jGIIwcO;
  jGIIwcO = 1134087220;
     short    Xd_lsclQA;
@@ -107,7 +107,7 @@ int main()
     int    fsUc2N3;
     fsUc2N3    =    -1975589684;
  short int k0fVGRyLW9;
- k0fVGRyLW9 = -1354464071;
+
   unsigned short int  Y58R06E;
   Y58R06E  =  -765718209;
  unsigned int ixI7;
@@ -167,7 +167,7 @@ case 1:
 xy2xx = (int)ceil(rGv8w1);
 break;
 case 2:
-YUkKDyv54 = iN40s(900205411, -454329068);
+
 break;
 case 3:
 U79KMv = qE_Vn(U79KMv, 1304405015, -559859839, SUo0T8_3U0);
@@ -261,7 +261,7 @@ hyD7 = v805ZX(u3fc0Z2H_, K6JD);
 break;
 case 'f':
 case 'F':
-SC3Az8uWYC = v805ZX(dZAD, fhNYfnQ);
+
 break;
 case 'g':
 case 'G':
@@ -309,7 +309,7 @@ case 2:
 hyD7 = v805ZX(-321656498, Ba79162);
 break;
 case 3:
-SC3Az8uWYC = (int)abs(fsUc2N3) * 0;
+
 break;
 case 4:
 
@@ -386,7 +386,7 @@ else if (B0AGx >= BEgcMc4)
 }
 else
 {
-ymS1hAF = (int)floor(rGv8w1);
+
 }
 }
 catch (int& errorCode)

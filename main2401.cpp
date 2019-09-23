@@ -25,7 +25,7 @@ int main(void)
         // codechecker_intentional [deadcode.DeadStores] Design rule - initialize all variables
 		Oh6FeH1el    =    jiE8Zn_CZx    =    G3m9    =    0;
 
-JUTf62V_ = (long long)(oT78_AKU);
+
 if (deHO != 1686515404)
 {
 {
@@ -77,7 +77,7 @@ int k = 0;
 do
 {
 k++;
-Oh6FeH1el = QTKr74();
+
 }
 while (k < 5);
 }
@@ -116,7 +116,7 @@ while (i >= 0)
 switch (Uk3WhglHs)
 {
 case 0:
-G3m9 = QTKr74();
+
 break;
 case 1:
 Oh6FeH1el = QTKr74();
@@ -127,7 +127,7 @@ break;
 }
 }
 }
-vN2TycG_ = (int)abs(JeO2);
+
 
 for (int i = 9; i >= 0; i--)
 {
@@ -146,7 +146,7 @@ case 3:
 l79vtv0 -= 66036083;
 break;
 case 4:
-jW37 = QTKr74() + YHKas_;
+
 break;
 case 5:
 Oh6FeH1el = QTKr74();
@@ -163,7 +163,7 @@ break;
 switch (t5M5RlU4)
 {
 case 0:
-gCw1JL74H = QTKr74() - 1349651501;
+
 break;
 case 1:
 Oh6FeH1el = QTKr74();
@@ -175,7 +175,7 @@ case 3:
 YHKas_ = QTKr74() ^ iIXW2a4ba;
 break;
 case 4:
-CV9_tqEOmR = QTKr74() | Cdl4Qp9vA;
+
 break;
 case 5:
 G3m9 = QTKr74();
@@ -187,7 +187,7 @@ case 7:
 gxT6f6e = YMPCc2 / NTkf;
 break;
 case 8:
-VA00 = gxT6f6e & 1774073169;
+
 break;
 case 9:
 jiE8Zn_CZx = QTKr74();
@@ -201,7 +201,7 @@ nxn43R8L3T = (long long)(ioEo2);
 
 try
 {
-iIXW2a4ba = QTsSd | 644203947;
+
 }
 catch (int& errorCode)
 {
@@ -211,7 +211,7 @@ if (Sw4___2 >= 66421857)
 {
 if (oT78_AKU & -941584575)
 {
-oLWyV26D1 = (long long)(nxn43R8L3T);
+
 }
 else
 {
@@ -240,7 +240,7 @@ jiE8Zn_CZx = QTKr74();
 }
 }
 }
-OJ1g_w3B = F197lPJWcG / jiE8Zn_CZx;
+
 for (int i = 0; i < 3; i++)
 {
 for (int j = 0; j < 9; ++j)

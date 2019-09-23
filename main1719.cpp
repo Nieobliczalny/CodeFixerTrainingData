@@ -555,7 +555,7 @@ if (Ow3IcF3ZI == 1337413028)
 }
 else
 {
-Xp8sJ = (int)ceil(ig_hFVy);
+
 }
 }
 }

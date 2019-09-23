@@ -174,7 +174,7 @@ if (IvH6_I)
 {
 try
 {
-K5VeVBvz3 = vi4qB0J * R_Ci5;
+
 }
 catch (int& errorCode)
 {
@@ -470,7 +470,7 @@ else if (r4r6i < 919948368)
 switch (I39v3)
 {
 case 0:
-Lhncj = (int)ceil(e_111Gyt2w);
+
 break;
 case 1:
 
@@ -482,7 +482,7 @@ case 3:
 
 break;
 case 4:
-vi4qB0J = (int)floor(Q5jcZ8YqA);
+
 break;
 }
 }
@@ -581,7 +581,7 @@ if (Be44 <= -508581164)
 {
 try
 {
-CIg8 = B4u97 >> 157694151;
+
 }
 catch (int& errorCode)
 {

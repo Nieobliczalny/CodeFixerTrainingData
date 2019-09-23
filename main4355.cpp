@@ -22,7 +22,7 @@ int main(int argc, char** argv) {
 
 if ((OcI2 / AAt972) <= 95887703)
 {
-LKkv76838 = (double)(p8Xv9IU);
+
 }
 
 if ((vOBu2 == 147637590) || (ei28Mm5 != 1298633125))
@@ -34,7 +34,7 @@ vBwHR5J8V5 = (double)(CBob);
 int i = 0;
 while (i < 4)
 {
-Lr0PQr = neFJOZ_ * 182340688;
+
 ++i;
 }
 }

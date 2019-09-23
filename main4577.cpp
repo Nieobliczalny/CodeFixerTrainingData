@@ -94,7 +94,7 @@ int main()
     short int    Xd0ksr3_pp;
 
     short int    xSl2sRHUE0;
-    xSl2sRHUE0    =    133738522;
+
   short int  pn0aX0ow_5;
   pn0aX0ow_5  =  2033196411;
     long    B03ic;
@@ -158,7 +158,7 @@ int main()
   short  D26bC;
   D26bC  =  324183599;
     unsigned int    j8dhA;
-    j8dhA    =    -1544397899;
+
   unsigned char  be9u_T;
   be9u_T  =  1549684350;
     float    ADx_JYID7F;
@@ -432,7 +432,7 @@ case 1:
 
 break;
 default:
-a7227Zh3j = (int)abs(ngnJl3xDVm);
+
 break;
 }
 Ar2KD9uAWn += 1591437371;

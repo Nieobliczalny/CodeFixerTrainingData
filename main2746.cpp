@@ -213,7 +213,7 @@ case 5:
 
 break;
 case 6:
-k9ef4 = Dn48e3 - YlvizX;
+
 break;
 default:
 D6bXXiNiEz = QN7wJT2 + aR42FD7kX;
@@ -328,7 +328,7 @@ else if (rx21)
 }
 else if (eeplffca >= -817317572)
 {
-WNpn94MqEP = yqMZ();
+
 }
 else
 {

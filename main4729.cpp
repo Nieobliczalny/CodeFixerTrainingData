@@ -278,7 +278,7 @@ uET0I52913 = Zp8w6ib_2(-337666838, 894507924, 112375609, F6_5);
 break;
 case 'f':
 case 'F':
-nvPf6dZ2bH ^= 2108942365;
+
 break;
 case 'g':
 case 'G':

@@ -63,7 +63,7 @@ int main()
  int d0MA;
  d0MA = 1470866854;
 	long	Dk3wL_S7O3;
-	Dk3wL_S7O3	=	1085193783;
+
   int  MlFl9X;
   MlFl9X  =  239029266;
     int    tr208_n_;
@@ -193,7 +193,7 @@ case 7:
 
 break;
 case 8:
-A_AUJJve = (int)floor(w_JucLGZgL);
+
 break;
 default:
 mzc4Ypt = (int)ceil(wcPZvriXce);
@@ -328,7 +328,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-x64J63GV = (int)ceil(mzc4Ypt);
+
 break;
 case 'e':
 case 'E':

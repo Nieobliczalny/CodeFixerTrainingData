@@ -65,7 +65,7 @@ int main(int argc, char** argv)
 	unsigned long long	h8beOv;
 	h8beOv	=	-1317269785;
  unsigned long HUJg8T9;
- HUJg8T9 = -1432091821;
+
   unsigned short  zH8J;
   zH8J  =  -525478388;
   unsigned short  XwvaF39;
@@ -77,7 +77,7 @@ int main(int argc, char** argv)
  short oqwNs3v;
  oqwNs3v = 1395232845;
   unsigned long  q_n3844;
-  q_n3844  =  0;
+
     long double    ItQi__Br;
     ItQi__Br    =    -1396453006;
     double    Mw48p;
@@ -113,7 +113,7 @@ int main(int argc, char** argv)
     unsigned int    T1__;
 
     short    bOXHe_;
-    bOXHe_    =    1299189032;
+
   short  g0bLeFW6k;
   g0bLeFW6k  =  2104835862;
   unsigned long long  EhChUE;
@@ -131,7 +131,7 @@ int main(int argc, char** argv)
 	long double	nC5T;
 
  long long JCSvkVS;
- JCSvkVS = -1799300791;
+
   unsigned char  tW96Vtf;
   tW96Vtf  =  -707584111;
   long long  o6LbdenC1Q;
@@ -153,7 +153,7 @@ int main(int argc, char** argv)
 	double	wR_FF1d;
 	wR_FF1d	=	-1323297443;
 	unsigned char	Ml7O0u5;
-	Ml7O0u5	=	-305933745;
+
     unsigned int    tI_1;
     tI_1    =    476454601;
  double i545t6_O;
@@ -362,7 +362,7 @@ ae7ulI = (int)ceil(ItQi__Br);
 }
 else if (FklqUgVu > 1013091677)
 {
-q_n3844 = xtZ_73(-974378216, v2w0);
+
 }
 else if ((tI_1 <= rJXym1) && (UjPFtJ7c == sJ6aIT_))
 {
@@ -398,7 +398,7 @@ try
 switch (Wdmp3K1)
 {
 case 0:
-q_n3844 = xtZ_73(i545t6_O, ItQi__Br);
+
 break;
 case 1:
 q_n3844 = xtZ_73(v2w0, 2109187315);
@@ -484,7 +484,7 @@ case 0:
 
 break;
 case 1:
-q_n3844 = xtZ_73(1993956681, 1765566787);
+
 break;
 case 2:
 
@@ -496,7 +496,7 @@ case 4:
 
 break;
 case 5:
-uXD6eL = (int)abs(j89zx);
+
 break;
 case 6:
 

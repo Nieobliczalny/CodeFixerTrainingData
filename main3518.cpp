@@ -315,7 +315,7 @@ case 4:
 dU01eyp = (int)abs(XqKM) + (216845659);
 break;
 case 5:
-xxq0wt04D = t_sOvL(1786693976, TLzic_D8um, -85295991, -825136570);
+
 break;
 case 6:
 kGtJUV &= 18466815;
@@ -489,7 +489,7 @@ case 2:
 amm4K6jV /= 208432296;
 break;
 case 3:
-dU01eyp = fg3Np5csQh();
+
 break;
 case 4:
 r9zUGAe8dt = (int)ceil(amm4K6jV);

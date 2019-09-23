@@ -38,7 +38,7 @@ int main() {
   short int  Su2wU7;
   Su2wU7  =  -430572388;
   long  vf9t9plNM_;
-  vf9t9plNM_  =  -544111040;
+
 	unsigned short int	jite0l;
 	jite0l	=	-1051508983;
 	long double	n51_1LaT;
@@ -62,7 +62,7 @@ int main() {
  int dfzSq24iiD;
  dfzSq24iiD = 732209937;
     float    X0c5OH;
-    X0c5OH    =    1854455961;
+
     long double    sbt1_n16;
     sbt1_n16    =    -1191006807;
  int f53N9_cD;
@@ -122,7 +122,7 @@ Xw1cE = TUDR - 713673415;
 break;
 case 'e':
 case 'E':
-X0c5OH = sbt1_n16 * 1786830657;
+
 break;
 case 'f':
 case 'F':

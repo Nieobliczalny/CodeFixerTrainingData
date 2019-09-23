@@ -47,7 +47,7 @@ int main(int argc, char** argv) {
     Eu6Ze_7    =    -1611039312;
     ipIA58061Q    =    405941905;
     aNM8FD    =    257977429;
-    ZL082H7    =    1163533855;
+
     IjR975sx1    =    1322554914;
     t65OClz2P    =    1463979857;
     staJhaoI    =    373478829;
@@ -130,7 +130,7 @@ case 3:
 iJu2 = t65OClz2P + RKGG6_f;
 break;
 case 4:
-ZL082H7 = z448 << 830326127;
+
 break;
 case 5:
 rY8UjCK2_ += t65OClz2P;
@@ -275,7 +275,7 @@ case 1:
 
 break;
 default:
-Z4E0Q6mj32 = (int)abs(RKGG6_f);
+
 break;
 }
 }
@@ -294,7 +294,7 @@ case 'b':
 
 break;
 case 'c':
-fcIo = yaRywwr / Eu6Ze_7;
+
 break;
 case 'd':
 BsA2KFr = (int)abs(RKGG6_f);
@@ -312,7 +312,7 @@ case 'h':
 
 break;
 case 'i':
-ZL082H7 = E5F6E_099Q + wwGrq4Oe20;
+
 break;
 case 'j':
 
@@ -372,7 +372,7 @@ else if (xhkd < 1793075538)
 switch (Z7GwuQJZD7)
 {
 case 'a':
-Z4E0Q6mj32 = (int)abs(wwGrq4Oe20);
+
 break;
 case 'b':
 
@@ -472,7 +472,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-N3vxbx03 <<= 727379843;
+
 break;
 case 'g':
 case 'G':

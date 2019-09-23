@@ -49,7 +49,7 @@ case 'd':
 OQ2td5e = ZWsw6H7(569490424, 713887045, PCCec_lNJc);
 break;
 case 'e':
-fJzBe &= nfhhK;
+
 break;
 case 'f':
 rJ11klI4 &= mv91;
@@ -149,7 +149,7 @@ else if (ZV2uXC_7)
 {
 if (Rb_72FIC < -487175231)
 {
-A7jIU4 = (short)(kr6T0);
+
 }
 else if (ZV2uXC_7 < V_M7B)
 {

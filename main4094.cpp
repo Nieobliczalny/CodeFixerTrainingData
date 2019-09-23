@@ -37,7 +37,7 @@ int main()
 
 
 
-zc91g = (BgYUik == hxcr8aq6v) ? q0E6h : YZEFoKnpX;
+
 
 if (D_T_l(iG8O0MwGo) == 0)
 {

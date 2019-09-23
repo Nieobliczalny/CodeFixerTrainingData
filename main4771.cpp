@@ -288,7 +288,7 @@ case 'i':
 
 break;
 case 'j':
-MIyQj5 = vZWm4M(MIyQj5, EDI89UB73, -525537514, -369767565, lNqs51);
+
 break;
 default:
 C08N -= 424246574;
@@ -329,7 +329,7 @@ case 'e':
 
 break;
 case 'f':
-F94651 = N3zDA / 1013039598;
+
 break;
 case 'g':
 fg9Mu = j92o9(lNqs51, FNVFP, jtBxy6nf, Y6I11_, 1809970658) & 211629967;

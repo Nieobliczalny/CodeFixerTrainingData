@@ -272,7 +272,7 @@ case 0:
 fFr_Opl = wB3T3n8w();
 break;
 case 1:
-Z0D22K2 = (int)abs(AM9S2M1k);
+
 break;
 case 2:
 wu2khQf5D += 966328893;
@@ -558,7 +558,7 @@ case 'c':
 
 break;
 case 'd':
-yV_w9W = xWXxq9 | d5k09H6;
+
 break;
 case 'e':
 

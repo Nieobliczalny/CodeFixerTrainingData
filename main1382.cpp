@@ -55,7 +55,7 @@ int main(void) {
 	unsigned long	I57ANEpkVf;
 	I57ANEpkVf	=	666575525;
  unsigned char dI9VW;
- dI9VW = 1043414890;
+
  char vtpIG903I;
  vtpIG903I = -1934173811;
   double  s68P0z;
@@ -73,7 +73,7 @@ int main(void) {
  int K20EZ;
  K20EZ = 400478176;
 	long long	j39m3w;
-	j39m3w	=	-1042769422;
+
  long long f_bI;
  f_bI = -158542185;
     int    o_70AG35V;
@@ -83,7 +83,7 @@ int main(void) {
     unsigned short int    OPU70_MF;
     OPU70_MF    =    948799886;
   long double  qdbhX2BHn;
-  qdbhX2BHn  =  -265087653;
+
     float    It4uI0O;
     It4uI0O    =    -808178848;
   long long  bYcbYsIeA;
@@ -95,7 +95,7 @@ int main(void) {
 	unsigned char	e7_9K1q;
 
 	double	bhJcR;
-	bhJcR	=	-823690558;
+
   char  xvkc8PG1_o;
   xvkc8PG1_o  =  -710837995;
  short m5ZcZPG;
@@ -147,7 +147,7 @@ case 5:
 m5ZcZPG |= f_bI;
 break;
 case 6:
-qdbhX2BHn = (int)floor(oeE6tTF9);
+
 break;
 case 7:
 

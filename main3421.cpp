@@ -42,7 +42,7 @@ int main() {
  short p7ISE;
  p7ISE = 1567676498;
 	double	gsu4w;
-	gsu4w	=	-1154930713;
+
 	unsigned short int	k928;
 
   double  j7vY;
@@ -172,7 +172,7 @@ int main() {
     unsigned short    FRL48;
 
  long double N15Qjj;
- N15Qjj = -734164192;
+
     unsigned long    F9KxuOQ5;
     F9KxuOQ5    =    1626390559;
   double  F6b203x;
@@ -202,7 +202,7 @@ int main() {
     int    NjL4s;
 
     unsigned short int    Hm7T1vr_N8;
-    Hm7T1vr_N8    =    -1642319223;
+
  unsigned short t_8U1_H;
  t_8U1_H = -702545174;
     long long    Z9Xw;
@@ -230,7 +230,7 @@ int main() {
     short int    bDH57FUYt;
     bDH57FUYt    =    726107440;
     char    RS6vwI15R;
-    RS6vwI15R    =    -1572732345;
+
 
 {
 int i = 5;
@@ -247,7 +247,7 @@ case 0:
 gqfqqko3y = (int)abs(asG446Aodc);
 break;
 case 1:
-Dz0lQB068 = qqW_aoE9(Dz0lQB068, UpTPax, -2008232893, 867132985, u291JiY0);
+
 break;
 case 2:
 J75w3w = (int)ceil(F6b203x);
@@ -276,7 +276,7 @@ switch (Z74yhj)
 {
 case 'a':
 case 'A':
-Dz0lQB068 = (int)floor(qIci379);
+
 break;
 case 'b':
 case 'B':
@@ -440,7 +440,7 @@ else if (F6b203x <= -1350867812)
 {
 if ((Bsg7i838 == -840070639) || ((zk45NldRI) && (ZCW1maIQ05 <= Btje)))
 {
-Uw2QB = (int)ceil(J75w3w);
+
 }
 else
 {
@@ -488,7 +488,7 @@ case 'd':
 
 break;
 default:
-mWkIl3L = ehYB | 145226216;
+
 break;
 }
 }
@@ -530,7 +530,7 @@ case 5:
 
 break;
 case 6:
-Uw2QB = qqW_aoE9(Uw2QB, 258522693, -1771856857, S6C7o25, 397317164);
+
 break;
 case 7:
 t_8U1_H <<= 651685890;
@@ -580,7 +580,7 @@ try
 {
 if (u6V2h849_ == ezfJ73)
 {
-Uw2QB = (int)floor(LE4s667j);
+
 }
 else
 {

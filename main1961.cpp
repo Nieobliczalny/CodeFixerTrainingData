@@ -49,7 +49,7 @@ int main(int argc, char** argv)
 	unsigned int	NzO0C;
 
   long  dRcmyt1;
-  dRcmyt1  =  -1989943936;
+
     unsigned char    fH2p8;
     fH2p8    =    -251035769;
     long long    ujs3;
@@ -73,7 +73,7 @@ int main(int argc, char** argv)
  unsigned long long bc4W;
  bc4W = 1438473735;
   unsigned short  QX0EU29Cp;
-  QX0EU29Cp  =  1838154634;
+
 	unsigned short int	AH_w3_W9;
 	AH_w3_W9	=	391492310;
 	short	KWXDL9BPM;
@@ -119,7 +119,7 @@ int main(int argc, char** argv)
  unsigned char IAgb_M6R0t;
  IAgb_M6R0t = -1450200709;
     short int    TN_Jb0;
-    TN_Jb0    =    -1352993673;
+
  long double Vn0wel_AT6;
  Vn0wel_AT6 = -2071371409;
     int    t_CdSoP5_1;
@@ -184,7 +184,7 @@ cout << Vn0wel_AT6 << "mY57JM4h" << endl;
 
 try
 {
-dRcmyt1 = (long)(aJ6z3f);
+
 }
 catch (int& errorCode)
 {
@@ -251,7 +251,7 @@ else if (KWXDL9BPM != GYgv6Yz)
 }
 else if (N6Bf7Xh3 == 956407278)
 {
-N6Bf7Xh3 = kZ2_5c ^ a4tx;
+
 }
 else if (JaQY__j0)
 {
@@ -288,7 +288,7 @@ case 'd':
 
 break;
 case 'e':
-mEp1 = z67E(1763176737, Q3pakPk2_, jkeb9X99, nKrjWG);
+
 break;
 case 'f':
 mEp1 = Vs2Y * 896662893;
@@ -370,7 +370,7 @@ case 0:
 
 break;
 case 1:
-ujs3 = QP1M6Ya(AH_w3_W9, S_95, f1Mp59A32W);
+
 break;
 case 2:
 
@@ -421,7 +421,7 @@ else
 
 }
 }
-bJYXipWA = (unsigned int)(uErxPx1W);
+
 QX0EU29Cp = (unsigned short)(aJ6z3f);
 
 

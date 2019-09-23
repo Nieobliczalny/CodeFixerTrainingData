@@ -30,7 +30,7 @@ int main(void)
  float fRsO;
 
   int  dM8jz;
-  dM8jz  =  -1304688001;
+
   int  qhs7;
   qhs7  =  -484693352;
  unsigned int OmS1Y__;
@@ -60,7 +60,7 @@ int main(void)
   unsigned int  C71_N8;
   C71_N8  =  2086536708;
     unsigned int    Fbtr;
-    Fbtr    =    307726890;
+
     unsigned long long    SEKLMf92;
     SEKLMf92    =    -529993082;
  unsigned short f31Xq0;
@@ -80,7 +80,7 @@ int main(void)
  long long D8IK3KE2;
  D8IK3KE2 = 0;
     char    MPW2L;
-    MPW2L    =    1075750057;
+
  float eDE8xn9;
  eDE8xn9 = -731348714;
   unsigned short  k8B8lm;
@@ -92,7 +92,7 @@ int main(void)
 	int	p59i_;
 	p59i_	=	736191041;
   unsigned char  nNjnHdf_sB;
-  nNjnHdf_sB  =  -310524197;
+
   int  jgPJ9X;
   jgPJ9X  =  1705653042;
 	long long	dtH_CK;
@@ -106,7 +106,7 @@ int main(void)
     unsigned char    KX46B;
 
   unsigned short  fkLTUpI7D;
-  fkLTUpI7D  =  -218848870;
+
  unsigned long d_8r;
  d_8r = 1087069946;
 	long long	wB63;
@@ -116,7 +116,7 @@ int main(void)
   unsigned short  egDu;
 
  unsigned long long C41BTli;
- C41BTli = 1820967697;
+
  unsigned long Fa6ds;
  Fa6ds = -1875803421;
   unsigned short  XUJYb6_;
@@ -146,7 +146,7 @@ case 'a':
 
 break;
 case 'b':
-f2G8K = XW4Fzn7(wB63);
+
 break;
 case 'c':
 
@@ -173,7 +173,7 @@ case 'j':
 Ct45Tb2 = riVxol3(-356367243, -108888866, Ww32, SlCbdRRx, 996068832);
 break;
 default:
-nNjnHdf_sB = riVxol3(853354575, 1940755530, 1921075417, 1489900524, NO86eU);
+
 break;
 }
 
@@ -202,7 +202,7 @@ case 6:
 
 break;
 case 7:
-N4H_5Nht *= p59i_;
+
 break;
 }
 try

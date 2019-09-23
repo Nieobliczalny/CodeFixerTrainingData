@@ -381,7 +381,7 @@ int k = 0;
 do
 {
 ++k;
-k1vP = UFA4u % CKWGIr3D2z;
+
 }
 while (k < 10);
 }
@@ -424,7 +424,7 @@ case 6:
 
 break;
 case 7:
-H5Zl9646x = (int)abs(BwyE6K7g);
+
 break;
 case 8:
 g7lg1lfG4m <<= 1412050317;
@@ -439,7 +439,7 @@ ZK8Q++;
 Yxu3X4_ = (int)abs(N0E2F5DV);
 
 
-zY4my_ = L4_W8Sm << 1518515478;
+
 {
 int i = 2;
 while (i >= 0)
@@ -463,7 +463,7 @@ case 4:
 
 break;
 default:
-n36gxZq = c04RST >> 646360213;
+
 break;
 }
 }
@@ -579,7 +579,7 @@ case 'b':
 
 break;
 default:
-CKWGIr3D2z ^= v_omuD;
+
 break;
 }
 }
@@ -613,7 +613,7 @@ else if (V42xUQmG3D < 1909220893)
 }
 else
 {
-Z15Q48jO = (int)abs(ISB3x0a9);
+
 }
 }
 }

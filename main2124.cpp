@@ -317,7 +317,7 @@ if (fvCPE21)
 switch (SietIo51l)
 {
 case 0:
-xv30C6 -= EtKy5mhXS;
+
 break;
 case 1:
 xv30C6 &= o7b_33_4O;
@@ -388,7 +388,7 @@ case 4:
 
 break;
 case 5:
-T16JRPe6 /= 876458777;
+
 break;
 case 6:
 SietIo51l = IPH89V % 1797062135;

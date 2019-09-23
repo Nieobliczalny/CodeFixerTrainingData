@@ -671,7 +671,7 @@ case 'c':
 
 break;
 case 'd':
-fiIHI = (int)abs(zm6_M3YO1b);
+
 break;
 case 'e':
 z9OPLd4D = bRAAv();
@@ -683,7 +683,7 @@ case 'g':
 
 break;
 case 'h':
-zm6_M3YO1b = Np8_7Gn6MY(P_x0, -902206000);
+
 break;
 case 'i':
 Vv7vh = WIP_ >> bHYjsP2r;
@@ -707,7 +707,7 @@ case 2:
 
 break;
 case 3:
-zm6_M3YO1b = (int)abs(fiIHI);
+
 break;
 case 4:
 fiIHI = (int)abs(zm6_M3YO1b);

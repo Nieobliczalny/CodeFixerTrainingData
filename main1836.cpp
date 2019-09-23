@@ -150,7 +150,7 @@ int k = 3;
 do
 {
 --k;
-x3XOfF38 = soi5_G0mt >> zTolXd;
+
 }
 while (k >= 0);
 }
@@ -398,7 +398,7 @@ case 'd':
 
 break;
 case 'e':
-YgeBhB0PV = (int)ceil(e3Es);
+
 break;
 case 'f':
 W6Q3MUgb = (int)abs(dq6SI8n);

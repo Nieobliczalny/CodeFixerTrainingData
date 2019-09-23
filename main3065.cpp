@@ -35,7 +35,7 @@ int main(void) {
   // codechecker_intentional [deadcode.DeadStores] Design rule - initialize all variables
   R8Y7qUmqY = I212h67r = R31IK5J = Fi9o = XNROX0_z = eg1_ = Wo45bEps39 = ZhUQp0w = LGYGq = Ms768k9_ = A0kwO = r_rYe9Uki = v3N49L3 = n5u1 = r9NBgD = Qc_P = lGVyccJ7IU = J1WabBV235 = Ikz9k_bNh = peyObR = kUYm = nSYTFuQD5 = tg41iT3fms = VagWOk = a709VTR0s9 = Mf59 = O91VuOf2 = YgjrpLXnG = W429cu = ZiXvj36V_ = qWNTY0s = QH2mX2jT = waRcJ3kl_X = Z56a = pp4ndvdz = B7eF = UEtwS_f5za = d9_JmYUz = E08g = u3811n32 = wgv_Uj54_4 = Omnp7ZV = As4KkyG = K8sS9ywU29 = m1524 = dvDp1sc = meD8t5k3l = E1VMB = s9_Hqgt = I9t2 = S25mIV = F_c3v = f7X1xb = XlVe_n26x2 = WuX_46oB22 = JE4IaA = Q06B = xyE3LH1d4 = evxel89 = c1gtn08N = HKlZ3ArtqY = do8tc8 = BHG5Vgd6 = KbZ959x = Hb62y3gb0 = ps56 = C0R3zH = oaNB3KIBb = FcA__5crL = rTFE = BtMc = D3a5 = cd6GYoUX = OYfL = Vx4FW0 = s4_EoyP5 = gdkcR = XczdaZun6 = frqC__U5Mg = gVi1VbR7M = jT0Z6If = X8ORB = a6C3sHYkcP = I3h2XH = D1KPDb1 = qeS_30v0 = R8j1g = Ln28djZ = b_Y_H_3P4q = y0NM_F4vL = 2094607774;
     long long    Na8Pt;
-        Na8Pt    =    0;
+
 
 {
 int i = 0;
@@ -49,7 +49,7 @@ while (i < 8);
 switch (R8j1g)
 {
 case 0:
-Na8Pt = vI28E3hs_7(wgv_Uj54_4, xyE3LH1d4, -366843593, 1547751390, R8j1g);
+
 break;
 case 1:
 
@@ -137,7 +137,7 @@ while (j < 3);
 }
 else
 {
-meD8t5k3l = (char)(R31IK5J);
+
 }
 
 
@@ -156,7 +156,7 @@ if ((K8sS9ywU29 / vI28E3hs_7(b_Y_H_3P4q, VagWOk, LGYGq, F_c3v, d9_JmYUz)) > 1967
 
 }
 
-cd6GYoUX = r9NBgD * 486291845;
+
 
 for (int i = 10; i >= 0; --i)
 {

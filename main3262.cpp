@@ -327,7 +327,7 @@ else
 switch (v4ub2)
 {
 case 0:
-q9x7Y961_9 <<= 721270872;
+
 break;
 case 1:
 M5sT_MV_z1 = TzU_ACCAy1(M5sT_MV_z1, BOgWcu, 1953603089, -1507142940, -723185002);

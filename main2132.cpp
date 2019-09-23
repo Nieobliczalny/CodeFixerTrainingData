@@ -264,7 +264,7 @@ case 'h':
 iw6R7e = (int)ceil(K_OsN1);
 break;
 case 'i':
-xgu_yv = MNen4s092 * 380616939;
+
 break;
 case 'j':
 Oi9G = y1ru95g(Oi9G, SBgzac_k8E, BNkhI1m, -916238468, -1789676987);
@@ -358,7 +358,7 @@ case 'b':
 
 break;
 case 'c':
-D7vrG = (int)floor(TQ_5Ye);
+
 break;
 case 'd':
 TQ_5Ye *= 689319791;

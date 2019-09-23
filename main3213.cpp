@@ -214,7 +214,7 @@ case 6:
 
 break;
 case 7:
-znKaBq <<= 119291950;
+
 break;
 case 8:
 Cf_nJ = Yyc3B + zk_8;

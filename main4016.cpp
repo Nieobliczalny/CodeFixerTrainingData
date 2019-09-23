@@ -23,7 +23,7 @@ int main() {
 
 	jP4ef5a	=	57709741;
 
-	urw3izDaw	=	-2134602458;
+
 	PUC26H1	=	-336201428;
 	F75U	=	-877975715;
 	L3rmNkU67	=	-639660679;
@@ -34,7 +34,7 @@ int main() {
     unsigned int    AA9R,    wm10__1,    q8FUocgVqy,    D92iu;
     AA9R    =    0;
 
-    q8FUocgVqy    =    0;
+
     D92iu    =    0;
 
 cout << jP4ef5a / AA9R << endl;

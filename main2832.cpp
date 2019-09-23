@@ -38,7 +38,7 @@ int main()
     long    D2ZUIEZ8;
     D2ZUIEZ8    =    111309581;
 	long	zJas2;
-	zJas2	=	-1258980944;
+
   unsigned short int  F4gkd;
   F4gkd  =  -1897845268;
     unsigned short int    M4EH;
@@ -114,7 +114,7 @@ int main()
  int M2225YzXyy;
  M2225YzXyy = -1801977020;
     long    X0j58N8t;
-    X0j58N8t    =    1959272595;
+
     unsigned long    YyfHgG21;
     YyfHgG21    =    0;
  short je42W;
@@ -634,7 +634,7 @@ if (t36M3O > -191792060)
 }
 else
 {
-L835B = (int)abs(BDyn_qIV);
+
 }
 }
 else if (mNic_lF <= -1720067638)

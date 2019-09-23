@@ -299,7 +299,7 @@ case 1:
 
 break;
 case 2:
-ySa4IJ5RQ = b71i2qF(ySa4IJ5RQ);
+
 break;
 case 3:
 s4X2A_0T_ %= 96387602;

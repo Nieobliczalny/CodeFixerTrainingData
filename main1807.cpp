@@ -322,7 +322,7 @@ if (EMJk7828_P & -528538405)
 {
 try
 {
-cvo2p *= C54kM;
+
 }
 catch (int& errorCode)
 {

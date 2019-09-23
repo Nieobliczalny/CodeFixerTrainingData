@@ -276,7 +276,7 @@ case 4:
 R0YsW <<= L786jOQ;
 break;
 case 5:
-gHND_EnX = (int)abs(mJJdnAx);
+
 break;
 case 6:
 jHojEzXmgJ &= 9072828;

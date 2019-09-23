@@ -26,7 +26,7 @@ if ((B6Vf < N0hbP) || (IrJ_mi != -1661789576))
 
 }
 std::cout << Eqla() << aik1N07b << Eqla() << std::endl;
-j_Mh = Eqla();
+
 for (int i = 0; i < 5; i++)
 {
 {
@@ -76,7 +76,7 @@ case 0:
 
 break;
 case 1:
-gHy8C7MC *= 1049221664;
+
 break;
 case 2:
 
@@ -88,7 +88,7 @@ case 4:
 
 break;
 case 5:
-QcopKa0 = wL8HS2pr(QcopKa0, -1869923769, -167069433);
+
 break;
 }
 {
@@ -127,7 +127,7 @@ case 'a':
 s6Eh--;
 break;
 default:
-Th9J = Eqla();
+
 break;
 }
 --j;
@@ -137,7 +137,7 @@ break;
 
 
 
-RO5OyCyg5J = Eqla();
+
 
 for (int i = 0; i < 7; ++i)
 {

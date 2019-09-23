@@ -11,7 +11,7 @@ using namespace std;
 int main(int argc, char** argv) {
 	long	NGm1zG,	hMh869VxyR,	mnZa,	pwd53r;
 
-	hMh869VxyR	=	0;
+
 	mnZa	=	0;
 
 	unsigned short int	bx7bE,	sAgC8h,	yF1_,	k4yu0nH,	G2PQNf5,	YNl70,	SAs2Kx0NN_,	eSR2Pv2,	pj4q4;
@@ -49,7 +49,7 @@ if ((-1974332345 / mnZa) < -402039454)
 }
 
 
-yF1_ = (unsigned short int)(sAgC8h);
+
 return 0;
 }
 

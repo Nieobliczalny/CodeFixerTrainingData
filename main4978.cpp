@@ -693,7 +693,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-oOnuHl &= 1763607138;
+
 break;
 case 'c':
 case 'C':

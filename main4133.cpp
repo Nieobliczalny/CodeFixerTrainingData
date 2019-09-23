@@ -42,7 +42,7 @@ int main(int argc, char** argv)
   JOM1  =  486528336;
   CytCL84b  =  -916714968;
   l9Pr_VR8T  =  -1649373507;
-  C32_s  =  -619319891;
+
   J_mk3zqcji  =  2082998547;
   j74B6v3n  =  647591829;
   SlLRPq  =  1824465214;
@@ -161,7 +161,7 @@ case 2:
 
 break;
 case 3:
-Z8wply = FDqlD5Z5t_(1385797110, Z8wply, TG8C5SX, J_mk3zqcji, q2449);
+
 break;
 case 4:
 xDKU = (int)floor(j74B6v3n);

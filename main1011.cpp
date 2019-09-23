@@ -215,7 +215,7 @@ case 2:
 jE48 = (int)floor(XQ3PH0);
 break;
 case 3:
-xeU_V7X96 = SnY8(xeU_V7X96, -109685860, -983896519);
+
 break;
 case 4:
 XSi_gMBY = SnY8(XSi_gMBY, 1810724750, pdFMd);
@@ -511,7 +511,7 @@ c4Hw = (int)ceil(W_Z5);
 int i = 5;
 while (i >= 0)
 {
-xeU_V7X96 = (unsigned long long)(v_YsS4P8v6);
+
 --i;
 }
 }
@@ -604,7 +604,7 @@ case 'c':
 
 break;
 case 'd':
-Qx0p1o = oput | 1930355829;
+
 break;
 case 'e':
 
@@ -628,7 +628,7 @@ default:
 
 break;
 }
-Sbwq = (unsigned short)(O707);
+
 switch (HKManYw_X)
 {
 case 'a':

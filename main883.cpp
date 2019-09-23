@@ -272,7 +272,7 @@ mm9M7USL2C = (char)(q008);
 }
 else if (WKyA)
 {
-pB7iZ2f_ = (int)abs(O_8l9E0);
+
 }
 else
 {

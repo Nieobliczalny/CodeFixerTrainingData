@@ -42,7 +42,7 @@ while (j < 2)
 {
 for (int k = 9; k >= 0; k--)
 {
-vhXoE4 = Gk__8ilp % 837194729;
+
 }
 ++j;
 }
@@ -76,7 +76,7 @@ case 4:
 
 break;
 default:
-smd8O7 = B_79x(loR9_a, 531283517, 1743266043, 1892201297) - 731646090;
+
 break;
 }
 }
@@ -129,7 +129,7 @@ if (((RSsag917 >= eR40AScJ) && (d_jK < b86L7)) && (qgk3 >= -501697459))
 
 }
 
-hjC4 += 1353119433;
+
 
 std::cout << 1672275638 / B_79x(RSsag917, -1241270917, DzW0k, -256541873) << std::endl;
 return 0;

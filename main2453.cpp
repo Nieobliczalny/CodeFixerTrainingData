@@ -37,7 +37,7 @@ case 3:
 I83CSlJ ^= 574997015;
 break;
 default:
-ztadOB0k = ZCEt | Qsg_syd;
+
 break;
 }
 }
@@ -69,7 +69,7 @@ else if (D32K2H <= sAl_x13)
 }
 else if (ogHX8r0Tc <= -826565951)
 {
-nlo5Cdb_c ^= D32K2H;
+
 }
 else
 {
@@ -113,7 +113,7 @@ case 'b':
 
 break;
 case 'c':
-kv291A /= n6zF7_d0;
+
 break;
 }
 }
@@ -138,7 +138,7 @@ for (int i = 0; i < 47; i++)
 {
 
 
-D32K2H = Qsg_syd / k_iw;
+
 }
 
 return 0;

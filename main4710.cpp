@@ -155,7 +155,7 @@ o93Yq6v = (int)abs(sr_AW05);
 switch (zfpp)
 {
 case 0:
-H7if = b2y_q_(g2xZzZ7w, H7if, p4z4Bn);
+
 break;
 case 1:
 H7if = b2y_q_(LqAk8, sr_AW05, o93Yq6v);
@@ -167,7 +167,7 @@ case 3:
 k_A3 = b2y_q_(-805833483, 2027197008, o93Yq6v);
 break;
 case 4:
-wh4Zy30 += 1967657760;
+
 break;
 case 5:
 H1TtS /= g2xZzZ7w;

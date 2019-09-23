@@ -307,7 +307,7 @@ sw6A5b = rA8chb8 * 249832357;
 break;
 case 'b':
 case 'B':
-WInk = (oWl5N) ? NN0FW : sw6A5b;
+
 break;
 }
 }
@@ -404,7 +404,7 @@ case 'd':
 lEh29ue = H84Ps1J6t % 1449553628;
 break;
 case 'e':
-kgA325272 = ryByD << l3YeDYZ;
+
 break;
 case 'f':
 
@@ -530,7 +530,7 @@ case 'B':
 
 break;
 default:
-i10B |= 776304242;
+
 break;
 }
 return 0;

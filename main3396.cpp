@@ -78,7 +78,7 @@ int main(void) {
   Jc_JZ  =  2010093401;
 
   Xt47R1Cpt6  =  178956623;
-  aNCS_AF  =  -2022547858;
+
   Da0Gb2ccY  =  436267084;
   HcW8xK  =  -1463897413;
 
@@ -556,7 +556,7 @@ y618l8 = g10g_S_(2020446955, 206080305, -121661354, KlbB8XfKi, G_2d8);
 int i = 10;
 while (i >= 0)
 {
-LXNx21Y = (unsigned char)(W4X_nN);
+
 --i;
 }
 }
@@ -584,7 +584,7 @@ case 6:
 
 break;
 case 7:
-lr71 = g10g_S_(-1582649942, 1691472112, lr71, MiP3_a, y0853) << 1015381645;
+
 break;
 case 8:
 V_6N086488 = vSr3M_zrAI();

@@ -71,7 +71,7 @@ int main(int argc, char** argv)
   int  kiPXjBXv4D;
   kiPXjBXv4D  =  -86396104;
     short    vo7J7V75z8;
-    vo7J7V75z8    =    0;
+
  unsigned short int nSKMM5gr51;
  nSKMM5gr51 = 0;
  float c5JQ8UY;
@@ -147,7 +147,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-c5JQ8UY = eQQdpo2w(453591373, nSKMM5gr51, 1148840791, t9nw8G);
+
 break;
 case 'c':
 case 'C':
@@ -228,7 +228,7 @@ else
 switch (CWoJJbgq)
 {
 case 'a':
-P_00Xj = lLi7Y / I6V33Cw;
+
 break;
 case 'b':
 
@@ -249,7 +249,7 @@ case 'g':
 
 break;
 case 'h':
-Jy6lz97_d = TEWBes(1964091911, -547729054, Bq7suS);
+
 break;
 case 'i':
 l2cE_ = (int)abs(lLi7Y);
@@ -262,7 +262,7 @@ break;
 
 
 
-z_rn_ = (float)(BQ72io + (-1394177274));
+
 
 return 0;
 }

@@ -182,7 +182,7 @@ EUaFyVoZ = BU5dFRq4pW(EUaFyVoZ, bW_aBnw4, 1237789582, ewX_);
 break;
 case 'c':
 case 'C':
-Q903A = (int)ceil(EUaFyVoZ);
+
 break;
 default:
 AUgFLFY7x = (int)floor(EUaFyVoZ);
@@ -265,7 +265,7 @@ BM8u = BU5dFRq4pW(-1874036354, xl_a, -696273308, -667924998);
 }
 else if ((L_ek > dEim5V7x1S) && (A523HYSHi != i4TE))
 {
-L_ek = (int)floor(Cgh0xke);
+
 }
 else
 {

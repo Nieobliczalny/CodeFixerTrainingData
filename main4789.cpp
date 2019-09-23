@@ -34,7 +34,7 @@ int main() {
 
 	ZrnO8	=	1587079819;
 	aWM9	=	-1738169031;
-	w18iXV4W	=	-306070477;
+
 	B6_Cp4VrM	=	-1738202188;
 	H9_59i3n	=	-1361440064;
 	r523	=	-864507479;
@@ -149,7 +149,7 @@ case 'b':
 cT4cEc5LX <<= ZrnO8;
 break;
 case 'c':
-w18iXV4W = RC4G4groQ ^ u7l1GA_8j;
+
 break;
 case 'd':
 
@@ -337,7 +337,7 @@ case 'c':
 fP570E8xA = F0KA2_J1(476901696);
 break;
 case 'd':
-hE3b85 = (FxTpiB5) ? D_s1NF : Pc_w3;
+
 break;
 case 'e':
 zp_t = F0KA2_J1(1848616405);
@@ -349,7 +349,7 @@ case 'g':
 
 break;
 case 'h':
-Ww6_w01KGR = F0KA2_J1(1660576619) - cT4cEc5LX;
+
 break;
 case 'i':
 D1L7K8_7u++;

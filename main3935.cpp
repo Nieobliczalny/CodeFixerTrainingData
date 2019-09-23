@@ -60,7 +60,7 @@ int main(int argc, char** argv)
 	q2ZIQ	=	1728181566;
 
 	V7tt_DJ1Z	=	1571572558;
-	NQOl	=	574007250;
+
 	mO41_	=	-689799858;
 	o4bS	=	-1191214649;
 	sxtqt	=	2111439667;
@@ -83,7 +83,7 @@ int main(int argc, char** argv)
 	S8vWCh	=	824471922;
 
 	NaHW6P	=	1054164971;
-	iY_G	=	-1722064389;
+
 	ElIG	=	2128512073;
 	cKCbwD	=	-206627164;
 	U96s1L_B	=	1023016391;
@@ -133,7 +133,7 @@ case 'j':
 FZwh6vwDeq = ElIG / 1048820481;
 break;
 default:
-iY_G = z9qpeS01XB(1110278122, 1256601250, -2105328156, 55638051, r_sYnv9y);
+
 break;
 }
 }
@@ -171,7 +171,7 @@ if (cssg5V < 1775036840)
 {
 try
 {
-NmL09 = (short)(p6o7lc);
+
 }
 catch (int& errorCode)
 {

@@ -25,7 +25,7 @@ Tc2__42_Q = (int)ceil(Op4i_);
 std::cout << aR55lo5qo3(Tc2__42_Q, mefg_F) << "D7H344" << "jQnrAln" << c5pX2_ << "T_r5l6B" << std::endl;
 if (aR55lo5qo3(Tc2__42_Q, mefg_F) == 0)
 {
-	mefg_F = Tc2__42_Q / aR55lo5qo3(Tc2__42_Q, mefg_F);
+
 }
 
 return 0;

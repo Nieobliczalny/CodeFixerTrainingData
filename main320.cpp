@@ -89,7 +89,7 @@ case 'e':
 f2k5T80Fc3 |= eLwrL81;
 break;
 case 'f':
-k_T2xQb5 &= 241673881;
+
 break;
 case 'g':
 C7_8_ = N9g8(-298315539, -1714876499, -2054366713, Y_lWK);
@@ -213,7 +213,7 @@ else if (Y_00YbEFxQ <= 1380855593)
 }
 else if ((g8XOs8ZnhG == -2084393777) && ((P0AZMQ9 == e_69) && (eEy10305 != 341009473)))
 {
-P0AZMQ9 = d1YFJqp << z4kr;
+
 }
 else if (A2xek1D521 != -1361943511)
 {

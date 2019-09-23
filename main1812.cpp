@@ -406,7 +406,7 @@ case 'H':
 
 break;
 default:
-whC0qFbPJz = (int)floor(dicVr);
+
 break;
 }
 }

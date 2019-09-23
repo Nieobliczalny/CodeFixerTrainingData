@@ -24,7 +24,7 @@ int main(int argc, char** argv)
 
  w3Whq8_F = -2009597585;
  kD_H3 = -550473468;
- pwSJh9 = 591535037;
+
  aCN0 = -2062009996;
  j_R1K49 = 1283061624;
  bUODFB0I = 1908791250;
@@ -53,7 +53,7 @@ if (rRO215vxOg > aCN0)
 {
 if (rRO215vxOg != Bao19_4Z7)
 {
-bUODFB0I *= 1661999912;
+
 }
 else
 {
@@ -70,7 +70,7 @@ else
 
 e34Rl41 = (int)floor(w3Whq8_F);
 
-z6Zfqrwd = (long double)(e34Rl41);
+
 wq27qclvi_ = lHi25QqL();
 
 

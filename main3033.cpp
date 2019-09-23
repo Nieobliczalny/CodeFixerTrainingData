@@ -20,7 +20,7 @@ int main(int argc, char** argv) {
 	long	Bt5x3Ty7V;
 	Bt5x3Ty7V	=	-936446836;
     long double    R_G1q47;
-    R_G1q47    =    838639542;
+
 	long long	yyBV_X;
 	yyBV_X	=	480121544;
  unsigned short int n7Q49;
@@ -76,7 +76,7 @@ int main(int argc, char** argv) {
 	short	Cc5_E2yNy;
 	Cc5_E2yNy	=	1873171968;
     char    a1jR483Q4;
-    a1jR483Q4    =    239141982;
+
  char Mi6KbXyv08;
 
  float T3S_;
@@ -100,7 +100,7 @@ int main(int argc, char** argv) {
 	unsigned short	z10r9pe;
 	z10r9pe	=	640042914;
     unsigned int    K42p;
-    K42p    =    1496046088;
+
     unsigned short    HV8z;
     HV8z    =    605651144;
  unsigned long ymZu;
@@ -124,7 +124,7 @@ int main(int argc, char** argv) {
   unsigned long  ELvXNn;
   ELvXNn  =  -582287561;
 	char	y6eoL6t;
-	y6eoL6t	=	1949924627;
+
   unsigned short  FJIMi;
 
   unsigned int  O33eI6ZE0;
@@ -146,7 +146,7 @@ int main(int argc, char** argv) {
     long long    KFUQlv4j;
     KFUQlv4j    =    -1875978506;
  long hU2WTL;
- hU2WTL = -1693441432;
+
 	int	MYHN;
 	MYHN	=	1518809876;
  unsigned long long JL0AByicM;
@@ -160,7 +160,7 @@ int main(int argc, char** argv) {
 	unsigned short int	lt8v7A;
 
     unsigned int    eG7oAS;
-    eG7oAS    =    506608974;
+
  long long cUIxz;
  cUIxz = -1517490300;
 
@@ -201,7 +201,7 @@ case 'b':
 cbt9se++;
 break;
 case 'c':
-R_G1q47 = (int)floor(w_rpx_);
+
 break;
 case 'd':
 ymZu = L5HuLg8(JL0AByicM, S0aAzi);
@@ -349,7 +349,7 @@ d45qJHo = L5HuLg8(wuu5Jc0tUe, 1143660038);
 
 for (int i = 0; i < 7; i++)
 {
-U2r_W5 = (int)abs(T5gi);
+
 }
 try
 {
@@ -462,7 +462,7 @@ case 2:
 Bt5x3Ty7V = T3S_ - 1244833493;
 break;
 case 3:
-E_U4Yz = L5HuLg8(1646472590, -923780181);
+
 break;
 case 4:
 

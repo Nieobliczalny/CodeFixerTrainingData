@@ -48,7 +48,7 @@ else if (cGYxG_Z3 != Q_O3G07ZI)
 }
 else
 {
-ekaE3xlb = DWgzqEm5_ * Q_O3G07ZI;
+
 }
 }
 else if (Q_O3G07ZI == Iyj0RMOvYq)
@@ -157,7 +157,7 @@ case 1:
 
 break;
 case 2:
-Iyj0RMOvYq += 690566561;
+
 break;
 case 3:
 Q_O3G07ZI %= mqahtkZ;

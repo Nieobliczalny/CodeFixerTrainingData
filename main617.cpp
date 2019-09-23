@@ -25,7 +25,7 @@ int main(void)
  LyDxP = 1896735761;
  WbdaHB7 = -1833777414;
  nohX_n24 = 1994796942;
- vXQY = -888418665;
+
  Fu_W1u2e9 = -1303122298;
  noQEXhp4u4 = -925506691;
  rIqb = 1211424018;
@@ -206,7 +206,7 @@ int k = 2;
 do
 {
 --k;
-vXQY = WbdaHB7 % 1443447382;
+
 }
 while (k >= 0);
 }
@@ -264,7 +264,7 @@ while (i < 7);
 }
 for (int i = 5; i >= 0; i--)
 {
-u95TGN = k28rYpG9ll << 1956287016;
+
 }
 {
 int i = 0;
@@ -323,7 +323,7 @@ case 1:
 
 break;
 case 2:
-l21hFW = (int)abs(OS0R_5x);
+
 break;
 case 3:
 bRmi7m = Pu7k7ea9n - m4O0xye3;
@@ -335,7 +335,7 @@ case 5:
 
 break;
 case 6:
-nohX_n24 &= 866362784;
+
 break;
 case 7:
 JY7z9G = (nohX_n24 < Xm9HS) ? WbdaHB7 : rIqb;

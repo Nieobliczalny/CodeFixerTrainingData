@@ -35,7 +35,7 @@ int main(int argc, char** argv) {
 	unsigned long long	FF1ntfB7pA;
 
  unsigned short int kZpI_m;
- kZpI_m = -495755490;
+
 	long long	yGl2;
 	yGl2	=	1682546849;
 	long long	hkHJ;
@@ -49,7 +49,7 @@ int main(int argc, char** argv) {
 	unsigned short	l2JC4kJ1du;
 
     unsigned char    RBvd5Ai1v;
-    RBvd5Ai1v    =    0;
+
 	unsigned long	c_gWByc;
 	c_gWByc	=	0;
 	long long	SDk65rYp0;
@@ -237,7 +237,7 @@ case 2:
 
 break;
 case 3:
-bFzX0 = eQhouvrA5g - VkWG7WS;
+
 break;
 case 4:
 
@@ -249,7 +249,7 @@ case 6:
 
 break;
 default:
-R46XeI |= Vh1lD9F;
+
 break;
 }
 }
@@ -305,7 +305,7 @@ else if (On8_pA <= r_Q78)
 }
 else
 {
-FF1ntfB7pA = FA58tdPb6W << m6rMZk5L;
+
 }
 
 return 0;

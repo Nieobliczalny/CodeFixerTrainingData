@@ -104,7 +104,7 @@ PaUc67d -= 2093831270;
 
 
 
-yY5S7_71T = (int)ceil(FUVPVPGT);
+
 switch (ob_uiEf8m)
 {
 case 'a':
@@ -120,7 +120,7 @@ case 'd':
 tl86st6A /= b4n3Xf;
 break;
 case 'e':
-yY5S7_71T = ogSNO8_55N(-1102102257, 968312041, numij, -1989633819);
+
 break;
 case 'f':
 

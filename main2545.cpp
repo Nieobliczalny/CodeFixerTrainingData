@@ -355,7 +355,7 @@ case 'c':
 
 break;
 case 'd':
-Cp47C7r0X <<= 211481877;
+
 break;
 case 'e':
 GhWV ^= P23t_t;
@@ -394,7 +394,7 @@ else if (lYNtn7 <= 1363654922)
 }
 else
 {
-m7OG += 1758993798;
+
 }
 }
 else if (bO4RO > E4A4N31fa)
@@ -463,7 +463,7 @@ j--;
 int i = 10;
 while (i >= 0)
 {
-RF6bd = (unsigned long)(RdiL);
+
 --i;
 }
 }
@@ -502,7 +502,7 @@ case 'c':
 
 break;
 case 'd':
-aCs8iBf = c700DD4Wx0 % Sm__6GQG;
+
 break;
 case 'e':
 v3_713B_Ie <<= 380328817;
@@ -517,7 +517,7 @@ case 'h':
 
 break;
 case 'i':
-UEjwwVCY -= 1188249586;
+
 break;
 }
 }

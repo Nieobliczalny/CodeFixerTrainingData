@@ -399,7 +399,7 @@ case 6:
 
 break;
 case 7:
-vjbFUfS4 = (int)abs(VK_Ai0);
+
 break;
 case 8:
 dG78511d >>= GNvZ5_;
@@ -483,7 +483,7 @@ case 'b':
 
 break;
 case 'c':
-S0Wvvk_a_ = Mhho9cb5O(Eqzht024, 592655799, 1068345362, -1191957786, -2000088876);
+
 break;
 case 'd':
 BG3h7WEIf %= 341734822;

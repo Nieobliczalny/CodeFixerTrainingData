@@ -18,7 +18,7 @@ int main() {
   long long  CE7XxJ0i6;
   CE7XxJ0i6  =  -1401590793;
 	char	GYhE;
-	GYhE	=	-1653234361;
+
     unsigned int    z8sL_zcYyV;
 
  char Wo73CqU65;
@@ -279,7 +279,7 @@ else
 {
 
 }
-my44k = (int)abs(CR9zr7);
+
 for (int i = 8; i >= 0; --i)
 {
 if ((T3h8U2N7F == x96842ii) || ((E0I2S != 949644024) && (YdvS9A9R_T <= g7J6R7rH9)))
@@ -307,7 +307,7 @@ case 'E':
 ItvijbRE_ <<= 1613156286;
 break;
 default:
-GYhE = (CR9zr7) ? hR9BU0288 : uFdL(I1vq35Ix, NX9t, lN8167j8vf);
+
 break;
 }
 }
@@ -367,7 +367,7 @@ if (hR9BU0288 <= 556653281)
 }
 else
 {
-PJu_P = nfcp / LE8NeZKSx;
+
 }
 }
 else if (N6Ujrurr9 >= 1935560782)
@@ -397,7 +397,7 @@ else
 }
 else if (csu188_3C > Q4Hj)
 {
-Wo73CqU65 *= CR9zr7;
+
 }
 else if (LE8NeZKSx < 753048790)
 {
@@ -415,7 +415,7 @@ for (int k = 6; k >= 0; k--)
 }
 for (int i = 0; i < 4; ++i)
 {
-PJu_P = (int)(FzLm);
+
 }
 
 if ((xFS8cG == -2094038201) && ((xFS8cG < -354075373) && (I1vq35Ix > 599525268)))
@@ -431,7 +431,7 @@ case 1:
 
 break;
 case 2:
-nfcp = uFdL(-1078187595, 563184947, q5_Jm22pQ9);
+
 break;
 case 3:
 SRPuj3 += 1149674718;

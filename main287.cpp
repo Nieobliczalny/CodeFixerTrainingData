@@ -160,7 +160,7 @@ FKGWI7t = bd25yMtGvO + C_eFdlRK_7;
 }
 
 
-qldIr_qd4 = keD3XdVI2 / PrFbp6Ia4;
+
 
 if ((BjjQ6Jo & WUV22vYs) || ((wYMJ6X == -1294043919) && (ZbZDQi7gxf >= WUV22vYs)))
 {
@@ -311,7 +311,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-tGKm3_LK6b = wWldd >> 1532201681;
+
 break;
 case 'g':
 case 'G':
@@ -322,7 +322,7 @@ case 'H':
 
 break;
 default:
-DQDTn6pb = (int)ceil(ZbZDQi7gxf);
+
 break;
 }
 }

@@ -41,7 +41,7 @@ int main()
 	short int	q6Ich_2_w;
 	q6Ich_2_w	=	-610414630;
  long double rp5HU;
- rp5HU = 200561490;
+
  unsigned short ABkaEPme4_;
  ABkaEPme4_ = 88065731;
 	short	y2L6fVmS95;
@@ -252,7 +252,7 @@ break;
 
 
 rp5HU = (long double)(q859ra376Q);
-df_yq8g = (int)ceil(rp5HU);
+
 
 tQAOWxB %= qK_36_cw;
 std::cout << -1766615607 / M_B8(-765521704, -1724441332, 1761043374, du6k) << std::endl;

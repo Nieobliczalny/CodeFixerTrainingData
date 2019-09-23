@@ -32,7 +32,7 @@ int main() {
  unsigned short int X6160Y;
  X6160Y = -114186593;
     long long    x40cW0JP8;
-    x40cW0JP8    =    1990098509;
+
  int b49iYA3rs;
  b49iYA3rs = 1182327145;
   long long  fg_1m12;
@@ -42,7 +42,7 @@ int main() {
   char  uy_jZ9;
   uy_jZ9  =  -1257881993;
  long HSoQD_iv;
- HSoQD_iv = -1191593397;
+
     long long    Sy7OO;
     Sy7OO    =    -2017820603;
 	float	pko61;
@@ -58,7 +58,7 @@ int main() {
 	short	Ca6t2dl;
 
   float  T4U_;
-  T4U_  =  524186964;
+
   unsigned int  q_j7K4T_;
   q_j7K4T_  =  -747131084;
  long long se_0_3v9;
@@ -76,7 +76,7 @@ int main() {
   unsigned short int  M75KGX96b;
   M75KGX96b  =  -540245594;
   float  e8HP;
-  e8HP  =  -2099192986;
+
 	unsigned long	E0ar2e;
 
  short FFa_;
@@ -86,7 +86,7 @@ int main() {
     float    QI1KjTXci;
     QI1KjTXci    =    -2084822410;
 	long double	ivBQ75Am;
-	ivBQ75Am	=	453941496;
+
 	double	Y1cL1t7on;
 	Y1cL1t7on	=	490060985;
   unsigned long  N81cHn2V_;
@@ -108,7 +108,7 @@ int main() {
     unsigned long long    hI4sn6pg44;
     hI4sn6pg44    =    -822574339;
 	short int	E_JrY;
-	E_JrY	=	716794886;
+
 	long	W4IsWJJ0e;
 	W4IsWJJ0e	=	-136730610;
     unsigned short int    T6p6I7;
@@ -128,7 +128,7 @@ int main() {
   long  RQk5U16rR;
 
  long LRS4TkBZf;
- LRS4TkBZf = 595535180;
+
   unsigned char  bUP28JH;
   bUP28JH  =  -523155467;
   long long  uE1f_k4;
@@ -168,7 +168,7 @@ else if (d95dLM1p == 997639394)
 {
 if (uy_jZ9 < 971726558)
 {
-DXA103c5l = (Ga6J4420s == 1305100456) ? 1319435817 : -1207134428;
+
 }
 else if (b49iYA3rs & 38392227)
 {
@@ -269,7 +269,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-ivBQ75Am = (int)ceil(QI1KjTXci);
+
 break;
 case 'f':
 case 'F':
@@ -360,7 +360,7 @@ case 3:
 QI1KjTXci = (int)ceil(pko61);
 break;
 case 4:
-b_PStr ^= L6qXQ3Ta1N;
+
 break;
 case 5:
 M75KGX96b |= bUP28JH;
@@ -375,7 +375,7 @@ case 8:
 c8b2qg75I /= 1477755492;
 break;
 case 9:
-q_j7K4T_ = NuOJa7_5 + 1519747469;
+
 break;
 }
 }
@@ -388,7 +388,7 @@ for (int i = 0; i < 10; ++i)
 
 nY4WeaG5z = pko61 / tgF_pg;
 cout << "vNHcCP0TR" << "ph3zzx8vH1" << "VgpcvBwBD9" << endl;
-du1Vz4s = nQw02xpw << VasVl;
+
 
 OEDL4RN++;
 

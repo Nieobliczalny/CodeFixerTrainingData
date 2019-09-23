@@ -210,7 +210,7 @@ else
 
 
 
-Gein = (int)floor(z4DIzsQ);
+
 
 GaVg_ = (int)abs(aY4U_3O7);
 for (int i = 2; i >= 0; --i)
@@ -252,7 +252,7 @@ case 0:
 
 break;
 case 1:
-se9hfZ5 = xeLbnP2__T();
+
 break;
 case 2:
 

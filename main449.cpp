@@ -57,7 +57,7 @@ int main() {
     YUge    =    -494533497;
 
     v2AN5W    =    -1582272900;
-    EN4XH76    =    1510754607;
+
     B8HsxLYL    =    865805272;
     cLJVK5    =    1947762749;
     nenB    =    1263501463;
@@ -238,7 +238,7 @@ if (qpj4 >= Q0pVnw4)
 
 for (int i = 1; i >= 0; --i)
 {
-v2AN5W = (short)(wuF37);
+
 }
 return 0;
 }

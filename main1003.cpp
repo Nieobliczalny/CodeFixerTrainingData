@@ -146,7 +146,7 @@ g7w8yP454++;
 break;
 case 'g':
 case 'G':
-REqCOrzW = Vtli_(-1333952399, l_2DQ_, -1094765266, -178994769);
+
 break;
 case 'h':
 case 'H':
@@ -169,7 +169,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-fXa_7nv32R = Gyt4jES675(fXa_7nv32R, NE4T3F, -1329859038, VY2_8M);
+
 break;
 case 'c':
 case 'C':

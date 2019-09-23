@@ -79,7 +79,7 @@ case 1:
 ltl5Czb7q = qy2WR * 1107770350;
 break;
 case 2:
-qy2WR = (int)floor(ltl5Czb7q);
+
 break;
 case 3:
 ZMv7s = KxoQA14nQ();
@@ -123,7 +123,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-ZMv7s = KxoQA14nQ();
+
 break;
 case 'd':
 case 'D':
@@ -148,7 +148,7 @@ break;
 
 cout << KxoQA14nQ() << endl;
 
-ZMv7s = KxoQA14nQ();
+
 
 
 W1lT5K_6h = (int)ceil(ltl5Czb7q);

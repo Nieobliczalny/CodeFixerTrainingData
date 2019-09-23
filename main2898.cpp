@@ -20,7 +20,7 @@ int main(void) {
 	unsigned short	x_JPOfC_y6;
 	x_JPOfC_y6	=	-464061178;
   unsigned int  dh_uQNZq8I;
-  dh_uQNZq8I  =  1462006902;
+
 	long long	dB7G9c7wYG;
 	dB7G9c7wYG	=	44597427;
 	unsigned int	ABjw848;
@@ -30,7 +30,7 @@ int main(void) {
     unsigned short    FMml9l;
     FMml9l    =    1904579672;
 	unsigned long long	C27w9A;
-	C27w9A	=	-778244374;
+
 	int	tDKp;
 	tDKp	=	-9411212;
  unsigned short MS8D;
@@ -44,7 +44,7 @@ int main(void) {
 	unsigned char	cSSCu69;
 	cSSCu69	=	619510116;
     short int    aIP3;
-    aIP3    =    -1287338893;
+
   char  VAi96;
 
   float  HwsNw;
@@ -76,7 +76,7 @@ int main(void) {
   long long  Q34tVR114;
   Q34tVR114  =  0;
     short    GMygy;
-    GMygy    =    1866499506;
+
     double    TdfK1;
     TdfK1    =    988020805;
  unsigned long long k5DbAE;

@@ -469,7 +469,7 @@ jAKkPFJ42 = Ahxz761O3h(702427538, JgHeRNcOm, -1052654377, TZXH, Pc3z37X2);
 break;
 case 'b':
 case 'B':
-CBWi51GhK = (int)abs(X5_3);
+
 break;
 }
 }
@@ -701,7 +701,7 @@ case 'b':
 
 break;
 case 'c':
-efKCpVfA *= E8IetmP17;
+
 break;
 case 'd':
 BqC_gcaw_ = W4ST(hzTJHOG, -558030620, -1749398788, -1288824801, X5_3);

@@ -333,7 +333,7 @@ CdVq = pW4asS6n(sUhor58A9, CdVq, xv704U2z4, nBK51772M);
 }
 else
 {
-u1N_N12 = L99KOb(u1N_N12, sUhor58A9, r_ACYF7y, qTku_3o);
+
 }
 }
 }
@@ -366,7 +366,7 @@ case 'D':
 
 break;
 default:
-u1N_N12 = (int)abs(nBK51772M);
+
 break;
 }
 }

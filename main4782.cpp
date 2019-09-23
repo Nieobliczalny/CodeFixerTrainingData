@@ -151,7 +151,7 @@ while (i >= 0)
 switch (FTX6R7H2)
 {
 case 0:
-v9CZ3 = (int)floor(tOTR86GDb);
+
 break;
 case 1:
 V40CUQAYQ0 = LQFCOA5Xm();
@@ -349,7 +349,7 @@ std::cout << s5vQ << LQFCOA5Xm() << LQFCOA5Xm() << std::endl;
 qC6_mw3 = utuRl / V40CUQAYQ0;
 V40CUQAYQ0 = LQFCOA5Xm();
 
-c_k_ &= ab3J;
+
 for (int i = 0; i < 8; i++)
 {
 {
@@ -390,7 +390,7 @@ case 5:
 
 break;
 case 6:
-yUnF0 = (int)abs(L74gO);
+
 break;
 }
 
@@ -450,7 +450,7 @@ case 'd':
 
 break;
 case 'e':
-hq7_s_Oi = (int)abs(L74gO);
+
 break;
 case 'f':
 

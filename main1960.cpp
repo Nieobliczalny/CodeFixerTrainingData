@@ -40,7 +40,7 @@ case 1:
 
 break;
 case 2:
-CaX6YD = (Sb35OtGc2O < -1216583557) ? Ru12U6BT : 2134202019;
+
 break;
 case 3:
 l01sgJ = t2c3rXGE(l01sgJ, G5HA_4, 751427309);

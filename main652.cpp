@@ -693,7 +693,7 @@ case 'b':
 
 break;
 case 'c':
-sMUf9mPB = (int)abs(T4CPKadR);
+
 break;
 case 'd':
 oS375dN = (int)floor(oan7IbtSR3);
@@ -775,7 +775,7 @@ W1so = ho1mh68Xk1(-51390730);
 }
 else
 {
-oan7IbtSR3 = ng6B(W1so, 1891516605, 2079949653, rmWX9) / 2012754676;
+
 }
 }
 }

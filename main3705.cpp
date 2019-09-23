@@ -73,7 +73,7 @@ int main(void)
  long l3zG;
  l3zG = 424913981;
     unsigned long long    Is9O9KC;
-    Is9O9KC    =    -1942106737;
+
 	long long	u4ge7vcATa;
 	u4ge7vcATa	=	799522944;
   double  D79iE;
@@ -85,7 +85,7 @@ int main(void)
  short int jcoKB05;
 
     char    b0vtEe;
-    b0vtEe    =    -8761488;
+
     unsigned long long    d7r_8;
     d7r_8    =    617361066;
 	long long	Kx8c1;
@@ -95,7 +95,7 @@ int main(void)
   unsigned int  FeMR_G;
 
     long long    V8AR_;
-    V8AR_    =    -1830851186;
+
     short    oKZ2PNJVr;
     oKZ2PNJVr    =    -715534060;
  long double m2749u3R6;
@@ -119,7 +119,7 @@ int main(void)
   unsigned short  qe1Rf2;
 
 	short int	yG7et;
-	yG7et	=	-936156318;
+
  long A_q2lPyuoR;
  A_q2lPyuoR = 1005930260;
  unsigned long long RH07;
@@ -131,7 +131,7 @@ int main(void)
  char J9dgRG4p;
  J9dgRG4p = 476786814;
 	long double	Fgid__6dI;
-	Fgid__6dI	=	-1008818019;
+
 	float	TK_ilAQ00;
 	TK_ilAQ00	=	-407184305;
 	unsigned char	sGvM3483;
@@ -163,7 +163,7 @@ int main(void)
 	unsigned long	Ii02W7w;
 
   unsigned int  W8H155v5;
-  W8H155v5  =  615392067;
+
  unsigned long ZDT9b;
  ZDT9b = 694971811;
 	unsigned short int	OM_am92;
@@ -175,7 +175,7 @@ int main(void)
     long double    V___P22;
     V___P22    =    -722355336;
   short int  HMgaf_N;
-  HMgaf_N  =  929720924;
+
  unsigned char pHfks;
 
 	unsigned short	V3BPKsVY03;
@@ -185,7 +185,7 @@ int main(void)
   short int  WmYpL2f;
   WmYpL2f  =  1952487033;
     short    VDyL4KM45;
-    VDyL4KM45    =    1372298689;
+
     unsigned int    tZNQ5yGW1;
     tZNQ5yGW1    =    218553216;
   unsigned char  xTzy85JG;
@@ -205,7 +205,7 @@ int main(void)
   int  bd0W0j512;
   bd0W0j512  =  -1442566202;
  unsigned int eG11494;
- eG11494 = 56896795;
+
   unsigned long long  nLMuF_7;
   nLMuF_7  =  348745951;
  unsigned long long A7jDy41;
@@ -217,7 +217,7 @@ int main(void)
  long long RMC6;
  RMC6 = 1338742783;
     unsigned char    ZLwy8O_vqO;
-    ZLwy8O_vqO    =    437916652;
+
 
 {
 int i = 9;
@@ -244,7 +244,7 @@ case 2:
 Eo8QmQwH = (int)floor(duC6Is6NoM);
 break;
 case 3:
-LwUm2 = (int)floor(Eo8QmQwH);
+
 break;
 case 4:
 

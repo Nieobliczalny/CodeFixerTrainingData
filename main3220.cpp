@@ -207,7 +207,7 @@ else
 }
 else if (((w69ksYd == Ndg93) || (Eg0F5 < yZekzf)) && (tY__3412 == cCWvCN))
 {
-C80c = s39R2o919 >> hEm_2J58_;
+
 }
 else if ((Ow_v3664 <= aU69Z8pl) && (By0y4f > hEm_2J58_))
 {
@@ -250,7 +250,7 @@ else if (AeZoK_ >= cCWvCN)
 }
 else
 {
-VcZU07ch = (int)ceil(Y2Cx3vd1l);
+
 }
 }
 else
@@ -324,7 +324,7 @@ case 'B':
 
 break;
 default:
-A8Fd = (int)abs(gT1m5fai8_);
+
 break;
 }
 Rgyp = Mf34v(1581172872, H4K67D, -1573894381, 1942506812, 614178905);
@@ -337,7 +337,7 @@ for (int i = 0; i < 4; i++)
 k_Z5aV4 = yDZr6_R6 * 2145335394;
 }
 
-pD1F = k_Z5aV4 % 388229722;
+
 
 return 0;
 }

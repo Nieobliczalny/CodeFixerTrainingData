@@ -219,7 +219,7 @@ do
 {
 if ((ABSZHi < 2074398036) && ((GT853Bo3 < -1978911982) || (c__7 > -809845910)))
 {
-Oz3Vc = (int)ceil(vQ_AgZF5);
+
 }
 j++;
 }
@@ -471,7 +471,7 @@ case 'c':
 
 break;
 case 'd':
-JR_U = (int)ceil(GUX62Tl);
+
 break;
 default:
 UTjg = dR_f << hAeE232qF;

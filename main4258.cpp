@@ -34,7 +34,7 @@ int main(int argc, char** argv) {
   ZA1imr5r  =  651664852;
   Qg18V9  =  536815995;
   Rxov_2  =  68557051;
-  O6O7e2L4  =  277602905;
+
   i_eC  =  1000252796;
   duAB  =  1751673479;
   r6Cki  =  -531496889;
@@ -47,7 +47,7 @@ int main(int argc, char** argv) {
   b_a58pB  =  295890900;
 
 
-  HAYvD  =  -750992273;
+
   y8P4  =  -2032357705;
   Q2OdhmM  =  -537169316;
   KFaKE1Dq  =  1079016695;
@@ -58,7 +58,7 @@ int main(int argc, char** argv) {
   p9n2863  =  -587090373;
 
   ZB58aDQ7y  =  840480721;
-  wjal4H  =  -234195271;
+
   uip39p5  =  -1767933488;
   CDQjAIL  =  -932960252;
   OcUokXS3ho  =  551251607;
@@ -70,7 +70,7 @@ int main(int argc, char** argv) {
 
   f1do35J7i  =  1657181647;
   bXJy42r0  =  -257730015;
-  EtVw54M5  =  302767867;
+
   At76o83G9  =  -828255621;
   nh4_1ZVR_  =  1065301831;
   Q9F2  =  955316331;
@@ -81,7 +81,7 @@ int main(int argc, char** argv) {
   n69h_J  =  -1486430637;
   Q17v6u9l8  =  311068645;
   y5ij_lseX7  =  950619976;
-  lMT0rB5  =  -485568995;
+
   of0RaL8ql  =  2142514715;
   z5ZH  =  517177221;
   Nn1_8iwG  =  1782543264;
@@ -176,7 +176,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-xWHX9a9sff = (int)floor(k56ddvr04);
+
 break;
 case 'e':
 case 'E':
@@ -198,7 +198,7 @@ else
 switch (GGwJ_e)
 {
 case 'a':
-r2he = (int)floor(duAB);
+
 break;
 case 'b':
 
@@ -210,7 +210,7 @@ case 'd':
 zW0Y4N -= HWDDu2y6n;
 break;
 case 'e':
-W7uW_7ZWr = (int)ceil(x2G8);
+
 break;
 default:
 OcUokXS3ho = Dd7zfYpA2(-477966483, 1193481971);
@@ -257,7 +257,7 @@ case 2:
 
 break;
 case 3:
-n69h_J = (W3JXkigU6m < -1557858478) ? OcUokXS3ho : nruy01d(j72tSg, x2G8, y5ij_lseX7, zW0Y4N);
+
 break;
 case 4:
 b_a58pB = UeFZ40_2(-1792458675, k56ddvr04);
@@ -272,7 +272,7 @@ case 7:
 
 break;
 default:
-Uu3DyJx_ = Dd7zfYpA2(-634948842, nTt1);
+
 break;
 }
 E949_S6X8N = (int)floor(Kx_9im0PxG);
@@ -303,7 +303,7 @@ case 1:
 
 break;
 case 2:
-HAYvD = OcUokXS3ho - 1851405085;
+
 break;
 case 3:
 W3JXkigU6m = xLp7();
@@ -327,7 +327,7 @@ case 'b':
 
 break;
 case 'c':
-Rxov_2 += 1573555522;
+
 break;
 default:
 Rxov_2 *= Rxov_2;

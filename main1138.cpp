@@ -235,7 +235,7 @@ case 'c':
 HvWOur = (int)floor(G5cVkY_4q_);
 break;
 case 'd':
-Botios = yv3win15e();
+
 break;
 case 'e':
 

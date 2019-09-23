@@ -22,7 +22,7 @@ int main(int argc, char** argv)
  unsigned long hrA2GJ;
 
   float  c0fr;
-  c0fr  =  746836368;
+
 	unsigned long	BM05Rm7BA;
 
  unsigned char IwTX8Dvg0_;
@@ -46,7 +46,7 @@ int main(int argc, char** argv)
   unsigned int  Ma910;
 
   unsigned long long  n_v_R29;
-  n_v_R29  =  633188856;
+
   unsigned short int  gH1p;
 
   unsigned char  XL48e_GVa;
@@ -62,7 +62,7 @@ int main(int argc, char** argv)
  float l65D8Itv0;
  l65D8Itv0 = 205919480;
  int yat_I5;
- yat_I5 = -899273862;
+
     float    Jk3PD;
 
   char  YJy0MVX;
@@ -82,7 +82,7 @@ int main(int argc, char** argv)
 	double	A3Or;
 
 	unsigned long long	Jln_5;
-	Jln_5	=	2058277057;
+
   int  C_zYe33;
   C_zYe33  =  -1693787433;
 	long double	b58dRAEYT;
@@ -144,7 +144,7 @@ int main(int argc, char** argv)
     short    Ow6JIBXu7;
     Ow6JIBXu7    =    1986924837;
     float    F9bgCx6;
-    F9bgCx6    =    -319371188;
+
 	unsigned short int	D4sz;
 	D4sz	=	-1669663732;
   unsigned short  d2O_38;
@@ -194,7 +194,7 @@ z33L -= H_FWvzS;
 }
 else
 {
-Jln_5 = wV26a ^ 1384545949;
+
 }
 }
 else if (l65D8Itv0 > EdbkF0)
@@ -247,7 +247,7 @@ case 4:
 
 break;
 case 5:
-C_zYe33 >>= 200959904;
+
 break;
 case 6:
 
@@ -259,7 +259,7 @@ case 8:
 
 break;
 case 9:
-P688 = (int)floor(T55_65UC);
+
 break;
 default:
 

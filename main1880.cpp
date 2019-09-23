@@ -299,7 +299,7 @@ int j = 7;
 do
 {
 --j;
-lYvoOYS_W7 = (long long)(Sz9__);
+
 }
 while (j >= 0);
 }
@@ -453,7 +453,7 @@ case 'g':
 
 break;
 case 'h':
-S49B = hk4r75K();
+
 break;
 case 'i':
 

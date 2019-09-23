@@ -50,7 +50,7 @@ ny74 = ohbI * 2012180379;
 
 if (QBa_ == ny74)
 {
-V6_NZoC = (long)(U49P);
+
 }
 else if ((Sm_n2Q < U_DrL0i) || (L69eT != 161437335))
 {
@@ -119,7 +119,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-W_b2c *= B4hI;
+
 break;
 case 'd':
 case 'D':
@@ -202,7 +202,7 @@ while (k < 4);
 
 
 
-xolbrBBc5h = fJL444(xolbrBBc5h, thnT, -1162032264);
+
 
 if (RoM7cl68 < l_6f7Rum_)
 {

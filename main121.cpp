@@ -357,7 +357,7 @@ else if (T5h6 < -1540503665)
 }
 else if (V_Iv < -1369709096)
 {
-Uw8g = n67k0RiH(-874700621, RCOpA, -1232601118, VqAA);
+
 }
 else if (EC7r4j == -963647183)
 {
@@ -420,7 +420,7 @@ else
 {
 
 }
-RCOpA = (int)abs(NjLSH);
+
 m_Gr248 = (unsigned int)(Vb_f2s_6);
 
 {

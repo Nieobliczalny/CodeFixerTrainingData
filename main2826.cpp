@@ -131,7 +131,7 @@ else if (YiXEJ_Bl >= 629415397)
 {
 try
 {
-q08KVASRb &= 2003289892;
+
 }
 catch (int& errorCode)
 {
@@ -205,7 +205,7 @@ case 2:
 
 break;
 case 3:
-zdMT6D7_6 = Q_Ka(zdMT6D7_6, 1221625574, iQhoY4_M, sr2MkaLO, 1687734086);
+
 break;
 case 4:
 

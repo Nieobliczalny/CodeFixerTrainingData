@@ -38,7 +38,7 @@ case 0:
 
 break;
 case 1:
-EMEM5 = yekzn85();
+
 break;
 case 2:
 

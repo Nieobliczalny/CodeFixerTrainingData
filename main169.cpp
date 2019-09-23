@@ -305,7 +305,7 @@ R8TonPR7rU %= USIgsb7_w;
 }
 t06nM00s5 = UlcQ_7eQM | 1421390698;
 
-sE8i7 = (long long)(t06nM00s5);
+
 
 cout << USIgsb7_w << "XYpbYdb" << endl;
 {

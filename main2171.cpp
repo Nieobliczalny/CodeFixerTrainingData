@@ -70,7 +70,7 @@ case 3:
 X1xjRK7 = (int)floor(Z323AJtn);
 break;
 case 4:
-VT21 = l5S18 << 1212093388;
+
 break;
 case 5:
 fZQl6u -= p0dTTkFX;
@@ -139,7 +139,7 @@ else if (YJ2_oJcO)
 {
 try
 {
-oF2O = (int)floor(Z323AJtn);
+
 }
 catch (int& errorCode)
 {

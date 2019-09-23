@@ -201,7 +201,7 @@ if ((i4js & nJQq2) || (ww9Iv0R0K & TyjFl_4))
 {
 for (int k = 5; k >= 0; --k)
 {
-ww9Iv0R0K = (int)abs(pUD0JQ);
+
 }
 }
 }
@@ -377,7 +377,7 @@ while (i < 1);
 }
 
 jOV1W5h24++;
-pUD0JQ = (char)(nJQq2);
+
 
 dQPgYg |= aNMdIi5;
 

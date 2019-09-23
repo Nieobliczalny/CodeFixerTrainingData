@@ -406,7 +406,7 @@ m_9iTd ^= bS5_z;
 }
 
 X0Hdf7S3j_ = I8x7 / I8x7;
-S4M6 = (short)(Q2UknyRxGd);
+
 
 
 std::cout << e2Bm_ << "Kl5i3p" << BH4qlt8fI << "oh6Cw4__N" << std::endl;
@@ -503,7 +503,7 @@ case 2:
 
 break;
 case 3:
-qQ_B1bm377 = sA8BK8N_ & 547943968;
+
 break;
 case 4:
 Z0daL68OQ = (int)abs(X0Hdf7S3j_);

@@ -291,7 +291,7 @@ while (i < 9)
 int j = 0;
 do
 {
-pRUW = (int)ceil(LB7o6A9D);
+
 j++;
 }
 while (j < 2);
@@ -493,7 +493,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-d1Sg = (int)floor(A_cX);
+
 break;
 case 'd':
 case 'D':
@@ -505,7 +505,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-nH6AOG = (int)ceil(vqfBZ);
+
 break;
 case 'g':
 case 'G':

@@ -377,7 +377,7 @@ case 'f':
 
 break;
 case 'g':
-W8Zy89 |= veodmR4c3;
+
 break;
 case 'h':
 nc4_k31 = (int)floor(TTj31NuKvi);
@@ -423,7 +423,7 @@ else if (Ic_6Q69)
 {
 try
 {
-r0ffYQr7I = rQy3Lsri();
+
 }
 catch (int& errorCode)
 {
@@ -493,7 +493,7 @@ case 0:
 
 break;
 case 1:
-m_W2AL = NE1Bg >> 1167297950;
+
 break;
 case 2:
 
@@ -505,7 +505,7 @@ case 4:
 
 break;
 case 5:
-d4t4 = x3cwhUuO(d4t4);
+
 break;
 case 6:
 
@@ -523,7 +523,7 @@ break;
 
 
 
-BCPwUu0Zm = (int)abs(TTj31NuKvi);
+
 
 return 0;
 }

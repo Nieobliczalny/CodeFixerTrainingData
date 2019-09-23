@@ -279,7 +279,7 @@ case 'c':
 
 break;
 case 'd':
-xA994G = (int)abs(ImAw);
+
 break;
 default:
 k5bv7oZsX = (int)floor(iN4o);
@@ -348,7 +348,7 @@ else if (ps49Jf & iQqFdB)
 }
 else if (((No5ky7 > -835652961) && (EY_9dnx < aE8Y36Lsw)) || ((YsZ3JKL2Hz == 363165923) || (dDogQ0tmb8 == 1504967456)))
 {
-Y_V9R = (unsigned long)(TA32R);
+
 }
 else if ((Xs19zMk) && (TA32R))
 {
@@ -381,7 +381,7 @@ case 'b':
 
 break;
 case 'c':
-S6e59W = NLbaUEcjW();
+
 break;
 case 'd':
 pFZmR %= Z_xW;

@@ -34,7 +34,7 @@ int main()
 	long double	z1gB22;
 	z1gB22	=	-2041736368;
  unsigned long e6_75;
- e6_75 = -1846236952;
+
  long double Pl3_Y;
 
  short int EpjFf;
@@ -62,7 +62,7 @@ int main()
  unsigned long l1x78;
 
   unsigned short  G__CP;
-  G__CP  =  483217589;
+
 	char	fX0hn7Jnu;
 	fX0hn7Jnu	=	9086098;
   float  mazz_8N8mK;
@@ -78,7 +78,7 @@ int main()
   short int  I51hz7PZ9N;
   I51hz7PZ9N  =  450657018;
 	float	wL1N6Fk;
-	wL1N6Fk	=	518678919;
+
  char z6Ox464mV;
  z6Ox464mV = -126983365;
     int    V7q7;
@@ -108,7 +108,7 @@ int main()
 	unsigned short	R566D2;
 	R566D2	=	-401608254;
   float  v8kYB_9;
-  v8kYB_9  =  -263174720;
+
   char  Auk32xe;
   Auk32xe  =  -312530258;
   double  Rb7f7iAV6N;
@@ -134,7 +134,7 @@ int main()
     unsigned int    EF48qT2;
 
   unsigned short int  a2oIX0XO;
-  a2oIX0XO  =  -1203228035;
+
   short int  hdVi2S;
   hdVi2S  =  353319610;
  char J44fi57uAl;
@@ -162,7 +162,7 @@ int main()
 	float	XE2J;
 	XE2J	=	-1114137262;
 
-kY_yuUm2v = wVM7_ >> uf23IqU8_6;
+
 switch (Auk32xe)
 {
 case 0:

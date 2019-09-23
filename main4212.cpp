@@ -127,7 +127,7 @@ if ((tbXtec9X0 != M73YWo2) || (rUT67C & u8G15OD9A3))
 
 }
 
-GX9o8VB = (int)abs(d_W9jWj2z);
+
 tbXtec9X0 = TSL_jFyEd / j8Rh;
 for (int i = 9; i >= 0; --i)
 {

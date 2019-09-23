@@ -97,7 +97,7 @@ case 3:
 
 break;
 case 4:
-Hh2gF_YIP = MkTM8A90SS * 2073621869;
+
 break;
 }
 }
@@ -168,7 +168,7 @@ case 2:
 
 break;
 case 3:
-Hh2gF_YIP = Xuw1gv * MkTM8A90SS;
+
 break;
 case 4:
 zC79sJtb8 *= nK9c6vE;
@@ -217,7 +217,7 @@ if (HR5wx73a1 & BOjwI4)
 {
 if (HR5wx73a1 == 994599617)
 {
-Hh2gF_YIP = zC79sJtb8 / 1373317038;
+
 }
 }
 else if (BOjwI4 != 2117513671)

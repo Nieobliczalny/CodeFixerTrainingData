@@ -121,7 +121,7 @@ case 4:
 
 break;
 case 5:
-TqGAvSFcrW = (c6NO > 1204192563) ? -1308564172 : i90e3C;
+
 break;
 case 6:
 cw_H = otHn67A % 1984263029;
@@ -272,7 +272,7 @@ case 1:
 
 break;
 case 2:
-L4XQVd86D <<= 739400206;
+
 break;
 case 3:
 c70GR8Y++;

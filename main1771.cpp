@@ -592,7 +592,7 @@ case 'c':
 
 break;
 case 'd':
-WVYCS6rh -= 1073199467;
+
 break;
 case 'e':
 rEWX2R1tZ_ = (int)abs(Umi0wm);
@@ -604,7 +604,7 @@ case 'g':
 
 break;
 case 'h':
-juNZ5pxe0 ^= 388280379;
+
 break;
 case 'i':
 CytRp2B = tF2T % Q679bP;
@@ -658,7 +658,7 @@ else
 
 std::cout << KkH7() << KkH7() << std::endl;
 
-eVQ1_L6 *= CytRp2B;
+
 
 return 0;
 }

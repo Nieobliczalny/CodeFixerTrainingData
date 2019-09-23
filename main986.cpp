@@ -141,7 +141,7 @@ case 'J':
 
 break;
 default:
-jnfJ3pi = B38oz15n();
+
 break;
 }
 
@@ -168,7 +168,7 @@ case 'f':
 
 break;
 case 'g':
-WwdM = IM5pt(zGddElC3, GlI7jCeQo);
+
 break;
 case 'h':
 
@@ -180,7 +180,7 @@ case 'j':
 
 break;
 default:
-oQ451 = tB3Fd(oQ451, 1859773331, YqGLr6oj, -2106650220, N23zQO0m);
+
 break;
 }
 }
@@ -240,7 +240,7 @@ case 'e':
 
 break;
 case 'f':
-d7_Qc7x = B38oz15n();
+
 break;
 case 'g':
 pPS6Nl9318 |= 6436688;

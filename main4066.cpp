@@ -67,7 +67,7 @@ int main(int argc, char** argv)
   M6t8Tbp  =  -1638429876;
   Rub544Qy  =  -1674798526;
   B5Z55  =  776398050;
-  Nv8P6M50CO  =  -1910655500;
+
   my1UYig  =  -1769421661;
 
   Aexm5  =  -2081157105;
@@ -262,7 +262,7 @@ case 'i':
 
 break;
 default:
-PpbJaWuxsg = jq3G854sc(PpbJaWuxsg, -555629754);
+
 break;
 }
 
@@ -274,7 +274,7 @@ for (int i = 7; i >= 0; --i)
 de8L7vi01 = (char)(KVjR);
 }
 
-J8kclz = q4kNycW4F(J8kclz);
+
 
 MAu6B49CQb = (E9TL8DW > azgA) ? E9TL8DW : -698601525;
 
@@ -335,7 +335,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-x4UDMVfE48 = jq3G854sc(sq86rU5, -1927026554) + 214008992;
+
 break;
 case 'e':
 case 'E':

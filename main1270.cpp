@@ -69,7 +69,7 @@ case 4:
 
 break;
 case 5:
-B5X8t_2 = LPK3BEf % qWY_;
+
 break;
 case 6:
 
@@ -199,7 +199,7 @@ case 'a':
 
 break;
 case 'b':
-h9Z6i31 -= 1820556069;
+
 break;
 default:
 e2fZS9cj = iN8s(e2fZS9cj, 245314219);

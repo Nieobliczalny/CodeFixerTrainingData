@@ -37,7 +37,7 @@ case 'c':
 
 break;
 case 'd':
-hD942xc0 = GFlK8();
+
 break;
 case 'e':
 
@@ -79,7 +79,7 @@ case 5:
 yC11VLLKV *= v0g4vCx;
 break;
 case 6:
-VUmj_nt44 = huG1bIn9aj + YqE1B4_;
+
 break;
 case 7:
 u2Y0 ^= NFTj643;
@@ -109,7 +109,7 @@ else
 while (i < 8);
 }
 
-l6Vj43TJs = (unsigned char)(P_0BLzoD84);
+
 std::cout << RwXMV(P_0BLzoD84) << "yLp4xw_WG" << "fZqMrPb63" << RwXMV(P_0BLzoD84) << s8dU278I << std::endl;
 
 std::cout << RwXMV(1689790601) << std::endl;
@@ -134,7 +134,7 @@ std::cout << jwqo8HpPl5 << GFlK8() << GFlK8() << m8hf_1C0cn << RwXMV(-2114433220
 
 
 
-gcR8_KS = GFlK8();
+
 w6B899mPf = f4e3b46 * 514542696;
 
 m8hf_1C0cn ^= 2017440089;

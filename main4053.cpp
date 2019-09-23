@@ -125,7 +125,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-WTI2g65A *= 1349281347;
+
 break;
 case 'd':
 case 'D':
@@ -137,7 +137,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-GNTLv = emYhgG4t(GNTLv, 1375349423);
+
 break;
 case 'g':
 case 'G':
@@ -149,7 +149,7 @@ case 'H':
 break;
 case 'i':
 case 'I':
-nln_jELGc8 = UfPEYeQ7L(Hz26V);
+
 break;
 }
 
@@ -165,7 +165,7 @@ OK1JhH_52 = B0z04KQ(OK1JhH_52);
 
 
 
-Sk0x70zF = jxX_71cJPN >> fm08FadIm;
+
 
 return 0;
 }

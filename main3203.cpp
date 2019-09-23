@@ -28,7 +28,7 @@ int main(void) {
 
 try
 {
-i6BMO = (int)abs(G6MdWP_B);
+
 }
 catch (int& errorCode)
 {
@@ -44,7 +44,7 @@ do
 {
 try
 {
-G6MdWP_B = DAV1_(K1hj1x8VJ, 280434898);
+
 }
 catch (int& errorCode)
 {

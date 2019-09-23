@@ -44,7 +44,7 @@ int main(int argc, char** argv) {
 
 if ((YR51W3K_ / y2C8y2j) <= 85746742)
 {
-gd2We9 = 924679936 / rM2oIl;
+
 }
 smCf = YVp69CJ292(-1682029102, DgFQYJC8W, kZ8cu_5tG);
 
@@ -54,7 +54,7 @@ cout << YR51W3K_ << W9Lay3(-1053883888, DgFQYJC8W, 2074348894, 1527724335, ZrO_H
 }
 for (int i = 0; i < 2; i++)
 {
-ZrO_H = (double)(ZsI_);
+
 }
 return 0;
 }

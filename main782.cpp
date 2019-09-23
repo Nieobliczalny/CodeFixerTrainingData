@@ -22,7 +22,7 @@ int main() {
     unsigned int    b4sDpIglg2;
 
   int  UD47E;
-  UD47E  =  -1596994111;
+
   unsigned long  RF3A32;
   RF3A32  =  0;
 	short	W3a2Mm;
@@ -38,7 +38,7 @@ int main() {
 	unsigned int	R1xV1G_9;
 
  long long Wv1Wf;
- Wv1Wf = 1460759675;
+
     long double    k_evLiRNf2;
     k_evLiRNf2    =    761494552;
 	short	zrhf;
@@ -60,7 +60,7 @@ int main() {
 	long double	I23I;
 	I23I	=	-1289706741;
  unsigned short int qs35_Uf2;
- qs35_Uf2 = 872712306;
+
     long    D98tB1;
 
  long qgxFqK4;
@@ -249,7 +249,7 @@ else
 int k = 0;
 while (k < 6)
 {
-hsC3w3V4L = W3a2Mm - 1357661631;
+
 ++k;
 }
 }
@@ -337,7 +337,7 @@ case 'c':
 
 break;
 case 'd':
-un0z -= 2047924963;
+
 break;
 case 'e':
 
@@ -404,7 +404,7 @@ else
 
 }
 
-NsH1d1tN73 = (int)ceil(R75Y07q_);
+
 
 return 0;
 }

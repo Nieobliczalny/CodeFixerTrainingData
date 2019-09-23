@@ -151,7 +151,7 @@ if ((QlU_N / CPo1Fo(gt5jIc97Yb, z4L249A8S, -455812671, -199350351, -719943195)) 
 {
 O27uU = 562337965 / se024G6QQj;
 }
-i7gx = (char)(P77bGP7LN);
+
 
 if (AC858Vfx4 > nqML)
 {
@@ -178,7 +178,7 @@ while (i < 1);
 
 try
 {
-Kzw4b7Ow6 = K5n6Fx07();
+
 }
 catch (int& errorCode)
 {

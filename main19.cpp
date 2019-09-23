@@ -62,7 +62,7 @@ int main(void) {
   double  n8XwRO6C0;
 
     unsigned int    i0r7;
-    i0r7    =    1092487250;
+
   float  M0wYr8U;
   M0wYr8U  =  796528744;
   long double  l_YzgDj;
@@ -100,7 +100,7 @@ int main(void) {
     float    p54I;
 
   unsigned char  gM0O;
-  gM0O  =  -1040828657;
+
 	unsigned int	N5eJELK;
 	N5eJELK	=	626949694;
     unsigned char    VPw7_G5lC;
@@ -110,7 +110,7 @@ int main(void) {
     unsigned int    X8K8OX;
 
  char k4O92;
- k4O92 = 2138364460;
+
 
 X8K8OX = Tk6R5C5m54 / JW9N9cAM9;
 
@@ -210,7 +210,7 @@ while (k < 5);
 while (i >= 0);
 }
 
-VPw7_G5lC = m9UPDpYFrU & 531854548;
+
 
 try
 {
@@ -322,7 +322,7 @@ while (j < 6);
 }
 else if ((W6oXa4sq == -2034683794) || (USg2 > Tk6R5C5m54))
 {
-xP1PXX &= 1238641744;
+
 }
 else
 {
@@ -342,7 +342,7 @@ case 2:
 j1_RKIgf = nf_5 / l_YzgDj;
 break;
 default:
-wb_ct = k_U0f_B_i5 % HIN5;
+
 break;
 }
 j--;
@@ -372,7 +372,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-Ut4a /= 743145311;
+
 break;
 case 'd':
 case 'D':
@@ -408,7 +408,7 @@ break;
 }
 }
 
-N5eJELK *= 1836018479;
+
 
 try
 {

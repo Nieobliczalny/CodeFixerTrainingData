@@ -217,7 +217,7 @@ case 'd':
 
 break;
 case 'e':
-D7nTvc_U = (int)abs(Eq3xSM);
+
 break;
 case 'f':
 qPp7Q *= V7V6593;
@@ -229,7 +229,7 @@ case 'h':
 
 break;
 case 'i':
-cHA86D = GK0_ << tkAtn;
+
 break;
 }
 if (uPc_l & LEl3goS)

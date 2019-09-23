@@ -30,7 +30,7 @@ int main(void) {
  c3OS9oir = 1119618302;
  SEvrt = -1895393450;
  Nhlp = -673131228;
- f2u7u1T7 = 663387104;
+
 
  vS7_28H6 = -1013899422;
  h8Oh = -1243346859;
@@ -44,7 +44,7 @@ int main(void) {
  S0zhr = -736926106;
 
  SJg6b9 = 1103883500;
- r0i82y = -198724688;
+
 
  iwC8ZVDWRE = 1967685823;
  Ury_W2 = 289958302;
@@ -63,7 +63,7 @@ int main(void) {
  HP16O9N = 1165571455;
  C45c22hm = -779156448;
  lnRB = 1066503363;
- vTGVIY = 325113038;
+
  g6M_23Go7Q = -544072942;
  W98R6C9X3 = -1696286817;
  w268SVh = 351055304;
@@ -73,7 +73,7 @@ int main(void) {
  iN0i3_ = -595866788;
  J7_k_0QQU4 = -1375652546;
 
- v0rAuAx94 = 1017713024;
+
  SyBs = -309410471;
  No1gq178pq = -2910015;
  em0C90bMcq = -1545888939;
@@ -145,7 +145,7 @@ case 'd':
 
 break;
 case 'e':
-W98R6C9X3 = Lf93(W98R6C9X3, C2UDJ, IASXk, -1340177992);
+
 break;
 case 'f':
 xf38 = KIyr8Qkp(1690497737, -633913834, g6M_23Go7Q, iwC8ZVDWRE);
@@ -226,7 +226,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-USW8H6sX5l = P8eC7(-808396417, q0Dy2Eek, -671871006, 432988898);
+
 break;
 case 'c':
 case 'C':
@@ -275,7 +275,7 @@ while (i < 2);
 int i = 9;
 do
 {
-y3hYx = (unsigned short int)(VTMyFbr5Ca);
+
 i--;
 }
 while (i >= 0);
@@ -296,7 +296,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-xf38 = KIyr8Qkp(29306555, SJg6b9, -88727875, c3OS9oir);
+
 break;
 case 'e':
 case 'E':
@@ -308,7 +308,7 @@ case 'F':
 break;
 case 'g':
 case 'G':
-JGHfp82H = ia849lh(-1665722289, 1863362190, SEvrt, Nhlp);
+
 break;
 case 'h':
 case 'H':

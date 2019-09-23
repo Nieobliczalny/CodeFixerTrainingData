@@ -42,7 +42,7 @@ int main(int argc, char** argv)
  IISn = 1087878541;
  wI_s = 1622620764;
  Ok3H0_l = 1216056606;
- c5p6IDX6Z = 1334474525;
+
  H0F5Y_a = -1936111779;
  V_qCyFG = 1259181561;
  H_5S4cs8O = 384698007;
@@ -53,7 +53,7 @@ int main(int argc, char** argv)
  Mh_5ZZZt = 1417276502;
  CiyuLc8 = 1900075420;
  VVA_m72n6 = -151141544;
- JMXGlfm = -1438762971;
+
 
  vr6fD_JA7 = 2089059035;
  EjV4fQ = 363445277;
@@ -307,7 +307,7 @@ try
 int k = 5;
 while (k >= 0)
 {
-JMXGlfm = (int)floor(B56v74pAsb);
+
 --k;
 }
 }

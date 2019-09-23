@@ -17,7 +17,7 @@ using std::floor;
 int main(void)
 {
  float aQ5jR8_Bt;
- aQ5jR8_Bt = 1619554286;
+
 	long	o7C0i;
 
  long double OJL8P6VxO1;
@@ -27,7 +27,7 @@ int main(void)
   char  k6evXozQj;
   k6evXozQj  =  -732533716;
   int  m07Az50zD3;
-  m07Az50zD3  =  1787127177;
+
  unsigned long long V6091Jbq1s;
 
     double    pQpEtzak_z;
@@ -37,7 +37,7 @@ int main(void)
 	short int	lO1_6td__s;
 	lO1_6td__s	=	673906719;
 	unsigned short	Z_Cq8u4R;
-	Z_Cq8u4R	=	55258765;
+
   short  JhyP4EZPfz;
   JhyP4EZPfz  =  422590088;
  unsigned short int bvAb;
@@ -47,7 +47,7 @@ int main(void)
 	unsigned short	FyDU61;
 
   unsigned char  vo4UQI;
-  vo4UQI  =  -17060560;
+
  short l240;
  l240 = 1274550786;
   unsigned char  kK94;
@@ -59,7 +59,7 @@ int main(void)
  char dWi4DW34;
  dWi4DW34 = -468470888;
   short  Algv;
-  Algv  =  1956936044;
+
  unsigned long r2H5GSOB;
 
 	unsigned int	ExP1;
@@ -73,7 +73,7 @@ int main(void)
 	float	ldKN02W;
 
 	unsigned long	o3k0B7ox4;
-	o3k0B7ox4	=	-1127540155;
+
   unsigned long  at5UR;
 
 	long	UZjoar;
@@ -89,7 +89,7 @@ int main(void)
     unsigned short int    KX6XmCvx;
 
 	short	DcRVl5bcI2;
-	DcRVl5bcI2	=	439962049;
+
  unsigned char V0kzaBI;
  V0kzaBI = 202542538;
   short int  S4Y_LN3XVh;
@@ -99,7 +99,7 @@ int main(void)
   int  dqYHiU1D47;
 
 	double	Sq86W91i;
-	Sq86W91i	=	1623649573;
+
     double    TnM_0;
     TnM_0    =    407804226;
 	unsigned int	jPZi;
@@ -113,7 +113,7 @@ int main(void)
 	long	SR86_;
 
  char H_sXriTJrN;
- H_sXriTJrN = 1036148597;
+
     long    f2jpZ2;
 
 	unsigned short	M0fsJy;
@@ -123,7 +123,7 @@ int main(void)
     float    rxp1;
 
     float    pZF3;
-    pZF3    =    1854324562;
+
     long long    uwW3_;
 
  int mW07_z;
@@ -137,7 +137,7 @@ int main(void)
   unsigned int  tuiwtE0;
 
     short int    aLzeA_ZSOn;
-    aLzeA_ZSOn    =    0;
+
     short    zA2qYG9za7;
     zA2qYG9za7    =    -61036124;
     short int    Q17wX2;
@@ -147,7 +147,7 @@ int main(void)
   unsigned short int  ex8_DVT8wE;
 
   long double  ld9D1;
-  ld9D1  =  -1217038789;
+
   unsigned short int  sBj8SL1e;
   sBj8SL1e  =  1645674221;
  unsigned long long Ei67;
@@ -159,7 +159,7 @@ int main(void)
     unsigned int    cE3334;
     cE3334    =    1634870336;
     unsigned short    TGmKb8PJ;
-    TGmKb8PJ    =    521996257;
+
   short int  ISjVc;
 
   long double  L6E_CRaiiG;
@@ -173,7 +173,7 @@ int main(void)
  unsigned char D_55;
 
     unsigned short int    OXt1H7XTL;
-    OXt1H7XTL    =    -743751152;
+
  unsigned long long RRjiJ1;
  RRjiJ1 = 549353722;
     unsigned short    Rds30G67;
@@ -183,7 +183,7 @@ int main(void)
   short int  CzbxpW;
 
  short int Y2_5qSYm6;
- Y2_5qSYm6 = 49942199;
+
     double    olVHOZc8;
     olVHOZc8    =    -1976323506;
     long double    CDY9Xbl;
@@ -195,7 +195,7 @@ int main(void)
 	long long	QEDax8;
 
  char Nh_8P;
- Nh_8P = -1285009496;
+
  unsigned long long Yo8B56zT0;
  Yo8B56zT0 = -836220551;
  unsigned int B0m3ubI;
@@ -209,7 +209,7 @@ int main(void)
 	long long	JVDWG8Tnrs;
 
     unsigned short    S_k227i;
-    S_k227i    =    -2111708841;
+
 	long long	J297L;
 
  short int InAr;
@@ -219,7 +219,7 @@ int main(void)
  short KWpG;
 
  unsigned short RDBj2P656R;
- RDBj2P656R = -449876209;
+
  int b3Cn7j;
 
 
@@ -309,7 +309,7 @@ case 'b':
 
 break;
 case 'c':
-olVHOZc8 *= CDY9Xbl;
+
 break;
 case 'd':
 qtLtvh = (int)floor(BO0f__r);
@@ -327,7 +327,7 @@ case 'h':
 
 break;
 case 'i':
-V0kzaBI >>= Z4k3c4B;
+
 break;
 }
 
@@ -341,7 +341,7 @@ else
 }
 try
 {
-z18T4OS &= 2036001523;
+
 }
 catch (int& errorCode)
 {

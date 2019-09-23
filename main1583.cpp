@@ -66,7 +66,7 @@ case 1:
 
 break;
 case 2:
-neF11 >>= b48V__D6;
+
 break;
 case 3:
 gwn6a = v1u2As281c();
@@ -225,7 +225,7 @@ else
 int j = 0;
 while (j < 4)
 {
-Z__nI1V = (unsigned long long)(A0njp4FTg7);
+
 j++;
 }
 }

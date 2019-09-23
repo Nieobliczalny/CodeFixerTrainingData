@@ -626,7 +626,7 @@ p3D05G9I--;
 }
 
 
-WuBL_ = (unsigned short)(zNf0);
+
 T9xJo8E2 = (int)ceil(Y_Rl6);
 
 return 0;

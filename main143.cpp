@@ -44,7 +44,7 @@ int main(int argc, char** argv) {
 	unsigned int	bg3H3;
 	bg3H3	=	1519608739;
     unsigned int    YMzi;
-    YMzi    =    -598141842;
+
     unsigned int    vsHjuY31A9;
 
   char  mkn6l;
@@ -92,7 +92,7 @@ int main(int argc, char** argv) {
 	long long	Pca_bbL;
 	Pca_bbL	=	818429569;
   long long  TdwkjMAT;
-  TdwkjMAT  =  284947608;
+
  short g_BQ8kxm8;
 
  long long QzVpuR;
@@ -146,7 +146,7 @@ int main(int argc, char** argv) {
     unsigned int    nA_lw287P;
 
  double FQ7_;
- FQ7_ = -511283918;
+
 	long double	dP_H;
 	dP_H	=	1513447149;
  double l5Cb_0d5;
@@ -156,7 +156,7 @@ int main(int argc, char** argv) {
     unsigned short int    mK6Jjw_;
 
 	double	vHb_;
-	vHb_	=	1045789406;
+
  unsigned long bt66o6B;
  bt66o6B = -919842473;
 	unsigned int	WV_N;
@@ -174,7 +174,7 @@ int main(int argc, char** argv) {
 	long	n1JkId1;
 	n1JkId1	=	-1711957806;
  long hMR7WW;
- hMR7WW = 1667049106;
+
     long    VpBgI3Z_2;
 
 
@@ -297,7 +297,7 @@ int k = 0;
 while (k < 1)
 {
 ++k;
-hMR7WW = f2gafcn << gzgoH;
+
 }
 }
 }
@@ -494,7 +494,7 @@ case 'b':
 
 break;
 case 'c':
-ikW8D36k += 590127897;
+
 break;
 case 'd':
 YP2USu7gGf = (int)ceil(d3n_);
@@ -509,7 +509,7 @@ case 'g':
 
 break;
 case 'h':
-wuBS9 = TX9w16fa(358313787, K74dItWA6);
+
 break;
 case 'i':
 d3n_ = NvTl();
@@ -538,7 +538,7 @@ case 1:
 
 break;
 case 2:
-AFsJ = NvTl();
+
 break;
 case 3:
 w6i8w4z %= 1762502779;
@@ -574,7 +574,7 @@ case 5:
 
 break;
 case 6:
-qOkh5k_04_ = (int)ceil(zYFm);
+
 break;
 }
 }

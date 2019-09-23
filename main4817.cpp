@@ -52,7 +52,7 @@ case 2:
 R6smc = ONQr(2119924100, KB68);
 break;
 case 3:
-SHUCebPaBs = ONQr(R6smc, KB68) / wXgmCUot;
+
 break;
 case 4:
 R0919t_ = H44U27();

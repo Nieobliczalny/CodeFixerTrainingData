@@ -309,7 +309,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-s65z09 = (int)abs(ZdqM08B);
+
 break;
 case 'd':
 case 'D':

@@ -232,7 +232,7 @@ XW_ZIHY3_g = (int)abs(wrX_1JnBM9);
 }
 else if (m5sD2Sc9U4 != Nvd__)
 {
-WGZYLqY = WGZYLqY + 1485628298;
+
 }
 else if (Qh39X2xO > Nvd__)
 {
@@ -455,7 +455,7 @@ try
 switch (Jf_ap)
 {
 case 0:
-F1S0L <<= Qh39X2xO;
+
 break;
 case 1:
 wrX_1JnBM9 = Wk7u_2f(wrX_1JnBM9, 596059084, 51897228, D3w0cU, -100342718);

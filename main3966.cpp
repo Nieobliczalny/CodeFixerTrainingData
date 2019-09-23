@@ -25,7 +25,7 @@ int main(int argc, char** argv)
     char    xsXH8t7TA;
 
     long long    CkC6Z;
-    CkC6Z    =    289912972;
+
 	unsigned char	X7P2c_Wc;
 	X7P2c_Wc	=	957177029;
 	long	tT4J0M2v3;
@@ -43,7 +43,7 @@ int main(int argc, char** argv)
 	unsigned long	T_4v72a1;
 
   unsigned int  K3Nnj85d;
-  K3Nnj85d  =  705682182;
+
 	unsigned short	NeR0;
 
  long double P7TIp50zF;
@@ -57,7 +57,7 @@ int main(int argc, char** argv)
 	unsigned char	B9D4za;
 	B9D4za	=	-2112657010;
   unsigned long  WDSJR;
-  WDSJR  =  1857266386;
+
 	unsigned long	Y141uy;
 
     unsigned int    ht96f;
@@ -120,7 +120,7 @@ case 1:
 
 break;
 case 2:
-dRJGS = NU_Nr09EFQ(-1787110523, -1713763777, w22XbtAhD, W_5a2305k) >> PBF4Ljp6Kq;
+
 break;
 case 3:
 xsXH8t7TA = NU_Nr09EFQ(1187008841, Dx9CP5d0dE, -1061530355, -1111457745);
@@ -135,7 +135,7 @@ else
 {
 try
 {
-Uu5LV2CEM9 = (unsigned short int)(cedCZFv124);
+
 }
 catch (int& errorCode)
 {

@@ -187,7 +187,7 @@ if (H6hix3 == -847588251)
 {
 if ((j6mxO5 != -1463289079) || (sW4Gwht < 1732700832))
 {
-T624rN %= 1330080138;
+
 }
 }
 else if (rFqLkV7By & -1422342793)
@@ -310,7 +310,7 @@ case 3:
 
 break;
 case 4:
-GssM = (int)abs(yk8v9JME);
+
 break;
 case 5:
 Ou6f5T8d *= 1476717604;

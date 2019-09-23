@@ -28,7 +28,7 @@ int main() {
     unsigned long long    XNV015;
 
 	unsigned long long	aN3o3W;
-	aN3o3W	=	-305887452;
+
  float qCa7;
  qCa7 = -2145342671;
   unsigned long long  RlpI;
@@ -42,7 +42,7 @@ int main() {
  float N73ZBvg4u;
 
 	unsigned short int	S2_sTG;
-	S2_sTG	=	-1172838202;
+
   unsigned short  xBjZz2V2M;
   xBjZz2V2M  =  1197985495;
     int    dTXG;
@@ -94,7 +94,7 @@ int main() {
 	unsigned short int	Ooh0x;
 
   short int  X5i4OGFTwB;
-  X5i4OGFTwB  =  -500169137;
+
 	short int	Oc33jd;
 	Oc33jd	=	1854378661;
   long  I_72i_4Eks;
@@ -106,7 +106,7 @@ int main() {
  long double Pv55Cg;
  Pv55Cg = -1309741731;
  long long W1Qi;
- W1Qi = -240745018;
+
   long double  b0lzgleNN;
   b0lzgleNN  =  1686070366;
  unsigned long long MFDaRi;
@@ -118,7 +118,7 @@ int main() {
   float  hHmeE2;
 
 	int	pBFyqsBSTj;
-	pBFyqsBSTj	=	828142931;
+
  short JgOBP;
  JgOBP = 413903936;
  char M102oy5lBQ;
@@ -130,7 +130,7 @@ int main() {
   long double  O2oPR;
 
  float V_r7a7;
- V_r7a7 = -344280747;
+
   unsigned char  Hya7Pm7;
   Hya7Pm7  =  1768131023;
  unsigned char qul_1;
@@ -180,7 +180,7 @@ if (O57jUP4xj & 114485146)
 switch (M102oy5lBQ)
 {
 case 'a':
-V_r7a7 = (int)floor(xZ_B7);
+
 break;
 case 'b':
 
@@ -291,7 +291,7 @@ default:
 break;
 }
 }
-OE57oR53 *= wfz7Wck;
+
 
 X5i4OGFTwB = x787f / j9_lZuR1q2;
 try

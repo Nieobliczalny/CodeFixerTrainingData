@@ -56,7 +56,7 @@ else
 switch (cU98C1)
 {
 case 0:
-qbl_1u = uk8671s8(qbl_1u);
+
 break;
 case 1:
 d0f06 = V96y(-872842853, 112611865, wp0r6ty);
@@ -99,7 +99,7 @@ case 2:
 oYl2h64 = V96y(qJPKm14R, F4xF, ktKxn);
 break;
 case 3:
-S9AA3O0G >>= J2bkvzUd72;
+
 break;
 case 4:
 
@@ -192,7 +192,7 @@ ii84GEq = (N3vbl_1u2_ & 397496843) ? uk8671s8(142666968) : Z0fF01ypi1;
 
 if ((Y0_3n33 >= -1647886892) && ((ziLy5q) || (jrdaScm4_ <= poqRT)))
 {
-F4xF ^= Z0fF01ypi1;
+
 }
 else
 {

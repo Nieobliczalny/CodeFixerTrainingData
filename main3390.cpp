@@ -45,7 +45,7 @@ int main(void)
     int    DL_HmiL;
     DL_HmiL    =    875906847;
 	short	TVy_Q_4;
-	TVy_Q_4	=	83664472;
+
   unsigned short int  EN8tZ2Y04g;
   EN8tZ2Y04g  =  -688646312;
 	long	kYkbj;
@@ -247,7 +247,7 @@ default:
 break;
 }
 
-NW7BlgJ = (unsigned int)(G1y2);
+
 
 if (rog1eg86m < nmQ7s)
 {
@@ -352,7 +352,7 @@ while (k < 7)
 }
 else
 {
-w_bEVG8L = a92j(w_bEVG8L, DL_HmiL, -2122263373, l_C7Ebv5g, SX66Cr);
+
 }
 }
 else
@@ -365,7 +365,7 @@ else
 int i = 2;
 do
 {
-OG0zf6GjV = (int)ceil(nmQ7s);
+
 --i;
 }
 while (i >= 0);

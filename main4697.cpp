@@ -72,7 +72,7 @@ else
 {
 for (int k = 0; k < 10; ++k)
 {
-q1896l29 = (int)abs(XV03);
+
 }
 }
 }
@@ -91,7 +91,7 @@ else if (W186dc & mEH6Jb0)
 }
 else if (W186dc & -654393324)
 {
-W186dc = cJJb7_7U7c(-2084427053, 1274458910);
+
 }
 else
 {

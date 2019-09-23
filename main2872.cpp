@@ -245,7 +245,7 @@ case 'b':
 
 break;
 case 'c':
-v5P3M = K5J8Fe9L31(ucjH9W5WX6, -312445695, zW4l_B9, v5P3M) / dwz8RQ5;
+
 break;
 case 'd':
 OXrpe = viCSZ_Gz();
@@ -260,7 +260,7 @@ case 'g':
 
 break;
 case 'h':
-hahRH_NmH1 <<= dwz8RQ5;
+
 break;
 case 'i':
 ucjH9W5WX6 /= 270393639;

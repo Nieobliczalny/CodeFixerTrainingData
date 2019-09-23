@@ -158,7 +158,7 @@ case 0:
 
 break;
 default:
-X9JA = (int)ceil(vc0_Kai_);
+
 break;
 }
 

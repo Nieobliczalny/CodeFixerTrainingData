@@ -136,7 +136,7 @@ SB9f98cHj = (s_dQoR0 <= 488702274) ? wem5 : 1872244172;
 }
 if (DZTvWq4 == 0)
 {
-	P_49xB1 = gtD4 / DZTvWq4;
+
 }
 if (y0P2WH & aC300qZ)
 {
@@ -166,7 +166,7 @@ else if ((XZvkpkh719 == jtlk4) || (jtlk4 >= b9R__Q))
 {
 if (u_yNT3k >= 1063840795)
 {
-QOO2 = (pAsusRO == qE51BB5q) ? y0P2WH : 638821838;
+
 }
 }
 else if (dDHsnvpbS_ >= fQ386nqW96)

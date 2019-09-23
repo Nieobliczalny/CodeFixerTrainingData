@@ -329,7 +329,7 @@ case 1:
 
 break;
 case 2:
-SUtmtc87S6 %= 437188131;
+
 break;
 case 3:
 r0UUex3X4 = aWvVz3dHP(r0UUex3X4, UgoC097PL, 791748409);
@@ -341,7 +341,7 @@ case 5:
 
 break;
 case 6:
-KxGj3 = vDcU();
+
 break;
 case 7:
 F_zUnw = KM3x();

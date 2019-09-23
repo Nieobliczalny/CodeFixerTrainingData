@@ -323,7 +323,7 @@ case 0:
 
 break;
 case 1:
-MfzYtsNnfw = IczK4f(1726230420);
+
 break;
 case 2:
 
@@ -335,7 +335,7 @@ case 4:
 
 break;
 case 5:
-Gj5O_BXXsQ = (int)abs(h38HiN_kV1);
+
 break;
 case 6:
 
@@ -384,7 +384,7 @@ else if (uGGCF < 117105939)
 }
 else
 {
-oNB5Y0U_ = (double)(YzHHr);
+
 }
 }
 

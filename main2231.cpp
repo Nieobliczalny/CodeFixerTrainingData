@@ -81,7 +81,7 @@ int main(void) {
 	double	HRA07;
 	HRA07	=	-1482649188;
 	short	l29s4R4h;
-	l29s4R4h	=	-371619704;
+
 	long	XTISP2;
 	XTISP2	=	-616834768;
  int RvVUbeIx1;
@@ -235,7 +235,7 @@ HRA07 = (L_YgliAC >= y6W9_cm6T) ? tJE5wJK : ifU5aN;
 break;
 case 'b':
 case 'B':
-l29s4R4h = tic6 ^ 1195650039;
+
 break;
 case 'c':
 case 'C':
@@ -475,7 +475,7 @@ while (j < 5);
 --i;
 }
 }
-MY7_Jx6xe = bUU9d24wr8 << tJE5wJK;
+
 
 try
 {
@@ -515,7 +515,7 @@ else if (Ljz5w71 == 1776300680)
 }
 else
 {
-bmtAM &= 763071490;
+
 }
 }
 else if (((g1f7_17 >= -49864808) && (x5pEWBYR < 92933787)) || ((BD3XkbYn0y) || (HRA07 >= 1695048870)))
@@ -540,7 +540,7 @@ case 'b':
 
 break;
 case 'c':
-hC0C9020C *= y8d7_L_33;
+
 break;
 case 'd':
 QPT2 = ZDu3D1 % qV8r2dA6w3;

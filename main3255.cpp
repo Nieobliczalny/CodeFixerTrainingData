@@ -34,7 +34,7 @@ int main(void)
   unsigned short int  lF9SAqh7Y;
   lF9SAqh7Y  =  -1041549907;
 	short	f250yK;
-	f250yK	=	1500905572;
+
  unsigned char tL7_d_K67;
  tL7_d_K67 = 0;
   long long  f3eODb;
@@ -184,7 +184,7 @@ case 6:
 McGP7 = (aqM4 <= 1447050197) ? -1835851866 : sAead4OA;
 break;
 case 7:
-ZEa7557Rh = Ml4e % iavsCo3z;
+
 break;
 default:
 
@@ -322,7 +322,7 @@ case 4:
 
 break;
 case 5:
-sAead4OA = (int)ceil(am63);
+
 break;
 case 6:
 tL7_d_K67 = m5_7K_8J(otMnF3_K);
@@ -393,7 +393,7 @@ f3eODb = (long long)(hXWMLk1oeV);
 }
 
 
-hXWMLk1oeV ^= 31182178;
+
 
 for (int i = 0; i < 4; ++i)
 {
@@ -435,7 +435,7 @@ else
 }
 else
 {
-JCj1r_ = m5_7K_8J(270790161);
+
 }
 }
 

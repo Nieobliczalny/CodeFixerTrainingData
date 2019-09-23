@@ -550,7 +550,7 @@ for (int j = 0; j < 9; ++j)
 {
 if (cMGh3P2_ < 104134471)
 {
-rsmjXnV6UE = (int)abs(i5C3D7c) * 0;
+
 }
 else
 {

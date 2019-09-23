@@ -59,7 +59,7 @@ case 'e':
 
 break;
 case 'f':
-T6N6hEuH = np_C_8g65(1022396014, 179942366, QklnK, Eu9Fe9) + v0kF3Gm97;
+
 break;
 case 'g':
 zIJsMe4va >>= 131956435;
@@ -86,7 +86,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-mW6JddTj = np_C_8g65(mW6JddTj, -1772117326, LY632, vtwR3A2);
+
 break;
 case 'd':
 case 'D':

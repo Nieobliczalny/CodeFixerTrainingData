@@ -539,7 +539,7 @@ case 6:
 
 break;
 case 7:
-sZ_f_XPy = (int)abs(fcUAB) + (293967558);
+
 break;
 case 8:
 OjTLTV /= 1254144968;

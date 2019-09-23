@@ -105,7 +105,7 @@ else
 {
 if (wJ03uV & EhZOEQ79)
 {
-cACy3Vq = wi5q + 1374904783;
+
 }
 else
 {
@@ -132,7 +132,7 @@ if (gh71gMn2 < VmPoT97)
 switch (t9_Iph)
 {
 case 'a':
-Aw8hSHAoI &= 619211954;
+
 break;
 case 'b':
 xZDHc = z_Lx0oJy1T / 1475653482;
@@ -152,7 +152,7 @@ break;
 }
 }
 
-OZvFoJ4 = (int)abs(G_4XI);
+
 
 if (ddLP == 2099832911)
 {
@@ -277,7 +277,7 @@ else
 switch (R4eVk_9)
 {
 case 0:
-A8A99pMh9 = L6x5ucgF >> W__go;
+
 break;
 case 1:
 
@@ -289,7 +289,7 @@ case 3:
 
 break;
 case 4:
-l3_y3r2H = NZyO(2124873845, 272465976, rN0Q747U);
+
 break;
 case 5:
 

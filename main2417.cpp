@@ -181,7 +181,7 @@ if (ZFPW5Jwm == R5g48eS_9F)
 switch (Y852pM)
 {
 case 0:
-Ht9rAnR = (int)abs(ApvnX4CBP);
+
 break;
 case 1:
 
@@ -205,7 +205,7 @@ case 7:
 Z3MPPugTO = ZUw__6(Qd1Pos, EEWr);
 break;
 case 8:
-V92Tc7BIm = Q11ZT(-1028760995, 1578340706);
+
 break;
 default:
 
@@ -242,7 +242,7 @@ if (((r_nIPXw <= -2129786639) || (o1Xj0vS == -1020140806)) || ((r_nIPXw <= 11198
 
 
 
-o2B0 = (int)abs(NRL_4j3l6);
+
 
 {
 int i = 2;

@@ -75,7 +75,7 @@ break;
 switch (In264Kuix)
 {
 case 'a':
-RVahP92S = x0a_Q(338222705, RVahP92S, 727933104, Qcs6, -1027538331);
+
 break;
 case 'b':
 AUPQG2VQx |= 707372569;
@@ -96,7 +96,7 @@ case 'g':
 JzRd = x0a_Q(1200093875, 86169021, l_SrnEvvt, AUPQG2VQx, bO8f_1);
 break;
 case 'h':
-RVahP92S = x0a_Q(572618667, 1459453156, UO_yyMBhp, HxK4_, S1ftp_Z6);
+
 break;
 case 'i':
 t5x4--;
@@ -238,7 +238,7 @@ int k = 7;
 while (k >= 0)
 {
 k--;
-RVahP92S = x0a_Q(l_SrnEvvt, Z0J7, -149850932, 1227918086, Go11);
+
 }
 }
 }
@@ -349,7 +349,7 @@ case 1:
 
 break;
 case 2:
-dEh2Z0uw = hZa_QcO | AUPQG2VQx;
+
 break;
 case 3:
 aBAZwr = (int)abs(GbBX7RQfV);

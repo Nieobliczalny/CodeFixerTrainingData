@@ -278,7 +278,7 @@ for (int j = 0; j < 2; j++)
 {
 try
 {
-nUt97414 = FlCTGBSj0 << 1953709709;
+
 }
 catch (int& errorCode)
 {
@@ -301,7 +301,7 @@ if (JV4nerR)
 switch (W_f6ry9)
 {
 case 'a':
-OV15G = (int)floor(se29v);
+
 break;
 case 'b':
 gp__ = (int)floor(OV15G);
@@ -320,7 +320,7 @@ else if (Z0nf_9g >= 1122947289)
 switch (jU10)
 {
 case 0:
-UtNzHYX2M = (int)ceil(OV15G);
+
 break;
 case 1:
 
@@ -335,7 +335,7 @@ case 4:
 mA93 = (int)abs(bzcA);
 break;
 case 5:
-OV15G = (int)floor(XdXr5);
+
 break;
 case 6:
 y1A1Zi1 %= W_f6ry9;
@@ -408,7 +408,7 @@ case 0:
 
 break;
 case 1:
-h0PqFr5C = (int)abs(EcLk7O6);
+
 break;
 case 2:
 EQt9 = b8YenRJ(EQt9, -175474146, 1939589257, JV4nerR);
@@ -420,7 +420,7 @@ case 4:
 
 break;
 case 5:
-G14s9 ^= yKvp;
+
 break;
 case 6:
 

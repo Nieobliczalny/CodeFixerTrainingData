@@ -391,7 +391,7 @@ case 2:
 VTUra = (int)abs(sCDx);
 break;
 case 3:
-WrOgT9U <<= 267315040;
+
 break;
 default:
 VTUra = sQ2uJV0u4X();
@@ -414,7 +414,7 @@ hs2Yu = Ddzg / 1723094382;
 }
 else if (hFfXwPQq76)
 {
-u3mxf4H = (unsigned long long)(AgOJwM1Y1r);
+
 }
 else
 {
@@ -470,7 +470,7 @@ case 'd':
 VTUra = (int)abs(sCDx);
 break;
 case 'e':
-uB8mMKD |= X7XpD;
+
 break;
 case 'f':
 AMx6OAc6 >>= anMVH_o7K;

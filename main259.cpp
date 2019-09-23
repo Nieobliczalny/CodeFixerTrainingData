@@ -40,7 +40,7 @@ int main(int argc, char** argv) {
     short int    u933_Zrm1E;
     u933_Zrm1E    =    1570786757;
  unsigned int HFS1Lw_XZ;
- HFS1Lw_XZ = -190957925;
+
     unsigned long    XaxTN_OiA2;
     XaxTN_OiA2    =    -160198082;
  unsigned char kHz_hD;
@@ -117,7 +117,7 @@ nlfQn = LDt8EO56C4(qLb0h_5, 1706308600);
 }
 else if (((GmliB8Dl != -291339755) || (pacV == 1015564510)) && ((CL1xHU4) || (M_BOY <= -1678288833)))
 {
-HFS1Lw_XZ = Rp7Gd0N / Ckr_;
+
 }
 else if (Yi34z4d8 > Er3ahdl_E5)
 {
@@ -208,7 +208,7 @@ case 5:
 Yi34z4d8 <<= 1548780294;
 break;
 case 6:
-HFS1Lw_XZ = pacV + 124442802;
+
 break;
 default:
 r7le = (int)floor(pq2ExQTtb7);
@@ -359,7 +359,7 @@ pq2ExQTtb7 = (int)floor(M_BOY);
 }
 
 
-kHz_hD = Eixb3coF3 | 1092380435;
+
 if (LDt8EO56C4(-2057995049, -1627529380) == 0)
 {
 	Kry7MUv39g = 360447190 / LDt8EO56C4(-2057995049, -1627529380);
@@ -429,7 +429,7 @@ case 'b':
 
 break;
 case 'c':
-qLb0h_5 = VDgpRpxWB >> zPC3b9J;
+
 break;
 case 'd':
 jLoOUET ^= qLb0h_5;
@@ -441,7 +441,7 @@ case 'f':
 
 break;
 case 'g':
-r7le = (int)floor(pq2ExQTtb7);
+
 break;
 case 'h':
 UdY5 *= zPC3b9J;

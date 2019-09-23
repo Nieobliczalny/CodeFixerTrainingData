@@ -262,7 +262,7 @@ else
 {
 if (ZCUd4V_HoJ <= 1104170639)
 {
-NPc32Lqh = R02y(-1244915363, xYf_9kR03, sd97Q, 357432655) + gvdN1D92G;
+
 }
 else
 {
@@ -343,7 +343,7 @@ case 5:
 BvXztT = (int)abs(lFJvm1Sd) + (1135853521);
 break;
 case 6:
-NPc32Lqh = x6qurh_Ujl >> jPQT;
+
 break;
 default:
 PsLf = Nn4cWNf - kdhv;
@@ -487,7 +487,7 @@ case 2:
 
 break;
 case 3:
-EyI55F46vL ^= 554999084;
+
 break;
 case 4:
 WNtJ = R02y(-59698452, -1667607717, 699572296, -568076132);

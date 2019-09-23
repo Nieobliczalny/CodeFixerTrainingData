@@ -236,7 +236,7 @@ break;
 }
 else if (j2g8lj0MEV < 188484664)
 {
-u7i9R = (long)(c2SNtQRuI);
+
 }
 else if ((YGoh < -257600766) && (uIaJ > Stgad3))
 {
@@ -442,7 +442,7 @@ case 1:
 
 break;
 case 2:
-T056a2w *= 792222301;
+
 break;
 }
 }
@@ -499,7 +499,7 @@ break;
 
 
 
-FoklyU = (int)ceil(i33mk79t);
+
 
 return 0;
 }

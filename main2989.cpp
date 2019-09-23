@@ -210,7 +210,7 @@ case 'b':
 
 break;
 case 'c':
-xVR6 = G__aPN_(-1881681561, -846535678, 1486908485, YP70A2u);
+
 break;
 case 'd':
 d8TGOHD8H2 = (int)ceil(ogv0P);
@@ -228,7 +228,7 @@ case 'h':
 lP2yRm9J++;
 break;
 case 'i':
-p5i2v0U8 %= mNxl30m_;
+
 break;
 }
 }
@@ -260,7 +260,7 @@ else
 {
 
 }
-e7na4Z7 = (char)(xbee2al);
+
 
 for (int i = 9; i >= 0; i--)
 {
@@ -286,7 +286,7 @@ else
 }
 else
 {
-K311 = (unsigned short int)(qwf24BK);
+
 }
 {
 int i = 0;
@@ -314,7 +314,7 @@ int i = 7;
 do
 {
 --i;
-v74nUI8YW = (unsigned short int)(ThA6K_l2);
+
 }
 while (i >= 0);
 }

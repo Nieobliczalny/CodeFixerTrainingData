@@ -48,7 +48,7 @@ while (i >= 0)
 switch (F44Ql)
 {
 case 'a':
-Gj80 = (int)floor(YdS9);
+
 break;
 case 'b':
 y5QdOGbn6 = (int)abs(ajlI_D) + (258407372);
@@ -137,7 +137,7 @@ case 2:
 b2o6GG = u5m0A5 | 560264643;
 break;
 case 3:
-F44Ql = yS531d();
+
 break;
 case 4:
 
@@ -158,7 +158,7 @@ case 9:
 
 break;
 default:
-F44Ql = yS531d();
+
 break;
 }
 

@@ -38,7 +38,7 @@ int main()
     Df7v66k    =    -1478878332;
     MoWgr6x    =    57248052;
     zj7AQ9i7o    =    2043051547;
-    u2b_m    =    -749198806;
+
     lW0_wM4NU    =    181271066;
     IRZsjz    =    -1693580748;
     cW1NN    =    -1134964209;
@@ -389,7 +389,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-vu5F39Co6l /= 983279280;
+
 break;
 case 'd':
 case 'D':

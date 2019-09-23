@@ -148,7 +148,7 @@ case 'e':
 Zy0an = (int)floor(y3c98BMAU);
 break;
 case 'f':
-UmrD6S = (int)floor(Lj16395);
+
 break;
 case 'g':
 UmrD6S = ku1O291 ^ 297920166;
@@ -173,7 +173,7 @@ zG27NB = (short int)(y4VFun);
 }
 else if (MMdur2yE)
 {
-UmrD6S = (int)floor(ic6OXV4057);
+
 }
 else if (iZ3C0 & 1913212355)
 {
@@ -198,7 +198,7 @@ case 1:
 
 break;
 case 2:
-Zy0an = (int)abs(vQuy_);
+
 break;
 case 3:
 IxSl = (int)floor(Kk_ffC);
@@ -213,7 +213,7 @@ case 6:
 
 break;
 case 7:
-UmrD6S = (int)ceil(Lj16395);
+
 break;
 case 8:
 vDK_W = (int)abs(dHJX4);

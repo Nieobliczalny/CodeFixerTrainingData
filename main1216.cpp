@@ -37,7 +37,7 @@ int main(void)
   long double  r5N9LXcZ;
   r5N9LXcZ  =  -1499160261;
  unsigned char eijA7HNg9;
- eijA7HNg9 = -1296577363;
+
 	long	nLTJor;
 	nLTJor	=	1170251006;
  int g39Vi9;
@@ -77,7 +77,7 @@ int main(void)
   int  KmbqyNh;
 
     long    Aa7u67;
-    Aa7u67    =    -1065373732;
+
 	float	pCfl2Oy;
 	pCfl2Oy	=	1588779077;
 	short	sk4B2;
@@ -101,7 +101,7 @@ int main(void)
     int    Vg0_VF1_VU;
 
   unsigned int  X9q7;
-  X9q7  =  -480415408;
+
   short int  bWwq;
   bWwq  =  0;
  float N3T1LO4;
@@ -127,7 +127,7 @@ int main(void)
     unsigned short    c80D6;
 
     short    a1m30l2Q5;
-    a1m30l2Q5    =    -1369805667;
+
 	long double	H2ukJUPI3;
 	H2ukJUPI3	=	1765256553;
     short int    TV22lD2sG;
@@ -137,7 +137,7 @@ int main(void)
   long double  gfcc;
 
   unsigned int  ifS3lYJ5;
-  ifS3lYJ5  =  -1182146020;
+
   float  CX_s2C4Ztv;
   CX_s2C4Ztv  =  2142914246;
  unsigned short int N33n5RR;
@@ -159,7 +159,7 @@ int main(void)
  double O_83;
 
   unsigned char  oz6Cd7dD;
-  oz6Cd7dD  =  -789119450;
+
  short j_p7On9;
  j_p7On9 = 0;
   unsigned short  uRih0umDd;
@@ -241,7 +241,7 @@ case 'c':
 
 break;
 case 'd':
-aUacgu6Tn = O3_Ohcn(1320615617, gPFp, oV0__54, -1784252938, X5_m);
+
 break;
 case 'e':
 
@@ -333,7 +333,7 @@ while (j < 4)
 j++;
 try
 {
-oV0__54 = Ds6aesY4b(-146071956, bIIK) - VivSgKX;
+
 }
 catch (int& errorCode)
 {
@@ -378,7 +378,7 @@ else
 
 }
 
-pCfl2Oy = (float)(yv8Dy8gZgx);
+
 cout << nLTJor << fH90GyIh(-1245758211, OZ7K, HYhfWcj8g0, lGfcakp_9, W2v3B1xSv) << "tOgnmBph59" << Ky43hF6 << endl;
 
 

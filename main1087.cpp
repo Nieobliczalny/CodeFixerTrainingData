@@ -17,7 +17,7 @@ int main(void) {
 
 
 
-g4P9 &= 2088612408;
+
 {
 int i = 0;
 do
@@ -46,7 +46,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-au625r9 = NF7028Yk(473345833);
+
 break;
 case 'd':
 case 'D':
@@ -62,7 +62,7 @@ case 'F':
 break;
 case 'g':
 case 'G':
-au625r9 = NF7028Yk(A7oF47);
+
 break;
 case 'h':
 case 'H':
@@ -74,7 +74,7 @@ case 'I':
 break;
 case 'j':
 case 'J':
-au625r9 = NF7028Yk(1306541106);
+
 break;
 default:
 
@@ -92,7 +92,7 @@ case 'b':
 
 break;
 default:
-YS242A8z5n >>= 1918400391;
+
 break;
 }
 }
@@ -232,7 +232,7 @@ NWjUIl_ = NF7028Yk(-1855781698) / au625r9;
 switch (gKABGiK_l)
 {
 case 0:
-gKABGiK_l = (int)abs(lfh_3Qdb);
+
 break;
 case 1:
 
@@ -244,7 +244,7 @@ case 3:
 sFPh9 = (int)abs(Sck9inFQoP);
 break;
 case 4:
-au625r9 = NF7028Yk(-2114391344);
+
 break;
 case 5:
 A7oF47 /= 1815335447;
@@ -296,7 +296,7 @@ else if ((J3N0 <= mVv9_2cQ1) || (xr5yN84 >= -1680905460))
 }
 else if (b61OeN_st != cy0sK)
 {
-BvF8V0so = LD65 % 480304721;
+
 }
 else if (((NWjUIl_) || (v8975_f)) && (Vx7b != -1902384800))
 {

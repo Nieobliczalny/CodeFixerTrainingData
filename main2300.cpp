@@ -414,7 +414,7 @@ else
 }
 else if (Kr82Dj67 & xguzbH1GJT)
 {
-ASkdxAN = (int)floor(s7b2nvd8);
+
 }
 else if (p9xGfy)
 {
@@ -553,7 +553,7 @@ else if (LZBl6ONe2z < B9Y13tLo)
 }
 else
 {
-Z6o7NQOm |= k72W76w10;
+
 }
 }
 else if (ZJTvAP1_ & LxBim4Mp)

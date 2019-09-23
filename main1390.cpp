@@ -59,7 +59,7 @@ int main(void)
 
 VMy_3aQ *= 1069822658;
 
-u0a6VS2 = (int)floor(V3HW3_mA9P);
+
 
 {
 int i = 0;
@@ -268,7 +268,7 @@ else
 int j = 0;
 do
 {
-bY_1_xs7Y = hw_E8oa23f(641574736, -654168709, XG5GLCG, s6fj9t, 1343490602);
+
 j++;
 }
 while (j < 3);
@@ -415,7 +415,7 @@ break;
 }
 }
 
-l0_qGop5 = (int)abs(M9S5a);
+
 
 return 0;
 }

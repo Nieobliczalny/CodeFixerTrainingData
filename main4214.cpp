@@ -248,7 +248,7 @@ else
 switch (Q34i8uy6)
 {
 case 0:
-WkSHR31H0 = dY2_o1Yve(Ao3S4, WkSHR31H0);
+
 break;
 case 1:
 
@@ -260,7 +260,7 @@ case 3:
 o4b7 += 1475121250;
 break;
 case 4:
-QZw1Vp = (int)abs(n1hV);
+
 break;
 case 5:
 
@@ -272,7 +272,7 @@ case 7:
 m_vJY = ANnq760iv(1253790066, l_dMzk_9EP, 513528654, -537464926, -512618007);
 break;
 case 8:
-UFt9CYDK = (int)floor(m_vJY);
+
 break;
 case 9:
 
@@ -282,7 +282,7 @@ default:
 break;
 }
 
-WkSHR31H0 = dY2_o1Yve(1328327978, -1716520773);
+
 
 mwP2R1a = (float)(h8I4);
 

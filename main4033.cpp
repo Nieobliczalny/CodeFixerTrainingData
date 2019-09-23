@@ -58,7 +58,7 @@ int main()
     char    mQXz4nXSA;
     mQXz4nXSA    =    -1700928199;
     float    pLNd0;
-    pLNd0    =    -1405993237;
+
  float V8UkaiL;
  V8UkaiL = -1562668205;
     float    LsiFZGPm;
@@ -82,7 +82,7 @@ int main()
     unsigned long long    c5EdFT4Q;
 
   int  kw4Hwq4Qc;
-  kw4Hwq4Qc  =  -1439961719;
+
  unsigned short SKDOC9;
  SKDOC9 = -53054836;
   unsigned char  W1II4;
@@ -108,7 +108,7 @@ int main()
     long long    To6X5RP7i;
     To6X5RP7i    =    1463368688;
  short int ZwFuSfB;
- ZwFuSfB = 0;
+
   unsigned char  v1sG;
 
   unsigned short int  Ql8BgqZ8H;
@@ -138,7 +138,7 @@ int main()
  long long DLk7uc;
  DLk7uc = -288373282;
 	short	zjSA;
-	zjSA	=	-461711868;
+
     unsigned char    I_iEjg;
 
   char  G2KBxONq;
@@ -180,7 +180,7 @@ int main()
 	long	zpt0wfs;
 
 	unsigned short int	lSUnsbN;
-	lSUnsbN	=	-865919748;
+
 	double	wD3d;
 	wD3d	=	-540985487;
 
@@ -211,7 +211,7 @@ do
 j++;
 for (int k = 0; k < 7; ++k)
 {
-ZwFuSfB = Crjs5HaXA2();
+
 }
 }
 while (j < 4);
@@ -224,7 +224,7 @@ for (int i = 0; i < 3; i++)
 {
 if (Qnbwlb < N0AFKZ34)
 {
-ZwFuSfB = Crjs5HaXA2();
+
 }
 else
 {
@@ -439,7 +439,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-GlaJi5 ^= 1379032909;
+
 break;
 case 'd':
 case 'D':
@@ -481,7 +481,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-cPN1X2m5 = D281i % q10e_XJ;
+
 break;
 case 'd':
 case 'D':
@@ -497,7 +497,7 @@ case 'F':
 break;
 case 'g':
 case 'G':
-ozgMlN64 = Crjs5HaXA2();
+
 break;
 case 'h':
 case 'H':

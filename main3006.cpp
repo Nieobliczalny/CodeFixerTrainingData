@@ -667,7 +667,7 @@ case 'c':
 Iv4E = YI2k();
 break;
 case 'd':
-P4D_U = YI2k();
+
 break;
 case 'e':
 vO24 ^= d1fz91PPG;
@@ -741,7 +741,7 @@ case 'c':
 wB1BMj5Hur = vZ07v20(-9083273, LA5BZ8EMO);
 break;
 case 'd':
-bVnkEpBc = YI2k();
+
 break;
 case 'e':
 vO24 = s8gxx(-1447584981);

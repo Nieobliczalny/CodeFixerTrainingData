@@ -55,7 +55,7 @@ inezkj8m1_ = iL_W();
 }
 else
 {
-Vic15 = (short int)(nQKnab_);
+
 }
 }
 {
@@ -77,7 +77,7 @@ NmnTs196a = (short int)(dr9BS6);
 switch (S7woSdn6I)
 {
 case 0:
-vrdKy3Ud = M_j53FG(-513932955, aOjY6up);
+
 break;
 case 1:
 dr9BS6 = iL_W();
@@ -89,7 +89,7 @@ case 3:
 ARx2SD %= 960877221;
 break;
 default:
-vrdKy3Ud = (int)abs(zs66_C7EE);
+
 break;
 }
 
@@ -113,7 +113,7 @@ case 0:
 
 break;
 case 1:
-vrdKy3Ud = M_j53FG(-1895479692, -627145808);
+
 break;
 case 2:
 SVUA = M_j53FG(SVUA, MG_Rb);
@@ -140,7 +140,7 @@ for (int i = 4; i >= 0; --i)
 
 if (eefi0V2g_9 == 0)
 {
-	MG_Rb = LIfNw / eefi0V2g_9;
+
 }
 switch (NmnTs196a)
 {
@@ -196,7 +196,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-MG_Rb = (U99n7ULf2H != LIfNw) ? Gec0EcSf6 : QP4M;
+
 break;
 case 'c':
 case 'C':
@@ -208,7 +208,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-v_T42 = (int)abs(nQKnab_) * 0;
+
 break;
 case 'f':
 case 'F':
@@ -232,7 +232,7 @@ while (j >= 0);
 }
 }
 
-ClT83191 = (short int)(rh2jA_1lb);
+
 return 0;
 }
 

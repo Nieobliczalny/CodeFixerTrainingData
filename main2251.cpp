@@ -122,7 +122,7 @@ int main(int argc, char** argv) {
 switch (YSHvvh)
 {
 case 0:
-z4V3gSJr0 = EjNipspm6(1598473176, bbjAsTv6z9, -508358924);
+
 break;
 case 1:
 
@@ -213,7 +213,7 @@ case 1:
 
 break;
 default:
-IK01uc = Wd1w ^ 583751445;
+
 break;
 }
 }
@@ -228,7 +228,7 @@ else
 }
 
 
-QECw9u74Ub = (unsigned char)(LOSW5O22GL);
+
 return 0;
 }
 

@@ -55,7 +55,7 @@ int main(void) {
 	unsigned char	oF1S97QPIm;
 	oF1S97QPIm	=	2002582907;
     unsigned char    baK8WQqmw;
-    baK8WQqmw    =    582508669;
+
     unsigned short int    O2gio6SAU_;
     O2gio6SAU_    =    1621927699;
     char    IJ8kGRa;
@@ -93,7 +93,7 @@ case 4:
 UkGHbi++;
 break;
 case 5:
-x27kfV |= FdQID7_3wb;
+
 break;
 case 6:
 p1_z5l = x4tg | x3ubc68Xy;
@@ -245,7 +245,7 @@ while (i < 6)
 {
 try
 {
-x27kfV = YnUrSK >> 685442138;
+
 }
 catch (int& errorCode)
 {
@@ -278,7 +278,7 @@ case 'd':
 
 break;
 case 'e':
-jS7mQ1C = oF1S97QPIm + 1360848657;
+
 break;
 case 'f':
 iUb758 = (int)floor(vvXk);
@@ -311,7 +311,7 @@ case 'd':
 iUb758 = (int)ceil(aqxOM_);
 break;
 case 'e':
-r0TfI1SDv = p1_z5l | 2033830581;
+
 break;
 case 'f':
 vvXk = (int)ceil(aqxOM_);

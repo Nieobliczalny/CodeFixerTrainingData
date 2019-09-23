@@ -31,7 +31,7 @@ if ((B6B2mYn <= -1375855427) && ((LlvZ8zO != V66O1OrE) || (c_iapIt5_B <= B6B2mYn
 {
 try
 {
-vV9_Omi = TZQ_FE0G % 2138784872;
+
 }
 catch (int& errorCode)
 {
@@ -73,7 +73,7 @@ switch (l_782IO)
 {
 case 'a':
 case 'A':
-ASjkJ = vt22();
+
 break;
 default:
 

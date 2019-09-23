@@ -59,7 +59,7 @@ int main(void) {
     unsigned long long    P795fT    =    0;
 
 
-WV1Q17 = qj1f_b >> 1555311494;
+
 cout << y7J0Sdp2cU(37656255, IaCE3p5p, 403469734, -1077006468, 582553251) << endl;
 {
 int i = 0;

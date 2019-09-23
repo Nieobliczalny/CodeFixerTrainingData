@@ -32,7 +32,7 @@ int main(int argc, char** argv) {
   unsigned long  Pj6IO;
 
     unsigned short int    q70m8d1;
-    q70m8d1    =    -1575498206;
+
     unsigned long long    aRH_795Pq;
     aRH_795Pq    =    -142725518;
   unsigned long  B_375lXD;
@@ -44,7 +44,7 @@ int main(int argc, char** argv) {
     unsigned char    Uh8Rgu3;
 
 	long	Hc70_VO;
-	Hc70_VO	=	826439629;
+
 	long long	Uhh9A;
 	Uhh9A	=	-1778042207;
   unsigned short  bs9T2;
@@ -62,7 +62,7 @@ int main(int argc, char** argv) {
     short    isAV;
     isAV    =    343533085;
     unsigned long    bK7je6O;
-    bK7je6O    =    401181120;
+
   float  E41_;
   E41_  =  -2040769057;
   short  xz3ZR;
@@ -112,7 +112,7 @@ int main(int argc, char** argv) {
 	double	ZY81mzjN;
 	ZY81mzjN	=	-1922993828;
 	long double	Ej9g;
-	Ej9g	=	727582521;
+
 	long long	Hu9382;
 	Hu9382	=	-957929182;
 	unsigned long long	KAq42;
@@ -401,7 +401,7 @@ case 4:
 s_qJcP45 -= 1952435579;
 break;
 case 5:
-aIQe = (int)abs(UxORI6LLi);
+
 break;
 case 6:
 MGdg6 >>= 30869150;
@@ -414,7 +414,7 @@ break;
 int i = 1;
 while (i >= 0)
 {
-b0gIP65b0 = B1y2h & GbgFbU3;
+
 i--;
 }
 }
@@ -506,7 +506,7 @@ case 'b':
 
 break;
 case 'c':
-b0gIP65b0 = B_375lXD % dDeBM6C;
+
 break;
 case 'd':
 MGdg6 = (int)abs(UxORI6LLi);
@@ -524,7 +524,7 @@ break;
 }
 
 
-vC07En = (int)abs(tcy1_A);
+
 
 {
 int i = 3;

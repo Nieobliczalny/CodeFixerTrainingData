@@ -145,7 +145,7 @@ oD7F_Z8Jx4 /= 1018334329;
 }
 else
 {
-ub_QW2 <<= 941960837;
+
 }
 }
 else if (((jqJEh == I1_VZ) || (EvJRYP)) || (xJ2nN5mhK7))
@@ -170,7 +170,7 @@ else
 {
 for (int k = 9; k >= 0; --k)
 {
-f2k0wOJ = (i7g21) ? 1330046098 : 1201756687;
+
 }
 }
 }
@@ -275,7 +275,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-Z37rS21 = oCj5IWy / 187617754;
+
 break;
 default:
 wTRGaU++;
@@ -359,7 +359,7 @@ while (i < 4);
 switch (qL2q29l5)
 {
 case 0:
-utA_XL7 -= 156754284;
+
 break;
 case 1:
 C_MkSrr = EC7h9 ^ Bbn7QzB6H;

@@ -302,7 +302,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-vTbTo9wQKr = HHUxx_T9Y + N670K__k;
+
 break;
 case 'd':
 case 'D':

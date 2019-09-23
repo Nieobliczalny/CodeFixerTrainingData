@@ -306,7 +306,7 @@ case 6:
 iw_u_ = (int)abs(Rl36p2S);
 break;
 case 7:
-k94yA = (int)floor(c3_Z6);
+
 break;
 case 8:
 U_hkG = (c3_Z6 == 409736907) ? -823956179 : -2125192807;
@@ -597,7 +597,7 @@ case 'c':
 
 break;
 case 'd':
-GBv6q3g -= hukl0fOY5;
+
 break;
 case 'e':
 ZY4RL_ = (EytnT7) ? -378362119 : U_hkG;

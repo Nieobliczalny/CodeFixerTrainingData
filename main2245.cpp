@@ -318,7 +318,7 @@ case 4:
 
 break;
 case 5:
-chcSaFe6v = mdLC_f | 1440559226;
+
 break;
 }
 }

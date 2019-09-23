@@ -31,7 +31,7 @@ int main(int argc, char** argv) {
  unsigned short int mZ7XRdYkp5;
 
   unsigned short int  qJ4QdRm9;
-  qJ4QdRm9  =  861714382;
+
  long GK7_l2YF;
 
  unsigned int mP0Bjfr;
@@ -85,7 +85,7 @@ int main(int argc, char** argv) {
  int f55I01ZFzX;
  f55I01ZFzX = -1878479396;
   unsigned int  E7Gr56KM;
-  E7Gr56KM  =  656407317;
+
 	float	OLd3Li5;
 	OLd3Li5	=	1132351607;
  float MPX52d3;
@@ -141,7 +141,7 @@ int main(int argc, char** argv) {
  long vsLrTNi;
  vsLrTNi = -665328964;
     unsigned short int    oiQLRVD;
-    oiQLRVD    =    1294265908;
+
   unsigned long  RlnX_2;
   RlnX_2  =  2068730403;
  unsigned long long Gm_8zg__im;
@@ -159,7 +159,7 @@ int main(int argc, char** argv) {
 	double	bwb33;
 	bwb33	=	-909273309;
   long long  N5vJiflf;
-  N5vJiflf  =  2083489358;
+
   unsigned char  uS7g;
 
  unsigned long long lr1pE;
@@ -442,7 +442,7 @@ case 'c':
 bU76o3 = mp1t0UO1(bU76o3, L97Y_1N8);
 break;
 case 'd':
-nb9Xvp_X -= OLd3Li5;
+
 break;
 case 'e':
 iSMvoDQ_++;

@@ -338,7 +338,7 @@ cout << "Y_SB1TP" << mKP8Ag1_c << NBd66 << "IbCF2" << endl;
 switch (w2uLMeh6)
 {
 case 'a':
-zry3b1R9_ = (int)ceil(N18HY);
+
 break;
 case 'b':
 
@@ -349,7 +349,7 @@ break;
 }
 if (Zf104VT > pA6j480XH)
 {
-w7Ay83 >>= 2137871508;
+
 }
 switch (W_387Ishyf)
 {

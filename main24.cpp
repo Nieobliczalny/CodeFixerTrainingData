@@ -237,7 +237,7 @@ case 'd':
 
 break;
 case 'e':
-R_UCCrdU = X_2oo(-1471526218, 2116243816, -1405964142);
+
 break;
 case 'f':
 

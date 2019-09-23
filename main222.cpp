@@ -448,7 +448,7 @@ else
 }
 else if (TIQv0 <= rD8Yq7a4d)
 {
-TyUIs = (short int)(pall4tD386);
+
 }
 else if (L9JM > FLFo)
 {
@@ -473,7 +473,7 @@ case 5:
 
 break;
 default:
-b5squlL3L = (int)abs(HynF);
+
 break;
 }
 }

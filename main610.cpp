@@ -290,7 +290,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-xXTGc += 116765787;
+
 break;
 case 'd':
 case 'D':
@@ -310,7 +310,7 @@ case 'G':
 break;
 case 'h':
 case 'H':
-e114s4Y = cWs359f();
+
 break;
 case 'i':
 case 'I':

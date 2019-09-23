@@ -727,7 +727,7 @@ else
 }
 if (C_39rCz_ >= h_5dqv)
 {
-C_39rCz_ = (int)floor(pR6Z1b);
+
 }
 
 return 0;

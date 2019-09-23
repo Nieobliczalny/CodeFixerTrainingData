@@ -173,7 +173,7 @@ case 0:
 nevbEv = (int)floor(vv7_);
 break;
 case 1:
-G7x_n = Ep4P8Wq << 603221216;
+
 break;
 case 2:
 E9mza = T9_bKsc4E | Z0qj;
@@ -295,7 +295,7 @@ case 8:
 
 break;
 default:
-llxL8 = P13YC7 / yIHPH;
+
 break;
 }
 for (int i = 0; i < 8; i++)
@@ -368,7 +368,7 @@ else
 {
 
 }
-e933MMHv5C += qljV;
+
 try
 {
 fK_456j >>= 2141847811;
@@ -514,7 +514,7 @@ hz4wzx = RmWy ^ Cs7Jr61tm;
 
 Loo11 = (unsigned short int)(B63lc04 + (-194629467));
 
-sq3gLG = (int)ceil(r30fg0anx);
+
 
 cout << ZshOE33QCv << u36_4tJ << h__sBvlnK << "EMioN0" << endl;
 switch (P0ATHoG6L)

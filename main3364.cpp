@@ -150,7 +150,7 @@ w42d -= Qc8t;
 break;
 case 'f':
 case 'F':
-JiF2Os = PVm2z(-1953424949, 1666799431);
+
 break;
 case 'g':
 case 'G':
@@ -170,7 +170,7 @@ catch (int& errorCode)
 VfN38ChX_1 = PVm2z(D9QEV00, 1794781629);
 }
 
-bBm7tA9H5i <<= 808606147;
+
 
 for (int i = 3; i >= 0; i--)
 {
@@ -195,7 +195,7 @@ case 'c':
 
 break;
 case 'd':
-tR33 /= 1947483425;
+
 break;
 case 'e':
 w42d %= Qc8t;

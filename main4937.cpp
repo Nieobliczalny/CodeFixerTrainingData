@@ -351,7 +351,7 @@ h3sO8ij++;
 break;
 case 'b':
 case 'B':
-TBoWtl2g = A7U_f9F(-1203448902, wQx8umN, RbBz, jv18, -377095937);
+
 break;
 case 'c':
 case 'C':
@@ -462,7 +462,7 @@ else
 int k = 2;
 do
 {
-TBoWtl2g = knKrNZ158(1023985339);
+
 --k;
 }
 while (k >= 0);

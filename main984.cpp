@@ -43,7 +43,7 @@ int main(void)
     unsigned char    z4ZHQG7oI;
     z4ZHQG7oI    =    2129181991;
  unsigned int elWKDp60;
- elWKDp60 = -973479754;
+
   double  NT8p8p;
 
   unsigned short  pHz0;
@@ -53,7 +53,7 @@ int main(void)
   unsigned long long  Ub_c4to;
 
     long double    jjG0;
-    jjG0    =    -1596568976;
+
   unsigned short  YvMMf;
 
     unsigned short    X5a9Rl;
@@ -93,7 +93,7 @@ int main(void)
 	long long	tB795n0Sc6;
 	tB795n0Sc6	=	124976137;
   unsigned short  w1GAEVb1_O;
-  w1GAEVb1_O  =  0;
+
     int    CpwYE18Pc;
     CpwYE18Pc    =    1427972902;
 	unsigned char	v_QVDXN;
@@ -103,7 +103,7 @@ int main(void)
 	unsigned short int	ZFHnhyu_Ce;
 	ZFHnhyu_Ce	=	157764828;
   double  mx4R93Qk_y;
-  mx4R93Qk_y  =  -850954600;
+
     short    qIeu5z;
     qIeu5z    =    -160221451;
   unsigned int  Az2q3FA;
@@ -123,7 +123,7 @@ int main(void)
   long  zD98dyH6d7;
 
 	long	H111HT7_39;
-	H111HT7_39	=	751686876;
+
  unsigned long long s9Z_XiP89;
  s9Z_XiP89 = -1850133302;
 	float	o2NDWGz;
@@ -141,7 +141,7 @@ int main(void)
     unsigned short    qCa4AqpD_Y;
     qCa4AqpD_Y    =    -1663989058;
   unsigned int  C_O5;
-  C_O5  =  0;
+
     unsigned long long    iNg_;
 
   double  bj3z_2pmw5;
@@ -151,7 +151,7 @@ int main(void)
 	long double	cs618K_;
 	cs618K_	=	-877957021;
  unsigned short int Vb0146;
- Vb0146 = -95852408;
+
     unsigned int    Q9uXw;
 
   unsigned long long  JVH70W;
@@ -171,7 +171,7 @@ int main(void)
   long double  JJJ3x_17N;
   JJJ3x_17N  =  2083694756;
   unsigned char  Jcdn1;
-  Jcdn1  =  -1624355079;
+
   unsigned short  s4lK6SAlb;
   s4lK6SAlb  =  1774876981;
  char H10kT0;
@@ -278,7 +278,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-cfV1JWBh = Q9uXw ^ 235045779;
+
 break;
 case 'd':
 case 'D':
@@ -355,7 +355,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-oja11X70U = O67T - 2134432104;
+
 break;
 }
 std::cout << fcM6(758333728, 195174562, -185514701, YnhRy, -783368077) << Tv0yxn << "Jy29Eo_p6" << std::endl;
@@ -365,7 +365,7 @@ if (V3Se_0 == 0)
 {
 
 }
-GmYV0sif9 = (int)abs(tB795n0Sc6);
+
 
 return 0;
 }

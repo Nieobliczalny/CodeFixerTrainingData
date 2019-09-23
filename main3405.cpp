@@ -210,7 +210,7 @@ case 4:
 cs6PYmX2 = (int)abs(ShNXt6EHq1);
 break;
 case 5:
-K8h4 = m51g156(-601765177, gHi01X3IF6, tDaW_8F1_, -2029828957, Ejz6v18_wH);
+
 break;
 default:
 Ejz6v18_wH = (int)floor(dZ_XH1HC);
@@ -235,7 +235,7 @@ case 2:
 
 break;
 case 3:
-UTk9559 = (int)ceil(dZ_XH1HC);
+
 break;
 }
 }
@@ -386,7 +386,7 @@ else if (glB7k__RP != -911741189)
 }
 else if (suzBgPKnf_ != JDC24AWKq)
 {
-dZ_XH1HC = (int)abs(KUdaJyT);
+
 }
 else if (MU03rCY_ != -1681471888)
 {

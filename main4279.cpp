@@ -17,7 +17,7 @@ int main(void)
 	long long	z4GL20KJ1c,	xZ5X_C5,	AP0ZL,	O117eqkMM,	rh1tR8FRcb,	l1vtcx3_,	wfxz2,	za_V,	vk121JR1la,	BZaIP0W,	p_jmrlxl,	pE_vi_71,	Vs13g6,	iTXfA,	ihYnlj74_M,	Fnw_T1,	DAGtP8_dT3,	JGQfCc,	KPMe,	qmtUhP,	ycRuS9a,	L8vHsmu,	SoYk,	b5Bz0W,	vAxP2,	rnX_50eDP,	c_Ug4,	e088w2116i,	f46255DSOF,	P0h081v9,	X3YQEBW_i,	tgsOJ,	GXp2QBv31u,	I3t_v6dldU,	thCoAO,	pDGxg,	jV_q2c5gp7,	xrqBy9,	P62G,	FbcUV,	JeH3kb6P6,	qi9rM9uVTW,	eJpx6Jz7r,	xky1Y_HN,	hUAr3,	Sie98w,	k5us,	L6L2g7NLO,	R_1b,	LvJL0aU0t;
 		z4GL20KJ1c	=	xZ5X_C5	=	AP0ZL	=	O117eqkMM	=	rh1tR8FRcb	=	l1vtcx3_	=	wfxz2	=	za_V	=	vk121JR1la	=	BZaIP0W	=	p_jmrlxl	=	pE_vi_71	=	Vs13g6	=	iTXfA	=	ihYnlj74_M	=	Fnw_T1	=	DAGtP8_dT3	=	JGQfCc	=	KPMe	=	qmtUhP	=	ycRuS9a	=	L8vHsmu	=	SoYk	=	b5Bz0W	=	vAxP2	=	rnX_50eDP	=	c_Ug4	=	e088w2116i	=	f46255DSOF	=	P0h081v9	=	X3YQEBW_i	=	tgsOJ	=	GXp2QBv31u	=	I3t_v6dldU	=	thCoAO	=	pDGxg	=	jV_q2c5gp7	=	xrqBy9	=	P62G	=	FbcUV	=	JeH3kb6P6	=	qi9rM9uVTW	=	eJpx6Jz7r	=	xky1Y_HN	=	hUAr3	=	Sie98w	=	k5us	=	L6L2g7NLO	=	R_1b	=	LvJL0aU0t	=	-372511671;
   unsigned short int  VHNm;
-    VHNm  =  0;
+
 
 for (int i = 0; i < 4; i++)
 {
@@ -145,7 +145,7 @@ else if ((P0h081v9 == R_1b) && ((Vs13g6 <= -1739528032) && (rnX_50eDP >= 1539089
 }
 else if (I3t_v6dldU)
 {
-GXp2QBv31u = xky1Y_HN * 679032358;
+
 }
 else if (qi9rM9uVTW >= 964375501)
 {
@@ -172,7 +172,7 @@ case 3:
 
 break;
 case 4:
-xky1Y_HN = KPMe << 2009295958;
+
 break;
 case 5:
 

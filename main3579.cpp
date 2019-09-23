@@ -100,7 +100,7 @@ case 2:
 
 break;
 case 3:
-f_ggRO3y7f = zhVZa(f_ggRO3y7f, -225766784, r3Q8U5, -1713536112);
+
 break;
 }
 }
@@ -167,7 +167,7 @@ case 'e':
 
 break;
 case 'f':
-p0853Z = y0unV(810806262, -1852011678);
+
 break;
 case 'g':
 sOrH = y0unV(-1855018736, 632979909);
@@ -374,7 +374,7 @@ else
 std::cout << bN7Z8Y4_R << GL1izNd(bEki39, -2142210850) << "o4cky" << y0unV(-417122455, lW69) << std::endl;
 
 
-c1efsQEq = GL1izNd(c1efsQEq, -624018308);
+
 switch (J6SxH_R9)
 {
 case 0:

@@ -104,7 +104,7 @@ switch (oxoonQ2)
 {
 case 'a':
 case 'A':
-g7Tx8 = Q_K05_ << 445302320;
+
 break;
 case 'b':
 case 'B':
@@ -255,7 +255,7 @@ case 'B':
 
 break;
 default:
-zXfyf = (int)ceil(g4v6t);
+
 break;
 }
 }
@@ -270,7 +270,7 @@ case 1:
 
 break;
 default:
-Hxi2B0h = (int)ceil(o4s2NXzL6);
+
 break;
 }
 }
@@ -309,7 +309,7 @@ case 'c':
 
 break;
 case 'd':
-Z3ogxE41q = qHfwg(4028172);
+
 break;
 case 'e':
 
@@ -321,7 +321,7 @@ case 'g':
 
 break;
 case 'h':
-t_7HR43KR = (int)abs(P6DGA);
+
 break;
 case 'i':
 
@@ -337,7 +337,7 @@ break;
 }
 
 
-f_5C9U6 = (unsigned long long)(feO13an0R);
+
 P6DGA += 2135080983;
 
 return 0;

@@ -691,7 +691,7 @@ do
 switch (d5dH1)
 {
 case 0:
-g9f3N2Y = (tfxkWxo & 1309812567) ? FRF24 : -1539008876;
+
 break;
 case 1:
 
@@ -703,7 +703,7 @@ case 3:
 
 break;
 case 4:
-YSzCe = CAy9 / 1707855098;
+
 break;
 case 5:
 SV_P68I ^= 1782256770;

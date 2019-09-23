@@ -60,7 +60,7 @@ int main(int argc, char** argv)
   double  kpO6RJ;
   kpO6RJ  =  -677724021;
   long  AX6gY3u;
-  AX6gY3u  =  -1165109498;
+
 	float	u_5dFZ472;
 	u_5dFZ472	=	-889411866;
   short int  zC62O_r0gp;
@@ -124,7 +124,7 @@ int main(int argc, char** argv)
 	unsigned long long	KLfXo62;
 	KLfXo62	=	3748278;
  unsigned short int j0N3bs68k;
- j0N3bs68k = 1059182228;
+
 
 {
 int i = 4;
@@ -354,7 +354,7 @@ case 1:
 
 break;
 case 2:
-cm3PYc = iB9E(cm3PYc, Bx3L, g2c6M_GzBT, O967HHR_7f, 1618200229);
+
 break;
 case 3:
 T9X3a = Vy_nf6();
@@ -384,7 +384,7 @@ case 'a':
 k9HRKWy9t -= 938001228;
 break;
 case 'b':
-kpO6RJ = iB9E(kpO6RJ, aSN6EzFC, ymDy98_l3C, 2098873475, 841311856);
+
 break;
 case 'c':
 kpO6RJ = (int)ceil(z4D3eLe4c);

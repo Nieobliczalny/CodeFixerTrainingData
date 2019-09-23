@@ -68,7 +68,7 @@ int main(int argc, char** argv)
     T75H2r    =    -1509782760;
     muv2097qXW    =    350811868;
 
-    FK8_at3d    =    130592148;
+
     t5Y48q3WGa    =    -1113075191;
 
 FK8_at3d = XbI1 >> 1044066702;
@@ -518,7 +518,7 @@ case 2:
 l61K__9_f *= Lj0lFu1Aw;
 break;
 case 3:
-T75H2r = VS2jOa_V(T75H2r, -397291780, -1517123098, Bycwl);
+
 break;
 case 4:
 

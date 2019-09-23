@@ -406,7 +406,7 @@ if (WxAN8 <= l908806J)
 }
 else if (N_ILh)
 {
-UD37CF5 *= 5159328;
+
 }
 else
 {
@@ -462,7 +462,7 @@ case 1:
 
 break;
 case 2:
-N_ILh = N_ILh / kgyyRVzc;
+
 break;
 case 3:
 k6NW7 = h7odgfLl8 % lhaTaqd;
@@ -476,7 +476,7 @@ break;
 }
 }
 
-N_ILh = LC39 / Co86rFcvlK;
+
 
 
 return 0;

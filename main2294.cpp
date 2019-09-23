@@ -408,7 +408,7 @@ case 6:
 
 break;
 case 7:
-fv4fz = (int)ceil(vr86tiC);
+
 break;
 case 8:
 vr86tiC = (int)abs(fv4fz);

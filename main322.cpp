@@ -54,7 +54,7 @@ int main(int argc, char** argv) {
 	unsigned long	Q9_E4ccm7;
 
 	char	vbT5M;
-	vbT5M	=	-1212217912;
+
   short int  GhLQaz;
   GhLQaz  =  109426861;
  unsigned int FwX9sx0v;
@@ -94,7 +94,7 @@ int main(int argc, char** argv) {
   char  E_bO8;
   E_bO8  =  62687438;
 	int	RUiv8;
-	RUiv8	=	-1394486790;
+
 
 cout << Y8Iujma82(-2069221465) << x_8h54v0i4 << "aoJoxG3" << "kXj0N" << hc_ftO(-1334706602, 312485616, Nwpi) << endl;
 switch (U1be)
@@ -172,7 +172,7 @@ case 3:
 
 break;
 case 4:
-RUiv8 = (int)abs(GhLQaz);
+
 break;
 case 5:
 
@@ -217,7 +217,7 @@ a86HONc3 |= kwx1mV;
 
 if (iCE2x9roW > kwx1mV)
 {
-a8v6ZE0ax = (int)abs(Kt_1LOz) * 0;
+
 }
 
 try

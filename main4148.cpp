@@ -102,7 +102,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-asy4C__uM *= 360080944;
+
 break;
 }
 }
@@ -151,7 +151,7 @@ while (i < 6);
 
 d2_l_e9OCT = (long long)(k37_xXJ);
 d7z_5 = k9ZJM92 ^ 11660169;
-asy4C__uM = k9ZJM92 & RA_Y;
+
 
 switch (NspR6)
 {
@@ -162,7 +162,7 @@ case 'b':
 
 break;
 case 'c':
-C2lLro = (int)floor(S9FmAC);
+
 break;
 default:
 IWpWUpa0 += 1479652801;
@@ -189,7 +189,7 @@ case 2:
 V_82c9 = (int)abs(rcPz50);
 break;
 case 3:
-bf9PY = IWpWUpa0 | rcPz50;
+
 break;
 case 4:
 
@@ -216,7 +216,7 @@ rh6J307D5 %= xmqc_g;
 
 
 
-hafH6o78w = b_8WTJJ & 1144498835;
+
 
 
 

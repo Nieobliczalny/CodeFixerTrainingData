@@ -166,7 +166,7 @@ case 'c':
 
 break;
 case 'd':
-fUk0asG = (int)abs(ElC_mhLo9);
+
 break;
 case 'e':
 ElC_mhLo9 = (int)abs(gENo2);

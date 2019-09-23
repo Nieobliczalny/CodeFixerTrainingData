@@ -123,7 +123,7 @@ if (((K7_2 <= q4nTP5d6Hc) || (O5SPAOdEF & -1643478645)) || ((Nj_w7c6SJ <= UgQA_9
 int k = 0;
 while (k < 1)
 {
-yg_dr65P = qCE9k0DZ();
+
 ++k;
 }
 }

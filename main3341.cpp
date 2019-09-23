@@ -62,7 +62,7 @@ case 1:
 
 break;
 case 2:
-qbu1f57_ = dpF98hy7(-668079304, 2063194264, qbu1f57_);
+
 break;
 case 3:
 v7Yvt0a0W = pv7g5t | 942444914;
@@ -74,7 +74,7 @@ case 5:
 
 break;
 case 6:
-pjO7 = (int)abs(zI9e);
+
 break;
 }
 }
@@ -136,7 +136,7 @@ case 1:
 
 break;
 case 2:
-qbu1f57_ = dpF98hy7(-1485434181, AX1h4, nZ0123N1);
+
 break;
 case 3:
 qbu1f57_ = dpF98hy7(X1LG, 471507382, 44527251);
@@ -148,7 +148,7 @@ case 5:
 
 break;
 case 6:
-RX8U <<= 405438694;
+
 break;
 case 7:
 qbu1f57_ = dpF98hy7(DuB5FICsd, -1435420257, -1439775574);

@@ -50,7 +50,7 @@ int main(void) {
     g89RMA604    =    417399210;
 
     KJb9q5    =    1570295441;
-    swIvQy1    =    -441492134;
+
     s77CsU1    =    1204805823;
     J6LJ8Cl    =    1120190882;
     y5ad8    =    1533519356;
@@ -358,7 +358,7 @@ KJb9q5++;
 break;
 case 'd':
 case 'D':
-hijkq = (J6LJ8Cl > suy2) ? 358563693 : 1902758702;
+
 break;
 case 'e':
 case 'E':
@@ -439,7 +439,7 @@ wsKB8ZR4e = CPpE9fpR_q >> 1107492293;
 }
 else
 {
-hgGAD_ = (ualGq) ? 1515569301 : qgI9CKMg;
+
 }
 }
 }

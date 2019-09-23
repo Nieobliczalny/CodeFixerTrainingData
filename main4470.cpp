@@ -594,7 +594,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-N029 = (int)abs(KW067eh5);
+
 break;
 case 'e':
 case 'E':

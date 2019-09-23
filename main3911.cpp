@@ -71,7 +71,7 @@ int main(void) {
 	VVOy2x6T	=	-1287493787;
 	mS542A5R	=	168572420;
 
-	TH8A412XW	=	1664144335;
+
 	DPcaG5Q	=	-2028477026;
 	F4CksA	=	328862219;
 	u_Hu	=	1631149872;
@@ -256,7 +256,7 @@ case 'b':
 
 break;
 case 'c':
-u_Hu = (int)floor(Tj_x6XI);
+
 break;
 case 'd':
 
@@ -299,7 +299,7 @@ break;
 }
 else
 {
-BspB = (double)(My_l + (892427371));
+
 }
 
 
@@ -340,7 +340,7 @@ case 'G':
 break;
 case 'h':
 case 'H':
-I8_7 /= e_0BzN8V;
+
 break;
 }
 try
@@ -376,7 +376,7 @@ case 'B':
 
 break;
 default:
-RVjU7_3 = (int)floor(F4CksA);
+
 break;
 }
 {

@@ -25,7 +25,7 @@ int main()
     unsigned short int    Ns274Hs54;
 
   unsigned short  jx2aMg0;
-  jx2aMg0  =  945239615;
+
  long long Sw9e;
  Sw9e = 1963031578;
  unsigned short int K7eeR;
@@ -49,7 +49,7 @@ int main()
     float    qR5dYrcTJ5;
 
     unsigned long    hF4aeB39J5;
-    hF4aeB39J5    =    -1590460123;
+
  unsigned char n73M_pR;
  n73M_pR = -513283999;
     long    gcQJ3;
@@ -61,7 +61,7 @@ int main()
     short    WI0m;
 
   long long  X7UMdf_w;
-  X7UMdf_w  =  -1120267864;
+
     double    kK8_d_;
     kK8_d_    =    668634620;
   long  A1tUUNwi;
@@ -71,7 +71,7 @@ int main()
     unsigned int    jGJ7me3;
 
     long double    x5FtQb_i;
-    x5FtQb_i    =    -639490651;
+
     short int    a9zYwXYW8;
     a9zYwXYW8    =    438770500;
  double s33unjj;
@@ -93,7 +93,7 @@ int main()
   long long  dFc4S;
   dFc4S  =  334565145;
 	unsigned long	tw8efg;
-	tw8efg	=	1940762770;
+
     unsigned int    ich5;
     ich5    =    -1391609025;
  double gOlD;
@@ -109,7 +109,7 @@ int main()
   short int  zX3q2y;
   zX3q2y  =  880968253;
   unsigned long  XyyXw26f;
-  XyyXw26f  =  647835579;
+
  unsigned long long y0O1b;
 
   int  cmEO_b8;
@@ -127,7 +127,7 @@ int main()
   unsigned long  IvbDr;
 
   char  S_ZYR1;
-  S_ZYR1  =  1871820696;
+
   short int  nfnxy;
   nfnxy  =  2108606769;
  unsigned char rprU_;
@@ -145,7 +145,7 @@ int main()
     short int    m050Q_ierU;
     m050Q_ierU    =    -1197790650;
     char    nt3AI841;
-    nt3AI841    =    -1081775264;
+
     unsigned long long    tB9rtZg_g;
 
 	double	GXEhFD3C_;
@@ -155,7 +155,7 @@ int main()
  char e6VBV;
  e6VBV = -1067451778;
 	unsigned short	VToO7G;
-	VToO7G	=	-753189867;
+
 	unsigned char	h5jZ;
 
   double  iQtCH6dX89;
@@ -165,7 +165,7 @@ int main()
   unsigned char  r_1F;
   r_1F  =  -769573490;
   short int  ib7XwPIBS;
-  ib7XwPIBS  =  -192221462;
+
  int YtK86Nrc;
  YtK86Nrc = -355292581;
 	float	G38U1G07;
@@ -175,7 +175,7 @@ int main()
   long  Nby_z6Kq0;
 
     unsigned long    kv9N_FuhR4;
-    kv9N_FuhR4    =    0;
+
 
 kK8_d_ = (int)ceil(s33unjj);
 {
@@ -257,7 +257,7 @@ else
 {
 
 }
-mC69D8Et = n58Pp4Yrzb ^ N41G2z15n;
+
 
 
 {
@@ -286,7 +286,7 @@ case 2:
 
 break;
 case 3:
-Ti_69b0 -= lv13O;
+
 break;
 case 4:
 lv13O = r_1F | ym7_9_t_p;
@@ -402,7 +402,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-G63i01 &= 992413558;
+
 break;
 }
 

@@ -36,7 +36,7 @@ int main(void) {
   unsigned short  v8bR_;
   v8bR_  =  1828334507;
 	float	E2vH;
-	E2vH	=	-1156275754;
+
  char Y6vO;
 
     unsigned short    EQT_OxABG;
@@ -64,7 +64,7 @@ int main(void) {
   float  oHmf0tS;
 
  int SV3_P;
- SV3_P = -1595136535;
+
     unsigned int    raK16Jjp;
 
  unsigned long G_2yl0Ib;
@@ -74,7 +74,7 @@ int main(void) {
  char A8QPu669fD;
  A8QPu669fD = 1581072347;
     float    L_XCOGxvO0;
-    L_XCOGxvO0    =    -1349453393;
+
     unsigned long long    kA50f17p;
     kA50f17p    =    -2057226545;
  double yNaU5H;
@@ -104,7 +104,7 @@ int main(void) {
  char syV6y7nV78;
 
  unsigned long H1tP;
- H1tP = 1614063006;
+
 	unsigned short	YxS68;
 	YxS68	=	2092115350;
 	float	xRUKnwcq_;
@@ -135,7 +135,7 @@ case 0:
 
 break;
 case 1:
-Y6vO = MzLfo8rU_W(yHb5BX, 1847597054, 919266339);
+
 break;
 case 2:
 s_6k = w6nC % 321043922;
@@ -170,7 +170,7 @@ case 'b':
 v8bR_ = h9E8F(v8bR_, r7WI5h9nfD, Zt3_4tT77B, yX1xaT9F);
 break;
 case 'c':
-H1tP = HOsO1W / 1136857906;
+
 break;
 case 'd':
 
@@ -226,7 +226,7 @@ do
 {
 if (EQT_OxABG <= 581645199)
 {
-H1tP = (unsigned long)(AW1Dl9v72K);
+
 }
 --i;
 }
@@ -245,7 +245,7 @@ case 'a':
 
 break;
 case 'b':
-E2vH = (int)ceil(A122);
+
 break;
 case 'c':
 
@@ -266,7 +266,7 @@ case 'h':
 
 break;
 }
-A122 = (int)floor(pO5642h0cf);
+
 
 for (int i = 10; i >= 0; --i)
 {

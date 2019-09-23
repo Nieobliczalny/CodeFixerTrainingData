@@ -291,7 +291,7 @@ else
 
 }
 
-X9UP2nD = (float)(t8F0);
+
 
 X9UP2nD = (int)abs(K5PqU5);
 
@@ -312,7 +312,7 @@ v_ias0jk >>= Vgk45TlDA;
 }
 
 
-X9UP2nD = (int)floor(L0332);
+
 
 
 

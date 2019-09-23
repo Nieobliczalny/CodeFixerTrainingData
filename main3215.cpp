@@ -478,7 +478,7 @@ int j = 0;
 while (j < 1)
 {
 ++j;
-awbVFECh = (unsigned short)(zGF_ + (-922392453));
+
 }
 }
 }
@@ -654,7 +654,7 @@ else
 }
 else
 {
-qDY038_v_ = EQk_0f3vIG << I_zH1YzMu1;
+
 }
 }
 else if (JU02OR == cBfq4iiT)

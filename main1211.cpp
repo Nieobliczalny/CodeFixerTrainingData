@@ -63,7 +63,7 @@ int main(void)
     n9_2z90G5B    =    1138418942;
     U55yD_dVX    =    2146889871;
     ft3eMMB0GB    =    380368913;
-    KeUpjd_Q0    =    -1183618253;
+
     j7T4V    =    -2025367695;
     x3Hda2_    =    -915249302;
     V14_    =    -1135783418;
@@ -178,7 +178,7 @@ else if (U10Ue0000 == ybq13)
 {
 if ((S8g1R9uS != 847682577) || ((D2jB6) || (ApeCi3NH0 <= D2jB6)))
 {
-n9_2z90G5B &= 1474501744;
+
 }
 else
 {
@@ -294,7 +294,7 @@ case 'd':
 
 break;
 case 'e':
-U10Ue0000 = (Gp0v5K9sHp < DD04a) ? RZp2 : U55yD_dVX;
+
 break;
 case 'f':
 CjXzx = V2Ki7N();
@@ -410,7 +410,7 @@ case 3:
 O_Ki7sqVFg = V2Ki7N();
 break;
 case 4:
-gz7UISg = X92JGw(gz7UISg);
+
 break;
 case 5:
 Lx99qfjdH <<= 1538362931;

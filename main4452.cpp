@@ -148,7 +148,7 @@ case 'd':
 
 break;
 case 'e':
-vk4PTN5N = uX97sXD(-1171605150, Fu12f);
+
 break;
 case 'f':
 bROo = gMjjQW % ATK8b;
@@ -160,7 +160,7 @@ case 'h':
 K_fM %= 1378108061;
 break;
 case 'i':
-XZ_V = S__t();
+
 break;
 }
 }
@@ -547,7 +547,7 @@ case 1:
 
 break;
 case 2:
-fln2f8V3i2 += 1587436226;
+
 break;
 case 3:
 Fu12f = (int)abs(JsAt);

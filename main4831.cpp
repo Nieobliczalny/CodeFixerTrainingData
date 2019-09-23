@@ -161,7 +161,7 @@ case 'i':
 
 break;
 case 'j':
-AG9_nTDn8 ^= k98jVqH4a6;
+
 break;
 }
 }
@@ -187,7 +187,7 @@ std::cout << Bz3xK4638 << std::endl;
 
 if (IfNFW & 753507869)
 {
-hAZY = (int)floor(luao9AgSw8);
+
 }
 else
 {
@@ -331,7 +331,7 @@ case 2:
 
 break;
 case 3:
-luao9AgSw8 = (int)floor(rlwdi);
+
 break;
 case 4:
 uzt8So++;

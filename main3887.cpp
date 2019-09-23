@@ -647,7 +647,7 @@ case 'a':
 
 break;
 case 'b':
-b0W_CZQsb6 = u17f();
+
 break;
 case 'c':
 Xz49t = u17f();
@@ -711,7 +711,7 @@ if (oML8juGW > 1163202388)
 
 }
 
-JoZw5y2Pb = (Yx6_M3) ? v310BA221 : -1316020726;
+
 
 OV4OP9 = (unsigned char)(Wr4D85W__);
 

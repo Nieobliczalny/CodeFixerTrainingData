@@ -174,7 +174,7 @@ switch (c12Yo2YWH)
 {
 case 'a':
 case 'A':
-eN9H6yX = RoBS43f3b(eN9H6yX, -660755690, -77771697);
+
 break;
 case 'b':
 case 'B':
@@ -293,7 +293,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-m1U4 = (int)ceil(AZ1kkG_);
+
 break;
 case 'd':
 case 'D':
@@ -305,7 +305,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-WW8_ReVX1 = (int)floor(q9X8M2_9Rt);
+
 break;
 case 'g':
 case 'G':
@@ -317,7 +317,7 @@ case 'H':
 break;
 case 'i':
 case 'I':
-iaKi6NB2 = RoBS43f3b(-102761465, vp_a3, L4_T7W2);
+
 break;
 default:
 

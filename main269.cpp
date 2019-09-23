@@ -316,7 +316,7 @@ switch (U4Wj4_AH5)
 {
 case 'a':
 case 'A':
-qc47zt4 = (int)abs(o8UR5);
+
 break;
 case 'b':
 case 'B':
@@ -394,7 +394,7 @@ else
 
 try
 {
-h432bp = (int)floor(iL0Q);
+
 }
 catch (int& errorCode)
 {

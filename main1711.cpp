@@ -202,7 +202,7 @@ case 'j':
 pLQnN6 /= 61847387;
 break;
 default:
-f_7rr96o = (d5NYi & My9kF4) ? voEpKQX : U4F1_;
+
 break;
 }
 }
@@ -356,7 +356,7 @@ case 1:
 
 break;
 case 2:
-eJ5P700H = gBu84SWZ(1821957364);
+
 break;
 case 3:
 eJ5P700H = (int)ceil(RXHJFsllr);

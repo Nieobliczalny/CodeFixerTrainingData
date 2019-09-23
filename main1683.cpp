@@ -45,7 +45,7 @@ int main(int argc, char** argv)
  FwLQXu4G = 2025743038;
  ivrMy7fcB = 1505635473;
 
- N46ao = -2068311663;
+
  z_NgWg_kA = -304157459;
  UysjW_U = 378158722;
  xgZCIIo = -451184142;
@@ -62,7 +62,7 @@ int main(int argc, char** argv)
  v6at0 = -1225794444;
  K7E3Z5p = 1345687651;
 
- Kn_On3A = 669986991;
+
  IYfVDT = -1948695466;
  Dy15hxf5 = -890651486;
  ULCgZ4hex = -1518308209;
@@ -76,7 +76,7 @@ int main(int argc, char** argv)
  Srg81 = -80022639;
  c_Q_oFN98H = -543880555;
  nNd31DCm = -1200335844;
- If36M0O = 621903383;
+
  zIc00_sco2 = -794378903;
  G_ThW_92 = -1245175403;
  Zd7kR9e = -1973238161;
@@ -86,7 +86,7 @@ int main(int argc, char** argv)
 
  jEM1n9 = 1596358801;
  o_mP2F_7 = 2062628187;
- j8_vG0b9g = 375993600;
+
  rSy9MpbaHJ = 1285946206;
  nNIJn62GIH = -1009942896;
  u934q1aALc = 2087243089;
@@ -170,7 +170,7 @@ try
 {
 for (int k = 4; k >= 0; k--)
 {
-FwLQXu4G = (int)abs(rSy9MpbaHJ);
+
 }
 }
 catch (int& errorCode)
@@ -205,7 +205,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-Pzhs_C_g ^= z07aMv;
+
 break;
 case 'f':
 case 'F':

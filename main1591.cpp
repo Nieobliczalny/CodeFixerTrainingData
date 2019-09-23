@@ -176,7 +176,7 @@ case 'b':
 
 break;
 case 'c':
-MF084 = (int)abs(g9oI54);
+
 break;
 case 'd':
 Q1D5 &= 1750864195;
@@ -191,7 +191,7 @@ case 'g':
 ZBU1__Q2H = y4msCL(W5PL, ZBU1__Q2H, 1325731932);
 break;
 case 'h':
-dfQXM97hu &= umBH6ZE7gr;
+
 break;
 case 'i':
 

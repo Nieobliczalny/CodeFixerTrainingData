@@ -20,7 +20,7 @@ int main(void) {
  float Bf_Jc_6Px0;
  Bf_Jc_6Px0 = -525373244;
  unsigned long DnMUWfY;
- DnMUWfY = 698436900;
+
  unsigned short sW332;
  sW332 = 0;
     short int    kv9__7J;
@@ -100,7 +100,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-EmPW65 = elS_(-629875691, MS7959Q2kX, EmPW65, -457360847, 1159554776);
+
 break;
 case 'e':
 case 'E':
@@ -173,7 +173,7 @@ std::cout << elS_(yn86m, -868924658, O6Jyxid1i4, 376049376, FtvZsg9y) << std::en
 kr6zdT4Pn = (int)abs(qA87o_Ccj);
 
 qA87o_Ccj = (float)(yn86m);
-RIX9_V = qA87o_Ccj / Y3qm6T3o_L;
+
 std::cout << elS_(GeTsmic, -1060823732, -993551210, kr6zdT4Pn, 778224569) << PB4gxdN1 << elS_(GeTsmic, -861893182, -737747707, 747162248, R9_K_) << q_DMJEZm << std::endl;
 
 qA87o_Ccj = (int)ceil(kr6zdT4Pn);

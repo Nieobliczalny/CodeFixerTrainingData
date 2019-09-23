@@ -59,7 +59,7 @@ JVkEPSW5u4 = oYq_zo3d(565235411, -1484214216, hIlCrNq, NtsrVm49Hn) / Ze1sdo0;
 }
 if (V3S30sc7x == APLQ5m4)
 {
-kOrxkCJ = (long long)(ehk9);
+
 }
 
 cout << mkHe6W << N6uBEJ(-1203230094, MyFIXH0, hIlCrNq, 1769027661, -1832636157) << IxcHa() << TxnbxXLemq(OF8vD4X7) << endl;
@@ -79,7 +79,7 @@ case 3:
 
 break;
 case 4:
-LHPpodwO14 ^= 415522864;
+
 break;
 case 5:
 yw55 = IxcHa() >> tXQpB_KFT;
@@ -91,7 +91,7 @@ case 7:
 
 break;
 case 8:
-uPI56 = TxnbxXLemq(uPI56);
+
 break;
 case 9:
 JVkEPSW5u4 = peo2xve_r9 - 1863869719;

@@ -31,7 +31,7 @@ int main(void)
  Qcmj_C6VRH = 1920724617;
  Y4_wEHNk57 = 312914104;
  V3MsI = 1880022118;
- eS6X87 = -1738571896;
+
  OC7P_i5u = -749782374;
 
  SQy9 = -2123533588;
@@ -41,7 +41,7 @@ int main(void)
  GG3kYsP = 1775999088;
  UjmC = -1406246111;
  p_tFN2WtA5 = -1346321391;
- b6w3_3 = 1882525006;
+
  P0eKTw0f = 2031521904;
 
  d37sH5CCX = -1159204772;
@@ -51,7 +51,7 @@ int main(void)
  ye32 = -758901127;
  c1ou262Em = -1081446219;
  wXq9jlH = -2133863958;
- fFWvHFsI = -2029354121;
+
  qDwuPG_90R = -1616177764;
 
  Nl4KWJE = -1655647071;
@@ -61,7 +61,7 @@ int main(void)
  N8ZJXAk_ = -776390439;
  jG_E60 = 670614779;
  y3_u0 = 1053996125;
- LZ3OWdT = -2104601911;
+
  d0_W2l3u = -1901169853;
 
  ib4M9 = -1423737733;
@@ -72,7 +72,7 @@ int main(void)
  LOwRJ9ru = 1193035481;
  iDvH4J = 423667440;
  Ypp5B = 714181614;
- hr1tn887 = -1214328851;
+
 
  k4caD_m = 237225099;
  P2a0h8d = -1553349671;
@@ -82,7 +82,7 @@ int main(void)
  s168_lIA2 = 771220334;
  GDb8gjA = 651464347;
  w91sJA23 = 1267324621;
- GUCn = 1430730368;
+
  Akm0pI = -27739667;
 
  KDglL5zj = -927856923;
@@ -92,7 +92,7 @@ int main(void)
  nya3SZ = 1326241054;
  SpXVHMx = 366123681;
  Wez2146 = 1691526678;
- C4ua = -887308079;
+
  DkW_37l1K7 = -1571758987;
 
  UTufsy7 = 608877699;
@@ -103,7 +103,7 @@ int main(void)
  OUT2ob7L9 = 1394826180;
 
 cout << pzo7(-1274305869, -1331094696, Qcmj_C6VRH, 1166318212, -629642429) << "ziz8B5y" << vhs1(xHoJPngKW, dpiZl_0s6, -885527081, Y4_wEHNk57, V3MsI) << oGzLUQ42(881779771) << endl;
-dpiZl_0s6 = OUT2ob7L9 / DlY3W;
+
 
 switch (Akm0pI)
 {
@@ -122,7 +122,7 @@ case 0:
 
 break;
 case 1:
-eS6X87 = oGzLUQ42(632936402);
+
 break;
 case 2:
 
@@ -134,7 +134,7 @@ case 4:
 
 break;
 case 5:
-Ru9w = oGzLUQ42(Ru9w);
+
 break;
 default:
 

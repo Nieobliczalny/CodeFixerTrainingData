@@ -34,7 +34,7 @@ int main(void) {
   hD3tt8HlXs  =  836016804;
 
   Ub2Hg3F  =  882219826;
-  J2q3Z_2jF  =  746482771;
+
   A80yKA  =  109356012;
   zMWL_3To9  =  -1326928848;
   pl63TLv_q  =  1877279001;
@@ -51,7 +51,7 @@ int main(void) {
 
   w4y5V  =  -263320226;
 
-  ahG4N2r  =  -1459178581;
+
   aDbp  =  9670486;
   C1n740I_  =  474741575;
   K23Pk92  =  -324331171;
@@ -65,7 +65,7 @@ int main(void) {
 
   UOSwy1_t  =  -597593620;
   int  LI2_s8,  nO_GK;
-  LI2_s8  =  0;
+
   nO_GK  =  0;
 
 for (int i = 1; i >= 0; --i)
@@ -115,7 +115,7 @@ case 1:
 
 break;
 case 2:
-aHkGs0E = YfS2(1425515004, QpkwpR);
+
 break;
 case 3:
 LI2_s8 = (int)abs(nO_GK);
@@ -195,7 +195,7 @@ case 5:
 
 break;
 case 6:
-aDbp = l0x4c2P1(aDbp, 2034802189, zMWL_3To9);
+
 break;
 case 7:
 LI2_s8 = SxKh(-808391723, K23Pk92);
@@ -284,7 +284,7 @@ if (Y5Dx2IHt >= Bv060)
 }
 
 
-hD3tt8HlXs %= aDbp;
+
 
 return 0;
 }

@@ -436,7 +436,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-rtmen ^= 955835481;
+
 break;
 }
 
@@ -448,7 +448,7 @@ break;
 }
 
 
-Hn_1t = (unsigned long)(YN11i);
+
 
 switch (m_689R3Nt)
 {
@@ -462,7 +462,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-iku96yZm8Q = G_kq2mjp(Fk96B_13, 514931212, 743876605);
+
 break;
 case 'd':
 case 'D':
@@ -482,7 +482,7 @@ case 'G':
 break;
 case 'h':
 case 'H':
-VSHvEo25y /= Wg4BR;
+
 break;
 case 'i':
 case 'I':

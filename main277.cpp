@@ -158,7 +158,7 @@ case 'b':
 
 break;
 default:
-yoJJk8 = netd7();
+
 break;
 }
 
@@ -187,7 +187,7 @@ case 'c':
 
 break;
 case 'd':
-aZ1FotF7 = netd7();
+
 break;
 case 'e':
 K5n6 = d8HN | jdR6;
@@ -274,7 +274,7 @@ case 1:
 
 break;
 case 2:
-yoJJk8 = (int)floor(w7BIB);
+
 break;
 case 3:
 YR5W >>= 197592939;
@@ -286,7 +286,7 @@ case 5:
 
 break;
 case 6:
-qfv_pQ_ = netd7();
+
 break;
 case 7:
 HWJSpV27 = Hy4F1x8f();

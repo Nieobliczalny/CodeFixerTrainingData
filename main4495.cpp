@@ -232,7 +232,7 @@ JLmiA_uqGc ^= ya_90;
 }
 oU44 = q82Oi & ya_90;
 
-Dw6qlz2 = (int)abs(HJU9) + (-592504080);
+
 
 switch (ZMhaQ2)
 {
@@ -266,7 +266,7 @@ if (WHC3m1Q2rt(-264246698) == 0)
 JLmiA_uqGc = RU09(pQ_n, zfb1FX) | 1414984191;
 
 
-HJU9 = (int)(Xa_gb1F * HJU9);
+
 
 switch (JLmiA_uqGc)
 {

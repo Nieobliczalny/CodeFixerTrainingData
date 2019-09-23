@@ -79,7 +79,7 @@ int main(int argc, char** argv)
  unsigned char LOe_sYm;
  LOe_sYm = 1300809121;
     unsigned char    Fj3823;
-    Fj3823    =    -393932890;
+
   long double  vl3lBN9Cz;
   vl3lBN9Cz  =  1332936612;
 	unsigned long	O6IJZ;

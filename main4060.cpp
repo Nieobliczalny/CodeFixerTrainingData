@@ -472,7 +472,7 @@ case 'c':
 
 break;
 case 'd':
-En3t082j = wg2Nm(En3t082j, -1631856515, 1170792306, -1453371129);
+
 break;
 case 'e':
 

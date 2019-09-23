@@ -176,7 +176,7 @@ case 'b':
 exABkr /= 1633769582;
 break;
 case 'c':
-mnxS4F8_W = mnxS4F8_W - 1530386803;
+
 break;
 case 'd':
 SHs9q = S07DCCg_9(SHs9q, -1781141056, Qtp5se, -1969883027);
@@ -209,7 +209,7 @@ cout << "H20nCDC5_" << "MSy984z" << rxm2n3Q5v8(-1042635424, 2128662562) << endl;
 cout << rxm2n3Q5v8(185438796, -484966317) << S07DCCg_9(-1641359296, -1019490617, 499759126, k2oZ8KLl22) << ccLp1b5 << endl;
 for (int i = 5; i >= 0; i--)
 {
-mnxS4F8_W = (double)(Qtp5se);
+
 }
 kxQv = (int)floor(EdO9);
 if ((de46) && (EkZKKkr & 1759981234))
@@ -236,7 +236,7 @@ case 'c':
 EdO9 = rxm2n3Q5v8(-636504521, eCA0);
 break;
 case 'd':
-wbPd8PN = rxm2n3Q5v8(-2108469145, k2oZ8KLl22);
+
 break;
 case 'e':
 
@@ -260,7 +260,7 @@ else if (((Mn1K7 <= -883925575) && (y9Nrg5_W > -502564186)) && (de46 >= -1464292
 }
 else
 {
-SHs9q = S07DCCg_9(-1458811004, kxQv, Mn1K7, 1267400098);
+
 }
 return 0;
 }

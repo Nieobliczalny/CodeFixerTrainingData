@@ -820,7 +820,7 @@ Fl9jlf8D_ /= FYj0THa0;
 break;
 case 'c':
 case 'C':
-z0snCHV = i0_QTe0gtP(-301701191, 757000557);
+
 break;
 case 'd':
 case 'D':
@@ -867,7 +867,7 @@ else if (D7_l17Eb <= lA241c)
 }
 else if (Fl9jlf8D_ < z0snCHV)
 {
-z0snCHV -= KCNw0_GFf0;
+
 }
 else
 {

@@ -38,7 +38,7 @@ int main(int argc, char** argv)
     du77_2    =    1875243346;
     J9aYlPT    =    -1611052697;
     xw_JM8    =    1368399150;
-    EwOBM_b3    =    1029081197;
+
     IaNycpj_5    =    -1764981433;
     w3DQ8Iil7C    =    2035827806;
     W5966yzogM    =    -291872907;
@@ -51,7 +51,7 @@ int main(int argc, char** argv)
     vIp_jYtku    =    -1271616519;
     i1q1bL6Dh    =    597472200;
     fHJ2k    =    810168424;
-    DM0d0f3e    =    -48087578;
+
     M_MU87    =    -421289978;
     OW_M    =    -1320777993;
 
@@ -62,7 +62,7 @@ int main(int argc, char** argv)
     rSGxt9K    =    -244695241;
     w598usL    =    -1965675284;
     BFUnU22X    =    -1118414983;
-    M_4mPis    =    -1365410678;
+
     xK12t    =    -61457249;
     S0qd    =    -1814710457;
     CSjtnfI    =    1817693258;
@@ -78,7 +78,7 @@ int main(int argc, char** argv)
     EMxE9unt    =    -666743060;
 
     G7zF_bCr4    =    1240071327;
-    mZIm586    =    -1391778851;
+
     HbbVm3o    =    -363452487;
     BHpE58_H    =    -702933513;
     F6d5QTPa    =    -993109802;
@@ -202,7 +202,7 @@ try
 switch (ivm1K1p)
 {
 case 'a':
-S0qd = U9M30AEC42(-439141461, -1775334843, J9aYlPT, 2051950357);
+
 break;
 default:
 xw_JM8--;
@@ -223,7 +223,7 @@ case 'b':
 
 break;
 case 'c':
-h92I_C %= i_1Km6YT;
+
 break;
 case 'd':
 w598usL -= m53S_Jx;
@@ -238,7 +238,7 @@ default:
 
 break;
 }
-fQ867 = DQ2f_ / ivm1K1p;
+
 
 switch (m53S_Jx)
 {
@@ -252,7 +252,7 @@ case 2:
 
 break;
 case 3:
-EMxE9unt %= 1583369090;
+
 break;
 case 4:
 
@@ -294,7 +294,7 @@ case 1:
 
 break;
 case 2:
-d6wQ %= xK12t;
+
 break;
 }
 fHJ2k = (unsigned char)(y96cSQ);

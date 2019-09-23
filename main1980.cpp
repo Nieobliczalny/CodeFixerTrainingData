@@ -158,7 +158,7 @@ DWxH83Bv ^= 604874209;
 }
 else if ((Vd02) && ((onRyD == O_R34ZyEW_) && (LN893QT == oy9N6a)))
 {
-K1zH1cv *= 588671734;
+
 }
 else
 {
@@ -337,7 +337,7 @@ case 1:
 
 break;
 default:
-DWxH83Bv <<= 474248702;
+
 break;
 }
 }
@@ -355,7 +355,7 @@ case 'c':
 WqN67pX = (int)ceil(g6OOr2_c);
 break;
 case 'd':
-p2omo9 = (int)ceil(g6OOr2_c);
+
 break;
 case 'e':
 

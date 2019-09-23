@@ -24,7 +24,7 @@ int main() {
 
 
 	rL11r0v__1	=	210526646;
-	WhyZz6N	=	1292000676;
+
 	P8_Z1f	=	1036218139;
 	rj2Kcn3TmB	=	-1470433866;
 	o44q	=	-2108306553;
@@ -35,7 +35,7 @@ int main() {
 	TD_mr	=	398651038;
 	mxuR7E2_	=	542476389;
 
-	GZ2Lzii74	=	-26585641;
+
 	se04zG23	=	1785361740;
 
 	y297	=	309951035;
@@ -53,7 +53,7 @@ int main() {
 	W3n5k9l	=	1242207757;
 	tZz0c	=	-1577176613;
 	BMJ2awTc	=	165641209;
-	EfZy	=	-1018212074;
+
 
 	ZNph	=	31325383;
 	K53Ay	=	-550999226;
@@ -63,7 +63,7 @@ int main() {
 	A448T465kC	=	1196718634;
 	uwaqEf	=	-692686036;
 	iuSO_5f	=	1138082770;
-	P938T9PQf	=	-1511568546;
+
 
 	xVfcoqbA	=	1258206731;
 	W_119yV_D	=	1336700247;
@@ -74,7 +74,7 @@ int main() {
 	Y0_NV1vk0R	=	1689147548;
 
 	KLH1Mx_	=	221589011;
-	qm70Sx2bmR	=	-1980832308;
+
 	JuMA7	=	1671904270;
 	V7Myvj	=	-425201627;
 
@@ -86,7 +86,7 @@ int main() {
 	L1K3	=	-1638209584;
 	O3AD7JP	=	-1736681044;
 
-	kE6ec	=	-1790640675;
+
 
 	L4_1xf	=	1697928834;
 	Q_jA432f	=	154626982;
@@ -99,7 +99,7 @@ int main() {
 
 
 	Z1815fh	=	1749068533;
-	YSkC	=	1895560571;
+
 	vum_2	=	1736982347;
 	C3R_96__n1	=	-983075867;
 	bRwN7UZSw2	=	392274433;
@@ -109,7 +109,7 @@ int main() {
 
 	Nb99HqrR	=	-1812657666;
 
-	MYyVxfN	=	-702605116;
+
 	LWzb2x8	=	1651292925;
 	hFhv8X	=	-1248413694;
 	k5U_b	=	34626952;
@@ -119,7 +119,7 @@ if (mxuR7E2_ >= N_Xhd15yM)
 
 }
 
-O_27zxL = kQEkj8L9(O_27zxL, 1702728600, c1mng);
+
 {
 int i = 6;
 while (i >= 0)
@@ -193,7 +193,7 @@ case 'e':
 se04zG23 = (c1mng != -825886016) ? KLH1Mx_ : P8_Z1f;
 break;
 default:
-WhyZz6N = BMJ2awTc - MPcL0fnceD;
+
 break;
 }
 
@@ -216,7 +216,7 @@ case 'b':
 
 break;
 case 'c':
-slqb518 = JF85tZKrW(1227891429, C3R_96__n1, 2096770873, -1751338077, 1965744108);
+
 break;
 case 'd':
 k5U_b = BMJ2awTc & 94126019;
@@ -231,7 +231,7 @@ case 'g':
 
 break;
 case 'h':
-mbOrEDj25 = IU241_oyA5(VyVQR);
+
 break;
 case 'i':
 W3n5k9l *= wT3KX3vmp;
@@ -295,7 +295,7 @@ case 1:
 
 break;
 case 2:
-JI6q4 = kQEkj8L9(JI6q4, -1129958556, bW58);
+
 break;
 case 3:
 qm70Sx2bmR = zDONkfwF_ | 1738528464;
@@ -307,7 +307,7 @@ case 5:
 
 break;
 case 6:
-bW58 /= 1295487331;
+
 break;
 case 7:
 zDONkfwF_ = IU241_oyA5(-926283344);

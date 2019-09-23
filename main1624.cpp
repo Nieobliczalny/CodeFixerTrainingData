@@ -21,7 +21,7 @@ int main()
  int Tow_0JbpM;
  Tow_0JbpM = 362229983;
 	long	fAdk99r;
-	fAdk99r	=	2095057632;
+
 	unsigned int	Jl867D2Ixs;
 	Jl867D2Ixs	=	1037255786;
 	long	vuw3Cya4;
@@ -31,7 +31,7 @@ int main()
   char  XtJp;
 
     unsigned long    u4rV;
-    u4rV    =    518841219;
+
   long long  W_ta;
   W_ta  =  -60662653;
   unsigned int  bAfmS7;
@@ -49,7 +49,7 @@ int main()
     unsigned char    JLOV_ob;
     JLOV_ob    =    -1292663256;
   unsigned short  kfXIVBf7Ea;
-  kfXIVBf7Ea  =  0;
+
   unsigned long long  do5EmVWoq;
 
     char    ht_VX9;
@@ -59,7 +59,7 @@ int main()
  char y94yY;
 
 	unsigned short int	JSMeU73Yw;
-	JSMeU73Yw	=	-1783406512;
+
  short int z37m9Gw;
  z37m9Gw = -626923119;
     long    MWOa3ROW;
@@ -75,7 +75,7 @@ int main()
   unsigned char  NE6S0M__;
 
  double hAsFuVfo58;
- hAsFuVfo58 = 839942201;
+
 	unsigned int	Sdwk_Yq4cp;
 	Sdwk_Yq4cp	=	195732121;
     unsigned int    Q9F14xh4q;
@@ -91,7 +91,7 @@ int main()
 	unsigned long long	k3yYJRgvp;
 	k3yYJRgvp	=	-46273303;
     long double    t1V777zI5;
-    t1V777zI5    =    -1929993212;
+
 	unsigned short int	GC0m6AA99;
 
  int MsP9P;
@@ -113,7 +113,7 @@ int main()
 	long double	D8y5A5egt;
 	D8y5A5egt	=	-1924955770;
     long    iA2TV0g727;
-    iA2TV0g727    =    -643591688;
+
  unsigned char uN5vnSi2s;
  uN5vnSi2s = 0;
   unsigned short int  mBiTh_;
@@ -125,7 +125,7 @@ int main()
     double    PCuMk;
     PCuMk    =    -1994597399;
  short int Y8jeXq;
- Y8jeXq = 1059707606;
+
 	unsigned long	SIHy0_O;
 	SIHy0_O	=	-182527383;
     long long    VKIp;
@@ -135,7 +135,7 @@ int main()
     unsigned long    lY64;
 
  unsigned long long MI36X_81;
- MI36X_81 = -1712576093;
+
  long double Nqik685;
  Nqik685 = -1873053546;
   unsigned int  nn9A0gmHpp;
@@ -147,7 +147,7 @@ int main()
 	unsigned long long	DiSU1s;
 	DiSU1s	=	-437980306;
 	long double	ICE_a4_w;
-	ICE_a4_w	=	33952737;
+
   unsigned long long  i_nGntV;
 
   char  Ic1Qx56;
@@ -157,7 +157,7 @@ int main()
   int  AB94L;
   AB94L  =  -1630254784;
 	int	XV_0;
-	XV_0	=	0;
+
   long double  qfGl;
   qfGl  =  197819640;
 	int	Yjrvp31N5;
@@ -177,7 +177,7 @@ int main()
     short    Na3mVSY3;
     Na3mVSY3    =    -1512700868;
     long    Q7pLuK;
-    Q7pLuK    =    -1186706210;
+
 
 if (bAfmS7 >= 1262453368)
 {
@@ -260,7 +260,7 @@ case 1:
 
 break;
 case 2:
-Q9F14xh4q ^= ChEWhod94;
+
 break;
 case 3:
 q_qQ2m = (int)ceil(Sb4009Qje);
@@ -275,7 +275,7 @@ case 6:
 
 break;
 case 7:
-YdX7 |= I696___;
+
 break;
 case 8:
 OlEIM = vuw3Cya4 % HOmSVlhyX;
@@ -290,7 +290,7 @@ break;
 
 cout << fBrI2UM << sGiOXY16 << endl;
 cout << SIHy0_O / uN5vnSi2s << endl;
-k3yYJRgvp |= 185641863;
+
 
 try
 {
@@ -317,7 +317,7 @@ if (A8YxsUzv0)
 
 }
 
-AQsk = (int)ceil(D8y5A5egt);
+
 return 0;
 }
 

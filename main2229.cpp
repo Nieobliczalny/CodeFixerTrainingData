@@ -72,7 +72,7 @@ int main(int argc, char** argv)
   h1_w  =  1056883703;
   J38gp  =  1945597329;
 
-  gnTD  =  1887731834;
+
   n2tu9m  =  1185960501;
 
   qY5u  =  1698040863;
@@ -125,7 +125,7 @@ qgCZM1 >>= 1330040930;
 break;
 case 'b':
 case 'B':
-gnTD = r58_57J7 & 670677027;
+
 break;
 case 'c':
 case 'C':
@@ -141,7 +141,7 @@ x68h = qgCZM1 - qgCZM1;
 break;
 case 'f':
 case 'F':
-gnTD = (int)abs(m34eX);
+
 break;
 case 'g':
 case 'G':
@@ -311,7 +311,7 @@ case 'b':
 
 break;
 case 'c':
-z05d4W = MkG5mp(2107246764);
+
 break;
 case 'd':
 qY5u = (int)abs(l8AYKkn);
@@ -391,7 +391,7 @@ case 'e':
 Kh6i9 = (int)abs(rGl_NT_O7) * 0;
 break;
 case 'f':
-t6XO6_L_ >>= 351159287;
+
 break;
 case 'g':
 b0r94il6_ = (int)abs(Z172fs6g) + (372491996);
@@ -410,7 +410,7 @@ if ((Kh6i9 >= t6xgVH2) || (x68h == i_Er9o))
 }
 else if (ifn2J_w)
 {
-Z172fs6g = (int)abs(m34eX) * 0;
+
 }
 else if (b0r94il6_ < 886805607)
 {
@@ -555,7 +555,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-Z172fs6g = MkG5mp(696231225);
+
 break;
 default:
 

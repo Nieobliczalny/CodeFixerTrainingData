@@ -142,7 +142,7 @@ else if (((cy72 > 351623351) && (g4eg_43K6 != 1885167128)) || (JdsXP != g4eg_43K
 }
 else if (cy72 & -1305996799)
 {
-C_I_cja = (int)abs(haeD_4);
+
 }
 else if (qJ7vFVyR6A > zz94fC)
 {
@@ -211,7 +211,7 @@ case 'd':
 WuhBnheKlP = Xl6b(-646917548, -1978481357);
 break;
 case 'e':
-cy72 = Xl6b(QrIWzP4_, -2044220396);
+
 break;
 }
 if (vN83d >= -298592532)

@@ -21,7 +21,7 @@ int main() {
     unsigned short    sBSSgdr;
 
 	unsigned long long	S1fh;
-	S1fh	=	-851510957;
+
   long double  u66Uc836;
   u66Uc836  =  -797309194;
   unsigned short int  Zj0P1pSr;
@@ -33,7 +33,7 @@ int main() {
  long long A0g6k0h;
 
     short    N9ng4_x;
-    N9ng4_x    =    634019150;
+
  char nINvVJ;
  nINvVJ = 708119849;
     unsigned long long    I4CqU;
@@ -47,7 +47,7 @@ int main() {
     unsigned long    J3B354o;
 
 	unsigned short int	CJR1F211;
-	CJR1F211	=	-984446483;
+
 	unsigned char	FErwnJ;
 	FErwnJ	=	0;
     unsigned long    s1YJY;
@@ -59,7 +59,7 @@ int main() {
  long rEjjRxQ217;
 
 	unsigned int	fDiGJPnjQ;
-	fDiGJPnjQ	=	342056071;
+
 	short	GGrX;
 	GGrX	=	2081776880;
  float Ux3H5e_;
@@ -75,7 +75,7 @@ int main() {
 	char	sV49;
 
 	float	t386bq25;
-	t386bq25	=	625664381;
+
 	int	Qz7Pc;
 	Qz7Pc	=	1891919279;
   short  R2UM_V0776;
@@ -87,7 +87,7 @@ int main() {
   long long  dIMay5Yk__;
 
   short  oBZS4;
-  oBZS4  =  221686433;
+
   float  NKt1M;
 
   char  Q8ofQf30e0;
@@ -97,7 +97,7 @@ int main() {
 	unsigned short int	dvm169EJ6;
 
  unsigned short MLhrltu9U;
- MLhrltu9U = 2104198650;
+
  int mS08o8OpC;
 
 	unsigned long long	FFIY_0;
@@ -107,7 +107,7 @@ int main() {
     unsigned short int    mmY57p3i5;
 
     short int    w0qGI6;
-    w0qGI6    =    1858139607;
+
   unsigned char  X7826oeQ55;
 
     short int    A9aA5;
@@ -117,7 +117,7 @@ int main() {
     unsigned short    ZPq8H1z;
 
   unsigned long  N63R2xy;
-  N63R2xy  =  701874027;
+
 	unsigned long	Ga3h209;
 
   long double  z3HfDWR0wP;
@@ -127,7 +127,7 @@ int main() {
     long long    XaG67h2TQh;
 
     short    C530YM_TJ;
-    C530YM_TJ    =    -1182536218;
+
   unsigned char  Ddb14oXbE0;
 
   double  ieO9k;
@@ -141,7 +141,7 @@ int main() {
   unsigned int  StLU4GqG_H;
 
     long double    hhNrS5;
-    hhNrS5    =    865247922;
+
   char  vklSUs;
   vklSUs  =  2125365173;
   int  gTKE2Y7z8;
@@ -151,7 +151,7 @@ int main() {
     short    UH3MADq;
 
     unsigned short    UFmlV32;
-    UFmlV32    =    -739256787;
+
   unsigned int  TW0e6K;
   TW0e6K  =  -136550116;
   int  yx_f5V;
@@ -161,7 +161,7 @@ int main() {
   unsigned short int  h3UID;
 
     unsigned long long    tD_C9a;
-    tD_C9a    =    1045329100;
+
 
 w9LtgMI8 *= FFIY_0;
 cout << "H_06F4LA" << rEN_Lrd79 << HIX8tka4 << "o66GbzHtZ" << "d843449" << endl;
@@ -179,7 +179,7 @@ case 2:
 
 break;
 case 3:
-sV49 = (int)abs(GGrX);
+
 break;
 }
 switch (Ttm2wMCU)

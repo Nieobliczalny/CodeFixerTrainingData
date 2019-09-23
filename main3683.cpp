@@ -494,7 +494,7 @@ case 'f':
 RJM7R9--;
 break;
 default:
-hW3qJ_ &= 1484873540;
+
 break;
 }
 for (int i = 0; i < 6; i++)

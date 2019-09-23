@@ -47,7 +47,7 @@ int main(void) {
   double  vmYBXz07P0;
 
  long double qLes2k95U8;
- qLes2k95U8 = 157927274;
+
     long long    VW1MPjp;
     VW1MPjp    =    -770389674;
 	unsigned short	p27w;

@@ -129,7 +129,7 @@ if (Uoh4X >= VHi_6e24)
 {
 if (uK2K29Q)
 {
-Vm_0Sv_n7Q = Y8UO / 1222160711;
+
 }
 }
 }
@@ -194,7 +194,7 @@ else
 int j = 5;
 do
 {
-OURxXH = (int)abs(K__drqI) + (173630404);
+
 --j;
 }
 while (j >= 0);
@@ -235,7 +235,7 @@ case 'b':
 
 break;
 case 'c':
-p_XB1y_I = (int)ceil(LlS1P);
+
 break;
 case 'd':
 A43_ |= 870576846;
@@ -247,7 +247,7 @@ case 'f':
 
 break;
 case 'g':
-h8JthZYv = (int)ceil(LlS1P);
+
 break;
 case 'h':
 h8JthZYv = (int)ceil(NJ5qLLjj);
@@ -280,7 +280,7 @@ case 1:
 
 break;
 default:
-ye345 >>= 1971354252;
+
 break;
 }
 return 0;

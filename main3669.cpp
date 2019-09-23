@@ -166,7 +166,7 @@ q_9pc9EK = (short)(oWQJ);
 X46KB3S7 = Ii4Y_FOm5 & PG32w6A;
 std::cout << bi68 << std::endl;
 
-mmY30s_bf = (int)floor(gtZLW50);
+
 for (int i = 10; i >= 0; --i)
 {
 if (jT97 > 1690583472)
@@ -229,7 +229,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-oWQJ = V0UC7m3 << 2117851043;
+
 break;
 case 'e':
 case 'E':
@@ -259,7 +259,7 @@ else
 }
 else if (f_b35_4_v >= 1010800442)
 {
-RLI_p58HRx = (double)(PG32w6A);
+
 }
 else if (j4gTYhJ != -623555102)
 {
@@ -337,7 +337,7 @@ case 2:
 yVJ_8Xl9l_ *= 239319200;
 break;
 case 3:
-g33Yx5oa = (int)abs(Gu6bR509);
+
 break;
 case 4:
 RLI_p58HRx = (int)abs(MXoLjdCDf);
@@ -409,7 +409,7 @@ un3sOXGXjV = X46KB3S7 >> 1564519446;
 
 oWQJ = (f_b35_4_v >= PlX8yN) ? h0A0Oe2o : Y8A_;
 
-RLI_p58HRx = (int)floor(AJ3xWv4B);
+
 {
 int i = 0;
 do
@@ -608,7 +608,7 @@ case 1:
 
 break;
 case 2:
-Jv1HUz51H += 489603855;
+
 break;
 case 3:
 m5eu0W = Y8A_ & 1625938263;

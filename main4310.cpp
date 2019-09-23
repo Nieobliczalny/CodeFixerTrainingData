@@ -444,7 +444,7 @@ pZ3a33I ^= 1934264797;
 break;
 case 'g':
 case 'G':
-G__F = L99k(-1754796725);
+
 break;
 case 'h':
 case 'H':
@@ -529,7 +529,7 @@ JTa6lo_ /= kanNr;
 break;
 case 'c':
 case 'C':
-G__F = L99k(-652152907);
+
 break;
 case 'd':
 case 'D':

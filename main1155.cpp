@@ -58,7 +58,7 @@ int main(int argc, char** argv) {
  unsigned short int F5YFu;
  F5YFu = 1415889669;
 	float	Nq8eCO238;
-	Nq8eCO238	=	-1819141960;
+
   int  Cljr_6;
   Cljr_6  =  -31778005;
 	unsigned char	VNqF5gF;
@@ -192,7 +192,7 @@ int main(int argc, char** argv) {
     char    fnn26APA;
     fnn26APA    =    -508294826;
 	unsigned long long	LEPO6Zs;
-	LEPO6Zs	=	-938072932;
+
 	unsigned int	f851FH;
 	f851FH	=	201288896;
   long  eXUh_2E4Z_;
@@ -404,7 +404,7 @@ do
 --i;
 try
 {
-aY5AK2kd = usVRhDDaY_ * 481058522;
+
 }
 catch (int& errorCode)
 {
@@ -722,7 +722,7 @@ case 'a':
 fnn26APA |= 520095600;
 break;
 case 'b':
-F5YFu /= 1517446411;
+
 break;
 }
 if (fnn26APA > A8Wh)
@@ -752,7 +752,7 @@ case 2:
 x29KkCg2 = (int)floor(Nq8eCO238);
 break;
 case 3:
-l70Y4f29_a = (int)ceil(A8OEgq_Rt);
+
 break;
 case 4:
 f851FH &= DOjd9o3;
@@ -838,7 +838,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-Cljr_6 = oAu_B & 1396294875;
+
 break;
 case 'd':
 case 'D':
@@ -850,7 +850,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-tW6D474 = (int)abs(vGfD8FKe);
+
 break;
 case 'g':
 case 'G':
@@ -884,7 +884,7 @@ case 3:
 DOjd9o3--;
 break;
 case 4:
-tW6D474 = (int)ceil(Sn2r44a6);
+
 break;
 case 5:
 

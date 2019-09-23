@@ -46,7 +46,7 @@ else if (J14Ra93 != 1689573933)
 {
 if (((U6q7ytR8 <= LJQ5) || (KOsL_8kD == Lo_AE3_7)) && (Su95PrP >= -1062106126))
 {
-IPmCb = J8s9IIG >> Qt672WiFM1;
+
 }
 else
 {
@@ -80,7 +80,7 @@ Y9e5 = rKA42t1q(-1198709588, -557979694);
 }
 else
 {
-EUF8ST1 = y9s90b_qCM | 293643782;
+
 }
 }
 }

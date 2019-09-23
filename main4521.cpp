@@ -373,7 +373,7 @@ case 2:
 eofb9Ks = S7TBP9 - paVJ;
 break;
 case 3:
-B8yQ783 = (int)floor(GWk568);
+
 break;
 case 4:
 r0b6PPO = m4BN8Q__V & 2127053871;

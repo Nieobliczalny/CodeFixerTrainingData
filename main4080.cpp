@@ -125,7 +125,7 @@ else
 Udu_xU = (unsigned long long)(c5Ji2h1);
 }
 }
-K69lZfY = K69lZfY + fI_0;
+
 
 if (ukGkt_H7 > 647933741)
 {
@@ -141,7 +141,7 @@ else if (Udu_xU <= sEMwz2)
 }
 else if (((Udu_xU) && (ekOHcD >= T48hXR4)) || (IK4O2P < 314885195))
 {
-sEMwz2 <<= 673099170;
+
 }
 else if (YEyiXFEcdD & -151146963)
 {
@@ -168,7 +168,7 @@ case 0:
 
 break;
 case 1:
-AgSV = L_877(AgSV);
+
 break;
 case 2:
 Udu_xU--;

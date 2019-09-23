@@ -100,7 +100,7 @@ int main(void)
 	short int	yaBD;
 
   long long  L_EGXZTd;
-  L_EGXZTd  =  1049911704;
+
     short    q67_Vg2;
     q67_Vg2    =    -1190016364;
  int dH5D;

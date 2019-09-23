@@ -239,7 +239,7 @@ case 'a':
 TR1d_4_1s -= 1392543373;
 break;
 case 'b':
-JZu1V0D6e = (int)abs(s_lpU);
+
 break;
 case 'c':
 
@@ -331,7 +331,7 @@ while (j >= 0);
 }
 
 
-QUj85 = N19OYW3 / mS9_x;
+
 
 return 0;
 }

@@ -23,7 +23,7 @@ char	D5tM1klPo2()	{
 
 int main() {
     short    OWG8_QSmy,    DH6oo,    l37W,    IKZEw9DjFf;
-    OWG8_QSmy    =    0;
+
     DH6oo    =    0;
     l37W    =    0;
     IKZEw9DjFf    =    0;
@@ -33,7 +33,7 @@ int main() {
 
   j2TP0Rm45  =  1714472464;
   Mn34yW_ZD  =  -398531910;
-  s_q838  =  892606334;
+
   c8D94  =  191227869;
   nR0B7U776f  =  838617281;
   wXBD6  =  574491435;
@@ -43,7 +43,7 @@ int main() {
   w9d21e  =  109670317;
 
   MlMe_rtW  =  1410567461;
-  WTfE5  =  -1691221683;
+
   vCda5  =  1660668544;
   lyaxyIzc  =  -980282071;
   g7f2hI6  =  1847121377;
@@ -55,7 +55,7 @@ int main() {
 
   adpez35  =  -1925642512;
 
-  avVTX  =  -1360530993;
+
   H479LK  =  -93959652;
   py_rxx90TQ  =  2032921417;
   BxTsy91  =  572578379;
@@ -65,7 +65,7 @@ int main() {
 
   kMwvUJ  =  677676107;
 
-  ag7Tz4  =  -595265368;
+
   G_G8333riB  =  -166371372;
   ZAvC0t51  =  1864859023;
   x3TIMT7  =  -163515395;
@@ -75,7 +75,7 @@ int main() {
 
   NyrSTfR2  =  -351903147;
 
-  WEF8kG  =  1846659415;
+
   NPT35Bhgyu  =  -583371601;
   RVN2do9bR6  =  -1705829273;
   j2b_23mO32  =  -1417295985;
@@ -85,7 +85,7 @@ int main() {
 
   zPxH797  =  -1307800608;
 
-  a4wa35  =  1502004566;
+
   QyT78  =  1417965724;
   zsgR76sM70  =  2104438734;
   S40ZR  =  -1944413676;
@@ -98,7 +98,7 @@ int main() {
   idbKUu  =  901467461;
   FuZZ  =  -402729038;
   j1trT78  =  -237474613;
-  I68S5_K675  =  -1498181741;
+
   j924nd4J8  =  132038902;
   ULVvCsSk  =  -469645287;
   GEGb_QG35P  =  -99076219;
@@ -109,7 +109,7 @@ int main() {
 
   oYc1Awy7  =  1637675230;
   m6KT  =  -379424755;
-  a95c_9IO_K  =  -425227760;
+
   R3196GH_  =  1948183595;
   g4MyKonh35  =  797374441;
   Q6huPo  =  510991506;
@@ -119,7 +119,7 @@ int main() {
   x_v1t4h  =  110394332;
 
 
-R9g_ = (int)(wQOp_3);
+
 
 DH6oo = D5tM1klPo2();
 if ((RVN2do9bR6 != F3b0Q2) && (m6KT))
@@ -142,7 +142,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-OWG8_QSmy = D5tM1klPo2();
+
 break;
 case 'e':
 case 'E':
@@ -190,7 +190,7 @@ for (int j = 0; j < 1; j++)
 {
 if (B79G4Nmp)
 {
-OWG8_QSmy = D5tM1klPo2();
+
 }
 else if (j2b_23mO32 <= KLR080S)
 {
@@ -266,7 +266,7 @@ break;
 }
 
 
-w9d21e = lyaxyIzc / DH6oo;
+
 
 if ((IKZEw9DjFf) || (j2TP0Rm45 == F3b0Q2))
 {
@@ -310,7 +310,7 @@ k--;
 }
 else
 {
-H479LK = sFp9nL5 | 609478730;
+
 }
 
 
@@ -332,7 +332,7 @@ else
 
 if (buZr <= u5sXDL00_)
 {
-OWG8_QSmy = D5tM1klPo2();
+
 }
 
 try

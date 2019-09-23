@@ -355,7 +355,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-lisTc3m = p2u2N8zI7s() / eEe5v2kRwf;
+
 break;
 case 'd':
 case 'D':
@@ -416,7 +416,7 @@ case 1:
 
 break;
 case 2:
-mF2U = (int)abs(Zp7fB);
+
 break;
 default:
 Ajsh = Dqpn98cdnF * v0MSVo_NZ;

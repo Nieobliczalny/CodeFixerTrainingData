@@ -190,7 +190,7 @@ case 'F':
 break;
 case 'g':
 case 'G':
-uyzfd_7 = (int)abs(Ixa7);
+
 break;
 case 'h':
 case 'H':
@@ -368,7 +368,7 @@ case 'a':
 
 break;
 case 'b':
-sF7q_O5 = (int)abs(m39XX);
+
 break;
 case 'c':
 e5DvC3f_ = (int)ceil(y872);
@@ -383,7 +383,7 @@ case 'f':
 
 break;
 case 'g':
-xRrY = (int)floor(ZYC0rD);
+
 break;
 case 'h':
 vQVoOjB97b <<= TWj7DU;
@@ -408,7 +408,7 @@ case 1:
 
 break;
 case 2:
-sF7q_O5 = (int)abs(h00U);
+
 break;
 case 3:
 aQO8 ^= LtUG2aCX;
@@ -423,7 +423,7 @@ case 6:
 
 break;
 case 7:
-B1E4QeXC = (int)abs(e5DvC3f_);
+
 break;
 case 8:
 dxBT0Cz = RPgVr_d0Aq(dxBT0Cz, V8HDs2wq7J);

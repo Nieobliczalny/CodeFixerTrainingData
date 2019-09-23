@@ -840,7 +840,7 @@ B_Z0r4 = D5uJ8(B_Z0r4, bK1Q4Db, -2066797814, V7pr_NDR8N, 1996425175);
 }
 try
 {
-AVq1p = B38u * SJo0J;
+
 }
 catch (int& errorCode)
 {
@@ -868,7 +868,7 @@ i++;
 
 if (Kjv3 != B38u)
 {
-AVq1p = (unsigned long long)(B38u + (459533472));
+
 }
 else
 {

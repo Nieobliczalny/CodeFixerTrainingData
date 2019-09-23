@@ -24,7 +24,7 @@ ZG6NL_6DJ = J2Au6D - 276872933;
 switch (sk6x)
 {
 case 0:
-Y2efm2_F0 ^= f5a_bI;
+
 break;
 case 1:
 f5a_bI = f5a_bI >> 2023536700;
@@ -55,7 +55,7 @@ int i = 0;
 while (i < 6)
 {
 i++;
-RLzs5e_YHq = GD3KXtb(-979601999, ZG6NL_6DJ);
+
 }
 }
 

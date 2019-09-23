@@ -86,7 +86,7 @@ int main(int argc, char** argv) {
 	unsigned long long	C5CIx	=	-1369342796;
 	unsigned long	up3hq	=	1793675117;
 
-KNPUI = (double)(s0coH);
+
 
 {
 int i = 8;
@@ -111,7 +111,7 @@ try
 {
 if (be650o == -2137834313)
 {
-KNPUI = (int)floor(XYiz);
+
 }
 }
 catch (int& errorCode)
@@ -329,7 +329,7 @@ case 0:
 Lu6__Huf6++;
 break;
 case 1:
-ExEwY2 = (int)abs(x9vqnGCya);
+
 break;
 case 2:
 

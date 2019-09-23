@@ -351,7 +351,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-Jm4B33ni6 = e9VA9Q3Da << 588560979;
+
 break;
 case 'f':
 case 'F':
@@ -469,7 +469,7 @@ std::cout << "G1D6Q" << "sX016g" << F_L91(-808723524, -1784839361, -1495937929) 
 
 if (VGrN60d > vjq515n)
 {
-PXsAM3Qah2 = (int)ceil(YIMDQe);
+
 }
 else
 {

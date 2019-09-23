@@ -150,7 +150,7 @@ case 'f':
 c9H_fb *= 503499811;
 break;
 case 'g':
-v7q0 = TQWWMf7(1734202066, -273339823);
+
 break;
 default:
 s_LA169M = TQWWMf7(691307976, XT7_);
@@ -493,7 +493,7 @@ Hrv75Iof = TQWWMf7(2117175792, 1635084778);
 }
 else
 {
-rR0uFI70eC &= 884752170;
+
 }
 }
 else if (((Vb38 == D989KxG9) || (KPin8jo6)) || (HDv3g94G > mW49n1tI))

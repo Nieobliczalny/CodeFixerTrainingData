@@ -240,7 +240,7 @@ while (k >= 0);
 }
 cout << vpnx << "l_7X3E" << TTzvmj89j << wOy8O0F << endl;
 vHqe = (char)(V5KkKd);
-y6mFD3 = cKR2DtN3 / dbB2;
+
 
 pMzba4f7j = BJoyI ^ 995574390;
 
@@ -263,7 +263,7 @@ r0tdJ8nNW = gY396(r0tdJ8nNW, -1620934540);
 break;
 case 'b':
 case 'B':
-y6mFD3 = (int)floor(BL9B2z6);
+
 break;
 default:
 
@@ -352,7 +352,7 @@ case 2:
 
 break;
 case 3:
-u2G0Lo2W5 = (int)abs(BL9B2z6);
+
 break;
 case 4:
 ZRdwQA = gY396(-1949375837, lA3Zx78);
@@ -367,7 +367,7 @@ case 7:
 TTzvmj89j >>= r04_7;
 break;
 case 8:
-ykjZ = (int)ceil(cKR2DtN3);
+
 break;
 default:
 
@@ -391,7 +391,7 @@ case 0:
 
 break;
 case 1:
-x15zvH3 = (ONAG2Lf > -1317453561) ? df57S9w3S(132538805, 450354018) : ZN24UP8Q0;
+
 break;
 case 2:
 
@@ -403,7 +403,7 @@ case 4:
 
 break;
 case 5:
-XxFIMOR = df57S9w3S(2010137489, r04_7);
+
 break;
 case 6:
 
@@ -456,7 +456,7 @@ case 'e':
 
 break;
 case 'f':
-lA3Zx78 = Yd7gEk95 % e3iMxZad;
+
 break;
 case 'g':
 zN1M = gY396(w18Y, tFBm6O);
@@ -471,7 +471,7 @@ case 'a':
 
 break;
 case 'b':
-BL9B2z6 = (int)floor(wOy8O0F);
+
 break;
 case 'c':
 
@@ -483,7 +483,7 @@ case 'e':
 
 break;
 default:
-BJoyI = df57S9w3S(775605203, Y94g) ^ V5KkKd;
+
 break;
 }
 return 0;

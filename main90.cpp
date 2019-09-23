@@ -48,7 +48,7 @@ int main(void)
   unsigned short  sV8W0QTy;
   sV8W0QTy  =  1184873217;
   unsigned int  nQIlbGTxot;
-  nQIlbGTxot  =  922787422;
+
 	long long	AgBo_;
 	AgBo_	=	1216105698;
 	long double	z47RcK5oR;
@@ -60,7 +60,7 @@ int main(void)
   short  qmLp97;
 
  unsigned char aeHmsfSY;
- aeHmsfSY = 746222238;
+
   unsigned int  aTs3c1GM;
   aTs3c1GM  =  1383043801;
  short int WC437;
@@ -150,7 +150,7 @@ int main(void)
  unsigned char MsALa;
  MsALa = 1825980664;
     unsigned short int    CPMn4H;
-    CPMn4H    =    0;
+
     double    T1P4xGEUG;
     T1P4xGEUG    =    -269371288;
 	float	V9BKv6N9zv;
@@ -435,7 +435,7 @@ case 2:
 
 break;
 case 3:
-h73_ = (int)abs(I_O6HuSgS6) + (474689135);
+
 break;
 case 4:
 
@@ -535,7 +535,7 @@ case 'g':
 
 break;
 case 'h':
-qmLp97 = EmrBQ0J(1583727695, EF38oGQ78, RkjmYt35vY, -1848863740, K2L0tt);
+
 break;
 case 'i':
 sOswliv = ASHT8X75B(576976112, 116818856);

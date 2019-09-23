@@ -303,7 +303,7 @@ while (i < 7);
 }
 
 cout << R3b_ << "L1N46C" << omIm1o_cz1 << "N73777I" << endl;
-MfI0M_XUCG = (short int)(b3hwjG);
+
 
 {
 int i = 10;
@@ -463,7 +463,7 @@ z06QX &= 392534240;
 
 if ((elCnV == -1479914393) && (mvg2BXC0 <= 1007807686))
 {
-SgOF__J1o = (short int)(OSUInu1V7D);
+
 }
 if (Hl1E_O)
 {
@@ -490,7 +490,7 @@ case 'D':
 
 break;
 default:
-g_7RbJ4YU = (int)abs(Zbyt9);
+
 break;
 }
 }
@@ -527,7 +527,7 @@ else if (IQBr <= IxAy5Sz1)
 }
 else if (Ag1_Q6wj6 > 1924973253)
 {
-U5Tg87 >>= 1423619110;
+
 }
 else
 {

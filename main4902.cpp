@@ -114,7 +114,7 @@ int main(int argc, char** argv) {
 	unsigned int	wq3dL;
 
  long long ltJkG;
- ltJkG = -1761512783;
+
     double    h097AU;
     h097AU    =    -1487431150;
     long    slRLZJT;
@@ -372,7 +372,7 @@ if (e_k66 == 0)
 }
 
 
-BS6Dk = (short)(M10YZt);
+
 
 switch (Orv20N5)
 {
@@ -600,7 +600,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-NayXWwwT = a45aI7 | 1811005537;
+
 break;
 }
 }

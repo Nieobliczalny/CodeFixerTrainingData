@@ -125,7 +125,7 @@ case 3:
 
 break;
 case 4:
-TSM16 = (int)ceil(U3OH);
+
 break;
 case 5:
 Vx2cITe = (int)floor(O_eh);
@@ -274,7 +274,7 @@ else if (T4_wb_8 >= fkHM)
 }
 else if (I_RRCO)
 {
-KK8eoB_ = (int)ceil(Vx2cITe);
+
 }
 else
 {

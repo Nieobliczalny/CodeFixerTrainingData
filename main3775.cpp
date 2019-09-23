@@ -27,7 +27,7 @@ int main(void)
 	float	DGXO4;
 
 	char	sVji;
-	sVji	=	-1151793862;
+
     long    gcYX;
     gcYX    =    -1546507892;
     char    BV_RJT324;
@@ -37,7 +37,7 @@ int main(void)
     unsigned short int    I5n35PN6y;
 
   long  g0H33;
-  g0H33  =  0;
+
   long  W3rbTwh6;
   W3rbTwh6  =  -1881531053;
   unsigned long long  SGF_7iSVz;
@@ -71,7 +71,7 @@ int main(void)
   unsigned long long  j80lq;
 
     unsigned int    vy_4;
-    vy_4    =    -1076512413;
+
     unsigned long long    ebqyOMI_8u;
     ebqyOMI_8u    =    1815681268;
 	double	ULUGy;
@@ -113,7 +113,7 @@ int main(void)
 	unsigned int	rlS_v_4A;
 	rlS_v_4A	=	-1907925129;
  long long i4KNKh_W8I;
- i4KNKh_W8I = 782058863;
+
     unsigned short int    mVX4esUl;
     mVX4esUl    =    -274537868;
     short    qaGYp0_o;
@@ -139,7 +139,7 @@ int main(void)
     unsigned short    SxZ5ZDws57;
 
   unsigned short int  cUfvqh_;
-  cUfvqh_  =  576475032;
+
  float K8vwG2i;
  K8vwG2i = -403821690;
   long long  pgWLb;
@@ -157,7 +157,7 @@ int main(void)
 	unsigned long long	B24kvc;
 
  char dWaL;
- dWaL = 532078379;
+
 	double	jOl7231;
 	jOl7231	=	874362254;
   unsigned char  j02G0;
@@ -199,7 +199,7 @@ int main(void)
     short int    p1_hHN;
 
     long double    Hk9O1H5;
-    Hk9O1H5    =    -1267672005;
+
 	unsigned char	c3VZ2;
 	c3VZ2	=	-42671287;
   double  eSnk11;
@@ -348,7 +348,7 @@ else
 switch (mVX4esUl)
 {
 case 0:
-Hk9O1H5 = (int)floor(k4jWh9);
+
 break;
 case 1:
 jOl7231 = k4XYs();
@@ -424,7 +424,7 @@ else
 switch (Hu8F_urD)
 {
 case 0:
-k4jWh9 = (int)floor(n601qA43v);
+
 break;
 case 1:
 
@@ -438,7 +438,7 @@ break;
 switch (j02G0)
 {
 case 0:
-EP54qga = fXHT8J(1508402706, XDkYTVG, LihPFTKow3);
+
 break;
 case 1:
 
@@ -450,7 +450,7 @@ case 3:
 
 break;
 case 4:
-rlS_v_4A = r17e(335932960, XDkYTVG, -1215084975) << pi8G6eBs4;
+
 break;
 case 5:
 
@@ -478,7 +478,7 @@ case 1:
 
 break;
 case 2:
-FrWY = (int)ceil(OyTd9V);
+
 break;
 case 3:
 tFycI ^= Hu8F_urD;
@@ -490,7 +490,7 @@ case 5:
 
 break;
 case 6:
-zS50r = k4XYs() & 689711732;
+
 break;
 case 7:
 AIStO7 ^= Hu8F_urD;
@@ -506,7 +506,7 @@ eSnk11 = k4XYs();
 break;
 }
 
-n05cvn9 = fXHT8J(eSnk11, RMTzp6w, 1796617479) << 383749096;
+
 try
 {
 std::cout << "BSc7p36iC" << std::endl;
@@ -593,7 +593,7 @@ while (j < 4);
 }
 
 
-eSnk11 = (int)abs(JpDztFp);
+
 switch (j02G0)
 {
 case 0:
@@ -606,7 +606,7 @@ case 2:
 
 break;
 case 3:
-SKO7v_b = OyaiO & 1927844473;
+
 break;
 case 4:
 
@@ -618,7 +618,7 @@ case 6:
 
 break;
 case 7:
-DTb5sgxoo &= 1062306652;
+
 break;
 case 8:
 

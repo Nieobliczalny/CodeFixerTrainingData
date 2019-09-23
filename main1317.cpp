@@ -77,7 +77,7 @@ case 4:
 
 break;
 case 5:
-xJ8w23T %= 2123270998;
+
 break;
 default:
 F9CN34jr = hVs3e8BG << N1440V;
@@ -302,7 +302,7 @@ case 'g':
 
 break;
 case 'h':
-H185c85CAI = wM2YD540 >> Y9Jos3;
+
 break;
 default:
 hyVfF |= x07ziTC4_3;
@@ -320,7 +320,7 @@ if (q4a_W == huk6v)
 int i = 9;
 do
 {
-EsVHQEZ3Xh = (kQfQt2R6t <= -1588869827) ? -20792565 : b_C5;
+
 --i;
 }
 while (i >= 0);

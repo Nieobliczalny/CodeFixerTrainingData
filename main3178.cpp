@@ -48,7 +48,7 @@ if (C56VW & 822760567)
 }
 else if (DvppFAoGVi != nt5m56s)
 {
-jL1VL8V9K = (float)(Z20a7dr);
+
 }
 else if ((XizWW2NY & 115389952) && ((BB7i == -766550380) || (KkManQ != -1284999943)))
 {
@@ -128,7 +128,7 @@ case 1:
 
 break;
 case 2:
-bey_lF *= 1362861614;
+
 break;
 default:
 yByaWJh8G = (KkManQ >= 1148679780) ? racjfsS : RfH66BMEWg;

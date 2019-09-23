@@ -86,7 +86,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-d2kGlHqpcp += 963757484;
+
 break;
 case 'c':
 case 'C':
@@ -215,7 +215,7 @@ case 1:
 
 break;
 case 2:
-I660Q_6h2 = VvV8Hc7XK_ ^ 702208510;
+
 break;
 case 3:
 VvV8Hc7XK_ = i9Iq(-1420608432, Z7D1K6_, Cy_O1x2, 1012519720, VvV8Hc7XK_);

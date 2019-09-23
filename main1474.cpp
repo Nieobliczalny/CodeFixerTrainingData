@@ -41,7 +41,7 @@ int main(void) {
 	double	lsD1MiVCR;
 
 	double	vDDF;
-	vDDF	=	-881388201;
+
 	unsigned long	CBxR_Y2Uix;
 
   short  aW0IY7;
@@ -71,7 +71,7 @@ int main(void) {
     unsigned int    B4_ThL9;
     B4_ThL9    =    1054359177;
 	double	e1J1;
-	e1J1	=	1656897207;
+
 	char	m8v7s0U2;
 	m8v7s0U2	=	-1956349281;
   short  v8JWT2d;
@@ -81,7 +81,7 @@ int main(void) {
 	long double	h8iP;
 	h8iP	=	-225203818;
  long long a4DJt5onE;
- a4DJt5onE = 2128113652;
+
 	unsigned short int	VaQ1;
 	VaQ1	=	2098535145;
   int  p1S4304;
@@ -107,7 +107,7 @@ int main(void) {
   unsigned short  iC1_;
 
 	unsigned short	TDnfr8B9;
-	TDnfr8B9	=	-1443556364;
+
 	short	XAQ1OT;
 	XAQ1OT	=	-281313190;
  unsigned char WnWcQ8U2;
@@ -135,7 +135,7 @@ int main(void) {
 	unsigned int	u65sc_7_JQ;
 	u65sc_7_JQ	=	-1546752479;
  double rAHb8i;
- rAHb8i = -52086687;
+
  long K04RbazF5;
  K04RbazF5 = -1121570603;
  short edw_5E4jrl;
@@ -149,7 +149,7 @@ int main(void) {
 	char	qQbS3;
 	qQbS3	=	-1460194826;
     long double    LM2A;
-    LM2A    =    2068680741;
+
     int    EvZtOj;
     EvZtOj    =    -1118443691;
   long long  X587n36a;
@@ -163,7 +163,7 @@ int main(void) {
  unsigned short int KzSU4bEN;
  KzSU4bEN = -1632856257;
     int    lk5817;
-    lk5817    =    1631613178;
+
 	short	MV8_0E9;
 
   unsigned int  Z9Zd;
@@ -173,7 +173,7 @@ int main(void) {
 	unsigned short	Qi03gn_;
 	Qi03gn_	=	-222908012;
  short CdLxmI4;
- CdLxmI4 = 1462514954;
+
  unsigned char vyuu6SiZ_;
 
  unsigned int d5xii;
@@ -226,7 +226,7 @@ else if ((P3d11Ry & -1050331108) && (h8iP))
 }
 else if (CKaJPDoNc1 >= sInO_L8)
 {
-vDDF = (int)floor(z2b3);
+
 }
 else if ((A484 >= XGD691o78W) && ((GZbO31Fe7 != -1380774355) || (CKaJPDoNc1 <= m8v7s0U2)))
 {
@@ -316,7 +316,7 @@ else
 switch (Z9Zd)
 {
 case 'a':
-k930355i = (int)floor(jPz5h5);
+
 break;
 case 'b':
 
@@ -328,7 +328,7 @@ case 'd':
 WnWcQ8U2 = Dn4ac5 / KzSU4bEN;
 break;
 case 'e':
-cdFx_sX3 = Z9Zd << ff1r47lS;
+
 break;
 case 'f':
 CKaJPDoNc1 = uM6M3 % 441591326;
@@ -340,7 +340,7 @@ case 'h':
 
 break;
 case 'i':
-e1J1 = (int)abs(br10);
+
 break;
 }
 }
@@ -391,7 +391,7 @@ while (i >= 0)
 }
 
 
-j_W2a5i8 = (int)floor(CKaJPDoNc1);
+
 
 for (int i = 10; i >= 0; --i)
 {

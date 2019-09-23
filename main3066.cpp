@@ -20,7 +20,7 @@ int main(int argc, char** argv)
   unsigned char  P4TpYB;
   P4TpYB  =  -1687305267;
     double    r63P;
-    r63P    =    1553272949;
+
   unsigned int  ubr0;
   ubr0  =  1647179870;
   unsigned char  wX_f;
@@ -42,7 +42,7 @@ int main(int argc, char** argv)
     unsigned int    f_9ufX6M;
     f_9ufX6M    =    -106372297;
     long    Fq_9N;
-    Fq_9N    =    924837570;
+
 	double	g3ekq7_x6;
 	g3ekq7_x6	=	1125943719;
   unsigned long long  tr8ST8;
@@ -52,7 +52,7 @@ int main(int argc, char** argv)
     long double    d3AIWCpKG;
 
 	long long	it1UmK5ou9;
-	it1UmK5ou9	=	1794845038;
+
  unsigned short int nb0894m8;
  nb0894m8 = 0;
  char dorI2J;
@@ -70,7 +70,7 @@ int main(int argc, char** argv)
   unsigned char  P1jl;
 
     long double    DZlC2V;
-    DZlC2V    =    378304611;
+
 	short int	BDz2N;
 	BDz2N	=	1121253740;
     long    U5_q727;
@@ -128,7 +128,7 @@ int main(int argc, char** argv)
  long cNfC33C8q;
 
     unsigned short    FkO1Y8QqTP;
-    FkO1Y8QqTP    =    1907155960;
+
  short e_17T;
 
   unsigned short int  lWpywF4913;
@@ -319,7 +319,7 @@ else
 
 }
 
-MpsLFfsd0 = (int)floor(p_Ok);
+
 for (int i = 0; i < 7; ++i)
 {
 for (int j = 1; j >= 0; j--)
@@ -441,7 +441,7 @@ case 'c':
 
 break;
 case 'd':
-xH6f = (O6bx0zL67 < 1843486757) ? ouUNAZUll : P4TpYB;
+
 break;
 case 'e':
 Pez5O79++;
@@ -586,7 +586,7 @@ std::cout << f84xR34() << f84xR34() << "omKo61" << f84xR34() << std::endl;
 
 if ((f84xR34() / f84xR34()) >= -564603425)
 {
-DZlC2V = FJDbh57W / rI8Rt_c32C;
+
 }
 for (int i = 10; i >= 0; i--)
 {

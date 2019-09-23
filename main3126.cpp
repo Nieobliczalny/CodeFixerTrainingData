@@ -153,7 +153,7 @@ switch (IAr5510tC)
 {
 case 'a':
 case 'A':
-ZpvSE3O1 = sKLYv / 2066858220;
+
 break;
 case 'b':
 case 'B':

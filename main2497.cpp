@@ -265,7 +265,7 @@ E9PXwdqr = (int)floor(wLIu);
 DOd2Ld8e = (int)abs(wLIu);
 
 
-KUH2 |= 1783986122;
+
 
 if (Z69yg249a >= Ig58)
 {
@@ -277,7 +277,7 @@ if (Ig58 < V_y_AX)
 {
 try
 {
-G80_6jcT = (int)ceil(w3g7Y7q);
+
 }
 catch (int& errorCode)
 {

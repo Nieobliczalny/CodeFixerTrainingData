@@ -213,7 +213,7 @@ i++;
 }
 }
 
-pT_F = (int)floor(LU_H);
+
 if (Mnn87I < ph0m)
 {
 OuHS7FrM = WhQ9Q();
@@ -250,7 +250,7 @@ dh6Cr42 &= X55Ov;
 break;
 case 'g':
 case 'G':
-pT_F = (int)ceil(FaBT_56);
+
 break;
 case 'h':
 case 'H':
@@ -338,7 +338,7 @@ Ln4pOchbZ = th3kV5j36B(-1200904282, -1311425107, kcR43Cm, -685338323, 353967967)
 
 M6oi = (unsigned long long)(Qc9FY06);
 
-FaBT_56 = (int)floor(txss);
+
 
 if (Qc9FY06 > 1004448379)
 {

@@ -211,7 +211,7 @@ int k = 0;
 do
 {
 k++;
-ga_5UuI = (int)abs(B2F4Y2);
+
 }
 while (k < 1);
 }
@@ -426,7 +426,7 @@ m_NPA_g = Cc67(Lov0HkME, 1174333329, LSv1MY7);
 break;
 case 'c':
 case 'C':
-kJdm = rTVL04();
+
 break;
 case 'd':
 case 'D':
@@ -456,7 +456,7 @@ try
 {
 try
 {
-Lov0HkME = (int)abs(aeWFe0);
+
 }
 catch (int& errorCode)
 {

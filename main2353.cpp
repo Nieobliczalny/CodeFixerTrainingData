@@ -55,7 +55,7 @@ case 3:
 
 break;
 default:
-CKpipHxEr = (int)abs(X0C9hl1X) + (1018192565);
+
 break;
 }
 }

@@ -337,7 +337,7 @@ for (int i = 0; i < 6; i++)
 {
 
 }
-Vzi84 = (unsigned long long)(uyQ1z);
+
 for (int i = 0; i < 6; i++)
 {
 if (cNIe5W4cE != S5K00J795p)

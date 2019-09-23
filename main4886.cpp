@@ -154,7 +154,7 @@ int j = 5;
 do
 {
 --j;
-P90edj5h = q5SdjAJmZ4 >> 1621574696;
+
 }
 while (j >= 0);
 }
@@ -217,7 +217,7 @@ case 3:
 
 break;
 case 4:
-VvLnlh = QoQuFw_BY(2132230056);
+
 break;
 case 5:
 dkNY1SyPo = (int)abs(Mv_KSns);

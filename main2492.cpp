@@ -499,7 +499,7 @@ case 1:
 
 break;
 case 2:
-urGhCpLN = (int)floor(TG_xxd4f_);
+
 break;
 case 3:
 U06A7J3 = c7izWjE74 + zSFd6;
@@ -542,7 +542,7 @@ if (JDvnyb == wZwh)
 switch (Wpm_8)
 {
 case 0:
-ObS7E >>= WsoeC;
+
 break;
 case 1:
 
@@ -554,7 +554,7 @@ case 3:
 zSFd6 = u6ugKsAp4 * wb_V6C8;
 break;
 case 4:
-f8J6 = QK4wq >> sWc_w0Y;
+
 break;
 case 5:
 phRXAq &= 642963413;
@@ -619,7 +619,7 @@ case 1:
 
 break;
 case 2:
-wb_V6C8 <<= 1755876395;
+
 break;
 case 3:
 esO4jo |= 1204973766;
@@ -631,7 +631,7 @@ case 5:
 
 break;
 case 6:
-MoV8S = u6ugKsAp4 & gWtp6rsJ8g;
+
 break;
 }
 }
@@ -659,7 +659,7 @@ else
 std::cout << qt410F_8 << zM3AEih2 << std::endl;
 std::cout << phRXAq << gWtp6rsJ8g << T4cue7 << tu_aYi << std::endl;
 
-ml_IUlnf >>= 944895154;
+
 {
 int i = 8;
 do

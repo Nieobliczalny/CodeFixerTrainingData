@@ -139,7 +139,7 @@ of4iA189r_--;
 break;
 case 'f':
 case 'F':
-a3D_NB7 = (int)floor(sxEcJLp_28);
+
 break;
 default:
 
@@ -241,7 +241,7 @@ d9z92 = (KT8zGqa != 303396454) ? -1566759130 : -677983829;
 }
 
 
-S7__pm = sHHOi / TzF7VY;
+
 
 for (int i = 2; i >= 0; i--)
 {
@@ -291,7 +291,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-HHQQ8j = (int)ceil(Hdx7CiGEQ);
+
 break;
 case 'd':
 case 'D':
@@ -303,7 +303,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-DVpWMg38M >>= 1797283576;
+
 break;
 case 'g':
 case 'G':

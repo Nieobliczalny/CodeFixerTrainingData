@@ -239,7 +239,7 @@ break;
 }
 }
 
-b6jvvC8G5 = D0O4m8N(-934596402, 1307368311, 1031295664, -1547051682);
+
 
 if (Dye9VZ8 != -562984681)
 {
@@ -342,7 +342,7 @@ if ((NQAc1m6rc >= 791360877) && ((Lk6J != ENJoSfBh) || (KNo0G > ENJoSfBh)))
 {
 if (Lk6J > -710489132)
 {
-QwU3J_p |= P_C91OYS;
+
 }
 }
 else

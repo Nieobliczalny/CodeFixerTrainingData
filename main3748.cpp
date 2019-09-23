@@ -99,7 +99,7 @@ switch (h57hzpb_)
 {
 case 'a':
 case 'A':
-G___16j5 = PZV4u4T3X(G___16j5, -2039644763, 1456597857, oG20kE);
+
 break;
 case 'b':
 case 'B':
@@ -174,7 +174,7 @@ case 'f':
 RxM06I09 = S4xNIJte0(RxM06I09, a62qk, w0Dab6, fkU1biro);
 break;
 case 'g':
-G___16j5 = xgIU(1108748132, DpGG6J4DK, -547828303);
+
 break;
 case 'h':
 jtY2_PLa_ = (int)abs(Qg3nH4tN);
@@ -202,7 +202,7 @@ if (jtY2_PLa_ == 0)
 
 try
 {
-Qg3nH4tN = (long long)(jh03WT9Y_ * Qg3nH4tN);
+
 }
 catch (int& errorCode)
 {
@@ -228,7 +228,7 @@ case 1:
 
 break;
 case 2:
-Nt6M4j_o9K >>= i0o9G;
+
 break;
 case 3:
 oG20kE = (int)floor(l1g8yow);
@@ -240,7 +240,7 @@ case 5:
 
 break;
 case 6:
-OGdGIci5YR = BM2r45M / H392R4h0;
+
 break;
 default:
 h57hzpb_ = xgIU(13450297, 2129666732, 845847900);

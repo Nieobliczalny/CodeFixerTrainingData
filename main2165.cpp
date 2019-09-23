@@ -169,7 +169,7 @@ std::cout << w35xmzj_(-245712407, AaGEiWLa, Ne9d6R, E0B463) << "j09Hr0N5" << Lb8
 }
 }
 
-Q6N7CD = (int)(xUmnq5);
+
 
 {
 int i = 1;
@@ -428,7 +428,7 @@ case 'd':
 
 break;
 case 'e':
-wIG1 = (int)abs(mi2erPL7);
+
 break;
 default:
 Wv_9NAj8 = (int)abs(vBXj);
@@ -593,7 +593,7 @@ case 4:
 
 break;
 case 5:
-npjb5f32 |= ViCu;
+
 break;
 }
 }
@@ -611,7 +611,7 @@ else if (wOb362 == Aa9T66)
 }
 else if (HO7j3T == 1268159464)
 {
-b4pI5Qi_md |= 165577884;
+
 }
 else if (((F65qAOVmM >= -637679045) || (Rj8oFy_110)) && (Jfj9 <= nR1xFZ_XE))
 {

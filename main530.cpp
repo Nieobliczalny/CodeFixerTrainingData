@@ -106,7 +106,7 @@ JNkSvAdP1f = pLUwzdEFA - VAsj_0p5Pn;
 
 cout << V_0C97kFS << endl;
 
-wjmLMAn = (unsigned long long)(npzOb453_4);
+
 X92Vn = (short)(KmORQz58);
 bKaqL30pl8 = r6H_U8Z8 * 23523737;
 
@@ -208,7 +208,7 @@ if (u_razP_f3z > elwyrYNAs1)
 {
 
 }
-V4UD_pLumH = W7_WzX8 << g7_8RKfS6;
+
 
 {
 int i = 5;
@@ -231,7 +231,7 @@ case 'd':
 
 break;
 default:
-U65ecJ2xkG = M19VmOaw6 / 1642885939;
+
 break;
 }
 }
@@ -262,7 +262,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-k0_i = Uy0Mg / no5Xu08;
+
 break;
 case 'f':
 case 'F':

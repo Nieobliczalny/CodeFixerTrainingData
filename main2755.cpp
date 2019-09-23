@@ -327,7 +327,7 @@ break;
 }
 else if (f17F >= H3WTpt3s)
 {
-f17F = (int)abs(P0tQx);
+
 }
 else if ((P0tQx > QVeeu_4) || ((vSP1X >= -1247586685) && (g49M_ == G33N6zWMu)))
 {

@@ -82,7 +82,7 @@ for (int i = 7; i >= 0; i--)
 
 std::cout << "YjP0UI" << "n6llntkCAZ" << bnyS << K2Ci_9(-2106729130) << "kRE7D" << std::endl;
 
-IA6AE = Qek0 >> uBEhQAsm8E;
+
 if (m61u9zI0 <= iD13EQ1)
 {
 lKbB1_2aT -= VZ6adZ;
@@ -208,7 +208,7 @@ v64_jd3B = K2Ci_9(v64_jd3B);
 break;
 case 'b':
 case 'B':
-LGJ_XVm49 = lvkubI3L << W3r_E0;
+
 break;
 case 'c':
 case 'C':
@@ -289,7 +289,7 @@ case 4:
 
 break;
 case 5:
-kg6KYYnBwQ = K2Ci_9(917508555);
+
 break;
 case 6:
 qb9VrTXos4 = awTXE6DHf - 617446712;

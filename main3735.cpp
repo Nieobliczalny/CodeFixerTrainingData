@@ -39,7 +39,7 @@ int main(void)
     float    AwnLH;
     AwnLH    =    -1865467900;
  unsigned short Wwx9_60h;
- Wwx9_60h = 702582275;
+
   unsigned int  mq9ZH;
   mq9ZH  =  1365619913;
  unsigned long Ql5Sz;
@@ -192,7 +192,7 @@ case 1:
 ZYNbaB5eK = m91M(-745608552, I0j1hS__ux, vaOHAAbpz);
 break;
 case 2:
-Wwx9_60h = m91M(-1434427144, -88132037, -1154063000);
+
 break;
 case 3:
 
@@ -383,7 +383,7 @@ else
 }
 }
 
-T2Q4ys5UHv = (int)floor(cmaumYl);
+
 
 
 AwnLH = y4x9V4NG(-34347390, -136997173, pKn7c9rm61, PgGO_d, -538814796);

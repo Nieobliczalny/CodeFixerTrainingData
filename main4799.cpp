@@ -22,7 +22,7 @@ long GzQK1(int m7gIOb,long long FbJ_Vd,unsigned short int C9R6Rzj4,unsigned char
 int main(void)
 {
   double  SHiIepwM;
-  SHiIepwM  =  1050334163;
+
     unsigned long    OEJk4ebtRR;
     OEJk4ebtRR    =    -419451176;
     unsigned short    F428oV8;
@@ -32,7 +32,7 @@ int main(void)
   unsigned short  y0b0;
   y0b0  =  1092567526;
     long double    gwmS5Q;
-    gwmS5Q    =    -2146416830;
+
     short    i7aDy0JI1;
     i7aDy0JI1    =    0;
  int CZXg;
@@ -42,7 +42,7 @@ int main(void)
     char    cHpbqc_B31;
 
     short    AyP0856;
-    AyP0856    =    -18505852;
+
   unsigned char  n6tra4;
   n6tra4  =  -140714133;
   unsigned int  r8mu;
@@ -62,7 +62,7 @@ int main(void)
  long long Hxy33_;
 
  unsigned long L3lxLa;
- L3lxLa = -1569702896;
+
     short int    wKvNOWq;
     wKvNOWq    =    -459361566;
     short    DABNTCp;
@@ -72,7 +72,7 @@ int main(void)
     char    K1eqi;
     K1eqi    =    1449824324;
  unsigned long ypykS;
- ypykS = 777674364;
+
   unsigned short int  ACvv8m;
 
   unsigned short  q4lqB45Pn;
@@ -95,7 +95,7 @@ int main(void)
 switch (wKvNOWq)
 {
 case 0:
-xmBJfxt = GzQK1(-132509070, H9x01Bk, xmBJfxt, 639798137, -991921956);
+
 break;
 case 1:
 
@@ -161,7 +161,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-cHpbqc_B31 = (int)abs(K1eqi);
+
 break;
 case 'c':
 case 'C':
@@ -177,7 +177,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-i7aDy0JI1 = GzQK1(-869170199, i7aDy0JI1, -832522911, 1326593895, kz3wDBC);
+
 break;
 }
 

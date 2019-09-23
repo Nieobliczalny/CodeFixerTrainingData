@@ -18,7 +18,7 @@ int main() {
 	long double	qQe_u;
 	qQe_u	=	420901535;
   long  IFxPS6;
-  IFxPS6  =  207145509;
+
   float  H8DCZ9tZp;
   H8DCZ9tZp  =  -624388974;
 	unsigned char	ksnp5i4X;
@@ -36,7 +36,7 @@ int main() {
  float MFN_;
  MFN_ = -894441047;
 	float	p5KvlJ;
-	p5KvlJ	=	621724724;
+
   long long  IJC5_370r;
   IJC5_370r  =  1245896323;
   long  YjFj9d;
@@ -363,7 +363,7 @@ if (TADkkKeqh >= h6Sbl)
 {
 if (w3NNai)
 {
-IFxPS6 = (long)(Ee369hd);
+
 }
 }
 else if (v8ZmnhU966)
@@ -569,7 +569,7 @@ case 4:
 
 break;
 case 5:
-b3S0 += HjNL5;
+
 break;
 case 6:
 MFN_ = (int)floor(x9K385bT48);
@@ -648,7 +648,7 @@ case 'd':
 
 break;
 case 'e':
-w3NNai = FVQ__p6();
+
 break;
 case 'f':
 w3NNai &= YM94;
@@ -660,7 +660,7 @@ case 'h':
 
 break;
 case 'i':
-IJC5_370r &= omss;
+
 break;
 case 'j':
 wfnB2F9x3 = nogT1Rx(400268700, 1963266424, -1811747769, -463077265);
@@ -820,7 +820,7 @@ else
 {
 if (Ev1Ng6)
 {
-p5KvlJ = (int)ceil(MFN_);
+
 }
 }
 if (NrY2bg37SI == 604868037)
@@ -859,7 +859,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-b3S0 = h6fn6xClP / PJoP3;
+
 break;
 case 'd':
 case 'D':
@@ -890,7 +890,7 @@ for (int i = 7; i >= 0; --i)
 }
 
 
-A0kDIhd = (long)(Qy84zm);
+
 kJ89zrvolu = (unsigned short)(q55WJx9_);
 
 for (int i = 0; i < 7; ++i)

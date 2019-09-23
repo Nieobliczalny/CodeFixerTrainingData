@@ -18,7 +18,7 @@ int main(void) {
  double JDKHxTEika;
 
  unsigned char ZM1Wl230;
- ZM1Wl230 = 500777632;
+
   short int  P7Tb_;
   P7Tb_  =  -155014447;
     float    N11vFL;
@@ -58,7 +58,7 @@ int main(void) {
     short    zMRk90j;
 
  long long S5X012h;
- S5X012h = -218532899;
+
     long    cxEtG3439a;
     cxEtG3439a    =    1020942490;
 	unsigned short	P4C0L86BDg;
@@ -72,7 +72,7 @@ int main(void) {
  unsigned short int F9N0;
  F9N0 = 1641709953;
     long double    GYBj;
-    GYBj    =    -2021415735;
+
     short    Zv3tR42;
     Zv3tR42    =    -1478286277;
   float  Kit1_Q;
@@ -88,7 +88,7 @@ int main(void) {
  unsigned int e1UZXBN8;
 
   double  R6ktLMKU;
-  R6ktLMKU  =  282119669;
+
   char  R3vJR9;
   R3vJR9  =  -2129182820;
   char  pRWpeQI9Uz;
@@ -130,7 +130,7 @@ int main(void) {
 	long double	N21o;
 	N21o	=	-1763830153;
 	unsigned short int	EuN3J;
-	EuN3J	=	1989461768;
+
 	long	dtvzFx_l7Q;
 	dtvzFx_l7Q	=	-273252584;
   short int  kvm4cD23u;
@@ -148,7 +148,7 @@ int main(void) {
     char    f_NJ;
     f_NJ    =    -2137552720;
     short    e5r1_68;
-    e5r1_68    =    -612147839;
+
 	char	GqZ8G6;
 
   char  UOCQ7f;
@@ -172,7 +172,7 @@ int main(void) {
     unsigned short int    YkmZG;
 
 	char	r7014;
-	r7014	=	1764125240;
+
  float IhuQ6Jf;
  IhuQ6Jf = 873360427;
  long long wltW6;
@@ -208,7 +208,7 @@ case 'c':
 M6zb5c = OKsAS_(XaBL1bDY, -250618036, -1863223550, F9N0, iYpf);
 break;
 case 'd':
-t3aPM = OKsAS_(1927666858, YyQFp, F9N0, -1035304908, hS_11wt4);
+
 break;
 case 'e':
 
@@ -220,7 +220,7 @@ case 'g':
 
 break;
 case 'h':
-Y4DL31iW = OKsAS_(y5gGweP_dv, 882702081, -1526102103, fw46h_TK5, hS_11wt4);
+
 break;
 case 'i':
 
@@ -355,7 +355,7 @@ iX5q = OKsAS_(-1157129270, 1040991416, -1215720281, -860525959, -1728362825);
 }
 else
 {
-t3aPM = OKsAS_(423669418, -1029406495, G0_enDV, -900696297, -1755928990);
+
 }
 }
 ++i;
@@ -438,7 +438,7 @@ case 2:
 
 break;
 case 3:
-iX5q = OKsAS_(-783296789, -2115213791, BE9_, IhuQ6Jf, -313345727);
+
 break;
 case 4:
 Y4DL31iW = OKsAS_(-1228769862, WVRHLU4q0, -1025827445, 953860046, N21o);
@@ -450,7 +450,7 @@ case 6:
 
 break;
 case 7:
-tMe94 = (int)floor(Kit1_Q);
+
 break;
 case 8:
 QTF2eR_B2H = QTF2eR_B2H ^ HN7sk92u;

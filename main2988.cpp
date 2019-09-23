@@ -410,7 +410,7 @@ case 'c':
 RGkfUv1Zhz++;
 break;
 case 'd':
-rf09y9 = (int)abs(mE54IB5);
+
 break;
 case 'e':
 

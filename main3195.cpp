@@ -70,7 +70,7 @@ std::cout << "N2Gjf" << N_gXOBxb3(mOUw4UwJ, eLSRzEU, Kbq9zzA3, 51466769, -583194
 }
 while (i < 10);
 }
-q04b_0M = eLSRzEU * Kbq9zzA3;
+
 
 jCk_u3XHr_ = (long double)(d5Zn3tGLe);
 

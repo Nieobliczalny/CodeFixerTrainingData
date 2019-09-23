@@ -63,7 +63,7 @@ int main() {
  SHcGR3 = 234906239;
 
  w0S_6F = -1412650344;
- T9uF_5F = -1291142763;
+
  w2__Hi7SI9 = -1339355554;
  TaKVx1T_Y = -1675626328;
  Uwo3Wx6 = -15245030;
@@ -306,7 +306,7 @@ else
 int i = 0;
 while (i < 9)
 {
-fm2wAeL2N = P9j3Hv5HzF << 1536595158;
+
 i++;
 }
 }
@@ -406,7 +406,7 @@ case 'b':
 
 break;
 case 'c':
-j91qvHuO = XuCaluE10 ^ pJHlEcu7TY;
+
 break;
 }
 }

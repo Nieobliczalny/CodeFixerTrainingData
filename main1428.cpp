@@ -154,7 +154,7 @@ case 2:
 
 break;
 case 3:
-nL3_9X = DGj0P * mTPe;
+
 break;
 case 4:
 vRMYH2381b *= F6hJv;
@@ -200,7 +200,7 @@ while (k < 1);
 }
 if (zU8J5ZL == 0)
 {
-	p8m_9C2Z30 = mCfP20 / zU8J5ZL;
+
 }
 V9I5 = (short)(x40CYru);
 try
@@ -224,7 +224,7 @@ case 2:
 
 break;
 case 3:
-B7gYk4y = (int)floor(cIgHznCIY_);
+
 break;
 default:
 kbjYwo /= Up82hM;
@@ -264,7 +264,7 @@ switch (bz961Or8A)
 {
 case 'a':
 case 'A':
-JN64iC7O2G = PVQGSKSt85 + 1406045373;
+
 break;
 case 'b':
 case 'B':
@@ -288,7 +288,7 @@ case 'F':
 break;
 case 'g':
 case 'G':
-bz961Or8A = (int)abs(FSUBK_C);
+
 break;
 case 'h':
 case 'H':
@@ -299,7 +299,7 @@ case 'I':
 
 break;
 default:
-eZOZez21 %= gIBB;
+
 break;
 }
 

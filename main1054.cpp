@@ -105,7 +105,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-O6vKz6 = VAz090mhs(1784556428, G9pOJI4, kh51_9fI, 275604837);
+
 break;
 case 'f':
 case 'F':
@@ -155,7 +155,7 @@ case 1:
 
 break;
 case 2:
-Pdu6lp_c30 %= gnocfe_93;
+
 break;
 case 3:
 O6vKz6 = VAz090mhs(-1097224415, -367019117, SS_j8_SH3, P8FPjy);
@@ -170,7 +170,7 @@ case 6:
 
 break;
 case 7:
-OoTApDK = Ih5qtx18m1(652154727, -252514360, EGX5W);
+
 break;
 default:
 cb_UL0 = a_w69xS6 >> 557324750;

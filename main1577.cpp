@@ -293,7 +293,7 @@ case 'b':
 
 break;
 case 'c':
-qv81bDD20 = N3C5kDr3 ^ 131319688;
+
 break;
 case 'd':
 uR95q19 -= WzZR8kcR6;
@@ -305,7 +305,7 @@ case 'f':
 
 break;
 default:
-kd0k13OJm = (NIeT1) ? sgy7062 : uL73Bf_;
+
 break;
 }
 return 0;

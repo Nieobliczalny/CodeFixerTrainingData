@@ -56,7 +56,7 @@ case 'B':
 S_CMCk8436 = (int)abs(LB3EcB5xuB);
 break;
 default:
-U9q0QaJ = (int)abs(Sn5G);
+
 break;
 }
 if ((K57k28 < uiGGc_) || ((Bev9) || (LB3EcB5xuB <= 1122981149)))
@@ -76,7 +76,7 @@ jl5y9FU2or |= 555964338;
 }
 else if (((y695ve0 & CAhHh) && (bo03Wga7 & 419267792)) || ((Sn5G & Bev9) && (Qj53 & -337912485)))
 {
-U9q0QaJ = (int)abs(S_CMCk8436);
+
 }
 else if (U254m <= 995203285)
 {

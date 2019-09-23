@@ -198,7 +198,7 @@ case 0:
 
 break;
 case 1:
-p2YG07 = QDo2jPs(C8t4dac0);
+
 break;
 case 2:
 H0p4jD = (int)floor(FqFMkS);
@@ -216,7 +216,7 @@ case 6:
 y_Qei = (int)ceil(hmgplQ0bHo);
 break;
 default:
-a0M351W9i0 = kA0j02(a0M351W9i0);
+
 break;
 }
 }

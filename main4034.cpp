@@ -293,7 +293,7 @@ else
 int k = 0;
 do
 {
-N_pP0o9_4 = (int)floor(AUr5p);
+
 k++;
 }
 while (k < 10);

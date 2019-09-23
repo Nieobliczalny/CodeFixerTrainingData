@@ -51,7 +51,7 @@ int main(int argc, char** argv)
  unsigned short int S6Lv;
  S6Lv = 1091254401;
  long long xE62LB3D;
- xE62LB3D = 1224044942;
+
 	unsigned long long	Cp_8;
 	Cp_8	=	-1673357321;
   short  OxVcv;
@@ -225,7 +225,7 @@ case 'h':
 fam83UW5j1 = (int)ceil(n6tay2D73);
 break;
 case 'i':
-xE62LB3D = XgAk + 1048861326;
+
 break;
 default:
 gNtvyUz5 = (int)ceil(fam83UW5j1);
@@ -245,7 +245,7 @@ n6tay2D73 = (int)floor(fam83UW5j1);
 }
 if (d76E != Oim_GM)
 {
-xE62LB3D = (long long)(Oim_GM);
+
 }
 else
 {
@@ -448,7 +448,7 @@ case 2:
 XgAk = (int)abs(CW2GD8Q);
 break;
 case 3:
-yt1QFb = s6I5BRHYu - EQvL;
+
 break;
 }
 }

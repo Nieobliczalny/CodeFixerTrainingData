@@ -127,7 +127,7 @@ case 'B':
 
 break;
 default:
-v0WB /= sq5a1MQB;
+
 break;
 }
 }
@@ -170,7 +170,7 @@ else
 
 }
 
-h7kck += 802022031;
+
 std::cout << gh70 << tzlKA8440 << "G0M7lV097" << std::endl;
 
 if (x_6n_ <= -267941311)
@@ -186,7 +186,7 @@ else if (Z2d3aw < -902813722)
 }
 else if (CqY31)
 {
-MW5v = (int)abs(GkV7);
+
 }
 else
 {

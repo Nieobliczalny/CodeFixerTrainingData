@@ -23,7 +23,7 @@ case 2:
 pZ54mfe = yGAx794_A * 486987100;
 break;
 case 3:
-pGAPop *= Wn47E_xrR;
+
 break;
 case 4:
 vf41b += 1435025534;
@@ -419,7 +419,7 @@ else if (((zBwOVg <= sWT_YT9) && (tfkr != 509272645)) && ((yGAx794_A > Pdb6) && 
 }
 else if (zP8P >= -2062007749)
 {
-aP8_ = GO_H | jTp8u6;
+
 }
 else if (NAU49yrY <= -1036956900)
 {
@@ -717,7 +717,7 @@ case 'b':
 
 break;
 default:
-CR2L2M6x74 *= aC5w8o3av;
+
 break;
 }
 }
@@ -770,7 +770,7 @@ case 3:
 
 break;
 case 4:
-mn8C2r9 -= 1753210333;
+
 break;
 case 5:
 

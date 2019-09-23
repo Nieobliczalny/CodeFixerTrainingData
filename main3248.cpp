@@ -35,7 +35,7 @@ int main(int argc, char** argv) {
 
  F48Hud8k = 0;
  vymAt5OP = 0;
- w3i3K7A_ao = 0;
+
 
 {
 int i = 0;
@@ -399,7 +399,7 @@ case 'd':
 
 break;
 case 'e':
-Mxi4X6 += pE05_;
+
 break;
 case 'f':
 

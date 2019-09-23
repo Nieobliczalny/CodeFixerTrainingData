@@ -16,7 +16,7 @@ int main(int argc, char** argv)
 	long long	U8DlYJaHIf;
 
 	unsigned int	PXSGgWR50;
-	PXSGgWR50	=	2005966049;
+
  unsigned int FbuV;
 
   long long  I3J159;
@@ -32,7 +32,7 @@ int main(int argc, char** argv)
 	unsigned long	BOU0FV7a8;
 	BOU0FV7a8	=	0;
  long A5Wd8;
- A5Wd8 = -463854271;
+
 	double	FP_1G;
 
  float b97n8g3;
@@ -46,7 +46,7 @@ int main(int argc, char** argv)
 	long	pw5ws8;
 
  long a6s9j;
- a6s9j = 1481299744;
+
   short  E_X6;
   E_X6  =  -1260538447;
     char    P82N71;
@@ -60,7 +60,7 @@ int main(int argc, char** argv)
     double    USCA;
 
   long  t1kHaroF_;
-  t1kHaroF_  =  950480529;
+
     short int    NsSa5dJ5kj;
     NsSa5dJ5kj    =    2130914569;
 	int	k9WR;
@@ -74,7 +74,7 @@ int main(int argc, char** argv)
   unsigned char  GiZyR7_7l;
   GiZyR7_7l  =  2055175701;
     unsigned long    Sie5bBrO;
-    Sie5bBrO    =    -113069065;
+
  short int kNA0maW9g_;
 
  long KBvP8U8f_;
@@ -84,7 +84,7 @@ int main(int argc, char** argv)
     unsigned long long    M08ojXQZr_;
 
  unsigned long long HUz6xY27f;
- HUz6xY27f = -792683221;
+
 	unsigned short	hQo3754_;
 	hQo3754_	=	306521971;
  unsigned short G9W9rHC;
@@ -126,7 +126,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-I3J159 = y68D6_x00z | 1351831740;
+
 break;
 case 'c':
 case 'C':
@@ -182,7 +182,7 @@ for (int i = 4; i >= 0; i--)
 {
 std::cout << "GF2imSCKn" << b97n8g3 << z1JBl << b97n8g3 << "k9D4rI77R" << std::endl;
 }
-kNA0maW9g_ = (k9WR) ? 188948182 : P82N71;
+
 std::cout << KBvP8U8f_ << EANUQ8J0X << "XUHm" << G9W9rHC << std::endl;
 
 {
@@ -201,7 +201,7 @@ case 'c':
 
 break;
 case 'd':
-USCA = (int)ceil(b97n8g3);
+
 break;
 }
 i--;
@@ -215,7 +215,7 @@ if ((Q9vEmtb / BOU0FV7a8) <= -1992178944)
 {
 
 }
-Q9vEmtb = (int)ceil(b97n8g3);
+
 HnHWB--;
 
 std::cout << "O5meO" << std::endl;

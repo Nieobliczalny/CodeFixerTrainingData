@@ -79,7 +79,7 @@ else if ((hZ8Rh_l3lj == 85160303) || (UcFQ08e_ < DS7x))
 }
 else
 {
-CyHz_Ucv = f0TUx - FJtKkqnU4_;
+
 }
 }
 i--;
@@ -89,7 +89,7 @@ i--;
 
 
 a_35FE9x = (unsigned char)(n84YFAjV1);
-eCCa93 = (long)(l80h);
+
 cout << EY5f << r3ZLzmmv << endl;
 {
 int i = 0;
@@ -123,7 +123,7 @@ case 7:
 
 break;
 default:
-EY5f = (int)ceil(l80h);
+
 break;
 }
 }

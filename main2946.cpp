@@ -100,7 +100,7 @@ int main(void) {
 
 
 
-b15tQ = (int)floor(rWLbQKauB3);
+
 
 
 
@@ -259,7 +259,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-t_E2n3 = eo3k2AJI9();
+
 break;
 default:
 

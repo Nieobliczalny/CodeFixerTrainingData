@@ -36,7 +36,7 @@ for (int i = 0; i < 8; ++i)
 FZhG_ = (int)abs(fO5RObS5);
 }
 
-f21p = v90PN9e9(Q5dO_821b, EJVCb3P, -1074128987, f21p) / p6Ye(Q5dO_821b, EJVCb3P);
+
 switch (FZhG_)
 {
 case 'a':
@@ -49,7 +49,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-EJVCb3P *= 1665933977;
+
 break;
 case 'd':
 case 'D':
@@ -61,7 +61,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-rC6G6W = (int)abs(QXN6_L8tu);
+
 break;
 case 'g':
 case 'G':
@@ -73,7 +73,7 @@ case 'H':
 break;
 case 'i':
 case 'I':
-i83aDy4 = rNo3D(1488156620, i83aDy4, -1440542966);
+
 break;
 case 'j':
 case 'J':

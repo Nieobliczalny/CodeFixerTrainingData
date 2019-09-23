@@ -191,7 +191,7 @@ if (ad23 & uI_8SbcGwO)
 int k = 7;
 do
 {
-zmg1akr = (int)abs(G_O2P8ts);
+
 k--;
 }
 while (k >= 0);
@@ -270,7 +270,7 @@ case 'd':
 
 break;
 case 'e':
-e54z = (int)ceil(K0tM687);
+
 break;
 case 'f':
 S0c08R |= 52723919;
@@ -370,7 +370,7 @@ case 3:
 
 break;
 default:
-iwLFM = Ut73ztAze / 530645862;
+
 break;
 }
 

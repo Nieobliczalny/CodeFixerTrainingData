@@ -198,7 +198,7 @@ Q3Cp = NeutTWdU2(-1999913919, F5eqh, 2009045269, -2046031862);
 }
 while (i < 7);
 }
-gkyD <<= EVeXV1;
+
 
 dE1z2mfug >>= d7Xs6bt1lk;
 
@@ -261,7 +261,7 @@ case 4:
 
 break;
 case 5:
-gkyD = (int)abs(F5eqh);
+
 break;
 case 6:
 EVeXV1 += d7Xs6bt1lk;

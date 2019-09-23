@@ -31,7 +31,7 @@ catch (int& errorCode)
 {
 qc_z3UAY9C = wep6WWe(qc_z3UAY9C, 1522665719, 1610699523, -495230131);
 }
-D891hwN3 = (int)floor(JA96d7);
+
 
 return 0;
 }

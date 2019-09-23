@@ -52,7 +52,7 @@ int main()
     int    mzb2mD7;
     mzb2mD7    =    0;
   unsigned int  X9ZgY7kA6;
-  X9ZgY7kA6  =  -72575427;
+
   unsigned long  bMglBCiB;
   bMglBCiB  =  0;
  char o1B39H8s1q;
@@ -447,7 +447,7 @@ case 3:
 
 break;
 default:
-iUy86oFQ = B_JE5k(1532188121);
+
 break;
 }
 }

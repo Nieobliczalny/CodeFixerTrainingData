@@ -652,7 +652,7 @@ case 2:
 ZgbVO = (int)ceil(Yc74F);
 break;
 }
-F02hvkO9 = (short int)(XcxIc9 * F02hvkO9);
+
 
 if (Vsf_a6xEwP != 1316129932)
 {
@@ -716,7 +716,7 @@ case 'e':
 
 break;
 case 'f':
-lv4P <<= fOG_KTq;
+
 break;
 case 'g':
 XcxIc9 = (int)abs(lv4P);
@@ -841,7 +841,7 @@ else if ((Sbtg4VV == -1220027620) && (U0_6L != CK1_u6c))
 }
 else if (XcxIc9 > 306597747)
 {
-PQmp3ZKNu = nx1tCq_A();
+
 }
 else if (((T30Wrgz != 148783711) && (wy4RuEK != 396637280)) && (U5TZtWYXU < 1243449451))
 {

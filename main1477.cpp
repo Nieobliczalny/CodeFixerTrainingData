@@ -339,7 +339,7 @@ case 3:
 
 break;
 case 4:
-UNO9SV7W7 = (int)ceil(DeMpr7gygD);
+
 break;
 case 5:
 e5lB = fypyJv777 + 1377413873;
@@ -503,7 +503,7 @@ else
 switch (mfInu6)
 {
 case 0:
-UNO9SV7W7 = (int)floor(lGxaaZf7N);
+
 break;
 case 1:
 MODS59c = Ai9D3(-1761760412);
@@ -567,7 +567,7 @@ case 1:
 
 break;
 case 2:
-mfInu6 -= 342708440;
+
 break;
 case 3:
 NhiJfy = Ai9D3(t7TD);
@@ -579,7 +579,7 @@ case 5:
 
 break;
 case 6:
-MODS59c = (int)abs(x57p5);
+
 break;
 case 7:
 B3eI -= 576823029;
@@ -621,7 +621,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-KKO2 = Ai9D3(lGxaaZf7N);
+
 break;
 case 'd':
 case 'D':
@@ -633,7 +633,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-MODS59c = Ai9D3(degra);
+
 break;
 }
 }

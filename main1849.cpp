@@ -94,7 +94,7 @@ case 0:
 t4OlK ^= r4g8y6xl;
 break;
 case 1:
-Eer32m4IIK = (int)abs(A8GT) * 0;
+
 break;
 }
 }
@@ -115,7 +115,7 @@ OIm9--;
 
 try
 {
-QJrz_d = (double)(nasx0_u34 + (QGze));
+
 }
 catch (int& errorCode)
 {
@@ -138,7 +138,7 @@ else if (d8EB9lr6_ == -759150444)
 }
 else
 {
-t4OlK = Qo77W(1924171149);
+
 }
 }
 while (j < 10);

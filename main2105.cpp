@@ -20,7 +20,7 @@ int main()
 	short	GFLLp;
 
   unsigned char  rEKvsE;
-  rEKvsE  =  -1663190550;
+
     unsigned long long    yS7he;
     yS7he    =    -2008623579;
   char  yrtJPp8;
@@ -42,7 +42,7 @@ int main()
  unsigned long long e4TJ;
 
 	unsigned int	M59u6R0u1N;
-	M59u6R0u1N	=	-42909190;
+
   long double  w0qBWU;
   w0qBWU  =  2003346204;
   double  z6u_v3;
@@ -64,7 +64,7 @@ int main()
  double udA0dl;
  udA0dl = -1464179539;
 	char	V26HoF;
-	V26HoF	=	-1287718164;
+
   unsigned long  l_sWetM;
   l_sWetM  =  -2114274686;
     char    uA07;
@@ -74,7 +74,7 @@ int main()
   char  Ox6rT;
 
 	unsigned long	y2bt6Kwj_4;
-	y2bt6Kwj_4	=	-1233784072;
+
  short int h3rv;
  h3rv = 226850231;
   long long  iK2sv7WeP;
@@ -86,7 +86,7 @@ int main()
   long long  BiT8Y7;
   BiT8Y7  =  -1185005873;
 	char	UZalU2LV_;
-	UZalU2LV_	=	367955893;
+
  unsigned char jrI4R813U;
 
 	unsigned char	ZC457amSot;
@@ -100,7 +100,7 @@ int main()
   long  JAm1f;
 
     unsigned short int    dc9Lu9;
-    dc9Lu9    =    -1601706666;
+
   unsigned short  y6A2k;
   y6A2k  =  -1463190553;
     double    w8Vqmp;
@@ -124,7 +124,7 @@ while (i < 1);
 
 
 
-UZalU2LV_ = D81JoyA / NR_DXey_;
+
 
 
 switch (u6RGbT_gJ)
@@ -159,7 +159,7 @@ case 'G':
 break;
 case 'h':
 case 'H':
-yS7he |= 892796875;
+
 break;
 case 'i':
 case 'I':
@@ -170,7 +170,7 @@ for (int i = 8; i >= 0; --i)
 {
 
 }
-iK2sv7WeP = (int)abs(uWVazVcDk);
+
 
 switch (Zu6g48z056)
 {
@@ -184,7 +184,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-A6MhXy = (int)abs(nAIW0);
+
 break;
 case 'd':
 case 'D':
@@ -196,7 +196,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-zO3un6S1 = (int)ceil(udA0dl);
+
 break;
 case 'g':
 case 'G':

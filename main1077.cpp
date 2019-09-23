@@ -34,7 +34,7 @@ int main(void)
 	long double	aHE0tU;
 	aHE0tU	=	1313152276;
  unsigned long long uz4lOVeR;
- uz4lOVeR = 164237185;
+
   unsigned short int  i062;
   i062  =  785165553;
     char    B59yec6;
@@ -52,7 +52,7 @@ int main(void)
  long hV35;
  hV35 = 211966238;
   short int  ac50oKQ_Y6;
-  ac50oKQ_Y6  =  -1285688957;
+
   float  uN2cl700;
 
     long long    FrLt4QGch;
@@ -76,7 +76,7 @@ int main(void)
 	short int	FF05B;
 	FF05B	=	-1212880224;
  short g6cGls;
- g6cGls = 765578258;
+
     unsigned int    M_Go;
     M_Go    =    2064883288;
     unsigned char    JB17ic_zS3;
@@ -88,7 +88,7 @@ int main(void)
     short int    RqFQ;
 
     long    i6pW99dy;
-    i6pW99dy    =    160184469;
+
   float  n_l18hhJ1I;
   n_l18hhJ1I  =  2023405587;
 	char	eUq0Xw;
@@ -158,7 +158,7 @@ case 3:
 M_Go = GT7A47(M_Go);
 break;
 default:
-eUq0Xw = K1044y - 410169355;
+
 break;
 }
 }
@@ -317,7 +317,7 @@ case 5:
 
 break;
 default:
-uN2cl700 = (int)ceil(K1044y);
+
 break;
 }
 
@@ -329,7 +329,7 @@ i++;
 switch (Tb0vt9_sL0)
 {
 case 'a':
-aJsHw42T = (int)floor(WEKvIV0j);
+
 break;
 case 'b':
 
@@ -347,7 +347,7 @@ case 'f':
 
 break;
 case 'g':
-c_QPe86p = GT7A47(239520205);
+
 break;
 case 'h':
 Lk8p = (int)abs(FF05B);

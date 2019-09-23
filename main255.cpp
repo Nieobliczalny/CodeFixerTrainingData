@@ -248,7 +248,7 @@ case 4:
 B__V3 %= 20644541;
 break;
 case 5:
-u5CQY = zL786f + 837838103;
+
 break;
 case 6:
 uADTW16N = BWocF(uADTW16N, -1509963641, C2lkA8_6q);
@@ -315,7 +315,7 @@ case 'f':
 
 break;
 case 'g':
-Wr44Pb1 = (zL786f == -141708134) ? k92k6PCZz : uADTW16N;
+
 break;
 case 'h':
 

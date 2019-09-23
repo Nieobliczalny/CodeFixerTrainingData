@@ -41,7 +41,7 @@ int main()
   int  v0KTwkE;
   v0KTwkE  =  1412192734;
     short int    WQa3jf8G_4;
-    WQa3jf8G_4    =    1923305945;
+
     int    dC3Jq;
     dC3Jq    =    918143733;
 	double	cCBAvQ5m;
@@ -296,7 +296,7 @@ case 'a':
 break;
 }
 
-dC3Jq -= lG45;
+
 
 return 0;
 }

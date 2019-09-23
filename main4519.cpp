@@ -478,7 +478,7 @@ case 'b':
 
 break;
 case 'c':
-BJMCqQmyb = Y5R86ID * g_26Kik8;
+
 break;
 case 'd':
 Ao5vX_iCL -= 1771452033;
@@ -490,7 +490,7 @@ case 'f':
 
 break;
 case 'g':
-aKTo2d = y86R << 1381196685;
+
 break;
 case 'h':
 Y5R86ID += 1189133679;

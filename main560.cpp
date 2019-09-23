@@ -169,7 +169,7 @@ while (k >= 0);
 }
 }
 
-b7P6 = (long)(qX950oE8I6);
+
 
 for (int i = 0; i < 5; i++)
 {
@@ -371,7 +371,7 @@ case 2:
 
 break;
 case 3:
-P21g2hCw = Q_y0r9Va >> 1336937834;
+
 break;
 case 4:
 

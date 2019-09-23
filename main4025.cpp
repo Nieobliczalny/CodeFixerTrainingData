@@ -117,7 +117,7 @@ int main(void)
   unsigned short  P8y_c;
   P8y_c  =  -402015009;
     unsigned long long    L5h3;
-    L5h3    =    1257306184;
+
     short int    NVD52;
     NVD52    =    1895247327;
     long    K2w8UI;

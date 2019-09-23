@@ -36,7 +36,7 @@ int main(int argc, char** argv) {
 	nZm__76	=	-1304234365;
 	wJEYv	=	-2099287809;
 	UO2K	=	99182886;
-	fhmS0OJV	=	1076620329;
+
 	uerWf	=	-1919528793;
 	k3YEy	=	-573119097;
 	rQ5m	=	690611285;
@@ -50,7 +50,7 @@ int main(int argc, char** argv) {
 	tI1COcna8	=	-1970308639;
 	IFxqRJ9	=	873662032;
 	M9TU	=	1914603447;
-	IGF_	=	-475033378;
+
 	gnbd	=	488114089;
 	OJuCkL2	=	-79449007;
 
@@ -203,7 +203,7 @@ if (N0v0U_lK < i2AipJ)
 {
 if (((bN00u52) && (kBBwQ38v5e != tRtJYN)) || ((OmioR9Aj2m > -1840907665) || (i5d43 & O62250)))
 {
-IGF_ = UqmDN * 776597031;
+
 }
 else
 {

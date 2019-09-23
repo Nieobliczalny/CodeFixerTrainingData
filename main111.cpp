@@ -276,7 +276,7 @@ break;
 
 
 
-B_tZo43L = Nwmw9uzk65 / 1197440366;
+
 
 if (e960 != s0Y_b6)
 {
@@ -296,7 +296,7 @@ case 'b':
 
 break;
 case 'c':
-hbg98Bvf = (int)abs(T7g7Nlo55z);
+
 break;
 case 'd':
 BuKH -= 1109493171;
@@ -311,7 +311,7 @@ case 'g':
 Od7fy55 = (int)ceil(R07D8C7sk);
 break;
 case 'h':
-kmMMz_ /= f1x_45;
+
 break;
 default:
 FPh4nfHPT *= W1YQCYY;
@@ -329,7 +329,7 @@ else
 {
 
 }
-eUzhSDy /= 1162885838;
+
 std::cout << ssH_IGnu(I7G6_) << std::endl;
 
 return 0;

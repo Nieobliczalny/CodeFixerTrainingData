@@ -74,7 +74,7 @@ int main(int argc, char** argv) {
 	short	Yyuq4J5N04;
 	Yyuq4J5N04	=	-896753155;
  float pM2r;
- pM2r = -1296221489;
+
  short int M2vVU729y;
  M2vVU729y = 0;
  short abpC79899;
@@ -108,7 +108,7 @@ int main(int argc, char** argv) {
     int    UdnQ2_f6;
     UdnQ2_f6    =    -1257772694;
     long double    bhidtCf1y;
-    bhidtCf1y    =    1901472701;
+
   long long  S4BdzB;
   S4BdzB  =  -1848057242;
 	char	U1km8;
@@ -278,7 +278,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-d_z_83GU = (int)abs(o85FZ4m);
+
 break;
 case 'd':
 case 'D':
@@ -298,7 +298,7 @@ case 'G':
 break;
 case 'h':
 case 'H':
-bhidtCf1y = (int)abs(U1km8);
+
 break;
 case 'i':
 case 'I':
@@ -468,7 +468,7 @@ for (int i = 0; i < 9; ++i)
 {
 
 }
-A2g9Hq = (double)(K5LamwG7);
+
 SKZWDMNp5 = (long)(K5LamwG7);
 
 {
@@ -518,7 +518,7 @@ case 6:
 
 break;
 case 7:
-kpLRB = (int)ceil(kRI3XQXkL);
+
 break;
 default:
 eFRmI = bC0xr(-1361367370, -1012021952, 760379923, abpC79899);

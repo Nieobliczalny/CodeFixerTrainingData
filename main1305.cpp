@@ -29,7 +29,7 @@ int main(int argc, char** argv)
 
 	lQUR6Ke_Jk	=	836386149;
 
-	f824XY	=	130375819;
+
 	AmMBgH	=	-673384867;
 	zx56LW	=	1547283630;
 	eo_o_Xoz72	=	2102615379;
@@ -52,7 +52,7 @@ int main(int argc, char** argv)
 	af2ju0q	=	1604295013;
 	fCa_xy_1	=	-1160064942;
 
-	oBYVH	=	-1640635846;
+
 
 eo_o_Xoz72 = X65mAY / KTZy1;
 
@@ -134,7 +134,7 @@ fCa_xy_1 = QemAcQdq5();
 break;
 case 'b':
 case 'B':
-f824XY = eo_o_Xoz72 % 332175118;
+
 break;
 case 'c':
 case 'C':
@@ -146,7 +146,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-r4WLt = UrFE8R_7(r4WLt);
+
 break;
 default:
 

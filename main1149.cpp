@@ -62,7 +62,7 @@ switch (tDFz873)
 {
 case 'a':
 case 'A':
-foi6 %= AzYUe;
+
 break;
 case 'b':
 case 'B':

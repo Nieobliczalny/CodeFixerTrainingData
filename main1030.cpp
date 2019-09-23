@@ -28,7 +28,7 @@ int main(void)
  long double nua_2RtlOK;
 
     long    yKyJl_wUe1;
-    yKyJl_wUe1    =    1928313273;
+
 	float	M73X;
 	M73X	=	-598368407;
   int  o7EQTeqV_F;
@@ -58,7 +58,7 @@ int main(void)
   long double  uyFK;
   uyFK  =  -1096396490;
   float  y284s_559V;
-  y284s_559V  =  473329461;
+
   unsigned long  aqqY;
   aqqY  =  1768936735;
     unsigned short int    Q4590R;
@@ -118,7 +118,7 @@ int main(void)
  long double lVq5;
 
 	int	GO2JN;
-	GO2JN	=	-598178997;
+
  int eXZcnH5TJb;
  eXZcnH5TJb = -509489150;
     unsigned int    UM_3;
@@ -128,7 +128,7 @@ int main(void)
  unsigned long abv77;
  abv77 = 461233897;
   long  bSX46A;
-  bSX46A  =  -840836693;
+
   char  Ws1E_33j;
   Ws1E_33j  =  957978830;
   long double  t91mQ;
@@ -140,7 +140,7 @@ int main(void)
 	long long	h4Ko;
 	h4Ko	=	-381270572;
   unsigned short  JCdp61L0ye;
-  JCdp61L0ye  =  -1740143997;
+
  long jJ2I9;
  jJ2I9 = 1452848632;
  unsigned long VRsj4cS;
@@ -154,7 +154,7 @@ int main(void)
     char    EjQb12;
     EjQb12    =    823521432;
   unsigned long long  u5996uGiAk;
-  u5996uGiAk  =  -102165204;
+
  unsigned long long vO5Y;
  vO5Y = -1564358799;
 	short	OqXAxABW;
@@ -192,7 +192,7 @@ int main(void)
   double  a32K91H2;
   a32K91H2  =  -221031808;
  int xf_j;
- xf_j = -216568517;
+
     long long    hgq73JjDd;
     hgq73JjDd    =    742095905;
 	int	tXl2;
@@ -293,7 +293,7 @@ case 2:
 Wr18m = p90Vx1(Wr18m, I_37f_);
 break;
 default:
-X7vE7 = Bd7M(-1859003326, -1231755357);
+
 break;
 }
 
@@ -332,7 +332,7 @@ std::cout << abv77 << A6_D_B9Iw() << std::endl;
 }
 }
 
-XZdPzRRtZA += 1100257289;
+
 if ((h4Ko > -2015991278) && (lQi9TBqI >= -1951269714))
 {
 
@@ -375,7 +375,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-bSX46A = (int)abs(ZM6Ch_3);
+
 break;
 case 'f':
 case 'F':
@@ -386,7 +386,7 @@ case 'G':
 
 break;
 default:
-GmRA4f = p0t1 + KTaYn7;
+
 break;
 }
 }
@@ -402,7 +402,7 @@ pF8sf += uyFK;
 }
 while (i >= 0);
 }
-Rr397oB1 = 1035443974 / N26RK;
+
 
 GO2JN = (int)(To9_);
 {
@@ -454,7 +454,7 @@ else
 int j = 0;
 while (j < 1)
 {
-X7vE7 = (int)ceil(F_CKSTR_a);
+
 j++;
 }
 }
@@ -618,7 +618,7 @@ case 'b':
 
 break;
 case 'c':
-h74Inz8BQI = (int)ceil(a32K91H2);
+
 break;
 case 'd':
 j_y6Q7i85_ -= v0JL8t;
@@ -653,7 +653,7 @@ case 0:
 
 break;
 case 1:
-tXl2 = VRsj4cS * 284456950;
+
 break;
 case 2:
 
@@ -665,7 +665,7 @@ case 4:
 
 break;
 case 5:
-ZTGIR8Cj |= 1707672009;
+
 break;
 case 6:
 

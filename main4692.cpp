@@ -42,7 +42,7 @@ int main(int argc, char** argv)
  char w198i;
  w198i = -1310854001;
 	int	lu__p9Pkr7;
-	lu__p9Pkr7	=	-10844121;
+
   double  PP72aN;
   PP72aN  =  -767932558;
     unsigned short int    BbZda2h3;
@@ -100,7 +100,7 @@ int main(int argc, char** argv)
     unsigned long long    XvyNl0Lhq5;
 
 	unsigned short	Vx5c58SDN;
-	Vx5c58SDN	=	-1515118477;
+
 	long	jS080y4W;
 	jS080y4W	=	-1377855591;
   unsigned long  vR270;
@@ -124,7 +124,7 @@ int main(int argc, char** argv)
  unsigned int G8dPWgYT;
 
 	unsigned int	Q0XTS;
-	Q0XTS	=	-1770601131;
+
   long  uA9sKiz9;
   uA9sKiz9  =  1404854463;
  char XXG498Z;
@@ -162,7 +162,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-ks6rz3V = CL45b(ks6rz3V, w198i);
+
 break;
 case 'f':
 case 'F':
@@ -231,7 +231,7 @@ case 'c':
 
 break;
 case 'd':
-gB6H5609x = (int)abs(I62Vd8Q6);
+
 break;
 case 'e':
 J_DcfC78C = (int)ceil(O9wfRG);
@@ -316,7 +316,7 @@ if (bDJECfi45 == 0)
 }
 for (int i = 3; i >= 0; --i)
 {
-Vj__7_6 = cq23R9rs53 - 1053430176;
+
 }
 
 
@@ -370,7 +370,7 @@ for (int j = 3; j >= 0; --j)
 {
 try
 {
-J_DcfC78C = Xg08dzw9 - 152697347;
+
 }
 catch (int& errorCode)
 {

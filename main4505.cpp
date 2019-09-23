@@ -92,7 +92,7 @@ int k = 0;
 do
 {
 k++;
-eh3EHyjM = (int)floor(cA9Ivz8JL2);
+
 }
 while (k < 9);
 }
@@ -111,7 +111,7 @@ if (cA9Ivz8JL2 < 290625533)
 {
 if ((rLP87Ns3B <= H39NZHml5) || (Ir8F != Ni_nWr))
 {
-eh3EHyjM = (double)(Iu6ym0MW);
+
 }
 }
 

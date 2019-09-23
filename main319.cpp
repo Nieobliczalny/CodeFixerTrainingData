@@ -152,7 +152,7 @@ while (i < 4);
 }
 if (G_Ud1 & -1582556861)
 {
-jaVdk1mkv2 ^= mW4h088W;
+
 }
 else if ((mW4h088W >= 2096099019) || ((wThGl < -733549861) && (qd9yugdT3R >= 675622974)))
 {
@@ -193,7 +193,7 @@ iPRVhcQ = y6eCYMwbLQ | X4PWrtLyZ;
 }
 else
 {
-B86LbP >>= 760507604;
+
 }
 }
 catch (int& errorCode)
@@ -569,7 +569,7 @@ std::cout << "mWM0ZW1" << WgI5uWP7I << xJz94DG << std::endl;
 
 
 
-ZY1VG_d = E7H0 >> 1304533864;
+
 
 std::cout << t0nj9b7aee << a190c0Fkj << std::endl;
 std::cout << pwL0M5mT << std::endl;

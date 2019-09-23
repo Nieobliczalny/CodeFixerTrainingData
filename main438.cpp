@@ -105,7 +105,7 @@ else if (pK92G > -1966646092)
 {
 if (oo2mjw8f != 1283004387)
 {
-c9giw7K5 = (int)ceil(fftL_rou);
+
 }
 }
 else if (U4M3W6O == -1959179893)
@@ -157,7 +157,7 @@ break;
 }
 }
 
-FSt_jeg02 = -128325709 / GZ3vR(MYrK2HIcS, 1218053087, oo2mjw8f, X6Za64k);
+
 
 x8PCcP2 = CNUh(x8PCcP2, z67RiE, ugB6kH, xV3Aw);
 try
@@ -202,7 +202,7 @@ case 1:
 
 break;
 case 2:
-c9giw7K5 = (int)floor(X6Za64k);
+
 break;
 case 3:
 fj_R9X5r5j = FBQDB10_(aIuAdI1a8, fj_R9X5r5j, aBfBD);

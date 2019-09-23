@@ -679,7 +679,7 @@ j7TM_F0ky = (int)ceil(x5Z8LyI5UH);
 }
 }
 }
-KlydK83Ik = (float)(AByeUk8P);
+
 {
 int i = 4;
 do
@@ -754,7 +754,7 @@ case 'a':
 PnN_2n64KH = QSqaH6l9u - 2135012614;
 break;
 case 'b':
-KlydK83Ik = (M88H) ? j7TM_F0ky : -464280580;
+
 break;
 case 'c':
 Lg0C9ac |= MP0F7x5o9;

@@ -47,7 +47,7 @@ int main() {
  char OR8CNy;
  OR8CNy = -2023343431;
 	unsigned short int	L96906y;
-	L96906y	=	-1514485287;
+
     long    QgP44;
     QgP44    =    -2030497213;
 	long double	KVGw_9Z;
@@ -95,7 +95,7 @@ int main() {
  unsigned long long APPNCJ;
  APPNCJ = -333003155;
     unsigned int    xCi6;
-    xCi6    =    992176306;
+
     char    o05xXMe6g5;
     o05xXMe6g5    =    0;
  unsigned long Ydmr;
@@ -149,7 +149,7 @@ int main() {
 	long double	lkAE8HfxfW;
 	lkAE8HfxfW	=	266755538;
     short int    WOSKE;
-    WOSKE    =    -520912543;
+
     unsigned char    x7H8_U;
     x7H8_U    =    -544958465;
  unsigned char U6kOR;
@@ -297,7 +297,7 @@ std::cout << wIm1b(L2pVD, -859264427, -857799920) << n3vO1H7(L2pVD, 134067364, 2
 while (i >= 0);
 }
 
-lkAE8HfxfW = (int)floor(JILi_);
+
 d_n_EZ = b522fJ0 ^ 2106205965;
 
 if (Ve1r & -481090992)
@@ -396,7 +396,7 @@ case 2:
 
 break;
 case 3:
-oSaIxWE35 /= g8WL62b;
+
 break;
 case 4:
 MvM345_kvl /= 520295030;

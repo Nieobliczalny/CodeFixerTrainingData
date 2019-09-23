@@ -39,7 +39,7 @@ while (i < 2);
 
 if (iafa == 0)
 {
-	YM4sZG5w = MHW_y / iafa;
+
 }
 if ((t3ZVdd == Gis_N8) || (Y3eYC9n64 >= Gis_N8))
 {
@@ -121,7 +121,7 @@ case 'a':
 
 break;
 case 'b':
-StQA = sZ0_r(1781900680, OcD_81U, p0_dBCV, -928414889);
+
 break;
 case 'c':
 iafa = pRoKjd3a(ZRyO);
@@ -135,7 +135,7 @@ break;
 }
 }
 
-SkdyWon >>= 1758062717;
+
 
 return 0;
 }

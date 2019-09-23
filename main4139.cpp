@@ -774,7 +774,7 @@ case 'e':
 
 break;
 case 'f':
-ap8lDh %= oTY4;
+
 break;
 case 'g':
 w42Upeey--;
@@ -787,7 +787,7 @@ case 'i':
 break;
 }
 f7WEl2mvD3 = m4TDp_O_Ul(mB03, 243674148);
-S4C6z7FjQ8 %= suu3M574;
+
 VZ5pz <<= s7O7x8a72c;
 
 if (qMVWn7kyY_)

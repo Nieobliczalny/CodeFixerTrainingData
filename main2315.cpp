@@ -45,7 +45,7 @@ int main(int argc, char** argv) {
 
 	j7Y4T7H__q	=	-2029467191;
 
-	Hz15vT	=	-1939873730;
+
 	n95_LS1knR	=	1105558035;
 	Hs4u	=	80952948;
 	JE9RN86v5W	=	-624915320;
@@ -64,7 +64,7 @@ int main(int argc, char** argv) {
 	MMHY	=	-133124969;
 	U2FyS6d44V	=	-1167319101;
 	ayfi6lH78	=	1345907119;
-	pKw_	=	-1357725750;
+
 	V73S_6	=	2063130667;
 	i9bTn53v	=	352995565;
 
@@ -76,7 +76,7 @@ int main(int argc, char** argv) {
 	vId8LS2Q0	=	-271227553;
 	Lvd03TLG	=	1881186873;
 	wQsK66	=	-844227100;
-	oWz_	=	1828480280;
+
 	nLl7W17Er	=	-2135489372;
 
 	eu2O7Xf	=	880122354;
@@ -181,7 +181,7 @@ case 1:
 
 break;
 case 2:
-Df8_Igq_ = pI9V2N0U27(Df8_Igq_, JE9RN86v5W);
+
 break;
 case 3:
 Njpx7Q4j &= 1803431226;

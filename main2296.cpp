@@ -297,7 +297,7 @@ UBv1KjA_ = F9_01s | tQR2Te8vn4;
 break;
 case 'f':
 case 'F':
-L4_4jV5_7 = (int)abs(G0el17);
+
 break;
 case 'g':
 case 'G':
@@ -857,7 +857,7 @@ else if ((bwtRFQN9hN > Ta9MGv) || (bW6A < 163332026))
 }
 else if (unzVr & SB9rccg)
 {
-jJ82_Yilb1 = NM0v0mUs();
+
 }
 else if (qGVk4 == NwBQ9p1)
 {

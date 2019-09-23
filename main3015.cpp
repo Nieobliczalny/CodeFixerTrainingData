@@ -298,7 +298,7 @@ G23Q = (int)abs(GCM64_s);
 break;
 case 'f':
 case 'F':
-HE23I8A = Eqy9R(132636659, OYDth, -745673351, -299215327);
+
 break;
 case 'g':
 case 'G':
@@ -375,7 +375,7 @@ case 'I':
 
 break;
 }
-oGWJb8 = c_QOW_ * 1870497776;
+
 j0vNI3zYfH = msaf / AX_6;
 cout << yN9po1Gmw8 << Eqy9R(-1252807815, WV5TI7nA4L, DxZEq, 1349321434) << endl;
 try
@@ -463,7 +463,7 @@ DxZEq = Nq0JW76VH(118875390, c4glOx7_, 1083124444, -1824569172, W_c5mk7);
 
 
 
-X_8Wt8_p_e = (long)(j06B);
+
 
 if (FdFx34v4Lr >= -276920265)
 {
@@ -504,7 +504,7 @@ case 1:
 
 break;
 case 2:
-WV5TI7nA4L = (int)floor(z0N5v);
+
 break;
 case 3:
 Ie9cu >>= 365674322;
@@ -550,7 +550,7 @@ while (i < 5);
 }
 
 
-j0vNI3zYfH = Eqy9R(j0vNI3zYfH, 450909660, y707, 913612629);
+
 
 {
 int i = 6;

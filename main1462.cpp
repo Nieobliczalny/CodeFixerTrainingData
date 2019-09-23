@@ -189,7 +189,7 @@ Wo5EGr = cL5_f0s0 + 1296101385;
 
 if (Vz179 == -14429072)
 {
-e8Id055 = (int)abs(cw_mc73);
+
 }
 std::cout << WJ_RW_ << std::endl;
 
@@ -333,7 +333,7 @@ while (j >= 0);
 }
 else if (STyB <= TCa2mM__)
 {
-JQ3Uhx2 = (double)(rLW2gS5mQ);
+
 }
 else
 {

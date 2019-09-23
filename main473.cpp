@@ -102,7 +102,7 @@ std::cout << lE4t() << "loT_" << s7l67w << "q27KxN" << std::endl;
 
 
 
-efaQGE1c3G = (float)(XQzkqw);
+
 
 switch (WE2bnMr)
 {
@@ -113,7 +113,7 @@ case 'b':
 WE2bnMr = CR1A(onzcp4, k36y, Ji_E7j00, oNXK);
 break;
 case 'c':
-C9Ct3vwH = lE4t();
+
 break;
 case 'd':
 C_5u39a19_ = (int)ceil(Hq7EP);

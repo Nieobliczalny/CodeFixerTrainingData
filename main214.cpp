@@ -38,7 +38,7 @@ int main(void)
 	Sv6z	=	-1995497919;
 	g32f3	=	169280774;
 	X98C	=	-1360445895;
-	CuKl	=	541666341;
+
 	a0d449	=	-948916670;
 	icm1reJq	=	1438731684;
 
@@ -55,7 +55,7 @@ int main(void)
 	I4y2	=	-2015884445;
 	cX_w	=	-1582609431;
 
-	kW93LL	=	-871202839;
+
 	DSz_t7Hd_s	=	1870468251;
 	OXDKfXf09	=	-278432598;
 	OJdHO	=	-1960471055;
@@ -152,7 +152,7 @@ break;
 }
 if ((g32f3 > -1609866610) || (y2p3d >= 1863250150))
 {
-CuKl = vrWWa53d();
+
 }
 else if (Zl4jcG & X98C)
 {
@@ -194,7 +194,7 @@ icm1reJq = vrWWa53d();
 int i = 6;
 while (i >= 0)
 {
-kW93LL = (unsigned long long)(y2p3d);
+
 --i;
 }
 }

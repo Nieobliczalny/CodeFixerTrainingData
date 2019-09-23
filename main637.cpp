@@ -219,7 +219,7 @@ while (j >= 0);
 }
 else
 {
-omIc3nL = (int)abs(p216x0fm);
+
 }
 
 wXjQZr76D1 = JOgy4 ^ 730056375;
@@ -427,7 +427,7 @@ else if (UktaeG)
 }
 else
 {
-BEO540Ph = KTU_s(-1075286780, 63074307);
+
 }
 }
 }

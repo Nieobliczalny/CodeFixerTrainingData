@@ -790,7 +790,7 @@ if (R8_b71Vm > -2010691659)
 {
 if (x3W2n5yk0 <= 501560481)
 {
-H6dvKvW5q = (unsigned short)(Q5HX_ * H6dvKvW5q);
+
 }
 }
 else if ((UU_GQ50 >= M3SPU) || (Cdpr > tDBfA8W0))

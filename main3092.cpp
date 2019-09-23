@@ -17,7 +17,7 @@ int main(void)
     long double    jx0H;
     jx0H    =    2002985889;
   unsigned long  CX70U;
-  CX70U  =  496578627;
+
   long  M1_1J6d6;
   M1_1J6d6  =  1426234591;
  unsigned long R70_IV4FT;
@@ -37,7 +37,7 @@ int main(void)
     long double    M5k0Jw249x;
 
   long long  ZF75cYMX_9;
-  ZF75cYMX_9  =  982479303;
+
     int    GC75pri;
     GC75pri    =    1643120120;
  short Xc_79;
@@ -51,7 +51,7 @@ int main(void)
   short  uZT4;
 
   unsigned short int  DEvFY;
-  DEvFY  =  1721046231;
+
     unsigned short    e_6k;
     e_6k    =    801689578;
     short    itB0lU0;
@@ -73,7 +73,7 @@ int main(void)
   long double  mVKH_E;
 
 
-uZT4 = (short)(GC75pri);
+
 
 
 if ((GC75pri < sPS7d49) && (vCQkHadc >= Xv8P_KPa3))
@@ -90,7 +90,7 @@ else
 switch (gqxhV46)
 {
 case 'a':
-HzfU2X03 = (int)abs(vCQkHadc);
+
 break;
 case 'b':
 

@@ -350,7 +350,7 @@ case 4:
 
 break;
 case 5:
-d3w5v *= 721228016;
+
 break;
 case 6:
 nhj_7331c1 <<= 813703759;
@@ -420,7 +420,7 @@ D9M65I2 = (int)ceil(k04H50);
 break;
 case 'b':
 case 'B':
-d3w5v = X_ec + Mwglh7Pq;
+
 break;
 default:
 
@@ -485,7 +485,7 @@ else
 }
 }
 
-p55T = (int)abs(D9M65I2);
+
 CZRJASISZn = (int)floor(D9M65I2);
 cout << wERKqdgz << Pk_L1diTO << "J2b76SM" << "riA23J" << endl;
 

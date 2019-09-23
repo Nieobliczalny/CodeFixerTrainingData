@@ -589,7 +589,7 @@ while (i >= 0)
 switch (wann)
 {
 case 0:
-AIzZ77 = o_6j1PA5Y & 355433644;
+
 break;
 case 1:
 BQEBR1 = trafh0DuJ(kY5m7, Y_0JvoIBh, N2kuQ, -1448501052, 1234940548);

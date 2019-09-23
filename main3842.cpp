@@ -118,7 +118,7 @@ for (int i = 8; i >= 0; --i)
 {
 
 }
-U80orXdK = (int)abs(Qad9hwi) + (-563632871);
+
 
 {
 int i = 5;
@@ -141,7 +141,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-Qad9hwi = Kt4dxV0U9(319139978, s0i3n, -2070607988, Q4xy5N0Qj, wer9);
+
 break;
 case 'd':
 case 'D':
@@ -188,7 +188,7 @@ else
 {
 if (c0bc > 1027201874)
 {
-JCbZ16 -= Uv_3g3B;
+
 }
 else
 {
@@ -256,7 +256,7 @@ case 'c':
 D2T73nQ_ = zr70 % sGE9ziS;
 break;
 case 'd':
-Qad9hwi = Kt4dxV0U9(257818355, 88450201, Mcdu, wer9, -377512569);
+
 break;
 }
 }

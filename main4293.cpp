@@ -69,7 +69,7 @@ int main(void)
  short rXh55Y69x;
  rXh55Y69x = -812151661;
 	char	F_3XY5Q327;
-	F_3XY5Q327	=	-1562115810;
+
   long double  Ln60;
   Ln60  =  314389905;
   short  EA5MKc3S;
@@ -115,7 +115,7 @@ int main(void)
   long double  Fmj_gr2;
   Fmj_gr2  =  90729489;
     unsigned short int    Urtma;
-    Urtma    =    2115736029;
+
   unsigned short int  t2EEHa21t;
 
 	short	Eo3_1;
@@ -181,7 +181,7 @@ z4c0X4 = gb8RKem(-480779897, KCSA, 654877623, -1365028531);
 }
 if (sCA4 > 1203112021)
 {
-wzGM = gb8RKem(gZa610e4, 373220189, Ln60, -1558199890);
+
 }
 else
 {
@@ -260,7 +260,7 @@ case 1:
 
 break;
 case 2:
-WLsbCjb ^= 646018389;
+
 break;
 case 3:
 uah0zfr0eW = gb8RKem(1803213245, -322768224, V09H9_9g1C, 1138207413);
@@ -308,7 +308,7 @@ else if (q7kOlt <= m8Q0R45)
 }
 else if (gZa610e4 < -413092357)
 {
-wzGM = gb8RKem(-292483604, 992973243, 1467545243, -1216380825);
+
 }
 else
 {
@@ -388,7 +388,7 @@ case 8:
 
 break;
 case 9:
-XRDd6sBSQ = (int)floor(gZa610e4);
+
 break;
 default:
 

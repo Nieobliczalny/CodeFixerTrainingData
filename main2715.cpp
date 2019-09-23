@@ -545,7 +545,7 @@ M0S4Fk6 = (short)(K3j_GHH);
 }
 else if (((K3j_GHH > X3bpB_3E6) || (lPW5LE <= 1535970345)) || (lPW5LE != -597984042))
 {
-WGClW_Z4 = (int)abs(XyinK);
+
 }
 else if (p3AD1WFc & 1229139780)
 {
@@ -573,7 +573,7 @@ else
 {
 try
 {
-WGClW_Z4 = UEo_82_ >> 1202927455;
+
 }
 catch (int& errorCode)
 {

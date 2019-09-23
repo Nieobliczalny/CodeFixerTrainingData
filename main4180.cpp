@@ -63,7 +63,7 @@ case 'f':
 
 break;
 case 'g':
-Pti0O = QBlY(UufP);
+
 break;
 case 'h':
 D15eae = QBlY(1696772075) ^ KW_569gO;
@@ -174,7 +174,7 @@ else
 {
 for (int j = 4; j >= 0; --j)
 {
-KjSXJ = U3F4E0R419 | 212235859;
+
 }
 }
 
@@ -199,7 +199,7 @@ if ((oE1ezrc >= D15eae) && (UufP <= 2051384009))
 }
 else
 {
-KjSXJ = (int)ceil(oE1ezrc);
+
 }
 }
 while (j >= 0);

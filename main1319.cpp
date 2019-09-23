@@ -124,7 +124,7 @@ else if (t5mWH > sZQ7bcGd)
 }
 else if ((fL3V8DwXHa > Tl6tjdW_CY) || (ohg3aPk))
 {
-YK_3tX35z = m0cU1 ^ qFyKB547_;
+
 }
 else if (k0G8vl < e1CB_7)
 {

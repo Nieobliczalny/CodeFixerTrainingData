@@ -79,7 +79,7 @@ int main(int argc, char** argv) {
  long long dEzFKh8;
  dEzFKh8 = -2017515717;
     int    beNQ8X70n6;
-    beNQ8X70n6    =    478136780;
+
   long long  Y70_b0_1CE;
   Y70_b0_1CE  =  -1954734395;
  double Tz208Eqp;
@@ -334,7 +334,7 @@ case 1:
 VrPUlsawN |= 12800826;
 break;
 case 2:
-m2Oa = lDXxkO8v_E(-383482639) << VrPUlsawN;
+
 break;
 case 3:
 ZHquQJT3H5 = (int)floor(zhTq);
@@ -507,7 +507,7 @@ break;
 
 for (int i = 0; i < 5; ++i)
 {
-E227T = (unsigned int)(aOi1r);
+
 }
 
 {
@@ -536,7 +536,7 @@ case 4:
 
 break;
 case 5:
-mHT2mQJWm4 = lDXxkO8v_E(1514498839);
+
 break;
 case 6:
 

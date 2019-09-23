@@ -45,7 +45,7 @@ case 'e':
 
 break;
 case 'f':
-Kt_N4ICh1V = b7uGF + m2cp59kPj4;
+
 break;
 default:
 AR41r = ahd0M7 << 958711386;

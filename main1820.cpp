@@ -38,7 +38,7 @@ int main(int argc, char** argv) {
 	char	nzovtj;
 	nzovtj	=	-404157365;
  float t1L71f4uK;
- t1L71f4uK = 680098652;
+
     unsigned long    U_7168;
     U_7168    =    1865569017;
 	unsigned long	CJsUFJ54rw;
@@ -74,7 +74,7 @@ int main(int argc, char** argv) {
  unsigned long m03XGLdj_q;
 
  long YXLv;
- YXLv = 189989210;
+
     float    Hpi50H95Y;
 
  unsigned short int SXRH;
@@ -116,7 +116,7 @@ int main(int argc, char** argv) {
     long    RJfn_mVW;
 
     unsigned long    JpyKebi3Wl;
-    JpyKebi3Wl    =    -121972527;
+
  unsigned long long Oys2ehO;
  Oys2ehO = 252161420;
   long double  wdOW;
@@ -126,7 +126,7 @@ int main(int argc, char** argv) {
  short Q_8R;
 
   unsigned long  j_g4HiTD9h;
-  j_g4HiTD9h  =  397224552;
+
 	int	RltkRvSZmv;
 	RltkRvSZmv	=	-1871028116;
     short int    e6GC;
@@ -142,7 +142,7 @@ int main(int argc, char** argv) {
   long long  q_8X1_F1r;
 
  char I4MR;
- I4MR = -190594672;
+
     unsigned long long    w8IP;
     w8IP    =    571536123;
     short    sdM5WQ;
@@ -449,7 +449,7 @@ std::cout << BD_nhI18Za << "BwcJkRRe2" << T0EMWqq << f_UtGX_(-2117358291, 126643
 
 if (Oys2ehO & 1017519067)
 {
-NK6FX = (int)ceil(M2d3XX);
+
 }
 else if ((qusd7pwz == WsQJ) && ((Q_8R <= -1626493958) && (Yq20 < 564901993)))
 {
@@ -477,7 +477,7 @@ else if (TeX0 != -1969899759)
 }
 else if ((YL1g & I4MR) && (h8dzHA >= 1057282667))
 {
-Q_8R = f_UtGX_(-1019603929, M2d3XX, BOF8);
+
 }
 else if (lRKlDkk1 > -2058902560)
 {
@@ -489,7 +489,7 @@ Oys2ehO = M2d3XX * ya01;
 }
 else if (sdM5WQ <= -1650208066)
 {
-ehw34zXmHL = (int)floor(v_91v_5);
+
 }
 else
 {
@@ -508,7 +508,7 @@ case 1:
 
 break;
 default:
-Q_8R = f_UtGX_(-1726719004, C_Dqo, 1865003022);
+
 break;
 }
 return 0;

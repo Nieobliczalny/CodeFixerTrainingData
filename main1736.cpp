@@ -132,7 +132,7 @@ s_bYo = g_Grh0CDU();
 }
 else
 {
-hJO98 <<= HeUXq_;
+
 }
 
 {
@@ -179,7 +179,7 @@ case 6:
 
 break;
 case 7:
-alrc9 <<= 449692794;
+
 break;
 }
 

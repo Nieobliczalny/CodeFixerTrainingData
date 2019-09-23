@@ -26,7 +26,7 @@ if (K9QHIxNY & -1214245327)
 }
 else
 {
-T6_gr82dHa = Ys8_4q(s_b3, B4_i1, -2006146956) * 69648024;
+
 }
 }
 else if (xEsb35L_7I)
@@ -51,7 +51,7 @@ case 2:
 
 break;
 default:
-oMPD4A <<= 1128226525;
+
 break;
 }
 }
@@ -143,7 +143,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-SqQY_6k = (int)abs(R3YMY29_iI);
+
 break;
 case 'f':
 case 'F':
@@ -153,7 +153,7 @@ default:
 
 break;
 }
-gX0Oq -= 292439395;
+
 Xj21 = g8_kGFJ8 % O1gH23Wi_;
 for (int i = 2; i >= 0; --i)
 {

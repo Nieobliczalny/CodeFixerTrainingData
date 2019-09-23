@@ -170,7 +170,7 @@ while (j < 4)
 ++j;
 try
 {
-xGCwd8 = kKz6K4(206924360, 961969824, 310114789);
+
 }
 catch (int& errorCode)
 {
@@ -236,7 +236,7 @@ std::cout << "gQ0g9CugA5" << std::endl;
 
 for (int i = 9; i >= 0; i--)
 {
-F4I1C = (int)abs(D6sT7sA) * 0;
+
 }
 MQ3xz = ILpD7iB9z(-186116699, 1892992488, jqGZ3Mw9, o04lofREc, -841235118);
 
@@ -253,7 +253,7 @@ case 1:
 
 break;
 case 2:
-rQoI = (int)floor(Ijw2YY);
+
 break;
 case 3:
 KkKZp54 >>= 493533358;
@@ -265,7 +265,7 @@ case 5:
 
 break;
 case 6:
-C7j1a9 = (int)abs(x573UN);
+
 break;
 }
 }

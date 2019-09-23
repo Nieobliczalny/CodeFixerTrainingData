@@ -29,7 +29,7 @@ int main()
   unsigned char  SozX1M72B;
   SozX1M72B  =  -1240296741;
 	unsigned long long	sKgdyb7L0q;
-	sKgdyb7L0q	=	-747889548;
+
  int na287NL;
  na287NL = 166013216;
   long  XZS5vX;
@@ -43,7 +43,7 @@ int main()
  unsigned long long sC50Sm1;
  sC50Sm1 = 1857896893;
   unsigned char  e_PbwbwP_;
-  e_PbwbwP_  =  1378040361;
+
  unsigned long long h6so2;
 
 	unsigned long	XHIE04U_48;
@@ -81,7 +81,7 @@ int main()
 	long double	qFr43N2c4;
 	qFr43N2c4	=	1206448912;
  long double RPMy3Ungkr;
- RPMy3Ungkr = 195098696;
+
 	unsigned int	cd36;
 
     short    iATK;
@@ -176,7 +176,7 @@ else if (vX4RNyAM != Q7Sp0_A)
 }
 else
 {
-vX4RNyAM = (int)abs(Cdhz);
+
 }
 }
 }
@@ -291,7 +291,7 @@ break;
 
 h6so2 = Sm8m / c37Ur1E0;
 
-XHIE04U_48 = Gipgaj6J(EX3emj4E);
+
 cout << Gipgaj6J(-792033014) << Gipgaj6J(-1474647355) << endl;
 if (Q7Sp0_A <= z241RL)
 {
@@ -335,7 +335,7 @@ case 1:
 
 break;
 case 2:
-T88G = Gipgaj6J(ZD4qT90Q);
+
 break;
 case 3:
 YYVM = (int)abs(qFr43N2c4);

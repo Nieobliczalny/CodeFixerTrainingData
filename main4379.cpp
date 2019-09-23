@@ -59,7 +59,7 @@ int main(void)
 
 	L1i_	=	1196970580;
 	gidgH3y	=	-1826447458;
-	gSjhh2kf	=	64224557;
+
 	Y98jL3u	=	771910441;
 	mHHR5u2y6	=	-519477844;
 
@@ -70,7 +70,7 @@ int main(void)
 	s5kDzYP	=	-1680831959;
 	CWq8e	=	1891386200;
 	BAeAKGFS	=	-559732568;
-	pCvYNdTNzd	=	-1965983160;
+
 	Ctw939Gf32	=	-1826867527;
 
 	c7E8dCvvnK	=	1239687570;
@@ -87,7 +87,7 @@ int main(void)
 
 
 	uN5_2	=	-1702794656;
-	RH6e9	=	373923387;
+
 	pkt0L0	=	-1253354454;
 	tf0mtW	=	505639267;
 	b4pgsmh	=	1485380991;
@@ -444,7 +444,7 @@ case 3:
 pkt0L0 = fd4a(pkt0L0, -544435703);
 break;
 case 4:
-WU01F = YY_26B1gD() & c7E8dCvvnK;
+
 break;
 case 5:
 

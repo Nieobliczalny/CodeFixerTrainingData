@@ -56,7 +56,7 @@ case 'g':
 ks_lw_T0V2 = (int)floor(bigV2Qv);
 break;
 default:
-e82tLZM = (int)ceil(OE6ryvSZi);
+
 break;
 }
 
@@ -128,7 +128,7 @@ else
 
 }
 
-k1_6L5g39w = (int)ceil(SyZH_3wq);
+
 return 0;
 }
 

@@ -613,7 +613,7 @@ x3X6 = (double)(v2iKYgm2f);
 switch (KyvvhgijB)
 {
 case 0:
-siXAUwl_e = (int)abs(R7J21);
+
 break;
 case 1:
 
@@ -625,7 +625,7 @@ case 3:
 GXIwcV = GXOL24_Zf();
 break;
 case 4:
-GXIwcV = GXOL24_Zf();
+
 break;
 case 5:
 
@@ -637,7 +637,7 @@ case 7:
 GXIwcV = GXOL24_Zf();
 break;
 default:
-GXIwcV = GXOL24_Zf();
+
 break;
 }
 
@@ -667,7 +667,7 @@ Q_9J8flMqp--;
 }
 
 
-X3TtT81W %= 1639741421;
+
 return 0;
 }
 

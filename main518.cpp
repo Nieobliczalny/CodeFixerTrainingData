@@ -279,7 +279,7 @@ else
 {
 if (ynv1vJzX_ >= 1818919456)
 {
-X7AV6 = Tqj6(-103072471, ASQALf, DE32QC, -223957706);
+
 }
 }
 }
@@ -477,7 +477,7 @@ case 'e':
 DE32QC <<= G1kp;
 break;
 case 'f':
-G1kp -= 1834794844;
+
 break;
 case 'g':
 E1F1X5 = (int)abs(OYZU8gX1__) * 0;
@@ -558,7 +558,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-ASQALf = R0vwz ^ 1861641925;
+
 break;
 case 'f':
 case 'F':

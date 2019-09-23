@@ -386,7 +386,7 @@ case 1:
 
 break;
 case 2:
-h7_1o_fvif ^= Jg6nyrPNUk;
+
 break;
 case 3:
 Ztbwg |= o86D8W7;
@@ -398,7 +398,7 @@ case 5:
 
 break;
 case 6:
-GTSAe15MG = Rpea97Lut << NX4jw_QR_3;
+
 break;
 case 7:
 gaD0bZaM5x = (Rpea97Lut < DC_k) ? FFI_tOmU4n : VpNG57zV;
@@ -412,7 +412,7 @@ break;
 }
 }
 
-cA1Ico = (int)floor(FFI_tOmU4n);
+
 
 
 return 0;

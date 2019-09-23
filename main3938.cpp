@@ -24,7 +24,7 @@ int main(int argc, char** argv) {
   unsigned short int  nIBjG;
   nIBjG  =  -1123967094;
  float uuDic;
- uuDic = 1821366969;
+
 	unsigned int	F9_W4;
 	F9_W4	=	-992980914;
 	double	mcM2y9BB3;
@@ -64,7 +64,7 @@ int main(int argc, char** argv) {
   short int  CNXCMPD;
   CNXCMPD  =  518884735;
     unsigned short    zJM5;
-    zJM5    =    135276000;
+
     unsigned short    bBhr;
     bBhr    =    1898522550;
  short vp4_mjDqg9;
@@ -80,7 +80,7 @@ int main(int argc, char** argv) {
  double faqrC3AK3F;
  faqrC3AK3F = -276882899;
  float GQ0cSV8;
- GQ0cSV8 = -238887286;
+
 	int	NKsR7k;
 	NKsR7k	=	1988638842;
   char  R8_f;
@@ -130,7 +130,7 @@ int main(int argc, char** argv) {
   float  cLqu4Hc0;
   cLqu4Hc0  =  1751586512;
   float  U1T_5K;
-  U1T_5K  =  241962596;
+
     long long    SulzT18R;
     SulzT18R    =    77441025;
     unsigned short    i6_oA4K_L1;
@@ -170,7 +170,7 @@ int main(int argc, char** argv) {
  short x8Y_05r;
 
     double    cGE_bq;
-    cGE_bq    =    834584482;
+
     float    tvOMa;
     tvOMa    =    132456042;
 	char	SvcCFJn;
@@ -188,7 +188,7 @@ int main(int argc, char** argv) {
  unsigned short haZgk2V;
 
     unsigned char    b86I;
-    b86I    =    1972931338;
+
 
 std::cout << V0Zh6nk(Km5EyP, vp4_mjDqg9, -1391939029, bDxvhuS) << "zf419" << std::endl;
 for (int i = 6; i >= 0; --i)
@@ -293,7 +293,7 @@ if (XFMV > -1208634494)
 }
 else
 {
-U1T_5K = V0Zh6nk(-1335510080, NKsR7k, sQAz, 1685534226);
+
 }
 }
 i++;
@@ -314,7 +314,7 @@ case 2:
 E50i8R = (int)floor(bDxvhuS);
 break;
 case 3:
-Rp5lEpyt5S = A9aZK79QT(940555194, Ajw4, n_1H5uH_k, SvcCFJn);
+
 break;
 }
 
@@ -390,7 +390,7 @@ case 2:
 e9a13k--;
 break;
 case 3:
-tvOMa = (int)ceil(IWA86D7);
+
 break;
 case 4:
 Ko8498++;
@@ -435,7 +435,7 @@ case 3:
 OxOtEui = (int)abs(kzb1);
 break;
 case 4:
-x8Y_05r = CAtg11c(-345072007, NKsR7k, -1063978785, Se1Amv_b, -1859222262) >> 1763253948;
+
 break;
 case 5:
 xplKs3M8r0 = NKsR7k | d8s_;
@@ -475,7 +475,7 @@ while (i >= 0);
 switch (jkV_J)
 {
 case 0:
-U1T_5K = D7RUqYl - 1121016667;
+
 break;
 case 1:
 
@@ -582,7 +582,7 @@ else
 }
 
 
-fqegk = iB3pL + 1028605053;
+
 {
 int i = 7;
 while (i >= 0)

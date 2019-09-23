@@ -36,7 +36,7 @@ int main(int argc, char** argv) {
   EZ4PiUW3  =  917955633;
   p2_YPRX  =  -738451534;
   tkz7m9M  =  1182755266;
-  MSiDjMi  =  2002170521;
+
 
   UIR71s  =  1017550422;
   E4jPKW1e9  =  1840620488;
@@ -183,7 +183,7 @@ case 3:
 
 break;
 case 4:
-Booxii = EmPNG0At(1764007478, tkz7m9M, 436298756);
+
 break;
 case 5:
 k9VVDhXShZ = EmPNG0At(2142482946, 875231219, k9VVDhXShZ);
@@ -228,7 +228,7 @@ case 'F':
 break;
 case 'g':
 case 'G':
-UFPGjiTRd = E9_wDm6l ^ O9W1JK;
+
 break;
 case 'h':
 case 'H':

@@ -88,7 +88,7 @@ int main(void)
   unsigned short  L_sm4EZv3;
 
  double mL3845Dy;
- mL3845Dy = 1778834869;
+
 	int	ud4Y71;
 	ud4Y71	=	1511008601;
  unsigned long gOyC;
@@ -98,7 +98,7 @@ int main(void)
  long double ps3u;
  ps3u = -1533299994;
     short    tjzdY24oz;
-    tjzdY24oz    =    -980168497;
+
  unsigned short int G59P7118;
 
  long jw8a7v;
@@ -120,7 +120,7 @@ int main(void)
     long    F75oz;
     F75oz    =    -1219158729;
  long long MQyFyO8d4;
- MQyFyO8d4 = 2129554352;
+
  long double n3P_1;
  n3P_1 = 1653882677;
 	unsigned long	lW9h022q8;
@@ -446,7 +446,7 @@ if (BR2iTH != -48491876)
 switch (gOyC)
 {
 case 'a':
-o2hL1uT = bss1(o2hL1uT, -1763945939, p2M40U_rt);
+
 break;
 case 'b':
 sT_WohZwqC = ifKloa - V0fGQ;
@@ -458,7 +458,7 @@ case 'd':
 
 break;
 case 'e':
-m8n1 = B0D_fuYK(Z_jR1, G_9D50q);
+
 break;
 case 'f':
 ps3u = (int)floor(KOqM2gFC);
@@ -486,7 +486,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-SP8T8 /= 1005317266;
+
 break;
 case 'd':
 case 'D':
@@ -506,7 +506,7 @@ case 'G':
 break;
 case 'h':
 case 'H':
-odtV9 = R5_idi_ ^ 479006844;
+
 break;
 }
 

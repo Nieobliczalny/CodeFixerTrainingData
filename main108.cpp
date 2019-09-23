@@ -304,7 +304,7 @@ case 2:
 i83yW = (int)abs(d3Td);
 break;
 case 3:
-D241b_Nb += hS14;
+
 break;
 }
 }

@@ -26,7 +26,7 @@ int main(int argc, char** argv)
     unsigned int    Y51_M3;
     Y51_M3    =    -959239789;
     unsigned long    b3AqTjt;
-    b3AqTjt    =    -962891162;
+
 	unsigned long long	VfoM_593;
 	VfoM_593	=	-898256669;
     unsigned char    WH34_XwAI;
@@ -50,7 +50,7 @@ int main(int argc, char** argv)
   long double  dwA3B_;
 
  unsigned short int y9ju86o_X;
- y9ju86o_X = -1639116369;
+
 	char	oOCt8W3E;
 	oOCt8W3E	=	1343733977;
   int  Hegyz_66;
@@ -62,7 +62,7 @@ int main(int argc, char** argv)
 	unsigned short	SH2h2;
 	SH2h2	=	313127389;
   short int  mLLz5;
-  mLLz5  =  -601549386;
+
   char  hqYV7;
 
     long long    LOBsd8d;
@@ -82,7 +82,7 @@ int main(int argc, char** argv)
 	unsigned short int	MSOr_z_ad;
 	MSOr_z_ad	=	779198197;
 	long	yxz2DBc3;
-	yxz2DBc3	=	-1347518830;
+
     float    m7_VfZ;
     m7_VfZ    =    -1282575827;
  long long C70uhp5UJZ;
@@ -98,7 +98,7 @@ int main(int argc, char** argv)
     short int    jb2e;
 
  int jiuo;
- jiuo = -1125354088;
+
     long double    WL0O9gXL3;
     WL0O9gXL3    =    -182962188;
  unsigned short int l963pB;
@@ -124,7 +124,7 @@ int main(int argc, char** argv)
   char  jesAcAjy2;
 
   long double  Bpf2b_;
-  Bpf2b_  =  -1635347379;
+
   unsigned long  a744m5erZ7;
   a744m5erZ7  =  1569479135;
  short int f22V38oB;
@@ -136,7 +136,7 @@ int main(int argc, char** argv)
   unsigned long long  C1j_;
 
 	long long	kqVEKU_yo2;
-	kqVEKU_yo2	=	1481972813;
+
   unsigned char  nql47V2b;
   nql47V2b  =  247352665;
   double  Ng0zc38NG;
@@ -148,7 +148,7 @@ int main(int argc, char** argv)
 	unsigned short int	O0yoM8nt;
 
     unsigned short    lFxkw_sDX5;
-    lFxkw_sDX5    =    -743946630;
+
   long double  c9wXATlU8F;
   c9wXATlU8F  =  1721620211;
  int k0eRNKGa_;
@@ -160,7 +160,7 @@ int main(int argc, char** argv)
  long lh2B8LR;
 
   unsigned int  ENI8T7SZd;
-  ENI8T7SZd  =  -288338637;
+
     unsigned int    do7H;
     do7H    =    1169905852;
     unsigned short int    bdu7;
@@ -206,7 +206,7 @@ case 3:
 
 break;
 case 4:
-Zz3RJkt = X5869q(-483929037);
+
 break;
 default:
 d1W16 = (int)abs(i7OB7t1B);
@@ -235,7 +235,7 @@ case 'e':
 
 break;
 case 'f':
-Bpf2b_ = (int)abs(cF9Qi) + (1800413889);
+
 break;
 case 'g':
 

@@ -384,7 +384,7 @@ if (Kvhtnqo8 == z5G_WA)
 std::cout << RizZ9dtk(1643501311) << VRwxcil7w(1044348097, 1631039340) << JEQ55Jbr << p9yxy << Nb3t << std::endl;
 }
 
-s5Z_IOY = (unsigned long long)(y8_d3Av2);
+
 if ((E_3Zd7RF & 1818937242) && (y8_d3Av2 < 1754499167))
 {
 switch (Nb3t)
@@ -399,7 +399,7 @@ case 'c':
 JEQ55Jbr = p9yxy << 139569480;
 break;
 case 'd':
-KRjOkz = RizZ9dtk(KRjOkz);
+
 break;
 default:
 F7Gr5 = O7y_u / 425249086;
@@ -435,7 +435,7 @@ while (i < 1);
 int i = 4;
 do
 {
-HA0Gb_j = JEQ55Jbr - P0mP1n2HJI;
+
 --i;
 }
 while (i >= 0);

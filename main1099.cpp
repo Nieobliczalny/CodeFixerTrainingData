@@ -483,7 +483,7 @@ Xi37V16l = (int)abs(gdh2y2Ke);
 break;
 case 'd':
 case 'D':
-LiGAz = (int)abs(K62gq4v1Y6) + (-2016548457);
+
 break;
 case 'e':
 case 'E':

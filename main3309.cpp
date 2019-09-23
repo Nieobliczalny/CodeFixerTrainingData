@@ -261,7 +261,7 @@ do
 j++;
 try
 {
-S6kz44J8 = SGHz_N(-498714237, KYPDE, b9LSx77Xu, fw13, ta3yf);
+
 }
 catch (int& errorCode)
 {
@@ -333,7 +333,7 @@ case 2:
 
 break;
 default:
-k0fq8V = ta3yf - fAslP_;
+
 break;
 }
 }

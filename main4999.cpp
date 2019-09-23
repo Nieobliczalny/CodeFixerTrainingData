@@ -560,7 +560,7 @@ case 'c':
 
 break;
 case 'd':
-B6q3Hc1 = WZ8OSVm7 & 1066055271;
+
 break;
 case 'e':
 x0lUw0SBO = Wn1rz6Rf4 << p1r0903WU;
@@ -705,7 +705,7 @@ else
 
 }
 
-x86F1b32 = (int)ceil(THY_jeCu5);
+
 try
 {
 yLp03llD3 = jDV3(yLp03llD3, hYmTrp68v0, 2041246014, -459756098, -720330924);

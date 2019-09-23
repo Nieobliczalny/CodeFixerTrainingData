@@ -71,7 +71,7 @@ CJ8t5 = IX3q1wE(-1161950039, MZ8Ve705, -543117918, -194606951, sHharQ10);
 
 for (int i = 0; i < 8; i++)
 {
-daA32vk8Rz = (int)abs(lGcEj1CDIl);
+
 }
 
 for (int i = 9; i >= 0; --i)
@@ -262,7 +262,7 @@ case 'c':
 
 break;
 case 'd':
-DYom9H4Nu = (int)abs(cLmIt7DIk);
+
 break;
 case 'e':
 x_4ZW += Vz4a;
@@ -388,7 +388,7 @@ case 2:
 P80a = XPw5HVgcU(1724756606, -1073404219, FC1_, Sdx0A_2qQU, -1219731112);
 break;
 case 3:
-z9Q_ ^= MAq7;
+
 break;
 case 4:
 
@@ -470,7 +470,7 @@ break;
 }
 else
 {
-A98_ = IX3q1wE(673988210, -784005402, 1616212239, -278302875, fa172) / uVy2ec98;
+
 }
 return 0;
 }

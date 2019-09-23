@@ -22,7 +22,7 @@ int main(int argc, char** argv)
   Y9MR0D8  =  -1806673602;
 
 
-  NRKV8J  =  722371702;
+
   P0sV0  =  72721982;
   j85PDrT15j  =  -1247155664;
   Wc4AH  =  -823030754;
@@ -32,7 +32,7 @@ int main(int argc, char** argv)
   KKEQJIVWQ  =  992911890;
 
 
-  NqvQi_  =  496131379;
+
   j2CK9Gy_  =  -1228555675;
   nh55R_AR  =  297949546;
   TYMfPp24g6  =  844110734;
@@ -44,7 +44,7 @@ int main(int argc, char** argv)
 
   O13hO  =  1514232768;
 
-  zTy0Ja9c  =  -19686698;
+
   voVpM4U  =  771520681;
   O1_ln  =  380773189;
   AuJZ055  =  -321571314;
@@ -54,7 +54,7 @@ int main(int argc, char** argv)
   w9Kx  =  862345671;
 
 
-  LUm1S1_  =  1951952307;
+
   d4g24kSkr  =  342416872;
   C2b5C  =  1678643306;
   B9_ejE_  =  -427823071;
@@ -94,7 +94,7 @@ yMj13rGyG1 <<= 1431870874;
 std::cout << d4g24kSkr << "rx5LNDP5" << "qVt_j" << O1_ln << QSIu() << std::endl;
 
 
-r5fkfUP5W = (int)abs(bM6VY_N);
+
 return 0;
 }
 

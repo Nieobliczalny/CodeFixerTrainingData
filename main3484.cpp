@@ -497,7 +497,7 @@ case 4:
 
 break;
 default:
-qp7X9Xmi_0 = (int)abs(REU98Ab);
+
 break;
 }
 }
@@ -558,7 +558,7 @@ case 1:
 
 break;
 case 2:
-KZ7qR = (X8ce <= 9133733) ? 1292050606 : B8q597D78;
+
 break;
 case 3:
 v04aqZ8 = C5CV5(-304037728, E6S7, 611374457);

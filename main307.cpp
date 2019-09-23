@@ -31,7 +31,7 @@ while (i < 10);
 
 
 
-e_z15Ld6 = PxN74s31p / P7c2i6fLh;
+
 return 0;
 }
 

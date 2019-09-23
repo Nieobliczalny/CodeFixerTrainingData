@@ -58,7 +58,7 @@ int main(int argc, char** argv) {
 
 	tup80w	=	-268300938;
 	jj09m	=	1043415322;
-	Jj7JhagG	=	-1900115105;
+
 	r_G5d0Q8NI	=	-1912500974;
 	KvshV8vl	=	259156665;
  long long guYlOAE_, IjE0, vrR_q9pp;
@@ -315,7 +315,7 @@ b4tMhR2Uy -= B254cuTQ;
 
 if (((B254cuTQ < 1478610883) && (guYlOAE_ < IKDF0N8)) && (bjI1Q))
 {
-Jj7JhagG = DpI80z | 123286805;
+
 }
 
 b4tMhR2Uy = OLy_37Y3(vrR_q9pp, NG2j, F7hhrUmWX9) / guYlOAE_;
@@ -712,7 +712,7 @@ while (j >= 0);
 
 
 
-fE85qN54Sq = (int)(IKDF0N8 + (1685399856));
+
 
 
 {

@@ -27,7 +27,7 @@ int main() {
 	short int	MRE7;
 
  int n6QHA;
- n6QHA = -129695263;
+
     long long    Vx413o1z;
     Vx413o1z    =    -743421456;
     short int    Q780hJ;
@@ -43,7 +43,7 @@ int main() {
 	int	mT93hSJ;
 
   unsigned long  XI__026B;
-  XI__026B  =  -915163394;
+
 	unsigned char	hMFvWaK;
 	hMFvWaK	=	447259320;
   unsigned long long  X2mVfmw;
@@ -55,7 +55,7 @@ int main() {
 	float	ZmmeTeGb;
 
  long double fEu7;
- fEu7 = -1121123711;
+
   short int  N438;
   N438  =  -1814495593;
  double D22K;
@@ -77,7 +77,7 @@ int main() {
     unsigned int    E8r4806;
 
   float  FQSPC4___w;
-  FQSPC4___w  =  1037587764;
+
 	char	Vkzo_6hi;
 	Vkzo_6hi	=	966099238;
     unsigned long long    n86iMN2_e2;
@@ -99,7 +99,7 @@ int main() {
     unsigned char    i_3_B8Y;
     i_3_B8Y    =    576081913;
     long long    svmNq42I0;
-    svmNq42I0    =    0;
+
   char  Jkbo4eMor6;
   Jkbo4eMor6  =  1143415060;
     long long    ko4VluKoS;
@@ -131,7 +131,7 @@ int main() {
  long nQ9Sqh_WJ_;
  nQ9Sqh_WJ_ = 462826856;
     long long    jwV3gZI;
-    jwV3gZI    =    1542265224;
+
  unsigned long long XCqo;
 
 	short int	l_rJiP1dG4;
@@ -149,7 +149,7 @@ int main() {
   unsigned short int  uX212Z;
 
  double i9H72S;
- i9H72S = 554470843;
+
 	long double	QtjIV5;
 	QtjIV5	=	-1798542265;
 	char	P63_IepJQn;
@@ -163,7 +163,7 @@ int main() {
 	unsigned short int	W6_nPjfYe;
 
 	unsigned long	r69B3WtQp;
-	r69B3WtQp	=	600409765;
+
   unsigned short  HvOh8_J;
   HvOh8_J  =  1248389627;
  float mapOe4;
@@ -179,7 +179,7 @@ int main() {
 	long	l7o0szl_U;
 	l7o0szl_U	=	957179779;
   float  q8519_Hh;
-  q8519_Hh  =  -1960762058;
+
 
 for (int i = 3; i >= 0; --i)
 {
@@ -192,7 +192,7 @@ CVSC += mapOe4;
 cout << mapOe4 << endl;
 if ((X4c_gGMU >= DF0H) || (w7OrK > 363644208))
 {
-n6QHA = (int)(krn010BKA);
+
 }
 hMFvWaK = cc_PI9ZOT2();
 if (i_3_B8Y)
@@ -343,7 +343,7 @@ R4Y6e22 = cc_PI9ZOT2();
 }
 }
 
-P63_IepJQn = (char)(hMFvWaK);
+
 if (K_5Id > v3o1t)
 {
 try
@@ -358,7 +358,7 @@ else if (X2mVfmw & OQvn)
 }
 else if (((lu1d_ < l7o0szl_U) && (le_1 >= p7K3NSdAz3)) && (lS0a87 >= 871360718))
 {
-n6QHA = (int)abs(jUHw9wEi09);
+
 }
 else if ((Ch5t_nMArV >= mapOe4) && (Vkzo_6hi == ez8J))
 {
@@ -385,7 +385,7 @@ case 1:
 
 break;
 case 2:
-YUG3ENi = n2LuA_ % 1049159077;
+
 break;
 case 3:
 D22K = (int)ceil(xLKr3KbB45);

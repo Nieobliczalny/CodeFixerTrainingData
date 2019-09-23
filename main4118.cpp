@@ -99,7 +99,7 @@ case 'e':
 phj7d7ozd = (int)ceil(u06G1);
 break;
 case 'f':
-j_4N3obh = (int)floor(O4TZh);
+
 break;
 case 'g':
 yULTw = (int)abs(i0055o3c96);
@@ -116,7 +116,7 @@ int i = 4;
 while (i >= 0)
 {
 --i;
-i6CZH_6 = ZF93xz1(2106979839);
+
 }
 }
 if (m314_75Z >= 1636499589)
@@ -179,7 +179,7 @@ if ((zY90c1TH6A > -911607931) && ((Q47DsEtg0 <= -1163158272) || (yULTw <= -15085
 {
 try
 {
-dvTGIM_uJ = IfRj1BWDT0(-1864318602);
+
 }
 catch (int& errorCode)
 {
@@ -194,7 +194,7 @@ switch (ya37z)
 {
 case 'a':
 case 'A':
-umlU3AC <<= 1660040040;
+
 break;
 case 'b':
 case 'B':

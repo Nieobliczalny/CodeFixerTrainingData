@@ -245,7 +245,7 @@ else
 }
 else
 {
-o7H2q29 = X_8971Pn6f(386722566, -688409103, TJddrzy4L, nPRglq, C8Ycw3y);
+
 }
 
 VRi7IuIJv = (double)(B___ic8I);
@@ -266,7 +266,7 @@ case 'c':
 
 break;
 default:
-y2_e9 = (int)abs(ndpM);
+
 break;
 }
 }
@@ -280,7 +280,7 @@ else
 }
 juf8++;
 
-B_zx7P = VRi7IuIJv * e62farUOK;
+
 JN37g = (int)ceil(ndpM);
 return 0;
 }

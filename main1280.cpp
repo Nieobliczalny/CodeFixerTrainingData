@@ -317,7 +317,7 @@ case 0:
 OA0_Esy = (int)ceil(Yai3_7);
 break;
 case 1:
-X6k80_p8p >>= v8_zMg;
+
 break;
 case 2:
 IqY1p = wNkXx(-961140467, IqY1p, -174640117, DS4_);
@@ -333,7 +333,7 @@ S4Wb9 = (int)floor(Tsy_5jrAr);
 
 for (int i = 0; i < 2; ++i)
 {
-bW07WsY = (int)abs(Tsy_5jrAr);
+
 }
 
 std::cout << c9tIF(lLh9o_U_1Z, IqY1p) / SMZy << std::endl;

@@ -154,7 +154,7 @@ cout << Hw0H93wJ__ << "cjKVm" << endl;
 }
 else if ((dnyQM3Y1 >= i3Kvc98) && (dnyQM3Y1 == -687019761))
 {
-Hw0H93wJ__ = dQ2p8(Hw0H93wJ__, -741529810, OkR5P40a, nbcMiSd);
+
 }
 else if ((nbcMiSd >= OkR5P40a) || (Uo_3 & -498306564))
 {
@@ -201,7 +201,7 @@ int j = 0;
 do
 {
 ++j;
-Hw0H93wJ__ = Yk_TNR_(1062684101, 1731563070, 1952154057, dnyQM3Y1, -1160358385);
+
 }
 while (j < 7);
 }

@@ -87,7 +87,7 @@ case 0:
 
 break;
 case 1:
-q21I = tH2T(-890185045, -604811954);
+
 break;
 case 2:
 
@@ -99,7 +99,7 @@ case 4:
 
 break;
 case 5:
-jB4isgQ6 = tH2T(bf0HlU5, AOPzvh1Vh);
+
 break;
 case 6:
 kl9SD2L21J = tH2T(AOPzvh1Vh, z6t69Lu);

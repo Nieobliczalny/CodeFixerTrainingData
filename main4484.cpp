@@ -28,7 +28,7 @@ int main() {
 	unsigned int	pZ7Z95V3EX;
 	pZ7Z95V3EX	=	329111956;
     char    xemt;
-    xemt    =    2138093588;
+
   unsigned int  oEsA7Ug;
   oEsA7Ug  =  -258723050;
  unsigned int s_6y54f;
@@ -227,7 +227,7 @@ case 1:
 
 break;
 case 2:
-VFNI2_ = oEsA7Ug - w5hSHyx_1;
+
 break;
 case 3:
 Adw6j8u3 += T19y3;
@@ -239,7 +239,7 @@ case 5:
 
 break;
 case 6:
-DnkBlkMQY = (int)abs(VFNI2_);
+
 break;
 case 7:
 s_6y54f *= 397661575;

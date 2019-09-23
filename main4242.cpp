@@ -65,7 +65,7 @@ int main()
   unsigned int  Y2p3czD0E;
   Y2p3czD0E  =  -1748878315;
     unsigned long long    l21_N;
-    l21_N    =    1970129068;
+
  long double Q56idA2G7;
  Q56idA2G7 = -2042783864;
 	float	QPYA;
@@ -87,7 +87,7 @@ int main()
   unsigned char  f4_KMX_;
   f4_KMX_  =  -1599684192;
     long    Q3nF;
-    Q3nF    =    1565435985;
+
 	double	Hmi_6P;
 	Hmi_6P	=	-1143834753;
 	int	q1Np4;
@@ -238,7 +238,7 @@ break;
 i41ar = O_Gg >> ZOr1;
 if (i41ar >= b37u1)
 {
-K0Aa6f8 = (int)abs(Ou05CUG9);
+
 }
 else if (Ou05CUG9 & 309734831)
 {
@@ -252,7 +252,7 @@ case 0:
 Q56idA2G7 = (int)floor(Ngqi);
 break;
 case 1:
-K0Aa6f8 |= E7I7OgA08;
+
 break;
 case 2:
 K0Aa6f8 += 1923952275;
@@ -365,7 +365,7 @@ else
 switch (Ifi8)
 {
 case 0:
-D38fgd = (int)floor(oVHQ_26MCT);
+
 break;
 case 1:
 
@@ -377,7 +377,7 @@ case 3:
 
 break;
 case 4:
-w6NGuH6M <<= b37u1;
+
 break;
 case 5:
 

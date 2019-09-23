@@ -198,7 +198,7 @@ else
 {
 for (int k = 9; k >= 0; k--)
 {
-rwqSJiBGB = SeisE80t / 1257877890;
+
 }
 }
 }

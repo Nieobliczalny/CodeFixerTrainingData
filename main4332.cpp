@@ -61,7 +61,7 @@ if (G3_qOCvu5)
 {
 p1S_aiFc = (long)(TsVQ_);
 }
-O0YdU_rLl = (int)abs(p1S_aiFc);
+
 
 
 
@@ -132,7 +132,7 @@ cout << wdI33 << chOx << "X_0ef5" << endl;
 
 
 
-wdI33 = (long)(ms0Opd4p);
+
 qps7P_30 %= Gl6Ib;
 
 return 0;

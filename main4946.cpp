@@ -152,7 +152,7 @@ case 'h':
 p_u9mcg = (int)ceil(X87SoUQz6);
 break;
 case 'i':
-g_wqa08A = XJSQ1I4r7 ^ 1900982113;
+
 break;
 case 'j':
 p_u9mcg *= X87SoUQz6;
@@ -328,7 +328,7 @@ mb4_w8 = Y6P3d2(-633396113, 1968874835, x562Sya1, 1429183073, -1179700171);
 }
 
 
-OX43XrDQ = WslJOa(2014819279, mb4_w8);
+
 
 for (int i = 6; i >= 0; --i)
 {

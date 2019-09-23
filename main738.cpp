@@ -547,7 +547,7 @@ case 'a':
 
 break;
 case 'b':
-Ciz8acRYHu = RrZB(Ciz8acRYHu, z_UL_ty);
+
 break;
 case 'c':
 
@@ -736,7 +736,7 @@ while (i >= 0);
 }
 
 
-VaVnnrsa7r = (unsigned short)(KF_YG_);
+
 s_ZI830e = w30Z3e0uM2 >> Huc7koDZk;
 for (int i = 0; i < 9; ++i)
 {
@@ -794,7 +794,7 @@ else if (o77a_P0I >= -834510122)
 }
 else if (zFg_ != -155439870)
 {
-pg_LX4 = nAidsM(o77a_P0I, x6929e, v3HS6);
+
 }
 else
 {

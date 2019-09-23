@@ -19,7 +19,7 @@ int main(void) {
 
     kVt_    =    0;
 
-    JLnw6_f4G5    =    0;
+
     Ke_7    =    0;
 	unsigned int	ZIV5,	V05F,	Is4Ne,	BH_cjKmV_c,	uY8jjcB7q,	meja,	q5k9353p,	Y82K0c4,	VfBK0,	kg6eY;
 	ZIV5	=	-636894710;
@@ -30,7 +30,7 @@ int main(void) {
 	meja	=	2022589877;
 	q5k9353p	=	-1271819199;
 
-	VfBK0	=	104287971;
+
 	kg6eY	=	-157202339;
 
 kg6eY = (unsigned int)(meja);

@@ -37,7 +37,7 @@ MY__Q9 = z3Cf_(MY__Q9, 1819374201);
 }
 cout << Q5S4QrRW << endl;
 
-cWRhlS25E = Q1t7X / HuKhQ;
+
 if (WnLO >= T0_g)
 {
 Li5Srq2gN = (unsigned int)(Ze99j);
@@ -47,7 +47,7 @@ else
 
 }
 
-XS9IFl_nKn = (unsigned int)(w617T);
+
 
 H4Ldg3rl2 &= naW__;
 switch (nE7q8OfmX)
@@ -58,7 +58,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-j12L = (int)abs(dG7FU);
+
 break;
 case 'c':
 case 'C':

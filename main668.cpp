@@ -27,7 +27,7 @@ int main(int argc, char** argv)
   long double  WVq_;
   WVq_  =  1022706348;
   unsigned long long  fl9Np90;
-  fl9Np90  =  966321188;
+
 	unsigned short	zFo2tV;
 
  long sp5Y9q;
@@ -43,7 +43,7 @@ int main(int argc, char** argv)
     double    o2g0p;
     o2g0p    =    56322244;
     double    Zo9Ag;
-    Zo9Ag    =    -1779135250;
+
     unsigned int    xhQjkvpkLB;
 
     unsigned int    EDs9d;
@@ -53,7 +53,7 @@ int main(int argc, char** argv)
     long long    vL3N1U2c9;
     vL3N1U2c9    =    1985413432;
  unsigned long V28O;
- V28O = 177010264;
+
   unsigned short  x_5Y1A9m;
   x_5Y1A9m  =  -168818346;
  short int U6Wy8WD337;
@@ -63,7 +63,7 @@ int main(int argc, char** argv)
     long    k3J8zh3rSb;
     k3J8zh3rSb    =    -1474456416;
 	int	EaTb_pOw91;
-	EaTb_pOw91	=	0;
+
 	unsigned int	qZ4w;
 	qZ4w	=	1776656366;
 	long long	N5n76f;
@@ -95,7 +95,7 @@ int main(int argc, char** argv)
   short  ySc_4o7;
 
   double  AAAbGO;
-  AAAbGO  =  2005875194;
+
     unsigned long    vxd05iEbS;
     vxd05iEbS    =    -2081257413;
  unsigned short int lkC205Vn8;
@@ -107,7 +107,7 @@ int main(int argc, char** argv)
  unsigned char z66JglBl71;
 
  unsigned short int EmO1Q0;
- EmO1Q0 = 168876355;
+
 	float	r8v2;
 	r8v2	=	1091682617;
   short  k1Gc2q;
@@ -216,7 +216,7 @@ case 3:
 WVq_ = (int)floor(zdW2OA);
 break;
 case 4:
-EaTb_pOw91 = m4ry_kW7c(1622254111, k1Gc2q);
+
 break;
 case 5:
 
@@ -234,7 +234,7 @@ while (j >= 0)
 j--;
 if (sp5Y9q >= RnCs8KK)
 {
-Giw9R = (int)ceil(r8v2);
+
 }
 }
 }
@@ -258,7 +258,7 @@ case 0:
 
 break;
 case 1:
-EaTb_pOw91 = m4ry_kW7c(-1566746965, -468064835);
+
 break;
 case 2:
 
@@ -273,7 +273,7 @@ case 5:
 M0938 = rR0_(M0938, zyrDes7, EaTb_pOw91);
 break;
 case 6:
-EaTb_pOw91 = (int)abs(F3R26W8) * 0;
+
 break;
 }
 
@@ -300,7 +300,7 @@ do
 while (i < 10);
 }
 
-fl9Np90 = (qx2P4h >= AwU0) ? rR0_(M0938, zyrDes7, 1722528753) : m4ry_kW7c(M0938, 1328629112);
+
 
 std::cout << m4ry_kW7c(-611740512, zyrDes7) << m4ry_kW7c(M0938, zyrDes7) << qZ4w << m4ry_kW7c(1104056296, 1865975891) << "WKrD2FD" << std::endl;
 

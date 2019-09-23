@@ -172,7 +172,7 @@ case 6:
 
 break;
 case 7:
-Nw_Hdb = Za09L20Y10 >> u52Zz;
+
 break;
 case 8:
 hzb0z0mM |= 464606433;
@@ -362,7 +362,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-Za09L20Y10 %= Zl29A0y4XQ;
+
 break;
 case 'g':
 case 'G':

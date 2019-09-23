@@ -136,7 +136,7 @@ case 'h':
 
 break;
 case 'i':
-XID1 = (int)floor(cv2zuPVWnD);
+
 break;
 case 'j':
 
@@ -147,7 +147,7 @@ while (i < 6);
 }
 Aht2 = ZjxN(-1118957579, 1217296086, -385601257);
 
-d2Pt86_Ooa = (int)abs(R5LF142L);
+
 if (feow == 467117750)
 {
 R5LF142L++;
@@ -231,7 +231,7 @@ case 'b':
 
 break;
 case 'c':
-feow = (int)abs(w4H50_Dg4O);
+
 break;
 case 'd':
 XID1 = MZ86(117610899, MBalh8j, 593467986, xBgPz1cB, Aht2);

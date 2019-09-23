@@ -37,7 +37,7 @@ int main(void) {
     aVsOKfS    =    1039475555;
 
     AKNPrH    =    751919214;
-    RTCp_2DL    =    104606877;
+
     I8dKXK    =    -1283394241;
     kI4byok    =    20732965;
     isa3c0Zd    =    -365900437;
@@ -357,7 +357,7 @@ PM_mp34SSp = iLxJfi40(xwsK, -57385004);
 break;
 case 'b':
 case 'B':
-RTCp_2DL = woV2HI_ >> 290850889;
+
 break;
 case 'c':
 case 'C':

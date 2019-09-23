@@ -22,7 +22,7 @@ int main() {
     unsigned char    G1xs;
     G1xs    =    1004411831;
     unsigned long    V76f9V;
-    V76f9V    =    -1479631954;
+
  unsigned long N2v43GLH;
  N2v43GLH = -1873952287;
 	char	E_10175E_H;
@@ -42,7 +42,7 @@ int main() {
  unsigned int Uz_bQ4xd4;
  Uz_bQ4xd4 = -550092148;
  unsigned int XagQ7KG8;
- XagQ7KG8 = -1960150866;
+
 	char	b8LvtFz;
 
 	char	Pv_jvk564v;
@@ -184,7 +184,7 @@ zoTr1tG_ = tRiql << 1203122661;
 }
 else
 {
-XagQ7KG8 = y41J0D4 / 1088033137;
+
 }
 }
 else if ((K1R87ujp >= Xgm1M83) || ((y41J0D4 <= 1068674904) && (tRiql)))
@@ -669,7 +669,7 @@ case 'e':
 WkR64q = (int)floor(F0SgyAV);
 break;
 case 'f':
-M4t40 ^= Z1_9IWU1;
+
 break;
 case 'g':
 
@@ -748,7 +748,7 @@ else
 
 for (int i = 0; i < 3; ++i)
 {
-WkR64q = (int)floor(J8F1xu_qg4);
+
 }
 for (int i = 5; i >= 0; i--)
 {

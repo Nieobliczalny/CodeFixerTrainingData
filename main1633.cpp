@@ -670,7 +670,7 @@ case 8:
 
 break;
 default:
-O1C5lx17 = WT3m414bgr(-1965854357);
+
 break;
 }
 }
@@ -912,7 +912,7 @@ else
 }
 
 
-fp34 = (short)(RJ8_5_);
+
 DbYouE = (int)floor(j5zi0uNN);
 return 0;
 }

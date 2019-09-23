@@ -44,7 +44,7 @@ int main(void) {
     char    O_2FYLaMnG;
 
  long rysA;
- rysA = -541909494;
+
  short sEXT4byG;
  sEXT4byG = -83161847;
     long double    Wnj2BD;
@@ -64,7 +64,7 @@ int main(void) {
 	int	Z462ic7;
 	Z462ic7	=	1161726684;
   short  fZ805Z;
-  fZ805Z  =  668501153;
+
     double    A1l0ZpK;
     A1l0ZpK    =    -718649088;
 	long	W02EzX6b9;
@@ -94,7 +94,7 @@ int main(void) {
 	unsigned long	TEa2qN;
 	TEa2qN	=	-1997841849;
 	float	TY9Fz;
-	TY9Fz	=	-513491032;
+
 	short int	UPK_0LdMC2;
 	UPK_0LdMC2	=	119350860;
 	long	Os204dB_V;
@@ -108,7 +108,7 @@ int main(void) {
 	char	QO_vL__H;
 	QO_vL__H	=	1902240476;
   unsigned short int  ivX517a4MA;
-  ivX517a4MA  =  1238713577;
+
  short int rZKfAYiLZ;
  rZKfAYiLZ = 842549112;
   char  i034_rL2X;
@@ -118,7 +118,7 @@ int main(void) {
  unsigned short int SmUu372J81;
  SmUu372J81 = -1408523428;
   long double  T4FM;
-  T4FM  =  1949645837;
+
   int  OT9K;
   OT9K  =  -1735914131;
 	char	h9fE;
@@ -130,7 +130,7 @@ int main(void) {
  char s8XNW84_W;
  s8XNW84_W = -1825021427;
   unsigned short  u7bA896;
-  u7bA896  =  -1908680260;
+
     long long    P167W;
     P167W    =    -2142465325;
     unsigned char    W6e_vg7;
@@ -164,7 +164,7 @@ int main(void) {
     int    yi4q45shaE;
     yi4q45shaE    =    1734995564;
   double  U90F5vAGf7;
-  U90F5vAGf7  =  582372850;
+
     unsigned long    kFhy;
     kFhy    =    1562886591;
     float    YfG790p;
@@ -266,7 +266,7 @@ break;
 }
 if (rZKfAYiLZ > M6q9)
 {
-z537Tp3Ca |= W02EzX6b9;
+
 }
 else if ((A1l0ZpK > M6q9) || ((QO_vL__H) || (flBds8S < -1492250705)))
 {
@@ -410,7 +410,7 @@ else if (((i034_rL2X & AmI9BnAt) || (rsI8110)) || ((TEa2qN >= IAJzgTP0dX) && (sE
 }
 else if (yItp >= kFhy)
 {
-vxaMJ65HZ = gg9L & Os204dB_V;
+
 }
 else
 {
@@ -489,7 +489,7 @@ else if (QO_vL__H <= IAJzgTP0dX)
 }
 else
 {
-flBds8S = pncv(1608073724, Sbcn7VD, DRPB2MP);
+
 }
 }
 else
@@ -548,7 +548,7 @@ case 'b':
 
 break;
 case 'c':
-g9_hwy = pncv(g9_hwy, P167W, Wnj2BD);
+
 break;
 case 'd':
 KA2o_ = vn6JNi1n6B(-167309067, im80, g4_Wc82OUr, KA2o_);
@@ -560,7 +560,7 @@ case 'f':
 
 break;
 case 'g':
-im80 = (int)floor(T3R4t);
+
 break;
 case 'h':
 svlYiIf_ %= yi4q45shaE;

@@ -22,7 +22,7 @@ int main()
 	short int	BK0p,	dId6E6,	Ot8518mGzB;
 
 	dId6E6	=	0;
-	Ot8518mGzB	=	0;
+
 
 Ot8518mGzB = (int)abs(dId6E6);
 

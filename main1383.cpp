@@ -46,7 +46,7 @@ int main(void) {
 
 	sKp49_5ph7	=	-1532127509;
 	qd1RiI	=	1366754696;
-	V_yn7qjUGr	=	1876044610;
+
 	mxhj6C	=	2074228329;
 	xGDez7LS	=	1355675002;
 	cC_2a	=	-1484372518;
@@ -60,7 +60,7 @@ int main(void) {
 	gtJ032znC8	=	-1547192211;
 
 
-GKDF92W5_6 |= sKp49_5ph7;
+
 
 try
 {
@@ -145,7 +145,7 @@ case 'D':
 
 break;
 }
-hkHHLxz = sKp49_5ph7 / Rt8s9V9g5;
+
 try
 {
 

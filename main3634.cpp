@@ -47,7 +47,7 @@ int main(int argc, char** argv)
     UWDL5Zj    =    -1515275481;
 
     dX0_    =    1638515746;
-    NWnsaCABat    =    -1360407198;
+
     qSEZ    =    2115815681;
     E1x4UG9    =    -1442598168;
     SW68E    =    -1163281223;

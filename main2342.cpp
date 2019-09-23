@@ -283,7 +283,7 @@ else
 {
 for (int k = 0; k < 7; k++)
 {
-g9Vp = (int)floor(ANBj_1);
+
 }
 }
 }
@@ -747,7 +747,7 @@ i++;
 
 }
 }
-NvMu4F459N = (int)floor(cEe8kl);
+
 switch (luknSV_o0)
 {
 case 'a':
@@ -787,7 +787,7 @@ default:
 break;
 }
 
-CV46 = (unsigned short)(D7E4);
+
 if (IKCM0g3xOO >= D7E4)
 {
 LMlPP_SFl = HIj_I0(1485568164, 168420612, m1Z03A3);

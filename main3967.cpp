@@ -271,7 +271,7 @@ case 'a':
 
 break;
 case 'b':
-G23iT5J2 = (int)floor(N965);
+
 break;
 case 'c':
 
@@ -289,7 +289,7 @@ case 'g':
 
 break;
 case 'h':
-gCJO = (int)abs(IwHc0);
+
 break;
 case 'i':
 y6XC1H2Z = rI75p57 / KE9254U;
@@ -300,7 +300,7 @@ break;
 }
 
 
-EGOefye0_ = (unsigned short)(txlD1uu6_e);
+
 ab7h6Mp6k6 = (int)(UBJY5);
 
 switch (KE9254U)
@@ -318,7 +318,7 @@ case 3:
 
 break;
 default:
-ao2_1HUq1P = S8I088xs(RpwI, j_Lc);
+
 break;
 }
 
@@ -344,7 +344,7 @@ case 1:
 
 break;
 default:
-uKeR0q /= t1vJ;
+
 break;
 }
 

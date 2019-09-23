@@ -128,7 +128,7 @@ ceSGtn_l = JCv01aY / 1256413342;
 break;
 case 'c':
 case 'C':
-fTiwyn6 = PC7_B * Dp424;
+
 break;
 case 'd':
 case 'D':
@@ -234,7 +234,7 @@ case 0:
 
 break;
 case 1:
-cZTW7_c *= atZ2y86g;
+
 break;
 case 2:
 

@@ -423,7 +423,7 @@ case 'g':
 G2Xj31 = (int)ceil(d0mEbk7);
 break;
 case 'h':
-whVQ = i6u5v ^ 1640744034;
+
 break;
 case 'i':
 y3n1 = j9cRBcNqs(372235590);
@@ -559,7 +559,7 @@ case 'c':
 
 break;
 case 'd':
-y3n1 = j9cRBcNqs(724275556);
+
 break;
 case 'e':
 G2Xj31 = (int)ceil(d0mEbk7);

@@ -34,7 +34,7 @@ int main(int argc, char** argv)
  long WX_iA11;
  WX_iA11 = -822545481;
  unsigned long long d4YT;
- d4YT = -1883334313;
+
   short  I1aw5eg;
   I1aw5eg  =  1628256905;
 	unsigned short int	TAA0et3Yjp;
@@ -348,7 +348,7 @@ else if ((L5c7_ > F_0pX) && ((eggPh0 >= tI8r) && (p1L2QXty & H0cR4Zp)))
 int k = 0;
 while (k < 4)
 {
-U946 = n6_G664(-1818845268, YkK_fB08_, p1EgE5k, EbJvne0mk6);
+
 ++k;
 }
 }
@@ -390,7 +390,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-moD5iw = (int)ceil(Qx26n7u);
+
 break;
 case 'c':
 case 'C':
@@ -401,7 +401,7 @@ case 'D':
 AJIR6Xw = nr5zG8cD % 38418211;
 break;
 default:
-xaE91 = (o2mwKRtH0 & N32aG11_) ? WX_iA11 : -466717501;
+
 break;
 }
 switch (yR4EV6M2T)
@@ -465,7 +465,7 @@ try
 int k = 2;
 do
 {
-moD5iw = (int)ceil(X_0b1F9);
+
 k--;
 }
 while (k >= 0);

@@ -84,7 +84,7 @@ int main(int argc, char** argv) {
 	unsigned char	TkX44gXHfZ;
 
  float f5OhPrrS8D;
- f5OhPrrS8D = -299450233;
+
   unsigned long  tMS3900J4;
   tMS3900J4  =  1446697951;
 	unsigned short	KMASN;
@@ -406,7 +406,7 @@ case 1:
 
 break;
 case 2:
-DVT7FSp = (int)abs(Wo1t);
+
 break;
 default:
 DVT7FSp ^= 1892122551;

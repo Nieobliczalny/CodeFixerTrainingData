@@ -513,7 +513,7 @@ else if (lCLx > -1180503848)
 }
 else
 {
-D7_k = (int)ceil(WMHwH);
+
 }
 }
 else if (u5maJN_Ahp <= rzqWq8)
@@ -620,7 +620,7 @@ case 5:
 
 break;
 case 6:
-D7_k = (int)floor(BHDD999i1);
+
 break;
 case 7:
 c5WY277GV2 ^= 1052188779;
@@ -794,7 +794,7 @@ case 'b':
 
 break;
 case 'c':
-N283p0wPH = uE_rZ();
+
 break;
 case 'd':
 BAN6A_ = uE_rZ();
@@ -815,7 +815,7 @@ case 'i':
 
 break;
 case 'j':
-WMHwH = (int)floor(hTBt31);
+
 break;
 default:
 yk4RmC8V = PcoWnj9(yk4RmC8V, N283p0wPH, v1Gk4kmr9i, dI4DYarWI);

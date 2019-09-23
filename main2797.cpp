@@ -29,7 +29,7 @@ int main(int argc, char** argv) {
 
 	PxfjGHf	=	-1786094273;
 	xaLu3	=	2038718546;
-	VvBraibQi	=	1660217900;
+
 	N_CoTgg4	=	1268411591;
 	lUvKe	=	1006774586;
 	kyfSb	=	1006960109;
@@ -45,7 +45,7 @@ int main(int argc, char** argv) {
 	ni_6R	=	155137055;
 	TY169wo	=	-662319168;
 
-	E2N5	=	-39140558;
+
 	HjIGcl_U7l	=	-523201786;
 	eBJ85	=	-1108506338;
 	bE02w_vC	=	-645505069;
@@ -57,7 +57,7 @@ int main(int argc, char** argv) {
 	MaD02	=	1286191427;
 
 	ahj85DC	=	-1439999568;
-	L7Urer8W	=	119392917;
+
 	OS3U84	=	-1283798289;
 	njmm	=	-678932200;
 	Xw3WrZ7w	=	-827080800;
@@ -67,7 +67,7 @@ int main(int argc, char** argv) {
 	M1OrOdsO3i	=	-665376205;
 
 	i9lM8qm	=	-506224793;
-	wAcr4hvw	=	-301149332;
+
 	m4uKOEHB8c	=	-43760153;
 	I123Slwa1	=	-1866850402;
 	ZZlNr02_	=	-1281977362;
@@ -77,7 +77,7 @@ int main(int argc, char** argv) {
 	XgYIX	=	1334916614;
 
 	g0OLnw1l2	=	-796689431;
-	s3wm2	=	709503290;
+
 	dV6HZ	=	300002997;
 	M__Tg8k	=	1948399236;
 	z0CmpW	=	-1036272825;
@@ -151,7 +151,7 @@ case 2:
 
 break;
 case 3:
-Xw3WrZ7w /= 121495858;
+
 break;
 case 4:
 bE02w_vC = (ni_6R == wX9F3l) ? Yp_0aNE : -1335949055;
@@ -169,7 +169,7 @@ break;
 switch (sdh3140355)
 {
 case 'a':
-e6Qa_we = B5JeLxP6Y(2142839049, OS3U84);
+
 break;
 case 'b':
 MaD02++;
@@ -201,7 +201,7 @@ case 'e':
 
 break;
 case 'f':
-MaD02 = xaLu3 << x2KFY_iP;
+
 break;
 case 'g':
 k_LbRd1G = A5GY / 1924401087;

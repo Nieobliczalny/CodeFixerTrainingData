@@ -533,7 +533,7 @@ if (APE04sxs7Y != l_IkOY9)
 int k = 0;
 do
 {
-lV3_m3o8K = (int)floor(t1onv3Di);
+
 ++k;
 }
 while (k < 1);
@@ -652,7 +652,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-lV3_m3o8K = (int)ceil(Ul7s2);
+
 break;
 case 'd':
 case 'D':

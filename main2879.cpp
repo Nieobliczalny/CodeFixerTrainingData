@@ -149,7 +149,7 @@ lry4zN = x5092dtYKc / Xhvof2mP4;
 }
 else if ((x6OW & 727939566) || (BfbA5 > 1409082904))
 {
-e2E_x_q6w = A017zi4a();
+
 }
 else if (nxO9PWcju != 1095701890)
 {
@@ -290,7 +290,7 @@ case 5:
 wP_RieFIb = (int)floor(lr1E932);
 break;
 case 6:
-e2E_x_q6w = A017zi4a();
+
 break;
 case 7:
 

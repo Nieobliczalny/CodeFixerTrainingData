@@ -633,7 +633,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-xDJh0Bq = (int)ceil(yLPT0);
+
 break;
 case 'e':
 case 'E':

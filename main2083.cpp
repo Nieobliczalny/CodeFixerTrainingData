@@ -185,7 +185,7 @@ if (aw9F_d9 != -2108636052)
 }
 else if ((CTsxm_jem8 > -319178873) && (XNYpXQZbY <= Kx3xL7Jzh6))
 {
-Kx3xL7Jzh6 = (long double)(NfF_mgl3i + (-1317735420));
+
 }
 else if (aw9F_d9 > 2085228957)
 {
@@ -197,7 +197,7 @@ else if (((Z_BQyZe_U != -2104268991) || (aw9F_d9 <= -810977292)) || (Vb_0SLMsP <
 }
 else
 {
-Ukv973F0Z = V7_a49J8kn(910764174, Ukv973F0Z, aw9F_d9);
+
 }
 
 return 0;

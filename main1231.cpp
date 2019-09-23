@@ -269,7 +269,7 @@ case 0:
 
 break;
 case 1:
-N4u2j = (int)floor(y_jMz);
+
 break;
 case 2:
 
@@ -281,7 +281,7 @@ case 4:
 
 break;
 case 5:
-qmqI1T1p_G = yvh6 % w38yU8ssu;
+
 break;
 default:
 
@@ -293,7 +293,7 @@ else
 
 }
 
-k0Z6e = (int)floor(NyY9w7);
+
 
 {
 int i = 8;

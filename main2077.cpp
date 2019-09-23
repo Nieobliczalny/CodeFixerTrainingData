@@ -75,7 +75,7 @@ int main(int argc, char** argv) {
  unsigned long long Zu_9;
  Zu_9 = 656613370;
 	float	ASlO0;
-	ASlO0	=	405961329;
+
     unsigned long    AN_I4b;
 
  unsigned long long xXx11WCn4;
@@ -85,7 +85,7 @@ int main(int argc, char** argv) {
 	long long	G3cx2YcQ;
 	G3cx2YcQ	=	-755188821;
   unsigned long  E2bg;
-  E2bg  =  1933254160;
+
     unsigned long long    eP_F;
     eP_F    =    -2146244976;
   unsigned long long  Kl31pC_GO;
@@ -115,7 +115,7 @@ int main(int argc, char** argv) {
 	float	yD76wy_07a;
 
   long double  xB_kq2_r28;
-  xB_kq2_r28  =  217415076;
+
   char  qu3k9r;
   qu3k9r  =  0;
     unsigned short int    fBM2;
@@ -127,7 +127,7 @@ int main(int argc, char** argv) {
     short    X_63C37G9;
 
  short vYHc1v;
- vYHc1v = 967825423;
+
 	char	o3HT7CHLg;
 	o3HT7CHLg	=	-1760807448;
 	unsigned char	R6P_X;
@@ -190,7 +190,7 @@ int main(int argc, char** argv) {
   SCsihv  =  -1870409392;
 
 
-oiZ4 = (unsigned short int)(cPZM9);
+
 
 
 {
@@ -376,7 +376,7 @@ W2Sqr = (long double)(ugu_ + (O49216MwCN));
 for (int i = qu3k9r; i < 10; i++)
 {
 W2Sqr = MPda4Db9V(W2Sqr, -1681761566, 1515701312, R6P_X, -1558480541);
-	ASlO0 = MPda4Db9V(z2wV2, EKxF0_Ud, 1612671501, sxM084L, 1300313059) / i;
+
 std::cout << Lxu5(-765341682, o3HT7CHLg) << std::endl;
 }
 
@@ -391,7 +391,7 @@ case 1:
 
 break;
 case 2:
-sG4B41L450 = (int)ceil(z2wV2);
+
 break;
 case 3:
 Jd76 = MPda4Db9V(691332053, -1736899363, ek96, R6P_X, 509496799) ^ 70113737;
@@ -487,7 +487,7 @@ case 'd':
 qu3k9r = v6zV_Zqpte(E1xR1W, DMLt, 1709798581);
 break;
 case 'e':
-Bjd5 ^= 358091310;
+
 break;
 case 'f':
 W2Sqr = QM266_h9 - u9GF7Q;
@@ -509,7 +509,7 @@ case 1:
 
 break;
 case 2:
-Vys_HZ = Lxu5(Vys_HZ, 672247691);
+
 break;
 default:
 M3ezi5d = (Af5ST & -685201838) ? -1955643713 : M3ezi5d;
@@ -528,7 +528,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-vg38Q3w = MPda4Db9V(vg38Q3w, 748899383, -2058933448, M3ezi5d, Y4jp33xd);
+
 break;
 case 'd':
 case 'D':
@@ -540,7 +540,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-yD76wy_07a = MPda4Db9V(96873161, xa32qoC, 281934746, 767836971, 524564213);
+
 break;
 case 'g':
 case 'G':
@@ -552,7 +552,7 @@ case 'H':
 break;
 case 'i':
 case 'I':
-xa32qoC = Lxu5(xa32qoC, 1345351263);
+
 break;
 }
 z2wV2 = (int)floor(PA7Vp1);

@@ -481,7 +481,7 @@ do
 --j;
 if (((uohp4 != wP_idR) && (ShRB9 == iiv74_f)) && (dhFT == -471427117))
 {
-NTBO_2 = POG4v3 >> 938447190;
+
 }
 else
 {
@@ -512,7 +512,7 @@ if (I510LaN < iiv74_f)
 }
 else if (xx7IvJ5)
 {
-NTBO_2 = y_g9 / uohp4;
+
 }
 else
 {

@@ -66,7 +66,7 @@ BF6S_ = m643(-237703972, G1sGP09A3d, -1704563851, yH77RQ12o);
 }
 
 U1Wqu = (unsigned char)(eJQOId748X);
-LQ581I += 691012907;
+
 {
 int i = 0;
 do
@@ -272,7 +272,7 @@ case 2:
 h3Kl95_69X = Kugu4F + 207259754;
 break;
 case 3:
-FFKOjqWbw &= twgbTw317h;
+
 break;
 case 4:
 G1sGP09A3d = i_1H_pH(-2049645128, eJQOId748X, h3Kl95_69X);
@@ -309,7 +309,7 @@ int k = 0;
 do
 {
 k++;
-FFKOjqWbw = m643(1366646873, -547022157, 820128608, p617RY);
+
 }
 while (k < 9);
 }
@@ -325,7 +325,7 @@ case 1:
 
 break;
 case 2:
-h3Kl95_69X = vyBZ9 >> EN0d;
+
 break;
 case 3:
 Sbu7MAnDO = (int)abs(ZQV_w5I87);

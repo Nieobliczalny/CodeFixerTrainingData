@@ -490,7 +490,7 @@ case 2:
 vC6HwL5h = (int)floor(FM45h289);
 break;
 case 3:
-Esfp0ZQL = (lP792 == KXdVbd) ? 1126137436 : vfRmTZ83;
+
 break;
 case 4:
 A39CT8j_j = (int)ceil(pS8sFt8Fp);
@@ -621,7 +621,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-fuuO9P9 = (int)ceil(FM45h289);
+
 break;
 case 'd':
 case 'D':
@@ -640,7 +640,7 @@ case 'G':
 
 break;
 }
-I26U = R7C3v_Q8t(vC6HwL5h, XOF1T5vM, pS8sFt8Fp) + 959225747;
+
 
 if (qIrXtAT5D6 <= -722016420)
 {

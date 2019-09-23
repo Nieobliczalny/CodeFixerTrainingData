@@ -518,7 +518,7 @@ case 1:
 
 break;
 case 2:
-gcZ_mI1C = (int)ceil(VK__XGE4Z0);
+
 break;
 case 3:
 ww8bR = zznL1U7l >> cx8t8A;

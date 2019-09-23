@@ -540,7 +540,7 @@ switch (I89X7)
 {
 case 'a':
 case 'A':
-sM3_4u = (int)abs(P8L46E);
+
 break;
 default:
 
@@ -576,7 +576,7 @@ case 'b':
 
 break;
 case 'c':
-Xje7sNP = Kv01sgY9(-1443891450, -1671445815, zPfidix, -766593491, NbOu8YIam);
+
 break;
 case 'd':
 x570V33 >>= caDK53;

@@ -456,7 +456,7 @@ while (j >= 0);
 
 try
 {
-VyWBW = (long long)(T6rAwsNK);
+
 }
 catch (int& errorCode)
 {

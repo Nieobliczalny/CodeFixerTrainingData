@@ -126,7 +126,7 @@ try
 switch (Ro73k95i1)
 {
 case 'a':
-WTVM = (int)floor(c9z_);
+
 break;
 case 'b':
 
@@ -220,7 +220,7 @@ case 'c':
 
 break;
 case 'd':
-FqFvW6q ^= 859841129;
+
 break;
 case 'e':
 td2G = aD3mJ << kuHa70_Vek;
@@ -242,7 +242,7 @@ case 1:
 
 break;
 case 2:
-E_BAC5jey = kuHa70_Vek + p_O6S36v;
+
 break;
 default:
 hEeEgy30a = kuHa70_Vek | 2035382965;
@@ -263,7 +263,7 @@ if ((EKFaHRxhf4 != 1590749562) || (cAZQ332dF4 == QoT0j__dx))
 switch (FVb2)
 {
 case 0:
-p_O6S36v = s657Q0 & 1777016120;
+
 break;
 case 1:
 zrl2PiO++;
@@ -357,7 +357,7 @@ for (int i = 4; i >= 0; i--)
 }
 if (J4j542Xc & ab6R0F)
 {
-TbJRs_f1 = ln4PlCll5w * 1279101879;
+
 }
 else if (uNNIyp > 1089892099)
 {
@@ -395,7 +395,7 @@ case 'G':
 break;
 case 'h':
 case 'H':
-FqFvW6q = P9uAE0 - I422DlD;
+
 break;
 default:
 lfNB *= 292891810;

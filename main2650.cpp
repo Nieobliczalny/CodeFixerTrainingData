@@ -365,7 +365,7 @@ else if (tqWIzh >= Gpa5NJk)
 }
 else if (((awnA_87h != -1177424889) && (m0L9fA & a8s_u2y)) || ((q593gF9PMM > ang837QQ) && (ang837QQ != 1925474368)))
 {
-tqWIzh = iBKvfp();
+
 }
 else
 {
@@ -386,7 +386,7 @@ case 2:
 q593gF9PMM &= gFF1kF8OQ;
 break;
 case 3:
-ang837QQ = iBKvfp();
+
 break;
 case 4:
 
@@ -398,7 +398,7 @@ case 6:
 bp7y07LDtd = mqcy4Ic4O5(bp7y07LDtd);
 break;
 case 7:
-HdLH = mqcy4Ic4O5(ang837QQ);
+
 break;
 case 8:
 

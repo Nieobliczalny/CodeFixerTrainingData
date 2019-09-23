@@ -260,7 +260,7 @@ case 2:
 
 break;
 case 3:
-G1gY0Nb = (int)ceil(j1l7pXA79);
+
 break;
 case 4:
 G1gY0Nb = O05h(1478866902) >> 391138669;
@@ -316,7 +316,7 @@ qF__ = ORk9 / OuWq5C4;
 switch (jBIh1_)
 {
 case 0:
-DM8PbI4JcG = (int)abs(OuWq5C4);
+
 break;
 case 1:
 fhjh71A = O05h(-1204226552);
@@ -333,7 +333,7 @@ i++;
 while (i < 8);
 }
 
-Zqj_b5V_ = (int)abs(OuWq5C4);
+
 
 if (mrX4y < -405451857)
 {
@@ -423,7 +423,7 @@ case 1:
 
 break;
 case 2:
-ro8uU8re_O = (ZgJaaTj6 >= -1310441240) ? O05h(952133962) : jBIh1_;
+
 break;
 case 3:
 ZgJaaTj6 = O05h(-433750634);
@@ -450,7 +450,7 @@ case 'c':
 
 break;
 case 'd':
-fhjh71A = O05h(EAXOH6);
+
 break;
 default:
 ZgJaaTj6 = O05h(1657657543);

@@ -197,7 +197,7 @@ j++;
 }
 
 
-B2oyNz = Y_I3BEl / Y_I3BEl;
+
 
 try
 {

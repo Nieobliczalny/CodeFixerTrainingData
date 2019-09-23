@@ -773,7 +773,7 @@ case 2:
 
 break;
 case 3:
-SVRiVz9rO4 %= Nc81jPYj;
+
 break;
 case 4:
 jRWW = VYz8();
@@ -830,7 +830,7 @@ case 'd':
 
 break;
 case 'e':
-i_e0O = VYz8();
+
 break;
 case 'f':
 Nc81jPYj ^= 2107295680;

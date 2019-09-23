@@ -29,7 +29,7 @@ int main()
     float    nzpMUD2Of;
     nzpMUD2Of    =    -761963826;
  long long X08g9;
- X08g9 = -1621993704;
+
  double MFGGY;
  MFGGY = -2120437788;
     float    d1bk;
@@ -41,7 +41,7 @@ int main()
   unsigned int  iUc9_4;
 
     float    l274;
-    l274    =    -1688000840;
+
     short int    oPL2y7__dT;
     oPL2y7__dT    =    0;
   unsigned long  bGzs1duBV_;
@@ -81,7 +81,7 @@ case 'd':
 
 break;
 default:
-iUc9_4 = dGe1();
+
 break;
 }
 
@@ -100,7 +100,7 @@ for (int j = 10; j >= 0; --j)
 {
 try
 {
-l274 = (int)ceil(MFGGY);
+
 }
 catch (int& errorCode)
 {
@@ -125,7 +125,7 @@ try
 {
 try
 {
-l274 = qeLn60I4Od(1110030644, 602409651);
+
 }
 catch (int& errorCode)
 {
@@ -168,7 +168,7 @@ case 'F':
 break;
 case 'g':
 case 'G':
-bGzs1duBV_ = dGe1();
+
 break;
 case 'h':
 case 'H':
@@ -180,7 +180,7 @@ case 'I':
 break;
 case 'j':
 case 'J':
-X1LX5_k5 = VJBgRI();
+
 break;
 default:
 bGzs1duBV_ = dGe1();

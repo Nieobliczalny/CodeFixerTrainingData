@@ -132,7 +132,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-X8CHg = (int)abs(n__6539);
+
 break;
 case 'd':
 case 'D':

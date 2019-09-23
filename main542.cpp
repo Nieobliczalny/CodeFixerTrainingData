@@ -178,7 +178,7 @@ else if (y36Zl != k7H479pgR)
 }
 else if (((AAh8 < 2104097032) || (lVcXX473sl)) || (DOeH < NsGypT1UMd))
 {
-S1f88e4NK ^= 333666971;
+
 }
 else
 {
@@ -210,7 +210,7 @@ int i = 2;
 do
 {
 i--;
-Eif766IR = (unsigned long)(J1u49y7t0);
+
 }
 while (i >= 0);
 }

@@ -35,7 +35,7 @@ int main(void)
  unsigned int duik9;
 
 	short int	zo43cLv;
-	zo43cLv	=	-1685318439;
+
 	short int	qu1y_;
 	qu1y_	=	1191478949;
  long long IXt3;
@@ -93,7 +93,7 @@ int main(void)
 	unsigned int	NyzZ;
 	NyzZ	=	658256625;
     double    MK2tUC;
-    MK2tUC    =    344423327;
+
 	unsigned short int	C61s3w24_;
 	C61s3w24_	=	0;
     long double    Cav00pi996;
@@ -123,7 +123,7 @@ int main(void)
   unsigned long long  TKcM2l2QwR;
   TKcM2l2QwR  =  -818990850;
 	long double	Wt9UwHu;
-	Wt9UwHu	=	-630619043;
+
  float w5Q4ge_061;
  w5Q4ge_061 = -766481060;
  long Jl45cb;
@@ -141,7 +141,7 @@ int main(void)
  unsigned short WFRwQ;
  WFRwQ = 0;
   long double  X22e;
-  X22e  =  -1323817653;
+
  short yYQKqSjn;
  yYQKqSjn = -1504675430;
  long long tyl67ot8;
@@ -214,7 +214,7 @@ case 0:
 
 break;
 case 1:
-Da6s_80 >>= 375004190;
+
 break;
 case 2:
 nz82FDM = (int)ceil(Zng2j89);
@@ -232,7 +232,7 @@ case 6:
 RC6ydmL = (int)ceil(wKtg2F1);
 break;
 case 7:
-Cav00pi996 = (int)floor(NAh2VIe6L);
+
 break;
 case 8:
 m2_Xrcu_98 &= 339375434;
@@ -277,7 +277,7 @@ case 5:
 uGuir4 = XgvSS876K ^ yYQKqSjn;
 break;
 case 6:
-xpL50617_P ^= lp5CH;
+
 break;
 case 7:
 MK2tUC = (int)ceil(ZC1qgqg);
@@ -292,7 +292,7 @@ break;
 }
 else
 {
-Cav00pi996 = ph40z2 / K5G4uh;
+
 }
 }
 switch (XgvSS876K)
@@ -307,7 +307,7 @@ Ipe_ |= 1733071264;
 break;
 case 'c':
 case 'C':
-Da6s_80 = uGuir4 * 999397147;
+
 break;
 case 'd':
 case 'D':
@@ -396,7 +396,7 @@ case 'b':
 
 break;
 case 'c':
-MK2tUC = (int)floor(A1OB11gM);
+
 break;
 case 'd':
 Vu5Rj >>= TKcM2l2QwR;
@@ -451,7 +451,7 @@ else
 }
 
 
-g2g7 = ph40z2 / WFRwQ;
+
 {
 int i = 3;
 while (i >= 0)

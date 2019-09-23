@@ -219,7 +219,7 @@ case 2:
 
 break;
 case 3:
-SPq7Vca += dC_pdUv;
+
 break;
 case 4:
 Zqian = (UEXw1zB07 == -343037185) ? Ee1d : VLoL7v_dz;
@@ -305,7 +305,7 @@ Ee1d = (unsigned short int)(PgWHIJ8oK0);
 iS1E7 = VLoL7v_dz ^ UczzHf62;
 if (nov_556Pb & 234529347)
 {
-SPq7Vca = (int)abs(dC_pdUv);
+
 }
 P84Y3S2tF = (unsigned short int)(t2dHp38);
 {
@@ -331,7 +331,7 @@ else if (vJ6Gq & 1623182201)
 }
 else if (((n_58HW0G9 & OvE540_Mqk) || (FZ_sj6 > 1788945227)) || (vJ6Gq < -1051780056))
 {
-Ee1d %= 1160054321;
+
 }
 else if (nov_556Pb)
 {

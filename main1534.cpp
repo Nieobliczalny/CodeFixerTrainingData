@@ -83,7 +83,7 @@ if ((Tf4iiGw6X <= SP4ImR) && (E_72 >= r7gLDlF623))
 {
 try
 {
-PPzq_ = (int)abs(kus5);
+
 }
 catch (int& errorCode)
 {

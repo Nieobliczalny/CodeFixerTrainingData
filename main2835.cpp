@@ -168,7 +168,7 @@ case 1:
 
 break;
 case 2:
-qJ4_9 = iZhW2JiT_(qJ4_9, XSD594Vb);
+
 break;
 case 3:
 Je16T7x61 %= 62873391;
@@ -180,7 +180,7 @@ case 5:
 
 break;
 case 6:
-qJ4_9 = p7WS8N6Dzj(178468888);
+
 break;
 case 7:
 oY9E *= ASomyf01;

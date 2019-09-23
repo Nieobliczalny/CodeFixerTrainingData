@@ -504,7 +504,7 @@ if (b_I2xxE5E <= O13zAB)
 {
 try
 {
-ElSK = (unsigned short int)(ws3l__wSBa * ElSK);
+
 }
 catch (int& errorCode)
 {
@@ -589,7 +589,7 @@ while (j >= 0);
 }
 }
 
-vI910AJn = Uch7u3M(-1432213019);
+
 
 return 0;
 }

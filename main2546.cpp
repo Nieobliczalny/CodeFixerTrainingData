@@ -46,7 +46,7 @@ int main(int argc, char** argv)
 	float	sF2___R4s;
 	sF2___R4s	=	1985264956;
  unsigned int P6NsCS_2;
- P6NsCS_2 = 1417044991;
+
   short  J0Gz59_g;
   J0Gz59_g  =  -536962588;
  unsigned long x0W4uSGGy;
@@ -56,7 +56,7 @@ int main(int argc, char** argv)
 	double	WD180w03;
 	WD180w03	=	598926056;
 	unsigned short	ECOi5TzohI;
-	ECOi5TzohI	=	-2102873805;
+
 	long double	KInQDJ;
 	KInQDJ	=	-267891575;
 	unsigned short int	pHMI870;
@@ -66,7 +66,7 @@ int main(int argc, char** argv)
 	unsigned short	H2_QH;
 	H2_QH	=	-867618910;
     short int    IGjIt;
-    IGjIt    =    191912916;
+
   char  lR_1;
   lR_1  =  -274558918;
     long long    N13hfFTF;
@@ -82,7 +82,7 @@ int main(int argc, char** argv)
     unsigned char    q80_8bR_hY;
     q80_8bR_hY    =    862784075;
  unsigned short wTohq;
- wTohq = -1346131768;
+
  unsigned int H5q2YDc9G;
  H5q2YDc9G = -54210845;
 	short	T4z1;
@@ -102,7 +102,7 @@ int main(int argc, char** argv)
  unsigned long long yjU2385ow;
 
   unsigned int  p6eop0A4j;
-  p6eop0A4j  =  -1619592746;
+
  char lw616;
  lw616 = -1667153705;
 	double	cBpTdz0B1;
@@ -126,7 +126,7 @@ int main(int argc, char** argv)
   unsigned char  OlSY_;
   OlSY_  =  66311485;
  unsigned int Wq_r9;
- Wq_r9 = 227070868;
+
  char JTm0n1t;
  JTm0n1t = 1469782263;
  short int t751;
@@ -138,7 +138,7 @@ int main(int argc, char** argv)
  unsigned short LUckhK;
 
   unsigned char  y0_ii3eLw;
-  y0_ii3eLw  =  -2070345687;
+
     unsigned char    Jtl0m4EK79;
     Jtl0m4EK79    =    307291724;
     unsigned short int    jyC_py;
@@ -162,7 +162,7 @@ int main(int argc, char** argv)
   unsigned short  N4SZp1tSkv;
   N4SZp1tSkv  =  558747599;
 	double	bVZJv;
-	bVZJv	=	-1499227592;
+
     short    iZ1Jpf01o;
     iZ1Jpf01o    =    -1671442197;
 
@@ -226,7 +226,7 @@ break;
 switch (Ty8T22k)
 {
 case 'a':
-bVZJv = tX6_xNUZ33 - wHqS7tq;
+
 break;
 }
 H5q2YDc9G >>= jyC_py;

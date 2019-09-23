@@ -154,7 +154,7 @@ else if (eJ0k8IY < Uha80w)
 {
 if (s0E08EOY < aC75)
 {
-bMf5Jlw = y8OmA72nD(bMf5Jlw, -1744011001, 2018711879, 1543159295);
+
 }
 else
 {
@@ -511,7 +511,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-hv1R += Druveam;
+
 break;
 case 'f':
 case 'F':

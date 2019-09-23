@@ -97,7 +97,7 @@ int main() {
     int    nss_6zV;
     nss_6zV    =    1456133183;
  unsigned char uDG534i;
- uDG534i = 1715075543;
+
   unsigned char  M_ZD;
   M_ZD  =  263625761;
 	long long	Npzb2ITs6m;
@@ -270,7 +270,7 @@ if (WY8fQ1 > I62t)
 switch (ORkc)
 {
 case 0:
-iI413W_RDy &= 720724506;
+
 break;
 case 1:
 
@@ -291,7 +291,7 @@ case 6:
 PiPg = mzCtLj(-1563260260, x8hh_1W);
 break;
 case 7:
-g5B1 = (int)abs(yYoZP);
+
 break;
 case 8:
 
@@ -532,7 +532,7 @@ case 1:
 
 break;
 case 2:
-b1P9 = Eb1l - nys4s;
+
 break;
 }
 
@@ -546,7 +546,7 @@ i--;
 
 }
 }
-PiPg = (char)(Mk4y6Q2N * (g3N49C));
+
 return 0;
 }
 

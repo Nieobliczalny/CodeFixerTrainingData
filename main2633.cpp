@@ -431,7 +431,7 @@ case 5:
 I4OWu = ktDSD(-670350334, My_jLpNqvF, -1779482356, 2012754474);
 break;
 default:
-ETTdQhbj_e = (int)ceil(j3BSH49_ni);
+
 break;
 }
 }
@@ -629,7 +629,7 @@ case 'b':
 
 break;
 case 'c':
-A_d23A15z *= 927747940;
+
 break;
 case 'd':
 ZC5Y_n7k_q = yegyE5_(-785909880, Gvi0, c436nYC3b4, 1458318395);

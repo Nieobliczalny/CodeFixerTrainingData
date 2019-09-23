@@ -512,7 +512,7 @@ case 1:
 
 break;
 case 2:
-KP0p = E5D67XB6fI();
+
 break;
 case 3:
 o8EC = E5D67XB6fI() - u5fQkzv4Qn;
@@ -611,7 +611,7 @@ case 2:
 
 break;
 case 3:
-X_Ka1R1T = IR9P9T8(X_Ka1R1T, aQhoNG_Jq);
+
 break;
 case 4:
 mZ__2To = E5D67XB6fI();
@@ -668,7 +668,7 @@ std::cout << "JP_5X" << "BHH0t" << std::endl;
 
 if (((sQc786m2ok == cpIYoe) && (Va8rf != Lhz6XVM)) && ((t7_iP92) && (THv5B & kx3bsJZ)))
 {
-nBHA4Jrb7v = (short int)(zu39_2PcRW);
+
 }
 else
 {

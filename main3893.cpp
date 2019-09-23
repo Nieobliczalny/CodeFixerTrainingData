@@ -53,7 +53,7 @@ int main()
     unsigned char    A4s87Z5y;
 
     float    X3__dSRlif;
-    X3__dSRlif    =    900863335;
+
   long double  fxm0;
   fxm0  =  572982993;
   long long  N72N38;
@@ -97,7 +97,7 @@ else if (sYxU3f > Flc3)
 }
 else if (fxm0 >= -457786304)
 {
-fMA2sQ2n = G8n689L();
+
 }
 else if (fSg6f & -810114810)
 {
@@ -288,7 +288,7 @@ else if (rRMf9z50Z != SQPLPxj)
 }
 else
 {
-fMA2sQ2n = G8n689L();
+
 }
 }
 }

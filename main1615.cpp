@@ -11,7 +11,7 @@ using namespace std;
 int main(void)
 {
 	long long	QC7C;
-	QC7C	=	-1917460870;
+
   unsigned long long  XVc41yCtfj;
 
  unsigned long long BGb6SbCiP;
@@ -35,7 +35,7 @@ int main(void)
 	unsigned short	dB7zZ2;
 	dB7zZ2	=	-1653676705;
     long long    ae5DEgAi;
-    ae5DEgAi    =    -1332312944;
+
 	int	pS_5_;
 
  double F1dE;
@@ -73,7 +73,7 @@ int main(void)
  int b7D3DCTe;
 
     unsigned long    aKd3dKzI;
-    aKd3dKzI    =    1154610100;
+
 	double	rdcV;
 	rdcV	=	-419228985;
     long    hkboVCm6;
@@ -103,7 +103,7 @@ int main(void)
  char T_c84Y60;
  T_c84Y60 = 1494810825;
   unsigned short  v0aQ6;
-  v0aQ6  =  1165471695;
+
  int L7M22_i;
  L7M22_i = 360174488;
  unsigned short int s56b2_B4;
@@ -143,7 +143,7 @@ int main(void)
  long double cs12V380;
  cs12V380 = 400430218;
  unsigned char njwDGU7t;
- njwDGU7t = -1530539559;
+
 	unsigned short int	Qm133jGq;
 	Qm133jGq	=	1394219166;
   double  dbuhOIaGKx;
@@ -155,7 +155,7 @@ int main(void)
  unsigned short t97Jj05;
  t97Jj05 = -1191491720;
     char    a4wLqB;
-    a4wLqB    =    -34147779;
+
   unsigned int  D_PM7K;
 
     double    K4T3Go;
@@ -171,7 +171,7 @@ int main(void)
 	short int	jKjyMc8;
 	jKjyMc8	=	-979080871;
 	unsigned int	sds_S04;
-	sds_S04	=	-1331460683;
+
     int    Z35U;
     Z35U    =    0;
     unsigned char    qcKR1;
@@ -205,7 +205,7 @@ int main(void)
     unsigned long long    OVP215KCz;
 
 	short int	X2UV11ZTd;
-	X2UV11ZTd	=	-1173778233;
+
     int    w_wVd1RR0;
     w_wVd1RR0    =    -1268630285;
 	float	KON76Z;
@@ -244,7 +244,7 @@ case 3:
 lbo8W59NiR = (int)abs(F1dE);
 break;
 case 4:
-F2x2j = (int)ceil(bQeENy_zcq);
+
 break;
 case 5:
 s56b2_B4 = J7rK << 188484600;
@@ -403,7 +403,7 @@ case 3:
 
 break;
 case 4:
-KON76Z = (yYYOG & 404483784) ? 564579833 : 612993789;
+
 break;
 case 5:
 qcKR1 &= 2087047679;
@@ -451,7 +451,7 @@ case 0:
 
 break;
 case 1:
-F44Nq -= lbo8W59NiR;
+
 break;
 case 2:
 
@@ -507,7 +507,7 @@ case 'b':
 
 break;
 case 'c':
-u226L0u8 >>= oDmO9Y;
+
 break;
 case 'd':
 Oj0zu2B5Y7 = (int)floor(cs12V380);
@@ -522,7 +522,7 @@ case 'g':
 
 break;
 default:
-b7D3DCTe = Qm133jGq << 674936613;
+
 break;
 }
 }
@@ -543,7 +543,7 @@ else if (hkboVCm6)
 }
 else if ((RWHi20_7nU & -1108703413) || (F1dE <= Qm133jGq))
 {
-d0Ocx71 = (int)ceil(dbuhOIaGKx);
+
 }
 else if (p4f8Q28p92 != -1257986573)
 {

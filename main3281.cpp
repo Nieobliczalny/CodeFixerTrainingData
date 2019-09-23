@@ -207,7 +207,7 @@ case 'f':
 vNBdZlth ^= 1437694343;
 break;
 case 'g':
-msFT6wY += tkk__e;
+
 break;
 case 'h':
 o7dt24 = (int)abs(Flm93A);
@@ -402,7 +402,7 @@ else if ((K5ABeufc >= j0zpK65n0O) && (MsfEeiT <= Xm2f))
 }
 else if ((jh8e0o51Lb > -102035114) && (tkk__e != W30jmo))
 {
-afg1 = (a6B1d < -995696036) ? AzPVk3N : -424089709;
+
 }
 else
 {

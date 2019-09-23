@@ -99,7 +99,7 @@ case 1:
 
 break;
 case 2:
-s9sIywJ__s = mFAISs88jT(Vvud, -2073416531, -1171829799) >> 1187659954;
+
 break;
 case 3:
 fi4Iwrg94 = (int)floor(habX5);
@@ -111,7 +111,7 @@ case 5:
 
 break;
 case 6:
-HCJ8 = PkN_(zF3e2p);
+
 break;
 case 7:
 hcM0_29zN = (int)abs(K6Rcv2DZ8);
@@ -267,7 +267,7 @@ case 'a':
 
 break;
 case 'b':
-ocFK0j_Y2 %= c_h0;
+
 break;
 case 'c':
 
@@ -279,7 +279,7 @@ case 'e':
 
 break;
 case 'f':
-HCJ8 = PkN_(dbhj0RCVp_);
+
 break;
 case 'g':
 
@@ -320,7 +320,7 @@ case 'B':
 
 break;
 default:
-c_h0 = mFAISs88jT(-1875793247, -1471931533, 1367456767);
+
 break;
 }
 }

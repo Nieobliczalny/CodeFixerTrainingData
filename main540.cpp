@@ -336,7 +336,7 @@ switch (yo6Mvf71)
 {
 case 'a':
 case 'A':
-UG_2Ei7P = (int)ceil(EcPild0I);
+
 break;
 case 'b':
 case 'B':
@@ -360,7 +360,7 @@ eg75BJPe6++;
 break;
 case 'g':
 case 'G':
-If043j806 = O10y(1035343183, C4w5en);
+
 break;
 }
 }
@@ -488,7 +488,7 @@ lxn7 = Tp3M16xx5 >> 2128555295;
 }
 else if (hSU0BQ3t91 != jY1i)
 {
-dTzpm8J0 >>= vi6w;
+
 }
 else if (e78tBt6 & ilT6DI0ES)
 {
@@ -665,7 +665,7 @@ break;
 }
 
 
-EbTcru = (int)floor(Xi3fgAGh0);
+
 if ((C4F_lcGO <= 642180797) && (H0EK))
 {
 if (lxn7)
@@ -694,7 +694,7 @@ else
 {
 if (H1OFa >= 1084146877)
 {
-UG_2Ei7P = (int)floor(lxn7);
+
 }
 }
 }
@@ -708,7 +708,7 @@ try
 {
 if (EQbSn_cn0 != 926472291)
 {
-C4F_lcGO = (int)floor(lK8_Ka3LT);
+
 }
 }
 catch (int& errorCode)
@@ -804,7 +804,7 @@ case 0:
 
 break;
 case 1:
-GNXj4NVS8 = (int)ceil(dPy0VOT9);
+
 break;
 case 2:
 
@@ -816,7 +816,7 @@ case 4:
 
 break;
 case 5:
-H0EK = (int)ceil(dPy0VOT9);
+
 break;
 default:
 
@@ -858,7 +858,7 @@ case 'F':
 break;
 case 'g':
 case 'G':
-Z9Ha12Z7 = j_6n - WBVRz;
+
 break;
 case 'h':
 case 'H':

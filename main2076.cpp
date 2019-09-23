@@ -104,7 +104,7 @@ int main(void) {
 
 if (P_G99Bkr != RtGzz)
 {
-imtkAr = (int)abs(HN3plWXP);
+
 }
 
 if (fHxdX > -1342008829)
@@ -139,7 +139,7 @@ else if (W4D_0wkQ != 1178337270)
 }
 else if (WxltL5J)
 {
-DrUxY36s1 = DrUxY36s1 - 1982943657;
+
 }
 else if (om_93F != mnwFd0E4b)
 {
@@ -151,7 +151,7 @@ else if (W4D_0wkQ != 1355207430)
 }
 else if (x9ci91)
 {
-klM31 = yyb1roQLx() * h_x4U4;
+
 }
 else
 {

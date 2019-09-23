@@ -63,7 +63,7 @@ int main(int argc, char** argv)
 	unsigned int	rTm3;
 	rTm3	=	1205364418;
     char    rMpKlnPm5Y;
-    rMpKlnPm5Y    =    0;
+
  unsigned int n15PVQrhIG;
  n15PVQrhIG = -651752594;
 	unsigned char	M2_C_5KzUH;
@@ -468,7 +468,7 @@ case 'a':
 
 break;
 case 'b':
-fYgg = a6g2(fYgg, 1575534330);
+
 break;
 case 'c':
 DwFS = (int)floor(B12_qox8);
@@ -500,7 +500,7 @@ case 1:
 
 break;
 case 2:
-DwFS = (int)floor(OXq994);
+
 break;
 case 3:
 UNx8S2_2 &= QT4_a13;
@@ -512,7 +512,7 @@ case 5:
 
 break;
 case 6:
-Y5wi = a6g2(pef_s, 117675184);
+
 break;
 default:
 yk6g_9dt_ = a6g2(-341308082, -463084702);
@@ -610,7 +610,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-gLdOG_ = (int)ceil(DwFS);
+
 break;
 case 'f':
 case 'F':
@@ -622,7 +622,7 @@ case 'G':
 break;
 case 'h':
 case 'H':
-DwFS = y5dG_z();
+
 break;
 case 'i':
 case 'I':
@@ -635,7 +635,7 @@ break;
 }
 else if (((QT4_a13 != -1488982019) || (PEvw4B_ >= f22Sxh)) && (dEyrnP < 213738707))
 {
-cfth = (unsigned long)(XfmT);
+
 }
 else
 {
@@ -651,7 +651,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-rMpKlnPm5Y = l1g3X_1a7_(-885481503);
+
 break;
 case 'd':
 case 'D':
@@ -667,7 +667,7 @@ case 'F':
 break;
 case 'g':
 case 'G':
-bG0XCko74f = (int)ceil(T_9DMGm);
+
 break;
 default:
 OXq994 = (int)ceil(T_9DMGm);
@@ -706,7 +706,7 @@ case 2:
 B12_qox8 = n15PVQrhIG / pef_s;
 break;
 case 3:
-PEvw4B_ = y5dG_z();
+
 break;
 case 4:
 
@@ -718,7 +718,7 @@ case 6:
 
 break;
 case 7:
-fYgg = (int)floor(OXq994);
+
 break;
 default:
 

@@ -89,7 +89,7 @@ else if ((mS8D7H9Q) && (nRXdl1 <= -123146436))
 }
 else if (tVELV_1x >= SzB4art)
 {
-KOA48EL = tk2PPi();
+
 }
 else if ((qO0u5yw) || (VpkgG7 >= SzB4art))
 {
@@ -127,7 +127,7 @@ case 'd':
 Vs96sOkv = tk2PPi();
 break;
 default:
-qPV_wl = (int)ceil(Kj3A6d);
+
 break;
 }
 

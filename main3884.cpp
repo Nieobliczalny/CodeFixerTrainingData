@@ -28,7 +28,7 @@ int j = 0;
 do
 {
 ++j;
-tlaG2Nq7s = Jj794 ^ BHv11E;
+
 }
 while (j < 8);
 }
@@ -111,7 +111,7 @@ case 4:
 
 break;
 case 5:
-FxAI1n = LJLhGI66O(uy__Yo_Qz);
+
 break;
 case 6:
 Kz104 |= 1012113251;
@@ -147,7 +147,7 @@ case 'c':
 
 break;
 case 'd':
-k0jZu_MA22 = (int)abs(fu8GEA);
+
 break;
 case 'e':
 zR6_qb = LJLhGI66O(PiXMTnm6);

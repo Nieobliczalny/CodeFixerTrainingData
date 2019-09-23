@@ -48,7 +48,7 @@ int main()
 switch (vh4q59B)
 {
 case 0:
-r1vHo4h %= TFL2Obyf;
+
 break;
 case 1:
 
@@ -60,7 +60,7 @@ case 3:
 TFL2Obyf += sJy81;
 break;
 case 4:
-hGC4X309 = (int)abs(lKfkgN);
+
 break;
 case 5:
 

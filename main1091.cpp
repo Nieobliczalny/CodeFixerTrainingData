@@ -407,7 +407,7 @@ case 2:
 D0JT0gz0 = Z59cAi78(WyJ1i6z);
 break;
 case 3:
-C_b6LWZ = (int)ceil(sxtTIa__Cq);
+
 break;
 case 4:
 
@@ -493,7 +493,7 @@ case 'd':
 
 break;
 default:
-p6aP = (int)abs(kG188);
+
 break;
 }
 }

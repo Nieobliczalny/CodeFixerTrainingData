@@ -13,7 +13,7 @@ int main(int argc, char** argv) {
 
 	CVC5pE	=	904593327;
 
-	TCmz3ap	=	-700582827;
+
 	uD__u	=	-1763338662;
 	Z2kcG	=	330021824;
 	X93L3f6	=	1460277926;
@@ -23,7 +23,7 @@ int main(int argc, char** argv) {
 
 	c06t	=	-1540377263;
 
-	NF_76N	=	-1391029036;
+
 	h3j2R	=	72021495;
 	ppu3peO	=	259558899;
 	JsVCMB	=	-931789804;
@@ -37,7 +37,7 @@ int main(int argc, char** argv) {
 
 	a4BZP	=	-1782267894;
 	K7l0	=	-535844054;
-	EJvJa	=	-1219770436;
+
 	kB5BwNRZR	=	-649670642;
 	yxDeD2FIzj	=	-1885775629;
 	s12d	=	-1739475223;
@@ -49,7 +49,7 @@ int main(int argc, char** argv) {
 	g0h_i_	=	-710781255;
     unsigned short    sP8ZN,    KAys,    bEir6t;
     sP8ZN    =    0;
-    KAys    =    0;
+
     bEir6t    =    0;
 
 for (int i = 0; i < 3; ++i)

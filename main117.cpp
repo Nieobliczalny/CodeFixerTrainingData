@@ -679,7 +679,7 @@ case 6:
 
 break;
 case 7:
-VqXr ^= 988660402;
+
 break;
 default:
 EPlvy04VJ = kbh3Uye * ZWbwem_i;
@@ -809,7 +809,7 @@ case 9:
 
 break;
 default:
-x9JBX7 = Gj73 - 109700153;
+
 break;
 }
 

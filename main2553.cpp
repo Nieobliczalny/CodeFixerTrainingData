@@ -73,7 +73,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-yx4z = (int)abs(CzGs);
+
 break;
 case 'g':
 case 'G':
@@ -179,7 +179,7 @@ O7BU = (int)abs(ILk2);
 n4u3 = (short)(GC98ZK);
 std::cout << iL0Almzas / ewPA6s << std::endl;
 
-MM5QSen_o = m7Q71HFzV(MM5QSen_o, 656665273, 1368807256);
+
 std::cout << "M2YOAM" << "P6rWqv9zGh" << "b8cFv2v7" << "O__D3u45kh" << "sYl62_c1j" << std::endl;
 
 jQvF7qzKo &= mTJr;
@@ -323,7 +323,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-jT_hhQ7Ej9 = (int)abs(w67X);
+
 break;
 default:
 sNeacG = I_m64Os5m(-1321559807, 1549296086) - u_mX_C;
@@ -355,7 +355,7 @@ case 3:
 
 break;
 case 4:
-i3gm += 1057956927;
+
 break;
 case 5:
 

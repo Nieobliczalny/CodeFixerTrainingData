@@ -117,7 +117,7 @@ int k = 3;
 do
 {
 k--;
-BJ3Onu = o3nqR * Hjf83D5bA;
+
 }
 while (k >= 0);
 }
@@ -330,7 +330,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-InSLIwWm |= vESRo89h;
+
 break;
 case 'c':
 case 'C':
@@ -342,7 +342,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-e_Ly_H *= S9No9RM6kR;
+
 break;
 case 'f':
 case 'F':

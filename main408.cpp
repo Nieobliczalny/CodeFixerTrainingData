@@ -24,7 +24,7 @@ int main(void) {
  unsigned short c2da;
 
   double  B9Qm;
-  B9Qm  =  -369846488;
+
   long long  bgTK1zZwl4;
   bgTK1zZwl4  =  -412713334;
 	long long	IA0C0pzJ0;
@@ -56,7 +56,7 @@ int main(void) {
   unsigned long long  HGTTu95T;
   HGTTu95T  =  -465028390;
   double  bCmp9;
-  bCmp9  =  1278336161;
+
  short int L6547HMrZ;
  L6547HMrZ = -51751687;
  unsigned char e12_A;
@@ -66,7 +66,7 @@ int main(void) {
     long double    fOUs2B;
 
  unsigned char Wx87;
- Wx87 = 1503799055;
+
     unsigned short    SqGa5P_Y;
     SqGa5P_Y    =    1090887099;
 	unsigned short int	xJLO2d63;
@@ -76,7 +76,7 @@ int main(void) {
  unsigned long long eW86eCE;
 
   short int  M3_5;
-  M3_5  =  -1182270765;
+
  long long Ji_hyDp1_;
  Ji_hyDp1_ = -1136626647;
  short int D176h;
@@ -94,7 +94,7 @@ int main(void) {
   long double  kNcz;
 
  unsigned short int ZV3XL7js;
- ZV3XL7js = 1386275032;
+
     short int    Wtotd_2u;
     Wtotd_2u    =    0;
  unsigned char vh_4__9;
@@ -122,7 +122,7 @@ int main(void) {
     long    o78k;
     o78k    =    -808130102;
     float    TPl02Gv;
-    TPl02Gv    =    -501888543;
+
   unsigned long long  uKDvXyCYB7;
 
     unsigned char    YK8_kgzb5;
@@ -146,7 +146,7 @@ int main(void) {
   char  Yvei2YS;
 
   int  j_D0p_;
-  j_D0p_  =  1548002728;
+
   long  Ajq1QCAO1;
   Ajq1QCAO1  =  895669777;
  long long K92Cffx;
@@ -160,7 +160,7 @@ int main(void) {
   unsigned long  Hgm95w;
 
  float mGpHctWm02;
- mGpHctWm02 = 348134661;
+
 	unsigned short	buF75Gm4;
 	buF75Gm4	=	-1515047470;
 	long double	QHL969vx;
@@ -176,7 +176,7 @@ if (uPcwc1Puw != -998453395)
 }
 else if ((o78k >= 540948239) || (Ji_hyDp1_ <= 2023212048))
 {
-rxMP_Xo__ = (int)abs(I__ohSyh1);
+
 }
 else
 {
@@ -213,7 +213,7 @@ break;
 }
 else if (vh_4__9)
 {
-fOUs2B = (int)ceil(Yosq);
+
 }
 else if (dBXCayJM == vgEnc)
 {
@@ -322,7 +322,7 @@ for (int i = 0; i < 1; ++i)
 HGTTu95T >>= ttoCaM;
 }
 
-Yosq = (int)floor(skc5_3);
+
 
 
 h5q_4qz = U0ZKrW * wWlyh1QjK;
@@ -368,7 +368,7 @@ case 0:
 
 break;
 case 1:
-OMgFd = (Wtotd_2u != X_4M6) ? -220809485 : vgEnc;
+
 break;
 default:
 

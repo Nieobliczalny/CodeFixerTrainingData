@@ -324,7 +324,7 @@ case 'd':
 
 break;
 case 'e':
-RFhof9_ = (int)ceil(BGQ7h166);
+
 break;
 case 'f':
 
@@ -442,7 +442,7 @@ else if (BGQ7h166 > -476006571)
 }
 else if (v235 <= 1612616117)
 {
-YhURYg6 = GVxax5YT98();
+
 }
 else if (p4Um & OmeP8SLb)
 {

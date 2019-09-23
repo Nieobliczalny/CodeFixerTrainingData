@@ -40,7 +40,7 @@ int main() {
 
   BUA6A  =  -642720216;
 
-  k146Q43F  =  -1814956238;
+
   DGYx  =  1305884023;
   D697S1  =  2123885620;
   YbD9I  =  -1164234898;
@@ -54,7 +54,7 @@ int main() {
   AQN_vh0  =  180205973;
 
   mihW2Pr2  =  -1288244412;
-  B_iyjg  =  2131673482;
+
   RL7CWBbr6  =  816367682;
   q463  =  -1076774295;
   q_3N  =  1463194937;
@@ -64,7 +64,7 @@ int main() {
   w6293ou  =  -609917212;
 
   vxoM  =  1701520259;
-  S4uZ  =  265875977;
+
   aFDrkn  =  -1990578814;
   uJjniK  =  -1939153380;
   w6MLH  =  -613496967;
@@ -77,7 +77,7 @@ int main() {
 
   Rm2E  =  38986633;
   Tj3cL  =  620792122;
-  cxGe  =  -2113184535;
+
   Q1_v8XX1n  =  1959951975;
   IXn0ZR1q  =  -921787921;
   y59P  =  922811480;
@@ -87,7 +87,7 @@ int main() {
 
   XyHC33ll1j  =  1566389990;
   rOfkE  =  -115866062;
-  h4QCq8G348  =  -483486545;
+
   q_lLS  =  1168979401;
   uX2bi3buC  =  604595440;
   xedk  =  -240690747;
@@ -99,7 +99,7 @@ int main() {
   Ur3NdD0  =  -165753439;
 
   hPCu7INNmS  =  -699205219;
-  q8me1_  =  -1231734405;
+
   KvJK0hmz  =  2044225185;
   u53Me67  =  361149092;
   BRll9  =  725544966;
@@ -177,7 +177,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-Y5jN_2I1 = (int)abs(OSJNG4o);
+
 break;
 case 'e':
 case 'E':
@@ -209,7 +209,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-q8me1_ = (int)floor(Rm2E);
+
 break;
 case 'c':
 case 'C':
@@ -292,7 +292,7 @@ else if (Ur3NdD0)
 }
 else if (xdS3RNtO != o14x9W)
 {
-ATHzR = DGYx * 101334508;
+
 }
 else if (q463 == -1500433433)
 {
@@ -305,7 +305,7 @@ else
 }
 else
 {
-OSJNG4o = (Ku_DPyBU > 1177835212) ? q463 : -1546790876;
+
 }
 }
 while (i < 5);
@@ -345,7 +345,7 @@ while (j < 5);
 }
 
 std::cout << pWyuB06(534139365) << std::endl;
-ipxgd = (int)floor(UNsdd);
+
 std::cout << pWyuB06(-640837645) << aU854GV << std::endl;
 
 if (q_3N >= 274230024)
@@ -375,7 +375,7 @@ else
 }
 else if (EK0U < T7a4g8)
 {
-h4QCq8G348 = (int)ceil(KvJK0hmz);
+
 }
 else if (Hxgmzv6 == aU854GV)
 {

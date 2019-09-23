@@ -691,7 +691,7 @@ case 'b':
 
 break;
 case 'c':
-Rui1 = (int)abs(iVN7D6_MZ);
+
 break;
 case 'd':
 x_d9 = (int)abs(fX58t7BXw2);

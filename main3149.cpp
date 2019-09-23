@@ -26,7 +26,7 @@ int main(int argc, char** argv) {
  long long cJ51mvP;
  cJ51mvP = -1851708332;
 	unsigned short	Jt6SR;
-	Jt6SR	=	-1374045486;
+
   char  bQFekqbe8B;
   bQFekqbe8B  =  -2049932297;
     int    tL0C;
@@ -38,7 +38,7 @@ int main(int argc, char** argv) {
 	unsigned short	HZnw8y;
 	HZnw8y	=	-679579648;
   unsigned short int  RA967ORZ0K;
-  RA967ORZ0K  =  -1354080235;
+
 	unsigned long long	O_Gkl7x;
 	O_Gkl7x	=	2133643308;
 	unsigned int	QiVo5bvD;
@@ -171,7 +171,7 @@ case 0:
 
 break;
 case 1:
-cJ51mvP = cJ51mvP - 1516911861;
+
 break;
 case 2:
 
@@ -183,7 +183,7 @@ case 4:
 
 break;
 case 5:
-OObNU <<= 17705140;
+
 break;
 case 6:
 
@@ -195,7 +195,7 @@ case 8:
 
 break;
 default:
-Jt6SR <<= xWIo0;
+
 break;
 }
 }

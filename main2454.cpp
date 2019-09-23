@@ -167,7 +167,7 @@ bTT9n7 = (unsigned char)(IRfrfg0Ih4);
 }
 else if (T3UShs != nkU600K)
 {
-NrTOR = qNa8(1572091220, VbwQbEW0);
+
 }
 else if (N5d84SW_4 >= -2127845683)
 {
@@ -177,7 +177,7 @@ case 0:
 M0TEB5bZ = H45p4s_yH(wtf7TX0R, -225932859, NrTOR, M0TEB5bZ, 713147720);
 break;
 case 1:
-NrTOR /= 1557351980;
+
 break;
 case 2:
 y81FZm4s40 = W1vG7wo / 784635454;

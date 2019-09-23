@@ -107,7 +107,7 @@ k80G7I5_ = mX0r3e093 / Y90h2k8VpV;
 
 
 
-V3cR = (short int)(p7571zs);
+
 
 cout << sP750 << AYG5sj << "iix0Rn8" << endl;
 

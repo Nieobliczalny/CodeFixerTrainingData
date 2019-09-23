@@ -310,7 +310,7 @@ case 1:
 
 break;
 case 2:
-a804k590 >>= 669706890;
+
 break;
 case 3:
 p2hluss0K4 = (int)floor(oOhsf);
@@ -325,7 +325,7 @@ case 6:
 
 break;
 case 7:
-v2t784r22 = (DwrO5kQm > -43378784) ? -975932673 : -944107137;
+
 break;
 default:
 a804k590 >>= 1559271260;

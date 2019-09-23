@@ -397,7 +397,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-rTb_ = (int)abs(RNF7x_3yf) + (-1482298520);
+
 break;
 case 'g':
 case 'G':

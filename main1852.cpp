@@ -47,7 +47,7 @@ if ((a__X & -905347763) || (MMdhJ3I86 == o0FJp2jm_))
 }
 else
 {
-Z253x = FJ5719_wf5();
+
 }
 }
 else if (Iv29Z5t5A == -1300345636)
@@ -73,7 +73,7 @@ else if (Iz15vW4b < p00PkG0F)
 }
 else
 {
-mT7o6p = (int)ceil(QH2A30);
+
 }
 }
 }
@@ -100,7 +100,7 @@ case 1:
 H5VO8Ap = FJ5719_wf5();
 break;
 case 2:
-a__X = FJ5719_wf5();
+
 break;
 case 3:
 s5U40u4t = FJ5719_wf5() + eucl5qOT;
@@ -112,7 +112,7 @@ case 5:
 
 break;
 case 6:
-s5U40u4t = (int)floor(V_9u__YG15);
+
 break;
 case 7:
 vQiAcvW_4k = (int)ceil(BdeTJ);
@@ -144,7 +144,7 @@ while (j >= 0);
 }
 for (int i = 0; i < 8; i++)
 {
-D8771W_e_n = (long double)(Ay310V);
+
 }
 BdeTJ = (KpBE5 == mNnD7) ? u36X : -918699453;
 
@@ -163,7 +163,7 @@ while (k < 7)
 }
 else
 {
-b_SbL5 = (long double)(FCySfI);
+
 }
 }
 
@@ -176,7 +176,7 @@ if (FJ5719_wf5() == 0)
 
 for (int i = 10; i >= 0; --i)
 {
-ez87Vw8 = (int)abs(Vz7WJ);
+
 }
 
 std::cout << FJ5719_wf5() << "b_Ml" << YamV << std::endl;

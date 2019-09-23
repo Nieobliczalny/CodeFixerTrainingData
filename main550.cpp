@@ -284,7 +284,7 @@ case 2:
 
 break;
 case 3:
-AjvOXCoo3 = (int)abs(V9UH1MO9);
+
 break;
 case 4:
 
@@ -307,7 +307,7 @@ case 1:
 
 break;
 case 2:
-N1of4 += 1405584833;
+
 break;
 case 3:
 Xf57lF0R_N %= 1797152565;

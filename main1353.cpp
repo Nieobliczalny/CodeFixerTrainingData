@@ -44,7 +44,7 @@ case 0:
 
 break;
 case 1:
-nhYzWQcC3 = SfHH2(787288805);
+
 break;
 case 2:
 Xa4HigkHy = SfHH2(Qt_dmdC);
@@ -126,7 +126,7 @@ for (int k = 0; k < 4; ++k)
 }
 }
 }
-MzzC_F4nhd = (unsigned short)(S775691);
+
 
 if (Yt_wq >= jgDE9b)
 {
@@ -177,7 +177,7 @@ else
 {
 
 }
-f5I4dVr = 1222602888 / nhYzWQcC3;
+
 return 0;
 }
 

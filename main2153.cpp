@@ -643,7 +643,7 @@ for (int i = 10; i >= 0; i--)
 
 }
 
-Kq12e = tV8iT7fI(Kq12e);
+
 {
 int i = 4;
 do
@@ -691,7 +691,7 @@ case 'J':
 
 break;
 default:
-s25mK9g = jghNb / FG5p;
+
 break;
 }
 --i;

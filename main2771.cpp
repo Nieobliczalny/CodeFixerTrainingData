@@ -356,7 +356,7 @@ else
 {
 aG9g1G1 = (unsigned short int)(qq4D3O_ + (-470815488));
 }
-YMNu = (int)abs(Vxqpj);
+
 n3t3sOxNS = (unsigned short int)(G6J9a2);
 
 
@@ -427,7 +427,7 @@ case 2:
 
 break;
 case 3:
-nm4Gb4 = n3t3sOxNS / q97b3Me3;
+
 break;
 case 4:
 XZuy8 = n_5pJ(XZuy8);

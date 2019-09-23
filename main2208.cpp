@@ -21,7 +21,7 @@ int main(void)
     long long    UV8un;
     UV8un    =    -1202952411;
 	int	z8Igo55Bz;
-	z8Igo55Bz	=	1363063400;
+
     short    K_NL8_X;
     K_NL8_X    =    -504401994;
     unsigned short int    CYFv_4;
@@ -39,7 +39,7 @@ int main(void)
  unsigned int B_8rjbZ6;
 
   short int  l46g;
-  l46g  =  -1087470785;
+
 	unsigned short	sfL78sbFa;
 	sfL78sbFa	=	276118732;
  float Zlj500c2g;
@@ -87,7 +87,7 @@ int main(void)
  int F8f4Gvuiyd;
  F8f4Gvuiyd = -1967995757;
 	unsigned int	y0xCH3wGh;
-	y0xCH3wGh	=	268317978;
+
   unsigned short  eF5SAC1;
 
     unsigned char    zn20y;
@@ -121,7 +121,7 @@ int main(void)
   unsigned short  gCn3v3wZ;
   gCn3v3wZ  =  1216655623;
     unsigned char    YivmQ99c;
-    YivmQ99c    =    -1404170448;
+
 	long	F_B_0k5;
 	F_B_0k5	=	-799899923;
 
@@ -247,7 +247,7 @@ if (rq1Up == -925432501)
 {
 try
 {
-y0xCH3wGh = Cxhof0Uc2l(uW44vMkt, sfL78sbFa, -1914762541, -414706038) / yF33TCm;
+
 }
 catch (int& errorCode)
 {
@@ -309,7 +309,7 @@ case 0:
 
 break;
 case 1:
-hKvh = veA2EVc2_m % 874357499;
+
 break;
 case 2:
 WU_2 = izlIgU(WU_2, -106515571, Rl_8ME2);
@@ -390,7 +390,7 @@ case 'e':
 
 break;
 case 'f':
-yF33TCm &= J_X24_;
+
 break;
 case 'g':
 

@@ -212,7 +212,7 @@ while (i < 7);
 
 
 
-AYFRG = (int)ceil(IHKcx6w78);
+
 
 cout << C19l9C3m3B << "f69jpN9t" << "T0296706" << "x9oM" << endl;
 

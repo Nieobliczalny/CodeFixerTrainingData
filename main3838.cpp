@@ -98,7 +98,7 @@ int main(int argc, char** argv)
 	double	n1K_475ee;
 
 	unsigned short	a12Nq;
-	a12Nq	=	1255598524;
+
  unsigned short hb41d4RR;
  hb41d4RR = 2079931710;
  double pifZ_7D_d;
@@ -116,7 +116,7 @@ int main(int argc, char** argv)
     long    L5f0;
     L5f0    =    -545944893;
     int    Pe404naO_b;
-    Pe404naO_b    =    -2135226695;
+
     unsigned short int    ix1_2163;
     ix1_2163    =    -705230788;
  char e59fd0;
@@ -134,7 +134,7 @@ int main(int argc, char** argv)
  double K5Z5rFj;
 
     double    VZYNle1;
-    VZYNle1    =    1255338853;
+
     unsigned int    W_2k4DI;
     W_2k4DI    =    457830501;
   unsigned char  WvDwYS71fw;
@@ -184,7 +184,7 @@ int main(int argc, char** argv)
  long double QMz1;
  QMz1 = -1700214094;
  unsigned long C6n53;
- C6n53 = 437655622;
+
  double pVYWE9;
  pVYWE9 = -155425121;
   unsigned char  dTGJfiqTG;
@@ -314,7 +314,7 @@ case 4:
 
 break;
 case 5:
-K5Z5rFj = WV3IvCWh5 * HF0M;
+
 break;
 case 6:
 
@@ -462,7 +462,7 @@ else if (Li2su3 != c8xPw)
 }
 else if ((T5FPy_ == n1K_475ee) || (oEcOS != SutO_x))
 {
-I9_i = qcFhD4OK & c0Gq39;
+
 }
 else if (z_yUxR > V7_0n9v0q)
 {
@@ -649,7 +649,7 @@ while (j >= 0);
 }
 else
 {
-Li2su3 = cz2Kk(1172594854);
+
 }
 
 {
@@ -687,7 +687,7 @@ case 0:
 
 break;
 case 1:
-vrm1r2tg4 = g5pvxE4_ << 1522520127;
+
 break;
 default:
 
@@ -716,7 +716,7 @@ else if ((u439 == -253805916) && (SutO_x >= 976349607))
 }
 else if ((xD0UdZ > -708185569) || (DEF7kmHLDN >= CvA4d))
 {
-azCmi8Kz = UWrO();
+
 }
 else if ((SutO_x != 1526338280) || ((g5pvxE4_ < Qjp9G9w) || (vE2I)))
 {

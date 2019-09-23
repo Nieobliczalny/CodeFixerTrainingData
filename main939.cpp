@@ -204,7 +204,7 @@ case 3:
 
 break;
 case 4:
-tmOP7H = MVkL9EyX(1148186197);
+
 break;
 case 5:
 
@@ -453,7 +453,7 @@ i++;
 }
 }
 }
-c1G4lPq = (long long)(X0Iddxy);
+
 
 for (int i = 1; i >= 0; i--)
 {

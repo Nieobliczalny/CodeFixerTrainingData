@@ -42,7 +42,7 @@ int main() {
   long  Xn3y2L6Ke;
 
   unsigned char  c7Z8WPGr2;
-  c7Z8WPGr2  =  -957065817;
+
 	short int	nqQF4fgdJ;
 	nqQF4fgdJ	=	-833019286;
     long    Q5t4_6d5R;

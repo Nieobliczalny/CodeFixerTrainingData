@@ -119,7 +119,7 @@ int main(int argc, char** argv)
   float  X0SE46j6;
   X0SE46j6  =  -623639737;
  unsigned char y2KF0k_C;
- y2KF0k_C = -395439647;
+
     long    j24P33T2;
     j24P33T2    =    1988733474;
 	unsigned char	QZ9E01xy;
@@ -179,7 +179,7 @@ case 2:
 
 break;
 case 3:
-TsiJv59_ = (int)abs(zlXJz5g);
+
 break;
 case 4:
 L0fh47P0t7 = NFS6H3I5(-1398706008);
@@ -194,7 +194,7 @@ case 7:
 
 break;
 case 8:
-n60hfiw9f = NFS6H3I5(757112160);
+
 break;
 default:
 
@@ -250,7 +250,7 @@ case 2:
 Fkx3_J7 = (int)floor(X0SE46j6);
 break;
 case 3:
-ScxR = (int)floor(DKJcxq3PC9);
+
 break;
 case 4:
 e61n68iymk--;
@@ -296,7 +296,7 @@ case 'c':
 
 break;
 case 'd':
-n60hfiw9f = NFS6H3I5(QDBV);
+
 break;
 case 'e':
 q0e8 = (CYkgH & WzLbr__0g) ? FP3t3 : G6h8qdzpWR;
@@ -508,7 +508,7 @@ case 'e':
 
 break;
 case 'f':
-SLeRX = (int)abs(WI75zdy_Q);
+
 break;
 case 'g':
 
@@ -552,7 +552,7 @@ s1525b8Kb = NFS6H3I5(tBkK7f) / NFS6H3I5(1273077287);
 
 if (s1525b8Kb == -2000662894)
 {
-NW8xNT9_A -= M4At_;
+
 }
 else
 {

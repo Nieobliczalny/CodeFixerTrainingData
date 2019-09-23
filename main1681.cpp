@@ -29,7 +29,7 @@ long	bTo96(char	VH56Osbf8,short	PJdRUPq1J)
 int main(int argc, char** argv) {
  int YVuy972s, dKy_P4mD75, U2zRub, x3a5PO_a, qJ3wcj03;
  YVuy972s = 0;
- dKy_P4mD75 = 0;
+
  U2zRub = 0;
  x3a5PO_a = 0;
  qJ3wcj03 = 0;
@@ -62,7 +62,7 @@ int main(int argc, char** argv) {
     N8181m2Q    =    -1608788995;
     kQFYx3qa6    =    1987240896;
     c9vy    =    766639145;
-    OH7LveB11    =    1260533077;
+
     f4UQg    =    -730347218;
     Xdw9yo    =    246093528;
     syY2Xt7    =    -1400012559;
@@ -87,7 +87,7 @@ int main(int argc, char** argv) {
     j8dT0    =    -11017133;
     Png8i    =    2084993095;
 
-    MMAZc5g681    =    -1230507152;
+
     zt0ZaknPE0    =    1252165508;
     v6k47eBz2r    =    1161840178;
     JG52T11c1e    =    -415642826;
@@ -417,7 +417,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-dKy_P4mD75 = bTo96(xyjlS_9t2e, 297592420);
+
 break;
 case 'd':
 case 'D':
@@ -509,7 +509,7 @@ if (h_8gV5 > 770132854)
 }
 else
 {
-YF5TAHZxLw = PQqTjb2YZ2(YF5TAHZxLw, Eq19, 1588542728, 2087508572, 1477145309);
+
 }
 }
 else if (h162s6CEfw > 357839234)
@@ -574,7 +574,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-S_A8v54P ^= 2137527528;
+
 break;
 case 'd':
 case 'D':
@@ -590,7 +590,7 @@ case 'F':
 break;
 case 'g':
 case 'G':
-WHFZjvF7_6 = PQqTjb2YZ2(WHFZjvF7_6, -2015463749, N8181m2Q, uxWz2J28AG, JOMHDKI022);
+
 break;
 case 'h':
 case 'H':
@@ -621,7 +621,7 @@ else
 
 cout << "Ov7TeX" << tm9gw << "Gr2KJjL" << endl;
 
-GykEbMj9_6 |= oL38C33R;
+
 
 DtESM = m6r_ / YVuy972s;
 {

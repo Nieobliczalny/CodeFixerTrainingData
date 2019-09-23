@@ -193,7 +193,7 @@ case 'd':
 
 break;
 case 'e':
-R0CWaO2_az = (int)floor(d3VKbX_Y2);
+
 break;
 default:
 rYh_D = iBW2(rYh_D, pEu9f, 94493325);
@@ -257,7 +257,7 @@ case 'e':
 
 break;
 case 'f':
-Zh_WN = (int)floor(iz96r);
+
 break;
 case 'g':
 H01Ng63C29++;

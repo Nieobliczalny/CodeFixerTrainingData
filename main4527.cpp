@@ -390,7 +390,7 @@ while (j >= 0);
 switch (rqR2)
 {
 case 'a':
-A3e0BkGW5 %= K5Gzy;
+
 break;
 case 'b':
 
@@ -644,7 +644,7 @@ else if (E0wr5 != z63p_p_)
 }
 else if (s8a4V29Pk == s9RkyW6Dg)
 {
-yyF0 = s9RkyW6Dg ^ Oc81Hu9;
+
 }
 else
 {
@@ -681,7 +681,7 @@ else if (Sqc46T == J2uLjP)
 }
 else
 {
-pcc4WCY = (int)abs(Wh9HL_);
+
 }
 }
 }

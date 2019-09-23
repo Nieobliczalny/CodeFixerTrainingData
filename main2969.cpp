@@ -386,7 +386,7 @@ else if (UKY1O5Hps <= bqs49)
 int j = 7;
 while (j >= 0)
 {
-XZz4Pa9I2 = (unsigned long)(s04c);
+
 --j;
 }
 }
@@ -638,7 +638,7 @@ case 2:
 O03cl = M5qBVzoB(KnR00A7rO);
 break;
 default:
-O5Llb = F500IK0(158163333, -632770274, -1860178497, P98d, 1357142813);
+
 break;
 }
 }

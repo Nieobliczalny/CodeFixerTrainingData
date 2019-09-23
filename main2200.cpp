@@ -90,7 +90,7 @@ int main(int argc, char** argv) {
  unsigned long zDjfSwnh2z;
  zDjfSwnh2z = 1367099429;
  unsigned short Ph66A;
- Ph66A = 51322869;
+
     unsigned short    q7lOK6w;
     q7lOK6w    =    -1862083041;
   short int  rGNt1C3;
@@ -202,7 +202,7 @@ case 3:
 PwSOn4nkx2 = (int)abs(B_phC);
 break;
 default:
-S29T8I1j = GP4El3v(-1480234190, fCvV6, Vgp2y, Vrrq09, rVQs0_);
+
 break;
 }
 }
@@ -519,7 +519,7 @@ v_UJ5e1 = DMQl122k8(v_UJ5e1);
 }
 else if ((Hff2 & bCGg7qbf) && (Lm2hY > Zs2L3_2D9))
 {
-Ph66A = B6cCP(-771132767, R8I3EXxGQ);
+
 }
 else
 {

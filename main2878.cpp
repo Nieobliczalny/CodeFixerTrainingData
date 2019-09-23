@@ -95,7 +95,7 @@ int main(void) {
 	char	Rlg6E2;
 	Rlg6E2	=	0;
     int    gXM5;
-    gXM5    =    -798970929;
+
     unsigned short int    TKoz_85Hfp;
 
   int  s2X_am3q8;
@@ -135,7 +135,7 @@ int main(void) {
 	unsigned char	Q70REyt;
 
 	unsigned int	ux8hMwF3;
-	ux8hMwF3	=	-949865862;
+
     int    h3vr_lytkH;
 
   unsigned long long  mVNk6;
@@ -187,7 +187,7 @@ int main(void) {
   short int  X_Xd;
   X_Xd  =  948059210;
  unsigned short int ckwJ53;
- ckwJ53 = 2022009512;
+
     long long    zhJe5CTx;
     zhJe5CTx    =    -642886958;
  float u_v97pdbc_;
@@ -572,7 +572,7 @@ case 'a':
 P5cE8X9 = (int)floor(B5c2);
 break;
 case 'b':
-WbN8 -= mCyad5n1R;
+
 break;
 case 'c':
 SIai8dqF6F = BOPP(-1254699278, -1962529960);
@@ -594,7 +594,7 @@ case 1:
 
 break;
 case 2:
-shn6h5 = BOPP(1425853856, WX_lqOKf);
+
 break;
 case 3:
 mVNk6 = u_v97pdbc_ + i4M_45wBSt;
@@ -609,7 +609,7 @@ case 6:
 
 break;
 case 7:
-X55Q9 = BOPP(X55Q9, s2X_am3q8);
+
 break;
 case 8:
 H18g = IaxGvY2(H18g, 439637662, 1959365628, HG3BfF7z8, 1688312643);
@@ -699,7 +699,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-Rlg6E2 = JO8983kez2(JdTx58bn, UX0_p, -1409064508, -522678034, 1909911934);
+
 break;
 case 'e':
 case 'E':
@@ -827,7 +827,7 @@ case 'B':
 
 break;
 default:
-JkI8bS_ = IaxGvY2(-1735916606, RZK12yO, 100932236, -1334340264, -1841334291);
+
 break;
 }
 

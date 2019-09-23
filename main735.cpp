@@ -391,7 +391,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-VJLU1 = (int)ceil(nsOkn16i_k);
+
 break;
 case 'd':
 case 'D':

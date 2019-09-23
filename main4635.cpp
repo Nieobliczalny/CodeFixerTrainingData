@@ -159,7 +159,7 @@ WG9mi = gPi3s8IVKE(771197768);
 break;
 case 'e':
 case 'E':
-NpDIWK7Y7 = (int)ceil(C_k1J);
+
 break;
 }
 }
@@ -196,7 +196,7 @@ case 1:
 
 break;
 case 2:
-Jyr90nE = (int)abs(ZizL0Xa_);
+
 break;
 case 3:
 rfPGqp = (int)abs(O1xUuE0PCr);

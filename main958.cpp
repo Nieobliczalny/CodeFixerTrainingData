@@ -342,7 +342,7 @@ i--;
 while (i >= 0);
 }
 
-mxNFpQQgF_ &= 29148960;
+
 
 zA1ai0q = mdzg / xLg03_;
 if (zA1ai0q >= bLk_oUTV)
@@ -440,7 +440,7 @@ case 3:
 oNwbh5U6zG = El08bd(oNwbh5U6zG, 692924798, -1504987463, -724098696);
 break;
 case 4:
-s45oP_72h = (int)floor(oNwbh5U6zG);
+
 break;
 case 5:
 q0m6ywg8 = qgf1r2pTt | eYDJkc;
@@ -506,7 +506,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-C1_H = (int)floor(q0m6ywg8);
+
 break;
 case 'f':
 case 'F':

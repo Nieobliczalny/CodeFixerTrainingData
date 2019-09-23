@@ -189,7 +189,7 @@ if (e8EYVKU7hZ & -1284790570)
 {
 try
 {
-ty_91A4L = J9x_(ty_91A4L);
+
 }
 catch (int& errorCode)
 {

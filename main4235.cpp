@@ -211,7 +211,7 @@ else if (tTzbEHN < xKez)
 }
 else if (tM6qD0U1k & O7x63lm)
 {
-WIvVNk2G = (int)ceil(AK97Vgk_V);
+
 }
 else if (hC9qkzK <= 718637830)
 {
@@ -236,7 +236,7 @@ else
 
 }
 
-jtl46f = Y_0pFeR5 / O1ngz_lK;
+
 kMc9G = (short)(T9EH);
 
 if (((vBkJ57E1X >= 1426483618) && (hC9qkzK & xKez)) && (aj5E9 <= uMj7))

@@ -57,7 +57,7 @@ GIcgPh = n8DY_(t5VAt_mtHK) | 349582986;
 }
 else
 {
-Cg34C = iUGH(-524234416, 1794127651);
+
 }
 }
 }
@@ -187,7 +187,7 @@ else if (p10LtX > bbbL_N)
 }
 else
 {
-PcpmY = iUGH(746391145, -1493445857);
+
 }
 }
 else

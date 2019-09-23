@@ -462,7 +462,7 @@ while (i < 5);
 }
 try
 {
-vAZXZ2Ib3 = (short int)(r6d_);
+
 }
 catch (int& errorCode)
 {

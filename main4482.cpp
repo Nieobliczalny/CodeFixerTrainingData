@@ -119,7 +119,7 @@ switch (azW2)
 {
 case 'a':
 case 'A':
-Yc_X >>= 2044592382;
+
 break;
 case 'b':
 case 'B':
@@ -254,7 +254,7 @@ case 5:
 
 break;
 case 6:
-hm_CN3AhHd -= 858801529;
+
 break;
 case 7:
 Tw131oh9l -= PmI7Lm;
@@ -288,7 +288,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-o06Xq *= 1172332820;
+
 break;
 case 'd':
 case 'D':
@@ -319,7 +319,7 @@ case 'J':
 
 break;
 default:
-aN0U1Ov &= 430815827;
+
 break;
 }
 }
@@ -389,7 +389,7 @@ case 'b':
 
 break;
 case 'c':
-GVtPW = oECf54 & 545972185;
+
 break;
 case 'd':
 aXy6 = MHeP44ZQ % 1892719315;
@@ -425,7 +425,7 @@ default:
 
 break;
 }
-Wqg4NFQ >>= 50715656;
+
 
 try
 {

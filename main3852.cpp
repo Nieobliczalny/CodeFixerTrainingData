@@ -75,7 +75,7 @@ int main(void)
  unsigned long long e3TNIz2G7;
 
  short uPFu;
- uPFu = -1363666336;
+
  unsigned short EpJ3tL;
  EpJ3tL = -419552960;
 	short	H_Y8U9;
@@ -366,7 +366,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-dis_ = (int)abs(UJ6CP1Q);
+
 break;
 case 'g':
 case 'G':
@@ -618,7 +618,7 @@ else
 switch (Y8131Jk)
 {
 case 0:
-z2Hf5R2kX = (int)floor(f83McY);
+
 break;
 case 1:
 oM35liNq = (int)ceil(S9OCy3L);
@@ -642,7 +642,7 @@ case 'b':
 
 break;
 case 'c':
-yex55_AEqr = vc_ptrIiV(-2029617091, -2108918479, n8056Pm);
+
 break;
 case 'd':
 z2Hf5R2kX = (int)floor(U3HI04S);

@@ -21,7 +21,7 @@ int main()
   py3XN52  =  1650826181;
   Ter8f  =  1333974638;
   W7YJ17  =  -1473119494;
-  MiFkGo63pr  =  398630425;
+
   gZLa  =  -939757625;
   BO_T  =  1654745449;
   Qa9oMMB_6a  =  986738488;
@@ -32,7 +32,7 @@ int main()
   aPI6K5qX  =  -288498361;
 
   t9Jhj9yM0  =  224269679;
-  WVGk52  =  426333675;
+
   x548Fk  =  1753689638;
   bmI5TI  =  -1098157083;
   bbINw2Pg  =  267293472;
@@ -43,7 +43,7 @@ int main()
 
   ZybP  =  1706248475;
 
-  rX26xH0  =  -2014235774;
+
   Xii0  =  -941035198;
   Y3Z_NJ7R  =  2051664074;
   J5gYW5qrA  =  452140635;
@@ -56,7 +56,7 @@ int main()
   eAzg  =  -760136546;
   piPjoLnF  =  -686939444;
  int h8k5w3fJMr, Q_4SrVG, IaKLRF4;
- h8k5w3fJMr = 0;
+
  Q_4SrVG = 0;
  IaKLRF4 = 0;
 
@@ -89,7 +89,7 @@ while (i < 1);
 
 try
 {
-dO2g_Wb = (short int)(Y3Z_NJ7R);
+
 }
 catch (int& errorCode)
 {
@@ -104,7 +104,7 @@ case 1:
 
 break;
 case 2:
-IaKLRF4 = sk3M8(aPI6K5qX);
+
 break;
 default:
 ZybP |= 588800233;
@@ -159,7 +159,7 @@ else
 
 }
 }
-W7YJ17 <<= LjNo;
+
 Q_4SrVG = sk3M8(Xii0);
 for (int i = 0; i < 6; i++)
 {

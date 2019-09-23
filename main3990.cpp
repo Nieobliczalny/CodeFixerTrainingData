@@ -102,7 +102,7 @@ int main() {
 	RQu8Q6k4	=	-684574195;
 	a5FgA	=	-479296159;
 	dNxze	=	-290340380;
-	ikwOEnXS92	=	1315075284;
+
 	o9_KDH1	=	-480850742;
 	M4DfXKa	=	456932088;
 	n2Z_Jg	=	377460978;
@@ -294,7 +294,7 @@ Y2LWd6H2 = F57GDz + 13384929;
 }
 else
 {
-ikwOEnXS92 = (int)abs(L_qw);
+
 }
 }
 }

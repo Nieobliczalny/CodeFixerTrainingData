@@ -552,7 +552,7 @@ case 4:
 
 break;
 case 5:
-MI89P = (int)ceil(PbIiCcBzx);
+
 break;
 case 6:
 PbIiCcBzx = (int)abs(aSvUCY3);

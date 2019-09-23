@@ -395,7 +395,7 @@ case 2:
 K3JxA = KoA_Smp_f0();
 break;
 case 3:
-sxZMh0l_ = (int)floor(w_0hp1);
+
 break;
 case 4:
 
@@ -426,7 +426,7 @@ K3JxA = UR73HF2top(qB_6) % 1595685419;
 }
 else if (((xhn4 & ix5_) && (b076_ != ca0p6TvL8)) || (v6P6i5ON & G7LbAs))
 {
-K5l3ypWfo6 = bt78JgKj(-1917406, 196071476, qB_6);
+
 }
 else
 {

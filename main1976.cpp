@@ -93,7 +93,7 @@ int main(void) {
  unsigned short p2490J;
  p2490J = -726889374;
     short int    smome;
-    smome    =    -692925220;
+
 	double	x_W5;
 	x_W5	=	215046500;
 	short int	rbGzKS;
@@ -229,7 +229,7 @@ KP85kf = (int)floor(XX6ywA);
 }
 else if (Uum1X76 > 2005755808)
 {
-smome = zw2B2 / JmER;
+
 }
 else
 {
@@ -419,7 +419,7 @@ else if ((X5th6eta & -874577128) || (s6qw))
 int j = 1;
 do
 {
-smome = hAb8_x + 1167891300;
+
 --j;
 }
 while (j >= 0);
@@ -719,7 +719,7 @@ Dt871_ = (unsigned int)(stuHC28 * Dt871_);
 }
 }
 
-X5th6eta = wh_TSd5gUl(-749972305) / wh_TSd5gUl(h655j);
+
 
 {
 int i = 0;
@@ -783,7 +783,7 @@ case 'f':
 
 break;
 case 'g':
-Dt871_ = wh_TSd5gUl(1896571630);
+
 break;
 case 'h':
 myhg2GH3gA = (int)floor(XX6ywA);
@@ -846,7 +846,7 @@ M5Gsc++;
 break;
 case 'd':
 case 'D':
-JmER = (int)floor(XD8kgIpFkE);
+
 break;
 case 'e':
 case 'E':
@@ -877,7 +877,7 @@ while (k < 2);
 }
 else
 {
-JmER = (int)ceil(XX6ywA);
+
 }
 
 Dt871_ = wh_TSd5gUl(-1832968845);
@@ -986,7 +986,7 @@ case 4:
 M5Gsc = aRy2W % gtu99;
 break;
 case 5:
-Dt871_ = wh_TSd5gUl(-1014517892);
+
 break;
 case 6:
 
@@ -998,7 +998,7 @@ case 8:
 
 break;
 case 9:
-Dt871_ = wh_TSd5gUl(CcM7fvFH1);
+
 break;
 default:
 H7iL = wh_TSd5gUl(418807505);

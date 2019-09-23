@@ -173,7 +173,7 @@ case 'b':
 
 break;
 case 'c':
-AIC6_1 = G6N9Q8xM9 >> O97_j13tz;
+
 break;
 case 'd':
 V_I6z2 -= mig3qDp;
@@ -187,7 +187,7 @@ break;
 }
 for (int i = 5; i >= 0; i--)
 {
-tZ_i = p2TVr % xQtb;
+
 }
 switch (yaM71QU)
 {
@@ -198,7 +198,7 @@ case 1:
 
 break;
 case 2:
-ab3fr = YXd7E3fmM5 - 414786444;
+
 break;
 }
 

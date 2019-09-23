@@ -630,7 +630,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-w11q = (int)ceil(fIgU_9e);
+
 break;
 default:
 

@@ -156,7 +156,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-Hq7G = (int)ceil(SV7ybdKEB3);
+
 break;
 case 'e':
 case 'E':

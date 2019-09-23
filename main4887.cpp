@@ -17,7 +17,7 @@ int main(int argc, char** argv)
  short dRyc7KY7;
 
   long long  b75mYxDQ5S;
-  b75mYxDQ5S  =  394545843;
+
   long double  yoAVM7F;
   yoAVM7F  =  1093221785;
     short int    N874_n9g_;
@@ -47,7 +47,7 @@ int main(int argc, char** argv)
  unsigned short vt4AtPJh;
  vt4AtPJh = -607818463;
   unsigned char  Z4W8;
-  Z4W8  =  737832417;
+
  unsigned long o_7Xy;
  o_7Xy = 849088940;
 	float	kuBTVx;
@@ -77,7 +77,7 @@ int main(int argc, char** argv)
   unsigned char  k5MI_TE;
   k5MI_TE  =  879953438;
 	short int	ox90894;
-	ox90894	=	1327548785;
+
     unsigned long    uq_A0xTf4;
     uq_A0xTf4    =    -585619664;
 	unsigned long	CW4lL2;
@@ -121,7 +121,7 @@ int main(int argc, char** argv)
  unsigned long long VGWOZc_7JK;
 
     unsigned int    U7uoA5657;
-    U7uoA5657    =    -1327089482;
+
 	short	gQw1yJw0;
 	gQw1yJw0	=	-500155103;
 	unsigned int	cPGMYs3Hvz;
@@ -137,7 +137,7 @@ int main(int argc, char** argv)
  short F997T9n;
  F997T9n = 1300126155;
 	char	Bt27_lb;
-	Bt27_lb	=	2042296756;
+
 	unsigned long	XV89v8b;
 	XV89v8b	=	-1633765309;
  unsigned int X0zRdP6;
@@ -147,7 +147,7 @@ int main(int argc, char** argv)
  int S81lsS48fa;
  S81lsS48fa = 2113471754;
  long E1A8g;
- E1A8g = -162050898;
+
   int  oz399_SUun;
   oz399_SUun  =  0;
 	unsigned long long	T1_u5he2;
@@ -171,7 +171,7 @@ int main(int argc, char** argv)
 	char	RAg3RA1Bh6;
 	RAg3RA1Bh6	=	1846107537;
     int    W_41qq;
-    W_41qq    =    941244128;
+
     float    DvV6Rn1K;
     DvV6Rn1K    =    328623844;
  unsigned char J1_2z000;
@@ -187,7 +187,7 @@ int main(int argc, char** argv)
     char    s5Ycgk;
     s5Ycgk    =    1189199347;
 
-ox90894 = (short int)(RP9qO4Uh);
+
 if (CTnIF1r == -1997310409)
 {
 cout << B6YamW4ze << u5T6_awiEO << gQw1yJw0 << endl;
@@ -264,7 +264,7 @@ case 1:
 
 break;
 case 2:
-Ms500c7 = X3z4 / yoAVM7F;
+
 break;
 case 3:
 Jz2d9j = (int)abs(TP02wZfCc);
@@ -372,7 +372,7 @@ else if (OzHB >= 1322363787)
 }
 else if (CW4lL2 > -1725343240)
 {
-ox90894 = (int)abs(qG38ZefV);
+
 }
 else if (OzHB < 520345156)
 {
@@ -399,7 +399,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-EdiBJ += vt4AtPJh;
+
 break;
 case 'd':
 case 'D':
@@ -473,7 +473,7 @@ case 1:
 
 break;
 case 2:
-abo4 = RAg3RA1Bh6 - kuBTVx;
+
 break;
 default:
 CTnIF1r = (int)ceil(bttWmW);

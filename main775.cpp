@@ -20,7 +20,7 @@ int main(void) {
 	long double	VuxdL;
 	VuxdL	=	59644634;
     unsigned char    sUA8l;
-    sUA8l    =    1292106258;
+
     unsigned long    VuPKL;
     VuPKL    =    1852927788;
 	char	V69X;
@@ -40,7 +40,7 @@ int main(void) {
     float    MBUux;
     MBUux    =    -1117338473;
  long long Tq0pPVK;
- Tq0pPVK = 1421474954;
+
 	double	xOW14j5;
 	xOW14j5	=	-250702087;
     long long    a_UWE8iY3;
@@ -58,7 +58,7 @@ int main(void) {
 	unsigned long	ld5Xa8N;
 	ld5Xa8N	=	1304580111;
     double    Gp5E;
-    Gp5E    =    711424707;
+
   unsigned long  PlA6Cq2;
   PlA6Cq2  =  -916710438;
     unsigned int    zN7L7WL;
@@ -74,7 +74,7 @@ int main(void) {
  short int cwD7_8Qs1;
 
     long long    Lumhz8lI2_;
-    Lumhz8lI2_    =    1450677973;
+
 	unsigned long long	IVmw8_DEl;
 	IVmw8_DEl	=	0;
   unsigned char  W71c692s9A;
@@ -98,7 +98,7 @@ int main(void) {
 	unsigned long long	Exur5_0;
 	Exur5_0	=	60801196;
 	unsigned long	lGJZp2Nv7;
-	lGJZp2Nv7	=	-1197555355;
+
   float  fh8LloC;
   fh8LloC  =  -687287608;
     unsigned long long    bdC7v;
@@ -129,7 +129,7 @@ case 1:
 
 break;
 case 2:
-sUA8l = iMrr7PJ7u - 2069286848;
+
 break;
 case 3:
 q9sLhAo6 = (int)ceil(Nclq91q_u);
@@ -139,7 +139,7 @@ default:
 break;
 }
 
-iMrr7PJ7u = (int)ceil(Nclq91q_u);
+
 switch (jzbsHu_J)
 {
 case 'a':
@@ -193,7 +193,7 @@ else if ((AHt64dL67 <= 1105408810) && (oap6u != 870576663))
 {
 try
 {
-IVmw8_DEl = d24_82NdaN(YM66x, C1R21, VuPKL, -1874716572);
+
 }
 catch (int& errorCode)
 {
@@ -216,7 +216,7 @@ q9sLhAo6 = (int)abs(TH_i1);
 }
 else if (qcz6qyX6)
 {
-IVmw8_DEl = d24_82NdaN(wA1dCb04, ld5Xa8N, wmEx7j_, 1041660117);
+
 }
 else
 {
@@ -281,7 +281,7 @@ else if (V69X <= -523021324)
 }
 else if (bdC7v & qcz6qyX6)
 {
-oap6u = (int)abs(VuxdL);
+
 }
 else
 {
@@ -291,7 +291,7 @@ else
 }
 AHt64dL67 = (int)(W71c692s9A);
 
-YM66x = Tt044D(2052770983, 1840673894, YXYXcpa);
+
 for (int i = 0; i < 4; ++i)
 {
 
@@ -302,7 +302,7 @@ case 'a':
 
 break;
 case 'b':
-Y_C_ &= 1243434865;
+
 break;
 case 'c':
 
@@ -326,7 +326,7 @@ case 'i':
 
 break;
 case 'j':
-q9sLhAo6 = (int)ceil(xOW14j5);
+
 break;
 }
 return 0;

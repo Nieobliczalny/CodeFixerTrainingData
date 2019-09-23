@@ -330,7 +330,7 @@ case 3:
 
 break;
 case 4:
-hY_Rnd = EGPsto1();
+
 break;
 case 5:
 Ufqcv8ymV = qvrPfD64Ot & qrKaiI;

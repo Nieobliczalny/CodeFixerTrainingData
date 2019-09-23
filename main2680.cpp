@@ -215,7 +215,7 @@ std::cout << "ThBi6Y1q1" << YAe6 << nRK5Yi << t0DYVr() << P1OMMt02M << std::endl
 }
 while (i < 6);
 }
-BZV9_1Wi = (int)ceil(rRZDx1APQb);
+
 try
 {
 rRZDx1APQb = PR_7Mor84 | 233317030;
@@ -366,7 +366,7 @@ case 1:
 
 break;
 case 2:
-V7SfwE_020 = N_lDDR6W(bSjK, 1333531167, -925693819, h_A8HU8k56);
+
 break;
 case 3:
 pn5ESoEmX7 = R2Twr5og7 >> 365993536;
@@ -378,7 +378,7 @@ case 5:
 
 break;
 case 6:
-K1T35Yw47 %= 1242865238;
+
 break;
 }
 }

@@ -28,6 +28,7 @@ int main()
   // codechecker_intentional [deadcode.DeadStores] Design rule - initialize all variables
   NDx02v89C7 = tUCiF = xKDcY = R3s_LqJ6M = x77Nk = hEz1u78_ = SdObSgMN8 = QhJMGg6 = sulzsyusf = H17Wcxf_S1 = A5bjb8C42 = hVaH = W02cf = oUG_r7iS5X = B8MD9z = pnDO2106E = ZlruD = d8Z0u8gi = liz48 = c70XKG99 = p4ISk9IuO = h31Z4x8 = bzLL3X9z8 = Z70pwRzVbx = G4DX3v7 = u0elcKYfA_ = yhrwk = U2_Y = MN9G7Lc = gKg5Cz8TKd = HnO1aeE = iU_Yp = LjXWC = pV92DqKSd = q4rM = uotmXR_fY = J8RE = n_Y5f_ = bNk9kThwU = r661 = GrVe290K_ = d1n20 = w1cWyE = qn7bkHwS = bfIHPB = m25R296Et = ML2K = Q6mxS0MJ = yoio6C5 = K7MklW94jR = nmb4x = 1680505899;
 	unsigned long	wea7_Fn7lP,	pNT61_5x,	Ti8R7l,	dG9tQXw7RP;
+		// codechecker_intentional [deadcode.DeadStores] Design rule - initialize all variables
 		wea7_Fn7lP	=	pNT61_5x	=	Ti8R7l	=	dG9tQXw7RP	=	0;
 
 switch (n_Y5f_)

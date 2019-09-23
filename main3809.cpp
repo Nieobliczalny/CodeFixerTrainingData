@@ -198,7 +198,7 @@ i_CMrKf_0Y = zYwAa % 306247224;
 
 if ((N5309g) && (cckXQ > ygKvl0Yw))
 {
-UKYbLT5 = (long)(zE8R + (ISQI8));
+
 }
 else if (pbtJ96 & 236865107)
 {
@@ -285,7 +285,7 @@ case 'b':
 
 break;
 case 'c':
-IzM47DF6 |= 823642162;
+
 break;
 case 'd':
 L7G5_AaJd0 = (int)abs(QqlEwVKTob);

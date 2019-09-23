@@ -14,7 +14,7 @@ int    uDRl(unsigned long    ac4Rk,char    nIH__KJ,int    d4Zbls_,short int    V
 
 int main() {
 	double	q58_tW_bI;
-	q58_tW_bI	=	1156762719;
+
     unsigned char    M3CWJ5;
     M3CWJ5    =    -2002433024;
  long H6s2Mi0;
@@ -276,7 +276,7 @@ case 'g':
 
 break;
 case 'h':
-k00b8V = (int)abs(BvTmo);
+
 break;
 case 'i':
 gmNkoeD = (int)floor(c4sYMXF8_);

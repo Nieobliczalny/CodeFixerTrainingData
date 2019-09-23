@@ -46,7 +46,7 @@ int main() {
  long Lixo6QF;
  Lixo6QF = 1641553676;
     unsigned short int    BaalIes;
-    BaalIes    =    1226713115;
+
  int cwFj4091i;
  cwFj4091i = 1669128277;
 	unsigned long	Fi0wlr;
@@ -481,7 +481,7 @@ do
 {
 try
 {
-S43jIzi13i = (int)abs(QcXU_iLeK1);
+
 }
 catch (int& errorCode)
 {
@@ -572,7 +572,7 @@ i54On6lE = (long double)(R_832L7R9X);
 }
 
 
-S43jIzi13i = (short int)(Tq9OXDL9);
+
 
 
 return 0;

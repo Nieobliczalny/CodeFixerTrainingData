@@ -418,7 +418,7 @@ case 2:
 
 break;
 case 3:
-JMBlnh9 = q1o56(JMBlnh9, 315701384, NCDIzf, bzT4l, 1416008919);
+
 break;
 case 4:
 fn4aj0d = (int)abs(Jzq_0p);
@@ -439,7 +439,7 @@ case 9:
 JVt_SzU_ = (int)abs(rHQ5);
 break;
 default:
-UBsy711cg = bzT4l ^ 2132808180;
+
 break;
 }
 if (fn4aj0d == -1653045348)

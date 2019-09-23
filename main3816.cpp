@@ -103,7 +103,7 @@ case 2:
 
 break;
 case 3:
-YnqhBaH = T_4BA01 + 1617702532;
+
 break;
 case 4:
 ptp1vM9b34 <<= P8R_Gd_Oz;
@@ -115,7 +115,7 @@ case 6:
 
 break;
 }
-u9a0AKP9d3 = (long double)(c44_ + (Y6N9W_yGB));
+
 
 cout << "AS0MAV9" << "vq033Uy" << uvH2511DC2 << n2pFNPVCPi << "CdvA2Kq1X" << endl;
 if ((1145805002 / c44_) > 2032876238)
@@ -139,7 +139,7 @@ case 3:
 
 break;
 default:
-X7x7 = X_ROGO2VzK ^ k7xlSrDp75;
+
 break;
 }
 }

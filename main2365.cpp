@@ -37,7 +37,7 @@ int main()
 	short	oq8gu;
 	oq8gu	=	289135315;
 	int	bplCLA52m;
-	bplCLA52m	=	1252479217;
+
   double  zXmwkzU49;
 
     long    b81D3Q4ZK;
@@ -47,7 +47,7 @@ int main()
     float    C_L50r;
     C_L50r    =    -1106424650;
   int  LmL98Rb74N;
-  LmL98Rb74N  =  -1020328409;
+
  unsigned int cTWTM61B8;
 
 	int	pO21_;
@@ -61,7 +61,7 @@ int main()
     int    pG_B4;
 
     unsigned short    q3QJ5H09PI;
-    q3QJ5H09PI    =    -475624704;
+
     double    H7VR6YwLG;
     H7VR6YwLG    =    2071418262;
   long long  oEMrS_WO6;
@@ -85,7 +85,7 @@ int main()
  short OT8DL;
 
  double D_8iUS;
- D_8iUS = -372277640;
+
     int    Z6w0S5jL;
     Z6w0S5jL    =    -1782258852;
  unsigned long V122c2OQ5k;
@@ -95,7 +95,7 @@ int main()
  double JH__1s3_;
 
 	float	gr_llqRW;
-	gr_llqRW	=	-1480390585;
+
   short  PC6Ov;
   PC6Ov  =  146281815;
  int gv_MMb;
@@ -105,7 +105,7 @@ int main()
     long    Oi2MYX_f9;
 
   short int  WzEQN3n;
-  WzEQN3n  =  413662005;
+
  unsigned int s7832gY3;
  s7832gY3 = -2141978590;
  char FF98v;
@@ -123,7 +123,7 @@ int main()
 	long long	CBQ_2p;
 
  unsigned int M3h5_16_Ik;
- M3h5_16_Ik = 579872972;
+
 	unsigned short int	o4iB;
 	o4iB	=	1804265938;
 	unsigned int	ZyQPSn09W7;
@@ -133,7 +133,7 @@ int main()
 	unsigned long long	uvP05V;
 	uvP05V	=	-401019123;
 	float	aQ1Qc;
-	aQ1Qc	=	1434339883;
+
  float k_13aRdqID;
 
     long    W6QZPeyQ;
@@ -143,7 +143,7 @@ int main()
     long    ICrp_U2Iq9;
     ICrp_U2Iq9    =    918405339;
   int  d_8Iu;
-  d_8Iu  =  -60247800;
+
     int    i12L9f;
     i12L9f    =    2060793736;
   float  O6Rd;
@@ -153,7 +153,7 @@ int main()
 	unsigned short int	LwF31jg4;
 
  unsigned char hM6bgcj;
- hM6bgcj = -1071757141;
+
     unsigned short    XIfaTlMA1V;
     XIfaTlMA1V    =    1502145723;
 	unsigned short	d6_3jz2;
@@ -165,7 +165,7 @@ int main()
     long    ir_B99_fv9;
 
     unsigned int    Nv371n8m1k;
-    Nv371n8m1k    =    -1161663716;
+
 	char	giKaryo_;
 	giKaryo_	=	1234777416;
     unsigned char    Jm2gXk;
@@ -175,7 +175,7 @@ int main()
 	unsigned short int	z5sc54Xd;
 
     unsigned long    jyj_ng_;
-    jyj_ng_    =    37567368;
+
  long double YO8igTv30;
  YO8igTv30 = 1599947618;
 	unsigned int	osWphe3u7;
@@ -185,7 +185,7 @@ int main()
     double    LID6BO8d;
 
     float    W12Bi2;
-    W12Bi2    =    597871577;
+
  short QUwn3GRs;
  QUwn3GRs = -1389301143;
 
@@ -274,7 +274,7 @@ case 1:
 
 break;
 case 2:
-W6QZPeyQ = eHzM4(W6QZPeyQ, 1802413070);
+
 break;
 case 3:
 gv_MMb += oq8gu;
@@ -289,7 +289,7 @@ case 6:
 
 break;
 case 7:
-w5J5qA = (int)ceil(lKo97D7E);
+
 break;
 case 8:
 

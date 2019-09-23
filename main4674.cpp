@@ -249,7 +249,7 @@ case 1:
 
 break;
 case 2:
-IZgS = WnrNogW55U();
+
 break;
 case 3:
 GELO83 |= 1312773246;
@@ -288,7 +288,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-T01P4TD = (int)abs(OLF_Kh2a);
+
 break;
 case 'e':
 case 'E':
@@ -300,7 +300,7 @@ case 'F':
 break;
 case 'g':
 case 'G':
-EhH4 = (int)abs(T01P4TD);
+
 break;
 case 'h':
 case 'H':

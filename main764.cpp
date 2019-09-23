@@ -104,7 +104,7 @@ case 3:
 Wy64Y0SH = rfFE | 359696660;
 break;
 case 4:
-whFrqN = (int)ceil(A2vg_58);
+
 break;
 case 5:
 

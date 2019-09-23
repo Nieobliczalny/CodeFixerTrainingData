@@ -238,7 +238,7 @@ case 'b':
 
 break;
 case 'c':
-ULM_MsjxW = (int)floor(F6w2wk2j0P);
+
 break;
 case 'd':
 Gkk9Q5 *= 1730224330;
@@ -250,7 +250,7 @@ case 'f':
 
 break;
 case 'g':
-ULM_MsjxW = (int)floor(F6w2wk2j0P);
+
 break;
 case 'h':
 hnT5U8Zcyy = (int)floor(Z2sD10js0u);

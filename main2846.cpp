@@ -148,7 +148,7 @@ j++;
 }
 try
 {
-QD_b7k %= 1003283840;
+
 }
 catch (int& errorCode)
 {

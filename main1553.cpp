@@ -83,7 +83,7 @@ m15Q = (int)ceil(Ig62pMK);
 
 std::cout << "C416A8wjeP" << G606yw2Ly(CryYE, 1496417104, 933486011, IQwv7eLh5i) << Z102uvaWC << std::endl;
 
-K4YZ |= 1446234269;
+
 
 switch (CPT8emm_R)
 {
@@ -109,7 +109,7 @@ case 6:
 m15Q = (int)floor(Ig62pMK);
 break;
 case 7:
-A5Z3YQQ = G606yw2Ly(CryYE, 1774176971, PXgl02, -602100194);
+
 break;
 }
 if ((IxWu16H0 / IxWu16H0) > -2053805300)

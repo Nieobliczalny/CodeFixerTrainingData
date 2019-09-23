@@ -18,7 +18,7 @@ int main(void)
     JW385G2N5    =    -1125543913;
 
 
-    C_ogNXNmq    =    807917782;
+
     HxwZ    =    102529556;
     B_33ut1i    =    -259863886;
     g7s_K6v    =    -432741667;
@@ -30,7 +30,7 @@ int main(void)
 
 
     xQxQK0V    =    -410964623;
-    y1279_    =    -554584027;
+
     uF26Q    =    -215316477;
     Hz71_3_    =    -1335103442;
     yzwSacd3    =    542791872;
@@ -51,7 +51,7 @@ case 'c':
 
 break;
 case 'd':
-Hz71_3_ += 742332182;
+
 break;
 case 'e':
 snQ48Zd = AWrfQ();
@@ -66,7 +66,7 @@ case 'h':
 
 break;
 case 'i':
-g7s_K6v = AWrfQ() * 1987625378;
+
 break;
 case 'j':
 

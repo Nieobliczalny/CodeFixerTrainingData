@@ -75,7 +75,7 @@ int main(int argc, char** argv) {
 	long	bucQ_9n;
 	bucQ_9n	=	0;
  int C5qM3a0X;
- C5qM3a0X = -225548700;
+
 	short int	z9t2;
 
 	char	vwii;
@@ -242,7 +242,7 @@ else
 {
 
 }
-R8QVvNFA %= Fkue0P7;
+
 
 switch (I2P_J_a)
 {
@@ -256,7 +256,7 @@ case 'c':
 
 break;
 case 'd':
-ic305FO9 = C5qM3a0X - I2P_J_a;
+
 break;
 case 'e':
 qtskp >>= z9t2;
@@ -300,7 +300,7 @@ case 6:
 
 break;
 case 7:
-J623u_Ok_ = (int)abs(I2P_J_a);
+
 break;
 case 8:
 

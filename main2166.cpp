@@ -186,7 +186,7 @@ case 1:
 Sr11166 = (int)floor(ghFUkCfz20);
 break;
 case 2:
-c84k = (int)abs(S7IH5Zl2p);
+
 break;
 default:
 Sr11166 = (int)floor(ghFUkCfz20);
@@ -343,7 +343,7 @@ else
 std::cout << "Z7yUl8ZV" << c6THq48(2121767625, 1043988881, 72802226, 1285366744) << std::endl;
 if (T16Gb == 0)
 {
-	fU0lIGBEu = WGW9_c7J_u / T16Gb;
+
 }
 
 return 0;

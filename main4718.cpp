@@ -235,7 +235,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-X28m2 = XTxYs();
+
 break;
 case 'd':
 case 'D':
@@ -251,7 +251,7 @@ case 'F':
 break;
 case 'g':
 case 'G':
-MThiO = a7q5_H2q - 372634370;
+
 break;
 case 'h':
 case 'H':
@@ -353,7 +353,7 @@ for (int i = 0; i < 6; i++)
 switch (tfL6)
 {
 case 'a':
-BqK1p43 = (int)floor(hxubysY);
+
 break;
 case 'b':
 

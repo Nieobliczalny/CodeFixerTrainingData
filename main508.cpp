@@ -94,7 +94,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-A8I_eIW_ = jBwer_ ^ 1763847690;
+
 break;
 case 'd':
 case 'D':
@@ -142,7 +142,7 @@ case 1:
 
 break;
 case 2:
-jBwer_ = (int)abs(N10Y) + (1758012520);
+
 break;
 case 3:
 d5b5Jkl66 = N10Y << 1719226884;
@@ -154,7 +154,7 @@ case 5:
 
 break;
 case 6:
-NTAL = fPlxba(NTAL);
+
 break;
 default:
 YO7c36 = (int)abs(dX8i) + (1780150094);

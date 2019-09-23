@@ -208,7 +208,7 @@ cout << "iav_gs0yi" << "NQn4AtmuVv" << endl;
 }
 else if (B_kS6RT0I > -854336269)
 {
-nIAq_8 = (long)(nVb8);
+
 }
 else if (mA8KE > l30__huNL)
 {
@@ -242,7 +242,7 @@ case 2:
 
 break;
 case 3:
-Y3e88R1xfN = y5lx0033zk * iZ9D2q;
+
 break;
 case 4:
 y76EaS = h2Bd9oQ(986744157, Y3e88R1xfN, L3QsYl8);
@@ -279,7 +279,7 @@ case 'd':
 
 break;
 default:
-u7C4t7laGV = nVb8 * D14d70;
+
 break;
 }
 }
@@ -311,7 +311,7 @@ else
 {
 
 }
-tq0pERpd &= N79t2994H3;
+
 iZ9D2q = h2Bd9oQ(1172969944, 945516879, 1944609899);
 
 

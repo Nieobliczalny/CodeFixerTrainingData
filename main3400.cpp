@@ -635,7 +635,7 @@ case 'g':
 
 break;
 case 'h':
-HOp_Xt10 = (int)abs(C42u);
+
 break;
 case 'i':
 M_f1_ &= t8kVG;

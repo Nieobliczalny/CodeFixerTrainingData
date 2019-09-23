@@ -148,7 +148,7 @@ case 0:
 
 break;
 case 1:
-u7HL = n7DTt3q(u7HL, 767998824, 536344002);
+
 break;
 case 2:
 sP69SW57b7 = (int)ceil(ytU6AGpn3);
@@ -241,7 +241,7 @@ default:
 break;
 }
 
-g2dF = mS8e9();
+
 try
 {
 if ((bo0fm < -518248750) || (lja80tsj9 >= OQ53xO6hD))

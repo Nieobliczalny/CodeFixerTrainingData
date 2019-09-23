@@ -540,7 +540,7 @@ for (int i = 9; i >= 0; i--)
 {
 Wj_pcs /= 406970439;
 }
-A5355ehgU = QNoef2 & 912993637;
+
 
 for (int i = 2; i >= 0; i--)
 {

@@ -104,7 +104,7 @@ case 'c':
 
 break;
 case 'd':
-n6_14UR3 = (int)ceil(fxmUn1);
+
 break;
 case 'e':
 
@@ -116,7 +116,7 @@ case 'g':
 
 break;
 case 'h':
-n6_14UR3 = JQ2C4kI(n6_14UR3);
+
 break;
 case 'i':
 

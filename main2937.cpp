@@ -18,7 +18,7 @@ int main() {
  long double w3Eq7, H_PiO, I71v6t3, bT5aX9my, X6PbaYvF, o0_u12bX, R8v6f2006, ha48;
 
 
- I71v6t3 = -915216504;
+
  bT5aX9my = -1059441081;
  X6PbaYvF = 503596737;
  o0_u12bX = 957114393;
@@ -29,7 +29,7 @@ int main() {
 
 
 
-R8v6f2006 = bT5aX9my / j3fnc3;
+
 
 return 0;
 }

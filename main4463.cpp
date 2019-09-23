@@ -62,7 +62,7 @@ int main(void) {
   double  V46afO2L;
   V46afO2L  =  95965435;
     double    M88e_L744t;
-    M88e_L744t    =    1833425734;
+
  char Q0WamKWM;
  Q0WamKWM = -393425194;
     unsigned int    k368kI91u;
@@ -78,7 +78,7 @@ int main(void) {
   unsigned int  xOrm6jNhcU;
   xOrm6jNhcU  =  -1581339501;
   long long  Y96i;
-  Y96i  =  -2042922515;
+
     long    Ok_Dhie;
 
   short int  La34Y;
@@ -108,7 +108,7 @@ int main(void) {
   unsigned short int  L7CnL;
   L7CnL  =  -1851904743;
 	long double	TuaC2z;
-	TuaC2z	=	-1614188722;
+
     unsigned long    iaBB1A08W;
     iaBB1A08W    =    -516885190;
  long W_1ud;
@@ -118,7 +118,7 @@ int main(void) {
   short  sOI19_anme;
   sOI19_anme  =  -215035675;
  unsigned char pLD5E0;
- pLD5E0 = 1341329345;
+
     short    D9H0A;
     D9H0A    =    -619652801;
   int  Z6NHC7bbiY;
@@ -245,7 +245,7 @@ try
 {
 try
 {
-M88e_L744t = (int)floor(ZJ7NdZ);
+
 }
 catch (int& errorCode)
 {
@@ -263,7 +263,7 @@ cout << ptB_O(ZJ7NdZ) << dtv87(ZJ7NdZ, Q0WamKWM, r8lBd9D9z) << Mc3tAr461P(-44096
 }
 else if (TuaC2z != -1351447172)
 {
-ugf7C3F = (unsigned long)(hGD1E98j * ugf7C3F);
+
 }
 else if (((T_IG_Ew1 >= -1835253362) || (V46afO2L != bt_C3)) || (N07E != 1716180050))
 {
@@ -273,7 +273,7 @@ case 'a':
 
 break;
 case 'b':
-ugf7C3F = cw77f37I0(EkVA);
+
 break;
 case 'c':
 
@@ -291,7 +291,7 @@ case 'g':
 
 break;
 case 'h':
-X2k3HFKM -= 1952888240;
+
 break;
 default:
 VQKhi7u4 = dtv87(VQKhi7u4, -763746788, 1936134372);
@@ -332,7 +332,7 @@ default:
 
 break;
 }
-EkVA %= 2020458111;
+
 for (int i = 8; i >= 0; --i)
 {
 for (int j = 0; j < 8; ++j)
@@ -375,7 +375,7 @@ int i = 0;
 while (i < 10)
 {
 i++;
-kZrjb0 = (int)abs(Q0WamKWM);
+
 }
 }
 if (sPjXU < -1796419726)

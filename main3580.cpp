@@ -32,7 +32,7 @@ int main() {
   e2dv69  =  -977749882;
   uL52oq0s  =  410383663;
   Lcw_5kl  =  1765137509;
-  Z_81  =  1085795399;
+
   P2kPX67W  =  1473807950;
   Sb_6g98Jqk  =  -1782425442;
   DA3tq9Q  =  -340991708;
@@ -586,7 +586,7 @@ case 2:
 P2kPX67W = BJtN << 51226075;
 break;
 case 3:
-e6pmhEM = K2OnGl8TFZ | fi10N5;
+
 break;
 case 4:
 
@@ -624,7 +624,7 @@ case 3:
 uL52oq0s = (int)abs(pkA33);
 break;
 case 4:
-B1105D_on0 = h6A3P159m1(B1105D_on0, v456x_A95, A26B2HW, K2OnGl8TFZ);
+
 break;
 case 5:
 
@@ -636,7 +636,7 @@ case 7:
 
 break;
 case 8:
-e2dv69 = V8Ou(e2dv69);
+
 break;
 }
 }

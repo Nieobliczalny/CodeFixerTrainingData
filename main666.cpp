@@ -236,7 +236,7 @@ case 'a':
 
 break;
 case 'b':
-bu0H31S6 = (int)ceil(Bd3Jy);
+
 break;
 case 'c':
 bu0H31S6 = (int)floor(Bd3Jy);

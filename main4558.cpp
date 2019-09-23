@@ -452,7 +452,7 @@ VM4b9_pKk3 = Lc9r5_5();
 }
 else
 {
-NAMSLEqH = (short)(OsNRR);
+
 }
 switch (kZT77ZU_3)
 {
@@ -526,7 +526,7 @@ case 'c':
 N2aXI5K--;
 break;
 case 'd':
-KqGyy4l7 = (int)abs(kZ620V4C_) + (-2125083560);
+
 break;
 case 'e':
 

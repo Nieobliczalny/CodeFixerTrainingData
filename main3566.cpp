@@ -463,7 +463,7 @@ switch (hp95UR)
 {
 case 'a':
 case 'A':
-g6jRyWS = (int)ceil(Vl2_fm7c);
+
 break;
 case 'b':
 case 'B':
@@ -479,7 +479,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-gF3m = vMv2ykF2(gF3m, 278059431, -1625513521);
+
 break;
 case 'f':
 case 'F':
@@ -563,7 +563,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-EjWvgh03S7 %= 958729632;
+
 break;
 case 'd':
 case 'D':
@@ -587,7 +587,7 @@ case 'H':
 break;
 case 'i':
 case 'I':
-px__c7a93M = (int)abs(y06_J);
+
 break;
 default:
 

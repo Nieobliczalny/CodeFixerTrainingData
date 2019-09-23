@@ -20,7 +20,7 @@ int main(void) {
  WA633EY = -1412166717;
  jQ_4roVFr = 1136261816;
 
- g8drCqe6S = -942572887;
+
  DiQ2 = 1648932409;
  WORSbpS4k = 516498837;
  wv40FsH3 = 330893732;
@@ -279,7 +279,7 @@ case 5:
 koYecHe = T6_S_M__(rPt9o7M, -707595367, -385428318);
 break;
 default:
-sHRFFoUR = QoCTL();
+
 break;
 }
 }
@@ -311,7 +311,7 @@ case 'g':
 
 break;
 case 'h':
-hW138 = QoCTL();
+
 break;
 case 'i':
 Hx9boHr_tW = g8drCqe6S & 745469532;

@@ -224,7 +224,7 @@ case 'a':
 
 break;
 case 'b':
-EQHA33 = g0y6ABUlw * 1037102179;
+
 break;
 case 'c':
 
@@ -236,7 +236,7 @@ case 'e':
 
 break;
 case 'f':
-iSFG5H = aStv8_ * p1mY1;
+
 break;
 case 'g':
 

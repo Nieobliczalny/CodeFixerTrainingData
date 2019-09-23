@@ -88,7 +88,7 @@ int main(int argc, char** argv) {
     unsigned short int    Etg_Yc5_;
     Etg_Yc5_    =    -888682798;
     long double    FTs4F2;
-    FTs4F2    =    959084611;
+
 	short int	cJ5YCo1G;
 	cJ5YCo1G	=	-1576907028;
     int    B3P2;
@@ -150,7 +150,7 @@ int main(int argc, char** argv) {
  double L38Mc;
  L38Mc = 632167260;
     unsigned long long    avv4__uv7;
-    avv4__uv7    =    0;
+
  unsigned short UldQURd;
  UldQURd = 0;
     long    SKg4;
@@ -246,7 +246,7 @@ g10c5 = (int)floor(yYyug2J0e4);
 break;
 case 'g':
 case 'G':
-xT6c8O5Xn = OdR_aI7wrd(xT6c8O5Xn, FSQ6O8C35, cJ5YCo1G, 1948396712);
+
 break;
 default:
 
@@ -258,7 +258,7 @@ try
 {
 try
 {
-EbS9 += 1345486220;
+
 }
 catch (int& errorCode)
 {
@@ -369,7 +369,7 @@ if ((h_AW8m2V < Etg_Yc5_) && (iM21h <= 1014387898))
 {
 try
 {
-FTs4F2 = (int)ceil(g10c5);
+
 }
 catch (int& errorCode)
 {
@@ -429,7 +429,7 @@ case 5:
 ASfR = (int)ceil(iM21h);
 break;
 default:
-h_AW8m2V = VsDEkRWd(W_q3);
+
 break;
 }
 try
@@ -464,7 +464,7 @@ else if (cJ5YCo1G == -1827176172)
 }
 else
 {
-B_R1 = (int)abs(Ct1yEW);
+
 }
 }
 else if (NEaP3_G >= ASfR)

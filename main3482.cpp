@@ -382,7 +382,7 @@ case 'f':
 hg5YQG = (int)abs(HCr7F);
 break;
 case 'g':
-q5_IO_ = (int)abs(i3t9);
+
 break;
 case 'h':
 B0Z8V = Yh5jJfDWc_ & a3w5d2C1ZJ;
@@ -466,7 +466,7 @@ while (i < 9);
 }
 for (int i = 0; i < 4; i++)
 {
-q5_IO_ = (short)(ByL9VLaIz + (1153007751));
+
 }
 switch (gAjRN)
 {
@@ -650,7 +650,7 @@ while (i < 10);
 
 std::cout << "HsPPnx9" << lWa9 << std::endl;
 
-Yh5jJfDWc_ >>= GsOnJ9t3U;
+
 switch (F5nb)
 {
 case 'a':
@@ -692,7 +692,7 @@ else if ((k802X6s) && ((VAlJUMBbU >= xxDn1p4) && (Uzw_QD_9)))
 }
 else if (Uzw_QD_9 == px_hv)
 {
-waNZcd6_ <<= 1405776410;
+
 }
 else if (E5VD6e3A <= e0AO)
 {

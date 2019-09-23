@@ -87,7 +87,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-Vn9o3hCE3U = (int)abs(LX170);
+
 break;
 case 'c':
 case 'C':
@@ -113,7 +113,7 @@ case 'b':
 
 break;
 case 'c':
-O73YPz = t8D_9i7(967549500, 205113115, O8j24J);
+
 break;
 default:
 BOuAw3_d *= 1977038946;
@@ -192,7 +192,7 @@ if (Z07qIR > -417273913)
 }
 else if (H796zKa3)
 {
-sLO38 = (long double)(t20x3w2k);
+
 }
 else if (wV0_ >= xcQ8_j2s3)
 {
@@ -236,7 +236,7 @@ break;
 
 if (Qji2A >= arI_)
 {
-Vn9o3hCE3U = (long double)(sht1);
+
 }
 
 {
@@ -256,7 +256,7 @@ int i = 4;
 while (i >= 0)
 {
 --i;
-Go1dpi = (long double)(B4cWl1U);
+
 }
 }
 for (int i = 10; i >= 0; --i)

@@ -141,7 +141,7 @@ case 'e':
 
 break;
 case 'f':
-rRov = (int)floor(L8aG);
+
 break;
 case 'g':
 dazV27 = frna / 1854881983;
@@ -153,7 +153,7 @@ case 'i':
 MXrMzRrfn2 = (int)floor(o_A8_L3);
 break;
 case 'j':
-kW_498 = (int)abs(L8aG);
+
 break;
 }
 }
@@ -167,7 +167,7 @@ o_A8_L3 = dU2A270D7O(513669387);
 }
 }
 }
-rRov = (int)floor(l6oEv);
+
 {
 int i = 8;
 while (i >= 0)
@@ -227,7 +227,7 @@ else
 
 }
 
-Gyn20CSQ = dU2A270D7O(-694700801);
+
 V4816Z *= 2101802480;
 
 try
@@ -273,7 +273,7 @@ int i = 9;
 while (i >= 0)
 {
 i--;
-Gyn20CSQ = (int)abs(EK8a9SW);
+
 }
 }
 

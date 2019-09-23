@@ -424,7 +424,7 @@ case 6:
 n7_mrv1E -= QfOSGx;
 break;
 case 7:
-j_8BW8clH0 = (wwwq7z >= 1244293706) ? t1ti1B : jlTh_de48y;
+
 break;
 case 8:
 EFwjAH = eK0_4Jr ^ J7GGc3U7yT;
@@ -482,7 +482,7 @@ case 5:
 
 break;
 case 6:
-E4bu = (int)abs(TPoI_s70M);
+
 break;
 case 7:
 B99Oo8eMa = DgR1dR_c_n(-2098726349, -311485695, IVzKrJix) | 1647886812;

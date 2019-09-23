@@ -131,7 +131,7 @@ case 'b':
 
 break;
 case 'c':
-wq2R_6TT = jTkY87 >> M333W7x;
+
 break;
 case 'd':
 GQExTo4--;
@@ -152,7 +152,7 @@ case 'i':
 
 break;
 case 'j':
-bjdgKg_W %= 2091286157;
+
 break;
 }
 }

@@ -37,7 +37,7 @@ int main(int argc, char** argv)
   z_D75Fq  =  -381642593;
   FljYCMT6r2  =  -857091110;
   kBOhZ_9oru  =  -614040856;
-  JR1h  =  -1024211958;
+
   TX4u  =  -1059386877;
 
   o6roCn29  =  -1918556799;
@@ -79,7 +79,7 @@ int main(int argc, char** argv)
   iy_WybE3  =  -2100152492;
   fDAF  =  737374502;
   oikWUT  =  274415333;
-  yM8L3D  =  1852898695;
+
   o3pI47  =  1494882934;
   nKeP  =  1073646005;
   V262UQg0  =  1970049655;
@@ -375,7 +375,7 @@ case 'G':
 
 break;
 default:
-yM8L3D = z_D75Fq & c2qp_IokE5;
+
 break;
 }
 }

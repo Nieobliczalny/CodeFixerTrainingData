@@ -49,7 +49,7 @@ int main(int argc, char** argv) {
 
  Vz0T_xjWOQ = 864855340;
 
-P_s_Q7 = (unsigned char)(R8f9Dx8l + (-1021681883));
+
 
 {
 int i = 2;
@@ -335,7 +335,7 @@ break;
 }
 
 d1F5 = (long)(DN4_v * d1F5);
-oaIEq = y5Z1m54(oaIEq);
+
 Pq6c = L1pa7l7 / d1F5;
 
 

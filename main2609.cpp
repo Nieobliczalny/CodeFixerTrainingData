@@ -44,7 +44,7 @@ int main()
  unsigned int FlzA4q_3;
  FlzA4q_3 = -1463751415;
  float DF_ENR_h9;
- DF_ENR_h9 = -2029150046;
+
     unsigned long    RmpqkX4VVh;
     RmpqkX4VVh    =    -1472567168;
   long long  dn_z5VE;
@@ -88,7 +88,7 @@ int main()
 	unsigned short	DYe0S9mL;
 
 	char	Tfsb2;
-	Tfsb2	=	-224425669;
+
     unsigned int    W0_6HIa4;
     W0_6HIa4    =    669851710;
   long long  JvKCja;
@@ -106,7 +106,7 @@ int main()
 	float	nP8xkUR;
 	nP8xkUR	=	1318698531;
  short kgwfD0;
- kgwfD0 = -1110945463;
+
     long    Bs4_Mb8S;
     Bs4_Mb8S    =    -658791579;
     int    Cs0zmm_GPp;
@@ -118,7 +118,7 @@ int main()
  double g5Nc31_n23;
  g5Nc31_n23 = 985906355;
  long q4MeW8v;
- q4MeW8v = -1733240713;
+
 	double	j_fmsJhcgv;
 
  long double C7bq_Un;
@@ -128,7 +128,7 @@ int main()
   unsigned long  uQy4YV_PLt;
   uQy4YV_PLt  =  2049675113;
     unsigned int    DB9u_eu;
-    DB9u_eu    =    -237075936;
+
     unsigned short    rYFP9D;
     rYFP9D    =    0;
   long double  VWysEU_bF;
@@ -148,7 +148,7 @@ int main()
  long G3U76;
 
     long    io0d1f5F;
-    io0d1f5F    =    -571433026;
+
  unsigned short wZM8H;
 
  unsigned short int qG__Wo;
@@ -207,7 +207,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-DF_ENR_h9 = CZDe3u_I5F(1667663239, Js2kv11);
+
 break;
 case 'f':
 case 'F':
@@ -240,7 +240,7 @@ rYFP9D = Q1nTwk();
 }
 else
 {
-DF_ENR_h9 = (int)ceil(zFxNFA8B80);
+
 }
 
 switch (YTZiHKRZ)
@@ -282,7 +282,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-l970S2 = a_41 * Js2kv11;
+
 break;
 case 'f':
 case 'F':
@@ -299,7 +299,7 @@ break;
 }
 else if (Bs4_Mb8S & QNZF7197y)
 {
-NP0oE = (double)(nlsQ + (-161950310));
+
 }
 else if (a1zlv5QFkK >= 1502237855)
 {
@@ -341,7 +341,7 @@ for (int j = 9; j >= 0; --j)
 {
 for (int k = 0; k < 5; ++k)
 {
-Vn1C9 = (int)abs(AFn7);
+
 }
 }
 }
@@ -362,7 +362,7 @@ case 'd':
 
 break;
 case 'e':
-j_fmsJhcgv = (int)ceil(w1xQTP);
+
 break;
 case 'f':
 G3U76 = (int)abs(dn_z5VE);
@@ -377,7 +377,7 @@ case 'i':
 
 break;
 default:
-Cs0zmm_GPp = (int)abs(kgwfD0);
+
 break;
 }
 }
@@ -460,7 +460,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-CYyKfLy = (int)floor(C7bq_Un);
+
 break;
 case 'g':
 case 'G':

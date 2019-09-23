@@ -62,7 +62,7 @@ while (i >= 0);
 switch (LPluoG)
 {
 case 0:
-Adr1 = EcaT8ITJK7 ^ i33G;
+
 break;
 }
 
@@ -138,7 +138,7 @@ else if (rzI90_O <= -1533568059)
 }
 else
 {
-ujRtgBCeyv = jEiHyJRF | QMf8Ek;
+
 }
 }
 else
@@ -160,7 +160,7 @@ case 'b':
 
 break;
 case 'c':
-LPluoG -= 600532180;
+
 break;
 case 'd':
 TV1u5D91++;
@@ -279,7 +279,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-VkZ5kF9rpx = FFjP | s2f4jz_4S;
+
 break;
 case 'g':
 case 'G':
@@ -291,7 +291,7 @@ case 'H':
 break;
 case 'i':
 case 'I':
-QMf8Ek %= 728523214;
+
 break;
 case 'j':
 case 'J':

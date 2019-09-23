@@ -95,7 +95,7 @@ while (i >= 0);
 }
 q6Rlu49D = y3YJ(iZVVst);
 
-QD4O4Pv5_ = (int)floor(GeG1l5T83);
+
 
 for (int i = 8; i >= 0; --i)
 {
@@ -125,7 +125,7 @@ case 2:
 
 break;
 case 3:
-H0upm2 ^= 1132456756;
+
 break;
 case 4:
 q6Rlu49D = y3YJ(1410796974);

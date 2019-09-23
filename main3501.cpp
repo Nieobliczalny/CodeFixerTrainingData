@@ -157,7 +157,7 @@ case 5:
 
 break;
 }
-VaviX0 = (float)(cd44_F3uoD);
+
 {
 int i = 0;
 do
@@ -296,7 +296,7 @@ QETw = R76xKNrvr(c95rU810, Hs_Sj, AH5Gm8X);
 }
 }
 }
-Y91SgN0 = jiwr__ % BJ44;
+
 if (V65rp96cO >= -439934644)
 {
 

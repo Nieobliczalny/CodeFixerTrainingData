@@ -319,7 +319,7 @@ case 'b':
 
 break;
 case 'c':
-FyrQ2 = (aJI967 > -2090613442) ? kFng3j : sWPgJA;
+
 break;
 case 'd':
 aP9A = eE542q9__N * 121809560;
@@ -333,7 +333,7 @@ break;
 }
 }
 
-d_103ySK = (long double)(YI_CaRp);
+
 return 0;
 }
 

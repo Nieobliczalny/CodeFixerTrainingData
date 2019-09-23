@@ -323,7 +323,7 @@ case 'f':
 
 break;
 case 'g':
-G76L <<= Xn2u1_w0ZB;
+
 break;
 case 'h':
 VyIL = FaJb(1451867891, 534331312, L9oNDvq24t);

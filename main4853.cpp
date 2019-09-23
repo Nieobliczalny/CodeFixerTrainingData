@@ -25,7 +25,7 @@ int main(int argc, char** argv)
     unsigned int    dpkmgHdJ;
 
   char  U0O7;
-  U0O7  =  1691418300;
+
     int    D4VP;
     D4VP    =    -1212472284;
 	unsigned long	dO77R70K_6;
@@ -35,7 +35,7 @@ int main(int argc, char** argv)
  float U91z53G_if;
 
     char    M6lpMLcK;
-    M6lpMLcK    =    1819258157;
+
     short    k2zYRn16;
     k2zYRn16    =    1426746572;
     unsigned short    D2Wn;
@@ -47,7 +47,7 @@ int main(int argc, char** argv)
  unsigned long long mTl7B;
 
  short int vzU4J2;
- vzU4J2 = 186604247;
+
  unsigned int r41q9z8y;
  r41q9z8y = -182486968;
  short int lTfICffiS;
@@ -59,7 +59,7 @@ int main(int argc, char** argv)
   long double  y6F492K687;
   y6F492K687  =  -995755034;
   unsigned short  T54z8Bh_2v;
-  T54z8Bh_2v  =  386889616;
+
   unsigned long long  dy9WC6PI0;
 
  long double M0J56g3el;
@@ -69,7 +69,7 @@ int main(int argc, char** argv)
  unsigned short m_1IDDi8O;
  m_1IDDi8O = -1491987502;
   char  S8D64;
-  S8D64  =  309206157;
+
     unsigned long    jiQf7tg_l;
 
   short int  WMawcmM;
@@ -79,7 +79,7 @@ int main(int argc, char** argv)
 	long double	R5pV8J;
 	R5pV8J	=	1134268272;
   long double  xnutcj6JZ;
-  xnutcj6JZ  =  -1236455450;
+
  unsigned long long H9_rFviF9H;
 
 	unsigned short int	Dk9g;
@@ -89,7 +89,7 @@ int main(int argc, char** argv)
   short int  jNcKh8;
   jNcKh8  =  -1467759225;
   int  N9F_n8GF;
-  N9F_n8GF  =  373909784;
+
 	long long	b245MPp;
 
 	short int	mtjjIg;
@@ -99,7 +99,7 @@ int main(int argc, char** argv)
  unsigned short zVU4xrT0n;
 
  double Zhqq19;
- Zhqq19 = -1927291473;
+
 	unsigned char	mtppq;
 
  unsigned long long h84_KWhZm;
@@ -117,7 +117,7 @@ int main(int argc, char** argv)
 	unsigned int	RDe1Wn;
 	RDe1Wn	=	-471650484;
     int    s2_Ed41;
-    s2_Ed41    =    689774790;
+
 	short	U4Eaa88J;
 	U4Eaa88J	=	-2126943841;
   unsigned long  rtZ10Edi;
@@ -127,7 +127,7 @@ int main(int argc, char** argv)
   unsigned int  pYc6r;
   pYc6r  =  5339223;
 	unsigned char	fbJc4;
-	fbJc4	=	322432873;
+
     unsigned long    J6661L;
     J6661L    =    1167320094;
   unsigned char  Rya_pdW;
@@ -139,7 +139,7 @@ int main(int argc, char** argv)
     unsigned short    cAE59Ev;
     cAE59Ev    =    1085046834;
     unsigned char    Ao6tQ_;
-    Ao6tQ_    =    1049944654;
+
   short  l9RTJ2FhBd;
 
   float  a8MC9T_io;
@@ -149,7 +149,7 @@ int main(int argc, char** argv)
 	short	ORUc;
 	ORUc	=	61907049;
  double QP7smFQ;
- QP7smFQ = -1036265047;
+
     short int    Hk4l7;
 
  long long vD6Sgln2;
@@ -159,7 +159,7 @@ int main(int argc, char** argv)
  unsigned short Y4QcYl24;
  Y4QcYl24 = -708547926;
     short    tlCj9S5B;
-    tlCj9S5B    =    -1004921082;
+
     unsigned int    XRJ66;
 
   double  t50T4zyo;
@@ -169,7 +169,7 @@ int main(int argc, char** argv)
 	long long	Qysk_;
 	Qysk_	=	870223925;
   unsigned long long  V4rY;
-  V4rY  =  -1238682203;
+
  unsigned long long CD5Z;
  CD5Z = 195700467;
     float    E29G2;
@@ -179,7 +179,7 @@ int main(int argc, char** argv)
   long double  UIY92tHv9;
   UIY92tHv9  =  -949891460;
     unsigned short    PJ_PA71A;
-    PJ_PA71A    =    -1050612955;
+
     float    SfdICFJ_;
     SfdICFJ_    =    -1912875974;
 	long long	p1QB;
@@ -189,7 +189,7 @@ int main(int argc, char** argv)
  unsigned short Z9m_IGBF;
  Z9m_IGBF = 1636791606;
     unsigned short int    taPFW2Dmw;
-    taPFW2Dmw    =    19585251;
+
     unsigned char    Q_61;
     Q_61    =    1443351080;
 	unsigned long	bmRyna63XO;
@@ -199,7 +199,7 @@ int main(int argc, char** argv)
 	long double	ZB1QQu;
 	ZB1QQu	=	706361272;
   long  yz609sJ;
-  yz609sJ  =  -1081278695;
+
  unsigned short bNGP2X1U9;
  bNGP2X1U9 = 1211997317;
 	char	N6l746mq;
@@ -209,7 +209,7 @@ int main(int argc, char** argv)
  unsigned short int M_PD14;
 
 	short int	SBiciJ;
-	SBiciJ	=	-500649621;
+
 
 Tr014U8 = (int)floor(M0J56g3el);
 if ((dRZGqi2d6 < -966234769) || ((Rbhz1 <= y6F492K687) || (D4VP >= h84_KWhZm)))
@@ -227,7 +227,7 @@ case 'b':
 
 break;
 case 'c':
-cAE59Ev *= 1000766290;
+
 break;
 default:
 QP7smFQ = HQ75Q3(-214535621);
@@ -252,7 +252,7 @@ case 1:
 
 break;
 case 2:
-F4Jb13Bw5H = (int)abs(N6l746mq);
+
 break;
 default:
 Do4TFDo0I = (int)abs(ov4qK5fM_9);

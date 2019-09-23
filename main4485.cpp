@@ -251,7 +251,7 @@ fBBI = z8h74Om9Eg(fBBI, ATEC, -1371353823, Jd6A8MNUD, GcV9nHUVh);
 }
 else if (Bg_2 == 153721240)
 {
-XKVBAP = (int)abs(Knf86f_N1);
+
 }
 else
 {
@@ -376,7 +376,7 @@ for (int i = 3; i >= 0; i--)
 }
 
 
-UA5p = R7WsK(-185314800, fLdu, 1935297560) >> 568881304;
+
 for (int i = 5; i >= 0; i--)
 {
 {

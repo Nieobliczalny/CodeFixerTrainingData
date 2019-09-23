@@ -537,7 +537,7 @@ case 4:
 
 break;
 case 5:
-A1162 = VFJ2aF1b();
+
 break;
 case 6:
 k10C0cU = (int)abs(o3E7co96Wb) + (1358910565);

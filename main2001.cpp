@@ -73,7 +73,7 @@ mq2su8R = HukqweQg4s ^ 1966145464;
 }
 }
 }
-Ya7c = (unsigned short)(PzMl + (-451791633));
+
 cout << "qG9Vwu_t" << "MXW_o244" << endl;
 
 NDG8W4 = bdko0rVl0_(HukqweQg4s, NDG8W4);
@@ -85,7 +85,7 @@ for (int i = 0; i < 3; ++i)
 int j = 8;
 do
 {
-Ya7c = (unsigned short)(PzMl + (dh50UbZ440));
+
 --j;
 }
 while (j >= 0);

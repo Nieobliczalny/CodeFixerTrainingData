@@ -202,7 +202,7 @@ case 2:
 ztQYmv3_G = (int)floor(eps9i);
 break;
 default:
-zNGLHF >>= 2118375159;
+
 break;
 }
 return 0;

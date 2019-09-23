@@ -207,7 +207,7 @@ case 'c':
 
 break;
 case 'd':
-w_4G = (int)floor(CA18WX26);
+
 break;
 case 'e':
 

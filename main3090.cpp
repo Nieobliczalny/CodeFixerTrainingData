@@ -93,7 +93,7 @@ int main()
  long G733w;
  G733w = 795758469;
     unsigned int    BI78KxKuL;
-    BI78KxKuL    =    1751362538;
+
  unsigned short c_6_1z3;
  c_6_1z3 = -1506845828;
   unsigned char  LY47tdn1;

@@ -195,7 +195,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-xoLojBs67 = (int)abs(QxQ6xj);
+
 break;
 case 'd':
 case 'D':
@@ -207,7 +207,7 @@ Sq386NT = OH86UGC(418530526, QxQ6xj);
 break;
 case 'f':
 case 'F':
-Lg8d4Z69V = xoLojBs67 / Lg8d4Z69V;
+
 break;
 case 'g':
 case 'G':

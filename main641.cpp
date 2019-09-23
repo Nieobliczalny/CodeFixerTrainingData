@@ -18,7 +18,7 @@ int main(int argc, char** argv) {
  unsigned short PQ_a;
 
 	unsigned int	q_nrJO;
-	q_nrJO	=	-1630330593;
+
  short ToYTOH;
  ToYTOH = 1786965200;
 	short int	uP100G1;
@@ -78,7 +78,7 @@ int main(int argc, char** argv) {
 	unsigned short	ni82;
 
  long long kMk_;
- kMk_ = 1269894274;
+
 
 L65v3S6S = (unsigned int)(uE30);
 Lz2kr >>= v_6v;
@@ -152,7 +152,7 @@ case 2:
 U5YB_8KI = (int)floor(f8DXcd_AY);
 break;
 case 3:
-g2zVBtUv &= uE30;
+
 break;
 case 4:
 PUomj5Ep_ &= 2005447995;

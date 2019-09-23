@@ -109,7 +109,7 @@ case 'D':
 break;
 }
 }
-M3NzFG1e_ = (unsigned char)(PozDC1a35z);
+
 {
 int i = 0;
 while (i < 2)
@@ -145,7 +145,7 @@ VLhS = (int)floor(Hu06qsoNyd);
 int i = 0;
 while (i < 10)
 {
-uXuS0 = ALGSyjPn | 1725260939;
+
 ++i;
 }
 }

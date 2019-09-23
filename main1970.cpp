@@ -23,7 +23,7 @@ case 0:
 
 break;
 default:
-k28sk_ &= up0SS0F;
+
 break;
 }
 
@@ -38,7 +38,7 @@ try
 {
 if (zeNZPYMQ == eao4sfX3)
 {
-YseurVxIe2 = GfqIZ % 1506829298;
+
 }
 else
 {
@@ -52,7 +52,7 @@ IP29s0J |= tQ65P618;
 }
 
 
-aiCLN7Xv1 = vfxxlzc6I - 1887260042;
+
 
 for (int i = 5; i >= 0; --i)
 {

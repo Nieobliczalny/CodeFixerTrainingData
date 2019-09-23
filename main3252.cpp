@@ -120,7 +120,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-K6hi7t = XDz4hbJ3B / I4gK_Tt;
+
 break;
 case 'c':
 case 'C':
@@ -131,7 +131,7 @@ case 'D':
 
 break;
 }
-RE4TV = (int)ceil(vu_tXa);
+
 
 vx399432pA = (float)(Z2Xfh6);
 

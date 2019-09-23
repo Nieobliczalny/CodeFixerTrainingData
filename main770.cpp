@@ -17,7 +17,7 @@ using std::floor;
 int main(void)
 {
  int kZgB249;
- kZgB249 = 2118326907;
+
     unsigned char    st72;
 
     char    Zj2D;
@@ -45,7 +45,7 @@ int main(void)
   unsigned char  nOw9ZG53L;
   nOw9ZG53L  =  2116595008;
  long long y6Yvv;
- y6Yvv = -1824181518;
+
  unsigned long wzrNwcG;
 
   long long  PUG7;
@@ -69,7 +69,7 @@ int main(void)
     int    xRw_HH5;
     xRw_HH5    =    1158023410;
 	char	fp_dcm;
-	fp_dcm	=	-712039596;
+
   short  Crnxt0Q922;
 
 	char	m8_Hxts;
@@ -99,7 +99,7 @@ int main(void)
 	char	OO6qx9M;
 
 
-S0257k61 = enD2u1Y_8 | 1214865049;
+
 if (Z_S5Kb3O)
 {
 XK_8 = FWdO60EWFA >> 1928403508;
@@ -153,7 +153,7 @@ case 1:
 
 break;
 case 2:
-T5GH >>= 2083139817;
+
 break;
 case 3:
 m8_Hxts = yBOyS9r27Q / 1598092710;
@@ -178,7 +178,7 @@ if ((T1lZM1 <= enD2u1Y_8) || (gONxIYUc <= GTlH5xM))
 {
 if ((qm8zYo_ <= 1305924675) || ((FurRM0I <= g48qX6v9) || (wzrNwcG > w6mN5Y1)))
 {
-XF_I70dj = (int)ceil(FurRM0I);
+
 }
 }
 

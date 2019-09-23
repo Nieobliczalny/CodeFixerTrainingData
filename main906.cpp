@@ -339,7 +339,7 @@ case 'b':
 
 break;
 case 'c':
-JxufBo ^= hqh6TI2q4;
+
 break;
 case 'd':
 d8n4 = LWoKMX - 1484710493;
@@ -354,7 +354,7 @@ case 'g':
 
 break;
 case 'h':
-d8n4 %= 1738818818;
+
 break;
 case 'i':
 xNtu = (int)abs(O4347eA);
@@ -372,7 +372,7 @@ break;
 
 try
 {
-andd = t7lI9h9C - Bq40Kq;
+
 }
 catch (int& errorCode)
 {

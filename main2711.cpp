@@ -350,7 +350,7 @@ if ((la0u7LTe65 != F633h30Cq) || (i6De1 & -2085617663))
 switch (c6X_0FP)
 {
 case 'a':
-y2ri2RtLL7 = Pd7NL + y2ri2RtLL7;
+
 break;
 case 'b':
 hrd3WtF477 = (int)floor(pV10O5_5);
@@ -464,7 +464,7 @@ if (tj7fC <= 1950858636)
 switch (i6De1)
 {
 case 0:
-y2ri2RtLL7 = (int)floor(Jr56jS0);
+
 break;
 }
 }
@@ -498,7 +498,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-F633h30Cq = Pd7NL - X2F2;
+
 break;
 default:
 
@@ -606,7 +606,7 @@ while (i < 9);
 }
 
 
-vxXJDP = (double)(IUCF7CoJn);
+
 
 return 0;
 }

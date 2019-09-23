@@ -55,7 +55,7 @@ int main()
   unsigned char  q00N;
 
   unsigned int  A1x9CWf_R8;
-  A1x9CWf_R8  =  0;
+
  unsigned int txxgeLDvT;
  txxgeLDvT = -965593073;
 	short int	v5Dne;
@@ -77,7 +77,7 @@ int main()
     short int    l4018n7pn_;
 
   char  Q93cwrq;
-  Q93cwrq  =  361294398;
+
  float uiFm66lEgH;
  uiFm66lEgH = -1547142914;
 	short	m87_ANFFj0;
@@ -276,7 +276,7 @@ std::cout << "zxb1" << "IlB97RmUP" << std::endl;
 
 s4XLoG1 = (long long)(a9aW);
 
-enpO31_30 = xVS6Nie8MQ(705376853, 988586219);
+
 
 if ((tzwX6sa0H5 < eNQw) || (a8OR_90G & -1379135139))
 {
@@ -326,7 +326,7 @@ case 2:
 
 break;
 case 3:
-t8323gG_L = (int)ceil(priz);
+
 break;
 case 4:
 g0ih >>= E1Gy;

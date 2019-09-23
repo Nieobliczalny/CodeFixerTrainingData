@@ -36,7 +36,7 @@ int main() {
 	H3UV	=	0;
     double    h39AVGg6,    DDIn3T7f1,    v4_5Y,    z3dO_,    O2fT,    K0Ee,    F2k1A1_,    A3Bu_y,    vKy3efB,    KkslUtd9,    jg0Q1mBC_,    fEo6V6,    B009P9T,    gtwTl,    jRhvJ,    Qmhb,    x2FMRjfG0,    c07g,    M2hHkSvso,    O_17Y,    b4k0,    UBM_,    fvcZ2ocq,    t_eJ,    n9pweo12W5,    k5fnv,    U8ICK7,    I9e7,    j01CfJ,    enBweB2u,    V6d_lmnd8,    sCF7x,    s00F9,    o7zl_yO,    uV4_8aK7BF,    eWaMvJoU_p,    vESxR,    Vr7KJ699,    x4YZh_R,    O7_45I4Bmi,    Zs35w3pE,    CKamMubt,    bq36wm99,    r3GZbL,    xbiJzWv,    AY_qvCC1,    F8051tWZ9b,    oxSPM,    t_74F,    y4IOM68Z9p,    toou9efk,    hiJCgL6,    EOJlT,    bu53Vk,    pytO,    h43278,    bJ9R9b_6,    UNgagyHs2,    nb0_Sv,    RnAJA27vfo,    szX6yhV,    q3VEdT;
 
-    DDIn3T7f1    =    2019090594;
+
     v4_5Y    =    -995532244;
     z3dO_    =    -175517601;
     O2fT    =    -926402546;
@@ -48,7 +48,7 @@ int main() {
     jg0Q1mBC_    =    -701083002;
     fEo6V6    =    -800028520;
 
-    gtwTl    =    1318196566;
+
     jRhvJ    =    1097965229;
     Qmhb    =    -908359249;
     x2FMRjfG0    =    154330968;
@@ -59,7 +59,7 @@ int main() {
     UBM_    =    -1033169233;
     fvcZ2ocq    =    -1079835138;
 
-    n9pweo12W5    =    515488026;
+
     k5fnv    =    -1048935461;
     U8ICK7    =    162640708;
 
@@ -70,7 +70,7 @@ int main() {
     s00F9    =    -2108822112;
 
     uV4_8aK7BF    =    -1970324789;
-    eWaMvJoU_p    =    -1175315323;
+
     vESxR    =    452546094;
     Vr7KJ699    =    -1182759827;
 
@@ -82,7 +82,7 @@ int main() {
     xbiJzWv    =    404644749;
 
     F8051tWZ9b    =    1592680020;
-    oxSPM    =    1801842494;
+
     t_74F    =    997531241;
 
     toou9efk    =    -373519138;
@@ -92,7 +92,7 @@ int main() {
     pytO    =    -354057870;
 
     bJ9R9b_6    =    1308957645;
-    UNgagyHs2    =    -900960987;
+
     nb0_Sv    =    232091528;
 
     szX6yhV    =    -393680179;
@@ -138,7 +138,7 @@ else if (vKy3efB < -1542145450)
 }
 else if (fEo6V6 >= -1393980204)
 {
-O7_45I4Bmi = Jz0yH7(U8ICK7) % 1614693648;
+
 }
 else if ((bq36wm99) || ((r3GZbL < -721608769) || (r3GZbL < -619057701)))
 {
@@ -165,7 +165,7 @@ std::cout << r3GZbL << jg0Q1mBC_ << std::endl;
 switch (Vv2Qb)
 {
 case 0:
-CKamMubt = jRhvJ - 2074952562;
+
 break;
 case 1:
 
@@ -177,7 +177,7 @@ case 3:
 enBweB2u = Jz0yH7(enBweB2u);
 break;
 case 4:
-AY_qvCC1 = Z84H(2125709605, -1434115627);
+
 break;
 case 5:
 

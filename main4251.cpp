@@ -203,7 +203,7 @@ case 2:
 tgxd >>= 2117600190;
 break;
 case 3:
-SG0Ke = b3F7Af52 << J1_T;
+
 break;
 case 4:
 pbBa2Efe = rvZY(860118785);
@@ -222,7 +222,7 @@ HDtDu66T *= 1818305163;
 }
 }
 Gtn2 = rvZY(Gtn2);
-K69978 <<= 1788458134;
+
 try
 {
 if (Pt7FAIR2 >= 1414309481)
@@ -248,7 +248,7 @@ do
 int k = 0;
 while (k < 6)
 {
-mX91mP = (int)floor(bP73z);
+
 ++k;
 }
 }
@@ -342,7 +342,7 @@ std::cout << WUk4HlI << std::endl;
 switch (zgAeGjOa)
 {
 case 0:
-mX91mP = (int)floor(bP73z);
+
 break;
 case 1:
 
@@ -388,7 +388,7 @@ case 'f':
 
 break;
 default:
-K4bz7q2Wmo = rvZY(HDtDu66T);
+
 break;
 }
 }
@@ -441,7 +441,7 @@ switch (vB3VnN)
 {
 case 'a':
 case 'A':
-pbBa2Efe = rvZY(-1235787122);
+
 break;
 case 'b':
 case 'B':

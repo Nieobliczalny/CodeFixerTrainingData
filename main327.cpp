@@ -183,7 +183,7 @@ case 7:
 RHrvr = fs9e12();
 break;
 case 8:
-zyTZcYn = (int)floor(wnsY_1Xm8);
+
 break;
 }
 }
@@ -220,7 +220,7 @@ catch (int& errorCode)
 C2I96s = (int)floor(u0jk);
 }
 V688_2h -= jzYjY16sR;
-n5VO = a0Y9zvx6(-1701799454, n5VO, 518952866, -536313258, -1263674716);
+
 
 if ((TDK8wl <= -833250843) || (C2I96s))
 {

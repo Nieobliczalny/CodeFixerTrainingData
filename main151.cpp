@@ -345,7 +345,7 @@ default:
 break;
 }
 
-CoS1q2A = (unsigned long long)(tnxb);
+
 
 {
 int i = 5;

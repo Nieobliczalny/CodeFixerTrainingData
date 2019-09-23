@@ -65,7 +65,7 @@ int main()
     long long    Ep6_d;
     Ep6_d    =    -1916488176;
   unsigned int  udC2Gg;
-  udC2Gg  =  -1858899437;
+
 	unsigned int	l4m__bV;
 	l4m__bV	=	-2042874603;
 	unsigned short int	O42_w6_Nm;
@@ -83,7 +83,7 @@ int main()
  short int NXA_;
  NXA_ = -2058219640;
  unsigned short mo029SS;
- mo029SS = -1082372728;
+
  long long aMD_j4n1;
  aMD_j4n1 = -164526301;
   short int  wM5T7;
@@ -458,7 +458,7 @@ case 2:
 
 break;
 case 3:
-B0f_ = hLZV9L();
+
 break;
 case 4:
 mu9yQnLg = (int)abs(pmIhk);

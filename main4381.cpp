@@ -742,7 +742,7 @@ case 'c':
 
 break;
 case 'd':
-ExRp = (int)floor(Fk2HL);
+
 break;
 }
 {
@@ -895,7 +895,7 @@ else if (XH_B)
 }
 else if (G4w_h >= Wta4pET27)
 {
-B1yzTU6t9 = MLUT5jzN5(1806981390, 1659892143, -453718979, 1155425902);
+
 }
 else
 {

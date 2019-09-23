@@ -109,7 +109,7 @@ int main(void) {
 
 J8Z7 = (double)(D2jZnl83);
 
-Rb6_70Ss49 = Wjgj_vt96(150710459, -458945540, fj6k245qF5, 887649575, s52_B0aN_K) ^ 2097564638;
+
 
 L7XiJbv = (double)(dSN1);
 
@@ -133,7 +133,7 @@ case 0:
 
 break;
 case 1:
-fuJv5R <<= 1928247390;
+
 break;
 case 2:
 
@@ -220,7 +220,7 @@ case 2:
 An1I3f3b5 = Wjgj_vt96(1693203961, 774192083, 1377277745, jbI_K1A6, -346194302);
 break;
 case 3:
-L7XiJbv = jfm6c & 1886786706;
+
 break;
 case 4:
 
@@ -232,7 +232,7 @@ case 6:
 Us2d = (int)abs(T8C_1_4oQ2);
 break;
 case 7:
-rj4Kdu9 = Wjgj_vt96(rj4Kdu9, 370949146, jui2, 65132217, 2076585155);
+
 break;
 case 8:
 
@@ -316,7 +316,7 @@ case 2:
 
 break;
 case 3:
-nUd2 = CqH9ftC | 758183708;
+
 break;
 case 4:
 Gy3TnmPz = Drj_6oNlOe(An1I3f3b5, 1341846540);

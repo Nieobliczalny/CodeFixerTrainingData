@@ -63,7 +63,7 @@ int main(void) {
   w1gnzNC  =  -108858456;
   qA_7  =  -917698249;
 
-  pik16PN4IT  =  1770171106;
+
   pkY_5  =  1334294996;
   ltOg_g  =  29376191;
   KYBH_AN1X  =  1472702800;
@@ -115,7 +115,7 @@ if ((URf04hnuC4 >= dH1W) || (r7ZAif4T))
 {
 try
 {
-pik16PN4IT = (int)ceil(LgSc2);
+
 }
 catch (int& errorCode)
 {
@@ -381,7 +381,7 @@ while (i < 8);
 }
 cout << qT3P0f7V7(107458667, Ii590VNf_, B40hy) << endl;
 
-Ii590VNf_ = (int)ceil(kF_ub30);
+
 {
 int i = 0;
 while (i < 10)

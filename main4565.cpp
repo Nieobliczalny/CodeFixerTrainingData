@@ -125,7 +125,7 @@ case 0:
 
 break;
 case 1:
-ttvW52W2z = (int)abs(hJfbqm0y);
+
 break;
 case 2:
 
@@ -137,7 +137,7 @@ case 4:
 
 break;
 case 5:
-UX26z3_ = HAeIM7SMj(889284664, 1914855570);
+
 break;
 case 6:
 

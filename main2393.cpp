@@ -37,7 +37,7 @@ int main(int argc, char** argv)
   unsigned char  U6be;
 
   unsigned short int  z6p40i;
-  z6p40i  =  264423017;
+
   int  to0sjfb6ED;
   to0sjfb6ED  =  -1168887481;
     unsigned long    KkS540ohHB;
@@ -75,7 +75,7 @@ int main(int argc, char** argv)
  unsigned int BSQM;
  BSQM = 1003789794;
  char ck9k;
- ck9k = 0;
+
     short    G8w7C18;
     G8w7C18    =    -1063795333;
 	double	xR608nb;
@@ -91,7 +91,7 @@ int main(int argc, char** argv)
   int  M0I5e07tr;
   M0I5e07tr  =  2113650338;
 	double	IQwCa;
-	IQwCa	=	217991929;
+
   unsigned short int  AB4498__r;
   AB4498__r  =  -1757484539;
 	unsigned short int	CLw4ZHG81;
@@ -139,7 +139,7 @@ int main(int argc, char** argv)
 	long	MsWM4hQ;
 
 	long long	f5UC;
-	f5UC	=	0;
+
     unsigned short    J8I_fLUM;
     J8I_fLUM    =    859704217;
   float  x1BTd0dvo;
@@ -173,7 +173,7 @@ int main(int argc, char** argv)
   short int  Q2x_6_hxI;
 
 	short	o7Yji;
-	o7Yji	=	1436094045;
+
     char    D7f6159;
 
  long gx4i49jZm;
@@ -187,7 +187,7 @@ int main(int argc, char** argv)
   double  mmT6bYcp;
 
     char    GNAvEJ;
-    GNAvEJ    =    1369059745;
+
 	double	w8URvM;
 	w8URvM	=	155851791;
  unsigned short b5OvN8TJ9M;
@@ -260,7 +260,7 @@ h59m7yEx9g = (int)abs(yo58DSFX);
 }
 else
 {
-IQwCa = (int)ceil(iNsNL6Yki);
+
 }
 }
 else if (((Ski3 & -427568268) && (h59m7yEx9g > 1945456016)) || (K_BSOv < -2091614848))
@@ -418,7 +418,7 @@ try
 {
 for (int j = 7; j >= 0; j--)
 {
-K_BSOv = rBcVbNm + 756525884;
+
 }
 }
 catch (int& errorCode)
@@ -463,7 +463,7 @@ case 1:
 
 break;
 case 2:
-d_6YsMF_a = (int)abs(dM_DX4);
+
 break;
 case 3:
 XLQz2zuo = (int)floor(mmT6bYcp);

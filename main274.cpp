@@ -110,7 +110,7 @@ int main(void)
 	double	tkn9lbl;
 	tkn9lbl	=	-889285884;
     unsigned char    Y9DMLBP;
-    Y9DMLBP    =    1320863294;
+
 
 try
 {
@@ -222,7 +222,7 @@ case 2:
 
 break;
 case 3:
-FFYv = n1D8fB(bTte, N6IIosZ, A_Nh0x8tTd);
+
 break;
 case 4:
 O_53 = (int)ceil(PuSW13G);

@@ -452,7 +452,7 @@ else if (K_U2k1H >= SHQ1)
 }
 else if (p6I94Yk)
 {
-p6I94Yk = OTTk3nqE1O << Un7Q;
+
 }
 else if ((Un7Q != vO_09_) || (oWq0Pk4O6 & 1826311489))
 {
@@ -491,7 +491,7 @@ W8F5w9hN = a7_16zd * 2057587117;
 
 for (int i = 9; i >= 0; i--)
 {
-S98Johlaq = (int)abs(g_M7);
+
 }
 
 {

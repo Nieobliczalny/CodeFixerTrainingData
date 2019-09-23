@@ -98,7 +98,7 @@ int main(int argc, char** argv) {
   long  i1SBoO;
   i1SBoO  =  1180984349;
   float  tg64N;
-  tg64N  =  -1315147746;
+
 	float	gz9z;
 	gz9z	=	1769469447;
   unsigned int  jUAXHln;
@@ -166,7 +166,7 @@ if (tGJnfKK_ot > S_YM5)
 {
 if (B_i2_A <= -2050695082)
 {
-tg64N = (int)ceil(Qya6E6q);
+
 }
 else
 {
@@ -422,7 +422,7 @@ case 2:
 
 break;
 case 3:
-vT7uO_Vj /= 1533489883;
+
 break;
 case 4:
 B_i2_A = (int)floor(BjK9gv6I);
@@ -446,7 +446,7 @@ do
 {
 if (kthQ5o != S_YM5)
 {
-tg64N = (int)floor(i37G_8j6T);
+
 }
 else if (Oh8z >= -1955767613)
 {
@@ -495,7 +495,7 @@ case 'e':
 
 break;
 default:
-C796Bi8iN = (int)floor(DD123a75n);
+
 break;
 }
 }
@@ -512,7 +512,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-XDQfxJi_r = O0rQm5GTW(-1837832083, -1528373101);
+
 break;
 case 'd':
 case 'D':

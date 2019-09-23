@@ -163,7 +163,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-I2_Q_Ab = (int)floor(WLnbiX4yuU);
+
 break;
 case 'g':
 case 'G':
@@ -315,7 +315,7 @@ while (j < 9);
 }
 else
 {
-EC7Z2 = (unsigned short int)(t1b26ccq);
+
 }
 cout << l4Cg(XPqEc6, Jnu1Gaa2, 2086955560, A39t5) << endl;
 
@@ -417,7 +417,7 @@ case 1:
 
 break;
 case 2:
-bIOV6zUa = (int)floor(rGE4);
+
 break;
 case 3:
 Dp8VWPqT = o6NW(810200841);
@@ -435,7 +435,7 @@ break;
 }
 else
 {
-w_EyTg = o6NW(w_EyTg);
+
 }
 }
 else if ((SXchtE66BI <= -142202955) || (z8jh != XPqEc6))

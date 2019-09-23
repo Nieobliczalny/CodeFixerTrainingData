@@ -133,7 +133,7 @@ int main() {
  long Uy5hJlce89;
  Uy5hJlce89 = 421351406;
     unsigned long long    Wa5a;
-    Wa5a    =    1522874749;
+
   char  OWun;
   OWun  =  1941615022;
 	short	XxRT_2TfD;
@@ -155,7 +155,7 @@ int main() {
     unsigned short int    aIs5;
     aIs5    =    -900666831;
   int  o8eE1_;
-  o8eE1_  =  269959324;
+
     long long    ElE_;
     ElE_    =    982111657;
 	unsigned short int	z8sVF2Tu9;
@@ -169,7 +169,7 @@ int main() {
     float    NG9e3r3U;
     NG9e3r3U    =    -520751391;
 	long long	JJL0ojP52H;
-	JJL0ojP52H	=	-969212316;
+
   double  OzTE;
   OzTE  =  -772937762;
   long  u5ny96IBu_;
@@ -281,7 +281,7 @@ case 3:
 
 break;
 case 4:
-kd7h = deSq_(231236658, 216942686, HA22, qmp1e4WfW);
+
 break;
 case 5:
 gNH_J1VjZ_ = (OF6DM6r5 & -1603262405) ? TOY_424O : 2122247313;
@@ -335,7 +335,7 @@ case 3:
 TOY_424O -= DKB0iQ2;
 break;
 case 4:
-o8eE1_ = N2Zk5QD(-550075452, u5ny96IBu_, -950267129, XxRT_2TfD, 1589589759);
+
 break;
 case 5:
 a0HUK = C2uACe5xr4 & KJcX8AuH;
@@ -545,7 +545,7 @@ for (int j = 3; j >= 0; --j)
 switch (vv9ZuHB)
 {
 case 'a':
-OzTE = (int)ceil(t_Bq4Ky);
+
 break;
 case 'b':
 P8fkj--;
@@ -569,7 +569,7 @@ case 'h':
 AH1RPKTsB = N2Zk5QD(-370131273, aIs5, B_W9_917, Uy5hJlce89, 325876594);
 break;
 case 'i':
-P0YNz8 /= ElE_;
+
 break;
 case 'j':
 sZgiq = (int)floor(P0YNz8);

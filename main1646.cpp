@@ -357,7 +357,7 @@ ih58u1gP /= 1146579616;
 }
 try
 {
-gwFo = (long double)(PO22767);
+
 }
 catch (int& errorCode)
 {

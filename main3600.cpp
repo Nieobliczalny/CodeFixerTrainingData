@@ -216,7 +216,7 @@ std::cout << linh2Teww(D3v412s) << pmLCrL3Kd << pmLCrL3Kd << std::endl;
 
 try
 {
-sP53iv0RvC = (unsigned char)(w5_p37c);
+
 }
 catch (int& errorCode)
 {

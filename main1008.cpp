@@ -300,7 +300,7 @@ else if (u9iA89w027 < 1342930431)
 {
 for (int k = 0; k < 6; k++)
 {
-BH4We = (int)floor(o8vjG);
+
 }
 }
 else
@@ -434,7 +434,7 @@ case 'c':
 kFO5p8 = H8n_82 / hhmt0p_3o;
 break;
 case 'd':
-D173VY5 = FeTCHa % U2ttWmm4r;
+
 break;
 case 'e':
 

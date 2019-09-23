@@ -579,7 +579,7 @@ m6pzKW5 = VD2Z7137DO(1740630235);
 break;
 case 'd':
 case 'D':
-G7KJDO4 = (int)ceil(Qb3a);
+
 break;
 case 'e':
 case 'E':
@@ -629,7 +629,7 @@ case 'f':
 Qb3a = YJx7y20_H / 1889461733;
 break;
 case 'g':
-ovB6 = (int)abs(H9i6);
+
 break;
 }
 }
@@ -689,7 +689,7 @@ else
 {
 
 }
-wf5f = (unsigned short)(a9dvbYA);
+
 {
 int i = 7;
 do
@@ -729,7 +729,7 @@ case 1:
 
 break;
 case 2:
-Jy0Ti__ *= X8n298;
+
 break;
 default:
 t5wBBj3 = DnhPJ4Hg(t5wBBj3);

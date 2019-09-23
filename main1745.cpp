@@ -33,7 +33,7 @@ int main(int argc, char** argv) {
 	VWXN	=	1974116811;
 	skOBb	=	-934287136;
 	z3F8zflm	=	19521227;
-	hJH22w	=	-2061285703;
+
 	wVYrvS0	=	825158324;
 
 	USYF6Z01U5	=	-1497476943;
@@ -45,7 +45,7 @@ int main(int argc, char** argv) {
 	Qa9S_B4	=	939128672;
 
 	I4W1H0AKB	=	-381177528;
-	e5M1Fyks	=	-1446343170;
+
 	Sx6721M	=	1778100153;
 
 	Y09UAwqK5	=	-392528352;
@@ -206,7 +206,7 @@ case 'a':
 
 break;
 case 'b':
-Or5ls = (ZVBz7QX != 1717284327) ? b_e9f : -2061651382;
+
 break;
 case 'c':
 L1Sc1X7di = (int)abs(D977x50Hqu);
@@ -218,7 +218,7 @@ case 'e':
 
 break;
 case 'f':
-VWXN = jXWF - 991626578;
+
 break;
 case 'g':
 a5dbe = q_PQnhP9VJ(-107588615, -1155111805, XPp54A4Ot, wVYrvS0, skOBb);
@@ -230,7 +230,7 @@ case 'i':
 
 break;
 default:
-kT9QN79I = q_PQnhP9VJ(-1720402454, 1878869216, -689298764, jXWF, 1788640273);
+
 break;
 }
 Y09UAwqK5 = sP1CK_bf2 / v8OcmZ0;

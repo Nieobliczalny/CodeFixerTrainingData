@@ -22,7 +22,7 @@ int main(int argc, char** argv)
   unsigned long long  ymv8VJshzx,  ffzvL8VGI,  KmDP,  rO0wVJ,  Dt8BtDqQD;
     ymv8VJshzx  =  ffzvL8VGI  =  KmDP  =  rO0wVJ  =  Dt8BtDqQD  =  0;
 
-sq_W = ymv8VJshzx >> x1JKQE2yKc;
+
 
 for (int i = 2; i >= 0; i--)
 {
@@ -36,7 +36,7 @@ if ((u_8t6) || ((J6KgPk0Kb & 788734986) && (v_TmWZ <= 1016213407)))
 int k = 6;
 do
 {
-sq_W = WDInd & iF1hZOP_;
+
 k--;
 }
 while (k >= 0);
@@ -49,7 +49,7 @@ std::cout << Fa7413_hi << JIh4s47Q(HhY3bQ7l31, 986600967, bnKw_gZ, AQ06, x1JKQE2
 }
 else
 {
-u_8t6 = u_8t6 | x1e_8dU;
+
 }
 
 Dt8BtDqQD = JIh4s47Q(Dt8BtDqQD, -1109394741, KmDP, 1579477043, IwBc);
@@ -165,7 +165,7 @@ default:
 EmpE--;
 break;
 }
-Oqhw7I8Tq = JIh4s47Q(-1811094052, 773524618, -156557742, 1148708517, 228688619) / ffzvL8VGI;
+
 {
 int i = 0;
 do

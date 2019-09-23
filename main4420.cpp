@@ -71,7 +71,7 @@ case 'd':
 
 break;
 case 'e':
-Dy6JYPxnQ = (int)abs(oSaE6);
+
 break;
 case 'f':
 
@@ -97,7 +97,7 @@ case 'c':
 
 break;
 case 'd':
-VA5836Vm = (f4k215GK8 > InftO002X) ? O8XPno : -1349976429;
+
 break;
 case 'e':
 Dy6JYPxnQ = (int)abs(V8CTv);

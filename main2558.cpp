@@ -147,7 +147,7 @@ int main(int argc, char** argv)
   unsigned short  c0MLe6Yy;
 
   char  Yh7Z;
-  Yh7Z  =  -1880438726;
+
   unsigned char  UHA3H;
   UHA3H  =  -335023692;
   unsigned int  Ka4H023Q;
@@ -171,7 +171,7 @@ int main(int argc, char** argv)
     double    a6Hn3cP08;
 
 	unsigned short	Wpd2cb;
-	Wpd2cb	=	547992539;
+
 	unsigned int	Kk9__;
 	Kk9__	=	-1547020966;
 	long double	xL2Y8SO;
@@ -663,7 +663,7 @@ case 3:
 No78f = (int)ceil(b1bWRP);
 break;
 case 4:
-xL2Y8SO = (int)ceil(VJ_y6);
+
 break;
 case 5:
 
@@ -688,7 +688,7 @@ else if (A8J4SJzt == 661228460)
 }
 else if (N58vqe >= itbM6)
 {
-vIp9Z3cZ6 = zttW(427748675, tlhyYUVy6, r_U_6j, 913490233) % 892490468;
+
 }
 else if ((x0Ov_oXFL4 == 1721620481) && (ivR4 & itbM6))
 {
@@ -758,7 +758,7 @@ case 2:
 crBO1ljLo--;
 break;
 case 3:
-HdEPBGt = (int)floor(BuKCK_2cb);
+
 break;
 case 4:
 

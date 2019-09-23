@@ -369,7 +369,7 @@ JNvZ_m51 = (int)abs(iH7D3D);
 break;
 case 'd':
 case 'D':
-T4Maa25 = JNvZ_m51 ^ KTJb36n1O5;
+
 break;
 case 'e':
 case 'E':
@@ -427,7 +427,7 @@ if (ni10QET4z == 0)
 
 }
 
-VwNii2o = (MI7_62p != L99y) ? jbbygO3X : lys4ZMt;
+
 return 0;
 }
 

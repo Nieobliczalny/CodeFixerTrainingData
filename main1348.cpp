@@ -469,7 +469,7 @@ else if (((MT08OQwypP != gLO_F) && (zCi8 < 1687634570)) && (PS9kuN < -100605520)
 }
 else if (NhIedo8)
 {
-B6YEK2 = (int)abs(D9Wa);
+
 }
 else if ((K_0NaLA_9 != 2025357293) || ((BURUyj == -83546230) || (OnoZR_ == -1298161685)))
 {

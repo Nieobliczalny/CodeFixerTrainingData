@@ -76,7 +76,7 @@ BRWb4ws = LhTr(JnT3, puDDG6, 174793675, btN849C7q);
 break;
 case 'd':
 case 'D':
-q9i73T |= I6AX;
+
 break;
 }
 }
@@ -317,7 +317,7 @@ if ((LhTr(-698390732, btN849C7q, oI6g4L_g7R, lxz6DD) / s79fJ) > 834065193)
 
 for (int i = 0; i < 5; ++i)
 {
-H0on8OT8b = t4Ug - u319c7_e;
+
 }
 
 std::cout << H3G_5f(-773939774, kr15gJ, s_BS, -240595956, ZY6i) << "t2341qO7" << std::endl;

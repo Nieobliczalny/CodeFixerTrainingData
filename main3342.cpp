@@ -37,7 +37,7 @@ case 'c':
 
 break;
 case 'd':
-OiDXF20PH = c7ihm(-1443167441, -542494351, h5eTG, uK5LOptbh, Am6L_);
+
 break;
 case 'e':
 n_Js04 = (int)abs(za_ylu) * 0;
@@ -204,7 +204,7 @@ else if (EZd0w2gy7 > LJsqI)
 }
 else
 {
-B66KAOLz = cNhuna4M(1351779690, 1250430900, EZd0w2gy7, 1373678475);
+
 }
 
 return 0;

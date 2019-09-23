@@ -299,7 +299,7 @@ case 'b':
 kYvy9UFmYy = yfN45ql(1486917243, -628036220, VI2b3nq1E);
 break;
 case 'c':
-eO631O8p = (int)floor(IqfZwj);
+
 break;
 case 'd':
 wF2POYu45 = y_3q ^ oTjm;
@@ -430,7 +430,7 @@ while (i >= 0)
 {
 try
 {
-AAb_aZhGa = yfN45ql(-966902726, -1409368563, -570288281);
+
 }
 catch (int& errorCode)
 {

@@ -359,7 +359,7 @@ else
 cout << n_Kk4B52rF << endl;
 }
 
-n_Kk4B52rF ^= 1863021978;
+
 
 {
 int i = 0;
@@ -380,7 +380,7 @@ case 1:
 
 break;
 case 2:
-A_t9Ir |= g2VM2P8aYM;
+
 break;
 case 3:
 A7ngsMjF07 = o4xs & g2VM2P8aYM;
@@ -392,7 +392,7 @@ case 5:
 
 break;
 case 6:
-Wvtp0H = uo4hs | t2J71_Mc;
+
 break;
 case 7:
 XTW7myaRYk /= 917508290;

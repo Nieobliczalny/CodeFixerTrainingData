@@ -125,7 +125,7 @@ int main(int argc, char** argv)
   short int  ZF24_S_;
   ZF24_S_  =  255013688;
 	unsigned long long	i152k;
-	i152k	=	-1776533902;
+
   long double  oS8NPw99fn;
   oS8NPw99fn  =  107775794;
 	int	BZ8WJ6BK_;
@@ -531,7 +531,7 @@ else if ((nN2cmQbV > -397226632) && (uT96wi > -23429040))
 }
 else if (K9GWW_ <= Izw7qn)
 {
-eF3rv1fr = SzOz * J13G;
+
 }
 else if ((tFW27W != -781786132) && ((VdQG <= -238580083) || (snf009B)))
 {
@@ -579,7 +579,7 @@ case 2:
 
 break;
 case 3:
-eZtk8 |= h00c5;
+
 break;
 case 4:
 Q__450n = K86C(piRGD9Y1H, -362994330, NbwNHO, j5A6fDZ7);
@@ -689,7 +689,7 @@ case 'a':
 dvaHT /= m0Mk;
 break;
 case 'b':
-LdoYBJ = pYb6 % 561915347;
+
 break;
 case 'c':
 Hl1C = K86C(Hl1C, BU2BHt88u, b5Bs8fH_8W, 1973552902);

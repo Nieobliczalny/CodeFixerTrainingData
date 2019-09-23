@@ -612,7 +612,7 @@ else if (ptb1h5 != 2004125500)
 }
 else if (tGQDu & -276513297)
 {
-Mp_05v = hoa1y + 849204902;
+
 }
 else if ((iqvrd8Y != zY0L) || ((nFwZG < -622332930) && (AG183jNbw & NmWveSqY13)))
 {
@@ -664,7 +664,7 @@ case 'F':
 break;
 case 'g':
 case 'G':
-iqvrd8Y = (int)abs(A__960);
+
 break;
 case 'h':
 case 'H':

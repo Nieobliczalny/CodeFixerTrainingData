@@ -657,7 +657,7 @@ break;
 gq6E4c = pt12y(x__V2G, -576139640);
 
 
-x__V2G = (unsigned short int)(dI_5cms_6 * x__V2G);
+
 
 return 0;
 }

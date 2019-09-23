@@ -252,7 +252,7 @@ else if (mv1Vo5V != J7luBJ9Ym)
 }
 else if (rI_1R_N < 300555494)
 {
-TfNk = (int)floor(ge4_);
+
 }
 else if ((JdkH == -18948593) && (Hx2373 <= 1422111002))
 {
@@ -310,7 +310,7 @@ else
 }
 }
 
-Dm84 = 171473291 / Hx2373;
+
 
 
 {

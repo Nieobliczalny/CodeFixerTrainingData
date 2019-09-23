@@ -45,7 +45,7 @@ case 0:
 CTJ2_ /= Hmyei47ajp;
 break;
 case 1:
-q5_y = m5_KhL - 1540203887;
+
 break;
 case 2:
 fwOSOeQ -= uIrTgicu;
@@ -77,7 +77,7 @@ case 1:
 
 break;
 case 2:
-nX92 = (m_uMV7YO >= -2013529796) ? Hp_5(-1966988181) : e_pX;
+
 break;
 case 3:
 QED4 -= IK_T;
@@ -89,7 +89,7 @@ case 5:
 
 break;
 case 6:
-O129qh97 *= 1028988359;
+
 break;
 case 7:
 T3Zm7ZWs2 = Hp_5(L_HZlc) >> 808890656;
@@ -116,7 +116,7 @@ default:
 break;
 }
 
-Kf2tSuyA -= 82310234;
+
 o9P9 = Hp_5(ov0P_j8sR);
 A90mk = (int)ceil(ND2T);
 
@@ -176,7 +176,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-swEAz0ZDRO = (int)floor(NpXEURIym);
+
 break;
 case 'd':
 case 'D':

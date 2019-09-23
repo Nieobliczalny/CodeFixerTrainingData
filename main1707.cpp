@@ -32,7 +32,7 @@ int main(void) {
  K0une25 = -1822025915;
  d4N0bcTD7 = -347418554;
  P5_4CoCz = 303920770;
- H23s3 = 1001112907;
+
  G4c1 = 1536697544;
  X2DV5 = -244927915;
  bIi7VNHG = -815526620;
@@ -185,7 +185,7 @@ case 'g':
 
 break;
 case 'h':
-zguNIKj = RK1442O9(219042819, SMbdIl, G4c1);
+
 break;
 }
 {
@@ -229,7 +229,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-d4N0bcTD7 = bIi7VNHG * K0une25;
+
 break;
 case 'e':
 case 'E':
@@ -248,7 +248,7 @@ case 'H':
 
 break;
 }
-b5Z5 = (short)(Y_8eL19H + (PY991v));
+
 
 switch (H23s3)
 {
@@ -266,7 +266,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-P5_4CoCz = RK1442O9(1223930113, P5_4CoCz, G4c1) << K0une25;
+
 break;
 case 'e':
 case 'E':
@@ -296,7 +296,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-gb_4Q = (int)abs(BM8Pc) + (390153113);
+
 break;
 case 'd':
 case 'D':

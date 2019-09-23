@@ -33,7 +33,7 @@ int main(int argc, char** argv) {
 
 
 
-o0KD = (int)abs(L2Jj) + (-1046284401);
+
 
 ZU1Ur1ekck = Nu6f14(mSBn, -476537023);
 
@@ -44,7 +44,7 @@ cout << zojLA << Nu6f14(545481072, B_6K3I9FDM) << Y7pxqh1 << KN9nsg << endl;
 
 
 
-EqR9y7br = (int)abs(R5r8n);
+
 
 if (deHd46YlgE != -1569435675)
 {
@@ -59,7 +59,7 @@ case 'b':
 
 break;
 case 'c':
-YwEy = KvbL1ej8(-671515504, Q18l);
+
 break;
 case 'd':
 r9OC910j = (int)abs(Z7C8c6q);
@@ -74,7 +74,7 @@ case 'g':
 
 break;
 default:
-m9ZY9Tf_C = tBGI1L6 >> 2146280277;
+
 break;
 }
 }

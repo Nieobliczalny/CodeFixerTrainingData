@@ -83,7 +83,7 @@ int main(int argc, char** argv)
 	unsigned long	Y3_J35irfM;
 	Y3_J35irfM	=	2119857871;
   char  b8y4I;
-  b8y4I  =  -197175847;
+
  unsigned short int wKi59aK;
  wKi59aK = -1889037505;
  int g0WubAlse;
@@ -361,7 +361,7 @@ case 'j':
 
 break;
 default:
-s1hk1 = (int)floor(ACJhlCZD);
+
 break;
 }
 }
@@ -424,7 +424,7 @@ case 2:
 z9I8 = FLRd861F42(-2108595375, -744583101, W8wA5g, 1758475251, kXqQxu);
 break;
 case 3:
-uH3A6 = (l6pO7h3 == oyE21p) ? 1969507550 : 1692152300;
+
 break;
 case 4:
 

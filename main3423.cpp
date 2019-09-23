@@ -344,7 +344,7 @@ case 'c':
 
 break;
 case 'd':
-Lg6c8G = R9x4 - E2PCn;
+
 break;
 case 'e':
 BKS6DkSK += x73N;
@@ -356,7 +356,7 @@ case 'g':
 
 break;
 case 'h':
-Eb_6 *= 238735723;
+
 break;
 case 'i':
 HirQydf5 >>= 1752340860;
@@ -374,7 +374,7 @@ for (int i = 0; i < 7; ++i)
 std::cout << "KNFO2Zs" << "y3zhCa" << E2PCn << si_n << std::endl;
 }
 
-NVjkC2j = XW5tS7 << E2PCn;
+
 
 {
 int i = 0;

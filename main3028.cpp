@@ -97,7 +97,7 @@ int main(int argc, char** argv)
   char  Iad9;
   Iad9  =  -1239417384;
   short  L059;
-  L059  =  -854167812;
+
   int  t_Js;
   t_Js  =  -1734680816;
   short  Sw_0mBP;
@@ -131,7 +131,7 @@ case 4:
 hpO0hOB1_l = wGQl_vy2(hpO0hOB1_l, v2hy0, 2026187930, 1812048833);
 break;
 case 5:
-L059 = s2VG3(1178839115, Iad9, y04Uz2, gNKYV0, -1520774013);
+
 break;
 case 6:
 Sw_0mBP = HRgNRpfA | hpO0hOB1_l;
@@ -266,7 +266,7 @@ case 7:
 R0_aw = (int)abs(tt3_0l0MO);
 break;
 case 8:
-p185y = (y04Uz2 == HRgNRpfA) ? HRgNRpfA : y04Uz2;
+
 break;
 case 9:
 k_6I1Q |= w7c1W;
@@ -293,7 +293,7 @@ case 4:
 Zpkjq = gNKYV0 | 588326003;
 break;
 case 5:
-WkGbo = (int)abs(hpQs);
+
 break;
 default:
 hr2ll55 ^= 1534795704;
@@ -358,7 +358,7 @@ A4I9 = (int)abs(Iad9);
 break;
 case 'e':
 case 'E':
-tt3_0l0MO = (int)abs(R0_aw);
+
 break;
 }
 }

@@ -43,7 +43,7 @@ case 'e':
 
 break;
 case 'f':
-n897 = sw4I();
+
 break;
 case 'g':
 n897 = sw4I();
@@ -125,7 +125,7 @@ case 1:
 
 break;
 case 2:
-V3HP_G = pey7 | nNu3;
+
 break;
 default:
 n897 = sw4I();

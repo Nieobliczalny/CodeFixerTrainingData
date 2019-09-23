@@ -28,7 +28,7 @@ unsigned char	tH9cf9D_(unsigned short int	Q_m8G8,long long	N7x07pkzp8,unsigned s
 int main()
 {
     long double    eWAnK;
-    eWAnK    =    1594911791;
+
 	short int	q3xQ8Tc6_;
 	q3xQ8Tc6_	=	-1963813928;
  int TvXX;
@@ -426,7 +426,7 @@ case 'e':
 
 break;
 case 'f':
-CUb4k199N = t54GjlT << AJ9JhG;
+
 break;
 case 'g':
 q3xQ8Tc6_ = I_qk64D5(q3xQ8Tc6_, m4s52, 1266307155, Y0m7d9e, L2dRp2d);

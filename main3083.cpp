@@ -138,7 +138,7 @@ case 'a':
 
 break;
 case 'b':
-wa_IkHzm += YNvr6iQxs;
+
 break;
 case 'c':
 gVNTAHxJ1 = fZ3658a % T6YYg;
@@ -320,7 +320,7 @@ if ((yVYsO2 <= 1811658761) && ((PSFl < xg79_l) || (hojh83zE6 != Z87P35__m_)))
 kQ__V = (long double)(kIX2);
 }
 std::cout << "KhnDV0azj_" << "vLa88HLv4" << "lU851V2" << kQ__V << std::endl;
-hojh83zE6 = (short)(Y3yB + (-458661541));
+
 
 
 rbgd3_9L = (unsigned short)(Y3yB + (87424035));

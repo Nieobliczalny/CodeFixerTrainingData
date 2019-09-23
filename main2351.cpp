@@ -19,7 +19,7 @@ unsigned short    nn73(unsigned short int    NdTw4t,short    kC7_o3iF,long long 
 int main()
 {
 	unsigned short	i8l1ziM;
-	i8l1ziM	=	-430123888;
+
 	short	eT8FMJl8Vg;
 
   double  E58u456vv;
@@ -29,7 +29,7 @@ int main()
  unsigned long long G_OoEQ;
  G_OoEQ = -964513101;
  int H7ESxVXw;
- H7ESxVXw = 2049507210;
+
   long double  h5QZO;
 
   unsigned short  l00_E8;
@@ -67,7 +67,7 @@ int main()
     unsigned short    Y7oQ7zU9;
 
 	unsigned int	Z03S3TWK;
-	Z03S3TWK	=	-1389244410;
+
   long long  I5eq_vZBq;
   I5eq_vZBq  =  705748453;
   long long  HOhSE14;
@@ -93,7 +93,7 @@ int main()
   int  k9WDxn1;
 
     long double    hD5b6Zs;
-    hD5b6Zs    =    -892068689;
+
     unsigned char    GXAyyc64;
     GXAyyc64    =    -452056577;
   char  sd9NZ6;
@@ -103,7 +103,7 @@ int main()
   long long  Yqs06N6;
   Yqs06N6  =  1641901743;
  short int RBCgr;
- RBCgr = 690528284;
+
     char    fN2q6NtN;
     fN2q6NtN    =    -1465786778;
 	unsigned long long	K410;
@@ -115,7 +115,7 @@ int main()
     unsigned int    OeS_DT73;
     OeS_DT73    =    1371743127;
     long double    U8m00Ze_B;
-    U8m00Ze_B    =    930268236;
+
   double  Z2O_9POMlo;
   Z2O_9POMlo  =  2072939098;
   int  r3Rs;
@@ -125,7 +125,7 @@ int main()
     long double    bj1j_5_;
     bj1j_5_    =    -1044721015;
 	unsigned short	pHRT0;
-	pHRT0	=	-2128170045;
+
     char    IL9Aq_3_m;
     IL9Aq_3_m    =    1710906784;
  double CBiAD4S_;
@@ -137,7 +137,7 @@ int main()
     long double    J4MQ;
     J4MQ    =    -1174984317;
 	double	IUg4cP8Nm6;
-	IUg4cP8Nm6	=	1582641392;
+
   long long  LfV912;
   LfV912  =  -631130358;
     unsigned char    SebG8W;
@@ -175,7 +175,7 @@ int main()
   unsigned short int  d31nI;
   d31nI  =  193601725;
  unsigned int Ew_qG0eT;
- Ew_qG0eT = 144852010;
+
     long double    Gx6T8X;
 
     int    KbycRyWNfb;
@@ -292,7 +292,7 @@ else if (WZ34z35w_)
 }
 else if (e_kQgO != uQb5e)
 {
-vYLa = cv09(bj1j_5_, 741710892, -378387656);
+
 }
 else
 {
@@ -358,7 +358,7 @@ if (Yqs06N6 & -1078354652)
 {
 
 }
-ooB05 = IUI0x69 / qGfYAZ;
+
 
 switch (PBL9n)
 {
@@ -441,7 +441,7 @@ case 3:
 Z2O_9POMlo = nn73(Z2O_9POMlo, F_kAW, -1895999067);
 break;
 case 4:
-IzbDY = QMI047TI40(-714852689, AXsqoM3g);
+
 break;
 case 5:
 ukOT_ ^= lAjGD0k;

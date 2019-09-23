@@ -234,7 +234,7 @@ for (int i = 0; i < 9; i++)
 std::cout << F0q65iG4 << D718YW9L << bYl6907(1074346109, 533191126, -1792311567) << "XUxSw" << std::endl;
 }
 
-e4E780ZD -= HQtvh;
+
 
 for (int i = 0; i < 5; ++i)
 {

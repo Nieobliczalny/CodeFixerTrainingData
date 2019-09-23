@@ -84,7 +84,7 @@ catch (int& errorCode)
 {
 XtIMp4Po = XtIMp4Po * jysFv9;
 }
-lX3n_2zI_Q = (int)ceil(JlQcg);
+
 
 if (JlQcg < -761791561)
 {
@@ -220,7 +220,7 @@ break;
 switch (TSBGfy_F)
 {
 case 0:
-oHJ0mHl69 += BCY9JQ;
+
 break;
 case 1:
 TSBGfy_F = u1C184m0(vG3d1, -776328955, jE_F8q7, k641gmPH, Y2hz);

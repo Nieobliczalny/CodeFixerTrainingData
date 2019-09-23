@@ -211,7 +211,7 @@ case 1:
 
 break;
 case 2:
-VuPKjJaG = UPul2_F();
+
 break;
 case 3:
 ZS65Rz = (int)floor(n0paZBf9y);
@@ -223,7 +223,7 @@ case 5:
 
 break;
 case 6:
-qmJ2TA4SMu = Mwl92();
+
 break;
 case 7:
 V691XC = rk4Ccy4Dn(V691XC, -2095296167, W2e7n6_f3C);

@@ -74,7 +74,7 @@ while (i >= 0);
 }
 
 
-neMpfm680 = rgATZSBKT / mb9A6;
+
 
 return 0;
 }

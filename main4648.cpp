@@ -370,7 +370,7 @@ case 2:
 
 break;
 case 3:
-pNRntpt8n = WRI37D2q1(861180825, 718470547, zt6_0QucID, h_nD5uSGU_, W4R0);
+
 break;
 case 4:
 Gt3_6t93 = C1oQ(152956097);
@@ -385,7 +385,7 @@ case 7:
 v_6q ^= lP_9CaM7k;
 break;
 case 8:
-o27Ey = (int)ceil(kYZ_01_dW);
+
 break;
 }
 }

@@ -236,7 +236,7 @@ case 'c':
 I473y = (int)ceil(bqH7GJ1A);
 break;
 case 'd':
-bqH7GJ1A = (int)floor(I473y);
+
 break;
 case 'e':
 

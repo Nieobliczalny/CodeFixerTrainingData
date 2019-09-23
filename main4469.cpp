@@ -32,7 +32,7 @@ int main()
         Wh4lzAg    =    0;
 
 
-MO_88 = t784O / Wh4lzAg;
+
 for (int i = 0; i < 9; ++i)
 {
 {
@@ -53,7 +53,7 @@ catch (int& errorCode)
 p8CEMV_9W0 = RhLyd();
 }
 
-l99a5fRpv = Y6exi4da + bLhwE;
+
 return 0;
 }
 

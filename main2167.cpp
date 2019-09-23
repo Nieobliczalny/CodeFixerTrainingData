@@ -54,7 +54,7 @@ int main(int argc, char** argv) {
 	FcXQg21_lw	=	1748869486;
 	J3MLG4HkrA	=	-1763167630;
 	F78_	=	1266155393;
-	Vq4S7J9	=	1523192399;
+
 	z165RGor3	=	2081868086;
  short gicK, mFGN2wPPt, vLp3iZ_, NU2lYsK5b6;
  gicK = 0;
@@ -234,7 +234,7 @@ klVA = cA59vV_1sJ * 1977624822;
 }
 else
 {
-sv11UeG = (Pmek_t == HHxYNNcMr) ? J3MLG4HkrA : Pmek_t;
+
 }
 j++;
 }
@@ -331,7 +331,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-e469Bh5 -= znWas;
+
 break;
 case 'd':
 case 'D':

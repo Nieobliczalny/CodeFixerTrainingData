@@ -466,7 +466,7 @@ XrPP = (int)abs(yPS6);
 }
 else
 {
-uR9Vno0xFl = (short)(BSxu2E9X);
+
 }
 try
 {

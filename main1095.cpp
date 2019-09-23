@@ -632,7 +632,7 @@ for (int j = 2; j >= 0; --j)
 int k = 0;
 do
 {
-m2i3QuxM1I = YEo7 - 203812744;
+
 ++k;
 }
 while (k < 10);

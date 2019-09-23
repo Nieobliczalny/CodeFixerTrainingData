@@ -253,7 +253,7 @@ case 4:
 
 break;
 case 5:
-v1g_Sqg2 = D_MNq1N / m22qL;
+
 break;
 default:
 U26Z = (int)abs(mo4SJ);

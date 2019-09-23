@@ -380,7 +380,7 @@ case 5:
 Hmx9t7u8xN = HARt_330();
 break;
 case 6:
-w_D24YOf = QG_3O_I * w_D24YOf;
+
 break;
 case 7:
 m6Xvx_v = HARt_330();
@@ -534,7 +534,7 @@ case 'G':
 break;
 case 'h':
 case 'H':
-H_dvfg980_ &= ACf3PUP;
+
 break;
 case 'i':
 case 'I':

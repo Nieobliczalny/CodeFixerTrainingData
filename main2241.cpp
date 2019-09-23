@@ -77,7 +77,7 @@ Ka_0W1Ptt /= Ka_0W1Ptt;
 
 
 
-w3MX8 = Ka_0W1Ptt & c_nZaw;
+
 Ka_0W1Ptt = c_nZaw / g9a5A9;
 
 

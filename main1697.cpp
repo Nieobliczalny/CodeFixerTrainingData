@@ -44,7 +44,7 @@ int main() {
     W27INR    =    1552739115;
     OR4K1    =    1399882518;
 
-    nzUp20aZUb    =    -532519693;
+
     rhGh    =    2053685183;
     wjcY    =    -1870235404;
     G98REq    =    -467199254;
@@ -225,7 +225,7 @@ int i = 1;
 while (i >= 0)
 {
 i--;
-G_605i8 = hN38K | W27INR;
+
 }
 }
 }
@@ -236,7 +236,7 @@ if (a_13Kr75 != Y6sxg2P)
 {
 if ((R0Jw_rG1 < Y6sxg2P) && (OR4K1 == -1273943111))
 {
-Lrlp6w = (int)abs(G98REq);
+
 }
 }
 else if (xTnd3 < 699703509)
@@ -264,7 +264,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-w5zTvuO = (int)abs(ldHr52czzv);
+
 break;
 default:
 R0Jw_rG1++;

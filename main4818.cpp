@@ -81,7 +81,7 @@ int main(void)
   float  GJLwn86;
   GJLwn86  =  1817087922;
   double  h_ykm6k;
-  h_ykm6k  =  2131542206;
+
  unsigned char DC81H;
  DC81H = 0;
 	unsigned short int	TDek9s3lE;
@@ -141,7 +141,7 @@ int main(void)
   double  kCDwp0o;
   kCDwp0o  =  648395182;
 	long long	q3Lrtfx_;
-	q3Lrtfx_	=	-1899112758;
+
   unsigned char  JB4o_9j456;
   JB4o_9j456  =  180118451;
  char DK7fz;
@@ -207,7 +207,7 @@ F8R8hl = (int)ceil(fmHukYV);
 }
 else if (o6Z07sRS4 <= luUP91)
 {
-q3Lrtfx_ = QIMGn523o3 ^ 1438409704;
+
 }
 else
 {
@@ -318,7 +318,7 @@ while (j < 3)
 {
 if (D7103DzQ & luUP91)
 {
-q3Lrtfx_ = (int)abs(rSnS3);
+
 }
 j++;
 }
@@ -448,7 +448,7 @@ case 0:
 
 break;
 case 1:
-YYjL3 = q8WRBy1U(YYjL3, 550096040);
+
 break;
 case 2:
 
@@ -472,7 +472,7 @@ else if (TDek9s3lE <= DgEe_51B)
 }
 else if (YYjL3 > U57jG6)
 {
-h_ykm6k = (int)floor(ucUMH50G0);
+
 }
 else
 {
@@ -521,7 +521,7 @@ case 1:
 
 break;
 case 2:
-Q851YQ_80 &= h8F04I_9;
+
 break;
 case 3:
 LFOcw7i8YA = Jb4q + 871560231;
@@ -583,7 +583,7 @@ case 0:
 
 break;
 case 1:
-LfB5olW = q8WRBy1U(LfB5olW, DgEe_51B);
+
 break;
 default:
 
@@ -629,7 +629,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-YYjL3 = (int)abs(KPd94);
+
 break;
 case 'c':
 case 'C':
@@ -649,7 +649,7 @@ case 'F':
 break;
 case 'g':
 case 'G':
-DC81H = xegeHkh(-548046152, 577773729, -1012342007, XP500);
+
 break;
 case 'h':
 case 'H':
@@ -661,7 +661,7 @@ case 'I':
 break;
 case 'j':
 case 'J':
-X1O29Y6 = kmQ8G5 - F8R8hl;
+
 break;
 }
 
@@ -679,7 +679,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-kCDwp0o = (int)abs(K_fCa0But1);
+
 break;
 case 'd':
 case 'D':
@@ -691,7 +691,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-i9CHta54A = Kl9IU ^ KPd94;
+
 break;
 case 'g':
 case 'G':

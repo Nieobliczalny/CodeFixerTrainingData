@@ -61,7 +61,7 @@ int main(int argc, char** argv) {
  unsigned char p6_4;
 
  unsigned long long THE4H2_L0;
- THE4H2_L0 = 347424667;
+
   short  w3ki7U;
   w3ki7U  =  737495966;
  unsigned int jUp19OhL;
@@ -590,7 +590,7 @@ break;
 }
 
 
-VWU_RC1N = (double)(Gnpd5);
+
 
 if (J8lk != 736566025)
 {

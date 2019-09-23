@@ -434,7 +434,7 @@ case 'c':
 
 break;
 case 'd':
-oTsGOsDB = (int)abs(hTrjX1);
+
 break;
 default:
 uz9676Jv = SpC0(2019674102);
@@ -457,7 +457,7 @@ else if (wMX424_)
 }
 else if (skZY_L3_I != 210504180)
 {
-yyw8_YkisA = yNz5_Kw0c(-1406559714, 398592285);
+
 }
 else
 {

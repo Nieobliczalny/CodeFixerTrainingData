@@ -307,7 +307,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-LjNP7sk += 2042685037;
+
 break;
 case 'f':
 case 'F':

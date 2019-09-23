@@ -137,7 +137,7 @@ if (PdTloqVq9 <= SCx855)
 switch (oE_Lbs)
 {
 case 0:
-pHp5gtt6 = gb7l * 1935501012;
+
 break;
 case 1:
 
@@ -156,7 +156,7 @@ case 1:
 
 break;
 case 2:
-FCFW_iF5p /= 2021060352;
+
 break;
 case 3:
 EOfjTfI_SF = (int)abs(I6ia_ZE);
@@ -168,7 +168,7 @@ case 5:
 
 break;
 case 6:
-CH600x3p = JApTyQ0V4v(V5a1b3ez, -679921742);
+
 break;
 default:
 aQIVE_eH57 = (int)ceil(bzcl01);

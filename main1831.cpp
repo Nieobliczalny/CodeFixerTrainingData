@@ -154,7 +154,7 @@ int i = 7;
 do
 {
 --i;
-t2gs = (long)(i0QdMHS1b_);
+
 }
 while (i >= 0);
 }

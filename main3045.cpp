@@ -253,7 +253,7 @@ case 0:
 zX7hfkj44 = r3mC0E(zX7hfkj44, wd_5x8, Uo_2w, -794035426);
 break;
 default:
-j399 = (int)abs(fw999);
+
 break;
 }
 ++i;
@@ -464,7 +464,7 @@ case 1:
 
 break;
 case 2:
-Le73M = (int)abs(fw999);
+
 break;
 case 3:
 nvajhx = (int)abs(FxgIpyCrVI);

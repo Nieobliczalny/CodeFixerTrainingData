@@ -53,7 +53,7 @@ case 0:
 
 break;
 case 1:
-sT3NH ^= 1817922287;
+
 break;
 case 2:
 

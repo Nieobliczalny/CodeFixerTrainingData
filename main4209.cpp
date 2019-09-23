@@ -47,7 +47,7 @@ int main()
     char    Zbm2ODBj5;
     Zbm2ODBj5    =    -1960014831;
     unsigned long    hqpW0A3_JO;
-    hqpW0A3_JO    =    2078879750;
+
   unsigned short  gje3_b5i;
   gje3_b5i  =  -688537043;
 	long	mn0ipX4U;
@@ -335,7 +335,7 @@ while (j < 6)
 j++;
 try
 {
-O2Ko7_elj5 = (int)floor(hwOta9);
+
 }
 catch (int& errorCode)
 {
@@ -393,7 +393,7 @@ case 2:
 
 break;
 case 3:
-TyU5NfDfRa += lf8sH;
+
 break;
 default:
 mn0ipX4U *= 1242431990;
@@ -411,7 +411,7 @@ case 'b':
 
 break;
 case 'c':
-qihWhTu0P3 >>= oKri69eh3;
+
 break;
 case 'd':
 hwOta9 = (int)floor(LdKLqqylAc);

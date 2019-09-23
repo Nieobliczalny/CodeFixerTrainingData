@@ -46,7 +46,7 @@ int main(int argc, char** argv) {
     P46XF    =    1255372536;
     NWHJ    =    1027341625;
     W70OmY5    =    -332335030;
-    a7p_3O    =    2141179339;
+
     HaMmt37S4    =    -455827804;
     CE18    =    -791250446;
     doB2Nx    =    -205277885;
@@ -57,7 +57,7 @@ int main(int argc, char** argv) {
     JP3r    =    630356908;
     I9NwizrR9V    =    1104587841;
     O90tyj_    =    423816914;
-    t_TVO    =    780581861;
+
     myL5W    =    371471014;
     lYi2AUNUb_    =    -1402238086;
     zwilG4uUZ    =    -1993385383;
@@ -68,7 +68,7 @@ int main(int argc, char** argv) {
     tCpzC    =    2017203028;
     wP5k8pBV    =    -971743208;
 
-    b93lhMCr    =    -1334787366;
+
 
     cas7PS    =    -49155636;
     Bu__mcX_d9    =    47084544;
@@ -79,7 +79,7 @@ int main(int argc, char** argv) {
     OX3Ro    =    705813726;
     qOlX    =    2028513454;
 
-    c22bLrf    =    -654726997;
+
 
     d_Bma5    =    -920284956;
     OIhR65_16F    =    -1250720057;
@@ -91,7 +91,7 @@ int main(int argc, char** argv) {
 
     o9fk    =    -1986970714;
 
-    xJf12gh    =    1519248218;
+
     ZzsQ4    =    1582248709;
     F717SN9q    =    -1554172442;
     Jelgcw0    =    -1599550616;
@@ -143,7 +143,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-b_oM5IdF = Rs9_9(-1004574302) / 551947638;
+
 break;
 case 'c':
 case 'C':
@@ -167,7 +167,7 @@ case 'G':
 break;
 case 'h':
 case 'H':
-E7qcze5 = lIu0Pq3IN(E7qcze5, 1995565821, 733027814, qzdqmop);
+
 break;
 default:
 U31l4Uj <<= JZtl516T;
@@ -298,7 +298,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-qOlX <<= HaMmt37S4;
+
 break;
 case 'd':
 case 'D':
@@ -310,7 +310,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-I9NwizrR9V += S6KM;
+
 break;
 default:
 

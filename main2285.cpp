@@ -64,7 +64,7 @@ int main(void)
 	y9TX9k7hNA	=	331751096;
 	iP4gJq2	=	2137684430;
 	vkjV	=	70037334;
-	v7Hl2Ea	=	1462903131;
+
 
 	NP7Lu	=	417402665;
 	a9z43bU9s	=	1405697373;
@@ -282,7 +282,7 @@ case 3:
 
 break;
 case 4:
-E4s2I = ig5_PW_T2();
+
 break;
 case 5:
 
@@ -377,7 +377,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-v7Hl2Ea = z5iZ0() | JO5bt;
+
 break;
 case 'g':
 case 'G':

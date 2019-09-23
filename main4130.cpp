@@ -592,7 +592,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-u9B2 = br4n4NPUL(724877010);
+
 break;
 case 'd':
 case 'D':

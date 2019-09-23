@@ -227,7 +227,7 @@ case 'c':
 nhO_a = HXU56L_yN(rn1p, Ir_m_79le8, -2085799844, 1891923736, nhO_a);
 break;
 case 'd':
-AeAbY_9K8F = (int)abs(QL3E);
+
 break;
 case 'e':
 c42iMXe811 = hCX2oD_U4(1964159270, dfut4_qJdx);
@@ -357,7 +357,7 @@ if (Zj00O != -1420563140)
 
 }
 }
-Ir_m_79le8 = lnF6x9p3();
+
 return 0;
 }
 

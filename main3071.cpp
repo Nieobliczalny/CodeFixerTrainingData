@@ -37,7 +37,7 @@ int main(int argc, char** argv)
   r3lRh4ZTS  =  649990031;
   EojyvNK_13  =  1724560440;
 
-  w1nIh30  =  -1363658419;
+
   o0Ia  =  959962457;
   BtpPN  =  -126935812;
   ASL_5DD  =  -48099935;
@@ -59,7 +59,7 @@ int main(int argc, char** argv)
   THUqUQ  =  364921204;
 
   o3Af  =  -315890961;
-  frp9pHmA  =  -1476388699;
+
   uk16O1  =  -1690341270;
   XhA176vk  =  -2028516030;
 
@@ -201,7 +201,7 @@ case 'c':
 r3lRh4ZTS = (int)floor(THUqUQ);
 break;
 case 'd':
-mq7HIK = (int)abs(obQZO) + (906749873);
+
 break;
 default:
 cCryZ = mq7HIK / 1013740992;

@@ -114,7 +114,7 @@ nQ9eMGx357 = KgWI5AR6();
 
 
 KbRq7C = xhb9 / KSdf2A0y;
-Z232 = KgWI5AR6();
+
 switch (fM39KLd_53)
 {
 case 0:
@@ -239,7 +239,7 @@ case 'b':
 
 break;
 default:
-jH_5a = (int)abs(T3Yx7PB);
+
 break;
 }
 }

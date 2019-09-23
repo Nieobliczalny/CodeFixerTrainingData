@@ -160,7 +160,7 @@ case 'e':
 Vd06ts9mp = Nrdc(Vd06ts9mp, 904413358, fGBg, uVY04Ke0J8, ek_47);
 break;
 case 'f':
-N__iI = (int)abs(X89QymUg3);
+
 break;
 case 'g':
 

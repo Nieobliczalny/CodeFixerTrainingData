@@ -353,7 +353,7 @@ k++;
 switch (TJAhpF_k0)
 {
 case 0:
-YIY2v4i_q_ = KNSSc();
+
 break;
 case 1:
 q6mb5Q2 -= NOGp8WvGK;

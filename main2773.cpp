@@ -114,7 +114,7 @@ case 2:
 
 break;
 default:
-Ps8857sY7 = (int)abs(Vk6lUo);
+
 break;
 }
 }

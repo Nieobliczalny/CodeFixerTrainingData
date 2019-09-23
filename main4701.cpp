@@ -424,7 +424,7 @@ case 'b':
 
 break;
 case 'c':
-Nf968a = Q3K0_57qg1(Nf968a, -470712772, He99_X, 363342264);
+
 break;
 case 'd':
 Pj3e = Q3K0_57qg1(1674476859, 315262396, 1345794725, -619821096);
@@ -442,7 +442,7 @@ case 'h':
 
 break;
 case 'i':
-W17PHl = HtbURVrbvj() ^ 1357359539;
+
 break;
 }
 }
@@ -556,7 +556,7 @@ while (i >= 0)
 }
 
 
-NKBb5m7_60 *= 1759405101;
+
 {
 int i = 8;
 while (i >= 0)

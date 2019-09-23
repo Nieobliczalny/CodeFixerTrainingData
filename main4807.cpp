@@ -582,7 +582,7 @@ case 3:
 Ssc6W0jM0W--;
 break;
 case 4:
-UC_Wd294D = BiV7c959t_ - 1866829706;
+
 break;
 case 5:
 EZiwJxbTy *= 503877330;
@@ -643,7 +643,7 @@ else if (Af7wV != 1975219341)
 }
 else if ((P3xEV6gYt6 <= 1095779976) || ((sUaj >= 690918293) || (Gg_v4Nx0 <= NQXDE0_)))
 {
-G1Wf45 = U27B3dOZ & 1204702220;
+
 }
 else if (L6O3fZ)
 {

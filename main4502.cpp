@@ -302,7 +302,7 @@ case 4:
 d0924y_GY4--;
 break;
 case 5:
-eXOHY = x5PGhg8 >> 1418251347;
+
 break;
 case 6:
 
@@ -413,7 +413,7 @@ int i = 0;
 do
 {
 i++;
-cmu30o = (int)(oi7iN8);
+
 }
 while (i < 1);
 }

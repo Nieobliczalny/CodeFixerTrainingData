@@ -117,7 +117,7 @@ int main(int argc, char** argv)
 
 if (g1ijyGsA == 0)
 {
-	TRL2R46 = m_u2_jj / g1ijyGsA;
+
 }
 
 
@@ -206,7 +206,7 @@ case 0:
 
 break;
 case 1:
-V066W11H2o = f844ye8PB(D4cUb4KnOy);
+
 break;
 case 2:
 z3to4Md = f844ye8PB(e2cPj_Ck);
@@ -263,7 +263,7 @@ else if ((wX0_Z <= aA2x) || (U6Vhi0P != 949836240))
 }
 else
 {
-g1ijyGsA = f844ye8PB(L5AMdli1);
+
 }
 }
 }
@@ -293,7 +293,7 @@ case 0:
 U4jzsKf68J *= 1711780387;
 break;
 case 1:
-gb3df_L0y = (int)floor(GPNOhNEwt);
+
 break;
 case 2:
 
@@ -305,7 +305,7 @@ case 4:
 
 break;
 case 5:
-u4gOg49t9O = (int)ceil(GPNOhNEwt);
+
 break;
 case 6:
 z3to4Md = f844ye8PB(nWKK_mz);

@@ -153,7 +153,7 @@ case 'b':
 break;
 }
 
-G7CL6_ /= 487818230;
+
 cout << Yl9ynz6I(2134400395, v95TQz4ETq, hC_Pq, fpvu6_, -501998851) << "F6BX73qf" << "by46" << Lw8cg << endl;
 try
 {
@@ -358,7 +358,7 @@ case 6:
 y2J4v7Oj = Yl9ynz6I(202260639, kLk672f7K6, -299687843, c71TL, 681458920);
 break;
 case 7:
-Gzl7es |= 2048776772;
+
 break;
 default:
 KDVo = fpvu6_ << 425405425;

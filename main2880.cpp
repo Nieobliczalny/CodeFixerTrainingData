@@ -70,7 +70,7 @@ switch (W2GW)
 {
 case 'a':
 case 'A':
-kv_7tw5K6d = (int)floor(q163Z6V8_);
+
 break;
 case 'b':
 case 'B':
@@ -229,7 +229,7 @@ else
 {
 
 }
-ccz2a = ERvx08D5(2142452696);
+
 {
 int i = 0;
 while (i < 9)
@@ -250,7 +250,7 @@ case 2:
 t2k0dok = (z2on9 > -1767013405) ? 2055116652 : -753431492;
 break;
 case 3:
-c3k8bByBP0 /= 1758837242;
+
 break;
 case 4:
 xFl6nsVI *= 1889805106;
@@ -265,7 +265,7 @@ case 7:
 
 break;
 default:
-a0o_zaW_ = (int)ceil(DdX63LQuW);
+
 break;
 }
 

@@ -118,7 +118,7 @@ case 'd':
 F_Z_oE_OA = RQnQvCo_ | O1t6;
 break;
 default:
-g93L = (ka4mKtW != -1913402543) ? f2j_lw() : RQnQvCo_;
+
 break;
 }
 j++;
@@ -215,7 +215,7 @@ if (jb0__JF != 1585054876)
 }
 else if (SnN15K05 != -2072818550)
 {
-Vpsq9Iq2 = (int)abs(d5m6mw);
+
 }
 else if (fJU0r4FJ == -1986521908)
 {
@@ -423,7 +423,7 @@ case 2:
 
 break;
 default:
-RQnQvCo_ = F_Z_oE_OA & 2005144106;
+
 break;
 }
 }
@@ -442,7 +442,7 @@ break;
 }
 }
 
-mqhbjn7 <<= 1920890827;
+
 
 {
 int i = 4;

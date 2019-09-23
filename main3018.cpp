@@ -521,7 +521,7 @@ case 7:
 
 break;
 default:
-bXJ_P_wj &= yv1Dj_kD6;
+
 break;
 }
 

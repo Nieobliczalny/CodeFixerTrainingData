@@ -25,7 +25,7 @@ int main(int argc, char** argv) {
 
 	yuHIE2	=	-711752603;
 	m_cg2f95	=	1503669214;
-	FCGc_8fv4	=	476466373;
+
 	G87s78oTO	=	-1741606859;
 	QdOq	=	1196525244;
 	q9AjDT8Lyi	=	863594773;
@@ -56,7 +56,7 @@ cout << SPY_hd6d << Y_UXD0_s(q9AjDT8Lyi, SPY_hd6d, -342053556, 821144706, tkxNuT
 }
 else if (ka9p)
 {
-G87s78oTO = PzRO4mSVz6(G87s78oTO, -1193177362, 442618336, P_BdQMAG, hV6_S5);
+
 }
 else if (m_cg2f95 > -1467362087)
 {
@@ -86,7 +86,7 @@ i--;
 
 for (int i = 0; i < 1; i++)
 {
-G87s78oTO = (long long)(fLz5);
+
 }
 
 hV6_S5 = m_cg2f95 / SPY_hd6d;

@@ -294,7 +294,7 @@ case 'b':
 xS4ch = Wtg44();
 break;
 case 'c':
-u_O8Z1ba = OAS2 ^ 778523469;
+
 break;
 case 'd':
 xS4ch = Wtg44();
@@ -366,7 +366,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-eu79 = (int)abs(vjQBHp5KO3);
+
 break;
 }
 {
@@ -401,7 +401,7 @@ xS4ch = Wtg44();
 
 try
 {
-kcTCGGRr6 = AG9M8CGP7h << 562306296;
+
 }
 catch (int& errorCode)
 {

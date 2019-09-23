@@ -406,7 +406,7 @@ case 6:
 auGp20 = h94I % zJLIC3d9E;
 break;
 case 7:
-u64r2E31u = zJLIC3d9E % 907599799;
+
 break;
 default:
 hD80 = (int)floor(n_28d_);
@@ -448,7 +448,7 @@ case 1:
 
 break;
 case 2:
-wiT_ = (int)abs(a0Mwlsk2u);
+
 break;
 default:
 i9eDH_3j = CWZ5KIk89(i9eDH_3j, zJLIC3d9E, wm12rKQCa2, f25HY);

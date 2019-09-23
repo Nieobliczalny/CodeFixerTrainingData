@@ -39,7 +39,7 @@ int main(int argc, char** argv)
  r47Omm = -1526908031;
 
  f6Z1PKYg = -434441026;
- CD11 = 432568832;
+
  F6O0ZIwb = -317913647;
 
  BM2bgF79 = -642448793;
@@ -81,7 +81,7 @@ int main(int argc, char** argv)
  M8Un = 218211170;
 
  T84KB = 1579046630;
- b5aiSuAT97 = 1903501366;
+
  T_Jt = 59691882;
  dKLC = 1014848971;
  qP5U_40U = 1162967037;
@@ -290,7 +290,7 @@ case 'b':
 
 break;
 case 'c':
-rBI9Zn = (int)ceil(ViqVbD);
+
 break;
 case 'd':
 N7kTTZC5 = (int)abs(ke16);
@@ -337,7 +337,7 @@ else
 switch (x52M6hW)
 {
 case 'a':
-tkQ5sa0cMj = f6Z1PKYg / m9b7AhsdoZ;
+
 break;
 case 'b':
 
@@ -404,7 +404,7 @@ jd_Td62 = j6b93 * r47Omm;
 switch (j8fNVqrSG)
 {
 case 'a':
-tkQ5sa0cMj = ViqVbD * 923295821;
+
 break;
 case 'b':
 r47Omm = (int)abs(k2gDC9);
@@ -424,7 +424,7 @@ break;
 }
 
 
-j6b93 = (int)floor(Ta2vIIXYKe);
+
 
 {
 int i = 0;
@@ -470,7 +470,7 @@ case 2:
 
 break;
 case 3:
-Wh6NYhaFpE = (int)floor(SE13l);
+
 break;
 case 4:
 WPGd_u4w1 = (int)ceil(ViqVbD);
@@ -485,7 +485,7 @@ case 7:
 
 break;
 case 8:
-f6Z1PKYg = (int)ceil(odvxoZYa);
+
 break;
 case 9:
 CD11 = (int)floor(YA6Lq);
@@ -517,7 +517,7 @@ case 1:
 break;
 }
 std::cout << j8fNVqrSG << "GAPaU" << std::endl;
-Ta2vIIXYKe = (int)abs(Hx8xTWU);
+
 
 if (N1db3zsr != -2024595241)
 {

@@ -87,7 +87,7 @@ while (i < 6);
 
 
 
-jvlOhz4pDJ = (int)abs(VtYOIsd_);
+
 try
 {
 switch (s5dw)

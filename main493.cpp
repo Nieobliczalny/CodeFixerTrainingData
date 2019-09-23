@@ -15,7 +15,7 @@ int main(int argc, char** argv) {
     bKD3Slh    =    -1158083867;
 
     j1VPqR6    =    751737665;
-    M14e7OTe    =    -730660447;
+
 
     NLp161v0T    =    -645776544;
     f6m2oX8s8x    =    1696771357;
@@ -31,7 +31,7 @@ int main(int argc, char** argv) {
     zo7oDx5M7N    =    795257730;
 
 
-    DF9B    =    1577702162;
+
     BEWEF4    =    -426977342;
     r0MlbK    =    2124920414;
     G33p    =    971296782;
@@ -57,7 +57,7 @@ int main(int argc, char** argv) {
 
     GY_Th    =    1232819108;
 
-    s0e0    =    -1577936709;
+
     D65qUfVne    =    2054787962;
     hAa6Xkh2    =    894708685;
     zr7_lC    =    -33494851;
@@ -345,7 +345,7 @@ case 2:
 fFkB5_oLL--;
 break;
 case 3:
-aX_4MXi = (int)abs(dpY565);
+
 break;
 case 4:
 

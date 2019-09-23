@@ -19,7 +19,7 @@ char udr1177(unsigned char Y1h1jSkflb,int JzRVdh0XpF,char NX_m81,unsigned char p
 int main()
 {
     long double    O2pExdBZ_;
-    O2pExdBZ_    =    103170251;
+
  unsigned char t23Np1O;
  t23Np1O = 1363740476;
 	short	d_PlP;
@@ -39,7 +39,7 @@ int main()
 	unsigned char	lr1_E3s5;
 	lr1_E3s5	=	1806864799;
   unsigned char  y1tu3;
-  y1tu3  =  459909203;
+
 	unsigned char	b18o17uxxE;
 	b18o17uxxE	=	-438333245;
  long U9XCyY;
@@ -57,7 +57,7 @@ int main()
 	long	wJoArHtH;
 	wJoArHtH	=	674256530;
 	short int	Kl36_o8t;
-	Kl36_o8t	=	428143315;
+
 	unsigned short	e771X4p2;
 	e771X4p2	=	-1332418093;
   unsigned short  vblnzl6;
@@ -69,7 +69,7 @@ int main()
 	unsigned short int	tV9C;
 
   float  l2z0bT;
-  l2z0bT  =  403780591;
+
     int    R5wwFUubb;
     R5wwFUubb    =    -71838320;
     unsigned char    hCNcl27;
@@ -101,7 +101,7 @@ int main()
 	short int	kmHAr;
 	kmHAr	=	-582163687;
   short int  nY7LLNU;
-  nY7LLNU  =  -901515850;
+
 	unsigned long	ji3h5h7f24;
 	ji3h5h7f24	=	73488176;
 	long long	u_9Y;
@@ -219,7 +219,7 @@ for (int i = 0; i < 10; i++)
 {
 for (int j = 5; j >= 0; j--)
 {
-u_9Y = (int)abs(h42AO9o_0_);
+
 }
 }
 
@@ -250,7 +250,7 @@ case 2:
 lr1_E3s5--;
 break;
 case 3:
-dH5P5Bc3EI = zKMI(dH5P5Bc3EI, -1226153116);
+
 break;
 default:
 
@@ -266,7 +266,7 @@ case 'b':
 
 break;
 case 'c':
-jul7yxdY1y = (int)abs(kmHAr);
+
 break;
 case 'd':
 dH5P5Bc3EI = (int)ceil(p6UXzH_Q);

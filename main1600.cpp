@@ -153,7 +153,7 @@ ejg8_Vbp3j ^= 408926145;
 switch (rFO5Gu)
 {
 case 0:
-ImKoW = hkh97Nl();
+
 break;
 case 1:
 Zz6Ezvv = (int)abs(Llfok0Qrx);
@@ -165,7 +165,7 @@ case 3:
 
 break;
 case 4:
-yO1d88 = er7scN_8o();
+
 break;
 case 5:
 S8494p = er7scN_8o();

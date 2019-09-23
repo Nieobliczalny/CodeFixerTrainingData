@@ -191,7 +191,7 @@ case 'a':
 
 break;
 case 'b':
-Z0j1 = s7d7mx21HH % 1544241756;
+
 break;
 case 'c':
 V2bh *= 1254985408;
@@ -308,7 +308,7 @@ else if ((lYaoP8w7w > y89Kt) && (BF_pTy3Zk > -223395624))
 {
 if ((BF_pTy3Zk >= -146146015) || (Aq_fF == xR3mktLJ))
 {
-J2CP7 = StDfWUeC73 % 447341930;
+
 }
 else
 {

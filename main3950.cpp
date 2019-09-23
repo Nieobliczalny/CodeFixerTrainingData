@@ -254,7 +254,7 @@ case 1:
 
 break;
 case 2:
-y4_C3 = PEXU_7W6 ^ R6R02;
+
 break;
 case 3:
 m08nrDLStR %= 1934977361;
@@ -358,7 +358,7 @@ case 2:
 xt6ir23Z &= m08nrDLStR;
 break;
 case 3:
-I7VW >>= vBCb2j7f;
+
 break;
 case 4:
 wiN0l5hg = l0gY & i_a4UO995;
@@ -450,7 +450,7 @@ do
 ++j;
 for (int k = 0; k < 5; ++k)
 {
-I7VW = i_a4UO995 % N9wof;
+
 }
 }
 while (j < 6);
@@ -488,7 +488,7 @@ case 5:
 wGcSR = (int)abs(i_a4UO995);
 break;
 case 6:
-H9au = KJaP62uE6 ^ W3B6cZPb5s;
+
 break;
 case 7:
 DFGyF6If %= wiN0l5hg;
@@ -537,7 +537,7 @@ else if ((BY4T0u74rv < z_c8NJf) && (tfKVVf == e7nFE7))
 }
 else
 {
-vBCb2j7f = e7nFE7 % Oh947;
+
 }
 }
 else if ((R6R02 & 14842849) || (N9wof < -653869395))
@@ -579,7 +579,7 @@ case 2:
 
 break;
 case 3:
-y4_C3 = DM2EI41221 * 1173378542;
+
 break;
 case 4:
 mlrN0 = PEXU_7W6 / 349757033;

@@ -229,7 +229,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-uSl0 = pmAU22 - 25379420;
+
 break;
 case 'f':
 case 'F':
@@ -332,7 +332,7 @@ while (k >= 0);
 
 
 
-rf_9Zmxni = trXc / ZZZng7_3(fuy8, Q66KdYcz9G, TlZpr0, -431016641, 1808131133);
+
 return 0;
 }
 

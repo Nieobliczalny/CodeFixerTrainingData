@@ -210,7 +210,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-I2V7 = (int)abs(U1pCni_);
+
 break;
 case 'g':
 case 'G':
@@ -237,7 +237,7 @@ else if (ZSd30LZ != 1958422787)
 }
 else
 {
-xoA2G4 = U3tr7ns_ / 171017378;
+
 }
 }
 else
@@ -252,7 +252,7 @@ else if (lQQL7zrHM == -841177131)
 }
 else
 {
-Gqn14U_77V = xoA2G4 - 1521231048;
+
 }
 }
 }
@@ -268,7 +268,7 @@ while (j >= 0)
 }
 }
 
-xoA2G4 = (float)(PxLtH);
+
 
 {
 int i = 0;

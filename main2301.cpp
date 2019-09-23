@@ -103,7 +103,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-KMpbcO = (int)floor(gcrCU);
+
 break;
 default:
 

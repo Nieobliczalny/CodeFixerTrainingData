@@ -225,7 +225,7 @@ case 3:
 
 break;
 case 4:
-bpw6gisye >>= jyJlJ9x8g1;
+
 break;
 case 5:
 
@@ -259,7 +259,7 @@ case 'C':
 VwHf = n4G6Kz(1200050053);
 break;
 default:
-a82Fb = K0PMWTtm0(a82Fb, 2136696424, -1903207573);
+
 break;
 }
 
@@ -430,7 +430,7 @@ case 2:
 yf1iux = HVpx01L3p >> 966996127;
 break;
 case 3:
-W08QNqhM %= mG2N0mr8r;
+
 break;
 case 4:
 
@@ -497,7 +497,7 @@ EjbeIALo1 /= 2015019214;
 break;
 case 'h':
 case 'H':
-l8_gBTnoM = qqnH_ - 258856768;
+
 break;
 case 'i':
 case 'I':

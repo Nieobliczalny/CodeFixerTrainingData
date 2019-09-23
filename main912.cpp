@@ -219,7 +219,7 @@ else
 {
 
 }
-b32p = (unsigned int)(wdLJ9_iW02 + (fDJ50));
+
 
 for (int i = 9; i >= 0; --i)
 {
@@ -528,7 +528,7 @@ O_vh1GnD4 = I5Z9kNb6W();
 
 
 
-jpz77k5ZH8 = (unsigned int)(OB8V8f);
+
 for (int i = 0; i < 2; i++)
 {
 OUhbfyK_2 = I5Z9kNb6W();

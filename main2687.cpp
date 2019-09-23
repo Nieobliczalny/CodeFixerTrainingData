@@ -237,7 +237,7 @@ if (((g121C_1b >= -753018368) && (gb_T == 1980141799)) || (uVO5g))
 
 }
 
-AaT1E738lJ = (int)floor(h_0j);
+
 
 
 
@@ -259,7 +259,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-F887S = BC492Gnu4 >> 547343;
+
 break;
 case 'd':
 case 'D':

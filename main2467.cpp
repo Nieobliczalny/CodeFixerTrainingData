@@ -19,7 +19,7 @@ int main(int argc, char** argv) {
 
     aU97    =    0;
 
-    bx2S9303db    =    0;
+
   unsigned short  Bd2_9pF7,  HynqoAIA9,  Uk4Yev,  CXX3ZJQ884,  k4gD0,  CK7agKYKL1,  qpaS_Z,  PPH16S,  c_ESX0,  GG0Ko3Z5,  T54fJ,  sz_c0,  r2Q69I,  fYs_Whe,  azi2zo8ikX,  Y3qbPcJiP2,  kTH3rHT8,  ucxud,  Ur3C45cw,  Bxe4p,  kWkq,  cFSmLai,  u_fvR,  Mndyn4HK18,  jhXgH63S57,  KnX7q8Z383,  CIf_HGP,  xMqPkYDmEZ;
   Bd2_9pF7  =  1220767145;
   HynqoAIA9  =  1596053174;
@@ -30,7 +30,7 @@ int main(int argc, char** argv) {
   qpaS_Z  =  -75943596;
 
   c_ESX0  =  -1899619562;
-  GG0Ko3Z5  =  1766398776;
+
   T54fJ  =  -1089554240;
   sz_c0  =  -1949441571;
   r2Q69I  =  -1644182081;
@@ -40,7 +40,7 @@ int main(int argc, char** argv) {
   kTH3rHT8  =  1031231868;
 
   Ur3C45cw  =  -1318492122;
-  Bxe4p  =  -1233141186;
+
   kWkq  =  1537938073;
   cFSmLai  =  -1846591667;
   u_fvR  =  1388333982;
@@ -53,7 +53,7 @@ int main(int argc, char** argv) {
 
 std::cout << qHK1(6251973, HynqoAIA9, -1316878129, CXX3ZJQ884, k4gD0) << erRgz4z8(-815549232, HynqoAIA9, Uk4Yev, CXX3ZJQ884) << "id6v0676U" << qpaS_Z << "sIH1YU" << std::endl;
 
-c_ESX0 = v60k9tYmYo(c_ESX0, HynqoAIA9, cFSmLai, -943599758);
+
 
 for (int i = 4; i >= 0; i--)
 {
@@ -71,7 +71,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-qpaS_Z = T54fJ << 953625492;
+
 break;
 case 'd':
 case 'D':
@@ -84,7 +84,7 @@ for (int i = 6; i >= 0; --i)
 
 }
 
-kTH3rHT8 = (unsigned short)(xMqPkYDmEZ);
+
 return 0;
 }
 

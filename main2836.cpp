@@ -70,7 +70,7 @@ int main(int argc, char** argv)
 	unsigned long	UiEc;
 	UiEc	=	-2005666251;
 	short	ZSR2;
-	ZSR2	=	-365557371;
+
     long double    sK9fSl;
     sK9fSl    =    1510961588;
  long double sU_67JL1Z;
@@ -98,7 +98,7 @@ int main(int argc, char** argv)
     unsigned long long    vvZiR;
 
     long long    FUbn;
-    FUbn    =    -1426677851;
+
     float    FgPVOcwc;
     FgPVOcwc    =    -1688325861;
   unsigned long long  KC5u53;
@@ -428,7 +428,7 @@ case 'a':
 ZvMcLn = V7VkY46m5();
 break;
 case 'b':
-ZSR2 = xU5i * 291373283;
+
 break;
 case 'c':
 
@@ -478,7 +478,7 @@ case 'd':
 
 break;
 case 'e':
-RtVl_K = (int)abs(ghICDH6);
+
 break;
 default:
 ZvMcLn = V7VkY46m5();
@@ -659,7 +659,7 @@ case 'b':
 
 break;
 case 'c':
-sU_67JL1Z = (int)floor(AU_xyT64f);
+
 break;
 case 'd':
 pdAPm = (int)floor(ckQkjdph);
@@ -671,7 +671,7 @@ case 'f':
 
 break;
 case 'g':
-ZvMcLn = V7VkY46m5();
+
 break;
 case 'h':
 gO_2RC = cOpYM % mF55_U280;

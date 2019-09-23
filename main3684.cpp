@@ -325,7 +325,7 @@ else if (E0scj)
 }
 else if (Nh4UO662 != -2001206433)
 {
-BEIJW_ = (int)ceil(Nh4UO662);
+
 }
 else if (kskmH >= PBGWx)
 {

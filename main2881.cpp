@@ -72,7 +72,7 @@ std::cout << "vQgcDtMD" << qhne7c << std::endl;
 
 
 h27uNDNO8_ = t_VKL5hty(228267163, 501068885);
-z_6GO = t_VKL5hty(y0kgv, SyVns0) / QNcK81;
+
 
 for (int i = 10; i >= 0; --i)
 {
@@ -124,7 +124,7 @@ j++;
 }
 }
 
-T_mJ67opR /= U1ehx1jr;
+
 
 for (int i = 8; i >= 0; --i)
 {
@@ -145,7 +145,7 @@ case 3:
 U1ehx1jr /= at_8FuS6;
 break;
 case 4:
-R4H2 = (int)ceil(P06d461FA);
+
 break;
 }
 }

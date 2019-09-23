@@ -30,7 +30,7 @@ int main(int argc, char** argv)
  double s7_XJ;
  s7_XJ = -78172613;
   unsigned long long  RUrI3z;
-  RUrI3z  =  645095802;
+
 	unsigned char	I775;
 
 	long double	yjzw;
@@ -54,7 +54,7 @@ int main(int argc, char** argv)
   double  uCLR;
 
 	unsigned long	OuIB2qkQ;
-	OuIB2qkQ	=	0;
+
   unsigned long  ue4Exig;
   ue4Exig  =  -1844965947;
  short PZun0i;
@@ -70,7 +70,7 @@ int main(int argc, char** argv)
  long double yPA_u3;
 
 	int	C03HFA6CJ8;
-	C03HFA6CJ8	=	-1798795503;
+
   unsigned long long  Y2aaHC3H77;
   Y2aaHC3H77  =  -274988077;
 	int	CKba0w94j;
@@ -158,7 +158,7 @@ Ox5HI1 = IR1JNRM(-1412471091);
 break;
 }
 
-yPA_u3 = (int)ceil(VNjLpJh3y1);
+
 {
 int i = 0;
 while (i < 5)
@@ -241,7 +241,7 @@ case 6:
 
 break;
 case 7:
-d7kapdrj = (int)abs(r_AULH_9);
+
 break;
 case 8:
 

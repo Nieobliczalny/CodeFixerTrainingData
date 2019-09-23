@@ -177,7 +177,7 @@ int main(void)
   unsigned char  lh_xpj92u;
   lh_xpj92u  =  491302977;
     char    Xjyd5Wrh;
-    Xjyd5Wrh    =    -653562105;
+
     unsigned long long    Ufx0Nn48UV;
     Ufx0Nn48UV    =    31662245;
 	unsigned int	c0892ms;
@@ -449,7 +449,7 @@ std::cout << "ohIf" << "opGhy36Y" << "M5m8FCL" << bG287 << std::endl;
 }
 else if (al8vLL3Q != C9p4n3E)
 {
-J84T_08 = (long double)(ZE2iK + (505362344));
+
 }
 else if (fhfm3 != -977421038)
 {
@@ -552,7 +552,7 @@ int j = 5;
 while (j >= 0)
 {
 j--;
-sZK5Vimg = pgO_66v5_i();
+
 }
 }
 ++i;
@@ -652,7 +652,7 @@ else if ((P5_Es1xkS <= ZE2iK) && (AQeQO > IA_8UrnC3j))
 }
 else if (Kboj24I >= ZE2iK)
 {
-AQeQO |= T0fI1;
+
 }
 else
 {
@@ -702,7 +702,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-xXMUCde_S = (int)abs(jC_Xu);
+
 break;
 case 'd':
 case 'D':
@@ -722,7 +722,7 @@ case 'G':
 break;
 case 'h':
 case 'H':
-wie87I = pgO_66v5_i() % rRjsFS;
+
 break;
 case 'i':
 case 'I':
@@ -754,7 +754,7 @@ case 3:
 
 break;
 default:
-oUZlH_ = (int)abs(T8_1z8M27u);
+
 break;
 }
 }
@@ -824,7 +824,7 @@ case 'b':
 
 break;
 case 'c':
-ec1Z_ = BKxGcWx(1213740268, 1103245525, -2113103234, 510798829);
+
 break;
 }
 }

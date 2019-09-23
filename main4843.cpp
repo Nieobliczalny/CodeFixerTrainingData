@@ -129,7 +129,7 @@ try
 {
 if (g1VO88P & ntWg1E71)
 {
-Cwi6SFpEj %= NbFtvMwX;
+
 }
 else
 {
@@ -379,7 +379,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-jx7cjnm0R_ = SCTyex(jx7cjnm0R_, n7Nh7, W9d1Iaf9, -1038899263);
+
 break;
 case 'd':
 case 'D':

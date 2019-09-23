@@ -73,7 +73,7 @@ int main(int argc, char** argv) {
     long    fN130xu_9;
 
     unsigned long    CZr9bP;
-    CZr9bP    =    287999755;
+
  unsigned int Ty02;
  Ty02 = -524112622;
 	unsigned char	O685;
@@ -105,7 +105,7 @@ int main(int argc, char** argv) {
     short    tPnWAyw5Ae;
     tPnWAyw5Ae    =    0;
   float  EsaTfLPpWM;
-  EsaTfLPpWM  =  1500235793;
+
   int  t8pFy;
   t8pFy  =  -566467541;
     double    FDh8_zk;
@@ -143,7 +143,7 @@ int main(int argc, char** argv) {
 	unsigned short int	yWEd4s8KgL;
 
 	unsigned short int	fFH0VCo;
-	fFH0VCo	=	-2019217118;
+
  char w_9T0D2fyK;
  w_9T0D2fyK = -782177132;
     unsigned short    hB6CrxW;
@@ -311,7 +311,7 @@ tPnWAyw5Ae = aXg_8HmFF(-1278928506, Af6D, 1642504300, 193051507, vsCC4Uot00);
 }
 else if (QkFinR7 > -1449930932)
 {
-EsaTfLPpWM = XH3FCEXdG() / 1683032467;
+
 }
 else
 {
@@ -323,7 +323,7 @@ else
 cout << "Ny92Z8ZeMJ" << endl;
 }
 }
-QI60a0 = w_9T0D2fyK / tPnWAyw5Ae;
+
 
 {
 int i = 0;
@@ -381,7 +381,7 @@ if ((cB5_5Y) && (Wjb0mnn <= ATKP3Fz5C))
 }
 else if (Ve9147iNeF == c7XRRx06R1)
 {
-QI60a0 = (unsigned long)(ATKP3Fz5C + (1083423791));
+
 }
 else if ((t8pFy > ATKP3Fz5C) && (h4_X_9Ih1 <= ATKP3Fz5C))
 {
@@ -408,7 +408,7 @@ case 0:
 
 break;
 case 1:
-b51E82F = UD9Qd850(b51E82F);
+
 break;
 default:
 
@@ -419,7 +419,7 @@ if (((Fjm97pNu > hB6CrxW) && (Kw6F != -1610006541)) || (w_9T0D2fyK != ATKP3Fz5C)
 {
 
 }
-geih = (long)(tF7QQIqDn5);
+
 
 for (int i = 4; i >= 0; i--)
 {

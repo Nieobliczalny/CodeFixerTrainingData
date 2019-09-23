@@ -31,7 +31,7 @@ int main(void) {
   unsigned char  bu6vH1T;
   bu6vH1T  =  -564289948;
     unsigned int    SbU43Ja;
-    SbU43Ja    =    360927557;
+
  long double je_1s;
 
  short int z7TcU48ZX3;
@@ -221,7 +221,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-g54MCy += 2017346406;
+
 break;
 case 'e':
 case 'E':
@@ -465,7 +465,7 @@ case 2:
 DyBT = (int)ceil(je_1s);
 break;
 case 3:
-wyunMEyy9 = qHSOs5zU();
+
 break;
 case 4:
 W1QK7fk5Pb = Q851u8 << 901348646;

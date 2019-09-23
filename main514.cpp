@@ -143,7 +143,7 @@ yKlq6W5 <<= H10Eg7;
 break;
 case 'c':
 case 'C':
-Q_Pu = vx6_Z5U33();
+
 break;
 case 'd':
 case 'D':
@@ -255,7 +255,7 @@ case 'd':
 
 break;
 case 'e':
-I2QRj *= sSu4NkSW;
+
 break;
 case 'f':
 VQHEctrA = KrbG2nv() | Jp4sTf;
@@ -294,7 +294,7 @@ case 7:
 t4V0 = P6_7IQ(1470020902);
 break;
 case 8:
-QRGCeF = (e1P760_Np != xwlM) ? 1436436875 : P6_7IQ(-1083175856);
+
 break;
 case 9:
 mqo_ = vx6_Z5U33();
@@ -407,7 +407,7 @@ else
 }
 std::cout << i8Koc(s5CDPRgc) << std::endl;
 
-SFXY = KrbG2nv() << 312871937;
+
 
 if (Fs8naQ48_ == M3HGcm)
 {
@@ -419,7 +419,7 @@ try
 {
 try
 {
-Vmg7c4R9i = i8Koc(OLKL);
+
 }
 catch (int& errorCode)
 {
@@ -477,7 +477,7 @@ if (Fs8naQ48_ >= VQHEctrA)
 }
 else
 {
-Vmg7c4R9i = i8Koc(-862966838);
+
 }
 }
 }

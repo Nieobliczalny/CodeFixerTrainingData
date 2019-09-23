@@ -102,7 +102,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-BvBwuIJU |= ZT1IT3HuI;
+
 break;
 case 'g':
 case 'G':
@@ -536,7 +536,7 @@ else
 
 }
 
-othZ6_J9qQ = N__3GTX / v38MN2_M49;
+
 
 for (int i = 2; i >= 0; --i)
 {
@@ -558,7 +558,7 @@ case 4:
 
 break;
 default:
-q5gEhXenY4 = Ps53R & L1b14s9l7;
+
 break;
 }
 }
@@ -577,7 +577,7 @@ Ps53R = h__V7ZNKz >> V8ZF7T;
 break;
 case 'b':
 case 'B':
-X40So = Og6sWK(X40So, -1870709643, q085gT_);
+
 break;
 case 'c':
 case 'C':
@@ -665,7 +665,7 @@ case 4:
 Ps53R -= 1170354572;
 break;
 case 5:
-h__V7ZNKz = zz01 & 956860371;
+
 break;
 case 6:
 xM__Z ^= 651436052;

@@ -32,7 +32,7 @@ int main()
     alMci_8M    =    -368668447;
     Y4AMs    =    -1548117187;
     g_J4    =    -8119051;
-    O4n59w_0    =    496380500;
+
     gzYb7W    =    -1950108285;
 
     eCZ88o    =    1611285691;
@@ -473,7 +473,7 @@ case 1:
 
 break;
 case 2:
-eCZ88o = (int)abs(Cbw2);
+
 break;
 case 3:
 g_J4 = g_J4 - UX4H;
@@ -795,7 +795,7 @@ if (rxfh & 1903221362)
 }
 }
 
-gGnuF3 -= r94LL;
+
 return 0;
 }
 

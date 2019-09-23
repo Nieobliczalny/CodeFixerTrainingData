@@ -121,7 +121,7 @@ QiZq8C = (int)ceil(l936c72);
 break;
 case 'b':
 case 'B':
-lZl9ke = (int)floor(A562PRJ);
+
 break;
 case 'c':
 case 'C':
@@ -169,7 +169,7 @@ case 'b':
 cCe01F = Ms70(-1418260922, z_b9Y8rn);
 break;
 case 'c':
-w9o2sCah = (int)floor(gA_MdM_v);
+
 break;
 case 'd':
 
@@ -234,7 +234,7 @@ case 'e':
 QiZq8C = (int)floor(r3Hh);
 break;
 case 'f':
-H89GXJ23wf = U5Dk2f | X84h4;
+
 break;
 }
 }
@@ -268,7 +268,7 @@ else
 }
 else
 {
-Q40f6 = (int)(wRTo2o0u);
+
 }
 
 
@@ -336,7 +336,7 @@ default:
 break;
 }
 
-y435 = (int)floor(A562PRJ);
+
 try
 {
 std::cout << QEM94Gqnd(2074471780) << EAq401AO9b << eCyPp7e02Q << "DEEXDr" << P6wLRFH0 << std::endl;

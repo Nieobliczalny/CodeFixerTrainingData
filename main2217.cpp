@@ -495,7 +495,7 @@ j++;
 }
 
 cout << "k7WmJyr" << "j0m2Q3" << V3055UrPX8 << vGZF << endl;
-Ql_5e_z = (int)abs(wjb6);
+
 cout << "jkZ_1gu" << ExsF(-1816867963, wgl_810V8c, Xq1_8wBNN, b_v0V) << "aLY3r" << "Rl3_4" << endl;
 if ((m_sDpN / f_OsJw) != -398236674)
 {
@@ -552,7 +552,7 @@ case 2:
 
 break;
 case 3:
-J_9d9 = ExsF(-2070248248, H58E, t3_WIB3_, qxp4LH);
+
 break;
 }
 }

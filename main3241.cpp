@@ -421,7 +421,7 @@ case 0:
 
 break;
 case 1:
-OKF3_7 |= 1457766563;
+
 break;
 case 2:
 
@@ -439,7 +439,7 @@ case 6:
 
 break;
 case 7:
-bv_U09IZ = kh4TC3lH7_(708337111);
+
 break;
 case 8:
 k81HyrQ1qk = (int)abs(OQBQSQ);

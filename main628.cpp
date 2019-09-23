@@ -300,7 +300,7 @@ else if ((t1Ng_31 & NW6f8e5H5) || (Q1v034Tw != OM19g866_X))
 }
 else if (CB0C > NW6f8e5H5)
 {
-U9Fh = (int)abs(N2U0i);
+
 }
 else
 {
@@ -394,7 +394,7 @@ case 0:
 
 break;
 case 1:
-q6Q5mX7 = b48jX12Zg1 & L34_KW2fa6;
+
 break;
 case 2:
 t1Ng_31 |= MOYEbs5u7;

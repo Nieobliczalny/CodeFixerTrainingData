@@ -298,7 +298,7 @@ else if (Pm8Tw3JtD & n2kZ)
 }
 else if (JH61X7FbD_ > GPl4TXXJ)
 {
-h5c5v1y = zbPm_o_8 ^ NIbCZy;
+
 }
 else if (vsXOTb79VL & -884933392)
 {
@@ -310,7 +310,7 @@ else if ((i2tY1T1XHL & UVWbp2c) || (k6qnXhv >= JA9Rmve))
 }
 else
 {
-OGI0C = (int)abs(BJEuMi);
+
 }
 }
 }

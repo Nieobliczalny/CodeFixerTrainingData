@@ -40,7 +40,7 @@ std::cout << "hvBj5JD6" << "OivCi_hu9" << "OR3t" << B0t_ZLEt(UT6mg, 1360431656) 
 
 for (int i = 8; i >= 0; --i)
 {
-z5J0MR = kU46(1704970024, X1KHCO6P, -26563861, r3uyg, LP51V);
+
 }
 
 {
@@ -229,7 +229,7 @@ case 2:
 BOzbOFaD++;
 break;
 case 3:
-BJ8V_6 = B0t_ZLEt(BJ8V_6, -774842621);
+
 break;
 case 4:
 

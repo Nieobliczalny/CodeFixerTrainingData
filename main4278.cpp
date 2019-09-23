@@ -146,7 +146,7 @@ N3cO = (int)abs(H421);
 break;
 case 'c':
 case 'C':
-Tu_Gp51HfA = G7Bs & 551674434;
+
 break;
 }
 switch (dD1F)
@@ -533,7 +533,7 @@ case 4:
 
 break;
 case 5:
-dD1F = Wwni / dD1F;
+
 break;
 case 6:
 N3cO &= 885622998;
@@ -545,7 +545,7 @@ case 8:
 
 break;
 case 9:
-XHU0Y577 &= o16MzpfGDz;
+
 break;
 }
 }
@@ -644,7 +644,7 @@ case 0:
 
 break;
 case 1:
-sZyBwaj = sZyBwaj / 917985463;
+
 break;
 case 2:
 x82q = (int)ceil(xZ8PONDt4);
@@ -674,7 +674,7 @@ k++;
 }
 }
 
-B55em0 = (unsigned short int)(npBh873);
+
 for (int i = 7; i >= 0; i--)
 {
 std::cout << "Qh010" << std::endl;

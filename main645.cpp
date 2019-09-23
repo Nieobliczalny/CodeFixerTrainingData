@@ -83,7 +83,7 @@ case 1:
 e2tP7a %= 32580117;
 break;
 case 2:
-TfaLj60 = (int)abs(o8_f);
+
 break;
 case 3:
 YWM7 >>= GgxaV5cE;
@@ -116,7 +116,7 @@ for (int j = 0; j < 7; j++)
 int k = 0;
 do
 {
-TfaLj60 = (int)floor(V8_E2B);
+
 k++;
 }
 while (k < 7);
@@ -130,7 +130,7 @@ case 0:
 
 break;
 case 1:
-pb8a2D = t928(pb8a2D, -918462132);
+
 break;
 default:
 

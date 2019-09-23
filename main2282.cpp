@@ -391,7 +391,7 @@ case 'f':
 
 break;
 case 'g':
-s0rF *= 1047767076;
+
 break;
 case 'h':
 Q1SEj7q6J8 = c4C2KF90op(Q1SEj7q6J8, O9xHg_K, -185702669, -1617410174);
@@ -544,7 +544,7 @@ for (int i = 9; i >= 0; i--)
 
 }
 
-j9T9Yx = (g25cj5 == PrW8) ? r_iw7xMr : M8a5fGoT4B(-517623963, SNIG6I);
+
 {
 int i = 3;
 while (i >= 0)

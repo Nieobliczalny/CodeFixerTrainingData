@@ -416,7 +416,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-AAHiL3 = WYlmRub_zT - 2141012641;
+
 break;
 case 'd':
 case 'D':
@@ -494,7 +494,7 @@ case 0:
 
 break;
 case 1:
-I460P767 = W8syl2QL06 ^ 1345813115;
+
 break;
 case 2:
 

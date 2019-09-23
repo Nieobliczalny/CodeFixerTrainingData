@@ -25,7 +25,7 @@ int main()
 	double	wuN2x_;
 
   char  TZAZo_HG1;
-  TZAZo_HG1  =  530473400;
+
     unsigned short    yYE6zi_0;
     yYE6zi_0    =    -1885200996;
   long  OWZpoTT7I;
@@ -41,7 +41,7 @@ int main()
     unsigned long    C6J9HUJ;
 
  double s943;
- s943 = 666208923;
+
   unsigned char  iTLzB_e;
   iTLzB_e  =  1044324926;
     unsigned short int    JCm_21;
@@ -55,7 +55,7 @@ int main()
     long double    S1__R_C;
     S1__R_C    =    1397686616;
   long  nSqRd3D0tN;
-  nSqRd3D0tN  =  0;
+
 	unsigned long	pw88I3iw;
 	pw88I3iw	=	-213052951;
   unsigned int  Aw4uwhx;
@@ -85,7 +85,7 @@ int main()
   float  y9TVdi;
   y9TVdi  =  535853933;
  short int vD4Vtyk;
- vD4Vtyk = -45351617;
+
   unsigned long long  u6_2_;
   u6_2_  =  -254176841;
   unsigned long  CbLRs0mA;
@@ -99,7 +99,7 @@ int main()
  char k5785;
  k5785 = -1039212585;
     int    W_kIwUNN;
-    W_kIwUNN    =    -258075952;
+
     unsigned short    lNYh;
     lNYh    =    -1943955287;
     short int    Ka06pY;
@@ -115,7 +115,7 @@ int main()
     unsigned int    gn4LV3PL;
 
  int LT04HTSGuu;
- LT04HTSGuu = 2038851659;
+
   unsigned char  kE8tzKh;
   kE8tzKh  =  -103886625;
   unsigned short  O7DA4J22;
@@ -131,7 +131,7 @@ int main()
 	unsigned int	lH35wl5;
 	lH35wl5	=	0;
     long double    Ps720Vi5lB;
-    Ps720Vi5lB    =    1908057555;
+
  unsigned short int vj3c6idU2;
 
 	long long	e71snv;
@@ -242,7 +242,7 @@ case 3:
 
 break;
 default:
-a7K0 += 974998127;
+
 break;
 }
 
@@ -254,7 +254,7 @@ while (j < 6)
 {
 try
 {
-EW46mMAbdd = T7MSiDp - 978400829;
+
 }
 catch (int& errorCode)
 {
@@ -333,7 +333,7 @@ case 'c':
 
 break;
 case 'd':
-q42S8Iv <<= 1310877194;
+
 break;
 case 'e':
 rK4Y2_ = (int)abs(VZNiN92BK) + (1024690185);

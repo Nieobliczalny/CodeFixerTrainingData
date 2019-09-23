@@ -19,7 +19,7 @@ int main()
   pl571i  =  0;
   hP51YR  =  0;
 	float	o_Dyxrqq,	oH3Kn_4nW,	NQlE2Gl,	d3H9rVs779;
-	o_Dyxrqq	=	264287857;
+
 	oH3Kn_4nW	=	327179079;
 	NQlE2Gl	=	101022047;
 	d3H9rVs779	=	-1444980069;
@@ -46,7 +46,7 @@ switch (t3SNF_G)
 {
 case 'a':
 case 'A':
-o_Dyxrqq = (int)floor(d3H9rVs779);
+
 break;
 case 'b':
 case 'B':
@@ -126,7 +126,7 @@ case 1:
 
 break;
 case 2:
-d3H9rVs779 -= 1934107885;
+
 break;
 case 3:
 o_Dyxrqq = NQlE2Gl * 1504960562;
@@ -138,7 +138,7 @@ case 5:
 
 break;
 case 6:
-o_Dyxrqq = NQlE2Gl + 771423253;
+
 break;
 }
 

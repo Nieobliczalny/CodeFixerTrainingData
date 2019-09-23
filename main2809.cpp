@@ -101,7 +101,7 @@ case 2:
 
 break;
 case 3:
-r63zt7tPx = (int)floor(uMrE02Z);
+
 break;
 case 4:
 ujYoOl = (int)floor(Jim3_Yd);
@@ -277,7 +277,7 @@ case 0:
 Ygr82 = LbDlT7(WRRh, u1G702WwA, 217504299);
 break;
 case 1:
-r63zt7tPx = (int)floor(Jim3_Yd);
+
 break;
 case 2:
 uMrE02Z = (int)floor(ujYoOl);
@@ -301,7 +301,7 @@ case 8:
 Ygr82 = LbDlT7(1920786392, -2041591380, JOWA);
 break;
 case 9:
-r63zt7tPx = (int)ceil(ujYoOl);
+
 break;
 }
 std::cout << tmuhYHe2 << std::endl;
@@ -320,7 +320,7 @@ while (j >= 0)
 --j;
 if (TGUYQ_d34g & -892342241)
 {
-r63zt7tPx = y40fHu2h_w & 1084063019;
+
 }
 else if (((sOd8Qc <= -1748498614) || (y40fHu2h_w <= -33670146)) || (uVfV2 < -1812523175))
 {

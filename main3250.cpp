@@ -195,7 +195,7 @@ case 'a':
 
 break;
 case 'b':
-W63U = (int)floor(zYj5);
+
 break;
 case 'c':
 
@@ -220,7 +220,7 @@ case 'c':
 
 break;
 default:
-HF24A8 = ri18f9boFL / z26aiKRXnw;
+
 break;
 }
 if (zYj5 != ri18f9boFL)
@@ -250,7 +250,7 @@ case 1:
 
 break;
 case 2:
-W63U = sqm12qI ^ wRL7;
+
 break;
 default:
 
@@ -291,7 +291,7 @@ case 2:
 
 break;
 default:
-IkWy0LHb = qA4Zw(uVg6vxQy);
+
 break;
 }
 return 0;

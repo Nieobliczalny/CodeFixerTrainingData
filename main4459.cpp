@@ -110,7 +110,7 @@ int k = 0;
 do
 {
 ++k;
-R89d8or = o_oZ5HB_h & 1313469633;
+
 }
 while (k < 1);
 }
@@ -317,7 +317,7 @@ case 'c':
 VqYSB85F35 = (VqYSB85F35 == JyHWq) ? -1289866838 : I8r_drrz;
 break;
 case 'd':
-YCfd4LMN5Q = i3BO3XP(-1886152870, cv8FqS0382, jU6rx6a9, 80804521);
+
 break;
 }
 }
@@ -380,7 +380,7 @@ case 0:
 
 break;
 case 1:
-bO4twtsb_ = i3BO3XP(-1534007481, rc84C1LAS, 496315762, 1588438676) * 1501730206;
+
 break;
 case 2:
 

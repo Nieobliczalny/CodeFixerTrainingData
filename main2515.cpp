@@ -216,7 +216,7 @@ ME30ltW ^= ajYqXFt7D;
 break;
 case 'c':
 case 'C':
-qz7R7uy = (int)ceil(kM4x);
+
 break;
 case 'd':
 case 'D':

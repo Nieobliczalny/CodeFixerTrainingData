@@ -50,7 +50,7 @@ case 'd':
 M2X67p--;
 break;
 case 'e':
-yQzg1Z6xP = e809z();
+
 break;
 case 'f':
 
@@ -62,7 +62,7 @@ case 'h':
 Z3_9bLup = (T8bd0 != 443641778) ? d3J6 : 406950926;
 break;
 case 'i':
-YMY_6 <<= 989424810;
+
 break;
 case 'j':
 

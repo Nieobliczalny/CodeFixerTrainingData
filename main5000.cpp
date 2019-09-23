@@ -27,7 +27,7 @@ int main(void) {
     double    QtV3lO_5;
 
 	unsigned short int	L3pcWYH;
-	L3pcWYH	=	314949985;
+
 	double	HCi_F79_;
 	HCi_F79_	=	-1463073557;
  short int HYV__i;
@@ -41,7 +41,7 @@ int main(void) {
 	int	yq3IsW;
 
   long double  u7_mT4x;
-  u7_mT4x  =  -952304081;
+
     float    SmDqkM;
     SmDqkM    =    1800230309;
 	double	RNQo9qJ32;
@@ -53,7 +53,7 @@ int main(void) {
   unsigned int  nsvNB;
   nsvNB  =  1743085109;
   long long  EXZy;
-  EXZy  =  2012142592;
+
 	float	oqg1U;
 	oqg1U	=	-627517517;
 	unsigned short int	p18XfuP;
@@ -89,7 +89,7 @@ int main(void) {
   float  ad29nBNb;
 
     float    y7P_UhE;
-    y7P_UhE    =    806983540;
+
     float    AT_q6X8_C0;
     AT_q6X8_C0    =    551930271;
     float    EFj6fD;
@@ -109,7 +109,7 @@ int main(void) {
   float  oi_d1p;
 
     unsigned long long    R5n740zky6;
-    R5n740zky6    =    471244404;
+
     float    OHK78B7U;
     OHK78B7U    =    1940530938;
     long long    ncin2yd1;
@@ -149,7 +149,7 @@ int main(void) {
     long long    RhH1__26A6;
     RhH1__26A6    =    1396230237;
  long double k_EH6;
- k_EH6 = 1409604757;
+
 	unsigned long long	L4F1;
 	L4F1	=	1868657428;
  float KbQB;
@@ -171,7 +171,7 @@ int main(void) {
     unsigned long    pA0zxKK6x;
 
   unsigned char  xi9eZ8;
-  xi9eZ8  =  356768503;
+
 	short int	T38qo9H2;
 	T38qo9H2	=	-1230132965;
 	short	npJVo9NH;
@@ -251,7 +251,7 @@ NG4M_3W = (J6d9GIh < -1605207267) ? Mt0_QnA : KbQB;
 }
 else
 {
-EXZy = sX_YzC / 1821067850;
+
 }
 }
 else if (((Bf3k >= -1485099215) && (Y81k > W__DdH8_rV)) && (iN13e != W__DdH8_rV))
@@ -342,7 +342,7 @@ case 'c':
 q09v4M = s7Oct7A9(q09v4M);
 break;
 case 'd':
-oqg1U = (npJVo9NH > tM6dc0) ? OHK78B7U : -1193624850;
+
 break;
 case 'e':
 RhH1__26A6++;
@@ -364,7 +364,7 @@ break;
 aM6O_zh = s7Oct7A9(aM6O_zh);
 ylfGz = (int)abs(BpzIe0VdNU);
 
-Nv0cx7irT = (unsigned long)(Y81k);
+
 if (r1WnZZ != -593281512)
 {
 cout << "exs_e" << "GSi7_" << endl;
@@ -498,7 +498,7 @@ case 'b':
 
 break;
 case 'c':
-E92S9q_p4 = aM6O_zh / 1120511191;
+
 break;
 case 'd':
 HCi_F79_ = y5GH();
@@ -510,7 +510,7 @@ case 'f':
 
 break;
 case 'g':
-AT_q6X8_C0 = (int)ceil(HCi_F79_);
+
 break;
 case 'h':
 ncin2yd1 = s7Oct7A9(-799337146);

@@ -199,7 +199,7 @@ i--;
 switch (o4TxgWujz)
 {
 case 'a':
-E1OK6b_ = (int)floor(sHmCO);
+
 break;
 default:
 V4UTn *= 2089242468;
@@ -336,7 +336,7 @@ case 3:
 Xv4Pr8P6 = (int)ceil(Lgjzn7);
 break;
 case 4:
-ol3w_9gyh2 = (Niv3) ? UHP5ZhH9P : VQ2YuYR(U540Z2A, -1768334804, pbnb);
+
 break;
 case 5:
 Niv3 = ulX5C_p2 * Fq70Czj6;
@@ -382,7 +382,7 @@ catch (int& errorCode)
 Lgjzn7 /= b59zi;
 }
 
-UTe3_1Q62y = (int)ceil(j8xJm);
+
 {
 int i = 10;
 while (i >= 0)
@@ -415,7 +415,7 @@ case 4:
 
 break;
 case 5:
-yBJH1D18 = (int)ceil(C8pt);
+
 break;
 case 6:
 

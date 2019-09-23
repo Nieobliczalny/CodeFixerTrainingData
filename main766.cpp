@@ -321,7 +321,7 @@ y23R4 = (long double)(KpOI4);
 
 if (y23R4 >= -861995214)
 {
-Nk8A = (short)(mUZ2VJr5L8);
+
 }
 else
 {

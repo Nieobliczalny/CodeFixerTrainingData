@@ -41,7 +41,7 @@ int main(void) {
  unsigned short int gm7iH23_;
  gm7iH23_ = 1126074285;
 	unsigned short int	cO7b;
-	cO7b	=	1444293997;
+
     float    a03lrn1c;
     a03lrn1c    =    1908137154;
 	char	ylLK4moW;
@@ -57,7 +57,7 @@ int main(void) {
     unsigned short    lZq4;
     lZq4    =    1435567358;
  int maG4C3j0H;
- maG4C3j0H = 551902098;
+
     float    VCqOk;
     VCqOk    =    1899522221;
  unsigned int R6A73E0s0g;
@@ -75,7 +75,7 @@ int main(void) {
 	long double	dFV_3od;
 	dFV_3od	=	1597522595;
   double  E88jOdTbv;
-  E88jOdTbv  =  -1057200143;
+
   unsigned long  a075F38U;
   a075F38U  =  -2017832125;
   short  hpjvk7DI;
@@ -311,7 +311,7 @@ wwLS7rGyah = q0sQ_ * E88jOdTbv;
 }
 else
 {
-a075F38U = RA71PEr8 >> Xmr08Q;
+
 }
 }
 while (j < 3);

@@ -373,7 +373,7 @@ case 'G':
 break;
 case 'h':
 case 'H':
-wKcV_4r = (int)floor(E7FGq2C1Dz);
+
 break;
 default:
 t9KM4Fe8B = O05pG8dwAK(1452331135, -1827052938, sNh3, WYstk5e79D, 871569276);

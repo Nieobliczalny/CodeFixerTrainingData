@@ -20,7 +20,7 @@ int main(void) {
 	long double	e6CR2l;
 
     unsigned long    gdL4O0;
-    gdL4O0    =    1181405307;
+
     unsigned short int    Gi_4C3xzQ;
     Gi_4C3xzQ    =    -1553546179;
 	short int	iQHLCve;
@@ -94,7 +94,7 @@ int main(void) {
     unsigned int    kw_8;
 
 	unsigned int	JF9L;
-	JF9L	=	-1842386884;
+
  unsigned long Pk3gk2A;
 
  unsigned short int TAa_YYGBak;
@@ -124,7 +124,7 @@ int main(void) {
 	short int	K6Xtew;
 	K6Xtew	=	0;
  char FQ8pf;
- FQ8pf = 1605914757;
+
 	long long	eh33;
 	eh33	=	128704034;
   double  zH1979b;
@@ -180,7 +180,7 @@ int main(void) {
     int    oqgQ;
     oqgQ    =    80706707;
   int  r8m6;
-  r8m6  =  463245786;
+
  unsigned short CKMdj;
  CKMdj = 1682404353;
     double    WaAr;
@@ -206,7 +206,7 @@ int main(void) {
     unsigned short int    s3OO;
     s3OO    =    -2113567738;
 	long	M_CLU4;
-	M_CLU4	=	-879599528;
+
   unsigned long  ZWe2K;
   ZWe2K  =  1436714842;
     int    jT1Pa0;
@@ -256,7 +256,7 @@ else if (qKgRqo3Vc & 1968505357)
 }
 else if (oqgQ < t0oq46k__2)
 {
-eh33 = (long long)(h4181rr9);
+
 }
 else if (oqgQ <= -2020487958)
 {
@@ -310,7 +310,7 @@ default:
 
 break;
 }
-r8m6 = (int)(h8nTd_q);
+
 {
 int i = 0;
 while (i < 9)
@@ -428,7 +428,7 @@ while (j >= 0);
 
 x3ff = N_dT4();
 
-Goa7 = CKMdj + 2111494771;
+
 
 F8_r3XmF41 = (int)ceil(XNCZ1E2hK);
 
@@ -537,7 +537,7 @@ i++;
 
 
 
-FQ8pf = (int)abs(xv2_5oh0);
+
 
 if ((t0oq46k__2 >= 1641977957) && (f1674j_3c0 >= 1644847048))
 {
@@ -656,7 +656,7 @@ case 2:
 Vk5QUi = y_fE(904724113, -746152007);
 break;
 case 3:
-JiFd >>= jT1Pa0;
+
 break;
 case 4:
 
@@ -701,7 +701,7 @@ else if (jC0_C3OOF & 1905705593)
 }
 else if (Nb78s2 == -1731470140)
 {
-M_CLU4 = (int)abs(Uvfm20);
+
 }
 else if (P238WUNC <= 62075541)
 {

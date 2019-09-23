@@ -513,7 +513,7 @@ case 'g':
 i9363X &= D0fRM_5L4;
 break;
 case 'h':
-lB06Z = dI4tV_ / 2049242257;
+
 break;
 case 'i':
 gp8OSPoxN = (int)abs(qx79pjHeh);
@@ -725,7 +725,7 @@ while (i < 5);
 switch (X7977gI_)
 {
 case 0:
-l8kW5N70V ^= qx79pjHeh;
+
 break;
 case 1:
 

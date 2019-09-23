@@ -58,7 +58,7 @@ if (Np3_Loh <= ho2QyfJGQ)
 }
 }
 
-rf1D6 = (int)floor(PE2uR6y7W1);
+
 y_c3 %= 586534662;
 return 0;
 }

@@ -298,7 +298,7 @@ else
 }
 try
 {
-H2FBDho_e = eYjCz(UWo3L730K7) << IR7kmQz_1K;
+
 }
 catch (int& errorCode)
 {
@@ -326,7 +326,7 @@ j++;
 }
 
 
-KK_3t = (unsigned long)(H2FBDho_e);
+
 return 0;
 }
 

@@ -312,7 +312,7 @@ switch (K27t0)
 {
 case 'a':
 case 'A':
-rN6426_6 -= FBaSA18J5O;
+
 break;
 case 'b':
 case 'B':
@@ -431,7 +431,7 @@ if (S64F)
 {
 for (int k = 3; k >= 0; --k)
 {
-y17XD66 = (int)ceil(qCd1fq81C9);
+
 }
 }
 else
@@ -442,7 +442,7 @@ case 'a':
 
 break;
 default:
-rN6426_6 = (int)abs(dd2nM0226);
+
 break;
 }
 }
@@ -523,7 +523,7 @@ case 7:
 z48ou = r4P2t71Xvu / 740943049;
 break;
 case 8:
-y17XD66 = (int)floor(dF9sQ20jW);
+
 break;
 }
 G7qtn = UY2ZMC5 + GY6YzeWi;
@@ -595,7 +595,7 @@ case 3:
 
 break;
 case 4:
-Nac3CMpJ = FVaz0(-821181602, G674, sZv9K, RTG5xng0W6, -1591080727);
+
 break;
 case 5:
 q2i9 = Qru4(-739630723, sZv9K, 1815214766, FhHYx7_, -587507217);
@@ -718,7 +718,7 @@ case 2:
 
 break;
 case 3:
-gMJw9yi = FVaz0(gMJw9yi, 13561990, r4P2t71Xvu, d__6, zA9LrukFz);
+
 break;
 case 4:
 zA9LrukFz >>= Rx9_rCS6;
@@ -733,7 +733,7 @@ case 7:
 d__6 = (int)floor(Wj17E6708);
 break;
 case 8:
-GEWgj84pK2 /= 888584037;
+
 break;
 }
 }

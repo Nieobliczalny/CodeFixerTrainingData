@@ -565,7 +565,7 @@ ZqP4w = quoa__Ew % S1P0eEk;
 break;
 case 'e':
 case 'E':
-NsNA = S7ju_S1w_d(NsNA);
+
 break;
 case 'f':
 case 'F':
@@ -577,7 +577,7 @@ q_x8g_2o = S7ju_S1w_d(-1270680740);
 break;
 case 'h':
 case 'H':
-NsNA = oRP0 << 1833731342;
+
 break;
 case 'i':
 case 'I':
@@ -593,7 +593,7 @@ break;
 
 
 
-RxGLrgbHa &= 1583123345;
+
 
 RxGLrgbHa = (int)abs(Z7gcW);
 cout << RwVc9Zlx << oRP0 << "N7k7" << endl;

@@ -119,7 +119,7 @@ for (int i = 5; i >= 0; i--)
 std::cout << Mj0lC << d1973D6NJ_(Mj0lC, -1330772687, 1925913679) << "bq_x5V" << UUokE5i << std::endl;
 }
 
-jVhYMhqp = (float)(Go_k4);
+
 {
 int i = 8;
 while (i >= 0)
@@ -152,7 +152,7 @@ case 2:
 FZ6Y = d1973D6NJ_(FZ6Y, -1986949207, -937543047);
 break;
 default:
-XgyD_HAu = ODzV4jTtd_(FZ6Y, -385230005, t_6C6v44, 844072759, -1227525387);
+
 break;
 }
 }

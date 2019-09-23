@@ -396,7 +396,7 @@ e1EPGv4h9U = s0650b8();
 break;
 case 'c':
 case 'C':
-NyYjxn = (int)abs(i5tq_Zr);
+
 break;
 case 'd':
 case 'D':

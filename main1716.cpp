@@ -77,7 +77,7 @@ case 'b':
 pWTeJ = (int)ceil(ekuL_);
 break;
 case 'c':
-w696w8F = GZpvY(w696w8F, 1223911677);
+
 break;
 case 'd':
 M8E6CEG3 |= 397656802;
@@ -133,7 +133,7 @@ case 'c':
 
 break;
 default:
-Td_o = zeq10 / NEESJ;
+
 break;
 }
 }
@@ -266,7 +266,7 @@ do
 int j = 0;
 do
 {
-nz_9A = FM82p75zir % zj0E;
+
 j++;
 }
 while (j < 8);
@@ -440,7 +440,7 @@ case 2:
 
 break;
 case 3:
-Njn6v0x5p = (int)floor(TY2RYGbV);
+
 break;
 case 4:
 TY2RYGbV = (int)floor(Njn6v0x5p);
@@ -455,7 +455,7 @@ case 7:
 
 break;
 case 8:
-m2wvgI %= ar_Wd;
+
 break;
 case 9:
 NEESJ /= 116744222;

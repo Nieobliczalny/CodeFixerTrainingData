@@ -49,7 +49,7 @@ while (i >= 0);
 switch (kg0WL6)
 {
 case 0:
-GL83pBqbb -= 1457343302;
+
 break;
 case 1:
 O4k45lV = qTwC6v / 1866382666;

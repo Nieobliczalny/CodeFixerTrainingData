@@ -44,7 +44,7 @@ case 3:
 
 break;
 case 4:
-xub_04Dl5 = f_fJ(xub_04Dl5, -578549556, myQd);
+
 break;
 default:
 rs_rw2GB = C0M98R67X % AEM0GVO;
@@ -97,7 +97,7 @@ while (k >= 0);
 while (i < 9);
 }
 
-S_I513NL7 = (unsigned short int)(xpnYQYVc9_);
+
 cout << lu7n1WEt << "F6nz72" << f_fJ(-244339374, D5ZpY9u_a, myQd) << "Fz49" << "jTTsD" << endl;
 
 c0iz56r0 = f_fJ(920715523, -1630443739, E09TSZw1R);
@@ -176,7 +176,7 @@ do
 ++i;
 for (int j = 3; j >= 0; --j)
 {
-Q_ZtJF5 = uys3PtNKMk(1093132781, -1584777979, OTL7G387);
+
 }
 }
 while (i < 7);
@@ -268,7 +268,7 @@ int k = 7;
 while (k >= 0)
 {
 --k;
-Je_g29nL = t596gK7q6d(X_7FbyS19, 701978644) % BaFQF;
+
 }
 }
 }
@@ -298,7 +298,7 @@ else
 }
 else if (ig1L7bS1_ != V83aD88)
 {
-BaFQF |= xpnYQYVc9_;
+
 }
 else if ((y4cTQ <= 919357467) || (U64gRCBQ6 >= iYB3_d))
 {
@@ -336,7 +336,7 @@ case 'b':
 
 break;
 case 'c':
-Q_ZtJF5 = (int)abs(cTYD77j);
+
 break;
 }
 
@@ -364,7 +364,7 @@ case 4:
 
 break;
 case 5:
-Q_ZtJF5 = uys3PtNKMk(Hq1A109r19, Y9_lvETYJ6, -1554560928);
+
 break;
 case 6:
 cduT4F ^= U64gRCBQ6;

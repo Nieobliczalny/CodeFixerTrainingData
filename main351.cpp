@@ -47,7 +47,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-M89y166r = soFr5n / p_e42s2;
+
 break;
 case 'd':
 case 'D':
@@ -67,7 +67,7 @@ case 'G':
 break;
 case 'h':
 case 'H':
-roGB7WGp9 = QJphQt13Ck * Y0ch3U;
+
 break;
 case 'i':
 case 'I':
@@ -96,7 +96,7 @@ if (s_Vb6 > 365715715)
 switch (hWEZLW8_QA)
 {
 case 0:
-M89y166r = PjY_ * Q93F;
+
 break;
 case 1:
 
@@ -120,7 +120,7 @@ break;
 }
 else if ((UChoDj == -194343998) || (v3_0_ != 972999923))
 {
-ohlO4172_1 = FcN0B();
+
 }
 else
 {
@@ -130,7 +130,7 @@ if ((KIIb > Zh59MnW) && (fUuOSf__6 >= -1571202175))
 }
 else if (AO1GALUW5 >= pRFI)
 {
-Oxgt8 = FcN0B();
+
 }
 else
 {
@@ -154,7 +154,7 @@ if (sy5VPxWPJ)
 }
 else
 {
-Ga0o7OF2oi = (double)(huxyn);
+
 }
 {
 int i = 0;
@@ -241,7 +241,7 @@ while (i < 2)
 }
 std::cout << s_Vb6 << Yjz4PF9Zi(-1013821146, PX8FTL03, d54z13, -1267411354) << "S9yD30G" << std::endl;
 
-U_JW2cG = (double)(R8f6j);
+
 QB8SHZ6 = (int)ceil(s_Vb6);
 
 Q93F = (int)ceil(pRFI);

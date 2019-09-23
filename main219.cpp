@@ -306,7 +306,7 @@ else
 }
 }
 
-Z_g_cCMV = (int)ceil(lMFJS3E_);
+
 for (int i = 0; i < 3; i++)
 {
 std::cout << XvNsyCU(1777409168, 2144199878, J8PQ, NJU0fJKl32, -1740410786) << "SpT08Ki" << std::endl;

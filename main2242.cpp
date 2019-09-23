@@ -374,7 +374,7 @@ else if ((B02a3Cz0 & yy9_b3OS) || (I5rq < FZCg98))
 }
 else if (QgWZ8)
 {
-Rnkt = (int)abs(FZCg98);
+
 }
 else if (Ae_X8 == nQj29k)
 {
@@ -447,7 +447,7 @@ case 'c':
 lgQ5c7b = (int)ceil(aWw7c07AP8);
 break;
 case 'd':
-zJ96J0gvz = (int)abs(y0K0);
+
 break;
 case 'e':
 

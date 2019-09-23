@@ -312,7 +312,7 @@ break;
 }
 
 
-vMMy = (unsigned long)(NOQ3sbUC + (291982129));
+
 
 return 0;
 }

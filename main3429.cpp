@@ -317,7 +317,7 @@ kPFn5Gh_uP = (int)ceil(W9Vk1CN);
 bfP4sPw++;
 if (L5wWK == 1304383411)
 {
-hM70dAUmOI = ygQ6(-1784562649, -1599058876, -1511055980, NYXYD7bI, L5wWK);
+
 }
 else
 {
@@ -369,7 +369,7 @@ case 'h':
 
 break;
 case 'i':
-m2Run1 %= 1139014118;
+
 break;
 case 'j':
 W9Vk1CN = (int)ceil(kPFn5Gh_uP);

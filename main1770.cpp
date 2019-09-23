@@ -510,7 +510,7 @@ case 3:
 
 break;
 case 4:
-g_Ie4yMxl2 = (kJZfuu >= FqQuuO_1c) ? -46340949 : 659100571;
+
 break;
 case 5:
 H8K4TP ^= VA4_yJ56;
@@ -536,7 +536,7 @@ XEVK |= b9n564x;
 yh3DF77 %= 1704541474;
 if ((H8K4TP) || (tjZ8_j >= Dru0arr))
 {
-oX05FOU2D = (unsigned int)(i00a933);
+
 }
 else if (wkeSK >= oX05FOU2D)
 {

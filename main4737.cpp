@@ -260,7 +260,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-ou65 = (int)abs(t9Bka_72);
+
 break;
 }
 }

@@ -139,7 +139,7 @@ int main(void)
 	unsigned short int	G5X4V4s8;
 	G5X4V4s8	=	-1319218385;
     long double    M8lOXI_qVS;
-    M8lOXI_qVS    =    -1006436262;
+
 	unsigned int	oZTX1r8D8Z;
 
 	unsigned int	I3IC;
@@ -305,7 +305,7 @@ case 3:
 
 break;
 case 4:
-M8lOXI_qVS = (int)ceil(iLmBvY);
+
 break;
 case 5:
 s7bw79A8o = axJnI4Er5c << 709083028;
@@ -331,7 +331,7 @@ case 'c':
 
 break;
 case 'd':
-OJMD5o60 = (int)ceil(XOUj);
+
 break;
 case 'e':
 By_vt2G = S307(-1693388050, -2043537528, -399154813, -1823360248);
@@ -471,7 +471,7 @@ else if (zv4m6zFCDC)
 }
 else if (I3IC != YtXp_)
 {
-JXIwbbsIJ = (mmROU < m_53XL__) ? L2_UP : 1398969451;
+
 }
 else if (oP153J3 != SRsv)
 {

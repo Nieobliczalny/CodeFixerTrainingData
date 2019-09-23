@@ -205,7 +205,7 @@ case 1:
 
 break;
 case 2:
-wOASMqH = (int)abs(B66Y__XG);
+
 break;
 case 3:
 wVc5y = (int)floor(K0f__);
@@ -217,7 +217,7 @@ case 5:
 
 break;
 case 6:
-E_IymkJ /= tuCKI110;
+
 break;
 case 7:
 fkN9o9w2z = (int)abs(l7001Do8ze);
@@ -245,7 +245,7 @@ else if (V0P4 > 1941502301)
 }
 else if (O362y2d4C <= 678671195)
 {
-T5kZ68 = jd2v * 763187772;
+
 }
 else if (Q9TI & X9637)
 {
@@ -311,7 +311,7 @@ else
 }
 }
 
-n68O = X9637 / 1157073461;
+
 return 0;
 }
 

@@ -347,7 +347,7 @@ int k = 0;
 do
 {
 ++k;
-Eh7Y2_VTIY = (int)ceil(T4vi6wV_yk);
+
 }
 while (k < 10);
 }
@@ -373,7 +373,7 @@ else
 switch (rxdHJ3O)
 {
 case 0:
-x_m_XWw9f = s_l4pQBEpI(x_m_XWw9f, bK1QMB9h, -2117615588, -1811169437);
+
 break;
 case 1:
 

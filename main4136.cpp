@@ -520,7 +520,7 @@ case 6:
 gEr0 = lA5cJ(gEr0, D4ULZ, rQC7_8w, -1798626326, u2Q_Q);
 break;
 default:
-v3707jHb5 = DJL_bCOGy(729549396);
+
 break;
 }
 }
@@ -582,7 +582,7 @@ Zcv8nph7k0 = rANb74 & 1854063923;
 }
 else if (rANb74 < 703078205)
 {
-Vp432607 = (int)ceil(fWB7Y1I);
+
 }
 else
 {
@@ -604,7 +604,7 @@ case 1:
 
 break;
 case 2:
-XFvb8p = DJL_bCOGy(rfqE82D_43);
+
 break;
 case 3:
 gEr0 = (int)abs(D4ULZ);

@@ -77,7 +77,7 @@ int main()
   unsigned long  XYb7srw6_;
   XYb7srw6_  =  1052414697;
     unsigned long    LcIn_;
-    LcIn_    =    2100601721;
+
     short int    CbDvkD2;
     CbDvkD2    =    -920181125;
   long  W2bv2ln9;
@@ -396,7 +396,7 @@ case 3:
 U9S07 = b19Yi(123930225, H411) >> W2bv2ln9;
 break;
 case 4:
-MW5ACh4s = (int)ceil(C644I80Ejm);
+
 break;
 case 5:
 q3C3 = b19Yi(MW5ACh4s, uf_Qi);
@@ -422,7 +422,7 @@ else if ((J6jf < H4FuN) || (Bz8iCFd > 1321204401))
 }
 else if ((o4m5_h7 > -608756048) && (TYI3o2M0 < -55300251))
 {
-b559H9dR37 = (int)floor(Xh2S);
+
 }
 else if (q3C3 != zSz_IK0)
 {

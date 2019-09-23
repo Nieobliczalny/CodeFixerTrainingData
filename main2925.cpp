@@ -348,7 +348,7 @@ else if (oG9PG3)
 }
 else
 {
-oG9PG3 = (int)abs(l4ZLi) * 0;
+
 }
 }
 }

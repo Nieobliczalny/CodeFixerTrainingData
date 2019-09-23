@@ -55,7 +55,7 @@ int main(void) {
 	Mukf23	=	1397722046;
 	bujTJb2B	=	-1085885601;
 	CCb9340	=	16451913;
-	wxse1uP	=	-1343543672;
+
 	U04_lIS	=	1068263764;
 	t7ABNX1I	=	-759363516;
 	cb_5e29zV	=	-1394830703;
@@ -78,7 +78,7 @@ int main(void) {
 	IqQ7I	=	1846329360;
 	rYU_5	=	165223441;
 	o8F1	=	-1014028879;
-	G0eCn	=	1505639011;
+
 	qGjP0f	=	-49334873;
 	az68TsKIk4	=	693750321;
 	GI8O	=	-1259498695;
@@ -278,7 +278,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-ThOKxMM9K = jFcL(ThOKxMM9K);
+
 break;
 case 'f':
 case 'F':

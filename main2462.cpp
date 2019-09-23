@@ -120,7 +120,7 @@ int main(int argc, char** argv) {
 
 
 raSnF3eb6e <<= 1113316581;
-raSnF3eb6e += 355925638;
+
 
 S2583UBrjc = (unsigned long long)(M6A9n);
 
@@ -153,7 +153,7 @@ case 'F':
 break;
 case 'g':
 case 'G':
-oB0Sj8 = YUX2VG5 | zE5u7b9q;
+
 break;
 case 'h':
 case 'H':
@@ -168,7 +168,7 @@ case 'J':
 
 break;
 default:
-T7F0vr2_1 = (int)ceil(IHq_VFua);
+
 break;
 }
 
@@ -190,7 +190,7 @@ while (i >= 0);
 }
 
 
-T7F0vr2_1 = (int)ceil(Oe4Q2L_);
+
 if ((PLH5t0vs <= 1008759511) && (zFY2f6rm != -1060437188))
 {
 for (int j = 9; j >= 0; j--)

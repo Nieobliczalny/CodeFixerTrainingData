@@ -226,7 +226,7 @@ else if (waVj < X7LM)
 }
 else if ((xZ_0 < 179091493) && (p6r9C != bY5n))
 {
-ib9polYMj4 = EDrcFcKN(ib9polYMj4);
+
 }
 else if (b5VIjqP != m47_)
 {
@@ -400,7 +400,7 @@ case 'A':
 
 break;
 default:
-o_G8 = (int)abs(HhRA);
+
 break;
 }
 try

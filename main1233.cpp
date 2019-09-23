@@ -36,7 +36,7 @@ int i = 0;
 do
 {
 ++i;
-sW3k = (OQeO3d0U & 328970329) ? x0eCiqgOdD : exct_0245v;
+
 }
 while (i < 9);
 }
@@ -462,7 +462,7 @@ case 2:
 
 break;
 case 3:
-b3Fq = (int)abs(f4J1zUQiG);
+
 break;
 case 4:
 OvsbAk13A6 = (int)floor(p3qK6sdi);
@@ -477,7 +477,7 @@ case 7:
 
 break;
 case 8:
-DgIP3jbd3u = (int)ceil(TWPnj1eQ);
+
 break;
 }
 kzhc27 = (int)abs(Mtosx) * 0;

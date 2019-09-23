@@ -529,7 +529,7 @@ case 6:
 
 break;
 default:
-R_ufhB08x5 = (int)abs(ygMOq6N6) * 0;
+
 break;
 }
 --j;

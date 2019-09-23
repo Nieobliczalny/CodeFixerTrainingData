@@ -665,7 +665,7 @@ case 'b':
 
 break;
 case 'c':
-Uxv782 = DBfX66Z ^ zQL8C7A;
+
 break;
 case 'd':
 vi7EHc = d03w / 770440923;
@@ -689,7 +689,7 @@ case 'j':
 
 break;
 default:
-mRM0BDu = EEQK_zocu & x9nPnBB6;
+
 break;
 }
 }

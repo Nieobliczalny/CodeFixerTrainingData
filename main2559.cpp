@@ -34,7 +34,7 @@ case 0:
 Bn2dvoq = (int)abs(u_aI4);
 break;
 case 1:
-y5J_M3PoGN = z_eOHxV04_(275510119, 1437870877, -2070605280, 43822005);
+
 break;
 case 2:
 wPrytgk = jpE5 ^ q58d46;
@@ -116,7 +116,7 @@ else
 {
 Bn2dvoq = qW4Zypjs(Gcgl3jxE, ewOiu1G_nh, -37882075);
 }
-Mol6hb6PA = z_eOHxV04_(-783488248, w097n03gjH, -303477767, 131551861);
+
 
 {
 int i = 0;
@@ -169,7 +169,7 @@ std::cout << j1u901 << "hE3TUW" << std::endl;
 
 if ((FABsy / Bn2dvoq) != 2036419693)
 {
-KMSLZ2BV = q58d46 / Bn2dvoq;
+
 }
 try
 {
@@ -185,7 +185,7 @@ case 2:
 
 break;
 case 3:
-JS2JlmxYI = z_eOHxV04_(-1455258087, 1254609866, BUj4, -386234848);
+
 break;
 case 4:
 ewOiu1G_nh = mp97q / PY3w_1l6g2;

@@ -39,7 +39,7 @@ int main(void) {
   long  NXCG;
   NXCG  =  -178422107;
  unsigned int va7rz0;
- va7rz0 = 169330455;
+
   int  RQf_z;
 
  long long uw_0;
@@ -59,7 +59,7 @@ int main(void) {
     unsigned long    cNUb;
 
   float  U4085fO458;
-  U4085fO458  =  -1134403859;
+
     unsigned char    U_Kt;
     U_Kt    =    -1784031849;
 	short int	zyWI5aB9I;
@@ -73,7 +73,7 @@ int main(void) {
   float  KwR7_G0K;
   KwR7_G0K  =  416753569;
 	long double	rW9bzGYmG1;
-	rW9bzGYmG1	=	1483045251;
+
     int    xrAwG5;
     xrAwG5    =    -1855049185;
 	float	M_wY4w4Wx;
@@ -83,7 +83,7 @@ int main(void) {
     double    pLNj;
 
 	double	FmSC_902;
-	FmSC_902	=	-1079796185;
+
  unsigned char F063_H;
  F063_H = -164452347;
     short    OY2fwgaf;
@@ -103,7 +103,7 @@ int main(void) {
     long    n2EuE5;
     n2EuE5    =    1868850828;
     char    XggcU7gfTf;
-    XggcU7gfTf    =    953719995;
+
  long fRI1B;
  fRI1B = 1337100568;
     short int    vsc4qiL;
@@ -123,7 +123,7 @@ int main(void) {
   char  qy7u;
   qy7u  =  2092006188;
     int    qtiMc5i;
-    qtiMc5i    =    -1990868877;
+
  long double OMatb;
 
     float    T0gOAY8;
@@ -133,7 +133,7 @@ int main(void) {
     unsigned char    VeIny3_;
     VeIny3_    =    644525496;
   unsigned long  iY6dP;
-  iY6dP  =  611950508;
+
   unsigned char  cK91ps;
 
     unsigned short int    I44c;
@@ -145,7 +145,7 @@ int main(void) {
   long double  X87Fj;
   X87Fj  =  1768895424;
     double    S7fWn;
-    S7fWn    =    -1017674821;
+
 	double	VrCdJ8swf;
 
     short    S302vxUY2;
@@ -163,7 +163,7 @@ int main(void) {
  unsigned long long U2rF_xx;
 
   unsigned long  D9JfPG3ny;
-  D9JfPG3ny  =  -1092331327;
+
  double RJZxpYSc7L;
  RJZxpYSc7L = 2005033763;
 	long long	TPVm7_;
@@ -173,7 +173,7 @@ int main(void) {
 	short int	yX6m;
 
     long long    Z9U03_;
-    Z9U03_    =    -2120155933;
+
  short int GO4t7;
  GO4t7 = -580130158;
 
@@ -294,7 +294,7 @@ case 'D':
 
 break;
 default:
-hU27 = (int)abs(B4GWB44b8);
+
 break;
 }
 }
@@ -324,7 +324,7 @@ case 'd':
 
 break;
 case 'e':
-PsyVo74 = (br4kraIN <= hROMM) ? n_5UWfjDsd : R5sn17_k3;
+
 break;
 case 'f':
 

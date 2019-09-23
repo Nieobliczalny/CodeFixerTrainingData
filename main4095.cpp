@@ -122,7 +122,7 @@ else if ((PPR_Lthp & KeSU) && (f4pVI38_ax == X4zH37FH))
 }
 else if (CNFC0lVF3M > HOe5gjF)
 {
-i80654TVER = UWdUMt(SS4J5T8_, j1_5jpHmx8);
+
 }
 else if (SDtbb9XJ8I <= 1767459047)
 {
@@ -208,7 +208,7 @@ f6ioB_0h0 = (int)ceil(Uh96c53n);
 }
 while (i >= 0);
 }
-OXYW = (unsigned long)(c3weuU2g);
+
 
 
 
@@ -218,7 +218,7 @@ while (i < 10)
 {
 for (int j = 0; j < 5; j++)
 {
-W5_9mPD = (int)floor(r90u);
+
 }
 i++;
 }

@@ -22,7 +22,7 @@ int main(int argc, char** argv)
  FN69Ojp = 0;
     unsigned char    nSvk,    Qd4AA3,    P5BbsMwwxZ,    uYGF93,    q5mb_a,    vt00,    wI_RF3kJ,    Zrz98y,    s4rvjtAE,    oawa0Z,    RV6e14,    l3d38ax12,    q_uv_e2sIa,    mATpMQu877,    ZcqsX,    VQNDVy,    Pwt_J9KB9O,    nNvd2Mg,    eHy6HyLKWb,    R_C9O7Q4vR,    SbKma,    gjRt00COe,    J1xu6N7278,    sSGF_9xA,    pk1xPu,    Ko2I68v7m,    d2_58,    Wb6nZCWyUI,    h88Sw9de_,    oN0zP,    x2Hf5u,    m_gkJtAPz0,    X8lvR,    nR2i6J6i,    kXkp84,    EZ5bgws9,    zZY6e,    IpI6_Bp0O,    khpt9Z,    PKQ3b1,    y1R9lSW,    oHbFMcZ;
     nSvk    =    -1092235285;
-    Qd4AA3    =    1359339854;
+
     P5BbsMwwxZ    =    -1453979211;
     uYGF93    =    -1685115737;
     q5mb_a    =    -1437564514;
@@ -460,7 +460,7 @@ case 'd':
 Ko2I68v7m = nR2i6J6i - uYGF93;
 break;
 default:
-nR2i6J6i = Q7F55VD << x2Hf5u;
+
 break;
 }
 {

@@ -43,7 +43,7 @@ int main(int argc, char** argv) {
 	unsigned int	T77jJCn;
 
     unsigned char    KoXhh_Sw;
-    KoXhh_Sw    =    2064566308;
+
  long long Zr5UZ;
  Zr5UZ = 1186533832;
  long double sGiw0E;
@@ -63,7 +63,7 @@ int main(int argc, char** argv) {
     short    u70n;
     u70n    =    -2041529778;
   unsigned int  eMkf;
-  eMkf  =  -269067352;
+
   unsigned short int  WOD71k10Tu;
   WOD71k10Tu  =  87612747;
 	short int	Wt41o;
@@ -73,7 +73,7 @@ int main(int argc, char** argv) {
 	int	gw__8BsFyu;
 
  unsigned long long x3gAxe;
- x3gAxe = -1522831692;
+
     unsigned char    QobKc50;
     QobKc50    =    360090752;
   long double  Jkp8qH3_;
@@ -83,7 +83,7 @@ int main(int argc, char** argv) {
 	short	WN5_4Nm_1;
 
   short int  lKU6k7o2;
-  lKU6k7o2  =  -112486439;
+
     unsigned long    RaWYATPa;
     RaWYATPa    =    1870574483;
 	unsigned short	DoZC9o22;
@@ -105,7 +105,7 @@ int main(int argc, char** argv) {
  int GJBl;
 
   long  KmANR1k0I4;
-  KmANR1k0I4  =  -2032780508;
+
  unsigned short EN0yRGhR8;
 
   unsigned long  fkFP;
@@ -133,7 +133,7 @@ int main(int argc, char** argv) {
 	unsigned short int	F_fA_13r;
 
 	unsigned long long	P5h9b;
-	P5h9b	=	0;
+
 	unsigned long long	Qy7_t;
 	Qy7_t	=	0;
  int tBq9;
@@ -159,7 +159,7 @@ int main(int argc, char** argv) {
  long long Px1pXd8fR;
  Px1pXd8fR = -485491799;
     float    oHcFVOs_W;
-    oHcFVOs_W    =    1478693546;
+
  long AMS_zr6;
  AMS_zr6 = 1733767844;
 
@@ -214,7 +214,7 @@ case 'e':
 u70n *= fkFP;
 break;
 case 'f':
-qbw4p2T = (int)ceil(Xhpz8f);
+
 break;
 case 'g':
 
@@ -254,7 +254,7 @@ case 'c':
 
 break;
 case 'd':
-oHcFVOs_W = (int)ceil(OeO1l);
+
 break;
 case 'e':
 Mkuu_vj = gvkrc & h26oi;
@@ -300,7 +300,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-AMS_zr6 -= mX25Mj3AH;
+
 break;
 case 'g':
 case 'G':
@@ -361,7 +361,7 @@ case 1:
 
 break;
 case 2:
-qbw4p2T = (OeO1l <= s4XUh7Oh6) ? FbL8T : 1042487093;
+
 break;
 case 3:
 wA7yEi73C++;
@@ -376,7 +376,7 @@ if ((u9rpPka < 1606499003) || ((DoZC9o22) || (hQCN6v88I0 > 2033011106)))
 }
 else
 {
-e67M0p = (int)floor(jp1vyvqD);
+
 }
 }
 catch (int& errorCode)

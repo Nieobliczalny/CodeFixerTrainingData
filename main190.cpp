@@ -642,7 +642,7 @@ case 'h':
 
 break;
 case 'i':
-o8XTpS6q_x &= 2022589915;
+
 break;
 case 'j':
 

@@ -17,7 +17,7 @@ int main()
   char  B2htBoKI,  TANMG,  nT_5i,  e_d5,  yA5xzKD,  L1Z2h2YpCz,  Ps4Sd9,  g0BZUd,  cA_5H,  cFbkKy03_5,  YuI6yLAMC,  vu96YUdFt,  i27A,  CkpMs6,  qhoyq17,  AW4Xs4qRet,  qtkv,  L80bfA7x,  iCsjIcBL7,  pohdpQ6,  LtqdnR,  HdYOw028Z_,  S0D_R7I3cH,  I06zXgmdx,  LS7mvp2Mr,  Te234rPF,  JepccR1,  Zg0T3k_70p,  c_AnyP,  DS4413M,  JngUBXd0,  QY3uA404,  Z8WI5b7,  cndRhKYI2,  DY_tC_34r,  E66_C,  Bb440W_,  tybrrg,  BVxht8k6M,  NF9dD,  GGIA_,  HHxJen,  d53k0422W1,  x8Tn48FE,  ZVBeNzQkP,  H7OU6oI,  DJ3Aqg8,  gbW9jXu,  mN9q,  o6KX6C4qq,  DF661,  Sp0dmD1eD1,  F7Y_,  Pl6Io_,  W3_yO5o,  bJB645o8,  euYar,  h_Vo8kt,  xSv94zJl0,  C6929b66,  g3f_6t,  ZB96W,  ik1v0B6,  B4MMIIHs4k,  XixnhroT,  rb0_o7g4,  T674E26,  PD3lo9Ss,  aP3GGp,  oRqNY34o1h,  ma_Pm,  M2N4,  ASgl98unlM,  R7_04GPg,  nqG4_5C0,  SKW9jMxG,  gZoI76r,  ucYvRY9j,  wJLNz1T,  RI8i,  Gqv0,  Dwm2B_,  L9L2,  D883J9OE,  e695hw1h;
 
   TANMG  =  -228077902;
-  nT_5i  =  -2044707689;
+
   e_d5  =  868002654;
 
   L1Z2h2YpCz  =  898896652;
@@ -38,7 +38,7 @@ int main()
 
   HdYOw028Z_  =  1469254248;
   S0D_R7I3cH  =  -2064137136;
-  I06zXgmdx  =  -1163024819;
+
   LS7mvp2Mr  =  -1433254978;
   Te234rPF  =  -2046868943;
   JepccR1  =  150754960;
@@ -54,7 +54,7 @@ int main()
   Bb440W_  =  231958316;
   tybrrg  =  -1917668929;
   BVxht8k6M  =  764059677;
-  NF9dD  =  -963399356;
+
   GGIA_  =  1571862568;
   HHxJen  =  -1806684066;
   d53k0422W1  =  -346892775;
@@ -80,7 +80,7 @@ int main()
   ik1v0B6  =  946892601;
   B4MMIIHs4k  =  2107006939;
   XixnhroT  =  -220437221;
-  rb0_o7g4  =  2027196080;
+
 
   PD3lo9Ss  =  -787162790;
   aP3GGp  =  587999969;
@@ -92,7 +92,7 @@ int main()
   nqG4_5C0  =  -1548586873;
   SKW9jMxG  =  1126101980;
   gZoI76r  =  -1089312254;
-  ucYvRY9j  =  -1212452581;
+
 
   RI8i  =  838591009;
 
@@ -232,7 +232,7 @@ else if (((Sp0dmD1eD1 <= 587925686) || (QY3uA404 <= aP3GGp)) && (XixnhroT & -159
 }
 else if (xyD3H0_c9 >= TANMG)
 {
-B2htBoKI = (int)abs(W3_yO5o);
+
 }
 else if (x8Tn48FE > 1354222245)
 {
@@ -284,7 +284,7 @@ case 'f':
 
 break;
 case 'g':
-o2YZ = xfX7Y8j3(DJ3Aqg8, mN9q);
+
 break;
 default:
 Z1bl = xfX7Y8j3(-2115444470, 2054216985);
@@ -394,7 +394,7 @@ case 2:
 
 break;
 default:
-cndRhKYI2 >>= 343783644;
+
 break;
 }
 

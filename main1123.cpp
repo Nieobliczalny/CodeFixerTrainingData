@@ -64,7 +64,7 @@ int main(void)
 
 	hQZL	=	1180016570;
 	H2Ixce	=	-1169760187;
-	KNOp_yzzK7	=	-2069377495;
+
 	j_vQl_k6_	=	1729818555;
 	e0Ir0GL	=	-1298050140;
 	h077h76V3	=	-1736778950;
@@ -139,7 +139,7 @@ case 2:
 yMqhR4l = i1NlUI_1g ^ dzl765W7f;
 break;
 default:
-OB25eS = uwMp << 453457586;
+
 break;
 }
 w277Rq5 = (int)(ENmSyz);
@@ -279,7 +279,7 @@ if (dzl765W7f > 53002426)
 {
 for (int k = 0; k < 1; k++)
 {
-OB25eS = Zu0dkBy4ko >> eDjjYaNn;
+
 }
 }
 else if ((i1NlUI_1g < l9R1biM9) && (TYm9U))
@@ -295,7 +295,7 @@ else
 }
 else
 {
-OB25eS = (int)(eRy9);
+
 }
 }
 
@@ -311,7 +311,7 @@ i--;
 
 dzl765W7f = KtD17e_J0(dzl765W7f);
 
-uGQyG_ = hQZL / N556I9(dzl765W7f);
+
 switch (oD_3YGxuf)
 {
 case 0:

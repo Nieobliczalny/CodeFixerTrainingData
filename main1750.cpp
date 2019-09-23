@@ -48,7 +48,7 @@ std::cout << eSAslR1(-2013829842, Cn4966, 150699330) << i1LYy(-460757665, Cn4966
 
 std::cout << "s2wZ" << "HC9O7vQ" << std::endl;
 
-j5wTiHX = (unsigned short int)(bI_30);
+
 {
 int i = 0;
 do
@@ -129,7 +129,7 @@ case 'b':
 
 break;
 case 'c':
-pxc8L5EL2G = (int)abs(I0_Frr7m);
+
 break;
 case 'd':
 ZLeG4y_--;
@@ -251,7 +251,7 @@ else if (E2qE)
 }
 else if (ML_Q & A8XmcUc)
 {
-z_80 = eSAslR1(jn23x, ULzsT0i_r, z_80);
+
 }
 else if (ICv3kQNTi > -231700006)
 {
@@ -263,7 +263,7 @@ else if (l9vhZb13_)
 }
 else if ((m_7m > -410851916) || (sD1FBu0UD))
 {
-z_80 = eSAslR1(171594010, 98850047, 1379590670);
+
 }
 else
 {

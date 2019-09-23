@@ -36,7 +36,7 @@ if (Pp_mTYZ71k == 1116727351)
 
 if (tEV8GI9xhL == 0)
 {
-	Pp_mTYZ71k = -38666357 / tEV8GI9xhL;
+
 }
 
 return 0;

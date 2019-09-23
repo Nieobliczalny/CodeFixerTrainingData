@@ -199,7 +199,7 @@ qXx_7gL_--;
 
 
 
-ws0S_m7dL0 = wBGF7Pg / II_h7;
+
 {
 int i = 0;
 while (i < 10)

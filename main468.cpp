@@ -696,7 +696,7 @@ ic3k1Es = (int)abs(gy11z28);
 break;
 case 'd':
 case 'D':
-C3dh7 = (int)abs(gKQ9B8U83);
+
 break;
 case 'e':
 case 'E':
@@ -708,7 +708,7 @@ case 'F':
 break;
 case 'g':
 case 'G':
-MDWdRE = eCiw8hSl(-2132229121, 1018643384, -482502566);
+
 break;
 case 'h':
 case 'H':

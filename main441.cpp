@@ -249,7 +249,7 @@ case 8:
 fD1517x -= g97vCY1k9x;
 break;
 default:
-r8Rf530i4K = g97vCY1k9x >> vL4jL;
+
 break;
 }
 
@@ -292,7 +292,7 @@ while (i < 7);
 }
 sYQ52 = g20VY / W9a787_;
 
-LRCQ7 = (int)abs(W9a787_);
+
 
 {
 int i = 0;
@@ -342,7 +342,7 @@ case 4:
 
 break;
 case 5:
-LRCQ7 = (int)abs(A4jvEV95so);
+
 break;
 case 6:
 rh6mwI_ = L_iB & 1290967884;
@@ -407,7 +407,7 @@ break;
 }
 else if (fD1517x)
 {
-E89W = W9a787_ ^ wrTMXe92;
+
 }
 else
 {
@@ -447,7 +447,7 @@ case 1:
 
 break;
 case 2:
-g97vCY1k9x = g67k4_ + o47083UGz;
+
 break;
 case 3:
 o47083UGz = w41iE(789830957, -1031565013, qWFVLKmMFj, uDSrs50_Ba, -1609298220);

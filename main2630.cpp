@@ -33,7 +33,7 @@ int main(int argc, char** argv)
 	i9_3J92c	=	-1508300296;
 	VHxJu	=	624861814;
 	pla0n	=	-1555995621;
-	q99w	=	2136263014;
+
 
 
 	S2F337wex	=	21638503;
@@ -43,7 +43,7 @@ int main(int argc, char** argv)
 	tJi8s	=	1709057585;
 	x8gI	=	1930359372;
 	m5P8Xl_f4y	=	-977377167;
-	Anj6v	=	-1313690374;
+
 	a7kRS1V	=	-1384410297;
 	kkRk7	=	1319753820;
 	iKXHc8	=	-112809450;
@@ -60,7 +60,7 @@ int main(int argc, char** argv)
 	W0G4YXj29	=	-600225096;
 	RN9zW2	=	1296374395;
 
-tJi8s = (int)abs(a3oblr);
+
 
 x8gI *= BSP9etE8;
 

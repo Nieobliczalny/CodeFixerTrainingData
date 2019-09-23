@@ -208,7 +208,7 @@ iI9A55bM = E6t63(1340186227, s_Yo8v1, sO72ixR1v, ViMrHHg2z_, -818828984);
 }
 else if (((y642f > -1158462616) && (KB19i >= -36027283)) || (pyPUaFR & 1853784887))
 {
-ob6wAck_ = (int)floor(ByL2e);
+
 }
 else if (r9z66B65)
 {
@@ -270,7 +270,7 @@ else if (sO72ixR1v >= -312772422)
 {
 try
 {
-ob6wAck_ = y2tK(-1016629933, -348171269, Lp_5J_P4, -1262221700, -732281993);
+
 }
 catch (int& errorCode)
 {

@@ -390,7 +390,7 @@ case 4:
 oVXg64jbjl = I8ev & G_PdIAS;
 break;
 default:
-eRV_OXic6B &= 12428720;
+
 break;
 }
 for (int i = 8; i >= 0; i--)
@@ -587,7 +587,7 @@ case 'c':
 
 break;
 case 'd':
-zVQ39 = k8niPj_ >> I8ev;
+
 break;
 case 'e':
 d_6l_1f1nj = (int)abs(pvdRBjUBT);

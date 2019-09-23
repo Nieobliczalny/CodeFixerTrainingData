@@ -20,7 +20,7 @@ int main(int argc, char** argv)
  short int zvpKFr;
 
   long long  Zz9_;
-  Zz9_  =  -1481141609;
+
   short int  CJhwjrL0I;
   CJhwjrL0I  =  -625016564;
   int  KqeW_o1xU;
@@ -42,7 +42,7 @@ int main(int argc, char** argv)
 	short	v93R4TN;
 
   long  D5APb27L;
-  D5APb27L  =  -1839550344;
+
  unsigned short Lu0xCIOS;
  Lu0xCIOS = -901370863;
 	char	RHv7kvJs;
@@ -52,7 +52,7 @@ int main(int argc, char** argv)
  int TEd_;
 
   unsigned char  FFUs8i;
-  FFUs8i  =  737704340;
+
     long    sByn;
     sByn    =    1141206512;
  double m2ma0DcE;
@@ -76,7 +76,7 @@ int main(int argc, char** argv)
  unsigned short BOnZ5Le2G5;
  BOnZ5Le2G5 = -853572564;
 	unsigned short int	piHmUb777;
-	piHmUb777	=	-241096758;
+
     long long    LFM0HN1aKb;
     LFM0HN1aKb    =    -439092371;
  unsigned long l8iK;
@@ -88,7 +88,7 @@ int main(int argc, char** argv)
   unsigned short  siFRF;
 
 	long double	vXu8g;
-	vXu8g	=	-1900451555;
+
   short  pgzf;
 
 	short	fZe9p;
@@ -110,7 +110,7 @@ int main(int argc, char** argv)
     unsigned short int    vhK8G3_;
 
 	unsigned long long	n0HJ;
-	n0HJ	=	263813546;
+
  unsigned char sj_MqP8092;
  sj_MqP8092 = 1190865486;
 	long long	z5xqwrz_;
@@ -132,7 +132,7 @@ int main(int argc, char** argv)
     short    z6r77e;
     z6r77e    =    749816360;
 	double	E_3PDi;
-	E_3PDi	=	-1298398855;
+
   long  N46KvCro;
   N46KvCro  =  0;
 	unsigned char	AUsoV;
@@ -222,7 +222,7 @@ if ((ED21N7Y) || ((n79cd <= -1176007726) || (z6r77e <= 1479359510)))
 {
 if ((aU7_ <= LFM0HN1aKb) && (n79cd < M7yvR6Tx))
 {
-VDqt = znR6eihjOv + 1894391779;
+
 }
 }
 else
@@ -285,7 +285,7 @@ int i = 0;
 do
 {
 i++;
-fZe9p = RpSCRrvJMZ(-332860689, gd0gXI8RO);
+
 }
 while (i < 8);
 }

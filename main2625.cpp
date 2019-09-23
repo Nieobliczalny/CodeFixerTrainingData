@@ -388,7 +388,7 @@ case 3:
 TFs2otC5 = f92e1_cQh / 363319237;
 break;
 case 4:
-eW866_ = (int)abs(b2vadbX);
+
 break;
 case 5:
 f2kw8qi4 = np2bE6e();
@@ -702,7 +702,7 @@ if ((iUGG8d == TQ68cWd) && (MP8_Fs83W > iBBcV3WBt0))
 }
 
 
-nYD8T = (float)(iBBcV3WBt0 + (-1159525783));
+
 
 if (((dM8kuFULR != 1260336990) && (E0O1I4L1 > wLk5n4mP62)) || (wzzVv >= -1951254612))
 {

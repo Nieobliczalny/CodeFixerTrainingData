@@ -24,7 +24,7 @@ int main() {
  double Ytl_6O, M5eA, MRRQiD7B4B, rJ4_3OYGyw, gFnx73C, YIXU, b4sb8hmI, vhB1f, UQ7RvQtM6, W_49HC, V8nt_, FDOAii, r_xpB89sI, MOHPi2O9mB, v50Q8x, o2_d7BT0H, u9SX8_0, y1qS, h9Pxyw4IGo, I87WP0x0, GZYPn6cI, YGF4, oDu3b6L, UD_6Yv, cbyMdQ1QK, N9yCNJVI, T5BwMd, Yq8h7k56_i, HaL3, W7x4971K, Wwj2_t0Zi, NE_t71, a_25RC, AplF4t5, a67BtZ7EB_, QK0g33i, s2FqM, Dg1B, JsY0lv1ULW, TLiEY, B6CaRPf, Fy5p, aIrNpuu, OqT70QW, Q7zgNP340, C4fwB_b, aEOS1, nVI4, D29w96a, s7VIy, h9o7HU60Ea, lIH1, OGkX6E45, m0U3Wf8Dr, Plt16U, N4EdQI, c693, qL1o, Fm1906tx9_, y534T, DHd7, ul8HpC9r3, YDjtc, U9f_u_, dmon0Kj72, glqlGV028, n70XHfj4u, zKR56, oT_td, gKh9, lioc, G_3Ff46He, Ezb05lkX, sA_R56Mu_, AC02, S9UcA;
  Ytl_6O = 1631303982;
  M5eA = 1966436855;
- MRRQiD7B4B = 248690806;
+
  rJ4_3OYGyw = -1997877451;
  gFnx73C = 1579896564;
  YIXU = 2066755418;
@@ -34,7 +34,7 @@ int main() {
 
  V8nt_ = -1561703409;
  FDOAii = 1190594960;
- r_xpB89sI = -71097988;
+
  MOHPi2O9mB = 54089831;
  v50Q8x = -823239977;
  o2_d7BT0H = -293075538;
@@ -47,7 +47,7 @@ int main() {
  oDu3b6L = 476168153;
 
  cbyMdQ1QK = -1978473206;
- N9yCNJVI = 386625070;
+
  T5BwMd = -2057492216;
  Yq8h7k56_i = 744185535;
  HaL3 = 1141966788;
@@ -58,7 +58,7 @@ int main() {
 
  a67BtZ7EB_ = 1343802817;
  QK0g33i = 714718943;
- s2FqM = 37673629;
+
  Dg1B = -2066885964;
  JsY0lv1ULW = -484296954;
  TLiEY = 1122891315;
@@ -68,7 +68,7 @@ int main() {
 
 
  C4fwB_b = 1591840863;
- aEOS1 = 1007722480;
+
  nVI4 = -473755641;
  D29w96a = -1662794798;
  s7VIy = -209682821;
@@ -80,7 +80,7 @@ int main() {
  N4EdQI = 1560571855;
 
  qL1o = -1657548460;
- Fm1906tx9_ = 1392366308;
+
  y534T = 2049387132;
  DHd7 = 33002681;
  ul8HpC9r3 = 2088892401;
@@ -90,7 +90,7 @@ int main() {
  glqlGV028 = -1621441532;
 
  zKR56 = 585509832;
- oT_td = -1817877400;
+
  gKh9 = 1719876159;
  lioc = 561281284;
  G_3Ff46He = 1180794995;
@@ -195,7 +195,7 @@ case 1:
 
 break;
 case 2:
-sA_R56Mu_ /= 788166593;
+
 break;
 case 3:
 cbyMdQ1QK = (int)ceil(u9SX8_0);
@@ -213,7 +213,7 @@ case 7:
 
 break;
 case 8:
-oT_td = f1bFg38v(-2127327328);
+
 break;
 case 9:
 Dg1B = f1bFg38v(-465843562);
@@ -330,7 +330,7 @@ for (int i = 8; i >= 0; i--)
 }
 cout << JsY0lv1ULW << endl;
 
-AC02 = (double)(oDu3b6L);
+
 
 for (int i = 7; i >= 0; --i)
 {

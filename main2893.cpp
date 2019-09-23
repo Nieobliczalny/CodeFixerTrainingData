@@ -30,7 +30,7 @@ int main(int argc, char** argv) {
 
 	YrI3i	=	-1619459462;
 	A707GNM	=	-1777529639;
-	ltGfnbZ6ZQ	=	318494962;
+
 	psfT7FdGT	=	1864794575;
 	BwNaUj	=	1658926305;
 	B5GP5B3kch	=	-1031984502;
@@ -41,7 +41,7 @@ int main(int argc, char** argv) {
 	wrMuB4kg9M	=	-636665210;
 	rEemGzvmBQ	=	1525789903;
 
-	MBtgTKYG	=	-661270803;
+
 	B2v16x	=	321119973;
 	F112cVUg8	=	-127256275;
 	D7Y4_53iX	=	1045617913;
@@ -52,7 +52,7 @@ int main(int argc, char** argv) {
 	X6iSjifhL	=	1738076592;
 	pM4K4	=	386790607;
 	f3X9_WwIzb	=	2058614916;
-	GWJnX	=	-1240803111;
+
 	DbIc32	=	-1785475680;
 	Zs2t_Th	=	1185765769;
 	GX1v	=	787691304;
@@ -62,7 +62,7 @@ int main(int argc, char** argv) {
 	z202aU	=	1285091779;
 	s95pIvq8	=	812882515;
 	zhMvUL6F	=	-1032710702;
-	bw_B60hwn	=	357220268;
+
 	Y27j86X	=	-110121141;
 	JF8PP94_	=	-1023061650;
 	VdCQ_Iq	=	-274030233;
@@ -93,7 +93,7 @@ if (((mAK8wN & OF1Bn) && (psfT7FdGT == 555538184)) && ((eyjPf2 & -598919048) || 
 cout << "r6sU" << mbKr_s0y(OF1Bn, Y03Q, LstbGCNQ6P) << "AC_s" << H9oxT7h_ << endl;
 
 
-dy4VF = dLvwzFoKY(385813099, A707GNM, r44op7C, 945366998, rEemGzvmBQ);
+
 if (GX1v & Eku0Y_8v)
 {
 
@@ -157,7 +157,7 @@ case 1:
 
 break;
 case 2:
-H9oxT7h_ = mbKr_s0y(Eku0Y_8v, YrI3i, B5GP5B3kch);
+
 break;
 default:
 mAK8wN = dLvwzFoKY(-1461814854, 1315303532, Z6q_ZpkEm, -1802644794, f3X9_WwIzb);

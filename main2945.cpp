@@ -21,7 +21,7 @@ int main(void)
     short    Ffhlq;
     Ffhlq    =    134971177;
   unsigned long  E1d_AD2vU1;
-  E1d_AD2vU1  =  -39328420;
+
     short int    BtV2J;
     BtV2J    =    0;
 	unsigned long	zo1kCc1;
@@ -31,7 +31,7 @@ int main(void)
 	short	QB_vD_D36U;
 
   int  yAwzm69;
-  yAwzm69  =  2109082950;
+
   unsigned short int  q9Iuvg69Y;
   q9Iuvg69Y  =  1829456179;
  long OKl1KolL8R;
@@ -45,7 +45,7 @@ int main(void)
  short QlcA0;
  QlcA0 = 250877717;
 	long	U86Z;
-	U86Z	=	2108733423;
+
 	unsigned short int	yGlQu7Q;
 	yGlQu7Q	=	-46077291;
  int SgeEE;
@@ -55,7 +55,7 @@ int main(void)
     unsigned char    TuO7t3;
 
   long  yBEO6;
-  yBEO6  =  -2025377977;
+
     long    ioB5B3WU;
     ioB5B3WU    =    -1949201922;
 	unsigned long	gq0pC7Fn_Y;
@@ -65,7 +65,7 @@ int main(void)
 	float	m3ZM;
 
     unsigned char    aZ08;
-    aZ08    =    1924126776;
+
   unsigned short  zbEJ73IgFM;
   zbEJ73IgFM  =  2136811153;
  short h9gbSDj;
@@ -79,7 +79,7 @@ int main(void)
 	int	Uhbz;
 	Uhbz	=	774794430;
 	char	z40r_1pvE;
-	z40r_1pvE	=	1254338388;
+
 	char	R9i72KtEzR;
 	R9i72KtEzR	=	-1786930522;
   long  qgc3;
@@ -99,7 +99,7 @@ int main(void)
   unsigned int  Fzse6;
 
     unsigned short    KawN;
-    KawN    =    1906123654;
+
 	unsigned long long	a9S4;
 	a9S4	=	-1591302960;
   short  tWTaOy;
@@ -113,7 +113,7 @@ int main(void)
     float    YVyRX;
     YVyRX    =    1195538854;
  short fr607e_i2;
- fr607e_i2 = 106970965;
+
     unsigned long    q040;
     q040    =    -1530860825;
   long long  hoY9_;
@@ -125,7 +125,7 @@ int main(void)
   unsigned long  m_mDw7Ch;
   m_mDw7Ch  =  947125497;
   unsigned char  vgN034Y;
-  vgN034Y  =  651326244;
+
  long double wX3oykG3L;
  wX3oykG3L = -1700537533;
 	short	gU3e4wA;
@@ -142,7 +142,7 @@ int j = 10;
 while (j >= 0)
 {
 j--;
-fr607e_i2 = (short)(m_mDw7Ch);
+
 }
 }
 }
@@ -206,7 +206,7 @@ std::cout << YVyRX << std::endl;
 
 
 
-h9gbSDj = (short)(PieMo3xp4 + (1529692383));
+
 
 {
 int i = 0;
@@ -219,7 +219,7 @@ h9gbSDj = (int)abs(RwUuXpljQ);
 
 
 
-oZW6A = (int)floor(YVyRX);
+
 
 return 0;
 }

@@ -394,7 +394,7 @@ while (i >= 0)
 {
 if (eWJ_8OZ3Yd & dQIPxK8G34)
 {
-O6uL0fJD = (short)(hU8pZR);
+
 }
 else
 {
@@ -426,7 +426,7 @@ case 0:
 
 break;
 case 1:
-O6uL0fJD = X4pG3();
+
 break;
 }
 if (cluGF >= B7kfJ3aP)

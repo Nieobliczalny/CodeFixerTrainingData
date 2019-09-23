@@ -209,7 +209,7 @@ for (int j = 0; j < 7; j++)
 std::cout << "I_Pl" << ZE07dBv3 << ZE07dBv3 << TC2iTe << rHKVm(n9u51, ZlKb8m8_f, oJv_, slclOCG, TC2iTe) << std::endl;
 }
 }
-PzJnS = QTk6 / ZE07dBv3;
+
 switch (dGLQ4wII)
 {
 case 0:
@@ -269,7 +269,7 @@ jwT_ = T4HJl5(jwT_);
 }
 else
 {
-PzJnS = sp07h7Nzi << 859493950;
+
 }
 }
 --i;
@@ -300,7 +300,7 @@ do
 --i;
 for (int j = 0; j < 1; j++)
 {
-a92Qs = T4HJl5(-2031872370);
+
 }
 }
 while (i >= 0);
@@ -408,7 +408,7 @@ if (p57_ == -1332698421)
 }
 else if ((p57_) && (PqlwJNQ6o2 >= 934214080))
 {
-a92Qs = (int)abs(slclOCG);
+
 }
 else if (O9g_KGej9 == -1302058575)
 {

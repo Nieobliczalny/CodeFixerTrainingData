@@ -144,7 +144,7 @@ int main() {
 	short	t71JTFE0J6;
 	t71JTFE0J6	=	-816591870;
  unsigned short int b76j3g2;
- b76j3g2 = -895726961;
+
  float Av8226U8Y;
  Av8226U8Y = -332716631;
 	unsigned short int	E_Gsr2g;
@@ -158,7 +158,7 @@ int main() {
     long double    dXYWeTNI;
 
   long double  Sen4EdQ_7a;
-  Sen4EdQ_7a  =  -1144107810;
+
 	long double	k_71uNYS;
 	k_71uNYS	=	-1365774506;
   long double  OG9y8965K;
@@ -216,7 +216,7 @@ int main() {
 
 try
 {
-RR__fxN = (int)ceil(k_71uNYS);
+
 }
 catch (int& errorCode)
 {
@@ -263,7 +263,7 @@ x2tY7ELA = MsriwV1_Qi(x2tY7ELA, mzk4Vu3, CsOT1, -1512545779);
 }
 else
 {
-H_HZr8PQ = wwpBuS(H_HZr8PQ, 67324693, 1885701850, -376749119);
+
 }
 
 if (x2tY7ELA >= -703600703)
@@ -365,7 +365,7 @@ case 3:
 
 break;
 case 4:
-k7VKjGfA20 = e_fB(k7VKjGfA20, p4h24A, Lm02P);
+
 break;
 case 5:
 hF34Z0Vi = (gYZZ8tbMJo <= 1567976689) ? 1308385114 : UwXTB1r;
@@ -499,7 +499,7 @@ i--;
 while (i >= 0);
 }
 
-hF34Z0Vi = (int)floor(qvgz);
+
 if (N2ZdK_66p == 0)
 {
 	MwLeF8442 = O3IAYDE / N2ZdK_66p;
@@ -806,7 +806,7 @@ case 2:
 
 break;
 case 3:
-RR__fxN = WX369FZo & f_664l_LNm;
+
 break;
 case 4:
 Rf2f3pE95 = yRKWry(Rf2f3pE95, zN6_3, -809723142);

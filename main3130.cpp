@@ -280,7 +280,7 @@ case 'G':
 
 break;
 default:
-i4U8nW = rXGdJ6vy58(i4U8nW);
+
 break;
 }
 }
@@ -293,7 +293,7 @@ if ((qac8opeH == -997170314) && (enBUT & o_9SSqegt))
 switch (WXUJeMl6gN)
 {
 case 'a':
-qac8opeH = u3675 % 2004786663;
+
 break;
 case 'b':
 
@@ -335,7 +335,7 @@ case 2:
 
 break;
 case 3:
-tM_Ji += 749989090;
+
 break;
 case 4:
 
@@ -358,7 +358,7 @@ case 'c':
 
 break;
 case 'd':
-qac8opeH = CbDe * 1615452385;
+
 break;
 case 'e':
 

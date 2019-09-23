@@ -291,7 +291,7 @@ else if (sw_0wvnJCs)
 }
 else if (FQLk >= Ud4w)
 {
-mtfi = (int)(pfM4Y70);
+
 }
 else if (G10oITe3d <= OhpZ)
 {

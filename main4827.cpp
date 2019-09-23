@@ -39,7 +39,7 @@ int main()
 	short	i0sB;
 	i0sB	=	1855909741;
   double  b8i4KY97ba;
-  b8i4KY97ba  =  745153558;
+
   unsigned short  l0G84e;
 
  unsigned long long r2fD;
@@ -65,7 +65,7 @@ int main()
   unsigned int  EFunX;
 
 	unsigned char	Oo6Y_A;
-	Oo6Y_A	=	1523552252;
+
 	unsigned long long	tFmC;
 	tFmC	=	1378503976;
     short    m95p6x7WRE;
@@ -89,7 +89,7 @@ int main()
 	long	U_mB6;
 
 	unsigned short	W3ZiF;
-	W3ZiF	=	-1585850550;
+
     int    J_s_P;
     J_s_P    =    2091436806;
 	short int	L_OD;
@@ -120,7 +120,7 @@ BV3x = (float)(cjnMiT);
 
 if (EU1R4)
 {
-L_OD = dvwVaY_k(-574924974);
+
 }
 cout << O7wuUN7yo << tFmC << YKm78_L9R << C7_9 << Ts7Oet2 << endl;
 

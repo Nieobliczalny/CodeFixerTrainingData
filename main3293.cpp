@@ -402,7 +402,7 @@ U434h9I %= a4A9lG4;
 break;
 case 'f':
 case 'F':
-t97wB_6aC = c57ok | hM6i22m;
+
 break;
 case 'g':
 case 'G':
@@ -433,7 +433,7 @@ mACwQ = FTQy & 2122923821;
 }
 else
 {
-t97wB_6aC = (short int)(kDpwi);
+
 }
 
 U434h9I -= 698332092;
@@ -473,7 +473,7 @@ while (j < 8)
 switch (bpVR)
 {
 case 0:
-t97wB_6aC = lS_wqpC03 * i85bx7w;
+
 break;
 case 1:
 ZjjWHp74 -= C6266zh30;

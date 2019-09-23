@@ -148,7 +148,7 @@ case 2:
 
 break;
 case 3:
-H4Ojnj9Lq = (int)ceil(kVxIr);
+
 break;
 case 4:
 H4Ojnj9Lq = sj90ah ^ QJwGSIO;
@@ -160,7 +160,7 @@ case 6:
 
 break;
 case 7:
-QJwGSIO = D7oeF << k_kA2;
+
 break;
 case 8:
 PpPE ^= U74U_8;
@@ -318,7 +318,7 @@ case 'd':
 wEB1 += 812482476;
 break;
 case 'e':
-uXa_kP8 -= xX_2X;
+
 break;
 }
 switch (w2r1lbN)
@@ -330,7 +330,7 @@ case 1:
 
 break;
 case 2:
-H4Ojnj9Lq = (int)floor(kVxIr);
+
 break;
 default:
 SF7XM01 = u4R4 * 37847939;

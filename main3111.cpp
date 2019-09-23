@@ -215,7 +215,7 @@ case 'b':
 G402Xj = Irnmo99(G402Xj);
 break;
 case 'c':
-utvoO = WY_vMb(847965763);
+
 break;
 case 'd':
 
@@ -314,7 +314,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-d_Rh = (int)abs(t0BLlmTvy);
+
 break;
 case 'd':
 case 'D':
@@ -352,7 +352,7 @@ case 2:
 
 break;
 case 3:
-Aq41 = jowmo(954281050, 1508580106);
+
 break;
 case 4:
 
@@ -370,7 +370,7 @@ case 8:
 
 break;
 default:
-C_ppx <<= 875714293;
+
 break;
 }
 b_9986_ = U4cG7(b_9986_, -436534933, -851495287, -819278429, 1761414088);
@@ -403,7 +403,7 @@ while (i >= 0);
 }
 
 
-Fx3e = Irnmo99(Fx3e);
+
 {
 int i = 0;
 while (i < 8)

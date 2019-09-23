@@ -32,7 +32,7 @@ unsigned long long eUta(unsigned long l_I8c,unsigned short okmYJgkts9,long O0551
 int main()
 {
  unsigned short int FNaA;
- FNaA = 0;
+
 	int	r3095OMQ9,	OlK27NH,	mKLUgV,	IYcL16x_6,	pxwf,	loX9,	Y1T9yTRy4r;
 
 	OlK27NH	=	1535288610;

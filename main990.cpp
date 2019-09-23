@@ -424,7 +424,7 @@ int k = 0;
 do
 {
 k++;
-OmTnhuy93_ = (int)abs(AYb_W9sp0);
+
 }
 while (k < 7);
 }
@@ -533,7 +533,7 @@ OxDJtU48 = (int)floor(wVJpW2);
 
 std::cout << "PkIx" << wVJpW2 << "N9Wn58566" << Hrj9Hal() << std::endl;
 Qly2ZLU1_ /= sA74959;
-IAM0mbW = mUMri / sg6B;
+
 switch (a4rcUb22r)
 {
 case 0:

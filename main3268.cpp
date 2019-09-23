@@ -113,7 +113,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-XXmbGedU1 = G4U65w(1151787024, -1194112178, HYcW);
+
 break;
 case 'g':
 case 'G':
@@ -124,7 +124,7 @@ default:
 break;
 }
 
-ZgP8 = p094N(ZgP8, S1cz_);
+
 {
 int i = 1;
 while (i >= 0)
@@ -217,7 +217,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-I25v0GCGY5 *= 64964469;
+
 break;
 case 'c':
 case 'C':
@@ -229,7 +229,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-FAsk = G4U65w(1831191968, epzL, -518187835);
+
 break;
 case 'f':
 case 'F':

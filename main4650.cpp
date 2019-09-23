@@ -48,7 +48,7 @@ if ((Mv65tG6) || (Z6VLJt4N_ < r877))
 switch (g5i27S)
 {
 case 'a':
-K2aE6_671J = (g5i27S > 1145772837) ? Mv65tG6 : 410294988;
+
 break;
 case 'b':
 YNV85M *= 1940434446;
@@ -69,7 +69,7 @@ for (int i = 5; i >= 0; i--)
 {
 if (lg0Y)
 {
-fvH2tA7c = (Be92QUx != -213334943) ? r30aj1qn : Mv65tG6;
+
 }
 }
 
@@ -102,7 +102,7 @@ int i = 0;
 while (i < 6)
 {
 i++;
-G83H5tT5fC = Be92QUx - 1759153407;
+
 }
 }
 {
@@ -122,7 +122,7 @@ case 'b':
 TyJ6j = cWf0S9w_7(TyJ6j, VWPeH9zz);
 break;
 default:
-v0Fjy = (kT0oMGHvQ) ? N61A2Uc_F : R81y;
+
 break;
 }
 ++j;

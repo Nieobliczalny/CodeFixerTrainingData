@@ -167,7 +167,7 @@ case 3:
 DrE9 = UysM_T302i * RKJX;
 break;
 case 4:
-B249b = dax0F50(RN41H1);
+
 break;
 case 5:
 
@@ -179,7 +179,7 @@ case 7:
 nEP4P4Zy5V = SA73l0Qtyn & 1002183531;
 break;
 default:
-Z8P8wL /= 1877467330;
+
 break;
 }
 }
@@ -213,7 +213,7 @@ RNygxJrcUO ^= 2122460088;
 
 
 
-dS4o149D = (unsigned char)(Uo_aNzk65v);
+
 
 std::cout << "kith" << "VHYg4kD0_" << iAU00xY5i9 << dElUc8c8 << std::endl;
 try

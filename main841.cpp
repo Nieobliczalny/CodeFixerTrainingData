@@ -168,7 +168,7 @@ int k = 3;
 do
 {
 k--;
-L_FT = (int)floor(E9iNMXvCu);
+
 }
 while (k >= 0);
 }

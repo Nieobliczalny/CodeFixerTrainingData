@@ -644,7 +644,7 @@ Bb3Epn6 %= 238065454;
 }
 }
 
-cHwrdsO = sWL165J0Qx(Do6BL3) / 352488721;
+
 
 for (int i = 4; i >= 0; --i)
 {

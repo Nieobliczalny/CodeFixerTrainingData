@@ -853,7 +853,7 @@ vpMPlKoT = PeY22t / ZFlv5F;
 }
 else
 {
-pdRk7 = (unsigned long)(URIG_Y);
+
 }
 
 try
@@ -869,7 +869,7 @@ case 'b':
 
 break;
 case 'c':
-e6loGd >>= 2109211563;
+
 break;
 case 'd':
 JZ0s3 = ZFlv5F / 1939860157;
@@ -884,7 +884,7 @@ case 'g':
 
 break;
 case 'h':
-ZFlv5F -= 313288153;
+
 break;
 default:
 f6sl9bdHnM = (int)abs(cajb21JDz_);
@@ -954,7 +954,7 @@ case 'c':
 a7ICoXy6 = a7ICoXy6 - Se42Co0;
 break;
 case 'd':
-jk0eV = a7ICoXy6 * 727922626;
+
 break;
 case 'e':
 f6sl9bdHnM = (int)abs(cajb21JDz_);

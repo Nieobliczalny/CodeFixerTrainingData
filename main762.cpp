@@ -75,7 +75,7 @@ Rxy_ %= 1513168345;
 
 q1MVl3R++;
 
-q4txFy = DNyEQs ^ 512324201;
+
 
 if (fNFSj_Fn4 & G8aF6HJ)
 {

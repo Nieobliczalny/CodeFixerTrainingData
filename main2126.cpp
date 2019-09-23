@@ -157,7 +157,7 @@ case 0:
 DqIB2x ^= 960961704;
 break;
 case 1:
-E6F74N2 &= 923821173;
+
 break;
 case 2:
 M5hU5 = fjh1g4zmN2 ^ 1182046588;
@@ -169,7 +169,7 @@ case 4:
 
 break;
 case 5:
-foOCq ^= 912198733;
+
 break;
 case 6:
 DfmJhX5Z = Z1C67F03 - 935123793;
@@ -239,7 +239,7 @@ while (i >= 0);
 
 
 
-XZe_49Yj = (int)ceil(rfJYl6_);
+
 for (int i = 7; i >= 0; --i)
 {
 if ((DqIB2x <= -1893410563) || (bgOTkxu1))
@@ -255,7 +255,7 @@ k++;
 }
 }
 
-SuQ3B25 = (int)ceil(rfJYl6_);
+
 
 return 0;
 }

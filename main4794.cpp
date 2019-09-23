@@ -159,7 +159,7 @@ mG628gCs = (int)floor(t__4b2Aj);
 }
 }
 
-q4871_K9 = (int)ceil(cT8rn5_D);
+
 
 
 try
@@ -487,7 +487,7 @@ else if (V4ez03P1n <= 1352603091)
 }
 else if (ScuVyXCgT6 & mpn54)
 {
-m7Ag8xt = DE4f1 / 305988618;
+
 }
 else
 {

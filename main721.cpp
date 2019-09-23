@@ -44,7 +44,7 @@ int main(void) {
  double w3zc_49;
  w3zc_49 = 307450712;
   long double  Lq2j_ez;
-  Lq2j_ez  =  1442695355;
+
  unsigned long long j3KJ91ke;
  j3KJ91ke = 1070501477;
   unsigned char  fHH0O18U7;
@@ -80,7 +80,7 @@ UQi4ps9l4 = yTa847G6(1794539459, C52651, UQi4ps9l4, 232806486, 1708163995);
 break;
 case 'f':
 case 'F':
-Lq2j_ez = (int)floor(w3zc_49);
+
 break;
 case 'g':
 case 'G':

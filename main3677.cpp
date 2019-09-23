@@ -110,7 +110,7 @@ case 'a':
 
 break;
 case 'b':
-YnKG7hIG_ = (int)ceil(CMcBTmJ);
+
 break;
 case 'c':
 B1ACQnJZ = YCg9R_4MP7 % sqbU0;
@@ -290,7 +290,7 @@ int j = 0;
 while (j < 8)
 {
 ++j;
-Cj_r = (int)(V80_46NS6);
+
 }
 }
 }

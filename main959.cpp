@@ -52,7 +52,7 @@ int main()
 	float	p_M9;
 	p_M9	=	2080448914;
  float s06M08oH;
- s06M08oH = -2103975475;
+
 	unsigned long long	Ih_F2GX9;
 
   short  Fg9ISe;
@@ -104,7 +104,7 @@ int main()
   float  bcUN;
 
  unsigned long long O8Hq;
- O8Hq = 1325708405;
+
  unsigned short int BxDoLU6C;
  BxDoLU6C = -590709349;
     unsigned short    Py87;
@@ -116,7 +116,7 @@ int main()
   unsigned int  MpNj9qb60v;
 
  int v01DTHX5E;
- v01DTHX5E = -1927801941;
+
     int    RY07;
     RY07    =    816090375;
     int    tun_QN;
@@ -126,7 +126,7 @@ int main()
     unsigned char    ATjoX;
 
   char  Vp8Jt;
-  Vp8Jt  =  -783591552;
+
  double MAk93;
  MAk93 = 729415465;
     unsigned long long    l2XFQGtZkF;
@@ -140,7 +140,7 @@ int main()
 	unsigned int	VUKt38iM;
 
     int    pyxHv_3F;
-    pyxHv_3F    =    -76418156;
+
  unsigned char TQ6c1n7x_U;
  TQ6c1n7x_U = -1034035225;
     short    fOe4844sI6;
@@ -152,7 +152,7 @@ int main()
   unsigned short  slyIR5;
   slyIR5  =  769399572;
  int xiHL0M;
- xiHL0M = -2059403581;
+
     float    js314Ft3Aq;
     js314Ft3Aq    =    -1168644526;
  short lkXdXbMJQm;
@@ -360,7 +360,7 @@ break;
 }
 std::cout << U2xf << std::endl;
 
-tun_QN = (int)(kF5S0);
+
 for (int i = 9; i >= 0; i--)
 {
 try
@@ -406,7 +406,7 @@ else if (((qq0hNl & DLdo) && (xBedwuT6 == TQ6c1n7x_U)) || (PJ4K6au0S))
 }
 else if (TQ6c1n7x_U < 690424572)
 {
-fOe4844sI6 <<= Z3gu2028;
+
 }
 else
 {
@@ -424,7 +424,7 @@ case 1:
 
 break;
 case 2:
-MyCTA00 = hzAvs(-2050700124);
+
 break;
 case 3:
 e_Hb67 = sJY9_g3Zpy(e_Hb67);

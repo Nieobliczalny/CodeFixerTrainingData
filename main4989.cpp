@@ -173,7 +173,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-P_NS = (int)abs(E5OL5dS);
+
 break;
 default:
 d65k4 &= 463858336;
@@ -189,7 +189,7 @@ for (int j = 9; j >= 0; --j)
 }
 
 
-UY90 = -1394358286 / FkFW6_nrZg;
+
 if (p4QG <= d2yz)
 {
 LhgT3K = (unsigned short int)(Gc8qZk3o);

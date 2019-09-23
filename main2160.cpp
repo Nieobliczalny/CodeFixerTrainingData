@@ -72,7 +72,7 @@ int main(int argc, char** argv)
   unsigned long  YkKm371otI;
 
     long    NKv0SDk;
-    NKv0SDk    =    1663336379;
+
 	double	Mt44L31;
 
 	double	u4ZjF;
@@ -110,7 +110,7 @@ int main(int argc, char** argv)
   long  T1Hhm4KjhS;
   T1Hhm4KjhS  =  -850369823;
     unsigned long long    RV4l5;
-    RV4l5    =    -2122116603;
+
     unsigned char    ki7gpL8;
     ki7gpL8    =    -1684961936;
 	short	DBJ85;
@@ -160,7 +160,7 @@ case 0:
 QJ_B0u4 = Vc_4();
 break;
 case 1:
-RV4l5 = Vc_4();
+
 break;
 case 2:
 UCMu3 %= 352263192;
@@ -377,7 +377,7 @@ case 'c':
 
 break;
 case 'd':
-adfB = (AB8B2zN > h_q5fF_awM) ? h_q5fF_awM : JJnWGK0;
+
 break;
 case 'e':
 
@@ -558,7 +558,7 @@ qrbz4YjT *= g2zQcT;
 u4ZjF = (double)(h_q5fF_awM + (-2106224383));
 if ((ysU_U5C) || (fYV56r >= QJ_B0u4))
 {
-Mt44L31 = (int)floor(xy_9);
+
 }
 
 K1ifT7 = UCMu3 & 742323399;
@@ -574,7 +574,7 @@ switch (AB8B2zN)
 {
 case 'a':
 case 'A':
-O6K1a = (int)floor(AXC8);
+
 break;
 case 'b':
 case 'B':
@@ -643,7 +643,7 @@ if (exH_S == -1180166947)
 }
 else if (nCBrFm8 <= GB_8R)
 {
-O6K1a = Vc_4();
+
 }
 else if (lJHw7wW >= qrbz4YjT)
 {

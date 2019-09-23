@@ -59,7 +59,7 @@ for (int i = 4; i >= 0; --i)
 switch (uaW876u_lo)
 {
 case 0:
-Z3hh = (int)ceil(Pd_hpSPt6);
+
 break;
 case 1:
 p00E = (int)ceil(Pd_hpSPt6);
@@ -330,7 +330,7 @@ case 2:
 p00E = (int)floor(Pd_hpSPt6);
 break;
 case 3:
-HpbE = (int)abs(oi8CkK);
+
 break;
 case 4:
 
@@ -411,7 +411,7 @@ if (w7n2zQ < xS9p6y)
 }
 
 
-OjF2Y /= B117S;
+
 Pd_hpSPt6 = (int)ceil(Z3hh);
 
 switch (Yi8aEv)
@@ -423,7 +423,7 @@ case 'b':
 
 break;
 case 'c':
-iEeb0ODhP = L3kfzQr14(-248532947, -1626612211, 463018979);
+
 break;
 }
 Z3hh = (double)(x1r4);

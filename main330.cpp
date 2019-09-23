@@ -34,7 +34,7 @@ switch (tx7C0eMQ)
 {
 case 'a':
 case 'A':
-Q970mQ -= 1641797425;
+
 break;
 case 'b':
 case 'B':

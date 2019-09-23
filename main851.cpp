@@ -89,7 +89,7 @@ case 2:
 tjO01iSrq6++;
 break;
 case 3:
-gopuY2x = AFRk2vWf & 1275608163;
+
 break;
 case 4:
 ltEt4XIb9Y = (int)abs(D853ejUa4R);
@@ -108,7 +108,7 @@ case 1:
 
 break;
 case 2:
-s31v3oMxp ^= DxW_kmv5gZ;
+
 break;
 case 3:
 DxW_kmv5gZ = cMmDs25_ % D853ejUa4R;

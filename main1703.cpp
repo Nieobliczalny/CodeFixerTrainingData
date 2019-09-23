@@ -17,7 +17,7 @@ int main(int argc, char** argv)
  float t8c1ifqt;
 
 	unsigned int	Mcx7SA;
-	Mcx7SA	=	-1766988352;
+
   float  Zm0JT;
   Zm0JT  =  -197774922;
   long double  V8LCo_1;
@@ -29,7 +29,7 @@ int main(int argc, char** argv)
 	float	GVhL;
 
 	short	V_1A3656YU;
-	V_1A3656YU	=	-29550679;
+
   unsigned short int  a_1lUI4D9;
   a_1lUI4D9  =  1172571526;
  int G2FPg;
@@ -57,7 +57,7 @@ int main(int argc, char** argv)
  short e73__q32J;
  e73__q32J = 1699474875;
 	short int	RIhute_Q25;
-	RIhute_Q25	=	575704026;
+
 	unsigned long long	JFrghbt;
 
  unsigned short int mz0j9RD;
@@ -230,7 +230,7 @@ case 2:
 uMeiHx--;
 break;
 case 3:
-Y9b_kvS = (int)floor(aD2X2_6);
+
 break;
 case 4:
 
@@ -379,7 +379,7 @@ cout << NBf6G(V3xj04x0Nt, XQJCSd4X3_) << IKD8 << dFKQHIYo_ << endl;
 }
 else
 {
-Y9b_kvS = (int)abs(j3iw_27);
+
 }
 
 
@@ -449,7 +449,7 @@ case 'c':
 
 break;
 case 'd':
-C36B = (int)abs(Kiqk);
+
 break;
 case 'e':
 

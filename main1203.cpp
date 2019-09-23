@@ -53,7 +53,7 @@ int main(int argc, char** argv)
 	double	T3M8L;
 
 	short int	ZMz98b4;
-	ZMz98b4	=	0;
+
  unsigned long long cCNyH0hjA8;
  cCNyH0hjA8 = -1232128572;
   unsigned int  SU8O4cPS;
@@ -63,7 +63,7 @@ int main(int argc, char** argv)
  unsigned char fDfPC3K;
  fDfPC3K = -1164882023;
   short int  OsP2;
-  OsP2  =  -1079340874;
+
 	unsigned long	HE_Rt;
 	HE_Rt	=	-1343427354;
   short int  u3L97;
@@ -75,7 +75,7 @@ int main(int argc, char** argv)
  double EtCvc08;
 
  unsigned long long J3XC4K;
- J3XC4K = 1446110767;
+
 	unsigned char	Qa_Y;
 	Qa_Y	=	-1589163663;
   unsigned short  TT8B9j;
@@ -89,7 +89,7 @@ int main(int argc, char** argv)
     short    Pod_M;
     Pod_M    =    -727353645;
 	long double	L964J1eQ;
-	L964J1eQ	=	247953777;
+
   short  ymjBLq;
   ymjBLq  =  -464103471;
     long double    S0I_axu;
@@ -103,7 +103,7 @@ int main(int argc, char** argv)
  unsigned short Ve6c;
  Ve6c = -1145172273;
 	int	FRMBweY;
-	FRMBweY	=	408422882;
+
 	unsigned short int	M8O6U;
 	M8O6U	=	2005324767;
   unsigned short int  XmqDm;
@@ -188,7 +188,7 @@ int i = 5;
 while (i >= 0)
 {
 --i;
-FRMBweY = (int)(I813HM2tir);
+
 }
 }
 if (SOfdaf_tV == Y2M2z)
@@ -337,7 +337,7 @@ case 2:
 
 break;
 default:
-J9A6Nb9 = (int)abs(P_X5651);
+
 break;
 }
 }
@@ -439,7 +439,7 @@ case 'G':
 break;
 case 'h':
 case 'H':
-SU8O4cPS = Ggi0vz61_ | IRv30z_;
+
 break;
 case 'i':
 case 'I':
@@ -462,7 +462,7 @@ else
 
 cout << TT8B9j << ZrS2sJ << YL7ENe << endl;
 
-EtCvc08 = (int)floor(Ov09);
+
 
 IU6FLM7 = (unsigned short int)(hGP_);
 

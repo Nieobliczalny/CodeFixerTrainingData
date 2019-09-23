@@ -365,7 +365,7 @@ case 'c':
 
 break;
 case 'd':
-ttUS = (int)abs(Qr9U4_);
+
 break;
 case 'e':
 mHt8kjVUz *= 1398055768;
@@ -377,7 +377,7 @@ case 'g':
 
 break;
 case 'h':
-q8Sn3YCY2 = pKlc_Y178(1757936480, r5vLT, 687450537, -1716862620);
+
 break;
 case 'i':
 nT0P92Z13E = eJ9nm1tY(-746051195, -2109098777, pwUw2y_, -1516681279, 1521481523) | AP24;

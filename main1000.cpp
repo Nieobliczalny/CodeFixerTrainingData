@@ -328,7 +328,7 @@ cout << "n38296n_3" << "Tw9_X6G" << DL5_q__(1297405766, -51397444, ap5hI, XZlXVL
 int i = 0;
 while (i < 8)
 {
-N3u5Q2 = (int)abs(C9abS2);
+
 ++i;
 }
 }
@@ -468,7 +468,7 @@ case 1:
 Y6psJ = DL5_q__(dRc0DOyq7, 12296169, d_E3cLse_g, t49tlz);
 break;
 case 2:
-N3u5Q2 = vG43r_VOp(-151993995, 1756382809, 1910548907, 1531548307);
+
 break;
 case 3:
 
@@ -480,7 +480,7 @@ case 5:
 JQ6kF7dj = (int)ceil(DpS6_C_);
 break;
 case 6:
-N3u5Q2 = (int)abs(XnPx);
+
 break;
 case 7:
 JQ6kF7dj = (int)floor(j3_81f7qOs);
@@ -565,7 +565,7 @@ while (k < 9)
 }
 }
 
-dRc0DOyq7 = (unsigned long long)(H9p7W);
+
 {
 int i = 0;
 do

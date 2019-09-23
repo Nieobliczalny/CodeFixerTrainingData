@@ -319,7 +319,7 @@ dFCP8ta8 = NyQhD(Z5WHXgj172, 1035199415, dF8OS2jB);
 break;
 case 'e':
 case 'E':
-KSKMLUx_P = (int)floor(qGob9208);
+
 break;
 case 'f':
 case 'F':
@@ -331,7 +331,7 @@ qGob9208 = (int)ceil(KSKMLUx_P);
 break;
 case 'h':
 case 'H':
-KSKMLUx_P = (int)ceil(isB2);
+
 break;
 case 'i':
 case 'I':
@@ -416,7 +416,7 @@ case 'b':
 
 break;
 case 'c':
-KSKMLUx_P = (int)ceil(qGob9208);
+
 break;
 case 'd':
 Q_3E = NyQhD(jQnRl4DGIc, qGob9208, ye8p);

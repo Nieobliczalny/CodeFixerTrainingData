@@ -241,7 +241,7 @@ case 4:
 k0N5IXb5yi = (int)abs(DK96);
 break;
 case 5:
-iQgTxX3 = Iq16(iQgTxX3, k0N5IXb5yi, uTNB4, 1838387855);
+
 break;
 }
 }
@@ -277,7 +277,7 @@ ofU47223g = qS0Bzy21 * 920136306;
 }
 try
 {
-y2Nn1 = (int)abs(KFZ7Z956);
+
 }
 catch (int& errorCode)
 {
@@ -313,7 +313,7 @@ cQwACXlkp++;
 
 for (int i = 0; i < 3; ++i)
 {
-Up00 = (short)(t8NKQ3_QN);
+
 }
 
 M20z0k = (int)(gb__);
@@ -413,7 +413,7 @@ gb__ = (int)abs(rs3ug_7BBl);
 
 if ((clmb5hgPx6 <= -1404561158) && (t1ApYapE8 != 449452093))
 {
-ofU47223g <<= yhkTYWR1b;
+
 }
 else if (t8NKQ3_QN != 996181371)
 {

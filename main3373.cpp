@@ -131,7 +131,7 @@ case 2:
 mCt4 >>= 602276709;
 break;
 case 3:
-DVH3l2heTH -= 760916570;
+
 break;
 case 4:
 CM54H = dB41(CM54H, 1531779109, 1277608097, DVH3l2heTH);
@@ -143,7 +143,7 @@ case 6:
 
 break;
 case 7:
-d2yIq5f |= U8CZm;
+
 break;
 }
 
@@ -161,7 +161,7 @@ else
 }
 }
 }
-s_sd73 = (unsigned short)(U8CZm);
+
 
 
 return 0;

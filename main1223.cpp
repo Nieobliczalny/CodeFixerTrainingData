@@ -41,7 +41,7 @@ int main(int argc, char** argv)
   uH5DB  =  -513767346;
   gcDjkXTU  =  -1359030119;
 
-  ZkxUX2n0v2  =  -756580226;
+
   X087T  =  1776397054;
   WnWSw2  =  757215777;
 
@@ -55,7 +55,7 @@ int main(int argc, char** argv)
   Mk92kW3  =  -1830817323;
   PvsO_O  =  1185353433;
 
-  H19Y  =  -11517236;
+
   mV3E  =  632043094;
   lub_adl  =  -1376249867;
   FIyZOVqH  =  1472381943;
@@ -65,7 +65,7 @@ int main(int argc, char** argv)
   Km8dW  =  -728753772;
   WCEM1409_7  =  -1883754118;
 
-  q1zaPRd  =  -637232854;
+
   nh86n  =  -131402266;
   LzEhIZ658I  =  743720583;
   wLCX  =  -718650665;
@@ -77,7 +77,7 @@ int main(int argc, char** argv)
   Tzrb5  =  -700211962;
   B80eFt49U  =  -1600352623;
 
-  q37Ki  =  1241962994;
+
   oJ1jBMB1  =  766461664;
   ASEYUz  =  240492705;
   L6NZ  =  -525670385;
@@ -87,7 +87,7 @@ int main(int argc, char** argv)
   Gq2_8V  =  -1663659107;
   wHA0S6  =  587936202;
 
-  AOf5G5nS5M  =  -621571117;
+
   n43rdA_  =  -315897812;
   l78531  =  1730273063;
   mgV57M4  =  1344231548;
@@ -100,7 +100,7 @@ int main(int argc, char** argv)
   iNjr  =  -1506809938;
   T7_y  =  2056487557;
   v305anHd88  =  -1559972326;
-  e_w3k  =  163397673;
+
   V4u2  =  -718648995;
   R74OZqwe8  =  -458753090;
   eu9f3W  =  1291921355;
@@ -165,7 +165,7 @@ while (i < 7)
 switch (pmrTQ4OK4)
 {
 case 'a':
-EYcL_Co = SXnn8_() | Tzrb5;
+
 break;
 case 'b':
 AFXS = SXnn8_();
@@ -222,7 +222,7 @@ case 1:
 
 break;
 case 2:
-d04c = qQ__n6();
+
 break;
 case 3:
 COwkDr3 = SXnn8_();

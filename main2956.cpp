@@ -145,7 +145,7 @@ case 'c':
 Na9ud6Lz = B_bXI(-468014006, 319970041);
 break;
 case 'd':
-XSv0 = (int)abs(Q7u21H);
+
 break;
 default:
 Qcg95M9q6 |= 290747299;

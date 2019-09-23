@@ -26,7 +26,7 @@ int main() {
 	unsigned int	SKhyW8;
 	SKhyW8	=	0;
     unsigned short    q53l7kkj;
-    q53l7kkj    =    728141147;
+
     unsigned long    YOYD50b;
     YOYD50b    =    1249283249;
   short  AI1EL4;

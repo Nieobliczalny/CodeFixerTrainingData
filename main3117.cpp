@@ -84,7 +84,7 @@ int main(int argc, char** argv) {
 	char	zJGznt_;
 	zJGznt_	=	1157522002;
   double  VZE8;
-  VZE8  =  -1479896584;
+
     unsigned short    SGwHz_ED;
     SGwHz_ED    =    489481192;
   unsigned long long  OZUwIJq1;
@@ -412,7 +412,7 @@ case 2:
 
 break;
 case 3:
-MIm9d = i1TyH8(1476310800);
+
 break;
 case 4:
 M__0ld /= 1086742424;
@@ -572,7 +572,7 @@ case 0:
 OGMzkc02_C = (int)floor(VymF9v5No);
 break;
 case 1:
-VZE8 = (int)floor(VymF9v5No);
+
 break;
 case 2:
 l_CyZU = i1TyH8(l_CyZU);
@@ -609,7 +609,7 @@ case 'b':
 onWvqP1564 = i1TyH8(onWvqP1564);
 break;
 case 'c':
-VZE8 = (int)floor(TU8Q9);
+
 break;
 case 'd':
 VZE8 = (int)abs(U02A);

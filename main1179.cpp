@@ -66,7 +66,7 @@ int main()
   long  WeF9sQ4qcb;
   WeF9sQ4qcb  =  -1358315190;
     long long    fP9joCt1po;
-    fP9joCt1po    =    977914152;
+
  long long B6b3GI;
  B6b3GI = 422487004;
   short  w443H;
@@ -305,7 +305,7 @@ case 'H':
 
 break;
 default:
-jTeo = Om15wpK(-103693585, 554115235, 1883987600, QSCNpknC4, -1758902044);
+
 break;
 }
 

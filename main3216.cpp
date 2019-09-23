@@ -365,7 +365,7 @@ case 2:
 
 break;
 case 3:
-AoDyAjY4 = (int)abs(P2U3irdk69);
+
 break;
 case 4:
 t0te = (int)floor(e8wwtFl0HD);
@@ -405,7 +405,7 @@ case 'e':
 
 break;
 case 'f':
-P4x7RM2 = U0KR_zZ(1952937638, 1123123158, d4OG, hnV0eG, 45121801);
+
 break;
 case 'g':
 e88yDI = U0KR_zZ(319928169, r1H_Byb1, 405306729, -1256214732, 791919943);

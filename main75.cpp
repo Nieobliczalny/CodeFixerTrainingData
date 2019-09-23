@@ -156,7 +156,7 @@ int main(void)
 	long double	clL3jZz;
 	clL3jZz	=	-1867032748;
 	unsigned int	EtM0v3E65;
-	EtM0v3E65	=	-327161467;
+
     unsigned int    grWm_j24i;
     grWm_j24i    =    -1379877669;
     unsigned long    Z5hSS7N;
@@ -626,7 +626,7 @@ case 5:
 J4bb = (int)ceil(t3T053gq1);
 break;
 case 6:
-Qs2tOTeR = (int)abs(uNc8Jo6);
+
 break;
 case 7:
 WOKu8B >>= 620343911;
@@ -688,7 +688,7 @@ catch (int& errorCode)
 SX8_xoH = (int)abs(Xy0F5Prz) + (-1156737138);
 }
 
-zD59e8dbX = gShFNJ / zaL_(Nxt8l4, i8vEO3irY, A4m503Cu, -839649618, zD59e8dbX);
+
 
 if ((oR1O >= uBmhL44cT) || (x381cDig < I0l_5l_w8H))
 {
@@ -786,7 +786,7 @@ case 3:
 t3T053gq1 = (int)floor(J4bb);
 break;
 case 4:
-grWm_j24i = dZkg(grWm_j24i, Xy0F5Prz);
+
 break;
 case 5:
 SX8_xoH = (int)ceil(N1nYHJ_);
@@ -802,7 +802,7 @@ case 8:
 break;
 }
 
-clL3jZz = (long double)(SX8_xoH);
+
 
 {
 int i = 10;
@@ -889,7 +889,7 @@ case 'c':
 
 break;
 case 'd':
-So2nn6RxVX = (int)abs(G9L1);
+
 break;
 case 'e':
 

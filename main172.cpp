@@ -19,7 +19,7 @@ int main(void)
   unsigned int  m8ta6e;
 
   int  rHDE4aw;
-  rHDE4aw  =  1653204744;
+
   unsigned char  Mix4F7;
   Mix4F7  =  -85714678;
   unsigned short  c03H;
@@ -57,7 +57,7 @@ int main(void)
     unsigned short int    nVgza7Xn;
     nVgza7Xn    =    -688525599;
     float    V0AyE;
-    V0AyE    =    -145722797;
+
 	short int	l9VPD5c;
 	l9VPD5c	=	-1041167977;
   int  W1hYGf6mz9;
@@ -69,7 +69,7 @@ int main(void)
     long    p7o9V40G;
 
  unsigned short RhFDb5f;
- RhFDb5f = 598176008;
+
     unsigned long long    JOFD6a5P;
 
  unsigned short int DiCBf6Laot;
@@ -83,7 +83,7 @@ int main(void)
  double Ea1QUzz9;
 
 
-TkyLa0VmU2 = 486761228 / jg3P_3d8s;
+
 switch (pJDfCV)
 {
 case 0:
@@ -103,7 +103,7 @@ cout << "E0aZ69" << L4rbx_59e << EqhG << endl;
 
 
 
-TkyLa0VmU2 = (short)(CW03);
+
 switch (pJDfCV)
 {
 case 'a':
@@ -143,7 +143,7 @@ else if (f4m0B > -285220599)
 }
 else if (GXRqtx & -2019429365)
 {
-p7o9V40G = (nVgza7Xn > 381968036) ? 1110232032 : c03H;
+
 }
 else
 {
@@ -164,7 +164,7 @@ else if ((TkyLa0VmU2 & XP9111) && ((WSdrCdD00 & 1455465697) && (PBEZ)))
 int k = 9;
 while (k >= 0)
 {
-GXRqtx = l9VPD5c / 404694787;
+
 k--;
 }
 }
@@ -184,7 +184,7 @@ switch (jg3P_3d8s)
 {
 case 'a':
 case 'A':
-p7o9V40G = (int)abs(yUS70zKB);
+
 break;
 case 'b':
 case 'B':
@@ -199,7 +199,7 @@ case 'D':
 
 break;
 default:
-p7o9V40G = EqhG + 1404186237;
+
 break;
 }
 ++i;

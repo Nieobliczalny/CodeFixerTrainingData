@@ -32,7 +32,7 @@ int main(int argc, char** argv) {
     f_3DS_    =    530275337;
     uFN0j    =    178722672;
 
-    hw2oS9Mz    =    -1778998830;
+
     qNcS2RaO    =    -573493101;
     aM66F    =    -2093868186;
     mc63rg    =    1734825830;
@@ -54,7 +54,7 @@ int main(int argc, char** argv) {
 
 
 P6Iu_13 = Egf_K046O / 252552324;
-W3Sh = (unsigned short int)(Sv2piv);
+
 
 if (FY3c2lIq >= eo95xL3a5W)
 {
@@ -436,7 +436,7 @@ while (i < 2);
 
 
 
-Lo3lLZm7 = (unsigned short int)(itTh2Oa);
+
 if (Xy3f4 >= ur3aXm)
 {
 {

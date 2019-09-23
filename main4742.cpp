@@ -335,7 +335,7 @@ case 2:
 R_BEZ1W = (int)abs(oyU_T0);
 break;
 case 3:
-CZVvp8JOo = (int)ceil(fY6A6H9);
+
 break;
 case 4:
 R_BEZ1W = Xp5W43P / oyU_T0;
@@ -408,7 +408,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-Io7J0c9y = bPztq - IL0B3um_n;
+
 break;
 case 'd':
 case 'D':

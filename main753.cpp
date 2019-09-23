@@ -25,7 +25,7 @@ int main(int argc, char** argv)
  float zl9M463b1W;
  zl9M463b1W = 914646337;
 	unsigned char	MUZh9qb;
-	MUZh9qb	=	-326991936;
+
     char    Vzy9d62r3;
     Vzy9d62r3    =    1138656187;
   unsigned long  lYLMxIwwCH;
@@ -37,7 +37,7 @@ int main(int argc, char** argv)
   long double  Q33lG5a1;
   Q33lG5a1  =  1811828661;
  long double t9z0;
- t9z0 = -1827623633;
+
 	short int	dd1XXj3W;
 
   unsigned char  Mk3K3;
@@ -93,7 +93,7 @@ int main(int argc, char** argv)
     unsigned int    sq5XER;
 
  short int RR83kYS;
- RR83kYS = 2064348026;
+
   char  CVZ5a;
   CVZ5a  =  -1362906939;
     unsigned int    KvtZp;
@@ -151,7 +151,7 @@ int main(int argc, char** argv)
   double  LJFp7WJ1;
   LJFp7WJ1  =  372956252;
     unsigned long long    ZPheO9zGMp;
-    ZPheO9zGMp    =    -856003694;
+
     short    kRDWlV;
     kRDWlV    =    -1355901326;
  unsigned long long K_GnL6Jq;
@@ -202,7 +202,7 @@ Q33lG5a1 = y67QS(uM_23X) * 336113573;
 switch (y_hxzC)
 {
 case 0:
-CTc2n9 = yfnSY9(CTc2n9, mcANa8_6A, 2027941619);
+
 break;
 case 1:
 E9gg_ = VcuJRMEx1(B37_, E9gg_, CTc2n9, lYLMxIwwCH, X7k4bsqJj);
@@ -255,7 +255,7 @@ case 5:
 
 break;
 case 6:
-vaH_vbMDsf = (int)floor(zl9M463b1W);
+
 break;
 case 7:
 
@@ -316,7 +316,7 @@ while (i >= 0);
 }
 
 
-t9z0 = CVZ5a >> rg55E6;
+
 
 if (kRDWlV != JANDdn8p)
 {
@@ -335,7 +335,7 @@ gY0dIA9 -= 1048136875;
 }
 else if (h_piset9 >= 360560364)
 {
-G2k5N = mcANa8_6A << 283370176;
+
 }
 else if (DZoIei != 1995271899)
 {
@@ -375,7 +375,7 @@ B37_ = y67QS(Tb3W);
 }
 else
 {
-R6C8y12Zn_ = Tb3W << zg2P97;
+
 }
 }
 else
@@ -393,7 +393,7 @@ std::cout << BZc6N << std::endl;
 std::cout << G97VS9T << std::endl;
 std::cout << Mk3K3 << std::endl;
 
-g0BYOgh_Ad = hLz_B / B37_;
+
 for (int i = 0; i < 6; ++i)
 {
 {
@@ -456,7 +456,7 @@ case 'B':
 
 break;
 default:
-vaH_vbMDsf = (int)ceil(E_tZs);
+
 break;
 }
 }
@@ -479,7 +479,7 @@ case 'b':
 
 break;
 case 'c':
-B37_ = y67QS(uM_23X);
+
 break;
 case 'd':
 oq4m291cM5 = (int)abs(G97VS9T) * 0;
@@ -491,7 +491,7 @@ case 'f':
 
 break;
 default:
-fxL41_51w = p1BqRa9 >> K_GnL6Jq;
+
 break;
 }
 }

@@ -21,7 +21,7 @@ int main(int argc, char** argv)
 
 
 
-O334XgAyjO = (unsigned long long)(ipmbzj);
+
 
 if (ipmbzj >= K8_Tx1Q)
 {
@@ -68,7 +68,7 @@ case 5:
 
 break;
 case 6:
-r13WII34 = zrP05(MY4Y2c9) / op500iK;
+
 break;
 default:
 

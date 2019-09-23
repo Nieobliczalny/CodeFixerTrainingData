@@ -75,7 +75,7 @@ int main(int argc, char** argv)
  yt36L93 = 1668743995;
  VsR90Ab = 1645304410;
  q8yGa7b = -1825447906;
- p1Skq5tg = 128383929;
+
  Mn2JfHiyW = 1337634097;
   short  nh397N8e_,  k1ugT,  SmWxC1,  nwTP;
   nh397N8e_  =  0;
@@ -211,7 +211,7 @@ break;
 
 N00wwCGs /= 38458704;
 
-a7_0U1a59 = (int)ceil(z3b7lEJ);
+
 if (Jefur_98 < -983166984)
 {
 try
@@ -530,7 +530,7 @@ else
 int k = 0;
 while (k < 3)
 {
-yt36L93 = Mn2JfHiyW / Jefur_98;
+
 ++k;
 }
 }
@@ -578,7 +578,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-qCjc86 = (zJ6SwTP46e >= -1706949990) ? VsR90Ab : OsZC2kq;
+
 break;
 case 'f':
 case 'F':
@@ -645,7 +645,7 @@ else
 switch (SmWxC1)
 {
 case 'a':
-RNjS2_W /= 1097380571;
+
 break;
 case 'b':
 
@@ -666,7 +666,7 @@ case 'g':
 nwTP = z9Dd(Jefur_98, 2030694297, 1471126294);
 break;
 case 'h':
-qCjc86 = (zJ6SwTP46e >= Mn2JfHiyW) ? Tg7r8L8(16207472, -1899291973) : Tg7r8L8(-1115176624, -926525855);
+
 break;
 case 'i':
 
@@ -730,7 +730,7 @@ case 4:
 ZLt4GrNnJ1 -= Fco5J;
 break;
 case 5:
-Mn2JfHiyW = (int)abs(DV36);
+
 break;
 case 6:
 
@@ -755,7 +755,7 @@ case 'b':
 
 break;
 case 'c':
-m9N4_mf = sH287W09(m9N4_mf, 1410689649, O6VO);
+
 break;
 case 'd':
 ZLt4GrNnJ1 = (int)floor(yfqarrQ9T);

@@ -244,7 +244,7 @@ Br4gN = (int)floor(gj3qc4nQ);
 }
 }
 }
-w_6Qs = (int)ceil(gj3qc4nQ);
+
 
 cout << PyqK_vzP << pk4Yb5D0 << "MTHB" << "T8gwoN" << b4iRp7SqA2 << endl;
 {
@@ -486,7 +486,7 @@ else
 }
 
 
-N4a2w5S5r = (int)abs(n7Qgyu9PLo);
+
 
 Qm2_dn5g = (A88x22K & 104322862) ? 851899258 : 809377488;
 

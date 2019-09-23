@@ -442,7 +442,7 @@ int i = 0;
 while (i < 4)
 {
 i++;
-hoKyWtm = (double)(JXF5Pe_Man);
+
 }
 }
 

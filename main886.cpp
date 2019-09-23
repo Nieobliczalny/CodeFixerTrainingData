@@ -118,7 +118,7 @@ t5BKh = RTFLlK6 >> qb3mdq1eh;
 }
 else if (((WkMx8G0XH & RTFLlK6) && (re1yelk >= -157392757)) && (A5UB7YH9 > 1282625784))
 {
-A5UB7YH9 = jw2_ << 1025353576;
+
 }
 else if ((fP_XbPBut > 1763290828) && (CktN != 1038964654))
 {
@@ -245,7 +245,7 @@ lOm06 = bBf20Hs9 / L3t88o3R;
 
 if (re1yelk & aXWfr)
 {
-J0cjGt0 = (long)(OcRW);
+
 }
 else
 {

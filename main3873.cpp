@@ -32,7 +32,7 @@ int main()
  float k3r0pe_3;
  k3r0pe_3 = -379839803;
 	short	XCB6Bm;
-	XCB6Bm	=	-1085682325;
+
   char  SRq_5_pb7;
   SRq_5_pb7  =  -673582446;
 	unsigned int	q67mRvPd;
@@ -56,7 +56,7 @@ int main()
   long double  U9M25ETd;
 
  long RYp7P;
- RYp7P = -1843549349;
+
   unsigned long long  ebIP;
   ebIP  =  -1307686355;
   long  I_o4LR;
@@ -310,7 +310,7 @@ case 5:
 
 break;
 case 6:
-JUVJ = (int)abs(GEW2_M9Dp);
+
 break;
 }
 

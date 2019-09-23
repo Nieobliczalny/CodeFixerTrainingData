@@ -145,7 +145,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-CiC0JKg = (int)floor(j4qkV88);
+
 break;
 case 'f':
 case 'F':
@@ -202,7 +202,7 @@ while (j < 9);
 }
 }
 }
-fhgG_nKUha -= 1949560680;
+
 if (LPpQrq9Q > -1602038939)
 {
 switch (yUvG)

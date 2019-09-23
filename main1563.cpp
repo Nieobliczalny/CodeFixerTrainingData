@@ -366,7 +366,7 @@ case 'c':
 
 break;
 case 'd':
-gOJ092btK *= 332579466;
+
 break;
 case 'e':
 n38021khwg = pembkP1BFR(n38021khwg);
@@ -460,7 +460,7 @@ if (F8_5h == 0)
 
 try
 {
-Tq1207 = (unsigned int)(F9Gwx9 * Tq1207);
+
 }
 catch (int& errorCode)
 {

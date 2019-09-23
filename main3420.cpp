@@ -64,7 +64,7 @@ case 'b':
 
 break;
 case 'c':
-M4m6vqg9f3 = (int)ceil(u5C34jd7vV);
+
 break;
 case 'd':
 ZdN8uIoe0h = dR_zpZ907(754690643, 1526536704, uuo91D63Ct);
@@ -97,7 +97,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-K9On = (int)ceil(Qb1LN5H);
+
 break;
 }
 if (Ke87Yor < Gv0Kd3)
@@ -167,7 +167,7 @@ case 2:
 
 break;
 case 3:
-Nj2DByJu = T584CH * Jr1B;
+
 break;
 case 4:
 
@@ -179,7 +179,7 @@ case 6:
 
 break;
 case 7:
-f3G_ /= 578864640;
+
 break;
 }
 }

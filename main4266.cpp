@@ -527,7 +527,7 @@ case 'd':
 break;
 }
 
-sCtn75Q7 = t59FiQ50O(sCtn75Q7, 177569181, W0I_r, Tfg9UXP7l);
+
 for (int i = 0; i < 4; ++i)
 {
 switch (kkIg5r)

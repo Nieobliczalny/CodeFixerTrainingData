@@ -26,7 +26,7 @@ int main(int argc, char** argv)
  char JHXNZ;
 
 	unsigned short	deP_Z7AU3;
-	deP_Z7AU3	=	1689442848;
+
   long double  zg6H_;
   zg6H_  =  675888279;
   unsigned long long  Kqnw;
@@ -50,7 +50,7 @@ int main(int argc, char** argv)
 	unsigned short	uQ1K9_;
 	uQ1K9_	=	-881894329;
   short  UwRmHw530T;
-  UwRmHw530T  =  -1423362817;
+
  long ED1vR22vZ;
  ED1vR22vZ = 1817714539;
  float Eo03JhuXN3;
@@ -64,7 +64,7 @@ int main(int argc, char** argv)
   int  L_owB;
 
  unsigned char jxm_dFrl1;
- jxm_dFrl1 = 2008395033;
+
     float    E5v9yUcC_d;
     E5v9yUcC_d    =    482991808;
   long double  nF_0U;
@@ -80,7 +80,7 @@ int main(int argc, char** argv)
   char  B2gKg;
   B2gKg  =  -540577043;
   double  P7PNoh6yEl;
-  P7PNoh6yEl  =  -2075113495;
+
  unsigned long long FwesB_Wb;
  FwesB_Wb = 1703229167;
   unsigned long  bw32;
@@ -92,7 +92,7 @@ int main(int argc, char** argv)
  long d_3s68;
  d_3s68 = -928084090;
 	unsigned char	IsR_W71;
-	IsR_W71	=	11002774;
+
  char xl8An_h_r6;
  xl8An_h_r6 = 1257942008;
 	long	S45379;
@@ -104,7 +104,7 @@ int main(int argc, char** argv)
   char  muztPPi2k6;
   muztPPi2k6  =  1060506638;
 	unsigned long	B9J17xA;
-	B9J17xA	=	-1167660334;
+
     char    GBeE6u9;
     GBeE6u9    =    1283677327;
   unsigned long long  gB_Oc;
@@ -122,7 +122,7 @@ int main(int argc, char** argv)
  long double J6S41270;
 
 	unsigned long	a_w_;
-	a_w_	=	895641929;
+
   unsigned char  QkrVq337;
   QkrVq337  =  -728886217;
     char    y70r;
@@ -146,7 +146,7 @@ int main(int argc, char** argv)
  unsigned short int iTMvJ;
 
 	unsigned short	qUi7c;
-	qUi7c	=	765193634;
+
  long double p4iI0lCg9;
 
  float S9K6_;
@@ -180,7 +180,7 @@ int main(int argc, char** argv)
 	double	Gy_fI01;
 
  char Zv6y;
- Zv6y = -1682691880;
+
   long long  D18X746J45;
   D18X746J45  =  1040361188;
     unsigned int    DQ3Tx;
@@ -259,7 +259,7 @@ case 'b':
 
 break;
 case 'c':
-D18X746J45 = S9K6_ + 1015211827;
+
 break;
 case 'd':
 HePx = (int)ceil(sI2KL_);
@@ -314,7 +314,7 @@ case 2:
 oJ0y1zP1F *= h356;
 break;
 case 3:
-nF_0U = (int)ceil(t8Sn);
+
 break;
 case 4:
 d_3s68 = o6Fh5adCc2();

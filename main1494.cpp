@@ -71,7 +71,7 @@ case 'c':
 k1f5 = (int)abs(O_oWYJL1E);
 break;
 case 'd':
-kx2Ps = (WNb07T_4O) ? mgnx8lb9(sEyyc16, d_KQk3, b0bX) : u1AN_4Qg;
+
 break;
 case 'e':
 dtgpnirh = lfpH(-560480011, -1822522980);
@@ -474,7 +474,7 @@ else
 {
 if (zJ20TQaE != -1707032322)
 {
-kx2Ps = (short int)(yfMt_9bZN_);
+
 }
 }
 if (Bo3G93evJ)
@@ -546,7 +546,7 @@ while (j < 9);
 s6s4pcvZjJ = (short int)(Fm_9drb);
 
 std::cout << mgnx8lb9(l3NhX7, -105224486, k1f5) << "s3N47L" << Oj4_4vk_t << std::endl;
-CSYmn98 = u9UAi772(-870457753, -146955979);
+
 return 0;
 }
 

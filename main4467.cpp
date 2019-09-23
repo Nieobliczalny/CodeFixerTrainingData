@@ -172,7 +172,7 @@ int main(int argc, char** argv) {
  double T3gi2;
  T3gi2 = 737465143;
     double    yM1Oz14P_S;
-    yM1Oz14P_S    =    1782485666;
+
   unsigned long long  UsSe18G4NP;
   UsSe18G4NP  =  1797370805;
 	int	rYi4I;
@@ -347,7 +347,7 @@ case 3:
 P6pVV28mY = (int)ceil(U906eUq_2);
 break;
 case 4:
-yM1Oz14P_S = (int)floor(QpDWCKS1iD);
+
 break;
 case 5:
 V3i2Z = (int)floor(lfk1F242x4);
@@ -466,7 +466,7 @@ do
 {
 try
 {
-U906eUq_2 = (int)floor(lfk1F242x4);
+
 }
 catch (int& errorCode)
 {
@@ -500,7 +500,7 @@ case 1:
 O2N_o9sZ *= m5FDF;
 break;
 case 2:
-RtP3eFcn = XRrXJLm << x_0e2_Usn;
+
 break;
 case 3:
 
@@ -516,7 +516,7 @@ if (fW2_7_4 == Ytai)
 {
 if (F9Jg8YdI5 < Ytai)
 {
-U906eUq_2 = (int)ceil(Mf3P4Ws1);
+
 }
 }
 else if (phxE6kROb != Pcs0W)
@@ -546,7 +546,7 @@ case 1:
 
 break;
 case 2:
-U906eUq_2 = q3GN_r8N();
+
 break;
 case 3:
 m5FDF %= 980726183;
@@ -604,7 +604,7 @@ f2iF82 = q3GN_r8N();
 }
 else if (o8tNe == 1752891790)
 {
-U906eUq_2 = (float)(EUmw_DNRM);
+
 }
 else
 {
@@ -668,7 +668,7 @@ switch (pMR5)
 {
 case 'a':
 case 'A':
-px48 = ZTu1d(1015776172);
+
 break;
 case 'b':
 case 'B':
@@ -679,7 +679,7 @@ case 'C':
 
 break;
 default:
-px48 = phxE6kROb >> XfPzWR;
+
 break;
 }
 }

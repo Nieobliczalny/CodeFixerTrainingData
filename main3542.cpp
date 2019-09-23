@@ -139,7 +139,7 @@ else if (KR8GyT7W4 <= -314766197)
 }
 else if (gJQmuhlU8 > 1052586009)
 {
-j5N_2G9 = avYGdeqw4B(j5N_2G9);
+
 }
 else if ((FaEO <= Wpi8h964) || (ceczpN < 1333896833))
 {
@@ -267,7 +267,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-HuxOi = avYGdeqw4B(HuxOi);
+
 break;
 case 'd':
 case 'D':
@@ -279,7 +279,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-Fwu1sc2 = (int)abs(f5TBN);
+
 break;
 case 'g':
 case 'G':

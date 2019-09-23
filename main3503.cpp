@@ -142,7 +142,7 @@ for (int i = 0; i < 8; ++i)
 {
 if (Fhwat)
 {
-EmDyv2 = (short int)(T47Aff2f + (-2115358536));
+
 }
 else if (J3L_1V < c25kA0gG9t)
 {
@@ -218,7 +218,7 @@ p3yVxCj0XA = (int)ceil(FW02);
 
 if (D2w_0 & -52945630)
 {
-M3xQ6x3X = HOFK >> B3d0;
+
 }
 else
 {
@@ -259,7 +259,7 @@ else if (NSLqTS != -1652028736)
 }
 else if ((ku51l_ != TbvBE) && (Q4XDqQ))
 {
-nSDM26v = (int)ceil(ThIvJaf);
+
 }
 else
 {
@@ -280,7 +280,7 @@ while (k >= 0);
 }
 else if (Q4XDqQ & g7P48)
 {
-Yuhz3hE6 = (long long)(ThIvJaf);
+
 }
 else if ((NSLqTS != FW02) && (Lndj >= t_zy))
 {
@@ -297,7 +297,7 @@ case 1:
 APObt6 = (int)ceil(m56RQG9);
 break;
 case 2:
-fss_P1h = T47Aff2f % 2046498859;
+
 break;
 case 3:
 Y4sDNn = (int)floor(nSDM26v);
@@ -309,7 +309,7 @@ case 5:
 
 break;
 case 6:
-m56RQG9 = (int)ceil(Y4sDNn);
+
 break;
 case 7:
 qUG2covw_ = a_y07(Ym8nh, FsA7a7F, 1253845079);
@@ -347,7 +347,7 @@ case 'a':
 
 break;
 case 'b':
-D2w_0 = (int)abs(p3yVxCj0XA);
+
 break;
 case 'c':
 Fhwat = (int)abs(dg1T9Dy);
@@ -365,7 +365,7 @@ case 'g':
 
 break;
 case 'h':
-D2w_0 = wHM3jK | jL72XiUGe5;
+
 break;
 case 'i':
 
@@ -397,7 +397,7 @@ case 1:
 
 break;
 default:
-p3yVxCj0XA = (int)ceil(Y4sDNn);
+
 break;
 }
 }

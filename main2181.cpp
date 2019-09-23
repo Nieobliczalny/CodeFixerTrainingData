@@ -138,7 +138,7 @@ switch (XSC80L)
 {
 case 'a':
 case 'A':
-TybXP4gh = OARHpkrD >> kSt0OUFx5y;
+
 break;
 case 'b':
 case 'B':
@@ -210,7 +210,7 @@ uq1oTxPzU--;
 break;
 case 'c':
 case 'C':
-CqrC = (int)abs(sX_Zj) + (1585756677);
+
 break;
 case 'd':
 case 'D':
@@ -242,7 +242,7 @@ do
 {
 if ((dnyBbcoGgm & -1649720906) && (T74_yVf168))
 {
-TybXP4gh = YDo2qk5X8Q * G3Q3_O9v;
+
 }
 ++j;
 }
@@ -362,7 +362,7 @@ case 'b':
 
 break;
 case 'c':
-PgWK = (int)floor(ygE7);
+
 break;
 case 'd':
 xG3G0g0gdM = (int)abs(sX_Zj) + (2138676937);

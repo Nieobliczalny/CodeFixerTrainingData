@@ -44,7 +44,7 @@ int main() {
  int zG4_;
 
  long long RVK5i3;
- RVK5i3 = -1758546623;
+
     long long    GH0n;
     GH0n    =    1929720719;
     int    LcI_UGJ;
@@ -62,7 +62,7 @@ int main() {
   float  ej_I;
   ej_I  =  -575719480;
   unsigned int  e60P;
-  e60P  =  1780895547;
+
 	short int	qPf4OoU_;
 	qPf4OoU_	=	-1196402399;
 	unsigned char	XA59KRn;
@@ -78,7 +78,7 @@ int main() {
     short    B_m1;
     B_m1    =    1776590695;
     unsigned char    K_Pdc11e;
-    K_Pdc11e    =    -113581274;
+
 	unsigned char	d_O4r;
 
   unsigned long long  kplHm;
@@ -116,7 +116,7 @@ int main() {
 	unsigned long long	iM8Y_AG8y;
 
     long    fJ1HX56i;
-    fJ1HX56i    =    -73987113;
+
 	int	C99_J;
 	C99_J	=	-1992994998;
     int    i8y_7r4eJ;
@@ -128,7 +128,7 @@ int main() {
     unsigned long    XJl1t;
     XJl1t    =    733666018;
  unsigned long long T9qmj;
- T9qmj = 0;
+
   long  R0PS11;
   R0PS11  =  -585541569;
     unsigned long long    K183BWn_;
@@ -142,7 +142,7 @@ int main() {
     unsigned long long    fDl_08Dva;
     fDl_08Dva    =    -1422939261;
     long    Y83a;
-    Y83a    =    324534054;
+
 	short int	IWtgV8Itcu;
 	IWtgV8Itcu	=	1219117490;
     unsigned char    ajooPGc;
@@ -170,7 +170,7 @@ int main() {
 	long	mDXqc9Vky;
 	mDXqc9Vky	=	-533055017;
     unsigned long long    GD23j;
-    GD23j    =    1488615763;
+
   unsigned long  d9NlgV;
 
   unsigned char  tSZV5;
@@ -180,7 +180,7 @@ int main() {
   long double  AOiDo;
   AOiDo  =  -1940653447;
 	long	v9Uj8NQ;
-	v9Uj8NQ	=	-297588931;
+
 
 I59nu = (int)abs(B_m1);
 
@@ -213,7 +213,7 @@ if (mDXqc9Vky < 277035944)
 }
 
 
-o_93nIq1a = (unsigned char)(K183BWn_);
+
 
 try
 {
@@ -289,7 +289,7 @@ case 2:
 
 break;
 case 3:
-fJ1HX56i = HMd_ZKg_(-371158919, -1238751304, K183BWn_, C99_J, 1673455054);
+
 break;
 case 4:
 mDXqc9Vky |= 489931835;
@@ -311,7 +311,7 @@ break;
 
 
 
-ww5Y_15vh9 = (int)floor(jmlkpArBc);
+
 i8y_7r4eJ = a3wrz(785260581, -669139997, 327508692);
 vpNHd5Ok5d = (int)abs(B324S3r);
 {
@@ -350,7 +350,7 @@ case 2:
 
 break;
 case 3:
-q_PBtT_1O2 = (int)abs(rlI3HYT_G);
+
 break;
 case 4:
 bc5L2As = z6bn(g5aaK2, 926547567, -727964327);
@@ -371,7 +371,7 @@ break;
 int i = 7;
 while (i >= 0)
 {
-GH0n = (long long)(WNyM);
+
 i--;
 }
 }

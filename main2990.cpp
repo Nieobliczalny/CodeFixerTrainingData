@@ -31,7 +31,7 @@ int main(void) {
     unsigned long long    st2N05C;
     st2N05C    =    -1428815703;
     short    kvYc9X;
-    kvYc9X    =    -968758386;
+
 	int	N5KM8J;
 	N5KM8J	=	-1319223397;
   char  bn0hPF;
@@ -41,7 +41,7 @@ int main(void) {
     long double    Jm0Jk_;
     Jm0Jk_    =    32657492;
 	unsigned long	PbV9ypT7t_;
-	PbV9ypT7t_	=	818007141;
+
   unsigned int  n2CWkrH6;
   n2CWkrH6  =  334786022;
   unsigned long  iYwGkN6;
@@ -51,7 +51,7 @@ int main(void) {
  long long NnB3H;
  NnB3H = 684063223;
     unsigned char    fE0i4;
-    fE0i4    =    773462371;
+
   short int  GukA12D;
   GukA12D  =  587901246;
  char YK3Ng_gvdu;
@@ -61,7 +61,7 @@ int main(void) {
  char Pf8YqT2aF;
 
  short h0I6Lqt;
- h0I6Lqt = -300383294;
+
  unsigned int I_12i_XRI;
  I_12i_XRI = 248328432;
  unsigned int xhh93uR;
@@ -71,7 +71,7 @@ int main(void) {
   long double  ppojF3t;
 
  double iyDQ6D;
- iyDQ6D = -1622038323;
+
  unsigned short int F6VcE;
  F6VcE = -756363202;
 	unsigned short int	KEUE;
@@ -83,7 +83,7 @@ int main(void) {
     unsigned long long    HauJWZTp;
 
     char    A1tR3_Z;
-    A1tR3_Z    =    1062968564;
+
   long long  tHHS_as;
 
  unsigned int NSd3LH8;
@@ -93,7 +93,7 @@ int main(void) {
 	char	Z580;
 
 	int	u2FB;
-	u2FB	=	2002366387;
+
 	unsigned char	wG8tRK2Z28;
 
  double ca5m01c0;
@@ -103,7 +103,7 @@ int main(void) {
   unsigned char  Yb6dLaQeg;
 
  short b4fhA5d0;
- b4fhA5d0 = -1314453220;
+
     long long    oj4s3_;
 
 	long double	Z8Hh_o;
@@ -113,7 +113,7 @@ int main(void) {
     double    R0GXk;
 
   short  cn9F_G9p;
-  cn9F_G9p  =  -1682225034;
+
   unsigned short int  wPRi8N;
 
     unsigned short int    yVXz1Dn;
@@ -123,7 +123,7 @@ int main(void) {
   unsigned short int  o35r;
 
  unsigned long TH4Nq7_1X;
- TH4Nq7_1X = -814590181;
+
     short    CxgyGfK61;
 
  unsigned long long dHiW_;
@@ -133,7 +133,7 @@ int main(void) {
 	unsigned long long	MiDF38Mu60;
 
   short  PqJxsPl4;
-  PqJxsPl4  =  475663465;
+
   float  I6uHI461w;
 
  unsigned int oJAw;
@@ -143,7 +143,7 @@ int main(void) {
 	long	cX7lM86w;
 
  char mB1jQ7S;
- mB1jQ7S = -105534961;
+
   char  O0FL_6i;
 
     float    IqD07;
@@ -153,7 +153,7 @@ int main(void) {
  short int RjX8;
 
 	long	RJV0y1_;
-	RJV0y1_	=	-387135138;
+
 	unsigned short	wufg8lJiY;
 
 	unsigned short int	GI_SR4sv;

@@ -351,7 +351,7 @@ case 7:
 BbQ_j = (int)abs(rk5eloY8);
 break;
 default:
-VbDqR_ = I99s - pPuj8wUWrG;
+
 break;
 }
 aMq6AyG >>= 1685793097;
@@ -514,7 +514,7 @@ else if ((KwQ1W0k3 == Ps3mF23) || (XjS_VyTKrG <= -1216729273))
 }
 else
 {
-JbzBA <<= c5RWx_p08;
+
 }
 }
 }

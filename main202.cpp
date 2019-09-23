@@ -583,7 +583,7 @@ case 1:
 
 break;
 case 2:
-AbauU = E52RY_T(Tg_QP244, ncY4kV0v89, Wt2oJ0, 1683159474);
+
 break;
 case 3:
 AbauU = (int)abs(gtS_H3S);
@@ -595,7 +595,7 @@ case 5:
 
 break;
 case 6:
-VJ32Dm28uo = JW_H * 20504797;
+
 break;
 case 7:
 W2si604 = S1Q7aZGT9(W2si604);

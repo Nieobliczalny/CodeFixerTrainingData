@@ -92,7 +92,7 @@ int main(int argc, char** argv)
 switch (S_iZqb)
 {
 case 0:
-S_iZqb <<= fTB9Nd7S;
+
 break;
 default:
 Z876Zj0Ls = z94r(-1415363986, -1287314316, p3tM7, EgrX5x5Mta);
@@ -112,7 +112,7 @@ U5o6YE = (short int)(AE23dl);
 
 if (p3tM7 > -198476931)
 {
-YcsZ75U = (long double)(nnHI3TUvI1);
+
 }
 else
 {

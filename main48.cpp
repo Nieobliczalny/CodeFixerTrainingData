@@ -151,7 +151,7 @@ else
 }
 else if (HPFN == 640154088)
 {
-WEI8mvOo4_ = (short int)(HPFN);
+
 }
 else
 {
@@ -178,7 +178,7 @@ else if (AOadc8Y12R > -1433718145)
 }
 else
 {
-QCj_8 = (int)abs(piS7yFPrZr) * 0;
+
 }
 }
 catch (int& errorCode)

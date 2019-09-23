@@ -257,7 +257,7 @@ gwBjYo >>= NhU2W77c6s;
 }
 }
 
-iZy1SI3 = (unsigned short int)(Ri6PeS_g * iZy1SI3);
+
 
 pp7sU <<= 1692985615;
 cout << K9__v4Dc(1951302495, -1588622361, -764703301, gwBjYo) << endl;

@@ -13,6 +13,7 @@ using namespace std;
 int main()
 {
 	double	VIuUz0yqm,	Uzk46c6r,	cH9K7WR,	yg_l,	vI9EjLni,	JlJ1,	J16Nc_,	o85U5DUc,	pB6M,	gKy3bj,	P720nL,	Cl911rJ1,	yMw0L3u,	qjRxVb,	BH1rseu,	kG8y,	mich0TOe,	hzjU8_6DT,	rDLfJ2t7Hs,	HI6D,	c52FzR2qI,	oj_6tF,	M77V9,	CNbMYG9In,	C0_k3ks4_r,	EuN_f,	K7m22d4Dm5,	nen8nAeq3,	v4co3lTHKu,	I_1Trw_Jp3,	a_eEjw,	vt62Ik81,	un5c6sh,	VAKm5Gmdg,	XY21y,	U3u8H_1,	vUnXZ3S5kr,	Emds8vd,	xu63smtZ,	sDv0hG3,	X3_WreH26,	n8FKno8x,	a_xqdLG3XV,	LhJj,	bYqx7,	shjaO,	r4z85,	o9_1v8,	AR68_X1oPQ,	cGo7d722,	w05y,	nvO_i,	KtYhUq6XX5,	hxZjt7u9G,	MRKFm,	d0S6ET33,	S6fWjYZVn,	jO2Q,	x_a7nyG2,	MkYE8E0,	w41Vqu4,	h0Xi15E,	iA99G,	MU8X113;
+		// codechecker_intentional [deadcode.DeadStores] Design rule - initialize all variables
 		VIuUz0yqm	=	Uzk46c6r	=	cH9K7WR	=	yg_l	=	vI9EjLni	=	JlJ1	=	J16Nc_	=	o85U5DUc	=	pB6M	=	gKy3bj	=	P720nL	=	Cl911rJ1	=	yMw0L3u	=	qjRxVb	=	BH1rseu	=	kG8y	=	mich0TOe	=	hzjU8_6DT	=	rDLfJ2t7Hs	=	HI6D	=	c52FzR2qI	=	oj_6tF	=	M77V9	=	CNbMYG9In	=	C0_k3ks4_r	=	EuN_f	=	K7m22d4Dm5	=	nen8nAeq3	=	v4co3lTHKu	=	I_1Trw_Jp3	=	a_eEjw	=	vt62Ik81	=	un5c6sh	=	VAKm5Gmdg	=	XY21y	=	U3u8H_1	=	vUnXZ3S5kr	=	Emds8vd	=	xu63smtZ	=	sDv0hG3	=	X3_WreH26	=	n8FKno8x	=	a_xqdLG3XV	=	LhJj	=	bYqx7	=	shjaO	=	r4z85	=	o9_1v8	=	AR68_X1oPQ	=	cGo7d722	=	w05y	=	nvO_i	=	KtYhUq6XX5	=	hxZjt7u9G	=	MRKFm	=	d0S6ET33	=	S6fWjYZVn	=	jO2Q	=	x_a7nyG2	=	MkYE8E0	=	w41Vqu4	=	h0Xi15E	=	iA99G	=	MU8X113	=	-1054466379;
   unsigned short int  p1h4fIA5,  RF3_r8CuR6;
     p1h4fIA5  =  RF3_r8CuR6  =  0;

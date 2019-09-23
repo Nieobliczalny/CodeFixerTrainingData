@@ -16,7 +16,7 @@ int main() {
 	unsigned char	GODp6,	Y7Y4_,	U6yj5h25,	p2Jl,	QVLww,	Wx3sm_6,	f09R9ck,	dHmK_W64_q,	en_Fg1C,	lmj5fS,	tc4AKsP,	g97i6Y_n9,	AVmY;
 
 
-	U6yj5h25	=	1456066464;
+
 	p2Jl	=	-1244583096;
 	QVLww	=	846344491;
 	Wx3sm_6	=	-158399633;
@@ -26,7 +26,7 @@ int main() {
 	lmj5fS	=	-1027416434;
 
 
-	AVmY	=	-807069321;
+
  unsigned short int Z2Oy7AI0QS, cVPJi;
  Z2Oy7AI0QS = 0;
  cVPJi = 0;

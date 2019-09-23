@@ -172,7 +172,7 @@ int main(void) {
 	short	T655j;
 	T655j	=	1323904894;
  unsigned short bjkKr;
- bjkKr = -858253393;
+
     float    O014eFT0;
     O014eFT0    =    -1190291660;
 	unsigned long long	kE5u5C;
@@ -822,7 +822,7 @@ case 1:
 k4YSq = (int)abs(oMuY355);
 break;
 case 2:
-xNAxRK32d0 = (int)abs(dP40vQ1Y);
+
 break;
 }
 }
@@ -854,7 +854,7 @@ case 6:
 n7adqj302q = nzLMf02 & P6G8gNbu;
 break;
 default:
-OzYh4Xnk = (int)floor(J3R228);
+
 break;
 }
 }
@@ -1086,7 +1086,7 @@ else
 }
 else if (MN8R3u1_p8 < JqzgCpJR2)
 {
-ZtOIC_ = cbz9F(ZtOIC_, X9o0F_985i, -1446865402);
+
 }
 else if (j48n < -708514735)
 {

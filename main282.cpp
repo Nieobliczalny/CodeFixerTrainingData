@@ -547,7 +547,7 @@ case 'c':
 
 break;
 case 'd':
-RRW45 >>= 1987938115;
+
 break;
 case 'e':
 q01a6eP = gHgV3 - BtSW;
@@ -669,7 +669,7 @@ if (((Uv2493tM >= PhnFw6) || (tq921suO <= 1075651311)) || ((qna9eB == PhnFw6) ||
 }
 else if (g8_e5 <= 724057292)
 {
-Sj26zm = (unsigned char)(I23jEc9 * Sj26zm);
+
 }
 else if (x1k8 > -542030258)
 {

@@ -205,7 +205,7 @@ case 'e':
 viKLg6aZ5V = a1Ad9ldt();
 break;
 case 'f':
-V4tQJH = (J4j03l < -1683802300) ? -2136501154 : zHh2K58F;
+
 break;
 case 'g':
 iG6_Cdm_ = (int)ceil(NR_06wFI);
@@ -227,7 +227,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-qf3v79Ux = (int)ceil(qj8Kf66K2);
+
 break;
 case 'd':
 case 'D':

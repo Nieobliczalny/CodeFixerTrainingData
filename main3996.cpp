@@ -90,7 +90,7 @@ int main()
   long double  q1W3F  =  2073178280;
 	short	RTgo	=	1358064747;
 
-ch7Z0i1W = (int)abs(JY7qtj6);
+
 std::cout << LmK7(d__r6rLSTK, 368275826, -359522598, -677185219, -1477168327) << std::endl;
 
 BDQa_le8E = (I_xg & pL8Kp9) ? -1402865976 : H3Yy_oWqNi;
@@ -156,7 +156,7 @@ if (mXko == 421932371)
 }
 else if (b1_MM_)
 {
-Vhoe = (int)floor(JY7qtj6);
+
 }
 else if (CCXc44H != 1938081565)
 {
@@ -181,7 +181,7 @@ JX8U1YL4_2 -= ZihMynbT1_;
 }
 else if (ETlh8qET & NCWiC0qgO)
 {
-RTgo = n2Y16();
+
 }
 else if (HKPjYt6S == NCWiC0qgO)
 {
@@ -251,7 +251,7 @@ JY7qtj6 = (int)floor(q_9zi47g5);
 }
 else
 {
-Vhoe = (int)ceil(q_9zi47g5);
+
 }
 if (B8QJ)
 {
@@ -290,7 +290,7 @@ else if (((RVZC8_E9_ & 1613189360) && (r1DLdFC2 & HLJ6W)) || (K543v8 > 962142760
 }
 else
 {
-RTgo = B8QJ / pM8jk;
+
 }
 }
 else if (SItSH4FQ_7)
@@ -310,7 +310,7 @@ mXko = (float)(rL90_ + (1970047133));
 
 std::cout << tgkN << "Ol62KX3" << std::endl;
 ZihMynbT1_ = VFaJ(-1471275160, 524947451, 888860548, oJw45_bR);
-HLJ6W <<= JX8U1YL4_2;
+
 switch (pL8Kp9)
 {
 case 'a':

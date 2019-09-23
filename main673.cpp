@@ -339,7 +339,7 @@ if (IXBMyB >= 370814047)
 }
 else
 {
-y0E4 = zP1D3ff();
+
 }
 }
 }
@@ -358,7 +358,7 @@ try
 {
 if ((Gu8ZMd8 > -604171826) && ((zZqR9T) && (oOeQCV6W != 1564183972)))
 {
-V5lN9 = zP1D3ff();
+
 }
 }
 catch (int& errorCode)

@@ -18,7 +18,7 @@ int main(int argc, char** argv) {
     FQ1MYc4frK    =    -1228748995;
     r8BsRe    =    -1362185263;
     u80Z4iBrQZ    =    -678739979;
-    Cwbn5QR52    =    1671300230;
+
 
 
     m5g80IGUe    =    -2101307301;
@@ -40,7 +40,7 @@ int main(int argc, char** argv) {
     e8GX    =    2073239370;
     q8TOZtlx    =    -1898751987;
     pa24E    =    -1231356388;
-    kv_r0    =    -1898565385;
+
     u_G1r    =    -940142476;
     j0gYr12_L    =    -555919949;
     c1BZlbm6Zl    =    1675257656;
@@ -71,7 +71,7 @@ int main(int argc, char** argv) {
     hH6__8    =    1212193979;
     NQeS    =    941527418;
 
-    P59D    =    413081363;
+
     zh2C221_    =    -1631670722;
     x_Y4ud4_D    =    -1929308794;
 
@@ -312,7 +312,7 @@ case 1:
 
 break;
 case 2:
-c1BZlbm6Zl += 788126756;
+
 break;
 case 3:
 Eiz56SA8 = oVdI2DEeW - 1949303883;
@@ -421,7 +421,7 @@ break;
 
 
 
-lDb10 = (int)abs(n177e);
+
 
 
 for (int i = 6; i >= 0; --i)

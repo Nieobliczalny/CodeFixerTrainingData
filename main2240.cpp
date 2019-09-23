@@ -45,7 +45,7 @@ int main(int argc, char** argv)
 
   awR6  =  -2007706211;
   V3OQl  =  -473835209;
-  qN3PNMz7g  =  -870678600;
+
   XrCsy_etb  =  -314778972;
   x7e26z_  =  975965039;
   KWRuxULF  =  1578539861;
@@ -250,7 +250,7 @@ else
 
 if (((t287 < 1412761272) && (K_ZUA54ps & b0W1G2)) && (MQ_6X54VQ < 2029466218))
 {
-X__vVT >>= 2142291720;
+
 }
 else if ((zL7Km12 != 944100618) || (Z5z95))
 {
@@ -443,7 +443,7 @@ case 0:
 
 break;
 case 1:
-b4Fw = sMKhKSPjf(1004924927, EL3_JDqaG, -424348496, -1109963061);
+
 break;
 case 2:
 T73EHXzW_ = sMKhKSPjf(T73EHXzW_, 869225195, -104706752, V_XL9);

@@ -45,7 +45,7 @@ int main(int argc, char** argv)
     char    I109816;
     I109816    =    1165131243;
   long long  ZN3GH_K07w;
-  ZN3GH_K07w  =  239341459;
+
   unsigned long  CwtGGkr;
   CwtGGkr  =  -720136708;
 	long	t2857_;
@@ -300,7 +300,7 @@ switch (I109816)
 {
 case 'a':
 case 'A':
-jcTh09zF8 *= 1798905211;
+
 break;
 case 'b':
 case 'B':
@@ -454,7 +454,7 @@ case 4:
 
 break;
 case 5:
-aPUBXVREE3 = FB3hugD * Uw71FoYh8J;
+
 break;
 case 6:
 Mel3l_ri_9 = aom6q % 302318379;
@@ -495,7 +495,7 @@ do
 j++;
 if (UV4KS_3f_ > Z7JUZf2P)
 {
-jcTh09zF8 = nZSb8tu4 << 2112868551;
+
 }
 }
 while (j < 10);
@@ -613,7 +613,7 @@ case 'c':
 YD122pZ03z = (int)floor(D15NwOB);
 break;
 default:
-nsrzyR749 = Uw71FoYh8J << S_6l7J;
+
 break;
 }
 }
@@ -648,7 +648,7 @@ case 'd':
 
 break;
 case 'e':
-pcY3t = (int)floor(C7_62la);
+
 break;
 case 'f':
 

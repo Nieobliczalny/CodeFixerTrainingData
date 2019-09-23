@@ -74,7 +74,7 @@ int main(int argc, char** argv) {
     long    bLF7gQX;
     bLF7gQX    =    -1016512158;
     long double    qlRBzi_6vw;
-    qlRBzi_6vw    =    1067041009;
+
   long  v3l2wK1t7;
 
 	double	j7rq;
@@ -191,7 +191,7 @@ case 0:
 
 break;
 case 1:
-JyKAw = (int)floor(b85K1Q);
+
 break;
 case 2:
 v7kB4Z = (int)ceil(Ij4cPgc);

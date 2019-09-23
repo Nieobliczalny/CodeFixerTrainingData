@@ -483,7 +483,7 @@ YrP0 = (int)abs(t10E6);
 }
 else if (n28v6aA >= 1868910702)
 {
-sV64_DfE = (int)abs(b_qVoVG);
+
 }
 else if (oLxO6 & 1913978347)
 {

@@ -41,7 +41,7 @@ hRoWs = (kgiB <= L11oLf) ? D17NF89Mn : tpy92q;
 }
 }
 
-L_P7Vt = (char)(jV0Xj5);
+
 
 
 
@@ -52,7 +52,7 @@ if ((Z4_O46n / kgiB) >= 1623960209)
 fmhx5gZuc = (char)(yB5M2CN);
 }
 
-jV0Xj5 = (char)(Npm2d27 + (-2099187756));
+
 
 return 0;
 }

@@ -264,7 +264,7 @@ case 1:
 DFmx9bOIz = Wx94NQ(1066584219, qz8J5);
 break;
 case 2:
-uBXCD24 = Wx94NQ(DFmx9bOIz, qz8J5) ^ nS0m;
+
 break;
 case 3:
 pefBi = Wx94NQ(pefBi, xBqD);
@@ -306,7 +306,7 @@ for (int i = 4; i >= 0; --i)
 }
 
 
-L6NwHIis = (char)(nS0m);
+
 
 o3uffNX1R = n0wrNLipO << bD7q;
 

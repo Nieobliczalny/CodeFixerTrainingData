@@ -204,7 +204,7 @@ case 'c':
 
 break;
 case 'd':
-M9iA = W1D4pd86t8 << iG42qH2U_;
+
 break;
 case 'e':
 
@@ -222,7 +222,7 @@ else
 
 }
 
-C41u = JpxbSC2doI / JjHhCb_tI;
+
 
 for (int i = 8; i >= 0; i--)
 {
@@ -242,7 +242,7 @@ for (int i = 0; i < 2; ++i)
 cout << "V3_isw2801" << U43YK2781 << endl;
 }
 
-PbVU2hf862 = Eh4r ^ 164300156;
+
 Z2Pc = (int)floor(eX29f70J);
 
 return 0;

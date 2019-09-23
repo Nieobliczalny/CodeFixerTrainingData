@@ -46,7 +46,7 @@ int main(int argc, char** argv)
 	float	xX0nu7rG4v;
 	xX0nu7rG4v	=	-484666058;
   unsigned short int  g47F6;
-  g47F6  =  -845519487;
+
 	unsigned long long	y7h84bNZ;
 	y7h84bNZ	=	-1837645736;
 	unsigned long	e658H_FhyM;
@@ -156,7 +156,7 @@ int main(int argc, char** argv)
     int    HL6c9tr6ql;
     HL6c9tr6ql    =    1763540751;
 	char	F5U2j0;
-	F5U2j0	=	1301731490;
+
   unsigned int  yC80;
   yC80  =  -2029377699;
   unsigned long long  n9_8Cr;
@@ -174,7 +174,7 @@ int main(int argc, char** argv)
 	unsigned short int	tuhVz;
 	tuhVz	=	-58880009;
   unsigned char  b0aa4;
-  b0aa4  =  78359971;
+
   char  Rn0Li2K;
   Rn0Li2K  =  -1147606892;
 	long double	srsY;
@@ -608,7 +608,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-W4C7 = SHbW(W4C7);
+
 break;
 case 'd':
 case 'D':
@@ -632,7 +632,7 @@ case 'H':
 break;
 case 'i':
 case 'I':
-tuhVz = SHbW(-1352722151);
+
 break;
 }
 

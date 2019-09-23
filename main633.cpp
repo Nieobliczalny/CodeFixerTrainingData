@@ -506,7 +506,7 @@ case 1:
 
 break;
 default:
-UiP1IzUAoS = EwAs0lkMo(uT85Bc6835);
+
 break;
 }
 
@@ -590,7 +590,7 @@ else
 }
 else if (GWN2LFSRVj)
 {
-Lk6iQWFux8 = (int)floor(cVawC41hQ);
+
 }
 else
 {
@@ -606,7 +606,7 @@ case 'c':
 
 break;
 case 'd':
-vpOXGw8_e = EwAs0lkMo(Vw6NPz61);
+
 break;
 default:
 
@@ -628,7 +628,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-GWN2LFSRVj = L2wSKr2Sn * V0DZGFI_er;
+
 break;
 case 'd':
 case 'D':

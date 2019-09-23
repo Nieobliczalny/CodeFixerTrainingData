@@ -67,7 +67,7 @@ int main(void) {
  double VY6fiLf5;
  VY6fiLf5 = 310440328;
 	int	su5Nl;
-	su5Nl	=	1441904307;
+
   unsigned short int  M1wzvE01u;
   M1wzvE01u  =  1167524357;
  char jFYw3z;
@@ -126,7 +126,7 @@ int main(void) {
 switch (RFcr9cq_ql)
 {
 case 'a':
-su5Nl = (int)abs(Z4kp);
+
 break;
 case 'b':
 MJ78uJ = (int)ceil(JSfOsC8Y58);
@@ -312,7 +312,7 @@ else if (q_CcgK9G < -389465741)
 }
 else if (SEv5 & -650772886)
 {
-iY3YM5Gi = e4sseOE + 2138461083;
+
 }
 else if ((mL69g7Nj5k > q_CcgK9G) || (na5u3K > PfH7y0))
 {
@@ -407,7 +407,7 @@ case 2:
 dWD9I = pM28();
 break;
 case 3:
-sPbDU9 = pM28();
+
 break;
 }
 }

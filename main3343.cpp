@@ -305,7 +305,7 @@ else
 {
 nvEBGxG = (int)ceil(W5l4fS);
 }
-d6fwt = (unsigned long long)(fvw23 * d6fwt);
+
 
 {
 int i = 0;
@@ -374,7 +374,7 @@ Yr1DVTAVM--;
 
 kKX90SH92N = (unsigned short int)(W6uuAa);
 
-fwki5Sn6C = (unsigned short int)(nvEBGxG);
+
 
 
 
@@ -410,7 +410,7 @@ case 1:
 
 break;
 case 2:
-Lei_a2Kt = (int)ceil(nF0a8L);
+
 break;
 case 3:
 
@@ -422,7 +422,7 @@ case 5:
 
 break;
 case 6:
-iwB9A = (int)ceil(ZZPNEr0Mh);
+
 break;
 case 7:
 ZZPNEr0Mh = (int)floor(nvEBGxG);
@@ -446,7 +446,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-WTCRI = (KdOG != -662169331) ? -1891328077 : bCqa0Ua3;
+
 break;
 case 'd':
 case 'D':
@@ -466,7 +466,7 @@ case 'G':
 break;
 case 'h':
 case 'H':
-dlco592 ^= kKX90SH92N;
+
 break;
 }
 

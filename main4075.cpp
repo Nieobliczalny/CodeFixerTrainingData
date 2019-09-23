@@ -64,7 +64,7 @@ int main(int argc, char** argv) {
  int nT65mO;
  nT65mO = -595805164;
   short int  RSeS77jP0h;
-  RSeS77jP0h  =  372253948;
+
   long long  n5z2V370;
   n5z2V370  =  -1443669637;
 	unsigned char	dI3rkt6;
@@ -100,7 +100,7 @@ int main(int argc, char** argv) {
     unsigned long long    VwGm7oH1;
 
  unsigned short U78uz;
- U78uz = 555466247;
+
 	unsigned int	u8_v;
 	u8_v	=	-1633012928;
     long long    nu8P3bb;
@@ -166,7 +166,7 @@ int main(int argc, char** argv) {
   char  L8lm67;
 
 	short int	P4JO5I1v;
-	P4JO5I1v	=	-870548235;
+
  short int AvXgj6_F;
  AvXgj6_F = -1594970599;
  short r46y4pO5Yu;
@@ -321,7 +321,7 @@ else if (LiyOS == 1337252267)
 {
 for (int j = 0; j < 9; j++)
 {
-ohVrse = (int)floor(POng);
+
 }
 }
 else
@@ -471,7 +471,7 @@ if (((sBUPaN0x09 != XO71Cyd_0) && (u5b4v4_mF == XEg5I)) || ((Iw8cz == 1072477185
 cout << LiIayeh9h(oUX1) << LiIayeh9h(-415443354) << "VC39" << LiIayeh9h(-797949881) << V9tVvC_ << endl;
 }
 }
-KE__ = tv37vQ0 + Iw8cz;
+
 try
 {
 try
@@ -494,7 +494,7 @@ catch (int& errorCode)
 {
 U17p3J <<= 2108948151;
 }
-p_ng1lM8 = KjMu3PE >> u2ld45h;
+
 switch (U17p3J)
 {
 case 'a':
@@ -504,7 +504,7 @@ case 'b':
 
 break;
 case 'c':
-qPc8GlEG6 = (int)abs(XftJF);
+
 break;
 case 'd':
 u5b4v4_mF = (int)floor(QN6QF);
@@ -516,7 +516,7 @@ case 'f':
 
 break;
 case 'g':
-T7QRYfela5 = CX5Nd9d >> w4Xe;
+
 break;
 case 'h':
 nE4S1X_48 = LiIayeh9h(V9tVvC_);
@@ -558,7 +558,7 @@ LPlFj = LiIayeh9h(T7QRYfela5);
 }
 else if (R1GhIT236l <= KjMu3PE)
 {
-ohVrse = (int)floor(uOeYK_v3WE);
+
 }
 else if (v_YD6WW > KjMu3PE)
 {

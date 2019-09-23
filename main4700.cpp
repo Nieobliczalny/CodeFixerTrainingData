@@ -31,7 +31,7 @@ if (NJxE_ >= YanxO)
 
 
 
-YGo2o1z6 -= FpJK;
+
 
 douk0A44z = (int)abs(Ya8VphS);
 if ((p631jf9G & 275025167) || (qp6S2iBdCf == 2128578657))

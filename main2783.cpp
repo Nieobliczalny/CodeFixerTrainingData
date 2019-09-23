@@ -19,7 +19,7 @@ int main(int argc, char** argv) {
     double    hyAei,    l3e6Dfg37,    Lf8hl,    pZkm5,    G04EbI84,    Z_ZQ,    nJjBuwi1a,    ZD1V,    P853,    wJDWo,    gDp4hh,    i9WK2LDNi2,    FaEcpD,    jWHu,    ocI5dw3v_,    hOzy,    C001tuaOm,    AN893Rmd9,    RXs8n,    pP31H,    WP3h3Gu,    wsWbZ,    VH9YAhwFi,    zgnRCz5013,    i13vn,    s97YJkHQ,    OPIzD1V,    R71_;
 
 
-    Lf8hl    =    1471177135;
+
     pZkm5    =    -232838165;
     G04EbI84    =    -1969450920;
     Z_ZQ    =    -545705402;
@@ -32,7 +32,7 @@ int main(int argc, char** argv) {
     FaEcpD    =    773625792;
     jWHu    =    1286348617;
 
-    hOzy    =    795184974;
+
     C001tuaOm    =    -634291541;
     AN893Rmd9    =    -1618572130;
     RXs8n    =    1457605424;
@@ -44,7 +44,7 @@ int main(int argc, char** argv) {
 
     s97YJkHQ    =    -727322971;
     OPIzD1V    =    -1575404836;
-    R71_    =    -1783020381;
+
   short  zEZ76,  FG8hG;
   zEZ76  =  0;
 

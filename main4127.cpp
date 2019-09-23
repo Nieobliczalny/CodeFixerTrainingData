@@ -86,7 +86,7 @@ int main(void)
     short    GUHqri24T;
 
 	long long	yle17;
-	yle17	=	1851631156;
+
  unsigned long ku1Nus5;
  ku1Nus5 = 445880652;
     short int    rdPd52g2_q;
@@ -116,7 +116,7 @@ int main(void)
  char d_4M;
  d_4M = 0;
  long double n9EjrGl;
- n9EjrGl = -1273578213;
+
  int z5x1scnTm;
  z5x1scnTm = 1215244045;
 	short int	a6w0rEE0;
@@ -136,7 +136,7 @@ int main(void)
   long double  p_07;
   p_07  =  -1440806529;
  unsigned long l35d8p0;
- l35d8p0 = -1259290671;
+
  long NMXQY;
  NMXQY = 271078634;
     long long    v0JwL8m0xV;
@@ -227,7 +227,7 @@ case 1:
 
 break;
 case 2:
-Ihrc2P9 = W0qAz_(Ihrc2P9, -2074660509, N4R39n44, a6w0rEE0);
+
 break;
 case 3:
 hhi_b8EpHr = TlgzcT2G << Vk3e;
@@ -242,7 +242,7 @@ case 6:
 
 break;
 case 7:
-X9_v6bwz = (int)abs(tjOJWFaCfi);
+
 break;
 case 8:
 lGuE9nIy0j = DM2Qct(850285441, -919253353);
@@ -262,7 +262,7 @@ case 1:
 id0CY = e8NC2I823(d_4M);
 break;
 case 2:
-wlg8Qs8 = W0qAz_(wlg8Qs8, AXb28V2UB, 375854829, -325102940);
+
 break;
 case 3:
 
@@ -274,7 +274,7 @@ case 5:
 
 break;
 case 6:
-yle17 = e8NC2I823(938526644);
+
 break;
 case 7:
 bVdDi1k = W0qAz_(bVdDi1k, 894712682, IB3YRiilj, -654743606);
@@ -368,7 +368,7 @@ case 1:
 
 break;
 case 2:
-wlg8Qs8 = (int)ceil(MtyD);
+
 break;
 case 3:
 E7_0tSJP = (int)ceil(MtyD);

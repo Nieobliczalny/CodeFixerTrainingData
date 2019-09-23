@@ -19,7 +19,7 @@ int main(void)
  unsigned long ttp_5;
 
 	unsigned char	sC0j;
-	sC0j	=	-170341092;
+
  unsigned short int IL_1DFz77;
  IL_1DFz77 = -422153912;
     unsigned long long    ulFzF8;
@@ -59,7 +59,7 @@ int main(void)
     short    S4jV9yMmo;
     S4jV9yMmo    =    1023440595;
   unsigned int  qFPLuwB;
-  qFPLuwB  =  -2008589349;
+
 	unsigned short	WfLe;
 	WfLe	=	-2114011355;
 	short	NPX9tyY6;
@@ -69,7 +69,7 @@ int main(void)
   int  E2n747N;
   E2n747N  =  -1523360003;
   short  t8E6_zT5S;
-  t8E6_zT5S  =  854646441;
+
     unsigned long    gOqN3;
     gOqN3    =    -132921936;
     long    mI8XyF7;
@@ -177,7 +177,7 @@ int k = 1;
 while (k >= 0)
 {
 --k;
-t8E6_zT5S = uXmCVG2_71 ^ 1170000176;
+
 }
 }
 }
@@ -207,7 +207,7 @@ case 1:
 
 break;
 case 2:
-eEdnC = (int)abs(xLD5);
+
 break;
 case 3:
 UdR9x_N++;
@@ -219,7 +219,7 @@ case 5:
 
 break;
 default:
-h_1_9msaz = j92aN5 * xLD5;
+
 break;
 }
 
@@ -235,7 +235,7 @@ case 2:
 S4jV9yMmo -= 1282989985;
 break;
 case 3:
-xLD5 = (int)floor(zbZld85);
+
 break;
 case 4:
 
@@ -275,7 +275,7 @@ case 6:
 
 break;
 case 7:
-NPX9tyY6 = (int)abs(E2n747N);
+
 break;
 case 8:
 NPX9tyY6 &= 458722128;

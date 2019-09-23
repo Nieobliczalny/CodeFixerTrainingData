@@ -107,7 +107,7 @@ if (Av2o1 == 0)
 switch (atKG1VG)
 {
 case 0:
-n9uRe ^= VGI9V3AUmQ;
+
 break;
 case 1:
 J_8dAmk5m = (int)abs(Yp5g);
@@ -119,7 +119,7 @@ case 3:
 WFs3 += l_H2;
 break;
 case 4:
-LMmp1 <<= 1970821902;
+
 break;
 case 5:
 gp8R &= 1605771891;
@@ -135,7 +135,7 @@ if ((W0050_) || (QIv6 & g7_XWV2J_0))
 {
 std::cout << WFs3 << std::endl;
 }
-o4Vj = yQ6Iz7M6 * atKG1VG;
+
 
 if (((Rp1Q1V >= RMrE4l) && (o_qL7x8o <= Av2o1)) && (MQhaWK8R_S >= OPKZA))
 {
@@ -147,7 +147,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-Im_q6gbI6U = WFs3 + F_k32;
+
 break;
 case 'c':
 case 'C':
@@ -159,7 +159,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-Rp1Q1V = jZD783_ / dFIaG;
+
 break;
 case 'f':
 case 'F':
@@ -171,7 +171,7 @@ case 'G':
 break;
 case 'h':
 case 'H':
-VGI9V3AUmQ = xZVva7jb << MQhaWK8R_S;
+
 break;
 case 'i':
 case 'I':
@@ -205,7 +205,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-uq5S2 = (int)abs(xZVva7jb);
+
 break;
 case 'c':
 case 'C':
@@ -216,7 +216,7 @@ case 'D':
 
 break;
 default:
-HeoiVXVA |= QIv6;
+
 break;
 }
 }

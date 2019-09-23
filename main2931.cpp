@@ -16,7 +16,7 @@ int main(void) {
   double  xAd5l;
   xAd5l  =  144008611;
  unsigned short x8BGX;
- x8BGX = -428866125;
+
  int ebVfP6F;
 
  short int bdHbS;
@@ -26,7 +26,7 @@ int main(void) {
     unsigned char    M2ONt1;
     M2ONt1    =    -846377416;
   unsigned short int  cD2h;
-  cD2h  =  -121533565;
+
  unsigned short int ghHe;
 
  unsigned short int UgKYa99Y39;
@@ -36,7 +36,7 @@ int main(void) {
   short int  iDd544KXT6;
   iDd544KXT6  =  1271809738;
  short XenVN;
- XenVN = -1089262531;
+
     unsigned short int    Hel9;
     Hel9    =    1899307427;
     unsigned long long    X_Hzw;
@@ -48,7 +48,7 @@ int main(void) {
 	long long	fi7lVr;
 
 	unsigned char	DOc4Dm;
-	DOc4Dm	=	0;
+
   unsigned char  CXAbAMG37;
   CXAbAMG37  =  372913808;
  int K81PPA;
@@ -62,7 +62,7 @@ int main(void) {
     unsigned short int    V3UYpM_I;
     V3UYpM_I    =    -31416699;
     short    e_3tgO7U;
-    e_3tgO7U    =    -662530374;
+
  int HrBROl78_;
 
 	long double	WFlMs0PLb;
@@ -80,7 +80,7 @@ int main(void) {
 	char	O1_db01JK;
 
     unsigned long    tieW9R2hzb;
-    tieW9R2hzb    =    0;
+
 	int	Jds3kV;
 	Jds3kV	=	-1621894390;
  unsigned short L74cTTj6;
@@ -114,7 +114,7 @@ WFlMs0PLb = (int)floor(c__FL);
 }
 
 
-eb5qQpmTOB ^= jRiF8I;
+
 O1_db01JK = M2ONt1 / D2Ck0976m;
 switch (iDd544KXT6)
 {
@@ -125,7 +125,7 @@ case 'b':
 
 break;
 case 'c':
-iDd544KXT6 /= 1938077954;
+
 break;
 case 'd':
 w0Y325 |= Hel9;
@@ -140,7 +140,7 @@ case 'g':
 bdHbS++;
 break;
 case 'h':
-UgKYa99Y39 = Jds3kV | 1421456717;
+
 break;
 case 'i':
 

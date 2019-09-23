@@ -265,7 +265,7 @@ kN4U = (int)floor(CRaQNgVe);
 
 for (int i = 0; i < 4; ++i)
 {
-Fs7zg8_Pn5 = (int)floor(o582GJ1);
+
 }
 
 si7GEO3N = (short int)(hY1L8);
@@ -292,7 +292,7 @@ case 4:
 
 break;
 case 5:
-KMl_V80m = (int)abs(D54cQ5I5_5);
+
 break;
 case 6:
 
@@ -333,7 +333,7 @@ if (D54cQ5I5_5 < -842173314)
 int j = 0;
 while (j < 9)
 {
-AmR16R = (int)abs(S57Pn);
+
 ++j;
 }
 }

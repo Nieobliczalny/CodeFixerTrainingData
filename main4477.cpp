@@ -24,7 +24,7 @@ int main(void)
   unsigned long long  hXxA;
   hXxA  =  -1084169852;
   long double  kp4w;
-  kp4w  =  -979467490;
+
     unsigned long long    dXe1gr;
     dXe1gr    =    1184120184;
   unsigned short int  gI22e;
@@ -158,7 +158,7 @@ case 6:
 
 break;
 case 7:
-n_1iG = (int)abs(YX6G);
+
 break;
 case 8:
 
@@ -228,7 +228,7 @@ case 'I':
 
 break;
 default:
-kp4w = ZA9C10E(-1434497612, FHu9i2pssl, hq_4DEFgQ) ^ 340338569;
+
 break;
 }
 }
@@ -339,7 +339,7 @@ else if ((E83p == 1858363100) || ((s31m1 == Eq1JX) && (lB_cwJXA < b_W3u0)))
 }
 else if (hq_4DEFgQ < b_W3u0)
 {
-gI22e = r3sE_(EKhS5n5jWE, -1609597800, lB_cwJXA);
+
 }
 else
 {

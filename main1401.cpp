@@ -55,7 +55,7 @@ for (int j = 0; j < 7; j++)
 {
 if (Os_W > ix_fug)
 {
-Cpt554hVE = (int)abs(ySX79eVXQp);
+
 }
 else
 {

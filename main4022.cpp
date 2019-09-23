@@ -305,7 +305,7 @@ case 7:
 zDDeWQ >>= M9IA6;
 break;
 case 8:
-zPNUc_w8w = b24O7wU * 894960730;
+
 break;
 }
 }
@@ -349,7 +349,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-XgsStkx0 = Trht(XgsStkx0);
+
 break;
 case 'd':
 case 'D':
@@ -361,7 +361,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-JVP8Ij %= 1860260797;
+
 break;
 }
 }
@@ -403,7 +403,7 @@ case 1:
 
 break;
 case 2:
-hmbV5FQ = En1K | zBzh7RUq;
+
 break;
 case 3:
 hmbV5FQ <<= FGc_3;
@@ -430,7 +430,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-vn0a = vn0a & 72146410;
+
 break;
 }
 }

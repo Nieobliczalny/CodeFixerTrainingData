@@ -37,7 +37,7 @@ int main(void) {
 	int	uv6V2nu6;
 
     long double    PDl6;
-    PDl6    =    -991394256;
+
     long long    L2NHWJd8k;
 
 	float	BLUWq1f3f;
@@ -63,7 +63,7 @@ int main(void) {
 	unsigned long	mx4bQW_wf4;
 	mx4bQW_wf4	=	-64223290;
     double    Y63xbD;
-    Y63xbD    =    -793764525;
+
  double En48UB;
  En48UB = -1271755671;
     unsigned long    VIqoG_5dW;
@@ -93,7 +93,7 @@ uGB5 = X32rQed(-1091627600, c_r7bBuEl, 1393657960, WTyf, -846848332);
 
 for (int i = 9; i >= 0; i--)
 {
-PDl6 = (int)abs(L34_1);
+
 }
 L2NHWJd8k = (int)abs(o9w04K7xd4);
 for (int i = 0; i < 3; ++i)
@@ -144,7 +144,7 @@ En48UB = (int)abs(BLUWq1f3f);
 }
 else if (L2NHWJd8k > NX_Cw7_Lnc)
 {
-PDl6 = (int)ceil(p3k265W8);
+
 }
 else if (L2NHWJd8k == -303927956)
 {
@@ -220,7 +220,7 @@ case 3:
 
 break;
 case 4:
-PDl6 = (int)ceil(En48UB);
+
 break;
 case 5:
 VIqoG_5dW = Z5Y69GoTY(-1999104709, FC7O20LL65, 410974017, -1748629955);
@@ -250,7 +250,7 @@ case 'a':
 BTu38 = qWE4igce(BTu38, o9w04K7xd4, 1248207930);
 break;
 case 'b':
-PDl6 = (int)abs(wXBD);
+
 break;
 case 'c':
 p3k265W8 = NX_Cw7_Lnc | 1577258522;
@@ -386,7 +386,7 @@ case 4:
 
 break;
 case 5:
-Mchs797 = Q8H170 | L34_1;
+
 break;
 case 6:
 wXBD = FC7O20LL65 << 500292083;
@@ -398,7 +398,7 @@ case 8:
 
 break;
 case 9:
-Mchs797 = qWE4igce(Mchs797, -520921756, -51870005);
+
 break;
 default:
 En48UB = (int)abs(Q8H170);

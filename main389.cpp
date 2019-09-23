@@ -487,7 +487,7 @@ case 'F':
 break;
 case 'g':
 case 'G':
-Fzpm8329 = fGA8 - ayU_L9;
+
 break;
 case 'h':
 case 'H':

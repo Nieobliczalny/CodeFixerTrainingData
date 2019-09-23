@@ -429,7 +429,7 @@ case 'f':
 F3jzNk2 = (int)abs(K1_2292W);
 break;
 case 'g':
-K1_2292W = (int)abs(LpkIw4Z) + (1237456566);
+
 break;
 case 'h':
 mS69lY >>= 685225723;

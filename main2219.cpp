@@ -48,7 +48,7 @@ int main(int argc, char** argv)
 	l2Oysd	=	-2117289096;
 	X8QS	=	2065393253;
 	W8PLF71	=	-478576591;
-	Y1ft4	=	944896077;
+
 	Hon5HPxkg	=	490707008;
 	x7Dqz_yH9d	=	-590797007;
 
@@ -276,7 +276,7 @@ if (X8QS != I40xSy)
 {
 try
 {
-W8PLF71 = (int)abs(D6fX7c16);
+
 }
 catch (int& errorCode)
 {
@@ -379,7 +379,7 @@ mrhNq4a += 2078734589;
 
 
 
-Ozs2 = -1182060379 / T730dQK;
+
 
 return 0;
 }

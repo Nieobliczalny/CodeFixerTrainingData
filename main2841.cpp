@@ -16,7 +16,7 @@ int main()
   double  m0uE9ZU1c;
   m0uE9ZU1c  =  -510581535;
  double n_91P5f05;
- n_91P5f05 = 1647963416;
+
 	long long	j6xc475;
 	j6xc475	=	-905849147;
  short int IHE0TD_f;
@@ -32,7 +32,7 @@ int main()
   short  Xw36GVNExO;
   Xw36GVNExO  =  -208944952;
 	unsigned int	T3yg;
-	T3yg	=	1678938153;
+
     unsigned short int    Z9mFR_LiHH;
     Z9mFR_LiHH    =    -2140585303;
   long double  o9_8_;
@@ -68,7 +68,7 @@ int main()
     int    C24LI;
 
  unsigned int p0326IR30;
- p0326IR30 = 158532267;
+
     unsigned char    yi5O8W;
     yi5O8W    =    963869426;
  long double ly9zvO6c;
@@ -80,7 +80,7 @@ int main()
  unsigned short NuFDM1;
  NuFDM1 = 4667525;
 	unsigned short int	LyNn;
-	LyNn	=	0;
+
     short int    IX_nwH8F0;
     IX_nwH8F0    =    1459908595;
 	short	r833;
@@ -98,7 +98,7 @@ int main()
  short int L2GQ5C8v;
 
  long double ugrB_A;
- ugrB_A = 524619810;
+
  unsigned short LXB_8ipq;
  LXB_8ipq = -1441107545;
  unsigned char PuX671D78p;
@@ -130,7 +130,7 @@ int main()
     unsigned short    zso_8uR6;
 
     short    rZh7;
-    rZh7    =    656408988;
+
 	char	ilW5wC;
 	ilW5wC	=	-905863011;
 
@@ -235,7 +235,7 @@ y7beC200 = (int)abs(AHStR4r) * 0;
 break;
 case 'h':
 case 'H':
-n_91P5f05 = yi5O8W | G_9MQ;
+
 break;
 }
 o9_8_ = (int)ceil(m0uE9ZU1c);

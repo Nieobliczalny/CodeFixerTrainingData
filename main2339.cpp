@@ -32,7 +32,7 @@ int main(int argc, char** argv) {
  unsigned char Uw5nBpD0;
 
 	double	Nn38s7q;
-	Nn38s7q	=	938456206;
+
  long double DNhmrO;
 
   float  fqQl;
@@ -46,7 +46,7 @@ int main(int argc, char** argv) {
     long long    eKhQUP;
 
 	long long	Y5W2x10;
-	Y5W2x10	=	0;
+
  unsigned char INjyDo91L;
  INjyDo91L = 167139877;
  unsigned long long mL53;
@@ -60,7 +60,7 @@ int main(int argc, char** argv) {
 	unsigned long	x_83z;
 
 	unsigned long long	L9y1Jb;
-	L9y1Jb	=	-626708665;
+
 	char	Fnn3d7x4t;
 
  unsigned short QYWP626;
@@ -74,7 +74,7 @@ int main(int argc, char** argv) {
     long double    E2F_v7Ak;
 
 	long double	uM9d;
-	uM9d	=	436554880;
+
     float    m4xG_Pmf72;
     m4xG_Pmf72    =    1403859598;
  short int bvUBiN;
@@ -84,7 +84,7 @@ int main(int argc, char** argv) {
  unsigned int FR2qp2;
 
     long long    n5674so7;
-    n5674so7    =    -1266594210;
+
 	unsigned short	obzC;
 	obzC	=	420661532;
  long e2Z12HWq1_;
@@ -94,7 +94,7 @@ int main(int argc, char** argv) {
     short int    UruOE;
 
     short    sPHcE;
-    sPHcE    =    -397318909;
+
 	int	x_trvx6;
 	x_trvx6	=	1536496978;
  unsigned short int PZ0Lo;
@@ -104,7 +104,7 @@ int main(int argc, char** argv) {
 	long long	iCo5d46a6;
 
   long long  mEY5fBx3q1;
-  mEY5fBx3q1  =  -1723160094;
+
   long long  G6xE0;
   G6xE0  =  -1088637837;
  float KI5613h7Ga;
@@ -124,7 +124,7 @@ int main(int argc, char** argv) {
     unsigned int    hW1SkLOD;
 
   unsigned long  K4_o0KvFuo;
-  K4_o0KvFuo  =  -1862678598;
+
   char  N3iQy4S1H;
   N3iQy4S1H  =  2103815431;
   double  yOc_IsSHoI;
@@ -140,7 +140,7 @@ int main(int argc, char** argv) {
 	long	v55_c_l;
 
     unsigned char    JAW4dbu7f;
-    JAW4dbu7f    =    -2078963230;
+
  long double y0ct1_;
 
  float dFX87Hv;
@@ -150,7 +150,7 @@ int main(int argc, char** argv) {
     int    IgLU;
 
 	float	hy1I2D02N;
-	hy1I2D02N	=	-1548472971;
+
   int  JmyrcIY2_C;
   JmyrcIY2_C  =  36907180;
  int B8zN;
@@ -162,7 +162,7 @@ int main(int argc, char** argv) {
     int    k7rhF_z;
 
   short int  bnf3a3sk;
-  bnf3a3sk  =  2087546626;
+
   float  depLjCK;
   depLjCK  =  -427047386;
 
@@ -231,7 +231,7 @@ case 2:
 TLmh6et--;
 break;
 case 3:
-K_MDjd0 = CW2_6van2(K_MDjd0, -1169852503);
+
 break;
 }
 }
@@ -267,7 +267,7 @@ case 1:
 
 break;
 case 2:
-G6xE0 = (int)abs(aFQLXSvY7L);
+
 break;
 case 3:
 mL53 = CW2_6van2(-1491039419, t4L9EV4);

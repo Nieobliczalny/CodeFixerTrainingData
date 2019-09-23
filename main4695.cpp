@@ -279,7 +279,7 @@ else
 {
 for (int k = 0; k < 9; k++)
 {
-IG0ly8O_ = (int)abs(q2e1As1);
+
 }
 }
 }

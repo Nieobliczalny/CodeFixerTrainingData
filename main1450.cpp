@@ -124,7 +124,7 @@ case 2:
 Durhm = UMaaUq5A(Durhm, ECp_);
 break;
 case 3:
-L9NGn = (int)floor(BdbVpdsk_F);
+
 break;
 case 4:
 SWW8A5 = (int)floor(Ku8BA6);
@@ -173,7 +173,7 @@ case 7:
 yj74 *= 323389138;
 break;
 case 8:
-FG5Z = (int)ceil(d1G073XAUg);
+
 break;
 case 9:
 SWW8A5 -= Wbumf;
@@ -234,7 +234,7 @@ case 'b':
 
 break;
 default:
-b_n3WP0h_ = (int)ceil(n2463d7Q0N);
+
 break;
 }
 }

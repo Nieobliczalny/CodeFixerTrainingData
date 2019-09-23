@@ -89,7 +89,7 @@ int main()
  iEap4 = 698299048;
  ZAU934N_58 = -420066642;
 
- dziwUT6 = -781516380;
+
  XPK2UQ_ = 1665580505;
  HL_CH = 784534599;
  D6Imf = 1921443757;
@@ -688,7 +688,7 @@ case 8:
 
 break;
 default:
-iiSMysVH = A5km46bF(iiSMysVH, -94318661, -799106052, kN7MD);
+
 break;
 }
 }

@@ -210,7 +210,7 @@ case 6:
 
 break;
 default:
-B6go /= 2052753240;
+
 break;
 }
 }
@@ -221,7 +221,7 @@ else
 
 
 
-IQBuR = h9bg & 1325849756;
+
 
 o17V54O0 = UTSE(r_3U8U0, nXXi61);
 if (w8_Bx != Uc0hp)
@@ -345,7 +345,7 @@ case 'c':
 
 break;
 case 'd':
-A0OX6kGQz = Y6g_kLo & 1009092069;
+
 break;
 case 'e':
 Q9qXF15Z9 = UTSE(XsC1D5, 243188117);
@@ -404,7 +404,7 @@ case 'b':
 
 break;
 case 'c':
-dnoe /= 1105998580;
+
 break;
 case 'd':
 ZAaK--;

@@ -463,7 +463,7 @@ bh8o = (int)ceil(ZXRmZJ5);
 
 if (buAu4k36Dw >= 902196923)
 {
-D5RwQ = (unsigned char)(buAu4k36Dw);
+
 }
 for (int i = 0; i < 8; ++i)
 {
@@ -563,7 +563,7 @@ case 7:
 Ps_vAP1a = cBsyTd72d_(X6I5v_9, 1545118776, nGRYW9);
 break;
 default:
-jZ6zll7Gp3 = (int)abs(G29d_EF);
+
 break;
 }
 return 0;

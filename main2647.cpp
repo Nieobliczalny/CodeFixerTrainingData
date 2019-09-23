@@ -212,7 +212,7 @@ k6PV9iLx = fatJ2e();
 aH_RVa6bWf = (short)(o815_5m_);
 std::cout << "nKfJJtH6" << F36g2NRyL(-1044194318, 655301015, 1684501986, -211208800, k6PV9iLx) << y7_N_vEFU << std::endl;
 
-WN7njo = fLEQ5Y / fatJ2e();
+
 
 switch (umN37)
 {
@@ -345,7 +345,7 @@ ePMH0 = (int)abs(y7_N_vEFU);
 }
 else if (k6PV9iLx == 1396528480)
 {
-StsKf52 = (int)abs(Y2FM_S6K);
+
 }
 else if ((aD4KUs_52 > -2109611719) || (StsKf52 <= 973332451))
 {
@@ -486,7 +486,7 @@ else
 }
 else
 {
-A_Bi59MOZn = F36g2NRyL(-1472555823, jqgMEIb1B, 849771682, bv0ln0, -815656731);
+
 }
 switch (Ij4c5b_aEr)
 {
@@ -500,7 +500,7 @@ default:
 
 break;
 }
-rgfMt = (short)(bv0ln0);
+
 
 return 0;
 }

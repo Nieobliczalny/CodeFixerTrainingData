@@ -91,7 +91,7 @@ if ((I43a & 1249182549) && (QbL9))
 
 for (int i = 0; i < 2; ++i)
 {
-nJWtZv0ID = (int)(rMZxUE1D6Q);
+
 }
 
 if ((W8ShdajQ9 / W8ShdajQ9) < 224393910)

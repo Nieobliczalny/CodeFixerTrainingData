@@ -237,7 +237,7 @@ case 2:
 U8g1n = (int)ceil(v1r3cTLEjA);
 break;
 case 3:
-v1r3cTLEjA -= SpDNXI;
+
 break;
 case 4:
 D83B6 -= 165483619;
@@ -312,7 +312,7 @@ case 7:
 
 break;
 case 8:
-pu04nez8N = (int)abs(Em2I5);
+
 break;
 case 9:
 
@@ -415,7 +415,7 @@ while (i < 3)
 switch (AK0t)
 {
 case 'a':
-EAbo = FJLhjA97co - ku6TNQElHv;
+
 break;
 case 'b':
 

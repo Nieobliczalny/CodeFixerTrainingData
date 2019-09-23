@@ -147,7 +147,7 @@ case 'c':
 eKpk4M0_1E = (int)ceil(JaVhmM);
 break;
 default:
-STVYW = (int)ceil(zP6we);
+
 break;
 }
 }
@@ -188,7 +188,7 @@ case 1:
 
 break;
 case 2:
-zP6we = K4bk & 613799361;
+
 break;
 case 3:
 dJQVM5w = (int)floor(w86X6Wnq_);
@@ -292,7 +292,7 @@ case 3:
 
 break;
 case 4:
-aIW9DR9 %= 344353229;
+
 break;
 case 5:
 P697 <<= 1770596771;
@@ -342,7 +342,7 @@ else
 {
 
 }
-Dg3I3HYPj = x3QU * 1883586874;
+
 
 cout << vUYZ << "AoC_AVC05" << "x8u_z1um" << gLdkF << "VSpii_cH" << endl;
 
@@ -355,7 +355,7 @@ case 'b':
 
 break;
 case 'c':
-Y6sW8 <<= gLdkF;
+
 break;
 case 'd':
 w748++;

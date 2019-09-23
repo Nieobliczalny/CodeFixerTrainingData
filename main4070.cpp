@@ -15,7 +15,7 @@ short int    bX5vB4x_f1();
 int main(void)
 {
 	long double	Q7l99Rb;
-	Q7l99Rb	=	192128769;
+
 	char	LvCXrg_;
 	LvCXrg_	=	115064190;
     float    K3261Mj0;
@@ -31,7 +31,7 @@ int main(void)
  char ESpBCV_z5;
 
  long LeIo3pU7V;
- LeIo3pU7V = 442447847;
+
     unsigned int    NsE7;
 
 	char	noO4Ucw;
@@ -55,7 +55,7 @@ int main(void)
  long long HpiJTtf;
 
  int HYVwm;
- HYVwm = 1544289649;
+
 	double	iX7nrL;
 	iX7nrL	=	1002092998;
     unsigned int    N6pKL129Oc;
@@ -65,7 +65,7 @@ int main(void)
   short int  wBE0R_beA;
   wBE0R_beA  =  447774928;
  unsigned short MJ1frTB8L0;
- MJ1frTB8L0 = -1666999826;
+
   unsigned short int  ClG8K;
 
  unsigned long B046SKO1;
@@ -75,7 +75,7 @@ int main(void)
  float HvDjjp3;
  HvDjjp3 = 787091417;
     long    e9VO;
-    e9VO    =    -730275352;
+
 	short int	DLZ28;
 
   unsigned short  VqdFYZU;
@@ -89,7 +89,7 @@ int main(void)
   double  nHjsDpzR0g;
 
  float lQgWd6Ptj;
- lQgWd6Ptj = -1130358212;
+
     unsigned long long    c415;
     c415    =    -1487887233;
 	float	b0TC_MD5H;
@@ -101,7 +101,7 @@ int main(void)
 	int	Dc8956_8fF;
 
   char  Mc51w;
-  Mc51w  =  1896275249;
+
 	long long	s6V9N;
 	s6V9N	=	1969393365;
   unsigned char  as99VB4IPE;
@@ -121,7 +121,7 @@ int main(void)
   unsigned short int  ZH_zs7Nh;
 
  char rc2574b72;
- rc2574b72 = -1042435326;
+
     char    p_7w7wziA;
     p_7w7wziA    =    1536187080;
   int  tr2Ky2;
@@ -159,7 +159,7 @@ int main(void)
 	short	z3wQ4pe6K5;
 	z3wQ4pe6K5	=	959955034;
   unsigned long long  z2_z_v21u;
-  z2_z_v21u  =  -1195320641;
+
     long    h8zR9aX;
     h8zR9aX    =    -1326970244;
   long long  FMpPc8M;
@@ -175,7 +175,7 @@ int main(void)
     char    nz_bTAV;
     nz_bTAV    =    1645684911;
     unsigned short    I9q_;
-    I9q_    =    2100917550;
+
 
 
 
@@ -203,7 +203,7 @@ switch (CuvwxU1p3c)
 {
 case 'a':
 case 'A':
-Q7l99Rb = (int)ceil(D_Vq6JA4);
+
 break;
 case 'b':
 case 'B':
@@ -223,7 +223,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-B046SKO1 = clLmy1S & 105976086;
+
 break;
 case 'g':
 case 'G':
@@ -242,7 +242,7 @@ case 'J':
 
 break;
 default:
-h8zR9aX -= yEq1K_epBf;
+
 break;
 }
 }
@@ -392,7 +392,7 @@ case 'G':
 break;
 case 'h':
 case 'H':
-AL7gA = bX5vB4x_f1();
+
 break;
 case 'i':
 case 'I':

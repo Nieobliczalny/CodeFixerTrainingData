@@ -269,7 +269,7 @@ case 0:
 
 break;
 case 1:
-LJY181 -= 270363872;
+
 break;
 case 2:
 DK940LV = (int)abs(XPRcvUA1Y);
@@ -322,7 +322,7 @@ else if (((DK940LV & s7zWF14Pf_) || (PJpjQf2cjl & SFlC02_)) || (Lu9d4 == EBkIEu5
 }
 else if (((V422A2Il < U_871oD) && (yNv_0M17 >= 1510188)) || ((G20s_ != t7uy3KSO0) && (j2_9_8 != Ov1mw4_)))
 {
-XPRcvUA1Y = ZPAhJ ^ Pxwf_;
+
 }
 else if ((U_871oD != 950742994) || (YrT0NU & 566119326))
 {

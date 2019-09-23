@@ -129,7 +129,7 @@ for (int j = 0; j < 6; j++)
 {
 try
 {
-C_1oa3Wn = (int)ceil(QNFp);
+
 }
 catch (int& errorCode)
 {
@@ -165,7 +165,7 @@ else if (pjEdI_ < 911726842)
 }
 else
 {
-j_pH = Y_J0C0DW & f_Pan5rzW3;
+
 }
 }
 switch (t_Vi_Zj7)
@@ -177,7 +177,7 @@ case 'b':
 
 break;
 case 'c':
-oa919T = (int)floor(bjGsamMfCU);
+
 break;
 case 'd':
 gc2Q7_CZ = ga1OR6g1 - v7_zsIN;

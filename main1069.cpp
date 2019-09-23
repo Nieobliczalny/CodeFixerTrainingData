@@ -314,7 +314,7 @@ case 1:
 
 break;
 case 2:
-q_3uF = (int)abs(kWG7u_71);
+
 break;
 case 3:
 b3AdDeY = (int)ceil(ER_902aItG);
@@ -329,7 +329,7 @@ case 6:
 
 break;
 case 7:
-mEr9RLMP |= 1918030514;
+
 break;
 case 8:
 

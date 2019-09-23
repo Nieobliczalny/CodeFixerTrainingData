@@ -127,7 +127,7 @@ int main(int argc, char** argv) {
 
 if (fc_X > 2079728134)
 {
-J5Y645_ = pFuxoF0QU();
+
 }
 else
 {
@@ -480,7 +480,7 @@ int j = 8;
 while (j >= 0)
 {
 j--;
-kv7w = (long long)(o5c7clbA + (-1190851594));
+
 }
 }
 }
@@ -563,7 +563,7 @@ Vi9I3btRg = (int)floor(pa_5);
 break;
 case 'i':
 case 'I':
-kv7w = oB17Z - 204209828;
+
 break;
 case 'j':
 case 'J':
@@ -641,7 +641,7 @@ i++;
 
 for (int i = 0; i < 1; ++i)
 {
-o4hE = (int)abs(WVdQ3P);
+
 }
 if (hUC0GF)
 {
@@ -793,7 +793,7 @@ case 'I':
 
 break;
 default:
-U34FzX5 = pFuxoF0QU();
+
 break;
 }
 --i;

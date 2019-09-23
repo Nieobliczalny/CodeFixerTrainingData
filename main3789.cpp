@@ -39,7 +39,7 @@ int main(void)
  long double iK_44r, h2a47, UqtcOQ, cpUM0IH, ystsDg_SdG, W7CQ, J4b8, SK75_, EEgl, z2v0T56zM, XBC6N, pdR1, I9hv, cqF5w, dgR2_, ic7iMkWIMb, Li_398_J7N, F928tXu9IH, CE2ok08, ty8tyS, kmj7_LSD1V, zV2Y, M2F3, uY_836, O7ot, D2N09nGyE1, GM37b1V, fdI94z3, P_6TeMTEG, lVrjN59If, YocE5QN7nA, oqcr, yau5, E7_a0r, U03hj3, hlgGVL, d_G_C, e3Hg2174, xYen, GK0ApT, VH_b86F, NKfcY5u3g, S9G1y, kk6t8y_, U2It_0wu6Y, eXBKl, R90T_c1E, D0tvZFTO, UM2uoV, yUBiVJ, Mkc8l, z7_M, Bj51q69, D2qOiOmVw, N_060, N8b7i_IJPE, r6LWH1o, tCZlm9_e, F_74JmJ7;
  iK_44r = 1124108349;
  h2a47 = 992719446;
- UqtcOQ = -2048865824;
+
 
  ystsDg_SdG = 1155526260;
 
@@ -63,7 +63,7 @@ int main(void)
 
  O7ot = -1645200967;
 
- GM37b1V = -1011204354;
+
  fdI94z3 = 1632636574;
  P_6TeMTEG = -1808614877;
  lVrjN59If = -1502002544;
@@ -76,7 +76,7 @@ int main(void)
  d_G_C = -1330719021;
  e3Hg2174 = -1033623006;
 
- GK0ApT = 675762218;
+
  VH_b86F = 405099454;
  NKfcY5u3g = -2110948558;
  S9G1y = -1709508173;
@@ -86,7 +86,7 @@ int main(void)
  R90T_c1E = -115920564;
  D0tvZFTO = 268418859;
  UM2uoV = -1432977278;
- yUBiVJ = -1935782414;
+
 
  z7_M = 1310830243;
  Bj51q69 = 1216833075;
@@ -177,7 +177,7 @@ case 2:
 
 break;
 case 3:
-EEgl -= iK_44r;
+
 break;
 case 4:
 D2N09nGyE1 = (int)abs(D0tvZFTO);
@@ -203,7 +203,7 @@ if (W7CQ > CE2ok08)
 }
 else if (lVrjN59If < PPT9T)
 {
-yau5 = (int)abs(hlgGVL);
+
 }
 else if (KRxWWs6H1 & -911366002)
 {
@@ -230,7 +230,7 @@ case 0:
 
 break;
 default:
-Li_398_J7N = zV2Y / N8b7i_IJPE;
+
 break;
 }
 }
@@ -249,7 +249,7 @@ try
 {
 if (fdI94z3 <= pC93vD)
 {
-Bj51q69 = (long double)(zV2Y);
+
 }
 else
 {
@@ -273,7 +273,7 @@ case 'b':
 
 break;
 case 'c':
-fdI94z3 = u66_B(fdI94z3, -1783324891);
+
 break;
 case 'd':
 UqtcOQ = zV2Y * SK75_;
@@ -297,7 +297,7 @@ case 'j':
 
 break;
 default:
-kk6t8y_ = tCZlm9_e + kk6t8y_;
+
 break;
 }
 
@@ -333,7 +333,7 @@ while (i < 8)
 i++;
 }
 }
-lVrjN59If = (int)floor(pdR1);
+
 for (int i = 0; i < 3; i++)
 {
 for (int j = 0; j < 5; ++j)
@@ -354,7 +354,7 @@ case 1:
 
 break;
 case 2:
-U03hj3 = (int)floor(F_74JmJ7);
+
 break;
 case 3:
 dgR2_ *= E7_a0r;
@@ -367,7 +367,7 @@ default:
 break;
 }
 
-r6LWH1o = (long double)(pC93vD);
+
 std::cout << NKfcY5u3g << o2I11F01uZ() << u66_B(h2a47, XBC6N) << O7ot << "OwKC83aZ_x" << std::endl;
 
 

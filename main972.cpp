@@ -467,7 +467,7 @@ case 2:
 
 break;
 case 3:
-o_zY_1 >>= 1856505817;
+
 break;
 case 4:
 
@@ -504,7 +504,7 @@ case 2:
 
 break;
 case 3:
-nclZ3tkKjU *= lE5KGuXB;
+
 break;
 case 4:
 lE5KGuXB -= 1607004169;

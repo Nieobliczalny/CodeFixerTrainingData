@@ -24,7 +24,7 @@ int main(int argc, char** argv) {
  unsigned short bssAl_n2;
  bssAl_n2 = 1500684354;
 	long double	ux0zjFs7L;
-	ux0zjFs7L	=	-1858937795;
+
  long double sl35rvL;
  sl35rvL = -672484465;
 	short	h_05a;
@@ -126,7 +126,7 @@ int main(int argc, char** argv) {
  short ag7sQA;
  ag7sQA = 407184194;
   short int  n6qY;
-  n6qY  =  -521735776;
+
     char    d0s7;
     d0s7    =    -649532181;
     short    htmjd;
@@ -245,7 +245,7 @@ else
 {
 try
 {
-Tt3_21100 = (int)ceil(KVpMkLylL0);
+
 }
 catch (int& errorCode)
 {
@@ -439,7 +439,7 @@ case 5:
 iTEs6D8X = HjGSO6Pb - 893070154;
 break;
 case 6:
-Tt3_21100 = (int)ceil(pVI1y);
+
 break;
 case 7:
 lVwi5Au_NH %= pVJK2Jnd;
@@ -555,7 +555,7 @@ else if (PWIby0o > h0pOkbnat6)
 }
 else
 {
-EiJTE -= eGWYi;
+
 }
 }
 else if (Hpii_z_9E == -377701257)
@@ -586,7 +586,7 @@ else
 
 if (qn4Vn29YJ)
 {
-Z7FCp9Q8 = (unsigned char)(Dv38My884);
+
 }
 else
 {
@@ -626,7 +626,7 @@ if (Zkkvl <= 978212943)
 switch (TJb6q0)
 {
 case 0:
-ag7sQA = eGWYi << f_hAWWyx9v;
+
 break;
 case 1:
 
@@ -663,7 +663,7 @@ case 'b':
 
 break;
 case 'c':
-MT9T = (int)ceil(JNCEaGCB);
+
 break;
 case 'd':
 Z7FCp9Q8 = lVwi5Au_NH * X6gp;
@@ -678,7 +678,7 @@ case 'g':
 MkoO >>= 1492431202;
 break;
 case 'h':
-Kh5o5Y3Bf = (BTr5Xg7) ? e6727x : -292273456;
+
 break;
 case 'i':
 
@@ -733,7 +733,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-QYjhF_o__x = iTEs6D8X | qn4Vn29YJ;
+
 break;
 case 'd':
 case 'D':
@@ -753,7 +753,7 @@ case 'G':
 break;
 case 'h':
 case 'H':
-Hpii_z_9E = (int)floor(qM7A5J0t);
+
 break;
 case 'i':
 case 'I':

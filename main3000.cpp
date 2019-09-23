@@ -216,7 +216,7 @@ WY8u44ZxC7 = Xw4x9p1WL * Xw4x9p1WL;
 }
 else
 {
-Xw4x9p1WL = (float)(H2uztU30xp);
+
 }
 
 if (H2uztU30xp < k2IsCUmV7)

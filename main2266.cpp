@@ -125,7 +125,7 @@ case 'h':
 
 break;
 case 'i':
-tMxM = (int)floor(qUOlVu5mKr);
+
 break;
 default:
 d624 = (int)abs(SfzGFJ0p);
@@ -188,7 +188,7 @@ else if ((shn69T_d >= -279771296) || ((Kq_p8xVYx <= -286861398) && (eBZ4QYZ & -8
 }
 else if (K35_4zSq != 1612612909)
 {
-qUOlVu5mKr = (int)floor(j4FoXbX2K);
+
 }
 else
 {
@@ -280,7 +280,7 @@ case 'c':
 
 break;
 case 'd':
-rs6x2_W |= J_8Z0;
+
 break;
 case 'e':
 LA0hlh = vzk4gyZAnU(LA0hlh);

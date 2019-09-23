@@ -40,7 +40,7 @@ int main(int argc, char** argv) {
 	long	Ulq0qds92;
 	Ulq0qds92	=	2063234820;
     unsigned long long    v9Hs_TL_p7;
-    v9Hs_TL_p7    =    1745645727;
+
     unsigned int    oBJm99LIv7;
     oBJm99LIv7    =    -1520357829;
 	unsigned long long	Xx6w3;
@@ -126,7 +126,7 @@ int main(int argc, char** argv) {
   unsigned short  Kxb57f562;
 
   long double  C0y30O1_7;
-  C0y30O1_7  =  -1845504992;
+
   unsigned int  DDMm353;
   DDMm353  =  1036150285;
   int  Mqfp8GV_V3;
@@ -158,7 +158,7 @@ int main(int argc, char** argv) {
 	long double	QL96Yva1;
 	QL96Yva1	=	1952947343;
 	unsigned short int	G248_;
-	G248_	=	-2031066787;
+
   int  tWerF;
   tWerF  =  -620653373;
     float    QqRi91;
@@ -168,7 +168,7 @@ int main(int argc, char** argv) {
 	short int	NKQ_;
 	NKQ_	=	236884628;
     unsigned long long    GgZCFsy8;
-    GgZCFsy8    =    594477832;
+
   short  G3t7aa37d;
 
 	long double	ds4FJ4KfO;
@@ -210,7 +210,7 @@ case 6:
 b20Z1e = M08XsBZ(b20Z1e);
 break;
 default:
-GgZCFsy8 = RdEDf500 | 1827367010;
+
 break;
 }
 
@@ -244,7 +244,7 @@ X0FvD2YH5 -= 1390155814;
 break;
 }
 
-AbX_60BF = D6aO4_(AbX_60BF, Xx6w3);
+
 
 {
 int i = 0;
@@ -309,7 +309,7 @@ case 4:
 
 break;
 case 5:
-CGF3jeXc8 = M08XsBZ(CGF3jeXc8);
+
 break;
 case 6:
 RdEDf500 *= 2109868490;
@@ -386,7 +386,7 @@ if (Ulq0qds92 & Mqfp8GV_V3)
 
 try
 {
-Kxb57f562 = (unsigned short)(SN3UO1d_);
+
 }
 catch (int& errorCode)
 {
@@ -529,7 +529,7 @@ case 1:
 
 break;
 case 2:
-vVMhMsC5gE %= 1611293359;
+
 break;
 case 3:
 Xx6w3 = M08XsBZ(Xx6w3);
@@ -544,7 +544,7 @@ case 6:
 
 break;
 default:
-adO5 %= NKQ_;
+
 break;
 }
 }
@@ -575,7 +575,7 @@ if (nLDa == z_d806ocI)
 }
 
 
-g0q0USXlx = N88_(-653417789, Xtm_, LZ065t_NGB, X0FvD2YH5);
+
 
 F3Bh1hh_i = (unsigned int)(z_d806ocI);
 std::cout << ph3WVE0V << std::endl;

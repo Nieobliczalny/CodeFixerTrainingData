@@ -381,7 +381,7 @@ else if (r135i <= W7_T4CB)
 {
 if ((Ct4Me34 <= 1445009101) || ((iQc711 <= DWId) && (A0D1EzA == UnDv)))
 {
-w0tw = Db4PpGu();
+
 }
 }
 else if (ob0d == KMltbuG47)
@@ -439,7 +439,7 @@ case 3:
 ozqS_9 = z6En78();
 break;
 case 4:
-w0tw = Db4PpGu();
+
 break;
 case 5:
 ozqS_9 = (int)ceil(J9445_hC);

@@ -80,7 +80,7 @@ int main(int argc, char** argv)
  iD7IQ28lV7 = -602335252;
  tsW2dPehV = 1253662532;
  SXN2 = 2037831221;
- VEf818 = -1312501382;
+
  O5b43F = 756599524;
  t372 = -540197953;
  MZ4XFAVZ5 = 470009231;
@@ -248,7 +248,7 @@ F8Ze2 = (int)abs(NTpxE);
 break;
 case 'e':
 case 'E':
-VEf818 = (int)abs(t372);
+
 break;
 case 'f':
 case 'F':
@@ -367,7 +367,7 @@ case 'F':
 break;
 case 'g':
 case 'G':
-MZ4XFAVZ5 %= 1655854171;
+
 break;
 case 'h':
 case 'H':
@@ -513,7 +513,7 @@ case 1:
 
 break;
 case 2:
-tDvGm = iIhAM + 539620445;
+
 break;
 case 3:
 VM59mg--;
@@ -528,7 +528,7 @@ case 6:
 
 break;
 case 7:
-F7Jwaf_V = IW49 << ck6Q;
+
 break;
 case 8:
 
@@ -559,7 +559,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-ojauOjO_ = BGMd(-1126447656, -374157748, -1877253347);
+
 break;
 case 'd':
 case 'D':

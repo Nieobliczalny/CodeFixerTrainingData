@@ -486,7 +486,7 @@ if (U8ppG >= X68CO7a)
 {
 if (X68CO7a > 1892477222)
 {
-R9c_YdYQ_ |= 2120800571;
+
 }
 }
 else
@@ -522,7 +522,7 @@ case 2:
 j2sbD_ce = q_GHq6iKj();
 break;
 }
-uX13JI8c = P20Zvd3 / j2sbD_ce;
+
 
 
 

@@ -45,7 +45,7 @@ case 1:
 
 break;
 case 2:
-PYi8C__Lw = DzPNH6_Z3(PYi8C__Lw, 1147572680);
+
 break;
 case 3:
 B6p0s_zuak = (int)abs(w_8_zA8o_);
@@ -125,7 +125,7 @@ Xs_DhNkP = n9wq4O(509649706, 2100656856, -610508063, -695590666);
 
 if (OBSX > -228779575)
 {
-i0ZmR3I_ = (unsigned short int)(c1RFnnS65);
+
 }
 switch (H10jRX_N)
 {

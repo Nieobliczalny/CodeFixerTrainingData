@@ -539,7 +539,7 @@ case 2:
 yA0LVKMMC_ = (int)floor(bD3o8NmTTT);
 break;
 case 3:
-EY5l48 *= 1800368495;
+
 break;
 case 4:
 U_Z7h = (int)ceil(YqMd6Sp);
@@ -630,7 +630,7 @@ case 4:
 
 break;
 case 5:
-tfD9 = jOsu & 473579997;
+
 break;
 case 6:
 bD3o8NmTTT = tfD9 << 1131680573;

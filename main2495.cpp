@@ -462,7 +462,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-HFs9 = V524W5h8(HFs9, b5K7, 2057956293, H18thf7x4);
+
 break;
 case 'd':
 case 'D':

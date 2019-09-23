@@ -486,7 +486,7 @@ case 4:
 
 break;
 case 5:
-X73Ek = (int)ceil(M3pG_KiL);
+
 break;
 }
 }

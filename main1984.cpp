@@ -57,7 +57,7 @@ int main(int argc, char** argv)
   unsigned char  DT82_5EvB;
   DT82_5EvB  =  -436303915;
 	long double	uEUAFz7I;
-	uEUAFz7I	=	520945842;
+
     long long    h7td;
     h7td    =    -605375662;
  unsigned short Zw4FSUpo;
@@ -107,7 +107,7 @@ else if (u19JnZ62)
 }
 else if (CpVfK >= 909612745)
 {
-P9Qk6gL %= 1583784819;
+
 }
 else
 {
@@ -217,7 +217,7 @@ case 'b':
 
 break;
 case 'c':
-uxD4N6 = Ksvn6ll ^ 1596455996;
+
 break;
 case 'd':
 W7rCRDBC = (int)floor(I67gQZxv);
@@ -239,7 +239,7 @@ else
 }
 
 
-ysR_GyC3O = JjPcCWa << x4Th26Fi;
+
 h7td -= 2041692529;
 
 return 0;

@@ -145,7 +145,7 @@ case 'c':
 
 break;
 case 'd':
-p3m86 = R_Ehx(627094092) | L9YIw;
+
 break;
 case 'e':
 
@@ -186,7 +186,7 @@ nvknD2adxZ = (int)abs(c343p);
 
 if ((dvo_GefR / t485nGOPdH) <= 720913105)
 {
-Dk72Uc = R_Ehx(658967278) / cI_jit;
+
 }
 if (lGrRfm == BY064Bu98)
 {
@@ -237,7 +237,7 @@ case 1:
 
 break;
 case 2:
-TAi2 |= 1858621581;
+
 break;
 case 3:
 cI_jit = R_Ehx(-1387511406);
@@ -284,7 +284,7 @@ else if (lGrRfm <= 625024235)
 }
 else
 {
-cI_jit = R_Ehx(-557855288);
+
 }
 --j;
 }

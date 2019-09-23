@@ -299,7 +299,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-kP7U = (int)abs(gf2k);
+
 break;
 case 'd':
 case 'D':

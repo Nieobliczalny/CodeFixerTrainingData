@@ -843,7 +843,7 @@ case 'b':
 
 break;
 case 'c':
-K0i555B_ = (int)ceil(f5z3Ry7o);
+
 break;
 case 'd':
 PjI_3 ^= cdL_vYF;
@@ -855,7 +855,7 @@ case 'f':
 
 break;
 case 'g':
-Hq8SK7 %= 477539287;
+
 break;
 case 'h':
 w21CM2qx3_ |= dvEr3V_;

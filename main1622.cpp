@@ -344,7 +344,7 @@ if ((V1qX_o & -231262308) || (XrXM & 291290097))
 {
 if ((V1qX_o >= 1980517751) || (ViVZY9723 == -1499458175))
 {
-pZ55T0W6 = (int)abs(a41Rb1C);
+
 }
 else if (jyX0Wp3 != 1380438396)
 {
@@ -411,7 +411,7 @@ case 2:
 nR4IG = YtGRJ | 184298865;
 break;
 case 3:
-YtGRJ = (int)abs(m82ZhE);
+
 break;
 case 4:
 
@@ -505,7 +505,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-k0Cw ^= 1868636771;
+
 break;
 case 'd':
 case 'D':

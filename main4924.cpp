@@ -233,7 +233,7 @@ case 2:
 X3n3B = (int)floor(dn_26e8FS);
 break;
 case 3:
-GomTW = (int)abs(t_Rc09uk) + (1892606712);
+
 break;
 case 4:
 
@@ -248,7 +248,7 @@ case 7:
 
 break;
 default:
-GomTW = To_6 & yTRB2A8;
+
 break;
 }
 }
@@ -296,7 +296,7 @@ if (XiK75W4 < Nl21v_Djj)
 {
 for (int j = 7; j >= 0; j--)
 {
-pINj = Nl21v_Djj % KL0qlS5ep9;
+
 }
 }
 

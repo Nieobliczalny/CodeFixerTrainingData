@@ -36,7 +36,7 @@ int main()
 
 O_6bL2pN = zXWA(-1793143192, -84473184, -335131816, 1689658797, l3MG4EcG);
 
-ux6_Vm54y = (float)(uNIIUv);
+
 
 {
 int i = 4;
@@ -120,7 +120,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-LSeRAshu40 = FT5Nn_31D(LSeRAshu40, -1280286934, JMpo);
+
 break;
 case 'f':
 case 'F':
@@ -198,7 +198,7 @@ case 'J':
 
 break;
 default:
-TP36_ = ownpP0PDe2() << 141253089;
+
 break;
 }
 }
@@ -301,7 +301,7 @@ while (i < 10);
 
 try
 {
-udn_aK_j79 = (int)abs(JMpo);
+
 }
 catch (int& errorCode)
 {

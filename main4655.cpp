@@ -99,7 +99,7 @@ if (AzP57CSdz & DrABv6z)
 }
 else
 {
-MWNRr = (int)ceil(VMQ11yU);
+
 }
 }
 }

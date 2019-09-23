@@ -60,7 +60,7 @@ try
 {
 if (((YqvDz) && (w95ws >= LDEt1Vqbec)) && (LDEt1Vqbec < vlBWI8))
 {
-zpP1uqP6z *= YqvDz;
+
 }
 }
 catch (int& errorCode)
@@ -170,7 +170,7 @@ case 'b':
 aTdMR77v = gjT1ejp44 / AUjv;
 break;
 case 'c':
-zpP1uqP6z = (int)abs(zqUX8X2H0);
+
 break;
 case 'd':
 
@@ -285,7 +285,7 @@ case 'a':
 
 break;
 case 'b':
-YqvDz = (int)floor(E9_fNz95sE);
+
 break;
 default:
 

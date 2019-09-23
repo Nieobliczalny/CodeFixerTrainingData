@@ -578,7 +578,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-Wgcw_QcTA = Q4Grdig4();
+
 break;
 case 'd':
 case 'D':
@@ -590,7 +590,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-QisSK660ur = (int)ceil(J6VW);
+
 break;
 case 'g':
 case 'G':
@@ -602,7 +602,7 @@ case 'H':
 break;
 case 'i':
 case 'I':
-QisSK660ur = (int)floor(dXc_m6Gt8);
+
 break;
 default:
 

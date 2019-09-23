@@ -357,7 +357,7 @@ case 3:
 M_y0DGhCy = (int)floor(rHRkBTsR);
 break;
 case 4:
-QjbIqBhp3R = cZX3M6_UF_(QjbIqBhp3R, 1731834576);
+
 break;
 case 5:
 QjbIqBhp3R = QjbIqBhp3R << fjAaF8W_b;
@@ -475,7 +475,7 @@ case 2:
 
 break;
 case 3:
-fjAaF8W_b = (int)abs(M_y0DGhCy);
+
 break;
 case 4:
 ElFbvPd = (int)abs(rHRkBTsR);

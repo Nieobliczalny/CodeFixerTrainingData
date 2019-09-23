@@ -447,7 +447,7 @@ case 3:
 
 break;
 case 4:
-Q_8BgDvWu *= 314760616;
+
 break;
 case 5:
 z0SZ2In = V99wxoCEa % q1Zz;
@@ -561,7 +561,7 @@ case 9:
 break;
 }
 
-ymqYfw3nj = oVOjb | 358756837;
+
 
 q1Zz = A2X5ky3M9C - qWS_uNT;
 
@@ -639,7 +639,7 @@ case 1:
 
 break;
 case 2:
-F3ptq = M87Y + F3ptq;
+
 break;
 default:
 neOp95 = BbKP4r / k4Xx;

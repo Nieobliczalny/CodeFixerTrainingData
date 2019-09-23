@@ -25,7 +25,7 @@ int main(void)
  bu1eA = 926568923;
  Or6a_p = -224874920;
  Y3BLTCX_w = 271072393;
- b6hkt2 = -691481534;
+
  L6HG = -112099607;
  htg71GVTV = -2091964226;
  sO9k = 1028740450;
@@ -56,7 +56,7 @@ else
 {
 try
 {
-b6hkt2 = Sl8sF7Y0 * XXL0xN7;
+
 }
 catch (int& errorCode)
 {
@@ -116,7 +116,7 @@ case 'b':
 Sl8sF7Y0 *= sO9k;
 break;
 case 'c':
-b6hkt2 = (int)ceil(HQVy);
+
 break;
 case 'd':
 

@@ -107,7 +107,7 @@ while (i >= 0)
 switch (ZbQ5tyz)
 {
 case 0:
-Q68n4k = (int)abs(NPE6q6ZBb);
+
 break;
 case 1:
 i717_61 -= RJWX1_38fW;
@@ -133,7 +133,7 @@ case 2:
 i717_61 = (int)abs(VK4HXflf1);
 break;
 case 3:
-Q6Uve = (int)floor(wNmQAr6pX);
+
 break;
 case 4:
 
@@ -218,7 +218,7 @@ NPE6q6ZBb = (int)ceil(n2wsF_1ey6);
 p8l1Xi0_ = (int)abs(y53hz);
 if ((ZbQ5tyz & 1158221456) && (t6gi_0Xt <= z84Cbtf))
 {
-KJ0gl = (we0kA > -1810023329) ? 1505955685 : -1405247559;
+
 }
 else if ((VK4HXflf1) && (a90BQ3x7hy <= vYfQ))
 {

@@ -365,7 +365,7 @@ case 4:
 
 break;
 case 5:
-G381N = (int)floor(JMMG10s_7U);
+
 break;
 case 6:
 p_oY1dv3B = ydZO0c54Pb(ba68aDVfK, -20574391, -1327606562, Q0X27E);
@@ -442,7 +442,7 @@ MmN_ = (float)(c1xLRi + (682488183));
 switch (ymS__Zaq5)
 {
 case 0:
-x9_8 = GMiQz_o0 / vR8pq28EC;
+
 break;
 case 1:
 

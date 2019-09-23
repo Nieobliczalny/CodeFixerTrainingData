@@ -30,7 +30,7 @@ int main(void) {
  rSsC4U = 1904980999;
 
  k4M1y = -1121662269;
- jEZ_Fsk1w = 941006963;
+
  xC_9lac67i = -1876543815;
  lG9x8 = 2085023868;
  ySs4a1 = -1058625063;
@@ -41,7 +41,7 @@ int main(void) {
  p0vh0WE = -1467429154;
 
  QJu9W597 = -1656662695;
- EqiOzkPIP = -1178506765;
+
  NPJfN4 = 422161729;
  gw3fQvtc_ = 1346975581;
  HxD7 = -111692760;
@@ -299,7 +299,7 @@ else if (si0goJ < l90dD6Du)
 }
 else if ((w6OS_kxv > -1964844060) || ((gw3fQvtc_ == l90dD6Du) || (rSsC4U != l90dD6Du)))
 {
-qAR6LghfD = ceyU1_Q22();
+
 }
 else if (b18A2 > 983651144)
 {
@@ -363,7 +363,7 @@ case 1:
 
 break;
 case 2:
-zUNzA9Xsdu = qjdS8V();
+
 break;
 case 3:
 vs43R = (int)abs(IDaf4);

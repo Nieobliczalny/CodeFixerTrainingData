@@ -62,7 +62,7 @@ int main(int argc, char** argv)
  int zQvYsdD;
  zQvYsdD = -1321861469;
 	int	DtN_bq;
-	DtN_bq	=	1343435048;
+
     unsigned char    ty29_Hs;
     ty29_Hs    =    2083783766;
 	unsigned char	nO8pK_Jes;
@@ -125,7 +125,7 @@ case 2:
 Wk3u_j9Wka = ty29_Hs >> G_9DT;
 break;
 case 3:
-DtN_bq = s0iP / 1147789759;
+
 break;
 case 4:
 SHDaNN4_xi /= mma9tSb;
@@ -223,7 +223,7 @@ if (Sl5s25IE & 1665682274)
 }
 else if ((mma9tSb == s0iP) && ((XKJ8t7qI5c < -1571756195) && (wZZpve == -749446184)))
 {
-rO8dN_n = (float)(mW1L74_b);
+
 }
 else if (((XKJ8t7qI5c < q_47txIH) && (SHDaNN4_xi)) && (uGAB2z <= mW1L74_b))
 {
@@ -249,7 +249,7 @@ case 1:
 
 break;
 case 2:
-bEcM_d <<= 1790107466;
+
 break;
 default:
 BzmHO9pt = nO8pK_Jes << 1520596676;

@@ -246,7 +246,7 @@ case 'c':
 
 break;
 case 'd':
-u94vezeRKU -= 1591455779;
+
 break;
 default:
 G848zNh3VZ = DF17ef94p3(-408833523, b_u0ECjsk, 817395003);
@@ -431,7 +431,7 @@ case 8:
 
 break;
 case 9:
-gLRg89x7 = nYUxM5NOOH + S1TEnDe;
+
 break;
 }
 }

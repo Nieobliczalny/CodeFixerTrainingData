@@ -82,7 +82,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-Csw9_u9P3 = (int)abs(vQ8iR33729);
+
 break;
 default:
 

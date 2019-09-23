@@ -323,7 +323,7 @@ case 'b':
 wz_1LUNv = s6ZE00q_y2(wz_1LUNv, 1942971300);
 break;
 case 'c':
-PqkWzz11M6 = (int)floor(wz_1LUNv);
+
 break;
 case 'd':
 M_Va = b844b3BCLk(-480194027, 218700420, fNH0eq_y, 770052525);
@@ -353,7 +353,7 @@ N5r8VE18 = (int)abs(P6ge463g);
 
 
 
-GP6N = (short)(VdL4);
+
 try
 {
 if (H3fH > -1920934918)
@@ -417,7 +417,7 @@ case 'c':
 
 break;
 case 'd':
-mygGp_20 = (int)ceil(U1_C);
+
 break;
 }
 std::cout << b844b3BCLk(r60nF, 458834023, -439298877, kD2eJa6) << DB89rTuv(r60nF) << Zm2b << ULVr69(-906661316, A_yL) << std::endl;
@@ -460,7 +460,7 @@ else if (wz_1LUNv > VdL4)
 }
 else if (zvtUQo >= -747254918)
 {
-A_yL = b844b3BCLk(K558eDQemI, -1555187142, -484549215, -774621390);
+
 }
 else
 {
@@ -518,7 +518,7 @@ case 5:
 
 break;
 case 6:
-eOOB28_9 = (int)floor(lS15);
+
 break;
 case 7:
 
@@ -573,7 +573,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-hm51rush2 = b844b3BCLk(hm51rush2, 1185213162, DgPn, HZ8_n0p);
+
 break;
 case 'd':
 case 'D':
@@ -585,7 +585,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-SP0Pc0 = wz_1LUNv / 2125470371;
+
 break;
 case 'g':
 case 'G':
@@ -597,7 +597,7 @@ case 'H':
 break;
 case 'i':
 case 'I':
-FhW7Ae = ULVr69(mY1_JGz621, -1880221871);
+
 break;
 default:
 
@@ -616,7 +616,7 @@ else if (cz4Axge_ & 455161538)
 }
 else
 {
-nsv86d6_ = DB89rTuv(nsv86d6_);
+
 }
 }
 }

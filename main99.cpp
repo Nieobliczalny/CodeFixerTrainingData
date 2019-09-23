@@ -52,7 +52,7 @@ int main()
  short int IMD19SqD;
  IMD19SqD = 1193437094;
   int  fq96zp4a;
-  fq96zp4a  =  1407840519;
+
     short int    Ue473e4472;
 
 	long	J70p0;
@@ -394,7 +394,7 @@ else if ((i8bfT8G1 == -443568362) || (WlCqRG46 < 258172875))
 }
 else
 {
-ZRzk5dUY = (int)ceil(zF9RVN60);
+
 }
 }
 else

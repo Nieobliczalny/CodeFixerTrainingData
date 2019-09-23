@@ -356,7 +356,7 @@ T4QOb2B = (int)ceil(z_w_);
 }
 else if (EorjfHh != 2088129967)
 {
-V4nw5eYTTT = zyXE48R_3F(V4nw5eYTTT);
+
 }
 else if (sBXJ457o4 > -72033898)
 {
@@ -477,7 +477,7 @@ break;
 }
 
 
-EorjfHh = zyXE48R_3F(658402502) >> Tf9e77as;
+
 {
 int i = 1;
 while (i >= 0)

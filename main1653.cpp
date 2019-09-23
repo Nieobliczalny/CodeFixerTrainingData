@@ -349,7 +349,7 @@ std::cout << AR3r8Usp << VUXmPLk << "K3gDWvp" << Li6qruQcQ << oECT10 << std::end
 }
 }
 
-UQ8eP_v -= VkW01F;
+
 
 if ((K5tcBC) || (K5tcBC >= 652403674))
 {
@@ -419,7 +419,7 @@ case 'f':
 HjfU65NY = (int)abs(EXZYrdbB);
 break;
 case 'g':
-UQ8eP_v = DGe0vyo << 909543980;
+
 break;
 case 'h':
 

@@ -490,7 +490,7 @@ case 1:
 
 break;
 case 2:
-fn4O_15rU_ *= r17cL8w5;
+
 break;
 case 3:
 ihq1HLcky = C77T(-1126173382, ihq1HLcky, pQoe6);
@@ -530,7 +530,7 @@ qSv3d = k1r8WVRWC(OtHuU0k6, ihq1HLcky, iVUzRJTzn);
 }
 else if ((OtHuU0k6 == fn4O_15rU_) && (J99FG & Nvq76U9_))
 {
-N675 -= 1681245335;
+
 }
 else if (V_ine_ < Nvq76U9_)
 {
@@ -602,7 +602,7 @@ case 'f':
 
 break;
 default:
-V_ine_ = (int)abs(ZiwK2a_zZ5);
+
 break;
 }
 }

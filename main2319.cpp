@@ -700,7 +700,7 @@ cout << tCbE3(1630618925, o1en, LO_7EEK, MA_7DnUR) << endl;
 
 try
 {
-HBlIDvx9mt = (long)(d161);
+
 }
 catch (int& errorCode)
 {

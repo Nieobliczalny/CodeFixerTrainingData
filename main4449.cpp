@@ -47,7 +47,7 @@ case 0:
 YczLRmO = (int)abs(uP529K);
 break;
 case 1:
-wXfd852wb >>= 530067729;
+
 break;
 case 2:
 SAy773K7Y = hPGp & N98t848R;
@@ -308,7 +308,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-wXfd852wb = Cdbnf();
+
 break;
 case 'c':
 case 'C':
@@ -360,7 +360,7 @@ case 3:
 
 break;
 case 4:
-vQML6l5e_ = YczLRmO >> CNqyC;
+
 break;
 case 5:
 PZaP56 = VkiV(360479221);
@@ -377,7 +377,7 @@ cout << "u71xOJ_" << TeW5K43820(51278441) << "AdeHji_fGz" << HSI8rvJ4(-206406905
 
 
 
-v5ukvF1HH >>= 96509759;
+
 {
 int i = 9;
 do
@@ -425,7 +425,7 @@ case 5:
 
 break;
 case 6:
-YczLRmO = HFPZ(r21DbUw2, -42471616, -1435274066);
+
 break;
 case 7:
 W3J61QX6 >>= VZvq_vJ2;

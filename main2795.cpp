@@ -90,7 +90,7 @@ break;
 
 for (int i = 0; i < 2; i++)
 {
-WWNBoQ = (short)(o4H5x2tebG);
+
 }
 
 std::cout << "yGXqk96Im" << amL2_6x5D << Ngm25 << DxEy5T95o << std::endl;
@@ -195,7 +195,7 @@ break;
 }
 }
 
-Nz1f = waBbA45C_ << Wqc5RBN;
+
 
 try
 {
@@ -219,7 +219,7 @@ case 4:
 
 break;
 case 5:
-wVBL07X_ = (int)abs(QTSR4RMpW);
+
 break;
 case 6:
 GOH7e9i_x2 = h4i1 - IcG9J8_;
@@ -231,7 +231,7 @@ case 8:
 
 break;
 case 9:
-xBpn3 = (int)abs(cL74E);
+
 break;
 default:
 EO9c88F08 = eewM1qVNnY ^ 148492668;

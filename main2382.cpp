@@ -34,7 +34,7 @@ int i = 0;
 do
 {
 i++;
-lJE2YxE = (int)abs(D689N);
+
 }
 while (i < 9);
 }
@@ -278,7 +278,7 @@ cout << AUgY80aK << i3Lw() << "Cm87" << endl;
 
 for (int i = 3; i >= 0; i--)
 {
-M8PhYFO = YJdk(108479050);
+
 }
 switch (kVR0wJs)
 {

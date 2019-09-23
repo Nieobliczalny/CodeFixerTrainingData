@@ -144,7 +144,7 @@ int k = 9;
 do
 {
 k--;
-BDXa = (int)abs(j9GB);
+
 }
 while (k >= 0);
 }
@@ -203,7 +203,7 @@ else
 switch (e4b1BO7)
 {
 case 'a':
-TuCFzY4mL = ac268i + 1967564040;
+
 break;
 case 'b':
 n1jBb4Y = KxGSEgT0YJ();
@@ -240,7 +240,7 @@ case 'c':
 
 break;
 case 'd':
-jWAzex1B79 = (int)abs(R05_44_eb);
+
 break;
 default:
 ckL5rg -= EM3fJ;

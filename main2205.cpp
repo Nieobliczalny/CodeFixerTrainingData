@@ -66,7 +66,7 @@ case 3:
 
 break;
 case 4:
-TAk74Mi = (int)floor(kXVaDp);
+
 break;
 default:
 kXVaDp = (Q50QXP != 1898297310) ? -1237277771 : 519507135;
@@ -125,7 +125,7 @@ else if (vlwA & -1621897173)
 }
 else
 {
-Gavhz = (int)ceil(tWn6r230);
+
 }
 }
 else if ((pOH124J6) || ((Qm46 >= q36F4g) || (CH_k)))
@@ -143,7 +143,7 @@ else
 }
 if (qL_PfJv != aw3Yy7)
 {
-YVuhxGTq -= 1258906676;
+
 }
 else if (Cd0S099G < 1909065372)
 {
@@ -340,7 +340,7 @@ case 1:
 
 break;
 case 2:
-a9e4 = w6dVp0W(S_28);
+
 break;
 case 3:
 pQ7_XM /= rU94Ke;
@@ -417,7 +417,7 @@ case 'C':
 break;
 }
 
-C3G26d0zL = w6dVp0W(117330809) & 1911905171;
+
 switch (vlwA)
 {
 case 'a':
@@ -427,7 +427,7 @@ case 'b':
 
 break;
 case 'c':
-MVfxQWJ = (int)floor(Vc7i);
+
 break;
 }
 

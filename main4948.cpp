@@ -101,7 +101,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-kSh_1Me1f = P1Au(-11887363);
+
 break;
 case 'd':
 case 'D':
@@ -112,7 +112,7 @@ Fpm2 = (int)abs(JULkG);
 
 
 
-uOodzCGhy = (float)(EAN_fxht);
+
 
 Q4_Q048c = gARZI5_L2(-1597197130);
 if (PO6j4AU < cHjf8YalEe)
@@ -160,7 +160,7 @@ case 1:
 
 break;
 case 2:
-g1jCP8a = (int)ceil(s5YJgwbvE);
+
 break;
 case 3:
 JULkG = (int)ceil(Ch8t7qVKV);

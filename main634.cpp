@@ -25,7 +25,7 @@ int main(void)
 
   m24ZeCU  =  1175455610;
 
-  M93v5TU  =  -1749247603;
+
   h0em3i2  =  46355428;
   xpY6O4  =  499471391;
   Vrtx  =  2012616273;
@@ -35,7 +35,7 @@ int main(void)
 
   F3A7w_YzIC  =  -1447736566;
 
-  c_9O_sLe  =  -282625182;
+
   c8igu945J  =  -266608966;
   VKPK  =  -2095671083;
   NPWM34C  =  1745678606;
@@ -45,7 +45,7 @@ int main(void)
   Jw1t_RMgxc  =  -268916278;
 
 
-  gwV945k  =  -413392221;
+
   HFR04LV5  =  875221826;
   piztSr  =  -386509637;
   R_x8vjyS2s  =  -357780235;
@@ -55,7 +55,7 @@ int main(void)
   j7e90gGuD  =  2082234791;
 
 
-  F4_W04yD  =  1401928203;
+
   DnPSgF9  =  -1766465007;
   B5O35U  =  -1843156048;
   ahqZ6v  =  563502051;
@@ -66,7 +66,7 @@ int main(void)
 
 
     char    FI747b8t_N,    Ah5_,    lY6BK_B,    cCl_Nz3;
-    FI747b8t_N    =    0;
+
     Ah5_    =    0;
     lY6BK_B    =    0;
     cCl_Nz3    =    0;
@@ -82,7 +82,7 @@ case 'b':
 
 break;
 case 'c':
-OaLL = CBE1KT(-1025807550, -1490976568, -1785680448, NPWM34C);
+
 break;
 case 'd':
 rO0TA = z32MC(rO0TA, -1887087623);
@@ -94,7 +94,7 @@ default:
 
 break;
 }
-Jw1t_RMgxc = (unsigned long long)(f5cT);
+
 c8igu945J = CBE1KT(-901227994, 737594064, 1398115280, m24ZeCU);
 for (int i = 0; i < 8; ++i)
 {

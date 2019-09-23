@@ -31,7 +31,7 @@ int main(void) {
 	unsigned short	xv9B;
 
  unsigned int fDfTs;
- fDfTs = -2023086987;
+
     unsigned char    NA9US4;
     NA9US4    =    0;
 	short	RaUzTY48;
@@ -41,7 +41,7 @@ int main(void) {
 	int	Ts9EF8Y;
 
     short int    Gec3ihD7vd;
-    Gec3ihD7vd    =    -713968096;
+
 	int	iTj89;
 	iTj89	=	-1839732107;
 	unsigned short int	xNr_4Nmq9Z;
@@ -51,7 +51,7 @@ int main(void) {
  short int MXBFGnt5J9;
 
     unsigned long long    HX69S94;
-    HX69S94    =    0;
+
     long long    B9LvR;
     B9LvR    =    1309520844;
 
@@ -62,7 +62,7 @@ if (NA9US4 == 0)
 
 
 
-HX69S94 = (unsigned long long)(hGxLj);
+
 return 0;
 }
 

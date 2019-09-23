@@ -56,7 +56,7 @@ int main(void) {
 	j28r4	=	472827889;
 	x87P	=	-429296625;
 	ZyYy3M5	=	735386833;
-	EU_oF7T	=	-757082730;
+
 
 
 std::cout << T0LY3IYP_Z(-1728744931, YQSsaO8) / gPP8aJ << std::endl;
@@ -369,7 +369,7 @@ case 9:
 
 break;
 default:
-eB3vpX = T0LY3IYP_Z(-1954201845, 1598018495);
+
 break;
 }
 }

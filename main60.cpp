@@ -16,7 +16,7 @@ int main() {
   char  ElW6mTb1G,  XT_fF7,  XHv_vjMB7,  dcsMB7de;
   ElW6mTb1G  =  0;
   XT_fF7  =  0;
-  XHv_vjMB7  =  0;
+
   dcsMB7de  =  0;
 
 {
@@ -46,7 +46,7 @@ j++;
 }
 }
 
-YWyTJc = (int)abs(dcsMB7de) + (378034754);
+
 
 
 return 0;

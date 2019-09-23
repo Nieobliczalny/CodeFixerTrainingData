@@ -36,7 +36,7 @@ int main()
  unsigned long long n8Lr;
 
 	unsigned int	Le2y4Q;
-	Le2y4Q	=	-2131859581;
+
   unsigned long  NuFM;
   NuFM  =  -1216080834;
  unsigned char LB2xlVCS;
@@ -46,7 +46,7 @@ int main()
 	unsigned long	F8N7u;
 	F8N7u	=	-1499806347;
  unsigned short zM663_;
- zM663_ = -1724885477;
+
  unsigned short int Pc31;
  Pc31 = -1678393650;
     long    pt3CH__L;
@@ -66,7 +66,7 @@ int main()
   unsigned char  MhB4;
   MhB4  =  89551454;
     long    SFa95;
-    SFa95    =    547116498;
+
  unsigned short rHDLL99d;
  rHDLL99d = -1080097648;
     long long    S4_MWkn;
@@ -82,7 +82,7 @@ int main()
     int    heUN;
     heUN    =    629714698;
 	long double	OW258I8hz;
-	OW258I8hz	=	-1062636386;
+
     unsigned char    rX_wjCg;
 
  short int Y5uG4AqO;
@@ -102,7 +102,7 @@ int main()
   unsigned char  QYn0vZnzR9;
   QYn0vZnzR9  =  187317831;
     unsigned long long    B6luX;
-    B6luX    =    -1883731933;
+
  short H0t8;
  H0t8 = 962088880;
 	double	zPXAfrm;
@@ -120,7 +120,7 @@ int main()
     short int    RSrbi7C;
 
     float    aWa4sWR4;
-    aWa4sWR4    =    -1908884532;
+
     char    L15257n;
     L15257n    =    1947309358;
   unsigned long long  WHhnA5PD;
@@ -130,7 +130,7 @@ int main()
 	long long	jcS6t;
 
   double  FM5cAq4;
-  FM5cAq4  =  1451049795;
+
     unsigned short int    r9_Zm;
     r9_Zm    =    1021547088;
  short HVB4e_zSJ;
@@ -150,7 +150,7 @@ int main()
  short int RWvcMjE73T;
  RWvcMjE73T = 1836828498;
     int    RImsF54;
-    RImsF54    =    1834061893;
+
 	char	EWN5w;
 	EWN5w	=	-1288329832;
 	unsigned int	TqVF;
@@ -160,7 +160,7 @@ int main()
     double    i0Kpu;
 
   unsigned char  qn59_eLHh;
-  qn59_eLHh  =  198445948;
+
   unsigned short int  irZmk;
   irZmk  =  -392317725;
 	long double	UHew;
@@ -172,7 +172,7 @@ int main()
  short s40A_21q;
  s40A_21q = 0;
   long double  Rq9KP5;
-  Rq9KP5  =  -914277917;
+
     unsigned short int    e5mIf8;
     e5mIf8    =    1498630004;
     unsigned int    k7AX3;
@@ -198,7 +198,7 @@ int main()
     short    j5g57;
 
     short    P7P3NU;
-    P7P3NU    =    0;
+
 	char	D9Oa49;
 	D9Oa49	=	1788948615;
  unsigned short lHXY1J72;
@@ -210,7 +210,7 @@ int main()
 	float	XnkUd_T;
 
  unsigned int gyk_YKbu5;
- gyk_YKbu5 = -161259255;
+
  long double QRn_tZ93FI;
  QRn_tZ93FI = -1945676812;
  unsigned short Ty5sh;
@@ -223,7 +223,7 @@ try
 switch (TqVF)
 {
 case 0:
-RImsF54 = Cq78 >> 461539933;
+
 break;
 case 1:
 YVZyqj = (int)floor(QqLYZnZ74);
@@ -275,7 +275,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-rHDLL99d %= S4_MWkn;
+
 break;
 default:
 

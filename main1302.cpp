@@ -21,7 +21,7 @@ int main(void) {
 
  AMUml = 465246591;
  sjs2H = -263485727;
- r_iED37O = -974025157;
+
 
 std::cout << sjs2H << sjs2H << NM9P17l5S6 << u64l_w << "dsr03HovK" << std::endl;
 switch (NM9P17l5S6)
@@ -48,7 +48,7 @@ case 6:
 sjs2H = AMUml + u64l_w;
 break;
 case 7:
-r_iED37O = oQy05xRji * 440119256;
+
 break;
 case 8:
 
@@ -111,7 +111,7 @@ case 1:
 
 break;
 case 2:
-t70Yb2 = c73P << r_iED37O;
+
 break;
 }
 }

@@ -43,7 +43,7 @@ int main()
 	char	EsK4;
 
 	double	gD07iv;
-	gD07iv	=	888472017;
+
 	long	aZEoQ;
 	aZEoQ	=	-765813374;
   unsigned long  ML4_;
@@ -75,7 +75,7 @@ int main()
  long long Iq2Rp2g7Y;
  Iq2Rp2g7Y = -807819568;
   unsigned short int  zA7My8v28;
-  zA7My8v28  =  -844784060;
+
  char ZR7yL;
  ZR7yL = 1763059239;
 	short	C_3zco2;
@@ -118,7 +118,7 @@ int k = 6;
 do
 {
 k--;
-gD07iv = (int)ceil(yd_F5UV);
+
 }
 while (k >= 0);
 }
@@ -226,7 +226,7 @@ case 3:
 iqnf--;
 break;
 default:
-Es53791x = (int)ceil(adW79M_s_2);
+
 break;
 }
 cout << "TPL2B0" << "ye6q9k1ikJ" << adW79M_s_2 << q0QG1tz << u6G8T3 << endl;
@@ -291,7 +291,7 @@ for (int i = 0; i < 3; i++)
 aZEoQ = q8P4TP - DLG58FPfr;
 }
 
-Jb6e06 = (int)floor(E_0N);
+
 if (iqnf != 1904477512)
 {
 if (ML4_)
@@ -314,7 +314,7 @@ else
 }
 else if (TPXsp > -178565865)
 {
-E_0N = P498e << 1094577465;
+
 }
 else
 {
@@ -332,7 +332,7 @@ else if (re3j02 < -601576500)
 }
 else
 {
-Mqte8Ll <<= u6G8T3;
+
 }
 }
 }

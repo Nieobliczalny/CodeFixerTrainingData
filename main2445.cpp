@@ -733,7 +733,7 @@ switch (uO9q)
 {
 case 'a':
 case 'A':
-hFig8T9sO = IGDwlOHi / SSYb8_;
+
 break;
 case 'b':
 case 'B':
@@ -745,7 +745,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-v82F <<= ZKB8RAnB;
+
 break;
 default:
 aE7fTMyEn = (int)abs(zym1) * 0;

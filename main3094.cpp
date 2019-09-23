@@ -17,7 +17,7 @@ int main()
     unsigned long long    ss_5uXFPuh;
 
  unsigned long long DTAJ8kIjh;
- DTAJ8kIjh = 0;
+
   int  ZWt6;
   ZWt6  =  1873581622;
  double tnL948LL;
@@ -29,7 +29,7 @@ int main()
   unsigned char  vE89B9H;
 
   unsigned int  iQt201;
-  iQt201  =  -1324652542;
+
     long long    icDD;
 
 	long double	QDQxU;
@@ -43,7 +43,7 @@ int main()
 	int	GDm8P;
 
     short    VTt1p3m7N0;
-    VTt1p3m7N0    =    849957343;
+
   unsigned short int  A922WlpjKI;
   A922WlpjKI  =  -1927693587;
   unsigned char  S6dUy22;
@@ -55,7 +55,7 @@ int main()
     long double    hMfaOqcvZ;
     hMfaOqcvZ    =    656645171;
   unsigned int  np48;
-  np48  =  -650834962;
+
  char q6_S2QrIE1;
 
     int    d1DF;
@@ -69,7 +69,7 @@ int main()
  long G2x0;
  G2x0 = -1222731947;
     unsigned long    wUkbn6F_lh;
-    wUkbn6F_lh    =    -760801236;
+
   unsigned short  CZ7utFJ5W_;
   CZ7utFJ5W_  =  1435742965;
  int GDVTB47;
@@ -81,7 +81,7 @@ int main()
 	unsigned long long	GBgOU;
 	GBgOU	=	2099506917;
 	double	gRO317D5wl;
-	gRO317D5wl	=	-829290271;
+
 	char	t99wR5Vhi5;
 
   unsigned short  C5ud64rgj9;
@@ -99,7 +99,7 @@ int main()
  unsigned short int p2_w6k;
 
 	unsigned long	nW0x;
-	nW0x	=	-1546234571;
+
  double EXU_Q4;
  EXU_Q4 = 1477591360;
 	unsigned long long	AwW2y7;
@@ -111,7 +111,7 @@ int main()
 	unsigned char	JOY37_RH97;
 	JOY37_RH97	=	1621273328;
     int    QL6zg5;
-    QL6zg5    =    -1772886735;
+
 	short	bI36Tz;
 	bI36Tz	=	1258722514;
   long  qS7X;
@@ -127,7 +127,7 @@ int main()
 	long	wX7Cj;
 
   long  Jlzza0CMf;
-  Jlzza0CMf  =  226237752;
+
     double    m4WVM908;
     m4WVM908    =    -939435003;
  unsigned int WE816OBk;
@@ -139,7 +139,7 @@ int main()
 	unsigned short int	Ouxr3;
 	Ouxr3	=	-1823122051;
  double lRUtuz3syx;
- lRUtuz3syx = 802584724;
+
     unsigned char    DmVPK1;
     DmVPK1    =    1674066976;
     unsigned short int    h9p4mJx;
@@ -149,7 +149,7 @@ int main()
   long  z0w8_au3U;
   z0w8_au3U  =  1195804340;
 	float	WMGMa_;
-	WMGMa_	=	-1065711171;
+
  long double xY236;
  xY236 = -1689018176;
   long double  rcWPy4m;
@@ -176,7 +176,7 @@ case 0:
 
 break;
 case 1:
-d1DF = Oy_3FmHq7(d1DF, 921126524, j_dYpWH);
+
 break;
 case 2:
 
@@ -195,7 +195,7 @@ break;
 
 if ((DADdvv_ < 150632419) && (QDQxU != N92G))
 {
-d1DF = Oy_3FmHq7(592230124, Ouxr3, JOY37_RH97);
+
 }
 else
 {

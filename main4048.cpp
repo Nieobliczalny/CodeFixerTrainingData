@@ -21,7 +21,7 @@ int main(void)
   unsigned long  v3H1Vv5HN;
 
   unsigned short int  C5IaGz0;
-  C5IaGz0  =  -1362889731;
+
     unsigned int    scVz_8X7G8;
     scVz_8X7G8    =    1755252172;
  unsigned short int g5Q_;
@@ -63,7 +63,7 @@ int main(void)
 	double	FXO4;
 	FXO4	=	1614464123;
 	float	I_Xn;
-	I_Xn	=	-1506366938;
+
  unsigned char Ype_6WJP4;
  Ype_6WJP4 = -672143093;
  short q4Q9T;
@@ -95,7 +95,7 @@ int main(void)
  int r60ux90r;
 
     char    b3F27g;
-    b3F27g    =    0;
+
 	float	h5hNL_;
 	h5hNL_	=	2101533312;
  unsigned int Q2xSM;
@@ -287,7 +287,7 @@ zd__9XcZ2 = (int)ceil(G_tpcu);
 }
 else if (zXB3 & -1824591132)
 {
-I_Xn = yf7g61lgtX - 172169866;
+
 }
 else if ((rS8M >= 2058344584) || ((M_1T4v9 & 1137646731) || (yf7g61lgtX > wW_v_R__l)))
 {

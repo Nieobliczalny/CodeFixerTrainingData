@@ -27,7 +27,7 @@ int main(void) {
  long double NPBq;
  NPBq = 1953702365;
 	unsigned long long	e5E_pr5k5;
-	e5E_pr5k5	=	-1143810444;
+
     char    JR9Y;
     JR9Y    =    -1268691792;
  long long x23qQu;
@@ -763,7 +763,7 @@ case 1:
 
 break;
 case 2:
-m4Tq %= 876657246;
+
 break;
 default:
 Lt3L = (int)abs(NPBq);

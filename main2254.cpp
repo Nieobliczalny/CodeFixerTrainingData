@@ -258,7 +258,7 @@ case 0:
 
 break;
 case 1:
-T241 = GZKO4(-1817434306, -1517924761, -1194020420);
+
 break;
 case 2:
 B6Vo460 /= 1112834001;
@@ -443,7 +443,7 @@ switch (IEl3_hKO)
 {
 case 'a':
 case 'A':
-moc84z = (int)abs(b8SkoXUiX);
+
 break;
 case 'b':
 case 'B':

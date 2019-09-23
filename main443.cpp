@@ -416,7 +416,7 @@ case 'b':
 Et86sAu7 = oH7kG(dJ_T, B3R3PQs, m2NAw);
 break;
 case 'c':
-fkDaU9KT_ -= 680455252;
+
 break;
 case 'd':
 LbHj = (int)abs(mo5S7nC42C);
@@ -632,7 +632,7 @@ case 1:
 
 break;
 case 2:
-lwfhGOO7O &= 619666388;
+
 break;
 case 3:
 U_G_++;

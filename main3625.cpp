@@ -93,7 +93,7 @@ if (((lcO8nSE < ns9EkESub) && (peg7o8)) && (utDa == ns9EkESub))
 }
 else if (((sTq2le > ns9EkESub) && (r_eY & 1230788364)) || ((uCRMGY > ns9EkESub) && (BC5p9 == 662679886)))
 {
-sTq2le = (int)(g2RC * sTq2le);
+
 }
 else if (uJrT4MXI > 910987427)
 {

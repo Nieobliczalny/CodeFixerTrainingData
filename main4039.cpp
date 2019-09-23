@@ -203,7 +203,7 @@ case 8:
 
 break;
 default:
-gVAp *= 618799831;
+
 break;
 }
 }

@@ -268,7 +268,7 @@ case 'c':
 
 break;
 case 'd':
-f5TXa7cC_ *= f_dU6v03Y;
+
 break;
 case 'e':
 dtb1871JU -= A7_i;
@@ -283,7 +283,7 @@ case 'h':
 ms4Nh52V1 -= I9TCHA4UXe;
 break;
 case 'i':
-FR1i15s -= jD4dr_7z_;
+
 break;
 }
 }

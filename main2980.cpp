@@ -148,7 +148,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-AZV_ = (int)abs(b__B49qo);
+
 break;
 case 'd':
 case 'D':
@@ -210,7 +210,7 @@ else if (OAz_AaDa == kmuwXkfDf)
 }
 else
 {
-X0UvLm7JF = (int)abs(ZDwS8_);
+
 }
 }
 }

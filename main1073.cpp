@@ -18,7 +18,7 @@ unsigned char	MxG7yMd(int	KpYyj0_UHP,unsigned int	Rd7_Zt);
 int main(int argc, char** argv)
 {
     int    KcD_22oe90;
-    KcD_22oe90    =    -1805662749;
+
  long long g16ZIV_;
  g16ZIV_ = -1159993425;
 	double	zxI3Akt;
@@ -90,7 +90,7 @@ if (zATp7B & 162852287)
 {
 if (CQ3Q < ktW0w2Bv4)
 {
-KcD_22oe90 = (int)abs(MHP656);
+
 }
 }
 
@@ -201,7 +201,7 @@ else if (R6jAr3 >= -986176811)
 int k = 0;
 while (k < 9)
 {
-KcD_22oe90 = (int)abs(b67xY8);
+
 ++k;
 }
 }

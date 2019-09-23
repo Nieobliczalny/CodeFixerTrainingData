@@ -581,7 +581,7 @@ case 1:
 
 break;
 case 2:
-VycDtVm_r *= 807640906;
+
 break;
 case 3:
 oAuxcZb = zWp1tsKC(1979378890, -133082106);
@@ -629,7 +629,7 @@ else if (js_ZYsjW <= -1805320846)
 }
 else
 {
-H3Ox1 = Mt7_();
+
 }
 }
 else if ((q3upZ) && ((js_ZYsjW > JCuI3D) && (m3csx)))
@@ -665,7 +665,7 @@ case 1:
 
 break;
 case 2:
-Xipt21 >>= 45000972;
+
 break;
 case 3:
 m3csx %= g65hqg;
@@ -680,7 +680,7 @@ case 6:
 WT1HRy_J *= 728035268;
 break;
 default:
-Pfv34uPi = B0OkeI >> g00GfYsV;
+
 break;
 }
 }

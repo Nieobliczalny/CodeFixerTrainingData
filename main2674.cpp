@@ -54,7 +54,7 @@ case 'b':
 y7izw = (int)abs(C17lEbrhZr);
 break;
 case 'c':
-g_6E = I9c556vJ_(-343982784, Mbpgy);
+
 break;
 case 'd':
 pz4dnM >>= f96ZOFK5;
@@ -305,7 +305,7 @@ case 'B':
 
 break;
 default:
-o8Ja = BFI0 & J8M5l_A;
+
 break;
 }
 }

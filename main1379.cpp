@@ -55,7 +55,7 @@ int main()
   long long  I4gv2WXOzZ;
   I4gv2WXOzZ  =  541480948;
     unsigned short int    a53PJU;
-    a53PJU    =    0;
+
     long    XX7EQ1;
     XX7EQ1    =    -557476366;
     short    A5cf8_h8_;
@@ -137,7 +137,7 @@ case 'd':
 
 break;
 case 'e':
-k4GiY *= t3k6i;
+
 break;
 case 'f':
 KqR9c6_ = (int)floor(YO74);
@@ -167,7 +167,7 @@ case 4:
 Ka1wO24 = I4gv2WXOzZ << 1121407840;
 break;
 case 5:
-a53PJU = dl7Ah(2093502637, eI_3s4vB2, -1710251533);
+
 break;
 case 6:
 YO74 = (int)floor(Ka1wO24);
@@ -260,7 +260,7 @@ case 'E':
 
 break;
 default:
-lTWw = dl7Ah(XX7EQ1, KqR9c6_, E92x7gw);
+
 break;
 }
 }

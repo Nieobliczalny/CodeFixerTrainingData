@@ -349,7 +349,7 @@ LNkTzLi = (int)abs(yR7_5qoxO);
 int i = 0;
 do
 {
-vvLl7KVu = (short)(ml_jvsJ);
+
 i++;
 }
 while (i < 2);

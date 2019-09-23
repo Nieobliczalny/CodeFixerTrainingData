@@ -32,7 +32,7 @@ int main()
 	Qk9E7nru	=	762724689;
 
 	vlIqx1_zN_	=	1142045843;
-	te3MzBI832	=	521905287;
+
 	J161	=	803515215;
 	U9H55	=	-126947179;
 	PGJk	=	-1715491161;
@@ -49,7 +49,7 @@ int main()
 
 	LG0_bKiI	=	-1481249202;
 	Msc4CI	=	-1399626246;
-	X51Mo	=	495431719;
+
 	sP5_Prto	=	539133215;
 	v8bR6s5T	=	557865805;
 	L1YX99bg	=	-1255078629;
@@ -60,7 +60,7 @@ int main()
 	ih18sMu	=	-1253450601;
 	UhXZ77E0	=	-1800771140;
 	OkRM7Yj	=	1272890317;
-	qBjzd34lDU	=	-362418414;
+
 	KAAKQpJ_	=	1131251702;
 	gkRk	=	2082457054;
 
@@ -95,7 +95,7 @@ int main()
 	ST2hUHU	=	-1034230676;
 	ge2Duqw	=	-2009106582;
 	rLleLnv	=	2104614145;
-	qib8_cW	=	-1308011119;
+
 	Df1D	=	491021373;
 	e2r2BWUJlH	=	394605322;
 	a7S2DNw	=	-940626094;
@@ -290,7 +290,7 @@ case 3:
 
 break;
 case 4:
-kMow7 = (ST2hUHU <= 77921136) ? 746559360 : -1317840152;
+
 break;
 case 5:
 wS25Lua0U7 = (int)abs(C3YD8BEFO);
@@ -345,7 +345,7 @@ LJ51CE4 = (int)abs(rLleLnv);
 break;
 case 'f':
 case 'F':
-Co8sYe33A = (int)floor(l588nzLt8);
+
 break;
 case 'g':
 case 'G':
@@ -405,7 +405,7 @@ As49Z5_CM = (z4Qd4y < x78P_cn) ? rN5V0iQy : oJ4d;
 }
 else
 {
-Df1D = (int)ceil(NZIw);
+
 }
 }
 else if (KbB98L1 & 765046020)
@@ -459,7 +459,7 @@ J3Li -= 1428680598;
 }
 else if (ST2hUHU == -914770348)
 {
-qBjzd34lDU = (int)abs(Msc4CI);
+
 }
 else
 {
@@ -478,7 +478,7 @@ uu96S025 *= 1550548154;
 }
 else if (((Yu0grUo5r == -946681095) || (tk4KhN8)) || (z4Qd4y <= t30ds6o))
 {
-Df1D = (int)ceil(LG0_bKiI);
+
 }
 else if (JWv4KGR & -2112337542)
 {
@@ -490,7 +490,7 @@ ijo1cmj5 -= OkRM7Yj;
 }
 else
 {
-Co8sYe33A = (int)floor(t30ds6o);
+
 }
 }
 else if (m76MY & -1961959594)
@@ -632,7 +632,7 @@ break;
 }
 cout << Yu0grUo5r << "B8h9" << As49Z5_CM << endl;
 
-oJ4d *= 1038555661;
+
 cout << eco0Ge << aJK1 << "iClAyR" << endl;
 if (((qJe_ != -319735515) && (Ssw_brHN8)) && (JWv4KGR & rZct3q))
 {
@@ -664,7 +664,7 @@ break;
 switch (m76MY)
 {
 case 0:
-xZT2 = (int)ceil(Msc4CI);
+
 break;
 case 1:
 
@@ -676,7 +676,7 @@ case 3:
 
 break;
 case 4:
-fYK2 = (int)abs(ijo1cmj5);
+
 break;
 case 5:
 
@@ -734,7 +734,7 @@ case 'b':
 
 break;
 case 'c':
-LJ51CE4 = (hLa8NUs >= Xn5j) ? p4nm47 : uu96S025;
+
 break;
 case 'd':
 Z7D_1m4m06 = t6Ht_MG * V2tL;
@@ -746,7 +746,7 @@ case 'f':
 
 break;
 case 'g':
-t30ds6o = yiE9qw7 / 1669519417;
+
 break;
 case 'h':
 Z7D_1m4m06 = (LGL_0C1 <= hLa8NUs) ? bSqmTOR : vSY16V;
@@ -771,7 +771,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-vMJR_9y4_ = (int)abs(qb00VkEa27);
+
 break;
 default:
 

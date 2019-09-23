@@ -52,7 +52,7 @@ int main(int argc, char** argv)
     unsigned short    vo9pc;
     vo9pc    =    -1928954146;
     long    HD0HpUAsW;
-    HD0HpUAsW    =    1257839424;
+
     unsigned long    yEkWipX3;
     yEkWipX3    =    828256143;
  long long Z8oupQ;
@@ -74,7 +74,7 @@ int main(int argc, char** argv)
     unsigned short    R8yh28Mw;
 
 	float	ggOP;
-	ggOP	=	1063726920;
+
   unsigned int  c4L_Li9;
   c4L_Li9  =  772846513;
   double  nQSY9y;
@@ -128,7 +128,7 @@ int main(int argc, char** argv)
   int  YX3c0c2OM;
 
  unsigned short int c913_eeD;
- c913_eeD = 306128684;
+
     unsigned long    Gw20E71n9;
     Gw20E71n9    =    1428789533;
 	short int	T9WfZlY;
@@ -204,7 +204,7 @@ int main(int argc, char** argv)
 	int	u16xl;
 
   unsigned short int  M3FDP;
-  M3FDP  =  141835209;
+
   long long  ZE17_2unE;
   ZE17_2unE  =  657828035;
   unsigned short int  fGcv_h;
@@ -275,7 +275,7 @@ fUhBa_x ^= Fd76yB0_R;
 
 if (A5uh_D == 1285687763)
 {
-ba54P <<= bfWW;
+
 }
 else if (c__Es3bP > 1337908518)
 {
@@ -406,7 +406,7 @@ else
 {
 if ((cchJ62xee & -1058013585) || ((r7pI0t59 < M29xd2D3) || (PofK)))
 {
-th4_ = N_mSE1(th4_, c4L_Li9, 249323112);
+
 }
 else
 {
@@ -450,7 +450,7 @@ if (KVz8LiRUH)
 switch (BSNy)
 {
 case 0:
-th4_ = (int)ceil(QEtTpQa_k3);
+
 break;
 case 1:
 
@@ -527,7 +527,7 @@ case 'a':
 ZE17_2unE %= HD0HpUAsW;
 break;
 case 'b':
-th4_ = (int)ceil(Kpw6);
+
 break;
 case 'c':
 th4_ = (int)floor(eXhF27);

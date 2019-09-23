@@ -69,7 +69,7 @@ int main(int argc, char** argv) {
     long double    XiTq4wYYq;
     XiTq4wYYq    =    223420155;
     int    LJH9cZM;
-    LJH9cZM    =    153139671;
+
 	unsigned int	ic89R7wXIc;
 	ic89R7wXIc	=	1310374438;
     short int    aN6Q4ZB2i;
@@ -79,7 +79,7 @@ int main(int argc, char** argv) {
     unsigned long    Lzl2Aa;
     Lzl2Aa    =    -1619023413;
 	char	Ugcjuhq55C;
-	Ugcjuhq55C	=	1915417068;
+
  int UQ18nF692H;
  UQ18nF692H = 530894184;
   unsigned long  pIdfiq2ih;
@@ -508,7 +508,7 @@ case 5:
 
 break;
 default:
-FRp1oo7K += 1014236431;
+
 break;
 }
 }
@@ -597,7 +597,7 @@ else if (l7lFF)
 }
 else
 {
-Ea08h >>= e4_bwXJt9J;
+
 }
 }
 catch (int& errorCode)
@@ -611,7 +611,7 @@ std::cout << jME940W << "eP39" << std::endl;
 }
 else if (Lzl2Aa == iZT2r)
 {
-ol1_6 = (float)(BA612je4);
+
 }
 else if (RU85__7 > y90m6a6wx)
 {
@@ -647,7 +647,7 @@ else
 }
 else if (tPjWGy >= i16nPRS)
 {
-Nfq_bDTh = (int)(iZT2r);
+
 }
 else if (nZ9Jxd7q >= iZT2r)
 {
@@ -673,7 +673,7 @@ F9T8b09_ = e7lb6DQN / i77GHV;
 }
 else if (((Zgz63v) || (Yad5B <= UZLMmHH)) && (plIG91 > 1077295571))
 {
-Yb5h_oE <<= 1757997494;
+
 }
 else
 {
@@ -709,7 +709,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-Ugcjuhq55C = i77GHV ^ 300519599;
+
 break;
 case 'd':
 case 'D':
@@ -728,7 +728,7 @@ case 0:
 
 break;
 case 1:
-ol1_6 = bzpjjJi % y_KuyL;
+
 break;
 case 2:
 xa39X = (int)abs(LlKZ25v);
@@ -838,7 +838,7 @@ case 2:
 
 break;
 case 3:
-RU85__7 = (int)abs(l7lFF);
+
 break;
 case 4:
 xa39X = (int)abs(p1S6);
@@ -850,7 +850,7 @@ case 6:
 
 break;
 case 7:
-vg29n = (int)ceil(F9T8b09_);
+
 break;
 case 8:
 Td8_172X = (int)ceil(t_mGKh9c);

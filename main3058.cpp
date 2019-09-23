@@ -526,7 +526,7 @@ case 4:
 
 break;
 case 5:
-Dz_A8rYh0_ %= WYnl;
+
 break;
 case 6:
 f6gKOF = (H2h5YHZc5e >= 879643852) ? 1010107408 : 852864326;
@@ -538,7 +538,7 @@ case 8:
 
 break;
 case 9:
-fjAk20W &= 2057924593;
+
 break;
 }
 }
@@ -588,7 +588,7 @@ else if (xY8P_S != 1449856253)
 }
 else
 {
-YTSa = (int)abs(X8_y) + (-105743016);
+
 }
 }
 }

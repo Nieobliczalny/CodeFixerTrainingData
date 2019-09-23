@@ -28,7 +28,7 @@ short int	tLrA19fG(unsigned char	nu72b,short	Qvum4_0S96);
 int main(void)
 {
     unsigned short    KCP8;
-    KCP8    =    1466670328;
+
   long long  nCG51w7l;
   nCG51w7l  =  0;
 	unsigned long long	f2btOb6BX3;
@@ -38,7 +38,7 @@ int main(void)
   unsigned long long  iW4OCk7_;
   iW4OCk7_  =  1434038758;
     short int    uEve0C11;
-    uEve0C11    =    1721223193;
+
     unsigned short    wh7p;
     wh7p    =    -139419032;
 	unsigned long	OK6x_QN9pj;
@@ -48,7 +48,7 @@ int main(void)
 	unsigned short int	Q_HN6;
 	Q_HN6	=	-184507320;
 	unsigned int	ejO2;
-	ejO2	=	-1422911310;
+
   long long  yp7lm5;
   yp7lm5  =  -2126295949;
   double  EN0roJqr;
@@ -58,7 +58,7 @@ int main(void)
 	unsigned long long	g097x28;
 	g097x28	=	1407961543;
   short int  fbIcf0_;
-  fbIcf0_  =  548951069;
+
  float jiSY37a90;
  jiSY37a90 = -1279504311;
   short int  cTC5;
@@ -161,7 +161,7 @@ k--;
 
 std::cout << eUwP2(-1966335888) / nCG51w7l << std::endl;
 
-BqhTJwml1e = (long)(wvI2b5O91 + (xY38));
+
 return 0;
 }
 

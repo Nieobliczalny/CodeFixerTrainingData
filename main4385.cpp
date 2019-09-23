@@ -47,7 +47,7 @@ int main(int argc, char** argv)
   unsigned int  Q5o9Zv118u;
   Q5o9Zv118u  =  0;
 	unsigned long	VAyQ0ndDsj;
-	VAyQ0ndDsj	=	-618176163;
+
  double W354h8331V;
  W354h8331V = -1674546694;
  unsigned long P0zJ60L53;
@@ -57,7 +57,7 @@ int main(int argc, char** argv)
 	double	V_wu46scX;
 	V_wu46scX	=	-512699364;
     unsigned long    mGH60;
-    mGH60    =    -771819333;
+
   unsigned int  c7iDEg4_7_;
   c7iDEg4_7_  =  0;
     unsigned char    QS8W7;
@@ -706,7 +706,7 @@ else
 }
 else if (ls8_Wn7 & Qs_qG)
 {
-pXwGv__zP1 = t05m99E ^ UUh85Qa3h;
+
 }
 else if ((zG95 != l3vkY7) || ((I5WUmNMi6g >= QS8W7) && (IiCI42P6_U != KpRuA39f0)))
 {
@@ -791,7 +791,7 @@ case 1:
 
 break;
 case 2:
-a8ui6nD = (int)abs(V_wu46scX);
+
 break;
 case 3:
 UUh85Qa3h = fVkPG();

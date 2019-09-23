@@ -210,7 +210,7 @@ case 4:
 
 break;
 default:
-lQE_9_2 *= 2115312655;
+
 break;
 }
 lQE_9_2 = (int)floor(PYb5a9);

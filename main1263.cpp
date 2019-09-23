@@ -271,7 +271,7 @@ case 9:
 B466J = W7_86_SV ^ iTvV;
 break;
 default:
-gR_wslI = n31pfvj7R(gR_wslI, eh_g, Pi7W6);
+
 break;
 }
 
@@ -505,7 +505,7 @@ else
 
 }
 
-HEZBR += 1130080749;
+
 
 if ((AyY7 == CGL7yW_) && (XWgt & ywXk_0NdF))
 {
@@ -546,7 +546,7 @@ case 'b':
 
 break;
 case 'c':
-T747H_tXZ0 = n31pfvj7R(T747H_tXZ0, -686159627, j885);
+
 break;
 case 'd':
 mVD2AJZH5 = sEQ4TKG7u();
@@ -561,7 +561,7 @@ case 'g':
 
 break;
 case 'h':
-rC1By0Q += A_q0YEUL;
+
 break;
 case 'i':
 TQ_U__A6d = sEQ4TKG7u();
@@ -574,7 +574,7 @@ default:
 break;
 }
 std::cout << EWZQZ_YOa << std::endl;
-le13FnqY ^= 525430887;
+
 
 try
 {

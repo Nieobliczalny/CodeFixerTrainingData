@@ -307,7 +307,7 @@ while (j >= 0)
 {
 if (v06NN6qq != -1765918597)
 {
-Ja9Q = fa4Xw4z4z2();
+
 }
 j--;
 }
@@ -394,7 +394,7 @@ case 4:
 
 break;
 case 5:
-Ja9Q = fa4Xw4z4z2();
+
 break;
 case 6:
 B7drK_Vd0 %= 121302009;

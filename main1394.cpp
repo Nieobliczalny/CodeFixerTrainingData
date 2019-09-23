@@ -165,7 +165,7 @@ case 'b':
 
 break;
 default:
-bVI1T7EA = cCxoEZ8Kk2(v8iG7o1, vbZ1D, b559Yx3X_6, 39202384, -769171676) - bw6q;
+
 break;
 }
 
@@ -176,7 +176,7 @@ WIBf5R8D = (float)(l0l22a10);
 
 try
 {
-T71Yy0 = (int)abs(v8iG7o1);
+
 }
 catch (int& errorCode)
 {

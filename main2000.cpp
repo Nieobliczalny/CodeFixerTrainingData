@@ -120,7 +120,7 @@ int main(int argc, char** argv) {
     float    Qnk895A8;
     Qnk895A8    =    128151058;
   unsigned int  z13dhk9x5G;
-  z13dhk9x5G  =  1300547359;
+
  unsigned int H29hV;
  H29hV = -1718242354;
  short xA3W;
@@ -349,7 +349,7 @@ case 'a':
 wWl03i06K = (int)abs(eG2GjJ1) + (1724242407);
 break;
 case 'b':
-YYeO_w = (int)floor(wWl03i06K);
+
 break;
 case 'c':
 Gyux0S_fc = QazF9qtrI << 124547476;
@@ -422,7 +422,7 @@ else if (gQbE6h <= NQd7r3)
 }
 else if (X10ek != NZ7wILWw)
 {
-YYeO_w = (long double)(NQd7r3);
+
 }
 else if (k6Q_I85y3 & q0_n7_j)
 {
@@ -458,7 +458,7 @@ if (AdQ9VMIP >= q0_n7_j)
 {
 if (L_96 != 544466110)
 {
-YYeO_w = (int)ceil(r8_jrrvhz);
+
 }
 else if (jks6X214O)
 {
@@ -510,7 +510,7 @@ case 4:
 
 break;
 case 5:
-YYeO_w = (int)ceil(Qnk895A8);
+
 break;
 case 6:
 B93vrbKs = (int)floor(Qnk895A8);
@@ -583,7 +583,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-eG2GjJ1 = eFnlm(915602899, u_62P_OQ, TDlUt93, E48G590);
+
 break;
 default:
 n6k5 = mv4tdU05t % 1324641032;
@@ -653,7 +653,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-cjy0oi = eFnlm(-353735807, zav55L, -1520056743, wGX9Iy);
+
 break;
 case 'f':
 case 'F':
@@ -718,7 +718,7 @@ else if (U3SIV6OmYs & q3JT)
 }
 else
 {
-OcVKm = ry6fQU();
+
 }
 }
 else if (n6k5 & tcN2)
@@ -741,7 +741,7 @@ else if (wWl03i06K < NQd7r3)
 }
 else if (r8_jrrvhz <= -769022623)
 {
-jks6X214O -= 67364994;
+
 }
 else if (NaHHRnw != q3JT)
 {

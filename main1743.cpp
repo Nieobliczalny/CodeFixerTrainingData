@@ -432,7 +432,7 @@ T_O5q = CXGi6Ui();
 }
 }
 
-Fl7u = (unsigned char)(i_gba9ELd);
+
 {
 int i = 0;
 while (i < 2)

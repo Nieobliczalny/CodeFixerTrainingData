@@ -277,7 +277,7 @@ case 3:
 
 break;
 case 4:
-D5_ncjn5 = (int)ceil(YzCtX);
+
 break;
 case 5:
 iCR3 ^= 270614002;
@@ -292,7 +292,7 @@ i--;
 }
 }
 
-D5_ncjn5 = (int)ceil(XqKXfUw);
+
 LKP54J = gIF5Y();
 return 0;
 }

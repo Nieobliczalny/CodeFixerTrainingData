@@ -566,7 +566,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-Kl1x_RS = (D7mfUv1 < oJIAue) ? cEYkp : YRTT09n0;
+
 break;
 case 'd':
 case 'D':
@@ -585,7 +585,7 @@ case 'G':
 
 break;
 default:
-KXAl0_L25s = FlEVo / 1762640680;
+
 break;
 }
 }

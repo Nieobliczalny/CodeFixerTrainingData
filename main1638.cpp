@@ -18,7 +18,7 @@ int main(int argc, char** argv) {
 	long double	qm17P8zdb;
 
   unsigned long long  lL68;
-  lL68  =  0;
+
 	short	kAnO_XQa6;
 	kAnO_XQa6	=	-2057011143;
     short int    fF7v4c_f6;
@@ -30,7 +30,7 @@ int main(int argc, char** argv) {
  unsigned long gpAP3L;
 
 	unsigned short	zOPfC;
-	zOPfC	=	-457107060;
+
  int ibcu_Ouy;
 
  unsigned char NrKaY362Z;
@@ -61,7 +61,7 @@ while (i < 5);
 
 
 
-gpAP3L = pfX0(1717868187, e_05);
+
 
 {
 int i = 0;

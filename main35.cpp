@@ -204,7 +204,7 @@ zfBflv730 = (float)(IYG92);
 x5Yd6B_96x = (unsigned long)(fpI_SA5F);
 USW8 = (double)(G51TH9);
 
-efN__8M_4Y ^= 1628911086;
+
 
 if (q7_N_l_7B1 == M53l_)
 {
@@ -221,7 +221,7 @@ else
 }
 else
 {
-qD2fM = pE0z2_G0(qD2fM, G51TH9, s9U7ihXy6, 1953534216);
+
 }
 }
 else if (O9Q2_1XC <= -978170332)

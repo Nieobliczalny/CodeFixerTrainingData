@@ -298,7 +298,7 @@ break;
 }
 
 
-JFcZ = (int)abs(y3J6);
+
 
 switch (c7GI7b8zO)
 {

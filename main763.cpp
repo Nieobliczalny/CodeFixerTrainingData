@@ -106,7 +106,7 @@ case 1:
 
 break;
 case 2:
-bb8DZ0ap -= sH8KT;
+
 break;
 case 3:
 CeS1 = (int)ceil(nbjXVL);
@@ -203,7 +203,7 @@ F9WI2 = (int)abs(nbjXVL);
 
 if ((OEr0p1Tfg != -643730196) && (eMQt1G))
 {
-bb8DZ0ap = (long double)(OEr0p1Tfg);
+
 }
 else
 {

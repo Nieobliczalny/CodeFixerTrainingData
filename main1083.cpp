@@ -338,7 +338,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-s734_tzXhd /= O5ujKMsi53;
+
 break;
 case 'd':
 case 'D':
@@ -379,7 +379,7 @@ case 'b':
 
 break;
 case 'c':
-g_4l5Pqwi = F_QT(g_4l5Pqwi, ma026);
+
 break;
 }
 }
@@ -396,7 +396,7 @@ case 1:
 
 break;
 case 2:
-b5bj3 = (int)floor(KS50Uo_n2);
+
 break;
 case 3:
 tCLv81 = BasC - q77H;

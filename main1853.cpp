@@ -143,7 +143,7 @@ pvO0BL4 = c25nYB_l();
 }
 
 
-pXSD_Y7 <<= 182820732;
+
 
 
 {
@@ -329,7 +329,7 @@ case 5:
 
 break;
 default:
-n62q_Ygl9 -= 722149980;
+
 break;
 }
 std::cout << TpmB6250 << kSZQ1t1_ << c25nYB_l() << "i12E8c" << std::endl;
@@ -344,7 +344,7 @@ case 0:
 
 break;
 case 1:
-gdi800i = (int)floor(c_j5N9tg_8);
+
 break;
 case 2:
 
@@ -356,7 +356,7 @@ case 4:
 
 break;
 case 5:
-d0HQ7c = c25nYB_l();
+
 break;
 case 6:
 k56n = (wq5g2dUq & 789149955) ? Sv78zQvA36 : wq5g2dUq;

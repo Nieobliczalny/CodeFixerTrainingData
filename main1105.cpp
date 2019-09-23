@@ -841,7 +841,7 @@ break;
 
 if (((iqKFgepf88 <= 1042557018) && (N28CElL <= 2118939202)) || (FvT6_nE < -1667162332))
 {
-eIvDJ_hy75 = Vvh6n54(eIvDJ_hy75);
+
 }
 else if (N51hc7 > -81921755)
 {
@@ -885,7 +885,7 @@ case 2:
 
 break;
 case 3:
-k_p_XhCQ = Vvh6n54(k_p_XhCQ);
+
 break;
 case 4:
 spAI = (int)floor(QhA2);

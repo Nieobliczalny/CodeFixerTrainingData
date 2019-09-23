@@ -432,7 +432,7 @@ CNvdQn *= gA5Mf24;
 break;
 case 'c':
 case 'C':
-O303cjla8d = (int)abs(XB3614_Ik);
+
 break;
 case 'd':
 case 'D':
@@ -448,7 +448,7 @@ case 'F':
 break;
 case 'g':
 case 'G':
-J84A19K7G = l03WG * 486977890;
+
 break;
 case 'h':
 case 'H':

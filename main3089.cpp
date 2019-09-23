@@ -257,7 +257,7 @@ case 2:
 
 break;
 case 3:
-MUF39f2PtN = (int)ceil(gL52aHOEU);
+
 break;
 case 4:
 xRh2KVH = DzhI_B(-1778002303, 1650772435);
@@ -499,7 +499,7 @@ std::cout << uFzp41_a1 << AIq_eU << Z8YGI6dhW(xRh2KVH, 1613728061) << std::endl;
 }
 else if (X_ND_7 <= 15255174)
 {
-MUF39f2PtN = w7r6_4p - eVe75e;
+
 }
 else if (X_ND_7 & RUYw_3KKr6)
 {

@@ -67,7 +67,7 @@ case 2:
 
 break;
 default:
-R4Up = egpA3j / 1477534539;
+
 break;
 }
 }

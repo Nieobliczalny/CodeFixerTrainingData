@@ -19,7 +19,7 @@ int main()
 switch (QnChk6)
 {
 case 'a':
-r0_k = uYtF / 321028427;
+
 break;
 case 'b':
 
@@ -74,7 +74,7 @@ if (wQy3Z > m0_1)
 {
 if (h_T43 != Qz3Op41)
 {
-uYtF = (float)(keB6);
+
 }
 }
 else
@@ -138,7 +138,7 @@ case 2:
 
 break;
 case 3:
-s9H4A9 = (int)abs(J93Y9P0);
+
 break;
 case 4:
 A9142 = l2CrtG();
@@ -150,7 +150,7 @@ case 6:
 
 break;
 case 7:
-a2RpfXI = l2CrtG();
+
 break;
 case 8:
 QnChk6 = I_8RH(1563733166);
@@ -183,7 +183,7 @@ else if ((BDdU3mZ >= -2006848326) && (J3T1l1 != -725885500))
 }
 else
 {
-QnChk6 = I_8RH(izCG2y39p6);
+
 }
 }
 else

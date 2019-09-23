@@ -427,7 +427,7 @@ case 'e':
 
 break;
 case 'f':
-QuSwXhy43 = (int)floor(pK5SsXIi8);
+
 break;
 default:
 Kc8R72_ = J3ZQEkh6(aGFm0pdu, 280816950, bjpb2h5, xUNLQrP) / 1367719530;

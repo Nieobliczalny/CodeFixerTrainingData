@@ -278,7 +278,7 @@ while (j < 7)
 int k = 0;
 while (k < 1)
 {
-f7TqTK = u_08lD_a(-618775430, GfBpGjJ, lMi0_e, 682957623);
+
 ++k;
 }
 }
@@ -300,7 +300,7 @@ case 2:
 
 break;
 case 3:
-o00PXr = (int)floor(ga3g0d);
+
 break;
 case 4:
 ga3g0d = (int)ceil(o00PXr);
@@ -361,7 +361,7 @@ case 'F':
 aTqGNKrGh = c05TCgVG3 * 1622369666;
 break;
 default:
-GfBpGjJ = EAQu9c9();
+
 break;
 }
 }
@@ -416,7 +416,7 @@ case 1:
 
 break;
 case 2:
-UFz1_3GJG3 = (k_1_MuA0f > -19197298) ? y99kZA3bj : mq1Ah;
+
 break;
 case 3:
 o00PXr = (int)ceil(aTqGNKrGh);
@@ -428,7 +428,7 @@ case 5:
 
 break;
 case 6:
-jg27SSzBy6 = P8trmPn4(-1734716270) - 4367408;
+
 break;
 }
 

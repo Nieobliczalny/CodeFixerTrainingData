@@ -37,7 +37,7 @@ int main(int argc, char** argv)
     unsigned short int    Rd5zX;
     Rd5zX    =    -446229837;
     unsigned short int    or9yekk;
-    or9yekk    =    -862152751;
+
  long odoCybE70;
  odoCybE70 = -1421249253;
 	float	nuQ6DA0;
@@ -71,7 +71,7 @@ int main(int argc, char** argv)
 	long double	hE66h;
 	hE66h	=	1820015171;
  unsigned int B7gQi;
- B7gQi = -63401297;
+
 	char	Im_ct9xM;
 	Im_ct9xM	=	1217603993;
   unsigned short  oZ0r7;
@@ -85,7 +85,7 @@ int main(int argc, char** argv)
 	double	lf22bh1mXi;
 
  unsigned short int K_9T;
- K_9T = -617724388;
+
 	long long	eV6dj61524;
 	eV6dj61524	=	-2030957462;
  unsigned short int j280AQV;
@@ -105,7 +105,7 @@ int main(int argc, char** argv)
  unsigned long long X87zOASOS_;
  X87zOASOS_ = -213263082;
   unsigned long  U8f6px_;
-  U8f6px_  =  1341923122;
+
     unsigned int    v24DZ517;
     v24DZ517    =    -1331461126;
     short int    JBLR6K;
@@ -141,7 +141,7 @@ int main(int argc, char** argv)
 	unsigned char	ITNoK;
 
   short  nQ9NQ4rvl9;
-  nQ9NQ4rvl9  =  1368375791;
+
     short    UMrNetQ;
 
     int    a8M792SG;
@@ -348,7 +348,7 @@ if (vZKJ1j3t == nuQ6DA0)
 switch (x0NbImCOs)
 {
 case 'a':
-Yp71d118se = E_0yXQTLo();
+
 break;
 case 'b':
 
@@ -360,7 +360,7 @@ case 'd':
 
 break;
 case 'e':
-GIF56 = wBZO063(-205952516, qkr1H, sQ9O);
+
 break;
 case 'f':
 
@@ -372,7 +372,7 @@ case 'h':
 
 break;
 case 'i':
-r_Rk = (int)abs(geWTd24_);
+
 break;
 default:
 
@@ -406,7 +406,7 @@ P5tA = (int)floor(cl7Z);
 switch (X87zOASOS_)
 {
 case 0:
-odoCybE70 = gLeR_E2pem & A42d;
+
 break;
 case 1:
 hE66h = (int)floor(P5tA);
@@ -437,7 +437,7 @@ case 'b':
 
 break;
 case 'c':
-geWTd24_ %= Rd5zX;
+
 break;
 case 'd':
 lf22bh1mXi = E_0yXQTLo();
@@ -471,7 +471,7 @@ else
 {
 
 }
-oZ0r7 *= gLeR_E2pem;
+
 
 {
 int i = 0;

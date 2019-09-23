@@ -247,7 +247,7 @@ case 1:
 
 break;
 case 2:
-E7D7WA6 = Pm21kSzQR(-360107488, 1256419248, 1182590791);
+
 break;
 }
 std::cout << 1885604334 / CVKP() << std::endl;
@@ -273,7 +273,7 @@ else if (x_9YQ29 < -2027932651)
 }
 else if ((j0cIB <= DNxK1) || ((nMLi0 < I8_6) && (n_wR5_q != -89122031)))
 {
-aXfQNkD = mAbAyLv1o(aXfQNkD, zM9K);
+
 }
 else if ((hn_I8_d3g & YXqnz) && (zW7I4kuW != Umlj796vd))
 {

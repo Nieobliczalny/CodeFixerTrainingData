@@ -123,7 +123,7 @@ case 0:
 
 break;
 case 1:
-tGlAX_QbsU = CCW012oZ | Oec0vzCbo;
+
 break;
 case 2:
 CYEs2i1CR8 = ZIY67_iI0x >> 1067404646;
@@ -135,7 +135,7 @@ case 4:
 
 break;
 case 5:
-a_Ua67Rc66 <<= 56767251;
+
 break;
 }
 }

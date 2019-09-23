@@ -852,7 +852,7 @@ case 'f':
 
 break;
 case 'g':
-wZ9_wIsh = (nv87 & Wu5l) ? UE_aHoX4dx : 815256486;
+
 break;
 default:
 J90i_gc = (int)abs(C8O175);

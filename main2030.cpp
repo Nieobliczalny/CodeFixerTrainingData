@@ -210,7 +210,7 @@ case 3:
 
 break;
 case 4:
-d1O4S8JKoi ^= 1251289376;
+
 break;
 case 5:
 THvbX++;

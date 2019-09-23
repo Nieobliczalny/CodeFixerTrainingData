@@ -272,7 +272,7 @@ while (i >= 0);
 switch (e9qD)
 {
 case 'a':
-pGGdfntX8g = (int)abs(Nan29Pdd);
+
 break;
 case 'b':
 k7z0_6 = j70_ml(-1054491416);

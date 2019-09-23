@@ -36,7 +36,7 @@ int main(void) {
 
  WKFN1C4 = 783224430;
  T_7Pr6 = 1895882626;
- d8P07O = -1688921534;
+
  AHN3ID = -151377478;
  IgpQ2N9Hj6 = 499578458;
  ofS1drb = 1665542574;
@@ -51,7 +51,7 @@ int main(void) {
  nZ6QlJe = -1161647771;
  Bii85w3 = -720724610;
 
- Vs2pZs5S8 = -747852915;
+
  vJ52s = -1231749270;
  kT700A5_ = 1984492603;
  d0cCaGE = 1805363962;
@@ -158,7 +158,7 @@ case 2:
 i52EV = (int)floor(kT700A5_);
 break;
 case 3:
-k_803e1 = l9o9F(GC_C1SDGR, 171621737, 1117776167);
+
 break;
 case 4:
 BSv09J = (int)floor(k_803e1);
@@ -170,7 +170,7 @@ case 6:
 
 break;
 case 7:
-k_803e1 = (int)ceil(sKGJTcV0);
+
 break;
 case 8:
 Ur5ZMP /= 1679308754;
@@ -213,7 +213,7 @@ case 6:
 
 break;
 case 7:
-mPE9_pxh = (int)floor(Ur5ZMP);
+
 break;
 default:
 IgpQ2N9Hj6 = (int)floor(O2W267_);
@@ -231,7 +231,7 @@ else
 {
 std::cout << Bii85w3 << GC_C1SDGR << uI9bS8() << ZtAq << std::endl;
 }
-k_803e1 = (int)abs(T_7Pr6);
+
 for (int i = 3; i >= 0; --i)
 {
 switch (GL634P)

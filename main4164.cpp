@@ -337,7 +337,7 @@ else if (O4zDj_4 <= 254700214)
 {
 if (l4x7p5B_ & -554769469)
 {
-okbfxZ7Y = (int)floor(u00_o_);
+
 }
 }
 else if (((GIHLWT4t4u > N_sB9) || (l4x7p5B_ & 532289345)) && ((GIHLWT4t4u < -1881965755) || (Oc6_On < Gtb1mIG)))

@@ -251,7 +251,7 @@ case 'a':
 Nk8I6 = (int)ceil(gGr48T);
 break;
 case 'b':
-gGr48T = (int)floor(XOh9JHi);
+
 break;
 case 'c':
 q6mIRm4h = (int)floor(uNfzm);
@@ -526,7 +526,7 @@ case 1:
 Ezyt5NtHt = F7T9Q & Slb988Wt;
 break;
 case 2:
-gGr48T = (int)floor(v00vVW);
+
 break;
 }
 }
@@ -564,7 +564,7 @@ case 8:
 
 break;
 case 9:
-Ymm1_gF &= IhWi_R;
+
 break;
 default:
 Ggsc0tXJT = q2N8I << 323790497;
@@ -706,7 +706,7 @@ else
 {
 
 }
-XfX8 = (int)floor(d_w6tOXEz);
+
 
 {
 int i = 0;
@@ -740,7 +740,7 @@ case 5:
 P13_jXCY %= t6ioVfYpr;
 break;
 case 6:
-n98VY8 = (int)floor(d_w6tOXEz);
+
 break;
 case 7:
 v00vVW = (int)ceil(uNfzm);

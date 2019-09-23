@@ -33,7 +33,7 @@ case 'a':
 
 break;
 case 'b':
-PeX46 = Nc9_31A();
+
 break;
 case 'c':
 eVjQnBJ0E = nR5r8 - 213462407;
@@ -46,7 +46,7 @@ default:
 break;
 }
 
-PY9bkLcUl = Nc9_31A();
+
 
 if ((Q_7z738g_ / NOG64Z8_) >= -1456546037)
 {

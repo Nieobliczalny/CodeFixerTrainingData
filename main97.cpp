@@ -33,7 +33,7 @@ case 2:
 
 break;
 case 3:
-OGK3w *= yVZ9_;
+
 break;
 case 4:
 
@@ -108,7 +108,7 @@ case 'b':
 H_U5n = J59Y9sMKR - T8I7;
 break;
 case 'c':
-Opq9 |= 360341979;
+
 break;
 case 'd':
 IhYBo--;
@@ -123,7 +123,7 @@ break;
 
 for (int i = 0; i < 9; ++i)
 {
-P8_6Y = (long)(y1nzbs29);
+
 }
 
 return 0;

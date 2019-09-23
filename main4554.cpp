@@ -251,7 +251,7 @@ if (BCWT10BEXp == 0)
 {
 	FX4DDl780g = -1551386709 / BCWT10BEXp;
 }
-z1gJ = (int)abs(WTm4);
+
 
 M5YOWC = V3z7uxXVi - 1467544869;
 
@@ -293,7 +293,7 @@ while (j < 5);
 switch (BAQI48)
 {
 case 0:
-cYb61 = ua3_m9y ^ 245117191;
+
 break;
 case 1:
 N95I = V95H_Rg ^ nO__0kQ;
@@ -319,7 +319,7 @@ if (ua3_m9y != WTm4)
 switch (qbeP5JpwC)
 {
 case 'a':
-nO__0kQ = (int)abs(NNqL06Cd);
+
 break;
 case 'b':
 HLp3Ff2 = BAQI48 + BAQI48;
@@ -337,7 +337,7 @@ break;
 }
 else if (HLp3Ff2 != NNqL06Cd)
 {
-FX4DDl780g = qbeP5JpwC ^ 1968026872;
+
 }
 else
 {

@@ -184,7 +184,7 @@ else if (q1ckL < F1k34yhLz)
 switch (Gn74a)
 {
 case 0:
-TSHCiaxXif = q4e1ru_4 / 757347095;
+
 break;
 }
 }
@@ -235,7 +235,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-F1Eb = F1k34yhLz * 1741081664;
+
 break;
 case 'd':
 case 'D':
@@ -255,7 +255,7 @@ case 1:
 
 break;
 case 2:
-tVsl2ci7E = (int)ceil(QLI0TvR7rA);
+
 break;
 case 3:
 
@@ -276,7 +276,7 @@ case 0:
 
 break;
 case 1:
-u6DNZ_EC_ = (int)ceil(q1ckL);
+
 break;
 case 2:
 

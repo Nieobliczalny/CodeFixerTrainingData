@@ -30,7 +30,7 @@ int main(int argc, char** argv) {
   long long  C7f246;
   C7f246  =  622204515;
     unsigned long long    nLl80;
-    nLl80    =    1010184807;
+
   unsigned int  S7gnezt6;
   S7gnezt6  =  -1713689412;
     long long    y42_djnQWZ;
@@ -48,7 +48,7 @@ int main(int argc, char** argv) {
   float  I0mk;
 
  unsigned long v4i3;
- v4i3 = -116667651;
+
  short TFI74du0S;
  TFI74du0S = 108330663;
 	unsigned short	gR0_;
@@ -62,7 +62,7 @@ int main(int argc, char** argv) {
     short int    o4tBjr;
     o4tBjr    =    -906422194;
   char  B6RMz;
-  B6RMz  =  0;
+
  unsigned int Vwwx1bn;
  Vwwx1bn = -1109553523;
   long  iGAkpq1LY;
@@ -82,7 +82,7 @@ int main(int argc, char** argv) {
  long n4FFrT;
  n4FFrT = 2032675130;
  float e8_d;
- e8_d = -395262282;
+
  int Bj61LxTYv;
  Bj61LxTYv = -1443364290;
   float  x4m4z8;
@@ -128,7 +128,7 @@ int main(int argc, char** argv) {
  short sk2Hn;
  sk2Hn = -1656152859;
  unsigned short edzX4svh57;
- edzX4svh57 = 1184122283;
+
  long long NlX2J4IjK9;
  NlX2J4IjK9 = 782553775;
 
@@ -150,7 +150,7 @@ case 'c':
 break;
 }
 
-SHGj4r163 += 1453063579;
+
 i_k948 = (int)ceil(x4m4z8);
 {
 int i = 1;
@@ -261,7 +261,7 @@ if (((fW_97_2) || (I0mk)) && (C7f246 != 649622845))
 
 try
 {
-ko8ezZXE = LaTh6W(ko8ezZXE, 1609067810, 1994961017, -993384389);
+
 }
 catch (int& errorCode)
 {
@@ -292,7 +292,7 @@ case 'b':
 
 break;
 case 'c':
-k_s3J = u3p_E6A7b & 1361626139;
+
 break;
 case 'd':
 Vwwx1bn ^= 1034657284;
@@ -307,7 +307,7 @@ else
 
 }
 
-F0twD = (unsigned short int)(K_Pxv7C);
+
 x4m4z8 = (int)ceil(i_k948);
 return 0;
 }

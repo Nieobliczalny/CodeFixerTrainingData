@@ -218,7 +218,7 @@ i--;
 while (i >= 0);
 }
 
-an4qQJY8wB = D59v_ * 1999792384;
+
 
 if (GIhx < O1zYdB)
 {
@@ -358,7 +358,7 @@ if (r7ajHt < 1524170654)
 {
 for (int j = 5; j >= 0; --j)
 {
-gG0By_S = (float)(Zv75M);
+
 }
 }
 else if (((XLpyQ8S7Sl & Bv8WacJI) || (nAk88b8uaG)) && (XPlv4xq3J != D59v_))
@@ -460,7 +460,7 @@ case 1:
 
 break;
 case 2:
-g_3D12T3U ^= 567604317;
+
 break;
 case 3:
 uxFtiS = (int)ceil(GIhx);

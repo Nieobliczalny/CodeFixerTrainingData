@@ -244,7 +244,7 @@ case 1:
 
 break;
 case 2:
-U8Fa4 /= 898442431;
+
 break;
 case 3:
 YzIw = (int)floor(ur9N3HN8Z);
@@ -269,7 +269,7 @@ while (k < 7);
 
 
 
-YzIw = (BJ4EcgxU > -1634852283) ? pnu1Dt(rAk2O9, 497998369, 1188219565) : 390068135;
+
 
 return 0;
 }

@@ -25,7 +25,7 @@ int main() {
   unsigned long long  Ty4TziU2,  tC4wCKKr1,  Mfi8SN10fs,  HI3XwfcH,  I_q68Nu8X,  Rh0V,  V6uhpQuE,  Av1X9,  SU12mOUl9A,  N596k6,  OUChNqE,  qheSGhc2Xw,  TXUzQ_,  P9ep,  ZOMm0e_,  t06K00,  iwq88Tdq3I,  HV609dX,  Fkrx,  B05GM,  V366Mzx,  Y6osoa,  jWawVfmeuf,  I_7LIu,  L4JF_,  JfK_2Zz5,  Lazi3Nt9,  Z2nsm9EK,  GLHTxCbm,  B7cZ,  sH0__H9a8;
 
 
-  Mfi8SN10fs  =  -1451477479;
+
   HI3XwfcH  =  -1720655485;
   I_q68Nu8X  =  523867128;
   Rh0V  =  -1577963476;
@@ -41,7 +41,7 @@ int main() {
   t06K00  =  -1147809207;
 
   HV609dX  =  1748900412;
-  Fkrx  =  319121991;
+
   B05GM  =  274648809;
   V366Mzx  =  935138530;
   Y6osoa  =  -1853838710;

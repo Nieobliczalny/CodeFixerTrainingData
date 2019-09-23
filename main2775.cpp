@@ -30,7 +30,7 @@ switch (oMtWcTx1e)
 {
 case 'a':
 case 'A':
-XbM0R6J_96 = Ta59gKL(XbM0R6J_96, -783743426, G_m9R5fU9, -439157885);
+
 break;
 case 'b':
 case 'B':
@@ -75,7 +75,7 @@ else if (F90o < 711608474)
 }
 else if ((Zy60 & 1860660006) || (eXhrMUbiuP <= -1202214533))
 {
-hWz8Bg *= 257989571;
+
 }
 else if (uZp8tn75z > vCuoA34)
 {
@@ -141,7 +141,7 @@ case 'b':
 
 break;
 case 'c':
-F90o = p2XwZ_P98V(F90o);
+
 break;
 case 'd':
 vCuoA34 = (int)ceil(G_m9R5fU9);
@@ -153,7 +153,7 @@ case 'f':
 
 break;
 case 'g':
-H729cU *= t81C4Zrb;
+
 break;
 default:
 H729cU *= G_m9R5fU9;

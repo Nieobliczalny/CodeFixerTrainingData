@@ -21,7 +21,7 @@ int main(int argc, char** argv)
   long  WnJt7YQzJ;
 
     short    Ra81GYpxm;
-    Ra81GYpxm    =    190004920;
+
   unsigned char  f31_2b6;
   f31_2b6  =  0;
 	unsigned long	o6T_Ilrto6;
@@ -33,7 +33,7 @@ int main(int argc, char** argv)
   unsigned short int  M_s0;
 
 	unsigned long	OAY83bsU;
-	OAY83bsU	=	-1977584731;
+
     double    ff1V;
     ff1V    =    -1373170202;
     unsigned char    V8z96l_rdm;
@@ -43,7 +43,7 @@ int main(int argc, char** argv)
 	short int	HZx5Bj_45;
 
  char v3S_;
- v3S_ = -111788958;
+
 	short	gg37DPPz;
 	gg37DPPz	=	2003411124;
 	float	U6_w8s;
@@ -57,7 +57,7 @@ int main(int argc, char** argv)
     long double    zxa4wrXp6R;
     zxa4wrXp6R    =    37411845;
 	float	ucJ68Lw3Ub;
-	ucJ68Lw3Ub	=	151099289;
+
     unsigned char    PSSRsy;
     PSSRsy    =    -1215299066;
 	unsigned long long	c6F0gb5;
@@ -67,7 +67,7 @@ int main(int argc, char** argv)
   unsigned int  Wk0SA9f;
   Wk0SA9f  =  1493685197;
  long fB16;
- fB16 = 810656236;
+
   long  RtX6im;
   RtX6im  =  -2135925733;
     unsigned char    lCgBMeU3;
@@ -79,7 +79,7 @@ int main(int argc, char** argv)
     unsigned short int    e4Vyw0266;
     e4Vyw0266    =    -1419473113;
     long double    BCT8FaBYiH;
-    BCT8FaBYiH    =    180837066;
+
   unsigned long long  o_cNG;
 
 	double	v7Cc;
@@ -101,7 +101,7 @@ int main(int argc, char** argv)
     double    V5t0u;
 
  unsigned long rnVTPJjCm3;
- rnVTPJjCm3 = -1732093958;
+
   double  e56s;
   e56s  =  -1478150884;
   char  Y2V9MO5;
@@ -123,7 +123,7 @@ int main(int argc, char** argv)
     long long    F0M9nY_Ib1;
     F0M9nY_Ib1    =    -1023607784;
   float  fhrI;
-  fhrI  =  2141487967;
+
     double    tMzr6I;
     tMzr6I    =    1181426361;
   unsigned long long  sOxkK;
@@ -135,7 +135,7 @@ int main(int argc, char** argv)
 	unsigned int	qlSP_h5xEi;
 
 	short	lCA8oDZ;
-	lCA8oDZ	=	1315115228;
+
  long long J1_y_7;
  J1_y_7 = 1372192085;
 
@@ -151,7 +151,7 @@ default:
 
 break;
 }
-WnJt7YQzJ = q846BFxdcH();
+
 
 v3S_ = (char)(tMzr6I);
 V8z96l_rdm = B15b7();
@@ -177,7 +177,7 @@ break;
 
 for (int i = 5; i >= 0; i--)
 {
-fhrI = (int)floor(v7Cc);
+
 }
 
 try
@@ -253,7 +253,7 @@ while (k >= 0);
 
 if (ztN92A() == 0)
 {
-	ThS0 = -378467447 / ztN92A();
+
 }
 
 return 0;

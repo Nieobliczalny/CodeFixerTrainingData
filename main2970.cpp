@@ -161,7 +161,7 @@ case 3:
 
 break;
 case 4:
-NWlW63HK |= Y5t7;
+
 break;
 }
 if (B6q4ufm33y > -594120559)
@@ -337,7 +337,7 @@ A5a_4bI = a249 << ZHk25oSZ7j;
 std::cout << SQ0TE0 << "zj9O" << xu3H << "Rs6kp2xzu" << std::endl;
 
 
-frDqgR = (int)abs(Wy_l6);
+
 
 vwh1Z5 = (unsigned long long)(m0X7cwi + (q52m4));
 

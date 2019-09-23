@@ -13,7 +13,7 @@ int main(void)
  short ffP_1NTiQ;
  ffP_1NTiQ = 1180288851;
     int    slhwsC0;
-    slhwsC0    =    1733098150;
+
     double    IT9B;
 
 	unsigned short int	D65vfF;
@@ -31,7 +31,7 @@ int main(void)
  unsigned long oQmv22;
  oQmv22 = 0;
  long double Xw_fTW;
- Xw_fTW = 92007869;
+
   unsigned long long  RaI5jeGUE;
   RaI5jeGUE  =  -20400284;
  long long XR7GT2Y;
@@ -77,7 +77,7 @@ int main(void)
   char  k_4h;
 
  unsigned long long CKS1OwRq5U;
- CKS1OwRq5U = -823331110;
+
  short int wfqZrhp;
  wfqZrhp = -1616775130;
     float    b93j;
@@ -87,7 +87,7 @@ int main(void)
   unsigned long  LQHq;
 
   unsigned short int  JACU;
-  JACU  =  -595490069;
+
     unsigned int    C_uY;
     C_uY    =    -520917951;
   short  gpbPQ7;
@@ -129,7 +129,7 @@ int main(void)
     unsigned char    lJb511mRx;
     lJb511mRx    =    -204213814;
     unsigned short int    gT09A4vA;
-    gT09A4vA    =    1671213583;
+
   char  d4_73ULVmX;
 
 	int	VXYi3;
@@ -324,7 +324,7 @@ case 8:
 KhsRSwpOR9 /= D65vfF;
 break;
 case 9:
-JvUM19 = (int)abs(RT3_7);
+
 break;
 default:
 SL8tPqqJB--;

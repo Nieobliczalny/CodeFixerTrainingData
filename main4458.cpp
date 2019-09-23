@@ -52,7 +52,7 @@ int main()
     short    HaE1VfqwHR;
     HaE1VfqwHR    =    1463644716;
 	char	hh88i878B;
-	hh88i878B	=	937563391;
+
   unsigned int  nRX_mcM;
 
     unsigned long    u15X5;
@@ -62,7 +62,7 @@ int main()
     short    qapr4G;
     qapr4G    =    0;
  unsigned int X_Aer;
- X_Aer = 1874167219;
+
   unsigned int  dQ_fA;
   dQ_fA  =  -1595084757;
 	unsigned long	E5845K3zI;
@@ -88,7 +88,7 @@ int main()
   long  h90n6Fe;
   h90n6Fe  =  1480642393;
  long double QXV6Pxm47W;
- QXV6Pxm47W = 1020664824;
+
   double  GS43A;
   GS43A  =  -2111586686;
     short    bb1IX800;
@@ -104,7 +104,7 @@ int main()
  long long G8K4;
  G8K4 = 1962830446;
   long  ut3s_N7;
-  ut3s_N7  =  -614782646;
+
     unsigned char    Nloste;
 
     long    e5vbtRp;
@@ -136,7 +136,7 @@ int main()
     unsigned long    RV8TsXa;
 
  unsigned long long dnAXLk;
- dnAXLk = 143318462;
+
 	int	T5B4_3M3x;
 	T5B4_3M3x	=	837452358;
  char DhBN9f;
@@ -150,7 +150,7 @@ int main()
     int    sdWBG;
 
  unsigned char kcgz;
- kcgz = 226853894;
+
     short    k72Jg160h;
     k72Jg160h    =    -1370943058;
  unsigned long gX976;
@@ -164,7 +164,7 @@ int main()
  long long V70g;
  V70g = 0;
   float  T7854YA6;
-  T7854YA6  =  -1355041344;
+
  unsigned int LeIy;
  LeIy = -1902419163;
     float    l7klCp;
@@ -190,7 +190,7 @@ int main()
 	unsigned long	x681j;
 
 	short	IcPKn9;
-	IcPKn9	=	-430041563;
+
 	unsigned char	f_EvjDf;
 	f_EvjDf	=	0;
   unsigned long long  bo01;
@@ -218,7 +218,7 @@ int main()
 	unsigned long long	dD2K9DIp;
 	dD2K9DIp	=	-1394946385;
  short int T0P9BPgLol;
- T0P9BPgLol = 76100489;
+
  short qgR6biJS;
  qgR6biJS = 0;
   float  O719O3n7U;
@@ -298,7 +298,7 @@ case 'd':
 Iw_CwZI36 = (int)abs(wAR0Qjkt);
 break;
 case 'e':
-D0WXZ4TOuT = (int)floor(RXCvfwT1fa);
+
 break;
 case 'f':
 Uvy_3zN /= bih_9N2;
@@ -310,7 +310,7 @@ case 'h':
 
 break;
 case 'i':
-T1TL5f_Q1 = g5mBRc5TU(1462746080, 723086540, As8tw9Y);
+
 break;
 default:
 Qdh81XC_Wp = EAk7 + DzN3;
@@ -366,7 +366,7 @@ if (dQ_fA <= As8tw9Y)
 switch (k72Jg160h)
 {
 case 'a':
-HaE1VfqwHR ^= Of6522dau;
+
 break;
 case 'b':
 
@@ -456,7 +456,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-u15X5 = CIS_MEcB / 61236211;
+
 break;
 }
 }
@@ -487,7 +487,7 @@ else
 }
 }
 
-UH_K8gpu = (int)floor(tNAz7j);
+
 return 0;
 }
 

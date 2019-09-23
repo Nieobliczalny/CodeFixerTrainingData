@@ -74,7 +74,7 @@ for (int j = 0; j < 2; ++j)
 switch (kiN95)
 {
 case 0:
-herQ81D *= cT47C3rHQ;
+
 break;
 case 1:
 puYM__7 = sjY0 >> 926365975;
@@ -120,7 +120,7 @@ break;
 }
 else if (EjN2YzL5F == puYM__7)
 {
-X9I5 = HtWP6(F3z_H, X9I5, -1894247542, aRVGST, 1532491945);
+
 }
 else
 {
@@ -487,7 +487,7 @@ case 3:
 
 break;
 default:
-zsIqgP9dh = (int)abs(Y1LAEpf);
+
 break;
 }
 }
@@ -506,7 +506,7 @@ case 2:
 M93v = HtWP6(1948471420, 1692947151, -170328940, MSHAhE, Qmt26);
 break;
 case 3:
-S9a4 = j1Y9yStf(1344505064, 922479726, zK2RjK81);
+
 break;
 case 4:
 

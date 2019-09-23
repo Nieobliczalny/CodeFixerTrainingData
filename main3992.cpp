@@ -142,7 +142,7 @@ case 'E':
 
 break;
 default:
-Q157 = (int)floor(bvX4nU4AZ);
+
 break;
 }
 }
@@ -301,7 +301,7 @@ SFb9_PrE = -1735364892 / WUHhE4(u0D0DJ2sK, o3_N3E, -1229649406, XJ_7A4HrZ, -8372
 
 
 
-OKz_67 = (short)(PHNbvVxd + (-2058032859));
+
 {
 int i = 10;
 do

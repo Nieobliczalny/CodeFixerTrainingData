@@ -30,7 +30,7 @@ try
 int k = 3;
 do
 {
-fS3m60 = H6WkE7 % dIUJRU24_v;
+
 --k;
 }
 while (k >= 0);
@@ -64,7 +64,7 @@ if ((l_etE <= m7I4Y) && (eczm4sG & 152554393))
 int k = 0;
 do
 {
-l_etE = (int)abs(an08Vk5E);
+
 k++;
 }
 while (k < 2);
@@ -136,7 +136,7 @@ case 4:
 V8t1N5 = Se29d5(V8t1N5);
 break;
 case 5:
-fS3m60 = rWT5jX4(779803206, 298843340, 1554785099);
+
 break;
 }
 }

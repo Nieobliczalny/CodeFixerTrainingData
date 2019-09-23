@@ -147,7 +147,7 @@ case 2:
 hGk8 = (int)abs(v35Fz7);
 break;
 case 3:
-sMcPJWW_f = zGm84B4 & 1851976688;
+
 break;
 case 4:
 
@@ -159,7 +159,7 @@ case 6:
 YHohy5 |= 627649511;
 break;
 case 7:
-h4edsy ^= M1_1;
+
 break;
 case 8:
 C01qUwI = M1_1 >> 342292770;
@@ -175,7 +175,7 @@ wAMZ_W8P >>= 1852849657;
 }
 }
 
-pgHS29 = C01qUwI % 1655993813;
+
 
 {
 int i = 9;

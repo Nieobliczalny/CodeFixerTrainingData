@@ -45,7 +45,7 @@ std::cout << c9F_Zt8lb << "ldr9yFx0" << So43TM() << std::endl;
 }
 
 Sk7i4Vz = (double)(iU4L);
-CwxWL_g11 = (int)floor(e_kv6_);
+
 
 for (int i = 0; i < 5; i++)
 {
@@ -109,7 +109,7 @@ W_pmkB = (int)ceil(iU4L);
 }
 else if (WTExnzq & -881540122)
 {
-ejMoa5K = So43TM();
+
 }
 else
 {
@@ -158,7 +158,7 @@ WTExnzq = p8N5y3gt();
 break;
 case 'b':
 case 'B':
-wosm = MW1Q - 1211595422;
+
 break;
 case 'c':
 case 'C':
@@ -185,7 +185,7 @@ while (j < 7)
 {
 if (eh3p9)
 {
-wosm = (int)abs(GiP7C5n68_);
+
 }
 j++;
 }
@@ -223,7 +223,7 @@ case 1:
 
 break;
 case 2:
-v6IW = (int)abs(GiP7C5n68_);
+
 break;
 case 3:
 p_7i3 = IbyiJB_F40 + 624990171;
@@ -254,7 +254,7 @@ case 'd':
 
 break;
 case 'e':
-BmUYQ5RS3 -= WMa1kHo;
+
 break;
 case 'f':
 
@@ -287,7 +287,7 @@ else
 switch (WTExnzq)
 {
 case 'a':
-GiP7C5n68_ /= 873992384;
+
 break;
 case 'b':
 
@@ -299,7 +299,7 @@ case 'd':
 v6IW = (int)floor(GiP7C5n68_);
 break;
 case 'e':
-WTExnzq = p8N5y3gt();
+
 break;
 case 'f':
 

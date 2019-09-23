@@ -96,7 +96,7 @@ int main(int argc, char** argv)
 
 
  M5O4 = 1857816549;
- kqVxi410K3 = -587897594;
+
  xGl66 = -915651956;
  vT9d = 1941098635;
  j_d9HJXU = -180760719;
@@ -350,7 +350,7 @@ case 1:
 
 break;
 case 2:
-M4jfN = rz3Ig91(PS_6azx_1, EKA_M, -835395773) - S_8X0;
+
 break;
 }
 }

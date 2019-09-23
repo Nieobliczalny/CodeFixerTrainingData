@@ -145,7 +145,7 @@ case 5:
 KQ3f = nYLm % 1133862749;
 break;
 case 6:
-Weh88 = (int)abs(HB51X5y) * 0;
+
 break;
 case 7:
 af0Fhcd2 = Hhm7D7(af0Fhcd2, ob_GOP);
@@ -212,7 +212,7 @@ A41zKD3 = ob_GOP - E_38;
 break;
 case 'f':
 case 'F':
-Weh88 = eUQR6e(1371217372);
+
 break;
 case 'g':
 case 'G':
@@ -253,7 +253,7 @@ else if (Fh_E > A7_F)
 switch (Fh_E)
 {
 case 0:
-P99570j0 >>= aW1x5M;
+
 break;
 case 1:
 
@@ -271,7 +271,7 @@ case 5:
 
 break;
 case 6:
-KQ3f = bpr6m2T(KQ3f, A9W2kKOB);
+
 break;
 case 7:
 af0Fhcd2 = Hp6bt9(af0Fhcd2, Ts5U73eF4, A9W2kKOB, vzIb, 1580774132);
@@ -313,7 +313,7 @@ case 'a':
 
 break;
 case 'b':
-CVa73aRl |= 1050389979;
+
 break;
 case 'c':
 
@@ -325,7 +325,7 @@ case 'e':
 
 break;
 case 'f':
-A59WaTi = bpr6m2T(-822214142, A7_F);
+
 break;
 case 'g':
 A41zKD3 = (int)floor(UGQ__5UbZ);
@@ -362,7 +362,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-H2OZs9oRT3 = (int)ceil(l8t489);
+
 break;
 case 'd':
 case 'D':

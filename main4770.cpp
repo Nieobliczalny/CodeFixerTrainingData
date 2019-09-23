@@ -291,7 +291,7 @@ else
 
 
 
-ajw4vWV3 = PtK4 & AjVIdd;
+
 D678p = HFza7z444(D678p, 120695196);
 
 {
@@ -326,7 +326,7 @@ try
 {
 try
 {
-zs6f = zs6f * 1479235642;
+
 }
 catch (int& errorCode)
 {
@@ -417,7 +417,7 @@ cout << sFrL4h6B4 << "Zi1474_M" << endl;
 }
 
 
-k6xNdF = (short)(iitLQ74eB0);
+
 
 return 0;
 }

@@ -146,7 +146,7 @@ case 1:
 
 break;
 case 2:
-ZGjg5 = (int)ceil(Cr_2h01M);
+
 break;
 case 3:
 ZQJu52wG -= 104034079;
@@ -157,7 +157,7 @@ break;
 }
 
 
-i9k_0NXFv = (long double)(E17Y6Gv0y);
+
 return 0;
 }
 

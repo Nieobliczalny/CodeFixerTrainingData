@@ -109,7 +109,7 @@ case 3:
 
 break;
 case 4:
-wXdK_0hX = HKwvnc >> 824964692;
+
 break;
 case 5:
 tK8LG9O = xi_R0ed << 613828133;
@@ -140,7 +140,7 @@ if (UN7WF3o != -2066263447)
 
 try
 {
-QB5RzC = (int)abs(e1A2Kh9);
+
 }
 catch (int& errorCode)
 {

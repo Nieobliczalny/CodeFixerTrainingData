@@ -267,7 +267,7 @@ case 'd':
 
 break;
 case 'e':
-Q1v6 = vNGZtY2s(2109496927, -728304926);
+
 break;
 case 'f':
 egTemi = (int)floor(vdsvz2jwQ);

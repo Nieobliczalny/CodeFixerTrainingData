@@ -33,7 +33,7 @@ int main()
  unsigned long long i0eP2;
  i0eP2 = 1577269910;
   long  B8t33a;
-  B8t33a  =  634318429;
+
  char QL2GaK2s5;
 
  unsigned int qZk7m9;
@@ -65,7 +65,7 @@ int main()
     short    eiG2o0D58;
     eiG2o0D58    =    1893320639;
  long long brw_bghPq;
- brw_bghPq = -1428445971;
+
 	short	eIQJ0cjol;
 	eIQJ0cjol	=	878905588;
 	long	XA758cf5;
@@ -75,7 +75,7 @@ int main()
 	unsigned long long	wkTEM8;
 
  float BKh7Wo3;
- BKh7Wo3 = 1923875702;
+
   unsigned short  XcH7V25Y;
   XcH7V25Y  =  2025299609;
   unsigned short  dF2R6L39hc;
@@ -87,7 +87,7 @@ int main()
 	long double	qVl9w6aTdY;
 
  short G8T0;
- G8T0 = 0;
+
   double  SVc582;
   SVc582  =  -284321393;
   short  cs0pVgmZ;
@@ -99,7 +99,7 @@ int main()
  unsigned short int L33Oby59a_;
  L33Oby59a_ = 1934701671;
   long  cF3_2_0s;
-  cF3_2_0s  =  -381678297;
+
     unsigned long    MOu6Mv;
     MOu6Mv    =    1289117821;
     unsigned int    a7j1563eX;
@@ -113,7 +113,7 @@ int main()
   unsigned int  g62p;
   g62p  =  0;
     long    h181Tsi;
-    h181Tsi    =    -1128382537;
+
     double    r5FTTWk8f;
     r5FTTWk8f    =    -1481898257;
 	long long	X_5uKq;
@@ -133,7 +133,7 @@ int main()
 	short	x2Rl45192;
 	x2Rl45192	=	0;
     char    jqq2pa;
-    jqq2pa    =    1770741892;
+
 
 dF2R6L39hc = 2131374896 / g62p;
 
@@ -146,7 +146,7 @@ case 'b':
 
 break;
 case 'c':
-qZk7m9 = HIacPu(qZk7m9, eiG2o0D58, 1003011855, -1562841728);
+
 break;
 case 'd':
 C4G_ = (int)abs(dHXg3U);
@@ -164,7 +164,7 @@ case 'h':
 
 break;
 case 'i':
-XcH7V25Y &= jq8mo7GF1;
+
 break;
 case 'j':
 Xi61 = (int)floor(w0lnivf);
@@ -174,7 +174,7 @@ L33Oby59a_ = H9PV_t3_();
 break;
 }
 
-a7j1563eX *= eIQJ0cjol;
+
 
 cout << "v_Jk6tt_2" << H9PV_t3_() << H9PV_t3_() << "QRcMGb" << x2Rl45192 << endl;
 if (eiG2o0D58 > 1235336662)
@@ -208,7 +208,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-g62p = kV1_uf08(r5FTTWk8f, -1770590350, LbfDC, gSb5NZW, -1179225154);
+
 break;
 case 'd':
 case 'D':
@@ -242,7 +242,7 @@ case 'b':
 
 break;
 case 'c':
-eIQJ0cjol = HIacPu(eIQJ0cjol, -1493746356, dF2R6L39hc, -1241936764);
+
 break;
 case 'd':
 G8T0 = kV1_uf08(n8Nmrs, XA758cf5, 648115079, cs0pVgmZ, 1389154516);
@@ -254,7 +254,7 @@ case 'f':
 
 break;
 case 'g':
-cs0pVgmZ >>= 1918221546;
+
 break;
 }
 

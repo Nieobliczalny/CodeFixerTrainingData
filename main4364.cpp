@@ -372,7 +372,7 @@ while (j < 5);
 }
 }
 
-nyp_2o6qI *= 1542725148;
+
 
 {
 int i = 8;
@@ -394,7 +394,7 @@ while (j < 10);
 }
 while (i >= 0);
 }
-IAP7hUpXTO ^= 2118294213;
+
 
 {
 int i = 0;
@@ -491,7 +491,7 @@ case 2:
 
 break;
 case 3:
-x35X /= 1363484503;
+
 break;
 case 4:
 mP_hr += z23hz6t;
@@ -509,7 +509,7 @@ break;
 
 
 
-H03aXg = (WLN9 & mFRk1v) ? -1508781239 : -940327150;
+
 
 N_TW4v <<= Fngk0GS0;
 

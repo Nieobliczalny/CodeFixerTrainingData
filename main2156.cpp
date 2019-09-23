@@ -331,7 +331,7 @@ while (j < 8)
 switch (W1057hP)
 {
 case 0:
-M5Z_Uz = w7Ift / 1445272812;
+
 break;
 }
 j++;

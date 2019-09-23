@@ -73,7 +73,7 @@ int main()
   long double  XjvbvsRJS;
   XjvbvsRJS  =  -382216340;
     unsigned int    t94pu_lS;
-    t94pu_lS    =    1291734936;
+
     int    f2CZSbmj;
     f2CZSbmj    =    -915714011;
     unsigned long long    Mk_Tk58l;
@@ -117,7 +117,7 @@ else if (l68PLz != A_9cv9xBBu)
 {
 try
 {
-t94pu_lS = L7OiOew13m(737187130, Iyz0Ve4, -1170306394, 838431016, bAvY);
+
 }
 catch (int& errorCode)
 {
@@ -279,7 +279,7 @@ default:
 
 break;
 }
-YQ3A3PJ = -188540338 / f1_nsw8fag(-556878483, 1560214803, 984851214, 1279808490);
+
 XjvbvsRJS = (int)abs(FpR516);
 
 if (uMaI9kC0h != 246969219)
@@ -353,7 +353,7 @@ case 'c':
 
 break;
 case 'd':
-JdwL5_Cc = uMaI9kC0h << 2090007577;
+
 break;
 default:
 McY4IVB2 = (int)floor(FpR516);

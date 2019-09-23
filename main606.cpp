@@ -46,7 +46,7 @@ int main(void)
   KlAabLJ  =  -597553961;
   R8n4f  =  -118249632;
   S6isk  =  -664128617;
-  EpvPSdgHC  =  -716393508;
+
   vF18G38b  =  -1256867772;
 
   h60nuV8E  =  1146694307;
@@ -205,7 +205,7 @@ case 1:
 il2A = (int)ceil(S6isk);
 break;
 case 2:
-u_s147 = Iin255Kn * 347802284;
+
 break;
 case 3:
 TjhW7vgT = c1Bs * TjhW7vgT;
@@ -323,7 +323,7 @@ case 3:
 S6isk *= qOxn0_2;
 break;
 case 4:
-A3C45m = (int)ceil(c1Bs);
+
 break;
 case 5:
 oYSOo81C = h60nuV8E / 1626487035;
@@ -375,7 +375,7 @@ else
 {
 for (int k = 2; k >= 0; k--)
 {
-OOs1 = (int)ceil(A3C45m);
+
 }
 }
 }
@@ -389,7 +389,7 @@ int j = 1;
 while (j >= 0)
 {
 j--;
-u_s147 = (int)floor(S6isk);
+
 }
 }
 }
@@ -410,7 +410,7 @@ case 3:
 
 break;
 default:
-S6isk *= oYSOo81C;
+
 break;
 }
 S6isk = SF8e - h60nuV8E;
@@ -468,7 +468,7 @@ nSQ2B = (int)abs(vinTF5);
 
 
 
-KlAabLJ = (int)ceil(Wi2O9JpDOq);
+
 cm_pYO = (int)floor(qOxn0_2);
 
 e5ML_re7b7 = (int)ceil(A36N5);

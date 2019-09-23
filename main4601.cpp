@@ -151,7 +151,7 @@ case 3:
 t4_BK1qTn = (int)abs(p2BVdX);
 break;
 case 4:
-I9Wg6bpSi = y2Dn0l ^ HKUR2P;
+
 break;
 case 5:
 AYcC0fAiL4++;
@@ -228,7 +228,7 @@ p2BVdX = QOU0KD + 1323513978;
 break;
 case 'h':
 case 'H':
-L3d6t5Mroh = HKUR2P >> 403949173;
+
 break;
 case 'i':
 case 'I':

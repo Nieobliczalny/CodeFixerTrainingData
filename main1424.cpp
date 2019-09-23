@@ -141,7 +141,7 @@ case 'b':
 
 break;
 case 'c':
-U4boh_ = (int)floor(w1107);
+
 break;
 case 'd':
 L9AV6QD = U3ai(rbY7v, 390865497, v6jR, 58942688, 576875368);
@@ -223,7 +223,7 @@ case 3:
 
 break;
 case 4:
-C91Y97N = Gkrf5 ^ V7rgkek3i;
+
 break;
 case 5:
 RCfy4V = U3ai(128404412, F_r9s, -132322735, 2046513715, RrO83);
@@ -325,7 +325,7 @@ j++;
 }
 }
 
-c81__0yd_x = (int)abs(rbY7v);
+
 
 b__u_yWRl8 <<= Ul5j9924J;
 

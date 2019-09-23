@@ -23,7 +23,7 @@ int main() {
 
  mhuQy3O = -554754670;
  ka02 = -994030932;
- Xq5TOT9 = -1905432763;
+
  cp476Mf = 1296492876;
  sGiqU22m = 1015002065;
  VZ__ = -1064360112;
@@ -67,7 +67,7 @@ int main() {
  z84o30l2 = 1843001094;
  HI5JN = -831137826;
  yZ984tPzg = -1749940602;
- zhBQ4fZ3b = 1259585148;
+
  QHWW = 138044702;
  G1DOi9 = -1061994453;
  fzKJm_ = -648264390;
@@ -364,7 +364,7 @@ try
 switch (bUAu8Pa)
 {
 case 0:
-rNiH2t %= dvoY6qr;
+
 break;
 case 1:
 rNiH2t <<= 996753616;

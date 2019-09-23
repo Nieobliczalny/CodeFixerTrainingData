@@ -53,7 +53,7 @@ int main() {
 	long double	AQwFlB;
 
  unsigned int nsuh2VM;
- nsuh2VM = -1522236416;
+
   long long  BopkNOS;
   BopkNOS  =  -910458096;
     unsigned short int    u7Q8_3S;
@@ -113,7 +113,7 @@ int main() {
   long  KpL6c6;
 
     unsigned long    Yo4PPIz;
-    Yo4PPIz    =    1617049664;
+
   unsigned char  IJ9f634_;
   IJ9f634_  =  -1577860181;
  unsigned char HBV8Z;
@@ -129,7 +129,7 @@ int main() {
   unsigned int  R2fqQ;
 
 	unsigned int	Tvix98gMJy;
-	Tvix98gMJy	=	-1618776191;
+
   short int  yc9tH;
   yc9tH  =  -1193346311;
   unsigned long long  Q7yDNg_Ub2;
@@ -147,7 +147,7 @@ int main() {
 	unsigned short	zdW63;
 	zdW63	=	-1428626973;
 	unsigned char	qh5iw6Hy;
-	qh5iw6Hy	=	2108195070;
+
 	long	Z3UhxHPZl4;
 	Z3UhxHPZl4	=	364746093;
 
@@ -403,7 +403,7 @@ case 6:
 h72m__W &= Pr6Kl;
 break;
 case 7:
-F1Bf = HsX8O59b * 501717343;
+
 break;
 case 8:
 
@@ -418,7 +418,7 @@ break;
 }
 }
 
-jFG6W7c ^= j7Oc;
+
 if (fc5_k8lpBp >= AQwFlB)
 {
 std::cout << UQ5D2 << e_a8 << std::endl;

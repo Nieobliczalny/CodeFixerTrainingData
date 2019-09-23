@@ -42,7 +42,7 @@ int main() {
     unsigned short int    w_32150;
     w_32150    =    -905212251;
  long double DwmYfs;
- DwmYfs = 1958096936;
+
  short s25z;
 
  unsigned long long ark8Y_;
@@ -54,7 +54,7 @@ int main() {
   short int  S399w41p9D;
 
  double GGX0r74;
- GGX0r74 = 749921544;
+
   unsigned short int  Ph77u4XS4;
   Ph77u4XS4  =  1134604;
     long long    Okn_fpw4J0;
@@ -64,7 +64,7 @@ int main() {
 	long double	Y8tYrE9;
 	Y8tYrE9	=	-538014345;
   float  CO6T;
-  CO6T  =  971491186;
+
 	unsigned char	ZeYv;
 	ZeYv	=	-308733952;
   unsigned short int  M1Nd0;
@@ -108,7 +108,7 @@ int main() {
   long  srJNDBK;
 
   short  mV73RGn1;
-  mV73RGn1  =  576912463;
+
     unsigned short    X_9Rz1A;
     X_9Rz1A    =    -1797593407;
 	short int	vMLl;
@@ -398,7 +398,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-DwmYfs = (int)floor(bcJT_Yk8);
+
 break;
 case 'e':
 case 'E':
@@ -432,7 +432,7 @@ case 0:
 GO306tVb = l30p6(892827844, 1050674122, d0dhu31);
 break;
 case 1:
-mV73RGn1 = (int)abs(iiomJ9wuE);
+
 break;
 case 2:
 yLXg3I = l30p6(yLXg3I, Sn7vaO, zOCID);
@@ -688,7 +688,7 @@ else if (B1q7_B9R > -752013841)
 }
 else
 {
-nz3W7Fm6si = wMcK();
+
 }
 }
 }
@@ -709,7 +709,7 @@ case 'd':
 
 break;
 case 'e':
-GGX0r74 = l30p6(-1017034554, 1167438881, Svk_4);
+
 break;
 case 'f':
 N25gNPXp--;
@@ -780,7 +780,7 @@ else if (RJMq)
 }
 else if (CNHoNgM == -562083941)
 {
-ib9e0 = (int)floor(tQeoy);
+
 }
 else if (nU96h22ZlA <= 1571405010)
 {
@@ -836,7 +836,7 @@ if (nU96h22ZlA < Ph77u4XS4)
 {
 
 }
-vZ732Kw = i5F22UE95l(-1353048338, -87376796, MNexx, E32ghN, 1545963760);
+
 iiomJ9wuE = (int)floor(r9wa3z5Igs);
 
 for (int i = 0; i < 2; ++i)
@@ -861,7 +861,7 @@ if (XYrP < -1754504130)
 {
 for (int k = 0; k < 8; k++)
 {
-Lci_mZi4TU = (int)ceil(r9wa3z5Igs);
+
 }
 }
 else
@@ -882,7 +882,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-w_32150 -= pZfu6F085;
+
 break;
 case 'e':
 case 'E':
@@ -893,7 +893,7 @@ case 'F':
 
 break;
 default:
-Lci_mZi4TU = (int)floor(HYgNyj);
+
 break;
 }
 }
@@ -907,7 +907,7 @@ case 0:
 
 break;
 }
-ark8Y_ = (unsigned long long)(U6DET);
+
 
 switch (D028R)
 {
@@ -918,7 +918,7 @@ case 'b':
 
 break;
 case 'c':
-N_d8 = wMcK();
+
 break;
 default:
 xz_Qu = wMcK();

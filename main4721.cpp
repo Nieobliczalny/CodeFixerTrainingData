@@ -336,7 +336,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-EUz5 = (int)abs(MEDXeAnM) + (-1362010510);
+
 break;
 case 'c':
 case 'C':
@@ -437,7 +437,7 @@ int j = 0;
 do
 {
 j++;
-d_q07 = (double)(HlZ6_Qyv61);
+
 }
 while (j < 1);
 }
@@ -484,7 +484,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-Ae0M3_ = (int)abs(j02q_);
+
 break;
 case 'c':
 case 'C':

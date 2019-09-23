@@ -21,7 +21,7 @@ int main(int argc, char** argv)
  unsigned long long fhb__;
  fhb__ = -1843333737;
 	double	i4vLuTDx;
-	i4vLuTDx	=	299643111;
+
     float    B4Q3iQ;
     B4Q3iQ    =    -1532724134;
  long long i4Y_90;
@@ -37,7 +37,7 @@ int main(int argc, char** argv)
   double  v_OiX20y;
   v_OiX20y  =  1668349528;
     unsigned long long    Q7e0_;
-    Q7e0_    =    -347510446;
+
  int n_fKx;
 
  unsigned int zODL;
@@ -51,7 +51,7 @@ int main(int argc, char** argv)
   long long  l6yo0e6;
 
     unsigned long long    TAdqDWO8B6;
-    TAdqDWO8B6    =    1355514214;
+
   unsigned short int  o4hM6_;
 
 
@@ -91,7 +91,7 @@ for (int i = 0; i < 2; ++i)
 {
 i4Y_90 += 1061272352;
 }
-a571WJHHT = X1aU9tb(JuU65aQ);
+
 return 0;
 }
 

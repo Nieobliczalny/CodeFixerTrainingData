@@ -48,7 +48,7 @@ case 3:
 
 break;
 case 4:
-AIPb86xc *= 68162616;
+
 break;
 case 5:
 M0n27s2xe = (int)abs(gz2B);
@@ -85,7 +85,7 @@ SBQjM_h ^= 828752648;
 }
 else if (TnTY == 1327776973)
 {
-mLZQ9_4Q4 = NqCW | uAroN54fL;
+
 }
 else if (LLkqn8P8d < VZbo)
 {
@@ -221,7 +221,7 @@ case 'b':
 
 break;
 case 'c':
-D_3j06dnI = USQ8_1u(1238223530, Div4qjBqD);
+
 break;
 }
 }

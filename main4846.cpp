@@ -414,7 +414,7 @@ case 'F':
 
 break;
 default:
-nWrx86mh = nWrx86mh - Rjhz36Y3;
+
 break;
 }
 }

@@ -137,7 +137,7 @@ at5t = (int)ceil(B0H7QJc);
 break;
 case 'c':
 case 'C':
-L6FqClz -= 684442910;
+
 break;
 case 'd':
 case 'D':
@@ -371,7 +371,7 @@ case 'b':
 
 break;
 case 'c':
-L6FqClz = (int)floor(KfcCt);
+
 break;
 case 'd':
 CM_VjR = IA6Ai * 702378396;
@@ -385,7 +385,7 @@ if (o2z8G2Z5 >= -294536647)
 
 }
 
-K_H3jd6 = (long double)(E668J + (723073697));
+
 
 kfbRo += CM_VjR;
 

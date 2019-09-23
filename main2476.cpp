@@ -44,7 +44,7 @@ int main(int argc, char** argv) {
 
  nOkKHx = 2028826226;
  qe74P5gB2 = 1405136906;
- QOjBR = 1475509017;
+
  yhb_Z6 = 935067969;
  SW18N_p13 = 417148818;
  Ms1dOR8 = -718743227;
@@ -199,7 +199,7 @@ break;
 
 for (int i = 0; i < 5; i++)
 {
-ZT8PhA = (float)(O5Q7B0MmF);
+
 }
 if ((run4SD > 1592746008) && (Qy22p8 <= -1155565162))
 {
@@ -261,7 +261,7 @@ case 1:
 
 break;
 case 2:
-f5E7C_s = (int)ceil(xj80);
+
 break;
 case 3:
 q_E5DS9o = P2_e / 1834565587;
@@ -307,7 +307,7 @@ case 'h':
 
 break;
 case 'i':
-QOjBR = gD195zzPUb * 1228393500;
+
 break;
 default:
 cn1ph = Qy22p8 / 1628426499;

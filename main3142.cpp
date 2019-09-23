@@ -20,7 +20,7 @@ int main(int argc, char** argv)
 	unsigned char	ZraiXjh522;
 	ZraiXjh522	=	-251980605;
  unsigned char f_ZOTGCfyr;
- f_ZOTGCfyr = 1173674750;
+
     char    n2c4ernR;
     n2c4ernR    =    1506062400;
   unsigned short int  hBIthI5d8r;
@@ -34,7 +34,7 @@ int main(int argc, char** argv)
     unsigned long    i_1j67Y;
     i_1j67Y    =    -2128871886;
   unsigned short  AjTj__970;
-  AjTj__970  =  -21628712;
+
  unsigned short NHerY;
  NHerY = 1010786689;
 	float	NfJ8T6W;
@@ -58,7 +58,7 @@ int main(int argc, char** argv)
  unsigned short Si7kKW_3_;
  Si7kKW_3_ = -2090465224;
 	short	JjdWvFb_K6;
-	JjdWvFb_K6	=	213259330;
+
  long long iZsU;
  iZsU = -1496943924;
 	unsigned int	yyuCP_yIV;
@@ -84,7 +84,7 @@ int main(int argc, char** argv)
     unsigned short    us8Jn2pd3d;
 
   unsigned short  tA0Vguuy3X;
-  tA0Vguuy3X  =  2084569027;
+
 	long	gSv9EAyom;
 	gSv9EAyom	=	1486549619;
 	unsigned short int	G9w1j_01k;
@@ -136,7 +136,7 @@ int main(int argc, char** argv)
   short  YAQ5;
   YAQ5  =  1836111724;
  short G_SO7;
- G_SO7 = -1377771377;
+
     int    F_gDl;
     F_gDl    =    -196097774;
   unsigned short  wHt36baY;
@@ -148,7 +148,7 @@ int main(int argc, char** argv)
     unsigned long long    HhWO1;
     HhWO1    =    -948244594;
     double    ty07x9;
-    ty07x9    =    -708542948;
+
 	unsigned short	u_x2d1LY;
 	u_x2d1LY	=	-1930062874;
  float R5u13jU;
@@ -166,7 +166,7 @@ int main(int argc, char** argv)
   long  A7G6GE0;
   A7G6GE0  =  493630440;
     short int    G38_;
-    G38_    =    -942998606;
+
 	float	c6tr;
 	c6tr	=	-1538403678;
     long long    G_11UATcS;
@@ -261,7 +261,7 @@ z4_v = (int)ceil(R5u13jU);
 }
 else if ((NeB7b11mRl != FVN45QZ2w) || (L47608YH < 9056220))
 {
-G38_ = (int)abs(deDK_);
+
 }
 else if ((R5u13jU != -2018502299) || (NHerY <= Jop5oi3))
 {
@@ -290,7 +290,7 @@ case 1:
 
 break;
 case 2:
-mIU_0_x = H4HEl + P6Lwp4H;
+
 break;
 case 3:
 ty07x9 = (int)ceil(c6tr);
@@ -302,7 +302,7 @@ case 5:
 
 break;
 case 6:
-YAQ5 /= 699820249;
+
 break;
 case 7:
 mW6SKkJz = (int)ceil(NfJ8T6W);
@@ -332,7 +332,7 @@ std::cout << IzF1oiA9H << std::endl;
 switch (D3IkD)
 {
 case 'a':
-gSv9EAyom = (int)abs(P86mYeuof5);
+
 break;
 }
 
@@ -406,7 +406,7 @@ catch (int& errorCode)
 b0X6_ = djvG_e_EzD / 797290843;
 }
 
-M3336F_0 %= tS0wRli;
+
 
 for (int i = 0; i < 5; i++)
 {
@@ -466,7 +466,7 @@ case 1:
 
 break;
 case 2:
-P86mYeuof5 = deDK_ % jU9z1y_1;
+
 break;
 case 3:
 NHerY = wHt36baY * z4_v;
@@ -481,7 +481,7 @@ case 6:
 
 break;
 case 7:
-Tl3Gc0xHC = ZraiXjh522 << 1700765339;
+
 break;
 }
 

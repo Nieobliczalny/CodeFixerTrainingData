@@ -52,7 +52,7 @@ int k = 1;
 do
 {
 --k;
-E4VFj_ = n8UFB72QK();
+
 }
 while (k >= 0);
 }
@@ -85,7 +85,7 @@ if (c850_7E7n >= Om8_5C)
 switch (W_k_f1L3Z)
 {
 case 0:
-Om8_5C = fnRC28JI(-827876930, T52W0, yq8ql);
+
 break;
 case 1:
 PQFZ = (int)abs(A139Y8YW);
@@ -449,7 +449,7 @@ j++;
 while (j < 9);
 }
 }
-yq8ql = (long long)(QjcI);
+
 for (int i = 2; i >= 0; i--)
 {
 
@@ -553,7 +553,7 @@ case 2:
 WFDFw3IAO9 = jzn8egva(WFDFw3IAO9, -1836332507, utB_, I9vyWCD);
 break;
 case 3:
-wgGj8FE31 /= 2045656937;
+
 break;
 case 4:
 
@@ -565,7 +565,7 @@ case 6:
 CgU9 /= XJO6O7N4F_;
 break;
 case 7:
-QjcI = c850_7E7n / ro7L0XF702;
+
 break;
 case 8:
 

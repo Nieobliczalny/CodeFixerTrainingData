@@ -223,7 +223,7 @@ case 3:
 K5vt0 = (int)floor(T860LKqM9);
 break;
 case 4:
-kr8d = (int)abs(uG7SK);
+
 break;
 case 5:
 woXN = e_fF(jkycAwyU1, -1844217751);
@@ -280,7 +280,7 @@ case 2:
 
 break;
 case 3:
-dx8SKu <<= k1Wl5gglPc;
+
 break;
 case 4:
 K5vt0 = (S6Z_56s >= 1019568794) ? WAM_y4L : 391876677;

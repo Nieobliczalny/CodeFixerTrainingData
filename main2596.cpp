@@ -26,7 +26,7 @@ int main(int argc, char** argv) {
  unsigned short int g7w3CSk5O, n6ItbHvAZ, O074K, UW3Q_Vz_, C6YmlnShaq, GM12kBcf, iZG_K5B, hKu_c2, aGpHTA, U2hZJ2pWI, e2FRNG, x6pLhJKo, D34D, o0cr9a, y4s3_8AP8B, G4yv_Bui9, jvEdFht9, DnTCeJvR2, yD76197f6, kHKS2d, N58ruaN, XZ0HxmXu8, YFdi0HQ, cuWSPr;
  g7w3CSk5O = -781392918;
  n6ItbHvAZ = 1646237623;
- O074K = -905270150;
+
  UW3Q_Vz_ = -659612577;
  C6YmlnShaq = 1816782469;
  GM12kBcf = -982953148;
@@ -41,7 +41,7 @@ int main(int argc, char** argv) {
 
  G4yv_Bui9 = -1774285688;
  jvEdFht9 = -1429607050;
- DnTCeJvR2 = 724716989;
+
  yD76197f6 = 568968237;
  kHKS2d = -1980716089;
  N58ruaN = 2052329963;
@@ -99,7 +99,7 @@ cout << UW3Q_Vz_ << "Qp91" << endl;
 }
 
 
-o0cr9a %= n6ItbHvAZ;
+
 
 switch (U2hZJ2pWI)
 {

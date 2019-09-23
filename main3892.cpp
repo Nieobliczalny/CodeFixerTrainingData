@@ -26,7 +26,7 @@ int main()
     unsigned long    BDd7n,    w5kULHL,    U_U5UlB3S,    h_OmJW8,    gPsfZXWY1,    yPVj,    oiZ3,    IjCTNPK,    HUA1_BS,    JpF32RDn,    rSf__9065,    g2yt14,    K20Sxj89,    lMiT,    GN6Y9,    Ak8F,    sa0WR,    h11pi2I,    T6fl7p,    R5HvVR,    U5lv82K,    DXvdge1U8,    eA7Z2R_8d8,    XMl9RW,    G25Tg8x5,    Fu5_Mu,    GLmNd45f,    m_ci62,    j1PTs,    pIygjm5M55,    Y03_XO3TQ,    hGY4,    Lcp3cPV9p,    yJQBsJO5K,    tjzy5912,    Go0l503w,    u2s13mVnZ,    ZYuV,    VnoC52Ix,    Q9RV9UYK5,    Kq_1AZB2o3,    el4Mm_,    RRO2nxw_mE,    FONd,    a3w7cSD_j,    p2_wsC,    kq7rbLfc,    g5WPs,    P9FdX0vm3W,    ZWQ9K,    jh09Ms249,    MhM_AJ,    WaY22a,    yZAtx_0mq2,    kDea,    BJ6Ubp_BDk,    KqSZ0WI,    O6u5rh12,    y8L574Q3,    yeR1S9,    p8fHV27F,    V61C1A,    e5dvkAmN;
     BDd7n    =    -789975171;
 
-    U_U5UlB3S    =    1876161100;
+
     h_OmJW8    =    -3703335;
     gPsfZXWY1    =    -1954120980;
     yPVj    =    723647044;
@@ -36,7 +36,7 @@ int main()
     JpF32RDn    =    232141380;
 
 
-    K20Sxj89    =    638762313;
+
     lMiT    =    -1870873393;
     GN6Y9    =    -103299125;
     Ak8F    =    -1687124393;
@@ -53,7 +53,7 @@ int main()
     GLmNd45f    =    -664890477;
     m_ci62    =    103594632;
     j1PTs    =    -1135362928;
-    pIygjm5M55    =    1762757983;
+
     Y03_XO3TQ    =    56435855;
     hGY4    =    492076162;
     Lcp3cPV9p    =    1968644881;
@@ -63,7 +63,7 @@ int main()
 
     ZYuV    =    1532280679;
     VnoC52Ix    =    794011167;
-    Q9RV9UYK5    =    998011783;
+
     Kq_1AZB2o3    =    -1180044260;
     el4Mm_    =    -1339960382;
     RRO2nxw_mE    =    -1761850706;
@@ -121,7 +121,7 @@ case 'c':
 
 break;
 default:
-L85nT1k5p3 = r690a(kDea);
+
 break;
 }
 std::cout << GN6Y9 << "VDb7UW" << r690a(kDea) << std::endl;
@@ -219,7 +219,7 @@ case 2:
 
 break;
 default:
-L85nT1k5p3 = r690a(731799952);
+
 break;
 }
 
@@ -324,7 +324,7 @@ L85nT1k5p3 = r690a(GLmNd45f);
 break;
 }
 
-sa0WR = ui7L9t_9A / L85nT1k5p3;
+
 {
 int i = 2;
 do
@@ -384,7 +384,7 @@ case 5:
 
 break;
 case 6:
-tjzy5912 = h_OmJW8 | 1480506149;
+
 break;
 }
 OXy0G = r690a(BDd7n);

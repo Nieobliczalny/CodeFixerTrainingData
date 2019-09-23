@@ -163,7 +163,7 @@ int main(int argc, char** argv)
     short    ezo6_a;
     ezo6_a    =    -1669632286;
 	char	Z872kFW;
-	Z872kFW	=	1633374136;
+
     unsigned char    B2wPb0r5;
     B2wPb0r5    =    1726046852;
 	long double	RL0Y;
@@ -344,7 +344,7 @@ n7N8 = hW3Qrl1x5(n7N8, -2059680933);
 switch (zkcE0)
 {
 case 0:
-Z872kFW = (int)abs(ZexmN5l9A);
+
 break;
 case 1:
 T73U8P = (int)abs(CPeN10);
@@ -818,7 +818,7 @@ case 'd':
 St_64DmE = t_NsA(RyL366Wa, C4Dea);
 break;
 case 'e':
-gA77_Ktwmw = (int)ceil(iTECsv5);
+
 break;
 default:
 

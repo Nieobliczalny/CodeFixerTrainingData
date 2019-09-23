@@ -92,7 +92,7 @@ case 'b':
 
 break;
 case 'c':
-B1Nt4 = (int)floor(K314Bqx8_);
+
 break;
 case 'd':
 B1Nt4 = (int)ceil(jn_5A9U8x);

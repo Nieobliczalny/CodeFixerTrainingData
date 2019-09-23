@@ -196,7 +196,7 @@ case 5:
 
 break;
 case 6:
-mMHK_2KC = w6N6_B(mMHK_2KC, CR0bTB9, uq1c_xtJ, o6M29n, A5H5y);
+
 break;
 default:
 
@@ -244,7 +244,7 @@ case 'h':
 
 break;
 case 'i':
-v6H5v = w6N6_B(-1291450761, mOt1, CR0bTB9, T0s46o3, eNmK5);
+
 break;
 case 'j':
 n01bs7S_lz ^= u2_M7;
@@ -513,7 +513,7 @@ break;
 
 
 
-UUCuBze = (int)(l5h3M9W);
+
 return 0;
 }
 

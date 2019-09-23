@@ -189,7 +189,7 @@ for (int i = 0; i < 4; ++i)
 LKrO4XS5 = (unsigned long)(p6Ak);
 }
 
-A_R6LfL = (long long)(sdBCFmASKO);
+
 
 {
 int i = 7;
@@ -211,7 +211,7 @@ case 2:
 
 break;
 }
-MMKj833Wny = LM8X6V6X3q / d_heE(523001935, kd3u_zQ, SyjNKKjgi);
+
 
 us15v /= 1673500397;
 

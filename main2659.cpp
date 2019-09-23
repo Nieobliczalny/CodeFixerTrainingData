@@ -197,7 +197,7 @@ case 1:
 
 break;
 case 2:
-Tj65J = Wn7OnoJI & 1216860306;
+
 break;
 }
 
@@ -245,7 +245,7 @@ do
 switch (AAu4__hc2e)
 {
 case 0:
-Tj65J = VgE7S5O_(y3p_2eYyV);
+
 break;
 case 1:
 L4pL6rw5t = l7_3OD % W0qBhk;
@@ -278,7 +278,7 @@ case 2:
 
 break;
 default:
-Bo0xJ083 = (int)ceil(j7t1V);
+
 break;
 }
 i--;
@@ -306,7 +306,7 @@ cx_j--;
 }
 while (i < 4);
 }
-y3p_2eYyV = (unsigned int)(J12EdS03Kh * y3p_2eYyV);
+
 
 {
 int i = 0;

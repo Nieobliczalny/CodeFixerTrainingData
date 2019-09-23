@@ -331,7 +331,7 @@ case 5:
 
 break;
 case 6:
-YU1LFN &= 1775285919;
+
 break;
 }
 }

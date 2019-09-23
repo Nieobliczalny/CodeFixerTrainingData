@@ -118,7 +118,7 @@ case 'f':
 
 break;
 default:
-D_7U >>= r59_9;
+
 break;
 }
 
@@ -136,7 +136,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-rpUZ_ <<= tuLED;
+
 break;
 case 'd':
 case 'D':

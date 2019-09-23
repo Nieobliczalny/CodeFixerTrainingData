@@ -208,7 +208,7 @@ j++;
 switch (ETe4_MVlw)
 {
 case 'a':
-T6TL2 = G__p(-214732271);
+
 break;
 case 'b':
 i0925QB = (int)abs(LgNuI3);
@@ -245,7 +245,7 @@ if ((b_0Y085_i != 1843896702) && (ETe4_MVlw))
 int k = 2;
 do
 {
-joPqz = (IUA74dfz > -2088307879) ? -1377223826 : -391240280;
+
 --k;
 }
 while (k >= 0);
@@ -295,7 +295,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-Sv8ABlHh1l = ETe4_MVlw * 797845569;
+
 break;
 case 'd':
 case 'D':
@@ -370,7 +370,7 @@ case 2:
 o50G_qT = aT0eSQCIAv(pg_xi3zsz, o50G_qT, lQ8Nz5, -239052652, q5Ooa1O8);
 break;
 case 3:
-lQ8Nz5 = aunf5SNj(-450192281);
+
 break;
 default:
 

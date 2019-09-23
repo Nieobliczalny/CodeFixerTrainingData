@@ -167,7 +167,7 @@ case 2:
 C2at5 = xZg9rH % mi7wr8A;
 break;
 case 3:
-J7NMV5_ = (int)floor(Hs8RW);
+
 break;
 case 4:
 
@@ -179,7 +179,7 @@ case 6:
 Hs8RW = n_di7 << 1781155398;
 break;
 case 7:
-R4__3t = (int)abs(dR_2);
+
 break;
 case 8:
 
@@ -223,7 +223,7 @@ if (cRCj5dP1 < S4X1mk5)
 }
 else
 {
-hNEfDL = (int)floor(S32AF5);
+
 }
 
 switch (mM7zf)
@@ -238,7 +238,7 @@ case 2:
 S4X1mk5 >>= C92y8sC;
 break;
 case 3:
-J7NMV5_ = (int)ceil(fm6xPPH5G3);
+
 break;
 case 4:
 
@@ -262,7 +262,7 @@ switch (u51sqCMLW)
 {
 case 'a':
 case 'A':
-kpMv4djyb9 = (int)floor(S32AF5);
+
 break;
 }
 

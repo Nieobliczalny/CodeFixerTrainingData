@@ -45,7 +45,7 @@ int main(void)
  int FB3d;
 
 	unsigned int	F_yJ0;
-	F_yJ0	=	-283329517;
+
   unsigned int  T06fc2Qjl;
   T06fc2Qjl  =  -1911883827;
  short int n_FZ46Lb;
@@ -73,7 +73,7 @@ int main(void)
     short int    jetr4;
     jetr4    =    -2030153692;
     double    rz_9l2;
-    rz_9l2    =    -815948968;
+
     int    QgX7yg6a;
 
     unsigned short    td4478;
@@ -131,7 +131,7 @@ int main(void)
 	unsigned short int	ay9J21WS8e;
 
  short rXcOg116;
- rXcOg116 = -68903976;
+
   int  h21_BB7;
   h21_BB7  =  1766030144;
 	long long	xv8_FK;
@@ -159,7 +159,7 @@ int main(void)
  unsigned long J_jQF92b2;
 
   char  CD0N8r7ZA;
-  CD0N8r7ZA  =  -335943516;
+
 
 if (h21_BB7 < -2056532390)
 {
@@ -181,7 +181,7 @@ case 3:
 OiFS = LYs6x / qkKv4gq9tK;
 break;
 case 4:
-WV__4zmJ = (int)floor(VBx1);
+
 break;
 case 5:
 jetr4 |= C1w0B;
@@ -291,7 +291,7 @@ case 1:
 
 break;
 case 2:
-I3Kg = (int)abs(th8aB);
+
 break;
 case 3:
 wM02qLYu = bUcRjPL - 2112227286;
@@ -306,7 +306,7 @@ case 6:
 td4478 = YS2E4xg(UQ7jZE, 1516012677, YVF44oB7);
 break;
 case 7:
-OiFS ^= Vsj7qqygf;
+
 break;
 }
 }

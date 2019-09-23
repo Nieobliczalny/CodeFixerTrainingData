@@ -28,7 +28,7 @@ int main(int argc, char** argv)
     float    IwQ0NvnLh;
 
     unsigned short int    p47157XoF;
-    p47157XoF    =    -1893255835;
+
 	long	G4U30Q;
 	G4U30Q	=	341572893;
     unsigned char    zl5_5H7dxB;
@@ -46,7 +46,7 @@ int main(int argc, char** argv)
 	long	b2O_C;
 
 	unsigned long long	dL6_PF3x;
-	dL6_PF3x	=	-656650336;
+
     long long    Yi9kI47;
     Yi9kI47    =    0;
     unsigned long long    KDcgqpXMmQ;
@@ -58,7 +58,7 @@ int main(int argc, char** argv)
  unsigned long lPQaFF;
  lPQaFF = -1774119749;
 	float	Y0jzC;
-	Y0jzC	=	252001062;
+
   unsigned int  q37IfExf;
   q37IfExf  =  349929723;
 	int	IP3_s;
@@ -106,7 +106,7 @@ int main(int argc, char** argv)
   char  bE0w3ku9HP;
 
  short int Rzrb2tS08;
- Rzrb2tS08 = 1302789473;
+
     long double    ah_uZon44K;
     ah_uZon44K    =    1874159614;
   char  yOYU43W1;
@@ -126,7 +126,7 @@ int main(int argc, char** argv)
  unsigned char gOW1;
  gOW1 = 600016747;
  double W1EhYpyE8l;
- W1EhYpyE8l = 650995167;
+
  long double r2RUin4;
  r2RUin4 = -1941888121;
     unsigned char    IL7790;
@@ -310,7 +310,7 @@ pf1f52_ = (int)ceil(MjhM);
 
 
 
-H9wos = GSLDi5aw(-1731240476, y0pp, -87729186);
+
 
 return 0;
 }

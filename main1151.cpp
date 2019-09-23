@@ -34,7 +34,7 @@ int main(void) {
     unsigned short    d73aCLW;
 
   unsigned char  ss2WIvLZ;
-  ss2WIvLZ  =  -355481272;
+
  double gsh_;
  gsh_ = 224435776;
 	unsigned short	OE97Q05z52;
@@ -84,7 +84,7 @@ int main(void) {
   char  YGA6;
 
  unsigned long long W8fk;
- W8fk = -1803627627;
+
 	double	ya_Y;
 	ya_Y	=	1591684898;
 	float	NZOKmYo;
@@ -162,7 +162,7 @@ int main(void) {
 	short	bg08;
 	bg08	=	1268701334;
   unsigned short int  GTRQlqj;
-  GTRQlqj  =  -2043494228;
+
 	short	dUMc;
 	dUMc	=	2005971373;
   unsigned long long  nMfSsNf3g;
@@ -202,7 +202,7 @@ int main(void) {
  unsigned short mzQUL0S50;
 
  long double u6BDl2a7CP;
- u6BDl2a7CP = 807094258;
+
 	short	Sb8Kn;
 	Sb8Kn	=	-478059958;
  unsigned long wjn89vv;
@@ -465,7 +465,7 @@ x1fVVu6l8 = (g684x_fnjO) ? 1263413123 : 1396668571;
 }
 else if (((q5S_VIa <= 1364830373) || (L65K_jR_8 >= -1806282226)) && (q5S_VIa == J7mjDQ))
 {
-O6B8 = (int)abs(q5S_VIa);
+
 }
 else
 {
@@ -637,7 +637,7 @@ break;
 
 if (Tp4TU & 1120615974)
 {
-mH6SW = (int)floor(tqW746A);
+
 }
 else
 {
@@ -652,7 +652,7 @@ case 'a':
 
 break;
 case 'b':
-F8y2i = R3cJPyoACb >> SAMo1;
+
 break;
 case 'c':
 
@@ -664,7 +664,7 @@ case 'e':
 
 break;
 case 'f':
-O6B8 = S55vxPN(-546375122) - NZOKmYo;
+
 break;
 case 'g':
 

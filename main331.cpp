@@ -40,7 +40,7 @@ int main(void)
  unsigned long long u18dt_9A;
  u18dt_9A = 1044671007;
 	unsigned short int	XV_48VL8p;
-	XV_48VL8p	=	1802353107;
+
   unsigned short  xDz4ye_3;
   xDz4ye_3  =  -1177870428;
   unsigned short  Da4wr;
@@ -76,7 +76,7 @@ int main(void)
     long long    lDUTwm20H;
     lDUTwm20H    =    -2027389829;
  long double KHPVY;
- KHPVY = 1451668045;
+
     char    bX405eDm;
 
  unsigned short D5Za1M;
@@ -88,7 +88,7 @@ int main(void)
   unsigned short int  SMX2aZ;
 
     unsigned int    Qahbp8e__y;
-    Qahbp8e__y    =    -930011705;
+
 	unsigned int	qvzLAB5;
 	qvzLAB5	=	1577658984;
 	unsigned char	cbP696N;
@@ -223,7 +223,7 @@ case 3:
 
 break;
 case 4:
-j5jN0_ = v01_661Qz();
+
 break;
 case 5:
 TwVL_O92 = W5mCbN78x(-1073249083, mfq6, Lifq_);
@@ -340,7 +340,7 @@ C8U1q8 = W5mCbN78x(C8U1q8, 486219486, xDz4ye_3);
 }
 std::cout << "NETbL71SxR" << kd37ER_8 << "bBQq2" << std::endl;
 d21RF = LR6_y19 * 763232727;
-xDz4ye_3 = asCh8_Mo << 388216756;
+
 if (ihidNGkt != nz0oOwU)
 {
 
@@ -399,7 +399,7 @@ case 2:
 
 break;
 case 3:
-smULfL57q %= VmBIrO;
+
 break;
 case 4:
 wV98u1I = W5mCbN78x(-1457417908, XgKA4tht66, te7twR8Z);
@@ -470,7 +470,7 @@ case 'c':
 
 break;
 case 'd':
-KHPVY = (int)floor(C8U1q8);
+
 break;
 case 'e':
 I7wz2cB = onL0911roU(gLV_Y8, ZA1339d, -1327034502, 1570117845);
@@ -498,7 +498,7 @@ case 2:
 
 break;
 case 3:
-xw1p9 = bBv721 ^ 1498942020;
+
 break;
 case 4:
 O4nSC3s = W5mCbN78x(1160065003, asCh8_Mo, Lifq_);
@@ -574,7 +574,7 @@ BdDR4a = d_6GB3();
 
 
 
-C8U1q8 = (int)abs(te7twR8Z);
+
 return 0;
 }
 

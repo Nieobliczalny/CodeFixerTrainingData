@@ -45,7 +45,7 @@ int main() {
 	unsigned short int	PL1p1xvq_C;
 	PL1p1xvq_C	=	-1799418117;
     unsigned short    pYM2dra_;
-    pYM2dra_    =    -1710413002;
+
  unsigned char CHg1Hr6u0;
  CHg1Hr6u0 = -1010009529;
     short    n65ppv4Bi7;
@@ -81,7 +81,7 @@ int main() {
   short int  OWVQ4oL;
   OWVQ4oL  =  2034169673;
     short    z_ZR;
-    z_ZR    =    307746824;
+
 	char	qgrU_hqpFv;
 	qgrU_hqpFv	=	0;
 	long double	H586;
@@ -109,7 +109,7 @@ int main() {
  short int B9lI8aeFM9;
 
     unsigned int    Qf4I;
-    Qf4I    =    -337952856;
+
  long double rjp4x;
  rjp4x = -1222291051;
     unsigned short    r72Gx5B;
@@ -123,7 +123,7 @@ int main() {
   int  A99CF;
 
 	char	N5Z3q6;
-	N5Z3q6	=	-2094272787;
+
   long double  DuJ5l7Q;
   DuJ5l7Q  =  1020866383;
     unsigned short int    Y78_cf;
@@ -288,7 +288,7 @@ std::cout << XF56r4_3A_(gh1uGlmesK) << "Xa1t7" << t3He8w(22695756, 1725584527) <
 
 p_W0 = (int)(CHg1Hr6u0);
 
-L25s455E = j09mvM0(-348511142, Y78_cf, oSh93jR, Q_UF, zh_45GAt_) / nV34_G;
+
 try
 {
 A4o3FDE = (int)ceil(GEpq19q_91);

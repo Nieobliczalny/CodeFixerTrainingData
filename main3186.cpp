@@ -173,7 +173,7 @@ do
 {
 for (int k = 0; k < 7; ++k)
 {
-i_3E = (int)floor(TLDc);
+
 }
 --j;
 }
@@ -230,7 +230,7 @@ k--;
 }
 else
 {
-i_3E = (double)(C2FtGrK6k);
+
 }
 }
 
@@ -284,7 +284,7 @@ case 'e':
 
 break;
 case 'f':
-VTS4 = (int)abs(DB29_x7);
+
 break;
 }
 }

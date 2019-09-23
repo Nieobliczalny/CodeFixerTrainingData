@@ -90,7 +90,7 @@ int main() {
 	unsigned int	Two9;
 
  long u8M_B4a7o6;
- u8M_B4a7o6 = 1773294403;
+
   double  ZNdNIYm1_O;
   ZNdNIYm1_O  =  1180532735;
  short bEYQdT;
@@ -118,7 +118,7 @@ int main() {
  unsigned short int wbCuyp;
 
 	short	sNQRSE;
-	sNQRSE	=	-1598144436;
+
 	unsigned long	O_GQg7S9;
 
     unsigned short int    AHC8;

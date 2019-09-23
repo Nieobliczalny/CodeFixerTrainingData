@@ -421,7 +421,7 @@ while (i < 10);
 
 if (XJC0f < RvqyC)
 {
-qJrqo = (unsigned long)(RvqyC + (146594901));
+
 }
 else
 {

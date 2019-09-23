@@ -314,7 +314,7 @@ srC_4t = AaF_(-1408966284, O7a6_E, K12W162R);
 }
 FXNnZ94 = (unsigned char)(xJmLU55Bxz);
 
-Vo84zaW = (int)abs(Oyk4);
+
 
 KmymZc0vw2 -= srC_4t;
 
@@ -454,7 +454,7 @@ if (srC_4t >= 1450802221)
 }
 
 
-xR2_T = x0b_ifNqo(xR2_T, u4LZ2o, 1215384372);
+
 
 K12W162R = (long double)(AW26y);
 

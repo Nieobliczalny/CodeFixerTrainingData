@@ -511,7 +511,7 @@ else if (lla_5 & 1460914897)
 {
 try
 {
-QFj_gj2oq2 /= 1530582905;
+
 }
 catch (int& errorCode)
 {
@@ -536,7 +536,7 @@ case 2:
 
 break;
 case 3:
-QFj_gj2oq2 = n67fC % 1044247858;
+
 break;
 case 4:
 gZhS579gv = OSA2BLyaL_ - OSA2BLyaL_;

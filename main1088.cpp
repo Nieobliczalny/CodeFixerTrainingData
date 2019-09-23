@@ -161,7 +161,7 @@ case 1:
 
 break;
 case 2:
-T9L8j83pwF = (int)ceil(Q044X9);
+
 break;
 case 3:
 a3ZYif = o01s8trPI();

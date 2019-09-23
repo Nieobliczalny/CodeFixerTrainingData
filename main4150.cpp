@@ -60,7 +60,7 @@ int main(void) {
 
 for (int i = 6; i >= 0; i--)
 {
-B0HEx = (int)ceil(G119o6l01);
+
 }
 if (Nx3wvy92 != -271431094)
 {
@@ -143,7 +143,7 @@ case 'a':
 
 break;
 case 'b':
-br1J /= 563596838;
+
 break;
 }
 
@@ -159,7 +159,7 @@ while (i >= 0);
 
 
 
-IJX1Zv0mq3 = ZnJvK90_K();
+
 
 c7k_B5piyv = ZnJvK90_K() >> rvMAx6;
 

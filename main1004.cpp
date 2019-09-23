@@ -300,7 +300,7 @@ j6XUNS309W = (int)floor(Ir94Qz3w);
 }
 else if (eGW23GZ2PS)
 {
-p3XDhq >>= TKfOJ649zQ;
+
 }
 else if (eg47hotm & Vo9o5Jm)
 {
@@ -481,7 +481,7 @@ case 5:
 qD0_mAB = GUxpfGVp(-389941877, -715400423, eGW23GZ2PS, dAYA6l);
 break;
 default:
-p3XDhq = (int)abs(D_auJyUy);
+
 break;
 }
 }

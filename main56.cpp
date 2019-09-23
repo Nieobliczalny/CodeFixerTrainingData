@@ -54,7 +54,7 @@ int main(void)
   unsigned short int  LD4T3N;
   LD4T3N  =  -1812627243;
 	long long	ed2m;
-	ed2m	=	-1117007935;
+
     unsigned short int    E8qOndygZ5;
     E8qOndygZ5    =    -257510054;
 	float	FH6YHZ;
@@ -70,7 +70,7 @@ int main(void)
   short  kg980;
   kg980  =  1636708549;
 	unsigned long long	Ly9yM;
-	Ly9yM	=	-16306279;
+
  unsigned short L0s4cfx;
  L0s4cfx = 437694406;
     long double    vOe5mY2w;
@@ -86,7 +86,7 @@ int main(void)
  unsigned long b8Fg67wB;
  b8Fg67wB = -1299591316;
 	unsigned long long	AD6l5n48X;
-	AD6l5n48X	=	-1100901396;
+
  unsigned short int bfjNQ9rMjG;
  bfjNQ9rMjG = 1418476661;
   long long  RegVF;
@@ -108,7 +108,7 @@ int main(void)
   unsigned long  Pka385S41;
   Pka385S41  =  -1858631576;
 	int	yF3Cf_;
-	yF3Cf_	=	-466806054;
+
     short    C70y;
     C70y    =    -492051208;
  unsigned char Ry6_M2L;
@@ -259,7 +259,7 @@ if (S5Y8D3Lg8_ <= 1338635013)
 switch (Td6Pn48e6)
 {
 case 0:
-CkRL8 = SChc7780h7 | 649039610;
+
 break;
 case 1:
 ReatjU = (int)floor(AdL_);
@@ -286,7 +286,7 @@ case 8:
 
 break;
 case 9:
-XH91z7W ^= YBh8fS6TU7;
+
 break;
 default:
 Gh5nT = (int)floor(K9iF);
@@ -358,7 +358,7 @@ case 2:
 
 break;
 case 3:
-C70y = S2c4nxL0 * BWrigVR;
+
 break;
 case 4:
 YBh8fS6TU7 = jkRtpqY2Sf + 340719177;
@@ -403,7 +403,7 @@ if (H2UMaxKxp & S2c4nxL0)
 Pka385S41++;
 }
 
-XH91z7W = (int)abs(FH6YHZ);
+
 
 vOe5mY2w = (int)floor(a0QH082dJ);
 if (QvRY <= 896911488)
@@ -516,7 +516,7 @@ case 1:
 
 break;
 case 2:
-LD4T3N = SChc7780h7 & 76961287;
+
 break;
 case 3:
 Ly9yM = L0s4cfx * HHvsvIFku_;
@@ -531,7 +531,7 @@ case 6:
 
 break;
 case 7:
-iKa86S <<= Ry6_M2L;
+
 break;
 case 8:
 b8Fg67wB = K40Js_q - 93270605;

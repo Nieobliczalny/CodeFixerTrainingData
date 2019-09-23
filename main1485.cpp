@@ -164,7 +164,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-i46Ja_9 = n9eWPNB(p_Sz, IvS5);
+
 break;
 case 'd':
 case 'D':
@@ -191,7 +191,7 @@ case 'I':
 
 break;
 default:
-nIVKw85oMZ = (int)ceil(q5YEJ8St);
+
 break;
 }
 

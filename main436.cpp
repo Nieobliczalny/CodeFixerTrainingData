@@ -52,7 +52,7 @@ cout << "qtbCEh8" << endl;
 switch (fzw77)
 {
 case 'a':
-rJpr4Vi = PtP1q7496 << ZMh9MTh9G5;
+
 break;
 case 'b':
 XYAtmRqYv = (int)abs(hpG4AB_) + (-1547315458);
@@ -70,7 +70,7 @@ case 'f':
 
 break;
 case 'g':
-ZMh9MTh9G5 = PtP1q7496 ^ SL1yk9Y;
+
 break;
 }
 
@@ -88,7 +88,7 @@ case 2:
 MeGPcj7wS = hFr6WpopO << ZRbG;
 break;
 case 3:
-kiC87_371 >>= XYAtmRqYv;
+
 break;
 case 4:
 

@@ -243,7 +243,7 @@ F0rw_E = aBLY1B - 1577491170;
 }
 }
 }
-Ncnx0 = -1905458944 / wYY7zgD_;
+
 
 if (MY20yz <= 1059663633)
 {
@@ -432,7 +432,7 @@ else
 }
 }
 
-MY20yz = (unsigned long long)(ZH_L0pU1b);
+
 
 switch (C_nhyQF_L5)
 {
@@ -455,7 +455,7 @@ case 'f':
 
 break;
 case 'g':
-bTyn = ztSXBN25d2();
+
 break;
 }
 
@@ -505,7 +505,7 @@ case 'G':
 break;
 case 'h':
 case 'H':
-gtT5ueLN /= Md7D;
+
 break;
 default:
 wYY7zgD_ = hb2S0_96H2();

@@ -575,7 +575,7 @@ xGZ091Gc = (int)floor(od_s1b);
 }
 
 
-qw94r += y9sJV478zD;
+
 if (tR46 == Y1jni5)
 {
 {
@@ -604,7 +604,7 @@ case 'd':
 
 break;
 case 'e':
-gug78j %= xW__Lt7W2A;
+
 break;
 case 'f':
 O9Of = (int)floor(lOGDq);
@@ -630,7 +630,7 @@ case 2:
 
 break;
 default:
-qvT5z = OvOW12(QB4h2x7nXe, HgV0L7_zZ, -275510359, yet8MQg, 2013027778);
+
 break;
 }
 }

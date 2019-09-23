@@ -29,7 +29,7 @@ int main() {
  unsigned short int H88eDi;
 
 	char	GgAHOb2YC;
-	GgAHOb2YC	=	0;
+
   double  vZIMvl1;
   vZIMvl1  =  529007678;
     long double    Wk39;
@@ -59,7 +59,7 @@ int main() {
 	unsigned long long	xTchjU;
 	xTchjU	=	1176045366;
     char    Ul3q_J;
-    Ul3q_J    =    -2063391454;
+
   short  z23v8P1;
 
  long BP72aZEY;
@@ -157,7 +157,7 @@ int main() {
   float  P4yPu;
 
 	unsigned long long	R92P;
-	R92P	=	-1595572440;
+
  double YMJaJV;
  YMJaJV = -996547380;
 	char	l4_MX5ghqf;
@@ -363,7 +363,7 @@ if (oK_7ZkI > -239439071)
 {
 if ((Oka9nI_ == GgWa8) && (AFPr4FA_ > 613693760))
 {
-GgAHOb2YC = Zz2suu9(TEqCtw, 1388400163, i_fMtx);
+
 }
 else
 {
@@ -380,7 +380,7 @@ while (j < 10)
 ++j;
 try
 {
-GgAHOb2YC = (int)abs(cdnt) * 0;
+
 }
 catch (int& errorCode)
 {
@@ -469,7 +469,7 @@ case 2:
 
 break;
 case 3:
-Gcy16S6 += 808111404;
+
 break;
 case 4:
 GgAHOb2YC = Zz2suu9(C_9CTQx, QrG8, Eu4d74BzbN);
@@ -498,7 +498,7 @@ std::cout << "sHCs3koQm" << l4_MX5ghqf << "cn48nH91qV" << std::endl;
 }
 for (int i = 0; i < 4; i++)
 {
-GgAHOb2YC = Zz2suu9(-392917758, EmJ8b4n853, -1082732723);
+
 }
 
 I_u2 = ZoHLJ_ << X9vpHN855;
@@ -565,7 +565,7 @@ else if (IyjAlEe2cZ > 223077488)
 }
 else if (D5At0acN8 < 702756576)
 {
-TEqCtw = (int)ceil(Wk39);
+
 }
 else if (HpAw < GgWa8)
 {
@@ -656,7 +656,7 @@ else if (nY26Q0 > ngp_7FEq)
 }
 else if ((biMTnpKqj >= GgWa8) || (yCGk2 >= 2015648624))
 {
-JPrRI |= 1552958884;
+
 }
 else if (eii5w != B22E6EDfrV)
 {

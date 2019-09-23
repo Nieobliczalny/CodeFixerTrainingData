@@ -53,7 +53,7 @@ int main(void)
   char  Xg5fT_33I;
   Xg5fT_33I  =  1630691896;
 	unsigned long long	Yp_Em;
-	Yp_Em	=	578504287;
+
  unsigned int h4lME;
 
   float  ZzW9wSJ;
@@ -91,7 +91,7 @@ int main(void)
     short int    LXV9;
     LXV9    =    -881762841;
   unsigned long  low0;
-  low0  =  1433924411;
+
 	float	zFTO;
 
 	unsigned short int	MYx72_;

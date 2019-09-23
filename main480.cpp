@@ -99,7 +99,7 @@ case 3:
 Nzt_ = uX1_(u6QEwmSY19, 25322105, 1682256111, Y2ZD, iFM4NC0K);
 break;
 case 4:
-GBoEB = uX1_(Y8o4y3O, -1555899098, UaH_E8fci, 1333745584, Cw3O0iZR);
+
 break;
 case 5:
 
@@ -109,7 +109,7 @@ default:
 break;
 }
 rM27d4JOj = uX1_(Y8o4y3O, dLSHBgS1, JCqAbU_3, rM27d4JOj, Nzt_);
-B_346 = VyiXd3d_q / 699683406;
+
 cout << "lcRYU" << I81w << endl;
 
 switch (KqP1)

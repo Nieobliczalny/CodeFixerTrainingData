@@ -119,7 +119,7 @@ i0H0LLg73 = (int)abs(vi5a);
 
 if ((r7Fx_QR7l == iS4BQe1) && (r7Fx_QR7l < 2136249482))
 {
-Pcl5S4uW2H = (int)floor(nxj8h6c9);
+
 }
 else
 {
@@ -162,7 +162,7 @@ case 'f':
 
 break;
 case 'g':
-V978vvjCB = (int)abs(C808McK87);
+
 break;
 case 'h':
 C53Lj09 = zfV2Sd9VP9(1847901141, p71mpIQ_cx, rpQk95U30, 1834332955);

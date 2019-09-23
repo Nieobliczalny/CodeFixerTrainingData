@@ -163,7 +163,7 @@ break;
 }
 R8Ihrj_M = yqZ80dnf2 - QNcnA_LKI;
 
-x8_WQZYXT = (long long)(i4w_QFJh + (-1637385077));
+
 
 TlJ912o6x = hkQHE118I(1687555474, 596050781, jJ5hxUu0a0, OTSS7, Cn3hU5SWd);
 i4w_QFJh = hkQHE118I(-230816484, T48Q0u, o59ej792G, 837713125, -17413519);
@@ -277,7 +277,7 @@ case 2:
 ZPze353 /= 1769163806;
 break;
 case 3:
-TlJ912o6x = hkQHE118I(t1z4DOovB, U5oEu, UhdQ, 1062231859, OTSS7);
+
 break;
 case 4:
 

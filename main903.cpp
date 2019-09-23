@@ -22,7 +22,7 @@ int main() {
   int  Fso_p;
 
  long double Bc3ymqhC;
- Bc3ymqhC = 1348748538;
+
  unsigned int ts2quR2n7;
  ts2quR2n7 = 819129772;
 	long double	Je0yHWc;
@@ -46,7 +46,7 @@ int main() {
 	unsigned int	S3C76YML4;
 	S3C76YML4	=	-513639871;
 	unsigned char	AKi4;
-	AKi4	=	689891189;
+
     long    zkw6QC72;
 
  unsigned char lYrRU6d;
@@ -58,7 +58,7 @@ int main() {
   unsigned int  rf30HQZ;
   rf30HQZ  =  0;
   unsigned short int  UBTYgA0;
-  UBTYgA0  =  0;
+
     unsigned short    JhY_7;
 
   unsigned long long  u9xEo4O8;
@@ -88,7 +88,7 @@ int main() {
 	char	QEwWpr3W2H;
 	QEwWpr3W2H	=	-262984559;
     int    hfLHIK_i;
-    hfLHIK_i    =    -1180548184;
+
   long long  Zs7Y_VP1;
   Zs7Y_VP1  =  -452744398;
  unsigned short int dEr_dFW_S;
@@ -110,7 +110,7 @@ int main() {
 	char	oB5ren1_4;
 
  long double uQ7Q3_k;
- uQ7Q3_k = 1714123867;
+
     char    ON743;
     ON743    =    1367663044;
  double u30_m52aq;
@@ -237,7 +237,7 @@ do
 {
 if (CYFr & -1447732872)
 {
-u30_m52aq = (int)floor(uQ7Q3_k);
+
 }
 else
 {

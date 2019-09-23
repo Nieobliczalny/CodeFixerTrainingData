@@ -25,7 +25,7 @@ int main(void)
 	unsigned long long	nqld8z2D;
 
 	double	E2zx95qT5;
-	E2zx95qT5	=	-657068596;
+
 	unsigned char	LNkNU;
 	LNkNU	=	-949097408;
     double    RNI5k8hj9z;
@@ -41,7 +41,7 @@ int main(void)
  float M86V2N4b;
 
  unsigned int a__QTZ8;
- a__QTZ8 = -1806261958;
+
     double    zlI7n;
     zlI7n    =    1883733072;
     short    Mc962hLrtU;
@@ -103,7 +103,7 @@ int main(void)
   unsigned short int  Wr34D5lQjt;
 
 	char	QylRNk90O;
-	QylRNk90O	=	-991657375;
+
  float chpbBh9;
  chpbBh9 = -1385342500;
     unsigned short    eb7_Yk3;
@@ -121,7 +121,7 @@ int main(void)
  unsigned long dLVH2wL;
 
 	unsigned long	rfqe_;
-	rfqe_	=	274849922;
+
  unsigned long gK71QU2Yq4;
 
     int    EnAE_QOhb;
@@ -139,7 +139,7 @@ int main(void)
     unsigned short int    y51w_2lW4q;
 
   unsigned short  tz7eRq;
-  tz7eRq  =  1527851484;
+
  int cx2xYI_12V;
  cx2xYI_12V = 914246659;
   unsigned short  w_O2kgs;
@@ -149,7 +149,7 @@ int main(void)
   unsigned short int  auj9w89Tny;
 
     long long    Ab9j;
-    Ab9j    =    -45683834;
+
     short    CKqhjjaIk;
     CKqhjjaIk    =    -813507383;
 	long double	JH9ub1Xb;
@@ -161,7 +161,7 @@ int main(void)
  int UFGfCueT;
 
 	unsigned short	D_FQ2K;
-	D_FQ2K	=	-406775406;
+
     short    k5H1;
     k5H1    =    1573525490;
  short EF522;
@@ -344,7 +344,7 @@ bCH0tDBj = RG6_9HP2();
 
 
 cout << 450080033 / N9rbx3 << endl;
-M86V2N4b = wHVZ58K(1678561108);
+
 
 ikv7g7GC1B = (int)floor(Mq16mZFN7);
 

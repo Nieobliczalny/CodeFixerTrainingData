@@ -66,7 +66,7 @@ case 'b':
 
 break;
 case 'c':
-PYS6 = w54l5vq & YlM4TW9;
+
 break;
 default:
 RL_LCkjd = xD_SB076YA(457769707, q7QH, -2049778262, 197751091, -1377032135);
@@ -146,7 +146,7 @@ while (k >= 0);
 }
 }
 }
-tX_5a87L1 = (int)abs(LZ6vUYo);
+
 
 for (int i = 1; i >= 0; i--)
 {

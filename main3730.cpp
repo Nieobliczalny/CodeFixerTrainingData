@@ -23,7 +23,7 @@ int main(int argc, char** argv)
 	Y_Xs8A	=	-540835527;
 	A32F1cT58	=	1149415562;
 
-	pMmjx	=	-505324756;
+
 
 	JtU2	=	1517553643;
 	V9iOH1O	=	1113183851;
@@ -33,7 +33,7 @@ int main(int argc, char** argv)
 	iPo2	=	465438017;
 	VSQK	=	-175092397;
 
-	SIxw5D_E	=	725379639;
+
 
 	eZfAh3hz_7	=	911440059;
 	pK7c	=	-1633845370;
@@ -49,7 +49,7 @@ int main(int argc, char** argv)
 
 
 	Oyupo8f	=	1117543678;
-	Gl18bY75t	=	783413195;
+
 	jt880	=	-955297611;
 	rJJ3LX4927	=	1847070342;
 	j_5L1	=	1674750495;
@@ -62,7 +62,7 @@ int main(int argc, char** argv)
 	AqoMV_	=	1180354516;
 
 	HP4gsAL_m	=	79596402;
-	mfNvb	=	-322177944;
+
 
 	R9J8M	=	491954501;
 	BJu_2i	=	999846437;
@@ -105,7 +105,7 @@ i++;
 while (i < 7);
 }
 
-xdf8fQP = (unsigned short)(lea02);
+
 
 i47raLz = (unsigned short)(tp_jw6a0_J);
 switch (R9J8M)
@@ -117,7 +117,7 @@ case 1:
 
 break;
 case 2:
-Q80D3 = G10zTNguB(1558587606, 1741568089, 382355627);
+
 break;
 case 3:
 Oyupo8f |= i47raLz;
@@ -130,7 +130,7 @@ break;
 
 try
 {
-BJu_2i = (unsigned short)(tp_jw6a0_J);
+
 }
 catch (int& errorCode)
 {
@@ -152,7 +152,7 @@ case 'd':
 
 break;
 case 'e':
-HWC1 &= 1160348846;
+
 break;
 case 'f':
 Gt1z6LH5 = G10zTNguB(O97e, i47raLz, HWC1);
@@ -202,7 +202,7 @@ case 2:
 
 break;
 case 3:
-t7TrTVrl7 += w4n0Nspk4R;
+
 break;
 case 4:
 

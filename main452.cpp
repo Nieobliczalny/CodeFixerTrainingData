@@ -14,7 +14,8 @@ int main(int argc, char** argv)
 		// codechecker_intentional [deadcode.DeadStores] Design rule - initialize all variables
 		oC98go_	=	Q136C40nB	=	jk25lpEH61	=	uacWP	=	KUwZ	=	p38DIb6054	=	e1cTQ07	=	i3t9My	=	P0O2gJ3r	=	yDb81K7Tov	=	vS0MgeVu2	=	j8smBfp	=	pl_80AZpBM	=	g_EuS	=	Inc4v_0	=	qcF2	=	b2Z7xC_g	=	BW9348pr	=	MEMcAPi8bx	=	ihGmurzXbO	=	PlP3sgw6	=	z_q11	=	BXLC6Dh_oJ	=	OWG668	=	onE4K1	=	qHzSOS918	=	QSkb	=	Si16w9Kj54	=	k1CsH_	=	Z9Fwav	=	GP2DustZ_	=	Atg6t	=	E48gOmb0H	=	ExEe3oI	=	m13sG	=	iH_8	=	h04MYJqEM	=	qcnqDT94Vl	=	RDOKHe	=	Cz0Gq6	=	TlP64	=	gb_C3_7_j	=	JbvDi7k_g	=	g98pCLSz	=	Ala3SRzO_1	=	A8S0L6g4	=	o2l_Z	=	f2DyF4	=	ltp2JwvW	=	yrB4R0O	=	jP_bGV	=	WARN9D7EAz	=	YO6593Ky	=	D30_ESz	=	Q47bCL	=	Bdd792	=	S3W_80eL	=	hYhk0	=	ZZ1x4	=	rDAKvN	=	AyNIxAHH	=	G0c4k	=	OZh_	=	e7714	=	QS5Vf	=	T44T8Bf7ro	=	nZtzy	=	R0q89CB8V0	=	LQeeA77	=	JNT9_PyU	=	j3yWyc	=	JmTO	=	tcy2_UiO5	=	RtNKXR	=	txWeeE5r5J	=	iwqK	=	iXYV6Lk_	=	xQCj	=	rhvt5_C781	=	S6hwa_en	=	pneO7o	=	BC4q	=	I0L1c6p3	=	X59pch	=	Gb2j_E	=	e31q	=	O4FF5UT	=	Jw9W6V	=	F6k00	=	XYP4	=	Vtnu47_	=	yMVgW	=	j395jU63	=	f8ZUto	=	MTsATQ	=	an6dg6t	=	vC2MDHO6T	=	oX577Zl	=	1216166963;
   unsigned long long  b89a0,  lnTKIuM1d,  lZuVO,  a06aJ6_f,  c5LOF;
-    b89a0  =  lnTKIuM1d  =  lZuVO  =  a06aJ6_f  =  c5LOF  =  0;
+    // codechecker_intentional [deadcode.DeadStores] Design rule - initialize all variables
+	b89a0  =  lnTKIuM1d  =  lZuVO  =  a06aJ6_f  =  c5LOF  =  0;
 
 
 try

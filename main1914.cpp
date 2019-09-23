@@ -65,7 +65,7 @@ G56v067EUy = GUN6CK2i65 + 1698499216;
 break;
 case 'b':
 case 'B':
-yujFZD = BFGYa9F5 % r5_5B;
+
 break;
 case 'c':
 case 'C':
@@ -145,7 +145,7 @@ tE9IF4G_Ty = (int)abs(kFa5c02);
 }
 else
 {
-hkX2 = mj1Gn + xws4;
+
 }
 
 
@@ -230,7 +230,7 @@ else
 {
 try
 {
-eIM42x = h6EypQa5Pn * 188758602;
+
 }
 catch (int& errorCode)
 {
@@ -335,7 +335,7 @@ case 1:
 
 break;
 case 2:
-GY_xW68vL <<= 1838651503;
+
 break;
 }
 }
@@ -406,7 +406,7 @@ case 'b':
 
 break;
 default:
-GzL7_ = o844Klwuo7 & bC3PQO1J;
+
 break;
 }
 

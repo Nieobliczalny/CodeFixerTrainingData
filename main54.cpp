@@ -140,7 +140,7 @@ case 'b':
 
 break;
 case 'c':
-k0NY_y_ = fXwDBi();
+
 break;
 case 'd':
 rN6D4bo90 = (int)abs(k0NY_y_) * 0;
@@ -152,7 +152,7 @@ case 'f':
 
 break;
 case 'g':
-rN6D4bo90 = (int)abs(X5w03j);
+
 break;
 case 'h':
 k0NY_y_ = kYWbyVag_i(k0NY_y_, 815289911, -199235769) % mXtsO;

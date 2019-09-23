@@ -305,7 +305,7 @@ while (i >= 0);
 
 try
 {
-G_hzpO2bF = (int)(mqwxyX1 * G_hzpO2bF);
+
 }
 catch (int& errorCode)
 {

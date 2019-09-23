@@ -116,7 +116,7 @@ int main(void)
     double    smcv40i;
 
     short    oYRjquON;
-    oYRjquON    =    -1347443875;
+
 	long long	j_76y2PSSz;
 	j_76y2PSSz	=	-749520396;
     unsigned short int    F7diR1;
@@ -128,7 +128,7 @@ int main(void)
     int    EikMW1P6NN;
 
     char    CbKQXAa0g;
-    CbKQXAa0g    =    -1072602504;
+
  unsigned short b8_F8_QbS;
  b8_F8_QbS = 523316605;
 	long long	b_u9o;
@@ -192,7 +192,7 @@ int main(void)
  long double S0BnA;
 
     int    LVVoNefV;
-    LVVoNefV    =    -1780426936;
+
   double  Ahs06oIy;
   Ahs06oIy  =  220664945;
  float Qh72m;
@@ -278,7 +278,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-F7diR1 = p3odMdq1(F7diR1, QEH1BJ5Rq, -1648847427);
+
 break;
 case 'd':
 case 'D':
@@ -294,7 +294,7 @@ case 'F':
 break;
 case 'g':
 case 'G':
-FkoY5 = mTfa9Sz | Z7y6LbcmT;
+
 break;
 case 'h':
 case 'H':
@@ -419,7 +419,7 @@ std::cout << ll5Fbj(-229980990, FQWg, Y6meSGof_u, j_76y2PSSz) << "a_FJS8g" << c5
 std::cout << fnEXV << b_u9o << c53JnG() << ll5Fbj(487280456, 493826244, -862492654, j_76y2PSSz) << FQWg << std::endl;
 std::cout << dV488me << "O1q74t" << mzTot65 << std::endl;
 
-Fn63J = p3odMdq1(-1442139443, 986621712, -226448330) / siDy;
+
 
 if ((IzpckR93b < s95Od) && (ue64K7bI3 < MMlGkjIu1j))
 {
@@ -441,7 +441,7 @@ else
 }
 else
 {
-Ahs06oIy = (int)ceil(aip1);
+
 }
 switch (RrKN89)
 {
@@ -452,7 +452,7 @@ case 1:
 
 break;
 case 2:
-FzoTQJL_ -= 133581429;
+
 break;
 case 3:
 Xpr66Vy_9 = FzoTQJL_ & D8U1e5925;
@@ -464,7 +464,7 @@ break;
 
 if (hnZMKnY_v5)
 {
-VJY79GB = (unsigned int)(I9FhNn24ll);
+
 }
 
 EikMW1P6NN = fi5A & 386402118;
@@ -487,7 +487,7 @@ case 'd':
 PG1idngI7U = ll5Fbj(PG1idngI7U, 2112293237, Nk2_, Xpr66Vy_9);
 break;
 default:
-KI6uj = p3odMdq1(260993558, -2064781981, Xpr66Vy_9);
+
 break;
 }
 }
@@ -510,7 +510,7 @@ case 3:
 
 break;
 case 4:
-d0_1D0 = p3odMdq1(-1579108694, vNXioldXt, vi5WJp1);
+
 break;
 case 5:
 QEH1BJ5Rq *= 1131750606;

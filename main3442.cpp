@@ -34,7 +34,7 @@ unsigned short int uRF2(char j1YF80,unsigned short Bqv1,char DqUXwW81su,long lon
 
 int main(void) {
     short int    A5kP;
-    A5kP    =    0;
+
 	long double	HC5ryR79;
 	HC5ryR79	=	-1861433893;
     unsigned char    ad2_;
@@ -48,7 +48,7 @@ int main(void) {
     float    A7wp9E;
     A7wp9E    =    -1076875135;
  unsigned long qWC4doe8X6;
- qWC4doe8X6 = 709132127;
+
     unsigned long long    nHMvXX;
     nHMvXX    =    1790254151;
     unsigned char    H4G3w;
@@ -84,7 +84,7 @@ int main(void) {
     long double    Ea52DX;
     Ea52DX    =    -306438483;
 	unsigned long	L13SqGoq;
-	L13SqGoq	=	-322089366;
+
  long long ncRat8h4ep;
 
  short paxs00Vp;
@@ -284,7 +284,7 @@ for (int j = 0; j < 2; j++)
 {
 for (int k = 6; k >= 0; --k)
 {
-Ea52DX = (int)floor(pv1yLG);
+
 }
 }
 }
@@ -337,7 +337,7 @@ case 'd':
 xDGe = (int)abs(PcDC);
 break;
 case 'e':
-huxT0BN5h = IRO4BbB96 / aag4pKZ4;
+
 break;
 case 'f':
 yx_8xj2 |= 26864466;
@@ -383,7 +383,7 @@ case 2:
 a98o26VI = HUZ_hJ & 299718412;
 break;
 case 3:
-y1V9U05 = (int)abs(fcC_981HG);
+
 break;
 case 4:
 
@@ -395,7 +395,7 @@ break;
 }
 else if (((eLt01J70nZ == HC5ryR79) && (PcDC <= a98o26VI)) && ((sRWS6A & -381054087) && (xDGe & wgeN3qqe1)))
 {
-IRO4BbB96 >>= 1435176129;
+
 }
 else
 {

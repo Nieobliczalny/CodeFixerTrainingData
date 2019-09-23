@@ -370,7 +370,7 @@ case 1:
 Q5ir9--;
 break;
 case 2:
-x3L5 *= 1877772854;
+
 break;
 case 3:
 DF_0Q93 = bt_L4N9pZ1(-1029392642, lBXDkd4, 584507862, 802391524);
@@ -443,7 +443,7 @@ case 2:
 Jg2FB = (int)abs(ny_IUov0q);
 break;
 case 3:
-YP8Mi = KRmMjD77(1627778001, 2098270355);
+
 break;
 case 4:
 
@@ -529,7 +529,7 @@ lXy0 = (long)(PIp2KD881);
 HJ02HK = eWFU40OGH >> PIp2KD881;
 
 
-Yn42_686 <<= 1176066992;
+
 switch (PIp2KD881)
 {
 case 0:
@@ -557,7 +557,7 @@ case 4:
 Jg2FB = (int)ceil(HH5Kug1);
 break;
 case 5:
-x3L5 = D3sJv3j(-315138719);
+
 break;
 default:
 Wcc9n--;

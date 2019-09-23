@@ -117,7 +117,7 @@ break;
 H847cxI29t *= a0jrU;
 
 std::cout << "rDTfH97Jfl" << hZQ9S7dT8_ << H847cxI29t << wsktzDNvvN << std::endl;
-Dr0H22 = (int)ceil(xwI0dc9U0);
+
 n_Te = (double)(GtU1UkyLfJ);
 if (u6_7 != t8540i59j)
 {
@@ -271,7 +271,7 @@ case 'a':
 
 break;
 case 'b':
-xwI0dc9U0 = (int)ceil(p__0ozk3W);
+
 break;
 case 'c':
 Ki14m1AI = (I9Zbeq_08 == Xl5GR_m4_) ? -625060037 : JYrcD;

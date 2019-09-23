@@ -118,7 +118,7 @@ int main(void)
 std::cout << "z7LRJ1" << std::endl;
 
 
-x9B_g = (int)floor(CogA6j);
+
 
 std::cout << "n6DO24" << OT_AVBkIBl << std::endl;
 
@@ -133,7 +133,7 @@ case 1:
 
 break;
 case 2:
-pBCk >>= 1901118397;
+
 break;
 case 3:
 XuAp4 = ClCk6oz6 << PKNThlr6;
@@ -145,7 +145,7 @@ case 5:
 
 break;
 default:
-txBG = iDZbm04C(mS6YMm7, 791455157, -2140115018);
+
 break;
 }
 zIWU %= 709448521;
@@ -189,7 +189,7 @@ case 0:
 
 break;
 case 1:
-j116Z3tXD = ClCk6oz6 % 171497269;
+
 break;
 case 2:
 
@@ -207,7 +207,7 @@ case 6:
 
 break;
 case 7:
-t27Q7 = iDZbm04C(Fb90p9, Jw9t6pJI_I, OT_AVBkIBl) + JTFU7E;
+
 break;
 case 8:
 tOPM_9JK--;
@@ -218,7 +218,7 @@ break;
 }
 
 
-ZSml8wpCV = K0O_LTmhBu / f5mb00Y0;
+
 return 0;
 }
 

@@ -21,7 +21,7 @@ int main(void) {
 
   fsR6iKquOj  =  1572906520;
   bg6RG  =  850802940;
-  doHqHu  =  -2008557045;
+
   w76JW7J  =  960411870;
   xm5J6D9_9_  =  -89420858;
   TzQowf4KK6  =  -1102723584;
@@ -33,7 +33,7 @@ int main(void) {
   Jl3y_46  =  21912895;
 
 
-  kohx1v  =  -1463346779;
+
   rHp7y  =  742212654;
   kx1Bo8_8  =  -2026130209;
   wNg_  =  -1609299875;
@@ -45,7 +45,7 @@ int main(void) {
   n45Wb  =  -276240008;
 
   byA5791  =  -175820366;
-  N9PT399V  =  -764820443;
+
   oi36  =  743277562;
   UU2DKp  =  317590830;
 
@@ -55,7 +55,7 @@ int main(void) {
   ZfwHYcA  =  -1798235956;
 
   RSjI97j  =  -29262264;
-  UDq0  =  1380319049;
+
   iRl_R1u_s  =  -173299801;
   jCtvfAV__  =  152337303;
   oJnXhpD5  =  1563882208;
@@ -66,7 +66,7 @@ int main(void) {
   DvZwiPpDO  =  317709493;
   qYY3  =  -1975896811;
 
-  lpqR5CqO0  =  188009319;
+
   KCP1Zw576  =  1964943030;
   iuO92  =  -384045018;
 
@@ -76,7 +76,7 @@ int main(void) {
   G5O6709  =  -52679996;
   KCNj5  =  315880561;
 
-  C12iLl_4Cs  =  1303075674;
+
   r53FwZVqM  =  1590491833;
   j0vu  =  -1900291282;
 
@@ -86,7 +86,7 @@ int main(void) {
   DurUMx  =  442821014;
   EkU9G4r0  =  -382878942;
 
-  oL84E4  =  -1959763957;
+
   mOCi91B_t  =  653459735;
   CPGvf7  =  -436315375;
   m2o0H  =  -1135544050;
@@ -96,7 +96,7 @@ int main(void) {
   fq5wO  =  -1916073240;
   yIRkDTl0  =  426883125;
 
-  MFsv9I  =  2061740965;
+
   Sxa0Gh3c3  =  1171276341;
   Q9UGF6  =  443939022;
   x72W  =  -1924164860;
@@ -108,7 +108,7 @@ int main(void) {
   xfwnIK44  =  109164898;
 
   x_U6H  =  2043555415;
-  aqHtO  =  22555126;
+
   MYaB  =  1801023025;
 
   nH6_9_  =  753886274;
@@ -134,7 +134,7 @@ mew4y61r = (e7yIn0 & qHgzhWVt) ? RSjI97j : 888948311;
 }
 else
 {
-N9PT399V = (int)floor(oJnXhpD5);
+
 }
 }
 else if (Nd4NQSnq8v <= -937717394)
@@ -168,7 +168,7 @@ case 1:
 e35v6Dm = (int)abs(x72W);
 break;
 case 2:
-w76JW7J = (int)floor(my50Du);
+
 break;
 case 3:
 DvZwiPpDO -= fsR6iKquOj;
@@ -208,7 +208,7 @@ default:
 break;
 }
 
-DurUMx = rHp7y / e7yIn0;
+
 
 h9nHgZT = (double)(f90SnhCX);
 if (KCP1Zw576)

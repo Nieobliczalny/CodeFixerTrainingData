@@ -68,7 +68,7 @@ case 2:
 
 break;
 case 3:
-BLr0aWj = (i_U_hMDQ2 & 815632309) ? SMn9 : -1293652225;
+
 break;
 case 4:
 NeZ14Cu_ = Vzw_9_8();
@@ -236,7 +236,7 @@ case 2:
 NeZ14Cu_ = Vzw_9_8();
 break;
 default:
-OKXi ^= SBe6_PT0;
+
 break;
 }
 return 0;

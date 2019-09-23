@@ -118,7 +118,7 @@ case 0:
 
 break;
 case 1:
-rx4mwzsQQ = (int)abs(A3oFv);
+
 break;
 case 2:
 xfXz__ = v_yRb8pXBz << 15371617;
@@ -260,7 +260,7 @@ HKSn *= 284686883;
 break;
 case 'c':
 case 'C':
-k2SyVafk = (int)abs(tJ6VL8D);
+
 break;
 case 'd':
 case 'D':
@@ -354,7 +354,7 @@ if (xO9TF <= 1062403344)
 {
 if (Dk5WH >= 1578175127)
 {
-hi6ac8n = nHVru(hi6ac8n, xyngl98L, G1dV6g, v_yRb8pXBz);
+
 }
 else
 {

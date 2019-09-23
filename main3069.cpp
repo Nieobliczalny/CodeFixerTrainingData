@@ -56,7 +56,7 @@ int main() {
 	unsigned short int	lYGC9;
 	lYGC9	=	0;
 	unsigned char	C5gSAB;
-	C5gSAB	=	-1415469198;
+
   long double  M3Jq8QIse;
   M3Jq8QIse  =  -1381931042;
 	short	L1PtBY_C;
@@ -98,7 +98,7 @@ int main() {
   char  a_kJ5_g_4;
 
     long    D8J6;
-    D8J6    =    -719046736;
+
     unsigned short int    L30mHM5;
     L30mHM5    =    1119029608;
     unsigned long    Z5pX;
@@ -128,7 +128,7 @@ int main() {
     long double    GS2pE050;
     GS2pE050    =    311918705;
   short int  NGJ4e;
-  NGJ4e  =  -798394321;
+
   short int  S4FMvBeD;
   S4FMvBeD  =  0;
     long long    w24m88_J6;
@@ -157,7 +157,7 @@ case 0:
 uprZ1p5_c = (int)abs(HN64_jR);
 break;
 case 1:
-NGJ4e = gE_8r(1557822643, -1835348313, ZcVDo508Q, KN1EPl);
+
 break;
 case 2:
 icMo029Qq = mXO7O84V(-1607882170, -2128401930, 296363909);
@@ -186,7 +186,7 @@ else
 {
 try
 {
-NGJ4e = (short int)(eB6__ + (fmE5_xw));
+
 }
 catch (int& errorCode)
 {

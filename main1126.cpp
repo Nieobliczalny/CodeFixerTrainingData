@@ -94,7 +94,7 @@ case 1:
 X1X99p0 = (int)ceil(nSx0Kry6Y);
 break;
 case 2:
-a81zZ1qTy = VaZkf();
+
 break;
 default:
 B82707m = (int)floor(t1v17uG4W);
@@ -241,7 +241,7 @@ case 4:
 
 break;
 case 5:
-Bi0KR4 = (int)ceil(v0na6_);
+
 break;
 case 6:
 qtQh = (int)ceil(MBwtAOpnyK);
@@ -426,7 +426,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-a81zZ1qTy = (int)ceil(pDy477);
+
 break;
 case 'd':
 case 'D':

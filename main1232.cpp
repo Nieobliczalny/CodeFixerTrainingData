@@ -27,7 +27,7 @@ int main(void)
 	unsigned int	qAbX;
 
 	long	R_Y3i0;
-	R_Y3i0	=	-85071325;
+
 	double	PP1_xkXpC;
 	PP1_xkXpC	=	1184899085;
   short  xCvPePDR;
@@ -39,7 +39,7 @@ int main(void)
     unsigned char    hnE77kQj;
     hnE77kQj    =    1789880508;
  char RIbp_k0G;
- RIbp_k0G = 1869379004;
+
  unsigned char uy73V6G;
  uy73V6G = -222353772;
  short int Bq3l8l30Tp;
@@ -51,7 +51,7 @@ int main(void)
  long long T0xD;
 
  unsigned short int fK55;
- fK55 = 907204;
+
     short int    L12y445Q;
 
 	unsigned long long	pfmjTxG1;
@@ -61,7 +61,7 @@ int main(void)
  long vat8Sb8;
 
   short  hHeysO1e0y;
-  hHeysO1e0y  =  -1758274738;
+
   float  aE6F2akJI1;
 
   long  xc_12;
@@ -71,7 +71,7 @@ int main(void)
     unsigned long long    p8TyRV;
 
 	unsigned short int	oC1AHQU5;
-	oC1AHQU5	=	-1432450553;
+
 	long long	WqjCV;
 
 	unsigned long	pL6ih;
@@ -81,7 +81,7 @@ int main(void)
   unsigned long  Aa7Xu;
 
   char  R7gc;
-  R7gc  =  -519820596;
+
   unsigned short  K2PQ29wknm;
 
  unsigned long cfuGaI;
@@ -95,7 +95,7 @@ int main(void)
   float  p4x1I;
 
  unsigned long long wYk81k;
- wYk81k = -1589528847;
+
 	unsigned short	LO0R;
 	LO0R	=	-649050145;
 	unsigned long long	VuskC7;
@@ -105,7 +105,7 @@ int main(void)
     float    zWs_YzO;
 
   long double  e9r3613F7w;
-  e9r3613F7w  =  1153846565;
+
     long double    k4itrQ;
     k4itrQ    =    -1060674794;
     char    r54ZUO_t;
@@ -115,7 +115,7 @@ int main(void)
  long VMWc;
 
     long long    V8Y0;
-    V8Y0    =    -1571250269;
+
 	short	YN4_sZSa1Z;
 	YN4_sZSa1Z	=	2062625614;
     unsigned int    m0jMlfOtQ9;
@@ -125,7 +125,7 @@ int main(void)
 	int	K3R2gMi3pE;
 
     unsigned long long    sa_QyCV1D4;
-    sa_QyCV1D4    =    0;
+
  double KJ59xeV65;
  KJ59xeV65 = -8509587;
   unsigned short  cSnxMFc;
@@ -135,7 +135,7 @@ int main(void)
  unsigned short int n0fXr8q5y;
 
 
-cSnxMFc = Cmytm6_64(cSnxMFc, hnE77kQj);
+
 
 std::cout << JUu6v4t / QCCJu8V9Iu(826566092) << std::endl;
 std::cout << LQ1XsG << "xA4WxY_Y6m" << ba8n_0nZ << z79cxUB(1741821247, -1860399310) << std::endl;

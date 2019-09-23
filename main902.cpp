@@ -117,7 +117,7 @@ case 1:
 
 break;
 case 2:
-MB12B8s1 = Ui1V53 % 1042015455;
+
 break;
 case 3:
 MT4_shS *= Uv8q;
@@ -210,7 +210,7 @@ case 'f':
 
 break;
 case 'g':
-uWiV9239 = i5UEZ + 1878560965;
+
 break;
 case 'h':
 
@@ -237,7 +237,7 @@ case 'b':
 
 break;
 case 'c':
-oJ3R__ = (int)abs(d88087hv);
+
 break;
 case 'd':
 k1_vD |= t231l;
@@ -252,7 +252,7 @@ case 'g':
 
 break;
 case 'h':
-O3_pk = PC2DkW60Pj - 1239103176;
+
 break;
 default:
 YA04J0y67S = j5tg2n7R * FQEl;
@@ -283,7 +283,7 @@ case 'a':
 
 break;
 case 'b':
-QCYrn = (int)abs(vG6IN8d);
+
 break;
 case 'c':
 

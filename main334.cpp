@@ -45,7 +45,7 @@ case 1:
 e0_tb3G = n1m_2luA14(Q_3et, evTWa6T77, et91lAZ, -210532540);
 break;
 case 2:
-wz6rNmUl = i4Y6_ue(wz6rNmUl, Q_3et, et91lAZ, -1108720547, 1808010555);
+
 break;
 case 3:
 
@@ -57,7 +57,7 @@ case 5:
 e0_tb3G = n1m_2luA14(198415781, zTS2lwBjL, -377641354, -611098049);
 break;
 }
-Wveq7 = (double)(Q_3et);
+
 
 std::cout << r_1Ve85OaY << std::endl;
 e0_tb3G = n1m_2luA14(1649122856, RfR627CVlJ, -539012622, e0_tb3G);
@@ -71,7 +71,7 @@ default:
 break;
 }
 
-RKj6q = n1m_2luA14(-2086302760, RfR627CVlJ, 49065908, e0_tb3G) / n1m_2luA14(zTS2lwBjL, RfR627CVlJ, 1494195904, -997350140);
+
 zTS2lwBjL = i4Y6_ue(-2056990829, YcvANWI, -926721403, RfR627CVlJ, 1830701717);
 
 return 0;

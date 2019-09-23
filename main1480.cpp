@@ -42,7 +42,7 @@ int main(int argc, char** argv) {
 	double	VSQu;
 	VSQu	=	-1469260066;
     char    Bq9f7;
-    Bq9f7    =    -1154283478;
+
  long sMXJ;
  sMXJ = -1972546305;
   int  OH7edW;
@@ -76,7 +76,7 @@ int main(int argc, char** argv) {
  long long gs0HOb;
  gs0HOb = -458096922;
   int  vJn30Ms_0;
-  vJn30Ms_0  =  -1966468552;
+
  short l49DRy_D;
  l49DRy_D = 1774895347;
 	unsigned char	I1rNs;
@@ -96,7 +96,7 @@ int main(int argc, char** argv) {
   unsigned short int  Vuni;
   Vuni  =  -1670734241;
 	char	HC8cnWL20;
-	HC8cnWL20	=	-360392791;
+
 	unsigned short int	el39BT;
 	el39BT	=	-1932312256;
   unsigned short  rlFA8n;
@@ -110,7 +110,7 @@ int main(int argc, char** argv) {
 	short	G_2E7R4;
 	G_2E7R4	=	-698253527;
  unsigned long long H_nFo_759;
- H_nFo_759 = -2062111975;
+
     float    LoSbW7I7Sm;
     LoSbW7I7Sm    =    -2105432231;
     short    bL8YZ;
@@ -122,7 +122,7 @@ int main(int argc, char** argv) {
   long double  l5qx;
   l5qx  =  781981435;
  long long cWGZZz4Q;
- cWGZZz4Q = 1770105624;
+
     int    G0m33vy;
     G0m33vy    =    -1090512967;
 	unsigned short int	AIdGD_71mb;
@@ -138,7 +138,7 @@ int main(int argc, char** argv) {
   unsigned int  YHahOG_V;
 
   short  xfnCfX;
-  xfnCfX  =  607597800;
+
     long long    LT5pBx3;
     LT5pBx3    =    1388165202;
  long long gtEvH252E_;
@@ -172,7 +172,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-H_nFo_759 = IZj_r();
+
 break;
 case 'd':
 case 'D':
@@ -224,7 +224,7 @@ while (j < 4);
 while (i >= 0);
 }
 
-ICoxqjw1 = (short int)(bL8YZ);
+
 switch (gs0HOb)
 {
 case 0:
@@ -260,7 +260,7 @@ case 6:
 
 break;
 case 7:
-eaIyi4_1b >>= 433372909;
+
 break;
 default:
 G0m33vy = WvCJ1TL(G0m33vy, A0j566L_);
@@ -280,7 +280,7 @@ cout << "rCaKh" << E2__0n7 << endl;
 
 qkou65T67L = (int)ceil(kag5ebw);
 
-l49DRy_D = W_WpzAZ(l49DRy_D);
+
 
 {
 int i = 0;
@@ -318,7 +318,7 @@ case 2:
 
 break;
 case 3:
-kag5ebw = gtEvH252E_ | rlFA8n;
+
 break;
 case 4:
 nOE_7k1rM = (int)ceil(fnuF);
@@ -344,7 +344,7 @@ while (j >= 0)
 --j;
 if ((BfeTv_ge52 & -1193903544) || (Ds8V66oo < OH7edW))
 {
-sMXJ = W_WpzAZ(TFc51R3s);
+
 }
 }
 }
@@ -358,7 +358,7 @@ case 1:
 
 break;
 case 2:
-MGNSz = x69t_ + rGY9BYHJw;
+
 break;
 case 3:
 zUdC = (int)floor(qkou65T67L);

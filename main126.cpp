@@ -181,7 +181,7 @@ case 'c':
 VE25u = ac5h68n % E8g5;
 break;
 case 'd':
-I3bbd = (int)abs(E8g5);
+
 break;
 case 'e':
 

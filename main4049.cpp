@@ -505,7 +505,7 @@ case 'b':
 
 break;
 case 'c':
-VQRcKAV = (int)floor(x0pr);
+
 break;
 case 'd':
 x0pr = (int)floor(wQWD0V13);
@@ -527,7 +527,7 @@ else
 }
 else
 {
-cKu247pHc = w9xh_45g9Y / T584;
+
 }
 }
 else if (Jk65zl3 < nP_G_7J)

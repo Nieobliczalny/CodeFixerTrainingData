@@ -242,7 +242,7 @@ case 1:
 
 break;
 case 2:
-HG9_ZSt = (int)abs(VKhm7);
+
 break;
 case 3:
 Kw5_ /= CVBqHU3_MW;
@@ -254,7 +254,7 @@ case 5:
 
 break;
 case 6:
-T7_5sd = (int)floor(cJ85n6O2QP);
+
 break;
 case 7:
 VC7Zr70 = Jg_4v(JQVx3u3);
@@ -293,7 +293,7 @@ case 'b':
 
 break;
 case 'c':
-VKhm7 = (int)abs(cOA8qx);
+
 break;
 case 'd':
 smqOR8 = (int)abs(ydq43QEc);

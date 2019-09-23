@@ -38,6 +38,7 @@ int main(int argc, char** argv)
         // codechecker_intentional [deadcode.DeadStores] Design rule - initialize all variables
 		u_4aB    =    RCtVbRsYu    =    Ri0mdv7ETp    =    wMNM    =    VOj_6vg3k    =    VO0bi    =    mXhe472kJk    =    ioIej66    =    euOP    =    x0dA_8o83    =    LNo8IPU9    =    RiE_kx    =    Zuxrt    =    lZwTUA    =    K5xT    =    cuHFSi    =    hBj_9wMKF    =    j4iR_    =    Z65p3921gs    =    qYpKCysy    =    dG6F_24z    =    ICHrX    =    SL_G    =    s86S6    =    BFXT3    =    YjE_nLl    =    bf_5wR1l    =    Uw5X    =    MZfFO1AVz    =    tJ2_    =    E2xgd    =    fGLBT    =    qzK3s    =    DvuZ    =    k1PCF0Q2Y3    =    Fnz7    =    reH3b9    =    Ut9_3QTfN0    =    KVcI6lGaP    =    G8m94C    =    Efl5h26    =    dqEDuu    =    ZLt91A    =    W8qe    =    aB27t    =    U9MI982    =    -2045984543;
 	unsigned long long	GkH30kTB_M,	PNP1Bo7,	CgpEH7mLY8,	h6C31_fQ8;
+		// codechecker_intentional [deadcode.DeadStores] Design rule - initialize all variables
 		GkH30kTB_M	=	PNP1Bo7	=	CgpEH7mLY8	=	h6C31_fQ8	=	0;
 
 try

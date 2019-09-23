@@ -242,7 +242,7 @@ case 0:
 
 break;
 case 1:
-Q2vh = (int)ceil(OTC2zjNY3y);
+
 break;
 case 2:
 
@@ -254,7 +254,7 @@ case 4:
 
 break;
 case 5:
-bpqW = m3_GXV__9 >> Q9pWm54ul;
+
 break;
 case 6:
 
@@ -272,7 +272,7 @@ break;
 
 
 
-jTWXPHrL2f = m3_GXV__9 | wZ3C4559b;
+
 {
 int i = 5;
 while (i >= 0)

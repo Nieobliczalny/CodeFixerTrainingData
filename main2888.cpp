@@ -434,7 +434,7 @@ case 'e':
 
 break;
 case 'f':
-abooirSb = dT_oz - miC2_;
+
 break;
 case 'g':
 

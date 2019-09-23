@@ -76,7 +76,7 @@ int main(int argc, char** argv) {
 	U_PI67q	=	2108230151;
 	Cj6uR	=	1170259009;
 
-	wmf5k1bp	=	104957644;
+
 	gGkhx_2	=	1978828461;
 	DZ9e2oIEs	=	1388874697;
 	Xi3_bL	=	-1718914903;
@@ -365,7 +365,7 @@ if (Q7VQY67jj <= 1049794591)
 switch (tZ2f9m)
 {
 case 'a':
-Xs3rUW |= 517621254;
+
 break;
 case 'b':
 

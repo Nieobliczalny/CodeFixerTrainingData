@@ -151,7 +151,7 @@ case 5:
 
 break;
 case 6:
-dzuA = (PuJ4y8U8at >= Sx8a0) ? SihB_bn_Y : -1578049554;
+
 break;
 case 7:
 
@@ -282,7 +282,7 @@ case 2:
 p_bCU4908 = (int)floor(Plg0_M5);
 break;
 case 3:
-uQSm4bjz >>= bcMsQ6q;
+
 break;
 case 4:
 
@@ -294,7 +294,7 @@ case 6:
 xl59pT >>= PuJ4y8U8at;
 break;
 case 7:
-Es3f5WtM = (int)abs(GI650d909);
+
 break;
 }
 }

@@ -270,7 +270,7 @@ case 6:
 r9nwl2 = (int)abs(c5LRGF);
 break;
 default:
-q0aCSt >>= 1051887665;
+
 break;
 }
 switch (PwTK5a)
@@ -295,7 +295,7 @@ case 2:
 f54R171Uq = vwQnTx3X(-2073590948, -7967466);
 break;
 case 3:
-Lp46 = (int)ceil(xY81);
+
 break;
 case 4:
 mB96ryG = (int)floor(Lp46);
@@ -331,7 +331,7 @@ else if (MAF2 == Ue3X)
 }
 else if (DxnlgI4)
 {
-c5LRGF = vwQnTx3X(-660822235, -1350833841);
+
 }
 else if (N5a_kRPTDy & 1406877241)
 {
@@ -343,7 +343,7 @@ else if (r9nwl2 > DJLMeHn)
 }
 else
 {
-GxI8AVgM |= V_y9xO;
+
 }
 }
 else if (qDltf <= 1223843321)

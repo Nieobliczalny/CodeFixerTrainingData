@@ -611,7 +611,7 @@ p4yB6rbRG = Vo3_ZnUk ^ 508240162;
 
 uoLKCNo = L_87 * 1284293187;
 
-Uw6r9H2Y1 &= 1489210059;
+
 
 for (int i = 0; i < 5; i++)
 {
@@ -706,7 +706,7 @@ case 'e':
 
 break;
 case 'f':
-qe4I = uoLKCNo & 1758453618;
+
 break;
 case 'g':
 CCi8 = (int)abs(B4xF13B4W);

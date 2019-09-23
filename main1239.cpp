@@ -48,7 +48,7 @@ int main(int argc, char** argv)
 	unsigned short int	YcH3;
 	YcH3	=	-629203215;
   float  g9U7h861;
-  g9U7h861  =  -296588623;
+
   long  F4mKXz403;
   F4mKXz403  =  -95187949;
  unsigned short ieNPSq2drI;
@@ -383,7 +383,7 @@ if (v16s8FLIdF != 1056762446)
 
 
 
-m1nhO2rEZp = n3kFqC221g << VeoB;
+
 
 {
 int i = 2;

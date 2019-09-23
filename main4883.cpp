@@ -34,7 +34,7 @@ int main(void)
 
 try
 {
-irPeGtl = jUh13B9r(2097807912, 1923330980, KU6UyaMa2, a4s69, -1337180381);
+
 }
 catch (int& errorCode)
 {

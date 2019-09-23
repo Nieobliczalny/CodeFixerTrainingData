@@ -38,7 +38,7 @@ int main(void) {
  unsigned char jR_RiK1U;
 
  long long zt_JV08;
- zt_JV08 = -988954775;
+
  char E1GDli4;
  E1GDli4 = 755573210;
 	int	MP5g2v_pD;
@@ -62,7 +62,7 @@ int main(void) {
 	long	j56H7;
 	j56H7	=	-1667398287;
   char  gI38Z;
-  gI38Z  =  11161695;
+
  long kb6ns;
  kb6ns = -936797648;
  char GlNR21xScC;
@@ -72,7 +72,7 @@ int main(void) {
  unsigned long y8NoD3u;
  y8NoD3u = -704435407;
   unsigned short  h0AyB;
-  h0AyB  =  -451134938;
+
     long    e2JMVAnB;
     e2JMVAnB    =    136329546;
 	unsigned short int	b_zh2O;
@@ -88,7 +88,7 @@ int main(void) {
   short  df421s;
 
 	long long	T35LjXw1;
-	T35LjXw1	=	417091624;
+
   unsigned long  A4V0QgO;
   A4V0QgO  =  1352856067;
 	unsigned short int	ifa9O;
@@ -100,7 +100,7 @@ int main(void) {
  unsigned int i3JyPIj;
  i3JyPIj = 514545641;
  unsigned short M71J8L;
- M71J8L = 2034006566;
+
  unsigned char Cs_0;
 
   unsigned long long  p_D2ucqJxv;
@@ -122,7 +122,7 @@ int main(void) {
     double    I_ySvWRcB;
 
     double    jhk_7f;
-    jhk_7f    =    -515184509;
+
  long long rV130C;
 
 	unsigned short	a2xL3;
@@ -132,7 +132,7 @@ int main(void) {
 	long long	m6FWi;
 	m6FWi	=	-1553947769;
 	short int	wzZ_7;
-	wzZ_7	=	-112577783;
+
     float    VSwt6ah66m;
     VSwt6ah66m    =    -221333228;
     char    v9eeD91N7;
@@ -164,7 +164,7 @@ int main(void) {
     long    C5lxJwF31;
 
     int    U_qa1t;
-    U_qa1t    =    -1537560511;
+
     unsigned short int    lS9ZhfY;
     lS9ZhfY    =    1147675570;
   char  wazmbOxeRL;
@@ -192,7 +192,7 @@ int main(void) {
     long double    EC3I7n7;
 
 	unsigned int	JtIoVe;
-	JtIoVe	=	-559062748;
+
     unsigned int    OTK_mOV;
     OTK_mOV    =    -2007782146;
     char    N415megF7;
@@ -206,7 +206,7 @@ int main(void) {
 	unsigned long	qNEVVWY15;
 	qNEVVWY15	=	1935532325;
 	long long	Vj9XK7D8md;
-	Vj9XK7D8md	=	1479472075;
+
 	unsigned short int	n60hTF;
 	n60hTF	=	-1135361192;
   unsigned long long  D9706;
@@ -224,7 +224,7 @@ while (i >= 0)
 A3P4860K = K1r8 % ReXISy;
 }
 }
-EC3I7n7 = (int)floor(e1cuk9);
+
 wazmbOxeRL = ReXISy - RG1v5;
 
 YaQ1ujdlY3 = Pa3E9e(b_zh2O, -86719048, ZwHd1f7_4);
@@ -372,7 +372,7 @@ case 5:
 YaQ1ujdlY3 = Pa3E9e(190211979, -1234095451, 1980098243);
 break;
 case 6:
-N415megF7 -= 406683983;
+
 break;
 }
 }

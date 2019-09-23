@@ -53,7 +53,7 @@ int main(void)
     unsigned char    W4FAYuz2;
     W4FAYuz2    =    408122328;
 	unsigned char	s59v;
-	s59v	=	-627628453;
+
  unsigned char FBVun;
  FBVun = 2108855644;
 	unsigned short int	S6A_kN;
@@ -93,7 +93,7 @@ int main(void)
     short int    di8BNAtE;
 
     long double    a6zk_hF7Kb;
-    a6zk_hF7Kb    =    -962072143;
+
   long  RQ3x30;
   RQ3x30  =  -136310141;
   short int  j7oltmD;
@@ -109,7 +109,7 @@ int main(void)
     unsigned int    X_igEQ3d;
 
   unsigned int  jNu_xN7;
-  jNu_xN7  =  305520539;
+
  int WT5I8Yb;
  WT5I8Yb = -1778891838;
   unsigned short  bX0sQ;
@@ -183,7 +183,7 @@ int main(void)
  unsigned char Y86C9;
  Y86C9 = -564872199;
  long double McPKsF4e;
- McPKsF4e = -1698097866;
+
     unsigned short    Pvx019Psq;
     Pvx019Psq    =    1848156751;
     unsigned char    txLZY1B;
@@ -205,7 +205,7 @@ int main(void)
   short int  qpJ5XcA;
   qpJ5XcA  =  1546515938;
 	unsigned int	f5a_RXJ;
-	f5a_RXJ	=	942849066;
+
   short  n9O8;
 
  unsigned short int KBC_2D;
@@ -239,7 +239,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-D4t_n41 = X36k(D4t_n41, -1872251444);
+
 break;
 case 'g':
 case 'G':

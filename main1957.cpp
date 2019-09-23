@@ -117,7 +117,7 @@ while (i >= 0);
 
 
 
-sFgD = a4Dn68B7 / nze2CU8;
+
 if (CU5T > JYYVz7)
 {
 switch (Z85_1T0)
@@ -132,7 +132,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-nze2CU8 = rQo9(iNr4, gAUA1dxX, 573568769, kq5z9N4AFy);
+
 break;
 case 'd':
 case 'D':

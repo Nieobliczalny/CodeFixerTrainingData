@@ -91,7 +91,7 @@ case 'd':
 ur7L6AI = dwv0_vqu1P | D02KZ0;
 break;
 case 'e':
-frCXX *= 1760670248;
+
 break;
 case 'f':
 u7D5Si_8LA |= ts8h_;
@@ -148,7 +148,7 @@ case 3:
 
 break;
 case 4:
-dwv0_vqu1P = jNi0Hs1YuF(1481654435, -269620256, -169751942);
+
 break;
 default:
 frCXX = (int)floor(f69a);
@@ -189,7 +189,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-ur7L6AI = D373xe0(-1887062451, nW7tHw);
+
 break;
 default:
 

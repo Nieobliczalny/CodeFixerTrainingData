@@ -56,7 +56,7 @@ iUyYE = (unsigned short)(jx7_gnf);
 
 
 
-Aic0_0oR = (unsigned int)(gLVPAJ);
+
 Oy1F = gLVPAJ / WwF4k;
 switch (Oy1F)
 {
@@ -160,7 +160,7 @@ case 'd':
 
 break;
 case 'e':
-SaV9tjE_J |= 427606232;
+
 break;
 case 'f':
 Ix02 %= 1532159717;
@@ -174,7 +174,7 @@ KhX4319EL = (int)floor(e9_bH5L);
 
 if ((KhX4319EL == -1151450924) && (CS1AbQ))
 {
-iv_oV79 += 610931078;
+
 }
 
 

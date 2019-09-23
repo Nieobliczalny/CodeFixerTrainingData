@@ -27,7 +27,7 @@ cout << j1WlES << endl;
 
 if (J_1ulTZGg6 == 0)
 {
-	HD4Q65255M = -17238318 / J_1ulTZGg6;
+
 }
 switch (J_1ulTZGg6)
 {
@@ -38,7 +38,7 @@ case 'b':
 ACtY845d4 = (int)ceil(H8q9);
 break;
 case 'c':
-kr3BpPe = (int)abs(HyFR9_f);
+
 break;
 case 'd':
 O7mk57239P = (int)abs(kr3BpPe);
@@ -50,7 +50,7 @@ case 'f':
 z7XN4ViijO = (int)ceil(S2vYgN);
 break;
 case 'g':
-q2eA6S_ = m8xY2e34 - 1975689731;
+
 break;
 case 'h':
 wjV04 = (int)floor(xJP7);
@@ -66,7 +66,7 @@ cout << q1WIJqg << endl;
 }
 else
 {
-ix86 += bm25D;
+
 }
 
 return 0;

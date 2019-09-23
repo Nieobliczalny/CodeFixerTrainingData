@@ -35,7 +35,7 @@ int main(int argc, char** argv) {
  long yYWFso4mWM;
 
 	int	q7c99u2;
-	q7c99u2	=	-1892278839;
+
  unsigned short int P1_1Q2xpdy;
  P1_1Q2xpdy = 0;
   char  EPoJzoSaf;
@@ -51,7 +51,7 @@ int main(int argc, char** argv) {
 	unsigned short int	Pmcd;
 
   double  lyXAiS2P6i;
-  lyXAiS2P6i  =  1044696248;
+
     short    g1278fd8;
     g1278fd8    =    -1579792075;
  double rU_pI9;
@@ -107,7 +107,7 @@ int main(int argc, char** argv) {
     unsigned short int    M3KbiYpEyb;
     M3KbiYpEyb    =    158658963;
 	unsigned short int	WYEy;
-	WYEy	=	1266604214;
+
     short    b2P73r9;
     b2P73r9    =    -323131768;
   short  j49J;
@@ -145,7 +145,7 @@ int main(int argc, char** argv) {
     char    RW_3u6I7V;
     RW_3u6I7V    =    2056319801;
 	long long	azgg574;
-	azgg574	=	1406548604;
+
   double  UM9Iz;
   UM9Iz  =  1417495598;
 	double	Ef_nYHc_l5;
@@ -183,7 +183,7 @@ int main(int argc, char** argv) {
   unsigned short  HIuz;
 
   long long  wlJ9a95Q;
-  wlJ9a95Q  =  1445099184;
+
  unsigned long shCw23eK;
  shCw23eK = -1841074425;
  unsigned short int B2jw_Ig;
@@ -351,7 +351,7 @@ else if (((QqNj_3 > -648918169) || (hOWWw9Q & b5kueY)) && (Eqn1bsHPb & ir3a3BcY)
 }
 else if (kE3C == M3KbiYpEyb)
 {
-hOWWw9Q &= 816454037;
+
 }
 else
 {
@@ -364,7 +364,7 @@ else if (GWJkD4EV)
 switch (SWY1qzgn)
 {
 case 'a':
-EPoJzoSaf /= Eqn1bsHPb;
+
 break;
 case 'b':
 
@@ -376,7 +376,7 @@ case 'd':
 UuI82Rf = W5K6yB(451538896, hJip, NIG0PQJZSl, -779015345, hOWWw9Q);
 break;
 case 'e':
-ir3a3BcY = W5K6yB(200607266, i_h9, -582744721, -2131878819, -963391125);
+
 break;
 case 'f':
 

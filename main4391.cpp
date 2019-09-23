@@ -113,7 +113,7 @@ if (ZKEa610)
 {
 if (M98Dsd4S7W >= 123106066)
 {
-NrgJ21E8hg = (int)floor(g7sJ9apk);
+
 }
 }
 else if (kH11m34iH3)

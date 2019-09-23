@@ -35,7 +35,7 @@ int main(void)
 
 
   VJO9F_e9s0  =  240245861;
-  LTPccm  =  -103873690;
+
   NngCnL0  =  597775986;
   z_dZs7e9  =  -444626855;
   JxXEcS1EK2  =  -888766631;
@@ -66,7 +66,7 @@ int main(void)
 
   eeh6eu  =  1812282293;
   SCYlf2  =  132243303;
-  vo_t_  =  -25156360;
+
   CyWg0UO96K  =  1488629707;
   F6rH  =  1667167287;
   lr9oPG  =  -2118861189;
@@ -398,7 +398,7 @@ case 6:
 
 break;
 default:
-PNxz2yUuI = D6g05iWSpG(PNxz2yUuI, 726422559, 354782565);
+
 break;
 }
 }

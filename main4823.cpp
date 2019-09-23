@@ -579,7 +579,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-G6Wtb97dq = Kb85QN() ^ 1293663903;
+
 break;
 case 'e':
 case 'E':
@@ -620,7 +620,7 @@ case 3:
 fzomT = Kb85QN();
 break;
 case 4:
-e3971801s = (int)abs(xLvgecgp);
+
 break;
 case 5:
 
@@ -732,7 +732,7 @@ case 2:
 w26nnf = Kb85QN();
 break;
 case 3:
-l_3K0Qf_in <<= deV53fK;
+
 break;
 case 4:
 fzomT = Kb85QN();

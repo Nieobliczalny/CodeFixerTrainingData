@@ -133,7 +133,7 @@ int main(void) {
  unsigned short wm3mBT;
 
     unsigned short    Vi_C;
-    Vi_C    =    -696158300;
+
  unsigned short int jLbNW6kQo_;
  jLbNW6kQo_ = 466379069;
   unsigned int  AoscWUv;
@@ -498,7 +498,7 @@ case 'd':
 
 break;
 case 'e':
-D5T9 = dna55(1158876378);
+
 break;
 case 'f':
 Z258kY = (int)floor(rLhGU9_4G5);

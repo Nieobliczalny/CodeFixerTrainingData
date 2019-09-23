@@ -80,7 +80,7 @@ jFfX11J = oM18(L4nR2UE, pa7fD, NL_59w1EcB);
 
 
 
-Ol0Yx7_ ^= nMoi;
+
 switch (B9qXfZQwb)
 {
 case 0:
@@ -102,7 +102,7 @@ case 5:
 
 break;
 default:
-hY6uv1_YT ^= 330438857;
+
 break;
 }
 vYjP9IzW8o = oM18(nMoi, osr8a, 1320704313) << 348010370;

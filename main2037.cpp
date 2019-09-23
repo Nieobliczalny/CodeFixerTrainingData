@@ -165,7 +165,7 @@ int k = 6;
 while (k >= 0)
 {
 --k;
-EwGF2tZ = (int)abs(kJ8MwJEC5o);
+
 }
 }
 }
@@ -463,7 +463,7 @@ else if (Ut5ejvj6 & iCTZZ54)
 {
 try
 {
-EwGF2tZ = FrTV >> 776985449;
+
 }
 catch (int& errorCode)
 {

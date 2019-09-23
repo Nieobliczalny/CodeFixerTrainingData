@@ -145,7 +145,7 @@ std::cout << zKn4PBzR(m9TJ, p9MRy_3, K4rgA_8aV, A4t0MSeQO) << "o7mMf3B_" << std:
 }
 }
 
-P2hI = (char)(cMY_093_);
+
 
 p9MRy_3 = (unsigned long)(Ip5463K);
 {
@@ -176,7 +176,7 @@ case 2:
 KSb2diKE = (int)abs(T1_V0Kz5);
 break;
 case 3:
-Rn8r = (int)abs(KSb2diKE);
+
 break;
 case 4:
 K4rgA_8aV *= z2443v;
@@ -241,7 +241,7 @@ case 2:
 
 break;
 case 3:
-EU2loF3bm9 = xN7sca67W(1650441343, 891318129);
+
 break;
 case 4:
 CXdYadwf = zKn4PBzR(-1407956049, CXdYadwf, -665093547, cwbbqZJY);
@@ -256,7 +256,7 @@ break;
 
 
 
-dYYwaDTa = (char)(nAPG8Q7i1z);
+
 
 z2443v = (int)ceil(rYJ_LAlg2v);
 return 0;

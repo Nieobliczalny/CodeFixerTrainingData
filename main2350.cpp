@@ -25,7 +25,7 @@ int main(void) {
     IIMjtsQ6V1    =    -895174669;
 
     s4Bz    =    -2054271385;
-    Oz5sev    =    -1600557910;
+
     aVX8eCW    =    -1411634027;
     WWO25y    =    -741298095;
     tuX5tH    =    -1694481716;
@@ -185,7 +185,7 @@ case 'b':
 
 break;
 case 'c':
-Oz5sev = XX35(Oz5sev, 41224325);
+
 break;
 case 'd':
 Oz5sev /= 2132930208;

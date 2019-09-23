@@ -90,7 +90,7 @@ case 'c':
 
 break;
 case 'd':
-U2jEy >>= 1166014500;
+
 break;
 }
 }

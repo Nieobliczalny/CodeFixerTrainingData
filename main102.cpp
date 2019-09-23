@@ -140,7 +140,7 @@ try
 {
 if (uCQON != v63L9N7F)
 {
-cvz6L9 ^= eB_9r47yd;
+
 }
 else
 {
@@ -370,7 +370,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-ceUW3OLF43 |= TrgBIG8g;
+
 break;
 case 'd':
 case 'D':
