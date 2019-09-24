@@ -43,7 +43,7 @@ int main(int argc, char** argv)
     unsigned short    e5Cq;
 
  unsigned long long ZmgcBY;
- ZmgcBY = 1121553011;
+
 	unsigned int	QZ_Yz6;
 	QZ_Yz6	=	0;
 	unsigned long long	uZa_h_;
@@ -67,7 +67,7 @@ int main(int argc, char** argv)
     unsigned char    J_g8LS9hl;
 
  short MJHJ;
- MJHJ = -284768650;
+
 	short	kSqy8tW2;
 	kSqy8tW2	=	1189626059;
 	char	m8a3_9;
@@ -81,7 +81,7 @@ int main(int argc, char** argv)
 	unsigned long	xaDNcDG;
 
     unsigned short    enJ3H9kYmj;
-    enJ3H9kYmj    =    -598375523;
+
   unsigned short  d3TVY;
 
     unsigned short    TZ92;
@@ -95,7 +95,7 @@ int main(int argc, char** argv)
     unsigned short int    K89zuKaK;
     K89zuKaK    =    1006991749;
 	float	lXgT;
-	lXgT	=	270654654;
+
  short ty3giB;
 
   long  N1fB299;
@@ -105,7 +105,7 @@ int main(int argc, char** argv)
   unsigned int  uwyy175;
   uwyy175  =  904778642;
 	int	dRSQ0uu1e;
-	dRSQ0uu1e	=	-651693364;
+
 	long	Bg0G1ejT;
 	Bg0G1ejT	=	-861282865;
  unsigned char hqxqO5oc96;
@@ -117,7 +117,7 @@ int main(int argc, char** argv)
     double    VdG8;
 
  long double H487SWK;
- H487SWK = -500455012;
+
  unsigned char gdwg;
 
 	unsigned char	aL_1pjJPA;
@@ -127,7 +127,7 @@ int main(int argc, char** argv)
 	float	BxP9Fb5WF7;
 
   unsigned long long  u__Y_zLj;
-  u__Y_zLj  =  1092619011;
+
     unsigned long    Gag4nx2_;
     Gag4nx2_    =    49285710;
     int    pRtP;
@@ -157,7 +157,7 @@ int main(int argc, char** argv)
   long  PiCg1m0e;
 
   unsigned int  AuAC;
-  AuAC  =  1402366869;
+
 	long long	J_xG;
 	J_xG	=	-1771332461;
     unsigned long    Pg6A;
@@ -187,7 +187,7 @@ int main(int argc, char** argv)
     long long    vXb_1dp9;
     vXb_1dp9    =    -804823844;
  unsigned short p48PeU5rI;
- p48PeU5rI = -143227693;
+
   long double  qIY_B5T2;
 
 	long	KS24QA9Q7;
@@ -284,7 +284,7 @@ for (int j = 0; j < 9; j++)
 {
 try
 {
-H487SWK = (int)floor(uw7AXp);
+
 }
 catch (int& errorCode)
 {
@@ -311,7 +311,7 @@ case 'd':
 
 break;
 case 'e':
-xmZh4b23o3 = Q33MF0t2(xmZh4b23o3, ZWH_0cs_j);
+
 break;
 case 'f':
 QZ_Yz6 = nLYwIB28();

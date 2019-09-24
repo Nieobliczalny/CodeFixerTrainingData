@@ -20,7 +20,7 @@ int main(int argc, char** argv)
   uUt6Asij  =  2068209689;
 
   l31tJ6  =  -787362121;
-  Yz2DPVn_0  =  -1388600453;
+
   qCiCKi  =  2142550291;
   Ir4U  =  -728621994;
   kVsptr  =  1593570641;

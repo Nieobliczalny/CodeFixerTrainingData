@@ -22,7 +22,7 @@ int main()
 	E9p8	=	-303212732;
 
 	KIDI_7	=	1501525272;
-	UTyF5ID	=	-1066220739;
+
 	OwnM_	=	353096910;
 	Q2_40iKcmQ	=	1465972498;
 	T75jzRuS	=	-407222328;
@@ -33,7 +33,7 @@ int main()
 
 	X6g0	=	-2005673147;
 
-	xZX1PT8	=	775480927;
+
 	ayi3lE	=	72530243;
 	U3uGFYJu	=	-1929100289;
 	mObVVy1H_	=	937001487;
@@ -45,7 +45,7 @@ int main()
 
 
 	q3Tyqz2xcp	=	-1924713174;
-	b6A70UAy5	=	-560125583;
+
 	NUP8K6TYB	=	408458071;
 
 	qWm_qPd	=	2002422133;
@@ -55,7 +55,7 @@ int main()
 
 	CtGvz0v2	=	1509179091;
 
-	PH4pe_	=	147780712;
+
 	zCp__6vH	=	332996291;
 
 	yFcW5g0l2v	=	199526063;
@@ -65,7 +65,7 @@ int main()
 
 	XuUpDEAX	=	2025296007;
 
-	K73JXkYF	=	398505726;
+
 	AKnLbYZ	=	1331117638;
 	XwJqc2RJ_4	=	-66289808;
 
@@ -75,7 +75,7 @@ int main()
 
 	l53ws	=	659730691;
 
-	uBb4y	=	-711670202;
+
 	YEaT	=	754895017;
 	z7Ed3vN	=	-872548763;
 
@@ -85,7 +85,7 @@ int main()
 
 	YBg59Y6WDw	=	1947183483;
 
-	vd4d7MlmK	=	72552182;
+
 	r7JA75q35	=	1464501244;
 	d3ELD01Y	=	2123160339;
 
@@ -96,7 +96,7 @@ int main()
 
 
     short int    T42y70wFoJ,    h7_e7,    A7ZzdM;
-    T42y70wFoJ    =    0;
+
     h7_e7    =    0;
     A7ZzdM    =    0;
 
@@ -115,7 +115,7 @@ case 3:
 
 break;
 case 4:
-SqdhB335gZ = (CtGvz0v2 < 758294388) ? KIDI_7 : mS6Z;
+
 break;
 default:
 

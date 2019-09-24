@@ -611,7 +611,7 @@ else if ((rxoO == K45_EYI) && ((eHxvVN == I3J80tz11y) || (vkBivU & -1246138747))
 switch (qT1Ty60)
 {
 case 'a':
-Jy0Ti__ %= K480t__2V;
+
 break;
 case 'b':
 m6pzKW5 = VD2Z7137DO(-826379017);
@@ -732,7 +732,7 @@ case 2:
 
 break;
 default:
-t5wBBj3 = DnhPJ4Hg(t5wBBj3);
+
 break;
 }
 }

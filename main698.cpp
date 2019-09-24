@@ -226,7 +226,7 @@ IxsG = (int)ceil(rW_70LDD);
 
 try
 {
-pXybmfr6Sk = jAIrtV9qz(pXybmfr6Sk, rW_70LDD, -2087145393);
+
 }
 catch (int& errorCode)
 {
@@ -429,7 +429,7 @@ rW_70LDD = r9IO4V(rW_70LDD);
 break;
 case 'd':
 case 'D':
-toQlBE = (int)ceil(ZE9g4);
+
 break;
 case 'e':
 case 'E':

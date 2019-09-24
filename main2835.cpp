@@ -171,7 +171,7 @@ case 2:
 
 break;
 case 3:
-Je16T7x61 %= 62873391;
+
 break;
 case 4:
 
@@ -183,7 +183,7 @@ case 6:
 
 break;
 case 7:
-oY9E *= ASomyf01;
+
 break;
 case 8:
 

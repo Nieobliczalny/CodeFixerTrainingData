@@ -590,7 +590,7 @@ case 4:
 
 break;
 case 5:
-Zq_p3 = (int)floor(RW5Y_q);
+
 break;
 }
 }

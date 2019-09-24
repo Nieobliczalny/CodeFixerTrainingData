@@ -81,7 +81,7 @@ int main(void) {
     unsigned short int    MJ1QQ_;
 
     unsigned long long    K8uaIJF176;
-    K8uaIJF176    =    -1745148556;
+
     long    btoU;
     btoU    =    -1958588557;
   int  bUZ0;
@@ -93,7 +93,7 @@ int main(void) {
 	unsigned char	RIMnH4h;
 	RIMnH4h	=	-387178701;
  float M3aQ;
- M3aQ = -1283673319;
+
     short    glw46R5ep;
     glw46R5ep    =    144347200;
  short int vkz90no5;
@@ -260,7 +260,7 @@ case 4:
 jP_MoYV6 = RE5M62(jP_MoYV6, 1487515239, 2010708048, kXN4PaP);
 break;
 case 5:
-M3aQ = (int)ceil(c3s_jX);
+
 break;
 case 6:
 uO39xT = (int)ceil(Ta7XH5y0);
@@ -558,7 +558,7 @@ case 'd':
 
 break;
 case 'e':
-PT7R3YY3 = EHk9();
+
 break;
 case 'f':
 
@@ -593,7 +593,7 @@ do
 {
 if (OQs4 > -1520534222)
 {
-c3s_jX = (int)floor(INa77hv94);
+
 }
 else if (pC_X5c0gp == tHP_jtE)
 {
@@ -719,7 +719,7 @@ case 'd':
 
 break;
 case 'e':
-Ep_z = K8uaIJF176 % 164602439;
+
 break;
 case 'f':
 
@@ -731,7 +731,7 @@ case 'h':
 
 break;
 case 'i':
-y0ZT = RSczR_o << 2087988206;
+
 break;
 case 'j':
 

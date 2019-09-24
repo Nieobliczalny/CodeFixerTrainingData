@@ -23,7 +23,7 @@ int main() {
 	unsigned long long	S1fh;
 
   long double  u66Uc836;
-  u66Uc836  =  -797309194;
+
   unsigned short int  Zj0P1pSr;
   Zj0P1pSr  =  0;
 	long	DL3Qz;
@@ -35,7 +35,7 @@ int main() {
     short    N9ng4_x;
 
  char nINvVJ;
- nINvVJ = 708119849;
+
     unsigned long long    I4CqU;
     I4CqU    =    -1869628901;
  float w9LtgMI8;
@@ -49,7 +49,7 @@ int main() {
 	unsigned short int	CJR1F211;
 
 	unsigned char	FErwnJ;
-	FErwnJ	=	0;
+
     unsigned long    s1YJY;
     s1YJY    =    252326487;
 	float	k872yuR8;
@@ -61,7 +61,7 @@ int main() {
 	unsigned int	fDiGJPnjQ;
 
 	short	GGrX;
-	GGrX	=	2081776880;
+
  float Ux3H5e_;
 
 	char	Qgc8;
@@ -77,7 +77,7 @@ int main() {
 	float	t386bq25;
 
 	int	Qz7Pc;
-	Qz7Pc	=	1891919279;
+
   short  R2UM_V0776;
 
   char  wSp1i71dhP;
@@ -93,7 +93,7 @@ int main() {
   char  Q8ofQf30e0;
   Q8ofQf30e0  =  1991906440;
   long double  bP73s;
-  bP73s  =  -242486604;
+
 	unsigned short int	dvm169EJ6;
 
  unsigned short MLhrltu9U;
@@ -103,7 +103,7 @@ int main() {
 	unsigned long long	FFIY_0;
 	FFIY_0	=	1779649932;
   double  k4__J1Q;
-  k4__J1Q  =  731894487;
+
     unsigned short int    mmY57p3i5;
 
     short int    w0qGI6;
@@ -113,7 +113,7 @@ int main() {
     short int    A9aA5;
     A9aA5    =    -1423807979;
 	unsigned long long	x5QoSj6n_;
-	x5QoSj6n_	=	1355101536;
+
     unsigned short    ZPq8H1z;
 
   unsigned long  N63R2xy;
@@ -123,7 +123,7 @@ int main() {
   long double  z3HfDWR0wP;
   z3HfDWR0wP  =  -561588066;
   float  NN1Fh;
-  NN1Fh  =  531917346;
+
     long long    XaG67h2TQh;
 
     short    C530YM_TJ;
@@ -133,7 +133,7 @@ int main() {
   double  ieO9k;
   ieO9k  =  2051792093;
   short  juQq5;
-  juQq5  =  -711124166;
+
   unsigned long long  o764gxckZ6;
 
 	unsigned long long	L25k;
@@ -143,7 +143,7 @@ int main() {
     long double    hhNrS5;
 
   char  vklSUs;
-  vklSUs  =  2125365173;
+
   int  gTKE2Y7z8;
 
  double HIX8tka4;
@@ -153,7 +153,7 @@ int main() {
     unsigned short    UFmlV32;
 
   unsigned int  TW0e6K;
-  TW0e6K  =  -136550116;
+
   int  yx_f5V;
 
     long    BJlH;
@@ -163,7 +163,7 @@ int main() {
     unsigned long long    tD_C9a;
 
 
-w9LtgMI8 *= FFIY_0;
+
 cout << "H_06F4LA" << rEN_Lrd79 << HIX8tka4 << "o66GbzHtZ" << "d843449" << endl;
 
 

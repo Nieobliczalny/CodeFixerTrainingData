@@ -201,7 +201,7 @@ i--;
 while (i >= 0);
 }
 
-WFzo = (char)(i9y29);
+
 switch (F7Cf6z_H0S)
 {
 case 'a':
@@ -246,7 +246,7 @@ while (j < 1)
 j++;
 if (YoHR_7Bc)
 {
-WFzo = (int)abs(ZNAW0Qhwc);
+
 }
 else if (((jGoszW4P >= Q59_) || (C4jS394 & 1954684408)) || (SyPCP_7KnQ & -1894187608))
 {

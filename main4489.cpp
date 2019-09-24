@@ -32,7 +32,7 @@ int main(void)
   QzW6Z5r8  =  -1881720703;
 
   LNnCNE  =  -297227515;
-  cy9lF  =  656769114;
+
   TA4B  =  1494094638;
   Mpg1E16ua  =  1522737558;
   v9sg2ZuNu8  =  -16091772;
@@ -104,7 +104,7 @@ int main(void)
   O4HT_rQB55  =  31191397;
 
   D2yGy2Rpmh  =  -1780019176;
-  z98e_FmM  =  -521657840;
+
   lK_g  =  -1170473855;
 	long	r1AM35_fK,	TYzD63n7,	PlhMv4HH8;
 	r1AM35_fK	=	0;

@@ -144,7 +144,7 @@ case 'a':
 
 break;
 case 'b':
-bf9H9 *= zmws25oI6p;
+
 break;
 case 'c':
 p604A9Ru |= dQZ8vH8Xs;
@@ -162,7 +162,7 @@ case 'g':
 
 break;
 case 'h':
-hxF58S6O = (q58Rh20TA == -959178288) ? 600765256 : YBTxQ;
+
 break;
 case 'i':
 bf9H9 += fk_1r2T;
@@ -195,7 +195,7 @@ case 'c':
 TabvV = kW_SW299_ + ETj_6rh;
 break;
 case 'd':
-ohDenp &= iX2PH7;
+
 break;
 case 'e':
 l0Y1ow = d0PiwAs | 1440848193;

@@ -80,7 +80,7 @@ int main(int argc, char** argv) {
  unsigned short int SXRH;
  SXRH = 1303389757;
   long long  aI88b_29_r;
-  aI88b_29_r  =  -1353712635;
+
   long double  G26GtSG9Y9;
   G26GtSG9Y9  =  -1171940380;
  long double sL5E97Bn;
@@ -130,7 +130,7 @@ int main(int argc, char** argv) {
 	int	RltkRvSZmv;
 	RltkRvSZmv	=	-1871028116;
     short int    e6GC;
-    e6GC    =    -1826467097;
+
 	long double	T2fFfJEx;
 	T2fFfJEx	=	-1595764421;
     long double    v_91v_5;

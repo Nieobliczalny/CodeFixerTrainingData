@@ -65,7 +65,7 @@ int main()
     unsigned short    snZe51_;
     snZe51_    =    -1475880512;
   int  zqAgP;
-  zqAgP  =  -796690050;
+
     unsigned int    MR2Z7UwQ5I;
     MR2Z7UwQ5I    =    -698448094;
     short    kz0a8xp6;

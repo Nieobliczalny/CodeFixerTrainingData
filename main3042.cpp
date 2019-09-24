@@ -27,7 +27,7 @@ int main()
 	int	XF_d;
 	XF_d	=	1770392934;
   short  j56CBA;
-  j56CBA  =  1535300675;
+
   long long  Sg_U_;
 
 	char	QwOD;
@@ -37,7 +37,7 @@ int main()
  unsigned long long VtKb;
  VtKb = 0;
     long double    ugG1;
-    ugG1    =    2106009696;
+
 	int	kgi6HYj_W;
 	kgi6HYj_W	=	-1503317848;
 	char	D6qAP;
@@ -71,7 +71,7 @@ int main()
 	long	J1ml2;
 
  long long IaYC;
- IaYC = 715676852;
+
  unsigned int Ujr9K40mi;
  Ujr9K40mi = -2080105030;
   double  DfYCz;
@@ -95,7 +95,7 @@ int main()
 	double	s2_7bgWH5P;
 
   unsigned int  Rlatj;
-  Rlatj  =  -1199501799;
+
   int  XEa2I;
   XEa2I  =  1923666213;
   double  hG5Z;
@@ -109,7 +109,7 @@ int main()
   long  P3Apg_p_S;
   P3Apg_p_S  =  1348450418;
  unsigned char ccepeh;
- ccepeh = -1992504608;
+
 	short	Y4_EAvefW;
 
   char  e_Wtg4zD;
@@ -125,7 +125,7 @@ int main()
  unsigned short int j1n37dc;
 
  unsigned short int ayrM2L;
- ayrM2L = -1043365374;
+
   long  yOw_542;
   yOw_542  =  -552779742;
     short    Kw2SUPB_4_;
@@ -145,7 +145,7 @@ int main()
     unsigned short    B57xphC9gU;
     B57xphC9gU    =    -2029411135;
     long double    c3o535;
-    c3o535    =    1443419490;
+
   short int  vQ5kg;
 
     unsigned short    i7ebN_96e9;
@@ -165,7 +165,7 @@ int main()
     long    b0Q323;
 
 	long long	KPiERS5Ij;
-	KPiERS5Ij	=	-1946740142;
+
 	unsigned long	xTafnzG;
 	xTafnzG	=	-1336147123;
  unsigned long long S5hEAO;
@@ -183,7 +183,7 @@ int main()
  unsigned int L4Se7;
 
  char dzq5;
- dzq5 = -661575751;
+
 	long double	bSR79LVnn1;
 	bSR79LVnn1	=	1724397260;
   double  T35G35a;
@@ -351,7 +351,7 @@ break;
 }
 std::cout << "o49uU" << m9D0 << e0RI036Pg() << e0RI036Pg() << std::endl;
 
-cwCQ579 = (long)(Jhn6c5F4);
+
 {
 int i = 0;
 do

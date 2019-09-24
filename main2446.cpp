@@ -83,7 +83,7 @@ int main()
     unsigned char    C8jeFgFC;
 
  short KDj6BLrf4;
- KDj6BLrf4 = -1826179906;
+
  unsigned int k9xn8xO;
  k9xn8xO = 599936020;
  unsigned long wrEs987;
@@ -145,7 +145,7 @@ int main()
  float CnL0cM8YVw;
  CnL0cM8YVw = -1502571789;
     unsigned char    XJTaR;
-    XJTaR    =    1944341333;
+
   unsigned long long  qFftv;
   qFftv  =  -1713540450;
   int  tmCC;
@@ -197,7 +197,7 @@ int main()
   long  haGeZop1f;
 
   unsigned char  WGFhcf;
-  WGFhcf  =  669145162;
+
 	int	W_XtvY28t;
 	W_XtvY28t	=	274683263;
   long double  In296IqTJ;

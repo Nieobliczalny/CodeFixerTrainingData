@@ -376,7 +376,7 @@ do
 int j = 3;
 do
 {
-Cb4_jTx = (unsigned char)(PrKMTGpK);
+
 j--;
 }
 while (j >= 0);

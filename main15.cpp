@@ -21,7 +21,7 @@ int main(void)
     long double    yrsf_i5MvT;
 
     unsigned int    IInpFTn;
-    IInpFTn    =    109906491;
+
     long long    bIbt5ar;
     bIbt5ar    =    1109151808;
   int  VIW27e34B0;
@@ -39,7 +39,7 @@ int main(void)
     unsigned short int    fZq2XGgd;
 
     float    JQ6V860;
-    JQ6V860    =    -1253549485;
+
  long double uS11BoO;
  uS11BoO = -385135599;
 	unsigned short int	v7_ho_G0I;
@@ -51,7 +51,7 @@ int main(void)
     unsigned long long    P9f0G86Pg9;
     P9f0G86Pg9    =    -898225025;
  float N0Ihn;
- N0Ihn = -2023747967;
+
 	unsigned short	nS_X000c;
 	nS_X000c	=	1510815067;
  short JvXw_7;
@@ -63,7 +63,7 @@ int main(void)
  unsigned short a4XGY;
  a4XGY = -146069466;
   float  b8bnWA16_;
-  b8bnWA16_  =  -1139966600;
+
     unsigned short int    DH3g056M;
 
     short    V695;
@@ -73,7 +73,7 @@ int main(void)
   unsigned int  Yd_4;
   Yd_4  =  -1647674562;
   unsigned short  XX34x;
-  XX34x  =  -1594780941;
+
 	double	A8dM;
 
  double DgY4;
@@ -83,7 +83,7 @@ int main(void)
  float pG_ewL;
 
 	float	glR_VMFuXB;
-	glR_VMFuXB	=	1505458382;
+
  unsigned short int HDb0uHjJ;
 
   long  T0__wirQO_;
@@ -93,7 +93,7 @@ int main(void)
  long double fEzx8AV2;
  fEzx8AV2 = -489398383;
  unsigned long C_786kpt;
- C_786kpt = 202588099;
+
 	char	p2HU2TsbF_;
 
     short int    zmO_N0;
@@ -111,7 +111,7 @@ int main(void)
  short W35F5VRk6;
 
   unsigned long long  whBT3;
-  whBT3  =  -2044925335;
+
     unsigned short int    jz7_PMegg;
     jz7_PMegg    =    -118950508;
 	unsigned int	JuB99;
@@ -121,7 +121,7 @@ int main(void)
   unsigned char  n6B_FWF4;
 
   unsigned int  H761o;
-  H761o  =  0;
+
   int  DfG0_woT;
 
 	short	xA06Y;
@@ -131,7 +131,7 @@ int main(void)
   float  R_8iwQ_;
 
  unsigned long jP118s;
- jP118s = 524073462;
+
 	float	o05MjVw;
 
  short i__i5d63S;
@@ -145,7 +145,7 @@ int main(void)
   unsigned long long  V1y5;
 
     unsigned short    mlrM;
-    mlrM    =    1424003953;
+
 
 
 
@@ -166,7 +166,7 @@ case 'd':
 
 break;
 case 'e':
-yrsf_i5MvT = (int)floor(j0LCfjw);
+
 break;
 case 'f':
 
@@ -223,7 +223,7 @@ case 3:
 
 break;
 case 4:
-a4XGY /= 452469814;
+
 break;
 }
 return 0;

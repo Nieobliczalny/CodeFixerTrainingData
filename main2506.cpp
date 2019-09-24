@@ -301,7 +301,7 @@ case 5:
 
 break;
 case 6:
-rtj7ef53 = (int)ceil(eymQrMsp);
+
 break;
 case 7:
 

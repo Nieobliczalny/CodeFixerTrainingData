@@ -759,7 +759,7 @@ int k = 6;
 do
 {
 --k;
-Q5HX_ = (int)floor(qcNp30YAnp);
+
 }
 while (k >= 0);
 }

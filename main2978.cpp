@@ -85,7 +85,7 @@ if (D0k03 < He_6U)
 }
 else
 {
-U1pCni_ = AwsKE * 1960492779;
+
 }
 }
 }

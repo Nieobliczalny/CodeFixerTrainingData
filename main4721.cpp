@@ -340,7 +340,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-EUz5 = (int)ceil(d_q07);
+
 break;
 case 'd':
 case 'D':

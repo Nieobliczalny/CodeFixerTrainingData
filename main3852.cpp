@@ -77,7 +77,7 @@ int main(void)
  short uPFu;
 
  unsigned short EpJ3tL;
- EpJ3tL = -419552960;
+
 	short	H_Y8U9;
 	H_Y8U9	=	-2047352967;
     long long    SOKlGl;
@@ -450,7 +450,7 @@ case 'b':
 lZzuo2F = (int)floor(U3HI04S);
 break;
 case 'c':
-f83McY = Q8x_00feot(f83McY);
+
 break;
 }
 try
@@ -621,7 +621,7 @@ case 0:
 
 break;
 case 1:
-oM35liNq = (int)ceil(S9OCy3L);
+
 break;
 case 2:
 
@@ -645,7 +645,7 @@ case 'c':
 
 break;
 case 'd':
-z2Hf5R2kX = (int)floor(U3HI04S);
+
 break;
 case 'e':
 w5j4iXscKy = vc_ptrIiV(202270776, t0SnM0q, n1x1RL);

@@ -86,7 +86,7 @@ int main(void) {
   unsigned short int  Jyq23;
 
  long nKciOZr5;
- nKciOZr5 = -807218826;
+
   char  oVWN9n_;
   oVWN9n_  =  1711468651;
 	unsigned short int	N07E;
@@ -124,7 +124,7 @@ int main(void) {
   int  Z6NHC7bbiY;
 
     double    Kdf6;
-    Kdf6    =    -1699371837;
+
 	long	SSQ_S8;
 	SSQ_S8	=	-891206324;
  char euF005;
@@ -159,7 +159,7 @@ case 1:
 vcMA9 -= ON57i;
 break;
 case 2:
-ugf7C3F = cw77f37I0(-1867385624);
+
 break;
 case 3:
 sPjXU--;
@@ -279,7 +279,7 @@ case 'c':
 
 break;
 case 'd':
-euF005 *= iaBB1A08W;
+
 break;
 case 'e':
 
@@ -294,7 +294,7 @@ case 'h':
 
 break;
 default:
-VQKhi7u4 = dtv87(VQKhi7u4, -763746788, 1936134372);
+
 break;
 }
 }

@@ -84,7 +84,7 @@ int main(void) {
  short int wm2biFW;
 
     short    zZf_w;
-    zZf_w    =    999724212;
+
  long long t9j_F1_g4;
  t9j_F1_g4 = -1576056126;
     unsigned short int    mR99yb;
@@ -102,7 +102,7 @@ int main(void) {
   char  D35Zs;
 
   long double  K7Ls1_g;
-  K7Ls1_g  =  -2138256183;
+
   long double  FiNO8;
   FiNO8  =  636360139;
   unsigned short  K6dQ5;

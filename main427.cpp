@@ -88,7 +88,7 @@ if (kO3A4Z_9 & 1833005046)
 }
 else
 {
-DL0Q44 = ULXE1U662G() | 770923083;
+
 }
 }
 else if (e20lMBaeA != 1552856038)
@@ -217,7 +217,7 @@ case 2:
 
 break;
 case 3:
-GHjCAFBg = (int)abs(r4ZV);
+
 break;
 case 4:
 
@@ -229,7 +229,7 @@ case 6:
 
 break;
 case 7:
-BG31n4GA = (int)ceil(GHjCAFBg);
+
 break;
 }
 

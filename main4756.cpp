@@ -37,7 +37,7 @@ int main(int argc, char** argv)
  unsigned short int Dy8KY;
  Dy8KY = 1340279529;
 	unsigned long long	D4UzC;
-	D4UzC	=	-736287990;
+
 	unsigned short	et4Z;
 	et4Z	=	90440437;
     unsigned char    f_m0;
@@ -51,7 +51,7 @@ int main(int argc, char** argv)
     long double    a87kuo9K;
     a87kuo9K    =    1950617348;
 	long double	nAWUSr9R;
-	nAWUSr9R	=	-1810006781;
+
   unsigned char  tsO_5kZ2n;
 
  double a2Tucpg;
@@ -61,7 +61,7 @@ int main(int argc, char** argv)
   short int  g2dkoQ5;
 
   char  Swcn3TZ;
-  Swcn3TZ  =  -125518493;
+
  long double HebL;
  HebL = 2053684554;
  unsigned long long ZMF4143B;
@@ -79,7 +79,7 @@ int main(int argc, char** argv)
 	short int	Y5qv4n;
 	Y5qv4n	=	-2120192600;
 	int	Nbd5QIv5jH;
-	Nbd5QIv5jH	=	149984395;
+
  short int fmwioS8yu2;
 
 	unsigned short int	P43N_UD3;
@@ -107,7 +107,7 @@ int main(int argc, char** argv)
   long  w98h;
   w98h  =  0;
     int    b83Qi6v;
-    b83Qi6v    =    491508417;
+
     float    dOdI_Vt;
     dOdI_Vt    =    1726678987;
     long double    ewCKrxf2_6;
@@ -119,7 +119,7 @@ int main(int argc, char** argv)
     int    JTrI97x;
 
 	short int	Csq7sRU;
-	Csq7sRU	=	-1443888096;
+
 	unsigned short int	i278UKBr9_;
 
   long long  c0QUq;
@@ -129,7 +129,7 @@ int main(int argc, char** argv)
 	double	zMTt5v4;
 
 	long	L1T95LbC;
-	L1T95LbC	=	-263843167;
+
     unsigned long    Li4Vf3KC1;
     Li4Vf3KC1    =    -809218274;
 
@@ -173,7 +173,7 @@ case 9:
 
 break;
 default:
-aK2ZWOexiu = BaO9AW / 2139617644;
+
 break;
 }
 }
@@ -275,7 +275,7 @@ cout << "RY4Rv0Yt" << U26QcwRhVv << kB4_T() << Dy8KY << endl;
 
 
 
-nAWUSr9R = (int)floor(JiKJYyg);
+
 return 0;
 }
 

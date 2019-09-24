@@ -40,7 +40,7 @@ int main(int argc, char** argv)
  long g_bV3397Z2;
  g_bV3397Z2 = 2037839880;
  char w198i;
- w198i = -1310854001;
+
 	int	lu__p9Pkr7;
 
   double  PP72aN;
@@ -58,7 +58,7 @@ int main(int argc, char** argv)
 	unsigned long long	JsJ0U8Fz;
 	JsJ0U8Fz	=	-1238286727;
  long I62Vd8Q6;
- I62Vd8Q6 = 726050675;
+
     unsigned short int    K3fGtlF7_;
 
 	unsigned long	U2Ta1x0F;
@@ -108,7 +108,7 @@ int main(int argc, char** argv)
   long  wV_986sf_e;
   wV_986sf_e  =  -450067401;
   unsigned short int  Mlwhl3;
-  Mlwhl3  =  310783764;
+
     long long    ks6rz3V;
     ks6rz3V    =    441792332;
   unsigned int  hOrmt7C;
@@ -128,7 +128,7 @@ int main(int argc, char** argv)
   long  uA9sKiz9;
   uA9sKiz9  =  1404854463;
  char XXG498Z;
- XXG498Z = 1695938169;
+
     unsigned short    W7m9;
     W7m9    =    -1781665314;
 	unsigned short int	bDJECfi45;
@@ -204,7 +204,7 @@ case 'h':
 cq23R9rs53 = (int)abs(ypET3y);
 break;
 default:
-I62Vd8Q6 = CL45b(122463517, -224719178) * 1104794852;
+
 break;
 }
 
@@ -237,7 +237,7 @@ case 'e':
 J_DcfC78C = (int)ceil(O9wfRG);
 break;
 case 'f':
-eEFm -= wV_986sf_e;
+
 break;
 case 'g':
 PP72aN = (int)floor(N6qu);

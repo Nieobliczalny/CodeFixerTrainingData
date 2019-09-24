@@ -26,7 +26,7 @@ int main()
 	int	rT7D;
 	rT7D	=	-829716762;
   unsigned int  R4e_Z;
-  R4e_Z  =  -1052918587;
+
  short mG9VU;
  mG9VU = 0;
   unsigned int  Pnf8_o;
@@ -42,7 +42,7 @@ int main()
     unsigned int    CDpgq1obAV;
 
 	long long	xwRqH;
-	xwRqH	=	-536930805;
+
 	unsigned long	muo9O9V;
 	muo9O9V	=	-736080170;
     unsigned int    e9n82r0l8r;
@@ -56,7 +56,7 @@ int main()
     long double    NrxXJO6;
     NrxXJO6    =    -481217715;
     long double    tJzCPGW1O1;
-    tJzCPGW1O1    =    -1243006864;
+
  unsigned long long PMl58;
  PMl58 = 239587045;
 	unsigned int	M_bxnQ;
@@ -108,7 +108,7 @@ case 1:
 
 break;
 default:
-tJzCPGW1O1 = (int)ceil(q76gacY);
+
 break;
 }
 

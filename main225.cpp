@@ -576,7 +576,7 @@ for (int j = 0; j < 10; ++j)
 {
 if (luyz2Z7 <= WYVeO57E)
 {
-eY31K1ey5C = (int)ceil(LrUSP_505a);
+
 }
 else
 {
@@ -636,7 +636,7 @@ case 4:
 dDu07PNvc3 = Y59NW_(1097090395, XZjCpP3VqV);
 break;
 case 5:
-gt74JH15R9 = (int)ceil(r57sjb);
+
 break;
 default:
 WUwfm6p = r9Ds8 << uD2mWEBMty;

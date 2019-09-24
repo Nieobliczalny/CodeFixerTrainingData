@@ -249,7 +249,7 @@ if (hC1TQ_B > m04G)
 int k = 0;
 while (k < 6)
 {
-UF0TJt94 = (int)abs(DElGUt7d);
+
 k++;
 }
 }

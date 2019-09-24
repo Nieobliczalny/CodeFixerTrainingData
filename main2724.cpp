@@ -219,7 +219,7 @@ case 'F':
 break;
 case 'g':
 case 'G':
-aJI967 = (int)abs(wt2F09MU);
+
 break;
 case 'h':
 case 'H':

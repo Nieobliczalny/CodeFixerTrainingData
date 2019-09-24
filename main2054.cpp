@@ -19,7 +19,7 @@ int main(int argc, char** argv) {
 
 if (WO0Wk5QV41)
 {
-aStv8_ = (float)(EhtpRsm);
+
 }
 else
 {
@@ -98,7 +98,7 @@ ur02 /= OBObwH0ecD;
 }
 else
 {
-aStv8_ = f3sUl59i4 - rNzn7;
+
 }
 }
 switch (VY_a6xh5Q)
@@ -135,7 +135,7 @@ if ((FVey >= P3pZk7A1) || (h1ADQw1K >= h5CqV))
 {
 try
 {
-p1mY1 = (float)(o2u8U);
+
 }
 catch (int& errorCode)
 {
@@ -230,7 +230,7 @@ case 'c':
 
 break;
 case 'd':
-SAq7h8orb = (int)floor(sZX3);
+
 break;
 case 'e':
 
@@ -242,7 +242,7 @@ case 'g':
 
 break;
 case 'h':
-axqKgoVq -= 1532804562;
+
 break;
 }
 

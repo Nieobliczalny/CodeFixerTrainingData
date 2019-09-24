@@ -21,7 +21,7 @@ int main() {
 	long long	VFd5;
 	VFd5	=	2096179770;
     long    f_5C;
-    f_5C    =    -1173043176;
+
  long double L3A43t;
  L3A43t = -1463120802;
 	long long	Vdvd69;
@@ -33,7 +33,7 @@ int main() {
 	long	RM_8_;
 
     unsigned short    a3Tc8Y;
-    a3Tc8Y    =    -1670698491;
+
  unsigned long K4dJO;
 
  long double brW4;
@@ -43,7 +43,7 @@ int main() {
     unsigned short int    p_HspIGNNq;
 
  unsigned char z19kZ59R;
- z19kZ59R = 1250135752;
+
   unsigned long long  f2VFLW;
 
     long    aNkEbld;
@@ -53,7 +53,7 @@ int main() {
  unsigned long long TmH4;
 
  short int I6iE6mr;
- I6iE6mr = -727693199;
+
  unsigned short nPgbr;
  nPgbr = 1813606956;
 	unsigned char	FW710;
@@ -65,7 +65,7 @@ int main() {
 	double	HkJdu_;
 
 	long double	FdXOJ7nw;
-	FdXOJ7nw	=	-1907037012;
+
   long double  Zj_eMi4O;
   Zj_eMi4O  =  -27520543;
 	unsigned long long	fzHRxkFQt;
@@ -75,7 +75,7 @@ int main() {
 	unsigned long	Z2w__519Fw;
 
   unsigned long long  AF1_X8K;
-  AF1_X8K  =  1325534208;
+
 	double	G0HLiN1;
 	G0HLiN1	=	611507550;
  unsigned char l1ma;
@@ -85,7 +85,7 @@ int main() {
  unsigned long long niEn__;
 
     long long    RAATt0A;
-    RAATt0A    =    -1988050672;
+
   long long  Vmj09;
   Vmj09  =  -585850788;
     short int    EO8bDm;
@@ -99,7 +99,7 @@ int main() {
   int  bzM55;
 
   long  b40Ns;
-  b40Ns  =  -2032137926;
+
     unsigned long    LiXGerlRb;
 
     unsigned long long    O9xh;
@@ -113,7 +113,7 @@ int main() {
 	unsigned char	e0nrM0zQF;
 
   long double  KY_N;
-  KY_N  =  -1015395935;
+
     unsigned long long    Yf_g0pB7;
 
  unsigned long long Gh6_8JDSw;
@@ -131,7 +131,7 @@ int main() {
     long    wu2NIk;
 
     long double    i6G_PZ1qr;
-    i6G_PZ1qr    =    1579133682;
+
  unsigned int tEhe5g98;
  tEhe5g98 = 981284520;
     short int    n9S9A53m;
@@ -149,7 +149,7 @@ int main() {
 	float	H94jQ;
 
 	short int	zf0UD46;
-	zf0UD46	=	333288476;
+
     short int    LV55_DCzJq;
     LV55_DCzJq    =    343159511;
 	short	yz2hXjRvQ;
@@ -159,7 +159,7 @@ int main() {
 	unsigned char	cI9oLf4L3;
 
     unsigned long    d_H41ge;
-    d_H41ge    =    -1098343519;
+
 	float	uV38pkJ;
 	uV38pkJ	=	94756200;
     short    x9HfU;
@@ -192,7 +192,7 @@ case 2:
 
 break;
 case 3:
-JfW3tIcat6 &= Gh6_8JDSw;
+
 break;
 case 4:
 
@@ -204,7 +204,7 @@ case 6:
 
 break;
 case 7:
-VFd5 *= 937104182;
+
 break;
 case 8:
 

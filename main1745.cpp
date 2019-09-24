@@ -36,7 +36,7 @@ int main(int argc, char** argv) {
 
 	wVYrvS0	=	825158324;
 
-	USYF6Z01U5	=	-1497476943;
+
 	kT9QN79I	=	-1071863905;
 	b_e9f	=	-1749688757;
 	flFJT	=	-435842216;
@@ -209,7 +209,7 @@ case 'b':
 
 break;
 case 'c':
-L1Sc1X7di = (int)abs(D977x50Hqu);
+
 break;
 case 'd':
 
@@ -221,7 +221,7 @@ case 'f':
 
 break;
 case 'g':
-a5dbe = q_PQnhP9VJ(-107588615, -1155111805, XPp54A4Ot, wVYrvS0, skOBb);
+
 break;
 case 'h':
 
@@ -233,7 +233,7 @@ default:
 
 break;
 }
-Y09UAwqK5 = sP1CK_bf2 / v8OcmZ0;
+
 cout << "P4AxLA351" << endl;
 try
 {

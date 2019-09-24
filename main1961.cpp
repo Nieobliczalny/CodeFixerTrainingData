@@ -53,7 +53,7 @@ int main(int argc, char** argv)
     unsigned char    fH2p8;
     fH2p8    =    -251035769;
     long long    ujs3;
-    ujs3    =    0;
+
     long long    Vs2Y;
     Vs2Y    =    -951777648;
  unsigned short S_95;
@@ -259,7 +259,7 @@ r5z3g = ci56 * 2041253898;
 }
 else
 {
-ujs3 = QP1M6Ya(1368634497, -1426608081, 1160506477);
+
 }
 }
 else if (mEp1 == DbBtv)
@@ -291,7 +291,7 @@ case 'e':
 
 break;
 case 'f':
-mEp1 = Vs2Y * 896662893;
+
 break;
 case 'g':
 
@@ -385,7 +385,7 @@ case 5:
 nKrjWG |= 159743885;
 break;
 case 6:
-f1Mp59A32W = (int)ceil(M_9UyxZdpT);
+
 break;
 case 7:
 
@@ -422,7 +422,7 @@ else
 }
 }
 
-QX0EU29Cp = (unsigned short)(aJ6z3f);
+
 
 
 return 0;

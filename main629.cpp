@@ -170,7 +170,7 @@ HCsSZ4v = pDwx(-1151432042, -1275051598, -1378205350, H8eVinWU3);
 }
 else if (i_ZSBxt & 1798271487)
 {
-zD57Td7 = afSC5_99p & 1022112013;
+
 }
 else if ((Um3TYWd6r == -540498536) && (f6BUY >= K1wH8j))
 {
@@ -297,7 +297,7 @@ else
 {
 if ((FD1ZqJ != a8XW5) || ((s_e8QJN & mV189ri) && (cJEeNL6A != -1776031602)))
 {
-s_e8QJN >>= 1993247922;
+
 }
 else if (s_e8QJN == 2137311551)
 {

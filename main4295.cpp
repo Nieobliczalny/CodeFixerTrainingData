@@ -496,7 +496,7 @@ d_w6tOXEz = (int)floor(XfX8);
 }
 else if (hJOv6 <= F1J1U6rhf3)
 {
-IhWi_R += 366909866;
+
 }
 else if ((u5X3Xc7c9Q >= hJOv6) && ((b40O1hT0 & -232662265) && (u5X3Xc7c9Q & 1447695250)))
 {
@@ -567,7 +567,7 @@ case 9:
 
 break;
 default:
-Ggsc0tXJT = q2N8I << 323790497;
+
 break;
 }
 }

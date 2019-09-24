@@ -17,7 +17,7 @@ int main() {
 
 
 
-	p2Jl	=	-1244583096;
+
 	QVLww	=	846344491;
 	Wx3sm_6	=	-158399633;
 	f09R9ck	=	-1519987995;
@@ -29,7 +29,7 @@ int main() {
 
  unsigned short int Z2Oy7AI0QS, cVPJi;
  Z2Oy7AI0QS = 0;
- cVPJi = 0;
+
 
 cVPJi = B9a4HK7(2103878566, -563953580, 1464340583);
 tc4AKsP = -757333503 / Z2Oy7AI0QS;

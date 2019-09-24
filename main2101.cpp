@@ -484,7 +484,7 @@ else
 switch (F5PIqj)
 {
 case 0:
-Y1mn0 += 772289490;
+
 break;
 case 1:
 K_1BT8 ^= 598527569;

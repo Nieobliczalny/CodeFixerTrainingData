@@ -187,7 +187,7 @@ case 4:
 
 break;
 case 5:
-DtNzpw9w8 = (int)floor(jqSop);
+
 break;
 case 6:
 MGPYq = VdE0(MGPYq, zP5gI_118i);
@@ -209,7 +209,7 @@ case 'c':
 YBAl0 = EJPs(-1983777674, HB0y8z1, 169452485);
 break;
 case 'd':
-BZIuP2 = VdE0(BZIuP2, c61u_FTS);
+
 break;
 case 'e':
 M8ws--;

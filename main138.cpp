@@ -162,7 +162,7 @@ case 2:
 
 break;
 case 3:
-KN4_zm5R = (int)ceil(d93aF1JV);
+
 break;
 case 4:
 

@@ -41,7 +41,7 @@ ZNnFu = F3jvd_Jbt(-705514974, 1009887838, e2sO, K5zKn0_h7, -1517468605);
 break;
 case 'c':
 case 'C':
-M6Ra = dP4GI2M();
+
 break;
 case 'd':
 case 'D':
@@ -106,7 +106,7 @@ b6hw1AWoO = yOV7ID3(-201876937, -1186234147, -2048333459);
 }
 std::cout << l__f_02CZG / dP4GI2M() << std::endl;
 b6hw1AWoO = (unsigned long long)(u5dzncv);
-K5zKn0_h7 = (unsigned long long)(l__f_02CZG);
+
 switch (V2GYtPC6Eo)
 {
 case 0:

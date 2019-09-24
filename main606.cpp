@@ -320,7 +320,7 @@ case 2:
 
 break;
 case 3:
-S6isk *= qOxn0_2;
+
 break;
 case 4:
 
@@ -469,7 +469,7 @@ nSQ2B = (int)abs(vinTF5);
 
 
 
-cm_pYO = (int)floor(qOxn0_2);
+
 
 e5ML_re7b7 = (int)ceil(A36N5);
 

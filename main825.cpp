@@ -37,7 +37,7 @@ int main(void) {
 
   A80yKA  =  109356012;
   zMWL_3To9  =  -1326928848;
-  pl63TLv_q  =  1877279001;
+
   K0W__  =  345886717;
   QK0B  =  -260146153;
   aff3Pya  =  -1279194029;
@@ -61,7 +61,7 @@ int main(void) {
   j210_vj3s_  =  86174356;
 
   Bv060  =  1052672852;
-  QpkwpR  =  738039749;
+
 
   UOSwy1_t  =  -597593620;
   int  LI2_s8,  nO_GK;
@@ -101,7 +101,7 @@ case 'C':
 
 break;
 default:
-QpkwpR = w4y5V / gi8m8;
+
 break;
 }
 }
@@ -118,7 +118,7 @@ case 2:
 
 break;
 case 3:
-LI2_s8 = (int)abs(nO_GK);
+
 break;
 case 4:
 
@@ -198,7 +198,7 @@ case 6:
 
 break;
 case 7:
-LI2_s8 = SxKh(-808391723, K23Pk92);
+
 break;
 case 8:
 Dr98Cyl = YfS2(Dr98Cyl, 2054141864);
@@ -244,7 +244,7 @@ K0W__ += 34531753;
 }
 try
 {
-aDbp = (unsigned short int)(A80yKA);
+
 }
 catch (int& errorCode)
 {

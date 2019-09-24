@@ -321,7 +321,7 @@ case 'c':
 
 break;
 case 'd':
-w8A4r = (Z45x6d != 1765821382) ? -1477971453 : rS315;
+
 break;
 case 'e':
 

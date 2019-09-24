@@ -114,7 +114,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-z15x5DE2_ = v8M1_42 + R4Sg;
+
 break;
 case 'd':
 case 'D':
@@ -142,7 +142,7 @@ HMY8zY = Y0tPnA5();
 break;
 case 'b':
 case 'B':
-vz82e |= JDn92;
+
 break;
 case 'c':
 case 'C':

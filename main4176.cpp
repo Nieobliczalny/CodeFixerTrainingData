@@ -30,7 +30,7 @@ int main(int argc, char** argv) {
 
 
  Tinfws = -1985834231;
- u_55VDNo = -843055611;
+
  fLr8i_8pT = -1961562245;
  Pxm4sC29a9 = -641095979;
  ghq4 = 578428700;
@@ -63,7 +63,7 @@ int main(int argc, char** argv) {
  xD8_CLZ1 = -1944633054;
 
  tBpi4ud = -1122843582;
- X_sf5iB = 382731979;
+
  GKpTp = -565120959;
  iIi_ = -235359324;
  kh1O4T = 1144461821;
@@ -83,7 +83,7 @@ int main(int argc, char** argv) {
 
  l41mPg4 = 1688214689;
 
- wUj6P9 = 2114181858;
+
  OY6vO8F5 = 1943759412;
  lMf4TW3 = -1939955301;
  aR88c1ujM4 = 1853784581;
@@ -338,7 +338,7 @@ case 'c':
 
 break;
 case 'd':
-ZOgRw5U_P6 = T1w4Z(GFsysAT4);
+
 break;
 }
 if ((qID9u & -2002292385) && (jpQ6URa2M3 == -1759660532))
@@ -412,7 +412,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-Pxm4sC29a9 = (int)abs(jF7j03vs);
+
 break;
 case 'd':
 case 'D':
@@ -689,7 +689,7 @@ e4PmjlvEuK <<= 196512142;
 
 
 
-C2pkjYB3 = pR4Z4b1B | 345695845;
+
 
 std::cout << WiHz1pV4A(383497923, 1635703746) << zsal() << std::endl;
 return 0;

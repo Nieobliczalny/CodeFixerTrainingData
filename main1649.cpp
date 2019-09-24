@@ -23,7 +23,8 @@ int main() {
     short int    ygJvTY,    NHMOn;
         ygJvTY    =    NHMOn    =    0;
   long long  EZ6744,  tZnM,  Bts4Lf,  P3k5n_WV4q,  pVjm6G0c,  Z5m527D3,  Rnh4cdCBV,  h206DgjEx,  zBdB_,  ZRPpTgT7X,  W24nkPyEq2,  MPG0_7,  tRfTm,  x2L1592I,  UM1zPh;
-    EZ6744  =  tZnM  =  Bts4Lf  =  P3k5n_WV4q  =  pVjm6G0c  =  Z5m527D3  =  Rnh4cdCBV  =  h206DgjEx  =  zBdB_  =  ZRPpTgT7X  =  W24nkPyEq2  =  MPG0_7  =  tRfTm  =  x2L1592I  =  UM1zPh  =  1777986247;
+    // codechecker_intentional [deadcode.DeadStores] Design rule - initialize all variables
+	EZ6744  =  tZnM  =  Bts4Lf  =  P3k5n_WV4q  =  pVjm6G0c  =  Z5m527D3  =  Rnh4cdCBV  =  h206DgjEx  =  zBdB_  =  ZRPpTgT7X  =  W24nkPyEq2  =  MPG0_7  =  tRfTm  =  x2L1592I  =  UM1zPh  =  1777986247;
 
 x2L1592I = Z5m527D3 / FJy3y5W_(-1809953850, tZnM, -1332859663, -461566174);
 

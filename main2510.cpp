@@ -63,7 +63,7 @@ int main(int argc, char** argv)
   long  RjK44;
   RjK44  =  -268338618;
     float    a3w2kT;
-    a3w2kT    =    941894816;
+
  int g41anlWZL;
 
   unsigned short  doeAHzo0z;
@@ -157,7 +157,7 @@ int main(int argc, char** argv)
     long long    j70V6T;
     j70V6T    =    355694730;
 	int	j2I6sQv3;
-	j2I6sQv3	=	1451034944;
+
   long double  Vfph939;
 
     unsigned short    JVruwFR;

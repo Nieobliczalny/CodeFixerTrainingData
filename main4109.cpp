@@ -55,7 +55,7 @@ int main() {
 	char	ZHdFwHDbY;
 
 	float	mLG05P1ng;
-	mLG05P1ng	=	684553257;
+
   char  L7x6fRN;
 
 	unsigned long long	OW7_5;
@@ -85,7 +85,7 @@ int main() {
   float  Ms1n3n2ly;
 
   char  z9y88;
-  z9y88  =  476796159;
+
   long  YZC74Hg;
   YZC74Hg  =  -1598495475;
  float l4Z82;
@@ -111,7 +111,7 @@ int main() {
     double    ih65tJ802;
 
     long double    xjPN3;
-    xjPN3    =    -545065567;
+
   float  k__WM4;
 
     int    jqOR3_;
@@ -336,7 +336,7 @@ case 'g':
 
 break;
 case 'h':
-RFiMNIwR_S = bPsuc87Ai(RFiMNIwR_S);
+
 break;
 case 'i':
 l4Z82 = bPsuc87Ai(FU6sz);
@@ -361,7 +361,7 @@ case 'c':
 
 break;
 case 'd':
-s62l6_ = bPsuc87Ai(-1243185448);
+
 break;
 case 'e':
 

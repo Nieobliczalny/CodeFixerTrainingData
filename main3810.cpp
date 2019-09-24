@@ -181,7 +181,7 @@ ny666IZE = xY761EXUm >> 2100359220;
 }
 
 
-sgrlFB = (long)(h4pxKVVS);
+
 try
 {
 try
@@ -364,7 +364,7 @@ qtiTND_ = (int)abs(IV98q4j9U2);
 
 if (wM2y <= 1535250884)
 {
-F7J0721 = (int)abs(UM_q_Qd);
+
 }
 else
 {

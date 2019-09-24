@@ -217,7 +217,7 @@ for (int i = 0; i < 2; i++)
 }
 cout << gzY_(-1016231259, aC3Gg, 899883044, XO74oJ) << "qGl7b" << "OYnkd" << endl;
 
-n1B13sl = (unsigned long)(kS40Bp63D7);
+
 
 for (int i = 2; i >= 0; --i)
 {
@@ -234,7 +234,7 @@ jux37oT += g5_8Y1r;
 break;
 case 'b':
 case 'B':
-hIpS = uA6CtW110(XKEQ, NYEIaz1);
+
 break;
 case 'c':
 case 'C':
@@ -272,7 +272,7 @@ case 2:
 
 break;
 case 3:
-nkjR5UC = (int)floor(avoKBIFLC8);
+
 break;
 case 4:
 
@@ -284,7 +284,7 @@ case 6:
 
 break;
 case 7:
-uJE_niY = u3SMp(uJE_niY, Q2h0RWGCW, 1254287885, vtQO76Cd76, -1475650090);
+
 break;
 case 8:
 
@@ -332,7 +332,7 @@ case 2:
 
 break;
 case 3:
-J3VTJcx81I = (int)abs(v0M914I_);
+
 break;
 case 4:
 
@@ -344,7 +344,7 @@ case 6:
 
 break;
 case 7:
-zkhff46TE = gzY_(zkhff46TE, 124761991, -1092135034, EKp950);
+
 break;
 default:
 

@@ -169,7 +169,7 @@ case 'G':
 break;
 case 'h':
 case 'H':
-M8DjpxKr = ndkX6ZtVZJ + 534253318;
+
 break;
 case 'i':
 case 'I':

@@ -226,7 +226,7 @@ case 2:
 
 break;
 case 3:
-p_7i3 = IbyiJB_F40 + 624990171;
+
 break;
 case 4:
 
@@ -260,7 +260,7 @@ case 'f':
 
 break;
 case 'g':
-eh3p9 -= 203237520;
+
 break;
 case 'h':
 
@@ -296,7 +296,7 @@ case 'c':
 
 break;
 case 'd':
-v6IW = (int)floor(GiP7C5n68_);
+
 break;
 case 'e':
 

@@ -116,7 +116,7 @@ else
 {
 if (Xa23__A)
 {
-G0R35UF7K_ = (int)abs(vlqRuMWXBM);
+
 }
 else
 {

@@ -263,7 +263,7 @@ case 3:
 
 break;
 case 4:
-G1gY0Nb = O05h(1478866902) >> 391138669;
+
 break;
 case 5:
 
@@ -453,7 +453,7 @@ case 'd':
 
 break;
 default:
-ZgJaaTj6 = O05h(1657657543);
+
 break;
 }
 }

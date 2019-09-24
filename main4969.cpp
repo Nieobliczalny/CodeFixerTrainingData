@@ -28,7 +28,7 @@ int main(int argc, char** argv)
  unsigned char uO1qv6E5;
  uO1qv6E5 = 1181313297;
     long    Do36;
-    Do36    =    162915643;
+
   long  sRMT8sUZ75;
 
  unsigned short int C45jubN_co;
@@ -38,7 +38,7 @@ int main(int argc, char** argv)
 	short	j9kA2u6M;
 	j9kA2u6M	=	1503126858;
   int  iEn1Hm22;
-  iEn1Hm22  =  -510157100;
+
 	long	l3cjv2ad;
 
 	unsigned short int	ujo61Iw_0;
@@ -56,7 +56,7 @@ int main(int argc, char** argv)
     long    b1Cz;
 
  unsigned char g4m3P8I;
- g4m3P8I = -667263019;
+
 	long double	PQCbTD99z;
 	PQCbTD99z	=	-542488498;
   short  I8_mi2;
@@ -68,7 +68,7 @@ int main(int argc, char** argv)
 	unsigned long long	vZWPQ;
 
     double    PO_KEkT9;
-    PO_KEkT9    =    -862586195;
+
     unsigned long long    ndV2JIA;
     ndV2JIA    =    -1624431278;
     double    LL3NXt2;
@@ -96,7 +96,7 @@ int main(int argc, char** argv)
  unsigned short m19nC7S;
  m19nC7S = -51817650;
   unsigned long long  O6_jB2;
-  O6_jB2  =  1588780080;
+
  long long Uf61_Xq3;
  Uf61_Xq3 = 2134557464;
  int Q3_YO9b0h;
@@ -106,7 +106,7 @@ int main(int argc, char** argv)
   unsigned short  A_fNg6D1Hq;
 
  unsigned short oiesytt_V;
- oiesytt_V = 517705142;
+
 	short int	anRKX7;
 	anRKX7	=	-1139547779;
     double    YKq5h;
@@ -116,7 +116,7 @@ int main(int argc, char** argv)
  unsigned long C8H72;
 
   short  kC__ROl6fi;
-  kC__ROl6fi  =  0;
+
  long W1dt;
  W1dt = 873213835;
     int    QjeMQwN0_;
@@ -132,7 +132,7 @@ int main(int argc, char** argv)
 	long long	hukyg;
 	hukyg	=	1216014746;
   unsigned long long  We7y5soh;
-  We7y5soh  =  -1174770586;
+
   long double  Wu6X;
 
   double  K71x;
@@ -142,7 +142,7 @@ int main(int argc, char** argv)
     long double    di1LP;
 
 	unsigned long long	qjRy0Y2Sv;
-	qjRy0Y2Sv	=	719460408;
+
  unsigned short int FR0d_4;
  FR0d_4 = -583878764;
  int m8P4So6;
@@ -152,7 +152,7 @@ int main(int argc, char** argv)
   char  f55c6lGE8A;
 
  float XZuI;
- XZuI = -277843274;
+
     unsigned int    ktX7L8;
     ktX7L8    =    0;
 	unsigned long	L83MIz6;
@@ -168,7 +168,7 @@ int main(int argc, char** argv)
   unsigned int  LCTTnv;
 
  unsigned long Oa6LHMn4HY;
- Oa6LHMn4HY = -1181870191;
+
     short    B4SO_LuWB;
     B4SO_LuWB    =    1428179947;
     short    ML5YTHdTco;
@@ -182,7 +182,7 @@ int main(int argc, char** argv)
  long long No__Y;
 
  long long LK3XFbK;
- LK3XFbK = 1616786897;
+
     unsigned char    k72_ze_;
     k72_ze_    =    440993884;
     unsigned long long    Lb40E5kc3h;

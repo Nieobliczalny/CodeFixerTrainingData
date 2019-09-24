@@ -310,7 +310,7 @@ Ro_H0_6 = Ro_H0_6 | bVjBkt;
 }
 
 
-TxZO = AYcSKLCV / mSFty;
+
 
 h1_c6E7++;
 
@@ -430,7 +430,7 @@ int k = 8;
 while (k >= 0)
 {
 k--;
-TxZO = i6jm1W / 1431182970;
+
 }
 }
 }
@@ -657,7 +657,7 @@ case 6:
 
 break;
 default:
-S_AId = (int)ceil(AYcSKLCV);
+
 break;
 }
 switch (k_7c192vq)

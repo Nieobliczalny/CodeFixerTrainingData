@@ -226,7 +226,7 @@ case 5:
 VIqoG_5dW = Z5Y69GoTY(-1999104709, FC7O20LL65, 410974017, -1748629955);
 break;
 case 6:
-PDl6 = (int)ceil(Mchs797);
+
 break;
 case 7:
 
@@ -389,7 +389,7 @@ case 5:
 
 break;
 case 6:
-wXBD = FC7O20LL65 << 500292083;
+
 break;
 case 7:
 

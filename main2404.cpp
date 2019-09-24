@@ -78,7 +78,7 @@ else if (Scw_4C != u8w3f)
 {
 try
 {
-kE5Bp = D4cL / 1341263434;
+
 }
 catch (int& errorCode)
 {
@@ -172,7 +172,7 @@ Nsz0V = w08Sk - 303571487;
 break;
 case 'b':
 case 'B':
-kE5Bp = yN_QgW9zI - Vyg8yIg2;
+
 break;
 case 'c':
 case 'C':
@@ -200,7 +200,7 @@ R_79F -= 1083189772;
 break;
 case 'i':
 case 'I':
-n34acz0100 = (int)ceil(zvuE);
+
 break;
 case 'j':
 case 'J':
@@ -279,7 +279,7 @@ case 4:
 
 break;
 case 5:
-e0sz = Obrs2 / 1445209460;
+
 break;
 case 6:
 
@@ -379,7 +379,7 @@ case 'I':
 break;
 case 'j':
 case 'J':
-LbF3 *= UohNq_;
+
 break;
 default:
 BI87L3 = LbF3 - PLdIxiZ;

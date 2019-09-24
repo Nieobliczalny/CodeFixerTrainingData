@@ -89,7 +89,7 @@ d1Sg = (int)floor(vqfBZ);
 }
 else
 {
-A_cX = (int)abs(nH6AOG);
+
 }
 }
 }
@@ -125,7 +125,7 @@ RqVoFz5 = (int)ceil(E4j_4T2B5X);
 break;
 case 'b':
 case 'B':
-A_cX = (int)floor(E4j_4T2B5X);
+
 break;
 case 'c':
 case 'C':

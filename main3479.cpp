@@ -208,7 +208,7 @@ case 1:
 
 break;
 case 2:
-xVcDL5c_10 = (int)floor(XxZ4s84hr0);
+
 break;
 case 3:
 pt5lA += 1073444577;
@@ -222,7 +222,7 @@ break;
 }
 }
 
-er4Gykiyh0 = (int)ceil(mAieAIH);
+
 
 
 mAieAIH = (int)floor(v2EjNm);
@@ -254,7 +254,7 @@ case 'h':
 r8TvT = vcO7dPkA2();
 break;
 case 'i':
-er4Gykiyh0 = (int)floor(XxZ4s84hr0);
+
 break;
 default:
 
@@ -303,7 +303,7 @@ case 3:
 
 break;
 case 4:
-xUW_ = vcO7dPkA2();
+
 break;
 case 5:
 

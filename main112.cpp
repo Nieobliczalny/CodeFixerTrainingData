@@ -369,7 +369,7 @@ case 3:
 m3fiu65_2 = kl7Z00FL(m3fiu65_2);
 break;
 case 4:
-KMPc8 = (int)abs(G_8_);
+
 break;
 case 5:
 
@@ -381,7 +381,7 @@ case 7:
 
 break;
 case 8:
-P48k5 |= 651641207;
+
 break;
 case 9:
 KMPc8 *= 1948367085;

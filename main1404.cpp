@@ -113,7 +113,7 @@ for (int i = 0; i < 3; i++)
 NdXS /= 611074385;
 }
 
-et1i = K4C0b6jOX7 / 677312032;
+
 
 if (o9VqmsO09q & 929846319)
 {
@@ -260,7 +260,7 @@ case 2:
 
 break;
 case 3:
-X072 = (int)abs(BWfM05);
+
 break;
 case 4:
 cB5Z_tdl9 *= 974447299;
@@ -442,7 +442,7 @@ case 2:
 
 break;
 case 3:
-cNUB1WF &= 896157145;
+
 break;
 case 4:
 Y1Osbz4wXK = Gr4A1 - Xupw7x;

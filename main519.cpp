@@ -555,7 +555,7 @@ case 5:
 
 break;
 case 6:
-PbIiCcBzx = (int)abs(aSvUCY3);
+
 break;
 }
 }

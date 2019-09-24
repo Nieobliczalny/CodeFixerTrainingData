@@ -186,7 +186,7 @@ case 3:
 
 break;
 case 4:
-qRTCvK1YOd &= 220318172;
+
 break;
 case 5:
 sJv603P += 1163093956;

@@ -61,7 +61,7 @@ case 3:
 
 break;
 case 4:
-wBCj += tIKY;
+
 break;
 case 5:
 

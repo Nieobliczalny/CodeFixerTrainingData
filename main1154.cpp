@@ -22,7 +22,7 @@ int main(void) {
 	char	V9Eucs;
 
  double DJz56K0rp6;
- DJz56K0rp6 = -872825002;
+
     long double    u_d6WA;
     u_d6WA    =    78256095;
   short  L2Kw;
@@ -36,7 +36,7 @@ int main(void) {
     unsigned char    uXaei51;
 
 	short int	i6Loz;
-	i6Loz	=	568196590;
+
 	float	RhT57_W;
 
     unsigned long long    Qnz3sb;
@@ -56,7 +56,7 @@ int main(void) {
   unsigned short int  a8Q_eW6y4;
 
 	long double	zl1C9j;
-	zl1C9j	=	179918283;
+
 	float	rPdm1;
 
   short int  DakncP21;
@@ -66,7 +66,7 @@ int main(void) {
 	unsigned short int	PK8MTR313;
 
 	long long	O7o_Fs;
-	O7o_Fs	=	2022517846;
+
 	unsigned char	zzAa;
 
 	int	DaQ75;
@@ -76,7 +76,7 @@ int main(void) {
   float  g2_ANgd;
 
  long N62NDyujTu;
- N62NDyujTu = -698202605;
+
  unsigned int x5pbBX;
  x5pbBX = -705554367;
   unsigned char  Q7id1C0;
@@ -126,7 +126,7 @@ int main(void) {
 	float	V4ELw;
 
  char S675hK8_LQ;
- S675hK8_LQ = 569554768;
+
     long    KE1F;
     KE1F    =    9677711;
 	unsigned int	B_Zfi;
@@ -158,7 +158,7 @@ int main(void) {
  long long PmUAt;
  PmUAt = 946099832;
  long long p672;
- p672 = -600117281;
+
   char  hazO;
 
  int y0e7w;
@@ -176,7 +176,7 @@ int main(void) {
  unsigned long MKSM1SqS;
 
     float    L_ykxE2Cs;
-    L_ykxE2Cs    =    619141790;
+
   int  AAnO81;
   AAnO81  =  1569443352;
     unsigned long    RsQrz3;
@@ -288,7 +288,7 @@ case 'e':
 
 break;
 case 'f':
-V4ELw = DakncP21 % B_Zfi;
+
 break;
 case 'g':
 x5pbBX++;
@@ -303,7 +303,7 @@ case 'j':
 
 break;
 default:
-D8b16YvXe = (int)ceil(u_d6WA);
+
 break;
 }
 for (int i = 0; i < 6; i++)

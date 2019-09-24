@@ -470,7 +470,7 @@ break;
 }
 else
 {
-s8M6cnD_7 = (int)abs(dtV1CVaZ6) * 0;
+
 }
 }
 }
@@ -694,7 +694,7 @@ else if (MpF51800 > -487736323)
 {
 if (d_2XFdv > 1981693559)
 {
-qqWN1u = (int)floor(C3z693g22);
+
 }
 else if (t91Aj != N61__P)
 {

@@ -46,7 +46,7 @@ int main(int argc, char** argv)
 	unsigned char	IiE96,	RSo_84rL,	KntK;
 
 	RSo_84rL	=	0;
-	KntK	=	0;
+
 
 IiE96 = x360I8RYX(3247283, rK_9mjp25, 1598683968, x0zTGRb, -2067994849);
 if ((a3FAFa1ZP) && (r52dLNO3_ != Cg9zIl265))

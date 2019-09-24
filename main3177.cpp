@@ -65,7 +65,7 @@ if (fXbP > 144916590)
 {
 if (Xw_B8poYE != -950004051)
 {
-vNmuZl3g = (int)floor(eoxp_s6Mh);
+
 }
 else
 {
@@ -421,7 +421,7 @@ case 2:
 
 break;
 case 3:
-glkw9oah76 = SL1gfg(-1455297225, 669928703, -1524869047, -1836634909, mq66q5Fr5);
+
 break;
 case 4:
 
@@ -439,7 +439,7 @@ case 8:
 
 break;
 default:
-Q1jFIU = (int)floor(oZmcx5k);
+
 break;
 }
 }
@@ -483,7 +483,7 @@ case 'h':
 
 break;
 case 'i':
-Nb0f3 *= 1511982790;
+
 break;
 default:
 
@@ -605,7 +605,7 @@ else
 {
 if (YWK4I & Rt_aB0)
 {
-AorjFNAfX = (double)(TKvfk0);
+
 }
 else if (Nx5QC != BP4a481f68)
 {

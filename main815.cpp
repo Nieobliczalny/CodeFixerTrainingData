@@ -41,7 +41,7 @@ int main(int argc, char** argv)
   unsigned int  LHHs7FzT;
 
 	unsigned int	O22m;
-	O22m	=	0;
+
 	unsigned short int	z82XA;
 	z82XA	=	804245693;
     unsigned long    NUP7qaKce;
@@ -57,7 +57,7 @@ int main(int argc, char** argv)
  long long JNlxsV;
 
  unsigned short H4dB;
- H4dB = 0;
+
 	int	R1snO5;
 	R1snO5	=	1619164017;
     double    HFNim5Q;
@@ -69,7 +69,7 @@ int main(int argc, char** argv)
 	unsigned short int	iApPa_3;
 
     unsigned int    q3xB;
-    q3xB    =    1397157713;
+
  short int p73s1v7E;
  p73s1v7E = -1522835596;
 	unsigned short	W5Oi;
@@ -81,7 +81,7 @@ int main(int argc, char** argv)
     unsigned int    uyXJ__;
     uyXJ__    =    190999154;
     long double    kENp;
-    kENp    =    544467496;
+
 	unsigned short	gv2Ts9Lv;
 	gv2Ts9Lv	=	-760396960;
     float    l5YzK8t;
@@ -91,7 +91,7 @@ int main(int argc, char** argv)
   unsigned char  KWj0;
   KWj0  =  -33473827;
     unsigned long    tSA79Zs1z;
-    tSA79Zs1z    =    0;
+
  char L8K94;
  L8K94 = 893999678;
  long X2M8CM_Eu2;
@@ -105,7 +105,7 @@ int main(int argc, char** argv)
   unsigned int  kq8lTG;
 
   long  lqFbN634;
-  lqFbN634  =  -927966018;
+
 	unsigned short int	QTGixFVE_8;
 	QTGixFVE_8	=	330476885;
     unsigned long    x01xk0V6A5;
@@ -299,7 +299,7 @@ case 'c':
 
 break;
 case 'd':
-HFNim5Q = (int)ceil(HCWL5);
+
 break;
 case 'e':
 

@@ -69,7 +69,7 @@ case 4:
 
 break;
 default:
-kXVaDp = (Q50QXP != 1898297310) ? -1237277771 : 519507135;
+
 break;
 }
 }
@@ -190,7 +190,7 @@ case 3:
 e_a4oLrb = T5xZt * x76AjBS4;
 break;
 case 4:
-Vc7i = (int)abs(S_28);
+
 break;
 case 5:
 pQ7_XM = w6dVp0W(qL_PfJv) + EH3d6dd87g;
@@ -343,7 +343,7 @@ case 2:
 
 break;
 case 3:
-pQ7_XM /= rU94Ke;
+
 break;
 default:
 

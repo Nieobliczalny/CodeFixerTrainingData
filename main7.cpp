@@ -59,7 +59,7 @@ int main(int argc, char** argv)
   double  knW56M5wkH;
   knW56M5wkH  =  -124587450;
 	unsigned long long	o4s025;
-	o4s025	=	-408706312;
+
  unsigned char qa6irnxt;
  qa6irnxt = -1660887254;
   long double  JtkIupg;
@@ -109,7 +109,7 @@ int main(int argc, char** argv)
   long  z5shz_W3;
 
     char    e6M9_lw;
-    e6M9_lw    =    0;
+
     unsigned char    hU6U;
     hU6U    =    -204300307;
 	long double	bQRWgI6_8L;
@@ -145,7 +145,7 @@ int main(int argc, char** argv)
  double oos7o;
 
  long b_a39;
- b_a39 = 836763762;
+
  short wsV64aY;
  wsV64aY = -633958978;
 	short int	JxhL4j;
@@ -201,7 +201,7 @@ switch (VQNx_TEr9)
 {
 case 'a':
 case 'A':
-tr6TiIjI2 %= 931888558;
+
 break;
 }
 }
@@ -487,7 +487,7 @@ catch (int& errorCode)
 JhtJ0I = ECd5kIw << 1316618639;
 }
 }
-MUvztPh = (unsigned long)(hx__N);
+
 switch (nLuie_Ny8p)
 {
 case 0:
@@ -515,7 +515,7 @@ case 7:
 
 break;
 case 8:
-eVb_9rE52S = (vEh2 < 261733875) ? 2117438308 : mJb0;
+
 break;
 default:
 

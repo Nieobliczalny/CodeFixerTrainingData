@@ -280,7 +280,7 @@ case 4:
 
 break;
 case 5:
-sr3HR = (int)floor(J2PTBO);
+
 break;
 case 6:
 vC2k5W = vH3515(-504395521);

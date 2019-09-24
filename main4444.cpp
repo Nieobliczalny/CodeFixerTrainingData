@@ -35,7 +35,7 @@ int main(int argc, char** argv)
  double u6ISpM;
  u6ISpM = 1490206334;
  unsigned char WNSU0C;
- WNSU0C = 897562655;
+
     int    JiucNlM21;
     JiucNlM21    =    -1879974657;
 	long long	jXozHc9;
@@ -49,7 +49,7 @@ int main(int argc, char** argv)
     unsigned long    G6FrCPb00;
     G6FrCPb00    =    -661750257;
  unsigned short D2AS;
- D2AS = -865782290;
+
   unsigned short int  f0dEZ2cn;
   f0dEZ2cn  =  2071004855;
 	double	rgOi;
@@ -89,7 +89,7 @@ int main(int argc, char** argv)
  unsigned short PwOVpz25Z6;
  PwOVpz25Z6 = 2051970554;
  long long mvnHRlAIo;
- mvnHRlAIo = 815580911;
+
  float el01Mk_8;
  el01Mk_8 = 2117216872;
 	unsigned long long	J3y5;

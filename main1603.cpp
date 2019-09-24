@@ -473,7 +473,7 @@ case 2:
 
 break;
 case 3:
-D7UP_7LW = (int)abs(STj4R8Mb);
+
 break;
 case 4:
 

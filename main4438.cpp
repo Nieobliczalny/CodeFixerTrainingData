@@ -109,7 +109,7 @@ case 'b':
 s9QKy3Bt = r4AV7Y(s9QKy3Bt, IYVYb5agJ, 2021096947, L0ZO5, P99a);
 break;
 case 'c':
-NAKSwM |= lW2hst;
+
 break;
 case 'd':
 R0lj4ArQTe = Iq4pdY_();
@@ -345,7 +345,7 @@ case 1:
 
 break;
 case 2:
-d00ohjeyI = r4AV7Y(-927290344, 1670648743, FyRpWet45, 927305547, -1314430096);
+
 break;
 case 3:
 
@@ -460,7 +460,7 @@ case 'F':
 break;
 case 'g':
 case 'G':
-NM_0 = Iq4pdY_();
+
 break;
 case 'h':
 case 'H':

@@ -259,7 +259,7 @@ case 1:
 
 break;
 case 2:
-sCz15N0kF = (int)abs(b_NCXC0);
+
 break;
 case 3:
 sJaYr = Ixbq6j4(Y7n27, -1999647210);
@@ -274,7 +274,7 @@ case 6:
 
 break;
 case 7:
-sCz15N0kF = Q71pq / 1627999515;
+
 break;
 case 8:
 kj6_++;

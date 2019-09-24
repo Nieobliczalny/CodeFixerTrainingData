@@ -167,7 +167,7 @@ for (int j = 0; j < 7; ++j)
 int k = 10;
 do
 {
-RrjbUy18e0 = R666RqPu(1911493369, E369j1PX4x, 1644740386, -758731475, R_18Zu);
+
 --k;
 }
 while (k >= 0);
@@ -255,7 +255,7 @@ case 'c':
 
 break;
 default:
-BgjP -= v8F3W1_xBG;
+
 break;
 }
 }

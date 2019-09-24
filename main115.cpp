@@ -42,7 +42,7 @@ int main(void)
 	short int	Mj8BB;
 
   unsigned char  sDk4p3E6hX;
-  sDk4p3E6hX  =  1091017372;
+
     short int    l584;
 
 	unsigned long long	g32z9FY;
@@ -84,7 +84,7 @@ int main(void)
 	unsigned short int	o4tX_Vju;
 
     long    oD15;
-    oD15    =    368120395;
+
  unsigned long w_y0MTmyW;
  w_y0MTmyW = 1922605485;
     unsigned long long    HcQIuw04k;
@@ -124,7 +124,7 @@ int main(void)
     unsigned short int    VX14;
 
 	long double	tWTM;
-	tWTM	=	1215410156;
+
   long long  qE9s063a;
   qE9s063a  =  1365511354;
   int  l6g8;

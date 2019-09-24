@@ -190,7 +190,7 @@ int main(void)
   long long  GI9US5;
 
  double LGC_;
- LGC_ = 1182156992;
+
   long long  Co1_h;
   Co1_h  =  -203671382;
     short int    gG63FS_gz;
@@ -375,7 +375,7 @@ e7rk19A2++;
 }
 else
 {
-X1Ec68 = Z0R866(X1Ec68);
+
 }
 }
 }
@@ -581,7 +581,7 @@ else
 
 }
 
-LtJW >>= 723925982;
+
 if (YZcQ_6g21u > mhuL5)
 {
 try

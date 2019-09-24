@@ -28,7 +28,7 @@ int main()
   char  YgIQx7GX;
   YgIQx7GX  =  -247392340;
  unsigned short int GlaJi5;
- GlaJi5 = -1483726933;
+
  float d2BJlTJt;
  d2BJlTJt = -22825778;
   unsigned long  B92L;
@@ -86,7 +86,7 @@ int main()
  unsigned short SKDOC9;
  SKDOC9 = -53054836;
   unsigned char  W1II4;
-  W1II4  =  -47772570;
+
 	short int	ojSIm;
 	ojSIm	=	-1228915281;
     unsigned long    z10FL;
@@ -146,7 +146,7 @@ int main()
   long  TWMx2GDZsW;
 
  unsigned long DqUY;
- DqUY = -1900478861;
+
     unsigned short    FzYRAz;
     FzYRAz    =    -1776126363;
     char    ahZ6;
@@ -182,7 +182,7 @@ int main()
 	unsigned short int	lSUnsbN;
 
 	double	wD3d;
-	wD3d	=	-540985487;
+
 
 {
 int i = 0;
@@ -401,7 +401,7 @@ do
 switch (G2KBxONq)
 {
 case 0:
-GlaJi5 = Rv0iz8xS(-1839514286, z10FL, 1432503703);
+
 break;
 case 1:
 YgIQx7GX = (int)abs(Dfysakd);

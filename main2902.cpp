@@ -153,7 +153,7 @@ int main(void)
     unsigned long long    HOr9Ely;
 
 	unsigned short int	ZrnN;
-	ZrnN	=	310176370;
+
 	unsigned short int	A67Mq7RlHW;
 	A67Mq7RlHW	=	-2039629649;
 	long long	SZ_S_fG2h;
@@ -177,7 +177,7 @@ int main(void)
  unsigned long ly6c0138;
 
     unsigned int    dG3aF2lB_;
-    dG3aF2lB_    =    -2005798085;
+
     unsigned short    fAhE5;
 
     unsigned int    rTgreEd6;

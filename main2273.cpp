@@ -35,6 +35,7 @@ int main(int argc, char** argv) {
   // codechecker_intentional [deadcode.DeadStores] Design rule - initialize all variables
   qKsFpP = YUw6LG0m = K2UbI = 0;
  int nd_Fyx, AG35u, l56o, T1Ra0_d, a78Pd1wrtG, dP5PQk9, x_Uhn9A6, HG23TcS;
+  // codechecker_intentional [deadcode.DeadStores] Design rule - initialize all variables
   nd_Fyx = AG35u = l56o = T1Ra0_d = a78Pd1wrtG = dP5PQk9 = x_Uhn9A6 = HG23TcS = -423636226;
 
 switch (dP5PQk9)

@@ -175,7 +175,7 @@ int main(void) {
     short int    vpUk_1LFV_;
     vpUk_1LFV_    =    1268629792;
 	long double	X_VU2fv7e;
-	X_VU2fv7e	=	255492224;
+
     long double    PE8y;
 
 	char	YG0Xl;
@@ -185,7 +185,7 @@ int main(void) {
 	double	VUuE_X016R;
 
 	float	p7rg8W3H;
-	p7rg8W3H	=	307358143;
+
     unsigned int    cy9s_4C;
     cy9s_4C    =    319235800;
  long ijWX7QXg7b;
@@ -197,7 +197,7 @@ int main(void) {
  float dOcR0ys_F;
 
 	int	vn4rJYpf0o;
-	vn4rJYpf0o	=	1895742197;
+
 	float	naAWv3mc;
 	naAWv3mc	=	175688358;
 
@@ -456,7 +456,7 @@ case 'c':
 
 break;
 case 'd':
-Sf65V9 = WLen6pe8MH(2092952301, -1155849084);
+
 break;
 case 'e':
 lymZ %= lxuG;
@@ -510,7 +510,7 @@ case 2:
 
 break;
 case 3:
-dOcR0ys_F = (mC07SR) ? -830869828 : HOj900I;
+
 break;
 case 4:
 

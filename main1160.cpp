@@ -149,7 +149,7 @@ else if (VOeXTkxfsJ < -1285577362)
 {
 if (zOw0Uc & -1707973800)
 {
-DaS3l = (int)abs(MpgC6G3MFq);
+
 }
 }
 else

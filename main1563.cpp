@@ -372,7 +372,7 @@ case 'e':
 n38021khwg = pembkP1BFR(n38021khwg);
 break;
 case 'f':
-vC1UX0hSh = pembkP1BFR(vC1UX0hSh);
+
 break;
 case 'g':
 pJ7PC5A |= 1253746431;

@@ -87,7 +87,7 @@ case 'e':
 
 break;
 default:
-D0x491X += 985686803;
+
 break;
 }
 if ((nw0J11_7 / AzFK) <= 1642798778)
@@ -202,7 +202,7 @@ else
 {
 
 }
-o91tqC = (int)abs(AQ6v);
+
 
 
 

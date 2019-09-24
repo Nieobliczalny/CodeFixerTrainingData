@@ -133,7 +133,7 @@ int k = 9;
 do
 {
 --k;
-wRL7 = I4G18REF1 >> 1645513984;
+
 }
 while (k >= 0);
 }
@@ -211,7 +211,7 @@ break;
 switch (hmwI_2aw0)
 {
 case 'a':
-sqm12qI = qA4Zw(1290729960);
+
 break;
 case 'b':
 

@@ -696,7 +696,7 @@ case 'c':
 
 break;
 case 'd':
-oS375dN = (int)floor(oan7IbtSR3);
+
 break;
 case 'e':
 HRxJV_d |= 1299003191;
@@ -771,7 +771,7 @@ else if (EhBc != T1g__3)
 }
 else if (zi1A5_A9 == clY_8qL6)
 {
-W1so = ho1mh68Xk1(-51390730);
+
 }
 else
 {

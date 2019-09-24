@@ -208,7 +208,7 @@ case 2:
 
 break;
 case 3:
-wVc5y = (int)floor(K0f__);
+
 break;
 case 4:
 
@@ -220,7 +220,7 @@ case 6:
 
 break;
 case 7:
-fkN9o9w2z = (int)abs(l7001Do8ze);
+
 break;
 default:
 

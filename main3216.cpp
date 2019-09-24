@@ -351,7 +351,7 @@ L46Y9y5ZTy /= ZfqXtM2e9R;
 
 if (d98Q <= -690366260)
 {
-d4OG = (int)ceil(ew67v54F);
+
 }
 switch (wff1F)
 {

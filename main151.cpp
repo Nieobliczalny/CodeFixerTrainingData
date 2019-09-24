@@ -327,7 +327,7 @@ cout << Prkdx2oMIe() << "ezxNQ05_Cb" << Y1SY << Uekr2 << endl;
 while (i >= 0);
 }
 
-tnxb = l38u_d80(tnxb, -1143291518);
+
 
 switch (ftQo_)
 {

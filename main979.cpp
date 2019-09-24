@@ -307,7 +307,7 @@ PfN0KK = e7__(cSf5, 1234713703, Sj2q3_bWt, IXi6DIb_0r);
 }
 else
 {
-OLDG5iCvz0 = Kxaj7q(OLDG5iCvz0, 1261967501);
+
 }
 }
 else if (zNWl48 == m0dQoN)
@@ -588,7 +588,7 @@ for (int i = 0; i < 10; i++)
 
 }
 
-jACMGZ45e <<= wKp1Utr0_j;
+
 return 0;
 }
 

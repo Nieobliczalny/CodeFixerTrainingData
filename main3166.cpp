@@ -20,7 +20,7 @@ int main()
 
   e_d5  =  868002654;
 
-  L1Z2h2YpCz  =  898896652;
+
   Ps4Sd9  =  -666653640;
   g0BZUd  =  700598805;
   cA_5H  =  -996437740;
@@ -41,7 +41,7 @@ int main()
 
   LS7mvp2Mr  =  -1433254978;
   Te234rPF  =  -2046868943;
-  JepccR1  =  150754960;
+
   Zg0T3k_70p  =  1281013443;
 
   DS4413M  =  -1925348750;
@@ -56,7 +56,7 @@ int main()
   BVxht8k6M  =  764059677;
 
   GGIA_  =  1571862568;
-  HHxJen  =  -1806684066;
+
   d53k0422W1  =  -346892775;
   x8Tn48FE  =  -819774492;
   ZVBeNzQkP  =  -1904415008;
@@ -86,7 +86,7 @@ int main()
   aP3GGp  =  587999969;
   oRqNY34o1h  =  1756163239;
 
-  M2N4  =  -227386752;
+
   ASgl98unlM  =  1059669873;
   R7_04GPg  =  -1019649812;
   nqG4_5C0  =  -1548586873;
@@ -97,7 +97,7 @@ int main()
   RI8i  =  838591009;
 
   Dwm2B_  =  320801813;
-  L9L2  =  -1317045653;
+
   D883J9OE  =  -1456950829;
   e695hw1h  =  1435051856;
   char  Z1bl,  xyD3H0_c9,  o2YZ,  M09Vjuh,  QQZ79382;
@@ -203,7 +203,7 @@ else if (Z8WI5b7 & qhoyq17)
 {
 try
 {
-W3_yO5o = (int)abs(h_Vo8kt);
+
 }
 catch (int& errorCode)
 {

@@ -142,7 +142,7 @@ while (i < 1);
 
 if ((X23XI0oawt >= 2008669596) && (Br5Fl31 & -2019483756))
 {
-q5PA4R = (unsigned long)(wlxbe0IDM + (-159953350));
+
 }
 
 HEHyI2GV = (int)abs(wlxbe0IDM);
@@ -183,7 +183,7 @@ int k = 0;
 while (k < 3)
 {
 k++;
-q5PA4R = Btu4_64(1893200519, Y50voy9, RM5Icj);
+
 }
 }
 }
@@ -199,7 +199,7 @@ else
 switch (QREb2)
 {
 case 0:
-y312j9hsZ |= 1778963322;
+
 break;
 case 1:
 W9z8 = Br5Fl31 << 494288743;
@@ -214,7 +214,7 @@ case 4:
 wlxbe0IDM = (int)abs(I4yTRKHA53);
 break;
 case 5:
-aD9s477 = mC69M | 493409886;
+
 break;
 case 6:
 I4yTRKHA53 = unqGf();
@@ -238,7 +238,7 @@ int i = 5;
 do
 {
 --i;
-AekqHmAZ7 = tSE8em9U(-54656667, PNBgCE4137, 1028220182, Fks4593_);
+
 }
 while (i >= 0);
 }
@@ -274,7 +274,7 @@ I4yTRKHA53 = (int)abs(HY2O);
 break;
 case 'd':
 case 'D':
-VLypb4VliQ = dwoK(-109826838, TrHKN3D7, mvya43, Ei_Ui8, EKbw2wY0);
+
 break;
 case 'e':
 case 'E':
@@ -290,7 +290,7 @@ wlxbe0IDM = unqGf();
 break;
 case 'h':
 case 'H':
-kz_hN_BL = Br5Fl31 << 565912718;
+
 break;
 case 'i':
 case 'I':

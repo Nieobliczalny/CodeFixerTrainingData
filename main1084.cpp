@@ -18,7 +18,7 @@ int main()
 
 try
 {
-E2N4q6H4 = (int)abs(g_B4r8);
+
 }
 catch (int& errorCode)
 {
@@ -55,7 +55,7 @@ switch (w2BA_J)
 {
 case 'a':
 case 'A':
-Aus8 >>= 1430255356;
+
 break;
 case 'b':
 case 'B':
@@ -125,7 +125,7 @@ case 'c':
 
 break;
 case 'd':
-OQ8Cgl %= 146026830;
+
 break;
 case 'e':
 

@@ -12,6 +12,7 @@
 int main(void)
 {
  long long k28sk_, qD0_, tQ65P618, xmBP3o3, eao4sfX3, sy9gidO9Z2, f6rR, KLB363786z, qRQ0, wqs5D1N9m_, ypx_I4_u_, KjAKh6r91J, X964gu6, ZphMm, BR5t, l_bM3Yxmp, s2E3Gz_GI, lBzEoE_217, i9jvKhp4, Twh60d8NP7, h3eGk62MF, YseurVxIe2, crwUvtgh4o, up0SS0F, vfxxlzc6I, aiCLN7Xv1, zeNZPYMQ, ew4Lp_66, IP29s0J, b24tXE;
+  // codechecker_intentional [deadcode.DeadStores] Design rule - initialize all variables
   k28sk_ = qD0_ = tQ65P618 = xmBP3o3 = eao4sfX3 = sy9gidO9Z2 = f6rR = KLB363786z = qRQ0 = wqs5D1N9m_ = ypx_I4_u_ = KjAKh6r91J = X964gu6 = ZphMm = BR5t = l_bM3Yxmp = s2E3Gz_GI = lBzEoE_217 = i9jvKhp4 = Twh60d8NP7 = h3eGk62MF = YseurVxIe2 = crwUvtgh4o = up0SS0F = vfxxlzc6I = aiCLN7Xv1 = zeNZPYMQ = ew4Lp_66 = IP29s0J = b24tXE = 40355211;
     unsigned short    zzZUr4,    z0Mdhqm,    FaWi,    GfqIZ;
         // codechecker_intentional [deadcode.DeadStores] Design rule - initialize all variables

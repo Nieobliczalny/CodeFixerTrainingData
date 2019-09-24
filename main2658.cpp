@@ -34,7 +34,7 @@ int main(int argc, char** argv)
     Sww89Gd    =    46700639;
 
 
-    i_1Km6YT    =    444343485;
+
     du77_2    =    1875243346;
     J9aYlPT    =    -1611052697;
     xw_JM8    =    1368399150;
@@ -46,7 +46,7 @@ int main(int argc, char** argv)
 
     m53S_Jx    =    -268375466;
     aB61c9r    =    -1689708558;
-    d6wQ    =    681618402;
+
     J2h45lcX    =    -128148611;
     vIp_jYtku    =    -1271616519;
     i1q1bL6Dh    =    597472200;
@@ -64,7 +64,7 @@ int main(int argc, char** argv)
     BFUnU22X    =    -1118414983;
 
     xK12t    =    -61457249;
-    S0qd    =    -1814710457;
+
     CSjtnfI    =    1817693258;
 
     Nrz0_6    =    -144471964;
@@ -75,7 +75,7 @@ int main(int argc, char** argv)
     y96cSQ    =    1436296485;
     xTzk7    =    -951045875;
     h92I_C    =    -1597198893;
-    EMxE9unt    =    -666743060;
+
 
     G7zF_bCr4    =    1240071327;
 
@@ -226,7 +226,7 @@ case 'c':
 
 break;
 case 'd':
-w598usL -= m53S_Jx;
+
 break;
 case 'e':
 DQ2f_ = Tbg40P();
@@ -246,7 +246,7 @@ case 0:
 
 break;
 case 1:
-xK12t = VfVFl1(xK12t, 791392550, -1306970154);
+
 break;
 case 2:
 
@@ -258,7 +258,7 @@ case 4:
 
 break;
 case 5:
-Sww89Gd = U9M30AEC42(Sww89Gd, -981021775, BHpE58_H, S0DLhS);
+
 break;
 case 6:
 
@@ -270,7 +270,7 @@ case 8:
 
 break;
 case 9:
-xK12t = Tbg40P() ^ 162575990;
+
 break;
 default:
 
@@ -297,7 +297,7 @@ case 2:
 
 break;
 }
-fHJ2k = (unsigned char)(y96cSQ);
+
 
 
 

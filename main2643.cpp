@@ -61,7 +61,7 @@ int main(int argc, char** argv)
   unsigned int  gKZh1Y7;
 
 	unsigned char	ePXq_AElqN;
-	ePXq_AElqN	=	-799472491;
+
     int    Ybn2pK4;
     Ybn2pK4    =    -315215499;
   unsigned long  Cf57rM_50;
@@ -77,7 +77,7 @@ int main(int argc, char** argv)
 	unsigned short	Y5oULttH6;
 	Y5oULttH6	=	-981149665;
     unsigned long long    Vc51aZNm;
-    Vc51aZNm    =    366823394;
+
     unsigned long    EfFL4;
     EfFL4    =    1278720761;
  unsigned short int h1E2_X;

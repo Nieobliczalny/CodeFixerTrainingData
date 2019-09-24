@@ -72,7 +72,7 @@ for (int i = 9; i >= 0; i--)
 nW7tHw = jNi0Hs1YuF(nW7tHw, xV8A3Dq_, frCXX);
 }
 
-frCXX = (float)(ur7L6AI);
+
 
 xV8A3Dq_ = Sg8kzpz();
 vqt0V %= 1380657254;
@@ -151,7 +151,7 @@ case 4:
 
 break;
 default:
-frCXX = (int)floor(f69a);
+
 break;
 }
 xV8A3Dq_ = (int)abs(ur7L6AI) * 0;

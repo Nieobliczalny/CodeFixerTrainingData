@@ -370,7 +370,7 @@ case 2:
 
 break;
 case 3:
-O244 = (int)ceil(wkRi2g8aFo);
+
 break;
 case 4:
 

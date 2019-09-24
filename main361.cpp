@@ -62,7 +62,7 @@ int main(void)
     float    u3l8vC;
 
   float  uMzh9Q2ls;
-  uMzh9Q2ls  =  1218905092;
+
  int ruDd28;
  ruDd28 = 1338612066;
  int lQh4_5zL;
@@ -122,7 +122,7 @@ int main(void)
     short int    ltfPHalI;
 
 	unsigned short int	xHNCy_FZg;
-	xHNCy_FZg	=	1013700629;
+
   long long  s_Mje6_;
   s_Mje6_  =  1726842053;
     unsigned short int    Pl78TjTn3W;
@@ -168,7 +168,7 @@ int main(void)
 	int	h1K6x2g;
 
  double l04X;
- l04X = 1434480732;
+
  long double xJ1dw7;
  xJ1dw7 = 946803097;
  unsigned short int sM2507Z;
@@ -184,7 +184,7 @@ int main(void)
 	int	k3i24b;
 
  unsigned char KdU1qT7ts;
- KdU1qT7ts = 616952201;
+
   long  edytQ4;
   edytQ4  =  1879281302;
 	short int	Ep0d;
@@ -277,7 +277,7 @@ break;
 
 try
 {
-Yd1X2l &= 272801280;
+
 }
 catch (int& errorCode)
 {
@@ -355,7 +355,7 @@ try
 switch (D3PJLm)
 {
 case 0:
-z1QSVn = DSxl85 | 652136031;
+
 break;
 case 1:
 
@@ -483,7 +483,7 @@ case 2:
 
 break;
 case 3:
-g_A_C = VAvVs4A(g_A_C);
+
 break;
 case 4:
 
@@ -495,7 +495,7 @@ case 6:
 
 break;
 case 7:
-xJ1dw7 = (int)floor(B_I9nw220h);
+
 break;
 default:
 

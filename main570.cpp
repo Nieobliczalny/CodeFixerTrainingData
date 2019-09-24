@@ -157,7 +157,7 @@ int main()
  long Xl5KYvp5;
 
  short hvtCac7;
- hvtCac7 = 1262775866;
+
  short ky6xY;
  ky6xY = -549046423;
   long double  M10Nv;
@@ -203,7 +203,7 @@ int main()
  long double XfkmL_;
 
     long double    iXES0d_LeL;
-    iXES0d_LeL    =    957274625;
+
  char HSa__;
  HSa__ = 1301658163;
 

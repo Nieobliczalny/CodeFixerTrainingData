@@ -49,7 +49,7 @@ int main(void)
 	int	w10J2Pd7;
 	w10J2Pd7	=	91523178;
  double HSSvX7i0x8;
- HSSvX7i0x8 = -923424532;
+
     long long    Q84404EWe;
     Q84404EWe    =    -1374020751;
   unsigned long long  Ebeh7;
@@ -77,7 +77,7 @@ int main(void)
  long long lfSDeS1G;
  lfSDeS1G = -2049342511;
   float  wi959OAefk;
-  wi959OAefk  =  -844298902;
+
     double    iW16kyaJ;
 
 	short int	KcbuZH;
@@ -87,7 +87,7 @@ int main(void)
     unsigned int    VtAMp4n5_L;
 
  unsigned long long v1kQc;
- v1kQc = 238762457;
+
   double  E0_uV;
   E0_uV  =  -849032808;
     unsigned int    BgEh1D8A8I;

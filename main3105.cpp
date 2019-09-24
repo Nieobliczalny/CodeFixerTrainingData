@@ -26,7 +26,7 @@ int main(int argc, char** argv) {
     long long    LfQxG_;
 
   double  cHeSY8Xe1C;
-  cHeSY8Xe1C  =  218492343;
+
   unsigned short int  a5NF;
   a5NF  =  669063349;
 	char	Fzptt458;
@@ -84,7 +84,7 @@ int main(int argc, char** argv) {
     double    sYz1;
 
  long double QQ52FLe67;
- QQ52FLe67 = 1545869449;
+
   short  gk8w3J87;
   gk8w3J87  =  1658037215;
   short int  ef799;
@@ -106,7 +106,7 @@ int main(int argc, char** argv) {
     short int    ebDC5;
 
 	int	tzd_6;
-	tzd_6	=	-1516677;
+
     short    MNs1;
     MNs1    =    -789120111;
  unsigned char Yu0kh_;
@@ -130,7 +130,7 @@ int main(int argc, char** argv) {
  unsigned short int CX79x5AD_;
 
 	float	ajmc1GiN;
-	ajmc1GiN	=	239719256;
+
  int ea_R5j;
 
 	unsigned short	nlueP;

@@ -20,7 +20,7 @@ unsigned short  Pq0f3uBKX0(long  pLxRd,unsigned long long  R1Q86,short int  Zw6b
 
 int main(int argc, char** argv) {
  double nndw9ES6;
- nndw9ES6 = 1366416825;
+
   short int  MqLN_tJ7;
 
 	long long	z1_qR;
@@ -30,7 +30,7 @@ int main(int argc, char** argv) {
 	char	zF6dfYloQ0;
 
     unsigned long long    Nh06B0dk;
-    Nh06B0dk    =    811993982;
+
  unsigned short C66fjN9;
  C66fjN9 = 983602453;
 	long	UhfO;
@@ -44,7 +44,7 @@ int main(int argc, char** argv) {
   short  PcK8e;
 
 	long long	j8pB13KLWh;
-	j8pB13KLWh	=	-1068391923;
+
  unsigned short YI0Cba;
 
 	float	tkDiEzEIB;
@@ -60,7 +60,7 @@ int main(int argc, char** argv) {
  unsigned short O37L0;
  O37L0 = -482568144;
 	long long	RioH_;
-	RioH_	=	0;
+
     unsigned long long    J50Y81J;
 
     int    kH587q7bU;
@@ -70,7 +70,7 @@ int main(int argc, char** argv) {
  unsigned long f_3S823;
 
  unsigned int GDVYm8Vn;
- GDVYm8Vn = -1003136193;
+
 	char	FnhpeTEPy;
 	FnhpeTEPy	=	632872028;
     unsigned short    AdN8;
@@ -94,7 +94,7 @@ case 'c':
 
 break;
 case 'd':
-AdN8 = ANtrsL();
+
 break;
 case 'e':
 
@@ -132,7 +132,7 @@ hWnI = Pq0f3uBKX0(V5NyqKkcN, 1997658696, 352168545) << FnhpeTEPy;
 
 
 
-tkDiEzEIB = V5NyqKkcN * 1983900078;
+
 
 XxJn4I = (unsigned int)(kH587q7bU);
 UhfO++;

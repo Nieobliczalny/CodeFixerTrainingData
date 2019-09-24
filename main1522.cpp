@@ -200,7 +200,7 @@ int main(int argc, char** argv) {
 	long double	XQXzWAaTi;
 	XQXzWAaTi	=	-1603650204;
 	unsigned short int	PAXp1RH;
-	PAXp1RH	=	1476991261;
+
 	int	C6Sc_90S6;
 	C6Sc_90S6	=	1627023908;
 	long	bdC2SZ;
@@ -881,7 +881,7 @@ cout << sdBG << PD61 << LqAft(-1611980194, oRY6N_2Dm_, RmxvFk, m2yQx) << Wzz8(Us
 
 
 
-f_pP4 = LqAft(-789087682, 1522339246, -1082491279, NH3wx3Zz);
+
 
 return 0;
 }

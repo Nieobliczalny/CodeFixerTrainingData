@@ -96,7 +96,7 @@ int main()
     short int    xSl2sRHUE0;
 
   short int  pn0aX0ow_5;
-  pn0aX0ow_5  =  2033196411;
+
     long    B03ic;
     B03ic    =    -1821552008;
     unsigned short int    HPDv3;
@@ -160,7 +160,7 @@ int main()
     unsigned int    j8dhA;
 
   unsigned char  be9u_T;
-  be9u_T  =  1549684350;
+
     float    ADx_JYID7F;
     ADx_JYID7F    =    1386984825;
     unsigned long long    wqjwKPx8H;

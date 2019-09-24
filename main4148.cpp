@@ -117,7 +117,7 @@ for (int i = 8; i >= 0; i--)
 {
 lEP8CoUDk = (unsigned long long)(rcPz50);
 }
-S9FmAC = (float)(I5VyrCtIb);
+
 {
 int i = 0;
 while (i < 5)
@@ -220,7 +220,7 @@ rh6J307D5 %= xmqc_g;
 
 
 
-UL1_j3N6hA = (unsigned short int)(g58kST1);
+
 try
 {
 pYlL24yI = (int)ceil(g58kST1);

@@ -447,7 +447,7 @@ LL912 *= 1506502873;
 }
 LL912 = (char)(l4UhT9TH + (-126779784));
 l7z_Yd = (int)abs(tD105Uj) + (150931485);
-DTEiHx = (unsigned short)(f3P_V);
+
 if (H_3cC4 != -217110394)
 {
 if (((l7z_Yd) && (pZErI_6W >= -1003290664)) || (dGjTrMM6x <= -1928066984))

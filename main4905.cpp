@@ -249,7 +249,7 @@ break;
 }
 else
 {
-Up4_ = Lom_cu();
+
 }
 
 if ((JC7Wu6Ux6z & l5v_K) || (JL0mu <= -1229982156))
@@ -262,7 +262,7 @@ case 0:
 
 break;
 case 1:
-L_cSy = e7J6JK6Va();
+
 break;
 case 2:
 

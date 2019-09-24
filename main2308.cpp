@@ -140,7 +140,7 @@ int main(int argc, char** argv) {
   double  Hxof;
   Hxof  =  -358275721;
     unsigned long long    EOHGCvAaa;
-    EOHGCvAaa    =    0;
+
     char    X3Ktze;
     X3Ktze    =    -544947905;
 
@@ -262,7 +262,7 @@ else if (QL5Z != 166351054)
 int k = 8;
 while (k >= 0)
 {
-EOHGCvAaa = MQIM8am4(-1423647360, 1294388435, -841865932, 970206719);
+
 k--;
 }
 }
@@ -281,7 +281,7 @@ F6G_lCR9 = B02dtg_CZ0(F6G_lCR9);
 break;
 case 'c':
 case 'C':
-EOHGCvAaa = MQIM8am4(-1250519891, AUq15T42, 2041093689, 1020744945);
+
 break;
 case 'd':
 case 'D':
@@ -295,7 +295,7 @@ else
 int k = 10;
 while (k >= 0)
 {
-EOHGCvAaa = MQIM8am4(-1776194048, x6dG__JV, -1475222433, X3Ktze);
+
 --k;
 }
 }
@@ -530,7 +530,7 @@ case 2:
 
 break;
 case 3:
-Yh_6LJ4i_ = yx_g9 << slFJ8a;
+
 break;
 case 4:
 

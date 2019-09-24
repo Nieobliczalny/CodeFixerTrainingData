@@ -350,7 +350,7 @@ case 2:
 
 break;
 case 3:
-ac4V <<= 692774996;
+
 break;
 case 4:
 

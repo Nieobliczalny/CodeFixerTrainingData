@@ -199,7 +199,7 @@ break;
 }
 cout << X0dh0 << "G681DgA0" << h7S56m881(vBBqs1c, -1578575248, 839156880, -100616184, si4dXk) << endl;
 
-PALXOJf = (int)ceil(xXU3v);
+
 return 0;
 }
 

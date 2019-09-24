@@ -43,7 +43,7 @@ int main()
   s4xy7D4sFv  =  -2065795051;
 
   G13KDVsjQ  =  1546765147;
-  my80WB  =  498085066;
+
   h0C6L  =  291574487;
   W3RTwST  =  91235222;
   gz80iOD1ns  =  -590058208;
@@ -67,7 +67,7 @@ int main()
   e1lq_  =  538038743;
 
   d11R  =  -2051411325;
-  q6Q8o_  =  -1501211097;
+
   jJ6f4  =  775362791;
 
   Ag_C7808  =  -78545625;
@@ -209,7 +209,7 @@ case 3:
 CVaW8_taEo = QU9w << k8c55h;
 break;
 case 4:
-IFa8 = yc_6243INF();
+
 break;
 case 5:
 
@@ -246,7 +246,7 @@ switch (jJ6f4)
 {
 case 'a':
 case 'A':
-jW88 = yc_6243INF();
+
 break;
 case 'b':
 case 'B':
@@ -346,7 +346,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-u6w2v = (int)abs(x5_8613);
+
 break;
 case 'c':
 case 'C':
@@ -379,7 +379,7 @@ if (my80WB == -1921738800)
 switch (JyI2q)
 {
 case 0:
-TI1b %= wyEr5jsm;
+
 break;
 case 1:
 pHRHv04 = N9PZ5c0(W3RTwST, -1726503375);
@@ -403,7 +403,7 @@ case 7:
 
 break;
 case 8:
-tb_2Vd_0l &= 1785422475;
+
 break;
 default:
 
@@ -428,7 +428,7 @@ case 2:
 
 break;
 case 3:
-QU9w = yc_6243INF();
+
 break;
 case 4:
 
@@ -440,7 +440,7 @@ case 6:
 
 break;
 default:
-gLIGB_9cr1 = yc_6243INF();
+
 break;
 }
 

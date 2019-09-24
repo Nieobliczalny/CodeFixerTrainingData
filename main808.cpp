@@ -471,7 +471,7 @@ case 2:
 
 break;
 case 3:
-a9wgT2CQ = (int)abs(kf_2E3);
+
 break;
 case 4:
 

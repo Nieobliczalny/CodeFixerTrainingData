@@ -579,7 +579,7 @@ do
 j++;
 if (cN4YWCeC <= VoMY7p)
 {
-vUB6p9 = (int)floor(Q45e_F94b);
+
 }
 }
 while (j < 8);
@@ -726,7 +726,7 @@ VPWe = (int)abs(PMChsV6_) * 0;
 }
 else if ((F937JK >= -1838832717) || (dd453 > d56hgL))
 {
-vUB6p9 = (int)floor(N_XcVW);
+
 }
 else
 {

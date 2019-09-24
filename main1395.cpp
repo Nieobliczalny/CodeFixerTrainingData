@@ -470,7 +470,7 @@ case 3:
 
 break;
 case 4:
-OTdW = (int)abs(nyBFI6Q);
+
 break;
 case 5:
 

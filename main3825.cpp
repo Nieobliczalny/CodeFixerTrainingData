@@ -156,7 +156,7 @@ int k = 2;
 do
 {
 --k;
-t5208q286v = UrcY5 - eRFk0;
+
 }
 while (k >= 0);
 }
@@ -270,7 +270,7 @@ case 'h':
 
 break;
 case 'i':
-i5X2X = (int)abs(iUwvo4AHK_);
+
 break;
 default:
 
@@ -341,7 +341,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-CJm05kh /= p6rJD7Osc;
+
 break;
 case 'g':
 case 'G':
@@ -428,7 +428,7 @@ case 2:
 
 break;
 case 3:
-Y0fE2 = (int)abs(dAmvF9R);
+
 break;
 default:
 

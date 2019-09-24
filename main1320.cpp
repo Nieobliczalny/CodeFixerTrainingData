@@ -408,7 +408,7 @@ while (i < 4);
 
 aGFm0pdu = (long double)(Kc8R72_);
 
-pK5SsXIi8 = dTeH71SdE(-737739654, EFAvv_, KMhy) - 782947336;
+
 switch (BD3WGL)
 {
 case 'a':
@@ -430,7 +430,7 @@ case 'f':
 
 break;
 default:
-Kc8R72_ = J3ZQEkh6(aGFm0pdu, 280816950, bjpb2h5, xUNLQrP) / 1367719530;
+
 break;
 }
 

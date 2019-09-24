@@ -92,7 +92,7 @@ int main(int argc, char** argv)
     double    Yeok8;
     Yeok8    =    -203510488;
   short int  n3kFqC221g;
-  n3kFqC221g  =  -1340420866;
+
 	float	Q_1m8_;
 	Q_1m8_	=	-1700243304;
 	unsigned short	cF7132J3;

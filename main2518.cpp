@@ -58,7 +58,7 @@ int main(int argc, char** argv) {
 	B5MhtT7l	=	-2041550116;
 	D_Wf57Qs	=	1732948365;
 	W850277w4e	=	1573823846;
-	Xs3rUW	=	1236013600;
+
 	T4Ld3g2a20	=	-1736747808;
 	xOSF67S	=	1429096488;
 
@@ -82,7 +82,7 @@ int main(int argc, char** argv) {
 	Xi3_bL	=	-1718914903;
 
 	e_H1_G5GI	=	-1295056267;
-	we88k7Rk27	=	1660618070;
+
 	Hd_ZmrWu	=	446992495;
 	SwNC8Q	=	1715434431;
 	vIAYidwN	=	1261127681;

@@ -244,7 +244,7 @@ case 5:
 
 break;
 case 6:
-qtQh = (int)ceil(MBwtAOpnyK);
+
 break;
 case 7:
 ge1C88 = (int)ceil(ycjSAM6F9);

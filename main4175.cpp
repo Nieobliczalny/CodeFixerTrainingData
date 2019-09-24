@@ -339,7 +339,7 @@ case 2:
 j0hR3D_gm = (int)floor(g8qf);
 break;
 case 3:
-wN6Hl114 ^= 2057373734;
+
 break;
 }
 }
@@ -389,7 +389,7 @@ else
 {
 if ((DC8vN39zz <= -1495014653) && (o0TGa < O92NNq16S))
 {
-wN6Hl114 = e62zN(wN6Hl114, 195054229, -688482840);
+
 }
 else
 {

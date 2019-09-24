@@ -820,7 +820,7 @@ while (k < 8);
 
 if ((KcH46 >= -480851774) && (Va1h8nWs == -1688802803))
 {
-s6__5N = (long)(i6TPIh_nb);
+
 }
 else
 {
@@ -993,7 +993,7 @@ case 'e':
 
 break;
 case 'f':
-dhfi1 = hsJEf ^ AN6r4W8M;
+
 break;
 default:
 z96n0 = my3Hqp(1910748982, 1228486859, x7IO);

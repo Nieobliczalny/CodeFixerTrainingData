@@ -741,7 +741,7 @@ case 'G':
 K3A3jB_mF5 = CQbE6OZE5 ^ DDT5N;
 break;
 default:
-oB4m0Q = (int)abs(pj5a9HsVIB) + (-1414153010);
+
 break;
 }
 }
@@ -786,7 +786,7 @@ y6RdtXV74E = Tonee(y6RdtXV74E, -858090561, xPW8_kohh, bjG6);
 }
 else if (w2I7e)
 {
-oB4m0Q = X0372 | CQbE6OZE5;
+
 }
 else
 {

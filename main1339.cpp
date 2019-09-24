@@ -97,7 +97,7 @@ case 3:
 
 break;
 case 4:
-JbjE10COK = (int)abs(a2jd);
+
 break;
 case 5:
 w3iH7ol6P *= 1456390146;

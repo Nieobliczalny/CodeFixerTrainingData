@@ -56,7 +56,7 @@ std::cout << U2rWE5a_ << std::endl;
 }
 else if (((m3w3 < N0E2F5DV) || (VBZxqwE72 != Noz2q)) && (CL2065o_9P < 1706325548))
 {
-BwyE6K7g = UQBhzJ7 + 580539828;
+
 }
 else if (y_gudM0 > 1772041398)
 {
@@ -73,7 +73,7 @@ case 'b':
 s_7n <<= YZ10OC59;
 break;
 case 'c':
-BwyE6K7g += EVCb1eh1;
+
 break;
 case 'd':
 A9oR_XjU = L4_W8Sm + 516233082;
@@ -427,7 +427,7 @@ case 7:
 
 break;
 case 8:
-g7lg1lfG4m <<= 1412050317;
+
 break;
 case 9:
 c04RST &= 1339338652;

@@ -385,7 +385,7 @@ else
 int j = 8;
 while (j >= 0)
 {
-lBB8vvk_o8 = I_Cp3Hz6mS();
+
 --j;
 }
 }

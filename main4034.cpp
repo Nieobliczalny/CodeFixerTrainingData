@@ -123,7 +123,7 @@ switch (JKYY)
 {
 case 'a':
 case 'A':
-AUr5p = (int)ceil(N_pP0o9_4);
+
 break;
 default:
 N_pP0o9_4 = (int)floor(AUr5p);
@@ -162,7 +162,7 @@ e8sVI6 = gqf67v_M9 + 362754275;
 }
 else if (lb9yE6 > Q1IKKc)
 {
-AUr5p = (int)floor(N_pP0o9_4);
+
 }
 else if (IRu3_usGc < -1591048254)
 {
@@ -183,7 +183,7 @@ else if ((AUr5p <= sKm7t54kN) && ((ksTlQ_u == sKm7t54kN) && (gqf67v_M9 == 104066
 int k = 0;
 while (k < 9)
 {
-AUr5p = (int)floor(N_pP0o9_4);
+
 ++k;
 }
 }

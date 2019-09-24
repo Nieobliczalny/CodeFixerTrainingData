@@ -353,7 +353,7 @@ m0_24GE5 = (unsigned long)(gDLFd7fVZQ);
 
 
 
-NuIT0eLe30 = (int)abs(RA_13d1);
+
 
 try
 {

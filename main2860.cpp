@@ -63,7 +63,7 @@ int main(void)
 	unsigned long	Ao9W__5;
 
 	long double	A1OB11gM;
-	A1OB11gM	=	-312291083;
+
 	double	TRG6Acw2QT;
 	TRG6Acw2QT	=	-275323423;
  long long lp5CH;
@@ -97,7 +97,7 @@ int main(void)
 	unsigned short int	C61s3w24_;
 	C61s3w24_	=	0;
     long double    Cav00pi996;
-    Cav00pi996    =    1306802165;
+
     int    yoFKx90nou;
 
     short    J24Qk;
@@ -133,7 +133,7 @@ int main(void)
   unsigned char  m2_Xrcu_98;
   m2_Xrcu_98  =  186123781;
 	unsigned char	xpL50617_P;
-	xpL50617_P	=	1625843086;
+
 	unsigned char	F8aV5;
 
     unsigned long long    Da6s_80;
@@ -165,7 +165,7 @@ switch (g2g7)
 {
 case 'a':
 case 'A':
-A1OB11gM = (int)ceil(XCnnAnf9);
+
 break;
 case 'b':
 case 'B':
@@ -274,7 +274,7 @@ case 4:
 
 break;
 case 5:
-uGuir4 = XgvSS876K ^ yYQKqSjn;
+
 break;
 case 6:
 
@@ -315,7 +315,7 @@ iDRw7k4vzu++;
 break;
 case 'e':
 case 'E':
-ph40z2 = VHU8X_xD & w8cnmSz4;
+
 break;
 }
 

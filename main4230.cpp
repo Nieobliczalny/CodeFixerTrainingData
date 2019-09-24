@@ -348,7 +348,7 @@ else
 }
 
 
-Pay0 = InpqcLTP >> HqVj;
+
 return 0;
 }
 

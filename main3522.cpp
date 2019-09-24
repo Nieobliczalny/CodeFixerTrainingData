@@ -31,7 +31,7 @@ int main()
  GFwI2ma = 1130657802;
  I1YmG7EB_ = 540743404;
 
- MlPMHr14 = 242872170;
+
 
  lXZ9V = 1759098705;
  zpR1M5wb = -1278080491;
@@ -44,7 +44,7 @@ int main()
  V4U63Zlm = 21442984;
 
 
- d_pMv8 = 1118428908;
+
  nX5g1Ro6B = -1588273265;
  K4dq = -1330796134;
  tq2Nt = -278196585;
@@ -58,7 +58,7 @@ int main()
  mhRF_1f_ = -1389655688;
  kzEC = -1920682561;
 
- z5yWZ9tt = 1245633839;
+
 
  r5_0_uc2 = 1506573713;
  ZA9U9 = 1520888852;
@@ -72,7 +72,7 @@ int main()
 
 
 
- JRuJ = 1151155668;
+
  GtnEc7gSbx = 1597518280;
  o66x = 504574397;
  qC8bBN = -1280607113;
@@ -85,7 +85,7 @@ int main()
 
 
  P97362C_iI = -14187435;
- XkN_7 = -646258275;
+
  Wbk6s4FU = 1326570395;
  fLg36 = -1898350875;
  vX5IC66Bi = 278353781;
@@ -102,7 +102,7 @@ int main()
  o9kwEg = -1173021528;
  eOXcPp = -1926448781;
 
- R3Acn5xUx = 2146910230;
+
 
 
 std::cout << F_6__U3 / w2pwz55 << std::endl;
@@ -113,7 +113,7 @@ std::cout << H45_2N << "HX0n1x93T" << std::endl;
 switch (aRUh5bj)
 {
 case 'a':
-ANR_ = (int)abs(nOnV60E3g);
+
 break;
 case 'b':
 
@@ -134,7 +134,7 @@ case 'g':
 
 break;
 default:
-n26Ua96oE5 >>= uh12S3YPyC;
+
 break;
 }
 

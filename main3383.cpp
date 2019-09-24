@@ -25,7 +25,7 @@ int main()
 	G6we1	=	0;
 	tazSqA35u	=	0;
 
-	pZtBZv2jD	=	0;
+
   float  CRu99,  RX85597P,  nS_05ua0W,  Gr6F1C,  GwFnba43,  al8l4vg4,  RQaCvHf2m,  dkqa4KI,  O3wzf79Mem,  y332aw,  E75Nk7p1,  hnwcI,  DsoR,  oW01789Gd,  DreV,  Lus1L,  dytB6,  QUic3138,  UQdzc57U,  PRaSfy,  K_f51K,  u2mSze6,  vL7YDJ,  dE4x,  beJN79plx,  apaiV,  yd0ZiI,  m__7,  Tk_fT6uDGl,  CAh9KzztB,  TG0Kf_y,  aeM5n7_,  Wi14,  PABU,  HwG5X,  tH6Um3ftmK,  A3EYVMqK,  ESZww82xPd,  Q42MY8,  GSsDvctr_,  EnH_Jn,  eH1dRT21b,  iRum8Pm3G9,  Nobu,  isbZFDKwL,  XlpWpzBR,  dU8q,  Hy_Idh,  cvjC6zwB,  RT_CWpsm4a,  s531n86G2q,  lfS9Tm355,  w0s2Gn5f,  L0DC0,  f0S4BLc9n,  KY69P_I4e1,  p982zl4n4W,  p3b_0,  Z41rI,  o8wk,  eV07k53,  uYPL9O6b,  C5F7O,  AWW599,  R9Wg_YrdI,  PsFoVcn,  wY09rPpk7f,  N2f2T,  Dw25,  e1zS6y,  pPs6q0F,  Y1_8hT15uL,  WWn9EUc5A0;
   CRu99  =  -1800307139;
   RX85597P  =  -376885896;
@@ -35,7 +35,7 @@ int main()
 
   RQaCvHf2m  =  -1208950287;
 
-  O3wzf79Mem  =  1206116647;
+
   y332aw  =  -1838256650;
   E75Nk7p1  =  -1527330609;
   hnwcI  =  -938084899;
@@ -51,7 +51,7 @@ int main()
 
   vL7YDJ  =  672822162;
 
-  beJN79plx  =  -1800304468;
+
   apaiV  =  -1274141555;
   yd0ZiI  =  1838085204;
 
@@ -63,7 +63,7 @@ int main()
   PABU  =  633177001;
   HwG5X  =  -32327446;
 
-  A3EYVMqK  =  -34170497;
+
   ESZww82xPd  =  267554380;
 
   GSsDvctr_  =  -1916077012;
@@ -77,7 +77,7 @@ int main()
   Hy_Idh  =  -1077817661;
   cvjC6zwB  =  1247179867;
 
-  s531n86G2q  =  -952483087;
+
 
   w0s2Gn5f  =  319288594;
   L0DC0  =  -38463312;
@@ -87,7 +87,7 @@ int main()
   p3b_0  =  992657441;
   Z41rI  =  1505028414;
 
-  eV07k53  =  2048573300;
+
   uYPL9O6b  =  442855237;
 
   AWW599  =  -1197549821;
@@ -97,7 +97,7 @@ int main()
   N2f2T  =  283079931;
   Dw25  =  565976547;
 
-  pPs6q0F  =  -681095905;
+
   Y1_8hT15uL  =  -678052854;
   WWn9EUc5A0  =  1555520119;
 
@@ -207,7 +207,7 @@ for (int i = 0; i < 1; i++)
 
 try
 {
-RT_CWpsm4a = (float)(Tk_fT6uDGl);
+
 }
 catch (int& errorCode)
 {
@@ -248,7 +248,7 @@ case 7:
 
 break;
 case 8:
-Q42MY8 = (int)ceil(Tk_fT6uDGl);
+
 break;
 case 9:
 hnwcI = K_f51K - 389939380;

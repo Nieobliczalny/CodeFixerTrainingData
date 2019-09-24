@@ -243,7 +243,7 @@ case 'H':
 F67q = lZElkZFoVV(kc9f79h, 2012269448, -1504098931, -415701936);
 break;
 default:
-HzIk = JB2xPcf3A & 174524181;
+
 break;
 }
 }
@@ -277,7 +277,7 @@ break;
 
 
 
-dufs8z4_Me = OM1n8LlCI6();
+
 if (((gr6p0) && (TZX1 < 955236832)) || (OGzv != v7v1ha46Ai))
 {
 try

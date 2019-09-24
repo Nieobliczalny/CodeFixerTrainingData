@@ -675,7 +675,7 @@ case 'g':
 
 break;
 case 'h':
-J8F1xu_qg4 = (int)floor(Xgm1M83);
+
 break;
 default:
 F0SgyAV = (int)floor(J8F1xu_qg4);
@@ -692,7 +692,7 @@ case 'a':
 F0SgyAV = (int)abs(E_10175E_H);
 break;
 default:
-J8F1xu_qg4 = (int)floor(WkR64q);
+
 break;
 }
 --i;

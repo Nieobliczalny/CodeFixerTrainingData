@@ -448,7 +448,7 @@ case 0:
 
 break;
 case 1:
-bA1HO89vJ = G5PB(bA1HO89vJ);
+
 break;
 case 2:
 LZSnkqx = (int)abs(X3CW_qt);

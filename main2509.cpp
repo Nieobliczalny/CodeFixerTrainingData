@@ -586,7 +586,7 @@ case 3:
 
 break;
 case 4:
-Bgvj3WI_3 = dm2254NM(Bgvj3WI_3, -1050336001);
+
 break;
 case 5:
 wpfooJ += tZ7r7Ey9;
@@ -730,7 +730,7 @@ case 'f':
 
 break;
 case 'g':
-bh2Q = goBXRcrFM();
+
 break;
 case 'h':
 cGW57jZL >>= 1748009111;
@@ -813,7 +813,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-oLo__52Rs0 = HDi69 - Cri4Q;
+
 break;
 case 'd':
 case 'D':

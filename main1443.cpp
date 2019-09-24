@@ -46,7 +46,7 @@ int main(void) {
   long long  tOEY;
   tOEY  =  -179876205;
   long double  yFjCc;
-  yFjCc  =  850935094;
+
     unsigned long long    vAHy;
 
     long long    GGpq;
@@ -198,7 +198,7 @@ int main(void) {
   long long  M3dsX;
 
 	double	iHTSf5H;
-	iHTSf5H	=	1146075650;
+
  unsigned char W5m20;
  W5m20 = -792519332;
     unsigned char    v1xCn6;
@@ -480,7 +480,7 @@ if (HDUs7LR1)
 }
 }
 b_ZOn = (int)ceil(Vimv);
-BK__85UG = D4q73u ^ SARVhnnUnG;
+
 
 {
 int i = 4;

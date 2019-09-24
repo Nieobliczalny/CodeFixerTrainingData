@@ -14,7 +14,7 @@ int main() {
   long  sf17y71M7w;
   sf17y71M7w  =  -1615617073;
     unsigned long long    xOCa1H2Y6K;
-    xOCa1H2Y6K    =    345620550;
+
 	short int	qJP2QuT7;
 	qJP2QuT7	=	1489407387;
     unsigned long    Au897;
@@ -36,7 +36,7 @@ int main() {
     unsigned long    f0gAOi4_iP;
     f0gAOi4_iP    =    1981763665;
  char j4u2;
- j4u2 = 70797473;
+
  long double r44650;
  r44650 = 812195549;
  long double e5N088;
@@ -82,7 +82,7 @@ int main() {
   short int  zX__8V;
   zX__8V  =  146288445;
 	double	fkRM_;
-	fkRM_	=	365500054;
+
     long    oqsO8A;
     oqsO8A    =    867001056;
     double    CeB7R;
@@ -159,7 +159,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-fkRM_ = (int)floor(r44650);
+
 break;
 case 'f':
 case 'F':

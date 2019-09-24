@@ -241,7 +241,7 @@ switch (pRXfY)
 {
 case 'a':
 case 'A':
-zs6f = fy3V6d(zs6f);
+
 break;
 case 'b':
 case 'B':
@@ -353,7 +353,7 @@ for (int j = 0; j < 7; ++j)
 {
 try
 {
-iitLQ74eB0 = (int)floor(iI9K_0kAcQ);
+
 }
 catch (int& errorCode)
 {

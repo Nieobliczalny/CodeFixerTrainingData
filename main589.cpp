@@ -41,7 +41,7 @@ int main(void) {
 	unsigned short int	ygr4El6;
 
 	double	Qaw_t;
-	Qaw_t	=	1863379120;
+
 	unsigned short int	f54KL;
 	f54KL	=	-1652648948;
 	short int	n59A6;
@@ -53,7 +53,7 @@ int main(void) {
  unsigned char hP17Y6k5;
  hP17Y6k5 = 1247708552;
  unsigned long H47K;
- H47K = -1920298715;
+
  float F6X6fvMxF6;
  F6X6fvMxF6 = 2121690003;
   unsigned long long  zsNWQ9zaF5;
@@ -97,7 +97,7 @@ int main(void) {
 	float	CHa_2qvfY;
 	CHa_2qvfY	=	1199101270;
 	unsigned long long	q43H;
-	q43H	=	-478328014;
+
     unsigned short    K1W9u;
     K1W9u    =    -23925553;
  int pg8fRFqZC;
@@ -117,7 +117,7 @@ int main(void) {
 	unsigned char	re92OnDkj;
 
  short ZGMH5eeSof;
- ZGMH5eeSof = -29754541;
+
   int  IlhugcJ5;
 
  long double zw1_;
@@ -139,7 +139,7 @@ int main(void) {
 	unsigned short	T3j93q7;
 
     short    iVukdK2XRb;
-    iVukdK2XRb    =    813654500;
+
 	float	nx6mpZ;
 	nx6mpZ	=	1869492774;
 	unsigned short int	MJw_DF9643;
@@ -151,7 +151,7 @@ int main(void) {
  unsigned long long d5xxlz95Z;
  d5xxlz95Z = -1188905171;
 	float	YmBE22;
-	YmBE22	=	-935222602;
+
 	unsigned short	kx_wdbB;
 
  float UM4YuPatn;
@@ -168,7 +168,7 @@ aH1C7AsF4 = (int)abs(g_W2V9fUN);
 
 std::cout << UM4YuPatn << h1Rc8f(hfnBS6) << "rQ0VrelK4V" << p4lXTP << std::endl;
 
-AQsn = nx6mpZ / o_e24JsGV(hfnBS6);
+
 
 
 

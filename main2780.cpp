@@ -79,7 +79,7 @@ int main()
     unsigned long    LcIn_;
 
     short int    CbDvkD2;
-    CbDvkD2    =    -920181125;
+
   long  W2bv2ln9;
   W2bv2ln9  =  1407126519;
  unsigned long long Bz8iCFd;
@@ -308,7 +308,7 @@ Qq0iqa_ |= yPsuBj7_C;
 }
 else
 {
-C644I80Ejm = (int)ceil(p9638X7_X);
+
 }
 
 {

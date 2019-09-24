@@ -651,7 +651,7 @@ y1ExPz = tkOTdn3iY3 / tkOTdn3iY3;
 break;
 case 'd':
 case 'D':
-i83dl8Zz = J9242wT0(865538132, -93914973, -685190221);
+
 break;
 case 'e':
 case 'E':

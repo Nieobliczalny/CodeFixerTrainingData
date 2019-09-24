@@ -39,7 +39,7 @@ int main(void) {
 	short	Ygfi;
 	Ygfi	=	-806689766;
     unsigned char    e4sseOE;
-    e4sseOE    =    1714443084;
+
     double    iJQ5dJ1d;
     iJQ5dJ1d    =    1293633466;
 	unsigned short int	mL69g7Nj5k;

@@ -213,7 +213,7 @@ case 'c':
 
 break;
 case 'd':
-d8TGOHD8H2 = (int)ceil(ogv0P);
+
 break;
 case 'e':
 w5gf6cdC76 = (int)floor(om7_a7);

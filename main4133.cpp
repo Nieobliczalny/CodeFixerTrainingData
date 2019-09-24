@@ -118,7 +118,7 @@ while (j < 5)
 {
 if (J_mk3zqcji < SlLRPq)
 {
-TG8C5SX = AdXoBL(-922910440, -259222478);
+
 }
 ++j;
 }

@@ -419,7 +419,7 @@ case 2:
 
 break;
 default:
-Ajsh = Dqpn98cdnF * v0MSVo_NZ;
+
 break;
 }
 

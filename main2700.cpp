@@ -146,7 +146,7 @@ else if (v8Pdy1Pq != OrNz)
 }
 else if (vd6m1 & apA79YqA9)
 {
-XSy93No26 = (int)abs(q_8qa5Sv5S);
+
 }
 else
 {
@@ -409,7 +409,7 @@ case 5:
 
 break;
 case 6:
-sUJAA7 = W6z9v2kDB();
+
 break;
 case 7:
 

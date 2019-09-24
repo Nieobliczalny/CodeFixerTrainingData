@@ -51,7 +51,7 @@ int main() {
   char  HMY8X7;
 
     unsigned short    nAy9qGF;
-    nAy9qGF    =    -785216295;
+
  unsigned int SF73705v76;
  SF73705v76 = 734281119;
     unsigned short    txq_yHE0BM;
@@ -61,7 +61,7 @@ int main() {
   long  BYD_h;
 
 	long double	y6c_2r2Id2;
-	y6c_2r2Id2	=	1555987474;
+
   int  ylUBDjA;
 
 	unsigned int	S2a_b3P;
@@ -89,7 +89,7 @@ int main() {
 	unsigned int	gAY664zVwC;
 
     unsigned int    iKd_4KEpG;
-    iKd_4KEpG    =    1079495446;
+
  short qMK0htlW;
 
   unsigned short int  VLwC9U2IZ;
@@ -107,7 +107,7 @@ int main() {
  double WBKqi;
 
  float D8x4l;
- D8x4l = 614579110;
+
 	short	nmnn;
 
 	unsigned short	BOIJTqBy;
@@ -123,7 +123,7 @@ int main() {
 	unsigned char	OA83;
 
  unsigned long Yul9qN9w8;
- Yul9qN9w8 = 306019133;
+
   unsigned char  xpda2;
   xpda2  =  305390817;
     long long    UdsxRfZ9;
@@ -147,7 +147,7 @@ int main() {
  unsigned char edsar9S50;
  edsar9S50 = 754159373;
 	char	P46J_;
-	P46J_	=	604909273;
+
   long double  Dh9bOtGp;
 
   short  V2MP7f7;
@@ -157,7 +157,7 @@ int main() {
     long    x8o_7;
     x8o_7    =    -173252610;
 	short int	d9_t1;
-	d9_t1	=	389811791;
+
   double  vx7iBFFhcx;
 
 	unsigned char	AVKQ5fc;
@@ -169,7 +169,7 @@ int main() {
   short int  LD_5M;
   LD_5M  =  -1320929381;
 	long	ugWzE;
-	ugWzE	=	-1007414420;
+
 	unsigned char	h1129u8677;
 
     int    O9uB4Ixwv;
@@ -187,7 +187,7 @@ int main() {
  long long AfKnZE;
 
 	int	O6E80CXCo4;
-	O6E80CXCo4	=	-1022866432;
+
   unsigned long  Aq_p5;
 
  long long gkOSB8q;
@@ -197,7 +197,7 @@ int main() {
   unsigned char  j97_G13D;
 
  long long HSLz5d1y;
- HSLz5d1y = 316817896;
+
  unsigned int U3Ak6G4;
  U3Ak6G4 = 606852886;
 
@@ -254,7 +254,7 @@ else if (J2deyoJ == BMyfngEa)
 switch (KybE)
 {
 case 0:
-y6c_2r2Id2 = (int)floor(H34gp_C_9);
+
 break;
 case 1:
 
@@ -266,7 +266,7 @@ case 3:
 
 break;
 case 4:
-Oyx4 /= Kd5178;
+
 break;
 case 5:
 
@@ -284,7 +284,7 @@ break;
 }
 else
 {
-y6c_2r2Id2 = (int)ceil(IhF2a5);
+
 }
 }
 
@@ -335,7 +335,7 @@ while (i < 5);
 
 
 
-DfbO8T = N15rYfM(O9uB4Ixwv);
+
 HMY8X7 = (int)abs(i8SEb);
 
 if (Z0g5t & Sag7l)
@@ -379,7 +379,7 @@ case 2:
 
 break;
 case 3:
-HDX61N0F0H = yR78WfHW(HDX61N0F0H);
+
 break;
 case 4:
 

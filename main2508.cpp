@@ -309,7 +309,7 @@ else if (N9pG & W_9Eoj4n)
 }
 else if (cyw3S3Urm != -638837496)
 {
-y_anq1j3 = (int)abs(aSCyXal);
+
 }
 else if (w2JE & -387664163)
 {

@@ -97,7 +97,7 @@ case 1:
 
 break;
 case 2:
-Ez3r740R /= 1205348221;
+
 break;
 case 3:
 ql0Hr8W = (int)floor(Zi620M95eL);
@@ -109,7 +109,7 @@ case 5:
 
 break;
 case 6:
-eQx93Ojbo = (int)floor(O2DBG31);
+
 break;
 case 7:
 FX_9v = (int)abs(haTzBxu1oc);

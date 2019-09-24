@@ -110,7 +110,7 @@ int main(void)
 	unsigned int	tlOu4C59r	=	-890242911;
   long double  ea_69txK5  =  1344880125;
 
-ROM83z = 1728527487 / JKu8gl6;
+
 HnYj -= 1996955954;
 
 if (Y54Ps2O3Fr < -1861709387)
@@ -150,7 +150,7 @@ else if (sM6i7Tt4 < 109364076)
 }
 else
 {
-SvA69_3K = (int)floor(A0b4ksc45i);
+
 }
 }
 while (j >= 0);

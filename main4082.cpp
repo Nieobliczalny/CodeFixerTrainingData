@@ -268,7 +268,7 @@ case 4:
 
 break;
 case 5:
-QJ4KP = L4AU448fw - 762165685;
+
 break;
 case 6:
 w2bGlT2WE = (int)abs(B174CEE);

@@ -245,7 +245,7 @@ case 1:
 
 break;
 case 2:
-EngfpckRGb = K3t97_(EngfpckRGb);
+
 break;
 case 3:
 U6y_ += 626551177;

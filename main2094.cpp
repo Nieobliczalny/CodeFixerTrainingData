@@ -98,7 +98,7 @@ int i = 3;
 while (i >= 0)
 {
 i--;
-Gec0EcSf6 = (short int)(T25W);
+
 }
 }
 {
@@ -122,7 +122,7 @@ case 3:
 ARx2SD |= 558530614;
 break;
 case 4:
-Gec0EcSf6 = (int)abs(NmnTs196a);
+
 break;
 case 5:
 NmnTs196a |= 261815082;
@@ -148,7 +148,7 @@ case 0:
 fq0dpu2--;
 break;
 case 1:
-xh_a0 = (int)abs(yceG);
+
 break;
 case 2:
 
@@ -200,7 +200,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-oGj96 = qMNPbFi8C ^ 1257079656;
+
 break;
 case 'd':
 case 'D':
@@ -212,7 +212,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-d99wRxj9 = M_j53FG(d99wRxj9, dr9BS6);
+
 break;
 default:
 

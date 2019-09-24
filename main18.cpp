@@ -172,7 +172,7 @@ case 3:
 
 break;
 case 4:
-VpN15PImrd = (c3ds5llMy1 < b1F7GXh) ? W7E_ : T02n5_o(t_9Wu, LUut5Kzs, x96cVG99, 798276946);
+
 break;
 case 5:
 c3ds5llMy1 = (int)floor(DUQFqem);
@@ -282,7 +282,7 @@ while (j < 1)
 ++j;
 for (int k = 0; k < 5; k++)
 {
-GGbMlj = z67jg1p ^ NQah_90C;
+
 }
 }
 }

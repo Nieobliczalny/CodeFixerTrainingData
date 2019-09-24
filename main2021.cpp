@@ -284,7 +284,7 @@ while (j < 6);
 }
 else if ((mbJpsP764A == -491169889) || (dH1W >= W6n2_B))
 {
-kF_ub30 = (int)ceil(Vj82xy7);
+
 }
 else
 {

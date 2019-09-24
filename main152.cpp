@@ -36,7 +36,7 @@ int main(void) {
  unsigned long long Zf5D_;
 
     short    KA_9U;
-    KA_9U    =    560657129;
+
     int    M3Bpg8_fCT;
     M3Bpg8_fCT    =    324109641;
 	long	Ilh4;
@@ -56,7 +56,7 @@ int main(void) {
   unsigned long long  Twq5M6y;
   Twq5M6y  =  -530578081;
 	long long	oCU9Z;
-	oCU9Z	=	2083026841;
+
     int    NUSre;
 
  unsigned short rgx2;
@@ -94,7 +94,7 @@ int main(void) {
 	unsigned int	xipe3M_T;
 
   long  vLDP;
-  vLDP  =  -32845825;
+
 	unsigned short int	Er8xN2x;
 	Er8xN2x	=	-152402195;
   short  Xl_cT;
@@ -108,7 +108,7 @@ int main(void) {
  float QxE00;
  QxE00 = -1102368333;
   unsigned short int  e5rUX;
-  e5rUX  =  -1243443380;
+
   long double  l3rr;
   l3rr  =  1586697548;
 	unsigned long	MMCN;
@@ -120,7 +120,7 @@ int main(void) {
     float    Qz35;
     Qz35    =    -1307178965;
 	short	jTF42gji59;
-	jTF42gji59	=	1773363148;
+
  short int TXY7k81;
  TXY7k81 = -1936317525;
   unsigned long long  yGx2;
@@ -134,7 +134,7 @@ int main(void) {
     unsigned short    EJgHutjW5H;
 
  double BOZ469z;
- BOZ469z = -386461642;
+
 	float	slj_;
 	slj_	=	-659815763;
 	char	d2qL0nz_L9;
@@ -144,7 +144,7 @@ int main(void) {
  long long cXP7_5_o9l;
 
     int    LcB5vhQc;
-    LcB5vhQc    =    -1976344258;
+
  float B7UE6EY66L;
  B7UE6EY66L = 302160138;
  unsigned short Ks42;
@@ -156,7 +156,7 @@ int main(void) {
  float mMPIph4_;
 
   float  HJWt5;
-  HJWt5  =  1478892279;
+
  short int jilhFo;
  jilhFo = -1989225204;
     short    dcNLf5;
@@ -166,7 +166,7 @@ int main(void) {
   char  NC4U_;
 
     unsigned char    OTy67nk56Q;
-    OTy67nk56Q    =    2065793875;
+
   char  OIhGW3aG2f;
   OIhGW3aG2f  =  -2076578193;
  long JgrDJcT;
@@ -180,7 +180,7 @@ int main(void) {
 	short int	xKz1HO;
 
   long double  xp14H7600;
-  xp14H7600  =  -746818777;
+
 	unsigned int	Y8ao40pU1a;
 	Y8ao40pU1a	=	-593024656;
 	unsigned char	O6Hn2j80;
@@ -200,7 +200,7 @@ int main(void) {
   unsigned long  NQ_X;
 
 	double	GN62WhH43;
-	GN62WhH43	=	-2070043913;
+
  long long cnYFPj;
 
 	unsigned short int	Xi3pnjR5x;
@@ -210,7 +210,7 @@ int main(void) {
  char irSP9Q2;
 
   double  JN7zF;
-  JN7zF  =  -2039987393;
+
 	unsigned long	NZHBvZ;
 
 	unsigned char	FUtn3bl9D;
@@ -220,7 +220,7 @@ int main(void) {
   int  t61Hq_1U;
 
  short int Gd86d;
- Gd86d = 1514650817;
+
     short    At4rHL8;
     At4rHL8    =    -2012577793;
   short  dB70gAY13;

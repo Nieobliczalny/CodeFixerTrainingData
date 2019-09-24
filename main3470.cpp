@@ -84,7 +84,7 @@ try
 switch (p19IUq7ZB)
 {
 case 'a':
-Pgt744u = COUt(Pgt744u, -1927752595);
+
 break;
 case 'b':
 h0lsO0_ = vcEy() & 365417147;
@@ -245,7 +245,7 @@ case 0:
 
 break;
 case 1:
-dTd46h_zK = KVdV % i2qSwx2C;
+
 break;
 case 2:
 IGF_P_sgH5 ^= Chh2aZ6;
@@ -266,7 +266,7 @@ case 7:
 
 break;
 case 8:
-AqUr8o_3fR |= OJxqdT;
+
 break;
 case 9:
 
@@ -327,7 +327,7 @@ case 'c':
 hIXDt = t4ns1SQ(-1610329121, -561794069, -1813743878, nXy6, C6b25K);
 break;
 default:
-dTd46h_zK = i2qSwx2C * lMDF;
+
 break;
 }
 }
@@ -444,7 +444,7 @@ else
 }
 else if ((C6b25K & aA25) || ((ZcuSPa & G7BdG) && (KVdV != 463636348)))
 {
-lufAksF = vcEy();
+
 }
 else if (Jp8UN & IGF_P_sgH5)
 {
@@ -561,7 +561,7 @@ default:
 break;
 }
 
-KVdV = (long long)(h0lsO0_);
+
 
 return 0;
 }

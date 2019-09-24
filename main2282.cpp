@@ -351,7 +351,7 @@ case 'c':
 
 break;
 default:
-SNIG6I = (int)floor(xz4n_HbY);
+
 break;
 }
 }
@@ -448,7 +448,7 @@ Mo6F8ZaJ_Q = M8a5fGoT4B(Mo6F8ZaJ_Q, DvK1PiLT);
 int i = 0;
 while (i < 1)
 {
-r_iw7xMr = c4C2KF90op(813056650, JPiMj4e, -2120779677, Q1SEj7q6J8);
+
 i++;
 }
 }
@@ -513,7 +513,7 @@ while (j >= 0)
 j--;
 if (((JZ_V != P8U_0U9hW) || (W8QbUOB44K != p8__Lc)) && (nYmQS5uo70 <= bMp2su8lL))
 {
-SNIG6I = (int)ceil(Ow22Tc3gg);
+
 }
 else if (sm3R88augP)
 {

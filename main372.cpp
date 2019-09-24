@@ -321,7 +321,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-dyIR9 = (int)abs(qm3AW9vOe);
+
 break;
 case 'f':
 case 'F':

@@ -256,7 +256,7 @@ case 5:
 
 break;
 default:
-U26Z = (int)abs(mo4SJ);
+
 break;
 }
 

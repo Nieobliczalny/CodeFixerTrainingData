@@ -236,7 +236,7 @@ case 2:
 qX3mB39 /= LlWWB;
 break;
 case 3:
-eT2raDV5l = (int)floor(lrjM370mx9);
+
 break;
 case 4:
 eT2raDV5l = (int)floor(lrjM370mx9);
@@ -298,7 +298,7 @@ case 'c':
 lrjM370mx9 = (mwvdv4149 < RQJPuVPoq) ? 699484585 : syluG_2t0;
 break;
 case 'd':
-JEsv4B_V = (int)ceil(mwvdv4149);
+
 break;
 case 'e':
 mwvdv4149 = (int)ceil(i4mCPY);
@@ -319,7 +319,7 @@ break;
 switch (t7das)
 {
 case 0:
-Y01ux = (int)ceil(lrjM370mx9);
+
 break;
 case 1:
 qX3mB39 = SxUb_YIS_ ^ V43ig4lvy;
@@ -369,7 +369,7 @@ case 'e':
 
 break;
 case 'f':
-YE630_p <<= syluG_2t0;
+
 break;
 case 'g':
 uS138aky &= t7das;

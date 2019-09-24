@@ -90,7 +90,7 @@ catch (int& errorCode)
 Z85_1T0 = uhxyf >> prFY;
 }
 
-gAUA1dxX = (unsigned short)(nze2CU8 + (-1095278589));
+
 try
 {
 if (sFgD > 969413501)
@@ -102,7 +102,7 @@ catch (int& errorCode)
 {
 Fi6k1 = rQo9(1875254293, jH8nw0wR4C, ZQJWBx6, 644211267);
 }
-a4Dn68B7 = (int)abs(Vh4L);
+
 
 {
 int i = 5;

@@ -24,7 +24,7 @@ int main(int argc, char** argv)
 
 
 
- f63Q68Kfn6 = 1454370693;
+
  C5LK = -935089866;
  kQ4_6H2D = 975020145;
  EXszhc = 518889919;
@@ -34,7 +34,7 @@ int main(int argc, char** argv)
 
 
 
- loI7w = -1931535312;
+
  u9_ZwgKro = -489439798;
  o5_Gt_4L = -487635503;
  O77A36ds = -31441427;

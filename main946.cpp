@@ -299,7 +299,7 @@ case 7:
 
 break;
 case 8:
-F67dwi8 = (int)abs(tx0_ta);
+
 break;
 }
 }
@@ -362,7 +362,7 @@ case 4:
 
 break;
 case 5:
-YGxHD5 = T5Y4 ^ 286486825;
+
 break;
 case 6:
 Twn23R = qVEz << RHj81Ib2;

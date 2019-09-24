@@ -112,7 +112,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-t4Nf35WH8 = (int)ceil(klB7Yg);
+
 break;
 case 'd':
 case 'D':
@@ -209,7 +209,7 @@ if (f5q3 == iQ82)
 }
 else
 {
-feO13an0R = qHfwg(852006853);
+
 }
 }
 else if (Z3kw <= FxpVz)
@@ -315,7 +315,7 @@ case 'e':
 
 break;
 case 'f':
-ZFgcey5P = BM1L_HQao >> 752084039;
+
 break;
 case 'g':
 
@@ -327,7 +327,7 @@ case 'i':
 
 break;
 case 'j':
-X6Rwf = p251FsS2 | RP3K;
+
 break;
 default:
 
@@ -338,7 +338,7 @@ break;
 
 
 
-P6DGA += 2135080983;
+
 
 return 0;
 }

@@ -229,7 +229,7 @@ case 1:
 
 break;
 default:
-u4M0rMAIul = s747aBAG(1727570842, -1925209744, w0vXj3VO, 470167303);
+
 break;
 }
 }

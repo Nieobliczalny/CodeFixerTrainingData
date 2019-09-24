@@ -25,7 +25,7 @@ int main(void)
  rtYB98 = -1454210049;
  VvF4 = -756053786;
  s50OJ0 = -422692897;
- A8a7mh_ = 1637828760;
+
  Hr_z = -836914916;
  nu5Rv = 951736566;
 
@@ -384,7 +384,7 @@ case 2:
 
 break;
 }
-c4hDC = P_MJ * 1663044527;
+
 
 DQ9BO1 = (long)(YkHnO_);
 try

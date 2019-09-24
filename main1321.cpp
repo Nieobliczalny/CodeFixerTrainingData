@@ -116,7 +116,7 @@ case 'c':
 
 break;
 default:
-BOuAw3_d *= 1977038946;
+
 break;
 }
 }

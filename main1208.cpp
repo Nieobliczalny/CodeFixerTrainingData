@@ -169,7 +169,7 @@ case 'h':
 
 break;
 default:
-fGBg = P6hV_uc(729232428, m1X9l2H7y, 743713683, R6TA7f8);
+
 break;
 }
 

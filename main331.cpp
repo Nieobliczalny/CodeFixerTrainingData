@@ -44,7 +44,7 @@ int main(void)
   unsigned short  xDz4ye_3;
   xDz4ye_3  =  -1177870428;
   unsigned short  Da4wr;
-  Da4wr  =  -2068786857;
+
     short int    j1H8L75vg;
     j1H8L75vg    =    -2056285697;
   unsigned long long  CTrDH;
@@ -124,7 +124,7 @@ int main(void)
 	int	gqsqu9xQ;
 	gqsqu9xQ	=	-1704001517;
   char  VmBIrO;
-  VmBIrO  =  1371763827;
+
  long long X5hdtnkO;
  X5hdtnkO = 1853400904;
  unsigned long long XgKA4tht66;
@@ -211,7 +211,7 @@ else
 switch (CTrDH)
 {
 case 0:
-bBv721 &= j5jN0_;
+
 break;
 case 1:
 u18dt_9A++;
@@ -402,7 +402,7 @@ case 3:
 
 break;
 case 4:
-wV98u1I = W5mCbN78x(-1457417908, XgKA4tht66, te7twR8Z);
+
 break;
 case 5:
 O4nSC3s = d_6GB3() / 1871168389;
@@ -501,7 +501,7 @@ case 3:
 
 break;
 case 4:
-O4nSC3s = W5mCbN78x(1160065003, asCh8_Mo, Lifq_);
+
 break;
 case 5:
 I7wz2cB = onL0911roU(-1395052466, n88cD, CAA5qqV6Ee, If1H9LbB);

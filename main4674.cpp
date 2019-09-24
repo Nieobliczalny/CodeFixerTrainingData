@@ -252,7 +252,7 @@ case 2:
 
 break;
 case 3:
-GELO83 |= 1312773246;
+
 break;
 case 4:
 

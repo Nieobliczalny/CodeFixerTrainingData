@@ -21,7 +21,7 @@ int main(int argc, char** argv)
   float  Zm0JT;
   Zm0JT  =  -197774922;
   long double  V8LCo_1;
-  V8LCo_1  =  -1947581865;
+
   long  dFKQHIYo_;
   dFKQHIYo_  =  -330194259;
     unsigned short    vnI_YcDqU;
@@ -33,7 +33,7 @@ int main(int argc, char** argv)
   unsigned short int  a_1lUI4D9;
   a_1lUI4D9  =  1172571526;
  int G2FPg;
- G2FPg = -808322973;
+
     short    uMeiHx;
 
   float  aD2X2_6;
@@ -61,7 +61,7 @@ int main(int argc, char** argv)
 	unsigned long long	JFrghbt;
 
  unsigned short int mz0j9RD;
- mz0j9RD = -2047129010;
+
   int  XQJCSd4X3_;
   XQJCSd4X3_  =  -1939838355;
     long long    Qzz45Gi_t;
@@ -117,7 +117,7 @@ int main(int argc, char** argv)
  double PyP9k;
  PyP9k = 64152357;
 	long long	Kiqk;
-	Kiqk	=	-1650600745;
+
  unsigned char lMk99x9;
 
  long double j3iw_27;
@@ -162,7 +162,7 @@ for (int j = 0; j < 9; ++j)
 int k = 6;
 while (k >= 0)
 {
-aD2X2_6 = (int)ceil(Y9b_kvS);
+
 --k;
 }
 }
@@ -236,7 +236,7 @@ case 4:
 
 break;
 case 5:
-Y9b_kvS = (int)ceil(V8LCo_1);
+
 break;
 case 6:
 qs_b2B = NBf6G(-921067308, Qf2iulbK7z);
@@ -455,7 +455,7 @@ case 'e':
 
 break;
 case 'f':
-wxWoJoML0 = (int)abs(ovmBmPL9S);
+
 break;
 case 'g':
 qs_b2B = NBf6G(1999692133, XZJL3rJo);

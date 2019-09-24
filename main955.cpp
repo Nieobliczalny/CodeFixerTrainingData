@@ -67,7 +67,7 @@ int main(int argc, char** argv) {
  kU2Q83e = 1765006760;
 
 
-igOSxG = MG1r_y9y / vZ11_uOe(1609030549, 355632899);
+
 
 std::cout << "NH2b7" << "pI1Q1rxz" << P22rJ26jJx(XEXY4aK3dl) << "GhnxWUu2t0" << C67jh8P << std::endl;
 std::cout << P22rJ26jJx(XEXY4aK3dl) << "U4Tm" << std::endl;

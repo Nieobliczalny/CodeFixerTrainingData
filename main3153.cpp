@@ -28,7 +28,7 @@ int main(int argc, char** argv)
     unsigned long long    SLBCs;
     SLBCs    =    -1343532792;
     short int    Ewq1a;
-    Ewq1a    =    813870691;
+
     float    JeKSm0z;
     JeKSm0z    =    1080722505;
 	char	rpAVQ;
@@ -40,7 +40,7 @@ int main(int argc, char** argv)
 	long	kR5_H;
 
  float kN_G8V;
- kN_G8V = -879419850;
+
 	char	Al52GX34;
 	Al52GX34	=	-1621861367;
  unsigned long long KcEUK6UnX;
@@ -54,7 +54,7 @@ int main(int argc, char** argv)
   unsigned char  p2BE6C_P2;
 
 	int	qHj7y;
-	qHj7y	=	224741052;
+
 	long double	khy7_jF;
 
   unsigned long long  fsG2dTu58_;
@@ -64,7 +64,7 @@ int main(int argc, char** argv)
  unsigned char p1iRN6V2;
 
     unsigned long    Gh0mS_s;
-    Gh0mS_s    =    1902149287;
+
     unsigned long    fhNv;
     fhNv    =    -1671020850;
     unsigned short int    WP52l;
@@ -76,7 +76,7 @@ int main(int argc, char** argv)
     int    vvSAy_uO;
 
 	short	i4pU;
-	i4pU	=	43177862;
+
   unsigned long long  o_2l;
   o_2l  =  -1685895265;
     short    grP1MWU8;
@@ -92,7 +92,7 @@ int main(int argc, char** argv)
   unsigned short int  BsJVeZNaNG;
 
  long long GU7GZtY3M_;
- GU7GZtY3M_ = 664545158;
+
 	unsigned int	zNt00K;
 	zNt00K	=	-2036758934;
 	unsigned long long	e8EEkvwQ;
@@ -106,7 +106,7 @@ int main(int argc, char** argv)
   long  x2Z2Iy_h;
 
  char siS1_;
- siS1_ = 2119337985;
+
   unsigned long long  Rh0E9_l;
   Rh0E9_l  =  0;
     int    O5Af_j_6_;
@@ -150,7 +150,7 @@ int main(int argc, char** argv)
 	short	PSZ0jYh;
 	PSZ0jYh	=	-336400905;
   float  xl4T80wS9H;
-  xl4T80wS9H  =  -1518394384;
+
  float Q4On1STZX;
  Q4On1STZX = -1652083107;
   int  IRYk4X1g7;
@@ -168,7 +168,7 @@ int main(int argc, char** argv)
     unsigned short int    E2t06Wz;
 
   char  DTfsI;
-  DTfsI  =  -1403554204;
+
 	unsigned char	A943;
 	A943	=	-124706331;
   long  X_M63CHV;
@@ -217,7 +217,7 @@ case 'c':
 
 break;
 case 'd':
-khy7_jF = (int)abs(eyWtH38x_4);
+
 break;
 case 'e':
 
@@ -344,7 +344,7 @@ std::cout << A943 << "Wvq9q1O" << "O2MizR" << PSZ0jYh << "Zx4Uwz" << std::endl;
 
 
 
-b8j4 = (int)abs(fO8x_NadB7);
+
 
 if (FT976xc <= yj0wrYx)
 {

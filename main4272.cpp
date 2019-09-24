@@ -87,7 +87,7 @@ int main(void)
   long  S8V9rTsXw;
 
  short R76JThn;
- R76JThn = -141895656;
+
     long long    df3Z1;
 
  long long wVv6iT_hWf;
@@ -121,7 +121,7 @@ int main(void)
     double    Y3Hq9jc;
     Y3Hq9jc    =    331627093;
     long    m32J;
-    m32J    =    637367328;
+
   unsigned char  Zw9_m_On;
   Zw9_m_On  =  -380098208;
  long double MJI4L2Vx0;
@@ -320,7 +320,7 @@ case 6:
 
 break;
 default:
-MJI4L2Vx0 = (int)abs(p77M);
+
 break;
 }
 }

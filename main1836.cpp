@@ -115,7 +115,7 @@ case 4:
 a9TVQ = TkB1E3QK << cgb4g;
 break;
 case 5:
-zTolXd = xd9lbLxE + sxHv479z;
+
 break;
 case 6:
 xd9lbLxE = (int)ceil(f0197j8);
@@ -401,7 +401,7 @@ case 'e':
 
 break;
 case 'f':
-W6Q3MUgb = (int)abs(dq6SI8n);
+
 break;
 case 'g':
 a9TVQ <<= p7dN6Q;

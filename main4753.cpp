@@ -217,7 +217,7 @@ else
 {
 if (R0kj == i1Cg)
 {
-YMCc_s8R = (int)abs(b2J_lE);
+
 }
 else
 {

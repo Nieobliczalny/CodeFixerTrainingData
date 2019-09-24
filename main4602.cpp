@@ -32,7 +32,7 @@ int main(void) {
     short    Zt3_4tT77B;
     Zt3_4tT77B    =    328610878;
   float  pO5642h0cf;
-  pO5642h0cf  =  1885944189;
+
   unsigned short  v8bR_;
   v8bR_  =  1828334507;
 	float	E2vH;
@@ -68,7 +68,7 @@ int main(void) {
     unsigned int    raK16Jjp;
 
  unsigned long G_2yl0Ib;
- G_2yl0Ib = 622895865;
+
     float    HOsO1W;
     HOsO1W    =    1549004120;
  char A8QPu669fD;
@@ -88,7 +88,7 @@ int main(void) {
     unsigned long    D_U2r;
     D_U2r    =    -23983839;
  long long AW1Dl9v72K;
- AW1Dl9v72K = 1448209473;
+
  long long s_6k;
  s_6k = -736996477;
 	unsigned short	r7WI5h9nfD;
@@ -106,7 +106,7 @@ int main(void) {
  unsigned long H1tP;
 
 	unsigned short	YxS68;
-	YxS68	=	2092115350;
+
 	float	xRUKnwcq_;
 	xRUKnwcq_	=	-1938080474;
  unsigned int cdwwR3;
@@ -126,7 +126,7 @@ int main(void) {
 	short	k3q2H;
 	k3q2H	=	1625219172;
     long double    A122;
-    A122    =    1903313398;
+
 
 
 switch (Tk6ea)
@@ -144,7 +144,7 @@ case 3:
 
 break;
 case 4:
-pO5642h0cf = (int)ceil(H9AH);
+
 break;
 case 5:
 pO5642h0cf = j_wOGL3(-381360471, Ju25_, k3q2H, -944076370);

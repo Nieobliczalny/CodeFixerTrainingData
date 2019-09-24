@@ -154,7 +154,7 @@ K4_xd = (unsigned short)(Z6_QHoH * K4_xd);
 
 
 
-uxmKzEE = (double)(C0ZOis1sl9);
+
 
 std::cout << RuGRV_Kx << A_JD6 << std::endl;
 
@@ -201,7 +201,7 @@ case 2:
 
 break;
 case 3:
-dDmX0_DVT = (int)floor(WjXbUU0);
+
 break;
 case 4:
 
@@ -213,7 +213,7 @@ case 6:
 
 break;
 case 7:
-oJ10E46 = (int)abs(G6BN8TI);
+
 break;
 case 8:
 

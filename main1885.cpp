@@ -21,7 +21,7 @@ int main(void)
 {
   unsigned short  iZTS27,  gDOT,  q08_00_,  G4mb,  eey9m1;
   iZTS27  =  0;
-  gDOT  =  0;
+
   q08_00_  =  0;
   G4mb  =  0;
   eey9m1  =  0;
@@ -411,7 +411,7 @@ SokS_V2 = L_pg();
 break;
 case 'd':
 case 'D':
-gDOT = xiq4e7Xj(C0_uxc, -820520737, -1962521807);
+
 break;
 case 'e':
 case 'E':
@@ -775,7 +775,7 @@ if (p6nhvmv6jf == 1686182499)
 {
 if (EjWJQS6l0 > CX_9RgO)
 {
-gDOT = xiq4e7Xj(ki80, -492170376, h10i);
+
 }
 else
 {

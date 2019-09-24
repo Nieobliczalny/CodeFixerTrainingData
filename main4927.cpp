@@ -139,7 +139,7 @@ else
 {
 Gy4P8omJMR = (int)abs(G9_bf4);
 }
-JIfR4p509T = b8O4nl4 + 1656650711;
+
 
 switch (Y9RCrtyG7R)
 {
@@ -395,7 +395,7 @@ case 4:
 
 break;
 case 5:
-lrLfv886 = (int)ceil(wgsbQ_U73);
+
 break;
 default:
 

@@ -46,7 +46,7 @@ int main(int argc, char** argv)
     long    jUh3C;
 
  long double yJqDDRv;
- yJqDDRv = 967200425;
+
     short int    u17KC6T5pB;
     u17KC6T5pB    =    -631901388;
  unsigned int tq9w;
@@ -58,7 +58,7 @@ int main(int argc, char** argv)
  unsigned long long gPaj_PH_Q;
  gPaj_PH_Q = 724143792;
 	long double	XLk9v;
-	XLk9v	=	408863399;
+
     unsigned short    moOg;
 
   unsigned int  PXnJ051_T;
@@ -68,7 +68,7 @@ int main(int argc, char** argv)
  unsigned short SP1i;
  SP1i = 1041977160;
  unsigned int b6FvZ7B5c;
- b6FvZ7B5c = 1184496342;
+
   char  KJ_zlp;
 
   unsigned short  K_vRJ8DuK9;
@@ -78,7 +78,7 @@ int main(int argc, char** argv)
  short hEbigvF0;
 
     long double    W98xK6q;
-    W98xK6q    =    1718231097;
+
 	long long	FxD4zX15O1;
 
 	unsigned short	RjNg;
@@ -88,7 +88,7 @@ int main(int argc, char** argv)
 	float	SumIgl0e;
 
 	long	mh9bIF_x4;
-	mh9bIF_x4	=	2065139008;
+
  long long g960f71zv2;
 
   unsigned short  o79u_k;
@@ -98,7 +98,7 @@ int main(int argc, char** argv)
  short int YExnDj;
 
 	long long	z7_98;
-	z7_98	=	-1257629906;
+
  unsigned short z2nXm;
 
     unsigned int    nt_YKyS96;
@@ -112,7 +112,7 @@ int main(int argc, char** argv)
  long GCND_;
 
  double wCU730d;
- wCU730d = -715295864;
+
   unsigned long  eA25wX;
 
  long long ZV1TpZ;
@@ -126,7 +126,7 @@ int main(int argc, char** argv)
  unsigned int gy2UYq;
 
  char Ns6ftlxu1;
- Ns6ftlxu1 = -1193731117;
+
   long double  C86CamwqPp;
   C86CamwqPp  =  -1425626599;
 	char	qyeV;
@@ -138,7 +138,7 @@ int main(int argc, char** argv)
   float  aKW4;
 
     short int    eBo_Y0xj;
-    eBo_Y0xj    =    2032283939;
+
 	unsigned short int	olsptto;
 
 	unsigned long long	kRnu8;
@@ -148,7 +148,7 @@ int main(int argc, char** argv)
     unsigned int    UejOHnQ;
 
   unsigned long long  p3JTPt_;
-  p3JTPt_  =  -1723105501;
+
     unsigned short    MK3o;
 
 	unsigned short int	eKodb7;
@@ -158,7 +158,7 @@ int main(int argc, char** argv)
  int jPqNs8ccH;
 
  unsigned char a6y25zl5Jb;
- a6y25zl5Jb = -1428949895;
+
   short  ETJxFFfC1;
   ETJxFFfC1  =  -1154107557;
     short int    AlRh;
@@ -172,7 +172,7 @@ int main(int argc, char** argv)
   int  Z0Sv;
 
  float L9eH;
- L9eH = -426783892;
+
  unsigned char Real;
  Real = 1639944973;
 	float	kbRi8p;
@@ -182,7 +182,7 @@ int main(int argc, char** argv)
   unsigned long long  HO5MxGv;
 
 	int	uWjBt140;
-	uWjBt140	=	-1789740660;
+
   short int  AZgg;
   AZgg  =  1636814480;
   unsigned short  y9lIn;

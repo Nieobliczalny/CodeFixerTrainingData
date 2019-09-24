@@ -148,7 +148,7 @@ for (int i = 5; i >= 0; i--)
 
 
 
-P8eRg = pdOm(-1039546658);
+
 try
 {
 if ((JHhw < 1997746155) && (l3i0zP7568 < EY1F_H))

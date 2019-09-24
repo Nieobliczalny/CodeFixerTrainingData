@@ -127,7 +127,7 @@ int main(int argc, char** argv) {
   unsigned int  KUdV80py;
   KUdV80py  =  -337688023;
   short int  YdP3qYlyA;
-  YdP3qYlyA  =  -1206074034;
+
  long long yD7H7WP;
  yD7H7WP = 0;
  int WY5F7;
@@ -355,7 +355,7 @@ case 'b':
 d9gd2i = Y77YsCT2E4(1523937573);
 break;
 case 'c':
-hV_P2 = (int)abs(Di16kW63A);
+
 break;
 case 'd':
 
@@ -389,7 +389,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-gS_l4xW = (int)ceil(KVPhc5dqKB);
+
 break;
 default:
 V7NTTV = (int)floor(lf7xXH_);
@@ -527,7 +527,7 @@ case 2:
 
 break;
 case 3:
-qmnSy = (Ogyss5XzH <= Fr6S) ? 359876178 : Nzd92Nc;
+
 break;
 case 4:
 
@@ -539,7 +539,7 @@ case 6:
 
 break;
 case 7:
-yD7H7WP = M03jt(-1123848893, 1507520945);
+
 break;
 case 8:
 

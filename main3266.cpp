@@ -78,7 +78,7 @@ int main() {
  long long gz_977;
  gz_977 = 1404027108;
     float    q5D4_NKTZ;
-    q5D4_NKTZ    =    1641088438;
+
     double    r58Jo1RA4t;
     r58Jo1RA4t    =    691759727;
  short int W_XcTcR1By;
@@ -104,7 +104,7 @@ int main() {
 	unsigned short	B_BL2BrI;
 
   short  P1P9SU7;
-  P1P9SU7  =  2039430383;
+
  double dv8t00AZJg;
 
   int  lMT4S6;
@@ -157,7 +157,7 @@ else if (JbYd > 1629615355)
 {
 try
 {
-JbYd = (int)abs(jF44);
+
 }
 catch (int& errorCode)
 {
@@ -270,7 +270,7 @@ case 2:
 
 break;
 case 3:
-JbYd = (int)abs(de7T5_W);
+
 break;
 case 4:
 fwa8OnEw48 *= 844603110;
@@ -360,7 +360,7 @@ case 3:
 g_s5Ifh4 = (int)abs(XFnAw1cKKU);
 break;
 case 4:
-q5D4_NKTZ = MU1N / D0n_K7jx;
+
 break;
 case 5:
 Y8a906 |= gz_977;

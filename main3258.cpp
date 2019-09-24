@@ -184,7 +184,7 @@ case 2:
 
 break;
 case 3:
-q5bt = (int)floor(A8517fbk);
+
 break;
 case 4:
 WBZ7ufmHR <<= 616382299;
@@ -470,7 +470,7 @@ case 'g':
 
 break;
 case 'h':
-P7ne6n = (int)abs(PBV8_P5p);
+
 break;
 default:
 

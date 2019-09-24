@@ -43,7 +43,7 @@ case 'f':
 UMKZRXK = (DpOJwI_gc & 1181785333) ? 499651552 : kHJ2w;
 break;
 case 'g':
-v3NGsKK_ = ddV6 ^ KTGZ_CC;
+
 break;
 case 'h':
 IsrrfoPaIa = cnoQZo();
@@ -278,7 +278,7 @@ switch (cqoNrRsdIt)
 {
 case 'a':
 case 'A':
-v3NGsKK_ = cnoQZo();
+
 break;
 case 'b':
 case 'B':
@@ -476,7 +476,7 @@ case 'c':
 
 break;
 case 'd':
-MHM9z2 = cnoQZo();
+
 break;
 case 'e':
 
@@ -488,7 +488,7 @@ case 'g':
 
 break;
 case 'h':
-QL83Mwwn = HaAww(-1512075401, -1713557031, Bl6S4A9xc9, -1303287540);
+
 break;
 case 'i':
 

@@ -198,7 +198,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-uw2ncd3O7 = (W2Ra287da7 < W1u82L11) ? A91Z : W2Ra287da7;
+
 break;
 case 'c':
 case 'C':

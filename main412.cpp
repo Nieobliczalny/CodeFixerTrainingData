@@ -147,7 +147,7 @@ if (Xco6NE >= FhQM2xHAK)
 switch (ad___5aeTL)
 {
 case 'a':
-e758Vt = z26_(e758Vt, d9JE, DUE_ho4s, 1323698556);
+
 break;
 case 'b':
 ad___5aeTL += k252P;
@@ -464,7 +464,7 @@ case 6:
 
 break;
 case 7:
-oJ591Rx937 >>= 933287707;
+
 break;
 default:
 

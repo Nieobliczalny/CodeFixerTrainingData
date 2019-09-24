@@ -19,7 +19,7 @@ int main(int argc, char** argv) {
 int i = 0;
 do
 {
-z0_qYhl = (Lk6d8v25 <= Ab8AI1o) ? Lk6d8v25 : A7qhy57;
+
 ++i;
 }
 while (i < 3);

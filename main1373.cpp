@@ -85,7 +85,7 @@ Br1d0V___b = rUz6(m7Lk);
 switch (C98a1)
 {
 case 'a':
-w6yu = e7RyQR18k & tGH483D63V;
+
 break;
 case 'b':
 Br1d0V___b = rUz6(FW8MUOR);
@@ -97,7 +97,7 @@ case 'd':
 
 break;
 case 'e':
-qS7Jxf = rUz6(-151144409) - p90_;
+
 break;
 case 'f':
 F1x8Y5Yp40 = rUz6(w4iY6);
@@ -140,7 +140,7 @@ else
 
 try
 {
-Br1d0V___b = rUz6(-518462303);
+
 }
 catch (int& errorCode)
 {
@@ -212,7 +212,7 @@ case 'b':
 
 break;
 case 'c':
-PgUJ7 = (int)abs(MaVai);
+
 break;
 }
 }
@@ -232,7 +232,7 @@ else
 
 for (int i = 0; i < 8; ++i)
 {
-qS7Jxf = (int)abs(MaVai);
+
 }
 
 return 0;

@@ -25,7 +25,7 @@ int main(int argc, char** argv) {
   MxW_  =  1095723842;
   JBxF0H  =  1241795072;
   p6Ekn06  =  1536356333;
-  XGFL  =  -47700086;
+
   HRV9j64  =  872474109;
   l_9Eq20  =  -1974714867;
   g0492  =  -1451950470;
@@ -38,7 +38,7 @@ int main(int argc, char** argv) {
 
 
   oeNvRSL94  =  -277707516;
-  o6zP7q  =  1197717929;
+
 
   C04bO0K5IB  =  -249595773;
   BOvXhrL  =  1036519610;
@@ -55,7 +55,7 @@ int main(int argc, char** argv) {
 
   ptXFzqCe  =  1554782341;
   jvf_7  =  273788267;
-  uIfq8  =  621876235;
+
 
   IhcmuCIY  =  -535764082;
   cj73__Q8UE  =  759744693;
@@ -65,7 +65,7 @@ int main(int argc, char** argv) {
 
   t37Z  =  1641987532;
   x4QLT7fM  =  -1693742410;
-  Nbt0  =  -816154599;
+
   yV7Plcv  =  1751398404;
 
   Z_12d2sf  =  -822312153;
@@ -81,7 +81,7 @@ int main(int argc, char** argv) {
   lB74  =  1448958705;
 
   h46WVL67Gt  =  1233752115;
-  Zqx0w  =  1063714809;
+
   p5B9S7  =  529724240;
   lHSk_sc0h  =  -1991326204;
   O9GGV87m1  =  -302428433;
@@ -96,7 +96,7 @@ int main(int argc, char** argv) {
 
   StT8PbFL_m  =  566208343;
 
-  ePQt  =  -1506169684;
+
   WMO7PNRgFd  =  -827202298;
   w54D53F  =  570060312;
   BDxYLa_J  =  -1800170771;
@@ -107,7 +107,7 @@ int main(int argc, char** argv) {
 
 
     ifwLkGrN    =    0;
-    G3JDCz6K8_    =    0;
+
     w00XO6UPoi    =    0;
 
 if (JBxF0H > w54D53F)
@@ -291,7 +291,7 @@ case 'e':
 
 break;
 case 'f':
-XGFL = HRV9j64 >> C04bO0K5IB;
+
 break;
 case 'g':
 aZub_X_TDj = Bi9c45 | WMO7PNRgFd;
@@ -375,7 +375,7 @@ case 3:
 
 break;
 case 4:
-y2LI20D38q ^= 2100706422;
+
 break;
 case 5:
 

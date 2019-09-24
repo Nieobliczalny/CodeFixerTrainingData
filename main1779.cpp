@@ -387,7 +387,7 @@ while (i >= 0);
 std::cout << nLRf7591m(m3Xk, -467943859, K95sUBpyYs) << Kiu8B << nLRf7591m(m3Xk, -1592640375, K95sUBpyYs) << nLRf7591m(m3Xk, s00A04Q, K95sUBpyYs) << std::endl;
 if (bg0ZvSF & 1115169422)
 {
-Qhv6 /= 458206560;
+
 }
 else
 {
@@ -412,7 +412,7 @@ i9On = (long double)(iW5PKv29_ + (-919301352));
 }
 else if (i9On >= 1122979219)
 {
-nfu_27S_ = (int)ceil(hjyj);
+
 }
 else
 {
@@ -455,7 +455,7 @@ case 'I':
 
 break;
 default:
-nfu_27S_ = (int)ceil(m3Xk);
+
 break;
 }
 }
@@ -482,7 +482,7 @@ yIu5tNu4 = nLRf7591m(-521594484, YQZ9, -2084331284);
 }
 
 
-p5T28S8 = (long double)(eWGsJme2);
+
 
 for (int i = 0; i < 10; i++)
 {

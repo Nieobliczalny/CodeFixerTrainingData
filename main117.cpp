@@ -682,7 +682,7 @@ case 7:
 
 break;
 default:
-EPlvy04VJ = kbh3Uye * ZWbwem_i;
+
 break;
 }
 }

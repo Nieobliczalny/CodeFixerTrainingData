@@ -25,7 +25,7 @@ int main(int argc, char** argv)
 
 
 
-  ZTV2  =  -1608156748;
+
   LbaIUZ4G5M  =  2103454218;
   APD0u  =  -869776023;
   bm5ikoOD6j  =  -1179365080;
@@ -35,7 +35,7 @@ int main(int argc, char** argv)
 
 
 
-  Uv_T3agY  =  -1026520976;
+
   eYYI1M  =  1895710504;
   TXhm3  =  -1000982263;
   Jh60A  =  -1825084915;
@@ -45,7 +45,7 @@ int main(int argc, char** argv)
 
 
 
-  ljOeFYc  =  -1236494782;
+
   XLbLDi6X2h  =  942965659;
   f0XYe  =  -910712680;
   BM332xR_2  =  106386308;
@@ -56,7 +56,7 @@ int main(int argc, char** argv)
 
 
 
-ZTV2 = 1646136078 / Ab619eGU79();
+
 
 return 0;
 }

@@ -121,7 +121,7 @@ case 2:
 
 break;
 case 3:
-ZW_12 = (int)ceil(hSSC);
+
 break;
 case 4:
 X2Q4D = bY6Ir1i7();
@@ -151,7 +151,7 @@ try
 switch (teV7Mlr6K_)
 {
 case 0:
-a3RdZ9Aq = h4kA526p / 1944869244;
+
 break;
 case 1:
 YJ_p *= 1139439426;
@@ -282,7 +282,7 @@ else
 }
 }
 }
-ZW_12 = OeMY17i4(2005007353) / teV7Mlr6K_;
+
 for (int i = 0; i < 3; ++i)
 {
 OVQ_ = (int)abs(FNua);

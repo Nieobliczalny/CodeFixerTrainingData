@@ -337,7 +337,7 @@ case 6:
 
 break;
 case 7:
-y8657 = (n492f1 & 1253313298) ? PUO7CS(1057864437, p1AnX, -1717900024, 2097668190) : l_x6c;
+
 break;
 }
 
@@ -511,7 +511,7 @@ case 2:
 
 break;
 case 3:
-XpFbYZZiP4 = Su9wxi_E(XpFbYZZiP4, g58LWlI6X1, vIM7ci, 2131153907, W5TNYI95);
+
 break;
 case 4:
 

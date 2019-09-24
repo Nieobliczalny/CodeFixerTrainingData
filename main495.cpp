@@ -638,7 +638,7 @@ for (int i = 6; i >= 0; i--)
 {
 
 }
-BI14D2Y = OoPZS100U(-24698258, AVlhkUK3K, 934468448);
+
 if (nUFTW4UD2 > 1574417906)
 {
 
@@ -701,7 +701,7 @@ case 2:
 
 break;
 case 3:
-Rt21dM = (int)ceil(D43d6BPdS);
+
 break;
 case 4:
 tAkT0u = (int)ceil(Gv7pxnn9_j);

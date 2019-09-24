@@ -534,7 +534,7 @@ else if ((BT_nA01 == vPAJRk7Hr) || ((fy03A0 < -1370777300) || (hc352 == vPAJRk7H
 {
 try
 {
-K1vGX /= 1022698946;
+
 }
 catch (int& errorCode)
 {

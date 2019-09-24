@@ -38,7 +38,7 @@ int main()
  long double Pl3_Y;
 
  short int EpjFf;
- EpjFf = 1642709611;
+
     double    D34UGmQ1h;
     D34UGmQ1h    =    -1257664384;
  unsigned short int k40fD;
@@ -66,7 +66,7 @@ int main()
 	char	fX0hn7Jnu;
 	fX0hn7Jnu	=	9086098;
   float  mazz_8N8mK;
-  mazz_8N8mK  =  -1186091755;
+
   long double  o2_M;
 
   long  h033FSD6F;
@@ -136,7 +136,7 @@ int main()
   unsigned short int  a2oIX0XO;
 
   short int  hdVi2S;
-  hdVi2S  =  353319610;
+
  char J44fi57uAl;
  J44fi57uAl = 987339909;
     long double    f9326503;
@@ -166,7 +166,7 @@ int main()
 switch (Auk32xe)
 {
 case 0:
-v8kYB_9 = (int)abs(v81uTc);
+
 break;
 case 1:
 D34UGmQ1h = (int)floor(a12_);

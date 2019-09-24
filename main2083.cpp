@@ -109,7 +109,7 @@ case 1:
 CTsxm_jem8 = YT6wi6_o8(Z_BQyZe_U, 1314926032, -1687570018, 1750690330);
 break;
 case 2:
-NfF_mgl3i = YT6wi6_o8(1443875157, At6_8sHB, -787707145, 555248087);
+
 break;
 case 3:
 At6_8sHB = Hwij_qEI(At6_8sHB, 1351256652, Vb_0SLMsP, 293203353, -983499023);
@@ -174,7 +174,7 @@ y46j2S = Vb_0SLMsP * Kx3xL7Jzh6;
 }
 }
 
-Ukv973F0Z = (long double)(y46j2S);
+
 if (Vb_0SLMsP == 0)
 {
 

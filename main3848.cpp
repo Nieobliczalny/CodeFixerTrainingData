@@ -56,7 +56,7 @@ else if (gc3x86 < B5vr4w0pH3)
 {
 if ((tq0Iq9_15 != EAGcST) || (Yhb2_q >= EAGcST))
 {
-f0d3 = o87fn7i71(598754155);
+
 }
 }
 else if (j6gLl9 & EAGcST)
@@ -235,7 +235,7 @@ case 2:
 
 break;
 case 3:
-CqSK25 = (int)ceil(nv54);
+
 break;
 case 4:
 

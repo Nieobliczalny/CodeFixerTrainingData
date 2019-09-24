@@ -69,7 +69,7 @@ case 4:
 
 break;
 case 5:
-eS405L0fE |= 82285040;
+
 break;
 case 6:
 
@@ -206,7 +206,7 @@ case 'c':
 
 break;
 case 'd':
-C_tbYt7 = UwTV * 1575438437;
+
 break;
 case 'e':
 

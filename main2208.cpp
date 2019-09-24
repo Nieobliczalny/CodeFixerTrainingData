@@ -113,7 +113,7 @@ int main(void)
  char nZ07QyBNp;
  nZ07QyBNp = 1064446910;
  int yF33TCm;
- yF33TCm = -1038858622;
+
   unsigned short int  Gt9G98V7;
 
     long    NSU8qC_n6;
@@ -396,7 +396,7 @@ case 'g':
 
 break;
 case 'h':
-veA2EVc2_m = yj4_7();
+
 break;
 case 'i':
 

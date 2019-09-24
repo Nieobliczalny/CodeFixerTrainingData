@@ -30,7 +30,7 @@ int main(void) {
 	short int	ORH17k;
 	ORH17k	=	1988105028;
 	unsigned long long	Ut4a;
-	Ut4a	=	-1877726393;
+
   unsigned char  f58_99H;
   f58_99H  =  -319277600;
     long    xP1PXX;
@@ -68,7 +68,7 @@ int main(void) {
   long double  l_YzgDj;
 
   int  k_U0f_B_i5;
-  k_U0f_B_i5  =  1234213430;
+
 	long long	HIN5;
 	HIN5	=	1114183383;
  unsigned short int BoT4s2xW9;
@@ -230,7 +230,7 @@ else
 {
 for (int k = 6; k >= 0; --k)
 {
-k_U0f_B_i5 = NNZ0RQ % vhiphnLh9;
+
 }
 }
 }
@@ -251,7 +251,7 @@ do
 int k = 0;
 do
 {
-k_U0f_B_i5 = m9UPDpYFrU >> 1622081565;
+
 ++k;
 }
 while (k < 3);

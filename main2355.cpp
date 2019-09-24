@@ -280,7 +280,7 @@ else if (gLdkF >= UKsIEn30)
 switch (Y6sW8)
 {
 case 0:
-Y6sW8 -= OIrBoKn;
+
 break;
 case 1:
 aJ5OwVJVr--;
@@ -295,7 +295,7 @@ case 4:
 
 break;
 case 5:
-P697 <<= 1770596771;
+
 break;
 case 6:
 t8CQ--;

@@ -150,7 +150,7 @@ case 'c':
 
 break;
 case 'd':
-E_DB3j_om = t3EiWO << 1081702374;
+
 break;
 case 'e':
 
@@ -168,7 +168,7 @@ case 'i':
 
 break;
 case 'j':
-T7s_ = QXt_ - AlVNcf1oq8;
+
 break;
 }
 }

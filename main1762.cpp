@@ -564,7 +564,7 @@ else if (KV18lT0_ & CduIs)
 int j = 6;
 while (j >= 0)
 {
-NL0_P9s4QR = (short)(y_N1T1);
+
 --j;
 }
 }

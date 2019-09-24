@@ -228,7 +228,7 @@ yQ0Tz &= koqx;
 break;
 case 'd':
 case 'D':
-W2BTwAtH <<= 698918686;
+
 break;
 case 'e':
 case 'E':
@@ -420,7 +420,7 @@ try
 int j = 0;
 do
 {
-Tk2mQx = C0s23GKp << 1279513912;
+
 j++;
 }
 while (j < 3);
@@ -461,7 +461,7 @@ case 'F':
 break;
 case 'g':
 case 'G':
-qP71qis1 = y5fSB_4s6 >> 625552033;
+
 break;
 case 'h':
 case 'H':
@@ -516,7 +516,7 @@ if (((J0704 != IkX90) || (t7wP_p1Dq >= -1556661948)) || (KaQrAH7PiW != M8Q5UT3EW
 {
 if (((y5fSB_4s6 != 1599857331) || (cdJR7R == f45g)) && ((F_ch476 != f45g) || (R66yr38Iu != wcKA2oFvTO)))
 {
-K_94nv6i = t7wP_p1Dq % R66yr38Iu;
+
 }
 }
 }
@@ -593,7 +593,7 @@ case 2:
 
 break;
 case 3:
-K_94nv6i = (int)abs(k4nfU);
+
 break;
 case 4:
 
@@ -605,7 +605,7 @@ case 6:
 
 break;
 case 7:
-M8Q5UT3EW = dcABqH1 / k02OL_U;
+
 break;
 case 8:
 

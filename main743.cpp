@@ -136,7 +136,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-VY357k607 = Ju46 / 1730061379;
+
 break;
 }
 switch (xGZ922)

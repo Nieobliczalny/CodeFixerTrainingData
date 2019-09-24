@@ -264,7 +264,7 @@ case 'g':
 
 break;
 default:
-wArx = v79oNa4G ^ 1707571564;
+
 break;
 }
 
@@ -356,7 +356,7 @@ case 'c':
 
 break;
 case 'd':
-zJk5s3 = s4u7QW3XY + 1981666307;
+
 break;
 case 'e':
 

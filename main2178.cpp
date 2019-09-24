@@ -40,7 +40,7 @@ int main(void)
  long XFNJ0I;
  XFNJ0I = 259176879;
 	double	w8DZpbd;
-	w8DZpbd	=	1662810895;
+
  char y86rf4TK_z;
  y86rf4TK_z = 953932189;
   short  PAv2Q9Q;
@@ -144,7 +144,7 @@ else
 {
 if (Gw2G88j1N1 != D78q8316Y)
 {
-w8DZpbd = (int)floor(X9hV6jRYOK);
+
 }
 else if (x3j0xN3Su)
 {

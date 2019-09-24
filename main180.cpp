@@ -151,7 +151,7 @@ case 'f':
 
 break;
 case 'g':
-UmrD6S = ku1O291 ^ 297920166;
+
 break;
 case 'h':
 E3t_P9o = (int)floor(vDK_W);
@@ -177,7 +177,7 @@ else if (MMdur2yE)
 }
 else if (iZ3C0 & 1913212355)
 {
-Zy0an = fshO9Tnu(Zy0an);
+
 }
 else if (rmbkgZH8 != -499609115)
 {
@@ -201,7 +201,7 @@ case 2:
 
 break;
 case 3:
-IxSl = (int)floor(Kk_ffC);
+
 break;
 case 4:
 AVNS |= 1174243497;

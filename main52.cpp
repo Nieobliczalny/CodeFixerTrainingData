@@ -43,7 +43,7 @@ int main(int argc, char** argv)
 
   bvl7_  =  -1643010083;
   dip6rjZgP5  =  -925116946;
-  ii1_R2V01  =  171169492;
+
   br1y  =  124682326;
   H56Fy0il49  =  462881506;
 
@@ -71,7 +71,7 @@ int main(int argc, char** argv)
   oVm5GLC7cW  =  241801424;
 
   Fd8wPIlwe  =  -2009333339;
-  a7O61YSju5  =  2069021440;
+
   rM6Y  =  1612823946;
   H_8qoK  =  -2121019966;
   GN_o9UQ  =  -1796915889;
@@ -478,7 +478,7 @@ while (i < 6);
 std::cout << "HfX99Fmo9" << "p7yF" << dIieB(170438475) << std::endl;
 
 
-m7_9_ = sSqXq5 & 1410565179;
+
 
 if ((rzTr5gGE == -881277336) && ((XiKEfc & -158355893) && (RFRvP3N)))
 {
@@ -516,7 +516,7 @@ case 'c':
 
 break;
 case 'd':
-Qi3W = (int)abs(Sxw6suZ60W);
+
 break;
 case 'e':
 

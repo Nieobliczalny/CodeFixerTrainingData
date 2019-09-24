@@ -62,7 +62,7 @@ case 'a':
 qLFo6DO8H = (int)abs(oSaE6);
 break;
 case 'b':
-O8XPno -= 2099170598;
+
 break;
 case 'c':
 B0ZP_5b4WN = (FgEAhUL <= -898808168) ? SUVu1OIM2Y : SUVu1OIM2Y;
@@ -100,7 +100,7 @@ case 'd':
 
 break;
 case 'e':
-Dy6JYPxnQ = (int)abs(V8CTv);
+
 break;
 case 'f':
 SUVu1OIM2Y /= SUVu1OIM2Y;

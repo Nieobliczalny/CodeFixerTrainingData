@@ -78,7 +78,7 @@ case 6:
 T11Un_K = jN_zcV05T3(2115089617);
 break;
 case 7:
-qW59uJ7kM = YG_6uD8 % 952710233;
+
 break;
 }
 }
@@ -146,7 +146,7 @@ do
 {
 if (pIP3Q >= fG8Ngldt)
 {
-bkAcGbBz = (int)floor(e_tjj1nd);
+
 }
 else
 {

@@ -26,7 +26,7 @@ int main(int argc, char** argv)
 	unsigned long	BM05Rm7BA;
 
  unsigned char IwTX8Dvg0_;
- IwTX8Dvg0_ = 874385715;
+
 	long double	EEbcwfzPq;
 	EEbcwfzPq	=	1784978943;
  short int xkBLL;
@@ -50,7 +50,7 @@ int main(int argc, char** argv)
   unsigned short int  gH1p;
 
   unsigned char  XL48e_GVa;
-  XL48e_GVa  =  1047513889;
+
   float  aFtVoow;
   aFtVoow  =  84840645;
   short  YzA7fO2GA;
@@ -84,7 +84,7 @@ int main(int argc, char** argv)
 	unsigned long long	Jln_5;
 
   int  C_zYe33;
-  C_zYe33  =  -1693787433;
+
 	long double	b58dRAEYT;
 	b58dRAEYT	=	-1134086235;
  int hx55_ZjJrZ;
@@ -253,7 +253,7 @@ case 6:
 
 break;
 case 7:
-EdbkF0 = (int)abs(A8ZX8Oj8V6);
+
 break;
 case 8:
 

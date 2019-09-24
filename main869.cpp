@@ -42,7 +42,7 @@ int main(void) {
 	long long	ps73j;
 	ps73j	=	1664217082;
     unsigned short int    YprQM3R892;
-    YprQM3R892    =    -342462738;
+
   unsigned long long  BnO2UP_;
   BnO2UP_  =  1301581777;
 	short int	GaT8;
@@ -64,7 +64,7 @@ int main(void) {
     long    S6u7k;
 
     long long    nl_dZa240;
-    nl_dZa240    =    -464478281;
+
   long double  o16F;
   o16F  =  1372091652;
   float  SF1JZ30_;
@@ -78,7 +78,7 @@ int main(void) {
     long double    c0C35P3;
 
 	double	qZ0kRc8Ha;
-	qZ0kRc8Ha	=	-980130885;
+
   unsigned short  QWs5_1;
 
     unsigned short    IvC10_U8;
@@ -90,7 +90,7 @@ int main(void) {
 	short	rF_341fzcR;
 	rF_341fzcR	=	1938281558;
  int xbf0;
- xbf0 = 647652519;
+
     unsigned long    QK0TsxHTB_;
     QK0TsxHTB_    =    -1721702474;
     float    b_P48pXE6;
@@ -341,7 +341,7 @@ case 2:
 
 break;
 case 3:
-QK0TsxHTB_ = v15Uz369R(QK0TsxHTB_, BxFB, 608656354, 475672627);
+
 break;
 case 4:
 

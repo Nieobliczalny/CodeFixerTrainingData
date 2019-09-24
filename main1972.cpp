@@ -257,7 +257,7 @@ else
 switch (Jpfp)
 {
 case 0:
-o2wc7oa = P4G205qi5 / gkn2_jH5X;
+
 break;
 case 1:
 FtJg0 |= cRgJq2e;
@@ -272,7 +272,7 @@ case 4:
 iTmDQ |= XDSq;
 break;
 case 5:
-o2wc7oa = kDSCRb5 + xs6iuYY;
+
 break;
 case 6:
 G39h1p >>= 533152137;
@@ -296,7 +296,7 @@ ddB75_9 += 786904582;
 
 
 P4G205qi5 = FtJg0 / 1001630996;
-cRgJq2e = (short int)(P4G205qi5);
+
 
 FtJg0 = -615288575 / yVyy6lH7;
 
@@ -389,7 +389,7 @@ case 'd':
 
 break;
 case 'e':
-G39h1p *= 326670009;
+
 break;
 case 'f':
 

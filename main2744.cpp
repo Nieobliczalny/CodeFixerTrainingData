@@ -344,7 +344,7 @@ FX7DoK_0xt = Rg_f / 1535847577;
 }
 else
 {
-X_HViYwB = (int)floor(FX7DoK_0xt);
+
 }
 }
 else if (LB116cd58 & aN85)
@@ -439,7 +439,7 @@ case 'J':
 g7ldx++;
 break;
 default:
-X_HViYwB = (int)abs(Rg_f);
+
 break;
 }
 }
@@ -505,7 +505,7 @@ case 0:
 ByVosl++;
 break;
 case 1:
-y7h4_hVhEa <<= Rg_f;
+
 break;
 case 2:
 
@@ -557,7 +557,7 @@ case 'H':
 break;
 case 'i':
 case 'I':
-X_HViYwB = (int)ceil(J00n4);
+
 break;
 }
 
@@ -587,7 +587,7 @@ case 6:
 
 break;
 default:
-J00n4 = (int)ceil(WflIu13);
+
 break;
 }
 

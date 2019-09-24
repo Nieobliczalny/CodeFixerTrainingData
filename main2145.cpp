@@ -278,7 +278,7 @@ case 'b':
 k7z0_6 = j70_ml(-1054491416);
 break;
 case 'c':
-pGGdfntX8g = (int)abs(k7z0_6) * 0;
+
 break;
 case 'd':
 k7z0_6 -= aYGIVvG;

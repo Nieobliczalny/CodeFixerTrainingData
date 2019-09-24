@@ -120,7 +120,7 @@ int main(void)
 	long long	j_76y2PSSz;
 	j_76y2PSSz	=	-749520396;
     unsigned short int    F7diR1;
-    F7diR1    =    -1094448954;
+
   unsigned long  T1TTl_jt;
   T1TTl_jt  =  1665330918;
  unsigned short KI6uj;
@@ -130,7 +130,7 @@ int main(void)
     char    CbKQXAa0g;
 
  unsigned short b8_F8_QbS;
- b8_F8_QbS = 523316605;
+
 	long long	b_u9o;
 	b_u9o	=	433506704;
 	long double	M6_u;
@@ -142,7 +142,7 @@ int main(void)
   unsigned short int  M14g;
   M14g  =  -685513166;
  unsigned int mTfa9Sz;
- mTfa9Sz = 429698393;
+
     long long    Z7y6LbcmT;
     Z7y6LbcmT    =    1364082247;
     unsigned short int    hnZMKnY_v5;
@@ -328,7 +328,7 @@ switch (y56G2uV5)
 {
 case 'a':
 case 'A':
-vNXioldXt = p3odMdq1(Nk2_, -2136956930, 1596258784) & izEhbU;
+
 break;
 case 'b':
 case 'B':

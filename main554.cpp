@@ -92,7 +92,7 @@ if (rynlfd < 328255644)
 {
 if (uW1F7 < rynlfd)
 {
-XKHsp09NF = VghWb();
+
 }
 }
 }
@@ -582,7 +582,7 @@ case 5:
 
 break;
 case 6:
-rynlfd = VghWb();
+
 break;
 case 7:
 

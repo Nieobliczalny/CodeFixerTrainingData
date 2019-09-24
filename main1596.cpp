@@ -342,7 +342,7 @@ case 'h':
 OmZyb--;
 break;
 case 'i':
-g_g7 = (int)ceil(r1V7ZhKS);
+
 break;
 }
 
@@ -389,7 +389,7 @@ if (pU4hb < -1786398506)
 
 if (Q8T20B <= Y2vA77a)
 {
-p3d0A = (unsigned char)(fr6K);
+
 }
 else
 {

@@ -75,7 +75,7 @@ int main(int argc, char** argv) {
   double  CQP6RnU;
   CQP6RnU  =  2117037520;
  unsigned int ct5pd38M;
- ct5pd38M = -224057328;
+
 	double	hakMcBEW1;
 	hakMcBEW1	=	1132938695;
     double    bDmUAq30_;
@@ -478,7 +478,7 @@ case 'e':
 G2qCUCIk3l++;
 break;
 case 'f':
-ct5pd38M = d1gEq3lml6(155024994, -1076261385, Tvudpf81Dt, 212568609, 999269562);
+
 break;
 case 'g':
 Tvudpf81Dt = (int)ceil(CQP6RnU);
@@ -533,7 +533,7 @@ do
 ++j;
 if (Tvudpf81Dt <= -250624297)
 {
-P5S77C1 = eq8RDb6(-1155688842, -848319691, -57075875, K5r4d6_MI);
+
 }
 else
 {

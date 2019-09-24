@@ -28,7 +28,7 @@ int main(void)
 
  Fu_W1u2e9 = -1303122298;
  noQEXhp4u4 = -925506691;
- rIqb = 1211424018;
+
  k28rYpG9ll = -2036856075;
  X6Bqa_57MX = 273522863;
  m4O0xye3 = -34142999;
@@ -326,7 +326,7 @@ case 2:
 
 break;
 case 3:
-bRmi7m = Pu7k7ea9n - m4O0xye3;
+
 break;
 case 4:
 
@@ -338,7 +338,7 @@ case 6:
 
 break;
 case 7:
-JY7z9G = (nohX_n24 < Xm9HS) ? WbdaHB7 : rIqb;
+
 break;
 default:
 

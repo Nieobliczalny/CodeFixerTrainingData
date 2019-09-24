@@ -31,7 +31,7 @@ int main(int argc, char** argv) {
 	unsigned int	nnp0gR983S;
 
 	float	E7ZBOJ0GnL;
-	E7ZBOJ0GnL	=	789572421;
+
   long long  BMYS7p_Ce_;
 
     unsigned int    UMOH;
@@ -41,7 +41,7 @@ int main(int argc, char** argv) {
 	int	gO6T06O4g;
 
  short int jBF9;
- jBF9 = -815141963;
+
  double ZZHhr;
  ZZHhr = -167401440;
     unsigned short int    XBHm2;
@@ -57,7 +57,7 @@ int main(int argc, char** argv) {
   long long  H75gyZgE;
 
     unsigned char    eC4X7;
-    eC4X7    =    -857414956;
+
   float  E7mh;
 
  unsigned int L_6_s;
@@ -67,7 +67,7 @@ int main(int argc, char** argv) {
   unsigned char  j0J6IZ_qh9;
 
 	double	Bm4D;
-	Bm4D	=	857111374;
+
     long    tk58v6QTy;
 
  double rVs11OaOf;
@@ -77,7 +77,7 @@ int main(int argc, char** argv) {
 	long	zn8jmgVo;
 
     unsigned char    ndrWo8S;
-    ndrWo8S    =    -1909415508;
+
     unsigned long long    lW33F7_5;
 
 	long	L7CXX;
@@ -93,7 +93,7 @@ int main(int argc, char** argv) {
 	short	wx_JOQ2jv;
 
     short int    mx14NL;
-    mx14NL    =    366929673;
+
  unsigned long long IicW6;
  IicW6 = 0;
 	unsigned long	Rx95GVVI3;
@@ -125,7 +125,7 @@ int main(int argc, char** argv) {
 	unsigned short int	CyhVWDWn6;
 
 	unsigned short	a163;
-	a163	=	-1799750658;
+
   unsigned int  wm_7ed5L;
   wm_7ed5L  =  -1414799943;
   unsigned short int  O7063dM5;
@@ -139,7 +139,7 @@ int main(int argc, char** argv) {
 	unsigned short int	dZHHP;
 
     long    wS2d23m8;
-    wS2d23m8    =    -1793500071;
+
     short    Y20tG;
     Y20tG    =    -1486064781;
 	unsigned long	E1s3RhM31;
@@ -151,7 +151,7 @@ int main(int argc, char** argv) {
 	unsigned short	oHzaqMNY0;
 	oHzaqMNY0	=	-911856474;
     long double    nK9aDkFPWC;
-    nK9aDkFPWC    =    1205290564;
+
 	unsigned short	uv8Sa_4;
 
 	long	Tv1HOv32T;
@@ -173,7 +173,7 @@ int main(int argc, char** argv) {
 	long double	gXHc8WT0u;
 
 	int	MZz_N0Z;
-	MZz_N0Z	=	377878550;
+
 	unsigned long	CL2K8L5S4;
 
     short int    SmVAPRe2;
@@ -195,7 +195,7 @@ int main(int argc, char** argv) {
  long I4CV4PMr;
 
  unsigned short int nM0N9;
- nM0N9 = 2128371467;
+
     unsigned short int    Dj6pW51;
     Dj6pW51    =    -632992807;
 

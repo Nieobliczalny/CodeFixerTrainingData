@@ -19,7 +19,7 @@ int main(int argc, char** argv)
     t_i2C  =  eGK_a  =  nKq04hUXYN  =  sk6x  =  J3Kj  =  aXdhP  =  ORCqk  =  e3ghVu_0_  =  LiB08_Lv5  =  l_775  =  H8orasx  =  ZG6NL_6DJ  =  f5a_bI  =  T5F_Ry  =  w5SAFmRLq  =  Y2efm2_F0  =  vx7IFROeXl  =  wNZ09u5_  =  n7k4T99  =  -696864365;
 
 
-ZG6NL_6DJ = J2Au6D - 276872933;
+
 
 switch (sk6x)
 {
@@ -33,7 +33,7 @@ default:
 
 break;
 }
-Tu2f = GD3KXtb(1021396847, -246981186);
+
 
 {
 int i = 0;

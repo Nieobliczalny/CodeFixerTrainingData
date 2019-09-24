@@ -478,7 +478,7 @@ else
 {
 
 }
-q2oRB78 = (int)(sF5_5 + (wRNTwo2));
+
 
 if ((BEzpS >= sF5_5) && (n1Ohq76 > 151360328))
 {
@@ -580,7 +580,7 @@ QzAPF9_O <<= G7zwf7qcd;
 break;
 case 'f':
 case 'F':
-vCjI = Cvgy05 | ImV7v;
+
 break;
 case 'g':
 case 'G':

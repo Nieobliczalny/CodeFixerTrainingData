@@ -94,7 +94,7 @@ int main(int argc, char** argv)
  long long J0Jd2oP3M;
 
     long long    W4C7;
-    W4C7    =    443310020;
+
   long double  o_CojgL6e;
   o_CojgL6e  =  1310654660;
   char  pKnpI;
@@ -158,7 +158,7 @@ int main(int argc, char** argv)
 	char	F5U2j0;
 
   unsigned int  yC80;
-  yC80  =  -2029377699;
+
   unsigned long long  n9_8Cr;
   n9_8Cr  =  -1199501475;
   long long  Jg3O4;

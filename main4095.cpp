@@ -130,7 +130,7 @@ else if (SDtbb9XJ8I <= 1767459047)
 }
 else if (CE5hrY5 > kuHr0c)
 {
-Z6S13 = (int)ceil(JzDq9);
+
 }
 else
 {
@@ -148,7 +148,7 @@ tjCcph4GSk = (int)ceil(f6ioB_0h0);
 switch (TPC6nh1)
 {
 case 0:
-r90u = (int)floor(tOAf2wY_o);
+
 break;
 case 1:
 
@@ -175,7 +175,7 @@ int k = 10;
 while (k >= 0)
 {
 k--;
-r90u = (int)abs(U_HHH895HN);
+
 }
 }
 }

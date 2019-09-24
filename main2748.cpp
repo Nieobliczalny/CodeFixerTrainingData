@@ -349,7 +349,7 @@ do
 }
 while (i < 4);
 }
-IBCVr = (int)abs(t6hd3);
+
 By6g20 = (unsigned short int)(A3w6Gp6 * By6g20);
 yd1d = (unsigned char)(NMl6Y);
 

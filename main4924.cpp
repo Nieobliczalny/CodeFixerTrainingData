@@ -258,7 +258,7 @@ fZ6fEh4E = (int)ceil(X3n3B);
 }
 }
 
-KL0qlS5ep9 = (unsigned short)(fZ6fEh4E);
+
 irxT1vd = (int)abs(o22xrZbz1f) + (-1184598944);
 if (X3n3B >= wLvnX7H57M)
 {

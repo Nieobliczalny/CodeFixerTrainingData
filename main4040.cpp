@@ -219,7 +219,7 @@ try
 {
 if (vzfs != -196144673)
 {
-V31u = V31u - vv_41wrR;
+
 }
 }
 catch (int& errorCode)
@@ -395,7 +395,7 @@ case 2:
 
 break;
 case 3:
-N6tQoQO = x_C5xtlG(-188807947);
+
 break;
 case 4:
 

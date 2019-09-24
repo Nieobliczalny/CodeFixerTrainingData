@@ -57,7 +57,7 @@ case 'g':
 aejGZA0T = NEw_a(aejGZA0T);
 break;
 case 'h':
-m0NoCoJcw = d47Snb();
+
 break;
 case 'i':
 Sc_h8ZDP6 += ViP481;
@@ -133,7 +133,7 @@ i--;
 }
 
 
-Ebo7wbuf *= 463681012;
+
 
 if ((MX7ehX624i <= Dp9Ok4_G3) || (zj_s30 & -755750052))
 {
@@ -146,7 +146,7 @@ case 1:
 
 break;
 case 2:
-dYtg *= 333116293;
+
 break;
 case 3:
 Xa513i_ = NEw_a(Xa513i_);
@@ -207,7 +207,7 @@ else
 }
 else
 {
-MG65Q = d47Snb();
+
 }
 }
 

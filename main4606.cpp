@@ -289,7 +289,7 @@ if (UU856V4zBe != Fl5KNPM5DB)
 int k = 7;
 while (k >= 0)
 {
-F8D_SuXEC1 = (int)ceil(lf7Qp47);
+
 --k;
 }
 }

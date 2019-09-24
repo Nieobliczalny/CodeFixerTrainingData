@@ -394,7 +394,7 @@ fF9m3 <<= DO93;
 }
 else
 {
-J1X0 = tpTu3t | W68srE;
+
 }
 j--;
 }
@@ -510,7 +510,7 @@ else
 }
 }
 }
-Bm5vdmU = X_Jz48Gz % 303803052;
+
 if (g14Bq != DEVZ)
 {
 TvSA = (unsigned long)(YN_9XR3Pn_);

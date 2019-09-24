@@ -162,7 +162,7 @@ int main(void) {
  char RO9Gj7;
 
 	char	pD2_6Nt__;
-	pD2_6Nt__	=	1879601999;
+
  int oylC_peo;
  oylC_peo = -1390568695;
     unsigned char    L4s6ZTn_z5;
@@ -180,7 +180,7 @@ int main(void) {
 	long double	Vu1LHa;
 
  char i2iTUD;
- i2iTUD = 1389317667;
+
     unsigned long long    ov52;
     ov52    =    1998966609;
 	long	tAc9o2;

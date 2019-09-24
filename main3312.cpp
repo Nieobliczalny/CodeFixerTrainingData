@@ -41,7 +41,7 @@ int main()
   long double  c_mW3;
 
 	long double	xtnVjTP_;
-	xtnVjTP_	=	252498948;
+
 	long double	D0Xmw4O;
 	D0Xmw4O	=	1994490196;
 	long	nQ2Oqoc3;
@@ -59,7 +59,7 @@ int main()
   double  lYavov;
 
 	long double	kzKDpS01;
-	kzKDpS01	=	1767210861;
+
 	float	d7aG;
 	d7aG	=	-2089275070;
  unsigned long long ULpwPG0;
@@ -105,7 +105,7 @@ int main()
 	int	Hy_1Bs0f;
 
   unsigned long  c3J8D0i7;
-  c3J8D0i7  =  1810039778;
+
  unsigned long long qEKxaDp1;
  qEKxaDp1 = -314036910;
     unsigned long    i1tx9N;

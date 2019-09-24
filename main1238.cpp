@@ -531,7 +531,7 @@ case 'c':
 
 break;
 case 'd':
-S8d_j = (int)floor(E3d338O);
+
 break;
 case 'e':
 

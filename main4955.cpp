@@ -96,7 +96,7 @@ int main() {
 	char	mt7K4;
 	mt7K4	=	1304326215;
   float  lEmVp7M;
-  lEmVp7M  =  -961157057;
+
     char    v_G2;
 
 	unsigned long	TN7M735SH;
@@ -355,7 +355,7 @@ case 2:
 a027pcuIbf = CxwOn(XOe8RT3, vSfOAN1P1, -755083592, 147614283, 1935275834);
 break;
 case 3:
-lEmVp7M = (int)ceil(SB27gi4ENk);
+
 break;
 case 4:
 shvhN = (int)floor(bsAD7ZD);
@@ -389,7 +389,7 @@ case 5:
 
 break;
 case 6:
-lEmVp7M = (int)floor(SB27gi4ENk);
+
 break;
 case 7:
 t6zxwG = (int)abs(V6YPg);
@@ -402,7 +402,7 @@ while (i < 8)
 switch (a027pcuIbf)
 {
 case 0:
-lEmVp7M = (int)floor(bsAD7ZD);
+
 break;
 case 1:
 vSfOAN1P1 -= 386208609;
@@ -454,7 +454,7 @@ case 8:
 
 break;
 case 9:
-SOan41 = (int)floor(SB27gi4ENk);
+
 break;
 }
 }

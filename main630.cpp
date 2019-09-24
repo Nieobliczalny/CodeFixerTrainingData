@@ -76,7 +76,7 @@ int main()
  char PCT0O6ysC;
 
     double    pmRp;
-    pmRp    =    1884982694;
+
  unsigned char TPsgv0;
 
  short int Mfr800z0R4;
@@ -409,7 +409,7 @@ C7P63RTlI0 = (int)floor(k7a67nQ);
 
 cout << "m57I7DG2u" << gxU4() << endl;
 
-GaafD >>= nv43GF9S8t;
+
 
 {
 int i = 7;

@@ -377,7 +377,7 @@ while (i >= 0);
 }
 cout << r5hhfB54E3 << "nH16v0x6Gc" << endl;
 OZ9K06_ = (unsigned char)(p0l2uV * OZ9K06_);
-Cr9qI3Nb0 = -614761027 / G2R_;
+
 cout << An27PQ << "T_5AiO_oz" << H9yWKOo15i << nCTVnA5Pk << MI7uD << endl;
 if ((XIa63SkYjx < zgfV_bV6) && (oomCFgi3 >= H6faU01))
 {
@@ -564,7 +564,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-H6faU01 -= nhb8i2_;
+
 break;
 case 'e':
 case 'E':
@@ -576,7 +576,7 @@ case 'F':
 break;
 case 'g':
 case 'G':
-dh90g4Br7 = ff9uv1TqAk | 995458318;
+
 break;
 case 'h':
 case 'H':
@@ -611,7 +611,7 @@ U21JW = FF3Oc1QFid & o5ep835;
 }
 if (WJf23Az10N <= 981766342)
 {
-WJf23Az10N = (short)(PqaK4s6);
+
 }
 
 try
@@ -669,7 +669,7 @@ case 2:
 
 break;
 case 3:
-A778 = (int)abs(HU_22Efr);
+
 break;
 case 4:
 ulj91++;

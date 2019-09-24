@@ -346,7 +346,7 @@ case 4:
 VjRni3a8 = (int)floor(v1l0Rs);
 break;
 case 5:
-G3k8t4d8 = WFOa47(-2126056047, 1778037816);
+
 break;
 case 6:
 
@@ -502,7 +502,7 @@ case 'h':
 
 break;
 case 'i':
-LjPZTz = (int)ceil(g429gSAS);
+
 break;
 default:
 

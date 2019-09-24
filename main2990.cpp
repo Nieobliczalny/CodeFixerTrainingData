@@ -33,7 +33,7 @@ int main(void) {
     short    kvYc9X;
 
 	int	N5KM8J;
-	N5KM8J	=	-1319223397;
+
   char  bn0hPF;
 
     long double    EPG_1uox;
@@ -43,7 +43,7 @@ int main(void) {
 	unsigned long	PbV9ypT7t_;
 
   unsigned int  n2CWkrH6;
-  n2CWkrH6  =  334786022;
+
   unsigned long  iYwGkN6;
 
  long double d9hMmRKg;
@@ -53,7 +53,7 @@ int main(void) {
     unsigned char    fE0i4;
 
   short int  GukA12D;
-  GukA12D  =  587901246;
+
  char YK3Ng_gvdu;
 
 	unsigned short int	rx_L;
@@ -63,7 +63,7 @@ int main(void) {
  short h0I6Lqt;
 
  unsigned int I_12i_XRI;
- I_12i_XRI = 248328432;
+
  unsigned int xhh93uR;
 
 	int	t_cg;
@@ -73,7 +73,7 @@ int main(void) {
  double iyDQ6D;
 
  unsigned short int F6VcE;
- F6VcE = -756363202;
+
 	unsigned short int	KEUE;
 
   unsigned short  uZKHO;
@@ -87,7 +87,7 @@ int main(void) {
   long long  tHHS_as;
 
  unsigned int NSd3LH8;
- NSd3LH8 = -354513871;
+
     long long    y9oYxWQ3E;
     y9oYxWQ3E    =    -1869971173;
 	char	Z580;
@@ -97,7 +97,7 @@ int main(void) {
 	unsigned char	wG8tRK2Z28;
 
  double ca5m01c0;
- ca5m01c0 = -1016164420;
+
     long double    fSDK0tB;
     fSDK0tB    =    681334319;
   unsigned char  Yb6dLaQeg;
@@ -107,7 +107,7 @@ int main(void) {
     long long    oj4s3_;
 
 	long double	Z8Hh_o;
-	Z8Hh_o	=	345860774;
+
   unsigned char  MO4A490_0;
   MO4A490_0  =  -738543746;
     double    R0GXk;
@@ -117,7 +117,7 @@ int main(void) {
   unsigned short int  wPRi8N;
 
     unsigned short int    yVXz1Dn;
-    yVXz1Dn    =    1495466760;
+
  long double LiUSG3T;
  LiUSG3T = 550576694;
   unsigned short int  o35r;
@@ -127,7 +127,7 @@ int main(void) {
     short    CxgyGfK61;
 
  unsigned long long dHiW_;
- dHiW_ = 369113139;
+
   unsigned int  Fjnf;
   Fjnf  =  -1964294137;
 	unsigned long long	MiDF38Mu60;
@@ -137,7 +137,7 @@ int main(void) {
   float  I6uHI461w;
 
  unsigned int oJAw;
- oJAw = -1584325972;
+
  unsigned long long KMCrS;
  KMCrS = -2010288292;
 	long	cX7lM86w;
@@ -147,7 +147,7 @@ int main(void) {
   char  O0FL_6i;
 
     float    IqD07;
-    IqD07    =    1862052071;
+
   long double  Fw22qT8Qc;
   Fw22qT8Qc  =  1837540975;
  short int RjX8;
@@ -157,7 +157,7 @@ int main(void) {
 	unsigned short	wufg8lJiY;
 
 	unsigned short int	GI_SR4sv;
-	GI_SR4sv	=	-130323574;
+
  float Pl5L38;
  Pl5L38 = 145767749;
 

@@ -207,7 +207,7 @@ w_kf_ = (int)ceil(uN16);
 std::cout << eA40W5Q7F(21962545, w_kf_, u5_9Uq1qaQ) << "oxIO38X" << "MRldU7g" << JoxWE << std::endl;
 
 
-uN16 = (int)ceil(WJ0z50h6);
+
 if (WJ0z50h6 > tTbG8L4fBE)
 {
 sthox8T7 = eA40W5Q7F(aFP9K4, 376496388, 382718733);

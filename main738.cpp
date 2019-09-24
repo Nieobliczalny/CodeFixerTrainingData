@@ -452,7 +452,7 @@ GBnVI0MB2V = RrZB(GBnVI0MB2V, -805936798);
 }
 else if (WXu2wO)
 {
-KF_YG_ = Ciz8acRYHu + 426437284;
+
 }
 else
 {
@@ -467,7 +467,7 @@ bG7TwH = (int)floor(Ne49);
 }
 else
 {
-KF_YG_ >>= cknBxATd5z;
+
 }
 }
 }

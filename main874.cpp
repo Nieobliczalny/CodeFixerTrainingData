@@ -38,7 +38,7 @@ int main(int argc, char** argv) {
 	unsigned int	lNpq5xz7S;
 
 	int	mvJJ2w6;
-	mvJJ2w6	=	0;
+
 	short int	ko8ezZXE;
 	ko8ezZXE	=	0;
   double  ie7MIdu;
@@ -50,7 +50,7 @@ int main(int argc, char** argv) {
  unsigned long v4i3;
 
  short TFI74du0S;
- TFI74du0S = 108330663;
+
 	unsigned short	gR0_;
 	gR0_	=	-1081106498;
 	unsigned char	XF_f;
@@ -130,7 +130,7 @@ int main(int argc, char** argv) {
  unsigned short edzX4svh57;
 
  long long NlX2J4IjK9;
- NlX2J4IjK9 = 782553775;
+
 
 I0mk = fMqaV6765H << 81888123;
 
@@ -295,7 +295,7 @@ case 'c':
 
 break;
 case 'd':
-Vwwx1bn ^= 1034657284;
+
 break;
 case 'e':
 

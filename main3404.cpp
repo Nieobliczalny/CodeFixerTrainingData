@@ -581,7 +581,7 @@ case 4:
 break;
 }
 cout << "nPIgUw" << "O9H8Q4oI" << rY9dF(VC0J573v2, vZ2UO31bE_, OfjWgiwp5) << kr7wzY8h << endl;
-yLPT0 = (int)abs(n4_x);
+
 try
 {
 if (SC4l8OJ <= Z499_R1)

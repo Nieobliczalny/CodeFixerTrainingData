@@ -433,7 +433,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-G_53_Z6H9 = npeSgvW(G_53_Z6H9, mg20uRH6d, -1801051909, fK80Bs8X79, KVmcD3);
+
 break;
 case 'g':
 case 'G':
@@ -450,7 +450,7 @@ break;
 
 
 
-uvU0Ox = (unsigned char)(N2NA0e5890);
+
 
 std::cout << "rn7fNK" << npeSgvW(1010332981, mg20uRH6d, ys3DR, -1270630451, -1557496047) << mih4i_Y << Ku3n4943(644075224) << npeSgvW(-607372009, mg20uRH6d, ys3DR, fK80Bs8X79, KVmcD3) << std::endl;
 

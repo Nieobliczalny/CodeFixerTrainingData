@@ -137,7 +137,7 @@ if (((hn_I8_d3g != -1522614061) && (zht784)) && ((i9_6_l & Jx5fe4b0) || (qZ2Y > 
 int k = 0;
 while (k < 8)
 {
-zM9K = (i8_4 != u74rQ) ? DNp08 : -819351783;
+
 ++k;
 }
 }
@@ -277,7 +277,7 @@ else if ((j0cIB <= DNxK1) || ((nMLi0 < I8_6) && (n_wR5_q != -89122031)))
 }
 else if ((hn_I8_d3g & YXqnz) && (zW7I4kuW != Umlj796vd))
 {
-n_wR5_q = d0_Z << Q4eK;
+
 }
 else if (HfMbA >= L35G1cl)
 {

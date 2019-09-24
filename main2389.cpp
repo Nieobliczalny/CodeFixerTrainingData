@@ -44,7 +44,7 @@ int main(int argc, char** argv) {
   unsigned short  Y87hh6WC;
 
  long long lH3_0hOZG;
- lH3_0hOZG = -1842818457;
+
     long long    I3s72;
     I3s72    =    393387558;
   unsigned long  mIIs_klP;
@@ -124,7 +124,7 @@ int main(int argc, char** argv) {
 	unsigned short int	Z8w666yat;
 
     unsigned long    wCQS77;
-    wCQS77    =    120613901;
+
   int  xvn_;
 
 	unsigned short int	jo8998mzO;
@@ -164,7 +164,7 @@ int main(int argc, char** argv) {
   long long  d7Pgm;
 
  float cjbu6_Th0;
- cjbu6_Th0 = -23729683;
+
 	int	CbbO3_45o;
 	CbbO3_45o	=	-1227917027;
  float nyubi2mp;

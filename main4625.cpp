@@ -85,7 +85,7 @@ int main(int argc, char** argv)
   unsigned int  Z7JUZf2P;
   Z7JUZf2P  =  137730860;
  char jcTh09zF8;
- jcTh09zF8 = 967997292;
+
     short    E0z2;
     E0z2    =    1743358332;
   long double  aPUBXVREE3;
@@ -460,7 +460,7 @@ case 6:
 Mel3l_ri_9 = aom6q % 302318379;
 break;
 default:
-h8ryRQ = (int)floor(D15NwOB);
+
 break;
 }
 }
@@ -554,7 +554,7 @@ else if (Z7JUZf2P)
 {
 if (h8ryRQ >= SLC2z3k577)
 {
-Uw71FoYh8J <<= S_6l7J;
+
 }
 }
 else
@@ -654,7 +654,7 @@ case 'f':
 
 break;
 case 'g':
-t1wmF_SEg <<= 1223464224;
+
 break;
 default:
 

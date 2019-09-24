@@ -223,7 +223,7 @@ case 'd':
 
 break;
 case 'e':
-td2G = aD3mJ << kuHa70_Vek;
+
 break;
 case 'f':
 
@@ -245,7 +245,7 @@ case 2:
 
 break;
 default:
-hEeEgy30a = kuHa70_Vek | 2035382965;
+
 break;
 }
 

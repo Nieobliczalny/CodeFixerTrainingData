@@ -122,7 +122,7 @@ case 8:
 
 break;
 case 9:
-Sm5l9gcm = Tjo1o ^ 9985416;
+
 break;
 }
 }

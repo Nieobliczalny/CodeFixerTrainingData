@@ -342,7 +342,7 @@ case 'c':
 
 break;
 case 'd':
-d8n4 = LWoKMX - 1484710493;
+
 break;
 case 'e':
 Bq40Kq = of8F & LWoKMX;
@@ -357,7 +357,7 @@ case 'h':
 
 break;
 case 'i':
-xNtu = (int)abs(O4347eA);
+
 break;
 case 'j':
 t7lI9h9C &= 1520749018;

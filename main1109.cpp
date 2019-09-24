@@ -18,7 +18,7 @@ int main(void)
   long double  QwLl3kntQK,  rQB7,  I_XYRcA,  Yvy5mw,  yueLPg_,  ORe74,  yypu46l,  pb1_,  U771b3ZxJ,  fC9a2kRiP,  B0Po1O,  yNwQ8E,  UPwhJcOg,  SQY_,  Dtpj69T,  wTRT,  RMPP__BH,  CnuorSJ7gi,  volz1o2,  lW8Q4jX,  y91ra14ILV,  B7uzql9OW,  snmS4SF_s1,  R7FW5G,  Q1hN_2kL,  Qzg5701ZC_,  UU6Pn_bsJS,  L2fjl6F,  v2p4U9G5sx,  bUVkP,  E6NzN2w3IW,  wKHNDRTTx,  Uy_f_365,  SM7B2,  XcG_ksC,  fn7h39o1_C,  bnc7ID,  b8L95GCb,  a07I,  V3Go9b_oHR,  zij9c7Ap,  Np5fG,  Y02C,  SJ3AG0JX,  W_f5TmCv0Q,  j2KzzE,  i45e_aolZ,  Hwh32_6i3,  FWBOk1,  GFhYw_,  dJb0w,  YmXh5Gx6,  QKL8l6,  G_bQYt,  ID_zu,  v8_VfI,  lKs_Ku_x_,  aTc53jX05f,  Tpj36,  BhLzlX_R24;
 
   rQB7  =  550754199;
-  I_XYRcA  =  -2042716677;
+
   Yvy5mw  =  1817368573;
 
   ORe74  =  1005801184;
@@ -28,7 +28,7 @@ int main(void)
   fC9a2kRiP  =  -1632133606;
   B0Po1O  =  1384358345;
   yNwQ8E  =  541641772;
-  UPwhJcOg  =  -894778112;
+
   SQY_  =  669391426;
 
   wTRT  =  -1214437294;
@@ -38,7 +38,7 @@ int main(void)
   lW8Q4jX  =  122297533;
   y91ra14ILV  =  1502416990;
   B7uzql9OW  =  95522664;
-  snmS4SF_s1  =  1163008987;
+
   R7FW5G  =  1780439139;
   Q1hN_2kL  =  -920703922;
   Qzg5701ZC_  =  -1368549113;
@@ -48,7 +48,7 @@ int main(void)
 
 
   wKHNDRTTx  =  1749174675;
-  Uy_f_365  =  1954519152;
+
   SM7B2  =  987050250;
   XcG_ksC  =  1560805005;
   fn7h39o1_C  =  2043157943;
@@ -61,7 +61,7 @@ int main(void)
   Y02C  =  1760908758;
   SJ3AG0JX  =  -909748967;
 
-  j2KzzE  =  -1807617160;
+
   i45e_aolZ  =  -1526020295;
   Hwh32_6i3  =  1151725216;
   FWBOk1  =  -117024067;
@@ -75,7 +75,7 @@ int main(void)
   lKs_Ku_x_  =  1026028992;
 
   Tpj36  =  499035389;
-  BhLzlX_R24  =  -1987470020;
+
 
 cout << bnc7ID << volz1o2 << "f5P_" << "aln8XH" << v2p4U9G5sx << endl;
 
@@ -212,7 +212,7 @@ switch (qeu9)
 {
 case 'a':
 case 'A':
-B0Po1O = b8L95GCb * 1602188184;
+
 break;
 case 'b':
 case 'B':
@@ -240,7 +240,7 @@ y91ra14ILV = (int)abs(SM7B2);
 break;
 case 'h':
 case 'H':
-a07I = Qzg5701ZC_ + 862528297;
+
 break;
 case 'i':
 case 'I':
@@ -262,7 +262,7 @@ case 'c':
 
 break;
 case 'd':
-V3Go9b_oHR *= y91ra14ILV;
+
 break;
 case 'e':
 
@@ -274,7 +274,7 @@ case 'g':
 
 break;
 case 'h':
-U771b3ZxJ = Yvy5mw - 175522675;
+
 break;
 case 'i':
 

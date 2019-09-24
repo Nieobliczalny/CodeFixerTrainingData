@@ -502,7 +502,7 @@ if (Wu4J1f5R & 826265815)
 }
 else if (S3Q48U563o >= -431344507)
 {
-Dc34qOy2m = (int)ceil(i7g_HdnMF6);
+
 }
 else if (sDkYxi3xK >= lqaFjf_wF)
 {

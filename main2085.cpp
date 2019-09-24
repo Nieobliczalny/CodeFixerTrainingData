@@ -441,7 +441,7 @@ case 1:
 z0SZ2In = (int)ceil(JiD3_);
 break;
 case 2:
-oVOjb = K1Uu - q1Zz;
+
 break;
 case 3:
 
@@ -642,7 +642,7 @@ case 2:
 
 break;
 default:
-neOp95 = BbKP4r / k4Xx;
+
 break;
 }
 }

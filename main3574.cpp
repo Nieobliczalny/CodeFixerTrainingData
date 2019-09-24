@@ -110,7 +110,7 @@ Gmz8k_DF >>= 1181753019;
 P8o_N = (short int)(UWc1HpG5 + (a2R0EL2P));
 if (v6_mre_f > l0DYGE7_m)
 {
-sf7e = (short int)(W08Cmzb);
+
 }
 else
 {

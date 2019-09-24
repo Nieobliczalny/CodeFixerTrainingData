@@ -83,7 +83,7 @@ int main(int argc, char** argv)
 	unsigned char	ai1qjoxV;
 	ai1qjoxV	=	-1374072610;
  unsigned short int nOJm_72JY;
- nOJm_72JY = 0;
+
   float  sR798x2;
   sR798x2  =  -524089477;
     unsigned short int    Rln5P2h8H;
@@ -294,7 +294,7 @@ case 'g':
 sR798x2 = (int)floor(Gog0);
 break;
 case 'h':
-nOJm_72JY = xv0JY9cL();
+
 break;
 }
 }
@@ -607,7 +607,7 @@ if (DECWZ_ < -1668280712)
 }
 else if (Rln5P2h8H == r7Y23qTh8)
 {
-nOJm_72JY = xv0JY9cL();
+
 }
 else
 {

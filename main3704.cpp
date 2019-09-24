@@ -35,7 +35,7 @@ int main(void) {
     unsigned char    NA9US4;
     NA9US4    =    0;
 	short	RaUzTY48;
-	RaUzTY48	=	-1618300774;
+
  char Q908a69;
 
 	int	Ts9EF8Y;
@@ -45,7 +45,7 @@ int main(void) {
 	int	iTj89;
 	iTj89	=	-1839732107;
 	unsigned short int	xNr_4Nmq9Z;
-	xNr_4Nmq9Z	=	0;
+
 	float	eFmgU;
 
  short int MXBFGnt5J9;

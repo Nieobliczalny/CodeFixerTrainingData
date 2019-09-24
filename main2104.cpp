@@ -240,7 +240,7 @@ case 2:
 
 break;
 case 3:
-P_A6SFPVy2 ^= mtYH3;
+
 break;
 default:
 w9O8_iPQT -= w9O8_iPQT;

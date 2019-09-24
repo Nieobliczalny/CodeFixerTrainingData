@@ -178,7 +178,7 @@ if (vJoIoQi1u)
 int j = 6;
 while (j >= 0)
 {
-kM4x = (int)floor(ln_l5Q);
+
 --j;
 }
 }
@@ -232,7 +232,7 @@ r5D5Q = (vJoIoQi1u) ? -131223573 : 1033396678;
 break;
 case 'g':
 case 'G':
-kM4x = tijjq >> 1410332209;
+
 break;
 case 'h':
 case 'H':

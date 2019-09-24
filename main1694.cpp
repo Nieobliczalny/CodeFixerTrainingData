@@ -91,7 +91,7 @@ if (((Oayh) || (ZS9ds >= o35V5YIa6d)) || ((P5kWu & rOb_) && (p7zyYuQrB)))
 {
 try
 {
-kqbn = (unsigned char)(C5dE_Q);
+
 }
 catch (int& errorCode)
 {
@@ -289,7 +289,7 @@ while (k < 6);
 }
 }
 
-iUc665lt = D_IQ0aU(-2066998951, p7zyYuQrB, 156043140, g4z6);
+
 
 if ((GApEOzq2p != rOb_) && (A314w0OYF))
 {

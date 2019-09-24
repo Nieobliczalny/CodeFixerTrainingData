@@ -225,7 +225,7 @@ case 3:
 niKVHiVct = (int)abs(sxxZ9_4TF8);
 break;
 case 4:
-ga_V = (int)abs(tV7N);
+
 break;
 case 5:
 
@@ -340,7 +340,7 @@ case 3:
 
 break;
 case 4:
-Vew8 = aN34806 - s5K5_6_zA;
+
 break;
 case 5:
 

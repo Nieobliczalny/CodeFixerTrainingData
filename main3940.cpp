@@ -45,7 +45,7 @@ int main(int argc, char** argv)
  BM2bgF79 = -642448793;
  zUaY = -1262363451;
  V8Q1fu6j9H = 50220073;
- OAL3cQB = -632997222;
+
  thb3n4n = 198210263;
  m2aw7QS6 = -1601642389;
  odvxoZYa = 1538266452;
@@ -63,7 +63,7 @@ int main(int argc, char** argv)
  SE13l = 1580934550;
  X8n7J34eK = 583205052;
  dLJw_yBGa = 66772320;
- Ta2vIIXYKe = 1486188919;
+
 
  jd_Td62 = 1675548612;
  hWQ_ = 667625999;
@@ -88,7 +88,7 @@ int main(int argc, char** argv)
  XMz7Ko = 1847219933;
  kl_94YuAr = -879161830;
  hT7Q_Wwt = -482666314;
- tkQ5sa0cMj = -139197600;
+
  sri1r = -2051650985;
  zxB3mfp9x = -879124223;
  pBAHT = 1020270466;
@@ -207,7 +207,7 @@ std::cout << Hx8xTWU << k2gDC9 << std::endl;
 
 if (N1db3zsr != 583659822)
 {
-m9b7AhsdoZ = (int)ceil(pBAHT);
+
 }
 else if (jd_Td62)
 {
@@ -293,7 +293,7 @@ case 'c':
 
 break;
 case 'd':
-N7kTTZC5 = (int)abs(ke16);
+
 break;
 case 'e':
 ViqVbD = c2OU9F1N6u * SE13l;
@@ -346,7 +346,7 @@ case 'c':
 
 break;
 case 'd':
-F6O0ZIwb = IgVIRj9 / 983048237;
+
 break;
 case 'e':
 XMz7Ko -= pkg5;
@@ -407,7 +407,7 @@ case 'a':
 
 break;
 case 'b':
-r47Omm = (int)abs(k2gDC9);
+
 break;
 case 'c':
 
@@ -473,7 +473,7 @@ case 3:
 
 break;
 case 4:
-WPGd_u4w1 = (int)ceil(ViqVbD);
+
 break;
 case 5:
 XMz7Ko = (int)abs(N1db3zsr) + (-2137517484);
@@ -488,7 +488,7 @@ case 8:
 
 break;
 case 9:
-CD11 = (int)floor(YA6Lq);
+
 break;
 }
 }

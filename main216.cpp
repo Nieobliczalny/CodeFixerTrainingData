@@ -107,7 +107,7 @@ OQ53xO6hD = mS8e9();
 }
 else if (((Yip3D > ytU6AGpn3) && (r_1M8G & 996684892)) || (fpC8tA08 < I40e14AMa))
 {
-u7HL = (int)floor(LtK39MOWV);
+
 }
 else if (((Nm_32R2 > 875981420) && (bo0fm >= 11926136)) || (lja80tsj9 <= -752543892))
 {

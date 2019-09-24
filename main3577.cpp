@@ -501,7 +501,7 @@ case 3:
 
 break;
 case 4:
-Qrh3EG = NA2F8J(K3kX0f, NJ6WD5Ong4, 1226440799, Qrh3EG);
+
 break;
 case 5:
 JXv9md0 = (int)ceil(DeyMoZ);
@@ -586,7 +586,7 @@ case 'c':
 
 break;
 case 'd':
-JXFTuSEnK = (int)abs(tRecpR);
+
 break;
 case 'e':
 

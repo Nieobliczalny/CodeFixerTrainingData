@@ -62,7 +62,7 @@ int main(int argc, char** argv)
  short v_1X8;
  v_1X8 = -1207281415;
  float VNjLpJh3y1;
- VNjLpJh3y1 = -1151261993;
+
     unsigned long    fPV0m7;
 
   double  qFqDk;
@@ -72,7 +72,7 @@ int main(int argc, char** argv)
 	int	C03HFA6CJ8;
 
   unsigned long long  Y2aaHC3H77;
-  Y2aaHC3H77  =  -274988077;
+
 	int	CKba0w94j;
 	CKba0w94j	=	430278647;
 	unsigned short int	A3O1;

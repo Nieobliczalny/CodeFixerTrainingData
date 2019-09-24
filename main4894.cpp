@@ -47,7 +47,7 @@ int main(void) {
   QOU6p  =  216551678;
   e_dDt  =  622935618;
   A1F_34I  =  -445115231;
-  KZ0L82  =  -1820314574;
+
   FB_G  =  1116259683;
   jLK0496  =  -274794032;
   X7DjP1M176  =  1459493046;
@@ -199,7 +199,7 @@ case 6:
 KJvE = ZKeM_k * 1221475407;
 break;
 case 7:
-eewV |= 1758570453;
+
 break;
 default:
 X7DjP1M176 = ZKeM_k * 623162629;
@@ -224,7 +224,7 @@ case 2:
 Xf7TxIoIv &= R_WJ;
 break;
 case 3:
-KTLT5GbW3V ^= 414752125;
+
 break;
 case 4:
 
@@ -329,7 +329,7 @@ case 'F':
 break;
 case 'g':
 case 'G':
-rS0MbYAn = (int)abs(NS2WN6S9);
+
 break;
 case 'h':
 case 'H':
@@ -361,7 +361,7 @@ case 2:
 
 break;
 case 3:
-R9bMh3vEHt = u0qgp48 / 1846113828;
+
 break;
 case 4:
 B_pI = rS0MbYAn | 1706328634;
@@ -470,7 +470,7 @@ case 3:
 
 break;
 case 4:
-QOU6p = w49zzb1QJ / KJvE;
+
 break;
 case 5:
 IhqNiB = e_dDt + QOU6p;

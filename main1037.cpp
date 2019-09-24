@@ -483,7 +483,7 @@ while (i < 7);
 
 try
 {
-Z7Cp4gy7Pn = (unsigned int)(IH0JY);
+
 }
 catch (int& errorCode)
 {

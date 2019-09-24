@@ -41,7 +41,7 @@ int main(int argc, char** argv)
   int  to0sjfb6ED;
   to0sjfb6ED  =  -1168887481;
     unsigned long    KkS540ohHB;
-    KkS540ohHB    =    -1509322879;
+
 	int	dM_DX4;
 	dM_DX4	=	-186388010;
  short int yo58DSFX;
@@ -145,7 +145,7 @@ int main(int argc, char** argv)
   float  x1BTd0dvo;
 
   long long  bzMY;
-  bzMY  =  -1058706079;
+
     short    kum73a;
     kum73a    =    221239002;
   unsigned long long  so0h390Q1;
@@ -177,7 +177,7 @@ int main(int argc, char** argv)
     char    D7f6159;
 
  long gx4i49jZm;
- gx4i49jZm = 0;
+
     int    YX96CZA;
     YX96CZA    =    1462202855;
 	long	A0d_b;
@@ -466,7 +466,7 @@ case 2:
 
 break;
 case 3:
-XLQz2zuo = (int)floor(mmT6bYcp);
+
 break;
 case 4:
 

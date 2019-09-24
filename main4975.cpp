@@ -39,7 +39,7 @@ int main(void) {
     unsigned short    Vb5r76TZ;
 
 	int	z2v32;
-	z2v32	=	600429832;
+
  char X__9;
  X__9 = 778289862;
  long long lnrcZK9;
@@ -53,7 +53,7 @@ int main(void) {
  char VpDJu;
 
 	unsigned short	rskHGh;
-	rskHGh	=	-1568383628;
+
   int  h6kjbcgM2;
 
 	unsigned long	h9v1t;
@@ -75,7 +75,7 @@ int main(void) {
     unsigned short int    AN0diC;
 
  int Ly_34_RPLe;
- Ly_34_RPLe = 101224079;
+
     unsigned int    Hyd2hU4z;
 
  unsigned char c1QJMtC8S;
@@ -89,7 +89,7 @@ int main(void) {
 	unsigned short	ScUFtK1;
 
  unsigned int x9FDe;
- x9FDe = 114597821;
+
   unsigned long  uu05OrJ52c;
   uu05OrJ52c  =  -228262394;
  char lxZ2n;
@@ -103,7 +103,7 @@ int main(void) {
     float    cVl8G;
     cVl8G    =    -1259795273;
     double    fA2EF;
-    fA2EF    =    1183301203;
+
  long double zcKe9utqnR;
  zcKe9utqnR = 1777929222;
   char  fq5TKa7J;
@@ -115,7 +115,7 @@ int main(void) {
  long double dxm_s5VkY2;
  dxm_s5VkY2 = -1559179222;
   short  MkWZ;
-  MkWZ  =  -2060712474;
+
   unsigned short int  uR_y649L6H;
 
 	unsigned int	cebm58ns0j;
@@ -131,7 +131,7 @@ int main(void) {
     unsigned int    Yz__e8U;
 
 	char	g86p3R;
-	g86p3R	=	979045245;
+
     short int    jBJi93i;
 
   unsigned short int  eVKcPg0E7;
@@ -143,7 +143,7 @@ int main(void) {
     long double    NV23LkE72;
 
 	unsigned char	XX3GheXI;
-	XX3GheXI	=	998642151;
+
  unsigned long N_g5cMp;
 
   unsigned short  oPpy;
@@ -157,7 +157,7 @@ int main(void) {
   char  Qr_16U;
   Qr_16U  =  -372945636;
     long long    bPh_mb_yTm;
-    bPh_mb_yTm    =    480392002;
+
   unsigned long long  Jh_bq2V9JD;
   Jh_bq2V9JD  =  -490829632;
     short int    Im7nPQl;
@@ -169,7 +169,7 @@ int main(void) {
     short int    Py1u;
     Py1u    =    842778855;
   unsigned int  oea3504;
-  oea3504  =  -186748216;
+
 	double	RLx5;
 	RLx5	=	1152037819;
  double I_4f9;
@@ -232,7 +232,7 @@ case 1:
 lnrcZK9 = W4zWM(1330553961, -1924664630, 713204074, -180619693);
 break;
 case 2:
-MkWZ = J8d10OTO2D % n9V_J;
+
 break;
 case 3:
 
@@ -247,7 +247,7 @@ case 6:
 
 break;
 case 7:
-POlz = xkdHFg();
+
 break;
 case 8:
 bPh_mb_yTm = xkdHFg();
@@ -404,7 +404,7 @@ case 2:
 
 break;
 case 3:
-w9Niid7JZ_ = W4zWM(710976333, eVKcPg0E7, 54025942, dxm_s5VkY2);
+
 break;
 case 4:
 bPh_mb_yTm = (int)abs(Py1u);
@@ -425,7 +425,7 @@ cout << xkdHFg() << A01_XDk6ok << "Q9YO_8e_p0" << W4zWM(532080985, 1948184766, -
 
 
 
-OMJ0c = (unsigned long long)(V3fD_ + (-637017825));
+
 switch (To45f6)
 {
 case 0:
@@ -438,7 +438,7 @@ default:
 
 break;
 }
-x9FDe = W4zWM(oPpy, xb08Gi, -738773785, 821028419) / lnrcZK9;
+
 
 {
 int i = 0;

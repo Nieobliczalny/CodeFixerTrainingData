@@ -29,7 +29,7 @@ int main(void) {
  nhssdF75Q = 1085860335;
  c3OS9oir = 1119618302;
  SEvrt = -1895393450;
- Nhlp = -673131228;
+
 
 
  vS7_28H6 = -1013899422;
@@ -51,7 +51,7 @@ int main(void) {
  USW8H6sX5l = 1058800631;
  XhHt = 291960530;
  VTMyFbr5Ca = -1526086992;
- r796 = -2019647518;
+
  LcHmC = -1015618247;
  Y7P6um2P = -1669882352;
  x6tg2 = 1140503098;
@@ -64,7 +64,7 @@ int main(void) {
  C45c22hm = -779156448;
  lnRB = 1066503363;
 
- g6M_23Go7Q = -544072942;
+
  W98R6C9X3 = -1696286817;
  w268SVh = 351055304;
  q0Dy2Eek = -1206063696;
@@ -75,7 +75,7 @@ int main(void) {
 
 
  SyBs = -309410471;
- No1gq178pq = -2910015;
+
  em0C90bMcq = -1545888939;
  C2UDJ = 8130135;
  MlpBL_33B8 = 1669699895;
@@ -112,7 +112,7 @@ switch (H1xddg4)
 {
 case 'a':
 case 'A':
-SJg6b9 /= UGKtk6Lf;
+
 break;
 case 'b':
 case 'B':
@@ -230,7 +230,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-USW8H6sX5l = ia849lh(USW8H6sX5l, JGHfp82H, -1108867743, g6M_23Go7Q);
+
 break;
 case 'd':
 case 'D':
@@ -244,7 +244,7 @@ int i = 3;
 do
 {
 --i;
-SEvrt = (unsigned short int)(C2UDJ);
+
 }
 while (i >= 0);
 }

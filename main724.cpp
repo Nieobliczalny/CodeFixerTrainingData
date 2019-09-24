@@ -300,7 +300,7 @@ case 0:
 SKkOhqSZs7 = i_2H_O(SKkOhqSZs7, 2036775367, -18716135);
 break;
 default:
-pc0xa3_ = (int)floor(t4T98K8);
+
 break;
 }
 }
@@ -441,7 +441,7 @@ SKkOhqSZs7 |= 95662386;
 break;
 case 'f':
 case 'F':
-pc0xa3_ = (int)abs(xE9l5Aui02);
+
 break;
 default:
 gri4bRvF ^= jGZLjsA2R;
@@ -523,7 +523,7 @@ eNZAb659G0 = (int)ceil(KeG3Wj49);
 
 if (GX34Zo & 2086279254)
 {
-pc0xa3_ = (int)floor(ap1x75I48);
+
 }
 else if (jGZLjsA2R > LIUY3b8)
 {

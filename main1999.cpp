@@ -508,7 +508,7 @@ jHHi++;
 }
 else if (((d_6l_1f1nj == 1117500453) && (l3Z6Slac & 2025708232)) || (gpq2F_f == k8niPj_))
 {
-k8niPj_ *= 64831378;
+
 }
 else if (k8niPj_ & 1075280691)
 {
@@ -590,7 +590,7 @@ case 'd':
 
 break;
 case 'e':
-d_6l_1f1nj = (int)abs(pvdRBjUBT);
+
 break;
 case 'f':
 BPCiD2N10K--;

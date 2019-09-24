@@ -123,7 +123,7 @@ case 'a':
 aRA5R_G_1R = JqZ9R94Ts();
 break;
 case 'b':
-xg_H046 = (int)abs(BW18q3EH_);
+
 break;
 case 'c':
 v1k2W60--;
@@ -301,7 +301,7 @@ case 'd':
 
 break;
 case 'e':
-gYE880 = (int)abs(cVQg);
+
 break;
 case 'f':
 ck7v++;

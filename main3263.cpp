@@ -167,7 +167,7 @@ SzB5Ub34g = (int)ceil(B_unT2q);
 }
 }
 nF8Kt5h5 = (o3OLl9 >= Lfij174v3) ? -2013599468 : rc8b8v;
-Ba0uN5Zqj = (int)floor(ww4_);
+
 {
 int i = 0;
 while (i < 9)
@@ -186,7 +186,7 @@ W235 = RlhP(W235, v4_Scu1, 2118517209);
 }
 else
 {
-o0FSzY_ = (int)floor(a1W2);
+
 }
 }
 }

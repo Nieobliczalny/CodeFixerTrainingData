@@ -151,7 +151,7 @@ else if (V9eE24vUO5 & -1782791288)
 {
 if ((ms7A != Nzn6M) || (JxYEJEYM > -1669063814))
 {
-Rwo3IVKW81 = (int)ceil(g8H0);
+
 }
 else
 {
@@ -231,7 +231,7 @@ case 2:
 i52PldxM = vkQ8o * 2112652650;
 break;
 case 3:
-lGyYbqoeg = (int)abs(VZ0Pg0h12);
+
 break;
 case 4:
 opk2od4 = YZC2Y(-725017417, lGyYbqoeg);
@@ -246,7 +246,7 @@ case 7:
 
 break;
 case 8:
-lGyYbqoeg = PXYjS % 1699861276;
+
 break;
 case 9:
 
@@ -274,7 +274,7 @@ case 2:
 
 break;
 case 3:
-Nzn6M = (int)floor(ms7A);
+
 break;
 case 4:
 

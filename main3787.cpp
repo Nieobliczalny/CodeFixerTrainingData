@@ -89,7 +89,7 @@ int main(void) {
 	int	cu0mw_RL0R	=	-2070512809;
     char    IYz_5u0ZNq    =    -2083774518;
 
-YXd7E3fmM5 = (int)ceil(D_zdix2t5);
+
 
 YMgep5 = (float)(Ec_ZQ8i + (c3GI9));
 

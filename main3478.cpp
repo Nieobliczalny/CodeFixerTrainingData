@@ -20,7 +20,7 @@ switch (Dw5K89d)
 {
 case 'a':
 case 'A':
-V9D97EgV = (int)abs(R4WKFHqJ7g);
+
 break;
 case 'b':
 case 'B':
@@ -133,7 +133,7 @@ if (h775F >= 1921974266)
 
 if ((eR39) || (eR39 > I936))
 {
-hJ4e = (int)ceil(RR3NSWm2uu);
+
 }
 else
 {
@@ -194,7 +194,7 @@ int j = 0;
 do
 {
 j++;
-K94OwLfk = (float)(RR3NSWm2uu);
+
 }
 while (j < 9);
 }
@@ -264,7 +264,7 @@ case 2:
 
 break;
 case 3:
-S7H9lO = vr5Y5F * 255407500;
+
 break;
 case 4:
 

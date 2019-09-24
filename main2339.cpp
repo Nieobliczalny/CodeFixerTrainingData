@@ -36,7 +36,7 @@ int main(int argc, char** argv) {
  long double DNhmrO;
 
   float  fqQl;
-  fqQl  =  -2082868265;
+
   unsigned long long  bFAo483A;
   bFAo483A  =  -562862845;
 	unsigned short int	sJp10JT0P;
@@ -48,7 +48,7 @@ int main(int argc, char** argv) {
 	long long	Y5W2x10;
 
  unsigned char INjyDo91L;
- INjyDo91L = 167139877;
+
  unsigned long long mL53;
  mL53 = -1242911998;
   unsigned long  ssdS7F;
@@ -64,7 +64,7 @@ int main(int argc, char** argv) {
 	char	Fnn3d7x4t;
 
  unsigned short QYWP626;
- QYWP626 = -672390727;
+
  long dTC4Y;
  dTC4Y = 1475586319;
   char  SRZF52MNR;
@@ -76,7 +76,7 @@ int main(int argc, char** argv) {
 	long double	uM9d;
 
     float    m4xG_Pmf72;
-    m4xG_Pmf72    =    1403859598;
+
  short int bvUBiN;
  bvUBiN = 1551066782;
 	char	GH1Va5Ek4;
@@ -88,7 +88,7 @@ int main(int argc, char** argv) {
 	unsigned short	obzC;
 	obzC	=	420661532;
  long e2Z12HWq1_;
- e2Z12HWq1_ = 292433452;
+
   double  y76dVP;
 
     short int    UruOE;
@@ -98,7 +98,7 @@ int main(int argc, char** argv) {
 	int	x_trvx6;
 	x_trvx6	=	1536496978;
  unsigned short int PZ0Lo;
- PZ0Lo = 1508056909;
+
 	float	D25B;
 	D25B	=	44947208;
 	long long	iCo5d46a6;
@@ -126,7 +126,7 @@ int main(int argc, char** argv) {
   unsigned long  K4_o0KvFuo;
 
   char  N3iQy4S1H;
-  N3iQy4S1H  =  2103815431;
+
   double  yOc_IsSHoI;
 
   long  f61x;
@@ -144,7 +144,7 @@ int main(int argc, char** argv) {
  long double y0ct1_;
 
  float dFX87Hv;
- dFX87Hv = -82709266;
+
 	long	TLmh6et;
 	TLmh6et	=	-1263895135;
     int    IgLU;
@@ -156,7 +156,7 @@ int main(int argc, char** argv) {
  int B8zN;
 
   double  mszBG3t9;
-  mszBG3t9  =  -789137884;
+
  double XEOS7kO4;
  XEOS7kO4 = 696974731;
     int    k7rhF_z;
@@ -170,7 +170,7 @@ int main(int argc, char** argv) {
 
 if (D25B)
 {
-depLjCK = (float)(XEOS7kO4);
+
 }
 else
 {
@@ -200,7 +200,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-aFQLXSvY7L = (int)floor(M7KQ);
+
 break;
 case 'e':
 case 'E':
@@ -270,7 +270,7 @@ case 2:
 
 break;
 case 3:
-mL53 = CW2_6van2(-1491039419, t4L9EV4);
+
 break;
 case 4:
 

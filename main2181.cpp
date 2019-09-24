@@ -365,7 +365,7 @@ case 'c':
 
 break;
 case 'd':
-xG3G0g0gdM = (int)abs(sX_Zj) + (2138676937);
+
 break;
 case 'e':
 qW1xi++;

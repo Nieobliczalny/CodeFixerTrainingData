@@ -81,7 +81,7 @@ int main(void) {
  short mUHgW_3x8s;
 
     unsigned long    HPDkCl;
-    HPDkCl    =    -1869916122;
+
   long long  bEb1Q;
   bEb1Q  =  29107953;
 	short	cPpuXEM;
@@ -107,7 +107,7 @@ int main(void) {
  int v21bWVd4;
  v21bWVd4 = -1695702201;
  unsigned short mXHdn_;
- mXHdn_ = -1584079151;
+
 	char	n96D_;
 	n96D_	=	1462546239;
     int    SIvR3;
@@ -435,7 +435,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-v21bWVd4 = (int)abs(d7728_);
+
 break;
 case 'c':
 case 'C':
@@ -472,7 +472,7 @@ else
 {
 if ((sSkOuH > 951733300) || (D81np >= H1_j87UV))
 {
-NZ8bjFel = PXSuP6(75148664, 1759326319, 1347612754, -1320794044);
+
 }
 else if (P5Sj == -1254907392)
 {

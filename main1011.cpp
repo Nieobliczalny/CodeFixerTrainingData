@@ -610,7 +610,7 @@ case 'e':
 
 break;
 case 'f':
-O_MI7Q7Me = (int)floor(W_Z5);
+
 break;
 case 'g':
 jsA733O ^= 883107683;

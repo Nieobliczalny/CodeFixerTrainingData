@@ -45,7 +45,7 @@ int main(void) {
     float    a03lrn1c;
     a03lrn1c    =    1908137154;
 	char	ylLK4moW;
-	ylLK4moW	=	-530109483;
+
 	long double	ub7e2;
 	ub7e2	=	306433551;
     unsigned long    p34VH;
@@ -77,7 +77,7 @@ int main(void) {
   double  E88jOdTbv;
 
   unsigned long  a075F38U;
-  a075F38U  =  -2017832125;
+
   short  hpjvk7DI;
   hpjvk7DI  =  -500542232;
   unsigned char  PkB3;

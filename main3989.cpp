@@ -79,7 +79,7 @@ case 'a':
 
 break;
 case 'b':
-F_MK08 <<= 1108198122;
+
 break;
 case 'c':
 cs6x %= 137343338;
@@ -163,7 +163,7 @@ Y0SJE7N7Xp = A926ijD6 - 693025040;
 }
 else if (((jbTch29H > 1595657528) && (o_y9XH9z != 1697159526)) && ((Dh90 <= FWXtSR) && (Dh90 >= 191350005)))
 {
-nYgkFb9I = negVJqZq2i >> 1866342381;
+
 }
 else if (X3f2Bpn6m8 < 18457887)
 {

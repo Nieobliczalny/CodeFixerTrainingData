@@ -131,7 +131,7 @@ int main(void)
   unsigned short int  pXE1_VJn;
 
  long long B7ixc6SEL;
- B7ixc6SEL = -1111898138;
+
   double  k97eW1XFS8;
 
   long long  S_8KbQCZ;

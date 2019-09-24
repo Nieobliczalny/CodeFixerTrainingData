@@ -353,7 +353,7 @@ case 'a':
 
 break;
 case 'b':
-D_auJyUy = (int)ceil(Ir94Qz3w);
+
 break;
 case 'c':
 miYT6V = (int)abs(kp8w);
@@ -389,7 +389,7 @@ case 'a':
 eVZt_Z++;
 break;
 case 'b':
-D_auJyUy = (int)floor(dYMk_a_WF);
+
 break;
 case 'c':
 dzOFh0s87 = BgjM(dzOFh0s87, 429260033, cC5S00yzlQ);

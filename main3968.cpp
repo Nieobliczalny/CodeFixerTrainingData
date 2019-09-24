@@ -49,7 +49,7 @@ int main(int argc, char** argv) {
 	K0O_FdQ8K	=	0;
 	qIT4Oq2	=	0;
 
-Uh4rB18 = (int)ceil(dEJ1TSOX);
+
 
 TlnWJ8irwh -= 931337788;
 meXZP = (int)abs(YCb56fP);
@@ -185,7 +185,7 @@ IIEhf = (int)ceil(DhgZQ);
 break;
 case 'd':
 case 'D':
-K0O_FdQ8K = w_WZqfw(1206520982, 1859810527, -2076172983, K0O_FdQ8K, -1714147578);
+
 break;
 case 'e':
 case 'E':
@@ -197,7 +197,7 @@ case 'F':
 break;
 case 'g':
 case 'G':
-wF81VV1gA = jWmla(-572765114, -274192499);
+
 break;
 case 'h':
 case 'H':
@@ -209,7 +209,7 @@ case 'I':
 break;
 case 'j':
 case 'J':
-Uh4rB18 = (int)ceil(SdDEX8j5aT);
+
 break;
 }
 
@@ -231,7 +231,7 @@ case 4:
 
 break;
 case 5:
-wF81VV1gA = (int)ceil(meXZP);
+
 break;
 case 6:
 
@@ -253,7 +253,7 @@ case 2:
 
 break;
 case 3:
-meXZP = (int)ceil(pA3HB);
+
 break;
 case 4:
 

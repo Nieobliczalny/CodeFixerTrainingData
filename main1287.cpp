@@ -72,7 +72,7 @@ case 0:
 XH1Q = (t6_u73r > gtqoYPJaV) ? Y_2zy : 1545312756;
 break;
 case 1:
-uWN2Sw89wL = (int)abs(c0i_1Md);
+
 break;
 case 2:
 I_uwyv_jUw += 2030681856;
@@ -105,7 +105,7 @@ Y_2zy = uZ4BS7T / 319810372;
 }
 else
 {
-uWN2Sw89wL = (int)floor(a2_3);
+
 }
 }
 }
@@ -342,7 +342,7 @@ case 6:
 
 break;
 case 7:
-kV62 = RCIYI2jF * 1828336253;
+
 break;
 default:
 

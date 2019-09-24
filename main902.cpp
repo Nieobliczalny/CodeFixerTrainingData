@@ -104,7 +104,7 @@ case 3:
 
 break;
 default:
-Ui1V53 = Y4vuyC_ * hZpq6q_f;
+
 break;
 }
 std::cout << TTt0FsA6Ed << Lv0Le << std::endl;
@@ -120,7 +120,7 @@ case 2:
 
 break;
 case 3:
-MT4_shS *= Uv8q;
+
 break;
 }
 
@@ -216,7 +216,7 @@ case 'h':
 
 break;
 case 'i':
-OXX1w = (d88087hv > 1853507538) ? -1638679120 : Y4vuyC_;
+
 break;
 case 'j':
 i846_ = apQsw5NqoW & j5tg2n7R;
@@ -240,7 +240,7 @@ case 'c':
 
 break;
 case 'd':
-k1_vD |= t231l;
+
 break;
 case 'e':
 Y_XxpJ99 |= kN4b9JW;
@@ -255,7 +255,7 @@ case 'h':
 
 break;
 default:
-YA04J0y67S = j5tg2n7R * FQEl;
+
 break;
 }
 for (int i = 5; i >= 0; --i)
@@ -289,7 +289,7 @@ case 'c':
 
 break;
 case 'd':
-tv9D3r = (int)abs(Lv0Le);
+
 break;
 case 'e':
 

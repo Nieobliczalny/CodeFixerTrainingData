@@ -281,7 +281,7 @@ case 'h':
 
 break;
 case 'i':
-P_90X0G = IVmKg6 * J87bs8_;
+
 break;
 }
 }
@@ -628,7 +628,7 @@ case 'c':
 
 break;
 case 'd':
-XIee2b1m = fOGaD_9 ^ AXv3JU6V2W;
+
 break;
 default:
 

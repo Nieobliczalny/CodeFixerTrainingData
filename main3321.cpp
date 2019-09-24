@@ -530,7 +530,7 @@ else
 switch (qe4I)
 {
 case 'a':
-Uw6r9H2Y1 >>= 1182501352;
+
 break;
 case 'b':
 QB04c = AJXSW0r2F6 / GQQem_5Bk;

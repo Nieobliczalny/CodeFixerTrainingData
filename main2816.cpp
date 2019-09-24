@@ -293,7 +293,7 @@ case 'a':
 dK00vV35 |= 1032034603;
 break;
 case 'b':
-oPY63 = i8t1Mv2px ^ 1903739671;
+
 break;
 case 'c':
 uSQ3y = Z2Z1kQ0P * mK7EqT;
@@ -451,7 +451,7 @@ case 5:
 
 break;
 case 6:
-ry_R7 = Qyl_0UcAvd % oQ7g3PK9;
+
 break;
 default:
 Nal7971b = dK00vV35 % 1483217091;

@@ -76,7 +76,7 @@ h27uNDNO8_ = t_VKL5hty(228267163, 501068885);
 
 for (int i = 10; i >= 0; --i)
 {
-nAq113Itz = (long double)(xHq2e53k);
+
 }
 
 if (((nrkpA == 725456079) || (GnJvKV & 1077207024)) || (z10hX))

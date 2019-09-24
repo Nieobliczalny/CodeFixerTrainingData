@@ -252,7 +252,7 @@ case 0:
 
 break;
 case 1:
-BtBO44uYoP = I_BU(-2120885636, -1941545565, l_Th_Y7rk);
+
 break;
 case 2:
 

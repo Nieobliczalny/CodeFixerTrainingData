@@ -410,7 +410,7 @@ std::cout << "Bq81y3" << "P0vfH3c" << jTETX6rz << std::endl;
 }
 }
 
-VHhVE0r = (long long)(h6Ns8);
+
 
 if ((Twbsic / SLF51Mb4Z) <= -1480635034)
 {

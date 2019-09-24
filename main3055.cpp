@@ -73,7 +73,7 @@ else if (ujAk270zD2 == 438077775)
 {
 if (otD3fF)
 {
-eOk_Z6815P = k6uL(-1011298488, -1685052294, 1409167586);
+
 }
 else
 {
@@ -155,7 +155,7 @@ case 'F':
 break;
 case 'g':
 case 'G':
-eOk_Z6815P = (int)abs(HUrET) * 0;
+
 break;
 case 'h':
 case 'H':

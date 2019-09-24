@@ -329,7 +329,7 @@ if (t5e7Wn > -1492843377)
 switch (gcz7P)
 {
 case 0:
-U3qzCd = LG55(2120563828, N15bx007_, -1113565297);
+
 break;
 case 1:
 QV3seNv -= hQ3h3;
@@ -398,7 +398,7 @@ case 'c':
 
 break;
 case 'd':
-XE7_KtLj3 = Izomq394(XE7_KtLj3, 1839334186);
+
 break;
 case 'e':
 

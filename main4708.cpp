@@ -25,7 +25,7 @@ int main() {
   int  tiak;
   tiak  =  151175111;
   int  jFG6W7c;
-  jFG6W7c  =  2057156859;
+
  unsigned long S3LYx00;
  S3LYx00 = -1766450234;
  short int HyNjZDaN;

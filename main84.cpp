@@ -57,7 +57,7 @@ case 1:
 YR1at82Lb = (GB7d1M & vP2efu0hh) ? NiKN : cF0II;
 break;
 case 2:
-j4_sy5 = IsRo(j4_sy5, 1498716828);
+
 break;
 case 3:
 
@@ -72,7 +72,7 @@ case 6:
 u__09OV8s7 = HpC_8Dq1ZY();
 break;
 case 7:
-PtqE -= u__09OV8s7;
+
 break;
 }
 }
@@ -147,7 +147,7 @@ case 'F':
 break;
 case 'g':
 case 'G':
-fkMC = (int)abs(i9N9pwrwM);
+
 break;
 case 'h':
 case 'H':
@@ -159,7 +159,7 @@ break;
 }
 
 
-HOO0yi = HOO0yi / u__09OV8s7;
+
 {
 int i = 4;
 do

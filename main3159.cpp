@@ -82,7 +82,7 @@ int main(int argc, char** argv)
 	long	p_p_Ajnb83;
 
 	char	DUPJTZfG;
-	DUPJTZfG	=	-1018685901;
+
   short int  OAjC;
 
  unsigned short B28N1;
@@ -100,7 +100,7 @@ int main(int argc, char** argv)
 	unsigned short	nbWiO6;
 	nbWiO6	=	718057187;
     char    g8g32;
-    g8g32    =    -1108203012;
+
     unsigned int    egCpIjc4;
 
 	char	u5Qf;
@@ -124,7 +124,7 @@ int main(int argc, char** argv)
  short int hzVHY;
 
   unsigned short int  mF4ek_iS;
-  mF4ek_iS  =  -1095957875;
+
     long double    u2z2V9si;
 
     short    Y5e6l;
@@ -138,7 +138,7 @@ int main(int argc, char** argv)
  int mR2LW;
 
  unsigned long long CIQk;
- CIQk = 1711389838;
+
     unsigned char    Rbwe_2h;
 
  unsigned short Tf3_us;
@@ -170,7 +170,7 @@ int main(int argc, char** argv)
 	int	q14A;
 	q14A	=	-1592694843;
 	unsigned short	C4y96;
-	C4y96	=	179561162;
+
     unsigned long long    TZ8P1p;
     TZ8P1p    =    -1088252411;
 	char	avM0SO72_;
@@ -372,7 +372,7 @@ case 'c':
 
 break;
 case 'd':
-E3pXIF_Y = xvJ8Yp517(I_94En, -763592481, 1449327024, 837882988, 1162328523) << N7wz;
+
 break;
 case 'e':
 yCyFjV6lE = r3P4eX3sA(857527729, QThvSK5_, zvDjXjK5, UgZneWk3, 542838966);
@@ -387,7 +387,7 @@ case 'h':
 
 break;
 case 'i':
-N7wz = K56VG6();
+
 break;
 default:
 Ws10wJ5k = (int)abs(M4Ys9wa);

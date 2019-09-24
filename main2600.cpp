@@ -32,7 +32,7 @@ int main()
   short  C3O5Mu43;
   C3O5Mu43  =  771308238;
 	unsigned long	ny8358e7bL;
-	ny8358e7bL	=	1225935832;
+
 	int	b4qrc;
 	b4qrc	=	489498330;
  int imikD27;
@@ -56,7 +56,7 @@ int main()
 	unsigned short int	nKS8;
 	nKS8	=	1996318343;
   unsigned int  Q_B_A8x;
-  Q_B_A8x  =  0;
+
     long double    W1x5Q;
     W1x5Q    =    1110969943;
  unsigned char bxblR;
@@ -84,7 +84,7 @@ int main()
 	double	u4Q1X5Y9;
 	u4Q1X5Y9	=	380567256;
   long  mDM10y56v;
-  mDM10y56v  =  -2126878774;
+
  long double j66xX4A9_l;
  j66xX4A9_l = 1977906824;
 	long	e68__oJFKN;
@@ -192,7 +192,7 @@ case 7:
 nkm8o = QPLq8p(-1127681311, D62v_4, -1464226817);
 break;
 case 8:
-e68__oJFKN = (int)abs(nkm8o);
+
 break;
 }
 
@@ -303,7 +303,7 @@ cout << "y0jx6D_" << QPLq8p(-975488021, C9By, 1265293179) << b4qrc << endl;
 }
 if (W1x5Q != A9TRF3hw)
 {
-e68__oJFKN = (int)abs(v089lL70E);
+
 }
 
 
@@ -403,7 +403,7 @@ break;
 cout << "My4adR4" << endl;
 if (((D62v_4 <= -743476796) || (C3O5Mu43 > C_qv5bE7Z4)) || (C_qv5bE7Z4 != -1306183413))
 {
-D62v_4 = (int)abs(CTAKI_eP);
+
 }
 
 oyq4XK4 = (unsigned short)(xqi470);
@@ -425,7 +425,7 @@ case 2:
 vKHo--;
 break;
 case 3:
-e68__oJFKN = C_qv5bE7Z4 << 653397801;
+
 break;
 case 4:
 or23BJSoW &= 1352299369;
@@ -461,7 +461,7 @@ case 'c':
 
 break;
 default:
-Nxpf1_ = QPLq8p(Nxpf1_, v089lL70E, -1939583344);
+
 break;
 }
 }

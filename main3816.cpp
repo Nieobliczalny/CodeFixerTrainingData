@@ -120,7 +120,7 @@ break;
 cout << "AS0MAV9" << "vq033Uy" << uvH2511DC2 << n2pFNPVCPi << "CdvA2Kq1X" << endl;
 if ((1145805002 / c44_) > 2032876238)
 {
-BaT__69g__ = kt3qkSRPl / c44_;
+
 }
 if ((U2p415Z <= Y4S0Ym6) && (ptp1vM9b34 != VWXxc5jI))
 {
@@ -145,7 +145,7 @@ break;
 }
 else
 {
-Q93tT_i >>= 1694392266;
+
 }
 
 

@@ -166,7 +166,7 @@ int main(int argc, char** argv) {
  unsigned short IJoLh5cZz;
  IJoLh5cZz = -1075229490;
  unsigned short wGX9Iy;
- wGX9Iy = -1185468150;
+
 	unsigned long long	c5Tb93tfn;
 	c5Tb93tfn	=	1946342460;
  int eG2GjJ1;
@@ -495,7 +495,7 @@ try
 switch (L_96)
 {
 case 0:
-TDlUt93 = Gyux0S_fc & 558841117;
+
 break;
 case 1:
 p3fq = (int)floor(Qnk895A8);

@@ -473,7 +473,7 @@ case 4:
 
 break;
 case 5:
-W3WyXTyRZ7 >>= 1355347276;
+
 break;
 case 6:
 dR56GU_qk4++;
@@ -491,7 +491,7 @@ if (oaooZN6q)
 
 }
 
-nclZ3tkKjU = (long long)(P2byFW);
+
 switch (HlVhS71G2)
 {
 case 0:

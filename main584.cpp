@@ -63,7 +63,7 @@ case 3:
 
 break;
 case 4:
-FIt2N07V %= RSg2TX;
+
 break;
 default:
 zyecE = (int)abs(vZ08bI);
@@ -276,7 +276,7 @@ else if (Vo__9U9P & g2IR_)
 }
 else
 {
-yl2_i = L4OT3 % tCucX;
+
 }
 }
 catch (int& errorCode)
@@ -310,7 +310,7 @@ try
 {
 if (I_dy89Y_C < RB_s7_)
 {
-FoKLX2HeR = t_px();
+
 }
 else if (nk1jt_3 >= 1552317769)
 {
@@ -337,7 +337,7 @@ case 1:
 
 break;
 case 2:
-sX0I5n = nK_6y(-1710178304, JD1PxxVF8i, aIKGgdZS, zqhb) - UvexMnF8W;
+
 break;
 }
 }
@@ -389,7 +389,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-avqWw1R = (anN1EA1 <= V6nzCybba) ? IPYvq3ZFL : wie3peEYdm;
+
 break;
 case 'd':
 case 'D':

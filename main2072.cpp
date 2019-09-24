@@ -185,7 +185,7 @@ lk5u3xy = tK6346qS(izgIxwq5, -881429322, -1133704500) << MwRL_3fh;
 break;
 case 'b':
 case 'B':
-b_93kexj >>= fX37Ja;
+
 break;
 case 'c':
 case 'C':
@@ -728,7 +728,7 @@ case 4:
 
 break;
 case 5:
-c_8JrcV2D = nlnfliU8(-999296344);
+
 break;
 default:
 

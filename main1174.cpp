@@ -597,7 +597,7 @@ case 'g':
 
 break;
 default:
-A__660KaQ = (int)floor(h_L0);
+
 break;
 }
 }

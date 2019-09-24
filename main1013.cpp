@@ -51,7 +51,7 @@ while (k >= 0);
 }
 try
 {
-RWnFxpGWp >>= K017;
+
 }
 catch (int& errorCode)
 {
@@ -297,7 +297,7 @@ XLzt = qhm1gI5();
 break;
 }
 
-A8wPrl <<= RSBL7U;
+
 
 if (Nnr9h < 645757240)
 {
@@ -353,7 +353,7 @@ case 2:
 VODfSM4--;
 break;
 case 3:
-V1daj_ = (int)abs(ft0d);
+
 break;
 case 4:
 

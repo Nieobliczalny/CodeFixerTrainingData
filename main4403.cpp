@@ -216,7 +216,7 @@ else if (oSto_SE <= -292898490)
 {
 for (int k = 3; k >= 0; k--)
 {
-h_x0K = FzLeij492(551581523, 2037071670);
+
 }
 }
 else
@@ -353,7 +353,7 @@ case 2:
 
 break;
 case 3:
-a_k6fb ^= Fxdpo8nab_;
+
 break;
 default:
 

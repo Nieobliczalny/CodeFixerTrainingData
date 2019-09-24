@@ -49,7 +49,7 @@ int main(int argc, char** argv)
 	T8L_z	=	-240180415;
 
 
-	fSCy2	=	-1558559488;
+
 	mI32C6b	=	-1341194083;
 	cLfn_08P	=	1529391865;
 	aZL7K69_5	=	1273025875;
@@ -61,7 +61,7 @@ int main(int argc, char** argv)
 	F5zd	=	1768711513;
 	f9vA6s	=	1560307934;
 
-	JW21fP389	=	-869789760;
+
 	Nvay	=	1862910201;
 	ma6i1K5ch	=	-705218851;
 	HvsJTvJ	=	1533593976;

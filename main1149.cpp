@@ -66,7 +66,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-FO0x_uU = FO0x_uU * fo19rc;
+
 break;
 case 'c':
 case 'C':

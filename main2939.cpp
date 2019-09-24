@@ -99,7 +99,7 @@ Y1JuA--;
 switch (Yfyl)
 {
 case 'a':
-nEld8 <<= 341661852;
+
 break;
 case 'b':
 Yfyl = mGVj_8u7V % y9zsJ;
@@ -123,7 +123,7 @@ case 'h':
 
 break;
 case 'i':
-nEld8 = (int)abs(Yfyl);
+
 break;
 case 'j':
 
@@ -166,7 +166,7 @@ case 2:
 
 break;
 case 3:
-y9zsJ = Y1JuA << 1631835316;
+
 break;
 case 4:
 
@@ -178,7 +178,7 @@ case 6:
 
 break;
 case 7:
-nEld8 = X3x4DwEI0i >> 783147928;
+
 break;
 case 8:
 

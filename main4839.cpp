@@ -140,7 +140,7 @@ case 7:
 
 break;
 case 8:
-u9Cilx2Kd5 = (int)ceil(R8Zz9x);
+
 break;
 }
 {
@@ -255,7 +255,7 @@ case 2:
 
 break;
 case 3:
-G047ys = z5Hw1 / yp3625b;
+
 break;
 case 4:
 

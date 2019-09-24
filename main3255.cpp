@@ -52,7 +52,7 @@ int main(void)
  short int A8cn;
  A8cn = 324863112;
   unsigned short  Ml4e;
-  Ml4e  =  1935274893;
+
   unsigned short  c5h_5W;
   c5h_5W  =  0;
  unsigned short TFGLj5;

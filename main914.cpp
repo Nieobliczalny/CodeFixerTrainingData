@@ -35,7 +35,7 @@ int main() {
     int    S3f79rg4;
     S3f79rg4    =    0;
   unsigned int  I8I80;
-  I8I80  =  1162351555;
+
   unsigned short int  aHe4EBE1H2;
   aHe4EBE1H2  =  -2126709297;
   long double  cf2818fW_2;
@@ -194,7 +194,7 @@ else
 {
 if (PxF8ru_2I_ <= u30eAG48XR)
 {
-yz_Df3 = (int)floor(P_32);
+
 }
 else
 {
@@ -211,7 +211,7 @@ do
 j--;
 if ((mlgdAtV_ == EdqaS5jWD5) || (mlgdAtV_ != HNpatZWF8I))
 {
-u30eAG48XR = c8yoPsQ & L40wZzQ;
+
 }
 else if (Lq08__ == YOrzqGtND)
 {
@@ -227,7 +227,7 @@ P_32 = (int)ceil(ia8xxh30);
 }
 else
 {
-yz_Df3 = (int)floor(P_32);
+
 }
 }
 while (j >= 0);
@@ -260,7 +260,7 @@ case 7:
 
 break;
 default:
-Tn2W >>= 1140562456;
+
 break;
 }
 
@@ -285,7 +285,7 @@ case 5:
 
 break;
 case 6:
-rQS2p3bao = (int)floor(P_32);
+
 break;
 case 7:
 

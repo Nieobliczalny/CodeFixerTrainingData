@@ -63,7 +63,7 @@ int main(void) {
     short int    UkGHbi;
     UkGHbi    =    536875681;
 	unsigned long long	x27kfV;
-	x27kfV	=	-1384353891;
+
     unsigned long    x3ubc68Xy;
     x3ubc68Xy    =    -1508623146;
  unsigned char yfy0KA6;
@@ -174,7 +174,7 @@ case 6:
 iUb758 = (int)floor(vvXk);
 break;
 case 7:
-oF1S97QPIm = (IJ8kGRa == C0FFc) ? Zls2i7s53q : vvXk;
+
 break;
 case 8:
 iUb758 = (int)ceil(vvXk);
@@ -194,7 +194,7 @@ YnUrSK = (nDG09IV <= C0FFc) ? C0FFc : -1504495958;
 
 if (G9nR90Pn == 0)
 {
-	p1_z5l = 269178333 / G9nR90Pn;
+
 }
 for (int i = 0; i < 2; i++)
 {

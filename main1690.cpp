@@ -419,7 +419,7 @@ KdCz_l = u2wN7lN9(KdCz_l);
 }
 else if (DYeIP5578 < -1855084661)
 {
-Ws_0Iv3O42 = (int)floor(Yk61sY);
+
 }
 else if (N7kb < 1027926233)
 {

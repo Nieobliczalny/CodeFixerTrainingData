@@ -315,7 +315,7 @@ je_l = (long double)(Zk44uccb7 + (-281889791));
 }
 }
 }
-jDYAT = v_xj >> 1510457053;
+
 ke3A0p = (int)floor(Tf6xT);
 for (int i = 8; i >= 0; i--)
 {

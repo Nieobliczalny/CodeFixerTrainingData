@@ -186,7 +186,7 @@ std::cout << GQP_0U0(-324954279, eGC9_hSlE_) << GQP_0U0(X_peN1eM1r, eGC9_hSlE_) 
 
 if (((M7_S9S_9h & 2017786133) && (cxj474t7 != g50EGMeqxV)) || (zfHqY))
 {
-K3Q3pi = (int)ceil(rk2U33HC);
+
 }
 else
 {

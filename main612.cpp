@@ -26,7 +26,7 @@ int main(int argc, char** argv)
  kD_H3 = -550473468;
 
  aCN0 = -2062009996;
- j_R1K49 = 1283061624;
+
  bUODFB0I = 1908791250;
  N_6A23IA = -1730625321;
 
@@ -48,7 +48,7 @@ std::cout << lHi25QqL() << "y4EF5M4" << rRO215vxOg << lHi25QqL() << std::endl;
 }
 }
 }
-bUODFB0I = (int)floor(NnYXyen7s);
+
 if (rRO215vxOg > aCN0)
 {
 if (rRO215vxOg != Bao19_4Z7)
@@ -68,7 +68,7 @@ else
 }
 }
 
-e34Rl41 = (int)floor(w3Whq8_F);
+
 
 
 wq27qclvi_ = lHi25QqL();

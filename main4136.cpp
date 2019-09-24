@@ -607,7 +607,7 @@ case 2:
 
 break;
 case 3:
-gEr0 = (int)abs(D4ULZ);
+
 break;
 case 4:
 

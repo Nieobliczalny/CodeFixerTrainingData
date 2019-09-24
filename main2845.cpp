@@ -215,7 +215,7 @@ case 2:
 break;
 }
 
-u9F9TXcv = H6LE_(livs);
+
 {
 int i = 0;
 do
@@ -286,7 +286,7 @@ case 2:
 
 break;
 case 3:
-o1ab5Ev = oVctjKL * b768NEGK;
+
 break;
 case 4:
 
@@ -362,7 +362,7 @@ while (i >= 0)
 
 
 u351_nD7 = H6LE_(b768NEGK);
-F20IqEY = (int)ceil(DZBJ5);
+
 {
 int i = 10;
 while (i >= 0)

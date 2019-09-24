@@ -88,7 +88,7 @@ int main(int argc, char** argv) {
  long b4XIt60mW;
  b4XIt60mW = 796355453;
   unsigned char  nh9S2;
-  nh9S2  =  1787974521;
+
     int    h_p2ISC;
 
 	unsigned short int	pOUK4zQ6tP;
@@ -110,7 +110,7 @@ int main(int argc, char** argv) {
 	short	aRgV;
 	aRgV	=	-1250462470;
  unsigned long long aw0r8V10;
- aw0r8V10 = 1486967300;
+
 	float	U75_Ikt;
 
 	unsigned char	fta9Eb3;
@@ -166,7 +166,7 @@ int main(int argc, char** argv) {
     unsigned int    s_zBb2A1v;
     s_zBb2A1v    =    1142020538;
   short  rTV89c2b6I;
-  rTV89c2b6I  =  1991397295;
+
 	unsigned long long	CmXEeVzFo;
 	CmXEeVzFo	=	1310389413;
  unsigned long long PM_D_8s;
@@ -371,7 +371,7 @@ case 4:
 OBDJt = lUOK55 << 1850196943;
 break;
 case 5:
-CTrWpRbljw = h_SHzR(CTrWpRbljw, pOUK4zQ6tP, 1609917037, CmXEeVzFo, i4IgmL);
+
 break;
 default:
 
@@ -415,7 +415,7 @@ do
 {
 if (Byr6Bn != -1746592860)
 {
-klza48_ = (int)floor(U75_Ikt);
+
 }
 --j;
 }

@@ -86,7 +86,7 @@ int main(int argc, char** argv)
 
  Y2kIb3v9 = -188285943;
  NQs76wEj = 171026201;
- TcbaC0y13 = 1058593334;
+
  uGq8h = -1702385914;
  XjtF = -412475023;
  fxRmRL = -1179596841;
@@ -146,7 +146,7 @@ case 2:
 Okih1s = (int)abs(Zr5ww4Zx);
 break;
 case 3:
-U05ghS0dgj ^= XzaN;
+
 break;
 case 4:
 ho1Msf8_Z = Jj1GlI(1948684244, gQNT2QP_5t);
@@ -381,7 +381,7 @@ if (I6jAN == Kb14dmQ)
 {
 try
 {
-ho1Msf8_Z = Jj1GlI(M7_z3788Bp, a8BN1);
+
 }
 catch (int& errorCode)
 {
@@ -459,7 +459,7 @@ int k = 7;
 while (k >= 0)
 {
 k--;
-ho1Msf8_Z = Jj1GlI(HX119IWD70, a8BN1);
+
 }
 }
 }
@@ -492,7 +492,7 @@ case 2:
 
 break;
 case 3:
-LI3i = Um_deMe(-1991287113);
+
 break;
 case 4:
 

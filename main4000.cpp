@@ -181,7 +181,7 @@ case 5:
 
 break;
 case 6:
-XTSIF0 = wVyhmIA01E * 1207077954;
+
 break;
 default:
 X73d04o24 = AF1dmdTD << 1712215680;
@@ -235,7 +235,7 @@ m0ud3n43 = T39CV_384Z(m0ud3n43, Mjre3, Tn7_);
 while (i >= 0);
 }
 
-mWE_0 = (int)abs(tCEZsRM4);
+
 
 {
 int i = 8;
@@ -338,7 +338,7 @@ for (int i = 0; i < 2; ++i)
 {
 if (a_xBXZ59_ > YH4LYzZkl6)
 {
-j_eO550q = (unsigned short)(YH4LYzZkl6 + (-2021498027));
+
 }
 else if (ld4gK8 > oeZn)
 {
@@ -441,7 +441,7 @@ case 4:
 
 break;
 case 5:
-j2kaJtDUzP = YH4LYzZkl6 / 1714971552;
+
 break;
 case 6:
 

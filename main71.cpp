@@ -138,7 +138,7 @@ int main(void)
  short sRD21F;
 
  short int cr_U;
- cr_U = 967783975;
+
  char gak_7;
  gak_7 = 312885808;
  float yGg0O_7;
@@ -289,7 +289,7 @@ case 3:
 
 break;
 case 4:
-aFS1S52A2g = (int)abs(FKs1aLIr_) + (-2027039895);
+
 break;
 case 5:
 
@@ -341,7 +341,7 @@ xcU654K0j1 = (fypJRHpyff > vO8fU328qt) ? FL3Td_fN8 : h90zT7ct(-1958023433, M6siB
 
 
 
-VR19ko7hg = h90zT7ct(2087406366, ml6uJEZUaB);
+
 
 sRD21F = (int)abs(MO5Cc0Ix);
 

@@ -34,7 +34,7 @@ case 0:
 
 break;
 case 1:
-S3W_80eL |= 1956289406;
+
 break;
 case 2:
 BW9348pr = xQCj - 872378252;
@@ -46,7 +46,7 @@ case 4:
 
 break;
 case 5:
-ihGmurzXbO = (int)abs(ZZ1x4);
+
 break;
 case 6:
 vS0MgeVu2 |= 2145535434;
@@ -98,7 +98,7 @@ else
 {
 if (JNT9_PyU > -1619420508)
 {
-qcnqDT94Vl = yrB4R0O / 1972112528;
+
 }
 }
 }
@@ -108,7 +108,7 @@ qHzSOS918 *= 1361540815;
 
 jk25lpEH61 = xQCj | vS0MgeVu2;
 
-j8smBfp = (int)(oX577Zl);
+
 
 return 0;
 }

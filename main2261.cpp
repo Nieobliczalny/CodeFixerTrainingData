@@ -61,7 +61,7 @@ case 0:
 QZ7GL_W_ = Ky6e_8LY(670180345, -1290176755, 682589653, PCSgr1bYr0, ajJC);
 break;
 default:
-LXh_L = FvIQXQ(LXh_L, 1376676044, 1352496105);
+
 break;
 }
 }
@@ -102,7 +102,7 @@ case 'g':
 PCSgr1bYr0++;
 break;
 default:
-LXh_L = I9io4 / 1449201305;
+
 break;
 }
 }

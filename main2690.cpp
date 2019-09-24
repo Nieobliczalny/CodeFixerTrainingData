@@ -155,7 +155,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-KGApj6a = D37oa834O4();
+
 break;
 case 'e':
 case 'E':
@@ -265,7 +265,7 @@ k++;
 
 
 
-Eib2a9W_ += 453315607;
+
 m35V = D37oa834O4() * 549649796;
 KGApj6a = D37oa834O4();
 

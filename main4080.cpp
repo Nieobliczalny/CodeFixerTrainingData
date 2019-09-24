@@ -149,7 +149,7 @@ else if (YEyiXFEcdD & -151146963)
 }
 else if (AgSV < -1587853834)
 {
-gG9p173 = L_877(gG9p173);
+
 }
 else
 {
@@ -174,7 +174,7 @@ case 2:
 Udu_xU--;
 break;
 default:
-K69lZfY = (int)abs(ukGkt_H7);
+
 break;
 }
 

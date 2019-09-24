@@ -50,7 +50,7 @@ int main() {
     int    LcI_UGJ;
     LcI_UGJ    =    81745834;
  long double z2fMc9Ab;
- z2fMc9Ab = -1004294006;
+
   unsigned int  WNyM;
   WNyM  =  -771310552;
  long long vUhPLg3xl;
@@ -64,7 +64,7 @@ int main() {
   unsigned int  e60P;
 
 	short int	qPf4OoU_;
-	qPf4OoU_	=	-1196402399;
+
 	unsigned char	XA59KRn;
 	XA59KRn	=	0;
 	char	pw25mCd4Bw;
@@ -84,7 +84,7 @@ int main() {
   unsigned long long  kplHm;
   kplHm  =  -26486753;
  long double rlI3HYT_G;
- rlI3HYT_G = 1062920807;
+
  long double wHcz;
  wHcz = -1670648900;
   unsigned short  Z3so;
@@ -174,7 +174,7 @@ int main() {
   unsigned long  d9NlgV;
 
   unsigned char  tSZV5;
-  tSZV5  =  -48996799;
+
 	long long	b4MrKGk;
 
   long double  AOiDo;
@@ -265,7 +265,7 @@ j--;
 while (j >= 0);
 }
 }
-C99_J = HMd_ZKg_(838809990, Ie5__, 2054806132, 2010246992, -275223961);
+
 
 try
 {
@@ -292,7 +292,7 @@ case 3:
 
 break;
 case 4:
-mDXqc9Vky |= 489931835;
+
 break;
 }
 }
@@ -353,7 +353,7 @@ case 3:
 
 break;
 case 4:
-bc5L2As = z6bn(g5aaK2, 926547567, -727964327);
+
 break;
 case 5:
 g5aaK2 = (int)abs(Ie6H1te);

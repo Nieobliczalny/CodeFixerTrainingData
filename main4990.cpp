@@ -328,7 +328,7 @@ else if (u_dd5f0g1K >= v85Y2_)
 }
 else
 {
-rYcq9NaMth = (double)(j3Ci2qOg5);
+
 }
 }
 else

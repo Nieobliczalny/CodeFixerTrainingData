@@ -258,7 +258,7 @@ case 3:
 
 break;
 case 4:
-xMHo = UupM * 1607653286;
+
 break;
 case 5:
 A6jHnu7LkM = anmY7(pt3zIud6);
@@ -301,7 +301,7 @@ case 3:
 
 break;
 case 4:
-Z0L74x = (int)abs(UupM);
+
 break;
 case 5:
 M073 = (int)floor(I01Td);
@@ -352,7 +352,7 @@ case 2:
 
 break;
 case 3:
-G00Vk2 = (int)abs(S9Tx7pi);
+
 break;
 case 4:
 

@@ -94,7 +94,7 @@ int main(int argc, char** argv)
  gzrh6h = -831640742;
 
  r0qS8TD15Z = -1793016552;
- olAL9 = 431910080;
+
  iacFglfg9 = 951659852;
   short int  g3nh0,  N1T5o47L;
   g3nh0  =  0;
@@ -296,7 +296,7 @@ break;
 }
 
 std::cout << yx9Q << Qn86xt8JPM(1088770526, n_Dg5n4, -1161797408, z3cd) << Qn86xt8JPM(v_9L, n_Dg5n4, NKho8, z3cd) << "j7KgS82_h" << "i7B3HBROo1" << std::endl;
-RrOFV = -1218840365 / N1T5o47L;
+
 {
 int i = 7;
 do
@@ -333,7 +333,7 @@ N1T5o47L = Qn86xt8JPM(v_9L, r0qS8TD15Z, nsdj25, -464288419);
 while (i >= 0);
 }
 
-wOg9JH ^= N2s32_;
+
 
 switch (a63vh_)
 {
@@ -538,7 +538,7 @@ else if (HvRwgxbej > 955438306)
 switch (z3cd)
 {
 case 'a':
-wOg9JH = B3e_UL4Ep(909234388, 1529022568, z3cd, N2s32_);
+
 break;
 case 'b':
 
@@ -602,7 +602,7 @@ case 'c':
 
 break;
 case 'd':
-F6y5 %= gXGc;
+
 break;
 }
 switch (VVv07)

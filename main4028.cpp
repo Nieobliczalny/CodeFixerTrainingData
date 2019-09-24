@@ -305,7 +305,7 @@ else
 iHk_f93g8 = (int)ceil(ypmWd_de);
 }
 }
-X3TtT81W *= 120909329;
+
 
 if (Bg2y1 < m898)
 {
@@ -622,7 +622,7 @@ case 2:
 
 break;
 case 3:
-GXIwcV = GXOL24_Zf();
+
 break;
 case 4:
 
@@ -634,7 +634,7 @@ case 6:
 
 break;
 case 7:
-GXIwcV = GXOL24_Zf();
+
 break;
 default:
 

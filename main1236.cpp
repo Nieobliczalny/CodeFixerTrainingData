@@ -321,7 +321,7 @@ case 'c':
 
 break;
 default:
-fJiqN -= 875868556;
+
 break;
 }
 }

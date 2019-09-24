@@ -119,7 +119,7 @@ for (int i = 4; i >= 0; i--)
 {
 s8U2e = QZql(pLZG97WY5, c2ux, -1728495675);
 }
-Sdouy6I37 = (int)ceil(t8EB8gf);
+
 {
 int i = 6;
 do
@@ -162,7 +162,7 @@ case 'F':
 break;
 }
 
-B1eB8oMBQG = (int)abs(SVNk9q8T8T);
+
 {
 int i = 4;
 do
@@ -180,7 +180,7 @@ case 0:
 
 break;
 case 1:
-hsBREJRqm = (int)floor(A055C303);
+
 break;
 case 2:
 
@@ -234,7 +234,7 @@ case 'C':
 
 break;
 }
-u_eVQi = (int)abs(Kn6O_zA37o);
+
 
 
 

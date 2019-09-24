@@ -73,7 +73,7 @@ int main()
  rNg2jn7W = 1181155057;
  G996dgM = 64283620;
  o8wnH0mBlx = 385269542;
- f27u3wg = 1769200714;
+
  PVCAMIX1 = -1992213834;
  YUi4IhZ = 626407603;
  db7O = -206717495;
@@ -361,7 +361,7 @@ while (i < 6)
 ++i;
 for (int j = 0; j < 10; j++)
 {
-b6n94 = (PsjlY_6K == uK0UT) ? eu7fP7g0o5 : 656598516;
+
 }
 }
 }

@@ -418,7 +418,7 @@ while (i >= 0);
 
 if (CdZ6K0Iv == 0)
 {
-	Cd7jiwl = wcnU0k / CdZ6K0Iv;
+
 }
 v6o147514 = (int)abs(tkytH4I);
 
@@ -476,7 +476,7 @@ case 2:
 
 break;
 case 3:
-J75e86cR = (int)ceil(zq4Y1q);
+
 break;
 case 4:
 FE46o0 = s58gz6c(2129815587, fG79, 355129416, -1112930452);

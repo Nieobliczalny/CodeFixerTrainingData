@@ -164,7 +164,7 @@ if (b1j0EO6W78 & -1909052124)
 {
 if (nl1u4ypt2 > D_OQxm3L)
 {
-qvgaid_k = WpR6(-1365264821);
+
 }
 else
 {
@@ -284,7 +284,7 @@ case 'c':
 
 break;
 case 'd':
-dZhbl37p = WpR6(-713116063);
+
 break;
 default:
 G9f382--;

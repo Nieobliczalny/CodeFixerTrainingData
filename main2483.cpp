@@ -47,7 +47,7 @@ int main() {
 	float	DPt82CZ7;
 	DPt82CZ7	=	-1006130323;
   char  cdnt;
-  cdnt  =  1821618279;
+
  long long ngp_7FEq;
  ngp_7FEq = 710455628;
  unsigned long long N28wba_;
@@ -394,7 +394,7 @@ if ((PG325o != Xkyt2cgV46) || ((f5o10) && (biMTnpKqj < ycC0Uu)))
 {
 for (int j = 0; j < 10; ++j)
 {
-EmJ8b4n853 = (int)abs(W_FVIOJD6M);
+
 }
 }
 else
@@ -472,7 +472,7 @@ case 3:
 
 break;
 case 4:
-GgAHOb2YC = Zz2suu9(C_9CTQx, QrG8, Eu4d74BzbN);
+
 break;
 case 5:
 BP72aZEY >>= 571977803;

@@ -517,7 +517,7 @@ case 5:
 hphO48f66c = yR_6m_f39X(-1436428806);
 break;
 default:
-cx0oBM = (int)ceil(KY2KNj);
+
 break;
 }
 

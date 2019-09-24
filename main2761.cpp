@@ -45,7 +45,7 @@ int main(int argc, char** argv)
     Yg4v970_    =    -695687942;
     U66uQGu40l    =    -1010150594;
     Je37DrWr    =    -178502386;
-    WVVU    =    1289128435;
+
     lqd04    =    -1242314590;
 
 
@@ -57,7 +57,7 @@ int main(int argc, char** argv)
     RgT59    =    -1407356342;
     uKSFuF4S    =    -703205670;
     H5Lv    =    -258403986;
-    Xotk    =    -644530263;
+
     Hp21    =    -518332698;
 
     Jt7UeC_4f1    =    -1142132537;
@@ -283,7 +283,7 @@ case 'd':
 Pw8y16pDeO -= Pw8y16pDeO;
 break;
 case 'e':
-Y9Nso9g1 -= 1513162058;
+
 break;
 case 'f':
 
@@ -295,7 +295,7 @@ case 'h':
 
 break;
 case 'i':
-FFe73TzeP5 |= fcwyF_;
+
 break;
 case 'j':
 Yg4v970_--;
@@ -325,7 +325,7 @@ break;
 }
 else
 {
-Fysc1 = oVadbS(l22yF4Z9, Yg4v970_, 1501144536, -1700043257, n8nnlZo);
+
 }
 
 switch (Pw8y16pDeO)
@@ -340,7 +340,7 @@ case 'c':
 
 break;
 case 'd':
-CF2uh1_70 = (int)abs(lqd04);
+
 break;
 case 'e':
 
@@ -352,7 +352,7 @@ case 'g':
 
 break;
 case 'h':
-EmIx_nK2 = oVadbS(34853323, -1565627042, -2142239970, 1645833622, 1077873074) ^ 912581936;
+
 break;
 case 'i':
 

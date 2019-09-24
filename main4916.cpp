@@ -17,7 +17,7 @@ int main(void)
   double  b88TL8n;
 
   double  q_9vfV63;
-  q_9vfV63  =  799505406;
+
   double  wF8RbyV;
   wF8RbyV  =  -531840523;
     unsigned long long    QKK0ae;
@@ -27,7 +27,7 @@ int main(void)
   long  I1GoqQ5;
   I1GoqQ5  =  -2063443926;
     unsigned int    wEkSb3ZY;
-    wEkSb3ZY    =    -1439866651;
+
     int    Zh8_vip;
 
 	unsigned long long	s9rM;
@@ -69,7 +69,7 @@ int main(void)
 	unsigned long long	Nr48JAZbl;
 
  long f2DxA_Uj;
- f2DxA_Uj = -1794591568;
+
   long double  WWTho;
   WWTho  =  540266234;
 	unsigned short int	yV6Zb6YMJ;
@@ -83,7 +83,7 @@ int main(void)
 	short int	nGP1;
 
   unsigned short  Daec55la;
-  Daec55la  =  -178263388;
+
   long double  HNOX;
 
   int  CTZWJ_0b;
@@ -117,7 +117,7 @@ int main(void)
   unsigned char  e3EX6;
 
 	unsigned short int	eB9x2;
-	eB9x2	=	-157430322;
+
 
 std::cout << "B0j9_9" << Rc50 << Rc50 << F3GfgYyEwM << Xl418BBj_6 << std::endl;
 
@@ -162,7 +162,7 @@ switch (CTZWJ_0b)
 {
 case 'a':
 case 'A':
-e0i331 &= l_64D08;
+
 break;
 case 'b':
 case 'B':
@@ -225,7 +225,7 @@ DKDrLu6 *= QKK0ae;
 switch (DKDrLu6)
 {
 case 0:
-Zh8_vip = (int)abs(DKDrLu6);
+
 break;
 case 1:
 
@@ -237,7 +237,7 @@ case 3:
 
 break;
 case 4:
-ujI8ur_ = (int)abs(ZKObkH92);
+
 break;
 case 5:
 
@@ -249,7 +249,7 @@ case 7:
 
 break;
 case 8:
-EnH1_yO3 = jQdg1 % R_Af_M3;
+
 break;
 case 9:
 

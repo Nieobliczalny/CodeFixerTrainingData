@@ -120,7 +120,7 @@ case 3:
 
 break;
 default:
-n9513vYZ = (int)abs(eqs48);
+
 break;
 }
 }

@@ -36,7 +36,7 @@ int main()
  float F00d;
  F00d = 870806264;
  unsigned short int F_3F4;
- F_3F4 = -2131954841;
+
     int    O4ci7z4S3E;
     O4ci7z4S3E    =    678390413;
  unsigned long Kf1v2Iv4;
@@ -430,7 +430,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-jZDP = (int)ceil(I9v56);
+
 break;
 case 'e':
 case 'E':

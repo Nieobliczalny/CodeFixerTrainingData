@@ -34,7 +34,7 @@ int main()
   float  JxnE5t74OI;
   JxnE5t74OI  =  1679898982;
     float    nh27;
-    nh27    =    -1523085047;
+
   unsigned char  x7wRG;
 
  unsigned int l1j65;
@@ -180,7 +180,7 @@ case 4:
 L0PH7b9_G = (int)floor(MzUf);
 break;
 case 5:
-nh27 = (int)floor(L0PH7b9_G);
+
 break;
 case 6:
 gc3JB = x5_RM1I + 409700788;
@@ -215,7 +215,7 @@ case 'e':
 epUc1 ^= DfF4e;
 break;
 case 'f':
-nh27 = C_xW0vyx * 285016789;
+
 break;
 case 'g':
 WGY11mLYsE = (int)floor(lE1Rb3q_);

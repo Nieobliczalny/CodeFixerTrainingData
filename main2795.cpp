@@ -222,7 +222,7 @@ case 5:
 
 break;
 case 6:
-GOH7e9i_x2 = h4i1 - IcG9J8_;
+
 break;
 case 7:
 

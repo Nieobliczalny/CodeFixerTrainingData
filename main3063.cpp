@@ -444,7 +444,7 @@ while (i < 5);
 
 if (khK6K > Pmlz5J8)
 {
-zE79rm6_k = (int)abs(M_nC);
+
 }
 else
 {

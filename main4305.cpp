@@ -158,7 +158,7 @@ i--;
 
 std::cout << mers5euY / hN_LN8v(-1086192633, xsxY, BQ7qI5, AgjH0bdf) << std::endl;
 
-AgjH0bdf = (unsigned int)(tKUnty0n + (1870634260));
+
 LqVSZn = f8P_6m(564123711, -772641563, buFt, 1551814285);
 
 if (buFt >= -1378870670)
@@ -194,7 +194,7 @@ case 5:
 
 break;
 case 6:
-BQ7qI5 = (int)abs(ICH6dOYUT);
+
 break;
 case 7:
 

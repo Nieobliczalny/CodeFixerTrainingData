@@ -362,7 +362,7 @@ pq2ExQTtb7 = (int)floor(M_BOY);
 
 if (LDt8EO56C4(-2057995049, -1627529380) == 0)
 {
-	Kry7MUv39g = 360447190 / LDt8EO56C4(-2057995049, -1627529380);
+
 }
 
 {
@@ -432,7 +432,7 @@ case 'c':
 
 break;
 case 'd':
-jLoOUET ^= qLb0h_5;
+
 break;
 case 'e':
 

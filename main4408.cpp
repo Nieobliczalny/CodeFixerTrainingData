@@ -57,7 +57,7 @@ case 2:
 
 break;
 case 3:
-TFL2Obyf += sJy81;
+
 break;
 case 4:
 

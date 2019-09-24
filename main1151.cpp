@@ -164,7 +164,7 @@ int main(void) {
   unsigned short int  GTRQlqj;
 
 	short	dUMc;
-	dUMc	=	2005971373;
+
   unsigned long long  nMfSsNf3g;
   nMfSsNf3g  =  1126346848;
   long  IzqP;
@@ -567,7 +567,7 @@ bB49t6VVG = G27bHI(qND6);
 break;
 case 'h':
 case 'H':
-tqW746A = (int)floor(Gp6EgM);
+
 break;
 case 'i':
 case 'I':
@@ -658,7 +658,7 @@ case 'c':
 
 break;
 case 'd':
-bB49t6VVG = G27bHI(zB9_1);
+
 break;
 case 'e':
 

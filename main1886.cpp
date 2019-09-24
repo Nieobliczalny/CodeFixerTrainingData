@@ -25,7 +25,7 @@ int main(void) {
 
 X_MlwCf9 = (double)(r4A_jL9fu);
 OV45jfvx0r = AX8TXf0ON9(OV45jfvx0r, -928656561, 133546580);
-j_gpQ85 = (double)(Shw39g3R);
+
 for (int i = 0; i < 3; i++)
 {
 std::cout << DHOp << AX8TXf0ON9(OV45jfvx0r, V19Scg_ud2, 1849390913) << WZ53E << bU8iIrnw << "h7qsW" << std::endl;
@@ -37,7 +37,7 @@ uklq = (double)(uF01ut9k4);
 }
 
 
-ftB596o = Hu28ZAEjX();
+
 
 try
 {
@@ -47,7 +47,7 @@ catch (int& errorCode)
 {
 fRZ0GHPH = (int)floor(DcM94lvd);
 }
-c5jv90B = gU1_TdV / Tb2nK(-583835197, -1370820670, d3v0RF8Gy, AU467D, -182041653);
+
 if (e__i & ZaEiMCB7rt)
 {
 switch (ZaEiMCB7rt)
@@ -59,7 +59,7 @@ case 'b':
 
 break;
 case 'c':
-EL2Kou3D51 = b44uF();
+
 break;
 case 'd':
 q_nNsP5Ht = b44uF();
@@ -71,7 +71,7 @@ case 'f':
 
 break;
 case 'g':
-EL2Kou3D51 = (int)floor(vdvr2b);
+
 break;
 default:
 d3v0RF8Gy = b44uF();
@@ -127,7 +127,7 @@ if (e__i & -579638223)
 
 }
 }
-MVMA *= 1194372724;
+
 std::cout << ZaEiMCB7rt << b44uF() << "DIwSRCC" << PkGx_ << "KS2uu92" << std::endl;
 
 for (int i = 0; i < 8; ++i)

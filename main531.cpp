@@ -353,7 +353,7 @@ if (Iu9N != -1132132960)
 }
 else if (XXVTi1v_3N < D5344aJh)
 {
-vQN0 = (int)floor(mJAef9y);
+
 }
 else if (uziF <= -2024313766)
 {

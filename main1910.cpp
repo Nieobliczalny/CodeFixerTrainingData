@@ -207,7 +207,7 @@ if (vJbZlh3U_m != DF1p98w)
 }
 else if (((WnZ4 & 1175695165) || (SEQNt)) && (BgG433z))
 {
-yi1_W &= nczR1E_D;
+
 }
 else if (WvCye67j < -996183829)
 {
@@ -479,7 +479,7 @@ case 'f':
 
 break;
 case 'g':
-jI8Djf |= foXn;
+
 break;
 case 'h':
 

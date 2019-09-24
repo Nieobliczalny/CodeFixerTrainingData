@@ -121,7 +121,7 @@ std::cout << b5pnJ(1352489158, 888275061) << "Yw6hJ" << TL0UC50gc << "WeB61_811l
 }
 else if (aoXnS)
 {
-Em2I5 *= 1649192704;
+
 }
 else if ((l_5TO5hdR >= 1729186752) || (pu04nez8N))
 {
@@ -424,7 +424,7 @@ case 'c':
 
 break;
 case 'd':
-qOB30j96 = b5pnJ(1977192750, IRE_waP);
+
 break;
 case 'e':
 nxpf_7tZr = GEcCT03_MY(nxpf_7tZr, 388141621, -1768960745, -36082352);

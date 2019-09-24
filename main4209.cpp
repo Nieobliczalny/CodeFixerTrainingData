@@ -37,7 +37,7 @@ int main()
   unsigned long  TyU5NfDfRa;
   TyU5NfDfRa  =  795378447;
     int    qihWhTu0P3;
-    qihWhTu0P3    =    -185822546;
+
     unsigned short    NSya;
     NSya    =    219997254;
   long double  LdKLqqylAc;
@@ -190,7 +190,7 @@ dwE56Db71 ^= HHtzJ17N3;
 break;
 case 'b':
 case 'B':
-lf8sH = (int)abs(FA11jJ);
+
 break;
 case 'c':
 case 'C':
@@ -396,7 +396,7 @@ case 3:
 
 break;
 default:
-mn0ipX4U *= 1242431990;
+
 break;
 }
 }
@@ -414,7 +414,7 @@ case 'c':
 
 break;
 case 'd':
-hwOta9 = (int)floor(LdKLqqylAc);
+
 break;
 }
 }

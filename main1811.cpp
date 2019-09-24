@@ -32,7 +32,7 @@ int main(int argc, char** argv) {
     short    lpl5;
     lpl5    =    -994920498;
   long double  M4cV3;
-  M4cV3  =  -1551121936;
+
     unsigned short int    DfRc8nlo00;
 
  short rZljnj1M;
@@ -282,7 +282,7 @@ switch (E1x77a9)
 {
 case 'a':
 case 'A':
-BYocq_3 /= 2101533129;
+
 break;
 case 'b':
 case 'B':
@@ -623,7 +623,7 @@ case 4:
 
 break;
 case 5:
-NM48cj = (int)floor(TYTR67);
+
 break;
 case 6:
 WYeX8pG5_ = Q6Q_qX3ub ^ 1336289886;

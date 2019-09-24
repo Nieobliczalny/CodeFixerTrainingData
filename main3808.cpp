@@ -349,7 +349,7 @@ case 'f':
 
 break;
 case 'g':
-G_mfdwJ99H = (int)floor(O_59Hy5);
+
 break;
 }
 }

@@ -406,7 +406,7 @@ case 2:
 
 break;
 case 3:
-hmbV5FQ <<= FGc_3;
+
 break;
 case 4:
 

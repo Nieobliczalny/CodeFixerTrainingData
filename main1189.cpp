@@ -204,7 +204,7 @@ pg79nCYz = (int)ceil(JqB13133_);
 }
 }
 
-P146dW1_ZX = (unsigned char)(dI7yPf);
+
 
 if (c1TLxM0 == Tc_EP)
 {
@@ -730,7 +730,7 @@ oa9ixY1479 = zZ0s2zI();
 }
 else
 {
-Qrgt = RjISz_1C ^ y8laqeP;
+
 }
 }
 else

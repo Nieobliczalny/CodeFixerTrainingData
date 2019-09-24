@@ -45,7 +45,7 @@ int main()
  unsigned long long r2fD;
 
 	float	BV3x;
-	BV3x	=	455809154;
+
     double    YKm78_L9R;
     YKm78_L9R    =    -754321310;
 	short	Ts7Oet2;
@@ -67,7 +67,7 @@ int main()
 	unsigned char	Oo6Y_A;
 
 	unsigned long long	tFmC;
-	tFmC	=	1378503976;
+
     short    m95p6x7WRE;
     m95p6x7WRE    =    -431063807;
   double  O7wuUN7yo;
@@ -91,7 +91,7 @@ int main()
 	unsigned short	W3ZiF;
 
     int    J_s_P;
-    J_s_P    =    2091436806;
+
 	short int	L_OD;
 	L_OD	=	-741559505;
  short j2ORjv_K;

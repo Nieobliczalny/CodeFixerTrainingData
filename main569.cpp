@@ -481,7 +481,7 @@ case 1:
 P34Hmvey36 = Ntp7kC - Fn3a;
 break;
 case 2:
-kO1H34Oc = (int)abs(XLkDN_Fx);
+
 break;
 case 3:
 X_Sjei = (int)ceil(Xo9fGg12h);
@@ -514,7 +514,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-P34Hmvey36 = M5AWo(P34Hmvey36, GnsNtJA);
+
 break;
 case 'c':
 case 'C':
@@ -603,7 +603,7 @@ case 5:
 U6Gf = Efm1U >> YnOrev;
 break;
 case 6:
-GnsNtJA = M5AWo(GnsNtJA, -1784981840);
+
 break;
 case 7:
 
@@ -670,7 +670,7 @@ do
 ++j;
 try
 {
-QgF1_w14g = (int)floor(X_Sjei);
+
 }
 catch (int& errorCode)
 {

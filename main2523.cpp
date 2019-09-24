@@ -108,7 +108,7 @@ int main(int argc, char** argv)
 	double	i60B;
 	i60B	=	-1899109133;
   short  bEcM_d;
-  bEcM_d  =  -1229391093;
+
 	short	gK5XnlQ1_1;
 
 
@@ -184,7 +184,7 @@ while (j < 3);
 }
 else if ((BsOmZ7 > A88js) && (nO8pK_Jes < W3ejCIR))
 {
-bEcM_d = (short)(AWc_gp);
+
 }
 else
 {
@@ -252,7 +252,7 @@ case 2:
 
 break;
 default:
-BzmHO9pt = nO8pK_Jes << 1520596676;
+
 break;
 }
 }

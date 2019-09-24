@@ -135,7 +135,7 @@ int main(int argc, char** argv)
     short int    SD2sMKfY    =    -1557141333;
     double    eT3CJ00_56    =    -2128152576;
 
-r3G8Mguq0 = I4T6w86s + iQH_u;
+
 
 if (dJR6aUsn == K7x7b5)
 {
@@ -151,7 +151,7 @@ while (j < 8);
 }
 else
 {
-C7ee_UP = Xawl06f(1060469991);
+
 }
 switch (S9luuoeR)
 {
@@ -317,7 +317,7 @@ case 2:
 
 break;
 case 3:
-eT3CJ00_56 = (int)ceil(PSQ3C);
+
 break;
 case 4:
 
@@ -355,7 +355,7 @@ case 5:
 
 break;
 case 6:
-eDlOX6SQDk = XX39H3aSul(puIXXOtIN_, -1017264163, 2062005292) + 114546427;
+
 break;
 case 7:
 

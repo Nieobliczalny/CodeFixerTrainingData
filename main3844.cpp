@@ -538,7 +538,7 @@ while (i < 10)
 i++;
 if ((iH8W_SKPM <= g__8D2New) || (S_jjDL6YuR >= g__8D2New))
 {
-sm_085 = ztp_mM8nje ^ XqLf;
+
 }
 }
 }

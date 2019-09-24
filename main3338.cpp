@@ -396,7 +396,7 @@ case 5:
 
 break;
 case 6:
-b5g6z0r = (int)abs(H5128TE66);
+
 break;
 case 7:
 
@@ -581,7 +581,7 @@ case 'c':
 
 break;
 case 'd':
-FA_Y = AJF0Jzh4Lm(2027770738, GQ2Z_6t, Sr3S, -69886250, Z735D54iI1);
+
 break;
 case 'e':
 

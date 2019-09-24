@@ -107,7 +107,7 @@ case 2:
 i_LHqqV1 = b6L3rdo * 2022565996;
 break;
 default:
-NX4jw_QR_3 = wNS_ | v3199Q;
+
 break;
 }
 }
@@ -276,7 +276,7 @@ for (int j = 0; j < 6; j++)
 v2VL_2_3y -= 1262915455;
 }
 }
-Jg6nyrPNUk <<= VpNG57zV;
+
 
 if (vG_M43R90)
 {
@@ -389,7 +389,7 @@ case 2:
 
 break;
 case 3:
-Ztbwg |= o86D8W7;
+
 break;
 case 4:
 
@@ -401,7 +401,7 @@ case 6:
 
 break;
 case 7:
-gaD0bZaM5x = (Rpea97Lut < DC_k) ? FFI_tOmU4n : VpNG57zV;
+
 break;
 case 8:
 

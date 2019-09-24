@@ -579,7 +579,7 @@ case 'c':
 
 break;
 case 'd':
-x570V33 >>= caDK53;
+
 break;
 }
 

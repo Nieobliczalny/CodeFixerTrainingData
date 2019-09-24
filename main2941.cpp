@@ -580,7 +580,7 @@ try
 {
 try
 {
-Cf91K = (Hc3_qM9OB != W5QX8Xoz) ? tjbf2J1 : U_AT8N;
+
 }
 catch (int& errorCode)
 {
@@ -683,7 +683,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-pbzd8tub2H = kZ94U_Y2N / O_44N23;
+
 break;
 default:
 e3Skr7a = JhDe7CAs0M();

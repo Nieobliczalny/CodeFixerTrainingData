@@ -67,7 +67,7 @@ int main()
   float  t8323gG_L;
   t8323gG_L  =  -1899630018;
 	long double	priz;
-	priz	=	-1428892958;
+
     int    UR95Y;
     UR95Y    =    2107859209;
     unsigned short    E1Gy;
@@ -180,7 +180,7 @@ int k = 0;
 do
 {
 ++k;
-priz = (int)abs(v5Dne) + (1993619498);
+
 }
 while (k < 7);
 }
@@ -329,7 +329,7 @@ case 3:
 
 break;
 case 4:
-g0ih >>= E1Gy;
+
 break;
 case 5:
 

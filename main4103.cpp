@@ -411,7 +411,7 @@ int i = 0;
 do
 {
 i++;
-H53_ = I0uuw0C6 ^ Xh5j0g;
+
 }
 while (i < 10);
 }

@@ -237,7 +237,7 @@ break;
 int i = 10;
 do
 {
-q0m6ywg8 = (int)ceil(UE43_);
+
 --i;
 }
 while (i >= 0);
@@ -394,7 +394,7 @@ else
 int j = 2;
 do
 {
-q0m6ywg8 = (int)floor(Ku1H);
+
 --j;
 }
 while (j >= 0);
@@ -443,7 +443,7 @@ case 4:
 
 break;
 case 5:
-q0m6ywg8 = qgf1r2pTt | eYDJkc;
+
 break;
 case 6:
 Q7_a = M1N7p(2139768761, -255379665, -1936972776, 615250089, 1716676760);

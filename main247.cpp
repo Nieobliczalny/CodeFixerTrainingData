@@ -87,7 +87,7 @@ int main(void)
 	float	xJSS1J2oZ;
 	xJSS1J2oZ	=	-1569806395;
  unsigned long long CPG_Qb9;
- CPG_Qb9 = -514609991;
+
     short    mmc0CKLE;
 
 	unsigned short	JsUw;
@@ -127,7 +127,7 @@ int main(void)
   long long  i_yDvaHt;
   i_yDvaHt  =  782195267;
 	int	Fv8i;
-	Fv8i	=	0;
+
  char SeIMw;
  SeIMw = 1612604156;
   char  Kf_2dRI8A;
@@ -197,7 +197,7 @@ case 'd':
 JsUw++;
 break;
 case 'e':
-nc5m79 = ZKqR1m + 616795365;
+
 break;
 case 'f':
 
@@ -248,7 +248,7 @@ case 'b':
 
 break;
 case 'c':
-y4w69bGmz = Y7pRfFK4T();
+
 break;
 case 'd':
 APywUR7 = Y7pRfFK4T();
@@ -337,7 +337,7 @@ case 3:
 
 break;
 case 4:
-BNi0i = (int)ceil(p_n_xrz);
+
 break;
 case 5:
 
@@ -362,7 +362,7 @@ for (int j = 0; j < 5; j++)
 {
 for (int k = 2; k >= 0; --k)
 {
-p_n_xrz = (int)ceil(xJSS1J2oZ);
+
 }
 }
 }

@@ -51,7 +51,7 @@ int main(int argc, char** argv)
     unsigned short    i8UyF;
     i8UyF    =    644416020;
     long double    w8Cb;
-    w8Cb    =    -1016906630;
+
 	unsigned char	mrU79oN4;
 
  unsigned int u9E_56;
@@ -93,7 +93,7 @@ int main(int argc, char** argv)
   short  glj56;
 
  long double L1K99l9Np;
- L1K99l9Np = -172509695;
+
 	long double	T47F5q7;
 	T47F5q7	=	1361278512;
 	short int	Ncd2Xpgb;
@@ -143,7 +143,7 @@ else
 {
 if ((ki7mJMJ > 1513172023) || (SzVE4 > NLqQ8TN43))
 {
-xRNNuA_ = (int)abs(eB4plX);
+
 }
 }
 }
@@ -183,7 +183,7 @@ j6hUGJ -= ki7mJMJ;
 }
 else if (JrFzGEog_O & fJ4lTY76c)
 {
-SzVE4 = (int)abs(O54Zb0gHSu);
+
 }
 else
 {

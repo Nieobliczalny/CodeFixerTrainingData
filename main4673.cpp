@@ -62,7 +62,7 @@ int main(void)
     Lmcr3    =    979300104;
     VlUxmqVTq4    =    439202174;
     nXQzO    =    -627552384;
-    D5ohx88Yf    =    431991354;
+
     ySklva8    =    -1680052167;
     vEdI    =    -648500199;
 
@@ -133,7 +133,7 @@ if (vEdI >= -1467608087)
 {
 if (((r2_IBo >= RfK70WPTt) && (ZVnk91HdK5 & JkAChf)) || (oH1V13))
 {
-RhxGe %= 2056151403;
+
 }
 }
 }

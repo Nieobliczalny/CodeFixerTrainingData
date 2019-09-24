@@ -109,7 +109,7 @@ int main(int argc, char** argv)
 	double	jb_fBStT;
 
 	char	bn5i2Ugm;
-	bn5i2Ugm	=	316551912;
+
 	char	c_4cUZmJ;
 	c_4cUZmJ	=	-1253149375;
   long long  ff374OKq6;

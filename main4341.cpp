@@ -49,7 +49,7 @@ int main(int argc, char** argv)
   int  tS_0rEn;
 
   short int  EwbOJ2k;
-  EwbOJ2k  =  -698418298;
+
 	float	mv2pNLx517;
 	mv2pNLx517	=	1960243357;
   unsigned char  n38ZYLg;
@@ -69,7 +69,7 @@ int main(int argc, char** argv)
   short int  QacF;
   QacF  =  -376958909;
   int  adMqS4;
-  adMqS4  =  -483106529;
+
     unsigned short int    a_R7__x__;
 
 	float	u9kA;
@@ -111,7 +111,7 @@ int main(int argc, char** argv)
  short gY_aYDhB;
 
 	short	IJP3uZp6d;
-	IJP3uZp6d	=	-2121131527;
+
   unsigned long long  W90a2p;
   W90a2p  =  -170034386;
 	short	j92ga709pE;
@@ -123,7 +123,7 @@ int main(int argc, char** argv)
 	unsigned short int	tO_3F0Nz;
 
     long    PA6DC6_XYU;
-    PA6DC6_XYU    =    1982709706;
+
  float TMW9zFmx;
 
 	unsigned int	Zs_B15r1;
@@ -153,7 +153,7 @@ int main(int argc, char** argv)
 	short int	ILdH24;
 
     int    Aeb462;
-    Aeb462    =    787478662;
+
  long long i838;
  i838 = 875314367;
     unsigned short int    f3ID4bL8e;
@@ -169,7 +169,7 @@ int main(int argc, char** argv)
   int  RvQS;
 
  char JuCpqABz;
- JuCpqABz = -51604171;
+
   int  EwuFL54;
   EwuFL54  =  -1496666340;
  unsigned short int bA54e2m;
@@ -179,7 +179,7 @@ int main(int argc, char** argv)
  unsigned char ru_Z7_;
  ru_Z7_ = -340713714;
 	unsigned char	QNt_P0;
-	QNt_P0	=	-437689548;
+
 	long double	FPlC8O_;
 
 	double	IMya2_03;
@@ -208,7 +208,7 @@ if (sd3eV1 < 1736003744)
 
 try
 {
-sd3eV1 = f3h18bF1v();
+
 }
 catch (int& errorCode)
 {
@@ -296,7 +296,7 @@ break;
 
 
 
-W_TgQ14k1j = (int)(f3ID4bL8e);
+
 
 A7i8aPS8V = (int)floor(IMya2_03);
 

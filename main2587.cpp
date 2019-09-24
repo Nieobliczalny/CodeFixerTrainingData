@@ -126,7 +126,7 @@ else if (Ph0029Cc == -1001882765)
 {
 if (CD36 == 680577625)
 {
-s2f4jz_4S = (int)abs(K1r0wk5M6) + (-236532184);
+
 }
 else if (J9WsMi0mwX != pvupSt)
 {
@@ -199,7 +199,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-s2f4jz_4S = mWnEmdk ^ FbHO_K;
+
 break;
 }
 }

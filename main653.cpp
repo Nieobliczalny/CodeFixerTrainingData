@@ -104,7 +104,7 @@ int main() {
 	unsigned int	U1gW;
 	U1gW	=	924483325;
   unsigned short int  oV_A93C_9;
-  oV_A93C_9  =  -904664788;
+
 	int	zA08xxVyn;
 
     long    mTggr1;
@@ -146,7 +146,7 @@ int main() {
 	long long	Z82j;
 
 	long double	eTc91yH_;
-	eTc91yH_	=	1502821278;
+
     int    NAM6k7;
     NAM6k7    =    581777496;
     unsigned int    t9AaV5F;
@@ -186,7 +186,7 @@ int main() {
 	float	Z_14O7;
 	Z_14O7	=	851732098;
 	unsigned int	sybAIVERk_;
-	sybAIVERk_	=	-1631281834;
+
 	unsigned short	E8mRZ8y2;
 	E8mRZ8y2	=	-481792611;
 
@@ -433,7 +433,7 @@ Q74_xIDJb = (int)floor(cgI3BKI);
 break;
 }
 
-A5_p = O3RD(11819406, n62Jv);
+
 std::cout << J6v82kYd4(aa5tA) << "Z74k9jqP" << std::endl;
 
 {

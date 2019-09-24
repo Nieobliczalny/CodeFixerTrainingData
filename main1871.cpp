@@ -43,7 +43,7 @@ int main(int argc, char** argv) {
  short int ro2_6l5Y46;
 
   char  CRGq;
-  CRGq  =  434027562;
+
   unsigned long long  D1q78Xt4F;
   D1q78Xt4F  =  830488763;
   float  pY98;
@@ -65,7 +65,7 @@ int main(int argc, char** argv) {
 	unsigned short	oeqz4;
 	oeqz4	=	64517656;
 	float	wmAsV93;
-	wmAsV93	=	-786878256;
+
     long    l_Lxva;
 
  unsigned char W7nig0vTH;
@@ -85,7 +85,7 @@ int main(int argc, char** argv) {
   short  wDDE;
 
 	unsigned long	e99JOt38;
-	e99JOt38	=	1713235925;
+
     long    ns9UI;
     ns9UI    =    -1067211686;
 	char	U75iboDK;
@@ -95,7 +95,7 @@ int main(int argc, char** argv) {
     int    NPl7f1g_;
 
  unsigned short Hn0QdF;
- Hn0QdF = 1890100725;
+
  unsigned long long Xckf;
  Xckf = -1386998791;
     short int    dyDLn;
@@ -147,7 +147,7 @@ int main(int argc, char** argv) {
  unsigned short lZa3_FdX;
  lZa3_FdX = 1448433386;
 	double	H68Xh;
-	H68Xh	=	1882249081;
+
  long double PRvwKC8_n;
  PRvwKC8_n = -15315201;
 	unsigned int	B2_Y5_3x0;
@@ -171,7 +171,7 @@ int main(int argc, char** argv) {
  float fUNJmDvr4;
 
   double  vOPi2Qm;
-  vOPi2Qm  =  423589040;
+
 	short int	wtc63P9b;
 
 	unsigned long	afl9R9ok;
@@ -181,7 +181,7 @@ int main(int argc, char** argv) {
     unsigned char    s9Bw473;
 
     long double    nOek9;
-    nOek9    =    1323051207;
+
   short  EQ8Hht;
 
 	unsigned long long	xO4827t;
@@ -191,7 +191,7 @@ int main(int argc, char** argv) {
 	short int	VFBY9J2;
 
   unsigned short  sm696p1;
-  sm696p1  =  259683487;
+
   unsigned short  U4m6t0;
   U4m6t0  =  1927516144;
   long long  iCg17v;
@@ -201,7 +201,7 @@ int main(int argc, char** argv) {
   unsigned char  tFm483m;
 
 	unsigned long long	VtcwcM7Gr;
-	VtcwcM7Gr	=	-2088431412;
+
  long long u84J04T5;
  u84J04T5 = -1553893407;
     long long    A059S;
@@ -223,7 +223,7 @@ Ba_G = (long)(bHe2043Sp);
 
 if (((YygYS89O <= 590422920) || (A08OdVBG8 >= -1289453211)) && (FqA5 >= KzFT2m))
 {
-F3tdWL449 = Ba_G | 1018337494;
+
 }
 else if ((Y6P2nMR & X416pB02DP) || (F3tdWL449 <= 1690270030))
 {
@@ -233,7 +233,7 @@ if ((nBo0 == YHf4s8VbR) && ((x490A2 >= -1918492454) && (c1SO > -709234181)))
 int k = 0;
 while (k < 4)
 {
-PRvwKC8_n = (int)ceil(FcTBw);
+
 ++k;
 }
 }
@@ -371,7 +371,7 @@ case 'i':
 
 break;
 case 'j':
-gjfy4 |= V866e1;
+
 break;
 }
 

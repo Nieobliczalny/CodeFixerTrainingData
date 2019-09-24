@@ -500,7 +500,7 @@ case 'd':
 
 break;
 default:
-GO17A1 >>= rG1D31a_;
+
 break;
 }
 

@@ -63,7 +63,7 @@ case 4:
 TLW2GKj4 = Iqefa_(Q82fMuI2, -1226224326, ooo_, zy79mlWct) / RvYAc;
 break;
 case 5:
-UFU6i94 -= 1177896561;
+
 break;
 default:
 
@@ -275,7 +275,7 @@ case 'd':
 
 break;
 case 'e':
-zcde9T31 = wi3vKt(833336740, RXPe10Z, Gq3h5qk69U, 1888682778, oOmZ2gt7Pw);
+
 break;
 default:
 WKH9Ot9 += Q82fMuI2;

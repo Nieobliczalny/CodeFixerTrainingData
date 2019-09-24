@@ -67,7 +67,7 @@ int main(void)
  unsigned short int sp07h7Nzi;
  sp07h7Nzi = 1570973529;
   short int  QTk6;
-  QTk6  =  0;
+
 	short int	O9g_KGej9;
 	O9g_KGej9	=	0;
  unsigned short p3lhzi56AA;

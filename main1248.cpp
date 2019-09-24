@@ -128,7 +128,7 @@ do
 j--;
 if ((nZg5D8WI_U > -620584403) && ((rvc2xzCbi < -1255476156) && (p_dwfc52 != IsB65gia)))
 {
-ufA97C = d85zReNto();
+
 }
 else if (Nj_G1 > gKT1Bbl)
 {
@@ -171,7 +171,7 @@ case 'b':
 hrN6G5t = n5jQpsYs(-1651597290, Tdqz8X_);
 break;
 case 'c':
-f5T0x_L9 = (int)ceil(L3bX5c);
+
 break;
 default:
 
@@ -268,7 +268,7 @@ case 4:
 
 break;
 case 5:
-D5r6xiX = t605IS272 * hrN6G5t;
+
 break;
 case 6:
 MgSk2Qny52 = d85zReNto();
@@ -472,7 +472,7 @@ case 2:
 
 break;
 case 3:
-QgL93s = npxew(QgL93s, 1929256682, ysnjA, oS8mh, 1307583106);
+
 break;
 case 4:
 

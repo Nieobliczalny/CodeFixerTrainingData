@@ -236,7 +236,7 @@ else
 switch (TWx63)
 {
 case 0:
-Z_9Sm = (int)floor(t0gWi);
+
 break;
 case 1:
 Ti2420Ir = e5g6Ytx | q7Py5;
@@ -251,7 +251,7 @@ case 4:
 
 break;
 case 5:
-arnXTLE %= T4cF;
+
 break;
 default:
 ZP79ZR = (int)floor(lY8hwc0r);
@@ -382,7 +382,7 @@ case 4:
 Z00RU = hVZ3Y(Z00RU);
 break;
 case 5:
-Q9p37 = ZF85M7xkeB & 1146667277;
+
 break;
 case 6:
 ZP79ZR = (int)floor(G8RZOcrWo);
@@ -404,7 +404,7 @@ else
 
 }
 }
-m2_5h = yQ00oZ();
+
 
 if (Z00RU)
 {
@@ -436,7 +436,7 @@ case 'c':
 
 break;
 case 'd':
-t0gWi = (int)ceil(lY8hwc0r);
+
 break;
 case 'e':
 
@@ -448,7 +448,7 @@ case 'g':
 
 break;
 case 'h':
-ME88_68L = yQ00oZ();
+
 break;
 }
 }
@@ -473,7 +473,7 @@ case 'D':
 
 break;
 default:
-Z00RU = Sb198g + R903ie__7;
+
 break;
 }
 }

@@ -452,7 +452,7 @@ case 1:
 
 break;
 case 2:
-Ew7cVa7 = (int)floor(PCw0y2g);
+
 break;
 case 3:
 

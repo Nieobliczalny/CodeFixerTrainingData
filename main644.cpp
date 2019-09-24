@@ -97,7 +97,7 @@ int main(int argc, char** argv)
 	unsigned char	mAw4i;
 	mAw4i	=	-1435884134;
  double ZJefzi;
- ZJefzi = 2027315725;
+
     unsigned char    Dx42GBrOB;
     Dx42GBrOB    =    -1220383124;
 	short int	C4U4a82R_;
@@ -135,7 +135,7 @@ else if (NobXUM != BgYM)
 {
 for (int k = 4; k >= 0; k--)
 {
-cC36IT3 = (int)ceil(Txjsn757h);
+
 }
 }
 else

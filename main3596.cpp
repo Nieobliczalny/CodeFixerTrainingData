@@ -88,7 +88,7 @@ case 2:
 jT_RNp7 &= 667300937;
 break;
 case 3:
-Q9pWm54ul &= 152776219;
+
 break;
 case 4:
 jT_RNp7 |= mdfLnyHD5;
@@ -248,7 +248,7 @@ case 2:
 
 break;
 case 3:
-rFVtc44q = (int)floor(QNtS);
+
 break;
 case 4:
 
@@ -260,7 +260,7 @@ case 6:
 
 break;
 case 7:
-XujlKc = (int)abs(Q2vh) * 0;
+
 break;
 case 8:
 

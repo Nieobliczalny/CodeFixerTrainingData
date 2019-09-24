@@ -28,7 +28,7 @@ int main(void)
 MnS_ = (unsigned int)(f8cdH_C5m);
 
 zOrn8gY6S4 = (unsigned int)(tuLED);
-rpUZ_ = ublRD6 / Yuf07WhC8i(dHo5T7Fp_O);
+
 
 if ((PIbZ0q != 793614131) || ((tw4S5U6 <= Sc13ZxWf) && (PIbZ0q)))
 {

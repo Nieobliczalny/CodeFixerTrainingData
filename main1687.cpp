@@ -43,7 +43,7 @@ int main(void) {
  long long CENxp8Dy4;
 
 	long double	XP3Kxx5_O;
-	XP3Kxx5_O	=	67421045;
+
 	unsigned char	M03V;
 	M03V	=	812966992;
 	long	E_58I;
@@ -79,7 +79,7 @@ int main(void) {
 	unsigned int	elrO50eS;
 	elrO50eS	=	-1793958944;
     short    KTkv88Aaw;
-    KTkv88Aaw    =    -236125002;
+
   int  mrXNqR;
   mrXNqR  =  -1277024941;
     unsigned long long    o4_BC_j8;
@@ -167,7 +167,7 @@ int main(void) {
   unsigned long long  f_ew6xd;
   f_ew6xd  =  388080315;
   short  I_s7s_6v;
-  I_s7s_6v  =  1456472884;
+
     char    Y5nt33;
     Y5nt33    =    83195593;
  double wxIW9;

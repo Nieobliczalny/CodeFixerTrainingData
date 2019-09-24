@@ -217,7 +217,7 @@ J1Ze = (int)ceil(ardiZpE);
 }
 else if (PifOZH & Ut73ztAze)
 {
-K0tM687 = (int)floor(e54z);
+
 }
 else if (GHcr1M < -121121760)
 {
@@ -239,7 +239,7 @@ uI_8SbcGwO >>= h9gxrIn7dB;
 }
 else if (OnhzZt < -2064693227)
 {
-K0tM687 = (int)abs(G_O2P8ts);
+
 }
 else
 {

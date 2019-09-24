@@ -542,7 +542,7 @@ if (sy_21_u2 == -615848613)
 kitWWvv14 = FGYwT2 * 36356568;
 }
 
-T8_1z8M27u = yWtH7PQ(T8_1z8M27u, 251534703, tk5V, Sr5_9C, nFU7gSs2c);
+
 {
 int i = 0;
 while (i < 6)
@@ -561,7 +561,7 @@ j--;
 
 for (int i = 10; i >= 0; i--)
 {
-J84T_08 = (int)floor(HGJ5z19j5);
+
 }
 
 if (lgBSn_ != I66hhrM8L)

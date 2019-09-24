@@ -888,7 +888,7 @@ case 3:
 
 break;
 case 4:
-spAI = (int)floor(QhA2);
+
 break;
 case 5:
 

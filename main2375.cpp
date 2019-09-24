@@ -24,7 +24,7 @@ int main()
 
   xQ6_4Y8E  =  75687852;
   M8f__T7  =  -279751210;
-  xa0Kju9Ej9  =  1861782710;
+
   vcn9  =  -297150559;
   N86w_  =  -1123081845;
   OB3wBoN5  =  -348866;
@@ -36,7 +36,7 @@ int main()
 
   NMMsf  =  -498718769;
   vauAjJv  =  -847903042;
-  G2_9Y  =  -1370504644;
+
   Vk6d_Qz  =  -292205069;
   DxbZ0s  =  288123374;
   ctuOvQ  =  -1167121665;
@@ -51,7 +51,7 @@ int main()
  unsigned short Wdz0Ko, rao8BD86B, EX7Nb_Ek;
  Wdz0Ko = 0;
 
- EX7Nb_Ek = 0;
+
 
 if (a1Cmd0487 == XEFB2)
 {
@@ -133,7 +133,7 @@ case 2:
 
 break;
 case 3:
-A7y603N7 = ZAP3xBWw();
+
 break;
 case 4:
 EX7Nb_Ek = p6Lazq7(A8MYG30TvT, ctuOvQ);

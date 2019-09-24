@@ -75,7 +75,7 @@ int main(int argc, char** argv) {
 
 
 	M8RA3k2s	=	-945912597;
-	TLfj7	=	1377169010;
+
 	b6ooA35CUD	=	704008183;
 	AsrrYL5_0	=	1305364519;
 	ED_C1	=	2001997436;
@@ -620,7 +620,7 @@ case 2:
 
 break;
 case 3:
-Vg6H9 = b81leR__0A(-815142487, Cg3z8h2, 1544339440);
+
 break;
 case 4:
 TY7I = (int)abs(UVPm);

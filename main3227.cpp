@@ -39,7 +39,7 @@ int main()
   uJf6SxqTX  =  -96305759;
   cT1lZz1f  =  1850088479;
 
-  r16l7DOB  =  -1644733766;
+
   URxp9  =  989484710;
   mx24_RJFYj  =  1998365906;
   VaFd8iZ  =  1657398840;
@@ -56,7 +56,7 @@ int main()
   uH0M47Y1  =  307476824;
 
 
-  FNr7  =  1089074979;
+
     short    QZqch82Ac1;
     QZqch82Ac1    =    0;
 

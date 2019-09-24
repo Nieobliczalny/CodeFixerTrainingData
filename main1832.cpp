@@ -152,7 +152,7 @@ case 'i':
 Zvki1Ir4F = Vv_Qr94();
 break;
 case 'j':
-o8d0c_f = Dt4U(Sc0PM1, z3Y5E9oi4, -935010757);
+
 break;
 default:
 
@@ -234,7 +234,7 @@ std::cout << Zk2NSQ_87H << std::endl;
 
 
 
-cLwL4E7B = Dt4U(ZI49bDRLE, 1322462462, 1153228109);
+
 
 
 d_m979Wq -= 658714514;

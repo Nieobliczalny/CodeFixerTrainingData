@@ -251,7 +251,7 @@ i++;
 while (i < 2);
 }
 
-b7YY1 = R5TA51_G / wN9pDKqQ;
+
 if (((A0mY == R5TA51_G) && (ZDR_ & -420926395)) && ((YI947 != R5TA51_G) && (x8MuW)))
 {
 H727W_e = W0o_bB(H727W_e, 1977715800, 828917641, RscK09, 833716251);
@@ -513,7 +513,7 @@ case 'b':
 
 break;
 default:
-i8214Bo %= 515782496;
+
 break;
 }
 

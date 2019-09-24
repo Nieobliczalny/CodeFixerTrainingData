@@ -42,7 +42,7 @@ int main() {
  unsigned char r2GsKWt;
 
  unsigned short iPdT7S5O_5;
- iPdT7S5O_5 = 1567409766;
+
  unsigned char jrIQ;
  jrIQ = 1907522186;
  long long PV6ZXuzse_;
@@ -52,7 +52,7 @@ int main() {
 	unsigned short	J2_Os;
 
   short int  x7nn1lyO5b;
-  x7nn1lyO5b  =  2029176967;
+
     char    sZbFfeLV;
     sZbFfeLV    =    129708641;
   unsigned long  CzXFEK;
@@ -68,7 +68,7 @@ int main() {
   long double  Rf187;
 
     unsigned long    KPn9S7hD0;
-    KPn9S7hD0    =    -766678732;
+
   unsigned char  U64_gZ;
   U64_gZ  =  641670777;
     char    NAYgH2;
@@ -80,7 +80,7 @@ int main() {
   unsigned long long  kFj4EhkFP;
 
   long  oxc_5j4g;
-  oxc_5j4g  =  -595169561;
+
   long long  f7G3W3X;
 
 	long	ZC6fP8K9_;
@@ -108,7 +108,7 @@ int main() {
   unsigned short int  Ppne7EA;
 
   unsigned char  lkL10uU6;
-  lkL10uU6  =  499041070;
+
 	unsigned long long	Q8WbCBNh9;
 
 	short int	KTV9KTaK0;
@@ -118,7 +118,7 @@ int main() {
     char    WA7c;
 
     unsigned char    fTFhzhqAJ4;
-    fTFhzhqAJ4    =    518573553;
+
   long  dVU7tcHiW;
   dVU7tcHiW  =  614988651;
 	short	Hx2_ZF3hf;
@@ -134,7 +134,7 @@ int main() {
  int eIxO5OMz;
 
   unsigned long  VX802OtI_;
-  VX802OtI_  =  -1484069594;
+
   unsigned char  vo_Ltn;
   vo_Ltn  =  2081894178;
 	unsigned short int	Xxx_3;
@@ -144,7 +144,7 @@ int main() {
     int    c6Y1R1;
 
 	unsigned short	zhBg7fma9;
-	zhBg7fma9	=	-194738769;
+
   float  bB11;
   bB11  =  -2119643757;
  float jBMR;
@@ -156,7 +156,7 @@ int main() {
     unsigned char    T_kcW;
 
     long    YQA2W;
-    YQA2W    =    648500656;
+
     float    dIY322WS;
 
   unsigned long long  m9x_w4vy;
@@ -168,7 +168,7 @@ int main() {
  unsigned int fw50s2;
 
  unsigned long long X7Un;
- X7Un = 0;
+
     long double    Lvj6ic3;
 
 	unsigned short	OD7E86nr98;
@@ -178,7 +178,7 @@ int main() {
  unsigned int J0cixG;
 
     int    JkN2jK;
-    JkN2jK    =    -170551175;
+
  long long i59911T;
  i59911T = 534004782;
   unsigned char  DRY3aFFf2E;
@@ -194,7 +194,7 @@ int main() {
  long double OA_xMfdPo;
 
     unsigned long    jRVM3Nes_;
-    jRVM3Nes_    =    -325850508;
+
     int    T1P5g1dY1D;
 
     double    sUHA7;

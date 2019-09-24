@@ -135,7 +135,7 @@ for (int j = 10; j >= 0; --j)
 {
 for (int k = 0; k < 2; ++k)
 {
-hMTpWrd = (int)ceil(b9OM);
+
 }
 }
 }
@@ -294,7 +294,7 @@ case 'c':
 
 break;
 case 'd':
-dW39IoG = v9JFd4(481221338);
+
 break;
 case 'e':
 
@@ -368,7 +368,7 @@ case 1:
 Eg1RZb6 = v9JFd4(Eg1RZb6);
 break;
 default:
-LU06BiW = BjaEuEt01(1237479141, aUf4Dc, HDz3Ap7y, 1995934359, 1616443261);
+
 break;
 }
 }
@@ -414,7 +414,7 @@ case 'G':
 break;
 case 'h':
 case 'H':
-j30gP = Z3qmT60e9m(j30gP);
+
 break;
 case 'i':
 case 'I':

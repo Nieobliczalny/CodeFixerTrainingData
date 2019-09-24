@@ -578,7 +578,7 @@ zbb78lpc60 = MZTs5(1868099255) * to4na7E;
 break;
 case 'd':
 case 'D':
-CS8P1C ^= h3o211Aawk;
+
 break;
 case 'e':
 case 'E':

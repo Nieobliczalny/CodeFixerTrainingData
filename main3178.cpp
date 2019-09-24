@@ -15,7 +15,7 @@ int main()
     int    XizWW2NY,    C56VW;
         XizWW2NY    =    C56VW    =    0;
 
-bey_lF = -2036038063 / C56VW;
+
 for (int i = 2; i >= 0; --i)
 {
 {
@@ -131,7 +131,7 @@ case 2:
 
 break;
 default:
-yByaWJh8G = (KkManQ >= 1148679780) ? racjfsS : RfH66BMEWg;
+
 break;
 }
 

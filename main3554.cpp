@@ -86,7 +86,7 @@ int main(int argc, char** argv) {
   unsigned int  NcSXhQttR;
   NcSXhQttR  =  -464025963;
   unsigned char  H69mNmNDl;
-  H69mNmNDl  =  -1262334282;
+
   unsigned long  tnsw;
 
 	short int	bGHK;
@@ -488,7 +488,7 @@ Wxa1J270 = k2F5 & 959186579;
 break;
 case 'c':
 case 'C':
-i66_839k5 = e9auj2(i66_839k5, 59588205);
+
 break;
 case 'd':
 case 'D':

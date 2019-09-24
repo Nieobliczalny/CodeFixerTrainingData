@@ -172,7 +172,7 @@ case 0:
 kd0k13OJm %= uR95q19;
 break;
 case 1:
-N3C5kDr3 = ImXs & 490395810;
+
 break;
 case 2:
 
@@ -250,7 +250,7 @@ case 2:
 
 break;
 case 3:
-sgy7062 |= try4Lj;
+
 break;
 case 4:
 
@@ -296,7 +296,7 @@ case 'c':
 
 break;
 case 'd':
-uR95q19 -= WzZR8kcR6;
+
 break;
 case 'e':
 

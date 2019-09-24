@@ -40,7 +40,7 @@ uODgM = sp1wm(-2027933470, CeHf5, 1716807384, -999624244);
 }
 else if (MFxb6dk & 2124882559)
 {
-khAFHCvx = bJ61nuO | 473049460;
+
 }
 else if (khAFHCvx)
 {
@@ -105,7 +105,7 @@ default:
 
 break;
 }
-Swim5b = WEKFwG_9(UzQn9WDl, aAh3I4g, Tzj4o8TW_g, bJ61nuO, Ezw_K) / KO24Ovc6E;
+
 return 0;
 }
 

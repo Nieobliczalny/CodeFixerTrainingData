@@ -61,7 +61,7 @@ while (i >= 0)
 --i;
 for (int j = 1; j >= 0; --j)
 {
-J93Y9P0 = (int)abs(Qn1o);
+
 }
 }
 }
@@ -141,7 +141,7 @@ case 3:
 
 break;
 case 4:
-A9142 = l2CrtG();
+
 break;
 case 5:
 
@@ -153,7 +153,7 @@ case 7:
 
 break;
 case 8:
-QnChk6 = I_8RH(1563733166);
+
 break;
 default:
 

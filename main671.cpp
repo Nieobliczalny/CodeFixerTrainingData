@@ -184,7 +184,7 @@ case 3:
 
 break;
 case 4:
-OMIW = (int)ceil(x0gc9E);
+
 break;
 case 5:
 

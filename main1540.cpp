@@ -118,7 +118,7 @@ case 'c':
 
 break;
 case 'd':
-QIuHU = xG1UZe3_xs * 1699144259;
+
 break;
 case 'e':
 

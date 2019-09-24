@@ -45,7 +45,7 @@ case 'a':
 
 break;
 case 'b':
-qy_mx6 = ljC68B(1828406164, -1296144715, Y9OSS);
+
 break;
 default:
 J_Nu4g9Qe_ = (int)floor(G6Y573);
@@ -116,7 +116,7 @@ else
 int k = 2;
 do
 {
-E3_C9F7_jo = sDxkF6 * G6Y573;
+
 --k;
 }
 while (k >= 0);
@@ -176,7 +176,7 @@ pR5fyvv = (int)ceil(E0En29);
 
 if (((YkSsRi1_e < Z_DaNY9) && (P41K == hSR4zrW1K)) || (h9rNDDa > xStI7))
 {
-E1c7B3_F = (int)abs(nR5D);
+
 }
 else if (J064_kc73 & xStI7)
 {
@@ -293,7 +293,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-bezg_c = G36C2c(bezg_c, 1771434948);
+
 break;
 }
 }

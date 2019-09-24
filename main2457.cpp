@@ -125,7 +125,7 @@ case 4:
 V7Qk0dl5hX = (int)abs(wCmw3);
 break;
 case 5:
-gX5KA__HA %= i4504q4l1;
+
 break;
 case 6:
 mY9FSeM81 *= 774987247;
@@ -277,7 +277,7 @@ std::cout << DWy5dqYj48 << std::endl;
 int i = 4;
 while (i >= 0)
 {
-gX5KA__HA = Vh_kS07HmR - 1048554230;
+
 --i;
 }
 }
@@ -773,7 +773,7 @@ case 2:
 
 break;
 case 3:
-U5Ve33 = (int)abs(t3k0o);
+
 break;
 case 4:
 

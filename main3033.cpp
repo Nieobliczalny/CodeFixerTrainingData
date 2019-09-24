@@ -132,7 +132,7 @@ int main(int argc, char** argv) {
     float    IG9IuKnr_r;
     IG9IuKnr_r    =    343183511;
 	unsigned short int	dYciin;
-	dYciin	=	1348203452;
+
 	char	S0aAzi;
 	S0aAzi	=	426240888;
 	long	X17V60_;

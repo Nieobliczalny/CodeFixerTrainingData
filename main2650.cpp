@@ -345,7 +345,7 @@ else
 {
 if (bp7y07LDtd > q593gF9PMM)
 {
-ang837QQ = H85aSG8ey4 & tqWIzh;
+
 }
 else if (ang837QQ)
 {
@@ -395,7 +395,7 @@ case 5:
 
 break;
 case 6:
-bp7y07LDtd = mqcy4Ic4O5(bp7y07LDtd);
+
 break;
 case 7:
 

@@ -302,7 +302,7 @@ case 'f':
 
 break;
 case 'g':
-N5068 = (int)ceil(T_Ps17);
+
 break;
 case 'h':
 

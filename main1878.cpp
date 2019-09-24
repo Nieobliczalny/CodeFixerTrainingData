@@ -28,7 +28,7 @@ int main()
     unsigned int    TmplSx8g72;
 
 	unsigned short	N7yp0G8R88;
-	N7yp0G8R88	=	1191436875;
+
 	char	BlB_jOnK_4;
 	BlB_jOnK_4	=	-387775516;
     unsigned long    xETW6A;
@@ -42,7 +42,7 @@ int main()
  long double JGX7;
 
   long double  A6KzB2qp;
-  A6KzB2qp  =  1848770494;
+
 	unsigned char	vgK5;
 	vgK5	=	-835126730;
 	int	P22TDd;
@@ -56,7 +56,7 @@ int main()
   short int  lX_l;
 
     long long    eWC6Tb;
-    eWC6Tb    =    -732379167;
+
  short int OsAS;
  OsAS = 639623897;
 	unsigned char	KWatS;
@@ -68,7 +68,7 @@ int main()
  short C_mziu8yJd;
 
 	short int	TIFlBsHh;
-	TIFlBsHh	=	-1262359250;
+
 	unsigned int	AjGmosvA;
 	AjGmosvA	=	2102947256;
 	short	ZEYuFwg61;
@@ -82,7 +82,7 @@ int main()
     unsigned short    jR1y9d5V;
 
  unsigned long long HmoCNLCTQ;
- HmoCNLCTQ = 331136806;
+
  unsigned short int SBfwM1uR0;
 
 	int	nL2UpD;
@@ -104,7 +104,7 @@ int main()
     char    R0i4e28Zad;
 
 	unsigned long	a_1hw8;
-	a_1hw8	=	-1280379974;
+
     float    EL648o5;
     EL648o5    =    959767069;
  unsigned long long tGr2mP;
@@ -136,7 +136,7 @@ int main()
 	unsigned int	p24Q;
 
  long WSmTT2m5ll;
- WSmTT2m5ll = -806786895;
+
   unsigned char  G_kPItv;
   G_kPItv  =  -1285077785;
     unsigned long    lFGN;
@@ -154,7 +154,7 @@ int main()
  unsigned int x_wWyX5_;
 
   short int  bRY0M4G1Ei;
-  bRY0M4G1Ei  =  -1814898288;
+
   double  nh6232;
   nh6232  =  -1637431827;
 	long	o7y43iN;
@@ -164,7 +164,7 @@ int main()
 	int	puzsYI;
 
 	short int	mj_cT7;
-	mj_cT7	=	794327682;
+
 	unsigned long long	n536LFt_4;
 	n536LFt_4	=	2090423045;
  long double ke34ns;
@@ -184,7 +184,7 @@ int main()
 	long	o4TdLI7;
 
   long  Rb1i;
-  Rb1i  =  173233252;
+
   unsigned long  tTNAl2zWV;
   tTNAl2zWV  =  -374482333;
 	unsigned long	q5AW8H4_;
@@ -204,7 +204,7 @@ int main()
  unsigned short o5Fr;
 
  unsigned short int sa3dp2bA;
- sa3dp2bA = 379522759;
+
  double FR0oK7Jo;
  FR0oK7Jo = -313966632;
 	double	xT1fy;
@@ -396,7 +396,7 @@ case 2:
 
 break;
 case 3:
-JGX7 = (int)floor(S6K3Q);
+
 break;
 case 4:
 gK2ciWr = (int)abs(g5_W_4p);

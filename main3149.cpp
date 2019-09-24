@@ -44,7 +44,7 @@ int main(int argc, char** argv) {
 	unsigned int	QiVo5bvD;
 	QiVo5bvD	=	-1115939193;
   unsigned long long  OObNU;
-  OObNU  =  -1265721692;
+
   short int  Vk712kf9J;
   Vk712kf9J  =  0;
   unsigned char  yBf0O2;
@@ -67,7 +67,7 @@ case 1:
 
 break;
 case 2:
-cJ51mvP += HZnw8y;
+
 break;
 case 3:
 HZnw8y ^= fO83;
@@ -177,7 +177,7 @@ case 2:
 
 break;
 case 3:
-QiVo5bvD = xWIo0 ^ O_Gkl7x;
+
 break;
 case 4:
 
@@ -189,7 +189,7 @@ case 6:
 
 break;
 case 7:
-yBf0O2 %= 164822717;
+
 break;
 case 8:
 

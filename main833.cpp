@@ -456,7 +456,7 @@ int k = 0;
 while (k < 3)
 {
 ++k;
-w78A0eW2 = KK34J | af_3C2OF7;
+
 }
 }
 }
@@ -999,7 +999,7 @@ case 2:
 
 break;
 case 3:
-A257Yr4D0 *= YD4erSNG3;
+
 break;
 case 4:
 af_3C2OF7 = b_UoT6wW9 - 676788189;

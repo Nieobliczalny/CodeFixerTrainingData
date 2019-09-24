@@ -530,7 +530,7 @@ do
 {
 if (((oOq7k63) && (TRIFpQMq01 > 1583671501)) && ((t_pu3) && (gSy1z0 < pSw6Kf88)))
 {
-fIgU_9e = (int)floor(SzTEf2u);
+
 }
 else
 {
@@ -576,7 +576,7 @@ break;
 }
 else if (oOq7k63 == Nkb9xp)
 {
-fIgU_9e = (int)ceil(w11q);
+
 }
 else if (YaH98 & fTc13s7j)
 {

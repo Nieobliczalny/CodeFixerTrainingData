@@ -41,7 +41,7 @@ int main(int argc, char** argv)
  int n_fKx;
 
  unsigned int zODL;
- zODL = 992543794;
+
  long h4ku;
 
     unsigned short    z8t4F;

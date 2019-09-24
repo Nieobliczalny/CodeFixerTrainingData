@@ -325,7 +325,7 @@ case 5:
 
 break;
 case 6:
-N57kPM = Yr9b1_F % 1540944644;
+
 break;
 case 7:
 Mwmj6--;

@@ -59,7 +59,7 @@ int main()
 	short int	Kl36_o8t;
 
 	unsigned short	e771X4p2;
-	e771X4p2	=	-1332418093;
+
   unsigned short  vblnzl6;
 
 	float	h42AO9o_0_;
@@ -77,7 +77,7 @@ int main()
  unsigned short c7GB90XOc;
  c7GB90XOc = -1508460302;
     unsigned short    a_9z_f8nl;
-    a_9z_f8nl    =    1164883166;
+
  float pwSFB;
 
   unsigned long long  EbG61FVF8f;
@@ -93,7 +93,7 @@ int main()
     unsigned short    e5Ic;
     e5Ic    =    -1984372280;
  double dH5P5Bc3EI;
- dH5P5Bc3EI = -72611729;
+
     int    POQE;
 
 	int	ZE4_f_4;
@@ -103,7 +103,7 @@ int main()
   short int  nY7LLNU;
 
 	unsigned long	ji3h5h7f24;
-	ji3h5h7f24	=	73488176;
+
 	long long	u_9Y;
 	u_9Y	=	1930242513;
     unsigned short    FxIe7N;
@@ -169,7 +169,7 @@ AjjhF5q1x /= p6UXzH_Q;
 break;
 case 'h':
 case 'H':
-h42AO9o_0_ = (int)abs(BxxrR_yQ);
+
 break;
 case 'i':
 case 'I':
@@ -269,7 +269,7 @@ case 'c':
 
 break;
 case 'd':
-dH5P5Bc3EI = (int)ceil(p6UXzH_Q);
+
 break;
 case 'e':
 

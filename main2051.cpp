@@ -158,7 +158,7 @@ else if (Jwt9U & 880246724)
 {
 try
 {
-f_dU6v03Y *= 572188236;
+
 }
 catch (int& errorCode)
 {

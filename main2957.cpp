@@ -63,7 +63,7 @@ if (RYz7LlgF <= 1531681596)
 {
 if ((XT3k423W0J == -509161532) && (S5sd12ZMlw == -1426547990))
 {
-rKdW &= I9hhW3_w0T;
+
 }
 else if (pBb3Hn96sV & -744353388)
 {
@@ -151,7 +151,7 @@ for (int i = 0; i < 4; ++i)
 switch (EeU8N__3m)
 {
 case 0:
-rKdW = R4Z3a1D >> 1834154415;
+
 break;
 case 1:
 R4Z3a1D = S75_VI75(jmJYz);

@@ -292,7 +292,7 @@ case 'h':
 
 break;
 case 'i':
-y6XC1H2Z = rI75p57 / KE9254U;
+
 break;
 default:
 

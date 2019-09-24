@@ -66,7 +66,7 @@ int main(void)
 	B8D4z	=	184989714;
 	N4aqr75l	=	-1687833568;
 
-	lRRXvrC	=	2139066402;
+
 	K67P5BT9d	=	523506788;
 	do9_5W	=	1745321851;
 	WSFbMpU	=	-294505260;
@@ -449,7 +449,7 @@ case 2:
 break;
 }
 
-I41CPq4mO = zIif67h(I41CPq4mO);
+
 
 zJtQ6 /= Zg9n;
 switch (n4cXQ5Bc)
@@ -470,7 +470,7 @@ case 'e':
 
 break;
 default:
-K67P5BT9d = (int)abs(gTQ2kZ2);
+
 break;
 }
 if (YDNExy == f0GV_O3kJs)

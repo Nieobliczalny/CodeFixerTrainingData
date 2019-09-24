@@ -98,7 +98,7 @@ int main()
  long double ncx34;
 
  unsigned short int FE6D0WG;
- FE6D0WG = 696112210;
+
  double l28e7eb;
  l28e7eb = -1620686416;
 	char	B672Xw;

@@ -36,7 +36,7 @@ int main(void) {
  short r06CX;
  r06CX = 684683410;
  unsigned long long XMxyZ4f;
- XMxyZ4f = 528648346;
+
 	unsigned short int	T2SN6oYAk;
 	T2SN6oYAk	=	-1234129311;
     unsigned int    ye1k;
@@ -206,7 +206,7 @@ KDdHUP = JY7zplN();
 break;
 case 'b':
 case 'B':
-uzf9gERfQ >>= QEvf93UIYD;
+
 break;
 case 'c':
 case 'C':
@@ -318,7 +318,7 @@ case 4:
 eNz0dS = (int)floor(I3DE_);
 break;
 default:
-uzf9gERfQ = wGF6MK >> 906912532;
+
 break;
 }
 }

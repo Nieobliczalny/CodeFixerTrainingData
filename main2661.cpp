@@ -233,7 +233,7 @@ B8JT61LK = (int)ceil(kbRtdRS);
 }
 else
 {
-JIW20p = (int)ceil(VZum);
+
 }
 }
 }
@@ -275,7 +275,7 @@ case 'c':
 
 break;
 case 'd':
-lZOp = (int)abs(yQ_9a4Jy);
+
 break;
 case 'e':
 MEom0hgq1 = Y_T9A(-827839455);

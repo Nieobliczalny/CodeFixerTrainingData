@@ -33,7 +33,7 @@ unsigned short int	Y1w_t4(unsigned long long	Fm1J64kDf4,short int	yaTZe1X,unsign
 int main()
 {
     double    p7tmb1;
-    p7tmb1    =    1920007045;
+
 	double	q2U6;
 	q2U6	=	772509658;
     short    YbpgRShv;
@@ -55,7 +55,7 @@ int main()
     unsigned int    BS5J4Du7;
     BS5J4Du7    =    837746992;
     unsigned long long    agt4Orlp;
-    agt4Orlp    =    1561240238;
+
  double Qp_L65s;
 
     unsigned short    G9e15kv_T;
@@ -65,7 +65,7 @@ int main()
  double Vj1T;
  Vj1T = 507062828;
     short    H72m_LM;
-    H72m_LM    =    88403382;
+
 	long double	J3tX0R;
 	J3tX0R	=	-2010644568;
     char    elf9t_uFbZ;
@@ -85,7 +85,7 @@ int main()
 	unsigned short	Da79R36v4J;
 
  unsigned short int t95_4;
- t95_4 = -1525403944;
+
   short int  jqCUYKt09;
   jqCUYKt09  =  272957210;
     long long    h0bqlS4_;
@@ -141,7 +141,7 @@ int main()
  long double tak4;
  tak4 = -234350826;
   short  R2YBS6EN2;
-  R2YBS6EN2  =  888326202;
+
   long long  YA_6T;
   YA_6T  =  -2093012714;
   unsigned long long  a7m8_aQ8;
@@ -177,7 +177,7 @@ int main()
  unsigned char rjEA;
 
     int    Kb37_O5;
-    Kb37_O5    =    1431668010;
+
 	unsigned char	aMk0Nz;
 
 
@@ -240,7 +240,7 @@ case 1:
 dt18TQ = n6wbB504(dt18TQ, 1079512382, -1392597938);
 break;
 case 2:
-p7tmb1 = (int)ceil(UiaU_NGyG6);
+
 break;
 case 3:
 xD52N61wbI = (int)ceil(tak4);
@@ -322,7 +322,7 @@ case 'c':
 
 break;
 case 'd':
-t95_4 = yjw8o_I_65 >> jqCUYKt09;
+
 break;
 case 'e':
 
@@ -382,7 +382,7 @@ case 7:
 
 break;
 default:
-PQZb = n6wbB504(PQZb, 40545415, W91WLmX6Tq);
+
 break;
 }
 try

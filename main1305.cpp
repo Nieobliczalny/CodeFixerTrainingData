@@ -31,7 +31,7 @@ int main(int argc, char** argv)
 
 
 	AmMBgH	=	-673384867;
-	zx56LW	=	1547283630;
+
 	eo_o_Xoz72	=	2102615379;
 	q_6x8z43ZV	=	-1971152969;
 	UHWxc0	=	476345960;
@@ -54,7 +54,7 @@ int main(int argc, char** argv)
 
 
 
-eo_o_Xoz72 = X65mAY / KTZy1;
+
 
 try
 {

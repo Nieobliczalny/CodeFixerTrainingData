@@ -565,7 +565,7 @@ break;
 
 if (AZYS != -1745869307)
 {
-q3pKi_hE56 = (int)floor(h5MV1teO_c);
+
 }
 else
 {
@@ -676,7 +676,7 @@ case 7:
 
 break;
 case 8:
-JP3_nXBGR = tvM2XwG();
+
 break;
 }
 }

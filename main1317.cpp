@@ -238,7 +238,7 @@ switch (hyVfF)
 {
 case 'a':
 case 'A':
-kQfQt2R6t = c0_A20 - 1904797578;
+
 break;
 }
 ++i;

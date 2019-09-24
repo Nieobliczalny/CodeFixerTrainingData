@@ -248,7 +248,7 @@ else
 int k = 0;
 do
 {
-fvw23 = W5l4fS - 2089278751;
+
 k++;
 }
 while (k < 2);
@@ -372,7 +372,7 @@ while (j < 1)
 
 Yr1DVTAVM--;
 
-kKX90SH92N = (unsigned short int)(W6uuAa);
+
 
 
 
@@ -416,7 +416,7 @@ case 3:
 
 break;
 case 4:
-pddqp = C929A7 / 437615460;
+
 break;
 case 5:
 
@@ -428,7 +428,7 @@ case 7:
 ZZPNEr0Mh = (int)floor(nvEBGxG);
 break;
 case 8:
-ZZPNEr0Mh = (int)floor(ol57wP9sJ0);
+
 break;
 }
 
@@ -454,7 +454,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-Lei_a2Kt = (int)abs(H8orT8f);
+
 break;
 case 'f':
 case 'F':

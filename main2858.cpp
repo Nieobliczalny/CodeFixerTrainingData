@@ -437,7 +437,7 @@ case 'e':
 
 break;
 case 'f':
-VZsgd = (int)abs(h28o);
+
 break;
 case 'g':
 

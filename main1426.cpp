@@ -39,7 +39,7 @@ int main(int argc, char** argv)
     unsigned short int    or9yekk;
 
  long odoCybE70;
- odoCybE70 = -1421249253;
+
 	float	nuQ6DA0;
 	nuQ6DA0	=	348969741;
  double P5tA;
@@ -55,7 +55,7 @@ int main(int argc, char** argv)
 	short int	wy5clzB0b;
 
     int    geWTd24_;
-    geWTd24_    =    -1138932736;
+
  unsigned char x0NbImCOs;
  x0NbImCOs = 2098153316;
  unsigned short int dgc0uW4OP_;
@@ -89,7 +89,7 @@ int main(int argc, char** argv)
 	long long	eV6dj61524;
 	eV6dj61524	=	-2030957462;
  unsigned short int j280AQV;
- j280AQV = 1408136447;
+
 	unsigned short	E1gJxz02g;
 	E1gJxz02g	=	-436425944;
  unsigned short int fTLex;
@@ -145,7 +145,7 @@ int main(int argc, char** argv)
     short    UMrNetQ;
 
     int    a8M792SG;
-    a8M792SG    =    1848341182;
+
   short  RXUX2;
   RXUX2  =  0;
  double qkr1H;
@@ -262,7 +262,7 @@ GIF56 = wBZO063(2126767659, F0gG0b708U, -1279226887);
 break;
 case 'c':
 case 'C':
-sQ9O = wBZO063(1345920641, -79836876, uH5U);
+
 break;
 case 'd':
 case 'D':
@@ -281,7 +281,7 @@ dR89h7kr7C = (int)ceil(qkr1H);
 break;
 }
 
-A42d = (unsigned long long)(F4kq);
+
 if (((Zz8jX5MU4) && (ht46Y >= 1512035462)) || ((yp67dV55KA == vZKJ1j3t) && (Yp71d118se & 2035447634)))
 {
 try
@@ -382,7 +382,7 @@ break;
 }
 else if (E1gJxz02g > 1527068962)
 {
-gLeR_E2pem = (unsigned long)(nuQ6DA0);
+
 }
 else
 {
@@ -440,7 +440,7 @@ case 'c':
 
 break;
 case 'd':
-lf22bh1mXi = E_0yXQTLo();
+
 break;
 case 'e':
 cIfMnZ1 = S7WBvBA04(1812996973);

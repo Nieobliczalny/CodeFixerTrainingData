@@ -122,7 +122,7 @@ std::cout << "z7LRJ1" << std::endl;
 
 std::cout << "n6DO24" << OT_AVBkIBl << std::endl;
 
-f5mb00Y0 = iDZbm04C(GaUXD, -231299456, -572699913);
+
 
 switch (Gf8qa8_h)
 {
@@ -136,7 +136,7 @@ case 2:
 
 break;
 case 3:
-XuAp4 = ClCk6oz6 << PKNThlr6;
+
 break;
 case 4:
 
@@ -148,7 +148,7 @@ default:
 
 break;
 }
-zIWU %= 709448521;
+
 
 
 {
@@ -195,7 +195,7 @@ case 2:
 
 break;
 case 3:
-eK_32 = iDZbm04C(Prlp5G, 777657189, -276456225);
+
 break;
 case 4:
 

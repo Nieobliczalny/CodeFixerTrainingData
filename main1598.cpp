@@ -52,7 +52,7 @@ Q90c_Ue23 = (int)abs(ATWC);
 switch (src5)
 {
 case 0:
-BPk5i8 = o14cR5G(bDv4N23__o, YxrQ6Yand, 114704763, 626890883, j66SL1);
+
 break;
 case 1:
 
@@ -183,7 +183,7 @@ else if (f6h6RT)
 {
 if ((E0SLANcief >= 1623597433) || (G_C8 >= b6sTVm))
 {
-BPk5i8 = o14cR5G(H5Eqoa75n, -1528252665, 220353334, i0OLw08, -384558923);
+
 }
 else
 {
@@ -229,7 +229,7 @@ qqxas0Ld >>= 720946843;
 break;
 case 'b':
 case 'B':
-BPk5i8 = o14cR5G(1936089366, OIa25_, a_nv8_xNf, 1847249064, 1054363144);
+
 break;
 case 'c':
 case 'C':

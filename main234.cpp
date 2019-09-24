@@ -63,7 +63,7 @@ int main(void) {
 	unsigned short int	RV42iW21;
 
   unsigned long  f9AZty;
-  f9AZty  =  0;
+
     unsigned long long    mU98eYw;
     mU98eYw    =    -616967896;
 	float	u5Cxr1hj;
@@ -143,7 +143,7 @@ int main(void) {
  short I0Bcl;
  I0Bcl = 144253924;
     unsigned char    oL_3cL;
-    oL_3cL    =    -1689423261;
+
  long long x_79_G6v;
  x_79_G6v = 1543720787;
   char  p32n;
@@ -239,7 +239,7 @@ case 1:
 u5Cxr1hj = Cglg & 1967626315;
 break;
 case 2:
-an1x = (int)ceil(mm2_1JyL49);
+
 break;
 case 3:
 wfSg_6 >>= k2d2e8744L;
@@ -361,7 +361,7 @@ else
 }
 
 
-Z47fGUIv_ = (int)abs(Jo5k);
+
 
 {
 int i = 0;

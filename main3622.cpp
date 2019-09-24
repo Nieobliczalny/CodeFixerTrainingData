@@ -42,7 +42,7 @@ int main(void) {
  cGtYl = -1393335825;
  zl6NF6iIq = 1837553195;
  I7hyPh2Ulg = -1192361433;
- adkAL4 = -314607412;
+
  x7Rbw = 79064626;
  ivdtSTYDZ7 = -1415834962;
  G1wnw = -1495870788;
@@ -615,7 +615,7 @@ while (j >= 0)
 j--;
 for (int k = 8; k >= 0; k--)
 {
-ivdtSTYDZ7 = C63O3T7O72(-729364264, 1724904100, 1355954002, 461951316);
+
 }
 }
 }
@@ -702,7 +702,7 @@ case 8:
 
 break;
 default:
-NgSUt1T92 = f8Dmw0V / tmWV;
+
 break;
 }
 }
@@ -784,7 +784,7 @@ case 2:
 
 break;
 case 3:
-UhUv3 = zX6KW5nCZ7(GQPMKWoDwM, NMSf_);
+
 break;
 case 4:
 SeKBZZjt = w23g_Y0hH + 1360693257;

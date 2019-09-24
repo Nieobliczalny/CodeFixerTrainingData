@@ -64,7 +64,7 @@ int main(int argc, char** argv) {
 	unsigned char	VNqF5gF;
 	VNqF5gF	=	0;
     unsigned int    YDq2J9C68;
-    YDq2J9C68    =    -1126746400;
+
  int uK4_;
  uK4_ = -1411731979;
   int  A8Wh;
@@ -200,7 +200,7 @@ int main(int argc, char** argv) {
   unsigned char  h5Gq6;
   h5Gq6  =  -983927818;
   unsigned long  T_v0xh58;
-  T_v0xh58  =  -899450064;
+
  long double A8OEgq_Rt;
  A8OEgq_Rt = -198753394;
 	char	y6Q9G8_4;
@@ -663,7 +663,7 @@ try
 {
 if (((NRo_qcNA4) && (c_BbV0E > 962650472)) && (k_tZBu_aLN < 703502212))
 {
-F5YFu *= cWcqnOz;
+
 }
 else if ((l_X05Kd == tW6D474) || (bhD8Y < -2052901865))
 {

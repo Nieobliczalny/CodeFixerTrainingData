@@ -250,7 +250,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-u6G8T3 |= 205426477;
+
 break;
 case 'd':
 case 'D':

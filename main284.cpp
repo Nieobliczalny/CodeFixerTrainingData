@@ -171,7 +171,7 @@ for (int j = 0; j < 10; j++)
 int k = 5;
 do
 {
-h0a3a = df764OH ^ AiI05_A;
+
 --k;
 }
 while (k >= 0);
@@ -452,7 +452,7 @@ case 3:
 
 break;
 case 4:
-WI__Og521H = OCrg9k5pz(-1308582081, 743110980, z4e4Wp);
+
 break;
 case 5:
 hyNw = PwTj8j(44912556, FThUxh7);

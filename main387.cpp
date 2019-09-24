@@ -25,7 +25,7 @@ int main(int argc, char** argv) {
 	unsigned long long	yF256Dz1Y;
 
  long double UH0Z;
- UH0Z = 215890338;
+
     unsigned long long    wqG65M9;
     wqG65M9    =    1440132951;
     unsigned short    D5R7_9O8;
@@ -67,7 +67,7 @@ int main(int argc, char** argv) {
 	unsigned short int	g_810q;
 	g_810q	=	244455428;
     unsigned long long    Uo6nx8RsM;
-    Uo6nx8RsM    =    1665471876;
+
 	short	w5oQ693;
 
   char  E2E9uu;
@@ -117,7 +117,7 @@ int main(int argc, char** argv) {
  long double lT97;
  lT97 = 905220169;
 	int	iI6L63KD;
-	iI6L63KD	=	1426122008;
+
   unsigned short  K_xc_U450;
 
     unsigned long long    psR5Nn8Y;
@@ -147,7 +147,7 @@ int main(int argc, char** argv) {
     unsigned short int    Wd5O;
     Wd5O    =    -1707643327;
 	unsigned long long	rnBPukm4;
-	rnBPukm4	=	659967884;
+
     int    zrMi4JW5;
 
   short int  paX8f;
@@ -167,7 +167,7 @@ int main(int argc, char** argv) {
 	long	g66d;
 
  short int tWRy;
- tWRy = 529196790;
+
     long    LE1LJ;
     LE1LJ    =    1690504144;
     unsigned short    Q70WwaCb_w;
@@ -239,7 +239,7 @@ else if ((dIYVhsNpDS) && (Gi__qTkY1))
 }
 else
 {
-UH0Z = (int)ceil(lT97);
+
 }
 }
 else if (zOZo4H_W & 1332232566)

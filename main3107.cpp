@@ -35,7 +35,7 @@ int main(int argc, char** argv)
 
 
 	VYo3lY_4sF	=	-1055758441;
-	JO0we7joX8	=	1306270413;
+
 
 	PRFU	=	-751547992;
 	mu_E8	=	450444658;
@@ -47,7 +47,7 @@ int main(int argc, char** argv)
 
 
 	uho80Yr_8x	=	706301794;
-	zsHH	=	-1419112206;
+
 
 	t75lo05	=	-178954194;
 	tjmxs5	=	-2074425007;
@@ -68,7 +68,7 @@ int main(int argc, char** argv)
 	ut_9_L	=	1301280721;
 	YhO0	=	-970617787;
 
-	WuKoeNjb72	=	2051656261;
+
 	mo7InPY	=	1479960914;
 	q3C3k7CShT	=	716981390;
 	tfu_i3M	=	140250052;
@@ -104,7 +104,7 @@ int main(int argc, char** argv)
 	RqD7AmtT_	=	1319969424;
 
 
-	hVqS3m8V9	=	1069970202;
+
 	w_kMOx	=	-199839162;
 	Km7zz92hxi	=	-1767154487;
 	XBLb8Hi	=	-987352169;
@@ -273,7 +273,7 @@ switch (Px2_Ls7)
 {
 case 'a':
 case 'A':
-M15WK5l /= 1205744237;
+
 break;
 case 'b':
 case 'B':
@@ -362,7 +362,7 @@ int k = 0;
 do
 {
 ++k;
-IyQu = t4Mu_ ^ 1302178142;
+
 }
 while (k < 7);
 }
@@ -407,7 +407,7 @@ while (j < 8)
 {
 if (uo8RoTefY < 792130842)
 {
-UOpJ8VA4 = PRFU * 1766652643;
+
 }
 else
 {
@@ -443,7 +443,7 @@ case 0:
 a9sVym8x9_ = (int)abs(mCzN);
 break;
 case 1:
-EU1PV9i5 &= jmuQzk;
+
 break;
 case 2:
 YP5dxMH2 = EmS2PW - 2022972400;
@@ -458,7 +458,7 @@ case 5:
 
 break;
 case 6:
-t75lo05 ^= 440988232;
+
 break;
 }
 }
@@ -532,7 +532,7 @@ case 'd':
 mCzN = (int)abs(a9sVym8x9_);
 break;
 case 'e':
-EU1PV9i5 = TeKV8d_EbW(mCzN, -1808824389, -116585966, uho80Yr_8x, q8o_Rn);
+
 break;
 case 'f':
 i_03ozEy8Y = TeKV8d_EbW(1522059912, uo8RoTefY, -384898795, 606766023, faLL1k);

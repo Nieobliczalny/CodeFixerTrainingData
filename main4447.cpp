@@ -194,7 +194,7 @@ case 6:
 
 break;
 case 7:
-OWcpPh7K = f7O97G9();
+
 break;
 case 8:
 XIP9k2Zvo = (int)ceil(up_r8K2Ti);
@@ -297,7 +297,7 @@ case 8:
 
 break;
 case 9:
-wcOT00T9a9 = f7O97G9();
+
 break;
 }
 
@@ -310,7 +310,7 @@ if (Nhxy < -837205596)
 {
 try
 {
-n6Lx_H = (x1ys6 == -904671512) ? PU1b9_g43 : PU1b9_g43;
+
 }
 catch (int& errorCode)
 {

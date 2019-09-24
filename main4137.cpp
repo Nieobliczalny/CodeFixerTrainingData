@@ -48,7 +48,7 @@ int main(void)
     unsigned int    qm_uSIAQ;
 
   unsigned short int  QkidQ44;
-  QkidQ44  =  0;
+
     unsigned long    nbIbv9M7w;
 
  unsigned int fJO7T62y4;
@@ -180,7 +180,7 @@ int main(void)
  unsigned short int qtB5JWqG;
 
   short  xQ1PBm9G;
-  xQ1PBm9G  =  -369370839;
+
 	short int	iE9Zd1R_1;
 	iE9Zd1R_1	=	-973300034;
   unsigned long long  Hz26gz;
@@ -536,7 +536,7 @@ catch (int& errorCode)
 CpUUSbD |= wgN8;
 }
 
-EV05 = (unsigned short int)(YkYgs);
+
 for (int i = 6; i >= 0; --i)
 {
 switch (u637s4Hv5Y)
@@ -634,7 +634,7 @@ while (i >= 0);
 Bp0e2ur = (NHO9_lSKE != qTNg7) ? CpUUSbD : -588105933;
 if ((T3Iu90 == p5h419) || (Bp0e2ur != -720001731))
 {
-dyp00Ds = (int)abs(zQus);
+
 }
 else
 {
@@ -645,7 +645,7 @@ else
 
 
 
-r68i4Kjg1 = U2tEFa69(mYjbvq);
+
 return 0;
 }
 

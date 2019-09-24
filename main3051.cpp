@@ -506,7 +506,7 @@ if (OpcFkozU >= t63h8vk)
 }
 else
 {
-b_G99S = (int)ceil(pbH62eA2t);
+
 }
 }
 }
@@ -585,7 +585,7 @@ else if (U60wX != xF44)
 }
 else if ((H04Gjq_Syl != Mt4qM04) && (W6w_ > RCDGA))
 {
-b_G99S = (int)ceil(yPg7U_);
+
 }
 else if (((L3_EyFdM1W & 754438091) && (K2Aq >= -2102590259)) && (PVfa1_8Xmb == U5o_V))
 {

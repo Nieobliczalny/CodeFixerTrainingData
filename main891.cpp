@@ -36,7 +36,7 @@ int main()
 	hhSb5	=	816003987;
 
 	S4L61e5a	=	991258158;
-	dHELAm7_	=	16185408;
+
 	BGwk2o0u6	=	247022418;
 	mK_KRp9	=	-1182417242;
 	mu_Zk0bAur	=	619159897;
@@ -373,7 +373,7 @@ while (k < 6);
 }
 
 
-b73TR317o &= R3LAr4Xl4E;
+
 
 J2OnhpBe = q2uRX1Z6fU & H24O9;
 

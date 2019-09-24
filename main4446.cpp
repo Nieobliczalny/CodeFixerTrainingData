@@ -780,7 +780,7 @@ case 'd':
 
 break;
 case 'e':
-HlgUs3V = FJ3G * 1247736779;
+
 break;
 case 'f':
 

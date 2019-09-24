@@ -160,7 +160,7 @@ case 1:
 
 break;
 case 2:
-FXcA = ufx9m92p(FXcA, Y9DB6ZnIX, 1168366075, 1802712370, UHp476);
+
 break;
 case 3:
 hBWVWn9 = Y7_J0yMy >> wiyV4vGm;
@@ -213,7 +213,7 @@ case 0:
 
 break;
 case 1:
-NSZwr_O8E4 = iA6O(916814570, guc01Vp_P);
+
 break;
 case 2:
 x3tv = DX18ykGn2(234559774, 1210846000, UHp476, 497951888);
@@ -281,7 +281,7 @@ else if (iYk1_ & -1486889536)
 int k = 6;
 while (k >= 0)
 {
-FXcA = R6qcOC >> guc01Vp_P;
+
 --k;
 }
 }
@@ -400,7 +400,7 @@ else
 int k = 0;
 do
 {
-Qt124_5 = M3rAD7(1003440647, wfOI3s4A9, 2039044307, sgnV15ZWr);
+
 k++;
 }
 while (k < 6);
@@ -430,7 +430,7 @@ else if ((x3tv != vhh8072) && ((vhh8072 > 2146690872) || (Dj0U_Qxvyt == -5577107
 int k = 2;
 while (k >= 0)
 {
-x3tv = DX18ykGn2(iYk1_, IDzL2, wiyV4vGm, -381938420);
+
 k--;
 }
 }
@@ -643,7 +643,7 @@ case 'c':
 
 break;
 case 'd':
-c5AaXzmS = (int)abs(guc01Vp_P);
+
 break;
 case 'e':
 
@@ -661,7 +661,7 @@ case 'i':
 
 break;
 case 'j':
-I4JoiI531i %= 600998987;
+
 break;
 }
 }
@@ -683,7 +683,7 @@ case 2:
 
 break;
 case 3:
-n_d_X = iA6O(135645664, sgnV15ZWr);
+
 break;
 case 4:
 

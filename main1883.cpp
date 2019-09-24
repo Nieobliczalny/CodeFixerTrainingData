@@ -240,7 +240,7 @@ case 5:
 
 break;
 case 6:
-Go1VYZ = B51RV37DA * Go1VYZ;
+
 break;
 }
 }

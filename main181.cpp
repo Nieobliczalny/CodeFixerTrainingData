@@ -523,7 +523,7 @@ hOF8_7pUs = WuyO8 << 1969506489;
 break;
 case 'd':
 case 'D':
-GZpJ7p1 = (int)floor(rIgCFI4P);
+
 break;
 case 'e':
 case 'E':
@@ -725,7 +725,7 @@ case 'c':
 
 break;
 case 'd':
-vsZV3Jv_ = (int)abs(FD9tC8);
+
 break;
 }
 }

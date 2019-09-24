@@ -211,7 +211,7 @@ if (oU1T7zEJcQ & d7w7SZ224)
 {
 try
 {
-umpGU = umpGU * 2050325583;
+
 }
 catch (int& errorCode)
 {

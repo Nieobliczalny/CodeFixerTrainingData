@@ -1006,7 +1006,7 @@ case 2:
 
 break;
 case 3:
-qvfqOE = qvfqOE * 1242406221;
+
 break;
 case 4:
 
@@ -1018,7 +1018,7 @@ case 6:
 
 break;
 case 7:
-sOZ14QE55B = qNNryFHDV(816608100);
+
 break;
 default:
 

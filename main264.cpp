@@ -32,7 +32,7 @@ int main(int argc, char** argv) {
     int    Fo1EnW6V;
     Fo1EnW6V    =    -1744356257;
 	int	Ri6PeS_g;
-	Ri6PeS_g	=	1042447030;
+
  double Yg392j;
  Yg392j = 155132139;
     long long    d81b;

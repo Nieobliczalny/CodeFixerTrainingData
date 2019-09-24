@@ -20,7 +20,7 @@ int main(int argc, char** argv) {
  long double z_40;
 
   unsigned short int  zc9BVAy;
-  zc9BVAy  =  -373110460;
+
     unsigned char    fbzs3RAv;
     fbzs3RAv    =    -1300671417;
  unsigned char AYdNAdiMQ;
@@ -34,7 +34,7 @@ int main(int argc, char** argv) {
  unsigned long Z91_;
 
 	unsigned short int	IXZLmw;
-	IXZLmw	=	147568089;
+
   double  xgEqt;
   xgEqt  =  802222147;
  short int ruKQD;
@@ -46,7 +46,7 @@ int main(int argc, char** argv) {
   unsigned long  kt5Hp;
 
  short O984CwsT4;
- O984CwsT4 = -188967175;
+
  int J2k86l66Qk;
 
     short    QFL9qp1q1M;
@@ -56,7 +56,7 @@ int main(int argc, char** argv) {
     unsigned long long    FRA01;
 
     long long    B1m22;
-    B1m22    =    542844173;
+
  long long u_ATO5a;
 
     float    A9M1tdBCyz;
@@ -72,7 +72,7 @@ int main(int argc, char** argv) {
   unsigned long  LHrzE;
 
  unsigned short int D666Vj;
- D666Vj = 2140366239;
+
 	long	AQVI70w3j;
 	AQVI70w3j	=	395349626;
  char XWlel;
@@ -82,7 +82,7 @@ int main(int argc, char** argv) {
 	int	Nd_t4el;
 
     unsigned short int    C4cl1D19h;
-    C4cl1D19h    =    -359620097;
+
     unsigned long    wa64fyON;
 
   unsigned short int  y6Fn;
@@ -96,7 +96,7 @@ int main(int argc, char** argv) {
  unsigned short sdri0G9;
 
   long double  WSp7;
-  WSp7  =  1992299393;
+
  long double Econ327;
 
   unsigned short int  GdMIkN38;
@@ -110,7 +110,7 @@ int main(int argc, char** argv) {
 	int	PaJ0;
 
   unsigned long long  Sq91hrW34r;
-  Sq91hrW34r  =  -1069003122;
+
   unsigned int  O6JI529XWN;
   O6JI529XWN  =  1527140438;
     unsigned int    P_9t4X;
@@ -158,7 +158,7 @@ int main(int argc, char** argv) {
   unsigned long long  xF_OAZ;
 
 	double	Sm0549N;
-	Sm0549N	=	-250620131;
+
 	long double	YXtq7aO;
 	YXtq7aO	=	789352100;
   unsigned long  FWPfrmm;
@@ -170,7 +170,7 @@ int main(int argc, char** argv) {
  unsigned char ZW725;
 
 	long double	Vs2Fyx;
-	Vs2Fyx	=	887659623;
+
 	int	bC3X;
 
   long  KMBZKZ0YIx;
@@ -180,7 +180,7 @@ int main(int argc, char** argv) {
 	short	k16C_;
 
 	unsigned long long	wWZr0D4y;
-	wWZr0D4y	=	717924808;
+
   short int  y0CH3J_9n;
 
     unsigned int    vD9IfMH20f;
@@ -359,7 +359,7 @@ default:
 break;
 }
 
-k16C_ = 2034287003 / ygy_C6X;
+
 for (int i = 9; i >= 0; --i)
 {
 hr7J5F &= sPf7z3L4sc;

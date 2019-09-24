@@ -149,7 +149,7 @@ PDy8dKK = 1396479395 / dBg55V2(-2070314655, g75S0);
 switch (BMIt7)
 {
 case 0:
-rjR0q67RCN %= REy8nc9019;
+
 break;
 case 1:
 Y3EL4_ = dBg55V2(zCMOHA, -306841656);
@@ -370,7 +370,7 @@ case 'g':
 
 break;
 case 'h':
-ywXMDiHtN = (int)ceil(Vr4gP1S);
+
 break;
 }
 }

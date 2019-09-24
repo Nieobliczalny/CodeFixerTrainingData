@@ -134,7 +134,7 @@ else if (AO1GALUW5 >= pRFI)
 }
 else
 {
-KIIb = (int)abs(O9lUAonu);
+
 }
 }
 }
@@ -242,7 +242,7 @@ while (i < 2)
 std::cout << s_Vb6 << Yjz4PF9Zi(-1013821146, PX8FTL03, d54z13, -1267411354) << "S9yD30G" << std::endl;
 
 
-QB8SHZ6 = (int)ceil(s_Vb6);
+
 
 Q93F = (int)ceil(pRFI);
 

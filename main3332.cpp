@@ -356,7 +356,7 @@ if (QJ3v8H == 1247222570)
 {
 if (k0sMS != d41bb3Mm7)
 {
-Jkqb = yI5753(Jkqb, C0f9sqg7dT, 1249293200);
+
 }
 else if (wVh1A6m6Wn)
 {
@@ -481,7 +481,7 @@ case 4:
 
 break;
 case 5:
-zXi5K = qD2jN(314216022);
+
 break;
 case 6:
 

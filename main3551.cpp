@@ -252,7 +252,7 @@ case 'g':
 dE24sI53SH = izkA4mI();
 break;
 case 'h':
-zbm2YG_ *= UuW6eR;
+
 break;
 case 'i':
 aZu2_ = (int)floor(S6_T);

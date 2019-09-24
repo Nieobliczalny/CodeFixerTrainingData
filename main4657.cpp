@@ -106,7 +106,7 @@ case 8:
 
 break;
 default:
-R_4LLN = (int)abs(SSe791);
+
 break;
 }
 }

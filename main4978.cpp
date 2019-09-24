@@ -559,7 +559,7 @@ while (i >= 0);
 
 if (U47q_jg8tU & SUAF)
 {
-oOnuHl = (unsigned long)(cg7hL84Z);
+
 }
 else if (oOnuHl)
 {
@@ -614,7 +614,7 @@ else
 switch (U47q_jg8tU)
 {
 case 'a':
-oOnuHl *= gIKvi;
+
 break;
 case 'b':
 U47q_jg8tU <<= 876169005;
@@ -626,7 +626,7 @@ case 'd':
 U47q_jg8tU = (NSCYb > w63J7m_) ? Og8Fg5 : -857791439;
 break;
 case 'e':
-oOnuHl ^= 1779709137;
+
 break;
 case 'f':
 SUAF++;
@@ -697,7 +697,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-oOnuHl = NSCYb & 1949120293;
+
 break;
 case 'd':
 case 'D':

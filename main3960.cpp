@@ -102,7 +102,7 @@ case 2:
 
 break;
 case 3:
-fi4Iwrg94 = (int)floor(habX5);
+
 break;
 case 4:
 
@@ -273,7 +273,7 @@ case 'c':
 
 break;
 case 'd':
-r_kX9Na5 = (int)abs(hcM0_29zN);
+
 break;
 case 'e':
 
@@ -285,7 +285,7 @@ case 'g':
 
 break;
 default:
-DllO6 = PkN_(-1699911687);
+
 break;
 }
 {

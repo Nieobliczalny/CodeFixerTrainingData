@@ -27,7 +27,7 @@ int main(void) {
 	long long	cx1c,	d4dV,	DfHzlY1K,	k__sf3b,	qOtvr0,	p06xfLrw97,	rgT_4Ht,	jp2d49,	Y2GXh6RU,	IuS8PbiJ9,	yf_C,	OdD16O_rVd,	FEFwR_,	a3KQn19,	Lu0q3kec,	vR3vnL3T9i,	mi6rtDrA5,	r9r41,	d9WM,	yFZEYsHi,	U6nQ2,	In_JAk65,	efxv_L,	uOs9ThT,	llKz,	B359g3_tnH,	W79KQAhqM3,	VRpph,	lrLZ,	s9V1,	C27nZ2D,	JK2mIRD,	uk3rxI6MDG,	Ri90cuEw78,	e5mG,	C0iL,	b46uQbO,	w_g3g,	zr49RwLf0,	Aox8_64m,	s_4U7IP,	ir_q89D4H,	Q4i10294B,	cr2u0,	X114,	d761UM7A_,	iSc5n15bMD,	m6G3F,	inO30g5uPO,	IYV2K9,	cQFq33XTnB,	R96Oom,	B22tlei1_,	u3sb2b,	BByZ4n,	Yz_5wIHxen,	S7684t8,	s3lkG1BFfJ,	ghu_m,	uUFCFc,	tSRJ6,	EVq72x,	Q_6T,	wP6YBqjDX,	xFzeAS,	mF0zNnk,	AhqGA858q,	IUGMvwI_34,	lhQj2,	L3on,	wAO6aj988,	il8Q6uG,	CpP5eEbT40,	z8HRS,	msndc,	r9a6Hv,	YZv9mGtaOF,	N3iU4_cz,	B1lek,	cy954XhPuK,	kYMMCl1E,	w6y0,	wG34Afi;
 	cx1c	=	-1884283274;
 	d4dV	=	904488242;
-	DfHzlY1K	=	1549010374;
+
 	k__sf3b	=	456598337;
 	qOtvr0	=	819400915;
 
@@ -41,7 +41,7 @@ int main(void) {
 	a3KQn19	=	1796702530;
 	Lu0q3kec	=	-963947623;
 	vR3vnL3T9i	=	1637703261;
-	mi6rtDrA5	=	579967271;
+
 
 	d9WM	=	1433406810;
 	yFZEYsHi	=	34480492;
@@ -51,7 +51,7 @@ int main(void) {
 	uOs9ThT	=	1123690910;
 	llKz	=	-406176126;
 	B359g3_tnH	=	-664285355;
-	W79KQAhqM3	=	2076793484;
+
 	VRpph	=	166948816;
 	lrLZ	=	-1676529124;
 	s9V1	=	-1372595836;
@@ -61,7 +61,7 @@ int main(void) {
 
 	e5mG	=	-32819954;
 	C0iL	=	-137146220;
-	b46uQbO	=	-1241761478;
+
 	w_g3g	=	-2051519056;
 	zr49RwLf0	=	-1187850372;
 	Aox8_64m	=	-1706635229;
@@ -73,7 +73,7 @@ int main(void) {
 	d761UM7A_	=	844318829;
 	iSc5n15bMD	=	-769522633;
 
-	inO30g5uPO	=	-404343429;
+
 	IYV2K9	=	-1398410664;
 	cQFq33XTnB	=	432027923;
 
@@ -97,7 +97,7 @@ int main(void) {
 
 	wAO6aj988	=	1434674542;
 	il8Q6uG	=	460356859;
-	CpP5eEbT40	=	-441534785;
+
 	z8HRS	=	-1892309120;
 	msndc	=	668603180;
 	r9a6Hv	=	-1590262457;
@@ -206,7 +206,7 @@ case 'c':
 
 break;
 case 'd':
-DfHzlY1K = (int)abs(s3lkG1BFfJ);
+
 break;
 case 'e':
 
@@ -229,7 +229,7 @@ case 3:
 
 break;
 case 4:
-U6nQ2 = Z5Uu3nA();
+
 break;
 case 5:
 
@@ -241,7 +241,7 @@ case 7:
 
 break;
 case 8:
-t5_Fm_695 = bunFOb9(cx1c, 740383309, FEFwR_, il8Q6uG);
+
 break;
 default:
 

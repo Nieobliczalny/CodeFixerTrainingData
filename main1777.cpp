@@ -131,7 +131,7 @@ for (int j = 0; j < 8; j++)
 }
 else if (((MOQ82kyJ != 2125001734) || (jHb1A_CPj == 481209459)) && ((SVUev2O < 140957615) && (KQViP >= -1843053722)))
 {
-h3mwl0PmVh = Ce72L10 * vn0ExM;
+
 }
 else if (z1nSPVfso & 145615709)
 {
@@ -240,7 +240,7 @@ case 'd':
 
 break;
 case 'e':
-Xk5h2_9a7m = (int)ceil(yvEt44SDl);
+
 break;
 case 'f':
 vBm2O = (int)floor(UM_Wj);

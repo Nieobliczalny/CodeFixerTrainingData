@@ -40,7 +40,7 @@ int main()
 
 
 
-  mG5Ap  =  1724802078;
+
   FoJ8  =  -1381755398;
   yRQ1B  =  -856025472;
   lNvj3Ce8g  =  -149948872;
@@ -69,7 +69,7 @@ int main()
   AMd5MSUV_  =  1088330924;
 
   z4L8  =  844247178;
-  G_DT5apMDS  =  1634904096;
+
   Urg0Z  =  1713481803;
   cSLzy  =  2134436061;
   aQNJI  =  393018168;
@@ -491,7 +491,7 @@ case 2:
 
 break;
 case 3:
-tnsjD = t6VJkjfp(42256269);
+
 break;
 default:
 

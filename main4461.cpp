@@ -618,7 +618,7 @@ case 'e':
 
 break;
 case 'f':
-QG32477nx = QG32477nx - rZLb54E19x;
+
 break;
 default:
 

@@ -186,7 +186,7 @@ else
 }
 else if ((i85d34 > THN1Ir) || ((Pxy2A_g & Rb_h) && (wf19810rf <= 1340049360)))
 {
-KP2q_3t8Pp = (unsigned char)(GxQT_q6FFK);
+
 }
 else if (Gp_1057j & 1468486580)
 {
@@ -309,7 +309,7 @@ case 2:
 
 break;
 default:
-m0Z7WK5xb0 = geq9MN0N | Osv_U2;
+
 break;
 }
 

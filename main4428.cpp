@@ -57,7 +57,7 @@ int main(int argc, char** argv)
     char    rG20iN648;
 
     long    z8Fon_u;
-    z8Fon_u    =    -563620517;
+
  unsigned int O4J_40AU2J;
  O4J_40AU2J = 1392111950;
   float  oH7ym;
@@ -135,7 +135,7 @@ int main(int argc, char** argv)
   unsigned long  q122;
 
  long long y_vk;
- y_vk = 1923816006;
+
   int  k51FFw98;
   k51FFw98  =  622385807;
 	unsigned int	ZUpk;
@@ -177,7 +177,7 @@ int main(int argc, char** argv)
   long long  MOTH5yD7;
   MOTH5yD7  =  238527839;
   float  o2yTC33;
-  o2yTC33  =  -2110195015;
+
     long double    r2AFRGqQ;
     r2AFRGqQ    =    -379693356;
  long double F5x2Jt84F;

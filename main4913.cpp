@@ -85,7 +85,7 @@ case 2:
 
 break;
 case 3:
-t742rxWI >>= 141480460;
+
 break;
 case 4:
 

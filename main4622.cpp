@@ -364,7 +364,7 @@ switch (Q67r)
 {
 case 'a':
 case 'A':
-BV15e8V >>= 1064383240;
+
 break;
 case 'b':
 case 'B':
@@ -376,7 +376,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-bHQ_ = xurXPD & h3Y5fE_;
+
 break;
 case 'e':
 case 'E':
@@ -410,7 +410,7 @@ GWvmOPT2 = h3Y5fE_ | RsaS_75O;
 }
 else
 {
-bHQ_ |= M3Z2Mita;
+
 }
 }
 catch (int& errorCode)
@@ -606,7 +606,7 @@ else if (SK93v1 >= ew95)
 }
 else if (xurXPD == qf2wm)
 {
-bHQ_ = GwF9i4R | 1605621767;
+
 }
 else if (SDD_OB86 < -1233223815)
 {

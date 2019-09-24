@@ -146,7 +146,7 @@ case 6:
 KeOOvW97m -= B_q1;
 break;
 case 7:
-XdIX1NrM = (int)ceil(nY8j1JQ);
+
 break;
 case 8:
 Q78ao122a8 = G2_QOeF1R(Q78ao122a8, 9658056);
@@ -222,7 +222,7 @@ case 3:
 r_nja = (int)abs(q_H5a);
 break;
 case 4:
-v74uQMe_ = c1rx4 % rkvvN6;
+
 break;
 case 5:
 
@@ -301,7 +301,7 @@ case 2:
 
 break;
 case 3:
-LRAI470F2 = (int)floor(U68K5lkFU2);
+
 break;
 }
 if (((qtKYKye & H8nYwmK) && (zE5b8 == Ue84_FUAVO)) && (U68K5lkFU2 == yW743eu1Je))
@@ -330,7 +330,7 @@ case 6:
 
 break;
 case 7:
-v1_29E = (int)abs(NJ6yx7Awk7);
+
 break;
 }
 }

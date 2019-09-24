@@ -160,7 +160,7 @@ case 'c':
 
 break;
 case 'd':
-aFAg = GdfqiWYJ * hH747g1L;
+
 break;
 case 'e':
 NVN9WdYJa = (int)abs(tSqw0N);
@@ -263,7 +263,7 @@ case 'd':
 
 break;
 case 'e':
-Z2t2Zvr9Z6 = (int)ceil(gA_IYtH);
+
 break;
 case 'f':
 KF79Jbb = (int)ceil(lMeg0);
@@ -312,7 +312,7 @@ case 2:
 
 break;
 case 3:
-fVR_6 = (SJXDk1727 > 428163860) ? Jrw2jUzW : 106103200;
+
 break;
 case 4:
 

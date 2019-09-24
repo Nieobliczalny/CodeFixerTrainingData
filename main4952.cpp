@@ -512,7 +512,7 @@ else
 switch (QZeN8o9_o)
 {
 case 0:
-BrqNTqkWey = CH_n_8(BrqNTqkWey, PyJFOu, E0fd4_hc, -683937479);
+
 break;
 case 1:
 oA_OiPN3i = rC93W5 << 555078743;
@@ -548,7 +548,7 @@ case 'd':
 
 break;
 case 'e':
-PyJFOu = XA735lit5(xdyn_y15s, 2106752087, -529495374, -1272057670) * 1507480371;
+
 break;
 case 'f':
 FPpic8r3 = xdyn_y15s + TUcL3;

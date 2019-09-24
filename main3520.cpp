@@ -110,7 +110,7 @@ case 'e':
 
 break;
 case 'f':
-orE1cF = (int)abs(f5BZu);
+
 break;
 case 'g':
 
@@ -122,7 +122,7 @@ case 'i':
 
 break;
 }
-kX89 = q1N35r3Y5f << R3sYi3;
+
 if (((IvC8dlN4K2 != 724869137) || (OPv9 < 1681371907)) && (j11wJq == -2068044959))
 {
 cout << JQ2C4kI(-105326168) << endl;

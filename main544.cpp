@@ -639,7 +639,7 @@ case 'd':
 
 break;
 case 'e':
-HK_xDwnK = (int)abs(jbFV6mK);
+
 break;
 case 'f':
 

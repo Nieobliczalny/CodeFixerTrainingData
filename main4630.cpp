@@ -32,7 +32,7 @@ while (i >= 0)
 switch (Kiw9O)
 {
 case 0:
-x76D2EO6 = (int)ceil(B5_KmJ);
+
 break;
 case 1:
 R9R8SO_PJ /= zo4783P;
@@ -155,7 +155,7 @@ while (k < 8)
 }
 else
 {
-x76D2EO6 = hHzv8_ / XLA624;
+
 }
 }
 else

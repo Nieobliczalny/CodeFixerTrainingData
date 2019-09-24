@@ -352,7 +352,7 @@ case 7:
 aWXPeO = z_Bjn91 + rQ5Ppkl;
 break;
 case 8:
-a6vOH6B00 = (int)ceil(aRtQZ);
+
 break;
 case 9:
 g_lf2215 = LfOsv_On % MreHDv5j5;
@@ -570,7 +570,7 @@ break;
 
 
 
-AL5nLV = (int)(g_lf2215);
+
 if ((MDmL73h85f / rJKO3R) >= -1557643898)
 {
 if (tID6fj != -770952693)

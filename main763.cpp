@@ -71,7 +71,7 @@ case 'b':
 
 break;
 case 'c':
-bb8DZ0ap = (int)ceil(nbjXVL);
+
 break;
 case 'd':
 CeS1 = (int)floor(bb8DZ0ap);
@@ -112,7 +112,7 @@ case 3:
 CeS1 = (int)ceil(nbjXVL);
 break;
 case 4:
-P1BjY9 *= CeS1;
+
 break;
 case 5:
 

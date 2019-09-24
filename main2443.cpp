@@ -84,7 +84,7 @@ int main() {
   long long  q4P3;
 
 	long	R4Mp;
-	R4Mp	=	1987160306;
+
   int  kaeOTLL9E;
   kaeOTLL9E  =  -1351992707;
   double  DpcyBoiHQ3;
@@ -180,7 +180,7 @@ int main() {
 	unsigned int	bwxx7LU19D;
 	bwxx7LU19D	=	-947308273;
  short int D73sk1J;
- D73sk1J = -399986059;
+
   unsigned short int  uLQL_;
 
  unsigned long C5c45K;

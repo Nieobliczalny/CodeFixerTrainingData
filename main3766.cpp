@@ -118,7 +118,7 @@ case 2:
 
 break;
 case 3:
-k4svx = yecVVT6O();
+
 break;
 default:
 
@@ -176,7 +176,7 @@ case 2:
 
 break;
 case 3:
-y1AnU7a = (int)abs(xy1SSn71);
+
 break;
 default:
 

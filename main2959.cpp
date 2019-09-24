@@ -47,7 +47,7 @@ int main() {
   unsigned long  Qeg9mzl5E  =  0;
  char ZQV_w5I87 = 1319880518;
 
-FFKOjqWbw = (unsigned long)(vyBZ9);
+
 
 try
 {
@@ -118,7 +118,7 @@ switch (h3Kl95_69X)
 {
 case 'a':
 case 'A':
-EN0d = (int)abs(yH77RQ12o);
+
 break;
 case 'b':
 case 'B':
@@ -196,7 +196,7 @@ case 2:
 hbSMKlc = p617RY / 410106113;
 break;
 case 3:
-FFKOjqWbw = m643(1195482752, -287747042, h3Kl95_69X, -1826964999);
+
 break;
 case 4:
 Kugu4F = F6795j8LfB(eJQOId748X, 820681350);
@@ -328,7 +328,7 @@ case 2:
 
 break;
 case 3:
-Sbu7MAnDO = (int)abs(ZQV_w5I87);
+
 break;
 default:
 

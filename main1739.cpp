@@ -429,7 +429,7 @@ case 2:
 
 break;
 case 3:
-u10u *= q_qA_;
+
 break;
 case 4:
 aTv5uziBR = tQI1XV & E4i910q;

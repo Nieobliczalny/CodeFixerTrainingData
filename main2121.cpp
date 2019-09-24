@@ -140,7 +140,7 @@ case 3:
 Q4nR8Y = (int)abs(Ct_2b);
 break;
 case 4:
-xfRVI3Gd9 = z6Jc(z1_I1a5c8, Z_N7Nj0) ^ u64klc;
+
 break;
 case 5:
 
@@ -176,7 +176,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-UC18Po_1 = z6Jc(Mb96D4UqWa, -1411745511);
+
 break;
 case 'e':
 case 'E':

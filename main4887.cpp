@@ -19,7 +19,7 @@ int main(int argc, char** argv)
   long long  b75mYxDQ5S;
 
   long double  yoAVM7F;
-  yoAVM7F  =  1093221785;
+
     short int    N874_n9g_;
     N874_n9g_    =    2144489199;
  unsigned long long x3I4oM;
@@ -49,7 +49,7 @@ int main(int argc, char** argv)
   unsigned char  Z4W8;
 
  unsigned long o_7Xy;
- o_7Xy = 849088940;
+
 	float	kuBTVx;
 	kuBTVx	=	473984465;
     long double    fvu0y;
@@ -79,7 +79,7 @@ int main(int argc, char** argv)
 	short int	ox90894;
 
     unsigned long    uq_A0xTf4;
-    uq_A0xTf4    =    -585619664;
+
 	unsigned long	CW4lL2;
 	CW4lL2	=	2014839828;
     short int    pVWu2hH87;
@@ -109,7 +109,7 @@ int main(int argc, char** argv)
     unsigned long    NPm4;
     NPm4    =    -129060126;
     long    qG38ZefV;
-    qG38ZefV    =    1396374702;
+
 	long	GKQPL;
 	GKQPL	=	-1167911109;
 	unsigned short int	lgwG;
@@ -143,7 +143,7 @@ int main(int argc, char** argv)
  unsigned int X0zRdP6;
  X0zRdP6 = 1440195643;
 	unsigned long	f0hnV;
-	f0hnV	=	-1460333993;
+
  int S81lsS48fa;
  S81lsS48fa = 2113471754;
  long E1A8g;
@@ -165,7 +165,7 @@ int main(int argc, char** argv)
 	double	bttWmW;
 	bttWmW	=	-1905090470;
   double  EdiBJ;
-  EdiBJ  =  -99793568;
+
     unsigned short int    xCQ031;
     xCQ031    =    -1649113989;
 	char	RAg3RA1Bh6;
@@ -241,7 +241,7 @@ if (BVI48 == 270379632)
 {
 try
 {
-qG38ZefV = (int)abs(Jz2d9j);
+
 }
 catch (int& errorCode)
 {

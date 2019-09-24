@@ -40,7 +40,7 @@ int main(int argc, char** argv) {
  BXno5hq3m9 = 18359015;
 
  yQ_GY9 = -1183205852;
- qn32SU = 648637811;
+
 
  wn8V7fa = -1579304230;
  Lty30BoF = 1299296947;
@@ -73,7 +73,7 @@ int main(int argc, char** argv) {
  rPN4Dayn = -1645432733;
  Tc0wU6 = -1707824815;
  s45qZdASN = 1676162814;
- H8N3RIt = -1676177926;
+
 
  u1S9 = 804934339;
 
@@ -227,7 +227,7 @@ case 'b':
 u2ZN_vC2 = a7np7Y7(Lty30BoF, Xb9T_9t);
 break;
 case 'c':
-Lty30BoF = (int)abs(Nu3G2PvUb5);
+
 break;
 case 'd':
 u2ZN_vC2 = a7np7Y7(w9D3jgA30, -775578151);
@@ -341,7 +341,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-qn32SU = (int)abs(rPN4Dayn);
+
 break;
 case 'e':
 case 'E':

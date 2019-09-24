@@ -180,7 +180,7 @@ while (k < 5);
 L84_yG8lB = PqC8dxb85 + O_5356Q84L;
 if ((V21F) || (H95pZsf <= PqC8dxb85))
 {
-o79P *= 2121879568;
+
 }
 else if ((mU8NZ_13_G == R08iwBm) || (q_Q5_zhYv != -1319653600))
 {
@@ -421,7 +421,7 @@ q_Q5_zhYv = (int)abs(Dqk_4);
 }
 else if (m8S02 >= O_5356Q84L)
 {
-p42t6pvxDF -= 892923631;
+
 }
 else if ((Ln8__j) && (w7Q8 == pY8BKVR))
 {

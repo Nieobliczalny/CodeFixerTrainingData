@@ -53,7 +53,7 @@ int main() {
   Vc_ncOpS  =  -60925367;
   GKqRa4IVy  =  203012210;
   f9pi__q  =  310610992;
-  Ts9_9Vt4qk  =  2099198590;
+
   B11q9Xjpe  =  1769423725;
   EkIM7YB  =  -1089486645;
   OD8qdY  =  -987562497;
@@ -116,7 +116,7 @@ case 'e':
 KDoho = (int)abs(f9pi__q);
 break;
 case 'f':
-Ts9_9Vt4qk = (int)floor(EkIM7YB);
+
 break;
 case 'g':
 EkIM7YB = (int)abs(EoGSr0b) + (355212600);

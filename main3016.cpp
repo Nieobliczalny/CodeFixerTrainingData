@@ -54,7 +54,7 @@ int main(void) {
   tM54e3d  =  -1114917583;
   mv_Ka_2  =  -1243018549;
 
-  vCS5_  =  -1251627602;
+
   UdW8N8W  =  -2003700698;
 
   EMPT8Bp  =  -1327546172;
@@ -215,7 +215,7 @@ case 0:
 E9pjuiGAq1 = (int)ceil(pDfF3);
 break;
 case 1:
-LjWH6 = (int)floor(S1_FY3);
+
 break;
 case 2:
 OmRd = (int)ceil(EMPT8Bp);

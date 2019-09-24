@@ -382,7 +382,7 @@ do
 {
 try
 {
-Pgdr6SEg = (double)(KA116H9R);
+
 }
 catch (int& errorCode)
 {
@@ -449,7 +449,7 @@ case 'f':
 
 break;
 case 'g':
-fRK0 <<= 1464713905;
+
 break;
 case 'h':
 I93OdUOh_1 = (int)floor(c_in9V6);

@@ -113,7 +113,7 @@ case 'b':
 
 break;
 case 'c':
-B1ACQnJZ = YCg9R_4MP7 % sqbU0;
+
 break;
 case 'd':
 Sfpw = fwG2q2(EhocxCqY);

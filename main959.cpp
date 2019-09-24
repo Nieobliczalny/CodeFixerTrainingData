@@ -106,7 +106,7 @@ int main()
  unsigned long long O8Hq;
 
  unsigned short int BxDoLU6C;
- BxDoLU6C = -590709349;
+
     unsigned short    Py87;
 
 	unsigned long	eBT_6MTc07;
@@ -144,7 +144,7 @@ int main()
  unsigned char TQ6c1n7x_U;
  TQ6c1n7x_U = -1034035225;
     short    fOe4844sI6;
-    fOe4844sI6    =    931023264;
+
     unsigned char    oYqgBL;
     oYqgBL    =    -726274940;
     long double    H28EaU;

@@ -128,7 +128,7 @@ if ((tbXtec9X0 != M73YWo2) || (rUT67C & u8G15OD9A3))
 }
 
 
-tbXtec9X0 = TSL_jFyEd / j8Rh;
+
 for (int i = 9; i >= 0; --i)
 {
 for (int j = 0; j < 10; ++j)

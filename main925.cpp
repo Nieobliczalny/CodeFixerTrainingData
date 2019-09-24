@@ -649,7 +649,7 @@ default:
 
 break;
 }
-H3_FSOyu = A8x0H13 / 308360908;
+
 
 
 switch (OSa1PUU18)

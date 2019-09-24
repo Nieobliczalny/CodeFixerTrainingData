@@ -108,7 +108,7 @@ PaUc67d -= 2093831270;
 switch (ob_uiEf8m)
 {
 case 'a':
-Vr76t = (int)floor(cxfFW);
+
 break;
 case 'b':
 

@@ -101,7 +101,7 @@ while (k >= 0);
 }
 }
 }
-qo5w = (int)abs(X2T00);
+
 if ((V950RoUMK == 1023822869) && (CX1dXl > VK8j_))
 {
 std::cout << "Soz9xH8_" << AYtjBQ2hw << std::endl;
@@ -190,7 +190,7 @@ OC5K9ThlD = RMF73_3t(m4_FA, V_Cf, V9EZ6LH0);
 int i = 7;
 do
 {
-XpIAJ_CD5 = (unsigned char)(DBM9bwO7I);
+
 --i;
 }
 while (i >= 0);
@@ -355,7 +355,7 @@ while (i >= 0)
 
 
 
-a309q9Z57 += 1490271987;
+
 kqxac3OBr = (int)ceil(x_91l_);
 switch (TYfXDe)
 {
@@ -375,7 +375,7 @@ case 4:
 
 break;
 case 5:
-AEPB4h = (int)abs(Q_ANbQu);
+
 break;
 default:
 

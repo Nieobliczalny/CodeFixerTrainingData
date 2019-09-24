@@ -457,7 +457,7 @@ else
 cout << "jP6_GHyJB" << endl;
 }
 cout << O99oiJxe(1086802030, -1204675909, 1903668855) << endl;
-vi6w = Ua0cekU_5 * jY1i;
+
 cout << nm6b47qJcC << endl;
 
 
@@ -638,7 +638,7 @@ case 'a':
 
 break;
 case 'b':
-lK8_Ka3LT = (int)floor(C4F_lcGO);
+
 break;
 case 'c':
 EQbSn_cn0 = O99oiJxe(-359694570, C2b5G115A, 1229347965);
@@ -797,7 +797,7 @@ while (k < 3);
 }
 
 
-j_6n = (int)abs(eg75BJPe6);
+
 switch (Ua0cekU_5)
 {
 case 0:
@@ -810,7 +810,7 @@ case 2:
 
 break;
 case 3:
-j_6n = OHyY6zohFm * 1985745255;
+
 break;
 case 4:
 

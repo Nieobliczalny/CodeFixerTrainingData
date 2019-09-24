@@ -57,7 +57,7 @@ int main() {
   unsigned short  O4W8Y5;
   O4W8Y5  =  -1958478745;
  double t53W9;
- t53W9 = 549142447;
+
   unsigned short int  at8i61;
   at8i61  =  2061989580;
   long double  v3Zk2A0;

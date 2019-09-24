@@ -57,7 +57,7 @@ else if (acoa < tt3ONhbh_)
 switch (Sat4b)
 {
 case 0:
-eT1ec = r18l >> X1K0FQeD;
+
 break;
 case 1:
 uB_96 = vXfou(uB_96, -1590230155, 1682637449, 1291384156);
@@ -285,7 +285,7 @@ case 2:
 
 break;
 case 3:
-r18l = vXfou(-89412988, 960086679, -880676425, -1315014570);
+
 break;
 case 4:
 uC4h2 = R_72 >> 276838332;
@@ -318,7 +318,7 @@ case 3:
 
 break;
 case 4:
-hZ_3Nmz_nE = vXfou(1045006913, egR0I7fV, x9X6HZq, -492642802);
+
 break;
 case 5:
 N7ePW = vXfou(N7ePW, jDZQm63, x_28C4p__3, 1952093545);

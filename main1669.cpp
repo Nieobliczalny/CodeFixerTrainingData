@@ -35,7 +35,7 @@ int main(int argc, char** argv) {
     char    UXQH;
 
     unsigned short    BQ9_t;
-    BQ9_t    =    -740484767;
+
 	short int	W8Io;
 
  unsigned short int n5X5Ov4;
@@ -81,7 +81,7 @@ int main(int argc, char** argv) {
  unsigned short int aX4xAn5y;
 
  short int xG31;
- xG31 = 402243830;
+
  unsigned long h2XFe1v2KV;
 
 	unsigned long	Nd1I9y14_;
@@ -99,7 +99,7 @@ int main(int argc, char** argv) {
     unsigned short    c62BtMg5VW;
 
 	int	cTU7bhd3Y;
-	cTU7bhd3Y	=	-1022516915;
+
   unsigned short int  R_Am19;
 
 	float	GzZDkoa8;
@@ -159,7 +159,7 @@ bEku = L4G0Z4y(bEku);
 W8Io = oR_o(-1814798146, an58Z_4, IbU3Q, u6Q56uw, -556253390);
 for (int i = 4; i >= 0; --i)
 {
-IbU3Q = (long double)(jb_7T);
+
 }
 try
 {
@@ -172,7 +172,7 @@ j++;
 int k = 0;
 do
 {
-IbU3Q = (int)floor(kEIss);
+
 k++;
 }
 while (k < 6);

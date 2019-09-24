@@ -185,7 +185,7 @@ else
 int k = 7;
 do
 {
-x71xs2 = nAzDAkh();
+
 --k;
 }
 while (k >= 0);

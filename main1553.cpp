@@ -25,7 +25,7 @@ int main(void) {
     unsigned long    Z83DAp;
 
 	short	K4YZ;
-	K4YZ	=	-390289310;
+
 	short int	e3Aqne24;
 	e3Aqne24	=	0;
   long double  Ig62pMK;

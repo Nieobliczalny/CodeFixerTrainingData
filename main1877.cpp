@@ -35,7 +35,7 @@ int main()
   long double  X9Y0Q9;
   X9Y0Q9  =  1707750443;
   unsigned char  SO3ea8;
-  SO3ea8  =  -288797962;
+
   long long  LEzHL;
   LEzHL  =  1307857449;
     unsigned char    mJi7;

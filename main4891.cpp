@@ -33,7 +33,7 @@ int main(void) {
 	long long	cI_MaXUQ;
 
 	unsigned long long	KXWb4f6l;
-	KXWb4f6l	=	0;
+
   long  yD0TMd;
   yD0TMd  =  1773221873;
  double d02uB;
@@ -47,7 +47,7 @@ int main(void) {
   long  bs5s_;
 
   short int  OgLZ;
-  OgLZ  =  -32309446;
+
  short int Cw9j_epz;
  Cw9j_epz = -980291404;
     unsigned char    rW_24dL;
@@ -57,7 +57,7 @@ int main(void) {
     unsigned long    bmg6;
     bmg6    =    -1403640708;
     long double    bDH__;
-    bDH__    =    1426080186;
+
 	int	Os8w1;
 
     unsigned long long    uDk3d9;
@@ -80,7 +80,7 @@ case 1:
 
 break;
 case 2:
-bDH__ = (int)floor(d02uB);
+
 break;
 case 3:
 bDH__ = (int)ceil(QQaYGT);
@@ -104,7 +104,7 @@ if (yD0TMd > -545497993)
 }
 else
 {
-bDH__ = (int)ceil(d02uB);
+
 }
 
 {

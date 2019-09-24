@@ -26,7 +26,7 @@ int main()
 
  u27pY9yh = 1429215039;
  qU0B2 = -1518304221;
- Lw1AR2F = -1868751279;
+
  W_5Zw = -1156150488;
  MVNZvb6yM = -1631663131;
  NhV2j = 316365954;
@@ -183,7 +183,7 @@ VK3ZHy0 = hjw4_7H2 >> 2006643667;
 }
 else if (W_5Zw != NhV2j)
 {
-EAYB42 = pNeChF6_5_();
+
 }
 else
 {
@@ -298,7 +298,7 @@ else
 int j = 0;
 do
 {
-f8hP1 = (int)abs(eRr6p6);
+
 j++;
 }
 while (j < 6);
@@ -316,7 +316,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-f8hP1 = P3Q__();
+
 break;
 case 'd':
 case 'D':
@@ -351,7 +351,7 @@ case 'c':
 
 break;
 case 'd':
-rzP39z_2fn ^= 304683891;
+
 break;
 default:
 

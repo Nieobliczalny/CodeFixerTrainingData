@@ -543,7 +543,7 @@ try
 {
 try
 {
-oUE03q_ = okg5(424861089, Jyz7Nz, N4H1oAS, -1754073157, B4rMfv05);
+
 }
 catch (int& errorCode)
 {

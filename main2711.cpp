@@ -505,7 +505,7 @@ default:
 break;
 }
 
-R6ee__B /= XXqh9sls8;
+
 switch (jlb9)
 {
 case 0:
@@ -524,7 +524,7 @@ case 4:
 c6X_0FP = sJcGQbZ80(JqpHLYq);
 break;
 case 5:
-IUCF7CoJn = (int)ceil(bLKbw917);
+
 break;
 case 6:
 PBdzCCs = (int)abs(i_1_My00);

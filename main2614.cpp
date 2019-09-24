@@ -498,7 +498,7 @@ l2byc |= Lfea3N1S;
 }
 else
 {
-R72u__VHb = (int)abs(Ude7m5Te);
+
 }
 }
 }
@@ -554,7 +554,7 @@ do
 {
 if (((l0k6 > -829709687) && (W0703065z == ODDj8_)) && (EPU3))
 {
-R72u__VHb = Pyy_ * tq9x;
+
 }
 j++;
 }

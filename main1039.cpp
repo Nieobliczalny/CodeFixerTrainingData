@@ -107,7 +107,7 @@ EX7L ^= m0G5DU4Q;
 switch (P41e35Y)
 {
 case 0:
-oG_RuG = (int)abs(vUEdR);
+
 break;
 case 1:
 
@@ -126,7 +126,7 @@ while (i < 1)
 {
 if ((h_7U_L == 1457779549) || (P41e35Y == -426922409))
 {
-qx8l16_FK = wp6wt60K6();
+
 }
 i++;
 }
@@ -158,7 +158,7 @@ int j = 9;
 do
 {
 j--;
-tq_jKbp6Ei = j_W3kd0D_ >> YB1MC1;
+
 }
 while (j >= 0);
 }
@@ -177,7 +177,7 @@ case 'c':
 
 break;
 default:
-RF86B3 = EV_8lhu40(Ylb5MjlpE, tq_jKbp6Ei, eGx5J1YV, -344560757) & EHrn8;
+
 break;
 }
 }
@@ -191,7 +191,7 @@ else
 {
 for (int k = 0; k < 5; ++k)
 {
-k57N = wp6wt60K6();
+
 }
 }
 }

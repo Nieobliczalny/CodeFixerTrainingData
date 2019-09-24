@@ -29,7 +29,7 @@ int main()
   unsigned char  M_vWB1AK;
 
     unsigned short    f8B80ABQO;
-    f8B80ABQO    =    -1913116870;
+
 	short	x5VmQTn4f1;
 	x5VmQTn4f1	=	-262787771;
   long double  y64A8cjY;
@@ -41,7 +41,7 @@ int main()
  long double E78eKQ;
 
     unsigned char    w0J94klF_5;
-    w0J94klF_5    =    -1810626280;
+
     unsigned int    M_mo9;
     M_mo9    =    716050220;
  unsigned long long Zm7soqz48J;
@@ -53,7 +53,7 @@ int main()
  double ruy3a7WDc;
 
     float    h5v1;
-    h5v1    =    -1026844533;
+
     short int    oim5yIT;
 
 	unsigned long	f7S6Zz;
@@ -97,7 +97,7 @@ int main()
     unsigned char    MfVC2Vc;
 
   unsigned char  HH9iERE;
-  HH9iERE  =  1858322438;
+
   unsigned long long  Ymqu4;
   Ymqu4  =  1351690941;
  unsigned long long rtNg;
@@ -124,7 +124,7 @@ int k = 10;
 do
 {
 --k;
-h5v1 = (int)abs(Ux8pYv);
+
 }
 while (k >= 0);
 }

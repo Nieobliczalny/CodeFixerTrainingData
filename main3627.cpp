@@ -586,7 +586,7 @@ case 'F':
 break;
 case 'g':
 case 'G':
-O_6h /= 2088512093;
+
 break;
 case 'h':
 case 'H':

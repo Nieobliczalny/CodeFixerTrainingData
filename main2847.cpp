@@ -45,7 +45,7 @@ int main(void)
  long double V84uhB5G;
  V84uhB5G = -775709772;
   short  v8Ch0THX;
-  v8Ch0THX  =  -748638724;
+
     short int    nlLhB;
     nlLhB    =    1544789720;
 	float	Aw_vqw;
@@ -91,7 +91,7 @@ int main(void)
  unsigned long long Zan_;
  Zan_ = 0;
     float    IE97k;
-    IE97k    =    693481632;
+
   char  qJzi4LEI;
   qJzi4LEI  =  199876548;
  unsigned long f81G9mi_Td;
@@ -130,7 +130,7 @@ int i = 0;
 while (i < 9)
 {
 ++i;
-IE97k = (int)floor(r4PEz);
+
 }
 }
 
@@ -148,7 +148,7 @@ while (j < 8)
 j++;
 if (LEI4oJR6V != njMHR9EE8)
 {
-IE97k = (int)floor(QH8MK);
+
 }
 else if ((Qi0L14Z) && (vzCGzGlv == IHgDX))
 {
@@ -275,7 +275,7 @@ case 3:
 
 break;
 case 4:
-Wfh4 = s_AGB2ODG(-158439463, zCwIhZ, V84uhB5G, chqDB);
+
 break;
 case 5:
 dN05JnA6Gk = nIVpQ53(Nl_Tyv55oA, -188452613, 595600392, -1300151580, -183440089);

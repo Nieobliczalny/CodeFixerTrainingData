@@ -720,7 +720,7 @@ if (Zwy6Z >= L4jM_f)
 {
 if (ItcOkoHwSk < -272385062)
 {
-lw6t5rb3KC = (int)ceil(aV6F98G9W);
+
 }
 else if (Zwy6Z != 1146593756)
 {

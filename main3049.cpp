@@ -37,7 +37,7 @@ int main(void) {
 	unsigned long	icdK20;
 
  float Wf3R;
- Wf3R = 1111876678;
+
     float    I_pseO;
     I_pseO    =    2088819753;
     long long    KuXb0Xe_Dd;
@@ -49,7 +49,7 @@ int main(void) {
     unsigned short    DOW88;
 
     unsigned int    GdOmC_F;
-    GdOmC_F    =    1730647957;
+
  unsigned int Vo34kFB0n_;
  Vo34kFB0n_ = -846690217;
   unsigned int  x_Pzkxt8;
@@ -59,7 +59,7 @@ int main(void) {
   unsigned int  GVrX;
 
   unsigned long  DQEwqYii6_;
-  DQEwqYii6_  =  -1109893761;
+
  unsigned short mrkucV7;
  mrkucV7 = 248591415;
   long long  xqTXT3d;
@@ -111,7 +111,7 @@ int main(void) {
  unsigned long HQEdq;
 
 	unsigned short int	mw5x;
-	mw5x	=	-1157205940;
+
     unsigned char    XBOB_;
     XBOB_    =    327172546;
 	double	XHwBNqn18;

@@ -66,7 +66,7 @@ int main(void)
 	long double	dxh4;
 	dxh4	=	573398445;
  long N6IIosZ;
- N6IIosZ = -1460533411;
+
   float  NwknT72536;
 
     long    iNpHN2fSlv;
@@ -228,7 +228,7 @@ case 4:
 O_53 = (int)ceil(PuSW13G);
 break;
 case 5:
-N6IIosZ = (int)abs(wzVkI2iNh);
+
 break;
 case 6:
 

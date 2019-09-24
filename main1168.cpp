@@ -37,7 +37,7 @@ int main(int argc, char** argv)
   lmhIai  =  -1541599370;
   VA7hj5FV6B  =  -690130571;
   frMDKB  =  1378337901;
-  cV0F8j24  =  -218554328;
+
   l5HuT  =  -1509188249;
   R4z9Xr  =  1881780551;
   ha6_pyhnag  =  840780177;
@@ -71,7 +71,7 @@ int main(int argc, char** argv)
 
   e92Ge  =  -1831459382;
   HA1a47WnW  =  -656551945;
-  sOIg  =  1981529628;
+
   Srt9  =  -264936888;
   jLTmG6n  =  -1757449753;
   q56aOUu  =  555060516;
@@ -270,7 +270,7 @@ else if (wf2BQA3g & -1704564426)
 }
 else
 {
-eqRUVY = (int)floor(GV_XK);
+
 }
 }
 else if ((VwTZSAP == 385308194) && ((ha6_pyhnag == lqU31IA5FB) || (I_6H3 == 1970524499)))

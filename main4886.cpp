@@ -220,7 +220,7 @@ case 4:
 
 break;
 case 5:
-dkNY1SyPo = (int)abs(Mv_KSns);
+
 break;
 case 6:
 

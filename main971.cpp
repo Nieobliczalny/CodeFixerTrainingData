@@ -20,7 +20,7 @@ int main(int argc, char** argv)
  int G2_5kTk287;
 
     float    L163;
-    L163    =    1272314974;
+
   unsigned int  bl4964BfX;
   bl4964BfX  =  304962211;
  unsigned short OM_3f;
@@ -62,7 +62,7 @@ int main(int argc, char** argv)
     long long    J0miLHz8j7;
     J0miLHz8j7    =    -2094024235;
  long double W018E;
- W018E = 572416217;
+
     float    aX11_FX7z;
     aX11_FX7z    =    -1855504504;
   unsigned long  RdrZszuxC;
@@ -84,7 +84,7 @@ int main(int argc, char** argv)
  unsigned short int CAfHW676;
  CAfHW676 = -1492588178;
   unsigned char  B4qI;
-  B4qI  =  726371525;
+
 	long	Dj5kGkt;
 	Dj5kGkt	=	1980535596;
  int zTGJl;

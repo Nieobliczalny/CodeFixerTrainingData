@@ -126,7 +126,7 @@ case 'c':
 
 break;
 case 'd':
-TA3FD = XYtPM();
+
 break;
 default:
 Z34_57d = zWpFO8qp(-1737881666, 1242513078);
@@ -166,7 +166,7 @@ case 2:
 
 break;
 case 3:
-MA7U4zC = (int)floor(wY32Wt09b);
+
 break;
 case 4:
 

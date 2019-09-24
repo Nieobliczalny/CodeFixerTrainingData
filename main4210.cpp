@@ -109,7 +109,7 @@ if (wJ03uV & EhZOEQ79)
 }
 else
 {
-wi5q = PifM3gt(1488404686, -1917845635, ROatK829);
+
 }
 }
 }
@@ -141,7 +141,7 @@ case 'c':
 
 break;
 case 'd':
-VmPoT97 = eiYNHawf8 % 804890043;
+
 break;
 case 'e':
 WsPtMZ58 = OrR8Hm8Wp4 - 1267291131;

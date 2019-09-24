@@ -24,7 +24,7 @@ int main()
   short  abX94s799K,  E8rHl5m5;
     abX94s799K  =  E8rHl5m5  =  0;
 
-Oec0vzCbo = 2075447508 / LKXLnr_Cy(1697210738, -2117428914, a_Ua67Rc66, 877480763, yB6718);
+
 
 if ((nLme69R & CCW012oZ) || (O2PWK19jb))
 {
@@ -126,7 +126,7 @@ case 1:
 
 break;
 case 2:
-CYEs2i1CR8 = ZIY67_iI0x >> 1067404646;
+
 break;
 case 3:
 abX94s799K = LKXLnr_Cy(Zjw5B_Vp69, 1142477299, 1079332105, 1421604550, a_Ua67Rc66);

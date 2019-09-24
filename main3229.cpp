@@ -81,7 +81,7 @@ try
 {
 if (((dJ0eYK7 < -244562912) && (voyAHec == 91078312)) && (TuJVjMtC & JTKO90))
 {
-HZqeD_th = (int)ceil(e67ugxb);
+
 }
 else
 {
@@ -202,7 +202,7 @@ case 5:
 
 break;
 case 6:
-S6N_I3XPJ *= 472087133;
+
 break;
 case 7:
 
@@ -309,7 +309,7 @@ case 5:
 
 break;
 case 6:
-gE7w2 = (int)ceil(e67ugxb);
+
 break;
 case 7:
 

@@ -94,7 +94,7 @@ int main() {
   double  ZNdNIYm1_O;
   ZNdNIYm1_O  =  1180532735;
  short bEYQdT;
- bEYQdT = -1155910828;
+
     unsigned long    F_3q__9f;
     F_3q__9f    =    747653401;
   unsigned int  svoXUP61Q;
@@ -124,7 +124,7 @@ int main() {
     unsigned short int    AHC8;
     AHC8    =    1730945469;
   float  tC9uaP9BCQ;
-  tC9uaP9BCQ  =  -2128821564;
+
 	long	zt4tt58;
 
   long  LMh_;

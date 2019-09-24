@@ -304,7 +304,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-IrRCco = B791qzS6t / 2073228007;
+
 break;
 case 'f':
 case 'F':
@@ -372,7 +372,7 @@ case 3:
 
 break;
 case 4:
-L15A13d = (int)ceil(EZ8Zxm6Z);
+
 break;
 }
 

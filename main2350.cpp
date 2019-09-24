@@ -27,7 +27,7 @@ int main(void) {
     s4Bz    =    -2054271385;
 
     aVX8eCW    =    -1411634027;
-    WWO25y    =    -741298095;
+
     tuX5tH    =    -1694481716;
     d37RIW3Slj    =    -1911342531;
     D5xhBmP1    =    1404965725;
@@ -188,7 +188,7 @@ case 'c':
 
 break;
 case 'd':
-Oz5sev /= 2132930208;
+
 break;
 case 'e':
 

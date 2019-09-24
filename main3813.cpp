@@ -358,7 +358,7 @@ case 'c':
 
 break;
 case 'd':
-u1uub = (int)floor(TNW_CE);
+
 break;
 case 'e':
 

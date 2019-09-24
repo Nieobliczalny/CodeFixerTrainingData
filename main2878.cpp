@@ -109,7 +109,7 @@ int main(void) {
 	long long	QdURW5c9;
 	QdURW5c9	=	297272694;
  long long RZK12yO;
- RZK12yO = -2112590096;
+
   unsigned int  XNe94ecSP2;
   XNe94ecSP2  =  476315621;
     unsigned long    ybp3Ioe_G;
@@ -575,7 +575,7 @@ case 'b':
 
 break;
 case 'c':
-SIai8dqF6F = BOPP(-1254699278, -1962529960);
+
 break;
 case 'd':
 SIai8dqF6F = (int)floor(eLl6H4);
@@ -622,7 +622,7 @@ try
 {
 try
 {
-UX0_p = IaxGvY2(UX0_p, H18g, uxy2, JkI8bS_, usM3q_uuK5);
+
 }
 catch (int& errorCode)
 {

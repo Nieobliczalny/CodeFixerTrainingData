@@ -330,7 +330,7 @@ case 'f':
 
 break;
 case 'g':
-RFhof9_ = (int)abs(K8P2M);
+
 break;
 case 'h':
 BGQ7h166 += 1186961406;

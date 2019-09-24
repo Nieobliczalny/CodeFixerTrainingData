@@ -36,7 +36,7 @@ int main()
     unsigned long    nCKWYq;
 
 	char	zDm38R;
-	zDm38R	=	1845326589;
+
   long long  tu9_LzDae;
   tu9_LzDae  =  -2050193972;
     unsigned char    L__H0F;
@@ -70,7 +70,7 @@ int main()
 
 if ((R8220c / cz_PTz2t) > -696516670)
 {
-B0OVm = q6O3 / d225V4I2W9;
+
 }
 if (((uIyObsgg < vd_xt) || (L__H0F <= vd_xt)) && ((MJvHt8 & ZlDf2LacA) && (d225V4I2W9 >= 2136548113)))
 {

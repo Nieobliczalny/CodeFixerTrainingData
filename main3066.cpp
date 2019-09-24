@@ -54,7 +54,7 @@ int main(int argc, char** argv)
 	long long	it1UmK5ou9;
 
  unsigned short int nb0894m8;
- nb0894m8 = 0;
+
  char dorI2J;
  dorI2J = -875935977;
  float sXt__p;
@@ -102,7 +102,7 @@ int main(int argc, char** argv)
     unsigned short int    Pez5O79;
     Pez5O79    =    335475805;
  unsigned short ouUNAZUll;
- ouUNAZUll = 276838493;
+
 	unsigned long long	E057mc;
 	E057mc	=	-1182343839;
  char M8e57;
@@ -192,7 +192,7 @@ int main(int argc, char** argv)
     int    lLfvrrU;
     lLfvrrU    =    2133283934;
     double    FJDbh57W;
-    FJDbh57W    =    2037471210;
+
 
 DZlC2V = (long double)(K7OC1582SW);
 

@@ -79,7 +79,7 @@ int main(void)
 	float	HQ_nG4_j;
 	HQ_nG4_j	=	1493599392;
 	double	X8D7wrf;
-	X8D7wrf	=	847158094;
+
   long  mFWv_t;
   mFWv_t  =  -1016954823;
     short int    K1r__S6Hl;
@@ -155,7 +155,7 @@ int main(void)
  unsigned short int bxuCf1;
  bxuCf1 = 1173452166;
 	float	dSR9n3;
-	dSR9n3	=	-686263800;
+
  long long Bx5gEk;
 
   unsigned short int  JLoRZ57_;
@@ -167,7 +167,7 @@ int main(void)
  short int NAQ2d14iW;
 
 	long double	E0v3rhF1Z5;
-	E0v3rhF1Z5	=	-396471906;
+
 	long	h_hXyQBm79;
 	h_hXyQBm79	=	369815505;
 	int	nj_cBjWc_G;
@@ -183,7 +183,7 @@ int main(void)
 	unsigned long	NM83s6;
 
   int  SD0021LTpN;
-  SD0021LTpN  =  1438547910;
+
  unsigned long long tvIxHi;
  tvIxHi = -2014701116;
 	unsigned long	YBXK4B5P;
@@ -201,7 +201,7 @@ int main(void)
   double  G5g6N1Tt;
 
     float    u2G76;
-    u2G76    =    1044591995;
+
 	unsigned short	Mo5lp7FScQ;
 	Mo5lp7FScQ	=	-2146214858;
  int JftiIm;
@@ -336,7 +336,7 @@ catch (int& errorCode)
 {
 X9i85w2b = l2IXWxp(Jrsb, -589268691);
 }
-I91T4U = f_K5(-752179428, 1086048977, FZOWh, K1r__S6Hl);
+
 
 
 for (int i = 8; i >= 0; --i)
@@ -475,7 +475,7 @@ case 2:
 
 break;
 case 3:
-K1r__S6Hl = (int)abs(u0fx);
+
 break;
 case 4:
 

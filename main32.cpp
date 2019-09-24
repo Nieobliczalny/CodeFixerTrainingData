@@ -34,7 +34,7 @@ int main(void)
  hkVuw = -788728770;
  qZXp0ik = -1807355400;
  ROYpp = -999686422;
- L_fFh643 = -1577665158;
+
  U8CPw = 648224670;
  Y5C6 = 2107782700;
  oUtB5BSh0 = -1160790797;
@@ -140,7 +140,7 @@ case 3:
 EGR0du_ = (int)abs(ipd4EYOBG);
 break;
 case 4:
-U75rk32_u = oUtB5BSh0 / 691342409;
+
 break;
 case 5:
 GUfoOQ4 = e93ls - HkbSOzpqC;

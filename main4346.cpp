@@ -267,7 +267,7 @@ switch (LpNoA72)
 {
 case 'a':
 case 'A':
-q6Lc74VKWE = SerGkTS(q6Lc74VKWE);
+
 break;
 case 'b':
 case 'B':

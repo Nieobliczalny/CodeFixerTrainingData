@@ -22,7 +22,7 @@ int main(int argc, char** argv) {
   TJ1P5h  =  901240030;
   bz_Va41w3  =  -718674405;
   R0_I0c  =  -857351980;
-  i8s_L  =  1936150573;
+
   li0ubs2Aqd  =  1897478655;
   TZJ2gaz  =  -1697828960;
   r44n  =  -307759377;
@@ -39,7 +39,7 @@ int main(int argc, char** argv) {
   zhiB051  =  -1242822109;
   SBfL8  =  1328446628;
   U395T  =  1277278420;
-  GqW4  =  268060282;
+
   L1kYP0  =  446607198;
   LONj0EWrZ  =  1810226433;
   fQ8fHf18  =  -598069212;
@@ -162,7 +162,7 @@ break;
 }
 else if (B8eBy6 <= 1505849785)
 {
-jQ1gi = (unsigned int)(nYv8);
+
 }
 else
 {
@@ -178,7 +178,7 @@ cout << bHKq_18BYY(Lt3858_g) << LONj0EWrZ << eoY5r8Tp << bHKq_18BYY(-1735399264)
 
 if (((w7zs <= -1809269727) && (nYv8 <= cSZN)) || (w7zs < -2144017507))
 {
-VcwP_R = K5Ib(-1446154087, -72292036, A93hn, 1187216136, ksQ560VT44);
+
 }
 else
 {
@@ -288,7 +288,7 @@ case 'd':
 
 break;
 case 'e':
-VcwP_R = K5Ib(eoY5r8Tp, BrMLqZ_H, N8O54h, IB05zG, CB89);
+
 break;
 case 'f':
 AdeqQ = K5Ib(r44n, -2045948172, n0140p_Y9, MT_cdv, HudRz9r4);

@@ -251,7 +251,7 @@ break;
 }
 
 
-rp5HU = (long double)(q859ra376Q);
+
 
 
 tQAOWxB %= qK_36_cw;

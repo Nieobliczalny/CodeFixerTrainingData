@@ -67,7 +67,7 @@ int main(void) {
 
  JIS9 = 2116736668;
  bN_3RuscHa = 908742241;
- jd20Gp9P3 = 2006780794;
+
  a_G6iH = -356834761;
  Ckn9vx3 = 1503169756;
 
@@ -101,7 +101,7 @@ int main(void) {
  h2z5Y5T = 2020711855;
 
  Dc22qSO = 1389363449;
- zoTBKj9 = 1242380749;
+
  AV99 = -1460417249;
 
  UMXi5F22Yk = -507222605;
@@ -485,7 +485,7 @@ case 5:
 
 break;
 case 6:
-h2z5Y5T = l92uAX188 / 103381570;
+
 break;
 case 7:
 
@@ -554,7 +554,7 @@ case 'c':
 
 break;
 case 'd':
-C8Y8kYycy %= Or_G04E;
+
 break;
 case 'e':
 
@@ -566,7 +566,7 @@ case 'g':
 
 break;
 case 'h':
-PKkzL_79X5 = pn_d(-1287275896);
+
 break;
 default:
 

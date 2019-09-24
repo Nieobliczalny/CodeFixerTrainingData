@@ -358,7 +358,7 @@ case 'i':
 
 break;
 case 'j':
-C8vkDt = (int)ceil(AGZSV);
+
 break;
 }
 }
@@ -414,7 +414,7 @@ case 3:
 
 break;
 case 4:
-AGZSV = (int)ceil(b5y86zvvya);
+
 break;
 }
 if (XasfQ)
@@ -441,7 +441,7 @@ case 'd':
 
 break;
 case 'e':
-x5JskLzxB1 = (int)floor(b5y86zvvya);
+
 break;
 case 'f':
 

@@ -69,7 +69,7 @@ int main(void)
 	unsigned short	ob__Pt32_A;
 	ob__Pt32_A	=	1010001878;
  char SM7g2;
- SM7g2 = 862506732;
+
  unsigned char v2TUoQFOt_;
  v2TUoQFOt_ = 138657270;
     long double    DC0w;
@@ -93,7 +93,7 @@ int main(void)
   short int  SJ6visJy;
   SJ6visJy  =  -756749162;
   int  Qp_g;
-  Qp_g  =  339658132;
+
   unsigned int  vKjTMXC;
   vKjTMXC  =  -580321668;
  unsigned int h4nQhT7;
@@ -301,7 +301,7 @@ case 'f':
 t9Qx = jqg35q / 1685610756;
 break;
 case 'g':
-SM7g2 = (int)abs(SJ6visJy);
+
 break;
 case 'h':
 GTl09hbkRa = (int)abs(q7_D);
@@ -648,7 +648,7 @@ case 'e':
 qJjZ4ok = S3t7n2b8w(qJjZ4ok, -1577610599, xa420);
 break;
 case 'f':
-DC0w = (int)ceil(URIcR_vCm);
+
 break;
 case 'g':
 
@@ -685,7 +685,7 @@ int k = 7;
 do
 {
 --k;
-DC0w = (int)floor(URIcR_vCm);
+
 }
 while (k >= 0);
 }
@@ -705,7 +705,7 @@ case 'a':
 
 break;
 case 'b':
-j_c5W0dBd3 = oJbu48_M0(d6nuJs) & R4HB0I1;
+
 break;
 }
 try

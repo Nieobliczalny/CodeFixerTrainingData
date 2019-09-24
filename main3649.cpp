@@ -54,7 +54,7 @@ int main()
   JAfke9i2  =  1466845833;
 
   Sp9d_8ZTB  =  484741830;
-  N3L0o4Gx1  =  -681216796;
+
   YdLe41zF  =  -749280012;
   K1U7  =  1009143151;
   VAfz8_l4  =  1215892255;
@@ -105,7 +105,7 @@ case 'b':
 
 break;
 case 'c':
-NTLGHoz *= QSL2Nb;
+
 break;
 case 'd':
 ELPk90D3_9 = W3LE8Sv4D(la0Quo8, -544236758, -2090744790, -1497988768);

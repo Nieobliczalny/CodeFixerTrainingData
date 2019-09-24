@@ -76,7 +76,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-CMSd7UI = (int)abs(vW6iHS);
+
 break;
 case 'c':
 case 'C':
@@ -124,7 +124,7 @@ dYC293AH_J = (unsigned short int)(UGH2xLU8E_);
 }
 }
 
-SK00g /= 1051676703;
+
 
 LZhINVG %= 847989181;
 
@@ -147,7 +147,7 @@ case 2:
 
 break;
 case 3:
-CMSd7UI = h03jk1yb64(RR_8, LZhINVG);
+
 break;
 case 4:
 CMSd7UI = h03jk1yb64(1817374815, svvK0_074);

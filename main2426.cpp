@@ -261,7 +261,7 @@ case 5:
 
 break;
 case 6:
-Xe8xnVq = hAWKOn_g();
+
 break;
 }
 

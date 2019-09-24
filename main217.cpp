@@ -58,7 +58,7 @@ int main()
  short DEjlII_X;
  DEjlII_X = -2087384362;
     unsigned short int    u852OCq;
-    u852OCq    =    -1048963298;
+
 	unsigned short int	lqH_bbX;
 	lqH_bbX	=	-1844380515;
  long FgB7;
@@ -82,7 +82,7 @@ int main()
     float    x3RVm;
     x3RVm    =    756809532;
 	unsigned long long	e44J4Em;
-	e44J4Em	=	-1119498336;
+
     unsigned long long    Ha78Ogn2;
     Ha78Ogn2    =    -1018192251;
     long    L8oKg7;
@@ -132,7 +132,7 @@ int main()
   float  WRh02EVQyT;
   WRh02EVQyT  =  -383448847;
   unsigned int  WED5;
-  WED5  =  972021551;
+
   char  HATX;
 
     unsigned int    Gmo3z;

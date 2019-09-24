@@ -26,7 +26,7 @@ int main(int argc, char** argv) {
 	yuHIE2	=	-711752603;
 	m_cg2f95	=	1503669214;
 
-	G87s78oTO	=	-1741606859;
+
 	QdOq	=	1196525244;
 	q9AjDT8Lyi	=	863594773;
 	tkxNuT	=	1555238319;
@@ -89,7 +89,7 @@ for (int i = 0; i < 1; i++)
 
 }
 
-hV6_S5 = m_cg2f95 / SPY_hd6d;
+
 {
 int i = 0;
 do

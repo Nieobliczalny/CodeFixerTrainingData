@@ -27,7 +27,7 @@ int main(int argc, char** argv) {
 	long	Zi_44wMO9u;
 
 	unsigned short	KpJ4b_fW;
-	KpJ4b_fW	=	1088129297;
+
 	long	NOHZY0;
 	NOHZY0	=	-87238084;
   short  WiyC;
@@ -41,7 +41,7 @@ int main(int argc, char** argv) {
 	short	n1tAbY8;
 
   unsigned long long  iHq984;
-  iHq984  =  -143301001;
+
     unsigned long    xXRhp1_Oe;
 
     int    kGspE;
@@ -51,7 +51,7 @@ int main(int argc, char** argv) {
 	short	sH0s4z;
 	sH0s4z	=	-900926508;
     unsigned long long    F6e71m;
-    F6e71m    =    1129184329;
+
  short K41v4_;
  K41v4_ = -1299586201;
 	unsigned long	P31YOjsj;
@@ -61,7 +61,7 @@ int main(int argc, char** argv) {
 	unsigned int	TONwBzd;
 
  int g9X_;
- g9X_ = 0;
+
  short int N_56U;
  N_56U = -429542563;
     float    gBNOk;
@@ -77,7 +77,7 @@ int main(int argc, char** argv) {
   short  QBm9m12;
 
   unsigned char  a3U274AFt;
-  a3U274AFt  =  -1321007663;
+
  unsigned int LhaDq;
  LhaDq = -199989948;
   unsigned int  IFcCDii;
@@ -93,7 +93,7 @@ int main(int argc, char** argv) {
   long double  YA0_eouuzE;
 
   unsigned short int  Orb4Y55;
-  Orb4Y55  =  2015436203;
+
   unsigned int  RSs2ZXDxC;
   RSs2ZXDxC  =  -215663319;
     unsigned char    N8kB_E;
@@ -103,7 +103,7 @@ int main(int argc, char** argv) {
  short v5c_9;
 
 	unsigned long long	VZ83Lx;
-	VZ83Lx	=	0;
+
   unsigned short  N4h224YZ_;
   N4h224YZ_  =  -411920332;
     unsigned int    rJZ5kc3XC1;
@@ -127,7 +127,7 @@ int main(int argc, char** argv) {
   unsigned short int  tacQ6J5mpP;
 
  short int XMmMD339n;
- XMmMD339n = 46736161;
+
 	char	mt9l_5;
 	mt9l_5	=	754519096;
 	short int	Mj450_7m9;
@@ -149,7 +149,7 @@ int main(int argc, char** argv) {
 	unsigned long	mq5aZJ8r;
 
 	unsigned long long	bpYAX6_;
-	bpYAX6_	=	-1189141147;
+
   short  ZFDR7r9rZm;
   ZFDR7r9rZm  =  1913072252;
 	short int	L0j8;
@@ -163,7 +163,7 @@ int main(int argc, char** argv) {
  short tuQ_kc;
 
     unsigned short int    B3014ks;
-    B3014ks    =    -405385257;
+
     long long    knnz78_;
     knnz78_    =    975224490;
  unsigned short E28z;
@@ -175,7 +175,7 @@ int main(int argc, char** argv) {
   unsigned long  c40N7;
 
  long double U1E318Z;
- U1E318Z = 1590085035;
+
 	unsigned long long	Zk1r;
 	Zk1r	=	2074963677;
 

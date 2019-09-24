@@ -357,7 +357,7 @@ case 2:
 
 break;
 case 3:
-z_51Q *= 1423800603;
+
 break;
 case 4:
 

@@ -118,7 +118,7 @@ else
 {
 if ((nxDr3U2zO != -1291344371) && (B536K != 1670426593))
 {
-n5VO = (float)(q473QoBTp);
+
 }
 else
 {

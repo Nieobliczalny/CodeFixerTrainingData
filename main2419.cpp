@@ -36,7 +36,7 @@ case 'b':
 
 break;
 case 'c':
-eVjQnBJ0E = nR5r8 - 213462407;
+
 break;
 case 'd':
 I4tu8ht = p2143(-242315854);

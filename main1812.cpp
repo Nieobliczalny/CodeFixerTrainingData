@@ -272,7 +272,7 @@ try
 {
 for (int j = 0; j < 3; ++j)
 {
-dicVr = (int)ceil(xtY01vUk);
+
 }
 }
 catch (int& errorCode)

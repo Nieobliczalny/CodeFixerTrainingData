@@ -86,7 +86,7 @@ case 'a':
 
 break;
 case 'b':
-UPh_7r = WA5m0(UPh_7r, -917104090, I63d5, ItnlMQm4E);
+
 break;
 }
 }
@@ -276,7 +276,7 @@ break;
 }
 cout << WA5m0(e051d68, jVF5ncB, 977712739, j2ao_) << uoV5w(e051d68) << j2ao_ << endl;
 
-geY4o = Jd0hKE / mv7xjLM;
+
 aj_gP = (int)abs(aWq7);
 if (i1gxDA4deQ == 1760271927)
 {
@@ -355,7 +355,7 @@ case 5:
 
 break;
 case 6:
-UPh_7r = t_33cWh0 & 1223314627;
+
 break;
 case 7:
 l259cm_ = mPQtQY_h2Z();

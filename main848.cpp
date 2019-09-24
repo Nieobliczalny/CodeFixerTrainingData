@@ -36,7 +36,7 @@ int main(int argc, char** argv) {
  unsigned short int N7h9vg_;
  N7h9vg_ = -1850440085;
 	float	mK6cNrnj;
-	mK6cNrnj	=	-778364215;
+
     unsigned int    I0mK9;
 
   long double  yZNUiHg3;
@@ -54,7 +54,7 @@ int main(int argc, char** argv) {
  unsigned short Ywe1;
 
  unsigned long evs_IEDpXw;
- evs_IEDpXw = 422441557;
+
     short int    PsY8sZg1;
     PsY8sZg1    =    1323108117;
 	int	E9aW8yFZT;
@@ -66,7 +66,7 @@ int main(int argc, char** argv) {
  unsigned short h1oja7Z;
  h1oja7Z = 1556576551;
     unsigned int    rBB9;
-    rBB9    =    -1828497009;
+
 	unsigned short	j3A7XSiGH;
 
   char  mX0_;
@@ -76,7 +76,7 @@ int main(int argc, char** argv) {
     int    x7zU0;
     x7zU0    =    2055162959;
     long double    hKPI;
-    hKPI    =    -1863950670;
+
   unsigned long  I0i7DfeU6;
 
 	int	Ma25QPjL8;
@@ -86,7 +86,7 @@ int main(int argc, char** argv) {
 	unsigned long long	R6ukw;
 	R6ukw	=	-979095741;
   unsigned int  A0e_m1_;
-  A0e_m1_  =  -1851626172;
+
 	unsigned long long	co30Zl;
 	co30Zl	=	24124680;
 	double	V_cSt;
@@ -98,7 +98,7 @@ int main(int argc, char** argv) {
   long long  i2W1;
 
   float  LkBp;
-  LkBp  =  -1706850606;
+
     unsigned char    Au2m7;
     Au2m7    =    -714423868;
 	unsigned short int	iqW6Jhl4;
@@ -110,7 +110,7 @@ int main(int argc, char** argv) {
  unsigned char T_s5UZ88Sh;
 
   unsigned long  GMYPY05P_p;
-  GMYPY05P_p  =  -202450178;
+
     unsigned short    A_mNb1_P;
     A_mNb1_P    =    -1718421992;
  long double fKR63Aa75;
@@ -130,7 +130,7 @@ int main(int argc, char** argv) {
     long double    PioI7xcGJz;
 
  long q34kyQR;
- q34kyQR = -597873472;
+
  short int CErbc63_;
 
   long long  wH5C3Y98p;
@@ -140,7 +140,7 @@ int main(int argc, char** argv) {
 	short	NA5lK2ma8N;
 
   long  h7zf351;
-  h7zf351  =  1884196960;
+
 	unsigned long long	RhIUEfGj5K;
 
 	unsigned char	RfUI_yNNS;
@@ -185,7 +185,7 @@ if (A_mNb1_P)
 {
 try
 {
-yZNUiHg3 = (int)ceil(F2otP9ffaM);
+
 }
 catch (int& errorCode)
 {

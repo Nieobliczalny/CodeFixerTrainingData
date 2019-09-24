@@ -314,7 +314,7 @@ if (((ttX3 & -37546540) && (ir6_U)) || (HFFT >= -897495187))
 {
 if (abMJdDYn & Zxe0wPf)
 {
-l0LP34 = (int)ceil(s93Sr4SFZo);
+
 }
 else if (ttX3 & 1119346266)
 {
@@ -565,7 +565,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-T3WH = (int)abs(y2zqEc);
+
 break;
 case 'c':
 case 'C':

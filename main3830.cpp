@@ -506,7 +506,7 @@ else if (ohZ6joRAe >= Y_07TH)
 {
 try
 {
-Im9s7Tj <<= 2006285437;
+
 }
 catch (int& errorCode)
 {
@@ -612,7 +612,7 @@ wmey7qbV8 *= 616605258;
 break;
 case 'f':
 case 'F':
-Im9s7Tj = q6WV2(Im9s7Tj, -967987390, x4GbVi8GAR, y5dR7Kkf, vfnwd);
+
 break;
 case 'g':
 case 'G':

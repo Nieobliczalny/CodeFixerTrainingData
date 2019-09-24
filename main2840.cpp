@@ -171,7 +171,7 @@ else
 {
 try
 {
-J32hNv = (short)(Wesszrc7);
+
 }
 catch (int& errorCode)
 {

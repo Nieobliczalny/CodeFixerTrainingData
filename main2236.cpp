@@ -110,7 +110,7 @@ I3A_hO = MmxAp(I3A_hO, s82x8rTf, wr3a_D2M);
 break;
 case 'b':
 case 'B':
-s82x8rTf = (int)abs(ZCv8Y6K);
+
 break;
 case 'c':
 case 'C':
@@ -199,7 +199,7 @@ if ((Uvgm > Vh6Tq0) || (zRxUY >= 1134065211))
 switch (kdaZ)
 {
 case 0:
-s82x8rTf = (int)floor(nqPoVnXt_);
+
 break;
 case 1:
 Ot32M804af = (int)abs(u3_OYJ28_);
@@ -248,7 +248,7 @@ int k = 0;
 while (k < 7)
 {
 ++k;
-s82x8rTf = kdaZ << o30VsWKvM;
+
 }
 }
 }
@@ -323,7 +323,7 @@ tGB4EDD = (int)ceil(nqPoVnXt_);
 }
 else if (p6m632VH != Y8Z_wV)
 {
-s82x8rTf = (int)floor(tGB4EDD);
+
 }
 else if (SRL9E != SITUD)
 {
@@ -439,7 +439,7 @@ case 1:
 kbP6GmqfWX = (int)abs(Ey97RhYQ);
 break;
 case 2:
-Bf1bNSIV = Rrn0_96aX2 + o30VsWKvM;
+
 break;
 case 3:
 
@@ -451,7 +451,7 @@ case 5:
 
 break;
 case 6:
-GQ6TOazZET = gyh5g3(681854264, -1638447376, kbP6GmqfWX, sjV6E_2s, nqPoVnXt_);
+
 break;
 case 7:
 
@@ -484,7 +484,7 @@ case 'd':
 
 break;
 case 'e':
-N52N /= UuVnccH;
+
 break;
 case 'f':
 

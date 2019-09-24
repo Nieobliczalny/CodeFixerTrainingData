@@ -28,7 +28,7 @@ int main(void) {
     YRoFmYSf    =    -1216612851;
     s9Z2Go    =    2097830379;
 
-    Dl0fZ4KR    =    537101957;
+
     wN8c    =    2071033380;
     VkBL0zF    =    118123598;
     x52Ktt5oM7    =    1222260629;
@@ -103,7 +103,7 @@ case 1:
 jm66KRK05 = ed4I_(T4JhLZNA, p_rlF, -2027022653, gZROK);
 break;
 case 2:
-ryr3_ = ed4I_(-1352722464, p_rlF, L6YQ, gZROK) * gZROK;
+
 break;
 case 3:
 SL10a = (int)abs(KX6q_5X4);
@@ -254,7 +254,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-SL10a = (int)abs(jm66KRK05);
+
 break;
 case 'd':
 case 'D':
@@ -330,7 +330,7 @@ case 2:
 
 break;
 case 3:
-Wtqy5o55oK = HpHr6upy0l ^ pT9P;
+
 break;
 case 4:
 HpHr6upy0l = fs_2O >> pT9P;
@@ -345,7 +345,7 @@ case 7:
 
 break;
 case 8:
-VkBL0zF = T4JhLZNA + zUDl;
+
 break;
 case 9:
 

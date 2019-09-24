@@ -44,7 +44,7 @@ int main() {
 
 	tZhfFBD_s	=	-181695084;
 	VAtSKV8j	=	-1386815296;
-	j12_3h	=	-790302098;
+
 	A4qmXTJF76	=	-18964126;
 	EGtop	=	-1231480613;
 	q_ctUM8	=	347628706;
@@ -54,7 +54,7 @@ int main() {
 
 
 	Y2crp0yLX	=	-352436747;
-	R06Fo	=	-559341389;
+
 	UX_q	=	510977880;
 	Dx_m	=	1216803309;
 	y338t_DtK3	=	1517326132;
@@ -64,7 +64,7 @@ int main() {
 
 
 
-	IKYXej7vJ	=	-1207972074;
+
 	H579_GWv5I	=	40747690;
 	i64m	=	147569409;
 	YRI7	=	-2039151698;
@@ -76,7 +76,7 @@ int main() {
 	q6u1nO7_	=	66854681;
 
 	JWBaVH1tY	=	2041193272;
-	bgj8jZFiP	=	1877911489;
+
 
 	L9gJnzRF	=	1673698905;
 	Cz6AlfMlel	=	-828360669;
@@ -86,7 +86,7 @@ int main() {
 	YYRZt	=	316644567;
 
 	l68A67	=	-1350709172;
-	S4DXv71	=	-101892755;
+
 
 	dTFztYc60	=	-2028414422;
 	s_WNC	=	747768273;
@@ -96,7 +96,7 @@ int main() {
 	Vn0NY5l2qs	=	1569417997;
 
 	GnCWRL8LBw	=	-1099981762;
-	u0ZOX	=	-944614459;
+
 	MA_4hbo7GT	=	-215982536;
 
 	CP1j	=	-319238985;
@@ -107,7 +107,7 @@ int main() {
   short int  UEkdRp,  wC5QM,  TdYr;
   UEkdRp  =  0;
 
-  TdYr  =  0;
+
 
 wC5QM = BfZMRE9ZU(1090641143);
 if (UEkdRp == 0)
@@ -128,7 +128,7 @@ case 2:
 
 break;
 case 3:
-Kl72 = p5S2L_kf5(-1900682647, 1040716232, 985138409);
+
 break;
 case 4:
 

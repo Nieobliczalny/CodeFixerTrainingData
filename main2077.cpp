@@ -39,7 +39,7 @@ int main(int argc, char** argv) {
   short  n8Qf;
 
 	unsigned int	xa32qoC;
-	xa32qoC	=	-458196769;
+
  long E1xR1W;
  E1xR1W = -523458544;
   unsigned long  DMLt;
@@ -71,7 +71,7 @@ int main(int argc, char** argv) {
  double z2wV2;
  z2wV2 = -459876226;
     int    vg38Q3w;
-    vg38Q3w    =    637917449;
+
  unsigned long long Zu_9;
  Zu_9 = 656613370;
 	float	ASlO0;
@@ -243,7 +243,7 @@ jlf4M5 = (int)abs(jLLD8);
 break;
 }
 
-EKxF0_Ud = (long)(O49216MwCN);
+
 
 for (int i = 0; i < 5; ++i)
 {
@@ -394,7 +394,7 @@ case 2:
 
 break;
 case 3:
-Jd76 = MPda4Db9V(691332053, -1736899363, ek96, R6P_X, 509496799) ^ 70113737;
+
 break;
 default:
 T32MJuil4N = Jd76 >> 1207643621;
@@ -490,7 +490,7 @@ case 'e':
 
 break;
 case 'f':
-W2Sqr = QM266_h9 - u9GF7Q;
+
 break;
 case 'g':
 
@@ -512,7 +512,7 @@ case 2:
 
 break;
 default:
-M3ezi5d = (Af5ST & -685201838) ? -1955643713 : M3ezi5d;
+
 break;
 }
 }

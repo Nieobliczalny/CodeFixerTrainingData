@@ -104,7 +104,7 @@ case 3:
 
 break;
 case 4:
-ujYoOl = (int)floor(Jim3_Yd);
+
 break;
 case 5:
 Ygr82 = LbDlT7(DbjttX5, 1405172540, -1035705363);

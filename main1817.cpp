@@ -54,7 +54,7 @@ else
 }
 }
 }
-s8_Bj = tk4m2M6 / Nl2_09M;
+
 for (int i = 6; i >= 0; i--)
 {
 if (i5Tjr)

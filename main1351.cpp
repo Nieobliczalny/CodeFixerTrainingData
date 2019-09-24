@@ -294,7 +294,7 @@ case 'a':
 
 break;
 case 'b':
-CLHnSO0d4 = (int)abs(VN67bMied);
+
 break;
 case 'c':
 j0V6oggYp_ = Vq_S7I - 2094855611;
@@ -306,7 +306,7 @@ case 'e':
 jc5mM9kZB6 *= 985300520;
 break;
 case 'f':
-CLHnSO0d4 = (RcV1KJL < 1086438708) ? 196357212 : Zf1o;
+
 break;
 default:
 m99B19YRI_ = IbrQmCKQ0 * zr8Iu;
@@ -469,7 +469,7 @@ case 5:
 
 break;
 case 6:
-PiUF6Zk_A /= 741906645;
+
 break;
 case 7:
 

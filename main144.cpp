@@ -49,7 +49,7 @@ switch (Op5th3Q)
 {
 case 'a':
 case 'A':
-dvca4cO = YdFMMa(dvca4cO);
+
 break;
 case 'b':
 case 'B':
@@ -82,7 +82,7 @@ else if (((t6rvf4gtIx > o4zzTlWA4) && (c_0jYs < -1728805397)) || (Op5th3Q > Y2mZ
 }
 else
 {
-o8y_C_ = (unsigned long long)(yMwe);
+
 }
 }
 
@@ -115,7 +115,7 @@ case 'd':
 
 break;
 case 'e':
-RyP_suB33p = Y2mZ8 ^ 987868691;
+
 break;
 case 'f':
 W69b = YdFMMa(W69b);
@@ -187,7 +187,7 @@ t_t7 %= 395289973;
 }
 else
 {
-RyP_suB33p = Y2mZ8 | 1162712751;
+
 }
 }
 

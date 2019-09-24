@@ -73,7 +73,7 @@ int main()
     unsigned long    gMZu;
 
     unsigned int    i6q8;
-    i6q8    =    332247686;
+
  int l_4_0jm6;
 
  char xD25_3B67;
@@ -83,7 +83,7 @@ int main()
   unsigned short  Q53FCag;
 
     unsigned short int    KLCq;
-    KLCq    =    1104253844;
+
 	unsigned short int	GJDAfc_Q_;
 
 	short	E749wo;
@@ -137,7 +137,7 @@ int main()
 	unsigned short	AhEr3s92;
 
  unsigned int F6q9BV;
- F6q9BV = -1208426172;
+
     unsigned long    tIJv9E2;
 
     unsigned short int    LyNo;

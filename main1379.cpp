@@ -37,7 +37,7 @@ int main()
  char iS82_7QVc4;
  iS82_7QVc4 = -735768122;
   short int  eI_3s4vB2;
-  eI_3s4vB2  =  704106116;
+
   float  Ou2_;
   Ou2_  =  1803609699;
     int    PtMNHL6;
@@ -65,7 +65,7 @@ int main()
  short eee3V;
  eee3V = 33058970;
  int t3k6i;
- t3k6i = -1673990340;
+
  unsigned int T7eu3lfy;
 
 	long long	k4GiY;
@@ -266,7 +266,7 @@ break;
 }
 
 
-JSe_a = (int)abs(XX7EQ1);
+
 return 0;
 }
 

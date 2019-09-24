@@ -198,7 +198,7 @@ break;
 th207_7KA = (pFLpKuQd > UlyOF) ? D8zd7Kh : H9E2B;
 try
 {
-gca5FJ1KU = (int)ceil(H1fL);
+
 }
 catch (int& errorCode)
 {
@@ -247,7 +247,7 @@ case 5:
 
 break;
 case 6:
-J4e0S3ymw1 = nuMG(-232317896, tpX9D324x, -1543694584, 118798770, Zj6dFd);
+
 break;
 case 7:
 
@@ -432,7 +432,7 @@ case 2:
 
 break;
 case 3:
-Dz9W5k1M = (int)ceil(p_TO2);
+
 break;
 case 4:
 

@@ -496,7 +496,7 @@ case 'b':
 td_t *= 63003355;
 break;
 case 'c':
-s5Z88 = td_t - 650139864;
+
 break;
 case 'd':
 

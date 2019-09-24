@@ -391,7 +391,7 @@ case 'f':
 
 break;
 case 'g':
-G_oxK4s <<= 436983067;
+
 break;
 case 'h':
 lDjDV5 = UG0Xx0WPv - YO8LU3iJr;
@@ -403,7 +403,7 @@ switch (j_5kxIDFMX)
 {
 case 'a':
 case 'A':
-Owyu <<= t6jtG5;
+
 break;
 case 'b':
 case 'B':

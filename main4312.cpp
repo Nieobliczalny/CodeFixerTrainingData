@@ -604,7 +604,7 @@ case 2:
 
 break;
 case 3:
-eU57tKU6I6 = whg9 ^ 123753763;
+
 break;
 case 4:
 
@@ -661,7 +661,7 @@ case 2:
 
 break;
 case 3:
-VQlb = (e3Swtb7oD0 > cRCMuP9IAe) ? j3jhp : r550DJ09C;
+
 break;
 case 4:
 

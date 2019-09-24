@@ -44,7 +44,7 @@ int main(void) {
  short int gxFG2g0;
 
     short    aag4pKZ4;
-    aag4pKZ4    =    924621565;
+
     float    A7wp9E;
     A7wp9E    =    -1076875135;
  unsigned long qWC4doe8X6;
@@ -56,7 +56,7 @@ int main(void) {
   float  pv1yLG;
   pv1yLG  =  1039104176;
     unsigned short    Uw_AX;
-    Uw_AX    =    -552534154;
+
     long    Yh_5dp;
     Yh_5dp    =    816167518;
   unsigned short  sJaR;

@@ -342,7 +342,7 @@ break;
 i8991B4yM = (short)(qhfx_);
 if ((h27B <= 1192979403) || (TGq815HEU < T2x0F))
 {
-bIta = (short)(L5Cifu);
+
 }
 else
 {
@@ -779,7 +779,7 @@ case 4:
 
 break;
 case 5:
-RDlhR8cEM >>= xQdX2;
+
 break;
 case 6:
 

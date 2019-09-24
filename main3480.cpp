@@ -128,7 +128,7 @@ O7r156 %= tWa8Pq6T9C;
 break;
 case 'b':
 case 'B':
-buM64QjXg >>= v4f7_h;
+
 break;
 case 'c':
 case 'C':
@@ -177,7 +177,7 @@ cout << dVb_GkO(O7r156) << IOgF << endl;
 switch (X1ExpO)
 {
 case 0:
-hYz7nr3Sy = muZ_G_Uz1q << 950726384;
+
 break;
 case 1:
 
@@ -198,7 +198,7 @@ case 6:
 
 break;
 case 7:
-Q7A_1bbD7 = dVb_GkO(1801421615);
+
 break;
 }
 
@@ -220,7 +220,7 @@ case 2:
 
 break;
 case 3:
-p080e85xbD = dVb_GkO(p080e85xbD);
+
 break;
 case 4:
 tWa8Pq6T9C = dVb_GkO(785810431);
@@ -262,7 +262,7 @@ Zo9C8_ -= Se58zB;
 break;
 case 'f':
 case 'F':
-m064 = (int)ceil(zVff87h_h);
+
 break;
 case 'g':
 case 'G':
@@ -283,7 +283,7 @@ W_37h_I9_ = (int)ceil(Ybea7R7);
 switch (G_QN)
 {
 case 0:
-LS08gRyqL0 |= 480112194;
+
 break;
 case 1:
 
@@ -295,7 +295,7 @@ case 3:
 
 break;
 case 4:
-lF0_94r += t731;
+
 break;
 case 5:
 

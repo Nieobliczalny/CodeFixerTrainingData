@@ -122,7 +122,7 @@ int main(int argc, char** argv)
     long    sWp1VLh;
     sWp1VLh    =    1004163328;
  short int abDuT5;
- abDuT5 = 1602002955;
+
   int  r9Hj9;
   r9Hj9  =  -12758149;
 	unsigned int	BG15;
@@ -160,7 +160,7 @@ int main(int argc, char** argv)
     float    keTE3_AkJT;
     keTE3_AkJT    =    640624936;
  unsigned short NB8m;
- NB8m = 820006698;
+
 	float	NIrp;
 	NIrp	=	2036179446;
 	unsigned long	v1P1;

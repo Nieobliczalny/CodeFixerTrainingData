@@ -24,7 +24,7 @@ int main(int argc, char** argv) {
     unsigned short    e9X09;
     e9X09    =    1062211751;
 	long long	iKGi_LF6uK;
-	iKGi_LF6uK	=	-1356908575;
+
 	long double	x532MXaC;
 	x532MXaC	=	973524000;
   long  QM87p_C4;
@@ -72,7 +72,7 @@ int main(int argc, char** argv) {
 	long long	W3yF92n0;
 
     long    fQJO;
-    fQJO    =    -1116471469;
+
   char  Oik4497G;
   Oik4497G  =  306214497;
 	long double	uDoCr;
@@ -132,7 +132,7 @@ int main(int argc, char** argv) {
   int  NJIaAsk_;
   NJIaAsk_  =  -1537901118;
     short int    q0__xc;
-    q0__xc    =    1778088040;
+
  float HKTsxLg;
 
  long long I9Ri_;
@@ -282,7 +282,7 @@ case 5:
 
 break;
 case 6:
-y04gGSFGCB = (k1e45_i <= uXe_M) ? C27zl : xPJWPJOavr;
+
 break;
 case 7:
 fOZZaXS5 += 1315207573;
@@ -322,7 +322,7 @@ else if (q1uJBKD2 > 547266696)
 }
 else if (z53KPz)
 {
-iKGi_LF6uK = IM060xcv - 788734563;
+
 }
 else if (U4gX == uyz9)
 {
@@ -352,7 +352,7 @@ while (j >= 0);
 }
 else if ((NZLoWhA_l) && (C4eM5f_ != AE7NVZ))
 {
-q0__xc = (int)abs(pk7171o0l4);
+
 }
 else if (hg9KO60CDB <= O_l3WuPp48)
 {

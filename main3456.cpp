@@ -212,7 +212,7 @@ else if ((C797S == 153242135) || (C9hq < WM_4P))
 int k = 0;
 do
 {
-hAvL7D8n = JzNz5f5Lh4(-59315643);
+
 k++;
 }
 while (k < 9);
@@ -395,7 +395,7 @@ case 'c':
 
 break;
 case 'd':
-gg6Yl7 = CMG5E9pbz(gg6Yl7, OR69_WIi_Q, iFq5QV0, 941435887);
+
 break;
 default:
 jbukOkY1L = (int)abs(m_w__);

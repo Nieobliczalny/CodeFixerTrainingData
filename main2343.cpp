@@ -85,7 +85,7 @@ int main()
   float  pSIm;
 
 	long long	RA10;
-	RA10	=	1760656868;
+
   unsigned char  hf_SzPqO;
   hf_SzPqO  =  -910730886;
   short  cXkrs;
@@ -133,7 +133,7 @@ int main()
 	long long	XVpBhV0GF;
 	XVpBhV0GF	=	990185450;
     int    aq6G;
-    aq6G    =    -2131715733;
+
  char xUR_ipJ;
  xUR_ipJ = 943448494;
  float tScX_;
@@ -354,7 +354,7 @@ while (j < 2);
 std::cout << "B82I" << ujC_h7FD << hf_SzPqO << std::endl;
 
 rnMNG = (unsigned short)(B_xwEz6);
-nyv6VaI_ -= 60961344;
+
 aq6G = diMwj - hf_SzPqO;
 
 std::cout << MeYmKOf8(z8hLs8Mz, -1376536645) << K4SYpkF << K4SYpkF << std::endl;

@@ -250,7 +250,7 @@ A9NG444ZS = i1RCgq6 % xBE45uI;
 break;
 case 'g':
 case 'G':
-RJtkC &= V5UN8;
+
 break;
 }
 }
@@ -392,7 +392,7 @@ case 'c':
 
 break;
 case 'd':
-R0T1 /= 657148409;
+
 break;
 default:
 

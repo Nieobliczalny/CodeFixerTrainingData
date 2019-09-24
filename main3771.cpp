@@ -50,7 +50,7 @@ int main(void)
  unsigned long r95f;
  r95f = 221889757;
   unsigned int  rE5B1m;
-  rE5B1m  =  -1402421777;
+
 	short	K5c9;
 	K5c9	=	645441462;
  unsigned long long p_1A7pC;
@@ -104,7 +104,7 @@ int main(void)
 	long long	e488iI3WE;
 	e488iI3WE	=	-663162999;
 	float	JdVBYCL377;
-	JdVBYCL377	=	1217788889;
+
     short    NZaAyaM5;
     NZaAyaM5    =    -624771372;
 	unsigned char	HpJ64v;
@@ -130,7 +130,7 @@ int main(void)
 	unsigned long long	ZTzfW;
 
   unsigned char  vdEM25;
-  vdEM25  =  1840321876;
+
  float x3ON_Cg;
 
  unsigned long long rj1Jr0p4et;
@@ -184,7 +184,7 @@ int main(void)
   int  Wuiqvi24J2;
   Wuiqvi24J2  =  -200858226;
  short tfckuUm;
- tfckuUm = 1207015414;
+
 	unsigned short int	ccQrf1a;
 
   unsigned long  m29w7iDKf;

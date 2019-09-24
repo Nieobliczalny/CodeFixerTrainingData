@@ -81,7 +81,7 @@ int main() {
     int    Q1s4n;
     Q1s4n    =    581514309;
     float    JILi_;
-    JILi_    =    -1451921959;
+
  unsigned char f1w2q;
  f1w2q = 1970848013;
   double  F1cqg;
@@ -379,7 +379,7 @@ while (k >= 0);
 }
 }
 
-oSaIxWE35 = -940031317 / wIm1b(tq7z25Ls, -1321640263, I1Rh_4);
+
 
 
 if (f1w2q & d_n_EZ)

@@ -38,7 +38,7 @@ hdx5486b = O_7yvH8_8Z(F90o);
 break;
 case 'c':
 case 'C':
-XbM0R6J_96 = (int)ceil(y2H67J8t_);
+
 break;
 case 'd':
 case 'D':
@@ -144,7 +144,7 @@ case 'c':
 
 break;
 case 'd':
-vCuoA34 = (int)ceil(G_m9R5fU9);
+
 break;
 case 'e':
 
@@ -156,7 +156,7 @@ case 'g':
 
 break;
 default:
-H729cU *= G_m9R5fU9;
+
 break;
 }
 }

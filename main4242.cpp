@@ -255,7 +255,7 @@ case 1:
 
 break;
 case 2:
-K0Aa6f8 += 1923952275;
+
 break;
 case 3:
 Ou05CUG9 += KcP5Fb7;
@@ -383,7 +383,7 @@ case 5:
 
 break;
 case 6:
-Brt62Z >>= 1797593883;
+
 break;
 case 7:
 

@@ -50,7 +50,7 @@ int main(void)
 	short int	dGe79_;
 
   float  C8HTerDHn;
-  C8HTerDHn  =  1640979962;
+
 	int	JJ5j5;
 	JJ5j5	=	1821692010;
   float  qybb6Vh_E1;
@@ -60,7 +60,7 @@ int main(void)
     unsigned char    PzySN5y15;
 
 	long double	sSNU_;
-	sSNU_	=	542204913;
+
     double    v0rvS3F;
     v0rvS3F    =    -2090698422;
   unsigned int  nB1K5Jx33f;

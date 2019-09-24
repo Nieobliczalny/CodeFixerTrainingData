@@ -283,7 +283,7 @@ case 4:
 
 break;
 case 5:
-r30fg0anx = (int)ceil(VZ2_aQhkk);
+
 break;
 case 6:
 nz8XORz -= GLEtw62;
@@ -344,7 +344,7 @@ Loo11 = (unsigned short int)(B63lc04 + (-378055390));
 
 if ((1077733894 / oXTRj4D) > -1860164252)
 {
-r30fg0anx = -2072470281 / ZshOE33QCv;
+
 }
 
 try
@@ -470,7 +470,7 @@ a398Wm <<= 1535115646;
 }
 else if ((o_Fl9hcG04 & B63lc04) && (B15fl3mb_ == U8PAi_m1))
 {
-r30fg0anx = B63lc04 / 796749789;
+
 }
 else if (p_r111P81 & dIL59)
 {

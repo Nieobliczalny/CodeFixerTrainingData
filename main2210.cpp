@@ -52,7 +52,7 @@ break;
 }
 cout << Xlvp1eu() << endl;
 
-rHHNO__s94 = Euk45V(rHHNO__s94, F708, -2008270474, LM09G);
+
 
 try
 {
@@ -162,7 +162,7 @@ case 'c':
 
 break;
 case 'd':
-zrB2i = Euk45V(1199480485, 2116550571, DzLG, Xz0G);
+
 break;
 default:
 

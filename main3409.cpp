@@ -21,7 +21,7 @@ int main(int argc, char** argv)
 
     x_VQTO    =    -194642639;
 
-    Q8Qt    =    -396535985;
+
     kz2eoiC5    =    -651318628;
     TDTo    =    -52786585;
     j0B07r0tNo    =    -1515104564;
@@ -38,7 +38,7 @@ int main(int argc, char** argv)
     pq070    =    1716380511;
 
 
-    i1bHv0cyQ    =    -919622985;
+
     V1khVl    =    -1868431175;
     y_l2We    =    -547447599;
     l3UbrhL    =    -1203994900;
@@ -52,7 +52,7 @@ int main(int argc, char** argv)
     E79aWyf_M    =    -711062580;
 
 
-    ZqY_1S5    =    621112097;
+
     PG0SGH9    =    -1118776478;
     Y70426    =    -2099005940;
     v5rifwF    =    1092836828;
@@ -64,7 +64,7 @@ int main(int argc, char** argv)
     VTo5o7x    =    -1515566741;
     dbeqOD    =    -1126049504;
     yAV1    =    896495867;
-    PAn_5Gw    =    -1785385509;
+
 
 
     CNBGkw1EWo    =    -1836446841;
@@ -74,7 +74,7 @@ int main(int argc, char** argv)
     oEBS    =    -1678798360;
     I5TGUp9v    =    633756299;
 
-    XnIvJA7BI4    =    -2031308918;
+
 
     ZU51    =    47189831;
     tho8Y7M2P    =    306707626;
@@ -93,7 +93,7 @@ int main(int argc, char** argv)
 
     zRD_j__E    =    147802983;
 
-    yI5og    =    -848884562;
+
     nVYZoZ0ZZ    =    1215109084;
     x21n8xuhB8    =    1147558559;
     r9G0_kTKcP    =    -1857936942;
@@ -157,7 +157,7 @@ case 3:
 
 break;
 case 4:
-uZGbT5vg = N4nH();
+
 break;
 case 5:
 
@@ -363,7 +363,7 @@ uZGbT5vg = N4nH();
 break;
 case 'h':
 case 'H':
-PAn_5Gw = (int)floor(zRD_j__E);
+
 break;
 }
 

@@ -209,7 +209,7 @@ int j = 0;
 while (j < 3)
 {
 ++j;
-NdXTco059n = (int)ceil(PsTx);
+
 }
 }
 }

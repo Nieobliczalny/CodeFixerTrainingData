@@ -45,7 +45,7 @@ case 0:
 
 break;
 case 1:
-hO30rW *= 919080584;
+
 break;
 case 2:
 KC1Nv7oQzl = (int)abs(Tmvv_);
@@ -134,7 +134,7 @@ case 'g':
 
 break;
 case 'h':
-zImyn = (int)abs(KC1Nv7oQzl);
+
 break;
 default:
 

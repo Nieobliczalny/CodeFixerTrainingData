@@ -391,7 +391,7 @@ else
 
 
 
-w49o7dMw = (int)abs(Atye);
+
 if (AdXS6)
 {
 {

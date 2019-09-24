@@ -23,7 +23,7 @@ int main()
 	long	fAdk99r;
 
 	unsigned int	Jl867D2Ixs;
-	Jl867D2Ixs	=	1037255786;
+
 	long	vuw3Cya4;
 	vuw3Cya4	=	-1926670239;
 	float	auec1h;
@@ -33,7 +33,7 @@ int main()
     unsigned long    u4rV;
 
   long long  W_ta;
-  W_ta  =  -60662653;
+
   unsigned int  bAfmS7;
   bAfmS7  =  -1251501690;
  double fBrI2UM;
@@ -53,7 +53,7 @@ int main()
   unsigned long long  do5EmVWoq;
 
     char    ht_VX9;
-    ht_VX9    =    68246140;
+
  float Qx7E9zY8;
  Qx7E9zY8 = 949844632;
  char y94yY;
@@ -65,7 +65,7 @@ int main()
     long    MWOa3ROW;
 
     long    QtUb_d;
-    QtUb_d    =    358200829;
+
   long double  DV_NU9p__;
   DV_NU9p__  =  -172446426;
 	short	I696___;
@@ -79,7 +79,7 @@ int main()
 	unsigned int	Sdwk_Yq4cp;
 	Sdwk_Yq4cp	=	195732121;
     unsigned int    Q9F14xh4q;
-    Q9F14xh4q    =    -1430745615;
+
   short  hdhl22HUdU;
   hdhl22HUdU  =  -1527522046;
   char  Bp_78v_;
@@ -89,7 +89,7 @@ int main()
  long long pTpfv1K5;
 
 	unsigned long long	k3yYJRgvp;
-	k3yYJRgvp	=	-46273303;
+
     long double    t1V777zI5;
 
 	unsigned short int	GC0m6AA99;
@@ -109,7 +109,7 @@ int main()
  double XwEsPT36;
 
 	char	YdX7;
-	YdX7	=	668290441;
+
 	long double	D8y5A5egt;
 	D8y5A5egt	=	-1924955770;
     long    iA2TV0g727;
@@ -121,7 +121,7 @@ int main()
     short    D_ZXi927FG;
 
   char  xa5i;
-  xa5i  =  -480125292;
+
     double    PCuMk;
     PCuMk    =    -1994597399;
  short int Y8jeXq;
@@ -141,7 +141,7 @@ int main()
   unsigned int  nn9A0gmHpp;
 
 	unsigned short int	b8l3X;
-	b8l3X	=	-574059039;
+
 	unsigned short int	g_G4;
 
 	unsigned long long	DiSU1s;
@@ -163,7 +163,7 @@ int main()
 	int	Yjrvp31N5;
 
  unsigned short int ChEWhod94;
- ChEWhod94 = -1128822029;
+
   unsigned long  wyd72Im;
   wyd72Im  =  -591761837;
     short int    A8YxsUzv0;
@@ -228,7 +228,7 @@ SIHy0_O %= TJSfD5tP;
 break;
 case 'b':
 case 'B':
-D8y5A5egt = (int)floor(qfGl);
+
 break;
 case 'c':
 case 'C':
@@ -263,7 +263,7 @@ case 2:
 
 break;
 case 3:
-q_qQ2m = (int)ceil(Sb4009Qje);
+
 break;
 case 4:
 DV_NU9p__ = (int)floor(q_qQ2m);
@@ -278,7 +278,7 @@ case 7:
 
 break;
 case 8:
-OlEIM = vuw3Cya4 % HOmSVlhyX;
+
 break;
 case 9:
 

@@ -279,7 +279,7 @@ case 0:
 
 break;
 case 1:
-k_kBm1U05Y &= 347979444;
+
 break;
 case 2:
 LV6W2f0Q36 = bQ9Cy ^ ajbd3;
@@ -303,7 +303,7 @@ case 8:
 
 break;
 }
-JK_7N = I6hY(64139925, yx6_x_p2, d815LjN22);
+
 
 
 {
@@ -350,7 +350,7 @@ c6_3qFZR += 2053175686;
 
 
 
-cnzfEBfq4 = (int)floor(TJ6569k42);
+
 return 0;
 }
 

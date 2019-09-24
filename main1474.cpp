@@ -21,7 +21,7 @@ int main(void) {
   double  k930355i;
   k930355i  =  1901936513;
   float  jPz5h5;
-  jPz5h5  =  -485416148;
+
 	unsigned short int	Dn4ac5;
 	Dn4ac5	=	-917830323;
  unsigned long XkCXns4;
@@ -45,7 +45,7 @@ int main(void) {
 	unsigned long	CBxR_Y2Uix;
 
   short  aW0IY7;
-  aW0IY7  =  -504400888;
+
  float br10;
  br10 = 1301004982;
   int  J4ZmWES;
@@ -83,7 +83,7 @@ int main(void) {
  long long a4DJt5onE;
 
 	unsigned short int	VaQ1;
-	VaQ1	=	2098535145;
+
   int  p1S4304;
   p1S4304  =  2044407374;
 	short	SFBiLn;
@@ -234,7 +234,7 @@ SFBiLn = KzSU4bEN % 837274068;
 }
 else
 {
-jPz5h5 = (int)floor(h8iP);
+
 }
 }
 catch (int& errorCode)

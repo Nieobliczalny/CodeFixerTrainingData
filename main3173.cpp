@@ -87,7 +87,7 @@ int main()
  short int vD4Vtyk;
 
   unsigned long long  u6_2_;
-  u6_2_  =  -254176841;
+
   unsigned long  CbLRs0mA;
   CbLRs0mA  =  -741662358;
  long Rqu7GZcP;
@@ -105,7 +105,7 @@ int main()
     short int    Ka06pY;
     Ka06pY    =    585256548;
  unsigned int EW46mMAbdd;
- EW46mMAbdd = 1110783158;
+
 	unsigned short	Bm48ny59h3;
 	Bm48ny59h3	=	918411021;
     char    xzoN04YT;
@@ -117,7 +117,7 @@ int main()
  int LT04HTSGuu;
 
   unsigned char  kE8tzKh;
-  kE8tzKh  =  -103886625;
+
   unsigned short  O7DA4J22;
   O7DA4J22  =  796842223;
 	short int	a7K0;
@@ -137,7 +137,7 @@ int main()
 	long long	e71snv;
 
   unsigned long  q42S8Iv;
-  q42S8Iv  =  -1976146312;
+
   short int  bq52sK3v;
   bq52sK3v  =  -346281509;
  long long BVumRmYn;
@@ -336,7 +336,7 @@ case 'd':
 
 break;
 case 'e':
-rK4Y2_ = (int)abs(VZNiN92BK) + (1024690185);
+
 break;
 case 'f':
 

@@ -409,7 +409,7 @@ if (N4NKi & 1018415843)
 }
 else
 {
-krOF = (int)abs(wVbuz83e4L);
+
 }
 }
 else if (XqnP != 382735958)
@@ -486,7 +486,7 @@ switch (a8z_5)
 {
 case 'a':
 case 'A':
-lcq1T = mtgaRO5(lcq1T, -186511776);
+
 break;
 case 'b':
 case 'B':
@@ -614,7 +614,7 @@ case 1:
 
 break;
 case 2:
-N4NKi = xp99j_ & 873651451;
+
 break;
 case 3:
 potaRZ = IfwRs % 1160209447;
@@ -682,7 +682,7 @@ k6Z0307L1K = Bm93(250112469);
 }
 else
 {
-krOF = mtgaRO5(-1730692511, -865755183);
+
 }
 }
 }
@@ -708,7 +708,7 @@ break;
 }
 }
 
-Zv__Oy2_ = mtgaRO5(Zv__Oy2_, -1502928474);
+
 BGz41O9Vdu = (int)(wQJrB0l + (1914784954));
 {
 int i = 6;

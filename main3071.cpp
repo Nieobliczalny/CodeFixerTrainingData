@@ -42,7 +42,7 @@ int main(int argc, char** argv)
   BtpPN  =  -126935812;
   ASL_5DD  =  -48099935;
   hHj5r  =  1240326645;
-  n9MMJ4S3p  =  -1283290221;
+
   ta9H  =  -222187770;
   cfuJp  =  1194275310;
 
@@ -64,7 +64,7 @@ int main(int argc, char** argv)
   XhA176vk  =  -2028516030;
 
 w1nIh30 = (float)(a_39G56Gv);
-yE70t_82FD = KryDdEm(448118777, -115533323, hHj5r, -515128350, iz23I);
+
 frp9pHmA = fjRH0xv();
 
 {
@@ -204,7 +204,7 @@ case 'd':
 
 break;
 default:
-cCryZ = mq7HIK / 1013740992;
+
 break;
 }
 L0lfnI7L = uk16O1 / 1177409390;

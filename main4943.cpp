@@ -152,7 +152,7 @@ if ((J_22Lh7Mx <= -434749740) && ((cbLiI < -857248942) && (sALA3B)))
 {
 if (M665 == -1729950579)
 {
-zkp00yv = (char)(dAWZf4);
+
 }
 else if (e35g75jQ7x)
 {
@@ -419,7 +419,7 @@ if (fH5U != 1932741985)
 }
 else if (WKtB == Y8m3K)
 {
-J_22Lh7Mx = (short)(Qj_3z * J_22Lh7Mx);
+
 }
 else if (n9m2PA62 < -2063785412)
 {

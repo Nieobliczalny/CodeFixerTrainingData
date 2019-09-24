@@ -32,7 +32,7 @@ if (J_1ulTZGg6 == 0)
 switch (J_1ulTZGg6)
 {
 case 'a':
-LI89 = (int)ceil(soWyyP);
+
 break;
 case 'b':
 ACtY845d4 = (int)ceil(H8q9);
@@ -44,7 +44,7 @@ case 'd':
 O7mk57239P = (int)abs(kr3BpPe);
 break;
 case 'e':
-HyFR9_f = (int)ceil(ZY05L_R);
+
 break;
 case 'f':
 z7XN4ViijO = (int)ceil(S2vYgN);
@@ -56,7 +56,7 @@ case 'h':
 wjV04 = (int)floor(xJP7);
 break;
 case 'i':
-y68YvUk = jFz8GU / lO6OU;
+
 break;
 }
 

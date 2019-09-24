@@ -95,7 +95,7 @@ case 'c':
 
 break;
 case 'd':
-B1Nt4 = (int)ceil(jn_5A9U8x);
+
 break;
 case 'e':
 

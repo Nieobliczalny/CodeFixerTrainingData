@@ -451,7 +451,7 @@ case 'e':
 
 break;
 case 'f':
-SvBpPsa -= Kqyk1Ht;
+
 break;
 case 'g':
 F_FN55uCS--;

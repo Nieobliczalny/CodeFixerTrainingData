@@ -131,7 +131,7 @@ NYp_2PIU5Z = (unsigned long long)(eww487B);
 }
 else if (gB0_k & 1970922155)
 {
-sUQ7AV2Dy3 = (unsigned short)(gB0_k);
+
 }
 else
 {

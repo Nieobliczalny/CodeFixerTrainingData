@@ -34,7 +34,7 @@ if (R6l6_3_2i8 >= 302824492)
 }
 else if (R6l6_3_2i8 & 1253484817)
 {
-UERQhqL5n = lFJ6x1(UERQhqL5n);
+
 }
 else
 {
@@ -152,7 +152,7 @@ case 'f':
 
 break;
 case 'g':
-DKvi2z0Oj %= 219885271;
+
 break;
 case 'h':
 aV_7 = Uh3UyK3yv(uXLdC) & 562327993;
@@ -247,7 +247,7 @@ case 4:
 
 break;
 case 5:
-lu244iEGm8 = (int)abs(Sy9YP7);
+
 break;
 case 6:
 P6Oo8w10_8 = O0PXEbj(-96843747, eK23, aV_7, TsqC8g5o, -1428831681);

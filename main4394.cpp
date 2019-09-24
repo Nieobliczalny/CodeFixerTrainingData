@@ -370,7 +370,7 @@ case 'c':
 
 break;
 case 'd':
-jE27 = (int)floor(R0DnE2);
+
 break;
 default:
 

@@ -79,7 +79,7 @@ int main()
 	long	RbarkUg_;
 
   long double  w_JucLGZgL;
-  w_JucLGZgL  =  -645538483;
+
   unsigned char  eEHm_tSY4;
   eEHm_tSY4  =  0;
 	long double	A_AUJJve;

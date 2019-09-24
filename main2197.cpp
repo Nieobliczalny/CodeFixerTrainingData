@@ -41,7 +41,7 @@ int main(int argc, char** argv) {
 	short	yk4Fts0Md4;
 
   long long  r9_3;
-  r9_3  =  1058009874;
+
   long double  YQ45XNW8;
 
  short int f99llp0a98;
@@ -77,7 +77,7 @@ int main(int argc, char** argv) {
 	long double	SZ3j87z0v_;
 	SZ3j87z0v_	=	2015759213;
  unsigned int A5faa989;
- A5faa989 = 303105727;
+
 	unsigned short int	Z5WGZm;
 	Z5WGZm	=	-518440296;
     int    FwTMP_Fa;
@@ -103,7 +103,7 @@ int main(int argc, char** argv) {
  short int Ot257xSZB;
 
   double  PD_1;
-  PD_1  =  -34929105;
+
  char AM_u8_m0;
  AM_u8_m0 = 196542322;
   long double  sl__x;

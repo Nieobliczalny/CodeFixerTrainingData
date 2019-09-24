@@ -124,7 +124,7 @@ break;
 }
 }
 }
-tR33 = NG0BpA(p_ds, 1031696376, 264769111, -1247143260, 1987383130);
+
 
 switch (Qc8t)
 {
@@ -198,7 +198,7 @@ case 'd':
 
 break;
 case 'e':
-w42d %= Qc8t;
+
 break;
 case 'f':
 

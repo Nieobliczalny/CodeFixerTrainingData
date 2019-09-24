@@ -543,7 +543,7 @@ case 'c':
 
 break;
 case 'd':
-QPT2 = ZDu3D1 % qV8r2dA6w3;
+
 break;
 case 'e':
 VyE8OW = (int)floor(L_YgliAC);

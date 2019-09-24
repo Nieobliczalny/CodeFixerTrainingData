@@ -50,7 +50,7 @@ int main(int argc, char** argv) {
   int  qde_1A;
 
   unsigned short  adO5;
-  adO5  =  -1188283699;
+
     float    r164_3NM9;
     r164_3NM9    =    1967740719;
   char  Y0JK;
@@ -88,7 +88,7 @@ int main(int argc, char** argv) {
  int OUUz;
  OUUz = -262135718;
 	char	SN3UO1d_;
-	SN3UO1d_	=	1916794307;
+
 	unsigned char	KfN9;
 	KfN9	=	-1080236889;
   unsigned long  nCr1_;
@@ -108,7 +108,7 @@ int main(int argc, char** argv) {
   long  ACg_;
   ACg_  =  -14754735;
     unsigned char    AbX_60BF;
-    AbX_60BF    =    1056193580;
+
  double FF57H;
  FF57H = -567739658;
   long long  s_2R9wiqM6;
@@ -128,7 +128,7 @@ int main(int argc, char** argv) {
   long double  C0y30O1_7;
 
   unsigned int  DDMm353;
-  DDMm353  =  1036150285;
+
   int  Mqfp8GV_V3;
   Mqfp8GV_V3  =  2040774653;
     int    IagDq_xQ2;
@@ -195,7 +195,7 @@ case 1:
 OUUz *= 1554453359;
 break;
 case 2:
-AbX_60BF = nCr1_ ^ Mqfp8GV_V3;
+
 break;
 case 3:
 uvv7MCC = dfw7u2eXB2 - uvv7MCC;
@@ -228,7 +228,7 @@ case 2:
 mKQUV = (int)abs(uvv7MCC);
 break;
 case 3:
-SN3UO1d_ = L0T85D(75152202, 1026553422);
+
 break;
 case 4:
 BZ04DpV = (int)floor(vrLdkPPK);
@@ -312,7 +312,7 @@ case 5:
 
 break;
 case 6:
-RdEDf500 *= 2109868490;
+
 break;
 case 7:
 nLDa ^= hr6yh;
@@ -532,7 +532,7 @@ case 2:
 
 break;
 case 3:
-Xx6w3 = M08XsBZ(Xx6w3);
+
 break;
 case 4:
 ptcm1G_1 = (int)abs(LXW7qJm);
@@ -577,7 +577,7 @@ if (nLDa == z_d806ocI)
 
 
 
-F3Bh1hh_i = (unsigned int)(z_d806ocI);
+
 std::cout << ph3WVE0V << std::endl;
 return 0;
 }

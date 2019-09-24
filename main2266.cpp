@@ -107,7 +107,7 @@ case 'b':
 t8n7CQ_JZ = (int)abs(shn69T_d);
 break;
 case 'c':
-j4FoXbX2K = (int)ceil(icDifMARN_);
+
 break;
 case 'd':
 

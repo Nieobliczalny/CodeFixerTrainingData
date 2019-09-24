@@ -68,7 +68,7 @@ int main(int argc, char** argv) {
 	long double	U1aZSay8;
 
 	int	YY9BR4;
-	YY9BR4	=	160091087;
+
  unsigned short jTD52nb;
  jTD52nb = -749049900;
 	float	aGNhxs;
@@ -122,7 +122,7 @@ int main(int argc, char** argv) {
  float HzfWZ;
  HzfWZ = -403829669;
   char  I_5obbl5;
-  I_5obbl5  =  622068332;
+
     char    yqiV;
     yqiV    =    -671666582;
  long double W52_3KBbU;
@@ -321,7 +321,7 @@ case 'c':
 
 break;
 case 'd':
-BjDf2 >>= FjS8__jt75;
+
 break;
 case 'e':
 
@@ -333,7 +333,7 @@ case 'g':
 
 break;
 case 'h':
-FsUkvcetE = G7WW_It + kPCr2X5;
+
 break;
 default:
 

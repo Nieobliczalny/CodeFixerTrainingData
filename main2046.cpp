@@ -151,7 +151,7 @@ std::cout << "n32638k" << "ZV3r36F5" << std::endl;
 }
 else if (uG0v != -282118195)
 {
-aR3OS_joz7 = (unsigned long)(keWd);
+
 }
 else if (OMrWl & 226852860)
 {

@@ -42,7 +42,7 @@ int main(int argc, char** argv) {
  double c8Oi4K1;
 
  int g_0cL;
- g_0cL = 1940689507;
+
   int  mJQfH;
   mJQfH  =  -370595822;
     unsigned long long    PJ_R;
@@ -66,7 +66,7 @@ int main(int argc, char** argv) {
 	unsigned short int	cA2V4;
 
   unsigned long  NIK_;
-  NIK_  =  -875727596;
+
   long double  UeTp4IT5;
   UeTp4IT5  =  1006418436;
 	short int	j3evMN;
@@ -86,7 +86,7 @@ int main(int argc, char** argv) {
  int c0p1A_;
 
 	unsigned short int	vigX5745S;
-	vigX5745S	=	1787583521;
+
   short  z3s7;
   z3s7  =  -803394100;
     unsigned int    AX0B;
@@ -102,7 +102,7 @@ int main(int argc, char** argv) {
   unsigned short int  eZH1j5fm6;
 
   char  coNjxrMW0;
-  coNjxrMW0  =  0;
+
     unsigned short int    l0EZoF2V;
     l0EZoF2V    =    0;
   unsigned int  bfJ3KD0;
@@ -114,7 +114,7 @@ int main(int argc, char** argv) {
     short int    O5amOP30;
 
 	short int	GlY3LF;
-	GlY3LF	=	-405177643;
+
 	unsigned long	wS38o04re;
 
 	short	h79J_L0U;
@@ -124,7 +124,7 @@ int main(int argc, char** argv) {
  char WbOd8Hh;
 
   unsigned long long  pOa0K;
-  pOa0K  =  -782416102;
+
  short g9_P1iZ7;
 
  long double pQYsT4T55;
@@ -134,7 +134,7 @@ int main(int argc, char** argv) {
 	long long	iQ2b00X6E;
 
     char    IYUsZ;
-    IYUsZ    =    1576722449;
+
     short int    sqCktR9RaU;
 
 	long double	q6zH7_c7;
@@ -148,7 +148,7 @@ int main(int argc, char** argv) {
  short int UV0wj;
 
   int  vI2tJ813;
-  vI2tJ813  =  -1246572358;
+
   unsigned long  Io8F37mB;
   Io8F37mB  =  -1899083985;
 	short	FH5gq39nN_;
@@ -160,7 +160,7 @@ int main(int argc, char** argv) {
     long long    hAnQQ;
 
     long double    pYju6r72;
-    pYju6r72    =    -1701608875;
+
     unsigned long    vNuCeF4ns7;
     vNuCeF4ns7    =    0;
  long long TinqoOW3L;
@@ -170,7 +170,7 @@ int main(int argc, char** argv) {
 	unsigned short int	hr7GM2;
 
  short v_XiPkq8;
- v_XiPkq8 = -2124390230;
+
 	double	DxLTkX_440;
 	DxLTkX_440	=	-457974343;
   unsigned int  ktaTes9;
@@ -180,7 +180,7 @@ int main(int argc, char** argv) {
  int l8cGXJ3DC5;
 
  short int Kf9FW0r8i;
- Kf9FW0r8i = -888752985;
+
     char    W6xszdF;
     W6xszdF    =    -77476803;
   long double  cU6R9;

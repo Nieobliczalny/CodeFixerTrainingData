@@ -311,7 +311,7 @@ switch (foY3DZ)
 {
 case 'a':
 case 'A':
-FlEVo = N353Ey5nR - 45744872;
+
 break;
 case 'b':
 case 'B':
@@ -514,7 +514,7 @@ akfSYM0VN = (pCw2q_Ix_f >= W8Mp) ? Vij4 : foY3DZ;
 }
 else
 {
-YRTT09n0 = (int)abs(BhgEr);
+
 }
 j++;
 }

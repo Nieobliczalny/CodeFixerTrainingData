@@ -458,7 +458,7 @@ case 'd':
 
 break;
 case 'e':
-z53VQI5 = x3H_f5(z53VQI5);
+
 break;
 case 'f':
 
@@ -470,7 +470,7 @@ case 'h':
 
 break;
 }
-uxt1uU = (int)abs(vk2Go);
+
 std::cout << "Lbeez4" << std::endl;
 
 {
@@ -490,7 +490,7 @@ std::cout << SW1IFnDMgT << std::endl;
 }
 }
 
-IF6qikt0U2 = (int)ceil(qXV4Y);
+
 zAHny50 = (long double)(z_FrUq6O);
 std::cout << o7ARCl8 << J4g5b << x3H_f5(187746026) << std::endl;
 {
@@ -505,7 +505,7 @@ case 0:
 t69a3 = kg8hm(aztRC, OPF0Ws4T);
 break;
 case 1:
-IF6qikt0U2 = (int)floor(H0oUbEhkOJ);
+
 break;
 case 2:
 qXV4Y = pRqV(qXV4Y, -286271536, -551503867);
@@ -551,7 +551,7 @@ case 2:
 
 break;
 case 3:
-daWSAz4iL = (int)floor(ezppX40W);
+
 break;
 case 4:
 

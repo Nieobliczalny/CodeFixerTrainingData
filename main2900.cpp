@@ -136,7 +136,7 @@ int main(void) {
 	long long	Q6b7H_;
 	Q6b7H_	=	-1088370877;
  long long Q352TO4d;
- Q352TO4d = 349941528;
+
     double    I8oh3cffl4;
     I8oh3cffl4    =    196724759;
     unsigned short int    Em332X;
@@ -645,7 +645,7 @@ case 'f':
 
 break;
 case 'g':
-s5FYw = (int)abs(Z_kM);
+
 break;
 case 'h':
 
@@ -720,7 +720,7 @@ case 'c':
 
 break;
 case 'd':
-Hh39MXVhoh = fED11YYme(Ll_7qe, 446003563, EX4BHHO3, 940010092, YkO3p4hvKq);
+
 break;
 case 'e':
 
@@ -732,7 +732,7 @@ case 'g':
 
 break;
 case 'h':
-qt65xWCV6 *= zN4R2;
+
 break;
 }
 }

@@ -91,7 +91,7 @@ E5UDW_fn2 = (unsigned long long)(PCGIwb);
 cout << Qzxigk_74p << "JZgm4Z0Y" << E4Dl_B << eZ4iP(J1H1x6V) << nxMkjISD9 << endl;
 if (kOE_sZydw >= lF8Y0Rlk)
 {
-Qzxigk_74p = s6fHrd1(fbI5N, 527271170, E5LFznL047);
+
 }
 else
 {
@@ -135,7 +135,7 @@ case 2:
 
 break;
 case 3:
-Qzxigk_74p = s6fHrd1(-1958276578, E4Dl_B, B15a3);
+
 break;
 default:
 lF8Y0Rlk = xb46P & 1537572479;
@@ -163,7 +163,7 @@ case 'c':
 
 break;
 case 'd':
-XPkG16g9e_ = eZ4iP(XPkG16g9e_);
+
 break;
 case 'e':
 

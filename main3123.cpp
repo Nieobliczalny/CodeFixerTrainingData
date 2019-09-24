@@ -33,7 +33,7 @@ int main() {
   unsigned short int  Qx0zYc;
 
   short int  hZUX;
-  hZUX  =  1841172652;
+
   float  Hsl9;
   Hsl9  =  1334905678;
     double    sQ7_OE;
@@ -77,7 +77,7 @@ int main() {
 	char	yegqZv06;
 	yegqZv06	=	1612606121;
     unsigned char    K8JQT;
-    K8JQT    =    -265847102;
+
   double  GikzGQS05t;
   GikzGQS05t  =  -137772630;
 	double	WB9tzc3;
@@ -123,7 +123,7 @@ int main() {
     double    boquwC;
 
  unsigned short C75n_E;
- C75n_E = -754545990;
+
     int    rfbrPSw1Q1;
 
  char VKG4;

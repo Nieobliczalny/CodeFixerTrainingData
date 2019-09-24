@@ -161,7 +161,7 @@ else if (ngK_E & fmc_SEsD)
 {
 for (int k = 0; k < 8; ++k)
 {
-SBe6_PT0 = (B1bPmJ5 > -906976857) ? -2068772104 : m304Zb5;
+
 }
 }
 else if (FP2q8q44A <= v9qPl)

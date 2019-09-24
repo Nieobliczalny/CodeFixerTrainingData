@@ -35,7 +35,7 @@ int main(void)
  float XF_I70dj;
  XF_I70dj = -127480233;
  int T5GH;
- T5GH = 1084712342;
+
 	unsigned char	SSn162qjdP;
 	SSn162qjdP	=	-225036271;
     float    gONxIYUc;
@@ -49,7 +49,7 @@ int main(void)
  unsigned long wzrNwcG;
 
   long long  PUG7;
-  PUG7  =  -1677005711;
+
     unsigned long    kDcun7s9;
     kDcun7s9    =    -598561293;
  unsigned long DMf1W1;
@@ -102,7 +102,7 @@ int main(void)
 
 if (Z_S5Kb3O)
 {
-XK_8 = FWdO60EWFA >> 1928403508;
+
 }
 else if (dARF9U68 < GTlH5xM)
 {
@@ -156,7 +156,7 @@ case 2:
 
 break;
 case 3:
-m8_Hxts = yBOyS9r27Q / 1598092710;
+
 break;
 case 4:
 w6mN5Y1 = DMf1W1 % 2070018105;

@@ -41,7 +41,7 @@ int main(void) {
  float mdTqJz;
  mdTqJz = -828473831;
 	short	k_b_j;
-	k_b_j	=	-68958704;
+
   long double  Xdj7o;
 
   unsigned long long  n8I3ZEKa1;
@@ -51,7 +51,7 @@ int main(void) {
   int  fPr2;
   fPr2  =  -918619820;
  char U1W526dW2;
- U1W526dW2 = -621010942;
+
  float zB27;
  zB27 = -207104043;
   unsigned int  KYzrZ;
@@ -61,7 +61,7 @@ int main(void) {
 	unsigned long	YP2dy;
 	YP2dy	=	383873175;
  double ED3x;
- ED3x = -2065704892;
+
  long long v0TT9gL64o;
  v0TT9gL64o = -996335602;
 	unsigned int	D43O75P;
@@ -125,7 +125,7 @@ int main(void) {
 	long	m1I_w;
 
     unsigned int    t9hK4Y;
-    t9hK4Y    =    2017630922;
+
     unsigned short    OmSTV79;
     OmSTV79    =    609243057;
  unsigned char nR1e;
@@ -185,7 +185,7 @@ int main(void) {
     double    h3MVo;
     h3MVo    =    1771302691;
     unsigned long    g0d4_L;
-    g0d4_L    =    1330628899;
+
  double xzMy5nROE;
  xzMy5nROE = 67505741;
 	int	zzc13;
@@ -203,7 +203,7 @@ int main(void) {
  unsigned char R_w_E;
 
 	unsigned int	Oy33JS3;
-	Oy33JS3	=	0;
+
  unsigned short V6Sv9v_HX;
  V6Sv9v_HX = 1192954952;
   unsigned char  Q8___A;
@@ -221,7 +221,7 @@ int main(void) {
 
 if (h3MVo)
 {
-lRrw = P7T0w(lRrw, -177131102, 1343655749);
+
 }
 else if ((S4SfJiIsX) || (FX6GK != 228694506))
 {
@@ -333,7 +333,7 @@ case 0:
 mdTqJz = (int)ceil(h3MVo);
 break;
 case 1:
-jRE8F = Jnme44yq(104898534, 639035140, -782397357, p90_J_WK8);
+
 break;
 case 2:
 S4SfJiIsX += 1277115338;
@@ -629,7 +629,7 @@ case 'f':
 
 break;
 case 'g':
-nsHAkyPP = (int)ceil(JdJx04);
+
 break;
 case 'h':
 

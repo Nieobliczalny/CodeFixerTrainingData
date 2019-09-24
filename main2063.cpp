@@ -44,7 +44,7 @@ int main(void) {
 	unsigned char	rqTTT;
 
     long double    tRE4d06;
-    tRE4d06    =    -984221883;
+
   unsigned long long  QUMhhOHUB2;
   QUMhhOHUB2  =  0;
  unsigned char ls27_LQG1;
@@ -90,7 +90,7 @@ int main(void) {
     short    Pz5Xvv;
 
     float    ayO0q;
-    ayO0q    =    -1093021854;
+
   float  E2Dht;
   E2Dht  =  1287350646;
   char  vXd5L5wS;
@@ -104,7 +104,7 @@ int main(void) {
   unsigned short  X24X6I;
 
   int  Rrr_tKICLO;
-  Rrr_tKICLO  =  1898240143;
+
     double    tmCVO5;
 
  unsigned int xsh6IX8Qg;
@@ -114,7 +114,7 @@ int main(void) {
     short    b_781W3uY;
 
     float    JMZ8T0VQ;
-    JMZ8T0VQ    =    -780338750;
+
   unsigned short  A2L9mIjHM_;
   A2L9mIjHM_  =  2093735002;
  double LyGjq82;
@@ -124,7 +124,7 @@ int main(void) {
 	short	IM_0;
 
  short int yW_xF;
- yW_xF = 1929483151;
+
     short int    bxxdC8HkZ;
     bxxdC8HkZ    =    -1672792773;
   short  p4d7;
@@ -142,7 +142,7 @@ int main(void) {
   unsigned long long  ecBwoIgnb;
 
   char  yv4459;
-  yv4459  =  -1231111276;
+
     unsigned short int    Ka01;
 
   float  fh1t6_;
@@ -152,7 +152,7 @@ int main(void) {
     char    s905d_ie56;
 
     unsigned short int    ttIs;
-    ttIs    =    29748720;
+
     unsigned char    yx_cH;
 
     long long    YFx7ZrLl;
@@ -229,7 +229,7 @@ case 'e':
 
 break;
 case 'f':
-tRE4d06 = hu_D * r442__I_;
+
 break;
 default:
 
@@ -250,7 +250,7 @@ while (i >= 0);
 
 
 
-sccp82 = Zu1M5k9 / OtR27rYLAK(1929927600, -1785573807, -1930265409, I8jkX5, Q9e_70LfRz);
+
 IM_0 = (int)abs(vXd5L5wS) + (-186513124);
 try
 {

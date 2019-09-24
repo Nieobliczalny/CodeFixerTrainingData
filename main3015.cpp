@@ -376,7 +376,7 @@ case 'I':
 break;
 }
 
-j0vNI3zYfH = msaf / AX_6;
+
 cout << yN9po1Gmw8 << Eqy9R(-1252807815, WV5TI7nA4L, DxZEq, 1349321434) << endl;
 try
 {
@@ -450,7 +450,7 @@ DxZEq = eHX74vt(1557509767, -1572707231, f_zv7hg0);
 
 for (int i = 6; i >= 0; --i)
 {
-j0vNI3zYfH = (int)ceil(U96Fv4ZqyY);
+
 }
 for (int i = 0; i < 1; i++)
 {
@@ -469,7 +469,7 @@ if (FdFx34v4Lr >= -276920265)
 {
 try
 {
-z0N5v = z0N5v / AeV369BS7_;
+
 }
 catch (int& errorCode)
 {
@@ -507,7 +507,7 @@ case 2:
 
 break;
 case 3:
-Ie9cu >>= 365674322;
+
 break;
 case 4:
 

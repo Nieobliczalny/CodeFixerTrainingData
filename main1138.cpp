@@ -244,7 +244,7 @@ case 'f':
 
 break;
 case 'g':
-ops6 = GFSbfl9w(-264911000, LK2T4Iw7, dQ_89fv, -828451088);
+
 break;
 default:
 VdS61S_jU = I_nW02_NC6 - dQ_89fv;

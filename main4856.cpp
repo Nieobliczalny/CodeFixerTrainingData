@@ -146,7 +146,7 @@ Rh4aX3M2 = (int)floor(UuQT4_);
 }
 else if ((I5KC > GmCy4o7) && (WB6h2I7u9 <= g5_x31))
 {
-Pma64_1Rj0 = (float)(iPKg2VQR);
+
 }
 else
 {
@@ -227,7 +227,7 @@ for (int i = 2; i >= 0; i--)
 switch (BdO0_)
 {
 case 'a':
-Pma64_1Rj0 = (int)ceil(OW57z_2N8);
+
 break;
 case 'b':
 Bdu34V5q = R_sN >> 478190684;
@@ -319,7 +319,7 @@ case 2:
 
 break;
 case 3:
-y_Fm8i -= 291638212;
+
 break;
 case 4:
 

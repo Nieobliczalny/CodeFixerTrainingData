@@ -163,7 +163,7 @@ case 2:
 
 break;
 case 3:
-JULkG = (int)ceil(Ch8t7qVKV);
+
 break;
 }
 

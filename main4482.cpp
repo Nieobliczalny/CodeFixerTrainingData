@@ -108,7 +108,7 @@ while (i >= 0)
 --i;
 if (Q6DGl_oJ6d > 255193201)
 {
-Yc_X = (int)(UY25l1Nqf);
+
 }
 }
 }
@@ -123,7 +123,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-Yc_X = bqA59 | 803148487;
+
 break;
 case 'c':
 case 'C':
@@ -257,7 +257,7 @@ case 6:
 
 break;
 case 7:
-Tw131oh9l -= PmI7Lm;
+
 break;
 }
 }

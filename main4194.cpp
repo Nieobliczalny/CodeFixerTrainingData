@@ -71,7 +71,7 @@ int main()
  float uFc9Z;
  uFc9Z = -1411284947;
  long long ZD4qT90Q;
- ZD4qT90Q = 1080381353;
+
  unsigned short ZuXMFJf8s;
 
     unsigned char    L4lvm9D;
@@ -191,7 +191,7 @@ for (int j = 0; j < 6; j++)
 {
 if (IuLe <= XHIE04U_48)
 {
-EX3emj4E = (int)abs(ib5y);
+
 }
 }
 }
@@ -254,7 +254,7 @@ j4I5_5T = Gipgaj6J(Hr1C15);
 }
 else
 {
-EX3emj4E = (int)abs(JE1E86u);
+
 }
 
 j4I5_5T = Gipgaj6J(1691550498);
@@ -273,7 +273,7 @@ case 3:
 c37Ur1E0 = Gipgaj6J(Sm8m);
 break;
 case 4:
-ZD4qT90Q = (int)abs(cXgO823q);
+
 break;
 case 5:
 YYVM = (int)floor(f4j_bX8796);

@@ -142,7 +142,7 @@ case 'j':
 
 break;
 default:
-p3164sxIs8 = (int)floor(UXU_i6S8);
+
 break;
 }
 
@@ -323,7 +323,7 @@ case 5:
 jUVph8 ^= ftKt684;
 break;
 case 6:
-p3164sxIs8 = (int)floor(M4D4__TAk8);
+
 break;
 default:
 E2_4W1EIu /= 1384195589;
@@ -360,7 +360,7 @@ for (int i = 0; i < 3; ++i)
 
 try
 {
-XA818_ = (int)floor(O_0Yr52n);
+
 }
 catch (int& errorCode)
 {
@@ -429,7 +429,7 @@ case 'B':
 
 break;
 default:
-p3164sxIs8 = (int)ceil(E2_4W1EIu);
+
 break;
 }
 }
@@ -449,7 +449,7 @@ case 1:
 
 break;
 case 2:
-m7S1KP = B399b % 623692604;
+
 break;
 case 3:
 c_U62jO7c >>= yl64vy3Wh;

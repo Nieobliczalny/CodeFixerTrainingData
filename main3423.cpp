@@ -347,7 +347,7 @@ case 'd':
 
 break;
 case 'e':
-BKS6DkSK += x73N;
+
 break;
 case 'f':
 
@@ -359,7 +359,7 @@ case 'h':
 
 break;
 case 'i':
-HirQydf5 >>= 1752340860;
+
 break;
 case 'j':
 

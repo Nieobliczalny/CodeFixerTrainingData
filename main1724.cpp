@@ -81,7 +81,7 @@ int main()
 	double	s__i;
 	s__i	=	1229916260;
   unsigned long  UEFb4h_Lv;
-  UEFb4h_Lv  =  355607706;
+
 	unsigned long	gh9ZakA;
 	gh9ZakA	=	137537939;
  unsigned int JrJ36RO;
@@ -281,7 +281,7 @@ case 'c':
 
 break;
 case 'd':
-LE_f0rW = dPj3E(-650657566, 445118847);
+
 break;
 case 'e':
 

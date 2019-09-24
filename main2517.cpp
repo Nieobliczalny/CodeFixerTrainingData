@@ -217,7 +217,7 @@ int k = 0;
 while (k < 2)
 {
 k++;
-FzO5 = AT00a7kh(1113606487);
+
 }
 }
 }
@@ -296,7 +296,7 @@ if (h9W_G)
 {
 if (Xbf7VpB != -1699942133)
 {
-XHuA = (int)abs(WT3lY10XJl) * 0;
+
 }
 else
 {

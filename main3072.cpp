@@ -282,7 +282,7 @@ case 'd':
 
 break;
 default:
-k5bv7oZsX = (int)floor(iN4o);
+
 break;
 }
 }
@@ -384,7 +384,7 @@ case 'c':
 
 break;
 case 'd':
-pFZmR %= Z_xW;
+
 break;
 default:
 F_h5ZJ = NLbaUEcjW();

@@ -19,7 +19,8 @@ unsigned char  DAV1_(unsigned long long  y52xO,unsigned long  Trb5U0);
 
 int main(void) {
   int  G6MdWP_B,  i6BMO;
-    G6MdWP_B  =  i6BMO  =  0;
+    // codechecker_intentional [deadcode.DeadStores] Design rule - initialize all variables
+	G6MdWP_B  =  i6BMO  =  0;
 	unsigned int	b0ySptB,	S2gZT1_16,	yLM_kWj0P,	Y_njr4,	RjVh9797bP,	zzb8,	QFR3l,	MXX2AQotG,	n5er45QV0f,	VUH134,	Q424u,	yi9b2m_a0,	K1hj1x8VJ,	xa7r4,	tVKA33Of,	EruNt,	f58WK,	lctYNUJ7l,	oVE940,	muN55Hg41b,	Zg_F596_,	N4Mti,	O0Blei;
 		// codechecker_intentional [deadcode.DeadStores] Design rule - initialize all variables
 		b0ySptB	=	S2gZT1_16	=	yLM_kWj0P	=	Y_njr4	=	RjVh9797bP	=	zzb8	=	QFR3l	=	MXX2AQotG	=	n5er45QV0f	=	VUH134	=	Q424u	=	yi9b2m_a0	=	K1hj1x8VJ	=	xa7r4	=	tVKA33Of	=	EruNt	=	f58WK	=	lctYNUJ7l	=	oVE940	=	muN55Hg41b	=	Zg_F596_	=	N4Mti	=	O0Blei	=	-1096018086;

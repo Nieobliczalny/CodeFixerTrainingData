@@ -34,7 +34,7 @@ int main() {
   unsigned short  BhvD7;
 
  float MpeY0G;
- MpeY0G = -1201541415;
+
 	unsigned long	n38y_5a;
 
     long long    mDa6O3bh;
@@ -54,7 +54,7 @@ int main() {
   unsigned short  m_IU;
 
 	unsigned short int	E9259VRbR;
-	E9259VRbR	=	-1921390162;
+
     unsigned short    JbYTCtH2td;
     JbYTCtH2td    =    1506936236;
 	int	kq0qpN15;
@@ -102,7 +102,7 @@ int main() {
     long long    fL_cIi_1D;
 
  unsigned int S7Yy;
- S7Yy = -431428459;
+
   int  Qs51X31Bz;
   Qs51X31Bz  =  2040154097;
 	short	Q7Rg_q7o;
@@ -132,7 +132,7 @@ int main() {
     float    sGH6Q;
 
   unsigned short  PDYzm9We;
-  PDYzm9We  =  375557126;
+
   unsigned char  GdY_Rd84;
   GdY_Rd84  =  -342815326;
     char    Qd77Mbz4;
@@ -144,7 +144,7 @@ int main() {
  unsigned char ulpJK;
 
  unsigned short BWJe30;
- BWJe30 = -1605306747;
+
  char C5QuSw6s;
 
     unsigned long    Hb5C;
@@ -154,7 +154,7 @@ int main() {
     double    T8iFX9l_Ky;
 
 	long long	gF3y3nhu6G;
-	gF3y3nhu6G	=	2069846202;
+
     unsigned long    ru6OM3;
     ru6OM3    =    -640622840;
 	short	ANLqZ9i9;
@@ -180,7 +180,7 @@ int main() {
   unsigned char  BVWPP2Yz;
   BVWPP2Yz  =  1970324524;
  long double k3_a;
- k3_a = -1614736217;
+
 	char	X1SjMKkRI;
 	X1SjMKkRI	=	-759771192;
     int    A_8mMEV4;
@@ -192,7 +192,7 @@ int main() {
  long double q_gItE17N9;
 
  unsigned short ylBvN7gn;
- ylBvN7gn = 1047277935;
+
  long double pX_1NSq08;
  pX_1NSq08 = 429011808;
 	unsigned long	e3u9;
@@ -212,7 +212,7 @@ int main() {
 	float	eMZA;
 	eMZA	=	-375135579;
     long double    j6vw;
-    j6vw    =    -1568844882;
+
 	long double	Jtx5CVi;
 	Jtx5CVi	=	-1936500026;
  unsigned long U8PUu;
@@ -265,7 +265,7 @@ case 2:
 rB83OWl6_t = nzUSL8F8n(rB83OWl6_t, 2098892567);
 break;
 case 3:
-PDYzm9We = nzUSL8F8n(-50046195, a_S8xZ);
+
 break;
 case 4:
 Q7Rg_q7o = tXwftuy();
@@ -332,7 +332,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-vI2h6 >>= k4LhOT;
+
 break;
 default:
 
@@ -478,7 +478,7 @@ case 3:
 
 break;
 case 4:
-Q7Rg_q7o = (int)abs(uL26_93V);
+
 break;
 }
 
@@ -568,7 +568,7 @@ case 'd':
 
 break;
 case 'e':
-fL_cIi_1D = O0jJrM9Xbg();
+
 break;
 case 'f':
 

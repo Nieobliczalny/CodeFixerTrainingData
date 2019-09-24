@@ -131,7 +131,7 @@ case 2:
 
 break;
 default:
-EZvWqNtU = (int)abs(bbjAsTv6z9) * 0;
+
 break;
 }
 
@@ -155,7 +155,7 @@ j7_s0mhT = hiawWf(-769391657, -1600102361, 631876569, CNXb_ji, cb9pqe);
 }
 }
 }
-Wd1w = (long long)(N_yd);
+
 
 switch (M5Ss)
 {

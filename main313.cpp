@@ -29,7 +29,7 @@ int main(void)
  unsigned long long EOPhrUeJ1V, L40_mg_9q, W_3H66d9si, r9QU;
 
 
- W_3H66d9si = 0;
+
  r9QU = 0;
  long long EhVVzBqFVt, X5e6GX1, HL8cE4o7r, k19Hc, Wr_LdH64H, AEgX, qtR4, oAcA000, gt2j, dX_CtmezM, f213U3VW, m78_o7Wnuf, t6UfB0, no9Q0wGBUj, HS2Cb6cz4, xSq4_147g6, QDFXd, b4IWyKn, d28ia52UN, aPRIUrg, moC2pAp39C, cY033m7Pj, T39kEF6_7, cIdu1G6Kg, u8wb3_GO, s4070EI_, Golhjrp5z, dxtRxP84i, uZoDWp5xp5, TA_93n01L, R6NvB665N, FgR4, fv8u6smix, V9yn, cg_cs, CH4V, Vj5Zlq, P3beZaH2IQ, OK5foYL2, n2Pk50Rj_, K2taB3_3f, cv5hVQ1b, h30a_, w7UEBGnLbY, qm_J0pK, TG2e_M, ur02PB7AE9, VRI4, CBEU0UdV, KFbmZ, beWFXWSI_s, jWI1_j_E, h_yI_3, IpmIuda, l7g7ro, ck9SVz3v, a4u680L, mXA28P, x714, gvXw2, FIro, c9JP, gmNYl, QRb1X2I, Gz8uHB8, W5O2pt, NP93M6ByGU, sP42ex, q1lP55, i_ml057qT, D_oVT_u90E, hh7Ki5QPT, rxy5UY, crrmOPCW, U0HP, e4W7O6, iBq8x9, W8gL05FTd, aE2rZ, R_sYU, GVW3iES98l, MB2aEF7_, P7Kc9A_lRi;
 
@@ -41,7 +41,7 @@ int main(void)
 
 
  gt2j = -819668276;
- dX_CtmezM = 1475603458;
+
 
  m78_o7Wnuf = -1089716615;
  t6UfB0 = 702793058;
@@ -51,7 +51,7 @@ int main(void)
  QDFXd = 460455639;
 
 
- aPRIUrg = 1587447297;
+
 
  cY033m7Pj = 680277795;
  T39kEF6_7 = 1454820881;
@@ -63,7 +63,7 @@ int main(void)
 
  TA_93n01L = 1233451125;
 
- FgR4 = -1909102773;
+
  fv8u6smix = 1413511146;
  V9yn = -777187572;
  cg_cs = -1303478568;
@@ -74,7 +74,7 @@ int main(void)
  n2Pk50Rj_ = -1100019243;
 
 
- h30a_ = -98612149;
+
  w7UEBGnLbY = 1375474817;
  qm_J0pK = -227194962;
  TG2e_M = -193452682;
@@ -86,7 +86,7 @@ int main(void)
 
  h_yI_3 = -1048912535;
  IpmIuda = -1510991512;
- l7g7ro = 1274616044;
+
  ck9SVz3v = 1242892998;
  a4u680L = -1226639705;
  mXA28P = -1548570083;
@@ -96,7 +96,7 @@ int main(void)
 
 
  QRb1X2I = 1897497685;
- Gz8uHB8 = -1911835835;
+
  W5O2pt = -42772482;
  NP93M6ByGU = 1678293331;
  sP42ex = -850689581;
@@ -106,7 +106,7 @@ int main(void)
  hh7Ki5QPT = 1503696642;
 
 
- U0HP = -1275970355;
+
  e4W7O6 = 2096065628;
  iBq8x9 = -1676742270;
  W8gL05FTd = -83821226;
@@ -176,7 +176,7 @@ case 'c':
 
 break;
 case 'd':
-xSq4_147g6 = W8gL05FTd ^ 717759633;
+
 break;
 case 'e':
 
@@ -188,7 +188,7 @@ case 'g':
 
 break;
 case 'h':
-R6NvB665N = coVQ4Z(-961225154, 257856452, -1629060150);
+
 break;
 case 'i':
 
@@ -210,7 +210,7 @@ case 'c':
 
 break;
 case 'd':
-b4IWyKn = (int)abs(W5O2pt);
+
 break;
 case 'e':
 
@@ -222,7 +222,7 @@ case 'g':
 
 break;
 case 'h':
-TA_93n01L &= no9Q0wGBUj;
+
 break;
 case 'i':
 

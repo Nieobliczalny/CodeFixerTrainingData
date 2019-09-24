@@ -199,7 +199,7 @@ else
 switch (KOTXxG1)
 {
 case 'a':
-wOJy3N = (int)abs(lKwk);
+
 break;
 case 'b':
 
@@ -299,7 +299,7 @@ if (NGYSs0v3Y)
 switch (HaWgY)
 {
 case 0:
-wOJy3N = (int)ceil(H48E5Bm3tR);
+
 break;
 case 1:
 jTy5 = Om1LY9ZN / 1672915696;
@@ -319,7 +319,7 @@ else if (e1MJ8l33R >= 250708576)
 int j = 0;
 do
 {
-wOJy3N = (int)floor(LxCMG);
+
 j++;
 }
 while (j < 8);
@@ -392,7 +392,7 @@ else
 
 if ((NX3Cum3 != 566241266) && (t811O_v1n != -1299523382))
 {
-LxCMG *= 248802736;
+
 }
 
 
@@ -475,7 +475,7 @@ break;
 i--;
 }
 }
-Yi14FI0Qw += 1937460068;
+
 if (Uvu3WWP_e_ >= NYv5t14WVo)
 {
 if ((PB2r7Ze > 624197186) && (Uvu3WWP_e_ != 112120828))
@@ -493,7 +493,7 @@ else
 {
 for (int k = 6; k >= 0; --k)
 {
-LxCMG = (int)abs(Uvu3WWP_e_);
+
 }
 }
 }
@@ -558,7 +558,7 @@ case 2:
 
 break;
 case 3:
-L6_4JZ = m7Epy3TQfb << R5qb6IL7;
+
 break;
 case 4:
 z_5k_es20H = (NHI5YxC33K >= hN6Uze) ? -852005731 : 704912293;
@@ -573,7 +573,7 @@ case 7:
 
 break;
 case 8:
-a7_hjI0Zg9 = (int)ceil(IY3_jn9);
+
 break;
 case 9:
 

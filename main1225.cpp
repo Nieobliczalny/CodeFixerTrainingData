@@ -302,7 +302,7 @@ case 4:
 ImQd87pw6K = MOYk(906515644);
 break;
 case 5:
-C2_MVT732T = MOYk(163929527);
+
 break;
 }
 }
@@ -334,7 +334,7 @@ for (int j = 1; j >= 0; --j)
 {
 if (((ImQd87pw6K >= 1922311697) || (UZR1Av2o2u > 1636172254)) || ((q0Pdk > -244674847) || (T69cF_ & -1831936003)))
 {
-C2_MVT732T = MOYk(1536023126);
+
 }
 else
 {
@@ -376,7 +376,7 @@ case 3:
 oku44kuUsx = (int)floor(V4Twx);
 break;
 case 4:
-p0G3 /= B1_u;
+
 break;
 case 5:
 
@@ -423,7 +423,7 @@ else
 {
 if (((q0Pdk <= oku44kuUsx) || (xS5v3 != Tp_U)) || ((P7TjsElQ != 64523050) && (raYYE >= -1994002710)))
 {
-C2_MVT732T = MOYk(-2110323914);
+
 }
 }
 }

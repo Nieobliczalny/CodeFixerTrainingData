@@ -164,7 +164,7 @@ y1B6e = J8HAV1n_t();
 break;
 case 'e':
 case 'E':
-rjk34 &= 1131530489;
+
 break;
 case 'f':
 case 'F':
@@ -420,7 +420,7 @@ else
 {
 if (tq8WJ > csQ0MY)
 {
-rjk34 = J8HAV1n_t();
+
 }
 }
 }
@@ -437,7 +437,7 @@ case 2:
 
 break;
 case 3:
-h8LCT = J8HAV1n_t();
+
 break;
 case 4:
 
@@ -458,7 +458,7 @@ case 9:
 
 break;
 default:
-lYiN9Wu6Bo = BU5U_();
+
 break;
 }
 

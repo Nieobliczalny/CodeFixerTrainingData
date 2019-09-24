@@ -88,7 +88,7 @@ case 1:
 ZqIIrml = Qu_0zh_cpb();
 break;
 case 2:
-tiM94 = a5092 * 1643755643;
+
 break;
 case 3:
 ij5_x1HiN = zOM8();
@@ -196,7 +196,7 @@ h7fd ^= JaL0L;
 }
 }
 
-QucwuJ_d = -1839083684 / HpeY6e;
+
 
 if (((F3R3Z <= x5RfBCL6f) || (INt83A > m_uN)) || ((ZqIIrml & -1055499539) && (zZ2kK4sq_D >= ocn31)))
 {
@@ -394,7 +394,7 @@ case 4:
 
 break;
 case 5:
-sX0Ad3_6 = PWx68z ^ DQG8IQ98q;
+
 break;
 case 6:
 

@@ -153,7 +153,7 @@ case 'c':
 
 break;
 case 'd':
-L9jN = tNO7irv * 1695737234;
+
 break;
 case 'e':
 Ad5WM = a7td(-966972258, Ad5WM);
@@ -418,7 +418,7 @@ case 3:
 
 break;
 case 4:
-oDi6bHVp = a7td(oDi6bHVp, -1412808726);
+
 break;
 default:
 q_4eBj0 = yE_wlg4(-1220429846);

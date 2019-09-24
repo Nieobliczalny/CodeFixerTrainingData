@@ -52,7 +52,7 @@ int main(int argc, char** argv)
 	eJBu63Uez	=	497030081;
 	CI0f59o	=	938146160;
 	dD__S8XvK	=	-1101072763;
-	p6o7lc	=	1870686679;
+
 	iV5xu6VrG	=	163190784;
 	qh43i	=	-574063531;
 	A9o7VK	=	-1957525282;
@@ -121,7 +121,7 @@ case 'f':
 XrZY = (int)abs(W5h_k1);
 break;
 case 'g':
-p6o7lc = z9qpeS01XB(531614701, -1081738485, NaHW6P, -82726183, uWeeMkM);
+
 break;
 case 'h':
 V7tt_DJ1Z = (int)abs(waeyq9);

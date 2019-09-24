@@ -313,7 +313,7 @@ case 2:
 
 break;
 case 3:
-p2hluss0K4 = (int)floor(oOhsf);
+
 break;
 case 4:
 Sq_3v++;
@@ -328,7 +328,7 @@ case 7:
 
 break;
 default:
-a804k590 >>= 1559271260;
+
 break;
 }
 return 0;

@@ -133,7 +133,7 @@ int main()
   long  g99ZArB8;
 
   short int  aeTHl1_;
-  aeTHl1_  =  -1979948211;
+
 	unsigned int	E2i808e1;
 	E2i808e1	=	0;
     short    QXuqVY03oI;

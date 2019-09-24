@@ -249,7 +249,7 @@ case 2:
 
 break;
 default:
-d9ii = (int)abs(ft_V62hge);
+
 break;
 }
 }
@@ -338,7 +338,7 @@ case 2:
 
 break;
 case 3:
-d9ii = (int)ceil(A5Is8ap_f);
+
 break;
 case 4:
 A5Is8ap_f = (int)ceil(d9ii);

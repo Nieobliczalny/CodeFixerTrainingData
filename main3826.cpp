@@ -178,7 +178,7 @@ case 'b':
 Jx_Q = (int)abs(M78Q__cm);
 break;
 case 'c':
-avSAeCw99 = KKBB3L2(1773916375);
+
 break;
 case 'd':
 M78Q__cm = (int)abs(Jx_Q);
@@ -385,7 +385,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-Jx_Q = (int)abs(M78Q__cm);
+
 break;
 case 'c':
 case 'C':

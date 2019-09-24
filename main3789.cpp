@@ -37,7 +37,7 @@ int  e8oC4mQ9()
 int main(void)
 {
  long double iK_44r, h2a47, UqtcOQ, cpUM0IH, ystsDg_SdG, W7CQ, J4b8, SK75_, EEgl, z2v0T56zM, XBC6N, pdR1, I9hv, cqF5w, dgR2_, ic7iMkWIMb, Li_398_J7N, F928tXu9IH, CE2ok08, ty8tyS, kmj7_LSD1V, zV2Y, M2F3, uY_836, O7ot, D2N09nGyE1, GM37b1V, fdI94z3, P_6TeMTEG, lVrjN59If, YocE5QN7nA, oqcr, yau5, E7_a0r, U03hj3, hlgGVL, d_G_C, e3Hg2174, xYen, GK0ApT, VH_b86F, NKfcY5u3g, S9G1y, kk6t8y_, U2It_0wu6Y, eXBKl, R90T_c1E, D0tvZFTO, UM2uoV, yUBiVJ, Mkc8l, z7_M, Bj51q69, D2qOiOmVw, N_060, N8b7i_IJPE, r6LWH1o, tCZlm9_e, F_74JmJ7;
- iK_44r = 1124108349;
+
  h2a47 = 992719446;
 
 
@@ -48,7 +48,7 @@ int main(void)
  EEgl = -1525923694;
  z2v0T56zM = -855479784;
  XBC6N = 1968283980;
- pdR1 = -1887522329;
+
  I9hv = 618612790;
 
  dgR2_ = -1404776935;
@@ -65,7 +65,7 @@ int main(void)
 
 
  fdI94z3 = 1632636574;
- P_6TeMTEG = -1808614877;
+
  lVrjN59If = -1502002544;
  YocE5QN7nA = 1849078292;
  oqcr = -1527409981;
@@ -78,7 +78,7 @@ int main(void)
 
 
  VH_b86F = 405099454;
- NKfcY5u3g = -2110948558;
+
  S9G1y = -1709508173;
  kk6t8y_ = 560277527;
 
@@ -94,7 +94,7 @@ int main(void)
 
  N8b7i_IJPE = 2066253725;
  r6LWH1o = 1072449666;
- tCZlm9_e = 2084906694;
+
  F_74JmJ7 = -374782091;
   unsigned int  KRxWWs6H1;
   KRxWWs6H1  =  0;
@@ -168,7 +168,7 @@ if (D2qOiOmVw <= L51uVU2Ubn)
 switch (KRxWWs6H1)
 {
 case 0:
-N8b7i_IJPE *= 341315902;
+
 break;
 case 1:
 
@@ -180,7 +180,7 @@ case 3:
 
 break;
 case 4:
-D2N09nGyE1 = (int)abs(D0tvZFTO);
+
 break;
 case 5:
 yUBiVJ = e8oC4mQ9();
@@ -207,7 +207,7 @@ else if (lVrjN59If < PPT9T)
 }
 else if (KRxWWs6H1 & -911366002)
 {
-ystsDg_SdG = e3Hg2174 - VH_b86F;
+
 }
 else if (KRxWWs6H1 & -1368248460)
 {
@@ -236,7 +236,7 @@ break;
 }
 if (KRxWWs6H1 == 0)
 {
-	Li_398_J7N = 1886094850 / KRxWWs6H1;
+
 }
 
 O7ot *= 347162635;
@@ -255,7 +255,7 @@ else
 {
 if (lVrjN59If == -1463631099)
 {
-yUBiVJ = (int)abs(Bj51q69);
+
 }
 }
 }
@@ -276,7 +276,7 @@ case 'c':
 
 break;
 case 'd':
-UqtcOQ = zV2Y * SK75_;
+
 break;
 case 'e':
 J4b8 = e8oC4mQ9();
@@ -288,7 +288,7 @@ case 'g':
 KRxWWs6H1 = sYtQZd5(702293349, -1406370459);
 break;
 case 'h':
-F_74JmJ7 = (int)abs(kk6t8y_);
+
 break;
 case 'i':
 

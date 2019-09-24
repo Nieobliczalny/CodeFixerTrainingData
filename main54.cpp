@@ -143,7 +143,7 @@ case 'c':
 
 break;
 case 'd':
-rN6D4bo90 = (int)abs(k0NY_y_) * 0;
+
 break;
 case 'e':
 
@@ -155,7 +155,7 @@ case 'g':
 
 break;
 case 'h':
-k0NY_y_ = kYWbyVag_i(k0NY_y_, 815289911, -199235769) % mXtsO;
+
 break;
 case 'i':
 

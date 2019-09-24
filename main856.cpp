@@ -49,7 +49,7 @@ cout << tpy92q << "y7COHp8" << endl;
 
 if ((Z4_O46n / kgiB) >= 1623960209)
 {
-fmhx5gZuc = (char)(yB5M2CN);
+
 }
 
 

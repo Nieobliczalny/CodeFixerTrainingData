@@ -81,7 +81,7 @@ int main(int argc, char** argv) {
     unsigned short    eQhouvrA5g;
     eQhouvrA5g    =    -1509838088;
   short int  m6rMZk5L;
-  m6rMZk5L  =  -108862275;
+
   float  Uvh3xPa4l;
 
  short sZ69;
@@ -116,7 +116,7 @@ else
 int k = 4;
 do
 {
-m6rMZk5L = kgK36__x0t & OFYPV3t;
+
 --k;
 }
 while (k >= 0);
@@ -243,7 +243,7 @@ case 4:
 
 break;
 case 5:
-hkHJ |= 443249241;
+
 break;
 case 6:
 

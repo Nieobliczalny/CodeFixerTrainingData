@@ -51,7 +51,7 @@ else if ((z_056FrCi != MP_Jx4fFA) && (M_d8 == -1286770919))
 int k = 5;
 while (k >= 0)
 {
-ct40 = L5I_AR(k_bV_CTzE, BFB5h, Do_xe8);
+
 k--;
 }
 }
@@ -121,7 +121,7 @@ vBO_pf8XV = (char)(Do_xe8);
 k3_H2nZ5T = L5I_AR(782640220, -498578407, 1322366492);
 try
 {
-PN9YB4SN5 = PN9YB4SN5 << 607737579;
+
 }
 catch (int& errorCode)
 {
@@ -139,7 +139,7 @@ i++;
 switch (vBO_pf8XV)
 {
 case 'a':
-ct40 = L5I_AR(2122675638, I7WdR, Do_xe8);
+
 break;
 case 'b':
 
@@ -202,7 +202,7 @@ case 'b':
 
 break;
 case 'c':
-Do_xe8 = J66M(1451552599);
+
 break;
 case 'd':
 

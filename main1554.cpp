@@ -57,7 +57,7 @@ else if (TT_QY_I3i & AB_2f3DiCw)
 }
 else
 {
-G6Ed *= 2108922054;
+
 }
 }
 else if (GD1ymRE_s >= -729152985)
@@ -274,7 +274,7 @@ break;
 }
 else
 {
-wXDbL = (int)floor(C78G_x_);
+
 }
 MurU = C4secz431x(u2vuM8);
 {
@@ -304,7 +304,7 @@ case 2:
 
 break;
 case 3:
-MurU = C4secz431x(-1353827164);
+
 break;
 case 4:
 

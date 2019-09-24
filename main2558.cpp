@@ -23,7 +23,7 @@ long	zttW(unsigned char	IueZUM4,long long	vPVHF4Mvcq,unsigned short int	uySNeLYP
 int main(int argc, char** argv)
 {
  unsigned long long r_U_6j;
- r_U_6j = -768684316;
+
  long iIP50tf;
 
 	double	vuQBWI9;
@@ -672,7 +672,7 @@ case 6:
 
 break;
 case 7:
-JnyZbIo3 = (int)floor(UF_H04d3S1);
+
 break;
 }
 }

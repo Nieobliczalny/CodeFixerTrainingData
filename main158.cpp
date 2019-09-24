@@ -127,7 +127,7 @@ int main(void)
  long long yCEMWW;
  yCEMWW = -1904541039;
  unsigned short PF_w;
- PF_w = -841254183;
+
   unsigned int  F248;
   F248  =  -1035667275;
     short int    EM371Y;
@@ -496,7 +496,7 @@ case 5:
 
 break;
 default:
-NK8Yhu %= wSWG5;
+
 break;
 }
 switch (uUYs0)

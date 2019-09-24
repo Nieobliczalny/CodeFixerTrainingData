@@ -26,7 +26,7 @@ int main(void)
   long double  kp4w;
 
     unsigned long long    dXe1gr;
-    dXe1gr    =    1184120184;
+
   unsigned short int  gI22e;
   gI22e  =  0;
 	unsigned char	RF7P90zQ_;
@@ -86,7 +86,7 @@ int main(void)
 	short int	kE4tvV0;
 	kE4tvV0	=	1392645928;
   int  YX6G;
-  YX6G  =  -936326631;
+
 	long	lEgrraU9iU;
 	lEgrraU9iU	=	-1679614406;
 	long	BY59;

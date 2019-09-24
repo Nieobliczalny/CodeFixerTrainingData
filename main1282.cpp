@@ -469,7 +469,7 @@ Yyw2Mw = n1m3mv_s(dL43pZOcZ, 727934206);
 }
 else if ((Un9RH8ibOh != -1312631694) || ((JWXax6 >= -1424916807) || (I6Ib_8s6 > -296499464)))
 {
-t1onv3Di = (int)floor(t69T0PfI3);
+
 }
 else
 {
@@ -514,7 +514,7 @@ case 'H':
 break;
 case 'i':
 case 'I':
-t1onv3Di = (int)ceil(t69T0PfI3);
+
 break;
 }
 for (int i = 5; i >= 0; --i)
@@ -619,7 +619,7 @@ int i = 5;
 do
 {
 i--;
-Ul7s2 = do034 + 2018769068;
+
 }
 while (i >= 0);
 }

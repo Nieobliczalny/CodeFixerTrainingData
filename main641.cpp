@@ -22,7 +22,7 @@ int main(int argc, char** argv) {
  short ToYTOH;
  ToYTOH = 1786965200;
 	short int	uP100G1;
-	uP100G1	=	-869634586;
+
  unsigned char EBXsm3Eh;
  EBXsm3Eh = 1649216445;
 	unsigned int	L65v3S6S;
@@ -66,7 +66,7 @@ int main(int argc, char** argv) {
   char  QP31E;
   QP31E  =  820151658;
 	unsigned short	g2zVBtUv;
-	g2zVBtUv	=	513557885;
+
 	short	uE30;
 	uE30	=	-299875956;
  unsigned short n5Sd35;

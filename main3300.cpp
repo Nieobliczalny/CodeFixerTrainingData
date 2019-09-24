@@ -314,7 +314,7 @@ else if (f2mr <= -1945709254)
 {
 try
 {
-t1O247a &= z034;
+
 }
 catch (int& errorCode)
 {

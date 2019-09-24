@@ -113,7 +113,7 @@ case 0:
 uzY0GTNE = Tr61_bs();
 break;
 case 1:
-DB29_x7 = (int)floor(i_3E);
+
 break;
 default:
 v25S_s = (int)ceil(DB29_x7);
@@ -162,7 +162,7 @@ else if (((ITK6tgt < -1966647617) && (x5X788)) && ((ITK6tgt != v25S_s) && (Q04HN
 {
 for (int j = 0; j < 2; j++)
 {
-DB29_x7 = (int)ceil(i_3E);
+
 }
 }
 else if (K_58qVZxU7 & -379667895)

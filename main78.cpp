@@ -369,7 +369,7 @@ else if (fkWV01xuK < 774529004)
 }
 else if (NTT5Y_8 < 1022762696)
 {
-WX9021y5I_ = H7i9UAO ^ 1494822607;
+
 }
 else
 {
@@ -412,7 +412,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-zx3L_s = (int)abs(ZQ_1);
+
 break;
 case 'f':
 case 'F':

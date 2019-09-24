@@ -130,7 +130,7 @@ case 3:
 
 break;
 default:
-Iy172STvG2 = A01eE8 * 908992941;
+
 break;
 }
 }
@@ -243,7 +243,7 @@ while (j >= 0);
 }
 }
 
-sW57 = (unsigned short)(bBB9wfwK + (302518036));
+
 
 cout << bF0_X1 << WkZ1LbHn7W << l8rX8() << endl;
 if (dTigqaB & U7I6)
@@ -304,7 +304,7 @@ case 'c':
 
 break;
 case 'd':
-Iy172STvG2 = skP7();
+
 break;
 }
 }

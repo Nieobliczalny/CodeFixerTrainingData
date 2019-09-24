@@ -50,7 +50,7 @@ int main() {
     long    zkw6QC72;
 
  unsigned char lYrRU6d;
- lYrRU6d = -2004896373;
+
   unsigned char  n2TFU;
 
  int W6_Bs0Z2_E;
@@ -66,7 +66,7 @@ int main() {
  unsigned int Ib4A0f6;
  Ib4A0f6 = 1358493086;
 	unsigned long long	Y07a_7__H;
-	Y07a_7__H	=	-53490817;
+
  short BRev0cmt;
  BRev0cmt = 1978571419;
  long long rTZsH;
@@ -96,7 +96,7 @@ int main() {
   unsigned char  jsB65h9QY;
 
   unsigned char  IJzKe;
-  IJzKe  =  -1901165676;
+
  unsigned short int ao81Nq;
  ao81Nq = -2003053047;
 	char	saxwxd0hM0;
@@ -142,7 +142,7 @@ for (int i = 10; i >= 0; i--)
 {
 
 }
-uQ7Q3_k = (int)ceil(PvFs950R);
+
 try
 {
 {

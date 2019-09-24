@@ -51,7 +51,7 @@ int main()
     unsigned short    J34f_Rh7_;
     J34f_Rh7_    =    -1706385836;
   double  V2lfP2;
-  V2lfP2  =  -630057421;
+
   unsigned short int  YjRK94K12;
   YjRK94K12  =  -1743752477;
  unsigned short o8x1Kw;
@@ -125,7 +125,7 @@ int main()
  long long EW7Q;
 
     unsigned short int    Fyu01;
-    Fyu01    =    -1682581312;
+
     unsigned int    HysFpAo5Iv;
     HysFpAo5Iv    =    854255450;
     unsigned short    cAlxrouP;
@@ -145,7 +145,7 @@ int main()
     unsigned short int    GRuVI5f;
 
 	unsigned short int	L6Yt0N_;
-	L6Yt0N_	=	1424312852;
+
     long    N99bOS;
     N99bOS    =    1956721826;
 
@@ -228,7 +228,7 @@ else if (gS43H >= 531342215)
 }
 else
 {
-V2lfP2 = (int)ceil(w_Cz4);
+
 }
 }
 catch (int& errorCode)

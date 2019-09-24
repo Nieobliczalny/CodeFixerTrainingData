@@ -27,7 +27,7 @@ int main(int argc, char** argv)
 
     ZLedi4NH    =    1045960565;
 
-    mLaMd    =    -784230820;
+
     s2zwaZ    =    655980022;
     R_NrEEnmJ9    =    97741306;
     A5OHRQ0    =    1544879884;
@@ -38,7 +38,7 @@ int main(int argc, char** argv)
     Og0s    =    -1120783405;
 
     kAO5He    =    -2145635633;
-    usfr    =    -1371175666;
+
     Wr09Up8_    =    716179590;
     g7_21uT2Pg    =    -1713130089;
     D4snPH7U1    =    611175067;
@@ -220,7 +220,7 @@ else
 while (j < 10);
 }
 }
-tu3SSbC = (long long)(O1_2lKm);
+
 
 {
 int i = 10;
@@ -282,7 +282,7 @@ case 2:
 
 break;
 case 3:
-Q5dQIv4yWW += 830759718;
+
 break;
 case 4:
 UT79v7i2w = E079v(-1410331527, dV77N_, 1507333804);
@@ -384,7 +384,7 @@ break;
 
 
 cout << ZiFd << endl;
-Nx08rU667n <<= SDSvz04;
+
 for (int i = 6; i >= 0; --i)
 {
 {

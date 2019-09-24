@@ -170,7 +170,7 @@ for (int j = 0; j < 2; ++j)
 {
 try
 {
-c2NsFrr79I = u09Pb(-1836927659, 1590408899, 1387483951, oj2M_AiC8, u2qAN5);
+
 }
 catch (int& errorCode)
 {
@@ -288,7 +288,7 @@ if (mZbmid6K & Prv2P)
 {
 if (IkPj1 >= v59_9_OBT)
 {
-c2NsFrr79I = u09Pb(1910983304, t_W0ygVC, bugT45n5PH, 611234082, -2020300160);
+
 }
 }
 else

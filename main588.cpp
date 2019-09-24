@@ -358,7 +358,7 @@ case 2:
 hr5k87 = Amujx ^ XFs7Y;
 break;
 default:
-rtmen = Amujx * 1495319365;
+
 break;
 }
 }

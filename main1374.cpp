@@ -336,7 +336,7 @@ case 4:
 
 break;
 case 5:
-OjF2Y /= 1239235571;
+
 break;
 default:
 
@@ -381,7 +381,7 @@ uqNbep6_S = (int)abs(Pd_hpSPt6) * 0;
 while (i < 7);
 }
 
-B117S = (unsigned long long)(YQdUL_du9 + (2136865942));
+
 if (z66_6TWD7 <= PLw_O)
 {
 {
@@ -412,7 +412,7 @@ if (w7n2zQ < xS9p6y)
 
 
 
-Pd_hpSPt6 = (int)ceil(Z3hh);
+
 
 switch (Yi8aEv)
 {
@@ -426,7 +426,7 @@ case 'c':
 
 break;
 }
-Z3hh = (double)(x1r4);
+
 
 return 0;
 }

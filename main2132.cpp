@@ -361,7 +361,7 @@ case 'c':
 
 break;
 case 'd':
-TQ_5Ye *= 689319791;
+
 break;
 case 'e':
 

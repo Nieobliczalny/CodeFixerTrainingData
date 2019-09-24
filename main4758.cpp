@@ -166,7 +166,7 @@ if ((JMVkydN9 & BKT4Z6i) && (hK9U97FxLJ))
 }
 else
 {
-I8HrI13 = qhAVef_();
+
 }
 }
 else if (i3tE0m1 & DB_DKk9)
@@ -203,7 +203,7 @@ case 'c':
 
 break;
 case 'd':
-au55yJ = gSB48d3b_(NdqU0m, IYOb2L, 1699015438, NKAT, -1308716863);
+
 break;
 case 'e':
 XG53iM9XH2 = i3tE0m1 + 2140289565;

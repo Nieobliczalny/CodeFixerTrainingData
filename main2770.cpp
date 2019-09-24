@@ -256,7 +256,7 @@ MTQfcWT = ecpalZk_eK(-1828725807, 849061860);
 }
 else if (p2iVrj < HNzrtC)
 {
-Y0O1fA |= Q93oY3N;
+
 }
 else
 {
@@ -411,7 +411,7 @@ default:
 
 break;
 }
-fzE7jfp5z = ecpalZk_eK(LV1KK9Rn_, 74883768);
+
 if ((JF9y9NM3x > -620669534) && (GQU47S <= klxip4d2))
 {
 for (int j = 2; j >= 0; j--)

@@ -32,7 +32,7 @@ std::cout << kZ_kl(P7tc, J4_ZY4, qO3RW0nno5) << std::endl;
 
 
 JRQ0pQr = kZ_kl(-807023387, 2108236308, -163414210);
-Yix9Pwbv6 = (double)(yeO15s1xW5);
+
 
 std::cout << kZ_kl(ZK2ik25B, -591734772, R4z3KAHo) << NmmI4pZ7L << std::endl;
 zofPn79N73 = (int)ceil(yeO15s1xW5);

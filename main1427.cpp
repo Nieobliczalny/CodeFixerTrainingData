@@ -13,7 +13,7 @@ int main(int argc, char** argv) {
   int  fjqdof5LjU;
   fjqdof5LjU  =  0;
   long  H14__;
-  H14__  =  1985183886;
+
     unsigned long long    LSXfBc;
     LSXfBc    =    1471513433;
   long long  gdruE3Os;
@@ -39,7 +39,7 @@ int main(int argc, char** argv) {
  long long oKgd7j0Xy;
  oKgd7j0Xy = 2053715734;
 	long long	AC3y_K6tZ;
-	AC3y_K6tZ	=	-197097691;
+
 	unsigned long	MOSvh4;
 	MOSvh4	=	-786283096;
     unsigned char    I13l;
@@ -89,7 +89,7 @@ int main(int argc, char** argv) {
  long double P4hFefM4;
 
   short int  hTzcFm2;
-  hTzcFm2  =  1646820852;
+
 	float	p_hvC9u7;
 
   short int  a_Np;
@@ -161,7 +161,7 @@ int main(int argc, char** argv) {
     float    A179dq0;
 
     float    p0AX;
-    p0AX    =    1768688458;
+
  unsigned int y_8OB;
  y_8OB = -1103753799;
 	char	SRC2lk_5;
@@ -248,7 +248,7 @@ for (int i = 0; i < 1; i++)
 
 A179dq0 = fjqdof5LjU >> V0LLdb;
 p_hvC9u7 = (int)abs(fjqdof5LjU) + (-798140936);
-TdRyy54v %= 1795097072;
+
 
 if (BJIX3Q20pH)
 {
@@ -274,7 +274,7 @@ if (yVg9 > 1869077359)
 }
 else if ((e8y8fUs == lZ2pg486B) || (lx30Mc))
 {
-TdRyy54v = (int)abs(lx30Mc);
+
 }
 else if (tHMrm71i7 & 2116959246)
 {
@@ -300,7 +300,7 @@ case 1:
 l2lU_4M = (int)ceil(w8L_7b05E);
 break;
 case 2:
-AC3y_K6tZ = (oKgd7j0Xy < 1012634923) ? nF93zO61jL : mTaW86q;
+
 break;
 case 3:
 
@@ -340,7 +340,7 @@ case 3:
 w10I_a3Ca = yVg9 | aq4o4f_;
 break;
 case 4:
-p0AX = (int)ceil(w10I_a3Ca);
+
 break;
 case 5:
 
@@ -401,7 +401,7 @@ case 1:
 d9_K5RO = e8y8fUs ^ U6Dg;
 break;
 case 2:
-p0AX = (int)ceil(atmYBS);
+
 break;
 case 3:
 
@@ -464,7 +464,7 @@ if ((p_hvC9u7 <= -291562293) || (T8gP2WwfO))
 }
 else
 {
-TdRyy54v = (int)abs(d48bk2);
+
 }
 
 
@@ -504,7 +504,7 @@ case 2:
 
 break;
 case 3:
-k8R_52K = gYAGi / 613904591;
+
 break;
 case 4:
 
@@ -516,7 +516,7 @@ case 6:
 
 break;
 default:
-BcXlPt4 <<= 139355427;
+
 break;
 }
 }
@@ -541,7 +541,7 @@ case 2:
 
 break;
 case 3:
-atmYBS = (int)ceil(VhHE);
+
 break;
 case 4:
 
@@ -553,7 +553,7 @@ case 6:
 
 break;
 case 7:
-N8xIna0 = Dy5W9GK0 / Psz18jH3vL;
+
 break;
 case 8:
 

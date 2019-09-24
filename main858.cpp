@@ -46,7 +46,7 @@ int main(int argc, char** argv) {
     long double    lf42D;
 
     unsigned char    e9tl;
-    e9tl    =    309005731;
+
     long long    VOcz5_;
 
   unsigned short  Ld3N043;
@@ -66,7 +66,7 @@ int main(int argc, char** argv) {
     short    qI0Y09_iM;
     qI0Y09_iM    =    -1078748816;
   long  tv58;
-  tv58  =  1813811839;
+
   unsigned char  G0f9_UUYr;
   G0f9_UUYr  =  -1391566105;
     int    I39qjQuYSM;

@@ -40,7 +40,7 @@ int main() {
  unsigned char V6fl2;
  V6fl2 = -2109766697;
   int  qcXw90EG_w;
-  qcXw90EG_w  =  0;
+
  unsigned long long MCwC_DA;
  MCwC_DA = 919908221;
 	int	WDk8;
@@ -431,7 +431,7 @@ case 4:
 
 break;
 case 5:
-qcXw90EG_w = r9W7(1635114317, zesn5Yn, -1003425638, -254032171, Isx0Wf787I);
+
 break;
 case 6:
 

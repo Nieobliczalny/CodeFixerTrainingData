@@ -190,7 +190,7 @@ case 2:
 cZAGRYYA--;
 break;
 case 3:
-Ht9rAnR = (int)ceil(yqBc);
+
 break;
 case 4:
 jr9Wk12Pm2 = WY9n(jr9Wk12Pm2, -1383487100, 1691140295);

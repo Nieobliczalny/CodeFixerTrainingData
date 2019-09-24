@@ -25,7 +25,7 @@ int main(int argc, char** argv)
   long  EC4j239_C;
 
     short int    XkR8J_ZZ;
-    XkR8J_ZZ    =    -1995555491;
+
 	unsigned long	u5U43S;
 	u5U43S	=	1176807377;
     unsigned long    S6evZ6;
@@ -37,7 +37,7 @@ int main(int argc, char** argv)
  long oxmxd0IB;
 
     float    O3QtZec;
-    O3QtZec    =    713853347;
+
  long long qEe5N;
  qEe5N = 444189108;
     int    psqu;
@@ -63,7 +63,7 @@ int main(int argc, char** argv)
  unsigned long Gzhh;
  Gzhh = 1402336095;
   char  VdB_Fck;
-  VdB_Fck  =  1731642244;
+
     double    b4Pxb3Frn5;
 
 	short int	F9A8;
@@ -89,7 +89,7 @@ int main(int argc, char** argv)
  long long ZdqV4B0MC;
 
 	unsigned long long	KwQ8;
-	KwQ8	=	1901311528;
+
   unsigned short  QzX_6_D12;
   QzX_6_D12  =  82454073;
   short int  za3LwP;
@@ -121,7 +121,7 @@ int main(int argc, char** argv)
  double m50AR3U;
 
  long double WWrJb6248S;
- WWrJb6248S = 1589008316;
+
   unsigned char  V0YQMo8OB;
   V0YQMo8OB  =  -1862105053;
  int o0FV;
@@ -133,7 +133,7 @@ int main(int argc, char** argv)
   unsigned short  p8c2v;
 
 	unsigned char	a2__PCj8j;
-	a2__PCj8j	=	-1906409948;
+
   unsigned long long  Ljhi6;
   Ljhi6  =  22825873;
     short int    pfT_2i2h1t;
@@ -143,7 +143,7 @@ int main(int argc, char** argv)
   long  Y3Udrd_hr;
 
   unsigned short int  Wp77j5H;
-  Wp77j5H  =  1768693371;
+
 	long	a2_3YM;
 	a2_3YM	=	-1659575062;
   long  KPSpRdO2E4;
@@ -155,7 +155,7 @@ int main(int argc, char** argv)
  double cfpI;
  cfpI = -923384861;
   double  cqr_5;
-  cqr_5  =  -1335616515;
+
     char    zc0l8iU20;
 
     double    z9WM;
@@ -165,7 +165,7 @@ int main(int argc, char** argv)
   double  DlQrjEDD7;
   DlQrjEDD7  =  -1461774335;
  long long d4p8Vf;
- d4p8Vf = -1561523937;
+
   unsigned short  sl_88FJZ1;
   sl_88FJZ1  =  -730401935;
  short XEIHQC2rF7;
@@ -177,7 +177,7 @@ int main(int argc, char** argv)
 	int	p_FeCe_aiS;
 
   short int  EP7_3DO;
-  EP7_3DO  =  -832829225;
+
 	double	yj82DdXA;
 
 	short	H2LM;
@@ -207,7 +207,7 @@ int main(int argc, char** argv)
   char  gWTR;
 
     double    y6c4pe;
-    y6c4pe    =    700245864;
+
     double    tF7F2_Pz;
     tF7F2_Pz    =    1805775720;
  unsigned int woCo5M;

@@ -390,7 +390,7 @@ if (((rEil3 & 734841695) || (gHT2b_0Rb)) || (pe453Xx3c7 & D173VY5))
 }
 else
 {
-U2ttWmm4r = (int)abs(pe453Xx3c7);
+
 }
 j++;
 }
@@ -443,7 +443,7 @@ case 'f':
 
 break;
 case 'g':
-BH4We = (int)ceil(m82S);
+
 break;
 default:
 i_aSH--;

@@ -158,7 +158,7 @@ if (((LK6I5A == FJNhk) && (G6GbC <= slCuNT)) || (slCuNT <= oZxq))
 int k = 0;
 do
 {
-lQE_9_2 = IxPZFq / 1469262598;
+
 ++k;
 }
 while (k < 4);

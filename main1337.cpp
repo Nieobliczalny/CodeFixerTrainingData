@@ -163,7 +163,7 @@ sl__OcFh++;
 cout << "l2U6" << "rb22sd4" << xV51xktO6 << endl;
 
 M4xYN++;
-TJddrzy4L = (unsigned short)(CTgp + (S0Y6j68y3));
+
 
 
 
@@ -248,7 +248,7 @@ else
 
 }
 
-VRi7IuIJv = (double)(B___ic8I);
+
 
 
 
@@ -281,7 +281,7 @@ else
 juf8++;
 
 
-JN37g = (int)ceil(ndpM);
+
 return 0;
 }
 

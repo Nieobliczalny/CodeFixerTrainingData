@@ -739,7 +739,7 @@ case 0:
 q_1EUL = (int)abs(FmuV_e);
 break;
 case 1:
-S_1o7 = A45O ^ 754235378;
+
 break;
 case 2:
 
@@ -809,7 +809,7 @@ q_1EUL = pfCo();
 switch (drWrYeL1)
 {
 case 'a':
-h72X &= 1816296003;
+
 break;
 case 'b':
 H14UE5Bh63 |= 1700815366;

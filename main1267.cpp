@@ -57,7 +57,7 @@ int main(void) {
     tNx_KMb    =    1396929782;
     I713R    =    130229741;
     N9_Z7M    =    1522507384;
-    Ip60    =    482611631;
+
     sXO12p    =    1550098417;
     pclEb    =    -75063585;
     s4QgP24z1O    =    -1989538713;
@@ -73,7 +73,7 @@ int main(void) {
     zI0PD39v    =    -461347975;
     v2_85A925    =    -1973403086;
     k3UU7E8A    =    1206534121;
-    Q5et    =    1700740633;
+
     B6UeNTPUG    =    -724479105;
     OU3IT    =    -505580779;
     K3yH6M84lb    =    1428473032;
@@ -383,7 +383,7 @@ case 0:
 
 break;
 case 1:
-PsCWv = AhK2X_(PsCWv, j2kzi_t2, 121628293, -872512912, 496483560);
+
 break;
 case 2:
 
@@ -465,7 +465,7 @@ case 'c':
 
 break;
 case 'd':
-t0R06kM8 = zn3wu0(t0R06kM8, PYpQ5);
+
 break;
 case 'e':
 AzTF5Y++;

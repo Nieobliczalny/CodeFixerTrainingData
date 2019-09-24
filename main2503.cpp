@@ -87,7 +87,7 @@ int main()
 	unsigned long long	N_MMrJEGK;
 
 	int	z1v9Nc551;
-	z1v9Nc551	=	1540411257;
+
     short int    H5lPxM6C7K;
     H5lPxM6C7K    =    -7383315;
  float ro58ZRrJiD;
@@ -429,7 +429,7 @@ if (f3FOfJ >= qCrXX5xE_Q)
 {
 try
 {
-Fn1In6qc = ub7VE5bI + 1305383381;
+
 }
 catch (int& errorCode)
 {
@@ -464,7 +464,7 @@ case 'h':
 
 break;
 case 'i':
-N6_E58v = Dq63z - pAxY;
+
 break;
 case 'j':
 NE6u = jspvJkq_ED(772525659, Pthw5XC_HT);
@@ -514,7 +514,7 @@ case 'e':
 
 break;
 case 'f':
-g3BkQMlQJ = (int)abs(EC0mN);
+
 break;
 default:
 

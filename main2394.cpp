@@ -134,7 +134,7 @@ case 'c':
 
 break;
 case 'd':
-PZU_D = Pe2n(-1012805019, 1457287023, B9VAzgE, 563352911, 318637805);
+
 break;
 case 'e':
 

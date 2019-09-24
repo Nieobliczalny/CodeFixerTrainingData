@@ -29,7 +29,7 @@ int main() {
  unsigned int fP8h;
 
     unsigned short    tClC6;
-    tClC6    =    190026038;
+
  int mbQa1K;
 
     unsigned char    tqq_65;
@@ -39,7 +39,7 @@ int main() {
     unsigned short    lsH3;
 
     unsigned char    B0acJuj4Qq;
-    B0acJuj4Qq    =    -1689992886;
+
   unsigned char  i890Q7vv3;
   i890Q7vv3  =  -1668899086;
 	long double	TpFG;
@@ -81,7 +81,7 @@ int main() {
 	unsigned long	AlheU;
 	AlheU	=	-1020660838;
   unsigned int  KuUbOc3;
-  KuUbOc3  =  2103253169;
+
  float G1_W5yLve;
  G1_W5yLve = 1600098612;
     char    Uu4__Dt3l4;
@@ -91,7 +91,7 @@ int main() {
     unsigned char    D7OA5840E;
 
  unsigned long long N3TztBmHm;
- N3TztBmHm = 428978010;
+
     int    Iot96wf1S;
     Iot96wf1S    =    -1366543768;
  unsigned long irgujxQL8x;
@@ -107,7 +107,7 @@ int main() {
  unsigned int klsH;
 
 	long	eEUnx;
-	eEUnx	=	624921637;
+
     int    TK2Huhd;
 
     unsigned short int    j_hd_;
@@ -125,7 +125,7 @@ int main() {
     int    cCqN8A70;
 
 	long double	dsz_FIC;
-	dsz_FIC	=	326267913;
+
   unsigned long  kJepR0bK;
 
  unsigned int hYy4Wk;
@@ -137,7 +137,7 @@ int main() {
     long double    CyiS;
     CyiS    =    -248852895;
 	unsigned short	B9vKU;
-	B9vKU	=	-841716369;
+
 	char	fOh17ywg;
 	fOh17ywg	=	-739166203;
  unsigned char E_biA78M;
@@ -167,7 +167,7 @@ int main() {
 	double	d1gQBbb;
 
     long    YG7Ul_2Z4;
-    YG7Ul_2Z4    =    -1060872114;
+
  unsigned long long ufJGWY;
  ufJGWY = 1478525377;
 	char	O817sMuJT;
@@ -189,7 +189,7 @@ int main() {
     long    g35Cn2cj4;
     g35Cn2cj4    =    2030962615;
  short g0_fE76VHQ;
- g0_fE76VHQ = 225556238;
+
 	unsigned char	P58_nxRE;
 	P58_nxRE	=	-310408792;
 	unsigned char	Cj17dl_mM;
@@ -207,7 +207,7 @@ int main() {
   short int  huxY;
   huxY  =  993302633;
     unsigned short int    WSsF7yAYl5;
-    WSsF7yAYl5    =    -244288624;
+
  unsigned short int bg1YxFG;
 
 	short	jBxu;
@@ -228,7 +228,7 @@ if (Qu03B > 990417363)
 
 
 
-x5_Gg58 = Us7W6xup(604857674);
+
 
 
 cout << JbL43 << X8af5g8rgN << "m_jux22q" << "kbPc7p0VqI" << UhtN << endl;
@@ -335,7 +335,7 @@ case 4:
 
 break;
 case 5:
-d1gQBbb = (int)floor(G1_W5yLve);
+
 break;
 case 6:
 

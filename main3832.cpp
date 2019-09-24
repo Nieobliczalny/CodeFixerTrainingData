@@ -34,7 +34,7 @@ int main() {
 	unsigned long	rq9j8b;
 	rq9j8b	=	-1402426924;
     unsigned char    a__9Pti;
-    a__9Pti    =    -273931128;
+
     unsigned char    i8Y9;
     i8Y9    =    -35263573;
     unsigned char    dJ7ntbI;
@@ -48,7 +48,7 @@ int main() {
 	long	qrNh7c;
 
  long x85K;
- x85K = -574448310;
+
 	unsigned char	O2mH2_k;
 	O2mH2_k	=	785962917;
 	unsigned int	R5q5gGiK99;
@@ -64,7 +64,7 @@ int main() {
  float Xe6k_4l1s;
  Xe6k_4l1s = 785655937;
 	short	WJvb0Mi8;
-	WJvb0Mi8	=	-1658111897;
+
  float zxZ8DPr;
  zxZ8DPr = -245890767;
 	unsigned long long	g6hzCFU;
@@ -78,7 +78,7 @@ int main() {
 	char	Y60FS;
 
     unsigned long long    Bv7O1ekS;
-    Bv7O1ekS    =    1115298790;
+
     unsigned long long    SBJ9We1;
     SBJ9We1    =    -2065525877;
   unsigned char  u_AV5IT;
@@ -94,7 +94,7 @@ int main() {
  double Ou3m;
 
 	double	ODXJ3p;
-	ODXJ3p	=	-1430907842;
+
   char  PE84F5Q9b4;
 
     double    B1_Tnh_zX;
@@ -104,7 +104,7 @@ int main() {
   char  TC304;
 
     unsigned long    Pu7B3YPGx;
-    Pu7B3YPGx    =    2093372036;
+
     int    Zk7Y_;
     Zk7Y_    =    1470502373;
  unsigned long qi3oTVp98;
@@ -114,7 +114,7 @@ int main() {
     short    hD2kb6Vuud;
 
 	char	z5luhm9;
-	z5luhm9	=	0;
+
  unsigned short efNxJlj;
  efNxJlj = 0;
 	double	E_2o1;
@@ -238,7 +238,7 @@ break;
 }
 while (i >= 0);
 }
-T4Apdl = UyxV / efNxJlj;
+
 
 Ou3m = (double)(YU74u5);
 switch (SBJ9We1)
@@ -258,7 +258,7 @@ break;
 cout << rq9j8b << endl;
 
 
-zxZ8DPr = (int)ceil(Ou3m);
+
 {
 int i = 7;
 do

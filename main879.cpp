@@ -166,7 +166,7 @@ int main()
   float  E1S2;
   E1S2  =  737022410;
  double GFAR0F;
- GFAR0F = 1796272367;
+
  float T3B7Ao09;
  T3B7Ao09 = -383187956;
     long    flJ_h;
@@ -1006,7 +1006,7 @@ case 2:
 
 break;
 case 3:
-p0E_n3H %= 1973557677;
+
 break;
 case 4:
 
@@ -1018,7 +1018,7 @@ case 6:
 
 break;
 case 7:
-h63JK2KlDg = ROBheRuYF(-1475823254, Y2LEVo85, v9PN9czIeE, CHfy7o);
+
 break;
 }
 }

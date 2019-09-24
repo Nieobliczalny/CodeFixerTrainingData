@@ -275,7 +275,7 @@ case 'c':
 
 break;
 case 'd':
-y_1uIO |= 1954767689;
+
 break;
 case 'e':
 

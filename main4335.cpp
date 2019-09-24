@@ -14,7 +14,7 @@ using namespace std;
 
 int main(void) {
 	long double	T45MN5c;
-	T45MN5c	=	-1335253251;
+
 	int	t0x63;
 	t0x63	=	1480802794;
  long double vDUIr8;
@@ -64,7 +64,7 @@ int main(void) {
 	long	CvaSu;
 
 	unsigned short	Xwbt3a1f97;
-	Xwbt3a1f97	=	1727514103;
+
 	int	vTtq;
 
     long long    WO72yv;
@@ -126,7 +126,7 @@ int main(void) {
   long  H5283p27cn;
 
   int  J8kH6;
-  J8kH6  =  0;
+
   unsigned short int  fSfDXR;
 
 	unsigned long	Gst2u;
@@ -180,7 +180,7 @@ int main(void) {
   unsigned long long  K2uFUq;
   K2uFUq  =  -795055065;
 	char	X0h667_;
-	X0h667_	=	-1569719487;
+
     int    XOsdQ;
 
 	long long	C4Q61y;
@@ -190,7 +190,7 @@ int main(void) {
   char  q3Gx7_2v;
   q3Gx7_2v  =  -291153672;
   char  V_CQG;
-  V_CQG  =  -117418014;
+
  unsigned long g057C12;
  g057C12 = 242838210;
   unsigned short  Kl568;
@@ -259,7 +259,7 @@ case 3:
 DKd8gsV = WO72yv + Q1nZ0Q;
 break;
 case 4:
-T45MN5c = B874 << AB7Uc5;
+
 break;
 }
 }

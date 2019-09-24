@@ -337,7 +337,7 @@ o_65bV = l3cnj(o_65bV, -1171967036, c_viEMu_oc, bP77Dg, nsTUwv);
 break;
 case 'c':
 case 'C':
-l4810YS = (int)floor(Zg7hA);
+
 break;
 }
 switch (U85e)
@@ -355,7 +355,7 @@ case 3:
 
 break;
 case 4:
-K71M_n = (int)floor(Zg7hA);
+
 break;
 case 5:
 

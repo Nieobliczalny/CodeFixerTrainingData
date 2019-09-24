@@ -70,7 +70,7 @@ case 'f':
 
 break;
 default:
-E36X2 = nUur4(443836017);
+
 break;
 }
 for (int i = 5; i >= 0; i--)

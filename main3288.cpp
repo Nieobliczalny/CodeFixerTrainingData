@@ -508,7 +508,7 @@ DyP_2ery55 *= fM_YUop;
 }
 else if (Y6c7V5xPO >= 1115375923)
 {
-tlu0kzc = (int)floor(Q9U1hwu);
+
 }
 else if (PWvWh6 > -341409076)
 {
@@ -540,7 +540,7 @@ if ((lz8NgqH <= h6U96Bz8) && ((FF8ZVlNYJ6 > -1955351171) && (x97c <= 1756259280)
 {
 try
 {
-utB461tMPy = fM_YUop / w7xFB30Y;
+
 }
 catch (int& errorCode)
 {
@@ -583,7 +583,7 @@ case 'f':
 
 break;
 case 'g':
-o_o6K9WDi = (int)ceil(DyP_2ery55);
+
 break;
 }
 }

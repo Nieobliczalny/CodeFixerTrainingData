@@ -252,7 +252,7 @@ if (gZnZV & P63Fh_EIaq)
 {
 if (lh_1JhW1Qi != P63Fh_EIaq)
 {
-l0Q455 = (t1PH != WIW31) ? Tg9H27_X5(i7A0sJB, 1413462264, 1381881649, g1Qi8xfBM7, 1593750160) : -1523355691;
+
 }
 }
 else

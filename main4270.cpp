@@ -160,7 +160,7 @@ case 'f':
 f_63tj5_ = X31p3 << F4Vc2L3_;
 break;
 case 'g':
-l3TL0Bz99C = (int)abs(Vx1IYNhdi);
+
 break;
 default:
 yKFBl *= SQJm_ud_;
@@ -228,7 +228,7 @@ case 0:
 F2aiqX0o3_--;
 break;
 case 1:
-l3TL0Bz99C = (int)abs(Vx1IYNhdi);
+
 break;
 case 2:
 G0h_B++;

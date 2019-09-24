@@ -142,7 +142,7 @@ qr34 = O9xB7O657(1777102407, BO949U4S7, Q2p3b7AD, SgT25S, f4_y_iOoKd);
 break;
 case 'd':
 case 'D':
-dqG_BrRc = bajAiFP8 / 95294617;
+
 break;
 case 'e':
 case 'E':
@@ -218,7 +218,7 @@ int k = 0;
 while (k < 8)
 {
 k++;
-dqG_BrRc = (int)ceil(n85A4);
+
 }
 }
 }
@@ -366,7 +366,7 @@ try
 switch (FbTX)
 {
 case 'a':
-dqG_BrRc = f7m0th6I6G * f7m0th6I6G;
+
 break;
 case 'b':
 F_J9b /= O66_2;

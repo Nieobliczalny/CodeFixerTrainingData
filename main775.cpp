@@ -18,7 +18,7 @@ int main(void) {
   int  J5ofo3;
   J5ofo3  =  891759797;
 	long double	VuxdL;
-	VuxdL	=	59644634;
+
     unsigned char    sUA8l;
 
     unsigned long    VuPKL;
@@ -36,7 +36,7 @@ int main(void) {
  char bBfQh8d5f;
  bBfQh8d5f = -2139614238;
  int Y_C_;
- Y_C_ = -773814377;
+
     float    MBUux;
     MBUux    =    -1117338473;
  long long Tq0pPVK;
@@ -64,7 +64,7 @@ int main(void) {
     unsigned int    zN7L7WL;
     zN7L7WL    =    -1083586476;
  double iMrr7PJ7u;
- iMrr7PJ7u = 885066041;
+
  unsigned short C1R21;
  C1R21 = -300516721;
  unsigned short int nTUvmLQ;
@@ -76,7 +76,7 @@ int main(void) {
     long long    Lumhz8lI2_;
 
 	unsigned long long	IVmw8_DEl;
-	IVmw8_DEl	=	0;
+
   unsigned char  W71c692s9A;
   W71c692s9A  =  714677370;
 	short	oE95VVv_9;
@@ -88,7 +88,7 @@ int main(void) {
     int    YXYXcpa;
     YXYXcpa    =    2119335182;
  short wA1dCb04;
- wA1dCb04 = -665580282;
+
  int AHt64dL67;
  AHt64dL67 = 1376227711;
   short int  KwHS1o76;
@@ -262,7 +262,7 @@ else if ((KwHS1o76 < 802565751) && (fh8LloC))
 {
 try
 {
-YXYXcpa %= 1519185543;
+
 }
 catch (int& errorCode)
 {
@@ -308,7 +308,7 @@ case 'c':
 
 break;
 case 'd':
-AHt64dL67 = n9hj8EX(AHt64dL67, 1813454537, MxeK3ierK, 969700331);
+
 break;
 case 'e':
 

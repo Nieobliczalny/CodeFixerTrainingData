@@ -49,7 +49,7 @@ int main(void)
     long    BJ8044i;
     BJ8044i    =    860003471;
 	double	s_4IqbZ5;
-	s_4IqbZ5	=	-1603800893;
+
     long long    f0rW;
 
     char    x5TiRu_;
@@ -67,7 +67,7 @@ int main(void)
 	long long	jFM4z82r3y;
 	jFM4z82r3y	=	-618699822;
 	char	g3YLS;
-	g3YLS	=	-1235612641;
+
   unsigned int  G6N25Q811;
 
   long long  pq8p_IAe6L;
@@ -81,7 +81,7 @@ int main(void)
 	short int	jBB97;
 
  unsigned long long oH1x0jf;
- oH1x0jf = 0;
+
     short    lnBgMP5kh;
 
 	unsigned short int	ZC4s9V;
@@ -91,7 +91,7 @@ int main(void)
 	long double	xHLk_EI16p;
 
   unsigned short  fOO5kzE;
-  fOO5kzE  =  1886916903;
+
   unsigned long long  d3O7B;
   d3O7B  =  -1429767849;
   short  e__o;

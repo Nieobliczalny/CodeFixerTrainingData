@@ -75,7 +75,7 @@ int main(int argc, char** argv) {
     unsigned long    CZr9bP;
 
  unsigned int Ty02;
- Ty02 = -524112622;
+
 	unsigned char	O685;
 	O685	=	-1907564061;
  long geih;

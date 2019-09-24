@@ -290,7 +290,7 @@ case 4:
 
 break;
 case 5:
-pyG1 = y6a7xa19g4(pyG1, -241793698, -1859768173, 557970398);
+
 break;
 default:
 PK3t = y6a7xa19g4(PK3t, -557294260, If733_4f_, fEx7);
@@ -310,7 +310,7 @@ case 2:
 
 break;
 case 3:
-Xf57lF0R_N %= 1797152565;
+
 break;
 }
 cout << "UP3FVAq14" << endl;

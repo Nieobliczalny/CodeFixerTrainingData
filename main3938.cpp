@@ -26,7 +26,7 @@ int main(int argc, char** argv) {
  float uuDic;
 
 	unsigned int	F9_W4;
-	F9_W4	=	-992980914;
+
 	double	mcM2y9BB3;
 	mcM2y9BB3	=	1012274883;
   int  Tdhblx;
@@ -484,7 +484,7 @@ case 2:
 
 break;
 case 3:
-U1T_5K = (int)abs(SvcCFJn);
+
 break;
 }
 

@@ -41,7 +41,7 @@ int main()
  int l4xY;
 
     long    RGo6_E;
-    RGo6_E    =    -1506740275;
+
  unsigned short int cPFV;
 
  char w5S1vrnU2o;
@@ -51,7 +51,7 @@ int main()
 	unsigned short	PLOP2Jq4;
 
     long long    kv0K7I431;
-    kv0K7I431    =    1503398108;
+
     unsigned short    kKBX_a;
     kKBX_a    =    1810430976;
     unsigned int    udiFw0d6VI;
@@ -73,7 +73,7 @@ int main()
     char    P6XA6QL_;
 
     long double    fgLPh;
-    fgLPh    =    16230060;
+
   long long  hn__wGn;
   hn__wGn  =  0;
  int CW1_CrPCbC;
@@ -91,7 +91,7 @@ int main()
  unsigned char HPq5R916Nu;
  HPq5R916Nu = 1350985314;
   int  uR_u81;
-  uR_u81  =  -1021426076;
+
 
 {
 int i = 1;
@@ -134,7 +134,7 @@ case 'i':
 break;
 }
 
-P6XA6QL_ = W_2z3k(918114108, y2gvdH1w0);
+
 switch (udiFw0d6VI)
 {
 case 0:
@@ -178,7 +178,7 @@ case 'c':
 
 break;
 case 'd':
-IhkA = (int)ceil(EiH5);
+
 break;
 case 'e':
 

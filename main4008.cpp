@@ -37,7 +37,7 @@ int main(int argc, char** argv) {
 	int	q7c99u2;
 
  unsigned short int P1_1Q2xpdy;
- P1_1Q2xpdy = 0;
+
   char  EPoJzoSaf;
   EPoJzoSaf  =  -628284321;
  float fFtiFJjl;
@@ -153,7 +153,7 @@ int main(int argc, char** argv) {
     long long    UuI82Rf;
 
   long long  OC18;
-  OC18  =  2113902879;
+
   unsigned long long  Eqn1bsHPb;
   Eqn1bsHPb  =  -1681885011;
 	long long	N0iyrSs;
@@ -310,7 +310,7 @@ b5kueY = K7at8 >> NIG0PQJZSl;
 switch (shCw23eK)
 {
 case 0:
-EPoJzoSaf = g1278fd8 & 500837802;
+
 break;
 case 1:
 N0iyrSs = b8QgND3t();
@@ -373,7 +373,7 @@ case 'c':
 
 break;
 case 'd':
-UuI82Rf = W5K6yB(451538896, hJip, NIG0PQJZSl, -779015345, hOWWw9Q);
+
 break;
 case 'e':
 

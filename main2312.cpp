@@ -19,7 +19,7 @@ unsigned short    K1T3eC9(char    CoqSf_,unsigned short    uKw7R_,unsigned int  
 int main()
 {
     int    DdBoqO0bJX;
-    DdBoqO0bJX    =    495244785;
+
   unsigned long  Wuandv6;
 
   unsigned short int  or0_U;
@@ -55,7 +55,7 @@ int main()
   unsigned short  xv8P8Z;
   xv8P8Z  =  937555080;
     float    dG_7;
-    dG_7    =    -1258141450;
+
     unsigned int    B8qeRJ1;
     B8qeRJ1    =    -893925295;
 	char	Z4c0X_7k;
@@ -139,7 +139,7 @@ case 2:
 
 break;
 case 3:
-YI_241U0t = K1T3eC9(Pe45Ox5, -1934259030, 381862570, 1176760631);
+
 break;
 case 4:
 e4Do948 = (dAkTF6z9a == SYPA3FoeN) ? K1T3eC9(Pe45Ox5, -595397130, GQEi7, pgPa_j) : -1473751502;

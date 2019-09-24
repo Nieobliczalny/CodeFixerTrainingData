@@ -316,7 +316,7 @@ else
 cout << "khuvVA" << o1h04Rq(M7H9z1c, 520201081) << Yg7yKUd2o << endl;
 }
 
-QMz4ky9UzF = -1947641831 / kDm0JB;
+
 
 switch (QVm_R)
 {

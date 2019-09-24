@@ -70,7 +70,7 @@ if (f18H != taxo45Z33)
 {
 if (Y651_O4 < 572731522)
 {
-pU0_c = (int)abs(QIF0dt40);
+
 }
 else
 {

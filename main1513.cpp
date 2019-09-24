@@ -243,7 +243,7 @@ iTFawgw6 = (int)floor(h55Luu_H7);
 }
 else if ((cjuEr9Q != Lpj29IOUL3) || (Sq7X))
 {
-YbgI7cXn = (int)floor(gTYbuyZl);
+
 }
 else if (hEQnAr5OEF == 1129204251)
 {

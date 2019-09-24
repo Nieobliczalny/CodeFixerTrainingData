@@ -622,7 +622,7 @@ case 'd':
 
 break;
 case 'e':
-KNoe = (int)ceil(K73RP7);
+
 break;
 case 'f':
 W9sR9S4 = vI5hx1t1a();

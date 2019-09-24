@@ -458,7 +458,7 @@ case 3:
 
 break;
 case 4:
-hMXgS = GR34 << RA2_27R;
+
 break;
 case 5:
 

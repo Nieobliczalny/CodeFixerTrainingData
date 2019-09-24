@@ -311,7 +311,7 @@ WnCtFxN5++;
 switch (l2_3K0_)
 {
 case 'a':
-e866 = lJ3_1Oe(s64_1p, gfeh_8r29);
+
 break;
 case 'b':
 TH0Eaq = (gCr7_vIDkA > yl3Y_TZXH8) ? 1022405251 : R9mHsER;
@@ -414,7 +414,7 @@ case 2:
 
 break;
 case 3:
-R6U2chz = IB89TPnCq ^ 95550841;
+
 break;
 case 4:
 
@@ -542,7 +542,7 @@ case 'f':
 
 break;
 case 'g':
-IYTn >>= q2yU;
+
 break;
 case 'h':
 

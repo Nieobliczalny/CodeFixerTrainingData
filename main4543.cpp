@@ -60,7 +60,7 @@ case 5:
 
 break;
 case 6:
-NpXEURIym = (int)floor(F4D55);
+
 break;
 }
 }
@@ -92,7 +92,7 @@ case 6:
 
 break;
 case 7:
-T3Zm7ZWs2 = Hp_5(L_HZlc) >> 808890656;
+
 break;
 }
 
@@ -118,7 +118,7 @@ break;
 
 
 o9P9 = Hp_5(ov0P_j8sR);
-A90mk = (int)ceil(ND2T);
+
 
 
 for (int i = 6; i >= 0; --i)

@@ -34,7 +34,7 @@ int main() {
  unsigned int s_6y54f;
  s_6y54f = 1527445658;
 	unsigned int	m7Qw;
-	m7Qw	=	768809681;
+
   unsigned short  iojs;
   iojs  =  2125800771;
   unsigned short int  iqBroKc;
@@ -111,7 +111,7 @@ Adw6j8u3 = nNV6 & 384864611;
 break;
 case 'c':
 case 'C':
-VFNI2_ = kL7P76nc9 + 166157172;
+
 break;
 default:
 iqBroKc = TKUD1 + pZ7Z95V3EX;
@@ -242,7 +242,7 @@ case 6:
 
 break;
 case 7:
-s_6y54f *= 397661575;
+
 break;
 case 8:
 

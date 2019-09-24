@@ -22,7 +22,7 @@ int main(void) {
   int  LIim1_4;
   LIim1_4  =  1701128393;
 	long long	C32_5lxRCI;
-	C32_5lxRCI	=	648406655;
+
  float GjL24_;
  GjL24_ = -224138080;
     unsigned long long    imlr1J;
@@ -62,7 +62,7 @@ int main(void) {
   char  X2Z_;
   X2Z_  =  206342691;
 	unsigned short int	SR7P13h;
-	SR7P13h	=	1870131598;
+
 	unsigned long long	Hjb1kXha7;
 	Hjb1kXha7	=	-227480450;
     short    NWpEj;
@@ -82,7 +82,7 @@ int main(void) {
     short int    Jq2t;
 
     unsigned char    vc1Z;
-    vc1Z    =    27368871;
+
     long double    z48Cl;
     z48Cl    =    -1071838704;
   short int  j_0r3Hy_a;
@@ -218,7 +218,7 @@ for (int j = 0; j < 10; j++)
 
 if (cuY4q == 0)
 {
-	C32_5lxRCI = FDXDEa / cuY4q;
+
 }
 
 if (Sh_c & BeM9cU)
@@ -289,7 +289,7 @@ case 4:
 
 break;
 default:
-NWpEj = (int)abs(cJ727);
+
 break;
 }
 return 0;

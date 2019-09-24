@@ -207,7 +207,7 @@ case 0:
 
 break;
 case 1:
-NQ743I7J += 1746798957;
+
 break;
 }
 }
@@ -501,7 +501,7 @@ else
 
 }
 
-qbHBk = (char)(kna05vMY_);
+
 {
 int i = 10;
 while (i >= 0)
@@ -525,7 +525,7 @@ case 2:
 
 break;
 case 3:
-E_3f_Kspf = lu9_Akm(dSwXZd6, pj1c111wZ);
+
 break;
 default:
 

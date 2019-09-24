@@ -212,7 +212,7 @@ else
 
 
 
-GaVg_ = (int)abs(aY4U_3O7);
+
 for (int i = 2; i >= 0; --i)
 {
 
@@ -258,7 +258,7 @@ case 2:
 
 break;
 case 3:
-YOGFjKSIB = (int)floor(WX43n1kYF);
+
 break;
 }
 return 0;

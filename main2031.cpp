@@ -38,7 +38,7 @@ int main(void) {
 	unsigned short	LGqy3DI3av;
 	LGqy3DI3av	=	551769002;
     double    P6BN60ItZ_;
-    P6BN60ItZ_    =    76361931;
+
 	float	YH70;
 	YH70	=	-1439051536;
     short    AylOG112M7;
@@ -50,7 +50,7 @@ int main(void) {
     char    UP9be;
     UP9be    =    668497717;
  int Wo_r4fypbU;
- Wo_r4fypbU = -1470342123;
+
     float    xgY01L;
 
     long long    aI5B18;
@@ -70,7 +70,7 @@ int main(void) {
  short i_B59u;
 
   long double  U2544;
-  U2544  =  609962314;
+
   long long  O8gPoT;
 
   long long  Fb1xAO;
@@ -80,7 +80,7 @@ int main(void) {
 	unsigned int	HA_5F1;
 
     unsigned short int    C3gkdhd;
-    C3gkdhd    =    -609442656;
+
  short lm02vaa9;
 
     float    u2t04Jot0;
@@ -92,7 +92,7 @@ int main(void) {
  unsigned short int D4542;
  D4542 = 0;
   short int  QZ0722A9g1;
-  QZ0722A9g1  =  1149569761;
+
  unsigned short Hm7jW7apO;
 
     unsigned short    yxhqY1ub3;
@@ -102,7 +102,7 @@ int main(void) {
     unsigned long long    WMU2vvU3c;
 
   float  V628GWV3;
-  V628GWV3  =  -903809530;
+
   unsigned char  um63a2K;
   um63a2K  =  -2115011861;
 	long	o88SXH51;
@@ -112,7 +112,7 @@ int main(void) {
  unsigned long R4hJ;
 
   unsigned short  X5AbPH8pK;
-  X5AbPH8pK  =  -1783426432;
+
   unsigned long  V4EiY7vlV;
   V4EiY7vlV  =  -707996680;
   unsigned char  nl9X5_9_37;
@@ -124,7 +124,7 @@ int main(void) {
     float    f65p6j6M;
 
  unsigned int d0SJx0SX;
- d0SJx0SX = 1966663482;
+
  long long r30a;
 
     char    KU4P_1MNp;
@@ -140,7 +140,7 @@ int main(void) {
   long double  z2Z33ITh;
 
  short EEI8vr7aS;
- EEI8vr7aS = 1695279252;
+
 	unsigned short int	A3rGyWf;
 	A3rGyWf	=	-250097020;
     unsigned short int    xQsvoI4f;
@@ -152,7 +152,7 @@ int main(void) {
     unsigned char    GivB15U6;
 
 	unsigned short int	U_oG3;
-	U_oG3	=	-1855493932;
+
     short int    YpU2d;
 
 	long double	gRjgxweI;
@@ -192,7 +192,7 @@ int main(void) {
 	long double	i0T_43_Y8;
 
   int  OH3W;
-  OH3W  =  1279358118;
+
     unsigned int    DUC_V;
 
     long double    oVi5CVr;
@@ -216,7 +216,7 @@ int main(void) {
 	short	dqAGw4nDSn;
 
  unsigned long ll_4kbenL;
- ll_4kbenL = 2052067197;
+
   unsigned long long  WYChQ;
 
     short int    xRZEDL81;
@@ -226,7 +226,7 @@ int main(void) {
   float  HEhGpr;
 
  unsigned long long NLy9;
- NLy9 = -668345456;
+
  int lg064QM;
 
     unsigned short    V9ZLU;

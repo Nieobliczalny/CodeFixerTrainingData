@@ -60,7 +60,7 @@ int main(int argc, char** argv)
  double L9H7OdCk;
 
   double  VAtd8qycRm;
-  VAtd8qycRm  =  806965516;
+
     long    G4M5ls8WcR;
     G4M5ls8WcR    =    473641787;
 	char	Ia9WY8657q;
@@ -88,7 +88,7 @@ int main(int argc, char** argv)
     long long    s_TUh;
     s_TUh    =    1960771785;
     long long    m3iwyoFELU;
-    m3iwyoFELU    =    -237443119;
+
  unsigned short int g8XV;
 
  unsigned short GX8H8F1;
@@ -98,7 +98,7 @@ int main(int argc, char** argv)
 	double	f5_0KA;
 
   int  HvTY5;
-  HvTY5  =  2133133031;
+
     int    Qxd2;
     Qxd2    =    664198738;
     unsigned char    cUq_zX7l;
@@ -114,7 +114,7 @@ int main(int argc, char** argv)
  int XwqGi;
 
 	short	GT8J5g;
-	GT8J5g	=	1088771717;
+
   unsigned char  Pl2R6t1V5;
   Pl2R6t1V5  =  -435405570;
 	short	ZfFv8p9h;
@@ -158,7 +158,7 @@ int main(int argc, char** argv)
     float    xq_lA;
     xq_lA    =    1920075562;
 	float	W7hzQ;
-	W7hzQ	=	-1957355613;
+
     short int    SC_ImEqf;
     SC_ImEqf    =    1035124908;
     long    vIiyIR;
@@ -196,7 +196,7 @@ int main(int argc, char** argv)
     short int    tkIyvu;
     tkIyvu    =    1006337537;
 	char	H6aQ0h6u5T;
-	H6aQ0h6u5T	=	-982887139;
+
     unsigned short    VyDBae;
     VyDBae    =    -1468518779;
   int  X05RD;
@@ -226,7 +226,7 @@ int main(int argc, char** argv)
   unsigned short  bDpb46SOx;
 
 	char	ZJ_qRaRO;
-	ZJ_qRaRO	=	-1103744619;
+
     long    mAyHwo;
 
  float YhxyD_6q;
@@ -387,7 +387,7 @@ if (F3I4WTT_at < Pl2R6t1V5)
 
 try
 {
-OY4_g = A8p1Lyo_8(-1972524749);
+
 }
 catch (int& errorCode)
 {

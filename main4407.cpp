@@ -28,7 +28,7 @@ int main(void) {
   unsigned short  m_Q0HiQ;
   m_Q0HiQ  =  -1924599463;
   unsigned short  z537Tp3Ca;
-  z537Tp3Ca  =  -1257565042;
+
 	double	Rx67_3tO7X;
 	Rx67_3tO7X	=	-1185463468;
  unsigned long long yItp;
@@ -48,7 +48,7 @@ int main(void) {
  short sEXT4byG;
  sEXT4byG = -83161847;
     long double    Wnj2BD;
-    Wnj2BD    =    -212077759;
+
 	double	uaw4gsaG;
 
   int  gg9L;
@@ -353,7 +353,7 @@ KA2o_ = vn6JNi1n6B(eFD0pI, 244916976, 2114552799, Za06f86g);
 }
 else
 {
-Wnj2BD = (int)ceil(h7_b3);
+
 }
 
 std::cout << -410924992 / KA2o_ << std::endl;
@@ -551,7 +551,7 @@ case 'c':
 
 break;
 case 'd':
-KA2o_ = vn6JNi1n6B(-167309067, im80, g4_Wc82OUr, KA2o_);
+
 break;
 case 'e':
 
@@ -563,7 +563,7 @@ case 'g':
 
 break;
 case 'h':
-svlYiIf_ %= yi4q45shaE;
+
 break;
 case 'i':
 

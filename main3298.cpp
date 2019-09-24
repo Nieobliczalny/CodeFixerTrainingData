@@ -92,7 +92,7 @@ case 2:
 
 break;
 case 3:
-NURWh86K += n3iFyJ9L;
+
 break;
 case 4:
 
@@ -104,7 +104,7 @@ case 6:
 
 break;
 case 7:
-GRSE95 /= 1800794102;
+
 break;
 case 8:
 

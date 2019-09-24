@@ -204,7 +204,7 @@ case 0:
 ISDo_++;
 break;
 case 1:
-esUABeQ_a4 *= qLZ0uy;
+
 break;
 case 2:
 i58Vh34 = esUABeQ_a4 & 853129624;
@@ -386,7 +386,7 @@ case 3:
 qLZ0uy -= jH_oZ4dm;
 break;
 case 4:
-y1fg8 |= c6K3r44_;
+
 break;
 case 5:
 
@@ -396,7 +396,7 @@ d536ds8b4G--;
 break;
 }
 
-H5xMJNf = V7Cz / NS54;
+
 switch (w5p35)
 {
 case 'a':
@@ -409,7 +409,7 @@ i58Vh34++;
 break;
 case 'c':
 case 'C':
-J6bF /= 1123402786;
+
 break;
 case 'd':
 case 'D':

@@ -705,7 +705,7 @@ else
 {
 try
 {
-pCs_c7 >>= dY41QFpQ2;
+
 }
 catch (int& errorCode)
 {

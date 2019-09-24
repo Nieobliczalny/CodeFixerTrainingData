@@ -443,7 +443,7 @@ else
 int k = 6;
 do
 {
-Jxn__ = (int)ceil(T3zu6r8);
+
 k--;
 }
 while (k >= 0);
@@ -531,7 +531,7 @@ else
 {
 try
 {
-Jxn__ = gH1881Gj / QaW9fl6;
+
 }
 catch (int& errorCode)
 {
@@ -602,7 +602,7 @@ case 'G':
 break;
 case 'h':
 case 'H':
-Jxn__ = (U9adCK78fk & 1863085481) ? bu1tTF439 : U9adCK78fk;
+
 break;
 case 'i':
 case 'I':

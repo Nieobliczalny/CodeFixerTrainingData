@@ -42,7 +42,7 @@ int main(int argc, char** argv) {
     unsigned char    T3F_rf2;
 
   long long  rsL2jOD;
-  rsL2jOD  =  -99142403;
+
 	short int	WuVLEN8;
 	WuVLEN8	=	-1634982179;
     long    SIL4P;
@@ -66,7 +66,7 @@ int main(int argc, char** argv) {
  double IAbyb;
 
   char  QqOEo2j;
-  QqOEo2j  =  -54979464;
+
 	unsigned char	OjH8rw;
 	OjH8rw	=	970304459;
  unsigned int Es70fP;
@@ -124,7 +124,7 @@ int main(int argc, char** argv) {
     unsigned int    ipKw3v_Cdr;
 
     float    XdnK8U;
-    XdnK8U    =    -260871021;
+
     unsigned char    F71_n_nap;
     F71_n_nap    =    -1639240093;
     long double    bHS8;
@@ -343,7 +343,7 @@ case 2:
 
 break;
 case 3:
-T3F_rf2 &= uZtx4s;
+
 break;
 default:
 

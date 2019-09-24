@@ -23,7 +23,7 @@ int main(int argc, char** argv)
  long long jjW4470m06;
  jjW4470m06 = -1709906120;
  float zl9M463b1W;
- zl9M463b1W = 914646337;
+
 	unsigned char	MUZh9qb;
 
     char    Vzy9d62r3;
@@ -43,7 +43,7 @@ int main(int argc, char** argv)
   unsigned char  Mk3K3;
   Mk3K3  =  1329110586;
 	double	G2k5N;
-	G2k5N	=	-1877287614;
+
     long long    zg2P97;
     zg2P97    =    -1734078927;
     float    X7k4bsqJj;
@@ -155,7 +155,7 @@ int main(int argc, char** argv)
     short    kRDWlV;
     kRDWlV    =    -1355901326;
  unsigned long long K_GnL6Jq;
- K_GnL6Jq = -492577212;
+
     long    CTc2n9;
     CTc2n9    =    -1943648069;
  long long eAS15d1Tsi;
@@ -208,7 +208,7 @@ case 1:
 E9gg_ = VcuJRMEx1(B37_, E9gg_, CTc2n9, lYLMxIwwCH, X7k4bsqJj);
 break;
 case 2:
-CTc2n9 &= zg2P97;
+
 break;
 case 3:
 Mk3K3 = fxL41_51w + E_tZs;
@@ -220,7 +220,7 @@ case 5:
 uM_23X = (int)floor(It67HoQaNh);
 break;
 default:
-p1BqRa9 = gY0dIA9 << R6C8y12Zn_;
+
 break;
 }
 
@@ -261,7 +261,7 @@ case 7:
 
 break;
 case 8:
-OoO8 = yfnSY9(1984288518, -812681612, 135140806);
+
 break;
 case 9:
 
@@ -371,7 +371,7 @@ else if (M3qhhX == G97VS9T)
 }
 else if (((jjW4470m06 >= -44112696) && (Iz3TH4R)) || (It67HoQaNh))
 {
-B37_ = y67QS(Tb3W);
+
 }
 else
 {
@@ -482,7 +482,7 @@ case 'c':
 
 break;
 case 'd':
-oq4m291cM5 = (int)abs(G97VS9T) * 0;
+
 break;
 case 'e':
 

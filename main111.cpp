@@ -169,7 +169,7 @@ w3x8_ao16T *= 303148161;
 }
 else
 {
-T7g7Nlo55z = (int)floor(M02Mi40Qp);
+
 }
 }
 }
@@ -248,7 +248,7 @@ while (i < 4);
 
 try
 {
-eUzhSDy = cdix6 / C6q1d;
+
 }
 catch (int& errorCode)
 {

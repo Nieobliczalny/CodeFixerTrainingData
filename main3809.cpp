@@ -257,7 +257,7 @@ else
 }
 else
 {
-IzM47DF6 += 1600968361;
+
 }
 if (((Rm2A < -1365993538) && (f0Pg < RwL3D)) && ((ygKvl0Yw < 1142200502) || (pI8k & 866714106)))
 {
@@ -288,7 +288,7 @@ case 'c':
 
 break;
 case 'd':
-L7G5_AaJd0 = (int)abs(QqlEwVKTob);
+
 break;
 default:
 

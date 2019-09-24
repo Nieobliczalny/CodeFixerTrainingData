@@ -36,7 +36,7 @@ int main(void)
  float I567XASO;
 
 	long long	RrSi;
-	RrSi	=	744644448;
+
   double  somnWA05;
   somnWA05  =  544906465;
   int  AmnrTAHl;
@@ -78,7 +78,7 @@ int main(void)
 	short int	vyt7RB;
 
   unsigned char  ux5G_91Y9Z;
-  ux5G_91Y9Z  =  -2134088064;
+
 	long double	B68F4;
 	B68F4	=	-2109439022;
   long long  Pe__SbaosE;
@@ -132,7 +132,7 @@ int main(void)
     float    fj0zn_6;
 
 	long	hal_DE1p6;
-	hal_DE1p6	=	-138280990;
+
  unsigned long long hPs8MfJv;
  hPs8MfJv = 1213177756;
   short  Pqs09o;

@@ -37,7 +37,7 @@ int main(void)
  long long XR7GT2Y;
  XR7GT2Y = 344516886;
     double    jkShv12Y3;
-    jkShv12Y3    =    -1948958965;
+
  unsigned int am_7K1DA6;
  am_7K1DA6 = 1343717776;
 	short	R3Sb;

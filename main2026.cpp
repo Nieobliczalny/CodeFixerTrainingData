@@ -382,7 +382,7 @@ case 'G':
 break;
 case 'h':
 case 'H':
-OyxcbP = k70n_w % J93NEq_d;
+
 break;
 case 'i':
 case 'I':

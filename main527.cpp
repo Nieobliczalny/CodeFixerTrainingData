@@ -143,7 +143,7 @@ else
 switch (u_62ykWhmJ)
 {
 case 0:
-Qwqj9LY = (int)ceil(nRy4s_);
+
 break;
 case 1:
 
@@ -167,7 +167,7 @@ case 7:
 
 break;
 case 8:
-kYNS_x7avt *= Z28v3;
+
 break;
 default:
 a6Aq5Z = (int)floor(iOEO5);
@@ -210,7 +210,7 @@ case 'c':
 
 break;
 case 'd':
-A7c4Q6q9 = gs_L * 1272905304;
+
 break;
 case 'e':
 AR_v9D4s_0 = (int)floor(m6Ti_DmUka);
@@ -225,7 +225,7 @@ case 'h':
 
 break;
 default:
-w9It = tyaiO1b(w9It, nRy4s_, A7c4Q6q9);
+
 break;
 }
 std::cout << "XNd62I" << Qfxzcz9(-1619314874) << eYI7mb_2o5 << f2U7MQH_m_ << std::endl;
@@ -242,7 +242,7 @@ case 2:
 
 break;
 case 3:
-RFcl6_5SY8 -= 1283096227;
+
 break;
 case 4:
 

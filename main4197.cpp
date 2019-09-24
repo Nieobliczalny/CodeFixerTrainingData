@@ -419,7 +419,7 @@ case 2:
 
 break;
 case 3:
-zs57v_qqj = (int)floor(D59b_);
+
 break;
 case 4:
 

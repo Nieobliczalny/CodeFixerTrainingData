@@ -31,7 +31,7 @@ case 1:
 La5QPw = Hv50pH2 / Z768i;
 break;
 case 2:
-F9TPn591 = (int)floor(yGK5D0);
+
 break;
 case 3:
 Sap1 = KM0bB_H / 313991395;
@@ -52,7 +52,7 @@ DkN_ = (Z768i != 1032091369) ? IOMyGB7G : -794257979;
 }
 else if (Oj5jK09U_b <= Op4ane_KeN)
 {
-F9TPn591 = f__ZoZ210 * 1597038342;
+
 }
 else
 {
@@ -592,7 +592,7 @@ case 'c':
 
 break;
 case 'd':
-U_9J8UV = RUpE ^ 2146530102;
+
 break;
 case 'e':
 

@@ -25,7 +25,7 @@ int main() {
     unsigned int    Rxk9iBP;
 
  short int Tu_5w4j55;
- Tu_5w4j55 = 0;
+
     unsigned char    waeQFXrP0l;
     waeQFXrP0l    =    -2019705293;
     char    lqq2h;
@@ -149,7 +149,7 @@ int main() {
  long T9dcZ7t;
 
  int t_0hiV0F7;
- t_0hiV0F7 = 864188975;
+
  long O820;
  O820 = 1675933352;
  unsigned int lH5kshH;
@@ -171,7 +171,7 @@ int main() {
   unsigned long long  hoT753;
   hoT753  =  -1341428105;
 	unsigned short int	iX3yXz5tT8;
-	iX3yXz5tT8	=	90301242;
+
  long long SytmB_;
 
     char    k72T;

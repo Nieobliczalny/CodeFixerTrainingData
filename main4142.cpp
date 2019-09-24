@@ -178,7 +178,7 @@ SFc0 = l_c3b3(KUC7_89V, -522142691, 1345913684);
 }
 else if (l4ZYto < -930976620)
 {
-JB4A = (char)(w0eXOeSU);
+
 }
 else
 {
@@ -284,7 +284,7 @@ for (int j = 2; j >= 0; j--)
 {
 for (int k = 0; k < 4; ++k)
 {
-JB4A = N3pqkMd5 * RER6ZPAWwC;
+
 }
 }
 }
@@ -364,7 +364,7 @@ while (j < 4);
 }
 while (i < 7);
 }
-xJ2q = (char)(pKy0M26hm2);
+
 cout << L2hQb24bl << yGFQ << endl;
 if (w0eXOeSU <= W3d4X_uQt)
 {

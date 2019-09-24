@@ -31,7 +31,7 @@ int main(void)
 	nj12_q8	=	1432866519;
 	g4v2	=	-1827327258;
 
-	tzyIA	=	2042158990;
+
 	smTc2D	=	740172221;
 	tM1e3	=	-331318570;
 
@@ -41,7 +41,7 @@ int main(void)
 	qnkI4V531	=	1149641484;
 	VLh_9vk6	=	1209752383;
 	UR049TyiT4	=	-933606925;
-	m7y_6y9	=	-270377865;
+
 	ESaB7m0	=	-775433388;
 
 	pKzohV8Nx	=	-1855356838;
@@ -52,7 +52,7 @@ int main(void)
 	fu2EurrEO	=	1488524001;
 	R8_IyJ8s	=	-845039634;
 	Cm_8J	=	223074537;
-	n_w0	=	-2040555825;
+
 	TbbpQxA	=	-1070605092;
 	JrwqK	=	-980382530;
 
@@ -120,7 +120,7 @@ case 2:
 
 break;
 case 3:
-Cm_8J *= R8_IyJ8s;
+
 break;
 case 4:
 

@@ -276,7 +276,7 @@ else if ((LEqn_W5Q > p7rcm5BoK) || ((nrpZhj9_ >= -1416243357) || (c7yv_t <= x6sb
 }
 else if (((kcfl <= 89668206) && (c7yv_t < f_sg)) || (wl65 == 233435583))
 {
-cHa07dxY = (int)ceil(H0wL7c7_Ii);
+
 }
 else
 {
@@ -332,7 +332,7 @@ break;
 }
 else
 {
-Z975 = (long double)(HcMbYCIay);
+
 }
 }
 
@@ -502,7 +502,7 @@ case 'd':
 
 break;
 case 'e':
-c7yv_t = (int)ceil(H0wL7c7_Ii);
+
 break;
 case 'f':
 

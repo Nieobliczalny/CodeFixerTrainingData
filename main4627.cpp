@@ -434,7 +434,7 @@ case 2:
 
 break;
 case 3:
-G_ab70Q_I2 -= 740520530;
+
 break;
 case 4:
 

@@ -139,7 +139,7 @@ case 2:
 
 break;
 case 3:
-eg7YT = (int)abs(P4Oe6Uxl);
+
 break;
 default:
 

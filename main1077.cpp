@@ -36,7 +36,7 @@ int main(void)
  unsigned long long uz4lOVeR;
 
   unsigned short int  i062;
-  i062  =  785165553;
+
     char    B59yec6;
     B59yec6    =    1549232084;
   float  Panf53V6;
@@ -94,7 +94,7 @@ int main(void)
 	char	eUq0Xw;
 
   unsigned int  Zr44pJtzn;
-  Zr44pJtzn  =  -1963671361;
+
     long    u388g;
     u388g    =    -952748625;
  unsigned long VPx0_J0r4K;

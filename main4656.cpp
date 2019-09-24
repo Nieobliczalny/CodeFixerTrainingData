@@ -153,7 +153,7 @@ if (sX6H2rPog < a_MU4bze9v)
 {
 
 }
-G6DH = x58_h98S4X / 383931416;
+
 if (cGzy64 >= -355570531)
 {
 
@@ -381,7 +381,7 @@ k--;
 }
 else
 {
-a_MU4bze9v = STXp033zBl % 1152728888;
+
 }
 {
 int i = 7;
@@ -451,7 +451,7 @@ for (int i = 0; i < 8; ++i)
 std::cout << o5pyPg << E470O << Sqtp << PHZjFNR << std::endl;
 
 
-YMdvhdNR = (float)(AWHRS4Q5ka);
+
 
 YMdvhdNR = vTfX / zuG4O83C;
 

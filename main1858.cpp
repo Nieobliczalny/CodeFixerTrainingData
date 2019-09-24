@@ -54,7 +54,7 @@ int main() {
  unsigned int gI5IZ;
  gI5IZ = -75770111;
     short    p4h24A;
-    p4h24A    =    -168419979;
+
   char  UwXTB1r;
   UwXTB1r  =  -1198620005;
  unsigned short int V5FtyO;
@@ -138,7 +138,7 @@ int main() {
  unsigned long x6j5N;
  x6j5N = -684862777;
     short int    k7VKjGfA20;
-    k7VKjGfA20    =    -978535412;
+
 	short	TP5fS2;
 	TP5fS2	=	0;
 	short	t71JTFE0J6;
@@ -210,7 +210,7 @@ int main() {
     short int    mzk4Vu3;
     mzk4Vu3    =    1681134730;
 	unsigned char	H_HZr8PQ;
-	H_HZr8PQ	=	-350719783;
+
  float x2xaeyZZ8;
  x2xaeyZZ8 = -758220604;
 
@@ -371,7 +371,7 @@ case 5:
 hF34Z0Vi = (gYZZ8tbMJo <= 1567976689) ? 1308385114 : UwXTB1r;
 break;
 case 6:
-nmF1mv = MsriwV1_Qi(nmF1mv, 1663578356, QemQ, z313);
+
 break;
 case 7:
 h2__--;
@@ -540,7 +540,7 @@ std::cout << MsriwV1_Qi(mzk4Vu3, 528445040, ipYubWl7D4, 1984935360) << Lm02P << 
 }
 try
 {
-WX369FZo = CA8Gv * ecCL;
+
 }
 catch (int& errorCode)
 {
@@ -791,7 +791,7 @@ else if (K2FL37I8E == bg_8)
 }
 else
 {
-f_664l_LNm = MsriwV1_Qi(f_664l_LNm, -255941714, -1956444047, x2tY7ELA);
+
 }
 
 switch (rjc2IpjW6)

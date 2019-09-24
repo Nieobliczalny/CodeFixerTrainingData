@@ -121,7 +121,7 @@ int main(void)
 	short	Eo3_1;
 
  unsigned char WLsbCjb;
- WLsbCjb = 1457695707;
+
 
 std::cout << h3h8F_E / teqc34u << std::endl;
 

@@ -34,7 +34,7 @@ int main()
 	unsigned int	T3yg;
 
     unsigned short int    Z9mFR_LiHH;
-    Z9mFR_LiHH    =    -2140585303;
+
   long double  o9_8_;
   o9_8_  =  210905011;
     double    U1DTer;
@@ -82,7 +82,7 @@ int main()
 	unsigned short int	LyNn;
 
     short int    IX_nwH8F0;
-    IX_nwH8F0    =    1459908595;
+
 	short	r833;
 	r833	=	0;
   long long  G_9MQ;
@@ -100,7 +100,7 @@ int main()
  long double ugrB_A;
 
  unsigned short LXB_8ipq;
- LXB_8ipq = -1441107545;
+
  unsigned char PuX671D78p;
  PuX671D78p = 706540174;
  long T7NUdEl2_3;

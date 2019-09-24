@@ -297,7 +297,7 @@ case 'c':
 
 break;
 case 'd':
-BsA2KFr = (int)abs(RKGG6_f);
+
 break;
 case 'e':
 GhY2mOph_i = ipIA58061Q / ZmnDCnW6m;

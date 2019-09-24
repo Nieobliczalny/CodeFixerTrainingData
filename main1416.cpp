@@ -765,7 +765,7 @@ case 2:
 
 break;
 case 3:
-u7ikKGa = (int)abs(No1k) * 0;
+
 break;
 case 4:
 
@@ -777,7 +777,7 @@ case 6:
 
 break;
 case 7:
-X28K0MYXI = Js7wTUE(Qstckl);
+
 break;
 case 8:
 
@@ -839,7 +839,7 @@ case 3:
 
 break;
 default:
-k1_17 = (int)abs(L3aKCgtW);
+
 break;
 }
 }

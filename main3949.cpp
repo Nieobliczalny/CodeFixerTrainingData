@@ -540,7 +540,7 @@ case 5:
 
 break;
 case 6:
-k10C0cU = (int)abs(o3E7co96Wb) + (1358910565);
+
 break;
 case 7:
 SR1xLEVqe++;

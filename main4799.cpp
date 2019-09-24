@@ -30,7 +30,7 @@ int main(void)
     double    tI260krO;
 
   unsigned short  y0b0;
-  y0b0  =  1092567526;
+
     long double    gwmS5Q;
 
     short    i7aDy0JI1;
@@ -44,7 +44,7 @@ int main(void)
     short    AyP0856;
 
   unsigned char  n6tra4;
-  n6tra4  =  -140714133;
+
   unsigned int  r8mu;
 
   long double  K1MSDHZI;
@@ -66,7 +66,7 @@ int main(void)
     short int    wKvNOWq;
     wKvNOWq    =    -459361566;
     short    DABNTCp;
-    DABNTCp    =    -459165917;
+
 	unsigned short int	cSGyx;
 
     char    K1eqi;
@@ -76,7 +76,7 @@ int main(void)
   unsigned short int  ACvv8m;
 
   unsigned short  q4lqB45Pn;
-  q4lqB45Pn  =  490811532;
+
 	unsigned short int	r6st0pO6c;
 	r6st0pO6c	=	862830700;
  unsigned char NWaA;
@@ -104,7 +104,7 @@ case 2:
 
 break;
 case 3:
-HksZpu_ = GzQK1(1493339440, r6st0pO6c, 1332375307, 1997412561, ZI30Y2_75h);
+
 break;
 case 4:
 i7aDy0JI1 = GzQK1(y_99, kz3wDBC, -1843126673, OEJk4ebtRR, NWaA);

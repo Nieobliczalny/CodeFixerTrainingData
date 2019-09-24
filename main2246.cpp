@@ -360,7 +360,7 @@ NLqU2r_ = (int)abs(QpGRgSK4OV);
 break;
 case 'b':
 case 'B':
-D5mEk = (int)abs(wFbiH_1P64);
+
 break;
 case 'c':
 case 'C':

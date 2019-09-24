@@ -558,7 +558,7 @@ break;
 }
 else if (gd21E4I_ < -92606153)
 {
-Uz00B6x7x6 = (int)floor(hW8VJB_1bl);
+
 }
 else if (O_13vq >= uWFK)
 {
@@ -622,7 +622,7 @@ case 'c':
 
 break;
 case 'd':
-Uz00B6x7x6 = (int)floor(k2I67RF1);
+
 break;
 case 'e':
 

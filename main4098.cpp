@@ -173,7 +173,7 @@ case 'b':
 Ye9Jc665 &= IXfqQ6At;
 break;
 case 'c':
-sad05QKq = (int)ceil(Q8B55B5waw);
+
 break;
 default:
 
@@ -554,7 +554,7 @@ case 'd':
 
 break;
 case 'e':
-Q9jxz0MA = (int)floor(Q8B55B5waw);
+
 break;
 case 'f':
 

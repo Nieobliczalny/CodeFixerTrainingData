@@ -51,7 +51,7 @@ case 7:
 q9sy1qA = Q5hRqK7(q9sy1qA);
 break;
 case 8:
-Gs4TrQEdHW = j5Z31bR6d(towu3, 174622043);
+
 break;
 case 9:
 j5eG ^= 1580536093;
@@ -143,7 +143,7 @@ bu4R = (unsigned char)(WpYF65p9);
 
 
 cout << "eaT2" << "QQyXhJux3" << bu4R << endl;
-towu3 = r2Nb5Nmt * 745843408;
+
 
 return 0;
 }

@@ -124,7 +124,7 @@ case 5:
 
 break;
 case 6:
-cw_H = otHn67A % 1984263029;
+
 break;
 case 7:
 Pb3NvZA /= 1642488628;

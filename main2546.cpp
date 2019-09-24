@@ -22,7 +22,7 @@ long    GXY5I8zd(unsigned short    tPfCa0K81,unsigned short int    qoa_Yz,unsign
 int main(int argc, char** argv)
 {
  int tX6_xNUZ33;
- tX6_xNUZ33 = -477680483;
+
 	unsigned char	wKBq4_fJ;
 	wKBq4_fJ	=	1053044964;
 	unsigned char	Aop2bHP926;
@@ -54,7 +54,7 @@ int main(int argc, char** argv)
     float    y15RsSlyw;
 
 	double	WD180w03;
-	WD180w03	=	598926056;
+
 	unsigned short	ECOi5TzohI;
 
 	long double	KInQDJ;
@@ -64,7 +64,7 @@ int main(int argc, char** argv)
 	char	r3WmFtV;
 
 	unsigned short	H2_QH;
-	H2_QH	=	-867618910;
+
     short int    IGjIt;
 
   char  lR_1;

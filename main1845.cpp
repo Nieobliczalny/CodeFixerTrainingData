@@ -654,7 +654,7 @@ case 'c':
 
 break;
 case 'd':
-OsZC2kq = Tg7r8L8(OsZC2kq, 551769043);
+
 break;
 case 'e':
 d5sC7_oW = (int)abs(oC37y6O531);
@@ -739,7 +739,7 @@ case 7:
 
 break;
 case 8:
-AV414SEd = z9Dd(OQ9sEmB, 450031908, 170830011) | 708650279;
+
 break;
 default:
 K49rSdlYk = (int)floor(oC37y6O531);

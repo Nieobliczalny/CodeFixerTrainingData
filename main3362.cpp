@@ -414,7 +414,7 @@ if ((dTMe <= -1704959400) || ((rd484p4n >= 1943594106) && (n5ecYe7Y <= O6dN)))
 {
 if ((gsls >= O6dN) || (e0lssKzbPy <= shw58M))
 {
-g_E602_0T2 = HK6H7B(-158746954, hJ6MfZ5D);
+
 }
 }
 else if (x4iNH0PoB != O6dN)

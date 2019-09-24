@@ -78,7 +78,7 @@ int main(int argc, char** argv) {
   long  v3l2wK1t7;
 
 	double	j7rq;
-	j7rq	=	-151746576;
+
  unsigned short int k6s56hMD;
  k6s56hMD = -170119282;
  unsigned long long nSLXMz;
@@ -200,7 +200,7 @@ case 3:
 TzgKCt_ = C2Q7zdv ^ 1368520344;
 break;
 case 4:
-JyKAw = (int)floor(v7kB4Z);
+
 break;
 case 5:
 v36z616U |= 1152317909;

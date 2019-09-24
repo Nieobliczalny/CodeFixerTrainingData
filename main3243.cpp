@@ -36,7 +36,7 @@ ZYkc *= L8SSmf3450;
 
 cout << O3o6_() << WRLb8q_f << endl;
 
-J_636hjxM = (float)(tpb7eauw);
+
 try
 {
 if ((p0LGqTk08 < ZYkc) || (S10RO < 211829162))
@@ -92,7 +92,7 @@ j++;
 }
 
 cout << l_GB6Xj << bD41xQu7_c << NrMwFHbB7e << "x13W39QF" << endl;
-x7_p = (int)ceil(y4a715);
+
 cout << "HXhy" << endl;
 
 cout << A3U4p6() << "x7mXnR8" << W785X << S10RO << endl;

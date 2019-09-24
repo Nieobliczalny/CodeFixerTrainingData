@@ -56,7 +56,7 @@ int main()
   g2Tgn  =  1190101411;
   XEQXI0Q0_0  =  -1094732042;
 
-  bkQ75  =  1511789950;
+
   Ghd__UyEgN  =  -279178445;
   G_RyWnwyjt  =  -1684362996;
   mnIe  =  106918370;
@@ -68,7 +68,7 @@ int main()
 
   q_f_y9k0hC  =  828887588;
 
-MvIub_d = (long double)(nSxG6M2P);
+
 PHB1hC4rO = qerO(-1196093227, 1720445577);
 X2R6sLm5k5 = qerO(mnIe, Om8099TD__) / Ghd__UyEgN;
 for (int i = 10; i >= 0; i--)
@@ -319,7 +319,7 @@ case 2:
 
 break;
 default:
-L6kFYAt = (int)abs(s4e_kh);
+
 break;
 }
 

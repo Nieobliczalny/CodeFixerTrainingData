@@ -508,7 +508,7 @@ case 'd':
 
 break;
 case 'e':
-S8usVOL8S >>= KA28;
+
 break;
 case 'f':
 

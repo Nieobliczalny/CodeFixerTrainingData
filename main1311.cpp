@@ -62,7 +62,7 @@ int main(void) {
 	short int	s_78u7;
 	s_78u7	=	-972897032;
     unsigned long long    x9KLh3m;
-    x9KLh3m    =    -1900161411;
+
     double    N_0N8Svg;
     N_0N8Svg    =    -612457254;
     unsigned char    gD3LDfK2J;
@@ -112,7 +112,7 @@ int main(void) {
   int  bTQM8_4V_;
 
  short Fa3aXVo;
- Fa3aXVo = -182064231;
+
 	float	LKBYD71;
 	LKBYD71	=	-1541767051;
   unsigned short  BP91Uaw;
@@ -220,7 +220,7 @@ nI7CT = z3t0mP9(-857079708, LKBYD71);
 break;
 case 'b':
 case 'B':
-h5qm6OcHea = Hq_wIdb(h5qm6OcHea, 266714063);
+
 break;
 case 'c':
 case 'C':

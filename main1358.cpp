@@ -17,7 +17,7 @@ int main() {
     long double    uJl17;
     uJl17    =    -1391641637;
     unsigned short    iKZonuK;
-    iKZonuK    =    -1312569078;
+
 	short int	y_w3RLzzl;
 
     unsigned long    zeYINHq;
@@ -39,7 +39,7 @@ int main() {
 	unsigned int	L_7ZMP;
 
     unsigned short    QPlY8;
-    QPlY8    =    -605105733;
+
  char K_Ulvw0jKg;
  K_Ulvw0jKg = 110542221;
 	short	S496N;
@@ -63,7 +63,7 @@ int main() {
     unsigned int    s14838__s_;
 
     unsigned short    KtI1Ol6l;
-    KtI1Ol6l    =    372506532;
+
     long long    xF4W2B;
     xF4W2B    =    1425561860;
   short  rdoE8H;
@@ -85,7 +85,7 @@ int main() {
 	unsigned short int	QN9A5wx;
 
 	long long	m9k647FQCE;
-	m9k647FQCE	=	-1334587972;
+
   unsigned short int  lts0v4;
   lts0v4  =  726388471;
   long double  zqA_dR4Zh1;
@@ -97,7 +97,7 @@ int main() {
   long double  mKO7;
   mKO7  =  -1409452987;
     short int    vQPF5K6M;
-    vQPF5K6M    =    -1601487484;
+
  long NM0A;
  NM0A = 1616791416;
 	unsigned char	MZOm;
@@ -109,7 +109,7 @@ int main() {
 	long long	pgJq;
 
  unsigned long long Ton_d66;
- Ton_d66 = -1919121532;
+
  long QT2kVW7M;
  QT2kVW7M = 570806878;
     unsigned short    wMXS26tF4C;
@@ -123,7 +123,7 @@ int main() {
  double vdAqBSOa_g;
 
  unsigned long f_5K;
- f_5K = 1965315762;
+
     short    Wo39xF_;
 
   unsigned int  l2X8l09U6;
@@ -133,7 +133,7 @@ int main() {
   long  uPf1mRQ8Zr;
 
 	short	J6yvg_WO3;
-	J6yvg_WO3	=	-951033719;
+
     unsigned char    URyt_5Y7i4;
 
 	unsigned int	MyOYwS;
@@ -161,7 +161,7 @@ int main() {
     unsigned char    wrxMPK;
 
   unsigned long  FhfC1a;
-  FhfC1a  =  -6265185;
+
     unsigned long    UdScH7;
 
 	char	qzJy;
@@ -177,7 +177,7 @@ int main() {
  unsigned short u3i6_VuiI;
 
  unsigned char k63ehr;
- k63ehr = -489702320;
+
     unsigned char    glNAP8d;
     glNAP8d    =    -1927101617;
 	unsigned long	q8cQ;
@@ -189,7 +189,7 @@ int main() {
  char Z1G88;
 
  short int aU4P;
- aU4P = -1500353928;
+
   short  GT_yZZcVtR;
   GT_yZZcVtR  =  -945260341;
   double  SdSH;
@@ -203,7 +203,7 @@ if (((eNtOlQ_ > 1565543036) && (fV9m5_2 < -1605583084)) && (MyOYwS & 5189020))
 {
 if (q8cQ < -138126694)
 {
-NM0A = (int)abs(aZ86s87KJ);
+
 }
 }
 else if (((t03dRPk13) || (pPg6)) || (Zvk2Ir <= 23143075))

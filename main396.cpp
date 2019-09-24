@@ -42,7 +42,7 @@ int main(void)
 	short int	IrltMq;
 	IrltMq	=	-1391163134;
 	double	U_b391zb38;
-	U_b391zb38	=	-1966156777;
+
     unsigned int    e8SGYFk5;
     e8SGYFk5    =    2145050759;
     unsigned short int    qg__Fz;
@@ -74,7 +74,7 @@ int main(void)
   int  KK02Zq7JOr;
   KK02Zq7JOr  =  701681183;
 	char	bLXT;
-	bLXT	=	319381316;
+
     unsigned short    XmnaZS;
     XmnaZS    =    -1031529084;
   unsigned short int  Ez30;
@@ -124,7 +124,7 @@ int main(void)
  short ZoJD3n7A;
 
   float  FlqRK86J;
-  FlqRK86J  =  1565881278;
+
  short int HLag8;
  HLag8 = 1793874695;
  unsigned char fnn5Qv4;
@@ -150,7 +150,7 @@ int main(void)
 	short int	ExmU7FeXc5;
 
  double DXiex3_96b;
- DXiex3_96b = 1690128399;
+
 	unsigned long long	J1y5v30r;
 	J1y5v30r	=	-448806046;
   double  rQ5hfxQq;
@@ -208,7 +208,7 @@ int main(void)
   unsigned long long  NNNgW_cWE;
 
     float    J1pYOf;
-    J1pYOf    =    -345909218;
+
  char EbUe;
  EbUe = -2059898783;
  short Dzof;
@@ -218,7 +218,7 @@ int main(void)
  long long j4WT062;
 
     unsigned int    p3FU1uQ3;
-    p3FU1uQ3    =    187986485;
+
   char  KciT87y;
   KciT87y  =  -2135986930;
 	long double	BhFTa;
@@ -237,7 +237,7 @@ int main(void)
 cout << E1F_5Gq4xq(mO_8UF, -869729437, -709224619) << "k4yx96U5_G" << endl;
 cout << "fVq2MrHQ" << endl;
 
-r0cvEZe5 = qE6Us0R3(-816233306, -1338440302, -329179308);
+
 
 if ((twbm >= 1037889360) && ((aNFbcCmnW8 > -806441966) && (bqDR90JHfF <= Sk90t)))
 {
@@ -250,7 +250,7 @@ if (XmnaZS <= 1450618629)
 switch (w4_brw83Xm)
 {
 case 0:
-fnn5Qv4 = E1F_5Gq4xq(-199509923, -356686505, mO_8UF);
+
 break;
 default:
 aNFbcCmnW8 = qE6Us0R3(1613767062, -1760697270, 1503123202);
@@ -436,7 +436,7 @@ case 'F':
 break;
 case 'g':
 case 'G':
-IZ576hm3 = qE6Us0R3(-1937606281, aNFbcCmnW8, AwPlZO3);
+
 break;
 }
 if (RiHa >= 117324733)

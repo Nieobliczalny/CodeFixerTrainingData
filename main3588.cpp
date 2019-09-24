@@ -48,7 +48,7 @@ int main(int argc, char** argv)
     double    WA5b40B;
     WA5b40B    =    1019026093;
   short  AKDM;
-  AKDM  =  -1098980340;
+
   int  DI9iAIhWD;
   DI9iAIhWD  =  0;
   unsigned long  E2SrLU8;

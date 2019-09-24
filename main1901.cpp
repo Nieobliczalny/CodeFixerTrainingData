@@ -88,7 +88,7 @@ int main(void)
  short int F088z;
  F088z = 484374763;
  unsigned short nNd6wQI5P7;
- nNd6wQI5P7 = -998958222;
+
  unsigned char IT53;
  IT53 = 343923510;
 	unsigned char	u93Zi367i;
@@ -102,7 +102,7 @@ int main(void)
     unsigned char    ZfD85x;
 
 	unsigned short	jkw7;
-	jkw7	=	-1991740328;
+
     unsigned long    S64_WeSlL;
     S64_WeSlL    =    -510904;
  long long d93h;
@@ -114,7 +114,7 @@ int main(void)
  unsigned short q50saw_v;
 
 	long double	KseddQ2DW;
-	KseddQ2DW	=	1591056095;
+
   int  rhDfVO;
   rhDfVO  =  -147884634;
   float  A5qQL1f;
@@ -132,7 +132,7 @@ int main(void)
     char    YHl7XOq3i;
 
   unsigned short int  vLh7j;
-  vLh7j  =  739978875;
+
  short ihqbNJ;
 
  short int Vu03am6Hb4;
@@ -300,7 +300,7 @@ for (int j = 0; j < 4; j++)
 }
 }
 
-T21L5xaK4 = (int)abs(ZdV669Y);
+
 if (u3_q6DA5C == 1868349302)
 {
 std::cout << "w_3_3f" << Wx2W_4 << sR8BsJ9 << std::endl;

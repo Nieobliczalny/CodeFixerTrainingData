@@ -32,7 +32,7 @@ int main()
  long KAbd43Fc1;
 
  int sjThje9;
- sjThje9 = 228574739;
+
 	float	Z26I3FU;
 	Z26I3FU	=	1227008674;
 	long long	WBaohZST;
@@ -42,7 +42,7 @@ int main()
     unsigned int    W3TVJ_8H;
 
     short int    h7f2y3b6Km;
-    h7f2y3b6Km    =    -1139816436;
+
  unsigned long w2V62n51G;
  w2V62n51G = -1068559952;
   unsigned long  As141v;
@@ -56,7 +56,7 @@ int main()
     long    lg4T0ver8;
 
   float  NV5N42bH_e;
-  NV5N42bH_e  =  622589293;
+
 	unsigned int	CYS06bn_5;
 	CYS06bn_5	=	-335978160;
 	float	RAo26021RX;
@@ -78,7 +78,7 @@ int main()
     long double    sgdoSps;
     sgdoSps    =    -894158969;
     short int    U05agf8rVZ;
-    U05agf8rVZ    =    -1396752186;
+
   unsigned char  mMrwoKLep;
   mMrwoKLep  =  -742505197;
     double    j_5z8hEsrN;
@@ -98,7 +98,7 @@ int main()
  unsigned short FncY;
 
     int    D91D;
-    D91D    =    -1833039938;
+
 	long	Zl8A;
 	Zl8A	=	70563920;
 	unsigned short	rPDYLfy4_;
@@ -108,7 +108,7 @@ int main()
   unsigned long  J0_pdE;
   J0_pdE  =  81962744;
  unsigned long W780x9yju;
- W780x9yju = 701382311;
+
 	unsigned int	TsYHC6bQ;
 
   unsigned long  qJcyr1qrv;
@@ -118,7 +118,7 @@ int main()
     int    z78j7;
 
   unsigned long long  UTN5j_y1;
-  UTN5j_y1  =  2131860683;
+
  int HhXEZit;
  HhXEZit = 1903267975;
  long nvQA_;
@@ -128,7 +128,7 @@ int main()
 	long double	E2SR;
 
     int    fLt_SW1hG;
-    fLt_SW1hG    =    108846746;
+
 	unsigned int	Cp7AjGS;
 	Cp7AjGS	=	-913323412;
 	unsigned short	YO_Y9;
@@ -166,7 +166,7 @@ int main()
   short  tfKD;
   tfKD  =  0;
   float  qB00U53;
-  qB00U53  =  -708030273;
+
 	unsigned long long	H34O;
 	H34O	=	2139254509;
  unsigned short W59TIl;
@@ -184,7 +184,7 @@ int main()
   unsigned short int  R1MarY8LT;
 
   int  Q1S8QshKDO;
-  Q1S8QshKDO  =  -290399717;
+
 	short	PS_0P2EENI;
 	PS_0P2EENI	=	-806555940;
     short    drhad_k_1C;
@@ -227,7 +227,7 @@ case 'd':
 tfKD = ym5V682();
 break;
 case 'e':
-NV5N42bH_e = (int)ceil(iQyv);
+
 break;
 case 'f':
 wCK77R = (int)floor(ex_lSRR82d);
@@ -255,7 +255,7 @@ J0_pdE = As141v % 271879382;
 break;
 }
 
-o7g6Np = (int)ceil(J188FzDe40);
+
 switch (nvQA_)
 {
 case 0:
@@ -268,7 +268,7 @@ case 2:
 
 break;
 case 3:
-dCVgZOYDT = (int)ceil(j_5z8hEsrN);
+
 break;
 case 4:
 
@@ -442,7 +442,7 @@ for (int k = 9; k >= 0; k--)
 std::cout << ym5V682() << std::endl;
 
 
-U05agf8rVZ = (short int)(xqh6Xy8 + (-1043084202));
+
 std::cout << O_3x69rXk2(1999198011, Cp7AjGS, -1563997092, CYS06bn_5) << ym5V682() << sgdoSps << ym5V682() << "O5A9_ZCm" << std::endl;
 
 return 0;

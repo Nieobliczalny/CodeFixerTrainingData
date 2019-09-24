@@ -662,7 +662,7 @@ case 'c':
 
 break;
 case 'd':
-pdAPm = (int)floor(ckQkjdph);
+
 break;
 case 'e':
 
@@ -674,7 +674,7 @@ case 'g':
 
 break;
 case 'h':
-gO_2RC = cOpYM % mF55_U280;
+
 break;
 case 'i':
 BzGSD_ = (int)ceil(sU_67JL1Z);

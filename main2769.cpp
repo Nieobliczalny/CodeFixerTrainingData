@@ -32,7 +32,7 @@ int main(void) {
   F9WNdF8e9k  =  896529519;
   je3EMz87XS  =  -509083369;
 
-  v5Mg2fMB  =  1737288075;
+
   cmR9Q882i  =  -35547511;
   Y_Paf3Ua  =  1964314;
 
@@ -177,7 +177,7 @@ h6loidk = (int)abs(THRvwK3);
 }
 else if (cmR9Q882i & 2032498475)
 {
-ebTs7D51 = (int)abs(THRvwK3);
+
 }
 else if (uqcjKe6G >= -739947672)
 {
@@ -326,7 +326,7 @@ case 3:
 
 break;
 case 4:
-c3801_LN += EaWCo3PVO;
+
 break;
 case 5:
 

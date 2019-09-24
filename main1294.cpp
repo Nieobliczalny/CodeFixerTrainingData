@@ -29,7 +29,7 @@ int main()
  unsigned long long moQ6S2;
  moQ6S2 = -2072325440;
   float  dcxAe3_;
-  dcxAe3_  =  2032273642;
+
 	float	vLJ351;
 
 	long	N8wPM;
@@ -49,7 +49,7 @@ int main()
  short zSid;
 
     unsigned long long    a5vs6jQ2;
-    a5vs6jQ2    =    -120091890;
+
  char Pg4W4;
  Pg4W4 = -1285946285;
   long long  S6_2_XJl;
@@ -63,7 +63,7 @@ int main()
  short d24_rSx23;
 
  long tCm26Sk5F;
- tCm26Sk5F = 650735975;
+
 	short int	Wreqh2CFU2;
 
 	unsigned long long	wF90u74_52;
@@ -91,7 +91,7 @@ int main()
  short int tMrtmHYX;
 
  double a_tTdhXIO;
- a_tTdhXIO = 1523511121;
+
  long double q0vKLt;
  q0vKLt = 148275676;
   double  v_8A01w;
@@ -101,7 +101,7 @@ int main()
   long  REHvIg4;
   REHvIg4  =  -1582627607;
  long long hu0p;
- hu0p = 881178299;
+
   int  D5e3fwwYxZ;
 
     short    b53luCTCB;
@@ -123,7 +123,7 @@ int main()
 	float	OJL3tF;
 	OJL3tF	=	1333510541;
  float gJ571WI98;
- gJ571WI98 = -806228779;
+
  short PzZsn7QuuA;
 
 
@@ -301,7 +301,7 @@ std::cout << 487754309 / UJV4i(724413431) << std::endl;
 
 
 std::cout << "F1PdTWQ8" << UJV4i(dO6aiKPi1) << "XrqzZ11f" << UJV4i(dO6aiKPi1) << "LkhzhRUa" << std::endl;
-xN__2MB5T8 = (float)(wsoe137R);
+
 
 {
 int i = 1;

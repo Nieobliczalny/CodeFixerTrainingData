@@ -163,7 +163,7 @@ case 7:
 
 break;
 default:
-Sh75n3 = XxiZdAPw & W1423_Q48;
+
 break;
 }
 
@@ -372,7 +372,7 @@ else
 int i = 7;
 while (i >= 0)
 {
-Vkq_5V = (Pa71 < W8200qhLug) ? t542tc0 : FZn5c2MR(-469183976);
+
 i--;
 }
 }

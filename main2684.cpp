@@ -33,7 +33,7 @@ int main(void)
  long rT3SY;
  rT3SY = 2014368867;
   double  o0Y73koj5W;
-  o0Y73koj5W  =  1482777596;
+
 	unsigned short int	Z2iy8Vrm;
 	Z2iy8Vrm	=	1238615111;
   short int  H5p6hf;
@@ -350,7 +350,7 @@ else
 {
 if (DF8TNH & -351743020)
 {
-M_E8yU4kIv = (int)ceil(Rc0SlT5Y);
+
 }
 }
 {

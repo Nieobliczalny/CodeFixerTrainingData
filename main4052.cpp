@@ -562,7 +562,7 @@ case 'e':
 
 break;
 case 'f':
-GC0m *= 704161575;
+
 break;
 }
 

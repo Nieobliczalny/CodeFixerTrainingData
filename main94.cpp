@@ -630,7 +630,7 @@ myofz %= cy_w_Mc;
 }
 else
 {
-B4lpsDma1 = (int)ceil(f9HYr);
+
 }
 }
 }
@@ -701,7 +701,7 @@ case 2:
 
 break;
 default:
-e6zqjO = (int)abs(YneU);
+
 break;
 }
 std::cout << V1t9XNQmcX / upo5el << std::endl;

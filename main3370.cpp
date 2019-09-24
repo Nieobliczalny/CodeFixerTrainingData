@@ -181,7 +181,7 @@ try
 switch (CzSbmgh5Y)
 {
 case 0:
-BlSi /= 1987956510;
+
 break;
 case 1:
 I_nMjQ8F = (int)ceil(k5k_K919);
@@ -316,7 +316,7 @@ gXIU_ <<= UgB_q6PY9;
 break;
 case 'f':
 case 'F':
-TZH7jjR = (int)abs(mjm90gi_I);
+
 break;
 case 'g':
 case 'G':
@@ -405,7 +405,7 @@ else
 {
 VjgWG = (int)abs(Owj364k);
 }
-yZ0h3cG = (int)ceil(I_nMjQ8F);
+
 
 mGuk92_ = x_1_(816137399, -909738442, N8U0Txp0_3);
 for (int i = 10; i >= 0; --i)
@@ -442,7 +442,7 @@ case 2:
 
 break;
 case 3:
-L7Oh = (int)floor(C_klSuMdsg);
+
 break;
 case 4:
 D01__wR--;
@@ -495,7 +495,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-XSSx9pp = (int)ceil(C_klSuMdsg);
+
 break;
 }
 }

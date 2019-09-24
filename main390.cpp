@@ -237,7 +237,7 @@ case 0:
 PB7b *= vddzdnu;
 break;
 case 1:
-ON8Opw0w_ = k_wq / 1031229819;
+
 break;
 case 2:
 b57TKk6mVi += 875582712;
@@ -308,7 +308,7 @@ rE0BJ8 = D_nkr2SJS5 % W_A6eQUxp;
 break;
 case 'i':
 case 'I':
-ON8Opw0w_ = j0l0J6nG >> 1400411727;
+
 break;
 }
 }
@@ -548,7 +548,7 @@ case 'a':
 L57z9oUTlR = qruT3L8c_ % l_9eXw;
 break;
 case 'b':
-ON8Opw0w_ = QILaz + 246395869;
+
 break;
 case 'c':
 Ypxs_81R = POe2vmDK - 849985103;

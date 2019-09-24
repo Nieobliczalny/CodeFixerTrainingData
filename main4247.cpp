@@ -24,7 +24,7 @@ int main() {
     unsigned long    WNlkUb98_d;
 
  unsigned int SX7ca8;
- SX7ca8 = -1304965698;
+
  unsigned long long i6d3k6;
  i6d3k6 = -1996589624;
  unsigned char F7CdpPyX;
@@ -38,7 +38,7 @@ int main() {
     unsigned char    I9Kx35L;
     I9Kx35L    =    -1069088390;
     int    u2x7Pz3tj;
-    u2x7Pz3tj    =    847980587;
+
 	unsigned short int	cexR;
 
   short  OUsk;
@@ -48,7 +48,7 @@ int main() {
     unsigned long    I_Xi79Lt88;
 
   short  CP910;
-  CP910  =  1098675838;
+
  unsigned short int xd9PSNaLd;
 
     short int    zkX_f45_a;
@@ -58,7 +58,7 @@ int main() {
 	float	O2wIwZD;
 
 	long	zGY_FeirV;
-	zGY_FeirV	=	10099526;
+
   double  muyluJ2;
 
  long double e7anp;
@@ -68,7 +68,7 @@ int main() {
   long long  TiLUlp;
 
     long long    s6w3fMK3;
-    s6w3fMK3    =    1887377499;
+
     double    UsAfJ587;
 
     short int    OHHG_0;
@@ -78,7 +78,7 @@ int main() {
   unsigned short  qhwz03_oxl;
 
  unsigned short int qWs9j;
- qWs9j = -707113577;
+
   unsigned short  OxZtzm;
 
   double  cSh3Gg5;
@@ -88,7 +88,7 @@ int main() {
 	int	G8xV_JbR9E;
 
  long double d6t1x;
- d6t1x = -1014046681;
+
  long double i_HVXv6B;
  i_HVXv6B = -833480672;
  unsigned int B_061h;
@@ -134,7 +134,7 @@ int main() {
   unsigned short int  xp437UGdrE;
 
   short int  vkq6T0_9;
-  vkq6T0_9  =  5561748;
+
 	unsigned long long	l0_WPC8;
 
   unsigned int  Y300lrP;
@@ -176,7 +176,7 @@ if (Oeq6Te68W8 > mxvt_1Vmh7)
 {
 try
 {
-u2x7Pz3tj = ikKYN1n4_ | PjSfL0o;
+
 }
 catch (int& errorCode)
 {
@@ -223,7 +223,7 @@ int j = 0;
 while (j < 10)
 {
 j++;
-thkH69TC_i = (int)floor(rU80);
+
 }
 }
 ++i;

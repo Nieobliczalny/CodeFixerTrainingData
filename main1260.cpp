@@ -57,7 +57,7 @@ int main() {
  int BFFFO2gZ5Y;
 
   unsigned char  ylhGqs;
-  ylhGqs  =  -2073484287;
+
   int  X9hr_Son5;
   X9hr_Son5  =  -1069929243;
     unsigned short    sePM;
@@ -69,7 +69,7 @@ int main() {
   unsigned long  TPR2IRz3Q;
 
     unsigned long long    oxWOPA;
-    oxWOPA    =    -1532594964;
+
   long long  v0_rh26_;
 
  unsigned int op6LZE0;
@@ -107,7 +107,7 @@ int main() {
 	unsigned long long	K_G1Ef;
 
 	unsigned short int	B3atvyQh8;
-	B3atvyQh8	=	-25935566;
+
     unsigned long long    pcukq818;
     pcukq818    =    -1540696956;
 
@@ -226,7 +226,7 @@ else
 
 
 
-H4mb /= 961434120;
+
 
 return 0;
 }

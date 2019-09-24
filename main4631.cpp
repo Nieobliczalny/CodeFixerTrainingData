@@ -246,7 +246,7 @@ case 'e':
 
 break;
 case 'f':
-A7H_zWKz7 %= n0_3TwOiH5;
+
 break;
 case 'g':
 JB_R = (int)floor(K3X46);

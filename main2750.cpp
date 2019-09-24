@@ -46,7 +46,7 @@ case 'f':
 
 break;
 case 'g':
-n897 = sw4I();
+
 break;
 }
 }
@@ -128,7 +128,7 @@ case 2:
 
 break;
 default:
-n897 = sw4I();
+
 break;
 }
 }

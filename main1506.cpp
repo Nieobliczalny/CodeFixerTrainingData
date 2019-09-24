@@ -37,7 +37,7 @@ s5it42dg48 = -1672169778 / aAX15g_;
 switch (x4jd)
 {
 case 0:
-s5it42dg48 %= 60938036;
+
 break;
 case 1:
 s5it42dg48 = z6qIZ93(x4jd, aAX15g_, -1790845869, H_87M_zpa, 1591382539);
@@ -55,7 +55,7 @@ case 2:
 
 break;
 case 3:
-s5it42dg48 = nWXna(-1752321323, aAX15g_);
+
 break;
 case 4:
 

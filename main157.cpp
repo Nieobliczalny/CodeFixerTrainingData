@@ -24,7 +24,7 @@ int main(void)
     unsigned short    W0hs2N0;
 
 	long	y056e;
-	y056e	=	1560474103;
+
  int NX_h6rE;
  NX_h6rE = 1126459763;
 	long	Yt6LUM;
@@ -34,7 +34,7 @@ int main(void)
 	double	xq3hXB7w94;
 
 	unsigned short int	MS2Cqwg7D;
-	MS2Cqwg7D	=	-354404924;
+
     int    geJf20gL;
     geJf20gL    =    -2109334209;
  unsigned long long gGwR;
@@ -56,7 +56,7 @@ int main(void)
  double c45Xx2;
 
   unsigned long  LYleK;
-  LYleK  =  1330720297;
+
     unsigned char    RT_o0;
 
   double  Im32B;
@@ -72,7 +72,7 @@ int main(void)
     int    s4T1aTJ;
 
  unsigned char nz1S2JjN;
- nz1S2JjN = 1710287545;
+
 
 std::cout << Gr43JeX(1692500865, 629618630) << kR24_0oGiE << Vsb_g_h_() << std::endl;
 try

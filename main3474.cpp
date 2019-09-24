@@ -161,7 +161,7 @@ case 5:
 
 break;
 case 6:
-yfF7xi1f = (int)abs(uXC7zq08);
+
 break;
 }
 }
@@ -185,7 +185,7 @@ olBR4gy--;
 }
 else if (P843140j > -1219155026)
 {
-yfF7xi1f = cwb__6 - i146wop;
+
 }
 else if (T38r)
 {
@@ -258,7 +258,7 @@ case 'e':
 
 break;
 default:
-z_9_2ODq = V6A0BlP();
+
 break;
 }
 

@@ -60,7 +60,7 @@ int main() {
     xpQ8JYqdX    =    148871014;
 
 
-    j9Ru    =    600681363;
+
     PkTB    =    -957898582;
     Qo0_RMa_g7    =    2017732138;
     ARdpjtKE    =    1016472900;
@@ -86,7 +86,7 @@ int main() {
     X0Yb6_b    =    1501640660;
 
 
-    t79O_r    =    -1660007643;
+
     T1fYeR    =    -813766621;
     JdU4n9    =    -1145458540;
 
@@ -273,7 +273,7 @@ case 'c':
 
 break;
 case 'd':
-ARdpjtKE = (int)ceil(PkTB);
+
 break;
 case 'e':
 

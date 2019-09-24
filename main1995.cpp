@@ -50,7 +50,7 @@ case 6:
 
 break;
 case 7:
-T07R = qqnJiH2HQ + 2030733924;
+
 break;
 case 8:
 X9X_49 *= L66hU8;
@@ -137,7 +137,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-LaT9_m -= 206820369;
+
 break;
 case 'g':
 case 'G':
@@ -169,7 +169,7 @@ if (Il8f1S5vQ != eg628LdC)
 
 if (soYT2xz_PS >= e8G9iBg)
 {
-h2JZ7ZVBS = (float)(W7Ok4E7);
+
 }
 
 switch (CLvPX)
@@ -261,7 +261,7 @@ case 'c':
 SAT_weM9Z = (int)ceil(vLo70b5PO);
 break;
 case 'd':
-CGp6ika *= P32_WIMO_c;
+
 break;
 case 'e':
 P32_WIMO_c = VxH4Rw0 & 1991729291;

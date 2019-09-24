@@ -349,7 +349,7 @@ UJFAL1_S_U = z39B9(322604842, 1511693388, zIe2cJ6qi6);
 }
 
 std::cout << "PhKQ_hrSeL" << lhMQ7tb(xWjMN, YG7H05, -272706130, h27WJ) << std::endl;
-x8nwI3z8gY = (unsigned short int)(Omm49_J8x + (1728507093));
+
 std::cout << "Rd3p" << "tgdPE1" << std::endl;
 
 std::cout << w35T3l9tWN << "kXJbr6z4u" << "pi6F9PsI" << "VCHFk88E2" << std::endl;
@@ -369,7 +369,7 @@ case 3:
 
 break;
 default:
-TLui2 = jN07(TLui2);
+
 break;
 }
 

@@ -665,7 +665,7 @@ case 'c':
 
 break;
 case 'd':
-wF_oCArj_ = h3mOTjw6I & BNJ8f6;
+
 break;
 case 'e':
 

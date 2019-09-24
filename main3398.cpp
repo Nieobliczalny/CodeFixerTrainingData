@@ -149,7 +149,7 @@ case 'e':
 IL6DaK1L &= SCnB63v78T;
 break;
 case 'f':
-JIF7PfvXr = Er1Xhc(-255500016, KwW_XBn7_, 333403502, bPpT08hGSm);
+
 break;
 case 'g':
 iCX0i = BG_P(iCX0i, JFsZO2, -873834272, 1371353835);
@@ -173,7 +173,7 @@ i92PZJ ^= adC_5n9;
 }
 else if (g60T9p_ <= 668660453)
 {
-JIF7PfvXr = (unsigned char)(q_V0A6);
+
 }
 else if ((p1u_I7W & 237679661) || (iCX0i))
 {

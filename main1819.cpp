@@ -52,7 +52,7 @@ case 'f':
 
 break;
 case 'g':
-llHRLl1 = cc6tk79Wqj / ciWk_;
+
 break;
 default:
 dx9QN++;
@@ -97,7 +97,7 @@ case 'd':
 
 break;
 case 'e':
-fi2YB3 >>= 297144475;
+
 break;
 }
 }
@@ -140,7 +140,7 @@ case 'g':
 GpLU--;
 break;
 case 'h':
-GpLU /= 811530190;
+
 break;
 case 'i':
 
@@ -221,7 +221,7 @@ case 'c':
 
 break;
 case 'd':
-dx9QN = dpD41EnV5 ^ 1175605972;
+
 break;
 case 'e':
 mbvy__W4EN = MflX - 620987940;
@@ -267,7 +267,7 @@ case 'f':
 
 break;
 case 'g':
-GeGL9S3 = w_B3zg & cbLM2;
+
 break;
 case 'h':
 vJcUH = dJXOP3 ^ 955222354;

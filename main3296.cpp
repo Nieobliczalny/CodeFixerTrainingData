@@ -141,7 +141,7 @@ catch (int& errorCode)
 {
 UFGg = (int)abs(rD8W067);
 }
-P622 = (long double)(QMnb);
+
 
 {
 int i = 3;
@@ -271,7 +271,7 @@ else if (P12Me_qd3 >= hs0_6)
 }
 else if (((zU0763ekm <= w79Nd) || (Io22iH5_ >= -719350894)) || (xz5n <= qE__CM_fRo))
 {
-BJDXR = F11rj_89i6(BJDXR, A7XjL, 2072331460);
+
 }
 else if (V02_u9BIXQ >= -904229894)
 {

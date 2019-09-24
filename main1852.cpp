@@ -103,7 +103,7 @@ case 2:
 
 break;
 case 3:
-s5U40u4t = FJ5719_wf5() + eucl5qOT;
+
 break;
 case 4:
 H5VO8Ap = FJ5719_wf5();
@@ -115,7 +115,7 @@ case 6:
 
 break;
 case 7:
-vQiAcvW_4k = (int)ceil(BdeTJ);
+
 break;
 case 8:
 H5VO8Ap = FJ5719_wf5();
@@ -146,7 +146,7 @@ for (int i = 0; i < 8; i++)
 {
 
 }
-BdeTJ = (KpBE5 == mNnD7) ? u36X : -918699453;
+
 
 if (((YqWwTBU2 >= i8qo1_47) || (xG13i_)) || ((FCySfI <= 163710857) || (H5VO8Ap & 426734141)))
 {
@@ -171,7 +171,7 @@ else
 
 if (FJ5719_wf5() == 0)
 {
-	F9I34_Z = kmMB13IGkY / FJ5719_wf5();
+
 }
 
 for (int i = 10; i >= 0; --i)

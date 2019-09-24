@@ -220,7 +220,7 @@ case 2:
 f59bfr = (int)abs(tu0R52h) * 0;
 break;
 case 3:
-tu0R52h = (int)floor(I3ae);
+
 break;
 case 4:
 OeWf = Hic6v8o / Wk89YO;
@@ -564,7 +564,7 @@ for (int j = 0; j < 6; j++)
 {
 for (int k = 0; k < 1; k++)
 {
-GH1V96 = D2Y3oQv_d - lNd7XnwA;
+
 }
 }
 }
@@ -679,7 +679,7 @@ case 2:
 
 break;
 case 3:
-aH67 = (int)floor(joBCa);
+
 break;
 case 4:
 d48402W9++;

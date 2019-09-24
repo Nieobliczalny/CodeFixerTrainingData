@@ -62,7 +62,7 @@ Z60_q33 = (int)floor(q_v20v3);
 while (i < 3);
 }
 
-Y5g9u93 = (float)(SRI7);
+
 switch (c693Y8XSfZ)
 {
 case 0:
@@ -156,7 +156,7 @@ else
 std::cout << "bci9" << n83yWG6oL(938467411, STHoqy) << hT18n << "Aq92umY" << std::endl;
 
 
-lE36x = (float)(zWYJy7g9);
+
 fZ9MWt = Q31g_MZ965(541605032);
 
 fZ9MWt -= 546378742;
@@ -174,7 +174,7 @@ else
 switch (c693Y8XSfZ)
 {
 case 0:
-qOdjj = (int)ceil(IqKix9Z);
+
 break;
 case 1:
 IqKix9Z = (int)abs(q_v20v3);
@@ -195,7 +195,7 @@ case 0:
 
 break;
 case 1:
-i5P2_F = (int)ceil(EF765);
+
 break;
 case 2:
 
@@ -216,7 +216,7 @@ case 7:
 s562t2wJd = (int)ceil(bVy7GI);
 break;
 case 8:
-XO8_ZLJydf = (int)ceil(fZ9MWt);
+
 break;
 case 9:
 IqKix9Z = n83yWG6oL(Xv52DK4w2V, IqKix9Z);

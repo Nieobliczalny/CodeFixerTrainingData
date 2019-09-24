@@ -20,7 +20,7 @@ int main(void) {
   long double  xsse_i4768;
 
 	unsigned int	k2bTGKyu_f;
-	k2bTGKyu_f	=	-36655247;
+
  char EE6G;
  EE6G = 1461514510;
   float  MAZ145Br;
@@ -44,7 +44,7 @@ int main(void) {
     unsigned long long    rNbP_3dLP;
 
     unsigned long long    O4rn2Nz;
-    O4rn2Nz    =    1578418823;
+
  unsigned long e7p9vPO;
 
 	unsigned char	Uu8JTbdP5Z;
@@ -54,7 +54,7 @@ int main(void) {
  char R0Gf;
 
   long  zF9Nm8L_w;
-  zF9Nm8L_w  =  -1049167658;
+
   char  OcU2DKBkO;
 
  long long ocxbI9;
@@ -64,7 +64,7 @@ int main(void) {
 	float	K7_i5Xix;
 
     unsigned long long    vUQCgyPi;
-    vUQCgyPi    =    1370968501;
+
  double NN2K8;
 
   float  CkHPgLu8o;
@@ -78,7 +78,7 @@ int main(void) {
   float  M7U3o;
 
 	short	CQu6o;
-	CQu6o	=	-263559590;
+
  unsigned long long kfVQ;
 
     double    E2hDGA10Ud;
@@ -94,7 +94,7 @@ int main(void) {
  short qpYFS_J6;
 
  unsigned int gK2cS8H69;
- gK2cS8H69 = -1522084987;
+
   unsigned long  p9D8s;
   p9D8s  =  -1602762356;
     unsigned short    w15_I6q;
@@ -106,7 +106,7 @@ int main(void) {
 	char	IP70DCh;
 	IP70DCh	=	0;
  short int Gq7HV;
- Gq7HV = -226398476;
+
   unsigned int  HLDD8_0PFN;
 
  unsigned char tky553;
@@ -116,7 +116,7 @@ int main(void) {
     int    M5BuipL;
     M5BuipL    =    -1706361296;
 	short	ulMVth;
-	ulMVth	=	-613734379;
+
     unsigned short int    wP38A_K;
 
  unsigned int bc2v8BndH;
@@ -126,7 +126,7 @@ int main(void) {
     long    zA96Lawcl;
 
     short int    Psr2EZ684;
-    Psr2EZ684    =    -1651344500;
+
 	unsigned short int	vlvV8Y6;
 
     short    I09tiz;
@@ -140,7 +140,7 @@ int main(void) {
 	int	dq4_II9CP;
 
     char    T2euFC;
-    T2euFC    =    -2060969388;
+
 	long	yY9S_;
 
     unsigned char    E191;
@@ -150,7 +150,7 @@ int main(void) {
 	long long	Gy1Q;
 
   long  QDje1Wd;
-  QDje1Wd  =  -849075289;
+
  unsigned short int OkalcsEny;
  OkalcsEny = -543563276;
  unsigned char vRD4zal_U;
@@ -160,7 +160,7 @@ int main(void) {
   short int  E38A;
 
 
-E2hDGA10Ud = (int)floor(MAZ145Br);
+
 E191 = rmpAAUaxiP(bc2v8BndH, -97326300, m_vEpL972S, l6OjhA38G);
 if (IP70DCh == 0)
 {

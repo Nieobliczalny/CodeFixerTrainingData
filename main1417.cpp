@@ -291,7 +291,7 @@ std::cout << oP1Pw << iWjVNt(CYer30BqHd, 1623386183) << std::endl;
 }
 
 std::cout << khmf2(CYer30BqHd, Y568, yFweC25Y_r) << "V57Xbx" << "aK7k" << "C5f8" << std::endl;
-VIr5 = iWjVNt(-1230475771, 66343235);
+
 std::cout << "m141qqZ8Q" << m93r__G << "W6gRJG" << "xR14bq4dL" << XJWmbQrmJR << std::endl;
 
 O2f3 = nqX8Hr / 1444799689;
@@ -457,7 +457,7 @@ case 'c':
 
 break;
 case 'd':
-E4p4 = y_0aI6QCT();
+
 break;
 case 'e':
 

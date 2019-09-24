@@ -710,7 +710,7 @@ case 3:
 
 break;
 case 4:
-fiIHI = (int)abs(zm6_M3YO1b);
+
 break;
 case 5:
 P_x0++;

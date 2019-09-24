@@ -73,7 +73,7 @@ while (k < 2);
 }
 else
 {
-fS3m60 = (long)(TTb5li0);
+
 }
 
 

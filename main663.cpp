@@ -324,7 +324,7 @@ std::cout << "G2zU7b8Mx" << "Yx89U" << TM1V_ << K6RbH3F(-635191177, E7D7RD5, u8L
 }
 }
 u8mGeEtYiQ = (double)(N4G9Q3ad9V);
-rr2M6a75G = N4G9Q3ad9V / 143679236;
+
 
 if ((u8mGeEtYiQ < 1822675406) && ((E7D7RD5 == N4G9Q3ad9V) || (u8LxZ_69 == 1935819946)))
 {
@@ -340,7 +340,7 @@ case 'c':
 
 break;
 case 'd':
-m0FAIU_q = K6RbH3F(1480188182, -2119477363, -1922496332, U54sMx97We, -2085896808);
+
 break;
 case 'e':
 
@@ -378,7 +378,7 @@ case 2:
 
 break;
 case 3:
-E7D7RD5 = K6RbH3F(E7D7RD5, TM1V_, u8LxZ_69, 2069338246, -1237722369);
+
 break;
 case 4:
 

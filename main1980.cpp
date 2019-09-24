@@ -154,7 +154,7 @@ AyKVDWG = (int)ceil(WqN67pX);
 }
 else if (Kp3_5ca & pp3b0)
 {
-DWxH83Bv ^= 604874209;
+
 }
 else if ((Vd02) && ((onRyD == O_R34ZyEW_) && (LN893QT == oy9N6a)))
 {
@@ -364,7 +364,7 @@ case 'f':
 
 break;
 case 'g':
-t8q87DD = mbbtDEGFC(t8q87DD);
+
 break;
 }
 }

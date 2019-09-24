@@ -158,7 +158,7 @@ i--;
 while (i >= 0);
 }
 cwbbqZJY = (unsigned short)(p9MRy_3);
-KSb2diKE = foeq18x / EU2loF3bm9;
+
 
 {
 int i = 6;
@@ -173,7 +173,7 @@ case 1:
 
 break;
 case 2:
-KSb2diKE = (int)abs(T1_V0Kz5);
+
 break;
 case 3:
 
@@ -188,7 +188,7 @@ case 6:
 p7Nip15kg3 = zKn4PBzR(747469729, 1904471954, S90H, HmTqe);
 break;
 case 7:
-nAPG8Q7i1z = (int)abs(p7Nip15kg3);
+
 break;
 case 8:
 cwbbqZJY >>= G_I5;

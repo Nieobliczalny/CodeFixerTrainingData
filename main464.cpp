@@ -416,7 +416,7 @@ case 'a':
 
 break;
 case 'b':
-Uw1n = (int)abs(A8r6r);
+
 break;
 default:
 
@@ -427,7 +427,7 @@ break;
 
 if (EsE9557W & 1876102110)
 {
-lL8OYD = (int)ceil(q2LI150ILF);
+
 }
 
 

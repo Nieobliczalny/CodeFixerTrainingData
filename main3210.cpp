@@ -382,7 +382,7 @@ T_4SHZ2_ = (int)abs(X7j050m2_9);
 }
 else if (ZrSoV & a11M0Jp6G)
 {
-P19PM = H0d__4Ej3 * w8A2;
+
 }
 else if (v5rO != Kbfa)
 {
@@ -597,7 +597,7 @@ else if (VmU_Ns7K1M)
 }
 else if (g7lw == yG7Ug)
 {
-Kbfa = (int)abs(d6Hq7Cm6M9);
+
 }
 else
 {

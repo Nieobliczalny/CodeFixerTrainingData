@@ -365,7 +365,7 @@ Niv3 = (int)floor(EE4GZ5l6);
 break;
 case 'b':
 case 'B':
-j8xJm = (int)floor(Q104ho9);
+
 break;
 default:
 

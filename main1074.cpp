@@ -38,7 +38,7 @@ int main(void)
   long double  BIKQrtkbkE;
   BIKQrtkbkE  =  698567288;
  unsigned int CS1g2X;
- CS1g2X = 1699632437;
+
   short  DbfXBs_97;
   DbfXBs_97  =  280657695;
  unsigned short H750r7C8_H;
@@ -146,7 +146,7 @@ int main(void)
  unsigned long zMSUd2M5m;
 
  unsigned int y2gJh;
- y2gJh = -131297987;
+
     unsigned long long    kzQrC_;
 
 	short int	nBg1;
@@ -172,7 +172,7 @@ int main(void)
     short int    a7_0;
     a7_0    =    -259221642;
   unsigned char  P8H8aM6607;
-  P8H8aM6607  =  4586379;
+
 	unsigned long long	GsJp0;
 
     unsigned int    YR40P92kL;
@@ -184,7 +184,7 @@ int main(void)
   long long  R2JB8I9B0;
   R2JB8I9B0  =  -641036092;
   short int  BeBQob90Q;
-  BeBQob90Q  =  -945066050;
+
   unsigned char  IlliWF8;
   IlliWF8  =  -1477385233;
     unsigned short    c4408N;
@@ -233,7 +233,7 @@ case 3:
 
 break;
 case 4:
-MpGPq = nIna();
+
 break;
 case 5:
 BWL2E0hPu4 = (int)ceil(tb0BnAIb);
@@ -296,7 +296,7 @@ case 4:
 
 break;
 case 5:
-MpGPq = nIna();
+
 break;
 case 6:
 QW9SwPlo = (int)abs(DbfXBs_97);
@@ -415,7 +415,7 @@ case 3:
 
 break;
 case 4:
-w0fcF91 = nIna();
+
 break;
 case 5:
 px_t4A = (int)floor(HUCd11C);

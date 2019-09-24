@@ -54,7 +54,7 @@ int main() {
 	double	xMB8;
 	xMB8	=	-1675959806;
 	long	W8TFa;
-	W8TFa	=	-774626166;
+
     unsigned long    Fw0x53N;
     Fw0x53N    =    1934656194;
  unsigned int qsh04T;
@@ -72,7 +72,7 @@ int main() {
     unsigned short int    M5DQ;
 
  long long Vd8s5;
- Vd8s5 = -1198962310;
+
     float    C00yGK6Hu0;
     C00yGK6Hu0    =    1392035515;
   unsigned short  r4_ao45;
@@ -122,7 +122,7 @@ int main() {
  char Nqzx;
  Nqzx = -2080942621;
 	unsigned short	ONNEGF;
-	ONNEGF	=	1830438223;
+
     long double    eI1fsNGI;
     eI1fsNGI    =    -1545294985;
  int B1j_;
@@ -321,7 +321,7 @@ case 4:
 
 break;
 case 5:
-tgXMv = Kj04Zrve8(H4Zxo, T_42x8eV0x);
+
 break;
 case 6:
 MxW_ = Kj04Zrve8(30266507, s5l919R3Gc);

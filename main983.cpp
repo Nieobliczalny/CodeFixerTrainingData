@@ -64,7 +64,7 @@ int main() {
     unsigned char    wtuc;
 
  char JnpVMaFa;
- JnpVMaFa = 700465875;
+
 	long long	irkGPI3;
 	irkGPI3	=	-1126240073;
   char  c0_L;
@@ -104,7 +104,7 @@ int main() {
     unsigned long    Z3VQTcJ;
 
   unsigned int  o744fa72Si;
-  o744fa72Si  =  0;
+
  short kuq0sCUR97;
  kuq0sCUR97 = -1098117982;
 	int	bdXg460;
@@ -140,7 +140,7 @@ int main() {
     long    rMyWk6_o;
     rMyWk6_o    =    0;
     long long    BE6W6Ir;
-    BE6W6Ir    =    722521208;
+
  unsigned short int TE67m05K3x;
  TE67m05K3x = 859021981;
 	long	Iwq8smk4al;
@@ -162,7 +162,7 @@ int main() {
     long    g89b;
 
   unsigned char  LC7e7A;
-  LC7e7A  =  -294168670;
+
   long  tXR0fL;
   tXR0fL  =  -2136101859;
   unsigned char  pE2Re5;
@@ -198,7 +198,7 @@ int main() {
     short    QXh1ofF;
     QXh1ofF    =    1366063012;
   long  o3b3Q7Z7;
-  o3b3Q7Z7  =  -2056136712;
+
 	char	U36E;
 
 	long long	uqRM905M5K;
@@ -214,7 +214,7 @@ int main() {
     double    XP9MAexiI;
 
  int RXZsH_qLQB;
- RXZsH_qLQB = 910007296;
+
 
 XP9MAexiI = (int)ceil(JW2N7d6w3Z);
 {
@@ -349,7 +349,7 @@ case 'c':
 
 break;
 case 'd':
-Q4644_G0D = (BE9K) ? ps70rT : B80ui;
+
 break;
 case 'e':
 a26jJ7Ml += 1708222051;
@@ -531,7 +531,7 @@ case 3:
 
 break;
 case 4:
-n13C5L = rX9VFz68d1(n13C5L, -1651352569, lM_o);
+
 break;
 }
 }
@@ -548,7 +548,7 @@ Iwq8smk4al = SSKiEp(Iwq8smk4al, gF76h, hJ3b_, 1173913670, a26jJ7Ml);
 break;
 case 'c':
 case 'C':
-dzH55 |= 1587131325;
+
 break;
 case 'd':
 case 'D':

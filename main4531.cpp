@@ -159,7 +159,7 @@ case 2:
 
 break;
 case 3:
-EOfjTfI_SF = (int)abs(I6ia_ZE);
+
 break;
 case 4:
 
@@ -171,7 +171,7 @@ case 6:
 
 break;
 default:
-aQIVE_eH57 = (int)ceil(bzcl01);
+
 break;
 }
 

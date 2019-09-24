@@ -44,7 +44,7 @@ int j = 5;
 while (j >= 0)
 {
 j--;
-P4rQ1 = gl80U2RDW & psgV7f2v;
+
 }
 }
 }
@@ -97,7 +97,7 @@ case 1:
 K5o7H -= 2016475738;
 break;
 case 2:
-Vv9S__aqBx = a4l8s6uR4C & D8DJ9;
+
 break;
 case 3:
 DbFV3F_M4Q = VsqOlt - tUS7;
@@ -132,7 +132,7 @@ case 2:
 gl80U2RDW = Qynpg_M8t | 1271637734;
 break;
 }
-pPAfXci92 = VsqOlt << dpP6iK47Q;
+
 
 CJL9 = -2079968414 / RuE1Tr(1105933488, -427094173, 622877665, O3b5h_, e3e_4DsjE);
 
@@ -199,7 +199,7 @@ case 'c':
 
 break;
 case 'd':
-tUS7 >>= gl80U2RDW;
+
 break;
 case 'e':
 
@@ -214,7 +214,7 @@ break;
 
 
 
-D00_HB15Y4 = (unsigned short)(ow_p_6_CAe);
+
 if (D8DJ9 >= 479204594)
 {
 std::cout << "A1SR7g2SR" << "bq5y7iv8" << ab2J9F << std::endl;

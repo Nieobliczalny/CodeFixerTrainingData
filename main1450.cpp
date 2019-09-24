@@ -67,7 +67,7 @@ while (j >= 0)
 {
 try
 {
-n2463d7Q0N = eWAZ / 147953741;
+
 }
 catch (int& errorCode)
 {

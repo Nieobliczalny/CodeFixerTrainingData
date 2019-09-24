@@ -32,7 +32,7 @@ int main(void) {
   float  kr6zdT4Pn;
   kr6zdT4Pn  =  340013151;
 	unsigned int	EmPW65;
-	EmPW65	=	0;
+
 	float	NyI7v5X;
 	NyI7v5X	=	1513518551;
   long  y71Wn_pl;
@@ -46,7 +46,7 @@ int main(void) {
   float  RIX9_V;
   RIX9_V  =  253634449;
     int    MS7959Q2kX;
-    MS7959Q2kX    =    -889163240;
+
  int GeTsmic;
  GeTsmic = -561499523;
 	unsigned int	Y3qm6T3o_L;
@@ -172,7 +172,7 @@ std::cout << elS_(yn86m, -868924658, O6Jyxid1i4, 376049376, FtvZsg9y) << std::en
 
 kr6zdT4Pn = (int)abs(qA87o_Ccj);
 
-qA87o_Ccj = (float)(yn86m);
+
 
 std::cout << elS_(GeTsmic, -1060823732, -993551210, kr6zdT4Pn, 778224569) << PB4gxdN1 << elS_(GeTsmic, -861893182, -737747707, 747162248, R9_K_) << q_DMJEZm << std::endl;
 

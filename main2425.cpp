@@ -254,7 +254,7 @@ while (k >= 0);
 }
 else
 {
-l_5_V8_f = (short)(Ismh2_);
+
 }
 }
 while (i >= 0);
@@ -271,7 +271,7 @@ case 'b':
 
 break;
 case 'c':
-CEBijw7Zm4 = (int)ceil(n358_pM7);
+
 break;
 case 'd':
 
@@ -292,7 +292,7 @@ if (D98c2U >= phLOq9O__)
 }
 
 
-DK95Tql17M = EBHbN3vGP();
+
 if (((txCXQ_0G3H > 905885565) && (H88GWVT >= -915977276)) || (vDcZIG_C_7 > QiRF3qs3w))
 {
 

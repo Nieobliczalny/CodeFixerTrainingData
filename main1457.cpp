@@ -204,7 +204,7 @@ case 'c':
 
 break;
 case 'd':
-DVo_2k55lX %= 1706901338;
+
 break;
 case 'e':
 
@@ -216,7 +216,7 @@ case 'g':
 
 break;
 case 'h':
-GAHf6Z0MGM %= 1724899517;
+
 break;
 }
 }
@@ -234,7 +234,7 @@ case 2:
 
 break;
 case 3:
-F225p = (int)ceil(T8c8NKse);
+
 break;
 case 4:
 BWm_Ib = i_0IpHc | 382605006;
@@ -278,7 +278,7 @@ while (k < 5);
 
 for (int i = 10; i >= 0; --i)
 {
-dmFX2EEY = Dmr9fa(-1382670, a35XT7HVy, -778163249, 201530355);
+
 }
 cout << RH3H2_8v(kU55, -746218006, -1188877195, AC2RX7Dp1) << "Lj_0d25Mv" << "o0tLwoqdS3" << Dmr9fa(-1531427806, a35XT7HVy, -47740472, -328567134) << endl;
 
@@ -298,7 +298,7 @@ B7wH7ebO2_ = RH3H2_8v(B7wH7ebO2_, K_9WJX637Y, y9Pdvyyw, tQ899v);
 
 
 
-xxfn = (unsigned long long)(B7wH7ebO2_);
+
 
 return 0;
 }

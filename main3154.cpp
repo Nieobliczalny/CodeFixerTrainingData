@@ -32,7 +32,7 @@ int main(void)
   int  dM8jz;
 
   int  qhs7;
-  qhs7  =  -484693352;
+
  unsigned int OmS1Y__;
  OmS1Y__ = -791935264;
     double    BaIL;
@@ -64,7 +64,7 @@ int main(void)
     unsigned long long    SEKLMf92;
     SEKLMf92    =    -529993082;
  unsigned short f31Xq0;
- f31Xq0 = 630367279;
+
 	long double	IkjwgfA;
 
  float lbi3IKgi0;
@@ -82,7 +82,7 @@ int main(void)
     char    MPW2L;
 
  float eDE8xn9;
- eDE8xn9 = -731348714;
+
   unsigned short  k8B8lm;
 
   unsigned int  w5t5Xb6U;
@@ -96,7 +96,7 @@ int main(void)
   int  jgPJ9X;
   jgPJ9X  =  1705653042;
 	long long	dtH_CK;
-	dtH_CK	=	-845726058;
+
 	unsigned short int	nEA36Zh4;
 
     short int    NO86eU;
@@ -122,7 +122,7 @@ int main(void)
   unsigned short  XUJYb6_;
 
 
-w5t5Xb6U = XW4Fzn7(-906645371);
+
 {
 int i = 6;
 while (i >= 0)
@@ -152,7 +152,7 @@ case 'c':
 
 break;
 case 'd':
-Fbtr = Fa6ds << o1G4sJScA;
+
 break;
 case 'e':
 

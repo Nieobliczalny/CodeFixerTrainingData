@@ -474,7 +474,7 @@ case 3:
 
 break;
 case 4:
-V2O0c3Zo1 = gScKgnX(1928598022, -584110303) / 1599007535;
+
 break;
 default:
 

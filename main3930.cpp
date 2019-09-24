@@ -57,7 +57,7 @@ int main(int argc, char** argv) {
  znfX8_jc = -1172807015;
  vvC_L2Py = 2041972211;
  PT3GBywQ8 = 289924922;
- R3Ru3 = 1163540836;
+
  wDnR3 = 392969215;
 
  uuX4GDj_ = -1181629997;
@@ -70,7 +70,7 @@ int main(int argc, char** argv) {
  H4GgpVe = -1583935400;
 
  kD67_qos_ = -1414456781;
- ieuH00 = 379420706;
+
 
 
  oh8C = 715449318;
@@ -101,7 +101,7 @@ int main(int argc, char** argv) {
  w_dYNV = 0;
  W21655j4kS = 0;
 
-XJ1F8kszcm = (int)ceil(j41P4b93l2);
+
 
 if (eOUq3 < -1255919227)
 {
@@ -148,7 +148,7 @@ case 4:
 C8s6pwFY7h = (int)ceil(OKa_);
 break;
 case 5:
-XJ1F8kszcm = (int)floor(sR_41QO3);
+
 break;
 case 6:
 

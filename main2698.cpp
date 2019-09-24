@@ -729,7 +729,7 @@ int k = 10;
 do
 {
 --k;
-Ip494C = tB69a();
+
 }
 while (k >= 0);
 }

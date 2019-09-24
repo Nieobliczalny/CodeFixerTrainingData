@@ -128,7 +128,7 @@ case 'F':
 break;
 case 'g':
 case 'G':
-AFf26TdGf = t_JnI1sD_z ^ 239503040;
+
 break;
 case 'h':
 case 'H':
@@ -261,7 +261,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-JMpo = MbSS(534091545, GZUlq, O_6bL2pN);
+
 break;
 case 'c':
 case 'C':

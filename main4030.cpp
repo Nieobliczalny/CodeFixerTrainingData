@@ -108,7 +108,7 @@ int main(void) {
   int  EKPP;
   EKPP  =  34533887;
   double  L7G6;
-  L7G6  =  -370291014;
+
   unsigned short int  I2kcCyO;
   I2kcCyO  =  -2045516951;
     unsigned int    gzYoUA7i;
@@ -159,7 +159,7 @@ if (ZT3o29YwC)
 {
 try
 {
-EKPP ^= 1450850351;
+
 }
 catch (int& errorCode)
 {
@@ -486,7 +486,7 @@ else if (w8Vv < -1710607719)
 }
 else if (gzYoUA7i != 345198021)
 {
-Pjfu_AL = p9iA_BI2X();
+
 }
 else if (xp70elq & 1275115176)
 {

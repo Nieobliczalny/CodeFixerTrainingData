@@ -108,7 +108,7 @@ ySl26x_fm = (TGWS9 < 1152291273) ? iD1BNV5y3 : Xr1605mgr;
 break;
 case 'g':
 case 'G':
-arHaIgYW = (int)ceil(iD1BNV5y3);
+
 break;
 case 'h':
 case 'H':
@@ -123,7 +123,7 @@ case 'J':
 LFs9dfR1AY = xB57m3ARg(e0C_, Y_gsjFXIyu);
 break;
 default:
-arHaIgYW = (int)floor(EN4z345j);
+
 break;
 }
 
@@ -278,7 +278,7 @@ break;
 
 
 
-e0C_ = (int)floor(LH1x4);
+
 
 if ((gIzt > -1191887629) && ((xAj6MsW9 & -1660851602) && (ySl26x_fm < -957206042)))
 {
@@ -334,7 +334,7 @@ case 2:
 
 break;
 case 3:
-a74i4rKr -= 1207876006;
+
 break;
 case 4:
 
@@ -346,7 +346,7 @@ case 6:
 
 break;
 case 7:
-SesuRVT2 = k6X0wE + ZlQHj;
+
 break;
 case 8:
 x272f7Q = G80KC_zFM ^ 1257015999;

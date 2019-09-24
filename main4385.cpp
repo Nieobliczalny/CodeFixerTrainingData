@@ -710,7 +710,7 @@ else if (ls8_Wn7 & Qs_qG)
 }
 else if ((zG95 != l3vkY7) || ((I5WUmNMi6g >= QS8W7) && (IiCI42P6_U != KpRuA39f0)))
 {
-V_wu46scX = (int)ceil(L8C_kfR7k);
+
 }
 else if (YQDi147wG < 1745242137)
 {
@@ -794,7 +794,7 @@ case 2:
 
 break;
 case 3:
-UUh85Qa3h = fVkPG();
+
 break;
 default:
 I5WUmNMi6g &= l3vkY7;

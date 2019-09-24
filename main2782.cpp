@@ -65,7 +65,7 @@ wmhHOALHcB = PQ4fep % jzOM_o;
 }
 }
 AX33tcM >>= 794566896;
-J2xi6k = (unsigned long)(dCt_y3T06);
+
 {
 int i = 3;
 while (i >= 0)

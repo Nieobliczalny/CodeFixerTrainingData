@@ -62,7 +62,7 @@ int main(int argc, char** argv) {
  long double SeCK_6b;
  SeCK_6b = -1886819297;
  int jJ9X_;
- jJ9X_ = -960009165;
+
     float    dU_j9c9fv_;
 
  short int l5ooC0J1;
@@ -76,7 +76,7 @@ int main(int argc, char** argv) {
   int  yyQh8RWE;
 
 	unsigned long long	v0cW7h9g0;
-	v0cW7h9g0	=	1193788533;
+
   long  R4Mb9b1d7;
 
     int    UajVRVj629;
@@ -92,7 +92,7 @@ int main(int argc, char** argv) {
  short int EaV02l;
  EaV02l = -923634570;
 	float	QYYRF;
-	QYYRF	=	1352943060;
+
  double mc1mW;
  mc1mW = 2114499389;
     unsigned long    N_gb8;
@@ -110,7 +110,7 @@ int main(int argc, char** argv) {
   unsigned long  H_7dC42p4;
 
 	unsigned long	Vs6r6;
-	Vs6r6	=	-1365070902;
+
   char  ffW0_4;
   ffW0_4  =  -3225680;
  short CEJr39a9;
@@ -279,7 +279,7 @@ while (i >= 0);
 
 
 
-O_qD620LF6 = ll2RE6P / d0yljNK9;
+
 {
 int i = 9;
 do

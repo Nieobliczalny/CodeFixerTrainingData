@@ -134,7 +134,7 @@ case 2:
 
 break;
 case 3:
-YLL5xh_ = (int)ceil(F8fNX_);
+
 break;
 case 4:
 

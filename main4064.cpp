@@ -292,7 +292,7 @@ for (int j = 6; j >= 0; j--)
 pctKQ = Fb7CDk(-653140048, v3f6rI80vq, 997147783, 2008730975, E_17Xfv_);
 }
 }
-C3ArWN__U <<= pvaaL;
+
 
 {
 int i = 0;
@@ -349,7 +349,7 @@ while (j < 9)
 j++;
 if ((f_tYhUOmJ >= -1253442866) && (EKSXc9D8 >= 1517763676))
 {
-C3ArWN__U = Nr2lsQ();
+
 }
 }
 }

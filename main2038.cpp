@@ -85,7 +85,7 @@ int main()
  float p22If8v9;
 
  long double dy866;
- dy866 = -1255061822;
+
     unsigned long long    C4_Xj;
 
 	unsigned short int	t1WaA;
@@ -103,7 +103,7 @@ int main()
   unsigned int  v5F3cP7;
 
     unsigned long    drNA_8l9;
-    drNA_8l9    =    -1199658413;
+
     float    m5b3L7qp_C;
     m5b3L7qp_C    =    405463490;
 	unsigned short int	v0JX_zsJh;
@@ -129,7 +129,7 @@ int main()
 	unsigned short int	SYLFu7M;
 	SYLFu7M	=	1036200416;
   unsigned short  J07Jneok;
-  J07Jneok  =  -1895414642;
+
 	long double	xGg5_K09;
 	xGg5_K09	=	-938779220;
   int  J4r_RA;
@@ -278,7 +278,7 @@ else
 
 if (k38jYB4K)
 {
-Z9WoA520P0 = (int)abs(LCy_OU4);
+
 }
 else if (HIhI8_Qabo < KMJ_0g)
 {

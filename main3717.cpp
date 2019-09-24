@@ -561,7 +561,7 @@ U0_6L = (int)floor(Q3xs);
 break;
 case 'd':
 case 'D':
-F02hvkO9 = nx1tCq_A();
+
 break;
 default:
 ZgbVO = (int)floor(CK1_u6c);
@@ -675,7 +675,7 @@ else if (E0Am4Z9)
 int j = 2;
 while (j >= 0)
 {
-fOG_KTq = (unsigned long)(Q4Ve1E);
+
 --j;
 }
 }
@@ -725,7 +725,7 @@ case 'h':
 Y5wOPP = nx1tCq_A();
 break;
 case 'i':
-iaCB = (int)abs(ru6nVxtOL);
+
 break;
 case 'j':
 Vsf_a6xEwP *= odwd7Kfn86;

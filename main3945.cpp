@@ -72,7 +72,7 @@ int main(int argc, char** argv)
     float    eZeODUlK;
     eZeODUlK    =    553946132;
  char cE55UjY;
- cE55UjY = 1030297270;
+
     unsigned short    qxXV;
 
     unsigned short    APChd97;
@@ -150,7 +150,7 @@ int main(int argc, char** argv)
     long double    EcqhMx;
     EcqhMx    =    -593218022;
 	unsigned short int	sboreN7S15;
-	sboreN7S15	=	531654286;
+
 	float	AD_9383A;
 
   int  J85igOl8N;
@@ -352,7 +352,7 @@ Iq6aa = Ldjk2K | 1168721143;
 int i = 9;
 do
 {
-cE55UjY = (char)(H2v6);
+
 --i;
 }
 while (i >= 0);
@@ -366,7 +366,7 @@ else if (c4nt)
 {
 if (pfmEg_5 >= f60IV8c4K)
 {
-sboreN7S15 = Wk4z__Gd % 236942961;
+
 }
 }
 else if (APChd97 & -377096737)
@@ -454,7 +454,7 @@ case 0:
 vk4I = Wr8_YLX6q(bvE6rb4lws) / po44yIgAX6;
 break;
 case 1:
-WGHM2D = (int)abs(BYgvX259z);
+
 break;
 default:
 Uz_I6zO = Wr8_YLX6q(-1718616121);
@@ -502,7 +502,7 @@ if (Y_IdY35_M5 <= -366027724)
 }
 else
 {
-cE55UjY = Wr8_YLX6q(1570268732);
+
 }
 }
 while (i < 5);
@@ -578,7 +578,7 @@ case 5:
 
 break;
 case 6:
-eZeODUlK = Wr8_YLX6q(eZeODUlK);
+
 break;
 case 7:
 vb_22K = Wr8_YLX6q(vb_22K);
@@ -609,7 +609,7 @@ case 'c':
 
 break;
 case 'd':
-AD_9383A = (int)ceil(vb_22K);
+
 break;
 case 'e':
 
@@ -633,7 +633,7 @@ break;
 
 
 
-n74n8261 = r0Yc2ea7(-1312907348, mITjyg);
+
 
 if (((TcAsvWVu36 != -1565329779) || (Uf1a0rgW == -932379759)) || (t3yfE3v7 <= qm4_))
 {

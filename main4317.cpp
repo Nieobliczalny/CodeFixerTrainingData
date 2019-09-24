@@ -212,7 +212,7 @@ case 2:
 z3to4Md = f844ye8PB(e2cPj_Ck);
 break;
 default:
-gb3df_L0y = (int)floor(Qr4I);
+
 break;
 }
 

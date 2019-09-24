@@ -139,7 +139,7 @@ case 4:
 
 break;
 case 5:
-UJ4g_ = Lu4q5 - 541989846;
+
 break;
 default:
 
@@ -156,7 +156,7 @@ break;
 }
 cout << -530673599 / cLdA9S5J1 << endl;
 
-G_bNCe = HR4D91j();
+
 
 
 

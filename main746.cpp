@@ -144,7 +144,7 @@ while (i < 9);
 }
 GMoUtd = (int)floor(FI2T7);
 
-cIMU8JN = q47_l2n8b(cIMU8JN, FI2T7);
+
 
 {
 int i = 0;
@@ -312,7 +312,7 @@ case 4:
 
 break;
 case 5:
-cIMU8JN = zT3Fhc * 849781470;
+
 break;
 case 6:
 
@@ -329,7 +329,7 @@ while (i >= 0);
 }
 
 
-QC7v = (unsigned long long)(CbTZd4YYvI);
+
 
 
 return 0;

@@ -59,7 +59,7 @@ case 'g':
 
 break;
 case 'h':
-Z3_9bLup = (T8bd0 != 443641778) ? d3J6 : 406950926;
+
 break;
 case 'i':
 

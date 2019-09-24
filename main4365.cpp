@@ -94,7 +94,7 @@ case 5:
 
 break;
 case 6:
-AcOW = k564_DvPLq ^ 1207214163;
+
 break;
 case 7:
 yRb9--;

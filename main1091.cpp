@@ -162,7 +162,7 @@ else if (D0JT0gz0 & 950989200)
 {
 try
 {
-sxtTIa__Cq = (int)ceil(p6aP);
+
 }
 catch (int& errorCode)
 {
@@ -465,7 +465,7 @@ WyJ1i6z = (int)abs(E526N);
 }
 else
 {
-kG188 = (int)ceil(Fj2RgAXf4);
+
 }
 }
 }

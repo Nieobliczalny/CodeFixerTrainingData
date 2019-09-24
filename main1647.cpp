@@ -37,7 +37,7 @@ int main(void)
     unsigned long long    BPq1;
 
 	double	rSm6A;
-	rSm6A	=	1395937633;
+
 	long	uMf_7N;
 
     short int    MKj8RU2r;
@@ -79,7 +79,7 @@ int main(void)
 	long	F306F5f7BV;
 
  unsigned char MW3aP73;
- MW3aP73 = -585767924;
+
     long long    hQVos;
     hQVos    =    312885032;
  unsigned int W9Km;

@@ -32,7 +32,7 @@ int main(void)
 	h370N5	=	577682501;
 
 
-	oP_Oe	=	-31119103;
+
 	H0gHL0gbA5	=	-668955030;
 	TE0tMsTS5	=	505528774;
 	jz0xg6P	=	679753152;
@@ -55,7 +55,7 @@ int main(void)
 	qv7Xd2	=	-546553677;
 	MJJiK23	=	867246901;
 	i289zvA	=	1822752878;
-	J0W6a	=	1967643703;
+
 	N0Mh	=	-1161953136;
 	Ec8d_5z95_	=	-1449431791;
 	Npdlr	=	2124489507;
@@ -198,7 +198,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-IG7DIx9 = LkyTnu >> k96sn;
+
 break;
 case 'd':
 case 'D':
@@ -360,7 +360,7 @@ case 2:
 
 break;
 case 3:
-T0GJ9M = (int)abs(LkyTnu);
+
 break;
 case 4:
 VQ2l55wGr = gG4Ehvr4k2(T1xFl3Zp);

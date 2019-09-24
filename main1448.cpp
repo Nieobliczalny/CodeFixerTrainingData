@@ -553,7 +553,7 @@ VsHhZ3ac = (int)ceil(ZqP4w);
 break;
 case 'b':
 case 'B':
-RxGLrgbHa -= VsHhZ3ac;
+
 break;
 case 'c':
 case 'C':
@@ -595,7 +595,7 @@ break;
 
 
 
-RxGLrgbHa = (int)abs(Z7gcW);
+
 cout << RwVc9Zlx << oRP0 << "N7k7" << endl;
 return 0;
 }

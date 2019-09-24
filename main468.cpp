@@ -712,7 +712,7 @@ case 'G':
 break;
 case 'h':
 case 'H':
-SJj2fXU = eHd8M0ZW * 1531433481;
+
 break;
 default:
 p8l8oC4 >>= DKZ0KHpxU;

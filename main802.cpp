@@ -118,7 +118,7 @@ int main()
   unsigned int  XP74g_;
   XP74g_  =  32134879;
  double sA7LojrO;
- sA7LojrO = -1499017007;
+
   int  YGg4;
   YGg4  =  -1932490915;
  unsigned int kgS2;
@@ -136,7 +136,7 @@ int main()
 	float	Y_FWHd_wE;
 	Y_FWHd_wE	=	1889770383;
 	double	i3O7Ne9Nq;
-	i3O7Ne9Nq	=	518016250;
+
  long double n6wMu0;
  n6wMu0 = 1397223211;
   long long  NQR04ZX0;
@@ -148,7 +148,7 @@ int main()
   long  CsFVm3;
 
 	unsigned int	WG_9Y;
-	WG_9Y	=	370577292;
+
   unsigned char  yKJ7M4;
   yKJ7M4  =  1759870388;
   long long  Hn72V8FAYs;
@@ -253,7 +253,7 @@ if (qV_yr5__jz != cpi53agXWr)
 {
 for (int k = 0; k < 6; ++k)
 {
-h4ED = (int)ceil(nu980yZk_);
+
 }
 }
 else
@@ -270,7 +270,7 @@ std::cout << "s21e0" << "FOWq9q" << B0H67NU86(Y_r18Guxo, YGg4, ZNu6n2, -14221032
 }
 
 
-v33h2ba = (int)ceil(VIJL41AfQ7);
+
 
 if (Y_r18Guxo)
 {

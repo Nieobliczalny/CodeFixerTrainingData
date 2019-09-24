@@ -479,7 +479,7 @@ if (((iwzQR0imWY <= 1933585676) && (Ti61N >= I2tmhf)) || (vn4o9 >= 745823872))
 {
 try
 {
-Yv5V = (int)abs(XcbCs);
+
 }
 catch (int& errorCode)
 {

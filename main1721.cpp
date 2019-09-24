@@ -333,7 +333,7 @@ case 2:
 
 break;
 case 3:
-PcdyaE = FE2joHQF(-749119812, bS5h4, PcdyaE, 529175359, -959455213);
+
 break;
 case 4:
 g89m67SB = kK26j(g89m67SB, QcfqSET, Yp9WJyTHIT, EZ8Xoi, z40qPN_FLi);
@@ -524,7 +524,7 @@ case 'd':
 
 break;
 case 'e':
-nx_K = FE2joHQF(Q6Pw9, 1990705123, -1997519176, c_Dm, 2117568607);
+
 break;
 case 'f':
 

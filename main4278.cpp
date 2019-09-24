@@ -502,7 +502,7 @@ K944_T &= 845492758;
 }
 else if (El_Cq5AeG)
 {
-sZyBwaj ^= pD97LF_3P_;
+
 }
 else if ((XlgtHV == BVrbdBUr4K) || ((ir3z & q_LdF25) || (Oo5Xg_yR == -1218333988)))
 {
@@ -536,7 +536,7 @@ case 5:
 
 break;
 case 6:
-N3cO &= 885622998;
+
 break;
 case 7:
 

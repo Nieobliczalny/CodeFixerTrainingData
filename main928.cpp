@@ -330,7 +330,7 @@ else if (pI4NW_xf > -958719332)
 {
 if (((PSP8) || (nR1i7211Q6 <= iaze)) && (vNB7qO1s_ & -329471839))
 {
-t1ti1B = DgR1dR_c_n(t1ti1B, pI4NW_xf, 269406599);
+
 }
 else if (n7_mrv1E)
 {
@@ -391,7 +391,7 @@ else
 {
 if (p72qO5_ < 68971581)
 {
-t1ti1B ^= 482003080;
+
 }
 }
 }

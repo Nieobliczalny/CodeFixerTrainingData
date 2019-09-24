@@ -25,7 +25,7 @@ long VcrsaNa(unsigned long n4nd_D9nO2);
 int main(void)
 {
   short  yf4dMcgu60;
-  yf4dMcgu60  =  557731729;
+
   long long  OR6y8w4Y_N;
   OR6y8w4Y_N  =  1877916343;
  short int GLnKZ6;

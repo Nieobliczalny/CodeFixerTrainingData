@@ -19,7 +19,7 @@ int main(void)
 
   I56_H  =  -189084933;
 
-  dFdX60  =  688536305;
+
   zOIkHsj  =  -869101706;
   mXed2ni  =  557317085;
   Sh2oj6B  =  -1976052031;
@@ -32,7 +32,7 @@ int main(void)
 
 
   v5ZXwLdQ_A  =  982587608;
-  o3sZohh7V  =  -813585499;
+
   gEU_c5  =  -469310953;
   aOL00IGsv  =  -74992983;
   q1tD4J  =  1132145515;
@@ -42,7 +42,7 @@ int main(void)
 
 
 
-  gdj3t  =  815784133;
+
   vw2051uv4  =  1760477907;
 	unsigned long long	XkNgg86,	CW1ml,	p8L8X54wgH,	pM52,	s_TCdWh;
 	XkNgg86	=	0;
@@ -167,7 +167,7 @@ else
 
 
 
-CW1ml = yCvb75tXp();
+
 XkNgg86 = (unsigned long long)(eKT3az63T * XkNgg86);
 
 try

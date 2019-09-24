@@ -62,7 +62,7 @@ int main(void)
 	i1ghDaK	=	-2014621672;
 	lAMc_	=	1208511133;
 	nZDmk3WS	=	1929951749;
-	JnoSW2Nh	=	1100494250;
+
 	M_q3eZAvD	=	-1401769511;
 	K9_ZHB	=	-267353277;
 	cz88rN_	=	-1768216544;
@@ -122,7 +122,7 @@ int main(void)
 
 	XsRf	=	-565865452;
 
-	RcoS	=	483400230;
+
 	woY09	=	-229492788;
 	y_0tyj1	=	-1248042194;
 	tPcW_	=	-2051233066;
@@ -586,7 +586,7 @@ case 3:
 
 break;
 case 4:
-hF2i15M = iT4F4();
+
 break;
 case 5:
 gpPB7K56Y = iT4F4() / DM83LHBNO8;

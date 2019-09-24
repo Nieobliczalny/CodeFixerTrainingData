@@ -164,7 +164,7 @@ int main(void)
  short OJbLL1Z;
  OJbLL1Z = -320248819;
     short int    il8t;
-    il8t    =    -2094076234;
+
   long double  B260DBYw8;
   B260DBYw8  =  591002009;
     unsigned long long    jVyhb;

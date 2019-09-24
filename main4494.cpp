@@ -228,7 +228,7 @@ case 'c':
 
 break;
 default:
-zIx6n6L = (MC1_q) ? D6x6S_F_4 : FvW2w5Z8;
+
 break;
 }
 

@@ -72,7 +72,7 @@ int main() {
     unsigned long    tT8t5FvG1;
 
 	unsigned int	a9Li_7;
-	a9Li_7	=	1296219663;
+
 	unsigned long	Q0iqhwfz;
 	Q0iqhwfz	=	-1225938986;
  char R3jaKEP1;
@@ -371,7 +371,7 @@ case 2:
 
 break;
 case 3:
-uC4K890G5 = B_zD53Wq(678338585);
+
 break;
 case 4:
 
@@ -383,7 +383,7 @@ case 6:
 
 break;
 case 7:
-cPmQVz = j_OUw_s_q0 | CwtxVPN0;
+
 break;
 case 8:
 

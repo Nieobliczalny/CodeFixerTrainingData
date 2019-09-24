@@ -420,7 +420,7 @@ else if ((xPFdjC1_ < 1918736024) || ((n161N & -507813691) || (yzqqq_OrXq < 51487
 }
 else
 {
-Q67KGGU2m2 = (int)ceil(SGh3r0cQ0);
+
 }
 }
 catch (int& errorCode)
@@ -613,7 +613,7 @@ else
 }
 }
 
-yzqqq_OrXq -= vn81_2;
+
 switch (P2995p)
 {
 case 'a':

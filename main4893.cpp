@@ -319,7 +319,7 @@ case 'c':
 
 break;
 case 'd':
-ZbQC1 -= 1577597397;
+
 break;
 default:
 

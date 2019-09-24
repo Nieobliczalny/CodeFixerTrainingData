@@ -19,7 +19,7 @@ int main()
     double    jyD4fq;
 
  char VWE4HMD;
- VWE4HMD = -1380627492;
+
  long double QEg46;
 
     unsigned int    qkanEPDk;
@@ -137,7 +137,7 @@ int main()
  double lQnW59v_Tv;
  lQnW59v_Tv = 261034399;
  unsigned long long Wm0S;
- Wm0S = 323486811;
+
 	unsigned short int	L_hxL18;
 	L_hxL18	=	1698373689;
  unsigned char BW9m;
@@ -299,7 +299,7 @@ case 1:
 
 break;
 case 2:
-evNl3af2 *= 660581441;
+
 break;
 case 3:
 lunI2WcH = E1ARQ4Ksy1 | r1Q0FB26;

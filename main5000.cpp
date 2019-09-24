@@ -43,7 +43,7 @@ int main(void) {
   long double  u7_mT4x;
 
     float    SmDqkM;
-    SmDqkM    =    1800230309;
+
 	double	RNQo9qJ32;
 
     unsigned long    ns_Mwe;
@@ -93,7 +93,7 @@ int main(void) {
     float    AT_q6X8_C0;
     AT_q6X8_C0    =    551930271;
     float    EFj6fD;
-    EFj6fD    =    987545378;
+
 	unsigned long	Nv0cx7irT;
 
 	long	u9KqPM0y3_;
@@ -513,7 +513,7 @@ case 'g':
 
 break;
 case 'h':
-ncin2yd1 = s7Oct7A9(-799337146);
+
 break;
 case 'i':
 

@@ -177,7 +177,7 @@ try
 int j = 0;
 while (j < 3)
 {
-rh0qs915 = (short)(F74qY8A9);
+
 j++;
 }
 }
@@ -417,7 +417,7 @@ case 3:
 
 break;
 case 4:
-sqEg3zQw3D = S_18(382650967, 1294569991, QdK15B, bM6R2, QeMM) << D5zt252rv;
+
 break;
 default:
 

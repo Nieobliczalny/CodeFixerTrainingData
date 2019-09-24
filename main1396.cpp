@@ -119,7 +119,7 @@ int main(int argc, char** argv) {
 	short	Pt09pYwa77;
 
 
-V_7I5j = e_MSj(Ja4dIa4M6V);
+
 
 Sue70W = (int)floor(oCw7);
 
@@ -435,7 +435,7 @@ case 2:
 
 break;
 case 3:
-WLBB7w4L -= Cvk4_BG6;
+
 break;
 case 4:
 

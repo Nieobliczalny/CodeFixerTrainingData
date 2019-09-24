@@ -184,7 +184,7 @@ try
 switch (N5qfl)
 {
 case 0:
-p8IWME0 *= 581810629;
+
 break;
 case 1:
 Gue6OMi0 = kD3A7 & 1300086519;
@@ -530,7 +530,7 @@ case 'c':
 
 break;
 case 'd':
-Xn8G9 = (int)floor(ABGyJH);
+
 break;
 default:
 

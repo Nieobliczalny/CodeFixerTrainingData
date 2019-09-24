@@ -107,7 +107,7 @@ int main(int argc, char** argv) {
  unsigned int CliOX9;
  CliOX9 = -1260245876;
   short int  greDg;
-  greDg  =  892751720;
+
     unsigned short int    Iwb7RhD9P;
     Iwb7RhD9P    =    1981731026;
     long double    WgN84;
@@ -171,7 +171,7 @@ int main(int argc, char** argv) {
  short int Fb61ZlKV;
 
   unsigned long long  swSqJiqwH5;
-  swSqJiqwH5  =  1160514335;
+
  unsigned short int rzY_l;
 
 	float	iT_n_0My8;

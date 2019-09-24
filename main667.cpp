@@ -73,7 +73,7 @@ case 'c':
 CI94X3 = (int)abs(qPIbsVd2FJ);
 break;
 case 'd':
-zRd8jmBmg5 = (int)floor(Hk023);
+
 break;
 case 'e':
 
@@ -85,7 +85,7 @@ case 'g':
 
 break;
 case 'h':
-H_C44z5J /= 2098069097;
+
 break;
 }
 switch (ZC_Zh6Ldh)
@@ -100,7 +100,7 @@ case 2:
 
 break;
 case 3:
-a141Z60wP4 *= IcGEvg5j;
+
 break;
 case 4:
 QgREug = IcGEvg5j + 2044005562;

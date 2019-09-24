@@ -469,7 +469,7 @@ case 'f':
 
 break;
 case 'g':
-HOm7 = MbTI / k3XBM;
+
 break;
 default:
 

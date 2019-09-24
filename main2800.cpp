@@ -24,7 +24,7 @@ int main(int argc, char** argv) {
   long double  UI01OuoB8;
   UI01OuoB8  =  -817094814;
     long    lKpL;
-    lKpL    =    -434228210;
+
 	long long	mBs2D8P0L8;
 	mBs2D8P0L8	=	230006029;
 	long	wM4jC;
@@ -62,7 +62,7 @@ int main(int argc, char** argv) {
   long  a_nZ3;
   a_nZ3  =  2015590922;
     short    MF70;
-    MF70    =    -1990095066;
+
   unsigned char  l0SHwZ1a45;
 
 	long	KHo_d;
@@ -266,7 +266,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-kD4i8Fl = E_lq2X_h31 & 248195447;
+
 break;
 case 'e':
 case 'E':
@@ -303,7 +303,7 @@ a2fglPh6dH--;
 break;
 case 'e':
 case 'E':
-zXRe0dl0Kn |= 114245643;
+
 break;
 case 'f':
 case 'F':

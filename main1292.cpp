@@ -51,7 +51,7 @@ int main(void)
   unsigned short int  buy3a3r_;
 
   long long  Oc_2XPw7;
-  Oc_2XPw7  =  -1112957038;
+
     unsigned short int    rG24j;
     rG24j    =    -254047030;
     int    tL5pgY;
@@ -73,7 +73,7 @@ int main(void)
     unsigned short    LWDPFn__K;
 
 	unsigned long	qZrgnW2HKg;
-	qZrgnW2HKg	=	-1641722687;
+
  unsigned int N44_iOrJ8r;
  N44_iOrJ8r = -144003721;
   unsigned int  wA46PtF;
@@ -89,7 +89,7 @@ int main(void)
  double xoyra06mZE;
 
  long long G41wb9xr;
- G41wb9xr = 572917496;
+
   short  QTI5T2V;
 
  short psVqJBlHu;
@@ -101,7 +101,7 @@ int main(void)
     short    zR7g;
     zR7g    =    -1601436808;
   long double  i65673S;
-  i65673S  =  -1638234859;
+
     unsigned char    o20YP8a;
 
   unsigned char  JEQ1w;
@@ -119,7 +119,7 @@ int main(void)
  char nRSY823T;
 
  double Kg5wKUTl;
- Kg5wKUTl = 1025465499;
+
 	long long	zaFR0xSs;
 	zaFR0xSs	=	752562445;
  int ouG1o43;
@@ -137,7 +137,7 @@ int main(void)
     short    re6Pi90915;
     re6Pi90915    =    -615005096;
   unsigned short int  ETX7B7_;
-  ETX7B7_  =  -89652191;
+
   char  mZ7fQBg4Nz;
 
 	short int	qiBcT;
@@ -151,7 +151,7 @@ int main(void)
 	long long	mih16z8P;
 
  double CrDPv2I;
- CrDPv2I = -630114945;
+
  unsigned long long tZ305m7w;
 
 	unsigned char	eu68zPq1B2;
@@ -167,7 +167,7 @@ int main(void)
  char V4830ke18;
 
 	int	rI_k7;
-	rI_k7	=	-2074550696;
+
   unsigned short int  q9L142l;
 
     long long    NRE_Y;
@@ -177,7 +177,7 @@ int main(void)
 	unsigned short int	I5WhU8td;
 
  unsigned char ZvbaLJ4B;
- ZvbaLJ4B = 1999060831;
+
     unsigned long long    gg4ulvPTGa;
 
  char u9nR;
@@ -191,7 +191,7 @@ int main(void)
   short  Wc51jEs;
 
   short  t85Hl;
-  t85Hl  =  224859837;
+
     int    F9p6n;
     F9p6n    =    -298772257;
 	short	PL9Xt70N4;
@@ -203,7 +203,7 @@ int main(void)
     unsigned int    j5i4;
 
  unsigned int rd5EA;
- rd5EA = 114091973;
+
  long NFV3mGC;
 
   int  gseXNg;
@@ -296,7 +296,7 @@ else
 
 }
 
-sI79Ye4GB = Fh6C5X7O3(sI79Ye4GB, -1850147459, -1450590280);
+
 
 h32f = iKcrytLQx_ * eKW34Xtm;
 return 0;

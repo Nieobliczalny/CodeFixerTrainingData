@@ -24,7 +24,7 @@ int main(int argc, char** argv)
     // codechecker_intentional [deadcode.DeadStores] Design rule - initialize all variables
 	l497QA  =  MIgEo8Bk6S  =  gDy1hDI8e  =  sA_051XYp_  =  MjUOfPE  =  QFXkH424_U  =  aQ_NqwiZnQ  =  zB1052  =  g5Qw5od3ul  =  z092u  =  p54ThR  =  Up6pZ  =  p_8_N50_  =  zaXO  =  XXKm9N  =  bd0ayCE  =  LTH_  =  T2W1HZd  =  cO0dK  =  d2Gy2B_m  =  sGfZJ5dJs  =  KJ4S9F  =  v0uz3M_98q  =  C1m5z_e  =  l4UA  =  Bh845Q  =  sQ_E  =  zGS9V  =  y1dgeA  =  n8J79G9_  =  jI_D5Bs0_7  =  O9TbGs  =  NLKDEp  =  IGQri0Z3b  =  r5h4iM9G  =  OOS9dGT_  =  N61FIB1  =  a708r  =  d2QTu  =  jrczp  =  R4VTok_X3  =  XTYGXD  =  H1_q83K  =  G86qI9i9  =  Chj6I  =  J07M_95_2  =  s1Tt_D6Y8  =  MBM8RN7  =  Wn7f_  =  b78115  =  XraN  =  WwWT6  =  LTTZEgZ0_v  =  xtK_4008  =  W780S_NtGW  =  qTuN1O1S  =  l8DC2D  =  yQh83  =  CFa__X4  =  sX_syr  =  aJoY8q  =  eWIS1Y87E7  =  V_5s  =  g31L  =  WN6UxX0M  =  woK323_kw  =  o7bJyEh  =  IvU4D  =  E8On1  =  iFR8IA5  =  GS4NQ  =  aVwoyVh3  =  Sv6BFm_eq_  =  xpZSg  =  f4gL1  =  f_Y1X  =  -1094832763;
 
-sX_syr = zaXO / oo21_F5;
+
 
 if (Up6pZ < Te0KV2Lb)
 {
@@ -40,7 +40,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-oo21_F5 = (int)abs(uf3ij1);
+
 break;
 case 'c':
 case 'C':
@@ -52,7 +52,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-C1m5z_e = DEtk1NrK | 1660263677;
+
 break;
 case 'f':
 case 'F':
@@ -64,7 +64,7 @@ case 'G':
 break;
 case 'h':
 case 'H':
-CFa__X4 <<= 1222145073;
+
 break;
 case 'i':
 case 'I':
@@ -95,7 +95,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-z092u = p54ThR / 552729601;
+
 break;
 case 'd':
 case 'D':
@@ -111,7 +111,7 @@ case 'F':
 break;
 case 'g':
 case 'G':
-oo21_F5 = (int)abs(uf3ij1);
+
 break;
 case 'h':
 case 'H':
@@ -122,7 +122,7 @@ case 'I':
 
 break;
 default:
-sQ_E <<= NLKDEp;
+
 break;
 }
 

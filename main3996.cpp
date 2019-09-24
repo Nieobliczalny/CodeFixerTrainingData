@@ -177,7 +177,7 @@ else if (k0KFD8t <= rL90_)
 {
 if (Fk2aU > j_6i3y)
 {
-JX8U1YL4_2 -= ZihMynbT1_;
+
 }
 else if (ETlh8qET & NCWiC0qgO)
 {
@@ -295,7 +295,7 @@ else
 }
 else if (SItSH4FQ_7)
 {
-Fk2aU = (long)(K543v8);
+
 }
 else
 {

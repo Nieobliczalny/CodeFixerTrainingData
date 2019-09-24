@@ -37,7 +37,7 @@ int main() {
  double j82_VFrar;
  j82_VFrar = -622962038;
 	long double	u7_tT8ov;
-	u7_tT8ov	=	234745593;
+
 	long	W48y;
 	W48y	=	-774713377;
 	unsigned long long	W_E2b;
@@ -65,7 +65,7 @@ int main() {
  long long o6OcaIZUeS;
 
     unsigned short int    eL_1v;
-    eL_1v    =    100866095;
+
   unsigned long long  tVY0_vpa;
   tVY0_vpa  =  -550722354;
   short  aCoD_k7L;
@@ -93,7 +93,7 @@ int main() {
   unsigned short int  TAXi4Z23;
 
  unsigned int cz1Id81I;
- cz1Id81I = 533674383;
+
   double  L8EN;
 
  unsigned char LEcfpa69b;

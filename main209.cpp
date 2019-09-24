@@ -97,7 +97,7 @@ int main() {
  float aUpv;
  aUpv = -1871398740;
 	unsigned short int	pKpB9O;
-	pKpB9O	=	974401462;
+
 	char	hwsu_q0CP;
 
 	unsigned short int	DTcb672o;
@@ -115,7 +115,7 @@ int main() {
     unsigned char    MfQO55p;
     MfQO55p    =    1045508359;
  long double N6x9196xF;
- N6x9196xF = 1774796373;
+
 	unsigned short int	g330;
 	g330	=	-945304023;
 	long double	wMdpxz3KS;
@@ -139,7 +139,7 @@ int main() {
  char MzSHob;
  MzSHob = 865434872;
     char    T7BMPZydi;
-    T7BMPZydi    =    253098892;
+
  long double u1vpl;
  u1vpl = 551800288;
 	char	L0B66pMWDk;
@@ -237,7 +237,7 @@ if (W8d5h < j62P_19)
 }
 else if (E_7sE < 1285074772)
 {
-N6x9196xF = (int)abs(aUpv);
+
 }
 else if (no7z7jvmsL <= j62P_19)
 {

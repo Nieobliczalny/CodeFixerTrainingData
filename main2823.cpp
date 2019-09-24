@@ -210,7 +210,7 @@ case 'G':
 break;
 case 'h':
 case 'H':
-wvO0YP = kTP138 / MxHX_AWV2;
+
 break;
 }
 }

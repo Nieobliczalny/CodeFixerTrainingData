@@ -118,7 +118,7 @@ int main(int argc, char** argv) {
  lta5mdh = 1533596274;
 
  gp88RKCP = 1126651127;
- ftnJw_ = 1694276150;
+
  EQKTXYgc2n = 1361665765;
  wj_pe = -1236294286;
  Cv7RT8 = 1162586004;
@@ -520,7 +520,7 @@ case 3:
 
 break;
 case 4:
-Xpnf54T_ = wgLn(1785295034, VPAmHuQ, QB7bD9T, -1553144163, V41Fg);
+
 break;
 case 5:
 FC8cvkM %= Y_6Q4i2;
@@ -602,7 +602,7 @@ while (k >= 0);
 }
 else if (J3uTK8f != WVeYIJ)
 {
-pGyh1y43X = (unsigned long long)(wj_pe);
+
 }
 else if ((TK4Ir0 <= ft4U_TT) || (j1r_d1 <= OPV64n))
 {

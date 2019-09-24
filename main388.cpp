@@ -63,7 +63,7 @@ int main()
  unsigned int oHuhI;
  oHuhI = 923306808;
     unsigned long    fH7r;
-    fH7r    =    -2051230958;
+
   unsigned short  Uz726Qcs2;
   Uz726Qcs2  =  -437099818;
     int    G_b_7UX;
@@ -75,7 +75,7 @@ int main()
 int i = 0;
 while (i < 8)
 {
-fH7r = (unsigned long)(DX0a);
+
 ++i;
 }
 }
@@ -173,7 +173,7 @@ k00TV3 = TPIc4C6jWW(672724816);
 }
 else
 {
-fH7r = tIhVW(-1290075494, ub9zw, 374304883);
+
 }
 ++j;
 }

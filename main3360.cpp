@@ -103,7 +103,7 @@ int main(int argc, char** argv)
   int  uQN__qBc;
   uQN__qBc  =  1133411261;
     float    j89zx;
-    j89zx    =    -230219021;
+
  unsigned short int q2268ra;
  q2268ra = 344520833;
   long double  qYRu253;
@@ -121,7 +121,7 @@ int main(int argc, char** argv)
  int Wdmp3K1;
  Wdmp3K1 = -432750332;
     double    EOrxYk;
-    EOrxYk    =    -1177110283;
+
   unsigned long long  FklqUgVu;
   FklqUgVu  =  -205351626;
  double a87w1jAN8;
@@ -401,7 +401,7 @@ case 0:
 
 break;
 case 1:
-q_n3844 = xtZ_73(v2w0, 2109187315);
+
 break;
 case 2:
 x4SG3Pb = J38gw / 492470867;
@@ -490,7 +490,7 @@ case 2:
 
 break;
 case 3:
-jMAsO_tYe &= g0bLeFW6k;
+
 break;
 case 4:
 
@@ -502,7 +502,7 @@ case 6:
 
 break;
 case 7:
-s3M8LM_9 = XP7wR2(s3M8LM_9, -840789039, x4SG3Pb, Qgx_6);
+
 break;
 case 8:
 H5bbqonz /= tW96Vtf;

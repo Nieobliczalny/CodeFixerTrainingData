@@ -409,7 +409,7 @@ case 2:
 
 break;
 default:
-DVT7FSp ^= 1892122551;
+
 break;
 }
 N5Ymx6s49 = (int)floor(lJ7rK7p);

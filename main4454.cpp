@@ -160,7 +160,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-SV7ybdKEB3 = (int)floor(S_0_ONLM);
+
 break;
 case 'f':
 case 'F':

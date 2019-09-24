@@ -356,7 +356,7 @@ case 'e':
 
 break;
 case 'f':
-FUEDk = C9179mm6(1390817787, -1330092599, RkE8_Z) / 443521883;
+
 break;
 case 'g':
 C4Q968buF = C9179mm6(xky14j, j4Dy, RkE8_Z) / jG2_Cv6es;
@@ -492,7 +492,7 @@ case 'h':
 b139s18x %= hPSl0I;
 break;
 case 'i':
-o9vFi = aGU_Ht - LL5zFikZ1;
+
 break;
 case 'j':
 K8B9K4d19++;
@@ -587,7 +587,7 @@ while (k < 1)
 
 
 
-ch36 = -764004382 / S_qDO17xF2;
+
 for (int i = 9; i >= 0; --i)
 {
 if (nRtNY_If & p358A0rm)

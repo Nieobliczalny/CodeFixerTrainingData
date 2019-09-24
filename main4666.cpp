@@ -197,7 +197,7 @@ povebt -= 748422040;
 
 if (cT05r < -1477918660)
 {
-JONJ7 ^= 255044843;
+
 }
 else if (Yixjn)
 {
@@ -506,7 +506,7 @@ case 'd':
 
 break;
 case 'e':
-xb02jE = b78s + BqriC1kMI;
+
 break;
 case 'f':
 
@@ -518,7 +518,7 @@ case 'h':
 
 break;
 default:
-Yixjn = PvvVO % wS3AM;
+
 break;
 }
 }
@@ -566,7 +566,7 @@ case 2:
 
 break;
 case 3:
-kf1GR873L = (int)ceil(l5_7Kz);
+
 break;
 case 4:
 

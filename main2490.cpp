@@ -302,7 +302,7 @@ case 'a':
 
 break;
 case 'b':
-iP44 /= 660532270;
+
 break;
 case 'c':
 
@@ -494,7 +494,7 @@ else
 
 
 
-QdCQ = j751dw(1209454419, c736L1WzE);
+
 return 0;
 }
 

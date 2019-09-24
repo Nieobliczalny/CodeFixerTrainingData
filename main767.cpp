@@ -278,7 +278,7 @@ else if (v75eLul)
 switch (h4Mr)
 {
 case 'a':
-ttC3v = (int)abs(Ic73);
+
 break;
 case 'b':
 mf2ReT *= 331404324;
@@ -467,7 +467,7 @@ switch (h4Mr)
 {
 case 'a':
 case 'A':
-J1i_136Y = (int)abs(LpoX);
+
 break;
 case 'b':
 case 'B':
@@ -519,7 +519,7 @@ case 3:
 
 break;
 default:
-fc322 = (int)abs(EDLhr6ldQ_);
+
 break;
 }
 try

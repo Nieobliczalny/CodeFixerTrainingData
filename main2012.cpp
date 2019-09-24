@@ -418,7 +418,7 @@ case 'c':
 
 break;
 case 'd':
-P87J88Y_ = (int)ceil(JAt1);
+
 break;
 case 'e':
 
@@ -490,7 +490,7 @@ case 4:
 
 break;
 case 5:
-P87J88Y_ = (int)floor(F9EuN465O1);
+
 break;
 case 6:
 

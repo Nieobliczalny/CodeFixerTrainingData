@@ -326,7 +326,7 @@ for (int i = 0; i < 6; i++)
 
 }
 
-AJqEXW74 = (int)abs(IsUu_6k3);
+
 
 switch (x_S7)
 {
@@ -343,7 +343,7 @@ case 'd':
 
 break;
 case 'e':
-cE3UH >>= 1401038791;
+
 break;
 case 'f':
 
@@ -355,7 +355,7 @@ case 'h':
 
 break;
 case 'i':
-Ak3N6k78mo = ktlJ(-1818831275, 1815125256, 2081138361, 1012690289);
+
 break;
 }
 for (int i = 0; i < 3; ++i)

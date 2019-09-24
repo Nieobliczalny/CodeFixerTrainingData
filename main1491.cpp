@@ -224,7 +224,7 @@ break;
 }
 else if ((Gbs_cSQ < Iev4) && (qD8mxx != V4R74))
 {
-YKn9 = X9K1rtn >> rQf4j;
+
 }
 else if (UT2b5lV6K > Iev4)
 {
@@ -257,7 +257,7 @@ switch (ltXq36ZN)
 {
 case 'a':
 case 'A':
-OG971 = G9SL2eW2 >> 677778127;
+
 break;
 case 'b':
 case 'B':
@@ -343,7 +343,7 @@ case 2:
 
 break;
 case 3:
-wYP9k_ = X_b2_6 << Gbs_cSQ;
+
 break;
 case 4:
 

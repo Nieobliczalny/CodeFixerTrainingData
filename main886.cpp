@@ -122,7 +122,7 @@ else if (((WkMx8G0XH & RTFLlK6) && (re1yelk >= -157392757)) && (A5UB7YH9 > 12826
 }
 else if ((fP_XbPBut > 1763290828) && (CktN != 1038964654))
 {
-A5UB7YH9 = T83j98(2020613853);
+
 }
 else if (qb3mdq1eh <= 2032488380)
 {

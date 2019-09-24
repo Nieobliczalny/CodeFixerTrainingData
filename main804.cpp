@@ -475,7 +475,7 @@ case 'c':
 
 break;
 case 'd':
-X5B9GBf |= 606629075;
+
 break;
 case 'e':
 
@@ -487,7 +487,7 @@ case 'g':
 
 break;
 default:
-vqE9hspam = sgVVqLNp5K(1849765099, 1081222928, o8avJ, 150290726);
+
 break;
 }
 return 0;

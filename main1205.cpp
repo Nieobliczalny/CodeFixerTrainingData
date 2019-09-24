@@ -377,7 +377,7 @@ std::cout << HZL608Y5E << bKdUhNoT << Qr_48dZF << std::endl;
 N04Kk9 &= LO8f;
 
 
-V7543R = (unsigned short)(Qr_48dZF);
+
 try
 {
 switch (N04Kk9)
@@ -398,7 +398,7 @@ case 4:
 
 break;
 case 5:
-Slji5a *= Q7kgAcSMXt;
+
 break;
 case 6:
 

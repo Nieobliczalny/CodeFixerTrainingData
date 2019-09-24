@@ -113,7 +113,7 @@ else
 switch (y80sJE5w5q)
 {
 case 0:
-Ok4yMS9 %= q_lK581Dd;
+
 break;
 }
 if (T_RnL_lnv <= 922775430)

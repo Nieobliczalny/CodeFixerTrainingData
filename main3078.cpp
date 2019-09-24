@@ -159,7 +159,7 @@ case 2:
 
 break;
 case 3:
-r6026_q1B1 <<= F3_X3Jj;
+
 break;
 case 4:
 
@@ -171,7 +171,7 @@ case 6:
 
 break;
 case 7:
-rBhVfa220 = (int)ceil(FNFgDPuIN);
+
 break;
 }
 }

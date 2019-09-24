@@ -33,7 +33,7 @@ int main(int argc, char** argv) {
  long V79J21;
 
  unsigned short int b6ay;
- b6ay = -1289022631;
+
     short int    ka2707otL;
     ka2707otL    =    0;
 	unsigned long long	ncNgMcA;
@@ -51,7 +51,7 @@ int main(int argc, char** argv) {
     long    i82W35Q;
 
     double    hFzi;
-    hFzi    =    1206692522;
+
  char SRadYK_d;
  SRadYK_d = -764722179;
   long double  wl7F_ec9;
@@ -91,7 +91,7 @@ int main(int argc, char** argv) {
     short    NG_f5;
     NG_f5    =    -890134504;
 	char	DV4wF5AnC;
-	DV4wF5AnC	=	1270428324;
+
     unsigned short int    wE9W2;
     wE9W2    =    -1019191168;
     unsigned short    QqDNBLp9Mq;
@@ -117,7 +117,7 @@ int main(int argc, char** argv) {
 	short int	A2904Fswn8;
 
     int    JA4_x3;
-    JA4_x3    =    0;
+
  unsigned short F6nM;
  F6nM = -1269289820;
 	unsigned short	MW4uS;
@@ -135,7 +135,7 @@ int main(int argc, char** argv) {
     long    Yt02x92;
 
 	unsigned long long	uf8ks6hA;
-	uf8ks6hA	=	1576073268;
+
  long long z_K2BQs;
  z_K2BQs = 1688374642;
 	unsigned long long	pxiY9b;
@@ -221,7 +221,7 @@ yA_rY73a_5 -= 1590957934;
 break;
 case 'e':
 case 'E':
-hFzi = (int)abs(EaMz);
+
 break;
 case 'f':
 case 'F':

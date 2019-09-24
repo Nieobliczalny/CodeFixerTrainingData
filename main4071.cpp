@@ -626,7 +626,7 @@ for (int i = 0; i < 9; i++)
 }
 
 
-BHB7tZ = (char)(NjaM71 + (702919233));
+
 return 0;
 }
 

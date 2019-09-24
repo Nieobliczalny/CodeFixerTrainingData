@@ -75,7 +75,7 @@ int main(void) {
 	unsigned short int	sw6F3k;
 
     unsigned char    jq_2YPu9;
-    jq_2YPu9    =    -214195284;
+
     char    JO8dK;
     JO8dK    =    2087907402;
     long long    Jnp4Xi3J8;
@@ -179,7 +179,7 @@ int main(void) {
 	long	E4jH;
 	E4jH	=	1511984541;
 	unsigned int	osOhhKKL;
-	osOhhKKL	=	355537926;
+
  unsigned short int L8FK;
  L8FK = 427645651;
     unsigned long long    jyIc;
@@ -191,7 +191,7 @@ int main(void) {
   long long  tqqhl7_XI0;
   tqqhl7_XI0  =  162749691;
  long long sdWjCC1;
- sdWjCC1 = -494794540;
+
  char uH9d;
  uH9d = 1180820549;
     long double    tlc_;
@@ -278,7 +278,7 @@ break;
 }
 
 
-jq_2YPu9 = UsZNLLraH(-965330071);
+
 for (int i = 0; i < 10; ++i)
 {
 {
@@ -500,7 +500,7 @@ case 'a':
 E36H = (int)abs(IUfV6);
 break;
 case 'b':
-bFECzB0 = (int)floor(YUxna);
+
 break;
 case 'c':
 
@@ -520,7 +520,7 @@ while (j >= 0)
 {
 try
 {
-bFECzB0 = (int)ceil(W0e0C790U);
+
 }
 catch (int& errorCode)
 {
@@ -533,7 +533,7 @@ i--;
 }
 }
 
-W1p_3Sz771 <<= ef08;
+
 cout << "jBVM" << "Yu86U9p" << bx87LQ << endl;
 
 {
@@ -574,7 +574,7 @@ case 'c':
 
 break;
 case 'd':
-euWMw |= ldPti13xZ;
+
 break;
 }
 
@@ -590,7 +590,7 @@ case 2:
 
 break;
 case 3:
-dZmwdN <<= dRIBVA;
+
 break;
 case 4:
 
@@ -602,7 +602,7 @@ case 6:
 
 break;
 case 7:
-D_xe = tPA1_Y(rX2xGD4jQ, QYC8, -65489311, 840466324);
+
 break;
 case 8:
 

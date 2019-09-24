@@ -155,7 +155,7 @@ case 'd':
 
 break;
 case 'e':
-bOpl4cq += 828056310;
+
 break;
 case 'f':
 brj5035T = (brj5035T < udcAntAc) ? CS7pb : EPjEQSHN;

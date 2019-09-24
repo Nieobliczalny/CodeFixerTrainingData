@@ -30,7 +30,7 @@ int main(int argc, char** argv)
     unsigned short int    p47157XoF;
 
 	long	G4U30Q;
-	G4U30Q	=	341572893;
+
     unsigned char    zl5_5H7dxB;
     zl5_5H7dxB    =    -234991535;
 	char	kZyEPeq;
@@ -48,7 +48,7 @@ int main(int argc, char** argv)
 	unsigned long long	dL6_PF3x;
 
     long long    Yi9kI47;
-    Yi9kI47    =    0;
+
     unsigned long long    KDcgqpXMmQ;
     KDcgqpXMmQ    =    -467253501;
     double    HlaU5Kd_;
@@ -110,7 +110,7 @@ int main(int argc, char** argv)
     long double    ah_uZon44K;
     ah_uZon44K    =    1874159614;
   char  yOYU43W1;
-  yOYU43W1  =  871461630;
+
     double    cJMmjHNQ;
     cJMmjHNQ    =    -540090521;
     short    M227_NoJ3U;
@@ -190,7 +190,7 @@ for (int j = 0; j < 8; ++j)
 int k = 9;
 while (k >= 0)
 {
-y0pp = (int)floor(cJMmjHNQ);
+
 --k;
 }
 }

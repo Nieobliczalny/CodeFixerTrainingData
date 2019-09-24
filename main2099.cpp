@@ -60,7 +60,7 @@ int main(void) {
  unsigned int W8jq7;
 
 	float	S2x481;
-	S2x481	=	-473799875;
+
  unsigned char TC728J5_m;
  TC728J5_m = -1035094745;
     unsigned long    FWWChGJ4s;
@@ -84,7 +84,7 @@ int main(void) {
     unsigned char    V6jq;
     V6jq    =    581379033;
   long double  m954r;
-  m954r  =  477173341;
+
     unsigned short int    hF28Y;
 
     unsigned long long    hJpD3;
@@ -188,7 +188,7 @@ int main(void) {
 	long double	edmqcX8z9;
 	edmqcX8z9	=	-210631997;
     unsigned short int    uVW2tl539;
-    uVW2tl539    =    113787079;
+
 	unsigned short	nmjg_;
 	nmjg_	=	524837785;
   unsigned short  p6AW;
@@ -218,7 +218,7 @@ int main(void) {
   short int  JJ1D0R87m;
 
 	int	OH7o6zAXA;
-	OH7o6zAXA	=	785904369;
+
     char    ZfKTM4xi86;
     ZfKTM4xi86    =    0;
 
@@ -538,7 +538,7 @@ case 3:
 
 break;
 case 4:
-mq6jp_ = F0YwJ(1060477190, 624112838, 1504680654);
+
 break;
 default:
 

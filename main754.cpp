@@ -95,7 +95,7 @@ switch (jNNcGULzR)
 {
 case 'a':
 case 'A':
-sK84Meo = (int)ceil(Wlz3T);
+
 break;
 case 'b':
 case 'B':
@@ -234,7 +234,7 @@ for (int j = 0; j < 4; j++)
 {
 if (xxwe6tfdcv != Q3hQU263s7)
 {
-sK84Meo = (int)floor(JTE68);
+
 }
 else if (b71LoKDl4g)
 {

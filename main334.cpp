@@ -60,7 +60,7 @@ break;
 
 
 std::cout << r_1Ve85OaY << std::endl;
-e0_tb3G = n1m_2luA14(1649122856, RfR627CVlJ, -539012622, e0_tb3G);
+
 switch (g5d_)
 {
 case 'a':
@@ -72,7 +72,7 @@ break;
 }
 
 
-zTS2lwBjL = i4Y6_ue(-2056990829, YcvANWI, -926721403, RfR627CVlJ, 1830701717);
+
 
 return 0;
 }

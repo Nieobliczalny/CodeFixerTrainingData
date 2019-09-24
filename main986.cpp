@@ -34,7 +34,7 @@ if ((tnJdmkk5p < 727750619) && (msrKXF54r < XIA8))
 int j = 0;
 do
 {
-oQ451 = (unsigned long long)(b38p9);
+
 j++;
 }
 while (j < 2);
@@ -174,7 +174,7 @@ case 'h':
 
 break;
 case 'i':
-tsh3fYkQSL = tB3Fd(tsh3fYkQSL, iTthM, p84jrLO__, Yi4A, 794572051);
+
 break;
 case 'j':
 

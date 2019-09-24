@@ -168,7 +168,7 @@ case 5:
 Fgz9 -= To6YC;
 break;
 case 6:
-jbbygO3X >>= VwNii2o;
+
 break;
 case 7:
 hSJQSq_--;
@@ -381,7 +381,7 @@ MI7_62p >>= 1254741464;
 break;
 case 'g':
 case 'G':
-lys4ZMt = T7Q1G2pj8 * 962125740;
+
 break;
 default:
 JNvZ_m51 += l_2We_Z9sL;

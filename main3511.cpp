@@ -138,7 +138,7 @@ case 'c':
 
 break;
 case 'd':
-g_CNE = DV_Hk % nHdkGW;
+
 break;
 case 'e':
 hV3zu20_UU++;
@@ -196,7 +196,7 @@ else if (bX498FOcI_ <= bu9EJO2tNJ)
 }
 else if (dN2qeK >= -415487219)
 {
-itv6h = bu9EJO2tNJ * u_B_ur3O6;
+
 }
 else if (ta3O < dN2qeK)
 {
@@ -251,7 +251,7 @@ case 5:
 PoH3SJ8438 = k3vQ6wn4E_();
 break;
 case 6:
-T_lpvEgMP = (int)abs(aAGeO);
+
 break;
 case 7:
 w7G38E_1 = k3vQ6wn4E_();
@@ -372,7 +372,7 @@ while (j < 8);
 }
 
 
-F4Jl6U36u = x7Nz6z8 / k3vQ6wn4E_();
+
 
 
 

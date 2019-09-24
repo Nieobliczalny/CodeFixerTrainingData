@@ -411,7 +411,7 @@ int j = 9;
 while (j >= 0)
 {
 j--;
-I_wnoQ40t = (unsigned long)(ui_DDw2);
+
 }
 }
 }

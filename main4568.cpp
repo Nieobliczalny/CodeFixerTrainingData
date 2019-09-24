@@ -130,7 +130,7 @@ for (int j = 10; j >= 0; j--)
 {
 if ((w5cAVh041Y) || (IxhsAxv <= 1447335670))
 {
-j3Dlfl = O3MWt59h / 1482722919;
+
 }
 else
 {

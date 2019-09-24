@@ -39,7 +39,7 @@ int main() {
 	char	u5JRxemgP;
 	u5JRxemgP	=	1373531309;
 	unsigned short int	EGHBREq99f;
-	EGHBREq99f	=	-1939696173;
+
  short int IZIg;
  IZIg = 923317361;
   float  M9DFUgi;
@@ -55,7 +55,7 @@ int main() {
   short  X4X7kD3H3;
   X4X7kD3H3  =  714710553;
 	double	HLT936MwN;
-	HLT936MwN	=	822818893;
+
     unsigned char    a1vp5R010U;
     a1vp5R010U    =    1792665389;
     unsigned char    n8EhqqXWB1;
@@ -67,7 +67,7 @@ int main() {
     char    ZqgBHZ5iM;
 
  unsigned short int tF9T_X_71U;
- tF9T_X_71U = -1181657688;
+
   char  JKqdm7y;
   JKqdm7y  =  -1261164118;
   unsigned short int  v_Nbdg;
@@ -89,7 +89,7 @@ int main() {
  unsigned long p4345;
  p4345 = 0;
     unsigned long long    Pkg654;
-    Pkg654    =    -37282936;
+
     float    Ts9_A;
     Ts9_A    =    1635922069;
   long long  OL_6;
@@ -125,7 +125,7 @@ int main() {
  float kWZZ5gmbM;
  kWZZ5gmbM = 1411175768;
  unsigned char juKL;
- juKL = -1081224048;
+
   char  e_t65d2Ue;
   e_t65d2Ue  =  -119735717;
     long long    Eu3b;
@@ -325,7 +325,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-HLT936MwN = (int)floor(EmDEnu);
+
 break;
 default:
 
@@ -343,7 +343,7 @@ case 'b':
 C53T6yLR_ %= DVUJ0htmR;
 break;
 case 'c':
-HLT936MwN = (int)floor(cQ067dac);
+
 break;
 default:
 
@@ -618,7 +618,7 @@ case 3:
 
 break;
 case 4:
-F3_b7gl3 += ebf865;
+
 break;
 default:
 cACX_5 = (int)ceil(EmDEnu);

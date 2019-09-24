@@ -301,7 +301,7 @@ while (i < 6)
 }
 if (lqRc <= -1051623779)
 {
-D42uKS = (short int)(u589);
+
 }
 else if ((cqfepWCE > 426393379) || (mx__))
 {
@@ -465,7 +465,7 @@ case 1:
 
 break;
 case 2:
-GNQXR = (int)abs(v_ognDt);
+
 break;
 case 3:
 
@@ -477,7 +477,7 @@ case 5:
 
 break;
 case 6:
-D42uKS = lqRc * 895420593;
+
 break;
 }
 

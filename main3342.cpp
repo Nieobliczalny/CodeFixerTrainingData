@@ -43,7 +43,7 @@ case 'e':
 n_Js04 = (int)abs(za_ylu) * 0;
 break;
 case 'f':
-OiDXF20PH = c7ihm(Grv12, -1560003739, -1216098299, 898983177, za_ylu);
+
 break;
 case 'g':
 o2_A6t = CBbyF1BXk(o2_A6t);

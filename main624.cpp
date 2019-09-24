@@ -265,7 +265,7 @@ for (int i = 7; i >= 0; i--)
 cout << "Y9lk9" << byw9 << oH8w(r1rr5y56Y, lku0h_8n1, u7iatU8aT, -470454836, -270061603) << endl;
 }
 
-khz10o7_ = vN_Ms4e9(920696640, 43066531, 1306912162);
+
 
 E6K2 = (int)abs(u7iatU8aT);
 U7jRdW82u -= 1048482053;
@@ -298,7 +298,7 @@ u7iatU8aT = oH8w(u7iatU8aT, TCMQpu, RF7L, 1673419053, 1904013626);
 break;
 case 'g':
 case 'G':
-gDlH2HTKOa = avCw8 % 2042703645;
+
 break;
 case 'h':
 case 'H':

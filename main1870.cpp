@@ -275,7 +275,7 @@ switch (tRbUjFG0)
 {
 case 'a':
 case 'A':
-YWyAP >>= 265452910;
+
 break;
 case 'b':
 case 'B':
@@ -336,7 +336,7 @@ while (k >= 0);
 }
 else if (((ir_LH <= HcCcWq) && (QUh2t7j_0 < 1428066627)) && (Zg_y >= 1415786578))
 {
-YWyAP = (unsigned int)(UQ4F0);
+
 }
 else if (tTaS8RBi > IwJT1T7rtZ)
 {

@@ -290,7 +290,7 @@ case 2:
 
 break;
 case 3:
-EX_H_pJD = s4cs1();
+
 break;
 case 4:
 

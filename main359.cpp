@@ -66,7 +66,7 @@ int main(int argc, char** argv) {
     long    gOQ5sOy;
 
   short  vhLU;
-  vhLU  =  1361073082;
+
     float    yXFd4y0p;
     yXFd4y0p    =    -1236680845;
     short    NQ_Mt;
@@ -82,7 +82,7 @@ int main(int argc, char** argv) {
     long long    pR44;
     pR44    =    406463403;
     unsigned short int    V06xU5Cp;
-    V06xU5Cp    =    806442995;
+
 	short	Unra3Z;
 	Unra3Z	=	1116227624;
   short  D3jKt0;
@@ -92,7 +92,7 @@ int main(int argc, char** argv) {
 	long double	zCS3w9M4t;
 	zCS3w9M4t	=	1839338345;
     short    YWiI9qetG;
-    YWiI9qetG    =    -1404510033;
+
     float    Q7QlN1;
     Q7QlN1    =    -1872725198;
 	short int	dS39cfbG2;
@@ -312,7 +312,7 @@ yXFd4y0p = (int)abs(aAbVQq3p);
 break;
 case 'b':
 case 'B':
-W49KiPL8P = m7n17();
+
 break;
 case 'c':
 case 'C':

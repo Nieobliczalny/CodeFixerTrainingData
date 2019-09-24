@@ -296,7 +296,7 @@ XJcRE2wbGQ = (int)(WtQo2N4_R2 + (-410185001));
 std::cout << Lrudxr00H / Lrudxr00H << std::endl;
 
 oEaF5C = (int)(WtQo2N4_R2 + (1294869181));
-xC12t -= 763454169;
+
 if ((oEaF5C & -673439118) || (oEaF5C & gqntkhD39g))
 {
 if ((WtQo2N4_R2) && (WtQo2N4_R2 != 575371694))
@@ -316,7 +316,7 @@ case 'd':
 
 break;
 case 'e':
-z8k2yXI &= 1948462535;
+
 break;
 case 'f':
 oEaF5C = (int)abs(u8J24);

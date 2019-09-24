@@ -59,7 +59,7 @@ if (Np3_Loh <= ho2QyfJGQ)
 }
 
 
-y_c3 %= 586534662;
+
 return 0;
 }
 

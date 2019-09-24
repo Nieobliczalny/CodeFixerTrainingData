@@ -876,7 +876,7 @@ case 7:
 
 break;
 case 8:
-z18g9 = (int)floor(Q08Vg);
+
 break;
 default:
 

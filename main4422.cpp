@@ -85,7 +85,7 @@ int main(void) {
     kFqCfB21g    =    -1850091830;
     ee1_c_    =    -1202128726;
     UGLn3y36B6    =    -404695333;
-    qD568_2    =    -1721847129;
+
     Gp3oZhi    =    -1833563628;
     F6dC    =    -1130476702;
     Yveq376x2    =    -257622123;
@@ -626,7 +626,7 @@ v2_r3u0 = xTIK(139485638, p892Jj57D) / z5otUfW5;
 switch (X456t6)
 {
 case 0:
-upzD = qR12v98XuD(upzD);
+
 break;
 case 1:
 j8gO_ = xTIK(XhTaqZ6, 756860404);

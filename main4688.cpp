@@ -17,7 +17,7 @@ int main() {
   CM_VjR  =  471730648;
   m72q5r  =  -1220769771;
   Zn119_RRu2  =  1495910512;
-  KfcCt  =  2003586760;
+
   mGg6_NFN4  =  1255001941;
   h2tcY2_7  =  404360072;
   g6YP7  =  -1483056618;
@@ -110,7 +110,7 @@ switch (SRi5_Q)
 {
 case 'a':
 case 'A':
-L6FqClz = (int)abs(Zn119_RRu2);
+
 break;
 case 'b':
 case 'B':
@@ -121,7 +121,7 @@ case 'C':
 
 break;
 default:
-KfcCt = (SRi5_Q <= 386527685) ? Wwcqt_M : e2G0QAsk5X;
+
 break;
 }
 }
@@ -157,7 +157,7 @@ RBG22uQyD -= Zn119_RRu2;
 break;
 case 'h':
 case 'H':
-KfcCt = (int)floor(B0H7QJc);
+
 break;
 case 'i':
 case 'I':

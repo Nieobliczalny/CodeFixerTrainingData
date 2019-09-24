@@ -93,7 +93,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-q5fQxB = (int)floor(UX_k_5QXcW);
+
 break;
 case 'e':
 case 'E':
@@ -160,7 +160,7 @@ case 'd':
 
 break;
 case 'e':
-q5fQxB = (int)floor(gdjX97);
+
 break;
 default:
 L45_d308M = n0_i86B << Img4KHqS09;

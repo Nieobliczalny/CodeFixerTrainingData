@@ -261,7 +261,7 @@ case 3:
 
 break;
 default:
-u6DNZ_EC_ += q1ckL;
+
 break;
 }
 WDG1Ip = (unsigned short int)(PlRZCyJew);
@@ -282,7 +282,7 @@ case 2:
 
 break;
 case 3:
-uR30_ = (D7r7yA3) ? ebf5ly1lk : k8yn;
+
 break;
 }
 

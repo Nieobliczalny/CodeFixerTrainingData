@@ -239,7 +239,7 @@ case 'b':
 
 break;
 case 'c':
-bu0H31S6 = (int)floor(Bd3Jy);
+
 break;
 case 'd':
 

@@ -22,7 +22,7 @@ int main(int argc, char** argv) {
   float  lQ9u5S8;
 
   unsigned int  Ov0cMq1l;
-  Ov0cMq1l  =  663701538;
+
   short  F96O;
   F96O  =  1815821822;
 	long double	eyH_g;
@@ -40,7 +40,7 @@ int main(int argc, char** argv) {
 	unsigned char	YH8esl_Un8;
 
     float    F69V;
-    F69V    =    1829283783;
+
     unsigned long    sL50Al;
     sL50Al    =    -1022192123;
 	long	z21HO;
@@ -50,7 +50,7 @@ int main(int argc, char** argv) {
   int  Yll76lu;
 
     long    hCaeM0iBw_;
-    hCaeM0iBw_    =    655929744;
+
     short int    pHp04;
 
  unsigned short int j3nPPK3G;
@@ -68,7 +68,7 @@ int main(int argc, char** argv) {
   long double  OI3Cw;
 
     long    UVn7HZ68;
-    UVn7HZ68    =    1058334294;
+
   float  k_6Ht8;
   k_6Ht8  =  1364686133;
     unsigned long long    xv1LQ2MZ;
@@ -78,7 +78,7 @@ int main(int argc, char** argv) {
 	int	e4JctT;
 
   long double  ZinLR029;
-  ZinLR029  =  673232670;
+
     short int    A835;
     A835    =    -787858758;
     short    j53gsD_l2;
@@ -104,7 +104,7 @@ int main(int argc, char** argv) {
 	short	mMacg_hLc1;
 
     short int    d0T98xjO_x;
-    d0T98xjO_x    =    -137952863;
+
  long long avxgL_1r;
 
   short  e1Iq68;
@@ -130,7 +130,7 @@ int main(int argc, char** argv) {
  long long fgnu8Ab_Tf;
 
  short Lc834P;
- Lc834P = -482280319;
+
     long double    y_sAcCh4y;
 
 	unsigned short int	XLQOHS2nw2;
@@ -142,7 +142,7 @@ int main(int argc, char** argv) {
 	int	n62v451Ym;
 	n62v451Ym	=	1884890752;
     unsigned int    XCl6DG7f54;
-    XCl6DG7f54    =    1403721247;
+
 	long double	ts2L6;
 
  long long V3i98kvRy9;
@@ -152,7 +152,7 @@ int main(int argc, char** argv) {
   long  FVML356;
 
 	unsigned long long	T3T_MO;
-	T3T_MO	=	-1505592623;
+
   float  Wr_f7SR;
   Wr_f7SR  =  2128830471;
     short    u6_1_0CL;
@@ -178,7 +178,7 @@ int main(int argc, char** argv) {
  double CJis4T_V_;
 
     unsigned short int    T5pi77;
-    T5pi77    =    546479473;
+
 	long long	GR5m0VnA72;
 	GR5m0VnA72	=	-1401133840;
 	unsigned long	jd6NbAweI;
@@ -202,7 +202,7 @@ int main(int argc, char** argv) {
 	unsigned int	H9eRFHAg;
 
   unsigned long long  JJlwaK0GR;
-  JJlwaK0GR  =  485368076;
+
 	unsigned int	sRxOTUbvf;
 
  unsigned short int HjxO487dv;

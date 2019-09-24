@@ -180,7 +180,7 @@ case 'c':
 
 break;
 case 'd':
-gc2Q7_CZ = ga1OR6g1 - v7_zsIN;
+
 break;
 case 'e':
 

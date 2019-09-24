@@ -396,7 +396,7 @@ case 'b':
 
 break;
 case 'c':
-JEQ55Jbr = p9yxy << 139569480;
+
 break;
 case 'd':
 

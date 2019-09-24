@@ -72,7 +72,7 @@ lC110I = (char)(N19OYW3);
 }
 else if (ba2I5Qy0i & 1453403412)
 {
-mS9_x = (unsigned int)(N19OYW3 * mS9_x);
+
 }
 else if (i_UZEo8h12 > -1714583598)
 {
@@ -211,7 +211,7 @@ case 2:
 JJ93Q_W_Hl++;
 break;
 case 3:
-N19OYW3 = (int)abs(Ylp7);
+
 break;
 case 4:
 s_lpU++;
@@ -245,7 +245,7 @@ case 'c':
 
 break;
 case 'd':
-JZu1V0D6e >>= 1657638424;
+
 break;
 case 'e':
 JJ93Q_W_Hl = x7GS0SN / 1832196399;
@@ -286,7 +286,7 @@ while (k >= 0);
 switch (i0m1)
 {
 case 'a':
-N19OYW3 = (int)abs(uH93Nn6);
+
 break;
 case 'b':
 

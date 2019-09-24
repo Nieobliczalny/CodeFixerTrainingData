@@ -192,7 +192,7 @@ break;
 }
 
 YpUjQGV071 = (int)abs(qLM4);
-U1q06RMW = (short int)(AxfQgQy);
+
 
 std::cout << nsk3FG3vvh << "roq3n" << qLM4 << std::endl;
 
@@ -347,7 +347,7 @@ while (j < 5);
 
 
 
-T4ZWZ5B7_n -= 388659910;
+
 
 D0759 = (short int)(qkJJFDwY + (-1055982090));
 return 0;

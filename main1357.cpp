@@ -186,7 +186,7 @@ if (KozI3Lb7 >= doS46U_02)
 {
 if (kQ5t1Ee49 != AGcTV)
 {
-s_ir08 = Dx6882BT_(350582849, 943250970, kQ5t1Ee49);
+
 }
 else if (d015_Rm1M > Sjlh7)
 {
@@ -254,7 +254,7 @@ case 'd':
 
 break;
 case 'e':
-AGcTV = (int)floor(c362Z);
+
 break;
 case 'f':
 

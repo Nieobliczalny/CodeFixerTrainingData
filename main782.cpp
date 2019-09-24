@@ -26,7 +26,7 @@ int main() {
   unsigned long  RF3A32;
   RF3A32  =  0;
 	short	W3a2Mm;
-	W3a2Mm	=	-260582517;
+
     unsigned short int    LSS58F8;
     LSS58F8    =    -2003268693;
     short    KpjnS;

@@ -47,7 +47,7 @@ while (j >= 0);
 }
 }
 
-Qcs6 = (int)(bO8f_1);
+
 switch (o3J0e)
 {
 case 'a':
@@ -87,7 +87,7 @@ case 'd':
 R_0y = hvlwP5nPu & 388248167;
 break;
 case 'e':
-Go11 = dEh2Z0uw + A1Zc_l00;
+
 break;
 case 'f':
 v2f3_7V = x0a_Q(-1364474658, hvlwP5nPu, BO7pzn0tJ, A1Zc_l00, XaoNUpY);
@@ -352,7 +352,7 @@ case 2:
 
 break;
 case 3:
-aBAZwr = (int)abs(GbBX7RQfV);
+
 break;
 case 4:
 

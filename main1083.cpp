@@ -399,7 +399,7 @@ case 2:
 
 break;
 case 3:
-tCLv81 = BasC - q77H;
+
 break;
 }
 

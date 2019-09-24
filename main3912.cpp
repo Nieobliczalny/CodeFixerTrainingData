@@ -298,7 +298,7 @@ case 6:
 
 break;
 case 7:
-R8Z6ESX = (int)ceil(Zv09A_K0);
+
 break;
 case 8:
 

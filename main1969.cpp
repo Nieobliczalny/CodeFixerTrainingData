@@ -63,7 +63,7 @@ int main(int argc, char** argv)
  PS_6azx_1 = -147412080;
  Zx1oy = 6554730;
  K02t = -87551898;
- S_8X0 = 35993711;
+
  o8WTouT = 1188552068;
  N5Nf39_ = 2119235922;
  ck3e = -1133232576;
@@ -98,7 +98,7 @@ int main(int argc, char** argv)
  M5O4 = 1857816549;
 
  xGl66 = -915651956;
- vT9d = 1941098635;
+
  j_d9HJXU = -180760719;
 
 FPAZ5n9Y = K02t | 954635212;

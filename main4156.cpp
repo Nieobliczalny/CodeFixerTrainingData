@@ -265,7 +265,7 @@ case 5:
 
 break;
 case 6:
-Psw0xh = d96HOK6 ^ DG2ks;
+
 break;
 case 7:
 

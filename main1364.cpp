@@ -33,7 +33,7 @@ int main() {
 	unsigned int	Y5K46;
 
   short int  o486T4;
-  o486T4  =  565883171;
+
     long double    km4SBqgL;
     km4SBqgL    =    -943469303;
   unsigned long long  luFNp94o5p;
@@ -55,7 +55,7 @@ int main() {
  long double Fggl86p;
  Fggl86p = -416013499;
 	char	PGYx18Z0;
-	PGYx18Z0	=	-619434553;
+
  unsigned long r_mQ9;
  r_mQ9 = 191633231;
  int kb__;
@@ -79,7 +79,7 @@ int main() {
 	long	ERkI28IsV;
 	ERkI28IsV	=	1634837548;
  int jS4ZI_r8;
- jS4ZI_r8 = -2122967094;
+
  unsigned int UDpZU5nC;
 
     char    uo9bGb2;
@@ -89,7 +89,7 @@ int main() {
     long long    h7Mb6;
 
     double    z3_n;
-    z3_n    =    31641292;
+
 
 switch (ERkI28IsV)
 {
@@ -100,7 +100,7 @@ case 'b':
 
 break;
 case 'c':
-V3nj2ZOG = (int)ceil(km4SBqgL);
+
 break;
 case 'd':
 
@@ -137,7 +137,7 @@ case 'c':
 
 break;
 case 'd':
-km4SBqgL = (int)floor(Fggl86p);
+
 break;
 case 'e':
 
@@ -149,7 +149,7 @@ case 'g':
 
 break;
 case 'h':
-tTcNG0 = iJF08zyEN(tTcNG0, 1651933504);
+
 break;
 case 'i':
 

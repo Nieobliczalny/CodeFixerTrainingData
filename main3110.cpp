@@ -19,7 +19,7 @@ int main(int argc, char** argv)
 
   kQSOV2OW  =  -1478219356;
   aNk_WZeHx  =  -1793017143;
-  HLK9  =  -1088819521;
+
   eeIC910K  =  86560527;
   eGrGT  =  -577953370;
   d9X44C  =  -1003845408;
@@ -45,7 +45,7 @@ int main(int argc, char** argv)
   B1q8X  =  1600157732;
 
   E691  =  -151609019;
-  o69Ax  =  -1649590303;
+
 
   S0X8i  =  -2088247839;
   v19RumaeI  =  462408851;
@@ -180,7 +180,7 @@ OM4SzB4vr5 /= AdE2gl4t;
 }
 else if (ZsNG)
 {
-uN80 = E691 / 7659575;
+
 }
 else
 {
@@ -743,7 +743,7 @@ case 8:
 
 break;
 default:
-et0I -= 2036862726;
+
 break;
 }
 {

@@ -274,7 +274,7 @@ case 5:
 
 break;
 case 6:
-o1398 = (int)abs(z0aI6);
+
 break;
 case 7:
 
@@ -315,7 +315,7 @@ case 5:
 
 break;
 case 6:
-GJA01T = (int)abs(Bo2D51_Sk);
+
 break;
 case 7:
 bj9nPla_ = X6u77RQR(-1563137318, bj9nPla_, g_Ihvwcl1, -943704050);

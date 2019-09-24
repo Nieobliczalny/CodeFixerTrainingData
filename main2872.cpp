@@ -248,7 +248,7 @@ case 'c':
 
 break;
 case 'd':
-OXrpe = viCSZ_Gz();
+
 break;
 case 'e':
 dwz8RQ5 = zW4l_B9 / hahRH_NmH1;
@@ -263,7 +263,7 @@ case 'h':
 
 break;
 case 'i':
-ucjH9W5WX6 /= 270393639;
+
 break;
 case 'j':
 zW4l_B9 = OXrpe + hahRH_NmH1;

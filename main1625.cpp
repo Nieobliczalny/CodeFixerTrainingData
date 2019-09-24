@@ -606,7 +606,7 @@ case 3:
 l3IFFC = K03IkAM ^ YnP_;
 break;
 case 4:
-u5Inp |= G8c8;
+
 break;
 case 5:
 u5Inp = (int)abs(G255i);

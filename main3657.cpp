@@ -82,7 +82,7 @@ case 'd':
 
 break;
 default:
-U6GDO = (int)floor(u7pSs5);
+
 break;
 }
 
@@ -107,7 +107,7 @@ std::cout << B6RnVrp << rAHQS29B7(760644125, T2tM6h3rg) << rAHQS29B7(1390761974,
 
 
 
-I_2_ = Y_Zp_g7U ^ 1363457147;
+
 S5A2Du = g4R5LlN01H >> NR38;
 
 if (tiVBJ8j_i4 >= 1095200618)

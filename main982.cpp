@@ -34,7 +34,7 @@ int main()
 switch (n_Y5f_)
 {
 case 0:
-pNT61_5x = eU6FUD8j6y(-796486735, J8RE, 89983323, HnO1aeE);
+
 break;
 case 1:
 d8Z0u8gi--;
@@ -106,7 +106,7 @@ case 0:
 
 break;
 case 1:
-yhrwk = B8MD9z >> MN9G7Lc;
+
 break;
 case 2:
 wea7_Fn7lP = eU6FUD8j6y(G4DX3v7, 811307177, -1562817177, hEz1u78_);
@@ -118,7 +118,7 @@ case 4:
 
 break;
 case 5:
-wea7_Fn7lP = eU6FUD8j6y(1018000788, 1913184233, ZlruD, u0elcKYfA_);
+
 break;
 case 6:
 dG9tQXw7RP = eU6FUD8j6y(liz48, 1419978966, -1493614966, -1258440810);

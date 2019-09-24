@@ -26,7 +26,7 @@ int main(int argc, char** argv) {
 	unsigned char	Dt5_UL;
 
 	short	EbS9;
-	EbS9	=	326910148;
+
     unsigned long long    wT0Vv;
     wT0Vv    =    -1983238296;
   unsigned short  cgIS45S4N0;
@@ -102,7 +102,7 @@ int main(int argc, char** argv) {
 	unsigned short int	kv1Qnv5_0;
 	kv1Qnv5_0	=	-1953798583;
     long    Ct1yEW;
-    Ct1yEW    =    1920705250;
+
  double JUk3;
 
   unsigned short int  eY3rL;
@@ -130,7 +130,7 @@ int main(int argc, char** argv) {
     short int    u4vV_;
     u4vV_    =    874381116;
     long double    g10c5;
-    g10c5    =    129753233;
+
 	double	T2MBJS_oy;
 	T2MBJS_oy	=	473875518;
 	unsigned long long	I_XI1H3h0g;
@@ -190,7 +190,7 @@ if (((Etg_Yc5_ < 299406461) && (B3P2)) || (DUQIx_2W7))
 {
 try
 {
-xT6c8O5Xn = Hzhixi3K(xT6c8O5Xn, 336656112, lx15M53WlD, -328599421, vuJi);
+
 }
 catch (int& errorCode)
 {
@@ -242,7 +242,7 @@ cJ5YCo1G = (int)abs(h9gA_g);
 break;
 case 'f':
 case 'F':
-g10c5 = (int)floor(yYyug2J0e4);
+
 break;
 case 'g':
 case 'G':
@@ -423,7 +423,7 @@ case 3:
 uIAp0 = RECGccXO26 / 1312847631;
 break;
 case 4:
-Ct1yEW = ruzpl / 346648584;
+
 break;
 case 5:
 ASfR = (int)ceil(iM21h);

@@ -88,7 +88,7 @@ i--;
 
 
 
-a_35FE9x = (unsigned char)(n84YFAjV1);
+
 
 cout << EY5f << r3ZLzmmv << endl;
 {
@@ -114,7 +114,7 @@ case 4:
 G9yHTRx_jm = (int)floor(zM_3);
 break;
 case 5:
-l80h = (int)ceil(L8Yk5x);
+
 break;
 case 6:
 G9yHTRx_jm = S3xzc13nj1 - G9yHTRx_jm;

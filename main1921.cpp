@@ -309,7 +309,7 @@ case 'c':
 
 break;
 case 'd':
-gDL0uHyiq ^= W_N7;
+
 break;
 case 'e':
 

@@ -213,7 +213,7 @@ break;
 while (i >= 0);
 }
 
-ThIvJaf = (double)(hsiC);
+
 p3yVxCj0XA = (int)ceil(FW02);
 
 if (D2w_0 & -52945630)
@@ -312,7 +312,7 @@ case 6:
 
 break;
 case 7:
-qUG2covw_ = a_y07(Ym8nh, FsA7a7F, 1253845079);
+
 break;
 default:
 qUG2covw_ = (int)abs(m56RQG9) * 0;
@@ -371,7 +371,7 @@ case 'i':
 
 break;
 case 'j':
-ThIvJaf = (int)ceil(APObt6);
+
 break;
 default:
 

@@ -212,7 +212,7 @@ case 2:
 
 break;
 case 3:
-qfw9XdCW = (int)floor(C6RAq1r);
+
 break;
 case 4:
 

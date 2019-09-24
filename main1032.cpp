@@ -25,7 +25,7 @@ int main(int argc, char** argv) {
     unsigned short int    CYgya;
 
 	unsigned char	d_WHj3I;
-	d_WHj3I	=	1522035318;
+
     int    JbB4_76q;
     JbB4_76q    =    -1236102972;
     float    ca_l5;
@@ -37,7 +37,7 @@ int main(int argc, char** argv) {
 	unsigned char	LBJO2;
 
     unsigned short int    W8Hv;
-    W8Hv    =    2068552814;
+
     int    gC2V;
     gC2V    =    -1481626877;
   double  N31r8;
@@ -49,7 +49,7 @@ int main(int argc, char** argv) {
     unsigned short    nH5X8mP7;
     nH5X8mP7    =    1367098440;
   int  RUQ4Cd414z;
-  RUQ4Cd414z  =  -847236341;
+
     unsigned short    mbD9B5xw9n;
 
     float    KhXO;
@@ -77,7 +77,7 @@ int main(int argc, char** argv) {
  unsigned long ki1_;
 
  long long kh88u;
- kh88u = -514684593;
+
     long long    S_g_P2T4;
     S_g_P2T4    =    -1036604750;
   long long  xe_8P1f;
@@ -91,7 +91,7 @@ int main(int argc, char** argv) {
  long double UbqbP;
 
  long long EK4oi8;
- EK4oi8 = -1621522377;
+
     long    e9_6;
     e9_6    =    -2087825794;
   short int  TA4ARm_;
@@ -111,7 +111,7 @@ int main(int argc, char** argv) {
     long long    X_RT6;
 
  long fo0pUJ;
- fo0pUJ = 1571578091;
+
  double GZJY4pUp;
 
  float wNrvnccd;
@@ -125,7 +125,7 @@ int main(int argc, char** argv) {
     unsigned char    il6Z39y;
 
     short    O71p1;
-    O71p1    =    -1807429475;
+
 	unsigned int	TLo17W92n;
 
   float  Tjg3ZL8;
@@ -135,7 +135,7 @@ int main(int argc, char** argv) {
   double  OTKi8p70J;
 
     unsigned short    XuId_gX4v;
-    XuId_gX4v    =    -879964955;
+
   int  qx9G3KBnD4;
   qx9G3KBnD4  =  -143158815;
 	unsigned short	zqRK3xwXW5;
@@ -145,7 +145,7 @@ int main(int argc, char** argv) {
   long long  ptO3aLc;
 
   unsigned char  Qc_Aa81rD;
-  Qc_Aa81rD  =  -1524100286;
+
  long mUWeB0O7W;
  mUWeB0O7W = -303604036;
   unsigned long long  wi4078qV;
@@ -157,7 +157,7 @@ int main(int argc, char** argv) {
 	short int	LSQmKmr4o2;
 	LSQmKmr4o2	=	-1160822306;
  char zqbAT__WM;
- zqbAT__WM = 164118906;
+
  unsigned short int NnD10lF;
  NnD10lF = -603507034;
 	float	xY642Hb_xP;
@@ -173,7 +173,7 @@ int main(int argc, char** argv) {
  short mkHd1cM2ba;
 
   short  vsazGG;
-  vsazGG  =  121784527;
+
  long double Tm3I0;
  Tm3I0 = 1123216261;
     float    QEbbKv;
@@ -229,7 +229,7 @@ case 5:
 
 break;
 case 6:
-zqRK3xwXW5 = SIZrn_ * IhO7E;
+
 break;
 case 7:
 SIZrn_ = (int)abs(B3134);

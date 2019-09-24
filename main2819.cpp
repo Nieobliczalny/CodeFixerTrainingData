@@ -163,7 +163,7 @@ case 'e':
 
 break;
 case 'f':
-Ix02 %= 1532159717;
+
 break;
 default:
 
@@ -180,7 +180,7 @@ if ((KhX4319EL == -1151450924) && (CS1AbQ))
 
 try
 {
-Fo1_EPe = nIVuK();
+
 }
 catch (int& errorCode)
 {

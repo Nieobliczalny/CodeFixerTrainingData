@@ -463,7 +463,7 @@ case 2:
 
 break;
 case 3:
-uxFtiS = (int)ceil(GIhx);
+
 break;
 default:
 N7DTv_CouF = (int)ceil(IhG8K);

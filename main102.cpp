@@ -374,7 +374,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-TrgBIG8g = (int)abs(Xssp);
+
 break;
 default:
 FOIEq = GqYd__Zw8 << 76090541;

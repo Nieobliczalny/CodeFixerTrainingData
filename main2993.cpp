@@ -60,7 +60,7 @@ int main()
   long  I0f0;
 
 	int	Prtu;
-	Prtu	=	969980874;
+
   unsigned long  fMt88n_J;
   fMt88n_J  =  896606985;
  long ishD507;
@@ -82,7 +82,7 @@ int main()
   long double  vf383_7;
   vf383_7  =  -422149383;
  short eIkh;
- eIkh = -702517261;
+
  short int kPOo_X;
 
 	short	cPfgB353;
@@ -110,7 +110,7 @@ int main()
  long double i751;
 
  long n553Q;
- n553Q = -1946145;
+
   unsigned long  xJvf;
 
  float d07J;
@@ -134,7 +134,7 @@ int main()
 	double	z3bonOT;
 	z3bonOT	=	1414315404;
   long long  Yvf2x26;
-  Yvf2x26  =  1598754136;
+
 	long	PN7dO;
 
     int    h4G6KsK35C;
@@ -152,7 +152,7 @@ int main()
     long long    Sl4cGQ7w4;
 
     long    VNqGFgf;
-    VNqGFgf    =    -168546446;
+
 	float	V1M55;
 	V1M55	=	-866325942;
     int    j8NnmxQH_2;
@@ -187,7 +187,7 @@ case 5:
 
 break;
 case 6:
-I0f0 = PG9vc1zC + 1370154601;
+
 break;
 case 7:
 
@@ -294,7 +294,7 @@ int k = 0;
 while (k < 3)
 {
 ++k;
-STRU9 = (int)floor(vf383_7);
+
 }
 }
 }
@@ -332,7 +332,7 @@ case 3:
 
 break;
 case 4:
-keG0tE8p <<= 1834357822;
+
 break;
 case 5:
 

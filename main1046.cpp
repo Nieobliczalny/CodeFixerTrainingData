@@ -18,7 +18,7 @@ int main()
   XU3q0vF497 = q4X_JYt = vckP1 = 0;
 
 
-H9g3q = s95is7t + 803190989;
+
 e3Ii = QS_TkqQD / vckP1;
 return 0;
 }

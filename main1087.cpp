@@ -241,7 +241,7 @@ case 2:
 
 break;
 case 3:
-sFPh9 = (int)abs(Sck9inFQoP);
+
 break;
 case 4:
 

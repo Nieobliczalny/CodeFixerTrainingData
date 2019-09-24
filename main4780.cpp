@@ -311,7 +311,7 @@ o_071io_ = (int)abs(ka43);
 cout << Wkj1aa3VaZ(ka43) << "y_e_a" << endl;
 if (((z1rByqg == DgS5) || (h_0O < -610203916)) || ((u_UJ_y6FeN >= -688495903) || (z1rByqg != -1731642285)))
 {
-f125nvI_KR = lX_n2(218515014);
+
 }
 else if (z1rByqg <= -882872152)
 {
@@ -420,7 +420,7 @@ case 'h':
 
 break;
 case 'i':
-DgS5 = (int)ceil(p3_4ds9);
+
 break;
 case 'j':
 wkl3 = (y4yuQS != -126459346) ? bX71aN8vn : o_071io_;

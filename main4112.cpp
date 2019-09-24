@@ -72,7 +72,7 @@ case 5:
 
 break;
 case 6:
-gAB1vl = (int)abs(p1_vNdn1);
+
 break;
 }
 
@@ -100,7 +100,7 @@ case 'c':
 
 break;
 case 'd':
-SCwf6IgAD = (int)abs(f_UvYL);
+
 break;
 case 'e':
 

@@ -69,7 +69,7 @@ int main()
   unsigned long long  u0Am;
 
     unsigned long long    uMkjb84;
-    uMkjb84    =    185672441;
+
     unsigned short    gdxI7MyI0o;
     gdxI7MyI0o    =    1051158530;
   char  P9U83k;

@@ -170,7 +170,7 @@ E3e_Eak32 = 477372392 / DBaXg7();
 LKP54J = (short int)(C8WUCFf);
 
 UsVtq2tPi1 = (int)abs(N_i8yDMCR0);
-YzCtX = (int)ceil(D5_ncjn5);
+
 {
 int i = 7;
 do
@@ -265,7 +265,7 @@ Hv5cOx7v = DBaXg7();
 switch (C8WUCFf)
 {
 case 0:
-XqKXfUw = (int)floor(D9k7_8LbI);
+
 break;
 case 1:
 
@@ -280,7 +280,7 @@ case 4:
 
 break;
 case 5:
-iCR3 ^= 270614002;
+
 break;
 }
 {
@@ -293,7 +293,7 @@ i--;
 }
 
 
-LKP54J = gIF5Y();
+
 return 0;
 }
 

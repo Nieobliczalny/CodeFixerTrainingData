@@ -317,7 +317,7 @@ wN1ad0I = Ku8JHR1O8(wN1ad0I, hR7Uc);
 }
 else if (hR7Uc <= 1363825)
 {
-Pv5nxjV5i8 <<= 967688148;
+
 }
 else if (PsI0BEx >= QP6I3RgM)
 {
@@ -423,7 +423,7 @@ case 'e':
 
 break;
 case 'f':
-HSncb = Ku8JHR1O8(HSncb, -1969345054);
+
 break;
 case 'g':
 x51Yh--;

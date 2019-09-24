@@ -63,7 +63,7 @@ int main(void)
     unsigned short    QoeSy;
     QoeSy    =    -184654308;
 	long double	VBx1;
-	VBx1	=	-766859796;
+
   long double  ab5qcJq2y;
 
  int j27WbLyg;
@@ -81,7 +81,7 @@ int main(void)
   unsigned short  Qz03EXXoMr;
   Qz03EXXoMr  =  -1214945594;
 	float	WV__4zmJ;
-	WV__4zmJ	=	-1269674181;
+
     long    th8aB;
     th8aB    =    -1180344032;
     unsigned short    g65_v08;
@@ -135,7 +135,7 @@ int main(void)
   int  h21_BB7;
   h21_BB7  =  1766030144;
 	long long	xv8_FK;
-	xv8_FK	=	670718756;
+
 	unsigned char	DVge4B;
 	DVge4B	=	28046175;
   short  co_0Mj5W;
@@ -294,7 +294,7 @@ case 2:
 
 break;
 case 3:
-wM02qLYu = bUcRjPL - 2112227286;
+
 break;
 case 4:
 

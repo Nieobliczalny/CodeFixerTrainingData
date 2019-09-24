@@ -355,7 +355,7 @@ else if (g2zQcT)
 }
 else
 {
-AXC8 = (int)ceil(uwD3v4jnD);
+
 }
 }
 catch (int& errorCode)
@@ -561,7 +561,7 @@ if ((ysU_U5C) || (fYV56r >= QJ_B0u4))
 
 }
 
-K1ifT7 = UCMu3 & 742323399;
+
 
 
 

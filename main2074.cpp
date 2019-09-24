@@ -25,7 +25,7 @@ int main(void)
  long long ugbIWge5;
 
  unsigned long b86l91;
- b86l91 = 2090622622;
+
   long double  VlY4T;
   VlY4T  =  -87910667;
  unsigned short int ry194yJ4;
@@ -43,7 +43,7 @@ int main(void)
     unsigned long    KUDF;
     KUDF    =    1329669659;
 	unsigned short	J1K_;
-	J1K_	=	1363993084;
+
   unsigned char  k8fR4yT;
   k8fR4yT  =  -2126112725;
     unsigned short    z1nN1QZ9;
@@ -53,7 +53,7 @@ int main(void)
  unsigned int E4lqI;
 
 	long long	N5rn45RSX;
-	N5rn45RSX	=	875028131;
+
     unsigned long long    e40455;
     e40455    =    1135545372;
 	long long	T2u1fY;
@@ -87,7 +87,7 @@ int main(void)
     long    Tfrj9l50;
     Tfrj9l50    =    -2037237274;
 	unsigned int	jQi49a1SSV;
-	jQi49a1SSV	=	1101493420;
+
  long double H_KO;
 
   long  V3Oo6n1;
@@ -379,7 +379,7 @@ case 7:
 
 break;
 case 8:
-plD1SB = (int)floor(rn36_9);
+
 break;
 }
 {
@@ -390,7 +390,7 @@ i--;
 M8c07Y2 = (unsigned int)(Au9P3B);
 }
 }
-b79Mv = (int)floor(Au9P3B);
+
 
 {
 int i = 0;
@@ -449,7 +449,7 @@ int k = 9;
 while (k >= 0)
 {
 k--;
-b79Mv = dlv_R(487690982);
+
 }
 }
 }
@@ -468,7 +468,7 @@ case 2:
 
 break;
 case 3:
-GNB5VTKSB = d_Q9_XWk(-1690241717, -85004213, YdFuA, -1067258278);
+
 break;
 case 4:
 

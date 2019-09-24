@@ -118,7 +118,7 @@ KbRq7C = xhb9 / KSdf2A0y;
 switch (fM39KLd_53)
 {
 case 0:
-pjDHM = VdEfkmBy - 1228388066;
+
 break;
 case 1:
 Zv_rW *= 1257466168;
@@ -159,7 +159,7 @@ ay43wN = KgWI5AR6();
 }
 else if (Gd3Fct >= d1I45)
 {
-T3Yx7PB = (int)floor(jaAXMxBN);
+
 }
 else if (X4hDj88s5 <= 1489252884)
 {

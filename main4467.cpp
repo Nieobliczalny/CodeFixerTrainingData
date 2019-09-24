@@ -60,7 +60,7 @@ int main(int argc, char** argv) {
     long    xrw12_9j8;
     xrw12_9j8    =    -2000460976;
     float    QpDWCKS1iD;
-    QpDWCKS1iD    =    1194079449;
+
 	float	DvP3v;
 	DvP3v	=	-1801566193;
 	double	G660lN8;
@@ -100,7 +100,7 @@ int main(int argc, char** argv) {
 	unsigned char	RxBFb2;
 
 	short int	x_0e2_Usn;
-	x_0e2_Usn	=	-416266469;
+
 	long long	EUmw_DNRM;
 	EUmw_DNRM	=	-182380710;
     float    b6C2y;
@@ -549,7 +549,7 @@ case 2:
 
 break;
 case 3:
-m5FDF %= 980726183;
+
 break;
 default:
 lfk1F242x4 = q3GN_r8N();

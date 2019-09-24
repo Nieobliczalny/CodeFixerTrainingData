@@ -304,7 +304,7 @@ break;
 }
 
 
-egZgf0 = (int)abs(u2hb2LgVn6);
+
 
 return 0;
 }

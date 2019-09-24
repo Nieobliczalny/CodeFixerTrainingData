@@ -475,7 +475,7 @@ break;
 }
 else
 {
-UiRKirSRS = (int)ceil(QL37afYRW);
+
 }
 --i;
 }

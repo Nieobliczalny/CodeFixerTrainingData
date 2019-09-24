@@ -586,7 +586,7 @@ case 2:
 
 break;
 case 3:
-AbauU = (int)abs(gtS_H3S);
+
 break;
 case 4:
 
@@ -598,7 +598,7 @@ case 6:
 
 break;
 case 7:
-W2si604 = S1Q7aZGT9(W2si604);
+
 break;
 case 8:
 

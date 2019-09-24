@@ -315,7 +315,7 @@ case 'c':
 
 break;
 case 'd':
-xNc39IH = qJGa0 << 1297815434;
+
 break;
 case 'e':
 

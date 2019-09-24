@@ -161,7 +161,7 @@ case 'b':
 iy5KT8HXD = p2K_3X8y(q04_s, 1229448852);
 break;
 default:
-S_17zY %= I279;
+
 break;
 }
 }
@@ -204,7 +204,7 @@ case 'i':
 UDw2n99g++;
 break;
 default:
-S_17zY = u_4_j8P0 & h7TU814Ck;
+
 break;
 }
 }
@@ -249,7 +249,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-iy5KT8HXD = p2K_3X8y(-475095464, 812905485);
+
 break;
 case 'c':
 case 'C':

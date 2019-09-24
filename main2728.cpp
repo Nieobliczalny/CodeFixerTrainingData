@@ -527,7 +527,7 @@ while (i >= 0);
 }
 
 
-E_N8JKtqSG = (int)ceil(icVws4);
+
 {
 int i = 10;
 do
@@ -624,7 +624,7 @@ case 7:
 D7hwhy5UV = (int)floor(icVws4);
 break;
 default:
-E_N8JKtqSG = (int)ceil(NFKXM);
+
 break;
 }
 }
@@ -669,7 +669,7 @@ cout << NcZj << endl;
 
 
 cout << IFH4vJy561() << "I2ZLdP1" << endl;
-L0n3b_ = DTOZqt5H6(1331843918, -1857028359, -1825325169, 1479547136, 2014085409);
+
 
 R77L8qq237 = J1rLXV3Xuh(R77L8qq237, 123050369, 337284810, uwdy1Osui, 1046405945);
 for (int i = 0; i < 8; ++i)

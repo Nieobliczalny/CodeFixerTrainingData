@@ -186,7 +186,7 @@ while (i < 10);
 
 
 
-xk253zqV0 = (long)(wQO0Y);
+
 return 0;
 }
 

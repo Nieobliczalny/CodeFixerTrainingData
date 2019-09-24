@@ -45,7 +45,7 @@ int main()
 	short int	EU21XC2;
 
  unsigned char o_atOD;
- o_atOD = -83908364;
+
   unsigned int  G63Dpxo87;
 
  long cyIv5Z;
@@ -103,7 +103,7 @@ int main()
     short    r97vw_OzX4;
 
 	unsigned long	fr18xQ6yz7;
-	fr18xQ6yz7	=	1849720745;
+
  float TQ6iG_F1E;
  TQ6iG_F1E = 465866112;
   long double  ny8om;
@@ -117,7 +117,7 @@ int main()
  unsigned int s1mk8rY;
  s1mk8rY = -1946286390;
     float    qeV3h;
-    qeV3h    =    1242900657;
+
  unsigned long long wq1j9Vy;
  wq1j9Vy = 0;
     long double    cJZGg;

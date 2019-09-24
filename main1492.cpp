@@ -43,7 +43,7 @@ int main(void)
  C2b65vOW = 1099463490;
 
  K5d7 = -1271648241;
- Pze04 = 1560550774;
+
  azk9265 = 35458769;
  MD2kbUA = 585497431;
 
@@ -69,7 +69,7 @@ int main(void)
 
  kdDxf = 393075225;
  ojCUFDTIN = 1190260854;
- L5edgbCU = 871563410;
+
  Tz7G89 = -1487876478;
  joq2 = 684475346;
 
@@ -230,7 +230,7 @@ case 5:
 
 break;
 case 6:
-fLCX9 = Sx46 - n7s2zad;
+
 break;
 case 7:
 

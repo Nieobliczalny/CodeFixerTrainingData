@@ -23,7 +23,7 @@ int main(int argc, char** argv) {
 	AZ919w	=	-2118797991;
 
 	u8OF_98_4	=	193740061;
-	cSk36frE3	=	-678572468;
+
 	Cf4l3x6h05	=	534585048;
 	Q2y1_pJ	=	1369659359;
 	IX4181u	=	590868115;
@@ -46,7 +46,7 @@ int main(int argc, char** argv) {
 	q1So5	=	832378565;
 	d02q4	=	1480068625;
 	XGug4	=	1232897757;
-	Vc0P6M7	=	-446412430;
+
 	n0Cu1Pm	=	109552907;
 
 	j5uVZO	=	2141237418;
@@ -76,7 +76,7 @@ int main(int argc, char** argv) {
 
 
 	mE5UN84xr	=	-898661128;
-	DfNZS	=	-1580735329;
+
 	e12kO	=	941927426;
 	N16F7kD	=	-1420961987;
 	tzW09t_28	=	-1093322742;
@@ -435,7 +435,7 @@ H2lDs9_J = (long)(CgCj);
 
 
 cout << "jYIlg0_M5B" << e12kO << llwc(cr74B, 1438154588, 300647893, K4AqiaX, 289550670) << sp_aEVO_4G << llwc(cr74B, -783712407, 1582590869, 252378367, 131127769) << endl;
-Q7yYU8R %= Om8VU3_;
+
 
 switch (BaGZh6x_3b)
 {
@@ -449,7 +449,7 @@ case 'c':
 
 break;
 case 'd':
-hvWGXd6JbC = (int)abs(H2lDs9_J);
+
 break;
 case 'e':
 

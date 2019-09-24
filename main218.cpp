@@ -171,7 +171,7 @@ k--;
 }
 while (i < 2);
 }
-Qx_1_z0SN -= wDHvC4c;
+
 
 BqHU6UG8s = (int)abs(k_5oJBfMp);
 {
@@ -250,7 +250,7 @@ case 5:
 
 break;
 case 6:
-vsoXkpgh = (int)ceil(yNb813X);
+
 break;
 case 7:
 YW0f7_6 /= iij90SV;

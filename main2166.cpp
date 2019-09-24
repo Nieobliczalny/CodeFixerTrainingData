@@ -69,7 +69,7 @@ int main() {
   long  ct9vS;
   ct9vS  =  797487574;
   long  WGW9_c7J_u;
-  WGW9_c7J_u  =  769092377;
+
  unsigned int T16Gb;
  T16Gb = 0;
   long  y0shQ;
@@ -208,7 +208,7 @@ else
 {
 if (n4A7 > c84k)
 {
-WGW9_c7J_u = c6THq48(-361677974, xzNEvb, TJ8C, 498368878);
+
 }
 }
 }

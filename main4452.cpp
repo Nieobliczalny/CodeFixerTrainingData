@@ -151,7 +151,7 @@ case 'e':
 
 break;
 case 'f':
-bROo = gMjjQW % ATK8b;
+
 break;
 case 'g':
 KW64b_0_A = ZtGB(-333227350, -6967755, lN5D78k, fk_OWs4a2a);
@@ -550,7 +550,7 @@ case 2:
 
 break;
 case 3:
-Fu12f = (int)abs(JsAt);
+
 break;
 case 4:
 

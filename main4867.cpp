@@ -160,7 +160,7 @@ case 2:
 
 break;
 case 3:
-Q_O3G07ZI %= mqahtkZ;
+
 break;
 case 4:
 Iyj0RMOvYq--;

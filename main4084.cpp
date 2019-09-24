@@ -168,7 +168,7 @@ case 5:
 
 break;
 case 6:
-jS7I1LxaI = IORw() << 1595578032;
+
 break;
 case 7:
 

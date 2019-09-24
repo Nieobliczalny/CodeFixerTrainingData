@@ -77,7 +77,7 @@ int main(int argc, char** argv)
 	T9_nQVZ	=	410606567;
 	Tr_E	=	-1666311548;
 
-	A6Fjjea3	=	-1261808647;
+
 	JMUt	=	-322156821;
 	zpfw83Ft	=	1220698137;
 	yOmKA	=	1881930111;
@@ -518,7 +518,7 @@ int k = 0;
 do
 {
 k++;
-T0p4cRMUh = vZek();
+
 }
 while (k < 1);
 }
@@ -584,7 +584,7 @@ case 2:
 
 break;
 case 3:
-dNLJz = (T9Or & -1459594205) ? yOmKA : -164436477;
+
 break;
 case 4:
 p4Fe2l = (int)abs(M0NKo);

@@ -289,7 +289,7 @@ case 'f':
 
 break;
 case 'g':
-RN1m = (int)ceil(B4wz0m);
+
 break;
 case 'h':
 FPne = (int)abs(gj1T);

@@ -134,7 +134,7 @@ int main() {
 	short	iuO1Uz98B_;
 	iuO1Uz98B_	=	536822266;
   float  Dz0lQB068;
-  Dz0lQB068  =  -652089632;
+
 	unsigned short int	Hs912fhw08;
 	Hs912fhw08	=	-54228374;
  long long j0Z4;
@@ -198,7 +198,7 @@ int main() {
     double    J75w3w;
     J75w3w    =    -1923668066;
  double qIci379;
- qIci379 = 98440891;
+
     int    NjL4s;
 
     unsigned short int    Hm7T1vr_N8;
@@ -496,7 +496,7 @@ else if ((Wi_gR2 <= 222913457) || (sphmudq1v7 <= v8dUDGx_7))
 {
 if (zy8CmdXT5 <= -918711042)
 {
-Lcb7PG6 = (int)ceil(Uw2QB);
+
 }
 else
 {

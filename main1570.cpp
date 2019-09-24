@@ -103,7 +103,7 @@ for (int i = 0; i < 2; ++i)
 {
 if (ok2qX >= PAvz3s0gV)
 {
-bHkc = (int)abs(HE1Xi5T);
+
 }
 else
 {

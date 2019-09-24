@@ -179,7 +179,7 @@ j++;
 }
 try
 {
-zgsHZ4Nx5 = (double)(K8isgAAj6 + (-654609161));
+
 }
 catch (int& errorCode)
 {
@@ -346,7 +346,7 @@ case 0:
 UAIMqkX50 = (int)floor(PXNu98);
 break;
 case 1:
-zgsHZ4Nx5 = b582oTvV * 2094427604;
+
 break;
 case 2:
 McJr0zJdNV = UmY0w();
@@ -371,7 +371,7 @@ case 2:
 
 break;
 case 3:
-V289Iy_Cu = (int)floor(sBKkXo);
+
 break;
 case 4:
 
@@ -392,7 +392,7 @@ case 9:
 
 break;
 default:
-y7Pb6e9 = WM5M9HiZu(-1963501069);
+
 break;
 }
 std::cout << "bFLO0" << WM5M9HiZu(-1024534087) << ivhmemha_() << std::endl;

@@ -384,7 +384,7 @@ case 2:
 C2EmmF_17 <<= S0mA;
 break;
 case 3:
-a_XGVbfdi = C85_ft(58598615);
+
 break;
 case 4:
 
@@ -418,7 +418,7 @@ default:
 break;
 }
 
-Ax8NKOdB = (int)floor(Gkvf33Y);
+
 
 
 

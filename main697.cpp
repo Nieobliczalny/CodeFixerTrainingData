@@ -855,7 +855,7 @@ case 'g':
 
 break;
 default:
-J90i_gc = (int)abs(C8O175);
+
 break;
 }
 

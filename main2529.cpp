@@ -135,7 +135,7 @@ int main() {
  unsigned long Ti7ee7c_;
  Ti7ee7c_ = -1766696104;
  float aE5qp8akTa;
- aE5qp8akTa = 1644009854;
+
     short    J7h8q;
     J7h8q    =    -1522269222;
   unsigned short int  w3Mz;
@@ -237,7 +237,7 @@ vL5Ry7--;
 }
 else if (((qKg092 < -1307055050) && (MYxK0T != -1295207086)) && ((D516tOI) || (g0b1IGZQ != -236909843)))
 {
-nU0c = (int)floor(kU7H);
+
 }
 else if (L619Eq_NlP >= 1069774456)
 {
@@ -557,7 +557,7 @@ case 1:
 QCVaia5zd >>= J7h8q;
 break;
 case 2:
-aE5qp8akTa = (int)ceil(X6Ncx);
+
 break;
 }
 }

@@ -226,7 +226,7 @@ switch (D4KpkR52)
 {
 case 'a':
 case 'A':
-J5Lo = H5dT3pq8s * x0oPfg3;
+
 break;
 case 'b':
 case 'B':
@@ -640,7 +640,7 @@ case 'h':
 
 break;
 case 'i':
-gk457Dk7 = vwMarWHw();
+
 break;
 case 'j':
 M8QYL0_dh = y9YPDe31 + yEoqY6v;
@@ -662,7 +662,7 @@ case 2:
 
 break;
 case 3:
-PX3FmKE2 ^= e87XTrzgl;
+
 break;
 case 4:
 
@@ -674,7 +674,7 @@ case 6:
 
 break;
 case 7:
-GuAG = oR2KO2C6();
+
 break;
 case 8:
 
@@ -686,7 +686,7 @@ default:
 
 break;
 }
-J9it70y9nP = (int)(tFIARIz9nH);
+
 return 0;
 }
 

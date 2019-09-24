@@ -93,7 +93,7 @@ DO2_ &= NjB8alhY2;
 break;
 case 'c':
 case 'C':
-NjB8alhY2 = DQemJ(NjB8alhY2, -918760410, ZvR0m1Vp, 775269554);
+
 break;
 case 'd':
 case 'D':

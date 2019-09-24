@@ -64,7 +64,7 @@ int main(void) {
   double  BPR3qRo9;
 
   char  OW3NTYAaU1;
-  OW3NTYAaU1  =  785440868;
+
     short    gyBC2;
     gyBC2    =    1214481154;
     unsigned char    PWl0sf;
@@ -88,7 +88,7 @@ int main(void) {
     long long    I4Ka;
     I4Ka    =    1245473083;
   short  u_giVLy71C;
-  u_giVLy71C  =  -1754006150;
+
   unsigned long  Y4NHbt17;
 
   unsigned long long  Hm2P;

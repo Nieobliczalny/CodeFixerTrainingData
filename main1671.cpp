@@ -127,7 +127,7 @@ int main(void) {
 	unsigned char	Ac6T1Av_;
 	Ac6T1Av_	=	826318072;
     double    w809;
-    w809    =    510592235;
+
   long  LGhq;
 
 	unsigned int	IT4H;
@@ -446,7 +446,7 @@ case 2:
 v09rSXxL_ = AvG9j0(v3u76x3, 1193787287, FATNib0Qg4);
 break;
 case 3:
-w809 = (int)ceil(rtpHB2d93);
+
 break;
 case 4:
 xmhMXt6jT = (int)floor(CVvS);
@@ -678,7 +678,7 @@ case 0:
 z4Ox = (int)abs(y7j2SwX);
 break;
 case 1:
-j57_w3J0G = (int)abs(z4Ox);
+
 break;
 case 2:
 NEW1_h = (int)abs(v09rSXxL_) + (1106924495);
@@ -790,7 +790,7 @@ else if (Irzd_9H300 & Avoug_A_)
 }
 else if (DwUMu71N < Avoug_A_)
 {
-A0G9 = (int)ceil(YU0Pq);
+
 }
 else if (z4Ox <= Avoug_A_)
 {
@@ -837,7 +837,7 @@ do
 {
 for (int k = 0; k < 2; ++k)
 {
-w809 = (int)floor(W9OsGcV);
+
 }
 --j;
 }
@@ -877,7 +877,7 @@ case 3:
 
 break;
 case 4:
-K6zs4tsD >>= vFLY706i;
+
 break;
 case 5:
 
@@ -915,7 +915,7 @@ else if (CVvS <= Avoug_A_)
 }
 else if (kEzeZR_0 == -712144901)
 {
-LUWiM = (unsigned int)(Avoug_A_ + (-759849876));
+
 }
 else if (zaKkCLMz > Avoug_A_)
 {
@@ -1063,7 +1063,7 @@ case 2:
 
 break;
 case 3:
-TiehB1dxp = (int)abs(Z1NB);
+
 break;
 case 4:
 

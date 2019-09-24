@@ -238,7 +238,7 @@ case 'c':
 
 break;
 case 'd':
-A43_ |= 870576846;
+
 break;
 case 'e':
 
@@ -250,7 +250,7 @@ case 'g':
 
 break;
 case 'h':
-h8JthZYv = (int)ceil(NJ5qLLjj);
+
 break;
 default:
 

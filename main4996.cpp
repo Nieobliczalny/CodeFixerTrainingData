@@ -91,7 +91,7 @@ int main()
 	w6yu8W7d_b	=	-565003247;
 	zW1C69171A	=	1186833443;
 	UFQxxbx4	=	1449849051;
-	VycDtVm_r	=	-22491676;
+
 	OL_327sY	=	1741664689;
 
 std::cout << g00GfYsV << std::endl;
@@ -167,7 +167,7 @@ case 5:
 js_ZYsjW = RhA__6JNz_();
 break;
 case 6:
-VycDtVm_r = r0se_Cn << 501810336;
+
 break;
 case 7:
 yPpXapSzP = RhA__6JNz_();
@@ -260,7 +260,7 @@ case 'd':
 gEulZU387Q = Pfv34uPi | AsgFwST3J5;
 break;
 case 'e':
-g00GfYsV %= 942490680;
+
 break;
 case 'f':
 IpnVX %= 1896225801;
@@ -365,7 +365,7 @@ case 0:
 U0rB = AsgFwST3J5 + WT1HRy_J;
 break;
 case 1:
-VycDtVm_r = fAa__Z(-570786754, 900003144);
+
 break;
 case 2:
 LO_4JXh = fAa__Z(-1669867062, 148017709);
@@ -668,7 +668,7 @@ case 2:
 
 break;
 case 3:
-m3csx %= g65hqg;
+
 break;
 case 4:
 

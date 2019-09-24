@@ -216,7 +216,7 @@ case 6:
 
 break;
 default:
-D6bXXiNiEz = QN7wJT2 + aR42FD7kX;
+
 break;
 }
 

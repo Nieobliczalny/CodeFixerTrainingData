@@ -88,7 +88,7 @@ t485nGOPdH = R_Ehx(J4a31UCA);
 while (i >= 0);
 }
 
-cI_jit = R_Ehx(PusoBG);
+
 
 {
 int i = 0;
@@ -151,7 +151,7 @@ case 'e':
 
 break;
 case 'f':
-cI_jit = R_Ehx(-780657627);
+
 break;
 case 'g':
 
@@ -240,7 +240,7 @@ case 2:
 
 break;
 case 3:
-cI_jit = R_Ehx(-1387511406);
+
 break;
 }
 dvo_GefR = (char)(w40sO888l6);

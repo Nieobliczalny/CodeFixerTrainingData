@@ -406,7 +406,7 @@ case 5:
 l3GB30c -= 1530212321;
 break;
 default:
-HynF = (int)ceil(z4bHI8752y);
+
 break;
 }
 }

@@ -116,7 +116,7 @@ default:
 break;
 }
 
-Xg_Vir = (unsigned char)(LCtSw13do_);
+
 if (eGTm3Yb == 84756311)
 {
 try

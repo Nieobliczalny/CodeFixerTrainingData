@@ -337,7 +337,7 @@ for (int i = 0; i < 2; ++i)
 }
 
 std::cout << c9tIF(lLh9o_U_1Z, IqY1p) / SMZy << std::endl;
-e1T8v = wNkXx(192251898, Tsy_5jrAr, S4Wb9, 1184055189);
+
 return 0;
 }
 

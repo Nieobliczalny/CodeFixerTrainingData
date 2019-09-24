@@ -232,7 +232,7 @@ case 'e':
 
 break;
 case 'f':
-f03p = R2voVq186 / fPAfdqjXd;
+
 break;
 }
 }

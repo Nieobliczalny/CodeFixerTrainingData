@@ -40,7 +40,7 @@ int main(void)
     short int    A4876;
 
     double    np9Sw0;
-    np9Sw0    =    -1667293018;
+
 	unsigned long	Utd63tYk5;
 	Utd63tYk5	=	-1657420317;
   long long  E2lzu;
@@ -50,7 +50,7 @@ int main(void)
  unsigned short S0c0;
 
 	int	Xh4V_;
-	Xh4V_	=	2140430495;
+
   long double  Y1GH;
   Y1GH  =  -1926441502;
     char    xeGbo;
@@ -60,7 +60,7 @@ int main(void)
     long double    H8464i83;
 
 	long	Zyg2MgYY;
-	Zyg2MgYY	=	-1980048168;
+
   short int  mY5dcJ;
   mY5dcJ  =  -262803530;
 	short int	Xq9iwBW0;
@@ -70,7 +70,7 @@ int main(void)
 	short	uC9Hq;
 
   char  CTu0_L6t;
-  CTu0_L6t  =  0;
+
   unsigned int  mqn75fZ;
   mqn75fZ  =  1171842683;
 	unsigned short int	U6QScP7;
@@ -82,7 +82,7 @@ int main(void)
  unsigned int n0o4W_nuo;
  n0o4W_nuo = -1370475360;
   float  JG455STn_Y;
-  JG455STn_Y  =  -1983065615;
+
  long double DQUS7;
 
     unsigned long    TgcHAbZv78;
@@ -92,7 +92,7 @@ int main(void)
     char    P2_Tfc;
 
  unsigned long long pQ3vN5l6d5;
- pQ3vN5l6d5 = 1254949688;
+
  short rcjEI;
 
     unsigned char    dJPTMZ;
@@ -102,7 +102,7 @@ int main(void)
     long double    q4urp_KF08;
 
 	double	E_Ojm_O5;
-	E_Ojm_O5	=	1839176578;
+
   float  pEcFwf;
 
     long double    yccU_nP;
@@ -112,7 +112,7 @@ int main(void)
  unsigned int RPST;
 
  char Dth2M;
- Dth2M = -252498253;
+
 	long	eIi2m;
 
 	unsigned short	J6uH;
@@ -128,7 +128,7 @@ int main(void)
 	long double	v_w7Yv3_r;
 
   double  jq1fx;
-  jq1fx  =  1139851553;
+
   double  v1Y32vIg;
   v1Y32vIg  =  -443868530;
     long    kOFpj1W70S;
@@ -138,7 +138,7 @@ int main(void)
   float  q50O0;
 
  unsigned short int jETT54JL44;
- jETT54JL44 = -281292561;
+
  float GRj26;
  GRj26 = 2010311832;
     short    r3S9HH8;
@@ -158,7 +158,7 @@ int main(void)
  float Y3021N;
 
 	unsigned short	fo_B2N;
-	fo_B2N	=	-254214917;
+
     short    CIm8U1A41;
 
  double DiAetlB9H;
@@ -168,7 +168,7 @@ int main(void)
     long long    ll_E;
 
 	float	jNAR0Ph;
-	jNAR0Ph	=	-1182768859;
+
   unsigned short int  Uu_U;
 
 	unsigned long	FpHuLQ10;
@@ -178,7 +178,7 @@ int main(void)
     long double    uBVCKJ;
 
   float  LY1ry70Bf;
-  LY1ry70Bf  =  792072626;
+
     unsigned short int    V_W0EQwXg6;
 
 
@@ -188,7 +188,7 @@ q50O0 = (int)ceil(lXwj9aV71);
 
 
 
-dJPTMZ = Il1Q8h1(1323092361, xxAdWeW_Xp);
+
 for (int i = 2; i >= 0; --i)
 {
 switch (j02Ctai7)

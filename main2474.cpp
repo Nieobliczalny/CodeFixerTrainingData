@@ -55,7 +55,7 @@ int main(void)
 	unsigned char	s59v;
 
  unsigned char FBVun;
- FBVun = 2108855644;
+
 	unsigned short int	S6A_kN;
 	S6A_kN	=	437611697;
  long KDMWt5P94;
@@ -173,7 +173,7 @@ int main(void)
     long long    uVJ1w5w;
     uVJ1w5w    =    -1253893492;
  char D4t_n41;
- D4t_n41 = 1542152966;
+
   long  u528w0;
   u528w0  =  -2139169219;
     long double    e9Dj;

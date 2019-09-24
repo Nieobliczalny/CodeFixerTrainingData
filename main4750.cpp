@@ -59,7 +59,7 @@ case 2:
 
 break;
 case 3:
-bjq7b &= Qr0BD;
+
 break;
 default:
 

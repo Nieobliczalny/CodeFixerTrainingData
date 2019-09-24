@@ -46,7 +46,7 @@ int main() {
   long double  FT6zUVD2W1;
   FT6zUVD2W1  =  -1344058104;
     unsigned char    i0QdMHS1b_;
-    i0QdMHS1b_    =    -1985469796;
+
 	unsigned short int	er_OV0;
 	er_OV0	=	0;
   char  ttZ3x48e;
@@ -143,7 +143,7 @@ case 1:
 
 break;
 default:
-i0QdMHS1b_ = D4Sk << pAK0i;
+
 break;
 }
 }

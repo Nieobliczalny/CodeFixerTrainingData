@@ -337,7 +337,7 @@ OCVuK3QmB = l3vI8j(OCVuK3QmB);
 }
 else
 {
-iZXdt0vZA0 = (int)abs(pWqqNb2ASU);
+
 }
 }
 else if (Wrga2VP23 != 1991307632)
@@ -406,7 +406,7 @@ case 4:
 
 break;
 default:
-Hqi3 = (int)ceil(R06nLh3VB);
+
 break;
 }
 }

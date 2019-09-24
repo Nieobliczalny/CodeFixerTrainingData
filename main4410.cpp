@@ -129,7 +129,7 @@ std::cout << "y187oCygt" << std::endl;
 }
 else if (ly9SUW8 < C170XDj)
 {
-ak55a = (short int)(Iy76OKd);
+
 }
 else if (((q8JqT == Z0nZ2Awfak) && (t98Ags93 >= C170XDj)) || (u08TsV02 <= GeMJxU))
 {

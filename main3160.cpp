@@ -68,7 +68,7 @@ int main(int argc, char** argv) {
   jG64r244  =  1394139754;
   r03INw23  =  748553676;
   s3RK  =  2081780304;
-  pclSr  =  930034959;
+
   Val5943  =  -1336388700;
   W8B3CHJ4  =  2145766696;
 
@@ -688,7 +688,7 @@ case 4:
 
 break;
 case 5:
-W8B3CHJ4 = p494fYJKV + 1940948420;
+
 break;
 case 6:
 

@@ -289,7 +289,7 @@ Rn9kGxya1a = od_A9AT(jxZ8j_3);
 }
 else if (V_A1Vh < -2086456281)
 {
-l_9Zr8Uru = (float)(fD64_A7h);
+
 }
 else if (((D2e12 & -1856058954) || (J3QJ > 1117638520)) || (l_9Zr8Uru))
 {
@@ -345,7 +345,7 @@ int k = 2;
 do
 {
 --k;
-l_9Zr8Uru = V_A1Vh & T61B6p3;
+
 }
 while (k >= 0);
 }
@@ -439,7 +439,7 @@ case 7:
 
 break;
 case 8:
-k7_i = (int)floor(NdDz3072);
+
 break;
 default:
 
@@ -485,7 +485,7 @@ while (j < 9)
 }
 else
 {
-k7_i = jxZ8j_3 - g8O20cZ;
+
 }
 switch (F8QPL)
 {

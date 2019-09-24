@@ -172,7 +172,7 @@ else
 }
 else if (Em3838_hKu <= UycfxAHS)
 {
-P41A_ = (double)(SJaK59mp7u);
+
 }
 else if ((PkNdyJb1 == 955092391) && ((QVPtx9_593 >= -928216741) && (M23ys5s3b8 < Vc7X6p)))
 {

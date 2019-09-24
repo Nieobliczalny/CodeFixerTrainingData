@@ -100,7 +100,7 @@ int main(void) {
  unsigned short int TAa_YYGBak;
  TAa_YYGBak = 383625406;
   long double  B9G7ON3G9;
-  B9G7ON3G9  =  -921052132;
+
 	unsigned short	i_Mc7eDp92;
 	i_Mc7eDp92	=	1804617759;
 	int	EC3LS01v;
@@ -126,7 +126,7 @@ int main(void) {
  char FQ8pf;
 
 	long long	eh33;
-	eh33	=	128704034;
+
   double  zH1979b;
 
 	unsigned long	mJn9;
@@ -208,7 +208,7 @@ int main(void) {
 	long	M_CLU4;
 
   unsigned long  ZWe2K;
-  ZWe2K  =  1436714842;
+
     int    jT1Pa0;
     jT1Pa0    =    -1510184686;
   unsigned long long  ZT4U;

@@ -231,7 +231,7 @@ break;
 
 
 
-SUi6h = (long double)(X7lg + (1417277180));
+
 
 O8H8t = (int)floor(i1n2F4);
 
@@ -278,7 +278,7 @@ case 0:
 
 break;
 case 1:
-SUi6h = (int)ceil(A0HTX53);
+
 break;
 default:
 
@@ -409,7 +409,7 @@ case 'b':
 
 break;
 case 'c':
-SUi6h = (int)abs(b52lCaJ858);
+
 break;
 case 'd':
 

@@ -200,7 +200,7 @@ case 'f':
 
 break;
 case 'g':
-e3JZ *= n6aM2h8XmI;
+
 break;
 }
 }
@@ -364,7 +364,7 @@ case 0:
 
 break;
 case 1:
-npo3QS4 = (int)ceil(vXmo4h9nf1);
+
 break;
 case 2:
 Xa5q76o0A = whEZW7(1377405681);

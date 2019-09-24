@@ -289,7 +289,7 @@ case 5:
 
 break;
 case 6:
-uF0U8 &= dkv_Neu;
+
 break;
 }
 }
@@ -368,7 +368,7 @@ case 'c':
 
 break;
 case 'd':
-pjJ49O_YK = (int)ceil(iUbTP);
+
 break;
 case 'e':
 

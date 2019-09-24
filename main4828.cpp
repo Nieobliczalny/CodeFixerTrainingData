@@ -519,7 +519,7 @@ case 0:
 
 break;
 case 1:
-id36V_24Ho = (int)ceil(zE84W);
+
 break;
 case 2:
 CV574_c ^= Ot45j37;
@@ -655,7 +655,7 @@ case 3:
 
 break;
 case 4:
-W6pfsddK ^= 1171763713;
+
 break;
 case 5:
 bqYINA8 = (int)abs(f34vHzi38B);

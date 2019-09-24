@@ -18,7 +18,7 @@ int main(int argc, char** argv)
 	float	FVN45QZ2w;
 	FVN45QZ2w	=	1749122548;
 	unsigned char	ZraiXjh522;
-	ZraiXjh522	=	-251980605;
+
  unsigned char f_ZOTGCfyr;
 
     char    n2c4ernR;
@@ -42,7 +42,7 @@ int main(int argc, char** argv)
     unsigned char    TUF4N;
 
   unsigned short  mIU_0_x;
-  mIU_0_x  =  -195675174;
+
 	int	tS0wRli;
 	tS0wRli	=	1377067921;
  short int NeB7b11mRl;
@@ -68,7 +68,7 @@ int main(int argc, char** argv)
 	double	Kb21Lkc;
 	Kb21Lkc	=	1637355493;
 	unsigned int	M3336F_0;
-	M3336F_0	=	109827232;
+
 	long	P6Lwp4H;
 	P6Lwp4H	=	2126934963;
   char  L47608YH;
@@ -86,7 +86,7 @@ int main(int argc, char** argv)
   unsigned short  tA0Vguuy3X;
 
 	long	gSv9EAyom;
-	gSv9EAyom	=	1486549619;
+
 	unsigned short int	G9w1j_01k;
 	G9w1j_01k	=	66976069;
  int djvG_e_EzD;
@@ -130,7 +130,7 @@ int main(int argc, char** argv)
 	float	mW6SKkJz;
 	mW6SKkJz	=	1959251514;
     double    H4HEl;
-    H4HEl    =    -110851123;
+
  char utJqM9;
  utJqM9 = -547262390;
   short  YAQ5;
@@ -293,7 +293,7 @@ case 2:
 
 break;
 case 3:
-ty07x9 = (int)ceil(c6tr);
+
 break;
 case 4:
 
@@ -412,7 +412,7 @@ for (int i = 0; i < 5; i++)
 {
 mW6SKkJz -= z4_v;
 }
-deDK_ = (short int)(mW6SKkJz);
+
 
 
 
@@ -437,7 +437,7 @@ int k = 8;
 do
 {
 --k;
-deDK_ = K4ZdaxhY / dHpB;
+
 }
 while (k >= 0);
 }
@@ -469,7 +469,7 @@ case 2:
 
 break;
 case 3:
-NHerY = wHt36baY * z4_v;
+
 break;
 case 4:
 

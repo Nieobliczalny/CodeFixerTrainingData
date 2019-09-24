@@ -144,7 +144,7 @@ case 'c':
 
 break;
 case 'd':
-UVHkTqx = uHy8yy3K(UVHkTqx, mfcg53iL_3, -1836313006);
+
 break;
 case 'e':
 
@@ -227,7 +227,7 @@ case 'c':
 
 break;
 case 'd':
-ReSi0_Hs /= 914306783;
+
 break;
 default:
 

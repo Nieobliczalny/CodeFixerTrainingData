@@ -630,7 +630,7 @@ XcfPrtOKNs = (int)abs(RC70);
 break;
 case 'c':
 case 'C':
-weHS5LU <<= 130336927;
+
 break;
 case 'd':
 case 'D':

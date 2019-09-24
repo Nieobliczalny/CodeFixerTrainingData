@@ -37,7 +37,7 @@ int main(void)
   float  h9HrA_Ms8X;
   h9HrA_Ms8X  =  -248250798;
 	unsigned short	NfvM2Qr;
-	NfvM2Qr	=	116270616;
+
     long long    IM_N;
     IM_N    =    -425361666;
  unsigned short WZkCg71o;
@@ -73,7 +73,7 @@ int main(void)
 	double	cY6P;
 	cY6P	=	1070255015;
 	char	tPsd_w;
-	tPsd_w	=	-988937182;
+
   unsigned short int  YOUbG34ZXs;
 
 	float	qn89ygh5;
@@ -134,7 +134,7 @@ case 'd':
 
 break;
 case 'e':
-ErO7i9 = (int)floor(eAMdE);
+
 break;
 case 'f':
 
@@ -154,7 +154,7 @@ break;
 
 for (int i = 0; i < 3; ++i)
 {
-c19eYRCq26 = l6Bp_Vp85 ^ 822602233;
+
 }
 
 MMREi2 = (int)abs(B4n90ki);

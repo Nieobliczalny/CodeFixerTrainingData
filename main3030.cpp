@@ -172,7 +172,7 @@ int i = 10;
 while (i >= 0)
 {
 i--;
-Wd2FYvKN = (unsigned int)(FY3qv5V5);
+
 }
 }
 try

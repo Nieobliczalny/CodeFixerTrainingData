@@ -83,7 +83,7 @@ int main(void) {
 	unsigned long	Rz5M55;
 	Rz5M55	=	-338222366;
 	unsigned int	nOg1Rn4gqs;
-	nOg1Rn4gqs	=	-1437327585;
+
   short int  LjE1O;
   LjE1O  =  -1894280851;
   double  F_x6;
@@ -137,7 +137,7 @@ int main(void) {
 	unsigned char	kS5s;
 
 	long	uWwBG;
-	uWwBG	=	-1614644439;
+
  unsigned long long VmsL;
  VmsL = 1613270699;
 	short	ZA75BfI8_5;

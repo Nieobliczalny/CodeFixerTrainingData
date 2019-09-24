@@ -216,7 +216,7 @@ case 4:
 
 break;
 default:
-eEOUQEcq5 = (int)ceil(vh9p);
+
 break;
 }
 }

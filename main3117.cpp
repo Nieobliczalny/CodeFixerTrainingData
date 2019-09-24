@@ -498,7 +498,7 @@ HrRhEBg_kx = UycGa(YsyN, 1661004461);
 switch (smZEc40)
 {
 case 0:
-TU8Q9 -= onWvqP1564;
+
 break;
 }
 
@@ -612,7 +612,7 @@ case 'c':
 
 break;
 case 'd':
-VZE8 = (int)abs(U02A);
+
 break;
 case 'e':
 WvQ4hM += smZEc40;

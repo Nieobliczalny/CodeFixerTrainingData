@@ -28,7 +28,7 @@ int main(int argc, char** argv) {
     short int    rjOt;
 
 	long double	c026Yq7U;
-	c026Yq7U	=	-858676820;
+
   unsigned int  J5JHW7vLP0;
   J5JHW7vLP0  =  -769209490;
   long double  a235lC;
@@ -82,7 +82,7 @@ int main(int argc, char** argv) {
  long long Ue9rjDR7;
 
  int Gn5B;
- Gn5B = 1586475439;
+
     long double    JlZ5_60;
     JlZ5_60    =    -1180978816;
  unsigned long S9tmB7x_3;
@@ -110,7 +110,7 @@ int main(int argc, char** argv) {
 	unsigned int	ixYMR3X;
 
   unsigned long long  l2jF;
-  l2jF  =  -2116360912;
+
     unsigned int    JT9U;
     JT9U    =    722622889;
   short int  MEmG;
@@ -122,7 +122,7 @@ int main(int argc, char** argv) {
   int  QhiVX;
   QhiVX  =  508780816;
 	char	c9oeU1GRrS;
-	c9oeU1GRrS	=	-747976056;
+
     float    EkAI38e5J8;
     EkAI38e5J8    =    745702839;
  unsigned char byWFk_;
@@ -150,7 +150,7 @@ int main(int argc, char** argv) {
  long Mo_Zp0U;
 
 
-Ou2_ = (short int)(Vph9p16d + (-576792800));
+
 if (Kz4v5hA3Y5 != 425954560)
 {
 {
@@ -229,7 +229,7 @@ case 'g':
 
 break;
 case 'h':
-S9tmB7x_3 ^= 312983262;
+
 break;
 default:
 m6HhSV = (int)floor(yf70);

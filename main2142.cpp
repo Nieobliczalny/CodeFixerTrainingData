@@ -332,7 +332,7 @@ case 9:
 
 break;
 default:
-xIgZ4640 <<= FmDFm46Tq;
+
 break;
 }
 if ((T1CQ1kP33 >= zSm04h19K) && (Btb7609x1S > -857592235))
@@ -465,7 +465,7 @@ case 3:
 
 break;
 case 4:
-HOAS21J19 = (int)floor(l6SRX55Y);
+
 break;
 case 5:
 yg2b50T1o_ = Zj9q7DY_s1(DcoPa84, VX_77y);

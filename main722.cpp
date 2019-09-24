@@ -139,7 +139,7 @@ case 2:
 
 break;
 case 3:
-eO42 = (int)ceil(w3V6Hr);
+
 break;
 }
 
@@ -238,7 +238,7 @@ case 8:
 
 break;
 case 9:
-I_GF5 = (int)ceil(wvNcAIR5);
+
 break;
 }
 }

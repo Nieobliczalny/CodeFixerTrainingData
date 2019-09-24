@@ -352,7 +352,7 @@ break;
 
 if (S3fIgEL23)
 {
-AFSP6_C = (int)floor(jCg907_);
+
 }
 else if (a37nL6K37 < i9Jl8l1be)
 {

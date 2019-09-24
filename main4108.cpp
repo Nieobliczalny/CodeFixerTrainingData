@@ -125,7 +125,7 @@ int main(void)
     short    R1xu;
     R1xu    =    -2039019477;
 	long	o_C2LUzZ;
-	o_C2LUzZ	=	-1921263939;
+
  unsigned long N9_R2h;
  N9_R2h = 1578463096;
 	unsigned long	iXcy8;

@@ -155,7 +155,7 @@ int main(void) {
     short int    l8L6rO;
     l8L6rO    =    121320861;
     long    L0r_8aZk;
-    L0r_8aZk    =    -1677666600;
+
  unsigned short int qe1O32y0V;
  qe1O32y0V = 751711183;
     unsigned short    Y8re5oe0c3;
@@ -455,7 +455,7 @@ case 'a':
 doQ9w__I = (int)ceil(Zyt_lf);
 break;
 case 'b':
-DgyV4c = (int)ceil(doQ9w__I);
+
 break;
 case 'c':
 YBDds7I >>= 1798901275;

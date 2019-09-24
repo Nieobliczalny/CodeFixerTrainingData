@@ -427,7 +427,7 @@ case 'c':
 
 break;
 case 'd':
-Pj3e = Q3K0_57qg1(1674476859, 315262396, 1345794725, -619821096);
+
 break;
 case 'e':
 P4r5E1 = HtbURVrbvj();

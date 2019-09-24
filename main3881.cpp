@@ -217,7 +217,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-iF_2BTuTs = (int)floor(jt21NKcqqp);
+
 break;
 case 'd':
 case 'D':
@@ -275,7 +275,7 @@ case 3:
 
 break;
 case 4:
-vFWhym4_L = X1BS(war52q99Aq, D660Gs);
+
 break;
 }
 
@@ -320,7 +320,7 @@ w07ism6sl = (double)(GcGd);
 
 
 
-g33mnOF = rVup3ROctj(255005571, 1344319237, MCK5, 296644292) / tdf_q;
+
 if (k1262 & 1619465878)
 {
 {
@@ -469,7 +469,7 @@ case 2:
 
 break;
 case 3:
-iHYhmb >>= oYt_il;
+
 break;
 case 4:
 
@@ -481,7 +481,7 @@ case 6:
 
 break;
 case 7:
-ltB2bQ = url_(ltB2bQ, -422214261);
+
 break;
 default:
 tdf_q = X1BS(SlK_9EA0R3, 156902340);

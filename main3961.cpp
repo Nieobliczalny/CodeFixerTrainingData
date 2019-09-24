@@ -23,7 +23,7 @@ int main(void)
 
 
 
-r1ABu12Vep = pH0a1QnRZp / fAh0;
+
 
 if ((fAh0 < p3I4WDx) || ((VvTMN7 >= p3I4WDx) && (t142u5g >= -1175302761)))
 {

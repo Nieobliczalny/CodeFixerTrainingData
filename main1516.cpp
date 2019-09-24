@@ -124,7 +124,7 @@ else if (Sl5EO2 == -2008659090)
 switch (O1nm993K)
 {
 case 'a':
-fw9ors_jN = (int)ceil(p9rR9HSM2d);
+
 break;
 case 'b':
 Ff22Hk5L7 <<= 451845385;

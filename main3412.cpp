@@ -368,7 +368,7 @@ case 'c':
 GZ5rQwGiH = GZ5rQwGiH + 800206690;
 break;
 case 'd':
-TTj31NuKvi = (int)ceil(x56eR);
+
 break;
 case 'e':
 
@@ -386,7 +386,7 @@ case 'i':
 a5pHZ = u8TaQpM & 1308837871;
 break;
 case 'j':
-TTj31NuKvi = (GZ5rQwGiH == Wrw8S) ? 1515617818 : nc4_k31;
+
 break;
 }
 
@@ -443,7 +443,7 @@ switch (qFcKc)
 {
 case 'a':
 case 'A':
-TTj31NuKvi = (int)floor(a5pHZ);
+
 break;
 case 'b':
 case 'B':
@@ -499,7 +499,7 @@ case 2:
 
 break;
 case 3:
-a5pHZ = (int)floor(Ic_6Q69);
+
 break;
 case 4:
 

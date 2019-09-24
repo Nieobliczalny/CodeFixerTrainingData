@@ -234,7 +234,7 @@ case 1:
 Gthse = N965Xf(1622273367, mW81yc_Y88, W71a);
 break;
 case 2:
-W71a = N965Xf(Z4G4W, 1639504944, -213844299) * 1783604536;
+
 break;
 case 3:
 YzkOLgso5c = N965Xf(mW81yc_Y88, 983959534, -602169104);
@@ -246,7 +246,7 @@ break;
 }
 else
 {
-W71a |= 664405112;
+
 }
 {
 int i = 5;

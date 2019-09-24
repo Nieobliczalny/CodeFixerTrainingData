@@ -136,7 +136,7 @@ MO3pU0WT04 += 1827943743;
 }
 else if (((p52_3bH >= u2ifI7Wfz0) && (Kufr >= Gqy1_786O5)) && (pc47X5FtWc == 985422201))
 {
-QmKHdXk7N = (int)abs(Yb2FdN_H7);
+
 }
 else if ((G0njmB9 != 1005049802) && ((oec1q != 203368736) && (Gqy1_786O5 > 1875546896)))
 {

@@ -71,7 +71,7 @@ int main(int argc, char** argv)
 	unsigned int	ScWcZPCqR_;
 	ScWcZPCqR_	=	-510908100;
 	int	hpQs;
-	hpQs	=	2057687272;
+
  unsigned char u_gmtUvTKF;
  u_gmtUvTKF = 2037646782;
 	char	WkGbo;
@@ -101,7 +101,7 @@ int main(int argc, char** argv)
   int  t_Js;
   t_Js  =  -1734680816;
   short  Sw_0mBP;
-  Sw_0mBP  =  831682649;
+
 	char	SU0vn;
 	SU0vn	=	-1590483510;
   unsigned short  kY73b;
@@ -134,7 +134,7 @@ case 5:
 
 break;
 case 6:
-Sw_0mBP = HRgNRpfA | hpO0hOB1_l;
+
 break;
 case 7:
 t_Js = wGQl_vy2(-283554750, gNKYV0, kY73b, -945970631);

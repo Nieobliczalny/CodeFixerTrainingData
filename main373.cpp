@@ -61,7 +61,7 @@ int main() {
 	long long	z2o2Z_df;
 	z2o2Z_df	=	-1802419321;
  float v4TGi4_t1;
- v4TGi4_t1 = -1539611454;
+
   unsigned short  XgjES84F72;
   XgjES84F72  =  -1675978263;
     unsigned long long    s_F0FW79;
@@ -391,7 +391,7 @@ for (int j = 7; j >= 0; --j)
 {
 if (s_F0FW79 >= ri08N5d6R)
 {
-v4TGi4_t1 = (int)floor(cB_N);
+
 }
 else
 {
@@ -415,7 +415,7 @@ case 3:
 
 break;
 case 4:
-v_ph8Odf &= prGtHv54;
+
 break;
 case 5:
 v4TGi4_t1 = (int)abs(taDBLxaB);

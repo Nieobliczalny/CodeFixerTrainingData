@@ -185,7 +185,7 @@ case 4:
 m09_b = DL9T - bqmr9XC;
 break;
 case 5:
-DL9T = (int)floor(kla8ibpp);
+
 break;
 case 6:
 

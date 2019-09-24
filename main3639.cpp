@@ -51,7 +51,7 @@ case 7:
 
 break;
 case 8:
-r6NN61K = (int)abs(hp7S2Z_p);
+
 break;
 case 9:
 hp7S2Z_p = (int)abs(fih6_9);
@@ -169,7 +169,7 @@ for (int i = 0; i < 2; ++i)
 {
 if (P5A0 & 220952500)
 {
-EGGA9_8 = QJ2wM7zN * 1963953130;
+
 }
 else
 {

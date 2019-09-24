@@ -34,7 +34,7 @@ int main(void)
   rdAeqp  =  1368525144;
 
 
-  jeBM  =  283677836;
+
   nJu1YGBbg_  =  -1645969886;
   E48cwyoBTc  =  -140736807;
   K66OZ3P8  =  146511170;
@@ -68,7 +68,7 @@ int main(void)
   AwuqvJh2R  =  -790781815;
 
   k9aeuz5S_C  =  727093814;
-  TRsxf  =  1989992132;
+
   dPFVGCS5_  =  -721842459;
   long  GoaKX33y,  PYuS,  wlI8K2_e,  bmavSpXmJ_;
   GoaKX33y  =  0;

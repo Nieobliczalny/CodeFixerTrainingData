@@ -663,7 +663,7 @@ case 0:
 
 break;
 case 1:
-zTTx83qK7 = jyYFYC(500292261, 407566173, D65D4TYKLb, X920bn, 969060906);
+
 break;
 case 2:
 
@@ -696,7 +696,7 @@ break;
 Wgj_ = xCiD4j / MxFfXjP(rVvb0, xCiD4j, -1933457697, -1446928579);
 
 mAl5 = (int)floor(Bzvw);
-Zs8WQ3XCf *= 2067801904;
+
 AgCN4 = MxFfXjP(nheQW, 1469243889, 1706822906, EmYbUe);
 
 {
@@ -744,7 +744,7 @@ case 0:
 
 break;
 case 1:
-Bzvw = (int)floor(OCio);
+
 break;
 case 2:
 Bzvw = (int)floor(i84HuRnh);
@@ -772,7 +772,7 @@ case 2:
 
 break;
 case 3:
-e5vl370a = rVvb0 / ixf5ueWp;
+
 break;
 case 4:
 e18Q = (int)floor(tBX6uj);
@@ -861,7 +861,7 @@ case 2:
 
 break;
 case 3:
-AgCN4 = (int)abs(V1yxuXT1) * 0;
+
 break;
 case 4:
 
@@ -889,7 +889,7 @@ case 2:
 
 break;
 case 3:
-FrO23Nd1u = jyYFYC(-1471611293, D65D4TYKLb, 1082805062, 2139955918, -365984577);
+
 break;
 case 4:
 CG8s %= nheQW;

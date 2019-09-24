@@ -19,7 +19,7 @@ using std::floor;
 int main() {
  unsigned short int X0wd5ENm91, e__4OF, CxzjGk, W55j8Ws2Z, i6i6oT, j7mq19FXo1, S68Z, WqB26, dv2_XEkI, UQZefH, XFs6tvw, n7k1, M4qQb9, L7U1_hka48, w6L0ucxN, wWHJ27tRs, CYm9, V91D5dAuIC, jC_lMx_, Y1gpI2, bDI63yX, Kb99E4c7, j3ecawo, hf4lgQ_d, BUu86B3_7, P7W3di0L_, toyC_KWf0, RGJ_, ZF5A0BFi8, Ybhhp, khoPR_, Itf0D_I, nn9u26, Wl0L61DF, Zg_lz103, Hc8qGwu5P, U6o20ZH7, J72meFE7V_, fY76x1P, FT8oc, CZFSX, l8q6a, WaYB2TO, D9094, a8j4, ZY6R96, zdRSP, iVmV16d, B8n_Lo, uwpC13eh, Ze1nqUj, aADl98bf, C0_F_S1iKm, iiYX, p96RWYz, CG_9_7mq, cWlnFaT, AFA40xdv4i, lnla, GG2_GmXhv7, N0y_N, JJwfKz, PHKlYID, k_KLV_bzFr, l8AEHjeMd, N9G5, ko5M, lGO9c0Uu4, yH_vhLG7s6, zJpp5rFMB, zCiUzCAF4, HC7r4, ls4T_Ma, kOkc8inh, WhKc, vKZ4A, HeTzheG1K7, TNWXSeRN7, McEFtMO, oD6d2_, Ng56KhWk9S, k83_LV, YYBsBAke, A3n405ePj, M5zd, G_sI_v0, oWv4DKna5, sD_jH1_wIJ, ZUZZHABE8V, F54Zh6__, mRcBNeGU, Nf_S7G, UunX_stW1C, T4uEmGcx4y, IiFq505, TC_IRhxqy, C7gdqJ4o3, i13RtrDc6;
 
- e__4OF = 581677936;
+
  CxzjGk = -226131723;
  W55j8Ws2Z = 1868053696;
 
@@ -30,7 +30,7 @@ int main() {
  UQZefH = 591290459;
  XFs6tvw = -499684316;
 
- M4qQb9 = -1677634036;
+
  L7U1_hka48 = 1133574878;
 
 
@@ -48,7 +48,7 @@ int main() {
  RGJ_ = 1268991384;
 
  Ybhhp = 1143126264;
- khoPR_ = 417865484;
+
  Itf0D_I = -1760988010;
  nn9u26 = 1317734796;
 
@@ -64,7 +64,7 @@ int main() {
  D9094 = -2029976068;
  a8j4 = -1767490625;
 
- zdRSP = -1371510828;
+
  iVmV16d = -786589157;
 
  uwpC13eh = -689099719;
@@ -75,7 +75,7 @@ int main() {
  p96RWYz = 1769231707;
  CG_9_7mq = -990988869;
 
- AFA40xdv4i = 12182567;
+
 
  GG2_GmXhv7 = -996166632;
  N0y_N = 1787726640;
@@ -87,7 +87,7 @@ int main() {
 
  lGO9c0Uu4 = 394607029;
 
- zJpp5rFMB = 391582053;
+
  zCiUzCAF4 = -790140739;
  HC7r4 = 1002440106;
  ls4T_Ma = -1279713128;
@@ -99,7 +99,7 @@ int main() {
 
  oD6d2_ = -1278446867;
  Ng56KhWk9S = 1218150958;
- k83_LV = 1074882201;
+
  YYBsBAke = 39579771;
 
  M5zd = 1947530933;
@@ -113,7 +113,7 @@ int main() {
  UunX_stW1C = 1541498036;
  T4uEmGcx4y = -883575076;
 
- TC_IRhxqy = -1757742796;
+
  C7gdqJ4o3 = 261693772;
  i13RtrDc6 = -1505235540;
  long yD1A64K;

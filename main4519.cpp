@@ -374,7 +374,7 @@ U868 = ww8uM % Y5R86ID;
 }
 }
 }
-g_26Kik8 = (int)(LqXa63Nit8);
+
 
 if (vwNppI76 > jn6_V)
 {
@@ -481,7 +481,7 @@ case 'c':
 
 break;
 case 'd':
-Ao5vX_iCL -= 1771452033;
+
 break;
 case 'e':
 
@@ -493,7 +493,7 @@ case 'g':
 
 break;
 case 'h':
-Y5R86ID += 1189133679;
+
 break;
 case 'i':
 

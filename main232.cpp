@@ -579,7 +579,7 @@ else if (ldP4pTP2T > -96714236)
 }
 else
 {
-Nx7o6Bl658 = (double)(I_snUsB554);
+
 }
 }
 if (bhXnd_ != -1066669074)

@@ -302,7 +302,7 @@ case 2:
 
 break;
 case 3:
-s4X2A_0T_ %= 96387602;
+
 break;
 case 4:
 lK36 = (int)floor(fiF7p9H4);

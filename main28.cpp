@@ -26,7 +26,7 @@ int main(void)
     unsigned long long    mbE0P_;
 
 	unsigned short	Hnx4VksOy0;
-	Hnx4VksOy0	=	797269070;
+
     unsigned short int    NSCKB7;
     NSCKB7    =    -284439623;
   unsigned int  uLFi39kb;
@@ -625,7 +625,7 @@ case 'c':
 
 break;
 case 'd':
-q92Cl = (int)abs(t0s95CTX1a);
+
 break;
 case 'e':
 
@@ -637,7 +637,7 @@ case 'g':
 
 break;
 case 'h':
-jt7HNfH = lSr0S4pOj * lV7G_Y36;
+
 break;
 default:
 

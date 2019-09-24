@@ -99,7 +99,7 @@ qM6BRZ9--;
 }
 else
 {
-pCmB = (int)abs(y3_ua4);
+
 }
 
 for (int i = 6; i >= 0; i--)

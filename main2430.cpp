@@ -64,7 +64,7 @@ case 'a':
 
 break;
 case 'b':
-OyK4SncvY = g_NmX(OyK4SncvY, 1632486427, c_uBo_gw, 574808915) << 1798780601;
+
 break;
 case 'c':
 cj7Pkx41S = Wyz_X5FjI(cj7Pkx41S, -221223701, -1327111915, -1840225775);
@@ -152,7 +152,7 @@ case 'a':
 g6pbhSCr = (int)abs(WRT9J);
 break;
 case 'b':
-dS7o6lPX5 = Wyz_X5FjI(dS7o6lPX5, 462522100, -1640791959, -93330263);
+
 break;
 default:
 hV024d5 = g_NmX(1478868994, ZJAKtu27Z, Jcd3j_Y5, RTLWh0oc);

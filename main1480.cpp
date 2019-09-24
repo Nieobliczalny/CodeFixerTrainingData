@@ -78,7 +78,7 @@ int main(int argc, char** argv) {
   int  vJn30Ms_0;
 
  short l49DRy_D;
- l49DRy_D = 1774895347;
+
 	unsigned char	I1rNs;
 
     unsigned int    eaIyi4_1b;
@@ -98,7 +98,7 @@ int main(int argc, char** argv) {
 	char	HC8cnWL20;
 
 	unsigned short int	el39BT;
-	el39BT	=	-1932312256;
+
   unsigned short  rlFA8n;
   rlFA8n  =  -955476004;
  unsigned int A0j566L_;
@@ -114,7 +114,7 @@ int main(int argc, char** argv) {
     float    LoSbW7I7Sm;
     LoSbW7I7Sm    =    -2105432231;
     short    bL8YZ;
-    bL8YZ    =    20737034;
+
 	long long	V66rtMsZ;
 
  unsigned int x3g3;
@@ -140,7 +140,7 @@ int main(int argc, char** argv) {
   short  xfnCfX;
 
     long long    LT5pBx3;
-    LT5pBx3    =    1388165202;
+
  long long gtEvH252E_;
  gtEvH252E_ = -1130738948;
     float    qkou65T67L;
@@ -321,7 +321,7 @@ case 3:
 
 break;
 case 4:
-nOE_7k1rM = (int)ceil(fnuF);
+
 break;
 case 5:
 
@@ -361,7 +361,7 @@ case 2:
 
 break;
 case 3:
-zUdC = (int)floor(qkou65T67L);
+
 break;
 case 4:
 

@@ -17,7 +17,7 @@ int main(int argc, char** argv)
   long  zj1y2qx;
   zj1y2qx  =  0;
   unsigned int  z41xt;
-  z41xt  =  -2026656717;
+
 	double	LOLe9;
 	LOLe9	=	-1943339087;
     unsigned short    JHLQ;
@@ -59,7 +59,7 @@ int main(int argc, char** argv)
 	unsigned int	XO05_x_4_;
 	XO05_x_4_	=	-2056630778;
     unsigned long    f2Dljp;
-    f2Dljp    =    1612230442;
+
   double  RORIbd;
   RORIbd  =  -1509213833;
   long  xLga0;
@@ -79,7 +79,7 @@ int main(int argc, char** argv)
  long csB44M;
 
     unsigned char    z1UQ3Ew;
-    z1UQ3Ew    =    1131312340;
+
  short I06G;
  I06G = 443107941;
  unsigned short rR8h;
@@ -117,7 +117,7 @@ int main(int argc, char** argv)
 	unsigned int	a8607mNo0a;
 	a8607mNo0a	=	0;
     float    QL9gd0w;
-    QL9gd0w    =    1857590481;
+
     float    bMCo;
     bMCo    =    -1354499604;
 	double	zMfc58Bq_9;
@@ -148,7 +148,7 @@ case 2:
 
 break;
 case 3:
-jdkZRP1z72 = LA9S_THjh(L_k3z8X, -1347844971, 1822437885, h8rd, b589Nfblju);
+
 break;
 case 4:
 
@@ -160,7 +160,7 @@ case 6:
 
 break;
 case 7:
-NHJRq3DF1f = LA9S_THjh(yELMO2, 1539199513, T7Uk3st7el, b589Nfblju, 1707847159) & JHLQ;
+
 break;
 }
 }
@@ -195,7 +195,7 @@ UcA5W1UJ++;
 }
 else if (((LOLe9 == F1ye) && (cH27ufJ71 < t7t48c90DB)) && ((XO05_x_4_ < 1386528664) && (XO05_x_4_ > 1854412413)))
 {
-hDSDO69LD = t7t48c90DB & 71648245;
+
 }
 else if (xLga0 < g70yZ2G46)
 {
@@ -224,7 +224,7 @@ case 2:
 
 break;
 case 3:
-oW7XLhU4y *= 1968581887;
+
 break;
 default:
 hDSDO69LD = (int)floor(A8_3);
@@ -287,7 +287,7 @@ else if (((N2ztg3 >= 511702110) || (N2ztg3 != 480884883)) || ((a8607mNo0a < K4u8
 }
 else
 {
-hDSDO69LD = (int)floor(zMfc58Bq_9);
+
 }
 }
 else if (iu4ikem <= hDSDO69LD)
@@ -317,7 +317,7 @@ else
 
 std::cout << LOLe9 << F1ye << std::endl;
 
-DQrSlr = LA9S_THjh(256199795, -2062062927, bKGPQKlR, 1970621120, -239622768) / zj1y2qx;
+
 switch (fmSl4)
 {
 case 0:
@@ -330,7 +330,7 @@ case 2:
 
 break;
 case 3:
-A8_3 = (int)ceil(cH27ufJ71);
+
 break;
 case 4:
 
@@ -342,7 +342,7 @@ case 6:
 
 break;
 case 7:
-jdkZRP1z72 = LA9S_THjh(743067547, -1371721403, K4u872gvhC, LOLe9, YoVb21Na67);
+
 break;
 default:
 

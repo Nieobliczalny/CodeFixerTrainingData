@@ -153,7 +153,7 @@ int main() {
     long double    LC2z4;
     LC2z4    =    -1349189010;
 	unsigned int	OblgKss8;
-	OblgKss8	=	292137928;
+
   double  y4w0d_;
   y4w0d_  =  -494091580;
  long T88k;
@@ -165,7 +165,7 @@ int main() {
 	short	Dyh_MRZq;
 
 	unsigned long long	OD3a_AV_k;
-	OD3a_AV_k	=	1068773531;
+
   unsigned short  AlKy8;
 
   unsigned long  O2FZm53G6;
@@ -175,7 +175,7 @@ int main() {
  unsigned long x4q9Udzs_C;
 
  double dfkZy5GojR;
- dfkZy5GojR = 1999753016;
+
  unsigned short E8AG0d;
  E8AG0d = 0;
   long double  uen7Zld;
@@ -191,7 +191,7 @@ int main() {
   long  TQ04;
 
 	unsigned long	D5kJe;
-	D5kJe	=	-246578504;
+
  float PRkFBIen;
 
 	unsigned int	KFQebE;
@@ -258,7 +258,7 @@ try
 {
 if ((L4Mwh & HUOh_87EY3) && (nL0_dmh45 > -1209843574))
 {
-s2049 = oV97k88D(E8AG0d);
+
 }
 else
 {

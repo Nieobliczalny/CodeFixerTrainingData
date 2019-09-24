@@ -206,7 +206,7 @@ MhSRFYt = PuEcs2pn();
 
 
 
-x6qurh_Ujl = -2117378569 / R02y(1369051397, 1521315328, 484143840, rOaDw2cB9);
+
 for (int i = 0; i < 10; ++i)
 {
 vc0h01 = (unsigned short int)(D5quGH822E);
@@ -325,7 +325,7 @@ if (km7dRL != -1695767953)
 switch (lkrGo)
 {
 case 0:
-x6qurh_Ujl = PsLf & poV61;
+
 break;
 case 1:
 Q_V00Z6WM = PuEcs2pn() % 830898905;
@@ -490,7 +490,7 @@ case 3:
 
 break;
 case 4:
-WNtJ = R02y(-59698452, -1667607717, 699572296, -568076132);
+
 break;
 case 5:
 TEKum7u = w_z6cbXv - ugLJ1w;

@@ -45,7 +45,7 @@ int main(int argc, char** argv) {
     VfZd77    =    -844400867;
     b_qe_    =    1572217488;
     thOlgL1b    =    1200815931;
-    t_hwa    =    1378505323;
+
     bLY_kw    =    -878789176;
     DxC_B    =    -1278042487;
 
@@ -233,7 +233,7 @@ BWunCr = lDi533BjfM(wuqd, 200276076, -709191185, Q1zr, yqrjo_c_);
 }
 else if (Dei76_p3NH > -392230225)
 {
-omy254e = TCeU8At0c(omy254e, 1251815716, NzmBm2U, 1514157344, khdW9LC9);
+
 }
 else if (EIp77N > vub3uXUFD)
 {
@@ -319,7 +319,7 @@ else
 {
 if (((SLn45XFm >= -1774066053) && (WWdG6R < iA2maDz)) || ((thOlgL1b != wYat3ln) && (jW6KVYk < 2009056508)))
 {
-omy254e = b7JX5k42 ^ Ex_7;
+
 }
 else
 {
@@ -638,7 +638,7 @@ case 2:
 
 break;
 case 3:
-pHB22o = uKRfT + keep9j;
+
 break;
 case 4:
 

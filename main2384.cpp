@@ -213,7 +213,7 @@ catch (int& errorCode)
 n9PF9G7J = (int)abs(O5_Ia5NhX) * 0;
 }
 
-pE6s = TFyXl();
+
 
 ANhHOozWuJ = TFyXl();
 std::cout << A8DP(ANhHOozWuJ, Bgyv1, -837170555, SE2L, O5_Ia5NhX) << UxqY_2A << kGoVc7(256399140, Bgyv1) << std::endl;
@@ -248,7 +248,7 @@ break;
 
 
 
-Y598Ho_8 = (int)ceil(J53_v1W8N);
+
 
 std::cout << gQ86s66() << std::endl;
 return 0;

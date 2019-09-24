@@ -76,7 +76,7 @@ int main(int argc, char** argv) {
  float pM2r;
 
  short int M2vVU729y;
- M2vVU729y = 0;
+
  short abpC79899;
  abpC79899 = -2087589033;
 	float	Z678n;

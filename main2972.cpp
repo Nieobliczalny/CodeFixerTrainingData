@@ -327,7 +327,7 @@ QgD_TBwg = I_cxj78();
 break;
 case 'd':
 case 'D':
-a0JKhHStk = S8dMmt(-1667531543, tFDZ, DRT23T8T, -926625805);
+
 break;
 case 'e':
 case 'E':
@@ -440,7 +440,7 @@ else if (c4ef <= -940386904)
 {
 try
 {
-aJANV = SL7b / c4ef;
+
 }
 catch (int& errorCode)
 {

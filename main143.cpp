@@ -78,7 +78,7 @@ int main(int argc, char** argv) {
     unsigned long long    dLwd3eT_;
     dLwd3eT_    =    -711086990;
     long double    zYFm;
-    zYFm    =    -1809607696;
+
  short int S7GBrvq;
  S7GBrvq = -888627312;
   double  qx3I;
@@ -162,7 +162,7 @@ int main(int argc, char** argv) {
 	unsigned int	WV_N;
 
     short int    WdV2Kj6;
-    WdV2Kj6    =    712992265;
+
  long long YAcL7P95d_;
  YAcL7P95d_ = 1077386621;
     long    Z9Z09GEh;
@@ -427,7 +427,7 @@ else if (S86pu1 & 1269786247)
 }
 else if ((z5Am7m) && ((Z9Z09GEh < VQ46O) && (WrYzIR > VQ46O)))
 {
-zYFm = K74dItWA6 << 34317518;
+
 }
 else
 {
@@ -497,7 +497,7 @@ case 'c':
 
 break;
 case 'd':
-YP2USu7gGf = (int)ceil(d3n_);
+
 break;
 case 'e':
 vsHjuY31A9 %= 56500916;
@@ -512,7 +512,7 @@ case 'h':
 
 break;
 case 'i':
-d3n_ = NvTl();
+
 break;
 default:
 
@@ -541,7 +541,7 @@ case 2:
 
 break;
 case 3:
-w6i8w4z %= 1762502779;
+
 break;
 case 4:
 

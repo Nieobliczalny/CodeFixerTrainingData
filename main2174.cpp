@@ -196,7 +196,7 @@ else
 }
 
 
-gavD2cB4_ = o9K9BTH9Ly & vCoL6X;
+
 
 std::cout << uZ1laK74O << qBC67g3c << "pN9dh6U" << std::endl;
 

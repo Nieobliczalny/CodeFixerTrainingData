@@ -44,7 +44,7 @@ int main(void) {
 
  NPJfN4 = 422161729;
  gw3fQvtc_ = 1346975581;
- HxD7 = -111692760;
+
  w2RF = 239426219;
  I82Yn = -783065289;
  EGe2W = 2127417222;
@@ -366,7 +366,7 @@ case 2:
 
 break;
 case 3:
-vs43R = (int)abs(IDaf4);
+
 break;
 case 4:
 

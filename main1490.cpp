@@ -170,7 +170,7 @@ Z9O3Pk += ACOF1;
 }
 }
 }
-W1D4pd86t8 = (W1D4pd86t8) ? ZP30g086S : -431692987;
+
 {
 int i = 1;
 do
@@ -184,7 +184,7 @@ cout << Sx1CtwGb << O8_t3O8KZ << Z9O3Pk << endl;
 
 if (Hk5V_7086 <= ho0y0H7kKu)
 {
-Eh4r = (unsigned short int)(yA89K7);
+
 }
 else if (Z9O3Pk != -1210991030)
 {
@@ -210,7 +210,7 @@ case 'e':
 
 break;
 case 'f':
-Z9O3Pk = XU24Y19N / PYBu;
+
 break;
 case 'g':
 
@@ -243,7 +243,7 @@ cout << "V3_isw2801" << U43YK2781 << endl;
 }
 
 
-Z2Pc = (int)floor(eX29f70J);
+
 
 return 0;
 }

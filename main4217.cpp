@@ -721,7 +721,7 @@ case 2:
 
 break;
 case 3:
-kQKBQ36 = (int)abs(jm167);
+
 break;
 case 4:
 

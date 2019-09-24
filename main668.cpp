@@ -33,7 +33,7 @@ int main(int argc, char** argv)
  long sp5Y9q;
  sp5Y9q = 933761299;
 	int	JQWy_c;
-	JQWy_c	=	154875815;
+
 	unsigned int	xIlSL;
 	xIlSL	=	102687540;
  unsigned long long zyrDes7;
@@ -49,7 +49,7 @@ int main(int argc, char** argv)
     unsigned int    EDs9d;
 
 	unsigned int	bV_0cvB;
-	bV_0cvB	=	-1333832598;
+
     long long    vL3N1U2c9;
     vL3N1U2c9    =    1985413432;
  unsigned long V28O;
@@ -97,7 +97,7 @@ int main(int argc, char** argv)
   double  AAAbGO;
 
     unsigned long    vxd05iEbS;
-    vxd05iEbS    =    -2081257413;
+
  unsigned short int lkC205Vn8;
 
  double Giw9R;
@@ -109,7 +109,7 @@ int main(int argc, char** argv)
  unsigned short int EmO1Q0;
 
 	float	r8v2;
-	r8v2	=	1091682617;
+
   short  k1Gc2q;
   k1Gc2q  =  -1588256004;
 	short int	q__ia5C6q;
@@ -121,7 +121,7 @@ int main(int argc, char** argv)
 	double	z1j_7X2r;
 	z1j_7X2r	=	-1062910725;
  long double F3R26W8;
- F3R26W8 = 87872218;
+
  float icpIiM;
 
  unsigned short int mTJI;
@@ -243,7 +243,7 @@ else
 {
 try
 {
-F3R26W8 = (int)floor(o2g0p);
+
 }
 catch (int& errorCode)
 {
@@ -264,7 +264,7 @@ case 2:
 
 break;
 case 3:
-Pgb14_9I = m4ry_kW7c(QgFw55, 887735489);
+
 break;
 case 4:
 

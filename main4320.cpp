@@ -134,7 +134,7 @@ Ij9cf6B = W87LeJ(409062908, OYRNV0I6Ou, -163822065);
 break;
 case 'c':
 case 'C':
-JhO87RL = (int)abs(p3fIGfgqXf);
+
 break;
 case 'd':
 case 'D':
@@ -293,7 +293,7 @@ else
 }
 else if (lqpvGGWAxl & qp0_U8G1)
 {
-Tt4C7sD = (int)abs(ZE4fi);
+
 }
 else
 {

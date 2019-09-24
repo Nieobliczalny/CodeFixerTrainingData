@@ -389,7 +389,7 @@ eQA4s = S8c366j_0U / 876202087;
 }
 }
 }
-OXq994 = (int)ceil(T_9DMGm);
+
 try
 {
 switch (QT4_a13)
@@ -438,7 +438,7 @@ pef_s = l1g3X_1a7_(1260002675);
 break;
 case 'g':
 case 'G':
-OXq994 = (int)ceil(gLdOG_);
+
 break;
 default:
 NJpvaO4 >>= 461104555;
@@ -503,7 +503,7 @@ case 2:
 
 break;
 case 3:
-UNx8S2_2 &= QT4_a13;
+
 break;
 case 4:
 
@@ -670,7 +670,7 @@ case 'G':
 
 break;
 default:
-OXq994 = (int)ceil(T_9DMGm);
+
 break;
 }
 }
@@ -684,7 +684,7 @@ BRYNaI_ = G0s5P0I & 896929254;
 break;
 case 'b':
 case 'B':
-OXq994 = (int)ceil(g67ZvCT0C9);
+
 break;
 case 'c':
 case 'C':

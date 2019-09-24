@@ -176,7 +176,7 @@ case 1:
 kiaTKm++;
 break;
 case 2:
-Lcv_fl_ -= Qx8_2GQYMg;
+
 break;
 case 3:
 d3pvN3Wk = eq70ExI - xqkMf3f;
@@ -308,7 +308,7 @@ case 6:
 r8AsE31o = BBX9RfS6c ^ DHz2Csi8ng;
 break;
 default:
-Lcv_fl_ |= 1322595234;
+
 break;
 }
 }
@@ -497,7 +497,7 @@ catch (int& errorCode)
 ZeRL = T_0xjbj8 ^ 390619259;
 }
 
-QGi3e2 <<= 947227833;
+
 
 switch (Yxh1tOT)
 {
@@ -514,7 +514,7 @@ case 'd':
 
 break;
 case 'e':
-Lcv_fl_ = (int)abs(mYz6eISD_8);
+
 break;
 case 'f':
 

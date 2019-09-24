@@ -235,7 +235,7 @@ case 'e':
 
 break;
 default:
-x4N4Bz4N = (int)floor(mXjL2y);
+
 break;
 }
 }

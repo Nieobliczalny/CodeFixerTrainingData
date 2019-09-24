@@ -197,7 +197,7 @@ case 'c':
 V2bh *= 1254985408;
 break;
 case 'd':
-Z0j1 = (int)floor(u7SaPWq0);
+
 break;
 case 'e':
 StDfWUeC73 %= 1200910691;

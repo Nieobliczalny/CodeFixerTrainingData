@@ -33,7 +33,7 @@ int main(int argc, char** argv) {
 
     mvOq5Y0    =    2130011516;
     Q84L    =    262962758;
-    uqy5Ink    =    1797787388;
+
     j5rZ9D7in    =    -1949461539;
     rkNZqRT_Z    =    -454996067;
     m9cSVRZHq    =    -652492144;
@@ -43,7 +43,7 @@ int main(int argc, char** argv) {
 
 
 
-    ZnSV    =    1414012095;
+
     RM5Ft    =    -2012539572;
     Qpjv    =    -1476180452;
     a08x    =    -1299423669;
@@ -133,7 +133,7 @@ default:
 VR79V9n3kS = (int)abs(D8wZ);
 break;
 }
-Yqfg6 = xz3wOe8dPi << C_UH;
+
 
 {
 int i = 0;

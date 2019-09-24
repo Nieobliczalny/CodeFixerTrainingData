@@ -51,7 +51,7 @@ int main(int argc, char** argv) {
 
     U75sS91yO    =    -1967151863;
     yxH74RD    =    1604774230;
-    FNR_m_YE74    =    196691905;
+
     mr9Dy38    =    1328019525;
     ajAxfo    =    -650800852;
     j7eWXpD3    =    892791051;
@@ -79,7 +79,7 @@ int main(int argc, char** argv) {
 
     s6UJ8zE    =    1888322444;
 
-    Z4t7O4s9s    =    1798487203;
+
     q1e0U_Hws4    =    1236645449;
     V8A7    =    -893727605;
     TIUrYy9zZB    =    1072681861;
@@ -91,7 +91,7 @@ int main(int argc, char** argv) {
     O40x7yGF18    =    2141108745;
     Rh7ORK_6    =    -389607663;
 
-    vA2r0W12    =    1111499231;
+
 
     sUH58    =    360824946;
     p3300uPs8d    =    343202995;
@@ -213,7 +213,7 @@ for (int j = 7; j >= 0; --j)
 {
 if (s6UJ8zE >= -1628946617)
 {
-Z4t7O4s9s = bppjZp4J_9(888797713);
+
 }
 }
 }
@@ -285,7 +285,7 @@ case 'd':
 BHyq08n_ = W6x7siJ50M(BHyq08n_, Fa0hz3, W4Kg);
 break;
 case 'e':
-vA2r0W12 = (int)abs(dxW6);
+
 break;
 case 'f':
 
@@ -423,7 +423,7 @@ case 'h':
 
 break;
 case 'i':
-I8ZyCA0D9_ = W6x7siJ50M(I8ZyCA0D9_, 1618256085, He9SXi4k2);
+
 break;
 case 'j':
 

@@ -450,7 +450,7 @@ case 1:
 BCf_3t5e |= 822202583;
 break;
 case 2:
-YEo7 = (int)floor(nW6VXjlpa);
+
 break;
 default:
 sOY8dyP &= 1113130727;
@@ -545,7 +545,7 @@ do
 {
 if (MRMb5vCa4 < K6Ct)
 {
-YEo7 = (int)floor(pq6gSl);
+
 }
 --i;
 }

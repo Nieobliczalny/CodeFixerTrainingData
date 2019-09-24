@@ -170,7 +170,7 @@ break;
 }
 
 
-WIBf5R8D = (float)(l0l22a10);
+
 
 
 

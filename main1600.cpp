@@ -156,7 +156,7 @@ case 0:
 
 break;
 case 1:
-Zz6Ezvv = (int)abs(Llfok0Qrx);
+
 break;
 case 2:
 
@@ -168,7 +168,7 @@ case 4:
 
 break;
 case 5:
-S8494p = er7scN_8o();
+
 break;
 case 6:
 f__HMKHSW0--;

@@ -50,7 +50,7 @@ try
 {
 if ((AK51 < u40DK_) || (tlaG2Nq7s & 764747361))
 {
-uy__Yo_Qz = Dc1u_rM3(-1056033988);
+
 }
 }
 catch (int& errorCode)

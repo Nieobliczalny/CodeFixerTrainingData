@@ -42,7 +42,7 @@ int main(void)
  short fVpklPUU4;
  fVpklPUU4 = -830134994;
  short iKa86S;
- iKa86S = -133534453;
+
  double AdL_;
 
 	int	H2UMaxKxp;
@@ -82,7 +82,7 @@ int main(void)
  long long d3265_L1;
  d3265_L1 = -851499942;
 	unsigned short	YBh8fS6TU7;
-	YBh8fS6TU7	=	-1624956528;
+
  unsigned long b8Fg67wB;
  b8Fg67wB = -1299591316;
 	unsigned long long	AD6l5n48X;
@@ -110,7 +110,7 @@ int main(void)
 	int	yF3Cf_;
 
     short    C70y;
-    C70y    =    -492051208;
+
  unsigned char Ry6_M2L;
  Ry6_M2L = 1789872711;
 	unsigned short int	tP_rUK;
@@ -361,7 +361,7 @@ case 3:
 
 break;
 case 4:
-YBh8fS6TU7 = jkRtpqY2Sf + 340719177;
+
 break;
 case 5:
 
@@ -519,7 +519,7 @@ case 2:
 
 break;
 case 3:
-Ly9yM = L0s4cfx * HHvsvIFku_;
+
 break;
 case 4:
 BWrigVR = Ptd7lsd & 1799154137;
@@ -534,7 +534,7 @@ case 7:
 
 break;
 case 8:
-b8Fg67wB = K40Js_q - 93270605;
+
 break;
 }
 }

@@ -37,7 +37,7 @@ unsigned char  Wy41U(unsigned int  uZckV8P,int  rI_e_1j,unsigned long long  Yz_P
 int main()
 {
     double    jxZ5PjLH;
-    jxZ5PjLH    =    -1986722952;
+
     long long    EIvYnB;
 
  unsigned long BcY7qK769;
@@ -63,7 +63,7 @@ int main()
  long jT8VAcJH7;
  jT8VAcJH7 = 510219452;
     unsigned int    DsQ0L2_Vt0;
-    DsQ0L2_Vt0    =    -150468871;
+
   char  Th7Y8hB;
 
     unsigned short int    jdS__8qg6;
@@ -73,7 +73,7 @@ int main()
 	int	Z90_wj;
 
   int  iiTEQ;
-  iiTEQ  =  1656895277;
+
   float  W0JQEvLq1;
   W0JQEvLq1  =  45755082;
   int  V3iunJZp3;
@@ -89,7 +89,7 @@ int main()
   float  ta7Z359p3b;
 
 	float	v4b03pz;
-	v4b03pz	=	-11133947;
+
   unsigned short int  KKMcbacB5F;
   KKMcbacB5F  =  -950068957;
 	long double	x8H4;
@@ -105,7 +105,7 @@ int main()
   unsigned long long  Lh7hNEg;
   Lh7hNEg  =  -1315296283;
  unsigned short n_FUkpRyg;
- n_FUkpRyg = 1313098181;
+
 	double	bih_x;
 
  double d6Gb;
@@ -129,7 +129,7 @@ int main()
 	int	JBRf1s;
 
     unsigned short int    Jq4jq_X1;
-    Jq4jq_X1    =    -597002579;
+
  int W_DV;
 
     unsigned char    yeX95iy4;
@@ -145,7 +145,7 @@ int main()
 	unsigned long	YL5f0oUbU5;
 
   float  UiuvXkV;
-  UiuvXkV  =  -355272597;
+
     char    LfB5_DSZ;
 
  unsigned long long mY5lhz;
@@ -177,7 +177,7 @@ int main()
  long double oRPOgJ2;
 
     float    U3d2Z5;
-    U3d2Z5    =    -689923934;
+
  unsigned char NNcUNYw2;
  NNcUNYw2 = -797025414;
     int    pqYqk_wx;
@@ -191,7 +191,7 @@ int main()
 	unsigned long long	zL4k2x9;
 	zL4k2x9	=	-718762759;
   short int  vOR6u6;
-  vOR6u6  =  -1192036110;
+
  char in9A4w;
 
 	long	vZNI;
@@ -213,7 +213,7 @@ int main()
  unsigned long long bmE7xAR9;
  bmE7xAR9 = -720856325;
  int F9d12X1;
- F9d12X1 = 2000575291;
+
 	unsigned short int	uH1Sq9;
 
   float  nrLMss7J;
@@ -242,7 +242,7 @@ case 2:
 
 break;
 case 3:
-oDZciNhIU = Wy41U(oDZciNhIU, N1AUp, 214975093, jdS__8qg6, -1584842593);
+
 break;
 case 4:
 x9rBf = nz266L8o(x9rBf, k49S0, EDuB7z, -1084389848);
@@ -260,7 +260,7 @@ break;
 switch (cT_sx)
 {
 case 'a':
-n_atEn_Va = rDE7Y7wd3F * 714203806;
+
 break;
 default:
 n_FUkpRyg = KlfHxO13c % 1752376658;
@@ -321,7 +321,7 @@ break;
 
 
 
-bxWUb = (int)floor(nrLMss7J);
+
 
 if (nrLMss7J < A3_Wg2M6pC)
 {
@@ -393,7 +393,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-x9rBf = (int)ceil(ldvgibN);
+
 break;
 case 'd':
 case 'D':
@@ -413,7 +413,7 @@ r6Fp = (int)abs(vZNI);
 break;
 case 'h':
 case 'H':
-Gqe2Mn = (int)floor(fHRK);
+
 break;
 case 'i':
 case 'I':

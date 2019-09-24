@@ -143,7 +143,7 @@ case 'b':
 i1SBoO = jUAXHln << vCP8B;
 break;
 case 'c':
-vT7uO_Vj ^= 137261953;
+
 break;
 case 'd':
 
@@ -375,7 +375,7 @@ cout << OJWd(XDQfxJi_r, ceF07yUN) << OJWd(XDQfxJi_r, -2078476792) << l_JT7 << en
 
 if (((yt74v != XDQfxJi_r) || (UF_xa6 <= XDQfxJi_r)) && (IDJge != k0qT1p1OF))
 {
-DD123a75n = (int)floor(BjK9gv6I);
+
 }
 else if (PkeC37_U9 > IDJge)
 {
@@ -387,7 +387,7 @@ n4zvyUSF = (int)floor(PkeC37_U9);
 }
 else if (sMl465 != F03Goo7F)
 {
-vT7uO_Vj = (char)(k0qT1p1OF);
+
 }
 else
 {

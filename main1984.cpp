@@ -35,7 +35,7 @@ int main(int argc, char** argv)
 	unsigned int	x0Wf9;
 	x0Wf9	=	-1894285482;
     long long    JjPcCWa;
-    JjPcCWa    =    -1617649641;
+
   unsigned short  i63YB6w;
 
   unsigned long  CpVfK;
@@ -71,7 +71,7 @@ int main(int argc, char** argv)
  int N_mxi32_;
  N_mxi32_ = 240250492;
     unsigned short int    P9Qk6gL;
-    P9Qk6gL    =    1008850459;
+
  long C0Fw;
  C0Fw = 479809173;
   short  Wtdp;
@@ -120,7 +120,7 @@ cout << vdp3970 << "T7Jn" << "Wj5_v9Ki2" << C0Fw << endl;
 }
 else if ((ysR_GyC3O >= -666607171) || (KEGX_ia5G7 & CpVfK))
 {
-JjPcCWa = (long long)(N_mxi32_);
+
 }
 else
 {
@@ -220,7 +220,7 @@ case 'c':
 
 break;
 case 'd':
-W7rCRDBC = (int)floor(I67gQZxv);
+
 break;
 case 'e':
 
@@ -230,7 +230,7 @@ if (FkI8yTgTu_ < yyGGMfP)
 {
 if (((DT82_5EvB > 1277876436) || (vdp3970 != 2012737824)) || ((x0Wf9 <= jnqcSJ6W) || (U0hKe_ >= -874233654)))
 {
-x4Th26Fi /= 696333689;
+
 }
 }
 else
@@ -240,7 +240,7 @@ else
 
 
 
-h7td -= 2041692529;
+
 
 return 0;
 }

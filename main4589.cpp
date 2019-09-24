@@ -79,7 +79,7 @@ else
 
 }
 
-J5lSu = fuY8Td6hLQ % 1107927873;
+
 
 Ggdh = (long double)(C4yd912);
 
@@ -92,7 +92,7 @@ if (gX992WtG_ == 550344854)
 switch (Qwh4R)
 {
 case 0:
-J5lSu = WToo7M * 1255512675;
+
 break;
 case 1:
 C4yd912 &= fuY8Td6hLQ;
@@ -104,7 +104,7 @@ case 3:
 C4yd912 *= 1974713536;
 break;
 case 4:
-J5lSu = Qwh4R ^ C4yd912;
+
 break;
 case 5:
 C4yd912 += 129400977;
@@ -116,7 +116,7 @@ case 7:
 Ggdh *= 1071765439;
 break;
 case 8:
-J5lSu = (int)ceil(Ggdh);
+
 break;
 }
 }

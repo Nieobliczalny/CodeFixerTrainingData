@@ -38,7 +38,7 @@ unsigned char UBtL(unsigned int yrnhy7,unsigned long lFH34tNwyQ,long V96JHhmU,lo
 
 int main(void) {
   unsigned long  Rt8s9V9g5,  vRZkQK,  dVZi7gC3U3,  HM16e6oeL7;
-  Rt8s9V9g5  =  0;
+
   vRZkQK  =  0;
 
   HM16e6oeL7  =  0;
@@ -49,7 +49,7 @@ int main(void) {
 
 	mxhj6C	=	2074228329;
 	xGDez7LS	=	1355675002;
-	cC_2a	=	-1484372518;
+
 	GKDF92W5_6	=	1235584447;
 
 	jZ97672	=	-523267060;
@@ -134,7 +134,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-sKp49_5ph7 = ksI5a29(1616067700);
+
 break;
 case 'c':
 case 'C':

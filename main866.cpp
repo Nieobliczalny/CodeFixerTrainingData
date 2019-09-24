@@ -234,7 +234,7 @@ case 0:
 w2747_ /= 799460912;
 break;
 case 1:
-D48U6P = Z00O74 / J8N17;
+
 break;
 case 2:
 L4_29 = YlWq - VM2LBh2;
@@ -495,7 +495,7 @@ int j = 0;
 while (j < 6)
 {
 j++;
-NtG4 = (unsigned long long)(KU5J7J1);
+
 }
 }
 }

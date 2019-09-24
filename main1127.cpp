@@ -114,7 +114,7 @@ if (Ow0_01m9)
 {
 if (FIz06Xrs == RcIht4P__)
 {
-yX82lW90C_ = kL7Hfg / 1283137537;
+
 }
 else
 {
@@ -237,7 +237,7 @@ case 'F':
 f9HzaV <<= PcqP2_z5;
 break;
 }
-RcIht4P__ = (unsigned int)(aD4_n);
+
 switch (Z69UhAKfwS)
 {
 case 0:

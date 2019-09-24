@@ -170,7 +170,7 @@ case 2:
 
 break;
 case 3:
-LEW00R945 = tJ27s();
+
 break;
 case 4:
 
@@ -211,7 +211,7 @@ case 'c':
 
 break;
 case 'd':
-C8_Jal4R7B <<= 166813485;
+
 break;
 case 'e':
 

@@ -30,7 +30,7 @@ int main(int argc, char** argv)
     QyYJwCT1M    =    -1353907026;
     LZNN    =    -902292054;
     X3ci_ODn    =    1890658723;
-    ey83qD1    =    951197819;
+
     upuUBkyg8    =    593852652;
     n4Ti6    =    245767309;
     PRg_    =    -624106175;
@@ -67,7 +67,7 @@ int main(int argc, char** argv)
 
     cu5Y6    =    -918566945;
     Q51_Ae    =    -540624918;
-    hI6p_53120    =    -1109716747;
+
 
     d7X_E    =    1415152123;
     yRpx60j9WU    =    -1769871874;
@@ -404,7 +404,7 @@ case 'c':
 
 break;
 case 'd':
-d7X_E = zM7B9__23 >> 885700173;
+
 break;
 default:
 

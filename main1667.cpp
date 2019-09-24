@@ -100,7 +100,7 @@ int main() {
   short int  I1tXC;
 
   unsigned short int  EPt7Il;
-  EPt7Il  =  -345651511;
+
     short int    p_AygHz3O4;
     p_AygHz3O4    =    1367697954;
   long long  JZN94w;

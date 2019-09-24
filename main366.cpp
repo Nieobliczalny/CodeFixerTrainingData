@@ -32,7 +32,7 @@ int main(int argc, char** argv) {
 
 
 	vIQ0_q4s	=	-1006650507;
-	zt9JTts5N	=	822814188;
+
 	i6mj	=	1973873367;
 	oaQJ5IV	=	-1318433621;
 	cpmNqUeum	=	1225967786;
@@ -42,7 +42,7 @@ int main(int argc, char** argv) {
 
 	D6_LGgAtQ	=	-820619727;
 
-	Ax_011j	=	1700357539;
+
 	UEHcp	=	-1741878147;
 	L28D_	=	1633435776;
 	BzEq2m0	=	1039373276;

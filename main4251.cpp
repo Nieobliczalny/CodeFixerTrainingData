@@ -145,7 +145,7 @@ Pt7FAIR2 = (int)abs(HvpWF);
 break;
 case 'e':
 case 'E':
-J1_T /= GC7c;
+
 break;
 case 'f':
 case 'F':
@@ -351,7 +351,7 @@ case 2:
 
 break;
 case 3:
-pbBa2Efe = rvZY(-1775664162);
+
 break;
 case 4:
 BPfM6rF0U = (int)ceil(QKRVa4i4l);

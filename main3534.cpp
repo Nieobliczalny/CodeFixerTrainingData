@@ -424,7 +424,7 @@ case 'd':
 
 break;
 default:
-y8mh0 = (SbX8XCcnh == -27478252) ? -1204099913 : Zx88bI4;
+
 break;
 }
 

@@ -124,7 +124,7 @@ int main(void)
  double mUfv_Q;
  mUfv_Q = 716579341;
   char  b542b;
-  b542b  =  -2008902666;
+
     unsigned char    rr8d439;
     rr8d439    =    1993191401;
 	unsigned short	ACkQ;
@@ -585,7 +585,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-sml14i = w3udHvy5H | 360893419;
+
 break;
 case 'g':
 case 'G':
@@ -769,7 +769,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-OmO9oW4p4k = (int)floor(PrIm0szSf);
+
 break;
 case 'd':
 case 'D':

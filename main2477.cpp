@@ -126,7 +126,7 @@ case 4:
 
 break;
 default:
-k_kPfBctT8 = G4XErB(1837980322, 635651480);
+
 break;
 }
 }
@@ -207,7 +207,7 @@ j++;
 
 
 
-ICF03L6 = (int)ceil(xOnHB1ji67);
+
 
 {
 int i = 0;

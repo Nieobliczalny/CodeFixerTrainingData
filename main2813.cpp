@@ -69,7 +69,7 @@ int main(int argc, char** argv)
 	float	W_1Re;
 
   long long  h3TYKLTxl5;
-  h3TYKLTxl5  =  -72604409;
+
  unsigned long long tvXV9ywt5;
  tvXV9ywt5 = 1983065270;
   char  hco_7G;
@@ -141,7 +141,7 @@ else if ((Lt10215 != -743751080) && (R5qXJ0Z58 != ajd521af))
 }
 else
 {
-HxSMVPrLzm = q9Y5dp1255();
+
 }
 }
 else

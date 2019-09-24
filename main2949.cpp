@@ -317,7 +317,7 @@ int k = 4;
 while (k >= 0)
 {
 --k;
-mUq1_8jye2 = (int)floor(I4UX);
+
 }
 }
 }

@@ -137,7 +137,7 @@ if (vi6aDwW < -725273401)
 int k = 8;
 do
 {
-fuy8 = HM__nZjgk & 752574708;
+
 --k;
 }
 while (k >= 0);

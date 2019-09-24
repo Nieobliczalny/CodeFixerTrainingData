@@ -23,7 +23,7 @@ int main(void)
   unsigned char  Mix4F7;
   Mix4F7  =  -85714678;
   unsigned short  c03H;
-  c03H  =  -1113034296;
+
     unsigned short    Z841GizH_;
     Z841GizH_    =    2141640686;
   long double  f4m0B;
@@ -47,7 +47,7 @@ int main(void)
 	long double	yUS70zKB;
 	yUS70zKB	=	728906161;
   unsigned long long  CW03;
-  CW03  =  276819656;
+
  char u5WkZ76;
  u5WkZ76 = 1207500589;
  long double AsGgi7Ep9;
@@ -91,7 +91,7 @@ GXRqtx ^= 171065168;
 break;
 }
 
-p7o9V40G = (long)(E_XmeT88);
+
 if (Mix4F7 <= Z841GizH_)
 {
 
@@ -175,7 +175,7 @@ else
 }
 }
 
-yUS70zKB = (int)floor(P3_8HTt);
+
 {
 int i = 0;
 do

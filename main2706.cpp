@@ -34,7 +34,7 @@ long long  f6Okf73_c(unsigned long  GF2843X6aB)
 int main(void)
 {
   long double  GieZacr25;
-  GieZacr25  =  -1641252490;
+
 	unsigned char	tZX4QZd6Y;
 
 	short int	W7WFwBPl7;
@@ -46,7 +46,7 @@ int main(void)
  double Y_VSP;
  Y_VSP = 1248209985;
 	short	T0q3ka54_K;
-	T0q3ka54_K	=	-1320623805;
+
 	unsigned int	y7Wkn;
 
   long double  OMO4;
@@ -60,7 +60,7 @@ int main(void)
  int S7rVz3qY;
 
 	unsigned short int	a1bGn5jt2;
-	a1bGn5jt2	=	867485025;
+
     int    ArY8_y6A;
     ArY8_y6A    =    257233446;
     long double    jt_9L26n;
@@ -76,7 +76,7 @@ int main(void)
   unsigned short int  Uxl8rR;
 
   long long  yFLv4TW_J;
-  yFLv4TW_J  =  1721998036;
+
   unsigned long long  a8Vb50v;
   a8Vb50v  =  -1542839034;
     short int    D_l21yv9_;
@@ -90,7 +90,7 @@ int main(void)
     unsigned int    FfF72;
     FfF72    =    1182543217;
 	unsigned long long	cC32nm542j;
-	cC32nm542j	=	1445846651;
+
 	long double	mA4J_s3;
 
 	short int	F5jebMM62;
@@ -102,7 +102,7 @@ int main(void)
 	int	Wu5nHrL8;
 
   long double  kk7k;
-  kk7k  =  476838878;
+
 	short int	O7z47chY;
 	O7z47chY	=	-2119083224;
   double  uTZF6;
@@ -116,7 +116,7 @@ int main(void)
 	char	JlZ12;
 	JlZ12	=	1067510813;
 	unsigned int	W4kFFb;
-	W4kFFb	=	479192323;
+
     unsigned long long    BgQqJsd4;
 
     unsigned short int    hqmqD;
@@ -134,7 +134,7 @@ int main(void)
   long double  i2k5;
 
     unsigned long long    kzg_z_79m;
-    kzg_z_79m    =    -699958343;
+
  short int H88y;
  H88y = -129223455;
 	unsigned short	kE9oP6ew;
@@ -152,7 +152,7 @@ int main(void)
 	long	B0WiCD4;
 
     float    NYH084p;
-    NYH084p    =    654953133;
+
   long double  kelmAxR;
   kelmAxR  =  1486287192;
   unsigned int  Hd32m6r_I;
@@ -162,7 +162,7 @@ int main(void)
     short    IVB2JPi_Ho;
 
     float    CbrTA;
-    CbrTA    =    -641037350;
+
 	float	V0NUNCuzw;
 	V0NUNCuzw	=	733605226;
   double  X3_6H6;
@@ -208,7 +208,7 @@ int main(void)
 
 
 
-wPoNr = hqmqD / ryp23q(-1303918194, 861326394, -2064685815);
+
 
 
 
@@ -237,7 +237,7 @@ else if (I29l)
 {
 if (FMl83o != -958290323)
 {
-GieZacr25 = (int)ceil(X3_6H6);
+
 }
 else if (K6fmIDMv != 126699101)
 {

@@ -40,7 +40,7 @@ int main(int argc, char** argv) {
  long d_R_0RV__1;
  d_R_0RV__1 = -1564440638;
  long double V25ws4FDN2;
- V25ws4FDN2 = 2077521115;
+
   float  RUJA262;
 
     unsigned short int    uk4L2zoNTn;
@@ -52,7 +52,7 @@ int main(int argc, char** argv) {
     long    mv__;
 
   unsigned short  NOYw;
-  NOYw  =  272773762;
+
  int e9uWPr4;
  e9uWPr4 = 355807823;
  long double qS181B;
@@ -66,7 +66,7 @@ int main(int argc, char** argv) {
   long long  HIMT_3e736;
 
     short int    m55xV7;
-    m55xV7    =    -1251433084;
+
     short int    L_wfn3kY;
     L_wfn3kY    =    268134058;
     int    dW457;
@@ -84,7 +84,7 @@ int main(int argc, char** argv) {
   short int  kq12Vyn;
   kq12Vyn  =  -822569587;
  long JTL2pYJ_;
- JTL2pYJ_ = -1550285789;
+
     long double    z_2hA;
     z_2hA    =    -1993806974;
  unsigned long long z10VS9P67T;
@@ -118,7 +118,7 @@ int main(int argc, char** argv) {
  long long D81T36_diR;
 
     unsigned short int    HWGdw4B;
-    HWGdw4B    =    -682804945;
+
  int s8z82lF2n;
 
 	int	p__xw9ZX28;
@@ -176,7 +176,7 @@ int main(int argc, char** argv) {
 	long long	ZRDw5Dl4;
 
   long double  f9a79lh_J;
-  f9a79lh_J  =  1205393494;
+
 
 {
 int i = 3;
@@ -264,7 +264,7 @@ case 'a':
 
 break;
 case 'b':
-e9uWPr4 >>= 1334605256;
+
 break;
 default:
 qS181B = (int)floor(TgUibZLm4);
@@ -375,7 +375,7 @@ case 'F':
 break;
 case 'g':
 case 'G':
-V25ws4FDN2 = (int)floor(nBtIJk9x);
+
 break;
 case 'h':
 case 'H':

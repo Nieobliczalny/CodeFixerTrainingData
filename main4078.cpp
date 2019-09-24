@@ -42,7 +42,7 @@ qe7_ <<= 1919883977;
 break;
 case 'g':
 case 'G':
-ka1p3fzy *= 1934332786;
+
 break;
 case 'h':
 case 'H':

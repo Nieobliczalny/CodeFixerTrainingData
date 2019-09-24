@@ -28,7 +28,7 @@ int main(void) {
     double    q_9DYQQE_;
     q_9DYQQE_    =    477021686;
   float  F_5y43;
-  F_5y43  =  2005920200;
+
     double    jg9_Yuh;
 
 	long	w8l4A9hBZ5;
@@ -54,7 +54,7 @@ int main(void) {
     unsigned long long    IMt62Z3it;
     IMt62Z3it    =    1425588918;
  unsigned short li99mLSe;
- li99mLSe = 377525629;
+
   char  tYsXF;
   tYsXF  =  979860582;
     long long    N2T9qpi;
@@ -108,7 +108,7 @@ int main(void) {
     int    dv0iT;
     dv0iT    =    1364088358;
   long  XiwRs;
-  XiwRs  =  -166320788;
+
   short  f3753;
 
 	long	Kn7y;
@@ -532,7 +532,7 @@ case 'i':
 
 break;
 default:
-X2yE6S1VMT |= g6jb2;
+
 break;
 }
 }

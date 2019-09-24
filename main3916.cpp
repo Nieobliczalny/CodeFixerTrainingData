@@ -88,7 +88,7 @@ try
 {
 if ((dtHroZ & 83525631) && (J5_2d == -264737068))
 {
-PUEs = (unsigned long long)(QA0S);
+
 }
 }
 catch (int& errorCode)
@@ -346,7 +346,7 @@ else
 {
 if (dtHroZ <= 1806835936)
 {
-S0TTOSC = yqj3l72HBZ(-211409009);
+
 }
 else
 {
@@ -384,7 +384,7 @@ case 'd':
 
 break;
 case 'e':
-Cq_q5 = BYwI(766016205);
+
 break;
 case 'f':
 S83Mrq >>= VdNPYDdvN8;

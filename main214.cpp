@@ -64,7 +64,7 @@ int main(void)
 
 if (icm1reJq == 1578793941)
 {
-Sv6z = (unsigned long long)(DSz_t7Hd_s);
+
 }
 else if (cX_w <= -1279623223)
 {

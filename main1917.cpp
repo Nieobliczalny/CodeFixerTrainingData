@@ -32,7 +32,7 @@ int main()
 	long long	y2kSQV;
 	y2kSQV	=	1760527821;
   unsigned int  BoR38;
-  BoR38  =  420967914;
+
     short int    iPq02;
     iPq02    =    342854167;
 	unsigned char	PO18;
@@ -54,7 +54,7 @@ int main()
   unsigned long long  Wqsu;
 
 	short int	B_BCz;
-	B_BCz	=	-37548850;
+
  unsigned short int Qp7y;
 
   long  yZF8zq7183;
@@ -100,7 +100,7 @@ int main()
 	unsigned long long	e8F3I;
 
 	float	ff0d_R;
-	ff0d_R	=	1576503510;
+
  double gLIlcZ;
  gLIlcZ = -1677312660;
   long long  k4n4rS815;
@@ -158,7 +158,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-ff0d_R = (int)ceil(KK8nZgNd_8);
+
 break;
 case 'c':
 case 'C':
@@ -305,7 +305,7 @@ case 2:
 
 break;
 case 3:
-LnTgTmzREI = (int)ceil(YGqoYrR);
+
 break;
 case 4:
 y2kSQV += 199341593;

@@ -35,7 +35,7 @@ int main()
 	unsigned long long	nFTJjOTYi;
 
   float  XcpUUv__;
-  XcpUUv__  =  -1110183051;
+
  short int G4Mw3BQFk;
  G4Mw3BQFk = -1271432384;
     char    x_vI;
@@ -55,7 +55,7 @@ int main()
 	double	itNJxFzRi2;
 
   unsigned short int  dMgl8x;
-  dMgl8x  =  -1105043387;
+
   int  MK4z;
 
  long long vf09v9;
@@ -65,7 +65,7 @@ int main()
     unsigned short int    mvUmdYdaCZ;
 
 	long double	T0B668l6P5;
-	T0B668l6P5	=	1108220474;
+
  unsigned long vQPIL7j6B0;
 
 	char	q08ES;
@@ -81,7 +81,7 @@ int main()
  unsigned long XbzH7r;
  XbzH7r = -1317129271;
     long double    pn0U8ZE;
-    pn0U8ZE    =    2116970687;
+
 	unsigned int	C172rG2BF;
 
  short int wmz7YM1;
@@ -91,7 +91,7 @@ int main()
  long double uP0bv2;
  uP0bv2 = 1407832962;
 	short int	nRuh_X7Al;
-	nRuh_X7Al	=	1670541238;
+
   short  RQHa;
 
  unsigned short nh1_r62S_;
@@ -101,7 +101,7 @@ int main()
     short    Ixlc_Mj0;
     Ixlc_Mj0    =    976737306;
 	int	cF1d;
-	cF1d	=	2131038352;
+
  char or9z93;
  or9z93 = -2138887288;
     double    mXVFTE0Y;
@@ -113,7 +113,7 @@ int main()
  unsigned long nsCPf8n;
 
     int    KadYfNF7N;
-    KadYfNF7N    =    2143077188;
+
     short    geOn;
     geOn    =    -1828602384;
   unsigned int  iPs0Ey58w;
@@ -125,7 +125,7 @@ int main()
  unsigned long rUqd5i_BZ;
  rUqd5i_BZ = -2135313075;
 	unsigned long	gIp09eofV4;
-	gIp09eofV4	=	-1498225125;
+
  unsigned long Lbw9H3FyU6;
 
     unsigned short    Sk5EYi;
@@ -145,7 +145,7 @@ int main()
  char VfyEqEY93H;
 
  long l9uS;
- l9uS = 91651457;
+
   char  Xi8v83Y3HG;
 
  unsigned short MI0eqjyMME;
@@ -173,7 +173,7 @@ int main()
  unsigned short clVIfV2Q4Y;
 
 	unsigned short	T5pVmFG;
-	T5pVmFG	=	-508758242;
+
 	long	RSPl4fx;
 	RSPl4fx	=	-1824833765;
  long A1x9;
@@ -185,7 +185,7 @@ int main()
  double Jz_Qtc;
 
 	unsigned long long	KtiNtx;
-	KtiNtx	=	675461460;
+
     long double    F0EO;
     F0EO    =    1719060457;
  float OAEJ;
@@ -199,7 +199,7 @@ int main()
 	unsigned short	brUoa1;
 
     long long    lg_Yxf3TDM;
-    lg_Yxf3TDM    =    1963071503;
+
 	long	nhq8VDiI7;
 
  long double s_qQ;
@@ -254,7 +254,7 @@ case 'c':
 
 break;
 case 'd':
-Ean3 = (int)floor(Y5L69);
+
 break;
 case 'e':
 
@@ -266,7 +266,7 @@ case 'g':
 
 break;
 case 'h':
-T0B668l6P5 = (int)ceil(Y5L69);
+
 break;
 default:
 

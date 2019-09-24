@@ -109,7 +109,7 @@ if (Aou12 & e__o9E8)
 int k = 10;
 do
 {
-rWNw = (int)floor(Jg_ej68);
+
 k--;
 }
 while (k >= 0);
@@ -273,7 +273,7 @@ case 6:
 
 break;
 case 7:
-NxG60kWL = (int)abs(j6d16_C);
+
 break;
 case 8:
 

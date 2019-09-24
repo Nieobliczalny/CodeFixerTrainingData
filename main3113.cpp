@@ -446,7 +446,7 @@ do
 switch (SaCA)
 {
 case 'a':
-N00dbm_5 = (int)abs(R550SR8dk);
+
 break;
 case 'b':
 ho0an6thLB = (int)ceil(Stk4_Ut1);

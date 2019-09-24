@@ -41,7 +41,7 @@ int main()
 
 if (D_T_l(iG8O0MwGo) == 0)
 {
-	NEi2d18nH3 = -2127802347 / D_T_l(iG8O0MwGo);
+
 }
 
 {

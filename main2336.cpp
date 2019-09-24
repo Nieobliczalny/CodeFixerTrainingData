@@ -145,7 +145,7 @@ else
 }
 
 
-FW5So87_ = (int)(a76BTge5TS * FW5So87_);
+
 for (int i = 7; i >= 0; i--)
 {
 try
@@ -223,7 +223,7 @@ case 'c':
 
 break;
 case 'd':
-ElXJr -= lRz8wq5k7c;
+
 break;
 case 'e':
 

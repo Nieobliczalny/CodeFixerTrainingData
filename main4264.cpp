@@ -268,7 +268,7 @@ case 'e':
 
 break;
 case 'f':
-h7SLJEP = (int)floor(I_XqutZw);
+
 break;
 case 'g':
 

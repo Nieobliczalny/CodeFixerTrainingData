@@ -286,7 +286,7 @@ case 5:
 i4w_QFJh = hkQHE118I(Eh5d, -1278871524, 1910261921, JhfsG4nr, 550045354);
 break;
 case 6:
-x8_WQZYXT = (int)abs(QNcnA_LKI);
+
 break;
 case 7:
 

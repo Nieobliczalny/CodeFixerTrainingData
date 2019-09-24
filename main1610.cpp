@@ -69,7 +69,7 @@ else if (zg22 != NArQy_9ekk)
 }
 else
 {
-i36_T3qzZ = d4_x60();
+
 }
 }
 }

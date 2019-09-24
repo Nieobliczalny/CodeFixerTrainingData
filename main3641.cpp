@@ -310,7 +310,7 @@ std::cout << EfiHwb1996(SV0m1Op_y) << oY71G7qU() << std::endl;
 }
 else if (yh2Js51_ & 2079439782)
 {
-jmU64 = lJHcS2(jmU64, 874547376, -1391711385, 987136836);
+
 }
 else if (im863 & v8DpXU9)
 {

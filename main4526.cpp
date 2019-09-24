@@ -72,7 +72,7 @@ int main(void)
  unsigned int zGv1VFa;
 
     long double    rw8ji;
-    rw8ji    =    1614291429;
+
 	char	dp_BY;
 
     unsigned long    yO2taJD;
@@ -356,7 +356,7 @@ case 1:
 
 break;
 case 2:
-rw8ji = (int)floor(gpM6);
+
 break;
 case 3:
 

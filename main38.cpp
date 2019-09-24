@@ -66,7 +66,7 @@ int main(int argc, char** argv)
   char  hqYV7;
 
     long long    LOBsd8d;
-    LOBsd8d    =    389587939;
+
 	unsigned int	XNOPSl;
 	XNOPSl	=	1114557102;
     int    Zk0Z;
@@ -88,7 +88,7 @@ int main(int argc, char** argv)
  long long C70uhp5UJZ;
  C70uhp5UJZ = -394988095;
  unsigned short int o3Pzp;
- o3Pzp = 1274650308;
+
     unsigned long    l7YwFM;
     l7YwFM    =    942345232;
     int    Zz3RJkt;
@@ -138,7 +138,7 @@ int main(int argc, char** argv)
 	long long	kqVEKU_yo2;
 
   unsigned char  nql47V2b;
-  nql47V2b  =  247352665;
+
   double  Ng0zc38NG;
 
   long long  cF9Qi;
@@ -162,7 +162,7 @@ int main(int argc, char** argv)
   unsigned int  ENI8T7SZd;
 
     unsigned int    do7H;
-    do7H    =    1169905852;
+
     unsigned short int    bdu7;
     bdu7    =    -1515958981;
     char    O2R79q6;
@@ -209,7 +209,7 @@ case 4:
 
 break;
 default:
-d1W16 = (int)abs(i7OB7t1B);
+
 break;
 }
 }

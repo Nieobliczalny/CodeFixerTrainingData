@@ -179,7 +179,7 @@ case 5:
 
 break;
 default:
-HIZ8S |= hGAAe3U;
+
 break;
 }
 }
@@ -307,7 +307,7 @@ Enxfpy = (int)ceil(xJxjUIY6_J);
 break;
 case 'b':
 case 'B':
-jiyPi = (int)floor(Enxfpy);
+
 break;
 case 'c':
 case 'C':
@@ -338,7 +338,7 @@ while (i >= 0);
 
 if (UGduX & FO9K514)
 {
-FO9K514 -= k523m7D4e;
+
 }
 else
 {

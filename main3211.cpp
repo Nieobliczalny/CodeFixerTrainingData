@@ -20,7 +20,7 @@ int main(int argc, char** argv)
  short int Fd76yB0_R;
  Fd76yB0_R = 2100493803;
     short    bfWW;
-    bfWW    =    983972011;
+
   long long  k5R07I24;
 
     long double    Bo5y3si11g;
@@ -58,7 +58,7 @@ int main(int argc, char** argv)
  long long Z8oupQ;
 
   short int  EZ1_4C24QO;
-  EZ1_4C24QO  =  -746716635;
+
   float  kD7G1338b2;
   kD7G1338b2  =  1869977158;
     unsigned char    iOWj3jB;
@@ -134,7 +134,7 @@ int main(int argc, char** argv)
 	short int	T9WfZlY;
 
     long double    fOz3zOVp3J;
-    fOz3zOVp3J    =    -1424457497;
+
   unsigned int  mkdUNy;
   mkdUNy  =  -167854570;
  long double OmE_;
@@ -150,7 +150,7 @@ int main(int argc, char** argv)
  long double U_YI8lUgv;
  U_YI8lUgv = -1403898431;
  float Kpw6;
- Kpw6 = 521127198;
+
     long long    fUhBa_x;
     fUhBa_x    =    -2117962357;
 	long double	th4_;
@@ -530,7 +530,7 @@ case 'b':
 
 break;
 case 'c':
-th4_ = (int)floor(eXhF27);
+
 break;
 case 'd':
 

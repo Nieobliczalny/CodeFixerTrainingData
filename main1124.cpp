@@ -23,7 +23,7 @@ int main(void)
   ojqmf1t  =  0;
 
 	char	j_9X0,	CbK33DE,	lm7fgoTV05,	mPIlOzc11u,	n__809QPm,	UwRP,	ze18_,	WOw0,	G17L6,	d34x,	y8A49_l_E,	K41j8zf,	W0226f9A4Z,	ju27lb,	LzVXH6,	PAda3,	y8APzf,	i6o0Y0OWG,	ely_2,	abH_IZ2,	TV1d25,	l0uCso4OR,	pFWC99Tu_,	I4qC,	w4v7Sb4,	SV88a,	BU6hk3tx,	h53Z_,	r04EW8,	F3PTD6Hn8y,	o1FZaIiy0_,	eWZX,	pNJpz,	yOKnWlV3V5,	w4u09ZE,	se11nwre3z,	yx1C,	bXyc,	XMvi8,	SU9kH,	ko98L5T,	ie14x,	UBgfq_Ll78,	tSx2im4,	YFcgu0x,	JN8uW,	t9mwcpI6zI,	P8ngR2XW54,	Q1Ml3o,	z5pEU,	lj_f0d_kPL,	WSzicjHo,	D66N8gv,	sgm3iBjy,	z9LKP650,	Q1CL,	cg9_uhTdd,	bmj5,	xveNM2Cwd0,	x5p3s8SX,	ZTd4n,	rX8I90,	ob3EX4_J,	l0Ue6sF,	uHnpPYp_,	mMM8KnMj8,	U0bHl,	s2I9PG5,	VRx7BWd2yB,	PjP04BDx,	uy_1,	D_Y7P1_,	Q8T0676s,	bf940q1z6,	w38BNJMU,	tJMWzzim;
-	j_9X0	=	-1826950315;
+
 	CbK33DE	=	949354992;
 	lm7fgoTV05	=	1657387308;
 	mPIlOzc11u	=	-1346330011;
@@ -33,7 +33,7 @@ int main(void)
 	WOw0	=	487167794;
 
 	d34x	=	-1265718143;
-	y8A49_l_E	=	58051282;
+
 	K41j8zf	=	1645710149;
 	W0226f9A4Z	=	477214315;
 	ju27lb	=	-921249198;
@@ -45,7 +45,7 @@ int main(void)
 	abH_IZ2	=	1439884464;
 
 	l0uCso4OR	=	769944286;
-	pFWC99Tu_	=	1562009174;
+
 	I4qC	=	1045865443;
 	w4v7Sb4	=	149731869;
 
@@ -57,7 +57,7 @@ int main(void)
 	eWZX	=	86867087;
 
 	yOKnWlV3V5	=	1073044680;
-	w4u09ZE	=	988949039;
+
 
 	yx1C	=	-407982144;
 	bXyc	=	-790387739;
@@ -67,7 +67,7 @@ int main(void)
 	ie14x	=	2143080858;
 	UBgfq_Ll78	=	-1231272919;
 
-	YFcgu0x	=	1798687891;
+
 
 	t9mwcpI6zI	=	-528613706;
 	P8ngR2XW54	=	-1237764622;
@@ -79,7 +79,7 @@ int main(void)
 	sgm3iBjy	=	882718114;
 
 
-	cg9_uhTdd	=	1523058860;
+
 	bmj5	=	-773890029;
 	xveNM2Cwd0	=	415133800;
 	x5p3s8SX	=	76080048;
@@ -97,7 +97,7 @@ int main(void)
 
 	Q8T0676s	=	1537528782;
 	bf940q1z6	=	459066017;
-	w38BNJMU	=	-471771042;
+
 	tJMWzzim	=	-814583690;
 
 eWZX = k4n_zs(eWZX, 1125213083, ely_2, 313172197);
@@ -125,7 +125,7 @@ break;
 }
 
 
-U0bHl = Ku_5MS();
+
 
 cout << ojqmf1t << "wSBA" << tJMWzzim << yOKnWlV3V5 << ie14x << endl;
 
@@ -158,7 +158,7 @@ case 'g':
 
 break;
 default:
-U0bHl = (int)abs(PjP04BDx);
+
 break;
 }
 }

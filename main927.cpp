@@ -38,7 +38,7 @@ int main(void) {
     unsigned char    HeY7l8tD6p;
 
     char    fyVuJo29Gb;
-    fyVuJo29Gb    =    233312882;
+
 	int	c728vbtb8;
 	c728vbtb8	=	1292646795;
  short int r6WTv1G_;
@@ -72,7 +72,7 @@ int main(void) {
 	unsigned long	B9K4c1V64e;
 
   unsigned short  VoLxA;
-  VoLxA  =  -1708638037;
+
     unsigned int    HB374Y2yG;
 
     unsigned short int    IKB_bD;
@@ -174,7 +174,7 @@ int main(void) {
     unsigned long long    fVR9387;
 
  long double aP1uB2_Ns;
- aP1uB2_Ns = 1645021037;
+
     unsigned int    WB510ls;
     WB510ls    =    -948923387;
 	unsigned short	hIlRrJZc4;
@@ -391,7 +391,7 @@ case 3:
 
 break;
 case 4:
-hIlRrJZc4 |= u83J;
+
 break;
 case 5:
 
@@ -463,7 +463,7 @@ break;
 
 muggkfA = aGrwyu | O8qw6l;
 
-o213Tq0 = (int)floor(VoEfc);
+
 for (int i = 0; i < 1; i++)
 {
 if (((lP133 >= -1242859877) && (drCsW > 990163963)) && ((yZ4ewp5Z09 != -506956907) || (muggkfA)))

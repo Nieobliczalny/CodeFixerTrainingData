@@ -89,7 +89,7 @@ for (int j = 0; j < 8; j++)
 switch (ZiJiM)
 {
 case 'a':
-AXnU3 = FgN15_ >> pc2j;
+
 break;
 default:
 
@@ -163,7 +163,7 @@ case 'c':
 
 break;
 case 'd':
-c_K1j = (int)abs(AIRl);
+
 break;
 case 'e':
 
@@ -211,7 +211,7 @@ case 2:
 
 break;
 case 3:
-c_K1j = XT1G6Wt(417967571, -977147765, 880282051, kz8MP5tK, -651809758);
+
 break;
 case 4:
 
@@ -223,7 +223,7 @@ case 6:
 
 break;
 default:
-jlxsHOu = kl44le(jlxsHOu, a0umaXDwVs, unU_KL1UL, GA_frox);
+
 break;
 }
 }

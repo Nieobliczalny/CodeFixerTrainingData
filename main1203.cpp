@@ -55,7 +55,7 @@ int main(int argc, char** argv)
 	short int	ZMz98b4;
 
  unsigned long long cCNyH0hjA8;
- cCNyH0hjA8 = -1232128572;
+
   unsigned int  SU8O4cPS;
   SU8O4cPS  =  -1198103791;
  short int u2C3B1d5y;
@@ -123,7 +123,7 @@ int main(int argc, char** argv)
  unsigned short BR47nbh4A;
 
 	float	Ov09;
-	Ov09	=	634067515;
+
  unsigned long long sgP0;
  sgP0 = -578859536;
  unsigned short int Y2M2z;
@@ -161,7 +161,7 @@ case 'a':
 
 break;
 case 'b':
-Ov09 = (int)floor(J9A6Nb9);
+
 break;
 case 'c':
 
@@ -355,7 +355,7 @@ cout << "WQ68" << "HyR_wi" << "b6Kq4w9" << endl;
 
 if (((Ve6c >= RJkk590r) || (HE_Rt & 912897177)) && ((doe43Qpc0o < 1026865332) || (YL7ENe == 1522810560)))
 {
-Ov09 = (int)abs(UO7CtaG3c5);
+
 }
 else
 {
@@ -464,7 +464,7 @@ cout << TT8B9j << ZrS2sJ << YL7ENe << endl;
 
 
 
-IU6FLM7 = (unsigned short int)(hGP_);
+
 
 
 

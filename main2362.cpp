@@ -94,7 +94,7 @@ switch (s99Abff)
 {
 case 'a':
 case 'A':
-LuN1c27 = tdSs3y11(665864326);
+
 break;
 case 'b':
 case 'B':
@@ -184,7 +184,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-bT7z += 1782116153;
+
 break;
 case 'g':
 case 'G':
@@ -216,7 +216,7 @@ case 0:
 
 break;
 case 1:
-qz_4JWCL_e = IcY858eU(qz_4JWCL_e, 295319278, l0TCq03M9);
+
 break;
 case 2:
 

@@ -463,7 +463,7 @@ std::cout << Zxp76R / JzP5nnMy(1968177153, R01K) << std::endl;
 
 TnE10ygtv = (float)(hTCZSx90);
 
-vGON = (int)floor(hNtPT19q);
+
 
 
 std::cout << ddqxo68 << std::endl;

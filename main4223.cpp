@@ -185,7 +185,7 @@ j--;
 }
 else if ((gx_9QY6ta >= l_6Ph_g2s) || (GO4TJ == W5KyU7_pHM))
 {
-V9sGm04w = (long double)(BsLxK1tl);
+
 }
 else
 {
@@ -224,7 +224,7 @@ break;
 }
 else if (t99k_1B83I < -435791019)
 {
-V9sGm04w = (long double)(W5KyU7_pHM + (-788261363));
+
 }
 else if ((X71v2bq == W5KyU7_pHM) && (B379QL9))
 {

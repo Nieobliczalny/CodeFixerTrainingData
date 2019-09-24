@@ -40,7 +40,7 @@ int main() {
  int P8IVRUmx5D;
 
     unsigned long long    petL65b;
-    petL65b    =    2140837807;
+
     short    L8ik;
 
  long YEKEoeB9ul;
@@ -54,7 +54,7 @@ int main() {
 	unsigned short	xAc070;
 
     short int    u4iKUbfm;
-    u4iKUbfm    =    -420227136;
+
 	long	upp6;
 
 	long	oubemhkBs;
@@ -70,7 +70,7 @@ int main() {
 	int	tAqho05;
 	tAqho05	=	0;
     unsigned short    t_Z1caY;
-    t_Z1caY    =    981323336;
+
 	unsigned char	ob6E9AX2;
 	ob6E9AX2	=	945820168;
     char    BDf3D;
@@ -124,7 +124,7 @@ int main() {
     unsigned char    Z9982N59_F;
 
 	unsigned long long	XL711;
-	XL711	=	-1779614040;
+
   unsigned int  aqLu;
   aqLu  =  0;
 	unsigned int	L8IM;
@@ -134,7 +134,7 @@ int main() {
   int  lma1D_;
 
     float    yS2aT2;
-    yS2aT2    =    1443351043;
+
 	double	U2XP16H;
 	U2XP16H	=	-1655359021;
  double uZT_j7N;
@@ -150,7 +150,7 @@ int main() {
 	unsigned long	QghV;
 
   double  h6w8i;
-  h6w8i  =  1584132882;
+
   unsigned long long  qwP62zE;
   qwP62zE  =  -1152462774;
     short    niIdBACd;
@@ -390,7 +390,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-oFHb_5y += U2XP16H;
+
 break;
 default:
 
@@ -401,7 +401,7 @@ break;
 
 
 cout << nNgNJNETu() / aqLu << endl;
-d0Mx4oPSo *= BB4f;
+
 
 return 0;
 }

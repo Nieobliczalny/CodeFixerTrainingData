@@ -331,7 +331,7 @@ while (k >= 0)
 }
 else if (HA6LXP_lW5 != -1704041792)
 {
-v10p6a3TL6 = (int)abs(C0Ymx7);
+
 }
 else
 {

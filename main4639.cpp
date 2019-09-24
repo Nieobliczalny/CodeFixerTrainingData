@@ -140,7 +140,7 @@ case 1:
 V8hk2G_1W8--;
 break;
 case 2:
-SC77HV00 %= 927117578;
+
 break;
 case 3:
 LI70 = vGJci5 ^ 1915273732;
@@ -224,7 +224,7 @@ else if (g6Knp8m >= VAwYnFuZ5_)
 }
 else if (BoRYj3yal != -1361775663)
 {
-VAwYnFuZ5_ = DU3c7 ^ Jf0Eoe63;
+
 }
 else
 {
@@ -392,7 +392,7 @@ case 2:
 
 break;
 case 3:
-T0z4h3 += WVNi0plzj;
+
 break;
 case 4:
 
@@ -404,7 +404,7 @@ case 6:
 
 break;
 case 7:
-xMof = DsXdz % 1494544113;
+
 break;
 case 8:
 

@@ -387,7 +387,7 @@ case 6:
 
 break;
 case 7:
-i7vyj34ZM1 = (int)floor(dk3p);
+
 break;
 default:
 I7Eg6 /= o2_uE3;

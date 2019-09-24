@@ -389,7 +389,7 @@ do
 {
 try
 {
-Q2UknyRxGd = CiAvckaVfz / 1402008625;
+
 }
 catch (int& errorCode)
 {

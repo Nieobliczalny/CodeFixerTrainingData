@@ -262,7 +262,7 @@ case 'c':
 
 break;
 case 'd':
-TjTo %= 61002154;
+
 break;
 case 'e':
 

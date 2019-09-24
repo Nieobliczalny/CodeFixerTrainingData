@@ -172,7 +172,7 @@ case 'f':
 
 break;
 case 'g':
-HhXe2 = Fc6y - gXkUDmh;
+
 break;
 case 'h':
 

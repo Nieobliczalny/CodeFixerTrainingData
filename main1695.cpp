@@ -39,7 +39,7 @@ int main(void)
   VF76G  =  -1483216946;
   y7K3  =  -473232551;
 
-  P6__RcE8Wy  =  430061688;
+
   b0kuhF  =  640499102;
   S7C0T  =  392195695;
   q5Vc_3  =  2057478286;
@@ -89,7 +89,7 @@ case 3:
 QJLDXWXn = f7Ba4N(zJ23Euu6iM, JOXtX, -424357400, 710786027, WKCs);
 break;
 case 4:
-P6__RcE8Wy = Pjt77 * 1358104146;
+
 break;
 case 5:
 cquH6A %= 1762873658;
@@ -204,7 +204,7 @@ int k = 7;
 do
 {
 k--;
-Pjt77 = O5ba22eDQ % u8795h279I;
+
 }
 while (k >= 0);
 }
@@ -264,7 +264,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-QJLDXWXn = f7Ba4N(C7Uv, -33109970, o38QhX0_B, -222366663, QJLDXWXn);
+
 break;
 case 'e':
 case 'E':
@@ -295,7 +295,7 @@ case 2:
 
 break;
 case 3:
-aBoK = y_sI(-112339455, y7K3, Mz32MQKCC4);
+
 break;
 case 4:
 

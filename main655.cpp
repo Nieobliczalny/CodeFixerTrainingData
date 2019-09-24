@@ -32,7 +32,7 @@ int main(int argc, char** argv) {
 	int	jI8Mr4y9KY;
 
   char  OQ7lpmLqX2;
-  OQ7lpmLqX2  =  -2017530905;
+
   unsigned int  H04lD_6;
 
     long    px8_;
@@ -42,7 +42,7 @@ int main(int argc, char** argv) {
 	float	S8ul_9aEyp;
 	S8ul_9aEyp	=	96389261;
     float    JKy14Ro5;
-    JKy14Ro5    =    1013413186;
+
   double  R5Q7mfZz3k;
 
 	unsigned int	t0W2;
@@ -68,7 +68,7 @@ int main(int argc, char** argv) {
   double  XOG_5PS5x3;
   XOG_5PS5x3  =  -1107164652;
     unsigned long    PBnAxvO;
-    PBnAxvO    =    1529295774;
+
 	long	IZqmC1a;
 
 	char	yj1HB01aGE;
@@ -110,7 +110,7 @@ int main(int argc, char** argv) {
  double gzaYXv_QF;
 
  double Xk6WM1d;
- Xk6WM1d = 1954714373;
+
   long  ham3Mpf;
 
 	unsigned long	zDZn;
@@ -124,7 +124,7 @@ int main(int argc, char** argv) {
 	short int	hrCSk;
 	hrCSk	=	-232292756;
 	unsigned char	cCaVU9d;
-	cCaVU9d	=	1038184293;
+
     long double    y76iM;
 
   unsigned char  Hv4m162;
@@ -179,7 +179,7 @@ case 8:
 
 break;
 case 9:
-v1_F ^= 1948470618;
+
 break;
 }
 }
@@ -202,7 +202,7 @@ case 2:
 
 break;
 case 3:
-JKy14Ro5 = (int)floor(Ol0M);
+
 break;
 }
 }

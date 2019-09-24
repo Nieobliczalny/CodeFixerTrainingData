@@ -24,7 +24,7 @@ int main() {
 	jP4ef5a	=	57709741;
 
 
-	PUC26H1	=	-336201428;
+
 	F75U	=	-877975715;
 	L3rmNkU67	=	-639660679;
 	PUKW3R	=	-1350890319;
@@ -35,7 +35,7 @@ int main() {
     AA9R    =    0;
 
 
-    D92iu    =    0;
+
 
 cout << jP4ef5a / AA9R << endl;
 

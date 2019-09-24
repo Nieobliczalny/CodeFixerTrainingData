@@ -141,7 +141,7 @@ case 'b':
 
 break;
 case 'c':
-gVNTAHxJ1 = fZ3658a % T6YYg;
+
 break;
 case 'd':
 kIX2 = (int)ceil(Rh5AO);
@@ -323,7 +323,7 @@ std::cout << "KhnDV0azj_" << "vLa88HLv4" << "lU851V2" << kQ__V << std::endl;
 
 
 
-rbgd3_9L = (unsigned short)(Y3yB + (87424035));
+
 
 
 return 0;

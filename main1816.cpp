@@ -99,7 +99,7 @@ int main(void) {
  unsigned long long XkJk0PcH;
  XkJk0PcH = 1745216250;
  int aLa_o;
- aLa_o = -45535980;
+
  unsigned short ZYmUvE;
  ZYmUvE = -447248363;
   long  I3_u50O;
@@ -127,7 +127,7 @@ Op38 = (int)floor(uE8tdz5Mb);
 AY5iIk4tS_ = wpLijI8B6(AY5iIk4tS_, Q_28wvV7, F8nzW0F, -1143110312, -1886310261);
 if (c9YbO10I <= l3Qf0)
 {
-yoX_a = (int)ceil(Njs8Y88C);
+
 }
 else if (XkJk0PcH & o8MXCd)
 {

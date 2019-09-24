@@ -209,7 +209,7 @@ if (((S2wz != -1975304661) && (dBBpH7G903 <= -692504526)) && ((kyE_E6r7f) && (SD
 switch (X_u5G2He4)
 {
 case 0:
-wh3mki8w = YfR0wM << Lg53Npk;
+
 break;
 case 1:
 kyE_E6r7f %= DSXq248;
@@ -473,7 +473,7 @@ else
 {
 
 }
-ElIY *= kvy4C8EF6e;
+
 
 if (((t219 <= 1267952719) || (Pd9CD != Vo5h_80uA)) || ((Q_7Tbj >= 1269945306) || (CdYa4 == fHtI9u)))
 {

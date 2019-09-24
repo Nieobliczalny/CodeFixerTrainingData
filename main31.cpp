@@ -49,7 +49,7 @@ int main(int argc, char** argv) {
 
     HaMmt37S4    =    -455827804;
     CE18    =    -791250446;
-    doB2Nx    =    -205277885;
+
     E7qcze5    =    -616345406;
 
 
@@ -59,7 +59,7 @@ int main(int argc, char** argv) {
     O90tyj_    =    423816914;
 
     myL5W    =    371471014;
-    lYi2AUNUb_    =    -1402238086;
+
     zwilG4uUZ    =    -1993385383;
     Jzt85n    =    -143623033;
     n2AY5o38    =    302605211;
@@ -72,7 +72,7 @@ int main(int argc, char** argv) {
 
     cas7PS    =    -49155636;
     Bu__mcX_d9    =    47084544;
-    b_oM5IdF    =    -189818106;
+
     v924NMMqXh    =    1753791433;
     nUlV    =    -1729747494;
     qzdqmop    =    1664946065;
@@ -83,7 +83,7 @@ int main(int argc, char** argv) {
 
     d_Bma5    =    -920284956;
     OIhR65_16F    =    -1250720057;
-    Jl7Q0    =    -326802223;
+
     aR40_ejV_D    =    1933526153;
     bgUnWd_    =    -357447921;
     F6y8u76A    =    -1720447857;
@@ -93,7 +93,7 @@ int main(int argc, char** argv) {
 
 
     ZzsQ4    =    1582248709;
-    F717SN9q    =    -1554172442;
+
     Jelgcw0    =    -1599550616;
     c063W_Wb    =    1503740757;
     DUTY9_0    =    758254037;
@@ -147,7 +147,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-F717SN9q = VgpcE(1007301400);
+
 break;
 case 'd':
 case 'D':

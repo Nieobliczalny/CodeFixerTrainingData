@@ -42,7 +42,7 @@ case 'a':
 R4l4EmI = (int)abs(S65h);
 break;
 case 'b':
-AfBV = Ta08K ^ 1371310130;
+
 break;
 case 'c':
 TdFpJ7zH >>= cxXSY1;
@@ -107,7 +107,7 @@ case 2:
 
 break;
 case 3:
-LbYlR6VnL4 = BMd601(LbYlR6VnL4, bw5elQ);
+
 break;
 default:
 caZnO7fhNr &= A70Iz62;
@@ -276,7 +276,7 @@ else if (DoI3R5 > DdO_z1)
 }
 else
 {
-lB_6n = BMd601(lB_6n, 733508956);
+
 }
 }
 else if ((QuI8FoQ & 2031327564) || ((hQSWOk8GAp >= 78673437) && (o682 >= -529998606)))

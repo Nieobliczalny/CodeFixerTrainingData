@@ -485,7 +485,7 @@ case 'd':
 M3cBULdWV = O68_857Un * n8tqUC45;
 break;
 case 'e':
-oGaL57MpBF = (int)ceil(O68_857Un);
+
 break;
 case 'f':
 mkh9y++;

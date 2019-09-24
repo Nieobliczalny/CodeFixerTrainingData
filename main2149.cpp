@@ -319,7 +319,7 @@ case 6:
 
 break;
 case 7:
-T7Scm = GssM ^ 1600184314;
+
 break;
 default:
 mRykIjA6++;

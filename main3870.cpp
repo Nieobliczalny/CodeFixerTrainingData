@@ -22,7 +22,7 @@ int main(void)
 
 
 
-  Y1Yf  =  2064456932;
+
   J8D43f  =  -859508877;
   CA34  =  -601515585;
   r34Wo3A  =  -1003902388;
@@ -34,7 +34,7 @@ int main(void)
   bxN8O  =  1588489675;
 
 
-  Z7eRPlKQ  =  1282376409;
+
   M7_ucYrL  =  2037042347;
   oWNyq6  =  1903586122;
   dK98SSnJB1  =  691152182;
@@ -45,7 +45,7 @@ int main(void)
 
 
   mz4n7W4  =  1868809012;
-  MDiCJFdZ4  =  2088276757;
+
  unsigned int kdTHgb6, JOcYWv, hFB3FYHN_T, juZ3OqtP;
  kdTHgb6 = 0;
  JOcYWv = 0;

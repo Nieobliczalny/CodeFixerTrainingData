@@ -255,7 +255,7 @@ case 6:
 
 break;
 case 7:
-vDdI = Q8U99(CXxfL_Et);
+
 break;
 case 8:
 

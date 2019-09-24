@@ -38,7 +38,7 @@ int main(int argc, char** argv)
     unsigned short int    r04_7;
     r04_7    =    -571668190;
   long long  ZN24UP8Q0;
-  ZN24UP8Q0  =  1562984960;
+
 	long	r0tdJ8nNW;
 	r0tdJ8nNW	=	0;
 	long long	C_sUVh;
@@ -293,7 +293,7 @@ q6sGpfap = (int)abs(MeC4g);
 while (i >= 0);
 }
 
-cKR2DtN3 = zj03B0 * RcL00NIy1;
+
 
 if (((ea5m6NWNPu > -899569143) || (eI0_ & o_6967A)) && ((vpnx >= o_6967A) && (ykjZ <= o_6967A)))
 {
@@ -355,7 +355,7 @@ case 3:
 
 break;
 case 4:
-ZRdwQA = gY396(-1949375837, lA3Zx78);
+
 break;
 case 5:
 
@@ -397,7 +397,7 @@ case 2:
 
 break;
 case 3:
-OQ4w1G4E4_ = df57S9w3S(OQ4w1G4E4_, 2092507047);
+
 break;
 case 4:
 
@@ -409,7 +409,7 @@ case 6:
 
 break;
 case 7:
-eI0_ = o_6967A + C_sUVh;
+
 break;
 case 8:
 VJ7z_2 = q2e_xhhYE << q6sGpfap;
@@ -444,7 +444,7 @@ case 'a':
 
 break;
 case 'b':
-wOy8O0F /= l2j7;
+
 break;
 case 'c':
 wOy8O0F = (int)floor(ykjZ);
@@ -459,7 +459,7 @@ case 'f':
 
 break;
 case 'g':
-zN1M = gY396(w18Y, tFBm6O);
+
 break;
 case 'h':
 
@@ -477,7 +477,7 @@ case 'c':
 
 break;
 case 'd':
-BL9B2z6 = (int)ceil(I9LZ);
+
 break;
 case 'e':
 

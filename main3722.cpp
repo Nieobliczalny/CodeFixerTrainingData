@@ -17,7 +17,7 @@ int main(void) {
 
 
 
-  p97CzW  =  -1948145119;
+
   cerj_  =  1708921867;
   LlCsR26  =  1102136086;
   FzT95u_9  =  783971125;
@@ -30,7 +30,7 @@ int main(void) {
 
   CN4Q_4sEb9  =  -2071704343;
   pt5fLMcjhp  =  2116779226;
-  HHDTS2  =  1320583392;
+
   i_61p_3tk  =  1558857465;
   GoprQVbZYU  =  1259834692;
   Qa4ReB47R  =  -285159122;
@@ -41,7 +41,7 @@ int main(void) {
   B14xZD200X  =  325826348;
   dXKWcci1P  =  1607783540;
   QLg090D7w  =  -2093569857;
-  AzUk5_3T  =  -1519418455;
+
   s4VP5P  =  -837585608;
   A7L88  =  -999963667;
   MGHd646  =  1823871636;
@@ -51,7 +51,7 @@ int main(void) {
   txFI2Do  =  1424890478;
   sR3_UvBTK  =  -1060146850;
 
-  TM9bURlz  =  -1853267978;
+
   D8ivH6isa  =  1555799462;
   r_blLY2Ft  =  1937300870;
   ArcCXIC  =  -1305596659;
@@ -62,7 +62,7 @@ int main(void) {
   vn48rLD3  =  280212777;
   qq77r1T6_W  =  -494195808;
 
-  D9N0  =  431064513;
+
   ZyX4QJ_Wc  =  -483488408;
   ZddOP  =  167381711;
   Dj49431  =  -321456889;
@@ -72,7 +72,7 @@ int main(void) {
 
   GkP7AAAWtj  =  1817455383;
 
-  nOMKftU  =  1735084153;
+
   wLcs7JydN  =  873200846;
   z0l3x  =  357496720;
   R_Ui  =  -1323646411;
@@ -82,7 +82,7 @@ int main(void) {
 
   DV_S3IC  =  1992185426;
 
-  Xut6TwmdG  =  -798856703;
+
   k3w2ZwW  =  -1068782475;
   JGU6P6VZg  =  473372614;
   LE09GDme  =  -33742218;
@@ -92,7 +92,7 @@ int main(void) {
 
   l8nah_N_6  =  -1261949718;
 
-  KvrE8  =  1072595689;
+
   x_Q6EVn_1y  =  -1841940979;
   nT_olwEeK  =  -650361155;
   L4N4KHGb  =  361220281;
@@ -103,7 +103,7 @@ int main(void) {
   wot961lxf4  =  -118202606;
   e8tP8m  =  -110149757;
 
-  aZFAxOn2  =  -123715550;
+
  char p4jHXE6a36, OYcyON, dzdKvDeV5, J0mO, uQD3086D9;
  p4jHXE6a36 = 0;
  OYcyON = 0;
@@ -123,7 +123,7 @@ int i = 5;
 while (i >= 0)
 {
 --i;
-LlCsR26 = (long double)(miX1B3aHhO + (KG2Do_i));
+
 }
 }
 
@@ -200,7 +200,7 @@ case 1:
 KKDkP2 = ZyX4QJ_Wc + Rn5g099bt;
 break;
 case 2:
-EaW4M3_3 = ZddOP / Ku0P;
+
 break;
 case 3:
 SRFEa -= pt5fLMcjhp;
@@ -221,7 +221,7 @@ case 8:
 
 break;
 case 9:
-RN_m = (int)abs(nT_olwEeK);
+
 break;
 }
 j--;

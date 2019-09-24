@@ -133,7 +133,7 @@ break;
 }
 
 
-vx399432pA = (float)(Z2Xfh6);
+
 
 for (int i = 0; i < 5; ++i)
 {

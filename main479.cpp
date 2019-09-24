@@ -74,7 +74,7 @@ int main() {
  long long w69ab;
  w69ab = 1218366823;
  unsigned int fQq734Qn0;
- fQq734Qn0 = -1949597103;
+
  long long L8AVQAk48e;
  L8AVQAk48e = -391229877;
     char    vxLu2g7pf;
@@ -174,7 +174,7 @@ U_Mptt4IJJ = (A8NFQ) ? YR05 : aR_K0DVA();
 switch (ELmhj89B)
 {
 case 0:
-q_2i %= Nw89g95hh4;
+
 break;
 case 1:
 

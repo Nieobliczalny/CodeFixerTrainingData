@@ -22,7 +22,7 @@ int main(void) {
  mBJ_ = -265355639;
  DNtdw = 1892608333;
 
- Gq0pv = 546543424;
+
  rany_6a = -23528118;
  iOL6lVdvK9 = -173902771;
 
@@ -35,7 +35,7 @@ int main(void) {
 
  zrT9MnyRl = -1149897966;
  XO91322Z = 1834328183;
- Th2q6eWL = 1930515720;
+
  ioL2Br_g = 937143630;
  b_fhUsb = -720904187;
 
@@ -47,7 +47,7 @@ int main(void) {
  d60W0Lnu57 = -602318263;
  UQowvnV = 385504253;
  c8E488_4 = -1610683288;
- Hc1kEdrF3K = 643803834;
+
 
  MSrSZ3X6i = -2011157107;
  dN7us0 = -1716738373;
@@ -82,7 +82,7 @@ if (W54FB_n < UQowvnV)
 switch (rany_6a)
 {
 case 'a':
-E99Y2X_nrY = z3_z1Sr9 >> 473193461;
+
 break;
 case 'b':
 

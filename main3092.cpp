@@ -19,7 +19,7 @@ int main(void)
   unsigned long  CX70U;
 
   long  M1_1J6d6;
-  M1_1J6d6  =  1426234591;
+
  unsigned long R70_IV4FT;
 
   unsigned short  Uhjs5R64V;
@@ -41,7 +41,7 @@ int main(void)
     int    GC75pri;
     GC75pri    =    1643120120;
  short Xc_79;
- Xc_79 = 610273294;
+
  unsigned short Xv8P_KPa3;
  Xv8P_KPa3 = -716087856;
  unsigned int fDP1Lsgy8q;
@@ -53,7 +53,7 @@ int main(void)
   unsigned short int  DEvFY;
 
     unsigned short    e_6k;
-    e_6k    =    801689578;
+
     short    itB0lU0;
 
   float  b1L7Jai8Fm;
@@ -78,7 +78,7 @@ int main(void)
 
 if ((GC75pri < sPS7d49) && (vCQkHadc >= Xv8P_KPa3))
 {
-h6E74Fk -= 1388336138;
+
 }
 else
 {
@@ -96,7 +96,7 @@ case 'b':
 
 break;
 case 'c':
-HzfU2X03 /= 1027437522;
+
 break;
 case 'd':
 

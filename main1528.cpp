@@ -117,7 +117,7 @@ case 2:
 
 break;
 case 3:
-KPy8GmDeI = (int)abs(KxZkEM);
+
 break;
 case 4:
 
@@ -174,7 +174,7 @@ default:
 break;
 }
 
-I33c86 = (int)ceil(X6qGw8Nd);
+
 
 
 
@@ -194,7 +194,7 @@ case 'd':
 
 break;
 case 'e':
-g1X1V3 = (mu3H_ < bWAO2cHwb) ? vt3_ : 748668323;
+
 break;
 }
 

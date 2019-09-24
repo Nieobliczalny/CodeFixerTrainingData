@@ -17,7 +17,7 @@ int main(void)
  unsigned long long LL9if4knV;
 
 	unsigned short int	nyMV_H;
-	nyMV_H	=	-259803502;
+
 	short	f7YG2N;
 	f7YG2N	=	-207439958;
 	long double	f2Ja1wa2N;
@@ -27,7 +27,7 @@ int main(void)
     long double    qGoVlTAbDh;
 
   unsigned int  qLC2;
-  qLC2  =  2081128528;
+
   unsigned short  xx_JytNnt4;
 
   double  wq5V;
@@ -37,7 +37,7 @@ int main(void)
  long long GGh9T;
 
  short int v5_WFs;
- v5_WFs = -1685120023;
+
  unsigned int n4J4;
 
     long    BaU2t;
@@ -57,7 +57,7 @@ int main(void)
   short int  hjt1Fzy5h_;
 
  long long u1_V;
- u1_V = -1921499324;
+
 	long	Yr6A3h7qW;
 
  short int Ytd8vF;
@@ -79,7 +79,7 @@ int main(void)
  unsigned long long hd_xzgR_P9;
 
   unsigned short  y49CK;
-  y49CK  =  1980388474;
+
 	float	EF_4HkF3mK;
 
     short int    z4_g;
@@ -109,7 +109,7 @@ int main(void)
  long long XIEN3pB58;
 
 	long	GJxGz2;
-	GJxGz2	=	-1952881767;
+
     long double    I7zy87r6;
 
 	short	k5_XFU;
@@ -125,7 +125,7 @@ int main(void)
     char    q4hx054;
 
   unsigned long long  kgba;
-  kgba  =  2020614840;
+
  long double Tnik;
 
   double  H9RP4vtDJN;
@@ -145,7 +145,7 @@ int main(void)
  short m3NW;
 
     unsigned short int    qaD5u3_;
-    qaD5u3_    =    1315802658;
+
 	unsigned short int	PD6nLjD;
 	PD6nLjD	=	957565672;
     unsigned long    f37sm;
@@ -161,7 +161,7 @@ int main(void)
  unsigned long long pIRD_69l8;
 
  double NGi0y2XLot;
- NGi0y2XLot = -940173674;
+
   int  QXGb;
   QXGb  =  552292593;
  short RDZ85k;
@@ -171,7 +171,7 @@ int main(void)
     long    s5UqVqR;
 
   unsigned int  gO259;
-  gO259  =  875296690;
+
     unsigned short    GkB_GaU1_;
     GkB_GaU1_    =    -1245279412;
  long long P825CkLI;
@@ -197,7 +197,7 @@ int main(void)
  unsigned char L7575;
 
   unsigned short int  N3ITA;
-  N3ITA  =  0;
+
  long double n3gtn;
  n3gtn = -978898749;
   unsigned int  LHad79q_X;
@@ -209,7 +209,7 @@ int main(void)
     double    Eznx0;
 
   long  Vt9S;
-  Vt9S  =  -1498253267;
+
 
 switch (TFeD_NsN)
 {
@@ -239,7 +239,7 @@ case 'F':
 break;
 case 'g':
 case 'G':
-qLC2 = CT92phQ_Cb / X2m2U;
+
 break;
 case 'h':
 case 'H':
@@ -258,7 +258,7 @@ f2Ja1wa2N = (int)ceil(MJsu9g);
 break;
 }
 
-j7foG9CYaW = (float)(O91MP12sXe);
+
 {
 int i = 1;
 do
@@ -332,7 +332,7 @@ std::cout << "wz_P6" << "sdf9i" << "ZGpB_O" << KFCJed7C_ << std::endl;
 
 
 
-f7YG2N = 1181039346 / j8Xx5;
+
 std::cout << "O5D96_QH_" << cYGgv9gDx << Ytd8vF << std::endl;
 
 for (int i = 4; i >= 0; i--)

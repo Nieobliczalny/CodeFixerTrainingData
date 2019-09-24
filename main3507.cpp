@@ -448,7 +448,7 @@ case 'f':
 
 break;
 case 'g':
-ordFz3 = P5L_R43B << 1124762851;
+
 break;
 case 'h':
 uph8Y611 = k8jba(vs0Pk, 1272960912);

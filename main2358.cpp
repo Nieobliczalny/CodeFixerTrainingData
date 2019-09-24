@@ -85,7 +85,7 @@ int main(int argc, char** argv) {
     unsigned long    B655;
     B655    =    -977938731;
     unsigned short int    R8QVvNFA;
-    R8QVvNFA    =    1142146256;
+
  char Sm7N_O_FM;
 
 
@@ -262,7 +262,7 @@ case 'e':
 qtskp >>= z9t2;
 break;
 case 'f':
-tUo5 += 1771248817;
+
 break;
 case 'g':
 fOMv2_QQd--;

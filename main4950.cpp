@@ -21,7 +21,7 @@ int main(int argc, char** argv) {
 
 
 
-    m5g80IGUe    =    -2101307301;
+
     gVM533e22    =    -1158025281;
     opI8y7k    =    -1598312321;
     E0_irZ    =    1887026353;
@@ -43,7 +43,7 @@ int main(int argc, char** argv) {
 
     u_G1r    =    -940142476;
     j0gYr12_L    =    -555919949;
-    c1BZlbm6Zl    =    1675257656;
+
     Fbd81fye    =    1948107436;
     F8cL    =    -322900329;
     H7e6t_rr    =    1509759889;
@@ -76,7 +76,7 @@ int main(int argc, char** argv) {
     x_Y4ud4_D    =    -1929308794;
 
     QfwPsCpe    =    -217079750;
-    a_3878ID    =    1607298007;
+
  char sw_z6, n177e, K50H_, lDb10;
  sw_z6 = 0;
  n177e = 0;
@@ -315,7 +315,7 @@ case 2:
 
 break;
 case 3:
-Eiz56SA8 = oVdI2DEeW - 1949303883;
+
 break;
 case 4:
 

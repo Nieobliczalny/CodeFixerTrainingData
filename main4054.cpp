@@ -99,7 +99,7 @@ do
 j--;
 if (Lc3W6L_4Fu > MQ_UN0jDO)
 {
-u1H29 = (int)ceil(S7_A);
+
 }
 else
 {
@@ -258,7 +258,7 @@ else
 {
 if ((pxIdoho55 & R_eIb) && (wl86O != 306912421))
 {
-OGh8fX = (int)ceil(bk_3O1C);
+
 }
 else
 {

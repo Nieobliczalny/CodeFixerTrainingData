@@ -299,7 +299,7 @@ case 2:
 
 break;
 case 3:
-d4043n <<= 662013824;
+
 break;
 }
 }

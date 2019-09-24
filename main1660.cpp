@@ -414,7 +414,7 @@ do
 switch (Dbkdly75k)
 {
 case 0:
-mqhbjn7 = f2j_lw();
+
 break;
 case 1:
 

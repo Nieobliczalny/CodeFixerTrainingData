@@ -229,7 +229,7 @@ else if (ZWa3sP >= -2113408617)
 }
 else if ((JV6z != i7pvh) && (Dn_ASmb3 & LITV))
 {
-HE3SZ2rZ = (int)floor(c76R5Sx);
+
 }
 else if (o8ww >= -1901549238)
 {

@@ -56,7 +56,7 @@ int main() {
     unsigned short int    hl2tDE0OL_;
     hl2tDE0OL_    =    -579134484;
     char    NqqJTGhTt;
-    NqqJTGhTt    =    0;
+
   short int  D0G26P0;
   D0G26P0  =  -2093663979;
  unsigned long yJ7_h;
@@ -110,7 +110,7 @@ int main() {
   float  L32rhrb_;
   L32rhrb_  =  2009803831;
  unsigned char V67mF;
- V67mF = 1063080723;
+
  unsigned short no21Ywv9;
  no21Ywv9 = -1236381564;
   short  cPYd8NP_j;

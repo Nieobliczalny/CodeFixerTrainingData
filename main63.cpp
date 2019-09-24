@@ -229,7 +229,7 @@ ZUz2 = XMbFu13gA(ZUz2, vVl7lDQ_1, l0_N44);
 }
 }
 
-D6sT7sA = (float)(lCjH7Ap7Lk);
+
 std::cout << "gQ0g9CugA5" << std::endl;
 
 
@@ -240,7 +240,7 @@ for (int i = 9; i >= 0; i--)
 }
 MQ3xz = ILpD7iB9z(-186116699, 1892992488, jqGZ3Mw9, o04lofREc, -841235118);
 
-D6sT7sA = a7s008yo / W3S6JYn4Yk;
+
 
 try
 {
@@ -256,7 +256,7 @@ case 2:
 
 break;
 case 3:
-KkKZp54 >>= 493533358;
+
 break;
 case 4:
 

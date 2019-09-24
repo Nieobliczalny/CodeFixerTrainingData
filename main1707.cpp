@@ -39,7 +39,7 @@ int main(void) {
 	char	BM8Pc,	Y_8eL19H,	SMbdIl,	zguNIKj;
 	BM8Pc	=	0;
 	Y_8eL19H	=	0;
-	SMbdIl	=	0;
+
 
 
 H23s3 = K0une25 / BM8Pc;
@@ -173,7 +173,7 @@ case 'c':
 J681__pnaK -= 530454205;
 break;
 case 'd':
-BM8Pc = RK1442O9(291953246, -1640681826, -1047269177);
+
 break;
 case 'e':
 
@@ -203,7 +203,7 @@ int k = 6;
 do
 {
 k--;
-BM8Pc = RK1442O9(P5_4CoCz, 760255056, F_FBy1h6);
+
 }
 while (k >= 0);
 }
@@ -217,7 +217,7 @@ switch (P5_4CoCz)
 {
 case 'a':
 case 'A':
-Y_8eL19H = RK1442O9(-852729559, gb_4Q, J681__pnaK);
+
 break;
 case 'b':
 case 'B':
@@ -233,7 +233,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-Y_8eL19H = RK1442O9(-533317738, -727165411, 744045436);
+
 break;
 case 'f':
 case 'F':

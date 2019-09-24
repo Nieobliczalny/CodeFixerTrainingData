@@ -128,7 +128,7 @@ switch (IU788zj_q)
 {
 case 'a':
 case 'A':
-h56ORkDF = (int)floor(dGSC1SR11n);
+
 break;
 case 'b':
 case 'B':
@@ -160,7 +160,7 @@ case 'd':
 
 break;
 case 'e':
-h56ORkDF = (int)ceil(U3KZ7_0T4);
+
 break;
 }
 switch (PMiSy924)
@@ -328,7 +328,7 @@ case 2:
 
 break;
 case 3:
-GWq30oN6k = Qm3Zs2xS ^ 167278915;
+
 break;
 case 4:
 

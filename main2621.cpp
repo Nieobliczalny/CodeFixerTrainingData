@@ -766,7 +766,7 @@ case 2:
 
 break;
 default:
-Lt3L = (int)abs(NPBq);
+
 break;
 }
 std::cout << gd8__ << std::endl;

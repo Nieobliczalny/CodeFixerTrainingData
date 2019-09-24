@@ -45,7 +45,7 @@ int main(void) {
  short int V8YMg0V;
 
   unsigned short  NXk7_ofd;
-  NXk7_ofd  =  1886838964;
+
   unsigned int  cYM8;
 
  unsigned long yDZLE__8I;
@@ -67,7 +67,7 @@ int main(void) {
   long double  nJ5g8HYvH;
 
   float  Rxiq3Z;
-  Rxiq3Z  =  -177743226;
+
   unsigned long long  e7yz9zK;
   e7yz9zK  =  -261130440;
   unsigned int  M_OsZSWkQ;
@@ -93,7 +93,7 @@ int main(void) {
 	double	Kk_m300;
 
   short int  FkGdQz2;
-  FkGdQz2  =  1272878017;
+
  char bYmC9QVo;
  bYmC9QVo = 1446203073;
     short    vZLd;
@@ -105,7 +105,7 @@ int main(void) {
  double Oe_4F;
 
   unsigned int  lJl058_;
-  lJl058_  =  -235743066;
+
   long long  ph8bU;
 
 	short int	mDgeb;
@@ -115,7 +115,7 @@ int main(void) {
   unsigned char  Td9j7iw8T;
 
 	unsigned short int	S5_ny;
-	S5_ny	=	629525747;
+
  unsigned int avUV;
 
 	unsigned char	JW1Fz13863;
@@ -168,7 +168,7 @@ bYmC9QVo++;
 break;
 case 'g':
 case 'G':
-Rxiq3Z = (int)ceil(cLX5_);
+
 break;
 case 'h':
 case 'H':

@@ -51,7 +51,7 @@ case 'a':
 
 break;
 case 'b':
-YNV85M *= 1940434446;
+
 break;
 case 'c':
 

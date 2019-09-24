@@ -227,7 +227,7 @@ case 'a':
 t16js9 = (int)ceil(EC29DA9D_a);
 break;
 case 'b':
-w7sd4 = (int)floor(EC29DA9D_a);
+
 break;
 case 'c':
 
@@ -330,7 +330,7 @@ case 7:
 
 break;
 default:
-Lu6yMy = (int)ceil(EC29DA9D_a);
+
 break;
 }
 }

@@ -284,7 +284,7 @@ T5h6 = Lp1B5();
 break;
 case 'b':
 case 'B':
-VqAA = Lp1B5();
+
 break;
 case 'c':
 case 'C':
@@ -299,7 +299,7 @@ case 'E':
 EC7r4j = n67k0RiH(EC7r4j, VqAA, rb5ed22, jYsXen3C);
 break;
 default:
-VqAA = Lp1B5();
+
 break;
 }
 }
@@ -331,7 +331,7 @@ try
 {
 if (NjLSH < Uw8g)
 {
-VqAA = Lp1B5();
+
 }
 }
 catch (int& errorCode)
@@ -394,7 +394,7 @@ case 'd':
 y1Sd = n67k0RiH(-1755198433, Vb_f2s_6, 762654324, -200399955);
 break;
 case 'e':
-NjLSH = (int)ceil(h08Ss0);
+
 break;
 case 'f':
 n6Q54lcmz = (int)floor(cah511);
@@ -406,7 +406,7 @@ case 'h':
 n6Q54lcmz = (int)ceil(JQVZ);
 break;
 case 'i':
-NjLSH = (int)floor(h08Ss0);
+
 break;
 case 'j':
 cIzcSN++;
@@ -421,7 +421,7 @@ else
 
 }
 
-m_Gr248 = (unsigned int)(Vb_f2s_6);
+
 
 {
 int i = 7;

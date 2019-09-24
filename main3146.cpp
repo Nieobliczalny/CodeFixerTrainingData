@@ -119,7 +119,7 @@ case 2:
 
 break;
 case 3:
-ztg6vX |= X20_;
+
 break;
 case 4:
 

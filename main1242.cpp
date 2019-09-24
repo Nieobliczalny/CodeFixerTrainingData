@@ -33,7 +33,7 @@ case 3:
 
 break;
 case 4:
-B21F3 /= yMuy7yb;
+
 break;
 case 5:
 
@@ -205,7 +205,7 @@ int k = 0;
 do
 {
 k++;
-Vykp1d = (int)ceil(Rjt4aXP);
+
 }
 while (k < 10);
 }
@@ -410,7 +410,7 @@ case 2:
 
 break;
 case 3:
-g8Kx_CDEGL = Bl_oW9l + ow2IN;
+
 break;
 case 4:
 nW3gDA1I79 /= 1622505046;

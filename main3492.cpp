@@ -41,7 +41,7 @@ int main(void) {
     int    Gz0b8_1LsL;
 
   unsigned long  Job7bk8C;
-  Job7bk8C  =  -2054416480;
+
     char    RJ3tlA8;
     RJ3tlA8    =    -971799037;
     double    cMKb4w;
@@ -55,7 +55,7 @@ int main(void) {
  short ZS4g93;
 
   long long  x3v_8;
-  x3v_8  =  1816021817;
+
     unsigned int    l4cj;
 
   long double  GIym4V;
@@ -71,7 +71,7 @@ int main(void) {
  unsigned long long a_S94_;
  a_S94_ = 195086097;
 	long long	dS6La0q5_z;
-	dS6La0q5_z	=	0;
+
   long double  BebLif28u;
   BebLif28u  =  1951741084;
  unsigned long DJFu9e;
@@ -97,7 +97,7 @@ int main(void) {
  long fCcW7fnnr;
  fCcW7fnnr = -1926750427;
 	long double	T1QX;
-	T1QX	=	1312510580;
+
   char  xkunKwr;
 
  int Bief01mt6;
@@ -113,7 +113,7 @@ int main(void) {
 	char	i5FlQ;
 
  unsigned int dUg0T;
- dUg0T = 388357721;
+
  int sFsPloE8;
 
     unsigned char    jJIeQ8MY65;
@@ -143,7 +143,7 @@ int main(void) {
   long long  k3Mas;
   k3Mas  =  -534137352;
 	long long	gpqB1;
-	gpqB1	=	989633935;
+
     double    i2Za8uv;
 
 
@@ -180,7 +180,7 @@ case 0:
 
 break;
 case 1:
-T1QX = (int)abs(G_7U);
+
 break;
 }
 }
@@ -225,7 +225,7 @@ case 3:
 
 break;
 case 4:
-q5ElVrALb = (int)floor(cMKb4w);
+
 break;
 case 5:
 PhR1q6vEg = sbVy(1883371979, WEjG3JK0, qDP89FKI_, 356009401);
@@ -268,7 +268,7 @@ case 4:
 
 break;
 case 5:
-h7V7PF4_ = (int)floor(GIym4V);
+
 break;
 case 6:
 G_7U = HpuA7c9q7 << D0vBV92wq;

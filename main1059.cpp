@@ -78,7 +78,7 @@ case 'A':
 
 break;
 default:
-gjif -= Vv19;
+
 break;
 }
 cout << "Av1lf" << UC3VBt7u << pmWU << s0G1Q9G << "y9KjXBeT7j" << endl;
@@ -119,7 +119,7 @@ else if (IfV78bY3_ == zI5Ln8)
 }
 else if ((H8L76i5IpC >= GBYz) && ((T8m2Ri09) && (l2BsP2m_zd > 1163356807)))
 {
-s0G1Q9G = (Vv19 != 297698676) ? t16WGg_p : 319890243;
+
 }
 else
 {
@@ -170,7 +170,7 @@ case 3:
 
 break;
 case 4:
-wnspZW *= 1963660548;
+
 break;
 case 5:
 
@@ -206,7 +206,7 @@ case 0:
 
 break;
 case 1:
-WJ0_U4 = FKEPj7Hb + 2067443836;
+
 break;
 case 2:
 H8L76i5IpC = V_xp2sLK / OHU13v37g;

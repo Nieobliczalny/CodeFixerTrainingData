@@ -992,7 +992,7 @@ case 5:
 
 break;
 case 6:
-H3_yffaf = ijqb_L9qof >> 55243746;
+
 break;
 }
 }
@@ -1039,7 +1039,7 @@ case 2:
 
 break;
 case 3:
-zvuB0 %= 154633935;
+
 break;
 case 4:
 

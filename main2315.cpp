@@ -40,7 +40,7 @@ int main(int argc, char** argv) {
 	long long	rvGNrYG0;
 	rvGNrYG0	=	0;
 	unsigned short int	Df8_Igq_,	j_G3CJ0,	LUXx,	j7Y4T7H__q,	z4rf,	Hz15vT,	n95_LS1knR,	Hs4u,	JE9RN86v5W,	QaaO,	zNrXNt_b1,	Swyj_jfNb7,	C198vi_EX,	P_6AVn,	gNT0w7,	Njpx7Q4j,	k6VPfef,	nBa_Ll,	gJFK,	PAy4,	S3MR2P8,	MMHY,	U2FyS6d44V,	ayfi6lH78,	pKw_,	V73S_6,	i9bTn53v,	PfbRbs,	IQJBlXJ,	H7gW7,	SMZRQN,	hXIWI6zQM_,	TZ_A3LMnD,	vId8LS2Q0,	Lvd03TLG,	wQsK66,	oWz_,	nLl7W17Er,	B1IY4_,	eu2O7Xf,	J50Y7;
-	Df8_Igq_	=	-1340429094;
+
 	j_G3CJ0	=	-874007330;
 
 	j7Y4T7H__q	=	-2029467191;
@@ -51,7 +51,7 @@ int main(int argc, char** argv) {
 	JE9RN86v5W	=	-624915320;
 	QaaO	=	-250136381;
 	zNrXNt_b1	=	2071766163;
-	Swyj_jfNb7	=	-1032598146;
+
 	C198vi_EX	=	216709830;
 	P_6AVn	=	-587007877;
 	gNT0w7	=	14910259;
@@ -65,7 +65,7 @@ int main(int argc, char** argv) {
 	U2FyS6d44V	=	-1167319101;
 	ayfi6lH78	=	1345907119;
 
-	V73S_6	=	2063130667;
+
 	i9bTn53v	=	352995565;
 
 	IQJBlXJ	=	1704135707;
@@ -79,7 +79,7 @@ int main(int argc, char** argv) {
 
 	nLl7W17Er	=	-2135489372;
 
-	eu2O7Xf	=	880122354;
+
 	J50Y7	=	-1917812442;
 
 eu2O7Xf = pI9V2N0U27(274555831, 1520243974) % 44128655;
@@ -184,7 +184,7 @@ case 2:
 
 break;
 case 3:
-Njpx7Q4j &= 1803431226;
+
 break;
 default:
 QaaO <<= Lvd03TLG;

@@ -19,7 +19,7 @@ int main(int argc, char** argv) {
 	short	GAF1brKa,	ImCc,	KvU4;
 		GAF1brKa	=	ImCc	=	KvU4	=	0;
 
-b1bqJtP0DE = (unsigned short int)(dA265 + (90696542));
+
 switch (Yjf33N)
 {
 case 'a':
@@ -78,7 +78,7 @@ case 8:
 
 break;
 default:
-d5QIZ = Vix1kY / 1921364595;
+
 break;
 }
 switch (W0jz)

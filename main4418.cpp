@@ -125,7 +125,7 @@ case 4:
 
 break;
 case 5:
-F6w2wk2j0P = (int)abs(rWnDm);
+
 break;
 case 6:
 oe5cuIT = (int)ceil(WJQeag9_R);
@@ -241,7 +241,7 @@ case 'c':
 
 break;
 case 'd':
-Gkk9Q5 *= 1730224330;
+
 break;
 case 'e':
 

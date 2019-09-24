@@ -322,7 +322,7 @@ qmr_Zsh4N = (long)(pkEVj_4);
 }
 else
 {
-WyEaanEb_0 = (long double)(jT0V17mbT3);
+
 }
 
 rq3M = (char)(AEkk4b7);
@@ -456,7 +456,7 @@ if (MAbh < -1307907064)
 
 }
 
-H904lU0 = (int)ceil(j8N292Py);
+
 
 std::cout << h8g24V(-970699685, X2EyYl2r6) << mYs_2I2K6l << std::endl;
 {
@@ -489,7 +489,7 @@ case 2:
 
 break;
 case 3:
-wsW5Tj7go /= 390853035;
+
 break;
 case 4:
 

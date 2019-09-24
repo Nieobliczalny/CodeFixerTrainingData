@@ -54,7 +54,7 @@ int main(int argc, char** argv)
     D5TQ0o    =    1227097082;
     p94_    =    2086808628;
     Eal2    =    -645223579;
-    v7C3t    =    858015824;
+
     C04quqL6b7    =    1764648785;
     RyIgQfH    =    944186274;
     Mq9mw5    =    -1028307816;
@@ -105,7 +105,7 @@ int main(int argc, char** argv)
     k2_4B    =    -1443106612;
     pMEN    =    -259180597;
 
-D3T9yBfxbH = qqKr80m2I_(D3T9yBfxbH, LP9eGr9);
+
 eJ50_ *= e7Aa0oF;
 if (FwdLIlN == yUEE79j)
 {
@@ -325,7 +325,7 @@ else if (JqL5u6 != nLb_TW_L)
 }
 else if ((okj5rTsR < 1732375569) || (z2tS7 & ewEv))
 {
-p94_ &= 886607299;
+
 }
 else if ((LP9eGr9 & DRq6RJ) || ((FS_O3j1wU7) && (LP9eGr9 <= f5Yci_C)))
 {
@@ -453,7 +453,7 @@ case 6:
 
 break;
 case 7:
-T610 = wWS52_Q(tJZ0E0, ji4_f4Z, b9rTvfl8F, l_orGwd2);
+
 break;
 default:
 

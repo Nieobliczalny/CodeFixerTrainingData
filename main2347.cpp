@@ -46,7 +46,7 @@ int main(void)
     float    NKK_0qCr5a;
 
     int    YV92;
-    YV92    =    -1913433044;
+
 	unsigned char	uM_8XwAe;
 	uM_8XwAe	=	-741698093;
     unsigned long    pEsf6r9I9f;
@@ -58,7 +58,7 @@ int main(void)
     char    qzH6Ol;
 
     unsigned char    HHsU;
-    HHsU    =    1553849006;
+
     double    hv6MgEgDs3;
     hv6MgEgDs3    =    -1431987464;
 	short	FQca;
@@ -82,7 +82,7 @@ int main(void)
     double    arVUKX;
 
  double km_l;
- km_l = 1433463813;
+
  long t03yXo;
  t03yXo = -1073810042;
 	int	Z8k81Pwq4;
@@ -94,7 +94,7 @@ int main(void)
 	short int	qfJLo;
 	qfJLo	=	1705786465;
 	short int	KxHRFvB;
-	KxHRFvB	=	1312968882;
+
 	unsigned int	x38Po7Ou6;
 	x38Po7Ou6	=	125663389;
   short int  NNL4;
@@ -104,7 +104,7 @@ int main(void)
   float  p6bix;
 
  int oQ34n79;
- oQ34n79 = 367456275;
+
  float Qo6129_W;
  Qo6129_W = -1535363801;
     short int    xtbYZ8s8Y_;
@@ -116,7 +116,7 @@ int main(void)
  float x8jJ;
 
  unsigned int KaQluD7t;
- KaQluD7t = 70664415;
+
     long double    ou39ORM;
     ou39ORM    =    1283881272;
  long long aOKQAvU7Dn;
@@ -126,7 +126,7 @@ int main(void)
  unsigned short f1K5zw_n0t;
 
   short int  rRGlJb8eS8;
-  rRGlJb8eS8  =  -770898235;
+
   double  P4__u3X;
 
  int FVXq0sl;
@@ -140,7 +140,7 @@ int main(void)
   long  L338iJ;
 
     int    wWO4l;
-    wWO4l    =    1302484990;
+
     unsigned short int    dw9mX;
     dw9mX    =    -380770085;
 	long double	t3O84eS;
@@ -152,7 +152,7 @@ int main(void)
  unsigned long EtfXg0_;
  EtfXg0_ = 1580865905;
   unsigned short int  eQvrl;
-  eQvrl  =  -935677216;
+
   short int  Jcu_0;
 
     float    NZ8kG_7El;
@@ -166,7 +166,7 @@ int main(void)
 	unsigned short	mYXSM7_q;
 	mYXSM7_q	=	1090891054;
  double tOJ28m0;
- tOJ28m0 = -1827365236;
+
   unsigned int  H8Z8x5DC4;
 
 	short int	cgqjU72;
@@ -184,7 +184,7 @@ int main(void)
  long double Gw94;
 
  short int rYxr3w1;
- rYxr3w1 = -1075665027;
+
     unsigned long    lI63;
     lI63    =    1631739259;
  unsigned int OB71Inus0i;
@@ -196,7 +196,7 @@ int main(void)
  unsigned short int EJmCC_TIB;
 
   int  i6Vk;
-  i6Vk  =  -184154008;
+
 	long	d9vV2JBC;
 	d9vV2JBC	=	-600869847;
  unsigned short RtvS72;
@@ -240,7 +240,7 @@ for (int j = 2; j >= 0; j--)
 {
 if (eo1lN)
 {
-aOKQAvU7Dn = (int)abs(ECe2LA_3w);
+
 }
 else if (FQca >= h7Nb12p_)
 {
@@ -286,7 +286,7 @@ case 2:
 
 break;
 case 3:
-HHsU = qfJLo % u7h7z7t6j;
+
 break;
 case 4:
 

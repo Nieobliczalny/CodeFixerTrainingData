@@ -354,7 +354,7 @@ do
 j--;
 if (((Q605xx7y == Yq6D8wU) && (lkjDqB_I20 != 89989499)) && (N_23lPTnI))
 {
-AF__ = (int)abs(FHG3);
+
 }
 else
 {
@@ -368,7 +368,7 @@ while (j >= 0);
 hiS6RPdhQR *= 396490987;
 try
 {
-j930ckVR78 = (double)(S0kxQ7_);
+
 }
 catch (int& errorCode)
 {
@@ -425,7 +425,7 @@ case 5:
 
 break;
 case 6:
-mhQgh__ = Pn_tGtvW(-756672165);
+
 break;
 default:
 rVu9x8fBJ = km4eT(rVu9x8fBJ, VTuo00KQS);

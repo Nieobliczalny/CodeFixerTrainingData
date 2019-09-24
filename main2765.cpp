@@ -45,7 +45,7 @@ int main(int argc, char** argv)
  unsigned short vnGjj;
 
  long ewRD;
- ewRD = -188744801;
+
   short int  Rft_;
 
 	unsigned long	BvE13OWP;
@@ -69,7 +69,7 @@ int main(int argc, char** argv)
   long long  rUwdC4rg4J;
   rUwdC4rg4J  =  338906142;
 	short int	e6E5tihv;
-	e6E5tihv	=	1630605905;
+
   unsigned int  ltg7N__uS9;
   ltg7N__uS9  =  61826132;
     unsigned short    Q5HOc;
@@ -105,7 +105,7 @@ int main(int argc, char** argv)
  char VRRrRL38Z;
  VRRrRL38Z = -801579381;
     long double    aUvqMS7zo;
-    aUvqMS7zo    =    -749877223;
+
     short int    wHVC4r;
 
  unsigned long y8XNU7zEC5;
@@ -123,7 +123,7 @@ int main(int argc, char** argv)
 	short int	JaU8o5Y;
 	JaU8o5Y	=	178084275;
 	unsigned long long	J6Fx;
-	J6Fx	=	-2134047744;
+
 	unsigned short	gz2IGSIg;
 	gz2IGSIg	=	552818327;
   long  tp99;
@@ -137,7 +137,7 @@ int main(int argc, char** argv)
   unsigned short int  EIdK2;
 
 	unsigned long	TA7a;
-	TA7a	=	-2128202820;
+
  unsigned int FfM_5;
  FfM_5 = -1046835899;
 	unsigned short	a4kO_f__hH;
@@ -189,7 +189,7 @@ int main(int argc, char** argv)
  long long CW1XN;
  CW1XN = -225555326;
 	short	s5_nXa;
-	s5_nXa	=	1709806450;
+
   long double  XD4p;
   XD4p  =  234074248;
  unsigned long long l8x8Po95y5;
@@ -199,7 +199,7 @@ int main(int argc, char** argv)
 	short	esTa0hC;
 	esTa0hC	=	1027628022;
  char g24b1Qg;
- g24b1Qg = 1670763883;
+
     long double    Ta4A;
     Ta4A    =    -122232401;
   float  R_WF;
@@ -218,7 +218,7 @@ if (XZt2P6 < d2cUES_b)
 {
 try
 {
-XD4p = (int)ceil(J68O_89n);
+
 }
 catch (int& errorCode)
 {
@@ -275,7 +275,7 @@ case 0:
 
 break;
 case 1:
-e6E5tihv = HIOL();
+
 break;
 case 2:
 
@@ -309,7 +309,7 @@ case 1:
 
 break;
 case 2:
-p42x_ = (int)abs(VRRrRL38Z);
+
 break;
 case 3:
 l5IH8 = gDLi(xy580OU, PH22T, gz2IGSIg, 1068220264);
@@ -380,7 +380,7 @@ case 1:
 rO9iSn |= 1752716016;
 break;
 case 2:
-J6Fx = n_K6E ^ Y2Lt28dkd_;
+
 break;
 case 3:
 umM7 &= 204927732;
@@ -446,7 +446,7 @@ else
 {
 std::cout << "E8G3C8cg9" << J68O_89n << std::endl;
 }
-FjZj = (int)floor(Ta4A);
+
 
 Ta4A = (int)floor(T4JGLopz);
 

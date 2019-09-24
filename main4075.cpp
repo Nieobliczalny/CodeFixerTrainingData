@@ -102,7 +102,7 @@ int main(int argc, char** argv) {
  unsigned short U78uz;
 
 	unsigned int	u8_v;
-	u8_v	=	-1633012928;
+
     long long    nu8P3bb;
     nu8P3bb    =    -956515155;
  unsigned long FfK797dbL;
@@ -148,7 +148,7 @@ int main(int argc, char** argv) {
  short ZzFigFYaGL;
 
 	short	u2ld45h;
-	u2ld45h	=	1881844160;
+
     int    C98u_Y5ll;
     C98u_Y5ll    =    -910753168;
  char G72Q6v8;
@@ -384,7 +384,7 @@ nE4S1X_48 = LiIayeh9h(-1010783270);
 break;
 case 'd':
 case 'D':
-XftJF = (int)abs(m0107);
+
 break;
 case 'e':
 case 'E':
@@ -416,7 +416,7 @@ case 'e':
 ReHd8--;
 break;
 case 'f':
-XftJF = LiIayeh9h(dI3rkt6) * 1331845792;
+
 break;
 case 'g':
 POng = (int)floor(QN6QF);
@@ -478,7 +478,7 @@ try
 {
 try
 {
-CX5Nd9d = ljhOHyYn / 176321316;
+
 }
 catch (int& errorCode)
 {
@@ -507,7 +507,7 @@ case 'c':
 
 break;
 case 'd':
-u5b4v4_mF = (int)floor(QN6QF);
+
 break;
 case 'e':
 
@@ -519,7 +519,7 @@ case 'g':
 
 break;
 case 'h':
-nE4S1X_48 = LiIayeh9h(V9tVvC_);
+
 break;
 default:
 
@@ -530,7 +530,7 @@ T7QRYfela5 = (int)abs(e02M);
 switch (U17p3J)
 {
 case 'a':
-uOeYK_v3WE = gg_I_3z ^ U17p3J;
+
 break;
 case 'b':
 
@@ -583,7 +583,7 @@ else if ((AvXgj6_F >= nT65mO) || (V9tVvC_ == G9M2Y))
 }
 else if (LPlFj >= e2yO7_qzZ)
 {
-uOeYK_v3WE = (float)(XO71Cyd_0);
+
 }
 else
 {

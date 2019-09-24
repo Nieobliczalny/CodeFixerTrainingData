@@ -245,7 +245,7 @@ case 'c':
 
 break;
 case 'd':
-v6Xg = T_1925 ^ 239655400;
+
 break;
 case 'e':
 
@@ -256,7 +256,7 @@ break;
 }
 
 
-uKxc = (int)abs(RQ76Mq);
+
 return 0;
 }
 

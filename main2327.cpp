@@ -384,7 +384,7 @@ case 1:
 J0ciQU0q = a_45J / aChx;
 break;
 case 2:
-Eqzht024 = D9e2O(Eqzht024, P3m9oT1_3, GNvZ5_);
+
 break;
 case 3:
 J0ciQU0q |= VK_Ai0;
@@ -486,7 +486,7 @@ case 'c':
 
 break;
 case 'd':
-BG3h7WEIf %= 341734822;
+
 break;
 case 'e':
 wO5dfNcZI8 = wO5dfNcZI8 % 200025583;

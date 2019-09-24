@@ -110,7 +110,7 @@ else if ((oM1C4S9 & I_PYHZ6hr) || (W119O97pKj != I_PYHZ6hr))
 }
 else if (((a83d45W > -164505457) && (PNg5ev <= -1069852059)) || (MTwnLR20 <= aLYbj03))
 {
-ftVe = (int)ceil(gaxBc);
+
 }
 else
 {

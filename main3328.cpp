@@ -414,7 +414,7 @@ cout << vaml6B_H() << "DUpdI4A79" << bq9G1RO << endl;
 
 for (int i = 0; i < 6; ++i)
 {
-m2ks4Zc = (int)floor(yc3B0C);
+
 }
 {
 int i = 6;

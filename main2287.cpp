@@ -71,7 +71,7 @@ int main() {
 	int	r2c1vvYZtM;
 
     long long    Y7ClQI9n7;
-    Y7ClQI9n7    =    1963671103;
+
  unsigned short int uD_16;
  uD_16 = -1773074241;
     short int    UXBGhSvoIZ;
@@ -107,7 +107,7 @@ int main() {
  long double ixNSx;
  ixNSx = -2074252771;
  short int b_47w5xoSO;
- b_47w5xoSO = -1749316550;
+
   float  ID5_cG6;
   ID5_cG6  =  1730170218;
     unsigned short int    W3NW;
@@ -516,7 +516,7 @@ case 'F':
 break;
 case 'g':
 case 'G':
-yh7Jq67e9I ^= r60Q;
+
 break;
 case 'h':
 case 'H':
@@ -640,7 +640,7 @@ case 2:
 
 break;
 case 3:
-T06gtSJUF3 = B3xoR0n4fz(T06gtSJUF3, ixNSx, -1400154269);
+
 break;
 case 4:
 MKcPJ0 = B3xoR0n4fz(MKcPJ0, 559798232, Uu441_);

@@ -158,7 +158,7 @@ while (i < 3)
 switch (C92y8sC)
 {
 case 0:
-S32AF5 = Io47cP + P0gUc_y;
+
 break;
 case 1:
 

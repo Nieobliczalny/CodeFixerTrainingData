@@ -103,7 +103,7 @@ int main()
  unsigned short int OdGP08;
 
     int    Vh_7rOr;
-    Vh_7rOr    =    -23367408;
+
     char    dW6pJ90X0;
 
   int  e95S5D_H;
@@ -175,7 +175,7 @@ while (i >= 0);
 }
 xSze3F5 &= vy36Uhu_;
 
-tOOW8N = (int)abs(T_IoFXt) + (-1291336684);
+
 if (tpEm0qBi <= 260858133)
 {
 if ((KpAC_K & 8065714) && (e95S5D_H < -470517454))

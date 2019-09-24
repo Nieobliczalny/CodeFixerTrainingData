@@ -210,7 +210,7 @@ case 3:
 
 break;
 case 4:
-uhTeRmDM = uhTeRmDM % FRVc6UoD;
+
 break;
 case 5:
 

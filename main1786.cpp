@@ -180,7 +180,7 @@ int main(int argc, char** argv) {
   unsigned short int  peG8s;
 
 	long	Auk_SP;
-	Auk_SP	=	-1087507676;
+
     short int    SgoE;
     SgoE    =    -1646715288;
  unsigned int yAE7an;
@@ -351,7 +351,7 @@ if (a611zaqq >= zSu44LY9q)
 switch (NEi885s9)
 {
 case 'a':
-TTW44 = (int)floor(nf9pH);
+
 break;
 case 'b':
 
@@ -424,7 +424,7 @@ int i = 6;
 while (i >= 0)
 {
 i--;
-Q15D = (int)floor(r2g28_);
+
 }
 }
 
@@ -438,7 +438,7 @@ if (V291gFZ < NEi885s9)
 alJp = -1385545352 / ly09gX;
 for (int i = 0; i < 1; ++i)
 {
-x39QtD2aG6 = (int)abs(P9WA8Bf_);
+
 }
 
 
@@ -448,7 +448,7 @@ if (ve1nOsu1 & JT_vi2hsd4)
 {
 if (Mk3Jm2T)
 {
-Q15D = (int)floor(YGPb);
+
 }
 else
 {

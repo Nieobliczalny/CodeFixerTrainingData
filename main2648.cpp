@@ -49,7 +49,7 @@ int main(int argc, char** argv)
  long double x3_UR;
 
 	double	dU3UyzjG9y;
-	dU3UyzjG9y	=	-748172015;
+
  float IV75vpc;
  IV75vpc = 31078596;
  unsigned long jp86Aeo16;
@@ -89,7 +89,7 @@ int main(int argc, char** argv)
     short int    scbjZf_77;
     scbjZf_77    =    893820292;
   double  pg3i;
-  pg3i  =  -873353750;
+
 
 {
 int i = 8;
@@ -144,7 +144,7 @@ case 0:
 DhBw = QcTwKT3();
 break;
 case 1:
-pg3i = (int)abs(iJCy);
+
 break;
 case 2:
 M4kUB6 = QcTwKT3() / 1867030215;
@@ -214,7 +214,7 @@ if (U_s6xpU_35 <= 1357899108)
 int k = 0;
 do
 {
-M4kUB6 = (int)abs(scbjZf_77);
+
 ++k;
 }
 while (k < 7);
@@ -332,7 +332,7 @@ if (VTBK < A53x2yrc)
 }
 else
 {
-LmW34 = (unsigned char)(T5ZtKlO);
+
 }
 
 return 0;

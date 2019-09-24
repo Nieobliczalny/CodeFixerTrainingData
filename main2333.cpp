@@ -211,7 +211,7 @@ case 2:
 
 break;
 case 3:
-l2CAQW = (int)ceil(B1PKg7oWA0);
+
 break;
 case 4:
 

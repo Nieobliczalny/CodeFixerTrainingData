@@ -469,7 +469,7 @@ C_O3yf = QD2z << 1425915845;
 break;
 case 'j':
 case 'J':
-N5EPRb3 = Zc4x(N5EPRb3, 2003573234);
+
 break;
 default:
 T0T48yfGk /= 1182038651;
@@ -692,7 +692,7 @@ case 5:
 
 break;
 case 6:
-f6aS3A = (QuHG9CaY) ? 219815125 : 808870067;
+
 break;
 case 7:
 AKS2TH3_h = (int)ceil(jF7t4XSj);

@@ -159,7 +159,7 @@ int k = 0;
 do
 {
 ++k;
-Yt24 = (int)floor(u1Fyf);
+
 }
 while (k < 3);
 }
@@ -253,7 +253,7 @@ int k = 2;
 while (k >= 0)
 {
 k--;
-MtsH8w9QkR = (int)floor(wtRJum1T);
+
 }
 }
 }
@@ -349,7 +349,7 @@ if ((pxA_K4O44X / sOTM_7) >= 1053577805)
 }
 
 
-f790o8CQt = DVbYUj(f790o8CQt, 189095538, 842720897, u1Fyf, -1233447592);
+
 
 if (PdQ2n_3jVj == 1770477903)
 {
@@ -419,7 +419,7 @@ case 3:
 
 break;
 case 4:
-sOTM_7 = p4fkeQWLs4();
+
 break;
 }
 }

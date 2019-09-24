@@ -190,7 +190,7 @@ case 'd':
 
 break;
 case 'e':
-K5n6 = d8HN | jdR6;
+
 break;
 case 'f':
 
@@ -277,7 +277,7 @@ case 2:
 
 break;
 case 3:
-YR5W >>= 197592939;
+
 break;
 case 4:
 
@@ -289,7 +289,7 @@ case 6:
 
 break;
 case 7:
-HWJSpV27 = Hy4F1x8f();
+
 break;
 case 8:
 

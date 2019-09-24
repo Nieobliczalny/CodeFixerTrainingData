@@ -227,7 +227,7 @@ case 'e':
 
 break;
 case 'f':
-H9aXD *= wHIWb;
+
 break;
 case 'g':
 XZ6H5DK = (int)floor(S3qGoj);
@@ -277,7 +277,7 @@ try
 switch (V6V0)
 {
 case 'a':
-XZ6H5DK = g9vjAKY(-1058855047, T1FZ8PaP, 27411846, -1254865209, UQcrH);
+
 break;
 case 'b':
 

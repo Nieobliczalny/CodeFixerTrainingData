@@ -40,7 +40,7 @@ int main() {
     Twt7IKz    =    -608086249;
     o_ttrB1    =    1032280371;
     w0d4Hu    =    -1190640380;
-    beJwouSd3    =    -1081202812;
+
     UbHkaD1y    =    -770752972;
     rMjc19sp    =    -368049563;
     U7QIa5_5w1    =    -452159520;
@@ -583,7 +583,7 @@ else
 }
 
 
-V0KO2 = w0bM_h * 674585966;
+
 try
 {
 switch (nlCH45)

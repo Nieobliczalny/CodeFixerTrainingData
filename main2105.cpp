@@ -22,7 +22,7 @@ int main()
   unsigned char  rEKvsE;
 
     unsigned long long    yS7he;
-    yS7he    =    -2008623579;
+
   char  yrtJPp8;
   yrtJPp8  =  1097451354;
  char nAIW0;
@@ -32,7 +32,7 @@ int main()
 	short	X2R2;
 
   double  uWVazVcDk;
-  uWVazVcDk  =  -1695859238;
+
  double E4Tb;
  E4Tb = 2123617564;
 	long double	ZqoN;
@@ -44,7 +44,7 @@ int main()
 	unsigned int	M59u6R0u1N;
 
   long double  w0qBWU;
-  w0qBWU  =  2003346204;
+
   double  z6u_v3;
 
  unsigned long jac6f_Y;
@@ -62,7 +62,7 @@ int main()
   unsigned int  lvCasu1C;
 
  double udA0dl;
- udA0dl = -1464179539;
+
 	char	V26HoF;
 
   unsigned long  l_sWetM;
@@ -76,7 +76,7 @@ int main()
 	unsigned long	y2bt6Kwj_4;
 
  short int h3rv;
- h3rv = 226850231;
+
   long long  iK2sv7WeP;
 
 	long double	t99L4EL_;
@@ -94,7 +94,7 @@ int main()
  short int pL2110;
 
  long mDhzi98;
- mDhzi98 = -1615069007;
+
   unsigned short  Zu6g48z056;
   Zu6g48z056  =  -628713954;
   long  JAm1f;
@@ -106,7 +106,7 @@ int main()
     double    w8Vqmp;
 
     unsigned long long    w0EdYqF;
-    w0EdYqF    =    1037959151;
+
   unsigned short  D81JoyA;
   D81JoyA  =  -160026540;
   long long  X_2MUrAp1;
@@ -131,7 +131,7 @@ switch (u6RGbT_gJ)
 {
 case 'a':
 case 'A':
-zwMg3T <<= ZC457amSot;
+
 break;
 case 'b':
 case 'B':
@@ -147,7 +147,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-uWVazVcDk = (int)ceil(zO3un6S1);
+
 break;
 case 'f':
 case 'F':

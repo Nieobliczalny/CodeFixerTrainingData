@@ -32,7 +32,7 @@ int main(void)
 	float	M73X;
 	M73X	=	-598368407;
   int  o7EQTeqV_F;
-  o7EQTeqV_F  =  -1669508037;
+
 	unsigned int	Yh6fiXP;
 	Yh6fiXP	=	-1529301328;
   unsigned char  EVC2xLHkup;
@@ -120,7 +120,7 @@ int main(void)
 	int	GO2JN;
 
  int eXZcnH5TJb;
- eXZcnH5TJb = -509489150;
+
     unsigned int    UM_3;
     UM_3    =    -965690733;
   unsigned char  LF_E3wD7;
@@ -142,7 +142,7 @@ int main(void)
   unsigned short  JCdp61L0ye;
 
  long jJ2I9;
- jJ2I9 = 1452848632;
+
  unsigned long VRsj4cS;
  VRsj4cS = 1297853904;
  long double r_69L;
@@ -156,7 +156,7 @@ int main(void)
   unsigned long long  u5996uGiAk;
 
  unsigned long long vO5Y;
- vO5Y = -1564358799;
+
 	short	OqXAxABW;
 
   unsigned char  cCk6rn7;
@@ -241,7 +241,7 @@ catch (int& errorCode)
 {
 vVU7_X = v0JL8t - r_69L;
 }
-N26RK = A6_D_B9Iw();
+
 if (Wr18m <= H3Iz9_g)
 {
 F_CKSTR_a = (int)ceil(q599);
@@ -621,7 +621,7 @@ case 'c':
 
 break;
 case 'd':
-j_y6Q7i85_ -= v0JL8t;
+
 break;
 case 'e':
 
@@ -659,7 +659,7 @@ case 2:
 
 break;
 case 3:
-E388 = p90Vx1(E388, p0t1);
+
 break;
 case 4:
 
@@ -671,7 +671,7 @@ case 6:
 
 break;
 default:
-E388 = (int)ceil(To9_);
+
 break;
 }
 

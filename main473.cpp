@@ -107,7 +107,7 @@ std::cout << lE4t() << "loT_" << s7l67w << "q27KxN" << std::endl;
 switch (WE2bnMr)
 {
 case 'a':
-TF6qrqxVh -= B_ipn2z;
+
 break;
 case 'b':
 WE2bnMr = CR1A(onzcp4, k36y, Ji_E7j00, oNXK);

@@ -223,7 +223,7 @@ case 2:
 LxUU34vCc4 = (int)ceil(lSI79w);
 break;
 case 3:
-y_jMz -= 2024335;
+
 break;
 case 4:
 
@@ -275,7 +275,7 @@ case 2:
 
 break;
 case 3:
-IuH6 = vMP6 / 1576838128;
+
 break;
 case 4:
 

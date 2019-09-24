@@ -31,7 +31,7 @@ case 'a':
 
 break;
 case 'b':
-pnp78HACfX = DJFou + 1189370954;
+
 break;
 case 'c':
 Xu0bSX3DUO = HSDW(-122257928, x7sV_U71);
@@ -43,7 +43,7 @@ case 'e':
 kF_rpUnX = (int)floor(y7Nv8);
 break;
 case 'f':
-Cb6Z88s = AdgM9HR7();
+
 break;
 case 'g':
 
@@ -130,7 +130,7 @@ if (ZAyBJER7h)
 int k = 5;
 while (k >= 0)
 {
-Cb6Z88s = AdgM9HR7();
+
 --k;
 }
 }
@@ -239,7 +239,7 @@ case 2:
 
 break;
 case 3:
-Cb6Z88s = o58L3(-1163532323, 1226179906);
+
 break;
 case 4:
 

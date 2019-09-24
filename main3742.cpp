@@ -329,7 +329,7 @@ xap9++;
 }
 else if ((LV59mYu1v < G_X6t42T1) || (vSfB6jmUqR & Rx9o2Z8))
 {
-xap9 = U34321b8d - 1153663578;
+
 }
 else if (nR_0p8_3N == f_r31lpZ)
 {
@@ -386,7 +386,7 @@ gE91N_DJA = S48eXG_72 % 2054171733;
 }
 else
 {
-xap9 = e9SF1();
+
 }
 }
 catch (int& errorCode)

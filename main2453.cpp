@@ -73,7 +73,7 @@ else if (ogHX8r0Tc <= -826565951)
 }
 else
 {
-k_iw = (unsigned short)(ogHX8r0Tc * k_iw);
+
 }
 
 std::cout << ogHX8r0Tc << D32K2H << EgS0o << "h5EL89" << std::endl;

@@ -82,7 +82,7 @@ int main(int argc, char** argv) {
  long double Mx0pF2oqU0;
  Mx0pF2oqU0 = -235452572;
     long double    B_ydV_L_mc;
-    B_ydV_L_mc    =    2050929732;
+
  double SDef;
  SDef = -1992118553;
 	long double	ICdfcb;
@@ -135,7 +135,7 @@ for (int j = 7; j >= 0; --j)
 std::cout << "h_43" << std::endl;
 if ((FjS1L8Cp) && (m23V != d92EN3b7))
 {
-a4_x1V = (double)(m8Q5KA3);
+
 }
 else if (G5C9_50i == 1004182371)
 {
@@ -227,7 +227,7 @@ case 2:
 
 break;
 case 3:
-UfWTG0 = V_EDs_(-71478189, -1552767673, 1479963186, d92EN3b7);
+
 break;
 case 4:
 UfWTG0 = V_EDs_(ph0Af, RLy8c6I3, nYCtyfGx5Q, -761364310);
@@ -288,7 +288,7 @@ case 2:
 
 break;
 case 3:
-UfWTG0 = V_EDs_(f8_Qx, D3763, RGIbW_, Z4e_7QA1);
+
 break;
 case 4:
 

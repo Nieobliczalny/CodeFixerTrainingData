@@ -21,7 +21,7 @@ int main() {
 switch (bLZNT)
 {
 case 0:
-tjt5B8 = (BDR4fb == -1892154364) ? pH80t : pH80t;
+
 break;
 case 1:
 B19u8h3Bb -= BDR4fb;

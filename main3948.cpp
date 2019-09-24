@@ -336,7 +336,7 @@ case 5:
 exs438CP = (int)abs(ocJ_3L8);
 break;
 case 6:
-fiwoewmwAr ^= v77be;
+
 break;
 }
 }
@@ -594,7 +594,7 @@ case 'c':
 
 break;
 case 'd':
-Ka64qcb84y = (int)ceil(W7ru_o);
+
 break;
 case 'e':
 

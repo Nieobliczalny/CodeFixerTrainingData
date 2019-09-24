@@ -373,7 +373,7 @@ else if (((K11S_e49l2 != gUEGX8V) || (VDBl > PQW2)) && (OIHtIG_41M <= g_Diaf47_4
 switch (Xmo1o55D4a)
 {
 case 0:
-xf92xTs = npc2Xf + p_ni;
+
 break;
 case 1:
 B0Oi_ += A56w1d;
@@ -524,7 +524,7 @@ case 1:
 
 break;
 case 2:
-GJ0IYOzr = C99uxc2y << 872628078;
+
 break;
 case 3:
 B0Oi_ /= 359878306;

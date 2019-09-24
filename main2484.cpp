@@ -220,7 +220,7 @@ case 0:
 
 break;
 case 1:
-L0Ck1532 = (int)abs(j1wm);
+
 break;
 case 2:
 w4ypTM = F516bocO4(1216797043, -95780046) - 991006414;

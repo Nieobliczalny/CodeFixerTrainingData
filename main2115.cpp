@@ -169,7 +169,7 @@ U1iRKe--;
 break;
 case 'g':
 case 'G':
-fcd8 ^= 359684841;
+
 break;
 case 'h':
 case 'H':
@@ -295,7 +295,7 @@ OZmik = (int)(Trq98e);
 
 
 
-mt_w09olM9 *= 1580639025;
+
 
 U1iRKe ^= yZ__PQttW;
 cout << orZ_HlKYg << OZmik << "WrKn29S6x" << Sks1 << endl;
@@ -370,7 +370,7 @@ else
 
 }
 
-jB6dUN *= l2kXf;
+
 return 0;
 }
 

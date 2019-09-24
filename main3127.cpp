@@ -151,7 +151,7 @@ cout << KxoQA14nQ() << endl;
 
 
 
-W1lT5K_6h = (int)ceil(ltl5Czb7q);
+
 if (apAA >= 1629346762)
 {
 cout << E8Nk6z << ltl5Czb7q << apAA << endl;

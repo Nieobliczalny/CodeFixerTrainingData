@@ -28,7 +28,7 @@ int main(int argc, char** argv) {
 	long long	GAwY;
 	GAwY	=	-870124923;
   long  BcM8_75Mni;
-  BcM8_75Mni  =  780969871;
+
 	short	cGI6;
 	cGI6	=	-730614281;
     long long    ho910642h;
@@ -142,7 +142,7 @@ int main(int argc, char** argv) {
   float  D32bgCv;
   D32bgCv  =  1810955140;
  long double PwttX3;
- PwttX3 = 1622474437;
+
     short int    WdS7I;
     WdS7I    =    2144314330;
  unsigned long long Og_YM6;
@@ -158,7 +158,7 @@ int main(int argc, char** argv) {
     short    gvqVM1jBe;
     gvqVM1jBe    =    984435224;
     long long    FVJID81_1;
-    FVJID81_1    =    -1848622859;
+
   unsigned int  wC10vKC26f;
   wC10vKC26f  =  1530557101;
   short  CmRL1l;
@@ -403,7 +403,7 @@ for (int i = 8; i >= 0; --i)
 
 }
 
-HtjW4X_v0_ %= 9175682;
+
 if ((N18vskc & 1920413640) || (mWNsaS))
 {
 std::cout << f16l93JD << X3hH << V6Di4tkeY << v0N_0492 << FJsSy << std::endl;

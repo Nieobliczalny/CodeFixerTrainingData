@@ -70,7 +70,7 @@ int main()
     char    ZlI8LbA;
     ZlI8LbA    =    1845050651;
 	unsigned char	tB4e_;
-	tB4e_	=	-941352809;
+
   unsigned short int  wjYBXy6;
   wjYBXy6  =  -696600041;
     int    oW9NFV2hq_;
@@ -120,7 +120,7 @@ int main()
  long long RCk985x72h;
 
     unsigned long    S452M2;
-    S452M2    =    352666425;
+
 	long	lypmkN5Je2;
 	lypmkN5Je2	=	1389200004;
  short int VS_uN5ED;
@@ -136,7 +136,7 @@ int main()
 	unsigned long	Rb8eMFE;
 
 	short int	Rx7CA_LA;
-	Rx7CA_LA	=	-397465917;
+
   unsigned short  y_pBi;
 
   float  i24AoXdEJ;
@@ -150,7 +150,7 @@ int main()
   unsigned long long  V7x4;
 
 	unsigned short int	n791LCLIV;
-	n791LCLIV	=	-1933958379;
+
 	unsigned int	C46R;
 	C46R	=	1152665668;
 	double	N537F;
@@ -180,7 +180,7 @@ int main()
   unsigned int  cdJYI8w;
 
  long W_hi3_;
- W_hi3_ = 518022599;
+
     short    kRi4;
     kRi4    =    -239590696;
 	char	uF4952x2L;
@@ -265,7 +265,7 @@ if (KN7VVEWy7U >= VS_uN5ED)
 }
 else if (((b_A3 >= mG4LiVU) && (pyCcpj <= IwtNBg)) || (JdLDON))
 {
-i24AoXdEJ = (int)ceil(IwtNBg);
+
 }
 else if (wb_093Fc9 != Q_I2_698)
 {
@@ -355,7 +355,7 @@ case 6:
 
 break;
 case 7:
-z0Db_bLYc = A1CSx + 402855176;
+
 break;
 case 8:
 

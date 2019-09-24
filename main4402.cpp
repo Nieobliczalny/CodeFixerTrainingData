@@ -139,7 +139,7 @@ int main(int argc, char** argv) {
     long    H4sYPd7NL;
     H4sYPd7NL    =    1177123043;
 	unsigned short int	M_y_map;
-	M_y_map	=	-39439216;
+
     char    XlvbVl;
     XlvbVl    =    -1419032925;
     long long    V6_qr05KlS;
@@ -163,7 +163,7 @@ int main(int argc, char** argv) {
 	unsigned short	Xqckf8TxSg;
 	Xqckf8TxSg	=	-1175639970;
  unsigned short zc0P5M1yzk;
- zc0P5M1yzk = 1863011240;
+
     char    k0Rr6zq_6;
     k0Rr6zq_6    =    -19296061;
 	unsigned char	gVw43t240;
@@ -474,7 +474,7 @@ try
 {
 if (a_kBBvI)
 {
-gA_aV |= XlvbVl;
+
 }
 }
 catch (int& errorCode)

@@ -457,7 +457,7 @@ case 'c':
 
 break;
 case 'd':
-Txiq = (int)abs(LxAKl_);
+
 break;
 case 'e':
 

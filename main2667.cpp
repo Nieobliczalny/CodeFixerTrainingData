@@ -387,7 +387,7 @@ int k = 4;
 do
 {
 --k;
-yt8fuRW = (s6qJS) ? QECJ0m9b : fB_Np9;
+
 }
 while (k >= 0);
 }
@@ -527,7 +527,7 @@ case 2:
 
 break;
 case 3:
-Xd6hvv9SX = uRoON ^ E1v9;
+
 break;
 case 4:
 
@@ -539,7 +539,7 @@ case 6:
 
 break;
 case 7:
-D0A_cI2C_ = D5ceXjFT(D0A_cI2C_);
+
 break;
 }
 }

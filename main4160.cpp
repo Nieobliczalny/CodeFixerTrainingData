@@ -77,7 +77,7 @@ int main(int argc, char** argv)
 	long	r57D;
 	r57D	=	-778095555;
  unsigned long long hcMVh;
- hcMVh = -1090551954;
+
  short WLfUl9L7;
  WLfUl9L7 = 0;
  unsigned long YDu38E40M6;

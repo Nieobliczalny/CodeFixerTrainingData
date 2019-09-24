@@ -96,7 +96,7 @@ else if ((dEixD1s7 & 345749569) || (dEixD1s7 >= vfz9q862))
 }
 else if (XuRi & 156180065)
 {
-AaP26v2o = QCJq(XuRi, 83091488, vfz9q862, -628810232, 519289631);
+
 }
 else
 {
@@ -109,7 +109,7 @@ else
 switch (XuRi)
 {
 case 0:
-AaP26v2o = QCJq(Ern16, -1362133654, -506036997, 212177287, -662631687);
+
 break;
 case 1:
 dEixD1s7 >>= v7o5;
@@ -124,7 +124,7 @@ case 4:
 
 break;
 case 5:
-AaP26v2o = QCJq(470274921, 941065091, Ern16, gJUWz3nU, -1599138061);
+
 break;
 case 6:
 
@@ -141,7 +141,7 @@ qL57XP = Y1OPqFn78();
 
 if ((-2097729915 / QCJq(qL57XP, -2024640443, v7o5, 1504679902, dEixD1s7)) < -716316674)
 {
-AaP26v2o = (int)abs(ie0xgJf) * 0;
+
 }
 try
 {
@@ -163,7 +163,7 @@ case 'c':
 
 break;
 case 'd':
-XuRi = (int)abs(Ern16);
+
 break;
 case 'e':
 

@@ -49,7 +49,7 @@ int main(int argc, char** argv)
   float  t9nw8G;
   t9nw8G  =  385463724;
     int    BQ72io;
-    BQ72io    =    0;
+
   long  Jy6lz97_d;
 
     long double    C7K6eV79nj;
@@ -133,7 +133,7 @@ lLi7Y = (int)ceil(dN7Hz8b);
 }
 else
 {
-nSKMM5gr51 = TEWBes(kiPXjBXv4D, -1270161883, nSKMM5gr51);
+
 }
 }
 }
@@ -252,7 +252,7 @@ case 'h':
 
 break;
 case 'i':
-l2cE_ = (int)abs(lLi7Y);
+
 break;
 default:
 O_P__C = UyhWpBu(-1914985793, x41DC, Jy6lz97_d, P_00Xj);

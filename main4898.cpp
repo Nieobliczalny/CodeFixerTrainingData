@@ -711,7 +711,7 @@ else if (NuNT97D2uG > 1717902028)
 switch (r2HPpzDiz)
 {
 case 0:
-l7Ggk = Mjg6C(1513299952, 1935227734);
+
 break;
 case 1:
 

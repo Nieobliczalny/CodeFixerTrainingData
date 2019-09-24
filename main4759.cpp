@@ -34,7 +34,7 @@ int main(int argc, char** argv)
     unsigned short    b5b33bM;
 
  unsigned short int tx4Im63Qk;
- tx4Im63Qk = 1088347111;
+
     unsigned int    xQcZG;
     xQcZG    =    -742096693;
  long long q_K7Hldec;
@@ -122,7 +122,7 @@ case 'f':
 ndOLP6sd = i_p0no49k1 << wqDbg3BV9;
 break;
 case 'g':
-q_K7Hldec = (int)abs(KBL7);
+
 break;
 case 'h':
 sX4R2x >>= D81pqOWfc;

@@ -650,7 +650,7 @@ case 2:
 
 break;
 case 3:
-f2pv4r1Iw = (int)floor(gvtPW1Td);
+
 break;
 case 4:
 
@@ -853,7 +853,7 @@ case 3:
 
 break;
 case 4:
-DvMW = EN22jo - 888225739;
+
 break;
 case 5:
 

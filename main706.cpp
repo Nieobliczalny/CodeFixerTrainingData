@@ -295,7 +295,7 @@ case 9:
 
 break;
 default:
-vwYA5 = (int)abs(NV7HtPs8Wq);
+
 break;
 }
 

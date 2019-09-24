@@ -119,7 +119,7 @@ case 1:
 lSM6_ = (int)ceil(pld1DD7RP);
 break;
 case 2:
-mLzitG3 = (int)ceil(O2P44P7);
+
 break;
 }
 if (jbJsQTZ < -1345847517)
@@ -190,7 +190,7 @@ case 'd':
 hstQG = FCkL7N86 / xG0WQ0x;
 break;
 case 'e':
-mLzitG3 = (int)floor(MCb48);
+
 break;
 case 'f':
 zQQ2p = w907Hdkw(zQQ2p, PA_O4Fn, VhL76, 555700695, m1oCHK);
@@ -217,7 +217,7 @@ int k = 0;
 while (k < 2)
 {
 ++k;
-mLzitG3 = (int)ceil(O28D2212Fi);
+
 }
 }
 j--;
@@ -439,7 +439,7 @@ case 1:
 
 break;
 case 2:
-qJ38E3d = AQ39(qJ38E3d);
+
 break;
 case 3:
 hhA4___4 *= 2090480281;
@@ -605,7 +605,7 @@ ALJTY2V <<= CJ7S_;
 
 cout << VGbz << "yKwqu_r8" << lSM6_ << AQ39(Zzxi_9) << endl;
 
-S1z3CZ0D = AQ39(S1z3CZ0D);
+
 
 return 0;
 }

@@ -162,7 +162,7 @@ case 2:
 
 break;
 case 3:
-Pe8B0KB4 = NPGukfiL(Pe8B0KB4, 1743616811);
+
 break;
 case 4:
 NkA_O10aa = nI7u0JS_();
@@ -176,7 +176,7 @@ break;
 }
 }
 
-Xiln0S = (short)(ACf1x6V);
+
 
 std::cout << "lb05" << Zjm5ePjDR9(1934163464, EeDr, J15w8) << D8zG << std::endl;
 for (int i = 0; i < 2; ++i)
@@ -308,7 +308,7 @@ P56X3 = Zjm5ePjDR9(809195669, R2ud, J15w8);
 }
 else
 {
-wDFz = (int)floor(sBp4tk3);
+
 }
 }
 else

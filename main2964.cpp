@@ -574,7 +574,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-xOasEtVO = (int)ceil(Kog5j);
+
 break;
 case 'e':
 case 'E':
@@ -627,7 +627,7 @@ case 'e':
 h0H6 = VVrtueMqB % OWhrV_Coo;
 break;
 case 'f':
-J8rqb = (int)abs(axaW83sW);
+
 break;
 default:
 OWhrV_Coo = i1nkev(1111710446);

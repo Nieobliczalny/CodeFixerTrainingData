@@ -37,7 +37,7 @@ case 'c':
 
 break;
 case 'd':
-n8NcHM = i9rS1q9g(617532624, MK1gtbrA, qJM36YsK, K8p_8o4h1, b4d6w78lif);
+
 break;
 case 'e':
 

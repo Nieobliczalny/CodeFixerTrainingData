@@ -54,7 +54,7 @@ case 'F':
 
 break;
 default:
-d0080u = (int)abs(nnB813F);
+
 break;
 }
 --i;
@@ -118,7 +118,7 @@ case 2:
 
 break;
 case 3:
-F54X = k6Uhcoh9();
+
 break;
 case 4:
 
@@ -152,7 +152,7 @@ case 5:
 
 break;
 case 6:
-QQXFN = k6Uhcoh9() >> 391210695;
+
 break;
 default:
 

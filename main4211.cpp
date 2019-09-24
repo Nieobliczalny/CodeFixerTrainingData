@@ -336,7 +336,7 @@ break;
 
 d1F5 = (long)(DN4_v * d1F5);
 
-Pq6c = L1pa7l7 / d1F5;
+
 
 
 {

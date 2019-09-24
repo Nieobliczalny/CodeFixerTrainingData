@@ -210,7 +210,7 @@ z0fiFgU = SGHz_N(z0fiFgU, uqdBA, b9LSx77Xu, Ve0x6v7Wx, 1247545874);
 break;
 case 'f':
 case 'F':
-KYPDE *= 574520953;
+
 break;
 case 'g':
 case 'G':

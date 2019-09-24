@@ -190,7 +190,7 @@ case 'f':
 
 break;
 case 'g':
-wB19_ue8 = I3bbd + 106950839;
+
 break;
 case 'h':
 D8Lf <<= H781w3_Eh;

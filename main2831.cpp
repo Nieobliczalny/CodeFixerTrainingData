@@ -160,7 +160,7 @@ case 0:
 P6PJEnyC = e9ndUj1q7p(-1401491117, kg_s9Ig);
 break;
 case 1:
-k6RWT = jn97cnW7(pA081);
+
 break;
 case 2:
 
@@ -172,7 +172,7 @@ case 4:
 
 break;
 case 5:
-k6RWT = jn97cnW7(140957404);
+
 break;
 case 6:
 
@@ -216,7 +216,7 @@ if (b6LAJN <= XXY_r)
 {
 if (z_z0FU7k >= -2022983428)
 {
-StxE9o__P = (int)abs(jT7U6mXw1);
+
 }
 else if (P4m42_A)
 {

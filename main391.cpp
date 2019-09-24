@@ -100,7 +100,7 @@ int main(int argc, char** argv)
 
 
 
-Pz57F211_r = (int)abs(VD27p) * 0;
+
 
 return 0;
 }

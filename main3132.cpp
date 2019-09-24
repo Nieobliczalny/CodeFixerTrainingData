@@ -234,7 +234,7 @@ case 'c':
 
 break;
 case 'd':
-XID1 = MZ86(117610899, MBalh8j, 593467986, xBgPz1cB, Aht2);
+
 break;
 case 'e':
 Wao4166jYr = ZjxN(178554108, -1764187606, 1792061870);

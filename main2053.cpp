@@ -219,7 +219,7 @@ else
 
 }
 
-LmBoT = (unsigned long long)(uaAXp);
+
 switch (OHzoyRqd)
 {
 case 0:

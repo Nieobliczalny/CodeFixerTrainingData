@@ -353,7 +353,7 @@ case 7:
 uqJD = yr3_ >> 59759319;
 break;
 case 8:
-g_o3 = (int)abs(R6MsyA7);
+
 break;
 default:
 YTrzJt >>= M5V7D_fb;
@@ -391,7 +391,7 @@ case 2:
 
 break;
 case 3:
-L2JL = (int)floor(aw7rj8gD);
+
 break;
 case 4:
 p01CNKfW = (int)abs(yr3_) * 0;
@@ -520,7 +520,7 @@ case 3:
 
 break;
 case 4:
-HBtzL = (int)floor(L2JL);
+
 break;
 case 5:
 gb3t = P77hz2dh | EDWzztTdo;

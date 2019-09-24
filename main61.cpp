@@ -543,7 +543,7 @@ case 7:
 
 break;
 case 8:
-DCBo_K_3r = (int)abs(DRN74_2L3);
+
 break;
 case 9:
 RNnlS24d_a = T1T3_N6(-1461556964);

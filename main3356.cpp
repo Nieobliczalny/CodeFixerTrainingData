@@ -139,7 +139,7 @@ do
 switch (G_rdld)
 {
 case 0:
-B36p3IC5 = (int)floor(BO207o);
+
 break;
 default:
 
@@ -265,7 +265,7 @@ case 4:
 
 break;
 case 5:
-ql186E = xtWp3FV7F(-2046300575, G_rdld, DvP9, L612vLz);
+
 break;
 case 6:
 

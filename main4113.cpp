@@ -145,7 +145,7 @@ s26_t39b6 = x42D3zh(W06l7mE_9_, 157487131, wGABn_36en, a_VGG_13or);
 }
 else if ((i9qg > -866564083) && (Lh_RWe13 <= 1465150967))
 {
-v2wPPSp5xz -= jLs_0_7i;
+
 }
 else if (B99_2)
 {
@@ -186,7 +186,7 @@ if ((v2wPPSp5xz != i9qg) && (c941Dr_Vg))
 }
 else
 {
-Udas7Ia = x68Uf % cK52J;
+
 }
 Z57nu_A = (char)(O7743Ob);
 

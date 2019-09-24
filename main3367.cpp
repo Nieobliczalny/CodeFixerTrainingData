@@ -114,7 +114,7 @@ case 0:
 tb5B02u = (int)abs(j4P9_);
 break;
 default:
-V_i316 = izUz() - 573885740;
+
 break;
 }
 }
@@ -132,7 +132,7 @@ if ((rTY7Fb >= -2105833216) && (rTY7Fb < -49951585))
 }
 else if ((n_d7ky < -1329179886) && (tb5B02u < 784214545))
 {
-AtvJvgL ^= tb5B02u;
+
 }
 else
 {

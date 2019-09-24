@@ -262,7 +262,7 @@ jQ_wRUsH = -724526093 / tK88O(-91517968, QR31yZ5sc, -1532785230);
 
 w5Tkwh = (K2d9o5 > 1132579424) ? jQ_wRUsH : b56pAC2y(Yloca3, 1778470869, -88793318);
 
-s5oz0fT = (int)ceil(kUigQrgNdB);
+
 
 TwWjMobf6 = (unsigned int)(k6mEY9p36);
 {
@@ -478,7 +478,7 @@ case 'h':
 
 break;
 default:
-K2d9o5 = (int)floor(pu_Vj656);
+
 break;
 }
 

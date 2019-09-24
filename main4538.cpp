@@ -181,7 +181,7 @@ else if (((z8L_ & E3LN48) && (nWJl == -542112489)) || (lRUC))
 }
 else
 {
-q__h = R7_k ^ 1115610539;
+
 }
 }
 else if (FD83c18iY8 & H5Jgw5pd)

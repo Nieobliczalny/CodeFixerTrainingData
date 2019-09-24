@@ -35,7 +35,7 @@ int main(int argc, char** argv) {
 	int	PjL15;
 
  unsigned short int PRVIK5LGAb;
- PRVIK5LGAb = -1987306471;
+
 	int	HOlrT2S8T;
 	HOlrT2S8T	=	-964911391;
 	unsigned short	G72nqw0;
@@ -69,7 +69,7 @@ int main(int argc, char** argv) {
     unsigned char    LU35c1O81G;
 
  unsigned long long KKR76Ad0Q;
- KKR76Ad0Q = 190475654;
+
  int E33OgII_x;
  E33OgII_x = -778868616;
 	long double	qW8B2p_AQ;

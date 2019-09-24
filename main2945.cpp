@@ -23,7 +23,7 @@ int main(void)
   unsigned long  E1d_AD2vU1;
 
     short int    BtV2J;
-    BtV2J    =    0;
+
 	unsigned long	zo1kCc1;
 	zo1kCc1	=	-1916186118;
   long double  NZ_R5w8;
@@ -33,7 +33,7 @@ int main(void)
   int  yAwzm69;
 
   unsigned short int  q9Iuvg69Y;
-  q9Iuvg69Y  =  1829456179;
+
  long OKl1KolL8R;
  OKl1KolL8R = -1697099834;
 	long	T5e36mQS5;
@@ -51,7 +51,7 @@ int main(void)
  int SgeEE;
 
   unsigned char  evaeT614u;
-  evaeT614u  =  1559930191;
+
     unsigned char    TuO7t3;
 
   long  yBEO6;
@@ -67,7 +67,7 @@ int main(void)
     unsigned char    aZ08;
 
   unsigned short  zbEJ73IgFM;
-  zbEJ73IgFM  =  2136811153;
+
  short h9gbSDj;
  h9gbSDj = 1373747826;
   long long  tZFJ;
@@ -81,7 +81,7 @@ int main(void)
 	char	z40r_1pvE;
 
 	char	R9i72KtEzR;
-	R9i72KtEzR	=	-1786930522;
+
   long  qgc3;
 
 	unsigned long long	NLzT1hUumM;
@@ -103,7 +103,7 @@ int main(void)
 	unsigned long long	a9S4;
 	a9S4	=	-1591302960;
   short  tWTaOy;
-  tWTaOy  =  -760109416;
+
 	short int	Nm_Bvk79;
 	Nm_Bvk79	=	-1714549960;
   unsigned long  SP3MecbO;
@@ -115,7 +115,7 @@ int main(void)
  short fr607e_i2;
 
     unsigned long    q040;
-    q040    =    -1530860825;
+
   long long  hoY9_;
 
 	unsigned char	nKU61FI;
@@ -134,7 +134,7 @@ int main(void)
 
 
 std::cout << tZFJ << T5e36mQS5 << "vTmpScCF" << std::endl;
-q040 = -640047990 / gq0pC7Fn_Y;
+
 if (QlcA0 < 835751451)
 {
 {
@@ -212,7 +212,7 @@ std::cout << YVyRX << std::endl;
 int i = 0;
 while (i < 5)
 {
-h9gbSDj = (int)abs(RwUuXpljQ);
+
 ++i;
 }
 }

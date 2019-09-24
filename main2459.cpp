@@ -241,7 +241,7 @@ case 6:
 
 break;
 default:
-shoX = QCEa7H4S(F0115) >> bFYI2;
+
 break;
 }
 }

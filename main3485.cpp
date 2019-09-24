@@ -118,7 +118,7 @@ int main(int argc, char** argv) {
 	unsigned long long	KAq42;
 	KAq42	=	239627100;
 	unsigned int	TmM0_8my6;
-	TmM0_8my6	=	-1919575019;
+
   unsigned short int  Ea1zg9b2e;
   Ea1zg9b2e  =  1185123917;
   char  PjUaTf8dZ7;

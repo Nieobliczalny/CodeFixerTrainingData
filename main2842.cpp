@@ -46,7 +46,7 @@ int j = 8;
 do
 {
 --j;
-j9GB = (ldkQE) ? -785659345 : KxGSEgT0YJ();
+
 }
 while (j >= 0);
 }

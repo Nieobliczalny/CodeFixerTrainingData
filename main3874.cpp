@@ -32,7 +32,7 @@ int main(int argc, char** argv)
   unsigned int  zJxO;
   zJxO  =  1803807509;
  long WX_iA11;
- WX_iA11 = -822545481;
+
  unsigned long long d4YT;
 
   short  I1aw5eg;
@@ -60,7 +60,7 @@ int main(int argc, char** argv)
     double    kNG15H;
     kNG15H    =    840283109;
   unsigned short  N32aG11_;
-  N32aG11_  =  -1853382075;
+
  short TpmwB3e;
 
  unsigned long ETAk913r;
@@ -419,7 +419,7 @@ case 'd':
 k9M5f0s = (int)ceil(Pi4ppf0);
 break;
 case 'e':
-X_0b1F9 = (int)ceil(kNG15H);
+
 break;
 case 'f':
 l2ShPsdf18 = C8RJ(-381691139, 234910181, -1633696716, -1228148739, 913072796);

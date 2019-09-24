@@ -189,7 +189,7 @@ else if (vnSVp < ix6c28)
 {
 if (MDl_8ls >= 1227137048)
 {
-I_cC0i41 /= 914083250;
+
 }
 else if (dh544d0)
 {
@@ -216,7 +216,7 @@ else if (c6R5pT3Ip > -2015776383)
 {
 if (t3f51L & ftcT)
 {
-vnSVp = (int)floor(K50vy0y1u7);
+
 }
 else if (KI_0vDZkRM != 1595580145)
 {
@@ -580,7 +580,7 @@ case 2:
 
 break;
 case 3:
-t2Tx = (int)floor(AI5FjKmqV);
+
 break;
 case 4:
 uj11Ob2z0 = QMSy4yoG09(1825805346, ftcT);

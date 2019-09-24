@@ -40,7 +40,7 @@ int main(void)
     short int    uEve0C11;
 
     unsigned short    wh7p;
-    wh7p    =    -139419032;
+
 	unsigned long	OK6x_QN9pj;
 
   unsigned short  Iw6by2d6;
@@ -56,7 +56,7 @@ int main(void)
     long long    iIBBl;
 
 	unsigned long long	g097x28;
-	g097x28	=	1407961543;
+
   short int  fbIcf0_;
 
  float jiSY37a90;

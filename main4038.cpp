@@ -23,7 +23,7 @@ int main(void) {
     T9HyDN    =    -1322283429;
     n9MbZ2SM5S    =    -1930865604;
     lUp6dB    =    -2012280355;
-    BMvwI2    =    518075806;
+
     ompIp68_    =    -1625416603;
     cnI_PiSo    =    -973398281;
     ZpvIY0    =    405290252;
@@ -52,7 +52,7 @@ int main(void) {
     l6p9lj    =    1077932075;
     mZUMU    =    15601842;
     Q6jrm    =    -1669835148;
-    tKXWPs    =    -1172670806;
+
     h4I8YN    =    -1709395301;
     qJaZP    =    -2075664953;
     p_Jm5    =    1514785908;
@@ -258,7 +258,7 @@ case 1:
 Z7AdqZk *= MT_2HAFMq_;
 break;
 case 2:
-l6p9lj *= 1839696278;
+
 break;
 case 3:
 r9u3eXlM %= c_AH2tD3;
@@ -285,7 +285,7 @@ while (j >= 0)
 switch (iJRuk3H)
 {
 case 0:
-Sm0f = l31yvJk & uPmm_aX;
+
 break;
 case 1:
 G8LF5z ^= 24420026;
@@ -565,7 +565,7 @@ else
 {
 for (int j = 3; j >= 0; j--)
 {
-l6p9lj = (long)(ZpvIY0);
+
 }
 }
 cout << pY33QQ1hF << aCtk1K << h4I8YN << "nS7BbF9h2" << endl;
@@ -705,7 +705,7 @@ case 'c':
 
 break;
 case 'd':
-Rw_pFlYGk = HD504B % c_AH2tD3;
+
 break;
 default:
 

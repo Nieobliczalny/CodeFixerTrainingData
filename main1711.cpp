@@ -359,7 +359,7 @@ case 2:
 
 break;
 case 3:
-eJ5P700H = (int)ceil(RXHJFsllr);
+
 break;
 case 4:
 

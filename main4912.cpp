@@ -24,7 +24,7 @@ int main(int argc, char** argv)
 	long long	bA_0d;
 
 	long	vxEgISCh3g;
-	vxEgISCh3g	=	-2086178425;
+
 	unsigned char	mHC_;
 	mHC_	=	-331763263;
 	long	pX1oM;
@@ -34,7 +34,7 @@ int main(int argc, char** argv)
     unsigned short    H7vdo5G_7F;
     H7vdo5G_7F    =    209180338;
 	unsigned char	R39F0;
-	R39F0	=	1233915106;
+
   char  yHtDX_zF;
   yHtDX_zF  =  -642864550;
   unsigned long long  n2ZE;
@@ -70,7 +70,7 @@ int main(int argc, char** argv)
  short int t6TIjjlYT;
  t6TIjjlYT = -1804201960;
     unsigned short    M7G23;
-    M7G23    =    1914987990;
+
   unsigned short  Sea5l4g9TU;
   Sea5l4g9TU  =  -1622558773;
     unsigned long long    G01a02nY;
@@ -82,7 +82,7 @@ int main(int argc, char** argv)
   unsigned short  yG_k7qb;
   yG_k7qb  =  -24814206;
     long double    InY1m;
-    InY1m    =    -784912945;
+
  double CVpc1l_;
  CVpc1l_ = 807813329;
 	long double	BdnbR;
@@ -102,7 +102,7 @@ int main(int argc, char** argv)
  long long NtJFVkG3j;
  NtJFVkG3j = 0;
   short int  m3KOzqgE2N;
-  m3KOzqgE2N  =  1618806615;
+
     unsigned int    i44QK;
     i44QK    =    -1136382228;
     long long    ZlP0q4y1;
@@ -134,7 +134,7 @@ int main(int argc, char** argv)
 	unsigned long	s6m3l3;
 	s6m3l3	=	-374713752;
     char    KTGnl;
-    KTGnl    =    -1911992763;
+
   unsigned short int  x9gH_0_I4;
 
 	unsigned long long	YjngYEA_m;
@@ -160,7 +160,7 @@ int main(int argc, char** argv)
  long double xf35K;
 
  long double e3Dd_Dh0;
- e3Dd_Dh0 = 1485959459;
+
   char  t4k8i;
   t4k8i  =  -931905130;
  long long o9N_KSS;
@@ -190,7 +190,7 @@ int main(int argc, char** argv)
     unsigned char    lI4OW;
 
   char  wybkTb;
-  wybkTb  =  -1076277714;
+
     int    qGnqoG1;
 
     float    bsOKiPVu4F;
@@ -208,7 +208,7 @@ int main(int argc, char** argv)
 
 if ((R_P_ / NtJFVkG3j) > -1260272304)
 {
-xf35K = (long double)(yHtDX_zF);
+
 }
 try
 {
@@ -222,7 +222,7 @@ std::cout << BDrXDz << M5IjnU4E << u_72MYN60(ad5P_MRY__, UjdL_6, t4k8i, -1448111
 }
 else if ((wsdXTHMeh == BdnbR) || ((qr4sR1_1) || (R6X5e)))
 {
-IaKJoaP7 ^= xc40K_L;
+
 }
 else if ((X3bF > 402236863) || ((CVpc1l_ <= mdi6Gi) && (P535R >= CxxSZ)))
 {
@@ -324,7 +324,7 @@ break;
 }
 
 
-IaKJoaP7 = (unsigned short int)(wsdXTHMeh);
+
 for (int i = 2; i >= 0; i--)
 {
 switch (s6m3l3)
@@ -339,7 +339,7 @@ case 2:
 
 break;
 case 3:
-t4k8i = y1D6(R_P_, -2066612475, t6TIjjlYT) & X_1EK0;
+
 break;
 case 4:
 
@@ -357,7 +357,7 @@ case 8:
 
 break;
 case 9:
-a3gQNH09 = Ha14qq29(-1575140208, 1096830994, YTg0, X_1EK0, abc2l);
+
 break;
 default:
 L6Pq0eK %= YUm8GoB;

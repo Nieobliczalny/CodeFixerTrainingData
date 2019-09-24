@@ -33,7 +33,7 @@ int main()
 
 	vlIqx1_zN_	=	1142045843;
 
-	J161	=	803515215;
+
 	U9H55	=	-126947179;
 	PGJk	=	-1715491161;
 	Co8sYe33A	=	1770174589;
@@ -48,7 +48,7 @@ int main()
 	Ssw_brHN8	=	-944629516;
 
 	LG0_bKiI	=	-1481249202;
-	Msc4CI	=	-1399626246;
+
 
 	sP5_Prto	=	539133215;
 	v8bR6s5T	=	557865805;
@@ -61,7 +61,7 @@ int main()
 	UhXZ77E0	=	-1800771140;
 	OkRM7Yj	=	1272890317;
 
-	KAAKQpJ_	=	1131251702;
+
 	gkRk	=	2082457054;
 
 	oEhQ	=	-304967203;
@@ -96,7 +96,7 @@ int main()
 	ge2Duqw	=	-2009106582;
 	rLleLnv	=	2104614145;
 
-	Df1D	=	491021373;
+
 	e2r2BWUJlH	=	394605322;
 	a7S2DNw	=	-940626094;
 	Lg4zu	=	872141148;
@@ -115,7 +115,7 @@ int main()
 	lWHf7	=	402137359;
 	u9PL	=	1939288637;
 
-	l588nzLt8	=	2134357777;
+
 	oJ4d	=	849524007;
 	oxjq7S	=	-2005211268;
 
@@ -293,7 +293,7 @@ case 4:
 
 break;
 case 5:
-wS25Lua0U7 = (int)abs(C3YD8BEFO);
+
 break;
 case 6:
 LG0_bKiI = Lg4zu / 1816327328;
@@ -682,7 +682,7 @@ case 5:
 
 break;
 case 6:
-fYK2 = (int)ceil(LGL_0C1);
+
 break;
 case 7:
 
@@ -737,7 +737,7 @@ case 'c':
 
 break;
 case 'd':
-Z7D_1m4m06 = t6Ht_MG * V2tL;
+
 break;
 case 'e':
 
@@ -749,7 +749,7 @@ case 'g':
 
 break;
 case 'h':
-Z7D_1m4m06 = (LGL_0C1 <= hLa8NUs) ? bSqmTOR : vSY16V;
+
 break;
 case 'i':
 

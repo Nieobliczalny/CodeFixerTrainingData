@@ -93,7 +93,7 @@ break;
 
 wZ5Myh = vryDVe5(HU1ku7);
 
-B_tV = FPS9X5JCWr(1140394500, -1031392037, 740627270, 1192623273, Pq6_2__43);
+
 if (rO44lFR3 & -1288718838)
 {
 gY3n_4W4 = c1P3c(g644CnFUL, -67891761, Dpkv__494, 1725434325);
@@ -158,7 +158,7 @@ case 2:
 LfskE = rO44lFR3 >> 936499112;
 break;
 case 3:
-SgNt7 = (int)floor(Dpkv__494);
+
 break;
 case 4:
 C4hfTzce0W = vryDVe5(-1651965030);

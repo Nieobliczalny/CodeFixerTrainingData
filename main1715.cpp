@@ -110,7 +110,7 @@ else if (LY00Kdm2 <= J_0L7o)
 {
 if (NfGu < 1401815995)
 {
-W99y_44 = (int)floor(F1Luse);
+
 }
 }
 else if ((oX99MFBq >= 2082316529) || (N0wK1JQ > LY00Kdm2))
@@ -150,7 +150,7 @@ while (i < 3);
 
 if (C3P4D8 != 2053412848)
 {
-vw6_5 >>= V_xTHF;
+
 }
 switch (oX99MFBq)
 {

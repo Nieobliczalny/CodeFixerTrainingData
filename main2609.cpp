@@ -76,7 +76,7 @@ int main()
 	int	Y_QitqH183;
 	Y_QitqH183	=	-1263102002;
  long AFn7;
- AFn7 = 2146669181;
+
 	short int	fDmNC3u7;
 	fDmNC3u7	=	-1321086511;
   unsigned int  a1zlv5QFkK;
@@ -126,7 +126,7 @@ int main()
     short int    Vn1C9;
 
   unsigned long  uQy4YV_PLt;
-  uQy4YV_PLt  =  2049675113;
+
     unsigned int    DB9u_eu;
 
     unsigned short    rYFP9D;
@@ -154,7 +154,7 @@ int main()
  unsigned short int qG__Wo;
  qG__Wo = 1272297521;
     double    w1xQTP;
-    w1xQTP    =    -1479626036;
+
     long double    V38j0_Vzq_;
     V38j0_Vzq_    =    1022259419;
 	char	y657Sf;
@@ -270,7 +270,7 @@ U93HaDot |= q6m02q7S;
 break;
 case 'b':
 case 'B':
-w1xQTP = (int)floor(C7bq_Un);
+
 break;
 case 'c':
 case 'C':
@@ -290,7 +290,7 @@ b6guzX5JB--;
 break;
 case 'g':
 case 'G':
-w1xQTP = ssE9cF_(nLR0w, 1396792283, GO634, 1318269334);
+
 break;
 default:
 w1xQTP = (int)floor(nP8xkUR);
@@ -365,7 +365,7 @@ case 'e':
 
 break;
 case 'f':
-G3U76 = (int)abs(dn_z5VE);
+
 break;
 case 'g':
 zFxNFA8B80 = CZDe3u_I5F(zFxNFA8B80, 225715712);

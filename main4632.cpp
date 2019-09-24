@@ -321,7 +321,7 @@ case 'b':
 tdw9 += 1148049236;
 break;
 case 'c':
-J5hJ6NCc5 = ry_KuH9H0 * pfJCe2quP;
+
 break;
 case 'd':
 
@@ -444,7 +444,7 @@ else if (vyjwn7ONMt >= Y23YsF)
 }
 else if ((P891) || ((r1A2) || (Vr8kwhhHZv == r0QW9nUC)))
 {
-J5hJ6NCc5 -= 1268209992;
+
 }
 else if (y71jgkYq6 >= KGL04)
 {
@@ -1018,7 +1018,7 @@ case 3:
 
 break;
 default:
-H05mrZ3_c = r0QW9nUC | 952060991;
+
 break;
 }
 return 0;

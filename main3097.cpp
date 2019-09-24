@@ -151,7 +151,7 @@ case 3:
 
 break;
 case 4:
-H4Ojnj9Lq = sj90ah ^ QJwGSIO;
+
 break;
 case 5:
 
@@ -333,7 +333,7 @@ case 2:
 
 break;
 default:
-SF7XM01 = u4R4 * 37847939;
+
 break;
 }
 

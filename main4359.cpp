@@ -337,7 +337,7 @@ case 'c':
 
 break;
 case 'd':
-Rk3P4lS7 = vhdgDe >> 329830644;
+
 break;
 case 'e':
 L61All--;

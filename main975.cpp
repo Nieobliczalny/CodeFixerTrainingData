@@ -46,7 +46,7 @@ int main(void)
   kb0qI507R  =  2095543950;
   A7v3Bo  =  813852033;
 
-  Wfh0  =  -2127610773;
+
   yBgA  =  -966346493;
   QywbDH0  =  607171690;
   YOfkU39fe  =  915255797;
@@ -82,7 +82,7 @@ do
 int j = 7;
 do
 {
-h9N5M_ = (float)(D3Lq);
+
 --j;
 }
 while (j >= 0);
@@ -169,7 +169,7 @@ Y2f5 = hPMPR(Y2f5);
 }
 else if ((JGWWSo6_d >= 280693314) && (y140Q10 < -468608249))
 {
-h9N5M_ = (int)floor(gFTM9);
+
 }
 else if (trT39z == QywbDH0)
 {
@@ -218,7 +218,7 @@ case 4:
 
 break;
 case 5:
-yBgA = hPMPR(-452636287);
+
 break;
 case 6:
 Y2f5 = (int)ceil(V6C48B5Kl);
@@ -252,7 +252,7 @@ else if (g4rXIe == -1810552799)
 {
 if (V6C48B5Kl)
 {
-A7v3Bo -= 1214071007;
+
 }
 else if (rXG9DJH66 >= -766662036)
 {

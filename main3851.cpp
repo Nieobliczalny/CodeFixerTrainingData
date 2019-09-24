@@ -186,7 +186,7 @@ case 1:
 rl8T61 = dKeB34H018 - 399208994;
 break;
 case 2:
-xXqw *= 107649679;
+
 break;
 case 3:
 
@@ -198,7 +198,7 @@ default:
 
 break;
 }
-uu403d9nJ9 /= 982426518;
+
 aA94kcV9QH = R22z * 1769641567;
 try
 {
@@ -261,7 +261,7 @@ case 3:
 
 break;
 case 4:
-NQCGPY85 = A600pvUxv + 120080910;
+
 break;
 case 5:
 

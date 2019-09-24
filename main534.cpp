@@ -231,7 +231,7 @@ break;
 }
 }
 
-SMl1E1T91S = (int)abs(ZlUr5m);
+
 
 try
 {
@@ -361,7 +361,7 @@ while (i < 4)
 ++i;
 try
 {
-SMl1E1T91S = J0blg ^ yY1616goJ_;
+
 }
 catch (int& errorCode)
 {

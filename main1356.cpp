@@ -157,7 +157,7 @@ vpsH0 += mnMno;
 break;
 case 'b':
 case 'B':
-GyeDMTE_g5 = a063R * 395921044;
+
 break;
 case 'c':
 case 'C':

@@ -57,7 +57,7 @@ std::cout << YE4Y << gmSu4x0_2 << "JLQh" << K0XMg7dQ3 << "fGIulB" << std::endl;
 zQ7tcEt = (unsigned char)(ie7g8_99K);
 WTFu = -883980368 / q76x2h;
 
-E7tt95pX9 = ruLXX7();
+
 
 switch (zQ7tcEt)
 {
@@ -102,7 +102,7 @@ case 1:
 VkMhn = (int)floor(JQ4ZM6);
 break;
 case 2:
-ie7g8_99K = (ECEVtHt3 != 674797876) ? u0575Pq4k7(ECEVtHt3, g15b_y2, -923618692) : gmSu4x0_2;
+
 break;
 case 3:
 NX8d1BI8G = (int)floor(Nx1v51M8U);
@@ -218,7 +218,7 @@ case 2:
 
 break;
 case 3:
-JQ4ZM6 = (R9soX9tB >= 1915845215) ? x_Pm : JQ4ZM6;
+
 break;
 case 4:
 
@@ -260,7 +260,7 @@ case 1:
 
 break;
 case 2:
-Nx1v51M8U = (int)floor(VPPRiw454M);
+
 break;
 case 3:
 
@@ -275,7 +275,7 @@ case 6:
 x_Pm = ZOBJM9(-634793027, -295125428);
 break;
 case 7:
-Nx1v51M8U = (int)floor(JQ4ZM6);
+
 break;
 case 8:
 

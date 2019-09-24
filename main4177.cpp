@@ -40,7 +40,7 @@ int main()
     char    S_G7F817e;
 
     unsigned short int    X88vm2j88;
-    X88vm2j88    =    954604252;
+
   short int  g_d_3;
   g_d_3  =  -852303868;
     unsigned int    WqQGD_Mm03;
@@ -76,7 +76,7 @@ int main()
 	unsigned long	LT5E;
 	LT5E	=	54206260;
 	unsigned char	ni3oKou;
-	ni3oKou	=	469466341;
+
  char rf791b5n6n;
  rf791b5n6n = -502544004;
   unsigned long  R65roUTn;
