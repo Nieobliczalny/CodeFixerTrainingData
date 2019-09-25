@@ -294,7 +294,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-G23Q = (int)abs(GCM64_s);
+
 break;
 case 'f':
 case 'F':

@@ -56,7 +56,7 @@ int main() {
 	int	GwylZU55M;
 	GwylZU55M	=	808317459;
     float    X5XC167B;
-    X5XC167B    =    -1737548132;
+
     char    At1sKKB0R;
     At1sKKB0R    =    -1407874850;
   long double  al5j;

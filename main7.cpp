@@ -119,7 +119,7 @@ int main(int argc, char** argv)
  unsigned short fqt71ty;
 
 	long	A3djly;
-	A3djly	=	-535873478;
+
 	unsigned char	Sfdw;
 	Sfdw	=	1842842225;
     short    vEh2;

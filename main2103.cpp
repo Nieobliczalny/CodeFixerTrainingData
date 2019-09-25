@@ -103,7 +103,7 @@ int main(void)
  unsigned int IxvR;
 
  short X45VPuhQ;
- X45VPuhQ = -352499335;
+
     float    fytToLXT84;
     fytToLXT84    =    -1856727086;
 	long long	qYcG2;
@@ -123,7 +123,7 @@ int main(void)
  unsigned short int ecNRDV80;
 
  double rzLcu;
- rzLcu = 460244032;
+
 	long double	jp8X;
 
     long    lYw4S;

@@ -142,7 +142,7 @@ int main()
   float  i24AoXdEJ;
 
   float  r6d91jCsS;
-  r6d91jCsS  =  2076613950;
+
  short int j69LQ01a;
 
 	unsigned long long	yQGu;
@@ -204,7 +204,7 @@ int main()
 	unsigned long	kbTr8N0;
 	kbTr8N0	=	0;
   float  cY_yQ0_7;
-  cY_yQ0_7  =  -774131054;
+
 
 for (int i = 0; i < 2; i++)
 {

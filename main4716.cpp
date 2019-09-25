@@ -116,7 +116,7 @@ int main(int argc, char** argv)
  short int X_g_;
 
 	short	JfyvmY;
-	JfyvmY	=	-870166110;
+
   short int  a7RL7T9;
 
     unsigned long    fuIPp52HWE;

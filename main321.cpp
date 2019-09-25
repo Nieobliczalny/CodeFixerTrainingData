@@ -34,7 +34,7 @@ int main(int argc, char** argv)
 
 
 
- RyoEkiOD = 1639573419;
+
  w1q0a = -1980999806;
  Hjc_u571h0 = -884208751;
 

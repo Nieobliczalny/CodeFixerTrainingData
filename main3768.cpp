@@ -164,7 +164,7 @@ while (j < 1);
 }
 if (VzEXNH31)
 {
-HI63Ca77E = (long double)(GEfUwf1);
+
 }
 else if ((HI63Ca77E != 2116651777) && (Ykp1g >= 633266870))
 {
@@ -294,7 +294,7 @@ int k = 3;
 while (k >= 0)
 {
 --k;
-HI63Ca77E = (int)abs(C05K);
+
 }
 }
 }
@@ -310,7 +310,7 @@ else if (GEfUwf1 > 763789094)
 }
 else if (((C05K != -641957797) && (VzEXNH31 >= -21897112)) && (Rj3NY & RniRJl))
 {
-HI63Ca77E = (int)ceil(ybAug3BGV);
+
 }
 else
 {

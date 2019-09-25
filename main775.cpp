@@ -78,7 +78,7 @@ int main(void) {
 	unsigned long long	IVmw8_DEl;
 
   unsigned char  W71c692s9A;
-  W71c692s9A  =  714677370;
+
 	short	oE95VVv_9;
 	oE95VVv_9	=	992629464;
 	unsigned short int	G665G;

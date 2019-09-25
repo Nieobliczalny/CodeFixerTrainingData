@@ -61,7 +61,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-Y50voy9 = pXgM1J + CC97Gj4;
+
 break;
 case 'c':
 case 'C':
@@ -153,7 +153,7 @@ HEHyI2GV = (int)abs(wlxbe0IDM);
 int i = 0;
 while (i < 10)
 {
-EH1g7sFQ1 = dwoK(-1497194627, 907093094, TrHKN3D7, Us0n3RCG3P, 841755939);
+
 i++;
 }
 }

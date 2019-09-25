@@ -64,7 +64,7 @@ case 0:
 
 break;
 case 1:
-VaeZ13 = U58Gu1_(tLOZ93_63, 1809739727, PK2ku_8j74, R_OY_Efk, 237121815);
+
 break;
 case 2:
 
@@ -76,7 +76,7 @@ case 4:
 
 break;
 case 5:
-XT0P9RoIBj = U58Gu1_(1210650916, 264408579, ivMltZfu, G61Zc772, JG8xXPW87D);
+
 break;
 case 6:
 VaeZ13 = (int)abs(G61Zc772) * 0;
@@ -135,7 +135,7 @@ while (k >= 0);
 
 pgZ8NU1 = (float)(c_9YJ);
 
-PR66oC5S = (unsigned short int)(ivMltZfu);
+
 
 switch (l7AFbD6T7)
 {

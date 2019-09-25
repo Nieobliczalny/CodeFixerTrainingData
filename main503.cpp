@@ -69,7 +69,7 @@ int main(int argc, char** argv) {
 	short int	Wt41o;
 
   unsigned char  gvkrc;
-  gvkrc  =  3213503;
+
 	int	gw__8BsFyu;
 
  unsigned long long x3gAxe;

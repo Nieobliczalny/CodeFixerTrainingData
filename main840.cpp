@@ -41,7 +41,7 @@ int main(int argc, char** argv)
   b3Q0Byw9  =  -1217082151;
   Owvk_ZIA  =  1122204608;
 
-  A93N  =  -1050714290;
+
   IPVm  =  -1587909777;
 
   gjln8p  =  -2041364365;
@@ -63,7 +63,7 @@ int main(int argc, char** argv)
 
 
 
-  S74g  =  573169869;
+
   ah_W1s9ugT  =  -1526385754;
 
 

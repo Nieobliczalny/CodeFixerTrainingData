@@ -516,7 +516,7 @@ case 'b':
 
 break;
 case 'c':
-R653wu = (int)floor(g5oM);
+
 break;
 case 'd':
 

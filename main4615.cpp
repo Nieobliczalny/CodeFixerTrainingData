@@ -65,7 +65,7 @@ int main(int argc, char** argv)
  long double gvc__;
  gvc__ = 1099242450;
  char uXjcg;
- uXjcg = 592767416;
+
  int Qszi4t;
 
     long double    PugkR_9yx;

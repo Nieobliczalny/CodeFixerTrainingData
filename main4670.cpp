@@ -354,7 +354,7 @@ if (Cyiv & DcN_)
 {
 if (Ci5psy)
 {
-zV48xQIj = (int)ceil(HDz3Ap7y);
+
 }
 }
 else

@@ -137,7 +137,7 @@ int main(int argc, char** argv)
   long long  o6LbdenC1Q;
 
   short  s3M8LM_9;
-  s3M8LM_9  =  -1860413310;
+
 	long long	jMAsO_tYe;
 	jMAsO_tYe	=	-761094421;
   unsigned long long  nHX3add0UJ;
@@ -229,7 +229,7 @@ tI_1 = XP7wR2(-1748901196, oqwNs3v, G5jCw0i, 747314899);
 
 tI_1 += Mw48p;
 
-J38gw = xM2P21() / 1512473877;
+
 
 for (int i = 3; i >= 0; i--)
 {
@@ -407,7 +407,7 @@ case 2:
 
 break;
 case 3:
-s3M8LM_9 = XP7wR2(-177694840, s07s4M4X, 769872742, 900863317) % 1478022065;
+
 break;
 case 4:
 

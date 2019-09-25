@@ -140,7 +140,7 @@ int main(int argc, char** argv) {
 	double	q1EA;
 	q1EA	=	262950522;
 	float	IWA86D7;
-	IWA86D7	=	8989554;
+
   short  kzb1;
   kzb1  =  -106255258;
   char  oj75bmK0;

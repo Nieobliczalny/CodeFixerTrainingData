@@ -34,7 +34,7 @@ if (GffOd6660 != j12L)
 }
 else
 {
-MY__Q9 = z3Cf_(MY__Q9, 1819374201);
+
 }
 cout << Q5S4QrRW << endl;
 
@@ -50,7 +50,7 @@ else
 
 
 
-H4Ldg3rl2 &= naW__;
+
 switch (nE7q8OfmX)
 {
 case 'a':

@@ -236,7 +236,7 @@ if (w90OFHFN3 > f8tQ9dw9)
 }
 else
 {
-mc1mW = (int)ceil(b9v_8uPt);
+
 }
 }
 }

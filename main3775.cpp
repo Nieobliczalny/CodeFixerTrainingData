@@ -39,7 +39,7 @@ int main(void)
   long  g0H33;
 
   long  W3rbTwh6;
-  W3rbTwh6  =  -1881531053;
+
   unsigned long long  SGF_7iSVz;
 
 	char	zS50r;
@@ -59,7 +59,7 @@ int main(void)
     long long    Ic7i;
     Ic7i    =    -1250890859;
   unsigned short  cxtOlyU0yn;
-  cxtOlyU0yn  =  -58835981;
+
   unsigned long  nq7j5;
   nq7j5  =  -1886557899;
   short int  o1o545m;
@@ -221,7 +221,7 @@ int main(void)
     long double    FrWY;
 
  int Zh5K3I3Mkc;
- Zh5K3I3Mkc = 1676405955;
+
 
 if (((GckW & 1846092124) && (W5313vQw86 >= OyaiO)) && ((mW82oTSBP < -1282700097) || (LihPFTKow3 != -2019382959)))
 {
@@ -502,7 +502,7 @@ case 9:
 ebqyOMI_8u = gcYX << WEKbeR4;
 break;
 default:
-eSnk11 = k4XYs();
+
 break;
 }
 

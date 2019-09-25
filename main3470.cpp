@@ -224,7 +224,7 @@ else if ((i2qSwx2C < p19IUq7ZB) && (wQQ7B))
 {
 for (int k = 0; k < 9; k++)
 {
-lMDF = dTd46h_zK * dTd46h_zK;
+
 }
 }
 else

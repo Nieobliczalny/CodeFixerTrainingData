@@ -80,7 +80,7 @@ int main(void) {
     long double    jV_7Jo9Yvw;
     jV_7Jo9Yvw    =    -833083013;
     long long    Zu1M5k9;
-    Zu1M5k9    =    0;
+
 	long	zQGfVM;
 	zQGfVM	=	-1398312106;
  int lI2Y;
@@ -94,7 +94,7 @@ int main(void) {
   float  E2Dht;
   E2Dht  =  1287350646;
   char  vXd5L5wS;
-  vXd5L5wS  =  0;
+
  float p52t_1;
 
 	short int	J1J71j5;
@@ -132,7 +132,7 @@ int main(void) {
     unsigned long    mLh5yB4w3;
 
   long  Q9e_70LfRz;
-  Q9e_70LfRz  =  -86680049;
+
  long long J8FP;
 
 	unsigned short	Q5U2G;
@@ -158,7 +158,7 @@ int main(void) {
     long long    YFx7ZrLl;
 
 	long double	sccp82;
-	sccp82	=	384633128;
+
     unsigned short int    o6_7z;
     o6_7z    =    1177517759;
   unsigned short  DqO7dK7gIq;

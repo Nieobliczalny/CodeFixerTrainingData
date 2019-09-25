@@ -101,7 +101,7 @@ int main()
 	unsigned char	S15X8A30;
 	S15X8A30	=	18710746;
 	int	NSl8jvsE7;
-	NSl8jvsE7	=	-1627796336;
+
   char  KNNR;
 
     unsigned long    Rye5B184;
@@ -156,7 +156,7 @@ try
 int j = 5;
 while (j >= 0)
 {
-NSl8jvsE7 = (int)(euQrCzzi);
+
 j--;
 }
 }
@@ -391,7 +391,7 @@ case 6:
 p4Mrp = jM_L_DTCP(1867128446, ilc612G20, RINx7);
 break;
 case 7:
-n5yuy506f = (int)floor(jZVh);
+
 break;
 case 8:
 v8EF3BB1mR = H7WV6b(418782335, 1260743504, 568444291, 1130807382);

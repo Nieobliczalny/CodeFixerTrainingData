@@ -58,7 +58,7 @@ bR0F3X_x3 = ZT8xt41(bR0F3X_x3, A3AQ2, 988311637, iHNkY1dVD_);
 }
 else
 {
-w93T1 = (int)floor(m0ST6);
+
 }
 }
 }

@@ -52,7 +52,7 @@ int main(void)
     unsigned long    pEsf6r9I9f;
 
 	unsigned short int	ZKLTgA;
-	ZKLTgA	=	-339343865;
+
 	unsigned long	U7v3UR73o;
 
     char    qzH6Ol;
@@ -120,7 +120,7 @@ int main(void)
     long double    ou39ORM;
 
  long long aOKQAvU7Dn;
- aOKQAvU7Dn = 217127561;
+
   double  x9t8;
 
  unsigned short f1K5zw_n0t;

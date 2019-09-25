@@ -91,7 +91,7 @@ int main(void) {
  short int p90_J_WK8;
 
     double    JdJx04;
-    JdJx04    =    -342619678;
+
   unsigned short  HnuH1CP;
 
     unsigned char    WoF5dq0;
@@ -135,7 +135,7 @@ int main(void) {
  short YmLI06Z;
 
     unsigned long long    lRrw;
-    lRrw    =    2089721169;
+
  unsigned char FX6GK;
  FX6GK = -1372646390;
   unsigned int  HHW_p0KmC;

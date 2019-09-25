@@ -223,7 +223,7 @@ else if ((nfIBr & -344662728) || (cf2818fW_2))
 }
 else if (Pzpf)
 {
-P_32 = (int)ceil(ia8xxh30);
+
 }
 else
 {

@@ -48,7 +48,7 @@ int main(int argc, char** argv)
   short  LPm3;
   LPm3  =  -430442066;
     char    y455mzN1_;
-    y455mzN1_    =    707210460;
+
  unsigned short int KA_xRFWl1;
  KA_xRFWl1 = 1444612896;
  int EVlsV;

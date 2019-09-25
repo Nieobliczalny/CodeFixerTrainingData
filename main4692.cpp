@@ -110,7 +110,7 @@ int main(int argc, char** argv)
   unsigned short int  Mlwhl3;
 
     long long    ks6rz3V;
-    ks6rz3V    =    441792332;
+
   unsigned int  hOrmt7C;
   hOrmt7C  =  1508024962;
  unsigned long long I3Uh0AkpU;

@@ -103,7 +103,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-JTE68 = (int)floor(w2Wh1gy);
+
 break;
 case 'd':
 case 'D':

@@ -57,7 +57,7 @@ int main()
 	float	r2_Tz;
 
  long x09t2zBNO;
- x09t2zBNO = -109113566;
+
  long double G1WFxTa;
  G1WFxTa = 881446027;
  unsigned short gg1QzK;

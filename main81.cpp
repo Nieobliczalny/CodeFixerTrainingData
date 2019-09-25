@@ -80,7 +80,7 @@ int main(int argc, char** argv) {
     long    JsQtxOhvz;
 
  long double l2qrZ;
- l2qrZ = -316581420;
+
  unsigned int xDDY;
 
 	int	E1KY;
@@ -114,7 +114,7 @@ int main(int argc, char** argv) {
  unsigned short int BC2ZH_;
 
  unsigned char r9b4w9gI;
- r9b4w9gI = 1321759472;
+
  long double LIiFRgzGi9;
  LIiFRgzGi9 = 1227258544;
     unsigned long long    kq_c;
@@ -162,7 +162,7 @@ int main(int argc, char** argv) {
  unsigned short int yLwRy;
 
  double GeTdwu;
- GeTdwu = -1563477352;
+
  unsigned short h8Nc;
 
     unsigned short int    pSW05;

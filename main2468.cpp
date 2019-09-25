@@ -21,6 +21,7 @@ unsigned short int    l7Q07ywq41(long long    rQt1,long    aWGCk4A,char    rKE38
 int main(int argc, char** argv)
 {
  short int po9UQvVK, z831nZA0O;
+  // codechecker_intentional [deadcode.DeadStores] Design rule - initialize all variables
   po9UQvVK = z831nZA0O = 0;
  unsigned short TqdrRBUq, D2D8_, nSOMq1__l, b_15aBn_A, DW1b4, U790_a6, e3xwVdo36O, zQh4, F1aQp, wJ3yO, Mlr37G, v_j4y, b_zH2, x3ohO1_jlM, IIc8yuXsw3, x2GWW, lozJwq, h9p3TaKXz, l3JZbb, u9OtC, Bm3scBy, ePXECPbyn6, r3n65Z9SGs, D44_Hd, ab4rUOmt, fs5yo9z, LvMN, LoMv5, nSpM4MW02, D6_Yeqa7q_, HB91NIXH, dUlnELt, u74W88QsI, x4_vL9cc, cJXy, CDn_, UYEj60X2XS, u52bDLDDO, yAOCKt2, IPrHIHtpC, go75_5B9, CDM3em1L, aeB0, hg8CeNp, NeVOF7, zxO7vRvbC, hviQxA, njOcS_S35, J4A5Q_oL9, FaFi1, ff73Cyf, f5DNn3_6, Ql_5q3O6r4, a5E9, rvX38p, Z4KLqzOD, G0F2Rkl6, HwIW, HSwaV, Q6hvo, f5JV6hl5, G3618, GGt0R__, kQwv, Ih1TjtL5, wl5igd4Le, kg3wQ1e, RD_00u, p22IPY0xE, Epevcwu, MjSLvUu7, fiM78mRc, ZL7X0x, vj9yGv, VvBO, Z4tQg97n, HT0lTtC, opPsR, sgGw, BKl_yNV, yG99OH, Fyp5, FWj77, vi_e, sWXLf9jgV, EEvLo83, KNBlWBg_, e5u95nM_1;
   // codechecker_intentional [deadcode.DeadStores] Design rule - initialize all variables

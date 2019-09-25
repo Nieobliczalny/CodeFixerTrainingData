@@ -23,7 +23,7 @@ int main(int argc, char** argv)
 
 
 
-    TDTo    =    -52786585;
+
     j0B07r0tNo    =    -1515104564;
     GNNg    =    -2144832186;
     fZtutzkY3    =    1373679314;
@@ -56,7 +56,7 @@ int main(int argc, char** argv)
     PG0SGH9    =    -1118776478;
     Y70426    =    -2099005940;
 
-    WTJLhEC    =    -702911831;
+
 
     CwX7xEMr    =    1017859485;
     hQ5c_    =    -2143788272;
@@ -79,7 +79,7 @@ int main(int argc, char** argv)
     ZU51    =    47189831;
 
 
-    K9pHSyy1xj    =    1449672466;
+
     MSIHoB    =    172324682;
     x074Qwbn    =    1466671238;
     q_Uy    =    -1967150856;

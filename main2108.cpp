@@ -117,7 +117,7 @@ int main(int argc, char** argv)
     char    J5X64j4sg;
 
   unsigned short  eK3aFDG;
-  eK3aFDG  =  -1235371512;
+
     unsigned long    UD685cteG8;
 
   long long  x6unV;
@@ -128,7 +128,7 @@ QYVf4Yx5 ^= LnlZqaF3eb;
 
 
 
-dzMwE_Wen = lM4AfT6g5 / WY2Z6(-1907932427, 1667427988, pm_2t5AxAZ, U01Xrvs);
+
 
 
 

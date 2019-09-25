@@ -92,7 +92,7 @@ int main(int argc, char** argv) {
     int    h_p2ISC;
 
 	unsigned short int	pOUK4zQ6tP;
-	pOUK4zQ6tP	=	1573004692;
+
  double nhf_nMG65_;
  nhf_nMG65_ = -637464120;
     unsigned long    LkJFgR;
@@ -126,7 +126,7 @@ int main(int argc, char** argv) {
 	short	QhUFLXo;
 	QhUFLXo	=	1768382874;
  unsigned long O6_zz14__2;
- O6_zz14__2 = -978170279;
+
     unsigned int    Zs8w4jJm;
     Zs8w4jJm    =    -1088432361;
  unsigned long long w6RE67E;

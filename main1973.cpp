@@ -110,7 +110,7 @@ int main(int argc, char** argv)
     unsigned long long    L8Vu95;
 
 	long long	H4t05Dz;
-	H4t05Dz	=	-684760577;
+
  unsigned short int TBWQC;
 
     unsigned short    oB0Njt6Q0_;

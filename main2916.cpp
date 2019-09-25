@@ -136,7 +136,7 @@ int main() {
     float    yS2aT2;
 
 	double	U2XP16H;
-	U2XP16H	=	-1655359021;
+
  double uZT_j7N;
 
 	short	E0ne_cV;

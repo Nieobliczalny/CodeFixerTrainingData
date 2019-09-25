@@ -31,7 +31,7 @@ if (i7woOg35_F)
 {
 if (f57gJfsS8K < 747797550)
 {
-f57gJfsS8K >>= 887074471;
+
 }
 else
 {
@@ -71,7 +71,7 @@ case 'a':
 
 break;
 case 'b':
-sBW4WBHp = Dxh_eh & 870246331;
+
 break;
 case 'c':
 R8C_NOb = aD90H7H();
@@ -109,7 +109,7 @@ while (k < 4);
 }
 }
 
-i7woOg35_F = aD90H7H();
+
 
 
 
@@ -121,7 +121,7 @@ case 0:
 R8C_NOb = aD90H7H();
 break;
 case 1:
-i7woOg35_F = aD90H7H();
+
 break;
 case 2:
 
@@ -133,7 +133,7 @@ case 4:
 
 break;
 case 5:
-i7woOg35_F = aD90H7H();
+
 break;
 case 6:
 

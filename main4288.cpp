@@ -167,7 +167,7 @@ int main(void)
  unsigned int D_gg1V;
 
     long long    IhCE_kK;
-    IhCE_kK    =    1830096989;
+
 	long	T4OKC1__L;
 	T4OKC1__L	=	1645188231;
     char    UhxQ57;

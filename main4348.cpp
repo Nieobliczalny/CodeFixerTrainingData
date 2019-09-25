@@ -65,7 +65,7 @@ int main(void)
     unsigned short    h_t91;
 
     unsigned short int    It32qQ25tY;
-    It32qQ25tY    =    1574779269;
+
  unsigned char q2c6eo_;
  q2c6eo_ = -1678164373;
 	unsigned short	i9K5;
@@ -107,7 +107,7 @@ int main(void)
     long    WNn8gv;
 
  unsigned short int fIyPPhY44b;
- fIyPPhY44b = 0;
+
  char niP3;
  niP3 = -2037588203;
 	char	Y0eIxjPZI;
@@ -127,7 +127,7 @@ int main(void)
  short fbFg7hjP5;
 
   int  yx0U_3_0Y;
-  yx0U_3_0Y  =  1214084283;
+
   long long  Y2t_Hz;
 
     char    LGxSr37vM;
@@ -165,7 +165,7 @@ int main(void)
 	unsigned long	ev8i_10;
 
   unsigned long  Va49_d;
-  Va49_d  =  1066423902;
+
  long long WOy4j4;
 
  unsigned short int fL7Z3;

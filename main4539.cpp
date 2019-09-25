@@ -41,7 +41,7 @@ int main()
 	long double	GYH9K3U;
 
     unsigned long    ti8j65;
-    ti8j65    =    -1535593331;
+
  unsigned long c_KBn83d8;
  c_KBn83d8 = 0;
 	unsigned short int	G4f01;
@@ -81,7 +81,7 @@ int main()
   unsigned short  dF2R6L39hc;
 
     unsigned long long    qQy_Z5;
-    qQy_Z5    =    -1995513352;
+
     char    FKNaoPdX;
 
 	long double	qVl9w6aTdY;
@@ -119,7 +119,7 @@ int main()
 	long long	X_5uKq;
 
   double  C4G_;
-  C4G_  =  -1769761474;
+
 	int	JZV_3d5;
 
     short int    gSb5NZW;
@@ -155,7 +155,7 @@ case 'e':
 
 break;
 case 'f':
-GYH9K3U = (int)floor(J1qlk8);
+
 break;
 case 'g':
 

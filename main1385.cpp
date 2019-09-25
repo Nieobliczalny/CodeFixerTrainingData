@@ -64,7 +64,7 @@ int main(int argc, char** argv) {
 	char	RyPqU3t8X;
 
     float    x64d_9S;
-    x64d_9S    =    942062903;
+
 	int	V8C8_DPV3U;
 	V8C8_DPV3U	=	-69168356;
  unsigned long long lRBx;
@@ -150,7 +150,7 @@ int main(int argc, char** argv) {
  unsigned short QGoNa;
 
  float Bq6Ozh;
- Bq6Ozh = -1151463152;
+
  long NeY7A;
  NeY7A = 511901351;
  long long en5n5X_;

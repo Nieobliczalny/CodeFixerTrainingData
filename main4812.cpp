@@ -122,7 +122,7 @@ int main()
   double  NAX4TGli;
   NAX4TGli  =  -2071376564;
   double  dSTG8W;
-  dSTG8W  =  192712303;
+
 	long	G3_0kZrYiS;
 
     long    CuNKk0qzJ0;
@@ -192,7 +192,7 @@ int main()
 	unsigned short	x5V9;
 
 	unsigned long long	mztT7bv58;
-	mztT7bv58	=	-1038458423;
+
   unsigned long  y53XQ0oC;
 
     unsigned char    S7CHoR;

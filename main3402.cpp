@@ -20,7 +20,7 @@ int main(int argc, char** argv) {
   long double  nBtIJk9x;
 
     double    TgUibZLm4;
-    TgUibZLm4    =    686094131;
+
     int    eUX3;
 
   int  eRT2_6t62y;
@@ -56,7 +56,7 @@ int main(int argc, char** argv) {
  int e9uWPr4;
 
  long double qS181B;
- qS181B = 208412121;
+
  short int AUE61JyRrf;
 
 	double	hLFSN7b;

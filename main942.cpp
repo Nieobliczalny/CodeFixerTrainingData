@@ -36,7 +36,7 @@ int main(int argc, char** argv)
 	char	kZyEPeq;
 
  unsigned short wPK6;
- wPK6 = 1343965641;
+
 	char	kvFX0Q7F;
 	kvFX0Q7F	=	1494236333;
 	short	xYMXXE;

@@ -153,7 +153,7 @@ int main(int argc, char** argv) {
     unsigned short int    Zr3KH0;
 
 	unsigned short	EL7M_AD;
-	EL7M_AD	=	-1134615194;
+
   long long  vX5xlt6;
 
 	int	E5BbZmdT;

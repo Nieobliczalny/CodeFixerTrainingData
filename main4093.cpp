@@ -50,7 +50,7 @@ int main(int argc, char** argv)
 
   yl1Tu  =  -965740059;
 
-  Zgor6  =  -401130969;
+
   G43usS1  =  541108637;
   f6kaR83C  =  2106882493;
   Q55QFQ5DTR  =  1983040743;
@@ -92,7 +92,7 @@ int main(int argc, char** argv)
   t_4CguK7_i  =  -1715599528;
   J7_m19  =  1029087885;
 
-  ZXO1Yn3RM  =  -405053630;
+
 
   ekt6Rt9ym  =  946719537;
   E03Qi8rGX  =  -1437334139;

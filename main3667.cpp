@@ -62,7 +62,7 @@ case 2:
 
 break;
 case 3:
-Bfc1_ = ok_2814bm(-1747112449, -441399541);
+
 break;
 case 4:
 n8_Qf0 = ok_2814bm(hyc1x8, -975901291);
@@ -77,7 +77,7 @@ case 7:
 
 break;
 case 8:
-DWqj = K86x * 1251152709;
+
 break;
 default:
 pCxTvmtZ = ok_2814bm(I9V7v2421, k0_66);
@@ -111,7 +111,7 @@ if (ok_2814bm(I9V7v2421, 2095919367) == 0)
 {
 
 }
-gX7BZa0V2 = (int)(pCxTvmtZ + (-972688392));
+
 
 return 0;
 }

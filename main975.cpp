@@ -47,7 +47,7 @@ int main(void)
   A7v3Bo  =  813852033;
 
 
-  yBgA  =  -966346493;
+
   QywbDH0  =  607171690;
   YOfkU39fe  =  915255797;
 

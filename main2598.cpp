@@ -228,7 +228,7 @@ else if (iiRM & -57173599)
 }
 else
 {
-Qil732 = W_TQQMNV - CiTzN9P70;
+
 }
 }
 }
@@ -240,7 +240,7 @@ std::cout << XF_Wape << RUPVEBYN3U(-1914881591, 1285712764, iGSc31N, n64Y26eQ2L,
 }
 else
 {
-VH3ZO7N5 = (long double)(Rj_820I);
+
 }
 
 switch (iiRM)

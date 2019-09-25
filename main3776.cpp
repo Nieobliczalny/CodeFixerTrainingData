@@ -93,7 +93,7 @@ int main() {
  unsigned int shGk_3;
 
     unsigned short    Fp2q0;
-    Fp2q0    =    0;
+
 	char	SJsq_9;
 
  unsigned long MmNCq4;

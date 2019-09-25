@@ -53,7 +53,7 @@ int main()
  w3675_PtY8 = 1057034004;
 
  P98ngp = -1820097079;
- rzP39z_2fn = 2105273071;
+
  XErk = -873703958;
  zQ6PyY = 966338770;
  EAYB42 = 1501655584;
@@ -142,7 +142,7 @@ if (((zQ6PyY & 508455450) && (GE903sb)) && ((scI625 > fpmHRhp) && (u27pY9yh < fb
 {
 eRr6p6 = P3Q__();
 }
-f8hP1 = (int)abs(eRr6p6);
+
 {
 int i = 3;
 while (i >= 0)
@@ -220,7 +220,7 @@ eRr6p6 = P3Q__();
 }
 else
 {
-f8hP1 = P3Q__();
+
 }
 }
 }
@@ -246,7 +246,7 @@ switch (eRr6p6)
 {
 case 'a':
 case 'A':
-f8hP1 = (int)abs(eRr6p6);
+
 break;
 case 'b':
 case 'B':

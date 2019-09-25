@@ -58,7 +58,7 @@ int main(int argc, char** argv) {
     long double    l9S4J;
 
 	unsigned char	RgL8_1Q;
-	RgL8_1Q	=	-1959469505;
+
 	double	EcR4XIQF;
 	EcR4XIQF	=	-930595389;
 	short int	go45k;

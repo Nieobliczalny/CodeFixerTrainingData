@@ -38,7 +38,7 @@ int main(int argc, char** argv) {
 	unsigned int	Cr5hx_s3G;
 
  double F8925oury;
- F8925oury = -914298782;
+
   long long  FCZS4X_65Q;
 
  short int smP0;
@@ -130,7 +130,7 @@ int main(int argc, char** argv) {
  long KPzoN1s_;
 
 	short	Z2ah;
-	Z2ah	=	-625976292;
+
     short int    ldcx25Va;
 
   short int  STz5;

@@ -60,7 +60,7 @@ while (i >= 0);
 
 
 
-o_Dyxrqq = t3SNF_G / c7OS;
+
 {
 int i = 0;
 do
@@ -78,7 +78,7 @@ case 'a':
 
 break;
 case 'b':
-NQlE2Gl = (int)ceil(d3H9rVs779);
+
 break;
 case 'c':
 oH3Kn_4nW = (int)ceil(NQlE2Gl);
@@ -93,7 +93,7 @@ case 'f':
 
 break;
 case 'g':
-NQlE2Gl = oH3Kn_4nW + pl571i;
+
 break;
 case 'h':
 d3H9rVs779 = d3H9rVs779 / 495576981;

@@ -587,7 +587,7 @@ case 8:
 
 break;
 case 9:
-vb_22K = (int)floor(BV8od2_M);
+
 break;
 }
 }

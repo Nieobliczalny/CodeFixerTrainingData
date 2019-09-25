@@ -17,7 +17,7 @@ int main(int argc, char** argv) {
 	uD__u	=	-1763338662;
 
 
-	GvB4i_	=	-15189902;
+
 	s0w8ek1	=	2140161239;
 	h_vMstxB0s	=	-52565915;
 
@@ -46,7 +46,7 @@ int main(int argc, char** argv) {
 
 
 	H1x63_7	=	-1704388424;
-	g0h_i_	=	-710781255;
+
     unsigned short    sP8ZN,    KAys,    bEir6t;
     sP8ZN    =    0;
 

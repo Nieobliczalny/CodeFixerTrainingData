@@ -55,7 +55,7 @@ int main(void)
   unsigned long long  RIWtr993Z;
 
   unsigned long long  TLhgRCw;
-  TLhgRCw  =  -1593203423;
+
     char    f503Ov;
 
 	char	ZWb1y1_yH4;

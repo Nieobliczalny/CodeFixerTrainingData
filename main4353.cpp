@@ -120,7 +120,7 @@ int main(void)
   unsigned long  mb2wK2MeY3;
 
   long long  xxAdWeW_Xp;
-  xxAdWeW_Xp  =  687326011;
+
  unsigned short int b13_Q680p;
 
 	float	G0PboKVt5t;
@@ -142,7 +142,7 @@ int main(void)
  float GRj26;
 
     short    r3S9HH8;
-    r3S9HH8    =    0;
+
 	short	rY87P;
 	rY87P	=	-58511888;
  float Iw9Mr63;
@@ -154,7 +154,7 @@ int main(void)
 	unsigned int	P6m0zaT326;
 
  long double lXwj9aV71;
- lXwj9aV71 = 1801809922;
+
  float Y3021N;
 
 	unsigned short	fo_B2N;
@@ -183,7 +183,7 @@ int main(void)
 
 
 
-A4876 = n0o4W_nuo | 1784031900;
+
 
 
 

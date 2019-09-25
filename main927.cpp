@@ -24,7 +24,7 @@ int main(void) {
  unsigned long Czbgs;
  Czbgs = -371361679;
     double    NqhOWp7tcW;
-    NqhOWp7tcW    =    1925628749;
+
  float aRSF5BDJ;
  aRSF5BDJ = 2104981122;
     long long    kk0g8pT8t;
@@ -204,7 +204,7 @@ int main(void) {
 	double	lP133;
 	lP133	=	-614328999;
     double    j85A;
-    j85A    =    1229929976;
+
 
 {
 int i = 0;
@@ -262,7 +262,7 @@ case 0:
 u83J = HO9gF | 654890887;
 break;
 case 1:
-j85A = (int)floor(aRSF5BDJ);
+
 break;
 case 2:
 h5ngO8 = Kd_Kfc_0b >> 275973362;
@@ -306,7 +306,7 @@ case 4:
 
 break;
 default:
-hIlRrJZc4 = h5ngO8 / yZ4ewp5Z09;
+
 break;
 }
 cout << J28m8fSc7X << R0tJ3 << endl;
@@ -397,7 +397,7 @@ case 5:
 
 break;
 case 6:
-j85A = (c728vbtb8 >= R0tJ3) ? k71jg6N : 1500576762;
+
 break;
 default:
 

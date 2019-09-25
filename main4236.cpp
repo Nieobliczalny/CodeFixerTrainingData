@@ -54,7 +54,7 @@ int main(int argc, char** argv) {
   short  mrg1dMvAUV;
 
 	unsigned long long	Nq08E65;
-	Nq08E65	=	742344994;
+
   short  Z8KQV4DzT;
 
   unsigned long  FHRh8eoBAH;
@@ -66,7 +66,7 @@ int main(int argc, char** argv) {
 	short int	l4M3;
 
     double    kesJc5id;
-    kesJc5id    =    -1707816142;
+
     unsigned short int    hqX42l;
 
     long double    kMWj_;

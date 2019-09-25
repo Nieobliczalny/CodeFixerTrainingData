@@ -59,7 +59,7 @@ int main(void)
     long    ioB5B3WU;
 
 	unsigned long	gq0pC7Fn_Y;
-	gq0pC7Fn_Y	=	0;
+
 	int	xrAv;
 
 	float	m3ZM;
@@ -123,7 +123,7 @@ int main(void)
   unsigned char  Y65db2qu;
 
   unsigned long  m_mDw7Ch;
-  m_mDw7Ch  =  947125497;
+
   unsigned char  vgN034Y;
 
  long double wX3oykG3L;

@@ -122,7 +122,7 @@ int main(int argc, char** argv)
 	unsigned char	GF818TD_Ij;
 	GF818TD_Ij	=	1620516356;
 	unsigned long	Dq8mIWlh;
-	Dq8mIWlh	=	382645154;
+
   unsigned short  V8vmuXtV6l;
 
     double    Y7oNlW;

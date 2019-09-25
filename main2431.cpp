@@ -23,7 +23,7 @@ int main(void)
 	long double	f2Ja1wa2N;
 	f2Ja1wa2N	=	-751717392;
   long double  O91MP12sXe;
-  O91MP12sXe  =  1414217669;
+
     long double    qGoVlTAbDh;
 
   unsigned int  qLC2;
@@ -89,7 +89,7 @@ int main(void)
 	float	NB1ou7ij;
 
  unsigned char j8Xx5;
- j8Xx5 = 0;
+
     double    c_SBT;
 
   double  i_H0v;
@@ -175,7 +175,7 @@ int main(void)
     unsigned short    GkB_GaU1_;
 
  long long P825CkLI;
- P825CkLI = 1128280239;
+
  unsigned char wyK_7;
  wyK_7 = -191378698;
 	char	fVSgAb;

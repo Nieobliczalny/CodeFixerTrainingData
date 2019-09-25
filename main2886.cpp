@@ -492,7 +492,7 @@ case 7:
 BaWi6 = (int)abs(O9OE);
 break;
 default:
-lgIoH2ci = (int)floor(U3HjcUpI0);
+
 break;
 }
 {

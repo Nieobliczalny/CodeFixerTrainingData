@@ -34,7 +34,7 @@ int main(int argc, char** argv) {
 	vIQ0_q4s	=	-1006650507;
 
 
-	oaQJ5IV	=	-1318433621;
+
 	cpmNqUeum	=	1225967786;
 	nGPv	=	1400766734;
 
@@ -46,7 +46,7 @@ int main(int argc, char** argv) {
 	UEHcp	=	-1741878147;
 	L28D_	=	1633435776;
 
-	S0n_	=	-3897474;
+
 	T412d758	=	-1672009684;
 
 	x4qIFxy6V	=	689217051;

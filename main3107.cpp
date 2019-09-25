@@ -42,7 +42,7 @@ int main(int argc, char** argv)
 	UOpJ8VA4	=	1617009023;
 
 	Di22uE	=	-813573409;
-	saM8lEqUTH	=	1575100475;
+
 	wTmHGO8P	=	768330742;
 
 
@@ -52,7 +52,7 @@ int main(int argc, char** argv)
 	t75lo05	=	-178954194;
 
 	ceKc	=	-1677821344;
-	Y_NzQ_E1_	=	-1995617866;
+
 	IyQu	=	1573475226;
 	U5Q28B	=	391478684;
 	y90s54	=	2041846939;
@@ -89,7 +89,7 @@ int main(int argc, char** argv)
 
 	nuKGC6XK7	=	394275128;
 	w9_8DPRzSw	=	-1290419001;
-	EU1PV9i5	=	2026436847;
+
 	i_03ozEy8Y	=	-333812263;
 	M15WK5l	=	1791158095;
 	Px2_Ls7	=	1044736781;
@@ -322,7 +322,7 @@ else if ((IW1RIgX == -1753567614) || (IW1RIgX))
 }
 else
 {
-uho80Yr_8x += vYXml979;
+
 }
 switch (AJth5FC_q)
 {

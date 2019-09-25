@@ -13,7 +13,8 @@ int main(void) {
         // codechecker_intentional [deadcode.DeadStores] Design rule - initialize all variables
 		SjL3    =    C3PwItl9    =    EuLRHLG_    =    Aj2cc    =    LkRr    =    ETj_6rh    =    iX2PH7    =    j85gd    =    hxF58S6O    =    X49UB3mo    =    CYpQ    =    qIgP    =    p9nv3cSbn    =    Sa71doc    =    MPA_vxsgSy    =    DE34X_d28    =    JaCW_BcTk    =    KzDOP4    =    oz5r4W0f2n    =    yBS6006    =    yNo57Z    =    UKD69b6g96    =    TabvV    =    p604A9Ru    =    RJsx    =    dQZ8vH8Xs    =    ZDeWy    =    IjlXym    =    sr2_    =    G065YjZ    =    q58Rh20TA    =    zmws25oI6p    =    B5Dv91Ui9    =    dUYUnu4vDl    =    p_A3uHiPbD    =    d0PiwAs    =    l0Y1ow    =    Qf_bqbQ    =    m6kEg    =    pE2uy    =    x2U9R    =    bf9H9    =    ohDenp    =    A3x_    =    yNUb1v4z7O    =    U8z_qAEa9    =    kW_SW299_    =    ZS5a5955_    =    w4V_zXO5R1    =    fj_x_O5Yr3    =    RDm5bY    =    li38    =    oV50O92    =    ucBU4    =    YBTxQ    =    QLqT3CZ    =    -2147365201;
   unsigned int  fk_1r2T,  FjPBm7Yq;
-    fk_1r2T  =  FjPBm7Yq  =  0;
+    // codechecker_intentional [deadcode.DeadStores] Design rule - initialize all variables
+	fk_1r2T  =  FjPBm7Yq  =  0;
 
 qIgP = EuLRHLG_ % C3PwItl9;
 if (RDm5bY > -1065588054)

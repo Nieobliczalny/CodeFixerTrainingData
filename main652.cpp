@@ -615,7 +615,7 @@ int k = 0;
 do
 {
 k++;
-oS375dN = (int)abs(LBf2WO);
+
 }
 while (k < 2);
 }

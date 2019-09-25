@@ -90,7 +90,7 @@ Anxcrl9yW = (int)floor(Abw7Nb);
 }
 else if (UyTR6IyR7O & 1662709305)
 {
-bGDtR = (int)ceil(fKvV30Zh5);
+
 }
 else if ((fKvV30Zh5 <= oQi2) || ((VE0tA >= RF92WmZv5J) && (UyTR6IyR7O & oQi2)))
 {
@@ -134,7 +134,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-WE__ /= Gu3_;
+
 break;
 case 'c':
 case 'C':
@@ -247,7 +247,7 @@ case 4:
 
 break;
 case 5:
-bGDtR = O234P7z4(1575391834);
+
 break;
 case 6:
 

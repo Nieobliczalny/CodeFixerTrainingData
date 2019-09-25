@@ -41,7 +41,7 @@ case 'c':
 
 break;
 case 'd':
-O7mk57239P = (int)abs(kr3BpPe);
+
 break;
 case 'e':
 
@@ -53,7 +53,7 @@ case 'g':
 
 break;
 case 'h':
-wjV04 = (int)floor(xJP7);
+
 break;
 case 'i':
 

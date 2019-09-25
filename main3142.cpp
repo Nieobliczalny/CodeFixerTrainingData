@@ -140,7 +140,7 @@ int main(int argc, char** argv)
     int    F_gDl;
     F_gDl    =    -196097774;
   unsigned short  wHt36baY;
-  wHt36baY  =  766826474;
+
   long long  d4Ol;
   d4Ol  =  0;
   short  LoOT;

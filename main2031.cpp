@@ -198,7 +198,7 @@ int main(void) {
     long double    oVi5CVr;
 
 	short	V_131j0i35;
-	V_131j0i35	=	1233970039;
+
     long double    v6_MT2_G;
 
   long long  m85i37M3gS;

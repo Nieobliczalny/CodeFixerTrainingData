@@ -96,7 +96,7 @@ int main(void)
 	char	evvq28q8lT;
 
     unsigned short    CkRL8;
-    CkRL8    =    -771511679;
+
 	long	dxXmzrP6;
 	dxXmzrP6	=	-1559814992;
   unsigned short  H5iES3_Mvq;

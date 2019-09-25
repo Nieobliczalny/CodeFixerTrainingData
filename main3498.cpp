@@ -81,7 +81,7 @@ int main(int argc, char** argv)
  unsigned char v9xO5b;
  v9xO5b = -1902311586;
   long long  J90v3O_;
-  J90v3O_  =  -1730698282;
+
 	short	etd7ECZ87;
 
     long long    g62s;
@@ -165,7 +165,7 @@ int main(int argc, char** argv)
 	unsigned long long	oS1pKx4;
 
 	short int	Fn0Gd97w;
-	Fn0Gd97w	=	0;
+
 	int	sO0G4C;
 	sO0G4C	=	1706903883;
  unsigned int a37x_6Qn;
@@ -189,7 +189,7 @@ int main(int argc, char** argv)
     long long    pKI2R_6;
     pKI2R_6    =    961839723;
   unsigned short  SDL6TF;
-  SDL6TF  =  1066099230;
+
 	unsigned long	prDkQB;
 
   long  HwG9G_n4V;

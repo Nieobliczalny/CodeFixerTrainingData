@@ -62,7 +62,7 @@ int main(void)
     Ctk8sdrR    =    -1669838529;
 
 
-    Sooc4b    =    -66561419;
+
     r9bC    =    285497114;
     MDoH1PE8N    =    -1808251257;
 
@@ -76,7 +76,7 @@ int main(void)
     jqj74    =    1116254992;
 
 
-    cyu40    =    -680971264;
+
     M306B49    =    1248497611;
     D3lew_    =    1269531385;
     f3Rcx    =    442502789;
@@ -132,7 +132,7 @@ if (Ctk8sdrR)
 }
 else
 {
-G5u99dR = (int)abs(k_1_q);
+
 }
 }
 else

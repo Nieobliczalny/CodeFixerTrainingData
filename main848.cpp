@@ -92,7 +92,7 @@ int main(int argc, char** argv) {
 	double	V_cSt;
 
 	float	F2otP9ffaM;
-	F2otP9ffaM	=	-409211701;
+
     unsigned short    hE_t7w;
 
   long long  i2W1;

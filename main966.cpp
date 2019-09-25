@@ -64,7 +64,7 @@ case 'a':
 
 break;
 case 'b':
-J6h_V6Cb1o = Qrs0yHN39Z(J6h_V6Cb1o, 979185734, i2YLx7Zm);
+
 break;
 case 'c':
 lpmkTbp++;
@@ -189,7 +189,7 @@ else
 
 
 
-i2YLx7Zm = aLdmpwM(i2YLx7Zm, zeKeCDt, -2087961112, 1324558928);
+
 return 0;
 }
 

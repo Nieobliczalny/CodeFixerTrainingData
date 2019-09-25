@@ -78,7 +78,7 @@ int main() {
   unsigned long  g511VZZYe;
   g511VZZYe  =  80062673;
  int gh56NW40f;
- gh56NW40f = -702430268;
+
 	unsigned short int	rwPCI04tU;
 	rwPCI04tU	=	-1596353645;
     unsigned char    eJxW28v1;

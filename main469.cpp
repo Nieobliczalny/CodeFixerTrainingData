@@ -67,7 +67,7 @@ int main(void)
   n6Md  =  428877005;
 
   mdP0m  =  1895734653;
-  UXEP  =  -243374787;
+
   PB3fz9f0  =  -974261185;
 
   wMEGggD5tW  =  1691845249;
@@ -83,7 +83,7 @@ int main(void)
 
 
 
-  q0uxE  =  682459088;
+
   XcI80Wo  =  -1417561339;
 
   ILrb1i  =  1011855049;

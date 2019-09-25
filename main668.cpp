@@ -103,7 +103,7 @@ int main(int argc, char** argv)
  double Giw9R;
 
 	unsigned long long	QgFw55;
-	QgFw55	=	-1182245428;
+
  unsigned char z66JglBl71;
 
  unsigned short int EmO1Q0;

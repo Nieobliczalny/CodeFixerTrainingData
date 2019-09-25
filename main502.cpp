@@ -17,7 +17,7 @@ int main(int argc, char** argv) {
 	unsigned short int	bx7bE,	sAgC8h,	yF1_,	k4yu0nH,	G2PQNf5,	YNl70,	SAs2Kx0NN_,	eSR2Pv2,	pj4q4;
 
 
-	yF1_	=	-824850071;
+
 	k4yu0nH	=	-679366089;
 	G2PQNf5	=	435500941;
 	YNl70	=	540474472;

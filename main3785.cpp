@@ -74,7 +74,7 @@ int main(int argc, char** argv) {
   unsigned long long  FuIQ;
 
     double    p5R89k1rsw;
-    p5R89k1rsw    =    133607074;
+
  short P_Z448;
  P_Z448 = 0;
  long double yas31_83;
@@ -96,7 +96,7 @@ int main(int argc, char** argv) {
  double y1f62;
 
     long double    I_V6Z63fx;
-    I_V6Z63fx    =    -635816906;
+
   unsigned long  p8kDbx7N;
 
   unsigned char  ydkz;
@@ -120,7 +120,7 @@ int main(int argc, char** argv) {
  unsigned int RA061RUT;
 
 	long	KWClMj5LR;
-	KWClMj5LR	=	920568079;
+
   unsigned char  ukuC6huv;
 
  short Jw3AwY;
@@ -192,7 +192,7 @@ int main(int argc, char** argv) {
 	unsigned short	He9KIek27Q;
 
     short    L747Ne2_4_;
-    L747Ne2_4_    =    -1257395512;
+
 
 for (int i = 8; i >= 0; --i)
 {

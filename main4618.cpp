@@ -277,7 +277,7 @@ case 'b':
 s3qK6R4025 /= bhFT6rz6B8;
 break;
 case 'c':
-gj1T = (int)floor(eH51Z9UK);
+
 break;
 case 'd':
 

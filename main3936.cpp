@@ -43,7 +43,7 @@ int main() {
     zLTv2Pt2O6    =    898483449;
     VhQC18IG    =    1653321183;
     cQOny2TG    =    -1691814930;
-    C5wxI    =    -228941736;
+
     gY752m    =    -48733019;
     G3v1C    =    -688122141;
 
@@ -236,7 +236,7 @@ case 5:
 
 break;
 case 6:
-hwzhjH5a_ = (int)floor(t93V);
+
 break;
 default:
 hwzhjH5a_ /= yZkk7CSk;

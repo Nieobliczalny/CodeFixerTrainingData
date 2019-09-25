@@ -93,7 +93,7 @@ int main(int argc, char** argv)
 	long long	b245MPp;
 
 	short int	mtjjIg;
-	mtjjIg	=	1375306469;
+
 	unsigned char	JwwVCn;
 	JwwVCn	=	0;
  unsigned short zVU4xrT0n;
@@ -137,7 +137,7 @@ int main(int argc, char** argv)
     unsigned int    y3d59;
 
     unsigned short    cAE59Ev;
-    cAE59Ev    =    1085046834;
+
     unsigned char    Ao6tQ_;
 
   short  l9RTJ2FhBd;
@@ -171,7 +171,7 @@ int main(int argc, char** argv)
   unsigned long long  V4rY;
 
  unsigned long long CD5Z;
- CD5Z = 195700467;
+
     float    E29G2;
 
     char    Dbl2S;
@@ -203,7 +203,7 @@ int main(int argc, char** argv)
  unsigned short bNGP2X1U9;
 
 	char	N6l746mq;
-	N6l746mq	=	1822726308;
+
     unsigned char    EKL8;
 
  unsigned short int M_PD14;

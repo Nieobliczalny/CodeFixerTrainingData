@@ -29,7 +29,7 @@ int main() {
     unsigned char    waeQFXrP0l;
 
     char    lqq2h;
-    lqq2h    =    1921903116;
+
   long double  UY81U5L6;
 
   unsigned short  y9_I;

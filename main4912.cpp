@@ -30,7 +30,7 @@ int main(int argc, char** argv)
 	long	pX1oM;
 
  unsigned char c8_8y2D;
- c8_8y2D = 1393651616;
+
     unsigned short    H7vdo5G_7F;
     H7vdo5G_7F    =    209180338;
 	unsigned char	R39F0;
@@ -120,7 +120,7 @@ int main(int argc, char** argv)
 	unsigned char	M5IjnU4E;
 	M5IjnU4E	=	-2076934125;
   unsigned int  xc40K_L;
-  xc40K_L  =  -2005684419;
+
  long AcSy0;
  AcSy0 = 0;
     unsigned short int    I4jd_c;
@@ -144,7 +144,7 @@ int main(int argc, char** argv)
     long    p7a_hl0;
 
 	double	YTg0;
-	YTg0	=	-1575442570;
+
     unsigned char    DyfgJpa;
 
  double X3bF;

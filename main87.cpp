@@ -48,7 +48,7 @@ int main(int argc, char** argv)
  unsigned short int Y94g;
 
  float I9LZ;
- I9LZ = -1329461882;
+
     unsigned short int    YW8Q_;
     YW8Q_    =    -1225675664;
   unsigned short  l2j7;
@@ -139,7 +139,7 @@ int main(int argc, char** argv)
 switch (fSoN2A0a)
 {
 case 0:
-I9LZ = (int)ceil(cKR2DtN3);
+
 break;
 case 1:
 wOy8O0F = (int)ceil(cKR2DtN3);
@@ -201,7 +201,7 @@ case 'a':
 Zfg4m_2 = df57S9w3S(-2034992332, e3iMxZad);
 break;
 case 'b':
-I9LZ = (int)ceil(VJ7z_2);
+
 break;
 case 'c':
 r0tdJ8nNW = gY396(-1156860545, RcL00NIy1);
@@ -419,7 +419,7 @@ case 9:
 break;
 }
 
-ykjZ = (long double)(o_6967A + (-889486697));
+
 if (TTzvmj89j)
 {
 switch (tFBm6O)
@@ -430,7 +430,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-ykjZ = df57S9w3S(-1323489818, nd8AY2);
+
 break;
 default:
 q6sGpfap *= 1547238394;

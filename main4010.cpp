@@ -237,7 +237,7 @@ for (int i = 0; i < 7; i++)
 {
 gISJt5D36I = (int)floor(WaFf_LxZy);
 }
-Uvtt18 = (int)abs(MAoM);
+
 
 {
 int i = 0;
@@ -283,7 +283,7 @@ TACYKmBas9 |= HW2pMG_;
 break;
 case 'e':
 case 'E':
-Uvtt18 = Q31_40(828719897, o9xNlpAJp, 238619534, r747y8);
+
 break;
 case 'f':
 case 'F':

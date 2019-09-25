@@ -44,7 +44,7 @@ int main(int argc, char** argv)
 	unsigned char	D81pqOWfc;
 	D81pqOWfc	=	-932427066;
  int g_66qaVRp;
- g_66qaVRp = 455150033;
+
   short int  I5fLHFx;
   I5fLHFx  =  1793409691;
 	long	KBL7;

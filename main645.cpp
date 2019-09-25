@@ -95,7 +95,7 @@ case 5:
 
 break;
 case 6:
-pb8a2D = (int)ceil(I677Lhv);
+
 break;
 case 7:
 Hp_yQ0Do++;

@@ -131,7 +131,7 @@ int main(void) {
     float    BJhw2_ye9m;
     BJhw2_ye9m    =    -838853693;
  int n8Ez;
- n8Ez = 1236991803;
+
   char  Jvq75ue;
   Jvq75ue  =  -1377440600;
     unsigned short    d__u;

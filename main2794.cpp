@@ -66,7 +66,7 @@ int main(int argc, char** argv) {
 	long double	IJsbYj5;
 
     unsigned int    vHS97;
-    vHS97    =    -118739266;
+
 	float	Tw_9063;
 
  double bW_e;
@@ -100,7 +100,7 @@ int main(int argc, char** argv) {
 	unsigned short int	iVqNC;
 
 	short	OPo0T;
-	OPo0T	=	-1490930846;
+
     unsigned char    XI7SBXlo;
 
     char    d3T1;
@@ -248,7 +248,7 @@ else
 }
 else
 {
-CqUioq8r7m = G_eQ8p_0rU % 368600437;
+
 }
 
 o6y80Z_ = nd86 + 2057391597;

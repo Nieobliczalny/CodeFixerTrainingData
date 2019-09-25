@@ -21,7 +21,7 @@ int main(int argc, char** argv)
 	double	LOLe9;
 	LOLe9	=	-1943339087;
     unsigned short    JHLQ;
-    JHLQ    =    -404105811;
+
 	long	Hhtilv;
 	Hhtilv	=	-1921981471;
     unsigned long long    NHJRq3DF1f;
@@ -51,7 +51,7 @@ int main(int argc, char** argv)
 	unsigned short	jdkZRP1z72;
 	jdkZRP1z72	=	0;
 	short	L_k3z8X;
-	L_k3z8X	=	-628636077;
+
     float    yOE2DWd7;
 
  long long VqyA0Mr8;

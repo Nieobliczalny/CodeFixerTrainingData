@@ -363,7 +363,7 @@ else if ((kk7uf_g) || (f662y8D >= t07E))
 }
 else
 {
-O00nl = (int)floor(kk7uf_g);
+
 }
 }
 else if ((nNe0YJ < -1088143394) || (s1Im <= q_qjOp))
@@ -399,7 +399,7 @@ else if (((IK_439 < cI12Z48jOp) && (j3hYhGe < 254096916)) || ((nA3dnv7Ra < O754C
 }
 else if (C3h6PFUpJ & -2083912506)
 {
-O00nl = (int)floor(kk7uf_g);
+
 }
 else
 {

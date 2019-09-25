@@ -64,7 +64,7 @@ int main(int argc, char** argv) {
 
  oukub_7Cu6 = 910170823;
  elim27z_r6 = 845831237;
- tb16p1 = -269519856;
+
  B_h56a = 1610322507;
  jUrd4c = -219133842;
  TsAJ8FR = 2051433897;
@@ -78,7 +78,7 @@ int main(int argc, char** argv) {
     sPjxivl4    =    0;
 
     bAbkA1    =    0;
-    RANX976_o    =    0;
+
     gZUCwb3    =    0;
 
 r_T2CB = svym(-1846096815);

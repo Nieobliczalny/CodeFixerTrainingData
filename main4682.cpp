@@ -31,7 +31,7 @@ int main()
 	unsigned char	P_Q47A7BTV;
 
 	short int	mCi3306k;
-	mCi3306k	=	1102740936;
+
  unsigned short int OFHHong;
 
   unsigned short int  aA0V4ej8n;
@@ -49,7 +49,7 @@ int main()
  unsigned long IQH_JPT;
 
     unsigned char    IjpJ5;
-    IjpJ5    =    0;
+
     unsigned char    Qd_y;
 
  int elSny9rmZ_;
@@ -99,7 +99,7 @@ int main()
   short  g5DTYST1B7;
 
   double  lmP46ZR;
-  lmP46ZR  =  65932778;
+
 	unsigned long	ZEWjWBC9m;
 
  short uCMwu568;

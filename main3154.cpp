@@ -38,7 +38,7 @@ int main(void)
     double    BaIL;
     BaIL    =    -1772403301;
   char  XrOo;
-  XrOo  =  -1174855979;
+
 	float	YVSZ;
 	YVSZ	=	1071269781;
   long long  Z0el2O;
@@ -102,7 +102,7 @@ int main(void)
     short int    NO86eU;
 
     unsigned long long    o1G4sJScA;
-    o1G4sJScA    =    1337494653;
+
     unsigned char    KX46B;
 
   unsigned short  fkLTUpI7D;

@@ -46,7 +46,7 @@ int main() {
 	qFc3	=	73295947;
 
 
-	iHE268DQ2	=	-1044581220;
+
 	iUN9	=	-95457763;
 	S8Bj5	=	-718803890;
 	Lo2n	=	1086375715;
@@ -84,7 +84,7 @@ int main() {
 
 	vVy2w1Ae	=	-2079480104;
 
-	Nxg0N30lz	=	398265001;
+
 	a7iB_X30	=	980837816;
 	qVfD	=	1609683781;
 	WL2q5LUI4	=	1668074887;
@@ -234,7 +234,7 @@ k--;
 }
 }
 }
-niT9hxH = IfrX05jQb(Hfk59Kds, EMKesl7Rj) / aG3l0y_tZ;
+
 std::cout << so_4y << NeHw4CV6(Hfk59Kds, EMKesl7Rj) << std::endl;
 
 if (O7Z411GiC == Oxbc)
@@ -335,7 +335,7 @@ case 5:
 
 break;
 case 6:
-n5867 = Vx_10_Za | Hfk59Kds;
+
 break;
 }
 }

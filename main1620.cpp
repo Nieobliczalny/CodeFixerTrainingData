@@ -97,7 +97,7 @@ int main() {
 	unsigned long	k9833p3N6;
 	k9833p3N6	=	-1629898141;
 	long double	K5_M9AkGns;
-	K5_M9AkGns	=	-1570678778;
+
   short int  MjVelt6;
 
 	long double	AvVms;

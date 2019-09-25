@@ -120,7 +120,7 @@ int main() {
 
 try
 {
-yZ1k_c = KYzYK25Fx();
+
 }
 catch (int& errorCode)
 {

@@ -55,7 +55,7 @@ int main() {
  short int I6iE6mr;
 
  unsigned short nPgbr;
- nPgbr = 1813606956;
+
 	unsigned char	FW710;
 
     float    l_EO;
@@ -91,7 +91,7 @@ int main() {
     short int    EO8bDm;
 
   char  BYO2z;
-  BYO2z  =  -1958389308;
+
  char Tco1UIOGbo;
  Tco1UIOGbo = 1109952473;
     char    Dn91HkK;
@@ -121,7 +121,7 @@ int main() {
   unsigned short  PVvd;
 
 	long double	sVT30GLCsA;
-	sVT30GLCsA	=	1137703968;
+
 	unsigned short int	JfW3tIcat6;
 	JfW3tIcat6	=	-1263281423;
     long    G7gZGoG9;

@@ -43,7 +43,7 @@ int main(int argc, char** argv)
 	kufuPce145	=	944213880;
 	hZbi	=	2090277831;
 	n37E8sQ	=	610927077;
-	S6E87HiyO0	=	-236807394;
+
 	wJBhj	=	408657484;
 	Vd68	=	347209551;
 	i_urL44_j	=	-1769687510;
@@ -353,7 +353,7 @@ case 'b':
 UbqQoQ3Z &= AHnjBb;
 break;
 case 'c':
-S6E87HiyO0 = G0tS(-543542939, xfkJz38, K05H, RZwfW_);
+
 break;
 case 'd':
 Tatz62e--;

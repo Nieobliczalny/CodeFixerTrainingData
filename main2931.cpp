@@ -40,7 +40,7 @@ int main(void) {
     unsigned short int    Hel9;
 
     unsigned long long    X_Hzw;
-    X_Hzw    =    -14781980;
+
  long long I42Yb26f7h;
 
   long long  jRiF8I;
@@ -56,7 +56,7 @@ int main(void) {
   char  AS05CHc;
 
     unsigned long    w0Y325;
-    w0Y325    =    -204177812;
+
  float o9G1;
 
     unsigned short int    V3UYpM_I;

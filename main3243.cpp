@@ -101,7 +101,7 @@ cout << A3U4p6() << "x7mXnR8" << W785X << S10RO << endl;
 
 
 
-uX301Ihs = (int)ceil(y4a715);
+
 
 {
 int i = 0;

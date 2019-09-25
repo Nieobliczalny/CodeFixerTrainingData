@@ -128,7 +128,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-XKEQ = (int)floor(nvK9);
+
 break;
 case 'e':
 case 'E':

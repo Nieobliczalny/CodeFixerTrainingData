@@ -298,7 +298,7 @@ break;
 }
 }
 
-mr7b68CX = (long)(XP8__);
+
 dEyrnP = f22Sxh / F4tlsX;
 
 {

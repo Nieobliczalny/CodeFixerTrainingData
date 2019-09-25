@@ -62,7 +62,7 @@ int main() {
  short int spDqY9Glll;
 
     unsigned long    Fq8aGtjk7H;
-    Fq8aGtjk7H    =    -1871322415;
+
   unsigned short int  g_33kH70;
 
 	float	a51_;

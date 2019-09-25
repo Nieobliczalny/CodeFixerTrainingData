@@ -152,7 +152,7 @@ case 2:
 
 break;
 case 3:
-m6Ti_DmUka = (int)ceil(PikJ);
+
 break;
 case 4:
 

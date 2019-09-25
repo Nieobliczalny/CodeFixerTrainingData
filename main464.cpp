@@ -297,7 +297,7 @@ else if (T2ka39)
 }
 else if (iVF_HUqhy <= -323405794)
 {
-A8r6r = (int)ceil(q2LI150ILF);
+
 }
 else
 {

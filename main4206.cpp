@@ -35,7 +35,7 @@ int main(void) {
  J83GHtjK = 1452976058;
 
  X25nBLZ = -269651492;
- ZWP5 = 24403270;
+
  UxX0Ko303 = 902475412;
 
  x1of = -616503933;
@@ -86,7 +86,7 @@ int main(void) {
  o6NPT = 869846071;
  c6x67M = 1089209640;
 
- lrEfqBs = -1571364073;
+
  unsigned long long Hfkd, eHp2_jY6x;
  Hfkd = 0;
  eHp2_jY6x = 0;
@@ -143,7 +143,7 @@ int k = 0;
 do
 {
 ++k;
-x1of = mt34lM >> o6NPT;
+
 }
 while (k < 7);
 }
@@ -200,7 +200,7 @@ eHp2_jY6x = Za0u07u0();
 break;
 case 'e':
 case 'E':
-x1of = (int)abs(BW0P6KbZ);
+
 break;
 case 'f':
 case 'F':

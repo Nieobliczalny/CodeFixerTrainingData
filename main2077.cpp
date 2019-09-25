@@ -314,7 +314,7 @@ while (j < 8);
 }
 
 
-Af5ST = v6zV_Zqpte(hM7fd8DVJ, nRT9579CF, Q6d3p);
+
 for (int i = 0; i < 9; ++i)
 {
 if (G3cx2YcQ == O49216MwCN)
@@ -334,7 +334,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-u9GF7Q = (int)floor(ul3Ee_7Y4);
+
 break;
 case 'c':
 case 'C':

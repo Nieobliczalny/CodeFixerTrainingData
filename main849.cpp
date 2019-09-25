@@ -73,7 +73,7 @@ int main(void) {
     unsigned int    q6JEiDaI;
 
 	unsigned short int	nw64tF;
-	nw64tF	=	1943173001;
+
  unsigned short int zT76HD30_4;
 
 	char	A28EN;
@@ -129,7 +129,7 @@ int main(void) {
  unsigned long Pi70;
 
 	int	labv7F;
-	labv7F	=	-552161783;
+
 	unsigned long long	g26Stv9DT;
 
     double    KQOj7;

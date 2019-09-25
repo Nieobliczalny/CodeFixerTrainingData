@@ -125,7 +125,7 @@ case 1:
 
 break;
 case 2:
-AbpYS = (int)abs(VBT_JQK);
+
 break;
 case 3:
 o94zBNRr = (int)floor(g45uNqC);

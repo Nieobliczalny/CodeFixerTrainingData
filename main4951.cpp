@@ -135,7 +135,7 @@ int main()
 nLc84qFe = (unsigned int)(Hv3fcZc1X);
 
 cout << W7ns_d(dDAqj2Ba, 1285984749, LHiDB) << anscNlpj3u << "K9ucJn8n" << y5rZHrAGc(-809964075, anscNlpj3u) << endl;
-rJbh = (float)(NB1eDAkdS);
+
 switch (V7z_0G)
 {
 case 'a':

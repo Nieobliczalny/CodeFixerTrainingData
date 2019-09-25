@@ -33,7 +33,7 @@ int main()
   long double  NE_24T;
 
 	long	bMwdt;
-	bMwdt	=	-1893130676;
+
   unsigned long  t_x4;
 
 	short	t0iq;
@@ -51,7 +51,7 @@ int main()
     unsigned long long    s4pJ1;
 
  unsigned long long Lck9X4PD;
- Lck9X4PD = 0;
+
   unsigned char  KpWX1bTOzC;
 
     long long    q6X70ZyHF;
@@ -69,7 +69,7 @@ int main()
     unsigned long long    y1L2zE;
 
 	unsigned char	Qx2ly504O;
-	Qx2ly504O	=	1199789238;
+
 	unsigned char	tbYBK;
 
  double l7XTob5Wf;
@@ -95,7 +95,7 @@ int main()
  long double Mab_hY;
 
   short  og25kls;
-  og25kls  =  -983965735;
+
   char  z45a;
 
     short    Ny8V_IBK4;

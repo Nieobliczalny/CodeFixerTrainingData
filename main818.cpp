@@ -326,7 +326,7 @@ else
 }
 }
 
-l9F0GKf4 = (float)(jP_F0V);
+
 if ((dq194Vt != 1988272345) && ((ZqFoNkIr != -1097096530) && (EVmVzQ0k8 >= ZSaPY)))
 {
 switch (tMr31uf)
@@ -351,7 +351,7 @@ break;
 switch (tMr31uf)
 {
 case 0:
-J91s = (int)floor(JoQrMCh);
+
 break;
 case 1:
 

@@ -59,7 +59,7 @@ case 5:
 a78Pd1wrtG--;
 break;
 case 6:
-x_Uhn9A6 = O4g14NZX6(1355492026, a78Pd1wrtG);
+
 break;
 case 7:
 l56o = x_Uhn9A6 << 1409089313;
@@ -72,7 +72,7 @@ default:
 break;
 }
 
-l56o %= T1Ra0_d;
+
 
 cout << "GH08xAfF" << YUw6LG0m << endl;
 

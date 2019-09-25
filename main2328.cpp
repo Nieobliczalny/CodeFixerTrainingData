@@ -94,7 +94,7 @@ case 4:
 IEi8v8zZ1 %= 705195265;
 break;
 case 5:
-W65VzT70Wi ^= r7_68;
+
 break;
 case 6:
 y2DNP565 >>= 1719926875;
@@ -130,7 +130,7 @@ else if ((HxN9PLBI >= 806569072) && ((IEi8v8zZ1 > 2105651039) && (Rkrk2Ywi < 598
 {
 if ((rrKNV_ZZO < -1206056889) || (QnHsFeE95 <= hczcR97G))
 {
-nlD5krAWP = (int)abs(Z3lzkA);
+
 }
 else if (LJd576Y & -1691919074)
 {

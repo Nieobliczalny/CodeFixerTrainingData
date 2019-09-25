@@ -170,7 +170,7 @@ vYVv = t__gRE80();
 }
 else if (iJ6HlMq79Q <= -764900026)
 {
-T2CfOU7 = k9x6Qvy0CV & M27S82R8;
+
 }
 else if (cKC8T85CE8 & -1015810343)
 {
@@ -236,7 +236,7 @@ KJwAq1C = JEgt8 + v8__fM;
 switch (A41Z6)
 {
 case 'a':
-wu661f_5 = (int)ceil(MjM88);
+
 break;
 case 'b':
 MjM88 = (int)ceil(ce2cSHFyXU);

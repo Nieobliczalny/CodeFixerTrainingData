@@ -21,7 +21,7 @@ int main(void)
 
 
 
-  mXed2ni  =  557317085;
+
   Sh2oj6B  =  -1976052031;
   tToXd72  =  -1709814592;
   UiNmV  =  -151659788;
@@ -34,7 +34,7 @@ int main(void)
   v5ZXwLdQ_A  =  982587608;
 
 
-  aOL00IGsv  =  -74992983;
+
   q1tD4J  =  1132145515;
   N_7GD2sL  =  -627036798;
   zzOQW6ki11  =  -1083910570;

@@ -409,7 +409,7 @@ case 'B':
 iw_V35r3D0 |= 687316912;
 break;
 default:
-Q276y0WeaI = iw_V35r3D0 | eW11;
+
 break;
 }
 
@@ -461,7 +461,7 @@ if (eW11 & 1987969102)
 {
 for (int k = 0; k < 3; k++)
 {
-Q276y0WeaI = (int)ceil(w1mV);
+
 }
 }
 else if (AusqyTeRi2 == 1529868230)

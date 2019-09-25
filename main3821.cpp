@@ -27,7 +27,7 @@ int main() {
     J2Lp3jH7    =    -1132801370;
 
 
-    botsnHQ    =    471769968;
+
     AGcH8oqbwN    =    -147502352;
     UAr_7    =    -977241035;
     eQUaKF    =    -840907374;

@@ -180,7 +180,7 @@ int main(int argc, char** argv)
 	unsigned short int	V_q76Yd;
 
  long double gL33F;
- gL33F = 1268593836;
+
     short    l7Vrmf6hQ;
 
 	unsigned long	m1F4VJ0o;

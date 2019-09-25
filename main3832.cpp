@@ -18,7 +18,7 @@ int main() {
   long double  OG_Ybml;
 
   long  YU74u5;
-  YU74u5  =  -945097864;
+
 	short int	WR4b4;
 	WR4b4	=	-58508833;
 	unsigned long	T4Apdl;

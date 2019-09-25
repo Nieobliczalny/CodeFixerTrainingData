@@ -51,7 +51,7 @@ int main()
     int    o4g9;
 
     int    FP_IPr2;
-    FP_IPr2    =    1226851892;
+
   char  Ke4k;
 
 	char	xE67oF3;
@@ -97,7 +97,7 @@ int main()
   double  ly6s77gh62;
 
  long long dV8JxS;
- dV8JxS = -662038036;
+
     long    Kjm_;
     Kjm_    =    234406449;
  float U293Him8;

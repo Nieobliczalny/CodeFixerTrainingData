@@ -167,7 +167,7 @@ Jycr5E = (int)ceil(M2Q0302X);
 }
 else
 {
-Kf188PNnM = (int)floor(M2Q0302X);
+
 }
 }
 }

@@ -69,7 +69,7 @@ int main()
   long double  DV_NU9p__;
   DV_NU9p__  =  -172446426;
 	short	I696___;
-	I696___	=	898792579;
+
 	unsigned short int	E3yvTd4l;
 
   unsigned char  NE6S0M__;
@@ -85,7 +85,7 @@ int main()
   char  Bp_78v_;
 
   short int  HOmSVlhyX;
-  HOmSVlhyX  =  2074731225;
+
  long long pTpfv1K5;
 
 	unsigned long long	k3yYJRgvp;

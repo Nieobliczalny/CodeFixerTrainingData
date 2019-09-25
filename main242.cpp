@@ -76,7 +76,7 @@ int main(int argc, char** argv)
  long Mx7iS1;
 
 	float	h3OP47;
-	h3OP47	=	-1203626817;
+
  float X8_2;
 
     short int    CLYB88ne5t;

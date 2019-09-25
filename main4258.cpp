@@ -42,7 +42,7 @@ int main(int argc, char** argv) {
   xWHX9a9sff  =  -165001195;
 
   xw_19  =  -762649481;
-  zW0Y4N  =  -1889946146;
+
   j72tSg  =  -1071358637;
   b_a58pB  =  295890900;
 
@@ -52,7 +52,7 @@ int main(int argc, char** argv) {
 
   KFaKE1Dq  =  1079016695;
 
-  UABeMigbU  =  1347494087;
+
   Kx_9im0PxG  =  1239442976;
   I8mp1eci  =  1455495542;
   p9n2863  =  -587090373;
@@ -64,7 +64,7 @@ int main(int argc, char** argv) {
 
   k56ddvr04  =  309316989;
 
-  ss9Ph  =  -900973188;
+
   J8q0m0J5  =  -1827360011;
   OgD1M_aNe5  =  -2012779066;
 
@@ -110,7 +110,7 @@ j72tSg = (int)floor(b_a58pB);
 break;
 case 'b':
 case 'B':
-CDQjAIL = (int)ceil(xWHX9a9sff);
+
 break;
 case 'c':
 case 'C':

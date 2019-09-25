@@ -43,7 +43,7 @@ int main(int argc, char** argv) {
   long double  Rp6FCEuAO;
 
  float G4RQZR2_;
- G4RQZR2_ = 384124239;
+
 	unsigned short	A_FPCVfL2W;
 	A_FPCVfL2W	=	-2098298297;
   long long  D666iBImX0;

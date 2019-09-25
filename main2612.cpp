@@ -193,7 +193,7 @@ int main(void) {
     short    xmTSs1;
 
 	float	wa_nhH6MrQ;
-	wa_nhH6MrQ	=	1205684592;
+
     unsigned int    CQpf;
 
     unsigned short int    f7EC4hq;
@@ -205,7 +205,7 @@ int main(void) {
  short GytRwZP1;
 
  char r3jZ11l2;
- r3jZ11l2 = -487924388;
+
     long    pBAkXIII;
     pBAkXIII    =    -21968916;
  unsigned int uI9ib_s5dq;

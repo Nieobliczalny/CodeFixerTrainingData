@@ -34,7 +34,7 @@ int main() {
   unsigned long long  RlpI;
 
  unsigned long j1nD;
- j1nD = -767922253;
+
     long double    gun0CTn;
     gun0CTn    =    -941717208;
   float  tyXyzCo6;
@@ -281,7 +281,7 @@ case 1:
 
 break;
 case 2:
-j9_lZuR1q2 = J0S0J(1604606928, ZSV3H_07MO);
+
 break;
 case 3:
 

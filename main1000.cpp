@@ -356,7 +356,7 @@ case 'g':
 n3_ef_l6yO = vG43r_VOp(n3_ef_l6yO, YlH_NZZ_, 561516237, j3_81f7qOs);
 break;
 case 'h':
-j3_81f7qOs = (int)ceil(n3_ef_l6yO);
+
 break;
 case 'i':
 T8Fcv8 = dRc0DOyq7 >> 918954389;

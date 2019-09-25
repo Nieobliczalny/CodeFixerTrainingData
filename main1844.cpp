@@ -136,7 +136,7 @@ case 0:
 
 break;
 case 1:
-a4F2BBL = (int)floor(M0AaL4);
+
 break;
 case 2:
 
@@ -219,7 +219,7 @@ else if (U74TuLH == O7Ud0SgByk)
 }
 else if (yj4ofeg1Gx)
 {
-a4F2BBL = (int)ceil(cvnwC71IE1);
+
 }
 else
 {

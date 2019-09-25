@@ -434,7 +434,7 @@ Du2M4Lq2Vv = E70W5O6nMn | tb134;
 break;
 case 'i':
 case 'I':
-CxDtY = (int)abs(Du2M4Lq2Vv);
+
 break;
 }
 }

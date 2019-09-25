@@ -144,7 +144,7 @@ int main(int argc, char** argv)
     unsigned long    ba54P;
 
   float  eXhF27;
-  eXhF27  =  258499133;
+
     long    uuxKqD53;
     uuxKqD53    =    -1452015294;
  long double U_YI8lUgv;

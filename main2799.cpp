@@ -562,7 +562,7 @@ case 'f':
 
 break;
 case 'g':
-BF11OSb &= 517310283;
+
 break;
 case 'h':
 

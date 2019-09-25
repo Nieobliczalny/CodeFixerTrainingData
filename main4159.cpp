@@ -34,7 +34,7 @@ int main(void) {
   long  b__79M_;
   b__79M_  =  -687825347;
  long long Xa5jg;
- Xa5jg = 543780604;
+
     float    aaZ25Z4im2;
     aaZ25Z4im2    =    -1197661470;
 	char	S8j0X8h;
@@ -76,7 +76,7 @@ int main(void) {
   unsigned long long  J_pbQrs;
 
  char JZ6a;
- JZ6a = 794043151;
+
   double  u1P84b;
   u1P84b  =  647403669;
  long tAh7sv;
@@ -102,7 +102,7 @@ int main(void) {
  short int kZyz;
  kZyz = -1211427395;
  long double OjiY;
- OjiY = 2048279736;
+
  int r6Ohup6;
 
  unsigned long ze8Vh7ucHA;
@@ -245,7 +245,7 @@ WF4W = g25bN10d(-285601617, dT6E, Bo8nWKT0);
 }
 while (i >= 0);
 }
-Gc3_dNvw = (unsigned long)(ze8Vh7ucHA);
+
 
 try
 {

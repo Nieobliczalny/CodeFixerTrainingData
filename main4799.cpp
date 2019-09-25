@@ -24,7 +24,7 @@ int main(void)
   double  SHiIepwM;
 
     unsigned long    OEJk4ebtRR;
-    OEJk4ebtRR    =    -419451176;
+
     unsigned short    F428oV8;
 
     double    tI260krO;
@@ -38,7 +38,7 @@ int main(void)
  int CZXg;
 
 	float	H9x01Bk;
-	H9x01Bk	=	1097147124;
+
     char    cHpbqc_B31;
 
     short    AyP0856;
@@ -54,7 +54,7 @@ int main(void)
     float    ZI30Y2_75h;
     ZI30Y2_75h    =    -1682447549;
 	short	kz3wDBC;
-	kz3wDBC	=	1322795841;
+
 	unsigned short int	qH6SBo;
 	qH6SBo	=	281403791;
  unsigned char HksZpu_;

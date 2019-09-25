@@ -118,7 +118,7 @@ int main()
 	unsigned short int	z29_;
 	z29_	=	-937732441;
   short  V9w99c;
-  V9w99c  =  883877287;
+
 	int	Oa45;
 	Oa45	=	925690672;
 	unsigned short int	C4gyJw;

@@ -117,7 +117,7 @@ int main(int argc, char** argv) {
   unsigned char  Mzp0f;
 
   short int  shfnn6q6L;
-  shfnn6q6L  =  625513321;
+
  unsigned short DDA4;
  DDA4 = 1984179795;
  char KZlh14V;
@@ -157,7 +157,7 @@ int main(int argc, char** argv) {
 	char	o706zS2qf;
 
   double  rmdASQCKFT;
-  rmdASQCKFT  =  -474677276;
+
     float    A179dq0;
 
     float    p0AX;
@@ -315,7 +315,7 @@ case 6:
 w10I_a3Ca *= 1388809957;
 break;
 case 7:
-rmdASQCKFT = (int)floor(A179dq0);
+
 break;
 case 8:
 atmYBS = (int)floor(w8L_7b05E);
@@ -331,7 +331,7 @@ case 0:
 
 break;
 case 1:
-shfnn6q6L = (int)abs(A179dq0);
+
 break;
 case 2:
 VmSI = MGlWg0bRd * 1658226334;

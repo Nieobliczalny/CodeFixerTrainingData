@@ -132,7 +132,7 @@ if ((UJ2ZWO34 > zG6h6M) && (PrE2J0eM < zG6h6M))
 int k = 7;
 do
 {
-UJ2ZWO34 = AVI9Z5y4(2027992483);
+
 --k;
 }
 while (k >= 0);

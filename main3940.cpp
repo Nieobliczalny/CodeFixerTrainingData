@@ -91,7 +91,7 @@ int main(int argc, char** argv)
 
 
  zxB3mfp9x = -879124223;
- pBAHT = 1020270466;
+
  YA6Lq = -1267995056;
 	long	w8QV_21V,	FtoD,	x52M6hW,	j8fNVqrSG,	N1db3zsr;
 	w8QV_21V	=	0;
@@ -305,7 +305,7 @@ case 'g':
 
 break;
 case 'h':
-ViqVbD = (int)floor(VBH2ZIkGC0);
+
 break;
 case 'i':
 VmQ1 = (int)ceil(K_N28xMMNK);

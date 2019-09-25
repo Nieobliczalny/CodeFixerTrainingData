@@ -31,7 +31,7 @@ int main(int argc, char** argv)
   unsigned long long  CYkgH;
   CYkgH  =  0;
  long s1525b8Kb;
- s1525b8Kb = -1450378097;
+
   short  L0fh47P0t7;
   L0fh47P0t7  =  0;
  unsigned long long QDBV;

@@ -57,7 +57,7 @@ int main(void)
 	short	rrzSEh;
 	rrzSEh	=	534173864;
 	double	armZ03;
-	armZ03	=	446610557;
+
  char g7Dh56r_tF;
  g7Dh56r_tF = 771059301;
   long long  o681GF9;
@@ -115,7 +115,7 @@ int main(void)
  short PD6YFyZQE;
 
   unsigned char  Cz_xGC;
-  Cz_xGC  =  842884651;
+
   int  oTzsz;
   oTzsz  =  170841151;
   long double  ynFjoNF_8i;

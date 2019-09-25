@@ -103,7 +103,7 @@ int main() {
 	unsigned char	MZOm;
 
  double SE35b;
- SE35b = 269770615;
+
   long  A84a;
 
 	long long	pgJq;

@@ -192,7 +192,7 @@ while (j >= 0);
 
 if (bf_aeqp > -1889460333)
 {
-tQAOWxB = (unsigned short int)(cG_Nh);
+
 }
 else if (HD6_D & -1923404016)
 {

@@ -42,7 +42,7 @@ int main(void)
     unsigned long    T8SN_;
     T8SN_    =    1836357642;
     long double    P___fI629;
-    P___fI629    =    -87822266;
+
 	long long	S_17zY;
 	S_17zY	=	-434421894;
  float cl5Ajy;

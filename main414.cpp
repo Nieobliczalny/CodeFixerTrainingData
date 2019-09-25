@@ -44,7 +44,7 @@ int main() {
     long    OXX9_;
     OXX9_    =    110831979;
  long double lupo760KvD;
- lupo760KvD = 502946661;
+
   short int  LqSH9E;
   LqSH9E  =  -1662026607;
     unsigned long    Us4_4z77_;
@@ -108,7 +108,7 @@ int main() {
   unsigned int  fYp80GwI;
 
  char it_z_d2E2v;
- it_z_d2E2v = -434629179;
+
     int    tbgXs_M;
 
     char    GhO2h_r;
@@ -234,7 +234,7 @@ case 'e':
 EJ6cKf02 = oHViG(EJ6cKf02, eyE_I7, 128974104);
 break;
 case 'f':
-lupo760KvD = (int)ceil(lP6CHr3DUF);
+
 break;
 case 'g':
 

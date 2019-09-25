@@ -28,7 +28,7 @@ int main() {
     float    G18OmQjG3n;
 
 	short int	uSyf3;
-	uSyf3	=	-486445685;
+
  char bTRt;
  bTRt = -2133400574;
   long  ZOFG;
@@ -372,7 +372,7 @@ case 2:
 
 break;
 case 3:
-SSZCd4vNH = lt1C5_JY * 307387852;
+
 break;
 case 4:
 bTRt = CUQGS79_gs | 1567259569;
@@ -398,7 +398,7 @@ a92K7x = (unsigned short int)(l4M8l8aFD + (296121694));
 }
 if ((QNL25c != l4M8l8aFD) && (SQ93 & lLhf))
 {
-fHC6w5 = (int)(l4M8l8aFD + (-769352681));
+
 }
 if (qzqdr5M & -1926678204)
 {

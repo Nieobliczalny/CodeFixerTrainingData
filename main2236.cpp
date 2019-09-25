@@ -370,7 +370,7 @@ else if (N52N > eIKpJCF)
 }
 else
 {
-tGB4EDD = (int)floor(Ey97RhYQ);
+
 }
 }
 else

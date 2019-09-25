@@ -139,7 +139,7 @@ int main(int argc, char** argv) {
  long long z_K2BQs;
 
 	unsigned long long	pxiY9b;
-	pxiY9b	=	-1551098021;
+
     unsigned int    X7cC;
 
  char S7_DXt6;

@@ -166,7 +166,7 @@ int main(void)
 	float	V0NUNCuzw;
 
   double  X3_6H6;
-  X3_6H6  =  2028814209;
+
 	unsigned char	j7c_P;
 	j7c_P	=	-1896147675;
     unsigned short    P1QeM;

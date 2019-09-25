@@ -40,7 +40,7 @@ int main(int argc, char** argv) {
   unsigned long long  bFAo483A;
 
 	unsigned short int	sJp10JT0P;
-	sJp10JT0P	=	0;
+
 	short	jh3ugj;
 
     long long    eKhQUP;
@@ -56,7 +56,7 @@ int main(int argc, char** argv) {
  unsigned short ALTk;
  ALTk = 1851731591;
   float  M7KQ;
-  M7KQ  =  549169363;
+
 	unsigned long	x_83z;
 
 	unsigned long long	L9y1Jb;
@@ -164,7 +164,7 @@ int main(int argc, char** argv) {
   short int  bnf3a3sk;
 
   float  depLjCK;
-  depLjCK  =  -427047386;
+
 
 
 

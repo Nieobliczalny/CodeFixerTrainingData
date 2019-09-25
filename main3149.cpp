@@ -48,7 +48,7 @@ int main(int argc, char** argv) {
   short int  Vk712kf9J;
   Vk712kf9J  =  0;
   unsigned char  yBf0O2;
-  yBf0O2  =  -1407140629;
+
  unsigned short int sVK1Kxi5Rg;
  sVK1Kxi5Rg = 2063855486;
  unsigned short Z935cvX;

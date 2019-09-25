@@ -155,7 +155,7 @@ case 9:
 Jm7P0 = G2_QOeF1R(Jm7P0, yoneq83572);
 break;
 default:
-XdIX1NrM = (int)abs(Jm7P0);
+
 break;
 }
 try

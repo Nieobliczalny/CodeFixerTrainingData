@@ -163,7 +163,7 @@ c2D2_s5u = vQYY + N4V_9rF;
 break;
 case 'g':
 case 'G':
-N4V_9rF = jV9n();
+
 break;
 default:
 t42LO813ZB = sI_3 % 491015760;

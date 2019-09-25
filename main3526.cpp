@@ -50,7 +50,7 @@ int main(void) {
     short int    klUC;
 
     char    q6i0y4;
-    q6i0y4    =    1694244831;
+
   char  RZOxQXXn;
   RZOxQXXn  =  1435228113;
  unsigned short I19r5js;

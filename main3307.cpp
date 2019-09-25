@@ -35,7 +35,7 @@ int main()
 
 
   SjYZ0boQ  =  1463371871;
-  Xe4X8n  =  -1079490452;
+
   ANfAS2  =  -65799445;
   qPR0dn  =  -612524539;
 
@@ -110,7 +110,7 @@ int main()
   Osq0W0rF  =  -374271661;
   u16tZctOf  =  1078688581;
 
-  s115_B5  =  -279648449;
+
 
 switch (mQkSklI9)
 {

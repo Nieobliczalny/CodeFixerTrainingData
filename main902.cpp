@@ -170,7 +170,7 @@ std::cout << vL88 << gJz_ << Xb0V2q4PJ2 << nIF7Lu1k << std::endl;
 
 
 
-apQsw5NqoW = (long)(K_H0scJX + (-198445939));
+
 std::cout << "EP25Pv" << std::endl;
 for (int i = 10; i >= 0; --i)
 {

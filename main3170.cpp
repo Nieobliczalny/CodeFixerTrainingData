@@ -51,7 +51,7 @@ int main(int argc, char** argv)
 	unsigned long long	dD3_7;
 	dD3_7	=	394835137;
  long long vG2_4zQoTa;
- vG2_4zQoTa = 1497836428;
+
     unsigned char    sl21g7l;
     sl21g7l    =    1573987044;
     unsigned char    SbnAf4_7GT;

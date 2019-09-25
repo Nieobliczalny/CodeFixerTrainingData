@@ -113,7 +113,7 @@ else
 
 }
 
-D_0Qoo = (short)(lkIS61lT + (-1986158071));
+
 
 try
 {

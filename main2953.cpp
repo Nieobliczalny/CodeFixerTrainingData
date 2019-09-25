@@ -75,7 +75,7 @@ int main(void) {
   unsigned long  fIJeKVBa;
 
     long long    k53u94;
-    k53u94    =    -2110534583;
+
     int    tfYx;
 
     unsigned char    Rt78;

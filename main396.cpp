@@ -130,7 +130,7 @@ int main(void)
  unsigned char fnn5Qv4;
 
   char  wp55;
-  wp55  =  450814195;
+
  unsigned long Hnddy66;
 
   short int  fw6i_8z3jG;

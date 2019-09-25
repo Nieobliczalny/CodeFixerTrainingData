@@ -133,7 +133,7 @@ int main(void)
   long  zJc7PaTP2;
 
  unsigned short int a1sW5U3;
- a1sW5U3 = -444088961;
+
     double    HayPt6;
     HayPt6    =    423211615;
   char  Vzwgaz9;

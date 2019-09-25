@@ -81,7 +81,7 @@ int main()
     unsigned short int    opYKW4m;
     opYKW4m    =    -651782327;
 	unsigned short int	KlfHxO13c;
-	KlfHxO13c	=	-1049143623;
+
  long long B7A72Wbq;
 
     unsigned long long    ej9t_;
@@ -95,7 +95,7 @@ int main()
 	long double	x8H4;
 	x8H4	=	840387312;
   unsigned char  GNRlFw82;
-  GNRlFw82  =  887909009;
+
 	int	cH74xRZ;
 	cH74xRZ	=	-116875760;
     double    Gqe2Mn;
@@ -163,7 +163,7 @@ int main()
   unsigned long  cT_sx;
   cT_sx  =  -337681004;
  double Yl3I;
- Yl3I = 205994375;
+
  short F80pTQ;
 
  short ZL6H;

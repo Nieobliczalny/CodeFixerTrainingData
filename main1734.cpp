@@ -100,7 +100,7 @@ int main() {
  unsigned int qWGn78YYe;
  qWGn78YYe = -378070721;
   unsigned char  SRPuj3;
-  SRPuj3  =  -2069585081;
+
     unsigned char    E0I2S;
     E0I2S    =    -1825798900;
   unsigned long long  Z8xs4rgda;

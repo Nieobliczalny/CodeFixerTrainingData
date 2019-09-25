@@ -138,7 +138,7 @@ int main(int argc, char** argv) {
 	unsigned long long	iKteI8b6l6;
 
  short int VLLw;
- VLLw = 0;
+
  unsigned int tWsmETGC;
 
  unsigned char ePr1TzSM4;

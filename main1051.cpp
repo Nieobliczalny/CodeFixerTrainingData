@@ -40,7 +40,7 @@ int main(int argc, char** argv)
     unsigned short    U7ByJn89;
 
     unsigned char    Tt8h;
-    Tt8h    =    -1741772432;
+
 	double	A_P57z0U;
 
  int M9_a342YGS;
@@ -76,7 +76,7 @@ int main(int argc, char** argv)
     unsigned long    dz6G0;
 
   unsigned long  O5ghN65;
-  O5ghN65  =  1024600020;
+
  short ZsUjJ3w;
 
  long double uk0xYh3BK;

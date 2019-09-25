@@ -41,7 +41,7 @@ int main()
   long long  PQZb;
 
     short    yjw8o_I_65;
-    yjw8o_I_65    =    -117037669;
+
   long double  I9Kx;
   I9Kx  =  1624713321;
  unsigned short Z0B_6o6;
@@ -93,7 +93,7 @@ int main()
  long ccfA;
 
     unsigned long    W91WLmX6Tq;
-    W91WLmX6Tq    =    1948927582;
+
   unsigned short int  CFX55F8um;
 
   unsigned char  B9R7;
@@ -111,7 +111,7 @@ int main()
  long aFhhSaGY;
  aFhhSaGY = 1790632510;
  float S270I;
- S270I = -1251108922;
+
   unsigned char  zCCo8;
   zCCo8  =  0;
     float    IvJ1rhOl;

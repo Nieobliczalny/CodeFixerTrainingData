@@ -32,7 +32,7 @@ int main(void) {
     ixG3VBh    =    116398980;
 
     iTVbVFeu    =    -1218089954;
-    B0u93pmnOR    =    1523727583;
+
 
 
     V8AU3b6H9    =    1423731193;
@@ -55,7 +55,7 @@ int main(void) {
 
 
 
-    z4Gz102    =    1969278547;
+
     An1t31mv    =    85231571;
 
     I4F0A    =    -701350549;
@@ -85,7 +85,7 @@ int main(void) {
     long    k78m0Sq,    QL8PpN_,    sL54d836,    bGsB3W;
 
     QL8PpN_    =    0;
-    sL54d836    =    0;
+
     bGsB3W    =    0;
 
 

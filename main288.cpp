@@ -79,7 +79,7 @@ break;
 int i = 6;
 while (i >= 0)
 {
-sQ_E = (unsigned char)(B28x2L);
+
 --i;
 }
 }

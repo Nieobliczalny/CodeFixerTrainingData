@@ -49,7 +49,7 @@ int main() {
     unsigned short    C96A_8;
     C96A_8    =    2107353109;
     long long    c5gc1G0;
-    c5gc1G0    =    -1285040090;
+
   long  WZAtgVt0;
 
  long double Fggl86p;
@@ -61,7 +61,7 @@ int main() {
  int kb__;
  kb__ = 1876973059;
 	double	V3nj2ZOG;
-	V3nj2ZOG	=	1330045925;
+
   long long  noBC1Bn;
   noBC1Bn  =  -1918660997;
     char    fiUxsW32VU;
@@ -113,7 +113,7 @@ default:
 break;
 }
 
-tTcNG0 = VxJz82r(tTcNG0, C96A_8, l3b08_, -372605193);
+
 
 
 

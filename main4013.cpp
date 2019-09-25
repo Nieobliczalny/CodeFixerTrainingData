@@ -266,7 +266,7 @@ case 'e':
 
 break;
 case 'f':
-KF79Jbb = (int)ceil(lMeg0);
+
 break;
 case 'g':
 

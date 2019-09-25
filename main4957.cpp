@@ -28,7 +28,7 @@ int main(int argc, char** argv) {
 	short	SKxj;
 
 	unsigned short	ygy_C6X;
-	ygy_C6X	=	0;
+
 	double	EpVTYCg3;
 
  unsigned long Z91_;

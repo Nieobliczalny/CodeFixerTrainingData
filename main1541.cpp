@@ -33,7 +33,7 @@ int main() {
     short int    Q780hJ;
 
  long R9PhJ10hv;
- R9PhJ10hv = -1351006824;
+
  long long R4Y6e22;
  R4Y6e22 = 416549478;
   long double  OEC6;
@@ -67,7 +67,7 @@ int main() {
   unsigned short  jZ6g8F9Z8;
   jZ6g8F9Z8  =  184781033;
     float    Go11OVU89;
-    Go11OVU89    =    -775979440;
+
  unsigned long long r6EbjJwm4;
 
 	unsigned short	lS0a87;

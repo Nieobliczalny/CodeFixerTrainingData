@@ -189,7 +189,7 @@ if (Xue_v818e != znA3j6Zlt)
 int k = 0;
 while (k < 8)
 {
-d73aGOr25D = n9x_04__E(-1688298595);
+
 k++;
 }
 }

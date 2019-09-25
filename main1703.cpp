@@ -39,7 +39,7 @@ int main(int argc, char** argv)
   float  aD2X2_6;
 
  float Y9b_kvS;
- Y9b_kvS = -146464342;
+
     short int    zDMPWr;
     zDMPWr    =    262832053;
 	unsigned long long	pc_5pPwX44;

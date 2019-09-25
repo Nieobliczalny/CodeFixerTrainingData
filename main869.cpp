@@ -94,7 +94,7 @@ int main(void) {
     unsigned long    QK0TsxHTB_;
 
     float    b_P48pXE6;
-    b_P48pXE6    =    1776439239;
+
     char    o9u3soghGF;
     o9u3soghGF    =    1516647230;
 	double	VF332B;

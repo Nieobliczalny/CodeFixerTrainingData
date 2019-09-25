@@ -21,7 +21,7 @@ int main(void)
 
 
 
-    g7s_K6v    =    -432741667;
+
     XqH16    =    184636841;
     v859ZP4wm7    =    1354115300;
     B5ZqA9    =    1594296386;
@@ -36,7 +36,7 @@ int main(void)
 
     vVf9    =    426922391;
 
-uF26Q = 658149233 / snQ48Zd;
+
 JW385G2N5 %= 1136959766;
 
 switch (v859ZP4wm7)

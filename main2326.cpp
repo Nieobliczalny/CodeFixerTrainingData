@@ -39,7 +39,7 @@ int main() {
     unsigned long long    I4CqU;
 
  float w9LtgMI8;
- w9LtgMI8 = -396136741;
+
 	long long	BczejZ;
 	BczejZ	=	-845758105;
  long double NEj5E;

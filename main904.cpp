@@ -162,7 +162,7 @@ int main(void)
 	short	TrSW89EHij;
 	TrSW89EHij	=	1090982379;
  double tKe7;
- tKe7 = -2036942973;
+
  unsigned short mhuL5;
  mhuL5 = -1161727674;
   int  O_8A_4Kn;
@@ -230,7 +230,7 @@ tpc5A = I059C9(1880827529, -1038378342);
 }
 else if (Te7c & -345484177)
 {
-tKe7 = I059C9(-685390004, -395071559);
+
 }
 else if ((Dl9K49GI < -2019627753) && ((Qa_NZ_b9 < 1557711814) || (s2Z41 != T44fJ06LIH)))
 {

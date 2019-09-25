@@ -88,7 +88,7 @@ int main(void)
 	long double	Pa1j7bU;
 
   unsigned short int  Q11_N7;
-  Q11_N7  =  1095997756;
+
   short  pqKtk;
 
  long long W43pwju;
@@ -124,7 +124,7 @@ int main(void)
     unsigned long    AM2OMUB;
     AM2OMUB    =    891252349;
  long double W0w9T_VIod;
- W0w9T_VIod = -1375585150;
+
     double    aPjXX;
 
   unsigned short int  LgG7;

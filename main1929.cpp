@@ -147,7 +147,7 @@ int main()
     long    xf13lIwf;
 
 	unsigned short int	VGGkgyW;
-	VGGkgyW	=	-2102724873;
+
  unsigned long long Z6v8;
 
  unsigned long PzOl_;
@@ -179,7 +179,7 @@ int main()
  short int WfUbGw0rO;
  WfUbGw0rO = 1513024230;
   char  BG5X9;
-  BG5X9  =  1428661268;
+
 
 
 

@@ -74,7 +74,7 @@ while (j >= 0);
 }
 }
 
-Lv4u6 %= 132528502;
+
 
 
 std::cout << "Kc0zBM_k_" << "iv_R7J05U" << "xPBF7P47uN" << L5AP << std::endl;
@@ -124,7 +124,7 @@ try
 switch (L5AP)
 {
 case 0:
-E9pG64 = Icx5v7(-1172769794, v93jd);
+
 break;
 case 1:
 bNr_hP8x = y9W9cx(bNr_hP8x, ysC9, -1371324589);
@@ -192,7 +192,7 @@ case 1:
 
 break;
 case 2:
-Lv4u6 = h6aLJ7();
+
 break;
 case 3:
 

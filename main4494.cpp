@@ -131,7 +131,7 @@ case 4:
 foprfwNa >>= 1828678053;
 break;
 case 5:
-MC1_q = eydJi();
+
 break;
 case 6:
 

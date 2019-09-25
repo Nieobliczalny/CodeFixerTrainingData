@@ -33,7 +33,7 @@ int main(void)
   unsigned long  LoUxpT;
   LoUxpT  =  -1143895245;
 	long long	PvUQ;
-	PvUQ	=	1513551416;
+
 	unsigned short	z5pD163f4y;
 
   long long  g6510ao;
@@ -65,7 +65,7 @@ int main(void)
     float    ikv7g7GC1B;
 
   unsigned long  Ze3DwcqoA9;
-  Ze3DwcqoA9  =  -433468684;
+
   double  Mq16mZFN7;
   Mq16mZFN7  =  494130708;
     long long    RRda3i;
@@ -85,7 +85,7 @@ int main(void)
 	short	f5GydW17;
 	f5GydW17	=	895097826;
 	float	tQ729ly;
-	tQ729ly	=	1439222113;
+
     unsigned short    oegztf_Y5;
     oegztf_Y5    =    464177449;
     short    XhIyM7_;
@@ -286,7 +286,7 @@ if ((AzWZ2Ijj) || (N_C5X_W6ar < -448300120))
 
 if (d_1i2 < G_D2_HD)
 {
-gaj9X7Ou6 = (char)(bFzU7j6);
+
 }
 
 cout << g4hU_6 << RG6_9HP2() << "I61be" << "aN16hl" << endl;

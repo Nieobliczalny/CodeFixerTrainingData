@@ -106,7 +106,7 @@ int main(int argc, char** argv)
   short  T2g6unsw2I;
 
   int  j1SGdn;
-  j1SGdn  =  0;
+
  short C20sm;
 
  long GCND_;

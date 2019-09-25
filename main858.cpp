@@ -54,7 +54,7 @@ int main(int argc, char** argv) {
  unsigned long T64_2yKwI;
 
   unsigned long  t314r;
-  t314r  =  1721223240;
+
 	short	j9kfp0lpT;
 	j9kfp0lpT	=	0;
     short    xDIg3g_y2H;

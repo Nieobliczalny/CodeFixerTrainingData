@@ -33,7 +33,7 @@ int main(int argc, char** argv)
 	AmMBgH	=	-673384867;
 
 
-	q_6x8z43ZV	=	-1971152969;
+
 	UHWxc0	=	476345960;
 	s9hjRm8	=	-1515320353;
 	FD5I3Po	=	-1768950987;
@@ -45,7 +45,7 @@ int main(int argc, char** argv)
 
 	Z3Y0sPUoh5	=	722606508;
 	C0Qmi	=	-1076060357;
-	DZ7o7	=	1936946761;
+
 	xAi5IPw5b	=	-282316119;
 	kBFXfzsus	=	1157479234;
 

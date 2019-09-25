@@ -64,7 +64,7 @@ int main(int argc, char** argv) {
     unsigned long long    J50Y81J;
 
     int    kH587q7bU;
-    kH587q7bU    =    -732342393;
+
     unsigned int    XxJn4I;
 
  unsigned long f_3S823;

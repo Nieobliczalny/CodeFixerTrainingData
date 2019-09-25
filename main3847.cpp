@@ -218,7 +218,7 @@ case 4:
 
 break;
 case 5:
-r45P77c90 = (int)abs(G400HuM7);
+
 break;
 case 6:
 x1bo417 += El0S;

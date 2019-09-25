@@ -39,7 +39,7 @@ int main()
     unsigned char    Ey0S_;
     Ey0S_    =    -693339746;
   long double  aGU3L49ek0;
-  aGU3L49ek0  =  -1126187400;
+
 	long long	h542;
 
 	long	Af116WV;
@@ -179,7 +179,7 @@ int main()
 	long	M8Tiy;
 
  unsigned short int Wgz4R;
- Wgz4R = -1358468005;
+
     long long    EF_P1s5pps;
 
     long long    Zy4yBksjC;
@@ -223,7 +223,6 @@ G6Mgsn = (int)ceil(zpJb);
 }
 }
 
-O2SnLlQDYg += 20461920;
 
 
 
@@ -233,7 +232,8 @@ O2SnLlQDYg += 20461920;
 
 
 
-Px66h8UB *= 1596380812;
+
+
 XLAy8_5x = Sd6KDqA(-413703666);
 if (CDAdVb7u <= JAn35)
 {

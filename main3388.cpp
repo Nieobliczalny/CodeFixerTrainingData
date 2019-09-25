@@ -77,7 +77,7 @@ int main()
     double    tb1f35;
 
  int lnsMP7;
- lnsMP7 = -503255232;
+
     unsigned int    u0iO4O;
     u0iO4O    =    -1642285886;
  unsigned short int nHinr11;

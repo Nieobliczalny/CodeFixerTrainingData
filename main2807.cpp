@@ -587,7 +587,7 @@ while (j < 8);
 }
 else
 {
-pXAc1 = (int)ceil(QZTg4dQ);
+
 }
 
 

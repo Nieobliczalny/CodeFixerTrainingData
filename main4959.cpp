@@ -128,7 +128,7 @@ int main(void) {
     unsigned int    gR_j2N2Z;
 
 	long double	N21o;
-	N21o	=	-1763830153;
+
 	unsigned short int	EuN3J;
 
 	long	dtvzFx_l7Q;

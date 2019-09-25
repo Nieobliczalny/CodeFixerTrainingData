@@ -184,7 +184,7 @@ LP_3j = Z90OIXp % 860263247;
 switch (R7aL117)
 {
 case 0:
-v_N1_ |= 895301534;
+
 break;
 case 1:
 skaT = (int)floor(aB320AxYc_);

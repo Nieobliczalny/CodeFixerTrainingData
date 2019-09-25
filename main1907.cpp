@@ -97,7 +97,7 @@ case 1:
 
 break;
 case 2:
-uKxc = (int)abs(RQ76Mq);
+
 break;
 case 3:
 
@@ -132,7 +132,7 @@ while (i >= 0)
 {
 try
 {
-B14Hd = (unsigned int)(bg_32chC);
+
 }
 catch (int& errorCode)
 {
@@ -165,7 +165,7 @@ while (k >= 0)
 }
 else if (prtumMYGPh <= 355627025)
 {
-uKxc = T94S(HkvznE, 1010916132, -1811816261, 247452938, -1790226621);
+
 }
 else if (Z8COVkwp6 >= 196552987)
 {

@@ -121,7 +121,7 @@ int main()
  long long sscG6v4C;
  sscG6v4C = -1891861972;
   unsigned char  j_dYpWH;
-  j_dYpWH  =  114521809;
+
  long eal8_mv;
 
 	long	wX7Cj;

@@ -45,7 +45,7 @@ int main()
 
   PTA4  =  -887501399;
 
-  n_12y8G9  =  402423400;
+
   Mamthg_H  =  597232041;
 
   fla4E_M7j9  =  1445001001;
@@ -102,7 +102,7 @@ int main()
   PLYU  =  1647939069;
 
 
-  kts36LRwNl  =  2070368919;
+
   sV82O06  =  1327358381;
   D6LpsoX  =  -272128853;
   char  vOu8IZ,  GVC0huU,  S0D8,  rI11b9Gs3;

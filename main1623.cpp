@@ -180,7 +180,7 @@ default:
 Wp98BFt = p5uBl(Wp98BFt);
 break;
 }
-D43341Q9n = (short)(pqZ8i);
+
 if (TD8k < Px64ekpm)
 {
 xICD137 = bC7U(1655477677, RAM1Hk00_);

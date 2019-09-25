@@ -541,7 +541,7 @@ break;
 }
 }
 
-hZjy0 = F0m_Ei(I_H8);
+
 {
 int i = 6;
 while (i >= 0)
@@ -575,7 +575,7 @@ NQkI3a >>= hS62497;
 break;
 case 'g':
 case 'G':
-hZjy0 = F0m_Ei(n430Q_NB6X);
+
 break;
 case 'h':
 case 'H':

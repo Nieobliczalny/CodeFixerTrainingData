@@ -217,7 +217,7 @@ case 2:
 F1ku %= 899375028;
 break;
 default:
-f92EVW = SpMI_v_r | FtaIh2C_;
+
 break;
 }
 }
@@ -294,7 +294,7 @@ case 6:
 
 break;
 case 7:
-EAt4 = (int)abs(Bmp39);
+
 break;
 default:
 KlsDTgV %= VIVD1;

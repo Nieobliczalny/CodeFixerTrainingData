@@ -162,7 +162,7 @@ int main(void) {
 
 
 
-GI_SR4sv = st2N05C | oO_00ho1Q;
+
 try
 {
 {

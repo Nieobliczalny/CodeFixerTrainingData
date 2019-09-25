@@ -47,7 +47,7 @@ int main()
  char w5S1vrnU2o;
 
  float IhkA;
- IhkA = 357284458;
+
 	unsigned short	PLOP2Jq4;
 
     long long    kv0K7I431;

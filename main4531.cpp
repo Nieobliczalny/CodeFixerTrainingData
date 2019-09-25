@@ -66,7 +66,7 @@ int k = 10;
 while (k >= 0)
 {
 k--;
-Avo0KF27v = (int)floor(f40D);
+
 }
 }
 }

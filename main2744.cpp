@@ -253,7 +253,7 @@ for (int j = 0; j < 10; j++)
 {
 if (uQ_3B > deEKM)
 {
-X_HViYwB = IYu2qfH | GULb7zgqQ;
+
 }
 else if (YQ92GOL & 1966977648)
 {
@@ -286,7 +286,7 @@ else
 switch (HYtp)
 {
 case 'a':
-X_HViYwB = (Is2nqlxQ != 1362796109) ? 1896484223 : -443165708;
+
 break;
 case 'b':
 GUUUE0o2j %= 1551614504;
@@ -301,7 +301,7 @@ case 'e':
 WflIu13 = (int)ceil(LdkrqsT);
 break;
 case 'f':
-J00n4 = (int)floor(WflIu13);
+
 break;
 case 'g':
 WflIu13 = (int)ceil(J00n4);

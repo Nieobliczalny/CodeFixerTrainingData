@@ -52,7 +52,7 @@ n2_O = mRXTA0 * DXyM;
 break;
 case 'b':
 case 'B':
-DXyM = aYj_Jv33V(1676859476, wt4_4_5, D_5L);
+
 break;
 case 'c':
 case 'C':

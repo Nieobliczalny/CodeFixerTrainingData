@@ -88,7 +88,7 @@ int main(int argc, char** argv) {
 	long double	ICdfcb;
 
  long double nYCtyfGx5Q;
- nYCtyfGx5Q = -1645969435;
+
     float    uQCF74i;
     uQCF74i    =    118331846;
   char  J_Ce5FHsx7;
@@ -108,7 +108,7 @@ int main(int argc, char** argv) {
  float UzbCEoJ;
  UzbCEoJ = 609027662;
  float RLy8c6I3;
- RLy8c6I3 = 1221607786;
+
  unsigned short int Z4e_7QA1;
 
   unsigned char  m23V;

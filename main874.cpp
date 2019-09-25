@@ -44,7 +44,7 @@ int main(int argc, char** argv) {
   double  ie7MIdu;
 
  short int FX1l47VXe;
- FX1l47VXe = -625897024;
+
   float  I0mk;
 
  unsigned long v4i3;

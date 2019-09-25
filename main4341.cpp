@@ -183,7 +183,7 @@ int main(int argc, char** argv)
 	long double	FPlC8O_;
 
 	double	IMya2_03;
-	IMya2_03	=	-166981338;
+
   unsigned char  Lsoo;
   Lsoo  =  1266850068;
  char Ag_T;

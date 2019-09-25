@@ -57,7 +57,7 @@ int main() {
 	LyZhPbd1	=	480294482;
 	Gc_lFC69	=	-1587994485;
 
-	rTSQMG9jc	=	-123987900;
+
 	HisuZ1Tn	=	761447537;
 	lgH7FK	=	-2026957172;
 	wii9C2	=	-692476027;
@@ -230,7 +230,7 @@ eJE63_b = kkVAuL4Y + dqWHh;
 }
 else
 {
-rTSQMG9jc = S0bT_x5E7w(-2076407165, tGi2306, y6MNC5uY2) - 528971959;
+
 }
 }
 while (j >= 0);

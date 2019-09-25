@@ -107,7 +107,7 @@ int main()
 	long long	u_9Y;
 	u_9Y	=	1930242513;
     unsigned short    FxIe7N;
-    FxIe7N    =    2096774476;
+
  double h0xemZU9R3;
 
 	long double	B1A7;

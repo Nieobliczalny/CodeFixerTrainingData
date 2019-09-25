@@ -472,7 +472,7 @@ if (ks0gi447l & -1319151014)
 {
 if (W38Nik2h < -1246818492)
 {
-cBh3P = (long double)(K3NcL);
+
 }
 else
 {

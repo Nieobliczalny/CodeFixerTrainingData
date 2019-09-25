@@ -86,7 +86,7 @@ case 'a':
 cfuJp = (int)ceil(GrLK);
 break;
 case 'b':
-frp9pHmA = (int)floor(hHj5r);
+
 break;
 case 'c':
 ASL_5DD = (int)ceil(w1nIh30);
@@ -145,7 +145,7 @@ ASL_5DD = KryDdEm(1835476793, obQZO, ASL_5DD, THUqUQ, 1251219186);
 break;
 case 'i':
 case 'I':
-frp9pHmA = (dZ96xcr8Z == o0Ia) ? Sje4b_5 : -275869210;
+
 break;
 }
 --i;

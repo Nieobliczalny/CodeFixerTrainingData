@@ -36,7 +36,7 @@ int main(int argc, char** argv)
 
 
     du77_2    =    1875243346;
-    J9aYlPT    =    -1611052697;
+
     xw_JM8    =    1368399150;
 
     IaNycpj_5    =    -1764981433;
@@ -53,7 +53,7 @@ int main(int argc, char** argv)
     fHJ2k    =    810168424;
 
     M_MU87    =    -421289978;
-    OW_M    =    -1320777993;
+
 
     f_9i7b    =    -1137710473;
     T0U6h    =    1521495641;
@@ -68,7 +68,7 @@ int main(int argc, char** argv)
     CSjtnfI    =    1817693258;
 
 
-    fQ867    =    1947147225;
+
     Z_6M7OqkN    =    -1654559237;
 
     h76jp15    =    -277003168;
@@ -81,7 +81,7 @@ int main(int argc, char** argv)
 
 
     BHpE58_H    =    -702933513;
-    F6d5QTPa    =    -993109802;
+
     t5J33mBl8    =    1250120366;
 
 cout << "kc2bUbldur" << endl;

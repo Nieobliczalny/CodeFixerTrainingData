@@ -29,7 +29,7 @@ int main(void)
     unsigned short int    dN05JnA6Gk;
     dN05JnA6Gk    =    1337112268;
     unsigned long long    srvN_8;
-    srvN_8    =    0;
+
   short int  m6M_pS0oq1;
   m6M_pS0oq1  =  333868823;
 	int	Pafk8hh41;
@@ -171,7 +171,7 @@ QH8MK = (int)floor(MKjU84l0);
 switch (OgeHa0eG)
 {
 case 'a':
-srvN_8 = zd_1Xh9_q();
+
 break;
 case 'b':
 otT0_ <<= KN_86Gu_QE;

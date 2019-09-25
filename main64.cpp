@@ -58,7 +58,7 @@ int main(int argc, char** argv) {
     unsigned int    w7i2Lol9e5;
 
  float BC973;
- BC973 = 1832318123;
+
   short int  X2o4;
   X2o4  =  1622249144;
     unsigned int    W0Ra;

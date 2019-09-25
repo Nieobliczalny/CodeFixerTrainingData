@@ -103,7 +103,7 @@ int main()
 	unsigned long long	Z5G968Bq;
 	Z5G968Bq	=	665394702;
  double ZBm1y;
- ZBm1y = -927652056;
+
  unsigned long ni2x;
  ni2x = -222738910;
   long double  Zwku_0;
@@ -127,7 +127,7 @@ int main()
   int  T5YrG;
 
 	float	II6Dv;
-	II6Dv	=	-889330677;
+
  unsigned int yjZ8Jt_;
 
     unsigned long long    XH_9itfZ1C;
@@ -276,7 +276,7 @@ for (int k = 0; k < 4; ++k)
 }
 else
 {
-ZBm1y = (int)floor(lp980);
+
 }
 }
 else

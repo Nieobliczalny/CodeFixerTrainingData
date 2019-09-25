@@ -110,7 +110,7 @@ int main(void) {
 	long double	TuaC2z;
 
     unsigned long    iaBB1A08W;
-    iaBB1A08W    =    -516885190;
+
  long W_1ud;
  W_1ud = -1680453093;
   long double  fFm42p18;
@@ -132,7 +132,7 @@ int main(void) {
     unsigned long long    DSPSE1U3;
     DSPSE1U3    =    -1519689283;
  unsigned long ugf7C3F;
- ugf7C3F = 0;
+
  long double ZJ7NdZ;
  ZJ7NdZ = -1971125781;
     short    X2k3HFKM;

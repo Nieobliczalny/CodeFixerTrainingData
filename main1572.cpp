@@ -22,7 +22,7 @@ int main(int argc, char** argv)
 
   NJz45_rO  =  877000124;
   y1524v  =  -1157082280;
-  sj_F7ybBD  =  -1096869746;
+
   v_K9iWQU55  =  478534932;
   W37YC1  =  -2060597270;
   wYlQ  =  -656578539;

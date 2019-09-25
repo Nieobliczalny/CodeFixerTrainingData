@@ -238,7 +238,7 @@ case 0:
 EqUjbKw -= 62064961;
 break;
 case 1:
-V1daj_ = p6Mb99dor(954577108, -1539728310, -1002665123, r_ur4qA9, 114497);
+
 break;
 case 2:
 iATp3p8 += U_Ex0y;
@@ -284,7 +284,7 @@ else
 int i = 4;
 while (i >= 0)
 {
-V1daj_ = (int)abs(TIIOrR);
+
 i--;
 }
 }

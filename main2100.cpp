@@ -38,7 +38,7 @@ case 'g':
 
 break;
 case 'h':
-Qe8l3v <<= 273964895;
+
 break;
 case 'i':
 X2aHU = (int)abs(n31Uj4) * 0;
@@ -132,7 +132,7 @@ try
 {
 if (FNSE51duO == 766891291)
 {
-dNJ1 = (int)abs(m_7_a4w8) + (374893260);
+
 }
 else
 {
@@ -198,7 +198,7 @@ case 4:
 
 break;
 case 5:
-iz_T <<= 1613450177;
+
 break;
 case 6:
 Le7O0 = MTm85I + 1723886698;

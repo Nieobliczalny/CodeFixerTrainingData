@@ -75,7 +75,7 @@ int main(int argc, char** argv)
   dLi5n8agd  =  -1610476478;
   CUD_GC2m  =  776952431;
   r6E9E7  =  -1381483977;
-  E9TL8DW  =  1668488749;
+
   NuMo  =  -848828537;
   NqX7RF5F4h  =  2087229709;
 
@@ -250,7 +250,7 @@ case 'e':
 
 break;
 case 'f':
-azgA <<= pFFmhvDWPQ;
+
 break;
 case 'g':
 sZXO = (int)abs(SEI5Z3y2g5);

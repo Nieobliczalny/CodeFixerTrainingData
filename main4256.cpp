@@ -160,7 +160,7 @@ case 'b':
 oL5a_zd = (int)floor(QCqK8R);
 break;
 case 'c':
-f7N4YG -= 1957129172;
+
 break;
 case 'd':
 wvd5 = (int)ceil(z_RPrL195);

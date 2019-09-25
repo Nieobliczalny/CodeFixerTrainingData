@@ -137,7 +137,7 @@ int main(void)
  unsigned long y4w69bGmz;
 
  unsigned short cbr1MW6;
- cbr1MW6 = 2061611345;
+
 
 APywUR7 = (int)abs(V3Hb3);
 mmc0CKLE = (int)abs(nc5m79) * 0;
@@ -191,7 +191,7 @@ case 'b':
 xJSS1J2oZ = (int)floor(ImFW13Wg_);
 break;
 case 'c':
-bJz4hV = (int)floor(xJSS1J2oZ);
+
 break;
 case 'd':
 JsUw++;

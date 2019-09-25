@@ -407,7 +407,7 @@ case 1:
 
 break;
 case 2:
-R6ee__B = (int)ceil(hrd3WtF477);
+
 break;
 case 3:
 

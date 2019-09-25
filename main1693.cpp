@@ -41,7 +41,7 @@ int main()
     long double    Q_1MlvF4;
 
  float jVzFQQW;
- jVzFQQW = -746971696;
+
  unsigned int QP8__;
 
     long double    pp1OT3n_7;
@@ -123,7 +123,7 @@ int main()
   unsigned int  a6DTh_JQ3;
 
 	long double	HfIE;
-	HfIE	=	549930958;
+
 	unsigned int	UK_Z_p85C;
 	UK_Z_p85C	=	-1697923759;
  unsigned long long z4nft1em;

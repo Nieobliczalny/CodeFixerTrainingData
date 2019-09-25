@@ -24,7 +24,7 @@ int main()
     unsigned short int    cmQild;
 
 	int	rT7D;
-	rT7D	=	-829716762;
+
   unsigned int  R4e_Z;
 
  short mG9VU;
@@ -66,7 +66,7 @@ int main()
   short  D216_tL4d;
 
     long double    q76gacY;
-    q76gacY    =    -128169583;
+
  unsigned int P68C2b8_;
  P68C2b8_ = 1957911580;
 

@@ -170,7 +170,7 @@ int main(void) {
     unsigned long long    E1T4Cz;
 
   char  QY4l6a1vP;
-  QY4l6a1vP  =  -1162644314;
+
 	double	IXD_YrzL0;
 
   double  aG53wRB;

@@ -131,7 +131,7 @@ int main()
     unsigned short    Sk5EYi;
 
 	long double	Y5L69;
-	Y5L69	=	-64640835;
+
     long    Qspyg;
 
     short    qgS77u2bSd;
@@ -189,7 +189,7 @@ int main()
     long double    F0EO;
 
  float OAEJ;
- OAEJ = -1954481924;
+
     short    aYS9;
 
  float Dd_V;

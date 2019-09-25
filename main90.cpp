@@ -100,7 +100,7 @@ int main(void)
 	unsigned long	q2Q2;
 	q2Q2	=	-31759923;
     long    EF38oGQ78;
-    EF38oGQ78    =    -547137797;
+
     unsigned int    bNe7XrG4r8;
     bNe7XrG4r8    =    -2052933180;
  long long Y89gWhn_;

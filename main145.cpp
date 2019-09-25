@@ -24,7 +24,7 @@ int main(int argc, char** argv)
 
 if ((TO8gx) && (SphUn8259 != tnP9665T))
 {
-oHJ0mHl69 = (int)ceil(IiCX9c29Oh);
+
 }
 else
 {
@@ -99,7 +99,7 @@ bxm32_ /= iSXL;
 }
 else if (vG3d1 > H4rO)
 {
-oHJ0mHl69 = (float)(TSBGfy_F + (370006794));
+
 }
 else
 {

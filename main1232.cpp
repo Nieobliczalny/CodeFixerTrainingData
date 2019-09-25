@@ -37,7 +37,7 @@ int main(void)
  long double FGprx19kxP;
 
     unsigned char    hnE77kQj;
-    hnE77kQj    =    1789880508;
+
  char RIbp_k0G;
 
  unsigned char uy73V6G;

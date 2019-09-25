@@ -88,7 +88,7 @@ int main(int argc, char** argv) {
  float xcnT5PkKYL;
 
   long long  oJ5a0g;
-  oJ5a0g  =  -1628991670;
+
   float  ps_33Dh7;
 
  long long LVuTM9G1fA;
@@ -156,7 +156,7 @@ int main(int argc, char** argv) {
  unsigned char D_Ah46;
 
 	float	P6X_SlK;
-	P6X_SlK	=	-1542153956;
+
  unsigned long long D_S_Aoe;
 
 	int	Gm_Q71vk;
@@ -180,7 +180,7 @@ int main(int argc, char** argv) {
 	int	TU9Fzz3W2;
 
  unsigned int RNtT95O1R;
- RNtT95O1R = 374987;
+
   unsigned short  X94_f;
 
 	long double	zW70ey;
@@ -202,7 +202,7 @@ int main(int argc, char** argv) {
     double    fWxky;
 
  double ycs6t5h657;
- ycs6t5h657 = 1363818290;
+
  int xD4tG;
 
  long long CmY1_4;

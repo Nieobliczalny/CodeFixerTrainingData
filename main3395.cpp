@@ -80,7 +80,7 @@ int main()
   unsigned short int  VbP5v70;
   VbP5v70  =  -1054212100;
  int yhAOCm;
- yhAOCm = -1630381775;
+
   int  oB3S;
 
  unsigned short int po92oBHu1;
@@ -122,7 +122,7 @@ int main()
 	double	F41n;
 	F41n	=	-1142525052;
 	unsigned char	fwh0wjh;
-	fwh0wjh	=	-431549274;
+
  unsigned short FfU8uwy;
  FfU8uwy = -1519476445;
   short  SI1k8y;

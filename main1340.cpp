@@ -47,7 +47,7 @@ int main(int argc, char** argv)
  long double HZgvlm;
 
   double  PxHN;
-  PxHN  =  1173392266;
+
   double  J1E8Cjhlw;
 
   unsigned short int  t_B3;
@@ -63,7 +63,7 @@ int main(int argc, char** argv)
  short CzY8E846;
 
     short int    i9_k4;
-    i9_k4    =    -628556981;
+
  double C0nb;
  C0nb = 1828878392;
 	short int	WdDVFm;
@@ -155,7 +155,7 @@ int main(int argc, char** argv)
 	long	i_dJ;
 
   unsigned short int  Csg2F2Hi;
-  Csg2F2Hi  =  -1980943787;
+
     unsigned short    eoha_8;
 
     unsigned long    bPuGQjk;
@@ -171,7 +171,7 @@ int main(int argc, char** argv)
     char    LOTklXTP46;
 
 
-hZr51e2c = (char)(V95a);
+
 c7VV = (unsigned long)(C0nb);
 
 std::cout << Bfvd / EL_WMDe << std::endl;

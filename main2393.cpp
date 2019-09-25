@@ -189,7 +189,7 @@ int main(int argc, char** argv)
     char    GNAvEJ;
 
 	double	w8URvM;
-	w8URvM	=	155851791;
+
  unsigned short b5OvN8TJ9M;
  b5OvN8TJ9M = -1676182667;
 	unsigned short	aB1HOgp9Rz;

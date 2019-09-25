@@ -168,7 +168,7 @@ case 2:
 
 break;
 case 3:
-Lv4ls3 %= nKkiw3mFB;
+
 break;
 case 4:
 G9m81 *= 869683619;

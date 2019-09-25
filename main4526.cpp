@@ -46,7 +46,7 @@ int main(void)
   float  ADAB;
   ADAB  =  1000095879;
  unsigned long long qHllb;
- qHllb = -639837874;
+
   unsigned short  zuV4uTBn6b;
   zuV4uTBn6b  =  -1848201353;
 	unsigned short	onJ9y2b;
@@ -80,7 +80,7 @@ int main(void)
     long long    o3Wj8;
 
  unsigned char Cn9Kjz5XL7;
- Cn9Kjz5XL7 = -272306853;
+
     unsigned long long    s55Ww6;
     s55Ww6    =    -1038684879;
   float  i8BTRyAf;

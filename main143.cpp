@@ -178,7 +178,7 @@ int main(int argc, char** argv) {
     long    VpBgI3Z_2;
 
 
-vsHjuY31A9 = UDGU10 ^ K74dItWA6;
+
 switch (YAcL7P95d_)
 {
 case 0:
@@ -458,7 +458,7 @@ case 'b':
 D6z6 = Gdvq3N();
 break;
 case 'c':
-vsHjuY31A9 = NvTl();
+
 break;
 default:
 

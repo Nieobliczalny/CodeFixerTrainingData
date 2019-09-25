@@ -150,7 +150,7 @@ int main(int argc, char** argv) {
 	unsigned char	GNGg;
 	GNGg	=	2126641928;
  float fnuF;
- fnuF = 820920209;
+
     unsigned int    BfeTv_ge52;
     BfeTv_ge52    =    -1899643618;
  short int ICoxqjw1;

@@ -24,7 +24,7 @@ int main(void) {
  char EE6G;
 
   float  MAZ145Br;
-  MAZ145Br  =  -171607483;
+
     short    vzdnn0;
 
  unsigned long long g8LOg3gy_;

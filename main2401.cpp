@@ -172,7 +172,7 @@ case 2:
 
 break;
 case 3:
-YHKas_ = QTKr74() ^ iIXW2a4ba;
+
 break;
 case 4:
 

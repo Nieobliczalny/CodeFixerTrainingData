@@ -99,7 +99,7 @@ int main()
     short    K2LR91bu;
 
  unsigned short int CA_4J_q;
- CA_4J_q = -1376764100;
+
 	unsigned long	b0FaK7;
 	b0FaK7	=	-1176810668;
     char    AHo235;

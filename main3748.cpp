@@ -47,7 +47,7 @@ int main()
   unsigned short  sNec0S3__A;
   sNec0S3__A  =  -127840687;
     double    EbnCLb5Ado;
-    EbnCLb5Ado    =    1316905083;
+
 	unsigned int	Hl55D5a;
 
   long long  RvWfuNtvy;
@@ -71,7 +71,7 @@ int main()
   int  x8BY3;
   x8BY3  =  1086008655;
     unsigned int    Nt6M4j_o9K;
-    Nt6M4j_o9K    =    -2106803144;
+
   int  d58ju;
 
 	unsigned int	w0Dab6;
@@ -81,7 +81,7 @@ int main()
     unsigned long long    Q89RSS75;
     Q89RSS75    =    -1373579801;
     unsigned long    DpGG6J4DK;
-    DpGG6J4DK    =    684965165;
+
  short VhdI;
  VhdI = 651500972;
     long long    qGJh;

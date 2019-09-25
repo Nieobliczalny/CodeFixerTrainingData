@@ -39,7 +39,7 @@ int main(void)
 	W_8KWmR	=	558833783;
 
 
-	Wr96fugu	=	1099509166;
+
 	vB1h6	=	-719552285;
 	yHKGZME2h	=	-1506897173;
 	VvRYh	=	-1237906227;

@@ -51,7 +51,7 @@ int main(void)
  unsigned char M_6LI;
  M_6LI = 1992361024;
   long long  e0i331;
-  e0i331  =  638871092;
+
  long double QO39;
 
 	unsigned long	Rc50;
@@ -73,7 +73,7 @@ int main(void)
   long double  WWTho;
 
 	unsigned short int	yV6Zb6YMJ;
-	yV6Zb6YMJ	=	1953932339;
+
  char DKDrLu6;
  DKDrLu6 = 551002836;
  unsigned short b0XqL3;
@@ -99,7 +99,7 @@ int main(void)
 	unsigned char	f_9y1EP;
 	f_9y1EP	=	2089673069;
     char    ZKObkH92;
-    ZKObkH92    =    -1899544314;
+
   long  JKJ5laLu7;
   JKJ5laLu7  =  -949859505;
   unsigned int  Xl418BBj_6;

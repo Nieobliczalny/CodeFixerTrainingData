@@ -165,7 +165,7 @@ int main(void)
   unsigned long  ZM8JZLB9t;
   ZM8JZLB9t  =  936480983;
 	float	vXie;
-	vXie	=	-942677186;
+
   char  k9N_q;
 
 	int	vgNFIJZ;

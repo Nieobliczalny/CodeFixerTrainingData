@@ -99,7 +99,7 @@ int main()
   short  PC6Ov;
 
  int gv_MMb;
- gv_MMb = -14584644;
+
   unsigned short  NYks7HCmq;
 
     long    Oi2MYX_f9;

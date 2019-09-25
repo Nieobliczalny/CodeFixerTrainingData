@@ -46,7 +46,7 @@ case 3:
 
 break;
 default:
-liz48 = xKDcY >> 830985671;
+
 break;
 }
 
@@ -124,7 +124,7 @@ case 6:
 
 break;
 case 7:
-W02cf &= nmb4x;
+
 break;
 default:
 

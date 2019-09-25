@@ -22,7 +22,7 @@ int main(void) {
 
 
 
-    snLunNo1X    =    -1875789801;
+
     J8XR8nuw    =    692392487;
     u4IUNo22Vz    =    -584599898;
     kQX5gMDhx    =    -2070037573;
@@ -35,7 +35,7 @@ int main(void) {
 
     FLLXyHO_    =    -1992781386;
 
-    TPhkL    =    79854693;
+
     HJ7plC    =    -1695323360;
 
     aQh1o    =    1114233184;
@@ -45,7 +45,7 @@ int main(void) {
 
     M2dT4b    =    -1993017831;
 
-    R825    =    380341958;
+
     yvV0ohS1    =    -1724109759;
 
 

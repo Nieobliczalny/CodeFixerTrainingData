@@ -55,7 +55,7 @@ int main(void) {
     int    B2o_n3t8;
 
  unsigned short int ihO_nuMU;
- ihO_nuMU = -1422220848;
+
 	unsigned int	c4cp_a8l;
 
   long double  R0Aa;

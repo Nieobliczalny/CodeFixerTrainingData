@@ -81,7 +81,7 @@ int main(void)
     short    Xi7Z3R3;
 
   long double  PBV3;
-  PBV3  =  -683973329;
+
   int  y7Bgyv5;
   y7Bgyv5  =  2138711963;
  short int zf9i;
@@ -187,7 +187,7 @@ int main(void)
     double    olVHOZc8;
 
     long double    CDY9Xbl;
-    CDY9Xbl    =    319431729;
+
 	float	WudL4_KA4;
 	WudL4_KA4	=	1600709494;
  short bU_q;
@@ -205,7 +205,7 @@ int main(void)
     char    c1e7oV_;
     c1e7oV_    =    670023896;
  float BO0f__r;
- BO0f__r = 937449735;
+
 	long long	JVDWG8Tnrs;
 
     unsigned short    S_k227i;

@@ -184,7 +184,7 @@ int main()
 	unsigned short int	T_272k8M;
 
  long double A_QU2Wu624;
- A_QU2Wu624 = -933697859;
+
  short s4_Ot2Z9h;
 
     unsigned long long    u2m8m;
@@ -224,7 +224,7 @@ for (int i = 0; i < 1; i++)
 int j = 9;
 while (j >= 0)
 {
-A_QU2Wu624 = UKd06w(-1003203247, -1002057533, Cu6SxbN9v);
+
 j--;
 }
 }

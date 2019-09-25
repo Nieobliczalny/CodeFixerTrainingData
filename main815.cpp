@@ -89,7 +89,7 @@ int main(int argc, char** argv)
  double f_rU55v;
 
   unsigned char  KWj0;
-  KWj0  =  -33473827;
+
     unsigned long    tSA79Zs1z;
 
  char L8K94;

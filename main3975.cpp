@@ -54,7 +54,7 @@ int main(int argc, char** argv) {
  unsigned short k_ApSbRE;
  k_ApSbRE = 715142810;
   short int  ibN9Mi;
-  ibN9Mi  =  0;
+
  long Jxs9Qm;
  Jxs9Qm = -1022562460;
   short int  tWiu8gQZ3;
@@ -88,7 +88,7 @@ int main(int argc, char** argv) {
  unsigned long S9tmB7x_3;
 
 	float	PJ7l3;
-	PJ7l3	=	-1279318691;
+
     short int    ysIAd;
     ysIAd    =    -946117581;
  unsigned short int MRG4hynb;
@@ -146,7 +146,7 @@ int main(int argc, char** argv) {
 	long	a_pPH_1;
 	a_pPH_1	=	-1331931003;
   unsigned char  QbK2h4DssR;
-  QbK2h4DssR  =  1449026760;
+
  long Mo_Zp0U;
 
 

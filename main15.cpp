@@ -31,7 +31,7 @@ int main(void)
     short    qVpbo;
     qVpbo    =    1019592544;
     float    j0LCfjw;
-    j0LCfjw    =    -521203973;
+
 	unsigned char	T7vaR5;
 
     unsigned long long    NsGHFGE;
@@ -117,7 +117,7 @@ int main(void)
 	unsigned int	JuB99;
 	JuB99	=	938774659;
 	short	yAkjkO;
-	yAkjkO	=	1223695771;
+
   unsigned char  n6B_FWF4;
 
   unsigned int  H761o;

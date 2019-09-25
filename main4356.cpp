@@ -128,7 +128,7 @@ int main(int argc, char** argv)
 	int	kX0y4cs95;
 
 	float	jpKCm4M26;
-	jpKCm4M26	=	-261396575;
+
     long double    Mj5w_Hci9b;
 
  short int F70Jd1eTS;
@@ -140,7 +140,7 @@ int main(int argc, char** argv)
   short int  qsh2T5Z;
 
  double G82KiMu;
- G82KiMu = 1140716015;
+
   unsigned int  N8lt49I_gW;
 
     unsigned long long    OkDd2;
@@ -206,7 +206,7 @@ int main(int argc, char** argv)
 	long	HeY8_emPl;
 
  unsigned char ZoD_;
- ZoD_ = -1052031100;
+
     char    Dor2;
     Dor2    =    -52695142;
 	long double	E_00f5j60z;

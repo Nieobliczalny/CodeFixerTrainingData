@@ -27,7 +27,7 @@ int main() {
   unsigned long  EGIr;
 
   float  h31P3r_P;
-  h31P3r_P  =  -1421910060;
+
  float tmLFO8r842;
 
   int  DiZ4;
@@ -39,7 +39,7 @@ int main() {
   long long  nV3E;
 
     int    o38_KN;
-    o38_KN    =    -763826772;
+
  unsigned long long yxvj_a5L;
 
   unsigned long  w5cau;
@@ -89,7 +89,7 @@ int main() {
   double  sut_gSfSe1;
 
     unsigned long long    eBVQ;
-    eBVQ    =    1759534091;
+
 	short int	ZTIM09uIn;
 
 	long long	Q0J3pa_;

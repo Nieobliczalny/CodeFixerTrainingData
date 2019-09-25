@@ -84,7 +84,7 @@ int main(void)
  unsigned short int r31A0Ba_fJ;
 
 	long double	tC76Q2;
-	tC76Q2	=	-1269716778;
+
   unsigned short int  uMkteX;
   uMkteX  =  -1486874806;
     unsigned short    g70qRG;
@@ -141,7 +141,7 @@ int main(void)
 
 
 
-S3ne3 = Vv894Yl / qCa95djK2N;
+
 if ((Hz1Ma40HD < 1731308994) && (qAkps >= Tz2W0))
 {
 

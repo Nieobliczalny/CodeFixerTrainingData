@@ -49,7 +49,7 @@ int main()
   long  xx__fc9;
 
 	unsigned long	hjytO8b_;
-	hjytO8b_	=	1609168146;
+
 	unsigned char	sry29J0_;
 	sry29J0_	=	1332826353;
 	long	s_9p4PN;
@@ -91,7 +91,7 @@ int main()
   unsigned short int  I61rq7;
 
  double P9ll;
- P9ll = -1473716561;
+
 	short	fS0R94;
 
 	char	kh2r11;

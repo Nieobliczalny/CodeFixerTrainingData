@@ -249,7 +249,7 @@ std::cout << BAQI48 << z1gJ << NNqL06Cd << BCWT10BEXp << BAQI48 << std::endl;
 }
 if (BCWT10BEXp == 0)
 {
-	FX4DDl780g = -1551386709 / BCWT10BEXp;
+
 }
 
 

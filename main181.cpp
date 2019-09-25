@@ -197,7 +197,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-FD9tC8 = (int)floor(GZpJ7p1);
+
 break;
 case 'd':
 case 'D':

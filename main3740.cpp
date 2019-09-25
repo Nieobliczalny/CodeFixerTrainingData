@@ -61,7 +61,7 @@ default:
 break;
 }
 
-R7tS7W4_1Q = WC3l4I49 / 1876880789;
+
 
 
 {
@@ -137,7 +137,7 @@ case 'a':
 
 break;
 case 'b':
-hL8nLiq -= aSRKCCrP;
+
 break;
 case 'c':
 

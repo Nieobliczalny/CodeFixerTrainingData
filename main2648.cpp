@@ -57,7 +57,7 @@ int main(int argc, char** argv)
 	unsigned long long	oBbTW;
 	oBbTW	=	108831275;
 	int	KPNq1_S4a;
-	KPNq1_S4a	=	1548726456;
+
     long    VFC3__YH1;
     VFC3__YH1    =    -1445249494;
   unsigned short int  IA215dH;

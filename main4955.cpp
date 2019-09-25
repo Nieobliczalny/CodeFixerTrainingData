@@ -346,7 +346,7 @@ else
 switch (V6YPg)
 {
 case 0:
-bsAD7ZD = U18Uex / noISa1O45;
+
 break;
 case 1:
 j9R45 &= 1777450530;

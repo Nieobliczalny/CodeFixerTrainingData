@@ -545,7 +545,7 @@ switch (b9UWD2Nq)
 {
 case 'a':
 case 'A':
-a6k73NK = MAVRsI ^ 28258256;
+
 break;
 case 'b':
 case 'B':

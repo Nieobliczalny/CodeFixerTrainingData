@@ -33,7 +33,7 @@ int main(void)
     double    E_XmeT88;
 
 	long double	P3_8HTt;
-	P3_8HTt	=	-1521499641;
+
  int d19ao6M;
 
 	long double	EqhG;

@@ -71,7 +71,7 @@ int main()
 	unsigned short	C0BCTOA;
 
  unsigned long b5BnrIDc;
- b5BnrIDc = -1258427809;
+
  float u8_9;
  u8_9 = 1585222437;
  unsigned int UJHd0b7WhJ;
@@ -115,7 +115,7 @@ int main()
 	unsigned char	uxD67eD;
 
 	float	oO4fRuHfSi;
-	oO4fRuHfSi	=	-1208417406;
+
 	float	QS58wC8hQ;
 	QS58wC8hQ	=	340731501;
   unsigned char  R6H87u;
@@ -145,7 +145,7 @@ int main()
     long    E8nasdfiv;
 
     int    ZTCdAau51J;
-    ZTCdAau51J    =    -1540806191;
+
 	int	wISVdU;
 
  unsigned char SJS9N;
@@ -173,7 +173,7 @@ int main()
 	float	F2VuqH;
 
     unsigned short    sYS7EHY;
-    sYS7EHY    =    2064098654;
+
 
 if (((kH_a > -1385515547) || (bTG0X >= llS6lI_P)) && (Cf3DSw5B < 2000306385))
 {
@@ -325,7 +325,7 @@ case 0:
 
 break;
 case 1:
-mJjUDSG9B8 = (int)ceil(Z4M5_Y_b3);
+
 break;
 case 2:
 

@@ -60,7 +60,7 @@ else if ((zxV560j != X3ZeF1g3) || (e2C9PM & -1888422893))
 }
 else if (l6a2p <= pwmDbp)
 {
-ec_1a = xWo40W(1428340975) + 64390698;
+
 }
 else if ((z6EApy & -1383952159) && ((V6d5ng3C_ > ByH1EqE45) && (z6EApy <= X3ZeF1g3)))
 {
@@ -199,7 +199,7 @@ case 7:
 
 break;
 case 8:
-Zai70h = (int)abs(isGQ4);
+
 break;
 case 9:
 iQh_Xrq8_ = xWo40W(1747871997);

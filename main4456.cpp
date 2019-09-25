@@ -120,7 +120,7 @@ int main()
   unsigned long long  UTN5j_y1;
 
  int HhXEZit;
- HhXEZit = 1903267975;
+
  long nvQA_;
  nvQA_ = 0;
 	short	lR539c;
@@ -174,7 +174,7 @@ int main()
   unsigned long long  ZJchA1;
 
 	double	o7g6Np;
-	o7g6Np	=	-35780271;
+
   char  tY_no;
 
     unsigned char    XwsZYa;

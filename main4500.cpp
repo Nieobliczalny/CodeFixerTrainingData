@@ -53,7 +53,7 @@ int main(int argc, char** argv) {
 	U3YH	=	-1152900318;
 	V_sHQN0G_x	=	-1655932161;
 
-	sxGx4v0AGo	=	-1818864845;
+
 	xSL1EN	=	-1623354352;
 
 
@@ -71,7 +71,7 @@ int main(int argc, char** argv) {
 
 
 
-	L2D_	=	1078553936;
+
 	T06bq	=	-1791326173;
 	BIIv3p	=	-294366559;
 	GzVHaMquD	=	-2047201169;
@@ -94,7 +94,7 @@ int main(int argc, char** argv) {
 	dPOGAWEh1	=	1406088027;
 	yW3Mn0HFpo	=	721859932;
 
-	D19tINy	=	1538392459;
+
 	rQ1hG	=	-1312519920;
 
 

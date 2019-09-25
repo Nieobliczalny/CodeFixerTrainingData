@@ -74,7 +74,7 @@ int main()
  int K64GU;
 
     short int    A3Mgz;
-    A3Mgz    =    -1746581281;
+
   float  a_5_wY;
   a_5_wY  =  891170254;
  unsigned long long Ty3p;

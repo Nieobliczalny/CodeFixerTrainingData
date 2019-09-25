@@ -39,7 +39,7 @@ int main(void)
 
 	hkD305AfFY	=	1679753931;
 	qnkI4V531	=	1149641484;
-	VLh_9vk6	=	1209752383;
+
 	UR049TyiT4	=	-933606925;
 
 	ESaB7m0	=	-775433388;
@@ -50,7 +50,7 @@ int main(void)
 
 
 	fu2EurrEO	=	1488524001;
-	R8_IyJ8s	=	-845039634;
+
 	Cm_8J	=	223074537;
 
 	TbbpQxA	=	-1070605092;

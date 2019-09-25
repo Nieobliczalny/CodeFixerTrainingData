@@ -55,7 +55,7 @@ catch (int& errorCode)
 t_p_ = (int)abs(U89OX);
 }
 
-b_4j5g = (int)(U89OX);
+
 try
 {
 {
@@ -65,7 +65,7 @@ do
 ++j;
 for (int k = 1; k >= 0; --k)
 {
-IQ3YJ = BtS4ueGP * w6ZkvKpg;
+
 }
 }
 while (j < 2);
@@ -374,7 +374,7 @@ case 'e':
 
 break;
 case 'f':
-YKuBW /= 1065360389;
+
 break;
 case 'g':
 

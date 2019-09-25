@@ -146,7 +146,7 @@ case 6:
 
 break;
 case 7:
-RD6ohs = k2mq5 << 756059212;
+
 break;
 default:
 

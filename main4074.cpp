@@ -150,7 +150,7 @@ int main(void) {
   char  D92jzs3t;
 
   long long  d4ls32;
-  d4ls32  =  1952219483;
+
     unsigned short int    X3Lk3t2;
     X3Lk3t2    =    -281831908;
     long double    DZeJRrS;

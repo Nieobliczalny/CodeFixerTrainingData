@@ -490,7 +490,7 @@ else if ((lGxaaZf7N != YM4zm) || ((kZYD10 & Nh5a79973) || (KKO2 & -329693803)))
 }
 else if (degra & a6t7)
 {
-t7TD >>= ltRk;
+
 }
 else
 {

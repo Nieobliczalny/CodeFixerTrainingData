@@ -68,7 +68,7 @@ int main(void)
   long double  qQ_AeXZ;
   qQ_AeXZ  =  215823972;
  long long t0s95CTX1a;
- t0s95CTX1a = 1736558683;
+
 	unsigned short	F_P1;
 	F_P1	=	-2116849026;
 	long	n1Uv;

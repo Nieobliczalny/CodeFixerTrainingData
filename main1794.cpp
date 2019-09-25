@@ -164,7 +164,7 @@ int main(int argc, char** argv) {
   long  Uo7ppyr_;
   Uo7ppyr_  =  -849833244;
  long double qZZS7b6;
- qZZS7b6 = 1133415352;
+
     short int    Qm01;
     Qm01    =    0;
   float  UK_ooqn3ZB;

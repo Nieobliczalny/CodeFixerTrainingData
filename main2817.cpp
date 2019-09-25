@@ -49,7 +49,7 @@ int main(int argc, char** argv)
 	float	U6_w8s;
 
   long  HICD_tZjhc;
-  HICD_tZjhc  =  -773329724;
+
  int KZUwuV6;
 
 	unsigned long long	jBG_MUCn;

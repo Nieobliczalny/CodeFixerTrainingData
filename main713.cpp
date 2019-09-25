@@ -109,7 +109,7 @@ i--;
 }
 while (i >= 0);
 }
-ad88_AcY = (long long)(n9q_3I + (231685205));
+
 {
 int i = 0;
 while (i < 5)

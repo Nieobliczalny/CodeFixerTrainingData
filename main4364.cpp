@@ -276,7 +276,7 @@ case 'G':
 QArV0xuTuu ^= 1191143403;
 break;
 default:
-Y3t8_qL0OK = N20ogv2KNK >> 1713411450;
+
 break;
 }
 }

@@ -142,7 +142,7 @@ int main()
  unsigned char go4_Z7474;
 
 	long	aBF9RGs;
-	aBF9RGs	=	-207026584;
+
     unsigned char    lmN5;
 
     short int    e1S7x_tDzs;

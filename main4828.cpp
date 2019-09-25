@@ -67,7 +67,7 @@ int main(void)
  double X88SNi5_;
  X88SNi5_ = -26458118;
     float    zE84W;
-    zE84W    =    1852229603;
+
     unsigned short    YpO9_;
     YpO9_    =    815154427;
     int    Al1Eh_Sf70;
@@ -189,7 +189,7 @@ bqYINA8 &= 1495868812;
 break;
 case 'g':
 case 'G':
-zE84W = (int)ceil(p6VS0oI);
+
 break;
 case 'h':
 case 'H':

@@ -395,7 +395,7 @@ viaqUqfBc = (int)ceil(YgBK8);
 }
 Q51DF28rH5 = (short)(viaqUqfBc);
 
-KHm578fte = (int)floor(m86_d207cd);
+
 
 for (int i = 0; i < 8; ++i)
 {

@@ -163,7 +163,7 @@ case 0:
 M_y3d2 <<= Sj_2oaj;
 break;
 case 1:
-oOhsf = (int)ceil(p2hluss0K4);
+
 break;
 case 2:
 o4nv = lqTtDP >> AgoP;
@@ -238,7 +238,7 @@ case 2:
 
 break;
 case 3:
-oOhsf = (int)ceil(p2hluss0K4);
+
 break;
 case 4:
 oOhsf = (int)floor(p2hluss0K4);

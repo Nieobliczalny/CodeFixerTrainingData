@@ -30,7 +30,7 @@ int main(int argc, char** argv)
  unsigned long long Hw2T;
 
  long double Q9Ot4r;
- Q9Ot4r = 644332905;
+
   double  y9650vCOG;
 
 	unsigned short	l34Q387r_;
@@ -44,7 +44,7 @@ int main(int argc, char** argv)
  unsigned char L_sn;
 
     long long    T92lVy4xUJ;
-    T92lVy4xUJ    =    -1885350807;
+
   long long  eo8dakXG;
   eo8dakXG  =  -209672313;
  unsigned int igGQM;
@@ -80,7 +80,7 @@ int main(int argc, char** argv)
  float AkQSrw;
 
   unsigned char  r3VNxAZpK1;
-  r3VNxAZpK1  =  1891525973;
+
  long double y0mlWC_;
 
  unsigned short t3H1TwCZ0I;

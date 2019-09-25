@@ -475,7 +475,7 @@ nRV83 = GuBJy_F3(543873990, -2004969422, h63JK2KlDg, 972087594);
 }
 else
 {
-UvWuL = (int)floor(XYMzk_f);
+
 }
 }
 }
@@ -669,7 +669,7 @@ Eoe8NMkQE3 = rj6cdk();
 }
 else if (vLAa <= 671794610)
 {
-UvWuL = (int)floor(sdYky47TZQ);
+
 }
 else if ((E1S2) && ((nTvQRf2iT <= Eoe8NMkQE3) || (v9PN9czIeE > -161327307)))
 {

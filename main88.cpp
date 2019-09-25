@@ -34,7 +34,7 @@ int main() {
     char    lYvBuR;
 
   unsigned int  BNJ8f6;
-  BNJ8f6  =  -84071837;
+
   unsigned short  S9Shz8;
   S9Shz8  =  1407769208;
  unsigned long n52ZmXp6;

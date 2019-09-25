@@ -45,7 +45,7 @@ int main(int argc, char** argv) {
 
 	I77eK	=	72314734;
 
-	Di3t	=	161171453;
+
 	eSRgG0n	=	-1999096344;
 	lc166	=	-1285927176;
 	C_iQIrK	=	666858814;
@@ -73,7 +73,7 @@ int main(int argc, char** argv) {
 
 
 
-	O_3wr8x	=	347890352;
+
 	TQu4ak_	=	-1584009500;
 
 	drMS829yOu	=	799626927;
@@ -83,7 +83,7 @@ int main(int argc, char** argv) {
 
 
 
-	usN0ITvQ3G	=	1208964828;
+
 	n9yy_Q5	=	-509796083;
 	ouo0u	=	-1906591072;
 	f1J1	=	-337930068;
@@ -95,7 +95,7 @@ int main(int argc, char** argv) {
 	PY4b2P	=	-630832605;
 
 	C9vNR2_	=	544318881;
-	n01wU641t	=	700914420;
+
 	UcD8_Vi8xV	=	92726723;
 
 

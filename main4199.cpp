@@ -31,7 +31,7 @@ int main(int argc, char** argv)
 
   uQG6_t819N  =  -2092024186;
 
-  HrJBqX  =  396557648;
+
   Qq_444S1O  =  473135707;
   QBhea  =  -118675836;
   oYPfF  =  519988955;
@@ -46,7 +46,7 @@ int main(int argc, char** argv)
   WJyIOpXTj6  =  -1844780545;
 
   ie8k4QGM  =  -376197048;
-  RJIKy  =  667365811;
+
   kN1a  =  -2042989312;
   PlSid  =  623179800;
 

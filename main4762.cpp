@@ -214,7 +214,7 @@ case 2:
 
 break;
 case 3:
-poS7e7R1d = (int)abs(xhd0_);
+
 break;
 }
 }

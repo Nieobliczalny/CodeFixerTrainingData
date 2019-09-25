@@ -155,7 +155,7 @@ int main(void) {
 	int	l13tGd31l1;
 	l13tGd31l1	=	660962352;
   unsigned short int  Le8PxK3n;
-  Le8PxK3n  =  -715429875;
+
 	unsigned short int	o492JD_49;
 
  unsigned char XIBteU2;

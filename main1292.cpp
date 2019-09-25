@@ -79,7 +79,7 @@ int main(void)
   unsigned int  wA46PtF;
 
   unsigned short  iKcrytLQx_;
-  iKcrytLQx_  =  1138563863;
+
   short int  FFBoH_CX8;
 
   char  N7svK1Eq5;
@@ -125,7 +125,7 @@ int main(void)
  int ouG1o43;
  ouG1o43 = -787684123;
   char  dyS7;
-  dyS7  =  242291688;
+
   short  jHxQ;
   jHxQ  =  493802305;
  unsigned char i5MWk92t7;
@@ -197,7 +197,7 @@ int main(void)
 	short	PL9Xt70N4;
 
  short int eKW34Xtm;
- eKW34Xtm = 1794118539;
+
  unsigned short int hy50;
 
     unsigned int    j5i4;
@@ -209,7 +209,7 @@ int main(void)
   int  gseXNg;
 
 
-xlI91h = (int)floor(m5R2T6G);
+
 
 if (RK4N7F > w_04Fdxx2o)
 {

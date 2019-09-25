@@ -47,7 +47,7 @@ int main() {
  unsigned char d15Eal;
 
  long double HDX61N0F0H;
- HDX61N0F0H = -1879245946;
+
   char  HMY8X7;
 
     unsigned short    nAy9qGF;
@@ -113,7 +113,7 @@ int main() {
 	unsigned short	BOIJTqBy;
 
   char  i8SEb;
-  i8SEb  =  -1516995138;
+
     short    Oyx4;
     Oyx4    =    833791787;
     double    Q_fo04E29;
@@ -173,7 +173,7 @@ int main() {
 	unsigned char	h1129u8677;
 
     int    O9uB4Ixwv;
-    O9uB4Ixwv    =    -969431563;
+
   double  vPsI6;
   vPsI6  =  -1247752666;
 	char	BMyfngEa;

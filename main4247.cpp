@@ -62,7 +62,7 @@ int main() {
   double  muyluJ2;
 
  long double e7anp;
- e7anp = 1867429001;
+
     unsigned int    Zf1m_ha8bJ;
 
   long long  TiLUlp;
@@ -104,7 +104,7 @@ int main() {
     long    Xs8VID;
 
 	unsigned long long	ikKYN1n4_;
-	ikKYN1n4_	=	-864816816;
+
     unsigned long long    Ww6FV;
     Ww6FV    =    108976250;
     unsigned short    k2nGQ05_;

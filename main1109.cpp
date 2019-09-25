@@ -23,7 +23,7 @@ int main(void)
 
   ORe74  =  1005801184;
 
-  pb1_  =  1232283394;
+
   U771b3ZxJ  =  1069664826;
   fC9a2kRiP  =  -1632133606;
   B0Po1O  =  1384358345;
@@ -35,7 +35,7 @@ int main(void)
 
 
   volz1o2  =  -995302869;
-  lW8Q4jX  =  122297533;
+
   y91ra14ILV  =  1502416990;
   B7uzql9OW  =  95522664;
 
@@ -47,7 +47,7 @@ int main(void)
   v2p4U9G5sx  =  -1842812349;
 
 
-  wKHNDRTTx  =  1749174675;
+
 
   SM7B2  =  987050250;
   XcG_ksC  =  1560805005;
@@ -65,7 +65,7 @@ int main(void)
   i45e_aolZ  =  -1526020295;
 
   FWBOk1  =  -117024067;
-  GFhYw_  =  1905747303;
+
 
   YmXh5Gx6  =  1325705493;
   QKL8l6  =  121375158;
@@ -113,7 +113,7 @@ switch (r53W8MYE9_)
 {
 case 'a':
 case 'A':
-SQY_ = Y02C / 1299008562;
+
 break;
 default:
 SQY_ = (int)ceil(Q1hN_2kL);
@@ -202,7 +202,7 @@ case 'a':
 
 break;
 case 'b':
-SQY_ = ID_zu / SJ3AG0JX;
+
 break;
 case 'c':
 

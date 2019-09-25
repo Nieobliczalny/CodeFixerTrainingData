@@ -67,7 +67,7 @@ int main(int argc, char** argv) {
     long double    M_ory4;
 
  long irV146s5_;
- irV146s5_ = 1619233793;
+
 	unsigned int	Ap5eb_gc3L;
 	Ap5eb_gc3L	=	1001201997;
     unsigned short int    Fj4y;
@@ -117,7 +117,7 @@ int main(int argc, char** argv) {
 	char	NH_Q2k0A;
 
 	unsigned int	r1b5__;
-	r1b5__	=	-1860049215;
+
   long double  uOQ6;
   uOQ6  =  -49910113;
   int  l1Ey3d;
@@ -229,7 +229,7 @@ int main(int argc, char** argv) {
   long double  UYLYm;
 
     unsigned char    MoXPX1XSs_;
-    MoXPX1XSs_    =    0;
+
 
 switch (nti9)
 {

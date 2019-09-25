@@ -172,7 +172,7 @@ int main(int argc, char** argv) {
     unsigned int    T_1k;
     T_1k    =    1890072474;
   double  oc2662;
-  oc2662  =  1489965897;
+
     float    R1Uc0F;
     R1Uc0F    =    -1386603611;
   int  WE1Z;
@@ -289,7 +289,7 @@ while (j >= 0)
 --j;
 if (NFN_4 >= P4k5vzbM)
 {
-oc2662 = (int)ceil(fxPQ5Jd);
+
 }
 else
 {
@@ -448,7 +448,7 @@ break;
 }
 else if (T_1k & -1246116248)
 {
-oc2662 = (int)floor(vgdp2Ov);
+
 }
 else if (((J2g3mBcylU != -102920331) && (zUPuiZp & Qct71Ci)) || (mysV1dF != -1338894946))
 {

@@ -62,7 +62,7 @@ if ((ZLt91A < -1478943042) && ((VOj_6vg3k >= -788995989) || (ICHrX < Uw5X)))
 
 }
 
-ICHrX = reH3b9 * PNP1Bo7;
+
 {
 int i = 0;
 do
@@ -108,7 +108,7 @@ int k = 7;
 while (k >= 0)
 {
 --k;
-qzK3s = ayED7E5(828194128, qYpKCysy, 1889175623);
+
 }
 }
 }
@@ -123,7 +123,7 @@ if (s86S6 < VOj_6vg3k)
 {
 if (E2xgd != -1873834405)
 {
-KVcI6lGaP = N40aT(231728323, Fnz7, BFXT3, 139559282);
+
 }
 }
 --i;
@@ -160,7 +160,7 @@ case 'c':
 
 break;
 case 'd':
-PNP1Bo7 = aQLaQhvA(-1176352719, 928895195);
+
 break;
 case 'e':
 MZfFO1AVz &= wMNM;

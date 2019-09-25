@@ -159,7 +159,7 @@ int main() {
 	unsigned long long	R92P;
 
  double YMJaJV;
- YMJaJV = -996547380;
+
 	char	l4_MX5ghqf;
 	l4_MX5ghqf	=	-16487726;
     double    f5o10;
@@ -272,7 +272,7 @@ if (fAEyu7 == ycC0Uu)
 {
 if (o6ibhf != Nffy_Nk_)
 {
-YMJaJV = UG1C + Ua1XC;
+
 }
 else if (((P4G25 <= -1288548372) || (qV3mEA & B22E6EDfrV)) && (C_9CTQx <= -1782111173))
 {

@@ -305,7 +305,7 @@ else if (JD6p1_6Gu & -1237582600)
 }
 else if (n2s7K0ZOV)
 {
-ZE9g4 = (int)ceil(r7n__cr_3);
+
 }
 else if (n2s7K0ZOV > 927296295)
 {

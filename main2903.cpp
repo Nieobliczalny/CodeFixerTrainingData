@@ -101,7 +101,7 @@ int main() {
 	unsigned short int	Ye8F;
 
  float pjF8;
- pjF8 = 1711400032;
+
   unsigned char  C6ds3YP70c;
 
  unsigned long long H5g3gZqu;

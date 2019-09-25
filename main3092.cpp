@@ -63,7 +63,7 @@ int main(void)
   long  YU7n3;
   YU7n3  =  0;
   double  HzfU2X03;
-  HzfU2X03  =  719732919;
+
     unsigned int    AbQc4jdN2;
 
     short int    vCQkHadc;

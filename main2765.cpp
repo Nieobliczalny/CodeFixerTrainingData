@@ -111,7 +111,7 @@ int main(int argc, char** argv)
  unsigned long y8XNU7zEC5;
  y8XNU7zEC5 = -989022189;
  unsigned short N8xvByYys;
- N8xvByYys = -341992092;
+
 	short int	UTy9jz9hL3;
 	UTy9jz9hL3	=	1429389037;
 	short	Nyp5;
@@ -448,7 +448,7 @@ std::cout << "E8G3C8cg9" << J68O_89n << std::endl;
 }
 
 
-Ta4A = (int)floor(T4JGLopz);
+
 
 try
 {

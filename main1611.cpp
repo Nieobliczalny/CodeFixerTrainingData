@@ -32,7 +32,7 @@ int main(void) {
     char    EFxO51;
 
     unsigned int    p2_4_;
-    p2_4_    =    -1930204600;
+
     unsigned long    PEqy_K4z0f;
 
 	unsigned int	yZDM;
@@ -160,7 +160,7 @@ int main(void) {
   float  H6x8;
 
 	float	lDDND56c;
-	lDDND56c	=	1177369494;
+
     int    cNRCK;
 
     long double    U5O2;

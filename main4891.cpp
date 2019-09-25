@@ -27,7 +27,7 @@ int main(void) {
   unsigned short  ifFuP10Gal;
 
   long double  QQaYGT;
-  QQaYGT  =  -1052706486;
+
   short  ZPe2s;
 
 	long long	cI_MaXUQ;

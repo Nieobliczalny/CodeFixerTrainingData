@@ -25,7 +25,7 @@ int main() {
  long F69IWNLK3;
  F69IWNLK3 = 1119957493;
  int VoiCJzJ_;
- VoiCJzJ_ = -554796151;
+
 	unsigned int	k5rI;
 	k5rI	=	423941878;
     long long    t51Ez8;

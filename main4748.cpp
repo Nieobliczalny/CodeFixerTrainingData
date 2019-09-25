@@ -213,7 +213,7 @@ if (aGVH0pt)
 int k = 0;
 do
 {
-M1ezg = (int)floor(w49o7dMw);
+
 k++;
 }
 while (k < 4);
@@ -271,7 +271,7 @@ x3QczR = (int)abs(f1d8MN22);
 }
 else if (((e_X3m37La & pg5D8Be2Z8) && (aGVH0pt)) || (AdXS6 != pg5D8Be2Z8))
 {
-M1ezg = dTQGa & qZ35X0;
+
 }
 else
 {
@@ -284,7 +284,7 @@ while (j < 8);
 }
 if ((-761392525 / ofnRYNH5wj) == -1309834455)
 {
-M1ezg = (int)ceil(zkAyf9lg);
+
 }
 
 if (ofnRYNH5wj)

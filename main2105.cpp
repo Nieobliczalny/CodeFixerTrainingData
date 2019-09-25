@@ -24,7 +24,7 @@ int main()
     unsigned long long    yS7he;
 
   char  yrtJPp8;
-  yrtJPp8  =  1097451354;
+
  char nAIW0;
 
 	char	H7cNUU2NFx;
@@ -56,7 +56,7 @@ int main()
   unsigned long  h30gQG2;
   h30gQG2  =  -227957687;
     int    zwMg3T;
-    zwMg3T    =    -1317538270;
+
     unsigned long    O_0C5X81;
 
   unsigned int  lvCasu1C;
@@ -70,7 +70,7 @@ int main()
     char    uA07;
 
 	unsigned long long	NR_DXey_;
-	NR_DXey_	=	0;
+
   char  Ox6rT;
 
 	unsigned long	y2bt6Kwj_4;
@@ -108,7 +108,7 @@ int main()
     unsigned long long    w0EdYqF;
 
   unsigned short  D81JoyA;
-  D81JoyA  =  -160026540;
+
   long long  X_2MUrAp1;
 
 

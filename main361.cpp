@@ -70,7 +70,7 @@ int main(void)
 	unsigned short	O2CD;
 	O2CD	=	-596549807;
     short int    z1QSVn;
-    z1QSVn    =    -519971708;
+
     unsigned short    JIDo2vIIbm;
 
  unsigned short kjrNWFwKW;
@@ -176,7 +176,7 @@ int main(void)
 	short int	Jv2WV;
 
 	float	c07_;
-	c07_	=	-650491989;
+
     double    EP9C0E;
     EP9C0E    =    552001751;
   short  UEe0;

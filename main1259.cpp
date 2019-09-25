@@ -739,7 +739,7 @@ while (i < 7);
 
 try
 {
-cCI_85Bj ^= IN_B5RC;
+
 }
 catch (int& errorCode)
 {

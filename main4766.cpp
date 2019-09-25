@@ -14,7 +14,7 @@ unsigned long long	ch3_NT6(unsigned long	Wi9V7M2,short	e28r,unsigned long long	v
 
 int main(int argc, char** argv) {
  double Ij4cPgc;
- Ij4cPgc = -94741752;
+
   unsigned long long  Q59Yx353;
   Q59Yx353  =  323247435;
  short ll5Z88_;
@@ -68,7 +68,7 @@ int main(int argc, char** argv) {
 	unsigned long long	ZCoz56_ns1;
 	ZCoz56_ns1	=	942243607;
 	float	v7kB4Z;
-	v7kB4Z	=	-973966034;
+
   unsigned long long  a7_9EX6__;
 
     long    bLF7gQX;

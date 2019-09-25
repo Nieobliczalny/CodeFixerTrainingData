@@ -121,7 +121,7 @@ int main(void) {
 	unsigned int	cebm58ns0j;
 	cebm58ns0j	=	1014050842;
 	unsigned long long	A5AO;
-	A5AO	=	1006524099;
+
   short  ePeP16K27;
 
     unsigned short int    To45f6;
@@ -167,7 +167,7 @@ int main(void) {
   unsigned char  zQ5_LNT1_;
 
     short int    Py1u;
-    Py1u    =    842778855;
+
   unsigned int  oea3504;
 
 	double	RLx5;
@@ -413,7 +413,7 @@ case 5:
 
 break;
 case 6:
-Ly_34_RPLe = (int)abs(x5qx9);
+
 break;
 case 7:
 

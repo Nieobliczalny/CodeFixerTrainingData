@@ -230,7 +230,7 @@ case 3:
 g8e_Owrg5 &= tLqBKUcR2o;
 break;
 case 4:
-tQ_R7_166 = (int)abs(K63md);
+
 break;
 case 5:
 A2l1Jdw1--;

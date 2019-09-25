@@ -147,7 +147,7 @@ int main() {
  unsigned short hlDK6;
 
   unsigned short int  my_Uzi;
-  my_Uzi  =  443500962;
+
 	char	HiqC;
 	HiqC	=	-995729780;
 	long	S23Amk7b;

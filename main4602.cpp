@@ -72,7 +72,7 @@ int main(void) {
     float    HOsO1W;
 
  char A8QPu669fD;
- A8QPu669fD = 1581072347;
+
     float    L_XCOGxvO0;
 
     unsigned long long    kA50f17p;
@@ -124,7 +124,7 @@ int main(void) {
  unsigned char Zkh4rK3pRT;
  Zkh4rK3pRT = -1550098834;
 	short	k3q2H;
-	k3q2H	=	1625219172;
+
     long double    A122;
 
 

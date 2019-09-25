@@ -121,7 +121,7 @@ int main(void) {
   unsigned int  lU_jU;
 
     float    h7V7PF4_;
-    h7V7PF4_    =    -1886100791;
+
   unsigned short  P28z0;
 
     unsigned long long    Lp9F;
@@ -131,7 +131,7 @@ int main(void) {
   short  G_7U;
 
  char HpuA7c9q7;
- HpuA7c9q7 = 116131960;
+
     char    WXN3n6O;
     WXN3n6O    =    304341599;
     unsigned short    dHj15y;

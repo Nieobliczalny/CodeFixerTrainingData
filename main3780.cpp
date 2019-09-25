@@ -59,7 +59,7 @@ int main() {
  unsigned long long W04BGi7;
  W04BGi7 = 836643818;
   short  K3O0nuxMV7;
-  K3O0nuxMV7  =  552431969;
+
 	float	dZ57wcR;
 
   char  mg4JnM7;
@@ -81,7 +81,7 @@ int main() {
   unsigned long long  xV2__P;
 
   unsigned short int  Q77W6CTO_M;
-  Q77W6CTO_M  =  564111196;
+
     char    tRlr;
     tRlr    =    1246742802;
  int b_15875;
@@ -103,7 +103,7 @@ int main() {
 	unsigned char	y3qbN4N;
 
   unsigned short int  z01z9a;
-  z01z9a  =  -13566922;
+
  unsigned int JcI38HVb;
 
     unsigned long    C_h609l_ZN;
@@ -115,7 +115,7 @@ int main() {
 	long	nkuRkL_HP;
 
     short    oWA_0laphu;
-    oWA_0laphu    =    -242847702;
+
   long long  RHqQY;
 
  unsigned long e3jX98w55c;
@@ -248,7 +248,7 @@ if (iDgGwTYl > -1140331569)
 switch (H39pmE)
 {
 case 'a':
-HbWy1y4 = (int)floor(REVs4pSR);
+
 break;
 case 'b':
 

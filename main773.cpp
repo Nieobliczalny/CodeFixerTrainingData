@@ -311,7 +311,7 @@ switch (g2lPtrP0J)
 {
 case 'a':
 case 'A':
-MW17Zs = (int)floor(hg3Wc9Eu2C);
+
 break;
 case 'b':
 case 'B':
@@ -388,7 +388,7 @@ if (g2lPtrP0J != sl84O6m_U1)
 }
 else
 {
-MW17Zs = (int)floor(Qv0E5r7oH);
+
 }
 }
 while (j >= 0);

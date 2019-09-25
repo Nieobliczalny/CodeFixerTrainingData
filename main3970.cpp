@@ -33,7 +33,7 @@ int main(void)
 	char	yk8fvy;
 
  float zbZld85;
- zbZld85 = -682264148;
+
  long HyqfS;
  HyqfS = -622340665;
  unsigned char UdR9x_N;
@@ -63,7 +63,7 @@ int main(void)
 	unsigned short	WfLe;
 	WfLe	=	-2114011355;
 	short	NPX9tyY6;
-	NPX9tyY6	=	1574742939;
+
     unsigned long long    t_kv;
     t_kv    =    -1439355721;
   int  E2n747N;

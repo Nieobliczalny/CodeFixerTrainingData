@@ -174,7 +174,7 @@ case 5:
 
 break;
 default:
-q1ckL = (int)floor(tVsl2ci7E);
+
 break;
 }
 }

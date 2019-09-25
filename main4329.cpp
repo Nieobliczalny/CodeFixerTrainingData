@@ -34,7 +34,7 @@ int main(void) {
  long long oL7kR36EM;
 
   unsigned int  o_2ZE4;
-  o_2ZE4  =  2020895968;
+
   unsigned short int  U0kAac9;
 
   long  AyoCMa2B;
@@ -58,7 +58,7 @@ int main(void) {
     int    xaRs7IGk;
 
     double    Okk6;
-    Okk6    =    1373825477;
+
     unsigned short int    B2i71jNE;
 
 	double	gG7ah;
@@ -100,7 +100,7 @@ int main(void) {
  unsigned long nI817jmR;
 
   double  yX63I8;
-  yX63I8  =  1486239670;
+
  double gNLg;
  gNLg = 1337942795;
   short  Ole2Om04_C;
@@ -128,7 +128,7 @@ int main(void) {
     float    sP9nm;
 
     short    a_H1ZCKnr3;
-    a_H1ZCKnr3    =    -841104916;
+
  unsigned short a3Or;
 
   unsigned short int  DIMN2S8DNM;
@@ -146,7 +146,7 @@ int main(void) {
  long VMo9;
 
 	unsigned long long	y2_qLq6w;
-	y2_qLq6w	=	-1060409542;
+
   long long  fZww2XqV;
 
     unsigned short int    hlMQRn2Q;
@@ -219,7 +219,7 @@ case 1:
 rzj4 = ED4988SgN_(rzj4);
 break;
 case 2:
-Okk6 = ZG73Ek2kX6();
+
 break;
 case 3:
 

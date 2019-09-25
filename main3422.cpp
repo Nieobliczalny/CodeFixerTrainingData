@@ -74,7 +74,7 @@ int main()
   double  WhEW;
 
  double Z44on7GF;
- Z44on7GF = -1904131148;
+
  long double H7O6V4;
  H7O6V4 = 903018387;
     float    kvntA;
@@ -124,7 +124,7 @@ int main()
     char    sk9VlJ30;
 
  long double o30XL9x0;
- o30XL9x0 = -377945703;
+
  float gr4_;
 
     long long    t9iF;
@@ -209,7 +209,7 @@ int main()
 
 
 
-QqV9 = (short int)(B_532_g9K);
+
 
 return 0;
 }

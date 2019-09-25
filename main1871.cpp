@@ -143,7 +143,7 @@ int main(int argc, char** argv) {
 	unsigned char	U5_LDTrx;
 
     unsigned long long    bHe2043Sp;
-    bHe2043Sp    =    1728426788;
+
  unsigned short lZa3_FdX;
  lZa3_FdX = 1448433386;
 	double	H68Xh;
@@ -193,7 +193,7 @@ int main(int argc, char** argv) {
   unsigned short  sm696p1;
 
   unsigned short  U4m6t0;
-  U4m6t0  =  1927516144;
+
   long long  iCg17v;
 
   double  Wg1T1EQ8;

@@ -29,7 +29,7 @@ int main(int argc, char** argv) {
     int    JbB4_76q;
 
     float    ca_l5;
-    ca_l5    =    751621812;
+
 	unsigned long long	y98qR5mH;
 
  short int s3C10_0D1G;

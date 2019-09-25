@@ -177,7 +177,7 @@ int main(void) {
     unsigned char    Gt1mX;
 
 	unsigned short	cr0I;
-	cr0I	=	744566100;
+
 	long double	sS32G992V_;
 
   long double  SS8189QdW;

@@ -65,7 +65,7 @@ int main()
  unsigned long long ULpwPG0;
 
  long double f12K;
- f12K = 1217270572;
+
     unsigned int    T842pPx;
 
   long  s0LO;
