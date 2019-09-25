@@ -34,7 +34,7 @@ int main(void)
   int  qhs7;
 
  unsigned int OmS1Y__;
- OmS1Y__ = -791935264;
+
     double    BaIL;
     BaIL    =    -1772403301;
   char  XrOo;
@@ -68,7 +68,7 @@ int main(void)
 	long double	IkjwgfA;
 
  float lbi3IKgi0;
- lbi3IKgi0 = -806078989;
+
     long long    N4H_5Nht;
     N4H_5Nht    =    1167954354;
  unsigned int Ww32;
@@ -100,7 +100,7 @@ int main(void)
 	unsigned short int	nEA36Zh4;
 
     short int    NO86eU;
-    NO86eU    =    932738918;
+
     unsigned long long    o1G4sJScA;
     o1G4sJScA    =    1337494653;
     unsigned char    KX46B;
@@ -118,7 +118,7 @@ int main(void)
  unsigned long long C41BTli;
 
  unsigned long Fa6ds;
- Fa6ds = -1875803421;
+
   unsigned short  XUJYb6_;
 
 

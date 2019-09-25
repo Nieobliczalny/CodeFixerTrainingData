@@ -20,7 +20,7 @@ int main(int argc, char** argv)
     c1l3    =    -1639679558;
     EPL9W_0    =    -1244850480;
     dBKY1D_R    =    2035323254;
-    nsNGz8_    =    -139077661;
+
 
 
     JO9q1g0    =    708592062;
@@ -37,7 +37,7 @@ int main(int argc, char** argv)
     pceY_n    =    1527864362;
     DVPA    =    -1707187115;
     v9D6C7l    =    -20387824;
-    LSkBd_oZ    =    141917072;
+
     YR17L    =    239136335;
     LLXoZ    =    -1108762002;
     g1S6J2    =    1436244099;
@@ -49,7 +49,7 @@ int main(int argc, char** argv)
     wA8yLXq0    =    -667930031;
 
 
-    jDx_5RP    =    -261750604;
+
     P1i5E853n    =    307988167;
     QBiffDX3j    =    814033686;
     skGKC    =    -524612016;
@@ -225,7 +225,7 @@ else
 {
 for (int j = 10; j >= 0; --j)
 {
-nsNGz8_ = (int)ceil(Cu_Fa7Cg);
+
 }
 }
 
@@ -261,7 +261,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-Ytf_ = (rNc06_el4j <= M0_pPp) ? jDx_5RP : I8u6qb;
+
 break;
 case 'c':
 case 'C':
@@ -491,7 +491,7 @@ case 7:
 
 break;
 case 8:
-QBiffDX3j = (int)floor(zIm9Ao);
+
 break;
 case 9:
 

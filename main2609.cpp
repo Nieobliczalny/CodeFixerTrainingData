@@ -84,7 +84,7 @@ int main()
  short YTZiHKRZ;
  YTZiHKRZ = 558083896;
  unsigned char nLR0w;
- nLR0w = 0;
+
 	unsigned short	DYe0S9mL;
 
 	char	Tfsb2;
@@ -293,7 +293,7 @@ case 'G':
 
 break;
 default:
-w1xQTP = (int)floor(nP8xkUR);
+
 break;
 }
 }

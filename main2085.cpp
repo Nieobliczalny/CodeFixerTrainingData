@@ -424,7 +424,7 @@ case 'd':
 Q03k = (int)floor(z0SZ2In);
 break;
 default:
-k4Xx |= 804975191;
+
 break;
 }
 }

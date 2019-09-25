@@ -106,7 +106,7 @@ int j = 0;
 do
 {
 ++j;
-rns68w5mPR = (int)abs(gs0lTa940);
+
 }
 while (j < 4);
 }
@@ -351,7 +351,7 @@ case 'c':
 
 break;
 case 'd':
-w4qt /= f608_38a9q;
+
 break;
 case 'e':
 lISl8Yx7IL = mlgfEhw(1175498921, gs0lTa940, A96w5, 105133655, 441513870);

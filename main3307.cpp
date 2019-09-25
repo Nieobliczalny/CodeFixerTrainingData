@@ -33,7 +33,7 @@ int main()
 
 
 
-  SlU5KOpl6  =  -340264001;
+
   SjYZ0boQ  =  1463371871;
   Xe4X8n  =  -1079490452;
   ANfAS2  =  -65799445;
@@ -80,7 +80,7 @@ int main()
   ez0k5l06v  =  1389103886;
   rQC5YUdq72  =  783851800;
 
-  z1V8jY3ji  =  396998252;
+
   dZJ77D6_2  =  -672920992;
   NKI4G4w0  =  -1932124127;
   MXhLKtPk1  =  266567952;
@@ -118,7 +118,7 @@ case 0:
 P2nt70_f2l = V25m8759s(SR5APw5);
 break;
 case 1:
-Xe4X8n /= s115_B5;
+
 break;
 case 2:
 ANfAS2--;

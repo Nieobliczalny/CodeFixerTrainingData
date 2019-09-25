@@ -320,7 +320,7 @@ case 'F':
 break;
 case 'g':
 case 'G':
-a9pG0EL = gQ4ktH4p >> 1281987467;
+
 break;
 case 'h':
 case 'H':

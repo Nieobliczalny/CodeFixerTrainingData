@@ -53,7 +53,7 @@ int main() {
     unsigned short int    k_gpY6q2b;
 
  long c_6AU7TZt;
- c_6AU7TZt = 0;
+
   unsigned long  zc1F;
   zc1F  =  -2000923505;
   unsigned long  j025_ha75;

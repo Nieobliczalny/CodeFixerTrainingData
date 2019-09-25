@@ -38,7 +38,7 @@ int main(int argc, char** argv)
     unsigned int    xQcZG;
     xQcZG    =    -742096693;
  long long q_K7Hldec;
- q_K7Hldec = 1125793417;
+
     char    jhfod_0;
 
 	unsigned char	D81pqOWfc;
@@ -75,7 +75,7 @@ int main(int argc, char** argv)
 
 
 E9W63 |= K1c2OE5y_;
-KBL7 = (int)abs(g_66qaVRp);
+
 if (J18F1_44 >= csxs0B)
 {
 {

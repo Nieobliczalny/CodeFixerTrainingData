@@ -49,7 +49,7 @@ int main(void) {
     sbI8_5    =    -989603148;
     HD504B    =    1995972732;
     gI0H77nK    =    373301735;
-    l6p9lj    =    1077932075;
+
     mZUMU    =    15601842;
     Q6jrm    =    -1669835148;
 
@@ -443,7 +443,7 @@ cout << tj1A_JE62 << Rw_pFlYGk << "vC0B_x" << Rw_pFlYGk << tRhFFSc0 << endl;
 switch (r9u3eXlM)
 {
 case 'a':
-HD504B = s6Ou33 ^ 131898030;
+
 break;
 case 'b':
 

@@ -317,7 +317,7 @@ for (int j = 7; j >= 0; j--)
 int k = 1;
 while (k >= 0)
 {
-G748Lcdf = n3IQ_a | M3h9;
+
 --k;
 }
 }

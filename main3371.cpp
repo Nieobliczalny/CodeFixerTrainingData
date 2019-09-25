@@ -11,7 +11,7 @@ using namespace std;
 int main(void)
 {
     unsigned short int    PE3nK,    spR3,    Ui_kxd1qac,    hK8z,    MUOV_,    D7oVwg,    iv_dFSpL,    DHMXi,    aBidZJ0,    qv0_F,    TW8xbIu,    Cr37CX,    i8tCX,    pAiZCE5oXD,    FT3A8Xz,    Q6roWiY_,    w9Io,    e9b4A1K5sf,    v1_VE,    yQUABwEajr,    sMImht,    u6oN,    xLxa,    a1_hO,    L92Jll,    E3toWV,    Y8Dc_cf,    F4EM_,    XA3y976qgR,    U2R9wU_lf,    CTWoCcs2_h,    crKfC6i,    y8sm59,    cECt_kf_M,    U9rb39U,    FaNm2n,    G1D94J,    b1mFl70RN,    dfm_03,    DcxUr335R,    l8Hl,    u4KiOQ_G,    DMaM3,    LzwS_QC8T,    Tur8z9GtFX,    U5o_vNP,    RG5AI2FZ,    CHrFv,    M6At5,    pFTj,    AnfEM6r6Yb,    M71PUJda,    aVP0dpCt_,    KW83,    w_J9,    YA0md,    Db_6hKE,    nL9Bqz1a8s,    hV5xS56P,    BEZ9y_On63,    O9P0L,    c3SQcu2D,    C9oYCN,    F188_y,    KD63F__s,    HY8NZ,    dvh8R628Rg,    lT_2rE5Z0H,    VbiGjrN17,    N5i3L,    nJE1,    vO081H4,    Z83zqR,    MT5p_I7,    E333V,    KaU0XNr8U,    ZSdEaWl,    qcA6rUGIg2,    TFee,    nQh4N8cE,    pvnoyjI,    BUMITdp,    ci29UvxbWU,    Y7O4fwFpWx,    iKO26t8,    Eaf_,    gH_94,    b00_,    LXjA9,    qdfY9Weh,    laY7T7SAFy,    GzaNr9xUil;
-    PE3nK    =    1800694421;
+
     spR3    =    342410833;
     Ui_kxd1qac    =    444263812;
     hK8z    =    163092785;
@@ -24,7 +24,7 @@ int main(void)
     TW8xbIu    =    557758967;
 
     i8tCX    =    -1308866366;
-    pAiZCE5oXD    =    -1691648572;
+
     FT3A8Xz    =    -830117246;
     Q6roWiY_    =    655068876;
     w9Io    =    801443816;
@@ -67,7 +67,7 @@ int main(void)
 
 
 
-    Db_6hKE    =    1618553246;
+
     nL9Bqz1a8s    =    -17510283;
 
     BEZ9y_On63    =    878705937;
@@ -78,7 +78,7 @@ int main(void)
     KD63F__s    =    -970084545;
 
 
-    lT_2rE5Z0H    =    105258344;
+
     VbiGjrN17    =    2097706526;
     N5i3L    =    -2088717833;
 
@@ -92,7 +92,7 @@ int main(void)
     TFee    =    -768052078;
     nQh4N8cE    =    -720301264;
     pvnoyjI    =    -687401608;
-    BUMITdp    =    1563433659;
+
 
 
     iKO26t8    =    1717263616;
@@ -219,7 +219,7 @@ int k = 0;
 while (k < 5)
 {
 ++k;
-PE3nK = U2R9wU_lf << N5i3L;
+
 }
 }
 }
@@ -278,7 +278,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-dfm_03 = XA3y976qgR ^ 458884723;
+
 break;
 case 'e':
 case 'E':

@@ -46,7 +46,7 @@ case 'c':
 egY1R /= V6VgwDV;
 break;
 case 'd':
-zgb30 = (int)abs(vQLDH);
+
 break;
 case 'e':
 Nyb52U5zZ = TtjC90(egY1R);

@@ -57,7 +57,7 @@ catch (int& errorCode)
 msKI = (int)abs(CCW012oZ);
 }
 
-ZIY67_iI0x ^= yB6718;
+
 
 for (int i = 1; i >= 0; --i)
 {

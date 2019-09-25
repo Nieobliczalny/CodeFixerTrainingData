@@ -572,7 +572,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-d_NO3vCJ = zRU89KVf_();
+
 break;
 case 'd':
 case 'D':
@@ -586,7 +586,7 @@ break;
 }
 else if (((v4_bdMq4v) || (rQLPBv > 2024105128)) || (Hf75lZj == Q9m9M))
 {
-d_NO3vCJ = zRU89KVf_();
+
 }
 else if (Q9m9M > -1567328583)
 {

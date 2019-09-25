@@ -30,7 +30,7 @@ int main() {
 	unsigned short int	Uc0n;
 
   double  FNFgDPuIN;
-  FNFgDPuIN  =  -1316513485;
+
 	long long	qw80445g;
 	qw80445g	=	0;
  int bJ7uR;

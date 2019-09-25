@@ -134,7 +134,7 @@ if (E8g5 & iCpN9N)
 {
 if ((E8g5 == wB19_ue8) && (H781w3_Eh <= wB19_ue8))
 {
-I3bbd = DuLGQg5A + 919516686;
+
 }
 else
 {

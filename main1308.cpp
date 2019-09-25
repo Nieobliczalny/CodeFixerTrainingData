@@ -162,7 +162,7 @@ else if (S86W03 > 784247718)
 }
 else if (GPIB7e39T4 == u6s8__)
 {
-g3yWC1Sl = (int)floor(GpoU6V1O);
+
 }
 else if (r4kVaqHA_D != w8yAS)
 {

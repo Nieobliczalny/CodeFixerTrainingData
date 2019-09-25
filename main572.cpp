@@ -122,7 +122,7 @@ int main(int argc, char** argv)
  short qk_Q;
  qk_Q = 0;
     unsigned short    T4p2k;
-    T4p2k    =    -842188120;
+
   short  wbfIu101MG;
   wbfIu101MG  =  -1105805428;
     char    bB_NqvjgZ;
@@ -222,7 +222,7 @@ else if (LPm3 == -1834498768)
 {
 if (((P91cn3jEK <= e91O0kbr) || (ulI875N & e91O0kbr)) && (S6__t0 < Qf43kP6Q))
 {
-WXj_px3 %= y455mzN1_;
+
 }
 else
 {
@@ -370,7 +370,7 @@ case 3:
 
 break;
 case 4:
-y70Xd6u4 = Iy551_pc5 - e91O0kbr;
+
 break;
 case 5:
 

@@ -67,7 +67,7 @@ if (nGEP)
 }
 else if (sTDA)
 {
-KTPQAX7MYx = (int)ceil(OiFt);
+
 }
 else if (F_F4zw > 405369671)
 {
@@ -91,7 +91,7 @@ NPgB7h = iMi8Q9(-570005654, q6q4r);
 
 try
 {
-vKxv += F_F4zw;
+
 }
 catch (int& errorCode)
 {

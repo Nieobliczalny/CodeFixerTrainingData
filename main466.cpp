@@ -80,7 +80,7 @@ R299uH7 = (unsigned short int)(E3e_Eak32);
 ++i;
 }
 }
-iCR3 = (int)abs(N_i8yDMCR0);
+
 std::cout << Ih_zAa_7ZY(-32631742, rEQmu) << UsVtq2tPi1 << oH4j << std::endl;
 lvI_ <<= 1816179420;
 

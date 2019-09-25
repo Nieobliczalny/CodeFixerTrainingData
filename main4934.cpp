@@ -130,7 +130,7 @@ int main(void) {
 	short int	rE3B4m7_;
 
  unsigned int lo85qN;
- lo85qN = -187054528;
+
 	int	nbXp;
 	nbXp	=	-62541476;
 	long	A9DbpF2;
@@ -176,7 +176,7 @@ int main(void) {
   short  PI9_;
   PI9_  =  -653115193;
 	float	lU9Ye;
-	lU9Ye	=	442278431;
+
  unsigned short int Am06xaqUW8;
 
  unsigned short u_8ANBQY;
@@ -196,7 +196,7 @@ int main(void) {
  char G_0guP44;
  G_0guP44 = -1906131286;
  char B66_;
- B66_ = 1848512546;
+
  unsigned short int Zlr_b;
  Zlr_b = -2018121407;
     long    f_21E;

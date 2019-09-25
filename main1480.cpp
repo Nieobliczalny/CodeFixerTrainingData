@@ -82,7 +82,7 @@ int main(int argc, char** argv) {
 	unsigned char	I1rNs;
 
     unsigned int    eaIyi4_1b;
-    eaIyi4_1b    =    455990184;
+
   unsigned short int  VAj2oh5;
   VAj2oh5  =  -836559148;
     float    kag5ebw;
@@ -118,7 +118,7 @@ int main(int argc, char** argv) {
 	long long	V66rtMsZ;
 
  unsigned int x3g3;
- x3g3 = -75370779;
+
   long double  l5qx;
   l5qx  =  781981435;
  long long cWGZZz4Q;
@@ -142,7 +142,7 @@ int main(int argc, char** argv) {
     long long    LT5pBx3;
 
  long long gtEvH252E_;
- gtEvH252E_ = -1130738948;
+
     float    qkou65T67L;
 
     short    rGY9BYHJw;
@@ -278,7 +278,7 @@ xfnCfX = -740229650 / TFc51R3s;
 cout << "rCaKh" << E2__0n7 << endl;
 
 
-qkou65T67L = (int)ceil(kag5ebw);
+
 
 
 

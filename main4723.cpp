@@ -108,7 +108,7 @@ int main(void) {
   float  e63Y_0;
 
     short    wXL1uufn6i;
-    wXL1uufn6i    =    135797873;
+
   short  v0zVF___;
   v0zVF___  =  1906439069;
   short int  hh8oF3;

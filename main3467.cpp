@@ -26,7 +26,7 @@ int main() {
   char  O9Q6z_L0i7;
 
 	unsigned short	wIWp;
-	wIWp	=	-1244145314;
+
 	int	jHJ4a_S;
 	jHJ4a_S	=	-1072744927;
     unsigned short int    m78P0;
@@ -66,7 +66,7 @@ int main() {
  long BHo1g4365L;
  BHo1g4365L = 0;
   double  Kg9rPNph5;
-  Kg9rPNph5  =  829670682;
+
   short  A5idU0n;
 
  float QA7cP;

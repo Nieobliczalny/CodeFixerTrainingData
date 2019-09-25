@@ -90,7 +90,7 @@ int main()
     long long    lErkFKAHL;
 
   unsigned short int  ryHq;
-  ryHq  =  -459395614;
+
 	long long	DC_SQ;
 	DC_SQ	=	-1166933665;
     unsigned short    BRY6;
@@ -128,7 +128,7 @@ int main()
     short int    OezzzaC_0;
 
  float Ltpsyx0;
- Ltpsyx0 = -7334925;
+
   unsigned long long  ea79M;
 
   float  RZlmrG;

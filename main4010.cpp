@@ -116,7 +116,7 @@ VbKL4h9K -= y64GY9;
 break;
 case 'd':
 case 'D':
-k3XBM &= OY2N30vaq;
+
 break;
 case 'e':
 case 'E':
@@ -304,7 +304,7 @@ DRf9_4U_U = (unsigned long)(g70_fvB);
 }
 else if (((H1LynW52) && (alLx08SR0 & -305357578)) || (l876c != pxU7gvvN80))
 {
-MbTI = Uvtt18 << pxU7gvvN80;
+
 }
 else if (JIx7f <= cDP3Nb_9)
 {
@@ -349,7 +349,7 @@ else
 }
 else if (VTi4k_T9W > 1342102333)
 {
-MbTI <<= Uvtt18;
+
 }
 else if (cDP3Nb_9 <= -169344404)
 {

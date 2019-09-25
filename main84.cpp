@@ -63,7 +63,7 @@ case 3:
 
 break;
 case 4:
-vP2efu0hh |= 1761707271;
+
 break;
 case 5:
 fkMC = (int)abs(u8uu0);
@@ -99,7 +99,7 @@ HH0uUMJvU = YR1at82Lb - 639502671;
 break;
 case 'd':
 case 'D':
-i9N9pwrwM = IsRo(708963953, abUEf);
+
 break;
 case 'e':
 case 'E':

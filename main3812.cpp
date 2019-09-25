@@ -15,7 +15,7 @@ short int    LA9S_THjh(unsigned char    cDC7D,unsigned long long    lJ20,short  
 int main(int argc, char** argv)
 {
   long  zj1y2qx;
-  zj1y2qx  =  0;
+
   unsigned int  z41xt;
 
 	double	LOLe9;
@@ -61,7 +61,7 @@ int main(int argc, char** argv)
     unsigned long    f2Dljp;
 
   double  RORIbd;
-  RORIbd  =  -1509213833;
+
   long  xLga0;
   xLga0  =  1257735381;
 	short	BoGAL7;
@@ -113,7 +113,7 @@ int main(int argc, char** argv)
  unsigned int bKGPQKlR;
  bKGPQKlR = 63354470;
 	unsigned int	h8rd;
-	h8rd	=	9305100;
+
 	unsigned int	a8607mNo0a;
 	a8607mNo0a	=	0;
     float    QL9gd0w;
@@ -127,7 +127,7 @@ int main(int argc, char** argv)
     short int    b589Nfblju;
     b589Nfblju    =    -2055615773;
 
-YoVb21Na67 = LA9S_THjh(L_k3z8X, A8_3, dti_FA, 1887150339, -311608744);
+
 for (int i = 7; i >= 0; --i)
 {
 
@@ -227,7 +227,7 @@ case 3:
 
 break;
 default:
-hDSDO69LD = (int)floor(A8_3);
+
 break;
 }
 }
@@ -275,7 +275,7 @@ if (zMfc58Bq_9 < 1184638604)
 {
 if (F1ye > oW7XLhU4y)
 {
-YoVb21Na67 = LA9S_THjh(-855026369, -555942117, -578137444, -229869090, 317795998);
+
 }
 else if (hDSDO69LD != 1938162431)
 {

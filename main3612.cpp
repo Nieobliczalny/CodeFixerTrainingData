@@ -239,7 +239,7 @@ case 3:
 
 break;
 case 4:
-eT2raDV5l = (int)floor(lrjM370mx9);
+
 break;
 case 5:
 r_8EKMl53 >>= 1097544755;
@@ -295,7 +295,7 @@ case 'b':
 
 break;
 case 'c':
-lrjM370mx9 = (mwvdv4149 < RQJPuVPoq) ? 699484585 : syluG_2t0;
+
 break;
 case 'd':
 
@@ -322,7 +322,7 @@ case 0:
 
 break;
 case 1:
-qX3mB39 = SxUb_YIS_ ^ V43ig4lvy;
+
 break;
 case 2:
 SxUb_YIS_ >>= erKdhJX2YQ;
@@ -372,7 +372,7 @@ case 'f':
 
 break;
 case 'g':
-uS138aky &= t7das;
+
 break;
 case 'h':
 G51v = Q__Z & 439546493;

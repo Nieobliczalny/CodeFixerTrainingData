@@ -475,7 +475,7 @@ z96n0 = my3Hqp(-585517198, 32494234, -565350382);
 break;
 case 'c':
 case 'C':
-i6TPIh_nb ^= 562730455;
+
 break;
 case 'd':
 case 'D':

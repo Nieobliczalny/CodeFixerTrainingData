@@ -43,7 +43,7 @@ int main(void) {
     short int    Gec3ihD7vd;
 
 	int	iTj89;
-	iTj89	=	-1839732107;
+
 	unsigned short int	xNr_4Nmq9Z;
 
 	float	eFmgU;
@@ -53,7 +53,7 @@ int main(void) {
     unsigned long long    HX69S94;
 
     long long    B9LvR;
-    B9LvR    =    1309520844;
+
 
 if (NA9US4 == 0)
 {

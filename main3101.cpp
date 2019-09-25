@@ -80,7 +80,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-UiSvp2 = (j899aqD98 <= 826627171) ? ON9NqmJw : MW_MGWK;
+
 break;
 case 'g':
 case 'G':

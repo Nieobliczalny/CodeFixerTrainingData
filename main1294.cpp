@@ -37,7 +37,7 @@ int main()
 	unsigned short	X0wDSbq;
 
     unsigned int    V6SkWJt7B3;
-    V6SkWJt7B3    =    -2006339297;
+
   short  nqSrf4u;
   nqSrf4u  =  -1379110409;
     int    L5B1xX;

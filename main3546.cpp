@@ -60,7 +60,7 @@ default:
 
 break;
 }
-mhZ8 = (unsigned char)(Rn8YIi + (BMiJS));
+
 
 switch (DMh_V)
 {
@@ -131,7 +131,7 @@ case 2:
 
 break;
 case 3:
-r2Nb5Nmt %= 1258116213;
+
 break;
 default:
 

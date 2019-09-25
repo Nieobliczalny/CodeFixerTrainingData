@@ -109,7 +109,7 @@ else if (SrPq3m45 >= -2133511158)
 int j = 0;
 do
 {
-Cf_BR7vQW4 = rv5A0b2G2(FiTDxP1, T4vY, -1049278654, -1220891095, -2005763185) ^ 1166462094;
+
 j++;
 }
 while (j < 2);
@@ -226,7 +226,7 @@ case 2:
 
 break;
 case 3:
-CU4HPo9X = hQOG(-1962903497, wW5j2_4G, F2qOnf00Zo, 1012702655) | 786112429;
+
 break;
 case 4:
 

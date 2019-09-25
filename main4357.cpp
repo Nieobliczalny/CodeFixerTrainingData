@@ -22,6 +22,7 @@ int main(int argc, char** argv)
 	unsigned int	LphgdFn,	t0smUdkht,	i6JxBn6E,	cv5T4X,	a_km9;
 		LphgdFn	=	t0smUdkht	=	i6JxBn6E	=	cv5T4X	=	a_km9	=	0;
  long long M9ZI9K6, VNnj, aISZL7, TI_1do4_yU, OZl07Wp, ow5ucd3Ju, S3Nj, Zt_FF89dyU, GO8GlW, OL5U7Ute, x_2lj, c_2T47rWem, kaM0O36SMi, Src7zfu2ek, tYF8x60_R, no7M8_7AJ, gZlP_Io9h, Q_Tx;
+  // codechecker_intentional [deadcode.DeadStores] Design rule - initialize all variables
   M9ZI9K6 = VNnj = aISZL7 = TI_1do4_yU = OZl07Wp = ow5ucd3Ju = S3Nj = Zt_FF89dyU = GO8GlW = OL5U7Ute = x_2lj = c_2T47rWem = kaM0O36SMi = Src7zfu2ek = tYF8x60_R = no7M8_7AJ = gZlP_Io9h = Q_Tx = 1051380532;
 
 ow5ucd3Ju = (long long)(LphgdFn + (-1935970865));

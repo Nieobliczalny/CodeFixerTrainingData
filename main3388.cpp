@@ -89,7 +89,7 @@ int main()
   short  h45q6;
 
   unsigned short  TV561;
-  TV561  =  -1097487731;
+
   char  kDb3y0ECRU;
   kDb3y0ECRU  =  1353222109;
     int    IA947R;
@@ -119,7 +119,7 @@ int main()
  unsigned char H453q;
 
  unsigned int jW7l;
- jW7l = 1669359952;
+
 	long	DBHPEWZQ;
 	DBHPEWZQ	=	-484478507;
   float  a2tu_;
@@ -145,7 +145,7 @@ int main()
     long long    ieYSvFp;
 
  long OMzkVBi;
- OMzkVBi = 1496813032;
+
 	float	Hl2a_85;
 
  long double UG_C_;
@@ -155,7 +155,7 @@ int main()
     unsigned int    d5DJYg;
 
     long    bq1GCi;
-    bq1GCi    =    1761075405;
+
   float  aXQF2jSC;
   aXQF2jSC  =  1105484750;
  unsigned int Npvfdnh;
@@ -179,7 +179,7 @@ int main()
   int  g7fm8;
 
   short  lL__uA;
-  lL__uA  =  2053921947;
+
     float    nSa8;
 
 	unsigned char	jZEq5D;
@@ -199,7 +199,7 @@ int main()
 	unsigned long long	nJIkW;
 
 
-lnsMP7 = Y3mih(lnsMP7, -1541014970, DBHPEWZQ);
+
 {
 int i = 9;
 while (i >= 0)
@@ -222,7 +222,7 @@ int j = 0;
 do
 {
 j++;
-fg_YCAmB = (int)ceil(hmNOm3Z67);
+
 }
 while (j < 10);
 }

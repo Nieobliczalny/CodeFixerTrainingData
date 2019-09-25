@@ -191,7 +191,7 @@ fm55eT_ = (long)(oPaUzOY2 * fm55eT_);
 PSyZf_1rh7 <<= Er6i0w;
 if (tLwDp != -156344068)
 {
-R4_o_i99 = H2VWA(631445309, 1597709322, 444615854);
+
 }
 
 if (TtIq & 2085108853)

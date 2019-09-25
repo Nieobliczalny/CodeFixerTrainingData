@@ -18,7 +18,7 @@ short int  zrm5Ec(unsigned int  Tw15O4q_0y,long long  HFF90eK3X,int  Y1S2zREH,un
 
 int main(int argc, char** argv) {
   long double  nBtIJk9x;
-  nBtIJk9x  =  1551070976;
+
     double    TgUibZLm4;
     TgUibZLm4    =    686094131;
     int    eUX3;
@@ -54,7 +54,7 @@ int main(int argc, char** argv) {
   unsigned short  NOYw;
 
  int e9uWPr4;
- e9uWPr4 = 355807823;
+
  long double qS181B;
  qS181B = 208412121;
  short int AUE61JyRrf;
@@ -68,7 +68,7 @@ int main(int argc, char** argv) {
     short int    m55xV7;
 
     short int    L_wfn3kY;
-    L_wfn3kY    =    268134058;
+
     int    dW457;
 
   char  Kp55E;
@@ -86,7 +86,7 @@ int main(int argc, char** argv) {
  long JTL2pYJ_;
 
     long double    z_2hA;
-    z_2hA    =    -1993806974;
+
  unsigned long long z10VS9P67T;
  z10VS9P67T = -174072962;
     short    N30s_b3D9;
@@ -267,7 +267,7 @@ case 'b':
 
 break;
 default:
-qS181B = (int)floor(TgUibZLm4);
+
 break;
 }
 

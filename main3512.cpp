@@ -63,7 +63,7 @@ int main()
   unsigned short  vblnzl6;
 
 	float	h42AO9o_0_;
-	h42AO9o_0_	=	-903160942;
+
   long double  BxxrR_yQ;
   BxxrR_yQ  =  -436057396;
 	unsigned short int	tV9C;
@@ -99,7 +99,7 @@ int main()
 	int	ZE4_f_4;
 
 	short int	kmHAr;
-	kmHAr	=	-582163687;
+
   short int  nY7LLNU;
 
 	unsigned long	ji3h5h7f24;

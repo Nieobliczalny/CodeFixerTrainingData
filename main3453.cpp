@@ -52,7 +52,7 @@ int main(void) {
 
  f1o4o_6 = 699499137;
  Lsmu1m = 1883155243;
- KB6E = -1923399198;
+
  G_938Y4G = 1167652612;
  rsXE__71u3 = -1377935451;
  inMKRRc = 157923177;
@@ -66,7 +66,7 @@ int main(void) {
 
  K8Y2 = -1492692332;
 
- h6VMXNSqT = -1186089615;
+
 
 
  CtWc = 1499496134;
@@ -87,7 +87,7 @@ int main(void) {
   unsigned long  IM1nBV5D8,  MmN757wZ,  I6tB,  XoYXEtTo7;
 
   MmN757wZ  =  0;
-  I6tB  =  0;
+
   XoYXEtTo7  =  0;
 
 {
@@ -197,7 +197,7 @@ case 5:
 
 break;
 case 6:
-I6tB = Z8Tydr31();
+
 break;
 case 7:
 
@@ -224,7 +224,7 @@ oPe74S = ZLYF4YA << 17495453;
 break;
 case 'b':
 case 'B':
-I6tB = Z8Tydr31();
+
 break;
 default:
 
@@ -284,7 +284,7 @@ try
 {
 for (int k = 7; k >= 0; k--)
 {
-I6tB = Z8Tydr31();
+
 }
 }
 catch (int& errorCode)

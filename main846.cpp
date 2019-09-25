@@ -92,7 +92,7 @@ int main(int argc, char** argv) {
 	unsigned char	KfN9;
 	KfN9	=	-1080236889;
   unsigned long  nCr1_;
-  nCr1_  =  -1032750047;
+
 	short int	g0q0USXlx;
 
   long long  Uw72b1d5;
@@ -456,7 +456,7 @@ for (int i = 9; i >= 0; --i)
 
 }
 
-Xx6w3 = (unsigned long long)(nLDa);
+
 
 
 

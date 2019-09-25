@@ -267,7 +267,7 @@ vW3x9_6Pi7 = U6v_fH7(-553157175);
 break;
 }
 }
-dQW77bC3Y7 = F3OeDm / 392971611;
+
 qZ1l3J = eFDo87I() * xMF2jH3igp;
 
 
@@ -522,7 +522,7 @@ for (int j = 7; j >= 0; --j)
 ++i;
 }
 }
-H9JKFQc6 = (int)abs(CG0qYcpL);
+
 
 std::cout << X2hFgp(1467818585) << vW3x9_6Pi7 << std::endl;
 

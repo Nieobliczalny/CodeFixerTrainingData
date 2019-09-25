@@ -50,7 +50,7 @@ int main(int argc, char** argv) {
     unsigned long    yqkT;
 
   unsigned long long  X4Z532tbVs;
-  X4Z532tbVs  =  -1444370043;
+
  unsigned long IqOTYXc_Gp;
  IqOTYXc_Gp = 1142097473;
 	char	jIz95A6;
@@ -128,7 +128,7 @@ int main(int argc, char** argv) {
     long double    y76iM;
 
   unsigned char  Hv4m162;
-  Hv4m162  =  -1671746714;
+
  float Jb6472A;
 
 

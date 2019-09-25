@@ -79,7 +79,7 @@ int main(int argc, char** argv)
   long long  m5AtAneS;
   m5AtAneS  =  -191104064;
  unsigned short int F4kq;
- F4kq = -753557164;
+
     unsigned long long    sQ9O;
 
 	double	lf22bh1mXi;

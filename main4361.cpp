@@ -125,7 +125,7 @@ int main() {
  unsigned long t4h5Kodl;
  t4h5Kodl = -879833418;
 	long double	DB0H7Z_;
-	DB0H7Z_	=	-756676490;
+
 	long	LPF1;
 
 	unsigned long long	e80SEE;
@@ -201,7 +201,7 @@ std::cout << kdzl_8rSN(Wl4QAh3, 180996053, XTPQBtw7r8, XyI4, -434269724) << "guD
 sk7W6 = t2Q086D8 | 1266418310;
 if ((Ad95oJ != 46670991) && (XyI4 >= 545478551))
 {
-VoiCJzJ_ &= RpaG;
+
 }
 else
 {
@@ -253,7 +253,7 @@ case 'd':
 u_U23W8e = kdzl_8rSN(auGm295P, -1862480084, -609496850, r_91LO, Uaq2);
 break;
 default:
-DB0H7Z_ = (int)floor(Z_45RJ_);
+
 break;
 }
 }

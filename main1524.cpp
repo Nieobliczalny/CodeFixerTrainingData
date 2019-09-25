@@ -23,7 +23,7 @@ int main(int argc, char** argv) {
   bz_Va41w3  =  -718674405;
   R0_I0c  =  -857351980;
 
-  li0ubs2Aqd  =  1897478655;
+
   TZJ2gaz  =  -1697828960;
   r44n  =  -307759377;
 
@@ -35,7 +35,7 @@ int main(int argc, char** argv) {
 
   bhVcL9  =  704755719;
   nYv8  =  -239909728;
-  ksQ560VT44  =  1780023242;
+
   zhiB051  =  -1242822109;
   SBfL8  =  1328446628;
   U395T  =  1277278420;

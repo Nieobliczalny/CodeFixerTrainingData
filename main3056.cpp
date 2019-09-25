@@ -53,7 +53,7 @@ int main()
  unsigned short int x1A_Xhz;
 
  unsigned long mJmZ4n;
- mJmZ4n = -521306313;
+
     unsigned int    ncO7;
     ncO7    =    -1244840215;
   long  ItgY3VF9;
@@ -113,7 +113,7 @@ int main()
   float  PL4z33c;
 
   float  W6g6_7FP9;
-  W6g6_7FP9  =  275210811;
+
  long double vPrV1SH;
  vPrV1SH = 1006268152;
 	short	nN6g9;
@@ -232,7 +232,7 @@ else if ((v51J) || (ue6xglB_))
 }
 else
 {
-wzRw8 = (int)ceil(hQkE);
+
 }
 }
 else

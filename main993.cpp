@@ -22,7 +22,7 @@ int main(void) {
 
 
 	unsigned int	ZIV5,	V05F,	Is4Ne,	BH_cjKmV_c,	uY8jjcB7q,	meja,	q5k9353p,	Y82K0c4,	VfBK0,	kg6eY;
-	ZIV5	=	-636894710;
+
 	V05F	=	-559303397;
 	Is4Ne	=	1604165606;
 	BH_cjKmV_c	=	1985262114;
@@ -33,7 +33,7 @@ int main(void) {
 
 
 
-kg6eY = (unsigned int)(meja);
+
 
 {
 int i = 3;

@@ -103,7 +103,7 @@ y4HdpNDt7U = AAMV5f(868971146, -1406076384);
 break;
 case 'c':
 case 'C':
-i9y29 = W80ZvJ();
+
 break;
 case 'd':
 case 'D':
@@ -127,7 +127,7 @@ qAFW18qh7 = NQSyP_Q2_(qAFW18qh7);
 break;
 case 'i':
 case 'I':
-i9y29 = (int)abs(OiGBgIvz1U);
+
 break;
 case 'j':
 case 'J':

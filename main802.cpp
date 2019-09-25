@@ -70,7 +70,7 @@ int main()
     double    w0Eof3;
     w0Eof3    =    516608114;
  float nu980yZk_;
- nu980yZk_ = 1912599320;
+
  unsigned short qV_yr5__jz;
  qV_yr5__jz = 1383722032;
 	unsigned int	nXSarsU;

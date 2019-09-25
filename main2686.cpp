@@ -230,7 +230,7 @@ case 'f':
 
 break;
 case 'g':
-XZ6H5DK = (int)floor(S3qGoj);
+
 break;
 default:
 E8uvb = (int)ceil(I4ylEW);

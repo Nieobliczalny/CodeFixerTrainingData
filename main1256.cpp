@@ -20,7 +20,7 @@ int main(int argc, char** argv) {
 	short int	vC746Rbrt2;
 
   unsigned long  D3763;
-  D3763  =  -159357512;
+
 	short	G5C9_50i;
 	G5C9_50i	=	387453651;
  unsigned short GGo_iXuP_l;
@@ -38,7 +38,7 @@ int main(int argc, char** argv) {
   unsigned char  u5mnX4_;
   u5mnX4_  =  1071553005;
     int    RGIbW_;
-    RGIbW_    =    682502676;
+
     int    tYif2;
 
   double  a4_x1V;
@@ -84,7 +84,7 @@ int main(int argc, char** argv) {
     long double    B_ydV_L_mc;
 
  double SDef;
- SDef = -1992118553;
+
 	long double	ICdfcb;
 
  long double nYCtyfGx5Q;
@@ -110,7 +110,7 @@ int main(int argc, char** argv) {
  float RLy8c6I3;
  RLy8c6I3 = 1221607786;
  unsigned short int Z4e_7QA1;
- Z4e_7QA1 = 163432641;
+
   unsigned char  m23V;
   m23V  =  1618906429;
     unsigned short    k5p5Q;
@@ -230,7 +230,7 @@ case 3:
 
 break;
 case 4:
-UfWTG0 = V_EDs_(ph0Af, RLy8c6I3, nYCtyfGx5Q, -761364310);
+
 break;
 case 5:
 

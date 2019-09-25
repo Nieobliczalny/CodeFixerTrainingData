@@ -354,7 +354,7 @@ F_FN55uCS *= RbMV;
 }
 else if ((RbMV <= -1733793062) || (LuD7 < Kqyk1Ht))
 {
-Kqyk1Ht = j6Ji4(Kqyk1Ht, SvBpPsa);
+
 }
 else if (SvBpPsa < 2044789434)
 {
@@ -426,7 +426,7 @@ case 'I':
 break;
 case 'j':
 case 'J':
-Kqyk1Ht = LuD7 - 244476463;
+
 break;
 }
 }

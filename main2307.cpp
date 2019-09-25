@@ -238,7 +238,7 @@ if (rim1XrlW <= BKYkv)
 {
 if ((vbp_uy9lF0 == 1979826083) && (d2TH > 2021325137))
 {
-a00VF = (int)floor(dG2Egy1);
+
 }
 else if ((HSCG) && (d2TH == J_Ze0eN_1))
 {

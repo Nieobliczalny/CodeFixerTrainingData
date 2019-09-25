@@ -30,7 +30,7 @@ int main(int argc, char** argv) {
 	float	TR4215VUk;
 
  long double Jt_f3P;
- Jt_f3P = -115940190;
+
     unsigned long    YVSPjy2;
 
 	short int	u3_Ws;
@@ -62,7 +62,7 @@ int main(int argc, char** argv) {
  unsigned char X61a3;
 
  float uK12V_;
- uK12V_ = -1389207411;
+
   unsigned short  jf7Q5j;
 
  unsigned short int VgrFTA5;
@@ -72,7 +72,7 @@ int main(int argc, char** argv) {
   char  pl42d;
 
   unsigned short int  mo_h;
-  mo_h  =  1871206717;
+
  unsigned short oNO_ud56;
 
     short    pUgzxIf;
@@ -82,7 +82,7 @@ int main(int argc, char** argv) {
 	char	YACD_;
 
   long  P7gEQ2D2;
-  P7gEQ2D2  =  0;
+
     char    Z_sp_JChF;
 
  unsigned char a_K406N;
@@ -92,7 +92,7 @@ int main(int argc, char** argv) {
     unsigned short int    y7Rz7;
 
   unsigned short  uPJ_X;
-  uPJ_X  =  -343361704;
+
   unsigned short  oK4QLew;
 
     int    Evi783PH;
@@ -102,7 +102,7 @@ int main(int argc, char** argv) {
  short int a3S_65dt9;
 
  char q8US8W;
- q8US8W = -830707779;
+
  unsigned long Q_h7V36ZA;
 
     int    pYav;
@@ -112,7 +112,7 @@ int main(int argc, char** argv) {
  long double kh__EEe3;
 
 	long double	l29x7_;
-	l29x7_	=	1186329951;
+
 	char	z6saEE;
 
  unsigned long long Qa2PXoPkT;
@@ -130,7 +130,7 @@ int main(int argc, char** argv) {
   double  LW7GZ;
 
   unsigned int  gA505gE;
-  gA505gE  =  838814826;
+
 	long double	SbOvNRNE;
 
     long    I1_SDQ8no;
@@ -140,7 +140,7 @@ int main(int argc, char** argv) {
   short  urQ_y;
 
     double    DB6iX8P;
-    DB6iX8P    =    -1000094393;
+
 	double	NcBdGbN;
 
     long double    uTB7;
@@ -158,7 +158,7 @@ int main(int argc, char** argv) {
     short int    ZPjI;
 
   unsigned long long  m223m9cz_;
-  m223m9cz_  =  -1261789292;
+
   short  HQO2jqqWVa;
   HQO2jqqWVa  =  -160769223;
 	int	Q6MOIxuW;
@@ -176,7 +176,7 @@ int main(int argc, char** argv) {
     unsigned short int    G7YwTN8h;
 
  unsigned long long s6Y96L;
- s6Y96L = 801142742;
+
  long UEuW2qeE98;
 
  short int Hzi3p;
@@ -186,7 +186,7 @@ int main(int argc, char** argv) {
 	long	Vtfs6R0m;
 
  long double TYi7QidXVM;
- TYi7QidXVM = -732990438;
+
   long long  spd4Y5j_Ag;
 
     long    A02k;

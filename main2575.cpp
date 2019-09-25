@@ -150,7 +150,7 @@ case 'g':
 CpY7gSgk4 = hG70Tya(-1318145320, -1069886612, 276375635, -1551132700, R2i3Qwwtqr);
 break;
 case 'h':
-q7m0uV11 = (int)floor(q26U3U9);
+
 break;
 case 'i':
 
@@ -165,7 +165,7 @@ break;
 
 
 
-Fw2rAp447 = ZAc9Q2s9(1767313345, CpY7gSgk4, R2i3Qwwtqr, h5QBV75A8Y);
+
 {
 int i = 7;
 do
@@ -203,7 +203,7 @@ break;
 }
 
 
-KIDM9Z0ZX = (int)ceil(Dug248c6J0);
+
 
 
 

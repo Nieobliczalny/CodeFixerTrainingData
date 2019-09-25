@@ -102,7 +102,7 @@ int main()
 	float	ff0d_R;
 
  double gLIlcZ;
- gLIlcZ = -1677312660;
+
   long long  k4n4rS815;
   k4n4rS815  =  -1142994928;
     unsigned char    v_LRFfQO;
@@ -118,7 +118,7 @@ int main()
   unsigned long long  DUOG7qCe0;
   DUOG7qCe0  =  0;
  float KK8nZgNd_8;
- KK8nZgNd_8 = -1032986571;
+
  short W1HIA9N;
  W1HIA9N = 695677236;
     long long    c0YaXwh;

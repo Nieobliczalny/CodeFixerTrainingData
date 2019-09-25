@@ -42,7 +42,7 @@ int main() {
  long long v6k2g;
  v6k2g = 387519360;
 	long	IsUu_6k3;
-	IsUu_6k3	=	292547092;
+
     unsigned short int    WMsq;
     WMsq    =    -1879680844;
 	int	G3yg_;
@@ -285,7 +285,7 @@ do
 {
 for (int k = 3; k >= 0; k--)
 {
-cE3UH = ktlJ(1348713395, v6k2g, H3s2, WMsq);
+
 }
 j--;
 }
@@ -298,7 +298,7 @@ switch (H3s2)
 {
 case 'a':
 case 'A':
-IsUu_6k3 = qnn97_z << 1424842713;
+
 break;
 }
 }
@@ -331,7 +331,7 @@ for (int i = 0; i < 6; i++)
 switch (x_S7)
 {
 case 'a':
-N6D9w = (int)floor(mY56N);
+
 break;
 case 'b':
 

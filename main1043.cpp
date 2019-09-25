@@ -490,7 +490,7 @@ else
 
 
 
-q04O8 = (long)(I3AGcIbt);
+
 
 try
 {

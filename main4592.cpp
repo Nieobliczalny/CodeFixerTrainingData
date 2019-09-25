@@ -79,7 +79,7 @@ int main(int argc, char** argv) {
 	unsigned char	O685;
 	O685	=	-1907564061;
  long geih;
- geih = -2019618465;
+
 	unsigned long	HA3oWJ9i_w;
 	HA3oWJ9i_w	=	906804742;
     short    T4VhZM;

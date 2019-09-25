@@ -54,7 +54,7 @@ int main() {
   unsigned char  n2TFU;
 
  int W6_Bs0Z2_E;
- W6_Bs0Z2_E = 53201180;
+
   unsigned int  rf30HQZ;
   rf30HQZ  =  0;
   unsigned short int  UBTYgA0;

@@ -379,7 +379,7 @@ case 0:
 
 break;
 case 1:
-I_ihYVeZ = (Hj018Kya < -1105921084) ? Hj018Kya : W8mA7q_hok;
+
 break;
 case 2:
 JCnNsy2MN9 = v95w_tk_(SMOr, LM_nc, -675305218);

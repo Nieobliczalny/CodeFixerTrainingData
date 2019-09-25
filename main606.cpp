@@ -326,7 +326,7 @@ case 4:
 
 break;
 case 5:
-oYSOo81C = h60nuV8E / 1626487035;
+
 break;
 default:
 
@@ -471,7 +471,7 @@ nSQ2B = (int)abs(vinTF5);
 
 
 
-e5ML_re7b7 = (int)ceil(A36N5);
+
 
 return 0;
 }

@@ -97,7 +97,7 @@ int main(int argc, char** argv) {
     unsigned short    QqDNBLp9Mq;
 
  unsigned short d479;
- d479 = 1383399838;
+
   int  yA_rY73a_5;
   yA_rY73a_5  =  155924180;
   short int  Qc7_;
@@ -137,7 +137,7 @@ int main(int argc, char** argv) {
 	unsigned long long	uf8ks6hA;
 
  long long z_K2BQs;
- z_K2BQs = 1688374642;
+
 	unsigned long long	pxiY9b;
 	pxiY9b	=	-1551098021;
     unsigned int    X7cC;
@@ -147,7 +147,7 @@ int main(int argc, char** argv) {
 	long double	HvFsR;
 	HvFsR	=	-1081477507;
   short  EaMz;
-  EaMz  =  -431204169;
+
     unsigned short int    oXQk;
     oXQk    =    1957656327;
     unsigned long    lH9Hq;
@@ -229,7 +229,7 @@ LWi4vqR = (int)ceil(y0s6LPjf2);
 break;
 case 'g':
 case 'G':
-DV4wF5AnC = U89W4e & G4121tPJ2b;
+
 break;
 case 'h':
 case 'H':

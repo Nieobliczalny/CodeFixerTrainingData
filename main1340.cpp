@@ -39,7 +39,7 @@ int main(int argc, char** argv)
     double    wJT_8_4w;
 
     short int    WXx4Rq;
-    WXx4Rq    =    712215546;
+
     long long    E3u81_5jdR;
 
 	unsigned long	cKF1S536C;
@@ -61,7 +61,7 @@ int main(int argc, char** argv)
  unsigned short p7_aDogWtC;
  p7_aDogWtC = 1674701270;
  short CzY8E846;
- CzY8E846 = -827310922;
+
     short int    i9_k4;
     i9_k4    =    -628556981;
  double C0nb;
@@ -83,7 +83,7 @@ int main(int argc, char** argv)
   float  A87BB3kqK7;
 
 	long	OlwZ32o2n;
-	OlwZ32o2n	=	1161479233;
+
     float    rs9H;
 
     unsigned short int    Bfvd;
@@ -119,7 +119,7 @@ int main(int argc, char** argv)
     unsigned long    c7VV;
 
     long    p741xk;
-    p741xk    =    -739441582;
+
   unsigned int  x3Vza;
 
  double zv_gf6633a;
@@ -151,7 +151,7 @@ int main(int argc, char** argv)
 	int	T8SKDjkQ;
 
   int  m0_sx;
-  m0_sx  =  -236756362;
+
 	long	i_dJ;
 
   unsigned short int  Csg2F2Hi;
@@ -163,7 +163,7 @@ int main(int argc, char** argv)
   short  exPZzCZG;
 
 	double	OmVxl;
-	OmVxl	=	-473022607;
+
 	long long	e92j3V;
 	e92j3V	=	2007427601;
     unsigned char    DdjzfC;
@@ -232,7 +232,7 @@ case 2:
 WdDVFm--;
 break;
 case 3:
-i9_k4 = N58DZtIED >> 1686285517;
+
 break;
 case 4:
 BpM_6++;

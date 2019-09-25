@@ -72,7 +72,7 @@ int main(int argc, char** argv) {
 switch (gxhQAi_u)
 {
 case 'a':
-AQ6v = (int)ceil(NDSEM);
+
 break;
 case 'b':
 D2ehc *= 1656645531;

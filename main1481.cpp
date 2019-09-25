@@ -40,7 +40,7 @@ int main(int argc, char** argv) {
   oeNvRSL94  =  -277707516;
 
 
-  C04bO0K5IB  =  -249595773;
+
   BOvXhrL  =  1036519610;
   aZub_X_TDj  =  888426667;
   d25tyy  =  1833707145;
@@ -69,7 +69,7 @@ int main(int argc, char** argv) {
   yV7Plcv  =  1751398404;
 
   Z_12d2sf  =  -822312153;
-  y2LI20D38q  =  167274467;
+
   Bi9c45  =  288409418;
 
   pry_4_GU  =  1310499050;
@@ -99,7 +99,7 @@ int main(int argc, char** argv) {
 
   WMO7PNRgFd  =  -827202298;
   w54D53F  =  570060312;
-  BDxYLa_J  =  -1800170771;
+
 
   yJ5t9_9Mk  =  -1825348883;
   tO3polRi  =  1661503366;
@@ -153,7 +153,7 @@ ptXFzqCe = TFyVn17 * O9GGV87m1;
 switch (h46WVL67Gt)
 {
 case 0:
-y2LI20D38q = APXHVOoM | tO3polRi;
+
 break;
 case 1:
 ay_zk1 /= T72U;
@@ -168,7 +168,7 @@ case 4:
 w54D53F = (int)abs(EmzNEvIc);
 break;
 case 5:
-HRV9j64 = (int)abs(VnmC);
+
 break;
 default:
 

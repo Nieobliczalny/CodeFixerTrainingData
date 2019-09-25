@@ -347,7 +347,7 @@ else if (((UCMu3 <= 468382543) || (u4ZjF)) || (muG_B3_0 < h_q5fF_awM))
 }
 else if (Ta_G3S < -694424056)
 {
-UCMu3 >>= gYq3ARK;
+
 }
 else if (g2zQcT)
 {

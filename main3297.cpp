@@ -126,7 +126,7 @@ int main(int argc, char** argv)
   char  SZ1jg;
 
     char    L1oe8;
-    L1oe8    =    -192411624;
+
   char  Nt806;
 
  unsigned char H9233R;

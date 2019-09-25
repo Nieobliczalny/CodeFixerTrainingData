@@ -33,7 +33,7 @@ do
 int k = 7;
 while (k >= 0)
 {
-Ua433w48T = (int)floor(TvsJONH);
+
 --k;
 }
 }
@@ -156,7 +156,7 @@ wY60v79z = FSOD9C9(vHNRWNL7);
 int i = 0;
 while (i < 8)
 {
-uWBBBc = (float)(rfzz_HrN);
+
 i++;
 }
 }
@@ -205,7 +205,7 @@ else if (((V89q1 >= -2054509835) || (TY_q >= F7_z)) || (Ac___NBMn != F7_z))
 int k = 0;
 do
 {
-Ua433w48T = DXyM / 974360848;
+
 k++;
 }
 while (k < 10);
@@ -255,7 +255,7 @@ while (j < 3);
 }
 else if (KUCm <= -1454881184)
 {
-U5Jvo = (float)(o4VU8_0l);
+
 }
 else
 {

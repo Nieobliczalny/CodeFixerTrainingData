@@ -48,7 +48,7 @@ int main(int argc, char** argv) {
  unsigned short YI0Cba;
 
 	float	tkDiEzEIB;
-	tkDiEzEIB	=	249192701;
+
 	unsigned long long	Q5VhhX29;
 
     float    KfGiulWA;
@@ -76,7 +76,7 @@ int main(int argc, char** argv) {
     unsigned short    AdN8;
 
 	double	q5ioQjm;
-	q5ioQjm	=	1738636563;
+
 	double	oMTp_xmw;
 
  int l9yEOMY7a;
@@ -134,7 +134,7 @@ hWnI = Pq0f3uBKX0(V5NyqKkcN, 1997658696, 352168545) << FnhpeTEPy;
 
 
 
-XxJn4I = (unsigned int)(kH587q7bU);
+
 UhfO++;
 {
 int i = 0;

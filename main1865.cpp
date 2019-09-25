@@ -680,7 +680,7 @@ for (int j = 8; j >= 0; j--)
 cout << "SS0hKO" << W89T7 << z10wt9_ << endl;
 }
 }
-EKUWIS = (int)(Pj5fO9d_q);
+
 
 if ((gp8OSPoxN <= -908883465) && (D0fRM_5L4 & -482369873))
 {

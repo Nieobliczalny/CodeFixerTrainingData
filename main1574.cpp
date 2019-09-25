@@ -12,7 +12,7 @@ using namespace std;
 
 int main(int argc, char** argv) {
     float    X6gp;
-    X6gp    =    -190908151;
+
  long vYn1;
 
     unsigned char    Ny7uM;
@@ -74,7 +74,7 @@ int main(int argc, char** argv) {
     unsigned short int    WMgXCI8ji;
     WMgXCI8ji    =    1327586576;
     unsigned char    iTEs6D8X;
-    iTEs6D8X    =    -970452219;
+
  unsigned char Z7FCp9Q8;
 
     unsigned long long    h7O121K3z;
@@ -318,7 +318,7 @@ while (j < 7)
 j++;
 if (C32pK3CZ <= h7O121K3z)
 {
-X6gp = (int)abs(Dv38My884);
+
 }
 }
 }
@@ -372,7 +372,7 @@ case 1:
 Kh5o5Y3Bf = uQm99E << Ccm3v;
 break;
 case 2:
-X6gp = (int)floor(vgdp2Ov);
+
 break;
 case 3:
 Hpii_z_9E = (int)floor(qM7A5J0t);
@@ -436,7 +436,7 @@ case 4:
 fxPQ5Jd = (int)floor(pVI1y);
 break;
 case 5:
-iTEs6D8X = HjGSO6Pb - 893070154;
+
 break;
 case 6:
 
@@ -537,7 +537,7 @@ cout << bEmY3YI55B << CWHyo << pVJK2Jnd << ag7sQA << "wrGSsQ" << endl;
 }
 else if ((KVpMkLylL0 <= P4k5vzbM) || ((f_hAWWyx9v <= qM7A5J0t) && (hCnb >= KVpMkLylL0)))
 {
-X6gp = (int)ceil(oc2662);
+
 }
 else if (Hz277 == h0pOkbnat6)
 {
@@ -562,7 +562,7 @@ else if (Hpii_z_9E == -377701257)
 {
 if (MT9T != pVJK2Jnd)
 {
-X6gp = MaXZvt54e_ ^ Hz277;
+
 }
 }
 else if (V_Y2 != MkoO)

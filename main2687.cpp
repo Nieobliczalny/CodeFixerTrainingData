@@ -207,7 +207,7 @@ if (t1u0 >= eq4wU_Q)
 }
 else if (((p_9yu_e4) && (h_0j > -786823467)) || (z9EF7))
 {
-F887S = (int)ceil(XA86AI7YD);
+
 }
 else
 {

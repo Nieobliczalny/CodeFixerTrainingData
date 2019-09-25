@@ -143,7 +143,7 @@ int main(void)
     long long    xXMUCde_S;
     xXMUCde_S    =    1523294017;
 	long	T8_1z8M27u;
-	T8_1z8M27u	=	902224493;
+
   long  ec1Z_;
   ec1Z_  =  -2007139146;
 	float	v68p1;

@@ -245,7 +245,7 @@ pxRD8 = J226 ^ gy71D8Bz;
 break;
 case 'i':
 case 'I':
-bPKKLEAE = F4C3c2WC1U(685741416);
+
 break;
 case 'j':
 case 'J':
@@ -413,7 +413,7 @@ if ((y_Xt5 <= -1863509586) && (kgLuorMbP0 >= n7yQ))
 {
 for (int k = 0; k < 5; ++k)
 {
-AgcA = cj069tgUY();
+
 }
 }
 else
@@ -441,7 +441,7 @@ case 'e':
 
 break;
 case 'f':
-a1O4i = TwnMiq9b << 61104370;
+
 break;
 case 'g':
 V_fe0Zq = F4C3c2WC1U(-1662076386);
@@ -486,7 +486,7 @@ case 4:
 
 break;
 case 5:
-M74C = (int)abs(b9hM);
+
 break;
 default:
 
@@ -559,7 +559,7 @@ case 2:
 
 break;
 case 3:
-VrMai6sZB ^= mA5EjVK;
+
 break;
 case 4:
 

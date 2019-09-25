@@ -63,7 +63,7 @@ int main(int argc, char** argv)
   char  Swcn3TZ;
 
  long double HebL;
- HebL = 2053684554;
+
  unsigned long long ZMF4143B;
 
   float  j6ahj;
@@ -103,7 +103,7 @@ int main(int argc, char** argv)
  short int suDPBOe;
  suDPBOe = 0;
  double JiKJYyg;
- JiKJYyg = 1537057533;
+
   long  w98h;
   w98h  =  0;
     int    b83Qi6v;
@@ -113,7 +113,7 @@ int main(int argc, char** argv)
     long double    ewCKrxf2_6;
     ewCKrxf2_6    =    1746384952;
 	short	e7Tvwt;
-	e7Tvwt	=	-1872840078;
+
     int    oZ90;
     oZ90    =    1478835599;
     int    JTrI97x;
@@ -125,7 +125,7 @@ int main(int argc, char** argv)
   long long  c0QUq;
 
   unsigned short int  t1Td5;
-  t1Td5  =  0;
+
 	double	zMTt5v4;
 
 	long	L1T95LbC;

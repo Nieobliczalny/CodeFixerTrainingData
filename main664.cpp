@@ -553,7 +553,7 @@ kd8_ei05V = IT5AA1(13682200, c8q37T684, 810768643, ajl5hNEpjO);
 }
 else
 {
-tp7rlg = (short)(LkH_z);
+
 }
 }
 

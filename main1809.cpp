@@ -174,7 +174,7 @@ for (int j = 2; j >= 0; j--)
 {
 if (mK98phG == md8Ru23)
 {
-AGZSV = (int)ceil(oIzV635p);
+
 }
 else if (JwTwt3Fka != -465269434)
 {

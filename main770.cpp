@@ -31,7 +31,7 @@ int main(void)
     short int    xF_2Y_963z;
 
 	short int	yBOyS9r27Q;
-	yBOyS9r27Q	=	1832794089;
+
  float XF_I70dj;
  XF_I70dj = -127480233;
  int T5GH;
@@ -162,7 +162,7 @@ case 4:
 w6mN5Y1 = DMf1W1 % 2070018105;
 break;
 case 5:
-XF_I70dj = (int)floor(X9oy);
+
 break;
 case 6:
 X9oy = (int)floor(XF_I70dj);

@@ -39,7 +39,7 @@ int main(void) {
  U1Co7m4 = 1140454947;
  ygM71Us = -556150651;
  Y_Q0 = -2063388797;
- xzh4y = -1472387268;
+
  w9Qz101 = -1164052369;
  wS_RdH = 1574492525;
 
@@ -403,7 +403,7 @@ if (fk7HllDQ_ & h3Ox)
 {
 try
 {
-xzh4y = it6Pm(LXiS1cc, 1860051281) % 1340407846;
+
 }
 catch (int& errorCode)
 {
@@ -571,7 +571,7 @@ case 1:
 
 break;
 case 2:
-x0YD = Ym227X(1903875695);
+
 break;
 case 3:
 

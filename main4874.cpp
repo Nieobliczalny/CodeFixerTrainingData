@@ -448,7 +448,7 @@ j++;
 }
 }
 
-Fr6S = (int)floor(ElaROT);
+
 
 c784QvROee = (int)abs(KVPhc5dqKB);
 {
@@ -464,7 +464,7 @@ try
 {
 if (ZT713 != hVt7Tp1t4)
 {
-Nzd92Nc <<= 1997715704;
+
 }
 }
 catch (int& errorCode)

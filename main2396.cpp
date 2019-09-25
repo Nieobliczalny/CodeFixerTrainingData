@@ -94,7 +94,7 @@ int main()
 	int	t_6kNCQ;
 	t_6kNCQ	=	-1143166957;
     float    v81uTc;
-    v81uTc    =    2027025658;
+
     long    uf23IqU8_6;
     uf23IqU8_6    =    271869611;
     float    a12_;
@@ -140,7 +140,7 @@ int main()
  char J44fi57uAl;
  J44fi57uAl = 987339909;
     long double    f9326503;
-    f9326503    =    -1521121551;
+
 	unsigned int	BvvYoIkX;
 	BvvYoIkX	=	2120105334;
   unsigned short int  B0D1_Y5tpi;

@@ -245,7 +245,7 @@ case 'g':
 vEWG38 = (int)floor(e6j5RNH);
 break;
 case 'h':
-lJwQD = (int)abs(qAZGu) + (-2138682866);
+
 break;
 case 'i':
 du_YGMoaT |= nIP_FBL;

@@ -94,7 +94,7 @@ int main(void)
     unsigned short    KRh6;
     KRh6    =    -1264663358;
   double  X9hV6jRYOK;
-  X9hV6jRYOK  =  101986494;
+
 	short	Z30D2E;
 	Z30D2E	=	-1733761883;
     unsigned short int    M_10q382Hb;
@@ -152,7 +152,7 @@ sFLLE_3j = (int)abs(gQ01wgQ);
 }
 else
 {
-w8DZpbd = (int)ceil(qEqH);
+
 }
 }
 }

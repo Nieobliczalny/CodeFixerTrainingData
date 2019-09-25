@@ -254,7 +254,7 @@ if (R5v4P6YKA & 577758415)
 }
 else
 {
-k70n_w = (int)abs(W_b9Fgo);
+
 }
 }
 else

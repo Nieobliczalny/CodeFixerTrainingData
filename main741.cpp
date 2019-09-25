@@ -218,7 +218,7 @@ case 'f':
 
 break;
 case 'g':
-WGY11mLYsE = (int)floor(lE1Rb3q_);
+
 break;
 case 'h':
 WGY11mLYsE = GoZAZ1CP(-435142874, V89ts0, q0H3, -685037807);

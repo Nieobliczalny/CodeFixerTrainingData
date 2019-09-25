@@ -52,7 +52,7 @@ int main(void)
 	unsigned long long	r6cs;
 
 	long	pOMs_PmeB;
-	pOMs_PmeB	=	1024636451;
+
     unsigned long    I1WSc177;
     I1WSc177    =    0;
     unsigned char    njcY3NB1;
@@ -104,7 +104,7 @@ int main(void)
     long long    UKTWVU5mM4;
 
  char A0S4P7fHgc;
- A0S4P7fHgc = -1885572619;
+
   double  u_GnI;
   u_GnI  =  701764766;
  short int goDEh;

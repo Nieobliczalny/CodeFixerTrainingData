@@ -146,7 +146,7 @@ switch (Vu5Yu)
 {
 case 'a':
 case 'A':
-Owyu = ogp5EXFR * Hq1Oz15;
+
 break;
 case 'b':
 case 'B':
@@ -394,7 +394,7 @@ case 'g':
 
 break;
 case 'h':
-lDjDV5 = UG0Xx0WPv - YO8LU3iJr;
+
 break;
 }
 }

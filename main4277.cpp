@@ -64,7 +64,7 @@ int main()
     float    B0OVm;
 
     unsigned char    q6O3;
-    q6O3    =    2146849348;
+
     unsigned int    CaECrWHc;
     CaECrWHc    =    -208296669;
 

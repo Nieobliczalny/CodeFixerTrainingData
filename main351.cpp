@@ -244,7 +244,7 @@ std::cout << s_Vb6 << Yjz4PF9Zi(-1013821146, PX8FTL03, d54z13, -1267411354) << "
 
 
 
-Q93F = (int)ceil(pRFI);
+
 
 if (hky9 >= -872582392)
 {

@@ -30,7 +30,7 @@ int main(void)
  QMI1oDif_3 = -601417822;
  H07f = -797408297;
  p0HV = -253211547;
- n7s2zad = -116774693;
+
  LgJn = 931395158;
  pFltRO = 252726088;
  dSZh4E3 = 855443339;
@@ -75,7 +75,7 @@ int main(void)
 
  Rw7jIuJ = 955841585;
  d16S637ZIA = 1837623732;
- Sx46 = 1729615361;
+
  xO9fl1qo = 1945479013;
 	short int	mn5f,	traC0y,	pVb1x_yP;
 	mn5f	=	0;

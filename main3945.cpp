@@ -70,7 +70,7 @@ int main(int argc, char** argv)
  unsigned char n74n8261;
 
     float    eZeODUlK;
-    eZeODUlK    =    553946132;
+
  char cE55UjY;
 
     unsigned short    qxXV;
@@ -260,7 +260,7 @@ for (int i = 8; i >= 0; --i)
 {
 if (EHc9ADi6 != V_3sD9Lf0)
 {
-eZeODUlK = (float)(IO6LH218);
+
 }
 }
 
@@ -581,7 +581,7 @@ case 6:
 
 break;
 case 7:
-vb_22K = Wr8_YLX6q(vb_22K);
+
 break;
 case 8:
 

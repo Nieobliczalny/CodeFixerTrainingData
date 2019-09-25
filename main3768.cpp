@@ -107,7 +107,7 @@ switch (JYe0)
 {
 case 'a':
 case 'A':
-y6iBYfeOjY *= Hx_gi1b2k6;
+
 break;
 }
 }
@@ -381,7 +381,7 @@ else
 
 for (int i = 0; i < 3; i++)
 {
-Uo78M = (int)floor(HI63Ca77E);
+
 }
 
 {

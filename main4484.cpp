@@ -248,7 +248,7 @@ case 8:
 
 break;
 default:
-X_rG = iqBroKc & 850492448;
+
 break;
 }
 try

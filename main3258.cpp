@@ -356,7 +356,7 @@ do
 {
 if ((QEiBIQM < i3Yd1e) || (K930OWhSR < GXd2N))
 {
-PBV8_P5p = (int)ceil(qN__4ob);
+
 }
 else if (Y9A67s3tk)
 {

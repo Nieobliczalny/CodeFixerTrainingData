@@ -37,7 +37,7 @@ int main(int argc, char** argv) {
 	unsigned long	QmeI;
 
  long long oKgd7j0Xy;
- oKgd7j0Xy = 2053715734;
+
 	long long	AC3y_K6tZ;
 
 	unsigned long	MOSvh4;
@@ -57,7 +57,7 @@ int main(int argc, char** argv) {
   short int  yVg9;
   yVg9  =  -1973534634;
   short  Psz18jH3vL;
-  Psz18jH3vL  =  -385380302;
+
 	unsigned short	We7p3;
 	We7p3	=	-190654806;
   unsigned char  g_17;
@@ -111,7 +111,7 @@ int main(int argc, char** argv) {
 	unsigned char	wd8vYA;
 	wd8vYA	=	-1817427589;
 	long	gYAGi;
-	gYAGi	=	-85844409;
+
  short int nF93zO61jL;
  nF93zO61jL = 1541357751;
   unsigned char  Mzp0f;
@@ -167,7 +167,7 @@ int main(int argc, char** argv) {
 	char	SRC2lk_5;
 	SRC2lk_5	=	-1687114682;
   short  TdRyy54v;
-  TdRyy54v  =  -623688210;
+
   long long  CygJ8u54;
 
 	unsigned int	E4zy5u3KA;
@@ -201,7 +201,7 @@ int main(int argc, char** argv) {
     unsigned short int    aq4o4f_;
 
 	long long	d48bk2;
-	d48bk2	=	68534455;
+
     unsigned char    mQ7nsK9J;
     mQ7nsK9J    =    -1300842717;
     unsigned long    n9g2;
@@ -328,7 +328,7 @@ p5H57ag4 = (int)ceil(w8L_7b05E);
 switch (nF93zO61jL)
 {
 case 0:
-Dy5W9GK0 = rmdASQCKFT + shfnn6q6L;
+
 break;
 case 1:
 shfnn6q6L = (int)abs(A179dq0);
@@ -346,7 +346,7 @@ case 5:
 
 break;
 }
-shfnn6q6L >>= 1904350984;
+
 for (int i = 9; i >= 0; i--)
 {
 std::cout << "E_SEN8W" << wd8vYA << X3tk45 << "L8zSb87" << "dcK7vyr" << std::endl;
@@ -422,7 +422,7 @@ case 8:
 
 break;
 default:
-VhHE = (int)abs(J6L9GjtL);
+
 break;
 }
 }

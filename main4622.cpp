@@ -340,7 +340,7 @@ catch (int& errorCode)
 p446Xz_I %= Q67r;
 }
 
-bHQ_ <<= MB4_g5Y6;
+
 try
 {
 if (rsT7WqBlAK < -1653708121)

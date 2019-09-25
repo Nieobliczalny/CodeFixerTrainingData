@@ -112,7 +112,7 @@ case 6:
 f8HCJr7tog = nJ6KCfDM ^ 931696297;
 break;
 case 7:
-T_1925 = C1w_uu | 1428553190;
+
 break;
 case 8:
 prtumMYGPh = e7f8cz6z5 >> bg_32chC;
@@ -158,7 +158,7 @@ int k = 4;
 while (k >= 0)
 {
 --k;
-RQ76Mq = (int)abs(uKxc);
+
 }
 }
 }
@@ -179,7 +179,7 @@ switch (f8HCJr7tog)
 {
 case 'a':
 case 'A':
-RQ76Mq = T94S(1086061610, -311594840, Artv2ZHd2, nJ6KCfDM, -301189037);
+
 break;
 case 'b':
 case 'B':
@@ -191,7 +191,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-RQ76Mq = T94S(-1585616163, -666300461, BRoOmrG6, B14Hd, SAN8W);
+
 break;
 case 'e':
 case 'E':
@@ -203,7 +203,7 @@ case 'F':
 break;
 case 'g':
 case 'G':
-RQ76Mq = (int)abs(uKxc);
+
 break;
 default:
 

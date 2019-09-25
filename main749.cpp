@@ -370,7 +370,7 @@ case 5:
 
 break;
 case 6:
-B_nbG /= 706205661;
+
 break;
 case 7:
 zhwB = cjGw9f6 / 730448392;

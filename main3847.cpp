@@ -165,7 +165,7 @@ VFjk2d -= B6X1;
 }
 else if (VFjk2d == 1333105708)
 {
-mg_2Rc1h = X13vjn_ & Y43jc6;
+
 }
 else if (GY_o7k25ek == d93Dvu)
 {
@@ -203,7 +203,7 @@ if (i27G12bgS < y9GY3TNVL)
 switch (k40G911)
 {
 case 0:
-mg_2Rc1h = k8o9F - A43e4;
+
 break;
 case 1:
 
@@ -215,7 +215,7 @@ case 3:
 
 break;
 case 4:
-ymdCP = U1Mzc2z + 1662498714;
+
 break;
 case 5:
 r45P77c90 = (int)abs(G400HuM7);

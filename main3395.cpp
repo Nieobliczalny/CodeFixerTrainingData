@@ -72,7 +72,7 @@ int main()
     short int    p7086lj00;
 
     short    aKA8M5Z;
-    aKA8M5Z    =    1225387187;
+
   unsigned short int  Ti_1;
   Ti_1  =  172393323;
  short int LU5tj87G;
@@ -142,7 +142,7 @@ int main()
 	unsigned int	rEv6;
 	rEv6	=	524912337;
     unsigned short int    ixfQV;
-    ixfQV    =    -1290261300;
+
  long double G7gB_w;
 
   char  EW4x;
@@ -424,7 +424,7 @@ if (G0k3Of < 2056753589)
 }
 else if (rEv6)
 {
-wlIbpKaiTy <<= fwh0wjh;
+
 }
 else if (aJSZz3Cp != -478405671)
 {

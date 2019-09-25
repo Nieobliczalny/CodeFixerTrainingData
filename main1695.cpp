@@ -34,7 +34,7 @@ int main(void)
   WKCs  =  1546406612;
   ILkeNx3l8  =  1723652216;
   KF6l  =  26269130;
-  Mz32MQKCC4  =  -251060762;
+
   C7Uv  =  409753605;
   VF76G  =  -1483216946;
   y7K3  =  -473232551;
@@ -80,7 +80,7 @@ case 0:
 
 break;
 case 1:
-o38QhX0_B = D6ZUx - 1141279986;
+
 break;
 case 2:
 O5ba22eDQ *= u8795h279I;
@@ -116,7 +116,7 @@ else if (tZJ940cue2 >= fE0tfWrjg)
 int k = 0;
 do
 {
-o38QhX0_B = y_sI(-1571157756, 1542483338, um47C_2Rx) / b0kuhF;
+
 ++k;
 }
 while (k < 8);
@@ -237,7 +237,7 @@ case 'd':
 
 break;
 default:
-y7K3 /= P0RC;
+
 break;
 }
 }

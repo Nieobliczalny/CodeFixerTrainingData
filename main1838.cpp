@@ -69,7 +69,7 @@ if (yQ1r042y == 0)
 }
 
 
-wP5Lo_9 = YSDW32(-1429516988, OtlZ2k);
+
 return 0;
 }
 

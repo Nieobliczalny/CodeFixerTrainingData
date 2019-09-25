@@ -30,7 +30,7 @@ int main(void) {
 
 
 	gd_VBK	=	-1311976802;
-	Wqk86D9eyM	=	1269799652;
+
 
 	y1rYp	=	-1758555423;
 	O0X8ybmf_	=	392579973;
@@ -76,7 +76,7 @@ int main(void) {
 	k_nB3	=	-263821442;
 	dJNrT7	=	-1657426010;
 
-	B7x7r	=	-766028345;
+
 	tUeMQ	=	1851222147;
     unsigned char    eT8v4qp,    i76Ia_taR,    G8WNhatDtc,    K3_Fla,    R66_;
 

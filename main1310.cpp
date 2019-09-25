@@ -21,7 +21,7 @@ int main(int argc, char** argv) {
  unsigned short int Vry28K;
 
  long double H8gMe;
- H8gMe = 1287615419;
+
   double  Pda82gp3;
 
  unsigned short my_8A61Rf;
@@ -31,7 +31,7 @@ int main(int argc, char** argv) {
  char z_4Tt;
 
 	double	ATZtY532FV;
-	ATZtY532FV	=	2065117081;
+
 	unsigned short	c0_d0W_G;
 
  long double hzoo2wrZW7;
@@ -41,7 +41,7 @@ int main(int argc, char** argv) {
  unsigned long mB0zAz;
 
 	long double	o2CIzhCo;
-	o2CIzhCo	=	-1919371592;
+
  long double Pz60BQ9_9c;
 
   int  RazuxCfo;
@@ -51,7 +51,7 @@ int main(int argc, char** argv) {
 	unsigned int	NpO2fQDEDT;
 
  unsigned int WA1bhM;
- WA1bhM = 0;
+
     short int    CluA6I_q0i;
 
  unsigned int nQ0P8hno;
@@ -61,7 +61,7 @@ int main(int argc, char** argv) {
   unsigned short  WecV7vz;
 
 	long double	MWX9;
-	MWX9	=	1978554945;
+
     unsigned long    Sr7iX_h;
     Sr7iX_h    =    1612597541;
     unsigned char    zy35egKG8;
@@ -77,7 +77,7 @@ int main(int argc, char** argv) {
 	float	reDuB_u;
 
   int  olYx;
-  olYx  =  750579862;
+
     short    QDPG;
     QDPG    =    -749469296;
  long long O_go_;
@@ -91,7 +91,7 @@ int main(int argc, char** argv) {
  unsigned long long pt7twb1;
 
   double  mMT1c;
-  mMT1c  =  181146028;
+
  short MDTL;
  MDTL = 0;
   long double  Rw_13a5;
@@ -103,7 +103,7 @@ int main(int argc, char** argv) {
 	unsigned int	ZZ2QM4qlk;
 
   long double  B2O3EI;
-  B2O3EI  =  935101119;
+
   unsigned short int  bk3M4pu;
 
   unsigned short  wEU0P3V2;
@@ -113,7 +113,7 @@ int main(int argc, char** argv) {
   long double  VDf_aZjf0;
 
 	int	MNk4;
-	MNk4	=	396480397;
+
 	long double	MuUA;
 
     char    XH3j8Gs7m_;
@@ -123,7 +123,7 @@ int main(int argc, char** argv) {
     long    v00wt1;
 
   char  ngeBBK4DQT;
-  ngeBBK4DQT  =  -1249427117;
+
  unsigned char GFl3_wPC7;
 
  short us7pxxo;
@@ -135,7 +135,7 @@ int main(int argc, char** argv) {
  double BwI0er8s;
 
   long  AFLstwv;
-  AFLstwv  =  1795642010;
+
 	unsigned int	r3pn15M;
 
     double    FL_C4u4zr;
@@ -145,7 +145,7 @@ int main(int argc, char** argv) {
   long long  ydc6__MTF;
 
  unsigned short int l0_3__y1;
- l0_3__y1 = 611014843;
+
 	unsigned short	aUOo_sA1;
 
 	unsigned int	Qvv063;
@@ -155,7 +155,7 @@ int main(int argc, char** argv) {
  unsigned int R_L4am0;
 
 
-B2O3EI = vNT2s8e();
+
 
 O84YTw = vNT2s8e();
 

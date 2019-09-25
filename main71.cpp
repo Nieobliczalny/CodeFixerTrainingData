@@ -72,7 +72,7 @@ int main(void)
 	unsigned char	v4iMGzLZ;
 	v4iMGzLZ	=	-1289472866;
   short  FKs1aLIr_;
-  FKs1aLIr_  =  0;
+
     char    x65y;
 
 	int	IOm4zH8;
@@ -134,7 +134,7 @@ int main(void)
  unsigned char x57H;
 
     unsigned long long    ml6uJEZUaB;
-    ml6uJEZUaB    =    -1260170116;
+
  short sRD21F;
 
  short int cr_U;

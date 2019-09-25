@@ -119,7 +119,7 @@ int main()
   unsigned char  kE8tzKh;
 
   unsigned short  O7DA4J22;
-  O7DA4J22  =  796842223;
+
 	short int	a7K0;
 	a7K0	=	-615047196;
   unsigned short int  MHcn;

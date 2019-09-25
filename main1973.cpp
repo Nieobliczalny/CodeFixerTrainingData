@@ -108,7 +108,7 @@ int main(int argc, char** argv)
     long    nfDDCbo4;
 
     unsigned long long    L8Vu95;
-    L8Vu95    =    -1993814966;
+
 	long long	H4t05Dz;
 	H4t05Dz	=	-684760577;
  unsigned short int TBWQC;

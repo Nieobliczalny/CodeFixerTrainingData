@@ -42,7 +42,7 @@ int main(void)
   short  DbfXBs_97;
   DbfXBs_97  =  280657695;
  unsigned short H750r7C8_H;
- H750r7C8_H = 1877345661;
+
     unsigned char    Of_MT8kw45;
 
 	unsigned short	m0lQ14721B;
@@ -186,7 +186,7 @@ int main(void)
   short int  BeBQob90Q;
 
   unsigned char  IlliWF8;
-  IlliWF8  =  -1477385233;
+
     unsigned short    c4408N;
     c4408N    =    -1098985430;
 	long	hx94;

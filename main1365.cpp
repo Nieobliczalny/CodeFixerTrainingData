@@ -54,7 +54,7 @@ int main(void) {
  unsigned short int iRVXnfK89C;
 
 	float	CRjLs3;
-	CRjLs3	=	834779731;
+
   int  Ys00;
   Ys00  =  -1974563534;
     unsigned char    q8XmhBKT;
@@ -80,7 +80,7 @@ int main(void) {
 	unsigned short	jePJ7_q0;
 	jePJ7_q0	=	1234030212;
   unsigned short int  ZIwFOLT1Y_;
-  ZIwFOLT1Y_  =  -2064998017;
+
  unsigned int kQ6i_sF3k;
 
 	long	G9fqGT9B;
@@ -130,7 +130,7 @@ int main(void) {
   unsigned int  Luv4znx;
 
   unsigned long long  GF08lX;
-  GF08lX  =  -1760691690;
+
     long    BG0s;
     BG0s    =    -894986238;
  long long TQkX;
@@ -182,7 +182,7 @@ int main(void) {
   unsigned short  EjJ37jO5l8;
 
  unsigned int fVS9HVI;
- fVS9HVI = 1720192916;
+
   long double  jxaB2AU;
 
 	unsigned long long	p_zBPnP1T;

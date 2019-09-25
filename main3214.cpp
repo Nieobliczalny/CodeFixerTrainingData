@@ -58,7 +58,7 @@ int main(void)
     short    zC0dPn;
     zC0dPn    =    -1255851261;
   int  JfZE;
-  JfZE  =  257190680;
+
   unsigned long  X9rqCH;
 
 	short	z2jGk9OEU;

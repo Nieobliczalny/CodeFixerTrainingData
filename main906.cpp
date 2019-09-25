@@ -323,7 +323,7 @@ case 'b':
 
 break;
 case 'c':
-O4347eA = (int)abs(xNtu);
+
 break;
 }
 }
@@ -345,7 +345,7 @@ case 'd':
 
 break;
 case 'e':
-Bq40Kq = of8F & LWoKMX;
+
 break;
 case 'f':
 

@@ -307,7 +307,7 @@ case 5:
 hk9n9I ^= 570424765;
 break;
 case 6:
-EVu7W7 = (hk9n9I == 622957200) ? -1955430516 : L4nUSo66Rc;
+
 break;
 case 7:
 hk9n9I -= M6w9;

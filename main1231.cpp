@@ -116,7 +116,7 @@ for (int j = 1; j >= 0; --j)
 {
 if (Tc7VfWQWSw & xnh51v01H4)
 {
-y_jMz = (int)ceil(LxUU34vCc4);
+
 }
 }
 }

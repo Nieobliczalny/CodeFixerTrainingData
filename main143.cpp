@@ -500,7 +500,7 @@ case 'd':
 
 break;
 case 'e':
-vsHjuY31A9 %= 56500916;
+
 break;
 case 'f':
 

@@ -77,7 +77,7 @@ int main(int argc, char** argv)
 	char	WkGbo;
 	WkGbo	=	-712666308;
   unsigned long long  y04Uz2;
-  y04Uz2  =  -226353412;
+
  char TpWXsr2T;
  TpWXsr2T = 200006204;
     unsigned short    Zpkjq;

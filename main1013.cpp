@@ -330,7 +330,7 @@ for (int k = 0; k < 3; ++k)
 }
 }
 
-ft0d = (int)abs(V1daj_);
+
 
 for (int i = 0; i < 5; ++i)
 {
@@ -362,7 +362,7 @@ case 5:
 XLzt = qhm1gI5();
 break;
 default:
-r_ur4qA9 = z5u37KMFI(r_ur4qA9);
+
 break;
 }
 

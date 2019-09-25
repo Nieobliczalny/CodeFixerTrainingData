@@ -273,7 +273,7 @@ KlsDTgV += 1423220939;
 switch (dk2JO8NGq)
 {
 case 0:
-dk2JO8NGq = f92EVW % 1187435509;
+
 break;
 case 1:
 KlsDTgV--;
@@ -338,7 +338,7 @@ case 'H':
 
 break;
 default:
-dk2JO8NGq = hD8o24Fz3X & EAt4;
+
 break;
 }
 }

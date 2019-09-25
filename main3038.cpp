@@ -238,7 +238,7 @@ case 'a':
 ysQ5 = (int)abs(ahI5sb_0);
 break;
 case 'b':
-qrCi8Jji = X_P9N(-849481558, -581121449, -1573704769);
+
 break;
 case 'c':
 
@@ -262,7 +262,7 @@ case 'i':
 
 break;
 case 'j':
-p2Oi86 = FhJN0Fs();
+
 break;
 }
 }
@@ -306,7 +306,7 @@ do
 j++;
 if ((p7L3q & -1448765839) || (hRpp29R2 != 1472363171))
 {
-z13SU4E = NXtwU4_I - 24453409;
+
 }
 }
 while (j < 8);
@@ -343,7 +343,7 @@ case 'e':
 
 break;
 case 'f':
-hRpp29R2 = n6_5qu(hRpp29R2);
+
 break;
 case 'g':
 

@@ -479,7 +479,7 @@ case 'g':
 
 break;
 case 'h':
-fgWm = zOMkry(-800999891);
+
 break;
 default:
 PQvA32yP = PQvA32yP + PQvA32yP;
@@ -527,7 +527,7 @@ break;
 }
 else
 {
-fgWm = (long double)(U3c1_J9sa);
+
 }
 cout << ZDWN << d9S_() << zOMkry(680288186) << "VFu5_5F" << "U7o6LHz" << endl;
 

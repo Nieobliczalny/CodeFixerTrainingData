@@ -32,7 +32,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-n8_Qf0 = ok_2814bm(tRyuuznjg, Xipn0xgX_);
+
 break;
 case 'd':
 case 'D':
@@ -59,7 +59,7 @@ case 1:
 
 break;
 case 2:
-n8_Qf0 = ok_2814bm(314990617, WNzr);
+
 break;
 case 3:
 Bfc1_ = ok_2814bm(-1747112449, -441399541);
@@ -74,7 +74,7 @@ case 6:
 
 break;
 case 7:
-k1T_TQKeV = (int)abs(Io8b33aT);
+
 break;
 case 8:
 DWqj = K86x * 1251152709;
@@ -105,7 +105,7 @@ else
 }
 
 
-Av0TXa &= z3E4z2t;
+
 
 if (ok_2814bm(I9V7v2421, 2095919367) == 0)
 {

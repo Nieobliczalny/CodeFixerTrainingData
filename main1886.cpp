@@ -62,7 +62,7 @@ case 'c':
 
 break;
 case 'd':
-q_nNsP5Ht = b44uF();
+
 break;
 case 'e':
 
@@ -74,7 +74,7 @@ case 'g':
 
 break;
 default:
-d3v0RF8Gy = b44uF();
+
 break;
 }
 }

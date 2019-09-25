@@ -23,7 +23,7 @@ int main(void) {
 switch (wk6A)
 {
 case 0:
-y2zqEc = (int)ceil(y8l9Je);
+
 break;
 case 1:
 j7H2k7vcc *= 326784619;
@@ -218,7 +218,7 @@ else if ((h_A98_16ew < 467300945) && (wk6A & -497605003))
 {
 if (UKjgd <= -1338739541)
 {
-y2zqEc = (int)floor(nEBK9Kx);
+
 }
 else
 {

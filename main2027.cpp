@@ -71,7 +71,7 @@ int main()
     n_ku0BffVR    =    1020123481;
     EWCU3a    =    -576575992;
     PsckD    =    -378364932;
-    WIZPSBv5    =    -1211875712;
+
     BX6LpC    =    975974857;
     NlwY4vwf    =    1379504;
     fGPeDq98O    =    627104178;
@@ -582,7 +582,7 @@ cout << i76c << DmIQPL3(yS_0pNuaI2) << "oQ2kJa9Lz" << q94oG() << endl;
 switch (L8qwDV4W)
 {
 case 0:
-WIZPSBv5 = (int)abs(DYsqO);
+
 break;
 case 1:
 tP_Q >>= 1247667963;
@@ -823,7 +823,7 @@ case 6:
 
 break;
 case 7:
-DXsqD = (int)abs(w1S9Aox_s);
+
 break;
 case 8:
 

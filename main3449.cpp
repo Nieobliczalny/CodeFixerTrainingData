@@ -278,7 +278,7 @@ try
 int k = 2;
 do
 {
-S5c4 = FT1BZ2151(-54822643, YYPTL_y1j);
+
 --k;
 }
 while (k >= 0);

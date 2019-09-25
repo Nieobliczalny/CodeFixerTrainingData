@@ -73,7 +73,7 @@ int main() {
  unsigned char wKY1OH = -948785478;
  int xRI8Nquui = 77207771;
 
-vVR_9Zq = 979600037 / W422q0sroK(yAY4A, o0JQa65THl, s_98, DtO2m_, -1112803251);
+
 
 try
 {
@@ -120,7 +120,7 @@ case 1:
 
 break;
 default:
-ucz6mYaJj = (int)ceil(I9cgcr);
+
 break;
 }
 }

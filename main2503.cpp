@@ -141,7 +141,7 @@ int main()
 	int	UKAsjp;
 	UKAsjp	=	-590989669;
 	int	Dq63z;
-	Dq63z	=	-1965963738;
+
   double  PJ7k7G36;
   PJ7k7G36  =  1552591300;
   unsigned short  zGCLH;
@@ -301,7 +301,7 @@ case 'b':
 c0x5dQhn ^= 1281905586;
 break;
 case 'c':
-Dq63z = (int)abs(l2EyAYW7ug);
+
 break;
 case 'd':
 tdxGI000_ = (int)floor(ro58ZRrJiD);
@@ -380,7 +380,7 @@ case 'I':
 
 break;
 default:
-EC0mN = TsB3(EC0mN, tdxGI000_);
+
 break;
 }
 

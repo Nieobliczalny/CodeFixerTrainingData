@@ -191,7 +191,7 @@ case 'a':
 ku51l_ <<= E5mN;
 break;
 case 'b':
-FsA7a7F = NSLqTS - F9C_Ppgx;
+
 break;
 case 'c':
 Y4sDNn = (int)ceil(APObt6);
@@ -237,7 +237,7 @@ else
 {
 if ((Lndj != t_zy) || (oQhDb6))
 {
-FsA7a7F = (qY0632V > t_zy) ? W47w : a_y07(-3693672, vOZpu_, 1776023717);
+
 }
 }
 }
@@ -294,7 +294,7 @@ case 0:
 
 break;
 case 1:
-APObt6 = (int)ceil(m56RQG9);
+
 break;
 case 2:
 
@@ -315,7 +315,7 @@ case 7:
 
 break;
 default:
-qUG2covw_ = (int)abs(m56RQG9) * 0;
+
 break;
 }
 }

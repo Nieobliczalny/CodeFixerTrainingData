@@ -564,7 +564,7 @@ HsKQ06aXw5 = afGj % l84mb;
 }
 else
 {
-QUzx = (int)abs(l84mb);
+
 }
 }
 while (j >= 0);
@@ -605,7 +605,7 @@ else if (HsKQ06aXw5)
 {
 if ((CwZV0ovEf >= J78Sr9PbZ3) || ((v8CkJDcxDh < 1189712766) || (DoM_1YPh_ >= 1613796759)))
 {
-QUzx = B_AB5jHa39 / l84mb;
+
 }
 else if (nc68 == w_SKr)
 {

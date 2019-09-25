@@ -454,7 +454,7 @@ if (C28J3IW > 1077802477)
 {
 std::cout << QA_4__jze6 << vf92aZr << hmlm << Jl5tWX4 << hmlm << std::endl;
 }
-hNtPT19q = (int)ceil(R01K);
+
 
 std::cout << Zxp76R / JzP5nnMy(1968177153, R01K) << std::endl;
 

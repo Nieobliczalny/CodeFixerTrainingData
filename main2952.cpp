@@ -145,7 +145,7 @@ Zgp7ab5Hw |= 1226752789;
 break;
 case 'c':
 case 'C':
-H6ilW9G653 = (int)ceil(Dvh7vqB);
+
 break;
 }
 }

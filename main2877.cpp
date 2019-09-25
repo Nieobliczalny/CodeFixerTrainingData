@@ -986,7 +986,7 @@ else
 {
 if (D0VUQvr9wr >= 267390198)
 {
-Iwe8fdK = (int)floor(t5ntN9V1);
+
 }
 else
 {
@@ -1114,7 +1114,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-Q9rq = (int)floor(jE49);
+
 break;
 case 'g':
 case 'G':

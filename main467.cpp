@@ -42,7 +42,7 @@ int main(int argc, char** argv) {
 	T5hdgV	=	1564398994;
 	x63UtL7	=	-1807112112;
 	Q_07G74TE	=	1200031446;
-	AreF1OS	=	-676499179;
+
 	Q95Dq2q3	=	-400598368;
 	HMXqK	=	-1332242447;
 	Po9Vo	=	-2106854950;
@@ -348,7 +348,7 @@ case 'd':
 
 break;
 case 'e':
-x_hMl92 = (int)abs(O4V_B7U);
+
 break;
 case 'f':
 

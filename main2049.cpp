@@ -227,7 +227,7 @@ case 'f':
 
 break;
 case 'g':
-zJXSL1i1T8 = (int)abs(C7V1);
+
 break;
 case 'h':
 

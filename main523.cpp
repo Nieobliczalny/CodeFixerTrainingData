@@ -45,7 +45,7 @@ int main()
 	short int	Or9n3E9AC3;
 	Or9n3E9AC3	=	0;
     unsigned short int    YNpfa083d;
-    YNpfa083d    =    -558663293;
+
 	float	Q15z;
 	Q15z	=	2085575354;
     unsigned short int    oFAc_;
@@ -115,7 +115,7 @@ int main()
  char cV9Ks9ECH2;
 
   unsigned short int  F1x1e;
-  F1x1e  =  1835023453;
+
 	unsigned long	r_s6;
 
 	unsigned short	D4a_RIcg9V;
@@ -147,7 +147,7 @@ int main()
   unsigned short int  eLKc;
 
  unsigned short D8H6zcwd_;
- D8H6zcwd_ = 337621290;
+
   long double  X40np0J7w0;
   X40np0J7w0  =  -1520181758;
  short a6W009jfZ;
@@ -479,7 +479,7 @@ case 'c':
 
 break;
 case 'd':
-I0rG9Mi3_W = (int)ceil(DI54u);
+
 break;
 case 'e':
 

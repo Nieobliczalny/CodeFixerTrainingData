@@ -58,7 +58,7 @@ int main(int argc, char** argv)
 	unsigned short	ECOi5TzohI;
 
 	long double	KInQDJ;
-	KInQDJ	=	-267891575;
+
 	unsigned short int	pHMI870;
 
 	char	r3WmFtV;
@@ -68,7 +68,7 @@ int main(int argc, char** argv)
     short int    IGjIt;
 
   char  lR_1;
-  lR_1  =  -274558918;
+
     long long    N13hfFTF;
     N13hfFTF    =    1117452798;
   unsigned short  D6zC;

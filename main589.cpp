@@ -121,7 +121,7 @@ int main(void) {
   int  IlhugcJ5;
 
  long double zw1_;
- zw1_ = 918335583;
+
 	unsigned long long	AQsn;
 
 	unsigned int	SNw6CGd0WA;
@@ -141,7 +141,7 @@ int main(void) {
     short    iVukdK2XRb;
 
 	float	nx6mpZ;
-	nx6mpZ	=	1869492774;
+
 	unsigned short int	MJw_DF9643;
 
     unsigned short int    eE1X655lI;

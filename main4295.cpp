@@ -345,7 +345,7 @@ do
 {
 try
 {
-q2N8I = F7T9Q ^ 367823453;
+
 }
 catch (int& errorCode)
 {

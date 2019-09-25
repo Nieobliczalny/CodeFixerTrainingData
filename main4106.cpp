@@ -114,7 +114,7 @@ case 1:
 zQ6PyY = au8N4CA_ << 711087282;
 break;
 case 2:
-rzP39z_2fn <<= 638363345;
+
 break;
 case 3:
 CD_M5436 = CD_M5436 - 1706007545;
@@ -154,7 +154,7 @@ TDz7 /= au8N4CA_;
 CD_M5436 /= bX_W_dX5S;
 if (eRr6p6 == 0)
 {
-	rzP39z_2fn = eRr6p6 / eRr6p6;
+
 }
 
 if (i5Ty)
@@ -254,7 +254,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-eRr6p6 = (int)abs(f8hP1);
+
 break;
 }
 {
@@ -266,7 +266,7 @@ for (int j = 2; j >= 0; j--)
 {
 if (VK3ZHy0 <= -2124205876)
 {
-eRr6p6 = (int)abs(f8hP1);
+
 }
 }
 }
@@ -324,7 +324,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-f8hP1 = P3Q__();
+
 break;
 case 'f':
 case 'F':

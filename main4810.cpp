@@ -116,7 +116,7 @@ int main() {
 	unsigned long long	FK2tV15_	=	824199751;
 	int	d_Np_4Y	=	0;
 
-P1SYc = (int)(hr6OH);
+
 
 try
 {
@@ -159,7 +159,7 @@ else if ((wHwI1E939f & -569358345) && ((ACbMo8cMcY & h4_o21Az) || (d_Np_4Y)))
 int k = 2;
 while (k >= 0)
 {
-yZ1k_c = KYzYK25Fx();
+
 k--;
 }
 }
@@ -214,7 +214,7 @@ case 'H':
 break;
 case 'i':
 case 'I':
-yZ1k_c = KYzYK25Fx();
+
 break;
 case 'j':
 case 'J':

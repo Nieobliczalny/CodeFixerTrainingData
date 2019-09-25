@@ -196,7 +196,7 @@ while (i < 8);
 }
 if ((BUrNB == -1127160031) || (i4ad4v00R > 1647259715))
 {
-VaQJLa = (unsigned char)(mVY2m);
+
 }
 else
 {
@@ -240,7 +240,7 @@ case 7:
 
 break;
 default:
-Y2J5346W_ = Nrmhyj(hv_ovT, F_Ug, CMQB);
+
 break;
 }
 

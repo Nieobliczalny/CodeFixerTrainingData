@@ -88,7 +88,7 @@ int main()
  long double j66xX4A9_l;
  j66xX4A9_l = 1977906824;
 	long	e68__oJFKN;
-	e68__oJFKN	=	725575928;
+
     short    Zl_ljC_;
 
     short int    Q4493J6;

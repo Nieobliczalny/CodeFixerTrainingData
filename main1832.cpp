@@ -237,7 +237,7 @@ std::cout << Zk2NSQ_87H << std::endl;
 
 
 
-d_m979Wq -= 658714514;
+
 try
 {
 Xf35Hq = Dt4U(CfYq, Xf35Hq, 1522784099);

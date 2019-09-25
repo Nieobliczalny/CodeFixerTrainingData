@@ -60,7 +60,7 @@ int main(int argc, char** argv) {
 	unsigned short int	OXhzDw;
 
  unsigned long long k3K39;
- k3K39 = 910970763;
+
  unsigned char qtKO00O7;
 
 	unsigned long long	J1I_iGMW;
@@ -94,7 +94,7 @@ int main(int argc, char** argv) {
   unsigned long  ALy4hk2S1;
 
     long long    tf2DJ_l8w;
-    tf2DJ_l8w    =    412100749;
+
  double X9CMLGD4l3;
 
   short int  M_c2J;
@@ -164,7 +164,7 @@ int main(int argc, char** argv) {
 	int	uW8f1V;
 
     long double    guDAlfk71K;
-    guDAlfk71K    =    -1496692153;
+
 	unsigned short	A64l79U;
 	A64l79U	=	-1969427741;
   short int  uM1xdl4uP;

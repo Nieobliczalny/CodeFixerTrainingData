@@ -118,7 +118,7 @@ catch (int& errorCode)
 iv4r = JApTyQ0V4v(-216250904, I2LQ6sL);
 }
 
-I6ia_ZE = (double)(Avo0KF27v);
+
 if (r5E7m4Y == g26WgqPEg)
 {
 std::cout << PDzr449M52 << wLF_9J(iv4r, I2LQ6sL) << JApTyQ0V4v(iv4r, 1983103111) << std::endl;

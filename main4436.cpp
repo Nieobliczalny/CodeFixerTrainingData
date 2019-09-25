@@ -72,7 +72,7 @@ int main(void) {
     long double    wWr__QwMKY;
 
 	int	E__OqG9RG;
-	E__OqG9RG	=	833836438;
+
   char  LfsUoQ;
   LfsUoQ  =  -2006190032;
   double  dwXSWa;
@@ -96,7 +96,7 @@ int main(void) {
     short int    Hw_ncd1Q1;
     Hw_ncd1Q1    =    -1290258847;
   float  YYV0kJ39B;
-  YYV0kJ39B  =  -1465843970;
+
   long  aO73zv1j2k;
 
  unsigned char SV5S5S;
@@ -206,7 +206,7 @@ int main(void) {
 	unsigned short int	oCND90G5;
 
     unsigned int    D_Ifz80t42;
-    D_Ifz80t42    =    386026660;
+
   unsigned long long  D624aExA7;
 
 	unsigned char	fhQdubq;
@@ -461,7 +461,7 @@ case 6:
 XzXNQkit2_ = ur2tU(k10c);
 break;
 case 7:
-YYV0kJ39B = sq76DK61c(1049266342, -799463757, -407414499, -2030230318, 1919869435);
+
 break;
 case 8:
 L6_w = (int)ceil(dwXSWa);
@@ -597,7 +597,7 @@ case 5:
 
 break;
 case 6:
-eVdf3u5Aj = (int)floor(Ln9fW7);
+
 break;
 default:
 

@@ -32,7 +32,7 @@ int main(int argc, char** argv) {
   int  Tdhblx;
   Tdhblx  =  1536072882;
     short int    C_P_32OXG;
-    C_P_32OXG    =    -82920536;
+
     short    sWNO9C;
     sWNO9C    =    2025799204;
     unsigned long long    Nlf79;
@@ -300,7 +300,7 @@ i++;
 }
 while (i < 10);
 }
-SvcCFJn = (char)(IWA86D7);
+
 
 switch (XFMV)
 {

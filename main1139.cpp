@@ -82,7 +82,7 @@ int main() {
 	ZshXX_	=	-760534980;
 
 	oGTC20JjV	=	-2116380059;
-	YQ6qaqPLb	=	1695349413;
+
 	IUMAcw0	=	-1871188828;
 	pOQEVa	=	-2006134477;
 	IGoZUCd	=	-61552867;
@@ -246,7 +246,7 @@ if (O4OI0chR > 910782464)
 {
 if (tGi2306 <= 1986480924)
 {
-O4OI0chR = (unsigned short)(rTSQMG9jc);
+
 }
 }
 if (wii9C2 >= 1920558124)

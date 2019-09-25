@@ -255,7 +255,7 @@ case 2:
 
 break;
 case 3:
-nr_0 /= W8Mt;
+
 break;
 case 4:
 
@@ -290,7 +290,7 @@ if (Dq_K <= GPRE)
 {
 for (int k = 0; k < 7; ++k)
 {
-A6e8xgv = (int)floor(px7o_9_);
+
 }
 }
 else
@@ -355,7 +355,7 @@ case 'c':
 
 break;
 case 'd':
-NLVuM2HdP8 += W_TQQMNV;
+
 break;
 case 'e':
 
@@ -390,7 +390,7 @@ case 2:
 
 break;
 case 3:
-Qil732 /= 333739909;
+
 break;
 case 4:
 
@@ -412,7 +412,7 @@ do
 switch (iiRM)
 {
 case 'a':
-zX8iULG51 = (int)abs(W8Mt);
+
 break;
 case 'b':
 
@@ -424,7 +424,7 @@ case 'd':
 
 break;
 default:
-o2RrH3nK = (int)ceil(gy_zv6W11);
+
 break;
 }
 j--;
@@ -438,7 +438,7 @@ while (j >= 0);
 
 
 
-VH3ZO7N5 /= FGLVd_buH;
+
 
 return 0;
 }

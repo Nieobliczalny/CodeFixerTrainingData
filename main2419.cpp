@@ -39,7 +39,7 @@ case 'c':
 
 break;
 case 'd':
-I4tu8ht = p2143(-242315854);
+
 break;
 default:
 

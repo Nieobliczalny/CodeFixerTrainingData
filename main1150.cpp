@@ -46,7 +46,7 @@ int main(void) {
   unsigned short  e9o51qmu;
 
 	unsigned long	o337mz2RTl;
-	o337mz2RTl	=	-821962857;
+
   unsigned short int  NqW0kM0_;
   NqW0kM0_  =  1014327646;
 	unsigned short	J5kr;
@@ -60,7 +60,7 @@ int main(void) {
  long double Jask9V5;
  Jask9V5 = -1185896421;
  unsigned char OmL1eck;
- OmL1eck = -799722215;
+
  unsigned short YL0HN;
 
  unsigned long A_Qp;
@@ -120,7 +120,7 @@ int main(void) {
   int  NdY5__a;
 
   long long  JzlAFCJ1W3;
-  JzlAFCJ1W3  =  -1235381272;
+
  short int n_bP;
  n_bP = -1909570440;
 	unsigned long	cVD48c;
@@ -216,7 +216,7 @@ int main(void) {
     unsigned int    U22STB5Dc;
 
     unsigned char    N5aMR_7;
-    N5aMR_7    =    1315200995;
+
   long  j2S7g;
   j2S7g  =  -1873510692;
 	unsigned long long	pV8bd5C;

@@ -129,7 +129,7 @@ case 'd':
 
 break;
 default:
-Z34_57d = zWpFO8qp(-1737881666, 1242513078);
+
 break;
 }
 try
@@ -143,7 +143,7 @@ eTDuj_bCn1 = XYtPM();
 
 
 
-wY32Wt09b = (float)(pPY79L_);
+
 
 try
 {

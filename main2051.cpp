@@ -83,7 +83,7 @@ if (K3_gNIw75J == A7_i)
 {
 ms4Nh52V1 = (double)(GZznOo_90);
 }
-f_dU6v03Y = bqR3_ / Jwt9U;
+
 switch (Jwt9U)
 {
 case 'a':

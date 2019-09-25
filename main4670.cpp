@@ -199,7 +199,7 @@ else
 }
 else if (fOE2e4ZW == -1885454470)
 {
-aUf4Dc = (int)ceil(nALHMx9);
+
 }
 else if ((j7m0_XC) && (Z_jw != bhze))
 {
@@ -362,7 +362,7 @@ else
 switch (M69O173p)
 {
 case 0:
-aUf4Dc = (int)floor(zV48xQIj);
+
 break;
 case 1:
 Eg1RZb6 = v9JFd4(Eg1RZb6);

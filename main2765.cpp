@@ -51,7 +51,7 @@ int main(int argc, char** argv)
 	unsigned long	BvE13OWP;
 
  long double g530v4U1RP;
- g530v4U1RP = 2097818854;
+
   unsigned short  flyHoYMc;
   flyHoYMc  =  -1754776137;
 	unsigned short	pDM51l;
@@ -103,7 +103,7 @@ int main(int argc, char** argv)
     long double    FjZj;
     FjZj    =    -486511336;
  char VRRrRL38Z;
- VRRrRL38Z = -801579381;
+
     long double    aUvqMS7zo;
 
     short int    wHVC4r;
@@ -143,7 +143,7 @@ int main(int argc, char** argv)
 	unsigned short	a4kO_f__hH;
 
 	char	t23k1uma;
-	t23k1uma	=	-663441458;
+
   double  h3pxX5;
   h3pxX5  =  -1803821653;
     unsigned long long    eQzkib3;
@@ -191,7 +191,7 @@ int main(int argc, char** argv)
 	short	s5_nXa;
 
   long double  XD4p;
-  XD4p  =  234074248;
+
  unsigned long long l8x8Po95y5;
 
  unsigned char Fk4A3ZA3U0;
@@ -439,7 +439,7 @@ if (M0_O > ChLIr6Xbvx)
 {
 for (int j = 0; j < 8; ++j)
 {
-Ta4A = (int)floor(h3pxX5);
+
 }
 }
 else

@@ -57,7 +57,7 @@ int main()
   B1i70  =  -691816980;
 
   VyPW1yL1  =  584776992;
-  dSEB216W7o  =  -1292394096;
+
 
   ENgD  =  1661743514;
 
@@ -72,7 +72,7 @@ int main()
   kH_jHE  =  -1762537933;
   n4o7  =  -1075530159;
 
-  GNPql_o  =  562180384;
+
   H5GjJ5Y02  =  77722503;
   TzoLYV  =  977373713;
 
@@ -84,7 +84,7 @@ int main()
   iW0_48L  =  -1292618274;
 
   OeM0_Ba  =  2097392934;
-  ePRZo1ht60  =  -904720903;
+
 
 
 {
@@ -363,7 +363,7 @@ case 'd':
 
 break;
 case 'e':
-GNPql_o = (int)abs(GN10);
+
 break;
 case 'f':
 

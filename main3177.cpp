@@ -377,7 +377,7 @@ case 2:
 t2x8Xb3Wz = (int)ceil(eoxp_s6Mh);
 break;
 case 3:
-Nb0f3 = SL1gfg(Nb0f3, ZaS_99r0A, mbF8r, t2x8Xb3Wz, 66504230);
+
 break;
 }
 }

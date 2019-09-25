@@ -29,7 +29,7 @@ int main(int argc, char** argv) {
 	int	JeEC2vH;
 	JeEC2vH	=	906449238;
     int    gjfy4;
-    gjfy4    =    -373941997;
+
   long  qSMC62_G_2;
 
  short int X416pB02DP;
@@ -149,7 +149,7 @@ int main(int argc, char** argv) {
 	double	H68Xh;
 
  long double PRvwKC8_n;
- PRvwKC8_n = -15315201;
+
 	unsigned int	B2_Y5_3x0;
 
  int KzFT2m;
@@ -187,7 +187,7 @@ int main(int argc, char** argv) {
 	unsigned long long	xO4827t;
 
     long    Ba_G;
-    Ba_G    =    -2010137309;
+
 	short int	VFBY9J2;
 
   unsigned short  sm696p1;
@@ -203,7 +203,7 @@ int main(int argc, char** argv) {
 	unsigned long long	VtcwcM7Gr;
 
  long long u84J04T5;
- u84J04T5 = -1553893407;
+
     long long    A059S;
     A059S    =    2145298533;
 
@@ -217,7 +217,7 @@ JeEC2vH = (lZa3_FdX >= M481FBXG) ? -1458207026 : nzUbNkCK();
 }
 
 
-Ba_G = (long)(bHe2043Sp);
+
 
 
 

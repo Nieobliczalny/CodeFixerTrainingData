@@ -169,7 +169,7 @@ case 1:
 
 break;
 case 2:
-G3m9 = QTKr74();
+
 break;
 case 3:
 YHKas_ = QTKr74() ^ iIXW2a4ba;
@@ -184,7 +184,7 @@ case 6:
 O1o2WGK5e = bSdAqJL_H << t5M5RlU4;
 break;
 case 7:
-gxT6f6e = YMPCc2 / NTkf;
+
 break;
 case 8:
 

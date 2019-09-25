@@ -134,7 +134,7 @@ int main(void)
 	long	hal_DE1p6;
 
  unsigned long long hPs8MfJv;
- hPs8MfJv = 1213177756;
+
   short  Pqs09o;
   Pqs09o  =  321569981;
 	long double	U0ykp_;

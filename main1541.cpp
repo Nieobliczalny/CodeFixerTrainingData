@@ -31,7 +31,7 @@ int main() {
     long long    Vx413o1z;
 
     short int    Q780hJ;
-    Q780hJ    =    -1752019225;
+
  long R9PhJ10hv;
  R9PhJ10hv = -1351006824;
  long long R4Y6e22;
@@ -63,7 +63,7 @@ int main() {
     short    WekM;
     WekM    =    -410666886;
  char jUHw9wEi09;
- jUHw9wEi09 = 1471092303;
+
   unsigned short  jZ6g8F9Z8;
   jZ6g8F9Z8  =  184781033;
     float    Go11OVU89;
@@ -87,7 +87,7 @@ int main() {
     unsigned short    le_1;
     le_1    =    1096421387;
  long double xLKr3KbB45;
- xLKr3KbB45 = 1030587705;
+
   char  X6SHSi2Te5;
   X6SHSi2Te5  =  1586787850;
     long double    CVSC;
@@ -228,7 +228,7 @@ case 'h':
 WekM--;
 break;
 case 'i':
-xLKr3KbB45 = (int)ceil(Go11OVU89);
+
 break;
 }
 --j;
@@ -307,7 +307,7 @@ OQvn = G01_66tY5(-853456452);
 switch (YUG3ENi)
 {
 case 0:
-xLKr3KbB45 = (int)ceil(xQ8YRGg);
+
 break;
 case 1:
 OQvn = G01_66tY5(-1575245699);

@@ -35,7 +35,7 @@ int main() {
   short int  o486T4;
 
     long double    km4SBqgL;
-    km4SBqgL    =    -943469303;
+
   unsigned long long  luFNp94o5p;
 
   unsigned short  Q04p;
@@ -53,7 +53,7 @@ int main() {
   long  WZAtgVt0;
 
  long double Fggl86p;
- Fggl86p = -416013499;
+
 	char	PGYx18Z0;
 
  unsigned long r_mQ9;
@@ -85,7 +85,7 @@ int main() {
     char    uo9bGb2;
 
  short int ek5C7o8;
- ek5C7o8 = 1579069458;
+
     long long    h7Mb6;
 
     double    z3_n;
@@ -106,7 +106,7 @@ case 'd':
 
 break;
 case 'e':
-Fggl86p = (int)abs(c5gc1G0);
+
 break;
 default:
 

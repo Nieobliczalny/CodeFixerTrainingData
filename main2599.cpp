@@ -707,7 +707,7 @@ else
 {
 grW8b--;
 }
-n21q = EH_5OkK3x / EAjGI47(n1bg6627, -1422164158, dKFjJsXf, -1966568233);
+
 if (S96a38 != -1509404328)
 {
 for (int j = 10; j >= 0; --j)
@@ -795,7 +795,7 @@ else if (((t24eo1 < V3_7y4C3K) && (QJQclT0P_ & J3Kg1)) && (p1rfIe <= HR7UbcZI3))
 }
 else if (((qDFNc5Z & 1337481834) || (m493IWvLf)) || (sSzwMc > HR7UbcZI3))
 {
-n21q = (int)abs(z58x);
+
 }
 else if (W3Bxbk > -330220434)
 {

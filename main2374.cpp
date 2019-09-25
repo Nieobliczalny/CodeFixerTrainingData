@@ -120,7 +120,7 @@ YCnbl5s8J = (int)floor(OvC1jv);
 break;
 case 'b':
 case 'B':
-Vr4gP1S = TckctaQp5(-207628801, H05Egh3, Az6TTh_5);
+
 break;
 case 'c':
 case 'C':
@@ -286,7 +286,7 @@ case 2:
 
 break;
 case 3:
-Vr4gP1S = (int)abs(OvC1jv);
+
 break;
 case 4:
 Az6TTh_5 = P9C8py_C >> 96098759;

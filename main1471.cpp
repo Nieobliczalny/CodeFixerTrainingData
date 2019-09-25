@@ -40,7 +40,7 @@ int main(void) {
  AHN3ID = -151377478;
  IgpQ2N9Hj6 = 499578458;
 
- cop_5LCm = 772307609;
+
  y5TYx1b_k = 497336560;
  OG2iWRCok = -17017242;
  Ur5ZMP = -818012081;
@@ -57,7 +57,7 @@ int main(void) {
  d0cCaGE = 1805363962;
  ND4B_k = 1405182199;
  cGOeu = -1387794363;
- sKGJTcV0 = 761042439;
+
  BSv09J = -651352316;
  i52EV = -51802869;
 
@@ -176,7 +176,7 @@ case 8:
 
 break;
 default:
-OG2iWRCok -= 1723022228;
+
 break;
 }
 }

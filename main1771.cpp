@@ -450,7 +450,7 @@ agbEa0ak--;
 break;
 case 'b':
 case 'B':
-tF2T = (int)abs(Q679bP);
+
 break;
 case 'c':
 case 'C':
@@ -462,7 +462,7 @@ L0948 = KkH7();
 break;
 case 'e':
 case 'E':
-tF2T &= 1450001058;
+
 break;
 case 'f':
 case 'F':

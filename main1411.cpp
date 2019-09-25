@@ -215,7 +215,7 @@ w3890NU ^= RT_y7;
 switch (k_QY)
 {
 case 0:
-XQ5d = ttgG(XQ5d);
+
 break;
 case 1:
 

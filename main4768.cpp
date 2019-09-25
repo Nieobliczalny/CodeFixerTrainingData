@@ -13,7 +13,7 @@ int main(void) {
   short  YdXZTrbu0,  e78V4sDDGc,  YN522q,  j_Cno7MGfy,  YgjVZF5;
 
 
-  YN522q  =  0;
+
 
   YgjVZF5  =  0;
   unsigned int  cPv50x_6bC,  w4Kw10Q1g3,  HZ2qB,  F3JHd42c3,  Jf8Q5,  LEmXpFG2G5,  z338XS,  rj5UA,  B8inXf3H1,  XL_Jj51_cH,  KIQA7E,  nM3Wzz,  yhJyq2vmp,  bgJrm,  O9_4,  z6A8i56P,  Od666c2o,  Cx2rO,  IbRzUXpnW,  TE_cAG_E,  wiD_h06,  O6_y0b4_9,  OW_n,  B2b2,  UlUN8KzNSr,  VG15Rf2_,  k5ashf8f1,  PT_R1,  g3fpM87m,  vuF3,  g_w_6,  tCy29wLV,  WMds3,  n84h2,  Z3XUF12Jx,  N54LQo6LA,  vi0JQF,  jx5te1M,  NLilu7dy6,  B7R46zr1U4,  ls__,  CH6pCZg,  ltb6X4Td,  hDD03,  WPRvnV_,  Mk9Ta5,  t2e_8,  mR8Lu,  mjDF3MTa,  tXJD59vW,  SX16dgo35,  wT0i9,  oT4RR00h21,  uDVYW2nX,  D0OTd_7zF,  TKeohpve63,  y7zN,  HW96bcnl6e,  bJlBj39K,  l0ittP,  j2_45,  IH0y2X,  zIb2,  Jv5U8,  U_S4E,  N7_u6F1,  s_5LO,  Zu25h_vAz,  V6cOmyx,  TaL5Oy_V8,  UB11SKAJfa,  sJUQWLBt,  yAR3Q,  EaGCEe,  apcaxBh7,  W6z5xDV5,  k5v4k,  OeRXmXRi,  UY3_0By_,  LJdzOgD,  LE5TgRI1aK,  ct7D,  T63_RZ,  Hbb_mC,  s81BWx,  RVxIix,  o0Wsuz_z,  haP0iWi_,  q5NLt,  h_3EdYw8,  z_1b4O_Aee,  w1PH1;
@@ -25,7 +25,7 @@ int main(void) {
   LEmXpFG2G5  =  619886303;
 
 
-  B8inXf3H1  =  53595795;
+
   XL_Jj51_cH  =  1282123951;
 
   nM3Wzz  =  -1364257259;
@@ -36,7 +36,7 @@ int main(void) {
   Od666c2o  =  -451424327;
 
 
-  TE_cAG_E  =  1559275200;
+
 
   O6_y0b4_9  =  -1234588792;
   OW_n  =  -1103294806;
@@ -48,7 +48,7 @@ int main(void) {
 
 
 
-  tCy29wLV  =  913863960;
+
   WMds3  =  1046823041;
   n84h2  =  1194351662;
   Z3XUF12Jx  =  -1631641288;
@@ -59,7 +59,7 @@ int main(void) {
 
 
   CH6pCZg  =  -1955810587;
-  ltb6X4Td  =  -165480093;
+
   hDD03  =  1794978294;
   WPRvnV_  =  1655459000;
 
@@ -69,7 +69,7 @@ int main(void) {
 
 
   wT0i9  =  -269739061;
-  oT4RR00h21  =  622595278;
+
   uDVYW2nX  =  5941356;
   D0OTd_7zF  =  -800621941;
 
@@ -79,7 +79,7 @@ int main(void) {
 
 
   IH0y2X  =  -715091886;
-  zIb2  =  2012184581;
+
   Jv5U8  =  -770798993;
   U_S4E  =  2009640121;
   N7_u6F1  =  1702175048;
@@ -89,7 +89,7 @@ int main(void) {
   TaL5Oy_V8  =  -1718531281;
 
 
-  yAR3Q  =  473352510;
+
   EaGCEe  =  1599006979;
   apcaxBh7  =  860476599;
   W6z5xDV5  =  -1648171315;
@@ -101,7 +101,7 @@ int main(void) {
 
   T63_RZ  =  -762769941;
 
-  s81BWx  =  -1551303312;
+
   RVxIix  =  588454667;
   o0Wsuz_z  =  -1097864085;
 

@@ -40,7 +40,7 @@ cout << Ddnn << FbHO_K << "V6ylLP" << TcczWMCqBT << endl;
 }
 else
 {
-mWnEmdk = o2WPF49R - 1503114411;
+
 }
 }
 
@@ -105,7 +105,7 @@ int k = 5;
 do
 {
 --k;
-FbHO_K = aKq1maq7Q & 158152574;
+
 }
 while (k >= 0);
 }

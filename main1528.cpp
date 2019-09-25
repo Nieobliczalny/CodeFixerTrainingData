@@ -126,7 +126,7 @@ case 5:
 
 break;
 case 6:
-X6qGw8Nd = (int)abs(bT6C78w);
+
 break;
 case 7:
 

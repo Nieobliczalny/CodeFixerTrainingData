@@ -43,7 +43,7 @@ if (vF7YKUw5u < 2114546317)
 while (i < 2);
 }
 
-xFy0AhI = (int)ceil(dASXW2E);
+
 
 {
 int i = 0;
@@ -514,7 +514,7 @@ case 1:
 vF7YKUw5u = vc7fNS_oG(2001832972, 1011740881);
 break;
 case 2:
-LWD_eF = e_RdpMxl();
+
 break;
 case 3:
 vnZwt = X8khYkv4_9(-317097471, -1020565801, gkd03, K25e7Oo6);

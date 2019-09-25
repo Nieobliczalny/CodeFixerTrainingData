@@ -70,7 +70,7 @@ int main(int argc, char** argv)
 	unsigned int	XNOPSl;
 	XNOPSl	=	1114557102;
     int    Zk0Z;
-    Zk0Z    =    415795739;
+
  short aj251nsI;
  aj251nsI = -475140388;
   long  ZUmw18glL3;

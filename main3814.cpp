@@ -144,7 +144,7 @@ while (j >= 0)
 switch (korX2uc0q7)
 {
 case 0:
-FCej59T9OH = kXLcT * 396155021;
+
 break;
 case 1:
 r0o0r = u1mnb(r0o0r);
@@ -301,7 +301,7 @@ case 1:
 o801X6 = my5D6L7w(o801X6, V0IM3J637C);
 break;
 case 2:
-FCej59T9OH = my5D6L7w(-819441005, 1813663400);
+
 break;
 default:
 
@@ -319,7 +319,7 @@ try
 int k = 2;
 while (k >= 0)
 {
-FCej59T9OH = (int)floor(hH9013d6N);
+
 --k;
 }
 }
@@ -395,7 +395,7 @@ if (kQ6vHWpHA < bdG8j66s)
 {
 for (int k = 0; k < 6; ++k)
 {
-FCej59T9OH = my5D6L7w(-1737878864, vH08dL4);
+
 }
 }
 else

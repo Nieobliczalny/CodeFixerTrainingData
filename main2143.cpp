@@ -262,7 +262,7 @@ v_E8ORrAO = oR2KO2C6();
 break;
 case 'j':
 case 'J':
-PX3FmKE2 %= DBNxsl;
+
 break;
 }
 }
@@ -545,7 +545,7 @@ case 3:
 L9NCZ9--;
 break;
 case 4:
-e87XTrzgl = Tva46n >> 1551298278;
+
 break;
 }
 {

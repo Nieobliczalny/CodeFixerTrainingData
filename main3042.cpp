@@ -35,7 +35,7 @@ int main()
  unsigned short int yCb6SD;
 
  unsigned long long VtKb;
- VtKb = 0;
+
     long double    ugG1;
 
 	int	kgi6HYj_W;
@@ -97,7 +97,7 @@ int main()
   unsigned int  Rlatj;
 
   int  XEa2I;
-  XEa2I  =  1923666213;
+
   double  hG5Z;
   hG5Z  =  -143612152;
 	long long	T4D7v;
@@ -155,7 +155,7 @@ int main()
 	long	cwCQ579;
 	cwCQ579	=	474214607;
 	unsigned short int	Jhn6c5F4;
-	Jhn6c5F4	=	651303277;
+
  unsigned int lyI7;
  lyI7 = 866127957;
   unsigned short int  m8_pG0GS1;
@@ -185,7 +185,7 @@ int main()
  char dzq5;
 
 	long double	bSR79LVnn1;
-	bSR79LVnn1	=	1724397260;
+
   double  T35G35a;
   T35G35a  =  2072247065;
  long m64m;

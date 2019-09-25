@@ -26,7 +26,7 @@ int main() {
  unsigned int SX7ca8;
 
  unsigned long long i6d3k6;
- i6d3k6 = -1996589624;
+
  unsigned char F7CdpPyX;
 
     short    JvmvW;
@@ -54,7 +54,7 @@ int main() {
     short int    zkX_f45_a;
 
 	unsigned long long	ipt4;
-	ipt4	=	1388240404;
+
 	float	O2wIwZD;
 
 	long	zGY_FeirV;
@@ -72,7 +72,7 @@ int main() {
     double    UsAfJ587;
 
     short int    OHHG_0;
-    OHHG_0    =    -1791055320;
+
     float    O3Pl;
 
   unsigned short  qhwz03_oxl;
@@ -100,7 +100,7 @@ int main() {
   long long  ky9x8;
 
  float rU80;
- rU80 = 478070368;
+
     long    Xs8VID;
 
 	unsigned long long	ikKYN1n4_;
@@ -140,7 +140,7 @@ int main() {
   unsigned int  Y300lrP;
 
  double thkH69TC_i;
- thkH69TC_i = 198292785;
+
   long double  wSXXo7;
   wSXXo7  =  1917163272;
   long long  Ucg0X3WCu;

@@ -46,7 +46,7 @@ int main(int argc, char** argv)
     U66uQGu40l    =    -1010150594;
     Je37DrWr    =    -178502386;
 
-    lqd04    =    -1242314590;
+
 
 
     vYyu    =    1360125670;
@@ -71,7 +71,7 @@ int main(int argc, char** argv)
     x9966SP6_S    =    -281371729;
     VimA    =    1648808557;
     d4oA2H4XDs    =    -500903080;
-    fcwyF_    =    1148748312;
+
     Y9Nso9g1    =    -520996004;
     jAodI3vba    =    -1863144079;
 
@@ -199,7 +199,7 @@ while (k >= 0);
 }
 while (i < 1);
 }
-l22yF4Z9 = (int)abs(dBg0);
+
 
 if (m33Ay4DU & 1748117946)
 {

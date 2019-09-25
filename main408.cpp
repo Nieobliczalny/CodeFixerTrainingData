@@ -130,7 +130,7 @@ int main(void) {
     unsigned int    x1Wbo2Z1WU;
 
   double  g5zjJdCHK2;
-  g5zjJdCHK2  =  1499870433;
+
 	unsigned long long	wWlyh1QjK;
 	wWlyh1QjK	=	-904844287;
  long z13x9;
@@ -150,7 +150,7 @@ int main(void) {
   long  Ajq1QCAO1;
   Ajq1QCAO1  =  895669777;
  long long K92Cffx;
- K92Cffx = -1918540221;
+
   unsigned long  U0ZKrW;
   U0ZKrW  =  -2094502073;
   unsigned short int  I4SL9B;
@@ -331,7 +331,7 @@ h5q_4qz = U0ZKrW * wWlyh1QjK;
 
 if (Ucq2Aks9X_)
 {
-skc5_3 = (int)abs(L6547HMrZ);
+
 }
 else if (dBaV)
 {

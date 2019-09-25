@@ -22,7 +22,7 @@ int main(int argc, char** argv)
   // codechecker_intentional [deadcode.DeadStores] Design rule - initialize all variables
   D2v3b2S = C_NL942 = 0;
 
-nJnM |= 696989356;
+
 
 {
 int i = 1;
@@ -52,7 +52,7 @@ std::cout << "W5e34v" << bPC1p3 << "cCNC52r51s" << "q8631A" << std::endl;
 
 for (int i = 0; i < 5; i++)
 {
-Xhx4 = (unsigned long)(l_O3);
+
 }
 if (ioYjQgO == c9VBG5)
 {
@@ -230,7 +230,7 @@ case 'c':
 
 break;
 case 'd':
-D2v3b2S = eARme();
+
 break;
 case 'e':
 C_NL942 = eARme();

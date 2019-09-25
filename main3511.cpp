@@ -66,7 +66,7 @@ case 'F':
 break;
 case 'g':
 case 'G':
-x7Nz6z8 |= 1127870927;
+
 break;
 case 'h':
 case 'H':
@@ -114,7 +114,7 @@ yUBG335 /= 73634543;
 }
 else
 {
-DV_Hk = (O2PzD != -569328216) ? lte_ : -1627516617;
+
 }
 }
 catch (int& errorCode)

@@ -363,7 +363,7 @@ case 0:
 hFQ887 = k6BDqKq >> kT8p9;
 break;
 case 1:
-k6BDqKq = J56001Ni_m + 1160459340;
+
 break;
 case 2:
 
@@ -375,7 +375,7 @@ case 4:
 
 break;
 case 5:
-tTCbUJdB32 -= 500100625;
+
 break;
 case 6:
 

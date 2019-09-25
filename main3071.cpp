@@ -32,7 +32,7 @@ int main(int argc, char** argv)
 	TTPIxZ	=	0;
 	WY9_1Lc68	=	0;
   float  iz23I,  VwwaU,  r3lRh4ZTS,  EojyvNK_13,  L0lfnI7L,  w1nIh30,  o0Ia,  BtpPN,  ASL_5DD,  hHj5r,  n9MMJ4S3p,  ta9H,  cfuJp,  ZGw0JZGUQ,  v4Ex10zGO5,  mq7HIK,  cCryZ,  AP4AAyL,  I3bm_R5,  GrLK,  a_39G56Gv,  jZ8vb,  Sje4b_5,  yE70t_82FD,  THUqUQ,  rXnO,  o3Af,  frp9pHmA,  uk16O1,  XhA176vk;
-  iz23I  =  1301376824;
+
 
   r3lRh4ZTS  =  649990031;
   EojyvNK_13  =  1724560440;
@@ -47,7 +47,7 @@ int main(int argc, char** argv)
   cfuJp  =  1194275310;
 
   v4Ex10zGO5  =  967953141;
-  mq7HIK  =  -1263024144;
+
   cCryZ  =  -1113953832;
   AP4AAyL  =  971085565;
   I3bm_R5  =  -507254780;
@@ -162,7 +162,7 @@ int k = 0;
 while (k < 5)
 {
 k++;
-mq7HIK = (int)abs(frp9pHmA);
+
 }
 }
 }

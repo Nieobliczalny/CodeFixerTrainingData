@@ -45,7 +45,7 @@ int main()
  unsigned short int cPFV;
 
  char w5S1vrnU2o;
- w5S1vrnU2o = -1056384037;
+
  float IhkA;
  IhkA = 357284458;
 	unsigned short	PLOP2Jq4;
@@ -81,7 +81,7 @@ int main()
   unsigned long  dE942CEF08;
 
   char  g1o9K_Veo;
-  g1o9K_Veo  =  -1016208365;
+
   long long  schGr;
 
  long long F7FX;
@@ -115,7 +115,7 @@ case 'c':
 y2gvdH1w0 = qP6t5lc1(y2gvdH1w0, -914414414, udiFw0d6VI);
 break;
 case 'd':
-EiH5 = (int)ceil(IhkA);
+
 break;
 case 'e':
 

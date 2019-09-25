@@ -59,7 +59,7 @@ gWJ82E = l7Ut - 1193360238;
 switch (qiKI)
 {
 case 0:
-sNuR = M2pxr5X4it(-2044927222, 1342242454, -1896501784, Q0N13, -1803673198);
+
 break;
 case 1:
 Tm1t7_83 = (int)abs(gWJ82E);
@@ -128,7 +128,7 @@ case 3:
 
 break;
 case 4:
-J23VZ8n6C = gId0uW_vyD(966720292, K4vT2172, -799863160);
+
 break;
 case 5:
 X_0M33nY6 = M2pxr5X4it(X_0M33nY6, 1186872531, 1437231680, -732923197, -1998087575);

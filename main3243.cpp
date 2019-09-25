@@ -99,7 +99,7 @@ cout << A3U4p6() << "x7mXnR8" << W785X << S10RO << endl;
 
 
 
-N2P33RX = (char)(ZYkc * N2P33RX);
+
 
 uX301Ihs = (int)ceil(y4a715);
 

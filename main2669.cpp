@@ -255,7 +255,7 @@ else
 cout << PsI0BEx << gaD50OM(U9EQ) << "RR9M" << "oJCc" << gaD50OM(U9EQ) << endl;
 }
 
-Pv5nxjV5i8 = (long long)(W4NK118kJR);
+
 
 FZYnk = x51Yh - FZYnk;
 {

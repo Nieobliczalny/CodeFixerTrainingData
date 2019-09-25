@@ -609,7 +609,7 @@ case 4:
 
 break;
 case 5:
-u5Inp = (int)abs(G255i);
+
 break;
 }
 }

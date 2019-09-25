@@ -57,7 +57,7 @@ int main(int argc, char** argv) {
   long double  y160;
 
  unsigned char QM266_h9;
- QM266_h9 = 139394730;
+
     char    QWS79D7B;
     QWS79D7B    =    -235209063;
     unsigned long    VKCr;
@@ -313,7 +313,7 @@ while (j < 8);
 }
 }
 
-u9GF7Q *= 163143406;
+
 Af5ST = v6zV_Zqpte(hM7fd8DVJ, nRT9579CF, Q6d3p);
 for (int i = 0; i < 9; ++i)
 {
@@ -330,7 +330,7 @@ switch (QWS79D7B)
 {
 case 'a':
 case 'A':
-Af5ST = v6zV_Zqpte(404788363, tbHZ8o, W2R2cU);
+
 break;
 case 'b':
 case 'B':
@@ -421,7 +421,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-Af5ST = v6zV_Zqpte(-178324597, -44899012, 1325536027);
+
 break;
 case 'e':
 case 'E':

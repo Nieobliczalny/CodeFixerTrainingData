@@ -69,7 +69,7 @@ int main(int argc, char** argv)
   unsigned short  doeAHzo0z;
   doeAHzo0z  =  523939149;
 	long double	IZ1nWGnPOl;
-	IZ1nWGnPOl	=	427053073;
+
  unsigned short int I68m_Lh;
 
  double au0OH5HG1w;

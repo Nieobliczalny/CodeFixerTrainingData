@@ -52,7 +52,7 @@ int main() {
  long double z2fMc9Ab;
 
   unsigned int  WNyM;
-  WNyM  =  -771310552;
+
  long long vUhPLg3xl;
 
     short    lLHK;
@@ -359,7 +359,7 @@ case 5:
 g5aaK2 = (int)abs(Ie6H1te);
 break;
 case 6:
-jmlkpArBc = (int)floor(AOiDo);
+
 break;
 default:
 

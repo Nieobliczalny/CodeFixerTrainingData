@@ -27,7 +27,7 @@ int main(void)
     unsigned short int    VIbb;
     VIbb    =    -1121388555;
   unsigned short int  h6E74Fk;
-  h6E74Fk  =  -251351602;
+
     unsigned long    iXHX4nJ;
     iXHX4nJ    =    454480617;
  unsigned int BZ5hgCO0;
@@ -57,7 +57,7 @@ int main(void)
     short    itB0lU0;
 
   float  b1L7Jai8Fm;
-  b1L7Jai8Fm  =  2076768433;
+
   unsigned long  Y4aVzt;
 
   long  YU7n3;

@@ -294,7 +294,7 @@ std::cout << khmf2(CYer30BqHd, Y568, yFweC25Y_r) << "V57Xbx" << "aK7k" << "C5f8"
 
 std::cout << "m141qqZ8Q" << m93r__G << "W6gRJG" << "xR14bq4dL" << XJWmbQrmJR << std::endl;
 
-O2f3 = nqX8Hr / 1444799689;
+
 
 
 

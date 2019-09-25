@@ -77,7 +77,7 @@ int main() {
 	short int	tZQ8;
 	tZQ8	=	747298471;
  short aExrb13pm;
- aExrb13pm = -627273766;
+
     unsigned int    aYk_F3;
 
  unsigned long long jLVT1zUkJq;
@@ -129,7 +129,7 @@ int main() {
  unsigned long PRThDIh15;
  PRThDIh15 = 783638739;
     short int    a497160_;
-    a497160_    =    682156879;
+
     unsigned short    JEEixAhSmn;
     JEEixAhSmn    =    -1790315127;
     long double    MXnm5;
@@ -590,7 +590,7 @@ case 'd':
 
 break;
 case 'e':
-b_24 = (int)floor(hL_KGvz);
+
 break;
 case 'f':
 

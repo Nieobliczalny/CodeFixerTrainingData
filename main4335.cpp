@@ -132,7 +132,7 @@ int main(void) {
 	unsigned long	Gst2u;
 	Gst2u	=	-2147184919;
   unsigned long  D_L7;
-  D_L7  =  1441736410;
+
 	float	LDu62B;
 	LDu62B	=	844378344;
   unsigned int  TQ84YZirjD;

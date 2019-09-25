@@ -65,7 +65,7 @@ int main()
 	char	T9xwl2P06;
 
 	float	c76R5Sx;
-	c76R5Sx	=	1622629510;
+
 	int	gFg0bfa22;
 
     float    Vj_T;

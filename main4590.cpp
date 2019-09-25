@@ -49,7 +49,7 @@ int main(int argc, char** argv) {
  long hOG99iK;
 
   unsigned short int  J_We18;
-  J_We18  =  72239442;
+
     unsigned long long    h9ky1j9Te;
 
  unsigned char A75Gk7;
@@ -69,7 +69,7 @@ int main(int argc, char** argv) {
   unsigned int  SxKk3QLva7;
 
 	float	gITEoDnr;
-	gITEoDnr	=	-1617017324;
+
  unsigned long N261;
  N261 = 1489280730;
     unsigned int    YANdJ97;
@@ -147,7 +147,7 @@ int main(int argc, char** argv) {
     short int    G8Jt3CP;
 
  unsigned short int gSE46;
- gSE46 = 1970523882;
+
  double zXjkoxR0V;
  zXjkoxR0V = -1929926182;
     unsigned short    Qp6AyPwH;
@@ -185,7 +185,7 @@ int main(int argc, char** argv) {
   unsigned char  DDx5;
   DDx5  =  439651366;
   long double  P2nd1;
-  P2nd1  =  -1564733262;
+
 	unsigned short	wH8zhT;
 
 	int	rrDT91I3C;

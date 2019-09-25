@@ -77,7 +77,7 @@ ZBCg6 = WY_vMb(1090994063);
 }
 else if (G402Xj > zkFOo0J)
 {
-b_9986_ = (char)(zhvE7_);
+
 }
 else if (BS2__0S8rh >= t0BLlmTvy)
 {
@@ -257,7 +257,7 @@ case 'c':
 qeN6nH = Dk_JsbO | 1099745702;
 break;
 case 'd':
-b_9986_ = (int)abs(gjQyUp1);
+
 break;
 case 'e':
 t0BLlmTvy = I086e | 416396001;

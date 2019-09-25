@@ -103,7 +103,7 @@ int main(void)
   unsigned int  X9q7;
 
   short int  bWwq;
-  bWwq  =  0;
+
  float N3T1LO4;
 
  double HoE5nymv;

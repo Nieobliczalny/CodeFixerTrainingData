@@ -64,7 +64,7 @@ int main(int argc, char** argv) {
   char  B6RMz;
 
  unsigned int Vwwx1bn;
- Vwwx1bn = -1109553523;
+
   long  iGAkpq1LY;
 
     unsigned long long    pQ5210kQ;
@@ -135,7 +135,7 @@ int main(int argc, char** argv) {
 I0mk = fMqaV6765H << 81888123;
 
 
-ie7MIdu = (int)floor(i_k948);
+
 
 switch (SHGj4r163)
 {
@@ -211,7 +211,7 @@ if ((fMqaV6765H & U4IM) || (ipLt < v4i3))
 {
 for (int k = 5; k >= 0; k--)
 {
-Vwwx1bn = v4i3 | FX1l47VXe;
+
 }
 }
 else if (x4m4z8 > KOK72)

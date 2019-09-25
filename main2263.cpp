@@ -143,7 +143,7 @@ case 3:
 
 break;
 case 4:
-BU9Bt0e += u9BQ_FO217;
+
 break;
 case 5:
 NV90_8W57S %= EDf4T;
@@ -221,7 +221,7 @@ break;
 
 if (YsrrsT == 210691421)
 {
-mYZA /= 1540759894;
+
 }
 else if (JRrKp9Ub2 >= -787071017)
 {
@@ -281,7 +281,7 @@ case 'c':
 
 break;
 case 'd':
-JfbXN = EDf4T << Go_sY;
+
 break;
 case 'e':
 
@@ -293,7 +293,7 @@ case 'g':
 
 break;
 case 'h':
-mE4Dz *= Nm9h;
+
 break;
 default:
 

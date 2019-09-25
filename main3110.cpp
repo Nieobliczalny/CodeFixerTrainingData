@@ -47,7 +47,7 @@ int main(int argc, char** argv)
   E691  =  -151609019;
 
 
-  S0X8i  =  -2088247839;
+
   v19RumaeI  =  462408851;
   ZE23qp  =  -673237805;
   vEb_2_m  =  1203906841;

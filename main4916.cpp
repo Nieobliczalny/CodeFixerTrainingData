@@ -47,7 +47,7 @@ int main(void)
  double zd02;
 
  unsigned char l_64D08;
- l_64D08 = 776838985;
+
  unsigned char M_6LI;
  M_6LI = 1992361024;
   long long  e0i331;
@@ -59,7 +59,7 @@ int main(void)
   long  rA3P9Eu91;
   rA3P9Eu91  =  0;
  long R_Af_M3;
- R_Af_M3 = 700083314;
+
 	unsigned short	x_6euM;
 	x_6euM	=	28712410;
     short int    k55Ig1m;
@@ -71,7 +71,7 @@ int main(void)
  long f2DxA_Uj;
 
   long double  WWTho;
-  WWTho  =  540266234;
+
 	unsigned short int	yV6Zb6YMJ;
 	yV6Zb6YMJ	=	1953932339;
  char DKDrLu6;
@@ -95,7 +95,7 @@ int main(void)
     short int    ujI8ur_;
     ujI8ur_    =    -877628664;
 	unsigned int	jQdg1;
-	jQdg1	=	-194275091;
+
 	unsigned char	f_9y1EP;
 	f_9y1EP	=	2089673069;
     char    ZKObkH92;
@@ -146,7 +146,7 @@ case 0:
 DKDrLu6 = (int)abs(Y0jT3Goj_) + (-256419248);
 break;
 case 1:
-ZKObkH92 += 533820032;
+
 break;
 case 2:
 

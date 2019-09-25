@@ -213,7 +213,7 @@ j++;
 int i = 0;
 while (i < 5)
 {
-drgSE = (unsigned short)(v22rzI9);
+
 i++;
 }
 }

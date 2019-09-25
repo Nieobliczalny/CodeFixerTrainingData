@@ -63,7 +63,7 @@ int main(void)
     bapg28c2    =    -2062017403;
     V3fVRx    =    1895667146;
     y9m7Iz4p6    =    -2078329307;
-    NY_2x8a    =    1593176064;
+
     o9SZ7AfcX0    =    -1134857826;
     jq2UQ2Pkk    =    -146479701;
     bSn7J    =    -1032906889;
@@ -523,7 +523,7 @@ int k = 0;
 do
 {
 k++;
-Xl_kyv0 = Ov7Ca_5GG8(-1596103407, s3_Ppuzuye, -280084380, Qjg9rF0_tC, e_it_9i21);
+
 }
 while (k < 7);
 }

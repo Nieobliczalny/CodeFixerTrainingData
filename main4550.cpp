@@ -104,7 +104,7 @@ int main()
     U_IDKp1Hl    =    2041779505;
     Jn08    =    -36898636;
 
-    z5_3963APY    =    500531992;
+
     kLSBBYJ5pK    =    1966061159;
     MAl2H0LJz9    =    1283266525;
     gi6GaB_572    =    -782345088;
@@ -266,7 +266,7 @@ ieb6nyLz = Dy2CU();
 }
 else if (Vp1C0v5qQ5)
 {
-u6i8BN7tqM <<= iQNphFmq1;
+
 }
 else
 {

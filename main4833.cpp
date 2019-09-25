@@ -127,7 +127,7 @@ int main() {
  unsigned char juKL;
 
   char  e_t65d2Ue;
-  e_t65d2Ue  =  -119735717;
+
     long long    Eu3b;
     Eu3b    =    440916482;
     unsigned char    a9U_Uk5T;

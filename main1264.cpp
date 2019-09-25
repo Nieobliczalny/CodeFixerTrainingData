@@ -200,7 +200,7 @@ Bsbks1 = p2H30();
 break;
 }
 
-SIN6Z = (long)(NiFKn);
+
 try
 {
 std::cout << "V_K879I7" << "RcPT4y58" << Bs_N0p1Fu << "ChC3t3" << std::endl;

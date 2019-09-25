@@ -45,7 +45,7 @@ int main(int argc, char** argv)
  char v3S_;
 
 	short	gg37DPPz;
-	gg37DPPz	=	2003411124;
+
 	float	U6_w8s;
 
   long  HICD_tZjhc;
@@ -65,7 +65,7 @@ int main(int argc, char** argv)
   double  HowbAF;
 
   unsigned int  Wk0SA9f;
-  Wk0SA9f  =  1493685197;
+
  long fB16;
 
   long  RtX6im;
@@ -75,7 +75,7 @@ int main(int argc, char** argv)
 	short	RHTV3c;
 
     char    zik4F0;
-    zik4F0    =    1046895932;
+
     unsigned short int    e4Vyw0266;
     e4Vyw0266    =    -1419473113;
     long double    BCT8FaBYiH;
@@ -109,7 +109,7 @@ int main(int argc, char** argv)
  unsigned char NEW393P5G;
 
 	int	m4MAbNryu_;
-	m4MAbNryu_	=	300094316;
+
     unsigned short    TJ8h;
     TJ8h    =    194187944;
     char    vgSiZ5;

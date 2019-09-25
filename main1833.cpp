@@ -63,7 +63,7 @@ int main() {
 
     PkTB    =    -957898582;
     Qo0_RMa_g7    =    2017732138;
-    ARdpjtKE    =    1016472900;
+
     TZEo9k    =    760460174;
     ZbAUpQ59    =    -1785680775;
     qzo2v    =    -569696442;
@@ -90,7 +90,7 @@ int main() {
     T1fYeR    =    -813766621;
     JdU4n9    =    -1145458540;
 
-    JzbhBk3B    =    1763606361;
+
     z0IcNaoCjp    =    -1574366418;
     short int    dbHfdRwi,    L0HM5s72l,    Cg_E8,    sq6q_k;
     dbHfdRwi    =    0;

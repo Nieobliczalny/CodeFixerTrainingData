@@ -65,7 +65,7 @@ int main(int argc, char** argv) {
   unsigned short  Ue40BNGf8G;
 
   long long  jb_7T;
-  jb_7T  =  -455322592;
+
  long double IbU3Q;
  IbU3Q = 539530917;
   long  kNZt;
@@ -105,7 +105,7 @@ int main(int argc, char** argv) {
 	float	GzZDkoa8;
 
   unsigned short  QXB8fx;
-  QXB8fx  =  897257684;
+
  long long l7ZL5R_bgc;
  l7ZL5R_bgc = 671648604;
  double IjUJo;

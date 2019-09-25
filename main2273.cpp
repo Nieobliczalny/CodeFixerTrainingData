@@ -50,7 +50,7 @@ case 2:
 
 break;
 case 3:
-dP5PQk9 = xRhLvx7OW(a78Pd1wrtG, AG35u, 649913777, K2UbI) & 1145517045;
+
 break;
 case 4:
 a78Pd1wrtG++;
@@ -87,7 +87,7 @@ case 0:
 
 break;
 case 1:
-YUw6LG0m = xgVc6N_jc(HG23TcS, T1Ra0_d, x_Uhn9A6, l56o);
+
 break;
 }
 return 0;

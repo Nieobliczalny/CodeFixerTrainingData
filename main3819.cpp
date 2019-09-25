@@ -267,7 +267,7 @@ case 1:
 ZURzs = (int)floor(WRoyIw4);
 break;
 case 2:
-BWZX = N_wH1kqg % 673784936;
+
 break;
 case 3:
 ZURzs = (int)floor(OJRHk45T);

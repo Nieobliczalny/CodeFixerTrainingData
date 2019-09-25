@@ -72,7 +72,7 @@ int main(void) {
     long double    uA55Db;
 
  unsigned int RysWGGP16;
- RysWGGP16 = -1660833622;
+
   unsigned long long  J_pbQrs;
 
  char JZ6a;
@@ -84,7 +84,7 @@ int main(void) {
  unsigned char jNqrxL8L;
  jNqrxL8L = 518533141;
   short int  tzc9_2M;
-  tzc9_2M  =  1549465074;
+
   short  N6S_R;
 
  unsigned long Gc3_dNvw;
@@ -126,7 +126,7 @@ int main(void) {
 	unsigned long	B0RgEdI0;
 
  unsigned short yKB57ka0ux;
- yKB57ka0ux = 1361740334;
+
   unsigned char  DKU93Qm;
   DKU93Qm  =  562545869;
     unsigned long long    Nl__D85;
@@ -146,7 +146,7 @@ int main(void) {
 	long long	qVPZQf0c0;
 
   short int  IC4xgDX8H6;
-  IC4xgDX8H6  =  1996444326;
+
     char    O8B5Lwrrz;
 
  long NY8u;
@@ -249,7 +249,7 @@ Gc3_dNvw = (unsigned long)(ze8Vh7ucHA);
 
 try
 {
-Xa5jg = H5hP6lsD(Xa5jg, OjiY, Gc3_dNvw);
+
 }
 catch (int& errorCode)
 {
@@ -271,7 +271,7 @@ case 3:
 O509N9Pv <<= rCtB2;
 break;
 case 4:
-tzc9_2M = H5hP6lsD(-872399053, -1853278861, -1244470028);
+
 break;
 }
 {

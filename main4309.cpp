@@ -234,7 +234,7 @@ j--;
 while (j >= 0);
 }
 }
-kpGI = (unsigned long)(X2Uv6);
+
 for (int i = 4; i >= 0; i--)
 {
 if (U883C9_Nud != -1901023155)

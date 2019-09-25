@@ -45,7 +45,7 @@ int main(void)
  char fxn8k01JHN;
  fxn8k01JHN = 1304309447;
 	short	Jv1sIn;
-	Jv1sIn	=	-1275854655;
+
  unsigned long IhjJ3n;
 
   unsigned int  UNYX1O;
@@ -157,7 +157,7 @@ for (int i = 0; i < 3; ++i)
 
 }
 
-MMREi2 = (int)abs(B4n90ki);
+
 try
 {
 std::cout << I8GhgNmh(1851869562, -504137566, IK8e_Rts51) << "SOM5D6y" << "O_yk" << ZAd0z(1746592016, -1847246043, IK8e_Rts51) << I8GhgNmh(-2089005871, fxn8k01JHN, 1147888722) << std::endl;

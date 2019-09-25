@@ -106,7 +106,7 @@ int main(void) {
     short int    YEMr5Z;
 
   int  EKPP;
-  EKPP  =  34533887;
+
   double  L7G6;
 
   unsigned short int  I2kcCyO;

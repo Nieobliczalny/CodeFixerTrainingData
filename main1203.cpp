@@ -57,7 +57,7 @@ int main(int argc, char** argv)
  unsigned long long cCNyH0hjA8;
 
   unsigned int  SU8O4cPS;
-  SU8O4cPS  =  -1198103791;
+
  short int u2C3B1d5y;
 
  unsigned char fDfPC3K;

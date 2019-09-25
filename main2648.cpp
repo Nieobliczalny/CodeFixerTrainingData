@@ -51,7 +51,7 @@ int main(int argc, char** argv)
 	double	dU3UyzjG9y;
 
  float IV75vpc;
- IV75vpc = 31078596;
+
  unsigned long jp86Aeo16;
 
 	unsigned long long	oBbTW;
@@ -147,7 +147,7 @@ case 1:
 
 break;
 case 2:
-M4kUB6 = QcTwKT3() / 1867030215;
+
 break;
 case 3:
 VTBK = (int)abs(U_s6xpU_35) * 0;

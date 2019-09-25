@@ -307,7 +307,7 @@ while (j < 3)
 {
 for (int k = 0; k < 9; k++)
 {
-Ku1H = (int)ceil(UE43_);
+
 }
 ++j;
 }

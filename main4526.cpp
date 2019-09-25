@@ -34,7 +34,7 @@ unsigned long ARot(unsigned short int T5NXg,char XTRa_)
 int main(void)
 {
   long double  gpM6;
-  gpM6  =  1894048508;
+
   unsigned long  mLa5d3;
   mLa5d3  =  1769807779;
 	short	O25fN;
@@ -78,7 +78,7 @@ int main(void)
     unsigned long    yO2taJD;
 
     long long    o3Wj8;
-    o3Wj8    =    -2087433061;
+
  unsigned char Cn9Kjz5XL7;
  Cn9Kjz5XL7 = -272306853;
     unsigned long long    s55Ww6;
@@ -288,7 +288,7 @@ zuV4uTBn6b <<= NoJLAp;
 }
 for (int i = 4; i >= 0; --i)
 {
-gpM6 = qHllb % lo9wvJ;
+
 }
 
 if (XLcopW9 < yan1A)

@@ -84,7 +84,7 @@ std::cout << sp1wm(JmSR3Xw, -1487271296, -1596575897, MFxb6dk) << std::endl;
 switch (Ezw_K)
 {
 case 0:
-aAh3I4g = P896L0W4g * 1393722579;
+
 break;
 case 1:
 

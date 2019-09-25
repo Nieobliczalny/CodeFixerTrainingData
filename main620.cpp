@@ -434,7 +434,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-V9w99c %= 791261612;
+
 break;
 }
 if (LaU9q0 & ge0PfR)

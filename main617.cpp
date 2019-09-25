@@ -77,7 +77,7 @@ case 8:
 k28rYpG9ll ^= rj0D;
 break;
 case 9:
-Pu7k7ea9n = mA360i0U >> 1230543063;
+
 break;
 default:
 noQEXhp4u4 = fxNH_ % 191400219;
@@ -257,7 +257,7 @@ break;
 int i = 0;
 do
 {
-rIqb = (unsigned short)(u95TGN);
+
 ++i;
 }
 while (i < 7);
@@ -304,7 +304,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-m4O0xye3 = Xm9HS * LyDxP;
+
 break;
 case 'd':
 case 'D':

@@ -51,7 +51,7 @@ int main(void)
   long long  pi8G6eBs4;
   pi8G6eBs4  =  -288968763;
   unsigned long  AIStO7;
-  AIStO7  =  -2096572393;
+
   int  mW82oTSBP;
   mW82oTSBP  =  43931524;
     int    My5my4pFJ;
@@ -143,7 +143,7 @@ int main(void)
  float K8vwG2i;
  K8vwG2i = -403821690;
   long long  pgWLb;
-  pgWLb  =  -1917971936;
+
 	unsigned short	Yf90OoK;
 	Yf90OoK	=	-281419113;
 	int	OyaiO;
@@ -181,7 +181,7 @@ int main(void)
 	char	g9Bg3Rz;
 	g9Bg3Rz	=	-116928540;
 	float	n601qA43v;
-	n601qA43v	=	1856258571;
+
     short int    mPYnKea0g;
     mPYnKea0g    =    0;
 	unsigned short	lTeBGp;
@@ -209,7 +209,7 @@ int main(void)
     long    Hu8F_urD;
     Hu8F_urD    =    1423542773;
  double EP54qga;
- EP54qga = 300975903;
+
 	long	WH6HQ5_;
 	WH6HQ5_	=	-534818158;
     long long    iP2t;
@@ -465,7 +465,7 @@ case 8:
 WH6HQ5_++;
 break;
 case 9:
-OyaiO = (int)abs(FTvGNuz);
+
 break;
 }
 
@@ -496,7 +496,7 @@ case 7:
 
 break;
 case 8:
-EP54qga = W3rbTwh6 / Zh5K3I3Mkc;
+
 break;
 case 9:
 ebqyOMI_8u = gcYX << WEKbeR4;

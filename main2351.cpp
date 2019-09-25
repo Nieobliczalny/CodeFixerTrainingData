@@ -77,7 +77,7 @@ int main()
 	short	OX7T_Kr60d;
 
  char AXsqoM3g;
- AXsqoM3g = -2064510667;
+
     unsigned char    B1mhsLXM;
     B1mhsLXM    =    988991267;
  float QxT4;

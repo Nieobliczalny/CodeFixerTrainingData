@@ -74,7 +74,7 @@ int main(int argc, char** argv)
   unsigned long long  Y2aaHC3H77;
 
 	int	CKba0w94j;
-	CKba0w94j	=	430278647;
+
 	unsigned short int	A3O1;
 
  long long irpxhWS;

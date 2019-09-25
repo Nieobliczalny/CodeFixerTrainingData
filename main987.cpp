@@ -107,7 +107,7 @@ case 1:
 V4S7TbQ = (W15La4 >= 1386146578) ? cU72(gN0q7M_7p_, -1518722285, TTSBg9k, lr98) : 928925199;
 break;
 case 2:
-hy0KR = LJqNM4SQ_(hy0KR, lr98, 60930142, 1227549162);
+
 break;
 }
 }
@@ -182,7 +182,7 @@ if (w_coB >= 1244193716)
 {
 if ((RE_7z7sq < lQ8hJ0L_99) || ((UHLt0lO0 == PdCOwOrX4C) && (MwRd8K)))
 {
-UHLt0lO0 *= k_2S;
+
 }
 else
 {
@@ -232,7 +232,7 @@ std::cout << aa4961N_I << c3dMyYl3Z(-1584343680) << k_2S << y400 << LJqNM4SQ_(W1
 
 m230K1XE = c3dMyYl3Z(t9kP6);
 
-P2335QuP = (long double)(s9G9jgNS);
+
 
 {
 int i = 0;

@@ -242,7 +242,7 @@ case 7:
 
 break;
 default:
-bA1HO89vJ *= wSzD_rT9_;
+
 break;
 }
 

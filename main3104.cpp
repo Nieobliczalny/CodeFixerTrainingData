@@ -58,7 +58,7 @@ int main() {
 	long double	Z975;
 	Z975	=	-844629681;
   short int  HcMbYCIay;
-  HcMbYCIay  =  2052718178;
+
 
 udEyb28s = (short)(yZ2U);
 
@@ -179,7 +179,7 @@ Z975 = (int)floor(c7yv_t);
 }
 else
 {
-HcMbYCIay = St741o1Y0();
+
 }
 }
 }
@@ -280,7 +280,7 @@ else if (((kcfl <= 89668206) && (c7yv_t < f_sg)) || (wl65 == 233435583))
 }
 else
 {
-Z975 = (int)floor(cHa07dxY);
+
 }
 }
 else if (LEqn_W5Q & ZrfZpei)

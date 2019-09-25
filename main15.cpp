@@ -23,7 +23,7 @@ int main(void)
     unsigned int    IInpFTn;
 
     long long    bIbt5ar;
-    bIbt5ar    =    1109151808;
+
   int  VIW27e34B0;
 
  unsigned int t2CRuZwTKZ;
@@ -41,7 +41,7 @@ int main(void)
     float    JQ6V860;
 
  long double uS11BoO;
- uS11BoO = -385135599;
+
 	unsigned short int	v7_ho_G0I;
 
     long double    wJk5YQA;
@@ -61,7 +61,7 @@ int main(void)
 	short	a2x6_pK7;
 
  unsigned short a4XGY;
- a4XGY = -146069466;
+
   float  b8bnWA16_;
 
     unsigned short int    DH3g056M;
@@ -71,7 +71,7 @@ int main(void)
     int    A8V0b8k5B;
 
   unsigned int  Yd_4;
-  Yd_4  =  -1647674562;
+
   unsigned short  XX34x;
 
 	double	A8dM;
@@ -101,7 +101,7 @@ int main(void)
   long long  G1d8O;
 
 	long double	BnLpE;
-	BnLpE	=	1403000434;
+
 	short int	CS9yTH7;
 	CS9yTH7	=	-978585116;
 	long	y_YI_;
@@ -113,7 +113,7 @@ int main(void)
   unsigned long long  whBT3;
 
     unsigned short int    jz7_PMegg;
-    jz7_PMegg    =    -118950508;
+
 	unsigned int	JuB99;
 	JuB99	=	938774659;
 	short	yAkjkO;
@@ -135,7 +135,7 @@ int main(void)
 	float	o05MjVw;
 
  short i__i5d63S;
- i__i5d63S = 1912623490;
+
     short int    co_v1OP2f;
 
     unsigned long    Ja8z;
@@ -172,7 +172,7 @@ case 'f':
 
 break;
 default:
-N0Ihn = (int)ceil(j0LCfjw);
+
 break;
 }
 {

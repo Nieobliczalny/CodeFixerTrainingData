@@ -254,7 +254,7 @@ break;
 std::cout << e37pHtH << std::endl;
 
 H_CO7x5Q7 = (float)(v63L9N7F + (1488658156));
-Xssp = (int)abs(ptNs_8U_);
+
 
 switch (GqYd__Zw8)
 {

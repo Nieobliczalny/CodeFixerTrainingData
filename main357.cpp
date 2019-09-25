@@ -21,7 +21,7 @@ int main(void)
   unsigned int  t5qH_Im;
 
   unsigned long  M6rum3p3Z;
-  M6rum3p3Z  =  1786474271;
+
 	long long	V_l53xB;
 	V_l53xB	=	-1002412278;
  unsigned int DaK76;
@@ -113,7 +113,7 @@ int main(void)
  long double Tn9_2xIA;
  Tn9_2xIA = -319640563;
  short PD6YFyZQE;
- PD6YFyZQE = -1055933502;
+
   unsigned char  Cz_xGC;
   Cz_xGC  =  842884651;
   int  oTzsz;
@@ -258,7 +258,7 @@ case 7:
 
 break;
 default:
-M6rum3p3Z = (armZ03) ? DlCZko(-1568036416) : -876107136;
+
 break;
 }
 t5qH_Im = DlCZko(-597127901);

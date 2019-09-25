@@ -90,7 +90,7 @@ int main()
  short njs81;
  njs81 = 0;
     short    hi9i1n;
-    hi9i1n    =    1114250344;
+
   unsigned char  nsbT;
   nsbT  =  -502155632;
     float    R_L_a6oc;
@@ -114,7 +114,7 @@ int main()
   unsigned long  xJvf;
 
  float d07J;
- d07J = 680685411;
+
 	long double	STRU9;
 	STRU9	=	1400135679;
   double  J_shw;
@@ -140,7 +140,7 @@ int main()
     int    h4G6KsK35C;
     h4G6KsK35C    =    581215703;
  unsigned char go4_Z7474;
- go4_Z7474 = -964334473;
+
 	long	aBF9RGs;
 	aBF9RGs	=	-207026584;
     unsigned char    lmN5;

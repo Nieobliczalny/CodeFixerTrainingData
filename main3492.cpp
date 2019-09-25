@@ -45,7 +45,7 @@ int main(void) {
     char    RJ3tlA8;
     RJ3tlA8    =    -971799037;
     double    cMKb4w;
-    cMKb4w    =    1160716460;
+
     unsigned short    R91D193;
 
  int qDP89FKI_;
@@ -59,7 +59,7 @@ int main(void) {
     unsigned int    l4cj;
 
   long double  GIym4V;
-  GIym4V  =  -346388141;
+
  short int Vc1zqO64E1;
  Vc1zqO64E1 = -450615764;
     unsigned short    I0O4;
@@ -105,7 +105,7 @@ int main(void) {
 	unsigned long long	dgwguLc;
 	dgwguLc	=	-193395553;
 	long long	Z186234v;
-	Z186234v	=	849022097;
+
     long long    eSh73bI1;
 
  int PhR1q6vEg;
@@ -117,7 +117,7 @@ int main(void) {
  int sFsPloE8;
 
     unsigned char    jJIeQ8MY65;
-    jJIeQ8MY65    =    1106589805;
+
   unsigned int  lU_jU;
 
     float    h7V7PF4_;
@@ -129,7 +129,7 @@ int main(void) {
   long  GuQ9Zk;
   GuQ9Zk  =  1148424499;
   short  G_7U;
-  G_7U  =  -1716518642;
+
  char HpuA7c9q7;
  HpuA7c9q7 = 116131960;
     char    WXN3n6O;
@@ -148,7 +148,7 @@ int main(void) {
 
 
 i5FlQ = sbVy(1753634662, fCcW7fnnr, 1120987336, xR43To);
-GIym4V = (int)ceil(L03NxKV8);
+
 
 std::cout << RJ3tlA8 << dgwguLc << "J_898p" << std::endl;
 D0vBV92wq++;
@@ -186,7 +186,7 @@ break;
 }
 else
 {
-T1QX = (int)ceil(h7V7PF4_);
+
 }
 }
 else
@@ -271,7 +271,7 @@ case 5:
 
 break;
 case 6:
-G_7U = HpuA7c9q7 << D0vBV92wq;
+
 break;
 case 7:
 tg_k = ZTdRP_b7A(2113065299, -126522323, -245615933, RTQb86_epW, GuQ9Zk);

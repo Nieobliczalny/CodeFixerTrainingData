@@ -46,7 +46,7 @@ if (vLfF0j3 & 1336958745)
 {
 if (((Y00Ra > HI38) && (lWRZhstws != n6YB)) || (j4cqF >= 726280940))
 {
-Qt6f = Jl4rkYr + M_YV_Yb5;
+
 }
 else if (N3ZAVQ0qVA == 2070111189)
 {

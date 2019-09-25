@@ -30,7 +30,7 @@ int main(int argc, char** argv)
   long double  zg6H_;
 
   unsigned long long  Kqnw;
-  Kqnw  =  -1533641620;
+
     char    b4aMq53R;
 
  int Aa9_O7k7Q3;

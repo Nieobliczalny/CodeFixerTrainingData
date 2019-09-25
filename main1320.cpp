@@ -319,7 +319,7 @@ i++;
 }
 }
 
-bjpb2h5 = (int)ceil(Hfp_YQ);
+
 switch (BD3WGL)
 {
 case 'a':
@@ -332,7 +332,7 @@ case 'c':
 A046Vo = (int)ceil(SnIkaeqQz);
 break;
 case 'd':
-bjpb2h5 = (int)floor(ZMcYvy26b);
+
 break;
 case 'e':
 SnIkaeqQz = z7iFljnf / pK5SsXIi8;
@@ -406,7 +406,7 @@ while (i < 4);
 }
 
 
-aGFm0pdu = (long double)(Kc8R72_);
+
 
 
 switch (BD3WGL)

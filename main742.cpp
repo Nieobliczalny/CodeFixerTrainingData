@@ -41,7 +41,7 @@ int main()
   b_J0A0si  =  -1481569832;
   wWz24486  =  -567933717;
   rkgKBu__U0  =  647768289;
-  B5Zxzna7  =  158963459;
+
   I_Q9S  =  1712128509;
   Nn_4wf2e  =  1092723026;
   TwJ28fA9  =  1949994754;
@@ -344,7 +344,7 @@ Mr_b5pa = tSRQ(Mr_b5pa, -525063346, 65277698, XFK5, -1159813649);
 }
 else
 {
-Ei_Fw = (unsigned short)(jnL6);
+
 }
 }
 while (i < 4);

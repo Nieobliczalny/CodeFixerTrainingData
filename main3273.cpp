@@ -224,7 +224,7 @@ while (i >= 0)
 
 
 
-j_GV = (int)ceil(IHVYmuW0t_);
+
 
 cout << Hq7F7V << tdb6A << endl;
 

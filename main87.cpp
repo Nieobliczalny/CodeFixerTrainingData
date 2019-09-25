@@ -22,7 +22,7 @@ int main(int argc, char** argv)
   int  fSoN2A0a;
   fSoN2A0a  =  2057616144;
   unsigned long long  w18Y;
-  w18Y  =  -548702209;
+
 	short	E28Eq_qF;
 	E28Eq_qF	=	315788563;
     long double    ykjZ;
@@ -46,7 +46,7 @@ int main(int argc, char** argv)
  int c3Djl;
 
  unsigned short int Y94g;
- Y94g = -2093078127;
+
  float I9LZ;
  I9LZ = -1329461882;
     unsigned short int    YW8Q_;
@@ -210,7 +210,7 @@ case 'd':
 q2e_xhhYE = df57S9w3S(-1919253580, 1309987864);
 break;
 case 'e':
-RcL00NIy1 = (int)abs(hzV_);
+
 break;
 case 'f':
 
@@ -272,7 +272,7 @@ break;
 }
 else if (E28Eq_qF)
 {
-lA3Zx78 = vpnx / 1565203316;
+
 }
 else if ((zN1M >= kKGSe) || (x15zvH3))
 {
@@ -297,7 +297,7 @@ while (i >= 0);
 
 if (((ea5m6NWNPu > -899569143) || (eI0_ & o_6967A)) && ((vpnx >= o_6967A) && (ykjZ <= o_6967A)))
 {
-cKR2DtN3 = (int)ceil(I9LZ);
+
 }
 else
 {
@@ -447,7 +447,7 @@ case 'b':
 
 break;
 case 'c':
-wOy8O0F = (int)floor(ykjZ);
+
 break;
 case 'd':
 

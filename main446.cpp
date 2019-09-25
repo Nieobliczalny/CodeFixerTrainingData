@@ -41,7 +41,7 @@ case 'c':
 
 break;
 case 'd':
-aanMF96kfT = D5NH(-1693986213, PXy_P10NRX);
+
 break;
 }
 }
@@ -104,7 +104,7 @@ v8V9b = (int)floor(b3sshS93p5);
 break;
 case 'h':
 case 'H':
-K_6oA = E3XV048ah5();
+
 break;
 case 'i':
 case 'I':

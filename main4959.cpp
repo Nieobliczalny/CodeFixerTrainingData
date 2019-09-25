@@ -94,7 +94,7 @@ int main(void) {
   char  pRWpeQI9Uz;
   pRWpeQI9Uz  =  -1405267393;
   unsigned long long  dFT3;
-  dFT3  =  792167319;
+
     long long    HJ2L;
 
   long double  BE9_;
@@ -122,7 +122,7 @@ int main(void) {
   unsigned short  BQS_1;
 
  unsigned short Y4DL31iW;
- Y4DL31iW = 0;
+
     short    Z8T4_X;
     Z8T4_X    =    342302860;
     unsigned int    gR_j2N2Z;
@@ -138,7 +138,7 @@ int main(void) {
     long long    etH3_;
     etH3_    =    1995334551;
 	int	ftiw615;
-	ftiw615	=	-1934078214;
+
  unsigned short int xCmXCgXf3;
  xCmXCgXf3 = 2036874095;
 	long long	w8DY43YZv;

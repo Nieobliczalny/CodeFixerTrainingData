@@ -83,7 +83,7 @@ int main(void)
 	float	WV__4zmJ;
 
     long    th8aB;
-    th8aB    =    -1180344032;
+
     unsigned short    g65_v08;
     g65_v08    =    1042870692;
     unsigned int    IC70nXX0N;

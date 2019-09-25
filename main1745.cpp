@@ -34,7 +34,7 @@ int main(int argc, char** argv) {
 	skOBb	=	-934287136;
 	z3F8zflm	=	19521227;
 
-	wVYrvS0	=	825158324;
+
 
 
 	kT9QN79I	=	-1071863905;
@@ -58,7 +58,7 @@ int main(int argc, char** argv) {
 	o5P6SEcb7	=	-475105266;
 	ZVBz7QX	=	-115209659;
 	Or5ls	=	-133534207;
-	XPp54A4Ot	=	1374692310;
+
 
 switch (D977x50Hqu)
 {

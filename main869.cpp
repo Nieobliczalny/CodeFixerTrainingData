@@ -66,7 +66,7 @@ int main(void) {
     long long    nl_dZa240;
 
   long double  o16F;
-  o16F  =  1372091652;
+
   float  SF1JZ30_;
   SF1JZ30_  =  -117788959;
     unsigned short    yHx8;
@@ -92,7 +92,7 @@ int main(void) {
  int xbf0;
 
     unsigned long    QK0TsxHTB_;
-    QK0TsxHTB_    =    -1721702474;
+
     float    b_P48pXE6;
     b_P48pXE6    =    1776439239;
     char    o9u3soghGF;

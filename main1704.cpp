@@ -25,7 +25,7 @@ int main()
     unsigned char    P1e8EtXfec;
 
   long long  pce92Bd4;
-  pce92Bd4  =  1019890293;
+
     unsigned char    n2845Z;
 
 	short int	qb9cQSP7y;
@@ -69,7 +69,7 @@ int main()
 	unsigned short int	hFBJ9;
 	hFBJ9	=	-380333642;
 	unsigned short	C0BCTOA;
-	C0BCTOA	=	-1648632584;
+
  unsigned long b5BnrIDc;
  b5BnrIDc = -1258427809;
  float u8_9;
@@ -93,7 +93,7 @@ int main()
   long  X2mda;
 
     unsigned char    r27Zk88Hvy;
-    r27Zk88Hvy    =    -805192782;
+
  long double DvZmW56Zts;
 
  unsigned short int Qu_QDjgW;
@@ -105,7 +105,7 @@ int main()
 	unsigned char	Ar7JAl04;
 	Ar7JAl04	=	1685800698;
  long pD2M6;
- pD2M6 = 1690888600;
+
 	unsigned short	d9WJjxcHC;
 	d9WJjxcHC	=	765671583;
     unsigned long long    Ir4vg5Eg;
@@ -165,7 +165,7 @@ int main()
  short bTG0X;
  bTG0X = 207392303;
   float  mJjUDSG9B8;
-  mJjUDSG9B8  =  1305415622;
+
  long Vj71U98;
  Vj71U98 = 0;
     unsigned short    ak3R_8P;
@@ -188,7 +188,7 @@ else if (UJHd0b7WhJ != diRzU81j)
 switch (d_di_JcUV)
 {
 case 'a':
-mJjUDSG9B8 = i_my3(sYS7EHY, -2115465206, 1143555193, UJHd0b7WhJ) - 1443541968;
+
 break;
 case 'b':
 
@@ -268,7 +268,7 @@ if ((Qu_QDjgW <= Cf3DSw5B) || (qb9cQSP7y & s61Dnl5))
 {
 if (u8_9 > KQGM6_NrT)
 {
-pce92Bd4 = (int)abs(ZTCdAau51J);
+
 }
 else
 {
@@ -322,7 +322,7 @@ while (j >= 0);
 switch (HEOL)
 {
 case 0:
-mJjUDSG9B8 = (int)floor(oO4fRuHfSi);
+
 break;
 case 1:
 mJjUDSG9B8 = (int)ceil(Z4M5_Y_b3);

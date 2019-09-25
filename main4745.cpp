@@ -225,7 +225,7 @@ for (int i = 8; i >= 0; --i)
 switch (n2l3j3V_4X)
 {
 case 0:
-J2PTBO = m1Dx4_9iZW & 43575556;
+
 break;
 case 1:
 

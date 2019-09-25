@@ -45,7 +45,7 @@ int main(int argc, char** argv)
  long h4ku;
 
     unsigned short    z8t4F;
-    z8t4F    =    0;
+
     long double    V7s6M;
     V7s6M    =    -1125193533;
   long long  l6yo0e6;

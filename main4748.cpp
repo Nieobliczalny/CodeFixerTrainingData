@@ -350,7 +350,7 @@ while (j < 10)
 while (i < 8);
 }
 
-Atye = (int)floor(M1ezg);
+
 
 
 

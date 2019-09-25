@@ -47,7 +47,7 @@ int main()
   h0C6L  =  291574487;
   W3RTwST  =  91235222;
   gz80iOD1ns  =  -590058208;
-  ZSL4WhKI  =  -52406041;
+
   LF6mUjWoH  =  -764386897;
 
 
@@ -63,7 +63,7 @@ int main()
 
   R06I46_t  =  2090175876;
   aCJ1waZV  =  -1130096023;
-  tb_2Vd_0l  =  -1893441805;
+
   e1lq_  =  538038743;
 
   d11R  =  -2051411325;
@@ -73,7 +73,7 @@ int main()
   Ag_C7808  =  -78545625;
   r_cF4SL6  =  1149873032;
   w40z4bo6  =  911077875;
-  IG8QfLSS  =  594714862;
+
 
   u6w2v  =  557685720;
   p6ur  =  -725030690;
@@ -147,7 +147,7 @@ std::cout << "GtBp" << s4xy7D4sFv << "rKZD4lk6i" << std::endl;
 my80WB = (int)abs(jJ6f4);
 try
 {
-TI1b = (long)(eJz_6EQqn);
+
 }
 catch (int& errorCode)
 {
@@ -350,7 +350,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-jW88 = z3w6p3(1858782820);
+
 break;
 case 'd':
 case 'D':

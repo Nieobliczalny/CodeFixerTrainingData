@@ -16,7 +16,7 @@ int main(int argc, char** argv)
 
 
 
-	M39Oyvp	=	1560426965;
+
 	R8EXpR	=	-2128448189;
 	da_8_14LO	=	-957413206;
 	PiQ_b	=	-1789632088;
@@ -29,7 +29,7 @@ int main(int argc, char** argv)
 	iZ2V1OU	=	1807960895;
 
 
-	F98AnZykG	=	-24665764;
+
 	Q49K8V0	=	-1717459084;
 	g6Xf	=	963895756;
 	Zl3V	=	437009338;
@@ -39,7 +39,7 @@ int main(int argc, char** argv)
 	Gbx2U1_9	=	1438123623;
 
 
-	mrZaqMveT3	=	-1190834260;
+
 	N_Ui	=	876597187;
 	Pt1RRQ10me	=	-492461507;
 	A7_U	=	158122601;
@@ -49,7 +49,7 @@ int main(int argc, char** argv)
 	dLN69w04	=	-714883130;
 
 
-	aXe5	=	-1617360092;
+
 	U_6_G	=	-302594686;
 	ulkt1Axs25	=	675179581;
 	KP_u_ae	=	1323981947;
@@ -59,7 +59,7 @@ int main(int argc, char** argv)
 	zTkxL_VOBL	=	-1949775378;
 
 
-	Nw5LX6	=	-2095789526;
+
 	txmACb_	=	475281830;
 	KNud8OaW2	=	89443108;
 	PuOI9B	=	-369615;
@@ -71,7 +71,7 @@ int main(int argc, char** argv)
 
 	NtWJ7nUr	=	1045840733;
 
-	Gg0M_TX	=	220850306;
+
 	K81ElP40G	=	832947812;
 	t03m8ezh	=	-1925189027;
 
@@ -100,7 +100,7 @@ while (j < 6)
 {
 for (int k = 10; k >= 0; k--)
 {
-dLN69w04 = (int)abs(rA8QI8);
+
 }
 j++;
 }
@@ -120,7 +120,7 @@ else
 
 
 
-txmACb_ = (int)(U_6_G);
+
 std::cout << ngxT8 << CBdZ3RPTN << std::endl;
 
 

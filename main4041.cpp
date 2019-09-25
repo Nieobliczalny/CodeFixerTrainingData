@@ -427,7 +427,7 @@ l29T5 = K_rKIDH(l29T5, UP7JFVuV97);
 }
 else if (qbN33 > A4fKNbb)
 {
-CXw5j = K_rKIDH(X_0_3, 2131435924);
+
 }
 else
 {
@@ -490,7 +490,7 @@ jJr70++;
 break;
 case 'f':
 case 'F':
-CXw5j = Zd39 | 341339423;
+
 break;
 case 'g':
 case 'G':

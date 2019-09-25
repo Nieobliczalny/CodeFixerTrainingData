@@ -250,7 +250,7 @@ jEwxKT = (unsigned short int)(Aup0DA21);
 }
 }
 
-t0s95CTX1a = ryY7(t0s95CTX1a, dJzkx3A, neLhm, 256753340);
+
 
 {
 int i = 7;
@@ -333,7 +333,7 @@ qQ_AeXZ = w40RH724(-1724805347);
 break;
 case 'c':
 case 'C':
-t0s95CTX1a = (int)abs(kwCO29Xaw);
+
 break;
 case 'd':
 case 'D':

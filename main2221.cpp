@@ -30,7 +30,7 @@ int main()
  short mG9VU;
  mG9VU = 0;
   unsigned int  Pnf8_o;
-  Pnf8_o  =  -1830520964;
+
     unsigned long long    Bu3EKuQ84R;
     Bu3EKuQ84R    =    1094662707;
     unsigned short int    zwaw2D;
@@ -44,7 +44,7 @@ int main()
 	long long	xwRqH;
 
 	unsigned long	muo9O9V;
-	muo9O9V	=	-736080170;
+
     unsigned int    e9n82r0l8r;
 
   char  OI3DI59c;
@@ -58,7 +58,7 @@ int main()
     long double    tJzCPGW1O1;
 
  unsigned long long PMl58;
- PMl58 = 239587045;
+
 	unsigned int	M_bxnQ;
 
  float zOt2ai2;
@@ -77,7 +77,7 @@ int j = 7;
 do
 {
 j--;
-q76gacY = (int)abs(rT7D);
+
 }
 while (j >= 0);
 }

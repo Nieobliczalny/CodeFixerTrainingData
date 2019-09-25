@@ -56,7 +56,7 @@ while (i >= 0);
 switch (p4D0sQo96W)
 {
 case 'a':
-WG_b3Db_ = (int)abs(Mvtp);
+
 break;
 case 'b':
 J9P2q = yRmm4qn7(cNf23HK5a, 1476498752, F40R926A3);

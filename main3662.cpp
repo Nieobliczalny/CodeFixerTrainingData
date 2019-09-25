@@ -34,7 +34,7 @@ int main(void) {
 
  kTMI = 1684532053;
 
- Pua3MfN25a = -1938600239;
+
 
  u8DWqDR = 2081299563;
  g_9KYvG = 104537004;
@@ -48,7 +48,7 @@ int main(void) {
 
 
  RRy2R40p = 383583530;
- bD_E_6R = 1029158937;
+
  FSGc1S0kY = -1571004023;
  V6xP9D = 1114822970;
 
@@ -58,7 +58,7 @@ int main(void) {
 
 
  kDO5Rl = -2110976259;
- XkcSo_g_Lt = -1415643705;
+
  ti3P = -1694366009;
  A6J5 = -1525118277;
  Y_pO2R = -1839220938;
@@ -162,7 +162,7 @@ case 3:
 break;
 }
 
-b4afK = (long double)(RRy2R40p);
+
 if (z6H_F < 837978692)
 {
 if (z6H_F >= -628418535)

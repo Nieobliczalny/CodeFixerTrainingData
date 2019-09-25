@@ -229,7 +229,7 @@ case 'h':
 
 break;
 case 'i':
-z0NFRa5 = G97pW8(z0NFRa5, T2s_TwM1);
+
 break;
 default:
 
@@ -322,7 +322,7 @@ if ((IycYW == X83I7yB5Lw) && (I8z292ySS6 <= C0yA56))
 }
 else if (K6B4_R5yuW >= m7M6a)
 {
-z0NFRa5 = (int)floor(f411pa7);
+
 }
 else
 {

@@ -294,7 +294,7 @@ catch (int& errorCode)
 Y1noBwnq *= jiO8W;
 }
 
-QAMJOf = (int)ceil(z_RPrL195);
+
 Il3lq = gm_XZul(1550246688, PA2_3, tnv0, -839760943);
 std::cout << gm_XZul(-59478333, PA2_3, tnv0, lzOT9rEjS) << gm_XZul(Il3lq, PA2_3, tnv0, 2144202135) << "sH02ttv13" << gm_XZul(465366171, PA2_3, tnv0, lzOT9rEjS) << std::endl;
 
@@ -346,7 +346,7 @@ switch (mpF2ELv598)
 {
 case 'a':
 case 'A':
-MXhL = l378QT8gp(f7N4YG, 1304293204, d89Rt6xu_U);
+
 break;
 case 'b':
 case 'B':
@@ -381,7 +381,7 @@ case 'I':
 
 break;
 default:
-QAMJOf = VpkAeI & vD2lHzS;
+
 break;
 }
 

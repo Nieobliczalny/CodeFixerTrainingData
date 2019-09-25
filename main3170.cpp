@@ -47,7 +47,7 @@ int main(int argc, char** argv)
 	unsigned int	QZ_Yz6;
 	QZ_Yz6	=	0;
 	unsigned long long	uZa_h_;
-	uZa_h_	=	-385435946;
+
 	unsigned long long	dD3_7;
 	dD3_7	=	394835137;
  long long vG2_4zQoTa;
@@ -109,7 +109,7 @@ int main(int argc, char** argv)
 	long	Bg0G1ejT;
 	Bg0G1ejT	=	-861282865;
  unsigned char hqxqO5oc96;
- hqxqO5oc96 = 798772525;
+
  unsigned char MJAly3J;
  MJAly3J = 1316721417;
     int    Gz3R;
@@ -139,7 +139,7 @@ int main(int argc, char** argv)
  unsigned char C9TsGDGX6R;
  C9TsGDGX6R = 1385282475;
  unsigned int xmZh4b23o3;
- xmZh4b23o3 = -1963201570;
+
 	short	qzyI114JJU;
 
  char uYw97;

@@ -76,7 +76,7 @@ int main(void)
   unsigned int  IvnDqT5108;
 
     long double    qhQqswSS;
-    qhQqswSS    =    153216955;
+
     unsigned long long    KG4BKL;
 
     unsigned char    NCMi4;
@@ -100,7 +100,7 @@ int main(void)
   short int  n8Db6d_9ko;
 
 	int	D2rD9;
-	D2rD9	=	562608279;
+
   unsigned char  QUu2PKR_;
   QUu2PKR_  =  632456392;
   long long  gbu60QtS;

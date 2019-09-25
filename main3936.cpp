@@ -135,7 +135,7 @@ case 'f':
 iT1tdw8rod = f0Oi - zNJ58s6b1V;
 break;
 }
-C5wxI *= 469936684;
+
 for (int i = cmZ4A; i < 162; i++)
 {
 if ((f0Oi > K5jY_l2) && (C_V3IRw > 1973588852))
@@ -230,7 +230,7 @@ case 3:
 
 break;
 case 4:
-P3U9_8z1 = (B7Wr0fM7y >= 147905315) ? Td1zgc4Y17 : -1322650831;
+
 break;
 case 5:
 

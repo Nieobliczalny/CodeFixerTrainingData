@@ -53,7 +53,7 @@ int main() {
     t_0R4f    =    7839867;
     K53wW    =    -1652345459;
     C5Q5ok04xG    =    -490139694;
-    RF6VS9Nvt2    =    1235411344;
+
     Zl6eed    =    907133650;
     J79NzTyaT    =    1861110895;
     DEkr7S_Bz    =    -414105557;
@@ -320,7 +320,7 @@ case 4:
 
 break;
 case 5:
-un4fYL1 *= kLZ7BdK5GM;
+
 break;
 case 6:
 
@@ -346,7 +346,7 @@ case 'a':
 
 break;
 case 'b':
-K53wW /= B59Vx5aLM7;
+
 break;
 case 'c':
 
@@ -441,7 +441,7 @@ break;
 switch (vANrWsi)
 {
 case 'a':
-y4Wboa6K = (int)floor(MNjFq);
+
 break;
 case 'b':
 

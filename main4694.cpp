@@ -73,7 +73,7 @@ else if (((zJAH < P7Ko7u5) && (Ip3N02m7 < -1385797176)) && (Kt32uv_3 <= 56270918
 }
 else if (z6u0TDC7d == VkSf4C)
 {
-Q3pK8g = (int)abs(jXRe58c9);
+
 }
 else if (VkSf4C <= mNtLxhHdoi)
 {
@@ -103,7 +103,7 @@ std::cout << nPvI4Wby_ << jIg2 << Sqo5KN9_o5(-1155850902, 859604444, -317007902)
 
 
 
-XFy_7 = (long double)(z6u0TDC7d);
+
 switch (jZ6_B)
 {
 case 0:

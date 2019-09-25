@@ -92,7 +92,7 @@ case 4:
 
 break;
 case 5:
-E6ML_b = (int)floor(pb8a2D);
+
 break;
 case 6:
 pb8a2D = (int)ceil(I677Lhv);

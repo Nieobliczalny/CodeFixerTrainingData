@@ -69,7 +69,7 @@ int main(int argc, char** argv)
     short    O_P__C;
     O_P__C    =    2068083752;
   int  kiPXjBXv4D;
-  kiPXjBXv4D  =  -86396104;
+
     short    vo7J7V75z8;
 
  unsigned short int nSKMM5gr51;

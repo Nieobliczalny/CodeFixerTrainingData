@@ -110,7 +110,7 @@ do
 {
 if (XoWzi == vHzCHT)
 {
-v_9a_ = (int)abs(I1Ww3kZSr);
+
 }
 else if (TkCHD5 >= j3Cg2nF1O9)
 {
@@ -139,7 +139,7 @@ do
 j++;
 if (TRH5I_m <= kiYm887jq)
 {
-TU2112 = Z5a9(862100279, WA8J, 1537406785, I1Ww3kZSr);
+
 }
 else
 {
@@ -268,7 +268,7 @@ for (int i = 0; i < 10; ++i)
 int j = 6;
 while (j >= 0)
 {
-TU2112 = Z5a9(-1066032113, P7ZB6UMde7, DwcHQO8Z, FwB2_P_);
+
 j--;
 }
 }
@@ -289,7 +289,7 @@ case 3:
 
 break;
 case 4:
-TU2112 = Z5a9(-1804991027, Rd0W8, 438023094, F2xxT2);
+
 break;
 case 5:
 DwcHQO8Z = (int)ceil(XoWzi);

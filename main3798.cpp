@@ -711,7 +711,7 @@ while (i >= 0);
 
 if ((l8e7_8TZY != x1a6) && (Wgj_ <= LVQp))
 {
-D65D4TYKLb = (short)(qxhi5 * (J2_ANUf4JP));
+
 }
 else
 {
@@ -747,7 +747,7 @@ case 1:
 
 break;
 case 2:
-Bzvw = (int)floor(i84HuRnh);
+
 break;
 case 3:
 E5_9o = (int)floor(i84HuRnh);

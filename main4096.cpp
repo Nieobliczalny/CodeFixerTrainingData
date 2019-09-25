@@ -323,7 +323,7 @@ case 'g':
 yt6HF |= 643342425;
 break;
 case 'h':
-ElIY = obT15u1z | 589698344;
+
 break;
 default:
 
@@ -380,7 +380,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-ElIY = I0ev + S2wz;
+
 break;
 case 'f':
 case 'F':

@@ -56,7 +56,7 @@ int main(int argc, char** argv) {
  long long owwU;
 
     float    UD3xPx2;
-    UD3xPx2    =    -1569465923;
+
 	int	EKv_6sHn;
 
   char  Tp2_td;
@@ -158,7 +158,7 @@ int main(int argc, char** argv) {
   int  a6f67J_P;
 
     double    EEpY;
-    EEpY    =    -1678459299;
+
 	unsigned int	aYOz22Xis;
 
   long  Uo7ppyr_;
@@ -178,7 +178,7 @@ int main(int argc, char** argv) {
 	short	i94M_7s;
 
   int  C0V_B883;
-  C0V_B883  =  70773261;
+
   unsigned long long  lbt3O5f0e;
 
 	long double	CiMf2B5_A8;
@@ -336,7 +336,7 @@ VI52TH--;
 }
 else
 {
-y2H1a6RxU = HR2T % R3C_;
+
 }
 if (ms2O_ibi2_ > 1433562910)
 {

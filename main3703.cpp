@@ -860,7 +860,7 @@ case 2:
 
 break;
 case 3:
-gX7Ex8Eg = (int)abs(v_A87H4N);
+
 break;
 }
 --i;

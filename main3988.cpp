@@ -27,7 +27,7 @@ int main() {
  short int Tu_5w4j55;
 
     unsigned char    waeQFXrP0l;
-    waeQFXrP0l    =    -2019705293;
+
     char    lqq2h;
     lqq2h    =    1921903116;
   long double  UY81U5L6;

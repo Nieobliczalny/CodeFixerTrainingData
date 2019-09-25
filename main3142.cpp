@@ -134,7 +134,7 @@ int main(int argc, char** argv)
  char utJqM9;
  utJqM9 = -547262390;
   short  YAQ5;
-  YAQ5  =  1836111724;
+
  short G_SO7;
 
     int    F_gDl;
@@ -168,7 +168,7 @@ int main(int argc, char** argv)
     short int    G38_;
 
 	float	c6tr;
-	c6tr	=	-1538403678;
+
     long long    G_11UATcS;
     G_11UATcS    =    -1435501412;
   short int  K1if;

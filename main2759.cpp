@@ -42,7 +42,7 @@ int main(int argc, char** argv)
 	P8ThaU	=	-417493530;
 	F9El	=	1652727743;
 	S__xcb9	=	-1825184375;
-	LuPe	=	1978825346;
+
 	tF2B8s	=	1968880702;
 
 	IS6dI20X4N	=	887520399;
@@ -52,7 +52,7 @@ int main(int argc, char** argv)
 	M4Bw	=	400349929;
 
 	bluF2pjv	=	1199185817;
-	JvkG2J6W8	=	-431120412;
+
 	B_ff9x4E	=	510507881;
 	nmI8a	=	1658368349;
 	sMrg	=	1662538539;

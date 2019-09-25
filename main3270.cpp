@@ -629,7 +629,7 @@ case 8:
 QDJ3isS3q = b3PE4_j ^ g162y9UNwI;
 break;
 default:
-b3PE4_j = uE_rZ();
+
 break;
 }
 }

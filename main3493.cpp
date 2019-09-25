@@ -220,7 +220,7 @@ gw2j6I50 = (int)abs(u9aN7);
 
 if (vYVv == 0)
 {
-	J73a = T2CfOU7 / vYVv;
+
 }
 if (wu661f_5 == X6h1n)
 {
@@ -288,7 +288,7 @@ while (j >= 0);
 }
 
 
-wu661f_5 = lH5N6(wu661f_5, iJ6HlMq79Q, cKC8T85CE8);
+
 cKC8T85CE8 = (unsigned long)(v8__fM);
 
 

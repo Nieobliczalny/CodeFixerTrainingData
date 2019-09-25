@@ -260,7 +260,7 @@ case 'a':
 
 break;
 case 'b':
-ndpM = (int)ceil(ctVs5A);
+
 break;
 case 'c':
 

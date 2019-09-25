@@ -28,7 +28,7 @@ int main(void)
 	long double	ReatjU;
 	ReatjU	=	-1526962996;
     long long    HHvsvIFku_;
-    HHvsvIFku_    =    1600393746;
+
 	char	hmfYE;
 	hmfYE	=	-1394357014;
     unsigned char    J_E5__A5;
@@ -72,7 +72,7 @@ int main(void)
 	unsigned long long	Ly9yM;
 
  unsigned short L0s4cfx;
- L0s4cfx = 437694406;
+
     long double    vOe5mY2w;
     vOe5mY2w    =    -1672915503;
 	short int	sml2EYZg3_;
@@ -88,7 +88,7 @@ int main(void)
 	unsigned long long	AD6l5n48X;
 
  unsigned short int bfjNQ9rMjG;
- bfjNQ9rMjG = 1418476661;
+
   long long  RegVF;
   RegVF  =  1314164855;
 	short int	Bzv3r5i;
@@ -280,7 +280,7 @@ case 6:
 
 break;
 case 7:
-L0s4cfx = CkRL8 ^ 1936968856;
+
 break;
 case 8:
 

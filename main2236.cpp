@@ -457,7 +457,7 @@ case 7:
 
 break;
 case 8:
-Bf1bNSIV = (int)floor(tGB4EDD);
+
 break;
 case 9:
 

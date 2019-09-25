@@ -122,7 +122,7 @@ case 1:
 
 break;
 case 2:
-D6x6S_F_4 = eydJi();
+
 break;
 case 3:
 
@@ -195,7 +195,7 @@ case 2:
 AFXCV72V = (I87t7eg >= 1876191141) ? f6tX6 : Ag6i0ev;
 break;
 case 3:
-MC1_q = zT_2p * 881075374;
+
 break;
 case 4:
 

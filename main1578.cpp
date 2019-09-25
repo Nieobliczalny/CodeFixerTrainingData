@@ -342,7 +342,7 @@ int i = 0;
 do
 {
 ++i;
-X4Kbf = (int)abs(nB_h2);
+
 }
 while (i < 1);
 }

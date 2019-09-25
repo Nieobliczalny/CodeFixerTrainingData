@@ -70,7 +70,7 @@ case 'd':
 
 break;
 case 'e':
-a5_Q7 = (int)floor(Q1b825IF9);
+
 break;
 case 'f':
 GR6g4soM = (int)ceil(dCBYvDD);
@@ -152,7 +152,7 @@ if ((-1802520350 / IdA_S_8) > 2069166467)
 {
 cout << Tm4fpSX2 << J1mPyi1ii << "pOSVaJX_29" << endl;
 }
-Qb1LN5H = dR_zpZ907(IdA_S_8, Qb1LN5H, A4lV);
+
 try
 {
 switch (KH_j1F)

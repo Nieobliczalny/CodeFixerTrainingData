@@ -90,7 +90,7 @@ int main(void)
   unsigned short int  Ll7_P566_;
 
 	double	j_y6Q7i85_;
-	j_y6Q7i85_	=	1270165521;
+
 	float	HrJug;
 	HrJug	=	-1315564944;
   int  Yw26aXyk4;
@@ -144,7 +144,7 @@ int main(void)
  long jJ2I9;
 
  unsigned long VRsj4cS;
- VRsj4cS = 1297853904;
+
  long double r_69L;
  r_69L = 132969543;
  char N26RK;
@@ -162,7 +162,7 @@ int main(void)
   unsigned char  cCk6rn7;
   cCk6rn7  =  88285228;
  long rbRjeqWo;
- rbRjeqWo = 438567265;
+
  double X7vE7;
  X7vE7 = -615342515;
  double W__QAM;
@@ -594,7 +594,7 @@ else if (((hv9e >= 1236151750) || (p0t1)) && (cCk6rn7 & f2727))
 }
 else
 {
-E388 = (int)floor(uyFK);
+
 }
 
 

@@ -250,7 +250,7 @@ if ((Hmrj__9HG >= Iy586Vf1) || (mlI4 >= GdagpkU0_))
 {
 try
 {
-FGS06K_OB = jqu2e4 | ZKUw;
+
 }
 catch (int& errorCode)
 {

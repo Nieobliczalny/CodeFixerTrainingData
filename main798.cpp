@@ -230,7 +230,7 @@ else
 {
 try
 {
-Q4eK = (int)abs(n_wR5_q);
+
 }
 catch (int& errorCode)
 {

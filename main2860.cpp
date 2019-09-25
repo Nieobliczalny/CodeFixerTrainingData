@@ -43,7 +43,7 @@ int main(void)
 	unsigned long long	o9oo3m;
 	o9oo3m	=	-116916170;
  double XCnnAnf9;
- XCnnAnf9 = 766453706;
+
   long  w8cnmSz4;
   w8cnmSz4  =  -829451484;
   long long  mKt7_3a4;
@@ -137,7 +137,7 @@ int main(void)
 	unsigned char	F8aV5;
 
     unsigned long long    Da6s_80;
-    Da6s_80    =    -1328536584;
+
  unsigned short WFRwQ;
  WFRwQ = 0;
   long double  X22e;
@@ -280,7 +280,7 @@ case 6:
 
 break;
 case 7:
-MK2tUC = (int)ceil(ZC1qgqg);
+
 break;
 case 8:
 

@@ -40,7 +40,7 @@ int main(int argc, char** argv)
     QtR4k73    =    -836878399;
 
     jW4t0    =    161041935;
-    f9MIY    =    -1901519565;
+
     Zm4hQAKb    =    1452663382;
     farCtKau    =    1566913560;
 
@@ -56,7 +56,7 @@ int main(int argc, char** argv)
     U83odu4    =    401399632;
     C_A03o    =    103026840;
 
-    Frf15YU    =    -1520604515;
+
     m6r0    =    -2049735288;
     DVx13Ym    =    224936834;
 
@@ -66,7 +66,7 @@ int main(int argc, char** argv)
     r8bf8085    =    2144121594;
     zq5H_C1zYl    =    -1270674303;
 
-    vg1S0_z506    =    192604455;
+
     N3Ix0    =    1408247926;
     LeD2FM4DGK    =    1407493508;
     kTJM4    =    -258206341;
@@ -77,7 +77,7 @@ int main(int argc, char** argv)
     JTxSg1    =    1207956814;
     Ds_V3H    =    -651530769;
 
-    Ec_81    =    825382922;
+
     ju9x4    =    -200659597;
     D36jk04M8    =    122902278;
     czIC    =    -968637630;
@@ -87,7 +87,7 @@ int main(int argc, char** argv)
 
 
 
-    r3aS0Lp4O    =    -1820602046;
+
     lntNK5g    =    -1637416132;
     Vm_m    =    -146947813;
     y3yyF    =    -824912965;
@@ -100,7 +100,7 @@ int main(int argc, char** argv)
     zVj9f94    =    -365246222;
 
     jnZ_AK3Uj    =    -804896160;
-    vA1R0    =    -334988327;
+
     B00Rl062u    =    -463936744;
     kbAIcq    =    -1703071922;
 
@@ -110,7 +110,7 @@ int main(int argc, char** argv)
 
 
     vTx8    =    -141186435;
-    Bn5r217    =    -872998167;
+
     hI5D6xs    =    662709440;
     s2lJ_f3    =    -1894287644;
 
@@ -130,7 +130,7 @@ case 2:
 
 break;
 case 3:
-lntNK5g = (int)floor(I7X09M2ZS);
+
 break;
 }
 std::cout << x08Db << wu9wC32 << std::endl;
@@ -243,7 +243,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-U83odu4 = feoBc();
+
 break;
 }
 }

@@ -46,7 +46,7 @@ switch (bRr3x3O)
 {
 case 'a':
 case 'A':
-dLSHBgS1 >>= 52191351;
+
 break;
 case 'b':
 case 'B':

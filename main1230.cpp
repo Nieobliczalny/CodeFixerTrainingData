@@ -81,7 +81,7 @@ case 2:
 
 break;
 case 3:
-Ad9a0ki2UT = Tc4V & 1204931316;
+
 break;
 case 4:
 

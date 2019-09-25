@@ -508,7 +508,7 @@ case 'g':
 
 break;
 case 'h':
-lNO9c3fYb &= wVOmAPaz;
+
 break;
 case 'i':
 M9G3wtoF2R = P1Y4D(bw3R, -1507413621, nCXb);

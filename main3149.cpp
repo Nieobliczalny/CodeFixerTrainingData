@@ -24,7 +24,7 @@ int main(int argc, char** argv) {
 	char	xWIo0;
 	xWIo0	=	4018293;
  long long cJ51mvP;
- cJ51mvP = -1851708332;
+
 	unsigned short	Jt6SR;
 
   char  bQFekqbe8B;
@@ -76,7 +76,7 @@ case 4:
 
 break;
 case 5:
-yBf0O2 += 696435028;
+
 break;
 case 6:
 NY5bxM5N_--;

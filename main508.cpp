@@ -31,7 +31,7 @@ int main(void) {
  W_6iil2P = 529425520;
 	long long	dX8i,	N10Y;
 	dX8i	=	0;
-	N10Y	=	0;
+
 
 {
 int i = 4;
@@ -76,7 +76,7 @@ while (i >= 0);
 }
 if (f474_V2Y2q & -408710582)
 {
-N10Y = sxhFLJF7c7(N7Vp__, 1265916357);
+
 }
 else if (jeyx_9_7H1 < -820272771)
 {

@@ -399,7 +399,7 @@ mn2zuXruD_ = vX6vS / 776167491;
 }
 else
 {
-i7g_HdnMF6 = (int)ceil(qUGvQQ4BL);
+
 }
 }
 else if (x41c4 > -1654745786)

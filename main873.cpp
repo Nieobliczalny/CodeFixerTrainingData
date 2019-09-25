@@ -99,7 +99,7 @@ if (M1qB8w1yL4 == X06TLU)
 {
 if (M295K < Ix79X)
 {
-Qzxigk_74p = s6fHrd1(f_poDV3, n5jk2KA958, e91e9V5l9A);
+
 }
 else
 {
@@ -126,7 +126,7 @@ for (int i = 0; i < 3; ++i)
 switch (ccyc64g)
 {
 case 0:
-E4Dl_B = E5LFznL047 >> jIM6Y2;
+
 break;
 case 1:
 

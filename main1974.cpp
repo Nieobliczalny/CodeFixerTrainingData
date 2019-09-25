@@ -50,7 +50,7 @@ int main(void) {
 
  pkg3 = 4804288;
  o2_Eu2L_ = -502388644;
- nOZW27U4 = -117508924;
+
 
  G1Z_ = -613258138;
  Cjck4hl2m = -587874249;
@@ -63,7 +63,7 @@ int main(void) {
  PFym604NC = 1907367799;
 
  i_69R1Y5 = -787822239;
- iCZ4_aAeYW = -434151875;
+
  s35Ae = -126954002;
  i13k3E4 = -928476867;
  k_3Y3i_ = -2001389490;
@@ -123,7 +123,7 @@ GyRnd6Xu = h5aQ2mBN3 * 960289832;
 }
 else
 {
-EnX2U = (int)ceil(JOCo);
+
 }
 }
 else if (gMxW == Q3hetdTb3)

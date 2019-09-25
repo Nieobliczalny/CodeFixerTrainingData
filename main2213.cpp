@@ -83,7 +83,7 @@ int main()
  char HMey15;
  HMey15 = 1577463955;
  unsigned char mT1g0;
- mT1g0 = -105520810;
+
 	unsigned short	V3SO3d;
 	V3SO3d	=	589886036;
     unsigned short    QvArZ;
@@ -203,7 +203,7 @@ int main()
  unsigned char f9mwD5i70;
 
  unsigned int jgN6iuf6iS;
- jgN6iuf6iS = -86361988;
+
   unsigned short  Ijg6lAzo;
 
 	unsigned short	k3yKFs9_7;
@@ -631,7 +631,7 @@ case 5:
 
 break;
 case 6:
-n2_a = lJ8WPl << Zjwz0wm9p;
+
 break;
 case 7:
 

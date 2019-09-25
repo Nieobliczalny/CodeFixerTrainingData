@@ -51,7 +51,7 @@ int main() {
     unsigned short    c7e990L4;
 
 	unsigned int	f0TD;
-	f0TD	=	-924136909;
+
  float T1Kr_;
 
   unsigned char  iPmU45;
@@ -61,7 +61,7 @@ int main() {
   short int  ad2V;
 
   long  DIXg44iTy;
-  DIXg44iTy  =  -1029826212;
+
   unsigned short  zJE_EB;
   zJE_EB  =  -1742786374;
 	short	Uf_915_ew;
@@ -99,7 +99,7 @@ int main() {
  long double q69uWkmzd;
 
 	unsigned long long	m3_TDMHX64;
-	m3_TDMHX64	=	-209827573;
+
  float pM_9YuG;
 
     unsigned int    X6uIB1;

@@ -144,7 +144,7 @@ else
 }
 else
 {
-a309q9Z57 |= 798016095;
+
 }
 
 if (VGAl81 > 1445669642)
@@ -356,7 +356,7 @@ while (i >= 0)
 
 
 
-kqxac3OBr = (int)ceil(x_91l_);
+
 switch (TYfXDe)
 {
 case 0:

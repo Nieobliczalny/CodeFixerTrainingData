@@ -106,7 +106,7 @@ int main(int argc, char** argv)
   unsigned long  vR270;
   vR270  =  27885559;
   long  wV_986sf_e;
-  wV_986sf_e  =  -450067401;
+
   unsigned short int  Mlwhl3;
 
     long long    ks6rz3V;
@@ -116,7 +116,7 @@ int main(int argc, char** argv)
  unsigned long long I3Uh0AkpU;
  I3Uh0AkpU = -734179105;
 	unsigned char	eEFm;
-	eEFm	=	-1687947595;
+
   unsigned short  v_B0D7p79;
 
 	short	h_OJHKIy;

@@ -40,7 +40,7 @@ case 0:
 
 break;
 case 1:
-j27nE_q10 = (int)abs(Mm8tq7sbE);
+
 break;
 case 2:
 
@@ -64,7 +64,7 @@ case 8:
 
 break;
 case 9:
-z42OTi7m0 = Cr_H % 713137620;
+
 break;
 default:
 RAjg = O2q88gT6aT(-1471146775, Eo1_27T8);
@@ -110,7 +110,7 @@ do
 while (i >= 0);
 }
 
-W2LfIYWA = (char)(N0GBX);
+
 
 {
 int i = 0;
@@ -167,7 +167,7 @@ case 1:
 
 break;
 case 2:
-RAjg = O2q88gT6aT(h1y3ZQ, j0S6W771L7);
+
 break;
 case 3:
 MELwLW = O2q88gT6aT(-830846014, j0S6W771L7) >> 1917573551;
@@ -182,7 +182,7 @@ case 6:
 L5B1WpOo = (int)abs(t8sb7G);
 break;
 case 7:
-RAjg = O2q88gT6aT(Wy6A3xW, L5B1WpOo);
+
 break;
 case 8:
 
@@ -192,7 +192,7 @@ case 9:
 break;
 }
 
-zzbt9H = -30352366 / O2q88gT6aT(Wy6A3xW, L5B1WpOo);
+
 return 0;
 }
 

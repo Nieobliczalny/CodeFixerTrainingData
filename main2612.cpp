@@ -25,7 +25,7 @@ int main(void) {
   unsigned char  la23OV01;
 
 	long long	dH32Pr_;
-	dH32Pr_	=	583614940;
+
  int pv_VH;
 
   unsigned short int  kNe27t3B;
@@ -35,7 +35,7 @@ int main(void) {
  int MZkPcAQoS;
 
   float  HFxs1nfD;
-  HFxs1nfD  =  -503909958;
+
  unsigned short M5_Z3_OvDM;
 
 	float	Y977_4PAZ;
@@ -63,7 +63,7 @@ int main(void) {
 	char	iUB_pD;
 
     short int    AWMVPTer;
-    AWMVPTer    =    -25028359;
+
   float  E1ed1P_;
 
   unsigned int  WzHlEET_S;
@@ -89,7 +89,7 @@ int main(void) {
  short int ggwBs0J14W;
  ggwBs0J14W = -1049742324;
   long long  Dxv7bte3LN;
-  Dxv7bte3LN  =  -1776806603;
+
 	short	o9OJIf5Vw;
 
   unsigned short int  NuDbG;
@@ -99,7 +99,7 @@ int main(void) {
     int    U95w0Pu;
 
 	long long	xZ_1;
-	xZ_1	=	1451172157;
+
 	unsigned long	t_cwC52ld4;
 
  int x5VP57kZ34;
@@ -109,7 +109,7 @@ int main(void) {
 	int	Z6Ed4;
 
 	char	xjAR;
-	xjAR	=	636357042;
+
 	char	GPaGog2;
 
  float DZuJ;
@@ -119,7 +119,7 @@ int main(void) {
  short scJ4WX;
 
 	short int	C4B0lF3zF;
-	C4B0lF3zF	=	-685358736;
+
 	int	NZq07dFJ;
 
   float  F9xU_;
@@ -129,7 +129,7 @@ int main(void) {
 	short	H9Aj7uGx;
 
     unsigned char    PS26r6ih76;
-    PS26r6ih76    =    -1396791701;
+
  unsigned char g5Da;
 
 	unsigned long	vyKkdg3ZF3;
@@ -145,7 +145,7 @@ int main(void) {
  unsigned short hKlnRB8H0;
 
     short    Y6_H3G1s1Z;
-    Y6_H3G1s1Z    =    -124526287;
+
  unsigned long HIV2HX3_c;
  HIV2HX3_c = 945130793;
   long double  GqftI8Dn;
@@ -157,7 +157,7 @@ int main(void) {
  double A_a9N0;
 
 	unsigned long long	kFQjpAd3d;
-	kFQjpAd3d	=	-1977392007;
+
     unsigned char    NcIsaKB;
 
  short q3eOM;
@@ -167,7 +167,7 @@ int main(void) {
   double  Mjz_i;
 
   short int  WAn5tp_I;
-  WAn5tp_I  =  431434420;
+
  unsigned short int p3OTQ1;
 
 	long	mnPA6;
@@ -187,7 +187,7 @@ int main(void) {
   long double  yfCj;
 
     unsigned long long    SL9IxZsl;
-    SL9IxZsl    =    -2013808265;
+
 	long double	atgkPSAIw;
 	atgkPSAIw	=	1758230688;
     short    xmTSs1;
@@ -201,7 +201,7 @@ int main(void) {
     float    y11lrxg;
 
 	unsigned long long	oACS_DkwxQ;
-	oACS_DkwxQ	=	915482433;
+
  short GytRwZP1;
 
  char r3jZ11l2;
@@ -218,7 +218,7 @@ int main(void) {
 cout << atgkPSAIw << Tay07ccPpA << "yFHud05" << endl;
 
 
-Q1ERqs2P = (int)floor(wa_nhH6MrQ);
+
 
 
 

@@ -203,7 +203,7 @@ int main()
  unsigned long long j_f6Zb3;
 
   double  nHWzL;
-  nHWzL  =  -2082834101;
+
  unsigned int yV1I9E09;
  yV1I9E09 = 473984799;
  long B1vjK18;
@@ -319,7 +319,7 @@ B1vjK18 = (int)abs(q1nAAF9wk6);
 }
 else
 {
-v7JZQ2 = (int)abs(XRvbG);
+
 }
 }
 else if ((wVfOtMdU != 647338186) && ((U8gvX <= zgoX_LaMj) && (Ek9e < fne4k)))

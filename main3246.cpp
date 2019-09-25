@@ -560,7 +560,7 @@ zpfw83Ft = JF0HWq();
 }
 else if (iDLXQlABAi != yOmKA)
 {
-yOmKA >>= 1684487009;
+
 }
 else
 {

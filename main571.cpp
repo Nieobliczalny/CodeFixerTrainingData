@@ -254,7 +254,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-u6G8T3 >>= 555892959;
+
 break;
 case 'e':
 case 'E':

@@ -423,7 +423,7 @@ i4Onv3mBIi %= 975378503;
 break;
 case 'b':
 case 'B':
-wz_3 = (svY63K) ? 258973576 : R2S48Vzj;
+
 break;
 case 'c':
 case 'C':

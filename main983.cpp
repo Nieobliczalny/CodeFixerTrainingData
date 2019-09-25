@@ -56,7 +56,7 @@ int main() {
   long long  dNkxkK8;
   dNkxkK8  =  1564934215;
 	float	n13C5L;
-	n13C5L	=	1522921167;
+
   unsigned int  cI674KC0gK;
 
     char    FVq1chuEaX;
@@ -120,7 +120,7 @@ int main() {
   unsigned char  UWvx_8;
 
  long long B80ui;
- B80ui = -1442047220;
+
  int G5T9;
 
   unsigned short int  BE9K;
@@ -202,7 +202,7 @@ int main() {
 	char	U36E;
 
 	long long	uqRM905M5K;
-	uqRM905M5K	=	-487193165;
+
  unsigned short g3r2RvK6_;
  g3r2RvK6_ = -622181227;
 	unsigned long	Zckqi3g81;
@@ -479,7 +479,7 @@ break;
 
 if ((w15Q5Yw9t_(Fhp5S, HM79h, xRO00V, dzH55, 992294329) / rMyWk6_o) <= 1274254833)
 {
-n13C5L = w6m9RML_ / K9qlVM6;
+
 }
 for (int i = 0; i < 5; i++)
 {

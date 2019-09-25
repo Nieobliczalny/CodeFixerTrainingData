@@ -320,7 +320,7 @@ case 0:
 
 break;
 case 1:
-B9S3iw2 = (int)floor(mhJjr);
+
 break;
 case 2:
 

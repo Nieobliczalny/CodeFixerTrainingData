@@ -48,7 +48,7 @@ int main(void) {
 	unsigned char	MPHmigkKD;
 	MPHmigkKD	=	1895237278;
     short int    klUC;
-    klUC    =    -1116576170;
+
     char    q6i0y4;
     q6i0y4    =    1694244831;
   char  RZOxQXXn;

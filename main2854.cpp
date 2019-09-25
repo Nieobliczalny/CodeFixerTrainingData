@@ -42,7 +42,7 @@ int main(int argc, char** argv)
 
   M17P21279  =  -998669889;
   p00_S_LDA  =  -1122264984;
-  RQw71J6_  =  1438645398;
+
   z_7Vd  =  -1781395930;
   OT2FAlyE  =  -424789658;
   Os_4RsHk_K  =  795498147;
@@ -52,7 +52,7 @@ int main(int argc, char** argv)
 
   lT_7za  =  1731393724;
   PhSD61osx  =  -1899629287;
-  H9E_6m  =  325226618;
+
   l8L61Lvrxp  =  1718196394;
   V4C_2W  =  1663237550;
   G10x  =  607980290;
@@ -65,7 +65,7 @@ int main(int argc, char** argv)
   C13E4Ewh  =  856031003;
   vQLm2  =  -516942181;
   fl31r  =  960293018;
-  oFgxgu_Tj_  =  -2114662719;
+
   wI1Up2  =  -2090126372;
 
   AOShdS  =  55613915;
@@ -86,7 +86,7 @@ int main(int argc, char** argv)
   OBAlJU  =  -266483268;
 
 
-  X7xnTd  =  1564113692;
+
   kd46a8f5r  =  1792935848;
   hTYH58e  =  25229930;
   pcd0uj  =  -440413542;
@@ -157,7 +157,7 @@ case 1:
 OBAlJU--;
 break;
 case 2:
-Ti67 ^= 737013899;
+
 break;
 case 3:
 O0COns %= ZdiZ2tw;

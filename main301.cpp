@@ -42,7 +42,7 @@ int main(void)
  unsigned int SMTmGz;
 
 	unsigned short int	i98SxY8mGD;
-	i98SxY8mGD	=	-1186088286;
+
  unsigned short ayp10jLuU;
 
  unsigned long long lkT7U;
@@ -66,7 +66,7 @@ int main(void)
   long double  si5Y55LR4Y;
 
     unsigned short int    x2_Mzj;
-    x2_Mzj    =    0;
+
  short int p_3J9f_qeI;
  p_3J9f_qeI = -237073858;
     long long    O7kEXgR;
@@ -100,7 +100,7 @@ int main(void)
  unsigned int KrQ3L;
 
   unsigned long  yHi4;
-  yHi4  =  -551329343;
+
     double    X6Hx49_93F;
 
  unsigned char pRHNWp72;
@@ -132,7 +132,7 @@ int main(void)
   double  X4ECTO44;
 
 	int	jss9;
-	jss9	=	0;
+
  double xEI9;
 
   unsigned short  Tz2W0;
@@ -155,7 +155,7 @@ int i = 10;
 do
 {
 --i;
-dQ4w_8n_ = (int)ceil(tC76Q2);
+
 }
 while (i >= 0);
 }

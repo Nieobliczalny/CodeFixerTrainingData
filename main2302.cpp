@@ -140,7 +140,7 @@ int main()
   unsigned short  y_pBi;
 
   float  i24AoXdEJ;
-  i24AoXdEJ  =  62678804;
+
   float  r6d91jCsS;
   r6d91jCsS  =  2076613950;
  short int j69LQ01a;
@@ -152,7 +152,7 @@ int main()
 	unsigned short int	n791LCLIV;
 
 	unsigned int	C46R;
-	C46R	=	1152665668;
+
 	double	N537F;
 	N537F	=	306453373;
   unsigned long  aEb09ofP;
@@ -269,7 +269,7 @@ else if (((b_A3 >= mG4LiVU) && (pyCcpj <= IwtNBg)) || (JdLDON))
 }
 else if (wb_093Fc9 != Q_I2_698)
 {
-i24AoXdEJ = (int)floor(c2k3Q);
+
 }
 else
 {
@@ -325,7 +325,7 @@ catch (int& errorCode)
 rpP659B8X = (int)abs(zaB1m0V) * 0;
 }
 
-A1CSx = (int)ceil(cY_yQ0_7);
+
 
 if (CPg9iW > 1318978229)
 {

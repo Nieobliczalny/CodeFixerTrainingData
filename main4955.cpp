@@ -337,7 +337,7 @@ case 2:
 shvhN = (int)floor(UZDA);
 break;
 default:
-bsAD7ZD = (int)floor(SOan41);
+
 break;
 }
 }
@@ -361,7 +361,7 @@ case 4:
 shvhN = (int)floor(bsAD7ZD);
 break;
 case 5:
-lEmVp7M = (int)floor(SB27gi4ENk);
+
 break;
 }
 }

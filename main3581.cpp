@@ -101,7 +101,7 @@ l_tL6k = (int)abs(y987xr5);
 }
 else
 {
-Wi0cn7vMvI |= 1963566406;
+
 }
 }
 }
@@ -161,7 +161,7 @@ FvTK %= 1933467527;
 }
 else if (nzBU5_Nxu > HYBCxn)
 {
-Wi0cn7vMvI = Du3q - p69WC;
+
 }
 else if (w5uczveS76 <= -577793002)
 {

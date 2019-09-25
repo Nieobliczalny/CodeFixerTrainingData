@@ -25,7 +25,7 @@ int main(void)
 	short int	ivTE0;
 	ivTE0	=	-1889302264;
 	long long	kFIxc;
-	kFIxc	=	-1592667753;
+
 	short	w7K9p;
 	w7K9p	=	1146267577;
  char GRVm;
@@ -209,7 +209,7 @@ int main(void)
     int    w_wVd1RR0;
 
 	float	KON76Z;
-	KON76Z	=	1466071228;
+
 	float	bQeENy_zcq;
 	bQeENy_zcq	=	319444303;
  unsigned short l2BON3Ksl;

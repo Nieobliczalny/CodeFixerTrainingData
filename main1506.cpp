@@ -32,7 +32,7 @@ int main()
   long  s5it42dg48;
 
 
-s5it42dg48 = -1672169778 / aAX15g_;
+
 
 switch (x4jd)
 {

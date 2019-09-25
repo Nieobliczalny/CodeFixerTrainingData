@@ -126,7 +126,7 @@ int main(void)
 	unsigned long	lW9h022q8;
 
 	int	hw4T;
-	hw4T	=	-685945547;
+
 	unsigned short int	pwaF;
 	pwaF	=	-2099958382;
     unsigned int    lNNM;
@@ -164,7 +164,7 @@ int main(void)
 	long	wjS9O;
 
     short    SP8T8;
-    SP8T8    =    -1211015127;
+
     unsigned long    G_9D50q;
     G_9D50q    =    -518650705;
     unsigned short int    Pu_VFEi;

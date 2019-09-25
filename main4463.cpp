@@ -128,7 +128,7 @@ int main(void) {
 	long	SSQ_S8;
 	SSQ_S8	=	-891206324;
  char euF005;
- euF005 = -721095142;
+
     unsigned long long    DSPSE1U3;
     DSPSE1U3    =    -1519689283;
  unsigned long ugf7C3F;
@@ -195,7 +195,7 @@ if (((WN4_) && (VQKhi7u4 <= DSPSE1U3)) || ((WN4_ >= G8vbh4D) && (L7CnL)))
 {
 if (SSQ_S8 >= p7vw_jJgF)
 {
-iaBB1A08W /= W_1ud;
+
 }
 else if (kZrjb0 >= G8vbh4D)
 {

@@ -39,7 +39,7 @@ int main(void) {
  long double Ll1l_YH;
 
  double Njs8Y88C;
- Njs8Y88C = -916301175;
+
   short int  NJC4;
 
 	unsigned short	aaE5ov111;

@@ -215,7 +215,7 @@ hP8Azz0WR = (unsigned long long)(hVtU * hP8Azz0WR);
 }
 else
 {
-xv30C6 = OaJE % 1274320266;
+
 }
 }
 else
@@ -262,7 +262,7 @@ switch (Hd9_VC4LM)
 {
 case 'a':
 case 'A':
-xv30C6 = EtKy5mhXS & rcHEn7;
+
 break;
 case 'b':
 case 'B':
@@ -290,7 +290,7 @@ T16JRPe6 = (int)abs(qQRzYQ3zk);
 break;
 case 'h':
 case 'H':
-xv30C6 = IPH89V % 1958893456;
+
 break;
 case 'i':
 case 'I':

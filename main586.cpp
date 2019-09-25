@@ -108,7 +108,7 @@ int main() {
     unsigned long long    ojAwO7EX;
 
 	unsigned short int	gONy;
-	gONy	=	-415547866;
+
 	long long	IHVSk;
 	IHVSk	=	-1289427788;
   unsigned short  uBcZR;
@@ -136,7 +136,7 @@ int main() {
 	short int	Ez4_z;
 
 	char	p8Zes5Z;
-	p8Zes5Z	=	355531980;
+
  long double K16h8i236L;
 
     unsigned short    nh18QmD;

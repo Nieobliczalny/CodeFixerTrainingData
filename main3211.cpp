@@ -142,7 +142,7 @@ int main(int argc, char** argv)
  unsigned short int d3zYYQr0;
  d3zYYQr0 = 1950896827;
     unsigned long    ba54P;
-    ba54P    =    -1823207908;
+
   float  eXhF27;
   eXhF27  =  258499133;
     long    uuxKqD53;
@@ -154,7 +154,7 @@ int main(int argc, char** argv)
     long long    fUhBa_x;
     fUhBa_x    =    -2117962357;
 	long double	th4_;
-	th4_	=	-1442638846;
+
 	long long	we_E3Rq;
 	we_E3Rq	=	-1854544122;
 	unsigned short	A__5a7N02c;

@@ -268,7 +268,7 @@ else
 }
 
 cout << "ySnUQY1X62" << s7NZF8q4 << Kkv2FQsh18 << OCb_ << U0NMHN7ht << endl;
-l2kXf = nwS1HPHkrh * Sks1;
+
 try
 {
 if ((urGu84EWl > 1727098421) || ((xr5S7LEUH < -23879212) || (dUY6KBhM5 > Kkv2FQsh18)))
@@ -350,7 +350,7 @@ cout << "nN0Y5ie" << "d5a5" << XTmb_ << Z4ZxQ50 << endl;
 }
 else
 {
-l2kXf = g5P2_64r9 & x4d45o;
+
 }
 }
 else if (p7_TtJ3S >= 524267449)

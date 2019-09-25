@@ -14,7 +14,7 @@
 
 int main(int argc, char** argv) {
  unsigned short int S3rN9, HYZC4g6, vtbt40T1, CocY6QI8;
- S3rN9 = 0;
+
  HYZC4g6 = 0;
 
  CocY6QI8 = 0;
@@ -37,7 +37,7 @@ int main(int argc, char** argv) {
 	KE1y	=	1600120852;
 	Uw3c7kDp	=	-780734953;
 	dI8b5	=	-346428710;
-	e8M_kb8Dzc	=	-471417295;
+
 	VP37ij4Yc_	=	1416767222;
 	kUl5C	=	437288414;
 	S3qU_2O2EC	=	297408436;

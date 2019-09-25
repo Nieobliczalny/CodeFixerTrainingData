@@ -51,7 +51,7 @@ int main(void) {
   unsigned short  pcmZyY93;
 
  short RSczR_o;
- RSczR_o = -1733950388;
+
   unsigned long  j_7O_Ot534;
 
  int TI99;
@@ -492,7 +492,7 @@ l13tGd31l1 += vkz90no5;
 btoU = (long)(p9yo7CDW);
 
 
-K8uaIJF176 = bLF03ctcY / RTlP(btoU, YwHJyJk968, 1354810965, vkz90no5);
+
 
 if (tuHsag < 188690383)
 {
@@ -515,7 +515,7 @@ for (int i = 9; i >= 0; i--)
 switch (M_LJ_)
 {
 case 'a':
-RSczR_o = Le8PxK3n - YwHJyJk968;
+
 break;
 case 'b':
 s_ait = (int)abs(c3s_jX);
@@ -614,7 +614,7 @@ else if (UIrR <= 2135481993)
 }
 else
 {
-RSczR_o = EHk9();
+
 }
 }
 else

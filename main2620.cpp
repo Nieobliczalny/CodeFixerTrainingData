@@ -500,7 +500,7 @@ if (F_78Z & 449385617)
 }
 else
 {
-SzTEf2u = (int)floor(w11q);
+
 }
 }
 }

@@ -90,7 +90,7 @@ int main()
 	short int	ojSIm;
 	ojSIm	=	-1228915281;
     unsigned long    z10FL;
-    z10FL    =    -1540626558;
+
     float    gw3gx00hTr;
 
   unsigned long long  n969w9t7;

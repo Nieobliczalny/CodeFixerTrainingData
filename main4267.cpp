@@ -92,7 +92,7 @@ int main() {
 
   V8Z6Sx  =  -2141458454;
   T7Ql7n5FT  =  -1612794796;
-  Vc4An  =  417145067;
+
 
   Un4Jd9Y  =  -667335878;
   Mo3y  =  2077978480;
@@ -418,7 +418,7 @@ case 3:
 
 break;
 default:
-yndW_L5 = (int)floor(oe65);
+
 break;
 }
 }
@@ -445,7 +445,7 @@ while (j >= 0);
 
 if ((D__18Tv & uXEbX10C) && (m9D1xG != 377983080))
 {
-P359XwywRX = v596NBC * zg3ihdBy_T;
+
 }
 else
 {

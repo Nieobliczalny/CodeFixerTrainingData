@@ -282,7 +282,7 @@ if (w4tgz71 >= -1794323428)
 int k = 0;
 do
 {
-OMzXyz = kir010(-861300857, X11K994h_M);
+
 k++;
 }
 while (k < 4);

@@ -29,7 +29,7 @@ int main(void)
 	unsigned short int	DSPvsDq;
 	DSPvsDq	=	-1410161733;
     unsigned long long    j92aN5;
-    j92aN5    =    225707643;
+
 	char	yk8fvy;
 
  float zbZld85;
@@ -99,7 +99,7 @@ int main(void)
   float  wL6lt8yB;
   wL6lt8yB  =  -871188609;
   float  IprD43j;
-  IprD43j  =  -1723549103;
+
 	unsigned long	p299;
 
 	unsigned short int	FZJC5kW5;
@@ -143,7 +143,7 @@ UE24zSw3AH = FZJC5kW5 | 1639699412;
 }
 else if (gOqN3)
 {
-NPX9tyY6 -= 447384016;
+
 }
 else if (eEdnC >= a6A8E89)
 {

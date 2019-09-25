@@ -37,7 +37,7 @@ int main()
   NMMsf  =  -498718769;
   vauAjJv  =  -847903042;
 
-  Vk6d_Qz  =  -292205069;
+
   DxbZ0s  =  288123374;
   ctuOvQ  =  -1167121665;
   a1Cmd0487  =  -1682046790;
@@ -136,7 +136,7 @@ case 3:
 
 break;
 case 4:
-EX7Nb_Ek = p6Lazq7(A8MYG30TvT, ctuOvQ);
+
 break;
 case 5:
 

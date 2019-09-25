@@ -163,7 +163,7 @@ int main() {
     int    nRFy0A7r;
     nRFy0A7r    =    437116041;
  long double X6Ncx;
- X6Ncx = 1789897822;
+
  long wj79;
  wj79 = -156133786;
     double    S9380n;
@@ -488,7 +488,7 @@ AW48YP2 += H9Lp93w8;
 }
 else
 {
-X6Ncx = (int)abs(B779_NX);
+
 }
 }
 else if (OdT5 == -687415411)

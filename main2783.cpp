@@ -22,7 +22,7 @@ int main(int argc, char** argv) {
 
 
     G04EbI84    =    -1969450920;
-    Z_ZQ    =    -545705402;
+
     nJjBuwi1a    =    609347517;
     ZD1V    =    -430996404;
     P853    =    922692172;
@@ -34,7 +34,7 @@ int main(int argc, char** argv) {
 
 
 
-    AN893Rmd9    =    -1618572130;
+
     RXs8n    =    1457605424;
     pP31H    =    -1190494979;
 

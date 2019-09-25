@@ -303,7 +303,7 @@ switch (T8r77Yx65)
 {
 case 'a':
 case 'A':
-Enxfpy = (int)ceil(xJxjUIY6_J);
+
 break;
 case 'b':
 case 'B':
@@ -342,7 +342,7 @@ if (UGduX & FO9K514)
 }
 else
 {
-jiyPi = (long double)(B4oc3YQZk);
+
 }
 
 

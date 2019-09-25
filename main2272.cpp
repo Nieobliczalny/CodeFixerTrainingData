@@ -90,7 +90,7 @@ try
 {
 if (ZxQoq4gWk6 <= w90fm)
 {
-zjLF = (double)(bXWROM0_a);
+
 }
 else
 {
@@ -319,7 +319,7 @@ case 4:
 
 break;
 case 5:
-O_z0C3q2R = (int)floor(XvYb_lXs);
+
 break;
 default:
 

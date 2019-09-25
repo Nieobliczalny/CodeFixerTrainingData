@@ -57,7 +57,7 @@ int main()
     unsigned short int    a53PJU;
 
     long    XX7EQ1;
-    XX7EQ1    =    -557476366;
+
     short    A5cf8_h8_;
     A5cf8_h8_    =    1865079390;
   short int  JSe_a;
@@ -249,7 +249,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-XX7EQ1 = PjPF() * 394700315;
+
 break;
 case 'd':
 case 'D':

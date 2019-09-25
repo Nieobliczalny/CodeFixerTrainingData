@@ -343,7 +343,7 @@ case 4:
 
 break;
 case 5:
-d089 <<= 1482932544;
+
 break;
 }
 }

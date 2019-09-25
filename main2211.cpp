@@ -119,7 +119,7 @@ while (i >= 0);
 switch (iXU_10bLV8)
 {
 case 0:
-k0OXyO7fJ = (int)ceil(a81_o53I);
+
 break;
 case 1:
 

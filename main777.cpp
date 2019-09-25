@@ -229,7 +229,7 @@ if (ng0b >= -2101808423)
 }
 else if (((u_3O105 == z37K37oJ0E) && (j0oH3h < yWXxo9VU7)) && (lOFFqFSG54 & jriBRG))
 {
-O3_6wG6A3_ = (int)floor(vLd1A);
+
 }
 else if (v50_72_ <= j0oH3h)
 {

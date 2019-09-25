@@ -35,7 +35,7 @@ case 'a':
 
 break;
 case 'b':
-ACtY845d4 = (int)ceil(H8q9);
+
 break;
 case 'c':
 
@@ -47,7 +47,7 @@ case 'e':
 
 break;
 case 'f':
-z7XN4ViijO = (int)ceil(S2vYgN);
+
 break;
 case 'g':
 

@@ -584,7 +584,7 @@ case 'e':
 
 break;
 case 'f':
-ipq_ySRD = (int)ceil(bH9ZO);
+
 break;
 case 'g':
 

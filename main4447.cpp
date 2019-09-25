@@ -197,7 +197,7 @@ case 7:
 
 break;
 case 8:
-XIP9k2Zvo = (int)ceil(up_r8K2Ti);
+
 break;
 case 9:
 

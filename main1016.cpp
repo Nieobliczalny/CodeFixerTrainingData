@@ -33,7 +33,7 @@ int main()
   unsigned long long  Ct4N6I;
 
  short PhJ4f;
- PhJ4f = 1345732195;
+
 	short	wFe7Hr53X;
 
     short int    XXqK;
@@ -43,7 +43,7 @@ int main()
 	char	rl3_nF2N;
 
 	float	qwD_;
-	qwD_	=	1480839695;
+
   char  ujRN764X;
 
     unsigned short    pF_Z5;
@@ -53,7 +53,7 @@ int main()
 	unsigned int	l6yUAfE5Z;
 
     long double    HWoaN7;
-    HWoaN7    =    2129919150;
+
     double    Rkr1D3_kA;
 
  float X3XiTpd_DB;
@@ -63,7 +63,7 @@ int main()
     long long    uTlwO;
 
   int  w8ir;
-  w8ir  =  -1715785553;
+
 	unsigned int	vSmdX;
 
     float    ZU5j3N3;
@@ -81,7 +81,7 @@ int main()
  unsigned int XuY9Y33;
 
   unsigned long  kf7dkG2;
-  kf7dkG2  =  560162060;
+
   short  zOs4uVVdL;
 
  unsigned short int kS_O1N150;
@@ -95,7 +95,7 @@ int main()
  long BtlBr;
 
     long    E7Sy_fQ;
-    E7Sy_fQ    =    0;
+
 
 
 cout << "M7aQQdc" << kS_O1N150 << "NJo402o" << wPCj8B29eu(ZU5j3N3, -1696811546) << u_Q0 << endl;

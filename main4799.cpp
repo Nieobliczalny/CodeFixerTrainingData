@@ -34,7 +34,7 @@ int main(void)
     long double    gwmS5Q;
 
     short    i7aDy0JI1;
-    i7aDy0JI1    =    0;
+
  int CZXg;
 
 	float	H9x01Bk;
@@ -70,7 +70,7 @@ int main(void)
 	unsigned short int	cSGyx;
 
     char    K1eqi;
-    K1eqi    =    1449824324;
+
  unsigned long ypykS;
 
   unsigned short int  ACvv8m;
@@ -84,7 +84,7 @@ int main(void)
  unsigned long long d_Xpoo;
  d_Xpoo = -1822468692;
 	unsigned char	xmBJfxt;
-	xmBJfxt	=	0;
+
  long long y_99;
  y_99 = 1709729425;
   unsigned short int  dprjBUez;
@@ -107,7 +107,7 @@ case 3:
 
 break;
 case 4:
-i7aDy0JI1 = GzQK1(y_99, kz3wDBC, -1843126673, OEJk4ebtRR, NWaA);
+
 break;
 default:
 ZI30Y2_75h = (int)floor(K1MSDHZI);

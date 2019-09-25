@@ -113,7 +113,7 @@ int main(void) {
     unsigned char    gAkT3Kd7b;
 
   unsigned short int  ef08;
-  ef08  =  -1364761058;
+
     short    xf32Y77eXG;
 
  long long n_HFszy;
@@ -197,7 +197,7 @@ int main(void) {
     long double    tlc_;
     tlc_    =    -1866590321;
     short    W1p_3Sz771;
-    W1p_3Sz771    =    1940617704;
+
  unsigned long long i0h7iG4m5;
  i0h7iG4m5 = 99149740;
 	int	fm69Aqy9;
@@ -264,7 +264,7 @@ case 0:
 
 break;
 case 1:
-dRIBVA = UsZNLLraH(1013299819);
+
 break;
 case 2:
 W1p_3Sz771 = (int)abs(YUxna);
@@ -420,7 +420,7 @@ GC8w9GZM51 = (int)ceil(HwyRv1ySr);
 break;
 case 'c':
 case 'C':
-W1p_3Sz771 = O1M34Ry(-241349566, 115410778, 468874362, -389460861, -1390897316);
+
 break;
 case 'd':
 case 'D':

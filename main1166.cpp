@@ -95,7 +95,7 @@ int main()
  unsigned char dKRN1y50r;
 
   unsigned long long  e9LO;
-  e9LO  =  -2080881617;
+
   int  a7D_ex;
   a7D_ex  =  1671436162;
 	short int	m7g3cU9;
@@ -159,7 +159,7 @@ int main()
     unsigned long long    DLq1Ad;
 
   short int  ZXYZ;
-  ZXYZ  =  -1644809219;
+
  unsigned int nwL4YgF;
  nwL4YgF = 221360862;
 	long	zmOA;
@@ -197,7 +197,7 @@ int main()
  int hw7Cr;
  hw7Cr = 982572674;
   short int  s_AD;
-  s_AD  =  1917275025;
+
  unsigned long s208tzb;
 
 

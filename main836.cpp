@@ -28,7 +28,7 @@ int main(int argc, char** argv)
  unsigned char IwTX8Dvg0_;
 
 	long double	EEbcwfzPq;
-	EEbcwfzPq	=	1784978943;
+
  short int xkBLL;
  xkBLL = -1622239168;
  int oT3y3_;
@@ -42,7 +42,7 @@ int main(int argc, char** argv)
     char    WeaA59HB;
     WeaA59HB    =    -1885395748;
     long long    A8ZX8Oj8V6;
-    A8ZX8Oj8V6    =    -183443877;
+
   unsigned int  Ma910;
 
   unsigned long long  n_v_R29;
@@ -88,7 +88,7 @@ int main(int argc, char** argv)
 	long double	b58dRAEYT;
 	b58dRAEYT	=	-1134086235;
  int hx55_ZjJrZ;
- hx55_ZjJrZ = 683980443;
+
     float    D0D02E;
     D0D02E    =    1344251565;
   unsigned short int  j6k_;

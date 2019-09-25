@@ -396,7 +396,7 @@ break;
 }
 else if (HcYM63)
 {
-kgyyRVzc = (int)ceil(b5comvKT4Z);
+
 }
 else
 {

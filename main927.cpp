@@ -34,7 +34,7 @@ int main(void) {
  char BI2cdf2;
  BI2cdf2 = -1399839454;
     float    VoEfc;
-    VoEfc    =    1627298215;
+
     unsigned char    HeY7l8tD6p;
 
     char    fyVuJo29Gb;
@@ -178,7 +178,7 @@ int main(void) {
     unsigned int    WB510ls;
     WB510ls    =    -948923387;
 	unsigned short	hIlRrJZc4;
-	hIlRrJZc4	=	12475999;
+
 	char	R0tJ3;
 	R0tJ3	=	-2047405029;
 	short	uYB_;
@@ -303,7 +303,7 @@ case 3:
 
 break;
 case 4:
-VoEfc = (int)ceil(NqhOWp7tcW);
+
 break;
 default:
 hIlRrJZc4 = h5ngO8 / yZ4ewp5Z09;
@@ -451,7 +451,7 @@ case 'b':
 zEsCw4Ki--;
 break;
 default:
-VoEfc = (int)floor(j85A);
+
 break;
 }
 

@@ -48,7 +48,7 @@ if (((Ki1G0LlPc <= 360810508) || (OEG4i_ > Ki1G0LlPc)) && (Ki1G0LlPc > 156107967
 int k = 0;
 while (k < 4)
 {
-Jop5_R = (int)abs(jZJm6_t);
+
 ++k;
 }
 }

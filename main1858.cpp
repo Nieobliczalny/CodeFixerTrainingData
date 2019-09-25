@@ -120,7 +120,7 @@ int main() {
 	long	zO3ApcTC3;
 	zO3ApcTC3	=	1267653676;
     unsigned long    ecCL;
-    ecCL    =    1615909636;
+
   char  f_664l_LNm;
   f_664l_LNm  =  1984443034;
 	unsigned short	uPN4HcD;

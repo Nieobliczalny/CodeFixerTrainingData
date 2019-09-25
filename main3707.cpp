@@ -44,7 +44,7 @@ c_gP96 = Ox14_(1999233627, Y44Q, ekCfzSBR);
 }
 else
 {
-Y0uixow = (unsigned short)(s6Q3);
+
 }
 }
 catch (int& errorCode)

@@ -59,7 +59,7 @@ int main()
  unsigned int txxgeLDvT;
  txxgeLDvT = -965593073;
 	short int	v5Dne;
-	v5Dne	=	0;
+
     long double    uO8bZv;
     uO8bZv    =    -1696349325;
     long long    s4XLoG1;
@@ -71,7 +71,7 @@ int main()
     int    UR95Y;
     UR95Y    =    2107859209;
     unsigned short    E1Gy;
-    E1Gy    =    776484245;
+
   unsigned long long  Ui6KOnk4Av;
 
     short int    l4018n7pn_;

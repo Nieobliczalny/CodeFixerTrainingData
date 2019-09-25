@@ -569,7 +569,7 @@ std::cout << otG2 << v9J9(376742960, 764445232) << tB5YGoG3iC << std::endl;
 
 y_O_2M <<= E9xMxZvDm_;
 
-iBA26gz = (int)floor(O00nl);
+
 
 std::cout << C3h6PFUpJ << Sfvi4X55no << "qL1Z327Wt" << std::endl;
 if ((NclaD3ae) && ((x_x7 != NclaD3ae) || (nXx7BiWS18 & -1842761825)))

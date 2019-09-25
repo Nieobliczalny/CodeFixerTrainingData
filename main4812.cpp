@@ -56,7 +56,7 @@ int main()
 	unsigned int	Ck5m9LrW6r;
 	Ck5m9LrW6r	=	2054178155;
   long long  QG8_8lX6S;
-  QG8_8lX6S  =  -519992389;
+
  long double zD_3;
 
     long long    AN7XX;
@@ -68,7 +68,7 @@ int main()
     short    dCIww;
 
   unsigned short  O_324;
-  O_324  =  -956229578;
+
 	long long	AFZu992tp;
 
 	int	p4MRX7mH0;
@@ -134,7 +134,7 @@ int main()
 	unsigned long long	QCd6B;
 
     long long    x0nP;
-    x0nP    =    -2085823301;
+
     unsigned long    NM4_k3rV69;
 
   unsigned long long  Py3p;
@@ -190,7 +190,7 @@ int main()
     unsigned short int    SjkTGBI;
 
 	unsigned short	x5V9;
-	x5V9	=	1743109494;
+
 	unsigned long long	mztT7bv58;
 	mztT7bv58	=	-1038458423;
   unsigned long  y53XQ0oC;
@@ -386,7 +386,7 @@ else
 {
 try
 {
-RP2U7fJZp = (int)ceil(dSTG8W);
+
 }
 catch (int& errorCode)
 {

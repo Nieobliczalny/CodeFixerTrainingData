@@ -27,7 +27,7 @@ int main() {
 	unsigned long	py6idl;
 
   unsigned long  GmXua;
-  GmXua  =  2044194968;
+
     unsigned long long    zOK0O9n;
 
   long long  X9Sh_f;
@@ -37,7 +37,7 @@ int main() {
 	double	o30E;
 
 	unsigned short int	Ions_8cc4k;
-	Ions_8cc4k	=	-641071727;
+
   unsigned char  H3ifNt61WT;
 
   short  c6JlarBZ;
@@ -47,7 +47,7 @@ int main() {
  double odr10ZY1P;
 
   unsigned short int  FeH85TDKW;
-  FeH85TDKW  =  1267614268;
+
  long S_1zfOoyM;
 
   short int  muZ0xRFdZ2;
@@ -57,7 +57,7 @@ int main() {
   unsigned short  UUoqbxO_;
 
   unsigned long  dk457n4;
-  dk457n4  =  -1091109969;
+
     unsigned char    J9864gM;
 
   short int  m19uX9w;
@@ -67,7 +67,7 @@ int main() {
  short MU6o158Ng;
 
   long  i1_rkA6;
-  i1_rkA6  =  -331393540;
+
   long long  vrdYI2;
 
 	char	kKD81_22t;
@@ -77,7 +77,7 @@ int main() {
   unsigned short  IEK1WHhheK;
 
  unsigned char G0TC90;
- G0TC90 = 366508134;
+
  long Lo71;
 
  char hk6U1e;
@@ -87,7 +87,7 @@ int main() {
     short    Mf1_;
 
     unsigned long long    RP_ZY;
-    RP_ZY    =    -2120693531;
+
  int p3Z6kg;
 
  unsigned int shGk_3;
@@ -103,7 +103,7 @@ int main() {
  unsigned short int a997v_T9;
 
   unsigned int  N1omf595V;
-  N1omf595V  =  899399723;
+
   double  btx6yq;
 
 	long double	B7A178_I7A;
@@ -113,7 +113,7 @@ int main() {
  unsigned short int Qa6UQ9pZ;
 
   float  E27Gwt;
-  E27Gwt  =  190972522;
+
  unsigned short int I7bp_aC;
 
   long  U_6E5Av;
@@ -123,7 +123,7 @@ int main() {
 	long double	NpJ_;
 
   short  Ok_YH_ht;
-  Ok_YH_ht  =  -914873925;
+
   unsigned int  zUD363iJi;
 
 	char	xypm8kX12y;
@@ -133,7 +133,7 @@ int main() {
 	long	bTsMt7Gw;
 
     short    l_43_wTRHi;
-    l_43_wTRHi    =    -1442913671;
+
   unsigned long long  iMM98;
 
  long long zZYDIE1vh;
@@ -143,7 +143,7 @@ int main() {
 	unsigned short int	Z9AA;
 
  char S4Wkn;
- S4Wkn = -2134419703;
+
 	unsigned int	GPNZ6n9s7;
 
 	unsigned int	QaJNib0;
@@ -153,7 +153,7 @@ int main() {
     int    uAAevEOU5Z;
 
 	unsigned long	Hl4Z53Nk;
-	Hl4Z53Nk	=	1528002007;
+
     unsigned short    kBPj_;
 
  long double vMVO_B_j;
@@ -163,7 +163,7 @@ int main() {
   unsigned long long  U3UXGU_;
 
   int  ZtTV5;
-  ZtTV5  =  476599250;
+
 	short	v3Z41wM;
 
  long long jPKKmZ_;
@@ -173,7 +173,7 @@ int main() {
  unsigned long long w4kGfU;
 
     long long    tau9U9JTLv;
-    tau9U9JTLv    =    -1755952975;
+
     int    YlaX_;
 
     char    LT_55;

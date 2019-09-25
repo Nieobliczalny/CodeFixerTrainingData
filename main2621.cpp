@@ -547,7 +547,7 @@ else if (s4_9_F4 < TAMw7nri)
 {
 for (int j = 9; j >= 0; --j)
 {
-NPBq = Ikjd_ & n8Ez;
+
 }
 }
 else

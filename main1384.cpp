@@ -307,7 +307,7 @@ o8Sk = (int)ceil(f9j46Og);
 break;
 case 'b':
 case 'B':
-Fe801A4aWr = (int)ceil(YykYUYX1g9);
+
 break;
 case 'c':
 case 'C':

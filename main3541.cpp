@@ -38,7 +38,7 @@ int main(int argc, char** argv)
   MVT3CEk  =  -1190840633;
 
   xhlT00SxQ  =  -1976334500;
-  PWAWl7HW  =  2101744180;
+
   uSW_7R7_  =  -1194331479;
   NdULrF  =  2079953489;
   bg_Ehc9  =  -863645129;
@@ -104,7 +104,7 @@ int main(int argc, char** argv)
   P_5uH7oWa  =  49124288;
   X21Mc7Z0i  =  152537370;
 
-  PWR4  =  -1583962720;
+
   v6gFur8Hp  =  -557860703;
 
   v8OTgWnq  =  1933455704;

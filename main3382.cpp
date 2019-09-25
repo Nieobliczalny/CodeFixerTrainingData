@@ -47,7 +47,7 @@ int main() {
   unsigned long long  H65A69l;
   H65A69l  =  -1983433460;
     long    rpe6;
-    rpe6    =    1557167607;
+
   unsigned short int  T0Hgtx;
 
   unsigned short  Y5k5M0o3AL;

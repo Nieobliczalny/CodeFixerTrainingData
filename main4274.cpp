@@ -762,7 +762,7 @@ switch (yTswF8)
 {
 case 'a':
 case 'A':
-pFBHe2R = n1dR1LQ8bj ^ 902307415;
+
 break;
 case 'b':
 case 'B':

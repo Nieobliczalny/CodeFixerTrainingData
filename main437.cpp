@@ -14,7 +14,7 @@ int main() {
     char    rnadt1o560;
     rnadt1o560    =    -1018253344;
   unsigned short  pW6WPt;
-  pW6WPt  =  0;
+
  int OEDL4RN;
  OEDL4RN = 263094564;
  long double Riu0Nz;
@@ -52,7 +52,7 @@ int main() {
     long long    DXA103c5l;
 
  unsigned int VasVl;
- VasVl = -414843394;
+
  unsigned long omRq8jIPZ;
  omRq8jIPZ = 725534429;
 	short	Ca6t2dl;
@@ -116,7 +116,7 @@ int main() {
     long    D55r;
     D55r    =    -805146110;
 	unsigned short int	nQw02xpw;
-	nQw02xpw	=	1177549732;
+
  short qusz6hg2ss;
  qusz6hg2ss = 85712615;
   short int  SQ_NZ0s;

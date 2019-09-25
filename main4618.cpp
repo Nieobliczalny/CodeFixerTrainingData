@@ -144,7 +144,7 @@ else
 {
 if (gj1T != -1623692703)
 {
-B4wz0m = Asb67rIP(-322373673, KYPevq, -110473549);
+
 }
 }
 }
@@ -292,7 +292,7 @@ case 'g':
 
 break;
 case 'h':
-FPne = (int)abs(gj1T);
+
 break;
 }
 }

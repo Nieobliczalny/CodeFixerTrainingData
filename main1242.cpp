@@ -88,7 +88,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-Bl_oW9l = (int)floor(bIxzIp);
+
 break;
 }
 }

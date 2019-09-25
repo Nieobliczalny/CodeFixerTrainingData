@@ -32,7 +32,7 @@ int main() {
  float qCa7;
 
   unsigned long long  RlpI;
-  RlpI  =  -1727031255;
+
  unsigned long j1nD;
  j1nD = -767922253;
     long double    gun0CTn;
@@ -238,7 +238,7 @@ break;
 }
 else
 {
-j9_lZuR1q2 = J0S0J(qK4pP55, -1014958487);
+
 }
 
 std::cout << DMM2(-779058791, 1886711935) << DMM2(qK4pP55, Hya7Pm7) << "TtjM69" << std::endl;
@@ -278,7 +278,7 @@ case 0:
 q6mGHJ4J = J0S0J(1950819316, 372857075) << S_lsP_;
 break;
 case 1:
-j9_lZuR1q2 = J0S0J(1835839503, -289174041);
+
 break;
 case 2:
 j9_lZuR1q2 = J0S0J(1604606928, ZSV3H_07MO);

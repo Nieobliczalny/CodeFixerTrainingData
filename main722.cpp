@@ -200,7 +200,7 @@ if ((nUd2 != Z2cWR) && (N3aW > s52_B0aN_K))
 {
 for (int j = 0; j < 8; ++j)
 {
-wvNcAIR5 = (int)floor(J8Z7);
+
 }
 }
 

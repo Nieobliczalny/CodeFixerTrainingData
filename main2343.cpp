@@ -355,7 +355,7 @@ std::cout << "B82I" << ujC_h7FD << hf_SzPqO << std::endl;
 
 rnMNG = (unsigned short)(B_xwEz6);
 
-aq6G = diMwj - hf_SzPqO;
+
 
 std::cout << MeYmKOf8(z8hLs8Mz, -1376536645) << K4SYpkF << K4SYpkF << std::endl;
 

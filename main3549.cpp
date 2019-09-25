@@ -41,7 +41,7 @@ int main(void)
 	long long	fi6o0C3L;
 
 	unsigned short int	EVNKVO;
-	EVNKVO	=	-1791389575;
+
     long double    cch2Trmx;
 
  unsigned char PRHF;
@@ -51,7 +51,7 @@ int main(void)
   long double  l63T7;
 
 	float	lOzb0KjJ0;
-	lOzb0KjJ0	=	-547505516;
+
  unsigned short int QZB4;
  QZB4 = 730524475;
  unsigned long long nS6s5U1_;
@@ -75,7 +75,7 @@ int main(void)
     long double    MIL__p7;
 
     char    q5_eBH;
-    q5_eBH    =    -1330763045;
+
 	long long	KeTHZ5s2Q;
 
  unsigned short W9Sr;

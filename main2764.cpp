@@ -85,7 +85,7 @@ int main(int argc, char** argv)
 
 
   Y_sMkdsL  =  -1037661394;
-  Nvx_TOmk2  =  -1979376583;
+
   R4Ib35  =  -1304601188;
   jyW8p  =  -1441670991;
   o4zt  =  832089023;
@@ -103,7 +103,7 @@ int main(int argc, char** argv)
 
 
   bhd6MB8  =  996554696;
-  UWxNn3V  =  -572816588;
+
 
 switch (K040W3Y)
 {

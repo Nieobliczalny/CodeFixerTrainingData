@@ -129,7 +129,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-A_cX = (int)floor(yZ7u);
+
 break;
 case 'd':
 case 'D':

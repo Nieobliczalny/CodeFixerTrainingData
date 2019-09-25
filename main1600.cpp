@@ -66,7 +66,7 @@ while (j >= 0)
 j--;
 try
 {
-Llfok0Qrx = (int)floor(qx2RkBDv3);
+
 }
 catch (int& errorCode)
 {

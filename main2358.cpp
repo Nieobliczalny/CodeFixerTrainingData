@@ -39,7 +39,7 @@ int main(int argc, char** argv) {
     short    Ze0_QXN3_2;
     Ze0_QXN3_2    =    0;
   long double  tUo5;
-  tUo5  =  1187627013;
+
 	unsigned long	e98YL24R;
 	e98YL24R	=	-1605624859;
  unsigned short int CJ881Cc8;
@@ -97,7 +97,7 @@ if (dz1LkT4Aw)
 {
 if (J623u_Ok_ > q4YKzo95P5)
 {
-tUo5 = P6U2_XK0 % 306458005;
+
 }
 else
 {
@@ -161,7 +161,7 @@ for (int j = 10; j >= 0; j--)
 {
 try
 {
-tUo5 = (P6U2_XK0 >= CJ881Cc8) ? Y9ZI : -180214913;
+
 }
 catch (int& errorCode)
 {

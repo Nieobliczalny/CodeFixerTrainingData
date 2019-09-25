@@ -28,7 +28,7 @@ int main(int argc, char** argv)
   unsigned char  jUuT_yN,  nxU0t6R1,  Hx_2;
 
 
-  Hx_2  =  0;
+
     unsigned short int    y6QN_jl02,    r91rDdt,    AS2HQ5LE8m,    AKa8,    aVcg9gdT87,    I_32StPN,    KFL4CL,    P521,    E7qv_s3,    u4Y1JCna,    jrdJ89W_11,    MucL7p,    DUwF6;
     y6QN_jl02    =    1426569688;
 
@@ -38,7 +38,7 @@ int main(int argc, char** argv)
     I_32StPN    =    -798214184;
 
 
-    E7qv_s3    =    952082075;
+
     u4Y1JCna    =    -1373793420;
     jrdJ89W_11    =    -1644260035;
     MucL7p    =    -767095438;

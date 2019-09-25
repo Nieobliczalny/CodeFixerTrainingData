@@ -53,7 +53,7 @@ int main()
  unsigned char n73M_pR;
 
     long    gcQJ3;
-    gcQJ3    =    292970111;
+
 	char	c8_SPoWisK;
 	c8_SPoWisK	=	-916419211;
   unsigned long  aAK41;

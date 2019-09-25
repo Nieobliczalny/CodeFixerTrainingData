@@ -129,7 +129,7 @@ case 4:
 OQy7 = (int)floor(u0_mPp);
 break;
 case 5:
-IPS0px7 = Vf01P8();
+
 break;
 case 6:
 lIK_ = (int)abs(Yn__70ME_M) + (815060359);
@@ -196,7 +196,7 @@ while (j < 4)
 int k = 6;
 do
 {
-IPS0px7 = J_Xc3Mp * 549137437;
+
 --k;
 }
 while (k >= 0);

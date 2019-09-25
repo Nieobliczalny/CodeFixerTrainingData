@@ -54,7 +54,7 @@ int main(void) {
   short int  uTbQC;
   uTbQC  =  -1364291884;
 	unsigned short int	I8oia2t2d;
-	I8oia2t2d	=	-706660371;
+
 	long long	M7Oxs7817;
 	M7Oxs7817	=	774532874;
  unsigned short xZ7kcV;
@@ -112,7 +112,7 @@ int main(void) {
 
 DEJ5_ = d5Pnz0dv_I << 570816370;
 
-vlYF0W = (int)ceil(G4fs8ZmdA);
+
 
 if ((lpcz5X >= 505000685) || (uTbQC >= Ymm6))
 {
@@ -147,7 +147,7 @@ if ((uTbQC > -1015701718) && (an_FssxKk & 1934592163))
 }
 else
 {
-vlYF0W = (int)abs(HgZ_cG);
+
 }
 }
 else if (K8i9Sef_U9 < -2061682017)

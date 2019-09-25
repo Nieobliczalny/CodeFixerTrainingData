@@ -290,7 +290,7 @@ case 'a':
 
 break;
 case 'b':
-DKJcxq3PC9 = (int)ceil(B_s3Y);
+
 break;
 case 'c':
 
@@ -409,7 +409,7 @@ case 1:
 
 break;
 case 2:
-DKJcxq3PC9 = s1525b8Kb * G6h8qdzpWR;
+
 break;
 case 3:
 

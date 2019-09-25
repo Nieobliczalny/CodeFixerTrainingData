@@ -23,7 +23,7 @@ int main()
     FG9q0    =    1925839361;
     hNljA21    =    622016968;
     JmH4D96Q    =    -342080097;
-    AHTVk5wD    =    1932702843;
+
     ivjA    =    366074235;
 
     jaa6Bk_9    =    -542332713;
@@ -497,7 +497,7 @@ do
 switch (kkqr3I_8Ri)
 {
 case 0:
-a8L6 = KCNTt016f - LKrtIH0gb;
+
 break;
 case 1:
 
@@ -578,7 +578,7 @@ case 'D':
 break;
 case 'e':
 case 'E':
-a8L6 -= 55413107;
+
 break;
 case 'f':
 case 'F':

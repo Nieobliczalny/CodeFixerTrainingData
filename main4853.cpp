@@ -37,7 +37,7 @@ int main(int argc, char** argv)
     char    M6lpMLcK;
 
     short    k2zYRn16;
-    k2zYRn16    =    1426746572;
+
     unsigned short    D2Wn;
 
   long  qUBFV67;
@@ -53,7 +53,7 @@ int main(int argc, char** argv)
  short int lTfICffiS;
 
   short  ov4qK5fM_9;
-  ov4qK5fM_9  =  353410211;
+
   long  A4S0fN;
 
   long double  y6F492K687;
@@ -63,7 +63,7 @@ int main(int argc, char** argv)
   unsigned long long  dy9WC6PI0;
 
  long double M0J56g3el;
- M0J56g3el = -1201497080;
+
 	unsigned char	q5d9ywa_ZD;
 
  unsigned short m_1IDDi8O;
@@ -73,7 +73,7 @@ int main(int argc, char** argv)
     unsigned long    jiQf7tg_l;
 
   short int  WMawcmM;
-  WMawcmM  =  -1080695995;
+
  char F4Jb13Bw5H;
 
 	long double	R5pV8J;
@@ -83,7 +83,7 @@ int main(int argc, char** argv)
  unsigned long long H9_rFviF9H;
 
 	unsigned short int	Dk9g;
-	Dk9g	=	1358265695;
+
 	short	mB1Acbr7;
 
   short int  jNcKh8;
@@ -125,7 +125,7 @@ int main(int argc, char** argv)
 	float	UkgrwO3;
 
   unsigned int  pYc6r;
-  pYc6r  =  5339223;
+
 	unsigned char	fbJc4;
 
     unsigned long    J6661L;
@@ -135,7 +135,7 @@ int main(int argc, char** argv)
     char    gLFBMzi;
 
     unsigned int    y3d59;
-    y3d59    =    855132609;
+
     unsigned short    cAE59Ev;
     cAE59Ev    =    1085046834;
     unsigned char    Ao6tQ_;
@@ -147,7 +147,7 @@ int main(int argc, char** argv)
  unsigned char FX_G25;
 
 	short	ORUc;
-	ORUc	=	61907049;
+
  double QP7smFQ;
 
     short int    Hk4l7;
@@ -167,7 +167,7 @@ int main(int argc, char** argv)
  long h3c6Y_2be_;
 
 	long long	Qysk_;
-	Qysk_	=	870223925;
+
   unsigned long long  V4rY;
 
  unsigned long long CD5Z;
@@ -181,7 +181,7 @@ int main(int argc, char** argv)
     unsigned short    PJ_PA71A;
 
     float    SfdICFJ_;
-    SfdICFJ_    =    -1912875974;
+
 	long long	p1QB;
 
     long double    MB57EcX;
@@ -191,7 +191,7 @@ int main(int argc, char** argv)
     unsigned short int    taPFW2Dmw;
 
     unsigned char    Q_61;
-    Q_61    =    1443351080;
+
 	unsigned long	bmRyna63XO;
 
 	unsigned int	YCpU;
@@ -201,7 +201,7 @@ int main(int argc, char** argv)
   long  yz609sJ;
 
  unsigned short bNGP2X1U9;
- bNGP2X1U9 = 1211997317;
+
 	char	N6l746mq;
 	N6l746mq	=	1822726308;
     unsigned char    EKL8;
@@ -214,7 +214,7 @@ int main(int argc, char** argv)
 
 if ((dRZGqi2d6 < -966234769) || ((Rbhz1 <= y6F492K687) || (D4VP >= h84_KWhZm)))
 {
-JwwVCn = (unsigned char)(mtjjIg * JwwVCn);
+
 }
 else
 {

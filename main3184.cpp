@@ -35,7 +35,7 @@ JRQ0pQr = kZ_kl(-807023387, 2108236308, -163414210);
 
 
 std::cout << kZ_kl(ZK2ik25B, -591734772, R4z3KAHo) << NmmI4pZ7L << std::endl;
-zofPn79N73 = (int)ceil(yeO15s1xW5);
+
 
 if (JRQ0pQr & 766284858)
 {

@@ -25,7 +25,7 @@ int main()
  int Q5JA;
  Q5JA = 0;
 	float	ImDij3b1u4;
-	ImDij3b1u4	=	1613461677;
+
     float    nzpMUD2Of;
     nzpMUD2Of    =    -761963826;
  long long X08g9;

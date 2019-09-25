@@ -121,7 +121,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-ZuGRT_E6X -= EL_EcK6_;
+
 break;
 case 'd':
 case 'D':
@@ -186,7 +186,7 @@ if (ZuGRT_E6X)
 }
 else
 {
-nDcEe9djJt /= 214839000;
+
 }
 }
 catch (int& errorCode)

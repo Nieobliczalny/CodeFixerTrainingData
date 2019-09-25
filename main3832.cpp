@@ -98,7 +98,7 @@ int main() {
   char  PE84F5Q9b4;
 
     double    B1_Tnh_zX;
-    B1_Tnh_zX    =    -562514751;
+
 	float	Jbwf899;
 
   char  TC304;
@@ -118,7 +118,7 @@ int main() {
  unsigned short efNxJlj;
  efNxJlj = 0;
 	double	E_2o1;
-	E_2o1	=	326981915;
+
   int  WguG;
 
 	long double	UyxV;
@@ -240,7 +240,7 @@ while (i >= 0);
 }
 
 
-Ou3m = (double)(YU74u5);
+
 switch (SBJ9We1)
 {
 case 'a':

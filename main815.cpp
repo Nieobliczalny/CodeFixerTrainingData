@@ -23,7 +23,7 @@ int main(int argc, char** argv)
 	int	UXjU4TUxi;
 	UXjU4TUxi	=	1723668443;
   long double  HCWL5;
-  HCWL5  =  1645576470;
+
 	unsigned char	ACJ4Yky;
 	ACJ4Yky	=	-1549642990;
  long double H_Y4CTFf;
@@ -65,7 +65,7 @@ int main(int argc, char** argv)
   long  zB2Ppa;
 
 	long	qhChG_ot;
-	qhChG_ot	=	-175752867;
+
 	unsigned short int	iApPa_3;
 
     unsigned int    q3xB;
@@ -83,7 +83,7 @@ int main(int argc, char** argv)
     long double    kENp;
 
 	unsigned short	gv2Ts9Lv;
-	gv2Ts9Lv	=	-760396960;
+
     float    l5YzK8t;
 
  double f_rU55v;

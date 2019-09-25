@@ -411,7 +411,7 @@ case 'g':
 
 break;
 case 'h':
-Uw6r9H2Y1 = aNjUEkw & Vo3_ZnUk;
+
 break;
 default:
 ZrD8XGyt = spDMvk - 2063270028;
@@ -495,7 +495,7 @@ case 1:
 p4yB6rbRG = X45bIV7mZ << n76F9E;
 break;
 case 2:
-Uw6r9H2Y1 = (jx0w != n76F9E) ? xS4ed9v3 : 1489441229;
+
 break;
 case 3:
 xS4ed9v3 ^= co2J;

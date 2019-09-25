@@ -102,7 +102,7 @@ int main()
  unsigned short LXB_8ipq;
 
  unsigned char PuX671D78p;
- PuX671D78p = 706540174;
+
  long T7NUdEl2_3;
  T7NUdEl2_3 = -11771358;
  unsigned long long kHMo;

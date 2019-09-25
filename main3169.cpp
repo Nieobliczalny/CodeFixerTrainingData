@@ -344,7 +344,7 @@ LdJCkzbPED = Z_ocm(-428285335, 1956608751, 850336029, -1047058795);
 }
 else if ((n19t != 303590844) || ((g7TL1 != CnV3Kow) && (tn0a7jM8J)))
 {
-Ke1NDoB9 = (int)abs(VNp351z);
+
 }
 else
 {

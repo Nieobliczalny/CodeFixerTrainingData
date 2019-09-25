@@ -132,7 +132,7 @@ int main() {
 	long long	zOCID;
 	zOCID	=	1867439277;
  unsigned long u9hmW4_k;
- u9hmW4_k = 876026295;
+
 	char	g5E1n_1;
 	g5E1n_1	=	489436590;
   unsigned char  vDZx_B2RD;
@@ -230,7 +230,7 @@ int main() {
  unsigned short E32ghN;
 
   char  C74N46;
-  C74N46  =  -776757727;
+
     double    nR18l7D;
     nR18l7D    =    -1155656105;
   short int  JMWtMN6FsH;

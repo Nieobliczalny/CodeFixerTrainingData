@@ -46,7 +46,7 @@ int main(void)
     short int    l584;
 
 	unsigned long long	g32z9FY;
-	g32z9FY	=	-810281860;
+
  unsigned long long UB_sTxmgPY;
  UB_sTxmgPY = -1022298097;
  double n73y0M;

@@ -426,7 +426,7 @@ case 'g':
 
 break;
 case 'h':
-j17lCw3Gkp = (int)abs(e2_g0m7Y);
+
 break;
 }
 }

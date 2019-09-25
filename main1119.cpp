@@ -48,7 +48,7 @@ case 'D':
 break;
 }
 
-jjFo8F4 = (char)(l94vXaRT9 + (-1423510554));
+
 
 
 

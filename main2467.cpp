@@ -29,7 +29,7 @@ int main(int argc, char** argv) {
 
   qpaS_Z  =  -75943596;
 
-  c_ESX0  =  -1899619562;
+
 
   T54fJ  =  -1089554240;
 
@@ -39,7 +39,7 @@ int main(int argc, char** argv) {
 
   kTH3rHT8  =  1031231868;
 
-  Ur3C45cw  =  -1318492122;
+
 
   kWkq  =  1537938073;
 

@@ -37,7 +37,7 @@ int main(int argc, char** argv) {
 
 
 
-ZU1Ur1ekck = Nu6f14(-1478311488, B_6K3I9FDM);
+
 cout << zojLA << Nu6f14(545481072, B_6K3I9FDM) << Y7pxqh1 << KN9nsg << endl;
 
 

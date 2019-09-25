@@ -586,7 +586,7 @@ else if (NDJ478uUO >= -1900729992)
 {
 for (int k = 4; k >= 0; k--)
 {
-EX4BHHO3 = (int)floor(r3F97o68);
+
 }
 }
 else if (((fB7P_O_I03 != Em332X) || (Fm70U)) || (loiJ <= 1986093925))
@@ -627,7 +627,7 @@ else if (L_9A > sbzbw4s)
 switch (jrV6CyKe7A)
 {
 case 'a':
-EX4BHHO3 = (int)ceil(zN4R2);
+
 break;
 case 'b':
 

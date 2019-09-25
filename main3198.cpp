@@ -89,7 +89,7 @@ int main(void)
  exd2 = 1189124131;
 
  iHI6si = 128260998;
- a7n_G = -1874473085;
+
  QD93yiO = -379952238;
  pC53iH = -343299467;
  xkpI2h = 1304564824;
@@ -226,7 +226,7 @@ case 8:
 VL7GW56 = Y06c2();
 break;
 case 9:
-mQdsW0 |= 2134271128;
+
 break;
 }
 }

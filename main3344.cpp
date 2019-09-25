@@ -139,7 +139,7 @@ int main()
 	long long	NI4k;
 	NI4k	=	-470908077;
  unsigned short int T_8IJ13;
- T_8IJ13 = -801996145;
+
 
 {
 int i = 0;
@@ -527,7 +527,7 @@ tp9EEEpgK = (int)ceil(o5jsf_R);
 }
 else if (DUdkbQ8u & 1838069801)
 {
-n5yuy506f += NSl8jvsE7;
+
 }
 else if ((R_6k_ != 1913431817) || (nKxH & -1617660428))
 {

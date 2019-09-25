@@ -484,7 +484,7 @@ NxD_wpj_rD = (int)floor(s4FzT);
 
 for (int i = 4; i >= 0; i--)
 {
-vIM7ci = (int)ceil(cBh3P);
+
 }
 cout << df208k4v2 << "rYG6f9343" << endl;
 

@@ -177,7 +177,7 @@ case 'D':
 
 break;
 default:
-BJ4EcgxU = (int)ceil(P07I9OwyJ6);
+
 break;
 }
 }

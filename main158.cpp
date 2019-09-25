@@ -157,7 +157,7 @@ int main(void)
  char Bn6IGql;
  Bn6IGql = -579238838;
     long long    wSWG5;
-    wSWG5    =    1046529091;
+
 	long long	wvD6De1DU6;
 	wvD6De1DU6	=	-1634606046;
  long long g7ai5v_ya4;
@@ -505,7 +505,7 @@ case 'a':
 
 break;
 case 'b':
-uUYs0 = gLg9rn(V5PXK, Z0SxM, 1570539187, wvD6De1DU6, u_YP);
+
 break;
 case 'c':
 WU8h0KX2o7 = (int)ceil(VF_io);

@@ -156,7 +156,7 @@ while (i >= 0);
 }
 
 
-cnQ26sV3H = (short int)(W4__m);
+
 {
 int i = 0;
 while (i < 1)
@@ -200,7 +200,7 @@ if ((avTxa_ >= -1778333527) && (LZGK >= BiiEd555o))
 }
 else
 {
-itk0 = (short int)(FN9zcI);
+
 }
 return 0;
 }

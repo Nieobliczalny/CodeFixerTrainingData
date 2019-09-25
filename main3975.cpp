@@ -84,7 +84,7 @@ int main(int argc, char** argv) {
  int Gn5B;
 
     long double    JlZ5_60;
-    JlZ5_60    =    -1180978816;
+
  unsigned long S9tmB7x_3;
 
 	float	PJ7l3;
@@ -104,7 +104,7 @@ int main(int argc, char** argv) {
 	long	Q__58x647;
 
   long long  Vph9p16d;
-  Vph9p16d  =  0;
+
     char    OQ44qALc;
 
 	unsigned int	ixYMR3X;
@@ -193,7 +193,7 @@ catch (int& errorCode)
 {
 a_pPH_1 = E06FKgb(602771522, 915391931);
 }
-S9tmB7x_3 = QbK2h4DssR / ibN9Mi;
+
 
 s32dGO = lI25ZW_(2071274437, -1996115426, U31K9Bkj);
 if (hQ_hhU3mJ_ == 670407653)

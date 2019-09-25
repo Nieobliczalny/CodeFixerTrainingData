@@ -263,7 +263,7 @@ else
 {
 std::cout << kT6kGy7VP << std::endl;
 }
-ZE9g4 = 685440385 / VIYe3;
+
 
 {
 int i = 1;
@@ -301,7 +301,7 @@ hRU8BdK = (int)ceil(IxsG);
 }
 else if (JD6p1_6Gu & -1237582600)
 {
-ZE9g4 = (int)ceil(toQlBE);
+
 }
 else if (n2s7K0ZOV)
 {

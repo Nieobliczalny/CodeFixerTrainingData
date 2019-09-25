@@ -117,7 +117,7 @@ int main(int argc, char** argv)
 	short	j92ga709pE;
 
     char    aGanx;
-    aGanx    =    202379802;
+
     unsigned char    u3vZts;
 
 	unsigned short int	tO_3F0Nz;
@@ -127,7 +127,7 @@ int main(int argc, char** argv)
  float TMW9zFmx;
 
 	unsigned int	Zs_B15r1;
-	Zs_B15r1	=	1743473956;
+
 	unsigned int	S08gwn;
 	S08gwn	=	1653536564;
   unsigned short  p4y4M9;
@@ -157,7 +157,7 @@ int main(int argc, char** argv)
  long long i838;
  i838 = 875314367;
     unsigned short int    f3ID4bL8e;
-    f3ID4bL8e    =    745717377;
+
  long oLoV2;
  oLoV2 = 1376736490;
 	unsigned long	FL2u4_;
@@ -171,7 +171,7 @@ int main(int argc, char** argv)
  char JuCpqABz;
 
   int  EwuFL54;
-  EwuFL54  =  -1496666340;
+
  unsigned short int bA54e2m;
 
 	unsigned long	k9s559fg4;
@@ -298,7 +298,7 @@ break;
 
 
 
-A7i8aPS8V = (int)floor(IMya2_03);
+
 
 {
 int i = 0;

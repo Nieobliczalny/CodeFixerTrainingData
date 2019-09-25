@@ -28,7 +28,7 @@ int main(int argc, char** argv)
   unsigned short  gzCmB0f_;
 
   unsigned short  nrpO5;
-  nrpO5  =  -264016679;
+
  unsigned short ed5Q;
  ed5Q = -1922542664;
   short int  ydgcB93J0_;
@@ -74,7 +74,7 @@ int main(int argc, char** argv)
     char    A9AL2yy;
 
  long Mx7iS1;
- Mx7iS1 = 1671686838;
+
 	float	h3OP47;
 	h3OP47	=	-1203626817;
  float X8_2;

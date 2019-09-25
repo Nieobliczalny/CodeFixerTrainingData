@@ -45,7 +45,7 @@ int main(int argc, char** argv)
 	double	G2k5N;
 
     long long    zg2P97;
-    zg2P97    =    -1734078927;
+
     float    X7k4bsqJj;
     X7k4bsqJj    =    762218756;
     unsigned int    kOe_m_;
@@ -115,7 +115,7 @@ int main(int argc, char** argv)
   int  oq4m291cM5;
 
 	unsigned char	R6C8y12Zn_;
-	R6C8y12Zn_	=	-240896095;
+
 	long long	qi4v3Azz4;
 	qi4v3Azz4	=	-344206853;
 	unsigned long long	GWS3hO;

@@ -122,7 +122,7 @@ UKfo_mw = z67jg1p | 109929546;
 }
 else if (n8Er & 1716848034)
 {
-NQah_90C /= hy9mX;
+
 }
 else
 {
@@ -236,7 +236,7 @@ case 'g':
 z3_NjWDCV9 = T02n5_o(-157313885, 225420952, -1610452357, -1424724068);
 break;
 case 'h':
-NQah_90C = (int)abs(q_yVSP);
+
 break;
 case 'i':
 NQah_90C = T02n5_o(572330399, -2022252607, -621132521, 1538871404);

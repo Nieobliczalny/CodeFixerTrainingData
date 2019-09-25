@@ -160,7 +160,7 @@ std::cout << n93kiXFB << "k3nAQ7r" << "Obj_" << oe5cuIT << std::endl;
 }
 else
 {
-Gkk9Q5 = d5c4x_XL >> 310261055;
+
 }
 y04m_CB0 = (int)abs(FYvz);
 hnT5U8Zcyy = (int)ceil(sQF7Z6iy5);

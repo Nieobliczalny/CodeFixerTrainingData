@@ -31,7 +31,7 @@ int main(void)
 	unsigned char	wy2i3f;
 	wy2i3f	=	-543884301;
 	double	f83McY;
-	f83McY	=	-845466322;
+
 	long double	U3HI04S;
 	U3HI04S	=	1314996460;
  unsigned long long h54_;
@@ -79,7 +79,7 @@ int main(void)
  unsigned short EpJ3tL;
 
 	short	H_Y8U9;
-	H_Y8U9	=	-2047352967;
+
     long long    SOKlGl;
     SOKlGl    =    737903298;
 	long	jY1kr;
@@ -323,7 +323,7 @@ case 2:
 yN96t_DlMe = Q8x_00feot(yN96t_DlMe);
 break;
 case 3:
-f83McY = (int)ceil(cHsBFo60k);
+
 break;
 case 4:
 ecdSu5m5I6++;
@@ -407,7 +407,7 @@ case 3:
 yGW31B = Q8x_00feot(830483092);
 break;
 default:
-f83McY = (int)ceil(T1NaqqO);
+
 break;
 }
 }
@@ -490,7 +490,7 @@ case 6:
 Y8131Jk = (int)abs(lZzuo2F);
 break;
 case 7:
-S9OCy3L = (int)ceil(U6FWto);
+
 break;
 case 8:
 yGW31B = (int)ceil(z2Hf5R2kX);

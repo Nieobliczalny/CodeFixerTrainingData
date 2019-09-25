@@ -59,7 +59,7 @@ int main() {
   char  L7x6fRN;
 
 	unsigned long long	OW7_5;
-	OW7_5	=	0;
+
  float La_zl_b;
  La_zl_b = 1342978969;
   long long  RFiMNIwR_S;
@@ -115,7 +115,7 @@ int main() {
   float  k__WM4;
 
     int    jqOR3_;
-    jqOR3_    =    -260867489;
+
     unsigned short    t0UdckSJ9y;
     t0UdckSJ9y    =    1628387578;
   long long  IJOI;

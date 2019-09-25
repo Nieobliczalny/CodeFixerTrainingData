@@ -60,7 +60,7 @@ else
 }
 else if (ZYa0zB8B2 < Yoj414s)
 {
-n975 = (unsigned short)(iy7G2x0l);
+
 }
 else
 {
@@ -283,7 +283,7 @@ int k = 4;
 do
 {
 k--;
-E4iOTu = (int)abs(Rp4e_c09);
+
 }
 while (k >= 0);
 }
@@ -312,7 +312,7 @@ else if (t00JZ7 >= -1103922167)
 {
 if (OWunoG <= -782298042)
 {
-j7_nx = dI98uG3Bpx(-1915130671, a0731Cda1g);
+
 }
 else if ((Rp4e_c09 > -1387349713) && (q3VQL70cES == 1410588907))
 {

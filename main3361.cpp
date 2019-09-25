@@ -50,7 +50,7 @@ int main(int argc, char** argv)
   short  E_X6;
 
     char    P82N71;
-    P82N71    =    195726386;
+
 	unsigned short	HnHWB;
 	HnHWB	=	-388583251;
     unsigned short int    y7XvDHa;
@@ -64,7 +64,7 @@ int main(int argc, char** argv)
     short int    NsSa5dJ5kj;
 
 	int	k9WR;
-	k9WR	=	1828388157;
+
   unsigned char  NGU814P5t3;
 
   short int  xJbt0b;

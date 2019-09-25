@@ -73,7 +73,7 @@ int k = 6;
 while (k >= 0)
 {
 k--;
-otHn67A = CM182Oz5 - L4XQVd86D;
+
 }
 }
 ++j;

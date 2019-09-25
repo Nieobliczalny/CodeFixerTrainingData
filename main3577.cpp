@@ -504,7 +504,7 @@ case 4:
 
 break;
 case 5:
-JXv9md0 = (int)ceil(DeyMoZ);
+
 break;
 case 6:
 

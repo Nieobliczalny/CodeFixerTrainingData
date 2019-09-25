@@ -232,7 +232,7 @@ case 0:
 
 break;
 case 1:
-CGp6ika = e8G9iBg * 2078394020;
+
 break;
 case 2:
 

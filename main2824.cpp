@@ -119,7 +119,7 @@ R965D = (int)abs(fHHQ0elD);
 }
 else
 {
-RBrRMy |= xAhSoY;
+
 }
 
 if ((b8Lu5xERGF >= -1208957677) || (O1nVr4fW4 > -194155954))
@@ -214,7 +214,7 @@ break;
 
 try
 {
-lPjwXErq = eZDf(Uzai1, 451358286);
+
 }
 catch (int& errorCode)
 {

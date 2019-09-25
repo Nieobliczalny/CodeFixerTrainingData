@@ -174,7 +174,7 @@ try
 {
 if ((dqdpOdf2A & dH6mcJkf7) && (wCedt4 > 1577488605))
 {
-C0f9sqg7dT = Ii17yOq3 - iw6lfUd1MZ;
+
 }
 }
 catch (int& errorCode)
@@ -217,7 +217,7 @@ ah1_uo9JwY = qD2jN(Y1A8j2jFd);
 }
 else if (xE74ely == dH6mcJkf7)
 {
-C0f9sqg7dT = gaQj986Iu << 1484886198;
+
 }
 else
 {

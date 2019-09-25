@@ -344,7 +344,7 @@ case 0:
 
 break;
 case 1:
-qg4x5MG = sSQ_wQH_C5 * 697945663;
+
 break;
 case 2:
 
@@ -443,7 +443,7 @@ case 7:
 
 break;
 default:
-qg4x5MG = (int)abs(V05_a_6wD);
+
 break;
 }
 if ((AkC7 <= -392509074) && (x5556 == 1956877522))

@@ -194,7 +194,7 @@ ur8_I8 >>= tuB9;
 }
 else if (FR3WW0c <= 160549045)
 {
-zwT0z8 = (int)floor(FR3WW0c);
+
 }
 else
 {
@@ -376,7 +376,7 @@ cout << "DP3J5N5" << PQx5Aa0SqX(Z91J, cmxXAl) << endl;
 }
 }
 
-Z91J = (unsigned long)(g8OVIs861);
+
 {
 int i = 6;
 do

@@ -90,7 +90,7 @@ y9zsJ = (int)abs(mGVj_8u7V);
 Y1JuA = (char)(nEld8);
 
 mGVj_8u7V <<= X3x4DwEI0i;
-X3x4DwEI0i = (int)abs(nEld8);
+
 
 std::cout << Y1JuA << std::endl;
 
@@ -105,7 +105,7 @@ case 'b':
 Yfyl = mGVj_8u7V % y9zsJ;
 break;
 case 'c':
-X3x4DwEI0i = Y1JuA + cYg9A;
+
 break;
 case 'd':
 

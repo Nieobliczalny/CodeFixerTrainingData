@@ -239,7 +239,7 @@ j--;
 }
 else if (((Hv44 > Hv3fcZc1X) || (JG8UK <= AdI27l)) && (Hd4J > NB1eDAkdS))
 {
-Hd4J = (int)floor(rJbh);
+
 }
 else if (SsDNJlO)
 {

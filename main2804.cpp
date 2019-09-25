@@ -147,7 +147,7 @@ cn200a >>= 2054439793;
 break;
 case 'd':
 case 'D':
-Zg7hA = (int)ceil(K71M_n);
+
 break;
 case 'e':
 case 'E':

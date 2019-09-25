@@ -46,7 +46,7 @@ int main(void)
   unsigned short  Iw6by2d6;
 
 	unsigned short int	Q_HN6;
-	Q_HN6	=	-184507320;
+
 	unsigned int	ejO2;
 
   long long  yp7lm5;
@@ -60,7 +60,7 @@ int main(void)
   short int  fbIcf0_;
 
  float jiSY37a90;
- jiSY37a90 = -1279504311;
+
   short int  cTC5;
 
  unsigned short int C0q_9;

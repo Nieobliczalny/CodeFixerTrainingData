@@ -32,7 +32,7 @@ int main(int argc, char** argv)
 	long	G4U30Q;
 
     unsigned char    zl5_5H7dxB;
-    zl5_5H7dxB    =    -234991535;
+
 	char	kZyEPeq;
 
  unsigned short wPK6;
@@ -50,7 +50,7 @@ int main(int argc, char** argv)
     long long    Yi9kI47;
 
     unsigned long long    KDcgqpXMmQ;
-    KDcgqpXMmQ    =    -467253501;
+
     double    HlaU5Kd_;
 
 	double	H9wos;

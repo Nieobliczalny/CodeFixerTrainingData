@@ -26,7 +26,7 @@ int main(void) {
 
     NvEkne5_To    =    -842985441;
     VPeOS4I    =    -853241571;
-    Ma1ahK3    =    1228017381;
+
 
     Nujk_    =    695786508;
     ixG3VBh    =    116398980;
@@ -37,7 +37,7 @@ int main(void) {
 
     V8AU3b6H9    =    1423731193;
     VV8RBK9    =    -1278126106;
-    gL_lOKZnY    =    -735598775;
+
     DzwCFtG    =    532683740;
 
     t64BX    =    -1380833989;
@@ -54,7 +54,7 @@ int main(void) {
     vG6cjHeNub    =    1062497561;
 
 
-    p_TJS85    =    1656010792;
+
     z4Gz102    =    1969278547;
     An1t31mv    =    85231571;
 
@@ -64,7 +64,7 @@ int main(void) {
     kwLQ_Q    =    -373855097;
 
 
-    c5U32    =    -345548179;
+
     SeQ80AQ    =    343420068;
     g158c    =    1126395363;
 
@@ -83,7 +83,7 @@ int main(void) {
     yve_n7H9    =    1151224135;
 
     long    k78m0Sq,    QL8PpN_,    sL54d836,    bGsB3W;
-    k78m0Sq    =    0;
+
     QL8PpN_    =    0;
     sL54d836    =    0;
     bGsB3W    =    0;
@@ -136,7 +136,7 @@ y510cBHK06 -= GT2GU461z7;
 
 std::cout << n00o_C7Mr << "Y_0X" << w_13dsqh << std::endl;
 
-X6JE3pf2 = (char)(sL54d836 + (1277023083));
+
 std::cout << "tRe41Azp" << "mF1ouC" << g158c << std::endl;
 
 R4fR = (char)(ok0rWIS);

@@ -149,7 +149,7 @@ case 2:
 
 break;
 case 3:
-Xa513i_ = NEw_a(Xa513i_);
+
 break;
 case 4:
 bG1P--;

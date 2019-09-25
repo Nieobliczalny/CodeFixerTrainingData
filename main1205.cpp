@@ -138,7 +138,7 @@ switch (Q7kgAcSMXt)
 {
 case 'a':
 case 'A':
-Slji5a /= 185536752;
+
 break;
 case 'b':
 case 'B':
@@ -174,7 +174,7 @@ uFe8WJ ^= LO8f;
 break;
 case 'j':
 case 'J':
-Slji5a = (Slji5a & N04Kk9) ? etoVlB1 : TkWquH;
+
 break;
 default:
 z3FZz = (uFe8WJ != 1482945951) ? 1654392402 : zf0M;

@@ -112,7 +112,7 @@ int main(void) {
 	int	f_2WRK;
 	f_2WRK	=	-1976270652;
  char uzf9gERfQ;
- uzf9gERfQ = -1842331539;
+
 	unsigned char	U43J5UeYx;
 
   unsigned int  NFV_8v9bO;

@@ -101,7 +101,7 @@ int main(void)
  short M7wmLGg;
 
 	long double	oXWw5n7;
-	oXWw5n7	=	-51309915;
+
     double    ld0kb63;
     ld0kb63    =    -488695062;
 	unsigned char	f049yvHkjn;
@@ -318,7 +318,7 @@ case 'e':
 
 break;
 case 'f':
-f58jiy6iw = n1DU4q();
+
 break;
 default:
 

@@ -26,7 +26,7 @@ int main(void)
 	long	y056e;
 
  int NX_h6rE;
- NX_h6rE = 1126459763;
+
 	long	Yt6LUM;
 
  char pJ8DUr58;
@@ -36,7 +36,7 @@ int main(void)
 	unsigned short int	MS2Cqwg7D;
 
     int    geJf20gL;
-    geJf20gL    =    -2109334209;
+
  unsigned long long gGwR;
 
  unsigned long long Cd92OM;

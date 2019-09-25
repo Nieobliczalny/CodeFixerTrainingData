@@ -58,7 +58,7 @@ int main() {
 	long	upp6;
 
 	long	oubemhkBs;
-	oubemhkBs	=	503844987;
+
     unsigned int    mofNP;
     mofNP    =    448191731;
  unsigned int Ak23Z_N8Gi;
@@ -94,7 +94,7 @@ int main() {
   char  BB4f;
   BB4f  =  -1000211982;
 	float	oFHb_5y;
-	oFHb_5y	=	-295517859;
+
   unsigned long  Lm8x_MGw;
 
 	long	I4oez45;
@@ -138,7 +138,7 @@ int main() {
 	double	U2XP16H;
 	U2XP16H	=	-1655359021;
  double uZT_j7N;
- uZT_j7N = -1500783853;
+
 	short	E0ne_cV;
 
 	float	d0Mx4oPSo;
@@ -212,7 +212,7 @@ case 'c':
 r7Z1re = S6x0_VIs8();
 break;
 case 'd':
-d0Mx4oPSo = (int)floor(U2XP16H);
+
 break;
 case 'e':
 tAqho05 = knYw892c(-245783731);
@@ -241,7 +241,7 @@ switch (f9nXa)
 {
 case 'a':
 case 'A':
-oFHb_5y = (int)floor(M019583RrM);
+
 break;
 case 'b':
 case 'B':

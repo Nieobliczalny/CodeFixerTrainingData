@@ -94,7 +94,7 @@ int main(int argc, char** argv)
  unsigned long long q69sV0;
  q69sV0 = -735229247;
 	short int	t8ly;
-	t8ly	=	-678435309;
+
  long double ic3qk_fC;
  ic3qk_fC = -1290473787;
   unsigned short int  VV67Vl;

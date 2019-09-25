@@ -157,7 +157,7 @@ MWP_ = M2tvb4YIY ^ qkBC0T4;
 }
 std::cout << tK6346qS(117452146, f23beL34j, 823776458) << "vCLpHKcw" << std::endl;
 
-b_93kexj = nlnfliU8(-740328402) / 22281602;
+
 
 {
 int i = 0;

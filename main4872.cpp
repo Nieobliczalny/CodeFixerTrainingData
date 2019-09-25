@@ -118,7 +118,7 @@ int main(int argc, char** argv) {
   char  VsbT;
   VsbT  =  0;
   char  vT7uO_Vj;
-  vT7uO_Vj  =  -282536214;
+
     char    pP35;
     pP35    =    1984526524;
     long double    H5sFqSK;

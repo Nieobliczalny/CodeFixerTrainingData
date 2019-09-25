@@ -126,7 +126,7 @@ dYC293AH_J = (unsigned short int)(UGH2xLU8E_);
 
 
 
-LZhINVG %= 847989181;
+
 
 std::cout << vY7Da3tT_ << f_3t9tG << h03jk1yb64(vY7Da3tT_, 1982796627) << std::endl;
 
@@ -150,7 +150,7 @@ case 3:
 
 break;
 case 4:
-CMSd7UI = h03jk1yb64(1817374815, svvK0_074);
+
 break;
 case 5:
 

@@ -153,7 +153,7 @@ case 1:
 UtA9ZnK_ -= P3Ywt;
 break;
 case 2:
-Rf6Wvbso = (int)ceil(b25lY);
+
 break;
 case 3:
 

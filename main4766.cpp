@@ -132,7 +132,7 @@ case 'e':
 MMQs67 = ch3_NT6(654287816, -1504802879, ZCoz56_ns1);
 break;
 case 'f':
-v7kB4Z = ev96EtiyH9(v7kB4Z, 1179549386, 1257697615);
+
 break;
 case 'g':
 s0aCmW = ev96EtiyH9(1734613676, 241521242, ZCoz56_ns1);
@@ -147,7 +147,7 @@ case 'j':
 U26re45 = ch3_NT6(1110530116, -320418296, 603608726);
 break;
 default:
-v7kB4Z = (int)floor(Ij4cPgc);
+
 break;
 }
 
@@ -194,7 +194,7 @@ case 1:
 
 break;
 case 2:
-v7kB4Z = (int)ceil(Ij4cPgc);
+
 break;
 case 3:
 TzgKCt_ = C2Q7zdv ^ 1368520344;
@@ -209,7 +209,7 @@ case 6:
 v36z616U = ev96EtiyH9(v36z616U, 277772665, k6s56hMD);
 break;
 case 7:
-v7kB4Z = (int)floor(b85K1Q);
+
 break;
 case 8:
 

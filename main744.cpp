@@ -70,7 +70,7 @@ int main(int argc, char** argv) {
 	int	YY9BR4;
 
  unsigned short jTD52nb;
- jTD52nb = -749049900;
+
 	float	aGNhxs;
 	aGNhxs	=	1014488833;
 	long	F3bv;
@@ -88,7 +88,7 @@ int main(int argc, char** argv) {
 	double	v8yg;
 	v8yg	=	-348419378;
  unsigned short kPCr2X5;
- kPCr2X5 = -655603001;
+
 	unsigned short	loB811Z;
 	loB811Z	=	-434280375;
 	long	Hj9CXL_s3;

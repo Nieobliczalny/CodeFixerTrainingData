@@ -166,7 +166,7 @@ break;
 switch (PMiSy924)
 {
 case 'a':
-t2IBQ = (int)ceil(DgqNYGOA);
+
 break;
 case 'b':
 
@@ -190,7 +190,7 @@ case 'h':
 
 break;
 case 'i':
-Qm3Zs2xS = (int)abs(zXmg);
+
 break;
 case 'j':
 

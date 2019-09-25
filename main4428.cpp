@@ -179,7 +179,7 @@ int main(int argc, char** argv)
   float  o2yTC33;
 
     long double    r2AFRGqQ;
-    r2AFRGqQ    =    -379693356;
+
  long double F5x2Jt84F;
  F5x2Jt84F = -1016457244;
  char WClb_wuW;

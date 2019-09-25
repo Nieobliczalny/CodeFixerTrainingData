@@ -62,7 +62,7 @@ int main(void)
 	long double	sSNU_;
 
     double    v0rvS3F;
-    v0rvS3F    =    -2090698422;
+
   unsigned int  nB1K5Jx33f;
   nB1K5Jx33f  =  1173342313;
  float V7i7_548Y;

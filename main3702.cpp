@@ -417,7 +417,7 @@ else if (ngChz0JS <= 632500451)
 }
 else
 {
-w0ZP = (ngChz0JS == -2031236983) ? 1387809499 : AD0_V8S;
+
 }
 }
 }

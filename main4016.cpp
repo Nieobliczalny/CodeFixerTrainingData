@@ -25,7 +25,7 @@ int main() {
 
 
 
-	F75U	=	-877975715;
+
 	L3rmNkU67	=	-639660679;
 	PUKW3R	=	-1350890319;
 	MIt1	=	-874583595;
@@ -39,7 +39,7 @@ int main() {
 
 cout << jP4ef5a / AA9R << endl;
 
-MIt1 = E_dn1U >> 849813924;
+
 {
 int i = 5;
 do

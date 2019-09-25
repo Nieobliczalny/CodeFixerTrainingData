@@ -59,7 +59,7 @@ int main() {
 	long	pFF03V8;
 	pFF03V8	=	44179184;
     float    S_0_ONLM;
-    S_0_ONLM    =    1373989139;
+
     unsigned int    eCtIo_218;
     eCtIo_218    =    1925946825;
     double    iUNI_9cM;

@@ -283,7 +283,7 @@ pctKQ = Fb7CDk(-1984276916, -270142227, pvaaL, -270931248, dEH_Q);
 
 if ((GZZe34a != -489671026) && (f_tYhUOmJ < -1100733897))
 {
-pvaaL = Nr2lsQ();
+
 }
 else
 {

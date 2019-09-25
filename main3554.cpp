@@ -102,7 +102,7 @@ int main(int argc, char** argv) {
  unsigned short int SJJ3L5BN02;
  SJJ3L5BN02 = -1534915746;
  long i66_839k5;
- i66_839k5 = 909364409;
+
 	unsigned char	k6_UUD;
 
 	float	Ss9y0FSV;
@@ -211,7 +211,7 @@ NcSXhQttR = i1zZ / eiteq6Qi;
 break;
 case 'c':
 case 'C':
-i66_839k5 = (int)abs(gF8L3G);
+
 break;
 case 'd':
 case 'D':

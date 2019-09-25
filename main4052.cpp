@@ -481,7 +481,7 @@ case 'e':
 
 break;
 case 'f':
-GC0m = (PQNx0N4i >= -444861227) ? Fflwai1f6L : 588668125;
+
 break;
 case 'g':
 K11z7ukt = K6gD4Tm8(-283292060, -338697030, 1914579833);

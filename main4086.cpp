@@ -185,7 +185,7 @@ case 5:
 
 break;
 case 6:
-p7Nip15kg3 = zKn4PBzR(747469729, 1904471954, S90H, HmTqe);
+
 break;
 case 7:
 

@@ -128,7 +128,7 @@ case 'a':
 
 break;
 case 'b':
-T8c8NKse = RH3H2_8v(-1488787727, F225p, 2136274507, q4Dv7);
+
 break;
 default:
 
@@ -149,7 +149,7 @@ case 3:
 
 break;
 case 4:
-T8c8NKse = (int)abs(T3wuugww);
+
 break;
 case 5:
 
@@ -237,7 +237,7 @@ case 3:
 
 break;
 case 4:
-BWm_Ib = i_0IpHc | 382605006;
+
 break;
 case 5:
 

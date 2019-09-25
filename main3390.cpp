@@ -43,7 +43,7 @@ int main(void)
  long double UJK0EQ;
  UJK0EQ = -958197804;
     int    DL_HmiL;
-    DL_HmiL    =    875906847;
+
 	short	TVy_Q_4;
 
   unsigned short int  EN8tZ2Y04g;
@@ -65,7 +65,7 @@ int main(void)
 	long	ZzfdtzI;
 	ZzfdtzI	=	781751874;
  unsigned short int l_C7Ebv5g;
- l_C7Ebv5g = 281434636;
+
   unsigned int  Gaa6b813B;
   Gaa6b813B  =  -1967086015;
  unsigned long i1MOn;

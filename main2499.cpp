@@ -507,7 +507,7 @@ if (((t_P022xU >= -1423625861) || (p3EyEhM > -73237152)) || ((w1mV != Nymq) || (
 cout << eHgiwS6_9 << eHgiwS6_9 << h2TGQ5(moBKzi07a, OYT7cq3M, -2090599100, p3EyEhM) << "c4OL1bm8" << h2TGQ5(moBKzi07a, OYT7cq3M, 1170149510, p3EyEhM) << endl;
 }
 
-zuqZfqPJ6 = (float)(Q276y0WeaI);
+
 
 {
 int i = 0;

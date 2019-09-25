@@ -171,7 +171,7 @@ case 4:
 z_Ql--;
 break;
 case 5:
-u6DNZ_EC_ = (int)ceil(ekvt7bJE);
+
 break;
 default:
 q1ckL = (int)floor(tVsl2ci7E);

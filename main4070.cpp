@@ -37,7 +37,7 @@ int main(void)
 	char	noO4Ucw;
 
     short    UtrA;
-    UtrA    =    -963834380;
+
     short    D2N6Ez;
 
  int fNe_Q64O_;
@@ -63,7 +63,7 @@ int main(void)
     long    clLmy1S;
     clLmy1S    =    835753991;
   short int  wBE0R_beA;
-  wBE0R_beA  =  447774928;
+
  unsigned short MJ1frTB8L0;
 
   unsigned short int  ClG8K;
@@ -109,7 +109,7 @@ int main(void)
   int  R107qFC;
   R107qFC  =  -1043204191;
 	short int	q_zv;
-	q_zv	=	-1436378344;
+
     unsigned long    fImj;
     fImj    =    808971170;
     long long    T7x6RXP2;
@@ -125,7 +125,7 @@ int main(void)
     char    p_7w7wziA;
 
   int  tr2Ky2;
-  tr2Ky2  =  836444988;
+
 	short int	y0IEbs;
 
   unsigned int  AL7gA;

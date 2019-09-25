@@ -179,7 +179,7 @@ case 'e':
 
 break;
 case 'f':
-BM8Pc = RK1442O9(-1093085208, -2033531469, b5Z5);
+
 break;
 case 'g':
 
@@ -237,7 +237,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-Y_8eL19H = RK1442O9(-2010007401, Y_8eL19H, P5_4CoCz);
+
 break;
 case 'g':
 case 'G':

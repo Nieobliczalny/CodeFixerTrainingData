@@ -112,7 +112,7 @@ Y_VGIH1 *= 1198873030;
 }
 else if (YiXEJ_Bl == A9TG8a)
 {
-HaihfG = (int)abs(zdMT6D7_6);
+
 }
 else if (vyHL6YAY5 < O0U27)
 {

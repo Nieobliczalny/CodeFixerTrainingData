@@ -400,7 +400,7 @@ dQAvLv_n = LH60j4270J >> cfth;
 break;
 case 'b':
 case 'B':
-gLdOG_ = (int)floor(B12_qox8);
+
 break;
 }
 }
@@ -598,7 +598,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-g67ZvCT0C9 = (int)abs(mr7b68CX);
+
 break;
 case 'c':
 case 'C':

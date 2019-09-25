@@ -29,7 +29,7 @@ int main(void) {
     s9Z2Go    =    2097830379;
 
 
-    wN8c    =    2071033380;
+
     VkBL0zF    =    118123598;
     x52Ktt5oM7    =    1222260629;
     ryr3_    =    -1073954025;
@@ -81,7 +81,7 @@ int main(void) {
 
     KX6q_5X4    =    0;
 
-L6YQ ^= umHq2n_W;
+
 
 for (int i = 6; i >= 0; i--)
 {
@@ -186,7 +186,7 @@ DIZu9 *= gEH5Ex;
 
 if (N0HC9_O == -1052915982)
 {
-zUDl = (unsigned long long)(EOaoQ);
+
 }
 
 {

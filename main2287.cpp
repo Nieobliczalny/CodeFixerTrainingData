@@ -520,7 +520,7 @@ case 'G':
 break;
 case 'h':
 case 'H':
-yh7Jq67e9I = MKcPJ0 | 843509334;
+
 break;
 default:
 r60Q = icMp_ * 277126130;
@@ -612,7 +612,7 @@ else if (OD9t >= 1369001786)
 {
 if (seEjP < 517875688)
 {
-T06gtSJUF3 %= 454875838;
+
 }
 }
 else

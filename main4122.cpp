@@ -117,7 +117,7 @@ case 4:
 l0Y1ow += MPA_vxsgSy;
 break;
 case 5:
-zmws25oI6p = fj_x_O5Yr3 << ZDeWy;
+
 break;
 case 6:
 TabvV %= 1754548379;
@@ -165,7 +165,7 @@ case 'h':
 
 break;
 case 'i':
-bf9H9 += fk_1r2T;
+
 break;
 case 'j':
 p604A9Ru >>= dUYUnu4vDl;

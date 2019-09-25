@@ -246,7 +246,7 @@ case 5:
 bUKl++;
 break;
 case 6:
-dIlM = d73aGOr25D * 174499154;
+
 break;
 default:
 

@@ -26,7 +26,7 @@ int main() {
 	rL11r0v__1	=	210526646;
 
 	P8_Z1f	=	1036218139;
-	rj2Kcn3TmB	=	-1470433866;
+
 	o44q	=	-2108306553;
 	f2XDQ	=	-2122163571;
 
@@ -38,7 +38,7 @@ int main() {
 
 	se04zG23	=	1785361740;
 
-	y297	=	309951035;
+
 
 	x_g1RnQ	=	-317569802;
 	v6YiA	=	1370596171;
@@ -60,7 +60,7 @@ int main() {
 
 	c1mng	=	-1261844704;
 
-	A448T465kC	=	1196718634;
+
 	uwaqEf	=	-692686036;
 	iuSO_5f	=	1138082770;
 
@@ -82,7 +82,7 @@ int main() {
 	IPQlDE4K	=	-266085544;
 
 	zw44nG8	=	-584293192;
-	B1uy1	=	-377700795;
+
 	L1K3	=	-1638209584;
 	O3AD7JP	=	-1736681044;
 
@@ -92,7 +92,7 @@ int main() {
 	Q_jA432f	=	154626982;
 	VyVQR	=	-1398563480;
 
-	FuC_Pn9x	=	-1169159271;
+
 	q1x4HmN	=	1843822956;
 	h60g8II7	=	-438131179;
 	u66c	=	1618764831;
@@ -103,7 +103,7 @@ int main() {
 	vum_2	=	1736982347;
 
 	bRwN7UZSw2	=	392274433;
-	IQEUE7K25q	=	197159283;
+
 	WWbJ5ITl	=	425982628;
 	rzQrpb	=	-67177991;
 
@@ -178,7 +178,7 @@ cout << "Gxzrlz82h" << kQEkj8L9(v276, owODTAm9x, -1149748173) << endl;
 switch (IPQlDE4K)
 {
 case 'a':
-wT3KX3vmp = kQEkj8L9(1032310119, x_g1RnQ, BMJ2awTc);
+
 break;
 case 'b':
 L1K3 = (int)abs(bRwN7UZSw2);

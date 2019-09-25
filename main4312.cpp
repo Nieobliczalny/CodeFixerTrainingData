@@ -613,7 +613,7 @@ case 5:
 foO8SqH = uFD23_65i1 ^ 923239419;
 break;
 case 6:
-KrEY = szggdyYS6w(Fb_c4Ko, KrEY, NmgAR7V, -2012689778, Jc54);
+
 break;
 }
 }

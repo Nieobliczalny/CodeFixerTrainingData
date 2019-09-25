@@ -25,7 +25,7 @@ int main() {
  unsigned long long s2x3aFd0Eq;
 
 	double	ir8Ti3EB;
-	ir8Ti3EB	=	-424053477;
+
  unsigned long long G8XZfi0eZ6;
 
 	unsigned short int	dOo1joLk7;
@@ -35,7 +35,7 @@ int main() {
     unsigned long    tglVIP4lVz;
 
 	short	Sy88PJbF;
-	Sy88PJbF	=	-1192767149;
+
  unsigned short int Xi__YP5;
 
   long  Zw_541g;
@@ -45,7 +45,7 @@ int main() {
  long long U5_d1W;
 
  unsigned int x7TRrxO;
- x7TRrxO = -2081642563;
+
     double    YS2Yseox2;
 
  char CI_u7_FOLl;
@@ -55,7 +55,7 @@ int main() {
   int  J945OBG57k;
 
 	unsigned short	K_9z5Os;
-	K_9z5Os	=	-1095239150;
+
  double dp1G59;
 
  float M495IZ6DP;
@@ -65,7 +65,7 @@ int main() {
   int  hDRjOVH2;
 
   unsigned int  MkQWCu1;
-  MkQWCu1  =  1784842826;
+
     unsigned long long    w0TYs8xpa;
 
 	int	uBPCzY;
@@ -75,7 +75,7 @@ int main() {
   double  t4dr15bS_;
 
  char o453cMpd6;
- o453cMpd6 = 1049928257;
+
 	short int	tovHg04;
 
   unsigned long long  whDj;
@@ -85,7 +85,7 @@ int main() {
     long double    Mf2Fm_J;
 
 	long long	UYgjF7YIzR;
-	UYgjF7YIzR	=	-1918125178;
+
   unsigned long long  b5kh_8J;
 
     long    zRnk2Wk_a;
@@ -95,7 +95,7 @@ int main() {
  short Zhjw4ZDWgI;
 
   char  uS8GR7Gb;
-  uS8GR7Gb  =  -1244386018;
+
 	unsigned char	yLnp;
 
  int Hgst8;
@@ -105,7 +105,7 @@ int main() {
   short int  nC63L;
 
   short int  a0COn39;
-  a0COn39  =  1436499420;
+
  float aN2pfP;
 
   unsigned int  lCt8hwLnX;
@@ -115,7 +115,7 @@ int main() {
   long  DSYCmc;
 
  unsigned long long CCG4Y5Z;
- CCG4Y5Z = 2079050459;
+
  long long T72SC4;
 
     unsigned long long    VXOpK11z5;
@@ -125,7 +125,7 @@ int main() {
     unsigned short int    IfUP4wQU87;
 
     unsigned short int    tosVy6cv_z;
-    tosVy6cv_z    =    796048647;
+
  unsigned long long nRz58j07h;
 
 	unsigned char	b517;
@@ -135,7 +135,7 @@ int main() {
   unsigned long  oo_1;
 
   unsigned short int  L3nMP;
-  L3nMP  =  -1909057469;
+
  unsigned long long kptxDYw1;
 
     int    K_9tOCfA;
@@ -145,7 +145,7 @@ int main() {
 	char	qqLsTb73;
 
     char    a72j1Fpm;
-    a72j1Fpm    =    2078875137;
+
  double q9BNXs9A1;
 
   long double  Bs08es248;
@@ -155,7 +155,7 @@ int main() {
   unsigned long long  mfOAwPV;
 
     long double    r3K8UZ;
-    r3K8UZ    =    1996310403;
+
 	short int	KlUiwXQ_9;
 
  long dMylK7r;

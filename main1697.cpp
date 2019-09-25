@@ -35,7 +35,7 @@ int main() {
     plM9yMBN    =    1690202885;
     z5VwJQT    =    1614001016;
     Klx9    =    1793476823;
-    vEqe    =    -1129989215;
+
     V1WUEtVg7    =    -775130924;
     dK__cRP_    =    -740487253;
     Y9A_O47on    =    -377056906;
@@ -52,7 +52,7 @@ int main() {
     G_605i8    =    -1195610897;
     ldHr52czzv    =    871268574;
 
-    vHNl7ecv    =    623128713;
+
 
     AJhn    =    366741520;
     C9nt    =    -129696164;
@@ -91,7 +91,7 @@ case 'c':
 Lrlp6w %= 2063114538;
 break;
 case 'd':
-vEqe = (int)abs(dK__cRP_);
+
 break;
 case 'e':
 AJhn = G98REq << 704324781;

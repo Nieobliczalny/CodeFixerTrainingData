@@ -461,7 +461,7 @@ for (int i = 6; i >= 0; i--)
 {
 
 }
-M507atV = (int)abs(q04To23r);
+
 
 switch (r250e_)
 {

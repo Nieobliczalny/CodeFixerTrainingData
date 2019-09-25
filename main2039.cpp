@@ -24,7 +24,7 @@ int main(int argc, char** argv)
   long double  M_23rt04o;
 
   int  Q4E8;
-  Q4E8  =  1633999392;
+
     unsigned int    UpDTshYA6;
 
   int  sY9_L;
@@ -58,7 +58,7 @@ int main(int argc, char** argv)
  unsigned short int r71___5H3;
 
  double rkjgk8a5;
- rkjgk8a5 = 213742133;
+
  long double YCt_;
 
   unsigned short  Nq_fm8;
@@ -78,7 +78,7 @@ int main(int argc, char** argv)
 	double	pcp5cc;
 
   long double  R5ccvG2;
-  R5ccvG2  =  304480488;
+
     unsigned int    j533u23;
 
  long double M_Cr4esKr;
@@ -94,7 +94,7 @@ int main(int argc, char** argv)
     unsigned short int    fNGLDVE4DL;
 
  unsigned long long cTWWI6;
- cTWWI6 = -780348002;
+
   long  RMU8cxs6;
   RMU8cxs6  =  223255828;
  long l6R4d8Y;
@@ -106,7 +106,7 @@ int main(int argc, char** argv)
  long long USP6iaMw;
 
     unsigned char    mj6xcr;
-    mj6xcr    =    1829149172;
+
 	long double	HR2kZV1;
 
   float  Rnq_2q2dZ;
@@ -120,7 +120,7 @@ int main(int argc, char** argv)
   double  V083;
 
     long double    y899o4Yv07;
-    y899o4Yv07    =    805613847;
+
 	double	Ze2D;
 
  unsigned long long Loowi59tq;
@@ -132,7 +132,7 @@ int main(int argc, char** argv)
   unsigned int  Y959lpqD;
   Y959lpqD  =  -402964571;
   long double  CcrA_;
-  CcrA_  =  445788629;
+
     short int    e6Sd3yM0Q2;
 
 	long	Qmrcyy;
@@ -142,7 +142,7 @@ int main(int argc, char** argv)
     unsigned int    MjE45118B;
 
  float NwT5rKs_;
- NwT5rKs_ = 785655836;
+
   unsigned int  fLXyWpQn_Z;
 
 	unsigned long	NF1gVzD;
@@ -152,7 +152,7 @@ int main(int argc, char** argv)
 	unsigned int	JaF7xf3Qf2;
 
  unsigned long eMDQ_;
- eMDQ_ = 671981978;
+
     double    Ozcq;
 
     double    km1D5jJ;
@@ -162,7 +162,7 @@ int main(int argc, char** argv)
   long  V_1bC68u;
 
   char  V2I7ux2JD8;
-  V2I7ux2JD8  =  -1745665102;
+
     unsigned short int    B32N_;
 
     short    J5plPJP;
@@ -188,7 +188,7 @@ int main(int argc, char** argv)
     long double    rVXhv6A;
 
 	double	LpQvqf94wk;
-	LpQvqf94wk	=	-1882292352;
+
  short int r8RO;
  r8RO = -228624401;
 
@@ -203,7 +203,7 @@ for (int j = 0; j < 6; ++j)
 
 }
 }
-UpDTshYA6 = B2RV_u77(Y959lpqD, 708988578, 1365894842, -314002732);
+
 
 
 

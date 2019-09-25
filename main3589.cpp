@@ -30,7 +30,7 @@ int main(int argc, char** argv) {
   long  QM87p_C4;
   QM87p_C4  =  -1350705420;
   float  IM060xcv;
-  IM060xcv  =  1504788530;
+
  unsigned short int a_3KLMJf6j;
  a_3KLMJf6j = -1155176908;
     short    s4y3cr;
@@ -44,7 +44,7 @@ int main(int argc, char** argv) {
  unsigned int g4G2;
  g4G2 = 845415131;
   double  pk7171o0l4;
-  pk7171o0l4  =  -1018969729;
+
 	int	qS8Gu8DZRo;
 
   unsigned int  q7zkh9b;
@@ -78,7 +78,7 @@ int main(int argc, char** argv) {
 	long double	uDoCr;
 	uDoCr	=	1860643352;
  unsigned short xPJWPJOavr;
- xPJWPJOavr = 2118893194;
+
   long  k6v5K;
   k6v5K  =  -46709934;
     long double    UuwjNLbkFM;
@@ -326,7 +326,7 @@ else if (z53KPz)
 }
 else if (U4gX == uyz9)
 {
-pk7171o0l4 = pDhd_h(967344203, 1314763839, V8shJWOe9);
+
 }
 else
 {

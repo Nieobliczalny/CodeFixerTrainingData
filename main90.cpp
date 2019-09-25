@@ -148,7 +148,7 @@ int main(void)
  unsigned long long mqg8Udg;
 
  unsigned char MsALa;
- MsALa = 1825980664;
+
     unsigned short int    CPMn4H;
 
     double    T1P4xGEUG;
@@ -198,7 +198,7 @@ int main(void)
   int  c7L8ilqW;
   c7L8ilqW  =  1203520026;
     unsigned short    cw_3k;
-    cw_3k    =    -194001282;
+
  float oCK4Bhb4;
  oCK4Bhb4 = 514664689;
  short P_t66;
@@ -444,7 +444,7 @@ case 5:
 
 break;
 case 6:
-EF38oGQ78 /= 103958434;
+
 break;
 case 7:
 

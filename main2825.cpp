@@ -62,7 +62,7 @@ int main(void)
 	short int	xV8A3Dq_;
 	xV8A3Dq_	=	0;
     long double    f69a;
-    f69a    =    483090859;
+
   long long  fKjdIUz;
   fKjdIUz  =  551606436;
 
@@ -111,7 +111,7 @@ break;
 }
 for (int i = 0; i < 7; ++i)
 {
-f69a = (long double)(ts8h_);
+
 }
 if (((f4z3iJ & -1463105140) || (xV8A3Dq_ >= 1235929574)) && (xV8A3Dq_ >= -2069936547))
 {
@@ -154,7 +154,7 @@ default:
 
 break;
 }
-xV8A3Dq_ = (int)abs(ur7L6AI) * 0;
+
 
 if (u7D5Si_8LA < -1745313431)
 {

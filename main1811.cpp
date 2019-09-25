@@ -170,7 +170,7 @@ int main(int argc, char** argv) {
  unsigned int E1x77a9;
  E1x77a9 = 1865442631;
   double  TYTR67;
-  TYTR67  =  -875363509;
+
     short    O4WgF_w8;
     O4WgF_w8    =    542105347;
   unsigned int  CMvcf;
@@ -180,7 +180,7 @@ int main(int argc, char** argv) {
   unsigned long long  QM_O72;
 
   long long  BYocq_3;
-  BYocq_3  =  439673178;
+
   int  IP25wyzUz;
   IP25wyzUz  =  -50556;
  unsigned char MH4_8;
@@ -543,7 +543,7 @@ else
 int k = 0;
 do
 {
-TYTR67 = j5OWOR >> s_pR0T2rZj;
+
 k++;
 }
 while (k < 1);

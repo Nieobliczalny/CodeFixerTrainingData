@@ -31,7 +31,7 @@ int main(void)
   unsigned short int  Ch6nM;
 
     double    E_XmeT88;
-    E_XmeT88    =    -836828207;
+
 	long double	P3_8HTt;
 	P3_8HTt	=	-1521499641;
  int d19ao6M;
@@ -55,7 +55,7 @@ int main(void)
  short int ph7_kn;
 
     unsigned short int    nVgza7Xn;
-    nVgza7Xn    =    -688525599;
+
     float    V0AyE;
 
 	short int	l9VPD5c;

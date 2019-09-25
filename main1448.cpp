@@ -569,7 +569,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-Z7gcW = oRP0 % eNrH5;
+
 break;
 case 'g':
 case 'G':

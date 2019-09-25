@@ -166,7 +166,7 @@ if ((Ede91R8h / vAcmcpla) < -1761809910)
 {
 if ((DD_w3e7(xxctKAk0s_, xC3e, nk7y7or_OY) / t57QD3oUG1) != -939547053)
 {
-Q3icwwqh63 = (unsigned short)(wYk17);
+
 }
 }
 
@@ -231,7 +231,7 @@ LPJ9fgVAb9 = ZrqrYq_X(LPJ9fgVAb9);
 }
 else
 {
-S_XqgAm2 = (int)floor(RRI_B);
+
 }
 }
 else if (HRpWH & u3w2Hb)

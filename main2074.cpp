@@ -346,7 +346,7 @@ else
 {
 if (((JR_VXgV == Qh4e2MOb) || (F78j1d <= -950054796)) || (p1f7uAI > -1340396376))
 {
-YdFuA = dlv_R(YdFuA);
+
 }
 }
 v9zmgrY = TUQDTK(pdb7p57AP, r4k5, 408186832, c7iz4A);

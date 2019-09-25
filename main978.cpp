@@ -99,7 +99,7 @@ int main()
 	long double	n9Ln5C5Nv;
 	n9Ln5C5Nv	=	654160894;
 	double	w_Cz4;
-	w_Cz4	=	-417289285;
+
 	unsigned short	qKE25GK5;
 	qKE25GK5	=	-1775297092;
  int JOh1W;

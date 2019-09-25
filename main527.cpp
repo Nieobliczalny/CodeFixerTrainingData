@@ -155,7 +155,7 @@ case 3:
 m6Ti_DmUka = (int)ceil(PikJ);
 break;
 case 4:
-w9It ^= C6IY4_40;
+
 break;
 case 5:
 
@@ -170,7 +170,7 @@ case 8:
 
 break;
 default:
-a6Aq5Z = (int)floor(iOEO5);
+
 break;
 }
 }
@@ -213,7 +213,7 @@ case 'd':
 
 break;
 case 'e':
-AR_v9D4s_0 = (int)floor(m6Ti_DmUka);
+
 break;
 case 'f':
 

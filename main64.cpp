@@ -54,7 +54,7 @@ int main(int argc, char** argv) {
  unsigned short int jt9Yi;
 
 	float	rU016;
-	rU016	=	-1549928794;
+
     unsigned int    w7i2Lol9e5;
 
  float BC973;

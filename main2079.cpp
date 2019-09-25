@@ -66,7 +66,7 @@ int main(int argc, char** argv)
 	long long	nHu0GStV;
 	nHu0GStV	=	-431921839;
   double  ktJJr;
-  ktJJr  =  1678103920;
+
   unsigned short  US5CW1_v46;
   US5CW1_v46  =  -1807198315;
     short    IuP1fM;
@@ -132,7 +132,7 @@ int main(int argc, char** argv)
 	unsigned long	N10hbY8a;
 
     long long    uf_8;
-    uf_8    =    -2050269767;
+
 	long	xvEN;
 
     short int    IFJDkg0M7;
@@ -200,7 +200,7 @@ int main(int argc, char** argv)
 	float	F1j5;
 
 	double	n2sb8uMqi1;
-	n2sb8uMqi1	=	330536183;
+
 
 if (ja6FfaG2Kj > FEmHC)
 {
@@ -332,7 +332,7 @@ else
 int i = 0;
 while (i < 3)
 {
-ktJJr = (int)floor(LR908u);
+
 ++i;
 }
 }

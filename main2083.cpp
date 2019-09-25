@@ -170,7 +170,7 @@ int i = 7;
 while (i >= 0)
 {
 i--;
-y46j2S = Vb_0SLMsP * Kx3xL7Jzh6;
+
 }
 }
 

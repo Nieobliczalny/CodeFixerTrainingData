@@ -24,7 +24,7 @@ if (aIru6y4vqX > -363013019)
 int k = 0;
 while (k < 8)
 {
-mGgDq = (int)abs(tO57SCV);
+
 ++k;
 }
 }

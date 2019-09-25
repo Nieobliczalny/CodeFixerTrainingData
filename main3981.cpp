@@ -51,7 +51,7 @@ int main(int argc, char** argv)
   char  i0g0;
 
   unsigned int  yFZv1nk;
-  yFZv1nk  =  1982732364;
+
  unsigned int f__p5m4Bh;
 
     long double    PEGL;
@@ -77,7 +77,7 @@ int main(int argc, char** argv)
 	long long	SLpZ;
 
 	short int	H_DBF9QM4;
-	H_DBF9QM4	=	712422882;
+
 	int	fn_sbCW8u;
 	fn_sbCW8u	=	-417266667;
 	short	O9ohMqY10D;
@@ -109,7 +109,7 @@ int main(int argc, char** argv)
     unsigned short int    R2lq9h0;
 
   unsigned long long  a6_5;
-  a6_5  =  57807796;
+
 	unsigned short	kdZR;
 
 	float	GqIC;

@@ -50,7 +50,7 @@ int main(void)
  unsigned short qs36u2VWkB;
  qs36u2VWkB = 1512764558;
  int LtJW;
- LtJW = 633211901;
+
     long double    A45NTWT4RH;
 
  short NYg18l;
@@ -381,7 +381,7 @@ else
 }
 else if (Te7c >= 2119243812)
 {
-T44fJ06LIH = I059C9(T44fJ06LIH, tKe7);
+
 }
 else if (ik_4Fu_67 != 440913449)
 {

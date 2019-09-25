@@ -83,7 +83,7 @@ int main(void)
   long  mFWv_t;
   mFWv_t  =  -1016954823;
     short int    K1r__S6Hl;
-    K1r__S6Hl    =    -830484343;
+
   unsigned long long  Xp0ELLrT;
   Xp0ELLrT  =  272098223;
 	unsigned int	t2xS;

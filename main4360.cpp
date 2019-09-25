@@ -51,7 +51,7 @@ catch (int& errorCode)
 {
 wV6Sc4WGk5 = D7J_p8K - 582877193;
 }
-hSSC = (float)(PdLgJ_z);
+
 
 tf_5eXP *= FBhEuj;
 try

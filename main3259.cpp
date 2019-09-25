@@ -103,7 +103,7 @@ for (int j = 10; j >= 0; j--)
 {
 for (int k = 0; k < 9; ++k)
 {
-AIRl = (int)abs(c_K1j);
+
 }
 }
 }

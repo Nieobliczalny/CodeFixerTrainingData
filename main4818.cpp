@@ -41,7 +41,7 @@ int main(void)
  unsigned long long l4aOsU4i5;
  l4aOsU4i5 = 1602049559;
   long double  F8R8hl;
-  F8R8hl  =  1475181863;
+
   long long  YYjL3;
   YYjL3  =  -1374776554;
  short int T0T_GIu6P;
@@ -69,7 +69,7 @@ int main(void)
     unsigned char    D7103DzQ;
     D7103DzQ    =    -1576863525;
   char  K_fCa0But1;
-  K_fCa0But1  =  762478875;
+
     long long    KPd94;
     KPd94    =    -2053374309;
   short int  W89Jij4bV8;
@@ -111,7 +111,7 @@ int main(void)
   unsigned long long  QIMGn523o3;
   QIMGn523o3  =  627346682;
     unsigned long long    kmQ8G5;
-    kmQ8G5    =    1718096168;
+
 	int	mDBPXa4;
 	mDBPXa4	=	-1083997464;
  unsigned int P_Ca;

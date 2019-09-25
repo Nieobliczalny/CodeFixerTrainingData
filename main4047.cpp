@@ -346,7 +346,7 @@ H1Uu695S = (int)floor(O72i_Uk75);
 }
 else if (bp3M0xw_8 & u_Xodpwlx)
 {
-NKjVOvWk9M = (int)floor(H1Uu695S);
+
 }
 else
 {
@@ -380,7 +380,7 @@ B0V0I2D3 = qwSa9_O2N >> X1027g7df;
 }
 else
 {
-NKjVOvWk9M = (int)ceil(O72i_Uk75);
+
 }
 }
 else

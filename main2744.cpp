@@ -295,7 +295,7 @@ case 'c':
 b9djK *= hIz_3s;
 break;
 case 'd':
-J00n4 = (int)floor(LdkrqsT);
+
 break;
 case 'e':
 WflIu13 = (int)ceil(LdkrqsT);
@@ -378,7 +378,7 @@ case 2:
 Is2nqlxQ <<= GULb7zgqQ;
 break;
 case 3:
-J00n4 = (int)ceil(X_HViYwB);
+
 break;
 case 4:
 

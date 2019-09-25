@@ -77,7 +77,7 @@ int main()
  int l_4_0jm6;
 
  char xD25_3B67;
- xD25_3B67 = -193766606;
+
 	unsigned long	I6GL;
 
   unsigned short  Q53FCag;
@@ -87,7 +87,7 @@ int main()
 	unsigned short int	GJDAfc_Q_;
 
 	short	E749wo;
-	E749wo	=	1366179411;
+
 	long long	XR1N_sP;
 	XR1N_sP	=	-1119724116;
  char tOT3e4_J6v;

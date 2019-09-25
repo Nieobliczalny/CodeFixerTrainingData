@@ -230,7 +230,7 @@ case 0:
 NL2c6Jv385 = r_eNeR7T(NL2c6Jv385);
 break;
 case 1:
-R6OB <<= 651400949;
+
 break;
 case 2:
 NL2c6Jv385 = (int)ceil(W5ukJHVD);
@@ -242,7 +242,7 @@ case 4:
 AaJg27_Y ^= 2026302346;
 break;
 default:
-R6OB >>= 173381477;
+
 break;
 }
 }
@@ -310,7 +310,7 @@ if (aacCzJE0_3 >= w68jw_cq)
 }
 else
 {
-AaJg27_Y &= NL5W1F;
+
 }
 }
 }

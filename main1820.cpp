@@ -82,7 +82,7 @@ int main(int argc, char** argv) {
   long long  aI88b_29_r;
 
   long double  G26GtSG9Y9;
-  G26GtSG9Y9  =  -1171940380;
+
  long double sL5E97Bn;
 
  unsigned char WsQJ;

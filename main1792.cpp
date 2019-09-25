@@ -691,7 +691,7 @@ case 4:
 
 break;
 case 5:
-rH0bs4 = QEPpm_(rH0bs4, 27303848, 1128997054);
+
 break;
 case 6:
 

@@ -55,7 +55,7 @@ int main(int argc, char** argv)
     long    s8nX50;
     s8nX50    =    -632473590;
  unsigned short tr6TiIjI2;
- tr6TiIjI2 = -795962267;
+
   double  knW56M5wkH;
   knW56M5wkH  =  -124587450;
 	unsigned long long	o4s025;
@@ -65,7 +65,7 @@ int main(int argc, char** argv)
   long double  JtkIupg;
   JtkIupg  =  979709134;
     short int    aVGfF;
-    aVGfF    =    -1333023826;
+
     unsigned short    NQ2qJ7;
     NQ2qJ7    =    1896502229;
 	unsigned long long	s5Q02_RVdm;
@@ -147,7 +147,7 @@ int main(int argc, char** argv)
  long b_a39;
 
  short wsV64aY;
- wsV64aY = -633958978;
+
 	short int	JxhL4j;
 	JxhL4j	=	-400817324;
     char    VQNx_TEr9;
@@ -389,7 +389,7 @@ else
 {
 for (int k = 0; k < 6; ++k)
 {
-mJb0 = (int)abs(A3djly);
+
 }
 }
 }

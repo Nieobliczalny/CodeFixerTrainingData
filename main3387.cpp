@@ -113,7 +113,7 @@ int main(int argc, char** argv)
     unsigned char    pXAHd6uc9n;
 
   float  r_e6WL;
-  r_e6WL  =  1374971682;
+
     char    MBR5M;
 
   unsigned short  uf6t_;

@@ -56,7 +56,7 @@ else if ((Q2vW >= Oo6BIwB) || (Oo6BIwB & 42739351))
 switch (oy251j)
 {
 case 'a':
-DMf_1pHA = GYyxI8f1 - 1251757751;
+
 break;
 case 'b':
 FibNd--;
@@ -228,7 +228,7 @@ while (i < 2)
 i++;
 if (oy251j)
 {
-PEkI0_BC = FDNuc3RV + 1734891269;
+
 }
 else
 {

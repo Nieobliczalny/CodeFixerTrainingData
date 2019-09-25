@@ -357,7 +357,7 @@ case 3:
 bK___Tp6 = (int)ceil(vn30nRP_);
 break;
 case 4:
-Op5U <<= 62871615;
+
 break;
 }
 

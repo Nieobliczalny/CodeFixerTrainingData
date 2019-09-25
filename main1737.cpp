@@ -91,7 +91,7 @@ int main(void)
   double  E0_uV;
   E0_uV  =  -849032808;
     unsigned int    BgEh1D8A8I;
-    BgEh1D8A8I    =    -1826004982;
+
  unsigned short Rzfy8;
 
 	unsigned char	bh5ii88;

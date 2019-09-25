@@ -156,7 +156,7 @@ i--;
 while (i >= 0);
 }
 
-oY9E = (long long)(k7P4P1 + (ow6ID4));
+
 if (T_6Kv1 < tEji3)
 {
 switch (T_I3)

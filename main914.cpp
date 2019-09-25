@@ -41,7 +41,7 @@ int main() {
   long double  cf2818fW_2;
   cf2818fW_2  =  -926364126;
 	long	o2JNrC;
-	o2JNrC	=	802131526;
+
   unsigned long  nI2ci7n;
 
  unsigned long xYiI;
@@ -65,7 +65,7 @@ int main() {
 	unsigned int	L40wZzQ;
 	L40wZzQ	=	-1860645382;
   unsigned short  Tn2W;
-  Tn2W  =  356203537;
+
   int  RXM_;
   RXM_  =  -835674377;
 	double	rQS2p3bao;
@@ -215,7 +215,7 @@ if ((mlgdAtV_ == EdqaS5jWD5) || (mlgdAtV_ != HNpatZWF8I))
 }
 else if (Lq08__ == YOrzqGtND)
 {
-P_32 = (int)floor(ia8xxh30);
+
 }
 else if ((nfIBr & -344662728) || (cf2818fW_2))
 {

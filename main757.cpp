@@ -242,7 +242,7 @@ std::cout << vqeq8R1(atim5) << ZeGj82r << vqeq8R1(-1081112595) << "Ca3j7p5J_i" <
 
 for (int i = 1; i >= 0; --i)
 {
-e_AoGSi = vqeq8R1(-108577765);
+
 }
 
 return 0;

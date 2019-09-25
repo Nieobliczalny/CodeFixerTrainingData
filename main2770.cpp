@@ -203,7 +203,7 @@ if (MTQfcWT)
 {
 try
 {
-Y0O1fA = PpD31T - 101369019;
+
 }
 catch (int& errorCode)
 {

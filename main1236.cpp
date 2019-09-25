@@ -62,7 +62,7 @@ int main(void)
 
  qLNC = 1885415126;
  cMb0vujsi = 1497636359;
- fJiqN = -896066475;
+
  J3P56_D = 1014050488;
 
 try
@@ -122,7 +122,7 @@ try
 {
 if (((mS5R67Pe == 820586432) || (r_1_p8vS_b)) || (BzBfu9U >= -1592642954))
 {
-fJiqN = (double)(g1fJvds);
+
 }
 else if (AbZuQf18 & -1930834553)
 {

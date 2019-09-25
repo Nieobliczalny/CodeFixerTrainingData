@@ -29,7 +29,7 @@ int main(int argc, char** argv)
 	unsigned char	X7P2c_Wc;
 
 	long	tT4J0M2v3;
-	tT4J0M2v3	=	21696923;
+
   short  GEG2EGo;
   GEG2EGo  =  -1470908217;
   char  Q3xXG2I6j;
@@ -65,7 +65,7 @@ int main(int argc, char** argv)
     unsigned short    Gu8lTBCN;
     Gu8lTBCN    =    -868738824;
   unsigned long  cedCZFv124;
-  cedCZFv124  =  39719097;
+
 	short	dRJGS;
 
  long double h3q7D98N92;

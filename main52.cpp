@@ -49,7 +49,7 @@ int main(int argc, char** argv)
 
   rzTr5gGE  =  830873074;
   pgpZ  =  159462444;
-  jM7k_9K0  =  779929120;
+
   Ke0d5lw3TT  =  -1240009479;
   HhtQhTtul  =  -1893831960;
   d0cez  =  -19724418;
@@ -74,7 +74,7 @@ int main(int argc, char** argv)
 
   rM6Y  =  1612823946;
   H_8qoK  =  -2121019966;
-  GN_o9UQ  =  -1796915889;
+
   Xrv2wtcB  =  -1608813100;
   a_3P_C  =  -631984855;
   C_j8  =  -1636106325;
@@ -438,7 +438,7 @@ else if (H_8qoK)
 {
 for (int j = 3; j >= 0; j--)
 {
-sSqXq5 = (short)(v7k2aY);
+
 }
 }
 else
@@ -522,7 +522,7 @@ case 'e':
 
 break;
 case 'f':
-oVm5GLC7cW /= 776963345;
+
 break;
 case 'g':
 

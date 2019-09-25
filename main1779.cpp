@@ -489,7 +489,7 @@ for (int i = 0; i < 10; i++)
 yIu5tNu4 = nLRf7591m(xfps355JYo, -1809672190, 402128437);
 }
 
-eEbF4g = (int)floor(S26J);
+
 
 return 0;
 }

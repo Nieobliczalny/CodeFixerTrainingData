@@ -69,7 +69,7 @@ int main() {
     short int    B84I_    =    825885726;
   short  jq_u_KFFo  =  -673610507;
 
-B84I_ = (short int)(fuj6NECNOL + (r2NJ));
+
 
 cout << jq_u_KFFo << endl;
 
@@ -251,7 +251,7 @@ else if (M3Y5F6_ <= B35t_O3yza)
 }
 else
 {
-TuBy6H_0 = (int)ceil(q4mP23EGpf);
+
 }
 }
 
@@ -343,7 +343,7 @@ case 4:
 
 break;
 case 5:
-wZIfLbD = (int)ceil(B35t_O3yza);
+
 break;
 case 6:
 

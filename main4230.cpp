@@ -278,7 +278,7 @@ if (((Ofrazi >= 897526938) || (vpu2w72aui == V5wG4URLes)) && ((Ofrazi != yZNZ) |
 {
 if (s1d2 & F1S6xr)
 {
-InpqcLTP = Pay0 % 1493003756;
+
 }
 }
 else if ((Pay0 & ylH7Rm) || (TZrI <= B1vwwz054))
@@ -301,7 +301,7 @@ case 'e':
 
 break;
 case 'f':
-InpqcLTP = hKSOd % 1428496824;
+
 break;
 default:
 ylH7Rm ^= InpqcLTP;

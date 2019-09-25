@@ -32,7 +32,7 @@ case 'c':
 
 break;
 case 'd':
-negVJqZq2i = (P0kDGg_ <= A9__hYG8) ? YAPY : 977484768;
+
 break;
 case 'e':
 
@@ -45,7 +45,7 @@ break;
 switch (kYxH2)
 {
 case 'a':
-F_MK08 ^= ii1_;
+
 break;
 case 'b':
 kemc9_h5 *= 1901090857;

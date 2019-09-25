@@ -77,7 +77,7 @@ int main(int argc, char** argv)
 	shoLA7_V4	=	-1617874189;
 	wasE	=	25688762;
 	wR7KcbugSG	=	-1959314952;
-	Y9GatQ_D	=	-740029704;
+
 	R570	=	-417465199;
 	Da5xeoFi	=	1529706949;
 	KPPhfFi_	=	1655480637;

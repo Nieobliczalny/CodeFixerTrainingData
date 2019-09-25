@@ -26,7 +26,7 @@ int main(int argc, char** argv)
 	long	vxEgISCh3g;
 
 	unsigned char	mHC_;
-	mHC_	=	-331763263;
+
 	long	pX1oM;
 
  unsigned char c8_8y2D;
@@ -36,7 +36,7 @@ int main(int argc, char** argv)
 	unsigned char	R39F0;
 
   char  yHtDX_zF;
-  yHtDX_zF  =  -642864550;
+
   unsigned long long  n2ZE;
 
 	float	BDrXDz;
@@ -46,7 +46,7 @@ int main(int argc, char** argv)
  char CxxSZ;
  CxxSZ = -810826875;
  unsigned long abc2l;
- abc2l = -575893901;
+
 	short int	qKq22f3OT;
 
     unsigned long    qr4sR1_1;
@@ -114,7 +114,7 @@ int main(int argc, char** argv)
   char  R6X5e;
   R6X5e  =  -1111319699;
   unsigned short int  IaKJoaP7;
-  IaKJoaP7  =  -1933481461;
+
 	short int	SSd08T498;
 
 	unsigned char	M5IjnU4E;
@@ -142,7 +142,7 @@ int main(int argc, char** argv)
   int  E4I18;
 
     long    p7a_hl0;
-    p7a_hl0    =    1863261895;
+
 	double	YTg0;
 	YTg0	=	-1575442570;
     unsigned char    DyfgJpa;
@@ -168,7 +168,7 @@ int main(int argc, char** argv)
   unsigned short int  Ka_CDF;
   Ka_CDF  =  -540969475;
   long  X_1EK0;
-  X_1EK0  =  121029332;
+
     unsigned short int    kKHw;
 
   float  uKIgqv1a;
@@ -272,7 +272,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-YTg0 = (int)ceil(yu2h3);
+
 break;
 case 'g':
 case 'G':

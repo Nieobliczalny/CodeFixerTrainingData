@@ -362,7 +362,7 @@ case 'i':
 R_F_ = f2Zn59lD / jjVx;
 break;
 }
-flqfp = (float)(ZjJKv2b2D5);
+
 if (b_415vN != -1589809352)
 {
 for (int j = 0; j < 5; ++j)
@@ -462,7 +462,7 @@ for (int j = 0; j < 9; ++j)
 switch (k7_2513)
 {
 case 0:
-flqfp = (int)floor(lO0cnL);
+
 break;
 }
 }

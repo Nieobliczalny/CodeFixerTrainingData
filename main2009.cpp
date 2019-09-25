@@ -257,7 +257,7 @@ break;
 }
 
 
-yN3R = (unsigned int)(Ouu3p4);
+
 
 if (tgCu7hP9L > Ouu3p4)
 {

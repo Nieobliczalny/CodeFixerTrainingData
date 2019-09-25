@@ -269,7 +269,7 @@ while (j < 4)
 ++j;
 try
 {
-R06nLh3VB = (int)ceil(D0Rc_);
+
 }
 catch (int& errorCode)
 {

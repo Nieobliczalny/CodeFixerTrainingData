@@ -219,7 +219,7 @@ int k = 0;
 do
 {
 ++k;
-RteTE9A4F6 = IVl2_9c7v_();
+
 }
 while (k < 2);
 }

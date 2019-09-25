@@ -13,7 +13,7 @@ int main(int argc, char** argv) {
  short Lxfk7Nyv;
 
   unsigned short  x58_h98S4X;
-  x58_h98S4X  =  -1917855113;
+
   short int  dF14I6Q;
 
     unsigned long    tAxh_xIf;
@@ -453,7 +453,7 @@ std::cout << o5pyPg << E470O << Sqtp << PHZjFNR << std::endl;
 
 
 
-YMdvhdNR = vTfX / zuG4O83C;
+
 
 
 Kdr2JF = JR8Q1_d7 << 1797783424;

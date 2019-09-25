@@ -75,7 +75,7 @@ if (NQlE2Gl < 1795339490)
 switch (c7OS)
 {
 case 'a':
-NQlE2Gl = o_Dyxrqq * hP51YR;
+
 break;
 case 'b':
 NQlE2Gl = (int)ceil(d3H9rVs779);
@@ -90,7 +90,7 @@ case 'e':
 d3H9rVs779 = (int)ceil(NQlE2Gl);
 break;
 case 'f':
-NQlE2Gl = (pl571i) ? pl571i : -1743904542;
+
 break;
 case 'g':
 NQlE2Gl = oH3Kn_4nW + pl571i;
@@ -102,7 +102,7 @@ case 'i':
 d3H9rVs779 /= 1937013041;
 break;
 case 'j':
-NQlE2Gl = (int)ceil(o_Dyxrqq);
+
 break;
 }
 }

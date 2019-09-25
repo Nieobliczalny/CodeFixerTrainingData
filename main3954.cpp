@@ -290,7 +290,7 @@ else if (((Vt6EnT == 2074875866) || (BckXd4x)) && (x892M & ZeL4))
 }
 else if (a4a1 < -46067304)
 {
-pd3465zK_ = (int)abs(T5n_uW);
+
 }
 else if (BckXd4x > x892M)
 {

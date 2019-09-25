@@ -19,7 +19,7 @@ int main()
 
 
 
-e3Ii = QS_TkqQD / vckP1;
+
 return 0;
 }
 

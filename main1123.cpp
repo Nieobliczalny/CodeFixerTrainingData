@@ -76,7 +76,7 @@ int main(void)
 	OB25eS	=	1450234539;
 	I2eu7u	=	1400335989;
 	w277Rq5	=	-1489744318;
-	uwMp	=	1782077157;
+
 	k8iRe1df	=	276869885;
 
 	urJfQC1	=	988894512;
@@ -315,7 +315,7 @@ i--;
 switch (oD_3YGxuf)
 {
 case 0:
-k8iRe1df = (int)abs(h077h76V3);
+
 break;
 case 1:
 

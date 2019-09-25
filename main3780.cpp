@@ -53,7 +53,7 @@ int main() {
     unsigned char    CnuCFf98;
 
  unsigned int tuei;
- tuei = 249949062;
+
     unsigned char    fbr2xSp8IM;
 
  unsigned long long W04BGi7;
@@ -73,7 +73,7 @@ int main() {
  unsigned short eC7FEFM;
 
 	unsigned short int	b2nfgM;
-	b2nfgM	=	-125668977;
+
     unsigned int    wTT36LsY;
 
 	unsigned short int	pWN0;
@@ -99,7 +99,7 @@ int main() {
     long    lBkXYGt;
 
  unsigned short Daedx0hHW;
- Daedx0hHW = -1475611927;
+
 	unsigned char	y3qbN4N;
 
   unsigned short int  z01z9a;
@@ -113,7 +113,7 @@ int main() {
     unsigned char    oFCcGLX;
 
 	long	nkuRkL_HP;
-	nkuRkL_HP	=	-165291054;
+
     short    oWA_0laphu;
     oWA_0laphu    =    -242847702;
   long long  RHqQY;
@@ -143,7 +143,7 @@ int main() {
 	double	EojN_01U2A;
 
 	short int	Yn76;
-	Yn76	=	683950948;
+
  unsigned long long kkz9k4z;
  kkz9k4z = 1192959877;
 	long double	mJ_XT1;
@@ -189,7 +189,7 @@ int main() {
   int  y4RFfe791K;
   y4RFfe791K  =  1636387893;
  float HbWy1y4;
- HbWy1y4 = 1552675206;
+
 	unsigned long	f6__;
 
  long double t_sz6LXJb;
@@ -239,7 +239,7 @@ std::cout << Fz4tTT(NU6ATyPiv) << HquOnv2() << X9JHF52 << std::endl;
 int i = 7;
 while (i >= 0)
 {
-K3O0nuxMV7 = (short)(oWA_0laphu);
+
 i--;
 }
 }
@@ -299,7 +299,7 @@ case 'f':
 
 break;
 case 'g':
-HbWy1y4 = (int)floor(G877kl);
+
 break;
 case 'h':
 

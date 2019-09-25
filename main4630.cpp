@@ -38,7 +38,7 @@ case 1:
 R9R8SO_PJ /= zo4783P;
 break;
 case 2:
-x76D2EO6 = (int)abs(Zm65);
+
 break;
 case 3:
 
@@ -62,7 +62,7 @@ int i = 0;
 while (i < 6)
 {
 ++i;
-hHzv8_ = (double)(ZKtf1R + (1195547441));
+
 }
 }
 
@@ -83,7 +83,7 @@ switch (Kiw9O)
 {
 case 'a':
 case 'A':
-hHzv8_ = g4WVnkZX9(907160632, b5_SmGV, -685059326, 749476596);
+
 break;
 case 'b':
 case 'B':

@@ -336,7 +336,7 @@ case 'f':
 
 break;
 case 'g':
-fr6K /= 1558139772;
+
 break;
 case 'h':
 OmZyb--;

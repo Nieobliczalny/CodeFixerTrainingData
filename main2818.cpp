@@ -61,7 +61,7 @@ int main()
   unsigned char  wge3Pad;
   wge3Pad  =  2090744679;
  unsigned int o6EutexIk3;
- o6EutexIk3 = 0;
+
     unsigned short    sXavxk3gtf;
     sXavxk3gtf    =    0;
   unsigned short int  Wqbq_T0L;

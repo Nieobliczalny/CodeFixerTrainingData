@@ -24,7 +24,7 @@ int main() {
  char Wo73CqU65;
  Wo73CqU65 = 1206356277;
     long long    my44k;
-    my44k    =    1690451505;
+
     unsigned short int    VCBPA_p0;
     VCBPA_p0    =    1462573005;
  int h_lXF_J5_;
@@ -94,7 +94,7 @@ int main() {
   char  lN8167j8vf;
 
   int  CR9zr7;
-  CR9zr7  =  1800658227;
+
   double  bmdP0B;
   bmdP0B  =  -2052997111;
  unsigned int qWGn78YYe;

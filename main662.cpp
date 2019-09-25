@@ -80,7 +80,7 @@ if ((ie0xgJf == vfz9q862) && (Ujv_z1iaL > gJUWz3nU))
 }
 else if (gJUWz3nU)
 {
-ie0xgJf = (int)abs(Ern16);
+
 }
 else if (dEixD1s7 != Ern16)
 {
@@ -118,7 +118,7 @@ case 2:
 
 break;
 case 3:
-ie0xgJf = (int)abs(gJUWz3nU);
+
 break;
 case 4:
 

@@ -181,7 +181,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-iN4o = (int)ceil(t_9b6);
+
 break;
 case 'g':
 case 'G':

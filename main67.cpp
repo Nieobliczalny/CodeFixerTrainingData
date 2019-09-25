@@ -296,7 +296,7 @@ case 4:
 
 break;
 case 5:
-S6XC5_ <<= gt8j3U;
+
 break;
 case 6:
 B235--;

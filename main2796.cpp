@@ -112,7 +112,7 @@ while (k < 4);
 i7woOg35_F = aD90H7H();
 
 
-y2g65E49J = EMWw2 >> sBW4WBHp;
+
 cout << EMWw2 << aD90H7H() << "k7m8num" << "i9HZv6Re" << endl;
 
 switch (f3a58ej)
@@ -154,7 +154,7 @@ break;
 
 
 
-nj_37X = i7woOg35_F ^ f57gJfsS8K;
+
 
 return 0;
 }

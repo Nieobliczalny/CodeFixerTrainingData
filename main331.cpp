@@ -158,7 +158,7 @@ int main(void)
     long long    Kxy6txk;
     Kxy6txk    =    206483613;
   long long  j5jN0_;
-  j5jN0_  =  -1744508989;
+
 	int	fOPJd;
 
  char zXSN;
@@ -405,7 +405,7 @@ case 4:
 
 break;
 case 5:
-O4nSC3s = d_6GB3() / 1871168389;
+
 break;
 }
 }

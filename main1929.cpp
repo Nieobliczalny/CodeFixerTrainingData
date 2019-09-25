@@ -35,7 +35,7 @@ int main()
  unsigned long f38Y_;
 
  long long fBf5jZNe_;
- fBf5jZNe_ = -170507742;
+
     short    m_3r3TEQk;
     m_3r3TEQk    =    -1027462211;
 	int	r2Zyri_gNg;
@@ -145,7 +145,7 @@ int main()
  unsigned short int Y_gh;
 
     long    xf13lIwf;
-    xf13lIwf    =    -2005607302;
+
 	unsigned short int	VGGkgyW;
 	VGGkgyW	=	-2102724873;
  unsigned long long Z6v8;
@@ -175,7 +175,7 @@ int main()
 	unsigned short	GGME_3ZdP;
 
   unsigned long long  ZNXM_eL238;
-  ZNXM_eL238  =  -27636299;
+
  short int WfUbGw0rO;
  WfUbGw0rO = 1513024230;
   char  BG5X9;

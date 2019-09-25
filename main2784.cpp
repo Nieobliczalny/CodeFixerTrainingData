@@ -91,7 +91,7 @@ int main(void)
 	short int	D36K7S0i;
 	D36K7S0i	=	2086361674;
   short int  SJ6visJy;
-  SJ6visJy  =  -756749162;
+
   int  Qp_g;
 
   unsigned int  vKjTMXC;
@@ -551,7 +551,7 @@ int k = 0;
 do
 {
 ++k;
-URIcR_vCm = (int)ceil(n8yf);
+
 }
 while (k < 7);
 }

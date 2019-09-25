@@ -213,7 +213,7 @@ T0NuFCw ^= 711774659;
 int i = 0;
 do
 {
-Tw131oh9l = (int)(aXy6);
+
 ++i;
 }
 while (i < 2);

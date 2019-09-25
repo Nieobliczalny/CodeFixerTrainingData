@@ -85,7 +85,7 @@ if (((dJ0eYK7 < -244562912) && (voyAHec == 91078312)) && (TuJVjMtC & JTKO90))
 }
 else
 {
-HZqeD_th = (int)ceil(mkr8_);
+
 }
 }
 catch (int& errorCode)
@@ -166,7 +166,7 @@ CNM4yS2 = (int)abs(JEO_8za);
 break;
 case 'e':
 case 'E':
-e67ugxb = (int)ceil(VeSna);
+
 break;
 default:
 CNM4yS2 = (int)abs(mkr8_);
@@ -211,7 +211,7 @@ break;
 switch (y88N4)
 {
 case 'a':
-HZqeD_th = kY1XwIZQ >> v_N1_;
+
 break;
 case 'b':
 skaT = (int)ceil(CNM4yS2);

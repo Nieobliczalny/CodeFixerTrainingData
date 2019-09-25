@@ -99,7 +99,7 @@ int main() {
   char  MV9J;
   MV9J  =  -117488866;
     unsigned char    NuJ0D8;
-    NuJ0D8    =    1714447993;
+
   unsigned short int  YyE7_hXS8;
   YyE7_hXS8  =  1629121720;
   float  I0_5c4pB;

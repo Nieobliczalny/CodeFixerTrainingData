@@ -25,7 +25,7 @@ int main(int argc, char** argv) {
 
 for (int i = 2; i >= 0; i--)
 {
-EN4z345j = (int)floor(Xr1605mgr);
+
 }
 
 {
@@ -163,7 +163,7 @@ zR9o94z = (int)ceil(x272f7Q);
 break;
 case 'i':
 case 'I':
-k6X0wE = (int)floor(om0ho2N9_2);
+
 break;
 default:
 

@@ -112,7 +112,7 @@ int main() {
 	unsigned int	G9If;
 	G9If	=	81860492;
  unsigned int izHP;
- izHP = 342760913;
+
     double    Boi6Ji8;
     Boi6Ji8    =    511257786;
     short    Y08hL8_;
@@ -191,7 +191,7 @@ else if (GX_87oHF)
 }
 else
 {
-hnb1ZPNI = (int)floor(DcTc158L);
+
 }
 }
 }

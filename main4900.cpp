@@ -66,7 +66,7 @@ int main(int argc, char** argv) {
     float    dU_j9c9fv_;
 
  short int l5ooC0J1;
- l5ooC0J1 = 857560450;
+
   short  COUo8L4_;
 
     unsigned long    QiCUJ;
@@ -126,7 +126,7 @@ int main(int argc, char** argv) {
   short int  eB5983phbE;
   eB5983phbE  =  -1876786593;
 	unsigned long	ll2RE6P;
-	ll2RE6P	=	1588900798;
+
   short int  To_C;
   To_C  =  708262750;
   long  IhK_;
@@ -255,7 +255,7 @@ if ((K85v) || ((QiCUJ & -141659929) || (SeCK_6b > JhI_9I3i3S)))
 }
 else if (O_qD620LF6 & 30030520)
 {
-d0yljNK9 = KB5v(-954243864, mc1mW, O_qD620LF6, -812266295);
+
 }
 else
 {

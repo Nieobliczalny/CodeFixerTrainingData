@@ -74,7 +74,7 @@ int main(void) {
   unsigned short  hX5n_1;
   hX5n_1  =  -592694938;
  unsigned int g6jb2;
- g6jb2 = -1567285817;
+
   unsigned long long  VGA0_4;
   VGA0_4  =  2010422205;
 	int	m4VQZ7dx_i;

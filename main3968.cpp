@@ -89,7 +89,7 @@ case 'b':
 DhgZQ = ba84YQN96s * 2059268575;
 break;
 case 'c':
-SdDEX8j5aT = (int)floor(w_thei_NUH);
+
 break;
 case 'd':
 w_thei_NUH = Xu_at92M - meXZP;
@@ -125,7 +125,7 @@ zme5AkL51 = (long double)(Xu_at92M);
 
 meXZP *= IIEhf;
 
-pA3HB = (long double)(bCwG08r);
+
 
 DhgZQ = k620s / K0O_FdQ8K;
 Zf9U4dV = jWmla(-1859044526, 953154399) % 952726953;
@@ -149,7 +149,7 @@ while (i < 8)
 int j = 0;
 while (j < 4)
 {
-SdDEX8j5aT = (long double)(R9tzv_);
+
 j++;
 }
 }
@@ -216,7 +216,7 @@ break;
 switch (qIT4Oq2)
 {
 case 0:
-P2Xcf9k = jWmla(P2Xcf9k, -52036645);
+
 break;
 case 1:
 qIT4Oq2 = w_WZqfw(1263481184, a9RGO5, IIEhf, jtwcT, -2092828476);

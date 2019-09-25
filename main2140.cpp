@@ -34,7 +34,7 @@ int main() {
     long    UkV_I;
 
 	long	sAPxftjplJ;
-	sAPxftjplJ	=	0;
+
 	unsigned char	bNpbN87q;
 	bNpbN87q	=	-1928664892;
 	double	hej6;

@@ -94,7 +94,7 @@ int main(void) {
  long long GI68B;
 
 	char	NNZ0RQ;
-	NNZ0RQ	=	0;
+
 	int	CB2I;
 	CB2I	=	-1931243359;
     float    p54I;
@@ -125,7 +125,7 @@ i0r7 = HxDKE % 433853933;
 while (i >= 0);
 }
 
-m9UPDpYFrU = (unsigned long long)(ORH17k);
+
 
 try
 {

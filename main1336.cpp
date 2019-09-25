@@ -68,7 +68,7 @@ case 4:
 
 break;
 case 5:
-w5Lu_9EZQ = e2W_Qorzy(965911556, -1310707389);
+
 break;
 }
 }
@@ -88,7 +88,7 @@ case 'c':
 
 break;
 case 'd':
-uEJ52jV_4 = o5d89uoxwV * 1756447012;
+
 break;
 case 'e':
 

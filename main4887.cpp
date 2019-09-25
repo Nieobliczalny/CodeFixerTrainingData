@@ -115,7 +115,7 @@ int main(int argc, char** argv)
 	unsigned short int	lgwG;
 
  unsigned short RP9qO4Uh;
- RP9qO4Uh = 563040758;
+
   unsigned short int  czo70x_ZNQ;
   czo70x_ZNQ  =  1511191747;
  unsigned long long VGWOZc_7JK;
@@ -169,7 +169,7 @@ int main(int argc, char** argv)
     unsigned short int    xCQ031;
     xCQ031    =    -1649113989;
 	char	RAg3RA1Bh6;
-	RAg3RA1Bh6	=	1846107537;
+
     int    W_41qq;
 
     float    DvV6Rn1K;

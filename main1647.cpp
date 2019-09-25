@@ -41,7 +41,7 @@ int main(void)
 	long	uMf_7N;
 
     short int    MKj8RU2r;
-    MKj8RU2r    =    598694075;
+
   unsigned short  D3B1;
   D3B1  =  0;
     unsigned long long    Z06zpWqI0;

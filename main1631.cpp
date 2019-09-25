@@ -126,7 +126,7 @@ switch (n_Tf5cZ)
 {
 case 'a':
 case 'A':
-MgQr <<= fQgnD0J3OH;
+
 break;
 case 'b':
 case 'B':
@@ -438,7 +438,7 @@ Pra9KA = (int)abs(NTIp);
 break;
 case 'e':
 case 'E':
-MgQr = He4b0();
+
 break;
 }
 

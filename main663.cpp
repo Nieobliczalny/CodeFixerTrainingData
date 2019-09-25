@@ -259,7 +259,7 @@ else if ((yg217q < 636692997) || (U54sMx97We <= fFF5X8lz2))
 }
 else
 {
-U54sMx97We = K6RbH3F(-4539595, 201802533, 237697022, -1181725360, 608902811);
+
 }
 }
 else if (N4G9Q3ad9V)
@@ -305,7 +305,7 @@ do
 {
 for (int k = 8; k >= 0; k--)
 {
-TM1V_ = (int)floor(u8LxZ_69);
+
 }
 j++;
 }

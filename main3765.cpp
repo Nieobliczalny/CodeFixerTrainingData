@@ -404,7 +404,7 @@ else
 switch (zQlTE)
 {
 case 0:
-BBh0 = (int)abs(FepX5m9);
+
 break;
 case 1:
 tewv3pR = li_2p0YP();
@@ -435,7 +435,7 @@ try
 {
 if (aDkW < L_27pp1DSQ)
 {
-bnT8_YPq = (unsigned int)(Q_HV8uF4);
+
 }
 else if (QO5ps5A > CVUDJ2hk1)
 {

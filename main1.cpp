@@ -203,7 +203,7 @@ if (((r8Wn) && (r8Wn != K3TxE4ez7)) || ((PbH4bbTV >= K3TxE4ez7) && (OfFk5iP2 < K
 {
 for (int k = 5; k >= 0; k--)
 {
-Zp7El = oOGpIJQT_();
+
 }
 }
 }
@@ -294,7 +294,7 @@ else if ((LBpr < K3TxE4ez7) || (nk6_8C1 <= K3TxE4ez7))
 {
 for (int j = 0; j < 6; j++)
 {
-IRV4CQsdn = (int)(K3TxE4ez7 + (90888509));
+
 }
 }
 else

@@ -469,7 +469,7 @@ i++;
 Uq1CN8 = o3E7co96Wb + 345249377;
 
 XP83H_Hcw = (int)(SR1xLEVqe * XP83H_Hcw);
-o3E7co96Wb = (int)abs(VK2Y) * 0;
+
 switch (Uq1CN8)
 {
 case 'a':
@@ -479,7 +479,7 @@ case 'b':
 s_06k13p6 |= VK2Y;
 break;
 case 'c':
-o3E7co96Wb = vKuT();
+
 break;
 case 'd':
 Uq1CN8 >>= e6_2z1CEg9;
@@ -501,7 +501,7 @@ int j = 0;
 while (j < 9)
 {
 j++;
-o3E7co96Wb = vKuT();
+
 }
 }
 }

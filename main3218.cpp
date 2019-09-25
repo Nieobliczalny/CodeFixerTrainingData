@@ -39,7 +39,7 @@ int main()
     short    YbpgRShv;
 
   long long  PQZb;
-  PQZb  =  -183679358;
+
     short    yjw8o_I_65;
     yjw8o_I_65    =    -117037669;
   long double  I9Kx;
@@ -87,7 +87,7 @@ int main()
  unsigned short int t95_4;
 
   short int  jqCUYKt09;
-  jqCUYKt09  =  272957210;
+
     long long    h0bqlS4_;
     h0bqlS4_    =    1844789649;
  long ccfA;
@@ -181,7 +181,7 @@ int main()
 	unsigned char	aMk0Nz;
 
 
-agt4Orlp = (unsigned long long)(S270I);
+
 
 if (h0bqlS4_ < 1157920836)
 {

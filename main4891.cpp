@@ -83,7 +83,7 @@ case 2:
 
 break;
 case 3:
-bDH__ = (int)ceil(QQaYGT);
+
 break;
 case 4:
 d02uB = (int)ceil(tCgkw1O);

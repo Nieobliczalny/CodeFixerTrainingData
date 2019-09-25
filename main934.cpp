@@ -296,7 +296,7 @@ int j = 0;
 while (j < 3)
 {
 j++;
-KA116H9R = (unsigned short int)(Vw6_51wV);
+
 }
 }
 }
@@ -330,7 +330,7 @@ Ed1jqfT++;
 break;
 case 'g':
 case 'G':
-fRK0 -= 583819902;
+
 break;
 case 'h':
 case 'H':

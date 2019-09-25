@@ -187,7 +187,7 @@ case 5:
 uL73Bf_++;
 break;
 case 6:
-sgy7062 = uR95q19 >> NIeT1;
+
 break;
 case 7:
 ImXs %= XHoW_F;
@@ -204,7 +204,7 @@ else if (T_2Re6 < -1394937108)
 {
 for (int k = 0; k < 2; k++)
 {
-uR95q19 = erFLc << NOPj7zNG5;
+
 }
 }
 else if (((um4wmKlzT != 598229952) && (erFLc)) || ((NOPj7zNG5 <= -601050262) && (l_4_ > -1413905295)))
@@ -232,7 +232,7 @@ else
 }
 else if (e8029 != erFLc)
 {
-try4Lj = (unsigned short)(T_2Re6);
+
 }
 else
 {

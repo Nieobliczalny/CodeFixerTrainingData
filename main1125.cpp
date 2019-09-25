@@ -24,7 +24,7 @@ int main(int argc, char** argv) {
     r7wT    =    -1432759957;
 
 
-    WtY8Q    =    388008271;
+
     Kn4ur    =    454006575;
     we56949U    =    2070394181;
     Brw2S6I3zZ    =    -1270579639;
@@ -35,7 +35,7 @@ int main(int argc, char** argv) {
 
 
 
-    AqJr93jd65    =    1355267412;
+
     QN3jYN    =    444831689;
     R6D2IE2c    =    -2131123699;
     KkrDT5V    =    1795384248;
@@ -45,7 +45,7 @@ int main(int argc, char** argv) {
 
 
 
-    py86    =    -1448704400;
+
     Ei4HMp    =    1670507796;
     h4a61WR8    =    -1784512930;
     y3nA84f    =    960536631;
@@ -56,7 +56,7 @@ int main(int argc, char** argv) {
 
     rHos5p    =    897902097;
 
-    Tfk0vJZ    =    484559260;
+
     long    fco78DU,    MSN64Fv1;
     fco78DU    =    0;
     MSN64Fv1    =    0;

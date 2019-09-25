@@ -92,7 +92,7 @@ int main(void) {
   long double  xSh_FKZwa;
   xSh_FKZwa  =  -386829937;
 	long double	t_K1GBY5;
-	t_K1GBY5	=	499976490;
+
  char vGF3MsnK;
  vGF3MsnK = -1857732410;
 	unsigned long long	B_LdR_Ui_H;
@@ -156,7 +156,7 @@ int main(void) {
 	short	VGm8nz_;
 	VGm8nz_	=	1899204692;
 	short	ktJy;
-	ktJy	=	-916519647;
+
     float    nG6__W0;
     nG6__W0    =    -1914295373;
 	double	J47Z;
@@ -369,7 +369,7 @@ Umi6 = (unsigned short)(TBPDuXz);
 
 
 
-aF2q7nA = Gmi3tHWgP - ZG3k0;
+
 
 std::cout << E4lt_Xc5 << "j677" << yW1t7 << "VzLoH" << vGF3MsnK << std::endl;
 for (int i = 6; i >= 0; --i)

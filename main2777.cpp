@@ -133,7 +133,7 @@ case 1:
 UGQ__5UbZ = (int)floor(A41zKD3);
 break;
 case 2:
-J6_xH5m2Gf = (NjULi1B != lh4K) ? -418887886 : 557058147;
+
 break;
 case 3:
 KQ3f -= A59WaTi;

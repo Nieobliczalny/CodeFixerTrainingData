@@ -154,7 +154,7 @@ int main(void)
   unsigned short int  V5KwEEu;
   V5KwEEu  =  0;
 	unsigned int	G_53_Z6H9;
-	G_53_Z6H9	=	-644495894;
+
     unsigned short int    B524TolV20;
     B524TolV20    =    -23118159;
 	double	Z_kC7s;
@@ -217,7 +217,7 @@ case 2:
 FO_z = Ku3n4943(FO_z);
 break;
 case 3:
-G_53_Z6H9 = U7wi0Z / U7wi0Z;
+
 break;
 case 4:
 I5_Wx2p = npeSgvW(-2120607084, 128690547, gs39q74, -1394909077, -770718948);

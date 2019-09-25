@@ -167,7 +167,7 @@ case 6:
 VOmx44 = gO75 / 1000612578;
 break;
 case 7:
-GHjCAFBg = (int)floor(gO75);
+
 break;
 }
 gO75 = (float)(q2sBi6AHyY);
@@ -203,7 +203,7 @@ break;
 }
 std::cout << I53l42XA9(-348570804, -1416349290, 139193168, BG31n4GA) << K9aP6s3bp() << l135yF915K << e20lMBaeA << std::endl;
 
-r4ZV = 2009389194 / w1T4Cm;
+
 std::cout << ULXE1U662G() << ULXE1U662G() << "n4C7DUgl_U" << std::endl;
 switch (kHyI8_Q7)
 {

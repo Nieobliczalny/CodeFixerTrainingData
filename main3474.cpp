@@ -86,7 +86,7 @@ if (k1R7_k & V7BSSx)
 }
 else if (p721p9q6R > jI3f38Lx)
 {
-uXC7zq08 = (int)abs(c3fQ_);
+
 }
 else if (i989y32L)
 {
@@ -106,7 +106,7 @@ k1R7_k += otug8Nv7;
 }
 else
 {
-uXC7zq08 = Be9jWZgq72 + 623686772;
+
 }
 ++j;
 }

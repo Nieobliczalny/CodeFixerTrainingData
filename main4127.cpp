@@ -100,7 +100,7 @@ int main(void)
  long double ha5ftYOW;
 
     double    MtyD;
-    MtyD    =    2030278598;
+
 	int	d34K;
 
 	unsigned short int	igRKEFQ9;

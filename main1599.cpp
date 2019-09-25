@@ -32,7 +32,7 @@ int main(int argc, char** argv)
 	ZmuJ733	=	1630313939;
 	gQF5Ui0e6D	=	-439038993;
 
-	nWxvKU6	=	-260312950;
+
 	XFR7m89r	=	2107474335;
 
 	xET7	=	-1036208754;
@@ -57,7 +57,7 @@ int main(int argc, char** argv)
 
 
 	ai2z	=	-76279731;
-	W39tp1	=	1087828141;
+
 	J_Rg4OV3	=	1083959524;
 
 	UTcpNV2G	=	121788681;

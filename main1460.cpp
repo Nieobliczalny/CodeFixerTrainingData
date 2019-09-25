@@ -36,7 +36,7 @@ int main(int argc, char** argv)
     // codechecker_intentional [deadcode.DeadStores] Design rule - initialize all variables
 	LmxoROSN3q  =  S28c  =  Kx0gfP  =  n3i2Thq9tV  =  hpV_4g  =  x_b5  =  Bs8a  =  h27NysB  =  fI1e  =  qD73Q_yZD  =  ndbCeT  =  t_v__Bq3  =  daxVTxYxV  =  mr80Cg  =  d7enu62s5  =  KMaP_mfOCo  =  dwtE  =  eyjXQa  =  RWp3S6nR  =  y2OhHlni  =  Oe33u2rTU  =  B6haVdl  =  EJ20hu4  =  wBiL__  =  UL_007Z03_  =  W_zze41  =  OL5oZQ  =  UE3dV  =  R9G_1Z0D73  =  QyRla  =  s5LcE  =  f9u8K_  =  DUK0xZTeP  =  bZl5xaxG  =  j8L1d  =  nvO2QViVw  =  i17sC6p2  =  elL2OJcPr  =  Jk6_6VBqX  =  o_WHVd  =  LTl98j5o7  =  GwE1__Z  =  KMl_  =  DF5g3q7L1  =  FJ287gIO  =  IKmgZ  =  e77n04PP  =  j09JbO  =  yBY1s4rd  =  P87B  =  ybHS7vEA  =  kNzUGo5Nd  =  NRtUdzgrE  =  lqa014q937  =  tt54_  =  kCLwP_F  =  NG2HFR  =  576236532;
   unsigned short int  e_VY3sb9;
-    e_VY3sb9  =  0;
+
 
 switch (R9G_1Z0D73)
 {
@@ -50,7 +50,7 @@ case 2:
 
 break;
 case 3:
-UL_007Z03_ = MYxy_21S1(783682118, d7enu62s5, 1484889902);
+
 break;
 case 4:
 e_VY3sb9 = U2Vpmk84T(n3i2Thq9tV, -1782180797, OL5oZQ, d7enu62s5);
@@ -68,7 +68,7 @@ case 8:
 
 break;
 default:
-hpV_4g = CqG8(-1848969965, -820406683, ndbCeT, 1515839267);
+
 break;
 }
 
@@ -118,7 +118,7 @@ case 2:
 
 break;
 case 3:
-NRtUdzgrE += kCLwP_F;
+
 break;
 case 4:
 

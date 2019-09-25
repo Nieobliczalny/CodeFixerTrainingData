@@ -110,7 +110,7 @@ case 3:
 
 break;
 default:
-caZnO7fhNr &= A70Iz62;
+
 break;
 }
 }
@@ -281,7 +281,7 @@ else
 }
 else if ((QuI8FoQ & 2031327564) || ((hQSWOk8GAp >= 78673437) && (o682 >= -529998606)))
 {
-SRW1PB9 = BMd601(-1579701410, mR4t);
+
 }
 else if (iRx8 == vY1iO_E)
 {

@@ -686,7 +686,7 @@ else
 {
 if (Ff73 < -2049960330)
 {
-bsd889r_k = (int)abs(i8ruw);
+
 }
 else
 {

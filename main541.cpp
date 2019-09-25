@@ -122,7 +122,7 @@ int main(void) {
  unsigned int qyUchOA;
  qyUchOA = -1929120795;
     short int    gcMMhB_y;
-    gcMMhB_y    =    119679100;
+
     int    aKTQMTo66Z;
     aKTQMTo66Z    =    0;
  long long y9Xg;

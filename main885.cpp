@@ -217,7 +217,7 @@ do
 {
 if (em65 < -1520256814)
 {
-cx8t8A = (int)abs(y6H23H);
+
 }
 else
 {

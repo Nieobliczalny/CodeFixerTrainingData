@@ -403,7 +403,7 @@ Y_05j8d--;
 break;
 case 'b':
 case 'B':
-ki80 ^= 1926717671;
+
 break;
 case 'c':
 case 'C':

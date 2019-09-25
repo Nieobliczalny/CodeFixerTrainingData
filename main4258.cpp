@@ -40,7 +40,7 @@ int main(int argc, char** argv) {
 
   lVcH92Xe  =  -1431152045;
   xWHX9a9sff  =  -165001195;
-  nTt1  =  1245818233;
+
   xw_19  =  -762649481;
   zW0Y4N  =  -1889946146;
   j72tSg  =  -1071358637;
@@ -51,7 +51,7 @@ int main(int argc, char** argv) {
   y8P4  =  -2032357705;
 
   KFaKE1Dq  =  1079016695;
-  BDBX  =  406771252;
+
   UABeMigbU  =  1347494087;
   Kx_9im0PxG  =  1239442976;
   I8mp1eci  =  1455495542;
@@ -61,7 +61,7 @@ int main(int argc, char** argv) {
 
 
   CDQjAIL  =  -932960252;
-  OcUokXS3ho  =  551251607;
+
   k56ddvr04  =  309316989;
 
   ss9Ph  =  -900973188;
@@ -79,7 +79,7 @@ int main(int argc, char** argv) {
   jUZ36N_s7  =  -654935024;
 
   n69h_J  =  -1486430637;
-  Q17v6u9l8  =  311068645;
+
   y5ij_lseX7  =  950619976;
 
   of0RaL8ql  =  2142514715;
@@ -213,7 +213,7 @@ case 'e':
 
 break;
 default:
-OcUokXS3ho = Dd7zfYpA2(-477966483, 1193481971);
+
 break;
 }
 switch (W3JXkigU6m)
@@ -263,7 +263,7 @@ case 4:
 
 break;
 case 5:
-Kx_9im0PxG = (int)floor(CDQjAIL);
+
 break;
 case 6:
 

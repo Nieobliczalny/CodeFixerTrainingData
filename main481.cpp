@@ -91,7 +91,7 @@ CvfnLbgLkF ^= G2f69c;
 break;
 case 'c':
 case 'C':
-Lv4u6 %= DxxJPl4;
+
 break;
 case 'd':
 case 'D':
@@ -189,7 +189,7 @@ case 0:
 
 break;
 case 1:
-Lv4u6 = E9pG64 % 1300412452;
+
 break;
 case 2:
 Lv4u6 = h6aLJ7();

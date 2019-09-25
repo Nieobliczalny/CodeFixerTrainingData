@@ -73,7 +73,7 @@ int main() {
   long long  v0_rh26_;
 
  unsigned int op6LZE0;
- op6LZE0 = -991304595;
+
 	long	PVIR5;
 	PVIR5	=	239973428;
   unsigned long long  H4mb;

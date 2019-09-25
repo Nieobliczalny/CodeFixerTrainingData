@@ -60,7 +60,7 @@ int main(void)
 	unsigned long	r60fNd6zV;
 	r60fNd6zV	=	386224180;
 	long	zQus;
-	zQus	=	-2113954359;
+
 	double	yRpu_y7j;
 	yRpu_y7j	=	-1784079324;
   unsigned int  vw__gp5bE;
@@ -243,7 +243,7 @@ case 'f':
 JsBCy %= iE9Zd1R_1;
 break;
 case 'g':
-zQus = xt4TN << T3Iu90;
+
 break;
 }
 }

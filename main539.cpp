@@ -235,7 +235,7 @@ OYFd08Q6 = (int)abs(G62UbmI32);
 break;
 case 'e':
 case 'E':
-bD7q = jlYk_26 ^ Q5VXZ;
+
 break;
 }
 j--;
@@ -310,7 +310,7 @@ for (int i = 4; i >= 0; --i)
 
 
 
-O9xY ^= 2127962705;
+
 
 return 0;
 }

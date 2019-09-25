@@ -176,7 +176,7 @@ else if (L9_GAy88 < 2007334727)
 }
 else if ((lhJzp < PuPyZVNJ) || ((FA_9wsVPD_ != IEA_4iNi_5) && (U7syXcPl3 <= Yvoc83A13)))
 {
-FA_9wsVPD_ ^= 581930913;
+
 }
 else if (v_YU != Lft836CFpq)
 {
@@ -243,7 +243,7 @@ case 1:
 
 break;
 case 2:
-FA_9wsVPD_ = pG_4 & 1803493582;
+
 break;
 case 3:
 FA_9wsVPD_ = (joNV437N16 > -1449590648) ? 1095665976 : -14311541;

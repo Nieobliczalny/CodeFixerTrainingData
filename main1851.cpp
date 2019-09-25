@@ -22,7 +22,7 @@ int main(int argc, char** argv) {
     double    RgTw5Aq;
 
 	short	E3B3aSj02u;
-	E3B3aSj02u	=	-1546917231;
+
     unsigned short    PF0Mcx01yK;
 
     unsigned long    XomPAgL79f;
@@ -32,7 +32,7 @@ int main(int argc, char** argv) {
  long double JB1v79FC9r;
 
   short  jG_coiq6;
-  jG_coiq6  =  678521986;
+
   unsigned long  XJ_NbTU;
 
 	unsigned int	Cr5hx_s3G;
@@ -48,7 +48,7 @@ int main(int argc, char** argv) {
   unsigned long  vJ3uOy;
 
  unsigned char y70_c3yW_;
- y70_c3yW_ = 2136097249;
+
 	long	KX75;
 	KX75	=	1992222415;
   double  lna6EtV;
@@ -70,7 +70,7 @@ int main(int argc, char** argv) {
  long long fb8D;
 
  long long mWdQ;
- mWdQ = -250056479;
+
   unsigned long  X9R0tr2;
 
     long double    jx2_oRLCFd;
@@ -82,7 +82,7 @@ int main(int argc, char** argv) {
   unsigned int  we1l9rN_;
 
  unsigned char qoHw8fuz;
- qoHw8fuz = -1625413534;
+
  unsigned short z7_glC6H;
 
   unsigned int  YGtKD;
@@ -104,7 +104,7 @@ int main(int argc, char** argv) {
 	unsigned char	ZZR8;
 
   unsigned long  j17aR69;
-  j17aR69  =  -1723547262;
+
   float  H_kYFEy;
 
 	unsigned char	y12k4ezN3G;
@@ -126,7 +126,7 @@ int main(int argc, char** argv) {
 	short int	fv2aR6;
 
   unsigned short  K8YXwn;
-  K8YXwn  =  1757363048;
+
  long KPzoN1s_;
 
 	short	Z2ah;
@@ -230,7 +230,7 @@ hn1W_KqRN = o7E5GT6We();
 while (i >= 0);
 }
 
-GG7SdV_6 = -983669658 / o7E5GT6We();
+
 std::cout << Q8b4g1d(-615282423) << Q8b4g1d(1639942387) << coOr << std::endl;
 
 switch (c8w3P)

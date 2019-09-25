@@ -166,7 +166,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-IbyiJB_F40 = (int)abs(ZkTp59);
+
 break;
 }
 }

@@ -44,7 +44,7 @@ int main(int argc, char** argv)
 	unsigned int	RQUsPahQ;
 
  unsigned char d900j1;
- d900j1 = -1456454805;
+
   char  F__ZszFpCY;
 
 	long long	gND2Yh5_q;
@@ -68,7 +68,7 @@ int main(int argc, char** argv)
   unsigned short int  tOCg9pj;
 
   short  m8Jhj4z_;
-  m8Jhj4z_  =  -725024203;
+
   unsigned short  s_mdxyq7;
 
   double  ALtOE;
@@ -142,7 +142,7 @@ int main(int argc, char** argv)
 	double	POd9gRiz;
 
  short Y7M8y;
- Y7M8y = -2142351545;
+
  double qhzc7;
 
  long long e7j_;

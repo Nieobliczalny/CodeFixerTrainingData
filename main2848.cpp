@@ -443,7 +443,7 @@ case 'C':
 break;
 case 'd':
 case 'D':
-fs35a = (wvK6Jm <= D81np) ? RGXJYrSfc : zfEiy;
+
 break;
 case 'e':
 case 'E':

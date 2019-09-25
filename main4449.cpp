@@ -348,7 +348,7 @@ cout << "Ql1Y064" << endl;
 switch (f14UB9)
 {
 case 0:
-W3J61QX6 = HSI8rvJ4(W3J61QX6, W0FOkI);
+
 break;
 case 1:
 E_W6hfi = (int)abs(V3jEN);

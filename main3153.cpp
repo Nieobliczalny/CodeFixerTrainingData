@@ -70,7 +70,7 @@ int main(int argc, char** argv)
     unsigned short int    WP52l;
 
  short int O19bAll1i;
- O19bAll1i = -516419359;
+
   unsigned char  z19w;
 
     int    vvSAy_uO;
@@ -82,7 +82,7 @@ int main(int argc, char** argv)
     short    grP1MWU8;
 
  unsigned short O_0_R2u3S;
- O_0_R2u3S = 1454455489;
+
  unsigned long long IXEY;
  IXEY = -427305609;
  long long Sc__4Qj70;
@@ -108,7 +108,7 @@ int main(int argc, char** argv)
  char siS1_;
 
   unsigned long long  Rh0E9_l;
-  Rh0E9_l  =  0;
+
     int    O5Af_j_6_;
     O5Af_j_6_    =    -1168920984;
  long long kNXDq1;
@@ -128,7 +128,7 @@ int main(int argc, char** argv)
     double    Y7oNlW;
     Y7oNlW    =    1539014739;
     double    eyWtH38x_4;
-    eyWtH38x_4    =    901751910;
+
   long long  dl9n5EM8T2;
 
 	long	bD5qvh;
@@ -348,7 +348,7 @@ std::cout << A943 << "Wvq9q1O" << "O2MizR" << PSZ0jYh << "Zx4Uwz" << std::endl;
 
 if (FT976xc <= yj0wrYx)
 {
-Dq8mIWlh <<= 2048953963;
+
 }
 else if (fO8x_NadB7 > -2064587913)
 {

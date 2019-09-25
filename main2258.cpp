@@ -116,7 +116,7 @@ int main(void) {
   unsigned short  mEL34_h;
   mEL34_h  =  2102992437;
  long long p8IWME0;
- p8IWME0 = 1393319078;
+
   unsigned int  R0azurUm;
   R0azurUm  =  1820783065;
   short int  wi1P_0X;
@@ -385,7 +385,7 @@ case 'b':
 
 break;
 case 'c':
-ABGyJH = (int)ceil(Ny2Uc_Vy9);
+
 break;
 case 'd':
 CvyD9N >>= uyQ_d;

@@ -144,7 +144,7 @@ for (int j = 4; j >= 0; --j)
 }
 else
 {
-FaBT_56 = (int)ceil(LU_H);
+
 }
 
 cout << "O7w502jKEp" << Y5R4Ro65(1001435710, 1400259311, M6oi) << endl;

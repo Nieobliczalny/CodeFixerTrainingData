@@ -77,7 +77,7 @@ int main(void)
  long S15YfX6o;
 
 	double	bIQAut;
-	bIQAut	=	-368362426;
+
 	double	PeLE5HG;
 
   unsigned char  tM5w5S4liL;
@@ -139,7 +139,7 @@ int main(void)
  unsigned char rO3J1X;
 
 	unsigned short int	eF1Io6;
-	eF1Io6	=	-903832412;
+
   double  bzor6;
 
     double    D7blFC0Ot1;
@@ -149,7 +149,7 @@ int main(void)
  int Kb1k1;
 
 	unsigned long	XATT2te;
-	XATT2te	=	-1128644780;
+
     int    D_8A2w_b10;
     D_8A2w_b10    =    -1505160167;
  long h_bZ7;
@@ -163,7 +163,7 @@ int main(void)
   short int  aBvC_S5g;
 
     float    jYuItEB7_;
-    jYuItEB7_    =    -1118221193;
+
  unsigned int D_gg1V;
 
     long long    IhCE_kK;

@@ -85,7 +85,7 @@ int main(void) {
 	double	FmSC_902;
 
  unsigned char F063_H;
- F063_H = -164452347;
+
     short    OY2fwgaf;
     OY2fwgaf    =    -1242099580;
   unsigned long long  rGo_qi_x;
@@ -137,7 +137,7 @@ int main(void) {
   unsigned char  cK91ps;
 
     unsigned short int    I44c;
-    I44c    =    -436962037;
+
     unsigned long    BsFMuv95PL;
     BsFMuv95PL    =    -869036961;
  double br4kraIN;

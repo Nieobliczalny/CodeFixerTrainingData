@@ -73,7 +73,7 @@ case 'G':
 break;
 case 'h':
 case 'H':
-oS8mh *= 1162157606;
+
 break;
 case 'i':
 case 'I':
@@ -256,7 +256,7 @@ case 0:
 hrN6G5t = n5jQpsYs(SVsAvgj, Ll8n92);
 break;
 case 1:
-QgL93s = (int)abs(hrN6G5t) + (-1167760714);
+
 break;
 case 2:
 

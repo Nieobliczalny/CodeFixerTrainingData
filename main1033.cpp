@@ -220,7 +220,7 @@ O19hGRh = Pp5iZav2 ^ GIr2n_UuMX;
 }
 QUX6O87Z |= 1655606940;
 cout << "yghbAuR5J" << "p0Xgv9" << aXx1 << FOd0Tiz << endl;
-BZeDNY4uxl = W6VQ42G46N - GIr2n_UuMX;
+
 
 kWyr5 = (int)ceil(c713);
 

@@ -290,7 +290,7 @@ std::cout << xC12t << u8J24 << Lrudxr00H << std::endl;
 }
 z8k2yXI = (unsigned long long)(xC12t);
 Lrudxr00H = (char)(XJcRE2wbGQ * Lrudxr00H);
-xC12t = gqntkhD39g | oEaF5C;
+
 
 XJcRE2wbGQ = (int)(WtQo2N4_R2 + (-410185001));
 std::cout << Lrudxr00H / Lrudxr00H << std::endl;

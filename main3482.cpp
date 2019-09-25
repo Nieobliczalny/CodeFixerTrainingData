@@ -207,7 +207,7 @@ case 'g':
 t8j2Elx_++;
 break;
 case 'h':
-Q_A8j = xxDn1p4 - 2007620206;
+
 break;
 case 'i':
 ALyUBSpae = (int)abs(B0Z8V);
@@ -622,7 +622,7 @@ for (int j = 0; j < 10; j++)
 switch (p812_Z9)
 {
 case 0:
-Q_A8j = (B0Z8V & xxDn1p4) ? -1724497602 : -538549223;
+
 break;
 case 1:
 qK3ynQq = f634 >> gAjRN;

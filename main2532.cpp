@@ -59,7 +59,7 @@ int main(int argc, char** argv)
   unsigned char  e0_18FZ;
 
   long long  EYYhTZm6;
-  EYYhTZm6  =  -1558621528;
+
   float  NG306RSoE;
   NG306RSoE  =  -800162605;
 	short	uqSN;
@@ -97,7 +97,7 @@ int main(int argc, char** argv)
     unsigned long    JrQij;
     JrQij    =    1575211132;
 	long	D8v1FZnb0;
-	D8v1FZnb0	=	1888069038;
+
     unsigned short int    j65683TZ;
     j65683TZ    =    -174198843;
 	short	O72ohF26e;

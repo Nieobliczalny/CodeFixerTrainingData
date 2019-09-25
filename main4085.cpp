@@ -414,7 +414,7 @@ X6T9qrW27 = f_4t1g(Uo3Nl77, wM43O5v9, WF4Ot) / 384976904;
 break;
 case 'c':
 case 'C':
-NuL0 = jqDE4(NuL0, -800377707, -257390116);
+
 break;
 case 'd':
 case 'D':

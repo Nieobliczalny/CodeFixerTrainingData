@@ -258,7 +258,7 @@ Xijj54U = (int)floor(i3fbK);
 }
 else
 {
-BasC = G0zEoix8 + 1621480691;
+
 }
 j++;
 }

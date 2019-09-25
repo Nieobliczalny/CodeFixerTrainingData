@@ -227,7 +227,7 @@ else
 
 }
 
-Q_ZtJF5 = (int)abs(cTYD77j);
+
 if (lu7n1WEt == -1698512507)
 {
 {

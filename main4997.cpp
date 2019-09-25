@@ -38,7 +38,7 @@ int main(int argc, char** argv) {
 	char	o1n6kMb8;
 
     unsigned long    xT6c8O5Xn;
-    xT6c8O5Xn    =    -1417267666;
+
  int B_R1;
  B_R1 = 1817925411;
 	short	lx15M53WlD;

@@ -99,7 +99,7 @@ int main(int argc, char** argv)
 	O0Hl1	=	-518792753;
 	HF022cB	=	1920146232;
 
-	arcmjpOJw4	=	916746124;
+
 	K05H	=	1096725051;
 
 	j0TE8	=	1623659432;
@@ -425,7 +425,7 @@ case 'c':
 
 break;
 case 'd':
-S6E87HiyO0 = G0tS(S6E87HiyO0, Q9SiJ, AHnjBb, 59784262);
+
 break;
 case 'e':
 
@@ -496,7 +496,7 @@ case 4:
 
 break;
 case 5:
-O0Hl1 = r4hhz1uUO(-1538053118);
+
 break;
 default:
 

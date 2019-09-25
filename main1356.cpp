@@ -165,7 +165,7 @@ r0owM3L6 = pJsXef ^ Iwd_qS;
 break;
 case 'd':
 case 'D':
-kxDSa5jc = nl3Rl91gmY - 2077399256;
+
 break;
 }
 j++;

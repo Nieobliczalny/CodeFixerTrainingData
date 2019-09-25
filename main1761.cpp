@@ -27,7 +27,7 @@ case 0:
 
 break;
 case 1:
-f5a_bI = f5a_bI >> 2023536700;
+
 break;
 default:
 

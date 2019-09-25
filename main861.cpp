@@ -235,7 +235,7 @@ dkyMTP5 = Btnhe_(-1396744198, T36daCYE2);
 }
 else
 {
-Vva_XD_ = (int)abs(N24W);
+
 }
 }
 if (vQgu4selL < XS65q)

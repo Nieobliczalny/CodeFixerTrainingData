@@ -20,7 +20,7 @@ int main(void)
  long double m2Vern;
  m2Vern = 1290331505;
   unsigned short int  Yd1X2l;
-  Yd1X2l  =  1099044078;
+
  double oLlrXS;
  oLlrXS = 1757642554;
  long long pGzi94sJ78;
@@ -66,7 +66,7 @@ int main(void)
  int ruDd28;
  ruDd28 = 1338612066;
  int lQh4_5zL;
- lQh4_5zL = 339634936;
+
 	unsigned short	O2CD;
 	O2CD	=	-596549807;
     short int    z1QSVn;
@@ -128,7 +128,7 @@ int main(void)
     unsigned short int    Pl78TjTn3W;
     Pl78TjTn3W    =    1553572792;
   char  G_kVdmj9Q9;
-  G_kVdmj9Q9  =  8044821;
+
  short int bKIYcu;
 
  char Ca_N5;
@@ -170,7 +170,7 @@ int main(void)
  double l04X;
 
  long double xJ1dw7;
- xJ1dw7 = 946803097;
+
  unsigned short int sM2507Z;
  sM2507Z = -310573525;
 	short int	Jv2WV;
@@ -186,7 +186,7 @@ int main(void)
  unsigned char KdU1qT7ts;
 
   long  edytQ4;
-  edytQ4  =  1879281302;
+
 	short int	Ep0d;
 	Ep0d	=	339612209;
     long double    pBwQ;
@@ -464,7 +464,7 @@ cout << Ea56E751C << g73Lg3 << endl;
 }
 else
 {
-B_I9nw220h = (int)floor(c07_);
+
 }
 ++i;
 }

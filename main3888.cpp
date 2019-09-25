@@ -51,7 +51,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-Sqoc = (u8wUpH16Pp & V0_n3) ? J0yI5m0d(u8wUpH16Pp) : I0hi;
+
 break;
 case 'd':
 case 'D':
@@ -85,7 +85,7 @@ case 2:
 u8wUpH16Pp = (int)abs(I0hi);
 break;
 case 3:
-I0hi = J0yI5m0d(-1327241501);
+
 break;
 case 4:
 

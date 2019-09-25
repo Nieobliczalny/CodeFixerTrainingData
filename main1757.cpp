@@ -55,7 +55,7 @@ int main() {
  long double T4U06e0;
 
     unsigned int    IZC0Fm3H;
-    IZC0Fm3H    =    627641141;
+
  float mFzoFJn;
  mFzoFJn = -341340753;
  unsigned char ohN0rNS;
@@ -67,7 +67,7 @@ int main() {
  unsigned short int e4yuh0;
 
   unsigned char  jd651c;
-  jd651c  =  2055192623;
+
 	long long	U2HdHo;
 	U2HdHo	=	819564093;
  unsigned char FK63;
@@ -85,7 +85,7 @@ int main() {
 	long	s2qE6U_U;
 	s2qE6U_U	=	603875408;
 	float	nmrd4zF;
-	nmrd4zF	=	-1545832402;
+
 	long long	OWXO;
 
  float rOBVO7Y88;

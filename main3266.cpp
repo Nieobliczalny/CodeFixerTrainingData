@@ -369,7 +369,7 @@ case 6:
 gz_977 = fwa8OnEw48 % lMT4S6;
 break;
 case 7:
-D0n_K7jx = v5Zpcl__ / 882123678;
+
 break;
 case 8:
 r58Jo1RA4t = (int)ceil(Ya_6tr);

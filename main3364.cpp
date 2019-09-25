@@ -23,6 +23,7 @@ int main(void)
 	unsigned short	wLR6t0,	bBm7tA9H5i,	JiF2Os,	yx_7Wj,	Lk2G,	D2hr8iq6Ic,	FmiXm2_jF,	At4Pd,	J_h05,	zSjA6vN7E,	VfN38ChX_1,	p9U0U0E0,	eGIn6,	b5zFdOK45,	eQB5OYeOq2,	tR33,	NuZOAepk0t,	Qc8t,	ND8Ab2z,	w42d,	oGab_6g;
 		wLR6t0	=	bBm7tA9H5i	=	JiF2Os	=	yx_7Wj	=	Lk2G	=	D2hr8iq6Ic	=	FmiXm2_jF	=	At4Pd	=	J_h05	=	zSjA6vN7E	=	VfN38ChX_1	=	p9U0U0E0	=	eGIn6	=	b5zFdOK45	=	eQB5OYeOq2	=	tR33	=	NuZOAepk0t	=	Qc8t	=	ND8Ab2z	=	w42d	=	oGab_6g	=	1215832358;
 	unsigned short int	p_ds,	FqXAEyL,	D9QEV00,	L18yX0g28R;
+		// codechecker_intentional [deadcode.DeadStores] Design rule - initialize all variables
 		p_ds	=	FqXAEyL	=	D9QEV00	=	L18yX0g28R	=	0;
 
 if ((-1581910333 / R1SNHuYL5_(234173809, bBm7tA9H5i)) >= 1438435780)

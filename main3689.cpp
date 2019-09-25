@@ -79,7 +79,7 @@ int main(void)
 	EqneK1s_3	=	-1684940521;
 	X5wv8hVK3K	=	-343199444;
 
-	Cy8vMW	=	1017605532;
+
 	VDLzCe	=	626046526;
 	SMb3c5RK	=	-175805454;
 	L_g_hf2zh	=	-1834858548;
@@ -238,7 +238,7 @@ else if (KtsFFB_aj >= -229548487)
 {
 for (int k = 6; k >= 0; --k)
 {
-z53g91v = EqneK1s_3 | 2055703273;
+
 }
 }
 else if ((ZJy4H) || (M4TVv == 75627897))
@@ -312,7 +312,7 @@ case 2:
 F8_C = (int)abs(W830A);
 break;
 case 3:
-yo8F_ |= ThIGi;
+
 break;
 case 4:
 
@@ -408,7 +408,7 @@ for (int j = 10; j >= 0; --j)
 int k = 0;
 do
 {
-z53g91v = (int)abs(T76QiW);
+
 ++k;
 }
 while (k < 1);

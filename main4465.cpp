@@ -38,7 +38,7 @@ int main(void)
  unsigned int S6Vz;
  S6Vz = -116062862;
  long u_4_j8P0;
- u_4_j8P0 = 0;
+
     unsigned long    T8SN_;
     T8SN_    =    1836357642;
     long double    P___fI629;
@@ -147,7 +147,7 @@ case 'I':
 iy5KT8HXD = p2K_3X8y(1660136481, cl5Ajy);
 break;
 default:
-u_4_j8P0 = p2K_3X8y(1151231441, 425691196);
+
 break;
 }
 if (BU2pEK8RJ8 & 857924343)
@@ -189,7 +189,7 @@ case 'd':
 nN341gj = JmKfZ * TfHxc4u;
 break;
 case 'e':
-u_4_j8P0 = p2K_3X8y(P___fI629, V2v9t14Fqi);
+
 break;
 case 'f':
 Uv_8b = (int)ceil(XoJ_4Wx);

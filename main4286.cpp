@@ -93,7 +93,7 @@ a1HnWc_ = (int)abs(srh_m);
 }
 while (i < 5);
 }
-kD1X = (unsigned int)(PbKcmbAT);
+
 
 {
 int i = 6;
@@ -178,7 +178,7 @@ while (i >= 0)
 }
 
 N80_PWVHT = (unsigned int)(b2EI256784);
-cg6W0Mq &= 269668819;
+
 try
 {
 if (zNHHiF)

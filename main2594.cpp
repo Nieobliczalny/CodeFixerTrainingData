@@ -37,7 +37,7 @@ int main(void)
 	Q1y5h	=	-1520004562;
 	I41CPq4mO	=	894578221;
 	dEdV6r	=	1489215201;
-	gTQ2kZ2	=	44594852;
+
 	BKXn__DEW_	=	443122641;
 	eXfV	=	-1299001573;
 	Vqhmn89	=	6190079;
@@ -248,7 +248,7 @@ hH3HC9Z3 = (int)abs(fmD0A464s);
 break;
 case 'f':
 case 'F':
-gTQ2kZ2 = (do9_5W > vjYNb62QR) ? 1980812100 : 690241115;
+
 break;
 case 'g':
 case 'G':
@@ -451,7 +451,7 @@ break;
 
 
 
-zJtQ6 /= Zg9n;
+
 switch (n4cXQ5Bc)
 {
 case 'a':

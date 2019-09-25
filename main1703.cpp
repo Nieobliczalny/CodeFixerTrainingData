@@ -37,7 +37,7 @@ int main(int argc, char** argv)
     short    uMeiHx;
 
   float  aD2X2_6;
-  aD2X2_6  =  -1912448945;
+
  float Y9b_kvS;
  Y9b_kvS = -146464342;
     short int    zDMPWr;
@@ -75,7 +75,7 @@ int main(int argc, char** argv)
  long biHVS;
  biHVS = -56928477;
     int    ovmBmPL9S;
-    ovmBmPL9S    =    -45360542;
+
  unsigned long IKD8;
  IKD8 = 1903542997;
   float  V3xj04x0Nt;
@@ -121,7 +121,7 @@ int main(int argc, char** argv)
  unsigned char lMk99x9;
 
  long double j3iw_27;
- j3iw_27 = -141766454;
+
   long  d97XcN6r;
 
 	long	qs_b2B;
@@ -216,7 +216,7 @@ while (j >= 0)
 }
 cout << NBf6G(-1467616025, -1588086921) << "CqTHo" << NBf6G(-1741545329, -1458469475) << endl;
 
-V8LCo_1 = (long double)(qs_b2B + (-562552744));
+
 
 switch (JT59D7J_)
 {

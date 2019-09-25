@@ -99,7 +99,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-sK84Meo = (int)ceil(aLw1T);
+
 break;
 case 'c':
 case 'C':
@@ -238,7 +238,7 @@ if (xxwe6tfdcv != Q3hQU263s7)
 }
 else if (b71LoKDl4g)
 {
-sK84Meo = (int)ceil(ORNuR);
+
 }
 else if (Wlz3T)
 {

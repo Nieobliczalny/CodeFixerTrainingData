@@ -245,7 +245,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-V8h_ = Kf188PNnM / 1084031970;
+
 break;
 case 'd':
 case 'D':
@@ -285,7 +285,7 @@ std::cout << "LZ72py1" << he6_gT << std::endl;
 
 
 
-he6_gT *= 1495023805;
+
 return 0;
 }
 

@@ -254,7 +254,7 @@ break;
 
 
 
-tQAOWxB %= qK_36_cw;
+
 std::cout << -1766615607 / M_B8(-765521704, -1724441332, 1761043374, du6k) << std::endl;
 
 return 0;

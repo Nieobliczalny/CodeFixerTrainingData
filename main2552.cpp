@@ -33,7 +33,7 @@ int main() {
  long double d27_5o8YzH;
 
     long double    G9W75;
-    G9W75    =    -769454084;
+
     unsigned int    slOrV57R;
 
     double    KYd_fu;
@@ -71,7 +71,7 @@ int main() {
     short    D91nddM5l7;
 
     long long    LEabOR3Mri;
-    LEabOR3Mri    =    1390091551;
+
 	short int	NGg3UBlL;
 
 	int	vrer5;
@@ -129,7 +129,7 @@ int main() {
   long long  VoMd3mN23E;
 
   char  P49kZ0V;
-  P49kZ0V  =  259711722;
+
 	long long	c_p9L_1;
 
 	unsigned long long	gLyHAsJ;
@@ -143,7 +143,7 @@ int main() {
   short  u8ODzm;
 
   short  jDDJO5SK;
-  jDDJO5SK  =  1822340339;
+
  unsigned short hlDK6;
 
   unsigned short int  my_Uzi;

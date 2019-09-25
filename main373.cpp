@@ -79,7 +79,7 @@ int main() {
 	short	b9qYhc;
 	b9qYhc	=	1642248747;
  unsigned short prGtHv54;
- prGtHv54 = 684892647;
+
  short tVFyB;
  tVFyB = 2141937939;
  unsigned short iRc3TtVDM;
@@ -273,7 +273,7 @@ HtOmcW44 = (int)ceil(CHBa);
 switch (LuC01WtQI5)
 {
 case 0:
-prGtHv54 = x0C365__jf - rkz2T;
+
 break;
 case 1:
 fmVOVwpz = (int)ceil(Jfn_dd);
@@ -395,7 +395,7 @@ if (s_F0FW79 >= ri08N5d6R)
 }
 else
 {
-v4TGi4_t1 = (int)ceil(cB_N);
+
 }
 }
 }
@@ -418,7 +418,7 @@ case 4:
 
 break;
 case 5:
-v4TGi4_t1 = (int)abs(taDBLxaB);
+
 break;
 case 6:
 

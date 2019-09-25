@@ -20,7 +20,7 @@ int main()
 	unsigned long long	W8NvmG;
 
     unsigned long    Tig5i880T;
-    Tig5i880T    =    -508977761;
+
  char zZT48;
 
 	int	tIH_XT_pC;
@@ -30,7 +30,7 @@ int main()
  long double RFW3;
 
     long    y_lZ;
-    y_lZ    =    -2106573999;
+
     unsigned short    mjftm88;
     mjftm88    =    -1214596671;
     short    zI7g47;
@@ -44,7 +44,7 @@ int main()
 	int	UxxP03n;
 
     unsigned short int    PTgVgfyJ26;
-    PTgVgfyJ26    =    1636644967;
+
   unsigned short int  dftT;
   dftT  =  -1319725248;
  long double CV_nAt2gV;
@@ -56,7 +56,7 @@ int main()
 	float	p4cel7SG;
 
 	int	oEt0T;
-	oEt0T	=	275921402;
+
   long long  N4qMAL2;
 
     unsigned short    RrQ70_Qa4;
@@ -66,7 +66,7 @@ int main()
   long long  L606_22;
 
  unsigned long long Dh4_s446;
- Dh4_s446 = -1693194768;
+
 	float	sxgs6a0hkh;
 
     long    b42_6i_;
@@ -78,7 +78,7 @@ int main()
  float xVrAP9;
 
 	unsigned char	e714YROT;
-	e714YROT	=	1953803770;
+
     char    yg_Axu3c;
 
   short  nb67q;
@@ -88,7 +88,7 @@ int main()
     unsigned long    d0r6nbCm2y;
 
     long    KHQ80y;
-    KHQ80y    =    1829234769;
+
  long double LD9Q;
  LD9Q = -137480692;
  unsigned char YKLl;
@@ -112,7 +112,7 @@ int main()
 	double	Nc73S;
 
  double b5NpX3y;
- b5NpX3y = 181447233;
+
  double i2OsoUG2N2;
  i2OsoUG2N2 = -774476559;
   short int  tPRu99iWT;
@@ -164,7 +164,7 @@ int main()
     double    rc_jzD;
 
 	float	LH98At8_e8;
-	LH98At8_e8	=	642520393;
+
     unsigned int    JS4lBRCN;
     JS4lBRCN    =    -1471540908;
  unsigned int wKpC2qL_Z;
@@ -186,7 +186,7 @@ int main()
   long  A69A7G64;
 
  unsigned long long M_GBdsl8e;
- M_GBdsl8e = 1387951885;
+
 	unsigned short	D6A0lUb0U;
 	D6A0lUb0U	=	-685774780;
   unsigned int  uoK04r;
@@ -198,7 +198,7 @@ int main()
     int    s5QxE;
 
   unsigned short int  tGKR3;
-  tGKR3  =  -12642682;
+
   unsigned long long  QV4_qA5O8V;
 
  long long YGr_MB;
@@ -208,7 +208,7 @@ int main()
 	int	bZgGbu;
 
     unsigned long    RLPDvkRCh;
-    RLPDvkRCh    =    -1749264593;
+
   unsigned long  n7HpO_5m;
   n7HpO_5m  =  -2077365983;
   long double  Q3qZ3Y_9;

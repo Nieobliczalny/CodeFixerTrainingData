@@ -135,7 +135,7 @@ if (u19JnZ62 == kbK480rG)
 {
 for (int j = 0; j < 8; ++j)
 {
-I67gQZxv = (int)floor(BM0N);
+
 }
 }
 else
@@ -173,7 +173,7 @@ if (v6P_B > 500175299)
 {
 if (Ksvn6ll <= -1019352376)
 {
-x4Th26Fi = N_mxi32_ % 1275151331;
+
 }
 }
 

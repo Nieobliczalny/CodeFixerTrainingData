@@ -84,7 +84,7 @@ int main()
   int  Zm_i7q4H;
 
     long double    WRei9edpc;
-    WRei9edpc    =    1213082661;
+
  unsigned short int oQzFrfA;
  oQzFrfA = 1784980573;
 	unsigned short	Hg0uL7;
@@ -108,7 +108,7 @@ int main()
     unsigned short    UFwB2vF2x0;
 
  short GaafD;
- GaafD = -2038917872;
+
 	unsigned long	qs9m_T;
 	qs9m_T	=	-410350757;
  double C7P63RTlI0;

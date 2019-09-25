@@ -376,7 +376,7 @@ case 'c':
 
 break;
 case 'd':
-BqriC1kMI = tNhcK + Lg4Lg96f;
+
 break;
 }
 }
@@ -534,7 +534,7 @@ if (RQsPQcEmsI >= 1515249749)
 }
 else
 {
-l5_7Kz = (int)ceil(gg4qILL);
+
 }
 }
 }

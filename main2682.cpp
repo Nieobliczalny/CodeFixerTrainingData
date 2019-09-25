@@ -49,7 +49,7 @@ int main()
 	double	A1Fs10ZW1C;
 
   unsigned long  hQH_zs;
-  hQH_zs  =  -1587078460;
+
  long long GJ8X;
  GJ8X = 0;
   long long  ho8hz2;
@@ -75,7 +75,7 @@ int main()
  float v7IQn2U;
 
     unsigned long long    DY_3;
-    DY_3    =    523720700;
+
 	int	R0_31q3D9;
 	R0_31q3D9	=	255585153;
     unsigned long    ePWIcW;
@@ -177,7 +177,7 @@ case 0:
 
 break;
 case 1:
-II6Dv *= 1229577428;
+
 break;
 case 2:
 
@@ -287,7 +287,7 @@ else
 
 
 bCJ4MybC /= 588989376;
-iG5CM_G = (short)(lp980);
+
 
 ni2x--;
 {
@@ -312,7 +312,7 @@ case 3:
 vYTYMp3_1f *= 1869312166;
 break;
 case 4:
-II6Dv = (int)ceil(ZBm1y);
+
 break;
 case 5:
 EeAk ^= 800828754;

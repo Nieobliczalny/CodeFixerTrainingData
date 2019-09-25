@@ -23,7 +23,7 @@ case 0:
 
 break;
 case 1:
-h_RpiioT = (int)ceil(PRyW);
+
 break;
 }
 
@@ -62,7 +62,7 @@ case 8:
 
 break;
 default:
-Wz233_Uw4q *= 806470211;
+
 break;
 }
 
@@ -156,7 +156,7 @@ case 2:
 
 break;
 case 3:
-rTMCJ15bkT = (D5h79K73h & -1043557896) ? qef_5C54T : 1391410568;
+
 break;
 case 4:
 
@@ -225,7 +225,7 @@ case 'G':
 break;
 case 'h':
 case 'H':
-D43rqRrzS2 = br3hVDD / 846541389;
+
 break;
 case 'i':
 case 'I':
@@ -241,7 +241,7 @@ break;
 }
 
 
-DU8FZVDjd /= 744421054;
+
 YcgBK7u -= WZNR1GlZ;
 
 {

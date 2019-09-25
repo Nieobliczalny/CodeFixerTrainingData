@@ -64,7 +64,7 @@ int main()
   unsigned long long  p9zPIBp3;
 
  unsigned char fuJ4wPgs;
- fuJ4wPgs = -414312937;
+
  unsigned long long SSK0;
 
  char j7Gz;
@@ -100,7 +100,7 @@ int main()
     long long    B743F7yf;
     B743F7yf    =    -1374673017;
 	short	LYFshd;
-	LYFshd	=	0;
+
  unsigned short E4z1;
 
     unsigned char    s14_;
@@ -176,7 +176,7 @@ kD8u6 += TIfJ0mHw;
 
 
 
-A3Mgz = dYGF_T5wr7(A3Mgz);
+
 
 if (LLG87 & -991321971)
 {
@@ -257,7 +257,7 @@ M091sY--;
 
 try
 {
-kauk4CLK = dYGF_T5wr7(kauk4CLK);
+
 }
 catch (int& errorCode)
 {

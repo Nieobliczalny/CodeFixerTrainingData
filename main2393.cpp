@@ -179,7 +179,7 @@ int main(int argc, char** argv)
  long gx4i49jZm;
 
     int    YX96CZA;
-    YX96CZA    =    1462202855;
+
 	long	A0d_b;
 
     char    o0mD71V41w;
@@ -216,7 +216,7 @@ case 'd':
 J0bk--;
 break;
 }
-mmT6bYcp = (int)floor(w8URvM);
+
 if ((b5OvN8TJ9M / TKbT) != 1780918247)
 {
 cout << hl_onJofS << endl;

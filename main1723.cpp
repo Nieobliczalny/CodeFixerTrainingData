@@ -132,7 +132,7 @@ cout << "ZLR73hCc" << "T1X7" << endl;
 
 
 
-C_j08p92 = (int)abs(OIjA3_Bsr);
+
 return 0;
 }
 

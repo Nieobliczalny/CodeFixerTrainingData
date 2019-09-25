@@ -22,7 +22,7 @@ int main(int argc, char** argv)
   long  j315_yh;
 
 	int	aKeKt127;
-	aKeKt127	=	404274783;
+
     int    e405gwkLY;
     e405gwkLY    =    507254125;
     double    F4t_W0gW;
@@ -34,7 +34,7 @@ int main(int argc, char** argv)
  unsigned long long q4ai8h05;
 
   long  lccL7_uE1m;
-  lccL7_uE1m  =  0;
+
   long long  P_0WAh;
 
     unsigned short    U7ByJn89;
@@ -50,7 +50,7 @@ int main(int argc, char** argv)
   float  sH63m0;
 
  unsigned short int Aw3Ikd_Mn;
- Aw3Ikd_Mn = 1985920351;
+
 	unsigned short int	ubiVBL_m;
 
 	unsigned int	b6nR5wkY6;
@@ -64,7 +64,7 @@ int main(int argc, char** argv)
  long long H67nRyH;
 
   float  K3pC;
-  K3pC  =  1355203406;
+
     long long    R_70hRI;
 
     long    ZFin_R3;
@@ -74,7 +74,7 @@ int main(int argc, char** argv)
  unsigned short bRw5_XiOq;
 
     unsigned long    dz6G0;
-    dz6G0    =    -1017075395;
+
   unsigned long  O5ghN65;
   O5ghN65  =  1024600020;
  short ZsUjJ3w;
@@ -90,7 +90,7 @@ int main(int argc, char** argv)
   unsigned short  h810;
 
 	unsigned short	iF76_4r7;
-	iF76_4r7	=	468901186;
+
   unsigned long  syx00P;
 
     char    WX62ZVrSg;
@@ -100,7 +100,7 @@ int main(int argc, char** argv)
  long long RmSm;
 
 	long	wJ9e9U4O_A;
-	wJ9e9U4O_A	=	779417160;
+
  unsigned long long JLP8shV9n;
 
   unsigned short  uo_dX;
@@ -110,7 +110,7 @@ int main(int argc, char** argv)
 	float	oU279e2;
 
     unsigned long long    gcJ3G9R23;
-    gcJ3G9R23    =    -1964121011;
+
 	unsigned long	rLf4j;
 	rLf4j	=	114270508;
     short    J8_2;
@@ -154,7 +154,7 @@ int main(int argc, char** argv)
 	unsigned char	i0_r2R14_;
 	i0_r2R14_	=	-1249781273;
 	unsigned int	WhDug;
-	WhDug	=	1995041781;
+
     long double    T7OC;
 
   unsigned short  MBhn;
@@ -164,7 +164,7 @@ int main(int argc, char** argv)
  long u002JA6;
 
   unsigned long  b71TsbN1v8;
-  b71TsbN1v8  =  -1288251395;
+
 	long	Yokyq7E;
 
  int x1MIk;
@@ -178,7 +178,7 @@ int main(int argc, char** argv)
  short BHtuV;
 
  unsigned short int l_72OAP94;
- l_72OAP94 = -1702196561;
+
 	int	O8Ni3_Bn;
 
 	short	G3FD4sEJ;

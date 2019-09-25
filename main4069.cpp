@@ -140,7 +140,7 @@ while (i < 5);
 
 DS87 = (unsigned int)(DUpMyO);
 
-gdjX97 += 943091813;
+
 if (l5Efa(UX_k_5QXcW, 1432128476, BF3c0H2FB5) == 0)
 {
 
@@ -163,7 +163,7 @@ case 'e':
 
 break;
 default:
-L45_d308M = n0_i86B << Img4KHqS09;
+
 break;
 }
 

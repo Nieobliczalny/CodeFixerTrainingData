@@ -89,7 +89,7 @@ int main(void) {
     unsigned char    z3Vs_;
 
  short int p90_J_WK8;
- p90_J_WK8 = 1068007394;
+
     double    JdJx04;
     JdJx04    =    -342619678;
   unsigned short  HnuH1CP;
@@ -133,7 +133,7 @@ int main(void) {
 	short	H95P_1Zxe;
 
  short YmLI06Z;
- YmLI06Z = 814359456;
+
     unsigned long long    lRrw;
     lRrw    =    2089721169;
  unsigned char FX6GK;
@@ -211,7 +211,7 @@ int main(void) {
     char    AnQ3Bx;
     AnQ3Bx    =    241680448;
 	short int	jRE8F;
-	jRE8F	=	30842367;
+
  short s37nV5L;
  s37nV5L = -581649808;
 	float	cT5J_x7;

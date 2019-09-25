@@ -75,7 +75,7 @@ int main(int argc, char** argv) {
 	long double	qW8B2p_AQ;
 
 	long double	V9h8;
-	V9h8	=	-1109581992;
+
 
 if (gkwq86ad75(-1429398564, 620138292, ro_rCHA5FR, -572194062, fxki91xcO) == 0)
 {

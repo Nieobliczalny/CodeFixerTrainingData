@@ -63,7 +63,7 @@ if (uwtm >= nFxTV4o1)
 {
 try
 {
-RR3NSWm2uu = (int)ceil(Esj384);
+
 }
 catch (int& errorCode)
 {
@@ -86,7 +86,7 @@ Abqe3EyoD = (S28vU_H30u) ? em4Cnn8kxw : 2117155829;
 
 try
 {
-vr5Y5F = (int)abs(Jv_04);
+
 }
 catch (int& errorCode)
 {

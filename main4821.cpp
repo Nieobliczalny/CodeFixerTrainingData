@@ -91,7 +91,7 @@ case 0:
 
 break;
 case 1:
-T4ZWZ5B7_n ^= 40918834;
+
 break;
 case 2:
 D0759 = (int)abs(V93A3MK5D);

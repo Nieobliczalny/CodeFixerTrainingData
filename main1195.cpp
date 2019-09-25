@@ -303,7 +303,7 @@ case 'a':
 
 break;
 case 'b':
-P6DGA = qHfwg(432723094);
+
 break;
 case 'c':
 

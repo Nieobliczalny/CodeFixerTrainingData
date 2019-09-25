@@ -62,7 +62,7 @@ int main(int argc, char** argv)
   double  VAtd8qycRm;
 
     long    G4M5ls8WcR;
-    G4M5ls8WcR    =    473641787;
+
 	char	Ia9WY8657q;
 
  unsigned short int P5c77q2JYd;
@@ -162,7 +162,7 @@ int main(int argc, char** argv)
     short int    SC_ImEqf;
     SC_ImEqf    =    1035124908;
     long    vIiyIR;
-    vIiyIR    =    -892496555;
+
 	int	blH4VJ;
 	blH4VJ	=	-541446493;
  short t94hCEx;

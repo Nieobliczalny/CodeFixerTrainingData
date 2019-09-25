@@ -133,7 +133,7 @@ while (j >= 0)
 switch (UL2y0M4kJ1)
 {
 case 0:
-d56v = (int)ceil(M0AaL4);
+
 break;
 case 1:
 a4F2BBL = (int)floor(M0AaL4);
@@ -157,7 +157,7 @@ case 7:
 
 break;
 default:
-Plq88vD4L = yGr8Fz01 | 498816710;
+
 break;
 }
 }
@@ -350,7 +350,7 @@ case 2:
 
 break;
 case 3:
-ubiy7erD <<= KG7EIEj;
+
 break;
 case 4:
 
@@ -414,7 +414,7 @@ case 7:
 
 break;
 default:
-NjQ4q = U36C_IW9g(-1549810868, a4F2BBL);
+
 break;
 }
 }

@@ -120,7 +120,7 @@ int main() {
   short int  Tkj_65t;
   Tkj_65t  =  -1637551177;
     unsigned long long    q_2i;
-    q_2i    =    -448299102;
+
 	short int	WVn4Bd;
 
   unsigned short int  H_hLmaW6zr;

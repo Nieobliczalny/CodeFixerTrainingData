@@ -125,7 +125,7 @@ if (pNB_Ka0Y < m0ud3n43)
 {
 for (int k = 0; k < 2; k++)
 {
-tCEZsRM4 = (int)ceil(r5VlFz7);
+
 }
 }
 else if ((R0Hjvq49) && (j2kaJtDUzP == gZtCqKoc))

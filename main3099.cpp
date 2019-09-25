@@ -16,7 +16,7 @@ int main(void) {
 
 
 
-	WWV3fJk	=	544060249;
+
 	MmQ0f	=	1887466037;
 	FK6n0_	=	-2023504925;
 	z9S1BykgP1	=	1632045572;
@@ -26,7 +26,7 @@ int main(void) {
 
 
 
-	Sf4G	=	-413886263;
+
 	JNt9ld	=	722286229;
 	NHUEL1b	=	-844209554;
 	hBX78P	=	-360059909;
@@ -36,7 +36,7 @@ int main(void) {
 
 
 
-	Nc27x9R_	=	-348828841;
+
 	HN51meF9r3	=	998258725;
 	OaLjB3S4	=	758316321;
 	hZxZQz6m6E	=	105869590;
@@ -47,7 +47,7 @@ int main(void) {
 
 	Z7AE	=	-1408198276;
 
-	PP5nCufUg_	=	843895766;
+
 	Lt32eL	=	1695522233;
 	uBVk	=	703128444;
 	Gl90gcL0	=	-309485478;
@@ -60,7 +60,7 @@ int main(void) {
 
 	wa86f	=	0;
 
-uBVk = afl_ + 992520361;
+
 t131z = hZxZQz6m6E / wa86f;
 cout << t131z << Z7AE << endl;
 

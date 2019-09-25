@@ -122,7 +122,7 @@ int main(int argc, char** argv) {
  long ge9sj02;
  ge9sj02 = 582187060;
 	double	YGPb;
-	YGPb	=	903095192;
+
     short int    bWfcT1FMqC;
     bWfcT1FMqC    =    -133596388;
     char    x2ew5SE85d;
@@ -284,7 +284,7 @@ else
 {
 if (Q15D)
 {
-YGPb = (int)floor(b4np1CP6s);
+
 }
 else
 {

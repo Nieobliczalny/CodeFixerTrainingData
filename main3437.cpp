@@ -41,7 +41,7 @@ cout << Q5S4QrRW << endl;
 
 if (WnLO >= T0_g)
 {
-Li5Srq2gN = (unsigned int)(Ze99j);
+
 }
 else
 {
@@ -63,7 +63,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-MY__Q9 = obZ1M(MY__Q9, 677953446, -40596162);
+
 break;
 case 'd':
 case 'D':

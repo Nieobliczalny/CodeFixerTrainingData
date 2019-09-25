@@ -133,7 +133,7 @@ if (iwLFM <= 1855282320)
 switch (u1_7z13)
 {
 case 0:
-e54z = (int)floor(K0tM687);
+
 break;
 case 1:
 f346A |= 816327260;

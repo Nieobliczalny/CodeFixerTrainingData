@@ -95,7 +95,7 @@ int main() {
  unsigned long U4vNb;
  U4vNb = 856364185;
  long ee462E;
- ee462E = -1099942241;
+
   short int  g8SDYAN5;
   g8SDYAN5  =  42317558;
   int  oK8Y;
@@ -165,7 +165,7 @@ int main() {
   float  P1ToUC7n7k;
 
     double    f_4R2rhz;
-    f_4R2rhz    =    1445197031;
+
 	unsigned short int	T12LfUH_0;
 	T12LfUH_0	=	-1568369400;
   char  USchi;
@@ -207,7 +207,7 @@ int main() {
     unsigned short    W5y5eD;
 
   short  vsVmr5j;
-  vsVmr5j  =  -1814880787;
+
 	float	SNBFfka;
 	SNBFfka	=	-325315183;
 	char	k2K55qL;
@@ -487,7 +487,7 @@ else
 }
 else
 {
-uuFf3k9F = f3WP(iTRa, 44801010, 296477936, -1014949829, 1831248993) | 139660150;
+
 }
 }
 

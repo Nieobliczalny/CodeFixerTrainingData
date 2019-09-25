@@ -214,7 +214,7 @@ for (int i = 1; i >= 0; i--)
 vU9PMJayn = AbCe & 1319836150;
 }
 
-Eqzht024 ^= TU78v;
+
 
 cout << xr_6P_Dj9 << Ty0Y0CM2 << Mhho9cb5O(-240867485, a_45J, S0Wvvk_a_, Ea5G, 1572175648) << Dzg0(vjbFUfS4) << endl;
 
@@ -443,7 +443,7 @@ aChx ^= 2098841168;
 }
 else if ((ZqKEvnkaJP & VK_Ai0) || (P3m9oT1_3 & MwQKXTs))
 {
-BG3h7WEIf += J0ciQU0q;
+
 }
 else if (((BG3h7WEIf >= G5G5) && (J0ciQU0q <= xr_6P_Dj9)) || (B5PH87 < VK_Ai0))
 {

@@ -59,7 +59,7 @@ try
 {
 for (int k = 0; k < 6; k++)
 {
-x4b5068o = dq6ep31();
+
 }
 }
 catch (int& errorCode)

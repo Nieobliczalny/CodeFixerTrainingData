@@ -47,7 +47,7 @@ int main(void) {
   short  aW0IY7;
 
  float br10;
- br10 = 1301004982;
+
   int  J4ZmWES;
   J4ZmWES  =  1972229114;
 	float	j_W2a5i8;

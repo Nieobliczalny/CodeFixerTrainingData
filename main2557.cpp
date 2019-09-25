@@ -251,7 +251,7 @@ case 'e':
 
 break;
 case 'f':
-Gscp440 = qurJ2Rz4V | b3ObMra;
+
 break;
 case 'g':
 hJAV3 = iTI0pp70W << 307740979;

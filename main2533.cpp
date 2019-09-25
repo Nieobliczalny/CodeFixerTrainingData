@@ -52,7 +52,7 @@ int main(int argc, char** argv)
 
 
   fYYspx  =  1863080012;
-  m5cJ60  =  1129266891;
+
   N4_iUcD4  =  1723085826;
   nM8JgNZ  =  -1510687008;
 
@@ -70,7 +70,7 @@ int main(int argc, char** argv)
 
   OS5aw3yJyg  =  -1519205647;
   KC01fyi  =  1488333036;
-  u6dy7D8Jzi  =  -520358459;
+
   K3aE  =  -1290830379;
 
   VPVdn  =  -1401553631;

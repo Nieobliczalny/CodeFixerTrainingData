@@ -44,7 +44,7 @@ int main()
   unsigned short int  qpRpsB7Kw1;
   qpRpsB7Kw1  =  1387380912;
 	unsigned long	F8N7u;
-	F8N7u	=	-1499806347;
+
  unsigned short zM663_;
 
  unsigned short int Pc31;
@@ -68,7 +68,7 @@ int main()
     long    SFa95;
 
  unsigned short rHDLL99d;
- rHDLL99d = -1080097648;
+
     long long    S4_MWkn;
 
 	long long	zVPZl_m;

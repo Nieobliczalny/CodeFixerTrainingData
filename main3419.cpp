@@ -293,7 +293,7 @@ switch (o4d3G0_TY)
 {
 case 'a':
 case 'A':
-Zv__Oy2_ = NXnsG & tPN30RGI;
+
 break;
 case 'b':
 case 'B':
@@ -317,7 +317,7 @@ yi399f2dv_ = mtgaRO5(yi399f2dv_, WSO7HKBcf);
 break;
 case 'g':
 case 'G':
-Zv__Oy2_ = mtgaRO5(Zv__Oy2_, 541050652);
+
 break;
 case 'h':
 case 'H':

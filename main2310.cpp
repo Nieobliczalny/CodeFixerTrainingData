@@ -286,7 +286,7 @@ while (i >= 0);
 
 if (ip436pw7lH < -2068830090)
 {
-wkRi2g8aFo = (int)ceil(z95f8DbuR_);
+
 }
 {
 int i = 2;

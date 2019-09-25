@@ -164,7 +164,7 @@ int main(void) {
 	char	pD2_6Nt__;
 
  int oylC_peo;
- oylC_peo = -1390568695;
+
     unsigned char    L4s6ZTn_z5;
     L4s6ZTn_z5    =    -820050342;
 	unsigned short int	OHma2VU6v;

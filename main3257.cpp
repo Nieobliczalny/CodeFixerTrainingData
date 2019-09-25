@@ -76,7 +76,7 @@ case 2:
 A321do = DXu9Ue2 + K4SZ0O;
 break;
 case 3:
-D0INib = (int)floor(pdr305FH);
+
 break;
 case 4:
 
@@ -218,7 +218,7 @@ case 2:
 
 break;
 case 3:
-IUaWH4 = (int)ceil(WEDfLkB);
+
 break;
 case 4:
 f01BCCTz_4 = (int)ceil(eoTHJ_);
@@ -346,7 +346,7 @@ case 'c':
 
 break;
 case 'd':
-lj9mJpY = K4SZ0O - U9I0;
+
 break;
 case 'e':
 
@@ -364,7 +364,7 @@ case 'i':
 
 break;
 case 'j':
-JnTX9yjN = (int)ceil(qwObptg44);
+
 break;
 default:
 JKnxFFog1b = HzUVn ^ 1553569929;

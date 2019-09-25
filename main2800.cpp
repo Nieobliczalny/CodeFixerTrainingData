@@ -32,7 +32,7 @@ int main(int argc, char** argv) {
     unsigned long long    O5s60co_;
     O5s60co_    =    750383788;
  unsigned short int cmwKY91joQ;
- cmwKY91joQ = 1189580785;
+
     unsigned long long    CgNF1;
 
 	unsigned short int	OnCIA;
@@ -72,7 +72,7 @@ int main(int argc, char** argv) {
  long double Z2Cbj6;
  Z2Cbj6 = 395041171;
 	long	zXRe0dl0Kn;
-	zXRe0dl0Kn	=	1597867929;
+
  int A0ZZ;
  A0ZZ = 481810782;
 	unsigned int	cz_Ml;
@@ -118,7 +118,7 @@ i++;
 while (i < 2);
 }
 
-E_lq2X_h31 = GM_EZ9t >> 1402437167;
+
 for (int i = 0; i < 5; i++)
 {
 switch (qhv5)

@@ -222,7 +222,7 @@ case 2:
 
 break;
 default:
-xtSlo = DTa61s8k(j48__Cu, bF1oED_xL, 1269980628) + 1674602837;
+
 break;
 }
 try

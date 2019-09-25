@@ -61,7 +61,7 @@ int main(void) {
 	unsigned short	DTc3Vv;
 	DTc3Vv	=	1485109154;
  float cLX5_;
- cLX5_ = 1356344383;
+
     unsigned short    T_ZlGwV0;
 
   long double  nJ5g8HYvH;
@@ -109,7 +109,7 @@ int main(void) {
   long long  ph8bU;
 
 	short int	mDgeb;
-	mDgeb	=	707495925;
+
 	unsigned int	F1Ve1hh_N;
 
   unsigned char  Td9j7iw8T;
@@ -119,7 +119,7 @@ int main(void) {
  unsigned int avUV;
 
 	unsigned char	JW1Fz13863;
-	JW1Fz13863	=	1495830642;
+
     short    R13S6Qi;
 
 

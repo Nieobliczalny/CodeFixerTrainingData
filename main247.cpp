@@ -107,7 +107,7 @@ int main(void)
   unsigned char  EmrDM;
   EmrDM  =  2071438613;
 	float	p_n_xrz;
-	p_n_xrz	=	-246909707;
+
 	long	RjCX;
 	RjCX	=	0;
     unsigned long    bIB7nVQK0;
@@ -254,7 +254,7 @@ case 'd':
 APywUR7 = Y7pRfFK4T();
 break;
 case 'e':
-y4w69bGmz = TQlHp5RP(RjCX, -898607292, cbr1MW6, n_y8Z9);
+
 break;
 case 'f':
 xJSS1J2oZ = (int)abs(ImFW13Wg_);
@@ -343,7 +343,7 @@ case 5:
 
 break;
 case 6:
-Bz95x = (int)ceil(bJz4hV);
+
 break;
 case 7:
 

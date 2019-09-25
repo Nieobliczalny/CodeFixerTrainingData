@@ -73,7 +73,7 @@ int main()
   double  O7wuUN7yo;
   O7wuUN7yo  =  -809212296;
 	short int	uS8j_moGQy;
-	uS8j_moGQy	=	-551132810;
+
 	double	QY9f5O344;
 
  unsigned short int R1GYyd28;
@@ -93,7 +93,7 @@ int main()
     int    J_s_P;
 
 	short int	L_OD;
-	L_OD	=	-741559505;
+
  short j2ORjv_K;
 
 

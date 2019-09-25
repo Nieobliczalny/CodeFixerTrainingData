@@ -141,7 +141,7 @@ case 1:
 
 break;
 case 2:
-vhdgDe = o8C24HJm(vhdgDe);
+
 break;
 case 3:
 

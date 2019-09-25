@@ -55,7 +55,7 @@ int main(int argc, char** argv)
     long long    ujs3;
 
     long long    Vs2Y;
-    Vs2Y    =    -951777648;
+
  unsigned short S_95;
  S_95 = 1217722171;
   unsigned long  bHFO;
@@ -300,7 +300,7 @@ case 'h':
 
 break;
 default:
-f1Mp59A32W = (int)abs(H6Nh);
+
 break;
 }
 }

@@ -91,7 +91,7 @@ e85QJdR = Nrdc(1039073887, -1368172060, 744511423, fGBg, d9eGH9WNW);
 break;
 }
 
-R6TA7f8 = (int)ceil(ek_47);
+
 
 {
 int i = 0;

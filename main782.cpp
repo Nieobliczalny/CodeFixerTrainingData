@@ -30,7 +30,7 @@ int main() {
     unsigned short int    LSS58F8;
     LSS58F8    =    -2003268693;
     short    KpjnS;
-    KpjnS    =    -1107621312;
+
   short  a8T8;
 
  unsigned char zTfy9e82rw;

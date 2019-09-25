@@ -463,7 +463,7 @@ for (int j = 2; j >= 0; --j)
 switch (J8rqb)
 {
 case 'a':
-Kog5j = (int)floor(xOasEtVO);
+
 break;
 case 'b':
 h0H6 = g_8h2oP ^ djNr9bLz;
@@ -495,7 +495,7 @@ if (aWsoTK4 <= -1123774240)
 switch (SoY1)
 {
 case 0:
-axaW83sW = TDBC2(-1350607293, 263468973, U9hPlQS, pt0w4, D_YhPwj8c);
+
 break;
 case 1:
 

@@ -50,7 +50,7 @@ int main(void) {
   short  LZ3UI4;
   LZ3UI4  =  0;
 	unsigned char	FDXDEa;
-	FDXDEa	=	1001312176;
+
   unsigned long  ul6wf;
   ul6wf  =  303696138;
   unsigned char  i8S60_n;
@@ -126,7 +126,7 @@ else
 {
 for (int k = 0; k < 3; ++k)
 {
-FDXDEa = yCs96v_hF(YDQi6yoA) + BeM9cU;
+
 }
 }
 }
@@ -259,7 +259,7 @@ case 'd':
 
 break;
 case 'e':
-cJ727 = (int)floor(dnyDN066R);
+
 break;
 case 'f':
 

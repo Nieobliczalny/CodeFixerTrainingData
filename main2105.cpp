@@ -16,7 +16,7 @@ int main()
   unsigned short  i15_S;
 
   float  zO3un6S1;
-  zO3un6S1  =  558570245;
+
 	short	GFLLp;
 
   unsigned char  rEKvsE;
@@ -26,7 +26,7 @@ int main()
   char  yrtJPp8;
   yrtJPp8  =  1097451354;
  char nAIW0;
- nAIW0 = 710675053;
+
 	char	H7cNUU2NFx;
 	H7cNUU2NFx	=	-1259858549;
 	short	X2R2;
@@ -48,7 +48,7 @@ int main()
   double  z6u_v3;
 
  unsigned long jac6f_Y;
- jac6f_Y = -2078761089;
+
 	double	A6MhXy;
 
   unsigned char  u6RGbT_gJ;
@@ -66,7 +66,7 @@ int main()
 	char	V26HoF;
 
   unsigned long  l_sWetM;
-  l_sWetM  =  -2114274686;
+
     char    uA07;
 
 	unsigned long long	NR_DXey_;
@@ -80,7 +80,7 @@ int main()
   long long  iK2sv7WeP;
 
 	long double	t99L4EL_;
-	t99L4EL_	=	-1086634598;
+
  unsigned short int TbezTU;
 
   long long  BiT8Y7;
@@ -90,7 +90,7 @@ int main()
  unsigned char jrI4R813U;
 
 	unsigned char	ZC457amSot;
-	ZC457amSot	=	-394428307;
+
  short int pL2110;
 
  long mDhzi98;
@@ -102,7 +102,7 @@ int main()
     unsigned short int    dc9Lu9;
 
   unsigned short  y6A2k;
-  y6A2k  =  -1463190553;
+
     double    w8Vqmp;
 
     unsigned long long    w0EdYqF;
@@ -139,7 +139,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-udA0dl = (int)floor(E4Tb);
+
 break;
 case 'd':
 case 'D':

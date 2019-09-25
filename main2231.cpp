@@ -123,7 +123,7 @@ int main(void) {
   unsigned short  MI31d7_btw;
   MI31d7_btw  =  -198133659;
 	unsigned short	ZDu3D1;
-	ZDu3D1	=	-850386660;
+
     unsigned short int    s4a6vE7t;
     s4a6vE7t    =    -693773347;
   unsigned long long  jCXO;

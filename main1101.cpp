@@ -132,7 +132,7 @@ for (int j = 1; j >= 0; --j)
 {
 try
 {
-tbvMn = (int)floor(xjX9PDSB71);
+
 }
 catch (int& errorCode)
 {

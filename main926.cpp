@@ -176,7 +176,7 @@ kr6zdT4Pn = (int)abs(qA87o_Ccj);
 
 std::cout << elS_(GeTsmic, -1060823732, -993551210, kr6zdT4Pn, 778224569) << PB4gxdN1 << elS_(GeTsmic, -861893182, -737747707, 747162248, R9_K_) << q_DMJEZm << std::endl;
 
-qA87o_Ccj = (int)ceil(kr6zdT4Pn);
+
 
 Ivl2 = (unsigned short)(Y3qm6T3o_L + (-1386224620));
 

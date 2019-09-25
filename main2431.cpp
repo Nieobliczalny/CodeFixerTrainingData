@@ -19,7 +19,7 @@ int main(void)
 	unsigned short int	nyMV_H;
 
 	short	f7YG2N;
-	f7YG2N	=	-207439958;
+
 	long double	f2Ja1wa2N;
 	f2Ja1wa2N	=	-751717392;
   long double  O91MP12sXe;
@@ -33,7 +33,7 @@ int main(void)
   double  wq5V;
 
  float j7foG9CYaW;
- j7foG9CYaW = -807609179;
+
  long long GGh9T;
 
  short int v5_WFs;
@@ -43,7 +43,7 @@ int main(void)
     long    BaU2t;
 
 	unsigned long long	s31hF1p;
-	s31hF1p	=	931393330;
+
     long long    k9dSm;
 
 	double	AXseqSqadF;
@@ -73,7 +73,7 @@ int main(void)
     int    u7nr;
 
   int  X2m2U;
-  X2m2U  =  840981613;
+
 	unsigned short int	jQ8xh;
 
  unsigned long long hd_xzgR_P9;
@@ -87,7 +87,7 @@ int main(void)
 	int	Go0q8;
 
 	float	NB1ou7ij;
-	NB1ou7ij	=	-1134872500;
+
  unsigned char j8Xx5;
  j8Xx5 = 0;
     double    c_SBT;
@@ -97,7 +97,7 @@ int main(void)
   int  Ga81_a;
 
   long long  CT92phQ_Cb;
-  CT92phQ_Cb  =  1397525045;
+
 	unsigned long long	EZ_IBX_1I;
 	EZ_IBX_1I	=	-1939033489;
   unsigned short  Jx72o0Oy;
@@ -113,7 +113,7 @@ int main(void)
     long double    I7zy87r6;
 
 	short	k5_XFU;
-	k5_XFU	=	-683983243;
+
   short int  BLeQ;
   BLeQ  =  75116814;
  unsigned long cYGgv9gDx;
@@ -147,7 +147,7 @@ int main(void)
     unsigned short int    qaD5u3_;
 
 	unsigned short int	PD6nLjD;
-	PD6nLjD	=	957565672;
+
     unsigned long    f37sm;
 
   unsigned char  UW79Jj;
@@ -173,7 +173,7 @@ int main(void)
   unsigned int  gO259;
 
     unsigned short    GkB_GaU1_;
-    GkB_GaU1_    =    -1245279412;
+
  long long P825CkLI;
  P825CkLI = 1128280239;
  unsigned char wyK_7;
@@ -201,7 +201,7 @@ int main(void)
  long double n3gtn;
  n3gtn = -978898749;
   unsigned int  LHad79q_X;
-  LHad79q_X  =  -952318981;
+
   unsigned long  TFeD_NsN;
   TFeD_NsN  =  -864344594;
  unsigned short int PZl13Nkvj;

@@ -264,7 +264,7 @@ pQ0Hsqpkt3 = (long long)(amO1uxXENQ);
 }
 else if (KMPc8 > Tyxf4Gi)
 {
-P48k5 = (int)abs(G_8_);
+
 }
 else if (GGgP4qF59 != -1730810934)
 {
@@ -349,7 +349,7 @@ xvlUA3DZ = (int)abs(m3fiu65_2) * 0;
 }
 else
 {
-P48k5 = KMPc8 - 1697834729;
+
 }
 
 xvlUA3DZ = Uiv6o6(1537909867, xvlUA3DZ);
@@ -384,7 +384,7 @@ case 8:
 
 break;
 case 9:
-KMPc8 *= 1948367085;
+
 break;
 default:
 

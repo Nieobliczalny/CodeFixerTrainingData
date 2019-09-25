@@ -41,7 +41,7 @@ case 0:
 tOOhA4Ruh0 = vo4MYHy3 & i142Y77xp;
 break;
 case 1:
-m4kF = TdJrBH0RL(-748722949);
+
 break;
 case 2:
 SvT2_Ri = h1zQe62kTc(1982146465);
@@ -112,7 +112,7 @@ default:
 break;
 }
 
-HV40 = (long)(KS4LsY8M);
+
 
 std::cout << "BW2xns5PmK" << Q_j0m3 << eP83 << pT4gd9v(-1617293943) << "R2yvJE1YC5" << std::endl;
 if (VKxuy_ > t0ftnt5)

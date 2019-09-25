@@ -35,7 +35,7 @@ int main(int argc, char** argv)
  E658 = -1465064512;
  O3W81Gu = -1214841433;
 
- R3m2fo = 1047855220;
+
  X8wfj = -1556607622;
  MAdP8ZF = -955169011;
 
@@ -47,7 +47,7 @@ int main(int argc, char** argv)
  RA3_e61AC = -101010045;
 
  d0RGUAtt1F = -1681124080;
- k5B92w = 1137347023;
+
  sR4o3 = 402878147;
 
  Zkx1c6n9fU = -2061617982;
@@ -199,7 +199,7 @@ if ((sR4o3 >= O3W81Gu) && ((Yrxq56t != d0RGUAtt1F) || (d0RGUAtt1F != MAdP8ZF)))
 int k = 0;
 while (k < 2)
 {
-M5s7 = (int)ceil(mHQ9D2);
+
 ++k;
 }
 }
@@ -255,7 +255,7 @@ else if (gTpO006 & 429328986)
 }
 else if ((E658 >= -705769921) && (vTUcfQ <= -405762965))
 {
-M5s7 = (long double)(gTpO006 + (-1008319318));
+
 }
 else if (ZSLa < Yrxq56t)
 {

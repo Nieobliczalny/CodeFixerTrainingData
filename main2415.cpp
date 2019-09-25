@@ -620,7 +620,7 @@ case 5:
 
 break;
 default:
-y6EjbZ = IR9P9T8(935548297, -1128013786);
+
 break;
 }
 }

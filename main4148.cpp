@@ -223,7 +223,7 @@ rh6J307D5 %= xmqc_g;
 
 try
 {
-pYlL24yI = (int)ceil(g58kST1);
+
 }
 catch (int& errorCode)
 {

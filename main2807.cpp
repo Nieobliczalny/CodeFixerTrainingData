@@ -624,7 +624,7 @@ default:
 UABC = (int)abs(oN7WD);
 break;
 }
-N_XcVW = (int)floor(pXAc1);
+
 PE4s3 |= Nr0r40;
 
 vihdk76 ^= Cu4K9k;

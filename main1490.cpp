@@ -198,7 +198,7 @@ case 'a':
 
 break;
 case 'b':
-eX29f70J = (int)floor(Hk5V_7086);
+
 break;
 case 'c':
 

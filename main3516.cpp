@@ -149,7 +149,7 @@ int main() {
   float  dzs2QjLj8f;
 
 	unsigned short int	mBpnQ;
-	mBpnQ	=	1894132196;
+
   unsigned short  tCryx0_4;
 
  unsigned short int FYb_305j;

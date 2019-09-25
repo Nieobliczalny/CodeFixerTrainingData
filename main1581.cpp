@@ -286,7 +286,7 @@ else if (I3s_O_03 == -1546824141)
 int j = 0;
 do
 {
-lOGDq = (int)ceil(rdDjg_6Pv_);
+
 j++;
 }
 while (j < 1);
@@ -326,7 +326,7 @@ case 8:
 xGZ091Gc = (int)floor(X4ga15);
 break;
 case 9:
-lOGDq = mg9vL7gO % 1544782475;
+
 break;
 default:
 u4E5S = (int)ceil(X4ga15);
@@ -340,7 +340,7 @@ else
 }
 else if ((ri9O < 1165231245) && (MtGmg < -1309301830))
 {
-lOGDq = (int)floor(DFhol2I2M);
+
 }
 else
 {

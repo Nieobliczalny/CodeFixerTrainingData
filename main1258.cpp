@@ -23,7 +23,7 @@ int main(void) {
 	unsigned char	ytvsRZq;
 
 	short	yV17s;
-	yV17s	=	-287437469;
+
 	unsigned short	r32XFc4;
 	r32XFc4	=	0;
 	unsigned long long	xIOpTZi12;
@@ -35,7 +35,7 @@ int main(void) {
   unsigned short int  e7w5d2_0VH;
 
   char  T8xBa;
-  T8xBa  =  2142419539;
+
     unsigned char    Kw4UOQV;
 
   unsigned long  sh6qt_81;
@@ -45,7 +45,7 @@ int main(void) {
     unsigned short    D01_Pk7h;
 
 	long	VmUPU39;
-	VmUPU39	=	1475522921;
+
   float  xBkIZM_No;
 
   unsigned char  vQDg7jN4N;
@@ -61,7 +61,7 @@ int main(void) {
   float  GcG99Zr_;
 
   long double  V45_UW9UM8;
-  V45_UW9UM8  =  1313265434;
+
  long long L0_Vy21k3;
 
     unsigned short int    tEidT;
@@ -89,7 +89,7 @@ int main(void) {
 	unsigned long long	qIqJ4Z_;
 
  double h8LYZ;
- h8LYZ = 819311037;
+
   unsigned long  qIY8;
 
     long    yO2_i;
@@ -99,7 +99,7 @@ int main(void) {
   unsigned short int  YcXlMxWi;
 
  unsigned long long dI2xVa;
- dI2xVa = 974109080;
+
   unsigned long  sW0ikhLW;
 
     unsigned char    MsKALwA3n6;
@@ -109,7 +109,7 @@ int main(void) {
     long long    k6cDzYybFh;
 
     unsigned long    i9wX4;
-    i9wX4    =    806935763;
+
     unsigned long    YN9_;
 
  unsigned long yRb__HjdC;
@@ -119,7 +119,7 @@ int main(void) {
     int    a95_;
 
   double  XIsS6g2D0;
-  XIsS6g2D0  =  1814105787;
+
 	unsigned char	a81KyKT3kP;
 
     unsigned short int    Rn__d08;
@@ -129,7 +129,7 @@ int main(void) {
   unsigned short int  v1j9h;
 
  unsigned short LVmZ;
- LVmZ = -631208036;
+
   double  BP_J3bAR5;
 
   long double  U4R0D;
@@ -139,7 +139,7 @@ int main(void) {
 	long long	gQ_N_iCN;
 
 	unsigned short int	mgfsU_;
-	mgfsU_	=	366181301;
+
   unsigned short int  n5Kyw97T_y;
 
   long  trDA_R;
@@ -149,7 +149,7 @@ int main(void) {
  unsigned char tbAc6nTu;
 
   short  uI0Y;
-  uI0Y  =  -1413961255;
+
 	unsigned long long	MLpG41Xv;
 
  int zY_b17Si;
@@ -159,7 +159,7 @@ int main(void) {
   unsigned long long  Sn80i8;
 
  float H6pb;
- H6pb = 887376981;
+
  short int z7m65mLK;
 
  unsigned short int tNwhI5r;
@@ -169,7 +169,7 @@ int main(void) {
 	short int	S401;
 
   int  a9Y8L;
-  a9Y8L  =  519004056;
+
 	long	g0lm8m5q5;
 
     unsigned long    pmVF;

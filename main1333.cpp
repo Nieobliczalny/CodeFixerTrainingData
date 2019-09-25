@@ -116,7 +116,7 @@ int main(void)
     unsigned short    X5DF2d;
     X5DF2d    =    712422171;
   unsigned short  J9v_;
-  J9v_  =  0;
+
   double  J2GL_X0_8;
   J2GL_X0_8  =  -774295786;
     unsigned long long    TWDfBHVb4;
@@ -146,7 +146,7 @@ int main(void)
  unsigned long long C0KX;
 
   long double  dEbEmH;
-  dEbEmH  =  61579900;
+
     unsigned long long    YsXK4_;
 
  short yVdUVJ6A;
@@ -418,7 +418,7 @@ while (i >= 0);
 cout << wN_0oI_ << x_iGEPR8Y6(1409760769, 1004699227, iCEu6c3_h, 361259110) << "ng490t_Sz5" << "bYMPDA" << knyJFpNN(sbnw2ZXP2, -1300506801) << endl;
 qwQft = knyJFpNN(qwQft, ncjsuX6N);
 
-N6g_L = (int)floor(KHT7q1s2VT);
+
 switch (T33VQ_y2)
 {
 case 'a':
@@ -431,7 +431,7 @@ l24W6ue2D = DxI8ZcTI + 1419901230;
 break;
 }
 
-OT7AjbJ6 = (long long)(TgY13n_i);
+
 {
 int i = 0;
 while (i < 1)

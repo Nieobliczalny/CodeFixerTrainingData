@@ -367,7 +367,7 @@ if ((vODK22hhq4 / bB49t6VVG) >= -403334336)
 
 }
 
-Gp6EgM = (int)abs(L65K_jR_8);
+
 
 if (A4e2c3 & -928815939)
 {
@@ -383,7 +383,7 @@ case 'c':
 ZF5Mp6G_7g >>= Ct_4i;
 break;
 case 'd':
-Gp6EgM = E4V5D41y << 2004175550;
+
 break;
 case 'e':
 xv_V2W ^= 1835538751;
@@ -480,7 +480,7 @@ if (bu29_ < 1360957068)
 }
 else
 {
-Gp6EgM = (int)floor(ya_Y);
+
 }
 }
 }

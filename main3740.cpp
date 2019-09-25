@@ -57,7 +57,7 @@ case 'g':
 
 break;
 default:
-t_o8jg_ = F2xA7X4h9 / KzIWHJVG0;
+
 break;
 }
 
@@ -119,7 +119,7 @@ case 'B':
 break;
 case 'c':
 case 'C':
-AWt7Rb = rl84 / A5mFS;
+
 break;
 default:
 
@@ -149,7 +149,7 @@ case 'e':
 
 break;
 case 'f':
-oRUGCO = Odk9gtM(q5IP8W50j, 1581045382) % 760612263;
+
 break;
 case 'g':
 
@@ -161,7 +161,7 @@ if ((wSAZ4 / Odk9gtM(bnJtt9, 695154677)) == 384276719)
 
 }
 
-aC4p9l3 = (int)ceil(hL8nLiq);
+
 C_6O8K_2W *= 249941377;
 
 std::cout << "v0Fgq" << "lD00cue_" << q5IP8W50j << std::endl;

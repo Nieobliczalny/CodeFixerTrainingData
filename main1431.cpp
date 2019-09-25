@@ -47,7 +47,7 @@ int main(int argc, char** argv) {
  unsigned short KGEm;
 
 	unsigned long long	vrrNd_H;
-	vrrNd_H	=	-263810505;
+
     short    K4Yf8G9v3k;
     K4Yf8G9v3k    =    -761478113;
 	unsigned short	WD3Y6;
@@ -77,7 +77,7 @@ int main(int argc, char** argv) {
   unsigned short int  yS_88e;
 
 	char	hqnZD_a;
-	hqnZD_a	=	-1371727388;
+
  unsigned char N376e8;
 
  unsigned short Ku48qff5;
@@ -95,7 +95,7 @@ int main(int argc, char** argv) {
   unsigned short  JnEy;
 
 	unsigned long	FvK7AY_58;
-	FvK7AY_58	=	179786373;
+
     unsigned short int    h111z_6Xsg;
 
 	unsigned short	o75f2;
@@ -165,7 +165,7 @@ int main(int argc, char** argv) {
 	unsigned short	r52X79eu;
 
 	int	FCSU5zO1_S;
-	FCSU5zO1_S	=	-280097103;
+
   unsigned int  y71yX;
 
  short K237u8uZ;

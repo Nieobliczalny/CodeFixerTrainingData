@@ -47,7 +47,7 @@ int main(int argc, char** argv) {
  short int f99llp0a98;
 
 	unsigned char	B12x_Xf;
-	B12x_Xf	=	231206391;
+
 	long double	KpG67S;
 
   char  sJah;

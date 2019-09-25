@@ -41,7 +41,7 @@ int main(int argc, char** argv) {
 	unsigned char	r9oV1WcO8;
 
  unsigned short int w715h6LJ;
- w715h6LJ = -3626899;
+
     unsigned char    amiq8;
 
  long long J7I06S8G;
@@ -51,7 +51,7 @@ int main(int argc, char** argv) {
 	short int	uI63;
 
  char DX8dL7S;
- DX8dL7S = 921585323;
+
  char eFm_ylF;
  eFm_ylF = 0;
     long long    Jr_33;
@@ -63,7 +63,7 @@ int main(int argc, char** argv) {
     unsigned short    Hb6K;
 
 	unsigned int	PW37fR;
-	PW37fR	=	-1120988113;
+
     long double    M_ory4;
 
  long irV146s5_;
@@ -85,7 +85,7 @@ int main(int argc, char** argv) {
 	long	roIvi7;
 
  long long Hx_74duQ;
- Hx_74duQ = 649419891;
+
   int  cmHTh_r4tt;
 
     unsigned short    CUDcSE00;
@@ -95,7 +95,7 @@ int main(int argc, char** argv) {
 	long double	FBW0QWk;
 
     long    QL90;
-    QL90    =    -1754397841;
+
     unsigned short    xXXZm;
 
  unsigned int iZ72683;
@@ -113,7 +113,7 @@ int main(int argc, char** argv) {
  long long Hb8DV;
 
  long y895M;
- y895M = -750899908;
+
 	char	NH_Q2k0A;
 
 	unsigned int	r1b5__;
@@ -127,7 +127,7 @@ int main(int argc, char** argv) {
     long long    W8_Np;
 
   unsigned int  LwnqH5m9B;
-  LwnqH5m9B  =  -590080072;
+
 	char	NyT_DZ_IAD;
 
 	unsigned long	BW7Lhca6Zp;
@@ -143,7 +143,7 @@ int main(int argc, char** argv) {
 	unsigned short	nS0M1;
 
  long double D_9_Dhf;
- D_9_Dhf = 698456616;
+
  long long O8dQN;
 
  unsigned int bcr665;
@@ -159,7 +159,7 @@ int main(int argc, char** argv) {
 	long double	D6P309V;
 	D6P309V	=	1478129299;
  long long qMkd_R5ap;
- qMkd_R5ap = -613141015;
+
 	unsigned long long	BQEF2C;
 
     unsigned short    rT4K9p_f4;
@@ -169,7 +169,7 @@ int main(int argc, char** argv) {
  unsigned long long f0tlKwL;
 
   long  OGK7Rh;
-  OGK7Rh  =  -2014110495;
+
     short    p06s;
 
  long long axBM;
@@ -187,7 +187,7 @@ int main(int argc, char** argv) {
     unsigned long    RHaA_7;
 
  double E3U4;
- E3U4 = 926925799;
+
     unsigned long long    r5JS7d;
 
 	unsigned long long	s3Wor;
@@ -227,7 +227,7 @@ int main(int argc, char** argv) {
   short int  a0H2P8Q1b;
 
   long double  UYLYm;
-  UYLYm  =  1560567865;
+
     unsigned char    MoXPX1XSs_;
     MoXPX1XSs_    =    0;
 

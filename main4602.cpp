@@ -26,7 +26,7 @@ int main(void) {
   unsigned int  DO9P7lz;
 
     float    H9AH;
-    H9AH    =    2063616901;
+
  unsigned int ZtJ1tqM;
  ZtJ1tqM = 544512334;
     short    Zt3_4tT77B;
@@ -70,7 +70,7 @@ int main(void) {
  unsigned long G_2yl0Ib;
 
     float    HOsO1W;
-    HOsO1W    =    1549004120;
+
  char A8QPu669fD;
  A8QPu669fD = 1581072347;
     float    L_XCOGxvO0;
@@ -108,7 +108,7 @@ int main(void) {
 	unsigned short	YxS68;
 
 	float	xRUKnwcq_;
-	xRUKnwcq_	=	-1938080474;
+
  unsigned int cdwwR3;
  cdwwR3 = -1479509837;
 	short int	oISVLFJD;
@@ -147,7 +147,7 @@ case 4:
 
 break;
 case 5:
-pO5642h0cf = j_wOGL3(-381360471, Ju25_, k3q2H, -944076370);
+
 break;
 case 6:
 

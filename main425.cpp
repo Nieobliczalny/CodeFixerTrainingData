@@ -40,7 +40,7 @@ int main() {
   unsigned short  T1g_2lB0cg;
   T1g_2lB0cg  =  -1033405629;
     long double    yj5ct2;
-    yj5ct2    =    281659593;
+
     unsigned long long    ToGJ43ew8D;
     ToGJ43ew8D    =    -46289757;
   long long  O3117_g;
@@ -74,7 +74,7 @@ int main() {
   short  xcss9;
   xcss9  =  563334986;
  long F4hrI8;
- F4hrI8 = 265676622;
+
   unsigned long  g511VZZYe;
   g511VZZYe  =  80062673;
  int gh56NW40f;
@@ -230,7 +230,7 @@ switch (O3117_g)
 {
 case 'a':
 case 'A':
-yj5ct2 = MyQE4Uiw_W(-1296576775, -1813429758, 968447621, -388858399, q77XCh);
+
 break;
 case 'b':
 case 'B':
@@ -242,7 +242,7 @@ u3xeZNSPuJ = (int)abs(i_707z);
 break;
 case 'd':
 case 'D':
-F4hrI8 = q77XCh * 884493726;
+
 break;
 default:
 h8XNqNgts += aSi0jth_7a;
@@ -331,7 +331,7 @@ N5MdoYz = MyQE4Uiw_W(2046235753, 688675844, 1157334856, aSi0jth_7a, 2129953572);
 break;
 case 'i':
 case 'I':
-R6DM_RUy7 = (int)ceil(fRy68fm);
+
 break;
 case 'j':
 case 'J':
@@ -610,7 +610,7 @@ case 'd':
 
 break;
 case 'e':
-cck95QL = (int)floor(Ky7zuO);
+
 break;
 default:
 

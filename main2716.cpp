@@ -78,7 +78,7 @@ int main(void) {
     long    QwfrgueboS;
     QwfrgueboS    =    -125657791;
  long double QN13iZMWj;
- QN13iZMWj = -1698563896;
+
 	long long	b9yFdo78Yb;
 	b9yFdo78Yb	=	-1734073569;
     unsigned long long    w2m7FVc_W;
@@ -278,7 +278,7 @@ else if (gP2i5 < 258542948)
 }
 else if ((HWMXci9 >= nwX19JMPG) && ((U4_7pOqG8 != 1229036469) || (nz5QNige < NnFq)))
 {
-U4_7pOqG8 ^= vNjEt5_ob;
+
 }
 else if (P0NO_ < nwX19JMPG)
 {

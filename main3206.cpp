@@ -196,7 +196,7 @@ case 'D':
 
 break;
 default:
-FuRf44_W = mG7sJm_6kL(mkmm, DWz4_I, N2S9Q, 82390797) >> Y83VL;
+
 break;
 }
 
@@ -216,7 +216,7 @@ B_287rE09 = (long long)(Z3uS15);
 
 std::cout << "LRs1s111" << Fv8f5LCL(-1919927524, 1711487791, Do2HGi5S__, DNSmmZia, rk3G) << mG7sJm_6kL(-814515255, -176035764, 266481609, DNSmmZia) << std::endl;
 
-SNJayX = (long long)(jKKTA);
+
 
 
 if (HyfKKl == 0)

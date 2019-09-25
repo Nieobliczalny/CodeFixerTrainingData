@@ -126,7 +126,7 @@ else if (bIS_2v9 >= 1022028820)
 {
 if (iwp99 != -79164549)
 {
-RG8Eq /= 51617108;
+
 }
 }
 else if (Eu4IsRuNLU & RG8Eq)
@@ -337,7 +337,7 @@ case 5:
 
 break;
 case 6:
-D_vx_ = vUEmZSs26 * U2nl;
+
 break;
 }
 }
