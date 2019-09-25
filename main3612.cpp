@@ -150,7 +150,7 @@ i4mCPY = (int)abs(reVCyY6PE);
 }
 else
 {
-iFt18j42v = igsx0 | z_hQBpQ6r;
+
 }
 }
 
@@ -252,7 +252,7 @@ V43ig4lvy /= 1812914297;
 break;
 }
 }
-c5wq7shf = -1540214642 / hhi9UcCO;
+
 
 
 for (int i = 2; i >= 0; i--)

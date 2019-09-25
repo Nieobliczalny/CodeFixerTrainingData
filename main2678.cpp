@@ -153,7 +153,7 @@ else
 {
 p2ZR = I4a2LHgV2i - 1102789273;
 }
-Rt3zHVY5P = (long)(M4IMl1a);
+
 if (J0rux > I4a2LHgV2i)
 {
 std::cout << p2ZR << ved3D8 << "r2S0Xr0878" << std::endl;

@@ -182,7 +182,7 @@ break;
 }
 }
 
-EAcvD8 = (int)floor(w96a0);
+
 
 j0oH3h = 1065126561 / lOFFqFSG54;
 

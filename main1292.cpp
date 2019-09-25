@@ -111,7 +111,7 @@ int main(void)
   int  JiX_0n45U7;
   JiX_0n45U7  =  1054028349;
 	long double	m5R2T6G;
-	m5R2T6G	=	1710847870;
+
  short int fst7Dz7;
 
     unsigned long long    c5tdwo4;

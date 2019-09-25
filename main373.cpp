@@ -107,7 +107,7 @@ int main() {
 	unsigned short	hf23QzdGu;
 	hf23QzdGu	=	239160123;
     char    v_ph8Odf;
-    v_ph8Odf    =    568749156;
+
     long long    tG0hz4__;
     tG0hz4__    =    824756822;
   long  RfT5;

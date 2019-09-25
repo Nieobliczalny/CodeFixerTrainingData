@@ -32,7 +32,7 @@ int main(int argc, char** argv)
   uQG6_t819N  =  -2092024186;
 
 
-  Qq_444S1O  =  473135707;
+
   QBhea  =  -118675836;
   oYPfF  =  519988955;
   bTu29  =  574228362;

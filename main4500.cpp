@@ -57,7 +57,7 @@ int main(int argc, char** argv) {
 	xSL1EN	=	-1623354352;
 
 
-	y69g	=	1585305353;
+
 	TiLNKW3O5	=	756844132;
 	oO8rd	=	1300840235;
 	IoPCK	=	486884201;
@@ -101,7 +101,7 @@ int main(int argc, char** argv) {
 	wb1SVPX0y	=	-1420140045;
 
 
-	b5fYw8Y3x	=	616585740;
+
 	k7A9NRQ2_x	=	-1206789059;
 	SlYRt_	=	-468914164;
 

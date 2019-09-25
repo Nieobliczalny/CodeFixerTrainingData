@@ -38,7 +38,7 @@ int main(int argc, char** argv)
 
 
 	Ypc96CV	=	-763882415;
-	w4n0Nspk4R	=	586883250;
+
 	HWC1	=	1387002123;
 	jqpb6LU	=	-1371527699;
 
@@ -52,7 +52,7 @@ int main(int argc, char** argv)
 
 
 
-	j_5L1	=	1674750495;
+
 	lyOCC2_Y	=	-984186928;
 	I_VEemY8Ep	=	-441051962;
 	Ezr8UN	=	97203063;

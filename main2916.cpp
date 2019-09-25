@@ -142,7 +142,7 @@ int main() {
 	short	E0ne_cV;
 
 	float	d0Mx4oPSo;
-	d0Mx4oPSo	=	-1326049008;
+
  short BgN_R8BTu;
  BgN_R8BTu = 1712596660;
   unsigned char  lnz5y;

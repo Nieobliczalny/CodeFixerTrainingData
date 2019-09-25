@@ -115,7 +115,7 @@ int main() {
   char  i8SEb;
 
     short    Oyx4;
-    Oyx4    =    833791787;
+
     double    Q_fo04E29;
 
     long double    J5_6H;

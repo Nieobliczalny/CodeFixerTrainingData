@@ -23,7 +23,7 @@ int main(void)
 
 
   Sh2oj6B  =  -1976052031;
-  tToXd72  =  -1709814592;
+
   UiNmV  =  -151659788;
   NiZd2G2K  =  1998678996;
   Ua5xlc1KY  =  -1508903135;
@@ -36,7 +36,7 @@ int main(void)
 
 
   q1tD4J  =  1132145515;
-  N_7GD2sL  =  -627036798;
+
   zzOQW6ki11  =  -1083910570;
   IAD96Z1ACs  =  -591898666;
 

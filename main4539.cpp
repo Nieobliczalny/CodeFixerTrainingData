@@ -47,7 +47,7 @@ int main()
 	unsigned short int	G4f01;
 
  float w0lnivf;
- w0lnivf = 591557654;
+
   long  EFfzR2VP32;
 
   short int  dHXg3U;
@@ -109,7 +109,7 @@ int main()
  int gdn2gf;
 
     double    J1qlk8;
-    J1qlk8    =    225573426;
+
   unsigned int  g62p;
   g62p  =  0;
     long    h181Tsi;
@@ -123,7 +123,7 @@ int main()
 	int	JZV_3d5;
 
     short int    gSb5NZW;
-    gSb5NZW    =    953865160;
+
  long long UE_84BdME;
 
  short int n8Nmrs;

@@ -112,7 +112,7 @@ int main(void) {
     unsigned long    iaBB1A08W;
 
  long W_1ud;
- W_1ud = -1680453093;
+
   long double  fFm42p18;
   fFm42p18  =  -917847737;
   short  sOI19_anme;

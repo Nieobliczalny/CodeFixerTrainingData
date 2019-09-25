@@ -40,7 +40,7 @@ int main()
 
 
 
-	Y1T9yTRy4r	=	69534635;
+
 
 {
 int i = 0;

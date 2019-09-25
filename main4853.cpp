@@ -95,7 +95,7 @@ int main(int argc, char** argv)
 	short int	mtjjIg;
 
 	unsigned char	JwwVCn;
-	JwwVCn	=	0;
+
  unsigned short zVU4xrT0n;
 
  double Zhqq19;

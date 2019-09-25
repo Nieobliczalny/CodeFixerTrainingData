@@ -211,7 +211,7 @@ case 0:
 YOeER = nPAyUwJPr * 1231127692;
 break;
 case 1:
-Bmp39 = (int)floor(YOeER);
+
 break;
 case 2:
 F1ku %= 899375028;

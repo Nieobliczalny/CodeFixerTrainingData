@@ -177,7 +177,7 @@ int main(void)
  long long P825CkLI;
 
  unsigned char wyK_7;
- wyK_7 = -191378698;
+
 	char	fVSgAb;
 
  short int iWlec3M;

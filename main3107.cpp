@@ -49,7 +49,7 @@ int main(int argc, char** argv)
 	uho80Yr_8x	=	706301794;
 
 
-	t75lo05	=	-178954194;
+
 
 	ceKc	=	-1677821344;
 

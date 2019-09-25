@@ -79,7 +79,7 @@ int main(int argc, char** argv)
   NuMo  =  -848828537;
   NqX7RF5F4h  =  2087229709;
 
-  azgA  =  2061023126;
+
 
   z363O  =  -1973194010;
 	char	q6C0s3;
@@ -103,7 +103,7 @@ case 4:
 CUD_GC2m = N0P25Jpck(CUD_GC2m, 2134282253, -601163319);
 break;
 case 5:
-azgA = (int)abs(pFFmhvDWPQ);
+
 break;
 case 6:
 B5Z55 = ahcij_zr4p & Rub544Qy;
@@ -191,7 +191,7 @@ fSo9PWte9 = (int)abs(M6t8Tbp);
 }
 else
 {
-azgA = q4kNycW4F(2066585269);
+
 }
 }
 catch (int& errorCode)

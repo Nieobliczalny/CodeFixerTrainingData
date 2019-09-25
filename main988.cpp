@@ -69,7 +69,7 @@ int main(int argc, char** argv) {
  long irV146s5_;
 
 	unsigned int	Ap5eb_gc3L;
-	Ap5eb_gc3L	=	1001201997;
+
     unsigned short int    Fj4y;
 
     unsigned char    G4vTU0UQ;

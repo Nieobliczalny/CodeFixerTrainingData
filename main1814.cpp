@@ -38,7 +38,7 @@ int main(int argc, char** argv)
 
  O8ib = -876895461;
 
- LXYd = -1976551376;
+
  jn87W14 = 1682905289;
  CL1Tz = -1166543673;
 
@@ -50,7 +50,7 @@ int main(int argc, char** argv)
 
 
  T8HB = -2028897190;
- Xaau = -451407220;
+
 
  Sb8v = -2135785643;
 

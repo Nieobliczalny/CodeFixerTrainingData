@@ -11,7 +11,7 @@ using namespace std;
 int main()
 {
     long double    lp980;
-    lp980    =    95299477;
+
   short  cpuO_qkN7;
 
 	double	viirt;

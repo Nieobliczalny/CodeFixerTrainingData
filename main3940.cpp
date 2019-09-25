@@ -92,7 +92,7 @@ int main(int argc, char** argv)
 
  zxB3mfp9x = -879124223;
 
- YA6Lq = -1267995056;
+
 	long	w8QV_21V,	FtoD,	x52M6hW,	j8fNVqrSG,	N1db3zsr;
 	w8QV_21V	=	0;
 	FtoD	=	0;

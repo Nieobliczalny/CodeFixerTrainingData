@@ -57,7 +57,7 @@ int main(int argc, char** argv) {
   ADjCyZA  =  677322385;
 
 
-  k_v_4A1  =  1446542124;
+
   aO4O7EG_4  =  34298640;
 
   rqEMB__zXE  =  1116823193;

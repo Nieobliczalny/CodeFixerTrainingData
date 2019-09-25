@@ -164,7 +164,7 @@ int main() {
   unsigned char  LC7e7A;
 
   long  tXR0fL;
-  tXR0fL  =  -2136101859;
+
   unsigned char  pE2Re5;
   pE2Re5  =  -279202548;
 	long long	K9qlVM6;
@@ -196,7 +196,7 @@ int main() {
   float  X6cTbz;
 
     short    QXh1ofF;
-    QXh1ofF    =    1366063012;
+
   long  o3b3Q7Z7;
 
 	char	U36E;

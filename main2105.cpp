@@ -28,7 +28,7 @@ int main()
  char nAIW0;
 
 	char	H7cNUU2NFx;
-	H7cNUU2NFx	=	-1259858549;
+
 	short	X2R2;
 
   double  uWVazVcDk;

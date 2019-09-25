@@ -193,7 +193,7 @@ int main()
     short    aYS9;
 
  float Dd_V;
- Dd_V = 1880828532;
+
 	long long	hcws6g;
 
 	unsigned short	brUoa1;

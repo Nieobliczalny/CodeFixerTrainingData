@@ -16,7 +16,7 @@ int main(void)
     Ui_kxd1qac    =    444263812;
     hK8z    =    163092785;
 
-    D7oVwg    =    1910499150;
+
     iv_dFSpL    =    1598802402;
     DHMXi    =    797189751;
     aBidZJ0    =    298614117;
@@ -73,7 +73,7 @@ int main(void)
     BEZ9y_On63    =    878705937;
     O9P0L    =    -1677300133;
     c3SQcu2D    =    -2071668628;
-    C9oYCN    =    -2018971954;
+
 
     KD63F__s    =    -970084545;
 

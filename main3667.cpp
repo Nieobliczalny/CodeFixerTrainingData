@@ -65,7 +65,7 @@ case 3:
 
 break;
 case 4:
-n8_Qf0 = ok_2814bm(hyc1x8, -975901291);
+
 break;
 case 5:
 
@@ -80,7 +80,7 @@ case 8:
 
 break;
 default:
-pCxTvmtZ = ok_2814bm(I9V7v2421, k0_66);
+
 break;
 }
 }

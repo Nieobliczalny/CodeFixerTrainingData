@@ -34,7 +34,7 @@ int main(void)
     mgY4CC    =    -60067906;
 
     C724Puy    =    260580583;
-    wnQp_z    =    1079957225;
+
     k8KY    =    -1545888043;
     sFUGiBiQP1    =    -613101987;
 

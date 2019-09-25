@@ -123,7 +123,7 @@ int main() {
 	long double	sVT30GLCsA;
 
 	unsigned short int	JfW3tIcat6;
-	JfW3tIcat6	=	-1263281423;
+
     long    G7gZGoG9;
 
 	float	qPQhpn;

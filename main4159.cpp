@@ -78,7 +78,7 @@ int main(void) {
  char JZ6a;
 
   double  u1P84b;
-  u1P84b  =  647403669;
+
  long tAh7sv;
 
  unsigned char jNqrxL8L;
@@ -106,7 +106,7 @@ int main(void) {
  int r6Ohup6;
 
  unsigned long ze8Vh7ucHA;
- ze8Vh7ucHA = 1883947585;
+
     char    ZlQ01m4Fn;
 
   unsigned long long  O509N9Pv;

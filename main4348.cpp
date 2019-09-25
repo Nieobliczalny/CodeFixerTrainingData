@@ -67,7 +67,7 @@ int main(void)
     unsigned short int    It32qQ25tY;
 
  unsigned char q2c6eo_;
- q2c6eo_ = -1678164373;
+
 	unsigned short	i9K5;
 	i9K5	=	2014196788;
   unsigned long  Fy2yb;

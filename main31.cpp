@@ -54,7 +54,7 @@ int main(int argc, char** argv) {
 
 
 
-    JP3r    =    630356908;
+
     I9NwizrR9V    =    1104587841;
     O90tyj_    =    423816914;
 
@@ -64,7 +64,7 @@ int main(int argc, char** argv) {
 
     n2AY5o38    =    302605211;
 
-    j53M8    =    -1759531491;
+
     tCpzC    =    2017203028;
     wP5k8pBV    =    -971743208;
 
@@ -75,7 +75,7 @@ int main(int argc, char** argv) {
 
 
 
-    qzdqmop    =    1664946065;
+
     OX3Ro    =    705813726;
     qOlX    =    2028513454;
 

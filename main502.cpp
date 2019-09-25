@@ -18,7 +18,7 @@ int main(int argc, char** argv) {
 
 
 
-	k4yu0nH	=	-679366089;
+
 	G2PQNf5	=	435500941;
 	YNl70	=	540474472;
 

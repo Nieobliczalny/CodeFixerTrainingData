@@ -29,7 +29,7 @@ int main(void) {
     int    V501YT;
 
     unsigned long long    st2N05C;
-    st2N05C    =    -1428815703;
+
     short    kvYc9X;
 
 	int	N5KM8J;
@@ -79,7 +79,7 @@ int main(void) {
   unsigned short  uZKHO;
 
   char  oO_00ho1Q;
-  oO_00ho1Q  =  27099373;
+
     unsigned long long    HauJWZTp;
 
     char    A1tR3_Z;

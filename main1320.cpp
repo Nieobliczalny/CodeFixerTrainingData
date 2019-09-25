@@ -276,7 +276,7 @@ try
 switch (BD3WGL)
 {
 case 0:
-y903XHQb7 = (int)ceil(TE1O);
+
 break;
 case 1:
 GwQ9OV9 = k_n2dU_y(a047) % 726222274;

@@ -84,7 +84,7 @@ break;
 }
 }
 HP0L_AR8 = (int)ceil(QqbPABk7r);
-V90J = (int)ceil(HP0L_AR8);
+
 
 LNuhdn += oixM8D;
 
@@ -203,7 +203,7 @@ I7Vq = S6BF & 1409855670;
 
 
 
-LNuhdn = Pc7931 ^ 1944562945;
+
 
 {
 int i = 7;

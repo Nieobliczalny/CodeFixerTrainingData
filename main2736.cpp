@@ -34,7 +34,7 @@ int main(int argc, char** argv)
 
     Psv5R_J69b    =    821237996;
 
-    KkaG1P    =    81515723;
+
     lND__f_k    =    -1951011674;
     Ore8g4M3    =    449891915;
     h5q1    =    2065265704;
@@ -57,7 +57,7 @@ int main(int argc, char** argv)
 
     Ov4VJF    =    1912649805;
 
-    Bo6k4d    =    1798020144;
+
 
     lt4DNe1d    =    -633253529;
 

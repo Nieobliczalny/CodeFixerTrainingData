@@ -69,7 +69,7 @@ I4yTRKHA53 = unqGf();
 break;
 case 'd':
 case 'D':
-Us0n3RCG3P = dwoK(-1997908421, PNBgCE4137, -1359614219, mC69M, QREb2);
+
 break;
 case 'e':
 case 'E':

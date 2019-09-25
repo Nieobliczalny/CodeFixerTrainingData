@@ -158,7 +158,7 @@ tCH3c_8CzG = Pi0k + 414123194;
 }
 else if ((c0cir4 > -593722669) || (KpvCRo9AX & sl84O6m_U1))
 {
-Qv0E5r7oH = sXt7kcr88D << 583943365;
+
 }
 else if (((IChzh1SgtA >= II_hO) && (z46X0aOP >= sl84O6m_U1)) || (I352cSe5 == 27363067))
 {
@@ -225,7 +225,7 @@ else if (c0cir4 == GTCwh)
 }
 else if (pulJ == Lec3)
 {
-Qv0E5r7oH = (int)ceil(gE9U);
+
 }
 else
 {

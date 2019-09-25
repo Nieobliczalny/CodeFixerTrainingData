@@ -33,7 +33,7 @@ int main() {
   long double  UY81U5L6;
 
   unsigned short  y9_I;
-  y9_I  =  1862959574;
+
  short int NNn1fR2196;
  NNn1fR2196 = 1573289387;
 	char	mjoh29Y_;

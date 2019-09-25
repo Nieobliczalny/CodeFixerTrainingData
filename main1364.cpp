@@ -41,7 +41,7 @@ int main() {
   unsigned short  Q04p;
   Q04p  =  -1596170541;
     char    tTcNG0;
-    tTcNG0    =    -1668097541;
+
  long long QTHbVAHLVV;
 
  unsigned short int XI80c;
@@ -73,7 +73,7 @@ int main() {
 	unsigned short	IMYMVLpH;
 
 	unsigned short	l3b08_;
-	l3b08_	=	-262277772;
+
   unsigned long long  ms__LI84;
 
 	long	ERkI28IsV;

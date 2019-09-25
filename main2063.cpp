@@ -164,7 +164,7 @@ int main(void) {
   unsigned short  DqO7dK7gIq;
 
 	float	hu_D;
-	hu_D	=	-1068947362;
+
     float    qhWjJF22;
 
 

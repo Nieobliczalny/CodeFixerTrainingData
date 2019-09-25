@@ -27,7 +27,7 @@ int main()
  unsigned long long RAAV;
 
   unsigned long  O2SnLlQDYg;
-  O2SnLlQDYg  =  2012968417;
+
   unsigned char  I_JGean__q;
 
   short int  a38jvO9Q1m;
@@ -73,7 +73,7 @@ int main()
   int  spItpkeL;
 
   double  Px66h8UB;
-  Px66h8UB  =  450998361;
+
 	int	izp51rf9TP;
 
 	unsigned short int	gyw2FtK;
@@ -234,7 +234,7 @@ G6Mgsn = (int)ceil(zpJb);
 
 
 
-XLAy8_5x = Sd6KDqA(-413703666);
+
 if (CDAdVb7u <= JAn35)
 {
 

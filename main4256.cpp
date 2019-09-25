@@ -125,7 +125,7 @@ if (ajt2w7lu3Q & asdw13)
 {
 if (hs_56mkPW > GMcda)
 {
-f7N4YG = (ho4dxyISc > QAMJOf) ? 1379279566 : m718k();
+
 }
 }
 else

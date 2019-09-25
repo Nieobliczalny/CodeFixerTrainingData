@@ -68,7 +68,7 @@ int main(int argc, char** argv)
 
 
   F20je3  =  1620055656;
-  StTzK2mMM  =  -767300822;
+
   b25J  =  -291134030;
   SfE34nCNG  =  585393143;
   j5_2xHM  =  37993393;

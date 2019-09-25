@@ -35,7 +35,7 @@ int main(int argc, char** argv) {
 
 
 
-	cpmNqUeum	=	1225967786;
+
 	nGPv	=	1400766734;
 
 	DaWx8	=	155686508;

@@ -155,7 +155,7 @@ case 'c':
 wE7Ec = S4z7z57h4 / 720624074;
 break;
 default:
-q2LI150ILF = (int)ceil(Ygr08t_WB);
+
 break;
 }
 Z_RA0iT = (unsigned int)(eHZXXN);
@@ -214,7 +214,7 @@ if (((Cnw_v > AHeOIAZAYW) && (HcEvlm >= 415914984)) && (PH_bw4BI == 1499695923))
 }
 else
 {
-q2LI150ILF = (int)floor(wE7Ec);
+
 }
 }
 

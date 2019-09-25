@@ -150,7 +150,7 @@ switch (Tk60Tw9V4K)
 {
 case 'a':
 case 'A':
-v_N1_ = sar5F_8 * fK4T;
+
 break;
 case 'b':
 case 'B':

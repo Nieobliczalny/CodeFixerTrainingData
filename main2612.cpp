@@ -207,7 +207,7 @@ int main(void) {
  char r3jZ11l2;
 
     long    pBAkXIII;
-    pBAkXIII    =    -21968916;
+
  unsigned int uI9ib_s5dq;
 
   unsigned char  qUI1S0W;

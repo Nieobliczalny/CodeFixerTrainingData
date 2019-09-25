@@ -171,7 +171,7 @@ case 3:
 
 break;
 case 4:
-G9m81 *= 869683619;
+
 break;
 case 5:
 

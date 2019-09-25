@@ -88,7 +88,7 @@ int main(void) {
     LeRGWk0yL7    =    1487314349;
 
 
-    a4r_l7    =    1277881452;
+
     JuT82    =    1279786416;
     V2BEIt02u    =    1257311928;
     YdtSVti4    =    -732373440;
@@ -103,7 +103,7 @@ int main(void) {
 
 
     W_3Qui    =    353798425;
-    gw6c_Rdey    =    850524038;
+
     QOLOr29R    =    1438034065;
     QFtB8fT    =    334080120;
     vlNQ0_4b    =    1526743877;

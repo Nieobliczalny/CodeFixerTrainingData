@@ -101,7 +101,7 @@ int main()
     long    Kjm_;
     Kjm_    =    234406449;
  float U293Him8;
- U293Him8 = -1997760715;
+
     short    Z8w1zCG;
 
 	unsigned long	w3TJ0eK;

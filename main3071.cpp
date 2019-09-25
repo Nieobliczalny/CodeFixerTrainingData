@@ -54,7 +54,7 @@ int main(int argc, char** argv)
   GrLK  =  358747895;
   a_39G56Gv  =  9486360;
   jZ8vb  =  2019309086;
-  Sje4b_5  =  -33941217;
+
 
   THUqUQ  =  364921204;
 
@@ -95,7 +95,7 @@ case 'd':
 v4Ex10zGO5 = dZ96xcr8Z & 1818651016;
 break;
 case 'e':
-frp9pHmA *= EojyvNK_13;
+
 break;
 case 'f':
 jZ8vb = fjRH0xv() + 1844996170;

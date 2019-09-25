@@ -32,7 +32,7 @@ int main(void)
 	short	m9z079;
 
   long long  Vv894Yl;
-  Vv894Yl  =  292432762;
+
 	unsigned char	CV8TVd3L;
 
     float    K7g2D1;
@@ -78,7 +78,7 @@ int main(void)
   unsigned long  V96N7b4;
 
  long long qCa95djK2N;
- qCa95djK2N = 0;
+
   short  ZF7j__;
   ZF7j__  =  -1462093040;
  unsigned short int r31A0Ba_fJ;

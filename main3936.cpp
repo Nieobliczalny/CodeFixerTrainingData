@@ -50,7 +50,7 @@ int main() {
     r_z8    =    -2039247236;
     l8b0    =    441463691;
     yZkk7CSk    =    -1639479218;
-    Td1zgc4Y17    =    2033377057;
+
     nwRCae2    =    600707481;
 
     r8ys5Fr    =    1748203540;
@@ -239,7 +239,7 @@ case 6:
 
 break;
 default:
-hwzhjH5a_ /= yZkk7CSk;
+
 break;
 }
 }

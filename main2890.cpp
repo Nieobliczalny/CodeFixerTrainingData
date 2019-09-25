@@ -42,7 +42,7 @@ int main(int argc, char** argv) {
 	ai31i7	=	-1223994992;
 	Ggt9eUkh	=	1886235450;
 
-	EiX2wcUN	=	1067771894;
+
 	q1So5	=	832378565;
 	d02q4	=	1480068625;
 	XGug4	=	1232897757;
@@ -163,7 +163,7 @@ switch (nHES_98o)
 {
 case 'a':
 case 'A':
-CgCj <<= CpghEPsi;
+
 break;
 case 'b':
 case 'B':

@@ -40,7 +40,7 @@ int main(void)
 	hkD305AfFY	=	1679753931;
 	qnkI4V531	=	1149641484;
 
-	UR049TyiT4	=	-933606925;
+
 
 	ESaB7m0	=	-775433388;
 
@@ -51,7 +51,7 @@ int main(void)
 
 	fu2EurrEO	=	1488524001;
 
-	Cm_8J	=	223074537;
+
 
 	TbbpQxA	=	-1070605092;
 	JrwqK	=	-980382530;

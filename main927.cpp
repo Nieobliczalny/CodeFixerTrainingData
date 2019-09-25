@@ -50,7 +50,7 @@ int main(void) {
 	unsigned char	oZ2uftJ;
 	oZ2uftJ	=	1329385274;
     unsigned short    h5ngO8;
-    h5ngO8    =    -976857084;
+
  unsigned long Vou09;
 
  long double b5Co8XzP5a;
@@ -265,7 +265,7 @@ case 1:
 
 break;
 case 2:
-h5ngO8 = Kd_Kfc_0b >> 275973362;
+
 break;
 case 3:
 

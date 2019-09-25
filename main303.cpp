@@ -79,7 +79,7 @@ case 5:
 
 break;
 case 6:
-VaeZ13 = (int)abs(G61Zc772) * 0;
+
 break;
 case 7:
 j41lR6q5++;

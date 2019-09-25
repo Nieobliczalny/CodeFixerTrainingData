@@ -49,7 +49,7 @@ int main(void) {
  unsigned short IrzAVp;
 
   char  x5qx9;
-  x5qx9  =  -1755761069;
+
  char VpDJu;
 
 	unsigned short	rskHGh;
@@ -173,7 +173,7 @@ int main(void) {
 	double	RLx5;
 
  double I_4f9;
- I_4f9 = -1115057772;
+
  unsigned char w9Niid7JZ_;
  w9Niid7JZ_ = 0;
 	char	qGp_;
@@ -226,7 +226,7 @@ ZXCBu3 = xkdHFg();
 switch (Qr_16U)
 {
 case 0:
-x5qx9 = V3fD_ / uu05OrJ52c;
+
 break;
 case 1:
 lnrcZK9 = W4zWM(1330553961, -1924664630, 713204074, -180619693);

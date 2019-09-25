@@ -217,7 +217,7 @@ ZS18WQxd97 ^= F9jzs;
 break;
 case 'f':
 case 'F':
-GfBpGjJ = (int)ceil(Y9U4Eg6B);
+
 break;
 case 'g':
 case 'G':

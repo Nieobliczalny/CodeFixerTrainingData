@@ -179,7 +179,7 @@ case 5:
 
 break;
 case 6:
-L5B1WpOo = (int)abs(t8sb7G);
+
 break;
 case 7:
 

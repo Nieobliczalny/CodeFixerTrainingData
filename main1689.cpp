@@ -124,7 +124,7 @@ i++;
 }
 }
 
-T779 = (unsigned char)(xYiQWBHBig);
+
 for (int i = 0; i < 10; ++i)
 {
 std::cout << "D1Y78f8" << ElVw_TTC0F << GFlK8() << RwXMV(1575127699) << std::endl;

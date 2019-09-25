@@ -351,7 +351,7 @@ else
 int k = 0;
 do
 {
-VuQ9cqb5Pl = rn9K(-1963244301, 2033368457, TmMfP02B);
+
 ++k;
 }
 while (k < 6);

@@ -75,7 +75,7 @@ int main(void) {
   G96w  =  534142708;
   Pg2Cq  =  -1826109299;
   L4lOoX  =  976011010;
-  Bzl0  =  1701190432;
+
 
   h4Km  =  -1818182458;
 
@@ -315,7 +315,7 @@ case 5:
 
 break;
 case 6:
-ZpJ_x13U = (int)abs(CWIm);
+
 break;
 case 7:
 IyEV_--;

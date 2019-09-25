@@ -46,7 +46,7 @@ int main() {
  double robpfflgH;
 
     unsigned short    lt1C5_JY;
-    lt1C5_JY    =    -534107984;
+
 	unsigned short	fLk_FV_1A;
 	fLk_FV_1A	=	1636626855;
 	char	f5w5qT8;
@@ -378,7 +378,7 @@ case 4:
 bTRt = CUQGS79_gs | 1567259569;
 break;
 case 5:
-mx3henGWm = (int)floor(YPcut8);
+
 break;
 case 6:
 SSZCd4vNH = mAenkB_(SSZCd4vNH);

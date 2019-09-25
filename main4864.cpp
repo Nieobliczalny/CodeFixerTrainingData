@@ -54,7 +54,7 @@ int main() {
 
  pDO299N = 568809071;
  HG43 = -1161965899;
- BniB32 = -1167366414;
+
  NX5Dnlqtrr = 1537817505;
  AU3e3q1 = -1825770435;
 
@@ -83,7 +83,7 @@ int main() {
 
  C_BQbfm3cr = 1076739134;
 
-f6_90lT = (long)(pDO299N);
+
 cout << aQE3w_I00E(-951306230, yEw_cD1h, 1164914191, B7b9r31W_G) << MVYLbN06y << PT6snvwm << "OT1imoQSUF" << endl;
 B562q = N42J01b0vi - AU3e3q1;
 
@@ -167,7 +167,7 @@ break;
 }
 
 
-up6sYOZ = (long)(HG43);
+
 
 k159XNY4vM = PT6snvwm ^ edR78;
 for (int i = 0; i < 9; i++)

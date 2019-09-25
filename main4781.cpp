@@ -42,7 +42,7 @@ int main(int argc, char** argv)
   B9R8Yf0Z_b  =  -2056115701;
 
   pN5Q790SwY  =  -987827116;
-  henJ4nGTCu  =  640460397;
+
   Nis0  =  600659094;
   aqk86wV_l3  =  -1102934427;
 
@@ -97,7 +97,7 @@ int main(int argc, char** argv)
   VZTPJ8NKEo  =  67069779;
 
 
-  zTjc  =  -514645015;
+
   ka9iq82Wj  =  -410612349;
   WqclC_0f0  =  -2060650935;
 

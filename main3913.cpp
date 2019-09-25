@@ -34,7 +34,7 @@ int main() {
   int  mIP4jo2;
   mIP4jo2  =  -449282463;
 	double	aai28q1M_;
-	aai28q1M_	=	-103676186;
+
 	long	f73b;
 	f73b	=	2112047652;
 	unsigned int	K951px93;

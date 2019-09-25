@@ -27,7 +27,7 @@ int main(void)
 
 
 
-  xpY6O4  =  499471391;
+
   Vrtx  =  2012616273;
   CI_GwFb8pR  =  1813658481;
   Xr4_YDvz5  =  -931922566;
@@ -37,7 +37,7 @@ int main(void)
 
 
 
-  VKPK  =  -2095671083;
+
   NPWM34C  =  1745678606;
   RbZE9A  =  -1734980017;
   AKs3uBfS  =  116709668;
@@ -49,7 +49,7 @@ int main(void)
 
 
 
-  ZWR_w07LN  =  440368424;
+
   RV8O  =  404624777;
   X340Y  =  598489113;
   j7e90gGuD  =  2082234791;
@@ -59,7 +59,7 @@ int main(void)
 
 
 
-  qQ7V9  =  2011209207;
+
   CE50Q_Tp7  =  1724378228;
   E80R9wH7lR  =  338530999;
   OUXlkB8  =  629522753;
@@ -71,7 +71,7 @@ int main(void)
 
 
 
-Vrtx = RV8O / U3g5();
+
 
 switch (Jw1t_RMgxc)
 {

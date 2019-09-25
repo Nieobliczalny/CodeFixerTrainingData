@@ -22,7 +22,7 @@ unsigned long long  M_gn5X();
 
 int main(int argc, char** argv) {
     unsigned short    e9X09;
-    e9X09    =    1062211751;
+
 	long long	iKGi_LF6uK;
 
 	long double	x532MXaC;

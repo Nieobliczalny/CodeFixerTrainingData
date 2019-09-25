@@ -60,7 +60,7 @@ int main()
     double    zt1QC6D;
     zt1QC6D    =    -1861333955;
  float Cu6SxbN9v;
- Cu6SxbN9v = 397468100;
+
 	char	kY0WtP1IQ;
 	kY0WtP1IQ	=	-1059960383;
  short int kKyjssMsHm;

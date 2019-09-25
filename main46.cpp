@@ -78,7 +78,7 @@ case 'd':
 Y2_0lLD = (int)floor(XAtuX2bt_);
 break;
 case 'e':
-pn8x14 = (int)abs(v6erR);
+
 break;
 case 'f':
 

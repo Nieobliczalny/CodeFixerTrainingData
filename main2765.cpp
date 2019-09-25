@@ -31,7 +31,7 @@ int main(int argc, char** argv)
   unsigned short  tI4NGTN7;
   tI4NGTN7  =  1031167900;
 	double	T4JGLopz;
-	T4JGLopz	=	389231670;
+
   short int  M0_O;
   M0_O  =  2016210541;
   long double  J68O_89n;
@@ -425,7 +425,7 @@ while (i >= 0)
 {
 if (M6W_ == ChLIr6Xbvx)
 {
-T4JGLopz = (int)floor(Ta4A);
+
 }
 else
 {

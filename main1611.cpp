@@ -166,7 +166,7 @@ int main(void) {
     long double    U5O2;
 
 	unsigned int	urczg6;
-	urczg6	=	1730416463;
+
 	unsigned long long	j1W_A5;
 
  unsigned short int rKbf1G6H;

@@ -91,7 +91,7 @@ int main(void)
     short    XhIyM7_;
 
  char gaj9X7Ou6;
- gaj9X7Ou6 = 1279471494;
+
     unsigned short int    iJ6Fjc9g;
     iJ6Fjc9g    =    160679196;
     unsigned short int    N9rbx3;
@@ -252,7 +252,7 @@ case 0:
 
 break;
 default:
-bFzU7j6 = (int)ceil(YG__dH4J9);
+
 break;
 }
 }

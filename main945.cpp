@@ -67,7 +67,7 @@ int main(void)
 
   Da9f1  =  1791466799;
 
-  Kk_9EF  =  -1286018988;
+
   k1MGQv8Cip  =  -1586566930;
   VNxjAx  =  901318336;
   hd9vUm_f  =  572671465;
@@ -102,7 +102,7 @@ int main(void)
 
 
 
-  PxO9Un0  =  -171048830;
+
   g10Q9  =  -1199855203;
     short int    hslv_M,    JYDW6f_;
     hslv_M    =    0;

@@ -96,7 +96,7 @@ int main(void) {
     float    b_P48pXE6;
 
     char    o9u3soghGF;
-    o9u3soghGF    =    1516647230;
+
 	double	VF332B;
 	VF332B	=	-833633394;
 	int	ICT_upC9W5;

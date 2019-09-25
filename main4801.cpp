@@ -62,7 +62,7 @@ while (j >= 0);
 }
 }
 
-F6HkcVFWR = (unsigned int)(H6sV3);
+
 std::cout << GQC4w9ep(-1746174982, OR84sHb8F_, q11J, 1177329891) << std::endl;
 
 switch (V2_x)

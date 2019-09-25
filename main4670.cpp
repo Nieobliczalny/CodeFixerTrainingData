@@ -156,7 +156,7 @@ std::cout << BjaEuEt01(nYzEpWa08V, x25svVj, -116016054, Evxs_7b, JxRy7nif5) << s
 }
 else if (Eg1RZb6 > 545722770)
 {
-HDz3Ap7y = (int)ceil(nALHMx9);
+
 }
 else
 {
@@ -335,7 +335,7 @@ case 2:
 
 break;
 case 3:
-HDz3Ap7y = (int)ceil(baDU5K6O);
+
 break;
 case 4:
 

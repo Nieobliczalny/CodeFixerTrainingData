@@ -27,7 +27,7 @@ long long    yxtf(unsigned short    N_19T6p2u,unsigned short int    bIEbSdX,unsi
 int main(int argc, char** argv)
 {
 	unsigned char	lM4AfT6g5;
-	lM4AfT6g5	=	1808340831;
+
 	unsigned char	k2y_;
 
   short  C38f33sNs;
@@ -93,7 +93,7 @@ int main(int argc, char** argv)
   char  IMH7pTj0;
 
     unsigned short    U01Xrvs;
-    U01Xrvs    =    776622411;
+
  unsigned short int dqcTY38;
  dqcTY38 = 165181677;
 	unsigned short int	wB89g;

@@ -76,7 +76,7 @@ int main()
  double Z44on7GF;
 
  long double H7O6V4;
- H7O6V4 = 903018387;
+
     float    kvntA;
 
 	long	S4M133ki7;
@@ -140,7 +140,7 @@ int main()
     unsigned short int    XRfJ;
 
 	short int	B_532_g9K;
-	B_532_g9K	=	1884722181;
+
  double LET1_l;
 
 	short int	h8mw2TW;

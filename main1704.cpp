@@ -33,7 +33,7 @@ int main()
 	short	Pf4P09L;
 	Pf4P09L	=	534441468;
  float Z4M5_Y_b3;
- Z4M5_Y_b3 = 856227233;
+
 	short	UBUu5j43z;
 
   short int  rFtyVmH_5;

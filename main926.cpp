@@ -180,7 +180,7 @@ std::cout << elS_(GeTsmic, -1060823732, -993551210, kr6zdT4Pn, 778224569) << PB4
 
 
 
-qA87o_Ccj = (int)ceil(Bf_Jc_6Px0);
+
 return 0;
 }
 

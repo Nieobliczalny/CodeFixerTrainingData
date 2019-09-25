@@ -92,7 +92,7 @@ int main()
  long double LD9Q;
 
  unsigned char YKLl;
- YKLl = -1126701043;
+
  unsigned int AA56T_kzU;
 
  long R5JoysH;

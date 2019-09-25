@@ -83,7 +83,7 @@ int main(int argc, char** argv) {
 
 
 
- ntzR_MjE = 219179910;
+
  fRdRAYQ = -534718241;
  gy8OR = 765942778;
  TE59WFf = -924677983;
@@ -119,7 +119,7 @@ int main(int argc, char** argv) {
 
  sv461 = -1904472369;
  ZW7306SCW = 1387442348;
- MlziG4 = 1976983406;
+
 
 s9Igs40 = (unsigned short int)(cDi9);
 if (lVeNWGm == vitv)

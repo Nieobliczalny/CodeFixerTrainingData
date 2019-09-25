@@ -18,7 +18,7 @@ int main(int argc, char** argv) {
 
 
 
-	s0w8ek1	=	2140161239;
+
 	h_vMstxB0s	=	-52565915;
 
 	c06t	=	-1540377263;
@@ -50,7 +50,7 @@ int main(int argc, char** argv) {
     unsigned short    sP8ZN,    KAys,    bEir6t;
     sP8ZN    =    0;
 
-    bEir6t    =    0;
+
 
 for (int i = 0; i < 3; ++i)
 {

@@ -45,7 +45,7 @@ try
 {
 try
 {
-BFXT3 = (unsigned char)(A_m4e7GzQg + (853475415));
+
 }
 catch (int& errorCode)
 {

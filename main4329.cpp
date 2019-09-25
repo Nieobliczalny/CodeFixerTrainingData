@@ -102,7 +102,7 @@ int main(void) {
   double  yX63I8;
 
  double gNLg;
- gNLg = 1337942795;
+
   short  Ole2Om04_C;
 
 	unsigned char	kx_Qf4g;

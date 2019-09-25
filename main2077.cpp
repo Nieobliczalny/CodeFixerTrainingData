@@ -35,7 +35,7 @@ int main(int argc, char** argv) {
     int    M3ezi5d;
     M3ezi5d    =    638951706;
   long long  nRT9579CF;
-  nRT9579CF  =  109302237;
+
   short  n8Qf;
 
 	unsigned int	xa32qoC;
@@ -109,7 +109,7 @@ int main(int argc, char** argv) {
  long long Af5ST;
 
   float  ul3Ee_7Y4;
-  ul3Ee_7Y4  =  2016852230;
+
     float    uVeK;
     uVeK    =    -745657078;
 	float	yD76wy_07a;

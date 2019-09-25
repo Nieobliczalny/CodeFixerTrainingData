@@ -49,7 +49,7 @@ case 5:
 
 break;
 case 6:
-vS0MgeVu2 |= 2145535434;
+
 break;
 case 7:
 

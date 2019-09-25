@@ -26,7 +26,7 @@ int main(int argc, char** argv) {
 
 
 
-    we56949U    =    2070394181;
+
     Brw2S6I3zZ    =    -1270579639;
     A6sYZWZ0wS    =    -1356255447;
     Poq_    =    1659864399;
@@ -37,7 +37,7 @@ int main(int argc, char** argv) {
 
 
 
-    R6D2IE2c    =    -2131123699;
+
     KkrDT5V    =    1795384248;
     STACVg3o    =    -1175082911;
 
@@ -47,7 +47,7 @@ int main(int argc, char** argv) {
 
 
 
-    h4a61WR8    =    -1784512930;
+
     y3nA84f    =    960536631;
     fWW323A    =    -786246614;
 
@@ -59,7 +59,7 @@ int main(int argc, char** argv) {
 
     long    fco78DU,    MSN64Fv1;
 
-    MSN64Fv1    =    0;
+
 
 {
 int i = 6;

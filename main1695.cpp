@@ -54,7 +54,7 @@ int main(void)
  unsigned long PW7dAc3t, QJLDXWXn, D6ZUx;
 
  QJLDXWXn = 0;
- D6ZUx = 0;
+
 
 if (zJ23Euu6iM != KF6l)
 {

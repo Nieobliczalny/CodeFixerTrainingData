@@ -33,7 +33,7 @@ int main(int argc, char** argv)
 
 
 
-  k3r0FL  =  255003695;
+
   cbf8F2_  =  -912174961;
   z_7v0L  =  2073226994;
 
@@ -53,7 +53,7 @@ int main(int argc, char** argv)
 
 
 
-  iN8Agdi4O  =  370123562;
+
   OmRPE196a7  =  -518341666;
 
   H48n0lCc  =  -1533424406;
@@ -67,7 +67,7 @@ int main(int argc, char** argv)
 
 
   TRRv2Vys2  =  908843534;
-  ZC049f  =  -906982296;
+
 
 
 

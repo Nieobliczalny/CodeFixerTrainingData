@@ -44,7 +44,7 @@ int main() {
 	long	IsUu_6k3;
 
     unsigned short int    WMsq;
-    WMsq    =    -1879680844;
+
 	int	G3yg_;
 
 	char	VHS1dxi1L;
@@ -106,7 +106,7 @@ int main() {
   long double  yWz9_;
   yWz9_  =  -1443180491;
 	double	NJOc3DJ;
-	NJOc3DJ	=	462291905;
+
   long  Qgk8;
   Qgk8  =  -906863276;
     short int    cE3UH;
@@ -232,7 +232,7 @@ case 'E':
 break;
 case 'f':
 case 'F':
-mY56N = (int)ceil(SDS1P9G7);
+
 break;
 default:
 

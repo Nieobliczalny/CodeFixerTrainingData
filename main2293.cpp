@@ -151,7 +151,7 @@ uGLL30bY28 = (int)abs(i747JcJ7) * 0;
 }
 else if (Qsk80Z == I_ftGYi_p)
 {
-P15hQ = (int)floor(SGom2jYG);
+
 }
 else
 {

@@ -596,7 +596,7 @@ case 'A':
 break;
 case 'b':
 case 'B':
-n1bg6627 -= 72477126;
+
 break;
 case 'c':
 case 'C':

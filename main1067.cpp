@@ -56,7 +56,7 @@ int main(void) {
 
 	lw3mQS	=	-368646700;
 
-	nvRe7vSzj	=	247380341;
+
 
 
 	k21zp6	=	-816528325;
@@ -78,7 +78,7 @@ int main(void) {
 
 
 
-Bxe9dq = o4haXKFCT / Qt9_9;
+
 switch (EmcH)
 {
 case 'a':
