@@ -57,7 +57,7 @@ int main(int argc, char** argv)
 
 
 	c9c4	=	161673355;
-	npM27	=	1723804303;
+
 
 	b57GkaSpd	=	912810744;
 	s7UXSfOo	=	963665908;

@@ -174,7 +174,7 @@ int main(int argc, char** argv)
  unsigned int yc641Bv4;
  yc641Bv4 = 993990447;
   double  BV8od2_M;
-  BV8od2_M  =  677233135;
+
     unsigned short int    l34mvj1d4E;
     l34mvj1d4E    =    -1415941604;
 	long double	vb_22K;

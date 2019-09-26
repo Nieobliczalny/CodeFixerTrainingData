@@ -43,7 +43,7 @@ int main()
 
 
 
-  Xx87_4gd  =  147188826;
+
   EmvyS  =  1135630110;
 
 
@@ -57,7 +57,7 @@ int main()
 
 
 
-  ju79b  =  -1702926698;
+
   b49l8r  =  -2050099192;
 
 
@@ -67,7 +67,7 @@ int main()
 
 
 
-  gX9m  =  1307062679;
+
   Z3C9y  =  1510403564;
 
 
@@ -82,7 +82,7 @@ int main()
 
 
     int    EMXFauX6,    m364k43,    i6j7JDDpB;
-    EMXFauX6    =    0;
+
 
     i6j7JDDpB    =    0;
 

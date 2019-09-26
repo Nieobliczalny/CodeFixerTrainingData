@@ -67,7 +67,7 @@ int main(int argc, char** argv)
 
 
 
-    N3Ix0    =    1408247926;
+
     LeD2FM4DGK    =    1407493508;
     kTJM4    =    -258206341;
 
@@ -91,7 +91,7 @@ int main(int argc, char** argv)
 
     Vm_m    =    -146947813;
 
-    R49qiqN3h    =    1569218590;
+
     Xf8P3    =    -221487711;
 
 
@@ -114,7 +114,7 @@ int main(int argc, char** argv)
 
 
 
-    OIwap    =    -1747072020;
+
     zG7O_zO    =    916513673;
 
 std::cout << feoBc() / Q4_dJtk9 << std::endl;

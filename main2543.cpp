@@ -38,7 +38,7 @@ int main() {
 	float	g612N;
 	g612N	=	-229347568;
     double    SDS1P9G7;
-    SDS1P9G7    =    -672261132;
+
  long long v6k2g;
 
 	long	IsUu_6k3;
@@ -170,7 +170,7 @@ else
 switch (o9YQL_1w)
 {
 case 'a':
-SDS1P9G7 = c7fOVb14();
+
 break;
 case 'b':
 SeSwmE2_g = Gav_32Mt9 << KD5Kf1;

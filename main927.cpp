@@ -78,7 +78,7 @@ int main(void) {
     unsigned short int    IKB_bD;
     IKB_bD    =    337267003;
   char  Kd_Kfc_0b;
-  Kd_Kfc_0b  =  1943438061;
+
   long long  w90gWzNC;
   w90gWzNC  =  1488351133;
     char    a78Kz;

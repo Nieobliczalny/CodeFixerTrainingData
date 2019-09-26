@@ -47,7 +47,7 @@ int main() {
  unsigned short int XI80c;
 
     unsigned short    C96A_8;
-    C96A_8    =    2107353109;
+
     long long    c5gc1G0;
 
   long  WZAtgVt0;

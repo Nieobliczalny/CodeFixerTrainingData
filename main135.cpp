@@ -30,7 +30,7 @@ int main(int argc, char** argv) {
 
 
 
-    i9a9    =    556916780;
+
 
     g7nWSba    =    -2126146209;
 
@@ -42,7 +42,7 @@ int main(int argc, char** argv) {
     MUSl5    =    2033858247;
 
 
-    L8A7    =    819645350;
+
     VpAobYHKQ    =    511694608;
     vcth    =    -18373298;
 
@@ -70,7 +70,7 @@ int main(int argc, char** argv) {
     sE021V01k    =    -530357114;
 
 
-    pHa2o    =    928948766;
+
     NpMgAC2    =    43390232;
 
 

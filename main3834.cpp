@@ -24,7 +24,7 @@ int main(void) {
 
 
 
-    u4IUNo22Vz    =    -584599898;
+
     kQX5gMDhx    =    -2070037573;
 
     fJtZ_    =    479100122;
@@ -46,7 +46,7 @@ int main(void) {
 
 
 
-    yvV0ohS1    =    -1724109759;
+
 
 
 {

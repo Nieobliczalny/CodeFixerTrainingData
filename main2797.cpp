@@ -37,7 +37,7 @@ int main(int argc, char** argv) {
 
 
 
-	I4WFMstlF5	=	2048398071;
+
 	D7jOcV_a	=	-1237772826;
 	sdh3140355	=	425567194;
 	KEH_Cmx	=	908973946;
@@ -60,7 +60,7 @@ int main(int argc, char** argv) {
 
 
 
-	Xw3WrZ7w	=	-827080800;
+
 
 
 

@@ -20,7 +20,7 @@ int main(int argc, char** argv)
 
 
 
-  aTxxRz69a1  =  715847737;
+
   YK4t  =  2067118247;
   AgyZQ78g45  =  -588635508;
 
@@ -67,7 +67,7 @@ int main(int argc, char** argv)
 
 
 
-  F80K6fcc  =  -1487872891;
+
   e_m3k  =  -2084905564;
   xm9RU19w27  =  216838003;
 
@@ -110,7 +110,7 @@ int main(int argc, char** argv)
 
 
 
-  Tm0cZh  =  1559933809;
+
   WZkaSBb6  =  -910872392;
 
 ra_hNXf1 = xm9RU19w27 ^ 179667294;

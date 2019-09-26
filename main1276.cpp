@@ -66,7 +66,7 @@ int main(int argc, char** argv) {
 
 
 
- A5i2O5 = 2129463964;
+
  N55Q2 = -832570550;
 
 
@@ -117,7 +117,7 @@ int main(int argc, char** argv) {
 
 
 
- TBP2M = 417578738;
+
  s228hVk = 579619148;
 
 

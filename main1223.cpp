@@ -85,7 +85,7 @@ int main(int argc, char** argv)
 
 
   Gq2_8V  =  -1663659107;
-  wHA0S6  =  587936202;
+
 
 
 

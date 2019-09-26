@@ -36,7 +36,7 @@ int main(int argc, char** argv) {
 
 
 
-	nGPv	=	1400766734;
+
 
 	DaWx8	=	155686508;
 

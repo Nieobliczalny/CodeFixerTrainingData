@@ -201,7 +201,7 @@ int main(int argc, char** argv)
  char g24b1Qg;
 
     long double    Ta4A;
-    Ta4A    =    -122232401;
+
   float  R_WF;
   R_WF  =  312742717;
  unsigned short Uokq8RT;
@@ -254,7 +254,7 @@ else if ((ltg7N__uS9 <= J68O_89n) || (p42x_ <= 2098146227))
 }
 else if ((J_VX_T55 != y8XNU7zEC5) || (Wm68YXt1 >= SdQgW30Be))
 {
-Ta4A = (int)ceil(nsJF);
+
 }
 else if (UTy9jz9hL3 != 537575042)
 {

@@ -21,7 +21,7 @@ int main(int argc, char** argv) {
 
 	h_vMstxB0s	=	-52565915;
 
-	c06t	=	-1540377263;
+
 
 
 	h3j2R	=	72021495;

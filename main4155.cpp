@@ -127,7 +127,7 @@ int main(void)
     int    EnAE_QOhb;
 
     double    YG__dH4J9;
-    YG__dH4J9    =    1182740575;
+
   unsigned short  Qy36o;
   Qy36o  =  -1008960032;
  unsigned long long O4P7f;

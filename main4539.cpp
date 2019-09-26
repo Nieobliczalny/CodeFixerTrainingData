@@ -127,7 +127,7 @@ int main()
  long long UE_84BdME;
 
  short int n8Nmrs;
- n8Nmrs = -286979403;
+
     unsigned short int    KY3TexZ0e4;
 
 	short	x2Rl45192;

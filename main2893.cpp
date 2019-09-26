@@ -53,7 +53,7 @@ int main(int argc, char** argv) {
 	pM4K4	=	386790607;
 
 
-	DbIc32	=	-1785475680;
+
 	Zs2t_Th	=	1185765769;
 	GX1v	=	787691304;
 
@@ -63,7 +63,7 @@ int main(int argc, char** argv) {
 
 
 
-	Y27j86X	=	-110121141;
+
 	JF8PP94_	=	-1023061650;
 	VdCQ_Iq	=	-274030233;
 

@@ -27,7 +27,7 @@ int main(void)
 
 
   l0403YpR  =  675013541;
-  KD2yZZPG5  =  -22458034;
+
   qvk_ITD  =  150736399;
   s87TAL07g  =  1506768288;
 
@@ -38,7 +38,7 @@ int main(void)
 
 
 
-  OeyL_zyr_  =  696604436;
+
   IFAE3L0XVi  =  624442893;
   u17FUS8Gz5  =  -229256035;
 

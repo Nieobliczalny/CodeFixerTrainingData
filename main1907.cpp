@@ -29,7 +29,7 @@ while (j >= 0)
 {
 if (H6Nd51 & JHU_P)
 {
-RQ76Mq = T94S(-823586187, 426613766, MaeT, XbTiTwdW2w, 1315149179);
+
 }
 j--;
 }

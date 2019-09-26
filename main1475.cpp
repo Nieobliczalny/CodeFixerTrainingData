@@ -42,7 +42,7 @@ int main(int argc, char** argv)
 
 
 
-	JXL76N9td	=	-1886767164;
+
 	LTQ54o	=	474661562;
 	k_L5_6	=	-1750118845;
 	sg79a	=	-888146005;
@@ -63,7 +63,7 @@ int main(int argc, char** argv)
 
 	saQe	=	143409148;
 
-	a57QHq2	=	-1789167162;
+
 
 
 

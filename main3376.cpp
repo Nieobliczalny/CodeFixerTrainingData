@@ -86,7 +86,7 @@ int main() {
 
 
 
-	qVfD	=	1609683781;
+
 	WL2q5LUI4	=	1668074887;
 
 
@@ -120,7 +120,7 @@ so_4y = (int)abs(uu_K5_mH);
 }
 else if ((dG29L9 & IC4P95ob) || (w50HWE == Oxbc))
 {
-dvo6tj <<= c3tHNe1;
+
 }
 else if (z_gu != Oxbc)
 {

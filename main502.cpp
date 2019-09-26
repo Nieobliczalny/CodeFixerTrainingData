@@ -19,7 +19,7 @@ int main(int argc, char** argv) {
 
 
 
-	G2PQNf5	=	435500941;
+
 	YNl70	=	540474472;
 
 	eSR2Pv2	=	-664845314;

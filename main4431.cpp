@@ -27,7 +27,7 @@ int main(int argc, char** argv)
 
 
 
-    z_Spa    =    107181583;
+
     Y0a0yNRGhz    =    -547866661;
 
 
@@ -37,7 +37,7 @@ int main(int argc, char** argv)
 
 
 
-    XIuJ35    =    2084138655;
+
     fhkVhC2g9e    =    163464350;
 
 
@@ -48,7 +48,7 @@ int main(int argc, char** argv)
 
 
   unsigned int  iKZ0s_I;
-  iKZ0s_I  =  0;
+
 
 {
 int i = 1;

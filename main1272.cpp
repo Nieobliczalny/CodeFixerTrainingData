@@ -29,7 +29,7 @@ int main(void)
 
 
 
-  QwL188G  =  1768992034;
+
 
   UjO_nVx_rq  =  721457332;
 
@@ -52,7 +52,7 @@ int main(void)
 
   K1h6z1B  =  667329724;
   Bx1AH  =  853257173;
-  otFV_V4  =  -239386191;
+
   FC0WR4ES  =  -107054026;
 
 
@@ -62,7 +62,7 @@ int main(void)
 
 
 
-  Pkce5j4  =  -1060483995;
+
   TmX9N  =  -1803225190;
 
   IP9067C  =  -2018033339;
@@ -83,7 +83,7 @@ int main(void)
 
  unsigned long wJC57cmr2, gANN4m, rF8p15DTX;
 
- gANN4m = 0;
+
  rF8p15DTX = 0;
 
 switch (IlAomHpS6)
