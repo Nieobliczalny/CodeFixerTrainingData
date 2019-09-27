@@ -31,7 +31,7 @@ int main(void)
 
 
 
-  UjO_nVx_rq  =  721457332;
+
 
   l4c6RuljO  =  148639120;
   B7rU6YbGQR  =  -1100261076;
@@ -63,7 +63,7 @@ int main(void)
 
 
 
-  TmX9N  =  -1803225190;
+
 
   IP9067C  =  -2018033339;
 

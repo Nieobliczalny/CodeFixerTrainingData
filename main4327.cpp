@@ -40,7 +40,7 @@ int main() {
 
 
 
-  AolyG  =  -397479606;
+
 
   d8fBU6LP  =  -2131787986;
 
@@ -59,7 +59,7 @@ int main() {
   U0VBT  =  1413814809;
 
 
-  J1Kk  =  421793634;
+
 
   I60P0i  =  846885557;
 
@@ -74,7 +74,7 @@ int main() {
 
 
   Sz51qKm  =  -2089703363;
-  spgB81qN26  =  -110334082;
+
 	unsigned short int	YN_J3,	Ivpg,	YPDBh2S4c7,	F4_I047,	L5vD5;
 
 

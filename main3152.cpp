@@ -48,7 +48,7 @@ int main()
 
     Y4zL1TvSY    =    1688119887;
     uJ2USUcpLz    =    -98072938;
-    gPkA1r_l3    =    1354621966;
+
 
     fsTPCM1    =    -1369175575;
 

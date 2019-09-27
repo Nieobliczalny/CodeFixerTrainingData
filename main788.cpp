@@ -30,7 +30,7 @@ int main(int argc, char** argv) {
 
 
 
-	t_hPr	=	1754585840;
+
 
 
 	frmZa3dw	=	1515807522;
@@ -72,7 +72,7 @@ int main(int argc, char** argv) {
 
 
 
-	JFQOz7T	=	-69040984;
+
 
 
 	TgA9	=	1597994104;

@@ -43,7 +43,7 @@ int main(int argc, char** argv)
 
 
 
-	LTQ54o	=	474661562;
+
 	k_L5_6	=	-1750118845;
 	sg79a	=	-888146005;
 
@@ -69,7 +69,7 @@ int main(int argc, char** argv)
 
 
 
-	k4aj_9AR	=	-1605392340;
+
 
 	V7Qr_	=	-1150833674;
 	GPmPjM	=	2014148267;

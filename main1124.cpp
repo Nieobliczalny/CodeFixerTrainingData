@@ -70,7 +70,7 @@ int main(void)
 
 
 
-	P8ngR2XW54	=	-1237764622;
+
 
 
 	lj_f0d_kPL	=	26230780;

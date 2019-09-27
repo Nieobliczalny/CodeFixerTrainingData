@@ -25,7 +25,7 @@ int main() {
 
 
   short int  j3fnc3,  K67cPz5Ia,  c_01CHw8;
-  j3fnc3  =  0;
+
 
 
 

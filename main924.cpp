@@ -23,7 +23,7 @@ int main(void)
 
 
 
-	yt4oHl	=	-630615281;
+
 
 
 	PyTHDH_c	=	-340303572;
@@ -45,7 +45,7 @@ int main(void)
 
 
 
-	B5568cOD5	=	-302957003;
+
 
 
 for (int i = 8; i >= 0; --i)

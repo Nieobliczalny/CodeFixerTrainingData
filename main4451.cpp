@@ -24,7 +24,7 @@ int main(int argc, char** argv) {
 
 
 
-	h3j2R	=	72021495;
+
 
 	JsVCMB	=	-931789804;
 	z0CA_VSPHc	=	247802204;

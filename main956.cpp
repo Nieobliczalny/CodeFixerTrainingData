@@ -47,7 +47,7 @@ int main(int argc, char** argv) {
 switch (Ox8g8al6)
 {
 case 0:
-p2hluss0K4 = (int)ceil(oOhsf);
+
 break;
 case 1:
 nh_k6u77v0 = Yhxe_F / 1729198322;
@@ -232,7 +232,7 @@ case 0:
 Q2Ht85c5bI = o4nv % 1533076664;
 break;
 case 1:
-p2hluss0K4 = j17pzj6O >> t4qs1W8;
+
 break;
 case 2:
 

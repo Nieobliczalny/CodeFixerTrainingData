@@ -75,7 +75,7 @@ int main() {
 	niT9hxH	=	277737359;
 	v3GozH21b_	=	-1362024384;
 	bd3wr2M	=	334920461;
-	dvo6tj	=	-2042463705;
+
 	so_4y	=	1109098378;
 
 
@@ -93,7 +93,7 @@ int main() {
 	O7Z411GiC	=	442041485;
 	AP9E7	=	1184445333;
     long long    aG3l0y_tZ,    F4P2Qmn48,    nL_unbhY;
-    aG3l0y_tZ    =    0;
+
     F4P2Qmn48    =    0;
 
 

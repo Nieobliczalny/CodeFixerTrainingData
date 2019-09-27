@@ -49,7 +49,7 @@ int main(int argc, char** argv)
 
 
 
-	JPKrMa	=	-1871590857;
+
 	wD11e5Fa2	=	181952767;
 	Rr1p_3U21	=	846751541;
 
@@ -61,7 +61,7 @@ int main(int argc, char** argv)
 
 	zvId	=	1259265217;
 
-	GILbQz0Q1	=	-1791190198;
+
 	esB70gUl	=	-612445802;
 	knCUW__	=	-744334818;
 	QB9F	=	-1428973777;
@@ -99,7 +99,7 @@ int main(int argc, char** argv)
 
 
   unsigned long  S6A9f,  R5R4yhdd,  TR4K1,  oIJ2_9,  O_wmr_001;
-  S6A9f  =  0;
+
   R5R4yhdd  =  0;
 
   oIJ2_9  =  0;

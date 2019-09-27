@@ -21,7 +21,7 @@ int main(int argc, char** argv)
 
 	PiQ_b	=	-1789632088;
 
-	PAEh	=	-976458408;
+
 
 	BF68	=	1910245896;
 
@@ -44,7 +44,7 @@ int main(int argc, char** argv)
 
 
 
-	PJwOrf	=	1529378989;
+
 
 	dLN69w04	=	-714883130;
 
@@ -54,7 +54,7 @@ int main(int argc, char** argv)
 
 
 
-	cyc9F	=	-662483197;
+
 
 	zTkxL_VOBL	=	-1949775378;
 

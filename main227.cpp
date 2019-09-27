@@ -49,7 +49,7 @@ int main(void)
 
 
 
-    dqovta    =    -1028009102;
+
 
 
     NqNr26TtvE    =    -2056176043;
@@ -81,7 +81,7 @@ int main(void)
 
 
 
-    ecFm    =    993264935;
+
     Q8trWu73iU    =    598283;
 
 

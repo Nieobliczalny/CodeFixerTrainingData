@@ -28,7 +28,7 @@ int main(void)
 
   l0403YpR  =  675013541;
 
-  qvk_ITD  =  150736399;
+
   s87TAL07g  =  1506768288;
 
   bxN8O  =  1588489675;
@@ -40,7 +40,7 @@ int main(void)
 
 
   IFAE3L0XVi  =  624442893;
-  u17FUS8Gz5  =  -229256035;
+
 
 
 

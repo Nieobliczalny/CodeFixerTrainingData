@@ -28,7 +28,7 @@ int main(int argc, char** argv)
 
 
 
-    Y0a0yNRGhz    =    -547866661;
+
 
 
 
@@ -38,7 +38,7 @@ int main(int argc, char** argv)
 
 
 
-    fhkVhC2g9e    =    163464350;
+
 
 
     ZPVu_73V3    =    1151541991;
