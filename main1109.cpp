@@ -29,7 +29,7 @@ int main(void)
 
 
 
-  SQY_  =  669391426;
+
 
 
 
@@ -58,7 +58,7 @@ int main(void)
   V3Go9b_oHR  =  1169325933;
 
 
-  Y02C  =  1760908758;
+
 
 
 

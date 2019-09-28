@@ -36,7 +36,7 @@ int main(void)
 
 
 
-  eodnwX  =  -140648317;
+
   vVjV6  =  990143055;
 
 
@@ -77,7 +77,7 @@ int main(void)
 
 
 
-  vfZUtq92  =  -1387291700;
+
   Y23mNddD  =  2046443613;
 
 

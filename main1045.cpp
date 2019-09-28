@@ -46,7 +46,6 @@ int main(int argc, char** argv)
 
 
 
-	dLN69w04	=	-714883130;
 
 
 
@@ -56,7 +55,8 @@ int main(int argc, char** argv)
 
 
 
-	zTkxL_VOBL	=	-1949775378;
+
+
 
 
 

@@ -33,7 +33,7 @@ int main(int argc, char** argv)
 
 
 
-    fcAL6__    =    849056831;
+
 
 
 

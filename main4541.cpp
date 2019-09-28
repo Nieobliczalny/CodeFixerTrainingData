@@ -102,7 +102,7 @@ int main(int argc, char** argv) {
 
 
 
-	DDy_j	=	-1074374160;
+
 	ZRYIpJuA	=	182805315;
 	cm_y2ERg	=	1140353300;
 

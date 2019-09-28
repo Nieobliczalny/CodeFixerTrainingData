@@ -56,7 +56,7 @@ int main(int argc, char** argv)
 	lyOCC2_Y	=	-984186928;
 
 
-	b9DbyGc16z	=	-35242612;
+
 	F_FO	=	-1422678562;
 	B6204on	=	-1831476053;
 	AqoMV_	=	1180354516;

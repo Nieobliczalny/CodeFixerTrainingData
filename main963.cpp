@@ -29,7 +29,6 @@ int main(int argc, char** argv)
 
 
 
-  KKEQJIVWQ  =  992911890;
 
 
 
@@ -39,7 +38,8 @@ int main(int argc, char** argv)
 
 
 
-  P3xOM7O5H  =  1092885449;
+
+
   yMj13rGyG1  =  1180981923;
 
   O13hO  =  1514232768;

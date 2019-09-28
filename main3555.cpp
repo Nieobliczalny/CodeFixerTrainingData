@@ -68,7 +68,7 @@ int main(int argc, char** argv)
 
 
 
- NFtI = 1244469901;
+
 
 
 

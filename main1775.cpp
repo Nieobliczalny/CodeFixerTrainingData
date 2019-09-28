@@ -22,7 +22,7 @@ int main(int argc, char** argv)
 
 
     Dr56lLc1    =    -1569831022;
-    Xxs7zv1Bi    =    2018144770;
+
 
 
 
@@ -78,7 +78,7 @@ int main(int argc, char** argv)
 
     D5BZl    =    -1204483348;
     hyzSTa    =    -1846797543;
-    OFvSgviA1    =    -2089289656;
+
 
     D575iaTe    =    -242147616;
 

@@ -49,7 +49,6 @@ int main(void)
 
 
 
-	P4V_WM	=	2127720147;
 
 
 
@@ -59,7 +58,8 @@ int main(void)
 
 
 
-	c6el	=	-1603307137;
+
+
 
 
 
@@ -75,7 +75,7 @@ int main(void)
 
 
 
-	XqL9u	=	1873402484;
+
 
 
 

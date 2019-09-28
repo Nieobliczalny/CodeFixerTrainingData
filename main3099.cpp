@@ -21,7 +21,6 @@ int main(void) {
 
 
 
-	PL04	=	-241405842;
 
 
 
@@ -31,7 +30,8 @@ int main(void) {
 
 
 
-	cM8oz1q25	=	631773432;
+
+
 
 
 
@@ -53,7 +53,7 @@ int main(void) {
 
 
 
-	afl_	=	1443230201;
+
 
 	unsigned short	J08Xy,	lkw1oK3U8_,	wa86f;
 

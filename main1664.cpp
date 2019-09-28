@@ -31,7 +31,6 @@ int main(int argc, char** argv)
 
 
 
-  C2OgRB4D  =  1454965059;
 
 
 
@@ -41,7 +40,8 @@ int main(int argc, char** argv)
 
 
 
-  H_fp2_  =  -1492458004;
+
+
 
 
 

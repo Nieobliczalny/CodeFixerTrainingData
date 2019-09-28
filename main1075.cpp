@@ -144,7 +144,7 @@ int main() {
  unsigned int qgtUm6;
  qgtUm6 = 1967914325;
  float mx3henGWm;
- mx3henGWm = -2114820229;
+
 	char	jxEEIT;
 	jxEEIT	=	-853925409;
   unsigned long long  emXHOjN;
@@ -184,7 +184,7 @@ case 4:
 nN1ksH = (int)ceil(H8yp);
 break;
 case 5:
-mx3henGWm = (int)floor(wHDF6U1);
+
 break;
 case 6:
 drlDud_2f = (int)floor(kT2Xd4);

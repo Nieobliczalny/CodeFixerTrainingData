@@ -71,7 +71,7 @@ int main(int argc, char** argv)
 
 
 
-	V7Qr_	=	-1150833674;
+
 	GPmPjM	=	2014148267;
 	v7z1	=	-1046088728;
 
