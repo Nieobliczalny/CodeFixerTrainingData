@@ -32,7 +32,7 @@ int main(void) {
 
 
 
-	hF2exsfv25	=	2029070510;
+
 
 
 
@@ -65,7 +65,7 @@ int main(void) {
 
 
 
-	fJMsUlmD	=	61478750;
+
 
 
 

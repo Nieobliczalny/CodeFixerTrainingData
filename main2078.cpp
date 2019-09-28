@@ -103,7 +103,7 @@ int main(int argc, char** argv) {
 
 
 	unsigned char	R46yH35,	zg7_42QL,	Ku8K_4b0;
-	R46yH35	=	0;
+
 	zg7_42QL	=	0;
 
 

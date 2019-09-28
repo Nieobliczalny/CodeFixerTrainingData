@@ -57,7 +57,7 @@ int main(int argc, char** argv)
 
 
 
-	F_FO	=	-1422678562;
+
 	B6204on	=	-1831476053;
 	AqoMV_	=	1180354516;
 

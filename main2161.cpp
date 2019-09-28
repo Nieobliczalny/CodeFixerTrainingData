@@ -28,7 +28,7 @@ int main() {
 
 
  unsigned short int Z2Oy7AI0QS, cVPJi;
- Z2Oy7AI0QS = 0;
+
 
 
 

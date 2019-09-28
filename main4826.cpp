@@ -57,7 +57,7 @@ int main(void)
 
 
 
-  T4lpDDqb0  =  299410417;
+
   CPmVRL  =  -2096209317;
 
 

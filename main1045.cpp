@@ -63,7 +63,7 @@ int main(int argc, char** argv)
 
 
 
-	rA8QI8	=	810014385;
+
 	kHjkOx7G3	=	-303160998;
 
 	ngxT8	=	-2027373051;

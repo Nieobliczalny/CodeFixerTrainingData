@@ -38,7 +38,7 @@ int main(void)
 
 
 
-    K7_57F6    =    2000313275;
+
     WunWb_eins    =    -582738255;
 
 
