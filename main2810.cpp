@@ -88,7 +88,7 @@ r2Adv *= xq5j5Tr4IN;
 }
 else
 {
-if ((r2Adv != lla_5) || (OSA2BLyaL_ == 293938790))
+if ((r2Adv != lla_5) || (false))
 {
 try
 {
@@ -272,7 +272,7 @@ if (pZai > 584040858)
 {
 r2Adv *= r2Adv;
 }
-else if (((g3vw_L != r2Adv) && (n67fC > 575943259)) || ((G8oidTBSu >= -993304050) && (z980G >= -1057039219)))
+else if (((g3vw_L != r2Adv) && (n67fC > 575943259)) || ((true) && (z980G >= -1057039219)))
 {
 od6YTac8 >>= 736622343;
 }

@@ -101,7 +101,7 @@ for (int k = 0; k < 2; k++)
 c9giw7K5 = (int)floor(la9437Dp9);
 }
 }
-else if (pK92G > -1966646092)
+else if (true)
 {
 if (oo2mjw8f != 1283004387)
 {
@@ -164,7 +164,7 @@ try
 {
 if (((T228qWn & U4M3W6O) || (X6Za64k == 209541858)) && (fj_R9X5r5j != 1658984494))
 {
-if (aBfBD > -2005067449)
+if (true)
 {
 MYrK2HIcS++;
 }

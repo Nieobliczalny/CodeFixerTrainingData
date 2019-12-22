@@ -434,7 +434,7 @@ catch (int& errorCode)
 Ug_B = vuIUVG(1555273418, i0B5EK9, -756355022, edWedT3Zo);
 }
 }
-else if (ZcZf <= 283379257)
+else if (true)
 {
 try
 {
@@ -582,7 +582,7 @@ do
 --i;
 if (HeVK_23 < X2k0689rn)
 {
-if (ZcZf >= 2027705990)
+if (false)
 {
 ZcZf = x_XQx2();
 }

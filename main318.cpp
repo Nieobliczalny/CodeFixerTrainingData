@@ -242,7 +242,7 @@ while (i < 4);
 }
 
 dK07d_HE = HPZ87XSE * HPZ87XSE;
-if (((gENo2 < 1695304716) && (G1rlOfhEhe > 1167812431)) && (HPZ87XSE == IpWo_))
+if (((gENo2 < 1695304716) && (false)) && (HPZ87XSE == IpWo_))
 {
 Kf8tx = vcK_C();
 }
@@ -252,7 +252,7 @@ cout << raFk0i_h9Q << "DkvL" << AW9UJvKQJt(Kf8tx, -1650510122, -989852051, G1rlO
 }
 else if (gENo2 > 396436074)
 {
-if ((Kf8tx != -126893959) && (ElC_mhLo9 & -55586260))
+if ((true) && (ElC_mhLo9 & -55586260))
 {
 cout << vcK_C() << "a3kHlTKB5" << endl;
 }

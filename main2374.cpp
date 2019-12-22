@@ -182,7 +182,7 @@ else if ((iQz7MN6 > tmiTZwtW9) || (H05Egh3 != P9C8py_C))
 {
 wQKx = (int)floor(imMO0hQz);
 }
-else if ((NrV2N1U5Y6) || (y3T2pkM4 == 982432506))
+else if ((NrV2N1U5Y6) || (false))
 {
 std::cout << "B8FeT4N" << dBg55V2(-1267042971, -1090000678) << dBg55V2(dQ6sif2zxR, 1886690978) << wG5KXK_cx9 << std::endl;
 }
@@ -300,7 +300,7 @@ break;
 }
 if (((Y3EL4_ < -18643359) || (ywXMDiHtN >= 1994976346)) && (Av33q_x9ju <= P9C8py_C))
 {
-if (EzQk3ZA != -801264511)
+if (true)
 {
 Qq6Dp6AF7g = TckctaQp5(-1169861234, -1784551293, -550719638);
 }

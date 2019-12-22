@@ -21,7 +21,7 @@ int main(void)
 	unsigned short int	idZk	=	1133814917;
  char kHWG92 = 1175942201;
 
-if (z0f1tP == lNiD9G6uj8)
+if (false)
 {
 if (kHWG92 > 65316862)
 {
@@ -53,7 +53,7 @@ if (e08IDc != 1566634844)
 {
 jv4Z_wWb = jv4Z_wWb / 691826456;
 }
-else if (kHWG92 == -2028940049)
+else if (false)
 {
 idZk += 1904171206;
 }
@@ -72,7 +72,7 @@ kHWG92 = kHWG92 - 1440703545;
 }
 else if ((e08IDc > z0f1tP) || (Kx4l & idZk))
 {
-if (kHWG92 == 162973003)
+if (false)
 {
 jv4Z_wWb = kHWG92 % 1467334495;
 }
@@ -104,7 +104,7 @@ kHWG92 *= 2113976014;
 }
 }
 }
-if (idZk <= lNiD9G6uj8)
+if (true)
 {
 e08IDc = (int)abs(jv4Z_wWb);
 }
@@ -185,7 +185,7 @@ else if (kHWG92 < T0Jex)
 {
 kHWG92 = idZk % 49809021;
 }
-else if (z0f1tP <= 1955423038)
+else if (true)
 {
 kHWG92 = Kx4l * 2142045053;
 }
@@ -285,7 +285,7 @@ while (i < 10)
 {
 for (int j = 0; j < 1; j++)
 {
-if ((kHWG92 > 2058890601) && (kHWG92 <= Kx4l))
+if ((false) && (kHWG92 <= Kx4l))
 {
 Kx4l &= jv4Z_wWb;
 }
@@ -328,7 +328,7 @@ catch (int& errorCode)
 kHWG92++;
 }
 e08IDc = idZk / kHWG92;
-if (((kHWG92) || (kHWG92 > u21Esc)) && ((e08IDc > Kx4l) || (idZk < 1948661674)))
+if (((kHWG92) || (true)) && ((e08IDc > Kx4l) || (idZk < 1948661674)))
 {
 if (e08IDc > 217190594)
 {
@@ -445,7 +445,7 @@ else if ((jv4Z_wWb == Kx4l) || (z0f1tP > jv4Z_wWb))
 {
 try
 {
-if (idZk >= u21Esc)
+if (true)
 {
 kHWG92 = (int)abs(e08IDc);
 }
@@ -535,7 +535,7 @@ else if (z0f1tP)
 {
 idZk &= 1046747488;
 }
-else if (idZk < u21Esc)
+else if (false)
 {
 switch (jv4Z_wWb)
 {

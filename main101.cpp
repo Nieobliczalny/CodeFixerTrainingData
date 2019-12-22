@@ -288,7 +288,7 @@ lqu7e0--;
 }
 }
 
-if (xyk7 != LrQOL8y7lU)
+if (true)
 {
 for (int j = 0; j < 1; j++)
 {
@@ -808,7 +808,7 @@ else if (H6e7R >= C366j)
 {
 if (mn4F5Ub > LrQOL8y7lU)
 {
-zULY1 = (xyk7 < 1527887155) ? n1yS : -1375323991;
+zULY1 = (true) ? n1yS : -1375323991;
 }
 }
 else if (aKzza >= -1688139966)

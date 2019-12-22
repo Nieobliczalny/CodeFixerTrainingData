@@ -49,7 +49,7 @@ Ap2AY2r = (int)abs(L2y1_zpp9c);
 
 for (int i = 0; i < 9; i++)
 {
-if (L2y1_zpp9c > xL0831)
+if (false)
 {
 if (GIcgPh > -1322863533)
 {
@@ -91,7 +91,7 @@ while (i < 10);
 }
 std::cout << iUGH(d_i6, 1886496830) << I5vG(d_i6, OOeE3) << n8DY_(-320216642) << std::endl;
 
-if (((P4BkrCyIY >= 1844583765) || (TgX4L6h0_)) && (PcpmY > MJV33))
+if (((false) || (TgX4L6h0_)) && (PcpmY > MJV33))
 {
 w407Hw = (int)abs(Cg34C);
 }
@@ -161,7 +161,7 @@ try
 {
 if (X4Di86b3D & W79_X)
 {
-if (YKL4Ox_ == C88f)
+if (false)
 {
 Ox76332 = I5vG(-1789343646, 2106176893);
 }
@@ -223,7 +223,7 @@ catch (int& errorCode)
 S9i35E = I5vG(-883206302, 37404012);
 }
 
-p10LtX = (pp6JMs426 <= -2024359765) ? C88f : X4Di86b3D;
+p10LtX = (false) ? C88f : X4Di86b3D;
 {
 int i = 0;
 do
@@ -238,7 +238,7 @@ for (int i = 0; i < 10; i++)
 {
 for (int j = 0; j < 1; ++j)
 {
-if (((xo4ut >= DYp9i_) && (YYkL0_7 < TgX4L6h0_)) && (jTjp < 1408694156))
+if (((false) && (YYkL0_7 < TgX4L6h0_)) && (jTjp < 1408694156))
 {
 Fok8BVJNPE = I5vG(Fok8BVJNPE, bbbL_N);
 }
@@ -339,7 +339,7 @@ break;
 }
 }
 }
-else if (pPDMRu > -2078263151)
+else if (true)
 {
 switch (L2y1_zpp9c)
 {
@@ -399,7 +399,7 @@ break;
 }
 }
 
-if (jTjp > xL0831)
+if (false)
 {
 {
 int j = 5;

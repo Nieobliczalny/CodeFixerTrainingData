@@ -98,7 +98,7 @@ else if (((bf_aeqp) && (J423B & -113790665)) || ((J423B == sNck8GB) || (HDhoq ==
 {
 ITxX = M_B8(-411409419, bf_aeqp, -1724439508, piYLDJL_6g);
 }
-else if (((sNck8GB >= -764957456) && (ITxX <= tLA3G)) || (cG_Nh))
+else if (((true) && (ITxX <= tLA3G)) || (cG_Nh))
 {
 ITxX = M_B8(Uo2JC6iBJ, J423B, bf_aeqp, -1185023951);
 }
@@ -112,7 +112,7 @@ ITxX = M_B8(T_p64J36cz, bur8ej4n, tLA3G, y2L6fVmS95);
 }
 }
 }
-else if (q859ra376Q >= 1782745666)
+else if (false)
 {
 {
 int j = 7;
@@ -213,7 +213,7 @@ ITxX = M_B8(70720418, -1282934993, 881519206, du6k);
 while (j < 6);
 }
 }
-else if (y2L6fVmS95 == -2002120752)
+else if (false)
 {
 HDhoq = (int)floor(bf_aeqp);
 }

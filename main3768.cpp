@@ -166,7 +166,7 @@ if (VzEXNH31)
 {
 HI63Ca77E = (long double)(GEfUwf1);
 }
-else if ((HI63Ca77E != 2116651777) && (Ykp1g >= 633266870))
+else if ((HI63Ca77E != 2116651777) && (false))
 {
 if (f6tnSZ_423 > kRb8nk4)
 {
@@ -246,7 +246,7 @@ else if (TB88s_06gB < 441919440)
 {
 tU92_ = u580rhgit / D93J;
 }
-else if (Rj3NY <= 1875855897)
+else if (true)
 {
 for (int k = 0; k < 5; k++)
 {

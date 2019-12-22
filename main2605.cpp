@@ -25,7 +25,7 @@ if (ayd3jD2E_E > 151665257)
 {
 A8pL |= 1421094397;
 }
-else if (((t_R_ <= A8pL) && (M54dT_0bzp <= 2142809277)) && ((ayd3jD2E_E != iY0_2) || (ayd3jD2E_E & dc1B)))
+else if (((t_R_ <= A8pL) && (true)) && ((ayd3jD2E_E != iY0_2) || (ayd3jD2E_E & dc1B)))
 {
 if (uJSTps <= 2083557052)
 {

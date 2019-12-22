@@ -81,7 +81,7 @@ break;
 }
 else if (O6594JijXJ >= -571497963)
 {
-if ((U06hZM88S) || (wN_9e5JC <= -208632839))
+if ((U06hZM88S) || (false))
 {
 if (XNF7N != 2034522246)
 {

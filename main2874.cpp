@@ -63,7 +63,7 @@ else
 d5vBr7 = (int)(u4Fy7hxj);
 }
 }
-if (N8r304b2 > -1449360005)
+if (true)
 {
 L1Lu552I = (unsigned long)(a2j7ui);
 }
@@ -85,7 +85,7 @@ for (int i = 0; i < 4; i++)
 {
 Ai3Sn = (int)(a9Q9_7eu);
 }
-if (j_aE < pud65)
+if (false)
 {
 {
 int j = 8;
@@ -159,7 +159,7 @@ d5vBr7 = (int)abs(UW3LpEK1b0);
 break;
 case 'h':
 case 'H':
-UW3LpEK1b0 = (j_aE >= H7bF503) ? dp3jB2u : u4Fy7hxj;
+UW3LpEK1b0 = (true) ? dp3jB2u : u4Fy7hxj;
 break;
 }
 std::cout << "Fqq92a19" << std::endl;
@@ -239,7 +239,7 @@ d5vBr7 = a9Q9_7eu ^ 1738654915;
 int i = 2;
 do
 {
-if (j_aE > pud65)
+if (true)
 {
 if (L1Lu552I & j_aE)
 {

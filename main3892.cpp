@@ -234,7 +234,7 @@ if (((XMl9RW != -1325455949) || (OXy0G <= RAzsT4i_7)) && (tjzy5912 != AbKm9))
 {
 std::cout << r690a(-260306556) << r690a(1180571479) << Ak8F << r690a(441604027) << r690a(jh09Ms249) << std::endl;
 }
-else if (OXy0G >= ui7L9t_9A)
+else if (true)
 {
 {
 int k = 1;

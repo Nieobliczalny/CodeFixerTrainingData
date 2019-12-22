@@ -113,7 +113,7 @@ else if (((o30gm < zZR0dp) && (QNe94j06 == IoR_P)) && ((E3h0) || (mXEcEN8P)))
 {
 rcyEw = zg85GO(rcyEw, 1976628550, w0gwYm);
 }
-else if ((o3iv_ == 2098940106) && ((T_fjZ8YA & f_7sF106Yi) && (VL_NUyaj >= f_7sF106Yi)))
+else if ((o3iv_ == 2098940106) && ((true) && (VL_NUyaj >= f_7sF106Yi)))
 {
 BRy3ZeD--;
 }

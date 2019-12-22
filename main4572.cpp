@@ -56,7 +56,7 @@ for (int k = 5; k >= 0; k--)
 rocF0i = (int)floor(I473y);
 }
 }
-else if ((n57Rllic4 <= Of4SC6wzVU) || (K53l3Omf == 1407450172))
+else if ((n57Rllic4 <= Of4SC6wzVU) || (false))
 {
 if (PWyxiVTzK0 >= 1500644811)
 {
@@ -74,7 +74,7 @@ else if (EP8OkJ1P1k != Y5XN)
 {
 bqH7GJ1A = (int)floor(I473y);
 }
-else if ((Of4SC6wzVU > -1753930261) && (C6D8 > lZnTPa5B2o))
+else if ((true) && (C6D8 > lZnTPa5B2o))
 {
 C6D8 = TUAASZ95(YnTo, C6D8, 1652085983, -2072714982, -1868809232);
 }
@@ -87,7 +87,7 @@ else
 rocF0i = (int)floor(bqH7GJ1A);
 }
 }
-else if (((W1G6zBMg >= lZnTPa5B2o) || (h5tdD >= PWyxiVTzK0)) && ((Of4SC6wzVU < 1621605742) || (tzXjbQo == -367097433)))
+else if (((W1G6zBMg >= lZnTPa5B2o) || (h5tdD >= PWyxiVTzK0)) && ((true) || (tzXjbQo == -367097433)))
 {
 rocF0i = (float)(h1zZ0);
 }
@@ -97,7 +97,7 @@ std::cout << ZRx3pW(816623985) << C6D8 << h1zZ0 << h5tdD << YnTo << std::endl;
 }
 else if (C6D8 >= 1593995249)
 {
-if (((PWyxiVTzK0 >= -1962397630) && (Y5XN & -1397130433)) && (lZnTPa5B2o == Of4SC6wzVU))
+if (((true) && (Y5XN & -1397130433)) && (lZnTPa5B2o == Of4SC6wzVU))
 {
 h1zZ0 = hQstS5YbC(YnTo, -1271854835, n57Rllic4, PWyxiVTzK0) - W1G6zBMg;
 }
@@ -175,7 +175,7 @@ else
 {
 if (YnTo <= 1657992981)
 {
-if (PWyxiVTzK0 != 693100569)
+if (true)
 {
 YnTo = (int)ceil(rocF0i);
 }

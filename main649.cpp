@@ -55,7 +55,7 @@ std::cout << m0S_ << std::endl;
 int i = 4;
 while (i >= 0)
 {
-if (((nQUaSY54 > U4D9) && (EKqK_6pwW != Z2R3pePUmM)) || ((h5yYr57 != xvXZ2amy) && (zOLt1d <= h5yYr57)))
+if (((true) && (EKqK_6pwW != Z2R3pePUmM)) || ((h5yYr57 != xvXZ2amy) && (zOLt1d <= h5yYr57)))
 {
 if (wD_BufjS == Z2R3pePUmM)
 {
@@ -120,7 +120,7 @@ catch (int& errorCode)
 {
 VGp5g = (int)ceil(HWel3);
 }
-if (a5E4g >= -741549180)
+if (true)
 {
 if (r91qQzrI3y & -1230023735)
 {
@@ -185,7 +185,7 @@ if (((F8U92D == IVatGN_) && (jd7sYq3l < EKqK_6pwW)) && (zOLt1d > U4D9))
 {
 wD_BufjS = h5yYr57 | zOLt1d;
 }
-else if ((IKm9886M3 >= 1167067427) || (HvghN < U4D9))
+else if ((false) || (HvghN < U4D9))
 {
 wD_BufjS--;
 }

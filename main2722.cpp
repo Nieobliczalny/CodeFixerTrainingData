@@ -116,7 +116,7 @@ if (ZO_4ZX >= sLAaL)
 {
 std::cout << I6hY(-1085842721, cnzfEBfq4, 1646766369) << "HuCsV_y" << "gv1L_SI9R" << I6hY(1932002724, cnzfEBfq4, s4LpNPCyD) << I6hY(Qqg5K2l, 1325575573, 1549997667) << std::endl;
 }
-else if (Zc7f != -432796082)
+else if (true)
 {
 switch (J37D5)
 {
@@ -242,7 +242,7 @@ IrN9 = I6hY(443532107, SL091Sej, -1909356708);
 while (k >= 0);
 }
 }
-else if (((P8d4 == sLAaL) || (L609MU >= D6S2kZh)) && (Zc7f <= -1819064029))
+else if (((P8d4 == sLAaL) || (L609MU >= D6S2kZh)) && (false))
 {
 JK_7N = I6hY(-177875192, JK_7N, Qqg5K2l);
 }

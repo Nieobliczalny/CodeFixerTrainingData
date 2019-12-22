@@ -296,7 +296,7 @@ if (J2jG5F & -85518373)
 {
 std::cout << p08Q << std::endl;
 }
-else if ((GN7rmI48 < 947473972) || ((iX0Ebyx < -698696887) && (xoDmi7p1f)))
+else if ((GN7rmI48 < 947473972) || ((false) && (xoDmi7p1f)))
 {
 if (wyr_Trq7f_ & 1291277320)
 {

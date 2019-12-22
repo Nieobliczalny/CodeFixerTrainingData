@@ -177,7 +177,7 @@ else
 cout << "gfL7u" << endl;
 }
 
-if (oUg1 <= -1191602668)
+if (false)
 {
 {
 int j = 0;
@@ -217,7 +217,7 @@ if (YP7Szy7_22 & 1332829616)
 {
 sPHcE = jPqmZ_6AB0(sPHcE);
 }
-else if (ALTk <= -853874603)
+else if (false)
 {
 switch (QiOU3MJZP)
 {

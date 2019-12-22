@@ -189,7 +189,7 @@ else if (sm_085 == T2K88)
 {
 XqLf = (int)abs(sm_085);
 }
-else if (XqLf < 741110573)
+else if (true)
 {
 if (ztp_mM8nje & S_jjDL6YuR)
 {
@@ -275,7 +275,7 @@ while (i < 6);
 
 std::cout << "vgW41Cg0iY" << iH8W_SKPM << std::endl;
 
-if (XqLf >= o640rOk)
+if (false)
 {
 {
 int j = 2;
@@ -391,7 +391,7 @@ else if (xk9d5b3 == T2K88)
 {
 T2K88 = q4R4uW();
 }
-else if (XqLf >= o640rOk)
+else if (false)
 {
 iH8W_SKPM = (int)floor(yNudl1K);
 }
@@ -415,7 +415,7 @@ else
 S_jjDL6YuR = q4R4uW();
 }
 }
-else if ((XqLf < 1329373825) && (yNudl1K >= -154689964))
+else if ((true) && (yNudl1K >= -154689964))
 {
 {
 int k = 8;

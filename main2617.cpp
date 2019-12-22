@@ -81,7 +81,7 @@ int main()
 	long	tPYyfq_ZM4	=	1237139571;
   unsigned short int  J5n5a2r5  =  -1078315885;
 
-if (VgRe5Lj7 <= -2002764954)
+if (false)
 {
 {
 int j = 0;
@@ -111,7 +111,7 @@ N9MSo9 = IIBr6rTUp(-900894387, -1162581784, dvWtBSnf, 1698634883, VgRe5Lj7);
 while (j < 8);
 }
 }
-else if (gK9jg > -367754146)
+else if (true)
 {
 try
 {
@@ -122,7 +122,7 @@ catch (int& errorCode)
 kCP9YrP = IIBr6rTUp(129299958, -1083058706, s82lydJ, 1364051894, 622656653);
 }
 }
-else if ((zvflVH >= 1677079726) || (jl8P61_S == 1984756862))
+else if ((zvflVH >= 1677079726) || (false))
 {
 for (int j = 5; j >= 0; j--)
 {
@@ -222,7 +222,7 @@ if ((m8ri_Fs6 < FU9l2M) && ((GZy00LL_ & Uk8x) && (VI73i > 714136609)))
 {
 VI73i = (int)ceil(LGIk6w);
 }
-else if (dvWtBSnf < 373237276)
+else if (true)
 {
 J5n5a2r5 = N9MSo9 << 341252345;
 }
@@ -234,7 +234,7 @@ else if (((Uk8x >= -926700398) || (HaK8BA9 <= -662673455)) && ((oWAtL5 & 4550383
 {
 kCP9YrP = IIBr6rTUp(di34R, LGIk6w, RV5r, 1751016808, 1097111980);
 }
-else if ((HaK8BA9 == -2041995197) && (MCwn_ & -130615079))
+else if ((false) && (MCwn_ & -130615079))
 {
 N9MSo9 = IIBr6rTUp(122865653, n46m, sMe0VOXk, -1114591707, Otx4_3C);
 }
@@ -263,7 +263,7 @@ if (mDv7R > -2096155392)
 {
 J5n5a2r5 |= zvflVH;
 }
-else if (f8qNIig > 1019068401)
+else if (false)
 {
 cout << IIBr6rTUp(1504934118, Af6aD, -761742925, 1403646914, 542120775) << endl;
 }
@@ -300,7 +300,7 @@ break;
 }
 }
 }
-else if (Uk8x == -1877584191)
+else if (false)
 {
 tPYyfq_ZM4 = (long)(I23QW);
 }
@@ -435,7 +435,7 @@ if (di34R)
 {
 cout << "KIOfZn70Y" << jl8P61_S << "DviNq_P" << "whWfjUZ" << "kgDzxXo" << endl;
 }
-else if ((gK9jg >= 859343088) && (gK9jg < -1854832299))
+else if ((false) && (gK9jg < -1854832299))
 {
 if (ldW5 < 1487258823)
 {
@@ -490,7 +490,7 @@ k++;
 while (k < 3);
 }
 }
-else if ((t1g9MMu54 & -1031203999) || (dvWtBSnf <= 1251701415))
+else if ((t1g9MMu54 & -1031203999) || (true))
 {
 NG55MOm = (int)abs(aE4PH0);
 }
@@ -528,7 +528,7 @@ ldW5 = IIBr6rTUp(-1436585431, K0F7a5S, mDv7R, -696538297, Af6aD) / 1545306538;
 }
 }
 }
-else if (DnkJN2er8 > -1795336113)
+else if (true)
 {
 switch (Af6aD)
 {
@@ -574,7 +574,7 @@ if (lVOC_HZ >= 847695368)
 {
 if (uQE3S < 1919391273)
 {
-if (K0F7a5S != 1229143525)
+if (true)
 {
 n46m = dvWtBSnf / 1511033113;
 }

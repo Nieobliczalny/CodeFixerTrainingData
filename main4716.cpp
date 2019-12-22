@@ -239,7 +239,7 @@ fs6qgxq4d2 = (int)ceil(nHBiNh8sp);
 
 fuIPp52HWE = t9_8O9p_wO / MAmA;
 
-if ((UnsysCG < C_93cxO) && (cAgYcw_ivI < NO_npB6))
+if ((true) && (cAgYcw_ivI < NO_npB6))
 {
 Y6_7CH20Du = F_x238 ^ K_5fd;
 }

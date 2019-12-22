@@ -97,7 +97,7 @@ while (k >= 0);
 }
 else
 {
-if (((A0v_Yx1t == hQ79Ru929q) && (rS_63os < T9Q1s7zklT)) && (U_Ok == z_K4xmP))
+if (((A0v_Yx1t == hQ79Ru929q) && (false)) && (U_Ok == z_K4xmP))
 {
 wiMML = (short)(z4_TEC33);
 }
@@ -194,7 +194,7 @@ if (nqmchiZ < -1110603133)
 {
 pc8H >>= bLA2InT;
 }
-else if (A0v_Yx1t >= xrV6ZYJTo)
+else if (false)
 {
 std::cout << "DjDa1c" << std::endl;
 }
@@ -266,7 +266,7 @@ j--;
 }
 else
 {
-if (((dETHDIKk <= -1719465311) && (iwolY65 < jFt9)) || (A0v_Yx1t != dIB401))
+if (((false) && (iwolY65 < jFt9)) || (A0v_Yx1t != dIB401))
 {
 std::cout << dIB401 << u7eH2o2sZ << std::endl;
 }

@@ -64,7 +64,7 @@ SNJayX = (long long)(QN5FB_4u33);
 }
 else if (YfUXhUw & -1405950803)
 {
-if (HyfKKl != 1194690343)
+if (true)
 {
 switch (I5oJwn)
 {

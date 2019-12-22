@@ -45,7 +45,7 @@ dxpSPlS8Ac = Q0ggTt(dxpSPlS8Ac, MqXdXE_54, 1541447474);
 std::cout << MqXdXE_54 / K327C6rb4 << std::endl;
 MqXdXE_54 = (unsigned short)(YG6H22GZCt);
 std::cout << B0Om7n_NWg() << vi9F7u2Fl_ << Q0ggTt(dxpSPlS8Ac, 1673117197, -1428818763) << dxpSPlS8Ac << std::endl;
-if (K327C6rb4 >= 1841573012)
+if (false)
 {
 if (se8A2E6Ckl <= K16ilpQY)
 {
@@ -90,7 +90,7 @@ DMk4 = o0Mi_qB5(dxpSPlS8Ac, MqXdXE_54) + 1038901622;
 break;
 }
 }
-else if (RT_bdTB > -1857789213)
+else if (true)
 {
 switch (Tjo1o)
 {
@@ -126,7 +126,7 @@ Sm5l9gcm = Tjo1o ^ 9985416;
 break;
 }
 }
-else if ((dxpSPlS8Ac < 218350799) && (K327C6rb4 >= 45344974))
+else if ((true) && (K327C6rb4 >= 45344974))
 {
 try
 {

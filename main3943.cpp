@@ -167,7 +167,7 @@ if (IP70DCh == 0)
 	h6WPo = rmpAAUaxiP(763672137, I09tiz, 1159498000, l6OjhA38G) / IP70DCh;
 }
 
-if (OkalcsEny != -2077096301)
+if (true)
 {
 try
 {

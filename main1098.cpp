@@ -194,7 +194,7 @@ if (zo_1s4GhP)
 {
 qz4A = (int)ceil(lA2iux3YN);
 }
-else if (((T_2O == mT09l8I) || (NdMS9_n9a_ >= 1075913312)) && (TQq5 == vxc34mcmk))
+else if (((false) || (NdMS9_n9a_ >= 1075913312)) && (TQq5 == vxc34mcmk))
 {
 if (T_2O <= U9h9M)
 {
@@ -216,7 +216,7 @@ catch (int& errorCode)
 Vq8ZM9 = (int)floor(IJw2Oce6k5);
 }
 }
-else if (u6s_ < 590278508)
+else if (true)
 {
 try
 {

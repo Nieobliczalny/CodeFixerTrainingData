@@ -17,7 +17,7 @@ int main() {
   unsigned char  R36Trhco  =  0,  NW4L___q  =  0,  RpsDte  =  0,  RpTwUDv  =  0;
   short  mRykIjA6  =  -1389801367,  H6hix3  =  -1563225864,  j6mxO5  =  2098640085,  T624rN  =  171195147,  bA_4yEmj  =  -822629494,  Dtv4N9  =  1734123045,  saVrR  =  1730050280,  yk8v9JME  =  900468219,  GssM  =  -1180817934,  BUgEqxh  =  -2057349711,  T7Scm  =  613720438,  c80Dw591n  =  1727025622,  v8zg8  =  -1516544831,  Ou6f5T8d  =  -1392628942,  iOPUS2qnL  =  990495108,  G4E_  =  1392159515,  N2_IbQV  =  -562206399,  vCqqb25GE  =  -1203411433,  rFqLkV7By  =  -832223706,  sW4Gwht  =  -1701358451;
 
-if (T7Scm != -1431407025)
+if (true)
 {
 {
 int j = 7;
@@ -40,7 +40,7 @@ j--;
 while (j >= 0);
 }
 }
-else if (RpTwUDv == 958033385)
+else if (false)
 {
 if ((bA_4yEmj & -102001670) && (v8zg8 & 948514183))
 {
@@ -52,7 +52,7 @@ else if ((v8zg8 > 666055311) || (bA_4yEmj & 1826862338))
 {
 iOPUS2qnL *= yk8v9JME;
 }
-else if (GssM < -644582784)
+else if (false)
 {
 NW4L___q = L1PAM_7F(-357577357, -846500801, -593566764, -574832982);
 }
@@ -82,7 +82,7 @@ break;
 }
 }
 }
-else if (yk8v9JME <= 1184061747)
+else if (true)
 {
 {
 int j = 0;
@@ -108,7 +108,7 @@ catch (int& errorCode)
 H6hix3 = uy_hG8c(1991543460);
 }
 }
-else if (NW4L___q == -1717418982)
+else if (false)
 {
 if (R36Trhco >= 608283327)
 {
@@ -122,7 +122,7 @@ int j = 0;
 do
 {
 ++j;
-if (((BUgEqxh < -950278752) || (H6hix3 != -2021682267)) || ((NW4L___q & 1494975965) || (mRykIjA6 > 1929808803)))
+if (((false) || (H6hix3 != -2021682267)) || ((NW4L___q & 1494975965) || (mRykIjA6 > 1929808803)))
 {
 N2_IbQV = uy_hG8c(-297926880) ^ 2020109536;
 }
@@ -183,7 +183,7 @@ RpsDte = L1PAM_7F(vCqqb25GE, 597924255, -372023930, -452192472);
 }
 else
 {
-if (H6hix3 == -847588251)
+if (false)
 {
 if ((j6mxO5 != -1463289079) || (sW4Gwht < 1732700832))
 {
@@ -240,7 +240,7 @@ saVrR = uy_hG8c(809139612);
 }
 std::cout << "c1FQ5" << std::endl;
 
-if (G4E_ < 513076476)
+if (true)
 {
 c80Dw591n = (int)abs(H6hix3);
 }
@@ -261,7 +261,7 @@ else if ((NW4L___q & yk8v9JME) && ((H6hix3 & R36Trhco) || (R36Trhco)))
 {
 if (yk8v9JME)
 {
-if (j6mxO5 != 1112221890)
+if (true)
 {
 N2_IbQV ^= BUgEqxh;
 }
@@ -277,7 +277,7 @@ std::cout << "Ag7RfR" << N2_IbQV << std::endl;
 }
 else if (G4E_ != c80Dw591n)
 {
-if ((vCqqb25GE >= yk8v9JME) || (R36Trhco > 327735239))
+if ((vCqqb25GE >= yk8v9JME) || (false))
 {
 if (GssM)
 {

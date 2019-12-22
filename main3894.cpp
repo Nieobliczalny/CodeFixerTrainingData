@@ -180,7 +180,7 @@ std::cout << "jc5ap2" << cyX6_6eX() << std::endl;
 
 try
 {
-if ((uHQO) && (Art3 >= -371324563))
+if ((uHQO) && (true))
 {
 x0NrxeS = (int)(t77q);
 }
@@ -239,7 +239,7 @@ UN44m = E1l9lXa + 1705500583;
 }
 else
 {
-if ((JigjM2d > -1380464904) || (r3IYd2 == jWsZb5_k7))
+if ((true) || (r3IYd2 == jWsZb5_k7))
 {
 se_9m164A = (int)abs(Art3);
 }
@@ -488,7 +488,7 @@ break;
 int i = 0;
 do
 {
-if ((JP58xnuR3 > 1836691267) || ((nJm89Ud5 >= jWsZb5_k7) || (U0RLjuc >= jWsZb5_k7)))
+if ((false) || ((nJm89Ud5 >= jWsZb5_k7) || (U0RLjuc >= jWsZb5_k7)))
 {
 {
 int k = 0;

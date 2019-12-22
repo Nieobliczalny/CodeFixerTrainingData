@@ -38,7 +38,7 @@ int main()
  short fDwor_4 = -1027187725;
  long j392qS = 540735981;
 
-if ((uVa_B8 > Hw54lZy) && (SP8u < j392qS))
+if ((false) && (SP8u < j392qS))
 {
 {
 int j = 5;
@@ -62,7 +62,7 @@ else
 AsHOcV8Pz1 = (unsigned short)(wxvr9_1_XE);
 }
 
-if (uVa_B8 > k1I8IFO6HE)
+if (true)
 {
 {
 int j = 0;
@@ -115,7 +115,7 @@ xs1RFX *= AsHOcV8Pz1;
 }
 }
 }
-else if ((SP8u == -298245339) && ((uVa_B8) || (H1E_H_X05 <= oDXAv3)))
+else if ((false) && ((uVa_B8) || (H1E_H_X05 <= oDXAv3)))
 {
 j392qS = (long)(t1qW8RAs + (1316780478));
 }
@@ -158,7 +158,7 @@ catch (int& errorCode)
 SP8u ^= oDXAv3;
 }
 }
-else if ((fDwor_4 >= 599464559) && ((fDwor_4) || (uVa_B8 != t1qW8RAs)))
+else if ((false) && ((fDwor_4) || (uVa_B8 != t1qW8RAs)))
 {
 j392qS = (long)(t1qW8RAs + (Hw54lZy));
 }
@@ -173,7 +173,7 @@ catch (int& errorCode)
 uVa_B8 = WxO_(j392qS, -384984897, fDwor_4);
 }
 }
-else if ((AShAGaKl0D != -795452096) && (AsHOcV8Pz1 <= -1823579232))
+else if ((true) && (AsHOcV8Pz1 <= -1823579232))
 {
 switch (fDwor_4)
 {
@@ -206,7 +206,7 @@ wxvr9_1_XE = (unsigned long long)(nujy2sE1cu);
 }
 else
 {
-if (AShAGaKl0D < -1268651680)
+if (false)
 {
 {
 int k = 4;
@@ -238,7 +238,7 @@ l6jNSsf9m = (int)ceil(mal6Lj);
 }
 }
 oDXAv3 = I1143_ / kfr5_;
-if (AShAGaKl0D < -2058271077)
+if (false)
 {
 switch (kfr5_)
 {
@@ -306,7 +306,7 @@ while (i >= 0);
 std::cout << kfr5_ << std::endl;
 if (((yeP5gy9q) && (nujy2sE1cu >= Hw54lZy)) && (kfr5_ >= l6jNSsf9m))
 {
-if ((fDwor_4 != k1I8IFO6HE) && (oDXAv3 & 2022313923))
+if ((true) && (oDXAv3 & 2022313923))
 {
 switch (oDXAv3)
 {

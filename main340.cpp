@@ -61,7 +61,7 @@ std::cout << D8OP << "Dj7Z" << std::endl;
 int i = 0;
 do
 {
-if (((D8OP) && (SwzZ != 54086633)) && (FO46M04 > -514797817))
+if (((D8OP) && (SwzZ != 54086633)) && (true))
 {
 try
 {
@@ -104,7 +104,7 @@ i++;
 }
 }
 
-if (FO46M04 > 1829973092)
+if (false)
 {
 std::cout << "R54Y" << D8OP << FO46M04 << dMD4BX(1767204218, SwzZ, D8OP, -1678807996, -807011084) << std::endl;
 }
@@ -132,7 +132,7 @@ if (SwzZ & -840287298)
 int j = 0;
 do
 {
-if ((FO46M04 != 658689071) && ((SwzZ == D8OP) && (SwzZ & -1055515318)))
+if ((true) && ((SwzZ == D8OP) && (SwzZ & -1055515318)))
 {
 SwzZ = LXmfwE(1497126135, -626443582, 1954683140, 1042322402);
 }
@@ -154,7 +154,7 @@ int i = 2;
 while (i >= 0)
 {
 i--;
-if ((FO46M04 != -1661345153) || (D8OP > 407489403))
+if ((true) || (D8OP > 407489403))
 {
 D8OP = (short int)(SwzZ * D8OP);
 }
@@ -172,7 +172,7 @@ while (k < 3);
 }
 }
 }
-if (FO46M04 <= 292643059)
+if (true)
 {
 if ((D8OP < 491135703) || (D8OP <= FO46M04))
 {
@@ -190,7 +190,7 @@ D8OP = dMD4BX(SwzZ, 1980923256, D8OP, 2070397799, -1025379085);
 }
 else
 {
-if (FO46M04 < -1840144941)
+if (false)
 {
 D8OP = (short int)(SwzZ * D8OP);
 }
@@ -307,7 +307,7 @@ try
 int j = 1;
 while (j >= 0)
 {
-if (FO46M04 == 1548239099)
+if (false)
 {
 D8OP = dMD4BX(FO46M04, -283917573, 1663223941, -567536027, -1656656072);
 }
@@ -360,7 +360,7 @@ SwzZ |= FO46M04;
 break;
 }
 
-if (D8OP <= 643672371)
+if (true)
 {
 if (D8OP >= SwzZ)
 {
@@ -406,7 +406,7 @@ SwzZ = FO46M04 ^ 830442817;
 break;
 }
 }
-if (((FO46M04 > -1957173990) || (D8OP <= -1270837016)) || (FO46M04 >= SwzZ))
+if (((true) || (D8OP <= -1270837016)) || (FO46M04 >= SwzZ))
 {
 if (((FO46M04 > SwzZ) || (SwzZ == D8OP)) && ((FO46M04) || (SwzZ > D8OP)))
 {
@@ -475,7 +475,7 @@ SwzZ |= FO46M04;
 
 if (D8OP == FO46M04)
 {
-if (((D8OP == 821435336) && (FO46M04 & SwzZ)) && ((SwzZ != FO46M04) || (FO46M04 != 510425496)))
+if (((false) && (FO46M04 & SwzZ)) && ((SwzZ != FO46M04) || (FO46M04 != 510425496)))
 {
 try
 {

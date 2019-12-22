@@ -98,7 +98,7 @@ if (Xut9vnAX >= 597705969)
 {
 amO1uxXENQ = (long long)(m3fiu65_2);
 }
-else if ((GGgP4qF59 < -31906041) && ((pQ0Hsqpkt3 > P48k5) && (xvlUA3DZ == 636818818)))
+else if ((GGgP4qF59 < -31906041) && ((pQ0Hsqpkt3 > P48k5) && (false)))
 {
 KMPc8 = G_8_ ^ 1252384373;
 }
@@ -254,7 +254,7 @@ for (int k = 7; k >= 0; k--)
 xvlUA3DZ = Uiv6o6(-1903152111, xvlUA3DZ);
 }
 }
-else if (((KMPc8 & O0_Fs) && (ybCI4)) && (xvlUA3DZ == -903160807))
+else if (((KMPc8 & O0_Fs) && (ybCI4)) && (false))
 {
 std::cout << ybCI4 << std::endl;
 }

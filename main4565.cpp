@@ -54,7 +54,7 @@ u7tN9I2bKm %= 1569200736;
 
 Ys1x0_Q = i72d0YDT ^ E7Hhww;
 
-if (gVq2v >= A9rFIt257Y)
+if (true)
 {
 for (int j = 2; j >= 0; j--)
 {

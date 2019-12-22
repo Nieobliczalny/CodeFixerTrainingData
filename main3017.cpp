@@ -84,7 +84,7 @@ LFWs_jqQuq = -508814683 / OC5K9ThlD;
 OC5K9ThlD = RMF73_3t(1979021583, V1U16022, -1334235731);
 for (int i = 0; i < 1; ++i)
 {
-if (Om8ov != 1845923159)
+if (true)
 {
 p_9p &= 80691396;
 }
@@ -252,7 +252,7 @@ catch (int& errorCode)
 OC5K9ThlD = RMF73_3t(-610345463, iijO_, -1246523649);
 }
 }
-else if (X2T00 == -2007262909)
+else if (false)
 {
 T0y70YpTX--;
 }

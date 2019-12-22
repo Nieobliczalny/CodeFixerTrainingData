@@ -21,7 +21,7 @@ int main() {
 switch (bLZNT)
 {
 case 0:
-tjt5B8 = (BDR4fb == -1892154364) ? pH80t : pH80t;
+tjt5B8 = (false) ? pH80t : pH80t;
 break;
 case 1:
 B19u8h3Bb -= BDR4fb;
@@ -33,7 +33,7 @@ break;
 
 if (BDR4fb & J_x0BX)
 {
-if (u3iy_7 < -607949501)
+if (false)
 {
 {
 int k = 0;
@@ -46,7 +46,7 @@ while (k < 6);
 }
 }
 }
-else if (nQZ2 < J_x0BX)
+else if (true)
 {
 switch (B19u8h3Bb)
 {

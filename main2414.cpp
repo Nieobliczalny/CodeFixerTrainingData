@@ -204,7 +204,7 @@ yGR15BsW_ = XVcD8 & kfVrn6On;
 while (k < 8);
 }
 }
-else if ((t7VwfY3 == I_QVA) && (n44Wz1Q > H3922_7))
+else if ((t7VwfY3 == I_QVA) && (true))
 {
 {
 int k = 8;
@@ -317,7 +317,7 @@ yNQDc04gi4 = h_25_j_Cx(yNQDc04gi4, a908U);
 break;
 case 'h':
 case 'H':
-rIAoci = (t7VwfY3 == -978187717) ? -1612668419 : Cs83n9;
+rIAoci = (false) ? -1612668419 : Cs83n9;
 break;
 default:
 Z8_9MHQ6S = h_25_j_Cx(Z8_9MHQ6S, l4Kdmm6);

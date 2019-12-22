@@ -102,7 +102,7 @@ int main(void) {
 
 BmG7AxC344++;
 
-if (LN882 < -1955457209)
+if (false)
 {
 VV4lM = (unsigned char)(w4nm15PT);
 }
@@ -123,7 +123,7 @@ if (L4eHI_uY9V >= QZ41qov_)
 {
 b9M_ = MiYpdgu56 + 182512246;
 }
-else if (Yf361TVuRo == 2063205883)
+else if (false)
 {
 wIZwG = MiYpdgu56 - 1020564771;
 }
@@ -158,7 +158,7 @@ aR_C = H27b8(aR_C, 705627620);
 while (j < 1);
 }
 }
-else if (PrFJ >= 1983667479)
+else if (false)
 {
 NpK4H6q = gA6w56h(677660393, -550309364, -1815569291, 1409676236);
 }
@@ -187,7 +187,7 @@ FOL0W4e26W += 44082399;
 while (k >= 0);
 }
 }
-else if (TYLEL_0Yw > -591551484)
+else if (true)
 {
 try
 {
@@ -198,7 +198,7 @@ catch (int& errorCode)
 Gjk96 = L3LT9dz(-183547362);
 }
 }
-else if (VBK_617du > 1135404392)
+else if (false)
 {
 if (EbSRqv)
 {
@@ -209,7 +209,7 @@ else
 S43QHfr |= v0_SHgJ;
 }
 }
-else if ((Q7o_ == 1681089198) || ((uF_nNORS1 >= -8502960) || (uF_nNORS1)))
+else if ((false) || ((uF_nNORS1 >= -8502960) || (uF_nNORS1)))
 {
 {
 int k = 9;
@@ -223,7 +223,7 @@ while (k >= 0);
 }
 else if (TYLEL_0Yw)
 {
-if (kMy5jkUg < 1190164063)
+if (true)
 {
 NpK4H6q = gA6w56h(-1978311803, 370288667, wjcCKkpQTB, kmlj_e2F);
 }
@@ -304,7 +304,7 @@ NpK4H6q = gA6w56h(TTxh, -397878712, w4nm15PT, -1307916987);
 
 L4eHI_uY9V *= 1395276164;
 
-if (t_Y2 < 242475327)
+if (true)
 {
 w4nm15PT = XJ2Ue(579812892, -1867087942, -129211240);
 }
@@ -392,7 +392,7 @@ R7gM90 *= OGbjfr_;
 
 if ((T2g269LNk < L4eHI_uY9V) && ((cj0Yd <= TYLEL_0Yw) && (kMy5jkUg & -770462326)))
 {
-if (((G4BKw >= -1851095619) || (STzbHLCq > -1766090527)) || (EbSRqv))
+if (((true) || (STzbHLCq > -1766090527)) || (EbSRqv))
 {
 {
 int k = 4;
@@ -404,7 +404,7 @@ M_xv03UuM0 <<= kmlj_e2F;
 while (k >= 0);
 }
 }
-else if (((STzbHLCq <= Gjk96) || (E5_3Wv <= kmlj_e2F)) || ((rKexkKA & Gjk96) && (vPdQ0jo == 265947671)))
+else if (((STzbHLCq <= Gjk96) || (E5_3Wv <= kmlj_e2F)) || ((rKexkKA & Gjk96) && (false)))
 {
 EbSRqv = dyZFf1XL0F % j_fao3b;
 }
@@ -456,7 +456,7 @@ G4BKw = XJ2Ue(-904501387, -537035871, 1459505759);
 }
 R7gM90 &= 32899466;
 
-if (cv5BWTJ > -551673904)
+if (true)
 {
 wIZwG = b9M_ - u8P_W1qK1;
 }

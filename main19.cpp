@@ -151,7 +151,7 @@ p54I = (int)floor(mft9q);
 l_YzgDj = (int)abs(BFBH);
 YOOh = (unsigned short int)(WzypDs5_);
 
-if (((wZhY < -2014370772) || (CB2I < -1454421378)) && ((zW2iG6DYl <= Ra250976) || (D8BizP1 <= -1292917410)))
+if (((false) || (CB2I < -1454421378)) && ((zW2iG6DYl <= Ra250976) || (D8BizP1 <= -1292917410)))
 {
 X440Q += f58_99H;
 }
@@ -170,7 +170,7 @@ k++;
 }
 else
 {
-if (Ra250976 == -2117921396)
+if (false)
 {
 j1_RKIgf = YOOh / 1088869590;
 }
@@ -239,7 +239,7 @@ catch (int& errorCode)
 nf_5 <<= YOOh;
 }
 
-j1_RKIgf = (BoT4s2xW9 >= 2132702830) ? W6oXa4sq : BFBH;
+j1_RKIgf = (false) ? W6oXa4sq : BFBH;
 for (int i = 0; i < 6; i++)
 {
 {
@@ -281,7 +281,7 @@ else if (amseNrX0sz & -129555909)
 {
 wb_ct /= YOOh;
 }
-else if (ORH17k != 23112093)
+else if (true)
 {
 mft9q = (int)ceil(l_YzgDj);
 }

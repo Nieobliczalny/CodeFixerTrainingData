@@ -296,7 +296,7 @@ break;
 }
 for (int i = 10; i >= 0; i--)
 {
-if (((y2S_uA & -1422906864) || (y2S_uA <= -2132265311)) && (oe6KhBA >= FS5B1xS5))
+if (((y2S_uA & -1422906864) || (false)) && (oe6KhBA >= FS5B1xS5))
 {
 try
 {
@@ -436,7 +436,7 @@ break;
 }
 
 nt7N4 |= fo_yc47sL;
-if (y2S_uA == 2106172947)
+if (false)
 {
 fB1l8904 = (FS5B1xS5 == -1210466144) ? fo_yc47sL : nz4UzpIYnV;
 }

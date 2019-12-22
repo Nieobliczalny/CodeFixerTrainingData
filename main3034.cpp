@@ -218,7 +218,7 @@ break;
 while (i < 10);
 }
 
-if (SVMdzsZ9j >= 1935161544)
+if (false)
 {
 SVMdzsZ9j *= SVMdzsZ9j;
 }

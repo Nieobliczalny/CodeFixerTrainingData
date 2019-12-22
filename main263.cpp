@@ -135,7 +135,7 @@ LFh1B = (int)floor(H8Kxwky);
 }
 std::cout << H1UI4_(p4jq4Vw, IF5K2zg_4b, vYC7E91n, -1710802169) << M_mFuL(-1114693625, -1024674821, 520914214, fNYeM, -670799229) << "WG35o" << std::endl;
 
-if (p4jq4Vw <= qvqtk)
+if (true)
 {
 try
 {
@@ -238,7 +238,7 @@ break;
 switch (vYC7E91n)
 {
 case 'a':
-KRF90Xr = (p4jq4Vw == 1495808807) ? qvqtk : FxCiN9;
+KRF90Xr = (false) ? qvqtk : FxCiN9;
 break;
 case 'b':
 q7NzkDso--;
@@ -410,7 +410,7 @@ break;
 }
 while (i < 6);
 }
-if (dn_U_ <= 887015550)
+if (true)
 {
 std::cout << lHFIQU << "AINrR_v" << "iB__" << std::endl;
 }
@@ -453,7 +453,7 @@ else if (WlYVT > Z266_4toR)
 {
 WlYVT = S6Wp9r8NA(-402900764, WlYVT, T6fe0j9kM, -1057459253, 1353766066);
 }
-else if ((Z266_4toR != 265163592) && ((FxCiN9 < T6fe0j9kM) || (T6fe0j9kM & qvqtk)))
+else if ((true) && ((FxCiN9 < T6fe0j9kM) || (T6fe0j9kM & qvqtk)))
 {
 dn_U_ = UYDmBbU7 & N8B4nmQtnN;
 }

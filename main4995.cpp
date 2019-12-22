@@ -62,7 +62,7 @@ int main(int argc, char** argv)
  unsigned int AA81;
  AA81 = -1879790996;
 
-if (((v2__FNKP > sUhor58A9) && (sUhor58A9 <= -995689326)) || (N24Y70vyKf >= -111396813))
+if (((v2__FNKP > sUhor58A9) && (false)) || (N24Y70vyKf >= -111396813))
 {
 {
 int j = 5;
@@ -305,7 +305,7 @@ if (ZUqGVH2G12 > N24Y70vyKf)
 {
 v2__FNKP = pW4asS6n(v2__FNKP, B_u7H, CsrD, 2012769087);
 }
-else if (v2__FNKP >= -1927740195)
+else if (true)
 {
 CdVq = pW4asS6n(N24Y70vyKf, -1515714174, -564984292, 2098330061);
 }

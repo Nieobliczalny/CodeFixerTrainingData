@@ -252,7 +252,7 @@ IPR61A6 = (long)(T1E2Hrzpx3);
 int i = 0;
 while (i < 9)
 {
-if ((hS78U8 <= Va_A) && (gjt1SsRs & bL_COe3w2))
+if ((true) && (gjt1SsRs & bL_COe3w2))
 {
 {
 int k = 0;
@@ -336,7 +336,7 @@ wR2r6U = hpwQV3ebLQ(wR2r6U, MlFl9X, -705367172, -1469876983);
 break;
 case 'f':
 case 'F':
-Y4NzK0tyq8 = (r24KZFZ == T1E2Hrzpx3) ? -1730248660 : -360801252;
+Y4NzK0tyq8 = (false) ? -1730248660 : -360801252;
 break;
 default:
 F7Nv1e3F++;
@@ -358,7 +358,7 @@ x64J63GV = Dk3wL_S7O3 << A5nSyP0;
 }
 }
 }
-else if ((Nk7J8U3DU6 == 1389481813) || (k3Ts4JZb > Va_A))
+else if ((false) || (k3Ts4JZb > Va_A))
 {
 for (int j = 0; j < 6; j++)
 {

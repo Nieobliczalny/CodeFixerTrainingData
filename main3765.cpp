@@ -137,7 +137,7 @@ else if (KNPpllMV6 == 1979128751)
 {
 UI75rF = mUoNdmk(UI75rF, -199481926, bnT8_YPq, 1415022376, ye2FNIA1J);
 }
-else if (qws2mPszL8 >= -1982564984)
+else if (true)
 {
 tewv3pR = li_2p0YP();
 }
@@ -186,7 +186,7 @@ else if (Vf0pHEfP > z_Fsb6S9k)
 {
 vnc_e = li_2p0YP();
 }
-else if (((eoHdH5r02S & 407148231) || (L8K12q0nB5 == 595094188)) && ((vnc_e > qws2mPszL8) || (A2ngHf3jxo != 982056641)))
+else if (((eoHdH5r02S & 407148231) || (false)) && ((vnc_e > qws2mPszL8) || (A2ngHf3jxo != 982056641)))
 {
 tewv3pR = li_2p0YP();
 }
@@ -225,7 +225,7 @@ k--;
 }
 else if (l9q59ox3b4 < -1204228083)
 {
-if ((Cw3ZLKQU_ >= 1581336265) && (qICV <= 1625297854))
+if ((false) && (qICV <= 1625297854))
 {
 tewv3pR = li_2p0YP();
 }
@@ -252,7 +252,7 @@ else if (uFF7x55_ < 1168241856)
 {
 q3z8I1 = mUoNdmk(-1662664052, 962501928, QO5ps5A, -672042555, 493874032);
 }
-else if (H968A7 < -611475245)
+else if (false)
 {
 vnc_e = li_2p0YP();
 }
@@ -271,7 +271,7 @@ cMTFp_k9B4 &= 1217192682;
 }
 else
 {
-if (((X89HA != 1977481016) || (AGzkX)) || (BBh0 != -1137408956))
+if (((true) || (AGzkX)) || (BBh0 != -1137408956))
 {
 vnc_e = li_2p0YP();
 }
@@ -287,7 +287,7 @@ int i = 0;
 while (i < 6)
 {
 ++i;
-if (H968A7 != 1528971611)
+if (true)
 {
 vnc_e = li_2p0YP();
 }
@@ -357,7 +357,7 @@ hToEJ = Cw3ZLKQU_ % cMTFp_k9B4;
 break;
 }
 }
-else if (Cw3ZLKQU_ < 122948808)
+else if (true)
 {
 FepX5m9 = mUoNdmk(561757164, AGzkX, eoHdH5r02S, -1964062780, sf3qurL4);
 }
@@ -441,7 +441,7 @@ else if (QO5ps5A > CVUDJ2hk1)
 {
 TB3dwbD = (int)abs(AGzkX);
 }
-else if (((uwtM74s2 > 1907314445) || (C67t > 1445421655)) || ((Z5Ft >= -238672851) && (bnT8_YPq != 395402461)))
+else if (((uwtM74s2 > 1907314445) || (C67t > 1445421655)) || ((true) && (bnT8_YPq != 395402461)))
 {
 switch (SqKBcKYL)
 {
@@ -501,7 +501,7 @@ g440L = (int)abs(SnQqACW);
 }
 if (aVi0k9id < 80816995)
 {
-if (I290 > 1688779415)
+if (false)
 {
 {
 int k = 0;
@@ -560,7 +560,7 @@ case 5:
 ww66 = (int)floor(l9q59ox3b4);
 break;
 case 6:
-qws2mPszL8 = (MqfE > 394533885) ? BBh0 : -2080076198;
+qws2mPszL8 = (false) ? BBh0 : -2080076198;
 break;
 case 7:
 X64c &= 144356839;

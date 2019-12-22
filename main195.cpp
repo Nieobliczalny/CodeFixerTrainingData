@@ -75,7 +75,7 @@ std::cout << "Ieiz" << TMmnJlc(B5F8) << ueEK89718 << "P62Gt00" << std::endl;
 }
 }
 
-if ((zrEyJ4 < 165350916) && (l4046FOsI == -2086581108))
+if ((true) && (l4046FOsI == -2086581108))
 {
 switch (l2a_7hG_)
 {

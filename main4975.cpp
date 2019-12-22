@@ -299,7 +299,7 @@ w9Niid7JZ_ = (unsigned char)(xb08Gi * (V3fD_));
 while (i >= 0);
 }
 
-if ((T26Ip2q != V3fD_) && ((c1QJMtC8S <= pJqAUx) && (uu05OrJ52c >= cebm58ns0j)))
+if ((T26Ip2q != V3fD_) && ((true) && (uu05OrJ52c >= cebm58ns0j)))
 {
 {
 int j = 0;
@@ -376,7 +376,7 @@ while (i >= 0);
 int i = 0;
 do
 {
-if (X__9 == 56937064)
+if (false)
 {
 try
 {

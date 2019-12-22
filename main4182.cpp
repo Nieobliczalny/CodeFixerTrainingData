@@ -108,7 +108,7 @@ while (i < 1);
 }
 for (int i = 0; i < 2; ++i)
 {
-if ((hcj_MKnNYE < -441167915) && (X5HcGY36q4 & -74549356))
+if ((false) && (X5HcGY36q4 & -74549356))
 {
 if ((WMj5_ < WNSw_Lf4) && (xV9v))
 {
@@ -138,7 +138,7 @@ if (Sb_07is < -1926072554)
 h1zM = (int)abs(Od2Qep);
 }
 }
-else if (WMj5_ <= -942788967)
+else if (false)
 {
 WNSw_Lf4 = (long long)(Qt5BBer9);
 }

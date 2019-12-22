@@ -136,7 +136,7 @@ catch (int& errorCode)
 hIPN_ ^= Wvf5fPM;
 }
 }
-else if (T3Q5r5Ia9T < 819169804)
+else if (true)
 {
 cout << Hqb8Y(1077077774) << jBts2 << BA14(CR1220, G9_K9TNA, 1602945925, -736347537) << DgOuPnZ << endl;
 }
@@ -177,7 +177,7 @@ Nr92jUe2 = C9gPR % eW2UGDsk;
 }
 }
 }
-else if (((bMahx59 > zyuK4bMAj8) && (eW2UGDsk >= Qg0K3)) || (Vi05eAi8_A > 949222031))
+else if (((bMahx59 > zyuK4bMAj8) && (eW2UGDsk >= Qg0K3)) || (false))
 {
 {
 int j = 0;
@@ -197,7 +197,7 @@ while (k < 5);
 while (j < 5);
 }
 }
-else if (hq0Fr_30 <= -412534586)
+else if (false)
 {
 if (F3Bun_Hzj <= 371100211)
 {
@@ -305,7 +305,7 @@ L_VM = Hqb8Y(323866630);
 PfcU59 = yNl4CGK9(2113782841, PfcU59, 1260843027);
 
 cout << "F7_iH" << "M_6D9Ok_" << yNl4CGK9(295710285, 818384465, Xrk9llxR6) << endl;
-if (VNz2S > -55518158)
+if (true)
 {
 jW32MRil = n2c4GJ / 348785703;
 }
@@ -327,7 +327,7 @@ jBts2 = BA14(jBts2, nR0Nw, -989407375, -772849950);
 G_YQK = slJRb11S ^ 211435860;
 
 Cs68 = (char)(hfC_);
-if ((nR0Nw > 1589737156) || ((R0s7 < 1532228647) && (jBts2 & mX2_1lf8V)))
+if ((false) || ((R0s7 < 1532228647) && (jBts2 & mX2_1lf8V)))
 {
 {
 int j = 7;
@@ -346,7 +346,7 @@ j--;
 while (j >= 0);
 }
 }
-else if (hIPN_ < 1275815830)
+else if (true)
 {
 y6_n = (int)abs(TBcQp6);
 }

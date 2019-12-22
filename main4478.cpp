@@ -79,7 +79,7 @@ else
 {
 try
 {
-if (((tGIJT81 <= -94715347) && (A3dCQ > -90283215)) && (D5S3oN == QSP_))
+if (((tGIJT81 <= -94715347) && (true)) && (D5S3oN == QSP_))
 {
 NP0PLw64 = s_Z3M2Z(NP0PLw64, 404549261, H3YB27, -1390408278, i65_U);
 }
@@ -154,7 +154,7 @@ break;
 }
 }
 }
-else if ((N4_1Quv5 >= QoWb77AI) && (toSko < 1084848981))
+else if ((N4_1Quv5 >= QoWb77AI) && (true))
 {
 X9_0a04H6I = (int)floor(bfO1B39BE);
 }
@@ -188,7 +188,7 @@ default:
 H3YB27 = (int)abs(eri02);
 break;
 }
-if (A3dCQ <= 1941767975)
+if (true)
 {
 if ((C5_h89K_ == 1858400016) || ((T5DQAs0ZA7) && (PHJ0LO4 >= -120122347)))
 {
@@ -329,7 +329,7 @@ catch (int& errorCode)
 {
 jqfTw5mxrw *= c7oPV0d0;
 }
-if (DtjDx >= -2112474071)
+if (true)
 {
 {
 int j = 0;
@@ -359,7 +359,7 @@ break;
 }
 }
 
-if (IFf_p1Kb6n < -1925413740)
+if (false)
 {
 {
 int j = 4;
@@ -420,7 +420,7 @@ R5fmGn *= 1885045249;
 }
 else if (T5DQAs0ZA7)
 {
-if (((YhPZN4C68 <= W7wrvhn) || (G5qV7z7_Dk)) || (toSko >= 855811144))
+if (((YhPZN4C68 <= W7wrvhn) || (G5qV7z7_Dk)) || (false))
 {
 std::cout << s_Z3M2Z(lj2dYZRCX, wbPZO473Po, -558069858, 1475470914, -1829004372) << DC6D3U28() << std::endl;
 }
@@ -470,7 +470,7 @@ while (k < 2);
 }
 }
 }
-else if (oBXx4H2T == -550381287)
+else if (false)
 {
 W7wrvhn = DC6D3U28();
 }
@@ -486,7 +486,7 @@ F5kf >>= 45672018;
 while (j >= 0);
 }
 }
-else if (D5S3oN == 182639257)
+else if (false)
 {
 std::cout << QSP_ << DC6D3U28() << DC6D3U28() << s_Z3M2Z(-1444807279, R5fmGn, -676771520, -589987975, 1526165785) << YhPZN4C68 << std::endl;
 }
@@ -645,7 +645,7 @@ else
 bfO1B39BE = (int)abs(tGIJT81);
 }
 }
-else if (DtjDx <= -2636205)
+else if (false)
 {
 A3dCQ >>= 329836190;
 }
@@ -768,7 +768,7 @@ catch (int& errorCode)
 QSP_ = s_Z3M2Z(-1690529602, EuPmJH8M, 1987044040, -1673135993, toSko);
 }
 }
-else if (R5fmGn <= -1794569444)
+else if (false)
 {
 Iij8 = (unsigned int)(N4_1Quv5);
 }
@@ -785,7 +785,7 @@ while (k >= 0);
 }
 }
 }
-if (A3dCQ != 205923059)
+if (true)
 {
 std::cout << HVQJ_xLH6_ << std::endl;
 }
@@ -825,7 +825,7 @@ else if (C5_h89K_)
 {
 QSP_ = (long long)(A3dCQ);
 }
-else if (D5S3oN <= -554981929)
+else if (false)
 {
 try
 {
@@ -852,7 +852,7 @@ if (IX8MlacV == T5DQAs0ZA7)
 {
 lj2dYZRCX = s_Z3M2Z(-324255567, Iij8, toSko, -2127091069, -1815116208) * 1505808388;
 }
-else if (((R5fmGn > -924038727) && (A3dCQ & 692742168)) && ((oT7a3G4 > H3YB27) || (W7wrvhn < qPx9y)))
+else if (((true) && (A3dCQ & 692742168)) && ((oT7a3G4 > H3YB27) || (W7wrvhn < qPx9y)))
 {
 try
 {

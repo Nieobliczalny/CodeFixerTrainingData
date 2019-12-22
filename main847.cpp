@@ -75,7 +75,7 @@ int main(int argc, char** argv) {
   int  aWTx35Ztf  =  -617778472;
  unsigned long long QqVE4zyP = -1662137583;
 
-if (w4h5v <= -1412203232)
+if (false)
 {
 if (Su9_Qftsg < 1684841708)
 {

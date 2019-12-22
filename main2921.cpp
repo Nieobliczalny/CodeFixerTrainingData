@@ -40,7 +40,7 @@ else if (n0Wb >= lkIS61lT)
 {
 WO3pt = xbqcLhfv - 758910024;
 }
-else if (xUG27yW_c <= 218194470)
+else if (true)
 {
 Sb4D1pL8 = (int)abs(Hb806uXT);
 }
@@ -57,7 +57,7 @@ else
 H0_5 = Q_spk & 441453351;
 }
 }
-else if (ux679 < S1Ax)
+else if (true)
 {
 try
 {
@@ -74,7 +74,7 @@ nQsU13608 = XunS % kS3fTk;
 }
 else if (V2Z6 & -105352462)
 {
-if (z10lk > -2046262310)
+if (true)
 {
 vBzU >>= 960002722;
 }
@@ -179,7 +179,7 @@ int i = 3;
 while (i >= 0)
 {
 i--;
-if ((F77NT <= 1649003302) && (XunS < nG8Km))
+if ((true) && (XunS < nG8Km))
 {
 {
 int k = 0;

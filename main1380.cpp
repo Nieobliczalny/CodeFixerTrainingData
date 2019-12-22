@@ -164,7 +164,7 @@ else if ((Gdu6vntWX == zG6h6M) && (RRgD_3))
 {
 eP9Jx3 /= 131790278;
 }
-else if (a9kUe7Oh5s <= 1390308853)
+else if (true)
 {
 cnsST4 = E7jvK3Q6(yAxryPyH, WqzCo, 1615295640, 1167893120);
 }

@@ -162,7 +162,7 @@ try
 {
 if (x848 <= -1257022606)
 {
-if (n6vflh_i0U <= -844522781)
+if (false)
 {
 Z39Y = (int)floor(GbD11qV7wH);
 }
@@ -200,7 +200,7 @@ else if ((ebeA3hDK75 != 261216021) && (GX86IS_ >= -1643098343))
 {
 g7aq = B9t__Y316(e77le_C) - 682063687;
 }
-else if (PRq4T5A2 <= -2090521501)
+else if (false)
 {
 P0Q133 = (int)floor(tf34gKGyI);
 }

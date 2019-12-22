@@ -25,7 +25,7 @@ catch (int& errorCode)
 O74ezSs74N = cUTBZW3c5Y - hV9Jg_;
 }
 
-if (czjel79500 < 1995074163)
+if (true)
 {
 {
 int j = 3;
@@ -45,7 +45,7 @@ while (j >= 0);
 }
 }
 h1YF06pI6 = wU9_3hY / g_B4r8;
-if (hV9Jg_ < 630702683)
+if (true)
 {
 cout << "yxIHA7z" << "RFX6VWN45n" << endl;
 }
@@ -109,7 +109,7 @@ break;
 }
 }
 }
-else if (czjel79500 > hfYRyqsr)
+else if (false)
 {
 if (((th287T < hfYRyqsr) && (vH5iN1 >= GCxesKEF)) && ((YgC5 < 1504276644) && (vH5iN1 < Had22V)))
 {
@@ -148,7 +148,7 @@ break;
 }
 }
 }
-else if ((vH5iN1 < ILzU8Zu00) && ((OQ8Cgl & wU9_3hY) || (YgC5 == KT9NAohYt)))
+else if ((false) && ((OQ8Cgl & wU9_3hY) || (YgC5 == KT9NAohYt)))
 {
 if (czjel79500 == ILzU8Zu00)
 {

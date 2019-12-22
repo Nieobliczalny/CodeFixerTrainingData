@@ -261,7 +261,7 @@ a6xMD5X9U = (unsigned long long)(xnh51v01H4 + (1683909058));
 }
 
 h23AVL0N1 = (unsigned long)(A07Uu);
-if (ptnZ < ns0gI)
+if (false)
 {
 switch (Xt83)
 {

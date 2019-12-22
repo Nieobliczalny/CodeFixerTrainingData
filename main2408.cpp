@@ -125,7 +125,7 @@ do
 ++i;
 try
 {
-if ((G9Hbks5N0) && (NwYyhxA != -925398191))
+if ((G9Hbks5N0) && (true))
 {
 F2eecJ0 = ApL_sfD(276801866, -776014550, 788895877);
 }

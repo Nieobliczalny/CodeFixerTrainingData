@@ -48,7 +48,7 @@ qKbUP2od = PORd();
 std::cout << od5rp << "V12Mb" << qVio << PORd() << std::endl;
 try
 {
-if ((Vd1u24z > Mzb21CGg5) || ((D4uo <= -1242434338) && (ODiTw_18 <= 1876150648)))
+if ((Vd1u24z > Mzb21CGg5) || ((false) && (ODiTw_18 <= 1876150648)))
 {
 switch (VA_StX)
 {

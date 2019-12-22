@@ -97,7 +97,7 @@ poo84a1t = SsRvH ^ 97161749;
 }
 }
 }
-else if (O7hy >= 1169608058)
+else if (false)
 {
 dETkreZV3D = bmjfUCr(dETkreZV3D, IE2e, -73944146, N5_o060);
 }
@@ -113,7 +113,7 @@ Y3kdW = SEP0h44sS5(Y3kdW, tKFA1, 1744652582);
 }
 }
 }
-if (O7hy > -1401092788)
+if (true)
 {
 if ((qUaxFGiaI != hD7or1i) && ((bSHQqxLT > 1707325124) && (qUaxFGiaI & -1833741058)))
 {
@@ -190,7 +190,7 @@ catch (int& errorCode)
 {
 ab_2afIJ++;
 }
-if (Y3kdW != -580182240)
+if (true)
 {
 W3A_p--;
 }
@@ -246,7 +246,7 @@ for (int i = 0; i < 3; ++i)
 Y3kdW = SEP0h44sS5(901799462, j58R9e, -394449677);
 }
 
-if (((CH9jA8kG >= 2061883217) && (u45N1Z2 > 1147294314)) && (W3A_p != n659y6epY8))
+if (((CH9jA8kG >= 2061883217) && (false)) && (W3A_p != n659y6epY8))
 {
 {
 int j = 6;
@@ -381,7 +381,7 @@ xYbm6E0 *= dETkreZV3D;
 int i = 3;
 do
 {
-if (O7hy != 451096295)
+if (true)
 {
 if (W3A_p >= 49845040)
 {
@@ -424,7 +424,7 @@ if ((T6G_ & IE2e) || (rxX6 >= -1190982513))
 {
 hD7or1i = bmjfUCr(hD7or1i, SVz93r_5U, -65660820, R0H4H);
 }
-else if (b3exre == 1367869687)
+else if (false)
 {
 N5_o060 = (n659y6epY8 & qUaxFGiaI) ? SEP0h44sS5(1194986788, SVz93r_5U, 811122822) : SEP0h44sS5(hD7or1i, SVz93r_5U, WbmSp9);
 }
@@ -451,7 +451,7 @@ Rtw9OdjvE = (long long)(dETkreZV3D);
 }
 else if (((tKFA1 & -1237033210) || (XnREsI2)) || (poo84a1t == hF85SneOS))
 {
-if ((Y3kdW == 854521222) || (N5_o060 == -123096837))
+if ((false) || (N5_o060 == -123096837))
 {
 {
 int k = 0;
@@ -511,7 +511,7 @@ break;
 }
 }
 }
-else if ((CH9jA8kG == -447593242) || ((O7hy != -2108017910) || (j58R9e & R0H4H)))
+else if ((CH9jA8kG == -447593242) || ((true) || (j58R9e & R0H4H)))
 {
 r1H6Q1G20 = (int)abs(SsRvH);
 }
@@ -545,7 +545,7 @@ else if (rxX6)
 {
 poo84a1t = bmjfUCr(-1093354605, -718125611, 1028415902, SVz93r_5U);
 }
-else if (O7hy > 1346176522)
+else if (false)
 {
 bq7R -= 1982621820;
 }
@@ -568,7 +568,7 @@ bfm61Bvxa = T6G_ << lifj;
 }
 else if (ab_2afIJ >= fspI4)
 {
-if (qUaxFGiaI != -1041054076)
+if (true)
 {
 W6icE = bmjfUCr(W6icE, Q3Z61, S4fQ2, u45N1Z2);
 }
@@ -852,7 +852,7 @@ else if ((CH9jA8kG & 1221107135) || (fspI4 > -1623140762))
 {
 r1H6Q1G20 = bmjfUCr(Miv_K0OMQM, -1186793230, fspI4, 85592155) | Miv_K0OMQM;
 }
-else if (((b3exre >= -763485025) && (S4fQ2 > 153619075)) && (poo84a1t > -1594461170))
+else if (((true) && (S4fQ2 > 153619075)) && (poo84a1t > -1594461170))
 {
 lifj = xYbm6E0 % 2054507094;
 }

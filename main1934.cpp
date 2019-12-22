@@ -24,7 +24,7 @@ int main(int argc, char** argv)
 
 p_8o800s = n5Ev2 / gSmb;
 
-if (p_8o800s > SU2Y4_6)
+if (false)
 {
 {
 int j = 4;
@@ -43,7 +43,7 @@ k19JJ7 = (int)abs(gSmb);
 }
 }
 
-if (qH700D == N_12S_3)
+if (false)
 {
 for (int j = 1; j >= 0; --j)
 {
@@ -53,7 +53,7 @@ siz9Ze = j_2e();
 }
 }
 }
-else if (u9Lkngb7a == Xfyab)
+else if (false)
 {
 switch (u9Lkngb7a)
 {
@@ -71,7 +71,7 @@ R4Up = egpA3j / 1477534539;
 break;
 }
 }
-else if (tLL3 != -455916263)
+else if (true)
 {
 if (FnmrYJWG8 < Xfyab)
 {
@@ -93,7 +93,7 @@ k19JJ7 = j_2e();
 while (j >= 0);
 }
 }
-else if (l0Dj5fkJ4M == u22v)
+else if (false)
 {
 try
 {
@@ -112,7 +112,7 @@ catch (int& errorCode)
 BK31X = vRmAQaIa1 ^ 1398695654;
 }
 }
-else if (WDu15s_ == SU2Y4_6)
+else if (false)
 {
 cout << siz9Ze << "Z2G146" << j_2e() << A3p2mc_v << endl;
 }
@@ -133,7 +133,7 @@ if (X_HF5 & 2024484696)
 {
 htnc45cb = (unsigned short int)(u22v);
 }
-else if (lRoV != Xfyab)
+else if (true)
 {
 switch (l0Dj5fkJ4M)
 {
@@ -152,7 +152,7 @@ else if (hvCvj != k_y3hq1R)
 {
 gSmb = j_2e();
 }
-else if ((AN_0b >= -184761049) && (f8hmYkk7x1 != SU2Y4_6))
+else if ((true) && (f8hmYkk7x1 != SU2Y4_6))
 {
 try
 {

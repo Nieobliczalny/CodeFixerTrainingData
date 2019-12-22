@@ -135,7 +135,7 @@ else if (aG3__t)
 {
 K9NtI9K = rxiKPTz / 768069524;
 }
-else if (rxiKPTz >= G446I_14q)
+else if (true)
 {
 rxiKPTz = IgZy_3NW4();
 }

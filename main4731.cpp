@@ -78,7 +78,7 @@ int main(void)
 zUF0G = HlKhr2(a92Qs) | 1143611925;
 
 std::cout << iFM4 << iHd2E_1n7l << "N78hHK24w" << HlKhr2(a92Qs) << "T81ppP0Zb" << std::endl;
-if (ZbUbJhF0v == -2053717908)
+if (false)
 {
 if (TC2iTe & 1215297092)
 {
@@ -149,7 +149,7 @@ if (PqlwJNQ6o2 > -1956007815)
 {
 PzJnS = T4HJl5(-834790290) - 1573061686;
 }
-else if ((a92Qs < OSz7z_od7) || ((iHd2E_1n7l >= -1082445566) && (iFM4 == 726271231)))
+else if ((a92Qs < OSz7z_od7) || ((true) && (iFM4 == 726271231)))
 {
 for (int j = 1; j >= 0; --j)
 {
@@ -181,7 +181,7 @@ else if ((ZE07dBv3 == TC2iTe) && (yxey6APQ54 != 492709034))
 {
 X4n7 = rHKVm(-367044036, -311520393, ZlKb8m8_f, iFM4, 337038576);
 }
-else if (p3lhzi56AA >= 42981642)
+else if (false)
 {
 if (dGLQ4wII != -288517089)
 {
@@ -226,7 +226,7 @@ ZlKb8m8_f = rHKVm(1095926765, 212915143, zUF0G, slclOCG, yxey6APQ54);
 break;
 }
 slclOCG = (int)ceil(Mi9pji);
-if (a92Qs >= 325413671)
+if (false)
 {
 n9u51 = (int)ceil(Mi9pji);
 }
@@ -237,7 +237,7 @@ while (i >= 0)
 {
 if (PqlwJNQ6o2)
 {
-if (ZbUbJhF0v != -1810920705)
+if (true)
 {
 iHd2E_1n7l = rHKVm(ZlKb8m8_f, PzJnS, zUF0G, -1278774520, -2023808468) * ZE07dBv3;
 }
@@ -307,7 +307,7 @@ while (i >= 0);
 }
 if (((dGLQ4wII == -1837596995) || (jwT_)) && ((PqlwJNQ6o2) && (QTk6 & 894507791)))
 {
-if (((zUF0G == p57_) && (Mi9pji)) && ((ZbUbJhF0v < -1781426169) || (Ci3r_q_jw1 <= 1442494485)))
+if (((zUF0G == p57_) && (Mi9pji)) && ((false) || (Ci3r_q_jw1 <= 1442494485)))
 {
 {
 int k = 7;
@@ -371,7 +371,7 @@ if (iFM4 < -550871144)
 {
 zUF0G *= ZE07dBv3;
 }
-else if (ZbUbJhF0v == -1488973157)
+else if (false)
 {
 p57_ = T4HJl5(yzyK) % 1078048209;
 }
@@ -383,7 +383,7 @@ else if (X4n7)
 {
 iFM4 &= 1019371900;
 }
-else if (t_erx >= 1995791278)
+else if (false)
 {
 OSz7z_od7 <<= TC2iTe;
 }
@@ -396,7 +396,7 @@ else
 t_erx /= 1984308453;
 }
 }
-else if ((iFM4 != 512486933) || (ZE07dBv3 >= 335247377))
+else if ((iFM4 != 512486933) || (false))
 {
 std::cout << PqlwJNQ6o2 << "X6Y_PSPExK" << std::endl;
 }
@@ -410,7 +410,7 @@ else if ((p57_) && (PqlwJNQ6o2 >= 934214080))
 {
 a92Qs = (int)abs(slclOCG);
 }
-else if (O9g_KGej9 == -1302058575)
+else if (false)
 {
 oJv_ |= 1410473448;
 }

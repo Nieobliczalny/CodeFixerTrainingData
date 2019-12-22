@@ -59,7 +59,7 @@ gqdqPN18h4 = X4pG3();
 
 if (gqdqPN18h4 > S6ARXmcJa)
 {
-if ((v91VGxS6s > -568196059) || ((WA6L8FXp8 <= eWJ_8OZ3Yd) && (mi4a27gj6G != 2112016392)))
+if ((true) || ((WA6L8FXp8 <= eWJ_8OZ3Yd) && (mi4a27gj6G != 2112016392)))
 {
 OA_x = vCv796 | z96_Z_IB;
 }
@@ -93,7 +93,7 @@ while (i < 10);
 vCv796 = (short)(r0y2T810f);
 d_7_1bCZ61 = X4pG3();
 
-if (((mi4a27gj6G > s0gDax) || (m_Ln4Cq < -1723810581)) || (Q75d6 > -528429455))
+if (((mi4a27gj6G > s0gDax) || (false)) || (Q75d6 > -528429455))
 {
 try
 {
@@ -152,7 +152,7 @@ dQIPxK8G34 = (long)(hU8pZR * (s0gDax));
 }
 xrUuT <<= 1784928715;
 
-if (S6ARXmcJa < r0y2T810f)
+if (true)
 {
 cout << traSZ(-805276410) << X4pG3() << WA6L8FXp8 << endl;
 }
@@ -167,7 +167,7 @@ else
 cout << traSZ(eWJ_8OZ3Yd) << "t0Vxuo" << X4pG3() << z23p(eWJ_8OZ3Yd, q6Uy, cluGF) << "r8TT7" << endl;
 }
 }
-else if (J75plEZb == -1876807553)
+else if (false)
 {
 cout << E1T6T_H << traSZ(eWJ_8OZ3Yd) << m_Ln4Cq << vCv796 << "YALIm" << endl;
 }
@@ -197,7 +197,7 @@ else
 {
 xrUuT = (vbdD4Qx03 < q6Uy) ? k30v : traSZ(1388651057);
 }
-if (SOG8io25az >= 560518376)
+if (false)
 {
 if (WA6L8FXp8 >= -583435967)
 {
@@ -211,7 +211,7 @@ vbdD4Qx03 >>= q6Uy;
 break;
 }
 }
-else if (((dQIPxK8G34 != 5813239) && (gqdqPN18h4 > zlaY)) && (d_7_1bCZ61 >= zlaY))
+else if (((dQIPxK8G34 != 5813239) && (true)) && (d_7_1bCZ61 >= zlaY))
 {
 l8BL1APg = (long)(vbdD4Qx03 * (s0gDax));
 }
@@ -226,7 +226,7 @@ k--;
 }
 }
 }
-else if (vbdD4Qx03 >= -1677659685)
+else if (true)
 {
 l8BL1APg = z23p(gqdqPN18h4, l8BL1APg, -1742856143);
 }
@@ -281,7 +281,7 @@ else if (xrUuT < f76aw)
 {
 gqdqPN18h4 = (int)abs(dQIPxK8G34) + (1799933740);
 }
-else if (q6Uy < r0y2T810f)
+else if (true)
 {
 ObvO11 = X4pG3();
 }
@@ -304,7 +304,7 @@ if ((xrUuT < mi4a27gj6G) && ((gqdqPN18h4) || (xrUuT > JfF0)))
 {
 z96_Z_IB /= OA_x;
 }
-else if ((f76aw < -1878820248) && (cluGF == k30v))
+else if ((false) && (cluGF == k30v))
 {
 S6ARXmcJa = X4pG3();
 }
@@ -355,7 +355,7 @@ else
 xrUuT &= 297311568;
 }
 }
-else if (Ee1fbc1m <= r0y2T810f)
+else if (true)
 {
 try
 {

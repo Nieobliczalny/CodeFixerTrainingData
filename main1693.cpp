@@ -240,7 +240,7 @@ pmd6 /= z0IeL;
 break;
 case 'd':
 case 'D':
-pmd6 = (M6Ump < -1932926557) ? eu5Yr_mL : QVjF;
+pmd6 = (false) ? eu5Yr_mL : QVjF;
 break;
 }
 }
@@ -280,7 +280,7 @@ int i = 0;
 while (i < 5)
 {
 i++;
-if (eu5Yr_mL < 1585870150)
+if (true)
 {
 PHTS = r4WFu52BM | I_PsmO;
 }

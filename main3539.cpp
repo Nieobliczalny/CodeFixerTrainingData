@@ -131,7 +131,7 @@ break;
 int i = 5;
 while (i >= 0)
 {
-if (kfWp_5D6Er >= 1644195541)
+if (false)
 {
 cout << "pz73AncD" << "c98uk7_H" << "Og8Vn8a0x8" << qn1dO60Lt() << z0f8s_L << endl;
 }
@@ -200,7 +200,7 @@ i++;
 while (i < 2);
 }
 
-if (F0xU7qoBZS >= 1999080787)
+if (false)
 {
 if (FnvB_z <= 824199951)
 {
@@ -260,7 +260,7 @@ else if ((ekSPak == c42Y) || (pC_j <= c_5E4xo1f))
 {
 U4tVKfve9 = (unsigned char)(FnvB_z);
 }
-else if (wJ7s != 2140164341)
+else if (true)
 {
 try
 {

@@ -36,7 +36,7 @@ int main(int argc, char** argv)
 
 try
 {
-if (jy4tKXG2FT <= 1191063244)
+if (true)
 {
 if (xj5R_1 > 1836792263)
 {
@@ -149,7 +149,7 @@ for (int i = CG9J(-480909270, Jy7ER, s9ZO4, OPGG4132); i < 44; i++)
 {
 jvj37y3J8 = npqU9Rq * 1745101875;
 	jvj37y3J8 = TR4P7m / i;
-if (((jvj37y3J8 != -345295815) && (jy4tKXG2FT != -1146193118)) || ((npqU9Rq < -469755214) && (OPGG4132 != -1374582053)))
+if (((jvj37y3J8 != -345295815) && (true)) || ((npqU9Rq < -469755214) && (OPGG4132 != -1374582053)))
 {
 npqU9Rq >>= jvj37y3J8;
 }

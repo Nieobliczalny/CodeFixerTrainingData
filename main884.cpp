@@ -73,7 +73,7 @@ int j = 8;
 do
 {
 --j;
-if (qnkI4V531 > 412948554)
+if (false)
 {
 z97_w = WC_bzrB6(z97_w);
 }

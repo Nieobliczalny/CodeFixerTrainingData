@@ -113,7 +113,7 @@ Dq30Qyj = (int)ceil(WQFRk);
 
 try
 {
-if ((r6_Zb != 1680666441) && (E4aqgVtsA3 == -81669089))
+if ((true) && (E4aqgVtsA3 == -81669089))
 {
 {
 int k = 2;
@@ -146,7 +146,7 @@ catch (int& errorCode)
 WQFRk = (int)floor(Dq30Qyj);
 }
 
-if (s9_EG >= 802098663)
+if (false)
 {
 Bl31J4 = (unsigned int)(Dq30Qyj * Bl31J4);
 }
@@ -156,7 +156,7 @@ int i = 9;
 while (i >= 0)
 {
 i--;
-if (cAH64127v == -1177845821)
+if (false)
 {
 if (s9_EG > -679683270)
 {
@@ -214,7 +214,7 @@ if (((KU__qAj != -1064187289) && (r6_Zb & 949616474)) || (Re_o > jLu2E6))
 {
 bI8q2PZ0I = (int)abs(jLu2E6) * 0;
 }
-else if (E4aqgVtsA3 > 385308982)
+else if (false)
 {
 s9_EG = s9_EG & 519635277;
 }

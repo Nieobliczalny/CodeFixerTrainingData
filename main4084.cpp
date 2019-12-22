@@ -73,7 +73,7 @@ j--;
 while (j >= 0);
 }
 }
-else if ((yo05rQ < 210868000) && (pp75zNu & -917694022))
+else if ((true) && (pp75zNu & -917694022))
 {
 cU0a = IORw();
 }
@@ -105,7 +105,7 @@ j--;
 
 YqNYy9 = Ft2K9(cU0a, F7pcFom0W, pW9a2l8tt8);
 
-if (DJ8EkG67QG != 143430989)
+if (true)
 {
 std::cout << Ft2K9(-1483195279, 1980808493, 594609583) << std::endl;
 }
@@ -182,7 +182,7 @@ int i = 9;
 while (i >= 0)
 {
 --i;
-if (m4_k8cyC > -1980292955)
+if (true)
 {
 Kvolv1 &= gREig22;
 }

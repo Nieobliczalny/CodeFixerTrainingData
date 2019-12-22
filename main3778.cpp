@@ -94,7 +94,7 @@ Nh_2 = (long double)(KoCRBttKXH);
 
 if (HWLU4)
 {
-if (H13p > 1371181153)
+if (false)
 {
 switch (H13p)
 {
@@ -118,7 +118,7 @@ U4pNBw2EG = (int)floor(Qv5Kyl);
 break;
 }
 }
-else if (H13p >= k7Zd0)
+else if (true)
 {
 for (int k = 1; k >= 0; --k)
 {

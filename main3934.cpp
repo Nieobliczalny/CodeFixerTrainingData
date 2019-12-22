@@ -148,7 +148,7 @@ iWq534w5 /= 1293911800;
 
 cout << GYpZ359963 << "Z5J8oxOBTI" << endl;
 
-if ((C37Ab > 843895974) || (RQq453413 > ZV950yEq))
+if ((false) || (RQq453413 > ZV950yEq))
 {
 {
 int j = 0;
@@ -415,7 +415,7 @@ else if (bozzpFj != 995007583)
 {
 Rp7VH = (long double)(qkWj);
 }
-else if ((pxm96w14G) || (i8qC == -783322842))
+else if ((pxm96w14G) || (false))
 {
 if (A6BiQ3PY < k_T_z)
 {
@@ -483,7 +483,7 @@ case 2:
 Jq4hjn = ah4r8s7 / H58cQYR1;
 break;
 case 3:
-V50PwcM = (C37Ab > -1933161696) ? 436655816 : WP_1;
+V50PwcM = (true) ? 436655816 : WP_1;
 break;
 case 4:
 Hf__Bl_mZb = (GYpZ359963 == 645664861) ? kGC1w : 1584847846;

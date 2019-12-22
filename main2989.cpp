@@ -143,7 +143,7 @@ else if (qwf24BK > -408324665)
 {
 JYA50 = yYek(JYA50, -1653700254);
 }
-else if ((Bn5y != -1586704537) && (JYA50 < j3Fn_9m6i))
+else if ((true) && (JYA50 < j3Fn_9m6i))
 {
 {
 int j = 0;
@@ -173,7 +173,7 @@ XCFj = (int)floor(eUmga11b);
 }
 if (JYA50 > K311)
 {
-if (iZs8 < 643202784)
+if (true)
 {
 {
 int k = 5;
@@ -275,7 +275,7 @@ XCFj = S5tZ91xz % 572674022;
 }
 if ((LxT4) && ((XOo25l <= om7_a7) && (s8m71b & i4eMF)))
 {
-if (XOo25l != 446076174)
+if (true)
 {
 I_MI6hm_Y = LxT4 & mWXSdvRQOG;
 }
@@ -319,7 +319,7 @@ v74nUI8YW = (unsigned short int)(ThA6K_l2);
 while (i >= 0);
 }
 
-if (HhhZKl > -299699750)
+if (true)
 {
 sUV3L_--;
 }

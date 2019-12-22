@@ -338,7 +338,7 @@ cout << "rI7K" << qLdx793I << endl;
 int i = 7;
 while (i >= 0)
 {
-if ((p3N7m <= 1956408253) || (qY4vv09 >= 226499135))
+if ((true) || (qY4vv09 >= 226499135))
 {
 try
 {

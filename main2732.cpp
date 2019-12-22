@@ -41,7 +41,7 @@ TD41f0I = R8q2cB6J ^ v9_g01L;
 OpSQ2Ke = (float)(qAh43 + (-1797064036));
 Bc58g4T = (unsigned int)(V4gCom__v3);
 
-if (Ww_1F >= -1890378593)
+if (true)
 {
 KctCJ >>= 1014197427;
 }

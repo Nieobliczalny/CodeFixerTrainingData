@@ -180,7 +180,7 @@ l489GH4N = -703597860 / dDLpUi(344645363, 296225288);
 
 for (int i = 0; i < 2; ++i)
 {
-if ((Vzw7j6 > E35K_) || (yc7_PW1QC != 1424929294))
+if ((Vzw7j6 > E35K_) || (true))
 {
 if (HLfrZKl45 & UaFG)
 {
@@ -252,7 +252,7 @@ d_pz8xY69P /= 925455761;
 }
 else
 {
-if (((LpIOkt != 837612952) || (yc7_PW1QC >= UaFG)) || (e4rci1 & JzL_u6Cr1))
+if (((true) || (yc7_PW1QC >= UaFG)) || (e4rci1 & JzL_u6Cr1))
 {
 ZdOG7--;
 }
@@ -265,7 +265,7 @@ i++;
 }
 }
 
-if (V76PG3 > 656234908)
+if (false)
 {
 for (int j = 3; j >= 0; --j)
 {
@@ -278,7 +278,7 @@ Ga_rU /= 1415579321;
 }
 for (int i = 6; i >= 0; --i)
 {
-if ((LpIOkt == -802604385) && (eM1SCPe >= BBcKl8))
+if ((false) && (eM1SCPe >= BBcKl8))
 {
 std::cout << U23E << dDLpUi(auS7, Ga_rU) << std::endl;
 }

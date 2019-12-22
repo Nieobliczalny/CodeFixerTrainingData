@@ -186,7 +186,7 @@ else
 {
 std::cout << q8lrCno_p() << s_fv9u8 << S5sYj2_s_Q << M9D6_5L << "f7Rjv" << std::endl;
 }
-if ((lb6m460Y > 1426652248) || (w2CSDEn <= rphL_8t9))
+if ((false) || (w2CSDEn <= rphL_8t9))
 {
 switch (uhfc)
 {
@@ -494,7 +494,7 @@ rphL_8t9 = (int)floor(M9D6_5L);
 int i = 0;
 do
 {
-if (Bo4V0Krjun > -1462977022)
+if (true)
 {
 s_fv9u8 = (int)abs(y839L_T) * 0;
 }

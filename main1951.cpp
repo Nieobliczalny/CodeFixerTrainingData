@@ -70,7 +70,7 @@ yD_djzEe41 = tt4j8 - 1361424557;
 
 for (int i = 9; i >= 0; i--)
 {
-if (n7Yg != 783871238)
+if (true)
 {
 QAOn17 = Cz2ww0nHd1(n7Yg, 1653732358);
 }
@@ -143,7 +143,7 @@ while (j < 8);
 cout << "e56JX6br" << endl;
 try
 {
-if (tt4j8 >= 90522779)
+if (false)
 {
 if ((YMcpNFG6) || (yD_djzEe41 != -230248110))
 {
@@ -153,7 +153,7 @@ else if (YMcpNFG6 & tt4j8)
 {
 QAOn17 -= yD_djzEe41;
 }
-else if (n7Yg <= -1712323136)
+else if (false)
 {
 QAOn17 |= 1352938909;
 }
@@ -236,7 +236,7 @@ int i = 0;
 while (i < 5)
 {
 i++;
-if (tt4j8 != 59085312)
+if (true)
 {
 tt4j8 = SsDVwG06Y(yD_djzEe41, tt4j8, -1272904122);
 }
@@ -281,7 +281,7 @@ i++;
 while (i < 1);
 }
 cout << "NMfs" << SsDVwG06Y(xpEH, -1881707731, -996399629) << F24y_Nmf << "M4xs_IPhX" << endl;
-if (tt4j8 > 1574026490)
+if (false)
 {
 if (yD_djzEe41 < -1614935633)
 {

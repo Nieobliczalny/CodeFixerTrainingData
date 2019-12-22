@@ -153,7 +153,7 @@ while (i < 8);
 std::cout << n358_pM7 << Kz9WO93L << ZGXFndKEm(CEBijw7Zm4, 1328633417) << lWr81 << "L0qa6Z" << std::endl;
 for (int i = 9; i >= 0; --i)
 {
-if (Jy52W_sY <= 967331446)
+if (true)
 {
 if (T918l != s1B3)
 {
@@ -174,7 +174,7 @@ while (k < 2);
 }
 }
 
-if ((IdwI8Ef_7l < l0_c9Y) || ((Lx8bEnEn == -1066150494) || (DjnX_4w5 > 1565502659)))
+if ((IdwI8Ef_7l < l0_c9Y) || ((false) || (DjnX_4w5 > 1565502659)))
 {
 try
 {
@@ -293,7 +293,7 @@ j8iM = fuQg6sk - Gw9d9;
 aK919 = (unsigned long long)(PzhQ0p_);
 
 DK95Tql17M = EBHbN3vGP();
-if (((txCXQ_0G3H > 905885565) && (H88GWVT >= -915977276)) || (vDcZIG_C_7 > QiRF3qs3w))
+if (((false) && (H88GWVT >= -915977276)) || (vDcZIG_C_7 > QiRF3qs3w))
 {
 DK95Tql17M = QZeO95(DK95Tql17M, -605609747, l_5_V8_f, -796620491, 830036655);
 }

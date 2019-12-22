@@ -162,7 +162,7 @@ int i = 3;
 do
 {
 i--;
-if (ww79vKU5k == 311833618)
+if (false)
 {
 std::cout << VD2Z7137DO(-894549999) << "rfkRzR2G" << "vgEU4i" << ecZh2W << DnhPJ4Hg(M7nFFViLD4) << std::endl;
 }
@@ -176,7 +176,7 @@ m6pzKW5 = VD2Z7137DO(MWAWKI1);
 }
 else
 {
-if (R_kFr6WBH7 >= 1390374180)
+if (false)
 {
 qT1Ty60 = Q913GXYg3i ^ I3J80tz11y;
 }
@@ -260,7 +260,7 @@ j++;
 }
 }
 }
-else if ((Z_mA75XNd == 196475376) || (Z_mA75XNd & MWAWKI1))
+else if ((false) || (Z_mA75XNd & MWAWKI1))
 {
 if ((D3_Eh8PeS < -646574703) || (ww79vKU5k))
 {
@@ -326,7 +326,7 @@ else
 {
 G77D = (int)abs(Oa7wvf03B);
 }
-if (K480t__2V == -1102539058)
+if (false)
 {
 if (MuICue0pnC < tUNx74G9)
 {
@@ -363,7 +363,7 @@ while (j >= 0);
 }
 else if (lAOj7U14Ie > cq35kv30)
 {
-if ((GiWp6640 <= -1819812871) || (HA11wO98_J > -457014038))
+if ((false) || (HA11wO98_J > -457014038))
 {
 if (N33d6JO > Q913GXYg3i)
 {
@@ -399,7 +399,7 @@ vkBivU = (int)abs(rxoO);
 
 UEo8 = A5JouFSc8l / VD2Z7137DO(Oa7wvf03B);
 
-if (K45_EYI == 1001353412)
+if (false)
 {
 for (int j = 0; j < 4; j++)
 {
@@ -413,7 +413,7 @@ t5wBBj3 = V11q91B(t5wBBj3, R_kFr6WBH7);
 }
 }
 }
-else if ((qT1Ty60 <= -1662915135) && (K45_EYI == -1184217232))
+else if ((false) && (K45_EYI == -1184217232))
 {
 G77D = (int)floor(N33d6JO);
 }
@@ -425,7 +425,7 @@ else if (R7Y3Q)
 {
 Qb3a = (double)(R_kFr6WBH7);
 }
-else if (((eHxvVN < 1168540762) && (F6l4_GII9 <= UEo8)) || ((MWAWKI1 != -396600758) && (tUNx74G9 != -106565484)))
+else if (((eHxvVN < 1168540762) && (F6l4_GII9 <= UEo8)) || ((MWAWKI1 != -396600758) && (true)))
 {
 if (hW4kb == At7ikzI6)
 {
@@ -452,7 +452,7 @@ else if (oJu_d)
 {
 Z_mA75XNd = (int)abs(t496y);
 }
-else if ((I3J80tz11y >= -796462911) || (wf5f != 1715904636))
+else if ((I3J80tz11y >= -796462911) || (true))
 {
 hW4kb >>= aOah7_8;
 }
@@ -637,7 +637,7 @@ else if (eHxvVN >= H9i6)
 {
 dpzoQ1I1x5 = V11q91B(-460190613, R_kFr6WBH7);
 }
-else if (((Qb3a > GiWp6640) && (wf5f >= 1915938614)) && ((G77D > -314076437) && (Qb3a != -1952369536)))
+else if (((Qb3a > GiWp6640) && (false)) && ((G77D > -314076437) && (Qb3a != -1952369536)))
 {
 for (int j = 1; j >= 0; --j)
 {
@@ -663,7 +663,7 @@ F6l4_GII9 = (int)abs(rxoO);
 while (j < 10);
 }
 }
-else if (m3cM0U2n == 576010483)
+else if (false)
 {
 if ((ovB6 != 1971594442) && (A2_ac54Le8 >= H9i6))
 {

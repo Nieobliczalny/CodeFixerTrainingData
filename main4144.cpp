@@ -75,7 +75,7 @@ int i = 0;
 do
 {
 ++i;
-if (t87ES > S_Gp6R_jO)
+if (false)
 {
 {
 int k = 0;

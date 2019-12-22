@@ -144,7 +144,7 @@ int main(void)
 	double	AgVIXwsW	=	-544256806;
 
 DsU2I = BqK1p43 / I62_44Z;
-if (R4PkE < -1118167081)
+if (false)
 {
 if ((EE5Bavt60 < D0Eo4oWe3) || (pTYp < 871134913))
 {
@@ -165,7 +165,7 @@ Az56Cowo6 = (int)floor(S3CcL);
 }
 }
 }
-else if ((Z_023TTm4 != 1315476418) || (onj_aW != -462852004))
+else if ((true) || (onj_aW != -462852004))
 {
 rATYBk30X = (unsigned int)(t9Ilj20);
 }

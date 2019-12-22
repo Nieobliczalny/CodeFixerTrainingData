@@ -78,7 +78,7 @@ Zk5X9Z1kI = xYk514x / 692728253;
 }
 else if ((xYk514x) || (QE0QYs5A3))
 {
-if (J4d4wWlt == fadk3lWoS3)
+if (false)
 {
 QE0QYs5A3 >>= No0po;
 }
@@ -104,7 +104,7 @@ int i = 2;
 do
 {
 i--;
-if (zRz8x != -1215105255)
+if (true)
 {
 OX_IZZKj66 = (int)(hntMUd + (1272556327));
 }
@@ -246,7 +246,7 @@ while (k < 10);
 }
 }
 }
-else if ((RXCQv != EEyk0) && (UUs_g <= -437481397))
+else if ((RXCQv != EEyk0) && (false))
 {
 UD0S23lrJ = j_28h88qH3 ^ 1889476813;
 }
@@ -320,7 +320,7 @@ catch (int& errorCode)
 {
 h7iEg = (int)ceil(Md0lX);
 }
-if (xYk514x < 1791831396)
+if (true)
 {
 std::cout << zRz8x << "WCQR15" << std::endl;
 }

@@ -23,7 +23,7 @@ int i = 0;
 do
 {
 ++i;
-if (GL9Z4XLt < -1930385076)
+if (false)
 {
 if (xW1BE7Pd == mYTNKC)
 {
@@ -73,7 +73,7 @@ M6Lgtzwj_ = t_P83mGvlg & SfM8iL_;
 break;
 case 'd':
 case 'D':
-f17eLuuxr = (k_0O == -1846947396) ? S03e5b4 : SfM8iL_;
+f17eLuuxr = (false) ? S03e5b4 : SfM8iL_;
 break;
 case 'e':
 case 'E':

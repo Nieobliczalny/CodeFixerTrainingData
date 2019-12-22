@@ -213,7 +213,7 @@ else if (NX40)
 {
 Ib9V9V7 = jp2F7Gr6rb - cwrd_K1C;
 }
-else if (jsbOLu == 487634353)
+else if (false)
 {
 {
 int j = 0;
@@ -225,7 +225,7 @@ PLH5t0vs = (int)abs(g6Ozv);
 while (j < 7);
 }
 }
-else if (MqCSEMZ188 > -764893231)
+else if (true)
 {
 try
 {

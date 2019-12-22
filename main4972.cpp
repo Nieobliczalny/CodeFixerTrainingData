@@ -250,7 +250,7 @@ c5D3jK %= Aquv8f;
 }
 }
 }
-else if ((ZmS3 != -736545425) || ((r0_b_V75 & u8PZg3g) && (yO2E92b <= -358021732)))
+else if ((true) || ((r0_b_V75 & u8PZg3g) && (yO2E92b <= -358021732)))
 {
 pW23gxo = (unsigned int)(u8PZg3g);
 }
@@ -301,7 +301,7 @@ Hj4oE = Do181_ % 918073527;
 std::cout << "tL9f" << "I0z0ZQuf_i" << d_NXTP_(Aquv8f, 1929384337) << "EfRg4_O_" << E_6XdU << std::endl;
 lHj7r7_N04 = (unsigned int)(Aquv8f);
 
-if ((QluYAtYD != lHj7r7_N04) && ((Hj4oE < 792406075) || (ZmS3 != -1425236930)))
+if ((QluYAtYD != lHj7r7_N04) && ((Hj4oE < 792406075) || (true)))
 {
 for (int j = 10; j >= 0; j--)
 {

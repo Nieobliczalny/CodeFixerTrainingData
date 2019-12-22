@@ -188,7 +188,7 @@ std::cout << HNXy2T1NA << aH6E << "UUoiu" << std::endl;
 std::cout << tRf7Y(U_KHnmQe, dt8FSCdwF, k7a7, oP11l_, POdh83fn) << Y__WeZ5(U_KHnmQe, dt8FSCdwF) << tRf7Y(U_KHnmQe, dt8FSCdwF, k7a7, 775708212, 818681287) << std::endl;
 if (hpKBb8 & BgVTS)
 {
-if (C1zA < -532293779)
+if (false)
 {
 U_KHnmQe = kexq >> YD5U4VW;
 }
@@ -208,7 +208,7 @@ try
 int j = 9;
 do
 {
-if (oP11l_ <= -109447199)
+if (false)
 {
 jkyl_ = tRf7Y(827681862, 329620203, wY9x0238, -1681680513, -411829642);
 }
@@ -312,7 +312,7 @@ if ((dt8FSCdwF & n561f) || (Q_H_u4 == 359320542))
 {
 toHbsH5eOM /= 914725165;
 }
-else if (lCCdP2 < -891808122)
+else if (false)
 {
 j120F0 = (int)abs(U_KHnmQe);
 }

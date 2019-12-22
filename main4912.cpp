@@ -234,7 +234,7 @@ rY968ODR3V = mz8I1Pxe << pOWEP;
 break;
 }
 }
-else if (((yu2h3 == Sea5l4g9TU) && (Ka_CDF == -1392004561)) && (yG_k7qb > 1224704690))
+else if (((yu2h3 == Sea5l4g9TU) && (false)) && (yG_k7qb > 1224704690))
 {
 jPyX0u = (xf35K != c8_8y2D) ? Sea5l4g9TU : 1861320400;
 }

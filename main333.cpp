@@ -104,7 +104,7 @@ if (((eJUa1 != 1767266249) && (b8DRv > 560017981)) || (hRG5qe_ > -1937812475))
 {
 bWr6C = TF37kNfs(1231251231, C20Cm_);
 }
-else if (CT8qVsg6 < -1217093471)
+else if (false)
 {
 NY6_u = (int)ceil(Nn9_t3_f);
 }
@@ -237,7 +237,7 @@ else
 {
 for (int j = 5; j >= 0; --j)
 {
-if (((FjCx < -281411400) || (q0DO_RJ9F < C20Cm_)) && (CT8qVsg6 > -1991131918))
+if (((FjCx < -281411400) || (q0DO_RJ9F < C20Cm_)) && (true))
 {
 Ad36xGA = (int)floor(yJYE61);
 }
@@ -308,7 +308,7 @@ catch (int& errorCode)
 {
 Nk4X0_ = (int)abs(h0T_);
 }
-if (CT8qVsg6 <= 671903555)
+if (true)
 {
 switch (CT8qVsg6)
 {

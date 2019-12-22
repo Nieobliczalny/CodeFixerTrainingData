@@ -15,7 +15,7 @@ int main(void) {
     fk_1r2T  =  FjPBm7Yq  =  0;
 
 qIgP = EuLRHLG_ % C3PwItl9;
-if (RDm5bY > -1065588054)
+if (true)
 {
 for (int j = 0; j < 8; j++)
 {
@@ -40,7 +40,7 @@ if (UKD69b6g96 & -22070266)
 {
 l0Y1ow <<= Sa71doc;
 }
-else if (pE2uy == 287979566)
+else if (false)
 {
 TabvV++;
 }
@@ -161,7 +161,7 @@ case 'g':
 Qf_bqbQ = kW_SW299_ ^ 1082912304;
 break;
 case 'h':
-hxF58S6O = (q58Rh20TA == -959178288) ? 600765256 : YBTxQ;
+hxF58S6O = (false) ? 600765256 : YBTxQ;
 break;
 case 'i':
 bf9H9 += fk_1r2T;
@@ -207,7 +207,7 @@ QLqT3CZ = yBS6006 << B5Dv91Ui9;
 break;
 }
 
-if (RJsx < -2040327807)
+if (false)
 {
 {
 int j = 0;
@@ -236,7 +236,7 @@ kW_SW299_ |= Aj2cc;
 }
 }
 
-if ((ZS5a5955_ <= 1684087746) || (MPA_vxsgSy & X49UB3mo))
+if ((true) || (MPA_vxsgSy & X49UB3mo))
 {
 for (int j = 0; j < 10; ++j)
 {

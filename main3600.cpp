@@ -100,7 +100,7 @@ UEvy_1Jb = (int)abs(QZE6Lny);
 
 UEvy_1Jb = bxCI3RZ << Pxo3o53I;
 
-if ((bKQ_Cz76b <= o2aiYIW4Ne) || (bxCI3RZ))
+if ((true) || (bxCI3RZ))
 {
 switch (mf5ncu52X)
 {
@@ -137,7 +137,7 @@ else if ((bJsP6yFe6j < V6l87s) && ((bJsP6yFe6j == OPfwP) || (c3OsaAr)))
 {
 QZE6Lny = (int)abs(ZYD9KI);
 }
-else if (((RgQ60VAc8 > -814593224) && (hvFnA0_ >= V6l87s)) || ((Ty3iF == OPfwP) && (hvFnA0_ == ZYD9KI)))
+else if (((true) && (hvFnA0_ >= V6l87s)) || ((Ty3iF == OPfwP) && (hvFnA0_ == ZYD9KI)))
 {
 for (int j = 0; j < 5; ++j)
 {

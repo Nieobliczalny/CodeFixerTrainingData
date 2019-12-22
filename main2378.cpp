@@ -78,7 +78,7 @@ else if (b9bJT7xR != sl5_Q1f)
 {
 Pw8blCl0 = f5E8g90q(1260082802, Pw8blCl0);
 }
-else if ((X1LRvufJ & 2037333900) && ((mvioXcA) || (mvioXcA <= -1082883950)))
+else if ((X1LRvufJ & 2037333900) && ((mvioXcA) || (false)))
 {
 zyv9JTl = R0oX6waaJz + asxCo_;
 }
@@ -103,7 +103,7 @@ JKRq = (int)abs(asxCo_) * 0;
 }
 for (int i = 0; i < 8; i++)
 {
-if (X1LRvufJ == -1952159899)
+if (false)
 {
 {
 int k = 10;

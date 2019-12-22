@@ -142,7 +142,7 @@ if (Crx732 == cwcj05_tqq)
 {
 cwcj05_tqq = (int)abs(Yd044H);
 }
-if (((AdGy9s == -5918519) || (n3Zd186)) || ((f9qa9q <= Bhkx7H) || (n3Zd186 == 781882443)))
+if (((false) || (n3Zd186)) || ((f9qa9q <= Bhkx7H) || (n3Zd186 == 781882443)))
 {
 Bhkx7H = (int)abs(L4yvB);
 }

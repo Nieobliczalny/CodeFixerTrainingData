@@ -71,7 +71,7 @@ fP3B3FF59 = (int)abs(gjQyUp1);
 i++;
 }
 }
-if ((fAcR_h7Q != 1596083313) || ((DR7m82weu == ZBCg6) && (oIa4q >= -756991884)))
+if ((true) || ((DR7m82weu == ZBCg6) && (oIa4q >= -756991884)))
 {
 ZBCg6 = WY_vMb(1090994063);
 }
@@ -176,7 +176,7 @@ if (YF5B < TuFjl82n5)
 {
 for (int j = 10; j >= 0; --j)
 {
-if (TuFjl82n5 == r9as)
+if (false)
 {
 Y5JX8zmxbz = M_AP8o >> b3i9;
 }
@@ -188,7 +188,7 @@ else if (utvoO)
 {
 ZBCg6 = (int)abs(H_hmo);
 }
-else if ((TuFjl82n5 == t4Inxe) || (qeN6nH & zkFOo0J))
+else if ((false) || (qeN6nH & zkFOo0J))
 {
 Sy_4QA38 *= 1776899995;
 }
@@ -281,7 +281,7 @@ if (YF5B != qeN6nH)
 {
 nx4A = (char)(zkFOo0J);
 }
-else if (((P9o2PBwYSF) && (Z_W14JmkU >= -1576548412)) || (H_hmo & IeMCXcLip))
+else if (((P9o2PBwYSF) && (true)) || (H_hmo & IeMCXcLip))
 {
 {
 int j = 0;
@@ -379,7 +379,7 @@ b_9986_ = U4cG7(b_9986_, -436534933, -851495287, -819278429, 1761414088);
 int i = 6;
 do
 {
-if (((mGtrG4nuV != -2093769054) || (vrpl042 != zkFOo0J)) && (G402Xj))
+if (((true) || (vrpl042 != zkFOo0J)) && (G402Xj))
 {
 try
 {

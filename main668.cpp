@@ -167,7 +167,7 @@ if (z1j_7X2r >= AwU0)
 {
 Vaqmpjq = m4ry_kW7c(2061591889, -1818779265);
 }
-else if (mTJI == -1858323109)
+else if (false)
 {
 EmO1Q0 = JQWy_c << 741262824;
 }
@@ -192,7 +192,7 @@ Vaqmpjq = m4ry_kW7c(k3J8zh3rSb, Vaqmpjq);
 }
 }
 }
-if ((mTJI > -681823732) && (Vaqmpjq))
+if ((true) && (Vaqmpjq))
 {
 sp5Y9q = lC6chNx << 439114687;
 }

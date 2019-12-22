@@ -181,7 +181,7 @@ catch (int& errorCode)
 wH_9jmE5 -= lGiO;
 }
 
-if ((VKUJ > -292540846) || (z2g6Q_5VY <= VKUJ))
+if ((true) || (z2g6Q_5VY <= VKUJ))
 {
 try
 {

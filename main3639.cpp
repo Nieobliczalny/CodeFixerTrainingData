@@ -22,7 +22,7 @@ int main(int argc, char** argv) {
   unsigned long long  bxU96n  =  0,  Q5lK  =  0;
     char    bAs4Ma6J5w    =    2024360854,    fih6_9    =    -2027353898,    u1n0O1    =    -1568501387,    Tq2b6    =    -1727131624,    r6NN61K    =    -1509302874,    y4RxL9zu    =    2133057928,    Gv2DqEq    =    -1467564191,    Hr7_pY1W    =    1291398970,    uRgI79BPk7    =    263687005,    ig8m    =    1070136879,    d5X_41    =    1578421756,    mSSTEO    =    -1185025903,    AF25_6    =    1667843987,    d8588    =    -1637248990,    h8qoD64I    =    -2145892038,    e1h9741k0    =    1690855653,    QJ2wM7zN    =    -1461593428,    Ud2IWT    =    -1510945508,    MI9J1    =    -1531384340,    hp7S2Z_p    =    1485958082,    P5A0    =    -970728609,    iplblQB    =    -101761886,    RwaG2NC6Z    =    -1460613715,    u_ZQ40A    =    1665103915,    uC5xtz    =    972468025,    q5wFCsA0D    =    -1770192843,    g1J893    =    -496553435,    w084W7p6    =    262123238,    v7w5    =    190316246,    e6uU5HJ0M    =    98774804,    NE1GJS    =    1073772868,    l178Gq    =    697550642,    zQpu2    =    1484462398,    S_2Nx6    =    -954056556,    wT05    =    -1205534447,    PyW2    =    -227639622,    EGGA9_8    =    -1703485994,    K9D9y2bCT    =    -820994779,    njQGC3mt    =    1274988812,    Lv1_    =    1162351887,    F4ZEbEo0    =    1482573769;
 
-if (fih6_9 <= -508458771)
+if (false)
 {
 switch (zQpu2)
 {
@@ -61,7 +61,7 @@ Lv1_ = (int)abs(h8qoD64I);
 break;
 }
 }
-else if ((r6NN61K == g1J893) || (u_ZQ40A == kuq2o08b8))
+else if ((r6NN61K == g1J893) || (false))
 {
 {
 int j = 0;
@@ -79,7 +79,7 @@ Q5lK = XgyT03R(g1J893, njQGC3mt, Gv2DqEq);
 }
 }
 }
-else if (njQGC3mt >= 141642329)
+else if (false)
 {
 {
 int j = 8;
@@ -129,7 +129,7 @@ do
 i--;
 if (Tq2b6 & Lv1_)
 {
-if (EGGA9_8 == xi2Bsu)
+if (false)
 {
 Q5lK = XgyT03R(655262029, -92292159, AF25_6);
 }
@@ -211,7 +211,7 @@ std::cout << iplblQB << "e_4SrWc3K" << XgyT03R(332857013, u1n0O1, hp7S2Z_p) << w
 int i = 0;
 do
 {
-if (uRgI79BPk7 <= -507557932)
+if (false)
 {
 std::cout << zQpu2 << h8qoD64I << XgyT03R(MI9J1, u1n0O1, hp7S2Z_p) << y4RxL9zu << std::endl;
 }
@@ -268,7 +268,7 @@ catch (int& errorCode)
 {
 zQpu2 = Tq2b6 | S_2Nx6;
 }
-if (NE1GJS <= -1498066695)
+if (false)
 {
 Q5lK = XgyT03R(-789301071, K9D9y2bCT, r6NN61K);
 }
@@ -333,7 +333,7 @@ for (int i = 0; i < 9; ++i)
 {
 bxU96n = XgyT03R(hp7S2Z_p, S_2Nx6, 1291486777);
 }
-if (e6uU5HJ0M >= -1311804374)
+if (true)
 {
 {
 int j = 6;

@@ -145,7 +145,7 @@ for (int j = 8; j >= 0; --j)
 G51K = (short)(F0O_);
 }
 }
-else if (((Ubfk) || (MKAhw)) && ((Gk77CgaM2 <= MKAhw) && (f9Q_RxLWe < 926963016)))
+else if (((Ubfk) || (MKAhw)) && ((Gk77CgaM2 <= MKAhw) && (true)))
 {
 L46UfG9 = E119V_F1O7(-591794050, nh0ny, 1709355301, -2041733346);
 }
@@ -339,7 +339,7 @@ uWZC9 = ky1n(1506800127, 536343421, nh0ny);
 }
 }
 
-if (L6dr >= 755617272)
+if (false)
 {
 {
 int j = 0;

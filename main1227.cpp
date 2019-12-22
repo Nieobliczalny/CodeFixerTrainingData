@@ -203,7 +203,7 @@ g3JQ = (long double)(r0440);
 }
 }
 
-if ((zNq9T21 > emVnq0) && (E7VE & 1673887774))
+if ((false) && (E7VE & 1673887774))
 {
 KRzLY2_E5 = (unsigned char)(hVqzP6I);
 }
@@ -226,7 +226,7 @@ else if ((P9frm4cj5) && (OTC571hkox >= v3o5s))
 {
 E4DRq = (int)ceil(zUbl06_Iw3);
 }
-else if (pYe4 >= -1805615366)
+else if (true)
 {
 Sk3U_B1hM = r8n_mrE();
 }
@@ -237,7 +237,7 @@ r25cDR122q = (int)floor(lIj8oX);
 }
 }
 }
-else if (da65BWQ > hVqzP6I)
+else if (true)
 {
 if (Sv57D8q & 1147644588)
 {
@@ -249,7 +249,7 @@ else if ((GE4SRBIzr >= 2035678948) || (lIj8oX != hVqzP6I))
 {
 t24jU7xB3y = (int)ceil(O4MLe5V);
 }
-else if (eUHO > -1046556119)
+else if (true)
 {
 P9frm4cj5--;
 }
@@ -313,7 +313,7 @@ catch (int& errorCode)
 YC6UY = woqG28d(-96402930, BF9oT, -1933895929);
 }
 }
-else if (zNq9T21 < hVqzP6I)
+else if (false)
 {
 y6s_NP = fm82rgJ_b(y6s_NP, 2008908405);
 }
@@ -330,7 +330,7 @@ nc_RLqth %= zD5J2C8;
 }
 else
 {
-if ((N63iq < 1985139174) || ((Mq0lZ0nh >= 1218510925) && (BWtR0xGw1u < -1436286277)))
+if ((true) || ((Mq0lZ0nh >= 1218510925) && (BWtR0xGw1u < -1436286277)))
 {
 N2Y0WU4e8 = NG63yk5Qz5(k0Q5tHG6x, 84635724, 1750357975, 1920175750);
 }
@@ -353,7 +353,7 @@ if ((UzCJ == v3o5s) && ((Sv57D8q < emVnq0) && (O4MLe5V > -930315961)))
 L69Ym7L = fm82rgJ_b(-1792624820, -1173113251);
 }
 }
-else if (Ef8d8K < hVqzP6I)
+else if (false)
 {
 EA99yQcGX = (double)(emVnq0);
 }
@@ -363,7 +363,7 @@ cout << fm82rgJ_b(-1468237986, 1731464328) << endl;
 }
 else if (eHHYQ > hVqzP6I)
 {
-if (m_2uI3c >= hVqzP6I)
+if (true)
 {
 mN71_0aom /= YC6UY;
 }
@@ -373,7 +373,7 @@ mN71_0aom = (int)ceil(O4MLe5V);
 }
 else if (Zw7T4 & v3o5s)
 {
-R_iNy = (pYe4 < emVnq0) ? Jh5W : zUbl06_Iw3;
+R_iNy = (true) ? Jh5W : zUbl06_Iw3;
 }
 else if (((P9frm4cj5 > k0Q5tHG6x) || (vAzz_ecqd != OTC571hkox)) || ((F0_MT3x86I > -385267379) && (S5huIY_ == x4OOz)))
 {
@@ -513,7 +513,7 @@ cout << "ih536a8" << endl;
 }
 }
 }
-if ((jzjK45 >= hVqzP6I) || ((N63iq == v3o5s) && (Ii59HIv <= v3o5s)))
+if ((true) || ((N63iq == v3o5s) && (Ii59HIv <= v3o5s)))
 {
 try
 {
@@ -546,7 +546,7 @@ while (j >= 0);
 
 for (int i = 0; i < 8; ++i)
 {
-if (Qx_Pb044C0 <= -96549993)
+if (false)
 {
 lApT6K8 %= 1960178845;
 }
@@ -565,7 +565,7 @@ int i = 0;
 while (i < 3)
 {
 ++i;
-if (ysi7 <= -76251841)
+if (false)
 {
 if (ba74yVSD & 452100841)
 {

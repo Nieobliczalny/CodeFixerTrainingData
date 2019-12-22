@@ -190,7 +190,7 @@ B0h8HnQz = Z5Y69GoTY(-1580775683, Lh57L3, R3X6_AlQ_, -475860462);
 mx4bQW_wf4 = (unsigned long)(I0na + (1983671463));
 VIqoG_5dW = Z5Y69GoTY(1723981400, 344543128, Mchs797, 1448632908);
 
-if ((mx4bQW_wf4 != -994292052) && ((L34_1 > gdFOd_z6) && (FC7O20LL65 > Q8H170)))
+if ((mx4bQW_wf4 != -994292052) && ((true) && (FC7O20LL65 > Q8H170)))
 {
 if (L2NHWJd8k & 1354943055)
 {

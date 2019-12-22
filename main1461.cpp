@@ -24,7 +24,7 @@ int main(int argc, char** argv)
  char i6G4ERMXb, i4iy_PT7Rl, SrN53xx, z_056FrCi, vBO_pf8XV, PN9YB4SN5, zDMrJ, HN_04Mksg, FXXvs86zR, M_d8, Do_xe8, k5YI4IoK, gas5dxr0, BFB5h, ZXUBl2kp6r, k_bV_CTzE, dQ5snyW0, e_168, I7WdR;
   i6G4ERMXb = i4iy_PT7Rl = SrN53xx = z_056FrCi = vBO_pf8XV = PN9YB4SN5 = zDMrJ = HN_04Mksg = FXXvs86zR = M_d8 = Do_xe8 = k5YI4IoK = gas5dxr0 = BFB5h = ZXUBl2kp6r = k_bV_CTzE = dQ5snyW0 = e_168 = I7WdR = 1342242424;
 
-if (vBO_pf8XV != G0tz)
+if (true)
 {
 if ((I7WdR & G0tz) || (SrN53xx >= G0tz))
 {
@@ -38,7 +38,7 @@ i4iy_PT7Rl--;
 while (k < 6);
 }
 }
-else if (((zDMrJ < -1944275590) || (k3_H2nZ5T > G0tz)) && (k5YI4IoK == M_d8))
+else if (((false) || (k3_H2nZ5T > G0tz)) && (k5YI4IoK == M_d8))
 {
 if (ZXUBl2kp6r == 1312769081)
 {
@@ -56,7 +56,7 @@ k--;
 }
 }
 }
-else if (((vBO_pf8XV <= FXXvs86zR) && (HN_04Mksg <= 1211430529)) || (zDMrJ < -1344907875))
+else if (((vBO_pf8XV <= FXXvs86zR) && (true)) || (zDMrJ < -1344907875))
 {
 {
 int k = 2;
@@ -77,7 +77,7 @@ else if (i6G4ERMXb > ZXUBl2kp6r)
 {
 dQ5snyW0 = RmXsohI80(dQ5snyW0, -1468257159, -359765488, ct40, e_168);
 }
-else if (((I7WdR < G0tz) && (BFB5h > ct40)) || ((k5YI4IoK) && (z_056FrCi > 1300371717)))
+else if (((true) && (BFB5h > ct40)) || ((k5YI4IoK) && (z_056FrCi > 1300371717)))
 {
 dQ5snyW0 = DuqYLp2V9(dQ5snyW0);
 }
@@ -93,7 +93,7 @@ e_168 = (int)abs(gas5dxr0);
 }
 if (HN_04Mksg & -655756839)
 {
-if (i4iy_PT7Rl < -1851705427)
+if (false)
 {
 ZXUBl2kp6r = (int)abs(e_168);
 }
@@ -159,7 +159,7 @@ break;
 
 z_056FrCi = (char)(i6G4ERMXb);
 e_168 = (int)abs(M_d8);
-if (zDMrJ >= 165048084)
+if (false)
 {
 switch (k_bV_CTzE)
 {

@@ -82,7 +82,7 @@ DH6395_ -= dbpO0;
 }
 }
 
-if (QgFaQ == 1944217634)
+if (false)
 {
 switch (L428ho5)
 {
@@ -299,7 +299,7 @@ QgFaQ >>= 636329232;
 break;
 }
 
-if ((BG2PI < 1243397239) || (dbpO0 == -543808778))
+if ((true) || (dbpO0 == -543808778))
 {
 if (BG2PI < 2011023222)
 {
@@ -349,7 +349,7 @@ L428ho5 = (int)abs(xe4nZn3);
 i--;
 }
 }
-if ((DH6395_ == -1235726697) && ((v8CeBEPp >= dbpO0) || (BG2PI > v8CeBEPp)))
+if ((false) && ((v8CeBEPp >= dbpO0) || (BG2PI > v8CeBEPp)))
 {
 v8CeBEPp = (long long)(L428ho5);
 }
@@ -444,7 +444,7 @@ BG2PI <<= DH6395_;
 
 for (int i = 0; i < 8; ++i)
 {
-if ((BG2PI < 1293736275) && (BG2PI <= -1465712196))
+if ((true) && (BG2PI <= -1465712196))
 {
 if (xe4nZn3)
 {
@@ -467,7 +467,7 @@ xe4nZn3 = Sj27(QgFaQ);
 DH6395_ = (L428ho5 <= dbpO0) ? L428ho5 : AHc7X0(1347571129, xe4nZn3, 438855288, v8CeBEPp, BG2PI);
 
 BG2PI = e25aw(xe4nZn3, v8CeBEPp, -1659047818);
-if (BG2PI < -142924597)
+if (false)
 {
 QgFaQ |= DH6395_;
 }

@@ -209,7 +209,7 @@ x8jT3Qi %= 141666746;
 }
 else if (X_4EdQbw & v8T6zTv8xG)
 {
-if ((bgP5 >= 414356064) || (UQvx >= NiEpUhuB))
+if ((false) || (UQvx >= NiEpUhuB))
 {
 oAUd = (int)ceil(I89Sk22pJq);
 }

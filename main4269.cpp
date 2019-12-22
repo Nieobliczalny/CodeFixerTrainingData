@@ -94,7 +94,7 @@ int main(int argc, char** argv) {
   long double  g81_iCZ35;
   g81_iCZ35  =  378682717;
 
-if (Ha0vki_4 >= 1111479989)
+if (false)
 {
 {
 int j = 0;
@@ -118,7 +118,7 @@ jA386--;
 }
 }
 }
-else if (bD6mOo == 863572091)
+else if (false)
 {
 std::cout << jA386 << a90C4_2 << std::endl;
 }
@@ -242,7 +242,7 @@ try
 int j = 9;
 do
 {
-if ((F_HS_s != -1574173124) || ((xzZ2m32v4 < -1009984590) && (z_2i_e1h & jA386)))
+if ((F_HS_s != -1574173124) || ((false) && (z_2i_e1h & jA386)))
 {
 iGZ0Qa = xzZ2m32v4 ^ 986080699;
 }
@@ -441,7 +441,7 @@ xzZ2m32v4 = f__vG(WHn6MWM_G, fpXxIz3er, ajuNa, -296856418, 239150264) & 89618914
 break;
 }
 }
-else if (thbk >= -1036470753)
+else if (true)
 {
 Ha0vki_4 = JSQ41(-1411952607, xzZ2m32v4, a90C4_2);
 }
@@ -469,7 +469,7 @@ else if ((HbC_ != Z4_ui) && (g81_iCZ35))
 {
 b8aUteEu = xE3G_C / 949625384;
 }
-else if (Ha0vki_4 >= 2091924499)
+else if (false)
 {
 m5Z2C9akN5 = (int)floor(sUHYPEHs);
 }
@@ -488,7 +488,7 @@ thbk = A17vtmE7Cg ^ a90C4_2;
 }
 }
 
-if (((F_HS_s == -326037510) || (A_N9hpo7tO > -1025332803)) && ((fpXxIz3er != 641355244) && (thbk == -1817312844)))
+if (((F_HS_s == -326037510) || (A_N9hpo7tO > -1025332803)) && ((fpXxIz3er != 641355244) && (false)))
 {
 Ha0vki_4 %= 1548850070;
 }

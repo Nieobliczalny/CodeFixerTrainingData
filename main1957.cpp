@@ -93,7 +93,7 @@ Z85_1T0 = uhxyf >> prFY;
 gAUA1dxX = (unsigned short)(nze2CU8 + (-1095278589));
 try
 {
-if (sFgD > 969413501)
+if (false)
 {
 nze2CU8 = rQo9(V_1T7QOGa, 450206464, -139863677, gAUA1dxX);
 }

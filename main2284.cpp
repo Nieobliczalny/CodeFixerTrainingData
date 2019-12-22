@@ -101,7 +101,7 @@ catch (int& errorCode)
 z_qF = NLSFk(z_qF, -21107358, TCLV9pNDA, 2121513396, 1887954252);
 }
 
-if ((z_qF & Yu71s1) && ((f3WZ0oup8 & -651093300) && (nW0vV_ <= 991947750)))
+if ((z_qF & Yu71s1) && ((f3WZ0oup8 & -651093300) && (true)))
 {
 if (nuVa4cNh5 >= Mb8E)
 {

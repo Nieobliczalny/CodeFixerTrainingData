@@ -213,7 +213,7 @@ else if (((vgSiZ5 != S526Tj6) && (qs_m & S526Tj6)) || ((v3S_ & S526Tj6) && (sOxk
 {
 e56s = q846BFxdcH();
 }
-else if (((F0M9nY_Ib1 == v3S_) && (QfjeOE >= 294576530)) || (QM6z7xCqgz))
+else if (((F0M9nY_Ib1 == v3S_) && (false)) || (QM6z7xCqgz))
 {
 if (Y2V9MO5 >= 908595446)
 {

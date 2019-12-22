@@ -239,7 +239,7 @@ catch (int& errorCode)
 d9wn8GV = (int)floor(E_rFn);
 }
 
-if (n_zDRx8C < -1344984945)
+if (false)
 {
 {
 int j = 9;
@@ -253,7 +253,7 @@ else if (xNQM58F & NqLyFNhR)
 {
 qRfG6 = (int)abs(GBdr);
 }
-else if (((Hsl9 > K68X1de) && (q2Dt8_SZv)) || (VKG4 > yCGz))
+else if (((Hsl9 > K68X1de) && (q2Dt8_SZv)) || (false))
 {
 f0WcQ7uP2d >>= 1681379119;
 }
@@ -281,7 +281,7 @@ int j = 0;
 while (j < 9)
 {
 ++j;
-if ((iDJVzSThDX < 1129811412) || (e28JlQD_v != sQ7_OE))
+if ((true) || (e28JlQD_v != sQ7_OE))
 {
 unS_9Y = QbkOk3 % 597539430;
 }
@@ -303,7 +303,7 @@ sQ7_OE -= B2aH;
 while (i < 6);
 }
 
-if (J0PlbH0X7 != K68X1de)
+if (true)
 {
 std::cout << lK3S9x9i99 << NOqU2e9t << fzm4w42Tr << "lw63" << J0PlbH0X7 << std::endl;
 }
@@ -333,7 +333,7 @@ if ((xNQM58F >= yCGz) || ((H7fQb1Car7 & yegqZv06) || (HCY0_k0Iv < vp3_Ij)))
 {
 Qx0zYc = es0aBn35b_ << 1171499243;
 }
-else if ((x_d2A > MePg) && (vp3_Ij == yCGz))
+else if ((x_d2A > MePg) && (false))
 {
 HCY0_k0Iv = dxJG << O199;
 }

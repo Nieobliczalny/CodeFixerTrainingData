@@ -86,7 +86,7 @@ if (U08tLzV)
 int j = 6;
 while (j >= 0)
 {
-if (HdlQC0M >= -362537892)
+if (true)
 {
 a13Yb1 = U08tLzV * 1376846201;
 }
@@ -98,7 +98,7 @@ else if (dG35 != 49807212)
 {
 cout << U08tLzV << "WrLCd" << endl;
 }
-else if (TQ4Y3V > 1794033795)
+else if (false)
 {
 for (int j = 0; j < 8; j++)
 {
@@ -114,7 +114,7 @@ for (int k = 0; k < 10; k++)
 ZTEq7CCll = KoHfF8ZqQb(ZTEq7CCll);
 }
 }
-else if (HdlQC0M <= -1297231553)
+else if (false)
 {
 if (E8548z)
 {
@@ -132,7 +132,7 @@ E8548z++;
 }
 else if (PpJ8y == ClaAk6)
 {
-if (((nh3Y6BL9 > 1852151915) && (z17_4qIF != -1848604798)) || (W_2xld5v > -191551879))
+if (((nh3Y6BL9 > 1852151915) && (true)) || (W_2xld5v > -191551879))
 {
 cout << ZvYIQK(-1675774749, -1373864025, c5_l) << ITBu5Ky << endl;
 }
@@ -227,7 +227,7 @@ TQ4Y3V = (unsigned short)(U08tLzV);
 int i = 9;
 do
 {
-if (W_2xld5v != -955900912)
+if (true)
 {
 if (c7ok795 & c5_l)
 {
@@ -242,7 +242,7 @@ for (int i = 5; i >= 0; i--)
 {
 z17_4qIF = (unsigned short)(dG35);
 }
-if (HdlQC0M >= -1175383215)
+if (true)
 {
 {
 int j = 0;
@@ -259,7 +259,7 @@ else
 int j = 0;
 do
 {
-if ((U08tLzV) && (dG35 >= -1208030616))
+if ((U08tLzV) && (true))
 {
 UbJiE = ZvYIQK(oYXk24rC_9, UbJiE, -1202400496);
 }
@@ -275,7 +275,7 @@ while (i < 1)
 {
 for (int j = 1; j >= 0; --j)
 {
-if ((dG35) && (hJEYF4 > 585486122))
+if ((dG35) && (false))
 {
 UbJiE = ZvYIQK(tFX98, -291709024, -1021001911);
 }

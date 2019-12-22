@@ -504,7 +504,7 @@ else if (OvqHP2RW)
 {
 CHSkyx = (long long)(PS_d51 + (F8337qNU5v));
 }
-else if (((Hhsq5 <= o641YJQ) || (GH9oe8 == G562rOT5HH)) && (W7I9 >= u4E8b))
+else if (((true) || (GH9oe8 == G562rOT5HH)) && (W7I9 >= u4E8b))
 {
 HRvyh6_ = (long long)(n_bAJV);
 }

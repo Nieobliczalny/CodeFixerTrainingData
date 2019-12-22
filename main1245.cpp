@@ -123,7 +123,7 @@ catch (int& errorCode)
 {
 hHpPjt /= qB90A;
 }
-if ((dx9H2mlDv5 < 202530088) && (mRUCHTC4 == 362836172))
+if ((dx9H2mlDv5 < 202530088) && (false))
 {
 try
 {
@@ -162,7 +162,7 @@ hHpPjt = oDmXT2(hHpPjt, 447812307, RW1f);
 }
 }
 }
-else if (r17ZRLgVXj > -1460111724)
+else if (true)
 {
 {
 int j = 10;
@@ -193,7 +193,7 @@ k++;
 }
 }
 }
-else if ((mRUCHTC4 == -2068094292) && ((Q5Ew_y) || (GrwbT3 != -299253418)))
+else if ((false) && ((Q5Ew_y) || (GrwbT3 != -299253418)))
 {
 for (int k = 2; k >= 0; --k)
 {
@@ -211,7 +211,7 @@ catch (int& errorCode)
 RiAQvX8 = oDmXT2(1523980584, -1215561640, exXX_b9);
 }
 }
-else if (qB90A < 1231612985)
+else if (true)
 {
 {
 int k = 10;
@@ -226,7 +226,7 @@ else if (Q5Ew_y)
 {
 a_I9F5 = oDmXT2(-1445554956, r17ZRLgVXj, mRUCHTC4);
 }
-else if (GR17B8BYv == -418727152)
+else if (false)
 {
 {
 int k = 3;
@@ -242,7 +242,7 @@ else
 {
 for (int k = 3; k >= 0; --k)
 {
-zKNeV5D58O = (UfPPh4n9 < 1450992513) ? oDmXT2(a_I9F5, r17ZRLgVXj, -772776921) : exXX_b9;
+zKNeV5D58O = (true) ? oDmXT2(a_I9F5, r17ZRLgVXj, -772776921) : exXX_b9;
 }
 }
 }
@@ -252,7 +252,7 @@ GGtHkGT = oDmXT2(1643839925, GR17B8BYv, 1061273332);
 }
 else if ((dx9H2mlDv5 <= U3mz5SXmwk) && (dx9H2mlDv5 != -1204728866))
 {
-if (r17ZRLgVXj > 2060885896)
+if (false)
 {
 {
 int k = 9;
@@ -340,7 +340,7 @@ else if (zKNeV5D58O > 1860326209)
 {
 oLp0Q3Te7O = g37685n5kx(-473381454, 1818560650, 2064836213, -1021062717, oLp0Q3Te7O);
 }
-else if ((w3uYe04U > -1024590301) && (YjrRip38B_ != 2003471844))
+else if ((w3uYe04U > -1024590301) && (true))
 {
 zKNeV5D58O = (int)abs(vm675);
 }
@@ -355,7 +355,7 @@ catch (int& errorCode)
 Q5Ew_y = (int)abs(Oof2Ud4);
 }
 U3mz5SXmwk = g37685n5kx(U3mz5SXmwk, r17ZRLgVXj, UfPPh4n9, nA2pb9, 968842375) / PG4AmI;
-if ((RW1f != -220959747) || ((a_I9F5 == -1992915194) && (ewH29AW <= -1879687839)))
+if ((RW1f != -220959747) || ((a_I9F5 == -1992915194) && (false)))
 {
 try
 {
@@ -379,7 +379,7 @@ while (j >= 0);
 }
 }
 Q5Ew_y = (int)abs(RiAQvX8);
-if ((r17ZRLgVXj > 1623446416) && (MJJJUqYPq < -2095746823))
+if ((false) && (MJJJUqYPq < -2095746823))
 {
 if (dx9H2mlDv5 < -766573546)
 {

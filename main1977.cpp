@@ -40,7 +40,7 @@ Yj2Sg = JLSa5X8 + 1607414392;
 break;
 }
 }
-else if (q1zp >= 297259010)
+else if (false)
 {
 ij974EP_ = (unsigned int)(Jv5mNx5Rk * ij974EP_);
 }
@@ -62,7 +62,7 @@ Z1kQ7 = aW5C63f ^ 1998486542;
 break;
 }
 }
-else if (RrJp >= 336799634)
+else if (false)
 {
 {
 int j = 0;
@@ -112,7 +112,7 @@ case 1:
 l1w9 = h96P8941lg - 745260582;
 break;
 case 2:
-c70GR8Y = (Ty0_8YptGS >= 270889649) ? f84N7x : f84N7x;
+c70GR8Y = (false) ? f84N7x : f84N7x;
 break;
 case 3:
 EQ6RnL8 = nUh67 % 1092391844;
@@ -147,7 +147,7 @@ if (awqv == 0)
 std::cout << wpEJYyv << std::endl;
 
 dF8_71 = (unsigned int)(Z6q5O1H * dF8_71);
-if (((mjR7Sd) && (Ty0_8YptGS == -612064466)) || ((x1u7R94610 >= 1130818403) && (V4n8CD05mJ > JLSa5X8)))
+if (((mjR7Sd) && (false)) || ((x1u7R94610 >= 1130818403) && (V4n8CD05mJ > JLSa5X8)))
 {
 for (int j = 0; j < 4; j++)
 {
@@ -261,7 +261,7 @@ krpR0syY = nUh67 >> 995001934;
 while (j < 2);
 }
 }
-else if (zv1W == 312033445)
+else if (false)
 {
 switch (V4n8CD05mJ)
 {
@@ -290,7 +290,7 @@ Jv5mNx5Rk <<= 403390858;
 }
 }
 
-if (f84N7x <= 947251036)
+if (true)
 {
 boat = (unsigned char)(r96w2BL09v);
 }

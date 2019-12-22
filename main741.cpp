@@ -140,7 +140,7 @@ int main()
 
 if (DfF4e != GbAC20UQQT)
 {
-if (V1vB0OFz_p <= -428898775)
+if (false)
 {
 if (t56slsY == oI34W6)
 {
@@ -260,7 +260,7 @@ catch (int& errorCode)
 h_8GVkY ^= V4fGn;
 }
 
-if (WgoT3 < -1827544414)
+if (false)
 {
 JxnE5t74OI = (int)floor(I4lGmy);
 }

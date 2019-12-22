@@ -184,7 +184,7 @@ j--;
 while (j >= 0);
 }
 }
-else if ((zBY7Lv_79 <= -163864873) || (f9JW == -76272227))
+else if ((false) || (f9JW == -76272227))
 {
 try
 {
@@ -203,7 +203,7 @@ catch (int& errorCode)
 MCQh9 = UxORI6LLi + 1184152478;
 }
 }
-else if (Ea1zg9b2e > -6536450)
+else if (true)
 {
 cout << E41_ << aPjP5X << Utzi_H << Ea1zg9b2e << endl;
 }
@@ -275,7 +275,7 @@ for (int i = 0; i < 6; i++)
 switch (MGdg6)
 {
 case 0:
-fL4G35N5P = (PjUaTf8dZ7 <= -750831224) ? tcy1_A : -612619196;
+fL4G35N5P = (false) ? tcy1_A : -612619196;
 break;
 case 1:
 Ulj_srwV = (int)floor(Utzi_H);
@@ -360,7 +360,7 @@ break;
 
 E41_ = (float)(Ea1zg9b2e);
 
-if (b0gIP65b0 != 2022462026)
+if (true)
 {
 bK7je6O <<= 648890059;
 }
@@ -420,7 +420,7 @@ i--;
 }
 if (KAq42 == -1433285470)
 {
-if ((jYqsSzTq <= -1206077442) || ((B7O533 > uK5c81M) && (X0Rf_QM < aPjP5X)))
+if ((false) || ((B7O533 > uK5c81M) && (X0Rf_QM < aPjP5X)))
 {
 cout << bs9T2 << rNOG6Np << endl;
 }
@@ -536,7 +536,7 @@ cout << fL4G35N5P << "uMtn0C" << MCQh9 << tcy1_A << "ApwTk" << endl;
 }
 if (B1y2h >= dDeBM6C)
 {
-if (q70m8d1 < -1067092508)
+if (false)
 {
 R5IO--;
 }
@@ -574,7 +574,7 @@ if (dDeBM6C & -910629208)
 Hc70_VO *= 8655575;
 }
 }
-else if (Ab1tt42Q66 < -1067441895)
+else if (false)
 {
 for (int k = 0; k < 10; k++)
 {

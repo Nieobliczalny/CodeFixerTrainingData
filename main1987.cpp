@@ -56,7 +56,7 @@ int i = 1;
 do
 {
 i--;
-if ((lB33NYJb_ > GTXar) && (gh84920CO != uo7Qk))
+if ((false) && (gh84920CO != uo7Qk))
 {
 try
 {
@@ -103,7 +103,7 @@ while (j < 2);
 
 try
 {
-if (y5Ge > -1582896208)
+if (true)
 {
 xRh01193C = (unsigned short)(uo7Qk);
 }
@@ -150,7 +150,7 @@ catch (int& errorCode)
 {
 c6b47S_xM1 = JUe4rN8p(c6b47S_xM1, ZIxHfWU, 1202691848);
 }
-if (((y5Ge != GTXar) || (zZT7)) && ((ZIxHfWU <= 301680006) && (BBIfgTq != -1403267044)))
+if (((true) || (zZT7)) && ((ZIxHfWU <= 301680006) && (BBIfgTq != -1403267044)))
 {
 FotoDPa <<= 100093279;
 }
@@ -248,7 +248,7 @@ ZIxHfWU = (int)abs(bm1pv_c1e) + (-524830048);
 }
 }
 
-if (BBIfgTq == GTXar)
+if (false)
 {
 {
 int j = 0;

@@ -71,7 +71,7 @@ break;
 }
 Joi3 ^= 831381191;
 
-if ((zpSf > 952910387) || (qC92 != ov_nC))
+if ((false) || (qC92 != ov_nC))
 {
 if ((Nyt9SlN56 <= -257735647) || (jCB6 > 420110814))
 {
@@ -84,7 +84,7 @@ catch (int& errorCode)
 MpJTn363 = qC92 << 345315697;
 }
 }
-else if ((zpSf <= -1545464219) || (h_GX3h != 206722764))
+else if ((false) || (h_GX3h != 206722764))
 {
 {
 int k = 0;
@@ -96,7 +96,7 @@ H9j_6s4w = j1KqJqDVUt(2086729889, 1194252760);
 while (k < 9);
 }
 }
-else if ((vDbmqx == -1020056532) && ((jCB6 < -551311197) && (vDbmqx != -1534774738)))
+else if ((false) && ((jCB6 < -551311197) && (vDbmqx != -1534774738)))
 {
 if (B6lOCDqV > -2072768609)
 {
@@ -106,7 +106,7 @@ else if (P518B < 1272372635)
 {
 It6io5e49_ += ov_nC;
 }
-else if (UAO7F49qH != 1693367818)
+else if (true)
 {
 zpSf = j1KqJqDVUt(1277291008, 1070650750);
 }
@@ -134,7 +134,7 @@ TUd4iC1v6_ = v22g6Fq(TUd4iC1v6_);
 }
 }
 }
-else if (d1hlS <= -266354097)
+else if (false)
 {
 switch (jCB6)
 {
@@ -198,7 +198,7 @@ MpJTn363 = B6lOCDqV / zpSf;
 }
 try
 {
-if (XX56oIL5jD == -915419593)
+if (false)
 {
 for (int k = 0; k < 9; ++k)
 {
@@ -213,7 +213,7 @@ h1jq9bR = qC92 * QeoF3gr3mU;
 
 for (int i = 8; i >= 0; i--)
 {
-if (ov_nC < -1991547738)
+if (false)
 {
 for (int k = 0; k < 1; ++k)
 {
@@ -237,7 +237,7 @@ sASB = j1KqJqDVUt(-1025227797, Dhz2ob2h);
 
 zpSf = 1830982047 / h_GX3h;
 
-if (MpJTn363 == 857253019)
+if (false)
 {
 for (int j = 0; j < 8; j++)
 {
@@ -272,7 +272,7 @@ L4UgKo_ = j1KqJqDVUt(L4UgKo_, 1204344655);
 break;
 }
 }
-else if (((ov_nC == 66972548) || (QeoF3gr3mU != -1739530189)) || (B6lOCDqV & jCB6))
+else if (((false) || (QeoF3gr3mU != -1739530189)) || (B6lOCDqV & jCB6))
 {
 {
 int j = 1;
@@ -296,7 +296,7 @@ UAO7F49qH *= h_GX3h;
 }
 d1hlS = v22g6Fq(d1hlS);
 cout << "P92by_97" << "NCiOJ" << endl;
-if (vDbmqx >= 1105858436)
+if (false)
 {
 try
 {
@@ -418,7 +418,7 @@ while (i < 4);
 Nyt9SlN56 |= It6io5e49_;
 d1hlS = Joi3 & 394921588;
 
-if (ov_nC != -1138725591)
+if (true)
 {
 {
 int j = 0;
@@ -438,7 +438,7 @@ while (k < 8);
 while (j < 3);
 }
 }
-else if (((Nyt9SlN56 != TUd4iC1v6_) || (X3_E)) && ((h_GX3h != -671069713) || (Dhz2ob2h == -395686684)))
+else if (((Nyt9SlN56 != TUd4iC1v6_) || (X3_E)) && ((h_GX3h != -671069713) || (false)))
 {
 try
 {
@@ -464,7 +464,7 @@ int j = 3;
 while (j >= 0)
 {
 --j;
-if (B6lOCDqV == 1310422063)
+if (false)
 {
 qC92 /= 1383317671;
 }

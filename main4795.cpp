@@ -82,7 +82,7 @@ int main() {
 
 for (int i = 0; i < 6; ++i)
 {
-if (l6zgR9q != 1041416774)
+if (true)
 {
 switch (XY5R_Oya8v)
 {
@@ -212,7 +212,7 @@ while (k < 8);
 while (i >= 0);
 }
 
-if (gjEkLEW == 1586417760)
+if (false)
 {
 {
 int j = 7;
@@ -240,7 +240,7 @@ std::cout << "KXaq_6lcM" << std::endl;
 TCI0 = yKptZ9R2(-443596187) / yKptZ9R2(1811119545);
 for (int i = 2; i >= 0; i--)
 {
-if ((Y3_0scM) || ((s1APndAww9) && (w_A_q != -2134982505)))
+if ((Y3_0scM) || ((s1APndAww9) && (true)))
 {
 TCI0 &= Q_ce2;
 }
@@ -261,7 +261,7 @@ std::cout << c5htBriCO << Yire << "i1WbT" << j2B_19X9 << std::endl;
 int i = 0;
 while (i < 4)
 {
-if (j2B_19X9 != -1121993361)
+if (true)
 {
 if ((TxMV7 <= z3Un3Y_q) || (e71_98))
 {
@@ -371,7 +371,7 @@ FOHj = yKptZ9R2(FOHj);
 }
 else if (cAvv < Cc2S_Lu4)
 {
-if ((TxMV7 >= 1705767916) && ((AoHhj5 & 476750412) || (FIIUQKbX >= 1449783082)))
+if ((false) && ((AoHhj5 & 476750412) || (FIIUQKbX >= 1449783082)))
 {
 OTMTO525j = GhQ9j5dnV % i5k20K0h;
 }
@@ -389,7 +389,7 @@ while (k < 2);
 }
 }
 }
-else if ((HOf1FK < A_GoBy) && (ZE3_3))
+else if ((false) && (ZE3_3))
 {
 switch (TxMV7)
 {
@@ -427,7 +427,7 @@ while (i >= 0);
 }
 try
 {
-if (i86DB82 <= A_GoBy)
+if (false)
 {
 if (((e71_98 < -1984742648) && (TCI0 <= z3Un3Y_q)) || (XY5R_Oya8v < -207978562))
 {
@@ -446,7 +446,7 @@ i86DB82 = co67 ^ 376748209;
 while (k < 2);
 }
 }
-else if (Ja1w != A_GoBy)
+else if (true)
 {
 try
 {
@@ -457,7 +457,7 @@ catch (int& errorCode)
 C4yvD5S_3 = (int)abs(c6HJh_);
 }
 }
-else if ((Cc2S_Lu4 > 1842481735) || (In3hN != Ti1_5f42K2))
+else if ((false) || (In3hN != Ti1_5f42K2))
 {
 try
 {
@@ -470,7 +470,7 @@ C4_SLI97 = O55_X & Y3_0scM;
 }
 else
 {
-if (Q_ce2 > -486543986)
+if (true)
 {
 OjBko = MIkvf * 1657901572;
 }
@@ -484,7 +484,7 @@ catch (int& errorCode)
 {
 s1APndAww9 = yKptZ9R2(742494821);
 }
-if ((p38G7U7) && ((QzSY7 & A_GoBy) || (mA7L != A_GoBy)))
+if ((p38G7U7) && ((true) || (mA7L != A_GoBy)))
 {
 A6bT9--;
 }
@@ -503,7 +503,7 @@ if (Q_ce2 <= e1pFNwGrc9)
 {
 FIIUQKbX = A_GoBy % q351G;
 }
-else if (l85K == -1249170826)
+else if (false)
 {
 Y3_0scM >>= 481037369;
 }
@@ -517,7 +517,7 @@ while (j < 5);
 }
 else if (GhQ9j5dnV < TCI0)
 {
-if (FOHj < -1471007230)
+if (false)
 {
 jxQHWhx6 = yKptZ9R2(349693356);
 }
@@ -536,7 +536,7 @@ W2p83G9CB_ = rMePTNb9 >> 333048461;
 while (k >= 0);
 }
 }
-else if (ZE3_3 == A_GoBy)
+else if (false)
 {
 {
 int k = 0;
@@ -575,7 +575,7 @@ FOHj = yKptZ9R2(-400722742);
 }
 }
 }
-else if ((Op9meF9O2G & 2044124559) || (C4_SLI97 < A_GoBy))
+else if ((Op9meF9O2G & 2044124559) || (false))
 {
 if (Y3_0scM != EHlqu1T26)
 {
@@ -592,7 +592,7 @@ else
 int k = 0;
 do
 {
-YMIfN7 = (In3hN >= -1894093738) ? 180409164 : yKptZ9R2(-2143103591);
+YMIfN7 = (true) ? 180409164 : yKptZ9R2(-2143103591);
 k++;
 }
 while (k < 4);
@@ -615,7 +615,7 @@ i--;
 }
 }
 
-if (cAvv > -1282300425)
+if (true)
 {
 Cc2S_Lu4 -= XY5R_Oya8v;
 }
@@ -641,7 +641,7 @@ FOHj = yKptZ9R2(547685836);
 break;
 }
 }
-else if (l85K <= 1925040185)
+else if (true)
 {
 std::cout << "FtEbY0" << yKptZ9R2(Ja1w) << std::endl;
 }
@@ -655,7 +655,7 @@ if (kMv_Dq > Fa8A)
 {
 C4yvD5S_3 = (int)abs(AoHhj5);
 }
-else if (OTMTO525j != A_GoBy)
+else if (true)
 {
 FOHj = yKptZ9R2(p38G7U7);
 }
@@ -665,7 +665,7 @@ jxQHWhx6 = yKptZ9R2(A6bT9);
 }
 else if (Y3_0scM)
 {
-C4yvD5S_3 = (co67 < -58534953) ? -142652689 : Op9meF9O2G;
+C4yvD5S_3 = (false) ? -142652689 : Op9meF9O2G;
 }
 else if (BH_nhf9 < 1550712078)
 {
@@ -679,7 +679,7 @@ C6Kk3330_ = (int)abs(j4BgS65eOH);
 }
 }
 }
-else if (In3hN >= A_GoBy)
+else if (true)
 {
 s1APndAww9 = yKptZ9R2(1016660702);
 }
@@ -724,7 +724,7 @@ case 5:
 TxMV7 = Cc2S_Lu4 >> 1221873524;
 break;
 case 6:
-e71_98 = (Cc2S_Lu4 >= A_GoBy) ? XY5R_Oya8v : yKptZ9R2(-259710407);
+e71_98 = (true) ? XY5R_Oya8v : yKptZ9R2(-259710407);
 break;
 case 7:
 s1APndAww9 = yKptZ9R2(1871655998);
@@ -734,7 +734,7 @@ YMIfN7 %= e1pFNwGrc9;
 break;
 }
 }
-if (((p38G7U7 < e1pFNwGrc9) && (l85K == z3Un3Y_q)) || (j2B_19X9 >= 1713814837))
+if (((p38G7U7 < e1pFNwGrc9) && (l85K == z3Un3Y_q)) || (false))
 {
 if ((p38G7U7 > -1163477779) && ((kMv_Dq) && (A6bT9 != 408635382)))
 {
@@ -758,7 +758,7 @@ HOf1FK &= kMv_Dq;
 }
 else if (MIkvf)
 {
-if (j4BgS65eOH != A_GoBy)
+if (true)
 {
 s1APndAww9 = yKptZ9R2(ZE3_3);
 }
@@ -793,7 +793,7 @@ int i = 0;
 while (i < 3)
 {
 ++i;
-if (TCI0 == A_GoBy)
+if (false)
 {
 if ((OTMTO525j <= C4yvD5S_3) || (uC4J <= p38G7U7))
 {

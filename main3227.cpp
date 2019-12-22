@@ -158,7 +158,7 @@ else if (QZqch82Ac1 & 366198737)
 {
 TmHLGD = (int)ceil(Uac_68);
 }
-else if (QZqch82Ac1 <= -1713106579)
+else if (false)
 {
 QZqch82Ac1 = lLZf4wa_u(CA46);
 }

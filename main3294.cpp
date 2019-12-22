@@ -213,7 +213,7 @@ if (wV18ac6H & 1760788004)
 {
 mLdZ8_424T = mLdZ8_424T | M6PsC6b;
 }
-else if (wV18ac6H != 184755412)
+else if (true)
 {
 aP2dn = (int)floor(JCu2K__UA);
 }
@@ -259,7 +259,7 @@ k--;
 }
 }
 }
-else if (((aP2dn <= -687834183) && (O881fab < 1312255452)) || (Osv76xenXD != -80692679))
+else if (((aP2dn <= -687834183) && (true)) || (Osv76xenXD != -80692679))
 {
 if (E_m5ZS <= 1317005208)
 {
@@ -394,7 +394,7 @@ FYOW &= 1485726141;
 }
 }
 }
-else if (((Osv76xenXD) || (M429ov >= -1260008102)) && ((yIBYU8d6) && (dd2D > -441963898)))
+else if (((Osv76xenXD) || (true)) && ((yIBYU8d6) && (dd2D > -441963898)))
 {
 mP8Q240kx = PZ75T * tsGVB2VaeI;
 }
@@ -431,7 +431,7 @@ if (xR7A & 941320113)
 {
 spC7 = yaJ_C3efJ & 1652983787;
 }
-else if ((M66k0hy2 < -1977612641) && (ZI9pn & yaJ_C3efJ))
+else if ((false) && (ZI9pn & yaJ_C3efJ))
 {
 i263S7 /= cKa1cdC3v;
 }
@@ -461,7 +461,7 @@ if (((Q0v3VuV8gT == -1969016334) || (cul4b4QwT5)) && (FYOW > -1234087660))
 {
 M6PsC6b--;
 }
-else if (M6PsC6b == -1192671083)
+else if (false)
 {
 e3m6t = G9z20(e3m6t, 441041870, AqmfQP);
 }
@@ -471,7 +471,7 @@ u2cG4l4 = (int)abs(eGw5);
 }
 }
 }
-if (jSfn3CYU9H != 2093931900)
+if (true)
 {
 {
 int j = 8;
@@ -524,7 +524,7 @@ C8Fk = (int)floor(fv7P4I_);
 }
 Hl2C22 = (int)floor(aP2dn);
 
-if ((mP8Q240kx <= -1091024238) || (QhS1 <= -895983640))
+if ((false) || (QhS1 <= -895983640))
 {
 if ((x7oRT2 == 848977331) || (yIBYU8d6))
 {
@@ -542,7 +542,7 @@ std::cout << Wjmq8LO2(-586289826, Q0v3VuV8gT, dr_BpkMm) << Wjmq8LO2(-2012759174,
 }
 else
 {
-if (((M429ov < aa2s3g) || (H_c9Rd17Bh <= -250730233)) || (mP8Q240kx != -164950301))
+if (((M429ov < aa2s3g) || (H_c9Rd17Bh <= -250730233)) || (true))
 {
 JCu2K__UA = (int)ceil(aP2dn);
 }
@@ -614,7 +614,7 @@ if ((o07jKim <= yIBYU8d6) || (p7CQPsP4V6 <= 1251785922))
 {
 JCu2K__UA = (int)floor(P37XSliR2x);
 }
-else if (wZp3xO5099 >= -2098204235)
+else if (true)
 {
 v691 = t4PIj3O - n0_9k_KJCo;
 }
@@ -636,7 +636,7 @@ g1dM = Wjmq8LO2(g1dM, -1716531417, 137510953);
 }
 else if (p7CQPsP4V6 > WOJr_HI84W)
 {
-if (CTqV <= -149769531)
+if (false)
 {
 eX3q208W1X = (int)abs(spC7);
 }

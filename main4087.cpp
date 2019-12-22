@@ -28,7 +28,7 @@ int main(int argc, char** argv)
 
 if (Zo84Jfd)
 {
-if ((sEa_ & Phy604kqM) || (Zo84Jfd != -518006795))
+if ((sEa_ & Phy604kqM) || (true))
 {
 if ((EN559O) || (K665ZK != 2105964750))
 {

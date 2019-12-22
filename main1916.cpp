@@ -210,7 +210,7 @@ else
 std::cout << VOe_KbNLt << Pmxo(AlRh, ETJxFFfC1, y9lIn, -1271185903, -628990557) << "YFk02a_VM" << "CHX3" << std::endl;
 }
 Z0Sv = y3B2(1149846226);
-if (((m4_xD >= 653221983) && (Y3YfEQ6Vt > z79532P)) || ((Real == AhcxS80obQ) && (WodeK != AhcxS80obQ)))
+if (((false) && (Y3YfEQ6Vt > z79532P)) || ((Real == AhcxS80obQ) && (WodeK != AhcxS80obQ)))
 {
 u1_8_m8FbT = zv5Fc3b0 & 1163069477;
 }

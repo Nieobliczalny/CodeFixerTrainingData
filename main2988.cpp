@@ -36,7 +36,7 @@ for (int i = 0; i < 7; ++i)
 {
 cout << bgot << endl;
 }
-if ((jBQtBo) || ((Cmp9ip != -1815615134) && (semnB < 2050661775)))
+if ((jBQtBo) || ((true) && (semnB < 2050661775)))
 {
 for (int j = 0; j < 10; j++)
 {
@@ -120,7 +120,7 @@ case 'a':
 Le45_3U = (int)abs(semnB);
 break;
 case 'b':
-jBQtBo = (Cmp9ip >= 425480651) ? Dh_8_8 : RGkfUv1Zhz;
+jBQtBo = (false) ? Dh_8_8 : RGkfUv1Zhz;
 break;
 case 'c':
 lwcpyH = hmR44x87();
@@ -130,7 +130,7 @@ semnB %= RGkfUv1Zhz;
 break;
 }
 }
-else if ((Cmp9ip != -663752040) && (RGkfUv1Zhz != 2088054141))
+else if ((true) && (RGkfUv1Zhz != 2088054141))
 {
 for (int j = 9; j >= 0; --j)
 {
@@ -141,7 +141,7 @@ else if (bgot >= 210550556)
 {
 cout << Ij8mf9_X(265207666, rf09y9, RGkfUv1Zhz, 408980849, -1328720208) << hmR44x87() << endl;
 }
-else if ((Dh_8_8) || ((Cmp9ip > -594946456) || (RGkfUv1Zhz == eHd0chm_)))
+else if ((Dh_8_8) || ((true) || (RGkfUv1Zhz == eHd0chm_)))
 {
 rf09y9 = (long)(Dh_8_8);
 }
@@ -296,7 +296,7 @@ else if (tjLAUmdhWV != 2023771983)
 {
 jBQtBo = (long)(nAqL + (918312131));
 }
-else if (((nAqL <= 1424711637) && (bgot >= Le45_3U)) && (tjLAUmdhWV >= RGkfUv1Zhz))
+else if (((true) && (bgot >= Le45_3U)) && (tjLAUmdhWV >= RGkfUv1Zhz))
 {
 if (jBQtBo != -1718752934)
 {
@@ -320,7 +320,7 @@ if (eHd0chm_ == 1922255238)
 {
 tjLAUmdhWV &= C2_EG7JR7T;
 }
-else if (lwcpyH <= -991916140)
+else if (false)
 {
 {
 int j = 6;
@@ -364,7 +364,7 @@ jBQtBo = Ij8mf9_X(lwcpyH, nAqL, jBQtBo, tjLAUmdhWV, RGkfUv1Zhz);
 }
 }
 }
-else if (Cmp9ip < 889047456)
+else if (true)
 {
 {
 int j = 0;

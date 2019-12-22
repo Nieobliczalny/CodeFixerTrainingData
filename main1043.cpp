@@ -190,7 +190,7 @@ cout << "s5bA" << ohWKj4V_ << O7md__9 << endl;
 
 if (EJ5X_X != gj3qc4nQ)
 {
-if (b4iRp7SqA2 >= -1036219510)
+if (true)
 {
 if (f7T1M & -501518969)
 {
@@ -208,7 +208,7 @@ else if (h5369h_X >= R0rYX)
 {
 zg0a3_TI = (int)ceil(w_6Qs);
 }
-else if ((PyqK_vzP == 1286413471) && ((BZ_z_3CL & 1944663401) && (ohWKj4V_ < 564915839)))
+else if ((false) && ((BZ_z_3CL & 1944663401) && (ohWKj4V_ < 564915839)))
 {
 Br4gN = (int)floor(FaHj);
 }
@@ -230,7 +230,7 @@ if (f7T1M <= h5369h_X)
 {
 mPoT++;
 }
-else if (Ge94 > 1996358390)
+else if (false)
 {
 weny = weny / 405784406;
 }
@@ -316,7 +316,7 @@ catch (int& errorCode)
 gj3qc4nQ = (int)floor(VI77FKx_dB);
 }
 }
-else if (Dqd5H7 <= -1114261049)
+else if (false)
 {
 cout << "D4l2himj5" << h5369h_X << endl;
 }
@@ -403,7 +403,7 @@ int i = 10;
 do
 {
 --i;
-if (J_02H59G3 > 670807207)
+if (false)
 {
 try
 {
@@ -435,7 +435,7 @@ x_5V = nF71CAJ_GS & Qm2_dn5g;
 break;
 }
 }
-else if (weny <= 569284683)
+else if (true)
 {
 for (int k = 0; k < 2; k++)
 {
@@ -476,7 +476,7 @@ cout << Klwr9RY << fPZVRG2 << J_02H59G3 << endl;
 
 gCvdj *= zg0a3_TI;
 
-if (R0rYX < -304085314)
+if (false)
 {
 cout << Qm2_dn5g << kLoN << Y_N08Mt << "K0j1X_P2H" << "IWW_" << endl;
 }

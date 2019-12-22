@@ -122,7 +122,7 @@ catch (int& errorCode)
 {
 BF06ZZK = FCq090u_ % 162082672;
 }
-if (O5fQF4qc6v <= -1997338416)
+if (false)
 {
 if (ZqkGyg == 912538103)
 {
@@ -135,7 +135,7 @@ catch (int& errorCode)
 oS70t = (int)floor(ym04eIy6y);
 }
 }
-else if ((t4D55X50T < 1526436137) || ((GAjSD7hK == U0XHLBq_I) || (S02MIW == KR04f)))
+else if ((true) || ((GAjSD7hK == U0XHLBq_I) || (S02MIW == KR04f)))
 {
 try
 {
@@ -148,7 +148,7 @@ oS70t = (int)abs(KR04f);
 }
 else if (((MDC_O2j1r <= 827373656) && (U0XHLBq_I == k0AZ71)) || (fk6U_zn5Bn < 1062767509))
 {
-if (((lUwnGJl1 > 1807525829) && (BF06ZZK > S02MIW)) || (uq47 < -278564538))
+if (((lUwnGJl1 > 1807525829) && (BF06ZZK > S02MIW)) || (false))
 {
 x_95QNs26 = (int)abs(O5fQF4qc6v);
 }
@@ -167,7 +167,7 @@ else if (((bE0R17 != wVE7N86t) && (G_38n_O & E1QZ_wz5)) && (K2_ut8bfy != BF06ZZK
 {
 uL1Hwz8DBQ--;
 }
-else if ((gba878KTPB < -2055040422) || (AV_B92CmxR & MDC_O2j1r))
+else if ((false) || (AV_B92CmxR & MDC_O2j1r))
 {
 x_95QNs26 = LYW1YF58(x_95QNs26, -1132073725, -323886037);
 }
@@ -367,7 +367,7 @@ for (int j = 8; j >= 0; j--)
 KR04f = (int)ceil(OsJ3GDG0DD);
 }
 }
-else if (FCq090u_ < 1418267864)
+else if (true)
 {
 std::cout << b9y_ << JaS2A6sOJO << "pme6GC766" << std::endl;
 }
@@ -444,7 +444,7 @@ K2_ut8bfy = (long long)(fk6U_zn5Bn);
 
 U0XHLBq_I = G_38n_O ^ 1858495897;
 
-if ((uL1Hwz8DBQ <= -500727363) || (J7Q2Lt >= LLQG))
+if ((false) || (J7Q2Lt >= LLQG))
 {
 AV_B92CmxR = (unsigned short int)(JaS2A6sOJO);
 }
@@ -456,7 +456,7 @@ else
 {
 for (int j = 0; j < 9; j++)
 {
-if (tam7g4zq6_ == 1402885904)
+if (false)
 {
 oS70t = j8_tbl(oS70t, WTq8e, EleE, -1879378190, SkcBXTgSs8);
 }
@@ -492,7 +492,7 @@ OGueY /= d2vJ;
 }
 }
 }
-else if ((p67QK == -1031648184) || ((t4D55X50T >= -838297521) && (EleE == -2048547592)))
+else if ((p67QK == -1031648184) || ((true) && (EleE == -2048547592)))
 {
 std::cout << LYW1YF58(-1235181173, -598258789, b9y_) << "dzjqq4" << "Nv_54yL" << MDC_O2j1r << std::endl;
 }
@@ -545,7 +545,7 @@ break;
 }
 else if (K2_ut8bfy)
 {
-if (h_CA7qMK != 1364699736)
+if (true)
 {
 try
 {
@@ -631,7 +631,7 @@ if ((T6C0_Vy27U) || (ym04eIy6y > 648555243))
 {
 std::cout << S02MIW << AV_B92CmxR << FCq090u_ << "H8DNX" << "SVCcR4E7" << std::endl;
 }
-else if (WmErvex > -41296081)
+else if (true)
 {
 KR04f = (float)(FCq090u_);
 }

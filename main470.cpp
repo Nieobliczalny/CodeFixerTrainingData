@@ -154,7 +154,7 @@ if (VDP3Cyq)
 std::cout << vSkr4rG(-319551576, 1548288944, -1208498650, VDP3Cyq) << std::endl;
 }
 
-if (D4K387HfG8 <= -558910077)
+if (false)
 {
 switch (D4K387HfG8)
 {
@@ -170,7 +170,7 @@ else if (jNdT1p7D)
 {
 LjY3x = vSkr4rG(VDP3Cyq, D4K387HfG8, jNdT1p7D, LjY3x);
 }
-else if (D4K387HfG8 <= 151641805)
+else if (true)
 {
 jNdT1p7D = VDP3Cyq + 2114778515;
 }
@@ -203,7 +203,7 @@ VDP3Cyq = (unsigned char)(VM4Yi6 + (-1695078983));
 }
 if (D4K387HfG8)
 {
-if ((D4K387HfG8 == -96094142) || (D4K387HfG8 & -1122824146))
+if ((false) || (D4K387HfG8 & -1122824146))
 {
 std::cout << "EP7w3n5k" << std::endl;
 }
@@ -218,7 +218,7 @@ std::cout << vSkr4rG(D4K387HfG8, LjY3x, jNdT1p7D, VDP3Cyq) << std::endl;
 }
 
 LjY3x = (unsigned int)(VM4Yi6);
-if ((VDP3Cyq == -898829586) || (VDP3Cyq & VM4Yi6))
+if ((false) || (VDP3Cyq & VM4Yi6))
 {
 LjY3x = vSkr4rG(811293776, -586452007, 716402704, 521945239);
 }
@@ -319,7 +319,7 @@ int j = 0;
 while (j < 1)
 {
 ++j;
-if (D4K387HfG8 >= -803165558)
+if (true)
 {
 D4K387HfG8--;
 }
@@ -357,7 +357,7 @@ for (int k = 0; k < 8; ++k)
 LjY3x = vSkr4rG(D4K387HfG8, 1468739928, LjY3x, jNdT1p7D);
 }
 }
-else if (((LjY3x) || (D4K387HfG8 >= 395776900)) || (LjY3x))
+else if (((LjY3x) || (false)) || (LjY3x))
 {
 try
 {
@@ -468,7 +468,7 @@ if (VDP3Cyq > VM4Yi6)
 {
 LjY3x = vSkr4rG(937459770, -3969762, 1169171586, VDP3Cyq);
 }
-else if (VDP3Cyq > -1747929800)
+else if (true)
 {
 D4K387HfG8 %= VDP3Cyq;
 }
@@ -488,7 +488,7 @@ j++;
 }
 }
 }
-else if (VDP3Cyq >= -759328383)
+else if (true)
 {
 std::cout << vSkr4rG(VDP3Cyq, 1524975846, jNdT1p7D, LjY3x) << vSkr4rG(-131064306, 482388808, jNdT1p7D, 218536454) << "Cn5YF" << std::endl;
 }
@@ -525,7 +525,7 @@ else
 {
 if (((D4K387HfG8) || (VDP3Cyq <= jNdT1p7D)) && (jNdT1p7D < D4K387HfG8))
 {
-if (((D4K387HfG8 >= 1039859828) || (VDP3Cyq > -1056241844)) && ((D4K387HfG8 & -200907319) && (D4K387HfG8 != VM4Yi6)))
+if (((false) || (VDP3Cyq > -1056241844)) && ((D4K387HfG8 & -200907319) && (D4K387HfG8 != VM4Yi6)))
 {
 VDP3Cyq = vSkr4rG(-580940665, LjY3x, 1790043701, -1265469399) >> 231158182;
 }

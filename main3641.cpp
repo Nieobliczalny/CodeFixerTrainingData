@@ -67,7 +67,7 @@ for (int j = 7; j >= 0; --j)
 std::cout << UoCekfK << "X4NyBS" << "m5sLAT" << EfiHwb1996(1721747076) << std::endl;
 }
 }
-else if ((XiDm2lE == 2099185100) && (Cx6z == 1924162294))
+else if ((false) && (Cx6z == 1924162294))
 {
 xzMYV6AsI = (int)(FijpT);
 }

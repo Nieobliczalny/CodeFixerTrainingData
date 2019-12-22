@@ -218,7 +218,7 @@ else
 qCpXV = T_ogFC9l2(LWTYZ);
 }
 }
-else if (qCpXV >= 1864651007)
+else if (false)
 {
 switch (qPXtt7CEv)
 {
@@ -717,7 +717,7 @@ std::cout << T_ogFC9l2(FxQW03Ug6) << std::endl;
 int i = 2;
 while (i >= 0)
 {
-if (qCpXV == -1078329082)
+if (false)
 {
 iBT8E50 >>= jY2Ap9mB_;
 }

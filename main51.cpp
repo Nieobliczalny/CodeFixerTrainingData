@@ -331,7 +331,7 @@ V2ZGH3i = (int)ceil(uSTYC0);
 
 if ((H640Ts_D) && ((pFLpKuQd < -556560506) || (xAP6rz3 != 407386935)))
 {
-if (Av8iN_nN < -958031454)
+if (false)
 {
 for (int k = 0; k < 8; ++k)
 {
@@ -350,7 +350,7 @@ for (int j = 0; j < 6; j++)
 K339L3B69z = (int)ceil(uSTYC0);
 }
 }
-else if (j80763vY >= 1418792073)
+else if (false)
 {
 if (sqnTp != -553389068)
 {
@@ -367,7 +367,7 @@ else if (D8zd7Kh > sqnTp)
 {
 egSAtf8V0y = (short)(ufptV6e8);
 }
-else if (egSAtf8V0y != 1243306811)
+else if (true)
 {
 {
 int k = 9;
@@ -470,7 +470,7 @@ mQRT = (int)floor(tpX9D324x);
 cvH_j1Y9k = nuMG(cvH_j1Y9k, G51p, -739799211, -1799989926, ILf3_);
 if (sqnTp < DuRAYx_)
 {
-if ((p7nQK != UlyOF) && ((N6987n != ufptV6e8) || (Y9Nc == UlyOF)))
+if ((p7nQK != UlyOF) && ((true) || (Y9Nc == UlyOF)))
 {
 {
 int k = 0;
@@ -486,7 +486,7 @@ while (k < 2);
 
 for (int i = 3; i >= 0; --i)
 {
-if ((DjIXFSh2 >= UlyOF) && ((eNZBnl != -28626201) && (mhZQRW < Hr11K)))
+if ((DjIXFSh2 >= UlyOF) && ((true) && (mhZQRW < Hr11K)))
 {
 if (uqlk & -1959002239)
 {

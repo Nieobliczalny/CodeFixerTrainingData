@@ -43,7 +43,7 @@ if (Upp6K92N6 & IJ50dGR)
 {
 E_3wa81S_M = (float)(aP0_F);
 }
-else if (((a163vc1k >= 2047922123) && (rY5944Lpw > 1598873796)) && ((Lwtd7vPd < -1154522336) || (IJ50dGR <= -1129273744)))
+else if (((a163vc1k >= 2047922123) && (rY5944Lpw > 1598873796)) && ((Lwtd7vPd < -1154522336) || (false)))
 {
 z2PC3H -= rY5944Lpw;
 }

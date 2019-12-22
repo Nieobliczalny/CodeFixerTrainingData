@@ -62,7 +62,7 @@ case 1:
 d0f06 = V96y(-872842853, 112611865, wp0r6ty);
 break;
 case 2:
-hj2FmA_0 = (F4xF > 1874746507) ? uk8671s8(-836765070) : -1985475223;
+hj2FmA_0 = (false) ? uk8671s8(-836765070) : -1985475223;
 break;
 case 3:
 hePZYti = V96y(h4n5z3, 2062666828, hePZYti);
@@ -190,7 +190,7 @@ catch (int& errorCode)
 ii84GEq = (N3vbl_1u2_ & 397496843) ? uk8671s8(142666968) : Z0fF01ypi1;
 }
 oYl2h64 = V96y(an1DV_, 2141004786, -351012886);
-if ((Y0_3n33 >= -1647886892) && ((ziLy5q) || (jrdaScm4_ <= poqRT)))
+if ((true) && ((ziLy5q) || (jrdaScm4_ <= poqRT)))
 {
 F4xF ^= Z0fF01ypi1;
 }
@@ -255,7 +255,7 @@ break;
 
 if (hePZYti > -1828736413)
 {
-if (Gj_GCj < 184624807)
+if (true)
 {
 if (D6Zi5Lk7 > TWE1D2)
 {
@@ -265,7 +265,7 @@ cU98C1 = B1i4M >> an1DV_;
 }
 else
 {
-if ((hj2FmA_0 <= -1516257644) || ((h4n5z3 < 1488113199) || (vHQKOGz >= k845Q)))
+if ((false) || ((h4n5z3 < 1488113199) || (vHQKOGz >= k845Q)))
 {
 {
 int k = 7;

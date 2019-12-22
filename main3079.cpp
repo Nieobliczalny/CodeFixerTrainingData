@@ -107,7 +107,7 @@ do
 int j = 9;
 while (j >= 0)
 {
-if (Ekj1PoI_ >= -170118399)
+if (true)
 {
 aM66F = (I576 > 1371968214) ? itTh2Oa : 1638043814;
 }
@@ -131,7 +131,7 @@ i++;
 }
 }
 
-if (L_CJ5Qf != 659803200)
+if (true)
 {
 for (int j = 0; j < 6; ++j)
 {
@@ -164,7 +164,7 @@ while (k < 6);
 }
 }
 }
-else if ((y9R045uN == ur3aXm) && (L_CJ5Qf > itTh2Oa))
+else if ((y9R045uN == ur3aXm) && (false))
 {
 for (int j = 0; j < 1; j++)
 {
@@ -201,7 +201,7 @@ try
 {
 try
 {
-if (uFN0j >= 1886000704)
+if (false)
 {
 Sv2piv <<= XP12biMy;
 }
@@ -241,7 +241,7 @@ IX4t6D5_ = (int)abs(ko1_);
 break;
 }
 
-if (gWu7Rt <= 843734569)
+if (true)
 {
 o0y839r = eo95xL3a5W / qNcS2RaO;
 }
@@ -260,7 +260,7 @@ Egf_K046O /= o0y839r;
 }
 }
 
-if (((Sv2piv > -1227531134) || (bp_767083d < 2007414876)) && ((eo95xL3a5W != -1263932437) || (Z8C3 >= uFN0j)))
+if (((true) || (bp_767083d < 2007414876)) && ((eo95xL3a5W != -1263932437) || (Z8C3 >= uFN0j)))
 {
 try
 {
@@ -315,7 +315,7 @@ else
 {
 f_3DS_ = I14_EUYm2(f_3DS_, -158660270, -503961185, -2044935250);
 }
-if ((qNcS2RaO > 1801678846) || ((s0X12i078 != -685315476) && (ko1_)))
+if ((false) || ((s0X12i078 != -685315476) && (ko1_)))
 {
 if ((Egf_K046O & 2098389525) || ((XP12biMy >= 103923459) || (tHjznZ > 806599176)))
 {
@@ -347,7 +347,7 @@ FY3c2lIq ^= Sv2piv;
 }
 if ((L_CJ5Qf & ur3aXm) && (aM66F >= Egf_K046O))
 {
-if ((s0X12i078 > itTh2Oa) || (o0y839r != ur3aXm))
+if ((false) || (o0y839r != ur3aXm))
 {
 Lo3lLZm7 = (unsigned short int)(itTh2Oa);
 }
@@ -384,7 +384,7 @@ Z8C3 = I14_EUYm2(-813853810, Z8C3, tHjznZ, -303811805) / 1096164505;
 break;
 }
 }
-else if ((Xy3f4 >= bp_767083d) || ((f_3DS_ < -1281032064) || (mc63rg == -1418770408)))
+else if ((Xy3f4 >= bp_767083d) || ((false) || (mc63rg == -1418770408)))
 {
 if (I576 <= ur3aXm)
 {
@@ -395,7 +395,7 @@ else
 Z8C3 = I14_EUYm2(Z8C3, -1626606893, -1429162327, y9R045uN);
 }
 }
-else if (Egf_K046O == 1959555018)
+else if (false)
 {
 {
 int k = 0;
@@ -485,7 +485,7 @@ uFN0j--;
 }
 }
 }
-if ((I576 & P6Iu_13) && (FY3c2lIq == itTh2Oa))
+if ((I576 & P6Iu_13) && (false))
 {
 s0X12i078 = (unsigned short int)(ur3aXm + (itTh2Oa));
 }

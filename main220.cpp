@@ -123,7 +123,7 @@ catch (int& errorCode)
 Z76PeFf = eOtR29M + 1759701741;
 }
 }
-else if (MEP7Z1lA > -1327949174)
+else if (true)
 {
 std::cout << "n4vNR493" << "WfT65q8Jqi" << std::endl;
 }
@@ -146,7 +146,7 @@ for (int i = 7; i >= 0; i--)
 int j = 0;
 while (j < 8)
 {
-if (Z76PeFf >= 914600749)
+if (false)
 {
 Fb3S2 = M_YX(690098876, -1140941113, ARh0Cw6S, Td4v9IcF0k, jj1FqMrDw);
 }
@@ -158,7 +158,7 @@ else if (MEP7Z1lA == 796552014)
 {
 iw5SwC07 = M_YX(Z76PeFf, BByOo20EW, 1565317570, 439389735, -2022465153);
 }
-else if ((c0NPv <= 52703035) || ((a9p09lYx < -2084039894) && (eOtR29M > zhHzaZ)))
+else if ((true) || ((a9p09lYx < -2084039894) && (eOtR29M > zhHzaZ)))
 {
 Fb3S2 = M_YX(-102581578, 99926578, -1585578202, Fb3S2, 1045620404);
 }
@@ -325,7 +325,7 @@ break;
 }
 
 eOtR29M = tsq6 / iw5SwC07;
-if (CS4YjbALV < 1771991675)
+if (true)
 {
 ARh0Cw6S = eOtR29M / qCqk;
 }

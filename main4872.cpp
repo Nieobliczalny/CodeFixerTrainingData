@@ -128,7 +128,7 @@ int main(int argc, char** argv) {
  int Ok2N5h9;
  Ok2N5h9 = 1280294212;
 
-if (pP35 < -2004578014)
+if (false)
 {
 faRx553lNT = O0rQm5GTW(713211980, 1608747769);
 }
@@ -280,7 +280,7 @@ PkeC37_U9 = Yfr8m - 1993902874;
 }
 }
 }
-else if (VsbT > 1443792745)
+else if (false)
 {
 if (Rql7OyUTY >= DbSB3)
 {
@@ -330,7 +330,7 @@ else if (pP35 > S_YM5)
 {
 n4zvyUSF = (double)(ceF07yUN);
 }
-else if (pP35 < 973455663)
+else if (true)
 {
 cout << "MvjmlP0F" << BjK9gv6I << endl;
 }
@@ -373,7 +373,7 @@ XDQfxJi_r = O0rQm5GTW(-441794923, -1192516731);
 F03Goo7F = DA0qGJOgO | Rql7OyUTY;
 cout << OJWd(XDQfxJi_r, ceF07yUN) << OJWd(XDQfxJi_r, -2078476792) << l_JT7 << endl;
 
-if (((yt74v != XDQfxJi_r) || (UF_xa6 <= XDQfxJi_r)) && (IDJge != k0qT1p1OF))
+if (((yt74v != XDQfxJi_r) || (UF_xa6 <= XDQfxJi_r)) && (true))
 {
 DD123a75n = (int)floor(BjK9gv6I);
 }

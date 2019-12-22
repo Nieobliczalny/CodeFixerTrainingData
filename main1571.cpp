@@ -88,7 +88,7 @@ NX8d1BI8G = (int)ceil(g15b_y2);
 
 ECEVtHt3 = u0575Pq4k7(ECEVtHt3, 762517927, tfv20OKR);
 
-if (tfv20OKR > 321248681)
+if (false)
 {
 WTFu &= mzZm1p0366;
 }
@@ -102,7 +102,7 @@ case 1:
 VkMhn = (int)floor(JQ4ZM6);
 break;
 case 2:
-ie7g8_99K = (ECEVtHt3 != 674797876) ? u0575Pq4k7(ECEVtHt3, g15b_y2, -923618692) : gmSu4x0_2;
+ie7g8_99K = (true) ? u0575Pq4k7(ECEVtHt3, g15b_y2, -923618692) : gmSu4x0_2;
 break;
 case 3:
 NX8d1BI8G = (int)floor(Nx1v51M8U);
@@ -131,7 +131,7 @@ for (int k = 1; k >= 0; --k)
 NX8d1BI8G = (int)ceil(g15b_y2);
 }
 }
-else if (zQ7tcEt >= -270880808)
+else if (true)
 {
 for (int k = 0; k < 5; ++k)
 {
@@ -242,7 +242,7 @@ catch (int& errorCode)
 x_Pm = u0575Pq4k7(1913447417, -1048875628, -2136570277);
 }
 }
-else if (((gmSu4x0_2 <= -1696014582) || (oS0I)) && (q76x2h <= -1634047644))
+else if (((false) || (oS0I)) && (q76x2h <= -1634047644))
 {
 if (oS0I)
 {
@@ -303,7 +303,7 @@ else if (((gmSu4x0_2 & -2144427095) || (B5mY79q40 >= VPPRiw454M)) && (n9rA & o21
 {
 bhw2WVBY0p = R9soX9tB ^ 1778280712;
 }
-else if ((YE4Y != 153895884) || ((x_Pm) || (g15b_y2 >= q76x2h)))
+else if ((true) || ((x_Pm) || (g15b_y2 >= q76x2h)))
 {
 tfv20OKR = Llf1 << OiIWJz6pTu;
 }

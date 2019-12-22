@@ -228,7 +228,7 @@ int j = 10;
 do
 {
 j--;
-if ((K6fsmL9x < YR05) || (jtKd8P_ >= 84021568))
+if ((K6fsmL9x < YR05) || (false))
 {
 U9NikZO49 = ENEOE();
 }
@@ -249,7 +249,7 @@ JTe6 = (int)abs(LZMVVWW);
 }
 }
 
-if (((nH6_ln3F4 <= YR05) || (IBVT_H > 1859222819)) && (H_hLmaW6zr <= Co1b))
+if (((nH6_ln3F4 <= YR05) || (false)) && (H_hLmaW6zr <= Co1b))
 {
 std::cout << p_4LB3 << aR_K0DVA() << lK_HF69 << std::endl;
 }
@@ -289,7 +289,7 @@ else
 vikds = (int)ceil(Auiq73fkw);
 }
 }
-else if ((V_9ke1 >= -1377417751) || ((m3pOL3EJ2K & y76_qY7xV) && (vxLu2g7pf >= 1002604684)))
+else if ((true) || ((m3pOL3EJ2K & y76_qY7xV) && (vxLu2g7pf >= 1002604684)))
 {
 if (Auiq73fkw)
 {

@@ -14,7 +14,7 @@ int main() {
 
 m8Hbvq >>= WxB_0zd;
 Gp0j6yXv = (unsigned short)(inV9mWnbx_);
-if (inV9mWnbx_ == -1652277217)
+if (false)
 {
 if ((k2ks1KHI33) && (rdBu1_FAV7 < Gp0j6yXv))
 {
@@ -27,7 +27,7 @@ else
 ABA4_BYdZu = ogZM14P1 | flR1rtrV3;
 }
 }
-else if (uv6hm7U == 570082398)
+else if (false)
 {
 try
 {
@@ -38,7 +38,7 @@ catch (int& errorCode)
 GKqv >>= SRNmMimdZ3;
 }
 }
-else if ((Gp0j6yXv != 1770646900) || (k2ks1KHI33 <= 104051975))
+else if ((true) || (k2ks1KHI33 <= 104051975))
 {
 switch (inV9mWnbx_)
 {
@@ -78,7 +78,7 @@ else if (inV9mWnbx_)
 {
 Gp0j6yXv %= uv6hm7U;
 }
-else if (Jo15py > -1176741410)
+else if (true)
 {
 {
 int k = 10;
@@ -98,7 +98,7 @@ else
 {
 wGuUJ <<= k2ks1KHI33;
 }
-if (rdBu1_FAV7 <= -1292095108)
+if (false)
 {
 flR1rtrV3 = rdBu1_FAV7 / 264375000;
 }
@@ -112,7 +112,7 @@ cout << "x9RpJ" << flR1rtrV3 << "bHis" << "vReHG" << ABA4_BYdZu << endl;
 
 Gb52P--;
 
-if (((m8Hbvq == 283380479) || (Jo15py)) && (XJu106n4 != 84287160))
+if (((false) || (Jo15py)) && (XJu106n4 != 84287160))
 {
 switch (haRM6_5)
 {
@@ -136,7 +136,7 @@ int j = 0;
 do
 {
 ++j;
-if (mxbVx10J < 1157966262)
+if (true)
 {
 PjWKuS ^= 744065788;
 }
@@ -161,7 +161,7 @@ WxB_0zd <<= uv6hm7U;
 i++;
 }
 }
-if (m8Hbvq > 1717458605)
+if (false)
 {
 if (ogZM14P1 & 1523085490)
 {
@@ -261,7 +261,7 @@ while (i >= 0)
 i--;
 for (int j = 10; j >= 0; --j)
 {
-if (ABA4_BYdZu > 1739650440)
+if (false)
 {
 wGuUJ = r8X4o5AX8 / m8Hbvq;
 }

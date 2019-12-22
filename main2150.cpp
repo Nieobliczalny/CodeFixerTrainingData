@@ -53,7 +53,7 @@ Zuib11UAMY = cq60(1746179660);
 Zuib11UAMY = cq60(938051753);
 
 cout << cq60(o27hH) << cq60(-370450435) << endl;
-if (jbRW3 < -138467275)
+if (false)
 {
 DkAODZ2 = (int)abs(l2jj);
 }
@@ -95,7 +95,7 @@ DRLxnV9r &= 1302963266;
 cout << cq60(6056470) << cq60(-471185642) << "Y_L4lD" << cq60(97876267) << cq60(-323499597) << endl;
 
 Z4wmE = (char)(uH7X);
-if (K3vq9t > -63888742)
+if (true)
 {
 cout << k_B6 << Kd5c << "XbjW_0dKI_" << "C90w" << "fF3Tb" << endl;
 }

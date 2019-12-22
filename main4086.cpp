@@ -74,7 +74,7 @@ m9TJ = AcTft / m9TJ;
 }
 }
 }
-else if ((z2443v != -244519976) && (m9TJ > 1328507365))
+else if ((z2443v != -244519976) && (false))
 {
 std::cout << "YuXI6_6l" << p9MRy_3 << std::endl;
 }
@@ -91,7 +91,7 @@ while (k >= 0);
 }
 }
 }
-if ((A4t0MSeQO <= -673657723) && (cwbbqZJY > -1969649920))
+if ((A4t0MSeQO <= -673657723) && (true))
 {
 rYJ_LAlg2v = (int)floor(Rn8r);
 }
@@ -124,7 +124,7 @@ aq67R1nh8 = (int)abs(Ip5463K);
 }
 else
 {
-if ((nAPG8Q7i1z <= -1516562472) || (t0yHYN <= EU2loF3bm9))
+if ((false) || (t0yHYN <= EU2loF3bm9))
 {
 for (int k = 0; k < 2; ++k)
 {

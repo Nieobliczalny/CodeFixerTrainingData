@@ -44,7 +44,7 @@ case 1:
 KRa7j608 >>= 197672915;
 break;
 case 2:
-w_5r = (kfb216j8h == 1206060661) ? p6gOe4h_S : -856887152;
+w_5r = (false) ? p6gOe4h_S : -856887152;
 break;
 case 3:
 E5dX35V98 <<= 1104701551;
@@ -75,7 +75,7 @@ k++;
 }
 }
 }
-else if (kfb216j8h == 1131221441)
+else if (false)
 {
 for (int k = 0; k < 10; k++)
 {
@@ -118,7 +118,7 @@ nQ3hz53O = nQ3hz53O % Piqw3p6;
 break;
 }
 }
-else if (kfb216j8h < -140274613)
+else if (false)
 {
 std::cout << "EhXR4i" << p6gOe4h_S << "nq43g_kx0" << w_5r << nQ3hz53O << std::endl;
 }
@@ -151,7 +151,7 @@ if (nQ3hz53O == kfb216j8h)
 E5dX35V98 -= 1053062953;
 }
 }
-else if ((p6gOe4h_S != 1747260556) && (FGaSi > uP7_))
+else if ((true) && (FGaSi > uP7_))
 {
 ln2Y6F8F = (unsigned long)(p6gOe4h_S * ln2Y6F8F);
 }
@@ -209,7 +209,7 @@ FGaSi /= KRa7j608;
 break;
 }
 }
-if ((p6gOe4h_S & kfb216j8h) || ((KRa7j608 <= -394969423) || (ln2Y6F8F >= 911691799)))
+if ((p6gOe4h_S & kfb216j8h) || ((false) || (ln2Y6F8F >= 911691799)))
 {
 if (E5dX35V98 < KRa7j608)
 {
@@ -221,7 +221,7 @@ int i = 0;
 while (i < 6)
 {
 i++;
-if (Piqw3p6 >= -1817945326)
+if (true)
 {
 {
 int k = 9;
@@ -232,7 +232,7 @@ E5dX35V98 <<= 1204372013;
 }
 }
 }
-else if (Piqw3p6 < 977640575)
+else if (true)
 {
 std::cout << "TzWw" << uP7_ << KRa7j608 << "vWl9Z07" << ln2Y6F8F << std::endl;
 }
@@ -323,7 +323,7 @@ for (int i = 5; i >= 0; --i)
 {
 if (w_5r & -1226549461)
 {
-if (nQ3hz53O != 905681551)
+if (true)
 {
 uP7_ ^= 1402211260;
 }

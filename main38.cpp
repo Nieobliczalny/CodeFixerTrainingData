@@ -189,7 +189,7 @@ catch (int& errorCode)
 WL0O9gXL3 = (int)abs(f22V38oB);
 }
 
-if (((do7H < -658076855) || (V4VS035 >= 393672792)) || (VfoM_593 < cF9Qi))
+if (((do7H < -658076855) || (false)) || (VfoM_593 < cF9Qi))
 {
 switch (d1W16)
 {
@@ -365,7 +365,7 @@ std::cout << SH2h2 << std::endl;
 
 lF5_Ju = (int)ceil(V5iWdI);
 WL0O9gXL3 = (int)ceil(TSF2w7);
-if ((wCp6Lri == JpyWQ1aM) || (SH2h2 < -647712789))
+if ((wCp6Lri == JpyWQ1aM) || (false))
 {
 V5iWdI = RF84ylI(V5iWdI, -1822697557, U__claY2, sV88GasJ);
 }
@@ -388,7 +388,7 @@ OUBer = (int)floor(k56rDMQ9L);
 }
 }
 
-if (U__claY2 == 824226549)
+if (false)
 {
 std::cout << "K9Sf7m" << std::endl;
 }
@@ -428,7 +428,7 @@ std::cout << "QBB22g" << "p9c_" << std::endl;
 }
 else
 {
-if (bdu7 < -1237965121)
+if (false)
 {
 {
 int k = 0;

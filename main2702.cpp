@@ -24,7 +24,7 @@ int main() {
   char  suc8  =  1449701549,  wppkZP6  =  -474875939,  LJm2dn4ul  =  -835812781,  PE9a_l06gr  =  1700903735,  Eo61g_  =  2005394776,  O1ydJ7Z37  =  501286473,  v4wLOzaK  =  -677215150,  h99L  =  1359783037,  NBifYH5muk  =  1633423480,  NY6q1sN  =  -1442311910,  lxaxbUxgs  =  1433900932,  sRUN7Aqor  =  1988187530,  Iwnrd_4d9  =  -721868493,  L7DG9vOx8y  =  -2095305786,  eUik5  =  -1089234497,  Kf2A  =  -409173016,  qUC_HqldlY  =  1876330159,  CbQorty  =  1360619331,  KfOj6zK  =  -1858052954,  NFrML4_bss  =  470992729,  C0x__3  =  -116314279;
  char XIi305Th1 = 0, L_TBA4TO6o = 0, snwU57_ = 0, a_Tw = 0;
 
-if (v4wLOzaK > Cf0rbK)
+if (false)
 {
 {
 int j = 0;

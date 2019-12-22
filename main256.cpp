@@ -146,7 +146,7 @@ bE3X59J = JE3f7g_1S1(Ee7WHWP5) & 564669851;
 
 M_aE0_X = (int)floor(lH4Y8n);
 
-if ((gtd7r1pF >= -143760400) && ((A7fo1_U < 1815673161) || (p21Juvt7e < SJBlI)))
+if ((true) && ((A7fo1_U < 1815673161) || (p21Juvt7e < SJBlI)))
 {
 {
 int j = 0;

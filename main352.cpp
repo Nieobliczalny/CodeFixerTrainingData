@@ -93,7 +93,7 @@ Bvk5bZ3s = (int)ceil(TDm7F0U17q);
 }
 else if (Y_KCH)
 {
-if (((e5KsN <= 1404024851) && (wb_wQK_ != 1640232994)) && (YbNr == 2035104190))
+if (((e5KsN <= 1404024851) && (wb_wQK_ != 1640232994)) && (false))
 {
 hIC_kB0a = Y_KCH / zgP3UgJF4_;
 }

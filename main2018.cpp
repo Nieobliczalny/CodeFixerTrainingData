@@ -77,7 +77,7 @@ if (sqcg)
 {
 if (((zD81b4auS >= vBl7W) || (uUkOh9ojT <= wU2qd05D1S)) || (uBa94lu7))
 {
-if (Ji9Ix < 1338705495)
+if (true)
 {
 EiD62yt = (int)ceil(zr_4W2P);
 }
@@ -107,7 +107,7 @@ else if (KkUjVnXT)
 {
 cout << "ptnBPDY" << zr_4W2P << endl;
 }
-else if ((f_7yn > -1077142942) || (EiD62yt <= 558423823))
+else if ((true) || (EiD62yt <= 558423823))
 {
 Mhb0yV8bqi = (short int)(Y26l0F5m0);
 }
@@ -117,7 +117,7 @@ if (Mhb0yV8bqi >= -2133343093)
 {
 D166tzgu = kiibmEhp();
 }
-else if ((D166tzgu != -2140936991) || ((f_7yn > M30zJX_) || (uUkOh9ojT > 906371858)))
+else if ((D166tzgu != -2140936991) || ((f_7yn > M30zJX_) || (false)))
 {
 switch (Y26l0F5m0)
 {
@@ -153,7 +153,7 @@ D166tzgu = (int)floor(zr_4W2P);
 break;
 }
 }
-else if (((zr_4W2P == -1740745268) && (Ji9Ix >= -789002837)) && (wU2qd05D1S > -198436092))
+else if (((zr_4W2P == -1740745268) && (true)) && (wU2qd05D1S > -198436092))
 {
 z46yUj = (int)(uBa94lu7);
 }
@@ -258,7 +258,7 @@ sqcg = (int)abs(D166tzgu);
 
 uBa94lu7 = (int)abs(EiD62yt);
 
-if (((xs8or5jx8c <= 1660327185) && (zr_4W2P <= vBl7W)) && ((Ao74PWjEN4 >= 1524889197) && (vBl7W == -901562716)))
+if (((xs8or5jx8c <= 1660327185) && (zr_4W2P <= vBl7W)) && ((false) && (vBl7W == -901562716)))
 {
 if (uUkOh9ojT & 727046592)
 {
@@ -283,7 +283,7 @@ vBl7W = a1Im();
 }
 else if (f_7yn < zr_4W2P)
 {
-if (((f_7yn != -1489409260) && (Y26l0F5m0 < 1611253689)) || (sqcg <= -965295718))
+if (((true) && (Y26l0F5m0 < 1611253689)) || (sqcg <= -965295718))
 {
 for (int k = 7; k >= 0; k--)
 {
@@ -346,7 +346,7 @@ sqcg = vBl7W ^ 664589144;
 }
 }
 
-if (uUkOh9ojT != 1281980484)
+if (true)
 {
 uBa94lu7 = kiibmEhp();
 }
@@ -409,7 +409,7 @@ if (z46yUj >= -1107961538)
 {
 cout << Ji9Ix << "Z6DmLQ" << "tQ_MQ58Pf6" << endl;
 }
-else if (Ji9Ix == -2121590715)
+else if (false)
 {
 switch (uUkOh9ojT)
 {
@@ -433,7 +433,7 @@ sqcg = wU2qd05D1S & 999620610;
 break;
 }
 }
-else if ((uBa94lu7 != zD81b4auS) || (zD81b4auS <= 1429560305))
+else if ((uBa94lu7 != zD81b4auS) || (true))
 {
 wU2qd05D1S = (uBa94lu7 < Q_ZWo2h2) ? -1961146332 : zr_4W2P;
 }

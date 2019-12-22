@@ -33,7 +33,7 @@ default:
 sKhH4 = (int)abs(OIHtIG_41M);
 break;
 }
-if (Pw7XH != 1113768964)
+if (true)
 {
 {
 int j = 0;
@@ -86,7 +86,7 @@ a95DwCcW ^= tD_GhKF;
 f2A_xg = (int)abs(sKhH4);
 Rv3k3E = (unsigned short)(wl_3hFnjY);
 
-if (((gUEGX8V == 88290342) && (TQYzkX0445 & 570014498)) && (VDBl))
+if (((false) && (TQYzkX0445 & 570014498)) && (VDBl))
 {
 for (int j = 5; j >= 0; --j)
 {
@@ -144,7 +144,7 @@ int j = 0;
 while (j < 4)
 {
 j++;
-if (UoGSfX == 2064504854)
+if (false)
 {
 D2s70MsquO--;
 }
@@ -218,7 +218,7 @@ Nd3R_RbgXl |= 1689858770;
 break;
 }
 }
-else if ((S5OC3C) && (t_ip8_1L6p <= -930725931))
+else if ((S5OC3C) && (false))
 {
 K11S_e49l2 ^= F82H90ND;
 }
@@ -232,7 +232,7 @@ else if ((u66hFli6H & w_0XFvKeZ4) && (Pw7XH < fJWd6Ot))
 {
 Bo83o++;
 }
-else if ((S5OC3C > -772449400) || (D5ZNf5Q_Bt > fJP7D0MX0U))
+else if ((true) || (D5ZNf5Q_Bt > fJP7D0MX0U))
 {
 OIHtIG_41M = (int)abs(H59E8el_);
 }
@@ -242,7 +242,7 @@ sKhH4 = (int)abs(Xmo1o55D4a);
 }
 else if (S5OC3C != 1834520796)
 {
-Nd3R_RbgXl = (npc2Xf > 1225772620) ? d0_6fHy : 299702583;
+Nd3R_RbgXl = (false) ? d0_6fHy : 299702583;
 }
 else if (WD2_Eo98 >= Rv3k3E)
 {
@@ -253,7 +253,7 @@ else
 Xmo1o55D4a = (int)abs(OIHtIG_41M);
 }
 }
-else if (u66hFli6H != 166503794)
+else if (true)
 {
 switch (J_7SMc3)
 {
@@ -347,7 +347,7 @@ int i = 0;
 while (i < 10)
 {
 i++;
-if ((C99uxc2y == -920715935) || (D2s70MsquO == Rv3k3E))
+if ((false) || (D2s70MsquO == Rv3k3E))
 {
 D5ZNf5Q_Bt *= g2awo0_BUV;
 }
@@ -417,7 +417,7 @@ else if (((u66hFli6H & Pw7XH) || (i32pPBv <= F82H90ND)) || (GJ0IYOzr & Fom_))
 {
 OIHtIG_41M = (int)abs(sKhH4);
 }
-else if (((OmK8Fet < OIHtIG_41M) || (OmK8Fet <= 1307424606)) && (K11S_e49l2 & Rv3k3E))
+else if (((OmK8Fet < OIHtIG_41M) || (true)) && (K11S_e49l2 & Rv3k3E))
 {
 {
 int k = 0;
@@ -470,7 +470,7 @@ try
 {
 if (a95DwCcW < f2A_xg)
 {
-if (C99uxc2y != 246924256)
+if (true)
 {
 H59E8el_ = (int)abs(OIHtIG_41M);
 }
@@ -487,7 +487,7 @@ if (Nd3R_RbgXl & -535488075)
 int j = 4;
 while (j >= 0)
 {
-if (i32pPBv != 1068913194)
+if (true)
 {
 a95DwCcW &= 1409471572;
 }
@@ -541,7 +541,7 @@ fJWd6Ot = (unsigned short)(F82H90ND);
 int i = 0;
 while (i < 3)
 {
-if (((J_7SMc3 >= -1392505012) || (OIHtIG_41M == 450935872)) || (fJWd6Ot <= -2003256803))
+if (((true) || (OIHtIG_41M == 450935872)) || (fJWd6Ot <= -2003256803))
 {
 for (int k = 7; k >= 0; --k)
 {

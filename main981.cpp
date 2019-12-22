@@ -14,7 +14,7 @@ int main() {
 std::cout << B82ET << B82ET << "T54_yh5T" << fOhe_pJHU << std::endl;
 pJ5DDI ^= 1709253023;
 
-if (u969qrqMzV <= -1653861430)
+if (false)
 {
 try
 {
@@ -70,7 +70,7 @@ break;
 }
 for (int i = 0; i < 9; i++)
 {
-if ((X0if6 == -856474854) || (w_1BcMt < i06y3P4))
+if ((false) || (w_1BcMt < i06y3P4))
 {
 {
 int k = 0;
@@ -92,7 +92,7 @@ cuKY7 = (int)abs(w_1BcMt) * 0;
 }
 else
 {
-if (Z03Cati3cV > -1512470908)
+if (true)
 {
 bYpy = (short int)(O1_la);
 }
@@ -108,7 +108,7 @@ if (w3d6 != O1_la)
 {
 zbp_b <<= w3d6;
 }
-else if (qAo0 <= -1410688789)
+else if (false)
 {
 X0if6 = w3d6 % 517486979;
 }
@@ -123,7 +123,7 @@ i06y3P4 = BOhWX1 % u969qrqMzV;
 }
 }
 Ca_8cM9R = -81172763 / cuKY7;
-if (zbp_b == 852870394)
+if (false)
 {
 if ((O1_la >= 775196481) && (qAo0 > 1723108957))
 {
@@ -136,7 +136,7 @@ catch (int& errorCode)
 w_1BcMt /= 180431087;
 }
 }
-else if (YY8Wu > 1702571263)
+else if (false)
 {
 if (O1_la == Z03Cati3cV)
 {
@@ -150,7 +150,7 @@ J8hm3U = fOhe_pJHU ^ ZZMC94;
 }
 else if (w_1BcMt >= qAo0)
 {
-if ((YY8Wu < 1729113668) && (YY8Wu == 623611911))
+if ((true) && (YY8Wu == 623611911))
 {
 if ((Ca_8cM9R <= 175245727) && ((Xs6h7Jk2Gz < 1679969519) && (cuKY7 != 1824205967)))
 {
@@ -276,7 +276,7 @@ if (ICGEAW >= KZz1)
 {
 if (pJ5DDI)
 {
-if ((bYpy <= 379085514) || (Z03Cati3cV <= 1619762005))
+if ((true) || (Z03Cati3cV <= 1619762005))
 {
 w3d6 *= 829220934;
 }
@@ -295,7 +295,7 @@ if (Xs6h7Jk2Gz & -391482966)
 {
 p8kphiV80 = (short int)(bYpy);
 }
-else if (X0if6 <= 753635132)
+else if (true)
 {
 if (qAo0 < 1316703575)
 {
@@ -316,7 +316,7 @@ std::cout << u969qrqMzV << std::endl;
 }
 else
 {
-if (((X0if6 != Xs6h7Jk2Gz) || (Ca_8cM9R <= -1982108955)) || (zbp_b > 615383038))
+if (((X0if6 != Xs6h7Jk2Gz) || (false)) || (zbp_b > 615383038))
 {
 w_1BcMt = (int)abs(pJ5DDI);
 }
@@ -328,7 +328,7 @@ w3d6 = (short int)(p8kphiV80);
 }
 else if (YY8Wu >= bYpy)
 {
-if (YY8Wu < 1833275482)
+if (true)
 {
 {
 int k = 1;
@@ -364,7 +364,7 @@ catch (int& errorCode)
 I65e &= u969qrqMzV;
 }
 }
-else if (((Ca_8cM9R) && (YY8Wu > 1419638256)) || (zbp_b == -1838330249))
+else if (((Ca_8cM9R) && (false)) || (zbp_b == -1838330249))
 {
 {
 int j = 0;
@@ -374,7 +374,7 @@ while (j < 1)
 int k = 0;
 while (k < 8)
 {
-w_1BcMt = (B82ET <= 1984342454) ? X0if6 : p8kphiV80;
+w_1BcMt = (true) ? X0if6 : p8kphiV80;
 ++k;
 }
 }

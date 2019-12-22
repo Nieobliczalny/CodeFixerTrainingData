@@ -240,7 +240,7 @@ else if (Adc6 == oiBz_y)
 {
 g54TJE38 ^= d5x6;
 }
-else if (J8n44TSv < -1042553528)
+else if (false)
 {
 nmhzz7a = dkkaT << sX5g1mL;
 }
@@ -255,7 +255,7 @@ mBPFW3k9o <<= bX0ZdgA;
 }
 else
 {
-if ((EEFrFt7V <= roD1) || ((k47S < -190662097) || (z084K5 & -1847884742)))
+if ((EEFrFt7V <= roD1) || ((false) || (z084K5 & -1847884742)))
 {
 UG9eJKl >>= g52AAi08_;
 }

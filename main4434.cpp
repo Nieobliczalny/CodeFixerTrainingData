@@ -120,7 +120,7 @@ sMcPJWW_f = kz6f6m5II_ + 2091437946;
 }
 else
 {
-if ((qGi1 < uvWp03Lb) && ((SAhCrPJB < 873968573) || (KT62rwc != 887863189)))
+if ((qGi1 < uvWp03Lb) && ((true) || (KT62rwc != 887863189)))
 {
 s0_Oc51 = (int)abs(Ago0);
 }

@@ -296,7 +296,7 @@ std::cout << p6__3 << QZql(Am2BV8, SD6W25K, Noy9ADpG_) << "As6Hq2tA" << QZql(Am2
 }
 else if (W3cplLD3)
 {
-if ((n98D_ <= Z8L8gw9q) || (pLZG97WY5 == cA2v0yD1OP))
+if ((n98D_ <= Z8L8gw9q) || (false))
 {
 dyq2 = mq2aPVv & Al2685u;
 }

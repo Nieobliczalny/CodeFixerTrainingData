@@ -171,7 +171,7 @@ break;
 
 std::cout << -1457231053 / ORl46Q << std::endl;
 
-if (ORl46Q <= 1953825048)
+if (true)
 {
 {
 int j = 0;
@@ -303,7 +303,7 @@ j--;
 while (j >= 0);
 }
 }
-if ((RA_Y < K1__b) || (V_82c9 > 647784038))
+if ((RA_Y < K1__b) || (false))
 {
 yj9_Q2 = R_1iOpbCD + 1966761926;
 }

@@ -228,7 +228,7 @@ i1ZESg_ = s0aPg + 79149770;
 }
 }
 M80RSr -= EZ5oE;
-if ((ePa0PI > b1z009mAgQ) && (Yz0yX7 & DCt1))
+if ((true) && (Yz0yX7 & DCt1))
 {
 {
 int j = 0;

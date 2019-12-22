@@ -126,7 +126,7 @@ int i = 0;
 do
 {
 i++;
-u936 = (n5XmA9 <= -209753260) ? Qrs0yHN39Z(n7l2wODMEJ, i2YLx7Zm, Peld_738Y) : WRd32;
+u936 = (false) ? Qrs0yHN39Z(n7l2wODMEJ, i2YLx7Zm, Peld_738Y) : WRd32;
 }
 while (i < 7);
 }
@@ -137,7 +137,7 @@ try
 int j = 0;
 while (j < 4)
 {
-if (((i2YLx7Zm <= -301028772) || (u936 <= n5XmA9)) || ((jSIQ_f8o == -1916713475) || (F63Zb73t2 >= 1142780675)))
+if (((false) || (u936 <= n5XmA9)) || ((jSIQ_f8o == -1916713475) || (F63Zb73t2 >= 1142780675)))
 {
 qVU_ = g1460E3 + 892293840;
 }
@@ -161,7 +161,7 @@ o_D1KyA3H = 272529017 / XP9eL;
 
 if (WRd32 == 1531916846)
 {
-if (((XP9eL > WRd32) || (n5XmA9)) || (i2YLx7Zm < 825892905))
+if (((XP9eL > WRd32) || (n5XmA9)) || (true))
 {
 jSIQ_f8o = Peld_738Y | 279096562;
 }

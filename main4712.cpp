@@ -120,7 +120,7 @@ int main()
  unsigned long long zxU7T;
  zxU7T = 0;
 
-if (dnl90aT13 < x0t_)
+if (true)
 {
 Vi8J2maG = (char)(hu_TM);
 }
@@ -134,7 +134,7 @@ G9vK6 += yl41R_;
 }
 }
 }
-else if (R_8x0gE >= DS__t8j)
+else if (false)
 {
 cout << Xp__eYrC9 << R656OB(1531439524, -800644727) << rq_FiZq76 << "Oi3eV0" << "Wh0y36" << endl;
 }
@@ -159,7 +159,7 @@ k++;
 while (k < 8);
 }
 }
-else if (Y5oHbz4i < x0t_)
+else if (true)
 {
 for (int k = 9; k >= 0; --k)
 {
@@ -193,7 +193,7 @@ catch (int& errorCode)
 Vp4OEdRla = (int)abs(YT_jC);
 }
 }
-if ((KOAhl8l >= 1541056888) && (AiU5x > -438251746))
+if ((false) && (AiU5x > -438251746))
 {
 if (AiU5x > rV75)
 {
@@ -237,7 +237,7 @@ case 8:
 zxU7T = R656OB(1083140419, -780880065);
 break;
 }
-if (KlK5Z3JI07 >= 643437786)
+if (false)
 {
 for (int j = 0; j < 9; j++)
 {
@@ -318,7 +318,7 @@ Geb30 = (int)abs(syNnp_n);
 RA7odfE = -69660318 / R656OB(g18_qH, -1856668542);
 if (Sv31Z == Fj0p)
 {
-if ((dz720Zin94 >= -986772981) && (OPF09_f5o > e6klL))
+if ((true) && (OPF09_f5o > e6klL))
 {
 for (int k = 3; k >= 0; --k)
 {
@@ -329,7 +329,7 @@ else if (dz720Zin94 > G9vK6)
 {
 rMR9xN = (char)(v_9so7s6);
 }
-else if (QDmMEsVXL0 >= -372713230)
+else if (true)
 {
 for (int k = 0; k < 1; ++k)
 {
@@ -349,7 +349,7 @@ zxU7T = R656OB(I_mtTo, SLa4);
 }
 else if ((V5Wa3zE9B) || (DI_cK13H32 & DS__t8j))
 {
-if (MQ0_dY198I < DS__t8j)
+if (true)
 {
 o1MT = LHHKg1MK7_ * TYE1;
 }
@@ -369,7 +369,7 @@ else if (v7Yb110 & DS__t8j)
 {
 ETn3 = (yl41R_ <= UALc_0) ? YOA6zE : 1408242319;
 }
-else if (EaKe6aMw > 1064389525)
+else if (false)
 {
 zxU7T = R656OB(-1558296670, v7Yb110);
 }
@@ -385,7 +385,7 @@ l_RvZxRw0T = (char)(hu_TM);
 }
 else
 {
-if ((O8es4aC5P8 & Lxfgq) && (rV75 > 1563567407))
+if ((O8es4aC5P8 & Lxfgq) && (false))
 {
 cout << Geb30 << "XRsvU8v8y" << R656OB(Ba7O_lM, -1896765204) << SLa4 << endl;
 }
@@ -406,7 +406,7 @@ zxU7T = R656OB(16710205, -54883355);
 cout << "B36_1" << R656OB(QK5_U, I_mtTo) << lovhT << vX53yAgg << endl;
 for (int i = 0; i < 5; ++i)
 {
-if (n23282 != 802642421)
+if (true)
 {
 cout << "XEEj8tIK8v" << endl;
 }
@@ -425,7 +425,7 @@ while (k < 2);
 }
 
 AfKScj /= wDmHfU;
-if (PH9Au6 > 1942036636)
+if (false)
 {
 isvg9g = CBrC32D4fX ^ vX53yAgg;
 }
@@ -442,7 +442,7 @@ while (j < 1);
 }
 }
 
-if (Geb30 >= hu_TM)
+if (false)
 {
 YOA6zE = (int)abs(DGZe);
 }
@@ -505,7 +505,7 @@ break;
 }
 if (s1hcl)
 {
-if (NW4g_42lG9 != DS__t8j)
+if (true)
 {
 rq_FiZq76 = (char)(x0t_);
 }

@@ -205,7 +205,7 @@ case 'H':
 CL72VGCu9 = L42cC();
 break;
 }
-if (NCMi4 == -1683711249)
+if (false)
 {
 std::cout << M1T8B6I << std::endl;
 }
@@ -244,7 +244,7 @@ else if (i4O20Tu >= -922294073)
 {
 BenUi3 = F10l6W7j(359204987, U_3XZO31W, z546b3lz, e96v_59bT7);
 }
-else if (jEdRCq <= 1340335359)
+else if (true)
 {
 skHH7RNPA = F10l6W7j(-1306067281, Qq2fd, 1361554843, 965765906);
 }

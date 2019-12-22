@@ -62,7 +62,7 @@ VJ9W6j5D = N95I << 289052786;
 }
 }
 }
-else if ((HLp3Ff2 & M5YOWC) && (BCWT10BEXp <= 1888848852))
+else if ((HLp3Ff2 & M5YOWC) && (true))
 {
 {
 int j = 3;

@@ -73,7 +73,7 @@ std::cout << BtMc << frqC__U5Mg << r7Hv86Ha1r(-1709997331, waRcJ3kl_X, Mf59, OYf
 std::cout << V_Of() << std::endl;
 if (Omnp7ZV & XlVe_n26x2)
 {
-if ((Z56a & 1986864770) && ((XNROX0_z == qeS_30v0) || (O91VuOf2 < -1086935794)))
+if ((Z56a & 1986864770) && ((XNROX0_z == qeS_30v0) || (false)))
 {
 {
 int k = 2;
@@ -121,7 +121,7 @@ else if (K8sS9ywU29 & r_rYe9Uki)
 int j = 0;
 do
 {
-if (rTFE > -199824276)
+if (true)
 {
 Omnp7ZV >>= A0kwO;
 }

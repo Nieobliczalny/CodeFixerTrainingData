@@ -250,7 +250,7 @@ if (J94kp >= L6V0lz6_S)
 bOexkiN -= pa_g2;
 }
 }
-else if ((lplg48WwR4 >= pa_g2) || ((d_YS88q == Gr3M11AP) && (k5rxhk1n > DP90)))
+else if ((lplg48WwR4 >= pa_g2) || ((false) && (k5rxhk1n > DP90)))
 {
 MjgSq2 = (unsigned long)(Gr3M11AP);
 }

@@ -34,7 +34,7 @@ if ((xW2AArp4 & zxoZV) || (ZWCG86Ha8))
 std::cout << ZSva2cg << ub990VuJ47 << "iemIU8" << "SPQGHSL" << std::endl;
 }
 
-if (ub990VuJ47 < -410024355)
+if (false)
 {
 N15Q9Oz6v = edee9Gt7ut - Fn9o;
 }

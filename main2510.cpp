@@ -219,7 +219,7 @@ catch (int& errorCode)
 jQqA = (int)floor(qWEU127lb9);
 }
 }
-else if ((YjZ2bZd > -761131545) || (E215X != -371883882))
+else if ((YjZ2bZd > -761131545) || (true))
 {
 std::cout << "H52ypCVW_R" << jbMC(ZX1Y3aRtj_, L2O12, xLT957_, 1904295811) << cnpAPB3yPu(ZX1Y3aRtj_, L2O12, 1496007484, 254239808, Q2HTx729tp) << std::endl;
 }
@@ -413,7 +413,7 @@ while (i >= 0);
 }
 
 Vyl5 = (unsigned long)(G57nXP_aiR);
-if ((wET_5e_0w6 == -598944172) || (Ryv32wS28 & G57nXP_aiR))
+if ((false) || (Ryv32wS28 & G57nXP_aiR))
 {
 f0Dox33vW = (int)(pij6Q383A);
 }

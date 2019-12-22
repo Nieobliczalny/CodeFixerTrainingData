@@ -393,7 +393,7 @@ if ((PAv9 != 2024831367) || (A20bmnkoAl == 365118265))
 {
 V_G5jN = (int)abs(WsPfO7w);
 }
-else if ((c6HQ_4_o < -328487520) && ((I_23xGl55 != RU5ck1_F) && (Wzu11)))
+else if ((false) && ((I_23xGl55 != RU5ck1_F) && (Wzu11)))
 {
 for (int j = 2; j >= 0; --j)
 {

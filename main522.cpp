@@ -113,7 +113,7 @@ A2f2R = BtqX | uTGH_O4z0;
 }
 try
 {
-if ((v1b5b8vgJ) && (B_PmXcFy >= 1127937657))
+if ((v1b5b8vgJ) && (false))
 {
 kcD718P6 = Mz0EzaQ(xdhu7C, -2142934830, BtqX, v1b5b8vgJ, l47fwtd8O);
 }
@@ -131,7 +131,7 @@ int i = 4;
 do
 {
 --i;
-if (NEKG6 != 1914292672)
+if (true)
 {
 p5JT700B = (short)(iY_7 + (UKaae0H));
 }
@@ -201,7 +201,7 @@ xdhu7C = (unsigned short int)(UKaae0H);
 }
 try
 {
-if ((NCZd92oc1_ != UKaae0H) || ((l_n7_iCse >= iY_7) || (PXUL <= l47fwtd8O)))
+if ((true) || ((l_n7_iCse >= iY_7) || (PXUL <= l47fwtd8O)))
 {
 switch (U3i6t63kz)
 {
@@ -344,7 +344,7 @@ catch (int& errorCode)
 uTGH_O4z0 *= L3Wp9;
 }
 
-if ((o6D56) || (v1b5b8vgJ != 709594110))
+if ((o6D56) || (true))
 {
 for (int j = 0; j < 8; ++j)
 {

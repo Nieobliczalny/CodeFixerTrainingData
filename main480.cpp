@@ -34,7 +34,7 @@ while (j >= 0);
 }
 }
 }
-if (kHXRV >= -1878442777)
+if (true)
 {
 QTDb = dLSHBgS1 ^ 13430529;
 }

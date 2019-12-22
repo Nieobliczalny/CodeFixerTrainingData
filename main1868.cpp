@@ -92,7 +92,7 @@ BBP6ek_4 = UEde3_5u(hce87YB5, BBP6ek_4, OBg6gp2K);
 RYruto77vw = (int)abs(fy9zPi_L);
 if ((BBP6ek_4 > SqZuNLkEZ) || ((SqU6y6Ra != vL7z_gHyH) || (BBP6ek_4 != SqZuNLkEZ)))
 {
-if (SqU6y6Ra == 117012957)
+if (false)
 {
 if ((OBg6gp2K & Jp5wSnZs) || ((BBP6ek_4 & RYruto77vw) || (hce87YB5)))
 {
@@ -130,7 +130,7 @@ hce87YB5 = (int)(PO_U);
 }
 else
 {
-if (SqU6y6Ra < -1955677667)
+if (false)
 {
 {
 int k = 0;
@@ -146,7 +146,7 @@ while (k < 5);
 
 OBg6gp2K = j09Hd(1720151374, -1621244112, -849285297);
 
-if (SqU6y6Ra == -1200148641)
+if (false)
 {
 std::cout << SqU6y6Ra << std::endl;
 }
@@ -174,7 +174,7 @@ else if (RYruto77vw != fy9zPi_L)
 {
 RYruto77vw = (long)(SqZuNLkEZ * RYruto77vw);
 }
-else if ((BBP6ek_4 > fy9zPi_L) || (SqU6y6Ra > Jp5wSnZs))
+else if ((BBP6ek_4 > fy9zPi_L) || (true))
 {
 {
 int j = 0;
@@ -205,7 +205,7 @@ hce87YB5 |= OBg6gp2K;
 }
 }
 }
-else if (SqU6y6Ra <= 862659500)
+else if (true)
 {
 try
 {

@@ -173,7 +173,7 @@ p_Gr68D = (unsigned long)(l4wa);
 
 std::cout << F5E_xuZ4 << noVEODt1P << std::endl;
 
-if (sWRXq6e <= l4wa)
+if (true)
 {
 if ((cl76BiBK != -1882903838) && (I5buh != l4wa))
 {
@@ -245,7 +245,7 @@ p_Gr68D = gLjYyKvE3c(p_Gr68D, 1515806650);
 }
 else if (JiWle936 > -1970328496)
 {
-if (((z5_ti2tZ8G <= l4wa) && (J7tK == c4w4H_OX)) && ((Mz_Xrt & 1300916886) && (QqU_u9Imt6 != 1886084763)))
+if (((true) && (J7tK == c4w4H_OX)) && ((Mz_Xrt & 1300916886) && (QqU_u9Imt6 != 1886084763)))
 {
 O5SQ = AO5Hq_9(nFdm_k5, -1811034969);
 }
@@ -282,7 +282,7 @@ else if (iqvgz8 >= IB1eFms8)
 {
 ki4FYD = AO5Hq_9(kdDx6n4, QqU_u9Imt6);
 }
-else if ((w0hm5c >= NjaM71) || (sWRXq6e > 442081668))
+else if ((w0hm5c >= NjaM71) || (false))
 {
 DLPh = (int)abs(crLc5qZ);
 }
@@ -372,7 +372,7 @@ std::cout << X7Mh << std::endl;
 }
 else if (l_xnlEI != 1172041210)
 {
-if ((TC118P >= -2058169807) || (O5SQ & NjaM71))
+if ((true) || (O5SQ & NjaM71))
 {
 J7tK = (int)ceil(CNL_3Aq5);
 }
@@ -435,7 +435,7 @@ else if (Mz_Xrt < ft73Din)
 int j = 0;
 while (j < 8)
 {
-if (((gdJY_QP <= l4wa) && (gdJY_QP <= mBIg1c_b6_)) || (TC118P > 486880803))
+if (((true) && (gdJY_QP <= mBIg1c_b6_)) || (TC118P > 486880803))
 {
 ft73Din = (int)floor(J7tK);
 }
@@ -471,7 +471,7 @@ if (ki4FYD & l4wa)
 {
 SIw_wJ8tAk = (int)abs(BHB7tZ);
 }
-else if (noVEODt1P > l4wa)
+else if (false)
 {
 QsuGvX9 = (int)floor(nhE17wE);
 }
@@ -487,7 +487,7 @@ M_TtF = (int)floor(g30cWR9Y);
 while (j >= 0);
 }
 }
-else if ((Mm96_ < l4wa) || (Mm96_ > l4wa))
+else if ((true) || (Mm96_ > l4wa))
 {
 {
 int j = 0;
@@ -536,7 +536,7 @@ if (IB1eFms8 & 1074211835)
 int j = 7;
 do
 {
-if (noVEODt1P >= l4wa)
+if (false)
 {
 nFdm_k5 -= l_xnlEI;
 }
@@ -551,7 +551,7 @@ while (j >= 0);
 }
 else
 {
-if ((crLc5qZ < 468365468) || (g30cWR9Y < gdJY_QP))
+if ((true) || (g30cWR9Y < gdJY_QP))
 {
 for (int k = 1; k >= 0; --k)
 {
@@ -585,7 +585,7 @@ fdgpyEo1 = (int)ceil(G18k2v);
 }
 else
 {
-if ((epJEB != l4wa) && ((crLc5qZ > 319671357) || (PrA5 < l4wa)))
+if ((true) && ((crLc5qZ > 319671357) || (PrA5 < l4wa)))
 {
 PrA5 = (int)ceil(g30cWR9Y);
 }

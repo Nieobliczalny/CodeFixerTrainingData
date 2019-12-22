@@ -168,7 +168,7 @@ else if (HUbEVXGHx8 >= 908370641)
 {
 cout << qGi5YW << vaSWQsQtE8 << "C72F" << HUbEVXGHx8 << HUbEVXGHx8 << endl;
 }
-else if (LKX_r == 497958180)
+else if (false)
 {
 for (int j = 1; j >= 0; --j)
 {
@@ -242,7 +242,7 @@ hcF19B0m = LKX_r - kKG79S;
 
 cout << LKX_r << kKG79S << LKX_r << "PBe51qZFB" << vaSWQsQtE8 << endl;
 
-if (ENPq == -786170887)
+if (false)
 {
 Y0_L = (int)abs(kKG79S);
 }
@@ -254,7 +254,7 @@ else if (((hcF19B0m < -1782740976) || (HUbEVXGHx8 >= Y0_L)) && (hcF19B0m > qD1oP
 {
 hcF19B0m |= 2073621987;
 }
-else if (((Y0_L >= qD1oP79) && (ENPq)) && ((ENPq < -1061617735) && (Y0_L > kKG79S)))
+else if (((Y0_L >= qD1oP79) && (ENPq)) && ((false) && (Y0_L > kKG79S)))
 {
 try
 {

@@ -50,7 +50,7 @@ for (int k = 0; k < 5; k++)
 IU1lCs38df = k_5Ln & oGQWgg0;
 }
 }
-else if (k_5Ln != 1313924840)
+else if (true)
 {
 {
 int k = 0;
@@ -176,7 +176,7 @@ break;
 while (j >= 0);
 }
 }
-else if ((IU1lCs38df == k_5Ln) && ((k_5Ln != 109278585) || (oGQWgg0 < -1454135563)))
+else if ((IU1lCs38df == k_5Ln) && ((true) || (oGQWgg0 < -1454135563)))
 {
 if (k_5Ln > -508677913)
 {
@@ -551,7 +551,7 @@ do
 {
 if (IU1lCs38df > 1712452174)
 {
-oGQWgg0 = (k_5Ln == -1350203877) ? 26132364 : -1945749958;
+oGQWgg0 = (false) ? 26132364 : -1945749958;
 }
 ++j;
 }

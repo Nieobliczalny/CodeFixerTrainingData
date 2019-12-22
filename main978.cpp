@@ -173,7 +173,7 @@ ZfCzabz2c = y392y(MRh273vg, -238755332, -303401017, -135972801, w9XS);
 int i = 7;
 while (i >= 0)
 {
-if (XyF6mC373 > -90329227)
+if (true)
 {
 if (HysFpAo5Iv <= Stv7)
 {
@@ -184,7 +184,7 @@ else
 n5rmXwxV6 = be5148Q84a(1968308203);
 }
 }
-else if (J863 > 1414768048)
+else if (false)
 {
 for (int k = 0; k < 3; k++)
 {
@@ -214,7 +214,7 @@ try
 {
 try
 {
-if (((S23sc3Us8k <= -1154484194) || (S23sc3Us8k <= jAE0)) && (YjRK94K12 <= -1730654954))
+if (((false) || (S23sc3Us8k <= jAE0)) && (YjRK94K12 <= -1730654954))
 {
 mQz8j15n >>= 586245615;
 }
@@ -334,7 +334,7 @@ J34f_Rh7_--;
 int i = 2;
 while (i >= 0)
 {
-if ((cAlxrouP > -1468313261) || (ILrM & 260797787))
+if ((true) || (ILrM & 260797787))
 {
 mQz8j15n = (unsigned int)(P6PH86);
 }

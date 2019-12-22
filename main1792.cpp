@@ -230,7 +230,7 @@ if (rH0bs4 & uYb5y4A4A)
 {
 try
 {
-if (tGjgLJ <= 829197368)
+if (true)
 {
 CrX6 = M_2Xcz - 1527632265;
 }
@@ -256,7 +256,7 @@ cout << QEPpm_(-825940922, mRslUDlT, eBp3ZeWfy) << mRslUDlT << QEPpm_(-111381486
 
 w7720fdK0p = A30Pm(w7720fdK0p);
 
-if (P22a5Ps5 <= -1556974789)
+if (false)
 {
 a9rX53GU = taG3z(-1898366137);
 }

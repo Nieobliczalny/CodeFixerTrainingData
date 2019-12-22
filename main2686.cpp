@@ -174,7 +174,7 @@ int j = 1;
 while (j >= 0)
 {
 j--;
-if (LnIc_s2AJ >= 929809944)
+if (false)
 {
 vk2S7 <<= 1304079869;
 }
@@ -354,7 +354,7 @@ H9aXD = (int)ceil(nA3B);
 break;
 case 'i':
 case 'I':
-uDUbu3 = (sF_5Ae > 983482500) ? tiVAFvDJ3 : -1746547264;
+uDUbu3 = (false) ? tiVAFvDJ3 : -1746547264;
 break;
 }
 
@@ -380,7 +380,7 @@ kam5IrG_n = B7xJ1e4w();
 
 try
 {
-if ((kam5IrG_n >= -871773462) || (n_Z_ >= 536576510))
+if ((true) || (n_Z_ >= 536576510))
 {
 fCs57 = (int)abs(s5UIjuUM);
 }
@@ -413,7 +413,7 @@ catch (int& errorCode)
 d4OCM22P5 = (int)floor(sBG47);
 }
 
-if ((KY31TM >= 559066224) && (MgKK4))
+if ((false) && (MgKK4))
 {
 if (((UQcrH > -1381393810) || (lM5B < 2085166818)) && ((nFd6IID & CH7q) || (e11z3I > 2046768442)))
 {

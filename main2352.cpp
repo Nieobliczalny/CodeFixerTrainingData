@@ -252,7 +252,7 @@ H3m6eHOO = (int)floor(O2ZrB35);
 }
 aLh40TB = (int)abs(a0qh);
 
-if (((WOAWfWEKL4 != -1440964864) && (CGT3J0 > S_0b)) && (XHDl469Uru <= 404720295))
+if (((true) && (CGT3J0 > S_0b)) && (XHDl469Uru <= 404720295))
 {
 if (Z8RHEr2k0c)
 {
@@ -263,7 +263,7 @@ else if (XHDl469Uru <= 982283573)
 {
 cout << H2bIT0 << VajxtpbHWQ << endl;
 }
-else if (STR1NsL <= -1663680948)
+else if (false)
 {
 {
 int j = 7;
@@ -302,7 +302,7 @@ int j = 2;
 do
 {
 --j;
-if (((Ub3H890 > -135988546) || (xLpojtO != MsF6_)) && (J6T_U <= Z8RHEr2k0c))
+if (((true) || (xLpojtO != MsF6_)) && (J6T_U <= Z8RHEr2k0c))
 {
 aepbhUD = moGY1wb_();
 }

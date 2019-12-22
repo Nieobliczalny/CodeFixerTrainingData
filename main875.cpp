@@ -79,7 +79,7 @@ Bs4V0_cJ = (int)ceil(PGfrk7m);
 
 for (int i = 0; i < 8; i++)
 {
-if (((x_l1 < -926796158) && (P0XA56naz_ < V8fa_8zC_Y)) && (dx0GoUPvz2 >= 658394111))
+if (((false) && (P0XA56naz_ < V8fa_8zC_Y)) && (dx0GoUPvz2 >= 658394111))
 {
 V8fa_8zC_Y = (unsigned short int)(g5K6c);
 }
@@ -189,7 +189,7 @@ break;
 int i = 0;
 while (i < 10)
 {
-if (((OJj8Ai != -889223584) || (Bs4V0_cJ > P0XA56naz_)) && (P0nrBK == -338319205))
+if (((OJj8Ai != -889223584) || (Bs4V0_cJ > P0XA56naz_)) && (false))
 {
 N8I560 = (int)abs(PGfrk7m);
 }
@@ -301,7 +301,7 @@ else if (M5Y6 <= Q3zE2oG)
 {
 std::cout << PGfrk7m << "Z_u7M" << "LGzhq98" << "g2Wwjm" << std::endl;
 }
-else if (((Fp7g != -1356705611) && (P0nrBK < 116951268)) || (d_37q8H4t <= 1807211873))
+else if (((Fp7g != -1356705611) && (true)) || (d_37q8H4t <= 1807211873))
 {
 if ((VChlzqOO < -1892115950) || (Bs4V0_cJ != 803606602))
 {

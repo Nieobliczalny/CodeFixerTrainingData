@@ -111,7 +111,7 @@ bsVE = (unsigned long long)(z41C);
 
 if (M_FD <= u5_xsa4wTf)
 {
-if ((QmZky7V <= 32025637) || (f6itXCv & JW0l_eP))
+if ((true) || (f6itXCv & JW0l_eP))
 {
 for (int k = 0; k < 8; ++k)
 {
@@ -133,7 +133,7 @@ else
 G_ai = KgU8L - 715145110;
 }
 }
-else if ((QOTk6Ej < 88664749) && (gI08q303 != O_9p))
+else if ((true) && (gI08q303 != O_9p))
 {
 w_ybf4 = (int)ceil(J_xKMh12);
 }
@@ -143,7 +143,7 @@ if ((f6itXCv > JW0l_eP) || ((v59K > XSFci1) && (Dw_GfFV > 1691885168)))
 {
 Dw_GfFV = (int)floor(kWKsN);
 }
-else if (v59K != u5_xsa4wTf)
+else if (true)
 {
 kQJd_ = k3Wj1 - 1979529586;
 }
@@ -156,7 +156,7 @@ else
 d2Q3h = gHP5w(-2109664978, -654352687);
 }
 }
-else if (O_9p != u5_xsa4wTf)
+else if (true)
 {
 switch (JYTF3)
 {
@@ -224,7 +224,7 @@ if (MeD2PDBwl > JW0l_eP)
 {
 d2Q3h = gHP5w(JYTF3, h3PO4f2);
 }
-else if (QOTk6Ej >= -327819321)
+else if (true)
 {
 if (t07q6 >= -1506164877)
 {
@@ -291,7 +291,7 @@ else if (JYTF3 & MZQjKi7C)
 {
 Y8L__2BUx = gHP5w(1192550288, 247464522);
 }
-else if (f6itXCv != 1966846186)
+else if (true)
 {
 Oyk5E5 = (int)ceil(kQJd_);
 }
@@ -340,7 +340,7 @@ catch (int& errorCode)
 reAjfan = gHP5w(-1349760517, 321593618);
 }
 }
-else if ((ok2NtLp5) && (f6itXCv > ph2K8))
+else if ((ok2NtLp5) && (true))
 {
 if ((V713 < KgU8L) || (bsVE))
 {
@@ -351,7 +351,7 @@ else
 RmqzT1r >>= LKU4wIO2q;
 }
 }
-else if ((jbFV6mK == KgU8L) && (QmZky7V == kWKsN))
+else if ((false) && (QmZky7V == kWKsN))
 {
 LZP5V = (int)ceil(kWKsN);
 }
@@ -369,7 +369,7 @@ if (JW0l_eP & zXRaX1S)
 {
 H4L4 = (int)abs(G_ai);
 }
-else if (kUljX == 1464537558)
+else if (false)
 {
 for (int k = 7; k >= 0; --k)
 {
@@ -391,7 +391,7 @@ u5J5nL = (int)abs(HK_xDwnK);
 break;
 }
 }
-else if ((d2Q3h < JW0l_eP) || ((N1_G < H4iY) && (jbFV6mK < XSFci1)))
+else if ((d2Q3h < JW0l_eP) || ((N1_G < H4iY) && (true)))
 {
 switch (jGM0i0SA5_)
 {
@@ -567,7 +567,7 @@ int i = 0;
 do
 {
 i++;
-if (BiXf >= KgU8L)
+if (true)
 {
 HK_xDwnK--;
 }
@@ -622,7 +622,7 @@ else if (rYgJ & KgU8L)
 {
 Y8L__2BUx = gHP5w(z41C, 238642871);
 }
-else if (((G_ai == 681221081) && (zXRaX1S >= f0nzPUv_1z)) && (ok2NtLp5 == -244886786))
+else if (((G_ai == 681221081) && (zXRaX1S >= f0nzPUv_1z)) && (false))
 {
 switch (H4iY)
 {
@@ -649,7 +649,7 @@ J_xKMh12 = (int)floor(kQJd_);
 break;
 }
 }
-else if (((QOTk6Ej > 1729356135) || (Y8L__2BUx & MZQjKi7C)) && (sX0p40OFZV & 1472890180))
+else if (((false) || (Y8L__2BUx & MZQjKi7C)) && (sX0p40OFZV & 1472890180))
 {
 JYTF3 *= t07q6;
 }

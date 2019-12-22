@@ -452,7 +452,7 @@ o9Ncn = VVK18il9_(o9Ncn, PZhE6Xj16);
 
 try
 {
-if ((ZT8e >= xL1uLDU) || (u_Qv10))
+if ((false) || (u_Qv10))
 {
 WP4I = (unsigned long long)(s9sxuC9_H);
 }

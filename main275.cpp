@@ -91,7 +91,7 @@ else if ((tbC5M4xm == tuBe_Rp6P) || (It68vAoTG == F19o4nXb01))
 {
 zjpwBvWK = i2k5RH(234894440, zjpwBvWK, -304033567, -548073993, -1858995693);
 }
-else if (zjpwBvWK != 1032580698)
+else if (true)
 {
 fH3li /= fH3li;
 }
@@ -164,7 +164,7 @@ else
 oVQoj5ql = tuBe_Rp6P | 659095578;
 }
 }
-else if ((zjpwBvWK < -1002441504) && (It68vAoTG != 2043656894))
+else if ((false) && (It68vAoTG != 2043656894))
 {
 std::cout << It68vAoTG << fH3li << i2k5RH(fH3li, 1165992251, 1886545533, -786336967, tbC5M4xm) << i2k5RH(-154811056, It68vAoTG, -1433759955, d_zcz3U, -2121780990) << i2k5RH(fH3li, It68vAoTG, 540909956, d_zcz3U, -138390921) << std::endl;
 }
@@ -216,7 +216,7 @@ fH3li = (int)floor(tbC5M4xm);
 }
 std::cout << "UlpaD_6rf" << d_zcz3U << i2k5RH(It68vAoTG, zjpwBvWK, F19o4nXb01, tuBe_Rp6P, -1128987319) << "PuG9iy6" << F19o4nXb01 << std::endl;
 std::cout << i2k5RH(It68vAoTG, zjpwBvWK, -1053087979, 935611705, tbC5M4xm) << std::endl;
-if ((F19o4nXb01 < zjpwBvWK) || (d_zcz3U < 512227063))
+if ((F19o4nXb01 < zjpwBvWK) || (true))
 {
 {
 int j = 5;

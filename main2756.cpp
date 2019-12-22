@@ -105,7 +105,7 @@ i--;
 int j = 0;
 do
 {
-if (ch_fSl0SjN >= qycXF3NHd9)
+if (true)
 {
 KfJjy = fHGz5();
 }
@@ -116,7 +116,7 @@ while (j < 5);
 }
 }
 
-if (P0Pa9_uB0C < 1888609044)
+if (true)
 {
 switch (F3DZp)
 {
@@ -159,7 +159,7 @@ break;
 F3DZp = (int)(x_meP4G0oc);
 std::cout << "oOQJg31Y" << std::endl;
 
-if ((OEc9J & -854272058) || (bP97sI23 <= 19496095))
+if ((OEc9J & -854272058) || (true))
 {
 try
 {
@@ -187,7 +187,7 @@ case 0:
 Xtqb1xK7 = fHGz5();
 break;
 case 1:
-OEc9J = (P0Pa9_uB0C <= PpimBQ) ? 1007774151 : bP97sI23;
+OEc9J = (false) ? 1007774151 : bP97sI23;
 break;
 case 2:
 P0Pa9_uB0C *= McrsZe;
@@ -292,7 +292,7 @@ zSaE946B = fHGz5();
 --i;
 }
 }
-if ((bP97sI23 > JNQ1888mA) || (bP97sI23))
+if ((true) || (bP97sI23))
 {
 {
 int j = 0;
@@ -337,7 +337,7 @@ break;
 }
 else
 {
-if (dR__i7 > -1784147982)
+if (true)
 {
 std::cout << "AV46f0Oa" << "Obf7KA" << EC4QYe(173484624, 1318305022, McrsZe, 1354614702, h776p) << "k94s" << std::endl;
 }
@@ -368,7 +368,7 @@ else if ((h776p == KfJjy) && (OEc9J <= F3DZp))
 {
 P0Pa9_uB0C <<= Xtqb1xK7;
 }
-else if ((h776p <= qycXF3NHd9) && (dR__i7 != tpQQ4T2ACB))
+else if ((h776p <= qycXF3NHd9) && (true))
 {
 McrsZe += 74371135;
 }

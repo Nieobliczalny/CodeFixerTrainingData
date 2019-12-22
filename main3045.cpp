@@ -293,7 +293,7 @@ while (i >= 0);
 int i = 0;
 do
 {
-if ((Qncv5oPY < 1945112885) && (OM7W_0I < -1338909863))
+if ((true) && (OM7W_0I < -1338909863))
 {
 std::cout << J4ln << "L91a" << IpU_5(zX7hfkj44, wd_5x8, 1661888006, 966222534, a6436JU4) << std::endl;
 }
@@ -309,7 +309,7 @@ else if ((cxFe15574_ < -2055832217) && (OM7W_0I != ZY80I))
 {
 nvajhx = (int)abs(zX7hfkj44);
 }
-else if (kH0DQ_AWXR == -1819196561)
+else if (false)
 {
 for (int k = 0; k < 8; k++)
 {
@@ -560,7 +560,7 @@ std::cout << "v9Kh9FUHgr" << kH0DQ_AWXR << cxFe15574_ << std::endl;
 int i = 2;
 while (i >= 0)
 {
-if (Qncv5oPY < 342650439)
+if (true)
 {
 {
 int k = 0;

@@ -29,7 +29,7 @@ int main(void)
   long double  X0F2ILJ;
   X0F2ILJ  =  -1701433406;
 
-if ((KvuPsFVp & -1152962388) && ((VH5hC41 != 1664437581) && (O146 >= 1999867441)))
+if ((KvuPsFVp & -1152962388) && ((true) && (O146 >= 1999867441)))
 {
 switch (nhMu)
 {

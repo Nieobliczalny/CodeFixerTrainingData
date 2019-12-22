@@ -108,7 +108,7 @@ int j = 0;
 do
 {
 j++;
-if (p3J9 == 223206648)
+if (false)
 {
 WzBV_JqT += 1266892308;
 }
@@ -122,7 +122,7 @@ while (j < 5);
 }
 else if (x41c4 > OUAFWiT)
 {
-if ((uKDhLJm_ < 485119665) && ((V9AiiYA != p3uW2k) && (lqaFjf_wF == ngum_YHHa)))
+if ((true) && ((V9AiiYA != p3uW2k) && (lqaFjf_wF == ngum_YHHa)))
 {
 if (O46U7u <= -895761751)
 {
@@ -134,7 +134,7 @@ Dc34qOy2m = (int)ceil(NgXvOY_);
 }
 }
 }
-else if (G_aDl1d <= 1940901230)
+else if (true)
 {
 for (int j = 2; j >= 0; j--)
 {
@@ -220,7 +220,7 @@ int j = 0;
 do
 {
 ++j;
-if (((N_nl7016Q0 != Bsbj0b_HE) && (a_NhW != WzBV_JqT)) && (SKl478Vi > -668446794))
+if (((N_nl7016Q0 != Bsbj0b_HE) && (a_NhW != WzBV_JqT)) && (true))
 {
 G208MUe8G2 = (int)abs(gCYeD1);
 }
@@ -274,7 +274,7 @@ qUGvQQ4BL = (int)ceil(i7g_HdnMF6);
 break;
 }
 }
-else if (w4I3W07lV9 == 1810709613)
+else if (false)
 {
 if ((O_QnV13X06 < G208MUe8G2) || (Z1fA6w == 1473345463))
 {
@@ -311,7 +311,7 @@ h6rA36q = C08Db5zm();
 }
 }
 }
-else if (((O_QnV13X06 != -1877335046) || (dz3lpNM == -1316325098)) && (Fh9hq))
+else if (((O_QnV13X06 != -1877335046) || (false)) && (Fh9hq))
 {
 if (BHrqk >= 634655717)
 {
@@ -327,7 +327,7 @@ else if (lqaFjf_wF <= w1x4n7boZQ)
 {
 qUGvQQ4BL = (int)floor(Z1fA6w);
 }
-else if (G_aDl1d != -228126814)
+else if (true)
 {
 h6rA36q = C08Db5zm();
 }
@@ -380,7 +380,7 @@ std::cout << FMQuD(Et_e1DF293, KGsmx9w, -1829433562, 1779783230, -1888067546) <<
 int i = 0;
 while (i < 1)
 {
-if ((Wu4J1f5R > 388314931) || (MOJeemYF != -533260328))
+if ((false) || (MOJeemYF != -533260328))
 {
 try
 {
@@ -402,7 +402,7 @@ else
 i7g_HdnMF6 = (int)ceil(qUGvQQ4BL);
 }
 }
-else if (x41c4 > -1654745786)
+else if (true)
 {
 WC24 *= Z1fA6w;
 }
@@ -514,7 +514,7 @@ gCYeD1--;
 }
 }
 }
-else if ((KFk0m5Y7HC > lqaFjf_wF) && (KFk0m5Y7HC < -561008952))
+else if ((KFk0m5Y7HC > lqaFjf_wF) && (false))
 {
 {
 int j = 0;
@@ -597,7 +597,7 @@ else if (G208MUe8G2 >= V0O2)
 {
 WzBV_JqT = FMQuD(WzBV_JqT, m8KjM184j5, 1708117035, -781124200, -1370083694);
 }
-else if (HerfuvcaVZ == 1334491896)
+else if (false)
 {
 try
 {

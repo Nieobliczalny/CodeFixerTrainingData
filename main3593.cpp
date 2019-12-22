@@ -202,7 +202,7 @@ xpT9qm37t9 = W_9w4n5P();
 while (j < 10);
 }
 }
-else if ((WVT57SWhp > USc8C) || (dvHA >= -712868034))
+else if ((WVT57SWhp > USc8C) || (true))
 {
 for (int j = 3; j >= 0; j--)
 {

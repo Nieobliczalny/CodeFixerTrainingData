@@ -88,7 +88,7 @@ k++;
 }
 }
 }
-else if (t0VGW8UH4v != KmR9sv)
+else if (true)
 {
 OnV52O = E2r4(281465472);
 }

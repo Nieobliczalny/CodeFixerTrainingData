@@ -41,7 +41,7 @@ y68278EaW = Sa_06uZ << 1343316937;
 }
 else
 {
-A3lAjx1_ = (Sa_06uZ > -1296569661) ? mnrM4uW : y68278EaW;
+A3lAjx1_ = (true) ? mnrM4uW : y68278EaW;
 }
 }
 while (j < 9);
@@ -75,7 +75,7 @@ int i = 0;
 while (i < 3)
 {
 ++i;
-if (xB7Dd3bkp9 <= 2003483363)
+if (true)
 {
 {
 int k = 10;

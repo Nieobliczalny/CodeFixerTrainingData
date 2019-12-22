@@ -66,7 +66,7 @@ o_yU4HU36 = (short int)(gJJE5F45d);
 
 L_Oq = -296535134 / jS8l0b3T6(Njv3t3Yic, UCBzejEy8, L2JzwBu68, rwng9YI0Nq);
 
-if ((A3011Ir365 == rpMfte) && (L0ZSN_R2 == -1371785134))
+if ((A3011Ir365 == rpMfte) && (false))
 {
 switch (A3011Ir365)
 {
@@ -133,7 +133,7 @@ t8KFMk1bq = jS8l0b3T6(L_Oq, 491278238, VxU7g7VZ, olKnt);
 break;
 }
 }
-else if (QlRM != 515753583)
+else if (true)
 {
 for (int j = 8; j >= 0; j--)
 {

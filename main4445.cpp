@@ -112,7 +112,7 @@ mdyJ += Ze7868y;
 }
 
 std::cout << jNZF8t67 << "yxB3BtW" << "Xn003Cyq" << std::endl;
-if ((jNZF8t67 <= QIX1e_Ce1) || ((S59iW <= QD_tbcK) && (S59iW <= eYYrIxg)))
+if ((jNZF8t67 <= QIX1e_Ce1) || ((false) && (S59iW <= eYYrIxg)))
 {
 for (int j = 7; j >= 0; j--)
 {
@@ -136,7 +136,7 @@ kki5miMuh *= hB2AIE;
 }
 
 std::cout << Dw4hgHt(1188885403, -770077555, S59iW) << Dw4hgHt(516093066, 990802419, 1528171051) << XH1zsMDrS5(E4r_aUTvq, -1133532496, -237561811) << "KM0m6AHL" << N0Ht << std::endl;
-if (sZR6Z_r_Z <= gPvtTkx)
+if (false)
 {
 for (int j = 0; j < 1; ++j)
 {
@@ -151,7 +151,7 @@ while (k >= 0);
 }
 }
 }
-else if ((cL_V3j9 > Ze7868y) && (N0Ht >= 1721437517))
+else if ((cL_V3j9 > Ze7868y) && (false))
 {
 std::cout << "PO2z_" << QIX1e_Ce1 << "m1Mg65" << std::endl;
 }
@@ -163,7 +163,7 @@ std::cout << SG_Vp4oyg << a00Om << XH1zsMDrS5(-986301061, KQKEfd9, dpBbo3mY) << 
 std::cout << sZR6Z_r_Z << YdHC9 << std::endl;
 kki5miMuh = KQKEfd9 / Y3_sZ0(jNZF8t67);
 
-if (((wWe1r033f >= KQKEfd9) || (hB2AIE < 1346335976)) || (jNZF8t67))
+if (((wWe1r033f >= KQKEfd9) || (true)) || (jNZF8t67))
 {
 std::cout << "aPO3e1fG9Y" << std::endl;
 }
@@ -201,7 +201,7 @@ dpBbo3mY = H6db7LD ^ 909362866;
 }
 
 mdyJ = SG_Vp4oyg / jNZF8t67;
-if (((S59iW <= H6db7LD) || (E4r_aUTvq == a00Om)) || (QIX1e_Ce1 >= QD_tbcK))
+if (((false) || (E4r_aUTvq == a00Om)) || (QIX1e_Ce1 >= QD_tbcK))
 {
 q8U19Jj = S59iW >> hB2AIE;
 }
@@ -219,7 +219,7 @@ int j = 0;
 while (j < 9)
 {
 ++j;
-if (E4r_aUTvq <= 1739955601)
+if (true)
 {
 N0Ht = XH1zsMDrS5(N0Ht, q8U19Jj, a00Om);
 }
@@ -235,7 +235,7 @@ std::cout << XH1zsMDrS5(N0Ht, -1097386553, 1349628381) << std::endl;
 int i = 9;
 while (i >= 0)
 {
-if (N0Ht >= H6db7LD)
+if (true)
 {
 try
 {
@@ -248,7 +248,7 @@ Ze7868y = (int)abs(cL_V3j9);
 }
 else
 {
-if (kki5miMuh >= QD_tbcK)
+if (true)
 {
 jNZF8t67 = (dpBbo3mY <= YdHC9) ? Dw4hgHt(-1162010614, 1501948469, a00Om) : sZR6Z_r_Z;
 }
@@ -276,7 +276,7 @@ catch (int& errorCode)
 s2vDB /= 397407868;
 }
 std::cout << "yd3nWgm" << "y_23PZ9vX" << "s_2_2_m8A" << XH1zsMDrS5(OJ_5nkeq0, q8U19Jj, KQKEfd9) << Dw4hgHt(-285299395, -384050810, KQKEfd9) << std::endl;
-if (jNZF8t67 < QD_tbcK)
+if (false)
 {
 try
 {

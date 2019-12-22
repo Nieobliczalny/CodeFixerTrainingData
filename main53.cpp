@@ -345,7 +345,7 @@ if (S1FR4KN < 785433669)
 {
 cout << a0kl7 << "EExSGd40" << tP3c2() << endl;
 }
-else if (PJuDv_F5zr > -1700919594)
+else if (true)
 {
 a7TvA = (unsigned long)(UTI89I4);
 }

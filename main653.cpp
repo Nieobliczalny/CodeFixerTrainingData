@@ -225,7 +225,7 @@ else if (u62W >= -1149236256)
 {
 N__32_5 = E32_e1mk8(-1969302162);
 }
-else if ((I_C7NUI2 != XR77_s0fM1) || ((RRdu70sV_ == 800167878) || (f4i5mZML95 < h647)))
+else if ((true) || ((RRdu70sV_ == 800167878) || (f4i5mZML95 < h647)))
 {
 u096pkg = m84x5(-2082533692, t9AaV5F, H3w0X);
 }
@@ -249,7 +249,7 @@ cZpPH3 = (int)ceil(B23EP);
 }
 while (i >= 0);
 }
-if ((X123KWb9 < Ow6PlI) || ((Q2aSlI28 <= aSyu3f32L5) && (WFL7U3 <= XR77_s0fM1)))
+if ((X123KWb9 < Ow6PlI) || ((Q2aSlI28 <= aSyu3f32L5) && (false)))
 {
 try
 {
@@ -300,7 +300,7 @@ while (k >= 0);
 while (i >= 0);
 }
 
-if (((r03A375T >= q1Yo) && (h647 < 453827398)) || (cTT4))
+if (((r03A375T >= q1Yo) && (true)) || (cTT4))
 {
 if (s7G8rEji5t & LI_1jBY7_t)
 {
@@ -491,7 +491,7 @@ WFL7U3 >>= r03A375T;
 }
 }
 
-if (((X123KWb9 <= k_7K13kqe) && (B23EP == -66276638)) && ((RRdu70sV_ <= 2029576365) || (Xoh_Deaxof != 2084119697)))
+if (((X123KWb9 <= k_7K13kqe) && (B23EP == -66276638)) && ((RRdu70sV_ <= 2029576365) || (true)))
 {
 if (PiMZ5RArw != XR77_s0fM1)
 {
@@ -520,7 +520,7 @@ else if (aa5tA)
 {
 Xoh_Deaxof++;
 }
-else if (n6TL5 >= -477590683)
+else if (true)
 {
 std::cout << nzi5ZsDBmG << "a_4d" << E32_e1mk8(hTpOmiL) << O3RD(1178522630, -218487940) << "rzdq3yy8o2" << std::endl;
 }

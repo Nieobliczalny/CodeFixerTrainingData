@@ -25,7 +25,7 @@ KkDBEuU3 = (short int)(Z952);
 }
 cout << H58_7O7 << XKCtd << Q_E_5y92 << f8o9A9m << H58_7O7 << endl;
 
-if (((QRRS_uzY_T == 173912113) && (H58_7O7 <= 649480448)) && ((xB7UtS81 >= 1008551679) || (Zslo_)))
+if (((false) && (H58_7O7 <= 649480448)) && ((xB7UtS81 >= 1008551679) || (Zslo_)))
 {
 i_jtGq = (short int)(C2T_u);
 }
@@ -65,7 +65,7 @@ for (int k = 0; k < 1; k++)
 BvFK3pXDv &= xB7UtS81;
 }
 }
-else if ((uZfTQQ > 624327281) && (Zo0ih & 1523839910))
+else if ((false) && (Zo0ih & 1523839910))
 {
 C2T_u ^= 146692089;
 }
@@ -100,7 +100,7 @@ while (i < 5);
 
 try
 {
-if ((TlWrQIEAyG > -2117928797) && ((Zo0ih >= -1128906623) || (fSzHi_6Ne)))
+if ((true) && ((Zo0ih >= -1128906623) || (fSzHi_6Ne)))
 {
 if (UEkG_a <= Z952)
 {
@@ -116,7 +116,7 @@ catch (int& errorCode)
 {
 BvFK3pXDv = nvVZ3YP0G_ % 1202540249;
 }
-if (KkDBEuU3 < -1228908261)
+if (false)
 {
 aH9M = (short int)(i_jtGq);
 }
@@ -137,7 +137,7 @@ cout << aH9M << xB7UtS81 << "zn80ua" << endl;
 }
 while (i < 9);
 }
-if ((LpmGM1 == 490117875) || (Z952 > 1804472203))
+if ((false) || (Z952 > 1804472203))
 {
 for (int j = 0; j < 7; ++j)
 {
@@ -152,7 +152,7 @@ if (nvVZ3YP0G_)
 {
 try
 {
-bjx8C575 = (BvFK3pXDv >= -809764347) ? Tr1M : cI5a20zXq;
+bjx8C575 = (true) ? Tr1M : cI5a20zXq;
 }
 catch (int& errorCode)
 {
@@ -226,7 +226,7 @@ if (Zo0ih >= P0dBBlA634)
 uZfTQQ = (int)abs(XKCtd);
 }
 }
-else if (qjAb9j7 <= 374095771)
+else if (true)
 {
 {
 int k = 10;
@@ -246,7 +246,7 @@ cout << "hQpB" << endl;
 while (i >= 0);
 }
 
-UEkG_a = (Zslo_ != 1931808366) ? I_TlWmo : 1242264822;
+UEkG_a = (true) ? I_TlWmo : 1242264822;
 
 cout << C2T_u << r0mX_4m5y << "lXtzdK" << endl;
 
@@ -278,7 +278,7 @@ j--;
 }
 }
 }
-if (xB7UtS81 < -1985090522)
+if (false)
 {
 for (int j = 9; j >= 0; --j)
 {
@@ -290,7 +290,7 @@ f8o9A9m *= yA6z2768;
 }
 else if (H58_7O7 >= P0dBBlA634)
 {
-if (z3W67FAw7 < -1654628536)
+if (false)
 {
 cout << cDsOe9 << endl;
 }
@@ -317,7 +317,7 @@ while (k >= 0);
 }
 }
 }
-else if ((XKCtd == aH9M) || ((UEkG_a) && (dLO_3m1727 <= 1752790566)))
+else if ((XKCtd == aH9M) || ((UEkG_a) && (true)))
 {
 if (((BvFK3pXDv >= I_TlWmo) && (KkDBEuU3 & -573102718)) || ((Zo0ih != -2085651356) || (TlWrQIEAyG != -927488701)))
 {

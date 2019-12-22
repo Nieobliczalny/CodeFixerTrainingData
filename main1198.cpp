@@ -91,7 +91,7 @@ while (i < 10);
 
 try
 {
-if ((I6_xpBBSL <= -1169187764) && (hJ38U == na6PQ))
+if ((I6_xpBBSL <= -1169187764) && (false))
 {
 std::cout << I6_xpBBSL << gcxI << Hb1V << "Kc4W" << "zr9413321r" << std::endl;
 }
@@ -133,7 +133,7 @@ if (Hb1V == hJ38U)
 {
 u86_JOft5p = BHw1orM5(u86_JOft5p, -712617630, -1102639822, 1613411563);
 }
-else if ((hJ38U != xA_Yi) && (gcxI != 2013189413))
+else if ((true) && (gcxI != 2013189413))
 {
 switch (Hb1V)
 {
@@ -217,7 +217,7 @@ break;
 
 if (uQc0_le >= 1491797542)
 {
-if ((hJ38U >= -886774910) || (u86_JOft5p > uQc0_le))
+if ((true) || (u86_JOft5p > uQc0_le))
 {
 try
 {
@@ -328,7 +328,7 @@ q9X6zU = BHw1orM5(-1971943120, -1873165653, uQc0_le, I6_xpBBSL);
 while (k >= 0);
 }
 }
-else if (hJ38U >= 1680609649)
+else if (false)
 {
 if (Hb1V <= 1114340697)
 {

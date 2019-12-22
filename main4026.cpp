@@ -249,7 +249,7 @@ while (j < 6);
 int i = 0;
 do
 {
-if (J98E1l8 == -1120523635)
+if (false)
 {
 aSmobM = (int)floor(cU3w_Nv_EE);
 }

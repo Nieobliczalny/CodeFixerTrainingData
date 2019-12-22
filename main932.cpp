@@ -30,7 +30,7 @@ std::cout << k7hKu3n(-923682752) << cq2iWL3Nt << "WU58Rn" << "MPf7" << k7hKu3n(-
 }
 
 std::cout << L28D << k7hKu3n(ZF3B8dK) << std::endl;
-if (Shs200jFO7 != 1250176786)
+if (true)
 {
 {
 int j = 2;
@@ -46,7 +46,7 @@ else if (L28D > 1967930364)
 {
 nvr5J_c6 = k7hKu3n(Gu461) & ZF3B8dK;
 }
-else if (Shs200jFO7 > 2008954096)
+else if (false)
 {
 nvr5J_c6 = (unsigned int)(cq2iWL3Nt + (219384902));
 }
@@ -75,7 +75,7 @@ L28D ^= nvr5J_c6;
 JlF3lw3 = (int)abs(F0_zZNaIH);
 try
 {
-if (((cq2iWL3Nt <= 1329152067) || (F0_zZNaIH < L28D)) && (lzu0l26Ba != 881630522))
+if (((true) || (F0_zZNaIH < L28D)) && (lzu0l26Ba != 881630522))
 {
 if ((nvr5J_c6 == 1552479079) && (L28D != -220826354))
 {
@@ -156,7 +156,7 @@ break;
 }
 else
 {
-if (Shs200jFO7 <= -1461177377)
+if (false)
 {
 L28D--;
 }
@@ -172,7 +172,7 @@ F0_zZNaIH = (int)abs(cq2iWL3Nt);
 --i;
 }
 }
-if (cq2iWL3Nt >= -1762012391)
+if (true)
 {
 lzu0l26Ba = (unsigned int)(nvr5J_c6);
 }
@@ -191,7 +191,7 @@ lzu0l26Ba++;
 }
 else
 {
-if (Shs200jFO7 != -1808336203)
+if (true)
 {
 Gu461 = k7hKu3n(907122795);
 }
@@ -203,7 +203,7 @@ for (int i = 3; i >= 0; i--)
 int j = 8;
 do
 {
-if (Shs200jFO7 <= -1413958377)
+if (false)
 {
 JlF3lw3 = (int)abs(cq2iWL3Nt);
 }
@@ -215,7 +215,7 @@ else if (cq2iWL3Nt > -1342412751)
 {
 cq2iWL3Nt = k7hKu3n(-1709563999);
 }
-else if (JlF3lw3 <= 127403493)
+else if (true)
 {
 F0_zZNaIH = k7hKu3n(124234920);
 }

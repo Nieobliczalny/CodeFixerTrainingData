@@ -131,7 +131,7 @@ v0WB /= sq5a1MQB;
 break;
 }
 }
-if (fTOU <= -159001376)
+if (false)
 {
 try
 {
@@ -175,7 +175,7 @@ std::cout << gh70 << tzlKA8440 << "G0M7lV097" << std::endl;
 
 if (x_6n_ <= -267941311)
 {
-if ((zu9l_5t6) && (NtntDEqU > 1633961496))
+if ((zu9l_5t6) && (false))
 {
 zu9l_5t6 = (unsigned long long)(zkzo * zu9l_5t6);
 }
@@ -204,7 +204,7 @@ while (k < 6);
 }
 else if (UzBwwcda == DjS4xz55u)
 {
-if ((DjS4xz55u == -48513285) || (oRy15v < 2042008315))
+if ((false) || (oRy15v < 2042008315))
 {
 EMZSaL /= 198857746;
 }

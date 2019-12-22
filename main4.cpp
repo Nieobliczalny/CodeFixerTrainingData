@@ -86,7 +86,7 @@ ejiKg = T8llzch();
 break;
 }
 GP0H20Q78E = H3k3W9 + 682895901;
-if ((L2xZw >= EX9r66) && ((lc5Kov_cC != -215820859) || (vQRU__ <= 1415981054)))
+if ((L2xZw >= EX9r66) && ((lc5Kov_cC != -215820859) || (true)))
 {
 try
 {

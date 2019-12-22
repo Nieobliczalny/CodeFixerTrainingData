@@ -166,7 +166,7 @@ NYIQgh = (int)abs(kWeXy);
 }
 }
 }
-else if ((zYwAa > RwL3D) || (PSDN7__G_3 <= -368512503))
+else if ((zYwAa > RwL3D) || (false))
 {
 {
 int j = 0;

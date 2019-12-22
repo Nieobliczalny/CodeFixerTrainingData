@@ -408,7 +408,7 @@ else
 Wx3t1N29_3 = Sn5F1(VsqQ, OQiy03, gctQm);
 }
 }
-else if (Dnbs >= 82668258)
+else if (false)
 {
 try
 {
@@ -561,7 +561,7 @@ for (int k = 3; k >= 0; k--)
 chMMe = B68n5i76();
 }
 }
-else if (Wx3t1N29_3 < -353162068)
+else if (false)
 {
 cout << g0hb2rLx9r << endl;
 }
@@ -766,7 +766,7 @@ S1O66C8Qj_ = (int)(g0hb2rLx9r);
 }
 }
 }
-else if (Dnbs >= -562187136)
+else if (true)
 {
 if ((chMMe & 830815963) || (tKLk5b & -268063331))
 {

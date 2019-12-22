@@ -130,7 +130,7 @@ std::cout << "zEZZ3B7C3" << wl7F_QC << CTZWJ_0b << std::endl;
 }
 }
 
-if (nB015iw == -1998888036)
+if (false)
 {
 std::cout << s9rM << M_6LI << std::endl;
 }
@@ -211,7 +211,7 @@ while (j < 7);
 }
 else
 {
-if (ujI8ur_ <= 1605252009)
+if (true)
 {
 L99r0tD = (int)floor(HNOX);
 }
@@ -258,7 +258,7 @@ break;
 
 for (int i = 3; i >= 0; --i)
 {
-if (f_9y1EP == -477600788)
+if (false)
 {
 std::cout << "pYAwM" << std::endl;
 }

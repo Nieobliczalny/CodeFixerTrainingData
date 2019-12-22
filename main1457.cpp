@@ -220,7 +220,7 @@ GAHf6Z0MGM %= 1724899517;
 break;
 }
 }
-if (((iWVP2wS > sC9xPQyFAG) && (U0C_c3E5 > sC9xPQyFAG)) || (R1oaj < 306971172))
+if (((false) && (U0C_c3E5 > sC9xPQyFAG)) || (R1oaj < 306971172))
 {
 switch (nVYax30R2)
 {

@@ -44,7 +44,7 @@ vDy70IfK = (int)abs(oy1o);
 OS_b2I = ZQy3MQ0 >> 15836212;
 
 yE37H1_peO = (long double)(p4zX7Kj363);
-if (vDy70IfK >= 1439296218)
+if (false)
 {
 R5M208VN = ny8OnRYL();
 }
@@ -82,7 +82,7 @@ if (EHmE4N == 0)
 	J9J3WQY = 2136938565 / EHmE4N;
 }
 
-if (c2MeAJxA >= 449543036)
+if (false)
 {
 switch (J9J3WQY)
 {
@@ -116,7 +116,7 @@ catch (int& errorCode)
 {
 vq1P = (int)ceil(OS_b2I);
 }
-if ((XMej >= J9J3WQY) && (vDy70IfK == -2140693517))
+if ((XMej >= J9J3WQY) && (false))
 {
 if ((p4zX7Kj363) || ((t_0E2YKi_n <= 537017489) && (oKk56g_1 != 312768572)))
 {
@@ -152,7 +152,7 @@ std::cout << "bkipQL0" << "UCGOI" << ny8OnRYL() << c2MeAJxA << std::endl;
 }
 else
 {
-if (pC2vs3kT == 1955251798)
+if (false)
 {
 for (int k = 0; k < 2; k++)
 {
@@ -199,7 +199,7 @@ p4zX7Kj363 = (float)(oKk56g_1);
 }
 std::cout << "Pqv2X6JV" << std::endl;
 std::cout << yE37H1_peO << ny8OnRYL() << std::endl;
-if (((UKfb_C != 186264549) && (EHmE4N == -194408010)) || ((p4zX7Kj363 <= 1450201873) && (O2RE3 & -1478744825)))
+if (((true) && (EHmE4N == -194408010)) || ((p4zX7Kj363 <= 1450201873) && (O2RE3 & -1478744825)))
 {
 oKk56g_1 = (unsigned short)(vDy70IfK);
 }
@@ -216,7 +216,7 @@ if ((XMej < yE37H1_peO) && ((oy1o & pC2vs3kT) || (p4zX7Kj363 < 26029075)))
 int j = 0;
 while (j < 8)
 {
-if (((XMej > -1866433092) && (c2MeAJxA == -494964644)) || (vq1P <= -1572301573))
+if (((XMej > -1866433092) && (false)) || (vq1P <= -1572301573))
 {
 m7w_wNpq %= c2MeAJxA;
 }
@@ -226,7 +226,7 @@ m7w_wNpq %= c2MeAJxA;
 }
 else if (R5M208VN <= -165365852)
 {
-if ((oKk56g_1 <= 759196276) && (R5M208VN < -815183300))
+if ((true) && (R5M208VN < -815183300))
 {
 if (EHmE4N & -1498674399)
 {
@@ -271,7 +271,7 @@ else if (t_0E2YKi_n == ZQy3MQ0)
 {
 oKk56g_1 %= 263879279;
 }
-else if ((pC2vs3kT == 874374614) || (uxWxe7k_w >= -1248911262))
+else if ((false) || (uxWxe7k_w >= -1248911262))
 {
 if ((ZQy3MQ0 == 1894935636) && (Gy6Epq2 < vq1P))
 {
@@ -321,7 +321,7 @@ else if ((vq1P < oy1o) || ((vq1P != PP5E) && (Gy6Epq2 & 1481805067)))
 {
 Gy6Epq2 = pC2vs3kT + 397064809;
 }
-else if (pC2vs3kT == 1811418667)
+else if (false)
 {
 vq1P = (int)ceil(QC6uNxy);
 }

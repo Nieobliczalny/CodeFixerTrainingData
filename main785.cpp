@@ -183,7 +183,7 @@ else if (k9YrMW9)
 {
 std::cout << "MerumW1o" << "JwJprPI" << std::endl;
 }
-else if (H099Tsg5a <= -434256075)
+else if (false)
 {
 m3pXs_c5i9 = OjCL2(1710535590, p_552_3) << 651690622;
 }
@@ -317,7 +317,7 @@ try
 int j = 0;
 while (j < 5)
 {
-if (toGc8E > -200709818)
+if (true)
 {
 he97rZIRV &= 131621863;
 }

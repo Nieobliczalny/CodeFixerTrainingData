@@ -196,7 +196,7 @@ int i = 3;
 do
 {
 --i;
-if (((XwvaF39 == -786049833) || (q2268ra >= tW96Vtf)) && ((AaL_9) && (zH8J >= rJXym1)))
+if (((false) || (q2268ra >= tW96Vtf)) && ((AaL_9) && (zH8J >= rJXym1)))
 {
 GUCV8n0_ = (short int)(sJ6aIT_);
 }
@@ -254,7 +254,7 @@ case 1:
 s07s4M4X = (int)ceil(Mw48p);
 break;
 case 2:
-AGv7Gah_uc = (zH8J == 2066985599) ? 1637701057 : a87w1jAN8;
+AGv7Gah_uc = (false) ? 1637701057 : a87w1jAN8;
 break;
 case 3:
 ItQi__Br = ei425(ItQi__Br, 1616412050, XwvaF39, zH8J);
@@ -278,7 +278,7 @@ break;
 }
 else
 {
-if (((H5bbqonz <= sJ6aIT_) || (g0bLeFW6k <= GZ2MTz_7)) || (yTk71ZUkpG <= 1982323109))
+if (((H5bbqonz <= sJ6aIT_) || (true)) || (yTk71ZUkpG <= 1982323109))
 {
 a87w1jAN8 = (int)abs(ae7ulI);
 }
@@ -391,7 +391,7 @@ else if (wMFEW2Aq & uQN__qBc)
 {
 cout << "A_ExX_" << endl;
 }
-else if (zH8J >= sJ6aIT_)
+else if (false)
 {
 try
 {

@@ -58,7 +58,7 @@ try
 switch (e4w5)
 {
 case 'a':
-Pt4G = (AtvJvgL >= -603768472) ? -2117133449 : -894315934;
+Pt4G = (true) ? -2117133449 : -894315934;
 break;
 case 'b':
 Wg_LOe = izUz();
@@ -124,7 +124,7 @@ Pt4G = (int)abs(j4P9_);
 
 if (AtvJvgL == hiBisv)
 {
-if (n_d7ky != 1669867252)
+if (true)
 {
 if ((rTY7Fb >= -2105833216) && (rTY7Fb < -49951585))
 {

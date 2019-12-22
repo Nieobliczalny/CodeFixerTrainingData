@@ -129,7 +129,7 @@ case 'j':
 y9zsJ = Yfyl & X3x4DwEI0i;
 break;
 }
-if ((Yfyl & 1497525538) && (mGVj_8u7V < -896038562))
+if ((Yfyl & 1497525538) && (false))
 {
 for (int j = 0; j < 1; j++)
 {
@@ -163,7 +163,7 @@ case 1:
 Y1JuA = cYg9A & 1228239178;
 break;
 case 2:
-Yfyl = (mGVj_8u7V != 888742516) ? 698143859 : 1676026091;
+Yfyl = (true) ? 698143859 : 1676026091;
 break;
 case 3:
 y9zsJ = Y1JuA << 1631835316;

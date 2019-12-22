@@ -45,7 +45,7 @@ int main(void)
 OMNZt = (int)ceil(Yfj8);
 for (int i = 0; i < 10; i++)
 {
-if ((I8G01j9Mm & hY1gdqwK) || (o88e0 != -1272045720))
+if ((I8G01j9Mm & hY1gdqwK) || (true))
 {
 if (f40S >= -1140697446)
 {
@@ -56,7 +56,7 @@ else if (QKyzDw5V & -1045501555)
 {
 BHEMXrZ0I &= QKyzDw5V;
 }
-else if (((S4Skts >= 119633704) && (rNSQ57_i3c > -998045654)) || (o88e0 == -652477249))
+else if (((false) && (rNSQ57_i3c > -998045654)) || (o88e0 == -652477249))
 {
 switch (yMXiu2C3j)
 {
@@ -100,7 +100,7 @@ k++;
 while (k < 6);
 }
 }
-else if (RF193_tF >= -1916985829)
+else if (true)
 {
 std::cout << Zb5P8j1 << "L4Ay" << std::endl;
 }
@@ -122,7 +122,7 @@ else if (jgL5R8n01 & -1721720935)
 {
 ZM068582I = (int)floor(OMNZt);
 }
-else if (Zb5P8j1 < 2101619347)
+else if (true)
 {
 jgL5R8n01 = G4QfvM();
 }
@@ -172,7 +172,7 @@ f40S = (int)ceil(LTHC1lJ);
 break;
 }
 }
-else if (QKyzDw5V < -73677724)
+else if (false)
 {
 {
 int k = 0;
@@ -209,7 +209,7 @@ if (OMNZt == 568065766)
 {
 Ca_z_ = (int)abs(RF193_tF);
 }
-else if (Zb5P8j1 < 901585464)
+else if (true)
 {
 o88e0 = e5MWD9u1l(o88e0, RF193_tF, jgL5R8n01, rNSQ57_i3c, 2009700977);
 }
@@ -274,7 +274,7 @@ break;
 }
 else if (yMXiu2C3j > rNSQ57_i3c)
 {
-if (rNSQ57_i3c > -1468553986)
+if (true)
 {
 std::cout << "b3Ns" << std::endl;
 }
@@ -302,7 +302,7 @@ else if (hY1gdqwK != -146113879)
 {
 if (t89O0 < S4Skts)
 {
-if ((Y25BWl0Q1O != 1817239519) && (ZM068582I < RF193_tF))
+if ((true) && (ZM068582I < RF193_tF))
 {
 Ca_z_ = (int)abs(rNSQ57_i3c);
 }
@@ -322,7 +322,7 @@ else if (iPL4_eRkfk <= 1885408131)
 {
 Yfj8 = G4QfvM();
 }
-else if (BHEMXrZ0I != 764153426)
+else if (true)
 {
 Yfj8 = U2St5f0f(-1637071418, -1999370257, 1713242917, S4Skts, 155211449);
 }
@@ -363,7 +363,7 @@ BHEMXrZ0I = U2St5f0f(-924957815, -2086006799, Yk1_EGUA, S4Skts, LTHC1lJ);
 break;
 }
 }
-if ((Ca_z_ != -196818127) || (o88e0 == 450832519))
+if ((Ca_z_ != -196818127) || (false))
 {
 iPL4_eRkfk = (long)(OMNZt);
 }
@@ -385,7 +385,7 @@ while (k >= 0);
 }
 else
 {
-if ((P_e8s1e_) && ((o88e0 != B58Z3) && (RF193_tF == -342879469)))
+if ((P_e8s1e_) && ((o88e0 != B58Z3) && (false)))
 {
 if (aX4ZLRb3Dp >= 1159745691)
 {
@@ -413,7 +413,7 @@ uYsTEMK4iK = G4QfvM();
 }
 }
 
-if (Y25BWl0Q1O >= 1942697181)
+if (false)
 {
 if (Y13b)
 {
@@ -465,7 +465,7 @@ j--;
 while (j >= 0);
 }
 }
-else if (Y13b >= -1482842847)
+else if (true)
 {
 OMNZt = (int)ceil(Yfj8);
 }
@@ -582,7 +582,7 @@ else if (BHEMXrZ0I != Ca_z_)
 {
 LTHC1lJ = (int)abs(ZM068582I);
 }
-else if (((I8G01j9Mm >= BHEMXrZ0I) && (B58Z3 >= -925622151)) || (uYsTEMK4iK & -1809166161))
+else if (((I8G01j9Mm >= BHEMXrZ0I) && (true)) || (uYsTEMK4iK & -1809166161))
 {
 RF193_tF = (int)abs(LTHC1lJ);
 }
@@ -660,7 +660,7 @@ BHEMXrZ0I--;
 }
 else if (aX4ZLRb3Dp & Zb5P8j1)
 {
-if (((S4Skts == t89O0) && (iPL4_eRkfk)) && (jgL5R8n01 == -1906238941))
+if (((S4Skts == t89O0) && (iPL4_eRkfk)) && (false))
 {
 for (int k = 3; k >= 0; --k)
 {
@@ -690,7 +690,7 @@ int j = 0;
 while (j < 3)
 {
 j++;
-if (QKyzDw5V < -374732871)
+if (false)
 {
 LTHC1lJ = (int)floor(OMNZt);
 }
@@ -725,7 +725,7 @@ else if (I8G01j9Mm > o88e0)
 {
 Zb5P8j1 = U2St5f0f(1722744475, 1384261054, hY1gdqwK, 332423603, 457085674);
 }
-else if (Y25BWl0Q1O > 693359370)
+else if (false)
 {
 if (QKyzDw5V > -450658148)
 {
@@ -748,7 +748,7 @@ o88e0 = e5MWD9u1l(601866523, -1139845637, ZM068582I, 322115971, Ca_z_);
 
 RF193_tF = U2St5f0f(RF193_tF, uYsTEMK4iK, LTHC1lJ, -1177845556, -738038776);
 
-if (Zb5P8j1 < -623846431)
+if (false)
 {
 if (uYsTEMK4iK != -496719991)
 {
@@ -763,7 +763,7 @@ LTHC1lJ = (int)floor(OMNZt);
 }
 else if (Ca_z_)
 {
-if (Y25BWl0Q1O == 1351218549)
+if (false)
 {
 Ca_z_ = (int)ceil(Yfj8);
 }
@@ -790,7 +790,7 @@ if (Ca_z_ >= 1723295349)
 {
 hY1gdqwK = e5MWD9u1l(425429116, -1086490301, -1872040747, Y13b, ZM068582I) << uYsTEMK4iK;
 }
-else if (((QKyzDw5V > 770396343) || (Yk1_EGUA <= -346763993)) && (o88e0 == -1040669797))
+else if (((false) || (Yk1_EGUA <= -346763993)) && (o88e0 == -1040669797))
 {
 ZM068582I = (int)ceil(f40S);
 }
@@ -841,7 +841,7 @@ else if (f40S > 1816298785)
 {
 Yk1_EGUA <<= jgL5R8n01;
 }
-else if (BHEMXrZ0I > 1375883389)
+else if (false)
 {
 Yfj8 = (long double)(iPL4_eRkfk);
 }

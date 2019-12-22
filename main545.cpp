@@ -46,7 +46,7 @@ int main(int argc, char** argv) {
 
 try
 {
-if (tm5c8zjiC <= -115953442)
+if (false)
 {
 if (Yx_ub1HtK == -1357439685)
 {
@@ -81,7 +81,7 @@ while (i >= 0)
 cout << "H9ZS7" << cFhmqP08A0 << endl;
 }
 }
-if (b3A9MXM >= -1219884103)
+if (true)
 {
 cout << I5ky << tqMb_6 << SBXUo4D_s_(467328116, cFhmqP08A0) << endl;
 }
@@ -166,7 +166,7 @@ k++;
 while (k < 2);
 }
 }
-else if ((tqMb_6 == -446355267) || ((g73CD7 == B_InDXa0O) || (cFhmqP08A0 >= 1319832419)))
+else if ((false) || ((g73CD7 == B_InDXa0O) || (cFhmqP08A0 >= 1319832419)))
 {
 znO63RaDoO = (unsigned short int)(GvF5RT0);
 }
@@ -196,7 +196,7 @@ i--;
 }
 }
 
-if (GYEgq != -668122020)
+if (true)
 {
 Yx_ub1HtK = (unsigned short int)(tm5c8zjiC);
 }
@@ -233,7 +233,7 @@ k++;
 }
 }
 }
-else if (((D62UTH3 > GYEgq) || (y0vz4o13 & GvF5RT0)) && ((znO63RaDoO == 1446810701) && (ypK3zgC32 <= 1969642480)))
+else if (((D62UTH3 > GYEgq) || (y0vz4o13 & GvF5RT0)) && ((false) && (ypK3zgC32 <= 1969642480)))
 {
 for (int j = 0; j < 6; j++)
 {
@@ -301,7 +301,7 @@ CIBjW3Gm1A = (int)abs(I5ky);
 
 try
 {
-if (b3A9MXM < -861978390)
+if (false)
 {
 try
 {
@@ -357,7 +357,7 @@ break;
 }
 
 V3vjyx1 = SBXUo4D_s_(V3vjyx1, GYEgq);
-if (uI_2tHykJ == 759724036)
+if (false)
 {
 for (int j = 0; j < 7; ++j)
 {
@@ -380,7 +380,7 @@ else
 {
 if (TzHQe5 < Z7ls2_U8)
 {
-if (((GYEgq & 1761469316) && (N200rZL7l1 < -238502468)) && (I5ky > Y1b2))
+if (((GYEgq & 1761469316) && (false)) && (I5ky > Y1b2))
 {
 B_InDXa0O >>= cFhmqP08A0;
 }
@@ -392,7 +392,7 @@ else if (ypK3zgC32 & ebuY7Ly4DW)
 {
 g73CD7 = (int)abs(I5ky);
 }
-else if ((Y1b2 >= 622525043) && ((uI_2tHykJ > b3A9MXM) && (tm5c8zjiC > -808230889)))
+else if ((false) && ((uI_2tHykJ > b3A9MXM) && (tm5c8zjiC > -808230889)))
 {
 g73CD7 = SBXUo4D_s_(441769886, znO63RaDoO);
 }

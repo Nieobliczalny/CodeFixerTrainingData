@@ -169,7 +169,7 @@ catch (int& errorCode)
 q5VZ1u = gXi6_brVH9(q5VZ1u, fA0D391mY4, yIHx);
 }
 }
-else if (a7ZfBuMWw7 != -1090578653)
+else if (true)
 {
 if (QZ4bG4Aw == 91892516)
 {
@@ -187,7 +187,7 @@ for (int k = 0; k < 2; ++k)
 je_WT = gXi6_brVH9(-998646842, -124672805, piBvo83);
 }
 }
-else if (w8IYVCp_ < -1059030802)
+else if (false)
 {
 if (vHFx != BZCb)
 {

@@ -33,7 +33,7 @@ bs_aw44C = xGlCI8tADj(bs_aw44C, 2082773013, yx1yK);
 break;
 }
 
-if (V_5NXzWTuN != 137171658)
+if (true)
 {
 {
 int j = 0;
@@ -95,7 +95,7 @@ ls_uhyQ = D410_ / czp9so(CE79r, 519236858);
 
 if ((S910mm5AbZ) || (DJNEB < tAOGXf))
 {
-if ((AjOX >= -1168302953) || (V_5NXzWTuN > fK5TyJ9))
+if ((true) || (V_5NXzWTuN > fK5TyJ9))
 {
 std::cout << czp9so(423145951, Gdw1JYY) << xGlCI8tADj(-696196993, Gdw1JYY, m0EUDUp99) << cqa7Bl8j << std::endl;
 }
@@ -110,7 +110,7 @@ catch (int& errorCode)
 RIcZb49nl = xGlCI8tADj(-624401919, I8gY10wGN9, 597270246);
 }
 }
-else if (((x1RlWPNzKf > A1iJw6c0Y) || (V_5NXzWTuN != 1285093283)) && (aXNS < 1654490820))
+else if (((x1RlWPNzKf > A1iJw6c0Y) || (true)) && (aXNS < 1654490820))
 {
 T45586MGmt = (unsigned int)(UBfBaqw);
 }

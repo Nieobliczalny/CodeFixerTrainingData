@@ -293,7 +293,7 @@ try
 {
 for (int j = 0; j < 9; ++j)
 {
-if (((AWBBFfV < Q447G) && (O5Srd_55 == ui_F_oB92)) || (izz55qX12O <= 509989222))
+if (((AWBBFfV < Q447G) && (false)) || (izz55qX12O <= 509989222))
 {
 WyVJz <<= 1570972132;
 }
@@ -305,7 +305,7 @@ else if (izz55qX12O == ui_F_oB92)
 {
 mXPKxv = tC4RB_x_ + 1777287381;
 }
-else if ((CxrhKk8 < -2000661516) || (MR6w == ui_F_oB92))
+else if ((false) || (MR6w == ui_F_oB92))
 {
 qrmJ = ZX9U_8z9np();
 }

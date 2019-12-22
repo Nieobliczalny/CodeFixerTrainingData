@@ -103,7 +103,7 @@ Suw1C1q499 = (unsigned short int)(GE54);
 cout << "y_B585L" << w8_0_51 << endl;
 if (OG5I1)
 {
-if (Oei3 < 1572320776)
+if (true)
 {
 {
 int k = 0;
@@ -175,7 +175,7 @@ break;
 cout << tX1_IP(1411355242, 429375995) << w8_0_51 << endl;
 try
 {
-if (C9lQCtWVQ <= 1766695803)
+if (true)
 {
 if (DJhh__Gd & XCU2T84)
 {
@@ -214,7 +214,7 @@ Pq7k7JS = tX1_IP(LoV4l2j, 1502066894);
 }
 }
 
-if ((zH4B == 1659474050) && ((W7177 == 855100133) && (c3TDd54 < -623154142)))
+if ((false) && ((W7177 == 855100133) && (c3TDd54 < -623154142)))
 {
 try
 {
@@ -232,7 +232,7 @@ catch (int& errorCode)
 v1h1789++;
 }
 }
-else if (l1KntS4 > 1869085064)
+else if (false)
 {
 if (kOhaO & -68345778)
 {
@@ -248,7 +248,7 @@ while (k < 7);
 }
 else
 {
-if ((Suw1C1q499 > 504129453) && (Q4Bc_Ili < 1791158734))
+if ((false) && (Q4Bc_Ili < 1791158734))
 {
 PKgFX5BZaW /= KvSfMZ;
 }
@@ -260,7 +260,7 @@ VoTnrBl0 = KvSfMZ << 1612483220;
 }
 else if (T1JlYSza25 & -790777468)
 {
-if (yGibGPWrf >= -479638754)
+if (true)
 {
 W7177 = (unsigned short int)(CO49wzgR);
 }
@@ -271,7 +271,7 @@ else if (bRfxM4_ == 529232989)
 int j = 0;
 while (j < 8)
 {
-if (zH4B < 1010249095)
+if (true)
 {
 Pq7k7JS = tX1_IP(b807I, -244241301);
 }

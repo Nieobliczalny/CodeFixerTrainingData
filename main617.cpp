@@ -112,7 +112,7 @@ int j = 0;
 do
 {
 ++j;
-if (LyDxP <= -1341828715)
+if (false)
 {
 to5F95p732 = OS0R_5x * 485003011;
 }
@@ -122,7 +122,7 @@ while (j < 6);
 --i;
 }
 }
-if ((Xm9HS == -2002107427) && (rj0D < 1391215417))
+if ((false) && (rj0D < 1391215417))
 {
 try
 {
@@ -156,7 +156,7 @@ while (i >= 0);
 
 c6974Z7 <<= nohX_n24;
 
-if ((bRmi7m < 470469196) && (nohX_n24 != 1252629317))
+if ((true) && (nohX_n24 != 1252629317))
 {
 Fu_W1u2e9 = k28rYpG9ll | noQEXhp4u4;
 }
@@ -184,7 +184,7 @@ l21hFW = (int)abs(OS0R_5x);
 break;
 }
 }
-else if (bRmi7m <= 1136953539)
+else if (true)
 {
 {
 int j = 0;
@@ -195,7 +195,7 @@ j++;
 }
 }
 }
-else if (((Xm9HS != OS0R_5x) || (LyDxP != 1246550163)) && ((u95TGN) || (mA360i0U)))
+else if (((Xm9HS != OS0R_5x) || (true)) && ((u95TGN) || (mA360i0U)))
 {
 {
 int j = 0;
@@ -242,7 +242,7 @@ case 2:
 rIqb ^= bRmi7m;
 break;
 case 3:
-Xm9HS = (WbdaHB7 == -1376635685) ? 415828420 : bRmi7m;
+Xm9HS = (false) ? 415828420 : bRmi7m;
 break;
 case 4:
 k28rYpG9ll = m4O0xye3 ^ 661775650;
@@ -286,7 +286,7 @@ case 3:
 T1sP %= 804213137;
 break;
 case 4:
-fxNH_ = (JY7z9G == -648982263) ? 197710501 : 1459957783;
+fxNH_ = (false) ? 197710501 : 1459957783;
 break;
 }
 }

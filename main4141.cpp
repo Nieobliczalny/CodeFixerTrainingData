@@ -231,7 +231,7 @@ else if ((Y2U92DVE7b >= aID4mEUnx) && (HbU03 <= -909774887))
 {
 ALY6 = uO5DGx2Nl(ALY6, -2052039282, -380140221, eGcBoc9MUO);
 }
-else if (eGcBoc9MUO > -1143849944)
+else if (true)
 {
 C3z693g22 = (int)floor(dedhmx3);
 }
@@ -284,7 +284,7 @@ try
 int j = 4;
 do
 {
-if (Ubycuqzh == 736935800)
+if (false)
 {
 ALY6 = uO5DGx2Nl(aCsN_xsN, ALY6, aID4mEUnx, H54Y);
 }
@@ -308,7 +308,7 @@ std::cout << uO5DGx2Nl(-1935373475, -2072775235, aID4mEUnx, 1393725574) << jIJsR
 }
 while (i >= 0);
 }
-if (R4xB8l == 6502843)
+if (false)
 {
 Ubycuqzh = (unsigned short)(d1MS4L);
 }
@@ -344,7 +344,7 @@ FO_8XqvR2 = TSRg_Iu3Zo - 373661060;
 }
 else if (FNG3bv >= -2094577231)
 {
-if (QVar6 >= -1680749495)
+if (true)
 {
 fJOqDRO9j++;
 }
@@ -432,7 +432,7 @@ catch (int& errorCode)
 RkkdXn = (int)ceil(N61__P);
 }
 }
-else if ((J8F__cm___ >= 1670151977) && (HbU03 < -391984000))
+else if ((false) && (HbU03 < -391984000))
 {
 switch (HbU03)
 {
@@ -532,7 +532,7 @@ FNG3bv = (int)floor(C3z693g22);
 
 if (HbU03)
 {
-if ((J8F__cm___ > -124360019) && (eGcBoc9MUO < 1064509905))
+if ((true) && (eGcBoc9MUO < 1064509905))
 {
 if ((v_v16a != 934517844) && ((Y2U92DVE7b == 1094103201) || (Ci608G8061 > QNTWsd)))
 {
@@ -657,7 +657,7 @@ int i = 6;
 while (i >= 0)
 {
 i--;
-if ((Bm2m5fGpe >= 640290049) && (T1a7 >= rCN20Vi4))
+if ((false) && (T1a7 >= rCN20Vi4))
 {
 if (((QVar6 == TSRg_Iu3Zo) && (RkkdXn >= C3z693g22)) || (GWjlDR0e1 >= GO8Q8yc))
 {
@@ -692,7 +692,7 @@ Ci608G8061 = uO5DGx2Nl(-817766221, FNG3bv, MpF51800, r21X0W) / qqWN1u;
 }
 else if (MpF51800 > -487736323)
 {
-if (d_2XFdv > 1981693559)
+if (false)
 {
 qqWN1u = (int)floor(C3z693g22);
 }
@@ -704,7 +704,7 @@ else if (WNVsULf9zi != -1495663950)
 {
 C3z693g22 = (int)floor(FOwU);
 }
-else if (((ZIOSVyJ_h > 2136832731) && (v_v16a >= 180171524)) || (h3vQt1 >= dedhmx3))
+else if (((false) && (v_v16a >= 180171524)) || (h3vQt1 >= dedhmx3))
 {
 ZIOSVyJ_h = GWjlDR0e1 - 1728969508;
 }
@@ -745,7 +745,7 @@ if ((D_0f < aCsN_xsN) || (QVar6 & 236476895))
 {
 H572Nf %= piKW1R0m7;
 }
-else if (d_2XFdv < -195227726)
+else if (false)
 {
 if (((FOwU >= R4xB8l) && (pu8wvNSFIY < -2125271071)) || (H54Y))
 {

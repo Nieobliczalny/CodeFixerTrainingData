@@ -185,7 +185,7 @@ bIbt5ar = (int)abs(p2HU2TsbF_);
 while (i >= 0);
 }
 
-if (((qVpbo < 805385490) || (veo4 != 1365993504)) && (fEzx8AV2))
+if (((true) || (veo4 != 1365993504)) && (fEzx8AV2))
 {
 fEzx8AV2 = yAkjkO / N0Ihn;
 }

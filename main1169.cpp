@@ -80,7 +80,7 @@ BMBQmE = ekjxDpj0Z + 196015122;
 break;
 }
 }
-else if ((aagg != -586096557) || (DFVpb7 & V0UI_20J38))
+else if ((true) || (DFVpb7 & V0UI_20J38))
 {
 n939H_2_5 = (short)(ms79Q3);
 }
@@ -99,7 +99,7 @@ else if (C40J5 <= o23s)
 {
 I1AvYOY1 = z53_C1W8(I1AvYOY1, 100470540, 1597547195, -1727495056);
 }
-else if (I1AvYOY1 > 1862719485)
+else if (false)
 {
 try
 {
@@ -158,7 +158,7 @@ I1AvYOY1 = xbVB4u5o(K69LAf13, 496713734) * X2K8j6;
 IW61k7Sl = (short)(Z_Z_);
 std::cout << "D3i7B09N" << std::endl;
 
-if (r84bfa != 1121804973)
+if (true)
 {
 tqCf8_RXh_ = INyMh1 ^ 140170173;
 }
@@ -227,7 +227,7 @@ m86Rx6Q = (int)abs(JGk_);
 break;
 }
 }
-else if (((visnQ54M) || (QI3KF4vZ >= 475713159)) && (qcmzhN97 <= 581325095))
+else if (((visnQ54M) || (false)) && (qcmzhN97 <= 581325095))
 {
 if ((X3g9E < -432624309) || ((w1hP643Ian >= 1296064630) && (o7n9)))
 {
@@ -279,7 +279,7 @@ break;
 }
 else if (visnQ54M & N258MSW1)
 {
-if ((e_qlD != -332568062) && (DOwVv > qcmzhN97))
+if ((true) && (DOwVv > qcmzhN97))
 {
 BMBQmE = (int)abs(INyMh1);
 }
@@ -295,7 +295,7 @@ V0UI_20J38 = tqCf8_RXh_ | JmATB;
 }
 }
 }
-else if (d22E <= 926530990)
+else if (true)
 {
 {
 int k = 0;
@@ -312,7 +312,7 @@ else
 w1hP643Ian = z53_C1W8(-558685592, -12711598, Y7HDal7Y, JGk_);
 }
 }
-else if (jz_z2D < -1799785818)
+else if (false)
 {
 if (((o23s & 1610663232) || (HXVjP < z19t8MiS45)) || (X3g9E >= LD8lx))
 {
@@ -326,7 +326,7 @@ else
 std::cout << N258MSW1 << V0UI_20J38 << xbVB4u5o(-2076988055, 2111532091) << "vUA95t1" << YQ32hP(QI3KF4vZ, -2088194953, -1447921335) << std::endl;
 }
 }
-else if ((d22E < -923332188) && (visnQ54M))
+else if ((false) && (visnQ54M))
 {
 tqCf8_RXh_ -= JmATB;
 }
@@ -341,7 +341,7 @@ w62Juw4 %= 1232080118;
 }
 else
 {
-if (HXVjP >= 28322691)
+if (false)
 {
 BMBQmE = (int)abs(w62Juw4);
 }
@@ -433,7 +433,7 @@ nD8hAK5i = S82T_Kj << I1AvYOY1;
 while (k >= 0);
 }
 }
-else if (X3g9E == -196735358)
+else if (false)
 {
 {
 int k = 0;
@@ -445,7 +445,7 @@ S82T_Kj = YQ32hP(581672959, 465424477, 1544437258);
 while (k < 6);
 }
 }
-else if ((m86Rx6Q < 1280924426) && (d22E > 386267193))
+else if ((true) && (d22E > 386267193))
 {
 std::cout << X2K8j6 << "uHTk8E5n" << X3g9E << std::endl;
 }
@@ -485,7 +485,7 @@ for (int i = 0; i < 6; i++)
 {
 visnQ54M = (short)(MG66);
 }
-if ((qcmzhN97 != 1022200783) && ((w62Juw4 <= 1952702481) || (J0CpR <= 1104458188)))
+if ((true) && ((w62Juw4 <= 1952702481) || (J0CpR <= 1104458188)))
 {
 if (w1hP643Ian >= -159240772)
 {
@@ -529,7 +529,7 @@ else if ((d22E & INyMh1) && (I1AvYOY1 != yeKlm7F))
 {
 J0CpR &= 1614102076;
 }
-else if ((Y7HDal7Y <= -1549668730) && ((BMBQmE == 81080857) || (Z_Z_ > -954133298)))
+else if ((false) && ((BMBQmE == 81080857) || (Z_Z_ > -954133298)))
 {
 for (int j = 4; j >= 0; --j)
 {
@@ -541,7 +541,7 @@ else if ((Z_Z_ <= JmATB) || (K69LAf13 <= 1048944287))
 {
 L5o1v67 = Z9x24(-1438365286, 628100809, yeKlm7F, lq2x, -1707966317);
 }
-else if (u_03DPqK8j <= -2056971038)
+else if (false)
 {
 aagg = (int)abs(tqCf8_RXh_);
 }
@@ -551,7 +551,7 @@ U9GP8mKql = xbVB4u5o(2013550942, QI3KF4vZ);
 }
 }
 }
-else if (K5S0q0 == 78986273)
+else if (false)
 {
 V0UI_20J38 <<= qcmzhN97;
 }
@@ -574,7 +574,7 @@ w62Juw4 += 1219695002;
 }
 }
 
-if (C40J5 == 1191286001)
+if (false)
 {
 if ((visnQ54M == o7n9) && (o23s))
 {
@@ -591,7 +591,7 @@ k--;
 }
 }
 }
-else if (PkU2C < -1769893666)
+else if (false)
 {
 J0CpR--;
 }
@@ -609,7 +609,7 @@ MG66 = (int)abs(V0UI_20J38);
 }
 
 e_qlD = (int)abs(o7n9);
-if (JmATB == -981432047)
+if (false)
 {
 MG66 = tqCf8_RXh_ << K5S0q0;
 }
@@ -684,7 +684,7 @@ o23s = YQ32hP(o23s, m085Q5, -44278618);
 }
 else
 {
-if (INyMh1 == -926579372)
+if (false)
 {
 ekjxDpj0Z = z53_C1W8(-1542589351, NL63cI, -624748389, U9GP8mKql);
 }
@@ -725,7 +725,7 @@ k3zjfaaG8c = JGk_ - 140056644;
 while (k >= 0);
 }
 }
-else if (((NL63cI & -684969780) || (lq2x < -919905330)) && (JGk_))
+else if (((NL63cI & -684969780) || (false)) && (JGk_))
 {
 N258MSW1 /= 414880160;
 }
@@ -747,7 +747,7 @@ std::cout << "XZtZ" << std::endl;
 }
 else
 {
-if (d22E != -1761325019)
+if (true)
 {
 QI3KF4vZ = z53_C1W8(Y7HDal7Y, -2021184193, IW61k7Sl, ekjxDpj0Z) >> 1404284057;
 }

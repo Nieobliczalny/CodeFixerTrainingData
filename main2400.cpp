@@ -79,7 +79,7 @@ int main(int argc, char** argv)
 
 cKj4oP = (unsigned long long)(t0DR_P__q);
 
-if ((KX1K7hOF >= Kt15h2j39) && ((Kwk_ >= -929329109) && (b4I7n4vGy < 1393439017)))
+if ((KX1K7hOF >= Kt15h2j39) && ((Kwk_ >= -929329109) && (true)))
 {
 {
 int j = 0;
@@ -140,7 +140,7 @@ byU9H_v5Oe /= 2060035711;
 
 try
 {
-if (((Kwk_ & 401952503) || (KX1K7hOF >= -1412102206)) && (TsJz_3nbs))
+if (((Kwk_ & 401952503) || (true)) && (TsJz_3nbs))
 {
 if (P5i9_r != Ro2uYoitk9)
 {
@@ -502,7 +502,7 @@ else if (lGun4Gz < -644534392)
 {
 cout << "Nep9y" << y0j707p(-1657318818) << endl;
 }
-else if (((awSq5449 <= -1351452359) || (H2hj8ZQ >= Kt15h2j39)) || (PhFO3qX2Z >= -2092829322))
+else if (((awSq5449 <= -1351452359) || (H2hj8ZQ >= Kt15h2j39)) || (true))
 {
 {
 int j = 0;
@@ -535,7 +535,7 @@ cout << y0j707p(-742978158) << K_vX << y0j707p(1317942377) << endl;
 lGun4Gz = y0j707p(-207193273);
 
 V5Ws2Tqy = (unsigned short int)(afbuh);
-if (mWc9C != 1267101006)
+if (true)
 {
 for (int j = 10; j >= 0; --j)
 {
@@ -547,7 +547,7 @@ H2hj8ZQ = (int)ceil(sw6ABj4);
 }
 else
 {
-if (Wds38e != -1250861209)
+if (true)
 {
 Ki1Zd0 *= 1939653887;
 }

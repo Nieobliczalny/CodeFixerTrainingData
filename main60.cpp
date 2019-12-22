@@ -32,7 +32,7 @@ if (ElW6mTb1G & -1466668756)
 {
 YWyTJc = dcsMB7de | 782831981;
 }
-else if ((YWyTJc != VAZ7_z7u) || ((XT_fF7 <= dcsMB7de) && (ElW6mTb1G < -22958635)))
+else if ((YWyTJc != VAZ7_z7u) || ((XT_fF7 <= dcsMB7de) && (false)))
 {
 YWyTJc &= VAZ7_z7u;
 }

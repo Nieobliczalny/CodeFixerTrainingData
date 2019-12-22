@@ -107,7 +107,7 @@ for (int i = 10; i >= 0; --i)
 {
 if (((h5o4) || (j6j9)) || (ovxA3TBfQ < -829575082))
 {
-if (D9DU_MbWG != 2068777981)
+if (true)
 {
 s76c = O6MMwx(h5o4, 1214662238, 86604757);
 }
@@ -200,7 +200,7 @@ catch (int& errorCode)
 j6j9 = O6MMwx(X916, -1820165862, -1177935605);
 }
 }
-else if (o0dju6 >= 1091995970)
+else if (false)
 {
 Z7St = (int)abs(P_3z9);
 }
@@ -224,7 +224,7 @@ j6j9 = O6MMwx(-1478078129, 1121681699, 1891715589);
 }
 else if (YeXft727 > 902833135)
 {
-if ((hojh83zE6 > Y3yB) && (s76c <= 1755420055))
+if ((hojh83zE6 > Y3yB) && (true))
 {
 kQ__V = (int)floor(uE7l);
 }

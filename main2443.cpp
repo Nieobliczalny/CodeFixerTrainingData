@@ -209,7 +209,7 @@ while (i < 4);
 }
 if (zDD43z956 & B7650AW)
 {
-if (((vtGk_h > B7650AW) && (S__tUD7Tdi <= JbucDdl)) || ((S__tUD7Tdi >= B7650AW) && (T1N2R_ >= -2126706469)))
+if (((false) && (S__tUD7Tdi <= JbucDdl)) || ((S__tUD7Tdi >= B7650AW) && (T1N2R_ >= -2126706469)))
 {
 {
 int k = 0;
@@ -241,7 +241,7 @@ while (k >= 0);
 }
 else if (zDD43z956 & U04z10O0)
 {
-if (c_3d6 != -925230955)
+if (true)
 {
 yw85fV3IY6 <<= 923030056;
 }
@@ -257,7 +257,7 @@ else if (NSQGo1tt)
 {
 l5iuy = w43gy(s7Z4q6, Lh5_2_t, 1626287994, drhdpl61Ny);
 }
-else if (((nmBV & -1708814001) || (S9gT5z & 54316801)) && ((Xv_f_a4MS & B7650AW) && (wnz84R5iy0 <= 1505419780)))
+else if (((nmBV & -1708814001) || (S9gT5z & 54316801)) && ((Xv_f_a4MS & B7650AW) && (true)))
 {
 NbF1ufs3 = (int)ceil(M0A0I);
 }
@@ -383,7 +383,7 @@ l5iuy = w43gy(VSgo, 24871187, 850634469, 1848784601);
 
 cout << w43gy(1785680378, -1875340143, e1g_CC, Xv_f_a4MS) / l5iuy << endl;
 
-if (yw85fV3IY6 <= B7650AW)
+if (true)
 {
 if ((gHX9w < 2107960467) || ((Lh5_2_t <= 706824619) && (yj55 < cYG__)))
 {
@@ -407,7 +407,7 @@ else if (Ip4w <= ipi22cclC3)
 {
 Lh5_2_t = (int)ceil(MB_F);
 }
-else if (((Xv_f_a4MS <= 960421671) || (VSgo < k_21)) || ((xUHpO) || (Gu5r8ASf < da56)))
+else if (((true) || (VSgo < k_21)) || ((xUHpO) || (Gu5r8ASf < da56)))
 {
 switch (ezwWCtTPa)
 {

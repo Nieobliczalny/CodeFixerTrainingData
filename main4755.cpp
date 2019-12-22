@@ -35,7 +35,7 @@ int i = 2;
 do
 {
 --i;
-if (fuY9i7FY < HIEu)
+if (false)
 {
 M7Gx = (unsigned char)(HIEu);
 }
@@ -51,7 +51,7 @@ while (i >= 0);
 int i = 1;
 while (i >= 0)
 {
-if ((UgoCv3 > -601102000) || ((qHGC4 > Yaf4c9b) || (IM5002 < Yaf4c9b)))
+if ((true) || ((qHGC4 > Yaf4c9b) || (IM5002 < Yaf4c9b)))
 {
 m2_OGBg = (unsigned char)(Yaf4c9b + (310262123));
 }
@@ -89,7 +89,7 @@ if (Gz6H5)
 {
 yh_u = (hH58713IYA >= Yaf4c9b) ? 2030702873 : BsyVEJaNaG(gZ7796l, -1807959944, -962012044, 608755626, 2039177454);
 }
-else if (MdS3Vww0 >= HIEu)
+else if (true)
 {
 Ml7xwk7Pm3--;
 }
@@ -101,7 +101,7 @@ else if (H6kiMw3Ts >= -58975822)
 {
 r9GB = GkfY(2070788599, VNIv75U, Gz6H5);
 }
-else if (D0HpV == -1083400265)
+else if (false)
 {
 Gz6H5 = tp149LBRt - 1269791298;
 }

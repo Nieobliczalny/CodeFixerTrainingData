@@ -229,7 +229,7 @@ int main() {
     long double    up_54JMKV;
     up_54JMKV    =    -968298626;
 
-if (iZ2y <= HZ22K5_yU)
+if (true)
 {
 hCLJaZFya = l_26it();
 }
@@ -307,7 +307,7 @@ while (k >= 0);
 }
 }
 
-if ((B3RvJLk < R4zAGT38j) && ((qb69sV3_) && (R4zAGT38j < -1942209244)))
+if ((B3RvJLk < R4zAGT38j) && ((qb69sV3_) && (false)))
 {
 std::cout << "aSi3" << "VtMI4f5biO" << pL04K4OO(Sz6C3ON, bzFZXk_Wvh, cscwsP0) << std::endl;
 }

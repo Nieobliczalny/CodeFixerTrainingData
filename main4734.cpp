@@ -277,7 +277,7 @@ CZ59P910 -= 273335356;
 }
 }
 std::cout << eJmz8M / XuYT4kga() << std::endl;
-if ((ftcT > 820297385) && ((Tf2cJveQ == -218664702) || (nBls <= 773709828)))
+if ((false) && ((Tf2cJveQ == -218664702) || (nBls <= 773709828)))
 {
 std::cout << XuYT4kga() << BRFuSpUK_R << "Q0rk16Fg" << sQ0T << std::endl;
 }
@@ -430,7 +430,7 @@ try
 {
 for (int j = 0; j < 1; j++)
 {
-if (((DP9m6_vwy < 1354235272) || (w86_u)) || (ftcT <= 904839749))
+if (((true) || (w86_u)) || (ftcT <= 904839749))
 {
 UG1T4 = (int)ceil(G4Nmk9A46q);
 }

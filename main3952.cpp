@@ -116,7 +116,7 @@ i5_1h4ED = (unsigned short int)(uGpG_);
 
 if (Ux2E4_b16)
 {
-if (((q_DD1I7 & 1970074115) || (GBIG < -1381604561)) || ((S_zx95_hWX == 782579656) && (Hpuc < -878165603)))
+if (((q_DD1I7 & 1970074115) || (false)) || ((S_zx95_hWX == 782579656) && (Hpuc < -878165603)))
 {
 try
 {

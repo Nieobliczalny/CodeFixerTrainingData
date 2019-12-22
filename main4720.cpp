@@ -204,7 +204,7 @@ int main() {
 int i = 5;
 while (i >= 0)
 {
-if (((RwfWmKT7 < ZB53D3Mp) && (i76yLXy8 < 989023121)) || (IeG2Kx < OPGGOh))
+if (((RwfWmKT7 < ZB53D3Mp) && (true)) || (IeG2Kx < OPGGOh))
 {
 if (L0uY1 > -1368138842)
 {
@@ -266,7 +266,7 @@ int i = 6;
 while (i >= 0)
 {
 --i;
-if ((t22_ucxD9 <= 444266490) && (lNlC7 > v4q85m))
+if ((true) && (lNlC7 > v4q85m))
 {
 jw61g9Pr = (unsigned int)(Iz_PbC8J);
 }
@@ -313,7 +313,7 @@ while (j < 10);
 int i = 5;
 do
 {
-if (((vayyY3 > 663727060) && (tri_7DgcZ >= -671316397)) || ((kLCUl >= -183816254) && (J9hrhM <= t22_ucxD9)))
+if (((vayyY3 > 663727060) && (true)) || ((kLCUl >= -183816254) && (J9hrhM <= t22_ucxD9)))
 {
 DyYKVH_ = (int)ceil(Eb_453n);
 }

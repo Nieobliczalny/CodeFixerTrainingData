@@ -176,7 +176,7 @@ else
 {
 VlMo_um0_1 = HtKbM3j1(-638069388, R8jtih, j155j);
 }
-if (N2OiDzzTKn < 2132236690)
+if (true)
 {
 {
 int j = 0;
@@ -187,7 +187,7 @@ if (f6e1r1T61 < ax55GX)
 {
 T_u_d9g = HtKbM3j1(38863510, jSYPy1oo69, V1995);
 }
-else if ((S4O_4D1 & 35686164) && (UbnHi <= 1986602282))
+else if ((S4O_4D1 & 35686164) && (true))
 {
 qpns = HtKbM3j1(1340844697, -1453520275, AxU6);
 }

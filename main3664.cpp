@@ -60,7 +60,7 @@ QlVf1gS = It76idpiE / 1085214940;
 }
 else
 {
-if (((QlVf1gS <= TkM1PS) || (txxMZ <= 1715072307)) || (iMUvi >= i3uPaGt))
+if (((QlVf1gS <= TkM1PS) || (txxMZ <= 1715072307)) || (true))
 {
 QlVf1gS--;
 }
@@ -137,7 +137,7 @@ catch (int& errorCode)
 QlVf1gS = iMUvi >> 1150674537;
 }
 }
-else if (((LXoPKz9Qr <= txxMZ) && (sEP2j <= TkM1PS)) || ((iMUvi == LXoPKz9Qr) && (iMUvi <= 508954958)))
+else if (((LXoPKz9Qr <= txxMZ) && (sEP2j <= TkM1PS)) || ((iMUvi == LXoPKz9Qr) && (true)))
 {
 QlVf1gS *= 819770210;
 }

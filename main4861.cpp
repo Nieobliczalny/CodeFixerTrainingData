@@ -115,7 +115,7 @@ dFLp0cB -= Qp6KTwE;
 while (i < 9);
 }
 
-if (kFRD7L == 1430620757)
+if (false)
 {
 try
 {
@@ -156,7 +156,7 @@ GPCs7 = GPCs7 % 1295180138;
 int i = 0;
 do
 {
-if (FI76uQ_v != -1987038053)
+if (true)
 {
 cout << k3bh45w1z << KXG_nZ(1792161007, FU93_d1) << "COIH07" << OR8453u0(pcSs, -576473780) << OR8453u0(214998090, FU93_d1) << endl;
 }
@@ -175,7 +175,7 @@ catch (int& errorCode)
 vY_U1j = KXG_nZ(-1164161669, v35i);
 }
 }
-else if ((NSz4 >= -577375515) || (BwqI2Wj >= p9FT7v))
+else if ((true) || (BwqI2Wj >= p9FT7v))
 {
 cout << ICm5HE << "C7Q4M2" << endl;
 }
@@ -185,7 +185,7 @@ Hx7s4 = OR8453u0(Hx7s4, NSz4);
 }
 else if ((GPCs7 != r7203C23F) && (vY_U1j > 5845124))
 {
-if (VQdJ4ie <= 1158154066)
+if (true)
 {
 YX3LR = KXG_nZ(685138987, -240247922);
 }
@@ -212,7 +212,7 @@ while (i < 10);
 
 for (int i = 10; i >= 0; --i)
 {
-if ((l6_7CD & FH31JT9LIb) && ((Es02a9W6 < nrmw) || (W9nWFV02 == 1946474164)))
+if ((l6_7CD & FH31JT9LIb) && ((Es02a9W6 < nrmw) || (false)))
 {
 cout << "eiN_" << KXG_nZ(YX3LR, -1938184646) << OR8453u0(YX3LR, 32747055) << endl;
 }
@@ -275,7 +275,7 @@ catch (int& errorCode)
 pcSs = (oZ11g > -1033925952) ? F8X2B3h1j : OR8453u0(-1677429230, 1839174841);
 }
 }
-if ((oZ11g > 1062045554) || (L78lKY != 1303691495))
+if ((false) || (L78lKY != 1303691495))
 {
 if ((BwqI2Wj == -561162083) && (BwqI2Wj & -1475057512))
 {
@@ -293,7 +293,7 @@ k3bh45w1z = (unsigned short int)(j1svQ9S2e);
 cout << "J_3bSm" << OR8453u0(209265871, 719590374) << KXG_nZ(L78lKY, p9FT7v) << b0RJh << endl;
 
 CEAtbj895 = OR8453u0(CEAtbj895, mzRuai);
-if (xGCMA <= -1399337320)
+if (false)
 {
 {
 int j = 8;
@@ -322,7 +322,7 @@ else
 gS7mwaLc1 = (unsigned short int)(umER);
 }
 F8rk7s2H = OR8453u0(CEAtbj895, 1077790700) / Wn_VU_dRJf;
-if ((UkD5h < -1607189378) && (YX3LR > -352464861))
+if ((false) && (YX3LR > -352464861))
 {
 try
 {
@@ -336,7 +336,7 @@ catch (int& errorCode)
 eTCYmUYcb >>= 289990586;
 }
 }
-else if (kFRD7L != 659579253)
+else if (true)
 {
 cout << KXG_nZ(AQ23, mzRuai) << kFRD7L << OR8453u0(AQ23, mzRuai) << "ED0Fe" << endl;
 }
@@ -346,7 +346,7 @@ cl64P |= X07Ss;
 }
 else
 {
-if ((k3bh45w1z > -931615425) || (O7h6I > -65466055))
+if ((true) || (O7h6I > -65466055))
 {
 try
 {
@@ -371,7 +371,7 @@ while (i >= 0);
 }
 if (J81ON4HpeS >= L78lKY)
 {
-if (v35i <= 446326244)
+if (true)
 {
 if (MMKo9 > 1894939572)
 {

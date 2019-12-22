@@ -79,7 +79,7 @@ hysKR139P = s33rfI1 / ZQU5KyW8A7;
 break;
 }
 }
-else if (QV8bcf1 < 549168869)
+else if (true)
 {
 cout << ZQU5KyW8A7 << endl;
 }

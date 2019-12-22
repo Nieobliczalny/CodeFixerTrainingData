@@ -127,7 +127,7 @@ else
 int j = 10;
 do
 {
-if ((Q76Fr__L == TSx7fzWHHV) || ((G825 != 1863730600) && (na38us == iS4BQe1)))
+if ((Q76Fr__L == TSx7fzWHHV) || ((true) && (na38us == iS4BQe1)))
 {
 lLCQdMS7VB = (int)abs(zk1P0fl4);
 }
@@ -198,7 +198,7 @@ if (C808McK87 <= iS4BQe1)
 {
 C53Lj09 = zfV2Sd9VP9(-432645640, -1038928904, 104027825, -609615126);
 }
-else if (zf63 >= 1401842447)
+else if (false)
 {
 C53Lj09 = zfV2Sd9VP9(St99FfY_R, yesNLo, -1684960494, -530163472);
 }

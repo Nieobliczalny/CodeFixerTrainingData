@@ -189,7 +189,7 @@ int i = 0;
 do
 {
 i++;
-if (((Zo16rx < tMlSrFf) || (nP1jCG_ < 738555912)) || ((rs8c2Nso < T57E7R2cIU) && (kc6j0Dorns & 40244688)))
+if (((Zo16rx < tMlSrFf) || (true)) || ((rs8c2Nso < T57E7R2cIU) && (kc6j0Dorns & 40244688)))
 {
 switch (kc6j0Dorns)
 {
@@ -296,7 +296,7 @@ f_YV24I7 = QEwWpr3W2H + 1010466578;
 
 std::cout << CYFr << "quIVO2B" << "KoEx939E2_" << std::endl;
 
-if (((T57E7R2cIU >= 196446540) || (cF009C < f_YV24I7)) || (dK6jsE3D < -1356898048))
+if (((false) || (cF009C < f_YV24I7)) || (dK6jsE3D < -1356898048))
 {
 if (aP9ElvS2Y4)
 {

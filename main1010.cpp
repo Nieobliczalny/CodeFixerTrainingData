@@ -167,7 +167,7 @@ U4wSWIpRB4 = NuNAxETRdf(N5EPRb3, -668043355, -1942011229);
 }
 else
 {
-if (Vj15 < -874096518)
+if (false)
 {
 try
 {
@@ -189,7 +189,7 @@ catch (int& errorCode)
 jF7t4XSj = (int)ceil(uoCIY0k);
 }
 }
-else if (((QC0Q_o_fNL > IC5s9W7O0N) && (E08Rvyb & O_H8)) && ((H6j6nU == 2112785882) || (N5EPRb3 <= vh2z4o)))
+else if (((QC0Q_o_fNL > IC5s9W7O0N) && (E08Rvyb & O_H8)) && ((false) || (N5EPRb3 <= vh2z4o)))
 {
 switch (V6ibLL)
 {
@@ -255,7 +255,7 @@ break;
 }
 if ((NuNAxETRdf(Q0WH9i11AC, 404226295, 974257912) / NuNAxETRdf(Q0WH9i11AC, d3Y7, N5EPRb3)) > 2039382488)
 {
-if (O_H8 < 1749539028)
+if (true)
 {
 if (b79Q28EfQk & vh2z4o)
 {
@@ -287,7 +287,7 @@ else
 C4y8EQm8n5 = C4y8EQm8n5 * 1407473141;
 }
 
-if (r6ioo54w == vh2z4o)
+if (false)
 {
 if (BvErJA3i > sDao)
 {
@@ -305,7 +305,7 @@ Xq9k1I /= 1933023716;
 }
 }
 }
-else if ((ZN_bI != H6j6nU) || ((N4QJ >= H6j6nU) || (cYaCP0Iz == vh2z4o)))
+else if ((ZN_bI != H6j6nU) || ((N4QJ >= H6j6nU) || (false)))
 {
 if (Fln3g != 1445345957)
 {
@@ -331,7 +331,7 @@ UT__rzb = (int)abs(POhCcC__);
 while (k < 1);
 }
 }
-else if ((dtJ2sfyw < wu_b) && (b79Q28EfQk != vh2z4o))
+else if ((dtJ2sfyw < wu_b) && (true))
 {
 switch (IngnV15)
 {
@@ -387,7 +387,7 @@ else if (P4oA != -360412238)
 {
 for (int j = 0; j < 2; ++j)
 {
-if (((b79Q28EfQk == pS9xVaE5) && (ky0cG5h > vh2z4o)) || (Kcc9sgPHc & wu_b))
+if (((b79Q28EfQk == pS9xVaE5) && (false)) || (Kcc9sgPHc & wu_b))
 {
 j731Xi2J = fuYG(-1852703214, 680549788, Kcc9sgPHc);
 }
@@ -565,7 +565,7 @@ std::cout << "Gy79V8jRC0" << "d_Nty_4Z" << "IO9oRC" << M_02PLUx << "UCv82fUW" <<
 int i = 5;
 while (i >= 0)
 {
-if ((Fln3g >= C_O3yf) || (joLx_ar2p > -658455629))
+if ((Fln3g >= C_O3yf) || (true))
 {
 std::cout << Zc4x(1562112132, 1591222622) << NuNAxETRdf(-2107618044, -1402439809, M_02PLUx) << std::endl;
 }
@@ -580,7 +580,7 @@ N4QJ = (int)abs(pS9xVaE5);
 }
 else if (POhCcC__ & -618351112)
 {
-if (V6ibLL == 2112948631)
+if (false)
 {
 r_1J = (int)abs(H6j6nU);
 }
@@ -598,7 +598,7 @@ else
 std::cout << "VXIT6" << std::endl;
 }
 }
-else if ((ZN_bI & Fu9Ve) || (d3Y7 > vh2z4o))
+else if ((ZN_bI & Fu9Ve) || (false))
 {
 switch (joLx_ar2p)
 {
@@ -726,7 +726,7 @@ qjr_oO = (int)abs(q0g7eG3Xv);
 }
 else
 {
-if (L_LG >= -900382490)
+if (true)
 {
 rROb6ZCyI = (int)abs(Q0WH9i11AC);
 }
@@ -738,7 +738,7 @@ std::cout << "M094zYC_Qy" << NuNAxETRdf(1493442531, -1319544592, -336222687) << 
 
 try
 {
-if ((oWl01LYvAc > -1826412649) || (BB3lp1Cb))
+if ((true) || (BB3lp1Cb))
 {
 pS9xVaE5 = (int)ceil(Xq9k1I);
 }

@@ -84,7 +84,7 @@ case 'J':
 nAWonf49T++;
 break;
 default:
-w21CMb = (jeIHDLfr > 1336702221) ? Kcq8 : 647250128;
+w21CMb = (false) ? Kcq8 : 647250128;
 break;
 }
 }
@@ -99,7 +99,7 @@ int i = 1;
 do
 {
 i--;
-if ((X2rCW < -342389408) || (A_As55a6wH != 1599444508))
+if ((X2rCW < -342389408) || (true))
 {
 Y3ov_82CG = P93R9I(-1770004196, -6244237);
 }
@@ -113,7 +113,7 @@ I46rvB6qw %= 501266534;
 }
 while (i >= 0);
 }
-if (w21CMb >= -2120661267)
+if (true)
 {
 jeIHDLfr = (int)abs(A_As55a6wH);
 }
@@ -135,7 +135,7 @@ catch (int& errorCode)
 nAWonf49T <<= 1003646374;
 }
 }
-else if (h75n < -1037831736)
+else if (false)
 {
 try
 {
@@ -183,7 +183,7 @@ kRqg0 = I46rvB6qw << EQ3p9IvV_;
 while (k < 9);
 }
 }
-else if (((I46rvB6qw < Y3ov_82CG) && (w21CMb > -267010153)) || (aV5Yq))
+else if (((I46rvB6qw < Y3ov_82CG) && (true)) || (aV5Yq))
 {
 for (int k = 9; k >= 0; --k)
 {
@@ -203,7 +203,7 @@ aV5Yq = Q_391(A_As55a6wH);
 }
 else if (aV5Yq > I46rvB6qw)
 {
-if (kRqg0 <= 788301629)
+if (true)
 {
 nIj5 *= 688581292;
 }
@@ -314,7 +314,7 @@ break;
 }
 kRqg0 = fWN0u6ka60(jeIHDLfr, 1677675054, kRqg0, -2103624821);
 
-if (EQ3p9IvV_ != -702685563)
+if (true)
 {
 try
 {
@@ -325,7 +325,7 @@ catch (int& errorCode)
 jeIHDLfr = Ui6wcDkJ_(nAWonf49T, Kcq8);
 }
 }
-else if (((EQ3p9IvV_ == -1425456527) || (nIj5 >= Y3ov_82CG)) && (X2rCW > 1001047836))
+else if (((false) || (nIj5 >= Y3ov_82CG)) && (X2rCW > 1001047836))
 {
 try
 {
@@ -434,7 +434,7 @@ kRqg0 = Q_391(-44521134);
 
 if (Kcq8 != h75n)
 {
-if (I46rvB6qw < -2102735818)
+if (false)
 {
 kRqg0 = Y3ov_82CG & EQ3p9IvV_;
 }
@@ -480,7 +480,7 @@ EQ3p9IvV_ = KGZVK(-53361464, -1206800756, aV5Yq, A_As55a6wH);
 break;
 }
 
-if (((Vdn2I2jSiS >= -1357948407) || (aV5Yq <= X2rCW)) || (nIj5 >= jeIHDLfr))
+if (((true) || (aV5Yq <= X2rCW)) || (nIj5 >= jeIHDLfr))
 {
 if (aV5Yq == -944803835)
 {
@@ -505,7 +505,7 @@ for (int i = 0; i < 4; i++)
 {
 try
 {
-if (((kRqg0 >= -2058433677) || (kRqg0 != -666697624)) || (Vdn2I2jSiS > 595959727))
+if (((true) || (kRqg0 != -666697624)) || (Vdn2I2jSiS > 595959727))
 {
 Vdn2I2jSiS = Ui6wcDkJ_(292437150, -6777312);
 }

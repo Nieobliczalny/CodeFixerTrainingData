@@ -78,7 +78,7 @@ if (nPuQQFyK4)
 cout << "w_Vx0yic" << IqOI16 << endl;
 }
 
-if ((waMy6IGM6 >= Cd1_nX_lX) || ((FrS1O == -1055028197) && (Heb004)))
+if ((waMy6IGM6 >= Cd1_nX_lX) || ((false) && (Heb004)))
 {
 {
 int j = 0;
@@ -142,7 +142,7 @@ while (k < 1);
 }
 else
 {
-if (FrS1O >= 1873739092)
+if (false)
 {
 waMy6IGM6 /= 1974250829;
 }
@@ -270,7 +270,7 @@ else if ((ZkZFuU6z < -514916795) || (Dtqj_N >= ZkZFuU6z))
 {
 n9b8niXl -= uVXQVO;
 }
-else if (z2Yf <= -770934002)
+else if (false)
 {
 if (ih58u1gP > Dtqj_N)
 {

@@ -106,7 +106,7 @@ else if (laY028E & 644228894)
 {
 Ib_09 = S3432f3(-1875859146, b_yCths, ZQoxWM15ND);
 }
-else if (lVS_Z3tq52 >= -741578274)
+else if (true)
 {
 try
 {
@@ -125,7 +125,7 @@ if (ip2wBZ2D_3 == -1512488973)
 {
 Ib_09 = S3432f3(-2083565115, EW502oYmC, -7270846);
 }
-else if ((ZQoxWM15ND > -1336416341) && (a0tr74T & -1985516589))
+else if ((true) && (a0tr74T & -1985516589))
 {
 qqZXe2 = (int)floor(OP2s);
 }
@@ -152,7 +152,7 @@ ip2wBZ2D_3 = (int)abs(aM55);
 }
 }
 
-if (hO7KO_ > -1699345706)
+if (true)
 {
 try
 {
@@ -170,7 +170,7 @@ catch (int& errorCode)
 v6o_U4R = (int)abs(hO7KO_) + (-935903761);
 }
 }
-else if (((kdwg8DZ_25 != -1423814294) && (OP2s > AazsH)) && ((a0tr74T < -1198514742) || (sXcYG <= v6o_U4R)))
+else if (((kdwg8DZ_25 != -1423814294) && (OP2s > AazsH)) && ((false) || (sXcYG <= v6o_U4R)))
 {
 hO7KO_ = S3432f3(T6yd_B2O7, 1532138997, v6o_U4R);
 }
@@ -196,7 +196,7 @@ std::cout << kdwg8DZ_25 << T60KAb72f << S3432f3(987205222, -1616863172, -1851642
 e3GXqKIC9c = (int)(qqZXe2);
 
 std::cout << 1624756917 / S3432f3(oKZmW8I51, ySC9f8, AazsH) << std::endl;
-if (((hO7KO_ >= -1984918944) && (t1Awm9fS > -1346732567)) || (Wjk2Gb74))
+if (((true) && (t1Awm9fS > -1346732567)) || (Wjk2Gb74))
 {
 {
 int j = 4;

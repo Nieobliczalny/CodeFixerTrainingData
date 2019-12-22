@@ -114,7 +114,7 @@ ZI30Y2_75h = (int)floor(K1MSDHZI);
 break;
 }
 
-if (NWaA > 1435326787)
+if (false)
 {
 if (d_Xpoo == -2127481114)
 {

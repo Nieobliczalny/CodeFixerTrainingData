@@ -187,7 +187,7 @@ catch (int& errorCode)
 {
 qu9J8 -= FohD387M0;
 }
-if (O383X > K5Hkv)
+if (true)
 {
 SDCV8 = (int)abs(qu9J8);
 }
@@ -202,7 +202,7 @@ std::cout << fNM2xa8i(710030114, -1904635332, -1166896744, v13i) << "J1XQ8sTH3" 
 std::cout << SDCV8 << i870k6C43g(SDCV8, -791046597, kFUNs5M, -11244763) << "ZDBiZ8i" << "lvC_wbT" << "aO_1r" << std::endl;
 for (int i = 0; i < 8; ++i)
 {
-if ((FohD387M0) && ((O383X & j19a2) || (O383X > 2074350384)))
+if ((FohD387M0) && ((O383X & j19a2) || (false)))
 {
 if (O383X >= -2050871213)
 {
@@ -246,7 +246,7 @@ else
 qu9J8 = fNM2xa8i(v13i, qu9J8, p935J0, C6bsTQx3) % 832127156;
 }
 }
-else if (O383X > -802501360)
+else if (true)
 {
 std::cout << C6bsTQx3 << i870k6C43g(-1506869523, 1109140514, p935J0, -1062609952) << std::endl;
 }
@@ -440,7 +440,7 @@ SDCV8 = (int)(kFUNs5M);
 }
 else
 {
-if ((FohD387M0 != v13i) || (FohD387M0 <= 1286402410))
+if ((FohD387M0 != v13i) || (true))
 {
 std::cout << i870k6C43g(v13i, -586217069, -617715256, kFUNs5M) << std::endl;
 }

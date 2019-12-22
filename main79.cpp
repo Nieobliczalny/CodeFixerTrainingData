@@ -85,7 +85,7 @@ std::cout << w3AtW6fA << k5Y65v(W5q7pnJ6Y, TOIsIj2h, nO1N75) << "r4Y235v1U" << N
 while (i < 6);
 }
 std::cout << ekLWv3ZP4 << "mGRR_jYq" << std::endl;
-if (jv59v_ <= 201781029)
+if (true)
 {
 {
 int j = 9;
@@ -117,7 +117,7 @@ catch (int& errorCode)
 o51l7QnF0 += UW53E;
 }
 }
-else if (o51l7QnF0 == -1182165127)
+else if (false)
 {
 std::cout << "t_8tQgEA" << std::endl;
 }

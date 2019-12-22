@@ -233,7 +233,7 @@ nS82FL4NJ = KPP6fDMF3F(KE83p8Q5);
 
 for (int i = 0; i < 4; i++)
 {
-if ((fiBKO <= Pd3aQ) || ((hCf16H201k <= -1890422012) && (YZU8BAoq >= -2022161141)))
+if ((fiBKO <= Pd3aQ) || ((false) && (YZU8BAoq >= -2022161141)))
 {
 try
 {
@@ -311,7 +311,7 @@ break;
 }
 try
 {
-if (YZU8BAoq > -402553197)
+if (true)
 {
 FiNO8 = (int)ceil(Mb5Z_m_57);
 }

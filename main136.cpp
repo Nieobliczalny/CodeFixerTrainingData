@@ -46,7 +46,7 @@ Zb_j7C /= 945776082;
 cout << WU7tMcIUJ4 / F_Zh9 << endl;
 
 KD_IC92jv = (double)(Q7hB4 + (1632620340));
-if (((KD_IC92jv <= oNAv8__C) && (mniX3 <= -1462973032)) || ((r7Zh > Q7hB4) || (F_Zh9 < 1890052930)))
+if (((KD_IC92jv <= oNAv8__C) && (false)) || ((r7Zh > Q7hB4) || (F_Zh9 < 1890052930)))
 {
 {
 int j = 7;
@@ -61,7 +61,7 @@ oNAv8__C = (int)abs(KD_IC92jv);
 while (j >= 0);
 }
 }
-else if (r7Zh >= 1325831813)
+else if (false)
 {
 for (int j = 6; j >= 0; --j)
 {
@@ -71,7 +71,7 @@ Zb_j7C = (int)floor(KD_IC92jv);
 }
 }
 }
-else if (Xri058 > 1125289599)
+else if (false)
 {
 f_00el8_ = kjb4nb(1022102097, 326980145, Xri058, PM0d89w3Zt, -442719721);
 }

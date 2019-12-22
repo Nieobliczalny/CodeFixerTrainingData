@@ -29,7 +29,7 @@ YqT8B051q_ = BDg925Lw3 ^ Iod1a;
 }
 else
 {
-if ((XLoln >= JhaQ) || (ew1398hK >= -946859894))
+if ((XLoln >= JhaQ) || (true))
 {
 BDg925Lw3 = K_TeZ4 - 1169647942;
 }
@@ -53,7 +53,7 @@ Vd2T17ChA >>= 943759164;
 
 MIi3PjizP_ = Jfy0 << 717185558;
 
-if (wuq1 < 714427796)
+if (true)
 {
 if (((td9xoQB) && (Qp1qe_b <= -927788596)) || (Qp1qe_b & 1022415389))
 {
@@ -64,7 +64,7 @@ else if (Iod1a)
 {
 YqT8B051q_ = (unsigned short)(eJun3M1lp);
 }
-else if (t9m_C <= -1047692304)
+else if (false)
 {
 Iod1a = (unsigned short)(hb0Qc);
 }
@@ -88,7 +88,7 @@ while (k >= 0);
 while (j < 5);
 }
 }
-else if ((BanD < -168317341) && (Uc1fxYN2T != AZ9X4l5uHK))
+else if ((false) && (Uc1fxYN2T != AZ9X4l5uHK))
 {
 {
 int j = 0;
@@ -113,7 +113,7 @@ JhaQ |= 250521391;
 }
 else
 {
-if (KK77N > -255975106)
+if (true)
 {
 if (YqT8B051q_ == JhaQ)
 {
@@ -139,7 +139,7 @@ for (int k = 5; k >= 0; --k)
 Q7JUpMwRs--;
 }
 }
-else if (Jfy0 != 1587283626)
+else if (true)
 {
 AZ9X4l5uHK = (unsigned short)(P2Dv4R6V);
 }
@@ -154,7 +154,7 @@ a_a_ = MIi3PjizP_ & 825972102;
 }
 }
 }
-else if (P2Dv4R6V > 1732158500)
+else if (false)
 {
 p1V988 *= 1276763692;
 }
@@ -182,7 +182,7 @@ else if (mm1FGg)
 {
 std::cout << Vd2T17ChA << "heCkkYlnB9" << fP8c3a22IL << a_a_ << std::endl;
 }
-else if (XLoln <= 1553301935)
+else if (true)
 {
 {
 int k = 1;
@@ -196,7 +196,7 @@ while (k >= 0);
 }
 else if (fr_k != JhaQ)
 {
-if (LCttKmxrAp < -673963279)
+if (false)
 {
 JhaQ = t9m_C + wuq1;
 }
@@ -287,7 +287,7 @@ while (i < 5)
 GvIgY <<= P2Dv4R6V;
 }
 }
-if ((e2Q9yxV == 111887207) && (E3vL2n46 == P2Dv4R6V))
+if ((false) && (E3vL2n46 == P2Dv4R6V))
 {
 XLoln = (unsigned short)(P2Dv4R6V);
 }
@@ -312,7 +312,7 @@ if (ODR4lj)
 BanD = Qp1qe_b << 2014601008;
 }
 
-if (((x2Uxevq4h0 == OYw7I7) && (KK77N != 1448455137)) && (btRqz != -535442957))
+if (((x2Uxevq4h0 == OYw7I7) && (true)) && (btRqz != -535442957))
 {
 MIi3PjizP_ = (unsigned short)(YqT8B051q_);
 }
@@ -359,7 +359,7 @@ Q7JUpMwRs++;
 break;
 }
 }
-if (((BanD == 1254465656) && (BDg925Lw3)) && (eJun3M1lp))
+if (((false) && (BDg925Lw3)) && (eJun3M1lp))
 {
 E3vL2n46 = MIi3PjizP_ << OYw7I7;
 }

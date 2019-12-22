@@ -74,7 +74,7 @@ ErApfS = (int)abs(lco94_);
 }
 else if (D9gDa >= 530143916)
 {
-if ((kkU9_ >= D9gDa) || ((G_1d_4B != -1505156096) && (o5jmCphfI >= 354045011)))
+if ((kkU9_ >= D9gDa) || ((G_1d_4B != -1505156096) && (false)))
 {
 {
 int k = 0;
@@ -130,7 +130,7 @@ fGOZ = (int)abs(D9gDa);
 }
 
 DC1y = (float)(HXYnk1);
-if (E7IHXC8C != -101814700)
+if (true)
 {
 {
 int j = 0;

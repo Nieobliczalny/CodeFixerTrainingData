@@ -79,7 +79,7 @@ if (dEW22 & 276667117)
 {
 iojs = (unsigned short)(iqBroKc);
 }
-else if (((kL7P76nc9 <= -495506693) && (dEW22 > 1991039838)) && (U_kk512t21 < WeY4Gbs))
+else if (((kL7P76nc9 <= -495506693) && (false)) && (U_kk512t21 < WeY4Gbs))
 {
 F9Feu43My = (unsigned char)(pk05 + (oN0B5));
 }

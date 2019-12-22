@@ -32,7 +32,7 @@ int main(int argc, char** argv)
 
 rL7L_so += rL7L_so;
 
-if (CImekh7v < 1081397662)
+if (true)
 {
 {
 int j = 0;
@@ -62,7 +62,7 @@ c5Zw5t = T7h9IQ9n << Lug_pH;
 while (j < 2);
 }
 }
-else if (opMD4Fix_8 <= 1281721324)
+else if (true)
 {
 switch (lg7I)
 {
@@ -86,7 +86,7 @@ NH_ohJ -= zIeV_A2Y;
 break;
 }
 }
-else if (c5Zw5t >= -907937806)
+else if (true)
 {
 std::cout << "gejR7Z0W" << std::endl;
 }
@@ -103,7 +103,7 @@ r7I_8 = Lug_pH - 399660980;
 }
 }
 }
-else if (Lug_pH < 1085956766)
+else if (true)
 {
 kWhRTm = (long)(mOp73D5NBc * (f5mc8I_));
 }
@@ -113,7 +113,7 @@ std::cout << "hR8ad5sWC" << T7h9IQ9n << "iNc6d0dRN" << "kC0_p_3_" << kWhRTm << s
 }
 else if ((kWhRTm) || (kWhRTm != F6L3ZV))
 {
-if (((zIeV_A2Y >= 707300280) || (zIeV_A2Y != NH_ohJ)) || (rL7L_so == f5mc8I_))
+if (((false) || (zIeV_A2Y != NH_ohJ)) || (rL7L_so == f5mc8I_))
 {
 CImekh7v ^= 217369578;
 }
@@ -160,7 +160,7 @@ i++;
 }
 while (i < 3);
 }
-if ((T7h9IQ9n >= F6L3ZV) || ((opMD4Fix_8 < r7I_8) && (rL7L_so > -750641760)))
+if ((T7h9IQ9n >= F6L3ZV) || ((opMD4Fix_8 < r7I_8) && (true)))
 {
 if (kWhRTm & r7I_8)
 {
@@ -215,7 +215,7 @@ break;
 }
 else if (lg7I != 65539587)
 {
-if (opMD4Fix_8 > 1680028861)
+if (false)
 {
 opMD4Fix_8 >>= 549200713;
 }
@@ -246,7 +246,7 @@ else if (CImekh7v < kWhRTm)
 {
 lg7I = (int)abs(wLQWVSs14);
 }
-else if (((JTMHp2F_k <= -325673810) && (NH_ohJ != mOp73D5NBc)) || (kWhRTm == T7h9IQ9n))
+else if (((false) && (NH_ohJ != mOp73D5NBc)) || (kWhRTm == T7h9IQ9n))
 {
 JTMHp2F_k = lg7I >> r7I_8;
 }
@@ -413,7 +413,7 @@ opMD4Fix_8 += 1152228087;
 while (i < 8);
 }
 
-if ((T7h9IQ9n > JTMHp2F_k) || (opMD4Fix_8 < Py4a4I))
+if ((T7h9IQ9n > JTMHp2F_k) || (true))
 {
 {
 int j = 3;
@@ -573,7 +573,7 @@ while (j >= 0);
 while (i >= 0);
 }
 NH_ohJ = (unsigned short)(rL7L_so);
-if (CImekh7v < 197344954)
+if (true)
 {
 try
 {
@@ -609,7 +609,7 @@ kWhRTm = (int)abs(wLQWVSs14);
 }
 else if (NH_ohJ)
 {
-if (CImekh7v <= -1706130531)
+if (false)
 {
 {
 int k = 3;
@@ -626,7 +626,7 @@ else
 CImekh7v = JTMHp2F_k >> zIeV_A2Y;
 }
 }
-else if (CImekh7v <= 501426056)
+else if (true)
 {
 wLQWVSs14 = (long)(c5Zw5t * (f5mc8I_));
 }
@@ -704,7 +704,7 @@ for (int j = 0; j < 6; ++j)
 std::cout << JTMHp2F_k << kWhRTm << opMD4Fix_8 << "oMDncF_" << std::endl;
 }
 }
-else if (((rL7L_so <= Py4a4I) && (Lug_pH > Py4a4I)) && (T7h9IQ9n >= mOp73D5NBc))
+else if (((true) && (Lug_pH > Py4a4I)) && (T7h9IQ9n >= mOp73D5NBc))
 {
 std::cout << kWhRTm << wLQWVSs14 << c5Zw5t << lg7I << opMD4Fix_8 << std::endl;
 }
@@ -726,7 +726,7 @@ JTMHp2F_k <<= Lug_pH;
 break;
 }
 }
-else if (CImekh7v >= -256166670)
+else if (true)
 {
 {
 int j = 9;
@@ -737,7 +737,7 @@ std::cout << CImekh7v << c5Zw5t << "O073o3e_bo" << std::endl;
 }
 }
 }
-else if (CImekh7v == -630434684)
+else if (false)
 {
 if (lg7I > c5Zw5t)
 {
@@ -781,7 +781,7 @@ CImekh7v = (T7h9IQ9n >= mOp73D5NBc) ? rL7L_so : -1395073281;
 
 for (int i = 0; i < 6; ++i)
 {
-if ((c5Zw5t >= -1353902875) || (Lug_pH < wLQWVSs14))
+if ((true) || (Lug_pH < wLQWVSs14))
 {
 if (kWhRTm < c5Zw5t)
 {
@@ -806,7 +806,7 @@ CImekh7v = Lug_pH & 179672771;
 }
 else
 {
-if (((CImekh7v) || (r7I_8 & -176802079)) && ((kWhRTm & Py4a4I) && (Lug_pH == -952436734)))
+if (((CImekh7v) || (r7I_8 & -176802079)) && ((kWhRTm & Py4a4I) && (false)))
 {
 JTMHp2F_k = kWhRTm / 9808344;
 }

@@ -20,7 +20,7 @@ catch (int& errorCode)
 {
 j5vm = (int)abs(l1yS);
 }
-if ((BTNBC < 1266463368) || ((NV06FE3 >= 208829706) || (j5vm <= -235157435)))
+if ((true) || ((NV06FE3 >= 208829706) || (j5vm <= -235157435)))
 {
 {
 int j = 8;
@@ -70,7 +70,7 @@ break;
 }
 else
 {
-if (((iE8f4xSqTQ > BTNBC) && (yObW6 < 1091841215)) || (mx8U4B1gn))
+if (((iE8f4xSqTQ > BTNBC) && (true)) || (mx8U4B1gn))
 {
 YH2b4d++;
 }
@@ -92,7 +92,7 @@ aAedT38DO <<= mx8U4B1gn;
 
 if (kB2cEX6 < dsM_L9xiM)
 {
-if (LQyP5yV9w != 223096005)
+if (true)
 {
 iE8f4xSqTQ >>= 1909034883;
 }
@@ -103,7 +103,7 @@ BTNBC = (unsigned short int)(iE8f4xSqTQ);
 }
 i01e7 = (char)(BTNBC * i01e7);
 
-if (((dsM_L9xiM >= -1499758332) || (iE8f4xSqTQ > 1146137690)) || (dsM_L9xiM != 733449412))
+if (((true) || (iE8f4xSqTQ > 1146137690)) || (dsM_L9xiM != 733449412))
 {
 YH2b4d--;
 }
@@ -144,7 +144,7 @@ else
 {
 std::cout << "sG0BuCLm5_" << mx8U4B1gn << mx8U4B1gn << BTNBC << std::endl;
 }
-if (j5vm <= -1601454371)
+if (false)
 {
 if (kB2cEX6 != 1703763042)
 {
@@ -174,7 +174,7 @@ NV06FE3 ^= 297288553;
 }
 else if (iE8f4xSqTQ)
 {
-if (iE8f4xSqTQ == 795013731)
+if (false)
 {
 NV06FE3 = j5vm * dsM_L9xiM;
 }
@@ -195,7 +195,7 @@ else
 BTNBC = aAedT38DO | z6gOSjPn5;
 }
 }
-else if (mx8U4B1gn <= -739925853)
+else if (false)
 {
 {
 int k = 1;
@@ -255,7 +255,7 @@ while (i >= 0);
 
 std::cout << i01e7 << std::endl;
 
-if (j5vm != 1429372136)
+if (true)
 {
 try
 {
@@ -312,7 +312,7 @@ if (LQyP5yV9w > yObW6)
 {
 if (NV06FE3 < BTNBC)
 {
-BTNBC = (YH2b4d == -1747727671) ? 2094863102 : 645079541;
+BTNBC = (false) ? 2094863102 : 645079541;
 }
 }
 else
@@ -338,7 +338,7 @@ while (i < 6)
 i++;
 try
 {
-if ((mx8U4B1gn >= iE8f4xSqTQ) && (i01e7 == 300490148))
+if ((mx8U4B1gn >= iE8f4xSqTQ) && (false))
 {
 iE8f4xSqTQ = iE8f4xSqTQ * 1140759951;
 }
@@ -409,7 +409,7 @@ i--;
 std::cout << "Pq2B_1_9_" << aAedT38DO << dsM_L9xiM << BTNBC << mx8U4B1gn << std::endl;
 std::cout << iE8f4xSqTQ << "FH83V" << yObW6 << "IjiY3n5cZ0" << aAedT38DO << std::endl;
 
-if (kB2cEX6 > -1211935098)
+if (true)
 {
 if (yObW6 <= -1472310566)
 {
@@ -438,7 +438,7 @@ kB2cEX6 = (int)abs(j5vm);
 }
 }
 }
-if (i01e7 > 1117077261)
+if (false)
 {
 try
 {

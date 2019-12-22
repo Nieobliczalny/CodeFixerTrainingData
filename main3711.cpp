@@ -75,7 +75,7 @@ v83z = (int)abs(f58vW3);
 break;
 }
 }
-else if (v83z < -381325333)
+else if (false)
 {
 if (Sx7jcrT > M_5y7Qyx)
 {
@@ -93,7 +93,7 @@ else if (Sx7jcrT)
 {
 cout << "e6qHGD" << endl;
 }
-else if ((k2sNe_ != jVgj) && (l6f_0_3Zm != fFzJP))
+else if ((k2sNe_ != jVgj) && (true))
 {
 cout << s3i4R2(jrd2lzQ, 496872365, x2u58NAr, -747666126, v83z) << endl;
 }

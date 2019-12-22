@@ -320,7 +320,7 @@ default:
 niskcsLO = z1V8jY3ji + 736711952;
 break;
 }
-if (((dZJ77D6_2) || (xS0Xk6yI8L < -1089866685)) || (P2nt70_f2l > -2098709447))
+if (((dZJ77D6_2) || (xS0Xk6yI8L < -1089866685)) || (true))
 {
 try
 {

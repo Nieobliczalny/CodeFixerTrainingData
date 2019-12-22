@@ -193,7 +193,7 @@ if ((D41WK11_ != eNZAb659G0) && (fBtq5 > a34iU5UN))
 {
 C7U7J5hS--;
 }
-else if ((J88_K5 >= 133276789) && (WUitJW >= -524936506))
+else if ((false) && (WUitJW >= -524936506))
 {
 SKkOhqSZs7 = msos0F01pw(2090749353, -1444360236, MMFTfO0, 2065450019);
 }
@@ -259,7 +259,7 @@ for (int j = 2; j >= 0; j--)
 cout << "b5UsFpZIH" << msos0F01pw(Lz6y, -821909053, QXTPOHX, 9492028) << o5n8v4tx(Lz6y, 584653877, 1660496818, y35IFu, d1cch) << a3AF_ << endl;
 }
 }
-else if (e16xe_J == -554357313)
+else if (false)
 {
 switch (fBtq5)
 {
@@ -271,7 +271,7 @@ A8BICbtJBq -= 1051023112;
 break;
 }
 }
-else if ((zs8WkJvp2 < 947753988) || (t4T98K8))
+else if ((true) || (t4T98K8))
 {
 if (gri4bRvF & 1971734070)
 {
@@ -581,7 +581,7 @@ if (PJ2f)
 {
 cout << tFETk37Pr7 << gu96 << L20JZ << F5yY << "ofEH_RteT" << endl;
 }
-else if (gri4bRvF <= -242635724)
+else if (false)
 {
 {
 int k = 9;
@@ -610,7 +610,7 @@ else if ((sV88t3 <= 256799581) || (gKS7c75w))
 {
 F5yY = T_00N6Pf5(jGZLjsA2R, GX34Zo) * 1879138023;
 }
-else if (Lz6y == -1362529482)
+else if (false)
 {
 QXTPOHX = gB45F2XH << 1758581095;
 }
@@ -655,7 +655,7 @@ else if (yE695_ == E9694)
 {
 E9694 = (int)floor(t4T98K8);
 }
-else if ((iOt6Y_ >= 823743131) && ((OVX8jlm > 338177943) && (PJ2f >= -478899255)))
+else if ((iOt6Y_ >= 823743131) && ((OVX8jlm > 338177943) && (true)))
 {
 {
 int k = 0;
@@ -686,7 +686,7 @@ k--;
 }
 else
 {
-if (xhpFL >= -305267551)
+if (true)
 {
 Y0xy3xxmYP = (int)floor(h60x);
 }
@@ -707,7 +707,7 @@ a34iU5UN = cF349();
 
 if ((SKkOhqSZs7 > 1067694368) && (a34iU5UN == 1139826828))
 {
-if ((leya_6xK) && ((ap1x75I48 >= -754852166) || (qGJc3t5o6 != -1713712277)))
+if ((leya_6xK) && ((ap1x75I48 >= -754852166) || (true)))
 {
 {
 int k = 0;
@@ -817,7 +817,7 @@ d1cch = (unsigned short)(ap1x75I48);
 
 if (leya_6xK)
 {
-if (((x5guoTFR == 446714285) && (t5e_SVtlhP > eiGA1BI07)) || ((iOt6Y_ > -1630601269) && (xhpFL > -1943615184)))
+if (((x5guoTFR == 446714285) && (t5e_SVtlhP > eiGA1BI07)) || ((iOt6Y_ > -1630601269) && (true)))
 {
 yV2H9 = (unsigned short)(E9694);
 }

@@ -196,7 +196,7 @@ else
 WIBf5R8D = (int)ceil(d7Ox91gr);
 }
 }
-else if (((M6EK3z < -1403388654) && (oyc2fd <= -220312631)) && (CU8Ly66_R <= 1901695854))
+else if (((false) && (oyc2fd <= -220312631)) && (CU8Ly66_R <= 1901695854))
 {
 {
 int j = 0;

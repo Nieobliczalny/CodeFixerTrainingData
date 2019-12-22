@@ -179,7 +179,7 @@ catch (int& errorCode)
 qm1x_LF8M = (int)abs(Fvc4F5);
 }
 
-if (pYRyj > -481029030)
+if (true)
 {
 {
 int j = 0;
@@ -197,7 +197,7 @@ else if (ImSI)
 {
 Yt_Tx = ydMt() % 487064786;
 }
-else if (((pYRyj & -791061775) && (F4Wtx1xR < 734514747)) && ((DEa341zXmM != C0m2xa3ab) || (X4ItQ4 <= 2052874090)))
+else if (((pYRyj & -791061775) && (F4Wtx1xR < 734514747)) && ((DEa341zXmM != C0m2xa3ab) || (true)))
 {
 buxBk1M0tT = (int)ceil(M4Srv64);
 }
@@ -213,7 +213,7 @@ j++;
 }
 }
 }
-else if (QK1l6cT <= 1559500822)
+else if (true)
 {
 std::cout << w4mAZ25(1467254165, XIAJ, qXranMA, 1653335943) << "fgHNT4xs" << "uGY_32" << w4mAZ25(-370965419, 60761649, -1713729956, -213613943) << std::endl;
 }
@@ -314,7 +314,7 @@ case 'h':
 U3nyL = Zh1Yrn(1752092845, -1324121596, aHGatGsn_U, cxC_l, pYRyj) << cxC_l;
 break;
 case 'i':
-sttf5N1kQ = (LC3cA < 141407488) ? pYRyj : n9iEMP_;
+sttf5N1kQ = (true) ? pYRyj : n9iEMP_;
 break;
 default:
 U3nyL = w4mAZ25(1142973489, -1894037567, 1628914764, XIAJ);
@@ -325,7 +325,7 @@ if ((bWaE108_ >= -1814415965) && (Ms7C33 >= Y58RM8y0))
 {
 if (F4Wtx1xR)
 {
-sUJe8QkMB_ = (q26z >= 316152323) ? -521849142 : w4mAZ25(-2098988406, 991438834, -1366647153, XIAJ);
+sUJe8QkMB_ = (false) ? -521849142 : w4mAZ25(-2098988406, 991438834, -1366647153, XIAJ);
 }
 }
 else
@@ -357,7 +357,7 @@ j++;
 while (j < 2);
 }
 }
-else if ((VSlSLDg40 >= -1405412822) && (Y58RM8y0))
+else if ((true) && (Y58RM8y0))
 {
 try
 {

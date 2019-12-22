@@ -63,7 +63,7 @@ QgPjp03j = cUNxs0477O / mp5wfst;
 break;
 }
 }
-if (((wclrE8_tD > m91RB) || (G7ontsUom6 <= -1850491803)) && (c3l5o65 > gPQ4c_9))
+if (((true) || (G7ontsUom6 <= -1850491803)) && (c3l5o65 > gPQ4c_9))
 {
 Yf6hhvz = xANxi * lnHt9O;
 }

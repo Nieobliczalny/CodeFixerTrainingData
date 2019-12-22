@@ -170,7 +170,7 @@ catch (int& errorCode)
 NBf9N_8C = (int)ceil(Xdx05APfyd);
 }
 
-if (tDQqI3Ef07 < -173764091)
+if (false)
 {
 switch (wW4it7)
 {
@@ -348,7 +348,7 @@ int i = 10;
 while (i >= 0)
 {
 i--;
-if (((YE3K > DERByt2Pv1) || (tRoO9J9k != 1361349979)) && (OHkJzW8tD9 == DERByt2Pv1))
+if (((YE3K > DERByt2Pv1) || (true)) && (OHkJzW8tD9 == DERByt2Pv1))
 {
 switch (t_FEqR)
 {

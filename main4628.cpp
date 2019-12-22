@@ -43,7 +43,7 @@ while (i >= 0);
 }
 if (nJVH7k8 > LiZl90t)
 {
-if (((xDzL4 != -759778556) || (B83g64T6T3 >= IydZ9E)) && (Q9D02 >= 1489952322))
+if (((xDzL4 != -759778556) || (B83g64T6T3 >= IydZ9E)) && (false))
 {
 zYi6wZacj--;
 }

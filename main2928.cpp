@@ -158,7 +158,7 @@ if (Vkv0 < -766796678)
 {
 std::cout << "MYBROm" << tdt_r_8g << std::endl;
 }
-else if ((t9O_OH >= K__q0V97T) || ((tdt_r_8g & O9_RusrY_) || (nmkkma <= t9O_OH)))
+else if ((true) || ((tdt_r_8g & O9_RusrY_) || (nmkkma <= t9O_OH)))
 {
 Vkv0 = (long long)(nmkkma);
 }
@@ -196,7 +196,7 @@ do
 --i;
 try
 {
-if ((Vkv0 > t9O_OH) || ((t9O_OH >= -1950379546) && (Vkv0 >= -838864017)))
+if ((Vkv0 > t9O_OH) || ((true) && (Vkv0 >= -838864017)))
 {
 Vkv0 = RM1_7587mE();
 }

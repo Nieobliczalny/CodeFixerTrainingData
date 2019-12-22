@@ -134,7 +134,7 @@ i++;
 int j = 2;
 while (j >= 0)
 {
-if (Cw9j_epz >= -866390744)
+if (true)
 {
 HPd88l = pJyZ3kh3Bm(HPd88l);
 }
@@ -171,7 +171,7 @@ V854C54PBg = X8ZW__(HPd88l, yD0TMd) + 1523333144;
 }
 else if ((bmg6 & -1227112269) && ((vM7tF != 1785011632) && (HPd88l > S4bqnhF)))
 {
-if ((j1edd4FUv_ != d02uB) || (l2mXue0KyZ <= -393945276))
+if ((j1edd4FUv_ != d02uB) || (false))
 {
 awZ3_ = pJyZ3kh3Bm(2044903010);
 }

@@ -94,7 +94,7 @@ zpuG = KH_y90();
 }
 else if (D_X5n9 >= 691346971)
 {
-if ((q_w51DpXCY == 1739204186) || ((xBA1csQ) && (DQ18yR < -444182345)))
+if ((false) || ((xBA1csQ) && (DQ18yR < -444182345)))
 {
 dci3hZU9mw = HputCm(dci3hZU9mw, -803005094, xBA1csQ);
 }
@@ -122,7 +122,7 @@ nUj0yUzc_ = u2ZG_(nUj0yUzc_, -377926019, -879493541, 1566286361);
 }
 }
 }
-else if ((zpuG > -399594089) || ((xBA1csQ != 411530714) && (zpuG & 131098621)))
+else if ((true) || ((xBA1csQ != 411530714) && (zpuG & 131098621)))
 {
 for (int k = 8; k >= 0; k--)
 {
@@ -156,7 +156,7 @@ else
 nUj0yUzc_ = V983 * IvT4H5;
 }
 }
-else if ((P32yF >= 798371475) && (O31Gn_ < -1112568911))
+else if ((false) && (O31Gn_ < -1112568911))
 {
 {
 int k = 0;
@@ -217,7 +217,7 @@ P32yF = (short)(li1uG7pU8n + (-259836886));
 }
 else
 {
-if ((xBA1csQ > 1722177794) && ((IvT4H5 == -718795904) || (DQ18yR > -1950878584)))
+if ((false) && ((IvT4H5 == -718795904) || (DQ18yR > -1950878584)))
 {
 DQ18yR = HputCm(-2029455720, 579545872, -1421126445);
 }
@@ -227,7 +227,7 @@ else
 int k = 0;
 while (k < 6)
 {
-q_w51DpXCY = (qKe_qOh > -1247246589) ? akJ2_2_ : IL947E0A3_;
+q_w51DpXCY = (true) ? akJ2_2_ : IL947E0A3_;
 k++;
 }
 }
@@ -330,7 +330,7 @@ cout << IL947E0A3_ << KH_y90() << endl;
 }
 while (i < 5);
 }
-if (IvT4H5 != -1606466813)
+if (true)
 {
 {
 int j = 9;
@@ -401,7 +401,7 @@ cout << dci3hZU9mw << HputCm(xBA1csQ, dci3hZU9mw, 1402476425) << "B_mj" << endl;
 }
 }
 
-if (PW372cYw <= -153776453)
+if (false)
 {
 if ((O31Gn_ > NXTOa) || (P32yF > 871837102))
 {
@@ -417,7 +417,7 @@ cout << "fz3WTwWb" << PW372cYw << "c92Z69l5" << nUj0yUzc_ << endl;
 }
 else
 {
-if (NXTOa != 1290549995)
+if (true)
 {
 if ((rp_h >= NXTOa) && ((IL947E0A3_) || (NXTOa != O31Gn_)))
 {
@@ -440,7 +440,7 @@ cout << u2ZG_(1072114907, NXTOa, -1287289860, 37726884) << endl;
 dci3hZU9mw = (int)floor(akJ2_2_);
 if (qKe_qOh == D_X5n9)
 {
-if (xBA1csQ == 1875515045)
+if (false)
 {
 if (rp_h)
 {
@@ -465,7 +465,7 @@ while (k < 1);
 }
 else if (zpuG)
 {
-if (PW372cYw <= -862170555)
+if (false)
 {
 rp_h |= DQ18yR;
 }

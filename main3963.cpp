@@ -61,7 +61,7 @@ while (k < 6);
 }
 }
 }
-if (vON2L == -1479048778)
+if (false)
 {
 OwFw = Ib6N547XDt >> z6A7SHd4;
 }
@@ -93,7 +93,7 @@ X4YdZ06CKN = CFA_9l7 - k549;
 int i = 0;
 while (i < 6)
 {
-if (nTkG5Kj7R != -1929298386)
+if (true)
 {
 o7_R = (int)abs(rTYUZsOk);
 }
@@ -104,7 +104,7 @@ iiY597 = v7PjV2y_Qh(iiY597, DPxit, DkT050S_, t__65eac);
 ++i;
 }
 }
-if ((n89r4hDz > -2133154216) || (rTYUZsOk == -1165535618))
+if ((true) || (rTYUZsOk == -1165535618))
 {
 if (rTYUZsOk != -1274932076)
 {
@@ -122,7 +122,7 @@ rTYUZsOk = kYzbMVoy_q(ynS0B5bu);
 }
 else
 {
-if (OwFw < -1487109770)
+if (false)
 {
 rTYUZsOk = kYzbMVoy_q(1856194762);
 }
@@ -138,7 +138,7 @@ else if ((b2C_VNueJ_ & -1025496440) && ((FObUTjheu & 1766985767) && (k549)))
 {
 Ib6N547XDt = t__65eac >> 30958018;
 }
-else if ((Cwvr >= cq_SHT3I) && (XeojnP <= 2111398857))
+else if ((Cwvr >= cq_SHT3I) && (true))
 {
 z6A7SHd4 = (z6A7SHd4 & 661719794) ? XVV_Ht6bJ() : -1145955793;
 }
@@ -180,7 +180,7 @@ break;
 }
 }
 }
-else if (t__65eac >= -806583109)
+else if (true)
 {
 if (w1d_5U6mA >= a_0E5e4nx)
 {
@@ -193,7 +193,7 @@ for (int k = 0; k < 8; ++k)
 rTYUZsOk = (int)abs(o7_R);
 }
 }
-else if (Z1v1_Um1y8 > 1212174485)
+else if (false)
 {
 try
 {
@@ -269,7 +269,7 @@ u2J7aXt = v7PjV2y_Qh(u2J7aXt, w1d_5U6mA, -1538823303, -19936010);
 int i = 8;
 while (i >= 0)
 {
-if (FcMd50jQ >= -124455600)
+if (true)
 {
 a_0E5e4nx = (unsigned short)(Gq2Wu);
 }
@@ -301,7 +301,7 @@ pi_ePIF = Cwvr | kuL8nC830;
 o7_R = (int)abs(rTYUZsOk);
 try
 {
-if (vON2L <= -1896790175)
+if (false)
 {
 DPxit |= 1939260742;
 }
@@ -311,7 +311,7 @@ catch (int& errorCode)
 OwFw = XVV_Ht6bJ();
 }
 
-if ((bQ8E & -1308786271) && (H1_75 < -1708729679))
+if ((bQ8E & -1308786271) && (false))
 {
 if (zQ_f_Q > 500467147)
 {
@@ -333,7 +333,7 @@ ynS0B5bu %= nTkG5Kj7R;
 }
 }
 }
-else if (M7XrmF0_lU == 1946316708)
+else if (false)
 {
 bCDA = s7xuDlG3G2(bCDA, rTYUZsOk);
 }
@@ -355,7 +355,7 @@ catch (int& errorCode)
 t__65eac = kYzbMVoy_q(J_TK);
 }
 }
-else if (((qs69iIpBy <= 856769560) && (t__65eac > 1531469654)) && (DkT050S_ & -1719912807))
+else if (((true) && (t__65eac > 1531469654)) && (DkT050S_ & -1719912807))
 {
 std::cout << kYzbMVoy_q(J_TK) << s7xuDlG3G2(J_TK, 1446632962) << std::endl;
 }
@@ -375,7 +375,7 @@ bCDA = s7xuDlG3G2(bCDA, -1614026125);
 }
 else
 {
-if (iiY597 >= -1986103325)
+if (true)
 {
 if ((EIzVxxg >= n89r4hDz) && ((Kl5D) || (OwFw >= 428284092)))
 {

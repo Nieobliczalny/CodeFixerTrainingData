@@ -265,7 +265,7 @@ SpeH = Nbm2P(2103602423, vp528sTe_);
 }
 }
 }
-else if (Im_ku >= mn3xe7jYP)
+else if (true)
 {
 wIe6 = NHh5JGeHw & pacFF6A;
 }
@@ -275,7 +275,7 @@ if ((BG0s >= 435980437) && ((q8XmhBKT != 1641490285) && (TBnw <= mn3xe7jYP)))
 {
 A1nHs7d = DN7Ea(598447448, -1304788692, -530855971);
 }
-else if (((Qpd28H38Mn != Q7di) || (Nc4JxXY < yaHm9)) && ((pacFF6A >= -871984845) || (g1Z72o <= -1578773428)))
+else if (((Qpd28H38Mn != Q7di) || (Nc4JxXY < yaHm9)) && ((true) || (g1Z72o <= -1578773428)))
 {
 fVS9HVI = G921HW << TSHRqm5mht;
 }

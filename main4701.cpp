@@ -144,7 +144,7 @@ P4r5E1 = HtbURVrbvj();
 break;
 }
 }
-else if ((BZrgeh < 136124797) || (TxBWy5 == ULnE))
+else if ((true) || (TxBWy5 == ULnE))
 {
 cout << "esl99s_" << m14c << "mwBtKsVH7" << HtbURVrbvj() << "Yru7Sf" << endl;
 }
@@ -159,7 +159,7 @@ if (A3hjJ65 & 1726715684)
 {
 if (StMJ75U & -2032853996)
 {
-if (((wgG2Io544 == 677890596) && (kVw7082vJ <= x3vjql1vq)) || (A3hjJ65 == 1714905789))
+if (((false) && (kVw7082vJ <= x3vjql1vq)) || (A3hjJ65 == 1714905789))
 {
 J69udb0Q0Y = (int)abs(dS89ar1) + (-488568075);
 }
@@ -176,7 +176,7 @@ He99_X -= 650558204;
 }
 else
 {
-if ((wSXAsGA1g > -1092101486) || (g3wT3iM5Cp <= 2072177631))
+if ((true) || (g3wT3iM5Cp <= 2072177631))
 {
 J69udb0Q0Y += E_86h1Op;
 }
@@ -195,7 +195,7 @@ catch (int& errorCode)
 BZrgeh--;
 }
 
-if ((NKBb5m7_60 == 310668798) && ((O8My99e != 2036726275) || (dd6n9Km03u > 81613067)))
+if ((false) && ((O8My99e != 2036726275) || (dd6n9Km03u > 81613067)))
 {
 Kx9Rx05v = Q3K0_57qg1(m14c, -556297306, A3hjJ65, -1303014343) | uu_jB1_;
 }
@@ -215,7 +215,7 @@ else if (rc2_tLD59D > aU9atBTWW)
 {
 O8My99e = TxBWy5 - 1753200734;
 }
-else if (m14c != -343702654)
+else if (true)
 {
 ehRE6Pt -= StMJ75U;
 }
@@ -362,7 +362,7 @@ else if (Kx9Rx05v != -885982972)
 {
 dS89ar1 = HtbURVrbvj();
 }
-else if (xF2foV > -1805424409)
+else if (true)
 {
 rc2_tLD59D = (int)floor(E_86h1Op);
 }
@@ -399,7 +399,7 @@ if ((J69udb0Q0Y / P4r5E1) == -851459278)
 V_HKGfmT3 = 2109963290 / P4r5E1;
 }
 
-if (g3wT3iM5Cp <= 1328390127)
+if (true)
 {
 if (He99_X == Uc_uR9XfZZ)
 {
@@ -446,7 +446,7 @@ W17PHl = HtbURVrbvj() ^ 1357359539;
 break;
 }
 }
-else if (xF2foV > -1458223356)
+else if (true)
 {
 {
 int k = 3;
@@ -480,7 +480,7 @@ else if (V_HKGfmT3 & yP5hclBp3)
 {
 if (wgG2Io544 >= uu_jB1_)
 {
-if ((ghk2 <= -1531586344) || (Pj3e <= -272719939))
+if ((false) || (Pj3e <= -272719939))
 {
 nFxoL = (int)abs(Nf968a);
 }
@@ -504,7 +504,7 @@ catch (int& errorCode)
 He99_X *= 1110288685;
 }
 }
-else if ((TxBWy5 >= 1265884149) && (J69udb0Q0Y == 1794849303))
+else if ((false) && (J69udb0Q0Y == 1794849303))
 {
 try
 {

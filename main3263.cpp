@@ -173,7 +173,7 @@ int i = 0;
 while (i < 9)
 {
 i++;
-if ((zDo27g1Q < 1511975568) && (K43V99zR < -195154507))
+if ((true) && (K43V99zR < -195154507))
 {
 if (ZYl2kYJg3M < c2WHK3hd4_)
 {
@@ -303,7 +303,7 @@ else if (jrzU5 > 1198549478)
 {
 vPj_759RNN = fmQx | 1559905184;
 }
-else if ((n2tBH8y != 1750449546) || (c3gw5kd != 2087877002))
+else if ((n2tBH8y != 1750449546) || (true))
 {
 PF1V9W = KkU1MKU(PF1V9W, 1566341213, -1729443773, -1310226901);
 }

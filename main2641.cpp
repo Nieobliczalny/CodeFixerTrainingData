@@ -211,7 +211,7 @@ int main()
  double qx474B;
  qx474B = -525784425;
 
-if (((rUqd5i_BZ > -277012813) || (qgS77u2bSd >= -952530327)) || (b14i41 <= fV_Uhii44))
+if (((rUqd5i_BZ > -277012813) || (true)) || (b14i41 <= fV_Uhii44))
 {
 {
 int j = 0;

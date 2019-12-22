@@ -21,7 +21,7 @@ int main()
  long double oclyV2f1 = -1989111408, c0bgbVq = -1639534332, ro6K = 2031263284, iktZ9Yd = 1943076379, Hl25K0 = 937712747, rT357s4 = 1426487558;
 
 ro6K = (int)floor(Hl25K0);
-if ((ro6K < -793709997) || (voOP827C == -1395343710))
+if ((ro6K < -793709997) || (false))
 {
 for (int j = 6; j >= 0; j--)
 {
@@ -104,7 +104,7 @@ break;
 }
 else if ((Hl25K0) && ((oclyV2f1) || (Hl25K0 == -274513094)))
 {
-if (R0Pwad75T >= 2087108288)
+if (false)
 {
 if (Hl25K0 > 1816114001)
 {
@@ -166,7 +166,7 @@ while (k >= 0);
 }
 }
 }
-else if (KEWGIDS1_N == 1837096913)
+else if (false)
 {
 try
 {
@@ -342,7 +342,7 @@ if (v7ji2c2s(1773789053, R0Pwad75T, -2066414795) == 0)
 	oclyV2f1 = c0bgbVq / v7ji2c2s(1773789053, R0Pwad75T, -2066414795);
 }
 
-if (KEWGIDS1_N <= -358826024)
+if (false)
 {
 ro6K /= voOP827C;
 }

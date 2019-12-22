@@ -110,7 +110,7 @@ int main(int argc, char** argv)
  WDbQXj = -582861880;
  nfdsb = -1954506142;
 
-if ((aknJ39) || (Yi6dcUG == 1417679359))
+if ((aknJ39) || (false))
 {
 jUYbYn_ = Rd5vka_5Z | 89784218;
 }
@@ -124,7 +124,7 @@ jUYbYn_ = (int)abs(Zjr_V367);
 }
 }
 }
-else if ((iD7IQ28lV7 != Mmzl) || ((soojMkF3L != 31618310) || (iIhAM < Yi6dcUG)))
+else if ((true) || ((soojMkF3L != 31618310) || (iIhAM < Yi6dcUG)))
 {
 if (r1Zr72Y4 == 710379093)
 {
@@ -143,7 +143,7 @@ break;
 }
 }
 }
-else if ((u8cBwB1ApY != iy2e85) && ((QOZ17_PS_ <= -883927824) || (nfdsb & RE1itr)))
+else if ((u8cBwB1ApY != iy2e85) && ((false) || (nfdsb & RE1itr)))
 {
 if (JZ7Ktd79U5 != 704392999)
 {
@@ -180,7 +180,7 @@ F7Jwaf_V = (short)(Rd5vka_5Z);
 }
 else
 {
-if (CeoB == jru5r4)
+if (false)
 {
 try
 {
@@ -441,7 +441,7 @@ catch (int& errorCode)
 TJs00k4 = PZ54w9ycIK(798741364, sfM1);
 }
 
-if (((iIhAM < RE1itr) && (SXN2 > 908074417)) && (WDbQXj & Mmzl))
+if (((iIhAM < RE1itr) && (false)) && (WDbQXj & Mmzl))
 {
 try
 {
@@ -466,7 +466,7 @@ QOZ17_PS_ = O5b43F / 258140540;
 break;
 }
 
-if ((Vbi7 >= -1391631386) || ((TJs00k4 <= 259856151) || (aknJ39 > 1678146266)))
+if ((true) || ((TJs00k4 <= 259856151) || (aknJ39 > 1678146266)))
 {
 sWlKRln = (short)(PgqcHCB);
 }
@@ -476,7 +476,7 @@ sWlKRln = jRGwgV_9M >> 225286661;
 }
 else
 {
-if (JrfSEJ6KR2 > fWisyG0n2)
+if (false)
 {
 if ((iD7IQ28lV7 < 191739868) || ((v3AZ_IIg_) || (CeoB >= ck6Q)))
 {
@@ -500,7 +500,7 @@ vBhXqa = BQzZ / 74635815;
 }
 }
 
-if (sWlKRln > -2101050068)
+if (true)
 {
 if (VM59mg >= Mmzl)
 {
@@ -538,7 +538,7 @@ w_Lo1 = BGMd(-2038290927, -259899643, -1374902378);
 break;
 }
 }
-else if (F7Jwaf_V > Mmzl)
+else if (false)
 {
 if ((SXN2) && ((PgqcHCB < 563124149) || (xwUVad4_A0 < fWisyG0n2)))
 {
@@ -595,7 +595,7 @@ JZ7Ktd79U5 = vmdAi();
 int i = 0;
 while (i < 4)
 {
-if (Rd5vka_5Z < 1228829592)
+if (true)
 {
 if (((c_SjQ3j43 < WDbQXj) && (c_SjQ3j43)) && ((C3R_6P6e6u < jru5r4) && (yf666 >= -1626065649)))
 {
@@ -610,7 +610,7 @@ else
 JZ7Ktd79U5 = vmdAi();
 }
 }
-else if (TJs00k4 >= -1308632623)
+else if (true)
 {
 for (int k = 0; k < 2; ++k)
 {

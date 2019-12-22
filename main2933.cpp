@@ -155,7 +155,7 @@ if (B2oyNz != -265554642)
 {
 try
 {
-if (((vXQSc <= HrbGfZ) || (vXQSc >= -24394954)) || ((phcZS7u >= 1982215827) && (c926S)))
+if (((vXQSc <= HrbGfZ) || (true)) || ((phcZS7u >= 1982215827) && (c926S)))
 {
 zrjwkSl = (int)abs(HrbGfZ);
 }

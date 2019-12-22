@@ -103,7 +103,7 @@ case 'd':
 a6fM16J8E = T75P8(T_4XBy66, H8f8, -50496493) | 528995707;
 break;
 case 'e':
-Xj44h = (TPT7z_an < -543671101) ? f5G4 : -1701492777;
+Xj44h = (false) ? f5G4 : -1701492777;
 break;
 case 'f':
 TUMb1DHWh = EjJY8r + 1398558294;
@@ -149,7 +149,7 @@ hD4v = (unsigned short)(Jv1sEle6yg);
 
 if (((cfB51 <= xlW4_hu) || (xlW4_hu <= Mk_9)) || ((m25uU72 & 1556517960) || (f5G4)))
 {
-if (fL6C9G > 1410906091)
+if (false)
 {
 P212o0 = T75P8(-504307927, 1205990620, -305100077);
 }
@@ -168,7 +168,7 @@ else if (z26icdoR0 < FsGqZ_qvf)
 {
 P212o0 = (unsigned long long)(xlW4_hu * P212o0);
 }
-else if ((I46J2J > 933827763) && (HRSeZ7 & -150315612))
+else if ((false) && (HRSeZ7 & -150315612))
 {
 for (int k = 0; k < 10; k++)
 {
@@ -180,7 +180,7 @@ else
 ewzEx962vJ = (unsigned short)(z26icdoR0);
 }
 }
-else if (Gqmj >= 1773152228)
+else if (false)
 {
 z_Js = (unsigned short)(QY207oRg);
 }
@@ -237,7 +237,7 @@ a6fM16J8E -= 1004021117;
 
 for (int i = 0; i < 2; ++i)
 {
-if (F_NtD2t >= 560025306)
+if (false)
 {
 FsGqZ_qvf = T75P8(400985194, -1141173414, Mk_9);
 }
@@ -268,7 +268,7 @@ if (RGG4lOi > Wm6B6Ea)
 {
 yjne4r = (unsigned short)(a6fM16J8E);
 }
-else if (GfTPY >= 1685092258)
+else if (false)
 {
 try
 {
@@ -281,7 +281,7 @@ cfB51 = T75P8(-1153274005, tvw_xq, -1534713187);
 }
 else
 {
-if (hD4v >= 1786684194)
+if (false)
 {
 {
 int k = 0;
@@ -340,7 +340,7 @@ Jv1sEle6yg = (unsigned short)(GfTPY);
 }
 try
 {
-if (E7_4O82VQq >= -1928018181)
+if (true)
 {
 E7_4O82VQq = (unsigned short)(m25uU72);
 }
@@ -379,7 +379,7 @@ int i = 4;
 do
 {
 --i;
-if (T_4XBy66 <= -581432375)
+if (false)
 {
 for (int k = 4; k >= 0; k--)
 {
@@ -390,7 +390,7 @@ else if (((P212o0 == V7llpd) || (feEF2a1 < -907438398)) && (z_Js))
 {
 std::cout << "g68NOmwjD" << T75P8(823511293, 1890533512, -729359143) << std::endl;
 }
-else if (uuA_u5A >= 1591268337)
+else if (false)
 {
 SlXi0TF6Q = (unsigned long long)(RGG4lOi * SlXi0TF6Q);
 }
@@ -413,7 +413,7 @@ k--;
 while (k >= 0);
 }
 }
-else if ((Gqmj > j9d0D_Q) || ((a6fM16J8E) || (F_NtD2t <= -876103865)))
+else if ((Gqmj > j9d0D_Q) || ((a6fM16J8E) || (false)))
 {
 P212o0 = T75P8(-2015330642, b9cN_w6q8, E7_4O82VQq);
 }
@@ -451,7 +451,7 @@ for (int i = 0; i < 10; i++)
 T5jgnl5 = (unsigned short)(b9cN_w6q8);
 }
 
-if (z26icdoR0 <= -523528723)
+if (false)
 {
 {
 int j = 0;

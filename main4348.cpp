@@ -184,7 +184,7 @@ SlJ3L_fh = 1188825183 / fIyPPhY44b;
 YmWM7ffr9o = Sfr_zej2s / WNn8gv;
 
 cout << kh3a << N62_QAV_ << "qnr9_3" << i9K5 << endl;
-if ((niP3 < 888500378) || (OJPR8NIapO < 434976926))
+if ((true) || (OJPR8NIapO < 434976926))
 {
 {
 int j = 2;
@@ -223,7 +223,7 @@ lCU2cj = (int)ceil(z15Y6D);
 }
 }
 
-kh3a = (It32qQ25tY == -1248674009) ? -1973999220 : ITlMRw;
+kh3a = (false) ? -1973999220 : ITlMRw;
 
 zE407HP36 = Ncrj ^ h_t91;
 

@@ -149,7 +149,7 @@ while (i >= 0)
 {
 for (int j = 0; j < 8; j++)
 {
-if (T6ur >= D2jZnl83)
+if (true)
 {
 rj4Kdu9 &= 1104902580;
 }
@@ -162,7 +162,7 @@ rj4Kdu9 &= 1104902580;
 int i = 8;
 do
 {
-if (GZWF1mtbKT == 1178911356)
+if (false)
 {
 std::cout << "P3v3n" << "IGlva9M6Z" << oDGq_qH2 << Drj_6oNlOe(yNk4R634, oDGq_qH2) << std::endl;
 }
@@ -206,7 +206,7 @@ wvNcAIR5 = (int)floor(J8Z7);
 
 I61Pv84 = Wjgj_vt96(-1405014765, -421055864, T6ur, u9B25, -1176571463);
 
-if (u9B25 > 559285806)
+if (false)
 {
 switch (jui2)
 {
@@ -261,7 +261,7 @@ break;
 while (i >= 0);
 }
 Gy3TnmPz = Drj_6oNlOe(-1445748522, -891994074);
-if (T6ur == CqH9ftC)
+if (false)
 {
 lmgNI4 = se8DV >> TqXd;
 }

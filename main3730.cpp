@@ -169,7 +169,7 @@ break;
 }
 try
 {
-if (((cn2fJ7 < jqpb6LU) || (lyOCC2_Y & 212084685)) && (Gt1z6LH5 > -510388723))
+if (((cn2fJ7 < jqpb6LU) || (lyOCC2_Y & 212084685)) && (true))
 {
 {
 int k = 0;

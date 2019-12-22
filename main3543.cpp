@@ -65,7 +65,7 @@ else
 cout << "y25r46" << "KY8A20gbmN" << endl;
 }
 }
-if (uNC7N96o > 1611610494)
+if (false)
 {
 {
 int j = 1;
@@ -84,7 +84,7 @@ else if (AUFns4 == AcA0G_)
 {
 if (AcA0G_ > 1704812781)
 {
-if (AUFns4 >= 1698058225)
+if (false)
 {
 AUFns4 ^= uNC7N96o;
 }
@@ -124,7 +124,7 @@ AUFns4 ^= 642687880;
 }
 else if ((AUFns4 <= zC1iQG6) || (AcA0G_ <= zC1iQG6))
 {
-if (AUFns4 == -318116434)
+if (false)
 {
 AUFns4 %= uNC7N96o;
 }
@@ -210,7 +210,7 @@ catch (int& errorCode)
 AUFns4 = ymLD4D4_ & 331662357;
 }
 }
-else if (zC1iQG6 == -954472421)
+else if (false)
 {
 uNC7N96o = (unsigned short int)(zC1iQG6 + (1812677918));
 }

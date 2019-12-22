@@ -102,7 +102,7 @@ std::cout << TqeNw << bD_Us75Lr << f67omm4_ << s3ud << std::endl;
 }
 }
 }
-else if ((bxrw93r0G4 & 1122228405) || ((Eb8xO <= 885187663) || (S4EXgysG)))
+else if ((bxrw93r0G4 & 1122228405) || ((true) || (S4EXgysG)))
 {
 if (aWKr & Eb8xO)
 {
@@ -193,7 +193,7 @@ catch (int& errorCode)
 aKHbJtMS = (int)abs(PLrG_GGi);
 }
 }
-else if ((nkT00L_ > 276203333) || (rsttd <= -1806857862))
+else if ((nkT00L_ > 276203333) || (false))
 {
 if (PLrG_GGi & bxrw93r0G4)
 {
@@ -207,7 +207,7 @@ else if ((bxrw93r0G4 >= -512629406) && (aKHbJtMS > -358300852))
 {
 rFw4pK_ = BPXCF1uB2 >> N80C;
 }
-else if ((rsttd > o0xaMd) || ((rpbwxFqSn2 < IQ32) || (PLrG_GGi > -702784288)))
+else if ((rsttd > o0xaMd) || ((rpbwxFqSn2 < IQ32) || (true)))
 {
 Z_1qx = rsttd / 161741204;
 }
@@ -298,7 +298,7 @@ break;
 }
 }
 }
-if (Eb8xO == 108722156)
+if (false)
 {
 std::cout << RYOx_a8C << JKw3 << BPXCF1uB2 << s3ud << "CC711j7" << std::endl;
 }
@@ -419,7 +419,7 @@ if (mc7Z > RYOx_a8C)
 int j = 2;
 while (j >= 0)
 {
-if (((rsttd != -287659754) && (Z_1qx != S_57i_0Sc)) && (aKHbJtMS != RVZ4r2kM0))
+if (((true) && (Z_1qx != S_57i_0Sc)) && (aKHbJtMS != RVZ4r2kM0))
 {
 BPXCF1uB2 -= aKHbJtMS;
 }
@@ -458,7 +458,7 @@ if (bD_Us75Lr)
 {
 L9EL -= 374514478;
 }
-else if (aWKr >= 1424334713)
+else if (false)
 {
 switch (bxrw93r0G4)
 {

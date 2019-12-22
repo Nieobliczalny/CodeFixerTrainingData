@@ -138,7 +138,7 @@ EjM9CXpQ = s43g(EjM9CXpQ);
 
 try
 {
-if (((Knwh >= s1pzpW7) || (d9st >= DD1jy)) || ((n5Q1OQ) && (O31GZ != 350066993)))
+if (((true) || (d9st >= DD1jy)) || ((n5Q1OQ) && (O31GZ != 350066993)))
 {
 T87ry2x4 = (short)(s1pzpW7 * T87ry2x4);
 }
@@ -152,7 +152,7 @@ EBtJl8Atw = (short)(d9st * (DD1jy));
 }
 else
 {
-if (A9eV5wUY == 561239211)
+if (false)
 {
 d9st -= n5Q1OQ;
 }

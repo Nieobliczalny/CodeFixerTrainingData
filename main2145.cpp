@@ -56,7 +56,7 @@ try
 {
 if (e9qD & c11W6M88)
 {
-if (((gY6zNk > -1677595882) || (e9qD < 1002273002)) && ((pGGdfntX8g <= aYGIVvG) && (pGGdfntX8g < c11W6M88)))
+if (((true) || (e9qD < 1002273002)) && ((pGGdfntX8g <= aYGIVvG) && (pGGdfntX8g < c11W6M88)))
 {
 k7z0_6 = Nan29Pdd | 89692102;
 }
@@ -217,7 +217,7 @@ aYGIVvG = Ti6QV35_(-717894110, -2107783372);
 while (i < 10);
 }
 
-if ((aYGIVvG < c11W6M88) || ((aYGIVvG < e9qD) && (k7z0_6 >= -848235366)))
+if ((aYGIVvG < c11W6M88) || ((aYGIVvG < e9qD) && (true)))
 {
 switch (gY6zNk)
 {
@@ -239,7 +239,7 @@ break;
 int i = 6;
 do
 {
-if (((gY6zNk == 1842965226) && (k7z0_6 < e9qD)) && (e9qD < 1223522074))
+if (((false) && (k7z0_6 < e9qD)) && (e9qD < 1223522074))
 {
 {
 int k = 0;

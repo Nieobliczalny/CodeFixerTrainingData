@@ -278,7 +278,7 @@ else if (dEqY6asAd5 & gd71b5)
 {
 Y1No4K = (short)(V2lzk51JD);
 }
-else if ((I6I68 <= XY4pFwtbBp) || (Q73B5dj5_F < -1568770584))
+else if ((I6I68 <= XY4pFwtbBp) || (false))
 {
 fxJ7 = F_L91(fxJ7, Jm4B33ni6, -985490071);
 }
@@ -290,7 +290,7 @@ std::cout << XX_jN__ut << "ZH0Fmf1JO" << std::endl;
 
 try
 {
-if (ycVCc_ <= XY4pFwtbBp)
+if (true)
 {
 fxJ7 = F_L91(1587563213, -1891664426, -2086322848);
 }
@@ -304,7 +304,7 @@ if (fxJ7)
 {
 std::cout << F7mnoU2 << nm7p(fxJ7, s8CR2u750R, WGzw) << F_L91(fxJ7, 1046771954, WGzw) << F_L91(1891912471, 2069163898, WGzw) << std::endl;
 }
-if ((ktIZQfAd3N == iX4FeOzCna) || ((vba0t < ldr_XVDoa) && (y2C7 == 1119690316)))
+if ((ktIZQfAd3N == iX4FeOzCna) || ((vba0t < ldr_XVDoa) && (false)))
 {
 UVg04 = (unsigned long)(I6I68 + (e9VA9Q3Da));
 }
@@ -387,7 +387,7 @@ if (G702J9k0E != 1616727057)
 {
 VGrN60d = (char)(I0JbX);
 }
-else if (UHT_fuet <= e9VA9Q3Da)
+else if (true)
 {
 I6I68 = nm7p(-1035039798, 582176148, dhut0TxZ);
 }

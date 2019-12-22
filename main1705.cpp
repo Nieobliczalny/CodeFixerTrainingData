@@ -58,7 +58,7 @@ i--;
 }
 while (i >= 0);
 }
-if (dQI_d > Enb4)
+if (false)
 {
 {
 int j = 0;
@@ -81,7 +81,7 @@ else
 {
 Y10xUt = (unsigned char)(Enb4);
 }
-if (xA6tj >= -2115053524)
+if (true)
 {
 l03Y6RHd3A = BZ_53N53 / V6MWAsYRd;
 }
@@ -104,7 +104,7 @@ if (xA6tj >= dqq8Iy9)
 {
 dqq8Iy9 = dqq8Iy9 << 228697176;
 }
-else if ((dQI_d == -1796097885) || (dqq8Iy9 != -1674763127))
+else if ((false) || (dqq8Iy9 != -1674763127))
 {
 std::cout << Fh9mtSb << ni3g(A21HYNYtc, l03Y6RHd3A, dqq8Iy9, 2000196125) << "A97hjF8ki" << std::endl;
 }
@@ -115,7 +115,7 @@ for (int k = 0; k < 9; k++)
 dqq8Iy9 = A21HYNYtc | 1831851791;
 }
 }
-else if (xA6tj == BZ_53N53)
+else if (false)
 {
 if ((A21HYNYtc == -1521583756) || ((Fh9mtSb) && (O8zC31vk & 1050321300)))
 {
@@ -131,7 +131,7 @@ else
 std::cout << ni3g(xA6tj, jX_WaQ, 1773474833, -934424154) << "i_aEci2O0y" << std::endl;
 }
 }
-if ((O8zC31vk <= BZ_53N53) || ((Fh9mtSb & BZ_53N53) && (jX_WaQ & Enb4)))
+if ((true) || ((Fh9mtSb & BZ_53N53) && (jX_WaQ & Enb4)))
 {
 Y10xUt = Fh9mtSb >> dqq8Iy9;
 }
@@ -154,7 +154,7 @@ if (((jX_WaQ & C_JlL) && (xA6tj)) && ((dqq8Iy9 & Enb4) && (O8zC31vk)))
 {
 Y10xUt %= l03Y6RHd3A;
 }
-else if (((FyVt >= 1977357879) || (FyVt == -873285990)) && (xA6tj > l03Y6RHd3A))
+else if (((false) || (FyVt == -873285990)) && (xA6tj > l03Y6RHd3A))
 {
 Y10xUt = J7Aqm();
 }
@@ -223,7 +223,7 @@ catch (int& errorCode)
 FyVt %= 1893997343;
 }
 }
-else if (dQI_d == 1670884181)
+else if (false)
 {
 dqq8Iy9 = (unsigned char)(Enb4);
 }
@@ -238,7 +238,7 @@ else
 O8zC31vk &= Y10xUt;
 }
 }
-else if ((xA6tj != Y10xUt) || ((V6MWAsYRd <= 1699572844) || (xA6tj >= 852942961)))
+else if ((xA6tj != Y10xUt) || ((true) || (xA6tj >= 852942961)))
 {
 std::cout << ni3g(406928401, -1705585262, -1188281327, xA6tj) << O8zC31vk << Fh9mtSb << "Xt5_Xg" << std::endl;
 }
@@ -265,7 +265,7 @@ else
 {
 try
 {
-if (jX_WaQ >= C_JlL)
+if (false)
 {
 FyVt = x5scy9H(364942109, -1466788837, 229678034, 1449522320);
 }
@@ -317,7 +317,7 @@ do
 int j = 10;
 while (j >= 0)
 {
-if (A21HYNYtc >= -791757083)
+if (true)
 {
 xA6tj = ni3g(-1181206819, xA6tj, O8zC31vk, -183076093);
 }
@@ -331,7 +331,7 @@ while (i >= 0);
 FyVt++;
 
 O8zC31vk = (unsigned char)(V6MWAsYRd + (Enb4));
-if (l03Y6RHd3A != C_JlL)
+if (true)
 {
 for (int j = 8; j >= 0; j--)
 {
@@ -343,7 +343,7 @@ int i = 0;
 while (i < 2)
 {
 i++;
-if (jX_WaQ <= Enb4)
+if (true)
 {
 xA6tj = (char)(l03Y6RHd3A * xA6tj);
 }
@@ -367,7 +367,7 @@ while (i < 5);
 
 for (int i = 10; i >= 0; i--)
 {
-if (Fh9mtSb <= -2090730841)
+if (false)
 {
 if (dQI_d <= C_JlL)
 {
@@ -378,7 +378,7 @@ else if (A21HYNYtc == 362422555)
 {
 A21HYNYtc = J7Aqm();
 }
-else if (((dqq8Iy9) && (dqq8Iy9)) && ((jX_WaQ < 1799959831) && (xA6tj < 1387866317)))
+else if (((dqq8Iy9) && (dqq8Iy9)) && ((true) && (xA6tj < 1387866317)))
 {
 switch (jX_WaQ)
 {
@@ -445,7 +445,7 @@ dQI_d = x5scy9H(-1086534598, dqq8Iy9, O8zC31vk, V6MWAsYRd);
 jX_WaQ = ni3g(jX_WaQ, -21567067, FyVt, Y10xUt);
 if (Fh9mtSb & 685777838)
 {
-if (Fh9mtSb > 1322128090)
+if (false)
 {
 switch (FyVt)
 {

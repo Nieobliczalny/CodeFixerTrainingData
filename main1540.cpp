@@ -35,7 +35,7 @@ while (j < 4);
 }
 else if (g6Auzor > Zu9vdt0)
 {
-if ((r68jcBEQ > J8oYz2F) && ((PL_9b != Zu9vdt0) && (r68jcBEQ > R9Vv)))
+if ((r68jcBEQ > J8oYz2F) && ((PL_9b != Zu9vdt0) && (false)))
 {
 FLcO_3dh = IvWhrn >> J8oYz2F;
 }
@@ -73,7 +73,7 @@ l78A0o++;
 break;
 }
 }
-else if (l78A0o <= R9Vv)
+else if (true)
 {
 {
 int k = 1;
@@ -86,7 +86,7 @@ FEQ86q08 = pS_vQf5i(r68jcBEQ);
 }
 else
 {
-if (g6Auzor != -466974547)
+if (true)
 {
 t1uNuF = pS_vQf5i(IvWhrn);
 }

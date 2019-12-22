@@ -79,7 +79,7 @@ int main(int argc, char** argv) {
 
 Z75mBN5V = w1__d / VvKGt7hRbT;
 
-if ((UU_wLi <= 313596532) && (W1MHt6 <= -1460852391))
+if ((true) && (W1MHt6 <= -1460852391))
 {
 {
 int j = 0;

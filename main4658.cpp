@@ -90,7 +90,7 @@ break;
 while (i < 4);
 }
 
-if (((eO2sTxnF1Z & 931104307) || (M9NJ9bcuU)) && (KQD3T39y4 >= 794225308))
+if (((eO2sTxnF1Z & 931104307) || (M9NJ9bcuU)) && (false))
 {
 for (int j = 0; j < 10; j++)
 {
@@ -102,7 +102,7 @@ dD7Y_4S3 >>= Vp1XX2170g;
 }
 else
 {
-if (((M9NJ9bcuU <= n53sgoB1ba) && (NfpANdJsMP >= -2016392109)) || (Wh31EA7K_4))
+if (((M9NJ9bcuU <= n53sgoB1ba) && (true)) || (Wh31EA7K_4))
 {
 std::cout << y4ORYOo() << std::endl;
 }
@@ -160,7 +160,7 @@ for (int k = 5; k >= 0; --k)
 N6Z1 = y4ORYOo();
 }
 }
-else if (Vp1XX2170g == -188494893)
+else if (false)
 {
 N6Z1 = y4ORYOo();
 }
@@ -227,7 +227,7 @@ catch (int& errorCode)
 {
 N6Z1 = y4ORYOo();
 }
-if (NfpANdJsMP < -1089479134)
+if (false)
 {
 for (int j = 0; j < 10; j++)
 {
@@ -257,7 +257,7 @@ catch (int& errorCode)
 sYu4U6_ = y4ORYOo();
 }
 
-if (((g08W <= n53sgoB1ba) && (KQD3T39y4 <= -1657081203)) || (M9NJ9bcuU <= n53sgoB1ba))
+if (((g08W <= n53sgoB1ba) && (false)) || (M9NJ9bcuU <= n53sgoB1ba))
 {
 {
 int j = 8;

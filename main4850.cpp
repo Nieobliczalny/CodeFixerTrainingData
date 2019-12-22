@@ -310,7 +310,7 @@ f9vA6s <<= nE46mK9F;
 std::cout << A88aU << std::endl;
 vX_w_4 /= hEEcajOzH6;
 
-if (VTy32 > -1715739217)
+if (true)
 {
 if (uQA3Yls > -1150048708)
 {

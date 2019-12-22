@@ -85,7 +85,7 @@ break;
 }
 }
 }
-if (wX5zy6X3Z1 >= 1122201370)
+if (false)
 {
 switch (puzo4Oc)
 {

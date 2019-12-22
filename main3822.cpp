@@ -207,7 +207,7 @@ if (EOzOE >= ZZHhr)
 {
 wm_7ed5L = P15b9(-1477815386, -562505274);
 }
-else if (((lm4fe < -1732953663) || (HKLY >= OK2NA_KwD0)) || (zfVh3pwI_ > -1874757815))
+else if (((false) || (HKLY >= OK2NA_KwD0)) || (zfVh3pwI_ > -1874757815))
 {
 Bm4D = (int)floor(Dhl0AW);
 }
@@ -249,7 +249,7 @@ B4qQyrE7X <<= XBHm2;
 }
 while (i < 8);
 }
-if ((O7063dM5 < -1661923809) && (fLsLBliU5 < 2117902608))
+if ((false) && (fLsLBliU5 < 2117902608))
 {
 {
 int j = 0;

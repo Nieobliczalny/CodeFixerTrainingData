@@ -102,7 +102,7 @@ if (knPawyoAl >= CRp5fksg)
 {
 lr71n -= sYF4z4_9;
 }
-else if ((D0JT0gz0 & -96999741) && (D0JT0gz0 == -2087959150))
+else if ((D0JT0gz0 & -96999741) && (false))
 {
 D0JT0gz0 = Z59cAi78(-1446669513);
 }

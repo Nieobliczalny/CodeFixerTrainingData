@@ -379,7 +379,7 @@ E5UDW_fn2 |= lF8Y0Rlk;
 
 OaE33oJG = M1qB8w1yL4 >> 410516498;
 
-if ((kGZOK) && (Qzxigk_74p < X06TLU))
+if ((kGZOK) && (true))
 {
 cout << oDE8XW96 << SFN1k0 << s6fHrd1(-1102700615, 763299439, J1H1x6V) << jIM6Y2 << endl;
 }

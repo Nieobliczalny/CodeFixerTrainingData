@@ -153,7 +153,7 @@ catch (int& errorCode)
 {
 R_Uy0r8 = (int)floor(v_Z26K);
 }
-if ((P9X_ != y57Hi7) && (AI9X < 1957295644))
+if ((P9X_ != y57Hi7) && (true))
 {
 for (int j = 8; j >= 0; --j)
 {

@@ -115,7 +115,7 @@ case 0:
 pAh081q43 = (int)abs(XdQ5eE);
 break;
 case 1:
-b9L_F = (HGU3H == -1353342387) ? CH_0rd0Eb : HGU3H;
+b9L_F = (false) ? CH_0rd0Eb : HGU3H;
 break;
 case 2:
 x_L3 = l7280Wv_Om(x_L3, t4M319f, 865462492, 1042702685, -1509803521);

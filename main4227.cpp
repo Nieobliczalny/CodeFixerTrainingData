@@ -28,7 +28,7 @@ int main(void) {
     unsigned short    k224H_    =    319611443;
 	long	o5s99JK5X	=	0;
 
-if (dr9OCa0 == 362557327)
+if (false)
 {
 if ((o5s99JK5X == 6314076) && (o5s99JK5X & 1256514794))
 {
@@ -45,7 +45,7 @@ while (k >= 0);
 }
 else
 {
-if ((dr9OCa0 < 1215598933) || (dr9OCa0 > -2042550053))
+if ((true) || (dr9OCa0 > -2042550053))
 {
 if ((dr9OCa0 != o5s99JK5X) || (dr9OCa0 <= 1447579958))
 {
@@ -96,7 +96,7 @@ int i = 5;
 do
 {
 i--;
-if ((dr9OCa0 != 1815616906) || (k224H_ >= o5s99JK5X))
+if ((true) || (k224H_ >= o5s99JK5X))
 {
 k224H_ = ulMPnKZUC ^ dr9OCa0;
 }
@@ -106,7 +106,7 @@ while (i >= 0);
 k224H_ = (k224H_) ? dr9OCa0 : -1264127347;
 if ((k224H_ > 1588155767) && (ulMPnKZUC > -2027997471))
 {
-if (k224H_ >= -1129917147)
+if (true)
 {
 switch (o5s99JK5X)
 {
@@ -151,7 +151,7 @@ k224H_ = jW3ee_h4SS(o5s99JK5X, 354479940);
 break;
 }
 }
-else if ((k224H_ == -1233982578) || (ulMPnKZUC >= 991499541))
+else if ((false) || (ulMPnKZUC >= 991499541))
 {
 if (k224H_ > 1715944793)
 {
@@ -165,7 +165,7 @@ ulMPnKZUC = ulMPnKZUC << 166664499;
 }
 }
 }
-else if ((k224H_ == -1307737287) && (k224H_ <= 876194879))
+else if ((false) && (k224H_ <= 876194879))
 {
 k224H_ = ZNOOsGk18(745935953) % 63689254;
 }
@@ -188,7 +188,7 @@ ulMPnKZUC = jW3ee_h4SS(2133778564, ulMPnKZUC);
 }
 }
 
-if (((dr9OCa0 >= 2135343317) || (k224H_ != o5s99JK5X)) && ((o5s99JK5X & ulMPnKZUC) || (o5s99JK5X >= 1701641923)))
+if (((false) || (k224H_ != o5s99JK5X)) && ((o5s99JK5X & ulMPnKZUC) || (o5s99JK5X >= 1701641923)))
 {
 if (ulMPnKZUC < o5s99JK5X)
 {
@@ -244,7 +244,7 @@ if (ulMPnKZUC <= dr9OCa0)
 {
 cout << o5s99JK5X << "w0_l5d0_f" << "a7Hnt2W_" << "U3_d_lLdy" << endl;
 }
-else if (k224H_ == 901711485)
+else if (false)
 {
 for (int j = 6; j >= 0; j--)
 {
@@ -296,7 +296,7 @@ else if (k224H_ <= ulMPnKZUC)
 {
 if ((dr9OCa0) || (ulMPnKZUC != 1402870369))
 {
-if (((k224H_ <= -1589392923) && (k224H_ == -2122278068)) || (ulMPnKZUC != dr9OCa0))
+if (((false) && (k224H_ == -2122278068)) || (ulMPnKZUC != dr9OCa0))
 {
 ulMPnKZUC = k224H_ & dr9OCa0;
 }
@@ -308,7 +308,7 @@ if (ulMPnKZUC >= -903018050)
 {
 cout << k224H_ << dr9OCa0 << endl;
 }
-else if ((ulMPnKZUC != 265154083) || (k224H_ > -250961460))
+else if ((ulMPnKZUC != 265154083) || (true))
 {
 if (ulMPnKZUC < 27156126)
 {
@@ -353,7 +353,7 @@ int j = 0;
 do
 {
 j++;
-if ((k224H_ != 9126883) && ((k224H_ == -692443860) || (o5s99JK5X & dr9OCa0)))
+if ((true) && ((k224H_ == -692443860) || (o5s99JK5X & dr9OCa0)))
 {
 k224H_ = jW3ee_h4SS(-495015958, ulMPnKZUC) << 1131681530;
 }
@@ -389,7 +389,7 @@ else
 {
 if ((o5s99JK5X < -533237550) || (k224H_ <= ulMPnKZUC))
 {
-if (k224H_ >= 1832574188)
+if (false)
 {
 o5s99JK5X = ZNOOsGk18(ulMPnKZUC);
 }
@@ -457,7 +457,7 @@ if ((-1226633999 / o5s99JK5X) >= 495222394)
 {
 ulMPnKZUC = k224H_ / o5s99JK5X;
 }
-if ((ulMPnKZUC >= o5s99JK5X) && ((k224H_ > 1938644741) || (dr9OCa0 <= -2069942842)))
+if ((ulMPnKZUC >= o5s99JK5X) && ((false) || (dr9OCa0 <= -2069942842)))
 {
 {
 int j = 0;
@@ -471,7 +471,7 @@ j++;
 }
 }
 }
-else if ((k224H_ <= -294717990) && (k224H_ <= 1957062005))
+else if ((false) && (k224H_ <= 1957062005))
 {
 if (ulMPnKZUC != 472262514)
 {
@@ -509,7 +509,7 @@ if ((o5s99JK5X >= -141776615) || (o5s99JK5X))
 {
 ulMPnKZUC *= 893422794;
 }
-else if ((dr9OCa0 != 963492970) && (dr9OCa0 < o5s99JK5X))
+else if ((true) && (dr9OCa0 < o5s99JK5X))
 {
 ulMPnKZUC /= ulMPnKZUC;
 }
@@ -525,7 +525,7 @@ else if (((o5s99JK5X <= k224H_) && (ulMPnKZUC == o5s99JK5X)) || (o5s99JK5X == dr
 {
 o5s99JK5X = ZNOOsGk18(ulMPnKZUC);
 }
-else if (dr9OCa0 > 1175873013)
+else if (false)
 {
 ulMPnKZUC = (o5s99JK5X <= -1444922705) ? k224H_ : dr9OCa0;
 }
@@ -539,7 +539,7 @@ else
 k224H_ = jW3ee_h4SS(617216166, 2128782409);
 }
 }
-else if (dr9OCa0 > 668171107)
+else if (false)
 {
 {
 int j = 0;
@@ -565,7 +565,7 @@ k224H_ = jW3ee_h4SS(-1356994816, ulMPnKZUC);
 while (j >= 0);
 }
 }
-else if (dr9OCa0 == -2041783319)
+else if (false)
 {
 if (o5s99JK5X != -1953884283)
 {
@@ -600,7 +600,7 @@ dr9OCa0 = k224H_ * 1755468613;
 
 cout << k224H_ << jW3ee_h4SS(-1881022564, o5s99JK5X) << jW3ee_h4SS(ulMPnKZUC, o5s99JK5X) << ZNOOsGk18(ulMPnKZUC) << endl;
 
-if (((k224H_) && (k224H_ & ulMPnKZUC)) && ((ulMPnKZUC & -832398628) || (k224H_ == -1190650894)))
+if (((k224H_) && (k224H_ & ulMPnKZUC)) && ((ulMPnKZUC & -832398628) || (false)))
 {
 k224H_ *= 1106955456;
 }

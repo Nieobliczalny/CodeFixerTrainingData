@@ -283,7 +283,7 @@ while (k < 8);
 }
 }
 }
-else if (QeK_d >= -1331697363)
+else if (true)
 {
 {
 int j = 3;

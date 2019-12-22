@@ -236,7 +236,7 @@ t_Lz >>= 2096362873;
 }
 }
 }
-else if (t_Lz >= lh4K)
+else if (false)
 {
 UGQ__5UbZ = (int)floor(A41zKD3);
 }
@@ -287,7 +287,7 @@ HB51X5y = cCRamv1 ^ af0Fhcd2;
 break;
 }
 }
-else if ((KQ3f > -67819053) && ((nYLm < MUFfgYWXdj) || (C0tA_cY < ti76I3NA0)))
+else if ((KQ3f > -67819053) && ((true) || (C0tA_cY < ti76I3NA0)))
 {
 if (NjULi1B > MUFfgYWXdj)
 {

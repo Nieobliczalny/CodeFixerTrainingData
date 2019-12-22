@@ -55,7 +55,7 @@ for (int i = 10; i >= 0; i--)
 h8Gyxb9L = (unsigned short)(d2yIq5f);
 }
 
-if (mB4Nr <= 419467035)
+if (true)
 {
 switch (mB4Nr)
 {
@@ -72,7 +72,7 @@ else
 cout << "lO1qdZ08" << U8CZm << CM54H << endl;
 }
 
-if (S0gw_2N98 == 797322551)
+if (false)
 {
 mB4Nr = (unsigned short)(Y37T319);
 }
@@ -95,7 +95,7 @@ k++;
 while (j < 10);
 }
 }
-else if ((S0gw_2N98 == -489811059) || ((d2yIq5f != -1827123409) || (Tn9J725iuq != 1781003811)))
+else if ((false) || ((d2yIq5f != -1827123409) || (Tn9J725iuq != 1781003811)))
 {
 S0gw_2N98 = (unsigned short)(s_sd73);
 }
@@ -147,7 +147,7 @@ d2yIq5f |= U8CZm;
 break;
 }
 
-if ((o1ONjfE != -1408456018) || (h8Gyxb9L < -870848210))
+if ((true) || (h8Gyxb9L < -870848210))
 {
 if (e9jQN2f < mCt4)
 {

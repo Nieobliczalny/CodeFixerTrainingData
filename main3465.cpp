@@ -67,7 +67,7 @@ do
 {
 for (int j = 0; j < 1; ++j)
 {
-if (G_NI1s > 762221371)
+if (false)
 {
 yaXR = (int)abs(O2AjM);
 }
@@ -79,7 +79,7 @@ while (i < 4);
 
 if (lL0JA <= 1603467770)
 {
-if (((fadyDL <= G_NI1s) && (O2AjM >= -1659166444)) && ((zoGVPB380b <= 1916669262) && (yaXR != 1300852551)))
+if (((fadyDL <= G_NI1s) && (O2AjM >= -1659166444)) && ((true) && (yaXR != 1300852551)))
 {
 f3p_bX = (unsigned short int)(G_NI1s);
 }
@@ -97,7 +97,7 @@ else if (lL0JA < 346561461)
 {
 lL0JA = (int)abs(O2AjM);
 }
-else if ((zoGVPB380b >= 1502532524) && (O2AjM != -418225910))
+else if ((false) && (O2AjM != -418225910))
 {
 Z79j = ulr1gROA1();
 }
@@ -115,7 +115,7 @@ yaXR = F3vL_();
 }
 }
 }
-else if (fadyDL >= -473266975)
+else if (true)
 {
 std::cout << ulr1gROA1() << lL0JA << zoGVPB380b << f3p_bX << std::endl;
 }
@@ -158,7 +158,7 @@ if (yaXR != 1842281126)
 dv5vHJOj = T4xHC(134832742, -1833198170, 2143312590, -351463879);
 }
 }
-else if (Z79j == 180908997)
+else if (false)
 {
 for (int k = 0; k < 1; ++k)
 {
@@ -198,7 +198,7 @@ else
 O2AjM = F3vL_();
 }
 }
-else if (f3p_bX > 232145756)
+else if (false)
 {
 if (zoGVPB380b > lL0JA)
 {
@@ -260,7 +260,7 @@ O2AjM = (int)(dv5vHJOj * O2AjM);
 }
 for (int i = 4; i >= 0; i--)
 {
-if ((yaXR == dv5vHJOj) && ((G_NI1s <= -1877179756) && (f3p_bX >= Z79j)))
+if ((yaXR == dv5vHJOj) && ((false) && (f3p_bX >= Z79j)))
 {
 try
 {
@@ -273,7 +273,7 @@ o8Od8E = ulr1gROA1();
 }
 else if (O2AjM)
 {
-if (fadyDL == 17326661)
+if (false)
 {
 O2AjM = (int)abs(yaXR);
 }

@@ -31,7 +31,7 @@ int main(int argc, char** argv) {
 
 for (int i = 1; i >= 0; --i)
 {
-if (Fc8L4WB > 987101011)
+if (false)
 {
 if (b685)
 {
@@ -50,7 +50,7 @@ else
 nt5e2++;
 }
 }
-else if (Fc8L4WB >= -1387037719)
+else if (true)
 {
 Fc8L4WB = (short int)(GfHp);
 }
@@ -69,7 +69,7 @@ break;
 }
 else
 {
-if ((GfHp <= -449375986) || (nt5e2 <= lJdZjkv7Fx))
+if ((false) || (nt5e2 <= lJdZjkv7Fx))
 {
 d0BSKB = b685 & 1933347291;
 }
@@ -81,7 +81,7 @@ else if (GfHp > h2t775N7)
 {
 b685 = yW26QZ(b685, I7kRxwl, 1047837111);
 }
-else if (h2t775N7 < 865644452)
+else if (true)
 {
 GfHp = yW26QZ(-147328897, GfHp, -1458649390);
 }
@@ -126,7 +126,7 @@ else
 std::cout << lJdZjkv7Fx << "Q5Z4dj7H" << n1mOl() << std::endl;
 }
 
-if (nt5e2 < 968688465)
+if (true)
 {
 switch (b685)
 {
@@ -177,7 +177,7 @@ break;
 }
 try
 {
-if ((lJdZjkv7Fx >= -1713886908) || (h2t775N7 != 448528860))
+if ((true) || (h2t775N7 != 448528860))
 {
 if (h2t775N7)
 {
@@ -191,7 +191,7 @@ if (d0BSKB == h2t775N7)
 b685 = h2t775N7 - 170223198;
 }
 }
-else if ((lJdZjkv7Fx <= 1626721546) && (Fc8L4WB & lJdZjkv7Fx))
+else if ((true) && (Fc8L4WB & lJdZjkv7Fx))
 {
 d0BSKB = (short int)(Fc8L4WB);
 }
@@ -261,7 +261,7 @@ case 'd':
 nt5e2 = (int)abs(Fc8L4WB);
 break;
 case 'e':
-GfHp = (lJdZjkv7Fx != -1718292921) ? -166980830 : 1600043932;
+GfHp = (true) ? -166980830 : 1600043932;
 break;
 default:
 h2t775N7 = yW26QZ(h2t775N7, -1172887753, d0BSKB);
@@ -272,7 +272,7 @@ break;
 int i = 0;
 do
 {
-if (lJdZjkv7Fx >= 1615621678)
+if (false)
 {
 {
 int k = 0;
@@ -316,7 +316,7 @@ d0BSKB |= 943244272;
 break;
 }
 }
-else if (lJdZjkv7Fx > 2036604858)
+else if (false)
 {
 {
 int k = 0;
@@ -354,7 +354,7 @@ else if (GfHp == I7kRxwl)
 {
 h2t775N7 = (int)abs(nt5e2);
 }
-else if (nt5e2 <= -714194853)
+else if (false)
 {
 nt5e2 = (Fc8L4WB <= -1907502605) ? 957876987 : 300427396;
 }
@@ -367,7 +367,7 @@ else
 lJdZjkv7Fx = SV901re();
 }
 }
-else if (GfHp > -1191332607)
+else if (true)
 {
 if (h2t775N7 >= -155729053)
 {
@@ -427,7 +427,7 @@ int j = 7;
 while (j >= 0)
 {
 j--;
-if (d0BSKB > 1290530164)
+if (false)
 {
 Fc8L4WB = (int)abs(nt5e2);
 }
@@ -502,7 +502,7 @@ try
 {
 for (int j = 0; j < 8; ++j)
 {
-if (lJdZjkv7Fx >= -263764824)
+if (true)
 {
 lJdZjkv7Fx = SV901re();
 }
@@ -602,7 +602,7 @@ GfHp = (int)abs(d0BSKB);
 }
 }
 
-if (lJdZjkv7Fx >= -118207248)
+if (true)
 {
 I7kRxwl = SV901re();
 }

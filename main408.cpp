@@ -233,7 +233,7 @@ else
 {
 if (yYF17 & ETfV0a0Ws)
 {
-if (z6i357v >= 452178737)
+if (false)
 {
 z6i357v = D176h ^ 1966601060;
 }
@@ -463,7 +463,7 @@ eW86eCE = (unsigned long long)(mGpHctWm02);
 
 std::cout << z6i357v << std::endl;
 std::cout << "JhRz7MNO0C" << bgTK1zZwl4 << "cy23hsSq" << dBXCayJM << std::endl;
-if (s3Vb68 < 920238902)
+if (true)
 {
 try
 {

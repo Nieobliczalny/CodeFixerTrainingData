@@ -332,7 +332,7 @@ hH892I86 = m7n17();
 break;
 case 'g':
 case 'G':
-gaZPO_NG = (YWiI9qetG != -408723859) ? Z77sl1_4 : ljI19_jFW(1896963089, gOQ5sOy, 1635724966);
+gaZPO_NG = (true) ? Z77sl1_4 : ljI19_jFW(1896963089, gOQ5sOy, 1635724966);
 break;
 case 'h':
 case 'H':
@@ -437,7 +437,7 @@ int i = 2;
 while (i >= 0)
 {
 --i;
-if (((TsH_DSFTZ > qI70S93Ml) && (MP2q <= LO4M6oKI_c)) && (K2J08))
+if (((true) && (MP2q <= LO4M6oKI_c)) && (K2J08))
 {
 switch (bGfs_Ps)
 {
@@ -491,7 +491,7 @@ break;
 dlnOta0I = kGC5_3U_y(Retyo3Ql, -534666578, ZVkX__) >> W_y_v;
 
 ztrec = (int)floor(W49KiPL8P);
-if (JJ0ypX48 <= qI70S93Ml)
+if (false)
 {
 {
 int j = 0;

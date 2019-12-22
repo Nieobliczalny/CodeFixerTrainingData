@@ -33,7 +33,7 @@ int main(void)
  d74E5 = 1152548562;
 
 Bns0Psp = W3YO6RM_(Bns0Psp, -1374179164, d74E5);
-if ((Z7y9I <= -418875546) || (LE1H8qehI))
+if ((false) || (LE1H8qehI))
 {
 if (LE1H8qehI < het00tD)
 {
@@ -72,7 +72,7 @@ d74E5 >>= 344231176;
 }
 for (int i = 5; i >= 0; i--)
 {
-if (Z7y9I >= Qim_Kb7)
+if (false)
 {
 {
 int k = 8;
@@ -97,7 +97,7 @@ else if ((Bns0Psp > lw87rDTOa) || (Bns0Psp & if6D97L3_))
 {
 Z7y9I = W3YO6RM_(Z7y9I, 831391414, -173670597);
 }
-else if ((Bns0Psp & R24H__) || (Z7y9I >= 949855585))
+else if ((Bns0Psp & R24H__) || (false))
 {
 d74E5 = Qim_Kb7 ^ 514142864;
 }
@@ -111,7 +111,7 @@ LE1H8qehI = W3YO6RM_(LE1H8qehI, -2098939479, Bns0Psp);
 int i = 0;
 do
 {
-if ((Bns0Psp < LE1H8qehI) || (Z7y9I != Qim_Kb7))
+if ((Bns0Psp < LE1H8qehI) || (true))
 {
 try
 {
@@ -137,7 +137,7 @@ else if ((Z7y9I) && (LE1H8qehI < 553712074))
 {
 std::cout << W3YO6RM_(662575428, -2090476239, -1549689774) << yY0c_2y3uQ << Z7y9I << "JZNJ" << W3YO6RM_(yY0c_2y3uQ, 876897186, -296156013) << std::endl;
 }
-else if (R24H__ < 1609223504)
+else if (true)
 {
 if ((yY0c_2y3uQ < het00tD) && (yY0c_2y3uQ & R24H__))
 {
@@ -150,7 +150,7 @@ d74E5 *= yY0c_2y3uQ;
 }
 else if (LE1H8qehI > 32340709)
 {
-if (((Z7y9I < -1085050397) || (R24H__ >= if6D97L3_)) || ((Z7y9I <= Y1IgLw9) && (LE1H8qehI & if6D97L3_)))
+if (((false) || (R24H__ >= if6D97L3_)) || ((Z7y9I <= Y1IgLw9) && (LE1H8qehI & if6D97L3_)))
 {
 R24H__ = W3YO6RM_(-978273422, 1048554053, 174956289);
 }
@@ -172,7 +172,7 @@ i++;
 while (i < 4);
 }
 
-if (R24H__ < if6D97L3_)
+if (true)
 {
 if (d74E5 < Bns0Psp)
 {
@@ -251,7 +251,7 @@ R24H__ = (int)abs(LE1H8qehI);
 }
 }
 }
-else if ((yY0c_2y3uQ & 1706368176) || ((R24H__ < if6D97L3_) && (Bns0Psp == -578618788)))
+else if ((yY0c_2y3uQ & 1706368176) || ((true) && (Bns0Psp == -578618788)))
 {
 try
 {

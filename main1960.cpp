@@ -40,7 +40,7 @@ case 1:
 dMx27 = dMx27 | 1025506319;
 break;
 case 2:
-CaX6YD = (Sb35OtGc2O < -1216583557) ? Ru12U6BT : 2134202019;
+CaX6YD = (false) ? Ru12U6BT : 2134202019;
 break;
 case 3:
 l01sgJ = t2c3rXGE(l01sgJ, G5HA_4, 751427309);
@@ -98,7 +98,7 @@ lwkAVi = WY23(WJUe20SzUT, P53KR, qJYkCbq5P) - pcvyc;
 
 lwkAVi = TWIQQSc5V / yuc81m;
 
-if (fL_6sS > 1795288598)
+if (false)
 {
 EMTcwj5 += bczeU0O;
 }

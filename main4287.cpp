@@ -132,7 +132,7 @@ case 'D':
 cCe01F |= MZ2TVc;
 break;
 }
-if ((UcikEV != 245587702) || (y5PrLccR08 >= 350895223))
+if ((true) || (y5PrLccR08 >= 350895223))
 {
 switch (yz2mky)
 {
@@ -158,7 +158,7 @@ XQq7 = (unsigned char)(rM6rwBO);
 gVt4p = QEM94Gqnd(FHf_);
 y5PrLccR08 = (unsigned short)(rM6rwBO);
 
-if (Fju4B7pxY != 1557147877)
+if (true)
 {
 switch (Z2Zv45O)
 {
@@ -199,7 +199,7 @@ case 'b':
 r3Hh = elsgA31D2 | wRTo2o0u;
 break;
 case 'c':
-UcikEV = (y5PrLccR08 > 1176030788) ? os890_6syQ : Lv1c6O;
+UcikEV = (false) ? os890_6syQ : Lv1c6O;
 break;
 }
 }
@@ -243,7 +243,7 @@ while (j < 9);
 }
 else if (((ae0sx <= 90637398) || (mJi_E49Os < Fju4B7pxY)) && ((yz2mky & 1539212249) || (t4___I6_ <= amqj)))
 {
-if (Fju4B7pxY > -1239584430)
+if (true)
 {
 try
 {
@@ -281,7 +281,7 @@ std::cout << uDOXD << A562PRJ << QEM94Gqnd(-248965157) << std::endl;
 }
 while (i < 7);
 }
-if (at72pcg8 <= -550763157)
+if (false)
 {
 y435 = (int)floor(QiZq8C);
 }

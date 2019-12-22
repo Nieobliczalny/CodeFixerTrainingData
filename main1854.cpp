@@ -86,7 +86,7 @@ MB_kh8N += 2104373330;
 break;
 }
 
-if (Y9k6_4qI8y == 722736757)
+if (false)
 {
 for (int j = 4; j >= 0; j--)
 {
@@ -120,7 +120,7 @@ else if (((f95V & xB237W) || (MB_kh8N == z472QiBhdF)) || (z8u3_IT))
 int j = 7;
 while (j >= 0)
 {
-if (((Y9k6_4qI8y == xB237W) || (f95V)) || (WRdz10S27 > R_srn6))
+if (((false) || (f95V)) || (WRdz10S27 > R_srn6))
 {
 Zq1jSXCt_ = (int)ceil(fu482);
 }
@@ -178,7 +178,7 @@ Zq1jSXCt_ += AUbV8Nlu;
 break;
 }
 }
-else if (WRdz10S27 < xB237W)
+else if (false)
 {
 Y9k6_4qI8y = x1F9R(Y9k6_4qI8y, z8u3_IT, -473736055);
 }
@@ -247,7 +247,7 @@ o1AMU = (long long)(xB237W);
 
 for (int i = 0; i < 1; i++)
 {
-if ((MB_kh8N > R_srn6) || (MB_kh8N < AUbV8Nlu))
+if ((false) || (MB_kh8N < AUbV8Nlu))
 {
 switch (vsNLf__)
 {
@@ -300,7 +300,7 @@ XN8Zo = hG2y2(446042139);
 int i = 0;
 while (i < 10)
 {
-if ((f95V) || ((f95V < xB237W) && (Zq1jSXCt_ <= xB237W)))
+if ((f95V) || ((false) && (Zq1jSXCt_ <= xB237W)))
 {
 switch (AUbV8Nlu)
 {

@@ -25,7 +25,7 @@ if (pZjB25 >= 1545195523)
 {
 cout << "KPTk5DZ3o0" << Yq0d33 << "XH15EQ8" << Co5R << endl;
 }
-else if ((zV6_W5P <= 847896917) || (t9Bka_72 <= 217390101))
+else if ((true) || (t9Bka_72 <= 217390101))
 {
 switch (zV6_W5P)
 {

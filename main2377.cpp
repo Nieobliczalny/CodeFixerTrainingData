@@ -112,7 +112,7 @@ int j = 3;
 do
 {
 j--;
-if (onwTAd7Z6 > 1215704539)
+if (false)
 {
 tQpr51fqQr = bLw_8 | Q5LSv;
 }
@@ -181,7 +181,7 @@ p5vGa5h42D = j9h8y / n71bT3m;
 WjI72tNVC = (float)(HKeO);
 if (eq0mYdMVO)
 {
-if (onwTAd7Z6 >= -1275214816)
+if (true)
 {
 bLw_8 = (unsigned char)(ou_kzXRS);
 }
@@ -223,7 +223,7 @@ case 5:
 ie98Dnmi %= 1711328663;
 break;
 case 6:
-p5vGa5h42D = (f2k3 == 290283490) ? XVPhn6 : p5vGa5h42D;
+p5vGa5h42D = (false) ? XVPhn6 : p5vGa5h42D;
 break;
 case 7:
 o9wtYA = B8GXMAsEcC / 1504369362;

@@ -347,7 +347,7 @@ KOifPYwWA = Knv994Lp >> WH1_7xwD;
 }
 }
 }
-else if ((i_0Q_v != asB858of0H) || (j5NKCe >= -1879460271))
+else if ((i_0Q_v != asB858of0H) || (true))
 {
 N34N = (unsigned long)(P1_ze1);
 }
@@ -463,7 +463,7 @@ BV1XMVIMX += WH1_7xwD;
 }
 else if (((rLbdkCo & -207722737) || (K7y7o <= Jf9aJ2NSc)) || ((v59LA < VHlwpZ8D) || (J2DkAaBug)))
 {
-if (v63KrwwC < P1_ze1)
+if (true)
 {
 try
 {

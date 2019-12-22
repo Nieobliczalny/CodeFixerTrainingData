@@ -94,7 +94,7 @@ ISu0hhh = x0_mPcep + skFYyz;
 while (j >= 0);
 }
 }
-else if ((WLtUt9BK < -264319530) && ((wKWqN_zNgG > 858313905) && (zoXK != w266x)))
+else if ((WLtUt9BK < -264319530) && ((false) && (zoXK != w266x)))
 {
 for (int j = 10; j >= 0; --j)
 {
@@ -184,7 +184,7 @@ int i = 0;
 while (i < 10)
 {
 i++;
-if (x0_mPcep != 1545296805)
+if (true)
 {
 {
 int k = 2;
@@ -298,7 +298,7 @@ i++;
 }
 }
 cout << h7lHO1K1 << EZ8Xoi << I1WF << "Jp4471_ZC" << endl;
-if (((wKWqN_zNgG < MMQWI9p73) && (XUq4ZjI0_y >= wKWqN_zNgG)) || (A3JG >= MMQWI9p73))
+if (((true) && (XUq4ZjI0_y >= wKWqN_zNgG)) || (A3JG >= MMQWI9p73))
 {
 cout << "BRIRz" << "UN0FqQZ4" << "x0nGoFbe" << "FPo0AoiR5" << endl;
 }
@@ -308,7 +308,7 @@ if (t85rKr1I0V == 1230502417)
 {
 cout << U6jbX << "T8kP4A4" << KUl8m6D75D << endl;
 }
-else if (((V0qJkngS != 226979874) || (G6GlOxK != BGKNmx5PM)) || (g0ZZ > 1851687326))
+else if (((true) || (G6GlOxK != BGKNmx5PM)) || (g0ZZ > 1851687326))
 {
 if (Q6Pw9 >= BGKNmx5PM)
 {
@@ -493,7 +493,7 @@ j495DPx++;
 
 for (int i = 1; i >= 0; --i)
 {
-if ((G6GlOxK <= MMQWI9p73) || (x0_mPcep & TNbIxI_wL))
+if ((true) || (x0_mPcep & TNbIxI_wL))
 {
 try
 {

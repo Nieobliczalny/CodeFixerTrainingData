@@ -45,7 +45,7 @@ ug_kjIfhg = 1889999337 / uxl4(-1754513549, 1160977903, Q6hdW10e1);
 
 Q6hdW10e1 |= kn41;
 
-if ((ml_V <= -725011312) || ((LAxpr0s5J <= vcwGYff) && (z5oCi != wZh9D1E)))
+if ((false) || ((LAxpr0s5J <= vcwGYff) && (z5oCi != wZh9D1E)))
 {
 {
 int j = 0;
@@ -79,7 +79,7 @@ else if (KtCO & -1213303602)
 {
 kn41 -= p_qdkwe;
 }
-else if (ug_kjIfhg < -558625358)
+else if (false)
 {
 try
 {

@@ -196,7 +196,7 @@ while (i >= 0);
 
 cout << c5Gt << L33nS_n << endl;
 
-if ((uSlL == -2045642931) && (cwDnx7P112 < 1772909978))
+if ((uSlL == -2045642931) && (true))
 {
 if ((URMBsg5sg <= 588349928) || (oZQqSq))
 {
@@ -230,7 +230,7 @@ break;
 }
 }
 }
-else if ((aah8e1j3 <= -1362285292) || ((L33nS_n < 824231862) || (Aj1rnisv6e)))
+else if ((false) || ((L33nS_n < 824231862) || (Aj1rnisv6e)))
 {
 u5Kt0 = (unsigned long long)(Q01vr8);
 }
@@ -248,7 +248,7 @@ for (int j = 2; j >= 0; --j)
 Wz53 = Et7dPpLV4D(Wz53, uSlL, -228503676, -993937511, z6oC);
 }
 }
-else if (((JOP8 > -118706205) && (xm7yXeU9 != 498870989)) && (Wp0a6dc > 2093494133))
+else if (((true) && (xm7yXeU9 != 498870989)) && (Wp0a6dc > 2093494133))
 {
 try
 {
@@ -267,7 +267,7 @@ catch (int& errorCode)
 Y1jA__ = HzAsdRaP03(-853231574, 730925903, URMBsg5sg, WeYOsU);
 }
 }
-else if ((Y1jA__ >= -376815000) || ((ucemPVfk & -1502224877) && (Wz53 & 1565192860)))
+else if ((true) || ((ucemPVfk & -1502224877) && (Wz53 & 1565192860)))
 {
 oLiVGx = (double)(uZRCPt);
 }
@@ -308,7 +308,7 @@ else if (uSlL < HL49)
 {
 cout << "S7Dj87_7p5" << HzAsdRaP03(-1491800073, -1032314962, UtLk, -250389593) << endl;
 }
-else if ((gIL5_6 >= -604981727) && (d0nf < 58491292))
+else if ((true) && (d0nf < 58491292))
 {
 if (DKRtj9g < -859713163)
 {
@@ -336,7 +336,7 @@ t54V8u = (int)abs(gIL5_6);
 break;
 }
 }
-else if ((Aj1rnisv6e == 354010185) && ((laCnXxg97o == -105918979) && (Wz53 != -1688382890)))
+else if ((false) && ((laCnXxg97o == -105918979) && (Wz53 != -1688382890)))
 {
 {
 int k = 0;
@@ -403,7 +403,7 @@ Gl0s5_ = g0R_HT0 << 670353983;
 cout << Et7dPpLV4D(-1845405718, UtLk, -289894358, 1870470275, Q01vr8) << "fP4p1V1z43" << HzAsdRaP03(772613289, UtLk, vE7ArC1o2S, E6C__N_s1G) << GKS0hgl0 << endl;
 try
 {
-if ((Aj1rnisv6e > 1228589676) || ((uZRCPt != Vb8N) || (k2Akp != oLiVGx)))
+if ((false) || ((uZRCPt != Vb8N) || (k2Akp != oLiVGx)))
 {
 if (xE58NRc >= 1001148553)
 {
@@ -422,7 +422,7 @@ c5Gt = (int)abs(ZggjhG1x);
 
 if (Wp0a6dc & -1311467782)
 {
-if (laCnXxg97o <= 989386300)
+if (true)
 {
 {
 int k = 8;

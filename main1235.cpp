@@ -34,7 +34,7 @@ catch (int& errorCode)
 ogQMGejiM = B_79x(ZkzuP3g40, -907280908, -1556481700, -1161937591);
 }
 }
-else if (vhXoE4 <= eR40AScJ)
+else if (false)
 {
 {
 int j = 0;
@@ -56,7 +56,7 @@ else if (vlTxXN_f5 & -2022538702)
 {
 f313gM5KU *= vhXoE4;
 }
-else if (((RSsag917 != y4pm01quM) || (r_uu > Gk__8ilp)) || ((ZkzuP3g40) || (lfKzj4fw25)))
+else if (((true) || (r_uu > Gk__8ilp)) || ((ZkzuP3g40) || (lfKzj4fw25)))
 {
 switch (ogQMGejiM)
 {
@@ -80,7 +80,7 @@ smd8O7 = B_79x(loR9_a, 531283517, 1743266043, 1892201297) - 731646090;
 break;
 }
 }
-else if (T0U_0sK <= eR40AScJ)
+else if (false)
 {
 ogQMGejiM = B_79x(A1BZ, Y664, -1671812657, smd8O7);
 }
@@ -124,7 +124,7 @@ default:
 lfKzj4fw25 = l77N << d_jK;
 break;
 }
-if (((RSsag917 >= eR40AScJ) && (d_jK < b86L7)) && (qgk3 >= -501697459))
+if (((true) && (d_jK < b86L7)) && (qgk3 >= -501697459))
 {
 k7TDq = (unsigned short int)(r_uu);
 }

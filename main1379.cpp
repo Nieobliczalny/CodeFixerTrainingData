@@ -113,7 +113,7 @@ case 5:
 NX7p %= 623046510;
 break;
 }
-if ((iS82_7QVc4 <= 1320513195) || (cmV10DOP8 > 1003201809))
+if ((true) || (cmV10DOP8 > 1003201809))
 {
 SD7Sh = (int)floor(Ka1wO24);
 }
@@ -191,7 +191,7 @@ Ou2_ = (float)(kF5wLY);
 
 for (int i = 0; i < 4; i++)
 {
-if (((B0vj9J2z9 <= -1958062330) || (I4gv2WXOzZ == 1017338382)) && (K05U != -1661528423))
+if (((false) || (I4gv2WXOzZ == 1017338382)) && (K05U != -1661528423))
 {
 KqR9c6_ = Ruz4YD ^ 333218473;
 }
@@ -224,7 +224,7 @@ Ou2_ = (int)floor(KqR9c6_);
 while (j >= 0);
 }
 }
-else if ((ElG5a == 1370432670) || (c7l23Nrnm <= -377714992))
+else if ((false) || (c7l23Nrnm <= -377714992))
 {
 cout << "DurTj_" << endl;
 }

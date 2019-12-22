@@ -219,7 +219,7 @@ Q9vEmtb = (int)ceil(b97n8g3);
 HnHWB--;
 
 std::cout << "O5meO" << std::endl;
-HyCV = (HyCV == Fb52h) ? kNA0maW9g_ : -70236783;
+HyCV = (false) ? kNA0maW9g_ : -70236783;
 return 0;
 }
 

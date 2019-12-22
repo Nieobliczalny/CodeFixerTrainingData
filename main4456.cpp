@@ -409,7 +409,7 @@ if (j_5z8hEsrN <= 1527148539)
 {
 NHs_GO8iz &= LVA2hZg51;
 }
-else if ((SWj_ < 2092927019) || ((Fz247j73tb != 657929854) && (Vf8AS4 & xqh6Xy8)))
+else if ((SWj_ < 2092927019) || ((true) && (Vf8AS4 & xqh6Xy8)))
 {
 wCK77R = (int)ceil(ex_lSRR82d);
 }

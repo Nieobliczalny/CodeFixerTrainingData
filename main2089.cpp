@@ -120,7 +120,7 @@ int main(int argc, char** argv) {
 	unsigned short	q_K722k_;
 	q_K722k_	=	-1466788013;
 
-if (oe0EViwzs < SzY_yUw)
+if (false)
 {
 tzE9 = (int)floor(f5OhPrrS8D);
 }
@@ -148,7 +148,7 @@ else
 {
 xqB_c = YcC7Wjl(694741295, -1544347046, U4tbq7);
 }
-if ((f7OtE_4F39 != 1402390029) && (w__9c == -1587063893))
+if ((true) && (w__9c == -1587063893))
 {
 o576z3 = KMASN + sxYQ2PCF;
 }
@@ -220,7 +220,7 @@ Rrq3uI1LB = YcC7Wjl(Rrq3uI1LB, f7OtE_4F39, -1051634687);
 break;
 }
 }
-else if (LPvtj5t_ > 1609294415)
+else if (false)
 {
 cout << HqdqDwip(Rrq3uI1LB, f7OtE_4F39) << GnwxfE_ze << HqdqDwip(Rrq3uI1LB, -2027934180) << B_sH << endl;
 }

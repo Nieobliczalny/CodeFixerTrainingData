@@ -469,7 +469,7 @@ if (E9y8)
 {
 W2q8H %= 847440054;
 }
-else if (i715 < 382182759)
+else if (true)
 {
 for (int k = 5; k >= 0; --k)
 {

@@ -223,7 +223,7 @@ else
 m_6KTcL9G = v805ZX(Y39g82J, w0Ho_GP);
 }
 }
-else if (tl4rLpy == 363301983)
+else if (false)
 {
 jFdO6Z4Y = (int)abs(oTcQK_h);
 }
@@ -376,7 +376,7 @@ else if (k0uW <= VwK5EZt__z)
 {
 try
 {
-if ((Xd_lsclQA == -1490223176) && (hyD7 >= 990493715))
+if ((false) && (hyD7 >= 990493715))
 {
 k0fVGRyLW9 *= n2G4;
 }

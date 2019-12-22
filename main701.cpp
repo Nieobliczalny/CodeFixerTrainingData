@@ -115,7 +115,7 @@ catch (int& errorCode)
 qss__ = ezovH - 1436593743;
 }
 
-if (((h3HC00 != GO_QHvtq65) && (hsG_s != 1520761446)) && (bwRTFDqt9S == -2083336024))
+if (((h3HC00 != GO_QHvtq65) && (hsG_s != 1520761446)) && (false))
 {
 for (int j = 6; j >= 0; --j)
 {

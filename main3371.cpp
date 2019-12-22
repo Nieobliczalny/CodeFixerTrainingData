@@ -113,7 +113,7 @@ int main(void)
 BEZ9y_On63 *= E3toWV;
 
 Db_6hKE = (LzwS_QC8T & -1613483170) ? -877023996 : DcxUr335R;
-if (xLxa < -1493640965)
+if (false)
 {
 {
 int j = 10;
@@ -131,7 +131,7 @@ cECt_kf_M = (Tur8z9GtFX) ? 133894452 : M71PUJda;
 }
 }
 }
-else if ((LXjA9) || ((w9Io < TW8xbIu) && (RG5AI2FZ < -2007236241)))
+else if ((LXjA9) || ((w9Io < TW8xbIu) && (false)))
 {
 if (((O9P0L >= 1440526914) || (N5i3L)) || (L92Jll))
 {
@@ -145,7 +145,7 @@ else if (qv0_F <= CTWoCcs2_h)
 {
 std::cout << "J9JcC" << "mY_4Ep6kW" << std::endl;
 }
-else if (((laY7T7SAFy != -1044666404) || (aBidZJ0)) || (u6oN))
+else if (((true) || (aBidZJ0)) || (u6oN))
 {
 dvh8R628Rg = (unsigned short int)(D7oVwg);
 }
@@ -210,7 +210,7 @@ F4EM_ = dvh8R628Rg % 611258326;
 break;
 }
 
-if (L92Jll == -1125924941)
+if (false)
 {
 for (int j = 8; j >= 0; j--)
 {
@@ -235,7 +235,7 @@ std::cout << "bnY_h66" << CHrFv << std::endl;
 
 std::cout << KaU0XNr8U << U2R9wU_lf << "Rq1hyM" << std::endl;
 
-if (c3SQcu2D >= 147242096)
+if (false)
 {
 std::cout << dfm_03 << H0R2VYfl2M << std::endl;
 }
@@ -363,7 +363,7 @@ if (t2nL37 <= v1_VE)
 {
 vO081H4 &= C9oYCN;
 }
-else if (((E3toWV != E333V) && (vO081H4 < 1294000319)) && (y8sm59 > KBtbll))
+else if (((E3toWV != E333V) && (true)) && (y8sm59 > KBtbll))
 {
 try
 {
@@ -401,7 +401,7 @@ while (k < 6);
 }
 else
 {
-if ((U5o_vNP != -1898927606) && (crKfC6i == iKO26t8))
+if ((true) && (crKfC6i == iKO26t8))
 {
 crKfC6i += 625089073;
 }
@@ -455,7 +455,7 @@ spR3 &= PE3nK;
 break;
 }
 }
-if ((u4KiOQ_G < 13381818) || (FaNm2n))
+if ((true) || (FaNm2n))
 {
 {
 int j = 0;
@@ -470,7 +470,7 @@ j++;
 while (j < 8);
 }
 }
-else if (Tur8z9GtFX == 1344992548)
+else if (false)
 {
 std::cout << pZUv801__Q << std::endl;
 }
@@ -480,7 +480,7 @@ C9oYCN = (unsigned short int)(pAiZCE5oXD);
 }
 else
 {
-if ((qv0_F == 304872016) || ((RG5AI2FZ > hK8z) && (DHMXi)))
+if ((false) || ((RG5AI2FZ > hK8z) && (DHMXi)))
 {
 iKO26t8 = dvh8R628Rg / 958036118;
 }
@@ -523,7 +523,7 @@ int i = 9;
 while (i >= 0)
 {
 --i;
-if (FT3A8Xz > 1714309687)
+if (false)
 {
 {
 int k = 8;

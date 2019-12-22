@@ -130,7 +130,7 @@ while (j < 8);
 }
 }
 }
-if (zhPeL > 584738978)
+if (false)
 {
 {
 int j = 0;
@@ -354,7 +354,7 @@ catch (int& errorCode)
 RLKhucF = (int)ceil(e7ljT3);
 }
 aa6TtG7q2 = FKal2Yr0JP >> TRH5I_m;
-if (Z9rYexSOKs != -1513451128)
+if (true)
 {
 A5A27aWMj = Z5a9(ClurPFs, -1562638697, F2xxT2, SCnpoS6);
 }

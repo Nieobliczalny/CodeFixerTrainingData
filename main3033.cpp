@@ -320,7 +320,7 @@ HV8z = (unsigned short)(rDm42);
 }
 else if (KK_OmRqdw <= -1776345550)
 {
-if (((j5bIXtdT > 1288254646) || (S007 >= Jqb_6)) || (bU41O <= -1439911790))
+if (((j5bIXtdT > 1288254646) || (S007 >= Jqb_6)) || (false))
 {
 std::cout << rDm42 << L5HuLg8(bIW2, 319720304) << Gotc_q25T7 << s5BS4x27D << std::endl;
 }
@@ -420,7 +420,7 @@ CT8s3 = (int)abs(wuu5Jc0tUe);
 }
 while (i < 9);
 }
-if (bIW2 != -853373900)
+if (true)
 {
 if (xdki4e != -615449766)
 {
@@ -434,7 +434,7 @@ tamfdw = L5HuLg8(v2wCV9R51, 1133755361) % QLLZor;
 
 if (JL0AByicM >= s5BS4x27D)
 {
-if (tamfdw == 1224172752)
+if (false)
 {
 for (int k = 0; k < 4; ++k)
 {

@@ -171,7 +171,7 @@ if (VNe9MwaJTY & ZYmUvE)
 {
 W_geSyBC = PgwM(W_geSyBC, 404118890, -1742203610, 1581198448);
 }
-else if (eZlm3uLr != 456206794)
+else if (true)
 {
 dm6uM6_dj = (unsigned char)(PGf__);
 }

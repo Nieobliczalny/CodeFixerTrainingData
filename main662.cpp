@@ -56,7 +56,7 @@ else if (XuRi == 428677716)
 {
 cout << Y1OPqFn78() << endl;
 }
-else if (VL3u != 328093915)
+else if (true)
 {
 cout << gJUWz3nU << KpyA << "MGdvej" << QCJq(-1355097673, 1179547718, vfz9q862, VL3u, -149754542) << endl;
 }
@@ -86,7 +86,7 @@ else if (dEixD1s7 != Ern16)
 {
 XuRi = Y1OPqFn78();
 }
-else if (((U7n1F9iTU != v7o5) && (qL57XP <= -683757666)) && ((qL57XP == 2082633459) || (XuRi == AaP26v2o)))
+else if (((U7n1F9iTU != v7o5) && (false)) && ((qL57XP == 2082633459) || (XuRi == AaP26v2o)))
 {
 ie0xgJf = dEixD1s7 / VL3u;
 }

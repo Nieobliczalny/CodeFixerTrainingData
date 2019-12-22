@@ -28,7 +28,7 @@ int main()
     unsigned short int    gjowK    =    0;
   unsigned short  q3_dj  =  1778760402;
 
-if (IesJX__X2 >= 705018027)
+if (false)
 {
 bs0Q2 = (int)abs(IesJX__X2) + (-395035178);
 }
@@ -47,7 +47,7 @@ VcN3 = (int)abs(Zhx3);
 while (j >= 0);
 }
 }
-else if ((bs0Q2 < -409344353) || (gjowK > dAaC3Ky0B))
+else if ((false) || (gjowK > dAaC3Ky0B))
 {
 if (Zhx3 <= -364073899)
 {
@@ -60,7 +60,7 @@ else
 IesJX__X2 = (int)abs(Zhx3) * 0;
 }
 }
-else if (((IesJX__X2 & VcN3) && (bs0Q2 >= qwl_)) || (IesJX__X2 == -619542097))
+else if (((IesJX__X2 & VcN3) && (bs0Q2 >= qwl_)) || (false))
 {
 std::cout << dAaC3Ky0B << t_4LaoM() << "aRHj_4T99" << "NN3c133d3q" << std::endl;
 }
@@ -71,7 +71,7 @@ IesJX__X2 = t_4LaoM();
 }
 else
 {
-if (bs0Q2 <= 1599852072)
+if (true)
 {
 {
 int k = 0;
@@ -85,7 +85,7 @@ while (k < 2);
 }
 else
 {
-if (pJVhU >= 1987954168)
+if (false)
 {
 q3_dj = IesJX__X2 * pJVhU;
 }
@@ -174,7 +174,7 @@ else if (qwl_ < Zhx3)
 {
 dAaC3Ky0B = mp65(dAaC3Ky0B, Zhx3, -2056405501, VcN3, IesJX__X2);
 }
-else if (IesJX__X2 == 370530464)
+else if (false)
 {
 q3_dj = mp65(1403272559, gjowK, -209694077, IesJX__X2, -1463562719);
 }
@@ -187,7 +187,7 @@ else if (dAaC3Ky0B >= VcN3)
 {
 std::cout << qwl_ << std::endl;
 }
-else if (IesJX__X2 > 1359106809)
+else if (false)
 {
 if (dAaC3Ky0B > -1247576115)
 {
@@ -228,7 +228,7 @@ if (VcN3 <= -1711041434)
 {
 try
 {
-if ((gjowK < -1004536709) && ((IesJX__X2 <= 808884626) || (qwl_ & 927169077)))
+if ((false) && ((IesJX__X2 <= 808884626) || (qwl_ & 927169077)))
 {
 qwl_ = t_4LaoM();
 }
@@ -332,7 +332,7 @@ Zhx3 = (int)abs(IesJX__X2) + (48057283);
 break;
 }
 }
-else if (gjowK < -1788667894)
+else if (false)
 {
 if (VcN3 != qwl_)
 {
@@ -449,7 +449,7 @@ break;
 }
 else if (Zhx3 <= -54090844)
 {
-if (((bs0Q2 >= 1561435630) && (IesJX__X2 == -1954544667)) || (pJVhU <= -380241686))
+if (((false) && (IesJX__X2 == -1954544667)) || (pJVhU <= -380241686))
 {
 dAaC3Ky0B = q3_dj >> 1126611408;
 }

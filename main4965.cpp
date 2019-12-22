@@ -60,7 +60,7 @@ int main(int argc, char** argv)
 	double	CDY7x0AN_4;
 	CDY7x0AN_4	=	-34404376;
 
-if (M9rNEQi != t6mmW)
+if (true)
 {
 VZ4YBE = (int)abs(pbJ6s_) * 0;
 }
@@ -120,7 +120,7 @@ WubZ5vzli5 = j3tZ66(-2077888479, WubZ5vzli5);
 break;
 }
 }
-else if (((t4or92 > t6mmW) || (bzQXoi_N != 1187933082)) && (ee2Xn3_BY != -2106834801))
+else if (((t4or92 > t6mmW) || (true)) && (ee2Xn3_BY != -2106834801))
 {
 VZ4YBE = j3tZ66(S718b, PvE3o);
 }
@@ -227,7 +227,7 @@ else
 {
 try
 {
-if ((tlb9pH263) || (PvE3o > D_K_kW5_z5))
+if ((tlb9pH263) || (true))
 {
 bzQXoi_N = j3tZ66(ECEQ, -409318978);
 }
@@ -239,7 +239,7 @@ else if ((PvE3o == 1763340969) || ((WKWFimFf != VZ4YBE) && (M9rNEQi <= -16602777
 {
 VZ4YBE = j3tZ66(tlb9pH263, 428293898);
 }
-else if (((PvE3o < -1087501753) && (qoL4I <= y_2IM_4)) && (WubZ5vzli5 > -708373428))
+else if (((false) && (qoL4I <= y_2IM_4)) && (WubZ5vzli5 > -708373428))
 {
 bzQXoi_N = j3tZ66(-1135194674, jV4OElp);
 }
@@ -259,7 +259,7 @@ jV4OElp = vy__p7s(-475493961, -2129325330);
 }
 cout << j3tZ66(658960110, ewrVyL7fq1) << Z8C0A8Zsg << j0X21_4Z(jV4OElp, ewrVyL7fq1, -1458197102) << vy__p7s(jV4OElp, 1101366758) << "PY6Ux8x" << endl;
 
-if ((tlb9pH263 > F5IOaISd) && (jV4OElp == -1780231996))
+if ((tlb9pH263 > F5IOaISd) && (false))
 {
 for (int j = 0; j < 3; ++j)
 {

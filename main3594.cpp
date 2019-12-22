@@ -97,7 +97,7 @@ int main()
     int    Q5cAaBpZnt    =    908181071;
   short  jD4vv0  =  -1230695077;
 
-if (((HW105S) || (N4s6mcLIL < Cb8i1kE)) && (z29D9A9C == 34959343))
+if (((HW105S) || (N4s6mcLIL < Cb8i1kE)) && (false))
 {
 jTk5 = (int)floor(rX9b_);
 }
@@ -242,7 +242,7 @@ pbzcc = (int)floor(jTk5);
 
 for (int i = 1; i >= 0; i--)
 {
-if (ebIIw0_7tB < 330559226)
+if (true)
 {
 tEGR536G = (double)(NYZ2u);
 }

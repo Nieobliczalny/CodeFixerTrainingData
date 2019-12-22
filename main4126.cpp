@@ -140,7 +140,7 @@ break;
 }
 while (i < 5);
 }
-if (L3xx6 <= odtl)
+if (true)
 {
 switch (q0O79bC0T)
 {
@@ -266,7 +266,7 @@ thHQ = (int)abs(f7hqklKLF);
 break;
 }
 }
-else if (NnFhEZ0Ql <= 1813307963)
+else if (true)
 {
 {
 int k = 0;

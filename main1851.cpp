@@ -158,7 +158,7 @@ break;
 
 for (int i = 10; i >= 0; --i)
 {
-if (dr66 <= -42234730)
+if (false)
 {
 try
 {
@@ -193,7 +193,7 @@ JB1v79FC9r = (int)ceil(lna6EtV);
 while (k >= 0);
 }
 }
-else if (((nCB8liBzpY < KX75) && (KOSu96e <= 696713167)) && (UTO2_d == -1319636652))
+else if (((nCB8liBzpY < KX75) && (true)) && (UTO2_d == -1319636652))
 {
 RgTw5Aq = Q8b4g1d(866522026);
 }

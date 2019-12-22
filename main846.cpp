@@ -251,7 +251,7 @@ int i = 0;
 while (i < 1)
 {
 i++;
-if (((vVMhMsC5gE == jAPqyYH8) && (NKQ_ >= jAPqyYH8)) && (TsAPDl != -883636364))
+if (((false) && (NKQ_ >= jAPqyYH8)) && (TsAPDl != -883636364))
 {
 {
 int k = 0;
@@ -345,7 +345,7 @@ else if (b20Z1e <= nedT4Vqs)
 {
 for (int j = 0; j < 9; j++)
 {
-if (jv88e > 2122287613)
+if (false)
 {
 NKQ_ = M08XsBZ(NKQ_);
 }
@@ -359,7 +359,7 @@ QqRi91 = vVMhMsC5gE + 167862465;
 }
 }
 }
-else if (NKQ_ > z_d806ocI)
+else if (true)
 {
 YE9fjIgN2 = (int)ceil(H7tr_);
 }
@@ -460,7 +460,7 @@ Xx6w3 = (unsigned long long)(nLDa);
 
 QL96Yva1 = (int)ceil(FF57H);
 
-if ((YE9fjIgN2 > -1095574860) || (KfN9 >= -1711030048))
+if ((YE9fjIgN2 > -1095574860) || (true))
 {
 {
 int j = 4;
@@ -496,7 +496,7 @@ while (k >= 0);
 }
 }
 }
-else if (NKQ_ != 1928050332)
+else if (true)
 {
 {
 int j = 9;
@@ -569,7 +569,7 @@ catch (int& errorCode)
 {
 r164_3NM9 = (int)abs(vrLdkPPK);
 }
-if (nLDa == z_d806ocI)
+if (false)
 {
 nCr1_ = (unsigned long)(ACg_);
 }

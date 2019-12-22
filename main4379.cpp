@@ -211,7 +211,7 @@ else if (IYa0jef8y < 1987380137)
 {
 if (H47Lyn & 277050614)
 {
-if (r2y8BTCL7Z > -1077976598)
+if (true)
 {
 AS6nGN0IAM++;
 }

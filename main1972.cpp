@@ -84,7 +84,7 @@ catch (int& errorCode)
 {
 xs6iuYY = ddB75_9 << XDSq;
 }
-if (xs6iuYY >= 716121244)
+if (false)
 {
 o2wc7oa = (unsigned short int)(WaUMe);
 }
@@ -99,7 +99,7 @@ gkn2_jH5X &= 1381311055;
 v8An_BHLw /= ujTrpl;
 try
 {
-if (cRgJq2e <= -693511399)
+if (false)
 {
 if ((nbGB2 == 793386200) && (yVyy6lH7 == 1544009044))
 {
@@ -195,7 +195,7 @@ if (yVyy6lH7 & -1795459626)
 {
 for (int j = 0; j < 9; j++)
 {
-if (v8An_BHLw <= 434483636)
+if (true)
 {
 vsohd7J63x = pHemR7Yg * 1029228175;
 }
@@ -207,7 +207,7 @@ else if (G39h1p != v1hvv)
 {
 ddB75_9 /= vsohd7J63x;
 }
-else if (xIOtUD_v < 1675711564)
+else if (true)
 {
 iTmDQ = nbGB2 % 475402534;
 }
@@ -245,7 +245,7 @@ else if (T6veAX5O == lu_VKv)
 {
 cout << xs6iuYY << lu_VKv << endl;
 }
-else if (v1hvv >= 70024455)
+else if (false)
 {
 if (oCl__9kWy >= gkn2_jH5X)
 {
@@ -365,7 +365,7 @@ int j = 2;
 do
 {
 j--;
-if (ddB75_9 <= 1006374055)
+if (true)
 {
 P4G205qi5 = kDSCRb5 * P4G205qi5;
 }

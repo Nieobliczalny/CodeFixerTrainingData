@@ -22,7 +22,7 @@ int main(int argc, char** argv) {
     short int    ebZ3;
     ebZ3    =    2100392277;
 
-if (uWp7_ > 155217474)
+if (false)
 {
 {
 int j = 0;
@@ -66,7 +66,7 @@ if (sQzXZg & PpBt7r_do)
 {
 for (int j = 2; j >= 0; --j)
 {
-if (PpBt7r_do < -1019444518)
+if (false)
 {
 ebZ3 -= 804835729;
 }
@@ -88,7 +88,7 @@ if (PpBt7r_do < cQfCXLWa)
 {
 uWp7_ = (char)(PpBt7r_do);
 }
-else if ((ebZ3 < 1486203332) && ((D863Ca9uP != sQzXZg) || (ebZ3 <= -1218703730)))
+else if ((true) && ((D863Ca9uP != sQzXZg) || (ebZ3 <= -1218703730)))
 {
 if (D863Ca9uP > so4UGLu)
 {
@@ -102,7 +102,7 @@ else if (PpBt7r_do)
 {
 ebZ3 *= sQzXZg;
 }
-else if (((D863Ca9uP > so4UGLu) || (uWp7_ != -194120458)) || (ebZ3 & -87281151))
+else if (((D863Ca9uP > so4UGLu) || (true)) || (ebZ3 & -87281151))
 {
 sQzXZg -= D863Ca9uP;
 }
@@ -122,7 +122,7 @@ ebZ3 = so4UGLu ^ sQzXZg;
 }
 }
 }
-else if (uWp7_ > 391690257)
+else if (false)
 {
 if (PpBt7r_do)
 {
@@ -143,7 +143,7 @@ ebZ3 = ebZ3 ^ sQzXZg;
 }
 else if (ebZ3)
 {
-if ((sQzXZg == so4UGLu) || (uWp7_ <= ebZ3))
+if ((false) || (uWp7_ <= ebZ3))
 {
 sQzXZg = (int)abs(ebZ3);
 }
@@ -263,7 +263,7 @@ break;
 }
 try
 {
-if ((sQzXZg >= 841590253) || (sQzXZg >= -1797462626))
+if ((false) || (sQzXZg >= -1797462626))
 {
 {
 int k = 0;
@@ -295,7 +295,7 @@ D863Ca9uP = (unsigned long long)(PpBt7r_do);
 }
 else if (uWp7_ >= ebZ3)
 {
-if ((ebZ3 == so4UGLu) && (ebZ3 == cQfCXLWa))
+if ((false) && (ebZ3 == cQfCXLWa))
 {
 ebZ3 %= sQzXZg;
 }
@@ -331,7 +331,7 @@ sQzXZg = (int)abs(ebZ3);
 
 sQzXZg = PpBt7r_do ^ ebZ3;
 
-if (((uWp7_ <= 1439262246) && (sQzXZg)) || (D863Ca9uP >= cQfCXLWa))
+if (((true) && (sQzXZg)) || (D863Ca9uP >= cQfCXLWa))
 {
 ebZ3 = PpBt7r_do & sQzXZg;
 }
@@ -354,7 +354,7 @@ catch (int& errorCode)
 ebZ3 = ebZ3 - 260777699;
 }
 }
-else if (PpBt7r_do != 1920796304)
+else if (true)
 {
 D863Ca9uP = (unsigned long long)(so4UGLu * D863Ca9uP);
 }

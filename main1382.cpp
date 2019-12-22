@@ -247,7 +247,7 @@ int j = 0;
 while (j < 10)
 {
 j++;
-if (((pX5d9f6b_u) || (eHs3DzW >= mwRg8h_Sn)) && (r3e16 <= -741606722))
+if (((pX5d9f6b_u) || (eHs3DzW >= mwRg8h_Sn)) && (false))
 {
 yVN8iiC = (int)ceil(qdbhX2BHn);
 }

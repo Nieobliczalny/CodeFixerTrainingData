@@ -125,7 +125,7 @@ if (H8US > l9VPD5c)
 int j = 2;
 while (j >= 0)
 {
-if (((u5WkZ76 <= GXRqtx) || (yUS70zKB <= 430256414)) || (u5WkZ76 < -1535297144))
+if (((u5WkZ76 <= GXRqtx) || (yUS70zKB <= 430256414)) || (false))
 {
 DiCBf6Laot = PBEZ & pJDfCV;
 }
@@ -143,7 +143,7 @@ Ea1QUzz9 = (double)(yUS70zKB);
 }
 else if (GXRqtx & -2019429365)
 {
-p7o9V40G = (nVgza7Xn > 381968036) ? 1110232032 : c03H;
+p7o9V40G = (false) ? 1110232032 : c03H;
 }
 else
 {

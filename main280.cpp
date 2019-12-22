@@ -12,7 +12,7 @@ int main(int argc, char** argv) {
 	short int	KrkV	=	0;
   unsigned char  YeO77fb2R2  =  -1150426758,  Qa29F1ag  =  65315659,  Nm7rpcE0  =  -50857328;
 
-if (KrkV <= 1160910252)
+if (true)
 {
 {
 int j = 0;
@@ -47,7 +47,7 @@ if (YeO77fb2R2 & 445413966)
 {
 try
 {
-if (((Nm7rpcE0 == 628019008) && (Nm7rpcE0 == -1875016162)) || ((YeO77fb2R2 != 482173781) && (YeO77fb2R2 > -941759664)))
+if (((false) && (Nm7rpcE0 == -1875016162)) || ((YeO77fb2R2 != 482173781) && (YeO77fb2R2 > -941759664)))
 {
 YeO77fb2R2 = Qa29F1ag - Qa29F1ag;
 }
@@ -57,7 +57,7 @@ Qa29F1ag %= 1783475709;
 }
 else if (YeO77fb2R2 > Nm7rpcE0)
 {
-YeO77fb2R2 = (Nm7rpcE0 >= 1478396940) ? -1306662165 : 2108297852;
+YeO77fb2R2 = (false) ? -1306662165 : 2108297852;
 }
 else if (Qa29F1ag >= Nm7rpcE0)
 {
@@ -99,7 +99,7 @@ while (j >= 0);
 }
 for (int i = 3; i >= 0; i--)
 {
-if ((KrkV <= 1062282308) && (Nm7rpcE0 >= YeO77fb2R2))
+if ((true) && (Nm7rpcE0 >= YeO77fb2R2))
 {
 if (KrkV >= Nm7rpcE0)
 {
@@ -109,7 +109,7 @@ else if (YeO77fb2R2 == -166293947)
 {
 YeO77fb2R2 = Qa29F1ag >> Nm7rpcE0;
 }
-else if (KrkV == 1999195198)
+else if (false)
 {
 Nm7rpcE0 |= 1566775040;
 }
@@ -127,7 +127,7 @@ Nm7rpcE0 = KrkV << YeO77fb2R2;
 int i = 0;
 do
 {
-if (Nm7rpcE0 != 31079059)
+if (true)
 {
 try
 {
@@ -184,7 +184,7 @@ int j = 9;
 while (j >= 0)
 {
 j--;
-if (YeO77fb2R2 <= -1716619075)
+if (false)
 {
 Nm7rpcE0 = Nm7rpcE0 * KrkV;
 }
@@ -196,7 +196,7 @@ else if ((YeO77fb2R2 > -851223300) && (Nm7rpcE0))
 {
 Qa29F1ag = Qa29F1ag / Nm7rpcE0;
 }
-else if (Nm7rpcE0 == 411700351)
+else if (false)
 {
 Qa29F1ag -= 1933416974;
 }
@@ -241,7 +241,7 @@ Qa29F1ag %= YeO77fb2R2;
 }
 if (KrkV)
 {
-if (Qa29F1ag <= 1830766379)
+if (true)
 {
 try
 {
@@ -255,7 +255,7 @@ Qa29F1ag = (Nm7rpcE0 <= 773773194) ? -2077195848 : 1474876955;
 }
 else
 {
-if (YeO77fb2R2 != -1387637252)
+if (true)
 {
 if ((KrkV < -1704599635) || (Nm7rpcE0 == YeO77fb2R2))
 {
@@ -300,7 +300,7 @@ Nm7rpcE0 = KrkV ^ 919933986;
 YeO77fb2R2 = KrkV * KrkV;
 
 YeO77fb2R2 = KrkV << 1325524519;
-if (KrkV > -548756694)
+if (true)
 {
 try
 {
@@ -362,7 +362,7 @@ Qa29F1ag = Qa29F1ag << Nm7rpcE0;
 break;
 }
 }
-if (YeO77fb2R2 != 945360652)
+if (true)
 {
 for (int j = 0; j < 2; ++j)
 {
@@ -377,7 +377,7 @@ while (j >= 0)
 {
 try
 {
-Nm7rpcE0 = (Qa29F1ag != -1181025147) ? YeO77fb2R2 : YeO77fb2R2;
+Nm7rpcE0 = (true) ? YeO77fb2R2 : YeO77fb2R2;
 }
 catch (int& errorCode)
 {
@@ -387,7 +387,7 @@ j--;
 }
 }
 }
-if (KrkV > -46258310)
+if (true)
 {
 cout << KrkV << endl;
 }
@@ -399,7 +399,7 @@ if (Nm7rpcE0 > -1616598321)
 {
 Nm7rpcE0 = YeO77fb2R2 >> 638507582;
 }
-else if (((YeO77fb2R2 >= 1883169057) || (YeO77fb2R2 > -1319157965)) && (Qa29F1ag != -1960414929))
+else if (((false) || (YeO77fb2R2 > -1319157965)) && (Qa29F1ag != -1960414929))
 {
 Nm7rpcE0 |= YeO77fb2R2;
 }

@@ -203,7 +203,7 @@ if ((OCVuK3QmB) && (rFmIvNlxXC < i0nYvI45k9))
 {
 fGPSjt7_z = (kFxQ6T4 == 859925099) ? nz2WKx(PHP6yi4_t2, TFL3N, -41066717, -860762590) : -470807846;
 }
-else if ((EkK1P8seI != JCaVd02) && (i0nYvI45k9 >= -440770307))
+else if ((EkK1P8seI != JCaVd02) && (true))
 {
 PHP6yi4_t2 = l3vI8j(-645555982);
 }

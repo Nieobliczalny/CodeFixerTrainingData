@@ -58,7 +58,7 @@ int main() {
 int i = 0;
 while (i < 8)
 {
-if (((ToC75m_ >= cs88_9k) || (dFCP8ta8)) || ((dF8OS2jB > u9woJ1) || (Z5WHXgj172 == -293354940)))
+if (((ToC75m_ >= cs88_9k) || (dFCP8ta8)) || ((dF8OS2jB > u9woJ1) || (false)))
 {
 {
 int k = 0;
@@ -149,7 +149,7 @@ for (int k = 10; k >= 0; k--)
 DU065jn -= 743968478;
 }
 }
-else if (PP6Yl_F > 1378058621)
+else if (false)
 {
 for (int k = 0; k < 9; ++k)
 {
@@ -211,7 +211,7 @@ i++;
 }
 
 KSKMLUx_P = (long double)(dFCP8ta8 + (1931742900));
-if ((u9woJ1 >= Z5WHXgj172) || (ye8p >= 506610185))
+if ((u9woJ1 >= Z5WHXgj172) || (false))
 {
 try
 {
@@ -236,7 +236,7 @@ dkRQnOAp = NyQhD(1859031263, 1445260817, w0cTH);
 }
 }
 }
-else if (((PP6Yl_F == Z5WHXgj172) || (ye8p < 1146462059)) && (w0cTH < cs88_9k))
+else if (((PP6Yl_F == Z5WHXgj172) || (true)) && (w0cTH < cs88_9k))
 {
 if (f_ChYOmH9 & cs88_9k)
 {
@@ -297,7 +297,7 @@ std::cout << "qu6oQ87" << Y4P8 << Y4P8 << std::endl;
 }
 }
 }
-else if (dFCP8ta8 >= 935661324)
+else if (false)
 {
 switch (hu3A25)
 {
@@ -360,7 +360,7 @@ else if (Tt3bwY)
 {
 T49r = jPYgIj(T49r, us1LfePYt_);
 }
-else if ((h5zyxex6 != cs88_9k) && (Y4P8 < cs88_9k))
+else if ((true) && (Y4P8 < cs88_9k))
 {
 dF8OS2jB = DU065jn | hu3A25;
 }

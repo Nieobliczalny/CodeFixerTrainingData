@@ -120,7 +120,7 @@ int main(void)
 
 for (int i = 8; i >= 0; --i)
 {
-if (nP0FCl02_ >= 1004488144)
+if (false)
 {
 std::cout << "VyeT4_Z5x6" << std::endl;
 }
@@ -135,7 +135,7 @@ catch (int& errorCode)
 uKGIBx = RR2G ^ uTVMF;
 }
 
-if (OID_0n_PQR != -1199544096)
+if (true)
 {
 for (int j = 5; j >= 0; --j)
 {
@@ -206,7 +206,7 @@ int j = 0;
 while (j < 10)
 {
 ++j;
-if ((DT3rz78xGm > 39049443) || (XdNE == -1032001292))
+if ((false) || (XdNE == -1032001292))
 {
 cxeia1G = ibYoGn(O09cKWK9Y, 2043547578, -352374139);
 }
@@ -269,7 +269,7 @@ for (int i = 0; i < 3; i++)
 std::cout << ibYoGn(-1902222200, -59176761, x5SM5rNOg) << ibYoGn(1176871289, -340020591, -1328704202) << ibYoGn(DA2oxRT91Z, -1072126587, x5SM5rNOg) << zsc90 << std::endl;
 }
 
-if ((ela22 > 344847481) && ((vw8_y & d2m0_7XjY) || (AiDg > h6uYh6)))
+if ((false) && ((vw8_y & d2m0_7XjY) || (AiDg > h6uYh6)))
 {
 for (int j = 1; j >= 0; j--)
 {
@@ -287,7 +287,7 @@ else if (nNCGH7s & 131433603)
 {
 o3fbq0 <<= g82z;
 }
-else if ((RX015QU9X >= -1951202781) || ((Rz36Pbq & 1318218452) || (QwaV >= -1806006469)))
+else if ((true) || ((Rz36Pbq & 1318218452) || (QwaV >= -1806006469)))
 {
 {
 int j = 0;
@@ -356,7 +356,7 @@ if (x5SM5rNOg & -793057248)
 {
 for (int j = 1; j >= 0; --j)
 {
-if (((k_ZM92P7qZ < 680413571) && (zZ9Uc7 > Nbm5Jv7)) && ((H7OPP1m >= -1464592158) || (Q_c_c >= -1054746090)))
+if (((true) && (zZ9Uc7 > Nbm5Jv7)) && ((H7OPP1m >= -1464592158) || (Q_c_c >= -1054746090)))
 {
 wMGocO3o = vzBom0 ^ 418701667;
 }
@@ -381,7 +381,7 @@ do
 {
 for (int j = 5; j >= 0; j--)
 {
-if ((u_j8 == -1178787583) && (l17b <= n_11soDv5))
+if ((false) && (l17b <= n_11soDv5))
 {
 cxeia1G = ibYoGn(-848522118, x5SM5rNOg, jCA8);
 }

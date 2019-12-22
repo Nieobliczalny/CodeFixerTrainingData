@@ -404,7 +404,7 @@ std::cout << "g51rt6dN" << PrU8(1644029415, Pwt_J9KB9O, PKQ3b1, nSvk) << FN69Ojp
 
 FN69Ojp = (int)abs(Ix27rvCYb);
 
-if (((lui0V < 1520538971) && (gjRt00COe != VQNDVy)) && ((l3d38ax12 <= Qd4AA3) || (R_C9O7Q4vR < P5BbsMwwxZ)))
+if (((true) && (gjRt00COe != VQNDVy)) && ((l3d38ax12 <= Qd4AA3) || (R_C9O7Q4vR < P5BbsMwwxZ)))
 {
 if ((J608) && ((q5mb_a) && (Ko2I68v7m >= Q7F55VD)))
 {

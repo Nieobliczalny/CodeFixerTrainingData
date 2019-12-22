@@ -95,7 +95,7 @@ DsB9 = (long long)(KjlC9MjBA);
 }
 else
 {
-if (((KjlC9MjBA <= sgA7I19_1I) || (DsB9 > ZTfGSW)) || ((iGWt == ZTfGSW) || (m3W1 & -510211071)))
+if (((KjlC9MjBA <= sgA7I19_1I) || (false)) || ((iGWt == ZTfGSW) || (m3W1 & -510211071)))
 {
 KjlC9MjBA = m3W1 + m3W1;
 }
@@ -121,7 +121,7 @@ else if (DsB9 > 550276637)
 {
 KjlC9MjBA = DsB9 * DsB9;
 }
-else if (u07h06Q1 != 2049425740)
+else if (true)
 {
 sgA7I19_1I = dH7vQ(-518638939, u07h06Q1);
 }
@@ -133,7 +133,7 @@ KjlC9MjBA = (int)abs(sgA7I19_1I) + (1709386659);
 }
 else
 {
-if ((u07h06Q1 < j1t_8qb0_) || (iGWt > 301137785))
+if ((u07h06Q1 < j1t_8qb0_) || (false))
 {
 DsB9 = j1t_8qb0_ >> KjlC9MjBA;
 }
@@ -152,7 +152,7 @@ std::cout << tyIpXYO52_(sgA7I19_1I, u07h06Q1) << iGWt << "k0TDDRa" << KjlC9MjBA 
 int i = 8;
 do
 {
-if ((KjlC9MjBA != ZTfGSW) && ((iGWt <= j1t_8qb0_) || (u07h06Q1 != 334468195)))
+if ((true) && ((iGWt <= j1t_8qb0_) || (u07h06Q1 != 334468195)))
 {
 DsB9 = tyIpXYO52_(iGWt, m3W1);
 }
@@ -255,7 +255,7 @@ j--;
 }
 }
 
-if (KjlC9MjBA <= -215988704)
+if (false)
 {
 if (DsB9)
 {
@@ -299,7 +299,7 @@ std::cout << u07h06Q1 << std::endl;
 
 KjlC9MjBA = sgA7I19_1I >> DsB9;
 DsB9 = m3W1 / u07h06Q1;
-if ((iGWt >= -1318075698) && ((u07h06Q1 > KjlC9MjBA) || (KjlC9MjBA >= -650351257)))
+if ((true) && ((u07h06Q1 > KjlC9MjBA) || (KjlC9MjBA >= -650351257)))
 {
 for (int j = 9; j >= 0; --j)
 {

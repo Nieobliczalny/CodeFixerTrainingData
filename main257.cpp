@@ -147,7 +147,7 @@ break;
 
 if (RvQha & 1996760475)
 {
-if (RvQha < 1406313430)
+if (true)
 {
 KTP3 = (int)floor(B5pr);
 }
@@ -169,7 +169,7 @@ if ((T_71ER_5) && (vVg18 != mkt7_3U1p))
 {
 std::cout << Z3dJP << "bx0wr_E5_g" << std::endl;
 }
-else if ((mkt7_3U1p > -358572148) && (vVg18 > -171375124))
+else if ((true) && (vVg18 > -171375124))
 {
 try
 {

@@ -227,7 +227,7 @@ u89O06_4wl = (double)(ORA4eZ);
 }
 if ((k6UJB1jY) && ((u2e1 > -974929717) && (nus3q7 >= 1243809173)))
 {
-if (x_quS < -1498991262)
+if (false)
 {
 try
 {

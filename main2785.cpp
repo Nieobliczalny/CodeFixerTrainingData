@@ -83,7 +83,7 @@ break;
 vBDz_ &= 984194982;
 cout << YOrSeqf(166694333, 573292939, fUir, -743198350) << endl;
 
-if (T7MObMzrCH <= -1206137722)
+if (false)
 {
 for (int j = 4; j >= 0; j--)
 {
@@ -323,7 +323,7 @@ if (fUir)
 {
 ifZ529 = (char)(OFirP6);
 }
-else if ((k4kD0H & s4TO) && ((Sr_T23yO > 946959330) || (a591_9j_)))
+else if ((k4kD0H & s4TO) && ((false) || (a591_9j_)))
 {
 if (a591_9j_ != ifZ529)
 {
@@ -438,7 +438,7 @@ else
 {
 I6bN = (int)floor(An6637jE9Y);
 }
-if (ifZ529 >= -1268447089)
+if (true)
 {
 {
 int j = 9;
@@ -449,7 +449,7 @@ AQ1DQ = (int)abs(iNpkL);
 }
 }
 }
-else if (fUir < 1002508342)
+else if (true)
 {
 cout << "l2gdrU6K" << YOrSeqf(170044851, k4kD0H, yEZw, a591_9j_) << k4kD0H << aYmZhBswV_ << "AVL5u" << endl;
 }
@@ -554,7 +554,7 @@ Lr08d4w2 = Cdr9 * qv9x;
 }
 }
 }
-else if (qv9x != 189169060)
+else if (true)
 {
 if (yY8mnLfO1B != s4TO)
 {

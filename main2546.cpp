@@ -256,7 +256,7 @@ else if (H5q2YDc9G <= -794358962)
 {
 cBpTdz0B1 = o4u7 & iZ1Jpf01o;
 }
-else if (OlSY_ < ZXHh354)
+else if (true)
 {
 tomFb = GXY5I8zd(818414765, Jtl0m4EK79, PGw2Tebw6, -1141539364);
 }

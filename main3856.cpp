@@ -177,7 +177,7 @@ for (int k = 0; k < 6; ++k)
 nWb31Zz42a |= IG0P3;
 }
 }
-else if (P_OE < -246491773)
+else if (false)
 {
 for (int k = 0; k < 10; k++)
 {
@@ -190,7 +190,7 @@ x8aPU06 = (unsigned int)(d_jr);
 }
 else if ((gOk0 > 1994662129) && (N9RQ <= 1756375537))
 {
-if (yNC81q >= 878992358)
+if (false)
 {
 P_OE = r8RD - zJfEwurk;
 }
@@ -355,7 +355,7 @@ O78_RB = (long long)(rG_6Pbxd9);
 
 try
 {
-if (((e8ht618v_J > 336970209) && (jjz6 > -2061501897)) && (GUT4sY))
+if (((e8ht618v_J > 336970209) && (true)) && (GUT4sY))
 {
 cout << J99QP << YH05vyX0 << "s_VKr3u" << "F3C_k1" << y5_nu << endl;
 }

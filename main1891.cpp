@@ -117,7 +117,7 @@ else if ((go_63Q9DLb == ekNv) && (ME46 == ekNv))
 {
 e7R6 = J5E32n7 & 1780422552;
 }
-else if (bkTw <= ekNv)
+else if (true)
 {
 switch (UZlrYIL)
 {
@@ -221,7 +221,7 @@ e7R6 = (unsigned int)(ekNv);
 }
 else
 {
-if ((Vv_EpEDiI3 <= ekNv) || (v4440TJB82 & 1572261451))
+if ((true) || (v4440TJB82 & 1572261451))
 {
 if ((n28AF < o_jct) && (J5E32n7 > ekNv))
 {

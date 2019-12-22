@@ -188,7 +188,7 @@ else if (zk_8 != -101959125)
 {
 CwM92 = i79Ot(390067423, 1699425018, -1651491827, giw8, lbn2WAJ);
 }
-else if (CwM92 >= 297720735)
+else if (false)
 {
 switch (IZS9TDAt)
 {
@@ -289,7 +289,7 @@ if (EE6LH9 != Px982CD8r)
 {
 L0_W2cWV85 = (int)abs(KGa7o);
 }
-else if (((HOu7_ <= Px982CD8r) || (Z5L60 != s07Tw0)) || (Ny_y1S < et5zVecI))
+else if (((HOu7_ <= Px982CD8r) || (true)) || (Ny_y1S < et5zVecI))
 {
 if (g4TP4Gt4 <= -311035621)
 {

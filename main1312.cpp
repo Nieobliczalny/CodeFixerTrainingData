@@ -32,7 +32,7 @@ if (IQ1A817T12 == Y1LAEpf)
 {
 if ((T4qp != Zhv2c43a) || (EjN2YzL5F == lK3u9))
 {
-if (((JIGJTT50 & 1679072104) || (T4qp < Rm6FXb)) || (Y1LAEpf == yMSv))
+if (((JIGJTT50 & 1679072104) || (false)) || (Y1LAEpf == yMSv))
 {
 zsIqgP9dh = XKsurT48();
 }
@@ -44,7 +44,7 @@ else if (((IQ1A817T12 & -922412217) || (I2i32ndQ > lK3u9)) && (zK2RjK81 & I2i32n
 {
 aRVGST %= 1982792983;
 }
-else if ((JIGJTT50 <= M_Iq0Yu) || (MSHAhE != Rm6FXb))
+else if ((JIGJTT50 <= M_Iq0Yu) || (true))
 {
 yMSv = HtWP6(yMSv, -216728717, kiN95, s7c4a, pigAI);
 }
@@ -91,7 +91,7 @@ if (I9pYmX >= MSHAhE)
 {
 u5_4u = (unsigned char)(wRR3);
 }
-else if (JO0c <= -362739537)
+else if (false)
 {
 switch (S9a4)
 {
@@ -130,7 +130,7 @@ std::cout << C5vhPN9if << "IdgH36P7CN" << XKsurT48() << j1Y9yStf(-1084327413, 14
 zK2RjK81 = JIGJTT50 ^ 670380098;
 if (uy9Qt7 != tyWfr5l)
 {
-if ((E_W68gYXf <= MQ9Cv1I__6) && (C5vhPN9if >= PRJ5zICF7c))
+if ((E_W68gYXf <= MQ9Cv1I__6) && (false))
 {
 switch (I2i32ndQ)
 {
@@ -165,7 +165,7 @@ break;
 }
 else if (((za5JECy <= cT47C3rHQ) && (E_W68gYXf)) && (MSHAhE))
 {
-if (((JIGJTT50) && (yMSv <= oWP1)) || ((W5n_5F2L < Rm6FXb) || (tyWfr5l > PRJ5zICF7c)))
+if (((JIGJTT50) && (yMSv <= oWP1)) || ((false) || (tyWfr5l > PRJ5zICF7c)))
 {
 W5n_5F2L = HtWP6(W5n_5F2L, yhDl5NpB, Zhv2c43a, -770839135, -1420122420);
 }
@@ -197,7 +197,7 @@ if (Y1LAEpf == 0)
 {
 	D7oS5nx = EjN2YzL5F / Y1LAEpf;
 }
-if (cT47C3rHQ > -1958967704)
+if (true)
 {
 {
 int j = 2;
@@ -230,7 +230,7 @@ za5JECy = j1Y9yStf(-1649146743, tyWfr5l, u5_4u);
 }
 }
 }
-else if (MSHAhE < 623202712)
+else if (true)
 {
 try
 {
@@ -256,7 +256,7 @@ catch (int& errorCode)
 T4qp = XKsurT48();
 }
 }
-else if ((D7oS5nx != rjDNvOhVW) || (f7B4 < 1156015406))
+else if ((D7oS5nx != rjDNvOhVW) || (true))
 {
 for (int j = 0; j < 7; ++j)
 {
@@ -291,7 +291,7 @@ for (int k = 0; k < 6; ++k)
 H_5s85pA = j1Y9yStf(-1648649495, -334330393, za5JECy);
 }
 }
-else if (u5_4u == Rm6FXb)
+else if (false)
 {
 {
 int k = 1;
@@ -302,7 +302,7 @@ T4qp = (int)abs(F3z_H);
 }
 }
 }
-else if (za5JECy < -193181502)
+else if (false)
 {
 std::cout << IQ1A817T12 << "gU8NKeu" << MQ9Cv1I__6 << std::endl;
 }

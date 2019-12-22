@@ -64,7 +64,7 @@ A__YXfqJ27 = rvmZO__t + 235147589;
 switch (A__YXfqJ27)
 {
 case 'a':
-EcWo2G6Bm = (y8YP9h8 > 398466030) ? MgO45c : P1i3O9lx4;
+EcWo2G6Bm = (false) ? MgO45c : P1i3O9lx4;
 break;
 case 'b':
 fH6B7c -= 543932385;
@@ -276,7 +276,7 @@ if (ee8nk & 2009139172)
 {
 fH6B7c = (double)(ee8nk + (A_z9Cz5));
 }
-else if (((rvmZO__t == fH6B7c) && (fH6B7c == -914936082)) || ((M2RqeO != A_z9Cz5) || (M2RqeO & 991744139)))
+else if (((rvmZO__t == fH6B7c) && (fH6B7c == -914936082)) || ((true) || (M2RqeO & 991744139)))
 {
 {
 int k = 8;

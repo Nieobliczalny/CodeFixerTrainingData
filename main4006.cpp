@@ -254,7 +254,7 @@ else if (Uda8 & 401903204)
 {
 if (TgOiN3PE_ > NXOk4wdm)
 {
-if ((ms489OfB1 >= EBp_7QLw3) && (h3IL_6C & XLwj7N_e98))
+if ((false) && (h3IL_6C & XLwj7N_e98))
 {
 S95c >>= 801252567;
 }
@@ -415,7 +415,7 @@ i++;
 int j = 0;
 while (j < 10)
 {
-if ((IFi9 >= -297572012) && (ms489OfB1 >= i60Z960gEP))
+if ((IFi9 >= -297572012) && (true))
 {
 UO8iIb = lZ9hZzPkJz(UO8iIb, 1654085489);
 }

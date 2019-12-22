@@ -32,7 +32,7 @@ if (z8ssU9rIJ1 > MEz8p)
 MEz8p = (unsigned long long)(i7X5TAh * (t_E253));
 }
 
-if (z8ssU9rIJ1 < -1083721825)
+if (false)
 {
 {
 int j = 3;
@@ -133,7 +133,7 @@ z8ssU9rIJ1 = PYhu722(27638215, z8ssU9rIJ1);
 break;
 }
 
-if ((z8ssU9rIJ1 <= -1854999558) && (z8ssU9rIJ1 == -800129067))
+if ((false) && (z8ssU9rIJ1 == -800129067))
 {
 if (MEz8p & z8ssU9rIJ1)
 {
@@ -148,7 +148,7 @@ if (i7X5TAh < -777322733)
 {
 i7X5TAh *= 1062780577;
 }
-else if (z8ssU9rIJ1 >= 175636311)
+else if (false)
 {
 z8ssU9rIJ1 = PYhu722(z8ssU9rIJ1, i7X5TAh);
 }
@@ -262,7 +262,7 @@ cout << PYhu722(2070711352, i7X5TAh) << "MhuTIo1" << PYhu722(z8ssU9rIJ1, 8731928
 MEz8p = (unsigned long long)(z8ssU9rIJ1);
 try
 {
-if (z8ssU9rIJ1 != -1637828036)
+if (true)
 {
 if (MEz8p != z8ssU9rIJ1)
 {
@@ -295,7 +295,7 @@ catch (int& errorCode)
 {
 i7X5TAh = MEz8p << 1411945323;
 }
-if (((z8ssU9rIJ1 <= -1558735869) && (z8ssU9rIJ1 & -1798787153)) || (MEz8p <= -1061323937))
+if (((false) && (z8ssU9rIJ1 & -1798787153)) || (MEz8p <= -1061323937))
 {
 {
 int j = 4;
@@ -309,7 +309,7 @@ while (j >= 0);
 }
 else
 {
-if ((z8ssU9rIJ1) || ((MEz8p < XkjA) || (z8ssU9rIJ1 > b48z6)))
+if ((z8ssU9rIJ1) || ((MEz8p < XkjA) || (true)))
 {
 {
 int k = 0;
@@ -429,7 +429,7 @@ z8ssU9rIJ1 = PYhu722(z8ssU9rIJ1, i7X5TAh);
 }
 }
 
-if (((z8ssU9rIJ1 & 718020091) && (MEz8p <= 512262975)) || (z8ssU9rIJ1 < 589456403))
+if (((z8ssU9rIJ1 & 718020091) && (MEz8p <= 512262975)) || (true))
 {
 {
 int j = 0;
@@ -593,7 +593,7 @@ z8ssU9rIJ1 = PYhu722(419901336, MEz8p);
 }
 else
 {
-if (z8ssU9rIJ1 < -1972041294)
+if (false)
 {
 i7X5TAh = (z8ssU9rIJ1 > 1753109133) ? 459132560 : XkjA;
 }
@@ -678,7 +678,7 @@ break;
 int i = 0;
 do
 {
-if (z8ssU9rIJ1 != b48z6)
+if (true)
 {
 {
 int k = 7;
@@ -702,7 +702,7 @@ z8ssU9rIJ1 = PYhu722(z8ssU9rIJ1, -1897632788);
 while (k >= 0);
 }
 }
-else if (z8ssU9rIJ1 > 520802065)
+else if (false)
 {
 if (i7X5TAh < z8ssU9rIJ1)
 {
@@ -833,7 +833,7 @@ z8ssU9rIJ1 = PYhu722(917688441, i7X5TAh);
 }
 }
 
-if (((z8ssU9rIJ1 < MEz8p) && (z8ssU9rIJ1 & MEz8p)) && (z8ssU9rIJ1 < XkjA))
+if (((z8ssU9rIJ1 < MEz8p) && (z8ssU9rIJ1 & MEz8p)) && (false))
 {
 {
 int j = 10;
@@ -851,7 +851,7 @@ i7X5TAh = i7X5TAh + MEz8p;
 }
 }
 }
-else if (z8ssU9rIJ1 <= 1855536244)
+else if (true)
 {
 {
 int j = 1;

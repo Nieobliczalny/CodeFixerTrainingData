@@ -26,7 +26,7 @@ int main(int argc, char** argv)
 
 try
 {
-if ((w_m5rxMK5 <= -388535175) || (w_m5rxMK5 > uoDmL9A7))
+if ((false) || (w_m5rxMK5 > uoDmL9A7))
 {
 {
 int k = 0;
@@ -40,7 +40,7 @@ while (k < 9);
 }
 else
 {
-if (w_m5rxMK5 != z4GdQgg1o)
+if (true)
 {
 E_599O = H2_52WAJ(1442754721, 742182508, -1370893391, -1784292690);
 }
@@ -131,7 +131,7 @@ break;
 
 try
 {
-if (((E_599O & -392311706) && (E_599O <= z4GdQgg1o)) || (E_599O != 1801582576))
+if (((E_599O & -392311706) && (true)) || (E_599O != 1801582576))
 {
 if (E_599O != w_m5rxMK5)
 {
@@ -146,7 +146,7 @@ else
 E_599O = w_m5rxMK5 | 1030116254;
 }
 }
-else if (E_599O >= uoDmL9A7)
+else if (false)
 {
 E_599O = (unsigned char)(nP67_cUO);
 }
@@ -224,7 +224,7 @@ E_599O = H2_52WAJ(1431991182, w_m5rxMK5, -562524636, 438842330);
 
 try
 {
-if ((w_m5rxMK5 & uoDmL9A7) || ((w_m5rxMK5 != nP67_cUO) && (w_m5rxMK5 > 453842642)))
+if ((w_m5rxMK5 & uoDmL9A7) || ((true) && (w_m5rxMK5 > 453842642)))
 {
 {
 int k = 3;
@@ -236,7 +236,7 @@ w_m5rxMK5 = xZ4OY95m5i(w_m5rxMK5);
 while (k >= 0);
 }
 }
-else if (E_599O >= -1328891406)
+else if (true)
 {
 for (int k = 0; k < 9; k++)
 {
@@ -274,7 +274,7 @@ catch (int& errorCode)
 {
 E_599O = E_599O + 1187340984;
 }
-if (E_599O == z4GdQgg1o)
+if (false)
 {
 if ((w_m5rxMK5 < -1911546585) && ((E_599O >= nP67_cUO) || (E_599O)))
 {
@@ -303,7 +303,7 @@ catch (int& errorCode)
 E_599O >>= 1125429843;
 }
 }
-else if ((w_m5rxMK5 >= iTq0_i8gV) || ((w_m5rxMK5 == E_599O) || (w_m5rxMK5 != nP67_cUO)))
+else if ((w_m5rxMK5 >= iTq0_i8gV) || ((w_m5rxMK5 == E_599O) || (true)))
 {
 if (w_m5rxMK5 == E_599O)
 {
@@ -316,7 +316,7 @@ if (E_599O != 974990090)
 E_599O = H2_52WAJ(E_599O, 267898487, -822586144, 309893316);
 }
 }
-else if (w_m5rxMK5 == 233383939)
+else if (false)
 {
 switch (w_m5rxMK5)
 {
@@ -327,7 +327,7 @@ break;
 }
 else if (w_m5rxMK5 <= -250188204)
 {
-if (w_m5rxMK5 <= -809474792)
+if (false)
 {
 E_599O = E_599O | 329734104;
 }
@@ -343,7 +343,7 @@ else if (w_m5rxMK5 >= E_599O)
 {
 E_599O = w_m5rxMK5 << 1113057537;
 }
-else if (E_599O >= z4GdQgg1o)
+else if (false)
 {
 E_599O <<= 1904068251;
 }
@@ -369,7 +369,7 @@ while (k >= 0);
 }
 }
 }
-else if (w_m5rxMK5 >= uoDmL9A7)
+else if (false)
 {
 try
 {

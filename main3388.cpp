@@ -271,7 +271,7 @@ for (int i = 0; i < 10; i++)
 {
 q6Z28292I = (long long)(Wzpq87);
 }
-if (iP1y25X8 <= -1338454900)
+if (false)
 {
 HT543 = u0iO4O % t67igyJv8;
 }
@@ -463,7 +463,7 @@ while (i >= 0)
 A390Y_0 |= an2o7S;
 }
 }
-if (t67igyJv8 < -1612347210)
+if (false)
 {
 bq1GCi *= 1047882796;
 }
@@ -493,7 +493,7 @@ CVHcVblr4D = lL__uA ^ 1996321034;
 kDb3y0ECRU = (int)abs(an2o7S);
 if (A6k3D8RX12)
 {
-if (AUO0K5__KW >= -1701827086)
+if (true)
 {
 P98F = (short)(lL__uA);
 }

@@ -87,7 +87,7 @@ catch (int& errorCode)
 h0A_nO4AKz = (int)abs(NRu0YIh3G);
 }
 }
-else if (mvu3Wzt8 != 540242949)
+else if (true)
 {
 if (csoo6fj_m <= 182208658)
 {
@@ -188,7 +188,7 @@ catch (int& errorCode)
 {
 Fmd_ = (int)abs(Y7PI);
 }
-if (DxdPh_8 >= -1934079319)
+if (true)
 {
 switch (v7Qak6m)
 {
@@ -224,7 +224,7 @@ break;
 nt19we_V = (int)abs(al3h1v0);
 for (int i = 0; i < 2; ++i)
 {
-if ((iTv2G1iD8u >= -864574502) && (egjV7O0))
+if ((true) && (egjV7O0))
 {
 for (int k = 9; k >= 0; --k)
 {
@@ -237,7 +237,7 @@ if (w1MIN5rv6 == -2119181722)
 {
 fRjGs1_13M <<= w_Hm0;
 }
-else if (((I66_snRuG0 != M2P7) && (qGb1N >= -75976464)) || (tBSMvJg <= 404239989))
+else if (((I66_snRuG0 != M2P7) && (true)) || (tBSMvJg <= 404239989))
 {
 vtU26Nm *= 274597030;
 }
@@ -258,7 +258,7 @@ RrHoUn = HT0K12L03f + M8uj;
 int i = 4;
 while (i >= 0)
 {
-if (DxdPh_8 >= -553217231)
+if (true)
 {
 for (int k = 9; k >= 0; --k)
 {
@@ -310,7 +310,7 @@ while (i < 6);
 
 try
 {
-if ((W_HNy_y_6) && (jga6_r9U != -862458846))
+if ((W_HNy_y_6) && (true))
 {
 if (I66_snRuG0 != -757386941)
 {
@@ -323,7 +323,7 @@ mZc_lz16 = H2Nhq9BIn >> p26YK5;
 }
 else
 {
-if (((ZU9v4B8k54) && (HT0K12L03f < -1883040663)) || (p26YK5 <= 1951498600))
+if (((ZU9v4B8k54) && (false)) || (p26YK5 <= 1951498600))
 {
 nt19we_V = v7Qak6m | qYI8TIMDg1;
 }
@@ -340,7 +340,7 @@ f6_PHeZR %= 1304522292;
 
 r7pi = -2142903334 / nrp5r;
 
-if (Y7PI != 1617642790)
+if (true)
 {
 oIeh0 |= 1440623969;
 }
@@ -395,7 +395,7 @@ catch (int& errorCode)
 {
 csoo6fj_m = oIeh0 & EP5B74;
 }
-if (L2P098 == -1935065394)
+if (false)
 {
 {
 int j = 10;
@@ -417,7 +417,7 @@ T6Ugd -= W_HNy_y_6;
 }
 if (r7pi == Fmd_)
 {
-if (W_HNy_y_6 >= 620812235)
+if (false)
 {
 I66_snRuG0 = (short int)(Fmd_);
 }
@@ -430,7 +430,7 @@ else if (zh_T6J_U2 < -2031965381)
 {
 v7Qak6m -= 801191382;
 }
-else if (mvu3Wzt8 >= -1942258484)
+else if (true)
 {
 if (fRjGs1_13M > m_0D4i)
 {
@@ -444,7 +444,7 @@ Y7PI = w8J5u0Nmt7 % 935102431;
 }
 }
 }
-else if (NRu0YIh3G != -454371805)
+else if (true)
 {
 if ((DxdPh_8) || (xiAn9FnQ9r & M8uj))
 {

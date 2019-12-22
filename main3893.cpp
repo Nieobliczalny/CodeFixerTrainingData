@@ -231,7 +231,7 @@ X3__dSRlif = Flc3 << n_U3;
 }
 }
 }
-else if (((ZrH_hh8 == SQPLPxj) || (o1UvP3BTi <= 1143051452)) || (B9W5TKj4 < Z_12C))
+else if (((ZrH_hh8 == SQPLPxj) || (true)) || (B9W5TKj4 < Z_12C))
 {
 for (int k = 0; k < 9; ++k)
 {
@@ -270,7 +270,7 @@ fMA2sQ2n = G8n689L();
 }
 
 Hyteva = (int)floor(fxm0);
-if (rRMf9z50Z != -1612682763)
+if (true)
 {
 fxm0 = (int)ceil(lH8o2IJz4);
 }

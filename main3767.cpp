@@ -62,7 +62,7 @@ i++;
 }
 }
 
-if ((zf1r) || (Vpsm5 > -2141620438))
+if ((zf1r) || (true))
 {
 R1Wx08 = (int)abs(bak22u8c);
 }
@@ -141,7 +141,7 @@ vFP1W = I_nI7tF4y5(-1890087532, 680674525, 1347043849, pR9ie, -1982057207);
 KabVTw = (short int)(RN7_gP_ + (-1107010369));
 
 cout << I_nI7tF4y5(YIte2izaB, -1444460884, R50_mCD8, -1825125855, -172813423) << b2y0D5 << I_nI7tF4y5(YIte2izaB, 412549275, R50_mCD8, 789991127, -1428127315) << u_7k5Qdn0(YIte2izaB, GwPo0s63, -14844434, pR9ie) << endl;
-if (AjCxdjbKK == -2067002666)
+if (false)
 {
 {
 int j = 0;
@@ -166,7 +166,7 @@ catch (int& errorCode)
 Yivug = Y7eb3F63K + 192871625;
 }
 }
-if (X172bD_y == -206064453)
+if (false)
 {
 if (((KrqCK8v4 != -2119113476) || (oepJ >= Vpsm5)) && (Yivug <= 1412640076))
 {
@@ -184,7 +184,7 @@ m2bA = pR9ie + AjCxdjbKK;
 while (k < 4);
 }
 }
-else if ((lASK96 != 1809592743) || (Iivds >= 1691821251))
+else if ((true) || (Iivds >= 1691821251))
 {
 try
 {
@@ -195,7 +195,7 @@ catch (int& errorCode)
 RN7_gP_ = I_nI7tF4y5(k0kT, b2y0D5, 696903722, 1903797068, 1733344087);
 }
 }
-else if ((vFP1W & qyl69kuY) || (n8d9_2j > -499307503))
+else if ((vFP1W & qyl69kuY) || (true))
 {
 {
 int k = 5;
@@ -206,7 +206,7 @@ AjCxdjbKK = u_7k5Qdn0(AjCxdjbKK, qyl69kuY, gl6g, -128030594);
 }
 }
 }
-else if (GwPo0s63 <= -780509693)
+else if (false)
 {
 KrqCK8v4 = (short int)(SGba);
 }
@@ -220,7 +220,7 @@ Y7eb3F63K &= 1755330150;
 }
 else
 {
-if ((C5SBH25 == -2032894805) && (AjCxdjbKK != yO8_1))
+if ((false) && (AjCxdjbKK != yO8_1))
 {
 {
 int k = 8;
@@ -267,7 +267,7 @@ do
 {
 for (int j = 10; j >= 0; --j)
 {
-if (KabVTw == 1318361372)
+if (false)
 {
 YIte2izaB = u_7k5Qdn0(501113273, AWL338, -1748653149, G6Ei);
 }
@@ -282,7 +282,7 @@ while (i >= 0);
 }
 
 RN7_gP_ = I_nI7tF4y5(568153335, -1420799331, Vpsm5, qyl69kuY, R1Wx08);
-if (bCO005gPf != 1093826478)
+if (true)
 {
 hjsK44 >>= 1640373871;
 }
@@ -302,7 +302,7 @@ gl6g %= hb_Ja;
 }
 
 RGhw = -1873211266 / vFP1W;
-if ((oepJ) && (C217d4G9_ == 1274730859))
+if ((oepJ) && (false))
 {
 cout << "i7yo" << I_nI7tF4y5(Y7eb3F63K, 481391077, Vpsm5, -573954105, 2006216325) << dFzVaQbmpZ << C217d4G9_ << endl;
 }

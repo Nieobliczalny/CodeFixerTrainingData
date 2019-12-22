@@ -59,7 +59,7 @@ k++;
 }
 }
 }
-if (ui3CODor < -1991145728)
+if (false)
 {
 switch (L7dwrA_q_I)
 {
@@ -262,7 +262,7 @@ std::cout << p4hxBJHyM << "Wusw4X1Y9u" << std::endl;
 }
 else if (p4hxBJHyM < Z44qDbdzI)
 {
-if ((y7777 <= WZW12SF) || (ui3CODor <= -257469168))
+if ((y7777 <= WZW12SF) || (false))
 {
 if (ui3CODor >= 1606400331)
 {
@@ -295,7 +295,7 @@ else
 ui3CODor = axASsvH_4(493700919, y7777);
 }
 
-if (WZW12SF > -62582422)
+if (true)
 {
 switch (ui3CODor)
 {

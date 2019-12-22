@@ -87,7 +87,7 @@ int main(void) {
 	unsigned short	UouovYTT	=	-1449760933;
     unsigned char    D7EC1U21Bt    =    719336807;
 
-sSKixprHw4 = (WTCRI > -1459562917) ? G44H : pn3v842w;
+sSKixprHw4 = (true) ? G44H : pn3v842w;
 
 nZdp7_2k = (unsigned short)(zxB9A39h);
 GtSNNw2 >>= sSKixprHw4;
@@ -114,7 +114,7 @@ e0_P >>= 554563553;
 }
 }
 }
-if (J741cjCuz >= 1714446553)
+if (false)
 {
 ylsWXsJb_ = k6Gk >> KdOG;
 }
@@ -153,7 +153,7 @@ else
 {
 if (Q7yDo6_PE > sSKixprHw4)
 {
-if (bk8HT < -569772705)
+if (false)
 {
 XZro26f = (int)floor(W5l4fS);
 }
@@ -186,7 +186,7 @@ else if (hC68 & UMAxq)
 {
 k6Gk = (int)abs(O904);
 }
-else if (((A9j_Q <= -840383074) && (kD1W3 < whw813)) && (CZxo == -1049065569))
+else if (((false) && (kD1W3 < whw813)) && (CZxo == -1049065569))
 {
 ZR1MyONL = (int)ceil(nF0a8L);
 }
@@ -218,7 +218,7 @@ W5l4fS = (int)floor(CZxo);
 }
 }
 
-if (C929A7 <= 675898536)
+if (true)
 {
 std::cout << CZxo << "EGrOpp2FPs" << "DrLa_5T6b" << C929A7 << std::endl;
 }
@@ -297,7 +297,7 @@ catch (int& errorCode)
 k6Gk *= Q7yDo6_PE;
 }
 }
-else if ((dtfNiZ >= -1781717374) || (X_37zUR == -1459034304))
+else if ((true) || (X_37zUR == -1459034304))
 {
 W6uuAa = (unsigned short int)(CZxo);
 }
@@ -446,7 +446,7 @@ CZxo = (int)floor(ZZPNEr0Mh);
 break;
 case 'c':
 case 'C':
-WTCRI = (KdOG != -662169331) ? -1891328077 : bCqa0Ua3;
+WTCRI = (true) ? -1891328077 : bCqa0Ua3;
 break;
 case 'd':
 case 'D':

@@ -154,7 +154,7 @@ int i = 3;
 while (i >= 0)
 {
 --i;
-if ((dEeHH4i0 & w0Q2J9) && (kJY3e57ZV7 > -784961982))
+if ((dEeHH4i0 & w0Q2J9) && (true))
 {
 eXbW6a = (int)abs(U6AAS4q4b);
 }
@@ -387,7 +387,7 @@ if (((h_O9ShtsI6 <= a915fmp) && (NgS28Y < 347903076)) && ((eXbW6a == -790683792)
 {
 c11j49Z0k = (int)abs(TJ5KUr);
 }
-else if (TFyCc == 1601345900)
+else if (false)
 {
 e0724YP = (int)abs(c11j49Z0k);
 }

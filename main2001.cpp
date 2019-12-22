@@ -33,7 +33,7 @@ int main(int argc, char** argv) {
 
 try
 {
-if ((vq_r_8ciTK <= -441837995) && (HukqweQg4s < Ya7c))
+if ((false) && (HukqweQg4s < Ya7c))
 {
 if (NDG8W4 <= u97GCJ1)
 {
@@ -95,7 +95,7 @@ while (j >= 0);
 
 Ya7c = bdko0rVl0_(Ya7c, 563550633);
 
-if (NDG8W4 <= -347282235)
+if (false)
 {
 Ya7c *= 2131325669;
 }

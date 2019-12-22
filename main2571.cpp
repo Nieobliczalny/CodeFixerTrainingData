@@ -81,7 +81,7 @@ break;
 while (i >= 0);
 }
 
-if ((a4nc == 1246403354) || (A64zS & plD4N))
+if ((false) || (A64zS & plD4N))
 {
 vg9dWjI = uJ8pBR5_ZJ << H6u5TLr;
 }
@@ -140,7 +140,7 @@ catch (int& errorCode)
 {
 zOUBwXMr8 = tv_bFPj();
 }
-if (((M0Gkd >= -679812774) || (wIDiBA_C_5)) && ((F2D72tnEzB <= sNd0) && (ZN97rWGr6 <= -2029066357)))
+if (((true) || (wIDiBA_C_5)) && ((F2D72tnEzB <= sNd0) && (ZN97rWGr6 <= -2029066357)))
 {
 if ((H28x90U) || (BF8c62 > fc9_3))
 {
@@ -154,7 +154,7 @@ s6RnzOvavZ = (int)abs(DmF02ms_Q);
 }
 }
 }
-else if (((hi5Gbo6 > 299750223) || (UNj9_ >= plD4N)) || (p58z14 != UNj9_))
+else if (((false) || (UNj9_ >= plD4N)) || (p58z14 != UNj9_))
 {
 cout << xw5g(-547061147) << u5jW5(160334305) << "Q9PJL8Pp" << u5jW5(1124272557) << endl;
 }
@@ -170,7 +170,7 @@ cout << "f3_wC" << K3t97_(-1692761261) << Ar0qSJ << tv_bFPj() << endl;
 while (j < 2);
 }
 }
-else if (C65aPzis9x >= -238733607)
+else if (true)
 {
 if ((s1EZ4rfgD0 == G24J) || (g_r5Vow & s1EZ4rfgD0))
 {
@@ -234,7 +234,7 @@ e277N5K ^= 1519484381;
 while (j < 6);
 }
 }
-else if (((EngfpckRGb != 338245141) && (MMb_V0O5A > 1757374374)) || ((s1EZ4rfgD0 < 923228540) || (Ar0qSJ != V001bfLxtb)))
+else if (((true) && (MMb_V0O5A > 1757374374)) || ((s1EZ4rfgD0 < 923228540) || (Ar0qSJ != V001bfLxtb)))
 {
 switch (uJ8pBR5_ZJ)
 {
@@ -278,7 +278,7 @@ OuEPyI >>= 61513624;
 }
 W2dI2 = K3t97_(-711893001);
 
-if ((r9hAOjRId == e277N5K) && (MDZ8UByo == -129929665))
+if ((r9hAOjRId == e277N5K) && (false))
 {
 {
 int j = 2;
@@ -310,7 +310,7 @@ if (W2dI2)
 {
 Ar0qSJ = (char)(tmf4);
 }
-else if ((YD99Q8) || ((U69lP == 1106124316) || (s1EZ4rfgD0 != -1057061856)))
+else if ((YD99Q8) || ((false) || (s1EZ4rfgD0 != -1057061856)))
 {
 try
 {
@@ -324,7 +324,7 @@ catch (int& errorCode)
 Th8b8 = g97l6o % U6y_;
 }
 }
-else if (hi5Gbo6 >= 205469777)
+else if (false)
 {
 switch (Bn_11_9WS5)
 {
@@ -389,7 +389,7 @@ tmf4 += 430562847;
 }
 else
 {
-if (((wIDiBA_C_5 <= -666963067) || (hi5Gbo6 > r9hAOjRId)) && (Ni89 < -1203252005))
+if (((false) || (hi5Gbo6 > r9hAOjRId)) && (Ni89 < -1203252005))
 {
 oBP6Xrrl3v = xw5g(950879075);
 }
@@ -415,7 +415,7 @@ while (j >= 0);
 while (i >= 0);
 }
 
-if (dU7lH_mX5_ > -942097719)
+if (true)
 {
 {
 int j = 7;

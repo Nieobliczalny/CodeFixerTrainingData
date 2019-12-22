@@ -549,7 +549,7 @@ for (int k = 0; k < 7; k++)
 h4p190E62y = YWW_ZO(qoEL55, -640452056, S94e6, -1581500494);
 }
 }
-else if (((qNa4_y98k8 == 1949157348) || (pW50FggrZ0 & qoEL55)) || ((mHSZ_a == qNa4_y98k8) || (h4p190E62y <= -773320595)))
+else if (((qNa4_y98k8 == 1949157348) || (pW50FggrZ0 & qoEL55)) || ((mHSZ_a == qNa4_y98k8) || (false)))
 {
 if (N3pcUo91AC != -86219098)
 {

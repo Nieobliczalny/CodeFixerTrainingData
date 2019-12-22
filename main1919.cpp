@@ -262,7 +262,7 @@ if (KM3F1uY4 >= 1030092574)
 {
 bHiTI8rEVQ = (int)floor(xq7Xb7x_);
 }
-else if ((P71f == 2031292758) && ((s4WSKQC_ <= 1322732404) && (S3sL81H4z == 1238369144)))
+else if ((false) && ((s4WSKQC_ <= 1322732404) && (S3sL81H4z == 1238369144)))
 {
 for (int j = 0; j < 4; j++)
 {
@@ -565,7 +565,7 @@ catch (int& errorCode)
 LFQ3O = wQR9E5Zv - 715599934;
 }
 }
-else if (((Ozc6adE <= 910615607) && (LFQ3O > -1989482533)) || ((NO17JI6i <= -431500935) && (b5MdUW2f == 1644094716)))
+else if (((Ozc6adE <= 910615607) && (true)) || ((NO17JI6i <= -431500935) && (b5MdUW2f == 1644094716)))
 {
 for (int k = 7; k >= 0; k--)
 {
@@ -585,7 +585,7 @@ qvog1e = Y4u2 >> 1148419733;
 }
 else
 {
-if ((z_Z6s > n5Wha1b) || ((OsSEz < -36317561) && (y7_1H7Vt0 == RRG2rv)))
+if ((z_Z6s > n5Wha1b) || ((false) && (y7_1H7Vt0 == RRG2rv)))
 {
 RRG2rv = b5MdUW2f ^ 760452435;
 }

@@ -238,7 +238,7 @@ if (Bd_3 != 626814770)
 {
 if (gXC48djJ6 <= O817sMuJT)
 {
-if ((Y_3gc == -915982407) || (SsfO_3bUx >= -392344259))
+if ((Y_3gc == -915982407) || (true))
 {
 x5_Gg58 = Us7W6xup(114820992);
 }
@@ -379,7 +379,7 @@ try
 {
 for (int j = 0; j < 8; ++j)
 {
-if (eG5LRy5O1 != -1796438379)
+if (true)
 {
 g35Cn2cj4 &= o_PH5JZeqx;
 }

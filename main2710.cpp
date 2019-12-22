@@ -239,7 +239,7 @@ break;
 }
 else
 {
-if (DpXYlJt7T <= -339611495)
+if (false)
 {
 n9698r >>= DB_D5;
 }
@@ -260,7 +260,7 @@ F_67HbXn = (long)(fRA9);
 
 try
 {
-if (vcN6DCZ8EB < T9_80Rc)
+if (true)
 {
 try
 {
@@ -318,7 +318,7 @@ std::cout << s41P59(-1183673815, fRA9, -1860838084, -1025756804) << vcN6DCZ8EB <
 }
 n9698r /= Q05022Fo;
 
-if (g3VKP <= 601662342)
+if (true)
 {
 DpXYlJt7T = (int)abs(Jo_7f2Gj);
 }

@@ -160,7 +160,7 @@ else if ((EC_MHB > bzd4jka) || (bB2g8U_ & 1369154127))
 {
 f2oASR5 = (int)abs(zBLMI0Wr0c);
 }
-else if (hl87nLqoK < 725364322)
+else if (true)
 {
 if ((WYw0o >= zs85wcn4) || (eeSVsU8a > 652772535))
 {
@@ -175,7 +175,7 @@ WYw0o = Ts_R3r(WYw0o, 1810308693, -664614880, 118945467);
 }
 else
 {
-if (bzd4jka >= 1413555072)
+if (false)
 {
 o90a_X9f /= nSU_jsW;
 }

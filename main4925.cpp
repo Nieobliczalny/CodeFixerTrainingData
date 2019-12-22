@@ -97,7 +97,7 @@ if (B48b1L_ & -314450115)
 {
 lnRVM1Yw46 %= 1712015121;
 }
-else if (PMil6dz > 378978637)
+else if (false)
 {
 yhpR = XgNl23_ ^ qp7S_;
 }
@@ -152,7 +152,7 @@ int j = 0;
 while (j < 5)
 {
 ++j;
-if (oO85_ > 1308803214)
+if (false)
 {
 qp7S_ = j0bR5r(-1058627970, -868081026, jarb, tk18_2Kyi, 1871761851);
 }
@@ -174,7 +174,7 @@ if (HfH2 >= -193962995)
 {
 THxI9QW1 = (int)ceil(v7JM);
 }
-else if (qp7S_ == -1673572392)
+else if (false)
 {
 PMil6dz = N6GXifClN_(-1751205006, -477613184, TnlB);
 }
@@ -302,7 +302,7 @@ if (hJ70Wz1 > 834221458)
 {
 oO85_ = j0bR5r(1379183670, -1704445650, -1476375052, hmv1220_i, B48b1L_);
 }
-else if (K95_nubcD > 2059423971)
+else if (false)
 {
 wutO1D = (PMil6dz & oO85_) ? 1761167053 : jy9HFSM;
 }
@@ -318,7 +318,7 @@ else if ((v7JM > 858858113) || (jarb < 638125087))
 {
 jy9HFSM = j0bR5r(jy9HFSM, -1777299521, sE8Jx1, fJgzQAs5, S5pcgv8);
 }
-else if (((hJ70Wz1 == 1177605570) || (p4Mkgdp3ne == 772278363)) && (akj7UI != -496702802))
+else if (((hJ70Wz1 == 1177605570) || (p4Mkgdp3ne == 772278363)) && (true))
 {
 B48b1L_ = oO85_ >> S6LY1O5x;
 }
@@ -328,7 +328,7 @@ fJgzQAs5 = (int)floor(jarb);
 }
 }
 }
-else if (c4y4 < 748639296)
+else if (true)
 {
 if (oO85_ != -1836472093)
 {
@@ -382,7 +382,7 @@ else if (J5EB2_10v)
 {
 for (int j = 8; j >= 0; j--)
 {
-if ((PMil6dz <= 839632804) || (akj7UI))
+if ((true) || (akj7UI))
 {
 jarb = (int)ceil(J5EB2_10v);
 }
@@ -392,7 +392,7 @@ THxI9QW1 = (int)floor(v7JM);
 }
 }
 }
-else if (((HfH2 != -1521096739) || (HfH2 != 993854940)) || (S6LY1O5x <= -496547785))
+else if (((HfH2 != -1521096739) || (HfH2 != 993854940)) || (false))
 {
 if ((K95_nubcD != sE8Jx1) || (wutO1D < 841017963))
 {
@@ -403,7 +403,7 @@ p4Mkgdp3ne ^= 1129490497;
 }
 else if (PMil6dz & -1342126958)
 {
-if (PMil6dz >= 1956775017)
+if (false)
 {
 PMil6dz = N6GXifClN_(i14z, K95_nubcD, 911106401);
 }
@@ -426,7 +426,7 @@ tk18_2Kyi = (int)ceil(jarb);
 }
 else if (S6LY1O5x & sl_fwz_o)
 {
-if (jy9HFSM <= -123685698)
+if (false)
 {
 THxI9QW1 = (int)abs(hmv1220_i);
 }
@@ -439,7 +439,7 @@ else if (p4Mkgdp3ne > 45262909)
 {
 tk18_2Kyi = (float)(THxI9QW1);
 }
-else if ((K95_nubcD <= 68340608) || (c4y4 != -1021515522))
+else if ((true) || (c4y4 != -1021515522))
 {
 sE8Jx1 = j0bR5r(-496957308, Z_D19P5TLx, S5pcgv8, 1050132705, 378623066);
 }

@@ -115,7 +115,7 @@ cout << k1oQ << endl;
 }
 amDbz_Z = xGzm4fETc + uH5f_Cil;
 
-if (rH0eADb >= 396976332)
+if (false)
 {
 if ((cE5U760Qt >= X7sfPb02h) && (nQNQ == 1988465543))
 {
@@ -137,7 +137,7 @@ else
 {
 try
 {
-if (FaAk_42 != 736447097)
+if (true)
 {
 m55MRG = (int)ceil(uH5f_Cil);
 }

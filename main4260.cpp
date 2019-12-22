@@ -43,7 +43,7 @@ if (Rjtzu & Cf66tz113)
 {
 Rjtzu = m94z80UU(2121618666, wh2yBAg, gN9Q_CCU);
 }
-else if (((gN9Q_CCU & 829825592) || (Rjtzu > -1291261935)) && (gN9Q_CCU >= O0350_3K))
+else if (((gN9Q_CCU & 829825592) || (true)) && (gN9Q_CCU >= O0350_3K))
 {
 cout << Rjtzu << "xcOU0i" << "cr_G" << wh2yBAg << endl;
 }
@@ -66,7 +66,7 @@ Rjtzu = m94z80UU(wh2yBAg, -1275569974, -28452623);
 }
 try
 {
-if ((Rjtzu > c6jb) && ((Rjtzu > -1138812379) && (gN9Q_CCU)))
+if ((false) && ((Rjtzu > -1138812379) && (gN9Q_CCU)))
 {
 Rjtzu = (unsigned char)(gN9Q_CCU);
 }
@@ -161,7 +161,7 @@ gN9Q_CCU = m94z80UU(907904713, 1030967816, Rjtzu);
 int i = 2;
 do
 {
-if (gN9Q_CCU <= -139328693)
+if (false)
 {
 {
 int k = 3;
@@ -173,7 +173,7 @@ wh2yBAg = wh2yBAg % 306101078;
 while (k >= 0);
 }
 }
-else if ((gN9Q_CCU == O0350_3K) || ((gN9Q_CCU != O0350_3K) && (wh2yBAg <= gN9Q_CCU)))
+else if ((false) || ((gN9Q_CCU != O0350_3K) && (wh2yBAg <= gN9Q_CCU)))
 {
 if ((wh2yBAg & G9GC0X8B1u) || (Rjtzu))
 {
@@ -215,7 +215,7 @@ wh2yBAg = wh2yBAg | 617707123;
 }
 }
 }
-else if (((wh2yBAg < gN9Q_CCU) && (gN9Q_CCU >= wh2yBAg)) && (Rjtzu < 372856432))
+else if (((wh2yBAg < gN9Q_CCU) && (gN9Q_CCU >= wh2yBAg)) && (true))
 {
 wh2yBAg %= 514295203;
 }
@@ -290,7 +290,7 @@ break;
 }
 }
 
-if ((gN9Q_CCU >= pCID43) || (gN9Q_CCU != -922758676))
+if ((gN9Q_CCU >= pCID43) || (true))
 {
 switch (wh2yBAg)
 {
@@ -392,7 +392,7 @@ while (i < 8)
 switch (wh2yBAg)
 {
 case 0:
-wh2yBAg = (gN9Q_CCU < O0350_3K) ? O0350_3K : c6jb;
+wh2yBAg = (true) ? O0350_3K : c6jb;
 break;
 case 1:
 Rjtzu = m94z80UU(Rjtzu, gN9Q_CCU, wh2yBAg);
@@ -420,7 +420,7 @@ break;
 }
 
 Rjtzu = m94z80UU(Rjtzu, -148205369, wh2yBAg);
-if ((wh2yBAg > 797481860) || (Rjtzu > 2055130533))
+if ((wh2yBAg > 797481860) || (false))
 {
 wh2yBAg = (wh2yBAg > 1582284078) ? Rjtzu : gN9Q_CCU;
 }
@@ -502,7 +502,7 @@ default:
 wh2yBAg = gN9Q_CCU / gN9Q_CCU;
 break;
 }
-if (Rjtzu <= 433432838)
+if (true)
 {
 {
 int j = 10;

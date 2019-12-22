@@ -188,7 +188,7 @@ int main(int argc, char** argv) {
 int i = 0;
 while (i < 6)
 {
-if (iorj8WuSU <= -1447164487)
+if (false)
 {
 if (o8Gth)
 {
@@ -203,7 +203,7 @@ i++;
 }
 }
 
-if (xcFMk != -205155446)
+if (true)
 {
 std::cout << t70_L9tpJA << N0ekV() << "x3D7wl" << "Iq0i" << N0ekV() << std::endl;
 }
@@ -228,7 +228,7 @@ break;
 
 efvuDX = r851LWJ3(1963954594, apVDk5);
 
-if ((Hm8A > 816860180) || (ACJs6 != -1488891628))
+if ((Hm8A > 816860180) || (true))
 {
 s9V0aPo |= 695403706;
 }
@@ -239,7 +239,7 @@ if ((a9c_52 & -392196300) || ((lZSI & -294354804) || (UAVnHNFaL >= JJyAerMS)))
 int j = 0;
 do
 {
-if (b3zFRy7 >= 182628861)
+if (false)
 {
 UAVnHNFaL++;
 }

@@ -42,7 +42,7 @@ int j = 1;
 while (j >= 0)
 {
 j--;
-if (dOvTL9S9r == -1442858334)
+if (false)
 {
 W1tx0bFhf = (int)abs(I1C5);
 }
@@ -155,7 +155,7 @@ SX35ID = (int)abs(B_3C4xU8H8);
 break;
 }
 }
-if ((URm4t6S9 != p9_8ik5) && (v8S6K == 1405626770))
+if ((URm4t6S9 != p9_8ik5) && (false))
 {
 if (wib16 >= H0t8iWX)
 {

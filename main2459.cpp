@@ -91,7 +91,7 @@ int main()
 
 s9orI = b2w_5 / r_EtY;
 
-if (Ra4T47A1 < Q2t2_BT)
+if (true)
 {
 URch_7_2n7 = (unsigned long long)(uwok + (V5IPOp0VS));
 }

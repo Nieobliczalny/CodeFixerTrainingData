@@ -61,7 +61,7 @@ int j = 4;
 while (j >= 0)
 {
 j--;
-if ((X38LG0re83 <= -908361169) && (rO45))
+if ((false) && (rO45))
 {
 k3sxMDf = k6OR9 | l2qDVw;
 }
@@ -87,7 +87,7 @@ yuhSAy9 = (int)abs(jnKBv) + (1649015401);
 while (i < 8);
 }
 
-if ((X38LG0re83 < -2098389316) && (X38LG0re83))
+if ((false) && (X38LG0re83))
 {
 {
 int j = 9;
@@ -108,7 +108,7 @@ while (j >= 0);
 }
 else if (rO45 >= -454078707)
 {
-if ((jnKBv == -1931637558) || (k6OR9 > k3sxMDf))
+if ((false) || (k6OR9 > k3sxMDf))
 {
 for (int k = 10; k >= 0; k--)
 {
@@ -119,7 +119,7 @@ else if (X38LG0re83 <= -333828063)
 {
 x9u_ZX6mW5 = i_3PILh % l2qDVw;
 }
-else if (X38LG0re83 > -1220655766)
+else if (true)
 {
 {
 int k = 0;
@@ -131,7 +131,7 @@ k++;
 while (k < 9);
 }
 }
-else if (yuhSAy9 == 212658001)
+else if (false)
 {
 k6OR9 = G47mB << 793965314;
 }
@@ -144,7 +144,7 @@ else if ((l2qDVw <= 1036491341) || (x9u_ZX6mW5 == yuhSAy9))
 {
 G47mB = yuhSAy9 / jnKBv;
 }
-else if (((yuhSAy9) || (G47mB == -1582031522)) && (k3sxMDf < k6OR9))
+else if (((yuhSAy9) || (false)) && (k3sxMDf < k6OR9))
 {
 for (int j = 0; j < 2; j++)
 {
@@ -162,7 +162,7 @@ std::cout << yuhSAy9 << std::endl;
 }
 X38LG0re83 *= 1981394322;
 
-if ((k3sxMDf > -80524720) || ((rO45) && (jnKBv == i_3PILh)))
+if ((true) || ((rO45) && (jnKBv == i_3PILh)))
 {
 {
 int j = 0;
@@ -177,7 +177,7 @@ j++;
 }
 }
 
-if (G47mB != 838275562)
+if (true)
 {
 x9u_ZX6mW5 += G47mB;
 }
@@ -207,7 +207,7 @@ else if (x9u_ZX6mW5 < -1259590621)
 {
 l2qDVw = jnKBv / 1324009914;
 }
-else if ((yuhSAy9 != 859121972) || ((k6OR9 == 2021845667) || (k6OR9 < 740544229)))
+else if ((true) || ((k6OR9 == 2021845667) || (k6OR9 < 740544229)))
 {
 X38LG0re83 = G47mB << yuhSAy9;
 }
@@ -218,7 +218,7 @@ X38LG0re83--;
 }
 }
 }
-else if (G47mB != -41626061)
+else if (true)
 {
 {
 int j = 3;
@@ -254,7 +254,7 @@ break;
 }
 else if ((i_3PILh != rO45) || (jnKBv < X38LG0re83))
 {
-if (((k3sxMDf > -655173756) || (k6OR9 < -1351286205)) || ((yuhSAy9 > -801191733) && (rO45 > -6769650)))
+if (((true) || (k6OR9 < -1351286205)) || ((yuhSAy9 > -801191733) && (rO45 > -6769650)))
 {
 if (X38LG0re83 > 1004899967)
 {
@@ -278,7 +278,7 @@ G47mB = G47mB * 57731236;
 }
 }
 
-if ((k3sxMDf > i_3PILh) && (k3sxMDf == 789444631))
+if ((k3sxMDf > i_3PILh) && (false))
 {
 {
 int j = 0;

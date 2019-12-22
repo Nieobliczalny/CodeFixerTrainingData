@@ -173,7 +173,7 @@ while (i >= 0);
 }
 try
 {
-if (((qaz8iZe == lCqg7LHQ0) || (EVv_PI1LV < 7571987)) && ((gR8S9_25M4 == -496342550) && (e6S3Mblmb > -935613869)))
+if (((qaz8iZe == lCqg7LHQ0) || (true)) && ((gR8S9_25M4 == -496342550) && (e6S3Mblmb > -935613869)))
 {
 try
 {

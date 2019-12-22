@@ -88,7 +88,7 @@ catch (int& errorCode)
 {
 muZNiwu2 = QXMz2L4I8P & 983063878;
 }
-if (((dIH2 != 266277369) && (k_7KJi130G != -1977229116)) || (e1A2Kh9 == UN7WF3o))
+if (((true) && (k_7KJi130G != -1977229116)) || (e1A2Kh9 == UN7WF3o))
 {
 std::cout << W_gh6X4 << std::endl;
 }
@@ -123,7 +123,7 @@ if (F_F_ & -532951138)
 BxG6xSVVmE /= 1731028755;
 }
 }
-if (QB5RzC < -799155723)
+if (false)
 {
 vaLIn1 = cDIFAMSK6q % 596608500;
 }
@@ -133,7 +133,7 @@ std::cout << PFXsMD << e1A2Kh9 << "jTw7hb" << o4Nwtd3 << "dAyqjz24I2" << std::en
 }
 std::cout << "J2X4K2J48" << C0Vu068n68 << aJ_R9E9a9 << xHY07F << f24sR << std::endl;
 vc9b8 += oE_0A5I3;
-if (UN7WF3o != -2066263447)
+if (true)
 {
 W_gh6X4 = (unsigned short)(xi_R0ed);
 }
@@ -163,7 +163,7 @@ while (i >= 0)
 i--;
 for (int j = 0; j < 3; j++)
 {
-if ((BxG6xSVVmE == -882154771) || (rQbLU0vQ3))
+if ((false) || (rQbLU0vQ3))
 {
 F_F_ = o4Nwtd3 | 539067350;
 }

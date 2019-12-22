@@ -125,7 +125,7 @@ if (mAnrvi9eH)
 {
 YdM9y = jbmg_d3(rr08YI) & 1883169154;
 }
-else if (b0u7 > 1848972672)
+else if (false)
 {
 eMEkhkLL = (rr08YI) ? -986018547 : 1343066977;
 }
@@ -157,7 +157,7 @@ t8zUT8247 = yt000 << 962399204;
 break;
 }
 }
-else if ((t8zUT8247 != o805T79zk7) && ((vsOZLOd) || (iSNq != 537721297)))
+else if ((t8zUT8247 != o805T79zk7) && ((vsOZLOd) || (true)))
 {
 {
 int k = 3;
@@ -325,7 +325,7 @@ break;
 }
 cout << d4Hj1gL7f(215251581, -1425592304) << endl;
 
-if ((ja356 > o805T79zk7) || (iSNq <= 1357989679))
+if ((ja356 > o805T79zk7) || (true))
 {
 cout << IG1j44l << d4Hj1gL7f(t8zUT8247, oL1602u) << endl;
 }

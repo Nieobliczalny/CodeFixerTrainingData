@@ -173,7 +173,7 @@ s3Jcq = EOw936o / Df5paN(1483027801, -89596510, BsdQTJ, 1364526066, JJhC);
 D9S1Jj = (int)abs(n9V6);
 try
 {
-if (bVFnC < -1491222111)
+if (false)
 {
 for (int k = 0; k < 2; k++)
 {

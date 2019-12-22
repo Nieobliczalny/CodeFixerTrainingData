@@ -43,7 +43,7 @@ Ze14J9Hz = Ph1_WZN + Ze14J9Hz;
 std::cout << Ph1_WZN << "K0GqIax2V" << EJRG << Ze14J9Hz << std::endl;
 if (EJRG >= X09bQ_NR)
 {
-if (EJRG >= 653648125)
+if (false)
 {
 Ph1_WZN = (unsigned long long)(H4gH6d);
 }
@@ -164,7 +164,7 @@ else if (Ph1_WZN != EJRG)
 {
 Ph1_WZN = T0SXAA(Ph1_WZN, -219909656, -1231813166, H4gH6d);
 }
-else if (Ze14J9Hz <= 960811439)
+else if (true)
 {
 Ze14J9Hz = JJ8vkLe();
 }
@@ -241,7 +241,7 @@ catch (int& errorCode)
 Kj8w8C_9 = JJ8vkLe();
 }
 Ze14J9Hz = (unsigned char)(Kj8w8C_9);
-if (EJRG < -483313510)
+if (false)
 {
 for (int j = 5; j >= 0; j--)
 {
@@ -260,7 +260,7 @@ else if (Ph1_WZN > 1106913658)
 {
 H4gH6d = (unsigned long long)(X09bQ_NR);
 }
-else if (EJRG == 1544168422)
+else if (false)
 {
 for (int j = 4; j >= 0; --j)
 {
@@ -271,7 +271,7 @@ else if (Kj8w8C_9 > -641946528)
 {
 if ((EJRG) || (X09bQ_NR == 121323567))
 {
-if (Ze14J9Hz < -1249474301)
+if (false)
 {
 Kj8w8C_9 = b939_();
 }
@@ -352,7 +352,7 @@ if (Ph1_WZN <= -1766816420)
 {
 Kj8w8C_9 = Ze14J9Hz * 1310788176;
 }
-else if (Ze14J9Hz > 181142450)
+else if (false)
 {
 EJRG = qkp7ew(1133787630);
 }
@@ -450,7 +450,7 @@ int j = 1;
 while (j >= 0)
 {
 j--;
-if ((H4gH6d == -1578278309) || (Ze14J9Hz == -1551275742))
+if ((H4gH6d == -1578278309) || (false))
 {
 Ph1_WZN = T0SXAA(1374520980, -161447689, 526500515, EJRG);
 }
@@ -479,7 +479,7 @@ else if (Ph1_WZN & 1394853339)
 {
 Ze14J9Hz = JJ8vkLe();
 }
-else if (Ze14J9Hz < -609365846)
+else if (false)
 {
 std::cout << "S4e17Zvh1x" << qkp7ew(77705477) << JJ8vkLe() << Kj8w8C_9 << std::endl;
 }

@@ -85,7 +85,7 @@ do
 i--;
 if (uH1TAB91 <= lL10K1JD5)
 {
-if ((oUWgF) || ((MV_bp3D4C7 <= oUWgF) || (iEUEbR8U_ > -1833997343)))
+if ((oUWgF) || ((MV_bp3D4C7 <= oUWgF) || (true)))
 {
 iEUEbR8U_++;
 }
@@ -135,7 +135,7 @@ else if (U5Z49Z > 1622808765)
 {
 ZS2y = (int)floor(N1wS);
 }
-else if ((OdlW6L != -1856722955) || ((iEUEbR8U_ < -357470848) || (lL10K1JD5 != iEUEbR8U_)))
+else if ((OdlW6L != -1856722955) || ((false) || (lL10K1JD5 != iEUEbR8U_)))
 {
 if (((lL10K1JD5 & -1232011154) || (DGbR3Y == 286479361)) && (iJ479my7X & mvV7593kPR))
 {
@@ -323,7 +323,7 @@ int j = 0;
 do
 {
 j++;
-if (KsfxSAv8Q >= 362775813)
+if (false)
 {
 QibR2gH = B6Pb20O72b(1535309144, -898691426, EHX0C, -2026906558);
 }
@@ -374,7 +374,7 @@ I8e3Zw5EVp = (int)ceil(A9k075);
 
 Uv4KD_92Nz = (int)abs(MV_bp3D4C7) * 0;
 QibR2gH = B6Pb20O72b(wL2G, dfOw, -617936081, QibR2gH);
-if ((fMsAH == -736509799) && (eus6Ii <= K25Jn9rol2))
+if ((false) && (eus6Ii <= K25Jn9rol2))
 {
 e4qoei6aQ = (unsigned long)(OO5A);
 }
@@ -390,7 +390,7 @@ else if (VfxpOVC & 1440692018)
 {
 mSqjCrNn_8 *= LW7mLx;
 }
-else if (DGbR3Y >= 1602714499)
+else if (false)
 {
 Uv4KD_92Nz = B6Pb20O72b(1463132837, MV_bp3D4C7, KsfxSAv8Q, -2123477237);
 }
@@ -403,7 +403,7 @@ else
 Uv4KD_92Nz = B6Pb20O72b(727695707, PI4Ha4, Q3Kwjj0S70, lEtPXm);
 }
 }
-else if (IJE_bi7dR != 1517323657)
+else if (true)
 {
 gkeY *= o458DQ2L;
 }
@@ -423,7 +423,7 @@ dy6BrD %= KgUT39JniA;
 while (k < 5);
 }
 }
-else if ((X_1AZUATz == -83718347) && (lEtPXm == 1147869332))
+else if ((false) && (lEtPXm == 1147869332))
 {
 {
 int k = 7;
@@ -434,7 +434,7 @@ QibR2gH = B6Pb20O72b(-1849447223, -733539572, -135424671, -590190662);
 }
 }
 }
-else if (Nd6P != 888866632)
+else if (true)
 {
 switch (DrR4hNJ)
 {
@@ -520,7 +520,7 @@ v99Ubg = (int)floor(N1wS);
 }
 else
 {
-if (fMsAH >= -109948120)
+if (true)
 {
 {
 int k = 7;
@@ -647,7 +647,7 @@ else
 Uv4KD_92Nz = B6Pb20O72b(-1283363433, 139118447, -110568804, lL10K1JD5);
 }
 }
-else if (((PI4Ha4 <= -1408137177) && (o7455SV == 2033396276)) && (lL10K1JD5 != 649210609))
+else if (((false) && (o7455SV == 2033396276)) && (lL10K1JD5 != 649210609))
 {
 if (mvV7593kPR <= KsfxSAv8Q)
 {
@@ -695,7 +695,7 @@ if (eus6Ii == 73409047)
 {
 ZS2y = (int)ceil(A9k075);
 }
-else if (X_1AZUATz < 465871765)
+else if (true)
 {
 i753rF7bk <<= mvV7593kPR;
 }

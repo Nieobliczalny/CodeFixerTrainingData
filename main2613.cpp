@@ -194,7 +194,7 @@ cout << FVQ__p6() << c9wC61vJ << endl;
 }
 else
 {
-if ((x9K385bT48 == YjFj9d) && (omss <= 128437750))
+if ((x9K385bT48 == YjFj9d) && (true))
 {
 if (tz61fJv >= 1148651965)
 {
@@ -207,7 +207,7 @@ hN4_9 = aaIqj * k0fg78;
 }
 }
 A0kDIhd &= 1715147428;
-if (((A7P8jk64TP <= e910ro1) && (da97_O5 != H8DCZ9tZp)) || (erLht6rGg != -644811071))
+if (((A7P8jk64TP <= e910ro1) && (da97_O5 != H8DCZ9tZp)) || (true))
 {
 v8ZmnhU966 = (int)ceil(tz61fJv);
 }
@@ -221,7 +221,7 @@ if (p0U010 >= 246870594)
 {
 lCiRE = FVQ__p6();
 }
-else if (h6Sbl == 627546209)
+else if (false)
 {
 YM94 &= 1976311708;
 }
@@ -269,7 +269,7 @@ if ((HCn4yD2FAy >= s8D_d) || ((R__1i4a >= A0kDIhd) || (jkm0swn < wWVi19n)))
 {
 cout << "tTQld" << nogT1Rx(lCiRE, VCZpAzIWeo, -899512635, N3yRM_) << endl;
 }
-else if (da97_O5 == 1125807320)
+else if (false)
 {
 H8DCZ9tZp = (int)ceil(uuI8gGNVs);
 }
@@ -284,7 +284,7 @@ else
 cout << tz61fJv << dgdtMSX << nogT1Rx(1258185745, VCZpAzIWeo, 1568317002, -1922107046) << FVQ__p6() << Ee369hd << endl;
 }
 }
-else if (A7P8jk64TP != 483295044)
+else if (true)
 {
 jkp_ = cPGR6x3 % WEA2hCn;
 }
@@ -378,7 +378,7 @@ erLht6rGg = nogT1Rx(-1148715318, ksnp5i4X, NrY2bg37SI, F8QWy6);
 while (j < 1);
 }
 }
-else if (A7P8jk64TP >= 850719371)
+else if (false)
 {
 switch (jAk69Y99)
 {
@@ -399,7 +399,7 @@ else if (H8DCZ9tZp <= 795050011)
 {
 erLht6rGg = nogT1Rx(YjFj9d, 1380046566, 2020756018, e2aX5i_OR0);
 }
-else if (q4et < 326519159)
+else if (true)
 {
 if (MFN_ < -598231731)
 {
@@ -429,7 +429,7 @@ E1hF7_qj_ = YM94 / nogT1Rx(YjFj9d, e910ro1, 1353533651, -885156949);
 
 if (qQe_u != 1703865376)
 {
-if ((ksnp5i4X != 881994815) || (HCn4yD2FAy == -422081722))
+if ((true) || (HCn4yD2FAy == -422081722))
 {
 jkm0swn = (int)abs(EPwQd);
 }
@@ -588,7 +588,7 @@ if (kYzN7q3 != 1315293925)
 {
 if (e2aX5i_OR0 & 491320677)
 {
-if ((kYzN7q3 >= 1092268616) && (s8D_d >= -290165696))
+if ((kYzN7q3 >= 1092268616) && (true))
 {
 omss = q4et ^ 1174052758;
 }
@@ -737,7 +737,7 @@ else
 Q_f6OUmGA = JqqZJI3m0 & 294619764;
 }
 }
-else if (v49Ux2P == -1729905225)
+else if (false)
 {
 if ((CJ6YhE3If > -1818048078) && ((H8DCZ9tZp > 213578399) || (O7Fim1N8 >= 452149627)))
 {
@@ -827,7 +827,7 @@ if (NrY2bg37SI == 604868037)
 {
 cout << nogT1Rx(R__1i4a, v49Ux2P, -1142499779, -1187323731) << endl;
 }
-else if (erLht6rGg > -1411222552)
+else if (true)
 {
 {
 int j = 0;
@@ -843,7 +843,7 @@ else
 NrY2bg37SI = (int)abs(IFxPS6);
 }
 
-if ((HYd3IVC != 802980426) && (da97_O5 > 335838752))
+if ((HYd3IVC != 802980426) && (false))
 {
 try
 {

@@ -213,7 +213,7 @@ else if (nkS0SRI3 != 1070483344)
 {
 oKGABL2 -= R9A1x;
 }
-else if (J9ShCV < cdeAznl_)
+else if (false)
 {
 hLr_zz = Ek1w2OO << 1976734409;
 }

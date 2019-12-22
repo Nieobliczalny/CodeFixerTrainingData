@@ -53,7 +53,7 @@ while (i < 2);
 }
 if (QzWkNQ & 1113823709)
 {
-if (fA74v > 1629446329)
+if (false)
 {
 for (int k = 0; k < 7; k++)
 {
@@ -91,7 +91,7 @@ if (fA74v & 1756063782)
 {
 KAZ5E <<= 538193825;
 }
-else if (ip2z >= 1975436993)
+else if (false)
 {
 for (int j = 0; j < 6; j++)
 {
@@ -102,7 +102,7 @@ else if (t717KewA == eMR_Y)
 {
 QzWkNQ = Hl_96Rcr - 1439583998;
 }
-else if (((DxCk42K < 1514399057) || (t717KewA == 1758767722)) && (ixIhVSJ38T & 844935139))
+else if (((DxCk42K < 1514399057) || (false)) && (ixIhVSJ38T & 844935139))
 {
 {
 int j = 0;
@@ -113,7 +113,7 @@ if (ixIhVSJ38T != -1068463482)
 {
 Vgn584 = B_07sD2j + KAZ5E;
 }
-else if ((B_07sD2j >= -420111622) || ((f8gu3njZ0c != 875294842) && (fA74v > 133921142)))
+else if ((true) || ((f8gu3njZ0c != 875294842) && (fA74v > 133921142)))
 {
 t717KewA <<= Kr_20;
 }
@@ -129,7 +129,7 @@ else if (DxCk42K > 863725449)
 {
 KAZ5E = W5cyvgSi | Kr_20;
 }
-else if (Hl_96Rcr > 668856591)
+else if (false)
 {
 t717KewA &= 1674094586;
 }
@@ -169,7 +169,7 @@ iUPyGM = (unsigned short int)(QzWkNQ);
 
 for (int i = 5; i >= 0; --i)
 {
-if (((ixIhVSJ38T <= 1723550207) && (W5cyvgSi > -1354333076)) || (Hl_96Rcr > fA74v))
+if (((true) && (W5cyvgSi > -1354333076)) || (Hl_96Rcr > fA74v))
 {
 if (YwRCY == -1720359496)
 {
@@ -179,7 +179,7 @@ else if (f8gu3njZ0c <= -2015870878)
 {
 iUPyGM = W5cyvgSi + ip2z;
 }
-else if (iUPyGM != -1784387339)
+else if (true)
 {
 B_07sD2j += tFLRz;
 }
@@ -257,7 +257,7 @@ break;
 Vgn584 = tFLRz / 997810056;
 t717KewA %= 19139865;
 Vgn584 += ip2z;
-if (((Kr_20 >= 390703741) && (t717KewA != -1642650513)) && (tFLRz == ip2z))
+if (((false) && (t717KewA != -1642650513)) && (tFLRz == ip2z))
 {
 tFLRz = KAZ5E / 331659315;
 }
@@ -320,7 +320,7 @@ int j = 3;
 do
 {
 j--;
-if (Vgn584 == 979236440)
+if (false)
 {
 fA74v &= eMR_Y;
 }
@@ -332,7 +332,7 @@ while (j >= 0);
 RSwLX577dc = (unsigned short int)(QzWkNQ);
 for (int i = 0; i < 6; ++i)
 {
-if (Vgn584 == 771359698)
+if (false)
 {
 if (eMR_Y <= -851736268)
 {
@@ -379,7 +379,7 @@ ip2z |= 590235879;
 }
 
 std::cout << "ZF8zIs7m6" << t717KewA << QzWkNQ << ip2z << B_07sD2j << std::endl;
-if (ixIhVSJ38T <= 804199106)
+if (true)
 {
 Kr_20 = KAZ5E & RSwLX577dc;
 }

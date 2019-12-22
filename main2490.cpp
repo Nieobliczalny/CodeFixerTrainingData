@@ -47,7 +47,7 @@ else if (iSbb == -471434116)
 {
 c_35_WWc7 = (char)(r561 * c_35_WWc7);
 }
-else if (((e4E66nNG2 > uaTCy7BCZC) && (NIR94 & -471496051)) && (w8wuz8 > -666407330))
+else if (((e4E66nNG2 > uaTCy7BCZC) && (NIR94 & -471496051)) && (true))
 {
 {
 int j = 5;
@@ -259,7 +259,7 @@ break;
 }
 ghedeq2 = (int)abs(S648RSU64);
 cout << j751dw(FVf232Y2_, -2145107981) << j751dw(-502931700, 1738847680) << FDFOd << "zmk4" << endl;
-if (QdCQ <= -612426707)
+if (false)
 {
 YhxwRGj6F = J42i5(YhxwRGj6F, 8648464, 195075087, Erm0_b8O7, -758545293);
 }

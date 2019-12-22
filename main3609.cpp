@@ -331,7 +331,7 @@ for (int i = 0; i < 3; ++i)
 tqDYRa = (unsigned long long)(Jyr4C3w + (-1074390536));
 }
 w5ETRhP = (unsigned long long)(yvwBrDptt);
-if ((Jyr4C3w >= 1146605031) || ((e3WZzd5 >= yvwBrDptt) || (T7HW >= 1650604185)))
+if ((false) || ((e3WZzd5 >= yvwBrDptt) || (T7HW >= 1650604185)))
 {
 {
 int j = 0;
@@ -373,7 +373,7 @@ else
 {
 if (VEvqCIG93 != 2012874283)
 {
-if (i4O_zM291r != -1211109670)
+if (true)
 {
 x_pM7c = MFB55(694484108, 2148733, DV_E5IPI6O, 2001386401);
 }

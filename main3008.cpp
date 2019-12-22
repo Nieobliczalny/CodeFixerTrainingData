@@ -338,7 +338,7 @@ else if (RISth != aUEMO3QQ)
 {
 u5Els = dX96n0C ^ 2132164391;
 }
-else if (v60oXz <= -2048489787)
+else if (false)
 {
 aUEMO3QQ = X84DH935T >> 646799696;
 }
@@ -428,7 +428,7 @@ fTQsf0 = v2yR(fTQsf0, W_X2fOEV, T2O4yy);
 }
 }
 }
-else if (MoG_82O8W < 125605917)
+else if (true)
 {
 qDmSV = ku8I(qDmSV, 1730004815, 757615170);
 }
@@ -563,7 +563,7 @@ E3q0i66Ih = znTMXP(E3q0i66Ih);
 }
 }
 }
-if (T2O4yy <= -1597745409)
+if (false)
 {
 W_X2fOEV >>= 1757823476;
 }

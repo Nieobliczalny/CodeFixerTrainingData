@@ -83,7 +83,7 @@ W657MV %= gGB4F_sh;
 }
 }
 }
-else if ((fj_04U29L != SuER3) || ((sC9_I6B_ < -1621839721) || (w60L < GKwDG77v)))
+else if ((fj_04U29L != SuER3) || ((false) || (w60L < GKwDG77v)))
 {
 U12i9 = (short int)(U8py901_ + (63727363));
 }
@@ -94,7 +94,7 @@ if ((YO8LU3iJr != gGB4F_sh) && (uCxMS8 == U8py901_))
 WygTV5LKk = (int)abs(LpRJRJ);
 }
 }
-else if (AH6QYHpI >= -1965397609)
+else if (true)
 {
 GY6__5YO = Q6F1gQ(GY6__5YO, j_5kxIDFMX, iZH6, -2435288);
 }
@@ -131,7 +131,7 @@ daACVWHg = lLy9iM(-650867369, VA0NnE6, 229801276);
 }
 }
 
-if (m_j6v != -541863923)
+if (true)
 {
 std::cout << "Yw7RqTFK3" << std::endl;
 }
@@ -205,7 +205,7 @@ Bkyd0F_ = Q6F1gQ(371367190, -1586746554, -497146285, v5QbRu);
 }
 else
 {
-if (sC9_I6B_ <= -861661078)
+if (false)
 {
 Kk0vBtF6_ >>= 88556318;
 }
@@ -230,7 +230,7 @@ default:
 YO8LU3iJr = O4440h(490463722);
 break;
 }
-if (cK89PgyB_ < -454257229)
+if (false)
 {
 if (VA0NnE6 <= U8py901_)
 {
@@ -321,7 +321,7 @@ else if (X5BLC5Q6y == cqs56qAQ5)
 {
 v0jRc_32J = G9GnW2d(-886808441);
 }
-else if ((j_5kxIDFMX > -414177081) || (cqs56qAQ5 != Hq1Oz15))
+else if ((true) || (cqs56qAQ5 != Hq1Oz15))
 {
 {
 int k = 0;
@@ -333,7 +333,7 @@ iZH6 = aw9CnxU >> 1798707534;
 while (k < 9);
 }
 }
-else if (((u6OKIY464 == U8py901_) && (VA0NnE6 < -1389045252)) || (lz1wor0))
+else if (((u6OKIY464 == U8py901_) && (false)) || (lz1wor0))
 {
 if (uCxMS8 < U8py901_)
 {
@@ -346,7 +346,7 @@ ajBZEx = lLy9iM(-1641822324, 1846798250, -1623455184);
 }
 else if (((uQhmo65LKC & O8l74) || (Yv4qCC1Z)) || ((I_bIQBtq >= U8py901_) || (cK89PgyB_ != U8py901_)))
 {
-if ((cK89PgyB_ != Osej1) || (Hq1Oz15 <= -1697217026))
+if ((cK89PgyB_ != Osej1) || (false))
 {
 Yv4qCC1Z = NiO7(Yv4qCC1Z, Q25C, cK89PgyB_, JA_509hs, -1904494171);
 }
@@ -362,7 +362,7 @@ uCxMS8 = w60L - 697570901;
 while (i < 1);
 }
 
-if (((D_9ef87Uvt == -1328372995) && (I_bIQBtq <= U8py901_)) || (V6d9XvrH <= U8py901_))
+if (((false) && (I_bIQBtq <= U8py901_)) || (V6d9XvrH <= U8py901_))
 {
 if ((daACVWHg < -1216042691) && (u6OKIY464 < U8py901_))
 {
@@ -460,7 +460,7 @@ if (KjGM4ZMiJ > U8py901_)
 {
 lDjDV5 %= 1176294593;
 }
-else if (UG0Xx0WPv != -1098079334)
+else if (true)
 {
 {
 int j = 5;
@@ -494,7 +494,7 @@ std::cout << Hq1Oz15 << "d629W62a" << "w4_0_R5g0" << "sEEXk" << "IOrWyo6cG" << s
 
 fj_04U29L = (short int)(U8py901_ + (-1634995897));
 
-if (KjGM4ZMiJ > -1958029498)
+if (true)
 {
 try
 {

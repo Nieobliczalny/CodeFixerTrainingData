@@ -34,7 +34,7 @@ std::cout << cGYxG_Z3 << cGYxG_Z3 << "Bi7lC34_M" << "y89nHO__U" << std::endl;
 
 Iyj0RMOvYq <<= 703811374;
 
-if (((R2aWb94 == V_gM9nB) && (mqahtkZ == -1841842629)) || (Iyj0RMOvYq >= 2134200462))
+if (((R2aWb94 == V_gM9nB) && (false)) || (Iyj0RMOvYq >= 2134200462))
 {
 if (ekaE3xlb != 1982009785)
 {
@@ -55,7 +55,7 @@ else if (Q_O3G07ZI == Iyj0RMOvYq)
 {
 Iyj0RMOvYq = Q_O3G07ZI - 937935260;
 }
-else if (((Iyj0RMOvYq) && (ekaE3xlb <= -1770865674)) || ((Iyj0RMOvYq <= -1712147174) && (ekaE3xlb == Iyj0RMOvYq)))
+else if (((Iyj0RMOvYq) && (false)) || ((Iyj0RMOvYq <= -1712147174) && (ekaE3xlb == Iyj0RMOvYq)))
 {
 {
 int k = 0;

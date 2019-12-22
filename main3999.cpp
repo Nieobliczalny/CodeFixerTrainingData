@@ -60,7 +60,7 @@ while (i < 9);
 qZ86Q6 = (unsigned short)(iHEY3);
 JA2g = b5b95nNzpg << 1856542300;
 
-if (((Ush6 <= y7162vu) || (F0_UW34s < dETON)) || (xLO7d3 != -1922836433))
+if (((Ush6 <= y7162vu) || (false)) || (xLO7d3 != -1922836433))
 {
 {
 int j = 0;
@@ -73,7 +73,7 @@ T41J2TC = NOx8QadC(T41J2TC, -562688119, pGn4__Jhb, 994226947);
 }
 else if (zeFBQT1 & oDK_)
 {
-if (((x3Gn < dETON) || (zeFBQT1 != dETON)) && (d4y04JuC5 > R7ojY2_548))
+if (((true) || (zeFBQT1 != dETON)) && (d4y04JuC5 > R7ojY2_548))
 {
 for (int k = 2; k >= 0; --k)
 {
@@ -87,7 +87,7 @@ if ((dTIm >= nw9Qi3Uc) && (r35t))
 {
 x3Gn = a_44(cnI0Q7, T41J2TC, -1861115551, WK8pg, Q59NtES);
 }
-else if (F0_UW34s == 2053208145)
+else if (false)
 {
 if (PlwKk == nw9Qi3Uc)
 {
@@ -102,7 +102,7 @@ else
 xLO7d3 = NOx8QadC(xLO7d3, BZgS, -756857480, -2081892465);
 }
 }
-else if (ur4I653eHE <= -1634772336)
+else if (false)
 {
 {
 int k = 0;
@@ -116,7 +116,7 @@ while (k < 4);
 }
 else if (dFRZkIL5 & -1905791100)
 {
-if (F0_UW34s >= 40816320)
+if (false)
 {
 qZ86Q6++;
 }
@@ -137,7 +137,7 @@ k++;
 }
 }
 }
-else if (gmq_V < 1717600801)
+else if (true)
 {
 RQV7T0H4 ^= 2018710779;
 }
@@ -148,7 +148,7 @@ int j = 0;
 while (j < 8)
 {
 j++;
-if ((RQV7T0H4 <= -1673783366) && (pGn4__Jhb != fKY7WR))
+if ((false) && (pGn4__Jhb != fKY7WR))
 {
 uS1cbOm = (int)abs(x3Gn);
 }
@@ -166,7 +166,7 @@ int j = 8;
 do
 {
 j--;
-if ((h46Ds >= 715319646) && ((x3Gn < L8W2C89z) || (dFRZkIL5 < B4bI)))
+if ((false) && ((x3Gn < L8W2C89z) || (dFRZkIL5 < B4bI)))
 {
 uS1cbOm = (int)abs(x3Gn);
 }
@@ -293,7 +293,7 @@ x3Gn = a_44(I56B, LLG_4bK_6, -363966617, RQV7T0H4, d4y04JuC5);
 }
 while (i < 7);
 }
-if ((zeFBQT1 < WK8pg) || (DwAtdj1V9 < dETON))
+if ((zeFBQT1 < WK8pg) || (false))
 {
 kdA6L = (unsigned short)(dETON);
 }
@@ -306,7 +306,7 @@ for (int k = 3; k >= 0; --k)
 ZfyJi = BIzav6 + d4y04JuC5;
 }
 }
-else if (VNx2Y9_EGz >= BIzav6)
+else if (false)
 {
 g8Nc9hW3nN = (unsigned short)(iHEY3);
 }
@@ -318,7 +318,7 @@ x3Gn = a_44(-1998814937, Cb9e79k1H, 611571681, 1963369586, JA2g);
 
 LLG_4bK_6 = etzY_752 / a_44(1485046002, -1897756427, nw9Qi3Uc, WbZpL, JA2g);
 h46Ds = (unsigned short)(iHEY3);
-if (r35t == 687204262)
+if (false)
 {
 for (int j = 0; j < 10; ++j)
 {
@@ -342,7 +342,7 @@ JNkF270 = Gj9uH | 696205111;
 }
 else if (RQV7T0H4 & 258360921)
 {
-if (rlX2J3w < iHEY3)
+if (true)
 {
 for (int k = 8; k >= 0; k--)
 {

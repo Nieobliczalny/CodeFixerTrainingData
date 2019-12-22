@@ -61,7 +61,7 @@ int i = 0;
 while (i < 3)
 {
 ++i;
-if ((U6YF == -2073405447) && (U6YF))
+if ((false) && (U6YF))
 {
 std::cout << U6YF << "U3ET1TzO" << iUTa << std::endl;
 }
@@ -163,7 +163,7 @@ iUTa = R6Kk(-263934508);
 break;
 }
 
-if (U6YF > 1283454050)
+if (false)
 {
 U6YF = (unsigned char)(S_h_);
 }

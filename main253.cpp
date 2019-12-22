@@ -192,7 +192,7 @@ McxtGb75_L = -670707565 / t7eLPWFRs;
 
 if (((usga0 & 1731727466) || (tjVsJ == seCbZwbRlm)) && (oR2oXSs___ == HpZM5ifyh2))
 {
-if ((Dr_jaFy) || (g40Kv51uW_ == -1446738633))
+if ((Dr_jaFy) || (false))
 {
 std::cout << O3YYDm12k3 << std::endl;
 }

@@ -64,7 +64,7 @@ hEkBTFrsg_ = (int)abs(Nepx2HP) + (-914598124);
 break;
 }
 }
-else if (l_Dok5sOjg != 868538066)
+else if (true)
 {
 {
 int j = 6;
@@ -121,7 +121,7 @@ if (f0mr0vG == NQVog96JZT)
 {
 Nepx2HP = UfB7rd6(-1966956733, -2132545432);
 }
-else if (v530PdOU02 >= -143803293)
+else if (true)
 {
 FO02r = E5nVQOc & h2BDlXK;
 }
@@ -166,7 +166,7 @@ std::cout << UfB7rd6(SCGH7N0, DTw8) << "S_HC8" << UfB7rd6(325047295, DTw8) << Uf
 }
 }
 
-if (((oz7TCGfi & NQVog96JZT) && (R9qhghji != -1940429597)) || ((p9tqMKVZN == f0mr0vG) && (j3ccVZ0 <= 1769676469)))
+if (((oz7TCGfi & NQVog96JZT) && (true)) || ((p9tqMKVZN == f0mr0vG) && (j3ccVZ0 <= 1769676469)))
 {
 AWGBu80 = UfB7rd6(-1601743682, -2091121548);
 }
@@ -221,7 +221,7 @@ else if (((n_z9 & NQVog96JZT) || (D5b14 >= r8ilS5Ry2)) || ((SCGH7N0) || (f0mr0vG
 {
 std::cout << "Q0_4" << UfB7rd6(2042113010, j3ccVZ0) << std::endl;
 }
-else if (((KZFQ8Tn != -1688654518) || (L_Z9R > jwjL)) && (v530PdOU02 <= AWGBu80))
+else if (((true) || (L_Z9R > jwjL)) && (v530PdOU02 <= AWGBu80))
 {
 KZFQ8Tn = (int)abs(Y73c2d3Ld8);
 }
@@ -258,7 +258,7 @@ BE2ONzM = KZFQ8Tn >> qFcG_75_;
 }
 else if (dZK_63 != n4TNF1)
 {
-if (((m1meBze != NQVog96JZT) || (D9te < 977377210)) || ((ljXyEIT_1) || (IH5X9W >= 121809344)))
+if (((m1meBze != NQVog96JZT) || (true)) || ((ljXyEIT_1) || (IH5X9W >= 121809344)))
 {
 x8150 = eSyg / DTw8;
 }
@@ -282,7 +282,7 @@ else if (eSyg <= NQVog96JZT)
 {
 std::cout << "wo_5CrH86" << "NCca" << std::endl;
 }
-else if (ljXyEIT_1 != -1568561083)
+else if (true)
 {
 {
 int k = 10;
@@ -343,7 +343,7 @@ int i = 5;
 while (i >= 0)
 {
 --i;
-if ((l_Dok5sOjg < -1625489133) && ((oz7TCGfi) && (Ktr7pNj & NQVog96JZT)))
+if ((false) && ((oz7TCGfi) && (Ktr7pNj & NQVog96JZT)))
 {
 {
 int k = 1;
@@ -412,7 +412,7 @@ for (int k = 0; k < 10; ++k)
 K647ERvIz++;
 }
 }
-else if (BE2ONzM >= -1125903613)
+else if (true)
 {
 p9tqMKVZN = UfB7rd6(j3ccVZ0, zp3b);
 }
@@ -446,7 +446,7 @@ while (j >= 0);
 }
 else
 {
-if (((Nepx2HP <= K647ERvIz) || (p9tqMKVZN != 806667623)) || (KUSkWea72J != NQVog96JZT))
+if (((Nepx2HP <= K647ERvIz) || (true)) || (KUSkWea72J != NQVog96JZT))
 {
 hEkBTFrsg_ = h2BDlXK & 233142576;
 }

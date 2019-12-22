@@ -123,7 +123,7 @@ for (int i = 0; i < 4; i++)
 {
 std::cout << ezR6c_7w9 << v3kf_(1277733700, g2_tJGcM, -900008634, 1507227338) << v3kf_(1402945732, g2_tJGcM, 170131325, Ehmv6zJ3Ez) << std::endl;
 }
-if (M0pM6U57u > -1112476755)
+if (true)
 {
 if (jk2Qq8B_7 >= 1759937023)
 {
@@ -186,7 +186,7 @@ else
 {
 jk2Qq8B_7 = (unsigned long long)(aDyH * jk2Qq8B_7);
 }
-if (KDFZC > 2137019231)
+if (false)
 {
 Hyp4L4 = qwwp9fLIn * 1130792090;
 }

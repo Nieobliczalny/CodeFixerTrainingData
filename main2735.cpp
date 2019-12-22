@@ -206,7 +206,7 @@ break;
 
 try
 {
-if (sB1ChT4ZPG >= -1109934795)
+if (true)
 {
 std::cout << KkdT1vUh << QVBa2_8Ys() << E_Ks5Ui << xkcUtom8DY << std::endl;
 }
@@ -222,7 +222,7 @@ zQ34 = vzR30o9 & 717569480;
 while (k >= 0);
 }
 }
-else if (R92u16 == 810334332)
+else if (false)
 {
 if (yR9e)
 {
@@ -233,7 +233,7 @@ else
 yNmz99Od = yCZT0 | E8zZb8T;
 }
 }
-else if (tIpfV99 == 1918985220)
+else if (false)
 {
 std::cout << "Ov4xiK5x" << std::endl;
 }
@@ -290,7 +290,7 @@ catch (int& errorCode)
 {
 yNmz99Od |= lU6_7M1RqO;
 }
-if ((u_58BQ0W9 == Uthe3S7_) || (yR9e <= 1780583172))
+if ((u_58BQ0W9 == Uthe3S7_) || (true))
 {
 MJ7l8cg13 = p7bhQJ();
 }
@@ -307,7 +307,7 @@ case 2:
 KkdT1vUh = Ss1a9PZf_J(979915920, MJ7l8cg13, SwVU29);
 break;
 }
-if (((E8zZb8T <= -489845660) && (FX3A3)) && ((vVuJ0l) || (pf85_4w > -2143200784)))
+if (((false) && (FX3A3)) && ((vVuJ0l) || (pf85_4w > -2143200784)))
 {
 if (SD06rj & 88462913)
 {
@@ -335,7 +335,7 @@ break;
 }
 }
 }
-else if (((WJWd1) && (R03P5 == 953443298)) || (vfca4G6G & 127364843))
+else if (((WJWd1) && (false)) || (vfca4G6G & 127364843))
 {
 for (int j = 0; j < 7; ++j)
 {
@@ -371,7 +371,7 @@ int j = 0;
 while (j < 5)
 {
 ++j;
-if (SD06rj > 2097777844)
+if (false)
 {
 FX3A3 = p7bhQJ();
 }
@@ -383,7 +383,7 @@ else if (zQ34 != 743800004)
 {
 f_O5xHDV--;
 }
-else if (A53fPl3ufM <= -839689995)
+else if (false)
 {
 S0gGK = (int)abs(u_58BQ0W9);
 }
@@ -405,7 +405,7 @@ if ((e_32c & ZWrxgS) && (Vn77HSFOO == ZjhQW))
 {
 IBnB07Wb42++;
 }
-else if (((e_32c > M9n2989) && (MJ7l8cg13 == -1217220845)) || ((tIpfV99 & -2033550207) || (kRUOqV_)))
+else if (((e_32c > M9n2989) && (false)) || ((tIpfV99 & -2033550207) || (kRUOqV_)))
 {
 try
 {
@@ -417,7 +417,7 @@ else if (WJWd1 <= 402568347)
 {
 v5Su5TS7gP = p7bhQJ();
 }
-else if ((vVuJ0l == -771660875) || (Z_OP0A >= -339649430))
+else if ((false) || (Z_OP0A >= -339649430))
 {
 U0Z8l = NLaYxve_(1862947010, tidqhY84K4, vVuJ0l, yNmz99Od);
 }
@@ -450,7 +450,7 @@ for (int i = 0; i < 10; ++i)
 {
 if (sB1ChT4ZPG <= f_O5xHDV)
 {
-if (((yCQ4vK & pzo2yR_6zy) || (DdE9 == 1585867858)) || (xkcUtom8DY))
+if (((yCQ4vK & pzo2yR_6zy) || (false)) || (xkcUtom8DY))
 {
 yR9e = Ss1a9PZf_J(rKmqd, MJ7l8cg13, yNmz99Od);
 }
@@ -462,7 +462,7 @@ yCQ4vK %= 2135581740;
 }
 for (int i = 10; i >= 0; --i)
 {
-if (xe__439 != 102991904)
+if (true)
 {
 ATHM68 = jiR_57_ & 1887473197;
 }

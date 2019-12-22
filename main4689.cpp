@@ -222,7 +222,7 @@ else if (ZyypfGtC73 <= 2128133256)
 {
 for (int j = 3; j >= 0; --j)
 {
-if ((uCU_YnN0E4 >= 1265404081) && (y1zQIN != x1hV3r8U_E))
+if ((false) && (y1zQIN != x1hV3r8U_E))
 {
 a6Trz1NnG4 = N91Ta_N6i(1766154832, -1592549402);
 }
@@ -245,7 +245,7 @@ for (int j = 0; j < 4; j++)
 S0US73 = (int)(x1hV3r8U_E + (1211245867));
 }
 }
-else if (((lIc9) && (uCU_YnN0E4 < 385679808)) || ((ZyypfGtC73 & 1901868841) && (j81c_ <= k9F_3o)))
+else if (((lIc9) && (true)) || ((ZyypfGtC73 & 1901868841) && (j81c_ <= k9F_3o)))
 {
 j81c_ = (int)(x1hV3r8U_E + (1490051588));
 }
@@ -264,7 +264,7 @@ if (j81c_)
 {
 COk9189x34 = (int)(gU5G);
 }
-if ((wNvVs < -472875137) && (COk9189x34 < -325781438))
+if ((false) && (COk9189x34 < -325781438))
 {
 switch (mCSV1ALUu)
 {

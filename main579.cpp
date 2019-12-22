@@ -36,7 +36,7 @@ vy8QPBU += a82Fb;
 while (j < 5);
 }
 }
-else if (((OLUsT4Z40_ != -221991578) && (a82Fb & vz2DD)) || (y74C07qLGl))
+else if (((true) && (a82Fb & vz2DD)) || (y74C07qLGl))
 {
 for (int j = 9; j >= 0; j--)
 {
@@ -57,7 +57,7 @@ qqnH_ = (c28Cqq44B) ? Z8S9Z7(-361629216, LXz9o1c, y74C07qLGl, C9l7gzH, HVpx01L3p
 }
 }
 }
-else if (H9_fEyhXG != -2134202772)
+else if (true)
 {
 {
 int j = 0;
@@ -75,7 +75,7 @@ v9vz_50JQ = HLTm8yWqq | 871262735;
 }
 }
 }
-else if ((I2cn == 1385337410) && (W08QNqhM >= xzCefxF))
+else if ((false) && (W08QNqhM >= xzCefxF))
 {
 std::cout << "wosqe_2RvB" << "FA_Yy" << Z8S9Z7(rVjUvA0pHS, 1058491890, 1195591048, 1653545704, 766863419) << C9l7gzH << std::endl;
 }
@@ -171,7 +171,7 @@ c28Cqq44B = (unsigned short int)(G47G_B6);
 while (i < 2);
 }
 
-if (M88D0J5q2 < -1820079434)
+if (false)
 {
 if (((v9vz_50JQ < 1658173252) || (xzCefxF > 1282914909)) || (PgLzVF))
 {
@@ -196,7 +196,7 @@ P4_d6B9HDM = ioVW_c5mx(-1899145991, 964413763, xDWsKAw, 829779383, -1569408401);
 while (k < 10);
 }
 }
-else if (Ickig6Fw >= -1087297662)
+else if (true)
 {
 {
 int k = 0;
@@ -323,7 +323,7 @@ HLTm8yWqq = (unsigned short int)(JKFP);
 int i = 0;
 do
 {
-if (y74C07qLGl < 1222642896)
+if (true)
 {
 for (int k = 2; k >= 0; --k)
 {
@@ -339,7 +339,7 @@ std::cout << "o3DHH2" << std::endl;
 while (i < 2);
 }
 jT5MhnZOK_ >>= 2134461980;
-if ((t8Wn7u != -1726934727) && ((y74C07qLGl > -560843490) || (qnYFUze1Q != -825993996)))
+if ((true) && ((y74C07qLGl > -560843490) || (qnYFUze1Q != -825993996)))
 {
 if (CyluX >= 1906001199)
 {
@@ -358,7 +358,7 @@ U6qoSzgV *= LXz9o1c;
 }
 else
 {
-if (CxTui_ > 18444073)
+if (false)
 {
 {
 int k = 0;
@@ -448,7 +448,7 @@ try
 {
 for (int j = 0; j < 4; j++)
 {
-if (l7qMXx2Z != -802490203)
+if (true)
 {
 I2cn |= CrX_V;
 }
@@ -458,7 +458,7 @@ catch (int& errorCode)
 {
 qSVW = Z8S9Z7(1724988435, -1626084977, LXz9o1c, -1346482661, 1327592539);
 }
-if ((h3qE >= -56848334) || (xDWsKAw >= -203138705))
+if ((true) || (xDWsKAw >= -203138705))
 {
 {
 int j = 0;
@@ -515,7 +515,7 @@ if (hRXQAn40p_ > saV23qy2)
 gRNz = (unsigned short int)(G33N__7gT);
 }
 }
-else if (Mm3QQ >= -840584173)
+else if (true)
 {
 if (((qSVW > qnYFUze1Q) && (CrX_V & 34213576)) || ((qnYFUze1Q) || (HLTm8yWqq & 2071844900)))
 {
@@ -529,7 +529,7 @@ fy_b = G33N__7gT ^ 1092393896;
 }
 }
 }
-else if (hRXQAn40p_ <= 581002516)
+else if (true)
 {
 xzCefxF -= 893100086;
 }

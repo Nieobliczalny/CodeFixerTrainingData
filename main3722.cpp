@@ -181,7 +181,7 @@ catch (int& errorCode)
 XUfGV607 = (int)floor(KKDkP2);
 }
 }
-else if (uQD3086D9 == oOSkD2)
+else if (false)
 {
 A7L88 *= XUfGV607;
 }

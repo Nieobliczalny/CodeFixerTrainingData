@@ -117,7 +117,7 @@ ElTT__F6J = (int)abs(A1418uZYR) + (1854329199);
 }
 if (YH450v6 == 2091125478)
 {
-if ((jr029DpN_ == 271709156) || (TPk5k_N))
+if ((false) || (TPk5k_N))
 {
 D6QK82W = fzASA1(1091875040, D6QK82W, ZXWGpKd0, 1278462706, m0k8);
 }

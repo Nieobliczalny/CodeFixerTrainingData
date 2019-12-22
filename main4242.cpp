@@ -187,7 +187,7 @@ if (Ou05CUG9)
 {
 D38fgd = (int)floor(W03JLqc5);
 }
-else if (Ou05CUG9 >= -1363247286)
+else if (true)
 {
 W03JLqc5 = (int)floor(Ngqi);
 }

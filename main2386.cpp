@@ -56,7 +56,7 @@ if (Mga_MfQb & a1799kPum)
 {
 W032V794u = xRvYvFsdNj & 1121150217;
 }
-else if (W4Kx != -257119540)
+else if (true)
 {
 T9H1t_ = (int)abs(pS_8);
 }

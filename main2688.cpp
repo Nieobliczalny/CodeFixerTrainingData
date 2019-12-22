@@ -67,7 +67,7 @@ else
 {
 for (int j = 4; j >= 0; --j)
 {
-if (HQtvh >= 729994404)
+if (false)
 {
 u39Z8FFp--;
 }

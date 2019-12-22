@@ -202,7 +202,7 @@ for (int i = 0; i < 1; i++)
 DP2Z69 = iAIu0 << csmUUB0;
 }
 
-if (sry29J0_ > 1354711315)
+if (false)
 {
 hjytO8b_ /= 2089279095;
 }
@@ -217,7 +217,7 @@ to3l = (unsigned long)(kIbo2GqE36);
 }
 }
 }
-else if (EP5xq0uL8D == -1021826210)
+else if (false)
 {
 try
 {

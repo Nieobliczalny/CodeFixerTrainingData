@@ -169,7 +169,7 @@ int main() {
     unsigned long    L17v4a;
     L17v4a    =    -1603192210;
 
-if (cD46 >= -1016071345)
+if (true)
 {
 switch (TWpio8)
 {
@@ -208,7 +208,7 @@ Sn205 = vW8g_d3Jk % 279196244;
 break;
 }
 }
-else if (o5jMRm5H != o9I54k)
+else if (true)
 {
 if ((e_bBi6iOu != ZXBsjTYm7) && (uQn1_ >= o9I54k))
 {
@@ -220,7 +220,7 @@ else if (EEFMyztozx < -984352164)
 {
 MjVelt6 = (int)abs(xRlsSc6OU) * 0;
 }
-else if (iJHQ >= Yi0YAI)
+else if (true)
 {
 GXIq6 = elSy1Q(GXIq6, w_3X0c9b9, -1824448971, 1425339793, cs0492Z4JU);
 }
@@ -272,7 +272,7 @@ break;
 }
 }
 }
-else if (i9Q_ >= Yi0YAI)
+else if (true)
 {
 {
 int j = 5;
@@ -339,7 +339,7 @@ break;
 }
 for (int i = 0; i < 6; ++i)
 {
-if (cD46 != Yi0YAI)
+if (true)
 {
 if (F2Rs_)
 {

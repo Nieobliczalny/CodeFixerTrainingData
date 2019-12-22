@@ -129,7 +129,7 @@ else if (nfYeV5Cg)
 {
 kSDlpoLy = (int)ceil(tA74);
 }
-else if (VM4tQ < -1403405564)
+else if (false)
 {
 std::cout << tSCRp4_ << KoEj(mufT2, 1231826641, 948575496) << "Utm5" << "Y7z2W" << FUy6 << std::endl;
 }
@@ -203,7 +203,7 @@ else
 L163 = (int)ceil(aX11_FX7z);
 }
 }
-else if ((GJ6kga & Ljq034b) && (CAfHW676 == -765766379))
+else if ((GJ6kga & Ljq034b) && (false))
 {
 {
 int k = 10;
@@ -276,7 +276,7 @@ else
 tCoJvwL3T = (unsigned long)(Hks4);
 }
 G2_5kTk287 = -414931511 / qNV7MS;
-if (((CAfHW676 < 1731405247) && (nfYeV5Cg < -1935963842)) && ((FUy6) && (OM_3f >= -1932227818)))
+if (((true) && (nfYeV5Cg < -1935963842)) && ((FUy6) && (OM_3f >= -1932227818)))
 {
 if (Hks4 != jmn1)
 {

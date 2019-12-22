@@ -170,7 +170,7 @@ Cs0zmm_GPp = CZDe3u_I5F(Cs0zmm_GPp, q4MeW8v);
 }
 }
 }
-else if (leMVcdrO_k != 1388336485)
+else if (true)
 {
 {
 int j = 0;
@@ -335,7 +335,7 @@ cout << ssE9cF_(-167790818, -29201986, E_qn, -553335224) << leMVcdrO_k << endl;
 VWysEU_bF = (long double)(nP8xkUR);
 U93HaDot = ssE9cF_(2111536778, -1356110055, q6m02q7S, 856964790);
 VWysEU_bF = (int)floor(NP0oE);
-if (BUxj <= -1191538875)
+if (false)
 {
 for (int j = 9; j >= 0; --j)
 {

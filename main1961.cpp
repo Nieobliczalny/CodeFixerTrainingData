@@ -137,7 +137,7 @@ int main(int argc, char** argv)
   int  H6Nh;
   H6Nh  =  1038521146;
 
-if (AXJ8Q5md == aJ6z3f)
+if (false)
 {
 if ((MtLC0_pz9u & uErxPx1W) && (DbBtv <= -618037415))
 {
@@ -215,7 +215,7 @@ DbBtv = aJ6z3f + 1319710364;
 
 v0_9 = KWXDL9BPM / ujs3;
 
-if ((FTaEVQ > -1158914614) && (bJYXipWA != uErxPx1W))
+if ((true) && (bJYXipWA != uErxPx1W))
 {
 if (((bJYXipWA > aJ6z3f) || (jkeb9X99 > 2016670630)) || ((r5z3g > -566327880) && (bHFO != -1909442361)))
 {
@@ -249,7 +249,7 @@ else if (KWXDL9BPM != GYgv6Yz)
 {
 jkeb9X99 -= 567315873;
 }
-else if (N6Bf7Xh3 == 956407278)
+else if (false)
 {
 N6Bf7Xh3 = kZ2_5c ^ a4tx;
 }
@@ -316,7 +316,7 @@ iA95xZWdi = i1Q16(-2027308697, -1613976326, s4ANcr);
 int i = 3;
 while (i >= 0)
 {
-if (AH_w3_W9 != uErxPx1W)
+if (true)
 {
 switch (bJYXipWA)
 {
@@ -392,7 +392,7 @@ wT7oellUP = i1Q16(1351672843, -483046391, AXJ8Q5md);
 break;
 }
 }
-else if (fH2p8 == -1760986733)
+else if (false)
 {
 usQw1Vc33_ <<= a4tx;
 }
@@ -414,7 +414,7 @@ if (r5z3g & yj8MFugT3)
 {
 if (RpuWN1BQ < -1265570177)
 {
-yj8MFugT3 = (TN_Jb0 != 247274917) ? QX0EU29Cp : uErxPx1W;
+yj8MFugT3 = (true) ? QX0EU29Cp : uErxPx1W;
 }
 else
 {

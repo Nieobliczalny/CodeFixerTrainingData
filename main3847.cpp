@@ -471,7 +471,7 @@ else if (OsIDvp == VAviiqDp3A)
 {
 T2OOqz4haV = (long)(Q07SRM7TU);
 }
-else if (((cen3Vv82B <= i27G12bgS) && (J4kWFbl <= -562960677)) || (n6_Idwia5_ >= -966329156))
+else if (((cen3Vv82B <= i27G12bgS) && (J4kWFbl <= -562960677)) || (true))
 {
 if (xCo28Hb_pc == 2043843648)
 {

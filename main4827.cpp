@@ -200,7 +200,7 @@ i0sB = Mno299(i0sB, Cvsr07de, BV3x, GI7UZw);
 }
 else
 {
-if (K_J09py == 1084288963)
+if (false)
 {
 for (int k = 9; k >= 0; k--)
 {

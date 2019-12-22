@@ -173,7 +173,7 @@ i--;
 int j = 0;
 do
 {
-if (((Sq5f9bVTkU <= 219298715) || (x86F3gg == T38D)) && (R9ev8w3iyS == 729098734))
+if (((true) || (x86F3gg == T38D)) && (R9ev8w3iyS == 729098734))
 {
 GOIm_N9n_r &= T5ue3QV;
 }
@@ -204,7 +204,7 @@ else if (K1jQxp8 <= aGC6rS6n8)
 {
 z3EnHby39 = (int)floor(Wv5w0w);
 }
-else if (snZGR99E == -525061678)
+else if (false)
 {
 Mg65 = r3zH938yeo(613184993, 594698039, mN93IL0T, -1738506237, lJUk9Y);
 }
@@ -267,7 +267,7 @@ int j = 5;
 do
 {
 --j;
-if ((T38D != -468786273) && (ul8vjFk131 > -42390646))
+if ((true) && (ul8vjFk131 > -42390646))
 {
 D0xL5Tc = W0Y4A8uQP - PQl_Yj52;
 }
@@ -279,7 +279,7 @@ if (QCGXX41ELk == 1745935542)
 {
 cout << "GW62oM8A34" << "aGx02C5" << lAnN_yC02 << endl;
 }
-else if ((Lw12 >= -562241602) || ((CkrO0 == -1423322512) || (u7d8Khp5J <= mJ3DnTg6g)))
+else if ((true) || ((CkrO0 == -1423322512) || (u7d8Khp5J <= mJ3DnTg6g)))
 {
 if (yT_vT8r <= -733167927)
 {
@@ -412,7 +412,7 @@ yWuO59i6_2 = (int)ceil(aGC6rS6n8);
 }
 }
 }
-Wv5w0w = (Mg65 < -1555142056) ? ul8vjFk131 : YrE1Z;
+Wv5w0w = (false) ? ul8vjFk131 : YrE1Z;
 if (AR5m <= -1917037576)
 {
 if ((Xs6J == 1257502305) && (JOD3KA9 <= bnF8))
@@ -422,7 +422,7 @@ HESX = mJ3DnTg6g / lJUk9Y;
 }
 else
 {
-if ((R9ev8w3iyS < 2073969035) || (CkrO0 != -795837435))
+if ((true) || (CkrO0 != -795837435))
 {
 if (axH1zjWw == 1289781137)
 {
@@ -471,7 +471,7 @@ u7d8Khp5J = tnfZ2(-1282007817);
 QCGXX41ELk = r3zH938yeo(1808895660, tYXtNN9I11, 2045134334, -418232288, 614856546) / lAnN_yC02;
 cout << D0xL5Tc << "T43tlGC_9" << "S34FG01K4" << endl;
 
-if (GLE45A_4U4 > 1116611549)
+if (false)
 {
 if (eb87E2CQ == 82404879)
 {
@@ -486,7 +486,7 @@ if (EZ8oZ1e_mk)
 {
 ul8vjFk131 = (int)floor(aGC6rS6n8);
 }
-else if (((MTHaB < CkrO0) || (mJ3DnTg6g <= 1055440819)) || (lJUk9Y >= -371166712))
+else if (((MTHaB < CkrO0) || (true)) || (lJUk9Y >= -371166712))
 {
 Rx72c5o0 = (int)floor(UMAdAW);
 }
@@ -498,7 +498,7 @@ else if ((X261 & 1909419565) || (wL35 == -2131640723))
 {
 K1jQxp8 &= 487335839;
 }
-else if (dv7A69_gd >= 905296666)
+else if (false)
 {
 kfl3L = tnfZ2(-2113851470);
 }

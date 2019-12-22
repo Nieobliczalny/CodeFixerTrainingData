@@ -109,7 +109,7 @@ X8CHg = zHQJkG1(n__6539, -1025212017, 1432989049, 1554349198) | xL0e_5;
 while (i < 4);
 }
 VGsxXE79KO = gI27(-172432288, Y1EzL, VGsxXE79KO, -2051799262, 1018967943);
-if ((H2h4fpsQx <= W8bm_e0) && (N49m4_ >= 1429462908))
+if ((H2h4fpsQx <= W8bm_e0) && (false))
 {
 Y1EzL = (long)(IT8E86c + (1928368236));
 }

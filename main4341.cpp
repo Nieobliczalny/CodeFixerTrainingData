@@ -201,7 +201,7 @@ int main(int argc, char** argv)
     long long    j78k7Z5;
     j78k7Z5    =    -310689272;
 
-if (sd3eV1 < 1736003744)
+if (true)
 {
 zfC3gHG3p = (int)abs(UxHetlA80);
 }
@@ -233,7 +233,7 @@ if ((W_TgQ14k1j >= Lsoo) && (Pb5H == 683618731))
 {
 std::cout << sg99(-1603409510, 1006930102, cAEPj_J88l, -651051806, -1107722351) << W_TgQ14k1j << z86yvSmY << j7fmm6 << ZJJnQ26 << std::endl;
 }
-if ((vr0OnC65 == 1908397853) || (ru_Z7_ & QacF))
+if ((false) || (ru_Z7_ & QacF))
 {
 aGanx >>= E79Qr34WO;
 }
@@ -263,7 +263,7 @@ else if ((W_DQC != W90a2p) || (N9eiXYoK & 2095360959))
 {
 std::cout << sg99(2000895517, Jh7t885Cy, UxHetlA80, -529197213, N9eiXYoK) << BNW0Z << qrTIU9_9j_(S08gwn, Jh7t885Cy, 358557952) << std::endl;
 }
-else if ((ru_Z7_ != -1687718296) && ((mv2pNLx517 >= -1322535070) || (Pb5H == 778079859)))
+else if ((true) && ((mv2pNLx517 >= -1322535070) || (Pb5H == 778079859)))
 {
 std::cout << sg99(S08gwn, Jh7t885Cy, UxHetlA80, 1015052754, N9eiXYoK) << "x8F7rjqomh" << sg99(-1984493271, Jh7t885Cy, UxHetlA80, u5bG_, N9eiXYoK) << E79Qr34WO << std::endl;
 }

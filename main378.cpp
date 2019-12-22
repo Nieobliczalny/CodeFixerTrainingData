@@ -48,7 +48,7 @@ g68cR2 = Ja_F0R7tz + 772988737;
 }
 else if (LhLH & 61498204)
 {
-if ((LhLH & -144681048) || (AidV0Ox != ZD6Lx5R))
+if ((LhLH & -144681048) || (true))
 {
 std::cout << "gb0W4yw0" << Z7G1g4 << "K6F8_tma" << oFgqa << std::endl;
 }
@@ -155,7 +155,7 @@ pJ2MVnkf = U8TLJT9fK6 - 1979315662;
 }
 else if (pJ2MVnkf < Ja_F0R7tz)
 {
-if (LhLH == 1168561117)
+if (false)
 {
 WfO8E83 = GcX0xJ6T1 * AidV0Ox;
 }
@@ -213,7 +213,7 @@ catch (int& errorCode)
 n6i_a = GcX0xJ6T1 - 1445006959;
 }
 }
-else if (MU9K <= 1438716721)
+else if (true)
 {
 GcX0xJ6T1 = (double)(Ja_F0R7tz + (ZD6Lx5R));
 }
@@ -303,7 +303,7 @@ else if (O4t6)
 {
 oFgqa = (int)ceil(vx090r);
 }
-else if (MU9K == ZD6Lx5R)
+else if (false)
 {
 {
 int j = 1;

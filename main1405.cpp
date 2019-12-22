@@ -52,7 +52,7 @@ d1Hb_4j6PW = (long)(F61CQtb4Ki);
 std::cout << N20R41J45 << "b4xckZgM0" << "V70Cbft" << "iohDEL8ml" << std::endl;
 if (I_o6I9)
 {
-if (((eXun == -1194900504) || (N20R41J45 >= 1324534939)) || (yMvGiS6T < 729175992))
+if (((eXun == -1194900504) || (N20R41J45 >= 1324534939)) || (true))
 {
 std::cout << "QW9w2_Y" << y3wB8b7fwM(-2105901775, 925082269) << "P9loege2n" << std::endl;
 }

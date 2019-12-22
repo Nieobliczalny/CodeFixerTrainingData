@@ -149,7 +149,7 @@ break;
 std::cout << "iyvLjQpexr" << J12EdS03Kh << "msM65hw" << std::endl;
 for (int i = 0; i < 8; i++)
 {
-if (((g5E586 >= wWk_VrNV) && (ZAi5833xb == FsP25yTcX7)) || (j7t1V < Jb75))
+if (((false) && (ZAi5833xb == FsP25yTcX7)) || (j7t1V < Jb75))
 {
 std::cout << uj_r63 << "fzt24" << g5E586 << Wn7OnoJI << "q344I665" << std::endl;
 }

@@ -226,7 +226,7 @@ case 'f':
 N5c11Gd = (int)ceil(Q4On1STZX);
 break;
 case 'g':
-zr8mZs9F74 = (X4ELUMA == -2010461613) ? 1090180409 : EK_2lDrk;
+zr8mZs9F74 = (false) ? 1090180409 : EK_2lDrk;
 break;
 case 'h':
 yj0wrYx = (int)abs(zr8mZs9F74);
@@ -248,7 +248,7 @@ if (KcEUK6UnX != 176507843)
 {
 o_2l = (unsigned long long)(xl4T80wS9H);
 }
-else if ((p1iRN6V2 & zNt00K) && (GF818TD_Ij >= 1667352865))
+else if ((p1iRN6V2 & zNt00K) && (false))
 {
 try
 {
@@ -350,7 +350,7 @@ if (FT976xc <= yj0wrYx)
 {
 Dq8mIWlh <<= 2048953963;
 }
-else if (fO8x_NadB7 > -2064587913)
+else if (true)
 {
 switch (pHKfC_ahJ)
 {

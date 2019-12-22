@@ -120,7 +120,7 @@ break;
 
 PxF8ru_2I_ = y22SqE8V_(PON6970aL_, -689820490, S3f79rg4, Lq08__, -1014978417) / SyZ_g;
 
-if (Lq08__ < 1862421863)
+if (true)
 {
 YOrzqGtND = (int)abs(mlgdAtV_);
 }
@@ -172,7 +172,7 @@ catch (int& errorCode)
 L40wZzQ = (SyZ_g == RXM_) ? cX4XQSHn7_ : 1314352807;
 }
 }
-else if (cX4XQSHn7_ == 1346540819)
+else if (false)
 {
 L40wZzQ -= cf2818fW_2;
 }

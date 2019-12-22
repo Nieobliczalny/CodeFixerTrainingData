@@ -399,7 +399,7 @@ C652O79RY |= lqDt;
 }
 else
 {
-if (Q_30 == -199139425)
+if (false)
 {
 Jj56f = kEI_xL(pvbZE, mM56, -1859657201, -400615942);
 }
@@ -418,7 +418,7 @@ if (Wj6jcd25_ & -1169791966)
 {
 u65y = (unsigned long long)(FYtqG6);
 }
-else if ((Wj6jcd25_ >= -335447132) || ((tx7C0eMQ > 1277259398) || (Q_30 != -1438816082)))
+else if ((Wj6jcd25_ >= -335447132) || ((tx7C0eMQ > 1277259398) || (true)))
 {
 try
 {

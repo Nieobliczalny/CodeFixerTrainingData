@@ -116,7 +116,7 @@ int main()
  float e66S0PljS;
  e66S0PljS = 1982307829;
 
-if ((D5P8R >= Xd_Oqth) && ((ja54J_3DI8 != -2039416494) || (Wj4gl < 632429874)))
+if ((D5P8R >= Xd_Oqth) && ((true) || (Wj4gl < 632429874)))
 {
 std::cout << "Lh5F" << "JegA2X" << IttQl1v1SQ << v821Ef4t << std::endl;
 }
@@ -181,7 +181,7 @@ int j = 10;
 do
 {
 j--;
-if (YOm3J >= 1409934804)
+if (false)
 {
 ja54J_3DI8 ^= F_90KHJgk_;
 }
@@ -280,7 +280,7 @@ while (j < 2);
 }
 }
 
-if ((Gkok7Lq4 < 835275314) || (T9JZBo1 >= N37hOXeT))
+if ((true) || (T9JZBo1 >= N37hOXeT))
 {
 if (tKYOmxKc5)
 {
@@ -358,7 +358,7 @@ k--;
 }
 }
 }
-else if ((F_90KHJgk_ < -529017736) || (T9JZBo1 <= N37hOXeT))
+else if ((false) || (T9JZBo1 <= N37hOXeT))
 {
 IttQl1v1SQ++;
 }
@@ -412,7 +412,7 @@ k--;
 }
 else if (yW401DKt == o9mj)
 {
-if ((C4021A_3J <= -786924142) || ((IttQl1v1SQ >= -657091660) || (vzwSF73dt > Xd_Oqth)))
+if ((C4021A_3J <= -786924142) || ((IttQl1v1SQ >= -657091660) || (false)))
 {
 Y_3BS1FY <<= cPAoJ;
 }

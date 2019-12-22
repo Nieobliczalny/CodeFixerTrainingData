@@ -180,7 +180,7 @@ nnV_oy6B = dlmKo_L | 328823465;
 while (j < 1);
 }
 }
-if (Y5eqL5 < paDSP)
+if (false)
 {
 if (I_I5)
 {
@@ -222,7 +222,7 @@ o_EyeUx1_ = VucXWS >> 1890194621;
 }
 else
 {
-if (N9V1t1_r0f >= n7w6F_)
+if (true)
 {
 for (int k = 0; k < 4; ++k)
 {
@@ -249,7 +249,7 @@ Xq0Qc = (int)abs(rCQ_8jH4Fv);
 }
 else if (YQ0g < ilO1nm3)
 {
-if (vcth >= -1061035536)
+if (true)
 {
 aSiTwkY9o0 = (i9a9 < ZMqWga) ? nnV_oy6B : 2051395866;
 }

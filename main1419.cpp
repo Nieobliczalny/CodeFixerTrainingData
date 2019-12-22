@@ -60,7 +60,7 @@ case 'b':
 UkYOi = (int)floor(Askc0wD1Y);
 break;
 case 'c':
-Jo7Z1HChd = (Vi5Vc > -1582623626) ? xY85d8 : pu1y7b40O7;
+Jo7Z1HChd = (true) ? xY85d8 : pu1y7b40O7;
 break;
 case 'd':
 pu1y7b40O7 *= 1978080448;
@@ -134,7 +134,7 @@ break;
 cout << mQC5XzB << GDw9ZdE5P << UXgM << "sYdMPpm9" << endl;
 if (b5KH >= Vi5Vc)
 {
-if (diyrQb >= -1291247645)
+if (true)
 {
 try
 {
@@ -165,7 +165,7 @@ hm5tg = UXgM + h5O6cBvc;
 break;
 }
 }
-else if (diyrQb > -341408651)
+else if (true)
 {
 HOwuR_NC = (int)abs(pu1y7b40O7);
 }
@@ -248,7 +248,7 @@ else if (HOwuR_NC < Z01_0)
 {
 B2I9894ekj = B2I9894ekj - XyQAR6D;
 }
-else if ((diyrQb < PvvCDt) && (XyQAR6D == 1246533643))
+else if ((diyrQb < PvvCDt) && (false))
 {
 GDw9ZdE5P /= yE8_yI5M2L;
 }
@@ -260,7 +260,7 @@ UL5Ph8b5d *= 472461235;
 }
 }
 
-if (diyrQb == 621966916)
+if (false)
 {
 try
 {

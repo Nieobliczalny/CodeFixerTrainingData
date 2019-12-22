@@ -159,7 +159,7 @@ while (j >= 0);
 }
 else
 {
-if (y_P3K6Eq == -1183563675)
+if (false)
 {
 try
 {
@@ -187,7 +187,7 @@ for (int i = 0; i < 9; ++i)
 {
 if (UE24zSw3AH & 221188204)
 {
-if (WfLe >= 95348973)
+if (false)
 {
 u5_Y9opuE ^= IL_1DFz77;
 }
@@ -247,7 +247,7 @@ break;
 
 std::cout << XX0Ww8m_F << std::endl;
 
-if ((HyqfS & a6A8E89) && (eEYe6cM != 1891703078))
+if ((HyqfS & a6A8E89) && (true))
 {
 eEYe6cM = Vs8fzd * cYXk6Y;
 }
@@ -302,7 +302,7 @@ while (j < 3);
 }
 }
 
-if (UE24zSw3AH >= -1504211106)
+if (true)
 {
 Vs8fzd = (int)abs(F8ZfmqSn);
 }

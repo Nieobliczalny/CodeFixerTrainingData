@@ -65,7 +65,7 @@ std::cout << LlS1P << A43_ << I6zPjcZUf7 << RD5Gq_64u3 << zc351kOA << std::endl;
 }
 }
 }
-if (((RD5Gq_64u3 & 1198933206) || (zq3hS7N7 >= Y8UO)) || (o8IsdK6 < 1569891654))
+if (((RD5Gq_64u3 & 1198933206) || (zq3hS7N7 >= Y8UO)) || (true))
 {
 k2ez15 = (short)(Y8UO + (815236697));
 }

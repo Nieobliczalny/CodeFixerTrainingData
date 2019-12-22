@@ -166,7 +166,7 @@ if (qmZ5r & wK6V4iXq3)
 {
 try
 {
-if (((zwg2MT <= S5P4_0fBQ) && (iP460n <= 2140850579)) && ((Jf2T7 != -1484621035) && (iP460n >= -1562961525)))
+if (((zwg2MT <= S5P4_0fBQ) && (true)) && ((Jf2T7 != -1484621035) && (iP460n >= -1562961525)))
 {
 LdwqeN7ZOY = XYbVhUy8(LdwqeN7ZOY, 2043626893);
 }
@@ -223,7 +223,7 @@ while (j >= 0);
 switch (S62h3U65n9)
 {
 case 0:
-VZCNDi48 = (n_WSOPe == -1346062857) ? S5P4_0fBQ : O5_8a31;
+VZCNDi48 = (false) ? S5P4_0fBQ : O5_8a31;
 break;
 case 1:
 LdwqeN7ZOY = T42_ ^ vHb5Y;
@@ -243,7 +243,7 @@ sB4Zy = ZLhe1K9MQ + 1469571175;
 
 std::cout << "JS4N" << std::endl;
 
-if ((Xw904) && ((Bg2N871xq != 2136931084) && (Bg2N871xq < S5P4_0fBQ)))
+if ((Xw904) && ((true) && (Bg2N871xq < S5P4_0fBQ)))
 {
 {
 int j = 0;
@@ -264,7 +264,7 @@ std::cout << "b0sWj" << i84G(-614939967, ieTccTK, PSh9sI5) << aQ2updx << PUBhH9t
 pm_l5828 = 1929583591 / T42_;
 
 GNz4g = (int)abs(ZPBnn_O8);
-if (HlbU3M < 1533440878)
+if (true)
 {
 std::cout << "Zj_f9TMl" << "Xw17q1" << T42_ << "A5oWU12_" << "OuLv5ix_" << std::endl;
 }
@@ -335,7 +335,7 @@ while (k < 3);
 }
 else
 {
-if ((wK6V4iXq3 <= 463161010) && ((e3xw == -2101273884) || (zwg2MT <= -717838919)))
+if ((wK6V4iXq3 <= 463161010) && ((false) || (zwg2MT <= -717838919)))
 {
 Jf2T7 = XYbVhUy8(-1943771701, 529987738);
 }

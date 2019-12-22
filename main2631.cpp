@@ -124,7 +124,7 @@ if (D_mp)
 {
 XLn6K = (FS75J343 == -1405445528) ? -915099726 : 1804229224;
 }
-else if (Ad5WM > 1983413899)
+else if (false)
 {
 Lm0tkici = (unsigned char)(FS6QtY1);
 }
@@ -177,7 +177,7 @@ if ((L7Qn78 & -1369695718) || ((BJ_347 == Z4K4HTj) && (B4eSaG > Z4K4HTj)))
 {
 D2gb33_ |= CVQ1_a;
 }
-else if (Z4K4HTj >= 1433960769)
+else if (false)
 {
 switch (CVQ1_a)
 {
@@ -263,7 +263,7 @@ else
 dH6k6_ = (short int)(jvmlrzdgM6);
 }
 }
-else if (((ZyQ_80 & -1471284004) && (Ad5WM < -881675520)) || (L4353fJ))
+else if (((ZyQ_80 & -1471284004) && (false)) || (L4353fJ))
 {
 BkJ6gTRS1U = (char)(Fg2kfC_);
 }
@@ -306,7 +306,7 @@ k++;
 }
 }
 }
-else if ((u00OGGoGfg != -537658879) || ((Z4K4HTj <= -1863730232) && (P4TI3tfzV <= trD0)))
+else if ((true) || ((Z4K4HTj <= -1863730232) && (P4TI3tfzV <= trD0)))
 {
 try
 {
@@ -360,7 +360,7 @@ while (k >= 0);
 }
 while (i >= 0);
 }
-if (((xrKnvyg == 1945933020) && (Ad5WM >= 493061580)) || (at95_B0o41))
+if (((xrKnvyg == 1945933020) && (false)) || (at95_B0o41))
 {
 cout << tNO7irv << Z4K4HTj << a7td(dvT26v, -1910844717) << endl;
 }
@@ -371,7 +371,7 @@ while (i >= 0)
 {
 if (YSONTsOK)
 {
-if (RMC0 == 1935354109)
+if (false)
 {
 s2XBU9R7d2 = (int)ceil(B4eSaG);
 }

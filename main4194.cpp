@@ -150,7 +150,7 @@ try
 {
 if ((na287NL < iATK) || (JE1E86u < -572927484))
 {
-if (((e4fIczU8 <= 1144465188) || (na287NL == -1435640410)) || (nmHGoKm61 & tUDNDy3j8))
+if (((true) || (na287NL == -1435640410)) || (nmHGoKm61 & tUDNDy3j8))
 {
 c37Ur1E0 = Gipgaj6J(1892068527);
 }
@@ -162,7 +162,7 @@ else if ((Jz6ESOIMN >= Q7Sp0_A) && ((Cdhz) && (cXgO823q <= 496439926)))
 {
 j4I5_5T = Gipgaj6J(-304673394);
 }
-else if (kcG98c12d5 > -195563574)
+else if (true)
 {
 XHIE04U_48 = Gipgaj6J(-725386178);
 }

@@ -74,7 +74,7 @@ break;
 
 if (f1_m)
 {
-if ((LCNSn_5xcd & j_00QZCeC_) && (t7u3 <= -1709847948))
+if ((LCNSn_5xcd & j_00QZCeC_) && (false))
 {
 SAi_5G = oCf_(SAi_5G, -2102662312, CYJOZE, -199119282, 558213343);
 }
@@ -90,7 +90,7 @@ else if (oH19Yj8xmz >= j_00QZCeC_)
 {
 try
 {
-ln4g5tAl = (UgWDJ != 693137689) ? lzGWp2jMs : s8uK7;
+ln4g5tAl = (true) ? lzGWp2jMs : s8uK7;
 }
 catch (int& errorCode)
 {
@@ -101,7 +101,7 @@ else if (q7cD9p < nEr4B2p)
 {
 std::cout << oCf_(SAi_5G, 247641884, CYJOZE, DLq4H8Q, nYa48) << T8t7w4 << "wUBmf75" << I75cGr9u7 << std::endl;
 }
-else if (I04NUpV6w <= 1119188569)
+else if (true)
 {
 {
 int j = 0;
@@ -121,7 +121,7 @@ if (c2sN89r_ <= nmyhz6Y)
 int k = 0;
 while (k < 1)
 {
-QF20Tzn2Gu = (S9Hj_ > 1994608264) ? -1836965634 : Lei6;
+QF20Tzn2Gu = (false) ? -1836965634 : Lei6;
 ++k;
 }
 }
@@ -180,7 +180,7 @@ n8tJd4p6v1 = gL_p / I04NUpV6w;
 break;
 }
 
-if (fOb0_6p < 2139562501)
+if (true)
 {
 std::cout << q3UCbeJr9 << std::endl;
 }
@@ -209,7 +209,7 @@ std::cout << "TWzfcpg87s" << std::endl;
 }
 else if (B94s5SoN >= j_00QZCeC_)
 {
-if ((YAtg) && (krV2_I != 2016839859))
+if ((YAtg) && (true))
 {
 if ((mh5xC < CnG5Alp63) && (zqsn_192 != csQ0MY))
 {
@@ -233,7 +233,7 @@ while (k < 4);
 }
 }
 }
-else if (haJ2 == csQ0MY)
+else if (false)
 {
 KgxudiPmD9 >>= E3NlO7;
 }
@@ -245,7 +245,7 @@ if (krV2_I)
 {
 U3hysx1cI = oCf_(U3hysx1cI, -1929911252, -950232625, XlSFRq, tq8WJ);
 }
-else if (((t7u3 < j_00QZCeC_) && (SAi_5G & 2042049127)) && (fOb0_6p < -1589446007))
+else if (((t7u3 < j_00QZCeC_) && (SAi_5G & 2042049127)) && (false))
 {
 E3NlO7 = BU5U_();
 }
@@ -388,7 +388,7 @@ while (i >= 0)
 i--;
 if (QLE6t225Z3)
 {
-if (BnZ_ >= -1065024763)
+if (true)
 {
 CnG5Alp63 = oCf_(CnG5Alp63, 76698575, t7u3, S9Hj_, T4Ntp8);
 }
@@ -418,7 +418,7 @@ krV2_I = (SUwMYNN_J > s65l2vgTfl) ? 2108824483 : oCf_(-1472087439, lYiN9Wu6Bo, -
 }
 else
 {
-if (tq8WJ > csQ0MY)
+if (false)
 {
 rjk34 = J8HAV1n_t();
 }
@@ -462,7 +462,7 @@ lYiN9Wu6Bo = BU5U_();
 break;
 }
 
-if (oB9xgV2 == 668801901)
+if (false)
 {
 if (((KgxudiPmD9 > csQ0MY) || (UgWDJ != cq0v)) && (q3UCbeJr9))
 {
@@ -478,7 +478,7 @@ hD_9S = hJdtfb6HfK << CYJOZE;
 }
 else
 {
-T4Ntp8 = (tYfKNqRc9 < 1489070935) ? BU5U_() : oCf_(lYiN9Wu6Bo, 427933786, 1505113166, n8tJd4p6v1, 2066558706);
+T4Ntp8 = (true) ? BU5U_() : oCf_(lYiN9Wu6Bo, 427933786, 1505113166, n8tJd4p6v1, 2066558706);
 }
 
 {

@@ -112,7 +112,7 @@ JO4M_EBf02--;
 }
 }
 }
-else if (((R_60nRa != nNYCVr3FI) && (U7K6_29gh5 <= -1996057560)) && (memck <= MCijXwgU5))
+else if (((true) && (U7K6_29gh5 <= -1996057560)) && (memck <= MCijXwgU5))
 {
 cout << je68se(Z_Qq, U7K6_29gh5, gBm7) << je68se(Z_Qq, 779541765, gBm7) << endl;
 }
@@ -139,7 +139,7 @@ JO4M_EBf02 |= R_60nRa;
 }
 }
 }
-else if (CR064ES67 == -469318150)
+else if (false)
 {
 F77VDK /= gBm7;
 }

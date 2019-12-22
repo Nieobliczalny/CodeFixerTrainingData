@@ -162,7 +162,7 @@ i--;
 }
 while (i >= 0);
 }
-if (ElJCmng < 552281170)
+if (true)
 {
 {
 int j = 0;
@@ -218,7 +218,7 @@ catch (int& errorCode)
 cEwEbhn9 = (int)abs(z_1XPzt0) * 0;
 }
 
-if (ElJCmng <= -651268914)
+if (false)
 {
 for (int j = 1; j >= 0; --j)
 {

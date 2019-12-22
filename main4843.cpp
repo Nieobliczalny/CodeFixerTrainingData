@@ -119,7 +119,7 @@ int main(int argc, char** argv) {
 
 W2IpV /= WAND8f94NM;
 
-if ((bbNB != -508940652) && (sVv2nS6g != -1603377496))
+if ((bbNB != -508940652) && (true))
 {
 a3Id_uDN95 = (float)(nEkJe + (Wdu2n1m));
 }
@@ -227,7 +227,7 @@ if ((DIW__ < pJDh) || (DzW55lhd < J4bb4v8))
 {
 B2l04o = kBacHcQcX0 & nd06c62;
 }
-else if (Ptqr3T > ntWg1E71)
+else if (false)
 {
 tW4Zyj = (short)(Wdu2n1m);
 }

@@ -83,7 +83,7 @@ int main()
 	short int	Vol0WeUmp;
 	Vol0WeUmp	=	1563594117;
 
-if (h9vM18a2rH >= YsPUgw)
+if (true)
 {
 {
 int j = 3;
@@ -194,7 +194,7 @@ w0z9sELmO = Ox0M(w0z9sELmO);
 }
 V0z07SvP = (double)(muA25bQH);
 
-if (ubeR6OmNlw > 1083095730)
+if (false)
 {
 if (((XaNOrlWJ) && (eywns22 < muA25bQH)) && (OL5N7u != muA25bQH))
 {
@@ -222,7 +222,7 @@ while (k < 1);
 }
 else if ((ubeR6OmNlw) && ((V0z07SvP < -1837732150) || (I6iZiwA >= OL5N7u)))
 {
-if (h9vM18a2rH >= -1347430770)
+if (true)
 {
 XO_IX5 = hY707B7(BToc4FS1, 1449838092, 884109610, ie32D31, Vol0WeUmp);
 }
@@ -263,7 +263,7 @@ dcFD3jZl = (i_H33j_8fD != 1247953864) ? RV7a4h40 : YsPUgw;
 }
 
 std::cout << LF43AUtxW << "e3gFc7M9" << Ox0M(BToc4FS1) << std::endl;
-if ((w0z9sELmO == aigp5) && (h9vM18a2rH != YsPUgw))
+if ((w0z9sELmO == aigp5) && (true))
 {
 if (I6iZiwA == Dzg3m)
 {
@@ -276,7 +276,7 @@ catch (int& errorCode)
 x4E9J1 %= 1943812513;
 }
 }
-else if ((GG6HtEH09 == L61fk) || (L61fk != -951000360))
+else if ((GG6HtEH09 == L61fk) || (true))
 {
 if (i_H33j_8fD > dcFD3jZl)
 {
@@ -333,7 +333,7 @@ break;
 }
 }
 }
-else if ((T5Nuf_ <= eywns22) && (zTpN56 > 744899020))
+else if ((T5Nuf_ <= eywns22) && (false))
 {
 {
 int j = 5;
@@ -352,7 +352,7 @@ else if (LF43AUtxW <= YsPUgw)
 {
 LF43AUtxW = (long double)(CX0qDanKZp + (-1089268757));
 }
-else if (((zTpN56) || (V0z07SvP >= XO_IX5)) && (vX8Hs8bLG < 144551416))
+else if (((zTpN56) || (V0z07SvP >= XO_IX5)) && (true))
 {
 switch (viILIb7x)
 {
@@ -375,7 +375,7 @@ break;
 }
 else
 {
-if ((viILIb7x & -107408879) || (vX8Hs8bLG < -1419488818))
+if ((viILIb7x & -107408879) || (false))
 {
 switch (pcTdxM35)
 {
@@ -488,7 +488,7 @@ catch (int& errorCode)
 pcTdxM35 = (int)abs(vX8Hs8bLG);
 }
 }
-else if ((Vol0WeUmp > -715650263) && (w0z9sELmO))
+else if ((true) && (w0z9sELmO))
 {
 if (ubeR6OmNlw != CX0qDanKZp)
 {
@@ -499,7 +499,7 @@ else
 F6SaLZ = L61fk & kqb8Of;
 }
 }
-else if (((h9vM18a2rH <= YsPUgw) || (pYQ3y)) || (BToc4FS1 > muA25bQH))
+else if (((false) || (pYQ3y)) || (BToc4FS1 > muA25bQH))
 {
 if (Dzg3m < 803183256)
 {
@@ -658,7 +658,7 @@ UdLz = (int)floor(V0z07SvP);
 break;
 }
 }
-else if ((i_H33j_8fD & I6iZiwA) || ((dcFD3jZl < OL5N7u) || (pYQ3y == -1685807464)))
+else if ((i_H33j_8fD & I6iZiwA) || ((dcFD3jZl < OL5N7u) || (false)))
 {
 try
 {

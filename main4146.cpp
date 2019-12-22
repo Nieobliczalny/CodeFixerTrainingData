@@ -106,7 +106,7 @@ int main(int argc, char** argv) {
     short int    bcMsQ6q    =    1464765752;
     unsigned char    KDeh    =    -579536923;
 
-if (c4T9sm != -281556279)
+if (true)
 {
 try
 {
@@ -124,7 +124,7 @@ catch (int& errorCode)
 Gc0YX = (int)ceil(VdQ8O_2fG);
 }
 }
-else if ((J0T3aR <= -1362767279) || (GaO2rj7VG & kevG))
+else if ((false) || (GaO2rj7VG & kevG))
 {
 EuM5_Cc = (short)(dyB8HF0L + (qYh18CYg));
 }
@@ -172,7 +172,7 @@ catch (int& errorCode)
 Sx8a0 = (int)ceil(p_bCU4908);
 }
 }
-else if (M2DA9248 == qYh18CYg)
+else if (false)
 {
 {
 int j = 0;
@@ -302,7 +302,7 @@ else if (M2DA9248 & MHOJlAG0)
 {
 XxOjzi = (int)ceil(jHQX4jCWw2);
 }
-else if ((n6ihO7tsA2 != -681288582) && (bcMsQ6q < Pfe_9X))
+else if ((true) && (bcMsQ6q < Pfe_9X))
 {
 if (bcMsQ6q > 1281414347)
 {
@@ -320,7 +320,7 @@ else
 zxpt7_7m = (short)(a0Vi * (dyB8HF0L));
 }
 }
-else if (((NLz7dHZY1 == dyB8HF0L) || (l0Ew5Xykpn > -814690241)) || (d9Ee > fgeWv))
+else if (((NLz7dHZY1 == dyB8HF0L) || (true)) || (d9Ee > fgeWv))
 {
 if (uQSm4bjz > GaO2rj7VG)
 {

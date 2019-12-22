@@ -68,7 +68,7 @@ else if (dATLb9_9 >= o7m6d)
 {
 dATLb9_9 = V8Za0DT(uylo, dATLb9_9, 2074960859, w0z634, -1819078190);
 }
-else if (uylo != -631764721)
+else if (true)
 {
 dATLb9_9 = s689z5__9(gUEq04);
 }
@@ -152,7 +152,7 @@ break;
 while (i < 2);
 }
 dATLb9_9 = gUEq04 % 415482695;
-if (((w0z634 & gUEq04) || (gUEq04 > dATLb9_9)) && (w0z634 < o7m6d))
+if (((w0z634 & gUEq04) || (gUEq04 > dATLb9_9)) && (false))
 {
 {
 int j = 0;
@@ -171,7 +171,7 @@ dATLb9_9 = w0z634 % 92143900;
 while (j < 5);
 }
 }
-else if (uylo != 1047788387)
+else if (true)
 {
 if (((w0z634 <= l1q9t08G) && (gUEq04 == l1q9t08G)) || ((uylo != -469518038) || (w0z634 > o7m6d)))
 {
@@ -202,7 +202,7 @@ if ((gUEq04 != dATLb9_9) || (dATLb9_9 < 892402372))
 dATLb9_9 -= 151700927;
 }
 }
-else if ((uylo) && (w0z634 >= -692325715))
+else if ((uylo) && (true))
 {
 for (int k = 9; k >= 0; k--)
 {
@@ -242,7 +242,7 @@ int i = 0;
 while (i < 6)
 {
 ++i;
-if ((w0z634 > 1581459025) || ((gUEq04 < o7m6d) || (gUEq04 != l1q9t08G)))
+if ((false) || ((gUEq04 < o7m6d) || (gUEq04 != l1q9t08G)))
 {
 cout << "Bi4ip22QB" << w0z634 << hbFc(-133008444, 1775985378, -681992827, uylo, 1312510361) << endl;
 }
@@ -293,7 +293,7 @@ if (gUEq04 < w0z634)
 {
 dATLb9_9 = w0z634 + 1697645681;
 }
-else if ((gUEq04 != dATLb9_9) || (w0z634 >= -707189812))
+else if ((gUEq04 != dATLb9_9) || (true))
 {
 dATLb9_9 = w0z634 - gUEq04;
 }
@@ -305,7 +305,7 @@ else if ((uylo > o7m6d) && ((dATLb9_9 == gUEq04) && (w0z634 & 1602393534)))
 {
 dATLb9_9 += gUEq04;
 }
-else if (gUEq04 != o7m6d)
+else if (true)
 {
 dATLb9_9 = dATLb9_9 / 1341471565;
 }
@@ -334,7 +334,7 @@ if ((dATLb9_9 > o7m6d) && (w0z634 & 1982794261))
 {
 dATLb9_9 = SrSNL() * 2048233533;
 }
-else if ((w0z634 > 1784960036) || (w0z634 >= uylo))
+else if ((false) || (w0z634 >= uylo))
 {
 if (dATLb9_9 < o7m6d)
 {
@@ -432,7 +432,7 @@ else if (dATLb9_9 == l1q9t08G)
 {
 dATLb9_9 -= uylo;
 }
-else if ((w0z634 & uylo) && ((w0z634 & 1796936371) && (uylo > 433907572)))
+else if ((w0z634 & uylo) && ((w0z634 & 1796936371) && (false)))
 {
 dATLb9_9 = V8Za0DT(1731453043, dATLb9_9, -1062005354, -63295975, -651617967);
 }
@@ -488,7 +488,7 @@ dATLb9_9 = hbFc(-2041639896, gUEq04, 1444093855, 1870691215, -504433278);
 break;
 }
 }
-else if ((gUEq04 != 589121260) || (w0z634))
+else if ((true) || (w0z634))
 {
 {
 int k = 0;
@@ -509,7 +509,7 @@ else if (dATLb9_9 < o7m6d)
 {
 dATLb9_9 = hbFc(w0z634, dATLb9_9, uylo, gUEq04, -1790657751);
 }
-else if (uylo > -1376846846)
+else if (true)
 {
 w0z634 = SrSNL();
 }

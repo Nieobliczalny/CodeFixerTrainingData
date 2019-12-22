@@ -215,7 +215,7 @@ int i = 6;
 while (i >= 0)
 {
 i--;
-if (CF__y != 69964452)
+if (true)
 {
 if ((F2XiJH5l >= rJ4A) && ((GQ3xPtxz9 >= 1361646786) && (U2l_AGpf02 != -1666169194)))
 {
@@ -225,7 +225,7 @@ else if ((TLhTdeOzPi) && (F2XiJH5l > TLhTdeOzPi))
 {
 n83p_G8S ^= TLhTdeOzPi;
 }
-else if ((cE9fKla == -1778164619) && (U2l_AGpf02 > sHan5O))
+else if ((false) && (U2l_AGpf02 > sHan5O))
 {
 Y45E = V6QzR19NBb(k0ku150Z9, ue0G4T1);
 }
@@ -237,7 +237,7 @@ else if (QFw00 < 1384542497)
 {
 U2l_AGpf02 = (int)abs(q59E);
 }
-else if (CF__y >= 2107341487)
+else if (false)
 {
 i5OOf = TLhTdeOzPi % 1799435758;
 }
@@ -309,7 +309,7 @@ cout << "fnQtni" << V6QzR19NBb(-107217217, 622695469) << U6cEykRl_ << endl;
 }
 
 k0ku150Z9 = n_2__R4_d1 % U2l_AGpf02;
-if (V2d1t3_RN > 1074061868)
+if (false)
 {
 ue0G4T1 -= g92kl76;
 }
@@ -568,7 +568,7 @@ else if (n_2__R4_d1 & -1952548459)
 {
 yaV3M75 = (long)(GQ3xPtxz9);
 }
-else if (V2d1t3_RN > -1631051658)
+else if (true)
 {
 {
 int k = 0;
@@ -600,7 +600,7 @@ F2XiJH5l = U2l_AGpf02 % yaV3M75;
 }
 else if (sHan5O < -1183289627)
 {
-if (CF__y == -1358897042)
+if (false)
 {
 switch (YWWpvHt1s)
 {

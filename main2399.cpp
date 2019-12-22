@@ -25,7 +25,7 @@ j_Q7 = (unsigned char)(B4341FW);
 }
 }
 
-if (((Eh30P49 <= 1927116100) && (NRzg3P6n4_ != 1570415311)) && (TgP_Bx__ >= -686359102))
+if (((true) && (NRzg3P6n4_ != 1570415311)) && (TgP_Bx__ >= -686359102))
 {
 for (int j = 5; j >= 0; --j)
 {
@@ -35,7 +35,7 @@ ak_GO86 = D3N02d(-108193800);
 }
 }
 }
-else if (gQIVK < 2076847937)
+else if (true)
 {
 for (int j = 0; j < 5; ++j)
 {
@@ -119,7 +119,7 @@ G2k3XUm = Q60JZ_E(F90u, moMWUaR2F, meh2, YJ1Bh3Rc8c);
 }
 for (int i = 0; i < 2; ++i)
 {
-if (N_I3 > 687573587)
+if (false)
 {
 {
 int k = 0;

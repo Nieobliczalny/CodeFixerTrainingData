@@ -36,7 +36,7 @@ int main(int argc, char** argv)
 	short	Ut5YH8	=	-430626685,	ICCo	=	1912520812,	uIiei	=	-165861931,	SYK3kWwq1	=	-1016095855,	EwkPa_p7A	=	94013500,	yr89gWy3n	=	-377882854,	u50Nop5N	=	322291073,	x9BZf63	=	-403728234,	Bs07Lc	=	-1887979457,	L4jV1	=	-760995175,	HEzYYAZi	=	1309251249,	lLB_Z4C_	=	859227276,	LLb63_	=	-1971969417,	qkk7q	=	-260062019;
     unsigned short    BNm4_s    =    0;
 
-if (uIiei >= 943715538)
+if (false)
 {
 cout << ICCo << e_O5u0w(Ut5YH8, ICCo, uIiei, -401800525) << endl;
 }
@@ -142,7 +142,7 @@ try
 {
 for (int j = 6; j >= 0; --j)
 {
-if (yr89gWy3n == 1584397758)
+if (false)
 {
 Bs07Lc = Bs07Lc % 982316288;
 }
@@ -249,7 +249,7 @@ while (i < 7);
 
 try
 {
-if (L4jV1 == 702157453)
+if (false)
 {
 if (yr89gWy3n & -1237167443)
 {

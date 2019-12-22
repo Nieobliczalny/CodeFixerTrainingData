@@ -88,7 +88,7 @@ cout << "kc2bUbldur" << endl;
 
 if (Mct3A > w598usL)
 {
-if (M_MU87 >= 809674944)
+if (false)
 {
 {
 int k = 6;
@@ -132,7 +132,7 @@ xw_JM8 &= 1148774508;
 }
 else if (ivm1K1p)
 {
-if (GzR7_3mZ != -450837414)
+if (true)
 {
 J2h45lcX &= 1666726833;
 }
@@ -144,7 +144,7 @@ else if (C13Bl <= rSGxt9K)
 {
 BHpE58_H = VfVFl1(1610977775, S0DLhS, W5966yzogM);
 }
-else if (i1q1bL6Dh > -198961970)
+else if (true)
 {
 IaNycpj_5 %= HbbVm3o;
 }

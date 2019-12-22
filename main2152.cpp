@@ -63,7 +63,7 @@ else if (pl1a6Tay)
 {
 rE698I9 = XwUmkrFD(rE698I9, -1914527649);
 }
-else if (Eabs0p != -1586285432)
+else if (true)
 {
 F4BtS_++;
 }

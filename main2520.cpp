@@ -253,7 +253,7 @@ try
 int j = 0;
 do
 {
-if (S8gk != 1535887583)
+if (true)
 {
 JPsPKrL <<= 723511156;
 }
@@ -346,7 +346,7 @@ else
 {
 for (int j = 1; j >= 0; j--)
 {
-if (SyYP != 1223432144)
+if (true)
 {
 b89H4aFoD %= FtaIh2C_;
 }

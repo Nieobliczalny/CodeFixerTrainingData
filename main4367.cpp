@@ -62,7 +62,7 @@ else if (QZI0J0 == -1669022840)
 {
 nWqmm3X = (short)(B7AKiLs83);
 }
-else if (nWqmm3X <= -82491079)
+else if (false)
 {
 {
 int j = 4;
@@ -80,7 +80,7 @@ zY5YB5l5M = k1_3CO67();
 }
 else
 {
-if (zY5YB5l5M <= -613286684)
+if (false)
 {
 for (int k = 1; k >= 0; k--)
 {
@@ -115,7 +115,7 @@ catch (int& errorCode)
 iS14Y65k7 = zY5YB5l5M | nWqmm3X;
 }
 
-if (nWqmm3X < 747701556)
+if (true)
 {
 try
 {
@@ -208,7 +208,7 @@ iS14Y65k7 -= QZI0J0;
 }
 }
 }
-else if (nWqmm3X != 1189691148)
+else if (true)
 {
 {
 int k = 0;

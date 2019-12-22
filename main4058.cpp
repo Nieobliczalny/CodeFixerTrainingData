@@ -52,7 +52,7 @@ C229 = (int)abs(NdeIgg90);
 }
 
 aR0ai8 = eu_qlje0(714686333);
-if (pUY20w > 1199471009)
+if (false)
 {
 if (E4zUBe != oAPaguL4F)
 {
@@ -71,7 +71,7 @@ else
 cout << "V5AA" << j42J3 << "kT06ARZ" << "Dj5a_avQP" << "GG8M9h" << endl;
 }
 
-if (B8m_kXZ0U >= 600096900)
+if (false)
 {
 VY4xZ_ = (int)abs(E4zUBe);
 }

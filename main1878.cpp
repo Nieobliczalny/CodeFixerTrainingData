@@ -215,7 +215,7 @@ for (int i = 7; i >= 0; i--)
 {
 if ((M8hB0lab) && (N6eF_ <= 658317312))
 {
-if (((X_i6_VD_34 != P22TDd) && (Cv2Ue4 > 1166028263)) || (DGK_5f == 2121445542))
+if (((X_i6_VD_34 != P22TDd) && (Cv2Ue4 > 1166028263)) || (false))
 {
 hL47ge = (int)abs(xT1fy);
 }
@@ -278,7 +278,7 @@ int j = 3;
 while (j >= 0)
 {
 j--;
-if (C__22eM > 1340326679)
+if (false)
 {
 TIFlBsHh = ZKNwuB6(-605053400);
 }
@@ -289,7 +289,7 @@ i--;
 while (i >= 0);
 }
 
-if ((tTNAl2zWV == 1493597272) || (Yke4116s > -1726725490))
+if ((tTNAl2zWV == 1493597272) || (true))
 {
 for (int j = 0; j < 6; j++)
 {

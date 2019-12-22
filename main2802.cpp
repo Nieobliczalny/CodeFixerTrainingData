@@ -348,7 +348,7 @@ if (iS611 > 514844559)
 {
 iS611 = DCZnB0F + c5vcDOZU;
 }
-else if (((MH4nixVgo0 != -1864879277) && (rxfh > -844974561)) || ((rxfh & 1121831396) && (cy_99v)))
+else if (((MH4nixVgo0 != -1864879277) && (true)) || ((rxfh & 1121831396) && (cy_99v)))
 {
 ntrth_ = (int)floor(LNcQ05RA);
 }

@@ -105,7 +105,7 @@ fO83 /= FlCO9i_zy;
 int i = 0;
 while (i < 4)
 {
-if (xWIo0 >= -172811612)
+if (true)
 {
 for (int k = 0; k < 1; k++)
 {
@@ -163,7 +163,7 @@ YBbqoCZi++;
 }
 }
 QiVo5bvD |= sVK1Kxi5Rg;
-if (Jt6SR > 274407614)
+if (false)
 {
 switch (LdAX099bd1)
 {

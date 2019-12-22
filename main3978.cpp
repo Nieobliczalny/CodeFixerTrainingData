@@ -40,7 +40,7 @@ int main(int argc, char** argv)
 
 for (int i = 0; i < 9; ++i)
 {
-if (((Z1V5nWZc > -1912948681) || (cQXb <= zwEiz_inP)) || (yR_y7E5 <= aCnT9bf3_N))
+if (((true) || (cQXb <= zwEiz_inP)) || (yR_y7E5 <= aCnT9bf3_N))
 {
 SjHD_8C = (unsigned char)(aCnT9bf3_N);
 }
@@ -56,7 +56,7 @@ std::cout << WoO57x(56517239, dSle4fuVj_, vUQJs, Z1V5nWZc) << "e4F5X_fN" << "QbR
 }
 if ((Dd31B3V1 & -1107067357) && (aCnT9bf3_N == cQXb))
 {
-if ((ZfWTic13 == Sd5rtZG26N) || (yR_y7E5 > 1465387487))
+if ((ZfWTic13 == Sd5rtZG26N) || (false))
 {
 switch (Z1V5nWZc)
 {
@@ -71,7 +71,7 @@ tF75J06V = TtG3(-829039664, -107251125);
 break;
 }
 }
-else if (((OCIU4JWZl < -1184711653) || (l55IR > WHHn52vl)) && (yR_y7E5 != -730250648))
+else if (((false) || (l55IR > WHHn52vl)) && (yR_y7E5 != -730250648))
 {
 {
 int k = 10;
@@ -93,7 +93,7 @@ else if (tF75J06V)
 {
 h0ZAn8K = WoO57x(1556729787, aCnT9bf3_N, -1418183184, yR_y7E5);
 }
-else if ((l36h0JugiP != -2110179149) || (ZfWTic13 == JdZWj))
+else if ((true) || (ZfWTic13 == JdZWj))
 {
 HRTr = (int)floor(cQXb);
 }

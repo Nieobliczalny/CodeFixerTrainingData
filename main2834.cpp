@@ -285,7 +285,7 @@ else
 std::cout << "KNUcN" << std::endl;
 }
 }
-else if (((I3rp <= yrpgAvN) || (BG5_199 < -1148373381)) && (jF3r >= -809673233))
+else if (((I3rp <= yrpgAvN) || (false)) && (jF3r >= -809673233))
 {
 for (int j = 10; j >= 0; j--)
 {

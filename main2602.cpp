@@ -53,7 +53,7 @@ case 4:
 p4bLx56S6a = (int)floor(x2CCxmtKN);
 break;
 case 5:
-jQqLKYaQ_ = (aauY5TZimr >= -789851826) ? S569Uwz5(939274960, -428055952) : aauY5TZimr;
+jQqLKYaQ_ = (true) ? S569Uwz5(939274960, -428055952) : aauY5TZimr;
 break;
 case 6:
 x2CCxmtKN = S569Uwz5(x2CCxmtKN, 293227467);
@@ -91,7 +91,7 @@ break;
 int i = 0;
 do
 {
-if (ksfcPdoA6v > -401411416)
+if (true)
 {
 if (Rq316BE576 & 585876199)
 {
@@ -101,7 +101,7 @@ else if ((x2CCxmtKN >= j5sd_Q) && (Rq316BE576 >= Uw_B))
 {
 m2z3Yq = Uw_B & 279852139;
 }
-else if (jg4e_1yt < -301573828)
+else if (false)
 {
 Uw_B = aauY5TZimr + 1490951747;
 }
@@ -120,7 +120,7 @@ x2CCxmtKN = (int)ceil(p4bLx56S6a);
 }
 else
 {
-if (aauY5TZimr > 293337415)
+if (false)
 {
 jg4e_1yt = I2E0Q(jg4e_1yt, jQqLKYaQ_, j5sd_Q, -950743662);
 }
@@ -213,7 +213,7 @@ catch (int& errorCode)
 x2CCxmtKN = (int)floor(p4bLx56S6a);
 }
 
-if (fnb_J18j <= -958897809)
+if (false)
 {
 {
 int j = 10;

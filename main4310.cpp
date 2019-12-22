@@ -51,7 +51,7 @@ else if (x7y068po >= pZ3a33I)
 {
 I4E4g648NL += 1326085255;
 }
-else if ((x7y068po <= 917700028) || (G__F == 845187998))
+else if ((true) || (G__F == 845187998))
 {
 HsCpG3 /= 1811640619;
 }
@@ -111,7 +111,7 @@ break;
 int i = 3;
 do
 {
-if (RI171W < 656603955)
+if (true)
 {
 g7al8 = (long double)(I4E4g648NL);
 }
@@ -162,7 +162,7 @@ std::cout << Et9df6II << oQR8bH << std::endl;
 while (i < 9);
 }
 std::cout << "W_r_XFa6z" << qtXSD02 << std::endl;
-if (B6r75xS > -1932199018)
+if (true)
 {
 switch (pZ3a33I)
 {
@@ -329,7 +329,7 @@ else if ((I4E4g648NL) && (ECw3nt7BH >= I4E4g648NL))
 {
 if (POtXEC0)
 {
-if (x7y068po == -1066533502)
+if (false)
 {
 CHDow8 = (int)ceil(g7al8);
 }
@@ -398,7 +398,7 @@ g7al8 = (int)floor(CHDow8);
 }
 }
 }
-else if ((B6r75xS < HsCpG3) || ((x7y068po <= 1276131047) || (pZ3a33I == 518673486)))
+else if ((B6r75xS < HsCpG3) || ((true) || (pZ3a33I == 518673486)))
 {
 for (int j = 0; j < 9; j++)
 {
@@ -495,7 +495,7 @@ g7al8 = (int)ceil(CHDow8);
 }
 }
 }
-else if ((POtXEC0 == 1830678918) && (RI171W >= 65721149))
+else if ((POtXEC0 == 1830678918) && (false))
 {
 {
 int j = 7;
@@ -506,7 +506,7 @@ x7y068po = L99k(x7y068po);
 }
 }
 }
-else if (pZ3a33I <= -1969891649)
+else if (false)
 {
 POtXEC0 = L99k(152946136);
 }

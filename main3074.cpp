@@ -38,7 +38,7 @@ else
 {
 H6tm33nIw *= 607119899;
 }
-if (Qnls != pk7HSiuY)
+if (true)
 {
 {
 int j = 0;
@@ -56,7 +56,7 @@ else if (ZlSg7 != pNWZ)
 {
 ygMGT = (char)(pk7HSiuY);
 }
-else if (WS79n9x2 >= pk7HSiuY)
+else if (true)
 {
 if (Qnls < -780537855)
 {
@@ -108,7 +108,7 @@ break;
 }
 }
 }
-else if ((y0AdK <= 2015381765) && ((Hi_Ot == JnqFG) || (kn6I8z & -1480053929)))
+else if ((true) && ((Hi_Ot == JnqFG) || (kn6I8z & -1480053929)))
 {
 for (int j = 6; j >= 0; j--)
 {
@@ -122,7 +122,7 @@ iEP09 += 1779022978;
 }
 }
 }
-else if (FcFO7U_ < 801928408)
+else if (true)
 {
 std::cout << D1wy4850(ygMGT, w2yXz6p8es, -1641408773, JD6YC0, -727841265) << FcFO7U_ << QYe8lcd << iEP09 << std::endl;
 }
@@ -134,7 +134,7 @@ else
 {
 JnqFG = (char)(l5ZJGocvR + (YSrr7m_Mw));
 }
-if ((Er63c9Z0 >= -1109650269) && ((b21S >= QYe8lcd) && (mIsHB74L > XI8c6)))
+if ((true) && ((b21S >= QYe8lcd) && (mIsHB74L > XI8c6)))
 {
 if (L8eon != pk7HSiuY)
 {
@@ -153,7 +153,7 @@ gup5 = (char)(M4y54Fg7T);
 }
 else if (t1i1ueqqm3)
 {
-if ((umXt133_a != 1061904249) && ((QYe8lcd != 1059501987) && (tqt17x5 != l5ZJGocvR)))
+if ((true) && ((QYe8lcd != 1059501987) && (tqt17x5 != l5ZJGocvR)))
 {
 L8eon -= L8eon;
 }
@@ -190,7 +190,7 @@ case 1:
 t1i1ueqqm3 = (int)abs(ygMGT);
 break;
 case 2:
-dO838 = (pNWZ >= -732676923) ? D1wy4850(mIsHB74L, z2Zj, Ek6U, 717049616, EuKP) : D1wy4850(mIsHB74L, -1435881577, Ek6U, gup5, 2082576002);
+dO838 = (true) ? D1wy4850(mIsHB74L, z2Zj, Ek6U, 717049616, EuKP) : D1wy4850(mIsHB74L, -1435881577, Ek6U, gup5, 2082576002);
 break;
 case 3:
 FcFO7U_ = (int)abs(t1i1ueqqm3);
@@ -221,7 +221,7 @@ if (Ek6U & l5ZJGocvR)
 {
 H6aPaLY = D1wy4850(H6aPaLY, gup5, JnqFG, -1064476987, XI8c6);
 }
-else if (KGXH1 == YSrr7m_Mw)
+else if (false)
 {
 Ek6U = KO8_Q5A0c(1109806375, M4y54Fg7T);
 }
@@ -271,7 +271,7 @@ w2yXz6p8es /= ygMGT;
 break;
 }
 }
-else if (XI8c6 != 1612617788)
+else if (true)
 {
 if (y0AdK)
 {
@@ -313,7 +313,7 @@ std::cout << "An128it7d" << std::endl;
 }
 else
 {
-if (y0AdK < -2130788468)
+if (false)
 {
 switch (Moc_Vj8)
 {
@@ -410,7 +410,7 @@ Qnls ^= Y6R_7v8;
 XI8c6 = (char)(YSrr7m_Mw);
 try
 {
-if ((dO838) || ((WS79n9x2 != -1133964533) || (H6tm33nIw & l5ZJGocvR)))
+if ((dO838) || ((true) || (H6tm33nIw & l5ZJGocvR)))
 {
 dO838 = (t1i1ueqqm3 >= H6aPaLY) ? Ek6U : FcFO7U_;
 }
@@ -428,7 +428,7 @@ if (ZlSg7 != pNWZ)
 y0AdK += H6aPaLY;
 }
 }
-else if (KGXH1 <= 699234510)
+else if (true)
 {
 {
 int k = 3;
@@ -482,7 +482,7 @@ else
 EuKP = KO8_Q5A0c(-346247674, Er63c9Z0);
 }
 }
-else if ((KGXH1 > dO838) && (KGXH1 >= -1350631015))
+else if ((KGXH1 > dO838) && (true))
 {
 std::cout << EuKP << g37dAk << std::endl;
 }

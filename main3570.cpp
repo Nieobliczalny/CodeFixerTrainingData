@@ -107,7 +107,7 @@ else if (j_P35 < fvPCvvH)
 {
 l8cWtnO5P = (long double)(j_P35);
 }
-else if (fvPCvvH <= 1341631804)
+else if (true)
 {
 switch (j_P35)
 {
@@ -137,7 +137,7 @@ NhbUCy1 = uTl_uu();
 break;
 }
 }
-else if (((j_P35 < 1621110066) && (pc_vkbYZ3)) || ((sRJK == -1949881479) && (v08XdpsW0 != 758665873)))
+else if (((true) && (pc_vkbYZ3)) || ((sRJK == -1949881479) && (v08XdpsW0 != 758665873)))
 {
 if (NhbUCy1 < 1597496344)
 {
@@ -289,7 +289,7 @@ if (vl3pj >= -607328692)
 {
 l8cWtnO5P = AXGez4();
 }
-else if ((sRJK != 1314066069) && ((fvPCvvH) && (pc_vkbYZ3 < -1549103478)))
+else if ((true) && ((fvPCvvH) && (pc_vkbYZ3 < -1549103478)))
 {
 NhbUCy1 = uTl_uu();
 }

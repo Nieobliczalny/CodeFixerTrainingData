@@ -97,7 +97,7 @@ if (E2IDUOy8 & 1445419043)
 {
 try
 {
-if ((d3b_NCI3 <= biqmCM) || (YEwnG1cc == -2024307520))
+if ((d3b_NCI3 <= biqmCM) || (false))
 {
 pBx9Vg9e85 = (int)floor(s5l4L);
 }
@@ -122,7 +122,7 @@ else if (s5l4L)
 {
 std::cout << pBx9Vg9e85 << E2IDUOy8 << std::endl;
 }
-else if (A09q <= -1486919603)
+else if (false)
 {
 E2IDUOy8 = (long)(pBx9Vg9e85);
 }
@@ -132,7 +132,7 @@ if (A09q == -730263052)
 {
 d3b_NCI3 /= 1121215899;
 }
-else if ((s4FR29T != 239634384) && (YEwnG1cc > -1713529915))
+else if ((s4FR29T != 239634384) && (true))
 {
 {
 int k = 4;
@@ -144,7 +144,7 @@ A09q = YEwnG1cc + d3b_NCI3;
 while (k >= 0);
 }
 }
-else if ((Tc0rg2qE == 401615548) || (Tc0rg2qE))
+else if ((false) || (Tc0rg2qE))
 {
 A09q *= LNzY2_;
 }
@@ -157,7 +157,7 @@ mA9Q = s5l4L + 841297980;
 }
 else if (E2IDUOy8)
 {
-if (((A09q >= pBx9Vg9e85) && (biqmCM & 1416978757)) || ((s4FR29T != 1040716626) && (biqmCM <= 1868126586)))
+if (((A09q >= pBx9Vg9e85) && (biqmCM & 1416978757)) || ((s4FR29T != 1040716626) && (true)))
 {
 d3b_NCI3 -= 72219347;
 }
@@ -230,7 +230,7 @@ if (pBx9Vg9e85 > -1692350430)
 pBx9Vg9e85 = (int)floor(s5l4L);
 }
 }
-else if ((biqmCM >= -1970798559) && ((A09q & -990296722) && (LNzY2_)))
+else if ((true) && ((A09q & -990296722) && (LNzY2_)))
 {
 {
 int k = 5;
@@ -291,7 +291,7 @@ Tc0rg2qE = s4FR29T | 269586306;
 int i = 3;
 do
 {
-if (mA9Q != -1191125344)
+if (true)
 {
 LNzY2_ = (unsigned long long)(bF1uz2QKcO * LNzY2_);
 }
@@ -317,7 +317,7 @@ else if (((LNzY2_ <= -1700300232) && (pBx9Vg9e85 == 1644275421)) || (Tc0rg2qE >=
 {
 bF1uz2QKcO = E2IDUOy8 / 1747233321;
 }
-else if (bF1uz2QKcO <= -609640148)
+else if (false)
 {
 biqmCM = A09q >> mA9Q;
 }
@@ -367,7 +367,7 @@ default:
 mA9Q++;
 break;
 }
-if (YEwnG1cc >= 2034087587)
+if (false)
 {
 pBx9Vg9e85 /= biqmCM;
 }
@@ -388,7 +388,7 @@ std::cout << "k8s6" << LNzY2_ << E2IDUOy8 << std::endl;
 }
 }
 
-if (YEwnG1cc <= 395411800)
+if (true)
 {
 try
 {
@@ -414,7 +414,7 @@ catch (int& errorCode)
 YEwnG1cc = E2IDUOy8 / LNzY2_;
 }
 }
-else if (bF1uz2QKcO == 1847154861)
+else if (false)
 {
 try
 {
@@ -510,7 +510,7 @@ k--;
 }
 }
 }
-else if (mA9Q >= -1659146736)
+else if (true)
 {
 try
 {
@@ -533,7 +533,7 @@ k--;
 while (k >= 0);
 }
 }
-else if (biqmCM == 2006055490)
+else if (false)
 {
 A09q = (unsigned short)(Tc0rg2qE);
 }
@@ -573,7 +573,7 @@ else if (bF1uz2QKcO != d3b_NCI3)
 {
 s5l4L = (int)abs(pBx9Vg9e85);
 }
-else if (biqmCM == -1067488401)
+else if (false)
 {
 s5l4L = s4FR29T ^ 1098082577;
 }

@@ -176,7 +176,7 @@ try
 {
 try
 {
-if (((Rm69B != -1775520863) || (Rm69B != 1993529927)) && ((wHL_Cj) && (z64kzL2X != 1212035801)))
+if (((Rm69B != -1775520863) || (Rm69B != 1993529927)) && ((wHL_Cj) && (true)))
 {
 n87mBF1 = (int)abs(nQLryaK_aT);
 }
@@ -308,7 +308,7 @@ else
 EUaf -= zSH0_y;
 }
 }
-else if (((Pa5Kz5tbW_ != -1277857216) || (M1gq2KnW5 & 898800337)) && (g3sX4xfuRC < 1214763360))
+else if (((Pa5Kz5tbW_ != -1277857216) || (M1gq2KnW5 & 898800337)) && (true))
 {
 M1gq2KnW5 = (int)(BEw6L);
 }

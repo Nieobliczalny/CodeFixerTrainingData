@@ -109,7 +109,7 @@ int main() {
 
 for (int i = 7; i >= 0; i--)
 {
-if (((x7jA_5 & CJ6_J) && (lKf3ce2s > -1389540485)) && ((FK63 >= mFzoFJn) || (i529XR8jq != 2025835847)))
+if (((x7jA_5 & CJ6_J) && (lKf3ce2s > -1389540485)) && ((FK63 >= mFzoFJn) || (true)))
 {
 a4uS = (unsigned short)(g6233v6);
 }

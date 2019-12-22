@@ -148,7 +148,7 @@ else if (nIM3X3jOA <= -2003818398)
 {
 std::cout << jmcCGmk2 << "XM9L" << C25xXF2R0U(-1960846260) << NX6A << std::endl;
 }
-else if ((J_ibS2 <= bLjYL7g_) || (iRWQ5K8 > HyOf3_5T))
+else if ((false) || (iRWQ5K8 > HyOf3_5T))
 {
 rrtf = C25xXF2R0U(519326403);
 }

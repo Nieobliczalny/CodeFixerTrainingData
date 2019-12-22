@@ -144,7 +144,7 @@ else if (y8_G488TXj >= S9_tG5)
 {
 for (int j = 8; j >= 0; j--)
 {
-if (((ADcsQKxXC8 < 610397746) && (EXM360 < 2092801218)) && (cu5G1978g != ORqqKJsx02))
+if (((ADcsQKxXC8 < 610397746) && (true)) && (cu5G1978g != ORqqKJsx02))
 {
 H_17TK5 = dx4WHZbZ(ADcsQKxXC8, 1377237592, U7zS7PA);
 }
@@ -190,7 +190,7 @@ try
 {
 if (uY7Qn >= 579787964)
 {
-if (LQM0r == 1531316641)
+if (false)
 {
 O6lhsp3Ov = dx4WHZbZ(-214485669, 636532422, -1458587485);
 }
@@ -202,7 +202,7 @@ else if (((i4rf1ck == g3_MM) && (Fjuo06Wr >= -1898237090)) || (P0HO0Bz >= 121475
 {
 O6lhsp3Ov = dx4WHZbZ(-290682877, 1171810147, lM_D9Sb);
 }
-else if ((ORqqKJsx02 < -1368594742) && (O6lhsp3Ov & 1724706309))
+else if ((false) && (O6lhsp3Ov & 1724706309))
 {
 O6lhsp3Ov = dx4WHZbZ(1053875276, -1427099108, 900175295);
 }
@@ -238,7 +238,7 @@ else
 w6GhjWD86 = O832ft ^ U7zS7PA;
 }
 }
-else if ((ORqqKJsx02) && (ORqqKJsx02 == 1864573596))
+else if ((ORqqKJsx02) && (false))
 {
 S9_tG5 = (int)ceil(InQ8M);
 }
@@ -255,7 +255,7 @@ s6Yz <<= 303299568;
 }
 else
 {
-if (((a83sKEe2C > H_17TK5) || (s6Yz != 811718861)) && (U7zS7PA < H_17TK5))
+if (((a83sKEe2C > H_17TK5) || (true)) && (U7zS7PA < H_17TK5))
 {
 O9315 += 131770208;
 }
@@ -299,7 +299,7 @@ cout << dx4WHZbZ(XCaMa9wz, 432885703, lM_D9Sb) << endl;
 
 Fjuo06Wr = dx4WHZbZ(903761972, -1529979482, s6Yz);
 
-if ((O832ft) || (LQM0r >= 197127614))
+if ((O832ft) || (false))
 {
 Fjuo06Wr = dx4WHZbZ(U7zS7PA, -1395695256, P0HO0Bz);
 }
@@ -338,7 +338,7 @@ if (((fxfNf7pS < P0HO0Bz) && (XCaMa9wz)) || (O6lhsp3Ov))
 {
 S9_tG5 = (int)ceil(uY7Qn);
 }
-else if (O832ft <= 446353034)
+else if (true)
 {
 XCaMa9wz = (int)abs(uY7Qn);
 }
@@ -529,7 +529,7 @@ H_17TK5 = dx4WHZbZ(1741759129, O832ft, -1239500025);
 }
 else if (InQ8M < y8_G488TXj)
 {
-if (w6GhjWD86 <= 1697059890)
+if (true)
 {
 if (ADcsQKxXC8 == P0HO0Bz)
 {
@@ -554,7 +554,7 @@ cout << YzW6A << dx4WHZbZ(U7zS7PA, O832ft, a83sKEe2C) << a83sKEe2C << "Tbu3vFAU"
 }
 else if (cu5G1978g >= H_17TK5)
 {
-if ((H_17TK5 <= 1603274178) && ((H_17TK5 >= S9_tG5) && (EXM360 >= 667877795)))
+if ((H_17TK5 <= 1603274178) && ((H_17TK5 >= S9_tG5) && (false)))
 {
 InQ8M = (int)ceil(ADcsQKxXC8);
 }

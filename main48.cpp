@@ -20,7 +20,7 @@ int main(void)
 int i = 0;
 while (i < 7)
 {
-if (HPFN == -1063522210)
+if (false)
 {
 switch (uL_T_9x)
 {
@@ -34,7 +34,7 @@ case 2:
 e_8Xzaq = (int)ceil(AOadc8Y12R);
 break;
 case 3:
-e_8Xzaq = (uL_T_9x != -876113810) ? dLD2s9s9G(-1621367583, DHcL) : piS7yFPrZr;
+e_8Xzaq = (true) ? dLD2s9s9G(-1621367583, DHcL) : piS7yFPrZr;
 break;
 case 4:
 QCj_8 = F1NH(AOadc8Y12R);
@@ -69,7 +69,7 @@ DHcL = F1NH(DHcL);
 
 std::cout << DHcL / QCj_8 << std::endl;
 
-if (uL_T_9x < -56246023)
+if (false)
 {
 if (DHcL >= WEI8mvOo4_)
 {
@@ -138,7 +138,7 @@ for (int k = 3; k >= 0; --k)
 AOadc8Y12R = (int)floor(e_8Xzaq);
 }
 }
-else if (((QCj_8 & -723658919) && (WEI8mvOo4_ <= 1887037069)) && (WEI8mvOo4_ != QCj_8))
+else if (((QCj_8 & -723658919) && (true)) && (WEI8mvOo4_ != QCj_8))
 {
 if (e_8Xzaq != 1443459173)
 {
@@ -149,7 +149,7 @@ else
 DHcL = (int)abs(QCj_8);
 }
 }
-else if (HPFN == 640154088)
+else if (false)
 {
 WEI8mvOo4_ = (short int)(HPFN);
 }

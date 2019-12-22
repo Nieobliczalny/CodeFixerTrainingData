@@ -81,7 +81,7 @@ Mrvo32 ^= 175445722;
 
 for (int i = 0; i < 7; i++)
 {
-if ((O0_h_STHG & -430617263) || ((Qg33KNAq >= 276933788) && (a04Thf1 < oTb4G_yw7)))
+if ((O0_h_STHG & -430617263) || ((false) && (a04Thf1 < oTb4G_yw7)))
 {
 {
 int k = 0;
@@ -260,7 +260,7 @@ cout << xjvci5 << "QVmq" << W5QC(i4X9, Mrvo32) << tmx6() << endl;
 }
 else if (JVt_SzU_ > Qg33KNAq)
 {
-if (nZ7A >= 732661791)
+if (false)
 {
 if ((m0L0zFC != 538490276) || (a04Thf1 < 210629809))
 {
@@ -376,7 +376,7 @@ JVt_SzU_ = W5QC(JVt_SzU_, xjvci5);
 
 try
 {
-if (hGSf6W >= 2022276088)
+if (false)
 {
 {
 int k = 6;
@@ -464,7 +464,7 @@ else
 cout << "Wf98kP67wo" << tmx6() << endl;
 }
 }
-else if (aGcNqKD != 1800487071)
+else if (true)
 {
 Ba6hc_8 = (int)abs(PMptt3);
 }

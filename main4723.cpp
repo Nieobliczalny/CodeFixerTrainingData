@@ -349,7 +349,7 @@ else if (((he90T1MN_v != Nv7WEZi) || (Ol_D & n60hTF)) && (I7sN2 <= 152434422))
 {
 Sd1k3Y0e0a <<= 507790258;
 }
-else if (SrR68 != 22120062)
+else if (true)
 {
 switch (y8NoD3u)
 {

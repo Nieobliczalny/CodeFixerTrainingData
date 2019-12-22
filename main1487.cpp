@@ -89,7 +89,7 @@ cout << "iv5t2jlb9" << "B3dN" << endl;
 }
 while (i >= 0);
 }
-if (((ruJ7 > -1803068170) || (klb6jWYkQ != 2008718698)) || ((MVhe == -354937866) || (t45r11r)))
+if (((true) || (klb6jWYkQ != 2008718698)) || ((MVhe == -354937866) || (t45r11r)))
 {
 yRA33 = D7L4_l8(yRA33, 1102398925, MC09kE0F, 2038191790);
 }
@@ -165,7 +165,7 @@ catch (int& errorCode)
 QKsffM5tQ = D7L4_l8(lgnO3, QKsffM5tQ, 1970169990, -1115367733);
 }
 }
-else if (az_41M >= -1729068525)
+else if (true)
 {
 NS105h6_D += MC09kE0F;
 }
@@ -179,7 +179,7 @@ else if (ztAE3U)
 {
 t45r11r = j81bdh(-749925204, XM7wgE_, ruJ7, MC09kE0F, -1729578799);
 }
-else if (E9xd6XRu > -1238347003)
+else if (true)
 {
 try
 {
@@ -224,7 +224,7 @@ else if (z7lI_ & az_41M)
 {
 MC09kE0F = (int)ceil(E8gW);
 }
-else if (HzEu9S9 >= 1414746096)
+else if (false)
 {
 MHX5yCQ = j81bdh(MHX5yCQ, ztAE3U, -401062795, HzEu9S9, t45r11r);
 }
@@ -278,7 +278,7 @@ if (yRA33 > 1486051920)
 {
 wSVD8 = j81bdh(lgnO3, -1908297558, 620678706, t45r11r, -1609164178);
 }
-else if ((ztAE3U <= -653020020) || ((ruJ7 >= 504150219) && (yRA33)))
+else if ((ztAE3U <= -653020020) || ((false) && (yRA33)))
 {
 E8gW = (int)floor(QKsffM5tQ);
 }
@@ -290,7 +290,7 @@ else if ((yRA33 > nWY019) && (HzEu9S9 > -778587700))
 {
 MVhe = j81bdh(2137557135, SMM46c, 2018458906, yRA33, 349307457);
 }
-else if (XM7wgE_ >= -1627831694)
+else if (true)
 {
 QKsffM5tQ = (int)floor(MC09kE0F);
 }
@@ -303,7 +303,7 @@ ztAE3U = D7L4_l8(1540093560, ztAE3U, E8gW, XM7wgE_);
 cout << "XUVs8OCTc" << SMM46c << kir1I(-1274158127, ztAE3U) << endl;
 E9xd6XRu = (char)(s515);
 
-if (HzEu9S9 >= 234225697)
+if (false)
 {
 switch (lgnO3)
 {
@@ -382,7 +382,7 @@ break;
 }
 else if (((MC09kE0F < 1742691139) && (z7lI_ != s515)) || (nWY019 & 117224583))
 {
-if (XM7wgE_ != 401191703)
+if (true)
 {
 ztAE3U = ztAE3U | 1026627563;
 }
@@ -394,7 +394,7 @@ else if (s515 >= 768787971)
 {
 RepBUJ = (int)abs(az_41M) + (-492153825);
 }
-else if ((QKsffM5tQ <= -2145494192) || ((z7lI_ & 2041917775) && (NS105h6_D <= 2006067969)))
+else if ((QKsffM5tQ <= -2145494192) || ((z7lI_ & 2041917775) && (true)))
 {
 klb6jWYkQ = NS105h6_D * 849145767;
 }
@@ -455,7 +455,7 @@ case 'D':
 ruJ7 ^= z7lI_;
 break;
 default:
-NS105h6_D = (HzEu9S9 != 1521095297) ? 464382247 : MVhe;
+NS105h6_D = (true) ? 464382247 : MVhe;
 break;
 }
 }

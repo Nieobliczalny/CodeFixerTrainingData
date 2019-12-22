@@ -67,7 +67,7 @@ do
 i++;
 if (V2flt6T > -598839055)
 {
-if (((kFxnzo_) || (T23s_P != FMoR)) && ((V2flt6T != 290810956) && (KJ75qp <= -661687541)))
+if (((kFxnzo_) || (T23s_P != FMoR)) && ((V2flt6T != 290810956) && (false)))
 {
 J84_8 = (int)floor(N249Nm);
 }
@@ -216,7 +216,7 @@ else if (J84_8 == nw99FU0)
 {
 cout << kFxnzo_ << "Wz3CY482" << endl;
 }
-else if (JB9Wcw3Om < 1722595335)
+else if (true)
 {
 for (int j = 0; j < 3; ++j)
 {

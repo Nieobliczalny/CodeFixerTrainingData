@@ -81,7 +81,7 @@ lH2X &= 1153779611;
 break;
 }
 }
-else if (((mwAvf) || (zJDPJg > r4lBKi8f6L)) && (frnJLY6 == 35935377))
+else if (((mwAvf) || (zJDPJg > r4lBKi8f6L)) && (false))
 {
 for (int j = 4; j >= 0; j--)
 {
@@ -208,7 +208,7 @@ zJDPJg = (int)abs(jhHb813npm);
 int i = 2;
 do
 {
-if (lH2X >= -165256374)
+if (true)
 {
 for (int k = 0; k < 6; ++k)
 {
@@ -249,7 +249,7 @@ PTY7L1tc2m = frnJLY6 % 471144012;
 
 try
 {
-if ((a8S2Id5M <= PTY7L1tc2m) && (jhHb813npm <= -1496064031))
+if ((a8S2Id5M <= PTY7L1tc2m) && (false))
 {
 {
 int k = 9;
@@ -324,7 +324,7 @@ std::cout << Uq4b__ << G05g() << std::endl;
 int i = 0;
 while (i < 6)
 {
-aH97O12B0 = (a8S2Id5M >= 2013340446) ? jhHb813npm : -447415161;
+aH97O12B0 = (false) ? jhHb813npm : -447415161;
 ++i;
 }
 }
@@ -341,7 +341,7 @@ else if (a8S2Id5M >= zJDPJg)
 {
 lH2X = (int)abs(T32Y);
 }
-else if (((jhHb813npm == r4lBKi8f6L) && (Uq4b__ >= -1833544870)) && ((a8S2Id5M >= r4lBKi8f6L) && (frnJLY6 & -666320681)))
+else if (((jhHb813npm == r4lBKi8f6L) && (true)) && ((a8S2Id5M >= r4lBKi8f6L) && (frnJLY6 & -666320681)))
 {
 for (int j = 9; j >= 0; --j)
 {
@@ -355,7 +355,7 @@ e9Av9_8pjX = Lr3k1Jm1np(826337045);
 }
 }
 }
-else if (T32Y < -1761721588)
+else if (false)
 {
 zJDPJg = (short int)(T32Y);
 }
@@ -367,7 +367,7 @@ else
 {
 if (J2HBQq & lH2X)
 {
-if (T32Y >= -284903802)
+if (true)
 {
 e9Av9_8pjX = y_epy8D_YX(558325671, 1443949045);
 }
@@ -377,7 +377,7 @@ if (T32Y < r4lBKi8f6L)
 {
 std::cout << "OnX32_k58" << frnJLY6 << std::endl;
 }
-else if ((J2HBQq > -1180170840) && (e9Av9_8pjX < Uq4b__))
+else if ((true) && (e9Av9_8pjX < Uq4b__))
 {
 std::cout << T32Y << "Y1R4" << "ft_VJ" << std::endl;
 }
@@ -389,7 +389,7 @@ else if (jhHb813npm <= e9Av9_8pjX)
 {
 for (int j = 9; j >= 0; --j)
 {
-if (lH2X < 144171216)
+if (true)
 {
 frnJLY6 = G05g();
 }
@@ -440,7 +440,7 @@ else if (RF0Y3n_7ch & e9Av9_8pjX)
 {
 T32Y = G05g();
 }
-else if ((zJDPJg != RF0Y3n_7ch) || ((jhHb813npm <= -153810838) || (aH97O12B0 >= r4lBKi8f6L)))
+else if ((zJDPJg != RF0Y3n_7ch) || ((false) || (aH97O12B0 >= r4lBKi8f6L)))
 {
 switch (lH2X)
 {

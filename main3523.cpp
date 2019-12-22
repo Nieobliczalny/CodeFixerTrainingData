@@ -60,7 +60,7 @@ int main(void) {
  short l3oL = -1499756966;
 	double	ph0_8K5i	=	-283178964;
 
-if ((DZuo >= 563638912) && (G2h440rN > 1452995927))
+if ((false) && (G2h440rN > 1452995927))
 {
 if ((wmQU != -540471498) || ((d5UiV == -913384952) || (Q1v6 >= -882202053)))
 {
@@ -108,7 +108,7 @@ else
 iRZOrs57 = vNGZtY2s(iRZOrs57, 2137029519);
 }
 }
-if (((z_J6LGyz3C <= 1005090072) && (KLQ_4N4 != 1809670911)) || ((QNeVEmddg != 168532160) || (eM87G3u3 == -1275557810)))
+if (((true) && (KLQ_4N4 != 1809670911)) || ((QNeVEmddg != 168532160) || (eM87G3u3 == -1275557810)))
 {
 if ((al9fqeWN_8 > -567041342) && (vdsvz2jwQ >= ZE93t))
 {
@@ -250,7 +250,7 @@ GXCoGTn__ = vNGZtY2s(-1887690543, -1830326699);
 break;
 }
 
-if (x8HR5HSf4 <= -1408852919)
+if (false)
 {
 switch (l3oL)
 {

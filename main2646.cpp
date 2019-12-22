@@ -67,7 +67,7 @@ int main()
 int i = 5;
 while (i >= 0)
 {
-if (f0TUx != -1712062299)
+if (true)
 {
 if (DS7x <= -945254761)
 {

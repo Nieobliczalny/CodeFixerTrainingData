@@ -58,7 +58,7 @@ catch (int& errorCode)
 spc128Xfc = spc128Xfc >> 892534177;
 }
 }
-else if (((spc128Xfc <= 304879186) || (m3O2 & 84269762)) && ((m3O2 == -828449799) || (m3O2 != -872231137)))
+else if (((true) || (m3O2 & 84269762)) && ((m3O2 == -828449799) || (m3O2 != -872231137)))
 {
 ras809jW = (char)(spc128Xfc * ras809jW);
 }

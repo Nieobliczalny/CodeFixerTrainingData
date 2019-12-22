@@ -404,7 +404,7 @@ catch (int& errorCode)
 A94_uh9 = JzbpOR(A94_uh9, 770504449);
 }
 }
-else if ((wN9pDKqQ < f5alo) && (O2_7 & ZDR_))
+else if ((true) && (O2_7 & ZDR_))
 {
 if (daR5Ug4 != R5TA51_G)
 {

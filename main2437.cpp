@@ -192,7 +192,7 @@ if (Xbh58b98m5 >= X2zpSG)
 {
 F5QJR = (int)floor(stj029R5);
 }
-else if (g82108ujID < -1011732482)
+else if (false)
 {
 for (int j = 1; j >= 0; --j)
 {

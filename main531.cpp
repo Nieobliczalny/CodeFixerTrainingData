@@ -101,7 +101,7 @@ i--;
 int j = 0;
 while (j < 8)
 {
-if ((bFhGx3P <= 235429735) && ((mLShzIlW <= 192137296) && (ly4_ > -1194434908)))
+if ((true) && ((mLShzIlW <= 192137296) && (ly4_ > -1194434908)))
 {
 B1Br7S_ += DPf29h;
 }
@@ -153,7 +153,7 @@ break;
 }
 std::cout << J6yI(-945197275, k8R2, uziF) << b5686_AGDy(250689989, k8R2, 1691468161, 341420421) << std::endl;
 cB4zvTTO = O0d5O60(cB4zvTTO, vk08rcE_, -1480902711, M0L68, D5344aJh);
-if (bFhGx3P > 182864045)
+if (false)
 {
 for (int j = 7; j >= 0; j--)
 {
@@ -252,7 +252,7 @@ if (bFhGx3P & 338289246)
 {
 std::cout << gL5dRu_(1620548150, -636314730) << WsFVW082_ << XXVTi1v_3N << gL5dRu_(rV4A5, VNQcE) << std::endl;
 }
-else if ((XXVTi1v_3N == bFhGx3P) || ((bFhGx3P > 78883102) || (oR_L_aut5)))
+else if ((XXVTi1v_3N == bFhGx3P) || ((false) || (oR_L_aut5)))
 {
 kKeUxr65 = (int)abs(vk08rcE_);
 }

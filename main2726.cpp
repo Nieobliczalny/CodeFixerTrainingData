@@ -88,7 +88,7 @@ int i = 0;
 while (i < 5)
 {
 ++i;
-if (sPjxivl4 > -559179508)
+if (true)
 {
 if ((IMZB2YWO9k) && (bAbkA1 <= TsAJ8FR))
 {

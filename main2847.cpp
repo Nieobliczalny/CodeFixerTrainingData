@@ -150,7 +150,7 @@ if (LEI4oJR6V != njMHR9EE8)
 {
 IE97k = (int)floor(QH8MK);
 }
-else if ((Qi0L14Z) && (vzCGzGlv == IHgDX))
+else if ((Qi0L14Z) && (false))
 {
 OgeHa0eG = w5_a24(OgeHa0eG);
 }
@@ -343,7 +343,7 @@ CER_jTxaO1 = (unsigned short)(IHgDX);
 int i = 7;
 while (i >= 0)
 {
-if (((chqDB) || (LEI4oJR6V >= 1544078528)) && ((WrP12Y_w) || (I49846T <= r4PEz)))
+if (((chqDB) || (false)) && ((WrP12Y_w) || (I49846T <= r4PEz)))
 {
 for (int k = 0; k < 3; k++)
 {

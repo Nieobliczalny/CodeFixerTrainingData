@@ -59,7 +59,7 @@ if (nbcMiSd <= -633348734)
 {
 XAL2 = Yk_TNR_(Uo_3, 1362077128, -1221979644, 1037719553, -278353303);
 }
-else if ((i3Kvc98 == -1915568815) || ((Uo_3 > 363765716) || (XAL2 != Uo_3)))
+else if ((false) || ((Uo_3 > 363765716) || (XAL2 != Uo_3)))
 {
 dnyQM3Y1 = (unsigned long)(OkR5P40a);
 }
@@ -126,7 +126,7 @@ for (int i = 0; i < 10; ++i)
 XAL2 = (short)(Uo_3 + (312198528));
 }
 i3Kvc98 = (short int)(nbcMiSd + (-1357870811));
-if ((XAL2 == -1239045466) || (i3Kvc98 > -1564144805))
+if ((false) || (i3Kvc98 > -1564144805))
 {
 switch (dnyQM3Y1)
 {

@@ -48,7 +48,7 @@ while (i >= 0);
 
 std::cout << sLv3012u << U5g3pa6 << kj8FI1d << std::endl;
 
-if ((R35G_r_ < 286950968) && ((x5n4Z0I7 == -1671310440) || (NK6M1xC >= h0nW60pD9E)))
+if ((true) && ((x5n4Z0I7 == -1671310440) || (NK6M1xC >= h0nW60pD9E)))
 {
 {
 int j = 0;

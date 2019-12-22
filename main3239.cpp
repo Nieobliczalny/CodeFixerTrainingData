@@ -22,7 +22,7 @@ int main(int argc, char** argv)
 
 Q02keBf = cSt4uTv2e / NT1wlkbH5d(vOmL2J, WgN_);
 
-if ((PkKL6y7Ug <= -1848624820) && ((U95RDEkPU <= xU00mTTiw7) && (z_9sd < -1794219292)))
+if ((false) && ((U95RDEkPU <= xU00mTTiw7) && (z_9sd < -1794219292)))
 {
 {
 int j = 2;
@@ -35,7 +35,7 @@ j--;
 }
 else if (j2ip467 & f7H06U)
 {
-if ((cSt4uTv2e != 1780215298) && (WgN_ <= ILINiLfP))
+if ((true) && (WgN_ <= ILINiLfP))
 {
 try
 {
@@ -47,7 +47,7 @@ zjfTxvd = M8j55rMFB();
 }
 }
 }
-else if (XEsN2QYd < fe0S)
+else if (true)
 {
 if (WgN_ != ob1y_B)
 {
@@ -58,7 +58,7 @@ else if (z8wG < ug8Wp)
 {
 MZs_6 = (unsigned char)(fe0S);
 }
-else if (Qh881371C > 1552006750)
+else if (false)
 {
 if (xU00mTTiw7 != ug8Wp)
 {

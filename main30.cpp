@@ -379,7 +379,7 @@ catch (int& errorCode)
 Yk0r4_CW /= 2014160386;
 }
 }
-else if (e8VBK <= 330153419)
+else if (true)
 {
 Dl24x9 /= 833458227;
 }

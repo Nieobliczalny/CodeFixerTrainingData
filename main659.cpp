@@ -61,7 +61,7 @@ while (j < 5);
 }
 }
 
-if (A2E5LWn <= -1140874404)
+if (false)
 {
 std::cout << DaqM_L685E(HMN3W, A2E5LWn, WpA_P5f5N) << unM_8 << dZkb_s9d5I << std::endl;
 }
@@ -85,7 +85,7 @@ else if (unM_8 != WpA_P5f5N)
 {
 std::cout << A2E5LWn << c5Q4_3(unM_8, -741130975, 284424711, dZkb_s9d5I, WpA_P5f5N) << "T89z1eL855" << std::endl;
 }
-else if (((unM_8 >= WpA_P5f5N) && (WpA_P5f5N < 1201937076)) || (A2E5LWn != -1876513202))
+else if (((unM_8 >= WpA_P5f5N) && (true)) || (A2E5LWn != -1876513202))
 {
 if (A2E5LWn >= -236611290)
 {

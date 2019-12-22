@@ -264,7 +264,7 @@ else
 PJ0o = K86C(-960907422, 1383312536, -1477788591, -800670093) << 159102063;
 }
 }
-else if (ZF24_S_ == -1579092255)
+else if (false)
 {
 if ((Q__450n >= pHP5761a) && ((dvaHT < -3560367) && (SboSf2AV <= 384149957)))
 {
@@ -279,7 +279,7 @@ else if (BeW0iwn)
 {
 cout << pHP5761a << "dtEc1_Q_99" << K86C(eZtk8, oS8NPw99fn, IDA6rO, -1462479497) << endl;
 }
-else if (Q__450n != -1369213069)
+else if (true)
 {
 if (PJ0o)
 {
@@ -290,7 +290,7 @@ else if ((zFu1 < HPB1) || ((Q2IsCDTA == HPB1) || (JFDCV == iYnQ29)))
 {
 JFDCV = (int)abs(SboSf2AV);
 }
-else if (((JFDCV != 1244078823) && (zFu1 & 1566826837)) && (Q2IsCDTA <= 1847087801))
+else if (((true) && (zFu1 & 1566826837)) && (Q2IsCDTA <= 1847087801))
 {
 Hl1C = K86C(-2063992668, 2082825279, gjx_nF1_w, Q2IsCDTA);
 }
@@ -375,7 +375,7 @@ T4rb5_O = (int)ceil(yhdn12);
 }
 else if (pHP5761a & daXF)
 {
-if ((h00c5 > -1994244530) && (s3k500c < nPSdw))
+if ((true) && (s3k500c < nPSdw))
 {
 switch (BZ8WJ6BK_)
 {
@@ -407,7 +407,7 @@ catch (int& errorCode)
 lXNI5du &= 77117621;
 }
 }
-else if (yvQ72 > 2099658503)
+else if (false)
 {
 jp2JU91 = (short int)(Q5q8o);
 }
@@ -482,7 +482,7 @@ PJ0o = (short)(mpaRo2);
 }
 }
 }
-else if ((tFW27W == pYb6) || ((J13G <= 1153453921) || (Hl1C != 971594495)))
+else if ((tFW27W == pYb6) || ((true) || (Hl1C != 971594495)))
 {
 switch (mpaRo2)
 {
@@ -499,7 +499,7 @@ break;
 }
 else
 {
-if ((piRGD9Y1H >= -1001053624) || (C5459HWWc4 != yT6SBq))
+if ((true) || (C5459HWWc4 != yT6SBq))
 {
 if (fr2Eut_ & 761380891)
 {
@@ -513,7 +513,7 @@ nPSdw >>= 2072022867;
 }
 BZ8WJ6BK_ = (int)(K9GWW_);
 
-if ((Ou5QDx0 <= 1744655644) || (yvQ72 & Hl1C))
+if ((true) || (yvQ72 & Hl1C))
 {
 if (VdQG != -1138764972)
 {
@@ -533,7 +533,7 @@ else if (K9GWW_ <= Izw7qn)
 {
 eF3rv1fr = SzOz * J13G;
 }
-else if ((tFW27W != -781786132) && ((VdQG <= -238580083) || (snf009B)))
+else if ((true) && ((VdQG <= -238580083) || (snf009B)))
 {
 HPB1 = (int)floor(i9M26);
 }
@@ -550,7 +550,7 @@ else
 HPB1 = (int)ceil(i9M26);
 }
 }
-else if ((gAO7 & 167117300) || ((nN2cmQbV & pHP5761a) || (ZF24_S_ >= 2145874916)))
+else if ((gAO7 & 167117300) || ((nN2cmQbV & pHP5761a) || (false)))
 {
 {
 int k = 3;
@@ -677,7 +677,7 @@ cout << K86C(-1650046540, -1975503409, -184130086, 1234989119) << endl;
 while (i < 9);
 }
 
-if (tFW27W == -258533232)
+if (false)
 {
 {
 int j = 0;

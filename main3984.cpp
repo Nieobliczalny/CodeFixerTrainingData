@@ -203,7 +203,7 @@ int main()
 	char	mI5X1;
 	mI5X1	=	620335408;
 
-if ((tX0f8zLot <= 688747404) && ((a974NKf3 & mI5X1) || (ud5GPc >= u43K)))
+if ((true) && ((a974NKf3 & mI5X1) || (ud5GPc >= u43K)))
 {
 try
 {
@@ -247,7 +247,7 @@ int i = 3;
 do
 {
 --i;
-if (r4QMvmB1 <= 1042519311)
+if (true)
 {
 a974NKf3 = k9ReIRL() << 1309182750;
 }
@@ -257,7 +257,7 @@ while (i >= 0);
 
 for (int i = 6; i >= 0; i--)
 {
-if (mI5X1 != -1265705658)
+if (true)
 {
 std::cout << sT_YyO << fez2kiQz38 << Sd6KDqA(Ey0S_) << "vclX" << "z_q9Z9XD" << std::endl;
 }

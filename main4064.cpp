@@ -80,7 +80,7 @@ j++;
 }
 }
 }
-else if (pctKQ < -2006119175)
+else if (false)
 {
 {
 int j = 5;
@@ -159,7 +159,7 @@ while (k < 10);
 }
 }
 }
-else if (C2caoRbTo_ != -208541169)
+else if (true)
 {
 switch (f_tYhUOmJ)
 {
@@ -179,7 +179,7 @@ break;
 }
 else
 {
-if (C2caoRbTo_ >= 158717145)
+if (false)
 {
 for (int k = 0; k < 4; ++k)
 {
@@ -251,7 +251,7 @@ r6qW3 = r6qW3 * 745493109;
 }
 }
 }
-else if (E_17Xfv_ != -420369221)
+else if (true)
 {
 std::cout << Nr2lsQ() << C3ArWN__U << yS5n << std::endl;
 }

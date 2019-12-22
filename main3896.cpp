@@ -493,7 +493,7 @@ for (int k = 0; k < 9; k++)
 yvhQ ^= e3_NLXqPX0;
 }
 }
-else if (fkXFcQQNpu != 2122817464)
+else if (true)
 {
 if (A7LqgQ >= 715829843)
 {
@@ -513,7 +513,7 @@ k--;
 }
 }
 
-if (IX68Z < -994114728)
+if (false)
 {
 if (K1_1c73vzq >= -170200177)
 {
@@ -552,7 +552,7 @@ int i = 0;
 do
 {
 ++i;
-if (((IX68Z != -2011579878) || (q4qk9V)) || (t2Dlh2 < 1599132974))
+if (((true) || (q4qk9V)) || (t2Dlh2 < 1599132974))
 {
 dCJF = (int)floor(g678hn);
 }

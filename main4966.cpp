@@ -170,7 +170,7 @@ int i = 4;
 do
 {
 i--;
-if ((m_EUA > g0hn27) || (u08Dy9ZAT1 <= -1279726493))
+if ((m_EUA > g0hn27) || (false))
 {
 cout << "pnjN" << V7pZ << "aITV_Bv4" << "zOjv_CbNMh" << Vrt_(1185736347, 206065532, U9m3g) << endl;
 }
@@ -262,7 +262,7 @@ hY_hdJvyA = (unsigned short int)(f7pv19_ + (1702438581));
 
 if (ERixFi4ODy == 1690564970)
 {
-if (mL58M7a_X7 > 1838083070)
+if (false)
 {
 cout << Y2ETGBd(WrsCgTT8W5, t9EBbQQnt, g0hn27, u08Dy9ZAT1) << "z99pG" << "TnkN" << "vIur3" << u08Dy9ZAT1 << endl;
 }

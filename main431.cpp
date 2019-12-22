@@ -344,7 +344,7 @@ try
 int j = 5;
 do
 {
-if (((ZXbbXU3 < -915540779) && (oui4_SDC1 > hi_7iBa4iS)) && (AHndI1g > 1799984891))
+if (((false) && (oui4_SDC1 > hi_7iBa4iS)) && (AHndI1g > 1799984891))
 {
 c05_YP3ku /= 213800528;
 }

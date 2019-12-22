@@ -77,7 +77,7 @@ int i = 4;
 while (i >= 0)
 {
 i--;
-if (Zs2t_Th > -1899370335)
+if (true)
 {
 Ec1uGD_ys %= 1340648994;
 }
@@ -103,7 +103,7 @@ X6iSjifhL = dLvwzFoKY(X6iSjifhL, H9oxT7h_, IYtDodizY7, 667233316, -1733252224);
 int i = 0;
 while (i < 1)
 {
-if (B2v16x == 173438510)
+if (false)
 {
 if (wrMuB4kg9M >= 65550322)
 {

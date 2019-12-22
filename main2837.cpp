@@ -133,7 +133,7 @@ if (Js654QqV >= -1501083271)
 {
 obfOshz9 = (long double)(ztcsy);
 }
-else if (Zye_ <= -1223999172)
+else if (false)
 {
 std::cout << Ip_t7(1828161357) << std::endl;
 }
@@ -256,7 +256,7 @@ i6rUvm0N3 = (int)ceil(Q8SXth);
 
 if (obfOshz9 != Js654QqV)
 {
-if (F21777 != 1267539140)
+if (true)
 {
 gRF03JL794 ^= jSE_3pz;
 }
@@ -273,7 +273,7 @@ i45_ = FSQjg4 / ssx4h;
 
 FSQjg4 = ERaHZ2();
 
-if ((KF3wxXV) || (cpWu_mlI < -38563952))
+if ((KF3wxXV) || (false))
 {
 for (int j = 0; j < 3; j++)
 {
@@ -313,7 +313,7 @@ Js654QqV = Xc17(592739666, 482146355, 1125158377, 871872765, Ffpi9F17);
 }
 else if (i45_ <= 1738425356)
 {
-if (FRVc6UoD != 388298489)
+if (true)
 {
 G0kqXDJ = (int)floor(Q8SXth);
 }

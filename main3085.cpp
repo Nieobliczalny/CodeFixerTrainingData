@@ -238,7 +238,7 @@ gsztDJ = (int)abs(QFDBcb);
 while (k >= 0);
 }
 }
-else if (WyD0de > 656799735)
+else if (false)
 {
 for (int k = 3; k >= 0; --k)
 {
@@ -317,7 +317,7 @@ wB_2 = (int)floor(QFDBcb);
 WyD0de -= 1043784024;
 wB_2 = KwiUVQWO / X0WZJCv7;
 
-if (z4i9D <= 1433348066)
+if (true)
 {
 std::cout << Wvxx90(-171017179) << mA74z113 << std::endl;
 }

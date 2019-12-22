@@ -42,7 +42,7 @@ c6P8YFqZLR = (long double)(hxVWX + (kW61));
 }
 else
 {
-if (hxVWX == 662434616)
+if (false)
 {
 HH1Gz8 &= RX65;
 }
@@ -209,7 +209,7 @@ c6P8YFqZLR = (int)floor(f7t4cyD);
 }
 }
 
-if (W4H3e17rzF <= B_fW52Ie_)
+if (true)
 {
 {
 int j = 2;

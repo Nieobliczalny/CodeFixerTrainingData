@@ -250,7 +250,7 @@ int j = 0;
 while (j < 3)
 {
 ++j;
-if (u9V9x == -1317517616)
+if (false)
 {
 k23QOGrAa = n1Jvp20(-1990795822, 143441239);
 }
@@ -351,7 +351,7 @@ std::cout << "Y635" << n1Jvp20(-1628591522, TdNv2DZ9r) << std::endl;
 }
 else
 {
-if (dgZyj0q != 260679475)
+if (true)
 {
 g0_GG62 ^= t6hfO0R01Y;
 }
@@ -486,7 +486,7 @@ LcvwmR1_BJ = n1Jvp20(dgZyj0q, j8sqVv5t) - O5RFXY;
 break;
 }
 }
-else if ((TdNv2DZ9r) || (dgZyj0q < 424574116))
+else if ((TdNv2DZ9r) || (true))
 {
 for (int j = 2; j >= 0; --j)
 {

@@ -146,7 +146,7 @@ else if (t8vl > 1442878158)
 {
 S_dx_PZ = (int)floor(ys7UN57Ae);
 }
-else if (((ys7UN57Ae >= o82PH8C9G) && (wo_5E == -31884620)) || (a4rcUb22r > -505403011))
+else if (((ys7UN57Ae >= o82PH8C9G) && (wo_5E == -31884620)) || (true))
 {
 OxDJtU48 = (int)floor(ys7UN57Ae);
 }
@@ -181,7 +181,7 @@ else if (mUMri)
 {
 mUMri = (int)abs(sA74959);
 }
-else if (sg6B >= -709701191)
+else if (true)
 {
 lfQIEK7 += 168448402;
 }
@@ -202,7 +202,7 @@ while (i >= 0);
 }
 for (int i = 0; i < 1; ++i)
 {
-if (tGJ0 <= 1556164916)
+if (true)
 {
 try
 {
@@ -297,7 +297,7 @@ j--;
 while (j >= 0);
 }
 }
-if (p7TEWNQC <= 1398623905)
+if (true)
 {
 if ((mUMri == y7gT) || (tMw3Siad52 == 1066338502))
 {
@@ -350,7 +350,7 @@ tMw3Siad52 = Hrj9Hal();
 }
 else
 {
-if (a4rcUb22r < -845506470)
+if (false)
 {
 if (o82PH8C9G != wVJpW2)
 {
@@ -432,7 +432,7 @@ while (k < 7);
 }
 else if ((AYb_W9sp0 > 153465178) && (OmTnhuy93_))
 {
-if (al0__ != 841447599)
+if (true)
 {
 std::cout << lfQIEK7 << "hY2_1PE_DA" << "bd8JIN" << "oni_1J" << Hrj9Hal() << std::endl;
 }

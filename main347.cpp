@@ -506,7 +506,7 @@ while (k >= 0);
 }
 }
 
-if (rZCV5_n != 962988355)
+if (true)
 {
 {
 int j = 0;
@@ -543,7 +543,7 @@ while (j >= 0);
 int i = 0;
 do
 {
-if (((bha391s & rT_Dc_) && (B5ie == cbf5lS7)) && (rZCV5_n > 1511032246))
+if (((bha391s & rT_Dc_) && (B5ie == cbf5lS7)) && (false))
 {
 {
 int k = 1;

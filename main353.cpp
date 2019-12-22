@@ -251,7 +251,7 @@ zf19 = ouIu2AAa2G(j4hOGSH87) / A_IxQS(330711723);
 
 CE9L20U = A_IxQS(CE9L20U);
 
-if (CE9L20U > 525810367)
+if (false)
 {
 if (mk_LPuo)
 {

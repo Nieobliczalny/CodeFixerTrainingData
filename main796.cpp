@@ -95,7 +95,7 @@ std::cout << "JLY0197" << JF5c6 << CeqE4XaxR3(Ena8oekO9Z, 1978245247) << Ml61sSj
 
 for (int i = 1; i >= 0; i--)
 {
-if ((Ctu_pW4l >= 384876908) && (a71uwW_8 < 702010173))
+if ((false) && (a71uwW_8 < 702010173))
 {
 std::cout << Lc4La8() << YxVAeL_Tx7 << I453Cs(1660453507) << std::endl;
 }
@@ -151,7 +151,7 @@ if (Y3ZYKhU6)
 CXJ4X = (int)abs(wq52yOA9);
 }
 }
-else if (r_4C < 339447227)
+else if (true)
 {
 try
 {
@@ -174,7 +174,7 @@ Ea6s6o5Y = I453Cs(Ea6s6o5Y);
 while (k < 10);
 }
 }
-else if (JF5c6 > -214727565)
+else if (true)
 {
 switch (m259E)
 {
@@ -232,7 +232,7 @@ else if (de1IeY9w > 1331455011)
 {
 C_2Y = Ml61sSj9Jp(1155704548, k2R36, uiBQOI, 975248969);
 }
-else if ((EgeXZy <= 1946730762) && ((hdfFiQ_f <= YT6p) || (Gqt3FiJ_Tr)))
+else if ((true) && ((hdfFiQ_f <= YT6p) || (Gqt3FiJ_Tr)))
 {
 oIaa8f3o = Ml61sSj9Jp(gVh5U, iCgq, 1270110662, 626241983);
 }

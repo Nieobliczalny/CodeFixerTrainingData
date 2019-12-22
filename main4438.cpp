@@ -76,7 +76,7 @@ else
 NoBuzC3 = r4AV7Y(NoBuzC3, -1033824617, -272864266, tr_md_, -860733192);
 }
 }
-else if (NM_0 >= -1367117861)
+else if (true)
 {
 if (Xr20)
 {
@@ -117,7 +117,7 @@ break;
 }
 }
 }
-else if (zU_w <= -653268764)
+else if (false)
 {
 std::cout << d07429A7 << r4AV7Y(c3p3C72i2, -1971483979, fcwBq, -998820555, 1569387753) << "z4bdw7Cb" << r4AV7Y(c3p3C72i2, -247840665, 2126908950, g52F47, rQ_tMoUj_) << O__3wS0 << std::endl;
 }
@@ -273,7 +273,7 @@ case 'B':
 R0lj4ArQTe = Iq4pdY_();
 break;
 default:
-LQGHnt4yh = (VM_K >= -1907636239) ? 1400439159 : G74m7gBvIe;
+LQGHnt4yh = (true) ? 1400439159 : G74m7gBvIe;
 break;
 }
 }

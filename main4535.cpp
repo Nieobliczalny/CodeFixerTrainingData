@@ -32,7 +32,7 @@ int main(int argc, char** argv)
 a37_00R = (short int)(Y_Nj35 + (106251356));
 
 Ya4B = jedeB();
-if (a37_00R != -177720512)
+if (true)
 {
 Ya4B = W2q0fnh5(Ya4B);
 }
@@ -54,7 +54,7 @@ if (Ya4B & a37_00R)
 {
 std::cout << a37_00R << jedeB() << iEBfh04C() << std::endl;
 }
-else if (Y_Nj35 < 519543377)
+else if (true)
 {
 {
 int j = 0;
@@ -69,7 +69,7 @@ Ya4B += 874256507;
 while (j < 8);
 }
 }
-else if (GzGWfi >= 1784677858)
+else if (false)
 {
 switch (a37_00R)
 {
@@ -105,7 +105,7 @@ a37_00R = (int)abs(GzGWfi) + (997086685);
 break;
 }
 }
-else if ((Y_Nj35 & 65591413) || (Ya4B != 1124610691))
+else if ((Y_Nj35 & 65591413) || (true))
 {
 for (int j = 6; j >= 0; j--)
 {
@@ -123,7 +123,7 @@ else if (Ya4B)
 {
 Ya4B = Y_Nj35 + 1832922157;
 }
-else if ((Y_Nj35 > 252155473) && (Y_Nj35 == 2055855559))
+else if ((false) && (Y_Nj35 == 2055855559))
 {
 for (int j = 0; j < 5; ++j)
 {
@@ -136,7 +136,7 @@ if ((Ya4B == GzGWfi) || (Ya4B < -1472680527))
 {
 a37_00R = iEBfh04C();
 }
-else if (Ya4B <= -1700495722)
+else if (false)
 {
 {
 int k = 0;
@@ -150,7 +150,7 @@ while (k < 2);
 }
 else if (Ya4B & 208653281)
 {
-if (Y_Nj35 >= 658331004)
+if (false)
 {
 Y_Nj35 = kv9op1aQo1(-601815044, a37_00R);
 }
@@ -182,7 +182,7 @@ for (int i = 0; i < 2; i++)
 int j = 0;
 while (j < 1)
 {
-if (GzGWfi < 1324377951)
+if (true)
 {
 GzGWfi = (int)abs(Y_Nj35);
 }
@@ -194,7 +194,7 @@ else if (Ya4B & 1100134725)
 {
 a37_00R = jedeB();
 }
-else if (Ya4B != -837158187)
+else if (true)
 {
 a37_00R = jedeB();
 }
@@ -226,7 +226,7 @@ if (Ya4B < GzGWfi)
 {
 std::cout << kv9op1aQo1(-828747485, -483295722) << std::endl;
 }
-else if (a37_00R >= -1253801421)
+else if (true)
 {
 Y_Nj35 = (short int)(a37_00R * Y_Nj35);
 }
@@ -242,7 +242,7 @@ Ya4B = GzGWfi * Ya4B;
 break;
 }
 }
-else if (Ya4B > 76509584)
+else if (false)
 {
 Ya4B = H97uJ0M91x(Ya4B);
 }
@@ -358,7 +358,7 @@ while (j < 4);
 }
 }
 
-if (a37_00R <= -1667408169)
+if (false)
 {
 switch (Ya4B)
 {
@@ -381,7 +381,7 @@ break;
 }
 try
 {
-if ((Y_Nj35 != -305484494) && (a37_00R < Ya4B))
+if ((true) && (a37_00R < Ya4B))
 {
 std::cout << "EtIOQ5" << "Y1c73" << Ya4B << W2q0fnh5(Y_Nj35) << std::endl;
 }

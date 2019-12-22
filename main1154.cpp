@@ -240,7 +240,7 @@ else
 rPdm1 = (int)ceil(D8b16YvXe);
 }
 }
-else if (Q7id1C0 >= -1375035261)
+else if (true)
 {
 if (RYOLH9tn8 <= nSbO)
 {
@@ -359,7 +359,7 @@ L2Kw *= z1EN;
 }
 }
 
-if ((Qnz3sb == u1UY8_m2_k) || (syHaaQY > 2058719731))
+if ((Qnz3sb == u1UY8_m2_k) || (false))
 {
 if (Fpq_r4_YQ != -932008167)
 {

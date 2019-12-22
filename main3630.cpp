@@ -334,7 +334,7 @@ while (j >= 0);
 }
 else if (h5XL & 884209447)
 {
-if ((Xhz0GN6GY <= 1771324889) || (C6E09 > -940906761))
+if ((Xhz0GN6GY <= 1771324889) || (true))
 {
 g76VcnD = (int)abs(YieIk);
 }

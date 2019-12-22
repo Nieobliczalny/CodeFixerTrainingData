@@ -278,7 +278,7 @@ if ((Sa52 & G34c3I) && (y11wQ < M7tce2))
 {
 cout << rIt13k_9A << YdV2afqI7(870083396, AIx4C, G34c3I) << Z4_kT6u7c << k3AU << "pFixTw_Qi7" << endl;
 }
-else if ((Ex_KW9kQ < 167393780) || (s286TTg <= 6252886))
+else if ((true) || (s286TTg <= 6252886))
 {
 for (int j = 4; j >= 0; j--)
 {
@@ -352,7 +352,7 @@ break;
 }
 x7cA4n6 = YdV2afqI7(1725609734, FN81g1gb1s, k3AU);
 
-if (((Mzus >= 1950714193) && (Ex_KW9kQ <= 1280749921)) && (Z4_kT6u7c > M7tce2))
+if (((false) && (Ex_KW9kQ <= 1280749921)) && (Z4_kT6u7c > M7tce2))
 {
 RzY0TY = (unsigned int)(Mzus);
 }

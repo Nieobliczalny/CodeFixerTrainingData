@@ -167,7 +167,7 @@ while (i < 6);
 int i = 0;
 while (i < 3)
 {
-if (D4anE <= 789254712)
+if (true)
 {
 v2AN5W *= eUxHo55V;
 }
@@ -191,7 +191,7 @@ for (int k = 0; k < 4; ++k)
 P_G42i6 >>= 1079753074;
 }
 }
-else if (((ua02I9bEX & U8u6h) || (t9PLr6V3 <= wuF37)) || (YE_954_j_ >= wuF37))
+else if (((ua02I9bEX & U8u6h) || (true)) || (YE_954_j_ >= wuF37))
 {
 if (cLJVK5 <= wuF37)
 {
@@ -209,7 +209,7 @@ for (int k = 0; k < 6; k++)
 lEL2 = (int)abs(EN4XH76);
 }
 }
-else if (((ua02I9bEX & 1176305518) && (Q4Q10A & R5VUp2C)) || (p5_X7lc9p6 != 1082534761))
+else if (((ua02I9bEX & 1176305518) && (Q4Q10A & R5VUp2C)) || (true))
 {
 {
 int k = 0;

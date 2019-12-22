@@ -384,7 +384,7 @@ std::cout << U_IDKp1Hl << KD8RI6U67 << "j0FFm8LKM_" << w_J3jef << std::endl;
 
 HK2T3 = (long long)(gjI3BucZ4Z + (-567944657));
 
-if ((RqEG_s4 != P05ff7pXP) && ((ieb6nyLz != -257833603) && (gjZT67I <= -1628313710)))
+if ((RqEG_s4 != P05ff7pXP) && ((true) && (gjZT67I <= -1628313710)))
 {
 if (NGSl3)
 {

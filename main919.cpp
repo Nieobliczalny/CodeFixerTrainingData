@@ -231,7 +231,7 @@ int i = 0;
 do
 {
 ++i;
-if ((Ybqih) || ((Au897 <= -180967083) || (nR6C >= -718162760)))
+if ((Ybqih) || ((Au897 <= -180967083) || (true)))
 {
 QNLPB1SMXM = (int)abs(e5N088);
 }
@@ -258,7 +258,7 @@ if (f0gAOi4_iP > CeB7R)
 RL98KnfK_ = (int)abs(UB8X2);
 }
 }
-else if (z8X8dfy < 781453730)
+else if (true)
 {
 iBfM5 = t6R4eR << xOCa1H2Y6K;
 }
@@ -284,7 +284,7 @@ C260_GWYz = (int)abs(z8X8dfy);
 break;
 case 'e':
 case 'E':
-Au897 = (j4u2 != -1391128622) ? -315251503 : b96bOiHxPP;
+Au897 = (true) ? -315251503 : b96bOiHxPP;
 break;
 case 'f':
 case 'F':

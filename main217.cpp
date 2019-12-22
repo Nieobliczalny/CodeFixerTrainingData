@@ -434,7 +434,7 @@ std::cout << Y6zjdkUY_ << QnbA1r2d(FgB7, WRh02EVQyT, I2l3Q, 2083675962, cHg_blVt
 }
 else if ((O1s7cm == 653396506) || (G4rd1ZU > ru3pM))
 {
-if (((Q0ruJ7 < L8UnxwG3) && (I99_N1zN <= FrqqFepu11)) || (E9ixrP > 423201656))
+if (((Q0ruJ7 < L8UnxwG3) && (false)) || (E9ixrP > 423201656))
 {
 zTyj6 = IPm6 << Rjs6JcwFy3;
 }
@@ -447,7 +447,7 @@ else if (rX5jLC <= -917675291)
 {
 F2nx3 = (int)abs(I99_N1zN);
 }
-else if (WJ02bpss >= -1818924337)
+else if (true)
 {
 b_6_kg_X = (int)abs(ru3pM);
 }

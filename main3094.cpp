@@ -161,7 +161,7 @@ int main()
 
 WMGMa_ = Oy_3FmHq7(-1900188925, DmVPK1, rcWPy4m);
 
-if (((crkQuckpy7 > -827054030) || (CZ7utFJ5W_ & -1950428746)) && (G2x0 & b6x8olBCu))
+if (((true) || (CZ7utFJ5W_ & -1950428746)) && (G2x0 & b6x8olBCu))
 {
 if (WMGMa_ != -321755566)
 {
@@ -218,7 +218,7 @@ while (i < 3);
 }
 bI36Tz = (short)(GBgOU);
 
-if ((JOY37_RH97 != 2055080150) || ((GBgOU >= -614516623) || (sscG6v4C <= hMfaOqcvZ)))
+if ((true) || ((GBgOU >= -614516623) || (sscG6v4C <= hMfaOqcvZ)))
 {
 try
 {

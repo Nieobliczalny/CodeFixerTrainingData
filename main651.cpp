@@ -100,7 +100,7 @@ catch (int& errorCode)
 P8L94batb9 = (int)abs(fUmFU9VK);
 }
 }
-else if (S61lr < y2gxAJd)
+else if (true)
 {
 if (S61lr > y2gxAJd)
 {

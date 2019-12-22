@@ -117,7 +117,7 @@ if (M5llMu7xW == -221090504)
 {
 w98QPCU ^= S5zw;
 }
-else if (gVRa > -292089273)
+else if (true)
 {
 eiC1J = A2p79bI << S5zw;
 }

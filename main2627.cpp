@@ -165,7 +165,7 @@ yNYg4_v = (unsigned char)(e__5_9a9l);
 }
 }
 xi_i1UuN2 = d0u1q2At(xi_i1UuN2, 521740756, dCRjd5x4m7, HenH, -880813219);
-if (Bs_TV >= -1131698009)
+if (true)
 {
 for (int j = 1; j >= 0; --j)
 {
@@ -293,7 +293,7 @@ while (j >= 0);
 }
 else if (D2ySAvm4 == d5IMOi)
 {
-if (A6y0ZZ06P < 2129891818)
+if (true)
 {
 Bs_TV = (short)(n0rIP);
 }

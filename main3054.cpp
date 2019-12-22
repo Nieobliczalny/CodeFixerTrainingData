@@ -110,7 +110,7 @@ JQiIviI = qa7tkuiv << 1966881077;
 }
 else if ((qa7tkuiv > B7CU) || (qV8S8 < qa7tkuiv))
 {
-if ((o1B39H8s1q < P801) && (qa7tkuiv > zaxPj))
+if ((true) && (qa7tkuiv > zaxPj))
 {
 f8t6 = (unsigned short)(pJ8rT4c);
 }
@@ -159,7 +159,7 @@ else
 std::cout << tKRy2blTJ(443432633) << "zIX9" << f8t6 << afK_3 << std::endl;
 }
 }
-else if (((G2DysQzwD0 >= fF2YU62P_) && (uKTxq <= x6DRnC)) && (tLJa >= B38QZinLx4))
+else if (((true) && (uKTxq <= x6DRnC)) && (tLJa >= B38QZinLx4))
 {
 try
 {
@@ -235,7 +235,7 @@ qa7tkuiv = zaxPj ^ LiEeiT;
 }
 else
 {
-if (zaxPj == B38QZinLx4)
+if (false)
 {
 D80OOJ >>= f8t6;
 }
@@ -266,7 +266,7 @@ B7CU = (unsigned int)(Ff66M + (-680999223));
 
 if (Ff66M >= qV8S8)
 {
-if (BBnMwWm3n <= -731145681)
+if (false)
 {
 try
 {
@@ -292,7 +292,7 @@ while (k < 7);
 }
 else
 {
-if ((G58_tU == -1109403162) || (pJ8rT4c < 1571692281))
+if ((false) || (pJ8rT4c < 1571692281))
 {
 if (iFdwR7ufk6)
 {
@@ -321,7 +321,7 @@ o1B39H8s1q = tKRy2blTJ(o1B39H8s1q);
 }
 else
 {
-if (Ff66M == -1639954132)
+if (false)
 {
 mzb2mD7 = (int)abs(q8kVD) * 0;
 }
@@ -358,7 +358,7 @@ break;
 }
 else if ((iUy86oFQ > zaxPj) && (pJ8rT4c))
 {
-if ((W6_68QP & qV8S8) || (iUy86oFQ < -2041365318))
+if ((W6_68QP & qV8S8) || (false))
 {
 LiEeiT <<= 934552834;
 }
@@ -430,7 +430,7 @@ OrRzx <<= 1212598808;
 
 try
 {
-if (((F4tLA >= B38QZinLx4) && (G2DysQzwD0 < fF2YU62P_)) || (BBnMwWm3n & 1958081964))
+if (((F4tLA >= B38QZinLx4) && (false)) || (BBnMwWm3n & 1958081964))
 {
 switch (qa7tkuiv)
 {
@@ -451,7 +451,7 @@ iUy86oFQ = B_JE5k(1532188121);
 break;
 }
 }
-else if (BBnMwWm3n > P801)
+else if (false)
 {
 if (iFdwR7ufk6 <= F4tLA)
 {
@@ -468,7 +468,7 @@ else if (LiEeiT != -1087676644)
 {
 XN7gwwNEG = qa7tkuiv + 934248537;
 }
-else if (((D80OOJ < x6DRnC) && (qOwC_RG5 != 720991262)) && (j8Diog))
+else if (((D80OOJ < x6DRnC) && (true)) && (j8Diog))
 {
 XN7gwwNEG = (int)floor(uKTxq);
 }
@@ -502,7 +502,7 @@ else if (mzb2mD7 != B38QZinLx4)
 {
 XN7gwwNEG = (int)abs(qV8S8);
 }
-else if ((Ff66M > P801) || ((qa7tkuiv != B38QZinLx4) || (f8t6 != q8kVD)))
+else if ((false) || ((qa7tkuiv != B38QZinLx4) || (f8t6 != q8kVD)))
 {
 uKTxq = (int)abs(Ff66M) + (-1924750790);
 }

@@ -142,7 +142,7 @@ for (int k = 4; k >= 0; k--)
 WOez = (r_L3NF7 & -2078050474) ? AysshDJ(-1024821695, zWO4s427A, -2147021888, 1995491306) : 1289123863;
 }
 }
-else if ((G1Fp_37c6 != Hw4C) && (G1Fp_37c6 != 354768875))
+else if ((G1Fp_37c6 != Hw4C) && (true))
 {
 if ((Fyn6Rl < Rp1_ml) || (Fyn6Rl > IZEH06S))
 {
@@ -160,7 +160,7 @@ else if (G1Fp_37c6)
 {
 Fyn6Rl &= 1861937815;
 }
-else if (((zWO4s427A == -2119454525) || (Fyn6Rl < 800527419)) || ((Rp1_ml <= 1011336084) || (Fyn6Rl >= 1775365600)))
+else if (((false) || (Fyn6Rl < 800527419)) || ((Rp1_ml <= 1011336084) || (Fyn6Rl >= 1775365600)))
 {
 tRKGb3RMMi <<= 784918113;
 }
@@ -211,7 +211,7 @@ else if (zWO4s427A & tRKGb3RMMi)
 {
 for (int j = 0; j < 6; ++j)
 {
-if (((zWO4s427A & r_L3NF7) && (tRKGb3RMMi == 2135971741)) || (ROA__L__7_ <= -672213404))
+if (((zWO4s427A & r_L3NF7) && (false)) || (ROA__L__7_ <= -672213404))
 {
 WOez = (int)abs(r_L3NF7);
 }

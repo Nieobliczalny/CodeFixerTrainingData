@@ -70,7 +70,7 @@ int main(void) {
 
 for (int i = 1; i >= 0; --i)
 {
-if ((mgNtM6 <= -923300679) || (eczY8 == Y5Dx2IHt))
+if ((false) || (eczY8 == Y5Dx2IHt))
 {
 {
 int k = 4;
@@ -164,7 +164,7 @@ Dr98Cyl = l0x4c2P1(Dr98Cyl, -1433496803, X85_2_z);
 }
 }
 wdw054 = s9ghVq / aff3Pya;
-if ((Y5Dx2IHt != -1031085238) || (zMWL_3To9 <= -1053781743))
+if ((true) || (zMWL_3To9 <= -1053781743))
 {
 nO_GK = SxKh(s9ghVq, vQ0f7w);
 }
@@ -213,7 +213,7 @@ for (int i = 9; i >= 0; i--)
 {
 try
 {
-if (k55o49 < 1628439511)
+if (true)
 {
 nO_GK = SxKh(1930757769, zMWL_3To9);
 }
@@ -257,7 +257,7 @@ int i = 0;
 do
 {
 ++i;
-if (mgNtM6 == -81735386)
+if (false)
 {
 for (int k = 0; k < 9; ++k)
 {

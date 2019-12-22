@@ -138,7 +138,7 @@ else if (a_XGVbfdi < RgL09)
 {
 cout << "vbcweU2Q9" << ndp9B0_G << "Kd5C6D_" << SX6i << endl;
 }
-else if (((J2mkQ != 415937400) || (dBIV95K82 == 1684245852)) && ((lRhTrwbRc > 1194426113) || (qUAgH7 > 1066161132)))
+else if (((true) || (dBIV95K82 == 1684245852)) && ((lRhTrwbRc > 1194426113) || (qUAgH7 > 1066161132)))
 {
 {
 int j = 0;
@@ -220,7 +220,7 @@ break;
 }
 if (l9jbBjcG < SX6i)
 {
-if (J2mkQ == 677537510)
+if (false)
 {
 T1ZEK1_sD = WlhOLy_hMp(T1ZEK1_sD, 1749836452);
 }

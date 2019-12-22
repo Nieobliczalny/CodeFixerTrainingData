@@ -313,7 +313,7 @@ AcR8ht3dJI = (int)floor(vD3tyk57);
 }
 else if (e3T573l == -382867813)
 {
-if (CtIPGjl925 < d0_uqG19qP)
+if (false)
 {
 NjYTZ2ni = (int)floor(lLtqLkHr);
 }

@@ -47,7 +47,7 @@ j++;
 }
 }
 
-if ((mvQc6F8gv) && ((Qia7AT91B < Iev4) || (jORf > -1302966308)))
+if ((mvQc6F8gv) && ((Qia7AT91B < Iev4) || (true)))
 {
 for (int j = 1; j >= 0; j--)
 {
@@ -73,7 +73,7 @@ while (i < 4);
 }
 if (lOOdW8 & -523290406)
 {
-if ((Kd6egp01_ == -1357047688) || (cjl80ET_d != Iev4))
+if ((false) || (cjl80ET_d != Iev4))
 {
 a04PNRR11 = TA8i4H32(a04PNRR11, sMquo, -34973608, isR1e6t0, 1992054990);
 }

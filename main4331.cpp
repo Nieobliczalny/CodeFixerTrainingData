@@ -298,7 +298,7 @@ else if ((lOA6pHQM & PrDXVez8M) || (R68YeRBmT & u832RY3udx))
 {
 s2QR3qv0kk = nR6_Y9z >> lOA6pHQM;
 }
-else if ((cTdr4x_o <= 1312543239) && (pj21R3NhS7 >= 1486532086))
+else if ((cTdr4x_o <= 1312543239) && (false))
 {
 cout << s2QR3qv0kk << LkyrIK3a(lOA6pHQM, jCaKJ) << "mq92103" << nR6_Y9z << "t4Hub" << endl;
 }

@@ -59,7 +59,7 @@ int main(int argc, char** argv)
  ww0L80EQKA = -249555315;
  mHQ9D2 = -413524735;
 
-if (yOI_37n > 1175961208)
+if (false)
 {
 {
 int j = 0;
@@ -218,7 +218,7 @@ LmNxDeP0 = Tebt(R3m2fo);
 }
 else if (M5s7 != 814236432)
 {
-if (vTUcfQ != -1299054650)
+if (true)
 {
 Zkx1c6n9fU = (long double)(E658);
 }
@@ -253,7 +253,7 @@ else if (gTpO006 & 429328986)
 {
 I7jqVa = (int)ceil(O3W81Gu);
 }
-else if ((E658 >= -705769921) && (vTUcfQ <= -405762965))
+else if ((E658 >= -705769921) && (false))
 {
 M5s7 = (long double)(gTpO006 + (-1008319318));
 }

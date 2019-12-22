@@ -20,7 +20,7 @@ int main(void) {
 int i = 0;
 while (i < 1)
 {
-if (h8AM8Ixq2 < 1084474355)
+if (true)
 {
 cout << vlay << rDsMbXg146 << "SSD6V_pe" << MubLEeo7 << endl;
 }
@@ -32,7 +32,7 @@ Bn8f = MubLEeo7 >> yzvv0;
 }
 else
 {
-hkgO59i1b = (OBhHyWYr <= 45526333) ? -1854047232 : 956892333;
+hkgO59i1b = (true) ? -1854047232 : 956892333;
 }
 }
 i++;
@@ -51,7 +51,7 @@ for (int k = 0; k < 5; ++k)
 upUjxfi = (int)abs(rDsMbXg146) + (521445649);
 }
 }
-else if (upUjxfi > -291122669)
+else if (true)
 {
 if (Xqaj6 != upUjxfi)
 {
@@ -68,7 +68,7 @@ hlrs = (char)(upUjxfi);
 }
 else if (W9wuAC != hlrs)
 {
-if ((h8AM8Ixq2 <= 1787514382) || (yU14GhBah & 655664548))
+if ((true) || (yU14GhBah & 655664548))
 {
 Bn8f = vlay | 966042389;
 }
@@ -97,7 +97,7 @@ cout << x5wC << upUjxfi << endl;
 
 for (int i = 0; i < 6; i++)
 {
-if (((x5wC <= -2088943207) && (W9wuAC <= eE9c)) || (OBhHyWYr <= OuUkea0aD))
+if (((false) && (W9wuAC <= eE9c)) || (OBhHyWYr <= OuUkea0aD))
 {
 {
 int k = 9;

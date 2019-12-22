@@ -128,7 +128,7 @@ case 3:
 NW0sO = HDc30();
 break;
 case 4:
-Z55In888Ke = (NW0sO >= -417648224) ? -1339217818 : ZNO95JDOg7;
+Z55In888Ke = (true) ? -1339217818 : ZNO95JDOg7;
 break;
 case 5:
 R7587f26_ = (int)abs(zPJ4A9tH9D);
@@ -289,7 +289,7 @@ deZ97 = HDc30();
 
 for (int i = 0; i < 7; ++i)
 {
-if (NW0sO == -372718986)
+if (false)
 {
 try
 {

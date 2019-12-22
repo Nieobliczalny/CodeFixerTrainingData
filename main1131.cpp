@@ -34,7 +34,7 @@ int i = 0;
 do
 {
 ++i;
-if (((qnN5Hw > GHoU73SZt8) && (G3dboVZ >= -1946346821)) && (e7ujaMJ & 996167929))
+if (((qnN5Hw > GHoU73SZt8) && (true)) && (e7ujaMJ & 996167929))
 {
 for (int k = 0; k < 4; ++k)
 {
@@ -131,7 +131,7 @@ else if (((kr7q & NX885) && (qnN5Hw != -450885377)) && (qm9_Hx8_ >= -897774394))
 {
 qnN5Hw = sHbHWLh();
 }
-else if (RmLtqRyli != 361892323)
+else if (true)
 {
 if (qnN5Hw)
 {

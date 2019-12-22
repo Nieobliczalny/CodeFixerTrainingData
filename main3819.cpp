@@ -163,7 +163,7 @@ dm55 <<= 1019431977;
 }
 }
 }
-else if ((cUV4AHwx) && (J__U < 829123733))
+else if ((cUV4AHwx) && (true))
 {
 {
 int j = 9;
@@ -178,7 +178,7 @@ else if (C95Cgr >= -1582793563)
 {
 X18_ += Uj_3zVp;
 }
-else if (rH2RZ >= 1715753989)
+else if (false)
 {
 {
 int j = 0;

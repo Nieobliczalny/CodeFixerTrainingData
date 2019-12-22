@@ -61,7 +61,7 @@ try
 {
 if (qlhqVq > -483111757)
 {
-if ((QkAWig_ <= KAGW5RLb) && (oT33__ == Qpo1h))
+if ((true) && (oT33__ == Qpo1h))
 {
 y4Cb1_U0U = ASvZ18();
 }
@@ -76,7 +76,7 @@ ON8iEI124R = (int)floor(JyRK17p8w);
 }
 else if (KM2J7_38 == -1153947627)
 {
-if ((GDKE7_3i <= KAGW5RLb) || (KM2J7_38 & -664927414))
+if ((true) || (KM2J7_38 & -664927414))
 {
 oT33__ = HL8VOnmeD7 + F1FQ27A95V;
 }
@@ -96,7 +96,7 @@ else
 oT33__ = yua4e7();
 }
 }
-else if (GDKE7_3i <= 562249287)
+else if (true)
 {
 std::cout << yua4e7() << std::endl;
 }
@@ -114,7 +114,7 @@ N_i9j9TN9n = ASvZ18();
 }
 
 HL8VOnmeD7 = (int)ceil(JyRK17p8w);
-if (GDKE7_3i >= KAGW5RLb)
+if (false)
 {
 try
 {
@@ -178,7 +178,7 @@ if ((WccWJe == k12Qjj_) && (gE_zYfZg < -482471332))
 {
 if (BgA0 & WccWJe)
 {
-if (F1FQ27A95V != QTjTm)
+if (true)
 {
 HL8VOnmeD7 = ASvZ18();
 }
@@ -369,7 +369,7 @@ JyRK17p8w = (int)ceil(HL8VOnmeD7);
 break;
 }
 }
-else if ((QkAWig_ > KAGW5RLb) || ((QtVMT3WP >= QTjTm) || (N_i9j9TN9n == 1039645353)))
+else if ((false) || ((QtVMT3WP >= QTjTm) || (N_i9j9TN9n == 1039645353)))
 {
 F1FQ27A95V = (unsigned short int)(BgA0 + (1060994865));
 }
@@ -486,7 +486,7 @@ std::cout << "ax__ea55" << "G416" << ASvZ18() << std::endl;
 }
 else
 {
-if ((WccWJe != QTjTm) || ((oT33__ > Qpo1h) && (r_JErQU0ny >= KAGW5RLb)))
+if ((true) || ((oT33__ > Qpo1h) && (r_JErQU0ny >= KAGW5RLb)))
 {
 for (int k = 0; k < 6; k++)
 {
@@ -499,7 +499,7 @@ else if (GDKE7_3i != 60917555)
 int k = 0;
 while (k < 1)
 {
-mSh_Eky2 = (F1FQ27A95V >= QTjTm) ? N_i9j9TN9n : 1663938152;
+mSh_Eky2 = (true) ? N_i9j9TN9n : 1663938152;
 ++k;
 }
 }
@@ -543,7 +543,7 @@ else if (x64_ >= QTjTm)
 {
 BgA0 = eAKz6(F1FQ27A95V, -199797725);
 }
-else if (bm9W <= -34712363)
+else if (false)
 {
 HL8VOnmeD7 = (int)floor(Ct4s);
 }
@@ -573,7 +573,7 @@ else
 {
 if (mSh_Eky2)
 {
-if (((nC8Tf4iP8 <= -644721825) && (WccWJe <= Qpo1h)) || ((HL8VOnmeD7 <= KAGW5RLb) && (y4Cb1_U0U & KhNm_9_tYj)))
+if (((false) && (WccWJe <= Qpo1h)) || ((HL8VOnmeD7 <= KAGW5RLb) && (y4Cb1_U0U & KhNm_9_tYj)))
 {
 QkAWig_ = J6pbwapg0(-1343689604);
 }

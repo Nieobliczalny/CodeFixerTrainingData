@@ -64,7 +64,7 @@ int main(void) {
 	long double	F48RCLn	=	1336168674;
 	long	WA3TD527n	=	-1793586304;
 
-if ((o_EF86ol <= 741038077) || ((jzh_ud == FI29) && (uekjKR >= GiI6FRtGw)))
+if ((true) || ((jzh_ud == FI29) && (uekjKR >= GiI6FRtGw)))
 {
 K46YPq75 = (int)floor(bES1MX3l);
 }
@@ -132,7 +132,7 @@ std::cout << WA3TD527n << Y7uZx(WA3TD527n, uG935SU9, -1338903875, gP9D, llkWyK) 
 int i = 0;
 while (i < 10)
 {
-if ((RFsnA <= -984413227) && ((FI29) || (mjl7r1MW3i != 1345544375)))
+if ((RFsnA <= -984413227) && ((FI29) || (true)))
 {
 switch (o_EF86ol)
 {

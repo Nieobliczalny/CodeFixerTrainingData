@@ -106,7 +106,7 @@ RxtW0k = (int)abs(qZ6q_Hnss);
 }
 else
 {
-if (V2tmki0N >= -1216291460)
+if (true)
 {
 IEarMyd = (int)floor(RxtW0k);
 }
@@ -140,7 +140,7 @@ catch (int& errorCode)
 T869Yylnjx = (int)abs(isdShX1Rw) * 0;
 }
 }
-else if (T869Yylnjx != -1377040976)
+else if (true)
 {
 Fa8j7s = (n6qrOlOv != -1895307999) ? E5m6Lj_ : -863229178;
 }
@@ -182,7 +182,7 @@ break;
 }
 }
 }
-if (E9P5S4YBD <= -1832935577)
+if (false)
 {
 {
 int j = 2;

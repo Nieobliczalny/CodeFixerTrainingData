@@ -59,7 +59,7 @@ int main(int argc, char** argv) {
 kz6uxPaR = NJl2(kz6uxPaR, -879413651);
 
 P8REwb = (int)abs(v_SkT_);
-if ((uxl1 >= 165856044) || (s6VX))
+if ((false) || (s6VX))
 {
 for (int j = 0; j < 9; ++j)
 {
@@ -91,7 +91,7 @@ catch (int& errorCode)
 E1M90 = NJl2(v_SkT_, 18412572);
 }
 }
-else if ((s6VX < 571652793) && (W4zJd3 >= -1392933805))
+else if ((true) && (W4zJd3 >= -1392933805))
 {
 uxl1 = (unsigned char)(v_SkT_ + (1069713316));
 }
@@ -130,7 +130,7 @@ else if (E1M90 >= Mzl8qA3v)
 {
 E1M90 = f5Q_cCeO7(-346597386, E1M90, -220172895);
 }
-else if (BsXdtGX5m5 >= 1488594022)
+else if (false)
 {
 BsXdtGX5m5 = NJl2(s6VX, BsXdtGX5m5);
 }
@@ -153,7 +153,7 @@ E1M90 = (int)abs(v_SkT_) + (103262592);
 }
 }
 
-if (kz6uxPaR <= 172610456)
+if (true)
 {
 for (int j = 7; j >= 0; j--)
 {
@@ -186,7 +186,7 @@ i++;
 int j = 0;
 do
 {
-if (OJSranAM >= -868613679)
+if (true)
 {
 uxl1 %= 2132915819;
 }
@@ -209,7 +209,7 @@ np0N6umD3 = (unsigned char)(v_SkT_ + (-1820914206));
 kz6uxPaR ^= OJSranAM;
 }
 
-if (BsXdtGX5m5 < 326119906)
+if (true)
 {
 try
 {
@@ -274,7 +274,7 @@ int i = 4;
 while (i >= 0)
 {
 --i;
-if (kz6uxPaR > 2078742046)
+if (false)
 {
 switch (uxl1)
 {
@@ -376,7 +376,7 @@ v_SkT_ = Rw5l4232f(1063033926, kz6uxPaR, Mzl8qA3v, -204511142, 451257617);
 }
 }
 }
-else if (OJSranAM == 1862455069)
+else if (false)
 {
 try
 {
@@ -394,7 +394,7 @@ catch (int& errorCode)
 np0N6umD3 &= BsXdtGX5m5;
 }
 }
-else if (np0N6umD3 < 214422783)
+else if (true)
 {
 if (Mzl8qA3v < -829939554)
 {
@@ -486,7 +486,7 @@ k--;
 while (k >= 0);
 }
 }
-else if (uxl1 <= -1490462325)
+else if (false)
 {
 OJSranAM = Tp7H2d();
 }
@@ -506,7 +506,7 @@ E1M90 = v_SkT_ ^ 1301040821;
 while (k < 2);
 }
 }
-else if (s6VX < 2138107031)
+else if (true)
 {
 std::cout << E1M90 << "AOw_br" << Tp7H2d() << Mzl8qA3v << std::endl;
 }
@@ -569,7 +569,7 @@ np0N6umD3 <<= OJSranAM;
 }
 }
 }
-if (P8REwb != -912986013)
+if (true)
 {
 BsXdtGX5m5 = (unsigned short int)(XWBV3m7O4);
 }

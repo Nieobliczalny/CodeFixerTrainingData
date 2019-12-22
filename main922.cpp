@@ -35,7 +35,7 @@ int main()
     unsigned long    M8M716H0    =    -1161666449,    Ea6Cht8GN_    =    -1552645870,    gYkQb2f_JY    =    926313750,    th87K    =    -887421337,    kY_ufWwF_    =    -809257206,    bE6jQX    =    934626186,    zC8_ia    =    19124459,    Jdk61wx2    =    58564242,    Y740zuU0    =    871717614,    lQJTBWL0    =    802066543,    L9ge9a0r    =    -962136288,    E5F50hY_qe    =    1402510135,    U7yE96    =    -1321101655;
 	short	omRARlbKl4	=	0,	d7eWo6	=	0,	s6PoC30e	=	0,	EPKI2X	=	0,	IhqU_nj0E	=	0;
 
-if (s6PoC30e == -1399229570)
+if (false)
 {
 for (int j = 7; j >= 0; j--)
 {

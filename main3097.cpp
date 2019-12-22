@@ -83,7 +83,7 @@ uTwS9v8X = deA_M_m * 2127509936;
 int i = 8;
 while (i >= 0)
 {
-if (((w2r1lbN == ilpYI) || (wwm6ut > l_g9)) && ((oH5B > 1690251083) || (FLjzXRY42D < ilpYI)))
+if (((false) || (wwm6ut > l_g9)) && ((oH5B > 1690251083) || (FLjzXRY42D < ilpYI)))
 {
 try
 {
@@ -116,7 +116,7 @@ for (int i = 7; i >= 0; --i)
 int j = 4;
 while (j >= 0)
 {
-if (w2r1lbN != -454001177)
+if (true)
 {
 uH572a28 = (int)ceil(H4Ojnj9Lq);
 }
@@ -134,7 +134,7 @@ catch (int& errorCode)
 {
 kVxIr = (int)abs(GzwidkHI4);
 }
-if (Af23T4mhr != -628393616)
+if (true)
 {
 switch (Y1W4Qu)
 {

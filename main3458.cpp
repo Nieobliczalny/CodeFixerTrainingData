@@ -71,7 +71,7 @@ zMjiWrR = nfhNTqtO(UGeba, x30T4) | H65mcVGA;
 break;
 }
 vG0xMfZD_M >>= 273628123;
-if (B40085vgv > 143655771)
+if (false)
 {
 h9mgyruR = (unsigned char)(xqL5ka7H);
 }
@@ -129,7 +129,7 @@ k--;
 while (k >= 0);
 }
 }
-else if ((hAC8 > Pm3cB3tIl0) && ((si792TUI_l & RCnq_Nv_sy) && (RlNz <= hOwgF)))
+else if ((false) && ((si792TUI_l & RCnq_Nv_sy) && (RlNz <= hOwgF)))
 {
 {
 int k = 0;
@@ -140,7 +140,7 @@ k++;
 }
 }
 }
-else if (dsSt1 >= Pm3cB3tIl0)
+else if (false)
 {
 {
 int k = 5;
@@ -183,7 +183,7 @@ break;
 }
 else if (YY8p_TOg0 <= x30T4)
 {
-if (((Vr88) && (Cy5I3 <= S3Hc)) || (Y1xTG2 < Pm3cB3tIl0))
+if (((Vr88) && (Cy5I3 <= S3Hc)) || (true))
 {
 dsSt1 = nfhNTqtO(dsSt1, OK_151yop);
 }
@@ -224,7 +224,7 @@ int i = 0;
 do
 {
 i++;
-if (zMjiWrR == -1922984006)
+if (false)
 {
 {
 int k = 0;
@@ -265,7 +265,7 @@ catch (int& errorCode)
 p8Tcit %= Bk_t31uEj;
 }
 }
-else if ((vG0xMfZD_M & RCnq_Nv_sy) || ((zMjiWrR) && (u9QVicG6e4 >= 356526332)))
+else if ((vG0xMfZD_M & RCnq_Nv_sy) || ((zMjiWrR) && (false)))
 {
 {
 int k = 10;
@@ -287,7 +287,7 @@ catch (int& errorCode)
 ruX6 = Vr88 / Z_Re48sp7;
 }
 }
-else if ((vGA_A7306_ <= hOwgF) || (Cy5I3 >= RCnq_Nv_sy))
+else if ((vGA_A7306_ <= hOwgF) || (false))
 {
 {
 int k = 7;

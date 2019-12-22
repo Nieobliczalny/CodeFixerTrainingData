@@ -23,7 +23,7 @@ if (((V_Jg7e39_I != -646070859) || (V_Jg7e39_I <= 1976480430)) && (iPoICO8a))
 {
 iPoICO8a = iPoICO8a / 788731643;
 }
-else if (((iPoICO8a == 262747154) || (V_Jg7e39_I)) || (V_Jg7e39_I))
+else if (((false) || (V_Jg7e39_I)) || (V_Jg7e39_I))
 {
 iPoICO8a += V_Jg7e39_I;
 }

@@ -128,7 +128,7 @@ if (d3_x <= zfm6pB5YQx)
 {
 PX__GfU4l = yxev_6r9KV + 1823426781;
 }
-else if (VJCb > 224731178)
+else if (false)
 {
 VJCb = w_U1l_Ao7p(VJCb, o321g3K, oVRE, 1462640118);
 }
@@ -155,7 +155,7 @@ else if (oVRE < zfm6pB5YQx)
 {
 for (int j = 0; j < 6; ++j)
 {
-if ((yxev_6r9KV < o321g3K) || ((VJCb < 953797559) || (PX__GfU4l >= CFAPwbIfm6)))
+if ((yxev_6r9KV < o321g3K) || ((true) || (PX__GfU4l >= CFAPwbIfm6)))
 {
 IJ7KR3 = w_U1l_Ao7p(-862141269, d3_x, 1317395114, -1692116904);
 }

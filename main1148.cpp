@@ -78,7 +78,7 @@ pzNJI = FbA79(-1234178841);
 
 Djs5v = (unsigned short)(qJP0yuvT_U);
 
-if (pzNJI == -1369587849)
+if (false)
 {
 GG8O56W = (unsigned char)(qJP0yuvT_U);
 }
@@ -232,7 +232,7 @@ default:
 qB20 = (int)ceil(zvtL3gN);
 break;
 }
-if (TOmB == -819198276)
+if (false)
 {
 std::cout << GG8O56W << FbA79(t5hCdZ1) << FbA79(786926852) << "SeUt" << std::endl;
 }
@@ -262,7 +262,7 @@ else if (zIjK07d <= Sd7z9v)
 {
 s_46540 = (unsigned long)(v6Z2N9d9S);
 }
-else if (TOmB <= 404981701)
+else if (true)
 {
 {
 int j = 0;

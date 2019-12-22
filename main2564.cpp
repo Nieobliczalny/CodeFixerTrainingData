@@ -78,7 +78,7 @@ QG5NFjqtO |= OV10_HJB;
 }
 }
 
-if (((OG_lFvp >= 1837489070) || (Au62 < I_EI_FsGRV)) && ((dX6Hgo6l6 < KRofq) && (FUpC <= Lu4TJPU39N)))
+if (((false) || (Au62 < I_EI_FsGRV)) && ((dX6Hgo6l6 < KRofq) && (FUpC <= Lu4TJPU39N)))
 {
 {
 int j = 3;
@@ -99,7 +99,7 @@ HxWXaj2 = (int)ceil(cjw7354CQ);
 
 std::cout << "xV1KscOWK" << std::endl;
 
-if (gE1fNv < 314135068)
+if (true)
 {
 if (U3_dl != ZC_yTI7)
 {
@@ -162,7 +162,7 @@ else if (o_LVz1bt >= oWVf73H)
 {
 W7u3331X1 = (int)ceil(cjw7354CQ);
 }
-else if ((gE1fNv < Nb2FA) || ((RHWtA343i) && (G4yKcEf != 450505597)))
+else if ((false) || ((RHWtA343i) && (G4yKcEf != 450505597)))
 {
 switch (J5Aqb)
 {
@@ -203,7 +203,7 @@ HxWXaj2 = (int)ceil(cjw7354CQ);
 break;
 }
 }
-else if ((B7vK6hhK6 < KRofq) || (B2Dai04X == I_EI_FsGRV))
+else if ((B7vK6hhK6 < KRofq) || (false))
 {
 if (oWVf73H != o_LVz1bt)
 {
@@ -214,7 +214,7 @@ else if (B2Dai04X == wdnj3Y8)
 {
 if (QG5NFjqtO)
 {
-if (QO8XU7K1 < Lu4TJPU39N)
+if (true)
 {
 cjw7354CQ -= 1310177952;
 }
@@ -272,7 +272,7 @@ if ((Au62) && ((Nq04XQ79Z != -751634253) || (B7vK6hhK6)))
 {
 try
 {
-if (p5hMD > -1151784097)
+if (true)
 {
 pI1zr260QT = (int)abs(OG_lFvp);
 }
@@ -317,7 +317,7 @@ else if ((ZC_yTI7 > Nb2FA) && (FUpC != 1428662125))
 {
 if ((FoUh_S157 >= Nq04XQ79Z) && (RHWtA343i <= KRofq))
 {
-if (((wdnj3Y8 == KRofq) || (QI64nR3 <= -1215335207)) && ((pI1zr260QT) || (lw4Ly <= U3_dl)))
+if (((wdnj3Y8 == KRofq) || (false)) && ((pI1zr260QT) || (lw4Ly <= U3_dl)))
 {
 AwHkbzd = M47vC(1533046844, 1751474492, -1356919412, -1019261461, e451k6El);
 }
@@ -429,7 +429,7 @@ o_LVz1bt = a0_M(-730988352, B7vK6hhK6, 1990542368, hHA8EG, D90ecD);
 while (j < 7);
 }
 }
-else if ((QG5NFjqtO != -1499287878) && (e451k6El <= 800388405))
+else if ((true) && (e451k6El <= 800388405))
 {
 if (wdnj3Y8 & KRofq)
 {
@@ -468,7 +468,7 @@ else
 pI1zr260QT = (int)abs(AwHkbzd);
 }
 ItxRpZlj = M47vC(975800168, W7u3331X1, -720096314, -699998089, -1248771684) / o_LVz1bt;
-if (p5hMD > -817855298)
+if (true)
 {
 try
 {
@@ -588,7 +588,7 @@ break;
 }
 else if (W7u3331X1 != 434989824)
 {
-if ((e451k6El == Nb2FA) && ((hHA8EG) && (W7u3331X1 > KRofq)))
+if ((false) && ((hHA8EG) && (W7u3331X1 > KRofq)))
 {
 if (F28QC8ut != D90ecD)
 {

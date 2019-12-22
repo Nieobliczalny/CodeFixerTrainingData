@@ -37,7 +37,7 @@ if (A5QHlEbB == 0)
 }
 if (S6iaMPb1 >= -1213701388)
 {
-if (sUQ7AV2Dy3 != 1548164820)
+if (true)
 {
 {
 int k = 0;
@@ -52,7 +52,7 @@ else if (NYp_2PIU5Z != 1029233054)
 {
 std::cout << NYp_2PIU5Z << NYp_2PIU5Z << std::endl;
 }
-else if ((NYp_2PIU5Z > 1292423371) || (sUQ7AV2Dy3 == 862704853))
+else if ((NYp_2PIU5Z > 1292423371) || (false))
 {
 for (int k = 0; k < 1; k++)
 {
@@ -110,7 +110,7 @@ else if (gB0_k)
 {
 N0jug22anf = (unsigned char)(gB0_k);
 }
-else if (((NYp_2PIU5Z & -950323400) && (sUQ7AV2Dy3 != -838962315)) && (S6iaMPb1 > 699165131))
+else if (((NYp_2PIU5Z & -950323400) && (true)) && (S6iaMPb1 > 699165131))
 {
 if (sUQ7AV2Dy3 > 1712344711)
 {
@@ -148,7 +148,7 @@ while (k < 2);
 }
 else
 {
-if ((N0jug22anf != -740207060) || ((A5QHlEbB != 1028343458) || (NYp_2PIU5Z & 1250144525)))
+if ((true) || ((A5QHlEbB != 1028343458) || (NYp_2PIU5Z & 1250144525)))
 {
 if (eww487B)
 {

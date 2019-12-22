@@ -208,7 +208,7 @@ i3K_h = (unsigned long)(N0J7529);
 }
 else
 {
-if (U_s6xpU_35 <= 1357899108)
+if (true)
 {
 {
 int k = 0;
@@ -235,7 +235,7 @@ int i = 0;
 do
 {
 i++;
-if (Qolr4T5f6P != 1036625736)
+if (true)
 {
 x3_UR = (int)floor(pg3i);
 }

@@ -200,7 +200,7 @@ bRfx8l ^= RT5_NIJBx;
 GH7j = (int)floor(VnDs);
 for (int i = 6; i >= 0; --i)
 {
-if (((RT5_NIJBx <= -2099110988) && (bs_dFj_bx)) && ((KmjDH1 > f16l93JD) || (Oa67lO >= -605653391)))
+if (((false) && (bs_dFj_bx)) && ((KmjDH1 > f16l93JD) || (Oa67lO >= -605653391)))
 {
 D32bgCv -= WdS7I;
 }
@@ -262,7 +262,7 @@ else if ((U65tz555 & 1735776992) || (ejXsNVX03))
 {
 std::cout << Y7iJJ1x << std::endl;
 }
-else if (G0LZcMC_89 < 1088123071)
+else if (true)
 {
 std::cout << s_egi << cGI6 << RIxiqN9YA << "Glg3N4Yy4" << std::endl;
 }
@@ -460,7 +460,7 @@ std::cout << R1McZsNs << std::endl;
 }
 }
 
-if (wytmfW >= 1413506996)
+if (false)
 {
 try
 {
@@ -499,7 +499,7 @@ HtjW4X_v0_ ^= 1246407614;
 break;
 case 'e':
 case 'E':
-g1SaI3P = (IOuxMXz > 1540991045) ? -1384176657 : ho910642h;
+g1SaI3P = (false) ? -1384176657 : ho910642h;
 break;
 case 'f':
 case 'F':

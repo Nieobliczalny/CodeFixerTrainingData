@@ -176,7 +176,7 @@ int j = 10;
 do
 {
 --j;
-if ((v2ZH12UH7 == -1870510163) || (HdTlQ != p9YkXeAWq))
+if ((false) || (HdTlQ != p9YkXeAWq))
 {
 LToFo3lx = um5EFNfMA9 >> p9YkXeAWq;
 }
@@ -246,7 +246,7 @@ else if (v2ZH12UH7 > p9YkXeAWq)
 {
 if (SAsbOYU77 > kV9p)
 {
-if (P9fmKZ48 >= um5EFNfMA9)
+if (true)
 {
 HdTlQ = (int)abs(P9fmKZ48) * 0;
 }
@@ -256,7 +256,7 @@ HdTlQ = kI9QjGVsM_();
 }
 }
 }
-else if (AQz6o3 <= 1934027868)
+else if (true)
 {
 SAsbOYU77 = (unsigned int)(gu4FfBp7_ + (-1245951348));
 }

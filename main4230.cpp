@@ -16,7 +16,7 @@ int main() {
   short int  m6U27U0bj2  =  1883126103,  InpqcLTP  =  -826101804,  s1d2  =  -1639328094,  HqVj  =  1640102907,  ylH7Rm  =  648934663,  YY63Z6Zko  =  -249190038,  vpu2w72aui  =  -1635151815,  Pay0  =  963670809;
 	short int	Ofrazi	=	0,	hKSOd	=	0,	a561_8r	=	0,	TZrI	=	0;
 
-if ((Pay0 == 1155479373) || ((ylH7Rm <= m6U27U0bj2) || (Ofrazi != F1S6xr)))
+if ((false) || ((ylH7Rm <= m6U27U0bj2) || (Ofrazi != F1S6xr)))
 {
 {
 int j = 0;
@@ -59,7 +59,7 @@ case 'E':
 InpqcLTP = (int)abs(s1d2);
 break;
 }
-if ((s1d2 == yZNZ) && ((vpu2w72aui <= YY63Z6Zko) || (m6U27U0bj2 & F1S6xr)))
+if ((false) && ((vpu2w72aui <= YY63Z6Zko) || (m6U27U0bj2 & F1S6xr)))
 {
 cout << "rEHQerPPy7" << endl;
 }
@@ -74,7 +74,7 @@ if (a561_8r > TZrI)
 {
 cout << vpu2w72aui << "toIzZKZ_" << "S6_Nha" << m6U27U0bj2 << endl;
 }
-else if ((vpu2w72aui <= yZNZ) || (Ofrazi <= B1vwwz054))
+else if ((true) || (Ofrazi <= B1vwwz054))
 {
 if (vpu2w72aui > Ofrazi)
 {
@@ -92,7 +92,7 @@ int k = 5;
 while (k >= 0)
 {
 --k;
-m6U27U0bj2 = (hKSOd >= B1vwwz054) ? -1402403909 : -299704320;
+m6U27U0bj2 = (true) ? -1402403909 : -299704320;
 }
 }
 }
@@ -141,7 +141,7 @@ if ((ylH7Rm >= TZrI) || (InpqcLTP <= HqVj))
 {
 InpqcLTP = TZrI + 419873635;
 }
-else if (YY63Z6Zko < B1vwwz054)
+else if (false)
 {
 ylH7Rm = (int)abs(s1d2);
 }
@@ -174,7 +174,7 @@ if (((HqVj & V5wG4URLes) && (s1d2)) || ((vpu2w72aui) || (s1d2 >= F1S6xr)))
 {
 cout << InpqcLTP << "GY_e" << YY63Z6Zko << s1d2 << endl;
 }
-else if ((Pay0 < -334974776) && (InpqcLTP == V5wG4URLes))
+else if ((false) && (InpqcLTP == V5wG4URLes))
 {
 TZrI = (short int)(V5wG4URLes * (F1S6xr));
 }
@@ -186,7 +186,7 @@ else if (InpqcLTP & F1S6xr)
 {
 InpqcLTP = a561_8r - 425526980;
 }
-else if ((HqVj <= Ofrazi) || ((Pay0 == 976306438) || (s1d2 < yZNZ)))
+else if ((HqVj <= Ofrazi) || ((false) || (s1d2 < yZNZ)))
 {
 {
 int k = 8;
@@ -200,7 +200,7 @@ while (k >= 0);
 }
 else if (s1d2 & HqVj)
 {
-if ((m6U27U0bj2 != 861376491) || ((m6U27U0bj2 > B1vwwz054) && (m6U27U0bj2 == B1vwwz054)))
+if ((true) || ((m6U27U0bj2 > B1vwwz054) && (m6U27U0bj2 == B1vwwz054)))
 {
 m6U27U0bj2 ^= 314286350;
 }
@@ -231,7 +231,7 @@ if ((TZrI & 579448638) && (ylH7Rm))
 int j = 0;
 while (j < 7)
 {
-if (a561_8r <= 198201855)
+if (true)
 {
 ylH7Rm = B1vwwz054 ^ InpqcLTP;
 }
@@ -243,7 +243,7 @@ else if (HqVj == s1d2)
 {
 InpqcLTP++;
 }
-else if (a561_8r > -132998162)
+else if (true)
 {
 vpu2w72aui = s1d2 / 1494439216;
 }
@@ -274,7 +274,7 @@ TZrI = (int)abs(YY63Z6Zko) * 0;
 
 cout << "E67w5Mq" << "ZJhMU_L6" << Ofrazi << "Zmd4H" << m6U27U0bj2 << endl;
 cout << YY63Z6Zko << s1d2 << Pay0 << HqVj << "XAPSao" << endl;
-if (((Ofrazi >= 897526938) || (vpu2w72aui == V5wG4URLes)) && ((Ofrazi != yZNZ) || (TZrI)))
+if (((false) || (vpu2w72aui == V5wG4URLes)) && ((Ofrazi != yZNZ) || (TZrI)))
 {
 if (s1d2 & F1S6xr)
 {

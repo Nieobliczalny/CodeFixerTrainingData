@@ -22,7 +22,7 @@ int main(int argc, char** argv) {
 
 if (FWFzEk5GZ & i6UaSRt7i)
 {
-if (fW2Rf >= -1914202101)
+if (true)
 {
 switch (h2oPED)
 {

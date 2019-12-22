@@ -272,7 +272,7 @@ i++;
 NUiVs7 = (long double)(k_803e1);
 }
 }
-if ((rbxBhk_y <= qLrPiktYH) || ((GL634P < D9OZ) && (NPv2JpOdK != D9OZ)))
+if ((true) || ((GL634P < D9OZ) && (NPv2JpOdK != D9OZ)))
 {
 for (int j = 0; j < 4; ++j)
 {

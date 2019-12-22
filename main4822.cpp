@@ -127,7 +127,7 @@ while (i < 8)
 ++i;
 try
 {
-if (d2t568_0dr != 599988002)
+if (true)
 {
 hvg56 -= 1270570005;
 }
@@ -162,7 +162,7 @@ for (int i = 0; i < 7; i++)
 cout << "Har8JJT" << endl;
 }
 
-if (i7FhbD > 222638535)
+if (false)
 {
 hvg56 = WClG + 202811310;
 }
@@ -193,7 +193,7 @@ p6k_9 = STpre4j6(1713956473, yURiZn, -1475691247, M4pw6T7w);
 break;
 }
 
-if (((M_bo5Y6_0Q & dX7K) && (bsiNz < -346018050)) || (NATPht >= -2005913809))
+if (((M_bo5Y6_0Q & dX7K) && (false)) || (NATPht >= -2005913809))
 {
 for (int j = 0; j < 4; j++)
 {
@@ -248,7 +248,7 @@ catch (int& errorCode)
 {
 X0ex9_fW += 689156999;
 }
-if (amJDx3 > -1270763459)
+if (true)
 {
 O_Vx9++;
 }
@@ -262,7 +262,7 @@ cout << DDTU(i7FhbD, 1069371275, unFXUH4H, sB7y76Zn3_) << QbTp962nh(i7FhbD, -126
 }
 while (i >= 0);
 }
-if ((WClG <= 581687069) && (Q9mJ & 951527508))
+if ((true) && (Q9mJ & 951527508))
 {
 cout << "SCbM9NRjo" << Zx1JC_(752234875) << "l1289k" << Zx1JC_(1450300228) << x36Hbyy0R(1022498708) << endl;
 }
@@ -275,7 +275,7 @@ while (i < 9)
 int j = 0;
 while (j < 3)
 {
-if ((d2t568_0dr == -2145246049) || ((IS90o != -1274892741) || (Vp72BPphI >= -1535420500)))
+if ((false) || ((IS90o != -1274892741) || (Vp72BPphI >= -1535420500)))
 {
 be4PB9jw = (F31i_ < XSW7Mh) ? d2t568_0dr : GaWRH7_XX4;
 }

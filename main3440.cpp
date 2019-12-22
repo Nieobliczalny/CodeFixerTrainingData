@@ -159,7 +159,7 @@ leCFc4xb_ = (char)(R3TW);
 
 for (int i = 2; i >= 0; i--)
 {
-if (orDF5LFI9 <= 231046568)
+if (true)
 {
 iAsXphtX4 = H9M8pGjY1(1793408913, -599676081);
 }
@@ -171,7 +171,7 @@ else if (my_T < 390366788)
 {
 R3TW = W0Xr(R3TW, by9Q_sGG, 1554846061, fi121yV5, IQGPri);
 }
-else if (((c558K0O > by9Q_sGG) || (j_Vqq > P3Ncs1R)) || (BkI8vDEy >= 1212990218))
+else if (((c558K0O > by9Q_sGG) || (j_Vqq > P3Ncs1R)) || (false))
 {
 mkb5Tr_fQa = (int)ceil(M2Pu);
 }
@@ -338,7 +338,7 @@ do
 ++i;
 if (ADYc5Jx4 != -1268434274)
 {
-if ((P3Ncs1R >= -1415393711) || (wS09g > -1685622025))
+if ((true) || (wS09g > -1685622025))
 {
 iAsXphtX4 = (int)abs(SIHw9ka9);
 }

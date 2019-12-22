@@ -24,7 +24,7 @@ int main(int argc, char** argv)
 
 for (int i = 0; i < 2; ++i)
 {
-if (NckLf_ > B4YV8)
+if (false)
 {
 {
 int k = 0;
@@ -48,7 +48,7 @@ while (k >= 0);
 }
 }
 }
-if (K_p1_tl7 >= z5V56vBzMs)
+if (false)
 {
 for (int j = 0; j < 1; j++)
 {
@@ -63,7 +63,7 @@ if ((AEiV & 991824098) || ((K_p1_tl7 & oOlwJ7i87l) && (ZFrv > wWkM)))
 int j = 0;
 while (j < 8)
 {
-if (((o4j1jR_I < t6tu93wie4) && (t6tu93wie4 >= -1688534985)) || (g6CDxx9 >= 179948632))
+if (((o4j1jR_I < t6tu93wie4) && (true)) || (g6CDxx9 >= 179948632))
 {
 fBNH = nEda25pyOU(ktT9);
 }
@@ -142,7 +142,7 @@ break;
 }
 for (int i = 2; i >= 0; --i)
 {
-if ((b28GA < 730933066) && (NckLf_ <= g6CDxx9))
+if ((true) && (NckLf_ <= g6CDxx9))
 {
 fBNH = nEda25pyOU(1305574243);
 }
@@ -157,7 +157,7 @@ else
 fBNH = nEda25pyOU(266198053);
 }
 }
-else if (S8eZXDz < 334660473)
+else if (true)
 {
 {
 int k = 0;
@@ -168,7 +168,7 @@ k++;
 }
 }
 }
-else if (((t6tu93wie4 >= -1183752864) || (NckLf_ > B4YV8)) || (t6tu93wie4 >= -1257403530))
+else if (((true) || (NckLf_ > B4YV8)) || (t6tu93wie4 >= -1257403530))
 {
 if ((I2OC4_s >= -1537599475) && (Wm269tE == B4YV8))
 {
@@ -205,7 +205,7 @@ fBNH = nEda25pyOU(-68929435);
 break;
 }
 }
-else if (wWkM != z5V56vBzMs)
+else if (true)
 {
 wWkM = (unsigned short int)(S8eZXDz);
 }
@@ -223,7 +223,7 @@ case 2:
 NckLf_ <<= xFXP9;
 break;
 case 3:
-JXvXM = (AGx0_ <= -1798708785) ? -1064812874 : 1965737537;
+JXvXM = (false) ? -1064812874 : 1965737537;
 break;
 case 4:
 ktT9 %= 278783038;
@@ -304,7 +304,7 @@ int i = 5;
 while (i >= 0)
 {
 i--;
-if ((p1CG424 & he2r62v7F) || (t6tu93wie4 >= 2046222949))
+if ((p1CG424 & he2r62v7F) || (false))
 {
 switch (AEiV)
 {
@@ -344,7 +344,7 @@ break;
 }
 g6CDxx9 = S8eZXDz + s7c0f;
 
-if ((fBNH != -963075417) && ((I2OC4_s & 362687853) && (AEiV > 722692758)))
+if ((true) && ((I2OC4_s & 362687853) && (AEiV > 722692758)))
 {
 if (b28GA & g6CDxx9)
 {
@@ -445,7 +445,7 @@ break;
 }
 else
 {
-if (xFXP9 != 466474740)
+if (true)
 {
 for (int k = 3; k >= 0; k--)
 {

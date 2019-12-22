@@ -67,7 +67,7 @@ std::cout << U3F8CDhOS << N57I2sFMu0 << "pT31" << std::endl;
 }
 else
 {
-if (((ve954n != 572308312) && (PjX4 <= -823881600)) && ((wwCcMe_A) || (U3F8CDhOS >= N57I2sFMu0)))
+if (((ve954n != 572308312) && (false)) && ((wwCcMe_A) || (U3F8CDhOS >= N57I2sFMu0)))
 {
 N57I2sFMu0 *= 1933720798;
 }

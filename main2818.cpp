@@ -137,7 +137,7 @@ E78eKQ = (int)abs(cF8opQ0f) + (-536184666);
 
 if (sF2V2HzPD_ > K8mxb6SB_)
 {
-if (zg6L7K == c8t341V)
+if (false)
 {
 try
 {
@@ -200,7 +200,7 @@ if (V6gUrboM)
 {
 V6gUrboM = (int)floor(E78eKQ);
 }
-else if (sXavxk3gtf == -876959736)
+else if (false)
 {
 std::cout << YI3DTdqx1 << "x8ddI4" << Q_25(C6zZHDfqs3, -293893157, wge3Pad, E78eKQ) << nO20vHFr7_(C6zZHDfqs3, 647828070, 1856498744) << "Q4Qwa1uc" << std::endl;
 }

@@ -23,7 +23,7 @@ cout << "Fw734D" << O4wK << X4FEYSoI << hmQ_HxV << "PYTj" << endl;
 mp35R = (int)abs(XAWtKoHV3);
 for (int i = 4; i >= 0; --i)
 {
-if ((Okogd < -1361871822) && (DvrJ == -569039410))
+if ((false) && (DvrJ == -569039410))
 {
 try
 {
@@ -143,7 +143,7 @@ l7jLui = A1GLo_L3(-2071024202, 611853855, 2045347701, 54455107);
 while (k >= 0);
 }
 }
-else if (O4wK == 1778566137)
+else if (false)
 {
 Kkr0etNIiS++;
 }
@@ -213,7 +213,7 @@ else
 LK58UwV = A1GLo_L3(LK58UwV, O4wK, P__czcqG, y90e69xM1P);
 }
 }
-else if ((c_n9U <= 1633214475) && ((uVgtQf2O2 <= DvrJ) || (uVgtQf2O2 != HuH6_j)))
+else if ((true) && ((uVgtQf2O2 <= DvrJ) || (uVgtQf2O2 != HuH6_j)))
 {
 keuM7nK -= 2033009110;
 }
@@ -242,7 +242,7 @@ u589 *= 1772625792;
 }
 }
 
-if (P__czcqG <= 1937803370)
+if (true)
 {
 {
 int j = 3;
@@ -277,7 +277,7 @@ cout << "Xy5Dw2VkdX" << A1GLo_L3(GNQXR, hmQ_HxV, xqQA27LOz, Y1Xi__ZCw) << endl;
 
 if (e0a7V > HuH6_j)
 {
-if (m_Ob >= -2026980489)
+if (true)
 {
 l7jLui = A1GLo_L3(-1234258091, qisl, 1000434517, v_ognDt);
 }
@@ -299,7 +299,7 @@ while (i < 6)
 XAWtKoHV3 = (short int)(FiK1);
 }
 }
-if (lqRc <= -1051623779)
+if (false)
 {
 D42uKS = (short int)(u589);
 }
@@ -321,7 +321,7 @@ while (j < 5);
 }
 else if (((k93dg5G4 > uVgtQf2O2) && (O4wK)) || (DkbBCw96_))
 {
-if (((xqQA27LOz & 754332546) && (iR8He > 1769180673)) && (F_d22 > HuH6_j))
+if (((xqQA27LOz & 754332546) && (false)) && (F_d22 > HuH6_j))
 {
 uVgtQf2O2 = (short int)(HuH6_j + (986065542));
 }
@@ -481,7 +481,7 @@ D42uKS = lqRc * 895420593;
 break;
 }
 
-if (G6C0lfRL9s == -388276549)
+if (false)
 {
 cout << "CM07430bA9" << A1GLo_L3(P__czcqG, c_n9U, 583907879, 121156587) << A1GLo_L3(P__czcqG, 883136516, TCYv0bK_9k, mp35R) << "Feo72Ov" << endl;
 }
@@ -503,7 +503,7 @@ else
 y3okU5 >>= 1156315835;
 }
 }
-else if (O4wK > 294731459)
+else if (false)
 {
 if ((mp35R) && (DkbBCw96_ != EOuc))
 {
@@ -522,7 +522,7 @@ else
 RI_4p = A1GLo_L3(-282059373, -917426240, jTg_C2, -1565314444);
 }
 
-if (ydN2rDw > -2083684956)
+if (true)
 {
 ydN2rDw = (int)abs(kPw7lH);
 }
@@ -565,7 +565,7 @@ qisl ^= 1266130739;
 }
 else
 {
-if (((lqRc > HuH6_j) || (G6C0lfRL9s >= rpOuL)) || (G6C0lfRL9s <= -1514985337))
+if (((lqRc > HuH6_j) || (G6C0lfRL9s >= rpOuL)) || (false))
 {
 DvrJ >>= olE5q_f03;
 }

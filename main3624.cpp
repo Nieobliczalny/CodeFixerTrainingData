@@ -100,7 +100,7 @@ if (USy1e9aDbQ)
 {
 q9o7_oU = (int)abs(VUi5J5a5Jb);
 }
-else if (xj7KUtM4_c >= -849800596)
+else if (true)
 {
 USy1e9aDbQ = (int)floor(nTTR);
 }
@@ -324,7 +324,7 @@ if (xj7KUtM4_c & 68795442)
 USy1e9aDbQ = (int)ceil(q9o7_oU);
 }
 }
-else if (xj7KUtM4_c <= -1754154760)
+else if (false)
 {
 if (((N8ThnD4_ >= 1636114839) || (X7x4po5)) || ((xj7KUtM4_c >= 1430764361) && (JdKl5lS6 == X7x4po5)))
 {

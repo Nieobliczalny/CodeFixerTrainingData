@@ -106,7 +106,7 @@ G2RB4A = (float)(M42_6tF + (688713722));
 
 try
 {
-if (((fICQ <= M42_6tF) || (D87652m5Qo < -899061455)) || (V40A2My5 >= -1302883210))
+if (((fICQ <= M42_6tF) || (false)) || (V40A2My5 >= -1302883210))
 {
 std::cout << LM_LP46Rb_(o0x49_ts) << std::endl;
 }

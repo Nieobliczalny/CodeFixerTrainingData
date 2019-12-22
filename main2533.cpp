@@ -190,7 +190,7 @@ We69t = ztQFE5(K3aE);
 }
 else
 {
-if (ULsj != -245006498)
+if (true)
 {
 try
 {
@@ -315,7 +315,7 @@ else if (J78v_26 == iqZB4)
 {
 ARIn5Z2St -= 1515312381;
 }
-else if (D115 > -1543098618)
+else if (true)
 {
 k4zn22 = (int)abs(FtERVMCWe);
 }
@@ -329,7 +329,7 @@ J78v_26 = (int)abs(ta916o4);
 }
 }
 }
-else if (yqIs_lN_ <= -1358509014)
+else if (false)
 {
 if ((wG2t1 < 771315072) && (K3aE != Q7q34RaJQ))
 {

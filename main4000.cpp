@@ -143,7 +143,7 @@ else if (u70aQo & pQ_C7sP21)
 {
 std::cout << upC8of() << std::endl;
 }
-else if (((m0ud3n43 & pb0N) && (qGCA > 1825040152)) || (TvMlQ4b1s))
+else if (((m0ud3n43 & pb0N) && (false)) || (TvMlQ4b1s))
 {
 r5VlFz7 = Kx7Ek_RC >> 561902994;
 }
@@ -276,7 +276,7 @@ while (i >= 0);
 
 for (int i = 7; i >= 0; i--)
 {
-if ((pb0N <= Nt_lA) && (MS_inw_K <= -1187666764))
+if ((pb0N <= Nt_lA) && (false))
 {
 r5VlFz7 += 601571890;
 }
@@ -347,7 +347,7 @@ if ((j2kaJtDUzP == YH4LYzZkl6) || (oY6Ky359 > YH4LYzZkl6))
 Iy9nDs_ = m99HBu2(zj_nP, 1116562621);
 }
 }
-else if (q9v33o1xv >= 1522747548)
+else if (false)
 {
 {
 int k = 2;

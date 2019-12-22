@@ -142,7 +142,7 @@ Slji5a /= 185536752;
 break;
 case 'b':
 case 'B':
-FOB40Yh50 = (V7543R < SHVtD0Dt) ? dsoKy6Wu : LO8f;
+FOB40Yh50 = (true) ? dsoKy6Wu : LO8f;
 break;
 case 'c':
 case 'C':
@@ -183,7 +183,7 @@ break;
 }
 else
 {
-if (xY2_x != 936535294)
+if (true)
 {
 if ((z3FZz != SHVtD0Dt) && (N04Kk9 < jf_wV43z))
 {
@@ -216,7 +216,7 @@ else
 int j = 4;
 do
 {
-if ((V7543R != 1302258372) && (i7y_Vx8i == z3FZz))
+if ((true) && (i7y_Vx8i == z3FZz))
 {
 O065tF5Ea *= bKdUhNoT;
 }

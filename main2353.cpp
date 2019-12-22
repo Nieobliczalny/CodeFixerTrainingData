@@ -30,7 +30,7 @@ else
 HOH154pKn9 = (unsigned char)(X7js77);
 }
 
-if ((FUn6k >= 310473598) || (Z_6v_CX < CKpipHxEr))
+if ((false) || (Z_6v_CX < CKpipHxEr))
 {
 cout << HOH154pKn9 << "UoldK2h" << "WTNK6" << endl;
 }

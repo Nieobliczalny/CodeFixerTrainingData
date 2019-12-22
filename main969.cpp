@@ -47,7 +47,7 @@ int main(void)
 
 if (c0SG9qzs == -1835102793)
 {
-if (KNzX_6K > -527093003)
+if (true)
 {
 if (dS6d4L > 1523768339)
 {
@@ -100,7 +100,7 @@ while (j >= 0);
 }
 i4T40I = sCpQ7bTc >> 1658283642;
 i4T40I = (long long)(D6gT6);
-if (q_5ADc4M == 928243253)
+if (false)
 {
 a53XaS490 = D6gT6 * q_5ADc4M;
 }
@@ -217,7 +217,7 @@ if (((KNzX_6K == VY_gf6_) && (tUt09_5d != 299337253)) && ((r7929F < -993095478) 
 {
 r7929F /= Vjt5R24;
 }
-else if (sCpQ7bTc < 874225992)
+else if (true)
 {
 dS6d4L ^= c0SG9qzs;
 }
@@ -241,7 +241,7 @@ gtsFODTYi6 = nhF5qrou7(gtsFODTYi6);
 
 if ((i4T40I & -2064414649) || (VY_gf6_ <= 1041778654))
 {
-if (q_5ADc4M != -1686734866)
+if (true)
 {
 switch (VY_gf6_)
 {

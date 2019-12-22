@@ -320,7 +320,7 @@ if (vqLQ5zs2)
 {
 B24PLxD89Z = (float)(a6_G);
 }
-else if ((ghyq_JH2 >= -1099437468) || (FWmmL8 == 941063178))
+else if ((true) || (FWmmL8 == 941063178))
 {
 std::cout << "P9o2eO" << "M7V621" << m_Qhi << rDvdh5oe51(2095291591, Vu624, -1979752955, bA_1, 872886335) << "hz7f5CA" << std::endl;
 }

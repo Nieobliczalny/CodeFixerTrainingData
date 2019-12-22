@@ -20,7 +20,7 @@ int main()
 
 for (int i = 0; i < 6; i++)
 {
-if ((Ou4z_) && (QMf8 < zP43v7R))
+if ((Ou4z_) && (false))
 {
 for (int k = 0; k < 4; ++k)
 {
@@ -41,7 +41,7 @@ while (k < 8);
 }
 }
 
-if (R2gpvkN4 >= VqIOZ_)
+if (false)
 {
 switch (QMf8)
 {
@@ -67,7 +67,7 @@ break;
 }
 Ou4z_ = b48o2 / 2095452910;
 
-if (((f1NBiyIt != -1770028918) && (f1NBiyIt <= zP43v7R)) || (f1NBiyIt & 347613538))
+if (((true) && (f1NBiyIt <= zP43v7R)) || (f1NBiyIt & 347613538))
 {
 vJ1A = (int)floor(P_IL2fc0R4);
 }
@@ -92,7 +92,7 @@ if ((R2gpvkN4 & 302937576) || (R2gpvkN4))
 {
 vJ1A = (f1NBiyIt & b48o2) ? QMf8 : Ou4z_;
 }
-else if (b48o2 == 1200309321)
+else if (false)
 {
 f1NBiyIt = (unsigned char)(R2gpvkN4);
 }
@@ -114,7 +114,7 @@ std::cout << "K3zwUV" << std::endl;
 }
 else
 {
-if (((f1NBiyIt & zP43v7R) && (f1NBiyIt < Fv371)) && (f1NBiyIt != Ou4z_))
+if (((f1NBiyIt & zP43v7R) && (false)) && (f1NBiyIt != Ou4z_))
 {
 Ou4z_ -= R2gpvkN4;
 }
@@ -163,7 +163,7 @@ case 9:
 P_IL2fc0R4 *= P_IL2fc0R4;
 break;
 default:
-P_IL2fc0R4 = (QMf8 == -1651452572) ? QMf8 : zP43v7R;
+P_IL2fc0R4 = (false) ? QMf8 : zP43v7R;
 break;
 }
 }
@@ -177,7 +177,7 @@ if (b48o2 >= aeGsr1)
 {
 BiW_A = (int)floor(vJ1A);
 }
-else if (b48o2 <= VqIOZ_)
+else if (true)
 {
 Ou4z_ = (BiW_A > P_IL2fc0R4) ? -1280988818 : QMf8;
 }
@@ -207,7 +207,7 @@ int i = 3;
 while (i >= 0)
 {
 --i;
-if ((f1NBiyIt == Fv371) || (Ou4z_ <= VqIOZ_))
+if ((false) || (Ou4z_ <= VqIOZ_))
 {
 if ((vJ1A > zP43v7R) && (QMf8 & 1957874208))
 {
@@ -227,7 +227,7 @@ std::cout << BiW_A << BiW_A << P_IL2fc0R4 << Ou4z_ << std::endl;
 }
 Ou4z_ /= f1NBiyIt;
 P_IL2fc0R4 *= 818888387;
-P_IL2fc0R4 = (f1NBiyIt < -828897549) ? QMf8 : -450397992;
+P_IL2fc0R4 = (false) ? QMf8 : -450397992;
 
 if (Ou4z_ <= aeGsr1)
 {
@@ -244,7 +244,7 @@ Ou4z_ = (vJ1A != R2gpvkN4) ? Ou4z_ : R2gpvkN4;
 while (j < 4);
 }
 }
-if (R2gpvkN4 <= 669361605)
+if (true)
 {
 for (int j = 6; j >= 0; --j)
 {
@@ -339,7 +339,7 @@ i++;
 }
 }
 
-if (f1NBiyIt != 21743610)
+if (true)
 {
 if (R2gpvkN4 >= zP43v7R)
 {
@@ -380,7 +380,7 @@ else if (R2gpvkN4 & Fv371)
 {
 Ou4z_ -= 1965261659;
 }
-else if (((P_IL2fc0R4 < b48o2) || (BiW_A < aeGsr1)) || ((b48o2 < Fv371) || (R2gpvkN4 == BiW_A)))
+else if (((P_IL2fc0R4 < b48o2) || (BiW_A < aeGsr1)) || ((false) || (R2gpvkN4 == BiW_A)))
 {
 vJ1A = (BiW_A != 746301666) ? -283082623 : BiW_A;
 }
@@ -399,7 +399,7 @@ if (BiW_A < 992707479)
 {
 P_IL2fc0R4 = (int)abs(vJ1A);
 }
-else if (((b48o2 == Fv371) || (vJ1A >= Ou4z_)) && (Ou4z_))
+else if (((false) || (vJ1A >= Ou4z_)) && (Ou4z_))
 {
 vJ1A = (vJ1A != -689034103) ? b48o2 : 1728570895;
 }
@@ -410,7 +410,7 @@ Ou4z_ = QMf8 * 1179131315;
 }
 else
 {
-if (R2gpvkN4 == 303983877)
+if (false)
 {
 vJ1A = aeGsr1 % 1234718276;
 }
@@ -430,7 +430,7 @@ else
 P_IL2fc0R4 = R2gpvkN4 & 583921690;
 }
 }
-else if (QMf8 <= 1146209875)
+else if (true)
 {
 switch (QMf8)
 {
@@ -597,7 +597,7 @@ for (int j = 3; j >= 0; j--)
 {
 if ((BiW_A) || (b48o2 & QMf8))
 {
-vJ1A = (R2gpvkN4 == VqIOZ_) ? 1984021880 : 1967792467;
+vJ1A = (false) ? 1984021880 : 1967792467;
 }
 }
 }
@@ -616,7 +616,7 @@ do
 {
 try
 {
-if (QMf8 <= 1769086687)
+if (true)
 {
 Ou4z_ = (BiW_A != b48o2) ? Fv371 : f1NBiyIt;
 }
@@ -628,7 +628,7 @@ else if (vJ1A <= zP43v7R)
 {
 BiW_A -= P_IL2fc0R4;
 }
-else if ((f1NBiyIt != R2gpvkN4) && (b48o2 < OUD0RKeV6J))
+else if ((f1NBiyIt != R2gpvkN4) && (true))
 {
 Ou4z_ *= 430668409;
 }

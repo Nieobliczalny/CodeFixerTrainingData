@@ -106,7 +106,7 @@ catch (int& errorCode)
 {
 poP1t = (int)ceil(M2ib);
 }
-if (a_6_F4 >= -1724766557)
+if (true)
 {
 for (int j = 10; j >= 0; j--)
 {

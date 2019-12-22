@@ -89,7 +89,7 @@ int j = 0;
 while (j < 6)
 {
 j++;
-if ((FTvR_h_uX == l_w3A_5) && ((FTvR_h_uX) && (WAF2_w == -1976504303)))
+if ((FTvR_h_uX == l_w3A_5) && ((FTvR_h_uX) && (false)))
 {
 eH2S_ = CWhHXvlw(1098785500, 915255978);
 }
@@ -366,7 +366,7 @@ t_37X2MB9 = CWhHXvlw(d2TH, B5j9i2Nqs) + a00VF;
 
 if (eH2S_ & -747189295)
 {
-if (eH2S_ >= 793340944)
+if (false)
 {
 rx_9nkM_3u = W44rwd(rx_9nkM_3u, B5j9i2Nqs, DizEetNF);
 }
@@ -489,7 +489,7 @@ else if (l_w3A_5 == 1943518757)
 {
 d2TH = vJ6tVX4MzZ + 195771453;
 }
-else if (WAF2_w >= 841520217)
+else if (false)
 {
 J_Ze0eN_1 /= 63971525;
 }

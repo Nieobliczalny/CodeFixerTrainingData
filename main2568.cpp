@@ -32,7 +32,7 @@ for (int i = 4; i >= 0; i--)
 {
 for (int j = 0; j < 6; j++)
 {
-if (j4lLXLqa != -404069660)
+if (true)
 {
 j4lLXLqa &= uek0ISZn;
 }
@@ -46,7 +46,7 @@ hy3W = dODmO + j4lLXLqa;
 switch (hy3W)
 {
 case 'a':
-uW5yuOP9PB = (uek0ISZn < 1403116708) ? -1351223072 : uW5yuOP9PB;
+uW5yuOP9PB = (true) ? -1351223072 : uW5yuOP9PB;
 break;
 case 'b':
 uek0ISZn *= hy3W;
@@ -103,7 +103,7 @@ if (hy3W)
 int j = 0;
 do
 {
-if (((dODmO <= 1211283348) && (hy3W <= 1945478205)) || ((j4lLXLqa <= -69605253) && (j4lLXLqa != 573581065)))
+if (((dODmO <= 1211283348) && (true)) || ((j4lLXLqa <= -69605253) && (j4lLXLqa != 573581065)))
 {
 hy3W = (int)abs(ZtG_J);
 }
@@ -198,7 +198,7 @@ else if (ZtG_J & j4lLXLqa)
 {
 for (int j = 2; j >= 0; --j)
 {
-if (((hy3W > -1176613973) && (uW5yuOP9PB == -521754220)) || ((dODmO < -1982181866) && (j4lLXLqa > 1319052473)))
+if (((true) && (uW5yuOP9PB == -521754220)) || ((dODmO < -1982181866) && (j4lLXLqa > 1319052473)))
 {
 uW5yuOP9PB = dODmO | j4lLXLqa;
 }
@@ -292,7 +292,7 @@ catch (int& errorCode)
 j4lLXLqa = ZtG_J * ZtG_J;
 }
 }
-else if ((hy3W) || ((uek0ISZn == 1826722971) || (ZtG_J)))
+else if ((hy3W) || ((false) || (ZtG_J)))
 {
 hy3W = uW5yuOP9PB << 1874675428;
 }
@@ -402,7 +402,7 @@ uek0ISZn = hy3W << ZtG_J;
 }
 else
 {
-if (((hy3W != -775283547) || (hy3W >= 1315741294)) && (uek0ISZn != -1673597097))
+if (((true) || (hy3W >= 1315741294)) && (uek0ISZn != -1673597097))
 {
 j4lLXLqa = ZtG_J >> 2080326234;
 }
@@ -452,7 +452,7 @@ else if (aBv7x <= 1616779756)
 {
 std::cout << "l73b6q" << ZtG_J << std::endl;
 }
-else if (((ZtG_J > 1134362266) || (j4lLXLqa)) && (j4lLXLqa != -922101631))
+else if (((ZtG_J > 1134362266) || (j4lLXLqa)) && (true))
 {
 if ((j4lLXLqa < uek0ISZn) && (hy3W <= -327817198))
 {
@@ -467,7 +467,7 @@ uW5yuOP9PB *= 955829491;
 }
 else
 {
-if (((ZtG_J) && (aBv7x <= 2135279718)) || ((j4lLXLqa < 1323921907) && (ZtG_J != 1424959332)))
+if (((ZtG_J) && (aBv7x <= 2135279718)) || ((true) && (ZtG_J != 1424959332)))
 {
 ZtG_J = (int)abs(dODmO) + (-26203208);
 }
@@ -481,7 +481,7 @@ else
 {
 std::cout << dODmO << aBv7x << std::endl;
 }
-if (hy3W == 1298424691)
+if (false)
 {
 hy3W = (int)abs(uek0ISZn);
 }

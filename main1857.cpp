@@ -122,7 +122,7 @@ for (int i = 6; i >= 0; --i)
 {
 try
 {
-if (Zbj78nIC > -371541125)
+if (true)
 {
 ILg2Xf_ &= rj_xoys4;
 }
@@ -134,7 +134,7 @@ else if (Q_JQZ > -1002614502)
 {
 aD9J3_ig = HjFEW9h - 86553208;
 }
-else if (((Unu9I3D != -1676397280) || (yFtJM == 1781032958)) && (dlqA9bJ & zk_OwV25))
+else if (((true) || (yFtJM == 1781032958)) && (dlqA9bJ & zk_OwV25))
 {
 O64RS &= 837693340;
 }

@@ -90,7 +90,7 @@ hOT5B6f = (int)abs(u306U7PLWI);
 
 Q0Fo = (unsigned short int)(KN1d);
 
-if (i4KZ3_En_ >= -1121680129)
+if (true)
 {
 for (int j = 9; j >= 0; j--)
 {
@@ -188,7 +188,7 @@ if (jrMe < 61710794)
 hwMZ2 = D37oa834O4();
 }
 }
-if (c5hNUL5M != -657059809)
+if (true)
 {
 {
 int j = 7;

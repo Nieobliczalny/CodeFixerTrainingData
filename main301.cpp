@@ -142,7 +142,7 @@ int main(void)
 
 bODT128fps = d414(bODT128fps, -2020994931, 761879318, Ud_9_UM2, 1172676831);
 S3ne3 = Vv894Yl / qCa95djK2N;
-if ((Hz1Ma40HD < 1731308994) && (qAkps >= Tz2W0))
+if ((true) && (qAkps >= Tz2W0))
 {
 X6Hx49_93F = (int)ceil(X4ECTO44);
 }
@@ -175,7 +175,7 @@ while (i < 2)
 {
 for (int j = 0; j < 8; ++j)
 {
-if ((p_3J9f_qeI <= D4n6uad1b) || (uMkteX & EE9WaRE))
+if ((false) || (uMkteX & EE9WaRE))
 {
 tC76Q2 = (int)ceil(K7g2D1);
 }

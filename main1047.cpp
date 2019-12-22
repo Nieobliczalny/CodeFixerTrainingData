@@ -18,7 +18,7 @@ int main() {
 	unsigned int	bZ4i5av8QB	=	0;
 
 Y2J__N = (unsigned short)(e6WdS6);
-if (e6WdS6 != 1495544616)
+if (true)
 {
 x4AR = Ks07p ^ UTEMzDU;
 }
@@ -186,7 +186,7 @@ q8okI8E %= 1166674060;
 int i = 2;
 do
 {
-if (((Ks07p == x4AR) || (d5t5_A == fF2Av)) && ((UTEMzDU == z4jG) || (Ks07p != x4AR)))
+if (((Ks07p == x4AR) || (false)) && ((UTEMzDU == z4jG) || (Ks07p != x4AR)))
 {
 {
 int k = 0;
@@ -245,7 +245,7 @@ if (bZ4i5av8QB >= z4jG)
 {
 K4Jghu_6 &= q8okI8E;
 }
-else if (UTEMzDU >= -1165816649)
+else if (true)
 {
 K4Jghu_6 *= 1139057252;
 }
@@ -257,7 +257,7 @@ else if (g88_x6F7 == 929777406)
 {
 UTEMzDU %= q8okI8E;
 }
-else if (d5t5_A != z4jG)
+else if (true)
 {
 Y2J__N |= x4AR;
 }

@@ -72,7 +72,7 @@ int i = 0;
 while (i < 7)
 {
 i++;
-if ((QJlnkF > 286488802) && ((xmCo3l > NW6f8e5H5) || (Q1v034Tw & NW6f8e5H5)))
+if ((false) && ((xmCo3l > NW6f8e5H5) || (Q1v034Tw & NW6f8e5H5)))
 {
 cout << "SWU9f" << "rOzd4_H2Ao" << endl;
 }
@@ -173,7 +173,7 @@ j++;
 while (j < 4);
 }
 }
-else if (((QJlnkF & NW6f8e5H5) && (SU77fqOul & A_Dq)) || (t1Ng_31 == -1046613207))
+else if (((QJlnkF & NW6f8e5H5) && (SU77fqOul & A_Dq)) || (false))
 {
 if (o7OC_U07p9 != -1980990943)
 {
@@ -261,7 +261,7 @@ break;
 
 try
 {
-if (CB0C >= 1439576586)
+if (false)
 {
 A_Dq += hk6hL2l;
 }
@@ -362,7 +362,7 @@ else
 {
 cout << "Tl628wV" << "l330jOj07" << "VCQqx1n" << CB0C << endl;
 }
-if (S0JzMs > -1250057895)
+if (true)
 {
 {
 int j = 8;

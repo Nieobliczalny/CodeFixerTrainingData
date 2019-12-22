@@ -115,7 +115,7 @@ Pj7XAJp = gJL46jgFv(-144510535, fB99ISv7L, I2cEMh_r3, -1684147157);
 while (i < 2);
 }
 
-if (v6rQS6 < pJ_pve6tCP)
+if (true)
 {
 for (int j = 8; j >= 0; --j)
 {
@@ -197,7 +197,7 @@ break;
 }
 
 jOpAv02UQ7 = (unsigned char)(pJ_pve6tCP);
-if (((BT4X_7Nc8 == QKW7932) && (yhw2A_S)) || (JqXH >= QKW7932))
+if (((false) && (yhw2A_S)) || (JqXH >= QKW7932))
 {
 try
 {

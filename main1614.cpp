@@ -81,7 +81,7 @@ int main(int argc, char** argv)
 int i = 0;
 do
 {
-if (t307p == DuiW_)
+if (false)
 {
 ij3Q8Y2JN /= t307p;
 }
@@ -91,7 +91,7 @@ UAf5PB77 = B_OA(-1732030122, hKAvEt58i5, T2VBxHn6VH, 1773453609);
 }
 else if (LmG4TY0 < 961888843)
 {
-if ((vJ47U_0 <= ky5_iI) || (ij3Q8Y2JN <= -899953271))
+if ((vJ47U_0 <= ky5_iI) || (false))
 {
 U9OG0i667W = wt3uegAVux << F5F35_SAC;
 }
@@ -141,7 +141,7 @@ zV3L47l1 = (int)floor(zx9h);
 
 try
 {
-if (J1QQS == -1863003131)
+if (false)
 {
 t307p = (char)(DuiW_);
 }
@@ -160,7 +160,7 @@ jD_L %= 393828937;
 }
 }
 }
-else if (((y5tm6vN6 & zutRo0w_) && (uj4_kg0 != DuiW_)) || (ky5_iI >= 845402547))
+else if (((y5tm6vN6 & zutRo0w_) && (true)) || (ky5_iI >= 845402547))
 {
 std::cout << B_OA(-1791512155, j3PFo5hyt, zutRo0w_, -1875553279) << U63gFMp(-1375439107, j3PFo5hyt) << "U2f1M3" << std::endl;
 }
@@ -170,7 +170,7 @@ if (zx9h <= 432483795)
 {
 y5tm6vN6 = (int)abs(t307p);
 }
-else if ((t307p < DuiW_) || (ky5_iI < g0t262))
+else if ((false) || (ky5_iI < g0t262))
 {
 zV3L47l1 = U63gFMp(zV3L47l1, ij3Q8Y2JN);
 }
@@ -266,7 +266,7 @@ while (j < 1);
 }
 while (i < 3);
 }
-if (T2VBxHn6VH >= 1134335162)
+if (false)
 {
 for (int j = 8; j >= 0; j--)
 {
@@ -399,7 +399,7 @@ else
 B0NKk = (int)floor(ky5_iI);
 }
 }
-else if (((Wta0EV > DuiW_) || (jD_L & g0t262)) && (wt3uegAVux > vJ47U_0))
+else if (((true) || (jD_L & g0t262)) && (wt3uegAVux > vJ47U_0))
 {
 try
 {
@@ -452,7 +452,7 @@ else if ((y5tm6vN6) && (zx9h >= DuiW_))
 {
 WY099 = (long double)(DuiW_);
 }
-else if (Ecm5 == -1092849299)
+else if (false)
 {
 {
 int j = 1;
@@ -473,7 +473,7 @@ while (j >= 0);
 }
 else if (ebBRC1o != t307p)
 {
-if (((ky5_iI > 647549985) && (ky5_iI < DuiW_)) && ((p0J5W3rms > 1980333874) || (Ecm5 >= wt3uegAVux)))
+if (((ky5_iI > 647549985) && (ky5_iI < DuiW_)) && ((false) || (Ecm5 >= wt3uegAVux)))
 {
 {
 int k = 0;
@@ -490,7 +490,7 @@ std::cout << "V9mF_k1_j" << ij3Q8Y2JN << "S9BQNB3AS" << std::endl;
 }
 else
 {
-if (ij3Q8Y2JN != -858976524)
+if (true)
 {
 UAf5PB77 = B_OA(345471866, -4803721, gA2O3, 323225339);
 }

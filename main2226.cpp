@@ -215,7 +215,7 @@ for (int k = 0; k < 8; k++)
 p7dP3E7 = IR1JNRM(zo8U3) ^ umqx3f59m;
 }
 }
-else if ((YIE4o8e5SH > 311106006) || (B_C6a_a))
+else if ((false) || (B_C6a_a))
 {
 switch (sE5Ft501)
 {
@@ -264,7 +264,7 @@ v_1X8 = AnmQP_7Vcb(v_1X8, -940856527);
 }
 else
 {
-if ((ue4Exig) || (Ox5HI1 <= -773275369))
+if ((ue4Exig) || (false))
 {
 d7kapdrj = (int)abs(sE5Ft501);
 }

@@ -364,7 +364,7 @@ k++;
 while (k < 5);
 }
 }
-else if ((gW_0N >= -185998259) && ((OLu_p3 & sA28) || (pO56D9IDF > 1589993342)))
+else if ((true) && ((OLu_p3 & sA28) || (pO56D9IDF > 1589993342)))
 {
 switch (lzaS)
 {
@@ -408,7 +408,7 @@ int i = 0;
 while (i < 7)
 {
 ++i;
-if ((Sjzg == 117112916) && (F1v9kX6ha))
+if ((false) && (F1v9kX6ha))
 {
 m1XquP = Sjzg | 222822454;
 }

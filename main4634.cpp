@@ -43,7 +43,7 @@ id3MJTX = R894r_E4 % 686299295;
 break;
 case 'd':
 case 'D':
-id3MJTX = (LURmf != -724657988) ? ucnOpQfM : F4383z;
+id3MJTX = (true) ? ucnOpQfM : F4383z;
 break;
 case 'e':
 case 'E':
@@ -79,7 +79,7 @@ int i = 10;
 do
 {
 i--;
-if ((PtLS >= -433573268) && (C0kO == -753116042))
+if ((true) && (C0kO == -753116042))
 {
 {
 int k = 0;
@@ -101,7 +101,7 @@ cc1jR = x693uH24g9 & 440857388;
 }
 }
 }
-else if (R894r_E4 < 538284166)
+else if (true)
 {
 ERTQ8Tad &= 636559993;
 }
@@ -117,7 +117,7 @@ iA5l99 = id3MJTX >> 2117453914;
 while (k >= 0);
 }
 }
-else if ((ERTQ8Tad == -1795717361) && (C0kO == F4383z))
+else if ((false) && (C0kO == F4383z))
 {
 if (Kxp2 & PtLS)
 {
@@ -130,7 +130,7 @@ F4383z = cc1jR + F4383z;
 }
 else if (x693uH24g9)
 {
-if ((F4383z == id3MJTX) && ((cc1jR >= -1570314111) && (x693uH24g9 <= -258589765)))
+if ((F4383z == id3MJTX) && ((true) && (x693uH24g9 <= -258589765)))
 {
 Kxp2++;
 }
@@ -153,7 +153,7 @@ else if (iA5l99 != R894r_E4)
 {
 F4383z |= ERTQ8Tad;
 }
-else if (((F4383z < -438461673) && (LURmf != -406496028)) && ((ucnOpQfM & xbSWu) && (x693uH24g9 != -1744923563)))
+else if (((false) && (LURmf != -406496028)) && ((ucnOpQfM & xbSWu) && (x693uH24g9 != -1744923563)))
 {
 id3MJTX = cc1jR % 551813179;
 }
@@ -175,7 +175,7 @@ while (i >= 0);
 }
 if (id3MJTX)
 {
-if (F4383z == -1448556693)
+if (false)
 {
 if (Kxp2 <= 732106312)
 {
@@ -186,7 +186,7 @@ else
 x693uH24g9 ^= 1768437117;
 }
 }
-else if ((xbSWu < -1159401735) && (id3MJTX > b402JI7j5))
+else if ((false) && (id3MJTX > b402JI7j5))
 {
 try
 {
@@ -208,7 +208,7 @@ else
 B2D4zU2 = (int)abs(cc1jR);
 }
 }
-else if (Blaia_3x > -1197726204)
+else if (true)
 {
 std::cout << iA5l99 << std::endl;
 }
@@ -237,7 +237,7 @@ default:
 B2D4zU2--;
 break;
 }
-if (Blaia_3x != 297248141)
+if (true)
 {
 iA5l99 ^= Kxp2;
 }
@@ -279,7 +279,7 @@ else if (x693uH24g9 <= Kxp2)
 {
 ERTQ8Tad = PtLS + 992748217;
 }
-else if (B2D4zU2 < 795081951)
+else if (true)
 {
 B2D4zU2 = F4383z + LURmf;
 }
@@ -295,7 +295,7 @@ Kxp2--;
 }
 
 C0kO = (char)(xbSWu);
-if ((xbSWu <= 1794567655) && (Blaia_3x))
+if ((true) && (Blaia_3x))
 {
 if ((R894r_E4 >= -123705438) || (F4383z & xbSWu))
 {

@@ -64,7 +64,7 @@ k--;
 while (k >= 0);
 }
 }
-else if (NW4p_l5UDi != -1117988110)
+else if (true)
 {
 for (int k = 2; k >= 0; --k)
 {
@@ -81,7 +81,7 @@ int i = 0;
 do
 {
 i++;
-if (GchKNu27JN != -1540199092)
+if (true)
 {
 {
 int k = 2;
@@ -101,7 +101,7 @@ S_I513NL7 = (unsigned short int)(xpnYQYVc9_);
 cout << lu7n1WEt << "F6nz72" << f_fJ(-244339374, D5ZpY9u_a, myQd) << "Fz49" << "jTTsD" << endl;
 
 c0iz56r0 = f_fJ(920715523, -1630443739, E09TSZw1R);
-if (lu7n1WEt > -1216762509)
+if (true)
 {
 cout << "J7e9oG_99L" << "k0v029Pl" << "H6nNuUqy" << endl;
 }
@@ -228,7 +228,7 @@ S_I513NL7 ^= w_V_210;
 }
 
 Q_ZtJF5 = (int)abs(cTYD77j);
-if (lu7n1WEt == -1698512507)
+if (false)
 {
 {
 int j = 8;
@@ -238,7 +238,7 @@ if ((ig1L7bS1_ == TC20Z38Hz6) || (Je_g29nL & a5QM))
 {
 X_7FbyS19 = f_fJ(X_7FbyS19, Ro0K2uL, 206917280);
 }
-else if (O1dqxPyOt == -1994021529)
+else if (false)
 {
 IKlKQ632_X = t596gK7q6d(IKlKQ632_X, 573590156);
 }
@@ -255,7 +255,7 @@ j--;
 while (j >= 0);
 }
 }
-else if ((a5QM > 1190381344) || (V83aD88 > O1dqxPyOt))
+else if ((false) || (V83aD88 > O1dqxPyOt))
 {
 X_7FbyS19 = t596gK7q6d(X_7FbyS19, 1268689951);
 }
@@ -281,7 +281,7 @@ xpnYQYVc9_ = (unsigned short int)(Je_g29nL);
 }
 else
 {
-if ((ISJKqjC < -1746789763) && ((rs_rw2GB == 842070262) && (yAb_ != TC20Z38Hz6)))
+if ((false) && ((rs_rw2GB == 842070262) && (yAb_ != TC20Z38Hz6)))
 {
 cTYD77j = (int)abs(Q_ZtJF5);
 }
@@ -300,7 +300,7 @@ else if (ig1L7bS1_ != V83aD88)
 {
 BaFQF |= xpnYQYVc9_;
 }
-else if ((y4cTQ <= 919357467) || (U64gRCBQ6 >= iYB3_d))
+else if ((true) || (U64gRCBQ6 >= iYB3_d))
 {
 cout << "nJ3797" << "mN37_clhc" << "U94UKl82t" << "kcL8c" << endl;
 }
@@ -310,7 +310,7 @@ cout << GchKNu27JN << t596gK7q6d(1055750301, hzcSd2D5) << f_fJ(-1732015844, hzcS
 }
 else if ((lu7n1WEt <= -1587631528) && (O1dqxPyOt < 1425303538))
 {
-if (D5ZpY9u_a > -1449545797)
+if (true)
 {
 Hq1A109r19 = tV53z << 1261954822;
 }
@@ -321,7 +321,7 @@ C0M98R67X = t596gK7q6d(OG8hc62ji, hzcSd2D5) & 12569016;
 }
 else
 {
-if ((yKCzWZW <= 199590185) || ((yAb_ != Iv7vz01W_Y) && (b15_v6 < 94069518)))
+if ((true) || ((yAb_ != Iv7vz01W_Y) && (b15_v6 < 94069518)))
 {
 yAb_ = OG8hc62ji >> m2821yh;
 }
@@ -378,7 +378,7 @@ catch (int& errorCode)
 {
 yAb_ *= 469906436;
 }
-if (Ro0K2uL >= 849894401)
+if (false)
 {
 try
 {

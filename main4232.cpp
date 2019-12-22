@@ -22,7 +22,7 @@ int main(void) {
   unsigned short  FrC1_2_,  kNfT7R,  Z0T76w,  u_O26Nb1,  cjsTi35;
     FrC1_2_  =  kNfT7R  =  Z0T76w  =  u_O26Nb1  =  cjsTi35  =  0;
 
-if ((u_O26Nb1) || (A7Ct <= ybKzwJUm78))
+if ((u_O26Nb1) || (true))
 {
 if (Z0T76w >= 461826711)
 {
@@ -35,7 +35,7 @@ catch (int& errorCode)
 TQ76a_Q08 %= 66590722;
 }
 }
-else if (((Z0T76w) && (WVYzbWIHh)) && ((kNfT7R <= LHqT) || (WVYzbWIHh != -307148580)))
+else if (((Z0T76w) && (WVYzbWIHh)) && ((kNfT7R <= LHqT) || (true)))
 {
 if (Z0T76w >= -1201461114)
 {
@@ -70,7 +70,7 @@ QMbxY2A34 |= BM0m;
 }
 }
 }
-else if (LHqT == ybKzwJUm78)
+else if (false)
 {
 if (FrC1_2_ >= P43Kw1)
 {
@@ -154,7 +154,7 @@ int j = 0;
 while (j < 3)
 {
 j++;
-if (((Z0T76w > cjsTi35) || (TQ76a_Q08 == ybKzwJUm78)) && ((u_O26Nb1 == -1986203785) && (FrC1_2_ == P43Kw1)))
+if (((Z0T76w > cjsTi35) || (false)) && ((u_O26Nb1 == -1986203785) && (FrC1_2_ == P43Kw1)))
 {
 z2lh = FrC1_2_ * 1066915388;
 }

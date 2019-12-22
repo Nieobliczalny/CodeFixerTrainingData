@@ -297,7 +297,7 @@ catch (int& errorCode)
 T11Un_K = (int)abs(pTdjIJ8x);
 }
 }
-else if (r3KT2k1 == 1490702253)
+else if (false)
 {
 if (CuGqp_9)
 {

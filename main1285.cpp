@@ -96,7 +96,7 @@ if (uI66659F > -1964983245)
 {
 pqj4gvkytT = XDobJK(1855925408, -1788418945, -1430077922);
 }
-else if ((MCTGpD8 >= nRdy5V) && (aO0hLi_ao == eJRX7M96NE))
+else if ((MCTGpD8 >= nRdy5V) && (false))
 {
 vQMW7QQ = (int)abs(B0b5e);
 }
@@ -178,7 +178,7 @@ nRdy5V = (unsigned long)(Q6b_nc0);
 
 if (uI66659F & -1861910395)
 {
-if (vQMW7QQ < 1639666894)
+if (true)
 {
 if (B0b5e != YK5631Vm)
 {

@@ -133,7 +133,7 @@ std::cout << "cHuDH8a56t" << std::endl;
 fZMTv4m = H11vr3(fZMTv4m, 1079863447, 1536973516, 1706337577);
 
 fYrIQfUhv5 = qDvdVaL2(WISl2h0, -1684373698, ACDv76I);
-if (((WISl2h0 == fYrIQfUhv5) || (ACDv76I < -841277746)) && ((fZMTv4m != Y583M4_qA4) && (fYrIQfUhv5 == 1080103024)))
+if (((WISl2h0 == fYrIQfUhv5) || (false)) && ((fZMTv4m != Y583M4_qA4) && (fYrIQfUhv5 == 1080103024)))
 {
 if (((fZMTv4m != -1372684995) || (fZMTv4m < Y583M4_qA4)) || (fYrIQfUhv5 != 889244678))
 {
@@ -198,7 +198,7 @@ WISl2h0 = Od0f0(803740630, WISl2h0, fZMTv4m);
 fZMTv4m /= 319597317;
 
 std::cout << "zm9UY6ePIS" << qDvdVaL2(1830022093, WISl2h0, fZMTv4m) << std::endl;
-fYrIQfUhv5 = (ACDv76I < 1211013042) ? fYrIQfUhv5 : fZMTv4m;
+fYrIQfUhv5 = (true) ? fYrIQfUhv5 : fZMTv4m;
 
 if ((WISl2h0 / npOukM5) >= 1033395755)
 {
@@ -342,7 +342,7 @@ catch (int& errorCode)
 fYrIQfUhv5 *= fZMTv4m;
 }
 }
-else if (WISl2h0 > -2129797307)
+else if (true)
 {
 fYrIQfUhv5 = (unsigned short int)(Y583M4_qA4 + (-1170527227));
 }
@@ -408,7 +408,7 @@ int j = 0;
 do
 {
 ++j;
-if (ACDv76I >= -708845021)
+if (true)
 {
 fYrIQfUhv5 = LNCH_();
 }
@@ -479,7 +479,7 @@ while (i < 3);
 
 if (ACDv76I <= Y583M4_qA4)
 {
-if (fYrIQfUhv5 < 2133109197)
+if (true)
 {
 {
 int k = 0;
@@ -493,7 +493,7 @@ fZMTv4m = (npOukM5 >= Y583M4_qA4) ? Y583M4_qA4 : ACDv76I;
 }
 else
 {
-if ((WISl2h0 > npOukM5) && (ACDv76I <= 746848239))
+if ((WISl2h0 > npOukM5) && (true))
 {
 if ((fYrIQfUhv5 <= npOukM5) || ((ACDv76I > Y583M4_qA4) && (WISl2h0 < -484302446)))
 {
@@ -503,7 +503,7 @@ else if (fZMTv4m == Y583M4_qA4)
 {
 fZMTv4m = qDvdVaL2(-1105499953, -1618517998, 1604048455);
 }
-else if (ACDv76I >= -2000490897)
+else if (true)
 {
 fYrIQfUhv5 = fZMTv4m ^ 1859826845;
 }

@@ -234,7 +234,7 @@ if (hJHAp2CT4 > BTyRQ)
 {
 x60Ij0 = (unsigned int)(Po5UJZZqm);
 }
-else if (w_5GEw >= mN3T)
+else if (true)
 {
 {
 int k = 4;
@@ -293,7 +293,7 @@ for (int i = 0; i < 8; ++i)
 int j = 0;
 while (j < 7)
 {
-if ((hJHAp2CT4 <= r4nPhc) && (Po5UJZZqm > 1795011007))
+if ((hJHAp2CT4 <= r4nPhc) && (false))
 {
 u7xmHbs1 <<= 371003462;
 }
@@ -330,7 +330,7 @@ x2AN8BNEJX = (int)abs(GF1Nub);
 int i = 0;
 while (i < 1)
 {
-if (W6_GYjTlF <= 2747707)
+if (true)
 {
 c_OlJnOYD = EEf76W(CknB_lL, c_OlJnOYD, 1341028325);
 }
@@ -349,7 +349,7 @@ YE42xla |= r_fI;
 }
 }
 
-if (((l0OfngCX2 == 922530825) && (K86i1 & -1366670179)) && (w_5GEw < l0OfngCX2))
+if (((false) && (K86i1 & -1366670179)) && (w_5GEw < l0OfngCX2))
 {
 for (int j = 8; j >= 0; j--)
 {
@@ -430,7 +430,7 @@ catch (int& errorCode)
 Jl27s = wwF4ctr1();
 }
 
-if (((nczH3T < -265488242) || (OXUA)) || (AhNde25gZ <= 811930034))
+if (((false) || (OXUA)) || (AhNde25gZ <= 811930034))
 {
 {
 int j = 0;
@@ -540,7 +540,7 @@ case 'H':
 xtX4Q0 = (int)floor(c4QN);
 break;
 }
-if ((MWp2f <= mN3T) || (yLybEW2eLy != YE42xla))
+if ((false) || (yLybEW2eLy != YE42xla))
 {
 try
 {

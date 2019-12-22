@@ -224,7 +224,7 @@ int i = 2;
 do
 {
 --i;
-if (tVh82c27 >= F3KxLqdA)
+if (true)
 {
 LEjS++;
 }
@@ -249,7 +249,7 @@ break;
 }
 
 cout << "pl_BcN8K" << S3L__ << eeJua9c << endl;
-if (((nX6p) || (e6kgpHH & F3KxLqdA)) || ((PY55NnY >= 876472619) && (WnSY78g == xOEC)))
+if (((nX6p) || (e6kgpHH & F3KxLqdA)) || ((false) && (WnSY78g == xOEC)))
 {
 switch (hiPPTG_o)
 {
@@ -281,7 +281,7 @@ else
 cout << "wr2X" << endl;
 }
 
-if (nX6p != xOEC)
+if (true)
 {
 switch (hiPPTG_o)
 {
@@ -319,7 +319,7 @@ ANIzwT = J7E5Fb7 - OMkzp5D5P;
 break;
 }
 }
-if ((H7rod == -971500811) && ((U2pV8pj_M > xOEC) || (PY55NnY == 901033453)))
+if ((false) && ((U2pV8pj_M > xOEC) || (PY55NnY == 901033453)))
 {
 OG2178KY = (char)(OYgn);
 }

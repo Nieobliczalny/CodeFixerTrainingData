@@ -166,7 +166,7 @@ cout << N_T_(1039266249, 1640549317, 1556454763, JNJDA, Mm3IJi) << wrK0Y89(X_B2d
 }
 }
 
-if (c163QrcI != 1203300534)
+if (true)
 {
 for (int j = 5; j >= 0; --j)
 {
@@ -186,7 +186,7 @@ i--;
 }
 }
 
-if (QKP1rI51 != 908786595)
+if (true)
 {
 switch (Yk1D7X)
 {
@@ -236,7 +236,7 @@ try
 {
 for (int j = 2; j >= 0; j--)
 {
-if (i57L7y_eFX > i4_b4DRF)
+if (false)
 {
 C0w7cC23 = (int)floor(P8o_zk5R);
 }

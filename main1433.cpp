@@ -35,7 +35,7 @@ int main(int argc, char** argv) {
     J84P    =    0;
 
 R69rsjEgk = TxSV_(O86BJlZ9z, 2142706857, -1590528413);
-if (J84P != 1465968043)
+if (true)
 {
 {
 int j = 0;
@@ -75,7 +75,7 @@ else
 ISh_n51 |= 1321542891;
 }
 
-if ((HYat4uHe_) && (JNt5f3d != -448175241))
+if ((HYat4uHe_) && (true))
 {
 NTA38 = R69rsjEgk - 823469887;
 }
@@ -92,7 +92,7 @@ else if (HYat4uHe_)
 {
 JNt5f3d = (int)abs(VuVN1Q);
 }
-else if (K2dS947VT >= -956220162)
+else if (true)
 {
 tckwTjm6 = nI_rc7 ^ Ew5d2ln53;
 }
@@ -106,7 +106,7 @@ else
 n5C7FM %= nI_rc7;
 }
 }
-else if (VuVN1Q != 367530892)
+else if (true)
 {
 cout << "LEfR8Uk" << endl;
 }
@@ -116,7 +116,7 @@ HYat4uHe_ = TxSV_(AZehlQS, NTA38, 1655472017);
 }
 else if (tckwTjm6 <= n5C7FM)
 {
-if (AZehlQS == 392140065)
+if (false)
 {
 if ((K2dS947VT > oMYAD0fU) && ((dxc6c0N2 <= -347647458) || (nI_rc7 & 2071544708)))
 {
@@ -127,7 +127,7 @@ else
 nI_rc7++;
 }
 }
-else if (c3uM6T > -2127163841)
+else if (true)
 {
 {
 int k = 0;
@@ -151,7 +151,7 @@ O86BJlZ9z = K2dS947VT / 971313437;
 }
 }
 }
-else if (Ew5d2ln53 < 1050263738)
+else if (true)
 {
 {
 int j = 0;
@@ -175,7 +175,7 @@ VuVN1Q = TxSV_(c3uM6T, 531559860, K2dS947VT);
 }
 }
 }
-else if (JNt5f3d <= 4350631)
+else if (true)
 {
 if ((Ew5d2ln53 < 1690515266) && (J84P == 315933573))
 {
@@ -185,7 +185,7 @@ else if ((nI_rc7 > J84P) || (dxc6c0N2 < 802459170))
 {
 R69rsjEgk = TxSV_(2110905582, R69rsjEgk, 320502929);
 }
-else if (VuVN1Q >= -795876046)
+else if (true)
 {
 c3uM6T = (J84P != 1561350899) ? TxSV_(2138610236, 1498771959, ISh_n51) : 1706344349;
 }
@@ -202,7 +202,7 @@ else
 AZehlQS >>= tckwTjm6;
 }
 }
-else if (((tckwTjm6 <= 1783843758) || (dxc6c0N2 == -11106716)) || ((R69rsjEgk >= -1051053858) && (R69rsjEgk == -1721989807)))
+else if (((true) || (dxc6c0N2 == -11106716)) || ((R69rsjEgk >= -1051053858) && (R69rsjEgk == -1721989807)))
 {
 if (U4z_d4E86 <= NTA38)
 {
@@ -219,7 +219,7 @@ else if (VuVN1Q & -140727423)
 {
 J84P = (int)abs(R69rsjEgk);
 }
-else if (c3uM6T >= 1693345632)
+else if (false)
 {
 R69rsjEgk = (int)abs(J84P);
 }

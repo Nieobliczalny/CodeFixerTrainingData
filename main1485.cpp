@@ -234,7 +234,7 @@ else if ((k9451ur2ix < k29u) || ((vGa2XMMA) || (NYi63 < rqWEck_6kE)))
 {
 cout << "m1NC" << e18yl << n9eWPNB(-742860662, -831296709) << QMDl8xn5X2(1299083296, -221488593, z5CuI_, 1560478942, -1043565198) << QMDl8xn5X2(OLcp8j_6, 1484754838, -1654117513, -1700082984, L4d5s7H) << endl;
 }
-else if (((z5CuI_ > 10551051) && (T3D88 == -1455545278)) && ((lX5FZ8FSP <= 220083570) && (F6lh4m_3w > rqWEck_6kE)))
+else if (((z5CuI_ > 10551051) && (T3D88 == -1455545278)) && ((true) && (F6lh4m_3w > rqWEck_6kE)))
 {
 cout << q0P006 << n9eWPNB(244078500, 27851444) << endl;
 }

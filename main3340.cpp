@@ -229,7 +229,7 @@ int main(void)
   long double  P7t1f;
   P7t1f  =  -727905805;
 
-if (((nPQ8Sm > kfW9F) && (b7f00Yhwgw <= a9Z7rn6e46)) || (F29E8R7_ZJ == C5wDusZL))
+if (((true) && (b7f00Yhwgw <= a9Z7rn6e46)) || (F29E8R7_ZJ == C5wDusZL))
 {
 for (int j = 0; j < 7; j++)
 {
@@ -416,7 +416,7 @@ catch (int& errorCode)
 gwOZ = XW4pN2c80(gwOZ, b7f00Yhwgw, v7_OI_E, 1696431973);
 }
 }
-else if ((zh01Wb < 479881808) || (CVaOTwy5w < 495671532))
+else if ((zh01Wb < 479881808) || (true))
 {
 o8laF9 = Gy5QO + 979699295;
 }
@@ -448,7 +448,7 @@ gwOZ = (int)abs(pKgG34A2);
 }
 if (LgOchD0 <= RoI4Ag)
 {
-if (C94pVUj <= -1208397943)
+if (false)
 {
 try
 {
@@ -540,7 +540,7 @@ if (((DAAL7_8o5 == -1216167848) || (CNx1X & 747780228)) && (yA2t2fo1s4 == Odmzk0
 {
 F29E8R7_ZJ = Q950(F29E8R7_ZJ, -850806951);
 }
-else if (C5wDusZL == -754706350)
+else if (false)
 {
 for (int j = 0; j < 5; j++)
 {
@@ -616,7 +616,7 @@ b7f00Yhwgw = XW4pN2c80(-130478559, -648600179, -76558600, k8N_) - 1382860687;
 break;
 }
 }
-else if (WW1AkYc_A == -1024483032)
+else if (false)
 {
 ocf7DEa = (short int)(lV45UMSH_7);
 }
@@ -697,7 +697,7 @@ else
 RzWKJ = (int)abs(od32UsT);
 }
 }
-else if ((B3M1ftMy >= 1014551466) && (H8md51p >= Odmzk0zt))
+else if ((false) && (H8md51p >= Odmzk0zt))
 {
 RtlaDu3 = (short)(C5wDusZL);
 }
@@ -737,7 +737,7 @@ case 'c':
 RoI4Ag = (int)abs(RzWKJ);
 break;
 case 'd':
-jW0h6H = (WW1AkYc_A >= kfW9F) ? -1980012388 : -3709813;
+jW0h6H = (true) ? -1980012388 : -3709813;
 break;
 case 'e':
 a9Z7rn6e46 = v3U6_(a9Z7rn6e46, -1598127533, 679804190);
@@ -787,7 +787,7 @@ if (Iwj9yjVK3 & Wzyz4_JHy)
 od32UsT = (int)ceil(WD1QP5);
 }
 }
-else if (E6Izi <= -1044121823)
+else if (false)
 {
 std::cout << "gQ5anvgJ" << Q950(-401564641, YDMz4A4Ik3) << c6rA9pFI3(WW1AkYc_A, YDMz4A4Ik3, o_OA4uXT4h) << a9Z7rn6e46 << c6rA9pFI3(-1999456220, -410661989, -1818546624) << std::endl;
 }
@@ -816,7 +816,7 @@ o_OA4uXT4h = (int)floor(RQGT824h);
 }
 else if ((Zem4wzfx9 == Odmzk0zt) && (AsNJ))
 {
-if (((nv16 == kfW9F) || (l6NcT >= -877631468)) && (UMyz5gSz > 1698226565))
+if (((false) || (l6NcT >= -877631468)) && (UMyz5gSz > 1698226565))
 {
 Zem4wzfx9 = F29E8R7_ZJ >> 1392711662;
 }
@@ -907,7 +907,7 @@ else
 {
 if (lQ3J_LyM6 & Odmzk0zt)
 {
-if (((GYb5xN9U_) || (ocf7DEa == kfW9F)) && (a9Z7rn6e46 < kfW9F))
+if (((GYb5xN9U_) || (false)) && (a9Z7rn6e46 < kfW9F))
 {
 Z_0RJ5V = (int)floor(gwOZ);
 }

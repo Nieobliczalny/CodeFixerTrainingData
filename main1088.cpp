@@ -214,7 +214,7 @@ pQbD2SI %= 357503453;
 }
 std::cout << XtsTqVXYSS << std::endl;
 
-if (a3ZYif < -434489938)
+if (false)
 {
 if (cY1RE1MX < -772186216)
 {

@@ -178,7 +178,7 @@ Wjb0mnn = Af6D + 1408229081;
 int i = 0;
 while (i < 10)
 {
-if (aHs47R8Z > -1253606142)
+if (true)
 {
 cout << "HBHW_6vDE" << V3Z50Dl << Wn_pf << endl;
 }
@@ -293,7 +293,7 @@ OWMe0m = mcH98Eu56(OWMe0m, 675668475, -900172084, YpeXO3, -238382012);
 }
 else if (T4VhZM != ATKP3Fz5C)
 {
-if (EVzw6W43 != -1074761808)
+if (true)
 {
 ntQG80AZD = h4_X_9Ih1 * Wn_pf;
 }
@@ -349,7 +349,7 @@ else if (f_1_jlG < ATKP3Fz5C)
 {
 X2t9d = (unsigned short)(ATKP3Fz5C + (-8869549));
 }
-else if ((tPnWAyw5Ae == ATKP3Fz5C) || (O685 > -1740617791))
+else if ((tPnWAyw5Ae == ATKP3Fz5C) || (true))
 {
 {
 int k = 0;
@@ -415,7 +415,7 @@ mCX749tz = (int)abs(geih);
 break;
 }
 
-if (((Fjm97pNu > hB6CrxW) && (Kw6F != -1610006541)) || (w_9T0D2fyK != ATKP3Fz5C))
+if (((Fjm97pNu > hB6CrxW) && (true)) || (w_9T0D2fyK != ATKP3Fz5C))
 {
 EsaTfLPpWM = (int)ceil(vbr4F);
 }

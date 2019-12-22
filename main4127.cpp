@@ -149,7 +149,7 @@ Ihrc2P9 = W0qAz_(ku1Nus5, z5x1scnTm, MtyD, -131560724) / lGuE9nIy0j;
 LuDt_--;
 N4R39n44 -= d_4M;
 
-if (XfQJ == 1231499618)
+if (false)
 {
 g89p = e8NC2I823(1266697554);
 }
@@ -288,7 +288,7 @@ E7_0tSJP = (int)floor(BR4Pscuv);
 
 std::cout << bVdDi1k << std::endl;
 
-if (Gw814gwQai < -1422065713)
+if (false)
 {
 std::cout << rdPd52g2_q << e8NC2I823(bVdDi1k) << "ITFc6d" << E4J5y << std::endl;
 }

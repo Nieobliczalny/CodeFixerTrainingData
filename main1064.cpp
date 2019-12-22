@@ -60,7 +60,7 @@ int i = 0;
 while (i < 7)
 {
 ++i;
-if (Qj0Or8p55 <= -645855384)
+if (false)
 {
 if (jHG2 == z98Y)
 {
@@ -78,7 +78,7 @@ else
 {
 jHG2 += 2081887832;
 }
-if ((fWOmA1Db <= kLh94) && ((Nl3m3sTMB5 < 1258639222) && (IL090pa9y == L5ym2K3)))
+if ((fWOmA1Db <= kLh94) && ((true) && (IL090pa9y == L5ym2K3)))
 {
 {
 int j = 6;
@@ -111,7 +111,7 @@ do
 int j = 1;
 do
 {
-if ((z98Y) && ((Qj0Or8p55 != iH9V2a5) && (CCIZ9 < 1981641527)))
+if ((z98Y) && ((Qj0Or8p55 != iH9V2a5) && (true)))
 {
 FVare = j0PKXk();
 }
@@ -174,7 +174,7 @@ if (fWOmA1Db)
 {
 IL090pa9y = j0PKXk();
 }
-else if (CCIZ9 < Eghu)
+else if (false)
 {
 std::cout << kLh94 << std::endl;
 }

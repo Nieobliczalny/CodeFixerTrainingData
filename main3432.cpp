@@ -33,7 +33,7 @@ int main(void)
 std::cout << xHJ88U4yH << std::endl;
 if (CNn9i != w41u3h36_)
 {
-if (CNn9i > -2123779001)
+if (true)
 {
 w41u3h36_ = (xHJ88U4yH == 1029555127) ? cZ51Ykg6(953562101, Ie6IT_z, 1480963931) : CNn9i;
 }
@@ -91,7 +91,7 @@ break;
 }
 Ah9F_Hv3 = (short int)(CNn9i);
 
-if (Ah9F_Hv3 != -1853899786)
+if (true)
 {
 CNn9i = (short int)(wt489g);
 }
@@ -109,7 +109,7 @@ k++;
 while (k < 6);
 }
 }
-else if ((UC22vFrrR > 896366176) && (w41u3h36_ > -2117394246))
+else if ((false) && (w41u3h36_ > -2117394246))
 {
 if ((CNn9i != -620174637) && ((Ah9F_Hv3 < 832627034) && (w41u3h36_ == 1322947395)))
 {
@@ -120,7 +120,7 @@ else
 Ie6IT_z += 782611315;
 }
 }
-else if (w41u3h36_ <= -582386575)
+else if (false)
 {
 UC22vFrrR = (short int)(xHJ88U4yH + (96272375));
 }
@@ -151,7 +151,7 @@ Ie6IT_z = n44YJ(-1468904410, -1614858825, w41u3h36_, xHJ88U4yH);
 }
 }
 }
-else if ((xHJ88U4yH != 1570961418) || (UC22vFrrR != 308710145))
+else if ((xHJ88U4yH != 1570961418) || (true))
 {
 std::cout << oOy6805(-750668221) << Ie6IT_z << std::endl;
 }
@@ -168,7 +168,7 @@ if (w41u3h36_ != xHJ88U4yH)
 {
 xHJ88U4yH = cZ51Ykg6(w41u3h36_, -648797111, Ie6IT_z);
 }
-else if ((xHJ88U4yH >= Ah9F_Hv3) || ((CNn9i) && (wt489g >= 991714999)))
+else if ((xHJ88U4yH >= Ah9F_Hv3) || ((CNn9i) && (false)))
 {
 Ah9F_Hv3 >>= 1542513880;
 }
@@ -201,7 +201,7 @@ wt489g = n44YJ(301084386, -1976566407, CNn9i, -98395437);
 break;
 }
 }
-else if (Ie6IT_z == 789105418)
+else if (false)
 {
 CNn9i = (short int)(UC22vFrrR);
 }
@@ -249,7 +249,7 @@ else
 Ie6IT_z = (short int)(Ah9F_Hv3);
 }
 }
-else if (((CNn9i >= -2043325435) && (Ie6IT_z != -1511432846)) && (Ah9F_Hv3 != -813999069))
+else if (((true) && (Ie6IT_z != -1511432846)) && (Ah9F_Hv3 != -813999069))
 {
 std::cout << n44YJ(1223108730, Ah9F_Hv3, xHJ88U4yH, -381169661) << Ie6IT_z << "B6of" << oOy6805(15078974) << "UY4Xx_" << std::endl;
 }
@@ -268,7 +268,7 @@ if (((Ah9F_Hv3 >= UC22vFrrR) || (xHJ88U4yH < 246729955)) && ((UC22vFrrR & Ah9F_H
 {
 Ah9F_Hv3 >>= CNn9i;
 }
-else if (w41u3h36_ == -1683672993)
+else if (false)
 {
 CNn9i += 1797373993;
 }
@@ -286,7 +286,7 @@ else if (CNn9i & 733113288)
 {
 UC22vFrrR = wt489g / 1475289297;
 }
-else if (Ah9F_Hv3 >= 402710970)
+else if (false)
 {
 w41u3h36_ = G86Go(-1202102755, w41u3h36_, 1993769213, UC22vFrrR, Ah9F_Hv3);
 }
@@ -296,7 +296,7 @@ if ((wt489g) || ((Ah9F_Hv3 == Ie6IT_z) && (xHJ88U4yH > w41u3h36_)))
 {
 w41u3h36_ = (int)abs(CNn9i);
 }
-else if ((w41u3h36_ != 2092695790) && (CNn9i > 283982486))
+else if ((true) && (CNn9i > 283982486))
 {
 Ie6IT_z = (int)abs(xHJ88U4yH) + (-482169115);
 }
@@ -306,7 +306,7 @@ UC22vFrrR = n44YJ(-234159022, w41u3h36_, 1182871100, xHJ88U4yH);
 }
 else if (UC22vFrrR >= -1737246068)
 {
-if ((Ah9F_Hv3 < UC22vFrrR) && (Ah9F_Hv3 == -1663279636))
+if ((Ah9F_Hv3 < UC22vFrrR) && (false))
 {
 UC22vFrrR = (int)abs(Ah9F_Hv3);
 }
@@ -336,7 +336,7 @@ try
 {
 if (xHJ88U4yH < -1143486397)
 {
-if (Ah9F_Hv3 <= -533491526)
+if (false)
 {
 CNn9i &= 1877903890;
 }
@@ -408,7 +408,7 @@ Ah9F_Hv3 = G86Go(xHJ88U4yH, 1892287539, w41u3h36_, -990439220, UC22vFrrR);
 }
 else
 {
-if (Ah9F_Hv3 >= -479734331)
+if (true)
 {
 CNn9i = oOy6805(CNn9i);
 }
@@ -494,7 +494,7 @@ case 'b':
 CNn9i *= UC22vFrrR;
 break;
 case 'c':
-CNn9i = (w41u3h36_ == 2071664379) ? 828707379 : -1665239044;
+CNn9i = (false) ? 828707379 : -1665239044;
 break;
 case 'd':
 CNn9i = oOy6805(CNn9i);
@@ -507,7 +507,7 @@ CNn9i = oOy6805(-1744893588);
 break;
 }
 }
-else if (w41u3h36_ != -424848584)
+else if (true)
 {
 Ie6IT_z = (short int)(UC22vFrrR);
 }
@@ -525,7 +525,7 @@ while (k >= 0);
 }
 }
 
-if (UC22vFrrR > -2037387450)
+if (true)
 {
 for (int j = 0; j < 9; j++)
 {
@@ -535,7 +535,7 @@ xHJ88U4yH = cZ51Ykg6(1109141313, 1562591019, 858477752);
 }
 }
 }
-else if ((Ah9F_Hv3 != UC22vFrrR) && (CNn9i == -1260952285))
+else if ((Ah9F_Hv3 != UC22vFrrR) && (false))
 {
 UC22vFrrR = oOy6805(883745535);
 }
@@ -581,7 +581,7 @@ while (i >= 0);
 
 UC22vFrrR = xHJ88U4yH >> 1990779649;
 
-if (Ie6IT_z == -1724871079)
+if (false)
 {
 std::cout << cZ51Ykg6(wt489g, CNn9i, 575820939) << "opei0s7d3" << "RcUhHi" << std::endl;
 }

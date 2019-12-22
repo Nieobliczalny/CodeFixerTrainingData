@@ -228,7 +228,7 @@ break;
 }
 cout << zoWtN_0 << u70n << sGiw0E << endl;
 
-if ((LOQr2 > 1581649800) || (ytgccgM > OeO1l))
+if ((false) || (ytgccgM > OeO1l))
 {
 if ((a7w4 & X0j9) && (AMS_zr6 >= -1974773684))
 {
@@ -370,7 +370,7 @@ break;
 WN5_4Nm_1 = -1821766957 / sJA9obZ0TH;
 try
 {
-if ((u9rpPka < 1606499003) || ((DoZC9o22) || (hQCN6v88I0 > 2033011106)))
+if ((true) || ((DoZC9o22) || (hQCN6v88I0 > 2033011106)))
 {
 G_0X2l9LIu = Mp_V | 1316783075;
 }

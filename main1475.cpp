@@ -132,7 +132,7 @@ mm5h = Ssf5F35c(i39oX0A, 1632354501);
 c4Qu7Vs = (short)(Ih_2g0852 + (-1152162393));
 for (int i = 5; i >= 0; --i)
 {
-if (P1_VLnv == 198193653)
+if (false)
 {
 Du0Q2LGv5 = (short)(d6JwrO);
 }
@@ -142,7 +142,7 @@ if (i39oX0A & 1066867324)
 {
 CzU9g_dXn4 = r_h3(CzU9g_dXn4, vT0k);
 }
-else if (Rnql > L6GpXt9E)
+else if (true)
 {
 XCs_y_5Eu = Ssf5F35c(vG013Z, Du0Q2LGv5);
 }
@@ -182,7 +182,7 @@ k++;
 }
 }
 }
-else if (((A2ZD) && (Co65ei_7 < 1737653464)) && (f_ZANwNO0 & 1016376902))
+else if (((A2ZD) && (true)) && (f_ZANwNO0 & 1016376902))
 {
 f_ZANwNO0 = r_h3(1921440091, dBW37p5_);
 }

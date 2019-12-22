@@ -294,7 +294,7 @@ while (i < 9)
 {
 if (z33j != 117394754)
 {
-if ((fD_XI2 < 1395417653) || ((l97Pro1) && (p2aOBG != -6923813)))
+if ((true) || ((l97Pro1) && (p2aOBG != -6923813)))
 {
 u6Qvs6S++;
 }
@@ -339,7 +339,7 @@ while (k < 7);
 }
 else
 {
-if (gDs89 < -1979984227)
+if (false)
 {
 hh27A0lAtw = ugU2 & Am1D2I;
 }
@@ -413,7 +413,7 @@ else
 Am1D2I = aC1DpHrp << PY5y3beN_;
 }
 }
-else if ((yfcIbbC >= 2087243961) && ((Ef813CHrM) && (Q1_sQcg6_g >= Xuue)))
+else if ((false) && ((Ef813CHrM) && (Q1_sQcg6_g >= Xuue)))
 {
 t_1k = (int)abs(p2aOBG) + (-338229301);
 }

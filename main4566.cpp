@@ -323,7 +323,7 @@ while (i < 4)
 ++i;
 try
 {
-if (Xyx1K7LX < -1525875245)
+if (false)
 {
 sH_K9SN9xL = bkHJT | M_JKJuI;
 }

@@ -165,7 +165,7 @@ std::cout << "USF32" << u5CQY << b6854 << uADTW16N << t9wq44WVDw(-1927132143, k9
 }
 u5CQY = (short)(L51ygJ);
 std::cout << "F_UaT" << LKnt() << b0CyE25He0() << R1M5I9zln0 << std::endl;
-if (Wr44Pb1 == n8929DBb)
+if (false)
 {
 if ((WEjolX == -1633647232) && ((V58Z) && (k92k6PCZz > WEjolX)))
 {
@@ -197,7 +197,7 @@ else if (zL786f >= UDAfM6)
 {
 B__V3++;
 }
-else if (u5CQY >= 645901965)
+else if (false)
 {
 t_6Vu_ = t9wq44WVDw(t_6Vu_, R1M5I9zln0);
 }
@@ -214,7 +214,7 @@ e42IW_ = b0CyE25He0();
 
 std::cout << "LDlaO4a" << std::endl;
 B__V3 = Q04u0ZWsom + g_gKqTZ;
-if ((c4V2wtF <= 1687544971) && (j605 != UDAfM6))
+if ((true) && (j605 != UDAfM6))
 {
 for (int j = 0; j < 6; j++)
 {
@@ -228,7 +228,7 @@ R1M5I9zln0 = b0CyE25He0();
 }
 }
 }
-else if (j605 != 895429837)
+else if (true)
 {
 switch (T36M)
 {
@@ -242,7 +242,7 @@ case 2:
 V58Z = b0CyE25He0();
 break;
 case 3:
-grJYKh6_7Y = (P_15 == -899837564) ? -1113817176 : n8929DBb;
+grJYKh6_7Y = (false) ? -1113817176 : n8929DBb;
 break;
 case 4:
 B__V3 %= 20644541;
@@ -357,7 +357,7 @@ while (k >= 0);
 }
 else if (L51ygJ)
 {
-if (P_15 >= Y99v3)
+if (true)
 {
 uADTW16N >>= 1635823724;
 }

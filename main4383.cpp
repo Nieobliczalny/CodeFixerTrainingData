@@ -81,7 +81,7 @@ try
 {
 if (VJnQr4h == jTkY87)
 {
-if (((YVicXlS54) || (TC1KzE_ == jTkY87)) && (av_28JkK6_ < C56XS5))
+if (((YVicXlS54) || (false)) && (av_28JkK6_ < C56XS5))
 {
 UHZp = (int)ceil(VJnQr4h);
 }

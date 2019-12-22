@@ -186,7 +186,7 @@ else if (GkQLq729n < io9q2Uy82j)
 {
 std::cout << X18vlnib7 << KxQW93dZ << std::endl;
 }
-else if (KxQW93dZ <= AlFz876)
+else if (false)
 {
 for (int j = 2; j >= 0; j--)
 {
@@ -201,7 +201,7 @@ while (k >= 0);
 }
 }
 }
-else if (OX43XrDQ > -1820190257)
+else if (true)
 {
 o_xhtp87 = (int)abs(bG00BN);
 }
@@ -271,7 +271,7 @@ catch (int& errorCode)
 GkQLq729n = (int)ceil(KV4hq50r);
 }
 }
-else if (pbC4 < -862261589)
+else if (false)
 {
 std::cout << EQcxyZzgE << "m7ka3" << GkQLq729n << "QJxHu8Z" << "RTFu" << std::endl;
 }
@@ -305,7 +305,7 @@ bG00BN = (int)ceil(p_u9mcg);
 while (k >= 0);
 }
 }
-else if (J044 < AlFz876)
+else if (false)
 {
 X18vlnib7 = Y6P3d2(X18vlnib7, 1201231529, 1074999935, KV4hq50r, bG00BN);
 }

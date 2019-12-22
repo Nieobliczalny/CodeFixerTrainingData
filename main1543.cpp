@@ -236,7 +236,7 @@ if (DXxE >= Sk07xt3)
 {
 std::cout << e353 << W71tEtFy << bNQYZY6 << std::endl;
 }
-else if (((hq45AONXQt <= -1525052556) && (u6lW78 <= WK4W8Wt)) && (Xtgbt0Dj1 < Sk07xt3))
+else if (((hq45AONXQt <= -1525052556) && (u6lW78 <= WK4W8Wt)) && (true))
 {
 RWfULRuJ = B_hNvctF / p7jo;
 }

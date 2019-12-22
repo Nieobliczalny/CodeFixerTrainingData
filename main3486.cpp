@@ -128,7 +128,7 @@ int i = 0;
 do
 {
 ++i;
-if (tfNMlpVD9 < 1390357588)
+if (true)
 {
 for (int k = 6; k >= 0; --k)
 {
@@ -159,7 +159,7 @@ std::cout << E40o << "F_3Z6" << "OL9Oq" << w3K8(-613120513, c14uQvi, 779361099) 
 }
 else
 {
-if ((JPxboIcUR != 893850028) || ((q9_kV <= ktT5PVO) && (vPVm1H18 & xl_Uvc6Pm)))
+if ((true) || ((q9_kV <= ktT5PVO) && (vPVm1H18 & xl_Uvc6Pm)))
 {
 DBpT375 = (int)ceil(z4DIzsQ);
 }
@@ -198,7 +198,7 @@ std::cout << c14uQvi << std::endl;
 }
 if (yaX8 != -1476837061)
 {
-if ((mjCpTx39_x > -2110872980) && ((AZE8_D3v3 < 23408956) || (aNz6Ac990n < 137378729)))
+if ((true) && ((AZE8_D3v3 < 23408956) || (aNz6Ac990n < 137378729)))
 {
 aFPww57W9--;
 }

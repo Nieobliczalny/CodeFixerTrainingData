@@ -332,7 +332,7 @@ v4S_P = nkT_d(j789e58iw, -1493842038, -1441180044) + hEP3;
 while (j < 9);
 }
 }
-else if ((iFyOv1v8_ != 1898744650) && (prcriKCs2B <= 909840375))
+else if ((iFyOv1v8_ != 1898744650) && (true))
 {
 prcriKCs2B = nkT_d(av414, -21124917, hjlSZ4Dhu5);
 }

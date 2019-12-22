@@ -63,7 +63,7 @@ while (i >= 0);
 
 Pa7aBx20 = (unsigned short)(QOFo0 * Pa7aBx20);
 
-if (((QOFo0 <= Pa7aBx20) && (Rb8NXn6 > SVr2Z0di)) && ((j33f9t < -1504764863) && (ggL450H <= 1760645084)))
+if (((QOFo0 <= Pa7aBx20) && (Rb8NXn6 > SVr2Z0di)) && ((false) && (ggL450H <= 1760645084)))
 {
 ggL450H <<= 1649647986;
 }
@@ -86,7 +86,7 @@ break;
 }
 }
 
-if (j33f9t > 927182033)
+if (false)
 {
 for (int j = 10; j >= 0; j--)
 {
@@ -101,7 +101,7 @@ ggL450H = iZ8z6Xu(-1953434800, -1569400210, QOFo0, Rb8NXn6);
 }
 }
 
-if (Rb8NXn6 < 778844732)
+if (true)
 {
 switch (VX2xS_)
 {
@@ -164,7 +164,7 @@ XEpL = bUxBKe7i0u(XEpL);
 break;
 }
 
-if (((SVr2Z0di > 1400452948) || (ggL450H == 21088729)) && (j33f9t >= SVr2Z0di))
+if (((SVr2Z0di > 1400452948) || (false)) && (j33f9t >= SVr2Z0di))
 {
 VX2xS_ = (unsigned long long)(Pa7aBx20 + (1444946311));
 }
@@ -176,7 +176,7 @@ else if (XEpL == 855241823)
 {
 ggL450H = (XEpL <= ggL450H) ? bUxBKe7i0u(208061623) : -320271127;
 }
-else if ((j8_pMV65kq & 782683066) && (ggL450H < -1082953147))
+else if ((j8_pMV65kq & 782683066) && (false))
 {
 j33f9t = wV963zr(-1036107434, Pa7aBx20, 663889041);
 }
@@ -211,7 +211,7 @@ if (Rb8NXn6 < ggL450H)
 {
 Rb8NXn6 = DGEgANGIej(242110211, VX2xS_, 771648857, QOFo0, j8_pMV65kq);
 }
-else if (j33f9t > -710357279)
+else if (true)
 {
 ggL450H = (int)abs(SVr2Z0di);
 }
@@ -344,7 +344,7 @@ break;
 }
 
 QOFo0 = Vv3o1j() - 1663618983;
-if (Rb8NXn6 < -1688887280)
+if (false)
 {
 std::cout << "GBm8wek" << j33f9t << std::endl;
 }
@@ -500,7 +500,7 @@ VX2xS_ = iZ8z6Xu(-1061615045, j8_pMV65kq, -2129865793, -691293409);
 break;
 }
 }
-else if (((XEpL < 1012150399) || (Pa7aBx20 >= 596129968)) && (Pa7aBx20))
+else if (((XEpL < 1012150399) || (false)) && (Pa7aBx20))
 {
 if (j33f9t == Rb8NXn6)
 {
@@ -567,7 +567,7 @@ XEpL %= 249694530;
 }
 else
 {
-if (((ggL450H != -398191106) || (ggL450H != SVr2Z0di)) || (XEpL == 1217397280))
+if (((true) || (ggL450H != SVr2Z0di)) || (XEpL == 1217397280))
 {
 j8_pMV65kq |= j33f9t;
 }
@@ -581,7 +581,7 @@ else if (VX2xS_)
 {
 XEpL = iZ8z6Xu(-235507016, ggL450H, Pa7aBx20, -758651919);
 }
-else if (j33f9t <= -1157820346)
+else if (false)
 {
 std::cout << "cw5_g" << "S4dik" << DGEgANGIej(XEpL, -1675632173, 849009798, VX2xS_, 39528083) << "JWkQ" << "Oxt50c" << std::endl;
 }

@@ -110,7 +110,7 @@ cout << "vDe45" << "Vg_TswI" << Nj9337S << endl;
 while (i < 9);
 }
 
-if (UXvvn3 != 1854137779)
+if (true)
 {
 if (((xTUDE >= E7N3vta6_R) && (U9j2Jv254 > Vz58)) || ((xTUDE > UXvvn3) || (Nj9337S >= U9j2Jv254)))
 {
@@ -148,7 +148,7 @@ break;
 }
 else
 {
-if (mKys5O7 > E7N3vta6_R)
+if (false)
 {
 mKys5O7 = (int)abs(Nj9337S);
 }
@@ -184,7 +184,7 @@ break;
 }
 else if ((t7p67lo0ky < Vz58) || (Vz58 > Nj9337S))
 {
-if (mKys5O7 != 1585494395)
+if (true)
 {
 mKys5O7 = dI6O1_(-1584854687);
 }
@@ -198,7 +198,7 @@ else if (t7p67lo0ky > 1941261570)
 {
 mKys5O7 <<= 626494701;
 }
-else if ((mKys5O7 != lX0t) || (t7p67lo0ky & lX0t))
+else if ((true) || (t7p67lo0ky & lX0t))
 {
 t7p67lo0ky *= 1221929615;
 }
@@ -210,7 +210,7 @@ else if (Nj9337S != lX0t)
 {
 mKys5O7 = (int)abs(Vz58) + (-874866594);
 }
-else if (UXvvn3 < WH8glb)
+else if (false)
 {
 t7p67lo0ky /= UXvvn3;
 }
@@ -236,7 +236,7 @@ else
 {
 if ((UXvvn3) && ((Vz58) || (Vz58)))
 {
-if (U9j2Jv254 >= -1048790894)
+if (true)
 {
 t7p67lo0ky = dI6O1_(t7p67lo0ky);
 }
@@ -280,7 +280,7 @@ Vz58 = iCz04(U9j2Jv254);
 }
 for (int i = 0; i < 2; i++)
 {
-if (((UXvvn3 == XvdZeBw) || (xTUDE <= -104648376)) && (t7p67lo0ky == UXvvn3))
+if (((UXvvn3 == XvdZeBw) || (false)) && (t7p67lo0ky == UXvvn3))
 {
 if (Vz58 >= WH8glb)
 {
@@ -298,7 +298,7 @@ else if (mKys5O7 & 532370230)
 {
 t7p67lo0ky = FL64_ea9(1812543978, UXvvn3);
 }
-else if ((xTUDE <= lX0t) || ((mKys5O7) || (Vz58 > lX0t)))
+else if ((true) || ((mKys5O7) || (Vz58 > lX0t)))
 {
 Nj9337S = Nj9337S - 750634735;
 }
@@ -410,7 +410,7 @@ else if (U9j2Jv254 > xTUDE)
 {
 U9j2Jv254 = (unsigned short int)(XvdZeBw + (-709481064));
 }
-else if (UXvvn3 <= Du6562Ho_5)
+else if (false)
 {
 if ((UXvvn3 == 988538241) || (Nj9337S > t7p67lo0ky))
 {
@@ -421,7 +421,7 @@ else
 mKys5O7 = (int)abs(Nj9337S);
 }
 }
-else if (mKys5O7 <= -1938705576)
+else if (false)
 {
 switch (Vz58)
 {
@@ -514,7 +514,7 @@ do
 switch (t7p67lo0ky)
 {
 case 0:
-Nj9337S = (xTUDE == Du6562Ho_5) ? -750512818 : U9j2Jv254;
+Nj9337S = (false) ? -750512818 : U9j2Jv254;
 break;
 case 1:
 t7p67lo0ky = fMbDmo(t7p67lo0ky, xTUDE, -734086099, 1972114797, 1381729836);
@@ -532,7 +532,7 @@ while (j >= 0);
 }
 
 xTUDE = mKys5O7 / Vz58;
-if (U9j2Jv254 > WH8glb)
+if (true)
 {
 if ((t7p67lo0ky != Vz58) || (t7p67lo0ky == WH8glb))
 {
@@ -544,7 +544,7 @@ else if (U9j2Jv254 < Nj9337S)
 {
 Nj9337S = G5fuy3YHo(1690877129, xTUDE, U9j2Jv254, t7p67lo0ky, 1755244061);
 }
-else if (((xTUDE < lX0t) && (Nj9337S <= xTUDE)) || (UXvvn3 > Vz58))
+else if (((true) && (Nj9337S <= xTUDE)) || (UXvvn3 > Vz58))
 {
 mKys5O7 = dI6O1_(-227171550);
 }
@@ -703,7 +703,7 @@ int i = 0;
 do
 {
 ++i;
-if (xTUDE <= Du6562Ho_5)
+if (false)
 {
 switch (t7p67lo0ky)
 {

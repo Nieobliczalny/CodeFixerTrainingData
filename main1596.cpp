@@ -324,7 +324,7 @@ case 'b':
 g_g7 = (int)floor(dFpkDaaklG);
 break;
 case 'c':
-dFpkDaaklG = (bbZJR064y < a1lJo7ZN) ? EX3w : YK_i_;
+dFpkDaaklG = (false) ? EX3w : YK_i_;
 break;
 case 'd':
 qWsKmb1_Dn = (int)ceil(RgyPyqd);
@@ -357,7 +357,7 @@ RgyPyqd = (int)floor(g_g7);
 }
 while (i >= 0);
 }
-if (OmZyb < a1lJo7ZN)
+if (false)
 {
 {
 int j = 9;

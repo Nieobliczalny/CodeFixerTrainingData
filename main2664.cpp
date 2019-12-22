@@ -145,7 +145,7 @@ if (k0itl >= -1499317918)
 {
 T_O6ao7eqJ = (unsigned long)(f0ORmjN);
 }
-else if (((f0ORmjN >= n0202A_6) || (X7sg_ <= pm7l1_5To)) && (pNRu3VmH3 > fmBtEPje))
+else if (((f0ORmjN >= n0202A_6) || (false)) && (pNRu3VmH3 > fmBtEPje))
 {
 std::cout << "Zyjp6f" << "eEkj" << "TLKG" << "vGSTyA7p" << v8nZsd4Gnv(1256301470, -1140798248) << std::endl;
 }
@@ -161,7 +161,7 @@ else if (RYPm2bw7z)
 {
 ehMDU5o |= 1043537489;
 }
-else if ((pNRu3VmH3 == -2088291594) || (T3k6LhB & qSvuX))
+else if ((false) || (T3k6LhB & qSvuX))
 {
 Vg0t4WB3zK = (int)ceil(dcmQP_Y);
 }
@@ -407,7 +407,7 @@ else
 std::cout << "n82H_YR3b" << std::endl;
 }
 
-if (((f0ORmjN < -1881388280) && (BKm396p2 >= 274838498)) || (S14wP_Z < KM81D26_))
+if (((f0ORmjN < -1881388280) && (false)) || (S14wP_Z < KM81D26_))
 {
 if (((W1ag4E > 306003099) && (KOL60QsD < KqPD)) || (OmA58 != fmBtEPje))
 {
@@ -442,7 +442,7 @@ e2_s4OhrN = (int)ceil(oRlUj);
 }
 
 o7RsE = (int)floor(oRlUj);
-if (YNptz2LH == fmBtEPje)
+if (false)
 {
 {
 int j = 0;
@@ -496,7 +496,7 @@ o7RsE = (int)ceil(Vg0t4WB3zK);
 }
 else if (T_O6ao7eqJ > LQ7x2aA00_)
 {
-if (((j_H569pzL != -869565848) && (q61o & -2049639252)) && ((OmA58 & e0Fas) && (AJJARDyRJ & n0202A_6)))
+if (((true) && (q61o & -2049639252)) && ((OmA58 & e0Fas) && (AJJARDyRJ & n0202A_6)))
 {
 {
 int k = 0;
@@ -525,7 +525,7 @@ else if (PoKljKx <= RYPm2bw7z)
 {
 YA0g = Y_2mcEJV << zQE32S_b0t;
 }
-else if ((k04MR3y > KqPD) && ((BKm396p2 < -539217944) || (KM81D26_ > n0202A_6)))
+else if ((k04MR3y > KqPD) && ((false) || (KM81D26_ > n0202A_6)))
 {
 oRlUj = (int)abs(dZ93k7s69);
 }
@@ -779,7 +779,7 @@ else if (iWraTK_ < k0itl)
 {
 W18az68Z6Y = (int)abs(mdB7Or0);
 }
-else if (h69qGGKoB == -111958192)
+else if (false)
 {
 rzA1Ppp1 = JW0Wb();
 }
@@ -809,7 +809,7 @@ w1Mayl = Q_5W(-617122880);
 }
 else
 {
-if (yQ57_ >= 477744205)
+if (false)
 {
 e2_s4OhrN = RHHM * F9va;
 }
@@ -949,7 +949,7 @@ else if (S14wP_Z <= ngC3hh1)
 {
 CmYa9 = (LOVLJ > k04MR3y) ? -1282572798 : RBsRRJK77;
 }
-else if (((BKm396p2 <= 1666576367) || (B7okgkQlv8 >= BtM4a9)) && (rzA1Ppp1 > 1869317960))
+else if (((true) || (B7okgkQlv8 >= BtM4a9)) && (rzA1Ppp1 > 1869317960))
 {
 oRlUj = (int)floor(q15X6m);
 }
@@ -966,7 +966,7 @@ std::cout << zDwH(gzXdP9, f0ORmjN, vlO6A, ICbbF55) << "dD6iT0t74d" << v8nZsd4Gnv
 }
 else
 {
-if (F9va >= pm7l1_5To)
+if (true)
 {
 switch (W6nY)
 {

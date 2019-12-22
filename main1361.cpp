@@ -376,7 +376,7 @@ break;
 int i = 2;
 while (i >= 0)
 {
-if ((G_8DgAY_0 <= -646310311) && (g83UEI3Z7Y > zQ3q3))
+if ((G_8DgAY_0 <= -646310311) && (true))
 {
 cout << "eRgu" << "g24_" << hxbM0Cp << "ZJ757_Sx" << "v71jh_838" << endl;
 }
@@ -409,7 +409,7 @@ cout << "Z5_0N8s" << endl;
 }
 else if (WV5g74 != Ur4VI5)
 {
-if ((NjBOl1 != -1984263880) || (G_cRvEk7Ay >= U294FcY))
+if ((true) || (G_cRvEk7Ay >= U294FcY))
 {
 olf0U3_k3 &= DfH_TJ03WL;
 }
@@ -539,7 +539,7 @@ catch (int& errorCode)
 G_8DgAY_0 -= 1269105970;
 }
 }
-else if (Mp82 != -492358391)
+else if (true)
 {
 cout << bSO5 << "x_1S" << "UvphZ" << endl;
 }
@@ -590,7 +590,7 @@ if ((bSO5 > ZeHnf) && ((k0d_Ku4Z) || (aW19Yl)))
 {
 G_8DgAY_0 = (int)abs(K56n);
 }
-else if ((WV5g74 != -876717099) && (aW19Yl < -1924162699))
+else if ((true) && (aW19Yl < -1924162699))
 {
 G_cRvEk7Ay = H_fY ^ olf0U3_k3;
 }
@@ -633,7 +633,7 @@ if (G_cRvEk7Ay > Dly2bhty6)
 {
 aW19Yl = nADByD() + 1035224765;
 }
-else if ((Yoy__zRVdF == Dly2bhty6) || ((Y28q6 <= Dly2bhty6) || (U294FcY <= -1270726002)))
+else if ((false) || ((Y28q6 <= Dly2bhty6) || (U294FcY <= -1270726002)))
 {
 if (sCeRaFPaEn)
 {
@@ -646,7 +646,7 @@ if ((h5nfpgK32G) && (oL9lIBo < Dly2bhty6))
 {
 QZRWz = ZeHnf % 112756770;
 }
-else if (Yoy__zRVdF >= Ta7Hq2C)
+else if (true)
 {
 switch (cs82w)
 {

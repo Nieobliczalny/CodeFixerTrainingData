@@ -226,7 +226,7 @@ h02u02--;
 C5X2 ^= 894259253;
 for (int i = 0; i < 3; ++i)
 {
-if (w1g5_ != -1080988398)
+if (true)
 {
 {
 int k = 0;
@@ -240,7 +240,7 @@ while (k < 7);
 }
 else
 {
-if (v_ZE <= 27208156)
+if (true)
 {
 LzG85_1 = Yy11Y54j9M * Q5jjh7;
 }

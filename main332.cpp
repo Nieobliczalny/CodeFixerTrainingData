@@ -186,7 +186,7 @@ catch (int& errorCode)
 {
 wa4mHWZAB = lDXxkO8v_E(-1963851515);
 }
-if (eq8OF5 == 1424114883)
+if (false)
 {
 {
 int j = 0;
@@ -296,7 +296,7 @@ if (((IH7Pc >= 101321796) || (UWr__ < AP402_8Aua)) || (mHT2mQJWm4 > -1313944918)
 int k = 2;
 do
 {
-VrPUlsawN = (eq8OF5 >= 1207971305) ? A7XmOa : lDXxkO8v_E(-551356153);
+VrPUlsawN = (false) ? A7XmOa : lDXxkO8v_E(-551356153);
 --k;
 }
 while (k >= 0);
@@ -308,7 +308,7 @@ UWr__ = (int)floor(Q1Qa322);
 }
 else
 {
-if (gO56P_3 < -1405739887)
+if (false)
 {
 Tz208Eqp = lDXxkO8v_E(Tz208Eqp);
 }

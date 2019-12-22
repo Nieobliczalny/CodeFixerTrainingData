@@ -304,7 +304,7 @@ i--;
 
 for (int i = 2; i >= 0; i--)
 {
-if (pEgd92 >= of_W0)
+if (false)
 {
 if (yAvP > N9Cx)
 {
@@ -352,7 +352,7 @@ for (int i = 10; i >= 0; --i)
 {
 for (int j = 0; j < 10; ++j)
 {
-if ((Abon <= HyV14so_) && ((THtvFV > efBv0J) && (Yw3o == 252213445)))
+if ((Abon <= HyV14so_) && ((false) && (Yw3o == 252213445)))
 {
 BsIzm = (int)ceil(JF6b);
 }

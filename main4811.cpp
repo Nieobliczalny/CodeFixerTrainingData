@@ -164,7 +164,7 @@ int main(int argc, char** argv) {
 int i = 0;
 do
 {
-if (((aDC0 <= HjEmJo15S) || (Hn_YN0A1_5 & 1165672740)) && ((Hn_YN0A1_5 > -84891551) || (evKeW29z3K & Q_3Q9b4)))
+if (((aDC0 <= HjEmJo15S) || (Hn_YN0A1_5 & 1165672740)) && ((true) || (evKeW29z3K & Q_3Q9b4)))
 {
 p024 = (int)abs(Q21i5IxgQD);
 }
@@ -252,7 +252,7 @@ default:
 LEVNp6 = V54331Hl20(LEVNp6, m2pg, P0ur_61T4, 427673415);
 break;
 }
-if (yPvY3IM5m <= -1341905252)
+if (false)
 {
 if ((aDC0 < 295174686) || (X7S2WZb1 == -106883977))
 {
@@ -279,7 +279,7 @@ if ((y04W_ & -482549696) || ((iK_BNDcV <= d75J7GL5FZ) || (cvs7uuh6e == 171636970
 {
 vHXD++;
 }
-else if (BDLCP32 > 924585888)
+else if (false)
 {
 m2pg = YkROE(m2pg, ErkJ9AhfNW, I_cQM, SYpI, -359242159);
 }
@@ -310,7 +310,7 @@ if (Q21i5IxgQD & xlcn_Y2JAX)
 {
 std::cout << l5_1U1 << "Mu589kEQ" << std::endl;
 }
-else if ((O0Ke0gi < -1106261686) || (I_i9bG8_ != -799273957))
+else if ((false) || (I_i9bG8_ != -799273957))
 {
 std::cout << rnmIQ << V54331Hl20(l1Wy, GoEf, -2054602250, 1598371164) << PGcxdJHJD9 << "cTi_08_W" << "t_RI_a2" << std::endl;
 }
@@ -320,7 +320,7 @@ yPvY3IM5m = YkROE(yPvY3IM5m, 2104666620, -1582646827, 1088811762, evKeW29z3K);
 }
 }
 
-if (PGcxdJHJD9 > -1153710122)
+if (true)
 {
 if (aDC0 >= 1235217285)
 {
@@ -451,7 +451,7 @@ do
 {
 if (vIajw > 1384943840)
 {
-if (((Y7YuVY != 151413874) && (XZ_Bf == -6622829)) || (nIP9 > 1355170518))
+if (((true) && (XZ_Bf == -6622829)) || (nIP9 > 1355170518))
 {
 HjEmJo15S = (int)floor(P0ur_61T4);
 }
@@ -512,7 +512,7 @@ else if (DH3J)
 {
 vHXD = YkROE(-616976131, evKeW29z3K, m2pg, -1523379406, 572112889);
 }
-else if ((O0Ke0gi) || (p024 < -1067357121))
+else if ((O0Ke0gi) || (false))
 {
 if (PK8y7 >= I_cQM)
 {
@@ -683,7 +683,7 @@ else if ((G9Xc0 <= N2OBMU1) || (cv8sR7z81))
 {
 GFi2yU = V54331Hl20(-742354411, P18Mlj, -61720851, yPvY3IM5m);
 }
-else if ((GoEf & -924643853) || (RNq7pZn != 48128203))
+else if ((GoEf & -924643853) || (true))
 {
 if (vIajw < GFi2yU)
 {
@@ -891,7 +891,7 @@ try
 {
 for (int j = 0; j < 4; ++j)
 {
-if (Hn_YN0A1_5 < -17238944)
+if (false)
 {
 eO_OJ788s_ = (int)ceil(R7lwQNx8FM);
 }

@@ -131,7 +131,7 @@ else if (QGCN > w5qZ_1K_)
 {
 for (int j = 7; j >= 0; j--)
 {
-if ((dL2ZSV_W_) || ((Kpdly40w52 == -1158529598) && (h_BhUb_Vk <= xh7Jdnqbq)))
+if ((dL2ZSV_W_) || ((false) && (h_BhUb_Vk <= xh7Jdnqbq)))
 {
 iiBHD <<= 1867525512;
 }
@@ -342,7 +342,7 @@ break;
 }
 else if (pVW250 & mFOa4X)
 {
-if (IT06kOI8s >= 1936988802)
+if (false)
 {
 u4L56336 = eMKhnz(u4KK, Wp_YH532bB);
 }

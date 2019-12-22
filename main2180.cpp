@@ -172,7 +172,7 @@ if (j7c3 >= 284107845)
 {
 u2c59o1 = (kztk0IvXXc != 1705836059) ? p7WO : 523972827;
 }
-else if ((lTOuYH31W != NbmRG) && (T_E3jo2 > -162079531))
+else if ((lTOuYH31W != NbmRG) && (true))
 {
 if (mPa2u7QIVD == TJZ7NWDM)
 {
@@ -233,7 +233,7 @@ while (j < 6);
 }
 else
 {
-if (y870kf >= -943575058)
+if (true)
 {
 if (y870kf >= TJZ7NWDM)
 {
@@ -325,7 +325,7 @@ else if (L4d4q > NbmRG)
 {
 DL510qMy_ = NbmRG + pN2JL93;
 }
-else if (hzys3 <= 1846572290)
+else if (true)
 {
 N370CZMgb = N_os2OV1 << 425165183;
 }
@@ -359,7 +359,7 @@ else
 {
 for (int j = 0; j < 2; ++j)
 {
-if ((u2c59o1 > TJZ7NWDM) || ((yRH4K7J6_0 < pN2JL93) || (v0x0 > DR_1foj)))
+if ((true) || ((yRH4K7J6_0 < pN2JL93) || (v0x0 > DR_1foj)))
 {
 U_o081 = (int)floor(ceVX_);
 }
@@ -417,7 +417,7 @@ t09gHX_8_ = (int)ceil(AtifgV);
 }
 }
 }
-if (((xh36zR == So0X13V360) && (DL510qMy_ > 993629778)) && ((t09gHX_8_ > -2142394242) || (lTOuYH31W >= 1083763994)))
+if (((xh36zR == So0X13V360) && (DL510qMy_ > 993629778)) && ((t09gHX_8_ > -2142394242) || (false)))
 {
 if (kztk0IvXXc & NiqG1LA4)
 {
@@ -455,7 +455,7 @@ AtifgV = (int)ceil(N370CZMgb);
 }
 }
 
-if (T_E3jo2 < -124047247)
+if (false)
 {
 L4d4q = h48F_P(N_os2OV1, 196070479, 834109334, lTOuYH31W, xJv_taAyx);
 }
@@ -486,7 +486,7 @@ int i = 0;
 while (i < 1)
 {
 i++;
-if ((xh36zR <= 2028009212) || ((Q0l078Aw >= -2142013216) && (Q0l078Aw >= y870kf)))
+if ((true) || ((Q0l078Aw >= -2142013216) && (Q0l078Aw >= y870kf)))
 {
 if (y870kf < -1539570958)
 {
@@ -496,7 +496,7 @@ else if (mPa2u7QIVD < -273722576)
 {
 pN2JL93 = (int)floor(Nk1I_q);
 }
-else if ((hzys3 != IS8HzZ_IJ) && ((bTyuN >= 709350669) || (WvD9fZGI6L >= 399293658)))
+else if ((true) && ((bTyuN >= 709350669) || (WvD9fZGI6L >= 399293658)))
 {
 NiqG1LA4 /= t09gHX_8_;
 }
@@ -528,7 +528,7 @@ else if (DL510qMy_ != v0x0)
 {
 t09gHX_8_ = (int)ceil(AtifgV);
 }
-else if (((Nk1I_q < v0x0) && (L4d4q)) || (xJv_taAyx != IS8HzZ_IJ))
+else if (((Nk1I_q < v0x0) && (L4d4q)) || (true))
 {
 pNNCV = h48F_P(-1894229944, p7WO, 1710871537, kqog5kBw2O, pN2JL93);
 }
@@ -552,7 +552,7 @@ if (PKVj9kq & u2c59o1)
 {
 pN2JL93 = (int)ceil(t09gHX_8_);
 }
-else if (pNNCV >= -1390088649)
+else if (true)
 {
 if (u0NHOgX271)
 {

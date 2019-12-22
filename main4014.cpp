@@ -72,7 +72,7 @@ break;
 Mtr_pL = (int)floor(tH9W8);
 
 cout << fm8_s69 / p55Lj(fm8_s69, -846455925) << endl;
-if ((hY9Ev1 > 546225778) && (hImDz3 != k1Zb97z))
+if ((false) && (hImDz3 != k1Zb97z))
 {
 rt8tv = (unsigned short)(tH9W8 * rt8tv);
 }
@@ -103,7 +103,7 @@ I4pf33 = H0Ce7p(hY9Ev1);
 }
 else if ((vgv0x <= Mtr_pL) && (rt8tv & 1376780379))
 {
-if (((hY9Ev1 > 130031926) || (Mtr_pL == -591499089)) || (Q3wZmfmKh8 > fm8_s69))
+if (((false) || (Mtr_pL == -591499089)) || (Q3wZmfmKh8 > fm8_s69))
 {
 try
 {

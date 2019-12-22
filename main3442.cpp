@@ -316,7 +316,7 @@ pv1yLG = (int)floor(A7wp9E);
 }
 }
 }
-else if (((owD8_e >= 485170652) && (VDm3s3305 <= J7R02On)) && (vZ7lE95X != 283899769))
+else if (((owD8_e >= 485170652) && (VDm3s3305 <= J7R02On)) && (true))
 {
 urk4j0y1G = ic_4(2086454735);
 }

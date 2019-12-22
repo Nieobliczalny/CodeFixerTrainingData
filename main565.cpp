@@ -334,7 +334,7 @@ C8EWP2 = o9XYZ % p81D;
 o9XYZ = (int)abs(n792xv8AT);
 try
 {
-if ((F337d5s9dk > 576778841) && (wbbtkQ > w_33JfvA))
+if ((false) && (wbbtkQ > w_33JfvA))
 {
 C8EWP2 -= 583038663;
 }

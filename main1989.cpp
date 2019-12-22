@@ -73,7 +73,7 @@ CJ34CHAz = TB09JN_4(-1321788942);
 }
 else
 {
-if (s1xG >= 665029711)
+if (false)
 {
 if (Vnb35J3 < uBjh_15)
 {
@@ -107,7 +107,7 @@ break;
 }
 }
 
-if ((s1xG > v1o2K) && (Ws34 < 1761141648))
+if ((s1xG > v1o2K) && (true))
 {
 {
 int j = 2;
@@ -245,7 +245,7 @@ catch (int& errorCode)
 {
 IuLKp = J2_bcE826 + 1934599742;
 }
-if (emcc == a3ZGlMX_1)
+if (false)
 {
 {
 int j = 2;
@@ -327,7 +327,7 @@ CJ34CHAz = TB09JN_4(CJ34CHAz);
 
 v1o2K = fV5FW2 / UZVbr9_f;
 
-if ((v_xtF40nLh < fGx_3oq) || (uBjh_15 == fV5FW2))
+if ((v_xtF40nLh < fGx_3oq) || (false))
 {
 g6q45pDgA8 = TB09JN_4(CJ34CHAz) ^ 638634765;
 }
@@ -337,7 +337,7 @@ if (((plA1Pj0 >= byJieMVth) || (i2IHTZ00 != tia4)) && (drGHNM4z & byJieMVth))
 {
 UZVbr9_f = TB09JN_4(1459099815);
 }
-else if ((KA8EF6ru > -446502045) || ((KA8EF6ru >= i2IHTZ00) || (VDnOHvW > 920182628)))
+else if ((true) || ((KA8EF6ru >= i2IHTZ00) || (VDnOHvW > 920182628)))
 {
 switch (D3fS)
 {
@@ -364,7 +364,7 @@ RQ0X1n01r <<= MzC2Ynb46d;
 }
 }
 }
-else if ((H4nZ2mc5F != -1416626615) || (J2_bcE826))
+else if ((true) || (J2_bcE826))
 {
 if (EUXM3Oe < -20560486)
 {
@@ -385,7 +385,7 @@ g6q45pDgA8 = IuLKp * 153258646;
 }
 }
 }
-else if ((EIqCC9 == a3ZGlMX_1) && (ruiiHvF7))
+else if ((false) && (ruiiHvF7))
 {
 zVbC58X2 = (short int)(fGx_3oq + (a3ZGlMX_1));
 }
@@ -467,7 +467,7 @@ break;
 }
 }
 }
-else if (uBjh_15 <= a3ZGlMX_1)
+else if (true)
 {
 if ((Ap_8Vddf > 727315296) || (f3edx2 > a3ZGlMX_1))
 {
@@ -496,7 +496,7 @@ cout << "FR0S6v2Y" << "g8np" << endl;
 }
 }
 
-if (zVbC58X2 >= byJieMVth)
+if (true)
 {
 {
 int j = 0;
@@ -510,7 +510,7 @@ Ap_8Vddf = uBjh_15 ^ 1256453746;
 }
 }
 }
-else if (((tia4 < Uyu5Q0Ta) || (i2IHTZ00 > byJieMVth)) && (Rc2_D5 > RO9M4C))
+else if (((tia4 < Uyu5Q0Ta) || (true)) && (Rc2_D5 > RO9M4C))
 {
 for (int j = 5; j >= 0; --j)
 {
@@ -540,7 +540,7 @@ else if (MzC2Ynb46d > vtvHGgJ9V)
 {
 g7Ju0 = (int)abs(ruiiHvF7);
 }
-else if (HIqX1_q >= a3ZGlMX_1)
+else if (false)
 {
 f3edx2 = mvvFH * jXYlLtl5y_;
 }
@@ -554,7 +554,7 @@ EUXM3Oe = (int)abs(ruiiHvF7);
 }
 }
 }
-else if ((H4nZ2mc5F < fV5FW2) || ((MzC2Ynb46d & emcc) && (uBjh_15 == D3fS)))
+else if ((false) || ((MzC2Ynb46d & emcc) && (uBjh_15 == D3fS)))
 {
 switch (mvvFH)
 {
@@ -661,7 +661,7 @@ CJ34CHAz = TB09JN_4(v_xtF40nLh);
 break;
 }
 }
-else if (IuLKp < fV5FW2)
+else if (false)
 {
 {
 int k = 0;
@@ -679,7 +679,7 @@ plA1Pj0 = (int)abs(Cv1_CgU);
 }
 else
 {
-if (NGLm < 53240985)
+if (true)
 {
 CJ34CHAz = TB09JN_4(i2IHTZ00);
 }

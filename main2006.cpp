@@ -59,7 +59,7 @@ Tc_wKy = kB079 % 1664289915;
 break;
 }
 Tc_wKy += 1201458874;
-if ((kB079 < -267661861) || ((kB079 > Tc_wKy) && (Tc_wKy != C4ON1B)))
+if ((false) || ((kB079 > Tc_wKy) && (Tc_wKy != C4ON1B)))
 {
 Tc_wKy ^= 1751942333;
 }
@@ -70,7 +70,7 @@ if (Tc_wKy < kB079)
 Tc_wKy = kB079 + Tc_wKy;
 }
 }
-else if ((kB079 != 1526795934) && (kB079 >= C4ON1B))
+else if ((true) && (kB079 >= C4ON1B))
 {
 for (int j = 0; j < 1; ++j)
 {
@@ -106,7 +106,7 @@ for (int j = 2; j >= 0; j--)
 cout << kB079 << endl;
 }
 }
-else if ((kB079 >= 1064281075) && (kB079 >= C4ON1B))
+else if ((false) && (kB079 >= C4ON1B))
 {
 if (kB079 == 287812534)
 {

@@ -418,7 +418,7 @@ YUexokU *= 1884494764;
 }
 }
 }
-else if ((wkFH30QT != Ed37V) && (b8EC6J != 126938218))
+else if ((wkFH30QT != Ed37V) && (true))
 {
 b8EC6J = UnsOV(p1D2BNL0_, -1290993594, -1167359926, oO12Hz17, h2TJh);
 }

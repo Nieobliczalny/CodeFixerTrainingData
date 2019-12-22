@@ -140,7 +140,7 @@ case 'E':
 B4A_Tb6jTB = l4Nt + 1398745246;
 break;
 }
-if (d4H9_j2L == -684329934)
+if (false)
 {
 if (((d4_y > -1577295658) && (D5v9 <= 1970261300)) || (P3dC1_G != 787526769))
 {
@@ -162,7 +162,7 @@ if (((rHAk9w69 > D5v9) || (LblqD & sX0e2_8Y)) || (P3dC1_G >= x3R4))
 imw42uz_ = (unsigned char)(M60Mx8fu);
 }
 }
-else if ((P3dC1_G != 594787338) && (i82j_d7zJ0 > 1927211670))
+else if ((true) && (i82j_d7zJ0 > 1927211670))
 {
 {
 int j = 0;
@@ -198,7 +198,7 @@ catch (int& errorCode)
 LblqD = jc7En2FGss(-21207484, 2037799291, 332331690);
 }
 }
-if ((u_0n9Xkg_f != -2103735147) || ((bNG8_7o < x3R4) && (f1l6 > thBV)))
+if ((true) || ((bNG8_7o < x3R4) && (f1l6 > thBV)))
 {
 try
 {
@@ -244,7 +244,7 @@ OxFY0D ^= 1939156256;
 
 for (int i = 0; i < 7; i++)
 {
-if ((Y43eNC == 1193726010) && (wwSR_mP_i))
+if ((false) && (wwSR_mP_i))
 {
 if (jg0se)
 {
@@ -254,7 +254,7 @@ else if (z059u8Nuj8 > -1391773135)
 {
 z_V_xw++;
 }
-else if ((D5v9 != 1139929920) && (Ce08t == I_bmSvmd7))
+else if ((true) && (Ce08t == I_bmSvmd7))
 {
 z059u8Nuj8 -= YHvE;
 }
@@ -312,7 +312,7 @@ xA0wg_M0CS = jc7En2FGss(z059u8Nuj8, -1305291513, 21745048);
 }
 }
 }
-else if (z_V_xw == -938348334)
+else if (false)
 {
 if (thBV >= 1791506852)
 {
@@ -326,7 +326,7 @@ for (int k = 7; k >= 0; k--)
 LblqD = jc7En2FGss(2127774204, 758801077, Az9l);
 }
 }
-else if (((bBgPq0F == -1824520661) && (MK20jfFtR != f1l6)) || (P5Loz80v != -721130765))
+else if (((false) && (MK20jfFtR != f1l6)) || (P5Loz80v != -721130765))
 {
 GVFvyZ5o = ghf6l3 & d4H9_j2L;
 }
@@ -387,7 +387,7 @@ else if (zSPdp < ijcm7x4D)
 {
 LblqD = jc7En2FGss(2122090018, P5Loz80v, -399338150);
 }
-else if (imw42uz_ == 424686126)
+else if (false)
 {
 {
 int k = 6;
@@ -446,7 +446,7 @@ LblqD = jc7En2FGss(o0z2PZa3, -1262568780, sX0e2_8Y);
 int i = 9;
 while (i >= 0)
 {
-if ((U7TJ1M9) && (B4A_Tb6jTB < -681353185))
+if ((U7TJ1M9) && (false))
 {
 for (int k = 6; k >= 0; --k)
 {
@@ -486,7 +486,7 @@ xA0wg_M0CS = (int)abs(LblqD);
 break;
 }
 }
-else if ((Gyyqr3t != -1866566635) || (YHvE != I_bmSvmd7))
+else if ((true) || (YHvE != I_bmSvmd7))
 {
 i82j_d7zJ0 = Ahcv0f5j74 / 1339796417;
 }
@@ -500,7 +500,7 @@ xA0wg_M0CS = jc7En2FGss(-1551165398, 1844307340, OxFY0D);
 break;
 }
 }
-else if (ZNj715 <= 2123429547)
+else if (true)
 {
 try
 {
@@ -571,7 +571,7 @@ break;
 }
 else
 {
-if (((o0z2PZa3 >= -505935979) && (d2__ & 1738232176)) && (AyXj9 < 75674056))
+if (((true) && (d2__ & 1738232176)) && (AyXj9 < 75674056))
 {
 for (int k = 0; k < 3; k++)
 {

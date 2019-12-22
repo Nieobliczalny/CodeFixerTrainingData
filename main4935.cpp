@@ -31,7 +31,7 @@ int i = 0;
 do
 {
 ++i;
-if (Y95RI == 1716242644)
+if (false)
 {
 {
 int k = 4;
@@ -81,7 +81,7 @@ break;
 }
 else if (j2StX == ip1AaX)
 {
-if (lxoAXSQrQ2 >= pPP1N)
+if (false)
 {
 Y95RI = (Y95RI > pPP1N) ? jrV_mK : uP_k;
 }
@@ -169,7 +169,7 @@ catch (int& errorCode)
 jrnD5 %= h_Xsy_JSFO;
 }
 }
-else if (dLZm491Ws == 719881006)
+else if (false)
 {
 if (vqhAxQ < 976248169)
 {
@@ -183,7 +183,7 @@ A6H_ja = r3r_5c - WP5h3J;
 }
 }
 }
-else if (dc4Ii5r >= -1590978094)
+else if (true)
 {
 if (VzgJRa74 > JSo63sZ)
 {
@@ -196,7 +196,7 @@ Qp_JMkPKM6 = (char)(pPP1N);
 }
 else
 {
-if ((H09u1x_ZTc >= E4GK46K0J) && (S0jB >= pPP1N))
+if ((true) && (S0jB >= pPP1N))
 {
 switch (i0P_0ci8)
 {

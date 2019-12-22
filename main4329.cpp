@@ -328,7 +328,7 @@ case 0:
 gNLg = (int)ceil(yX63I8);
 break;
 case 1:
-me_0p = (d9o2 <= -1640240300) ? KeD_0 : ED4988SgN_(b35bsf6L_);
+me_0p = (false) ? KeD_0 : ED4988SgN_(b35bsf6L_);
 break;
 case 2:
 Pq8NXU = U1ojQD4z7 % ZHSiXm;

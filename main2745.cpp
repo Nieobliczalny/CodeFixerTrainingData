@@ -20,7 +20,7 @@ int main(int argc, char** argv) {
 
 try
 {
-if (GTctY_2 < LqIN16)
+if (true)
 {
 try
 {
@@ -37,7 +37,7 @@ if (tv_kB87 < oI846)
 {
 f_hwdW08z = (int)abs(X_0xEe98);
 }
-else if (KsdNg00yN < 777938863)
+else if (true)
 {
 j3AePkC_N = H05_G3AcF8 + 1182419283;
 }
@@ -58,7 +58,7 @@ if (QXy0e52x)
 {
 try
 {
-if (E5wQyba <= LqIN16)
+if (true)
 {
 nFK4PCPHx--;
 }
@@ -106,7 +106,7 @@ catch (int& errorCode)
 j3AePkC_N *= aB0VK438;
 }
 }
-else if (KsdNg00yN != -577138404)
+else if (true)
 {
 d_87 = (short int)(LqIN16);
 }
@@ -156,7 +156,7 @@ if (FONy12k4 <= FkJw_)
 {
 rl33Crq8 = wJ_Bcvh7b_ * 569062771;
 }
-else if (FONy12k4 > LqIN16)
+else if (false)
 {
 wxFR9nW += 478927415;
 }
@@ -210,7 +210,7 @@ break;
 }
 }
 }
-if (FONy12k4 <= -675677993)
+if (false)
 {
 tD8mr0l /= 1068419743;
 }
@@ -251,7 +251,7 @@ int j = 8;
 do
 {
 --j;
-if ((gAECaA != Bw3z) || ((SLA3wS != 561314536) && (c5NS8 <= -1128815488)))
+if ((gAECaA != Bw3z) || ((true) && (c5NS8 <= -1128815488)))
 {
 iR9K0Eob = Vo_C3 & 283172472;
 }
@@ -276,7 +276,7 @@ i--;
 
 nFK4PCPHx = -1426953039 / H05_G3AcF8;
 
-if ((Y672o2y) || ((nFK4PCPHx > LqIN16) && (H05_G3AcF8 == LqIN16)))
+if ((Y672o2y) || ((false) && (H05_G3AcF8 == LqIN16)))
 {
 std::cout << Vo_C3 << "ty4_" << oA2B7h7UaW << std::endl;
 }
@@ -368,7 +368,7 @@ case 7:
 QXy0e52x ^= KsdNg00yN;
 break;
 default:
-ni4L = (X_0xEe98 > 1947594021) ? 1038617708 : -230240060;
+ni4L = (false) ? 1038617708 : -230240060;
 break;
 }
 }
@@ -404,7 +404,7 @@ catch (int& errorCode)
 YM892bL8 >>= f_hwdW08z;
 }
 }
-else if ((JBIei2 < nFK4PCPHx) || ((zVL85f6 < -1807640265) && (wrN_tMM <= 1993630145)))
+else if ((JBIei2 < nFK4PCPHx) || ((false) && (wrN_tMM <= 1993630145)))
 {
 {
 int j = 8;
@@ -515,7 +515,7 @@ az_O6479FZ--;
 break;
 case 'f':
 case 'F':
-t0oX3Ps8T2 = (zvv51OW < -2043279399) ? oI846 : LqIN16;
+t0oX3Ps8T2 = (false) ? oI846 : LqIN16;
 break;
 default:
 ux_p |= 1011834224;
@@ -546,7 +546,7 @@ break;
 int i = 9;
 while (i >= 0)
 {
-if (B3w1gQl1mx != LqIN16)
+if (true)
 {
 if (tv_kB87 != 1383792250)
 {
@@ -586,7 +586,7 @@ else if (Bw3z)
 {
 B18nm = B3w1gQl1mx ^ 1417136628;
 }
-else if (tv_kB87 < -972448868)
+else if (false)
 {
 p8qH3++;
 }

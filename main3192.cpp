@@ -54,7 +54,7 @@ int main(int argc, char** argv) {
   unsigned long long  dW8B6a;
   dW8B6a  =  -658366600;
 
-if ((Pt54_Fy1V2 != v261) || (Ip03_T7jy9 > kHsD_aes))
+if ((true) || (Ip03_T7jy9 > kHsD_aes))
 {
 for (int j = 0; j < 9; ++j)
 {
@@ -271,7 +271,7 @@ break;
 }
 std::cout << r6_7g(ZUPCWkt, 1016960278, Ge__6Q7Qw) << "Aga_RLi" << r6_7g(ZUPCWkt, dW8B6a, Ge__6Q7Qw) << std::endl;
 
-if (((Pt54_Fy1V2 == 760740224) || (MHSd > WZvrdj9uaC)) || ((Pt54_Fy1V2 >= kHsD_aes) && (bvr87M >= Ge__6Q7Qw)))
+if (((false) || (MHSd > WZvrdj9uaC)) || ((Pt54_Fy1V2 >= kHsD_aes) && (bvr87M >= Ge__6Q7Qw)))
 {
 if (ZUPCWkt & kHsD_aes)
 {
@@ -322,7 +322,7 @@ WZvrdj9uaC = (int)ceil(L0k4q);
 }
 else if (bvr87M == 834991659)
 {
-if (((O2D33d != H1v7d_Ft) && (ZUPCWkt >= Wf_MX2)) && (lJLo3 > -114714728))
+if (((O2D33d != H1v7d_Ft) && (ZUPCWkt >= Wf_MX2)) && (true))
 {
 Pt54_Fy1V2 = r6_7g(-1309705431, Wf_MX2, bvr87M);
 }

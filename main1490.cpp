@@ -190,7 +190,7 @@ else if (Z9O3Pk != -1210991030)
 {
 Wz04 = (unsigned char)(H5H1Be0b);
 }
-else if (eBmtB >= 2030462659)
+else if (false)
 {
 switch (eBmtB)
 {

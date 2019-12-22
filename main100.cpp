@@ -90,7 +90,7 @@ break;
 
 if (LSf150 > NIY2U_y8)
 {
-if (dibZ469Vu < -1058114010)
+if (false)
 {
 IzhB63F = (int)floor(C_Wx);
 }
@@ -131,7 +131,7 @@ if (XCwVS != f02_t1M_W)
 {
 rR135k7Y = wF_29B | w7_l;
 }
-else if (l4l3C8r5 >= 1090683495)
+else if (false)
 {
 p361 = o_DNY ^ 929144147;
 }
@@ -171,7 +171,7 @@ if ((ptZu & y_I9) && (ptZu <= f02_t1M_W))
 {
 r7tJ4U4 >>= ptZu;
 }
-else if ((l4l3C8r5 >= 666427304) && (n9Eiqj < KENmmlwm))
+else if ((false) && (n9Eiqj < KENmmlwm))
 {
 l4l3C8r5 <<= KA8i0_k;
 }
@@ -270,7 +270,7 @@ i++;
 int i = 0;
 do
 {
-if ((M_2n_IER == 413131375) || (M5ARLNO <= f02_t1M_W))
+if ((false) || (M5ARLNO <= f02_t1M_W))
 {
 {
 int k = 0;
@@ -462,7 +462,7 @@ else
 iTJwvnTX = (int)abs(LSf150);
 }
 
-if ((qyau3Qe0 < f02_t1M_W) && ((UibD > NIY2U_y8) && (ptZu < NIY2U_y8)))
+if ((qyau3Qe0 < f02_t1M_W) && ((true) && (ptZu < NIY2U_y8)))
 {
 std::cout << "QBg93_1TH" << "N3_VO8" << v5cwDu4 << "y1CpLx1" << std::endl;
 }

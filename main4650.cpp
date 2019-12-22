@@ -47,7 +47,7 @@ if ((Mv65tG6) || (Z6VLJt4N_ < r877))
 switch (g5i27S)
 {
 case 'a':
-K2aE6_671J = (g5i27S > 1145772837) ? Mv65tG6 : 410294988;
+K2aE6_671J = (false) ? Mv65tG6 : 410294988;
 break;
 case 'b':
 YNV85M *= 1940434446;

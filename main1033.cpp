@@ -85,7 +85,7 @@ catch (int& errorCode)
 {
 gIiG9 = eIaMmGq6z / kWyr5;
 }
-if (((gIiG9 > zIQPN5DJ74) && (lJRYmr8N3 < zIQPN5DJ74)) && ((h4Ufb <= -186423375) || (GIr2n_UuMX)))
+if (((true) && (lJRYmr8N3 < zIQPN5DJ74)) && ((h4Ufb <= -186423375) || (GIr2n_UuMX)))
 {
 lJRYmr8N3 ^= Pp5iZav2;
 }
@@ -99,7 +99,7 @@ Iqn71 = Jco78oJY1 / BZeDNY4uxl;
 }
 }
 }
-if (Pp5iZav2 != 378151931)
+if (true)
 {
 if (eIaMmGq6z > -1255623184)
 {
@@ -224,7 +224,7 @@ BZeDNY4uxl = W6VQ42G46N - GIr2n_UuMX;
 
 kWyr5 = (int)ceil(c713);
 
-if (Iqn71 != -1823820831)
+if (true)
 {
 for (int j = 0; j < 8; j++)
 {

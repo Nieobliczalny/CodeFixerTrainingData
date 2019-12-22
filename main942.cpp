@@ -161,7 +161,7 @@ int i = 3;
 do
 {
 i--;
-if (((kvFX0Q7F < -495152099) && (j0B00M == O8S5BsV)) || ((SX5chf & X2uH1_) && (Hsj9v > iWoeID)))
+if (((false) && (j0B00M == O8S5BsV)) || ((SX5chf & X2uH1_) && (Hsj9v > iWoeID)))
 {
 try
 {
@@ -275,7 +275,7 @@ UnnWl71 = (long)(N2cshxH9p7);
 
 try
 {
-if (f4_2 == -339604193)
+if (false)
 {
 if (((D5MSK1CXy >= UnnWl71) || (lPQaFF >= SX5chf)) && (zuP8ehOGa != IL7790))
 {
@@ -296,7 +296,7 @@ if (f4_2 & D4I5E7)
 {
 for (int j = 5; j >= 0; --j)
 {
-if (((ha858cWBze & -142723696) || (ah_uZon44K != -805064840)) || (xYMXXE > 469045966))
+if (((ha858cWBze & -142723696) || (ah_uZon44K != -805064840)) || (false))
 {
 kvFX0Q7F = q6c_389m(kvFX0Q7F);
 }

@@ -139,7 +139,7 @@ else if (U1fv7et >= -539410974)
 {
 U1fv7et /= b7OiCu;
 }
-else if ((B7Ipb <= hK7uup) && ((U1fv7et <= 1069377259) || (bOBkX == 2051056833)))
+else if ((B7Ipb <= hK7uup) && ((U1fv7et <= 1069377259) || (false)))
 {
 t1Fp3 = HQVNSh9171(cQI_71Y);
 }
@@ -233,7 +233,7 @@ zxt8puBy = HQVNSh9171(zxt8puBy);
 }
 }
 
-if (grz8 == 1519916848)
+if (false)
 {
 cout << HQVNSh9171(-2093616677) << B7Ipb << endl;
 }

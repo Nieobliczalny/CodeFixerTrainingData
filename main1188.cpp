@@ -14,7 +14,7 @@ int main(int argc, char** argv)
     unsigned short    N7_0    =    0,    Z_kAO    =    0,    mpnnc    =    0;
 	unsigned char	SPB92	=	977713549,	dritJ1__2N	=	-2094018699,	xwnxi	=	1282885853,	t432d_1T	=	520157450,	G9Ui4	=	857696402,	phtT	=	2023985129,	pADk3	=	1387355977,	sw04_T_X1I	=	1800196030,	I5b714T	=	-121403621,	i2L784	=	-525262092,	L4_tTJbq	=	1929284526,	XD4FR_3WE	=	595268753,	N_CS0y_	=	-1936247847,	s2Vx5b	=	1760216627,	p9PYB	=	1508773244,	A6HkB_	=	-294981086,	iffW0_RvM	=	2122572110,	N_BgtSi_	=	155238061,	VkuJPAY55B	=	-1649064481,	kdWl1cD	=	-1375097002,	EpCWfhw	=	-1830855433,	Rb9uYSB	=	-1619618308,	DOmaj	=	1968343610,	bdM5	=	563152046,	ts1Iifn	=	367439863,	B0LYr	=	-1491480555,	XVIK397x1	=	1567179423,	vVa26xX	=	-1919610242,	hVwj	=	-1867777014,	eyFk	=	-1175205705,	naHV	=	-556957354,	lat2	=	-1858598254,	n_6s1x2j8	=	-826994345,	ysQ8G	=	457148256,	g40k5_oKLZ	=	-819309751,	dqu604B618	=	-621551135,	GGci	=	-1037740766,	Z30m019VP	=	-231447158,	u75JB	=	-15475272,	txnM	=	-1648067499,	q_858t01q	=	-597725847,	rfSH64gAP	=	-888891855,	W521	=	422950127,	k0TN0n	=	-1886020167,	tR27rQa	=	208488292,	j97ky	=	799122252,	LWqL2Uu_	=	1642148347,	mj6dJ4mQwv	=	1820326543,	zBJYRSxv	=	-1957051560,	Zy95tw5	=	-1842593247,	QVU4V	=	1492192187,	e20r9C	=	-1527467230,	ndE86IeuG8	=	2025163017,	T09UqwF9UN	=	1166798588,	E34KQzXS	=	456446737,	pj3uF_3gT	=	601169543,	hTKUU1cO2x	=	1505523149,	cE8_6zL5	=	1887386287,	EIatKsEqZ	=	2072427934,	t34O198x	=	-2122129467,	o69M_	=	1517227468,	L3F_LtBk4	=	-1118642057,	K7WUS	=	2052394501,	W770QBh60	=	-445815968,	YS_h	=	-1766199046,	XVRrB8	=	-671468871,	t4Ac	=	-1415320889,	H8_V_jCYWd	=	495413908,	Il97K3n	=	-1541229228,	q90Trsjd	=	-194223438,	AvpIjBo	=	606798231,	v0WFp4fq	=	2100140069,	c9Ig3_o	=	-515186817;
 
-if (((EpCWfhw >= 252757436) && (N_CS0y_)) && (mj6dJ4mQwv == C2JB73dC6V))
+if (((false) && (N_CS0y_)) && (mj6dJ4mQwv == C2JB73dC6V))
 {
 pj3uF_3gT = (unsigned char)(C2JB73dC6V + (2081427028));
 }
@@ -37,7 +37,7 @@ else if ((hVwj >= t4Ac) || (zBJYRSxv >= C2JB73dC6V))
 {
 v0WFp4fq = Rb9uYSB >> 1956637842;
 }
-else if (((LWqL2Uu_ == C2JB73dC6V) && (SPB92 < 1832695937)) || (GGci <= VkuJPAY55B))
+else if (((LWqL2Uu_ == C2JB73dC6V) && (true)) || (GGci <= VkuJPAY55B))
 {
 AvpIjBo = sw04_T_X1I >> 665017883;
 }
@@ -110,7 +110,7 @@ E34KQzXS ^= 2000719552;
 break;
 case 'c':
 case 'C':
-DOmaj = (Zy95tw5 >= -267749214) ? -154392994 : I5b714T;
+DOmaj = (true) ? -154392994 : I5b714T;
 break;
 case 'd':
 case 'D':
@@ -210,7 +210,7 @@ int i = 8;
 while (i >= 0)
 {
 i--;
-if ((LWqL2Uu_ <= C2JB73dC6V) && ((i2L784 <= -165566054) || (lat2 > C2JB73dC6V)))
+if ((LWqL2Uu_ <= C2JB73dC6V) && ((false) || (lat2 > C2JB73dC6V)))
 {
 for (int k = 4; k >= 0; k--)
 {
@@ -223,7 +223,7 @@ if (cE8_6zL5 > 205683068)
 {
 i2L784 /= 1619762281;
 }
-else if (((sw04_T_X1I <= C2JB73dC6V) && (N_CS0y_ != B0LYr)) || (GGci < -2037459581))
+else if (((sw04_T_X1I <= C2JB73dC6V) && (N_CS0y_ != B0LYr)) || (false))
 {
 LWqL2Uu_ = DOmaj - 273394360;
 }
@@ -259,7 +259,7 @@ s2Vx5b %= 194897294;
 }
 tR27rQa = (unsigned char)(k0TN0n);
 
-if ((mj6dJ4mQwv != C2JB73dC6V) || ((N7_0 < 1668058505) && (dritJ1__2N > sw04_T_X1I)))
+if ((mj6dJ4mQwv != C2JB73dC6V) || ((true) && (dritJ1__2N > sw04_T_X1I)))
 {
 Z30m019VP = C2JB73dC6V | 156526469;
 }
@@ -291,7 +291,7 @@ do
 {
 if (c9Ig3_o != C2JB73dC6V)
 {
-if ((N7_0) || ((j97ky >= vVa26xX) && (LWqL2Uu_ < 480643950)))
+if ((N7_0) || ((j97ky >= vVa26xX) && (true)))
 {
 N_BgtSi_ <<= iffW0_RvM;
 }
@@ -464,7 +464,7 @@ while (j < 9);
 }
 else if (k0TN0n)
 {
-if (phtT < -73266226)
+if (false)
 {
 cE8_6zL5 |= A6HkB_;
 }
@@ -555,7 +555,7 @@ int i = 0;
 while (i < 5)
 {
 ++i;
-if (bdM5 > -1511755510)
+if (true)
 {
 if (N_BgtSi_ <= C2JB73dC6V)
 {
@@ -615,7 +615,7 @@ case 'f':
 e20r9C -= Z30m019VP;
 break;
 case 'g':
-kdWl1cD = (XVIK397x1 < 281843339) ? C2JB73dC6V : Il97K3n;
+kdWl1cD = (true) ? C2JB73dC6V : Il97K3n;
 break;
 default:
 phtT &= 124237089;
@@ -666,7 +666,7 @@ int i = 4;
 while (i >= 0)
 {
 --i;
-if ((n_6s1x2j8 == -2101653208) || (XVIK397x1 <= vVa26xX))
+if ((false) || (XVIK397x1 <= vVa26xX))
 {
 if ((o69M_ < 2020581298) && (t4Ac == 558383449))
 {
@@ -731,7 +731,7 @@ break;
 std::cout << "J1Jbp4" << "GS1HyN6" << I5b714T << std::endl;
 std::cout << E34KQzXS << "y298v" << cE8_6zL5 << "J_DpjB_" << VkuJPAY55B << std::endl;
 
-if (((txnM != -941889843) && (A6HkB_ == C2JB73dC6V)) || (dqu604B618 > C2JB73dC6V))
+if (((true) && (A6HkB_ == C2JB73dC6V)) || (dqu604B618 > C2JB73dC6V))
 {
 {
 int j = 0;

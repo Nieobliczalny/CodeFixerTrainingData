@@ -124,7 +124,7 @@ nZTNfs = rb0mC2(jd1keQ2);
 }
 else if (x8DkJR24DF == -998501777)
 {
-if (jd1keQ2 > 1985603821)
+if (false)
 {
 try
 {
@@ -327,7 +327,7 @@ N6l8jN4_2p = (char)(B2rESZ3uD + (1571367256));
 
 a52l = (long long)(nZTNfs);
 
-if (N6l8jN4_2p >= 2146534417)
+if (false)
 {
 try
 {
@@ -353,7 +353,7 @@ int j = 0;
 do
 {
 ++j;
-if (N6l8jN4_2p <= 1164898027)
+if (true)
 {
 nZTNfs = (int)abs(a52l);
 }

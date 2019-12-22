@@ -134,7 +134,7 @@ if ((J_0M) && (f3S8d3k == v_20TJyOdf))
 {
 R3EPGWgb = SW0_M53 % 994776109;
 }
-else if ((o6YK9_ & h6UB55E) && ((fbaB == 1465560250) && (ERZzeJy3 <= -1230602145)))
+else if ((o6YK9_ & h6UB55E) && ((false) && (ERZzeJy3 <= -1230602145)))
 {
 SCYOCO3O = YA4EpPs7(pmVBhW5K, bSkO_7q, 1198622540, -748651870, -1684972308);
 }
@@ -203,7 +203,7 @@ if ((HO0dh59YK5 == SW0_M53) || (GfyxiS1_7 > Q43_h5hZ4))
 {
 X0_3w6j9 >>= 357290575;
 }
-else if (IJa2Z <= SW0_M53)
+else if (true)
 {
 for (int k = 9; k >= 0; --k)
 {
@@ -222,7 +222,7 @@ UtbOAJ2 = e_6NBY7(UtbOAJ2, h5a1w5gd, R3EPGWgb, H8N88EHM);
 while (k >= 0);
 }
 }
-else if ((pmVBhW5K < c6Z6JCQ16) && ((p_vR5 < h5a1w5gd) || (Q9NEvO4Hn0 == SW0_M53)))
+else if ((pmVBhW5K < c6Z6JCQ16) && ((p_vR5 < h5a1w5gd) || (false)))
 {
 std::cout << YA4EpPs7(UtbOAJ2, -1945188439, R3EPGWgb, 1150237723, u1Lt) << YA4EpPs7(UtbOAJ2, h5a1w5gd, R3EPGWgb, H8N88EHM, u1Lt) << YA4EpPs7(-843790924, 1135612955, R3EPGWgb, H8N88EHM, u1Lt) << std::endl;
 }
@@ -284,7 +284,7 @@ if ((f3S8d3k & DD7rcfBm) && ((I__AW9oY > Q43_h5hZ4) || (Dxf4s3T1mZ < 1191204497)
 {
 WL8pa_VFw1 = Jnc4();
 }
-else if (n6iNYmfkNP < SW0_M53)
+else if (true)
 {
 for (int k = 10; k >= 0; --k)
 {
@@ -297,7 +297,7 @@ if (J_0M != Q43_h5hZ4)
 {
 Z1k43 |= qoNiu;
 }
-else if (sGjemDa > -1469522058)
+else if (true)
 {
 DmwvbLu = qoNiu << P24XfO;
 }
@@ -357,7 +357,7 @@ while (i < 10);
 
 try
 {
-if (og258 <= 1613565122)
+if (true)
 {
 Dh0LSUdk = YA4EpPs7(WaMW9g6Cd3, -264965453, p38H6jM3, Q0o_TSD6, D6HCC8_G);
 }
@@ -397,7 +397,7 @@ case 7:
 eY1j = e_6NBY7(-1217366033, 157798603, DFDST_8, zI1A0d6N);
 break;
 case 8:
-gb_OdODB = (mOocv1F8rU != -168513370) ? I3xUNs : p38H6jM3;
+gb_OdODB = (true) ? I3xUNs : p38H6jM3;
 break;
 }
 }
@@ -423,7 +423,7 @@ else if (yfbj < Q43_h5hZ4)
 {
 DFDST_8 = (int)ceil(Dxf4s3T1mZ);
 }
-else if (fbaB != -1972188746)
+else if (true)
 {
 Xa1hB = YA4EpPs7(Zoa6, 1844250503, owGpBn58, uzszpI, M8H5P_E);
 }
@@ -454,7 +454,7 @@ f3S8d3k &= 1760849950;
 }
 UDKVrzdFrW = xUXSq753 / TOhsQh;
 
-if ((owGpBn58) || (xKw69y5D_Y >= 2106498745))
+if ((owGpBn58) || (false))
 {
 og258 = (int)abs(Z1Rx);
 }
@@ -529,7 +529,7 @@ else if (p_vR5 < -1772156262)
 {
 WaMW9g6Cd3 = (int)floor(p38H6jM3);
 }
-else if (d47HO != -992258613)
+else if (true)
 {
 try
 {

@@ -182,7 +182,7 @@ if (yw67my() == 0)
 
 ztB38BS = (int)abs(e3s33zM0o);
 
-if (D1b97jfmqR >= 1509256292)
+if (false)
 {
 std::cout << "YuBg" << A93d5G4 << "w7uV9" << "VjIdjT947r" << "VWoO26" << std::endl;
 }
@@ -330,7 +330,7 @@ std::cout << t0U0vOA << Pj_x59() << std::endl;
 qrXO3 = (int)ceil(Mam2w0EW0X);
 
 std::cout << Pj_x59() << Pj_x59() << D1b97jfmqR << h5r2E13vq(-1398282264, -1411608213, aNpi2eusc) << std::endl;
-if ((D3RiK7 >= Izo28) && (D1b97jfmqR == -1966707047))
+if ((D3RiK7 >= Izo28) && (false))
 {
 {
 int j = 10;
@@ -404,7 +404,7 @@ else if (A_89WyVq)
 {
 wT01U2qApd /= qStmQ;
 }
-else if (z585_hB < 1644970227)
+else if (true)
 {
 switch (e3s33zM0o)
 {

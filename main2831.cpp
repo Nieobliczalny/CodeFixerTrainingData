@@ -82,7 +82,7 @@ int main(int argc, char** argv) {
 	short	gyE04uJ1V1	=	1761850215;
 	char	uMzDTyZVq	=	-423559822;
 
-if (((P4m42_A < XXY_r) || (AeOt_0 < 42194685)) || (uMzDTyZVq))
+if (((P4m42_A < XXY_r) || (true)) || (uMzDTyZVq))
 {
 B_9jaXrjA = (int)abs(g46Q);
 }

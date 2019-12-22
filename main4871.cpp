@@ -112,7 +112,7 @@ H35E = (long double)(PfEZq132);
 }
 
 std::cout << "l6gxBi" << "BWoQj3HLs8" << AeGXw9_FX_(-1572791312) << std::endl;
-if ((mfpLNX0_9 > BIL69FE) && ((k_y4uwkoyr <= TF_L) || (F5jK2e1E4C > PfEZq132)))
+if ((mfpLNX0_9 > BIL69FE) && ((k_y4uwkoyr <= TF_L) || (true)))
 {
 for (int j = 1; j >= 0; j--)
 {
@@ -143,7 +143,7 @@ case 0:
 z9k5AniW = AeGXw9_FX_(x1NffebD59);
 break;
 case 1:
-Sq1kHQh9 = (AOkN < -899119495) ? AeGXw9_FX_(675214748) : noCd4u1;
+Sq1kHQh9 = (false) ? AeGXw9_FX_(675214748) : noCd4u1;
 break;
 case 2:
 P76s0Qeqrr--;
@@ -232,7 +232,7 @@ Zz2N = (int)floor(cGo4Lwa9c6);
 }
 else if (OIrXzK34 < L_Lpv075v)
 {
-if (vBSpFu > -1017563249)
+if (true)
 {
 {
 int k = 3;

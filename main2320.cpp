@@ -193,7 +193,7 @@ for (int i = 0; i < 3; i++)
 {
 try
 {
-if ((QLRu < RtjyYX5) && (f3FZ0L != wI03xIvTLZ))
+if ((QLRu < RtjyYX5) && (true))
 {
 MJmP9Z0 ^= 84184756;
 }

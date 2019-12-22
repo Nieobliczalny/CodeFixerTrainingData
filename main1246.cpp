@@ -148,7 +148,7 @@ while (i < 2);
 
 wMor = B_h4 / W6HT20_Eg5;
 
-if (EDatZbnb2 != skSR7)
+if (true)
 {
 obL8K = BK47 ^ 1240500363;
 }
@@ -172,7 +172,7 @@ break;
 
 for (int i = 0; i < 8; ++i)
 {
-if (EDatZbnb2 == skSR7)
+if (false)
 {
 if (m_ZojW_74 > Uqls9sf8L1)
 {
@@ -182,7 +182,7 @@ else if ((EDatZbnb2 & -1014743395) || (x440L <= ZTF1_4X))
 {
 A4gJ = (int)ceil(m_ZojW_74);
 }
-else if (((wMor >= -240114567) || (Bj71 == skSR7)) || (j5QUn <= skSR7))
+else if (((true) || (Bj71 == skSR7)) || (j5QUn <= skSR7))
 {
 ey04VSjV = (int)abs(AnEb3zmZ);
 }
@@ -277,7 +277,7 @@ v1XL6dh30_ = Q3jLgi();
 
 g2tF25q = (int)(bIjW6AAss);
 
-if (j5QUn != ypho)
+if (true)
 {
 cmCJfs_f = EDatZbnb2 / wMor;
 }

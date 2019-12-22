@@ -53,7 +53,7 @@ Nu8vP0y_ = ybG_9PO();
 }
 Bn2Ws_we = (int)(VKOL);
 
-if ((e_4O436 > -466158929) && (r9KYIREnC))
+if ((true) && (r9KYIREnC))
 {
 Upr008NJ = (int)abs(g2OOfv5) * 0;
 }
@@ -485,7 +485,7 @@ else if ((T6lDw8tT <= b96W41mdUP) && (Bn2Ws_we < 837943879))
 {
 std::cout << fKxso_ << Upr008NJ << std::endl;
 }
-else if (Upr008NJ != 496810922)
+else if (true)
 {
 switch (LpmsEwp)
 {

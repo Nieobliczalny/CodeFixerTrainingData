@@ -44,7 +44,7 @@ int main(void) {
     xyBt0D    =    1156401138;
     F0G_bleb_    =    1572242597;
 
-if (Ms71Hf0 <= -782573539)
+if (false)
 {
 if ((cF8AP8T > 1064585061) && (S_9Qaob3 == -360562907))
 {
@@ -54,7 +54,7 @@ cF8AP8T = H8g_(S_9Qaob3, xyBt0D, 489647515, cF8AP8T, Ms71Hf0);
 }
 }
 }
-else if (F0G_bleb_ < 1119958392)
+else if (true)
 {
 try
 {
@@ -72,7 +72,7 @@ catch (int& errorCode)
 vsb9R0TY6a >>= BNNHm8HT;
 }
 }
-else if ((cF8AP8T <= -1894309256) || ((S_9Qaob3 & 114613564) || (S_9Qaob3 < -1967631052)))
+else if ((false) || ((S_9Qaob3 & 114613564) || (S_9Qaob3 < -1967631052)))
 {
 if (cF8AP8T < -896238564)
 {
@@ -89,7 +89,7 @@ if (IJtLjxVF)
 S_9Qaob3 = (unsigned short)(xyBt0D);
 }
 }
-else if (IJtLjxVF > -2041811228)
+else if (true)
 {
 if (F0G_bleb_)
 {
@@ -136,7 +136,7 @@ break;
 }
 else
 {
-if (vsb9R0TY6a == -815761376)
+if (false)
 {
 S_9Qaob3 = PvqqrkG();
 }
@@ -208,7 +208,7 @@ xyBt0D = PvB_2C2EHE(-1747951516, -1810935697, 741104881, xyBt0D);
 }
 std::cout << BNNHm8HT << "NW6twCp" << std::endl;
 
-if (xyBt0D > -770257758)
+if (true)
 {
 {
 int j = 0;
@@ -221,7 +221,7 @@ while (j < 9);
 }
 }
 
-if (((xyBt0D <= 177114533) || (S_9Qaob3 & -539289673)) && (xyBt0D))
+if (((true) || (S_9Qaob3 & -539289673)) && (xyBt0D))
 {
 switch (vsb9R0TY6a)
 {
@@ -243,7 +243,7 @@ F0G_bleb_ += F0G_bleb_;
 break;
 case 'e':
 case 'E':
-S_9Qaob3 = (Ms71Hf0 > 587424909) ? H8g_(cF8AP8T, -2059446727, 506578946, -941064764, 1491284445) : PvqqrkG();
+S_9Qaob3 = (false) ? H8g_(cF8AP8T, -2059446727, 506578946, -941064764, 1491284445) : PvqqrkG();
 break;
 case 'f':
 case 'F':
@@ -259,7 +259,7 @@ IJtLjxVF = H8g_(-512765455, F0G_bleb_, vsb9R0TY6a, 1174775685, -884815281);
 break;
 case 'i':
 case 'I':
-S_9Qaob3 = (xyBt0D != -247648907) ? BNNHm8HT : -3085902;
+S_9Qaob3 = (true) ? BNNHm8HT : -3085902;
 break;
 case 'j':
 case 'J':
@@ -271,7 +271,7 @@ else if (Ms71Hf0 != 522624031)
 {
 vsb9R0TY6a = (unsigned short)(Ms71Hf0 + (-507468942));
 }
-else if ((vsb9R0TY6a > xyBt0D) && (IJtLjxVF >= -1064772107))
+else if ((vsb9R0TY6a > xyBt0D) && (true))
 {
 {
 int j = 0;
@@ -291,7 +291,7 @@ j++;
 while (j < 3);
 }
 }
-else if (F0G_bleb_ != 825443088)
+else if (true)
 {
 std::cout << H8g_(-1134243547, cF8AP8T, -1987212848, Ms71Hf0, -2061843772) << "uqXtzL0" << F0G_bleb_ << std::endl;
 }
@@ -315,7 +315,7 @@ else if (F0G_bleb_ < cF8AP8T)
 {
 vsb9R0TY6a = F0G_bleb_ % 484040629;
 }
-else if (vsb9R0TY6a == -1812251340)
+else if (false)
 {
 S_9Qaob3 = S0920(-523758355, 852242610, 572755079, F0G_bleb_);
 }
@@ -327,7 +327,7 @@ else if (BNNHm8HT != 1580267625)
 {
 BNNHm8HT = vsb9R0TY6a * S_9Qaob3;
 }
-else if (xyBt0D != 293733062)
+else if (true)
 {
 vsb9R0TY6a >>= 254678963;
 }

@@ -269,7 +269,7 @@ catch (int& errorCode)
 T5h5WzY -= 393780124;
 }
 }
-else if (((c4nB3Xj < -267714018) && (UU6TA_P > 796604318)) && (Qkx_Ozu > -1202779347))
+else if (((c4nB3Xj < -267714018) && (false)) && (Qkx_Ozu > -1202779347))
 {
 std::cout << yO4681Z << "d_K6" << wt7FBe0qyD(-1750436888) << std::endl;
 }

@@ -249,7 +249,7 @@ G457bqfR *= 1594891826;
 
 qt96Tu2oM = fE7cfv / HbW3hQl;
 
-if ((H1an <= 1645108429) || ((XW72081pi < H1an) && (DsBk < gMW7)))
+if ((true) || ((XW72081pi < H1an) && (DsBk < gMW7)))
 {
 fE7cfv = (long double)(c09buCt);
 }

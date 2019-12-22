@@ -152,7 +152,7 @@ ay0U = (int)floor(i38UG);
 while (i >= 0);
 }
 
-if (((e2WrX6 != ja5XWI) || (u7o8Iz2T7 == ebCLynM6W)) && ((iYz9G6a != -1338827420) && (jM4ji981 < 1930522770)))
+if (((e2WrX6 != ja5XWI) || (u7o8Iz2T7 == ebCLynM6W)) && ((iYz9G6a != -1338827420) && (true)))
 {
 switch (tu6m58W4)
 {
@@ -224,7 +224,7 @@ int j = 9;
 while (j >= 0)
 {
 --j;
-if (K8Q6p_4 > -748194127)
+if (true)
 {
 HL6D = (int)floor(PO2q1066c);
 }

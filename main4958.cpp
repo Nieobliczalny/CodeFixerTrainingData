@@ -37,7 +37,7 @@ int i = 0;
 while (i < 8)
 {
 i++;
-if ((sokOT7i2_A <= 964605161) || (ars6U__pe > gdP4))
+if ((true) || (ars6U__pe > gdP4))
 {
 switch (PTZV4rp2C)
 {
@@ -57,7 +57,7 @@ IoW_921 = (long)(b_o3E + (-1268678665));
 gdP4 = (unsigned int)(ars6U__pe + (-690389650));
 
 ars6U__pe = u4kyd_(ars6U__pe, b_o3E, 727798100, sokOT7i2_A);
-if (b_o3E < -1729522632)
+if (false)
 {
 switch (ars6U__pe)
 {
@@ -91,7 +91,7 @@ else
 {
 gdP4 = (unsigned int)(sokOT7i2_A);
 }
-if (PTZV4rp2C <= -567427897)
+if (false)
 {
 std::cout << IoW_921 << b_o3E << u4kyd_(b_o3E, -430617513, 502390010, 652983597) << std::endl;
 }
@@ -133,7 +133,7 @@ else if (gdP4 == nRJS9361)
 {
 sokOT7i2_A /= b_o3E;
 }
-else if (sokOT7i2_A <= 1540472686)
+else if (true)
 {
 if (sNK92Z83X != -954971000)
 {
@@ -151,7 +151,7 @@ else
 nRJS9361 = u4kyd_(1331443380, nRJS9361, 177309588, sNK92Z83X);
 }
 }
-else if (sNK92Z83X >= 127080860)
+else if (false)
 {
 {
 int j = 7;
@@ -187,7 +187,7 @@ if ((gdP4) || (nRJS9361 > -676090405))
 b_o3E = u4kyd_(IoW_921, -435099237, 1206353729, -193066306);
 }
 
-if ((nRJS9361 >= sokOT7i2_A) || ((gdP4 <= 2094720659) && (ars6U__pe != 996100427)))
+if ((nRJS9361 >= sokOT7i2_A) || ((gdP4 <= 2094720659) && (true)))
 {
 for (int j = 0; j < 3; ++j)
 {
@@ -294,7 +294,7 @@ if ((sNK92Z83X & 818856392) || (IoW_921 < b_o3E))
 {
 b_o3E = u4kyd_(IoW_921, b_o3E, ars6U__pe, gdP4);
 }
-else if ((PTZV4rp2C >= 1836562921) && ((IoW_921) || (b_o3E != 1339172835)))
+else if ((false) && ((IoW_921) || (b_o3E != 1339172835)))
 {
 IoW_921 = (int)abs(b_o3E) + (1626940230);
 }
@@ -305,7 +305,7 @@ for (int k = 0; k < 10; ++k)
 IoW_921 += PTZV4rp2C;
 }
 }
-else if ((nRJS9361 == -341060022) && (PTZV4rp2C < -107291357))
+else if ((nRJS9361 == -341060022) && (false))
 {
 {
 int k = 0;
@@ -327,7 +327,7 @@ b_o3E = u4kyd_(b_o3E, ars6U__pe, 633596603, sNK92Z83X);
 }
 }
 }
-else if (PTZV4rp2C < 165297000)
+else if (true)
 {
 {
 int k = 5;
@@ -416,7 +416,7 @@ if (sokOT7i2_A > b_o3E)
 {
 PTZV4rp2C = u4kyd_(PTZV4rp2C, -437458156, IoW_921, 624481222);
 }
-else if (sNK92Z83X < -576617253)
+else if (false)
 {
 if ((IoW_921 == 551779943) && (b_o3E))
 {

@@ -116,7 +116,7 @@ break;
 
 aLxF9ktuI = (int)abs(QvehBS3s4);
 
-if ((O_H7n8It <= -651154459) && ((Ze1sdo0 >= -1679363002) || (tXQpB_KFT <= eT990)))
+if ((O_H7n8It <= -651154459) && ((true) || (tXQpB_KFT <= eT990)))
 {
 if (JVkEPSW5u4 < 1177345675)
 {

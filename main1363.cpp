@@ -97,7 +97,7 @@ if (RbTOg > 2145144544)
 mm6_6_U0ao = BicQbhk ^ 754856529;
 }
 }
-else if ((X02SM >= 475521749) || (d4F9G00 < -1599647560))
+else if ((X02SM >= 475521749) || (false))
 {
 if (o65mxKgF6i)
 {

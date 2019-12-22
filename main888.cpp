@@ -466,7 +466,7 @@ else
 dGhM_Q = (int)abs(q91KB5);
 }
 }
-else if (d8Y5VDW3ZH == -924877950)
+else if (false)
 {
 X6jft = (int)abs(QPaA9J);
 }

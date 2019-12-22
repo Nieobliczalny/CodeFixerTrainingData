@@ -229,7 +229,7 @@ while (j >= 0);
 }
 else
 {
-if (c_9sE >= -1587397128)
+if (true)
 {
 mnh147 = (long)(e4Drv9);
 }
@@ -267,7 +267,7 @@ if ((AO8K5_J <= 1564710088) || ((E8_39qsMm < Ai7wtt) && (Ev4WN547lX <= rJgiQ136)
 {
 if (E8_39qsMm == -315938725)
 {
-if (muJwE != -1990527391)
+if (true)
 {
 E130 = (int)abs(Grr2qiPL8n);
 }

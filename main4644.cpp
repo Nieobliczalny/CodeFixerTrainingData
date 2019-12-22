@@ -60,7 +60,7 @@ while (j < 7);
 
 if (Xt5Q & -845029837)
 {
-if (D7Y7 == -311822386)
+if (false)
 {
 {
 int k = 4;
@@ -126,7 +126,7 @@ D7Y7 = KeWb6Ykt | S_LcUEW0EU;
 while (j < 2);
 }
 }
-else if ((zmPjY9Pg < N_4V9S9) && ((S_LcUEW0EU <= zmPjY9Pg) || (F3P3iifX != -1218613851)))
+else if ((true) && ((S_LcUEW0EU <= zmPjY9Pg) || (F3P3iifX != -1218613851)))
 {
 yc53 = (long long)(W_TXP2);
 }
@@ -147,7 +147,7 @@ else
 zmPjY9Pg = xFkR6T3L + zmPjY9Pg;
 }
 
-if (Xt5Q <= -1995432769)
+if (false)
 {
 if (Xt5Q < 2046593232)
 {
@@ -183,7 +183,7 @@ zmPjY9Pg--;
 }
 else if (D7Y7)
 {
-if ((D7Y7 > T4wD) || ((F3P3iifX < MtmWT1zz) || (OF72 <= -1734827826)))
+if ((true) || ((F3P3iifX < MtmWT1zz) || (OF72 <= -1734827826)))
 {
 if (F3P3iifX != -1680048363)
 {
@@ -198,7 +198,7 @@ else if (xFkR6T3L)
 {
 J_q8v = yc53 >> 1445272958;
 }
-else if ((xFkR6T3L) || (Xt5Q > 275908923))
+else if ((xFkR6T3L) || (false))
 {
 D7Y7 >>= KeWb6Ykt;
 }
@@ -213,7 +213,7 @@ zmPjY9Pg = MtmWT1zz ^ F3P3iifX;
 }
 }
 }
-else if ((yc53 <= W_TXP2) || (KeWb6Ykt >= 982127619))
+else if ((yc53 <= W_TXP2) || (false))
 {
 try
 {
@@ -245,7 +245,7 @@ F3P3iifX >>= zmPjY9Pg;
 }
 else
 {
-if (u7ol6D >= W_TXP2)
+if (true)
 {
 switch (xFkR6T3L)
 {
@@ -308,7 +308,7 @@ if (D7Y7)
 {
 if (yc53 <= T4wD)
 {
-if ((Xt5Q) && (u7ol6D <= -507255056))
+if ((Xt5Q) && (false))
 {
 OF72 >>= yc53;
 }
@@ -348,7 +348,7 @@ int j = 3;
 do
 {
 j--;
-if (u7ol6D > T4wD)
+if (true)
 {
 zmPjY9Pg = N_4V9S9 & 979257944;
 }
@@ -397,7 +397,7 @@ int j = 0;
 do
 {
 ++j;
-if (zmPjY9Pg != T4wD)
+if (true)
 {
 OF72 = W_TXP2 % F3P3iifX;
 }
@@ -415,7 +415,7 @@ if (MtmWT1zz == 518396651)
 {
 std::cout << KeWb6Ykt << std::endl;
 }
-else if ((J_q8v == T4wD) && (Z868mu > zmPjY9Pg))
+else if ((false) && (Z868mu > zmPjY9Pg))
 {
 if (OF72 == J_q8v)
 {
@@ -425,7 +425,7 @@ else if (((S_LcUEW0EU < Xt5Q) || (KeWb6Ykt)) && (yc53))
 {
 xFkR6T3L += zmPjY9Pg;
 }
-else if (F3P3iifX >= 754610187)
+else if (false)
 {
 KeWb6Ykt--;
 }
@@ -503,7 +503,7 @@ KeWb6Ykt--;
 }
 }
 
-if ((J_q8v & KeWb6Ykt) && (KeWb6Ykt == 2036392947))
+if ((J_q8v & KeWb6Ykt) && (false))
 {
 switch (xFkR6T3L)
 {
@@ -529,7 +529,7 @@ break;
 }
 else
 {
-if (F3P3iifX >= W_TXP2)
+if (true)
 {
 switch (F3P3iifX)
 {
@@ -609,7 +609,7 @@ OF72 = (unsigned short int)(J_q8v);
 std::cout << zmPjY9Pg << xFkR6T3L << Z868mu << KeWb6Ykt << std::endl;
 try
 {
-if (u7ol6D >= -2140815501)
+if (true)
 {
 J_q8v += KeWb6Ykt;
 }
@@ -635,7 +635,7 @@ int i = 3;
 do
 {
 --i;
-if (((S_LcUEW0EU >= D_OCjc49S) || (F3P3iifX != -1566903376)) && (xFkR6T3L))
+if (((S_LcUEW0EU >= D_OCjc49S) || (true)) && (xFkR6T3L))
 {
 {
 int k = 6;

@@ -100,7 +100,7 @@ tl2t_ = QKz1DH1BEV / FTPHd;
 B3Qz3ev = (long double)(Nvm7);
 if (Nvm7 > -1722094708)
 {
-if (Ac4zeg != -996538130)
+if (true)
 {
 cout << "V1rn3tKuec" << ga_H(Nvm7, gtdYe) << "c0tND15u8" << ga_H(811518441, -670567835) << endl;
 }
@@ -165,7 +165,7 @@ break;
 }
 else if (bMtUQ_b >= QKz1DH1BEV)
 {
-if ((qVxJaXw4l == i39sz6_) || (AfPm8 != 1773483430))
+if ((qVxJaXw4l == i39sz6_) || (true))
 {
 {
 int k = 0;
@@ -187,7 +187,7 @@ else if (uWN7kn)
 {
 eGY21M5p2 /= I5Rl;
 }
-else if ((I5Rl > r0SN1_h) && (ChD5R <= EWZA8))
+else if ((I5Rl > r0SN1_h) && (false))
 {
 AfPm8 = (int)abs(i00T__6);
 }
@@ -237,7 +237,7 @@ tl2t_ ^= Yb_o;
 }
 else if ((Q0kgD2 == 1313938835) || ((w96leI7 <= GC0dUO) && (i00T__6)))
 {
-if (Yb_o >= 1833939893)
+if (false)
 {
 LgUT_5n8 = ga_H(bX_0_34D, dbhHb);
 }
@@ -270,7 +270,7 @@ KhR3a = (int)floor(f5FJ5NG8);
 }
 }
 }
-else if (uWN7kn <= EWZA8)
+else if (false)
 {
 if (I5Rl < A2dJS)
 {
@@ -313,7 +313,7 @@ else
 gtdYe = (double)(QKz1DH1BEV);
 }
 }
-else if (mdF_ < 220239101)
+else if (true)
 {
 if ((n02yw > 1864391935) && ((Ac4zeg >= -1950808531) && (bX_0_34D < -321521433)))
 {
@@ -342,7 +342,7 @@ LgUT_5n8 = ga_H(1348970404, KH_9u21);
 while (k >= 0);
 }
 }
-else if (((uWN7kn < QKz1DH1BEV) && (FTPHd > 872574803)) || (n02yw == -1140170624))
+else if (((false) && (FTPHd > 872574803)) || (n02yw == -1140170624))
 {
 for (int k = 0; k < 9; ++k)
 {
@@ -370,7 +370,7 @@ i00T__6--;
 }
 else if (Tcc0Mx3 == -268008031)
 {
-if (Yb_o > QKz1DH1BEV)
+if (true)
 {
 ChD5R += S6_L_CT0X;
 }
@@ -404,7 +404,7 @@ else if (ChD5R == v8wjzT)
 {
 try
 {
-if (((mdF_ < QKz1DH1BEV) || (qVxJaXw4l >= KH_9u21)) || (YCYGOpx >= r0SN1_h))
+if (((false) || (qVxJaXw4l >= KH_9u21)) || (YCYGOpx >= r0SN1_h))
 {
 KhR3a = (int)ceil(B3Qz3ev);
 }
@@ -508,7 +508,7 @@ while (k < 8);
 }
 else
 {
-if ((KH_9u21 != r0SN1_h) && (eGY21M5p2 == 794956264))
+if ((KH_9u21 != r0SN1_h) && (false))
 {
 Nvm7 = (int)ceil(v8wjzT);
 }
@@ -550,7 +550,7 @@ f5FJ5NG8 = (int)floor(v8wjzT);
 
 O7z1 = (int)floor(v8wjzT);
 
-if (AfPm8 <= 148275453)
+if (true)
 {
 if ((tu5Y08XL != I5Rl) && ((i00T__6 >= 1690850772) && (Mz6v < yczg5_l)))
 {
@@ -613,7 +613,7 @@ catch (int& errorCode)
 LgUT_5n8 = ga_H(dbhHb, -1604923363);
 }
 }
-else if ((Ac4zeg == QKz1DH1BEV) && ((Lyww4 == QKz1DH1BEV) || (AfPm8 & 583545376)))
+else if ((false) && ((Lyww4 == QKz1DH1BEV) || (AfPm8 & 583545376)))
 {
 {
 int k = 0;

@@ -63,7 +63,7 @@ else if (c0s3 & -941896818)
 {
 Kni34FF = (int)abs(Vgzu6Oj7);
 }
-else if (wx9L == 198238506)
+else if (false)
 {
 for (int j = 0; j < 10; j++)
 {
@@ -77,7 +77,7 @@ PEMa0_gOU -= q183Rnv;
 }
 }
 }
-else if (J8FENEx2cu == 1963482532)
+else if (false)
 {
 {
 int j = 0;
@@ -87,7 +87,7 @@ if (((cVgzrV9) && (AH_DY4x4_ < -1481261230)) && ((w7_mrU8F17) && (FZA4BvGJ3Q < c
 {
 J_MqNED = lJGW2dgngw + 406567423;
 }
-else if (((w1E_ != 452096154) || (b5gR77w >= -455133022)) || ((Ac3EQO4N > 2107148845) || (tUYuh82mM >= rP17Fwl6)))
+else if (((true) || (b5gR77w >= -455133022)) || ((Ac3EQO4N > 2107148845) || (tUYuh82mM >= rP17Fwl6)))
 {
 j6WW = LmhFtA0U & 1890473079;
 }
@@ -125,7 +125,7 @@ purl8G &= fIVVW2;
 
 try
 {
-if (dfU0NLOlp > 868943547)
+if (false)
 {
 {
 int k = 0;
@@ -150,7 +150,7 @@ do
 i--;
 if (roB5a7f_PU <= cVgzrV9)
 {
-if (((D1hLm <= K82CJ4LVQ_) || (A6XPHv_GDH <= 657493215)) && (yAp1 != -883347441))
+if (((D1hLm <= K82CJ4LVQ_) || (true)) && (yAp1 != -883347441))
 {
 pQsQsf = tE7G / 54358350;
 }
@@ -168,7 +168,7 @@ c0s3 |= oz3c;
 }
 else
 {
-if (ddZsYPp < -1088988081)
+if (false)
 {
 CB5pp77QG = JzG1omgqfW << 792880555;
 }
@@ -180,7 +180,7 @@ else if (L409eW4 >= E5M769E)
 {
 BHp32t6 %= 78748739;
 }
-else if ((rP17Fwl6 <= CB5pp77QG) && ((py45b & Hpe24U) || (rP17Fwl6 >= 1005507)))
+else if ((rP17Fwl6 <= CB5pp77QG) && ((py45b & Hpe24U) || (false)))
 {
 KHYp16Yv_ = LmhFtA0U & iSzHF;
 }
@@ -220,7 +220,7 @@ int i = 0;
 do
 {
 i++;
-if (((E8108h6y >= 644741291) || (j_iz3S == 465282458)) || ((s0F32q) || (R4L88_9 > D1hLm)))
+if (((false) || (j_iz3S == 465282458)) || ((s0F32q) || (R4L88_9 > D1hLm)))
 {
 std::cout << ddZsYPp << "S3iraql" << std::endl;
 }
@@ -239,7 +239,7 @@ do
 {
 if (S9v640R89c > iSzHF)
 {
-if (AH_DY4x4_ != 1534655931)
+if (true)
 {
 yAp1 /= tUYuh82mM;
 }
@@ -251,7 +251,7 @@ else if (zbybWTt1p != 549315961)
 {
 kZGdWy0++;
 }
-else if (W_kq3m >= -55522839)
+else if (true)
 {
 Vgzu6Oj7 = (int)abs(Kni34FF);
 }
@@ -264,7 +264,7 @@ else
 cVgzrV9++;
 }
 }
-else if ((J8FENEx2cu < b5bKc) && ((J_MqNED < Vgzu6Oj7) || (Ilpa <= 250358558)))
+else if ((J8FENEx2cu < b5bKc) && ((J_MqNED < Vgzu6Oj7) || (true)))
 {
 Kni34FF = (int)abs(Vgzu6Oj7);
 }
@@ -278,7 +278,7 @@ else if (Hpe24U & 664335966)
 {
 Kni34FF = (int)abs(Vgzu6Oj7);
 }
-else if (lJGW2dgngw == 2063415850)
+else if (false)
 {
 K82CJ4LVQ_ = sa_GnvVdWD / 1356625173;
 }

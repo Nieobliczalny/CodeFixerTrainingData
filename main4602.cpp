@@ -201,7 +201,7 @@ v8bR_ ^= wwyS;
 }
 else
 {
-if ((ZtJ1tqM & X2Wau0ANn) || ((yNaU5H != X2Wau0ANn) && (EQT_OxABG == 1917776608)))
+if ((ZtJ1tqM & X2Wau0ANn) || ((yNaU5H != X2Wau0ANn) && (false)))
 {
 Y6vO = MzLfo8rU_W(L_XCOGxvO0, H1tP, endbxy);
 }
@@ -224,7 +224,7 @@ Ju25_ = 2053213521 / Y6vO;
 int i = 5;
 do
 {
-if (EQT_OxABG <= 581645199)
+if (true)
 {
 H1tP = (unsigned long)(AW1Dl9v72K);
 }

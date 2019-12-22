@@ -220,7 +220,7 @@ KoSjn = (int)abs(yO5uz88);
 }
 else if (yO5uz88)
 {
-if (KoSjn < 1326036342)
+if (true)
 {
 KoSjn = (int)abs(yO5uz88);
 }
@@ -341,7 +341,7 @@ while (i >= 0);
 
 for (int i = 3; i >= 0; --i)
 {
-if ((EDVjq3i6T5 != 1424542918) && ((nSxq3B != EDVjq3i6T5) && (KoSjn > 1798501134)))
+if ((EDVjq3i6T5 != 1424542918) && ((nSxq3B != EDVjq3i6T5) && (false)))
 {
 {
 int k = 0;

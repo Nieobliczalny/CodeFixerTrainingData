@@ -118,7 +118,7 @@ int i = 5;
 while (i >= 0)
 {
 i--;
-if (((kGdxu != 1540782740) && (Vg8r7y0j != 938240165)) || (O0Id6_VE != -1143763910))
+if (((kGdxu != 1540782740) && (true)) || (O0Id6_VE != -1143763910))
 {
 {
 int k = 0;
@@ -155,7 +155,7 @@ std::cout << "JMpuYX_4" << tqSKstu5vq << std::endl;
 int i = 0;
 do
 {
-if (((eOcuMYim) || (kGdxu)) || (sCN35c8l_r != hWkRI))
+if (((eOcuMYim) || (kGdxu)) || (true))
 {
 switch (I_nmgHI_)
 {
@@ -209,7 +209,7 @@ do
 ++i;
 if (tqSKstu5vq <= Q_283g0_6m)
 {
-if ((cR_j80Q >= vXs1hy) || ((d5_vFE > cR_j80Q) && (sCN35c8l_r >= HfN4nj)))
+if ((cR_j80Q >= vXs1hy) || ((d5_vFE > cR_j80Q) && (false)))
 {
 kGdxu = VgNZ(jF_FJ6oDDT, 2080311712, 1387963082, 119849799, kGdxu);
 }
@@ -224,7 +224,7 @@ if (vXs1hy < r_7Ht4)
 {
 u2hb2LgVn6 = (int)ceil(egZgf0);
 }
-else if (Vg8r7y0j < -482326410)
+else if (false)
 {
 R1Bd61 -= 1244654655;
 }

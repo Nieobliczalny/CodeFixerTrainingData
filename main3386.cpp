@@ -94,7 +94,7 @@ int main(int argc, char** argv)
 
 cout << "YIj7O" << Rd55624 << yVeeW1tFr << "IUAYhk3" << endl;
 
-if (v2yo7l0e_9 != -1464139209)
+if (true)
 {
 if (((w99h_Aen != -1505720273) || (LeM46Ax5r & -1310886040)) && ((qXrS == 1765477540) || (DLNI & -1031471334)))
 {
@@ -181,7 +181,7 @@ int i = 1;
 while (i >= 0)
 {
 --i;
-if ((vjv44_p4W == -1584794401) || ((Ko2XWasM) && (NZMOr21 < -645432765)))
+if ((vjv44_p4W == -1584794401) || ((Ko2XWasM) && (false)))
 {
 switch (WaAxHvw6)
 {
@@ -206,7 +206,7 @@ if (DhX3HRd == -893408944)
 {
 aHIWfH = (long)(H4EsXcq5o);
 }
-else if (WaAxHvw6 != -152956718)
+else if (true)
 {
 if (((F_k7 <= 341915234) || (KHs7ZN >= 1026952728)) && (j5l6 == 771366148))
 {
@@ -253,7 +253,7 @@ break;
 }
 else
 {
-if ((DXSpnSb8Z > 1688768163) || ((v3U7l0 < DLNI) || (M_ep__ye & -489875456)))
+if ((false) || ((v3U7l0 < DLNI) || (M_ep__ye & -489875456)))
 {
 for (int k = 0; k < 9; ++k)
 {
@@ -352,7 +352,7 @@ JRuEg = mwbX8f();
 }
 
 cout << "TT7E2X_" << endl;
-if (DXSpnSb8Z < -1513471071)
+if (false)
 {
 yVeeW1tFr = (int)ceil(I2K_QO);
 }
@@ -493,7 +493,7 @@ i--;
 }
 cout << xR9_lfY1xv(2073815267, -938021790) << "TdRh" << "L_OG" << endl;
 
-if (qXrS >= -1807916132)
+if (true)
 {
 J3m7R3 = (unsigned long long)(m0F924_6z * J3m7R3);
 }
@@ -508,7 +508,7 @@ catch (int& errorCode)
 WoH4F02 |= m0F924_6z;
 }
 }
-if (Tj0QnUoGav <= -118629909)
+if (false)
 {
 if ((NZMOr21 >= 1604014770) && ((DLNI < -531607820) || (YlPcL4l4 != eQdm87lx20)))
 {
@@ -570,7 +570,7 @@ break;
 }
 
 jvih = (long)(I2K_QO);
-if ((m0F924_6z == bjv470R) || (EA2Mzf < 523851264))
+if ((m0F924_6z == bjv470R) || (true))
 {
 if (YA8xm8i6v)
 {
@@ -628,7 +628,7 @@ int j = 0;
 while (j < 9)
 {
 ++j;
-if ((yG4MRr >= -49255420) || (Q02Q_6 > 500079783))
+if ((yG4MRr >= -49255420) || (false))
 {
 h11jLdCL_ = mwbX8f();
 }

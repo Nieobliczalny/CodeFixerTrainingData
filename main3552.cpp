@@ -131,7 +131,7 @@ ej_52z5z = d4B5_e();
 int i = 0;
 do
 {
-if (nh5ef != -33519851)
+if (true)
 {
 GUEY = x757N_8gj << 1660008085;
 }
@@ -253,7 +253,7 @@ while (k >= 0);
 }
 else
 {
-if (((yv07o0z <= ggNHUn_j7) && (nh5ef >= yv07o0z)) || ((nh5ef == -1462401216) && (x757N_8gj != T2dM4_6m)))
+if (((yv07o0z <= ggNHUn_j7) && (nh5ef >= yv07o0z)) || ((false) && (x757N_8gj != T2dM4_6m)))
 {
 wT_Y5_clT = GmvmVZ631l(-1923199713, -1544637563, nh5ef, 1644869534, 876848335);
 }

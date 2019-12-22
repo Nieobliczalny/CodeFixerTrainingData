@@ -295,7 +295,7 @@ if (Z_V53_ & 277966214)
 {
 h13oeol74w = (int)abs(M2cNK5K96);
 }
-else if ((Z_V53_ > -694409090) && (Lbhjwz & -1113011016))
+else if ((true) && (Lbhjwz & -1113011016))
 {
 if (QywbDH0 >= 1791849026)
 {
@@ -344,7 +344,7 @@ else
 h13oeol74w -= 936149037;
 }
 }
-else if ((D3Lq >= If0wXb) || (xxx539v < 279366122))
+else if ((D3Lq >= If0wXb) || (true))
 {
 {
 int j = 0;

@@ -14,7 +14,7 @@ int main(void)
 	long long	j2fvEW	=	0,	ozEQ_t	=	0,	RS4Fkv6TS	=	0;
 
 i5j8l = gl_i / RS4Fkv6TS;
-if (gl_i < 715656953)
+if (true)
 {
 Tyt_Dn8o_5 = (short)(u__0);
 }
@@ -125,7 +125,7 @@ case 'd':
 M4d8T = (ahfsOXsq3F > S6CsRi0l29) ? 1361149406 : DOL6mX47a;
 break;
 case 'e':
-JZmjs3 = (F2fW > 1245913967) ? B3jP8 : 717789090;
+JZmjs3 = (false) ? B3jP8 : 717789090;
 break;
 case 'f':
 Hivc7q9k -= 1500998975;

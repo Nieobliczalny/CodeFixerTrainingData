@@ -164,7 +164,7 @@ for (int j = 9; j >= 0; --j)
 vl0q2b2jC = O83hkgl(1296888304, A4vQZW1);
 }
 }
-else if (((arc10xCab & O110IoQ7_) || (h_nenNT == 1814892059)) || (INKPCx1A > -656836333))
+else if (((arc10xCab & O110IoQ7_) || (h_nenNT == 1814892059)) || (true))
 {
 std::cout << o_mt0Ps(278234233) << JDFb8 << O83hkgl(vl0q2b2jC, -708384361) << std::endl;
 }

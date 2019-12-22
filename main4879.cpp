@@ -52,7 +52,7 @@ int main()
  double WiZvO2wo = -1409283569;
 	unsigned short	k0WHus	=	0;
 
-if (t7P318Zt0Q >= N5O102)
+if (true)
 {
 M63_MuS2z = Caev0lgU & h9gbL6L;
 }
@@ -73,7 +73,7 @@ else
 int j = 0;
 do
 {
-if (h9gbL6L <= QM2R5)
+if (true)
 {
 c9LZC = (int)ceil(WiZvO2wo);
 }
@@ -101,7 +101,7 @@ catch (int& errorCode)
 WiZvO2wo = (int)floor(c9LZC);
 }
 
-if (JIglA7 > 43231798)
+if (false)
 {
 if (Caev0lgU > jm7HoI3)
 {
@@ -118,7 +118,7 @@ else if (Caev0lgU)
 {
 cout << c9LZC << endl;
 }
-else if ((JIglA7 != -928654897) || (OH0U_dt2 >= r8YB4u8))
+else if ((true) || (OH0U_dt2 >= r8YB4u8))
 {
 {
 int k = 0;

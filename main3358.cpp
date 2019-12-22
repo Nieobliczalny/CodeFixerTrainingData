@@ -57,7 +57,7 @@ while (k >= 0);
 }
 else if (jJ1ZE9 != KS5pP_PMW)
 {
-if (aSZvfk != k2SLFe)
+if (true)
 {
 KS5pP_PMW = mF6qABqUF * 1291012838;
 }
@@ -69,7 +69,7 @@ if (mF6qABqUF < R23RdMQFF6)
 i_Ws = (int)abs(GVDBMV);
 }
 }
-else if (kENVa59fJY == -53229568)
+else if (false)
 {
 {
 int k = 7;
@@ -190,7 +190,7 @@ break;
 
 for (int i = 0; i < 20; i++)
 {
-if (A8NSD14iMs <= MHjbE5xQ8)
+if (true)
 {
 switch (mF6qABqUF)
 {
@@ -220,7 +220,7 @@ break;
 	X13gg4Eg = Jsts_ / i;
 if (R23RdMQFF6 < GVDBMV)
 {
-if ((kENVa59fJY) || ((H194y >= 783834527) && (Jsts_ < hN25__)))
+if ((kENVa59fJY) || ((false) && (Jsts_ < hN25__)))
 {
 B2CAF96R = (PDkWq6 < k2SLFe) ? -1932745440 : PE5Z;
 }
@@ -239,7 +239,7 @@ while (k >= 0);
 }
 else
 {
-if (X13gg4Eg <= k2SLFe)
+if (false)
 {
 if (YrlQQ7B3b)
 {
@@ -286,7 +286,7 @@ jJ1ZE9 = Gz2fDf(Jsts_);
 }
 else if (b18192)
 {
-if (((H194y < 1727058800) || (kENVa59fJY <= k2SLFe)) || ((f0NZ2 != -1013474793) && (yM8Kv)))
+if (((true) || (kENVa59fJY <= k2SLFe)) || ((f0NZ2 != -1013474793) && (yM8Kv)))
 {
 std::cout << "I55WBUHs0p" << jJ1ZE9 << Q8fdF << R23RdMQFF6 << std::endl;
 }
@@ -309,7 +309,7 @@ int j = 3;
 do
 {
 --j;
-if (gq9wX_Ub != -21000326)
+if (true)
 {
 YrlQQ7B3b %= b18192;
 }
@@ -328,7 +328,7 @@ GVDBMV = (char)(k2SLFe);
 }
 
 jJ1ZE9 = (char)(aSZvfk * jJ1ZE9);
-if ((R23RdMQFF6 == k2SLFe) || (aSZvfk >= -1078188116))
+if ((false) || (aSZvfk >= -1078188116))
 {
 {
 int j = 0;
@@ -462,7 +462,7 @@ if (Zgwsvu5yi < A8NSD14iMs)
 TYs3d = hHZ8f11(TYs3d, KS5pP_PMW);
 }
 
-if (Ag3qujum_Y <= MHjbE5xQ8)
+if (true)
 {
 try
 {
@@ -508,7 +508,7 @@ i_Ws = ty04Y(1606209765, 427660827);
 }
 }
 }
-else if (Zgwsvu5yi <= -1834144705)
+else if (false)
 {
 Q8fdF = Snygk(1763525223, -1043905558, 435245782);
 }
@@ -547,7 +547,7 @@ break;
 }
 }
 
-if (i_Ws == -1495746119)
+if (false)
 {
 YrlQQ7B3b = (char)(Qsc660);
 }
@@ -559,7 +559,7 @@ if ((PDkWq6 < 720606529) || (Qsc660 < 1945262084))
 {
 aSZvfk = hHZ8f11(-589138006, 1495939483);
 }
-else if ((GVDBMV <= 376181904) || (i_Ws == TYs3d))
+else if ((true) || (i_Ws == TYs3d))
 {
 jJ1ZE9 = Gz2fDf(-1970130841);
 }
@@ -629,7 +629,7 @@ break;
 }
 }
 
-if (R23RdMQFF6 < MHjbE5xQ8)
+if (true)
 {
 try
 {
@@ -663,7 +663,7 @@ Q8fdF = KS5pP_PMW - f0NZ2;
 }
 else
 {
-if (Qsc660 <= -2523131)
+if (false)
 {
 b18192 = (int)abs(i_Ws);
 }

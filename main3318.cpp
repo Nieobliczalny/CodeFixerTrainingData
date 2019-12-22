@@ -817,7 +817,7 @@ else if (I5o7M_7s12 < N9CCE_6T)
 {
 TgZNq6--;
 }
-else if (z6Ud8J9_ > 978862218)
+else if (false)
 {
 I5o7M_7s12 >>= 438729581;
 }
@@ -836,7 +836,7 @@ z6Ud8J9_ = S0V9rDeC2(1722907291);
 }
 else if ((G74_Q & aa2K) || ((aa2K <= -253609361) || (RSculP3)))
 {
-if (z6Ud8J9_ >= -817822723)
+if (true)
 {
 t4_M += 448628314;
 }

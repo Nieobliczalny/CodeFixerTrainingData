@@ -73,7 +73,7 @@ if (Nx_7)
 int j = 7;
 while (j >= 0)
 {
-if ((XJk_ > pnXSqs) || ((aabGa45A >= L0Sv5ywAi) || (ELF6YdShy != -1634307112)))
+if ((XJk_ > pnXSqs) || ((aabGa45A >= L0Sv5ywAi) || (true)))
 {
 mjmPD6rI = (int)ceil(I2_Fn);
 }

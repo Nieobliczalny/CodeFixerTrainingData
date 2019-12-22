@@ -95,7 +95,7 @@ do
 switch (Cus44oXawM)
 {
 case 0:
-t6X2 = (qBGGz555 == -594572349) ? t6X2 : s3lt;
+t6X2 = (false) ? t6X2 : s3lt;
 break;
 case 1:
 t6X2 = t6X2 - 676620713;
@@ -145,7 +145,7 @@ t6X2 = Fn12TAHi(s3lt, -2052124523, 1650327297, -146769716) * qBGGz555;
 break;
 }
 
-if (s3lt >= -1196932674)
+if (true)
 {
 cout << kO_Ag(s3lt, Cus44oXawM, -561771066, -1122409578) << "JY0_6" << "N7B9v8" << s3lt << "Ql0G" << endl;
 }
@@ -199,7 +199,7 @@ while (k >= 0);
 }
 }
 
-if (Cus44oXawM >= -1069769512)
+if (true)
 {
 for (int j = 0; j < 4; j++)
 {
@@ -223,7 +223,7 @@ if (Cus44oXawM)
 {
 for (int j = 6; j >= 0; j--)
 {
-if (s3lt <= 2061521012)
+if (true)
 {
 t6X2 = V_4B();
 }
@@ -391,7 +391,7 @@ catch (int& errorCode)
 t6X2 = s3lt >> 906793559;
 }
 
-if (((Cus44oXawM < 1214630010) || (qBGGz555 & -1053675406)) || (s3lt >= -1777544688))
+if (((true) || (qBGGz555 & -1053675406)) || (s3lt >= -1777544688))
 {
 switch (qBGGz555)
 {

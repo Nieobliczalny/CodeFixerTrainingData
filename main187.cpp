@@ -250,7 +250,7 @@ cout << aT_7_Fe_1 / bc5L2As << endl;
 vsk8 = h7j8 % B324S3r;
 zG4_ = z6bn(439478273, -1618005655, -1230656685);
 
-if (bc5L2As >= -2005618882)
+if (true)
 {
 {
 int j = 8;
@@ -275,7 +275,7 @@ catch (int& errorCode)
 {
 XA59KRn = z6bn(-1965171064, IWtgV8Itcu, 2122909850);
 }
-if ((Ie5__ < -899346912) && (Z3so < 651714401))
+if ((false) && (Z3so < 651714401))
 {
 switch (I59nu)
 {
@@ -400,7 +400,7 @@ else
 b9mBHT = (unsigned short)(qPf4OoU_);
 }
 
-if (m4oJ >= -80488363)
+if (true)
 {
 zG4_ = z6bn(1119870276, jmlkpArBc, -1902354779);
 }

@@ -61,7 +61,7 @@ int main(int argc, char** argv) {
 
 if (pd8H1k67I < -1519918493)
 {
-if (ek_Hgp6XQR > 567330471)
+if (false)
 {
 lk6Sq_EUW = TWCD9(1305630223, ek_Hgp6XQR, r9S5hbMTb, 1139027811);
 }
@@ -141,7 +141,7 @@ else if (E7553 >= mMJE8)
 {
 ojU3S = eUT4sGhJUM >> 1741073837;
 }
-else if (vX_91uP6Z <= 1040981235)
+else if (true)
 {
 cout << h6NfSQ8Wj << pd8H1k67I << jL9_ << endl;
 }
@@ -160,7 +160,7 @@ QB773TBu9 = (int)floor(j9OTc);
 }
 else
 {
-if ((tPuqbdWNE <= -1813683736) && ((gBL3a66_1P < LLx0IqWeOU) && (QB773TBu9 != 1059730823)))
+if ((false) && ((gBL3a66_1P < LLx0IqWeOU) && (QB773TBu9 != 1059730823)))
 {
 LLx0IqWeOU = h6NfSQ8Wj * 1745497275;
 }
@@ -201,7 +201,7 @@ if (VZ4Y3LpP >= 1602555215)
 {
 cout << TWCD9(lk6Sq_EUW, h6NfSQ8Wj, 1299973420, ZEF4ak_2C) << "ifSXfcWsIe" << lk6Sq_EUW << endl;
 }
-else if ((uh9BI2 != 515500821) && (VZ4Y3LpP))
+else if ((true) && (VZ4Y3LpP))
 {
 i__KiX = (int)ceil(UA5dGZl);
 }
@@ -221,7 +221,7 @@ else if ((eUT4sGhJUM >= -846560351) || (iMGLg5n9vd >= -683767956))
 {
 Wk1_O4 = (float)(jL9_);
 }
-else if (mMJE8 == -1415469341)
+else if (false)
 {
 switch (lk6Sq_EUW)
 {
@@ -248,7 +248,7 @@ Wk1_O4 = (int)abs(uh9BI2);
 break;
 }
 }
-else if ((z3Afzw < iMGLg5n9vd) || (ek_Hgp6XQR < -1280967530))
+else if ((z3Afzw < iMGLg5n9vd) || (false))
 {
 if (RBeSj8mI <= uh9BI2)
 {
@@ -361,7 +361,7 @@ if (dxm0rA >= RBeSj8mI)
 {
 VZ4Y3LpP = VZ4Y3LpP | 45831583;
 }
-else if (z3Afzw != -1048805757)
+else if (true)
 {
 jL9_ = jL9_ * 1721153229;
 }
@@ -373,7 +373,7 @@ else if ((uh9BI2) && (uh9BI2 != -1243409541))
 {
 gBL3a66_1P *= pd8H1k67I;
 }
-else if (ao2T < -796209803)
+else if (false)
 {
 QB773TBu9 = (int)floor(i__KiX);
 }
@@ -393,7 +393,7 @@ ojU3S = TWCD9(-373896255, -1986763844, QB773TBu9, ek_Hgp6XQR);
 }
 for (int i = 4; i >= 0; i--)
 {
-if (dxm0rA < 1145260990)
+if (true)
 {
 mMJE8 = (unsigned short int)(ojU3S);
 }
@@ -422,7 +422,7 @@ lk6Sq_EUW *= mU8x_c;
 break;
 case 'd':
 case 'D':
-IsFxBFvW = (uh9BI2 >= 751858437) ? Jq8l_vZS(ZEF4ak_2C, X3jiCk6gm8) : -45268241;
+IsFxBFvW = (false) ? Jq8l_vZS(ZEF4ak_2C, X3jiCk6gm8) : -45268241;
 break;
 case 'e':
 case 'E':

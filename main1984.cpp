@@ -95,7 +95,7 @@ int main(int argc, char** argv)
 
 if (eUiyNz8)
 {
-if (yyGGMfP > 1224751767)
+if (false)
 {
 if (((x4Th26Fi & 172025685) || (f3p9K8svk != 1318646026)) || (I67gQZxv))
 {
@@ -158,7 +158,7 @@ else
 int k = 6;
 while (k >= 0)
 {
-ysR_GyC3O = (u19JnZ62 <= 938061947) ? vdp3970 : 1416786523;
+ysR_GyC3O = (true) ? vdp3970 : 1416786523;
 k--;
 }
 }
@@ -169,7 +169,7 @@ for (int i = 0; i < 2; ++i)
 Wtdp++;
 }
 
-if (v6P_B > 500175299)
+if (false)
 {
 if (Ksvn6ll <= -1019352376)
 {
@@ -228,7 +228,7 @@ break;
 }
 if (FkI8yTgTu_ < yyGGMfP)
 {
-if (((DT82_5EvB > 1277876436) || (vdp3970 != 2012737824)) || ((x0Wf9 <= jnqcSJ6W) || (U0hKe_ >= -874233654)))
+if (((false) || (vdp3970 != 2012737824)) || ((x0Wf9 <= jnqcSJ6W) || (U0hKe_ >= -874233654)))
 {
 x4Th26Fi /= 696333689;
 }

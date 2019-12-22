@@ -109,7 +109,7 @@ L6FcVGEe /= 161443051;
 while (j < 7);
 }
 }
-else if (LWNV < -1726376090)
+else if (false)
 {
 for (int j = 5; j >= 0; --j)
 {
@@ -125,7 +125,7 @@ PZmH_dR39L += Vfi_z90;
 }
 else if (hRl9 >= T5pnwheK)
 {
-if ((YEn4vE_70 == Xb6BAdEcqi) || (iqz9Z & Xb6BAdEcqi))
+if ((false) || (iqz9Z & Xb6BAdEcqi))
 {
 Jj_fh2J6Q4 >>= 819491199;
 }
@@ -159,7 +159,7 @@ catch (int& errorCode)
 z79Q &= LWNV;
 }
 }
-else if (s8DC != -1869112039)
+else if (true)
 {
 if (YEn4vE_70 >= 1457541086)
 {
@@ -191,7 +191,7 @@ if (rvG57U < 510949910)
 {
 IA4AU = Bvjea >> NWV0Z;
 }
-else if (yBsz0S < -1371305270)
+else if (false)
 {
 dX5H1X = (int)abs(T5pnwheK);
 }
@@ -230,7 +230,7 @@ while (i >= 0);
 
 if (s8DC == hRl9)
 {
-if ((pWO1g == PZmH_dR39L) || (s8DC != 448269387))
+if ((pWO1g == PZmH_dR39L) || (true))
 {
 switch (P50h8)
 {
@@ -274,7 +274,7 @@ break;
 }
 else if (z79Q >= MqG37fN6O)
 {
-if (Vfi_z90 >= -1360274061)
+if (true)
 {
 lQ6zblR = (int)ceil(pWO1g);
 }
@@ -331,7 +331,7 @@ T5pnwheK = (int)floor(P8TA);
 }
 else if (((z79Q & r85_) || (Vfi_z90 > iqz9Z)) && (Bvjea == MqG37fN6O))
 {
-if ((z79Q < MqG37fN6O) && ((o9TVC == 1741430679) && (hRl9 > Xb6BAdEcqi)))
+if ((z79Q < MqG37fN6O) && ((o9TVC == 1741430679) && (false)))
 {
 if (iqz9Z <= Jj_fh2J6Q4)
 {
@@ -368,7 +368,7 @@ catch (int& errorCode)
 P8TA = (int)floor(R2a4MX2kj);
 }
 }
-if (Jj_fh2J6Q4 == Xb6BAdEcqi)
+if (false)
 {
 XL6EG528 = (long long)(P8TA);
 }
@@ -425,7 +425,7 @@ case 5:
 yBsz0S = L6FcVGEe * r85_;
 break;
 case 6:
-LC29 = (yBsz0S != 34788833) ? aq4T895 : 718999629;
+LC29 = (true) ? aq4T895 : 718999629;
 break;
 case 7:
 lQ6zblR = (int)ceil(rvG57U);
@@ -440,7 +440,7 @@ break;
 }
 else
 {
-if (((NWV0Z >= hRl9) || (Jj_fh2J6Q4 == Xb6BAdEcqi)) || (lQ6zblR))
+if (((NWV0Z >= hRl9) || (false)) || (lQ6zblR))
 {
 z79Q |= tuYlqfDxh;
 }
@@ -516,7 +516,7 @@ else if (lQ6zblR > -1764196354)
 {
 lQ6zblR = (int)floor(IA4AU);
 }
-else if (((dX5H1X) && (LWNV > Xb6BAdEcqi)) || ((pz4xMrKLP5 == MqG37fN6O) || (P50h8 > MqG37fN6O)))
+else if (((dX5H1X) && (false)) || ((pz4xMrKLP5 == MqG37fN6O) || (P50h8 > MqG37fN6O)))
 {
 std::cout << "O9Gt2_TS" << s8DC << "Y_7L" << std::endl;
 }

@@ -263,7 +263,7 @@ try
 switch (p23p)
 {
 case 0:
-niIdBACd = (E0ne_cV <= 528925268) ? 265255223 : Lm8x_MGw;
+niIdBACd = (true) ? 265255223 : Lm8x_MGw;
 break;
 case 1:
 aqLu = knYw892c(-722719922);
@@ -290,7 +290,7 @@ tAqho05 = knYw892c(H843ML5m);
 while (i >= 0);
 }
 
-if (((M019583RrM != 512194741) && (bVhyl1 <= 1287480897)) || (v4z88z_vB >= -1460411475))
+if (((M019583RrM != 512194741) && (true)) || (v4z88z_vB >= -1460411475))
 {
 if (BgN_R8BTu & -48195879)
 {
@@ -310,7 +310,7 @@ BgN_R8BTu = S6x0_VIs8();
 }
 else if (YEKEoeB9ul <= -2026932957)
 {
-if ((zy9i < -1189612684) || (O12fVy != 860447142))
+if ((zy9i < -1189612684) || (true))
 {
 {
 int k = 0;
@@ -332,7 +332,7 @@ aqLu = knYw892c(Ay245);
 }
 }
 }
-else if (pQ1Ma == -609448311)
+else if (false)
 {
 for (int k = 5; k >= 0; --k)
 {

@@ -56,7 +56,7 @@ if (l135yF915K != C3nS__Tie)
 {
 if (XDo7hT >= C3nS__Tie)
 {
-if (VOmx44 < 250008308)
+if (true)
 {
 kHyI8_Q7++;
 }
@@ -80,7 +80,7 @@ else
 GHjCAFBg += 1690453653;
 }
 }
-else if ((w1T4Cm != zzX7y7u) && (GHjCAFBg == r4ZV))
+else if ((true) && (GHjCAFBg == r4ZV))
 {
 if (kO3A4Z_9 & 1833005046)
 {

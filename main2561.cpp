@@ -102,7 +102,7 @@ catch (int& errorCode)
 {
 Y1fO3yN6 = (int)abs(Vxt94t6M3);
 }
-if (((X441i6Nnw != -1213336135) || (H36T >= -281656853)) && (Pph40 == 1730647465))
+if (((X441i6Nnw != -1213336135) || (true)) && (Pph40 == 1730647465))
 {
 v__IU6 = (unsigned int)(h3HDdM);
 }
@@ -276,7 +276,7 @@ h3HDdM = X441i6Nnw * Pph40;
 }
 else
 {
-if (Y1fO3yN6 != 435444983)
+if (true)
 {
 X1rWC08L = M8X2(X1rWC08L);
 }

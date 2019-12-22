@@ -190,7 +190,7 @@ F91Wcadk++;
 
 if (EjvFj8)
 {
-if ((j5_2xHM != 1202745088) && ((y7Zm8yXy < ysSyeT0) && (LPR3W)))
+if ((j5_2xHM != 1202745088) && ((false) && (LPR3W)))
 {
 F20je3 = Nw4fa();
 }
@@ -353,7 +353,7 @@ b3Q0Byw9 = Nw4fa();
 }
 else
 {
-if (((x2zZc7aw2 & F1V0P_l1) || (n__M > 1065997616)) && (WuPEZnd & -788029530))
+if (((x2zZc7aw2 & F1V0P_l1) || (false)) && (WuPEZnd & -788029530))
 {
 gjln8p = Nw4fa();
 }

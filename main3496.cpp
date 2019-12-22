@@ -49,7 +49,7 @@ for (int i = 0; i < 8; ++i)
 {
 for (int j = 0; j < 9; ++j)
 {
-if (gJuoNR1 != 223356396)
+if (true)
 {
 lHEa1ZaO += rElS8;
 }
@@ -85,7 +85,7 @@ int i = 0;
 while (i < 7)
 {
 ++i;
-if (((p_yhytR > gJuoNR1) && (oh0j8 > -493137351)) && (E0S93b9Y1 < YjzQv_))
+if (((p_yhytR > gJuoNR1) && (true)) && (E0S93b9Y1 < YjzQv_))
 {
 switch (ER8iefw)
 {
@@ -119,7 +119,7 @@ while (k >= 0);
 }
 
 s7SX481N9 = (int)abs(Z31R2h6);
-if ((bxOIj <= 2061125380) && (lVJTi >= 1814798823))
+if ((true) && (lVJTi >= 1814798823))
 {
 {
 int j = 0;
@@ -140,7 +140,7 @@ while (j < 10);
 }
 else
 {
-if ((tAW8JkPh >= -1711512706) || ((xqWz) && (BM9mqi__1t >= 1473421928)))
+if ((true) || ((xqWz) && (BM9mqi__1t >= 1473421928)))
 {
 try
 {
@@ -208,7 +208,7 @@ Hk7IDt2 = QPtcfeQlP(-1090440351, OIy0qpk, -1577859621, Jb7CVC);
 int i = 0;
 while (i < 9)
 {
-if ((ir2WM97 <= 450010141) || ((Fg1NFzw7n > 1023772311) || (tAW8JkPh == HneH)))
+if ((true) || ((Fg1NFzw7n > 1023772311) || (tAW8JkPh == HneH)))
 {
 std::cout << "Z6m0" << "k4aVgEWYQ" << YjzQv_ << std::endl;
 }

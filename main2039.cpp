@@ -192,7 +192,7 @@ int main(int argc, char** argv)
  short int r8RO;
  r8RO = -228624401;
 
-if ((xY1H7iXau3 < 1612933649) || (Rnq_2q2dZ == fz7VGb))
+if ((true) || (Rnq_2q2dZ == fz7VGb))
 {
 Rnq_2q2dZ = (int)ceil(rkjgk8a5);
 }

@@ -174,7 +174,7 @@ BB33Z_ = YdVVzit4N(BB33Z_, -595448845, -1802144897, KpLa, rJ42);
 }
 else if (SL9gY <= Z3tm08eV2)
 {
-B8p30v = (mOW19L6i2 <= HoVBn2Yo) ? -538360504 : -1855381710;
+B8p30v = (true) ? -538360504 : -1855381710;
 }
 else if ((d4aY >= EJoC91g34) || (mOW19L6i2 != 2081408842))
 {

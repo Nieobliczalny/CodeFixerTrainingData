@@ -172,7 +172,7 @@ if (YHnW390I31 != I_QAIjD)
 {
 std::cout << "B6lkpE19" << H6LE_(-1079618277) << H6LE_(-1225765903) << H6LE_(-2090956619) << std::endl;
 }
-else if (gmJ_NG77C3 != X8wiD8)
+else if (true)
 {
 try
 {
@@ -303,7 +303,7 @@ L2Xa3SNH = Ab1Y11UGH6 / u9F9TXcv;
 
 if (DnqilTr0 != N3PDG18)
 {
-if (C2WaWQC__ <= 1549852586)
+if (true)
 {
 mT2ern = (short int)(gmJ_NG77C3);
 }
@@ -320,7 +320,7 @@ if ((x1nI3 > X8wiD8) && (hS_i == 356122502))
 {
 luOD = H6LE_(1609799503) + 2076713523;
 }
-else if (hTGR3Fc49 <= I_QAIjD)
+else if (true)
 {
 c5i4r = eq3f + 163229899;
 }

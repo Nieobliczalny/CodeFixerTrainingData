@@ -255,7 +255,7 @@ if (Lh8uUZA <= -1574240016)
 {
 s1_nrejIa5 = (unsigned char)(Pkn2);
 }
-else if (eapUsY < -1959247473)
+else if (false)
 {
 try
 {
@@ -266,7 +266,7 @@ catch (int& errorCode)
 Y6R2 = TM1z(212026366, -1365787434, PUtu3, -967305488, -981882168);
 }
 }
-else if (xcg8d < XT8T_h)
+else if (true)
 {
 switch (Ad778e_0W5)
 {
@@ -322,7 +322,7 @@ int i = 4;
 do
 {
 i--;
-if (A32l5tlOP != -1583025171)
+if (true)
 {
 y5Fh = pW491jYKd5(Upg00Xhj_, 1435850442, eapUsY, -2042039041);
 }
@@ -348,7 +348,7 @@ G8B7_ = (int)abs(elV7G7);
 }
 }
 }
-else if (((G8B7_ > oDG3x) || (fr4_363A & Lh8uUZA)) && (PvQCx >= oDG3x))
+else if (((true) || (fr4_363A & Lh8uUZA)) && (PvQCx >= oDG3x))
 {
 for (int k = 1; k >= 0; --k)
 {
@@ -442,7 +442,7 @@ default:
 L312t1 = (G8B7_ > kq0gfge) ? -408741247 : -1437113910;
 break;
 }
-if (eEaEa > 124181422)
+if (false)
 {
 {
 int j = 8;

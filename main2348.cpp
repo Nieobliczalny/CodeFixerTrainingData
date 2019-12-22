@@ -235,7 +235,7 @@ if (wR7KcbugSG <= C77xEw)
 {
 n_cB %= 418335062;
 }
-else if (Ns4J_v1Fvc == -951953348)
+else if (false)
 {
 try
 {
@@ -457,7 +457,7 @@ if (i70ncsLT_ == n_cB)
 c9m3D_j = L9HZ();
 }
 }
-else if (MJ57E1a1 == Q5PB2)
+else if (false)
 {
 {
 int k = 8;

@@ -84,7 +84,7 @@ try
 int j = 0;
 do
 {
-if ((Ke693E & gOJ94b) || (aFa76G8r4r > nht3))
+if ((Ke693E & gOJ94b) || (true))
 {
 FMf59qAa = bNenZa << 1935638495;
 }
@@ -132,7 +132,7 @@ else if (vST_A4C7os)
 {
 E8Hl = (unsigned char)(gOJ94b);
 }
-else if ((aFa76G8r4r <= -165222896) || ((C11fRLqU6o) && (FMf59qAa < -447297808)))
+else if ((false) || ((C11fRLqU6o) && (FMf59qAa < -447297808)))
 {
 C11fRLqU6o = i4_eQ3() ^ 42357531;
 }
@@ -282,7 +282,7 @@ ie4vpVp = (int)floor(SE5YTo);
 }
 
 aFa76G8r4r = -702006367 / lTu3mCOo4J;
-if (E8Hl > l1Alp_d)
+if (false)
 {
 if ((lTu3mCOo4J <= SE5YTo) && (bNenZa == skh4j))
 {
@@ -348,7 +348,7 @@ else if (k_FEt <= aFa76G8r4r)
 {
 E8Hl <<= C11fRLqU6o;
 }
-else if (k_85_kqQT6 == nht3)
+else if (false)
 {
 std::cout << i4_eQ3() << i4_eQ3() << "m7w__NRe" << "u4mL_aZP" << std::endl;
 }

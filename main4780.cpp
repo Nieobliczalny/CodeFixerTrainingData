@@ -55,7 +55,7 @@ int main(int argc, char** argv)
 
 for (int i = 6; i >= 0; --i)
 {
-if (IS38 <= 1537501255)
+if (true)
 {
 g3H1 = (int)abs(d7yxU) + (1519225469);
 }
@@ -87,7 +87,7 @@ while (i >= 0);
 
 pNb1JeMQw = WICRW6 / c7oK;
 
-if ((ka43 == 2052639534) && (XXYk5a1B > -1251124734))
+if ((ka43 == 2052639534) && (true))
 {
 {
 int j = 0;
@@ -195,7 +195,7 @@ if (f125nvI_KR & -1226650065)
 {
 bX71aN8vn = lX_n2(fl_28JxI);
 }
-else if (x4665Q <= -238628825)
+else if (false)
 {
 p3_4ds9 = (int)floor(qWyM);
 }
@@ -309,7 +309,7 @@ h1xH = (unsigned long long)(oQx4a2nH61);
 o_071io_ = (int)abs(ka43);
 
 cout << Wkj1aa3VaZ(ka43) << "y_e_a" << endl;
-if (((z1rByqg == DgS5) || (h_0O < -610203916)) || ((u_UJ_y6FeN >= -688495903) || (z1rByqg != -1731642285)))
+if (((z1rByqg == DgS5) || (false)) || ((u_UJ_y6FeN >= -688495903) || (z1rByqg != -1731642285)))
 {
 f125nvI_KR = lX_n2(218515014);
 }
@@ -375,7 +375,7 @@ while (i < 2)
 {
 if (Gp715_pS)
 {
-if (z1rByqg < 1636476458)
+if (true)
 {
 d7yxU = (int)abs(ka43) * 0;
 }

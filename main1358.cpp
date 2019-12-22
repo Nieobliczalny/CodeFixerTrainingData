@@ -199,7 +199,7 @@ int main() {
   unsigned char  Erb98zw;
   Erb98zw  =  -2042589182;
 
-if (((eNtOlQ_ > 1565543036) && (fV9m5_2 < -1605583084)) && (MyOYwS & 5189020))
+if (((eNtOlQ_ > 1565543036) && (false)) && (MyOYwS & 5189020))
 {
 if (q8cQ < -138126694)
 {

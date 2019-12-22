@@ -269,7 +269,7 @@ else if (J73YXDo > 1982064208)
 {
 nGhfA = (int)abs(Zk2NSQ_87H);
 }
-else if (O9Y6c7bX < -994261107)
+else if (false)
 {
 Q19YI_n28d = T0a5 >> tMpz;
 }

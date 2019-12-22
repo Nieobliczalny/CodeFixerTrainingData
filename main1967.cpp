@@ -156,7 +156,7 @@ Ll_KqeZE = n434L6tb_q ^ 1089152995;
 break;
 }
 }
-else if (kP69nvPL <= -1250333043)
+else if (false)
 {
 if (UGd3d616Me)
 {
@@ -392,7 +392,7 @@ break;
 m9jbKfL = qHSOs5zU();
 if (((syhBl) && (R8z8 >= aW8A6aMW)) || (SRY_SGK != aW8A6aMW))
 {
-if ((bu6vH1T < aW8A6aMW) || (kP69nvPL < -408658061))
+if ((bu6vH1T < aW8A6aMW) || (false))
 {
 {
 int k = 0;

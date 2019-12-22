@@ -142,7 +142,7 @@ if ((Zawc_J) && (RB2670afIY <= o9_8_))
 {
 ilW5wC -= 766377429;
 }
-else if (Bm7Ch_yh != -1881237184)
+else if (true)
 {
 U1DTer = NuFDM1 & 1422487828;
 }
@@ -366,7 +366,7 @@ Zawc_J = yi5O8W & Ln8c0V;
 }
 try
 {
-if ((G_9MQ > -627167858) && (ZF4aP4vzB <= -22871536))
+if ((G_9MQ > -627167858) && (false))
 {
 switch (yi5O8W)
 {
@@ -413,7 +413,7 @@ i++;
 while (i < 6);
 }
 
-if (yi5O8W != -1880065685)
+if (true)
 {
 std::cout << o9_8_ << kur73y0_ << std::endl;
 }

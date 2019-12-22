@@ -59,7 +59,7 @@ int main() {
  int yhV8gW78L0;
  yhV8gW78L0 = 0;
 
-if ((dX63Cueja) && (l301PCC_G != -970058048))
+if ((dX63Cueja) && (true))
 {
 if (wMw5 < 1914044386)
 {
@@ -78,7 +78,7 @@ else
 std::cout << "WWCv4S5W" << std::endl;
 }
 }
-else if (p0j7UA != dT_oz)
+else if (true)
 {
 if (p0j7UA <= -1209627354)
 {
@@ -94,7 +94,7 @@ else if (h3_Ot)
 int j = 0;
 do
 {
-if (AkBDC98 > TZ6vp)
+if (false)
 {
 IUQFBVsb = HYOnzy14kd(IUQFBVsb, -617317423, abooirSb, 125042781);
 }
@@ -107,7 +107,7 @@ j++;
 while (j < 10);
 }
 }
-else if (CuY74Uuw != -1532343718)
+else if (true)
 {
 h3_Ot = IXhC(848559903, CuY74Uuw, 1789231583);
 }
@@ -123,7 +123,7 @@ z7Z5 = kL9ttT60V();
 }
 }
 
-if (sXed_3P < jH402L_)
+if (true)
 {
 try
 {
@@ -142,7 +142,7 @@ catch (int& errorCode)
 z7Z5 = HYOnzy14kd(z7Z5, -1263411943, l301PCC_G, dX63Cueja);
 }
 }
-else if (pE_WyT > -244991947)
+else if (true)
 {
 pE_WyT ^= abooirSb;
 }
@@ -199,7 +199,7 @@ catch (int& errorCode)
 Z_35D = (S6wMTQ0q) ? pE_WyT : jH402L_;
 }
 }
-else if (v8eF < TZ6vp)
+else if (true)
 {
 {
 int k = 0;
@@ -211,7 +211,7 @@ k++;
 while (k < 2);
 }
 }
-else if ((AkBDC98 <= jH402L_) || ((sXed_3P != TZ6vp) || (h3_Ot < yhV8gW78L0)))
+else if ((true) || ((sXed_3P != TZ6vp) || (h3_Ot < yhV8gW78L0)))
 {
 switch (GY12K9_c2E)
 {
@@ -259,7 +259,7 @@ for (int k = 0; k < 3; ++k)
 h3_Ot = IXhC(yhV8gW78L0, 504514831, l301PCC_G);
 }
 }
-else if (h3_Ot <= 29554408)
+else if (true)
 {
 dX63Cueja &= 1154118087;
 }
@@ -327,7 +327,7 @@ S6wMTQ0q = (unsigned short int)(dT_oz);
 }
 while (i < 7);
 }
-if (hrxeUq != -1465568258)
+if (true)
 {
 switch (l301PCC_G)
 {
@@ -352,7 +352,7 @@ if (u4Q4atU0i() == 0)
 
 for (int i = 0; i < 5; i++)
 {
-if (Aw1_ == 748622266)
+if (false)
 {
 miC2_ = (unsigned short int)(jH402L_);
 }
@@ -379,7 +379,7 @@ else
 {
 if (abooirSb >= Men8x2W3)
 {
-if (Aw1_ == dT_oz)
+if (false)
 {
 Z72Py8yB = HYOnzy14kd(654284415, -1602447424, -1217751433, s7F5l7);
 }
@@ -414,7 +414,7 @@ if (Men8x2W3 <= pGR7K436)
 {
 s7F5l7 <<= GY12K9_c2E;
 }
-else if (miC2_ == dT_oz)
+else if (false)
 {
 switch (z7Z5)
 {

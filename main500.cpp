@@ -27,7 +27,7 @@ O3JQBNgk = f1O4ukSk5k(-1194575749);
 
 fF4_o14k = (short int)(q6Eei4);
 
-if (((fa1qZ4WoV5 != -1753114728) && (c64Bu0_j48 > -990659470)) || (fF4_o14k >= -1745509558))
+if (((true) && (c64Bu0_j48 > -990659470)) || (fF4_o14k >= -1745509558))
 {
 std::cout << "QS6j" << std::endl;
 }
@@ -154,7 +154,7 @@ i--;
 while (i >= 0);
 }
 
-if (t87HZ_ >= 530281047)
+if (false)
 {
 {
 int j = 3;
@@ -223,7 +223,7 @@ oC64DK = q_V4nU(1012650673, k44D7, 1807748194, 758046251) << 1171968817;
 
 std::cout << OCk__yfKQU / O3JQBNgk << std::endl;
 q6gFo = Bmbw >> MLPWl;
-if (Ksi5Svc29E >= 273347336)
+if (false)
 {
 std::cout << YuhH00() << f1O4ukSk5k(Dc_L7R6) << KhNnnwPfQM << fF4_o14k << std::endl;
 }
@@ -291,7 +291,7 @@ tZlRvT_t = cGoq << uw1TX6o;
 int i = 7;
 do
 {
-if (T1M2Sw != -1114818831)
+if (true)
 {
 v9XJ += OCk__yfKQU;
 }
@@ -317,7 +317,7 @@ else
 fscV9hd34q = uz1T_8ljC & 43715820;
 }
 }
-else if ((A_7819 >= -1831990386) && (t87HZ_ != r_E4Ay))
+else if ((true) && (t87HZ_ != r_E4Ay))
 {
 k8X9aw99fD |= 1240294849;
 }

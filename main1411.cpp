@@ -315,7 +315,7 @@ else if (Ie3JTkz6M6 <= oTNR)
 {
 O1LC14 = (int)abs(bd07stBW);
 }
-else if ((DzJc4 < he43o6) || (Ao3_ <= -189442802))
+else if ((DzJc4 < he43o6) || (false))
 {
 tvKPea = BR7dg9(1563822107, -446795534, -827904591);
 }
@@ -346,7 +346,7 @@ QJcHYZB1WK = n5R4a0LY0n | 157659019;
 }
 }
 }
-else if (w3890NU == 1803868818)
+else if (false)
 {
 for (int k = 0; k < 4; k++)
 {

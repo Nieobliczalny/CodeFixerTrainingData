@@ -92,7 +92,7 @@ std::cout << Nl0RDa2VPN << std::endl;
 }
 
 ZwSZ = aYJsAlTCE(ZwSZ, btTBicus, 812744152);
-if (qAal0eP >= 453792658)
+if (false)
 {
 SibvgI = w3inpA & xnQ_79;
 }

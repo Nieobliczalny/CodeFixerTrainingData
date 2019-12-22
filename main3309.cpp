@@ -76,7 +76,7 @@ if ((338620587 / Y40qVzvR4) <= 1323490370)
 {
 cout << "gO_Ti" << "Q2__40Xb6" << endl;
 }
-if (Y40qVzvR4 <= 207931618)
+if (true)
 {
 for (int j = 1; j >= 0; --j)
 {
@@ -141,7 +141,7 @@ do
 {
 if ((Y40qVzvR4 & fw13) && (TD_z > -1741438954))
 {
-if ((k0fq8V == 2093122001) || (fw13 > 430104587))
+if ((k0fq8V == 2093122001) || (false))
 {
 DMy7N6W = (int)ceil(Ve0x6v7Wx);
 }
@@ -153,7 +153,7 @@ else if (b9LSx77Xu > k0fq8V)
 {
 H_LL_FOXY = dJ1szC2S(-121392786, OJK4lg8, 425702022, -258000948, 314633386);
 }
-else if (Y40qVzvR4 >= -923619917)
+else if (true)
 {
 TD_z = xr668ud2 - k0fq8V;
 }
@@ -172,7 +172,7 @@ if (fw13 < b9LSx77Xu)
 {
 fAslP_ = SGHz_N(fAslP_, 226732569, S6kz44J8, b9LSx77Xu, DMy7N6W);
 }
-else if (((KYPDE == re69zsTB2M) || (BOn2 == B_U0a7cVqc)) || ((ZqXmQ72_SY <= -429252826) || (prUJ >= -1152767979)))
+else if (((KYPDE == re69zsTB2M) || (BOn2 == B_U0a7cVqc)) || ((false) || (prUJ >= -1152767979)))
 {
 b9LSx77Xu = (int)abs(BOn2);
 }
@@ -224,7 +224,7 @@ default:
 k0fq8V = (Ve0x6v7Wx) ? 259876220 : dJ1szC2S(z0fiFgU, 1578944376, b9LSx77Xu, -1630527279, H_LL_FOXY);
 break;
 }
-if (fw13 > 468200922)
+if (false)
 {
 if ((OJK4lg8 >= 914851059) && (DMy7N6W >= fAslP_))
 {
@@ -252,7 +252,7 @@ if (BOn2 == OJK4lg8)
 {
 H_LL_FOXY = dJ1szC2S(prUJ, Vjxm, 1467090398, -595464457, 1240754983);
 }
-else if (Y40qVzvR4 == 1629178639)
+else if (false)
 {
 {
 int j = 0;
@@ -297,7 +297,7 @@ Ve0x6v7Wx = SGHz_N(Ve0x6v7Wx, 815234018, goetTTJFNz, 1070932625, -1877622967);
 }
 }
 }
-else if ((re69zsTB2M != OJK4lg8) && (fw13 == 2107384909))
+else if ((re69zsTB2M != OJK4lg8) && (false))
 {
 z0fiFgU = (float)(xr668ud2);
 }
@@ -344,7 +344,7 @@ for (int i = 5; i >= 0; --i)
 {
 Y40qVzvR4 = dJ1szC2S(b9LSx77Xu, Ve0x6v7Wx, xr668ud2, 93737321, 1630088338);
 }
-if (((fAslP_) && (fR03K463yw <= -1419342165)) && ((xr668ud2 != H_LL_FOXY) && (fw13 != uqdBA)))
+if (((fAslP_) && (false)) && ((xr668ud2 != H_LL_FOXY) && (fw13 != uqdBA)))
 {
 {
 int j = 9;
@@ -363,7 +363,7 @@ uqdBA = (int)abs(DMy7N6W);
 while (j >= 0);
 }
 }
-else if (((Ve0x6v7Wx > 1798076831) || (ZqXmQ72_SY != 189049082)) || ((H_LL_FOXY & 377916610) || (ZqXmQ72_SY & -875525550)))
+else if (((Ve0x6v7Wx > 1798076831) || (true)) || ((H_LL_FOXY & 377916610) || (ZqXmQ72_SY & -875525550)))
 {
 S6kz44J8 = (Ve0x6v7Wx < xr668ud2) ? Vjxm : -573371152;
 }

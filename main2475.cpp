@@ -120,7 +120,7 @@ TpOiTT77dZ = (int)floor(qaS5qEdL_y);
 
 AAg2 = AOeR2(-722712876, q0_4K);
 
-if (D26X9 < 856925378)
+if (true)
 {
 for (int j = 7; j >= 0; --j)
 {
@@ -168,7 +168,7 @@ case 1:
 XmU2 = AOeR2(XmU2, X6gch);
 break;
 case 2:
-fpvu6_ = (Ai39qbVa7 <= 1383631151) ? TpOiTT77dZ : bH6OD(XmU2, X6gch);
+fpvu6_ = (true) ? TpOiTT77dZ : bH6OD(XmU2, X6gch);
 break;
 case 3:
 G7CL6_ %= iBS40X;
@@ -199,7 +199,7 @@ else
 {
 if (PhH5o == -1261998748)
 {
-if (R22_B987 >= 2130976430)
+if (false)
 {
 lcl5qEKF7 = bH6OD(lcl5qEKF7, -1154481469);
 }
@@ -367,7 +367,7 @@ break;
 }
 else
 {
-if (oxpAMht6BS >= 1197366081)
+if (false)
 {
 Ezav6qO = bH6OD(Ezav6qO, -681474302);
 }

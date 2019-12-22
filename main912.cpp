@@ -557,7 +557,7 @@ while (i >= 0);
 }
 for (int i = 6; i >= 0; i--)
 {
-if ((K8X2si > wdLJ9_iW02) && (fVN01 <= 192970933))
+if ((K8X2si > wdLJ9_iW02) && (true))
 {
 if (EI7Qo != -569372223)
 {

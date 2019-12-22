@@ -67,7 +67,7 @@ int main() {
 
 try
 {
-if ((dd2x) || (m5rM_DD9 >= 227211591))
+if ((dd2x) || (false))
 {
 {
 int k = 3;
@@ -254,7 +254,7 @@ catch (int& errorCode)
 BgvGq3Ui = S15nq6Wk(NsZ0Vf);
 }
 }
-else if (mPZ_33 == 1641107204)
+else if (false)
 {
 for (int k = 3; k >= 0; --k)
 {
@@ -347,7 +347,7 @@ int i = 10;
 do
 {
 --i;
-if (((LM2e_3X > -1148646603) && (AayhyY)) || (brb4ywUs1p >= m5rM_DD9))
+if (((true) && (AayhyY)) || (brb4ywUs1p >= m5rM_DD9))
 {
 for (int k = 4; k >= 0; --k)
 {
@@ -422,7 +422,7 @@ else if (dd2x > 1972286516)
 {
 try
 {
-if ((n34k2lN < 1575629621) || (pJ8s6 < 311563005))
+if ((true) || (pJ8s6 < 311563005))
 {
 m5rM_DD9 = jogAD4P();
 }

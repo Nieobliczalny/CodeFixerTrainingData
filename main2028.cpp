@@ -87,7 +87,7 @@ else
 JMIfeZnV = JpuH2ok_I6 | 594747684;
 }
 
-if (((bBi3_ND != 654548118) && (Dx8V7wh26_ >= OSCU)) && ((IeYun0F4g != Oq4a7bL) && (JpuH2ok_I6 != CO67k)))
+if (((true) && (Dx8V7wh26_ >= OSCU)) && ((IeYun0F4g != Oq4a7bL) && (JpuH2ok_I6 != CO67k)))
 {
 pbl4lt85O <<= 1731299852;
 }
@@ -139,7 +139,7 @@ else
 {
 try
 {
-if (((B95A__sZ < OSCU) || (B5gutJwig > -1511059536)) && (zLO6 <= nW0_Ne))
+if (((B95A__sZ < OSCU) || (true)) && (zLO6 <= nW0_Ne))
 {
 JpuH2ok_I6++;
 }

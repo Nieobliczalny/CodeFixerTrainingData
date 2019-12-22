@@ -41,7 +41,7 @@ int main() {
 
 try
 {
-if (BkR04 >= -331561318)
+if (true)
 {
 AR9e = (long long)(j_5j07);
 }
@@ -60,7 +60,7 @@ catch (int& errorCode)
 Z1H7rdVD = (int)floor(Lsv7j3);
 }
 }
-else if (wCImvYp4 != 737961665)
+else if (true)
 {
 switch (vXo5)
 {
@@ -93,7 +93,7 @@ if (((AjP_Qz310 < -1974272018) && (Lsv7j3 <= 823017500)) && (j_5j07 <= 535821714
 {
 Lsv7j3 = iAZ0 % 1630072699;
 }
-else if (wCImvYp4 > 1601872963)
+else if (false)
 {
 T83B7 -= Lsv7j3;
 }
@@ -151,7 +151,7 @@ MjayGm3 = (unsigned int)(Z1H7rdVD);
 qH___P = (unsigned long long)(MBO2EE);
 f_X_3p9zb = (short int)(y9UvOH);
 
-if (T83B7 >= 1281156336)
+if (false)
 {
 cout << iAZ0 << T83B7 << t91wd << endl;
 }
@@ -170,7 +170,7 @@ Lsv7j3 = sj3QK8 * T83B7;
 }
 }
 
-if (IrXP09 == -1730504680)
+if (false)
 {
 T83B7 = BkR04 ^ 866844964;
 }

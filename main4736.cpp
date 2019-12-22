@@ -155,7 +155,7 @@ jU17 = pYks0X6a54 / 1765131320;
 
 frvSt = (int)floor(RnfH4_a);
 
-if (Z_vIb3 != 390784557)
+if (true)
 {
 {
 int j = 8;
@@ -174,7 +174,7 @@ else if (w9I_2r == DzLqmVI4)
 {
 Zbs7isXk9D >>= 485139964;
 }
-else if (((XEs7 != -1349922339) && (H0B_ < 1310413512)) && (PCIrF != 343260058))
+else if (((true) && (H0B_ < 1310413512)) && (PCIrF != 343260058))
 {
 frvSt = (int)floor(jU17);
 }
@@ -203,7 +203,7 @@ std::cout << XEs7 << std::endl;
 jN3ofo++;
 if (T62UtD & pS8x83x)
 {
-if (shKGN8k6m9 >= 372719099)
+if (false)
 {
 jU17 = (int)ceil(ULVc);
 }
@@ -264,7 +264,7 @@ catch (int& errorCode)
 ULVc = (int)floor(v88t8Q0);
 }
 }
-else if (v_2_uX < 845282484)
+else if (true)
 {
 jU17 = (int)ceil(frvSt);
 }
@@ -286,7 +286,7 @@ catch (int& errorCode)
 jSu4Xh5LB &= RmcO9V;
 }
 }
-else if ((pYks0X6a54 & T62UtD) || (F2GdZo1 < -1877580156))
+else if ((pYks0X6a54 & T62UtD) || (false))
 {
 std::cout << "VBbettNl" << "uPW639QYmo" << DzLqmVI4 << "P56j16" << W7FgY << std::endl;
 }

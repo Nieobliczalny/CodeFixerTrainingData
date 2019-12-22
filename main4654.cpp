@@ -35,7 +35,7 @@ int main() {
     kS3B0PBG83    =    -194275347;
     h5_b0u7    =    2108369180;
 
-if (e7a__KDv > 973330049)
+if (false)
 {
 {
 int j = 5;
@@ -54,7 +54,7 @@ while (k >= 0);
 }
 }
 }
-else if ((n9yH8t7Dc > P0dg6_oQSy) && (bl3u_x != P0dg6_oQSy))
+else if ((true) && (bl3u_x != P0dg6_oQSy))
 {
 switch (e7a__KDv)
 {
@@ -180,7 +180,7 @@ j++;
 
 for (int i = 0; i < 8; i++)
 {
-if (((bl3u_x != qE5WBYRa) || (xBop3OgH1 > t5X35o)) && ((x5F_83D_u8 & 1988595052) && (lsy5n >= -401949008)))
+if (((bl3u_x != qE5WBYRa) || (xBop3OgH1 > t5X35o)) && ((x5F_83D_u8 & 1988595052) && (true)))
 {
 h5_b0u7 = K68DvS + bl3u_x;
 }
@@ -201,7 +201,7 @@ int j = 2;
 while (j >= 0)
 {
 --j;
-if ((bJXz_276NM != 341411059) && (rOf4n6cAZW >= -503749870))
+if ((true) && (rOf4n6cAZW >= -503749870))
 {
 t5X35o = R88Ips9y6(-1238740443, 850878017, w3KWQ8lQje, -1492572115, lsy5n);
 }
@@ -321,7 +321,7 @@ catch (int& errorCode)
 pTg7Nx /= 563247914;
 }
 
-if ((Bu3wXHU3_ == qE5WBYRa) && (kS3B0PBG83 <= 1181465418))
+if ((Bu3wXHU3_ == qE5WBYRa) && (true))
 {
 {
 int j = 0;
@@ -340,7 +340,7 @@ while (k < 4);
 }
 }
 }
-else if (lsy5n >= P0dg6_oQSy)
+else if (true)
 {
 if (e7a__KDv != pTg7Nx)
 {
@@ -369,7 +369,7 @@ break;
 }
 }
 }
-else if ((rOf4n6cAZW & -769622519) && ((bJXz_276NM != -1414474361) || (pTg7Nx & qE5WBYRa)))
+else if ((rOf4n6cAZW & -769622519) && ((true) || (pTg7Nx & qE5WBYRa)))
 {
 {
 int j = 0;
@@ -391,7 +391,7 @@ while (j < 10);
 }
 else if (xBop3OgH1 < qE5WBYRa)
 {
-if (((xBop3OgH1 < -1631693960) || (t5X35o & -1819325980)) && (xBop3OgH1 == t5X35o))
+if (((false) || (t5X35o & -1819325980)) && (xBop3OgH1 == t5X35o))
 {
 K68DvS = (unsigned char)(P0dg6_oQSy);
 }
@@ -423,7 +423,7 @@ while (i < 5);
 }
 
 h5_b0u7++;
-if (xBop3OgH1 > -1389062197)
+if (true)
 {
 w3KWQ8lQje = C0vQENx();
 }
@@ -471,7 +471,7 @@ while (j >= 0);
 }
 }
 
-if (bl3u_x == -650285558)
+if (false)
 {
 n9yH8t7Dc = t5X35o >> 1412236337;
 }
@@ -535,7 +535,7 @@ break;
 
 if ((w3KWQ8lQje) && (K68DvS))
 {
-if ((pTg7Nx >= P0dg6_oQSy) || ((h5_b0u7) || (bl3u_x > K68DvS)))
+if ((true) || ((h5_b0u7) || (bl3u_x > K68DvS)))
 {
 switch (x5F_83D_u8)
 {

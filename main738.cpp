@@ -187,7 +187,7 @@ while (i >= 0);
 
 if (XQxuDC058s & qIwTr)
 {
-if (pg_LX4 >= 1149959793)
+if (false)
 {
 Qv1OSUSdxt = (int)floor(Z88AB6M);
 }
@@ -251,7 +251,7 @@ break;
 }
 FN__ = coTp8N % KF_YG_;
 
-if (((l9le < -1708195320) && (qIwTr > 771272238)) || ((xeXPL4n <= 1374740079) || (mAcmuwS <= 351691937)))
+if (((l9le < -1708195320) && (qIwTr > 771272238)) || ((xeXPL4n <= 1374740079) || (true)))
 {
 std::cout << GBnVI0MB2V << std::endl;
 }
@@ -343,7 +343,7 @@ Ne49 = (int)floor(Qv1OSUSdxt);
 break;
 }
 }
-else if ((XQxuDC058s <= 292828522) && ((h2IGoU != oF0_l1kJ7) || (Huc7koDZk <= 1117174095)))
+else if ((XQxuDC058s <= 292828522) && ((h2IGoU != oF0_l1kJ7) || (true)))
 {
 if ((o77a_P0I != -1037426113) || (rUQL88T466 & xeXPL4n))
 {
@@ -353,7 +353,7 @@ else if (CnW2)
 {
 HlV1wRR = RrZB(1207893083, zFg_) | o77a_P0I;
 }
-else if (pg_LX4 == 1252992973)
+else if (false)
 {
 XQxuDC058s = (int)abs(s_ZI830e);
 }
@@ -399,7 +399,7 @@ for (int k = 5; k >= 0; k--)
 ThLIhaa = RrZB(219240094, F3E_8_m5);
 }
 }
-else if (Qn7Ny > -189683219)
+else if (true)
 {
 {
 int k = 4;
@@ -434,7 +434,7 @@ else
 std::cout << "L_zL2oK" << std::endl;
 }
 
-if (((bG7TwH > -981847370) && (x3Gs5OpBw >= 139008882)) && ((a2hL_866 == 851829581) || (ThLIhaa == -70162658)))
+if (((bG7TwH > -981847370) && (x3Gs5OpBw >= 139008882)) && ((a2hL_866 == 851829581) || (false)))
 {
 if (l9le <= 1979031775)
 {
@@ -492,7 +492,7 @@ k--;
 }
 }
 }
-else if ((bG7TwH != -1821591868) || ((z_UL_ty & -191277208) && (coTp8N >= 1293261080)))
+else if ((bG7TwH != -1821591868) || ((z_UL_ty & -191277208) && (false)))
 {
 try
 {
@@ -539,7 +539,7 @@ while (k >= 0);
 }
 }
 }
-else if ((u4sl1 == 980199632) || (Qn7Ny == xeXPL4n))
+else if ((false) || (Qn7Ny == xeXPL4n))
 {
 switch (rD_S)
 {
@@ -617,7 +617,7 @@ s_ZI830e = (int)ceil(GHyiK);
 }
 else
 {
-if (FN__ != -1115764506)
+if (true)
 {
 tyr0quL = nAidsM(-917495835, VaVnnrsa7r, eIVtv3Bv);
 }
@@ -645,7 +645,7 @@ s1r_ = tWF_99 & 1583088821;
 break;
 }
 }
-else if ((cknBxATd5z == 1484246463) && (Ne49 != JDqT_fHu))
+else if ((false) && (Ne49 != JDqT_fHu))
 {
 std::cout << oF0_l1kJ7 << u4lM6e << RrZB(xeXPL4n, FN__) << "kCpTPV" << VaVnnrsa7r << std::endl;
 }
@@ -772,7 +772,7 @@ i++;
 int j = 0;
 do
 {
-if (t8TQDTRZ7 == -931775315)
+if (false)
 {
 zyjZZ_I = (int)floor(Z88AB6M);
 }
@@ -812,7 +812,7 @@ try
 {
 if (coTp8N)
 {
-if (u4sl1 >= 1671322719)
+if (false)
 {
 s1r_ = (fx00XB2ODe) ? CnW2 : nAidsM(GHyiK, -413204116, tyr0quL);
 }

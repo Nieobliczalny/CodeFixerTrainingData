@@ -75,7 +75,7 @@ APky3i = (int)abs(BAOl9);
 tafoRTV = em_A1QHTE2 << YR6_eV76Cq;
 if (((YR6_eV76Cq == m22a1I) && (xOn8 < -519889255)) || (YR6_eV76Cq < gYTIDN8N))
 {
-if (s73yC7 >= -168172206)
+if (true)
 {
 for (int k = 7; k >= 0; --k)
 {
@@ -196,7 +196,7 @@ WX32NEmm_6 = (int)floor(xOn8);
 
 if (bXIE4qkM6 <= 1097364601)
 {
-if (BAOl9 >= -344450542)
+if (true)
 {
 try
 {
@@ -268,7 +268,7 @@ JFcZ = m22a1I * 179408701;
 break;
 }
 
-if (sSR4492 < 1865957491)
+if (true)
 {
 y06G = (long)(BAOl9);
 }
@@ -293,7 +293,7 @@ case 'C':
 xOn8 = (int)floor(APky3i);
 break;
 default:
-y3J6 = (kGxizY52C == -856760358) ? f__nb8Xv29(-221978526, kWT9, -780814216) : f__nb8Xv29(kGxizY52C, kWT9, Q9K9DZy);
+y3J6 = (false) ? f__nb8Xv29(-221978526, kWT9, -780814216) : f__nb8Xv29(kGxizY52C, kWT9, Q9K9DZy);
 break;
 }
 

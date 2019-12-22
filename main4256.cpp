@@ -319,7 +319,7 @@ PLOda = B0a7A3S(IgHNL8ZtvQ, -1280744007, uDKJ, 226889209, mpF2ELv598);
 while (k < 9);
 }
 }
-else if (T50f9 == 1567944864)
+else if (false)
 {
 if (z_RPrL195 > DiH5FtH8)
 {
@@ -385,7 +385,7 @@ QAMJOf = VpkAeI & vD2lHzS;
 break;
 }
 
-if ((CEuW6B > GMcda) || (zBpTf5_dkG == -1973894084))
+if ((CEuW6B > GMcda) || (false))
 {
 z_RPrL195 = (int)floor(CI77_Lj4_);
 }

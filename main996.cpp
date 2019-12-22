@@ -45,7 +45,7 @@ Gv2w *= 938198141;
 LSC0pq8 = (int)(f37F9);
 for (int i = 7; i >= 0; --i)
 {
-ofrc04Ll = (h2oMCVSE < dAuMhR4R) ? 1777307372 : Gv2w;
+ofrc04Ll = (true) ? 1777307372 : Gv2w;
 }
 K0z1z2T9 |= ofrc04Ll;
 x6Az52K = TPXmFeS_pf();
@@ -82,7 +82,7 @@ else if (R252GQMz2z & 1968486109)
 {
 std::cout << TPXmFeS_pf() << TPXmFeS_pf() << K0z1z2T9 << Gv2w << std::endl;
 }
-else if ((a_Nuodp <= 1924577387) && ((a_Nuodp & x6Az52K) && (Gv2w != dAuMhR4R)))
+else if ((a_Nuodp <= 1924577387) && ((a_Nuodp & x6Az52K) && (true)))
 {
 h2oMCVSE %= 1932632861;
 }
@@ -104,7 +104,7 @@ j--;
 }
 }
 }
-else if (h2oMCVSE <= -61035038)
+else if (false)
 {
 {
 int j = 0;

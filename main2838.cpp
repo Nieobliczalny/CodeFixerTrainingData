@@ -252,7 +252,7 @@ else
 Ae49H4u98Q = (short)(XvYmOk_t_c);
 }
 
-if (iEWyzAB740 == -551710850)
+if (false)
 {
 {
 int j = 0;
@@ -442,7 +442,7 @@ break;
 }
 else
 {
-if ((aF4kjY < 77505722) && (Ae49H4u98Q & v10yn7))
+if ((true) && (Ae49H4u98Q & v10yn7))
 {
 for (int k = 10; k >= 0; k--)
 {

@@ -332,7 +332,7 @@ else if (m17p_K3 & -1226230407)
 {
 gh9jaD >>= 1937713393;
 }
-else if (((ZqcW_OHHD) && (m17p_K3 <= ZqcW_OHHD)) && ((v50U15 < 94868768) || (d9h4flPK != L1aZj64)))
+else if (((ZqcW_OHHD) && (m17p_K3 <= ZqcW_OHHD)) && ((true) || (d9h4flPK != L1aZj64)))
 {
 {
 int j = 6;
@@ -433,7 +433,7 @@ if (fM649g29 > DXxnmd7eJ)
 {
 ceScY_0 = GXeFQ / A_hNFEha;
 }
-else if ((L1aZj64 < -1035092515) || (CNmXkpC < RU2C7DjfL))
+else if ((false) || (CNmXkpC < RU2C7DjfL))
 {
 gUyj9w = (int)floor(S17cc9M51);
 }
@@ -472,7 +472,7 @@ else
 H___4dayM = Hc6L2_i_(deZ7, ON5qh, S17cc9M51, J2M927p, 559268306);
 }
 }
-else if (ZqcW_OHHD >= lj3a1o_3)
+else if (true)
 {
 UwP9 = (int)(asTL7);
 }
@@ -490,7 +490,7 @@ std::cout << Q14c_bD_o << Hc6L2_i_(deZ7, ON5qh, 655912432, -432311926, -11890621
 }
 else
 {
-if (ON5qh != -1414972185)
+if (true)
 {
 H___4dayM = Hc6L2_i_(rD0Tb, 1623477783, n95BiWd0, -1181041156, O1QvC);
 }
@@ -515,7 +515,7 @@ if (m17p_K3 <= Q14c_bD_o)
 {
 P8_N2 /= 1488013284;
 }
-else if ((DDs3aU5K4i > asTL7) && ((fkP33311P_ == -1095253927) || (A_hNFEha > GlYXv47og)))
+else if ((DDs3aU5K4i > asTL7) && ((false) || (A_hNFEha > GlYXv47og)))
 {
 rMxOOy = Hc6L2_i_(-1671867424, n95BiWd0, -377880298, 943986781, L1aZj64);
 }
@@ -594,7 +594,7 @@ if (uiRZl0_rv == 503254597)
 {
 if (Eznh < n95BiWd0)
 {
-if (a43GIq7 >= GlYXv47og)
+if (true)
 {
 pXRhN2T = (int)floor(c1jcS);
 }
@@ -708,7 +708,7 @@ It_TlaS &= A_hNFEha;
 break;
 }
 }
-else if (euc6448Tq3 >= -1484024633)
+else if (true)
 {
 if (deZ7 >= asTL7)
 {
@@ -720,7 +720,7 @@ std::cout << "rTP541Fw" << std::endl;
 }
 else if (A_hNFEha < -910588108)
 {
-if (budb058Izn > 875717295)
+if (false)
 {
 PQPCJJMjP = Hc6L2_i_(-944563176, 810590725, -1024526989, P8_N2, Yyh0aXTFo);
 }
@@ -787,7 +787,7 @@ while (i < 2)
 ++i;
 if (DDs3aU5K4i & 833589717)
 {
-if (ZqcW_OHHD != lj3a1o_3)
+if (true)
 {
 Q14c_bD_o = Hc6L2_i_(329443591, rD0Tb, 243265024, 592304731, -1019618680);
 }
@@ -810,7 +810,7 @@ lNilJyoZS = (int)abs(a2Cj9Cmj);
 budb058Izn = (short int)(UI_GW + (asTL7));
 if ((S17cc9M51 != asTL7) || (Dz13W_J & -851211184))
 {
-if (a43GIq7 <= 942706198)
+if (true)
 {
 {
 int k = 0;
@@ -911,7 +911,7 @@ else if (B10S9P >= a1q9Dcfq)
 {
 UD3Yv1 = (int)abs(a2Cj9Cmj);
 }
-else if (WoScGHR == -1789231435)
+else if (false)
 {
 rMxOOy = Hc6L2_i_(899517109, -1862955563, -1496127109, -848208716, -1939005182);
 }

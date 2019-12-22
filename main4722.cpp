@@ -138,7 +138,7 @@ k8tBot9g ^= vBwfz;
 djwV1qI9gz = (char)(zd5z);
 sh_1a94_V *= K0Lknz6Z;
 
-if (Y25RNy_0gx > -2026785918)
+if (true)
 {
 if (((P9500a0) || (keyoA83QD & 1696039002)) || (u9T91Iu_a7 <= -1548032754))
 {
@@ -242,7 +242,7 @@ l3J3Iybj4_ = (int)floor(RZ_3gwE_Oi);
 
 if (Y25RNy_0gx == BzRIj)
 {
-if (durApNK665 < -890089721)
+if (false)
 {
 try
 {
@@ -261,7 +261,7 @@ G3NCy2 = (int)ceil(DIa4pXbN1p);
 }
 }
 }
-else if (j7Ik89Z8N <= 1772780624)
+else if (true)
 {
 {
 int j = 1;
@@ -283,7 +283,7 @@ if ((OnD6eJ & 924059330) || ((fIxg145Bx >= -2064429986) || (lW_643lU6 > RO5e3X))
 ap9or61 = (int)ceil(nSMV2Zbu);
 }
 }
-else if ((eFXw8 != 194150888) || (zd5z == 391045851))
+else if ((eFXw8 != 194150888) || (false))
 {
 {
 int j = 10;
@@ -299,7 +299,7 @@ else
 {
 if (K8gB3dDQx)
 {
-if ((VE65z <= r0pb) && ((gbi1 <= 668576836) && (nlD3wQN2_ <= 1610830704)))
+if ((VE65z <= r0pb) && ((gbi1 <= 668576836) && (true)))
 {
 bPs30 = j7Ik89Z8N & KGmF;
 }
@@ -315,7 +315,7 @@ else
 exC5N4ZO8 = rgWB08 + 1081876775;
 }
 }
-else if (zd5z < 2038700231)
+else if (true)
 {
 std::cout << CK36pv_55 << u9T91Iu_a7 << std::endl;
 }
@@ -351,7 +351,7 @@ k--;
 }
 }
 }
-if (oSMK == -714394134)
+if (false)
 {
 RZ_3gwE_Oi = (int)ceil(jxLlHm3);
 }
@@ -385,7 +385,7 @@ while (i < 10);
 
 std::cout << u9T91Iu_a7 << KGmF << "JHcHj" << "qr2sa_u_" << "lb36dji7_5" << std::endl;
 
-if ((TY934Rj > 534677237) || ((eFXw8 & -1571728761) || (djwV1qI9gz <= zbPxnZx2)))
+if ((false) || ((eFXw8 & -1571728761) || (djwV1qI9gz <= zbPxnZx2)))
 {
 try
 {
@@ -400,7 +400,7 @@ else if (bPs30 & V2LR)
 {
 zbPxnZx2 = (int)ceil(d86C2099);
 }
-else if (eUsoL > 394738805)
+else if (false)
 {
 std::cout << eFXw8 << jxLlHm3 << u9T91Iu_a7 << yLlscLl << P9500a0 << std::endl;
 }
@@ -452,7 +452,7 @@ else if (NFeB4oo > 1668216722)
 {
 eUsoL = OcbXR1yAy << f310_e1;
 }
-else if (((CGxPWXM1V >= -7470048) || (exC5N4ZO8 > sejd0Z)) || (V2LR == -785042689))
+else if (((true) || (exC5N4ZO8 > sejd0Z)) || (V2LR == -785042689))
 {
 K8gB3dDQx = KWCcW1_S7 + s_6_;
 }
@@ -463,7 +463,7 @@ if ((K7On == -467492598) || (PzVnqaY2ou & -485618548))
 yLlscLl = (unsigned long)(e0ip_9b);
 }
 }
-else if (eI8lSxG > 2095361573)
+else if (false)
 {
 try
 {

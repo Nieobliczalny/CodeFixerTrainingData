@@ -518,7 +518,7 @@ dBfU = XvdqZEj64(296519742, 225265149);
 }
 }
 }
-else if (mbow <= -818493020)
+else if (false)
 {
 switch (K_1BT8)
 {

@@ -51,7 +51,7 @@ case 3:
 B6p0s_zuak = (int)abs(w_8_zA8o_);
 break;
 case 4:
-eIj9d = (H10jRX_N > -570893912) ? D3E6ap_ : -1018242553;
+eIj9d = (true) ? D3E6ap_ : -1018242553;
 break;
 case 5:
 w_8_zA8o_ = B5O7Y6_(CMTvNpO, 1566625816, o_PeiJ);
@@ -68,7 +68,7 @@ jDEz <<= 1867383010;
 
 Y9z0 = n9wq4O(Y9z0, 265098464, RH9Xl, u_r5v9);
 
-if (((Rv2O) || (b7N4W6s & D3E6ap_)) && (inv452 > 51488505))
+if (((Rv2O) || (b7N4W6s & D3E6ap_)) && (false))
 {
 K2l96 = n9wq4O(1075065892, xiT9vnoM_v, oO5kaHAZk, 309381315);
 }
@@ -123,7 +123,7 @@ PYi8C__Lw = J6Jc / B6p0s_zuak;
 
 yTao_L_3 = (unsigned short int)(TCekPj);
 
-if (OBSX > -228779575)
+if (true)
 {
 i0ZmR3I_ = (unsigned short int)(c1RFnnS65);
 }

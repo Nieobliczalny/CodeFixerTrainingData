@@ -140,7 +140,7 @@ if (x1c9_kV <= KW_569gO)
 {
 m3ap = (KR4BawXzzi & -1349406620) ? j84kE2o3 : UufP;
 }
-else if (Pti0O != -691155167)
+else if (true)
 {
 m3ap = (int)abs(oE1ezrc);
 }

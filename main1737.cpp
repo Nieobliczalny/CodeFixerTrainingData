@@ -153,7 +153,7 @@ H9kmI5 %= PmH_46j;
 }
 }
 }
-else if (w5SLdj3040 < Cuzyx)
+else if (true)
 {
 try
 {

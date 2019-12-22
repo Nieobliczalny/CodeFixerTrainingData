@@ -204,7 +204,7 @@ while (i < 9);
 }
 if (d92C & JCnl4T_A8t)
 {
-if (d___ >= -1896825004)
+if (true)
 {
 for (int k = 6; k >= 0; --k)
 {

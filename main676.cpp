@@ -137,7 +137,7 @@ else if (J723HQ06 == 1817803275)
 {
 G08Nb = (int)abs(iUbTP);
 }
-else if (t2_b > 1662675721)
+else if (false)
 {
 pjJ49O_YK = (int)ceil(X2fD);
 }
@@ -230,7 +230,7 @@ else if (f4s7i2L15 != uF0U8)
 {
 Id1x = dkv_Neu * j1LzR_h1;
 }
-else if (hqx3P_pt < orHuq_o25)
+else if (true)
 {
 g7tNprqjwk = (int)ceil(X2fD);
 }

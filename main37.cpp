@@ -57,7 +57,7 @@ default:
 nNB43 = (int)abs(O27uU);
 break;
 }
-if (rihK <= nqML)
+if (false)
 {
 Wt2f99DiZ = x34v(q99u59110, cc1j, -8583902);
 }
@@ -152,7 +152,7 @@ O27uU = 562337965 / se024G6QQj;
 }
 i7gx = (char)(P77bGP7LN);
 
-if (AC858Vfx4 > nqML)
+if (true)
 {
 D1402C8 ^= 598542253;
 }

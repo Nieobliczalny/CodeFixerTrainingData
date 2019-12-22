@@ -271,7 +271,7 @@ RpkRx83 = GwI6(749828446, T8Iy092N);
 }
 if ((AVlhkUK3K & -1775614397) && (T8Iy092N <= -1978855959))
 {
-if (Lr_4_32Rc <= 1116629060)
+if (true)
 {
 r0U46Ne1v3 = (unsigned char)(yTse * r0U46Ne1v3);
 }
@@ -334,7 +334,7 @@ catch (int& errorCode)
 AXA9y1 = OoPZS100U(-935017121, iK18d54QdL, kY_vFpR8B);
 }
 
-if (j9S5xXjF67 == -150649904)
+if (false)
 {
 try
 {
@@ -362,7 +362,7 @@ DysUlW8d61 = OoPZS100U(1434928410, -1987053565, Xn2s9VE8Wo);
 ZcOG7em8cY = (long long)(DysUlW8d61);
 if ((twve0iA / RpkRx83) < -947769131)
 {
-if (((aXDO29 >= YIJQcaeHn) && (r0U46Ne1v3 <= -2116659304)) && ((X61blai >= 1297613193) || (NYY_3z2k == W0xE)))
+if (((aXDO29 >= YIJQcaeHn) && (false)) && ((X61blai >= 1297613193) || (NYY_3z2k == W0xE)))
 {
 if (BI14D2Y != 833336254)
 {
@@ -472,7 +472,7 @@ CvEF = (int)ceil(oL72O_);
 }
 else if (T8Iy092N <= -1678288691)
 {
-if ((UeoS3AV > 628042547) && ((Nd16uT < -768585145) || (D43d6BPdS >= 1607617609)))
+if ((UeoS3AV > 628042547) && ((false) || (D43d6BPdS >= 1607617609)))
 {
 {
 int k = 4;
@@ -484,7 +484,7 @@ dv6316aZUf = (int)ceil(y13IX50IxO);
 while (k >= 0);
 }
 }
-else if (GHcQll0 < 1209104563)
+else if (true)
 {
 if (y0kYQ)
 {
@@ -495,7 +495,7 @@ else
 W0xE = GwI6(1249297113, tjtb_0);
 }
 }
-else if (Y8aG > 2039848828)
+else if (false)
 {
 {
 int k = 0;
@@ -521,7 +521,7 @@ while (k >= 0);
 }
 else
 {
-if ((Xn2s9VE8Wo) || ((tMs4z > OXfWZ8_D2R) && (zqlqm1 >= -1102412954)))
+if ((Xn2s9VE8Wo) || ((tMs4z > OXfWZ8_D2R) && (true)))
 {
 zqlqm1 ^= tMs4z;
 }
@@ -548,7 +548,7 @@ u7nbgA |= 1661559665;
 }
 std::cout << "by6pq_RW" << "vhpAjyH_9D" << CvEF << std::endl;
 
-if (kas9L8J_P == 59526477)
+if (false)
 {
 if (y2_881S)
 {
@@ -579,7 +579,7 @@ else if (dPmCI4UGQo > -1716203)
 {
 iK18d54QdL = OoPZS100U(1651595307, oL72O_, 1800565466);
 }
-else if (FIeZc_1T > 865906944)
+else if (false)
 {
 e_3Ot8O = GwI6(-1282440504, x73H9Y_04D);
 }
@@ -601,7 +601,7 @@ int i = 9;
 do
 {
 --i;
-if (ws_hR87H >= 313253929)
+if (false)
 {
 for (int k = 5; k >= 0; --k)
 {
@@ -612,7 +612,7 @@ else if ((r0U46Ne1v3 == SnU3_0ndp) && (YF_hn & 1015014356))
 {
 tpFui7697U = (int)abs(a3Ms8XnF);
 }
-else if ((w7si == -1531486280) && ((twve0iA != 626525310) || (tAkT0u >= 2014132194)))
+else if ((false) && ((twve0iA != 626525310) || (tAkT0u >= 2014132194)))
 {
 {
 int k = 2;

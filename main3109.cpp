@@ -94,7 +94,7 @@ cout << W0n7ghi9(vst_4_k, 1898865699, PcW9, 2044019103) << w21w7sAK0() << wHhM97
 }
 u0Am = (unsigned long long)(t96Vy);
 
-if ((B8672Hc5 <= -735379086) || (PcW9 & 785518143))
+if ((false) || (PcW9 & 785518143))
 {
 oqt_ <<= gdxI7MyI0o;
 }
@@ -200,7 +200,7 @@ if (X3H2D3)
 {
 PcW9 = (short int)(BD9g2t2Wm);
 }
-else if (wHhM97802 > K_Xa3)
+else if (false)
 {
 switch (l_0d)
 {

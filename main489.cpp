@@ -278,7 +278,7 @@ a4H6b_3ts = (BoH10FNf < F76SjV) ? -2008145473 : Gv_20hm22;
 while (k < 6);
 }
 }
-else if (((KZTUVve3Bn >= 2099024240) && (hNa29b9PT_ < 1233898548)) || (ElQgO4bLib < DIhPg1Xg))
+else if (((false) && (hNa29b9PT_ < 1233898548)) || (ElQgO4bLib < DIhPg1Xg))
 {
 F7bRTbSgs -= y3B684_b;
 }

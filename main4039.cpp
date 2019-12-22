@@ -218,7 +218,7 @@ do
 int j = 0;
 do
 {
-if ((P03TvU_5B == -197964480) || (XRApEL8I != RjS3o))
+if ((false) || (XRApEL8I != RjS3o))
 {
 FxJ86Za = i8ovZF / 1373176142;
 }
@@ -553,7 +553,7 @@ RjS3o = (unsigned long)(OwHtlVabFP);
 }
 while (i < 8);
 }
-if (((XZ8d70op4_) || (P03TvU_5B <= -1857703087)) || (FxJ86Za & C8Ul))
+if (((XZ8d70op4_) || (false)) || (FxJ86Za & C8Ul))
 {
 P03TvU_5B = uAHPn4ZE(BOPDkr0G, ekFydu9);
 }

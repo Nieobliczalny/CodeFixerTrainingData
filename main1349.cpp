@@ -80,7 +80,7 @@ break;
 }
 else if (zZr2WrwE & b300qxmj26)
 {
-if ((q_nn) && ((r0abPCHQu3 == bk6iIUUkp2) || (bk6iIUUkp2 < -817256681)))
+if ((q_nn) && ((r0abPCHQu3 == bk6iIUUkp2) || (false)))
 {
 Si3jQ8 = (SM061_AiCT != 1634800080) ? Wtv__Cq_ : zZr2WrwE;
 }
@@ -100,7 +100,7 @@ else if (r0abPCHQu3 == 348953734)
 {
 Rw9qL = g1l4();
 }
-else if (((b300qxmj26) || (Si3jQ8 >= -453836397)) || ((SM061_AiCT >= -965429759) || (Rw9qL <= q_nn)))
+else if (((b300qxmj26) || (true)) || ((SM061_AiCT >= -965429759) || (Rw9qL <= q_nn)))
 {
 ZzdEvll = (int)ceil(Wtv__Cq_);
 }
@@ -111,7 +111,7 @@ ucu_FFGy = (int)floor(Wtv__Cq_);
 }
 else if ((q_nn <= -1900361464) && ((b300qxmj26 > -1813753681) && (SM061_AiCT <= Rw9qL)))
 {
-if (((zZr2WrwE != 102272107) || (bk6iIUUkp2 <= -37020796)) || ((ucu_FFGy < 969119596) && (Rw9qL < -317249496)))
+if (((true) || (bk6iIUUkp2 <= -37020796)) || ((ucu_FFGy < 969119596) && (Rw9qL < -317249496)))
 {
 Rw9qL = g1l4();
 }
@@ -138,7 +138,7 @@ else if (q_nn & -7799145)
 {
 bk6iIUUkp2++;
 }
-else if ((zZr2WrwE >= -1980681020) || ((ucu_FFGy < 499307927) || (SM061_AiCT & b300qxmj26)))
+else if ((true) || ((ucu_FFGy < 499307927) || (SM061_AiCT & b300qxmj26)))
 {
 ZzdEvll = Ks6Di4vn3f(ZzdEvll, 818884670, 1258042104, 1615944822);
 }
@@ -155,7 +155,7 @@ else
 ZzdEvll = (int)floor(ucu_FFGy);
 }
 }
-else if (q_nn <= -973661716)
+else if (false)
 {
 Wtv__Cq_ = (int)ceil(ucu_FFGy);
 }
@@ -236,7 +236,7 @@ else if (Rw9qL == SM061_AiCT)
 {
 bk6iIUUkp2 *= 817237272;
 }
-else if (Si3jQ8 >= 942621624)
+else if (false)
 {
 b300qxmj26 = Ks6Di4vn3f(SM061_AiCT, 633300811, 2112193847, 1540363706);
 }
@@ -249,7 +249,7 @@ else if (ucu_FFGy <= zZr2WrwE)
 {
 Si3jQ8++;
 }
-else if ((zZr2WrwE) || (bk6iIUUkp2 >= 1691937778))
+else if ((zZr2WrwE) || (false))
 {
 bk6iIUUkp2 = Ks6Di4vn3f(-833964013, r0abPCHQu3, -642707618, -380360209) & 2076872909;
 }
@@ -336,7 +336,7 @@ zZr2WrwE = (unsigned short)(Si3jQ8);
 
 bk6iIUUkp2 = (unsigned char)(r0abPCHQu3 + (1145234305));
 q_nn = (int)abs(ucu_FFGy);
-if (zZr2WrwE < -599641652)
+if (false)
 {
 q_nn = (int)abs(Wtv__Cq_);
 }

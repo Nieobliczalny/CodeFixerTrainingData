@@ -132,7 +132,7 @@ int main(int argc, char** argv) {
  Ng_d5d = -577342403;
  YjU_3_4H = 1498269471;
 
-if (d_oCD38Xx < 34548113)
+if (true)
 {
 for (int j = 9; j >= 0; j--)
 {
@@ -168,7 +168,7 @@ break;
 }
 }
 }
-else if (JZHT4 < 1223778938)
+else if (true)
 {
 if (KgmKh >= dzXm)
 {
@@ -210,7 +210,7 @@ try
 {
 for (int j = 0; j < 6; j++)
 {
-if (((BK9h2o & wWfnyWDU) || (Nrs6 > -175675809)) || (uJ4w < lkBt7T1rGP))
+if (((BK9h2o & wWfnyWDU) || (true)) || (uJ4w < lkBt7T1rGP))
 {
 lZbX = fe7eD();
 }
@@ -221,7 +221,7 @@ catch (int& errorCode)
 v3nBdCz = pghXYLEF50(517803949, v3nBdCz, 1884158248, uJ4w, qE5SNm9Qw);
 }
 
-if (AII12x8r84 >= 1331525013)
+if (false)
 {
 BK9h2o = fe7eD() ^ 1573225004;
 }
@@ -234,7 +234,7 @@ if ((fOt8P8 >= xUDSZ0R2) || (PT524 >= wWfnyWDU))
 i48bKnkw_ %= 766932746;
 }
 }
-else if ((hj958V5 >= -1516915780) && (oAXJ2X8wH))
+else if ((true) && (oAXJ2X8wH))
 {
 v3nBdCz = pghXYLEF50(RH05, mln_HR788N, C9R6rb5Ii, 1963737193, xwycnIJN6);
 }
@@ -255,7 +255,7 @@ o16i0g5K = fe7eD();
 }
 else
 {
-if (xUDSZ0R2 == -1704951157)
+if (false)
 {
 C9R6rb5Ii >>= 420694940;
 }
@@ -308,7 +308,7 @@ yvYE0E6U--;
 break;
 }
 }
-else if ((xUDSZ0R2 != 2146601648) || (lvheG > -199935896))
+else if ((true) || (lvheG > -199935896))
 {
 for (int j = 10; j >= 0; --j)
 {
@@ -359,7 +359,7 @@ cout << "oi36" << "N7nN" << "t7_R7q" << pghXYLEF50(666456345, UVCFJ, nJP33, UeAG
 
 try
 {
-if (f48q_h_ > -1385197199)
+if (true)
 {
 if (((qE5SNm9Qw == -1546342011) && (lvheG <= wWfnyWDU)) && (BK9h2o >= dzXm))
 {
@@ -454,7 +454,7 @@ int i = 0;
 do
 {
 i++;
-if ((OcH4C83 > j4_35) || ((nM7N3zto4e != -249871052) || (IcQ3dPn_v7 != 1244630826)))
+if ((OcH4C83 > j4_35) || ((true) || (IcQ3dPn_v7 != 1244630826)))
 {
 cout << C9R6rb5Ii << endl;
 }
@@ -467,7 +467,7 @@ RH05 = gcx5(RH05, oAXJ2X8wH, b7ddoK, j4_35, T5NFf7VO3);
 break;
 }
 }
-else if (AII12x8r84 == dzXm)
+else if (false)
 {
 for (int k = 0; k < 1; k++)
 {
@@ -548,7 +548,7 @@ catch (int& errorCode)
 v3nBdCz = pghXYLEF50(471063433, nM7N3zto4e, p65x4v0H, 1708509114, nJP33);
 }
 }
-else if (q5NS >= 368669977)
+else if (false)
 {
 try
 {
@@ -577,7 +577,7 @@ JHbdx >>= uJ4w;
 }
 }
 }
-if (u46wO_Nx > -1888292721)
+if (true)
 {
 {
 int j = 5;

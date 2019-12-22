@@ -124,7 +124,7 @@ if (d0dRK75 & -1396825563)
 Im4DIWHbpy = t1BM(Im4DIWHbpy, w9I1, -1395887312);
 }
 }
-else if (hWZva1 >= FL_jt)
+else if (false)
 {
 try
 {
@@ -167,7 +167,7 @@ std::cout << "Sow1" << S310r8 << BM08G2J4(XkA9h, Rkrg3_6, E9l1Y7) << x1T6 << std
 }
 else
 {
-if ((z18zAX68q <= -960047549) && ((hWZva1 > 1236040316) || (oV7_WK6pD9 >= FL_jt)))
+if ((z18zAX68q <= -960047549) && ((false) || (oV7_WK6pD9 >= FL_jt)))
 {
 switch (CUXM8)
 {
@@ -325,7 +325,7 @@ int j = 0;
 do
 {
 j++;
-if (Lpug5u5G == FL_jt)
+if (false)
 {
 c3KQJy362 = BM08G2J4(c3KQJy362, -2002784508, iP8Xr);
 }

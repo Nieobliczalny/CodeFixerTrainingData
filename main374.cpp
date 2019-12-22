@@ -44,7 +44,7 @@ if (asyLEvba)
 {
 for (int k = 9; k >= 0; --k)
 {
-pjaG_g = (sj9UiEtp > -993953780) ? -1962082744 : 1711660322;
+pjaG_g = (true) ? -1962082744 : 1711660322;
 }
 }
 else
@@ -79,7 +79,7 @@ catch (int& errorCode)
 UgHSc5X = H_39hN0A(-524529166);
 }
 
-if (nmA5RX > 1276484500)
+if (false)
 {
 ZZ5Q = (unsigned char)(sj9UiEtp);
 }
@@ -109,7 +109,7 @@ else if (tA5AZ >= s6gkhrUNb)
 {
 EbC1Ia9q = DCm8QocI(EbC1Ia9q, -1113261203, 132820173, asyLEvba);
 }
-else if (((asyLEvba != -1443688719) && (Igs7U71K7A)) && (aL4o))
+else if (((true) && (Igs7U71K7A)) && (aL4o))
 {
 thfo = UgHSc5X / hozBEk49;
 }

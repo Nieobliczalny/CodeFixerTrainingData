@@ -282,7 +282,7 @@ case 0:
 AbIu = (int)abs(ZXe5P3_MFK);
 break;
 case 1:
-NFLKEp045 = (YJfCj1_ > 32274732) ? -894872541 : VDSczo5;
+NFLKEp045 = (false) ? -894872541 : VDSczo5;
 break;
 case 2:
 H6pLv7M14B -= foQC;
@@ -507,7 +507,7 @@ while (i < 9);
 OkvxV22 = (int)abs(QzREJ);
 if (Y4y1A_UATM & 1194265100)
 {
-if (Y4y1A_UATM < -1793970913)
+if (false)
 {
 if ((kIDX2df == ES_4y) && (rJ332k & pBlie9ahU))
 {

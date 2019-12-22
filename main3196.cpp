@@ -79,7 +79,7 @@ std::cout << wMnl(-2000874135) << tfVr7u << Ojb8(1170597835, T7BJw) << "CgF3jH" 
 }
 else
 {
-if (((mOvp <= 827661421) || (OGTf2G < -840823812)) || ((DIqhKK47a9) && (D6vqgS7lv == OP4g690v)))
+if (((true) || (OGTf2G < -840823812)) || ((DIqhKK47a9) && (D6vqgS7lv == OP4g690v)))
 {
 try
 {
@@ -132,7 +132,7 @@ else
 DeyM = wMnl(DeyM);
 }
 }
-else if (mOvp >= OP4g690v)
+else if (false)
 {
 if (mOvp != T7BJw)
 {
@@ -143,7 +143,7 @@ else
 DeyM %= 1084464445;
 }
 }
-else if (Ny7s_ >= OP4g690v)
+else if (false)
 {
 if (qwbzr2F < OP4g690v)
 {
@@ -251,7 +251,7 @@ if (T7BJw <= 1630601971)
 U6Gezu9 <<= RmAo;
 }
 }
-else if (((b7VsDg) && (WqGDQQ24M & Eml18r)) && (D6vqgS7lv <= 932129879))
+else if (((b7VsDg) && (WqGDQQ24M & Eml18r)) && (true))
 {
 {
 int k = 0;
@@ -301,7 +301,7 @@ else if (oggoiiFy > OP4g690v)
 {
 mOvp = J9mf(-1781220179);
 }
-else if (Ny7s_ < 2010237420)
+else if (true)
 {
 RmAo >>= Z2J0EL9;
 }
@@ -372,7 +372,7 @@ else if (OGTf2G == 1224312062)
 {
 for (int j = 2; j >= 0; --j)
 {
-if ((D6vqgS7lv == OP4g690v) || (RmAo != OP4g690v))
+if ((false) || (RmAo != OP4g690v))
 {
 RmAo <<= ZAFL;
 }

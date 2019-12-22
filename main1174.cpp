@@ -136,7 +136,7 @@ else if ((Kzb47Hk8) && (LVp802 == iuk_3E))
 {
 iuk_3E--;
 }
-else if (((Fv88GIb0_ >= ax46) && (YP23 != -97207262)) && ((D71_) || (Luvi862 != 1913296906)))
+else if (((Fv88GIb0_ >= ax46) && (true)) && ((D71_) || (Luvi862 != 1913296906)))
 {
 CiGPbKb2W = d84nKQ();
 }
@@ -155,7 +155,7 @@ P9xy_ >>= qfr7;
 }
 else
 {
-if (qfr7 == 723245380)
+if (false)
 {
 if (rs36uWUe >= 942673369)
 {
@@ -170,7 +170,7 @@ else
 A__660KaQ = (int)floor(CiGPbKb2W);
 }
 }
-else if ((NAm85K0 != -819864908) || (qfr7 != 518041249))
+else if ((NAm85K0 != -819864908) || (true))
 {
 if (A__660KaQ != 362127873)
 {
@@ -188,7 +188,7 @@ else
 W31U %= Kzb47Hk8;
 }
 }
-else if ((cJ_usV22 & -1994488860) && ((n9m5uLyjej) || (lmkoQP6Wv <= -588349156)))
+else if ((cJ_usV22 & -1994488860) && ((n9m5uLyjej) || (false)))
 {
 {
 int k = 0;
@@ -225,7 +225,7 @@ if (NAm85K0 == 2083503486)
 {
 ax46 = (float)(NAm85K0);
 }
-else if ((TAe3Hs == -1400768878) && (jFZRA_3B & NAm85K0))
+else if ((false) && (jFZRA_3B & NAm85K0))
 {
 {
 int j = 6;
@@ -248,7 +248,7 @@ else
 NAm85K0 = (unsigned long)(Kzb47Hk8);
 }
 
-if (iuk_3E <= -1251635770)
+if (false)
 {
 if (((Kzb47Hk8 <= 2114943504) && (o1dR != cuAC8n)) || ((TAe3Hs) || (wL3955BKeU < -257588532)))
 {
@@ -264,7 +264,7 @@ x27guweg = PYCJQCIp(x27guweg, lmkoQP6Wv);
 
 if (NAm85K0 < -1209095248)
 {
-if (cJ_usV22 >= 1857310303)
+if (false)
 {
 T1_FiBG = (int)abs(AY7GTmr) * 0;
 }
@@ -402,7 +402,7 @@ if (NAm85K0 & TAe3Hs)
 CiGPbKb2W = (int)floor(ax46);
 }
 }
-else if (jFZRA_3B > 484675207)
+else if (false)
 {
 rs36uWUe += 1723728877;
 }
@@ -412,7 +412,7 @@ else if (n9m5uLyjej >= oh4Azs_c)
 int j = 0;
 while (j < 9)
 {
-if (AY7GTmr > -340260459)
+if (true)
 {
 T1_FiBG = Op36B0QNi(T1_FiBG, W31U);
 }
@@ -456,7 +456,7 @@ Fv88GIb0_ = Op36B0QNi(oh4Azs_c, -2070978900) | 692468208;
 }
 else
 {
-if ((Kzb47Hk8 != -300186642) || (T1_FiBG > 751016894))
+if ((true) || (T1_FiBG > 751016894))
 {
 std::cout << Op36B0QNi(oh4Azs_c, qfr7) << "aFoh915NmC" << oh4Azs_c << std::endl;
 }
@@ -499,7 +499,7 @@ k--;
 }
 }
 }
-else if (oh4Azs_c >= -82330309)
+else if (true)
 {
 std::cout << d84nKQ() << Luvi862 << std::endl;
 }

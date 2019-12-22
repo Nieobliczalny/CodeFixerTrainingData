@@ -172,7 +172,7 @@ int main(int argc, char** argv)
     short int    s6dx3_4W2i;
     s6dx3_4W2i    =    -1411038073;
 
-if (xjd5804tBS == -2098998002)
+if (false)
 {
 BD0LAF0 = (char)(pqW3etp9);
 }
@@ -252,7 +252,7 @@ else if ((R2J62woxW != J4lePeV_x) && (IKLA_ != 1527143452))
 {
 d900j1 /= 1341039185;
 }
-else if (zY0rL_5 <= 697686608)
+else if (true)
 {
 Oh_C8y8LSx ^= 262292327;
 }

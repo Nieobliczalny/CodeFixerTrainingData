@@ -53,7 +53,7 @@ Vs_2ibvF = (int)abs(CuPLWCeGgw);
 }
 if (L3M16wUZ)
 {
-if (l0uaW5Rs > -577345919)
+if (true)
 {
 if (MWB7i9C_ <= -1945314171)
 {
@@ -179,7 +179,7 @@ if ((L3M16wUZ == -1537431057) && (Q_Nmx1k != lQ2998D84))
 {
 pSzb1bM_9_ = (long long)(ucEV);
 }
-else if (l0uaW5Rs > 1643137861)
+else if (false)
 {
 if (a8C7mdSdf <= SPJuQpwj)
 {

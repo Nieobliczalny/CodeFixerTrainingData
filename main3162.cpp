@@ -182,7 +182,7 @@ MXrMzRrfn2 = (LvU2zN >= -258542101) ? L8aG : R6Et_k;
 }
 else if (Kz1z0 != -1795298204)
 {
-if (fk_j <= 1202797868)
+if (true)
 {
 itF3 = dU2A270D7O(itF3);
 }

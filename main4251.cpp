@@ -280,7 +280,7 @@ else if ((K4bz7q2Wmo) && (BPfM6rF0U >= b3F7Af52))
 {
 CtXoat5F <<= ndYv;
 }
-else if ((Fgd424bo > -2131179980) || (Etu38qW84 >= V5MxuNI8R))
+else if ((true) || (Etu38qW84 >= V5MxuNI8R))
 {
 pbBa2Efe = rvZY(zv_T_);
 }

@@ -77,7 +77,7 @@ int main(int argc, char** argv)
 ZVBh = (char)(hxlE_09I_);
 
 std::cout << "cM08_bXrfB" << x1y7nG << std::endl;
-if ((af_Ogp7na > 1147013930) && (ThA1 > B_tV5x))
+if ((af_Ogp7na > 1147013930) && (false))
 {
 if (BrdgD2gYks > B_tV5x)
 {
@@ -98,7 +98,7 @@ for (int k = 0; k < 1; k++)
 nsTUwv = (int)abs(sauqC6);
 }
 }
-else if ((jMG__tq3bp < K71M_n) && (ThA1 != B_tV5x))
+else if ((jMG__tq3bp < K71M_n) && (true))
 {
 if (gu5sY5SeY)
 {
@@ -170,7 +170,7 @@ Pa8PQ = gOb1p(-897132009, 1857668637, 1792154754);
 break;
 }
 }
-else if ((dkk2U) && (H8_x4a == 830264678))
+else if ((dkk2U) && (false))
 {
 switch (Jp0x3Pa2)
 {
@@ -237,7 +237,7 @@ try
 {
 if ((yjj_7W2bD == AG_d4Cn_mS) || ((OZ7_7 == AG_d4Cn_mS) && (v502_h >= -1449654089)))
 {
-if (A4JIi5We <= C6INS92b)
+if (false)
 {
 H8_x4a = l3cnj(529498250, fek1, 704952310, IcgcW8BiN, -2026065769);
 }

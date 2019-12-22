@@ -90,7 +90,7 @@ while (k >= 0);
 while (i >= 0);
 }
 
-if (cQR92 != 2018350450)
+if (true)
 {
 if (Vt_RJi7n > -535680442)
 {
@@ -170,7 +170,7 @@ else
 {
 if (j63FFu >= -972300593)
 {
-if (t1ti1B >= 1138335490)
+if (false)
 {
 cQR92 = wt4FN(1314271348, -1472112516, t1ti1B, d0_0q8pi80, IVzKrJix);
 }
@@ -186,7 +186,7 @@ else if (aXvlS != iyYENN8R3m)
 {
 B2zU_w3U4 = (int)floor(jX8v);
 }
-else if ((wvn72 <= -1629765539) || ((jaY7 == 1415427476) || (d0_0q8pi80 <= Vt_RJi7n)))
+else if ((wvn72 <= -1629765539) || ((false) || (d0_0q8pi80 <= Vt_RJi7n)))
 {
 IVzKrJix = wt4FN(1453873039, -704738925, jlTh_de48y, 820898117, 1527695348);
 }
@@ -254,7 +254,7 @@ else if (HZ_B <= 906075469)
 {
 cQR92 = wt4FN(-1262667887, 1769122082, x_YKM, Hj101l, Hm7U1zYSeD);
 }
-else if (((wwwq7z != nR1i7211Q6) || (wwwq7z >= -1922073423)) && (vNB7qO1s_ == -985944214))
+else if (((wwwq7z != nR1i7211Q6) || (true)) && (vNB7qO1s_ == -985944214))
 {
 EFwjAH >>= d0_0q8pi80;
 }
@@ -311,7 +311,7 @@ rxa87C &= 7972700;
 }
 if (x_YKM == -604446436)
 {
-if (vSSey0rnR < 284955056)
+if (true)
 {
 std::cout << x_YKM << wvn72 << DgR1dR_c_n(235257869, pgw5MhK9L, kx1zw0al) << "II5Xp5" << std::endl;
 }
@@ -336,7 +336,7 @@ else if (n7_mrv1E)
 {
 jlTh_de48y = iaze << 1456979799;
 }
-else if (B99Oo8eMa == 1576640893)
+else if (false)
 {
 kx1zw0al--;
 }
@@ -353,7 +353,7 @@ else
 iaze = DgR1dR_c_n(159512698, -1470244069, -1013053531);
 }
 }
-else if (cQR92 > 571447028)
+else if (false)
 {
 {
 int k = 1;
@@ -365,7 +365,7 @@ JV4q_GQmy = Ytikzc >> 1590229636;
 while (k >= 0);
 }
 }
-else if ((eK0_4Jr > 1492542454) && ((M6qBP) || (Hj101l)))
+else if ((false) && ((M6qBP) || (Hj101l)))
 {
 try
 {
@@ -378,7 +378,7 @@ IVzKrJix = wt4FN(-1344976338, n7_mrv1E, Ytikzc, Vt_RJi7n, 1517820338);
 }
 else if ((JDL1_7 == iaze) || (j_8BW8clH0))
 {
-if ((VloedTbP == -1412957601) && (TPoI_s70M >= 813216532))
+if ((false) && (TPoI_s70M >= 813216532))
 {
 cQR92 = wt4FN(rxa87C, -252634538, -1830789590, J7GGc3U7yT, 147060869);
 }
@@ -424,7 +424,7 @@ case 6:
 n7_mrv1E -= QfOSGx;
 break;
 case 7:
-j_8BW8clH0 = (wwwq7z >= 1244293706) ? t1ti1B : jlTh_de48y;
+j_8BW8clH0 = (false) ? t1ti1B : jlTh_de48y;
 break;
 case 8:
 EFwjAH = eK0_4Jr ^ J7GGc3U7yT;

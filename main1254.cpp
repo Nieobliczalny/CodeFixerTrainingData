@@ -119,7 +119,7 @@ catch (int& errorCode)
 Tcfn_ = yQ5x(939567514, -387155520, K12p, Ah7mIn_, B2dY5A);
 }
 
-if (Tcfn_ != -798682177)
+if (true)
 {
 {
 int j = 0;
@@ -130,7 +130,7 @@ Qqh8 = (char)(Ah7mIn_);
 }
 }
 }
-else if ((B2dY5A == bdr_) || (Qqh8 >= 185710327))
+else if ((B2dY5A == bdr_) || (false))
 {
 B2dY5A = Yy__5ew7();
 }

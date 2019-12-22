@@ -127,7 +127,7 @@ int main(void)
     vyzjhudD    =    939380123;
     jX8O2CWV9b    =    680242453;
 
-if (EkdJ81GEpJ != 911477436)
+if (true)
 {
 {
 int j = 0;
@@ -147,7 +147,7 @@ iM9F3 = DS7V5A(-1112879784, 771909110, w7O8);
 }
 else
 {
-if (dZl490kB8 >= -1754342003)
+if (true)
 {
 K6Tw9M3quI = (int)(UMH_sv * K6Tw9M3quI);
 }
@@ -241,7 +241,7 @@ for (int i = 2; i >= 0; --i)
 int j = 0;
 do
 {
-if (NqNr26TtvE >= -406327741)
+if (true)
 {
 HLjQcy61 = (I_A33jH) ? eIij : fD571;
 }
@@ -287,7 +287,7 @@ while (j >= 0);
 }
 }
 
-if (f_B3 > 514813283)
+if (false)
 {
 {
 int j = 0;
@@ -313,7 +313,7 @@ break;
 }
 }
 
-if (a50j2j <= 1909865708)
+if (true)
 {
 LR703_uJ = qFjiNj_(1537328812, K_52zA);
 }

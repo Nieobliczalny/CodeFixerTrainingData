@@ -130,7 +130,7 @@ int i = 10;
 do
 {
 i--;
-if ((qeFj_C <= 507189064) || ((l5IEOrEm_) && (nR_3omJ1 > 1477341120)))
+if ((true) || ((l5IEOrEm_) && (nR_3omJ1 > 1477341120)))
 {
 {
 int k = 0;
@@ -175,7 +175,7 @@ vJlX |= Oy6_;
 
 PC4590 = (unsigned short)(sC1C6);
 
-if ((N766 <= 414128062) && (r863WS160 == 227121899))
+if ((N766 <= 414128062) && (false))
 {
 for (int j = 9; j >= 0; j--)
 {
@@ -192,7 +192,7 @@ for (int j = 0; j < 5; ++j)
 w_5x1Sgd = (int)floor(GF52346);
 }
 }
-if (PC4590 >= 1410779343)
+if (false)
 {
 if (l5IEOrEm_)
 {
@@ -225,7 +225,7 @@ aox_uRC = (int)abs(FT_24eKV1);
 
 try
 {
-if (m403 >= -765464419)
+if (true)
 {
 tKSsZ9m = (unsigned short)(D1JKJn);
 }
@@ -255,7 +255,7 @@ while (i >= 0);
 int i = 0;
 while (i < 2)
 {
-if (SZt6C_ <= -730350877)
+if (false)
 {
 Cz1s0N = (long)(Z20CPxW13y);
 }
@@ -270,7 +270,7 @@ K17XqVZ179 = DKyDr58X - 1330695829;
 }
 }
 }
-else if (nR_3omJ1 <= -218483079)
+else if (false)
 {
 std::cout << "ech79zqh" << "CzF1BAEi9B" << g6MCc58g64 << std::endl;
 }
@@ -398,7 +398,7 @@ while (j < 10);
 while (i < 10);
 }
 
-if ((PC4590 == -202534656) && (sC1C6 < Oy6_))
+if ((false) && (sC1C6 < Oy6_))
 {
 if (sShZ <= -601340295)
 {
@@ -527,7 +527,7 @@ flij = (lq02V >= -1363481132) ? N766 : 1407498287;
 }
 }
 
-if (l5IEOrEm_ != -1904829796)
+if (true)
 {
 switch (Oy6_)
 {
@@ -538,7 +538,7 @@ case 1:
 N766 = (int)ceil(w_5x1Sgd);
 break;
 case 2:
-r863WS160 = (qeFj_C >= 1480695611) ? 1856274567 : -1922465565;
+r863WS160 = (false) ? 1856274567 : -1922465565;
 break;
 case 3:
 LQG2281d <<= I44O47;

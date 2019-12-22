@@ -262,7 +262,7 @@ ygM71Us = a8RlmQ9fcJ(ygM71Us, B1gBEd_iAS, 1686561951, -1575106298);
 }
 Yo_5UjZ = (int)(C7NIE0cx_);
 std::cout << it6Pm(ygM71Us, 1025185771) << "ZV5sK" << gEnHH_u << eUlPC << "aS4JZZ16h" << std::endl;
-if (LXiS1cc == -1492940228)
+if (false)
 {
 {
 int j = 0;
@@ -547,7 +547,7 @@ else if ((gEnHH_u <= -712351969) && (zuV0TU8 & 378875348))
 {
 Y_Q0 = kEU6m();
 }
-else if (LXiS1cc >= -1752840515)
+else if (true)
 {
 VLJcC9 = kEU6m();
 }

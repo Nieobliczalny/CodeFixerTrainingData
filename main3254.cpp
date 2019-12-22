@@ -31,7 +31,7 @@ int main(void) {
  MN01 = 0;
 
 ScTlmmVO--;
-if (Us56jq2a08 <= -932104559)
+if (false)
 {
 wL03N = HmvcV9 << J36DN;
 }
@@ -94,7 +94,7 @@ int j = 6;
 while (j >= 0)
 {
 j--;
-if (Us56jq2a08 >= -501110392)
+if (true)
 {
 J36DN = CsM_q4y2 + HmvcV9;
 }
@@ -106,7 +106,7 @@ else if (Us56jq2a08 <= 1894058739)
 {
 fdA3yTi = wL03N ^ w1AIFz;
 }
-else if ((MN01) || ((w1AIFz) || (MN01 > -1797979223)))
+else if ((MN01) || ((w1AIFz) || (true)))
 {
 fdA3yTi = (int)abs(J36DN);
 }
@@ -204,7 +204,7 @@ catch (int& errorCode)
 ScTlmmVO = fdA3yTi + w1AIFz;
 }
 }
-else if (J36DN <= -1047702628)
+else if (false)
 {
 HmvcV9 <<= w1AIFz;
 }
@@ -221,7 +221,7 @@ catch (int& errorCode)
 avqRNFJ = MN01 | 38773792;
 }
 }
-else if (w1AIFz > -1548154155)
+else if (true)
 {
 avqRNFJ = CsM_q4y2 >> HmvcV9;
 }
@@ -237,7 +237,7 @@ HmvcV9 = wL03N % 232515793;
 }
 }
 }
-else if ((HmvcV9) && (J36DN > 1903200375))
+else if ((HmvcV9) && (false))
 {
 fdA3yTi = fdA3yTi / 316846692;
 }
@@ -265,7 +265,7 @@ else
 avqRNFJ = MN01 / 972192101;
 }
 }
-else if (fdA3yTi == 844372784)
+else if (false)
 {
 for (int k = 0; k < 4; ++k)
 {
@@ -293,7 +293,7 @@ else if (HmvcV9 < ScTlmmVO)
 {
 ScTlmmVO ^= fdA3yTi;
 }
-else if ((ScTlmmVO) && ((ScTlmmVO > 2034525280) && (MN01 != 2115323980)))
+else if ((ScTlmmVO) && ((ScTlmmVO > 2034525280) && (true)))
 {
 HmvcV9 = (J36DN >= -294486977) ? -430831115 : 1474330517;
 }
@@ -345,7 +345,7 @@ catch (int& errorCode)
 {
 w1AIFz = avqRNFJ + 453731570;
 }
-if (J36DN == 2094585703)
+if (false)
 {
 w1AIFz %= fdA3yTi;
 }
@@ -376,7 +376,7 @@ for (int k = 0; k < 3; k++)
 wL03N = CsM_q4y2 + 529736936;
 }
 }
-else if (((fdA3yTi) || (MN01 == 200917571)) || (HmvcV9 <= 2088621487))
+else if (((fdA3yTi) || (false)) || (HmvcV9 <= 2088621487))
 {
 for (int k = 3; k >= 0; --k)
 {
@@ -390,7 +390,7 @@ for (int k = 3; k >= 0; --k)
 HmvcV9 = (int)abs(fdA3yTi);
 }
 }
-else if ((fdA3yTi & HmvcV9) && (fdA3yTi <= -1602574961))
+else if ((fdA3yTi & HmvcV9) && (false))
 {
 if (ScTlmmVO == -1529409534)
 {
@@ -417,7 +417,7 @@ fdA3yTi = (HmvcV9 != CsM_q4y2) ? -681967317 : J36DN;
 }
 }
 }
-else if (Us56jq2a08 >= 501370152)
+else if (false)
 {
 fdA3yTi += Us56jq2a08;
 }

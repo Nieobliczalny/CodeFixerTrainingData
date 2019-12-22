@@ -137,7 +137,7 @@ int main()
 
 l63k97_ = (short int)(IvUV5 + (-204134483));
 DP2BHDJ781 = J7A2_tO0(-982123730, -89242777, FrKO);
-if ((J6WjR1trCO) && (F2W5msw2 >= 459574885))
+if ((J6WjR1trCO) && (false))
 {
 std::cout << "ozY6" << Q_Sv << "j0tm1" << dDeEVyM3E() << std::endl;
 }
@@ -309,7 +309,7 @@ if ((pG38 == IvUV5) || (J6WjR1trCO > mYqB6zti))
 {
 gkKC7 -= 2143786330;
 }
-else if (sL853srB > -1720359212)
+else if (true)
 {
 dCjg4Dc5 = (int)floor(Y4ugnOik);
 }

@@ -187,7 +187,7 @@ int main(void) {
 
 Vhx204Q = (int)ceil(V45_UW9UM8);
 
-if (tEidT >= -1555935663)
+if (true)
 {
 Vhx204Q = (int)ceil(ujH9z);
 }

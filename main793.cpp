@@ -128,7 +128,7 @@ catch (int& errorCode)
 {
 BYIma9w58r = tLrA19fG(-1693817518, C0q_9);
 }
-if (vaYm < -1594639904)
+if (false)
 {
 {
 int j = 0;
@@ -145,7 +145,7 @@ while (j < 7);
 }
 else
 {
-if (ljY6Okakz == 2035158524)
+if (false)
 {
 {
 int k = 7;

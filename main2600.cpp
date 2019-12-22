@@ -120,7 +120,7 @@ if (Nxpf1_ < X0ttO_I_)
 {
 cout << QPLq8p(-508715622, X0ttO_I_, -1656964337) << "s2TfUK2" << "xW7Vs4" << QPLq8p(vKHo, 1311572191, -419865066) << "YiLIfsKR_" << endl;
 }
-else if (((D0H49688 == xqi470) && (nKS8 < 1056491847)) && (YBh1Fs >= D0H49688))
+else if (((D0H49688 == xqi470) && (true)) && (YBh1Fs >= D0H49688))
 {
 for (int k = 0; k < 5; ++k)
 {
@@ -138,7 +138,7 @@ else
 bxblR = (jqOvtl) ? mDM10y56v : Q_B_A8x;
 }
 }
-else if (V59085qa > 138452364)
+else if (false)
 {
 j66xX4A9_l = (int)ceil(X0ttO_I_);
 }
@@ -401,7 +401,7 @@ Kf5obdyta1 = QPLq8p(-416323192, -1135033718, b4qrc);
 break;
 }
 cout << "My4adR4" << endl;
-if (((D62v_4 <= -743476796) || (C3O5Mu43 > C_qv5bE7Z4)) || (C_qv5bE7Z4 != -1306183413))
+if (((false) || (C3O5Mu43 > C_qv5bE7Z4)) || (C_qv5bE7Z4 != -1306183413))
 {
 D62v_4 = (int)abs(CTAKI_eP);
 }
@@ -447,7 +447,7 @@ break;
 while (i < 7);
 }
 
-if (vKHo != etlSE)
+if (true)
 {
 switch (Kf5obdyta1)
 {

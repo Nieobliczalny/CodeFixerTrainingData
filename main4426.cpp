@@ -18,7 +18,7 @@ int main(int argc, char** argv) {
     char    wXV2    =    -223312929,    fq48j_U_s3    =    -18356785,    eBsu2    =    -1849522408,    Vo61_So7    =    81116114,    Syor2Qn    =    -911444852,    slqLJ35q    =    618386630,    M66fn4    =    -861971358,    s_8IqeCaq8    =    -1763318271,    q7ff9    =    -2000574452,    Mgnj3N8_e1    =    48027999,    hxei    =    824225975,    ZY70i0    =    -1557005914,    DEzRCM    =    501944036,    N21v    =    -450849291,    XlSjDfgjRU    =    -575241853,    xV0ep    =    846944475,    nGY35    =    -765384766,    d6qC7_iBm4    =    540196912,    O9cJO_    =    -1766265528,    OTYwFU9_G    =    -612036247,    F3dZ5vnU    =    1380326248,    Hp5O2X6    =    1798687042,    eE_Vu    =    146461068,    O_cB    =    -1338503333;
     long    z5sm    =    0;
 
-if (nGY35 != -102372087)
+if (true)
 {
 Hp5O2X6 = (char)(N_rPvB3NZC);
 }
@@ -39,7 +39,7 @@ case 'c':
 z5sm = b_nxo(1467873053, O9cJO_);
 break;
 case 'd':
-slqLJ35q = (xV0ep != 1488127587) ? hxei : 118972465;
+slqLJ35q = (true) ? hxei : 118972465;
 break;
 case 'e':
 z5sm = b_nxo(eBsu2, 1087776612);
@@ -97,7 +97,7 @@ if ((s_8IqeCaq8 == N21v) && (O_cB & 1044355172))
 {
 eE_Vu = lrtL8eIB3(eE_Vu, Hp5O2X6);
 }
-else if ((wXV2 != C1_5Wz49) && (slqLJ35q > z05AMuS))
+else if ((true) && (slqLJ35q > z05AMuS))
 {
 std::cout << lrtL8eIB3(eE_Vu, -547217283) << "r4KcV7" << lrtL8eIB3(eE_Vu, 601442246) << b_nxo(eE_Vu, Hp5O2X6) << std::endl;
 }
@@ -196,7 +196,7 @@ else if (((DEzRCM < wXV2) && (slqLJ35q != z05AMuS)) || (hxei))
 {
 z5sm = b_nxo(hxei, DEzRCM);
 }
-else if (Syor2Qn != -1559301783)
+else if (true)
 {
 if (OTYwFU9_G >= Mgnj3N8_e1)
 {
@@ -207,7 +207,7 @@ else
 Vo61_So7 = (int)abs(d6qC7_iBm4);
 }
 }
-else if ((s_8IqeCaq8 <= xV0ep) || (Mgnj3N8_e1 == 594397730))
+else if ((s_8IqeCaq8 <= xV0ep) || (false))
 {
 try
 {
@@ -218,7 +218,7 @@ catch (int& errorCode)
 slqLJ35q = lrtL8eIB3(-37227450, -793189238);
 }
 }
-else if ((OTYwFU9_G >= F3dZ5vnU) && (q7ff9 != 1372614516))
+else if ((OTYwFU9_G >= F3dZ5vnU) && (true))
 {
 N21v = (char)(z05AMuS + (N_rPvB3NZC));
 }

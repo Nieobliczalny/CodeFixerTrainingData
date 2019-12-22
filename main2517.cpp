@@ -290,7 +290,7 @@ catch (int& errorCode)
 {
 a_6TS /= UimQ;
 }
-if (h9W_G >= -1548333936)
+if (true)
 {
 if (h9W_G)
 {
@@ -356,7 +356,7 @@ if (VV_M6Z6 > puI4jcr_)
 {
 O27r++;
 }
-else if (((F_s84XRI9 < tPDvlj0V5) || (Iql6K07Om > WX5do)) && ((lv_0 & KM_T4mXO) || (O27r & -1959798097)))
+else if (((false) || (Iql6K07Om > WX5do)) && ((lv_0 & KM_T4mXO) || (O27r & -1959798097)))
 {
 F_s84XRI9 = Nbtv(-1432427219);
 }
@@ -373,7 +373,7 @@ else
 Hgz0 = (int)abs(uDf4O);
 }
 }
-else if (vn33qp >= f4oW5)
+else if (false)
 {
 o_MZOr = (int)abs(A1gxoQC);
 }

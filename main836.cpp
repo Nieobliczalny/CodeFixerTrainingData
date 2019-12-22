@@ -181,7 +181,7 @@ D0D02E = (int)floor(T55_65UC);
 }
 else if (rkEN1aAu >= 749907839)
 {
-if (goEU_E_ >= -1482265908)
+if (true)
 {
 {
 int k = 2;
@@ -302,7 +302,7 @@ for (int i = 0; i < 7; i++)
 int j = 0;
 do
 {
-if ((WeaA59HB > Xba6_8S9z_) || (D4sz < 107421993))
+if ((WeaA59HB > Xba6_8S9z_) || (true))
 {
 j6k_ *= qU59KWl;
 }
@@ -318,7 +318,7 @@ while (j < 8);
 
 try
 {
-if (((qCSAaQ <= 1835838464) && (XuQmV0_j0)) && (F3Q_ > -1428553602))
+if (((true) && (XuQmV0_j0)) && (F3Q_ > -1428553602))
 {
 switch (J1zJG)
 {

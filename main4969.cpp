@@ -219,7 +219,7 @@ else if (FN_DH & t_QF0w7)
 {
 kC__ROl6fi = wB1Dg747(-943939451, -99772384, 1809931433);
 }
-else if (P1oX_it3h4 != 458344791)
+else if (true)
 {
 {
 int j = 9;
@@ -238,7 +238,7 @@ else if (h10cN_Dv0o > ktX7L8)
 {
 cout << "s1h8qb1Hn" << "AkvIUW" << "U54FSnii" << wB1Dg747(FR0d_4, m8d_mY0H, 425206563) << endl;
 }
-else if (((ML5YTHdTco) || (anRKX7 > -1427439988)) && (cVTL8T56 == m19nC7S))
+else if (((ML5YTHdTco) || (true)) && (cVTL8T56 == m19nC7S))
 {
 zQDFO9 = YbS6q0 | aHQv7_i;
 }

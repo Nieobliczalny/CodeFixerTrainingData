@@ -24,7 +24,7 @@ int main(int argc, char** argv) {
  unsigned long R8C_NOb, i7woOg35_F;
   R8C_NOb = i7woOg35_F = 0;
 
-if (((iRwZry <= 2004694851) && (XV4u28 == -659395605)) && (y2g65E49J != -1752396509))
+if (((true) && (XV4u28 == -659395605)) && (y2g65E49J != -1752396509))
 {
 if (i7woOg35_F)
 {
@@ -83,7 +83,7 @@ R8C_NOb = aD90H7H();
 break;
 }
 }
-else if (((Jx6c == -1502790349) && (f3a58ej > EMWw2)) && ((iRwZry == -1447840161) && (tz0_mDNd >= EMWw2)))
+else if (((false) && (f3a58ej > EMWw2)) && ((iRwZry == -1447840161) && (tz0_mDNd >= EMWw2)))
 {
 cout << aD90H7H() << "z1cr" << "rUhErpC5" << "SO_jH42_I4" << endl;
 }

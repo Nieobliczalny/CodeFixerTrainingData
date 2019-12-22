@@ -137,7 +137,7 @@ default:
 izb78TDkKW = v94B2(1967712795, -1304887112);
 break;
 }
-if (A8AAwVG < 1445424289)
+if (true)
 {
 JO8F2X0 = jW6l0mLJF(1660408202, -1910150073, -248380537, -2087281318);
 }
@@ -192,7 +192,7 @@ catch (int& errorCode)
 {
 CZp568Bp = aD873g | TOX3;
 }
-if (Pgi309nW3 >= -1286791846)
+if (true)
 {
 P7o9 = (unsigned short)(K66izldqNm);
 }
@@ -214,7 +214,7 @@ k++;
 int i = 0;
 do
 {
-if (Wfz0 > 1450244392)
+if (false)
 {
 std::cout << "taVA" << pQ70IS_ << jW6l0mLJF(-301547258, -1771282608, V5pyyw4, 116688778) << std::endl;
 }
@@ -348,7 +348,7 @@ while (j < 3);
 }
 Wfz0 = vX4_WGN4(-1918418679);
 
-if (c6xj > 244644345)
+if (false)
 {
 std::cout << MQXl00SkV << g_NwBIf << "CHI_FV8UE" << std::endl;
 }
@@ -369,7 +369,7 @@ i--;
 int j = 8;
 do
 {
-if (JxYa1xBH < 1718529525)
+if (true)
 {
 c6xj = V5pyyw4 / 616947169;
 }

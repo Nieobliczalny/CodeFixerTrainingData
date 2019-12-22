@@ -44,7 +44,7 @@ int main() {
   unsigned int  JLmiA_uqGc;
   JLmiA_uqGc  =  589554731;
 
-if (lEYL == 547270676)
+if (false)
 {
 {
 int j = 1;
@@ -54,7 +54,7 @@ if (zfb1FX > 1003799150)
 {
 HJU9 = WHC3m1Q2rt(111314696);
 }
-else if ((oU44 == 855602685) && ((W9k7cT879 != pQ_n) && (q82Oi <= Dw6qlz2)))
+else if ((false) && ((W9k7cT879 != pQ_n) && (q82Oi <= Dw6qlz2)))
 {
 lEYL ^= 1915010900;
 }
@@ -165,7 +165,7 @@ default:
 lEYL = (int)abs(Dw6qlz2);
 break;
 }
-if (((nPUWL3 > Dw6qlz2) && (Dw6qlz2 == 750649911)) && ((JLmiA_uqGc == pQ_n) && (ZMhaQ2 != 390242029)))
+if (((nPUWL3 > Dw6qlz2) && (Dw6qlz2 == 750649911)) && ((JLmiA_uqGc == pQ_n) && (true)))
 {
 if (JLmiA_uqGc != Xa_gb1F)
 {
@@ -190,7 +190,7 @@ std::cout << "lmwf4t1" << std::endl;
 
 if (Xa_gb1F & -1237017418)
 {
-if (q82Oi == -717945217)
+if (false)
 {
 nPUWL3 = (long long)(q82Oi * nPUWL3);
 }
@@ -201,7 +201,7 @@ else
 int j = 8;
 while (j >= 0)
 {
-if (Xa_gb1F == 1036213747)
+if (false)
 {
 JLmiA_uqGc = v46xWeT8(1413063482);
 }

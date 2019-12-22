@@ -36,7 +36,7 @@ int main(int argc, char** argv) {
 
 try
 {
-if ((iND93) || (dI_5cms_6 == -1455731617))
+if ((iND93) || (false))
 {
 if ((zWw94S < 495827190) && ((dI_5cms_6 < a940fyS_g) && (zWw94S)))
 {
@@ -60,7 +60,7 @@ catch (int& errorCode)
 dI_5cms_6 &= 1340217879;
 }
 a940fyS_g = veGN9F(1917342950, 1569592588);
-if (a940fyS_g > -991598088)
+if (true)
 {
 try
 {
@@ -78,7 +78,7 @@ if (x__V2G)
 {
 if (x__V2G)
 {
-if ((a940fyS_g & 1745057592) || ((iND93) || (dI_5cms_6 == 1763827033)))
+if ((a940fyS_g & 1745057592) || ((iND93) || (false)))
 {
 zWw94S = dI_5cms_6 >> 111734920;
 }
@@ -128,7 +128,7 @@ while (k >= 0);
 }
 else
 {
-if ((zWw94S == -2086344431) || (a940fyS_g <= -1660746466))
+if ((zWw94S == -2086344431) || (false))
 {
 if (x__V2G < 1944304241)
 {
@@ -138,7 +138,7 @@ else if ((dI_5cms_6 != 1052180575) || (gq6E4c <= -1393429738))
 {
 gq6E4c = aCstlg(x__V2G, -1986769418);
 }
-else if ((gq6E4c) || ((dI_5cms_6 != -1096671393) && (GG5jR0B5 != zWw94S)))
+else if ((gq6E4c) || ((true) && (GG5jR0B5 != zWw94S)))
 {
 GG5jR0B5 = JdFMoSaG(dI_5cms_6);
 }
@@ -237,7 +237,7 @@ zWw94S *= 1374253442;
 }
 else
 {
-if (((x__V2G < -1813731156) || (gq6E4c)) || ((gq6E4c > dI_5cms_6) || (x__V2G)))
+if (((false) || (gq6E4c)) || ((gq6E4c > dI_5cms_6) || (x__V2G)))
 {
 {
 int k = 0;
@@ -299,7 +299,7 @@ catch (int& errorCode)
 dI_5cms_6 = veGN9F(-1837993431, -1521502492) ^ zWw94S;
 }
 zWw94S = pt12y(2085022191, a940fyS_g);
-if (dI_5cms_6 != -974600896)
+if (true)
 {
 if (iND93 != 484387818)
 {
@@ -312,7 +312,7 @@ gq6E4c = veGN9F(1564406966, 1212904068);
 }
 }
 }
-else if (dI_5cms_6 > 1486538145)
+else if (false)
 {
 dI_5cms_6 = pt12y(dI_5cms_6, 1688304369);
 }
@@ -330,7 +330,7 @@ else if (x__V2G != GG5jR0B5)
 {
 a940fyS_g = s341cgt(356766168, dI_5cms_6, GG5jR0B5, zWw94S, 1325084847) | dI_5cms_6;
 }
-else if (GG5jR0B5 != -546418394)
+else if (true)
 {
 dI_5cms_6 -= zWw94S;
 }
@@ -371,7 +371,7 @@ catch (int& errorCode)
 {
 zWw94S >>= 214518212;
 }
-if (GG5jR0B5 >= 1716471348)
+if (false)
 {
 switch (iND93)
 {
@@ -406,7 +406,7 @@ gq6E4c = (long double)(dI_5cms_6);
 }
 dI_5cms_6 = s341cgt(-551019310, dI_5cms_6, iND93, 1032385216, gq6E4c) << 901150524;
 
-if (GG5jR0B5 < 116217763)
+if (true)
 {
 switch (dI_5cms_6)
 {
@@ -461,7 +461,7 @@ catch (int& errorCode)
 {
 dI_5cms_6 >>= 2031538673;
 }
-if (a940fyS_g != 2043276443)
+if (true)
 {
 GG5jR0B5 = (int)abs(gq6E4c) * 0;
 }
@@ -502,7 +502,7 @@ iND93 = a940fyS_g % 1630119809;
 break;
 }
 }
-else if (dI_5cms_6 <= 1953187555)
+else if (true)
 {
 if (gq6E4c == dI_5cms_6)
 {
@@ -545,7 +545,7 @@ else
 dI_5cms_6 = (unsigned char)(x__V2G + (1069130775));
 }
 }
-else if ((a940fyS_g != 242622529) || (iND93 > -526560451))
+else if ((true) || (iND93 > -526560451))
 {
 std::cout << "v357hGJlH7" << std::endl;
 }
@@ -598,7 +598,7 @@ else if (x__V2G)
 {
 a940fyS_g *= iND93;
 }
-else if (x__V2G <= 1094529704)
+else if (true)
 {
 if (x__V2G)
 {

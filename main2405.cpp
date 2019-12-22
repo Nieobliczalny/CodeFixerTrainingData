@@ -142,7 +142,7 @@ C8jY0m = (int)floor(gD353Wyrr);
 std::cout << Iu15P / I8F3lZehC(118244115, -1910878459) << std::endl;
 if (uMa7y == -321748622)
 {
-if ((IstD45D) || (U8j0S != 482249699))
+if ((IstD45D) || (true))
 {
 try
 {
@@ -165,7 +165,7 @@ iqQ_0u = (int)ceil(LjP8313g_3);
 while (k < 1);
 }
 }
-else if (((BlCE7 < -1744169637) && (oY9TEy69Q < -462970030)) || ((di0_nMy & 1779415861) || (T7o80_C3n < -1663645365)))
+else if (((BlCE7 < -1744169637) && (false)) || ((di0_nMy & 1779415861) || (T7o80_C3n < -1663645365)))
 {
 c5rmoqG = (unsigned short)(W07Yp5Y);
 }

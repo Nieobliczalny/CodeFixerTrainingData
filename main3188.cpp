@@ -141,7 +141,7 @@ else if (ZMMRS2033m > -1076419319)
 {
 q17oq = iU6zEG5L3w(b57uRRPd, -796246928, Q0U2pFm4, pq4MPBz);
 }
-else if (Z01HqI4dY != -1741994179)
+else if (true)
 {
 Q0U2pFm4 >>= 1818161865;
 }
@@ -265,7 +265,7 @@ if (((k30v) && (nMGTt4 < -1208547335)) && (Q0U2pFm4 == k30v))
 {
 q17oq = RH9X36B209(417225080, -762066841) - 1381637177;
 }
-else if (Z01HqI4dY <= 995523988)
+else if (true)
 {
 {
 int j = 0;

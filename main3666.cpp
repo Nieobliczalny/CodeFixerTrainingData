@@ -241,7 +241,7 @@ JGf7X9eA13 = PeZ_4_6zNy(JGf7X9eA13, aMh4_2A5, nVNi6dz, 834459126);
 while (i < 8);
 }
 
-if ((AMnx209 <= -238226370) || ((BNcNL1O35y == -2136371652) || (R4GNT >= -2115485059)))
+if ((AMnx209 <= -238226370) || ((BNcNL1O35y == -2136371652) || (true)))
 {
 std::cout << i30n7avc(JGf7X9eA13, aMh4_2A5, 1347452846, -1559882315, -533874756) << std::endl;
 }
@@ -413,7 +413,7 @@ while (j >= 0);
 }
 }
 
-if ((l2ZNzF7iN > -500016025) && ((R4GNT >= -1318713134) && (pJ7yx3I_7 == eJ70)))
+if ((l2ZNzF7iN > -500016025) && ((true) && (pJ7yx3I_7 == eJ70)))
 {
 Ye9Q5dk5C = i30n7avc(-1428954691, KgG3P, -961602970, Bj6bM, Liupt);
 }

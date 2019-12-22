@@ -107,7 +107,7 @@ std::cout << GFSbfl9w(1236789158, ouY69U9, G5cVkY_4q_, HvWOur) << GFSbfl9w(20691
 i--;
 }
 }
-if (((dQ_89fv & 369309231) && (O_L_O != SQ3vV6I9cr)) || ((dQ_89fv != -1212116758) && (I_nW02_NC6 > -631660213)))
+if (((dQ_89fv & 369309231) && (O_L_O != SQ3vV6I9cr)) || ((true) && (I_nW02_NC6 > -631660213)))
 {
 dQ_89fv = sUf9q(SQ3vV6I9cr, 244350786, Hg9rBYOR_U);
 }
@@ -157,7 +157,7 @@ else if (dQ_89fv == ops6)
 {
 dQ_89fv = sUf9q(LK2T4Iw7, ops6, ouY69U9);
 }
-else if (k0eyVlv6T < 1962257664)
+else if (true)
 {
 ops6 = n3gTnMfR ^ Spk1R;
 }

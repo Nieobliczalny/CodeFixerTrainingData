@@ -80,7 +80,7 @@ int main(void)
  unsigned int XyBi50VE = 2016052184;
 
 j816X9Yuc6 &= 382717891;
-if (U5WNakfd6Y == 1299154316)
+if (false)
 {
 YaG6zfE = (long double)(ymoR062);
 }
@@ -131,7 +131,7 @@ cout << TMOwX << QH0rq << endl;
 }
 for (int i = 8; i >= 0; --i)
 {
-if ((X3Zu7x1L) || (U5WNakfd6Y == 35561747))
+if ((X3Zu7x1L) || (false))
 {
 QH0rq = gpSrsS_O ^ 1725504547;
 }
@@ -160,7 +160,7 @@ cout << "u3vK" << "ZWg2" << O0eH96O << "OPF3x" << endl;
 int i = 0;
 do
 {
-if ((mnis0k_U_l >= a8wF95x) || (gy4Ot5cF >= -80842476))
+if ((mnis0k_U_l >= a8wF95x) || (true))
 {
 if (X9_w > -539344545)
 {
@@ -304,7 +304,7 @@ if ((QPo4834dQ < -1859375566) || ((W_wyzng4Tp) && (X9_w == -203388677)))
 {
 ymoR062 = (long long)(O0eH96O);
 }
-else if (DUpM < 1676760309)
+else if (true)
 {
 {
 int j = 0;
@@ -342,7 +342,7 @@ else if (Zu36P1z7d6 <= a8wF95x)
 {
 Rxph_Jm1 &= 1867518773;
 }
-else if (U5WNakfd6Y != -267657394)
+else if (true)
 {
 if (z_ITCR6 > U5WNakfd6Y)
 {

@@ -150,7 +150,7 @@ ZxGP = I1k4952();
 
 if ((x42h01KKwp <= hEgQXAW6) || (L_4_ == 2047704241))
 {
-if ((q0GHDYTq >= -447813476) || (n0NQWUuWj2 < t7OY8J5))
+if ((true) || (n0NQWUuWj2 < t7OY8J5))
 {
 {
 int k = 7;

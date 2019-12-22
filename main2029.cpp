@@ -209,7 +209,7 @@ cout << ICnP_wgKBE << endl;
 cout << "F8Asj" << endl;
 
 tu86LaB8 = VNk67rMp0X - mfg8RW;
-if (((Et122Sf35O == 1058892658) && (zqc2PbNS1 <= -2067291607)) && (if1vK))
+if (((Et122Sf35O == 1058892658) && (false)) && (if1vK))
 {
 CAqw = (int)ceil(tu86LaB8);
 }

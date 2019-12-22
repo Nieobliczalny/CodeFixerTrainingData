@@ -161,7 +161,7 @@ break;
 
 try
 {
-if ((OmxUH_b <= fAzP7t_14P) || (XZGhW >= a4ZdqC))
+if ((false) || (XZGhW >= a4ZdqC))
 {
 try
 {

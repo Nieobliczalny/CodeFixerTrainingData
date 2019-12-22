@@ -97,7 +97,7 @@ else if (a8r1 != vv_T)
 {
 cout << "rB90_FM" << "hz94_" << O244 << endl;
 }
-else if (hMjt != 1132810114)
+else if (true)
 {
 if (O244 < 1342276650)
 {
@@ -128,7 +128,7 @@ else if (vv_T > u6FqQ4)
 {
 cout << n7Zd1 << z95f8DbuR_ << endl;
 }
-else if ((p3KdB > eTv6) || ((mo3_ <= -173480080) || (Oes4 >= eTv6)))
+else if ((p3KdB > eTv6) || ((false) || (Oes4 >= eTv6)))
 {
 if ((vv_T <= 1089808710) && ((rbWkJky2 == u6FqQ4) || (i3Tuv != 477179455)))
 {
@@ -155,7 +155,7 @@ else
 Czr7 = (int)abs(msTynX);
 }
 }
-else if (eL5oj5i > 283012920)
+else if (false)
 {
 if (eD4618)
 {
@@ -214,7 +214,7 @@ else if (((HdVsJQ6b != Ofg1o64B39) && (Jsg9zQ <= u6FqQ4)) || ((V0SZCn70hc) || (w
 {
 cout << IVn1CnCk << wkRi2g8aFo << endl;
 }
-else if ((Z07aYzL != H_4_Or0QhB) && (vv_T != 1611669303))
+else if ((Z07aYzL != H_4_Or0QhB) && (true))
 {
 {
 int j = 0;
@@ -299,7 +299,7 @@ if ((p37sNs1BN5 & eTv6) && (U43Ldk80at != u6FqQ4))
 int k = 6;
 do
 {
-oZ3e = (i3Tuv > eTv6) ? 892226815 : xTxgNJq7;
+oZ3e = (true) ? 892226815 : xTxgNJq7;
 --k;
 }
 while (k >= 0);
@@ -398,7 +398,7 @@ mo3_ = (unsigned short)(z95f8DbuR_);
 while (j < 3);
 }
 }
-else if ((LtuP_7Wq >= eTv6) || (Z07aYzL < 1988387723))
+else if ((true) || (Z07aYzL < 1988387723))
 {
 {
 int j = 9;
@@ -430,7 +430,7 @@ p3KdB = (int)(z95f8DbuR_);
 int i = 0;
 while (i < 9)
 {
-if ((Hw1q < Jsg9zQ) && ((Jsg9zQ) && (Czr7 < 1053096574)))
+if ((Hw1q < Jsg9zQ) && ((Jsg9zQ) && (true)))
 {
 SFR3J = u6FqQ4 ^ 786308952;
 }

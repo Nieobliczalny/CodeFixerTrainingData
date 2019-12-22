@@ -138,7 +138,7 @@ break;
 C5wxI *= 469936684;
 for (int i = cmZ4A; i < 162; i++)
 {
-if ((f0Oi > K5jY_l2) && (C_V3IRw > 1973588852))
+if ((f0Oi > K5jY_l2) && (false))
 {
 for (int j = 2; j >= 0; --j)
 {

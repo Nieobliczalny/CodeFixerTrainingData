@@ -82,7 +82,7 @@ int main(int argc, char** argv) {
     short int    tWl5S2;
     tWl5S2    =    -1580409535;
 
-if (j9kfp0lpT >= y58g)
+if (false)
 {
 for (int j = 7; j >= 0; --j)
 {
@@ -109,7 +109,7 @@ else if (iDue6XBo < nsJv0UCUG)
 {
 ZV0pl_ = Y72DiCCG5f & 1669131764;
 }
-else if (tWl5S2 >= y58g)
+else if (false)
 {
 zQz4NC = (float)(t249S5LW);
 }
@@ -130,7 +130,7 @@ while (k >= 0);
 }
 else if (iDue6XBo >= G0f9_UUYr)
 {
-if (OtI_029_ >= 692802374)
+if (false)
 {
 for (int k = 0; k < 10; k++)
 {

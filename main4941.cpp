@@ -192,7 +192,7 @@ catch (int& errorCode)
 ygx7U00ue = frCijP24 >> 2035526591;
 }
 }
-else if (((gtP97Rs0jj == 287508468) && (j280BI1oSP < 1460903133)) || (t955g < 1718977087))
+else if (((gtP97Rs0jj == 287508468) && (true)) || (t955g < 1718977087))
 {
 for (int j = 0; j < 7; j++)
 {
@@ -260,7 +260,7 @@ ARH9 = (int)ceil(B_G6Vz1);
 }
 while (i < 9);
 }
-if (S208990 < -2004378679)
+if (false)
 {
 for (int j = 0; j < 4; ++j)
 {

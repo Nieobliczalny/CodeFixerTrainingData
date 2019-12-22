@@ -67,7 +67,7 @@ RJIKy = (unsigned char)(iDoBO9nv4 + (-1518082318));
 k63D2Ng = (unsigned char)(RJIKy);
 fd1b1UM *= 1020902852;
 
-if (((QBhea == 1502051503) && (E4idm2sT57 != 175914750)) || (k63D2Ng == -1674551009))
+if (((false) && (E4idm2sT57 != 175914750)) || (k63D2Ng == -1674551009))
 {
 if (((uQG6_t819N == -1290886698) || (bTu29 != 557586826)) || ((ie8k4QGM) && (PS2Gp74rX < -243615161)))
 {
@@ -92,7 +92,7 @@ yIccRMW9 = g0VDq(-329144783, -1560204454, -312016709, WJyIOpXTj6, -41457111);
 PlSid = (unsigned char)(cPe_mP_m2U);
 ie8k4QGM = g0VDq(2089292723, -888260079, -219092349, WJyIOpXTj6, -507843819) / yIccRMW9;
 
-if (kN1a <= 1167352473)
+if (true)
 {
 switch (vQHlhM395k)
 {

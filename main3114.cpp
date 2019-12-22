@@ -114,7 +114,7 @@ r22b55 = lKhUn3(r22b55);
 }
 else if (r22b55 > Bl7Mi)
 {
-if (rUzp37_ == 1929442857)
+if (false)
 {
 Z8FvU8Qi1x = lKhUn3(-45976573);
 }
@@ -404,7 +404,7 @@ case 1:
 r22b55 = lKhUn3(1251130405);
 break;
 case 2:
-Rv8vsrY = (rUzp37_ > 130142338) ? 1878518526 : W0d3G5;
+Rv8vsrY = (false) ? 1878518526 : W0d3G5;
 break;
 case 3:
 rUzp37_ = lKhUn3(j41LI5);

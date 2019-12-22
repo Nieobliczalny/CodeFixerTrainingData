@@ -113,7 +113,7 @@ for (int i = 0; i < 7; ++i)
 {
 f69a = (long double)(ts8h_);
 }
-if (((f4z3iJ & -1463105140) || (xV8A3Dq_ >= 1235929574)) && (xV8A3Dq_ >= -2069936547))
+if (((f4z3iJ & -1463105140) || (false)) && (xV8A3Dq_ >= -2069936547))
 {
 f4z3iJ = fKjdIUz ^ nW7tHw;
 }
@@ -156,7 +156,7 @@ break;
 }
 xV8A3Dq_ = (int)abs(ur7L6AI) * 0;
 
-if (u7D5Si_8LA < -1745313431)
+if (false)
 {
 {
 int j = 0;

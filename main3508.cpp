@@ -98,7 +98,7 @@ int main(int argc, char** argv) {
 	double	bl4U	=	1479983616;
   unsigned int  UQ2k9  =  -1008354206;
 
-if (PBJdp == -1106904203)
+if (false)
 {
 for (int j = 5; j >= 0; j--)
 {
@@ -133,7 +133,7 @@ catch (int& errorCode)
 G8AM8zzwmK = HHYaHS(XUmi6, -281381044, QiyF6, sf637_V6z_);
 }
 }
-else if (QiyF6 < CcDe7)
+else if (true)
 {
 k8s8uLQ9n1--;
 }
@@ -310,7 +310,7 @@ j++;
 }
 }
 
-if ((j98X >= jnrvE_u_J) && (XZQ6_a != 1424655318))
+if ((j98X >= jnrvE_u_J) && (true))
 {
 for (int j = 0; j < 9; j++)
 {

@@ -181,7 +181,7 @@ onNX5 = Mi_I2R3__(onNX5, -805814670, Ri41d_rYs, 1610950131, -1131189414);
 }
 else
 {
-if (ptFn2q != 1694384079)
+if (true)
 {
 m35Seo101f = (int)floor(A_AQ);
 }

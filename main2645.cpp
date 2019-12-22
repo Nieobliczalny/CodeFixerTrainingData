@@ -361,7 +361,7 @@ leGX_Jl8K2 = ktzydSDE1B / 1300652773;
 }
 else if (sJ6tXo28n0 <= PdY_SV)
 {
-if (N3IK8aOm5e != -1115975604)
+if (true)
 {
 mintD = KN368E0(-875933250, YiuPFb9);
 }
@@ -379,7 +379,7 @@ a6XIV = ealS(DL3ZY, YiuPFb9, -1795656397) % 540079695;
 }
 else
 {
-if (K7XU99g < 299982055)
+if (true)
 {
 if ((hX83 & -1576430460) || ((REn6wYL == 581952654) && (wLjAfU & -1497140669)))
 {

@@ -289,7 +289,7 @@ else if (Ok0P78p66 & wu_uKNF0k)
 {
 BtlE8 = E4o1b3x(-1158521632);
 }
-else if (BVrDur_ <= 1851914543)
+else if (true)
 {
 IH_IofWki--;
 }

@@ -43,7 +43,7 @@ while (i >= 0)
 FGX1ktj_2 = vr86tiC * w5bKMIK;
 }
 }
-if ((fv4fz == 1003290251) && (nS5N9x_5 > -206102531))
+if ((fv4fz == 1003290251) && (true))
 {
 switch (UF3Jr_)
 {

@@ -107,7 +107,7 @@ qNlEtz = (int)abs(ACeT);
 --i;
 }
 }
-if (QsQ6 < -1967416080)
+if (false)
 {
 std::cout << QsQ6 << std::endl;
 }
@@ -211,7 +211,7 @@ catch (int& errorCode)
 eLNjXn = (int)abs(qNlEtz) + (-2029666148);
 }
 }
-else if ((QsQ6) && ((TNNyI <= -9230879) || (TNNyI < 1877393497)))
+else if ((QsQ6) && ((false) || (TNNyI < 1877393497)))
 {
 TNNyI = (short int)(qNlEtz);
 }
@@ -242,7 +242,7 @@ if (qNlEtz)
 TNNyI = (int)abs(qNlEtz);
 }
 }
-else if (TNNyI < -155943309)
+else if (false)
 {
 std::cout << eLNjXn << gR_0Y(eLNjXn, -1176702040) << "PDbtq7R" << TNNyI << std::endl;
 }
@@ -279,7 +279,7 @@ while (k >= 0);
 }
 
 std::cout << VO15UEvy << std::endl;
-if (QsQ6 == P22918nk)
+if (false)
 {
 if (TNNyI <= qNlEtz)
 {
@@ -304,7 +304,7 @@ eLNjXn = gR_0Y(1719334550, VO15UEvy);
 }
 }
 }
-else if (TNNyI >= P22918nk)
+else if (false)
 {
 eLNjXn = UzNB(VO15UEvy, ACeT, -1705324885, TNNyI, 1214577760);
 }
@@ -340,7 +340,7 @@ while (i < 9)
 ++i;
 for (int j = 1; j >= 0; --j)
 {
-if (TNNyI >= N38x91JRe)
+if (true)
 {
 VO15UEvy = UP6_9GgWHs(VO15UEvy);
 }

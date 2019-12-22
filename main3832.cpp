@@ -143,7 +143,7 @@ int main() {
 ODXJ3p = u_AV5IT | 1229955167;
 
 TC304 = (int)abs(YU74u5) * 0;
-if ((efNxJlj == oUg_EQg) || ((zxZ8DPr < 2129673829) || (dJ7ntbI == 10419166)))
+if ((efNxJlj == oUg_EQg) || ((zxZ8DPr < 2129673829) || (false)))
 {
 i8Y9 = (unsigned char)(z5luhm9 + (2073693178));
 }
@@ -170,7 +170,7 @@ cout << "WG7kt" << i8Y9 << "J5krnH" << vEg_t3j_ << M_2I << endl;
 int i = 7;
 do
 {
-if (O2mH2_k != -1881848371)
+if (true)
 {
 PE84F5Q9b4 = (char)(WJvb0Mi8);
 }

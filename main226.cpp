@@ -61,7 +61,7 @@ int main()
   unsigned short int  QlM_b;
   QlM_b  =  -1267631732;
 
-if ((LF_235_52 <= 1130126905) || ((xKNK9 & vJ9800g) || (xpaL != vJ9800g)))
+if ((LF_235_52 <= 1130126905) || ((true) || (xpaL != vJ9800g)))
 {
 if (VBbij > lPX40l5i)
 {
@@ -107,7 +107,7 @@ else if (xKNK9 >= ya5j1z)
 {
 xKNK9 ^= 811811270;
 }
-else if ((qmWM1 >= vJ9800g) && (QlM_b < 1106945683))
+else if ((false) && (QlM_b < 1106945683))
 {
 switch (ya5j1z)
 {
@@ -122,7 +122,7 @@ iOgC9 = d9rPSoz8r(LF_235_52, w9sWx29q, 783416454);
 break;
 }
 }
-else if (xpaL == -1512370677)
+else if (false)
 {
 if (j6TF3BJ > -50748613)
 {
@@ -217,7 +217,7 @@ if (((LF_235_52 > iOgC9) || (LWlab1v_l & iOgC9)) || (aj4L0n))
 {
 DDUA6_3IE = qmWM1 << N5T9E7Jt3;
 }
-else if (VBbij != vJ9800g)
+else if (true)
 {
 DDUA6_3IE = (int)floor(LiW30);
 }
@@ -257,7 +257,7 @@ LiW30 = (int)floor(j6TF3BJ);
 }
 cout << X35gdh(555266589, -998107380, LiW30, QlM_b, N6Toce8) << xpaL << xKNK9 << endl;
 UxGmqR2 = (int)floor(DDUA6_3IE);
-if (VBbij < vJ9800g)
+if (true)
 {
 {
 int j = 0;
@@ -278,7 +278,7 @@ break;
 while (j < 8);
 }
 }
-if (oa96v_AMjv == 1039960659)
+if (false)
 {
 {
 int j = 0;

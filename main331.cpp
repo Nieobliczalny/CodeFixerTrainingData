@@ -243,7 +243,7 @@ break;
 }
 }
 }
-else if (zXSN > -1090972340)
+else if (true)
 {
 std::cout << Kxy6txk << std::endl;
 }
@@ -272,7 +272,7 @@ else if (CTrDH >= T6aQ9)
 int j = 0;
 while (j < 7)
 {
-if (((JL4S & -1702614162) || (UTzxr == CMcl)) && ((IX4k < I7wz2cB) && (asCh8_Mo <= 1464876919)))
+if (((JL4S & -1702614162) || (UTzxr == CMcl)) && ((IX4k < I7wz2cB) && (true)))
 {
 xDz4ye_3 <<= i_qS1g2Ls;
 }
@@ -313,7 +313,7 @@ std::cout << LR6_y19 << jfldT3 << std::endl;
 int i = 0;
 while (i < 5)
 {
-if (asCh8_Mo != 451914253)
+if (true)
 {
 if (NYUg_88 != te7twR8Z)
 {
@@ -385,7 +385,7 @@ LGh_21S = (double)(qvzLAB5);
 }
 else if (vM706gjlI < 1966415488)
 {
-if ((u18dt_9A & -1432177045) && (JPJPhyC <= 712329835))
+if ((u18dt_9A & -1432177045) && (true))
 {
 switch (LR6_y19)
 {
@@ -420,7 +420,7 @@ sKONt8MH = (int)floor(C8U1q8);
 }
 }
 }
-else if (XLY9j <= -1955868672)
+else if (false)
 {
 if (smULfL57q > TwVL_O92)
 {
@@ -560,7 +560,7 @@ else
 int k = 0;
 do
 {
-lDUTwm20H = (BdDR4a >= -1963816637) ? i_qS1g2Ls : O4nSC3s;
+lDUTwm20H = (true) ? i_qS1g2Ls : O4nSC3s;
 k++;
 }
 while (k < 6);

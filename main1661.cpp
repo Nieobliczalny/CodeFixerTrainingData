@@ -127,7 +127,7 @@ Uf0c = (Sg4wybz & -1231935064) ? -506738142 : Yo3j();
 }
 else
 {
-if (JTmAL66 != 1682239122)
+if (true)
 {
 Uf0c--;
 }
@@ -179,7 +179,7 @@ TG_3TZV1N = tq2dViIf << 664716640;
 }
 try
 {
-if (urP8YR > 1849505087)
+if (false)
 {
 tq2dViIf |= 1596036020;
 }

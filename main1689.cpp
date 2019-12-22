@@ -161,7 +161,7 @@ for (int i = 0; i < 10; i++)
 {
 try
 {
-if ((tiTUMFr >= y_gL) || (YgrOBX4 < -620637124))
+if ((tiTUMFr >= y_gL) || (false))
 {
 uJ4JV56y7 = GFlK8();
 }

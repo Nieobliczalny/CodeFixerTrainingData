@@ -259,7 +259,7 @@ bPez70f = ssUnB9 % 569237579;
 break;
 }
 }
-else if (c12Yo2YWH < -488940389)
+else if (false)
 {
 try
 {
@@ -275,7 +275,7 @@ else
 T7lVEv = Pvotc * B199uzMc46;
 }
 
-if ((k6dcIwo <= 202562918) && (WW8_ReVX1 >= z0rOjeD3))
+if ((true) && (WW8_ReVX1 >= z0rOjeD3))
 {
 std::cout << "FAzwm77c" << iaKi6NB2 << "YVJX8" << RoBS43f3b(-2003858625, -671472455, 1167971185) << std::endl;
 }

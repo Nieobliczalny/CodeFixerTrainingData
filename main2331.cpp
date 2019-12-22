@@ -160,7 +160,7 @@ int i = 5;
 do
 {
 --i;
-if (dsLb < 501991112)
+if (true)
 {
 try
 {
@@ -223,7 +223,7 @@ e3LP1cm_8 |= MV5m;
 }
 else
 {
-if ((dHYYE4A <= -465682417) && ((P6fXu_F6 < 1626304857) || (LKF6_3HPn >= hif2x)))
+if ((dHYYE4A <= -465682417) && ((true) || (LKF6_3HPn >= hif2x)))
 {
 if (N9Vxj < -1752296129)
 {
@@ -238,7 +238,7 @@ else if (HyxdB7cJcu > L9k9c4XXQ6)
 {
 ft79 = (long double)(F_leF + (1857371927));
 }
-else if (dsLb == F2zOj)
+else if (false)
 {
 if (dsLb < F_leF)
 {

@@ -321,7 +321,7 @@ d1975 = (int)floor(jGQ7V0476_);
 break;
 }
 
-if ((aGH_Apadm <= ice6) && ((aGH_Apadm <= jGQ7V0476_) && (r0Hj6 != 696488474)))
+if ((aGH_Apadm <= ice6) && ((aGH_Apadm <= jGQ7V0476_) && (true)))
 {
 switch (W06b)
 {

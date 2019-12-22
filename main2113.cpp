@@ -28,7 +28,7 @@ int main(int argc, char** argv)
 
 std::cout << "DCF2D" << YBHoXD5() << std::endl;
 
-if (AY9pHg >= -147165676)
+if (true)
 {
 if ((IN5rVPY) && ((ZadxF) || (ZadxF > 674874433)))
 {
@@ -92,7 +92,7 @@ catch (int& errorCode)
 {
 Y299Ae = Vusf(28510100);
 }
-if (Y299Ae == -1288564911)
+if (false)
 {
 if (AY9pHg & 784865327)
 {
@@ -102,7 +102,7 @@ else
 {
 if (Y299Ae)
 {
-AY9pHg = (Y299Ae >= -389589576) ? uk77(NO375wb7) : -1568027996;
+AY9pHg = (true) ? uk77(NO375wb7) : -1568027996;
 }
 else
 {
@@ -127,7 +127,7 @@ if ((NO375wb7) && (NO375wb7 <= Y299Ae))
 {
 try
 {
-if (ZadxF <= -486036873)
+if (false)
 {
 AY9pHg /= 2042154536;
 }
@@ -141,7 +141,7 @@ catch (int& errorCode)
 AY9pHg = uk77(103459085);
 }
 }
-else if (ZadxF > -1846471459)
+else if (true)
 {
 if (NO375wb7 != -1742359762)
 {
@@ -153,7 +153,7 @@ else if (IN5rVPY >= 212512198)
 {
 IN5rVPY = (int)abs(Y299Ae) * 0;
 }
-else if ((NO375wb7 == 1969685310) && ((NO375wb7 == -1836336634) && (IN5rVPY > 865890317)))
+else if ((false) && ((NO375wb7 == -1836336634) && (IN5rVPY > 865890317)))
 {
 ZadxF = uk77(ZadxF);
 }
@@ -164,7 +164,7 @@ ZadxF = ZadxF << Y299Ae;
 }
 else if (NO375wb7 < Y299Ae)
 {
-if (Y299Ae < -242017900)
+if (false)
 {
 ZadxF = (int)abs(Y299Ae);
 }
@@ -176,7 +176,7 @@ else if (IN5rVPY >= -384704564)
 {
 NO375wb7 = (int)abs(Y299Ae) * 0;
 }
-else if (((IN5rVPY & AY9pHg) && (NO375wb7 & 1638328371)) || (NO375wb7 == -708523980))
+else if (((IN5rVPY & AY9pHg) && (NO375wb7 & 1638328371)) || (false))
 {
 ZadxF = YBHoXD5() / IN5rVPY;
 }
@@ -201,7 +201,7 @@ AY9pHg = uk77(AY9pHg);
 while (k >= 0);
 }
 }
-else if (NO375wb7 > 991015291)
+else if (false)
 {
 if ((Y299Ae & ZadxF) && (ZadxF & 119215027))
 {
@@ -214,7 +214,7 @@ std::cout << YBHoXD5() << Vusf(1845597138) << std::endl;
 }
 else
 {
-if (AY9pHg <= 2015375011)
+if (true)
 {
 NO375wb7 = YBHoXD5();
 }
@@ -224,7 +224,7 @@ NO375wb7 = YBHoXD5();
 }
 }
 }
-else if ((ZadxF != Y299Ae) && (NO375wb7 > 1140748043))
+else if ((ZadxF != Y299Ae) && (false))
 {
 {
 int j = 5;
@@ -241,7 +241,7 @@ else if (ZadxF & Y299Ae)
 int j = 9;
 while (j >= 0)
 {
-if (((NO375wb7) && (NO375wb7 == -1982233300)) && (IN5rVPY > 1859876784))
+if (((NO375wb7) && (false)) && (IN5rVPY > 1859876784))
 {
 Y299Ae = ZadxF << AY9pHg;
 }
@@ -251,7 +251,7 @@ j--;
 }
 else if ((Y299Ae > -1922658867) || (NO375wb7 != -1303128188))
 {
-if (IN5rVPY > 288543230)
+if (false)
 {
 try
 {
@@ -264,7 +264,7 @@ AY9pHg = Vusf(-120766813);
 }
 else
 {
-if (IN5rVPY <= -121674576)
+if (false)
 {
 Y299Ae = uk77(-1038530718) / NO375wb7;
 }
@@ -313,7 +313,7 @@ std::cout << Vusf(-1437857766) << AY9pHg << NO375wb7 << "hhT1A" << std::endl;
 int i = 10;
 do
 {
-if (Y299Ae != 528411050)
+if (true)
 {
 Y299Ae = (char)(IN5rVPY + (2025777236));
 }
@@ -452,7 +452,7 @@ AY9pHg -= ZadxF;
 
 try
 {
-if (ZadxF == -1060055953)
+if (false)
 {
 {
 int k = 0;
@@ -470,7 +470,7 @@ catch (int& errorCode)
 AY9pHg = (int)abs(ZadxF);
 }
 
-if (((ZadxF <= IN5rVPY) || (NO375wb7 == 735437922)) && ((Y299Ae > 277554913) || (AY9pHg > ZadxF)))
+if (((ZadxF <= IN5rVPY) || (false)) && ((Y299Ae > 277554913) || (AY9pHg > ZadxF)))
 {
 try
 {

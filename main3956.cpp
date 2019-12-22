@@ -42,7 +42,7 @@ if ((gDjQN7G3 / lJ53()) == -1308251107)
 {
 if ((gDjQN7G3 / lJ53()) < -368394908)
 {
-if (u8ZRk == -470102935)
+if (false)
 {
 if (GYJw >= GCnjR86_1W)
 {

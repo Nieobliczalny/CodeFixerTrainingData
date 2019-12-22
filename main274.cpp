@@ -200,7 +200,7 @@ if (gSgoNztSJ)
 {
 bTte = (char)(Y9DMLBP);
 }
-else if (NqcGE_QLh == -659403720)
+else if (false)
 {
 std::cout << "DhV_A8" << "F9_077I" << n1D8fB(O_53, gxFAq, 1942456038) << std::endl;
 }
@@ -279,7 +279,7 @@ break;
 while (i < 10);
 }
 
-if (((yWcJq7gW7) && (yWcJq7gW7 < -913827081)) && (f3r36Tek >= -1646928791))
+if (((yWcJq7gW7) && (yWcJq7gW7 < -913827081)) && (true))
 {
 for (int j = 7; j >= 0; --j)
 {

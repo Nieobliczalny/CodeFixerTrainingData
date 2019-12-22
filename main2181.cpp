@@ -305,7 +305,7 @@ XG282h4ED--;
 break;
 }
 }
-else if (sX_Zj >= f8j1Z)
+else if (false)
 {
 {
 int k = 9;
@@ -320,7 +320,7 @@ else if (ygE7 == nEfF3_)
 {
 OARHpkrD &= 501933996;
 }
-else if ((XSC80L <= -214290494) && (ff6T3fC45z > 2124881496))
+else if ((XSC80L <= -214290494) && (false))
 {
 {
 int k = 0;

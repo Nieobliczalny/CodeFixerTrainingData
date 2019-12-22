@@ -416,7 +416,7 @@ else if (S76CM >= 555013100)
 {
 r_Vedpv = (long long)(QjnP4b6x);
 }
-else if (up3hpS != -1378989716)
+else if (true)
 {
 std::cout << VESA << vi18HWO(-515390817, 922620723) << "Tpfw2bQi8M" << FH9zru_480(b1_99Of, 726511844, 1238269621, -742449883) << vi18HWO(-1740791952, -189554689) << std::endl;
 }
@@ -631,7 +631,7 @@ std::cout << zD_hYazFpi << Jwbj_ << std::endl;
 }
 else
 {
-if (((T3wGT0v != rM60Zd4z4) || (hQN0 == 1334672809)) && (C1W_b <= 311717838))
+if (((T3wGT0v != rM60Zd4z4) || (false)) && (C1W_b <= 311717838))
 {
 std::cout << FH9zru_480(JT5x_, 1700738623, uv64Uib1, T3wGT0v) << std::endl;
 }

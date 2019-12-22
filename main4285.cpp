@@ -228,7 +228,7 @@ j++;
 }
 }
 }
-else if (sPW3u >= 289601243)
+else if (false)
 {
 for (int j = 0; j < 3; j++)
 {
@@ -239,7 +239,7 @@ else if (Rf1rkhiolJ != 1268764232)
 {
 try
 {
-if (((XM2Ns == -19131492) && (V_GD7XZ5 > y0_5X2)) && ((Zh_P <= n2Fq) && (Y1kT2HgT_ < 131231580)))
+if (((XM2Ns == -19131492) && (V_GD7XZ5 > y0_5X2)) && ((Zh_P <= n2Fq) && (true)))
 {
 M6pa90mev = sPW3u - 195296242;
 }
@@ -320,7 +320,7 @@ else if (M6pa90mev)
 {
 cout << "l66M" << "s97z9" << endl;
 }
-else if (sPW3u == -219238033)
+else if (false)
 {
 C_jKShm97 = (Y1kT2HgT_ & -1403960387) ? -1503465331 : M6pa90mev;
 }

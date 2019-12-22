@@ -62,7 +62,7 @@ WToo7M = kkPni2 + 1593476740;
 }
 }
 }
-if (Qwh4R > -1349893476)
+if (true)
 {
 {
 int j = 0;
@@ -142,7 +142,7 @@ J5lSu /= 1577530984;
 
 fuY8Td6hLQ >>= C4yd912;
 std::cout << Ggdh << WToo7M << WToo7M << kkPni2 << std::endl;
-if (G_TBPgMf > 1150394407)
+if (false)
 {
 J5lSu = (int)abs(Ggdh);
 }

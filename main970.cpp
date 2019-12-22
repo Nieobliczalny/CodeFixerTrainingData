@@ -69,7 +69,7 @@ j2GHsb = j2GHsb & 1717150261;
 while (k < 7);
 }
 }
-else if (Qd6_k != 1221100213)
+else if (true)
 {
 h8qi2A = sc_w(Tn02i4tn, daW1U384, 1774682002, 1814319591, -1464714064);
 }
@@ -90,7 +90,7 @@ j2GHsb = (int)abs(Tn02i4tn);
 }
 else if (daW1U384 > E77Y6B8Q5)
 {
-if ((L33ih_u == 2042959904) || ((h8qi2A != E77Y6B8Q5) || (Tn02i4tn <= 2119667662)))
+if ((false) || ((h8qi2A != E77Y6B8Q5) || (Tn02i4tn <= 2119667662)))
 {
 h8qi2A = sc_w(H5P_BW9iJd, e0v5W7BN74, 1200717783, daW1U384, L33ih_u);
 }
@@ -125,7 +125,7 @@ else if (O7nRx62j6 != -193622868)
 {
 daW1U384 &= Tn02i4tn;
 }
-else if (Qd6_k >= 1196721853)
+else if (false)
 {
 L33ih_u >>= e0v5W7BN74;
 }
@@ -182,7 +182,7 @@ else if (Qd6_k < Tn02i4tn)
 {
 L33ih_u = E77Y6B8Q5 ^ 2059712780;
 }
-else if (e0v5W7BN74 != 844022490)
+else if (true)
 {
 Qd6_k = sc_w(-844869704, Qd6_k, 968630174, h8qi2A, -368038063);
 }
@@ -319,7 +319,7 @@ Qd6_k = sc_w(L33ih_u, Tn02i4tn, -1771561077, e0v5W7BN74, -1808063275);
 break;
 }
 }
-else if (Qd6_k <= -105743006)
+else if (false)
 {
 if (h8qi2A == E77Y6B8Q5)
 {
@@ -470,7 +470,7 @@ e0v5W7BN74 = sc_w(e0v5W7BN74, 1391539932, h8qi2A, j2GHsb, 1263141225) - 78916677
 break;
 }
 }
-if (((Qd6_k < -1326031436) && (daW1U384)) && (j2GHsb >= Qd6_k))
+if (((false) && (daW1U384)) && (j2GHsb >= Qd6_k))
 {
 try
 {
@@ -534,7 +534,7 @@ e0v5W7BN74--;
 break;
 }
 }
-else if (Qd6_k > -2127545680)
+else if (true)
 {
 h8qi2A = (char)(E77Y6B8Q5);
 }
@@ -699,7 +699,7 @@ O7nRx62j6 /= daW1U384;
 }
 else
 {
-if ((L33ih_u < 1394364163) || ((O7nRx62j6 >= E77Y6B8Q5) && (H5P_BW9iJd > j2GHsb)))
+if ((true) || ((O7nRx62j6 >= E77Y6B8Q5) && (H5P_BW9iJd > j2GHsb)))
 {
 if (O7nRx62j6 < -855603569)
 {
@@ -713,7 +713,7 @@ else if ((O7nRx62j6 != L33ih_u) || (H5P_BW9iJd > E77Y6B8Q5))
 {
 h8qi2A = sc_w(-2138544051, L33ih_u, 997644985, -778617859, 297387354);
 }
-else if (e0v5W7BN74 == -521643920)
+else if (false)
 {
 Qd6_k = sc_w(e0v5W7BN74, 1086225338, 570099365, O7nRx62j6, h8qi2A);
 }
@@ -758,7 +758,7 @@ if (O7nRx62j6 >= E77Y6B8Q5)
 {
 j2GHsb = (int)abs(L33ih_u);
 }
-else if ((h8qi2A) || (h8qi2A >= 174215139))
+else if ((h8qi2A) || (false))
 {
 if (O7nRx62j6 > E77Y6B8Q5)
 {
@@ -806,7 +806,7 @@ break;
 }
 }
 }
-else if (e0v5W7BN74 >= 1103228136)
+else if (false)
 {
 for (int j = 7; j >= 0; --j)
 {

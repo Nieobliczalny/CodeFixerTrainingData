@@ -115,7 +115,7 @@ Fkl6itmRD &= n0NP;
 int i = 6;
 while (i >= 0)
 {
-if (xRLR <= 373850275)
+if (true)
 {
 W420492U_1 = (short)(x30BU);
 }
@@ -158,7 +158,7 @@ Jf3S9a3 = pFpmh17X(Qp8x90w57_);
 int i = 0;
 while (i < 4)
 {
-if (qQ39N < -1690037106)
+if (false)
 {
 HCzU3R = vA8_osy(fYTi4E, HCzU3R, -344657304, Pj57);
 }

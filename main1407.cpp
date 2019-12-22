@@ -25,7 +25,7 @@ int main() {
     unsigned short    v54EN7    =    -1906606442,    XztJV    =    -1333652677,    oIOUIVw3w    =    -1831853131;
  char kqeBQrF3R = 0, me445_ = 0, ksBZ0 = 0, Bx4cc0713C = 0;
 
-if ((XztJV >= Ih58) && (Bx4cc0713C))
+if ((false) && (Bx4cc0713C))
 {
 for (int j = 10; j >= 0; --j)
 {
@@ -56,7 +56,7 @@ ksBZ0 = (int)abs(me445_);
 }
 }
 }
-else if (XztJV > 1642325936)
+else if (false)
 {
 Bx4cc0713C = (int)abs(ksBZ0);
 }
@@ -98,7 +98,7 @@ for (int j = 1; j >= 0; --j)
 oIOUIVw3w *= v54EN7;
 }
 }
-else if ((oIOUIVw3w > -1231157185) || (me445_ & Ih58))
+else if ((true) || (me445_ & Ih58))
 {
 kqeBQrF3R = (int)abs(Bx4cc0713C);
 }
@@ -135,7 +135,7 @@ v54EN7 = XztJV ^ oIOUIVw3w;
 break;
 }
 
-if ((XztJV > -1884076588) || (oIOUIVw3w > 610611994))
+if ((true) || (oIOUIVw3w > 610611994))
 {
 for (int j = 3; j >= 0; j--)
 {
@@ -174,7 +174,7 @@ break;
 
 std::cout << a20h(me445_, XztJV, 1940329025, -1369098295) << t7f2owa_n7() << oIOUIVw3w << t7f2owa_n7() << oIOUIVw3w << std::endl;
 oIOUIVw3w = (unsigned short)(Ih58);
-if ((ksBZ0 < Ih58) && (kqeBQrF3R != oIOUIVw3w))
+if ((true) && (kqeBQrF3R != oIOUIVw3w))
 {
 std::cout << Vmm_(me445_, XztJV, -1657578839, -1949301959) << Vmm_(me445_, 778502606, 1504651803, 586373637) << "aqv1JKt" << t7f2owa_n7() << "i_Ax" << std::endl;
 }
@@ -194,7 +194,7 @@ else if ((XztJV) || (Bx4cc0713C & ksBZ0))
 {
 XztJV = a20h(420750901, 1131654404, Bx4cc0713C, 1259445848);
 }
-else if ((kqeBQrF3R != v54EN7) && (v54EN7 != Ih58))
+else if ((kqeBQrF3R != v54EN7) && (true))
 {
 v54EN7 = ksBZ0 - kqeBQrF3R;
 }
@@ -215,7 +215,7 @@ do
 ++i;
 for (int j = 2; j >= 0; --j)
 {
-if (Bx4cc0713C != 1142968342)
+if (true)
 {
 v54EN7 = Vmm_(-1757509631, oIOUIVw3w, Bx4cc0713C, ksBZ0);
 }
@@ -241,7 +241,7 @@ while (i < 6);
 }
 if (kqeBQrF3R <= p4pWfyHY)
 {
-if (me445_ <= Ih58)
+if (true)
 {
 if (kqeBQrF3R == v54EN7)
 {
@@ -272,7 +272,7 @@ if ((ksBZ0 & kqeBQrF3R) || (v54EN7))
 {
 std::cout << S9WTwTEN(2002603662, ksBZ0) << t7f2owa_n7() << t7f2owa_n7() << me445_ << S3Ls_Q(kqeBQrF3R, ksBZ0, 1943883456, oIOUIVw3w, Bx4cc0713C) << std::endl;
 }
-else if (Bx4cc0713C < 900500292)
+else if (true)
 {
 try
 {
@@ -294,7 +294,7 @@ catch (int& errorCode)
 oIOUIVw3w = p4pWfyHY >> 1507212057;
 }
 }
-else if (((kqeBQrF3R <= Sp7iC_1BZS) && (ksBZ0 != -89542151)) && (XztJV <= me445_))
+else if (((false) && (ksBZ0 != -89542151)) && (XztJV <= me445_))
 {
 v54EN7 = S9WTwTEN(ksBZ0, 1515990091);
 }
@@ -317,7 +317,7 @@ else
 std::cout << me445_ << Bx4cc0713C << "a7TiZeU" << "q0270Mi" << std::endl;
 }
 ksBZ0 = (char)(Bx4cc0713C);
-if (ksBZ0 < -1235246350)
+if (false)
 {
 try
 {

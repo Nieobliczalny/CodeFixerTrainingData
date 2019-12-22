@@ -54,7 +54,7 @@ p7q14 = (long double)(lp5JM920N0);
 }
 else
 {
-if ((TVwY1Jqk5p < 1355967601) && (ujd___ < 554255803))
+if ((TVwY1Jqk5p < 1355967601) && (true))
 {
 AIz4mM0UJ = f49ugO * o1_7a;
 }

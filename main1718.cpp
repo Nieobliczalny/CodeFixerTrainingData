@@ -149,7 +149,7 @@ u2YT2A7 = (unsigned long)(GjZK728e);
 while (j >= 0);
 }
 }
-else if (((eO161I == fy9yw) || (JFk8T == q_pwm1)) && ((a8GW & mMjNak) && (NRIL2c == -1001357519)))
+else if (((eO161I == fy9yw) || (JFk8T == q_pwm1)) && ((a8GW & mMjNak) && (false)))
 {
 mK12MJ = (unsigned long)(Nj_M3_CJ);
 }
@@ -249,7 +249,7 @@ if (V5Ws6K <= y_SA9J8V)
 {
 NRIL2c = P2033j();
 }
-else if (NRIL2c != -2023692111)
+else if (true)
 {
 IDSm += 976042558;
 }
@@ -373,7 +373,7 @@ else if (WDVE6A2 > ycZb)
 {
 oK4ppwpv_ = (unsigned long)(UuJN);
 }
-else if (NRIL2c >= -1364632482)
+else if (true)
 {
 {
 int k = 0;

@@ -131,7 +131,7 @@ fihF9 += as3uGq3yOy;
 }
 }
 }
-else if (L3b__x_9q == 765510031)
+else if (false)
 {
 if ((Ru_RK != MKS6W) || (Im6z7xtG))
 {
@@ -238,7 +238,7 @@ I0cLo = TQXV2KtDn();
 }
 else
 {
-if (((pJ3ab == -879792969) || (f_w3L != -378508593)) && (zbI0wE < pJ3ab))
+if (((pJ3ab == -879792969) || (true)) && (zbI0wE < pJ3ab))
 {
 Pk7TDt = ZQTAD(1672213129, 1696395244);
 }
@@ -253,7 +253,7 @@ if (Q6rH & -548849735)
 {
 Z_XE5KWJ = TQXV2KtDn() << 1539722828;
 }
-else if (ls1bPq6v < -406485851)
+else if (false)
 {
 {
 int j = 9;
@@ -364,7 +364,7 @@ else if (hk_4Iiu9 > Pk7TDt)
 {
 aQ4I = S04dFZZKwf(aQ4I, Z_XE5KWJ, d_29x, -256882120);
 }
-else if (fihF9 > 93874236)
+else if (false)
 {
 wzjDIMVKPn %= MKS6W;
 }
@@ -554,7 +554,7 @@ catch (int& errorCode)
 zbI0wE = ZQTAD(-563992461, -2125308721);
 }
 }
-else if (((db16rJGt != -1550972993) && (a0bVkd_A >= bzzdv)) || (bYT5C428x == U2SD))
+else if (((true) && (a0bVkd_A >= bzzdv)) || (bYT5C428x == U2SD))
 {
 if (DV8Z6a20 <= Pk7TDt)
 {
@@ -568,7 +568,7 @@ else
 S908 = S04dFZZKwf(S908, e0Ua2qlzV2, -778943949, WVI08uX6Z2);
 }
 }
-else if ((bYT5C428x != 1866588899) || ((Q6rH < elVaFq) && (WVI08uX6Z2 < 1511742537)))
+else if ((bYT5C428x != 1866588899) || ((Q6rH < elVaFq) && (true)))
 {
 if (fihF9 <= 2133947888)
 {
@@ -585,7 +585,7 @@ catch (int& errorCode)
 Z_XE5KWJ = ZQTAD(Z_XE5KWJ, MKS6W);
 }
 }
-else if (fihF9 > 1457578014)
+else if (false)
 {
 h0Yx8 = (int)floor(a0bVkd_A);
 }
@@ -596,7 +596,7 @@ qovgy_ &= aQ4I;
 }
 else if (Q6rH > -1155082879)
 {
-if ((fihF9 > 1813856966) || ((Vg4Z4hD4 != 1832663004) && (aQ4I & -451401858)))
+if ((false) || ((Vg4Z4hD4 != 1832663004) && (aQ4I & -451401858)))
 {
 switch (db16rJGt)
 {
@@ -640,7 +640,7 @@ else
 std::cout << "EZ71Rp_p" << TQXV2KtDn() << Ty3nixp0M << std::endl;
 }
 }
-else if (ss_oweQ9 <= 1715598670)
+else if (true)
 {
 {
 int j = 0;
@@ -718,7 +718,7 @@ while (i < 9);
 
 try
 {
-if (WVI08uX6Z2 >= -1959908794)
+if (true)
 {
 if ((Im6z7xtG & -1362349324) && (wTKn >= 424891860))
 {
@@ -769,7 +769,7 @@ bzzdv = S04dFZZKwf(-1470349055, mz19O, GzQ9X389, db16rJGt);
 }
 else if (ybO49D_ != 403985329)
 {
-if (Bpfvq_8 >= -1488638094)
+if (true)
 {
 mz19O = TQXV2KtDn();
 }
@@ -793,7 +793,7 @@ catch (int& errorCode)
 Pk7TDt &= 1269300542;
 }
 }
-else if (ls1bPq6v < 745298594)
+else if (true)
 {
 for (int k = 8; k >= 0; --k)
 {

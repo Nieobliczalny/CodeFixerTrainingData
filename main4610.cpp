@@ -39,7 +39,7 @@ dm06 = (unsigned long long)(E36X2 * dm06);
 E36X2 = dm06 / 208232341;
 
 E36X2--;
-if (E36X2 != -714560116)
+if (true)
 {
 for (int j = 0; j < 8; j++)
 {

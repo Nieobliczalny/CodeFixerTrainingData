@@ -323,7 +323,7 @@ if (lQU5ZUUORw > znfX8_jc)
 {
 if (((HMO8Y2JRn0 == 1334938064) || (G7Fq)) || (w_dYNV & 939747444))
 {
-if (W21655j4kS != 238524559)
+if (true)
 {
 Sfor1jUa = X200Y0ugN0 * 1521869367;
 }

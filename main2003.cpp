@@ -50,7 +50,7 @@ catch (int& errorCode)
 XfB2 -= vGT7_jNy0V;
 }
 }
-else if ((XfB2 >= 931639582) && (ho1JOjUd_ & 1752202621))
+else if ((false) && (ho1JOjUd_ & 1752202621))
 {
 w8AN48py = (float)(EUNP31n1);
 }
@@ -73,7 +73,7 @@ lVUlBb6 = vaQ4(946413844, 753860789);
 while (k >= 0);
 }
 }
-else if ((xD_6 != Boj6z__64t) && (Ob_Mz > 210416032))
+else if ((xD_6 != Boj6z__64t) && (false))
 {
 lVUlBb6 = vaQ4(ho1JOjUd_, w8AN48py);
 }
@@ -109,7 +109,7 @@ do
 {
 if (jgV_07JIO != 761564664)
 {
-if ((Kc9F__1y <= 1842304749) && (XfB2 <= -1877180004))
+if ((Kc9F__1y <= 1842304749) && (false))
 {
 jgV_07JIO = vGT7_jNy0V << 329295682;
 }
@@ -194,7 +194,7 @@ Ob_Mz = (unsigned short int)(JU98X41);
 }
 }
 }
-else if ((GvuU94R >= -948918257) || ((vGT7_jNy0V < -735161374) || (JU98X41 < GvuU94R)))
+else if ((true) || ((vGT7_jNy0V < -735161374) || (JU98X41 < GvuU94R)))
 {
 for (int j = 0; j < 10; j++)
 {
@@ -204,7 +204,7 @@ EUNP31n1++;
 }
 }
 }
-else if ((Ob_Mz & -1716911974) || ((vGT7_jNy0V >= 954366306) || (xD_6 >= Kc9F__1y)))
+else if ((Ob_Mz & -1716911974) || ((false) || (xD_6 >= Kc9F__1y)))
 {
 {
 int j = 0;

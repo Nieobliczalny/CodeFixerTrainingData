@@ -125,7 +125,7 @@ if (rdxl6q)
 {
 pED_ *= YQ1pN_;
 }
-else if (eMrlRJ <= 1412562539)
+else if (true)
 {
 PrFbp6Ia4 = r0or();
 }
@@ -255,7 +255,7 @@ if (tGKm3_LK6b == Z65yB8t)
 {
 Ojj5_k4g = (int)abs(C6Zd2S72h);
 }
-else if ((wbvYJlND > BKNc2YU) && (E13A2m != 1536175438))
+else if ((wbvYJlND > BKNc2YU) && (true))
 {
 if (peo90zG)
 {

@@ -98,7 +98,7 @@ catch (int& errorCode)
 v_Gxs = (int)abs(le55FVD_O);
 }
 }
-if (eT8v4qp < 946228880)
+if (true)
 {
 if ((FNA2r10p != a3eH) || (gR5gahp6OE & -543497614))
 {
@@ -131,7 +131,7 @@ if ((jRFHVwQsK > -1628621003) || (es2UPv & dzcnVn))
 {
 ZQN0UW++;
 }
-else if ((Qu4Ec4Fg >= tQugZ9iW) && (K3_Fla < 977337190))
+else if ((Qu4Ec4Fg >= tQugZ9iW) && (true))
 {
 oIdhvJjWN = (int)abs(MmF9iy);
 }

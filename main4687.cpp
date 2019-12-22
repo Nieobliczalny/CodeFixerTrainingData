@@ -47,7 +47,7 @@ d_Z6k = (unsigned char)(NV226jY);
 K3_46J19 = UV5VR5TKU0();
 m_25 = (unsigned char)(q980_i5);
 
-if (NV226jY == 1782387756)
+if (false)
 {
 NV226jY = (unsigned char)(aGw_XFB);
 }
@@ -72,7 +72,7 @@ j--;
 std::cout << SB_3lxyV9g(-1434110727, 580713674, -1469615510) / K3_46J19 << std::endl;
 
 d_Z6k = (unsigned char)(d71t5);
-if (yZ384v != -920234892)
+if (true)
 {
 if (U2L73ZZX >= -1302264345)
 {
@@ -83,7 +83,7 @@ yZ384v %= 1307127480;
 }
 else if (NV226jY > I5ox1R7eds)
 {
-if (V3P3B8i <= -811599407)
+if (false)
 {
 AXj0MrzWa_ = d3_WcAA & NV226jY;
 }
@@ -245,7 +245,7 @@ int j = 0;
 while (j < 7)
 {
 ++j;
-if (I5ox1R7eds >= -2117496205)
+if (true)
 {
 O3s4Z = AXj0MrzWa_ & sjd9z2G;
 }
@@ -270,7 +270,7 @@ int i = 7;
 while (i >= 0)
 {
 i--;
-if (y4of4 <= -928150708)
+if (false)
 {
 U6_YWJOA4 &= 2025995595;
 }
@@ -317,7 +317,7 @@ Tg9SHsj >>= 1903635464;
 }
 }
 }
-if ((Z2g0d0 >= -361367476) || ((AXj0MrzWa_ <= -130955306) && (U6_YWJOA4 <= 1403552015)))
+if ((true) || ((AXj0MrzWa_ <= -130955306) && (U6_YWJOA4 <= 1403552015)))
 {
 if ((K3_46J19 >= -1035698557) && (m_25 == -1497101596))
 {
@@ -355,7 +355,7 @@ for (int i = 8; i >= 0; --i)
 {
 try
 {
-if ((aGw_XFB > sjd9z2G) || (WXyqePN <= 1895189013))
+if ((aGw_XFB > sjd9z2G) || (true))
 {
 d_Z6k -= I5ox1R7eds;
 }
@@ -371,7 +371,7 @@ else if ((v_5e1d & 1360155863) && (NV226jY < Tg9SHsj))
 {
 K3_46J19 = UV5VR5TKU0();
 }
-else if ((sjd9z2G <= -1927000020) && (y4of4 >= -1997855878))
+else if ((false) && (y4of4 >= -1997855878))
 {
 V3P3B8i--;
 }
@@ -391,7 +391,7 @@ K3_46J19 = UV5VR5TKU0();
 
 for (int i = 0; i < 3; ++i)
 {
-if (((M35ss5e) || (wSoo1fN < -2104880452)) && (sjd9z2G & d71t5))
+if (((M35ss5e) || (false)) && (sjd9z2G & d71t5))
 {
 sjd9z2G -= 1123609332;
 }
@@ -401,7 +401,7 @@ y4of4 = d3_WcAA | Tg9SHsj;
 }
 }
 
-if (((NV226jY > -866600623) && (y4of4 & -2083234032)) && (d_Z6k <= -584759303))
+if (((true) && (y4of4 & -2083234032)) && (d_Z6k <= -584759303))
 {
 try
 {
@@ -421,7 +421,7 @@ case 'a':
 yZ384v *= V3P3B8i;
 break;
 case 'b':
-q980_i5 = (NV226jY == -399490080) ? K3_46J19 : -705212801;
+q980_i5 = (false) ? K3_46J19 : -705212801;
 break;
 case 'c':
 d3_WcAA = UV5VR5TKU0() & 724326284;

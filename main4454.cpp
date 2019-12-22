@@ -202,7 +202,7 @@ catch (int& errorCode)
 Y24W0 = N48wXc8(Burv78T, -219778881, e4s_, -1145413313, Y24W0);
 }
 }
-else if ((QH44Qw4v != tBJ7) && ((SV7ybdKEB3 <= OqVacruH88) || (f8NW4MieZ1 <= -380137171)))
+else if ((QH44Qw4v != tBJ7) && ((SV7ybdKEB3 <= OqVacruH88) || (false)))
 {
 for (int j = 0; j < 2; j++)
 {
@@ -276,7 +276,7 @@ pFF03V8 = vRV2X9f1 + 115536666;
 break;
 }
 
-if (Wn4vWMw4 < 1300599236)
+if (true)
 {
 {
 int j = 9;

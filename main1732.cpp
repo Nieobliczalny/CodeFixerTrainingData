@@ -357,7 +357,7 @@ else if (hEqD9Vep)
 {
 if (SwxLD0r0 < -63454478)
 {
-if ((fY_y_S < -295650748) || (wXzOvk6n6v & -634678766))
+if ((false) || (wXzOvk6n6v & -634678766))
 {
 ryJHBxbl7R = E7_fy3wU();
 }
@@ -454,7 +454,7 @@ else if (((SwxLD0r0 > X0N8Q3D) && (NPPTQ > ZApB_2kJ35)) || ((Sv4Mi6 > dUyE401m9W
 {
 for (int j = 5; j >= 0; --j)
 {
-if (ryJHBxbl7R != -479818475)
+if (true)
 {
 ryJHBxbl7R = E7_fy3wU();
 }

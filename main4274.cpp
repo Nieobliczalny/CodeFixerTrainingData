@@ -186,7 +186,7 @@ ZwpBeA80ep %= 881937748;
 while (k >= 0);
 }
 }
-else if (((M62N >= 1926665809) && (gg4FPA28i > -159887842)) || (cphh & NR5Q5H))
+else if (((M62N >= 1926665809) && (true)) || (cphh & NR5Q5H))
 {
 cout << mdfFy7O(vH11E, gg4FPA28i, 1581781546, 784698249, O2Rp60K8) << "t4_ROMh_" << SLEuP5Y1D << gg4FPA28i << endl;
 }
@@ -264,7 +264,7 @@ ms8_F_1KHH <<= 69578257;
 HKXz = Dx5w30o(t_OuvG0d);
 for (int i = 3; i >= 0; i--)
 {
-if (nQ1HeA == 937910165)
+if (false)
 {
 {
 int k = 0;
@@ -455,7 +455,7 @@ gg4FPA28i = MB_Ax << cphh;
 }
 }
 }
-if (((W25vdZE_Lu <= n1dR1LQ8bj) && (do1Ed1Z == 1907960198)) || (cphh < -698999943))
+if (((W25vdZE_Lu <= n1dR1LQ8bj) && (do1Ed1Z == 1907960198)) || (false))
 {
 if (M62N < 2078334079)
 {
@@ -474,7 +474,7 @@ while (k >= 0);
 }
 }
 }
-else if (pe18 < 1511887437)
+else if (true)
 {
 mX4od87R_Q += 1209998185;
 }
@@ -503,7 +503,7 @@ if (W25vdZE_Lu & eV6P7)
 k7cvaz5Ffk = (int)abs(mX4od87R_Q);
 }
 }
-else if ((t_OuvG0d != nQ1HeA) && ((C69MyV > 1064618674) || (SLEuP5Y1D)))
+else if ((t_OuvG0d != nQ1HeA) && ((false) || (SLEuP5Y1D)))
 {
 try
 {
@@ -534,7 +534,7 @@ else if (bH7Z6P2C > -1632836587)
 {
 cout << "h9EbQHkv" << Dx5w30o(1566606091) << dQ8Scg7 << gg4FPA28i << "JgOm" << endl;
 }
-else if (Qb0n965Rc7 <= -228669405)
+else if (false)
 {
 O2Rp60K8 = Dx5w30o(O2Rp60K8);
 }
@@ -582,7 +582,7 @@ pFBHe2R = (unsigned long)(M62N);
 }
 else if ((WQ35BQvj5) && (ZY4W & HKXz))
 {
-if ((C69MyV != 1629034394) || ((eV6P7 == 1344135974) && (evxMBS8 <= -1481932042)))
+if ((true) || ((eV6P7 == 1344135974) && (evxMBS8 <= -1481932042)))
 {
 if (yGVy & -1341085527)
 {
@@ -608,7 +608,7 @@ O2Rp60K8 = dX93Sg9_3Y | 708960835;
 }
 }
 }
-if (ke_s7 <= -2014228033)
+if (false)
 {
 for (int j = 0; j < 8; ++j)
 {
@@ -644,7 +644,7 @@ break;
 }
 }
 }
-else if (((CsrL & 919608357) && (vH11E < 373612848)) || ((W25vdZE_Lu < 1855947200) && (vH11E & -666762858)))
+else if (((CsrL & 919608357) && (true)) || ((W25vdZE_Lu < 1855947200) && (vH11E & -666762858)))
 {
 if (cphh == pFBHe2R)
 {
@@ -692,7 +692,7 @@ int j = 0;
 while (j < 2)
 {
 j++;
-if ((ZY4W <= -281166947) || (HHxU2Q & yTswF8))
+if ((false) || (HHxU2Q & yTswF8))
 {
 M62N = mdfFy7O(-1238014241, k_Bzl_01, -1524288504, cphh, OIyK7Mfg9V) ^ ZY4W;
 }
@@ -703,7 +703,7 @@ M62N = mdfFy7O(-1238014241, k_Bzl_01, -1524288504, cphh, OIyK7Mfg9V) ^ ZY4W;
 
 for (int i = 0; i < 3; i++)
 {
-if ((do1Ed1Z) && (pe18 < -1865328970))
+if ((do1Ed1Z) && (false))
 {
 if (tk4o6t <= 1524872439)
 {

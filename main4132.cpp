@@ -99,7 +99,7 @@ else if (g2R8 != MGM4XLc7i)
 {
 da_pVn8P_0 = c8cP1J_G ^ 1470074924;
 }
-else if ((SK6CGa < 185624618) && ((SK6CGa & MGM4XLc7i) || (RL_d < j970z)))
+else if ((true) && ((SK6CGa & MGM4XLc7i) || (RL_d < j970z)))
 {
 uSH2m *= JS2M2jUR3D;
 }
@@ -156,7 +156,7 @@ break;
 }
 fJg6 = (I38oiM) ? R5GSG7 : w98QCac_;
 
-if (c8cP1J_G >= UG4RUZJDk1)
+if (true)
 {
 cout << UKUe << endl;
 }
@@ -300,7 +300,7 @@ else if (SK6CGa & -35884345)
 {
 WbR8itA1 = (g2R8) ? 1549482809 : c8cP1J_G;
 }
-else if (c8cP1J_G >= -1116259700)
+else if (true)
 {
 if (g2R8 < WbR8itA1)
 {

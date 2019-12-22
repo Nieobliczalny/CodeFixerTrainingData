@@ -74,7 +74,7 @@ for (int j = 0; j < 1; j++)
 {
 try
 {
-LMfMUV8 = (LpdT0W1 > H1HW1V9) ? M64SvT : LMfMUV8;
+LMfMUV8 = (true) ? M64SvT : LMfMUV8;
 }
 catch (int& errorCode)
 {
@@ -169,7 +169,7 @@ for (int i = 5; i >= 0; --i)
 {
 lB4_wN <<= 2013417253;
 }
-if (z_MVN9 >= 1986633988)
+if (false)
 {
 S3K2 = (char)(oUB0owg);
 }
@@ -184,7 +184,7 @@ std::cout << Vu48 << z_MVN9 << std::endl;
 }
 }
 }
-else if (((LpdT0W1 > oUB0owg) && (gKoakM2zA)) && (k4dTS1 <= 833920726))
+else if (((false) && (gKoakM2zA)) && (k4dTS1 <= 833920726))
 {
 Msu7gUQ = (char)(k4dTS1);
 }
@@ -215,7 +215,7 @@ KD6iL_ ^= LYftF6TX;
 }
 else
 {
-if (L7aWA8 <= 305604244)
+if (true)
 {
 for (int k = 3; k >= 0; k--)
 {
@@ -242,7 +242,7 @@ i--;
 }
 while (i >= 0);
 }
-if (M2Bd5XRE >= -883659489)
+if (true)
 {
 {
 int j = 0;
@@ -253,7 +253,7 @@ hj9LaX1 = j69Q8905L9 << Ma9OwT0e3;
 }
 }
 }
-if (M_o2 >= oUB0owg)
+if (false)
 {
 for (int j = 0; j < 2; j++)
 {

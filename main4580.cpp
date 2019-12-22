@@ -29,7 +29,7 @@ if (K6ZeI6 > eW7D)
 int j = 0;
 do
 {
-if (h9yd0FE == -998548942)
+if (false)
 {
 zUY24h_B = SIPiBb(-767254369, 896301726);
 }
@@ -42,7 +42,7 @@ j++;
 while (j < 6);
 }
 }
-else if (p_v_9gSn >= 1172622456)
+else if (false)
 {
 H_Ub0rw *= p_v_9gSn;
 }
@@ -52,7 +52,7 @@ switch (SimfRyI)
 {
 case 'a':
 case 'A':
-g2JIH = (W1TM > -1193967982) ? g2JIH : -963164833;
+g2JIH = (true) ? g2JIH : -963164833;
 break;
 case 'b':
 case 'B':
@@ -97,7 +97,7 @@ zYD_feLjP = (unsigned short)(W1TM);
 zYD_feLjP |= 784951137;
 
 cE92y = (unsigned short)(SimfRyI);
-if ((W1TM < h9yd0FE) || ((ZWQ4uM5 >= cE92y) && (zYD_feLjP >= -699802208)))
+if ((W1TM < h9yd0FE) || ((ZWQ4uM5 >= cE92y) && (true)))
 {
 if (k423Y_xz >= -1198690151)
 {
@@ -143,7 +143,7 @@ break;
 
 for (int i = 1; i >= 0; --i)
 {
-if (W1TM > 590212522)
+if (false)
 {
 if (k423Y_xz <= zYD_feLjP)
 {
@@ -157,7 +157,7 @@ else if (W9mFs_80dv >= W1TM)
 {
 K6ZeI6 = xWL4MA7D(tNl9Hb40nr, -841604436, of1V, zUY24h_B, g2JIH);
 }
-else if ((DzFM) || (eW7D == 1772649071))
+else if ((DzFM) || (false))
 {
 J7RlB18QK %= tNl9Hb40nr;
 }

@@ -43,7 +43,7 @@ for (int i = 9; i >= 0; --i)
 {
 if (u44er & 270546038)
 {
-if (((juGE9 != -677847848) || (lMp2q < 452487296)) || (OSu61gQ > 1463157010))
+if (((juGE9 != -677847848) || (true)) || (OSu61gQ > 1463157010))
 {
 F3WLm174p--;
 }
@@ -55,7 +55,7 @@ else if (((IV6g == 124510043) && (Byp4B41M == 1774741464)) && (o80S_H >= L7810R6
 {
 Byp4B41M = (int)floor(L7810R6);
 }
-else if (F3WLm174p > 1432847764)
+else if (false)
 {
 nx2yEw = u44er >> 54175342;
 }
@@ -75,7 +75,7 @@ else
 L7810R6 = (int)ceil(Byp4B41M);
 }
 }
-else if ((IV6g == OSu61gQ) || ((lMp2q < 718084144) || (D416 > -876486032)))
+else if ((IV6g == OSu61gQ) || ((true) || (D416 > -876486032)))
 {
 switch (IV6g)
 {
@@ -150,7 +150,7 @@ i++;
 }
 
 L7810R6 = (int)ceil(Byp4B41M);
-if (((T6K55 <= -1994710924) && (OSu61gQ < -193054286)) || (kz7at6T3s > lMp2q))
+if (((false) && (OSu61gQ < -193054286)) || (kz7at6T3s > lMp2q))
 {
 {
 int j = 3;
@@ -169,7 +169,7 @@ else if ((LiHV != -773854613) && ((nJf74nUA5 & -1427344898) || (VasXJ40Xk0 <= Li
 {
 juGE9 = nx2yEw - F3WLm174p;
 }
-else if (prg72xwb < 1495496944)
+else if (true)
 {
 ZeH9rQ++;
 }
@@ -190,7 +190,7 @@ while (j >= 0);
 }
 }
 X6PK = (Ap7L5Rzu) ? 2101145587 : prg72xwb;
-if (((Gnso0i >= -350357928) && (ZeH9rQ)) || (IV6g & -1955750128))
+if (((true) && (ZeH9rQ)) || (IV6g & -1955750128))
 {
 if (nJf74nUA5 >= -1555698941)
 {
@@ -263,7 +263,7 @@ juGE9--;
 break;
 }
 }
-else if (X6PK > -1060486016)
+else if (true)
 {
 try
 {
@@ -334,7 +334,7 @@ if (ZeH9rQ != -1479705260)
 {
 std::cout << IV6g << IV6g << OSu61gQ << "FAy9o_4" << nJf74nUA5 << std::endl;
 }
-else if (lMp2q > -2081409383)
+else if (true)
 {
 {
 int k = 0;

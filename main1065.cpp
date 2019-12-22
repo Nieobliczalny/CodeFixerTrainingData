@@ -218,7 +218,7 @@ if (x6wRI6Qo7g >= zZem)
 {
 if ((uAPq & 46942314) || (tu_bitD61 >= 1545100779))
 {
-if (nN784FrI >= 57771383)
+if (false)
 {
 KK9D6q = KK9D6q >> Qxx998;
 }

@@ -305,7 +305,7 @@ catch (int& errorCode)
 {
 mz_L7TRy1 ^= FPa19K;
 }
-if ((D5lJ >= 1902080609) || (Q0K00Cm4 <= B1uVU0a11))
+if ((false) || (Q0K00Cm4 <= B1uVU0a11))
 {
 if (((y4N1ap32 < 1726340665) || (B6uif)) || ((yV0h >= -2048855688) || (ifLp6x > 501969565)))
 {
@@ -363,7 +363,7 @@ for (int j = 0; j < 2; ++j)
 RgG380g853 = (float)(wNb_2h0mKv);
 }
 }
-else if (z4fv >= -678877551)
+else if (true)
 {
 y4N1ap32 >>= 1720080469;
 }
@@ -381,7 +381,7 @@ while (j < 2);
 }
 else
 {
-if ((ifLp6x <= jKa0) && (HHeWe == -693626554))
+if ((ifLp6x <= jKa0) && (false))
 {
 DDxauk95 = N0wzCf(DDxauk95);
 }

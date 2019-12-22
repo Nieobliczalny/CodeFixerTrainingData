@@ -48,7 +48,7 @@ case 'h':
 EGPJtBBB = Ozda & 390454941;
 break;
 }
-if (IDtmw1 >= F862p4)
+if (true)
 {
 try
 {
@@ -71,7 +71,7 @@ std::cout << iZX_(mF5S_, U8V2Im1, SX6HnD) << std::endl;
 
 for (int i = 6; i >= 0; --i)
 {
-if ((idwAeODq <= Jtn14eXaf) || ((bV8aYuG5R6 > CTVPiW5) || (Ozda == 714501048)))
+if ((false) || ((bV8aYuG5R6 > CTVPiW5) || (Ozda == 714501048)))
 {
 for (int k = 1; k >= 0; --k)
 {
@@ -94,7 +94,7 @@ while (i >= 0)
 i--;
 try
 {
-if (Q_HniL0 != 991668383)
+if (true)
 {
 bV8aYuG5R6 = iZX_(EGPJtBBB, 2028837760, 1256092894);
 }
@@ -122,7 +122,7 @@ rD247 /= 2108661861;
 }
 }
 
-if (Q_HniL0 == Jtn14eXaf)
+if (false)
 {
 switch (NSVRJ)
 {
@@ -152,7 +152,7 @@ bV8aYuG5R6 = iZX_(-1874173269, -368491531, p7ENQ7d);
 }
 else if ((Liw6 > rD247) && (IDtmw1 >= Q_HniL0))
 {
-if ((KfV_O1 & xsroP214) && ((k9zpuo >= xsroP214) && (bV8aYuG5R6 > F862p4)))
+if ((false) && ((k9zpuo >= xsroP214) && (bV8aYuG5R6 > F862p4)))
 {
 if (bV8aYuG5R6 > xsroP214)
 {
@@ -212,7 +212,7 @@ std::cout << "p9oK4" << iZX_(CTVPiW5, p7ENQ7d, bV8aYuG5R6) << RgZy8W4Xjs << iZX_
 KfV_O1 = (short)(F862p4);
 try
 {
-if (q1__I >= Jtn14eXaf)
+if (true)
 {
 try
 {
@@ -234,7 +234,7 @@ XreLK6 = iZX_(1568866389, 1833355057, SX6HnD);
 }
 if ((Q_HniL0 / XreLK6) >= 1964153309)
 {
-if (CTVPiW5 >= Jtn14eXaf)
+if (true)
 {
 switch (mF5S_)
 {
@@ -263,7 +263,7 @@ break;
 }
 }
 
-if (NSVRJ < -2112423378)
+if (false)
 {
 if (mF5S_ == F862p4)
 {
@@ -305,7 +305,7 @@ while (k >= 0);
 }
 else
 {
-KfV_O1 = (IDtmw1 <= Jtn14eXaf) ? k9zpuo : Liw6;
+KfV_O1 = (false) ? k9zpuo : Liw6;
 }
 }
 switch (Q_HniL0)
@@ -329,7 +329,7 @@ break;
 
 try
 {
-if ((Ozda) && (IDtmw1 > Jtn14eXaf))
+if ((Ozda) && (true))
 {
 p7ENQ7d = SX6HnD & q1__I;
 }
@@ -415,7 +415,7 @@ break;
 while (i < 2);
 }
 
-if ((Q_HniL0) || (U8V2Im1 > xsroP214))
+if ((Q_HniL0) || (false))
 {
 {
 int j = 7;
@@ -441,7 +441,7 @@ catch (int& errorCode)
 XreLK6 = iZX_(NSVRJ, 1218818457, dd090_);
 }
 }
-else if (SX6HnD != -1524744423)
+else if (true)
 {
 KfV_O1 = (short)(F862p4);
 }
@@ -514,7 +514,7 @@ std::cout << U8V2Im1 << "jGSsQKm" << XreLK6 << KfV_O1 << std::endl;
 idwAeODq = RgZy8W4Xjs % 1622518241;
 
 std::cout << "E_Lmt22" << iZX_(EGPJtBBB, Q_HniL0, 536696782) << std::endl;
-if (p7ENQ7d != -853997221)
+if (true)
 {
 if ((rD247 != -1651211915) && (U8V2Im1 >= -2096996799))
 {
@@ -535,7 +535,7 @@ idwAeODq = (int)abs(NSVRJ);
 
 for (int i = 10; i >= 0; --i)
 {
-if (((CTVPiW5 > -898464182) && (Ozda <= -1246703227)) && (p7ENQ7d < 1837531819))
+if (((true) && (Ozda <= -1246703227)) && (p7ENQ7d < 1837531819))
 {
 k9zpuo = (short)(Liw6);
 }

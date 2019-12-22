@@ -259,7 +259,7 @@ XXG498Z = (int)abs(J_DcfC78C);
 ks6rz3V += 1738911219;
 if (U2Ta1x0F == YdKKU)
 {
-if (Ehr99H2_Qk > -1650271933)
+if (true)
 {
 std::cout << N6qu << std::endl;
 }
@@ -326,7 +326,7 @@ vgRXt = (int)floor(ypET3y);
 int i = 0;
 do
 {
-if (XXG498Z == 1147636308)
+if (false)
 {
 switch (BbZda2h3)
 {

@@ -118,7 +118,7 @@ while (i >= 0)
 i--;
 try
 {
-if (((f_Z6gCe < -1965870894) || (G1y2 == -1287397678)) && (w_bEVG8L != EN8tZ2Y04g))
+if (((f_Z6gCe < -1965870894) || (false)) && (w_bEVG8L != EN8tZ2Y04g))
 {
 tbfY4W2s8 = NW7BlgJ | kYkbj;
 }
@@ -256,7 +256,7 @@ i1MOn = dxX7HSd0k();
 
 if (i1MOn & 2065033432)
 {
-if (QG7B7X4j > -938956516)
+if (true)
 {
 Gaa6b813B = buK1f_F6(-1425532303, -110104830, -1030258182, -1619121267, i1MOn);
 }

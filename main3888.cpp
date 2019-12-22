@@ -101,7 +101,7 @@ break;
 std::cout << J0yI5m0d(1266393338) << std::endl;
 
 F357Ydqj2 = (unsigned long long)(V0_n3 * F357Ydqj2);
-if (V0_n3 >= -1078062522)
+if (true)
 {
 switch (u8wUpH16Pp)
 {

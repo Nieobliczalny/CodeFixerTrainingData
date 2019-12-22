@@ -39,7 +39,7 @@ int main(void) {
 std::cout << irxT1vd << GomTW << RtKyFU9Q(793418906, -172308449, -195365500, 234645250) << "Rxfp6AJ9" << std::endl;
 for (int i = 0; i < 3; ++i)
 {
-if (t_Rc09uk <= wLvnX7H57M)
+if (true)
 {
 std::cout << o22xrZbz1f << "T044g65" << "OUJ5TN69" << irxT1vd << std::endl;
 }
@@ -107,7 +107,7 @@ if (irxT1vd == dn_26e8FS)
 {
 fZ6fEh4E = RtKyFU9Q(1796146285, 1320965964, KL0qlS5ep9, -1946504362);
 }
-else if (KL0qlS5ep9 < wLvnX7H57M)
+else if (true)
 {
 {
 int j = 0;
@@ -172,7 +172,7 @@ irxT1vd = (int)(ICFo20 + (-2041206569));
 }
 X3n3B = yTRB2A8 / t_Rc09uk;
 
-if ((KL0qlS5ep9 == wLvnX7H57M) || ((irxT1vd) || (X3n3B)))
+if ((false) || ((irxT1vd) || (X3n3B)))
 {
 {
 int j = 4;
@@ -187,7 +187,7 @@ else if (j_9kJVSJ & ICFo20)
 {
 t_Rc09uk = vj8nOv6P();
 }
-else if (((Nl21v_Djj == -1700783944) && (Nl21v_Djj < fZ6fEh4E)) || ((Nl21v_Djj) || (To_6 == 1308560433)))
+else if (((false) && (Nl21v_Djj < fZ6fEh4E)) || ((Nl21v_Djj) || (To_6 == 1308560433)))
 {
 To_6 &= 401049323;
 }
@@ -198,7 +198,7 @@ KL0qlS5ep9 |= 307985693;
 }
 }
 }
-else if (((KL0qlS5ep9 != 1679234226) && (t_Rc09uk)) || ((pINj != wLvnX7H57M) && (o22xrZbz1f & t_Rc09uk)))
+else if (((true) && (t_Rc09uk)) || ((pINj != wLvnX7H57M) && (o22xrZbz1f & t_Rc09uk)))
 {
 {
 int j = 0;

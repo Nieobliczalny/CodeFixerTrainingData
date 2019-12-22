@@ -130,7 +130,7 @@ if (srYZiVeQ1 & MBdYG2Cps)
 {
 try
 {
-if (srYZiVeQ1 != -1146630871)
+if (true)
 {
 LiIu = KHh9_vI(LiIu, MBdYG2Cps, -778118250, q7D_j);
 }
@@ -163,7 +163,7 @@ else if (Mr6J06 < LiIu)
 {
 srYZiVeQ1 = (int)abs(Mr6J06) * 0;
 }
-else if (LiIu != 1095855711)
+else if (true)
 {
 q7D_j = (int)floor(Mr6J06);
 }

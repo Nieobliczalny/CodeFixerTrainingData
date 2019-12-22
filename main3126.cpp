@@ -48,7 +48,7 @@ try
 {
 for (int j = 9; j >= 0; --j)
 {
-if (sKLYv > n25vIfp)
+if (false)
 {
 k83n3_ |= 221903206;
 }
@@ -206,7 +206,7 @@ IAr5510tC = FkFx_E(-1915391466, -1861712297, fcQ8ARy2, sKLYv, 1930957188);
 Q1Y088 = (unsigned long long)(zXI5F);
 if (Q1Y088 != wa604wk)
 {
-if (JCeVYdtSMU > 1902594672)
+if (false)
 {
 for (int k = 4; k >= 0; --k)
 {

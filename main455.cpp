@@ -62,7 +62,7 @@ if (BoLYc7v0 > 283058109)
 {
 if (d2GNh475 == g4_2)
 {
-if (g4_2 > MfSbpLD6Ze)
+if (true)
 {
 LCnofD = MSA_8l7H(-946775296, HUEc);
 }

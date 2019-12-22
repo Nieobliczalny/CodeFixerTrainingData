@@ -34,7 +34,7 @@ catch (int& errorCode)
 uL44eo6 = (int)abs(l_02d);
 }
 
-if (K_2nkb <= 971587482)
+if (true)
 {
 if (l_02d == -288184292)
 {
@@ -132,7 +132,7 @@ default:
 uL44eo6 = (int)abs(x9j9K8E);
 break;
 }
-if ((l_02d > uL44eo6) && (K_2nkb >= -1492564072))
+if ((l_02d > uL44eo6) && (true))
 {
 {
 int j = 0;
@@ -182,7 +182,7 @@ K_2nkb = Co7_gn(l_02d, -84595661);
 }
 else if (x9j9K8E <= -1531899645)
 {
-if ((x9j9K8E == -1058686849) || (K_2nkb >= -1887595489))
+if ((x9j9K8E == -1058686849) || (true))
 {
 try
 {
@@ -215,7 +215,7 @@ catch (int& errorCode)
 l_02d = uL44eo6 & x9j9K8E;
 }
 }
-else if (K_2nkb == -1222341676)
+else if (false)
 {
 if (K_2nkb != -1362552334)
 {
@@ -226,7 +226,7 @@ else
 x9j9K8E = (int)abs(uL44eo6);
 }
 }
-else if ((l_02d < -1396427957) && ((K_2nkb <= -2107891231) || (l_02d > uL44eo6)))
+else if ((l_02d < -1396427957) && ((false) || (l_02d > uL44eo6)))
 {
 std::cout << K_2nkb << std::endl;
 }
@@ -240,7 +240,7 @@ K_2nkb = Co7_gn(40604384, -1601711772);
 }
 else
 {
-if ((l_02d >= 532036229) || (K_2nkb <= 2132999235))
+if ((l_02d >= 532036229) || (true))
 {
 try
 {
@@ -285,7 +285,7 @@ else
 uL44eo6 = o2l47m(438830529, 305781052, x9j9K8E);
 }
 }
-else if ((K_2nkb & l_02d) && ((K_2nkb == -1292105333) || (K_2nkb)))
+else if ((K_2nkb & l_02d) && ((false) || (K_2nkb)))
 {
 {
 int k = 1;
@@ -394,7 +394,7 @@ uL44eo6 = RC1Qx70(1383718476, uL44eo6, 1759835997);
 }
 }
 }
-else if ((K_2nkb < 1764630690) && (l_02d >= 274625808))
+else if ((true) && (l_02d >= 274625808))
 {
 try
 {

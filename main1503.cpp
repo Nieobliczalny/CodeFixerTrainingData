@@ -117,7 +117,7 @@ int main(void)
   P0hMv4  =  0;
   Iz2L20JUIK  =  0;
 
-if (lyo5T_E6gM > 1195623740)
+if (false)
 {
 {
 int j = 3;
@@ -137,7 +137,7 @@ mD_5NAABP = H_9R1_El(-1542032459, eXOSV);
 }
 else
 {
-if (((mD_5NAABP <= 220601669) || (K3pf_p == -1817135858)) || (VM2R != mD_5NAABP))
+if (((true) || (K3pf_p == -1817135858)) || (VM2R != mD_5NAABP))
 {
 {
 int k = 0;
@@ -148,7 +148,7 @@ x3MQq1_Z = (int)abs(vt2LMK7t);
 }
 }
 }
-else if (Ffi20nP > -1438477020)
+else if (true)
 {
 if (x3MQq1_Z < -1898407825)
 {
@@ -178,7 +178,7 @@ lTY2A_KOm = (XNdA1a385) ? H_9R1_El(x3MQq1_Z, 1038970198) : -649716725;
 while (k < 8);
 }
 }
-else if ((Tlii <= s4c1V5kH) || ((PYQwR0_qy_ < -1894564024) && (i8a1lDk >= y5s5AD1)))
+else if ((Tlii <= s4c1V5kH) || ((false) && (i8a1lDk >= y5s5AD1)))
 {
 Dm_uGMO3Z = H_9R1_El(Dm_uGMO3Z, 48229526);
 }
@@ -201,7 +201,7 @@ Yg6I <<= K3pf_p;
 while (k >= 0);
 }
 }
-else if (((MA0_2_9fc <= 1051896084) || (i8a1lDk < lTY2A_KOm)) || ((s4c1V5kH & 2009391421) && (Yg6I == 857847638)))
+else if (((true) || (i8a1lDk < lTY2A_KOm)) || ((s4c1V5kH & 2009391421) && (Yg6I == 857847638)))
 {
 try
 {
@@ -237,7 +237,7 @@ case 'A':
 C0wFhFu1sG = BBL_XLCStB(947234321, qLf0s692jA, oxg3ilS, qj34PzdBR, -1294203901);
 break;
 default:
-XQL_SW6 = (IMb0_ > -1461242985) ? t46X692i0 : ab01;
+XQL_SW6 = (true) ? t46X692i0 : ab01;
 break;
 }
 --i;
@@ -256,7 +256,7 @@ for (int k = 5; k >= 0; k--)
 Iz2L20JUIK = BBL_XLCStB(ur0oH, AC2cefVfa3, qj34PzdBR, -2082730355, 508506467);
 }
 }
-else if (kpvxaes <= 1978226259)
+else if (true)
 {
 cout << fFcoXAyf << BBL_XLCStB(40274752, 1570846810, qj34PzdBR, L4ul, Ffi20nP) << BBL_XLCStB(ur0oH, AC2cefVfa3, -1909524936, L4ul, Ffi20nP) << endl;
 }
@@ -293,7 +293,7 @@ H56n = -533132555 / P0hMv4;
 
 if (vFV965 == z531j5)
 {
-if (ur0oH < -633991954)
+if (false)
 {
 if (S_1gR9_ != fFcoXAyf)
 {
@@ -320,7 +320,7 @@ dZl2L2B <<= ORRU_0W;
 }
 }
 }
-else if (LELHp_bg2 != -831987517)
+else if (true)
 {
 switch (V6f2i)
 {
@@ -338,7 +338,7 @@ kpvxaes = H_9R1_El(kpvxaes, liXeXH4im);
 break;
 }
 }
-else if (a_lH7r >= -1736986179)
+else if (true)
 {
 if ((lTY2A_KOm >= 1174489930) && ((yBPgA != 508366449) || (DB9q_ >= -1887473829)))
 {
@@ -381,7 +381,7 @@ Dm_uGMO3Z = H_9R1_El(Dm_uGMO3Z, -180049563);
 break;
 }
 KKtUtf1i77 = (int)abs(K3pf_p);
-p6kyq = (ur0oH < -657749782) ? 804513523 : 598412119;
+p6kyq = (false) ? 804513523 : 598412119;
 
 try
 {

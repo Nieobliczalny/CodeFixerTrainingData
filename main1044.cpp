@@ -115,7 +115,7 @@ for (int i = 10; i >= 0; --i)
 {
 for (int j = 0; j < 3; j++)
 {
-if (S0D8 < 1459282925)
+if (true)
 {
 R59Ewq_LGa = (int)abs(S0D8) + (-803120705);
 }
@@ -366,7 +366,7 @@ if (w7crD0GTpO)
 {
 ChstFzK = yvkV8V();
 }
-else if (GVC0huU == fy9boS_)
+else if (false)
 {
 mBsSD51MM = (int)ceil(dvlPQ);
 }

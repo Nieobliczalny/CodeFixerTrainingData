@@ -120,7 +120,7 @@ else if (((N23M_8Dj1 >= -1169688596) && (ySlvgVF9JL == 1472560341)) || (d_wyvc_0
 {
 M3eFI41h2 = y6_utQW & 1584474441;
 }
-else if ((Nw2R77t != 2001815257) && (mqiI9 < y6_utQW))
+else if ((true) && (mqiI9 < y6_utQW))
 {
 mqiI9 -= LG_pK_7;
 }

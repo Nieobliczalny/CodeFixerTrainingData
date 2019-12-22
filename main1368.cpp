@@ -89,7 +89,7 @@ else
 YF5L2XTd1 *= Ajd3Ep;
 }
 }
-else if (J4mFhEu02 != -1131016039)
+else if (true)
 {
 QW3A6kr = (int)(SGLpVEPhd);
 }
@@ -199,7 +199,7 @@ if (Jb2dSy(-305683377, SM1X0DYzj, QW3A6kr) == 0)
 }
 }
 
-if (pkWgR > -1968999708)
+if (true)
 {
 switch (J4mFhEu02)
 {

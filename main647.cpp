@@ -173,7 +173,7 @@ VRW_fN3En = (int)abs(HQ8b5);
 
 for (int i = 0; i < 2; i++)
 {
-if (XzpC < -168883824)
+if (false)
 {
 try
 {
@@ -270,7 +270,7 @@ while (k >= 0);
 }
 }
 }
-else if ((BWKT9 <= 1238502872) || ((Sp75CT3 <= a41exY) && (tEws7 < 334643222)))
+else if ((BWKT9 <= 1238502872) || ((Sp75CT3 <= a41exY) && (true)))
 {
 SKrzk = (int)abs(OsOg4IvvX);
 }
@@ -308,7 +308,7 @@ else if (YVYTD > 1833221115)
 {
 if (khd_1EE9BW <= R7VD)
 {
-if (k_6CY3ly > -140222560)
+if (true)
 {
 P7bDL2Td6 = (int)abs(khd_1EE9BW);
 }
@@ -320,7 +320,7 @@ else if (vM3fm2 <= 1507032001)
 {
 RuC0b00 = e7rwxU_nk >> BjX6w1X5j2;
 }
-else if (W3WwL < -150974695)
+else if (false)
 {
 VRW_fN3En++;
 }
@@ -356,7 +356,7 @@ std::cout << blJf_gw << std::endl;
 }
 
 std::cout << vM3fm2 / WG2ha << std::endl;
-if (CWIo8XKJp5 == 957932951)
+if (false)
 {
 OsOg4IvvX ^= 317038387;
 }
@@ -384,7 +384,7 @@ else if (H3ZXe)
 {
 if (H3ZXe <= EyI_k_5)
 {
-if ((W3WwL != 38000807) || ((OsOg4IvvX != -82112084) || (P7bDL2Td6 < 344728107)))
+if ((true) || ((OsOg4IvvX != -82112084) || (P7bDL2Td6 < 344728107)))
 {
 F9KHQA /= 1171082491;
 }
@@ -395,7 +395,7 @@ W3WwL = (int)abs(XrPP);
 }
 else if (a41exY >= 745908808)
 {
-if (STtPv0 != 51017495)
+if (true)
 {
 Wyx3L7FhP9 = (int)ceil(T2PF496cC);
 }
@@ -415,7 +415,7 @@ if (gMr1Hc)
 ujguwruZq = (long double)(uR9Vno0xFl);
 }
 }
-else if (STtPv0 <= 1306683002)
+else if (true)
 {
 {
 int j = 0;
@@ -425,7 +425,7 @@ if (R7VD < 1045826988)
 {
 T2PF496cC = (int)ceil(ujguwruZq);
 }
-else if ((uR9Vno0xFl) || ((H3ZXe <= 779976103) && (k_6CY3ly <= 1285029231)))
+else if ((uR9Vno0xFl) || ((H3ZXe <= 779976103) && (true)))
 {
 F9KHQA = (int)abs(HQ8b5);
 }
@@ -452,7 +452,7 @@ while (j < 2);
 }
 else if (W8EeE != yPS6)
 {
-if (Gah9qi_Z == 401873925)
+if (false)
 {
 for (int k = 0; k < 6; k++)
 {
@@ -494,7 +494,7 @@ for (int i = 0; i < 2; ++i)
 int j = 4;
 while (j >= 0)
 {
-if (XzpC != -952989215)
+if (true)
 {
 RuC0b00 = (int)floor(ujguwruZq);
 }
@@ -584,7 +584,7 @@ catch (int& errorCode)
 {
 yPS6 = s6_7RN >> 208382136;
 }
-if (BSxu2E9X == -909840160)
+if (false)
 {
 try
 {
@@ -595,7 +595,7 @@ catch (int& errorCode)
 a41exY = m98x | 1272065311;
 }
 }
-else if (tEws7 <= -2077963595)
+else if (false)
 {
 if (BSxu2E9X < 413695223)
 {
@@ -615,7 +615,7 @@ tEws7--;
 }
 else
 {
-if ((BjX6w1X5j2 != BWKT9) || (DCHV7g6_f6 > -487996865))
+if ((BjX6w1X5j2 != BWKT9) || (true))
 {
 std::cout << "K5bd" << DCHV7g6_f6 << "gM583D5" << igUM17J3h_ << std::endl;
 }

@@ -107,7 +107,7 @@ if ((mw794J < -113555876) && (tSag4woo < x1pu__z9D))
 {
 mw794J = A9O8qbH(-686268138, 914783505, vefdDR, 85948421, xQR_R);
 }
-else if (UVWZ9 != 739206756)
+else if (true)
 {
 std::cout << A9O8qbH(1731040061, xpi88_3, -254908264, 1143742910, -1813313850) << std::endl;
 }

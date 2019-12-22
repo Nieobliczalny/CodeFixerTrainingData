@@ -245,7 +245,7 @@ else if (((Jbi_2WT24g) || (Ukap7Gxi != nkZL6kTP)) || (uw04JVj0g > -1795458692))
 {
 Z_df3sd = (int)ceil(jB32CN4);
 }
-else if (G99uV < -1435703351)
+else if (false)
 {
 if (y8L3 > 496578317)
 {
@@ -349,7 +349,7 @@ NyX4 = (int)abs(aPjXX);
 }
 }
 }
-else if ((nw40mF6G <= mC3SH) && ((Evc9CU94 == AM2OMUB) || (NO67i3A_Z & 631461230)))
+else if ((true) && ((Evc9CU94 == AM2OMUB) || (NO67i3A_Z & 631461230)))
 {
 std::cout << igWND8__Pg(GyO0h4) << "D80VIVY" << igWND8__Pg(GyO0h4) << xmR_(GyO0h4, G7yYR, O2R38r30v8, vP82) << igWND8__Pg(GyO0h4) << std::endl;
 }

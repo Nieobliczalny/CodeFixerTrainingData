@@ -113,7 +113,7 @@ int main(void) {
   long long  tO6tqd3Y  =  0;
     short int    BjeGG    =    1717810643;
 
-if ((bmPeKGd & -1913670061) && (fK31j == 122835953))
+if ((bmPeKGd & -1913670061) && (false))
 {
 {
 int j = 0;
@@ -191,7 +191,7 @@ D7s4ld = E_nTLFn1Q(Vg7pfM7, -1850731551, W0Omw8_g, SrIF26KwE, -211352852);
 }
 
 Eh9G2Ve = (int)ceil(Lm1PKq);
-if ((bVQ36F12_ < -1375081787) || ((A7UQu289qk == 1933655563) || (FXqje4 & -86868420)))
+if ((bVQ36F12_ < -1375081787) || ((false) || (FXqje4 & -86868420)))
 {
 switch (BjeGG)
 {
@@ -446,7 +446,7 @@ catch (int& errorCode)
 {
 m9Zd_17xv = (int)ceil(dG9uKSx);
 }
-if (((nMK8s_Sd2v >= 755694617) && (fvBm > -1142401479)) && (g_6Hu6C <= hDigI))
+if (((false) && (fvBm > -1142401479)) && (g_6Hu6C <= hDigI))
 {
 if ((bVQ36F12_ >= OZX45YW) || (W7M6L998 == ynk__XPt))
 {
@@ -468,7 +468,7 @@ else if (yc4dG == -482113045)
 {
 cout << "UMFBM" << "n_2SMywX" << endl;
 }
-else if ((MqiMtrYR > -1129677787) && (XO1vj_Al != 1145265661))
+else if ((true) && (XO1vj_Al != 1145265661))
 {
 OmeuoT1RI = (long long)(a1w0R);
 }

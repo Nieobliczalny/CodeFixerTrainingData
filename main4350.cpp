@@ -35,7 +35,7 @@ int main()
 S0F0 = (char)(FID8KkAF8R);
 
 Ldlx = jrvLxG(-1462801112, IgMNw8);
-if (S0F0 > 1868820721)
+if (false)
 {
 switch (IgMNw8)
 {
@@ -59,7 +59,7 @@ Ldlx = XxFy1(FID8KkAF8R, Ldlx);
 }
 VqUn0A1HhG = w9C_47V_8(-975561107, Ldlx) / IgMNw8;
 
-if (FID8KkAF8R != -1484912660)
+if (true)
 {
 try
 {
@@ -285,7 +285,7 @@ int j = 0;
 do
 {
 j++;
-if (((Ldlx >= -111435165) && (Ldlx < R1sv9)) && (S0F0 < 1477825294))
+if (((Ldlx >= -111435165) && (Ldlx < R1sv9)) && (true))
 {
 R1sv9 *= udt8;
 }

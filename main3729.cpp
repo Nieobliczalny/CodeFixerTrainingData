@@ -55,7 +55,7 @@ else
 P4EC3lRr = WEKFwG_9(uODgM, CeHf5, -1739113815, 866560080, aAh3I4g) * P4EC3lRr;
 }
 
-if (bJ61nuO >= 1986034824)
+if (false)
 {
 P4EC3lRr = (int)ceil(aIguz9dr);
 }
@@ -67,7 +67,7 @@ else if (JmSR3Xw)
 {
 std::cout << WEKFwG_9(Swim5b, P896L0W4g, Tzj4o8TW_g, -11478729, bJ61nuO) << sp1wm(Swim5b, P896L0W4g, 1930905217, Ezw_K) << std::endl;
 }
-else if ((bJ61nuO <= 1789784788) || (CeHf5 != aAh3I4g))
+else if ((true) || (CeHf5 != aAh3I4g))
 {
 std::cout << WEKFwG_9(Swim5b, 1527341493, 527359973, -1353569883, -1867855063) << Swim5b << JmSR3Xw << P896L0W4g << "l9Vurx3nN" << std::endl;
 }

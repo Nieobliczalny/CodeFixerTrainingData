@@ -178,7 +178,7 @@ while (i >= 0);
 Yr42bxn56--;
 if (G0AUX)
 {
-if (((kX7y1 <= 892465088) || (sHrg_ <= -1060550365)) || (d_g7T1q89 >= 1351575414))
+if (((kX7y1 <= 892465088) || (sHrg_ <= -1060550365)) || (false))
 {
 if (G0AUX & 726888267)
 {
@@ -190,7 +190,7 @@ z3_kN_c1X2 = (int)ceil(SgaCso);
 }
 }
 }
-else if ((amF2k__s0) || (fVT69qg == -1402013478))
+else if ((amF2k__s0) || (false))
 {
 {
 int j = 0;

@@ -224,7 +224,7 @@ else if (xqkMf3f & -1842955852)
 {
 er5L0 &= RSZnh;
 }
-else if (aN3d7x >= -814132927)
+else if (true)
 {
 S8xQbu8lC ^= K4V1Zb595;
 }

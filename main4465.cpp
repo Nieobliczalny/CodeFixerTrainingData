@@ -223,7 +223,7 @@ for (int i = 0; i < 7; ++i)
 {
 std::cout << "elu7TDhv4" << iy5KT8HXD << "nJ8R" << p2K_3X8y(-1278633864, -430680255) << std::endl;
 }
-if ((iy5KT8HXD != -1611340603) || (V2v9t14Fqi < 1037273080))
+if ((iy5KT8HXD != -1611340603) || (true))
 {
 for (int j = 2; j >= 0; --j)
 {
@@ -271,7 +271,7 @@ break;
 }
 try
 {
-if (I279 != -501537393)
+if (true)
 {
 std::cout << p2K_3X8y(2042123281, B5NSOt2HC1) << nN341gj << p2K_3X8y(-367032136, -808671859) << std::endl;
 }

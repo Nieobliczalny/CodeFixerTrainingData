@@ -64,7 +64,7 @@ break;
 }
 }
 }
-else if (((yQ_kJV4 <= -1390498004) || (v46V > -858792523)) || (SUBo5TxWaX <= znROMsB5))
+else if (((false) || (v46V > -858792523)) || (SUBo5TxWaX <= znROMsB5))
 {
 if (S4_03M >= z5ZlQqZDh5)
 {

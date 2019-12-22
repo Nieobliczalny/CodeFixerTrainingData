@@ -43,7 +43,7 @@ do
 {
 try
 {
-if (Lz3Qkv >= -370842267)
+if (true)
 {
 xDfSKG1 = e3y7_0O(-288047377, Km85GsSyEG, -1686810802, -2008666327);
 }
@@ -83,7 +83,7 @@ std::cout << "ge67115" << "nWj7" << "YWemO" << std::endl;
 }
 else if (Km85GsSyEG != -1425387735)
 {
-if (gk1aV >= -1581170562)
+if (true)
 {
 DOUSFNoyS = e3y7_0O(-1229057832, DOUSFNoyS, SQSNwvDMs, Br9T);
 }
@@ -129,7 +129,7 @@ do
 ++i;
 if (SQSNwvDMs & sq8g_m154t)
 {
-if ((XJnA3k == Lz3Qkv) || ((mfYRnb & -1610338081) && (R2zQC == -949156393)))
+if ((XJnA3k == Lz3Qkv) || ((mfYRnb & -1610338081) && (false)))
 {
 PeKF5RJa = e3y7_0O(1134045179, mfYRnb, 1302668378, m_p0Gvp55) ^ 731215595;
 }
@@ -177,7 +177,7 @@ while (i < 7);
 }
 
 r4a4H0--;
-if (((i4g4eI1Mz9) || (XJnA3k <= -86794964)) || (m_p0Gvp55 <= -867486218))
+if (((i4g4eI1Mz9) || (false)) || (m_p0Gvp55 <= -867486218))
 {
 {
 int j = 0;
@@ -207,7 +207,7 @@ int i = 0;
 while (i < 10)
 {
 ++i;
-if (gk1aV != 91721826)
+if (true)
 {
 DOUSFNoyS = e3y7_0O(R2zQC, DOUSFNoyS, 578487768, xDfSKG1);
 }
@@ -230,7 +230,7 @@ i--;
 while (i >= 0);
 }
 DOUSFNoyS = (int)(gk1aV * DOUSFNoyS);
-if (ugb9 <= 1011426001)
+if (true)
 {
 if (xDfSKG1 & -378792952)
 {
@@ -247,7 +247,7 @@ k++;
 }
 }
 }
-else if (Gs1p < -1351710771)
+else if (false)
 {
 try
 {
@@ -281,7 +281,7 @@ gk1aV = (int)abs(r4a4H0);
 while (j >= 0);
 }
 }
-else if (gk1aV != -422753888)
+else if (true)
 {
 switch (PeKF5RJa)
 {
@@ -325,7 +325,7 @@ xDfSKG1 = e3y7_0O(xDfSKG1, mfYRnb, 1434768379, m_p0Gvp55);
 }
 else if (XJnA3k == m_p0Gvp55)
 {
-if ((sq8g_m154t == -2099009074) && (XJnA3k >= 635367910))
+if ((sq8g_m154t == -2099009074) && (false))
 {
 XJnA3k = Gs1p + 104431296;
 }
@@ -343,7 +343,7 @@ SQSNwvDMs = mfYRnb ^ R2zQC;
 }
 }
 std::cout << e3y7_0O(-1456589619, -946943096, 1427325141, m_p0Gvp55) << "khZ2oA" << "GF3w7nb7A6" << e3y7_0O(xDfSKG1, 1467014432, 1267476795, 1887644513) << "Gg601MA79u" << std::endl;
-if (xDfSKG1 >= 56639306)
+if (false)
 {
 if (PeKF5RJa <= -1060394300)
 {

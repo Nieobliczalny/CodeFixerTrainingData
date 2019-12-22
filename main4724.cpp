@@ -227,7 +227,7 @@ while (k < 3);
 }
 std::cout << s_7WAvH << ng6FIK << "N9RUeXoRJ" << "YmwB_Ag" << o_U6QrB << std::endl;
 
-if ((wZot == iuMRfPjN3) || ((PbFRP >= 741752075) && (Vzxydj <= ons3tsWul)))
+if ((wZot == iuMRfPjN3) || ((PbFRP >= 741752075) && (false)))
 {
 {
 int j = 10;

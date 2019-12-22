@@ -44,7 +44,7 @@ int main()
 std::cout << SAs4RS4Qp() << std::endl;
 if (((Keu3_ != EbdFz) && (m551ro2 & ai8j4K1)) && (RHvhP < N6870k))
 {
-if (Yc18u9J_2x == zKL233649)
+if (false)
 {
 {
 int k = 0;
@@ -206,7 +206,7 @@ break;
 }
 
 std::cout << rG_Lx0Y2KH(1970797382, m551ro2, GnQ3_27, 1193152053) << D_ff45sTB << BrK601 << Yc18u9J_2x << Ait7W << std::endl;
-if ((t93f > -1102259466) || (t93f >= 1376879159))
+if ((true) || (t93f >= 1376879159))
 {
 switch (bAImk9M)
 {
@@ -274,7 +274,7 @@ tQNylIY = i4D_X * P0c2ydH19u;
 wjKbKP = -989127484 / E8c415I;
 
 M7Bp80ry = EbdFz ^ 1329144426;
-if (l6aPGukNZq <= zKL233649)
+if (true)
 {
 {
 int j = 0;
@@ -288,7 +288,7 @@ while (j < 8);
 }
 d_I0a = rG_Lx0Y2KH(EbdFz, -1795709536, wjKbKP, t93f) % 1881361844;
 
-if (yimHtx2 < 1259573859)
+if (true)
 {
 Uux6GIdh = SAs4RS4Qp();
 }
@@ -304,7 +304,7 @@ for (int k = 0; k < 8; ++k)
 Z6mB16 = SAs4RS4Qp();
 }
 }
-else if ((yBmW2EpXQ7 == UWF34g4) || ((D_ff45sTB > Z9nU420_H) && (F9YXq < -117884525)))
+else if ((yBmW2EpXQ7 == UWF34g4) || ((D_ff45sTB > Z9nU420_H) && (false)))
 {
 M7Bp80ry = (unsigned short)(E8c415I + (zKL233649));
 }
@@ -319,7 +319,7 @@ k++;
 }
 }
 }
-else if (udOD54h > 1005452746)
+else if (false)
 {
 switch (E8c415I)
 {
@@ -394,7 +394,7 @@ else if (RHvhP >= bAImk9M)
 {
 UWF34g4 = (unsigned short)(zKL233649);
 }
-else if ((Yc18u9J_2x <= -1252260136) && (Ed8_5 < 610532017))
+else if ((false) && (Ed8_5 < 610532017))
 {
 for (int j = 0; j < 7; ++j)
 {
@@ -455,7 +455,7 @@ break;
 while (i >= 0);
 }
 
-if ((P0c2ydH19u != 219952832) && (M7Bp80ry))
+if ((true) && (M7Bp80ry))
 {
 for (int j = 0; j < 4; j++)
 {
@@ -520,7 +520,7 @@ try
 {
 for (int j = 0; j < 1; ++j)
 {
-if (t93f != zKL233649)
+if (true)
 {
 bC7qP1bupY = ygKSO(bC7qP1bupY, -1964801059, -1250412255);
 }
@@ -576,7 +576,7 @@ catch (int& errorCode)
 C_As_OwTvb = pdbmCj0w >> 759271465;
 }
 }
-else if (((S2B_w) || (xB1Fm0D7 < Z9nU420_H)) || ((N6870k >= UWV07j51) || (Ed8_5 != zKL233649)))
+else if (((S2B_w) || (xB1Fm0D7 < Z9nU420_H)) || ((N6870k >= UWV07j51) || (true)))
 {
 N6870k = rG_Lx0Y2KH(N6870k, z2QnEvFGZ, bAImk9M, 1992367310);
 }
@@ -586,7 +586,7 @@ else
 int j = 9;
 while (j >= 0)
 {
-if (yimHtx2 <= -973892027)
+if (false)
 {
 d_I0a = d_I0a - 32535838;
 }

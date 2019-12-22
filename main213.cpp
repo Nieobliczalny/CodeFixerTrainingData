@@ -165,7 +165,7 @@ catch (int& errorCode)
 HA3MS3++;
 }
 }
-if (((mofi != 1297148653) && (hOGYln >= 490060688)) && (Abq7 >= 843790961))
+if (((mofi != 1297148653) && (hOGYln >= 490060688)) && (false))
 {
 std::cout << rk_h_T << "jRdO4g5" << yZcok << L2_ykO(1942708429, -985865572, 422099911, 1006635257) << "gcw_" << std::endl;
 }
@@ -196,7 +196,7 @@ EAC2b = rHWNQK0 / 385781687;
 break;
 }
 }
-else if (((uz_LWsu27m >= 1127885786) || (G99bt53uaC <= -1231010510)) && (ci_2m1 <= 443859572))
+else if (((uz_LWsu27m >= 1127885786) || (G99bt53uaC <= -1231010510)) && (true))
 {
 switch (PesjkwH07)
 {
@@ -224,7 +224,7 @@ else if (avS78HZ == -1220369816)
 {
 M6O18 = d6Abekm6t(M6O18);
 }
-else if (PUsiQOnAo != -1029327275)
+else if (true)
 {
 O933OJ = (long long)(QVva7z);
 }
@@ -317,7 +317,7 @@ rHWNQK0--;
 }
 }
 }
-else if ((Oron68HFzq > -1918763516) && ((u2YF247 == -8502324) || (JK9cW52e3 < -453384997)))
+else if ((true) && ((u2YF247 == -8502324) || (JK9cW52e3 < -453384997)))
 {
 mofi = YiGole();
 }
@@ -330,7 +330,7 @@ vOkpo = (unsigned short int)(gTT9N3Sp0 + (-382600701));
 std::cout << "ElKD2N" << "x624" << L2_ykO(j58KZEWu8I, G99bt53uaC, -359317901, 806166850) << f8eY_ER84 << WU89mR3c_ << std::endl;
 G99bt53uaC = (unsigned long)(pPc70);
 
-if ((G91Z_Ejwi >= -1520811269) || (G91Z_Ejwi & MfJ9))
+if ((true) || (G91Z_Ejwi & MfJ9))
 {
 {
 int j = 0;

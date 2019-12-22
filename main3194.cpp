@@ -254,7 +254,7 @@ if ((O1cMugw > -1527919213) && ((wc9g7_DM >= JRQJAD0J4g) || (wc9g7_DM != 1796722
 LVECDYK = (char)(F5d5);
 }
 }
-else if (F5d5 >= 1933782757)
+else if (false)
 {
 d5_kfOWWk = (unsigned long)(k14qk);
 }

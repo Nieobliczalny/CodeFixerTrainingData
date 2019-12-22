@@ -43,7 +43,7 @@ int main(void) {
  short n3t_H = 549282659;
   unsigned short int  e1j_E  =  -1245815273;
 
-if (e1j_E >= -1797497924)
+if (true)
 {
 Z87T = (long)(Y651_O4);
 }
@@ -68,7 +68,7 @@ R_8L = (Dy7jO35) ? -2029657417 : pU0_c;
 AUhc8F = (short)(JYCv_cF6 + (36500525));
 if (f18H != taxo45Z33)
 {
-if (Y651_O4 < 572731522)
+if (true)
 {
 pU0_c = (int)abs(QIF0dt40);
 }
@@ -105,7 +105,7 @@ ds5Oi_C = aKRe03 | 2073788792;
 break;
 }
 }
-else if (rq_NeI87 <= -1708979340)
+else if (false)
 {
 m3n6k973f = k85pis / 153112688;
 }

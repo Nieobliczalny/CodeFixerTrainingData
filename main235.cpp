@@ -212,7 +212,7 @@ break;
 }
 else if (X8pSx8g1n & 2046685730)
 {
-if (J3q0N5PDXR < -712300003)
+if (false)
 {
 fK_v763S = QbQ4MU(J3q0N5PDXR, fK_v763S);
 }

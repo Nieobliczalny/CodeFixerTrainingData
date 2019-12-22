@@ -30,7 +30,7 @@ do
 {
 if ((AARy5K_) || ((PHE43Dc < -2108317905) && (SlB2cV >= 1252409311)))
 {
-if ((DMaM4 <= xTm1) || ((Ix4Y > MNYNoo_9F6) || (bMFMpr == 1131128979)))
+if ((DMaM4 <= xTm1) || ((Ix4Y > MNYNoo_9F6) || (false)))
 {
 AARy5K_ = (int)floor(k71312);
 }
@@ -145,7 +145,7 @@ while (i < 10);
 }
 if (qhiQl81y_4 < b6G9N74bSp)
 {
-if ((oPF__Rq87 > -393013030) && (oPF__Rq87))
+if ((true) && (oPF__Rq87))
 {
 {
 int k = 0;

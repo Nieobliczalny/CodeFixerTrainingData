@@ -348,7 +348,7 @@ if (JJ_EyiyMaK != qJn3tuve)
 {
 if ((sYE6D < 2112033748) || (LaEY))
 {
-if (hXG18 <= 66338296)
+if (true)
 {
 QX_b_ *= y2uT2;
 }
@@ -364,7 +364,7 @@ else if (pg0o22 <= 1152949281)
 {
 XEXY4aK3dl = ip92S5tN6 + 1081918400;
 }
-else if (((hXG18 < 1543971504) && (hx_2 <= -515217571)) || (NHlpKv3 & 1558035740))
+else if (((true) && (hx_2 <= -515217571)) || (NHlpKv3 & 1558035740))
 {
 QX_b_ = y2uT2 ^ MG1r_y9y;
 }

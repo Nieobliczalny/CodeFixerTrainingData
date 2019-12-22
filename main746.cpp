@@ -93,7 +93,7 @@ IZpP8fKfA7 = q47_l2n8b(IZpP8fKfA7, GMoUtd);
 break;
 }
 }
-else if ((rKKH80 < -92989051) || (h6r_hW88IK >= 1343222490))
+else if ((rKKH80 < -92989051) || (false))
 {
 GVfR = (unsigned short)(Z0jI);
 }
@@ -152,7 +152,7 @@ do
 {
 try
 {
-if (LBMuu > 640619249)
+if (false)
 {
 AtwesJuez = q47_l2n8b(-34065115, fSY56G6);
 }
@@ -171,7 +171,7 @@ while (i < 10);
 }
 try
 {
-if ((zT3Fhc <= -2021182823) || (p6F36wK > 1838788774))
+if ((false) || (p6F36wK > 1838788774))
 {
 Yqn3V29 = (unsigned short)(U5Su);
 }
@@ -266,7 +266,7 @@ break;
 std::cout << "z61fA10kn" << TE69(137306767, -721263993, ToQM73) << "P2atk9t7" << std::endl;
 
 FI2T7 = (int)floor(GMoUtd);
-if (V_xaV0 <= 1720141748)
+if (true)
 {
 IZpP8fKfA7 = (unsigned long long)(LBMuu);
 }

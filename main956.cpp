@@ -105,7 +105,7 @@ else if (o8l0Oyjszw <= 1746834753)
 int j = 0;
 do
 {
-if (((BL2bn == -548670131) || (DwrO5kQm == 2060590490)) || ((a804k590 <= 1169101924) && (bx715_)))
+if (((false) || (DwrO5kQm == 2060590490)) || ((a804k590 <= 1169101924) && (bx715_)))
 {
 v2t784r22 = (int)abs(Ox8g8al6);
 }
@@ -151,7 +151,7 @@ cout << Q79vmrMA0v << JEc0g4e89 << G7_UyU << endl;
 }
 o4nv = AgoP | Sq_3v;
 
-if (Q2Ht85c5bI > 972531219)
+if (false)
 {
 nh_k6u77v0 = (unsigned short int)(o01_57ba);
 }
@@ -273,7 +273,7 @@ bx715_ -= Sj_2oaj;
 }
 while (i >= 0);
 }
-if (Sj_2oaj <= 57993539)
+if (true)
 {
 for (int j = 0; j < 8; ++j)
 {

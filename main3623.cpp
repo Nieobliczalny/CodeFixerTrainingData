@@ -22,7 +22,7 @@ int main(int argc, char** argv) {
     unsigned char    HZGztKZQ    =    1247866705,    Ra0rVd    =    549795021,    ofqs97    =    -1707725135,    u428oOUh    =    -123295552,    cOxml    =    977465386;
   unsigned short int  fWH65  =  0,  Ww83Zg  =  0,  WOthLG3dy  =  0,  Euf3tj  =  0;
 
-if ((Ra0rVd >= -1991601257) && ((Ra0rVd & Euf3tj) || (Euf3tj < Ww83Zg)))
+if ((true) && ((Ra0rVd & Euf3tj) || (Euf3tj < Ww83Zg)))
 {
 fWH65 = (unsigned short int)(Ww83Zg);
 }
@@ -60,7 +60,7 @@ break;
 }
 }
 }
-else if (Ww83Zg < 1926889267)
+else if (true)
 {
 if ((cOxml <= cJp2N) && (fWH65 == -202170922))
 {
@@ -92,7 +92,7 @@ u428oOUh = ofqs97 ^ 1107611660;
 break;
 }
 }
-else if ((ofqs97 < cJp2N) || ((Ra0rVd != -853141612) || (WOthLG3dy >= u428oOUh)))
+else if ((false) || ((Ra0rVd != -853141612) || (WOthLG3dy >= u428oOUh)))
 {
 switch (WOthLG3dy)
 {
@@ -135,7 +135,7 @@ break;
 }
 else if (cOxml == HZGztKZQ)
 {
-if (Ww83Zg > cJp2N)
+if (true)
 {
 fWH65 = t7Y_6(-660795053, 25713901, cOxml, WOthLG3dy, Ra0rVd);
 }
@@ -146,7 +146,7 @@ if (Ww83Zg >= fWH65)
 {
 ofqs97 ^= cOxml;
 }
-else if (ofqs97 == cJp2N)
+else if (false)
 {
 Ww83Zg = t7Y_6(u428oOUh, cOxml, Ww83Zg, ofqs97, Ra0rVd);
 }
@@ -164,7 +164,7 @@ Ww83Zg = t7Y_6(1514634749, ofqs97, Ww83Zg, HZGztKZQ, fWH65);
 }
 }
 }
-else if (Euf3tj < Mh2_OU7_R2)
+else if (false)
 {
 {
 int j = 8;
@@ -194,7 +194,7 @@ else if ((Ww83Zg & Pj8RxS9) && (WOthLG3dy >= HZGztKZQ))
 {
 ofqs97 += Euf3tj;
 }
-else if (Euf3tj >= 1869086005)
+else if (false)
 {
 u428oOUh++;
 }
@@ -226,7 +226,7 @@ if (HZGztKZQ > cOxml)
 {
 Ww83Zg = t7Y_6(u428oOUh, Ww83Zg, -1577335321, Ra0rVd, -901386794);
 }
-else if (Euf3tj >= 1884751613)
+else if (false)
 {
 Euf3tj = t7Y_6(cOxml, -1468592872, Euf3tj, u428oOUh, Ra0rVd);
 }
@@ -311,7 +311,7 @@ if (Euf3tj > HZGztKZQ)
 int j = 3;
 while (j >= 0)
 {
-if (ofqs97 < -1923992922)
+if (false)
 {
 HZGztKZQ |= cOxml;
 }
@@ -321,7 +321,7 @@ HZGztKZQ &= 771500910;
 }
 else if (u428oOUh < HZGztKZQ)
 {
-ofqs97 = (Ra0rVd < 1348209395) ? -505899896 : cOxml;
+ofqs97 = (true) ? -505899896 : cOxml;
 }
 else if (u428oOUh > ofqs97)
 {
@@ -373,7 +373,7 @@ break;
 i++;
 }
 }
-if ((HZGztKZQ < 1700316590) || (HZGztKZQ >= -1292278581))
+if ((true) || (HZGztKZQ >= -1292278581))
 {
 std::cout << t7Y_6(1083941974, 509108317, -853933461, Ww83Zg, Euf3tj) << t7Y_6(Ra0rVd, WOthLG3dy, 398312239, 1079014106, Euf3tj) << std::endl;
 }
@@ -442,7 +442,7 @@ if ((HZGztKZQ & Mh2_OU7_R2) || (WOthLG3dy > Ww83Zg))
 {
 WOthLG3dy = t7Y_6(WOthLG3dy, cOxml, -2143776382, 2141673242, -1866889701);
 }
-else if ((cOxml >= -1372943160) && (WOthLG3dy >= 1132486446))
+else if ((true) && (WOthLG3dy >= 1132486446))
 {
 if (HZGztKZQ >= Ww83Zg)
 {
@@ -535,7 +535,7 @@ break;
 int i = 0;
 while (i < 1)
 {
-if (WOthLG3dy > -416184198)
+if (true)
 {
 fWH65 = t7Y_6(1194495363, -1532453932, Euf3tj, WOthLG3dy, 1125829008);
 }
@@ -556,7 +556,7 @@ while (k >= 0);
 }
 std::cout << "P_8bj" << "cK35Y96x" << std::endl;
 
-if ((Ra0rVd > -381382244) || ((u428oOUh >= HZGztKZQ) && (WOthLG3dy > HZGztKZQ)))
+if ((true) || ((u428oOUh >= HZGztKZQ) && (WOthLG3dy > HZGztKZQ)))
 {
 fWH65 = t7Y_6(-932709395, 815048212, 1629080293, -412623008, -1160939905);
 }
@@ -579,7 +579,7 @@ catch (int& errorCode)
 WOthLG3dy = t7Y_6(cOxml, -252944136, -942865174, fWH65, -1133183658);
 }
 }
-else if ((ofqs97 == -685850424) && ((WOthLG3dy != HZGztKZQ) || (Euf3tj != 955825539)))
+else if ((false) && ((WOthLG3dy != HZGztKZQ) || (Euf3tj != 955825539)))
 {
 std::cout << t7Y_6(154661155, u428oOUh, -1780389228, fWH65, Ra0rVd) << std::endl;
 }
@@ -628,7 +628,7 @@ break;
 
 try
 {
-if (Ra0rVd >= -272086927)
+if (true)
 {
 std::cout << Euf3tj << t7Y_6(-1411279912, Ww83Zg, Ra0rVd, 1271999548, 1153670193) << Ww83Zg << std::endl;
 }
@@ -659,7 +659,7 @@ catch (int& errorCode)
 fWH65 = t7Y_6(Ra0rVd, fWH65, cOxml, ofqs97, 1931169498);
 }
 }
-else if (cOxml < 1057635281)
+else if (true)
 {
 switch (u428oOUh)
 {
@@ -670,7 +670,7 @@ break;
 }
 else if (Ww83Zg > -1081583136)
 {
-if (cOxml > Mh2_OU7_R2)
+if (true)
 {
 HZGztKZQ += ofqs97;
 }
@@ -767,7 +767,7 @@ for (int i = 5; i >= 0; --i)
 {
 if (fWH65)
 {
-if ((ofqs97) && (ofqs97 == Pj8RxS9))
+if ((ofqs97) && (false))
 {
 WOthLG3dy = t7Y_6(u428oOUh, Ra0rVd, -160311070, ofqs97, HZGztKZQ);
 }
@@ -780,7 +780,7 @@ WOthLG3dy = t7Y_6(cOxml, HZGztKZQ, WOthLG3dy, -1627702297, u428oOUh);
 
 try
 {
-HZGztKZQ = (Ra0rVd < Pj8RxS9) ? 911788915 : -375535840;
+HZGztKZQ = (true) ? 911788915 : -375535840;
 }
 catch (int& errorCode)
 {

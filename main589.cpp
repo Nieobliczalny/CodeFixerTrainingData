@@ -213,7 +213,7 @@ std::cout << h1Rc8f(498265312) << eC22FGbj(yr87l0R, 427086605, K1W9u) << "kPgXk4
 }
 if (f1v495Hjm & 1138240651)
 {
-if (((vFEcbFOOo & -632512057) || (f1v495Hjm >= M8NYwG1gRM)) || ((f1v495Hjm <= Oo26gtG3_) && (hfnBS6 >= uw45S_ca)))
+if (((vFEcbFOOo & -632512057) || (f1v495Hjm >= M8NYwG1gRM)) || ((f1v495Hjm <= Oo26gtG3_) && (false)))
 {
 for (int k = 0; k < 3; k++)
 {
@@ -244,7 +244,7 @@ else if (((SNw6CGd0WA & pg8fRFqZC) && (F6X6fvMxF6 == Q62Pvq)) || (Ff_0p <= M8NYw
 {
 yr87l0R = (YdRT > uw45S_ca) ? uw45S_ca : JkaHKY7;
 }
-else if (hP17Y6k5 == uw45S_ca)
+else if (false)
 {
 JkaHKY7 = eC22FGbj(JkaHKY7, zsNWQ9zaF5, 853065710);
 }

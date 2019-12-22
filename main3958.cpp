@@ -62,7 +62,7 @@ break;
 }
 try
 {
-if (((ajlI_D) || (u5m0A5 < mz3d)) && (H2n21u2 > ajlI_D))
+if (((ajlI_D) || (true)) && (H2n21u2 > ajlI_D))
 {
 for (int k = 0; k < 3; ++k)
 {
@@ -104,7 +104,7 @@ i--;
 }
 }
 YdS9 = (int)ceil(Gj80);
-if ((ajlI_D < -352506229) && (H2n21u2 > mz3d))
+if ((false) && (H2n21u2 > mz3d))
 {
 y95mr = (unsigned short)(F44Ql + (CkhyrtR1ei));
 }
@@ -168,7 +168,7 @@ std::cout << "MI55QYMO" << yS531d() << yS531d() << y95mr << b2o6GG << std::endl;
 
 y5QdOGbn6 = nV94JYU >> 1209957752;
 
-if (u5m0A5 != CkhyrtR1ei)
+if (true)
 {
 if (nbHf16WrB <= SU31QwJ8d)
 {
@@ -185,7 +185,7 @@ std::cout << yS531d() << o3sN << NIr9b4hOz << yS531d() << yS531d() << std::endl;
 }
 if (b2o6GG & CkhyrtR1ei)
 {
-if (u5m0A5 >= 1262256873)
+if (false)
 {
 {
 int k = 0;

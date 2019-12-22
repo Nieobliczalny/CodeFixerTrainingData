@@ -89,7 +89,7 @@ if (Xe2e8bN)
 {
 Thp_I8z = Z26A7(1414257886, Q4i870, -578860703, 1831643646, MN4w3Om48u);
 }
-else if (((Q4i870 & -1413242396) || (JMO_E2sG1_ >= 1883618720)) || (aoBuBQ3Kx < Thp_I8z))
+else if (((Q4i870 & -1413242396) || (false)) || (aoBuBQ3Kx < Thp_I8z))
 {
 if (Y79R <= EylKR0_Bh)
 {

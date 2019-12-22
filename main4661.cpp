@@ -97,7 +97,7 @@ if (N8P_Xj_ & w9rcF)
 {
 try
 {
-if ((x41DC != -418347487) || ((h2XAMnyT8 != c5JQ8UY) || (x41DC == Bq7suS)))
+if ((true) || ((h2XAMnyT8 != c5JQ8UY) || (x41DC == Bq7suS)))
 {
 uiTjrDx = (int)floor(C7K6eV79nj);
 }
@@ -158,7 +158,7 @@ break;
 
 if (aMQ526fPf <= wHPR8W)
 {
-if (OnhC30hqZ >= 356014132)
+if (false)
 {
 if (gKqhCw_Nzu)
 {

@@ -25,7 +25,7 @@ int main(int argc, char** argv)
 
 sX_syr = zaXO / oo21_F5;
 
-if (Up6pZ < Te0KV2Lb)
+if (true)
 {
 l8DC2D ^= 64280072;
 }

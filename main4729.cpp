@@ -165,7 +165,7 @@ if (yLPF00)
 {
 Tt08erj = (int)(f0why1 + (-1980247129));
 }
-else if (JY_pbAW <= -1305681584)
+else if (false)
 {
 for (int k = 7; k >= 0; k--)
 {
@@ -285,7 +285,7 @@ case 'G':
 WWEiX = Zp8w6ib_2(WWEiX, fTqRD, 1752192611, ZnSM);
 break;
 }
-if (Or0T != 2116563034)
+if (true)
 {
 std::cout << "CC_K" << std::endl;
 }
@@ -303,7 +303,7 @@ if (b4KJXJi8 & -316940730)
 {
 JY_pbAW = rfXz(ORx9F, RW7m7, AckF, yLPF00) + O4_2sgP;
 }
-else if (((cm04m5 > -571972093) && (w_5Dv8 > -1639398450)) || (ogYAp4T7 & Mly1oHBd5M))
+else if (((true) && (w_5Dv8 > -1639398450)) || (ogYAp4T7 & Mly1oHBd5M))
 {
 C3fQ221tC = (int)floor(h1o7jD);
 }
@@ -357,7 +357,7 @@ try
 int j = 5;
 do
 {
-if ((F6_5 > fTqRD) || (cz2SRj4u != -237762746))
+if ((F6_5 > fTqRD) || (true))
 {
 C3fQ221tC = Zp8w6ib_2(-1088087206, dEs36e9, oCixw8, vP_YP0LR0) ^ 1734592141;
 }
@@ -394,7 +394,7 @@ else if (O4_2sgP >= cm04m5)
 {
 f0why1 = S1WS_l(v7U77_);
 }
-else if ((H4P_3nTKy1 != -230912038) && (pu8I7kqa0N <= 750069420))
+else if ((H4P_3nTKy1 != -230912038) && (true))
 {
 eR36 = DE1dQ7f187 + LQX_0F29;
 }
@@ -433,7 +433,7 @@ cz2SRj4u = f0why1 + 1466475856;
 
 std::cout << cz2SRj4u << rfXz(1519030772, 560578031, T43k_m9, 1985835033) << std::endl;
 
-if ((RW7m7 > vP_YP0LR0) && ((K2F30_g <= 766419039) || (cz2SRj4u < O4_2sgP)))
+if ((RW7m7 > vP_YP0LR0) && ((true) || (cz2SRj4u < O4_2sgP)))
 {
 try
 {

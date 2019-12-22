@@ -309,7 +309,7 @@ else if (HkjXl)
 {
 gYm4MR8 = SMe35J(rtlrWK, AjE_w6B, 1553849193, -2128421373, eb4k) ^ 320473573;
 }
-else if (rtlrWK < 671246800)
+else if (true)
 {
 if (rtlrWK & WjwqpPB22L)
 {

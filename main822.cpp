@@ -15,7 +15,7 @@ int main(void)
  unsigned short int a6C93 = 1867151835, g5_7cph5n = 646845826, BzeTTs = 708740549, YzDU6f = 217066745, qMpMwzISR = -1163132915, Ff1s2tqR = -1067455555, E2E8k8H = 1164483277, d2fY = 1190075681, Li_5S3lv = 671448867, W9Yr586Igj = 814572918, O3HDIQ8gMV = -1145683803, M13HJS = -1503775155, a19G3qjYBB = 51896605, k_09DT2m_ = 336209972, N8Ggh1Ec = -1564928435, UyC1999 = -1716083076, V8Q4llduS = -1907391991, BkTd = 522884684, wkD4n = -1098468829, a3p72dR = 316167624, yd2e_ = -1254843143, p50L_ = -178537027, d1y8SA = 2145878653, y45ef = 960402841, T7Ukb3um = 516552684, Z0_65s = 1237592547, BOHfR4sX = 200088800, PP8iT1QEO5 = -334709121, U1A2Zo8fX0 = -2131154509, K6bz = -1057792146, Rq4I_7 = -160783159, OtkDog4y_9 = -801882411, jIvm2jm1l = 1925185342, PYch = -1851096910, r_PA = -2112491143, rs87Y = -863037239, ZPtXkq = -425703333, NX5e8U1v3 = -637348070, kj0aJ = -2106657858, N6WRy20 = 4007344, grKpl = -1471615500, P_LE_ = 795179277, nnl6 = -98333677;
 	unsigned short int	Ibx94Shv7	=	0;
 
-if (p50L_ <= -357533247)
+if (false)
 {
 switch (kj0aJ)
 {
@@ -171,7 +171,7 @@ break;
 std::cout << OPK_1(-407714985) << std::endl;
 if (y45ef & OtkDog4y_9)
 {
-if (U1A2Zo8fX0 <= -382004319)
+if (false)
 {
 Ibx94Shv7 = OPK_1(r_PA);
 }
@@ -209,7 +209,7 @@ E2E8k8H %= g5_7cph5n;
 break;
 }
 }
-else if (M13HJS >= 1647946658)
+else if (false)
 {
 wkD4n |= PYch;
 }
@@ -238,7 +238,7 @@ int j = 0;
 do
 {
 j++;
-if (BkTd <= -1619989037)
+if (false)
 {
 Ibx94Shv7 = OPK_1(BkTd);
 }
@@ -250,7 +250,7 @@ else if (((V8Q4llduS != wkD4n) && (E2E8k8H)) && (N8Ggh1Ec == -1862521742))
 {
 a3p72dR = kj0aJ << 340175383;
 }
-else if ((a6C93 != -226377188) && (BOHfR4sX & -181565587))
+else if ((true) && (BOHfR4sX & -181565587))
 {
 Ibx94Shv7 = OPK_1(grKpl);
 }
@@ -272,7 +272,7 @@ while (j < 2);
 }
 if (jIvm2jm1l != BkTd)
 {
-if (BkTd < -1496509297)
+if (false)
 {
 if (((N8Ggh1Ec) || (ZPtXkq)) || (a19G3qjYBB == -2044168893))
 {
@@ -315,7 +315,7 @@ break;
 }
 }
 
-if ((N8Ggh1Ec >= 1529552923) && (Ff1s2tqR >= wkD4n))
+if ((false) && (Ff1s2tqR >= wkD4n))
 {
 try
 {

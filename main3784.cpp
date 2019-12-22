@@ -206,7 +206,7 @@ EVu7W7 /= U2BGr2GtX;
 }
 else
 {
-if (gtisNKX != uk082Op6)
+if (true)
 {
 GQ2_WFq55 = d6Mu(f1ZidmdEmI, Ctb06zBL0g);
 }

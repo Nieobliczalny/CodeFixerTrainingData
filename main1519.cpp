@@ -430,7 +430,7 @@ i--;
 }
 }
 
-if (opYKW4m == 1260451557)
+if (false)
 {
 switch (aJ0uqNbl)
 {
@@ -481,7 +481,7 @@ for (int i = 5; i >= 0; i--)
 {
 for (int j = 0; j < 6; j++)
 {
-if (APi5 == -266407284)
+if (false)
 {
 x8H4 = (int)floor(r6Fp);
 }

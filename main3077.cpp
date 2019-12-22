@@ -115,7 +115,7 @@ int main(void)
 	kI_Stie	=	-2039330306;
 	PN20bca	=	35298692;
 
-if (QkDQ >= 126519171)
+if (false)
 {
 if (kI_Stie <= -661801791)
 {
@@ -157,7 +157,7 @@ do
 {
 try
 {
-if (lcw8 < 300608249)
+if (true)
 {
 EDZrT_PSyT--;
 }

@@ -26,7 +26,7 @@ for (int j = 0; j < 9; j++)
 mtqB5N6ylR = (short int)(tc2RN2sF);
 }
 }
-else if (mtqB5N6ylR > 1931599237)
+else if (false)
 {
 if (rSaTaUP > hBH7955pIJ)
 {
@@ -42,7 +42,7 @@ while (k >= 0);
 }
 else
 {
-if (mtqB5N6ylR <= 29814363)
+if (true)
 {
 rSaTaUP = yD38RGf9 - U3J1x0EN2k;
 }
@@ -140,7 +140,7 @@ while (i >= 0);
 }
 for (int i = 3; i >= 0; i--)
 {
-if (tc2RN2sF <= -305915268)
+if (false)
 {
 if (((rSaTaUP) || (rSaTaUP < -1543507389)) && (U3J1x0EN2k <= 1735307581))
 {
@@ -184,7 +184,7 @@ else
 cout << TktqO5ms(-1008059036) << TktqO5ms(-624695612) << endl;
 }
 }
-if (((mtqB5N6ylR < hBH7955pIJ) || (U3J1x0EN2k > 1309582232)) || (tc2RN2sF > 1012432318))
+if (((mtqB5N6ylR < hBH7955pIJ) || (U3J1x0EN2k > 1309582232)) || (false))
 {
 for (int j = 0; j < 4; j++)
 {
@@ -208,7 +208,7 @@ break;
 }
 }
 }
-if (((i5aioQOU8w >= -1046733553) && (rSaTaUP & U3J1x0EN2k)) || ((hBH7955pIJ >= tc2RN2sF) || (yD38RGf9)))
+if (((true) && (rSaTaUP & U3J1x0EN2k)) || ((hBH7955pIJ >= tc2RN2sF) || (yD38RGf9)))
 {
 rSaTaUP /= 2001039977;
 }
@@ -224,7 +224,7 @@ cout << "z151C" << w0oSg9 << endl;
 while (j >= 0);
 }
 }
-else if (tc2RN2sF >= 1727894581)
+else if (false)
 {
 mtqB5N6ylR = (short int)(i5aioQOU8w);
 }
@@ -338,7 +338,7 @@ if (mtqB5N6ylR == 0)
 	hBH7955pIJ = TktqO5ms(582340812) / mtqB5N6ylR;
 }
 
-if (mtqB5N6ylR <= -315828323)
+if (false)
 {
 for (int j = 0; j < 10; j++)
 {
@@ -529,7 +529,7 @@ catch (int& errorCode)
 mtqB5N6ylR = TktqO5ms(-1127663100);
 }
 }
-else if ((tc2RN2sF == 539998495) || (rSaTaUP != -9954537))
+else if ((false) || (rSaTaUP != -9954537))
 {
 {
 int j = 0;
@@ -541,7 +541,7 @@ i5aioQOU8w = (int)abs(mtqB5N6ylR);
 while (j < 7);
 }
 }
-else if (((hBH7955pIJ < -1260345265) || (rSaTaUP >= -163053252)) && (mtqB5N6ylR != 212664049))
+else if (((hBH7955pIJ < -1260345265) || (rSaTaUP >= -163053252)) && (true))
 {
 if ((U3J1x0EN2k <= mtqB5N6ylR) || ((i5aioQOU8w) || (mtqB5N6ylR > -672293023)))
 {
@@ -551,7 +551,7 @@ else if (((rSaTaUP > tc2RN2sF) || (hBH7955pIJ & -176207651)) && (hBH7955pIJ))
 {
 cout << TktqO5ms(yD38RGf9) << "UO1sAV0" << endl;
 }
-else if (((tc2RN2sF > U3J1x0EN2k) || (mtqB5N6ylR != 713526964)) && (hBH7955pIJ == i5aioQOU8w))
+else if (((tc2RN2sF > U3J1x0EN2k) || (true)) && (hBH7955pIJ == i5aioQOU8w))
 {
 cout << hBH7955pIJ << TktqO5ms(yD38RGf9) << endl;
 }

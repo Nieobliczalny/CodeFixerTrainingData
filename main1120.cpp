@@ -22,7 +22,7 @@ for (int i = 7; i >= 0; i--)
 {
 e0l30_4k7 = (int)abs(o1eb59n);
 }
-Y5D_57gC = (pA2a6 >= 647755590) ? wYE65 : -257981303;
+Y5D_57gC = (false) ? wYE65 : -257981303;
 
 UJ_4w = (short int)(yeKaWed0);
 
@@ -33,7 +33,7 @@ int j = 8;
 while (j >= 0)
 {
 --j;
-if (tml4 != 1626993337)
+if (true)
 {
 pA2a6 += ZB_i5p_gR2;
 }
@@ -142,7 +142,7 @@ while (j < 7);
 EAb48qB = lOnEs8u(-1395371671, -1529509738, P89KeCs, e0l30_4k7);
 for (int i = 3; i >= 0; --i)
 {
-if ((CRpt > 691543019) && (ZQeejF8f == -1721429304))
+if ((CRpt > 691543019) && (false))
 {
 w47hT = (short int)(X33_TFrW1);
 }
@@ -165,7 +165,7 @@ else if (ZB_i5p_gR2 & -599242667)
 {
 yrK9rZP = (short int)(EXOg2x);
 }
-else if (UivqmGHi_ >= -4385994)
+else if (true)
 {
 {
 int k = 0;

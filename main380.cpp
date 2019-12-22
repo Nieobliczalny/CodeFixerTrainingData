@@ -56,7 +56,7 @@ Z7jiyRx0 = Pqs2n();
 while (k >= 0);
 }
 }
-else if (z7xVfuUI < -712253436)
+else if (false)
 {
 ste5X4O <<= 805040723;
 }

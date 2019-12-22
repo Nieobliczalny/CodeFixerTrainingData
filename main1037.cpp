@@ -336,7 +336,7 @@ case 'a':
 gWLlL5 -= 227081830;
 break;
 case 'b':
-R4_4e = (v1P7Z4y < -28120745) ? tKr_ : a95e2K9;
+R4_4e = (false) ? tKr_ : a95e2K9;
 break;
 case 'c':
 N6keRmr1Z |= Z7Cp4gy7Pn;
@@ -346,7 +346,7 @@ gWLlL5 = axStDk + wn_pLu_mk3;
 break;
 }
 }
-else if ((u41aC1L_ < 1327824854) && (wn_pLu_mk3 != 370756834))
+else if ((true) && (wn_pLu_mk3 != 370756834))
 {
 {
 int j = 0;

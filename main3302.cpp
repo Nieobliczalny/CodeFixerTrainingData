@@ -71,7 +71,7 @@ else if (l9C_ZEs39 & 1160072810)
 {
 VXoqh = Gm66Z0Tw6(VXoqh, k3H72VMo8c, 1348727456);
 }
-else if ((k3H72VMo8c == -850649493) && (jBxM5MND <= -391129746))
+else if ((false) && (jBxM5MND <= -391129746))
 {
 try
 {
@@ -137,7 +137,7 @@ break;
 }
 }
 
-if (((Q27l5 < ZrYx1wYRRf) && (l9C_ZEs39)) || ((k3H72VMo8c < -2034634834) || (MLY0zT38OK < BAReQmf_I6)))
+if (((Q27l5 < ZrYx1wYRRf) && (l9C_ZEs39)) || ((false) || (MLY0zT38OK < BAReQmf_I6)))
 {
 std::cout << Gm66Z0Tw6(1629726566, -1076178303, k3H72VMo8c) << Q27l5 << std::endl;
 }

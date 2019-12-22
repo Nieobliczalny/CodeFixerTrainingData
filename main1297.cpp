@@ -55,7 +55,7 @@ int main(int argc, char** argv)
 
 for (int i = 4; i >= 0; --i)
 {
-if (kg7q2n_P < kHSuq70c9s)
+if (true)
 {
 {
 int k = 0;
@@ -69,7 +69,7 @@ while (k < 5);
 }
 else
 {
-if (((HKnDHE == 1989762585) && (uO7x82M_ != yvyV)) && (n7aM != DnIy_))
+if (((false) && (uO7x82M_ != yvyV)) && (n7aM != DnIy_))
 {
 x4R__05jE = (int)ceil(j7PyGmM);
 }
@@ -92,7 +92,7 @@ while (i >= 0);
 }
 
 kg7q2n_P = (unsigned short int)(kHSuq70c9s);
-if (F1P1Dx_y != -564744168)
+if (true)
 {
 {
 int j = 2;
@@ -289,7 +289,7 @@ if (zMrgj2_ == 0)
 }
 if (SWo02)
 {
-if (((ZT6q2 == -697734222) && (ZT6q2 == kHSuq70c9s)) || (YwJvv >= kHSuq70c9s))
+if (((false) && (ZT6q2 == kHSuq70c9s)) || (YwJvv >= kHSuq70c9s))
 {
 l6h1A = (int)abs(HNE4b7_);
 }
@@ -307,7 +307,7 @@ eVyO8 = eVyO8 << A_KXIVa;
 }
 else if (uv_r)
 {
-if (kg7q2n_P > kHSuq70c9s)
+if (false)
 {
 l6h1A = (char)(ce01N);
 }
@@ -347,7 +347,7 @@ l6h1A = (int)abs(j7PyGmM);
 int i = 0;
 while (i < 9)
 {
-if (Lk7P > ce01N)
+if (true)
 {
 try
 {

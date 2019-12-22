@@ -146,7 +146,7 @@ int main(int argc, char** argv) {
 
 for (int i = 0; i < 2; ++i)
 {
-if ((oXNvY053 > Se89d) && (NFu_PbSPWn >= snaBb99mT))
+if ((oXNvY053 > Se89d) && (true))
 {
 if ((WmZ1tbqUt) || (Z6fr779654))
 {
@@ -187,7 +187,7 @@ oXNvY053 = (int)ceil(lp2OXPrDR);
 }
 }
 
-if ((U65gA1D4y2 <= Uc4yxkTd) && (tx41FP & u68wpZ_2))
+if ((false) && (tx41FP & u68wpZ_2))
 {
 {
 int j = 0;

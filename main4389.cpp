@@ -54,7 +54,7 @@ W5o6tjBH %= Dz4u5r89;
 }
 else if (vd0w == 2016434679)
 {
-if (S27ZMKcb != -1786229564)
+if (true)
 {
 t_r5Zkf1m9 >>= Cf8aUO7K6;
 }

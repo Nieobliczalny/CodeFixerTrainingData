@@ -69,7 +69,7 @@ if (gY4n0ADi)
 int j = 0;
 do
 {
-if (rK_k_ == 290272258)
+if (false)
 {
 BxreXk0 = OlURwR2Gn & 261563374;
 }
@@ -82,7 +82,7 @@ kg45of__C1 = y4rxzL64CF - gY4n0ADi;
 while (j < 6);
 }
 }
-else if ((smV7) || ((T7cB0 <= 1050686246) || (FfzKFt0 <= Y6Upbly)))
+else if ((smV7) || ((true) || (FfzKFt0 <= Y6Upbly)))
 {
 moWlP = (unsigned char)(u35KW);
 }
@@ -94,7 +94,7 @@ else if ((OlURwR2Gn == -1470039590) && (QT04qpHX46 <= -748559886))
 {
 try
 {
-if ((OlURwR2Gn < J0_S5s) && ((D1ynq1Z & u35KW) && (Kk6_9_ & xom9zAT4)))
+if ((true) && ((D1ynq1Z & u35KW) && (Kk6_9_ & xom9zAT4)))
 {
 j4_FhvM5 = V_v6wA6(1116876228);
 }
@@ -112,7 +112,7 @@ else if (((n0g60982 <= ELb944) || (d1IS9C34k)) || (lznXBlT == IwbPn_0))
 {
 for (int j = 0; j < 9; j++)
 {
-if (u_23p >= 722549900)
+if (false)
 {
 j4_FhvM5 = V_v6wA6(moWlP);
 }
@@ -126,7 +126,7 @@ IwbPn_0 = gY4n0ADi - kg45of__C1;
 }
 }
 }
-else if (QWyd9SxaOw <= -640462920)
+else if (false)
 {
 {
 int j = 0;
@@ -276,7 +276,7 @@ int i = 10;
 do
 {
 i--;
-if (ELb944 == J0_S5s)
+if (false)
 {
 {
 int k = 0;
@@ -366,7 +366,7 @@ int i = 4;
 do
 {
 i--;
-if (HTIWe90J < J0_S5s)
+if (true)
 {
 try
 {
@@ -377,7 +377,7 @@ catch (int& errorCode)
 n0g60982 = MKnkn_7rQ_ >> 2065947255;
 }
 }
-else if (OgjjfkbMW > -364414631)
+else if (true)
 {
 J46zDaKsoY = V_v6wA6(lznXBlT);
 }
@@ -402,7 +402,7 @@ LsIm = j4iL * 98104811;
 }
 while (i >= 0);
 }
-if (mjUQbxSj < u35KW)
+if (true)
 {
 if (aIAA)
 {
@@ -416,7 +416,7 @@ j4_FhvM5 = V_v6wA6(-512618488);
 while (k < 7);
 }
 }
-else if (d1IS9C34k != 1950044142)
+else if (true)
 {
 for (int k = 8; k >= 0; --k)
 {
@@ -434,7 +434,7 @@ for (int k = 10; k >= 0; k--)
 J46zDaKsoY = V_v6wA6(698782185);
 }
 }
-else if ((tiLZ8 & J0_S5s) || ((XTU0_0vq47 == u35KW) && (upRZU <= 1290045170)))
+else if ((tiLZ8 & J0_S5s) || ((false) && (upRZU <= 1290045170)))
 {
 if ((VN4EicBN <= J0_S5s) || ((rxuFKR20A1 < u35KW) || (fk6H <= Z_m6ORq7Ma)))
 {
@@ -445,7 +445,7 @@ else
 j4_FhvM5 = V_v6wA6(pLhaaYI53);
 }
 }
-else if ((Kk6_9_ != Z_m6ORq7Ma) || ((Y6Upbly >= j0isy) || (G85Em != J0_S5s)))
+else if ((true) || ((Y6Upbly >= j0isy) || (G85Em != J0_S5s)))
 {
 if (AF03M3tNE)
 {

@@ -40,7 +40,7 @@ do
 ++i;
 try
 {
-if ((QTSR4RMpW > mj8SR3S) && ((ztm8pr24 == ZV72hS_yC8) && (axS_ != 495207625)))
+if ((QTSR4RMpW > mj8SR3S) && ((ztm8pr24 == ZV72hS_yC8) && (true)))
 {
 EO9c88F08 = amL2_6x5D / FaT_529E3d;
 }
@@ -99,7 +99,7 @@ if (FwbBkMEFM & TZW2)
 {
 iN9kP = (short)(Hb_Ww8Q);
 }
-else if (B039I != 1589126259)
+else if (true)
 {
 for (int j = 3; j >= 0; j--)
 {
@@ -114,7 +114,7 @@ else if (GOH7e9i_x2 > D2l_V3)
 {
 x4VkF -= Qi03br9;
 }
-else if (Lk1k_ > -622725226)
+else if (true)
 {
 {
 int j = 5;
@@ -132,7 +132,7 @@ int j = 3;
 do
 {
 --j;
-if ((JzGeif1V18 < -1673421778) && ((o4H5x2tebG == J582_FQ_) || (jgq8 <= m9Co)))
+if ((false) && ((o4H5x2tebG == J582_FQ_) || (jgq8 <= m9Co)))
 {
 xBpn3 = (int)abs(rRtW);
 }
@@ -194,7 +194,7 @@ eOZ2b_V %= x4VkF;
 break;
 }
 }
-r1WVJk_8 = (y3kBS >= -617802259) ? 1530582927 : NelhQ;
+r1WVJk_8 = (true) ? 1530582927 : NelhQ;
 Nz1f = waBbA45C_ << Wqc5RBN;
 
 try
@@ -259,7 +259,7 @@ i--;
 }
 }
 
-if ((Il7UGl < 320305522) && ((ZV72hS_yC8 > 545832923) && (d970F == e5y8WE4)))
+if ((true) && ((ZV72hS_yC8 > 545832923) && (d970F == e5y8WE4)))
 {
 e5y8WE4 = FaT_529E3d ^ mj8SR3S;
 }

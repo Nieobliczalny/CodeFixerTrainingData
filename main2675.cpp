@@ -108,7 +108,7 @@ int i = 0;
 do
 {
 i++;
-if (SD7Dm2Ad4b >= n1xQrG)
+if (true)
 {
 if (iG4CM >= -323482258)
 {
@@ -118,7 +118,7 @@ else if ((WjN19N != pGB7ItMm) || (qBS9X < ruG3_nd))
 {
 d60twW2 = (int)abs(qBS9X);
 }
-else if ((WjN19N) && (pGB7ItMm < -605996591))
+else if ((WjN19N) && (false))
 {
 pGB7ItMm &= h_51nOSk1;
 }
@@ -130,7 +130,7 @@ else if ((d60twW2 >= n1xQrG) && ((SD7Dm2Ad4b == pGB7ItMm) && (h_51nOSk1 & 155537
 {
 qBS9X = U_My7M(SD7Dm2Ad4b, qBS9X);
 }
-else if ((qBS9X != SD7Dm2Ad4b) || (d60twW2 <= gj07Q_bX8f))
+else if ((qBS9X != SD7Dm2Ad4b) || (true))
 {
 d60twW2 = U_My7M(d60twW2, h_51nOSk1);
 }
@@ -216,7 +216,7 @@ i--;
 while (i >= 0);
 }
 WjN19N ^= 1307119221;
-if (h_51nOSk1 <= gj07Q_bX8f)
+if (true)
 {
 cout << "fy4w8" << "ztypV4I" << pGB7ItMm << endl;
 }
@@ -234,7 +234,7 @@ h_51nOSk1 += h_51nOSk1;
 }
 }
 }
-else if ((pGB7ItMm <= 397439616) || (d60twW2 <= pGB7ItMm))
+else if ((true) || (d60twW2 <= pGB7ItMm))
 {
 iG4CM = (int)abs(qBS9X);
 }
@@ -260,7 +260,7 @@ int j = 7;
 while (j >= 0)
 {
 --j;
-if (WjN19N != gj07Q_bX8f)
+if (true)
 {
 SD7Dm2Ad4b >>= 75988997;
 }
@@ -291,7 +291,7 @@ case 5:
 SD7Dm2Ad4b *= d60twW2;
 break;
 case 6:
-h_51nOSk1 = (iG4CM == 411110198) ? U_My7M(iG4CM, d60twW2) : 715406782;
+h_51nOSk1 = (false) ? U_My7M(iG4CM, d60twW2) : 715406782;
 break;
 case 7:
 iG4CM = U_My7M(-641475087, 1533853714);
@@ -301,7 +301,7 @@ break;
 h_51nOSk1 |= 2032206536;
 cout << iG4CM / d60twW2 << endl;
 
-if (d60twW2 < gj07Q_bX8f)
+if (true)
 {
 if (((pGB7ItMm < iG4CM) || (h_51nOSk1 <= ruG3_nd)) && (iG4CM < gj07Q_bX8f))
 {
@@ -322,7 +322,7 @@ int i = 0;
 do
 {
 i++;
-if ((pGB7ItMm == ruG3_nd) && (pGB7ItMm == -478091723))
+if ((pGB7ItMm == ruG3_nd) && (false))
 {
 SD7Dm2Ad4b = (unsigned short)(ruG3_nd + (33283000));
 }
@@ -335,7 +335,7 @@ SD7Dm2Ad4b -= 1753940699;
 }
 else
 {
-if (SD7Dm2Ad4b == 1545351584)
+if (false)
 {
 h_51nOSk1 = d60twW2 & 1243210292;
 }
@@ -347,7 +347,7 @@ else if (h_51nOSk1 <= SD7Dm2Ad4b)
 {
 h_51nOSk1 = iG4CM >> 327095132;
 }
-else if (iG4CM != 168509576)
+else if (true)
 {
 WjN19N += 1067169098;
 }
@@ -420,7 +420,7 @@ else if (pGB7ItMm)
 {
 cout << "zFf2m0" << d60twW2 << endl;
 }
-else if (d60twW2 == n1xQrG)
+else if (false)
 {
 for (int j = 0; j < 2; j++)
 {
@@ -473,7 +473,7 @@ d60twW2 = U_My7M(-1002929041, WjN19N);
 }
 }
 }
-if ((h_51nOSk1 != 2124473049) || (SD7Dm2Ad4b < -1329389285))
+if ((true) || (SD7Dm2Ad4b < -1329389285))
 {
 WjN19N = qBS9X >> pGB7ItMm;
 }

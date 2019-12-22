@@ -387,7 +387,7 @@ int i = 0;
 while (i < 1)
 {
 i++;
-if (((yy8_Zu < -2001412182) || (o7NP7683e0 < 1280625087)) || (nWRs07p))
+if (((false) || (o7NP7683e0 < 1280625087)) || (nWRs07p))
 {
 {
 int k = 0;
@@ -416,7 +416,7 @@ if ((PflEUQ6Qq != k7Y6B3M) && (V6SLVOyQQ != -2105171431))
 {
 v9725EZh = yv44GMz(872031676);
 }
-else if (((e9E4s > 392954583) || (H0BP19Lh_G <= mw34E0c_H_)) || ((fN0W59fNX > vL9T57B) || (InT2f & 2081391394)))
+else if (((false) || (H0BP19Lh_G <= mw34E0c_H_)) || ((fN0W59fNX > vL9T57B) || (InT2f & 2081391394)))
 {
 H0BP19Lh_G = (int)floor(u_GnI);
 }
@@ -441,7 +441,7 @@ else
 V638v7 = yv44GMz(847098386);
 }
 }
-else if (PqX8 > 1791003713)
+else if (false)
 {
 std::cout << g7b6_ << "Va408" << std::endl;
 }
@@ -478,7 +478,7 @@ if (B4P2E < 221555308)
 {
 std::cout << hL_6DQZX7t << std::endl;
 }
-else if ((nWRs07p != 2002575812) || (BZsn & -80318638))
+else if ((true) || (BZsn & -80318638))
 {
 std::cout << CRth_Qa << std::endl;
 }

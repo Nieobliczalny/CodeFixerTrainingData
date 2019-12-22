@@ -156,7 +156,7 @@ for (int i = 0; i < 4; i++)
 {
 if (C_sUVh)
 {
-if (i5T_v > 745816254)
+if (false)
 {
 V5KkKd >>= pC130_72ch;
 }
@@ -295,7 +295,7 @@ while (i >= 0);
 
 cKR2DtN3 = zj03B0 * RcL00NIy1;
 
-if (((ea5m6NWNPu > -899569143) || (eI0_ & o_6967A)) && ((vpnx >= o_6967A) && (ykjZ <= o_6967A)))
+if (((true) || (eI0_ & o_6967A)) && ((vpnx >= o_6967A) && (ykjZ <= o_6967A)))
 {
 cKR2DtN3 = (int)ceil(I9LZ);
 }
@@ -321,7 +321,7 @@ else if ((ONAG2Lf == o_6967A) && ((q6sGpfap > 2028692051) && (q2e_xhhYE != -4908
 {
 cout << Zfg4m_2 << "Eg5j" << gY396(scW6GTYwT, 471227312) << gY396(-1137669601, -1450181474) << gY396(-1195353260, l2j7) << endl;
 }
-else if (((Fab74_V != o_6967A) || (pMzba4f7j != -531079131)) && (x15zvH3 & 1174841656))
+else if (((Fab74_V != o_6967A) || (true)) && (x15zvH3 & 1174841656))
 {
 try
 {
@@ -361,7 +361,7 @@ case 5:
 dbB2 = (int)abs(RcL00NIy1) * 0;
 break;
 case 6:
-pC130_72ch = (E28Eq_qF > 1666600147) ? Fab74_V : o_6967A;
+pC130_72ch = (false) ? Fab74_V : o_6967A;
 break;
 case 7:
 TTzvmj89j >>= r04_7;

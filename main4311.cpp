@@ -47,7 +47,7 @@ n3T5AN = (short int)(tccSU * n3T5AN);
 }
 }
 
-if (((Kbr37uG_x < 602903607) || (Yf134K6Tu4 <= -345782075)) && (DIw5Up18Q == OsSfg))
+if (((true) || (Yf134K6Tu4 <= -345782075)) && (DIw5Up18Q == OsSfg))
 {
 vv9P6b = dFc_An7(-1750500786, vv9P6b, Yf134K6Tu4, -266786052, 1473921063);
 }

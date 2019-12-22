@@ -45,7 +45,7 @@ int main(void) {
 H23s3 = K0une25 / BM8Pc;
 
 KVn_v41V = (short)(zrJ1XaEo);
-if ((F_FBy1h6) && ((gb_4Q < 400205413) || (F_FBy1h6 < zrJ1XaEo)))
+if ((F_FBy1h6) && ((true) || (F_FBy1h6 < zrJ1XaEo)))
 {
 if (K0une25 <= -1193722716)
 {
@@ -61,7 +61,7 @@ cout << "l1Dl0" << "k7mk_s" << RK1442O9(-968513407, 1704131915, Y_8eL19H) << RK1
 }
 if (X2DV5 != KVn_v41V)
 {
-if ((bIi7VNHG) || (H23s3 == ZzLFl1))
+if ((bIi7VNHG) || (false))
 {
 SMbdIl = RK1442O9(JcAi1, 672039792, 2077074108);
 }
@@ -154,7 +154,7 @@ SMbdIl = RK1442O9(KVn_v41V, SMbdIl, JcAi1);
 }
 for (int i = 5; i >= 0; --i)
 {
-if (BPe416W8 != 1904553128)
+if (true)
 {
 cout << "z_M50F5FI" << RK1442O9(KVn_v41V, SMbdIl, JcAi1) << d4N0bcTD7 << "Htsgc28tQ" << endl;
 }

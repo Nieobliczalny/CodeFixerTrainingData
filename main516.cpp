@@ -26,7 +26,7 @@ int main(void)
   short int  M508,  enq4o41q_1,  c5__5O,  Sdb8,  NNz09;
     M508  =  enq4o41q_1  =  c5__5O  =  Sdb8  =  NNz09  =  0;
 
-if ((Hku6_p80) || ((u2IT >= -1677644119) && (enq4o41q_1 < vkqzwzPa_X)))
+if ((Hku6_p80) || ((true) && (enq4o41q_1 < vkqzwzPa_X)))
 {
 UPia9N = (unsigned char)(i6X719mOM);
 }
@@ -41,7 +41,7 @@ if (enq4o41q_1 == 0)
 }
 if (f1n6FL != N5U__FV6)
 {
-if (PzwLQkVQ >= 1672497187)
+if (false)
 {
 cout << sLc8n1j858 << C73Lw3 << "uGssR9Ijmj" << "el2a6F1302" << "u_gZSk" << endl;
 }
@@ -94,7 +94,7 @@ else if (Yg1vwBBf7f > A3C9)
 {
 InM_MiH = (unsigned char)(Mqd9G3H4Uo);
 }
-else if (q7A5888WUm != -174263675)
+else if (true)
 {
 try
 {
@@ -109,7 +109,7 @@ else if (l4u_01t03)
 {
 f1n6FL = (unsigned char)(sLc8n1j858);
 }
-else if (Hku6_p80 >= Xu6j__F7)
+else if (true)
 {
 for (int k = 10; k >= 0; --k)
 {
@@ -145,7 +145,7 @@ else
 {
 cout << kZFHy3(ziWj6J4Z, s72DTm, 637073972, 1290660929, c_tR5m) << uC9lL_e7S1(ziWj6J4Z, 1516375310, sLc8n1j858) << "PH5lB3XZ" << endl;
 }
-if ((dQ1_G0_0H <= cuDxNkiDg) || ((gHWRilfyu9 < 1100748406) && (MdmEwTv)))
+if ((dQ1_G0_0H <= cuDxNkiDg) || ((true) && (MdmEwTv)))
 {
 switch (mh5jU_T6T)
 {

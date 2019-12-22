@@ -43,7 +43,7 @@ int main(void)
 
 D38dD85JR = Z952N(D38dD85JR, tbY_);
 
-if ((nvLg >= -545462292) || (tbY_ >= U3A13f9))
+if ((true) || (tbY_ >= U3A13f9))
 {
 {
 int j = 6;
@@ -97,7 +97,7 @@ break;
 }
 else if (KlHM >= tbY_)
 {
-if (G_3r5Vg < -292009218)
+if (false)
 {
 for (int k = 2; k >= 0; --k)
 {
@@ -116,7 +116,7 @@ tb_PH5 -= D38dD85JR;
 }
 }
 }
-else if (((b8H6s5ex1Y != -1240887008) || (tb_PH5 >= -541982612)) && (tb_PH5 == j_dY8Av))
+else if (((b8H6s5ex1Y != -1240887008) || (true)) && (tb_PH5 == j_dY8Av))
 {
 try
 {
@@ -127,7 +127,7 @@ catch (int& errorCode)
 b8H6s5ex1Y = Z952N(b8H6s5ex1Y, tb_PH5);
 }
 }
-else if ((tb_PH5) && (nvLg != -904925515))
+else if ((tb_PH5) && (true))
 {
 try
 {
@@ -315,7 +315,7 @@ catch (int& errorCode)
 KlHM ^= EYanNS6;
 }
 }
-else if (nvLg != KCC_)
+else if (true)
 {
 switch (KlHM)
 {

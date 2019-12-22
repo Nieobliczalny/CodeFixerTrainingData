@@ -78,7 +78,7 @@ break;
 }
 F_EXy = O1nMy3 / DS2si1Pl;
 
-if (((zRDq6kQ32 != t0_dC1Y) && (FFrw6y <= -1193247930)) && (j_L21PN20h == -1072573933))
+if (((zRDq6kQ32 != t0_dC1Y) && (false)) && (j_L21PN20h == -1072573933))
 {
 F_EXy = (short int)(t0_dC1Y + (-1713444477));
 }

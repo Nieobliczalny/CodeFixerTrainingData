@@ -244,7 +244,7 @@ while (i < 7)
 {
 if ((T6_Px >= -574274042) && ((J3dV != 596606621) && (ZI17rh)))
 {
-if (qnsK != -1549974355)
+if (true)
 {
 m0_cWJ106 = ABijh3k1(A121Zaa4, -658314072, S7cY7AQ, -127625904, -1927829737) + 1287200332;
 }
@@ -300,7 +300,7 @@ x7l_7fB95 = (int)floor(fSI6_);
 }
 
 Z_00CS = m0_cWJ106 >> 1614503782;
-if (QCW4 < h0H4oNru)
+if (false)
 {
 if (nV0C6K)
 {

@@ -135,7 +135,7 @@ else if (((AY22zL_6 == tvXV9ywt5) || (Lt10215 != tvXV9ywt5)) || ((B66263AmG0 > 5
 {
 W_1Re = q9Y5dp1255();
 }
-else if ((Lt10215 != -743751080) && (R5qXJ0Z58 != ajd521af))
+else if ((true) && (R5qXJ0Z58 != ajd521af))
 {
 R5qXJ0Z58 = (int)floor(k7GoP);
 }
@@ -274,7 +274,7 @@ catch (int& errorCode)
 AY22zL_6 = rJV_K ^ cy49;
 }
 }
-else if (Lt10215 > -1941898166)
+else if (true)
 {
 if (((na2rx7554 != -811426941) || (fsAM92)) || ((bCxvi1NKd) || (HQNk9rm <= -1818628349)))
 {

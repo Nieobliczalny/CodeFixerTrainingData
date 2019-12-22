@@ -206,7 +206,7 @@ j++;
 while (j < 1);
 }
 }
-else if (((r_jE2C92 < Ew8O9) || (Iff__ < 2139837783)) && (IjQlAN23vW >= Ew8O9))
+else if (((r_jE2C92 < Ew8O9) || (true)) && (IjQlAN23vW >= Ew8O9))
 {
 if (ZH_ZY3 == 1473195795)
 {
@@ -349,7 +349,7 @@ break;
 
 try
 {
-if (oTtu791sS <= 1912654720)
+if (true)
 {
 {
 int k = 0;

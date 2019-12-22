@@ -101,7 +101,7 @@ for (int i = 7; i >= 0; i--)
 g8h5LJe6sI = (long)(liZ8A);
 }
 
-if (GfY3H < -498689956)
+if (false)
 {
 if (Aou12 & e__o9E8)
 {
@@ -115,7 +115,7 @@ k--;
 while (k >= 0);
 }
 }
-else if (((e7FM4Q10 == 555813102) && (B1uUtC7t)) && (Aou12 != pmA9))
+else if (((e7FM4Q10 == 555813102) && (B1uUtC7t)) && (true))
 {
 HHd6MA_6G = (int)ceil(pZ1q__);
 }
@@ -207,7 +207,7 @@ break;
 }
 else
 {
-if (ZqVttJ == -1539272637)
+if (false)
 {
 ztj8t_ /= 595893156;
 }

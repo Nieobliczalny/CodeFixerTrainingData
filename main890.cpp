@@ -54,7 +54,7 @@ L0pj7x = xEGv_LI1TP(1661989974, WMx3, tm984wx);
 int i = 9;
 while (i >= 0)
 {
-if ((mASs <= -1975848153) && (tm984wx != 527495563))
+if ((mASs <= -1975848153) && (true))
 {
 if (tm984wx > L0pj7x)
 {
@@ -69,7 +69,7 @@ WMx3++;
 }
 }
 
-if ((WMx3 > 284250764) && ((L0pj7x != -1700721379) && (Tts5eL == WMx3)))
+if ((false) && ((L0pj7x != -1700721379) && (Tts5eL == WMx3)))
 {
 {
 int j = 0;
@@ -136,7 +136,7 @@ while (j < 2);
 }
 }
 
-if (((WMx3 != -1894389821) && (tm984wx & -927481276)) || (Tts5eL))
+if (((true) && (tm984wx & -927481276)) || (Tts5eL))
 {
 {
 int j = 0;

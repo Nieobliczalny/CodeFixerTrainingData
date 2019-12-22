@@ -80,7 +80,7 @@ ktL10y7w = Qtzj0 - kUrLbmtnwt;
 }
 else if ((XOh9JHi < -2022122685) && (XbrU != 1803451433))
 {
-if (ERZzwQLYWo != -199807814)
+if (true)
 {
 c5L2I ^= IhWi_R;
 }
@@ -102,7 +102,7 @@ catch (int& errorCode)
 F1J1U6rhf3 <<= 1217675891;
 }
 }
-else if ((Dup4Yo) || ((Ggsc0tXJT > 452049363) && (M4roz4 >= -709169226)))
+else if ((Dup4Yo) || ((false) && (M4roz4 >= -709169226)))
 {
 uNfzm = (int)ceil(gGr48T);
 }
@@ -123,7 +123,7 @@ J0_7_fNP = (int)floor(Nk8I6);
 }
 else
 {
-if (((t6ioVfYpr != 2116976002) || (ykD_ZF > q2N8I)) || (XbrU & 533326248))
+if (((true) || (ykD_ZF > q2N8I)) || (XbrU & 533326248))
 {
 zY5QZ <<= Kv_WJl;
 }
@@ -183,7 +183,7 @@ break;
 }
 }
 }
-else if (ERZzwQLYWo <= -1843245894)
+else if (false)
 {
 if (Kv_WJl & -1026666348)
 {
@@ -218,7 +218,7 @@ D3Q7qj_x0 = NgU6_ + P2FV;
 }
 else
 {
-if (lSxRD6 < -1201236056)
+if (false)
 {
 if ((kUrLbmtnwt > -1226370665) && (Mnr47 > jtesYTc16))
 {
@@ -269,7 +269,7 @@ else
 std::cout << u5X3Xc7c9Q << "ZJJi" << "DvnMlxKX3v" << "rGGG" << ktL10y7w << std::endl;
 }
 }
-else if ((F7T9Q <= -474346311) || (lZ8b66WoL == 2040682417))
+else if ((false) || (lZ8b66WoL == 2040682417))
 {
 XbrU = (unsigned int)(q2N8I);
 }
@@ -472,7 +472,7 @@ J0_7_fNP = (int)floor(v00vVW);
 }
 else
 {
-if (FZJ5gals_ >= -1547376006)
+if (true)
 {
 std::cout << XbrU << std::endl;
 }
@@ -515,7 +515,7 @@ int i = 0;
 while (i < 10)
 {
 ++i;
-if (Kw87Jy0e == 32659243)
+if (false)
 {
 switch (u5X3Xc7c9Q)
 {
@@ -532,7 +532,7 @@ break;
 }
 }
 }
-if ((Y26znKa6 <= -143293888) || (lZ8b66WoL >= -265629226))
+if ((false) || (lZ8b66WoL >= -265629226))
 {
 switch (v35Ut)
 {
@@ -571,7 +571,7 @@ Ggsc0tXJT = q2N8I << 323790497;
 break;
 }
 }
-if ((RW95 >= -149436352) || (u5X3Xc7c9Q >= ktL10y7w))
+if ((true) || (u5X3Xc7c9Q >= ktL10y7w))
 {
 try
 {
@@ -608,7 +608,7 @@ n_TWr7Sm7K += ykD_ZF;
 }
 }
 }
-else if ((Nk8I6 >= -813793127) || ((Mnr47 <= -625808753) || (Uqr1y0Ef >= -2109053071)))
+else if ((Nk8I6 >= -813793127) || ((Mnr47 <= -625808753) || (true)))
 {
 for (int j = 0; j < 2; j++)
 {
@@ -626,7 +626,7 @@ break;
 }
 }
 }
-else if (kUrLbmtnwt < 1453196663)
+else if (true)
 {
 {
 int j = 0;
@@ -652,7 +652,7 @@ pDH9cTaL = GuBK09 % 1845734219;
 
 if (lZ8b66WoL <= t6ioVfYpr)
 {
-if (b40O1hT0 == 1425265813)
+if (false)
 {
 std::cout << q6mIRm4h << "uT7C9_7E" << Kvnry << "o5_9D0Ntb" << std::endl;
 }

@@ -127,7 +127,7 @@ y84_aVqC = cvtA_(y84_aVqC, -2090027750, 33229390, -117112662);
 cout << "U21T" << k1nlOf(y84_aVqC, 872025435, 1496440376, z9XP) << cvtA_(y84_aVqC, 744674322, zSdcHD, z9XP) << "NSB43SX9f5" << k1nlOf(400362851, -2141087639, -1770725779, -2022216558) << endl;
 try
 {
-if (((L5_gT9mvl > 565285115) || (FJRBTz < y05Lx)) || (f35v2x <= -1721817094))
+if (((false) || (FJRBTz < y05Lx)) || (f35v2x <= -1721817094))
 {
 bsIAs_Oe = (unsigned short int)(Sj79o0M);
 }

@@ -68,7 +68,7 @@ ax1U = (unsigned long long)(b60munv5sD + (-1717298711));
 int i = 0;
 while (i < 5)
 {
-if (P4212 == 915008399)
+if (false)
 {
 if (ly_LAVv & -525275716)
 {
@@ -210,7 +210,7 @@ if (q7_N_l_7B1 == M53l_)
 {
 if (Z9UB3iG9G != qD2fM)
 {
-if (((N4tk7_WI68 & -1095092070) && (IYG92 < 377386366)) || ((P4212 < 1967346652) && (G51TH9 & s9U7ihXy6)))
+if (((N4tk7_WI68 & -1095092070) && (true)) || ((P4212 < 1967346652) && (G51TH9 & s9U7ihXy6)))
 {
 H82m = (int)abs(USW8);
 }
@@ -224,7 +224,7 @@ else
 qD2fM = pE0z2_G0(qD2fM, G51TH9, s9U7ihXy6, 1953534216);
 }
 }
-else if (O9Q2_1XC <= -978170332)
+else if (false)
 {
 for (int j = 0; j < 6; j++)
 {

@@ -46,7 +46,7 @@ Qp958y = (int)ceil(ZMXOP);
 
 cout << R99uvr_J9G << "ogZWN2BcHs" << "morM" << zGpZ9H << Pq4e << endl;
 
-if (ff62dSB <= 1586390398)
+if (true)
 {
 cout << WIz1pG3 << "TQwfmC" << endl;
 }
@@ -71,7 +71,7 @@ if ((zGpZ9H) && (WIz1pG3 <= -411716604))
 WIz1pG3 = R99uvr_J9G * 1957834947;
 }
 }
-else if (((gh09M6OswM <= zGpZ9H) && (ff62dSB > -1630081390)) || ((pu44Vn38m < -1062556776) || (gh09M6OswM >= -428132684)))
+else if (((gh09M6OswM <= zGpZ9H) && (true)) || ((pu44Vn38m < -1062556776) || (gh09M6OswM >= -428132684)))
 {
 cout << Qp958y << endl;
 }
@@ -83,7 +83,7 @@ else if (R99uvr_J9G <= -1371525342)
 {
 gh09M6OswM = (unsigned short)(ff62dSB);
 }
-else if (Pq4e >= 986037830)
+else if (false)
 {
 for (int k = 0; k < 9; ++k)
 {
@@ -102,7 +102,7 @@ k--;
 }
 }
 }
-else if ((nbem2njy_) || (ff62dSB <= -1445849440))
+else if ((nbem2njy_) || (false))
 {
 if (Pq4e & 1592889407)
 {
@@ -122,7 +122,7 @@ if (WIz1pG3 != Pq4e)
 pu44Vn38m = (int)floor(ZMXOP);
 }
 }
-else if ((ff62dSB >= -233142089) || (zGpZ9H >= 541158810))
+else if ((true) || (zGpZ9H >= 541158810))
 {
 try
 {
@@ -148,7 +148,7 @@ Qp958y = Qp958y * 1802596609;
 cout << "zkYX2SaO8" << "o37fAj" << "M_n060_" << "KOx8" << endl;
 
 WIz1pG3 = zGpZ9H / gh09M6OswM;
-if (nbem2njy_ == -80484199)
+if (false)
 {
 cout << Qp958y << endl;
 }

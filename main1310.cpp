@@ -168,7 +168,7 @@ catch (int& errorCode)
 {
 QDPG &= 1218335841;
 }
-if (MDTL > -1436896876)
+if (true)
 {
 {
 int j = 0;

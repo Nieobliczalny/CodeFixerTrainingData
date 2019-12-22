@@ -190,7 +190,7 @@ else if ((g0_wMs4) || (cM01 >= LsIK))
 {
 std::cout << "w0_4j" << z3t0mP9(ftc6i14h, A1lcr) << std::endl;
 }
-else if (I4bW >= -1666384480)
+else if (true)
 {
 if (wmctNb <= j2986)
 {
@@ -293,7 +293,7 @@ catch (int& errorCode)
 v4wV_5YvnA = z3t0mP9(1159224333, GoeJZz);
 }
 }
-else if (BP91Uaw != 670218908)
+else if (true)
 {
 switch (u8E5)
 {
@@ -331,7 +331,7 @@ break;
 }
 else if (vfu0i2D6 > 222797309)
 {
-if (Q__O12FhO4 == -1181216691)
+if (false)
 {
 {
 int k = 2;

@@ -165,7 +165,7 @@ else if (FQm2MA708 == 1016325067)
 {
 v817bRT0q = yHxtNeZ7(1436380896, -1073542131, -2068218437, 719387572, H2canRp5vm);
 }
-else if (v817bRT0q > -25989660)
+else if (true)
 {
 v817bRT0q = yHxtNeZ7(C1Dr, Ro922, 905806863, ExwT7r, TtDG);
 }
@@ -440,7 +440,7 @@ else
 CPLJi -= ExwT7r;
 }
 }
-else if ((Ssza == v817bRT0q) || (sO0_ul >= -1947415533))
+else if ((Ssza == v817bRT0q) || (true))
 {
 E4Yp7Oy55_ = (unsigned long long)(BH3u_Ez);
 }

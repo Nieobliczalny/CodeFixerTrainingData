@@ -140,7 +140,7 @@ catch (int& errorCode)
 VC7clcOO = (int)floor(a717299a7l);
 }
 }
-else if ((nR2b3 <= COy7) && (p0467d > 1740153721))
+else if ((false) && (p0467d > 1740153721))
 {
 E7FGq2C1Dz = O05pG8dwAK(p0467d, X2iRGOMx, -1373096076, BWaq, QmTRpzC4Z) + 811165655;
 }
@@ -335,7 +335,7 @@ for (int i = 0; i < 3; ++i)
 std::cout << O05pG8dwAK(TH2I9, Ro64, Z3_loq, -2138361361, nR2b3) << E7FGq2C1Dz << O05pG8dwAK(TH2I9, -996082304, -855003661, 598970565, nR2b3) << std::endl;
 }
 
-if (xvSrNH7XY != -1682102596)
+if (true)
 {
 std::cout << "n3HWhl8Qc" << "zojJ44E" << O05pG8dwAK(-2054348825, Ro64, Z3_loq, 2025873908, nR2b3) << UFk2fvfX << std::endl;
 }

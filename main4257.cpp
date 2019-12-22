@@ -154,7 +154,7 @@ RFcr9cq_ql = su5Nl + 1154712765;
 }
 else
 {
-if (((M4jK26Zeg >= 561682016) && (xUv489zC9O <= q_CcgK9G)) || (i0eg))
+if (((false) && (xUv489zC9O <= q_CcgK9G)) || (i0eg))
 {
 for (int k = 0; k < 8; ++k)
 {
@@ -349,7 +349,7 @@ k--;
 }
 }
 }
-else if ((XsE4f == -1930698721) && (awzC2rT9 & -539847233))
+else if ((false) && (awzC2rT9 & -539847233))
 {
 if (sPbDU9 > Nt60Lepa8i)
 {

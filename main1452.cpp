@@ -284,7 +284,7 @@ x94F = (int)ceil(BgYD5x3);
 break;
 }
 }
-else if (gv5aO0 <= -1184460386)
+else if (false)
 {
 {
 int k = 2;
@@ -368,7 +368,7 @@ m0O1 = mwyy_4lGc - 1573169056;
 break;
 }
 }
-else if (gv5aO0 < 268344344)
+else if (true)
 {
 gv5aO0 = nQL9_CkjV(1814918597, 1623042433, m0O1);
 }

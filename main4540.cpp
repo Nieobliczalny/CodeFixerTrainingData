@@ -87,7 +87,7 @@ if (EdgO_ & vu9y_)
 {
 EdgO_ = EcX8K5 << vu9y_;
 }
-else if ((ea2E1 < 2092314279) || (xiViK))
+else if ((true) || (xiViK))
 {
 Ts7n_Aq = (int)abs(Z1civ0H);
 }
@@ -118,7 +118,7 @@ Kf6U8ZZ = G_eNlDH9X(GISL45fJ, -15342139);
 }
 }
 }
-else if (((j6_t > 441725641) && (UTXe >= hRB72)) && (Z1civ0H != -1451595987))
+else if (((j6_t > 441725641) && (UTXe >= hRB72)) && (true))
 {
 try
 {
@@ -144,7 +144,7 @@ catch (int& errorCode)
 GISL45fJ = v5wAxBU();
 }
 }
-else if ((FdaGa != 1262335565) || (EcX8K5 == 267222421))
+else if ((true) || (EcX8K5 == 267222421))
 {
 for (int j = 4; j >= 0; --j)
 {
@@ -199,7 +199,7 @@ for (int k = 10; k >= 0; k--)
 EcX8K5 = xiViK | 2090506265;
 }
 }
-else if (((UTXe) || (UTXe <= 595462126)) || ((GISL45fJ < P4q5H) || (EcX8K5 > GISL45fJ)))
+else if (((UTXe) || (UTXe <= 595462126)) || ((false) || (EcX8K5 > GISL45fJ)))
 {
 Kf6U8ZZ = G_eNlDH9X(Z1civ0H, -519603917);
 }
@@ -248,7 +248,7 @@ if (Z1civ0H >= EdgO_)
 {
 std::cout << "du_9t1o" << Z1civ0H << G_eNlDH9X(EcX8K5, ea2E1) << EcX8K5 << v5wAxBU() << std::endl;
 }
-if (((Kf6U8ZZ <= -344923803) || (Kf6U8ZZ != FdaGa)) || (Z1civ0H != -592442281))
+if (((Kf6U8ZZ <= -344923803) || (Kf6U8ZZ != FdaGa)) || (true))
 {
 W73B--;
 }
@@ -356,7 +356,7 @@ for (int i = 0; i < 4; i++)
 {
 std::cout << v5wAxBU() << std::endl;
 }
-if ((j6_t <= Ts7n_Aq) && (GISL45fJ > n5oVWN))
+if ((j6_t <= Ts7n_Aq) && (false))
 {
 for (int j = 2; j >= 0; --j)
 {
@@ -366,7 +366,7 @@ j6_t |= Kf6U8ZZ;
 }
 }
 }
-else if (((xiViK != eLi90_gn) || (ea2E1 > hRB72)) && (xiViK > -1817454098))
+else if (((xiViK != eLi90_gn) || (true)) && (xiViK > -1817454098))
 {
 for (int j = 0; j < 9; j++)
 {
@@ -380,7 +380,7 @@ else if ((Kf6U8ZZ != UTXe) || (EcX8K5 & EdgO_))
 {
 Z1civ0H = v5wAxBU();
 }
-else if (FdaGa >= 244971555)
+else if (false)
 {
 if (EcX8K5 >= 1133922548)
 {
@@ -422,7 +422,7 @@ if (xiViK == W73B)
 {
 std::cout << "oFJf1j_EN" << G_eNlDH9X(Z1civ0H, j6_t) << W73B << std::endl;
 }
-else if (GISL45fJ <= P4q5H)
+else if (false)
 {
 std::cout << Z1civ0H << "Vgtrn3" << G_eNlDH9X(Z1civ0H, 1481739403) << std::endl;
 }
@@ -545,7 +545,7 @@ while (k >= 0);
 
 if (EcX8K5 < eLi90_gn)
 {
-if (Z1civ0H != hRB72)
+if (true)
 {
 std::cout << "m20Y3d_ru" << j6_t << std::endl;
 }
@@ -616,7 +616,7 @@ else
 vu9y_ = G_eNlDH9X(267036304, 1860451090);
 }
 }
-else if (Ts7n_Aq > -1976042819)
+else if (true)
 {
 Kf6U8ZZ = G_eNlDH9X(Kf6U8ZZ, xiViK);
 }
@@ -642,7 +642,7 @@ if (W73B >= -1701618502)
 xiViK ^= 1165711424;
 }
 }
-else if (GISL45fJ == P4q5H)
+else if (false)
 {
 switch (Ts7n_Aq)
 {
@@ -698,7 +698,7 @@ else if ((GISL45fJ >= ea2E1) || (Z1civ0H & n5oVWN))
 {
 FdaGa = (char)(Z1civ0H);
 }
-else if (GISL45fJ > -244728930)
+else if (true)
 {
 try
 {
@@ -736,7 +736,7 @@ if (UTXe)
 UTXe = (Kf6U8ZZ) ? P4q5H : Is8w83;
 }
 
-if (FdaGa == 1595175428)
+if (false)
 {
 W73B >>= 22343951;
 }
@@ -869,7 +869,7 @@ for (int j = 8; j >= 0; --j)
 std::cout << v5wAxBU() << std::endl;
 }
 }
-else if (FdaGa <= P4q5H)
+else if (false)
 {
 FdaGa = v5wAxBU();
 }
@@ -879,7 +879,7 @@ if (vu9y_ < eLi90_gn)
 {
 W73B = (unsigned int)(hRB72);
 }
-else if (GISL45fJ > -761255211)
+else if (true)
 {
 EdgO_ >>= j6_t;
 }
@@ -896,7 +896,7 @@ UTXe--;
 
 for (int i = 0; i < 6; i++)
 {
-if ((Kf6U8ZZ >= hRB72) || ((W73B > hRB72) && (Z1civ0H == 1781355260)))
+if ((Kf6U8ZZ >= hRB72) || ((W73B > hRB72) && (false)))
 {
 {
 int k = 0;
@@ -914,7 +914,7 @@ ea2E1 = v5wAxBU();
 }
 else if (j6_t <= n5oVWN)
 {
-if ((Ts7n_Aq > n5oVWN) && (xiViK >= n5oVWN))
+if ((false) && (xiViK >= n5oVWN))
 {
 UTXe = G_eNlDH9X(Z1civ0H, UTXe);
 }
@@ -931,7 +931,7 @@ else
 Is8w83 = G_eNlDH9X(-1457686366, ea2E1);
 }
 }
-else if (GISL45fJ != 692142711)
+else if (true)
 {
 Ts7n_Aq = (char)(eLi90_gn * Ts7n_Aq);
 }

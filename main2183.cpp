@@ -179,7 +179,7 @@ catch (int& errorCode)
 acoZE3ZZ /= SY2V4;
 }
 
-if (WT_0 < -92362029)
+if (false)
 {
 {
 int j = 4;
@@ -202,7 +202,7 @@ else if (WT_0 > bA8MQT)
 {
 a09Co <<= 1176470677;
 }
-else if (acoZE3ZZ > -1756673323)
+else if (true)
 {
 a8Xuma = QAsZocpB_9 / acoZE3ZZ;
 }
@@ -259,7 +259,7 @@ uZqe = E5TLPOQu5(-214347918);
 break;
 }
 }
-else if (WT_0 < -1170110570)
+else if (false)
 {
 acoZE3ZZ >>= 1245407295;
 }
@@ -279,7 +279,7 @@ a09Co = WT_0 << 1171367420;
 }
 }
 }
-else if (xX08E5 <= -1722273646)
+else if (false)
 {
 {
 int j = 1;
@@ -299,7 +299,7 @@ while (k < 8);
 while (j >= 0);
 }
 }
-else if (((a09Co < -1998799418) || (C6N6q4x == -1324609220)) || (xX08E5 != 1489310806))
+else if (((false) || (C6N6q4x == -1324609220)) || (xX08E5 != 1489310806))
 {
 SY2V4 = (long)(Yt853ihYuv);
 }
@@ -311,7 +311,7 @@ xX08E5 = (int)abs(bA8MQT) * 0;
 }
 else
 {
-if (((SY2V4 > -1056812329) && (xX08E5 >= 916691765)) && ((SY2V4 < -1285817825) || (C6N6q4x & 1851074540)))
+if (((SY2V4 > -1056812329) && (false)) && ((SY2V4 < -1285817825) || (C6N6q4x & 1851074540)))
 {
 WT_0 = (int)abs(QAsZocpB_9) * 0;
 }
@@ -321,7 +321,7 @@ a8Xuma += QAsZocpB_9;
 }
 }
 }
-else if (QAsZocpB_9 == 1929340613)
+else if (false)
 {
 {
 int j = 0;
@@ -357,7 +357,7 @@ a09Co = nPdu2fF_5(-942108021, -1754451172, 877717746, -1455061930, -1504964620);
 
 for (int i = 9; i >= 0; --i)
 {
-if ((a8Xuma != Yt853ihYuv) || (acoZE3ZZ >= 1937835258))
+if ((a8Xuma != Yt853ihYuv) || (false))
 {
 std::cout << QAsZocpB_9 << WneoBI(a09Co) << "JAN5OIp434" << "Jc_7YhsjW" << "i2qyo2GOsJ" << std::endl;
 }
@@ -434,7 +434,7 @@ catch (int& errorCode)
 {
 bA8MQT -= uZqe;
 }
-if (((uZqe > Yt853ihYuv) || (Yt853ihYuv != -1174302719)) && (a09Co > 865357036))
+if (((uZqe > Yt853ihYuv) || (Yt853ihYuv != -1174302719)) && (false))
 {
 try
 {
@@ -459,7 +459,7 @@ if (Cy5C62R & -1921384520)
 a09Co = nPdu2fF_5(795887303, -102866684, -792891379, 330815521, -1929009580);
 }
 }
-if (((WT_0 & C6N6q4x) && (bA8MQT < Cy5C62R)) && (QAsZocpB_9 >= 1769912682))
+if (((WT_0 & C6N6q4x) && (bA8MQT < Cy5C62R)) && (false))
 {
 bA8MQT = (int)abs(C6N6q4x) + (-1877920862);
 }

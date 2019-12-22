@@ -70,7 +70,7 @@ if (qv1bT21e0 & AcueS)
 {
 for (int j = 0; j < 10; ++j)
 {
-if (JXg5b == 1556369203)
+if (false)
 {
 m7BO = iNwvj8Qgh(m7BO, uU1OU94_5, qv1bT21e0, JXg5b);
 }
@@ -113,7 +113,7 @@ if (XH6k & uU1OU94_5)
 {
 D241KdSVzZ = XH6k - e6lTFpabi8;
 }
-else if (JXg5b != J56SACL5rN)
+else if (true)
 {
 try
 {
@@ -124,7 +124,7 @@ catch (int& errorCode)
 qv1bT21e0 = JXg5b + 664343918;
 }
 }
-else if (CFT7 >= -1353792282)
+else if (true)
 {
 try
 {

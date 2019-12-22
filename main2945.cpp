@@ -135,7 +135,7 @@ int main(void)
 
 std::cout << tZFJ << T5e36mQS5 << "vTmpScCF" << std::endl;
 q040 = -640047990 / gq0pC7Fn_Y;
-if (QlcA0 < 835751451)
+if (true)
 {
 {
 int j = 10;
@@ -185,7 +185,7 @@ catch (int& errorCode)
 {
 a9S4--;
 }
-if (Nm_Bvk79 == -1428553525)
+if (false)
 {
 Ffhlq = X93yWj9Jc | 1517478969;
 }

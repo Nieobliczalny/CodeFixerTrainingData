@@ -27,7 +27,7 @@ int main(void) {
 i026 = tN99D_ & gD6_703;
 try
 {
-if ((xp1jACl > -341487022) || (d4ThSt4 == 508440906))
+if ((true) || (d4ThSt4 == 508440906))
 {
 pWx8s_j2t = (unsigned short int)(d4ThSt4);
 }
@@ -77,7 +77,7 @@ for (int k = 8; k >= 0; k--)
 T1YKwK = TN3yeXC(T1YKwK);
 }
 }
-else if ((T1YKwK & 718733130) && ((kfV3nv1k8G != -1734656473) && (VF7_7Q16t7 >= 849758880)))
+else if ((T1YKwK & 718733130) && ((true) && (VF7_7Q16t7 >= 849758880)))
 {
 if (ln88b9U4oN & 61235621)
 {
@@ -88,7 +88,7 @@ else if (((TTk7Vd287T) && (oA9o0C != 623475991)) && ((t8kkZYf2D < pWx8s_j2t) || 
 {
 std::cout << tN99D_ << wNATGt0 << t95zHU3b << o13e6(-2072384228, o8qrZ2Bm, tB3Yj4Z) << "HjBJ28fy" << std::endl;
 }
-else if ((kgPCpw5) || ((o8qrZ2Bm >= -393920624) && (VuUl3dkJ <= t95zHU3b)))
+else if ((kgPCpw5) || ((true) && (VuUl3dkJ <= t95zHU3b)))
 {
 switch (vQb4WumNLm)
 {
@@ -159,7 +159,7 @@ tN99D_ = B68xMIoN >> Fl33ED;
 while (k >= 0);
 }
 }
-else if (((ji75LO0030 != 1220728327) && (w_N6Z < -519872313)) && (B68xMIoN))
+else if (((true) && (w_N6Z < -519872313)) && (B68xMIoN))
 {
 switch (n5nkLS)
 {

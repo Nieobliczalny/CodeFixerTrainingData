@@ -83,7 +83,7 @@ Q69L374m4s = (int)abs(B7h3ff_);
 
 try
 {
-if (((xGf1zUnxNU < -1716566225) && (egTszl >= JF2s)) && ((bML4GTsBU == njc8X1k5Y0) || (j4k7pMXyFq & R5v4P6YKA)))
+if (((false) && (egTszl >= JF2s)) && ((bML4GTsBU == njc8X1k5Y0) || (j4k7pMXyFq & R5v4P6YKA)))
 {
 {
 int k = 5;
@@ -105,7 +105,7 @@ k--;
 }
 }
 }
-else if ((bML4GTsBU & 1348483481) || ((J93NEq_d == 2140781563) || (H357MAaF >= gwx8_)))
+else if ((bML4GTsBU & 1348483481) || ((false) || (H357MAaF >= gwx8_)))
 {
 if (hFewUSE50 > 905408716)
 {
@@ -115,7 +115,7 @@ else if ((Y4t7ue2O3 != 1234898863) && (egTszl & ytSF927e_))
 {
 H357MAaF = Wr1UYW & 510930909;
 }
-else if ((xGf1zUnxNU != 749579536) || (ytSF927e_ == 702314689))
+else if ((true) || (ytSF927e_ == 702314689))
 {
 Q69L374m4s -= JF2s;
 }
@@ -183,7 +183,7 @@ while (i < 6)
 int j = 10;
 do
 {
-if ((bML4GTsBU == hFewUSE50) || ((W_b9Fgo) || (k70n_w != 1449956157)))
+if ((bML4GTsBU == hFewUSE50) || ((W_b9Fgo) || (true)))
 {
 k70n_w = zo3WU + Q69L374m4s;
 }
@@ -200,7 +200,7 @@ i++;
 }
 std::cout << Q69L374m4s << "BqufPLO" << vgsr << std::endl;
 
-if (((YBq4_9m == Wr1UYW) && (mXDyK >= 1978326755)) && (Q69L374m4s > B7h3ff_))
+if (((YBq4_9m == Wr1UYW) && (false)) && (Q69L374m4s > B7h3ff_))
 {
 if (W_b9Fgo > -513878991)
 {
@@ -212,7 +212,7 @@ else if (xGf1zUnxNU == -1820896711)
 {
 Y4t7ue2O3 = ytSF927e_ + 981891999;
 }
-else if (k70n_w <= 1600747317)
+else if (true)
 {
 Wr1UYW = njc8X1k5Y0 % 130666559;
 }
@@ -237,7 +237,7 @@ for (int j = 8; j >= 0; --j)
 xGf1zUnxNU = LZySDI0 / 1128412113;
 }
 }
-else if ((gv912MT6nP < 1806175374) || ((MLR_k6 != -1162444994) && (Q69L374m4s >= MLR_k6)))
+else if ((true) || ((MLR_k6 != -1162444994) && (Q69L374m4s >= MLR_k6)))
 {
 if (vgsr >= -1908878480)
 {
@@ -276,7 +276,7 @@ int j = 0;
 do
 {
 j++;
-if (LZySDI0 != 1971971548)
+if (true)
 {
 eJP592ZD = (int)abs(egTszl);
 }
@@ -329,7 +329,7 @@ i++;
 while (i < 9);
 }
 
-if (hFewUSE50 < 1896967905)
+if (true)
 {
 if (((egTszl <= Q69L374m4s) || (eJP592ZD)) && (Q69L374m4s != -1144461403))
 {
@@ -374,7 +374,7 @@ gwx8_ = (int)abs(B7h3ff_);
 break;
 case 'f':
 case 'F':
-k70n_w = (W_b9Fgo < -1113800175) ? JF2s : 2092255158;
+k70n_w = (false) ? JF2s : 2092255158;
 break;
 case 'g':
 case 'G':

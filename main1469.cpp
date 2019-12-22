@@ -111,7 +111,7 @@ TnRYYw0LS_ = wEz_7uRn << 1285791323;
 }
 else
 {
-if (((fl7_G <= -1530110664) && (n3u2Ac33m > prIqVu)) && (x2ZF <= K7kcG26nk))
+if (((fl7_G <= -1530110664) && (n3u2Ac33m > prIqVu)) && (false))
 {
 xAU1 = (int)ceil(aVpD32);
 }
@@ -133,7 +133,7 @@ a26eo2snc = b0s801 << G43q;
 }
 }
 }
-else if (WL2Gd <= K7kcG26nk)
+else if (false)
 {
 for (int k = 0; k < 5; k++)
 {
@@ -156,7 +156,7 @@ else if (lsVbuzA_t < RTr05)
 {
 l61P = l7xcgTC2 & 916259897;
 }
-else if (Qp4RiJf > 1813148055)
+else if (false)
 {
 lsVbuzA_t = (unsigned short int)(B3qO + (K7kcG26nk));
 }
@@ -207,7 +207,7 @@ w_I_kn0_ = (int)floor(V_c048_J7u);
 break;
 case 'c':
 case 'C':
-wEz_7uRn = (OS3OZ > 1555641756) ? lUkFO : 1966314940;
+wEz_7uRn = (false) ? lUkFO : 1966314940;
 break;
 case 'd':
 case 'D':
@@ -230,7 +230,7 @@ SFbm8f5Gi = B3qO ^ x7E7T9B21;
 break;
 }
 }
-else if (((ROF3scAKj < -1934227282) && (iuu9Gb >= B3qO)) || (PC1IZYbo <= K7kcG26nk))
+else if (((ROF3scAKj < -1934227282) && (iuu9Gb >= B3qO)) || (false))
 {
 {
 int k = 0;
@@ -375,7 +375,7 @@ PC1IZYbo = TnRYYw0LS_ >> 1711699880;
 break;
 }
 
-if (R7NJ19I2jm >= 1701532792)
+if (false)
 {
 if (uCvnVV < -985578968)
 {
@@ -404,7 +404,7 @@ else
 rY042_j_ = (int)(B3qO + (K7kcG26nk));
 }
 }
-else if (((qWE74DPL0 <= 1792364124) && (G43q & 1953484971)) || (AMRuy8 < gRcOU7R3l))
+else if (((true) && (G43q & 1953484971)) || (AMRuy8 < gRcOU7R3l))
 {
 {
 int j = 0;
@@ -557,7 +557,7 @@ default:
 J8E2eHr = (int)ceil(fl7_G);
 break;
 }
-if ((n8Z8) || ((n3u2Ac33m <= Q3n32S) || (WL2Gd != -1531023818)))
+if ((n8Z8) || ((n3u2Ac33m <= Q3n32S) || (true)))
 {
 if (y9VP84l >= 698863273)
 {
@@ -608,7 +608,7 @@ j--;
 }
 }
 }
-if (Q3n32S < K7kcG26nk)
+if (false)
 {
 std::cout << iuu9Gb << Y_dP25JWBU << Qp4RiJf << c2L7e2hY_d << std::endl;
 }
@@ -667,7 +667,7 @@ if ((w5_IhVy != K7kcG26nk) && (a26eo2snc & Qp4RiJf))
 {
 KONf = (unsigned char)(rE4U0Fi);
 }
-else if (((rE4U0Fi == B3qO) || (c2L7e2hY_d != -366251962)) || ((Q3n32S > 11678065) || (NkEvI5 & -1630002022)))
+else if (((rE4U0Fi == B3qO) || (c2L7e2hY_d != -366251962)) || ((false) || (NkEvI5 & -1630002022)))
 {
 RTr05 = x7E7T9B21 ^ x0mIgt;
 }
@@ -681,7 +681,7 @@ int i = 4;
 do
 {
 --i;
-if (RTr05 >= K7kcG26nk)
+if (true)
 {
 std::cout << OS3OZ << "yV0_hjw" << igNg << "QVaV_0A" << std::endl;
 }
@@ -692,7 +692,7 @@ for (int k = 0; k < 2; ++k)
 Suy2 = rY042_j_ << PC1IZYbo;
 }
 }
-else if (RTr05 >= -1222003537)
+else if (true)
 {
 switch (rE4U0Fi)
 {
@@ -726,7 +726,7 @@ KONf = PC1IZYbo / WL2Gd;
 break;
 }
 }
-else if (n3u2Ac33m >= -2099989744)
+else if (true)
 {
 WL2Gd = (unsigned short)(V_c048_J7u);
 }

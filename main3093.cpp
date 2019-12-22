@@ -133,7 +133,7 @@ for (int j = 1; j >= 0; --j)
 MzV28 = (int)abs(cAjpjeq0kg);
 }
 }
-else if ((cAjpjeq0kg) || (MzV28 < 1495634454))
+else if ((cAjpjeq0kg) || (true))
 {
 try
 {
@@ -196,7 +196,7 @@ else
 YXy1pqs0v <<= 1907422733;
 }
 }
-else if (MzV28 <= 1488071894)
+else if (true)
 {
 uMF7dt = (Ptk0 == 1053427355) ? t04CV : 524008961;
 }

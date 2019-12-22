@@ -226,7 +226,7 @@ int main() {
 
 if (eGo83l4Le == MXD2_)
 {
-if ((gVzP67c > 197046069) && (N08p == JyK2d7Qn))
+if ((gVzP67c > 197046069) && (false))
 {
 cout << l1wCH << O0jJrM9Xbg() << "n8_q6G" << OA4n3jFR59 << endl;
 }
@@ -388,7 +388,7 @@ catch (int& errorCode)
 Jtx5CVi = (int)ceil(ta62j6_xP);
 }
 }
-else if (mXFrb65 > JyK2d7Qn)
+else if (false)
 {
 if (ClJ0X)
 {
@@ -447,7 +447,7 @@ k--;
 }
 }
 }
-if (B7sg83sf >= -2045354293)
+if (true)
 {
 if (JbYTCtH2td >= eMZA)
 {

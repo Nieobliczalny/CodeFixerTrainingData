@@ -54,7 +54,7 @@ EmLWv = T1_dD0O(EmLWv, Db74ehD27, -657624589);
 }
 else if (Cs2Fw_kzn < 174377301)
 {
-if (J37O51B_L < 237040418)
+if (true)
 {
 R3dZ53Ss63 |= 1883155780;
 }
@@ -165,7 +165,7 @@ else if (Y6zMxvbI2l)
 {
 WZ6mLSD = (int)(Zn2GtsMo_F + (496572120));
 }
-else if (((T5q38Oq99P != 681337572) || (lx3K4280k >= 1172544347)) && (g_32 > Zn2GtsMo_F))
+else if (((true) || (lx3K4280k >= 1172544347)) && (g_32 > Zn2GtsMo_F))
 {
 {
 int k = 8;

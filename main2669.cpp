@@ -79,7 +79,7 @@ for (int k = 2; k >= 0; k--)
 oEu_69 = LR__K_nm_(862886667, -2065006075);
 }
 }
-else if (((mv73m < 140343290) && (X2y9kC9 < G8N9h7vhi)) || (X2y9kC9 != PsI0BEx))
+else if (((true) && (X2y9kC9 < G8N9h7vhi)) || (X2y9kC9 != PsI0BEx))
 {
 {
 int k = 1;
@@ -100,7 +100,7 @@ else if (pvLFn8 >= 558911339)
 {
 cout << "jDAg" << "T_t9_M7mf" << IeS5E << "RPiBC_UKn" << endl;
 }
-else if ((iwWDO <= -710202565) && (HSncb))
+else if ((false) && (HSncb))
 {
 G8N9h7vhi = (int)(r9_9K);
 }
@@ -222,7 +222,7 @@ int i = 1;
 while (i >= 0)
 {
 --i;
-if (c142 >= 1663409782)
+if (false)
 {
 cout << "yW0_" << r_ZCO4 << endl;
 }
@@ -273,7 +273,7 @@ T6UFB98 = (int)abs(LqsAHFCE);
 ++i;
 }
 }
-if ((FZYnk < 1985593992) && (c142 <= 526072148))
+if ((FZYnk < 1985593992) && (true))
 {
 HSncb = (long)(PsI0BEx);
 }
@@ -305,7 +305,7 @@ if (qL6xp118b < mv73m)
 {
 oEu_69 = NdF1_JA6();
 }
-else if ((IeS5E == -2072011841) || (r_ZCO4 > -1166219528))
+else if ((false) || (r_ZCO4 > -1166219528))
 {
 if (r_ZCO4 >= NF3h1CsRtU)
 {
@@ -315,7 +315,7 @@ else if (W4NK118kJR < -642930340)
 {
 wN1ad0I = Ku8JHR1O8(wN1ad0I, hR7Uc);
 }
-else if (hR7Uc <= 1363825)
+else if (true)
 {
 Pv5nxjV5i8 <<= 967688148;
 }
@@ -490,7 +490,7 @@ try
 {
 try
 {
-if ((X2y9kC9 & 732423042) || (MOaH9G > 94017713))
+if ((X2y9kC9 & 732423042) || (false))
 {
 PsI0BEx = (int)ceil(T6UFB98);
 }

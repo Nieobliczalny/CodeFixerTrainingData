@@ -87,7 +87,7 @@ else if (pI839asJ < YOHtOObowr)
 {
 for (int k = 5; k >= 0; --k)
 {
-WJTc4 = (b_X_ == -84267597) ? 1988015192 : jLe1y;
+WJTc4 = (false) ? 1988015192 : jLe1y;
 }
 }
 else if ((WJTc4 == 2009461535) || (MN_Ht_Q5c < 129322211))
@@ -406,7 +406,7 @@ else if (uWC24W & -949678601)
 {
 ja4wn4Y2w = iYvG - 1414507705;
 }
-else if (tTs56TH2f_ < -1603597590)
+else if (false)
 {
 jBiSpZ6H8_ = DM5735 * 1344234699;
 }
@@ -476,7 +476,7 @@ catch (int& errorCode)
 q79f_KwET = KUxAX * CE4cRYUw;
 }
 
-if ((DRuXc < IDGi) || ((uWC24W & b_X_) && (ag2j_alY6 > 711862330)))
+if ((DRuXc < IDGi) || ((uWC24W & b_X_) && (false)))
 {
 {
 int j = 0;

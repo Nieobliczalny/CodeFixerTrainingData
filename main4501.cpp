@@ -55,7 +55,7 @@ int main(void) {
 
 iZ_7FCh2 = (unsigned short int)(MxoU0K74ZX * iZ_7FCh2);
 
-if (((d_iTf != U_xTPYU) && (iZ_7FCh2 == 126614367)) && ((ELc1n8x < 567949347) && (MxoU0K74ZX < 1631972510)))
+if (((d_iTf != U_xTPYU) && (false)) && ((ELc1n8x < 567949347) && (MxoU0K74ZX < 1631972510)))
 {
 {
 int j = 0;
@@ -77,7 +77,7 @@ if (aV58a > -530564790)
 {
 try
 {
-if ((hcEw3c1_q4 == NBJgGIJAO) || ((cHW627QXT > 735919170) && (uszOYmYUn & -1334970548)))
+if ((hcEw3c1_q4 == NBJgGIJAO) || ((false) && (uszOYmYUn & -1334970548)))
 {
 ELc1n8x = VN3__();
 }
@@ -248,7 +248,7 @@ IomGv = (unsigned int)(U_bh + (1237787812));
 cHW627QXT = Ibk9tlm(2064763255, Zee6, 1744717190);
 try
 {
-if ((iZ_7FCh2 != -226693535) || (C7Ztuti0BK >= 1101291709))
+if ((true) || (C7Ztuti0BK >= 1101291709))
 {
 cout << "Z12096Vl" << lHL2ZX_ << V7ky2 << endl;
 }
@@ -404,7 +404,7 @@ if (U_xTPYU)
 int j = 9;
 while (j >= 0)
 {
-if (LVxr3 >= -17711528)
+if (true)
 {
 IomGv = MX33zc(IomGv, hcEw3c1_q4, -921853653, 874027258);
 }

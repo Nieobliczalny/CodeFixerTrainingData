@@ -95,7 +95,7 @@ int i = 0;
 do
 {
 i++;
-if (((G6_dMx7) || (f2ygl)) || (TlJ912o6x == -419459637))
+if (((G6_dMx7) || (f2ygl)) || (false))
 {
 cout << t45V2QI2 << "snJFf" << hkQHE118I(-1435822902, r4J_1wEj4, -1744223960, izvGbp_WVE, -157767789) << hkQHE118I(OTSS7, 235201778, 360845324, -607707242, A2M5Dc) << endl;
 }
@@ -233,7 +233,7 @@ else if (DSsOS5v <= -1986070436)
 {
 cout << "HU_X57QZp" << hkQHE118I(gl71ra1t, G6_dMx7, Z03827r, W512yq4Q5, 665744134) << a92eL << endl;
 }
-else if (i4w_QFJh <= 1573744942)
+else if (true)
 {
 {
 int k = 6;

@@ -275,7 +275,7 @@ iTG_76dvY = s6_S1r49(U7n1g, iTG_76dvY);
 break;
 }
 }
-else if ((oPW38w) && ((MLxq > 736893474) && (GqgCuZF > wPV6T)))
+else if ((oPW38w) && ((false) && (GqgCuZF > wPV6T)))
 {
 for (int j = 1; j >= 0; j--)
 {

@@ -147,7 +147,7 @@ while (k < 6);
 }
 else if (((u5vj4Q) || (jdfh0 >= X0lF89KOg)) && (u5vj4Q < -1460554638))
 {
-if (cD28 > -1836049963)
+if (true)
 {
 e31Sbj18Ti = (int)floor(FuN2OQ6X);
 }

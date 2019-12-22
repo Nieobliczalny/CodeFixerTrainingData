@@ -40,7 +40,7 @@ while (k < 4);
 }
 else
 {
-if (n9y9NuN > 818386011)
+if (false)
 {
 Cc2Ylii4K8 &= 586119336;
 }

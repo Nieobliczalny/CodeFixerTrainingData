@@ -59,7 +59,7 @@ int j = 0;
 while (j < 8)
 {
 ++j;
-if (sILthxY <= 1681343651)
+if (true)
 {
 HW_Lh = (int)abs(MRC3QwR_Dy);
 }
@@ -71,7 +71,7 @@ while (i < 3);
 }
 
 MRC3QwR_Dy %= HW_Lh;
-if ((Vdqn < gW9T5T0xZ) && ((MRC3QwR_Dy < 1538131265) && (cu6Tiz54y6 > gW9T5T0xZ)))
+if ((true) && ((MRC3QwR_Dy < 1538131265) && (cu6Tiz54y6 > gW9T5T0xZ)))
 {
 {
 int j = 5;
@@ -82,7 +82,7 @@ if (((MRC3QwR_Dy == -2110326681) && (cu6Tiz54y6 < -1192511767)) || ((HW_Lh) || (
 {
 MRC3QwR_Dy = i4CtyprY9(-59831716);
 }
-else if (MRC3QwR_Dy < 1537575815)
+else if (true)
 {
 HW_Lh >>= 260736007;
 }
@@ -130,7 +130,7 @@ while (j >= 0);
 }
 }
 MRC3QwR_Dy = (short)(yr870k);
-if ((MRC3QwR_Dy & 417325189) && ((MRC3QwR_Dy <= 712924655) || (MRC3QwR_Dy == -1667654585)))
+if ((MRC3QwR_Dy & 417325189) && ((true) || (MRC3QwR_Dy == -1667654585)))
 {
 {
 int j = 0;

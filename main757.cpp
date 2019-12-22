@@ -67,7 +67,7 @@ vP_kR51d = vqeq8R1(-444186438);
 v1Fm1 = e_AoGSi + h_N6_o6c;
 
 h_N6_o6c += 1664125599;
-if (((pPN1 <= W_lgV) && (QXCt == EKAetta_)) || (W_lgV >= j_5WRD))
+if (((pPN1 <= W_lgV) && (false)) || (W_lgV >= j_5WRD))
 {
 if ((pPN1) || (W_lgV & 688738684))
 {
@@ -161,7 +161,7 @@ std::cout << pPN1 << std::endl;
 
 if (vP_kR51d & -1597462783)
 {
-if (h_N6_o6c != EKAetta_)
+if (true)
 {
 switch (h_N6_o6c)
 {

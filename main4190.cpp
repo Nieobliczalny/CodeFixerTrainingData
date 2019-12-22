@@ -258,7 +258,7 @@ case 2:
 HV56_L55 %= 1960960519;
 break;
 }
-if (Vk3r_dyC_F < 1910618378)
+if (true)
 {
 if (HV56_L55 >= tNXoc65)
 {
@@ -297,7 +297,7 @@ break;
 
 for (int i = 0; i < 8; i++)
 {
-if (((ZWb1y1_yH4 > 833602032) && (Pl5x5k9Oxy)) && (VosRlRk5s0))
+if (((false) && (Pl5x5k9Oxy)) && (VosRlRk5s0))
 {
 for (int k = 0; k < 9; ++k)
 {

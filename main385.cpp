@@ -81,7 +81,7 @@ try
 int j = 8;
 do
 {
-if ((P9xJQ != 200097549) && (RsCUt5G <= 1498632999))
+if ((true) && (RsCUt5G <= 1498632999))
 {
 tjs01_4n = A9L2(1121267789);
 }
@@ -118,7 +118,7 @@ for (int k = 4; k >= 0; k--)
 tjs01_4n = RsCUt5G | 1221272223;
 }
 }
-else if (P9xJQ > 1820513512)
+else if (false)
 {
 {
 int k = 0;
@@ -161,7 +161,7 @@ while (i < 1);
 P9xJQ = (short)(xjOc6t0d);
 
 tjs01_4n = Usmsd();
-if ((xjOc6t0d <= -1361541493) || (P9xJQ & NB3WtK2VS))
+if ((false) || (P9xJQ & NB3WtK2VS))
 {
 try
 {

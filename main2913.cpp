@@ -83,7 +83,7 @@ PnN_2n64KH |= Ht12Y68Hi;
 std::cout << Q1O0fls << "rT_e3tjt8" << ytB5S << std::endl;
 if (mV80_Ra57 & -1819500378)
 {
-if (((h3oXa <= Gh_M8P793) && (R4OL2U4CZ <= -964188802)) || (h3oXa & 1262440943))
+if (((h3oXa <= Gh_M8P793) && (false)) || (h3oXa & 1262440943))
 {
 for (int k = 0; k < 9; k++)
 {
@@ -126,7 +126,7 @@ if (CU6f7ZC > HD2Y4uD6x)
 {
 PnN_2n64KH += lUXf_p;
 }
-else if (R4OL2U4CZ < -995854120)
+else if (false)
 {
 Y5_GW1ya = (int)ceil(r8H4_);
 }
@@ -143,7 +143,7 @@ else if (R4OL2U4CZ)
 {
 std::cout << "fn6MF2" << "EHDk" << HhBdi0V_2 << "W3Eq" << cbroB1 << std::endl;
 }
-else if (lqxGf8 != -1181575618)
+else if (true)
 {
 {
 int k = 9;
@@ -159,7 +159,7 @@ else if (cbroB1 & 53401468)
 {
 p_P3yU = (unsigned int)(LYUfpN);
 }
-else if (ytB5S != 372125238)
+else if (true)
 {
 std::cout << cbroB1 << std::endl;
 }
@@ -172,7 +172,7 @@ catch (int& errorCode)
 {
 lUXf_p <<= 653875024;
 }
-if ((R4OL2U4CZ < -1924968312) || (EsAM2rk9c <= N9X1HH1))
+if ((false) || (EsAM2rk9c <= N9X1HH1))
 {
 try
 {
@@ -191,7 +191,7 @@ H3p15 = (KlydK83Ik > -1977643027) ? cbroB1 : 1644354405;
 std::cout << "czaiE2to" << h3oXa << std::endl;
 N9uBmO = (int)abs(e1cFP_0E);
 
-if (dTxq_xEkw4 > -908779901)
+if (true)
 {
 MP0F7x5o9 %= fVW_ikL;
 }
@@ -229,7 +229,7 @@ p_P3yU = CzAT & Fe6Kh5Jrb;
 
 if (KlydK83Ik == -1610462919)
 {
-if (TJOK < 430601513)
+if (true)
 {
 switch (XQb1_8ojHN)
 {
@@ -279,7 +279,7 @@ else if ((oIgR19N7gu > fVW_ikL) || (pKUV != 1156210198))
 {
 U6DX4 = (int)ceil(gg28O_);
 }
-else if ((ddjf08sWaM & -885153216) || (Fe6Kh5Jrb < -2024788769))
+else if ((ddjf08sWaM & -885153216) || (false))
 {
 U6DX4 = (int)ceil(pKUV);
 }
@@ -348,7 +348,7 @@ else if (j7TM_F0ky <= -898311243)
 {
 ix21Zf *= 1640582954;
 }
-else if ((p_P3yU >= 423341441) && (a2q_1oS > -1430731350))
+else if ((p_P3yU >= 423341441) && (true))
 {
 if (((gg28O_) && (oIgR19N7gu > -1802799632)) || ((HhBdi0V_2 < lqxGf8) && (t3C3k)))
 {
@@ -402,7 +402,7 @@ if (I5_agbD)
 {
 if (t3C3k)
 {
-if ((t3C3k != -1986353675) && (u_H9OTvp4x & e1cFP_0E))
+if ((true) && (u_H9OTvp4x & e1cFP_0E))
 {
 ytB5S = HD2Y4uD6x ^ 740862859;
 }
@@ -456,7 +456,7 @@ if (EsAM2rk9c & -1940902119)
 fVW_ikL++;
 }
 }
-else if (dTxq_xEkw4 < 274171344)
+else if (true)
 {
 {
 int k = 0;
@@ -564,7 +564,7 @@ int j = 5;
 do
 {
 --j;
-if (((t3C3k & -904844391) && (AuMCp >= -1999245267)) && ((L98lXG1 < -1975161248) || (lqxGf8 < 1882360513)))
+if (((t3C3k & -904844391) && (AuMCp >= -1999245267)) && ((L98lXG1 < -1975161248) || (true)))
 {
 ytB5S = e1cFP_0E / Gh_M8P793;
 }
@@ -576,7 +576,7 @@ else if (((H3p15) || (u_H9OTvp4x <= 1856954743)) || (mV80_Ra57 == -948490158))
 {
 KlydK83Ik += Gh_M8P793;
 }
-else if (((XQb1_8ojHN > -186552639) && (Lg0C9ac == 1227797071)) || (MP0F7x5o9 <= -1787932291))
+else if (((XQb1_8ojHN > -186552639) && (false)) || (MP0F7x5o9 <= -1787932291))
 {
 N9X1HH1 = UXYv / Y5_GW1ya;
 }
@@ -591,7 +591,7 @@ while (j >= 0);
 
 if (M88H >= -397420202)
 {
-if ((U6DX4 != Ul612fLMM) || ((h3oXa & ytB5S) && (dTxq_xEkw4 > -1550320768)))
+if ((U6DX4 != Ul612fLMM) || ((h3oXa & ytB5S) && (true)))
 {
 std::cout << lUXf_p << "yq_UGunf" << "XFY1bnVB" << mV80_Ra57 << h3oXa << std::endl;
 }
@@ -611,7 +611,7 @@ else if (x5Z8LyI5UH <= 1074560159)
 {
 std::cout << j7TM_F0ky << L98lXG1 << std::endl;
 }
-else if ((oqDA1O3 < 2113817509) || (ytB5S <= 1876477567))
+else if ((true) || (ytB5S <= 1876477567))
 {
 std::cout << HhBdi0V_2 << "f31ySgys0" << ALIM13KL << HD2Y4uD6x << std::endl;
 }
@@ -686,7 +686,7 @@ do
 {
 try
 {
-if (((HD2Y4uD6x == 179662996) || (I5_agbD & -287236481)) || (h3oXa <= I5_agbD))
+if (((false) || (I5_agbD & -287236481)) || (h3oXa <= I5_agbD))
 {
 AuMCp = (int)floor(UXYv);
 }
@@ -819,7 +819,7 @@ while (i < 9);
 
 U6DX4 = (int)floor(UXYv);
 
-if (EsAM2rk9c == 2043981360)
+if (false)
 {
 try
 {
@@ -837,7 +837,7 @@ else if (p_P3yU)
 {
 if (HhBdi0V_2 >= Ul612fLMM)
 {
-if (ix21Zf > 651067600)
+if (false)
 {
 H3p15 &= t3C3k;
 }
@@ -881,7 +881,7 @@ break;
 while (j < 8);
 }
 }
-else if ((R4OL2U4CZ == -844874327) || ((Ht12Y68Hi < 617474379) && (fVW_ikL < 588156414)))
+else if ((false) || ((Ht12Y68Hi < 617474379) && (fVW_ikL < 588156414)))
 {
 oqDA1O3 = (unsigned short)(HD2Y4uD6x);
 }

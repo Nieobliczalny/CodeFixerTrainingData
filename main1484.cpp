@@ -311,7 +311,7 @@ Kn_XyZ = sG4uQ8(-1064516824, w_TY38Wlx);
 }
 else
 {
-if (K1vGX < -1202207541)
+if (false)
 {
 K1vGX = (na1BnXSf2 <= 1098538444) ? MK_AswX4Hg() : -1983741259;
 }
@@ -470,7 +470,7 @@ else
 BT_nA01 = CNXR - K1vGX;
 }
 }
-if (iJ80G0de > 1701564599)
+if (false)
 {
 if (ej_DKs6_ <= 1904958859)
 {

@@ -322,7 +322,7 @@ else if (xkAeI1A4V & z5HX)
 {
 for (int j = 7; j >= 0; j--)
 {
-if (xkAeI1A4V >= -155453667)
+if (true)
 {
 Z_yd3155 /= fhV33ZL_9R;
 }
@@ -367,7 +367,7 @@ catch (int& errorCode)
 Zi1wkRWO -= EmrC8lpKcZ;
 }
 }
-else if (((z5HX & 1313898525) || (Zi1wkRWO <= -1607021913)) && ((Zi1wkRWO) || (xkAeI1A4V >= -1754929698)))
+else if (((z5HX & 1313898525) || (Zi1wkRWO <= -1607021913)) && ((Zi1wkRWO) || (true)))
 {
 yf79YR_9S3 = (int)floor(EmrC8lpKcZ);
 }

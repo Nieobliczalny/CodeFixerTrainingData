@@ -61,7 +61,7 @@ int main(void) {
 
 Umg_ %= 628414940;
 
-if ((Pl1x_vl) || ((jL3LWY >= Umg_) && (dIsOTlX != t42_92sU)))
+if ((Pl1x_vl) || ((jL3LWY >= Umg_) && (true)))
 {
 {
 int j = 9;
@@ -74,7 +74,7 @@ j--;
 }
 else
 {
-if ((dIsOTlX >= C045su409) && (Pl1x_vl == Z1CTiLK3))
+if ((false) && (Pl1x_vl == Z1CTiLK3))
 {
 hFl48 = (int)floor(Pl1x_vl);
 }
@@ -90,7 +90,7 @@ Umg_ = t42_92sU | 1648782838;
 break;
 }
 }
-else if (hURI8Cb < 410984575)
+else if (true)
 {
 for (int k = 0; k < 5; k++)
 {
@@ -112,7 +112,7 @@ catch (int& errorCode)
 Oe0ujX8igN = (int)ceil(HRO666m);
 }
 }
-else if (l6gfC10t5Q > -1012765998)
+else if (true)
 {
 for (int k = 10; k >= 0; --k)
 {
@@ -202,7 +202,7 @@ std::cout << "UWb1C7C" << rpYTVDL << krIJv66hT << krIJv66hT << ukSY << std::endl
 }
 else if (hFl48 > FC_cgoz_8)
 {
-if (jL3LWY > -354215889)
+if (true)
 {
 Fc6p9kN ^= h5GIw_GClw;
 }
@@ -255,7 +255,7 @@ std::cout << MZRH << std::endl;
 }
 else
 {
-if (((XaoPMCHRF) || (hFl48 < 1582897618)) || (jL3LWY < t42_92sU))
+if (((XaoPMCHRF) || (hFl48 < 1582897618)) || (true))
 {
 switch (MZRH)
 {
@@ -337,7 +337,7 @@ catch (int& errorCode)
 FC_cgoz_8 ^= h4ehR7o;
 }
 
-if ((vtcym8i8 == X7uz) && (ukSY > IYxsx))
+if ((vtcym8i8 == X7uz) && (true))
 {
 std::cout << Fc6p9kN << ukSY << dIsOTlX << hFl48 << Umg_ << std::endl;
 }
@@ -452,7 +452,7 @@ break;
 }
 XaoPMCHRF &= krIJv66hT;
 
-if (l6gfC10t5Q >= -1729689835)
+if (true)
 {
 k5oG34 = (long double)(h5GIw_GClw);
 }
@@ -510,7 +510,7 @@ VJ2WMr1aO7 += jL3LWY;
 }
 else if (((hURI8Cb) && (krIJv66hT & hURI8Cb)) || (jdu2 == FC_cgoz_8))
 {
-if (jL3LWY != 1346207748)
+if (true)
 {
 if (XaoPMCHRF & Z1CTiLK3)
 {
@@ -713,7 +713,7 @@ break;
 }
 if ((Oe0ujX8igN) || (vtcym8i8 != t42_92sU))
 {
-if (l6gfC10t5Q == 835250187)
+if (false)
 {
 h5GIw_GClw = Z1CTiLK3 ^ 1984732735;
 }
@@ -768,7 +768,7 @@ i--;
 }
 while (i >= 0);
 }
-if (((Umg_ & 808626874) || (dIsOTlX < IYxsx)) || (vtcym8i8 != 825113871))
+if (((Umg_ & 808626874) || (false)) || (vtcym8i8 != 825113871))
 {
 if (((VJ2WMr1aO7 == -800106330) && (FC_cgoz_8 >= 5344889)) || (MZRH <= -2097973855))
 {
@@ -862,7 +862,7 @@ FC_cgoz_8 -= XaoPMCHRF;
 while (j < 8);
 }
 }
-if (jL3LWY > 1116214130)
+if (false)
 {
 switch (h4ehR7o)
 {

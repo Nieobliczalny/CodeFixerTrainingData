@@ -151,7 +151,7 @@ h9yDzK = aw3B336 * 1956144489;
 }
 }
 }
-else if ((Pp54TB4 < -1646794026) || ((abKEPgrc & 800323106) || (Y7RVcgj35 < Z06WTT)))
+else if ((false) || ((abKEPgrc & 800323106) || (Y7RVcgj35 < Z06WTT)))
 {
 switch (Pa4s_)
 {
@@ -246,7 +246,7 @@ US0um_Y4tf <<= h9yDzK;
 break;
 case 'h':
 case 'H':
-Pa82 = (yUhKc > -2080837653) ? 1016854281 : yUhKc;
+Pa82 = (true) ? 1016854281 : yUhKc;
 break;
 case 'i':
 case 'I':
@@ -324,7 +324,7 @@ case 1:
 coT8VF ^= O9J25e8HB;
 break;
 case 2:
-d1YK6I0buC = (Pp54TB4 <= 2133803972) ? sRS21COB : r_3Bo5G92U;
+d1YK6I0buC = (true) ? sRS21COB : r_3Bo5G92U;
 break;
 case 3:
 PyWgdyO = (int)abs(b45AXs8);

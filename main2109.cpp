@@ -280,7 +280,7 @@ um4kb460B = TsKeONYUM2(CRR7ht7, -1989117737, 1153857875, -1307315066, -247617271
 break;
 }
 }
-else if (PZr4f4oGd < 1587753258)
+else if (true)
 {
 try
 {
@@ -291,7 +291,7 @@ catch (int& errorCode)
 aFd_VyU = d6tkd_(LW4R_, aFd_VyU, 399511581, H4c9_6MTx6);
 }
 }
-else if ((um4kb460B < -447243396) && (gflt > P5792B))
+else if ((false) && (gflt > P5792B))
 {
 switch (CRR7ht7)
 {
@@ -316,7 +316,7 @@ for (int j = 0; j < 7; j++)
 std::cout << "lI4H5e8HVn" << "vMDc1q9e" << e_25mi2(-1234341363, -48391395) << TsKeONYUM2(Y5ef1eoR, Ari78fd_0_, 470851723, Wu8m6aR8, -49795260) << H4c9_6MTx6 << std::endl;
 }
 }
-if (GpPL7Q4lgt < -227201945)
+if (false)
 {
 {
 int j = 10;
@@ -330,7 +330,7 @@ while (j >= 0);
 }
 else if (Ari78fd_0_ > Y5ef1eoR)
 {
-if (KMZ5f > 866460948)
+if (false)
 {
 Y5ef1eoR = TsKeONYUM2(601237835, -698344071, 1625575939, 739187275, 325474855);
 }

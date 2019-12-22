@@ -177,7 +177,7 @@ if (SuWG_kY4r == 0)
 {
 	sSVPOP7y7 = 1783710982 / SuWG_kY4r;
 }
-if ((A5126di9_b == hUj621) || ((j22t8K5 < Gf2apo) || (SuWG_kY4r < -150458013)))
+if ((false) || ((j22t8K5 < Gf2apo) || (SuWG_kY4r < -150458013)))
 {
 {
 int j = 7;

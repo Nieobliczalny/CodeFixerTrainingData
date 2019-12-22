@@ -178,7 +178,7 @@ if (ot62W7 == V6k74)
 {
 if (c_qZ89 <= F0SgyAV)
 {
-if (y41J0D4 <= V6k74)
+if (false)
 {
 zoTr1tG_ = tRiql << 1203122661;
 }
@@ -269,7 +269,7 @@ p5_87_E3Q = (unsigned int)(Z1_9IWU1);
 
 for (int i = 8; i >= 0; i--)
 {
-if (qnWCW__8 == MRSR4)
+if (false)
 {
 std::cout << "PSQY1DpogX" << Fxxn << "Jjql5" << QXA_2 << std::endl;
 }
@@ -345,7 +345,7 @@ pT5_rH = (int)abs(ibyIzZ);
 }
 }
 }
-else if (((V_85q <= -977121080) && (QXA_2)) || (qF7H < -1129441128))
+else if (((false) && (QXA_2)) || (qF7H < -1129441128))
 {
 NAVl_++;
 }
@@ -443,7 +443,7 @@ SSYF = (V_85q) ? d0IMDurE : -266093324;
 break;
 }
 }
-else if (Pv_jvk564v == 2055671685)
+else if (false)
 {
 if ((d0IMDurE & pT5_rH) || ((pT5_rH) && (QXA_2 < s1C0n1)))
 {
@@ -538,7 +538,7 @@ Xgm1M83 = (int)floor(J8F1xu_qg4);
 }
 s1C0n1 = (unsigned int)(MRSR4);
 
-if (K1R87ujp <= -1042824483)
+if (false)
 {
 for (int j = 0; j < 1; ++j)
 {
@@ -553,7 +553,7 @@ break;
 }
 }
 }
-else if ((s1C0n1) || (Pqdr8WQe >= 1019519953))
+else if ((s1C0n1) || (false))
 {
 for (int j = 7; j >= 0; j--)
 {
@@ -567,7 +567,7 @@ ibyIzZ = QXA_2 - 680182643;
 }
 }
 }
-else if (((Upz452) && (V_85q <= -1795645907)) || (V_85q & -1178750573))
+else if (((Upz452) && (false)) || (V_85q & -1178750573))
 {
 {
 int j = 5;
@@ -586,7 +586,7 @@ Qr3EHrcBUV = Kus34f >> 363733735;
 while (j >= 0);
 }
 }
-else if ((NAVl_ == 1301002247) && (w3OzFx))
+else if ((false) && (w3OzFx))
 {
 aP_iOEGx = Pqdr8WQe - aZQJl_;
 }
@@ -596,7 +596,7 @@ F0SgyAV = (int)floor(N2Dda);
 }
 if (Z1_9IWU1 > -557418254)
 {
-if ((kmF00frRzS == MRSR4) || ((p5_87_E3Q >= v7gQ120) || (N2Dda >= IAC1mK)))
+if ((false) || ((p5_87_E3Q >= v7gQ120) || (N2Dda >= IAC1mK)))
 {
 if (e81r9L5h & D65X)
 {
@@ -623,7 +623,7 @@ qF7H = Upz452 >> d8w_ec_v97;
 }
 else if ((Uz_bQ4xd4 == -1378969418) && (V76f9V != RQ1rb))
 {
-if (qF7H != 164278724)
+if (true)
 {
 N2Dda = (int)floor(J8F1xu_qg4);
 }
@@ -645,7 +645,7 @@ t39xD = (int)abs(E_10175E_H);
 }
 else
 {
-if ((Sist != -1090288084) && (Qr3EHrcBUV & V_85q))
+if ((true) && (Qr3EHrcBUV & V_85q))
 {
 aP_iOEGx ^= 766450235;
 }

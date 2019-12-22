@@ -230,7 +230,7 @@ catch (int& errorCode)
 QzofLZ1l /= 1027548928;
 }
 
-if (Isw59i > 1129452746)
+if (false)
 {
 for (int j = 0; j < 2; j++)
 {

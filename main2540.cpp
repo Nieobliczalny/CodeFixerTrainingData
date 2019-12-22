@@ -318,7 +318,7 @@ while (i >= 0)
 --i;
 if (O5uG2 > qET59)
 {
-if (B37F60_ > 529176926)
+if (false)
 {
 mgufG565 = YkSuZtW(-172649456);
 }
@@ -358,7 +358,7 @@ break;
 }
 }
 }
-if ((h83157 != UW201z) && (LK_a54_C3 != x95f82))
+if ((h83157 != UW201z) && (true))
 {
 if (Rx3Yf8S7 >= uH7189ARZw)
 {
@@ -400,7 +400,7 @@ j--;
 }
 }
 }
-if (I1dN5z_QN == x95f82)
+if (false)
 {
 std::cout << qET59 << qes5f << "c_63Pq" << std::endl;
 }

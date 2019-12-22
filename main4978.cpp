@@ -52,7 +52,7 @@ U47q_jg8tU = C6H25C1 ^ 1911255553;
 }
 
 std::cout << Ims_ << C6H25C1 << "yLTJR03j" << NSCYb << "v3jh" << std::endl;
-if (((Og8Fg5 == Cn1IP31IhD) || (cg7hL84Z > Og8Fg5)) && ((SUAF < 485366611) && (Ims_ <= 1891521140)))
+if (((Og8Fg5 == Cn1IP31IhD) || (cg7hL84Z > Og8Fg5)) && ((true) && (Ims_ <= 1891521140)))
 {
 if (NaT7ru)
 {
@@ -241,7 +241,7 @@ while (k >= 0);
 }
 }
 }
-else if (NaT7ru < w63J7m_)
+else if (true)
 {
 {
 int j = 0;
@@ -291,7 +291,7 @@ for (int k = 9; k >= 0; --k)
 cg7hL84Z = U47q_jg8tU - Ims_;
 }
 }
-else if ((SUAF >= 620400890) || (Og8Fg5 == k3N7GoQ31))
+else if ((false) || (Og8Fg5 == k3N7GoQ31))
 {
 if (oOnuHl != cg7hL84Z)
 {
@@ -319,7 +319,7 @@ oOnuHl = i8vM0Q / hzQ3g;
 }
 else
 {
-if (((k2_21R4HcA < k3N7GoQ31) && (i8vM0Q < Og8Fg5)) && (NaT7ru > -557237335))
+if (((k2_21R4HcA < k3N7GoQ31) && (i8vM0Q < Og8Fg5)) && (true))
 {
 cg7hL84Z = (int)abs(hzQ3g);
 }
@@ -382,7 +382,7 @@ if (NaT7ru)
 {
 if (oOnuHl > -361587933)
 {
-if ((gIKvi <= 2002860064) || (cg7hL84Z == SUAF))
+if ((true) || (cg7hL84Z == SUAF))
 {
 VB6YP57 = (int)abs(cg7hL84Z);
 }
@@ -443,7 +443,7 @@ SUAF++;
 }
 }
 }
-else if (((U47q_jg8tU & NaT7ru) && (U47q_jg8tU <= 599421769)) && (cg7hL84Z > w63J7m_))
+else if (((U47q_jg8tU & NaT7ru) && (U47q_jg8tU <= 599421769)) && (false))
 {
 {
 int j = 0;
@@ -572,7 +572,7 @@ else if (((cg7hL84Z) || (Ims_ & k3N7GoQ31)) && (oOnuHl >= gIKvi))
 {
 cg7hL84Z <<= Og8Fg5;
 }
-else if (((hzQ3g <= k3N7GoQ31) || (Og8Fg5 != 309553193)) && (SUAF == 2011567595))
+else if (((hzQ3g <= k3N7GoQ31) || (Og8Fg5 != 309553193)) && (false))
 {
 if (hzQ3g)
 {
@@ -590,7 +590,7 @@ else if (i8vM0Q & 452941297)
 {
 std::cout << cg7hL84Z << std::endl;
 }
-else if (NaT7ru <= -1169239264)
+else if (false)
 {
 for (int k = 0; k < 2; ++k)
 {
@@ -620,7 +620,7 @@ case 'b':
 U47q_jg8tU <<= 876169005;
 break;
 case 'c':
-hzQ3g = (NaT7ru > -910421969) ? NSCYb : C6H25C1;
+hzQ3g = (true) ? NSCYb : C6H25C1;
 break;
 case 'd':
 U47q_jg8tU = (NSCYb > w63J7m_) ? Og8Fg5 : -857791439;
@@ -646,7 +646,7 @@ break;
 }
 }
 }
-else if (((UO1p6Q847 == 291057703) || (gIKvi < -277139163)) || (SUAF != k3N7GoQ31))
+else if (((UO1p6Q847 == 291057703) || (false)) || (SUAF != k3N7GoQ31))
 {
 U47q_jg8tU = (long)(k3N7GoQ31);
 }

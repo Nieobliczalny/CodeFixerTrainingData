@@ -125,7 +125,7 @@ case 1:
 ffNY50gA = (int)floor(d8gg_zJYnf);
 break;
 case 2:
-KY_BxW6 = (L5Ah < -26089137) ? -1934285528 : p9tBqnDbuV;
+KY_BxW6 = (false) ? -1934285528 : p9tBqnDbuV;
 break;
 case 3:
 VvX5Lx8_4 -= KDWNat65Ji;

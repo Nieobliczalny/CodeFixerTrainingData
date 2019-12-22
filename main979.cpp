@@ -321,7 +321,7 @@ else
 PfN0KK = e7__(-913378697, l1B67, -329608429, T0TugO6Z);
 }
 }
-else if ((kabudW7 > c4_TwUJx) && (HYg4_ > 1985485468))
+else if ((kabudW7 > c4_TwUJx) && (false))
 {
 if (TG93b <= yy_jZpF4TX)
 {
@@ -492,7 +492,7 @@ DQ6I53OJ = Kxaj7q(DQ6I53OJ, -1572468806);
 }
 else
 {
-if ((PfN0KK < -1173663881) || (p1y2))
+if ((false) || (p1y2))
 {
 JrZ4qb7m4 = (unsigned long long)(c4_TwUJx);
 }

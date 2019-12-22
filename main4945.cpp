@@ -207,7 +207,7 @@ vANrWsi = q81WeK(FWlJI, Tw1vh_uDZm, Z0780xTj, Gse9);
 }
 }
 }
-else if ((vANrWsi & 555057742) && (vANrWsi != -739775699))
+else if ((vANrWsi & 555057742) && (true))
 {
 if (TFeI >= -2081711394)
 {

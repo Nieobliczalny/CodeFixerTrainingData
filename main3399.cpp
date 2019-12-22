@@ -47,7 +47,7 @@ fM5CK3 = YwtaC(fM5CK3);
 }
 }
 
-if (NOpwGvF > -61565559)
+if (true)
 {
 snS1x6Nx = (int)abs(oP44L);
 }

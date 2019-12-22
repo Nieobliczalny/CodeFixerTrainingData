@@ -47,7 +47,7 @@ else if (A_864 > -496486512)
 {
 s_q40_z0 = (unsigned short)(M81m2k1tg * s_q40_z0);
 }
-else if (((cZgt < 1536576899) && (t89fH438V != 310904013)) && (M81m2k1tg & 2010975060))
+else if (((true) && (t89fH438V != 310904013)) && (M81m2k1tg & 2010975060))
 {
 t89fH438V &= 1182821939;
 }
@@ -165,7 +165,7 @@ t89fH438V = (int)abs(M81m2k1tg);
 i--;
 }
 }
-if ((cZgt == -870895532) && (cZgt >= M81m2k1tg))
+if ((false) && (cZgt >= M81m2k1tg))
 {
 A_864 = SlOf(cZgt, 797155152, 1107151489);
 }
@@ -230,7 +230,7 @@ std::cout << "GA7abAuh2" << std::endl;
 }
 else
 {
-if ((cZgt) || (cZgt <= 780328460))
+if ((cZgt) || (true))
 {
 t89fH438V = (int)abs(A_864);
 }
@@ -271,7 +271,7 @@ if ((cZgt / s_q40_z0) < 209705286)
 M81m2k1tg = -1893922808 / cZgt;
 }
 
-if (cZgt > -195638111)
+if (true)
 {
 try
 {

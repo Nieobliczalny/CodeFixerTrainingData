@@ -34,7 +34,7 @@ int main() {
 	short int	Jn3BI3	=	-709306452,	yk6_SHXHR	=	-1211200325,	Bd8POi	=	1740623086,	leA6OJtO	=	-615849115,	b2m59a4g	=	22137287,	Ky8eA	=	22718194,	jUHL7m3O	=	-347745137,	B_RwoIf	=	1937652104,	VHVL	=	213438797,	Jp_8y02z1a	=	924013404,	Vj20	=	138558385,	x0PJE_	=	-2064396869,	pl6_X	=	411061655,	Pq980c5_bW	=	707503924,	H89eoG1C	=	-1439751076,	wHMIJZ62	=	257973394,	n0D63qjK	=	-277284402,	Te1k_mgI	=	-2142526226,	iZ0U47S2c	=	-1131449358,	KVdx9PS	=	247890130;
     char    W_im9    =    0,    avFRK5i    =    0,    j8TkRZad09    =    0;
 
-if ((j8TkRZad09 < 2051754078) || (n0D63qjK >= zAe3c81f))
+if ((true) || (n0D63qjK >= zAe3c81f))
 {
 if ((W_im9 != 1025157690) && (pl6_X <= iZ0U47S2c))
 {
@@ -176,7 +176,7 @@ std::cout << KVdx9PS << std::endl;
 }
 else
 {
-if (Bd8POi < tiuJ9vQPdu)
+if (true)
 {
 jUHL7m3O = Vj20 | 767744995;
 }
@@ -216,7 +216,7 @@ for (int j = 0; j < 1; ++j)
 {
 if ((Jp_8y02z1a >= Jn3BI3) && (avFRK5i))
 {
-Te1k_mgI = (j8TkRZad09 > AV7JBS) ? Vj20 : Vj20;
+Te1k_mgI = (true) ? Vj20 : Vj20;
 }
 }
 }
@@ -239,7 +239,7 @@ else if (wHMIJZ62 & tiuJ9vQPdu)
 {
 B_RwoIf = j8TkRZad09 ^ Pq980c5_bW;
 }
-else if ((Jp_8y02z1a > AV7JBS) && (KVdx9PS > -1340543083))
+else if ((true) && (KVdx9PS > -1340543083))
 {
 b2m59a4g += 690264371;
 }
@@ -251,7 +251,7 @@ else if ((Bd8POi <= 519710573) || ((leA6OJtO & 1107606864) && (n0D63qjK & H89eoG
 {
 Jn3BI3 = QZ0F8dxmv5();
 }
-else if ((pl6_X != j8TkRZad09) && ((j8TkRZad09 >= W_im9) && (W_im9 != 23582429)))
+else if ((pl6_X != j8TkRZad09) && ((j8TkRZad09 >= W_im9) && (true)))
 {
 Jp_8y02z1a = AV7JBS + 1419408540;
 }
@@ -272,7 +272,7 @@ else
 B_RwoIf = (short int)(zAe3c81f);
 }
 }
-else if ((n0D63qjK >= -915642408) && (Te1k_mgI < -1850738709))
+else if ((true) && (Te1k_mgI < -1850738709))
 {
 Jp_8y02z1a = (short int)(JX0y + (AV7JBS));
 }
@@ -314,7 +314,7 @@ while (i < 1)
 i++;
 for (int j = 0; j < 3; j++)
 {
-if (wHMIJZ62 == 1830779039)
+if (false)
 {
 b2m59a4g++;
 }
@@ -364,7 +364,7 @@ wHMIJZ62 = Vj20 ^ b2m59a4g;
 while (k < 3);
 }
 }
-else if (VHVL < -682816124)
+else if (false)
 {
 if (pl6_X > 490391978)
 {
@@ -431,7 +431,7 @@ else if (Vj20 != x0PJE_)
 {
 b2m59a4g = KVdx9PS - 2091900796;
 }
-else if ((leA6OJtO < 727916854) && ((wHMIJZ62 >= Bd8POi) || (Vj20 <= x0PJE_)))
+else if ((true) && ((wHMIJZ62 >= Bd8POi) || (Vj20 <= x0PJE_)))
 {
 {
 int j = 8;

@@ -29,7 +29,7 @@ if (vCK2k & 361773716)
 {
 a7RT9Hl90 = (unsigned long)(dOY5w + (-1271518160));
 }
-else if ((Vyvvc1fI3N < -1338199839) || (Vyvvc1fI3N < vCK2k))
+else if ((false) || (Vyvvc1fI3N < vCK2k))
 {
 try
 {
@@ -107,7 +107,7 @@ catch (int& errorCode)
 {
 NZ9r2M -= vCK2k;
 }
-if ((dOY5w > 942229724) || ((k3CWbB == 1392560859) && (Vyvvc1fI3N > -936306393)))
+if ((dOY5w > 942229724) || ((false) && (Vyvvc1fI3N > -936306393)))
 {
 if (((vCK2k == -1614994348) || (NZ9r2M == 376627468)) || ((vCK2k == 1453061396) || (dOY5w != -230615201)))
 {
@@ -119,7 +119,7 @@ else if (exv6j_xI == -1988123707)
 {
 NZ9r2M = vCK2k % a7RT9Hl90;
 }
-else if (Vyvvc1fI3N > -1411572373)
+else if (true)
 {
 Vyvvc1fI3N++;
 }
@@ -147,7 +147,7 @@ catch (int& errorCode)
 Vyvvc1fI3N /= 1771525546;
 }
 
-if (NZ9r2M >= 1343623574)
+if (false)
 {
 QfKVF2L = k3CWbB * 1204714705;
 }
@@ -183,7 +183,7 @@ else if (lP_3yr0 != QfKVF2L)
 {
 if (QfKVF2L != 1275612897)
 {
-if (k3CWbB > -668550408)
+if (true)
 {
 QfKVF2L ^= 195093133;
 }
@@ -226,7 +226,7 @@ break;
 }
 }
 }
-else if (((exv6j_xI >= lP_3yr0) || (exv6j_xI == 167670349)) || (k3CWbB == 1834403569))
+else if (((exv6j_xI >= lP_3yr0) || (exv6j_xI == 167670349)) || (false))
 {
 {
 int j = 0;
@@ -255,7 +255,7 @@ else if ((USuN2Gnk_3 & 236560687) || (vCK2k < a7RT9Hl90))
 {
 for (int k = 0; k < 6; ++k)
 {
-vCK2k = (k3CWbB >= -826280093) ? -1519775173 : vCK2k;
+vCK2k = (true) ? -1519775173 : vCK2k;
 }
 }
 else if (dOY5w >= vCK2k)
@@ -268,7 +268,7 @@ if (exv6j_xI)
 {
 a7RT9Hl90 /= 1068283560;
 }
-else if (Vyvvc1fI3N == -1149906189)
+else if (false)
 {
 Vyvvc1fI3N++;
 }
@@ -284,7 +284,7 @@ else if ((QfKVF2L) || (exv6j_xI < 1442623399))
 {
 Vyvvc1fI3N ^= 738169330;
 }
-else if ((NZ9r2M < 1550690082) || (exv6j_xI < -215118445))
+else if ((true) || (exv6j_xI < -215118445))
 {
 exv6j_xI = lP_3yr0 - 1282702713;
 }
@@ -393,7 +393,7 @@ exv6j_xI = NZ9r2M / a7RT9Hl90;
 }
 }
 
-if (k3CWbB <= -582607802)
+if (false)
 {
 switch (Vyvvc1fI3N)
 {
@@ -472,7 +472,7 @@ Vyvvc1fI3N = dOY5w + 1237086943;
 break;
 }
 }
-else if (NZ9r2M < -223728904)
+else if (false)
 {
 if ((lP_3yr0 != NZ9r2M) && (dOY5w >= k3CWbB))
 {
@@ -522,7 +522,7 @@ catch (int& errorCode)
 lP_3yr0 = (a7RT9Hl90 >= 469338973) ? USuN2Gnk_3 : -1470633274;
 }
 
-if (NZ9r2M >= 1501221350)
+if (false)
 {
 QfKVF2L = (int)abs(k3CWbB) + (-1641821794);
 }
@@ -642,7 +642,7 @@ case 'd':
 lP_3yr0 = QfKVF2L % 444200329;
 break;
 case 'e':
-QfKVF2L = (NZ9r2M > -343903453) ? USuN2Gnk_3 : QfKVF2L;
+QfKVF2L = (true) ? USuN2Gnk_3 : QfKVF2L;
 break;
 case 'f':
 NZ9r2M ^= 757937211;

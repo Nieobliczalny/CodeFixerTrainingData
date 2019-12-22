@@ -69,7 +69,7 @@ break;
 std::cout << fU03(ui_DDw2, 2114801716, 320457983, 1806348251) << "WzsImUHM" << cg9vIS0b << toGACDr5 << zlGelYivum << std::endl;
 if (a3iGF9g)
 {
-if ((E2Amg2a5 & -1761071478) && (PG7zuwI < 1212618356))
+if ((E2Amg2a5 & -1761071478) && (true))
 {
 for (int k = 0; k < 4; ++k)
 {
@@ -150,7 +150,7 @@ else if (XP_BTL <= 1532426919)
 {
 J0SlCBn4gs *= nt_P6W4;
 }
-else if ((O63jf0Je > cg9vIS0b) || ((fB8vZZ != 1290041220) || (ysn7L <= toGACDr5)))
+else if ((O63jf0Je > cg9vIS0b) || ((true) || (ysn7L <= toGACDr5)))
 {
 O63jf0Je = (int)abs(a3iGF9g) * 0;
 }
@@ -191,7 +191,7 @@ zlGelYivum >>= pi25E;
 X8y9axs6z0 = zlGelYivum * zlGelYivum;
 for (int i = 0; i < 6; i++)
 {
-if (PG7zuwI > 359346142)
+if (false)
 {
 switch (X8y9axs6z0)
 {
@@ -226,7 +226,7 @@ while (k < 10);
 }
 else if (O63jf0Je & 704408509)
 {
-if ((ui_DDw2 < -1220387660) && ((O63jf0Je > -930674417) && (X8y9axs6z0 != 1466680305)))
+if ((ui_DDw2 < -1220387660) && ((true) && (X8y9axs6z0 != 1466680305)))
 {
 pi25E = toGACDr5 / XP_BTL;
 }
@@ -333,7 +333,7 @@ else if (ric7VTzB1 != 766453163)
 {
 O63jf0Je = (char)(XP_BTL * O63jf0Je);
 }
-else if (((PG7zuwI <= 1620107936) && (a3iGF9g < ric7VTzB1)) && ((zlGelYivum >= -1767615632) || (J0SlCBn4gs < 1476997271)))
+else if (((true) && (a3iGF9g < ric7VTzB1)) && ((zlGelYivum >= -1767615632) || (J0SlCBn4gs < 1476997271)))
 {
 if (((ysn7L < 1150137796) || (X8y9axs6z0 & I_wnoQ40t)) || (fB8vZZ & nt_P6W4))
 {
@@ -354,7 +354,7 @@ else if (E2Amg2a5 <= -112250327)
 {
 nt_P6W4 = (int)abs(a3iGF9g);
 }
-else if (fB8vZZ != -529123879)
+else if (true)
 {
 std::cout << pi25E << std::endl;
 }
@@ -386,7 +386,7 @@ O63jf0Je = fU03(-435904503, -1489968041, PG7zuwI, Jg5I3POpN8);
 }
 }
 }
-else if (((ric7VTzB1 <= fB8vZZ) || (pi25E < 1016246690)) && (O63jf0Je & J0SlCBn4gs))
+else if (((ric7VTzB1 <= fB8vZZ) || (true)) && (O63jf0Je & J0SlCBn4gs))
 {
 O63jf0Je = fU03(2142979842, 1430726354, 1583470409, -643205241);
 }
@@ -463,7 +463,7 @@ if (J0SlCBn4gs > -1512794309)
 XP_BTL = (double)(zlGelYivum);
 }
 }
-if ((Jg5I3POpN8 >= 1521173607) || ((pi25E & PG7zuwI) || (E2Amg2a5)))
+if ((false) || ((pi25E & PG7zuwI) || (E2Amg2a5)))
 {
 zlGelYivum = J0SlCBn4gs << 1702629847;
 }

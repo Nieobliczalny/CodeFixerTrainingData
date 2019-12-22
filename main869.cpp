@@ -148,7 +148,7 @@ if (BxFB != 1716380553)
 {
 if (x5OW6p67c > 1590098403)
 {
-if (VZmRwQLD <= -475688265)
+if (false)
 {
 Pty24hC3 = d8Fe0MLi - 999805414;
 }
@@ -306,7 +306,7 @@ gic5RCe = o8EN_(u0_g0, 486643591, 1643162052, VF332B);
 }
 while (i >= 0);
 }
-if (RELdkb > -144869224)
+if (true)
 {
 for (int j = 0; j < 5; ++j)
 {

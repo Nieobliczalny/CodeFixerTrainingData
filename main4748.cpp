@@ -96,7 +96,7 @@ std::cout << i1H5ShyB << C7gE_qh8G << MI6Bq87 << f1d8MN22 << std::endl;
 
 std::cout << "WL46LkjzD" << std::endl;
 
-if (BKY8_n == 1634848466)
+if (false)
 {
 if (lkJL == ZXh7)
 {
@@ -195,7 +195,7 @@ RDh7 = (unsigned int)(nnOI0);
 }
 else
 {
-if ((xjv4bPhRI <= 1798158425) && (y2ZOtMZ1 <= pg5D8Be2Z8))
+if ((true) && (y2ZOtMZ1 <= pg5D8Be2Z8))
 {
 MI6Bq87++;
 }
@@ -219,7 +219,7 @@ k++;
 while (k < 4);
 }
 }
-else if ((Wd2OE6g465 & X7Ha) || (CtpieVZ8_ < -662907542))
+else if ((Wd2OE6g465 & X7Ha) || (false))
 {
 if (KLxrmnU4_V <= NN4BZ)
 {
@@ -269,7 +269,7 @@ if (lkJL & iBE_J)
 {
 x3QczR = (int)abs(f1d8MN22);
 }
-else if (((e_X3m37La & pg5D8Be2Z8) && (aGVH0pt)) || (AdXS6 != pg5D8Be2Z8))
+else if (((true) && (aGVH0pt)) || (AdXS6 != pg5D8Be2Z8))
 {
 M1ezg = dTQGa & qZ35X0;
 }
@@ -289,7 +289,7 @@ M1ezg = (int)ceil(zkAyf9lg);
 
 if (ofnRYNH5wj)
 {
-if (e_X3m37La <= 698973158)
+if (true)
 {
 std::cout << x3QczR << std::endl;
 }
@@ -378,7 +378,7 @@ while (j < 2);
 }
 while (i < 4);
 }
-if (e_X3m37La > -760473808)
+if (true)
 {
 std::cout << VtJ77C4M0e << JWRqm << CtpieVZ8_ << std::endl;
 }

@@ -122,7 +122,7 @@ catch (int& errorCode)
 FCS1xK83T5 = PRnjoPw6 >> 1406488064;
 }
 }
-else if (PRnjoPw6 != 475215193)
+else if (true)
 {
 try
 {
@@ -162,7 +162,7 @@ catch (int& errorCode)
 fA3L7m93 >>= 1499665266;
 }
 }
-else if (gxS9OVQ08G <= 901523685)
+else if (true)
 {
 Nlc8_UqT *= VjuN;
 }
@@ -176,7 +176,7 @@ if (mYllyc4b >= SBxV)
 gxS9OVQ08G = (SBxV == pl_xF) ? 261828509 : pl_xF;
 }
 
-if (eEJlhV_ >= 1742851867)
+if (false)
 {
 eEJlhV_ = PRnjoPw6 | 645146920;
 }
@@ -217,7 +217,7 @@ while (k < 3);
 }
 }
 }
-if ((eEJlhV_ > -1246679171) && (PRnjoPw6 < pl_xF))
+if ((true) && (PRnjoPw6 < pl_xF))
 {
 eEJlhV_ *= 2013243686;
 }
@@ -235,7 +235,7 @@ VjuN &= 488892165;
 }
 }
 }
-else if (ITMA1 > 1798323318)
+else if (false)
 {
 if (Rxd8_ >= gxS9OVQ08G)
 {
@@ -301,7 +301,7 @@ ITMA1 = pl_xF / 1748972345;
 
 gxS9OVQ08G = HuTA4o / mYllyc4b;
 
-eEJlhV_ = (XDZ363 != -37202064) ? t_a5CoPWI : pl_xF;
+eEJlhV_ = (true) ? t_a5CoPWI : pl_xF;
 
 for (int i = 2; i >= 0; --i)
 {

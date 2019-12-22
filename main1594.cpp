@@ -279,7 +279,7 @@ else if (W5XZVy_F3 <= Ak2ID20)
 {
 Vl21Zr ^= 1674820257;
 }
-else if ((gY7Yj_4t_V & HMvtzrAtX1) && ((k__K != 455867182) || (EZ41e3 != 1757688943)))
+else if ((gY7Yj_4t_V & HMvtzrAtX1) && ((true) || (EZ41e3 != 1757688943)))
 {
 for (int j = 3; j >= 0; --j)
 {

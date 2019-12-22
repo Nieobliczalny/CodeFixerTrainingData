@@ -62,7 +62,7 @@ if ((T464nC4a > 1865229129) || ((FrzI & UM_jPy0Eb) && (NOyfi == 1636905365)))
 {
 if (rm3_l & y_jVwRdI3)
 {
-if (gnsM >= -594569957)
+if (true)
 {
 zP95jROU77 = asT2h * nkm97_;
 }
@@ -109,7 +109,7 @@ int i = 6;
 while (i >= 0)
 {
 i--;
-if (pH9N > -1231784770)
+if (true)
 {
 FrzI = (y8S52 == u3YL7MhN) ? F0jYNYE6 : nkm97_;
 }
@@ -199,7 +199,7 @@ while (i < 9)
 {
 for (int j = 0; j < 5; ++j)
 {
-if (FrzI < -1426474781)
+if (false)
 {
 PuHly2 = tAaP(PuHly2, FrzI, E2GC0rz, asT2h);
 }
@@ -263,7 +263,7 @@ F0jYNYE6 = (unsigned long long)(H6tC0cuHz3);
 
 std::cout << FrzI << std::endl;
 
-if (rm3_l < -920995892)
+if (false)
 {
 {
 int j = 0;

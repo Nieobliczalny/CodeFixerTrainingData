@@ -254,7 +254,7 @@ O9M3jx3 = DMweh98k(-606809609, 1402736821, hnqp);
 cout << "lV_L45L" << cIslPa4 << "J3gH94Nr" << endl;
 try
 {
-if ((cIslPa4 == 621195554) || (Ku48qff5))
+if ((false) || (Ku48qff5))
 {
 IMHP4M--;
 }
@@ -307,7 +307,7 @@ JnEy = (unsigned short)(EhLG);
 }
 }
 
-if ((qa3W63nTKg <= 308955733) && (XYcE & pSG8P72K))
+if ((true) && (XYcE & pSG8P72K))
 {
 for (int j = 0; j < 2; j++)
 {
@@ -387,7 +387,7 @@ hqnZD_a = (int)abs(xp04);
 }
 else
 {
-XYcE = (jdi2U9Wb1x >= -1329295275) ? 1274509885 : XYcE;
+XYcE = (true) ? 1274509885 : XYcE;
 }
 }
 }

@@ -623,7 +623,7 @@ while (k >= 0);
 
 if (DXj4 <= zD7PIyaObw)
 {
-if (sXnqX3N <= 1821145396)
+if (true)
 {
 t3mk = xi9qVAY1();
 }
@@ -763,7 +763,7 @@ break;
 }
 }
 }
-else if (H72643 == 2007767275)
+else if (false)
 {
 for (int j = 0; j < 7; j++)
 {

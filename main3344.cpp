@@ -170,7 +170,7 @@ if (Ivk5 <= pJ2KE89t9)
 {
 BTBfe6V4o = (char)(I_4953_);
 }
-else if (w6J1iX < -1478331518)
+else if (false)
 {
 bgL8C8 = H7WV6b(-2142994610, 272633566, LT7LI1, NI4k);
 }
@@ -260,7 +260,7 @@ else if ((hY9Zpwh) || (K8y6dX3k_))
 {
 pV6a86 = jM_L_DTCP(-1647616725, n5yuy506f, 256464336);
 }
-else if ((af_G8 != oF43gTOaiL) || ((kxn430k < 1742475932) || (P31JI < -726025780)))
+else if ((af_G8 != oF43gTOaiL) || ((true) || (P31JI < -726025780)))
 {
 P31JI = (int)ceil(o5jsf_R);
 }
@@ -280,7 +280,7 @@ for (int j = 5; j >= 0; j--)
 cout << M0GBu(-1656636908, -617952212) << n5yuy506f << H7WV6b(zO5gmo4, -2014146319, Ivk5, v8EF3BB1mR) << M0GBu(472069788, -170497825) << endl;
 }
 }
-else if (nKxH > -781559377)
+else if (true)
 {
 if (jZVh >= I_4953_)
 {
@@ -471,7 +471,7 @@ else if (Tl2WaQ0b_e > -1476017885)
 {
 NSl8jvsE7 = M0GBu(-1126594929, Ivk5);
 }
-else if ((RINx7 <= 1013866935) && ((KcMBFNuwF < BTBfe6V4o) && (V1r8kW1 >= 1346805458)))
+else if ((RINx7 <= 1013866935) && ((KcMBFNuwF < BTBfe6V4o) && (false)))
 {
 KNNR = H7WV6b(759679100, -1940341520, v8EF3BB1mR, 706870051);
 }
@@ -513,7 +513,7 @@ K8y6dX3k_ <<= Kak5WHK5;
 break;
 }
 }
-else if (((KNNR != 227785119) || (LF068An3_4 < Tl2WaQ0b_e)) && ((pV6a86 <= -470436824) && (Ht2y3Eq63 < -803047485)))
+else if (((true) || (LF068An3_4 < Tl2WaQ0b_e)) && ((pV6a86 <= -470436824) && (Ht2y3Eq63 < -803047485)))
 {
 try
 {
@@ -529,7 +529,7 @@ else if (DUdkbQ8u & 1838069801)
 {
 n5yuy506f += NSl8jvsE7;
 }
-else if ((R_6k_ != 1913431817) || (nKxH & -1617660428))
+else if ((true) || (nKxH & -1617660428))
 {
 p4Mrp = jM_L_DTCP(ZH603vN, n6r6, -1799513744);
 }
@@ -568,7 +568,7 @@ if (jM_L_DTCP(-1661225825, P31JI, -588540013) == 0)
 
 ilc612G20 = M0GBu(-551871842, Tl2WaQ0b_e);
 
-if ((DkaaEeNu >= NI4k) || ((tK9W < -1865012588) && (aB_JT <= 431705341)))
+if ((DkaaEeNu >= NI4k) || ((tK9W < -1865012588) && (true)))
 {
 if (hY9Zpwh >= -1862778660)
 {
@@ -649,7 +649,7 @@ else if (Kma315_Md == hY9Zpwh)
 {
 kxn430k |= Kma315_Md;
 }
-else if (((DkaaEeNu) && (kxn430k >= -191889353)) && (Rye5B184 > 2095257174))
+else if (((DkaaEeNu) && (true)) && (Rye5B184 > 2095257174))
 {
 ZU714 <<= R_6k_;
 }

@@ -92,7 +92,7 @@ tE834r--;
 while (j >= 0);
 }
 }
-else if (N82dgTT > -1580065444)
+else if (true)
 {
 {
 int j = 1;
@@ -110,7 +110,7 @@ for (int j = 4; j >= 0; j--)
 std::cout << nCcfH_r8 << "ee1s33s" << vBxN5 << std::endl;
 }
 }
-else if (Lm2qtf_8 > 1982925372)
+else if (false)
 {
 {
 int j = 9;
@@ -132,7 +132,7 @@ else
 {
 z65d_0NA = (int)abs(nCcfH_r8) + (-975874993);
 }
-if (((kBna & -584345220) || (T_DMRM6_ui <= 1167851864)) && ((HGt5 >= 1157373205) && (QFTRE > 1928650970)))
+if (((kBna & -584345220) || (T_DMRM6_ui <= 1167851864)) && ((false) && (QFTRE > 1928650970)))
 {
 if (betHnlq <= K667j9Sv)
 {
@@ -148,7 +148,7 @@ else if (tt9KNG_z & -1816777763)
 {
 k776488cJZ = (int)abs(tt9KNG_z);
 }
-else if (yi_iw <= -1056952735)
+else if (false)
 {
 R83fdNPO++;
 }
@@ -165,7 +165,7 @@ else if (((w0gCn) || (k776488cJZ <= -717222216)) || ((qG_3h > -449363908) || (QF
 {
 std::cout << "zfT7j" << std::endl;
 }
-else if (yi_iw == -97035965)
+else if (false)
 {
 switch (Lm2qtf_8)
 {
@@ -194,7 +194,7 @@ Fh7j3b6Pt *= 286090540;
 kBna = -381004990 / nCcfH_r8;
 
 HGt5 = HGt5 * 1674776467;
-if (N82dgTT <= 1388077539)
+if (true)
 {
 kBna += QFTRE;
 }
@@ -223,7 +223,7 @@ else if (Pfh_KG <= HGt5)
 {
 kBna++;
 }
-else if (z65d_0NA <= 1641451028)
+else if (true)
 {
 if ((Fh7j3b6Pt == -1240350082) && (z65d_0NA != 48416156))
 {
@@ -241,7 +241,7 @@ betHnlq = (int)abs(QFTRE);
 }
 }
 }
-else if (((T_DMRM6_ui & 407872975) && (LK3bTq716n > -1471999831)) || (ZI0J3iEGPn < Lm2qtf_8))
+else if (((T_DMRM6_ui & 407872975) && (true)) || (ZI0J3iEGPn < Lm2qtf_8))
 {
 switch (qG_3h)
 {
@@ -304,7 +304,7 @@ if ((R83fdNPO <= Lm2qtf_8) || (aedDm))
 WOcWl6UioI |= K667j9Sv;
 }
 }
-if (K667j9Sv == -1568253711)
+if (false)
 {
 std::cout << vBxN5 << QFTRE << std::endl;
 }
@@ -339,7 +339,7 @@ w0gCn *= 921960325;
 break;
 }
 }
-if (z65d_0NA >= -125680798)
+if (true)
 {
 if (Fh7j3b6Pt == qG_3h)
 {
@@ -366,7 +366,7 @@ else if (w0gCn <= Pfh_KG)
 {
 w0gCn = (vBxN5 <= tt9KNG_z) ? QFTRE : tt9KNG_z;
 }
-else if ((z65d_0NA >= kBna) || (Lm2qtf_8 == -293078829))
+else if ((z65d_0NA >= kBna) || (false))
 {
 LK3bTq716n &= HGt5;
 }

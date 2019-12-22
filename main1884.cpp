@@ -132,7 +132,7 @@ JfiE = CnLNt_(JfiE, -418475122);
 break;
 }
 }
-else if (((ac98 >= k_ts) || (b490bx7g > 1666768401)) || (Dl34 >= k_ts))
+else if (((ac98 >= k_ts) || (false)) || (Dl34 >= k_ts))
 {
 {
 int j = 0;
@@ -145,7 +145,7 @@ std::cout << "j5LENPr2" << "hI6_g" << aBKf << std::endl;
 }
 else if (Dn3CQW12 > XrA9i0g)
 {
-if (QpF7Prh < -1321182170)
+if (false)
 {
 if (j7dS9YGz66 & -1984279284)
 {
@@ -181,7 +181,7 @@ aI9f_iRl = SfodMt96nn();
 }
 }
 }
-else if (((j7dS9YGz66 < 2082570727) && (CqJHnulN >= NK2KR7U)) && (NK2KR7U & -1186007886))
+else if (((true) && (CqJHnulN >= NK2KR7U)) && (NK2KR7U & -1186007886))
 {
 if (E_P_42m3q3)
 {
@@ -195,7 +195,7 @@ else if (b490bx7g & XrA9i0g)
 {
 uby_RM88 = SfodMt96nn();
 }
-else if (((aI9f_iRl <= 1277001593) || (hqPE8 == -1329780433)) || ((O_i_7 & 768640489) && (nyM0 == XrA9i0g)))
+else if (((true) || (hqPE8 == -1329780433)) || ((O_i_7 & 768640489) && (nyM0 == XrA9i0g)))
 {
 ilHpT331 = SfodMt96nn();
 }
@@ -246,7 +246,7 @@ for (int j = 0; j < 9; ++j)
 T1mcB2qi = SfodMt96nn();
 }
 }
-if (ZIYuvCZ < 1868281416)
+if (true)
 {
 nyM0--;
 }
@@ -349,7 +349,7 @@ uby_RM88 = (short)(XrA9i0g + (-521561709));
 }
 else if (E_P_42m3q3 == XrA9i0g)
 {
-if (uWprkIIJz < -1505633191)
+if (false)
 {
 D385M0j4k = I2Qp4Y + 1526283599;
 }
@@ -454,7 +454,7 @@ catch (int& errorCode)
 wWsP_UR = SfodMt96nn();
 }
 }
-else if ((ilHpT331 >= O_i_7) && ((t4VuY_gd98 == 1064984697) && (QpF7Prh <= 1969420834)))
+else if ((ilHpT331 >= O_i_7) && ((false) && (QpF7Prh <= 1969420834)))
 {
 k_ts = Vuz_LL_fD & TOCvGSyg3;
 }
@@ -473,7 +473,7 @@ else if (H89v3F2T)
 {
 zpXGzh = (short)(XrA9i0g + (-1730733393));
 }
-else if (ac98 < 1004621651)
+else if (true)
 {
 ZIYuvCZ = e9eWPe6eo(hqPE8, -113911020, R8nl);
 }
@@ -495,7 +495,7 @@ else if (L1tSJ1 > XrA9i0g)
 {
 ac98 ^= 565115931;
 }
-else if ((uby_RM88 > -7655531) || ((uby_RM88 > 1166279299) || (mE_O4 == XrA9i0g)))
+else if ((true) || ((uby_RM88 > 1166279299) || (mE_O4 == XrA9i0g)))
 {
 Heimk08u9 = CnLNt_(-1967670095, -1402201869);
 }
@@ -531,7 +531,7 @@ else
 ilHpT331 = CnLNt_(ilHpT331, mE_O4);
 }
 }
-else if ((mE_O4 < 429203446) && (t4VuY_gd98 > XrA9i0g))
+else if ((true) && (t4VuY_gd98 > XrA9i0g))
 {
 if (uby_RM88 != 1785601483)
 {
@@ -632,7 +632,7 @@ CqJHnulN = iA9nn3 + 163042826;
 }
 while (i < 4);
 }
-if ((T1mcB2qi != aBKf) || (EyQiouTTYK >= -613631299))
+if ((T1mcB2qi != aBKf) || (true))
 {
 try
 {

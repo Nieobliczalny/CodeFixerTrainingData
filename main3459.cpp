@@ -86,7 +86,7 @@ Hw7z0K33wb = Rm4exnslv >> ch283;
 break;
 case 'b':
 case 'B':
-Q_toGj3O0 = (Ohu_U6TlE >= 591094012) ? f_RkD : GS88el8;
+Q_toGj3O0 = (false) ? f_RkD : GS88el8;
 break;
 case 'c':
 case 'C':

@@ -107,7 +107,7 @@ KZ3pDebxp = (int)abs(Gb7_KK117);
 break;
 }
 }
-else if (fmMVd_ == 291204523)
+else if (false)
 {
 try
 {
@@ -140,7 +140,7 @@ KRfX *= Mc25u;
 while (j >= 0);
 }
 }
-else if ((YCBd) || ((KRfX & i4_RlGGd) || (ums0 <= -946375565)))
+else if ((YCBd) || ((KRfX & i4_RlGGd) || (false)))
 {
 if (uaDi3E8 <= 549009888)
 {

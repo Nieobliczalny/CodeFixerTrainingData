@@ -19,7 +19,7 @@ int main(int argc, char** argv) {
  short int wo11, abP4XxXQ, aOjY6up, dr9BS6, K17M15rfPm, zs66_C7EE, OUq5C, wFh1_, rOH2V1xtj, H14a, ClT83191, fq0dpu2, QX7esJ9G, MG_Rb, lgtqvl0A, qnLVbU891, nQKnab_, d88493, qMNPbFi8C, QP4M, vrdKy3Ud, tP2fM720I, rh2jA_1lb, T25W, d99wRxj9, fvFFEL_F5, Vic15, SVUA, NxEWEm, oGj96, NbQUT, sb3cW, Yk2S, inezkj8m1_, ARx2SD, N_mn_fglf0, xh81Dx7, S7woSdn6I, U99n7ULf2H, Gec0EcSf6, ZpXSBAys, KF52Y, NmnTs196a, tCsF5Pri, LIfNw, xh_a0, v3z2_9, yceG;
   wo11 = abP4XxXQ = aOjY6up = dr9BS6 = K17M15rfPm = zs66_C7EE = OUq5C = wFh1_ = rOH2V1xtj = H14a = ClT83191 = fq0dpu2 = QX7esJ9G = MG_Rb = lgtqvl0A = qnLVbU891 = nQKnab_ = d88493 = qMNPbFi8C = QP4M = vrdKy3Ud = tP2fM720I = rh2jA_1lb = T25W = d99wRxj9 = fvFFEL_F5 = Vic15 = SVUA = NxEWEm = oGj96 = NbQUT = sb3cW = Yk2S = inezkj8m1_ = ARx2SD = N_mn_fglf0 = xh81Dx7 = S7woSdn6I = U99n7ULf2H = Gec0EcSf6 = ZpXSBAys = KF52Y = NmnTs196a = tCsF5Pri = LIfNw = xh_a0 = v3z2_9 = yceG = -350003761;
 
-if (yceG != 1425517111)
+if (true)
 {
 NxEWEm = Yk2S / v3z2_9;
 }

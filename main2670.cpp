@@ -179,7 +179,7 @@ int j = 0;
 do
 {
 ++j;
-if (fHFwE == -762601341)
+if (false)
 {
 Xee4_Z3r = (int)abs(HGg9NF);
 }
@@ -474,7 +474,7 @@ else
 {
 if (MzPfZ6 < 86199099)
 {
-if (d3z9 < 1942687851)
+if (true)
 {
 I21RsP8Kf = mxc84aN_(2050769176, MeL0a_DxQ);
 }
@@ -517,7 +517,7 @@ else
 tV4G7V = SkW_0J(1452868622, S898l);
 }
 }
-else if (fHFwE >= -574587484)
+else if (true)
 {
 cout << d12uGcvUF << endl;
 }
@@ -570,7 +570,7 @@ if (b373IYv != -155970034)
 {
 e6Y3Og = (unsigned long)(ECid_ + (-1968805267));
 }
-else if ((qjPtv == ECid_) || (rq0_b > XA15tvc))
+else if ((qjPtv == ECid_) || (false))
 {
 YZ15G_T = (unsigned int)(ECid_ + (XA15tvc));
 }

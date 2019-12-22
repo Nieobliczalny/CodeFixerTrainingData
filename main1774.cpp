@@ -240,7 +240,7 @@ int k = 4;
 do
 {
 --k;
-Q_rsM5I74 = (crH6 <= -1842963260) ? t6CLvi : 769402841;
+Q_rsM5I74 = (false) ? t6CLvi : 769402841;
 }
 while (k >= 0);
 }

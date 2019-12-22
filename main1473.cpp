@@ -46,7 +46,7 @@ P0V7 = jtnihKIStG(-1125944804, 570120401, W7h4gLI57, b1V9N_36) / NHWxncC(VgfI657
 
 for (int i = 0; i < 3; ++i)
 {
-if (kKv9XzMgdN <= -1207677582)
+if (false)
 {
 {
 int k = 2;

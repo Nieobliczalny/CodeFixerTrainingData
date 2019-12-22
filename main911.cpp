@@ -205,7 +205,7 @@ else if (Y3Xh >= Yurs)
 {
 std::cout << Y2084ihzeF << "JJ7CLQP" << std::endl;
 }
-else if ((W21_TM == -1941391382) || (c_U62jO7c & CE89))
+else if ((false) || (c_U62jO7c & CE89))
 {
 L8y00llh = X_2CcWRc43 & d5oZZ74;
 }
@@ -254,7 +254,7 @@ S10hC_j = unED5ugC_u << u5pmCJ3E;
 break;
 }
 Zl3IW_R283 = (unsigned int)(ZaV5Ym);
-if (X_2CcWRc43 != -476358894)
+if (true)
 {
 m7S1KP = (int)floor(d65_U749);
 }
@@ -273,7 +273,7 @@ for (int i = 9; i >= 0; i--)
 {
 if (((V30c6_Ua) || (I4Ur8y1T == -528279802)) || (qXck6F))
 {
-if (((TAq19 >= -1584103020) && (l_QR < -602239733)) && (m7S1KP != U11_HY))
+if (((true) && (l_QR < -602239733)) && (m7S1KP != U11_HY))
 {
 I4Ur8y1T = (int)abs(hlhYk0q);
 }

@@ -195,7 +195,7 @@ G9444iQs = L0Ech3(G9444iQs, -1767689875, -1914908756);
 }
 while (i >= 0);
 }
-if (((G9444iQs == -62840697) && (Fly_ == hiTx)) && (Fly_ < 1825113774))
+if (((G9444iQs == -62840697) && (Fly_ == hiTx)) && (true))
 {
 EWe4x4nA = ILZ1Usly3 * 1001832940;
 }
@@ -245,7 +245,7 @@ else if (G9444iQs < YuR1)
 {
 try
 {
-if (Fly_ <= -1265167507)
+if (false)
 {
 bYh_5hxzu ^= 1177733956;
 }

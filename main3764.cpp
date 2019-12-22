@@ -27,7 +27,7 @@ int main()
  b7iLa0dj = 1693057374;
  guT10 = 1595772124;
 
-if (ozY57 <= 1520632636)
+if (true)
 {
 if (xfuZ57vBK & ZF1eV4k)
 {
@@ -114,7 +114,7 @@ catch (int& errorCode)
 OAI5ZD13q6--;
 }
 }
-else if (Rpr600C0Y <= MeH3w)
+else if (false)
 {
 if (xfuZ57vBK <= ZF1eV4k)
 {
@@ -244,7 +244,7 @@ while (i >= 0);
 b7iLa0dj = ozY57 - 703389917;
 try
 {
-if (b7iLa0dj < -1789920920)
+if (false)
 {
 MQ1evzlz6++;
 }
@@ -256,7 +256,7 @@ else if (xbFSXWV <= AklLM5y)
 {
 FUgiCVI = (unsigned char)(MeH3w);
 }
-else if ((guT10) && ((guT10 <= -1599928702) || (ozY57 & AklLM5y)))
+else if ((guT10) && ((false) || (ozY57 & AklLM5y)))
 {
 if ((xbFSXWV) || (Rpr600C0Y <= OAI5ZD13q6))
 {
@@ -277,7 +277,7 @@ catch (int& errorCode)
 xfuZ57vBK = Pjdv0EY61n / b7iLa0dj;
 }
 
-if (MQ1evzlz6 > 470207084)
+if (false)
 {
 b7iLa0dj = (unsigned char)(MeH3w);
 }
@@ -326,7 +326,7 @@ int i = 0;
 while (i < 3)
 {
 ++i;
-if (OAI5ZD13q6 != 1667130071)
+if (true)
 {
 switch (Pjdv0EY61n)
 {
@@ -384,7 +384,7 @@ int i = 6;
 while (i >= 0)
 {
 i--;
-if ((Rpr600C0Y < -1957427841) && (OAI5ZD13q6 < ozY57))
+if ((false) && (OAI5ZD13q6 < ozY57))
 {
 for (int k = 0; k < 7; ++k)
 {
@@ -440,7 +440,7 @@ xfuZ57vBK = Rpr600C0Y / b7iLa0dj;
 break;
 }
 }
-else if ((Rpr600C0Y <= AklLM5y) || (xbFSXWV == 1938861420))
+else if ((true) || (xbFSXWV == 1938861420))
 {
 std::cout << "e_k__1fc" << "Z4uG_x7kWx" << std::endl;
 }
@@ -491,7 +491,7 @@ catch (int& errorCode)
 {
 ZF1eV4k += 1061280305;
 }
-if (OAI5ZD13q6 < -1282944725)
+if (false)
 {
 ZF1eV4k++;
 }
@@ -528,7 +528,7 @@ FUgiCVI += 1631674329;
 break;
 }
 }
-else if ((ZF1eV4k > -833557244) || (OAI5ZD13q6 != xbFSXWV))
+else if ((true) || (OAI5ZD13q6 != xbFSXWV))
 {
 if (OAI5ZD13q6)
 {
@@ -643,7 +643,7 @@ MQ1evzlz6 = (xfuZ57vBK == FUgiCVI) ? ZF1eV4k : 375321847;
 break;
 }
 
-if (FUgiCVI >= 1066569249)
+if (false)
 {
 if (((OAI5ZD13q6 == ozY57) || (MQ1evzlz6 <= 865837586)) && (MQ1evzlz6 == AklLM5y))
 {

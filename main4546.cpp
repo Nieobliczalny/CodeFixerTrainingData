@@ -243,7 +243,7 @@ else
 {
 for (int j = 8; j >= 0; --j)
 {
-if ((nCG1awm2 >= PiCHhXF) || ((j6H51y1n < eNQw) || (j9lJ4 != A93CXk8)))
+if ((true) || ((j6H51y1n < eNQw) || (j9lJ4 != A93CXk8)))
 {
 s4XLoG1 = xVS6Nie8MQ(-936020199, 185013784);
 }

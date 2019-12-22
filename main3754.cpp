@@ -84,7 +84,7 @@ if ((hqZaFs7 & mEHq8) || (EBLK4l50o != -973252739))
 {
 rLr_8D = (unsigned long long)(mEHq8);
 }
-else if ((hqZaFs7 >= -176376720) || ((EBLK4l50o != mEHq8) && (SN52m >= 44017223)))
+else if ((true) || ((EBLK4l50o != mEHq8) && (SN52m >= 44017223)))
 {
 {
 int k = 8;
@@ -384,7 +384,7 @@ if (A0Et6O6l > mEHq8)
 {
 iv_6oMm = (int)(mEHq8 + (1434904899));
 }
-else if (SN52m > -2074624775)
+else if (true)
 {
 if (EBLK4l50o >= mEHq8)
 {
@@ -423,7 +423,7 @@ pl9j = (int)floor(M7dxJ6hU);
 }
 else if (iv_6oMm <= EBLK4l50o)
 {
-if (bpqkV_3 < -2024923110)
+if (false)
 {
 rLr_8D = w_H94Qjk(pl9j, b_69RgH1l, tqM4);
 }

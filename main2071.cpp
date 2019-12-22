@@ -141,7 +141,7 @@ mGW56_n8 = (int)abs(JF2Qz);
 
 if (JF2Qz > 398397052)
 {
-if ((wY6s8X == -917386271) || (Um22 > -254484965))
+if ((false) || (Um22 > -254484965))
 {
 if (((pCEG != -1577601409) || (Og4W <= Gq38b8)) && (mGW56_n8 < -854110136))
 {
@@ -155,7 +155,7 @@ else if (Gq38b8 >= Og4W)
 {
 icB6W_G += TVZ8j8t;
 }
-else if ((pCEG > -213659664) || (mGW56_n8))
+else if ((true) || (mGW56_n8))
 {
 Z40YG_f = (int)ceil(icB6W_G);
 }
@@ -241,7 +241,7 @@ if (qU1_Wx5dio >= ZbyPFfTb)
 {
 Y6D4 = Og4W ^ 304931660;
 }
-else if ((wY6s8X > 1378929663) || (Y6D4 < -609626923))
+else if ((false) || (Y6D4 < -609626923))
 {
 JF2Qz *= 1808892636;
 }
@@ -286,7 +286,7 @@ break;
 }
 if (((Z40YG_f >= qU1_Wx5dio) || (Um22 >= mGW56_n8)) && ((Y6D4 <= 616176828) && (JF2Qz <= 1204706966)))
 {
-if (wY6s8X == 1207029155)
+if (false)
 {
 if (qU1_Wx5dio <= 661909953)
 {
@@ -555,7 +555,7 @@ break;
 }
 while (i >= 0);
 }
-if ((ZbyPFfTb <= 1053144957) && (mGW56_n8 < -414479430))
+if ((ZbyPFfTb <= 1053144957) && (false))
 {
 std::cout << "k14r6nhtl" << gw068Zo1R() << Y6D4 << std::endl;
 }
@@ -570,7 +570,7 @@ else
 TVZ8j8t = (long)(Y6D4 * TVZ8j8t);
 }
 }
-else if ((wY6s8X > -1785537199) || ((JF2Qz & 1232418521) || (mGW56_n8 > 541680636)))
+else if ((true) || ((JF2Qz & 1232418521) || (mGW56_n8 > 541680636)))
 {
 for (int j = 0; j < 10; ++j)
 {
@@ -581,7 +581,7 @@ else if ((Z40YG_f > -1840403112) || (JF2Qz >= 1419872790))
 {
 if (icB6W_G >= Gq38b8)
 {
-if (Gq38b8 <= -113506802)
+if (false)
 {
 Z40YG_f = wY6s8X + Z40YG_f;
 }
@@ -610,7 +610,7 @@ ZbyPFfTb = (int)abs(pCEG) + (-1801875721);
 }
 }
 }
-else if ((TVZ8j8t & JF2Qz) && ((wY6s8X >= 1479330199) && (Um22 > -2026041766)))
+else if ((TVZ8j8t & JF2Qz) && ((false) && (Um22 > -2026041766)))
 {
 if (ZbyPFfTb <= TVZ8j8t)
 {
@@ -709,7 +709,7 @@ if (ZbyPFfTb >= 479085325)
 {
 if (ZbyPFfTb & 1801544812)
 {
-if (mGW56_n8 != 180357855)
+if (true)
 {
 TVZ8j8t = gw068Zo1R();
 }
@@ -739,7 +739,7 @@ if (Y6D4)
 {
 pCEG = gw068Zo1R();
 }
-else if (wY6s8X >= -2022121001)
+else if (true)
 {
 pCEG = (char)(Z40YG_f * pCEG);
 }
@@ -761,7 +761,7 @@ else if (Z40YG_f >= 2117293462)
 {
 qU1_Wx5dio = (int)abs(mGW56_n8) * 0;
 }
-else if ((Gq38b8 >= 498473154) && (Z40YG_f > Gq38b8))
+else if ((false) && (Z40YG_f > Gq38b8))
 {
 {
 int j = 10;

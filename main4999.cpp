@@ -174,7 +174,7 @@ std::cout << MAZZKf5d_ << S338iAYW(1897425143) << h2318n8(-278870470, -102464859
 }
 else if (((mc50X7 < vcG_d9) || (Rx9_g != -1772705609)) && ((IHDV2md >= 799833457) || (WST0Zc_n_Z & r9ddRa519)))
 {
-if (mLR7B2hO >= 1540961869)
+if (false)
 {
 vcFpY_ = wpp1M(4703955, vcFpY_);
 }
@@ -202,7 +202,7 @@ if (x86F1b32)
 {
 std::cout << Rx9_g << U4y_wa << "aN5MS" << std::endl;
 }
-else if ((x8k_Cw > 107831655) || (MBS096W2a <= 2146635617))
+else if ((false) || (MBS096W2a <= 2146635617))
 {
 e3GDH1e -= c727qp;
 }
@@ -228,7 +228,7 @@ else if (yLp03llD3 > 220797407)
 {
 IHDV2md = OeIkdk(IHDV2md, v02gSar3as, 1647659997);
 }
-else if (cg_n92 == -20873999)
+else if (false)
 {
 Z5PYDgRhTl = LEim0oDM * x8k_Cw;
 }
@@ -296,7 +296,7 @@ vcG_d9--;
 while (j < 9);
 }
 }
-else if ((yD9b == 601750168) && (L98z47 & -1839496094))
+else if ((false) && (L98z47 & -1839496094))
 {
 if (WST0Zc_n_Z == 469983132)
 {
@@ -310,7 +310,7 @@ vcFpY_ = wpp1M(-489481946, yD9b);
 while (k < 1);
 }
 }
-else if (mLR7B2hO > 541199822)
+else if (false)
 {
 std::cout << wpp1M(IKy5Kf4, yD9b) << S338iAYW(IKy5Kf4) << pC9H << std::endl;
 }
@@ -360,7 +360,7 @@ r8ie = WST0Zc_n_Z / 1730682552;
 switch (vcFpY_)
 {
 case 0:
-K0_N = (x8k_Cw == 149094448) ? -1024710051 : qC_KGa;
+K0_N = (false) ? -1024710051 : qC_KGa;
 break;
 case 1:
 vcFpY_ = wpp1M(2099881600, WST0Zc_n_Z);
@@ -540,7 +540,7 @@ i++;
 }
 }
 
-if (((x_zXIZqKT >= p1r0903WU) && (x0lUw0SBO > 760921095)) || ((WZ8OSVm7 > r9ddRa519) && (e3GDH1e < -136846622)))
+if (((x_zXIZqKT >= p1r0903WU) && (false)) || ((WZ8OSVm7 > r9ddRa519) && (e3GDH1e < -136846622)))
 {
 if (cg_n92 <= 734910896)
 {
@@ -615,7 +615,7 @@ std::cout << "fXX2_" << LEim0oDM << "nfzt0" << XXAsV << std::endl;
 }
 else if (Rf47loEs & Wn1rz6Rf4)
 {
-if (Vf0vwlze_4 > 1908357216)
+if (false)
 {
 try
 {
@@ -661,7 +661,7 @@ case 0:
 Vf0vwlze_4 = JiTnsKm | 2087216196;
 break;
 case 1:
-LUKUJXFm3 = (hxDzFM8x >= -1491412440) ? wpp1M(-2051241100, -616447148) : 202710068;
+LUKUJXFm3 = (true) ? wpp1M(-2051241100, -616447148) : 202710068;
 break;
 case 2:
 hYmTrp68v0 = OeIkdk(823837782, MBS096W2a, v02gSar3as);
@@ -685,7 +685,7 @@ if ((kmx2_vib3I <= x8k_Cw) || (lLOaA0v_6 > IHDV2md))
 {
 XXAsV = (int)ceil(DPE1Fc_T4O);
 }
-else if (((tJqI3pn != -1901656353) && (roDgY == 1093777747)) || ((MAZZKf5d_ == U4y_wa) && (cg_n92 > -19069949)))
+else if (((tJqI3pn != -1901656353) && (roDgY == 1093777747)) || ((MAZZKf5d_ == U4y_wa) && (true)))
 {
 switch (SiOfN)
 {

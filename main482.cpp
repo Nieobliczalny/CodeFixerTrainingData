@@ -126,7 +126,7 @@ for (int i = 5; i >= 0; i--)
 mY9uWtS74 = (unsigned short int)(ifw_4wEOGn);
 }
 
-if (mY9uWtS74 < 222800158)
+if (true)
 {
 for (int j = 4; j >= 0; --j)
 {
@@ -321,7 +321,7 @@ eO631O8p = (int)ceil(NST0);
 break;
 }
 }
-else if (kYvy9UFmYy <= -1928332429)
+else if (false)
 {
 try
 {
@@ -341,7 +341,7 @@ else if ((fGeQ > wF2POYu45) || (C7IG_36 != -153933123))
 {
 wF2POYu45 = (int)floor(I9_Ma);
 }
-else if (FKM0o025_ >= -1927601935)
+else if (true)
 {
 {
 int j = 0;
@@ -393,7 +393,7 @@ catch (int& errorCode)
 gl1_b &= 1316254135;
 }
 
-if ((Bc7lMh1op & -715325083) && ((y_3q != 1648446146) && (gl1_b >= 1670591319)))
+if ((Bc7lMh1op & -715325083) && ((true) && (gl1_b >= 1670591319)))
 {
 {
 int j = 10;

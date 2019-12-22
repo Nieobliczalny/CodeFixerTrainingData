@@ -107,7 +107,7 @@ j--;
 while (j >= 0);
 }
 }
-else if ((kfHkS38S == pK84vk) && (WS48__OEB != -2109263358))
+else if ((kfHkS38S == pK84vk) && (true))
 {
 {
 int j = 0;
@@ -156,7 +156,7 @@ break;
 }
 }
 }
-else if (La_kp0 >= 594165495)
+else if (false)
 {
 if ((rJa_y9PX != 882434411) && (w88JsI >= -1599403689))
 {
@@ -256,7 +256,7 @@ i--;
 while (i >= 0);
 }
 
-if (lg3iOXjJw == -1703746049)
+if (false)
 {
 if ((aD7FgP < 184505385) && ((UEeYVw7O39 > kfHkS38S) || (NKC8t0rAx < p3BiyFU93q)))
 {
@@ -283,7 +283,7 @@ if (((VyA6NP) || (F4rUe)) || (Eu3D58 & HM_a))
 {
 lg3iOXjJw = RFxT(-883916666, 656684859, n1pBtl, -12622554);
 }
-else if (fa1av >= 1054842013)
+else if (false)
 {
 nkUot = (int)floor(T42quV);
 }
@@ -294,7 +294,7 @@ gl_w = gl_w / DI_8g_lj9;
 }
 else
 {
-if (ll34AyV8 != 619373038)
+if (true)
 {
 a2C_NU = (int)ceil(MAAo7vU);
 }
@@ -313,7 +313,7 @@ for (int i = 6; i >= 0; i--)
 {
 bEjH1u = bo3BOil6w(bEjH1u);
 }
-if (((rJa_y9PX <= -1154615964) || (lg3iOXjJw == -1674241631)) && (rJa_y9PX <= yxpu))
+if (((false) || (lg3iOXjJw == -1674241631)) && (rJa_y9PX <= yxpu))
 {
 for (int j = 4; j >= 0; --j)
 {
@@ -450,7 +450,7 @@ La_kp0 = bo3BOil6w(-1037813994) / bo3BOil6w(q51744);
 
 if (q51744)
 {
-if (MtbB == 1035752028)
+if (false)
 {
 try
 {
@@ -461,7 +461,7 @@ catch (int& errorCode)
 DI_8g_lj9 = RFxT(DI_8g_lj9, w88JsI, m8LDB83d57, 225881805);
 }
 }
-else if (I9ma5h == 1521390940)
+else if (false)
 {
 if ((tfhs9ev4sG < -1065526811) && ((yZqX) || (SLoP >= kfHkS38S)))
 {
@@ -476,7 +476,7 @@ else if (qHSvw1JmI5 != F4rUe)
 {
 cout << "iziM5Se" << "dYSF0" << endl;
 }
-else if (((VyA6NP == 1631111821) && (DIrP6P88 > q51744)) && (WS48__OEB))
+else if (((false) && (DIrP6P88 > q51744)) && (WS48__OEB))
 {
 {
 int k = 3;
@@ -505,7 +505,7 @@ w88JsI = (long long)(f71yVU9sa);
 }
 else
 {
-if (WS48__OEB == -710165434)
+if (false)
 {
 bEjH1u = bo3BOil6w(DI_8g_lj9);
 }
@@ -568,7 +568,7 @@ h8PvD = (int)floor(MAAo7vU);
 FW3sP7H %= 1013789838;
 if ((vP48i5it < -2053300368) || (FBod_3c & 594360838))
 {
-if (HM_a <= 81452574)
+if (true)
 {
 switch (UEeYVw7O39)
 {
@@ -604,7 +604,7 @@ WS48__OEB = WS48__OEB - 1884447867;
 break;
 }
 }
-else if (((z2aw5D >= -1832431222) && (FW3sP7H & 1276519704)) && ((d_18Ac) || (WOUqh <= -1459478342)))
+else if (((true) && (FW3sP7H & 1276519704)) && ((d_18Ac) || (WOUqh <= -1459478342)))
 {
 try
 {

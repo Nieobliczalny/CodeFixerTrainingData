@@ -184,7 +184,7 @@ dW14oYcNZ = z9AMym2 << LGCYc;
 std::cout << o2mO << d0vAp(1692087981, w0hUW) << vX0ufvFr << std::endl;
 if (Z36Z & I_o4LR)
 {
-if ((C1q_O_k432 > -2132147495) || (hCCIg27 >= B50PZ))
+if ((true) || (hCCIg27 >= B50PZ))
 {
 Cs9LL = (double)(dno4 + (932897202));
 }
@@ -232,7 +232,7 @@ std::cout << s6p7Pt28 << std::endl;
 
 LGCYc = (int)abs(Cv2g2g4);
 
-if (z0zMI57y_ > 1603434831)
+if (false)
 {
 std::cout << f9b43R << d0vAp(-254335801, ebIP) << d0vAp(-797008275, ebIP) << std::endl;
 }
@@ -248,7 +248,7 @@ else if (V5JcVu2M == d00QewWYg9)
 {
 k3r0pe_3 = (float)(I_o4LR);
 }
-else if (((EYvKT <= f32Fw2PV8x) && (VW1s4X_A <= 436964613)) || ((wbTI6ppJR > -1500362268) && (woULrMu3 > -41476858)))
+else if (((EYvKT <= f32Fw2PV8x) && (true)) || ((wbTI6ppJR > -1500362268) && (woULrMu3 > -41476858)))
 {
 if (dW14oYcNZ <= q83TZ1)
 {
@@ -274,7 +274,7 @@ while (k >= 0);
 }
 }
 }
-else if ((dW14oYcNZ >= -1693524191) && (GEW2_M9Dp & -349439111))
+else if ((true) && (GEW2_M9Dp & -349439111))
 {
 for (int j = 8; j >= 0; j--)
 {
@@ -330,7 +330,7 @@ catch (int& errorCode)
 LG8bD = pWqC4(-299891075, 1728866979, -1440833081);
 }
 }
-else if (((f32Fw2PV8x > -672740336) || (V5JcVu2M)) && (EYvKT & -225065941))
+else if (((true) || (V5JcVu2M)) && (EYvKT & -225065941))
 {
 if (cDSkij8DoP)
 {
@@ -341,7 +341,7 @@ else
 O2A_47s90a = (int)abs(Cs9LL);
 }
 }
-else if ((q83TZ1 == -464794585) && ((V5JcVu2M > 1060747458) && (f0zssI8 == GEW2_M9Dp)))
+else if ((q83TZ1 == -464794585) && ((false) && (f0zssI8 == GEW2_M9Dp)))
 {
 if (Ut__CO6czx <= -629688025)
 {
@@ -359,7 +359,7 @@ else if (((I_o4LR > 787564785) || (i2yF == -1924610695)) || (dW14oYcNZ == U45r))
 {
 lC75 = (int)ceil(vX0ufvFr);
 }
-else if (((woULrMu3) && (FC3Jwfp4Rf > 1883399044)) || (FC3Jwfp4Rf == MB78k))
+else if (((woULrMu3) && (false)) || (FC3Jwfp4Rf == MB78k))
 {
 switch (LG8bD)
 {
@@ -418,7 +418,7 @@ else if (hCCIg27 > QPgB)
 {
 LG8bD = pWqC4(-862622826, SRq_5_pb7, GEW2_M9Dp);
 }
-else if (nKh0kU1h6 == -1165223784)
+else if (false)
 {
 E35u <<= wbTI6ppJR;
 }
@@ -450,7 +450,7 @@ yW794P = d0vAp(yW794P, 339269525);
 }
 else
 {
-if ((PCl0bbN_cO >= 2064831729) || (B50PZ == V5JcVu2M))
+if ((false) || (B50PZ == V5JcVu2M))
 {
 sV67 = (int)ceil(Cs9LL);
 }

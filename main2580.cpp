@@ -148,7 +148,7 @@ else
 {
 for (int j = 0; j < 10; ++j)
 {
-if (w989T6A3 >= -146341850)
+if (true)
 {
 B4y6p1AXb = (V8S1OCc7_6 != rY4z8_0) ? i_rPbT : -767786101;
 }
@@ -282,7 +282,7 @@ if (Brz7wd3 != 1508757273)
 {
 kbSYQw5e1++;
 }
-else if (w989T6A3 >= -1089982319)
+else if (true)
 {
 i_rPbT = I_uFm4_6();
 }

@@ -157,7 +157,7 @@ else if ((e72u & nK3nb) && (zWfo_z))
 {
 U9ZggjQ /= dv1gttzQ4;
 }
-else if (((A2w03R < e72u) && (dv1gttzQ4 < 402109707)) || ((nK3nb > -454656171) || (zWfo_z <= 790769430)))
+else if (((A2w03R < e72u) && (dv1gttzQ4 < 402109707)) || ((true) || (zWfo_z <= 790769430)))
 {
 nK3nb = VyCW(NT9C, 877801374);
 }
@@ -315,7 +315,7 @@ catch (int& errorCode)
 {
 U9ZggjQ = (int)ceil(dv1gttzQ4);
 }
-if (((U9ZggjQ >= A2w03R) && (nK3nb >= -1721138975)) && (NT9C))
+if (((U9ZggjQ >= A2w03R) && (true)) && (NT9C))
 {
 if (NT9C != 1789956880)
 {

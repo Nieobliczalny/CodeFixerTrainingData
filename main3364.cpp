@@ -81,7 +81,7 @@ if (FqXAEyL <= D2hr8iq6Ic)
 {
 cout << tR33 << "NpG79pgY" << endl;
 }
-if (Qc8t >= 863718297)
+if (false)
 {
 {
 int j = 0;

@@ -32,7 +32,7 @@ i3R3Qi5O /= 750591949;
 }
 ATi3bQv4--;
 
-if (ATi3bQv4 > -1148767922)
+if (true)
 {
 {
 int j = 2;
@@ -47,7 +47,7 @@ else if (iW996RYwvp == i3R3Qi5O)
 {
 HD2avv = (int)abs(f7nVS);
 }
-else if (A_7hckab < Di4w_3o4)
+else if (true)
 {
 HD2avv = (int)abs(f7nVS);
 }
@@ -75,7 +75,7 @@ std::cout << "YZuS61jL" << JcTw_qawz << wvQDZ619O8 << "mD0pjYO" << "a7S97zbS" <<
 std::cout << "g008" << w33L6_5G << J0RRY << Uy332YLgz0 << rxNFy9248T << std::endl;
 
 std::cout << iy71a << std::endl;
-if (R56u5hZ3V1 < 1578035020)
+if (true)
 {
 std::cout << DKSu9y5Vo << JcTw_qawz << "ybAqxx" << "p23282yJ" << "HtO7ACN5j7" << std::endl;
 }
@@ -105,7 +105,7 @@ Xc0avT5 = PE5E7C >> 516806560;
 break;
 case 'f':
 case 'F':
-ISSQ = (G7Hc2l_WI0 == 1479019220) ? FzfW6MB : S1WU_;
+ISSQ = (false) ? FzfW6MB : S1WU_;
 break;
 case 'g':
 case 'G':
@@ -194,7 +194,7 @@ case 2:
 G7Hc2l_WI0 >>= R56u5hZ3V1;
 break;
 default:
-XxoRWA = (h0O1IZ548h <= -11538372) ? ATi3bQv4 : -527927187;
+XxoRWA = (false) ? ATi3bQv4 : -527927187;
 break;
 }
 }
@@ -241,7 +241,7 @@ Xc0avT5 = FA2Hw58N & T81S;
 zVwYv51O++;
 f4Hhv1474j = iE8mSUw6X & FA2Hw58N;
 kys8Y8 >>= P473erPXN8;
-if ((ql2if2BxS & Di4w_3o4) && (TjSPtoG206 != -38648515))
+if ((ql2if2BxS & Di4w_3o4) && (true))
 {
 XxoRWA &= D6W3GFe9l;
 }
@@ -259,7 +259,7 @@ f7nVS = (int)abs(HD2avv);
 }
 
 std::cout << M9pUd9Ioz / HD2avv << std::endl;
-if ((G4n5YY < XxoRWA) || (f7nVS >= -406279796))
+if ((G4n5YY < XxoRWA) || (true))
 {
 ISSQ++;
 }
@@ -270,7 +270,7 @@ for (int j = 0; j < 2; ++j)
 iO7qma3++;
 }
 }
-else if (f7nVS == 525821032)
+else if (false)
 {
 try
 {
@@ -292,7 +292,7 @@ catch (int& errorCode)
 zj1g = E6d4n0OXvX * 1128805382;
 }
 }
-else if ((tBIq5ce < h0O1IZ548h) || ((iW996RYwvp & S1WU_) && (zj1g == -429139808)))
+else if ((tBIq5ce < h0O1IZ548h) || ((iW996RYwvp & S1WU_) && (false)))
 {
 r8w_JqB = (unsigned short)(Cio72 + (-1662093369));
 }
@@ -319,7 +319,7 @@ while (k >= 0);
 }
 else if (f7nVS < PE5E7C)
 {
-if ((f4Hhv1474j <= q6TuJJc0V) || (NbUC94 == 1217389763))
+if ((false) || (NbUC94 == 1217389763))
 {
 iO7qma3 <<= h0O1IZ548h;
 }
@@ -412,7 +412,7 @@ while (k >= 0);
 }
 else
 {
-if (iW996RYwvp <= Z3IBB9P6a)
+if (true)
 {
 ATi3bQv4 %= 435280518;
 }
@@ -424,7 +424,7 @@ else if (zj1g)
 {
 A_7hckab >>= 2124619524;
 }
-else if (Gh_50g >= -818514763)
+else if (true)
 {
 zj1g = r8w_JqB - 832059338;
 }

@@ -86,7 +86,7 @@ break;
 }
 while (i >= 0);
 }
-if ((NzP5W0mfF <= iTK9HR5d) || (eo4Mj == 642896436))
+if ((NzP5W0mfF <= iTK9HR5d) || (false))
 {
 try
 {

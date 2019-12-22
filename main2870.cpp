@@ -247,7 +247,7 @@ std::cout << "fdKq" << BI50a << "Yv4_j9Cu5L" << "Q1hC" << std::endl;
 
 PCEF48jd = (BRzU != 1393197564) ? 456428510 : Ob4O4_3h;
 
-if ((r_77a3 < 402257068) || (l_VIm != 329950976))
+if ((true) || (l_VIm != 329950976))
 {
 if (RQ4d7s < j_8sya)
 {
@@ -456,7 +456,7 @@ f1m52X %= 1417850393;
 
 f1m52X = (long long)(J8C5bi);
 
-if (n5y9c6 == 1627021442)
+if (false)
 {
 {
 int j = 1;
@@ -726,7 +726,7 @@ J8C5bi = (int)abs(oD_FfM0);
 
 if ((aYvcoI > BI50a) && (Am0bMui != -1735092078))
 {
-if (((l_VIm <= -657877637) && (cnQ4c <= 1945400583)) || ((ByXbPFK <= 1490072291) || (p3_lB < 1842263935)))
+if (((l_VIm <= -657877637) && (true)) || ((ByXbPFK <= 1490072291) || (p3_lB < 1842263935)))
 {
 if ((f1m52X >= 1964192001) && ((j_8sya >= TzO4bcVI8) || (Q81_6 == 1966539129)))
 {
@@ -758,7 +758,7 @@ if (z928 < PCEF48jd)
 U25qq2 = DURB7t6 * 99499756;
 }
 }
-else if ((d5P_ & 1287635017) || (n5y9c6 == 1276597906))
+else if ((d5P_ & 1287635017) || (false))
 {
 std::cout << "Y95zHktX5" << "A_85Wad7l" << std::endl;
 }

@@ -112,7 +112,7 @@ zf1Frpd62--;
 
 qMbE48 = Fv704A2aj_ << 951224927;
 
-if (((Zh7RW3 >= c75Gq0zPpr) && (k6AacU7wXz <= XRFcNpEU5)) && (eFP_p_lU42 <= h0jfZv2_W))
+if (((Zh7RW3 >= c75Gq0zPpr) && (k6AacU7wXz <= XRFcNpEU5)) && (true))
 {
 zQP2 = k6AacU7wXz - zQP2;
 }
@@ -181,7 +181,7 @@ if ((T2Ti45G9fx) && ((i_51 < Zh7RW3) || (zQP2 > X1tYxCou)))
 {
 j4Nzl = h0jfZv2_W | I5M7w44;
 }
-else if (I5M7w44 <= h0jfZv2_W)
+else if (true)
 {
 switch (w1_Vi8F)
 {
@@ -446,7 +446,7 @@ T2Ti45G9fx = (int)(h0jfZv2_W * (Mddp));
 }
 else if ((Zh7RW3) || (qMbE48 & 1153240080))
 {
-if ((T2Ti45G9fx > -1954568147) || (zQP2 <= -1794658773))
+if ((T2Ti45G9fx > -1954568147) || (false))
 {
 if ((QgI52_sEz9 >= -1646761618) || (Fv704A2aj_ != h0jfZv2_W))
 {
@@ -540,7 +540,7 @@ break;
 
 std::cout << "NVn5X2393W" << S4TYj_yj << std::endl;
 S4TYj_yj = (float)(Mddp + (vsv8NvmO));
-if (JbKEU09 == h0jfZv2_W)
+if (false)
 {
 if (eFP_p_lU42 <= h0jfZv2_W)
 {

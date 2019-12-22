@@ -209,7 +209,7 @@ int main()
 
 YeQ9v370el <<= fGEY18;
 
-if ((UoVo & NEOM) || ((QiaxDHR < 664902288) || (WHoW88W8U4 >= QP23iV)))
+if ((UoVo & NEOM) || ((true) || (WHoW88W8U4 >= QP23iV)))
 {
 Qy6jG67S = C37_94_(1806580624, lvFPH4J, -1635132012) + 226401694;
 }
@@ -277,7 +277,7 @@ ssrU2m = (int)abs(l4S33_rL);
 }
 
 DV3zbVYR = (int)floor(mOOmo9j);
-if (((Mp96YT <= -589837112) && (yqk_6 < 191477454)) && ((nPpQln_S < 752479175) && (HSa__ & 348575655)))
+if (((false) && (yqk_6 < 191477454)) && ((nPpQln_S < 752479175) && (HSa__ & 348575655)))
 {
 if (Qq8zc6 <= -385944)
 {
@@ -361,7 +361,7 @@ while (j >= 0);
 xF78TrP1T = (int)abs(l4S33_rL);
 thgWI_9tZj = A9nXCc2q << 859356594;
 M077Ro = -2137129997 / KbovQz6;
-if (A9nXCc2q != -774441598)
+if (true)
 {
 if (tLcX4wmH & -864004983)
 {
@@ -379,7 +379,7 @@ RV4e8s = d1zOANAyPR();
 }
 }
 }
-else if (((Y5e0BU <= -2129076014) && (y9FU & -2065921757)) && (KqoH5 == 2101154373))
+else if (((Y5e0BU <= -2129076014) && (y9FU & -2065921757)) && (false))
 {
 {
 int j = 0;
@@ -405,7 +405,7 @@ if (mYIJ5u3Du)
 R0_5y0 = (int)abs(J75X);
 }
 }
-else if ((VBrIhKr3 < 1261081597) || (lSTS8 == -2031864707))
+else if ((true) || (lSTS8 == -2031864707))
 {
 G2_8bsM = (int)(VBrIhKr3);
 }
@@ -479,7 +479,7 @@ Fk4oCT = Ic_KZ9Kl_8 & nPpQln_S;
 
 KbovQz6 = c_t3R(Mp96YT, 251740475, DBM9, -1120701610, I6ruVr);
 
-if (tIeTt <= 966371744)
+if (true)
 {
 J5wiVoK = (int)abs(mOOmo9j);
 }
@@ -513,7 +513,7 @@ KbovQz6 = c_t3R(-979902366, yqk_6, 152420893, J5wiVoK, d_y_0);
 rWu40G89 = (unsigned short)(il18Rj6t);
 
 DV3zbVYR = (int)floor(mOOmo9j);
-if (((FmPt3 != -2059122325) && (Cg_v_v > ZVxvtZ)) && ((xixIRJVr) && (xF78TrP1T >= -2125860292)))
+if (((true) && (Cg_v_v > ZVxvtZ)) && ((xixIRJVr) && (xF78TrP1T >= -2125860292)))
 {
 try
 {
@@ -569,7 +569,7 @@ mYIJ5u3Du = (long double)(zamA);
 xVpmD8 = C37_94_(xVpmD8, KbovQz6, -501379956);
 try
 {
-if (ky6xY <= -434608649)
+if (false)
 {
 {
 int k = 6;
@@ -610,7 +610,7 @@ if (thgWI_9tZj >= 554394852)
 Y5e0BU = (int)ceil(dbYl9t9);
 }
 }
-else if (((f4p80S7 != rWu40G89) && (DBM9 > -1038893076)) && ((o54qlV == 1138885568) || (jn6p4 != 603638398)))
+else if (((f4p80S7 != rWu40G89) && (DBM9 > -1038893076)) && ((o54qlV == 1138885568) || (true)))
 {
 {
 int k = 0;

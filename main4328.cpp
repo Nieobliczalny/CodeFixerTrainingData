@@ -58,7 +58,7 @@ int main() {
 	t6hyZGxc8	=	0;
 	jN8B6Q0	=	0;
 
-if (KveGh4HO > -300219646)
+if (true)
 {
 std::cout << Bw5_b2Jk << "DCq_Txz5ub" << "oZx8" << "N3xS4ef" << O8PY9b_ << std::endl;
 }
@@ -83,7 +83,7 @@ DzKK = ys8w4tfxMO(DzKK);
 JKWzfJc0gM /= 1010347316;
 
 Jme88 = N2Z7(273359804, O8PY9b_);
-if (DzKK >= -1776923144)
+if (true)
 {
 try
 {
@@ -159,7 +159,7 @@ int j = 9;
 do
 {
 --j;
-if ((O8PY9b_ < 669212811) && (DzKK))
+if ((true) && (DzKK))
 {
 K1iA5l = MS_Wa6(K1iA5l, xBG2);
 }
@@ -242,7 +242,7 @@ default:
 t6hyZGxc8 = N2Z7(-108093956, -107067859);
 break;
 }
-if (qTVYiQV >= -1985082466)
+if (true)
 {
 try
 {
@@ -299,7 +299,7 @@ catch (int& errorCode)
 N_IViA = ssBo(O8PY9b_, N_IViA, e4k1U) & 580514625;
 }
 
-if (XzR1 >= -656205239)
+if (true)
 {
 std::cout << "o842" << "EnBt" << jN8B6Q0 << Bw5_b2Jk << "rHIr0J_02C" << std::endl;
 }
@@ -398,7 +398,7 @@ if ((NtM_177x) && (NtM_177x < Sp8kX))
 {
 JKWzfJc0gM++;
 }
-else if (jN8B6Q0 >= 668297234)
+else if (false)
 {
 Bw5_b2Jk += pFcO5800;
 }
@@ -422,7 +422,7 @@ while (i >= 0);
 
 if (jFc9 & -966141489)
 {
-if (((f5qM) && (qTVYiQV != -255955643)) || (A9jgTRKv_C >= 85286891))
+if (((f5qM) && (true)) || (A9jgTRKv_C >= 85286891))
 {
 try
 {

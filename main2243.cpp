@@ -161,7 +161,7 @@ else if ((HQCI_7K3y == RcD6a1_i) && (D_EO_dO != s8mSZi4))
 {
 HQCI_7K3y = BfYoJ10j(-37358200, 386622832, I7lmT17, -2000080021, FSXsz8E);
 }
-else if (H8r9Z != 964286462)
+else if (true)
 {
 zZ6J84MP7 = n8Ul7RxE();
 }
@@ -197,7 +197,7 @@ else
 {
 Kd8t = (long)(K6BPRN9 + (1019935155));
 }
-if (HQCI_7K3y < R6mSLI7EV)
+if (true)
 {
 try
 {
@@ -235,7 +235,7 @@ j--;
 }
 }
 
-if ((mOr_i != I7lmT17) && (jnk85 == 1291632842))
+if ((mOr_i != I7lmT17) && (false))
 {
 zZ6J84MP7 >>= qNE_U8E;
 }
@@ -308,7 +308,7 @@ vUu2_ = n8Ul7RxE() * YPnHf7h2;
 dYGTuhb5w = (unsigned char)(GawvB5K8Y4);
 
 zZ6J84MP7 = nGx696g_7p(zZ6J84MP7, 889565222, 147658246, qNE_U8E);
-if (kPxNY7Fi < 1577422623)
+if (true)
 {
 dbn_tWMT = (long double)(ev65x4q_);
 }
@@ -319,7 +319,7 @@ if ((dbn_tWMT < GawvB5K8Y4) && (fNlmwe < Lx02RT3))
 O52C6p9O9 = nGx696g_7p(O52C6p9O9, zZ6J84MP7, 1743202621, 57238327);
 }
 }
-else if (H8r9Z != GawvB5K8Y4)
+else if (true)
 {
 try
 {
@@ -357,7 +357,7 @@ catch (int& errorCode)
 dbn_tWMT = n8Ul7RxE() & IuM0OV7;
 }
 }
-else if (p38x0SXd > 1476943731)
+else if (false)
 {
 try
 {
@@ -388,7 +388,7 @@ else
 int j = 8;
 while (j >= 0)
 {
-if (p38x0SXd <= GawvB5K8Y4)
+if (true)
 {
 YPnHf7h2 = (int)ceil(FSXsz8E);
 }
@@ -490,7 +490,7 @@ k--;
 while (k >= 0);
 }
 }
-else if ((mOr_i > 937322076) || ((b_7Jz <= 870691519) && (ORMGAo3rA >= dtUli)))
+else if ((false) || ((b_7Jz <= 870691519) && (ORMGAo3rA >= dtUli)))
 {
 for (int k = 10; k >= 0; k--)
 {
@@ -560,7 +560,7 @@ RcD6a1_i = n8Ul7RxE();
 break;
 }
 }
-else if ((s8mSZi4 < kPxNY7Fi) || (jnk85 != Y89_pdX))
+else if ((s8mSZi4 < kPxNY7Fi) || (true))
 {
 dbn_tWMT = (int)floor(YPnHf7h2);
 }
@@ -606,7 +606,7 @@ IjWW = n8Ul7RxE();
 }
 else if (dtUli & ev65x4q_)
 {
-if (p38x0SXd >= Y89_pdX)
+if (false)
 {
 if (((RcD6a1_i < D_EO_dO) || (u821x4)) || (cqzK35iA & -510845623))
 {
@@ -637,7 +637,7 @@ else
 vUu2_ = (int)ceil(FSXsz8E);
 }
 }
-else if (s8mSZi4 == -1667809085)
+else if (false)
 {
 if (T7rX <= R6mSLI7EV)
 {
@@ -658,7 +658,7 @@ else
 dt_kLYQPwL = hmC9 >> 728572759;
 }
 }
-else if (VEcl0_dji >= 178742942)
+else if (false)
 {
 {
 int k = 8;
@@ -688,7 +688,7 @@ k++;
 }
 }
 }
-else if (T7rX < GawvB5K8Y4)
+else if (true)
 {
 try
 {
@@ -733,7 +733,7 @@ break;
 }
 }
 }
-else if ((D_EO_dO > GawvB5K8Y4) || (CX4nHs7q < 1322325878))
+else if ((false) || (CX4nHs7q < 1322325878))
 {
 if (AEz1944 >= s8mSZi4)
 {

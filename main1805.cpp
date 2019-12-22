@@ -285,7 +285,7 @@ std::cout << qjB45 << Ui200_fyA2 << "nuBX5d" << s89kI8z1(1281251118, -53839674, 
 std::cout << "uVN85Zmc" << "Ry__kn" << mlts7gD8uM(-1568285313, -1034312063, 1466046735, 540919964) << "J_LcE" << c07FJ << std::endl;
 
 ACl9 = mlts7gD8uM(1525890419, -2147183902, q_BuJBp, 1116892132);
-if (((kw8Z42q2 >= Yguis5Ju_2) && (nlIgQ)) || ((U9GXW_Z7f) && (M0Pr == j8P41E)))
+if (((kw8Z42q2 >= Yguis5Ju_2) && (nlIgQ)) || ((U9GXW_Z7f) && (false)))
 {
 try
 {

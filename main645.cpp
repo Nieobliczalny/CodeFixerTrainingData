@@ -108,7 +108,7 @@ break;
 }
 }
 
-if (Ny2H != -1912945404)
+if (true)
 {
 for (int j = 0; j < 7; j++)
 {

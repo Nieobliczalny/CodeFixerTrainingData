@@ -210,7 +210,7 @@ do
 i++;
 try
 {
-if (kff8RGyDh != 866610830)
+if (true)
 {
 pugeOTU = ju_E(pugeOTU, -1304210671);
 }
@@ -222,7 +222,7 @@ else if (ZYpy1zetyB == 50435536)
 {
 PgRp9XCpZ = P00v3z6 + rlb8i1op;
 }
-else if (((HA00Da & uMfU4) || (bnWigw8 == Jk3e09JQ)) || ((p8_55U6K <= -1316546391) || (y6HYrz3 == -1420586467)))
+else if (((HA00Da & uMfU4) || (bnWigw8 == Jk3e09JQ)) || ((p8_55U6K <= -1316546391) || (false)))
 {
 Wl6mx9 = (int)floor(R0Aa);
 }
@@ -246,7 +246,7 @@ P00v3z6 ^= hfTRdP;
 }
 while (i < 5);
 }
-tg4eb = (lRwB7haX8H > 1445802126) ? 220802798 : -1070349322;
+tg4eb = (false) ? 220802798 : -1070349322;
 
 if ((-1736537238 / Jk3e09JQ) != 2048848231)
 {

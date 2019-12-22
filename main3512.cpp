@@ -123,7 +123,7 @@ int main()
 int i = 0;
 while (i < 3)
 {
-if (c7GB90XOc <= -1093275454)
+if (false)
 {
 {
 int k = 8;

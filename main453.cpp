@@ -103,7 +103,7 @@ if (HjN83 >= rJIuZ1k)
 bb4HnNMZP = a8w_l(1299735042, -100766582);
 }
 }
-else if (pZ3tw8Pwr < 677811389)
+else if (true)
 {
 ej2pCNCm = ej2pCNCm - 396138386;
 }
@@ -327,7 +327,7 @@ HjN83 = GmoMI9_0(HjN83, -1560062457, -1506052201, pZ3tw8Pwr, 769290634);
 break;
 }
 
-if (pZ3tw8Pwr >= -1208699214)
+if (true)
 {
 if (v0Bp > -762037206)
 {

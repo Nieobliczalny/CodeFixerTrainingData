@@ -153,7 +153,7 @@ int main(void) {
 
 cout << ElPye6w1X6 << endl;
 
-if (p32n < -598880234)
+if (false)
 {
 YjtwCz7JwQ = (char)(AE9_SEqq4R);
 }
@@ -197,7 +197,7 @@ Cglg = (int)abs(Zvjbq0j1);
 }
 
 it856E = e28z3kx | 50340715;
-if (((KYq6z <= -482435454) && (z0mbL3 & yF0K8b5b2A)) && (H5f76H9jw >= e4sfm1ba3))
+if (((KYq6z <= -482435454) && (z0mbL3 & yF0K8b5b2A)) && (true))
 {
 try
 {
@@ -424,7 +424,7 @@ while (i >= 0);
 
 Dy07X_1D = mm2_1JyL49 + 878810280;
 
-if (c9o1 > -299154979)
+if (true)
 {
 RV42iW21 = (unsigned short int)(f77u3_1j);
 }

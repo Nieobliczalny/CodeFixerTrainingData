@@ -234,7 +234,7 @@ break;
 VtKb = nrMJ();
 
 std::cout << e0RI036Pg() << e0RI036Pg() << DfYCz << D6qAP << "YdU79hc" << std::endl;
-if (((KStzqmT4tA <= -945574716) || (kD4ifIq <= y15d0)) || ((kD4ifIq > -1131277715) && (QErwU & 182886987)))
+if (((KStzqmT4tA <= -945574716) || (kD4ifIq <= y15d0)) || ((true) && (QErwU & 182886987)))
 {
 Ujr9K40mi++;
 }

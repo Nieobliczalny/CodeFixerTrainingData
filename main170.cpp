@@ -24,7 +24,7 @@ P_cE52avn_ = om8xb2A / k42X7F9j2w;
 
 e23s /= YWs_K2Wn;
 
-if (SE3zCjl >= 1137392686)
+if (false)
 {
 {
 int j = 9;
@@ -44,7 +44,7 @@ j--;
 }
 try
 {
-if ((Z5F9E != -2132680105) || (BuFqE9GWl5 == -570524940))
+if ((true) || (BuFqE9GWl5 == -570524940))
 {
 if (YWs_K2Wn == -810344545)
 {
@@ -58,7 +58,7 @@ else if (kUd_ == mol0d2)
 {
 Y1mpL075 = NGZy * YWs_K2Wn;
 }
-else if ((NZu8v > BXw3z) && ((kUd_ < -2103572091) || (dlw2vW & -1957582907)))
+else if ((NZu8v > BXw3z) && ((false) || (dlw2vW & -1957582907)))
 {
 D8j8 = L3F9 ^ P_cE52avn_;
 }

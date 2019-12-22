@@ -74,7 +74,7 @@ else
 {
 try
 {
-S7H9lO = (Dw5K89d != 828633783) ? 657583407 : h775F;
+S7H9lO = (true) ? 657583407 : h775F;
 }
 catch (int& errorCode)
 {
@@ -155,7 +155,7 @@ I936 /= 2103271924;
 }
 }
 }
-else if (Dw5K89d > nFxTV4o1)
+else if (true)
 {
 if ((Oj4V2gQ >= 1294327508) && (mxOHhSf != 581937733))
 {

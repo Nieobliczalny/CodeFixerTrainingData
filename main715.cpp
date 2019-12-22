@@ -108,7 +108,7 @@ sA8BK8N_ |= Z0daL68OQ;
 
 e_KktwWf_ >>= e2Bm_;
 
-if (((Ez95n1 >= 1234229855) || (rHQO <= -408092180)) || (YrJ1c <= -309066538))
+if (((false) || (rHQO <= -408092180)) || (YrJ1c <= -309066538))
 {
 if (sA8BK8N_)
 {
@@ -132,7 +132,7 @@ e2Bm_ = bS5_z >> 1971714415;
 break;
 }
 }
-else if (jKXAW < 634516238)
+else if (true)
 {
 for (int k = 7; k >= 0; k--)
 {
@@ -143,7 +143,7 @@ else if ((zHBE6 & 1776496724) || (Z0daL68OQ > -55049821))
 {
 bS5_z *= Ez95n1;
 }
-else if (rHQO <= 1917177848)
+else if (true)
 {
 k4nyWYaz9q ^= l8nIa;
 }
@@ -159,7 +159,7 @@ else
 ery53Z4s4 = (short)(SS0hJ_mBKb);
 }
 }
-else if ((k4nyWYaz9q != -445580818) || (zHBE6 <= -172317262))
+else if ((true) || (zHBE6 <= -172317262))
 {
 switch (rHQO)
 {
@@ -188,7 +188,7 @@ NM1iu = (int)abs(tR3Gwd_Fn4);
 
 std::cout << k4nyWYaz9q << "cf09" << Em6507YIMn << std::endl;
 
-if (QM49O8 > 1074995134)
+if (false)
 {
 if (((SS0hJ_mBKb) && (tR3Gwd_Fn4 < 1017970787)) && (l8nIa > 511140552))
 {
@@ -204,7 +204,7 @@ EOb6Vgqxv1 = XZA_Y - 1472366527;
 }
 else
 {
-if (((tR3Gwd_Fn4 >= -305935571) && (FgNUzdRH == Q2UknyRxGd)) && ((k4nyWYaz9q > 1129709595) || (U1Gl <= -1670877746)))
+if (((true) && (FgNUzdRH == Q2UknyRxGd)) && ((k4nyWYaz9q > 1129709595) || (U1Gl <= -1670877746)))
 {
 {
 int k = 7;
@@ -242,7 +242,7 @@ catch (int& errorCode)
 {
 X0Hdf7S3j_ = CiAvckaVfz << 1378136686;
 }
-if (zHBE6 > -1651393608)
+if (true)
 {
 Xs3D |= Z0daL68OQ;
 }
@@ -265,7 +265,7 @@ else
 {
 if (S4M6 < Xs3D)
 {
-if (l8nIa <= -503203932)
+if (false)
 {
 FA723mmu = jKXAW + S4M6;
 }
@@ -277,7 +277,7 @@ else if (YrJ1c == -522251953)
 {
 k4nyWYaz9q = k4nyWYaz9q | sA8BK8N_;
 }
-else if (X0Hdf7S3j_ >= 1189917585)
+else if (false)
 {
 FA723mmu -= 476392845;
 }
@@ -325,7 +325,7 @@ try
 int j = 2;
 while (j >= 0)
 {
-if ((SS0hJ_mBKb <= -1009656078) || ((SS0hJ_mBKb & l8nIa) && (YrJ1c)))
+if ((false) || ((SS0hJ_mBKb & l8nIa) && (YrJ1c)))
 {
 l8nIa -= SS0hJ_mBKb;
 }
@@ -357,7 +357,7 @@ m_9iTd /= 215867717;
 while (j < 1);
 }
 }
-if ((Ez95n1 & PnP4) && (e2Bm_ >= -424890881))
+if ((Ez95n1 & PnP4) && (true))
 {
 S4M6 = (short)(bS5_z);
 }
@@ -514,7 +514,7 @@ break;
 }
 }
 
-if (tR3Gwd_Fn4 != -1077217040)
+if (true)
 {
 S4M6 += 993672882;
 }

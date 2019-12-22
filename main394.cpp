@@ -108,7 +108,7 @@ jHudR4_i26 = (PtWVJp <= -1086506259) ? -1802200706 : vrQd787d;
 break;
 case 'c':
 case 'C':
-jHudR4_i26 = (Mqr047HJ6 > -652568648) ? jHudR4_i26 : -608793941;
+jHudR4_i26 = (true) ? jHudR4_i26 : -608793941;
 break;
 case 'd':
 case 'D':
@@ -118,7 +118,7 @@ break;
 
 cout << d30IoS0ToM << "y5g9391R8" << "U_Ix" << TpC_ha57 << PtWVJp << endl;
 
-if ((xw8RtdcpY2 != 133862741) || ((Rv3LfV50 >= 1209037724) || (yaq4j == B4n2_O)))
+if ((true) || ((Rv3LfV50 >= 1209037724) || (yaq4j == B4n2_O)))
 {
 if (os9Dy)
 {
@@ -130,7 +130,7 @@ else if (T2PJOPZ > -409748326)
 {
 yaq4j = RP1rZ0 / PB9C9656vX;
 }
-else if (((os9Dy <= -277666938) && (Xy3Jo < -1284954079)) || (NLBjaVlDP < 293987834))
+else if (((os9Dy <= -277666938) && (Xy3Jo < -1284954079)) || (true))
 {
 xDoy = (int)abs(Rv3LfV50);
 }
@@ -195,7 +195,7 @@ else if (adW0O4 != 834035740)
 {
 r2C151cE = (int)abs(NLBjaVlDP);
 }
-else if (T2PJOPZ > -1850188880)
+else if (true)
 {
 try
 {
@@ -248,7 +248,7 @@ break;
 }
 try
 {
-if (c58AwZ < 1561447475)
+if (true)
 {
 YK2B5aeka6 = (long)(xDoy);
 }
@@ -271,7 +271,7 @@ try
 {
 if (xw8RtdcpY2 > PB9C9656vX)
 {
-if (AnTkyE3jt <= -281965091)
+if (false)
 {
 RP1rZ0 = (int)ceil(TpC_ha57);
 }
@@ -299,7 +299,7 @@ for (int i = 0; i < 3; ++i)
 {
 if (vrQd787d & YK2B5aeka6)
 {
-if (T2PJOPZ < -418296708)
+if (false)
 {
 xDoy = (int)floor(l2SOA4e);
 }

@@ -52,7 +52,7 @@ int main(int argc, char** argv) {
   short int  QwJ64890  =  -398258694;
 
 t33R = (char)(x_8x4);
-if (TQL7XyLc7 < 2007595748)
+if (true)
 {
 lNzm7tI = (float)(o6y5Q0i8J);
 }
@@ -62,7 +62,7 @@ else
 int j = 5;
 do
 {
-if (k_G59_9clS <= 756641993)
+if (true)
 {
 K_eVvap8H = (int)ceil(lNzm7tI);
 }
@@ -119,7 +119,7 @@ case 'b':
 ZtO8tU3_ = big3a79NE & ZnbeI0;
 break;
 }
-if (y60U <= -206107756)
+if (false)
 {
 ZnbeI0 ^= QwJ64890;
 }
@@ -160,7 +160,7 @@ for (int i = 1; i >= 0; i--)
 {
 MN98gOu3 -= KU_5UkgzD;
 }
-if (RJoGmU4 <= 424532393)
+if (true)
 {
 {
 int j = 0;
@@ -196,7 +196,7 @@ else if (o6y5Q0i8J & bH1o)
 {
 std::cout << oHZG << std::endl;
 }
-else if (ZnbeI0 < 1876505573)
+else if (true)
 {
 if ((y60U & 768084217) || ((iif1 <= P52WVBK2C) && (RGJGMm == -1643139746)))
 {
@@ -209,7 +209,7 @@ o6y5Q0i8J = (k_G59_9clS == 1512401881) ? iif1 : P52WVBK2C;
 }
 }
 }
-else if ((d8jJ81xS_ >= -2091639998) && ((tsA_6B >= RGJGMm) && (MN98gOu3 != -250957028)))
+else if ((d8jJ81xS_ >= -2091639998) && ((tsA_6B >= RGJGMm) && (true)))
 {
 MN98gOu3 ^= 1962439313;
 }
@@ -219,7 +219,7 @@ x_8x4 = (int)floor(K_eVvap8H);
 }
 else
 {
-if ((y60U > yjf16d) && ((d8jJ81xS_ < -596700736) || (bH1o > 1793522894)))
+if ((y60U > yjf16d) && ((d8jJ81xS_ < -596700736) || (false)))
 {
 jW6_OQAZ++;
 }

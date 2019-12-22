@@ -56,7 +56,7 @@ int i = 7;
 while (i >= 0)
 {
 --i;
-if (((p_9TNF6 > A7eh3) || (bOZ_rVpx != h_GQahHfl8)) || (s_7_xMx >= A7eh3))
+if (((false) || (bOZ_rVpx != h_GQahHfl8)) || (s_7_xMx >= A7eh3))
 {
 {
 int k = 0;
@@ -72,7 +72,7 @@ else if (bOZ_rVpx & ljvmZ)
 {
 cout << W0n3Z77(-1888838104, 104729467, RiR4, 1802328875) << l8Ied << endl;
 }
-else if (uZ9ACYZNU5 < -1780018209)
+else if (false)
 {
 if (tW29pHXP)
 {
@@ -99,7 +99,7 @@ else if (A_WTF5g8 >= 210776682)
 {
 q_6OsHE4 = W0n3Z77(-654920529, tW29pHXP, 1833865886, 949000259);
 }
-else if ((ck8s & A7eh3) || ((lL82O_ != 1236532138) && (q_6OsHE4 <= -1016912068)))
+else if ((ck8s & A7eh3) || ((true) && (q_6OsHE4 <= -1016912068)))
 {
 if (U1K2CG3T4K == mk1127)
 {

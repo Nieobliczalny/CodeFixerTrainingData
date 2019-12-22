@@ -190,7 +190,7 @@ case 'b':
 g3WKS_ = Qb4CfaW_D7(g3WKS_, WB30Cvb, QEH32);
 break;
 case 'c':
-uH6F = (p_21 >= -913338506) ? z26C(1268583786, -2050497851, QEH32) : iTR4Te;
+uH6F = (true) ? z26C(1268583786, -2050497851, QEH32) : iTR4Te;
 break;
 }
 W_T9U = Qb4CfaW_D7(-314940838, V49pgID2Q, 2110472183);

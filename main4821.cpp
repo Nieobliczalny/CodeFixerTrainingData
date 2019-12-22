@@ -46,7 +46,7 @@ break;
 while (i >= 0);
 }
 
-if (q186B == -628362165)
+if (false)
 {
 los9 = (short int)(X9V23aXq);
 }
@@ -81,7 +81,7 @@ case 4:
 K1k0 = (int)abs(VpQS);
 break;
 }
-if (vJvO < -990790552)
+if (false)
 {
 if (D1wa6 > vJvO)
 {
@@ -128,7 +128,7 @@ break;
 }
 else if (sg6a_eX >= nsk3FG3vvh)
 {
-if (((R8w3 < qLM4) && (K5cBKb >= nsk3FG3vvh)) && ((V93A3MK5D <= 1276060367) && (r8tv07_ & 893482814)))
+if (((R8w3 < qLM4) && (K5cBKb >= nsk3FG3vvh)) && ((true) && (r8tv07_ & 893482814)))
 {
 {
 int k = 0;
@@ -144,7 +144,7 @@ else
 std::cout << Ny2u6O8Ml << "z7nc5GCI" << "lpZ_ePFz_" << nsk3FG3vvh << std::endl;
 }
 }
-else if (VpQS > 1575213546)
+else if (false)
 {
 X9V23aXq--;
 }
@@ -154,7 +154,7 @@ D1wa6 = (UPhwkCMtm >= 1655427368) ? YpUjQGV071 : Ln305epl;
 }
 else
 {
-w27BL_ = (vJvO != -1138783109) ? 80999335 : V93A3MK5D;
+w27BL_ = (true) ? 80999335 : V93A3MK5D;
 }
 
 switch (AxfQgQy)
@@ -205,7 +205,7 @@ i++;
 int j = 0;
 do
 {
-if (((W8GW7 <= 820877164) && (K5cBKb <= q186B)) || (K5cBKb <= vJvO))
+if (((true) && (K5cBKb <= q186B)) || (K5cBKb <= vJvO))
 {
 q186B = T0R59a2 ^ V93A3MK5D;
 }
@@ -223,7 +223,7 @@ int i = 0;
 while (i < 7)
 {
 i++;
-if (VpQS >= -1012714105)
+if (true)
 {
 if (YpUjQGV071 == 889211151)
 {
@@ -234,7 +234,7 @@ else
 d298a4b7c = w27BL_ >> D1wa6;
 }
 }
-else if (qLM4 >= -2119834883)
+else if (true)
 {
 if (UPhwkCMtm != 199105340)
 {
@@ -274,7 +274,7 @@ break;
 std::cout << qLM4 << UPhwkCMtm << q186B << std::endl;
 if ((629871942 / wxM3) <= 1087109379)
 {
-if (((AxfQgQy > -867819827) || (w27BL_ & deVf049)) || ((T0R59a2 & -844586287) || (ks03Kmen == -374896867)))
+if (((true) || (w27BL_ & deVf049)) || ((T0R59a2 & -844586287) || (ks03Kmen == -374896867)))
 {
 sg6a_eX *= 2063431358;
 }
@@ -284,7 +284,7 @@ R8w3++;
 }
 else
 {
-if ((los9) && ((q186B > 917669223) && (nsk3FG3vvh)))
+if ((los9) && ((false) && (nsk3FG3vvh)))
 {
 try
 {
@@ -317,7 +317,7 @@ catch (int& errorCode)
 {
 V93A3MK5D = D0759 + 553780592;
 }
-if ((d298a4b7c <= qLM4) && ((vJvO > -538101976) && (D1wa6 > ks03Kmen)))
+if ((d298a4b7c <= qLM4) && ((true) && (D1wa6 > ks03Kmen)))
 {
 R8w3 = vJvO + 319779119;
 }

@@ -22,7 +22,7 @@ int main(void)
         dJOnz3R3    =    aq4tEQ    =    MY0U1_Y1    =    0;
 
 el3xTz7 = (int)abs(PAvz3s0gV);
-if (bHkc >= WqmtwHx)
+if (true)
 {
 MJew1rD1O1 = (int)abs(HE1Xi5T);
 }
@@ -49,7 +49,7 @@ if (((aq4tEQ & WqmtwHx) && (o7t3n28 == nQr4)) || ((EmeEx >= el3xTz7) || (aq4tEQ)
 {
 std::cout << ac9KRoo << dJOnz3R3 << EmeEx << std::endl;
 }
-else if ((bHkc < GmlCnFSbO1) && ((o7t3n28 >= -285015975) && (ac9KRoo == lQ7F5D)))
+else if ((bHkc < GmlCnFSbO1) && ((true) && (ac9KRoo == lQ7F5D)))
 {
 {
 int j = 1;
@@ -68,7 +68,7 @@ for (int j = 9; j >= 0; j--)
 e72Um_88Ni ^= PAvz3s0gV;
 }
 }
-else if (W71nZN5 <= WqmtwHx)
+else if (false)
 {
 if ((W71nZN5 <= 1259545955) && (el3xTz7 != -652477483))
 {

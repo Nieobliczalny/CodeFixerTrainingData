@@ -306,7 +306,7 @@ while (i < 4);
 
 if (fjX3ZS > 2007210508)
 {
-if (a13Lwlf4k == 698400505)
+if (false)
 {
 if (L6kG43Nz_O != E5YTV)
 {
@@ -336,7 +336,7 @@ ggiSaN_1 = Z_MDN710r();
 
 k9R0OQD7 = (long long)(IRckj2y);
 
-if ((POf1B == t8FN_43K4M) && ((E3pXIF_Y >= 23499083) || (awSiJ2)))
+if ((POf1B == t8FN_43K4M) && ((false) || (awSiJ2)))
 {
 if (rS54 == -1653285020)
 {
@@ -399,7 +399,7 @@ if (Tf3_us)
 {
 g8g32 = Z_MDN710r() | 589958735;
 }
-else if (((ggiSaN_1 >= 774110506) && (y61_6 >= Tf3_us)) && (Ic90JryU2w > Ws10wJ5k))
+else if (((false) && (y61_6 >= Tf3_us)) && (Ic90JryU2w > Ws10wJ5k))
 {
 try
 {
@@ -444,7 +444,7 @@ j--;
 while (j >= 0);
 }
 }
-if (B28N1 <= 1493084861)
+if (true)
 {
 cout << "Cw36E1_6w_" << POf1B << endl;
 }

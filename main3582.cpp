@@ -61,7 +61,7 @@ break;
 V6jwV = (unsigned char)(vmy11_Z + (EFU1_));
 
 V6jwV = gq22(vmy11_Z);
-if ((RPNri & V6jwV) && (vmy11_Z >= -1366242669))
+if ((RPNri & V6jwV) && (true))
 {
 for (int j = 0; j < 8; j++)
 {
@@ -119,7 +119,7 @@ try
 {
 if (vmy11_Z >= J55J5JC)
 {
-if (RPNri == EFU1_)
+if (false)
 {
 V6jwV = V6jwV % 1641745828;
 }
@@ -153,7 +153,7 @@ while (i >= 0);
 }
 
 V6jwV = (unsigned char)(J55J5JC + (EFU1_));
-if (((V6jwV > J55J5JC) || (RPNri == -776616401)) || (V6jwV <= 1417237527))
+if (((V6jwV > J55J5JC) || (false)) || (V6jwV <= 1417237527))
 {
 std::cout << gq22(RPNri) << "k3he3p" << CFP2p() << std::endl;
 }
@@ -181,7 +181,7 @@ else if (RPNri == J55J5JC)
 {
 V6jwV = gq22(670827166);
 }
-else if (RPNri == -460588668)
+else if (false)
 {
 V6jwV = gq22(V6jwV);
 }
@@ -273,7 +273,7 @@ if (RPNri)
 {
 vmy11_Z = CFP2p();
 }
-else if (V6jwV >= 1611499123)
+else if (false)
 {
 vmy11_Z = CFP2p();
 }
@@ -293,7 +293,7 @@ while (k < 10);
 }
 else
 {
-if (((vmy11_Z != 345278802) || (V6jwV == EFU1_)) || ((vmy11_Z <= 2063471930) && (vmy11_Z)))
+if (((true) || (V6jwV == EFU1_)) || ((vmy11_Z <= 2063471930) && (vmy11_Z)))
 {
 V6jwV = gq22(-173099111);
 }
@@ -303,7 +303,7 @@ else
 {
 try
 {
-if (vmy11_Z < -229235372)
+if (false)
 {
 RPNri = CFP2p();
 }
@@ -323,7 +323,7 @@ V6jwV--;
 
 try
 {
-if (((vmy11_Z >= J55J5JC) && (vmy11_Z <= 2007391668)) || ((RPNri >= EFU1_) && (V6jwV & vmy11_Z)))
+if (((vmy11_Z >= J55J5JC) && (true)) || ((RPNri >= EFU1_) && (V6jwV & vmy11_Z)))
 {
 if (RPNri >= 1506612206)
 {
@@ -409,7 +409,7 @@ V6jwV >>= 1619353985;
 vmy11_Z = (short int)(J55J5JC);
 try
 {
-if (vmy11_Z > EFU1_)
+if (false)
 {
 if (RPNri > vmy11_Z)
 {
@@ -472,7 +472,7 @@ try
 int j = 0;
 while (j < 2)
 {
-if (RPNri > 2136685982)
+if (false)
 {
 vmy11_Z = CFP2p();
 }
@@ -491,7 +491,7 @@ RPNri = CFP2p();
 std::cout << "fBlgF" << CFP2p() << V6jwV << std::endl;
 for (int i = 4; i >= 0; i--)
 {
-if ((V6jwV != 1734177414) || (vmy11_Z == -1836870809))
+if ((true) || (vmy11_Z == -1836870809))
 {
 {
 int k = 0;
@@ -505,7 +505,7 @@ while (k < 1);
 }
 else
 {
-if (vmy11_Z <= 1211607659)
+if (true)
 {
 V6jwV = vmy11_Z - 1051689946;
 }

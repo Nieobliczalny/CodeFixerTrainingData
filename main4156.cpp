@@ -101,7 +101,7 @@ while (j < 6);
 i++;
 }
 }
-if (qf4B6v3 < -555958077)
+if (false)
 {
 if ((bPnWs6BG == Xe06G3) || ((NaQ36rccWQ == hWl3) || (LLKb > -747508544)))
 {
@@ -198,7 +198,7 @@ if (VRf5)
 {
 Ol8K72 %= 974350401;
 }
-else if ((RrH_k > hWl3) || (Ah_2Hqqlm >= duEw_l_N9))
+else if ((RrH_k > hWl3) || (false))
 {
 K2817 = (int)floor(iyL3);
 }

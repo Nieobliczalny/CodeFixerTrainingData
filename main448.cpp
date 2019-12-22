@@ -66,7 +66,7 @@ case 'j':
 Trr_406x = Xt9Q - 1374200179;
 break;
 }
-if (((Xt9Q) && (EL_MlV0d > URCKO)) || ((PG2G < KI_Ef) || (Xt9Q > -2057835805)))
+if (((Xt9Q) && (EL_MlV0d > URCKO)) || ((true) || (Xt9Q > -2057835805)))
 {
 std::cout << "M3W4L7U" << Xt9Q << std::endl;
 }
@@ -84,7 +84,7 @@ if (EL_MlV0d == Trr_406x)
 {
 Trr_406x = (int)floor(D_8Xz0);
 }
-else if (EL_MlV0d > 2122127762)
+else if (false)
 {
 Trr_406x = (int)abs(PG2G);
 }
@@ -96,7 +96,7 @@ else if (D_8Xz0)
 {
 D_8Xz0 = (int)floor(Trr_406x);
 }
-else if (Xt9Q > KI_Ef)
+else if (false)
 {
 PG2G--;
 }
@@ -174,7 +174,7 @@ catch (int& errorCode)
 PG2G -= Trr_406x;
 }
 }
-if (Xt9Q > -1069416543)
+if (true)
 {
 PG2G <<= 1754552894;
 }
@@ -230,7 +230,7 @@ int i = 1;
 do
 {
 --i;
-if (PG2G < 786210988)
+if (true)
 {
 if (((PG2G & URCKO) || (Trr_406x == URCKO)) || ((D_8Xz0 > PG2G) || (PG2G & Xt9Q)))
 {
@@ -324,7 +324,7 @@ while (i < 6)
 {
 if ((Trr_406x <= KI_Ef) && ((D_8Xz0 == URCKO) || (PG2G != D_8Xz0)))
 {
-if ((PG2G < D_8Xz0) && (Xt9Q > 1884103190))
+if ((PG2G < D_8Xz0) && (false))
 {
 PG2G %= 635730776;
 }
@@ -341,7 +341,7 @@ else if (((Xt9Q & 1453648250) || (Xt9Q < PG2G)) && ((Xt9Q & PG2G) && (Trr_406x >
 {
 PG2G++;
 }
-else if ((D_8Xz0 < PG2G) && (PG2G == KI_Ef))
+else if ((D_8Xz0 < PG2G) && (false))
 {
 switch (EL_MlV0d)
 {
@@ -363,7 +363,7 @@ D_8Xz0 = (int)floor(Trr_406x);
 }
 else if (PG2G & Xt9Q)
 {
-if (EL_MlV0d >= 259518591)
+if (false)
 {
 Trr_406x = (int)ceil(D_8Xz0);
 }

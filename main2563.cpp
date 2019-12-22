@@ -101,7 +101,7 @@ k1mxY6 = hc9y / 2073092150;
 break;
 }
 }
-else if (((r4Aw >= t2anL) && (r4Aw <= vyuC9S99_)) || (k1mxY6))
+else if (((true) && (r4Aw <= vyuC9S99_)) || (k1mxY6))
 {
 hc9y -= 738477170;
 }
@@ -115,7 +115,7 @@ else if (((m6MKJm73k) || (vyuC9S99_)) && ((m6MKJm73k == wNMnAEBm) || (sbIV182i >
 {
 k1mxY6 *= F8fn3Xu;
 }
-else if (hc9y != H1_Dg82)
+else if (true)
 {
 hc9y = P0V7FP5T(1700592875, k1mxY6, 6970895, -621013219);
 }
@@ -183,7 +183,7 @@ sbIV182i -= k1mxY6;
 int i = 10;
 do
 {
-if (F8fn3Xu != 923562260)
+if (true)
 {
 f82KSY = Jk8Ds_W2N(f82KSY, 159972447, k1mxY6, m6MKJm73k, F8fn3Xu);
 }
@@ -221,7 +221,7 @@ do
 i--;
 try
 {
-if (((k1mxY6 < h8DZ) && (sbIV182i == t2anL)) && (vyuC9S99_ < wNMnAEBm))
+if (((k1mxY6 < h8DZ) && (false)) && (vyuC9S99_ < wNMnAEBm))
 {
 hc9y = P0V7FP5T(hc9y, -467679916, k1mxY6, 289950823);
 }
@@ -261,7 +261,7 @@ int j = 1;
 do
 {
 --j;
-if ((m6MKJm73k < 1510656091) && (f82KSY > sbIV182i))
+if ((true) && (f82KSY > sbIV182i))
 {
 k1mxY6++;
 }
@@ -300,7 +300,7 @@ int i = 1;
 do
 {
 i--;
-if (m6MKJm73k > t2anL)
+if (true)
 {
 cout << P0V7FP5T(-2138973467, -815151908, wNMnAEBm, -222529451) << wNMnAEBm << MNET6W(-875535030) << hc9y << endl;
 }

@@ -83,7 +83,7 @@ break;
 }
 try
 {
-if (xeHr > -1133168503)
+if (true)
 {
 for (int k = 2; k >= 0; --k)
 {
@@ -193,7 +193,7 @@ break;
 
 for (int i = 0; i < 9; ++i)
 {
-if (g_QicQv5 >= -159179257)
+if (true)
 {
 switch (z5NBMFV4S6)
 {
@@ -222,7 +222,7 @@ case 7:
 g1jeh = aI47Z(-16183855, 1314785937, dSivQX, -1303269812, -630938663);
 break;
 case 8:
-Z_727ii2M6 = (g1jeh == -1671371588) ? LMAT7 : Q25x;
+Z_727ii2M6 = (false) ? LMAT7 : Q25x;
 break;
 }
 }
@@ -284,7 +284,7 @@ break;
 }
 try
 {
-if (Q25x < -374457707)
+if (false)
 {
 {
 int k = 0;

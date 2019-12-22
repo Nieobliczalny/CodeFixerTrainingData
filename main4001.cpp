@@ -115,7 +115,7 @@ bMRQwIk = (unsigned short int)(J6b8O5x);
 int i = 0;
 do
 {
-if (((W31Lp <= 936958982) && (bMRQwIk >= -848497272)) && (bMRQwIk & 425769167))
+if (((W31Lp <= 936958982) && (true)) && (bMRQwIk & 425769167))
 {
 cout << sSm3FDT2B9 << v82tC(l7F_43fX2, ekROQe, 633509864) << "J_691Ih31" << Tq2KjGm(l7F_43fX2, ekROQe, 1001465770, 281151352, W31Lp) << W31Lp << endl;
 }
@@ -282,7 +282,7 @@ wIpVBgGAC = zFmt0_b(-1978209647, 254149089, U4H4, X2LRp62eO7);
 }
 }
 }
-if ((FQnJS > -91854382) && (W31Lp > 63340028))
+if ((true) && (W31Lp > 63340028))
 {
 jAjKD0S1i = wIpVBgGAC - 1893484179;
 }
@@ -303,7 +303,7 @@ else if (ekROQe & 921122869)
 {
 qi48O = (unsigned short int)(lrl8);
 }
-else if (lrl8 > 767707716)
+else if (false)
 {
 cout << bMRQwIk << endl;
 }

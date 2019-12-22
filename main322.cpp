@@ -143,7 +143,7 @@ break;
 
 cout << M9_U(S1xb3YM2WJ, 1873930051, -2116387674, lH09V8f2, 1046747601) << "BnDX" << R64PGT(S1xb3YM2WJ) << R64PGT(S1xb3YM2WJ) << endl;
 
-if (RO82ZvLN <= 530489692)
+if (true)
 {
 {
 int j = 0;
@@ -182,7 +182,7 @@ peNhc = (int)floor(Kt_1LOz);
 break;
 }
 }
-else if (Nwpi < 619820907)
+else if (true)
 {
 if (kwx1mV == 1143357842)
 {
@@ -240,7 +240,7 @@ else
 {
 for (int j = 1; j >= 0; --j)
 {
-if ((vwS8G467_b > -55904023) && (E_bO8 != 350166019))
+if ((vwS8G467_b > -55904023) && (true))
 {
 vWwPd2Z6 = iCE2x9roW | 706487628;
 }

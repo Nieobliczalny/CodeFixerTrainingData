@@ -36,7 +36,7 @@ int main() {
   char  FW1akX8K;
   FW1akX8K  =  0;
 
-if ((j1y50KaB1b >= -940202715) && ((j1y50KaB1b != 604291250) || (j1y50KaB1b <= -1693729340)))
+if ((true) && ((j1y50KaB1b != 604291250) || (j1y50KaB1b <= -1693729340)))
 {
 yIS_ = U2_jnwWwO(-1552076366, FW1akX8K);
 }
@@ -59,7 +59,7 @@ std::cout << nvE2O_kH << nvE2O_kH << std::endl;
 j1y50KaB1b = KZAonZ(j1y50KaB1b, nLBc3Y, 161354468, -675014504);
 
 j1y50KaB1b = (char)(nLBc3Y + (1785506871));
-if (nLBc3Y == 1075570525)
+if (false)
 {
 {
 int j = 0;
@@ -71,7 +71,7 @@ FW1akX8K = (int)abs(j1y50KaB1b) * 0;
 }
 else
 {
-j1y50KaB1b = (gG57TG5i_ > -1376977179) ? 1461429778 : U2_jnwWwO(858552889, 103006822);
+j1y50KaB1b = (true) ? 1461429778 : U2_jnwWwO(858552889, 103006822);
 }
 ++j;
 }

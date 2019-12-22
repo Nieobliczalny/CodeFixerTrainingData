@@ -376,7 +376,7 @@ while (i >= 0)
 {
 if (u9PL < yiE9qw7)
 {
-if (m76MY != YEk9BaJGtM)
+if (true)
 {
 hLa8NUs = (int)floor(TpQVna8E);
 }
@@ -397,7 +397,7 @@ else if (U9H55 < -1158857890)
 {
 aXU_R9 = (long double)(U9H55);
 }
-else if ((JWv4KGR >= 1316066455) && (KbB98L1 & YEk9BaJGtM))
+else if ((false) && (KbB98L1 & YEk9BaJGtM))
 {
 if ((JWv4KGR & rZct3q) && (oxjq7S != x76NX7qKs))
 {
@@ -696,7 +696,7 @@ BRjP = (int)abs(C3YD8BEFO);
 
 if ((rLleLnv >= -979858696) || (qJe_ >= PGfi6))
 {
-if (JWv4KGR > -93295612)
+if (true)
 {
 try
 {

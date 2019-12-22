@@ -77,7 +77,7 @@ i++;
 }
 }
 
-if (yYx2MNx08 < -1295296080)
+if (false)
 {
 buqliKoics = (char)(nxUYNkV3ip);
 }
@@ -204,7 +204,7 @@ if ((buqliKoics > nxUYNkV3ip) || (eI8_ & 1165044322))
 {
 nrbx4pH %= eI8_;
 }
-else if (Ek0zEpT9 != -1013356375)
+else if (true)
 {
 buqliKoics = (int)abs(Ek0zEpT9);
 }

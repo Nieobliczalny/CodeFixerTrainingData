@@ -50,7 +50,7 @@ k--;
 }
 }
 }
-else if (yVOv2E8U > 78310617)
+else if (false)
 {
 if ((yVOv2E8U >= -1066434744) && (yVOv2E8U < 367301435))
 {
@@ -65,7 +65,7 @@ else
 o0kZB = (int)floor(L89TJ);
 }
 }
-else if (yVOv2E8U > 676232907)
+else if (false)
 {
 for (int k = 0; k < 3; k++)
 {
@@ -199,7 +199,7 @@ o0kZB = kaChi(-363546464, yVOv2E8U, L89TJ, 2055111032);
 }
 }
 }
-else if (yVOv2E8U > -1283469315)
+else if (true)
 {
 if ((o0kZB <= yVOv2E8U) && ((yVOv2E8U & 1296338729) || (yVOv2E8U & -1784290498)))
 {
@@ -223,7 +223,7 @@ if (yVOv2E8U & -377722660)
 o0kZB = o0kZB - 2035774417;
 }
 }
-else if (((o0kZB > yVOv2E8U) || (L89TJ)) || (yVOv2E8U != -1403384625))
+else if (((o0kZB > yVOv2E8U) || (L89TJ)) || (true))
 {
 o0kZB = (int)floor(L89TJ);
 }
@@ -256,7 +256,7 @@ cout << "fVPB" << t5e1VPV41(yVOv2E8U, o0kZB) << "Q0e99mX0J" << y0uY07(yVOv2E8U, 
 }
 L89TJ = kaChi(-1019503989, o0kZB, 333529522, 1537373661);
 
-if (yVOv2E8U > 73514295)
+if (false)
 {
 if (L89TJ)
 {
@@ -297,7 +297,7 @@ o0kZB = (float)(L89TJ);
 
 for (int i = 0; i < 9; i++)
 {
-if (yVOv2E8U > 1980262071)
+if (false)
 {
 switch (yVOv2E8U)
 {
@@ -327,7 +327,7 @@ else if (L89TJ < yVOv2E8U)
 {
 L89TJ = (int)floor(o0kZB);
 }
-else if (yVOv2E8U <= -1421698710)
+else if (false)
 {
 L89TJ = L89TJ * 774348604;
 }
@@ -361,7 +361,7 @@ L89TJ = t5e1VPV41(894657626, 263960336) ^ 1266220488;
 }
 else if ((o0kZB > 855803227) || (o0kZB >= yVOv2E8U))
 {
-if (((yVOv2E8U != o0kZB) || (o0kZB > L89TJ)) || (yVOv2E8U <= -139684363))
+if (((yVOv2E8U != o0kZB) || (o0kZB > L89TJ)) || (false))
 {
 yVOv2E8U = y0uY07(yVOv2E8U, -2013709552, 1120475);
 }
@@ -371,7 +371,7 @@ L89TJ = (float)(o0kZB);
 }
 else if (((yVOv2E8U & -376137294) || (o0kZB <= 972214905)) || ((L89TJ > 701357369) && (L89TJ <= o0kZB)))
 {
-if (yVOv2E8U == 25302968)
+if (false)
 {
 yVOv2E8U = y0uY07(-574423139, o0kZB, L89TJ);
 }
@@ -419,7 +419,7 @@ else
 L89TJ = kaChi(-249061707, o0kZB, yVOv2E8U, -1348539771);
 }
 }
-else if (yVOv2E8U <= 1239534701)
+else if (true)
 {
 if ((o0kZB != 1109778713) && (L89TJ == -606159420))
 {
@@ -440,7 +440,7 @@ else if (L89TJ != -2062834750)
 {
 for (int j = 1; j >= 0; j--)
 {
-if (yVOv2E8U != -212483995)
+if (true)
 {
 o0kZB = (int)floor(L89TJ);
 }

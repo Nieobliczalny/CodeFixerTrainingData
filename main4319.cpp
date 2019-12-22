@@ -98,7 +98,7 @@ case 0:
 at037z75t -= w1ia;
 break;
 case 1:
-jzEx6B9 = (G9GJp1 != 348836498) ? -1812826976 : pdSPpvJILO;
+jzEx6B9 = (true) ? -1812826976 : pdSPpvJILO;
 break;
 case 2:
 G9GJp1 = L_yW9(x_zws, t_ceoKg);

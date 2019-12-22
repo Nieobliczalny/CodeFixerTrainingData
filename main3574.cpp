@@ -73,7 +73,7 @@ std::cout << "RLn_c3J" << "ckKHI6CnJN" << "l_FR4u9q" << "P1r1qb" << "GE_7L8" << 
 
 v6_mre_f--;
 
-if ((t7Ek > 2061587725) && (jzr_ < a2R0EL2P))
+if ((false) && (jzr_ < a2R0EL2P))
 {
 {
 int j = 0;
@@ -93,7 +93,7 @@ j++;
 }
 else
 {
-if (jg007EA > -1093581297)
+if (true)
 {
 for (int k = 0; k < 6; k++)
 {
@@ -114,7 +114,7 @@ sf7e = (short int)(W08Cmzb);
 }
 else
 {
-if (fSt_C3L19M <= 1065171909)
+if (true)
 {
 {
 int k = 0;
@@ -138,7 +138,7 @@ while (i >= 0);
 
 J561aP = (short int)(j6mOs);
 Z502 >>= 719772712;
-if ((vjBjtr) && (z2q87 >= 1617400198))
+if ((vjBjtr) && (false))
 {
 UFz9 = UFz9 ^ 2146239801;
 }
@@ -157,7 +157,7 @@ if ((M9V1Qj) && (bk4xo < UWc1HpG5))
 {
 M9V1Qj += t7Ek;
 }
-else if (PA_0kGvUX2 >= -714142004)
+else if (true)
 {
 vOf2Y = UFz9 * 1339165595;
 }

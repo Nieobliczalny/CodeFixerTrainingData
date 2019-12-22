@@ -145,7 +145,7 @@ int main(int argc, char** argv)
     unsigned short int    hw8TdeCUL_;
     hw8TdeCUL_    =    -714023162;
 
-if (dI838 == -565581300)
+if (false)
 {
 NG306RSoE = (int)ceil(F5AB);
 }
@@ -161,7 +161,7 @@ else if (((zkSk_e > HI4p9M) || (L7b3cf != -1077128625)) || (a6X4_U_jO < yU02a8bL
 {
 ozklxjgSn = (D8v1FZnb0 & 2007223800) ? WqW9Me(350897293, -436024089, 1439604976, -390273834) : oi_Y6;
 }
-else if (dU_5p6bSY > -1545863094)
+else if (true)
 {
 oi_Y6 = WqW9Me(FEUUN, O72ohF26e, s2NDy, w60_);
 }
@@ -198,7 +198,7 @@ catch (int& errorCode)
 sc_5FON2 %= N8nZX6;
 }
 
-if (X01pr_ == 1662854067)
+if (false)
 {
 if ((T9h46NOa != hw8TdeCUL_) && (zkSk_e >= 773166072))
 {
@@ -221,7 +221,7 @@ else if ((N_eomFG_ != -764457893) && (W0JzzP6A < -971546452))
 {
 cout << j65683TZ << "Mp0uELhQ3d" << VL__aCBI5E(W0JzzP6A, 1598519334) << "Q2_F" << zkSk_e << endl;
 }
-else if (T9h46NOa != 1558208543)
+else if (true)
 {
 cout << "ea4I" << "qmBWJcG4" << VL__aCBI5E(W0JzzP6A, sMMi_2OBo) << "x3iC5UX" << WqW9Me(-1844301848, sMMi_2OBo, 900321907, -1135709319) << endl;
 }

@@ -232,7 +232,7 @@ wAULMQ = (int)ceil(c19N80);
 
 std::cout << "LnORusc" << RBkl << odpukby << HNBU_E0K << RBkl << std::endl;
 
-if (((w9ci68X2g == -883223504) || (s_C8O_70 > -1026225174)) || (u43p944 == 290020782))
+if (((false) || (s_C8O_70 > -1026225174)) || (u43p944 == 290020782))
 {
 switch (BV14nnSfH3)
 {
@@ -288,7 +288,7 @@ while (j < 8);
 
 std::cout << "TB1A" << "R6zm" << Ka3Md9u5 << aYfJ_F1ck << std::endl;
 
-if (s_C8O_70 != 2113679903)
+if (true)
 {
 switch (l3Ht9)
 {

@@ -46,7 +46,7 @@ C07T2y7 = y98aHWN0p / nh0LX_;
 
 EqR9y7br = (int)abs(R5r8n);
 
-if (deHd46YlgE != -1569435675)
+if (true)
 {
 for (int j = 0; j < 8; ++j)
 {

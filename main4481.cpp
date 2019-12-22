@@ -46,7 +46,7 @@ int main(int argc, char** argv)
 
 for (int i = 4; i >= 0; --i)
 {
-if ((mHO11Trnp >= -1703392998) || (hlvai < 565010563))
+if ((true) || (hlvai < 565010563))
 {
 gL56746q = NoBfeTZef8(-18334242, 2118547407, 1919347455, 2058931003);
 }
@@ -104,7 +104,7 @@ break;
 
 if ((L3284196 == Wh2aI) && (vxa6y & 359445234))
 {
-if (erP3ap7p__ >= -1799034409)
+if (true)
 {
 ZdqM08B %= 1327596988;
 }
@@ -192,7 +192,7 @@ for (int k = 6; k >= 0; --k)
 Q62MzA = fcXrU3dcp4(f_dVF, 856658360, -629456181, 1213490391);
 }
 }
-else if (M974 != 351809374)
+else if (true)
 {
 yWt8 = Wh2aI % mHO11Trnp;
 }
@@ -234,7 +234,7 @@ if (J8WlFkZ != -590375005)
 {
 std::cout << TKKF2_5 << "n_2C" << fcXrU3dcp4(-130038412, QdpbZL__7, -480751735, s65z09) << std::endl;
 }
-else if ((f_dVF == -1443080603) && ((hlvai < -1285479616) && (M974 <= -1457161375)))
+else if ((f_dVF == -1443080603) && ((hlvai < -1285479616) && (false)))
 {
 if ((guq226) && (IYnpz5UXZW != -567629019))
 {
@@ -279,7 +279,7 @@ s65z09 = Ry_86s(guq226, 1749392632, f_dVF, 2033797262, vxa6y);
 }
 else if ((pd_B > 849669666) || (f_dVF != -1290404810))
 {
-if (mHO11Trnp == -1996189947)
+if (false)
 {
 {
 int k = 2;
@@ -375,7 +375,7 @@ Zq_adQ3Xi = NoBfeTZef8(1250914898, Q62MzA, h2l411, ZdqM08B);
 break;
 }
 }
-else if (erP3ap7p__ >= -154381349)
+else if (true)
 {
 if (((hlvai >= -2020335805) || (yWt8 >= 74331862)) && ((h2l411 >= vxa6y) && (erP3ap7p__)))
 {

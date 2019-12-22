@@ -141,7 +141,7 @@ v_R5PYQW_7 = (int)abs(QgT_b78b6j) * 0;
 }
 else
 {
-if (Z7pu_ != -663361145)
+if (true)
 {
 Pf8LiCI = (int)floor(GcPv);
 }
@@ -204,7 +204,7 @@ else if (y2S5q & fh8y)
 {
 Ni2R5w8a6 = (int)floor(VYiy6H8);
 }
-else if (((uhmLx493 != 41865759) || (UTy_ == -204038525)) && (Mf7dX <= 541305620))
+else if (((uhmLx493 != 41865759) || (UTy_ == -204038525)) && (true))
 {
 Vl1_++;
 }
@@ -225,7 +225,7 @@ else if ((GcPv >= y2S5q) && (y2S5q & -2014671908))
 {
 VYiy6H8 = (int)floor(Ni2R5w8a6);
 }
-else if ((o0NOIY < -291723985) && (Pf8LiCI <= v_R5PYQW_7))
+else if ((false) && (Pf8LiCI <= v_R5PYQW_7))
 {
 for (int k = 0; k < 1; ++k)
 {
@@ -259,7 +259,7 @@ if (Pf8LiCI > GcPv)
 {
 if (u7DZDmPmnD)
 {
-if (((u7DZDmPmnD) || (u7DZDmPmnD <= 1574726578)) || ((u7DZDmPmnD & 180358872) && (a4X615gur)))
+if (((u7DZDmPmnD) || (true)) || ((u7DZDmPmnD & 180358872) && (a4X615gur)))
 {
 Ni2R5w8a6 = (int)ceil(VYiy6H8);
 }
@@ -293,7 +293,7 @@ for (int k = 0; k < 9; ++k)
 yB2398hRV0 = y2S5q % o0NOIY;
 }
 }
-else if (Vl1_ > -1401950482)
+else if (true)
 {
 t4iE4Sfa = PsHFh810n - 412361044;
 }
@@ -314,7 +314,7 @@ a4X615gur = E_ZC607(1235021215, -1744233108, 198257801, -154468679);
 }
 }
 PsHFh810n = -1894079201 / E_ZC607(GcPv, a4X615gur, PsHFh810n, q8_v803qa);
-if (u7DZDmPmnD != -504773935)
+if (true)
 {
 switch (Vl1_)
 {
@@ -342,7 +342,7 @@ else if (k61_21 < UTy_)
 {
 k61_21 = auGo();
 }
-else if (QgT_b78b6j < -2039635725)
+else if (false)
 {
 std::cout << VYiy6H8 << "X116" << std::endl;
 }
@@ -368,7 +368,7 @@ UTy_ = (unsigned int)(VYiy6H8);
 GcPv = (int)floor(VYiy6H8);
 u7DZDmPmnD = (short int)(Vl1_);
 
-if (((GcPv > -10416604) || (a4X615gur >= 1554381934)) && (UTy_ <= 534208077))
+if (((GcPv > -10416604) || (false)) && (UTy_ <= 534208077))
 {
 if ((Pf8LiCI <= QgT_b78b6j) && (t4iE4Sfa == -1489374792))
 {
@@ -404,7 +404,7 @@ else if (VYiy6H8 != -255015946)
 {
 Pf8LiCI = UA61hek(Pf8LiCI);
 }
-else if ((GcPv != q8_v803qa) && (u7DZDmPmnD <= -498222454))
+else if ((GcPv != q8_v803qa) && (false))
 {
 if (PsHFh810n < GcPv)
 {
@@ -431,7 +431,7 @@ XPX2nGA0g = auGo();
 while (k >= 0);
 }
 }
-else if (fh8y >= 636232031)
+else if (false)
 {
 std::cout << QaRo_afZ20(-1970958395, 666636438) << Vl1_ << E_ZC607(XPX2nGA0g, 733134062, -1209522448, 1940455801) << "pDi1Sl1R" << "A_j7" << std::endl;
 }
@@ -457,7 +457,7 @@ break;
 }
 }
 }
-else if (u7DZDmPmnD > -238792384)
+else if (true)
 {
 switch (QgT_b78b6j)
 {

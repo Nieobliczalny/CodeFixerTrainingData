@@ -43,7 +43,7 @@ case 'D':
 QcNFQ = (int)abs(E8dST53T3);
 break;
 }
-if (omxduyqL6 <= -2103831341)
+if (false)
 {
 if (((omxduyqL6 & 267669675) && (E8dST53T3)) && ((u1nhN37p > a2cIhhkl) && (lWO2LV > -1425318797)))
 {
@@ -57,7 +57,7 @@ U0VK7_S9f = (int)abs(lQW_8Ki8B);
 while (k >= 0);
 }
 }
-else if (x9Cx >= 197125197)
+else if (false)
 {
 {
 int k = 0;

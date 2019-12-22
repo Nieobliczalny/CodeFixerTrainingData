@@ -104,7 +104,7 @@ int main(int argc, char** argv) {
   unsigned short  vg1g4  =  -808116601;
     unsigned long long    jkCmWnE5A    =    1881924583;
 
-if (((oROb01UTl > lwcY6) && (nIGERyH & -2083514988)) || (W0ZvDd6d != zqbGTo4))
+if (((true) && (nIGERyH & -2083514988)) || (W0ZvDd6d != zqbGTo4))
 {
 try
 {
@@ -129,7 +129,7 @@ if (K03r2 <= lwcY6)
 {
 XEi6HCn = KOff(tQ7V);
 }
-else if (oROb01UTl > 1076097553)
+else if (false)
 {
 n__s = vg1g4 << 853515128;
 }
@@ -161,7 +161,7 @@ while (j < 7);
 
 Kn9N5NW = KOff(1536647880);
 
-if (yPXD81x >= 1040288793)
+if (false)
 {
 {
 int j = 0;
@@ -303,7 +303,7 @@ fb8iu46APN = (double)(lwcY6);
 int i = 10;
 do
 {
-if ((l21kPh0r == -1780538646) || (Y9oCZHfm >= 295725601))
+if ((false) || (Y9oCZHfm >= 295725601))
 {
 XEi6HCn = KOff(w3CS);
 }
@@ -314,7 +314,7 @@ while (i >= 0);
 
 Kn9N5NW = KOff(LukQ);
 
-if (LukQ == lwcY6)
+if (false)
 {
 if (((Isw64Ygo == CYEAeG2v) || (n_3l5w & lwcY6)) && (UR1oM == -1631474535))
 {
@@ -389,7 +389,7 @@ if (H2DD2Qpe >= Y1t41FV8X)
 {
 n05__rvQ4M = (int)ceil(kB_dcIi);
 }
-else if (Z2L87Ca < lwcY6)
+else if (false)
 {
 try
 {

@@ -280,7 +280,7 @@ u062m = (unsigned short)(D60U82N + (Za5dHW2q5_));
 
 if (r_6zM2 <= lC0FJ017_h)
 {
-if (O0Um1 == Za5dHW2q5_)
+if (false)
 {
 if (Bil6zuXFI > d1h3HK)
 {
@@ -309,7 +309,7 @@ else if ((hTp2f < 721025810) && ((D8HI7 & D60U82N) && (XCI_H)))
 {
 Rsku18c6 = hp3_UGjW9(QH1XsG8RG, uD_P8H8v);
 }
-else if (GVYqw < -1114830893)
+else if (false)
 {
 So6N65m6 = hp3_UGjW9(1108385169, -547842037);
 }
@@ -446,7 +446,7 @@ wB9e = c0r96 - 1266664472;
 }
 else if (ve9E_R <= bv3_1k_)
 {
-if (OA_IU5_23V == 475686156)
+if (false)
 {
 XNt57_9pI = (int)ceil(R86jH);
 }
@@ -462,7 +462,7 @@ catch (int& errorCode)
 So6N65m6 = hp3_UGjW9(ve9E_R, -1565498781);
 }
 }
-else if (((PqJPdj & Za5dHW2q5_) || (Duz87h8U04 == -1180077128)) && (Iuse < TUM3))
+else if (((PqJPdj & Za5dHW2q5_) || (false)) && (Iuse < TUM3))
 {
 switch (C5X3)
 {
@@ -501,7 +501,7 @@ IVk0Zcgt8 *= mOzmvF9;
 break;
 }
 }
-else if ((mOzmvF9 == s_3wGU48C) || ((So6N65m6 != Za5dHW2q5_) || (Tl93gy0S < fp4WS_)))
+else if ((mOzmvF9 == s_3wGU48C) || ((true) || (Tl93gy0S < fp4WS_)))
 {
 for (int k = 8; k >= 0; k--)
 {
@@ -546,7 +546,7 @@ else if (d1h3HK < zErrzz)
 {
 xa_u1 &= 47347158;
 }
-else if ((lC0FJ017_h) || ((hTp2f == D60U82N) || (O0Um1 != 84962925)))
+else if ((lC0FJ017_h) || ((hTp2f == D60U82N) || (true)))
 {
 sOP2V23 = (short int)(sYhHA);
 }
@@ -591,7 +591,7 @@ fECc *= 1886795108;
 int i = 0;
 while (i < 5)
 {
-if (((j2Nh) && (TUM3 != 1667300066)) || ((p991) && (j2Nh > fECc)))
+if (((j2Nh) && (true)) || ((p991) && (j2Nh > fECc)))
 {
 if ((ZUxnd3 != 2097838099) && (tQCw < Duz87h8U04))
 {
@@ -601,7 +601,7 @@ p991 = hp3_UGjW9(-707839992, mOzmvF9) ^ 645870760;
 i++;
 }
 }
-if (QH1XsG8RG <= -1843126769)
+if (false)
 {
 try
 {
@@ -694,7 +694,7 @@ else if (qwWHZKm == Za5dHW2q5_)
 {
 PqJPdj = Za5dHW2q5_ * 1995159988;
 }
-else if ((mOzmvF9 >= 2103084813) && (pfnEpz4Z != Za5dHW2q5_))
+else if ((false) && (pfnEpz4Z != Za5dHW2q5_))
 {
 J_Ev4A = hp3_UGjW9(313973725, Bil6zuXFI);
 }
@@ -725,7 +725,7 @@ fXdTuuO = (short int)(lC0FJ017_h);
 int i = 0;
 while (i < 5)
 {
-if (C5X3 == Za5dHW2q5_)
+if (false)
 {
 bv3_1k_ = MXZuH5_xt7 << zErrzz;
 }
@@ -845,7 +845,7 @@ int i = 0;
 do
 {
 i++;
-if ((EtPMwpv == -2088158847) || ((t0_3Y3_w_F < D60U82N) || (soN8dLS_k6)))
+if ((false) || ((t0_3Y3_w_F < D60U82N) || (soN8dLS_k6)))
 {
 {
 int k = 5;

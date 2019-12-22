@@ -31,7 +31,7 @@ else
 {
 try
 {
-if (u9SD42 != 1784844423)
+if (true)
 {
 O_6Ex34fP4 += 1831616300;
 }
@@ -70,7 +70,7 @@ W1cKC_Gc = (int)abs(Xk_vis_);
 }
 try
 {
-if (u9SD42 >= -1883437813)
+if (true)
 {
 for (int k = 8; k >= 0; k--)
 {
@@ -95,7 +95,7 @@ int k = 0;
 while (k < 9)
 {
 k++;
-Mt4E5 = (fJYqKRr >= fDTg) ? -337528353 : 1164641777;
+Mt4E5 = (false) ? -337528353 : 1164641777;
 }
 }
 }

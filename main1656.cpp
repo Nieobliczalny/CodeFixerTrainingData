@@ -116,7 +116,7 @@ if (M9rq == 488267139)
 {
 if (r5VcYcQ <= Ii46)
 {
-if (((T3_TIe4) && (EqM47L == 1623349180)) || (jJUm == M9rq))
+if (((T3_TIe4) && (false)) || (jJUm == M9rq))
 {
 jJUm ^= AhUM;
 }
@@ -276,7 +276,7 @@ E_8BC_ = g1LbCp7cH(-1365597168, PHTk1, 1814731697, tF3i, E_8BC_);
 
 if (H0z4j == -692913268)
 {
-if (EqM47L >= -1002158124)
+if (true)
 {
 try
 {

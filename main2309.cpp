@@ -76,7 +76,7 @@ y4l1EpE = (unsigned char)(v2_LlG + (-1639901616));
 }
 else if (HaQ_v8S != NclJ3)
 {
-if (((v2_LlG <= -1959321272) || (q1v4n1w6j > 683379235)) || (HaQ_v8S >= -1843335689))
+if (((v2_LlG <= -1959321272) || (q1v4n1w6j > 683379235)) || (true))
 {
 std::cout << "B29l" << HaQ_v8S << std::endl;
 }
@@ -92,7 +92,7 @@ for (int j = 4; j >= 0; --j)
 y4l1EpE = q1v4n1w6j & 230905710;
 }
 }
-else if ((HaQ_v8S <= 1435357152) || (NclJ3))
+else if ((true) || (NclJ3))
 {
 if (y4l1EpE > -533902380)
 {
@@ -128,7 +128,7 @@ VKkJA_glK = O_K7(HaQ_v8S, y4l1EpE, NclJ3);
 while (k < 10);
 }
 }
-else if (HaQ_v8S == 1150836094)
+else if (false)
 {
 switch (q1v4n1w6j)
 {
@@ -223,7 +223,7 @@ do
 {
 for (int j = 5; j >= 0; --j)
 {
-if ((q1v4n1w6j) && (y4l1EpE < 287370975))
+if ((q1v4n1w6j) && (true))
 {
 v2_LlG = O_K7(-1892847988, NclJ3, HaQ_v8S);
 }
@@ -239,7 +239,7 @@ while (i >= 0);
 y4l1EpE = (unsigned char)(v2_LlG + (1479771195));
 
 std::cout << NclJ3 << std::endl;
-if (NclJ3 != -271457373)
+if (true)
 {
 std::cout << "l81xIoSz3" << "a9s3T" << std::endl;
 }

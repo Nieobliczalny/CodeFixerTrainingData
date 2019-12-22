@@ -71,7 +71,7 @@ std::cout << dP78I191() << std::endl;
 
 leFdH_0 = (unsigned char)(lO_58XTNXs);
 
-if ((OEx12jF < mEx94kH80D) || ((uFZw <= 1463263205) && (uFZw <= HLh26Y_xg)))
+if ((OEx12jF < mEx94kH80D) || ((true) && (uFZw <= HLh26Y_xg)))
 {
 {
 int j = 0;
@@ -101,7 +101,7 @@ qqty = Xzj4B2Hj(qqty, -994457431, t4vAsFe, U_X8, uFZw);
 Aw7UzpP3i7 >>= j5Hzq6r;
 uFZw = -122786377 / HLh26Y_xg;
 
-if ((j5Hzq6r != fHwA) || (HLh26Y_xg >= qeJIRx0O))
+if ((j5Hzq6r != fHwA) || (true))
 {
 {
 int j = 1;

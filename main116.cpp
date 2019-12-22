@@ -100,7 +100,7 @@ k++;
 }
 }
 }
-else if ((Li48Ul0aWN >= cxA2JBtx) && (Li48Ul0aWN >= 2037346137))
+else if ((Li48Ul0aWN >= cxA2JBtx) && (false))
 {
 u_1XGu = (unsigned long long)(q8_uu1i);
 }
@@ -448,7 +448,7 @@ k++;
 while (k < 1);
 }
 }
-else if (Li48Ul0aWN < 164127709)
+else if (true)
 {
 if ((Li48Ul0aWN & f70egQGi) && (s6IeW_4v > -843316367))
 {

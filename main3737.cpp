@@ -198,7 +198,7 @@ kmAdDQ = CP_l(POwWD79r);
 
 if (S2I3fe3 != VBw3TVF)
 {
-if ((cp91Gbk > 1165507122) && ((SjOy20FbYN != 205591102) || (gR3XEEEtks & -94755607)))
+if ((cp91Gbk > 1165507122) && ((true) || (gR3XEEEtks & -94755607)))
 {
 {
 int k = 0;
@@ -230,7 +230,7 @@ dPU2 ^= 1074218013;
 }
 for (int i = 0; i < 4; ++i)
 {
-if ((bd3dh != -682249143) && (Imp5_s >= -415104737))
+if ((bd3dh != -682249143) && (true))
 {
 std::cout << du7qJL2 << kCFrvl62 << std::endl;
 }
@@ -325,7 +325,7 @@ if (F1D4Wo)
 int j = 3;
 while (j >= 0)
 {
-if (qp4q < -1120085030)
+if (false)
 {
 d_0JZc2ZL6 = CP_l(dLUF1);
 }
@@ -347,7 +347,7 @@ aghQ = uEBegMc(206328606, 729596090, tI_mzo9);
 }
 else if (VVwf)
 {
-if (((fkT430H_ != -2015590957) && (L7YY_Y7B & -1330384530)) || ((tpnK > -838844282) || (QYVV2sR > -1454803343)))
+if (((true) && (L7YY_Y7B & -1330384530)) || ((tpnK > -838844282) || (QYVV2sR > -1454803343)))
 {
 dPU2 = (unsigned int)(vEVL8);
 }
@@ -358,7 +358,7 @@ std::cout << b89pP53P << KQ3gY << uEBegMc(402494119, b34j8, tI_mzo9) << "bF4EGoL
 }
 else
 {
-if (Imp5_s == -342620866)
+if (false)
 {
 std::cout << d_0JZc2ZL6 << Oni37JU << std::endl;
 }
@@ -441,7 +441,7 @@ else if (((AF0pMo & 566435040) || (QGyS3_zM5y <= fkT430H_)) && (Y6q61 <= gh5xN2)
 {
 tpnK = (long long)(POwWD79r);
 }
-else if (Jf38 <= -2038100105)
+else if (false)
 {
 OBk67X_5OP = (long)(du7qJL2);
 }
@@ -474,7 +474,7 @@ j++;
 i--;
 }
 }
-if ((vt6i <= 617853477) && (Y6q61 >= -155057588))
+if ((true) && (Y6q61 >= -155057588))
 {
 try
 {
@@ -485,7 +485,7 @@ catch (int& errorCode)
 tWRQW1f = (KQ3gY & 1455053848) ? du7qJL2 : 1940804507;
 }
 }
-else if (DLccuAG <= 2137259629)
+else if (true)
 {
 kz0a8xp6 |= MpV5h;
 }
@@ -511,7 +511,7 @@ catch (int& errorCode)
 GSjpO03 = (int)ceil(Ysp2_t_Jh);
 }
 }
-else if ((snZe51_ != qp4q) || ((IW3Uf85N < 547689453) && (dLUF1 != -612119128)))
+else if ((snZe51_ != qp4q) || ((true) && (dLUF1 != -612119128)))
 {
 if (qGV_ >= 67424523)
 {
@@ -533,7 +533,7 @@ if ((kCFrvl62 != E8xpM60TY) && (P1e5_Zf2e))
 {
 EnrP9VYID = eCn_lX / S2I3fe3;
 }
-else if (ICjLNtLA >= -1617685979)
+else if (true)
 {
 Jf38 &= cp91Gbk;
 }

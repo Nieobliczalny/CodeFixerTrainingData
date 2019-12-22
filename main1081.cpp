@@ -96,7 +96,7 @@ int main(int argc, char** argv)
 b3vtsQe_ ^= AI2s;
 N7t4xnkhxw &= ra9p04l;
 KaY7yf99v = U47R6gZo - 677438943;
-if (PP_K9dn_ >= 246069293)
+if (false)
 {
 uBLni = (short)(D8NFB1YF);
 }
@@ -158,7 +158,7 @@ while (i >= 0);
 cout << "iuCH1KahyV" << KaY7yf99v << U47R6gZo << endl;
 for (int i = 5; i >= 0; i--)
 {
-if (((BZka0b5pu > -1592343496) || (FPu5odh8B < -452920995)) || ((v5Dqx8 & 1361811140) && (KNPpTVb < bWF1G)))
+if (((true) || (FPu5odh8B < -452920995)) || ((v5Dqx8 & 1361811140) && (KNPpTVb < bWF1G)))
 {
 if (ra9p04l == 97910241)
 {
@@ -168,7 +168,7 @@ else if (((FPu5odh8B >= -1144333086) || (iLlw0iI)) || ((UB2dgV) && (i8L37B9 & vi
 {
 RUR2Ad7rN1 <<= 1054774426;
 }
-else if ((V8hn == hVKw2) || ((GZ_mIC5K & vie_wg) || (hVKw2 >= D8NFB1YF)))
+else if ((V8hn == hVKw2) || ((GZ_mIC5K & vie_wg) || (true)))
 {
 X1XH6iY = LABB << 22967443;
 }
@@ -239,7 +239,7 @@ if (ZV47 & -992646011)
 {
 cout << ra9p04l << endl;
 }
-else if (((fU4NgC <= -1473974851) && (AZK_i7I23y > vie_wg)) && (yCfLkcd_1 == fH_M1dKE))
+else if (((false) && (AZK_i7I23y > vie_wg)) && (yCfLkcd_1 == fH_M1dKE))
 {
 cout << kbbCEqxI << LABB << "lNHB201z6F" << "b6_s" << slf0zgLM << endl;
 }
@@ -254,7 +254,7 @@ for (int j = 0; j < 5; ++j)
 v6GOi16 = (short)(vie_wg + (D8NFB1YF));
 }
 }
-else if (xXg1K5Y4L > -161936620)
+else if (true)
 {
 Qzk_Js = TqDp31 & 636643569;
 }

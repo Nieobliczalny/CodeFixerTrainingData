@@ -55,7 +55,7 @@ int i = 0;
 do
 {
 ++i;
-if (NYs4T == WZf73M72K)
+if (false)
 {
 {
 int k = 6;

@@ -132,7 +132,7 @@ int main() {
  unsigned int a_dV5jp2j;
  a_dV5jp2j = 1593441944;
 
-if ((yWz9_ < roJc) && (aNE_L5Ke <= XMs_fb))
+if ((yWz9_ < roJc) && (true))
 {
 {
 int j = 3;

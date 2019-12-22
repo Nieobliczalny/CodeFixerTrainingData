@@ -162,7 +162,7 @@ case 'g':
 BrFz &= pq373;
 break;
 case 'h':
-ecnHbK = (M56TlY_1D == -176739324) ? vDF9 : rObncz;
+ecnHbK = (false) ? vDF9 : rObncz;
 break;
 }
 }

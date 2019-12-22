@@ -372,7 +372,7 @@ pIOkt1O = (int)ceil(irRAyu9gE1);
 }
 if (cc12t >= -1110457556)
 {
-if ((Ah8fb5 == yAmwDXdZO) || (c36aRm > -924004078))
+if ((false) || (c36aRm > -924004078))
 {
 S_Zo86DoD /= 337326050;
 }
@@ -429,7 +429,7 @@ pIOkt1O = (int)ceil(irRAyu9gE1);
 break;
 }
 
-if (Ji_5 > M6_xY)
+if (true)
 {
 switch (Ls39)
 {

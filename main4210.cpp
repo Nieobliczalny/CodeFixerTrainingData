@@ -48,7 +48,7 @@ while (i < 4)
 int j = 0;
 while (j < 2)
 {
-if (bKbO5lY_I != -1785023126)
+if (true)
 {
 ddLP = x6JjC3MH ^ OZvFoJ4;
 }
@@ -94,7 +94,7 @@ int i = 1;
 do
 {
 --i;
-if (rN0Q747U < 1468015381)
+if (true)
 {
 for (int k = 0; k < 4; k++)
 {
@@ -154,7 +154,7 @@ break;
 
 OZvFoJ4 = (int)abs(G_4XI);
 
-if (ddLP == 2099832911)
+if (false)
 {
 z_Lx0oJy1T = PifM3gt(-1928419054, 2056208561, -313927402);
 }
@@ -170,7 +170,7 @@ else if (wJ03uV & 1021456158)
 {
 wi5q = L6x5ucgF / sn_rLd;
 }
-else if (gh71gMn2 < 852497252)
+else if (true)
 {
 {
 int j = 1;
@@ -215,7 +215,7 @@ if (WsPtMZ58 == L6x5ucgF)
 int j = 0;
 while (j < 2)
 {
-if (BLPQ27E <= 1574019395)
+if (true)
 {
 qXu2 >>= 1843336881;
 }

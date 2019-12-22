@@ -82,7 +82,7 @@ else if (Xh8QVSF0k != S5jlCf)
 {
 Tz2P5 = d0J859f_u & 276646659;
 }
-else if (q7h8D >= yQ7Pg652)
+else if (true)
 {
 v32kUt = L2DucofLJ(-980479578, 569487808, 1097570589);
 }
@@ -137,7 +137,7 @@ default:
 v32kUt = L2DucofLJ(MgO7PAkPV7, x8Ss_41j, -1178274139);
 break;
 }
-if ((G008 != -1730383288) || (SiMr_V5v2o == CT3kqoCfO))
+if ((true) || (SiMr_V5v2o == CT3kqoCfO))
 {
 if (((d2It17 & xnnl0y) && (jg8oS != dS_lm4)) || (xnnl0y < y2POr6M729))
 {
@@ -193,7 +193,7 @@ int i = 0;
 do
 {
 ++i;
-if (a2Pw9 < -241361003)
+if (false)
 {
 for (int k = 0; k < 10; k++)
 {

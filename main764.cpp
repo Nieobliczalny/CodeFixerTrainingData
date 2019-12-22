@@ -287,7 +287,7 @@ default:
 h9H_ <<= 833160841;
 break;
 }
-if (f6d_7C4 == WP2V)
+if (false)
 {
 U_OSNiA_Oo = (unsigned long)(WP2V);
 }
@@ -325,7 +325,7 @@ j--;
 }
 else
 {
-if ((ivgvXK <= -1330954110) || (h9H_ & WP2V))
+if ((false) || (h9H_ & WP2V))
 {
 rLQT7Y4 -= gNpt;
 }
@@ -384,7 +384,7 @@ while (i < 5);
 
 T_W1 = vS3_nj9gt2 % 1393919384;
 h9H_ = (T_W1 & rfFE) ? TUwO523U0 : Wy64Y0SH;
-if (Z9o0d1e > WP2V)
+if (true)
 {
 {
 int j = 4;

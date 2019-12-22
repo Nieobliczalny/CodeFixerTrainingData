@@ -72,7 +72,7 @@ j++;
 while (j < 6);
 }
 }
-else if (uF14z < -722826763)
+else if (false)
 {
 for (int j = 0; j < 4; j++)
 {
@@ -84,7 +84,7 @@ else
 cout << "URbTB" << ho1mh68Xk1(ct5X457E7) << Bv44 << endl;
 }
 
-if (X31G1ns6 > T1g__3)
+if (true)
 {
 {
 int j = 4;
@@ -136,7 +136,7 @@ int i = 0;
 while (i < 5)
 {
 ++i;
-if (k12Lih < T1g__3)
+if (false)
 {
 cout << CGUT0e1N4j << "D_m0j" << endl;
 }
@@ -170,7 +170,7 @@ break;
 
 if (CGUT0e1N4j <= a2s4E2utLi)
 {
-if (Id57byq3P < 329387875)
+if (true)
 {
 T4CPKadR = oS375dN - 366946615;
 }
@@ -180,7 +180,7 @@ if (LlfogTehP <= clY_8qL6)
 {
 oS375dN = (int)ceil(oan7IbtSR3);
 }
-else if (Id57byq3P >= -867041736)
+else if (true)
 {
 m53h = ho1mh68Xk1(219853203);
 }
@@ -200,7 +200,7 @@ QXiXx = ng6B(h0X_k, -1666093724, 1359493371, -1591422050);
 }
 else
 {
-if (MJCBl7DZ63 > -105904374)
+if (true)
 {
 cout << "zvHKl5" << "K_h9k" << ng6B(-269936861, k12Lih, oS375dN, -746095722) << ng6B(-1091433863, k12Lih, oS375dN, -1948847606) << endl;
 }
@@ -275,7 +275,7 @@ else if ((m53h) || (bqgVgRT == -2108111207))
 {
 Xs145OXGiw %= X31G1ns6;
 }
-else if (((zi1A5_A9 < -1066687102) || (W1so == 2125950948)) || ((X31G1ns6 >= -1873255794) || (EhBc)))
+else if (((false) || (W1so == 2125950948)) || ((X31G1ns6 >= -1873255794) || (EhBc)))
 {
 k12Lih /= EhBc;
 }
@@ -448,7 +448,7 @@ catch (int& errorCode)
 LlfogTehP = Wp3U9(-999431847, -197168617);
 }
 
-if ((X31G1ns6 != a2s4E2utLi) && (Id57byq3P < Gh91E7))
+if ((true) && (Id57byq3P < Gh91E7))
 {
 QXiXx = (int)abs(Ff9922882) * 0;
 }
@@ -498,7 +498,7 @@ catch (int& errorCode)
 CGUT0e1N4j &= 1030903697;
 }
 
-if (k12Lih != 280567204)
+if (true)
 {
 Ff9922882 = (long)(rmWX9);
 }
@@ -520,7 +520,7 @@ catch (int& errorCode)
 EhBc = ho1mh68Xk1(EhBc);
 }
 }
-else if (X31G1ns6 != -1274132300)
+else if (true)
 {
 if (HZ3ny7Tm >= Ff9922882)
 {
@@ -583,7 +583,7 @@ cout << Wp3U9(sMUf9mPB, 1416800047) << HRxJV_d << ho1mh68Xk1(1200178099) << MJCB
 int i = 1;
 while (i >= 0)
 {
-if (uF14z != T1g__3)
+if (true)
 {
 for (int k = 0; k < 5; ++k)
 {
@@ -711,7 +711,7 @@ default:
 HZ3ny7Tm = L4kW2ImZ(HZ3ny7Tm);
 break;
 }
-if (rmWX9 <= 447599946)
+if (true)
 {
 k12Lih &= 207429617;
 }
@@ -765,7 +765,7 @@ else if (Ff9922882 & Bv44)
 {
 oS375dN = (int)ceil(oan7IbtSR3);
 }
-else if (EhBc != T1g__3)
+else if (true)
 {
 oS375dN = (int)ceil(oan7IbtSR3);
 }

@@ -127,7 +127,7 @@ int main(int argc, char** argv)
 
 if ((ABD8m69mS <= 878624162) && (Mel3l_ri_9 != lzb9ePX9))
 {
-if (h2uc == HcPv0S)
+if (false)
 {
 UV4KS_3f_++;
 }
@@ -186,7 +186,7 @@ case 1:
 zsml99 = (int)floor(aPUBXVREE3);
 break;
 case 2:
-ZN3GH_K07w = (g_wJS >= HcPv0S) ? awM0zW : ZN3GH_K07w;
+ZN3GH_K07w = (true) ? awM0zW : ZN3GH_K07w;
 break;
 case 3:
 Mel3l_ri_9 = (int)abs(xOJiQ) + (-1216194980);
@@ -248,7 +248,7 @@ cout << UT7ErTd_ << nVJ0 << "wXGfTMcBu_" << Mv2IWFd << "HnglzEA" << endl;
 }
 }
 
-if ((Z7JUZf2P <= -1787531451) && (S_6l7J >= HcPv0S))
+if ((Z7JUZf2P <= -1787531451) && (true))
 {
 {
 int j = 8;
@@ -266,7 +266,7 @@ if (Dc1R_F1Lp & -961136565)
 {
 SLC2z3k577 = (int)abs(Mel3l_ri_9);
 }
-else if (ZtVe_4KB <= 1557500863)
+else if (true)
 {
 G_LAgzW |= K2u9HnbgxL;
 }
@@ -294,7 +294,7 @@ else if (XjhOuHn < d7PcB6j)
 {
 zsml99 = D15NwOB + 1838545545;
 }
-else if (((Mv2IWFd == MiEK58V) || (I109816 <= g_wJS)) || (Mv2IWFd >= -783703561))
+else if (((Mv2IWFd == MiEK58V) || (I109816 <= g_wJS)) || (true))
 {
 switch (I109816)
 {
@@ -348,7 +348,7 @@ if (NFo5015b)
 {
 UT7ErTd_ = h8ryRQ / h_ywRp9cIg;
 }
-else if (UV4KS_3f_ > 2096812094)
+else if (false)
 {
 cout << "fHe1r3m1" << aom6q << lzb9ePX9 << "SvHCjomhX0" << "gV33tdB1" << endl;
 }
@@ -501,7 +501,7 @@ jcTh09zF8 = nZSb8tu4 << 2112868551;
 while (j < 10);
 }
 }
-else if (S_6l7J <= 897221375)
+else if (true)
 {
 for (int j = 0; j < 1; ++j)
 {

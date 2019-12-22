@@ -97,7 +97,7 @@ while (i < 4);
 }
 
 jVtHi9999 = PqXg_1eVv3 * 278812655;
-if (PqXg_1eVv3 < -75212360)
+if (false)
 {
 for (int j = 9; j >= 0; --j)
 {
@@ -111,7 +111,7 @@ p9hV5x = (jVtHi9999 > ppSY0_) ? -1512438090 : ppSY0_;
 }
 }
 }
-else if ((PqXg_1eVv3 != 1936662736) && (p9hV5x != PqXg_1eVv3))
+else if ((true) && (p9hV5x != PqXg_1eVv3))
 {
 std::cout << PqXg_1eVv3 << jVtHi9999 << jVtHi9999 << "ecPE3X5N6" << std::endl;
 }
@@ -188,7 +188,7 @@ else if (PqXg_1eVv3 & 1160730637)
 {
 jVtHi9999 = (int)abs(PqXg_1eVv3) + (1426832282);
 }
-else if (PqXg_1eVv3 <= 1742816003)
+else if (true)
 {
 p9hV5x |= 2108717030;
 }
@@ -208,7 +208,7 @@ jVtHi9999 *= ppSY0_;
 }
 p9hV5x++;
 
-if (PqXg_1eVv3 <= 1860252282)
+if (true)
 {
 if ((PqXg_1eVv3 != 1767876096) || (p9hV5x == -1902139849))
 {
@@ -221,7 +221,7 @@ for (int k = 1; k >= 0; --k)
 jVtHi9999 /= 1686071293;
 }
 }
-else if (PqXg_1eVv3 < 1020590434)
+else if (true)
 {
 {
 int k = 0;
@@ -233,7 +233,7 @@ k++;
 while (k < 9);
 }
 }
-else if ((jVtHi9999 <= 736300177) || (PqXg_1eVv3 != -185634580))
+else if ((jVtHi9999 <= 736300177) || (true))
 {
 p9hV5x -= 539244288;
 }
@@ -255,7 +255,7 @@ PqXg_1eVv3 = (short int)(p9hV5x * PqXg_1eVv3);
 }
 else if ((p9hV5x >= 465104236) || ((ppSY0_ == jVtHi9999) && (jVtHi9999 >= 1091006815)))
 {
-if ((PqXg_1eVv3 <= jVtHi9999) || ((PqXg_1eVv3 >= 1584273766) && (PqXg_1eVv3 & 739439023)))
+if ((PqXg_1eVv3 <= jVtHi9999) || ((false) && (PqXg_1eVv3 & 739439023)))
 {
 PqXg_1eVv3 = (int)abs(ppSY0_);
 }
@@ -265,7 +265,7 @@ std::cout << p9hV5x << "vUYX" << std::endl;
 }
 else if (jVtHi9999 < 1575485781)
 {
-if (((PqXg_1eVv3 == 468001346) || (p9hV5x == jVtHi9999)) || (p9hV5x == jVtHi9999))
+if (((false) || (p9hV5x == jVtHi9999)) || (p9hV5x == jVtHi9999))
 {
 jVtHi9999 = p9hV5x - 183026628;
 }
@@ -321,7 +321,7 @@ else
 {
 try
 {
-p9hV5x = (PqXg_1eVv3 > 1045112641) ? jVtHi9999 : jVtHi9999;
+p9hV5x = (false) ? jVtHi9999 : jVtHi9999;
 }
 catch (int& errorCode)
 {
@@ -335,7 +335,7 @@ std::cout << jVtHi9999 << "GhJNt" << "oEyhxBG" << "dFMnxIHb16" << std::endl;
 }
 else if (ppSY0_ <= -596454815)
 {
-if (PqXg_1eVv3 > -555404601)
+if (true)
 {
 {
 int k = 0;

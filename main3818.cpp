@@ -61,7 +61,7 @@ else
 V5KT &= 72131731;
 }
 }
-else if ((MwA3 >= 2024270876) && (V5KT & 973797066))
+else if ((false) && (V5KT & 973797066))
 {
 fkw5yDO5h = (unsigned long long)(LElR + (-1213053664));
 }
@@ -270,7 +270,7 @@ for (int i = 9; i >= 0; i--)
 {
 try
 {
-if (MwA3 > 522698096)
+if (false)
 {
 pv1e52X = LWLQGpeVb();
 }

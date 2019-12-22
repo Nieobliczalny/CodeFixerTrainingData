@@ -106,7 +106,7 @@ DZ8o = p8l8oC4 << gy11z28;
 }
 else if (((ic3k1Es <= 1460564866) && (DZ8o <= 1085305384)) && ((f39rF4 <= 431818100) && (d1sO == 717431389)))
 {
-if ((PLb46Eon23 != -1812598598) && ((DZ8o != xbZ92g_N) || (qlINMjJ8 > 1763967939)))
+if ((PLb46Eon23 != -1812598598) && ((DZ8o != xbZ92g_N) || (false)))
 {
 try
 {
@@ -590,7 +590,7 @@ if (gy11z28 & C4__r9tz)
 {
 d1sO = (long)(W4R7w5N7);
 }
-else if (MDWdRE != 1964168395)
+else if (true)
 {
 try
 {

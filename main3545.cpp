@@ -418,7 +418,7 @@ XGZfVEh7 = CNi9wk / 379730352;
 }
 }
 }
-if ((q9X09_SS != 2008260498) || (Nc81jPYj > -2049833772))
+if ((true) || (Nc81jPYj > -2049833772))
 {
 switch (jRWW)
 {
@@ -633,7 +633,7 @@ jRWW = VYz8();
 while (k >= 0);
 }
 }
-else if (q9X09_SS < -774173999)
+else if (false)
 {
 {
 int k = 9;
@@ -687,7 +687,7 @@ else if (((q9X09_SS <= EY_j7) || (gp018_Sf6_ >= 437917436)) && (gp018_Sf6_ >= 84
 {
 std::cout << "A8Fa" << EY_j7 << Wfd2 << std::endl;
 }
-else if ((q9X09_SS < -1824439011) || (R6J5vYek27 <= n_twxX))
+else if ((false) || (R6J5vYek27 <= n_twxX))
 {
 jRWW = VYz8();
 }

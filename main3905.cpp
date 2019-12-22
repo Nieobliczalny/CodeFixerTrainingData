@@ -167,7 +167,7 @@ else if ((ZZNv_rq_3g & -1355547221) || (Kp3l >= x7qAXv5F3))
 {
 for (int j = 0; j < 1; j++)
 {
-if (N719F > -914265350)
+if (true)
 {
 N719F = sKlp_y();
 }
@@ -177,7 +177,7 @@ Kp3l = ihj_3V | 704027044;
 }
 }
 }
-else if (miYO5Vg2WE != 668036755)
+else if (true)
 {
 Pntgi42wLg = sKlp_y();
 }

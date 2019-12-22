@@ -49,7 +49,7 @@ catch (int& errorCode)
 AMylpg2 = t2y283g(-496023222, 1425060617);
 }
 }
-else if (DZ98z > -1495105640)
+else if (true)
 {
 if (cW4F9nCp6 <= 376259455)
 {
@@ -71,7 +71,7 @@ ZTBg01Lk71 = g49tdWkIYX / 1125935131;
 }
 }
 }
-else if ((ajMkY91Klj != 880449854) && ((AMylpg2 & 312682523) && (h27Hb)))
+else if ((true) && ((AMylpg2 & 312682523) && (h27Hb)))
 {
 switch (GZ1l0X)
 {
@@ -98,7 +98,7 @@ C8Gz = z6W1PGx(676061764, Fa1kpxS, -454166148, -1780049593, 1973125279);
 break;
 }
 }
-else if ((HPy46IR != -965161706) || (mb3XUSi9 == xi3kL1y4TU))
+else if ((true) || (mb3XUSi9 == xi3kL1y4TU))
 {
 W9Ukv2p = (short)(smz_66);
 }
@@ -116,7 +116,7 @@ eRW062bX = (Jr8n == Mq01s2uHkX) ? B29pg52a5 : rA_b;
 }
 }
 }
-else if (qCV47 != -737256499)
+else if (true)
 {
 {
 int j = 0;
@@ -249,7 +249,7 @@ D2WmSanoH1 = z6W1PGx(D2WmSanoH1, D86wf, 1684385964, -380554811, 793503870);
 }
 }
 }
-if (Fa1kpxS < -926842892)
+if (false)
 {
 if (eRW062bX >= 2069214875)
 {
@@ -265,7 +265,7 @@ uAVkv = (int)abs(Ul3c8);
 }
 else
 {
-if ((mhkttQS9Y <= -1544651064) && ((Jr8n < IR7hKkM) && (ZWTnd0num < -506448959)))
+if ((false) && ((Jr8n < IR7hKkM) && (ZWTnd0num < -506448959)))
 {
 AMylpg2 = (short)(Wegw7L);
 }
@@ -295,7 +295,7 @@ HULiN59dxr = kDwx(HULiN59dxr, YP1z, 1377129708, Na9_1);
 }
 }
 Na9_1 = w_sjCp * 283639401;
-if (((C8Gz != -1124980546) || (HPy46IR & 569585070)) && ((mhkttQS9Y) || (tq_TV9r_ >= B29pg52a5)))
+if (((true) || (HPy46IR & 569585070)) && ((mhkttQS9Y) || (tq_TV9r_ >= B29pg52a5)))
 {
 std::cout << "zSFMP6L" << Jr8n << "D5QL" << euh4LmMY(-1252734815, YP1z, 672600923, 355589367, Tv6kb) << std::endl;
 }
@@ -350,7 +350,7 @@ eRW062bX = z6W1PGx(-1775004621, -525740857, -1910418653, m7KkF3IYGN, -1452819816
 }
 }
 
-if (((uZqR_m8 >= 571374290) || (D2WmSanoH1 > 1864999199)) && ((AMylpg2) || (HULiN59dxr < 662833283)))
+if (((false) || (D2WmSanoH1 > 1864999199)) && ((AMylpg2) || (HULiN59dxr < 662833283)))
 {
 switch (twE9)
 {
@@ -366,7 +366,7 @@ break;
 }
 else
 {
-if (A3G03m31 >= -2124925109)
+if (true)
 {
 switch (WGIWnc)
 {
@@ -414,7 +414,7 @@ break;
 
 for (int i = 0; i < 7; ++i)
 {
-if (smz_66 == -2055610478)
+if (false)
 {
 ZWTnd0num = z6W1PGx(ZWTnd0num, -929416223, 331472279, -322883866, 1639473507);
 }
@@ -429,7 +429,7 @@ k--;
 }
 }
 }
-else if (JZfcc >= 2111741341)
+else if (false)
 {
 {
 int k = 8;
@@ -441,7 +441,7 @@ eRW062bX <<= 153521809;
 while (k >= 0);
 }
 }
-else if (mhkttQS9Y >= 1764582706)
+else if (false)
 {
 for (int k = 6; k >= 0; k--)
 {

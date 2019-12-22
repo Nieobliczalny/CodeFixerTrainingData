@@ -153,7 +153,7 @@ i++;
 cout << "WW8vpV1" << g4dvk00 << lYi832Evej(VvYDpnmb, -336413631, 1772052849) << endl;
 if (C3tj9tZh_ < U5Pt8)
 {
-if ((Gv42c1 != -2015646749) || (h_i81 > TMiGG_k6_))
+if ((true) || (h_i81 > TMiGG_k6_))
 {
 switch (VvYDpnmb)
 {
@@ -173,7 +173,7 @@ else
 pO02eu9a44 = (int)abs(d65wN);
 }
 }
-else if (L_B_Y517T >= 852740776)
+else if (false)
 {
 try
 {
@@ -229,7 +229,7 @@ k++;
 while (k < 8);
 }
 }
-else if (a2K21bo2C0 < -1950507855)
+else if (false)
 {
 {
 int k = 10;
@@ -305,7 +305,7 @@ while (i < 3)
 ++i;
 if (G2An > h_i81)
 {
-if (yhfFSI4_ == -324551080)
+if (false)
 {
 I050 = IEymUq9pOs % 818576748;
 }

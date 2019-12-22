@@ -190,7 +190,7 @@ uo0qKwg = (short)(R9PhJ10hv);
 CVSC += mapOe4;
 
 cout << mapOe4 << endl;
-if ((X4c_gGMU >= DF0H) || (w7OrK > 363644208))
+if ((false) || (w7OrK > 363644208))
 {
 n6QHA = (int)(krn010BKA);
 }
@@ -268,7 +268,7 @@ while (j < 4);
 }
 while (i >= 0);
 }
-if (l_rJiP1dG4 < p7K3NSdAz3)
+if (false)
 {
 for (int j = 7; j >= 0; --j)
 {
@@ -356,7 +356,7 @@ else if (X2mVfmw & OQvn)
 {
 E9k16G = (int)abs(P63_IepJQn);
 }
-else if (((lu1d_ < l7o0szl_U) && (le_1 >= p7K3NSdAz3)) && (lS0a87 >= 871360718))
+else if (((lu1d_ < l7o0szl_U) && (true)) && (lS0a87 >= 871360718))
 {
 n6QHA = (int)abs(jUHw9wEi09);
 }

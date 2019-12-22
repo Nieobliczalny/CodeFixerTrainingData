@@ -49,7 +49,7 @@ int main(void)
 int i = 2;
 do
 {
-if (Q9HlanYJb_ > 530220335)
+if (false)
 {
 switch (qCKO0L_h)
 {
@@ -90,7 +90,7 @@ int i = 3;
 while (i >= 0)
 {
 --i;
-if ((W7Fk8Rb < -1221320816) && (aAc0 >= 240086287))
+if ((false) && (aAc0 >= 240086287))
 {
 T696M = T696M | W7Fk8Rb;
 }
@@ -117,7 +117,7 @@ if (W7Fk8Rb)
 int j = 8;
 while (j >= 0)
 {
-if (ln73R == 1303626176)
+if (false)
 {
 T696M = (int)abs(sV_7);
 }
@@ -129,7 +129,7 @@ else if (aAc0 == 1515988099)
 {
 T696M = (p35C_3R2R >= aAc0) ? TCK498117 : ln73R;
 }
-else if ((Q9HlanYJb_ >= -1732163550) || (gVtB & Q9HlanYJb_))
+else if ((true) || (gVtB & Q9HlanYJb_))
 {
 sV_7 = (int)abs(TCK498117);
 }
@@ -141,7 +141,7 @@ sV_7 = (int)abs(p35C_3R2R);
 }
 }
 }
-else if ((Cunys4C & fXDb) || (W7Fk8Rb >= 224786252))
+else if ((Cunys4C & fXDb) || (false))
 {
 sV_7 = (float)(T696M);
 }
@@ -186,7 +186,7 @@ break;
 while (j >= 0);
 }
 }
-else if ((Q9HlanYJb_ != -323791544) && (sV_7 >= T696M))
+else if ((true) && (sV_7 >= T696M))
 {
 if (((Cunys4C >= Q9HlanYJb_) || (gVtB)) && (W7Fk8Rb <= 598815586))
 {
@@ -266,7 +266,7 @@ std::cout << "A9eT58Rc" << RTzYD(aAc0, 1457533810) << "x_ON1" << std::endl;
 r4i6flarw = qCKO0L_h / qCKO0L_h;
 p35C_3R2R = TExHD2q(p35C_3R2R, qCKO0L_h, W7Fk8Rb);
 
-if ((Q9HlanYJb_ > 1719402637) && (Q9HlanYJb_ < -1584051947))
+if ((false) && (Q9HlanYJb_ < -1584051947))
 {
 {
 int j = 0;

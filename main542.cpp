@@ -160,7 +160,7 @@ while (j >= 0);
 while (i < 10);
 }
 
-if ((B2__URKt != vj28Q1) && ((M4V9yW8 > -535838507) || (F858gQ__TX >= 1602159070)))
+if ((B2__URKt != vj28Q1) && ((M4V9yW8 > -535838507) || (false)))
 {
 if (tm6a67 & 198876772)
 {
@@ -231,7 +231,7 @@ while (i >= 0)
 --i;
 try
 {
-if (YUe99EHl6 != 264404589)
+if (true)
 {
 dvN54Zh1_6 = (int)floor(eG8N57);
 }
@@ -247,7 +247,7 @@ yK6LybS_ /= LeH0S;
 int i = 0;
 while (i < 8)
 {
-if (nVw7P2g == -1925836742)
+if (false)
 {
 if (hsW74Y74Nn < 157313897)
 {

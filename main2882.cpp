@@ -202,7 +202,7 @@ int j = 0;
 while (j < 2)
 {
 j++;
-if (c82_5 >= 802318668)
+if (false)
 {
 P8QMQ &= 1588483979;
 }
@@ -217,7 +217,7 @@ else
 {
 if (zjqR0_KW == PY7mk0He)
 {
-if ((kCAB565fTx == 1894390511) || ((WQ8i_ <= 1416849822) || (zXkx0g != -1448076797)))
+if ((kCAB565fTx == 1894390511) || ((true) || (zXkx0g != -1448076797)))
 {
 u83if_ = (int)ceil(QNGAI);
 }

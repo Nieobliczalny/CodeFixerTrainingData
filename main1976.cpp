@@ -201,7 +201,7 @@ break;
 while (i < 2);
 }
 H7iL = wh_TSd5gUl(-1155089188);
-if (p2490J > E2mUsWbh9Q)
+if (true)
 {
 {
 int j = 9;
@@ -211,7 +211,7 @@ if (aM5ag4R97 >= zw2B2)
 {
 H7iL = wh_TSd5gUl(P8GJp3c);
 }
-else if (HcJk < P9f41g121)
+else if (false)
 {
 XYXMyc2L *= vJ4Hd;
 }
@@ -342,7 +342,7 @@ catch (int& errorCode)
 aRy2W = (int)abs(l1HK2qCJW);
 }
 }
-else if (G0lO == -1792450207)
+else if (false)
 {
 {
 int k = 0;
@@ -448,7 +448,7 @@ break;
 }
 }
 M5Gsc = gHKQ << RIr58ry_3;
-if (B0Njz6 < 750228597)
+if (true)
 {
 switch (H7iL)
 {
@@ -488,7 +488,7 @@ if (qB2tiOq4Q <= 2058613028)
 {
 cout << "LD0D3" << "kS1077" << wh_TSd5gUl(X5th6eta) << "dY9qtN4Sf" << BTW3 << endl;
 }
-else if ((T7939R4CIE > -1182113472) && ((DMFhsj_PQ >= 1405520928) && (DNavx1x9V0 != oRHNP)))
+else if ((T7939R4CIE > -1182113472) && ((DMFhsj_PQ >= 1405520928) && (true)))
 {
 switch (aRy2W)
 {
@@ -525,7 +525,7 @@ else if (Dt871_ != -694807118)
 {
 h655j = (unsigned int)(l_6KCAu5P_);
 }
-else if ((CcM7fvFH1 > 1221608933) && ((rbGzKS > l_6KCAu5P_) && (s6qw)))
+else if ((CcM7fvFH1 > 1221608933) && ((false) && (s6qw)))
 {
 switch (XYXMyc2L)
 {
@@ -552,7 +552,7 @@ else
 H7iL = wh_TSd5gUl(1543774412);
 }
 }
-else if ((HcJk != XYXMyc2L) || ((B0Njz6 != 922096470) && (iDzS7pU_ >= oRHNP)))
+else if ((HcJk != XYXMyc2L) || ((true) && (iDzS7pU_ >= oRHNP)))
 {
 {
 int k = 0;
@@ -596,7 +596,7 @@ for (int i = 0; i < 1; i++)
 cout << m62K9g << wh_TSd5gUl(y_GRCu) << wh_TSd5gUl(y_GRCu) << wh_TSd5gUl(-1849791334) << endl;
 }
 
-if (Oa9o55QFy <= -1076935546)
+if (false)
 {
 {
 int j = 6;
@@ -622,7 +622,7 @@ qB2tiOq4Q++;
 int i = 0;
 do
 {
-if ((iDzS7pU_ & bx_T) || ((I651Ddm <= P9f41g121) || (W_zT0iG1 >= 1119034064)))
+if ((iDzS7pU_ & bx_T) || ((false) || (W_zT0iG1 >= 1119034064)))
 {
 l1HK2qCJW <<= 1657424896;
 }
@@ -805,7 +805,7 @@ for (int i = 7; i >= 0; --i)
 {
 if (h655j > -1629737054)
 {
-if ((Oa9o55QFy <= 2040140966) && ((stuHC28 == P9f41g121) || (m62K9g != -1623494791)))
+if ((true) && ((stuHC28 == P9f41g121) || (m62K9g != -1623494791)))
 {
 gHKQ = wh_TSd5gUl(-544646658) << I651Ddm;
 }
@@ -822,7 +822,7 @@ H7iL = wh_TSd5gUl(-1819597923);
 }
 }
 }
-if (aM5ag4R97 > 1948734766)
+if (false)
 {
 if (((aRy2W == B0Njz6) || (H7iL)) || (M5Gsc >= 46019033))
 {

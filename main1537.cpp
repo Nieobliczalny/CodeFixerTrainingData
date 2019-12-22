@@ -117,7 +117,7 @@ K7_2 = qCE9k0DZ();
 }
 else
 {
-if (((K7_2 <= q4nTP5d6Hc) || (O5SPAOdEF & -1643478645)) || ((Nj_w7c6SJ <= UgQA_9) || (UgQA_9 >= jkAI)))
+if (((true) || (O5SPAOdEF & -1643478645)) || ((Nj_w7c6SJ <= UgQA_9) || (UgQA_9 >= jkAI)))
 {
 {
 int k = 0;
@@ -188,7 +188,7 @@ while (i >= 0)
 Z8wi2Mbo67 = (K7_2 & q4nTP5d6Hc) ? 127909523 : 1230100014;
 }
 }
-if (O5SPAOdEF >= 1658572952)
+if (false)
 {
 yg_dr65P = (short)(SVUjR5h77 * yg_dr65P);
 }

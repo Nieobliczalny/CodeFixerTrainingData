@@ -89,7 +89,7 @@ cout << Yq4r0Qbb4() << Yq4r0Qbb4() << Y0fF << endl;
 while (i < 1);
 }
 
-if ((c12z2K <= 1329549872) && ((M59ki8v < 1955995712) && (MQ_EZYlQB < 1756606816)))
+if ((c12z2K <= 1329549872) && ((true) && (MQ_EZYlQB < 1756606816)))
 {
 {
 int j = 9;
@@ -103,7 +103,7 @@ while (j >= 0);
 }
 else if (iTkq67 < M59ki8v)
 {
-if ((cpzDtL5f <= -466403768) || ((K9Zh8_C == MQ_EZYlQB) && (s4sFuo4Kl_ <= D17f)))
+if ((false) || ((K9Zh8_C == MQ_EZYlQB) && (s4sFuo4Kl_ <= D17f)))
 {
 D2_yL = Yq4r0Qbb4();
 }
@@ -165,7 +165,7 @@ s4sFuo4Kl_--;
 }
 }
 }
-else if (((JIF3SEK3YU > 1817598738) || (XCSkbZp == -428732901)) && (JIF3SEK3YU != 1046903996))
+else if (((false) || (XCSkbZp == -428732901)) && (JIF3SEK3YU != 1046903996))
 {
 c12z2K = (int)ceil(sedK);
 }
@@ -211,7 +211,7 @@ iTkq67 = Yq4r0Qbb4();
 }
 }
 }
-if (((JIF3SEK3YU < 1960213843) && (MQ_EZYlQB)) && ((J8e3IM < -1246447281) || (Szc13 >= j_Ybed5)))
+if (((true) && (MQ_EZYlQB)) && ((J8e3IM < -1246447281) || (Szc13 >= j_Ybed5)))
 {
 if (ghx9a)
 {
@@ -249,7 +249,7 @@ K9Zh8_C = iTkq67 / J8e3IM;
 int i = 3;
 do
 {
-if ((MQ_EZYlQB < sedK) || ((iTkq67) || (M59ki8v > -1594713145)))
+if ((MQ_EZYlQB < sedK) || ((iTkq67) || (true)))
 {
 {
 int k = 0;
@@ -303,7 +303,7 @@ break;
 Szc13 = (unsigned char)(D17f);
 for (int i = 7; i >= 0; i--)
 {
-if (Y0fF == -1372515814)
+if (false)
 {
 if ((zsCFfJTy2 == iTkq67) && ((B34w0A > -1763377634) && (zsCFfJTy2)))
 {
@@ -321,7 +321,7 @@ else if (QkqhY != B34w0A)
 {
 JIF3SEK3YU = Yq4r0Qbb4();
 }
-else if ((Szc13 < 1553907531) && ((i992_egm0M & Y0fF) || (ghx9a < -503347664)))
+else if ((true) && ((i992_egm0M & Y0fF) || (ghx9a < -503347664)))
 {
 c12z2K = (int)floor(D17f);
 }
@@ -336,7 +336,7 @@ Szc13 = Yq4r0Qbb4();
 }
 else if (ghx9a)
 {
-if (Ctd9 != 158500852)
+if (true)
 {
 c12z2K = (int)ceil(D17f);
 }
@@ -349,7 +349,7 @@ else if ((Y0fF != 1243784505) || ((M59ki8v == -1257550452) || (q9sJL < -22504888
 {
 cout << Z8_Du64 << endl;
 }
-else if ((j_Ybed5 < 894174799) || (J8e3IM > 764801944))
+else if ((j_Ybed5 < 894174799) || (false))
 {
 switch (zJZ8)
 {
@@ -370,7 +370,7 @@ else if (Z8_Du64 < 273930659)
 {
 cout << Yq4r0Qbb4() << p54KGwy << "NT_0BUo" << Z8_Du64 << Yq4r0Qbb4() << endl;
 }
-else if (Y0fF <= 728794949)
+else if (true)
 {
 {
 int k = 0;

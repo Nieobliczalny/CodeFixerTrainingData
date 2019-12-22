@@ -164,7 +164,7 @@ else if (E7N9z9 <= 50316087)
 {
 i5oJq7yA += I21m;
 }
-else if (((E7N9z9 == -175677233) || (E7N9z9 > W3V0z_8)) && ((W3V0z_8 == -609331235) && (g45zuBtaH >= 1478728082)))
+else if (((E7N9z9 == -175677233) || (E7N9z9 > W3V0z_8)) && ((W3V0z_8 == -609331235) && (false)))
 {
 E7N9z9 = (int)floor(I21m);
 }
@@ -174,7 +174,7 @@ cout << ORWwI(T4O_oh, M9HGn44pPG, We2V60, 636769653) << ORWwI(T4O_oh, M9HGn44pPG
 }
 else
 {
-if ((B7Z02_Zq < DPf5ccP) || (M9HGn44pPG != BJZr))
+if ((false) || (M9HGn44pPG != BJZr))
 {
 if (Vw_fqXoba >= 435210511)
 {

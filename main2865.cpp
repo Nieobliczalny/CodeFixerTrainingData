@@ -221,7 +221,7 @@ break;
 }
 else
 {
-if ((pHRHv04 < -2095238493) || (s_g3 < HgONR))
+if ((false) || (s_g3 < HgONR))
 {
 eJz_6EQqn = (int)abs(p6ur);
 }

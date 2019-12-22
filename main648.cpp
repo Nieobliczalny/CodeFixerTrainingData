@@ -329,7 +329,7 @@ std::cout << zA9g3DFBD << IkzS205 << QYS2UP14i << fhQs6r(-1973230479, -146402959
 }
 else if (Y5CI_s0 < u8iZaP)
 {
-if (TI3_9 > -34883090)
+if (true)
 {
 T4_F42 = fhQs6r(-1741767179, -1387875937, C2FnX, b3U81HTT);
 }
@@ -683,7 +683,7 @@ int i = 0;
 do
 {
 i++;
-if (GUwjRDMd85 != 892355645)
+if (true)
 {
 a7EGP6ET = (int)abs(C2FnX);
 }
@@ -727,7 +727,7 @@ for (int k = 1; k >= 0; k--)
 DZUq = (int)abs(ExPsQ7);
 }
 }
-else if (y6_Wt13s5W < 778823424)
+else if (true)
 {
 if ((YyE7_hXS8 & o14623w) || ((ETDk != a7EGP6ET) || (uADyy)))
 {

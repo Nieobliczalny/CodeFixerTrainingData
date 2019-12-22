@@ -216,7 +216,7 @@ EU8RIY65 = A74Um3x >> P8czaYzT;
 }
 }
 
-if (OaixF1 >= -1050298233)
+if (true)
 {
 for (int j = 0; j < 5; ++j)
 {
@@ -230,7 +230,7 @@ if (WQ1zdUq <= Zvj46abLt8)
 Zvj46abLt8 = E1MiO ^ T7Y9Y3k;
 }
 }
-else if (r_7JzZJ >= 1206748546)
+else if (false)
 {
 for (int j = 0; j < 5; j++)
 {
@@ -244,7 +244,7 @@ Zvj46abLt8 = (int)abs(Gk48O);
 }
 }
 }
-else if (N0nADcK == -962401716)
+else if (false)
 {
 if (fW0dED_ > kFL4K)
 {

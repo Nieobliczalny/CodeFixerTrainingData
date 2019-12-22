@@ -237,7 +237,7 @@ catch (int& errorCode)
 {
 Z214RD3k = (int)floor(SRpxT_09);
 }
-if ((O64zyQ_) || (t3i81 >= 1050205059))
+if ((O64zyQ_) || (false))
 {
 FhZ3 = (double)(nDi7);
 }
@@ -249,7 +249,7 @@ y9AiJFs = (long)(jIXPVp4);
 SRpxT_09 = (int)ceil(O64zyQ_);
 if (vmtT5 < S_UD8)
 {
-if ((ybK1YYf >= 536447646) || (t14Yc >= -610349261))
+if ((false) || (t14Yc >= -610349261))
 {
 OZ_r = (unsigned long long)(WJsXM);
 }
@@ -269,7 +269,7 @@ lTNh289G_G *= hG60b8;
 while (k >= 0);
 }
 }
-else if ((jIXPVp4 > O64zyQ_) && (r06CX != -777584506))
+else if ((jIXPVp4 > O64zyQ_) && (true))
 {
 vCMmT_ = (int)abs(ybK1YYf);
 }
@@ -282,7 +282,7 @@ else
 std::cout << "Em4Q" << UT97vj94ku(512571275, mRlS) << hLjv(-942017202, -1498585497, 770323472, -1025865339, XLS3f) << u4iP << std::endl;
 }
 }
-else if (U4Nulmw < -441498605)
+else if (false)
 {
 if (q7_h1nxQ != 907087280)
 {
@@ -373,7 +373,7 @@ break;
 }
 else if (B_1W & 2073669572)
 {
-if (lTNh289G_G <= 663941080)
+if (true)
 {
 H74AXIS3 = hLjv(Y73Yg, KDdHUP, 1925279605, -2121887955, -41709103) << WP8Gg9q;
 }
@@ -463,7 +463,7 @@ int i = 4;
 do
 {
 i--;
-if (((wGF6MK > -700539744) || (Oh3g_U0J9)) && (WP8Gg9q))
+if (((true) || (Oh3g_U0J9)) && (WP8Gg9q))
 {
 std::cout << "AlOz5l" << JY7zplN() << std::endl;
 }
@@ -495,7 +495,7 @@ for (int j = 0; j < 10; j++)
 o22EU8hk = (unsigned short)(WP8Gg9q);
 }
 }
-else if (((c433s3kr != -1471325093) && (WJsXM != 1910331308)) && (zkBm >= 861469479))
+else if (((true) && (WJsXM != 1910331308)) && (zkBm >= 861469479))
 {
 Ge7BfWQ = JY7zplN();
 }
@@ -511,7 +511,7 @@ OZ2k = UT97vj94ku(ybK1YYf, hG60b8);
 while (j < 10);
 }
 }
-else if (((G1D_KnY >= k0_yWTvY9) && (NFV_8v9bO == 875761046)) || (vmtT5 <= 252297508))
+else if (((G1D_KnY >= k0_yWTvY9) && (NFV_8v9bO == 875761046)) || (true))
 {
 switch (Oh3g_U0J9)
 {
@@ -657,7 +657,7 @@ Hadk50vkM = UT97vj94ku(v5fM8z, -1058783225);
 }
 else
 {
-if (r06CX <= -801880427)
+if (false)
 {
 switch (Hadk50vkM)
 {
@@ -673,7 +673,7 @@ else if (ye1k >= Y73Yg)
 {
 RkoMpT3HN |= 1466319091;
 }
-else if ((Hadk50vkM >= QEvf93UIYD) || (FeSj__779R >= -1752595621))
+else if ((Hadk50vkM >= QEvf93UIYD) || (true))
 {
 if (vmtT5 != WJsXM)
 {

@@ -112,7 +112,7 @@ else if (ByYKQKOn == -745516674)
 {
 NU_T27Bu2J = ByYKQKOn & bkVkxIz_;
 }
-else if (anj3g83 == -845959702)
+else if (false)
 {
 ByYKQKOn %= NU_T27Bu2J;
 }
@@ -176,7 +176,7 @@ else if (bkVkxIz_ == -1122991210)
 {
 bkVkxIz_ = (int)(NU_T27Bu2J);
 }
-else if (anj3g83 < -1977144811)
+else if (false)
 {
 ByYKQKOn = (int)(anj3g83 + (-1147970978));
 }
@@ -218,7 +218,7 @@ if (S939 & -615800267)
 {
 NU_T27Bu2J = (int)(bkVkxIz_);
 }
-else if (S939 > -525742095)
+else if (true)
 {
 anj3g83 = (unsigned char)(NU_T27Bu2J * anj3g83);
 }
@@ -240,7 +240,7 @@ if (ByYKQKOn & 1487736403)
 {
 ByYKQKOn = ByYKQKOn * bkVkxIz_;
 }
-else if (S939 != -222155212)
+else if (true)
 {
 NU_T27Bu2J = ByYKQKOn ^ bkVkxIz_;
 }
@@ -289,7 +289,7 @@ NU_T27Bu2J *= 265103427;
 }
 else if (ByYKQKOn < NU_T27Bu2J)
 {
-if (anj3g83 > -1700550151)
+if (true)
 {
 switch (S939)
 {
@@ -314,7 +314,7 @@ if (NU_T27Bu2J == X_cP)
 {
 ByYKQKOn *= 749469676;
 }
-else if ((anj3g83 < bkVkxIz_) && (X_cP <= 1068126879))
+else if ((anj3g83 < bkVkxIz_) && (true))
 {
 NU_T27Bu2J ^= 1470960741;
 }
@@ -459,7 +459,7 @@ bkVkxIz_ &= NU_T27Bu2J;
 }
 else
 {
-if (((X_cP < 1607344155) || (ByYKQKOn >= 117366055)) || (S939 != -163825642))
+if (((true) || (ByYKQKOn >= 117366055)) || (S939 != -163825642))
 {
 if ((S939 < -1688832852) && (bkVkxIz_ & ByYKQKOn))
 {
@@ -481,7 +481,7 @@ k--;
 }
 }
 }
-else if (((X_cP < S939) || (X_cP >= 38749057)) || (X_cP & -403416227))
+else if (((X_cP < S939) || (false)) || (X_cP & -403416227))
 {
 NU_T27Bu2J *= bkVkxIz_;
 }
@@ -509,7 +509,7 @@ break;
 
 for (int i = 0; i < 3; i++)
 {
-if ((X_cP < -1899644818) || ((bkVkxIz_ == 1638339195) || (anj3g83 != 1510440793)))
+if ((false) || ((bkVkxIz_ == 1638339195) || (anj3g83 != 1510440793)))
 {
 ByYKQKOn--;
 }
@@ -546,7 +546,7 @@ cout << "H71_yK2J7t" << endl;
 cout << "sSyJ_" << "FV0K8Xt7" << X_cP << bkVkxIz_ << endl;
 if (X_cP < bkVkxIz_)
 {
-if ((S939 & 1962689421) && (S939 <= -708003124))
+if ((S939 & 1962689421) && (false))
 {
 if ((ByYKQKOn < S939) || (anj3g83))
 {
@@ -559,7 +559,7 @@ NU_T27Bu2J = S939 - anj3g83;
 }
 else if (NU_T27Bu2J <= 1690283762)
 {
-if (anj3g83 <= -1508683429)
+if (false)
 {
 NU_T27Bu2J = anj3g83 | 83605160;
 }
@@ -607,7 +607,7 @@ else
 ByYKQKOn |= NU_T27Bu2J;
 }
 }
-else if ((S939 == -929575766) && ((S939 != 1587670015) || (bkVkxIz_ < -1163796258)))
+else if ((false) && ((S939 != 1587670015) || (bkVkxIz_ < -1163796258)))
 {
 if (X_cP >= 762639532)
 {
@@ -637,7 +637,7 @@ NU_T27Bu2J = bkVkxIz_ / 1934860771;
 }
 else
 {
-if (((NU_T27Bu2J & 1546475895) && (NU_T27Bu2J)) || (X_cP > -586958749))
+if (((NU_T27Bu2J & 1546475895) && (NU_T27Bu2J)) || (true))
 {
 ByYKQKOn = (int)abs(NU_T27Bu2J);
 }
@@ -687,7 +687,7 @@ case 4:
 ByYKQKOn = X_cP - X_cP;
 break;
 case 5:
-ByYKQKOn = (S939 == -1352079485) ? ByYKQKOn : 799584789;
+ByYKQKOn = (false) ? ByYKQKOn : 799584789;
 break;
 case 6:
 ByYKQKOn = anj3g83 | 1169622526;
@@ -701,7 +701,7 @@ else if (S939 & -879125349)
 {
 NU_T27Bu2J <<= bkVkxIz_;
 }
-else if (S939 == -892833568)
+else if (false)
 {
 switch (X_cP)
 {
@@ -719,7 +719,7 @@ bkVkxIz_ += X_cP;
 break;
 }
 }
-else if (((NU_T27Bu2J) || (ByYKQKOn != 523362086)) && (anj3g83 >= -376749076))
+else if (((NU_T27Bu2J) || (ByYKQKOn != 523362086)) && (true))
 {
 cout << "m0YxyqK" << S939 << endl;
 }

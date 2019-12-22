@@ -125,7 +125,7 @@ int main(void)
     short int    m9_9Ah    =    193639106;
     short    Q9jEMZ500_    =    -1435712171;
 
-if (Z93SyfrAN0 >= -2070244230)
+if (true)
 {
 {
 int j = 0;
@@ -197,7 +197,7 @@ break;
 }
 }
 
-if (YEql3Ya >= 120615539)
+if (false)
 {
 for (int j = 0; j < 1; j++)
 {

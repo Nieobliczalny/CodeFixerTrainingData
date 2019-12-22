@@ -226,7 +226,7 @@ IXZLmw <<= 1961847796;
 break;
 }
 }
-else if ((y6Fn > -1395226668) || (O39x5 <= -1870463681))
+else if ((true) || (O39x5 <= -1870463681))
 {
 switch (jbKV6whp)
 {
@@ -310,7 +310,7 @@ if (s3c57 != -1008922732)
 {
 Sm0549N = (int)ceil(xOsA4EN2U3);
 }
-else if (O39x5 != -1388520421)
+else if (true)
 {
 jbKV6whp++;
 }

@@ -106,7 +106,7 @@ int main() {
  Lk3eljh = 45311561;
  aALp96R = -1438042243;
 
-if (rVGM1_P2lP == 1340124950)
+if (false)
 {
 {
 int j = 6;
@@ -153,7 +153,7 @@ do
 int j = 0;
 do
 {
-if (m_C372 <= 932105889)
+if (true)
 {
 ZDtB6lg = A7_QfJb51 & qkUgX3rP;
 }
@@ -219,7 +219,7 @@ case 4:
 SSR6iQOW_S = (int)abs(ca4re81);
 break;
 case 5:
-sFk_C = (r1c2b8ca2 == -211433889) ? OGOrNJ : hJUR3Uew2;
+sFk_C = (false) ? OGOrNJ : hJUR3Uew2;
 break;
 case 6:
 nJzX96__8 = Y0_4S | s7dwRdbr;
@@ -265,7 +265,7 @@ for (int i = 7; i >= 0; i--)
 {
 if (Lk3eljh)
 {
-if ((vd0sn27 != -2011075914) && ((SZAyFG) && (TZjva <= 1263749335)))
+if ((true) && ((SZAyFG) && (TZjva <= 1263749335)))
 {
 X6OU547tj3 = QUmWry(E4LT, 1302989593, n1T6_4, noWO220);
 }

@@ -169,7 +169,7 @@ if (w4v7Sb4 & -801030937)
 {
 lm7fgoTV05 = Ku_5MS();
 }
-else if (((W0226f9A4Z) && (LzVXH6 < 1900432378)) && (abH_IZ2))
+else if (((W0226f9A4Z) && (true)) && (abH_IZ2))
 {
 if ((bf940q1z6 < 711287134) && (W0226f9A4Z <= YrzTE_c9N))
 {

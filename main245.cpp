@@ -106,7 +106,7 @@ while (j < 2);
 }
 }
 
-if (((kYZh2Zy) && (i1m0rmoor > RF92WmZv5J)) && ((obeTZGF < 1740360278) && (MT89_42 == Gu3_)))
+if (((kYZh2Zy) && (i1m0rmoor > RF92WmZv5J)) && ((true) && (MT89_42 == Gu3_)))
 {
 try
 {

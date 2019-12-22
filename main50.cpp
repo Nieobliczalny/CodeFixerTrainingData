@@ -134,7 +134,7 @@ E_6uDcH8F = HO_OrG();
 break;
 }
 }
-else if ((B4904164 & 109164707) || (DaXY <= tpG4iS4E))
+else if ((B4904164 & 109164707) || (true))
 {
 if ((A6QRup) && (elHR__4A < yAM0O))
 {
@@ -216,7 +216,7 @@ break;
 }
 
 cout << Jr_Q5siU << endl;
-if (RdxR6F > -2046829397)
+if (true)
 {
 try
 {

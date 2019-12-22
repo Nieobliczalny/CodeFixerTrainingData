@@ -39,7 +39,7 @@ int main(int argc, char** argv)
   unsigned short  avCw8  =  -1158009494;
 
 w_PnbmNo = (int)(f_6ELRX0XR * w_PnbmNo);
-if (((fV_wOu3jH6 < 50395604) && (b5MBe4C)) && (m664PJ > TCMQpu))
+if (((true) && (b5MBe4C)) && (m664PJ > TCMQpu))
 {
 if ((u7iatU8aT > -530698643) || ((avCw8 == m664PJ) || (byw9 <= 512231095)))
 {
@@ -86,7 +86,7 @@ lku0h_8n1 >>= 717916612;
 }
 else
 {
-if (lku0h_8n1 <= 343715533)
+if (true)
 {
 r1rr5y56Y = (int)abs(w_PnbmNo);
 }
@@ -114,7 +114,7 @@ while (j < 4);
 }
 else if (gDlH2HTKOa & m664PJ)
 {
-if ((f_6ELRX0XR > -890770201) && ((E6K2 != -1897239547) && (byw9 >= 1601888739)))
+if ((f_6ELRX0XR > -890770201) && ((true) && (byw9 >= 1601888739)))
 {
 byw9 = oH8w(khz10o7_, 561099814, Wjs6_G_Ka, -1950720261, w_PnbmNo);
 }
@@ -171,7 +171,7 @@ catch (int& errorCode)
 byw9 = (int)floor(b5MBe4C);
 }
 }
-else if (avCw8 < -1974939450)
+else if (false)
 {
 {
 int k = 0;
@@ -193,7 +193,7 @@ catch (int& errorCode)
 byw9 = (int)ceil(b5MBe4C);
 }
 }
-else if (fV_wOu3jH6 >= -296458784)
+else if (true)
 {
 khz10o7_ = (unsigned short int)(avCw8 * khz10o7_);
 }
@@ -255,7 +255,7 @@ E6K2 = gDlH2HTKOa - 1512878837;
 break;
 }
 
-if (lku0h_8n1 > 1112558169)
+if (false)
 {
 u7iatU8aT = (short)(TCMQpu);
 }

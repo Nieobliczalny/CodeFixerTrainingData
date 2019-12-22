@@ -27,7 +27,7 @@ int main() {
 
 for (int i = 0; i < 1; i++)
 {
-if (ont1QGHniw != -1410544995)
+if (true)
 {
 {
 int k = 0;
@@ -41,7 +41,7 @@ while (k < 7);
 }
 }
 
-if ((ont1QGHniw != -1495361850) || ((xC2gVgru_ >= 950332053) || (sSg_4_4 < -1349415807)))
+if ((true) || ((xC2gVgru_ >= 950332053) || (sSg_4_4 < -1349415807)))
 {
 try
 {
@@ -84,7 +84,7 @@ else if (av5N651MWs)
 {
 sSg_4_4 = (int)abs(djB_41);
 }
-else if (ont1QGHniw > -695096272)
+else if (true)
 {
 FqbjxZ_q7t++;
 }
@@ -97,7 +97,7 @@ else
 KXcP6xlvc++;
 }
 }
-else if (V9m_1 > -11305833)
+else if (true)
 {
 std::cout << "tWfkP" << FUWzK(i0zXp9, -1517826744, We33, sSg_4_4, 570093971) << std::endl;
 }
@@ -139,7 +139,7 @@ else if (KXcP6xlvc)
 {
 if (FqbjxZ_q7t > djB_41)
 {
-V9m_1 = (V9m_1 == 1300672301) ? 750965138 : xC2gVgru_;
+V9m_1 = (false) ? 750965138 : xC2gVgru_;
 }
 else
 {
@@ -296,7 +296,7 @@ int j = 4;
 do
 {
 j--;
-if (av5N651MWs >= 1251313764)
+if (false)
 {
 jpt1Qi3 >>= 747901677;
 }
@@ -337,7 +337,7 @@ ont1QGHniw = FUWzK(-3456287, -1576165953, 839010801, 364335820, 1500063959);
 break;
 }
 }
-else if ((djB_41 < KXcP6xlvc) || (V9m_1 >= -300617365))
+else if ((djB_41 < KXcP6xlvc) || (true))
 {
 {
 int k = 9;
@@ -349,7 +349,7 @@ k--;
 while (k >= 0);
 }
 }
-else if (qLg0h == -464183971)
+else if (false)
 {
 switch (i0zXp9)
 {
@@ -392,7 +392,7 @@ We33 = (int)abs(KXcP6xlvc);
 break;
 }
 }
-else if ((i0zXp9 & qLg0h) && ((qLg0h >= -1753877386) || (av5N651MWs >= qLg0h)))
+else if ((i0zXp9 & qLg0h) && ((true) || (av5N651MWs >= qLg0h)))
 {
 sSg_4_4 = FUWzK(1787904207, i0zXp9, sSg_4_4, -1431508938, xC2gVgru_) << i0zXp9;
 }

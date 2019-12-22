@@ -19,7 +19,7 @@ int main(int argc, char** argv)
  short int GQuWN, GO61, EPtQ0fgbrD, x876khR6N, B4NB90Z618, W0Kry_2j5, tW7NqXQ, VFim0ox5, F2k9udW, Tc9C, g_40eiMmq, i4_WIyg, t3ss6rvX5, m4LdBn8I, PvW1e_2, uJ84k6i, yPz4W, H4s_, Bqq652r7, n26zA_, tl52C, L7_8e1iu4f;
   GQuWN = GO61 = EPtQ0fgbrD = x876khR6N = B4NB90Z618 = W0Kry_2j5 = tW7NqXQ = VFim0ox5 = F2k9udW = Tc9C = g_40eiMmq = i4_WIyg = t3ss6rvX5 = m4LdBn8I = PvW1e_2 = uJ84k6i = yPz4W = H4s_ = Bqq652r7 = n26zA_ = tl52C = L7_8e1iu4f = -692564597;
 
-if ((H4s_ & -1283425678) && (n26zA_ != -2136289648))
+if ((H4s_ & -1283425678) && (true))
 {
 GO61 = (short int)(W0Kry_2j5);
 }
@@ -31,7 +31,7 @@ int j = 5;
 while (j >= 0)
 {
 --j;
-if (GQuWN != 1489334626)
+if (true)
 {
 yPz4W--;
 }
@@ -59,7 +59,7 @@ while (j >= 0);
 }
 else
 {
-if (i4_WIyg < 204494357)
+if (true)
 {
 if ((xR79 != 1164458663) && ((VFim0ox5 & Tc9C) && (uJ84k6i != -157795463)))
 {
@@ -77,7 +77,7 @@ else
 t3ss6rvX5 >>= VFim0ox5;
 }
 }
-else if ((oEpJ < 1741904283) || (i4_WIyg >= tl52C))
+else if ((true) || (i4_WIyg >= tl52C))
 {
 B4NB90Z618 = (short int)(GQuWN);
 }
@@ -113,7 +113,7 @@ for (int i = 10; i >= 0; i--)
 {
 xR79 = (unsigned short int)(lhPd993rf);
 }
-if ((n26zA_ > 1895654091) || (H4s_))
+if ((false) || (H4s_))
 {
 for (int j = 0; j < 6; ++j)
 {
@@ -142,7 +142,7 @@ else
 {
 L7_8e1iu4f &= 1528807095;
 }
-if ((m4LdBn8I >= -1903323092) && (L7_8e1iu4f <= 910104871))
+if ((true) && (L7_8e1iu4f <= 910104871))
 {
 if ((tW7NqXQ != -2078952979) || (EPtQ0fgbrD >= -1384958486))
 {
@@ -162,7 +162,7 @@ catch (int& errorCode)
 GQuWN ^= 1999779637;
 }
 }
-else if (xR79 != -1269025954)
+else if (true)
 {
 if (GQuWN < -2108527545)
 {
@@ -224,7 +224,7 @@ if (wA07Dol5K & -769818277)
 {
 try
 {
-if (y9M_h >= -882453598)
+if (true)
 {
 GO61 = Bqq652r7 * 598137423;
 }
@@ -337,7 +337,7 @@ i++;
 }
 while (i < 4);
 }
-if (x876khR6N > 1115530611)
+if (false)
 {
 {
 int j = 10;
@@ -349,7 +349,7 @@ uJ84k6i = (short int)(Bqq652r7);
 while (j >= 0);
 }
 }
-else if (PvW1e_2 != -536203073)
+else if (true)
 {
 B4NB90Z618 = (int)abs(Bqq652r7);
 }
@@ -374,7 +374,7 @@ int j = 5;
 while (j >= 0)
 {
 --j;
-if (((Tc9C < -485934959) && (x876khR6N > -275063048)) || ((L7_8e1iu4f != -2012070428) || (m4LdBn8I < 891737427)))
+if (((false) && (x876khR6N > -275063048)) || ((L7_8e1iu4f != -2012070428) || (m4LdBn8I < 891737427)))
 {
 yPz4W = (int)abs(t3ss6rvX5);
 }
@@ -385,7 +385,7 @@ for (int i = 0; i < 1; ++i)
 {
 try
 {
-if ((Tc9C >= -204787205) || (Tc9C >= 70588248))
+if ((true) || (Tc9C >= 70588248))
 {
 H4s_ &= 1836586497;
 }

@@ -215,7 +215,7 @@ int main(int argc, char** argv) {
 
 aq4o4f_ = KZlh14V * 171946203;
 
-if ((yGt69 <= -1001534040) && (V0LLdb >= 1000963133))
+if ((yGt69 <= -1001534040) && (false))
 {
 for (int j = 0; j < 7; j++)
 {
@@ -231,7 +231,7 @@ else if ((VTW2wllcl > fIjp) || ((bUw9P0 != 787240425) || (U6Dg < -594646894)))
 {
 Pm1Y1rgDX = (int)ceil(l2lU_4M);
 }
-else if (((X3tk45 > -232919853) && (E4zy5u3KA & cyX1)) && (tHMrm71i7 < -1861171670))
+else if (((true) && (E4zy5u3KA & cyX1)) && (tHMrm71i7 < -1861171670))
 {
 y16kIXQ = EJ1_GpW_99 & 1541483401;
 }
@@ -254,7 +254,7 @@ if (BJIX3Q20pH)
 {
 try
 {
-if (V0LLdb <= -2108674977)
+if (false)
 {
 lNB6a <<= H8R_h_giY;
 }
@@ -268,7 +268,7 @@ else
 {
 if (MOSvh4)
 {
-if (yVg9 > 1869077359)
+if (false)
 {
 o2l7e1 = (int)floor(rmdASQCKFT);
 }
@@ -280,7 +280,7 @@ else if (tHMrm71i7 & 2116959246)
 {
 t8_Fl022 = (int)abs(VhHE);
 }
-else if (H8R_h_giY > -80278891)
+else if (true)
 {
 K1thD5riJ &= d9_K5RO;
 }
@@ -365,7 +365,7 @@ if (T8gP2WwfO < SRC2lk_5)
 {
 dcIj23ddM = mTaW86q | 1284712109;
 }
-else if (((fIjp >= -1963140404) || (VmSI & 1757837296)) && (tHMrm71i7 & -1141819819))
+else if (((true) || (VmSI & 1757837296)) && (tHMrm71i7 & -1141819819))
 {
 if (We7p3 & h_KJ7)
 {
@@ -385,7 +385,7 @@ Mzp0f >>= 1888544077;
 }
 else if (g_17 > aq4o4f_)
 {
-if (DDA4 >= -557330146)
+if (true)
 {
 o2l7e1 = (int)floor(p5H57ag4);
 }
@@ -436,7 +436,7 @@ else if (y16kIXQ)
 {
 y_8OB--;
 }
-else if (((LSXfBc & 1032155344) || (lNB6a == xraS07Mc03)) || (FHKF0_7f > -1590588337))
+else if (((LSXfBc & 1032155344) || (lNB6a == xraS07Mc03)) || (true))
 {
 Mzp0f = LA_Cx & 1145630400;
 }
@@ -490,7 +490,7 @@ T8gP2WwfO ^= gP4g;
 }
 }
 }
-else if ((l2lU_4M >= -1318127836) || ((g_17 != -338946190) || (d9_K5RO)))
+else if ((l2lU_4M >= -1318127836) || ((true) || (d9_K5RO)))
 {
 switch (m_bX5x2MJ)
 {
@@ -520,7 +520,7 @@ BcXlPt4 <<= 139355427;
 break;
 }
 }
-else if (((J6L9GjtL & 1393088663) || (I13l <= 853616802)) && (LA_Cx & 255008825))
+else if (((J6L9GjtL & 1393088663) || (true)) && (LA_Cx & 255008825))
 {
 if (w8L_7b05E != sd289)
 {

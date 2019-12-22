@@ -47,7 +47,7 @@ w73E++;
 w73E <<= 482875284;
 w73E = c5l3rJ6BZ | 863488350;
 
-if ((c5l3rJ6BZ == -2047131964) && (SUUJXO4 <= 2030812614))
+if ((false) && (SUUJXO4 <= 2030812614))
 {
 switch (w73E)
 {
@@ -88,7 +88,7 @@ break;
 }
 else
 {
-if ((o1NX < -1787013844) || (c5l3rJ6BZ < 238516030))
+if ((false) || (c5l3rJ6BZ < 238516030))
 {
 w73E -= 2064377198;
 }
@@ -98,7 +98,7 @@ if (w73E)
 {
 if (HQM0 & 323504964)
 {
-if ((Wl_vX >= SUUJXO4) && (c5l3rJ6BZ >= 1979422879))
+if ((Wl_vX >= SUUJXO4) && (false))
 {
 w73E |= 1586427505;
 }
@@ -119,7 +119,7 @@ w73E >>= 593678698;
 while (k >= 0);
 }
 }
-else if ((c5l3rJ6BZ <= -1022314323) || (HQM0 < o1NX))
+else if ((false) || (HQM0 < o1NX))
 {
 {
 int k = 0;
@@ -137,7 +137,7 @@ HQM0 = (char)(w73E * HQM0);
 }
 else
 {
-if (Wl_vX <= 1438671265)
+if (true)
 {
 w73E = Wl_vX >> 1567152113;
 }
@@ -177,7 +177,7 @@ else
 cout << w73E << "CcjN_Qox" << "IEPvNwA" << endl;
 }
 
-if ((HQM0 & c5l3rJ6BZ) && ((Wl_vX == -2098561535) || (SUUJXO4 != o1NX)))
+if ((HQM0 & c5l3rJ6BZ) && ((false) || (SUUJXO4 != o1NX)))
 {
 w73E = SUUJXO4 / Wl_vX;
 }
@@ -223,7 +223,7 @@ cout << "Q_Qh6rt0jJ" << c5l3rJ6BZ << HQM0 << c5l3rJ6BZ << endl;
 }
 w73E = o1NX % 375717374;
 
-if (Wl_vX == 795167173)
+if (false)
 {
 switch (o1NX)
 {

@@ -38,7 +38,7 @@ int main(int argc, char** argv)
 switch (mEvFbn_)
 {
 case 'a':
-W7BtJr0 = (w5wK > -550401979) ? xQZ0uN6xu : j6Tj;
+W7BtJr0 = (true) ? xQZ0uN6xu : j6Tj;
 break;
 case 'b':
 Dg0_e %= 179322328;
@@ -59,7 +59,7 @@ case 'g':
 A124X4c4 = e809z();
 break;
 case 'h':
-Z3_9bLup = (T8bd0 != 443641778) ? d3J6 : 406950926;
+Z3_9bLup = (true) ? d3J6 : 406950926;
 break;
 case 'i':
 YMY_6 <<= 989424810;
@@ -105,7 +105,7 @@ i++;
 }
 GxI6y0g4o1 = -342336364 / mEvFbn_;
 
-if (l_7jLn6 > 1416878699)
+if (false)
 {
 HYqYO7++;
 }

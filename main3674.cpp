@@ -92,7 +92,7 @@ int main(int argc, char** argv)
 HJyq5mf = (int)abs(j_c_1_p1g);
 WQs3QR2M_v = (unsigned short)(cT1K7WXJK5);
 
-if (BGT6_38 <= 2010192049)
+if (true)
 {
 {
 int j = 2;
@@ -130,7 +130,7 @@ j_c_1_p1g = (int)abs(gV1Ne);
 }
 }
 }
-else if (((VnqzzjID < YbKW0_7C) || (l__60G1SL <= -512360232)) && (xGJ5 == -403134964))
+else if (((VnqzzjID < YbKW0_7C) || (l__60G1SL <= -512360232)) && (false))
 {
 VnqzzjID = (U0gl != 529414656) ? BGT6_38 : A6sO;
 }
@@ -335,7 +335,7 @@ else
 int j = 0;
 while (j < 1)
 {
-if (K_6P5 != -737272168)
+if (true)
 {
 S2Og78 = (int)abs(q1PdRPMlDQ);
 }

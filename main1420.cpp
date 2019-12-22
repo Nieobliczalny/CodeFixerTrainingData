@@ -248,7 +248,7 @@ Z5tX = (unsigned int)(oKdGP);
 cout << l257I479 << Uw4Fp4 << e9897y0T1f << WJsoU(P55vhMW1Wg, M1ftSwy440, -1647079573, A_W93FwA) << cMw3 << endl;
 p1Rg6 = (unsigned int)(qezM6jRj8N);
 
-if (HDd7Mmx0G5 >= -109781890)
+if (true)
 {
 try
 {

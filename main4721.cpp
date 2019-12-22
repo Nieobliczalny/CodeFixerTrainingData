@@ -83,7 +83,7 @@ int i = 0;
 while (i < 5)
 {
 ++i;
-if ((zLgu2 < 776174910) || (x7w36I2 >= -916310035))
+if ((zLgu2 < 776174910) || (true))
 {
 if (jfAjw <= -1715328044)
 {
@@ -100,7 +100,7 @@ for (int i = 1; i >= 0; --i)
 {
 for (int j = 0; j < 1; j++)
 {
-if ((duKm == -1438507595) || (HlZ6_Qyv61 == AY_gKq0wtx))
+if ((false) || (HlZ6_Qyv61 == AY_gKq0wtx))
 {
 x7w36I2 |= 587119043;
 }
@@ -195,7 +195,7 @@ if (B_MS < -285191312)
 BtL0N9aR %= 927711903;
 }
 }
-else if ((HlZ6_Qyv61) && (Ae0M3_ == -1340677686))
+else if ((HlZ6_Qyv61) && (false))
 {
 x7w36I2 = J22w8t8rs3 - AY_gKq0wtx;
 }
@@ -382,7 +382,7 @@ while (j >= 0);
 
 B_MS = (long long)(A40u0308);
 
-if ((NMO4 < FTD5eKC) && (x7w36I2 != -298510779))
+if ((NMO4 < FTD5eKC) && (true))
 {
 try
 {

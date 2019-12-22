@@ -78,7 +78,7 @@ while (i < 7)
 {
 try
 {
-if (((B653ksN1Q < 2136877789) && (ZRUsOUD7I >= 1574426007)) && ((dX08 & k_9K) || (SyY7dV48 < 1635531932)))
+if (((true) && (ZRUsOUD7I >= 1574426007)) && ((dX08 & k_9K) || (SyY7dV48 < 1635531932)))
 {
 Wij3y = h00Athd(Wij3y, Z1Dm2, 1355523428);
 }
@@ -94,7 +94,7 @@ else if (dX08)
 {
 Eiq4 = (int)abs(B7uKbUQgn);
 }
-else if (((Y_03S & 326029033) || (ZRUsOUD7I >= 919973383)) && (qcZR >= Wij3y))
+else if (((Y_03S & 326029033) || (false)) && (qcZR >= Wij3y))
 {
 SyY7dV48 = wUyA8b8c6g + Wij3y;
 }
@@ -121,7 +121,7 @@ try
 int j = 0;
 while (j < 10)
 {
-if (Y_03S <= 554857627)
+if (true)
 {
 Y_03S++;
 }
@@ -137,7 +137,7 @@ else if (Y_03S & -440159917)
 {
 Y_03S <<= DpPaSK_BUT;
 }
-else if (((UX2_376 != -392515201) && (Wij3y)) || (NlZfY_ > -1122449507))
+else if (((true) && (Wij3y)) || (NlZfY_ > -1122449507))
 {
 Eiq4 = BN5hS5NX7(-205355515, 529039571);
 }
@@ -157,7 +157,7 @@ catch (int& errorCode)
 {
 qcZR = h00Athd(qcZR, SyY7dV48, NlZfY_);
 }
-if (Eiq4 >= -514923218)
+if (true)
 {
 if (UX2_376 == P018slvq)
 {
@@ -181,7 +181,7 @@ else
 l92ZIB = wUyA8b8c6g % 447913164;
 }
 }
-else if (UX2_376 == -1582197293)
+else if (false)
 {
 if ((SyY7dV48 < 141088509) || (ZRUsOUD7I == 722331270))
 {
@@ -202,7 +202,7 @@ wUyA8b8c6g = (int)abs(Eiq4);
 }
 else if (Wij3y & ZRUsOUD7I)
 {
-if (B653ksN1Q > -1537608864)
+if (true)
 {
 k_9K = oGv9jK8(-2015729232, l92ZIB, NlZfY_);
 }
@@ -228,7 +228,7 @@ if ((wUyA8b8c6g >= B7uKbUQgn) || (Wij3y & -1651150834))
 {
 SyY7dV48 /= DpPaSK_BUT;
 }
-else if (((P018slvq >= w6ApPhI) && (dX08 & ZRUsOUD7I)) && ((Eiq4 == -267259861) && (Wij3y < 1396104806)))
+else if (((P018slvq >= w6ApPhI) && (dX08 & ZRUsOUD7I)) && ((false) && (Wij3y < 1396104806)))
 {
 Y_03S = BN5hS5NX7(Y_03S, -1206229792);
 }
@@ -238,7 +238,7 @@ P018slvq = h00Athd(779443940, Eiq4, wUyA8b8c6g);
 }
 else if (wUyA8b8c6g < B653ksN1Q)
 {
-wUyA8b8c6g = (l92ZIB >= -277177062) ? BN5hS5NX7(-1939433627, Eiq4) : 130748510;
+wUyA8b8c6g = (true) ? BN5hS5NX7(-1939433627, Eiq4) : 130748510;
 }
 else if (Z1Dm2 == 457124478)
 {
@@ -293,7 +293,7 @@ break;
 }
 try
 {
-if (Y_03S > -247132509)
+if (true)
 {
 SyY7dV48 = (int)abs(ZRUsOUD7I);
 }
@@ -383,7 +383,7 @@ wUyA8b8c6g = BN5hS5NX7(-153026106, k_9K);
 }
 else
 {
-if (dX08 != 2017521336)
+if (true)
 {
 if (dX08 > -1024807329)
 {
@@ -406,7 +406,7 @@ k--;
 }
 }
 }
-if (B7uKbUQgn < -910137239)
+if (false)
 {
 cout << UX2_376 << endl;
 }
@@ -417,7 +417,7 @@ int j = 2;
 while (j >= 0)
 {
 j--;
-if (l92ZIB > 799013054)
+if (false)
 {
 Wij3y /= Y_03S;
 }
@@ -470,7 +470,7 @@ i--;
 }
 while (i >= 0);
 }
-if (Y_03S != -1086352741)
+if (true)
 {
 switch (B7uKbUQgn)
 {
@@ -496,7 +496,7 @@ wUyA8b8c6g = BN5hS5NX7(wUyA8b8c6g, 769757389);
 break;
 }
 }
-else if (SyY7dV48 <= -125150423)
+else if (false)
 {
 Eiq4 = (short int)(Y_03S);
 }
@@ -550,7 +550,7 @@ break;
 }
 }
 
-if (w6ApPhI < 731966465)
+if (true)
 {
 B653ksN1Q = BN5hS5NX7(B653ksN1Q, Z1Dm2);
 }
@@ -561,7 +561,7 @@ int j = 0;
 do
 {
 ++j;
-if ((wUyA8b8c6g != 792163440) && ((ZRUsOUD7I <= -1184818906) || (wUyA8b8c6g < 212679877)))
+if ((true) && ((ZRUsOUD7I <= -1184818906) || (wUyA8b8c6g < 212679877)))
 {
 Z1Dm2 = BN5hS5NX7(B653ksN1Q, -847925562) / 327996307;
 }
@@ -579,7 +579,7 @@ cout << "cMt2gvc" << endl;
 }
 else if (B7uKbUQgn == w6ApPhI)
 {
-if ((qcZR == Wij3y) && ((B7uKbUQgn) && (Z1Dm2 > 1982352905)))
+if ((qcZR == Wij3y) && ((B7uKbUQgn) && (false)))
 {
 switch (Y_03S)
 {
@@ -674,7 +674,7 @@ if (w6ApPhI >= Eiq4)
 {
 NlZfY_ = (short int)(Wij3y);
 }
-else if (((NlZfY_ == -742743914) && (dX08 >= 2126048300)) && ((DpPaSK_BUT & -647454639) || (w6ApPhI & 312026850)))
+else if (((false) && (dX08 >= 2126048300)) && ((DpPaSK_BUT & -647454639) || (w6ApPhI & 312026850)))
 {
 w6ApPhI = (int)abs(SyY7dV48);
 }
@@ -701,7 +701,7 @@ while (k < 9);
 }
 else
 {
-if (Eiq4 == -739799440)
+if (false)
 {
 qcZR = BN5hS5NX7(986129247, 1828321065);
 }
@@ -711,7 +711,7 @@ Y_03S = BN5hS5NX7(-714082588, -1847726883);
 }
 }
 }
-else if ((Z1Dm2 < qcZR) && ((UX2_376 >= -1675137620) && (l92ZIB > 2052158787)))
+else if ((Z1Dm2 < qcZR) && ((true) && (l92ZIB > 2052158787)))
 {
 cout << BN5hS5NX7(447666371, 1164025562) << oGv9jK8(Y_03S, Eiq4, NlZfY_) << "d6a02yeP" << BN5hS5NX7(Y_03S, -401373338) << endl;
 }

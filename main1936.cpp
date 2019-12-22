@@ -103,7 +103,7 @@ i--;
 o2_5QI97TF = L6WuYE8_H(L9KD_, Bpb41vQ, lz16WN, 1981733564);
 }
 }
-if ((yVYmr1X_1 == 1348873028) || (H9Y1Dv >= Tx0gst))
+if ((false) || (H9Y1Dv >= Tx0gst))
 {
 for (int j = 0; j < 9; j++)
 {
@@ -157,7 +157,7 @@ while (j >= 0);
 }
 else
 {
-if (mAB5gF_r < 1298726013)
+if (true)
 {
 if (lRJ_ <= 70264175)
 {

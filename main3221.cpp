@@ -135,7 +135,7 @@ if (wI9Nc3W56 > -395066897)
 {
 PWaiN = (unsigned short)(Xw894k5akf);
 }
-else if (MQ3svv != 521575323)
+else if (true)
 {
 r4P2t71Xvu = (float)(G7qtn);
 }
@@ -219,7 +219,7 @@ if (S3O6C6cFhW == -1080605149)
 nr_MUA &= 47298403;
 }
 }
-else if (UY2ZMC5 <= -1369387265)
+else if (false)
 {
 wrt5HtB6J5 = (int)floor(y17XD66);
 }
@@ -280,7 +280,7 @@ break;
 }
 }
 C7h23_eMiF = G7qtn << nr_MUA;
-if (h3a40X28 != -266763917)
+if (true)
 {
 QI_Cp4Lb = (int)floor(v7BKQ4);
 }
@@ -328,7 +328,7 @@ MQ3svv = FVaz0(MQ3svv, C7h23_eMiF, tMCm24D7r8, -989856324, n5_U2L61AF);
 break;
 }
 }
-else if (dd2nM0226 > -429841699)
+else if (true)
 {
 std::cout << x1e8qM67w << "oDuV_7" << e1J7r(-572720882, 973120987) << "P8MR" << FVaz0(MQ3svv, C7h23_eMiF, tMCm24D7r8, -634183306, -1482327813) << std::endl;
 }
@@ -358,7 +358,7 @@ LBxU86o3 = (long long)(qCd1fq81C9);
 qCd1fq81C9 = aj17s7YK / e1J7r(-818225508, 762647011);
 qCd1fq81C9 = (long double)(GEWgj84pK2);
 
-if (FhHYx7_ >= 1766886045)
+if (false)
 {
 PWaiN = (unsigned short)(G674);
 }
@@ -378,7 +378,7 @@ int i = 0;
 while (i < 6)
 {
 i++;
-if ((XLY7V4 & OwhksPKuAl) && ((Rx9_rCS6 != -1955999942) || (OwhksPKuAl & 909614132)))
+if ((XLY7V4 & OwhksPKuAl) && ((true) || (OwhksPKuAl & 909614132)))
 {
 if (r4P2t71Xvu)
 {
@@ -447,7 +447,7 @@ break;
 }
 }
 }
-else if (mj4_IQw4 > 547367837)
+else if (false)
 {
 HF9q2 = rUm6 - 1050850760;
 }
@@ -465,7 +465,7 @@ zA9LrukFz = Qru4(266638243, QI_Cp4Lb, -1586319968, 1992787500, XLY7V4);
 }
 }
 }
-else if (((Qe7Ub != 1731262023) || (C___dL2E2 != -377693934)) && ((pk2L0rTj0 == -11234828) && (Qe7Ub == 1924183527)))
+else if (((Qe7Ub != 1731262023) || (true)) && ((pk2L0rTj0 == -11234828) && (Qe7Ub == 1924183527)))
 {
 dF9sQ20jW = (int)ceil(S3O6C6cFhW);
 }
@@ -537,7 +537,7 @@ catch (int& errorCode)
 {
 cN_Qa3sm = e1J7r(-2105416209, l3RI);
 }
-if ((ENz5 > -1275357471) && (e_381Cll2r == S3O6C6cFhW))
+if ((true) && (e_381Cll2r == S3O6C6cFhW))
 {
 switch (Xw894k5akf)
 {
@@ -621,7 +621,7 @@ while (j >= 0);
 }
 }
 }
-if (PWaiN > 1499905923)
+if (false)
 {
 RnLoj = FVaz0(RnLoj, -437898201, UY2ZMC5, -1013032467, -1957526530);
 }
@@ -647,7 +647,7 @@ OwhksPKuAl = (unsigned char)(rUm6);
 }
 else
 {
-if ((i8wTk__ & 1447531462) && (GY6YzeWi > -1464166003))
+if ((i8wTk__ & 1447531462) && (true))
 {
 switch (S64F)
 {

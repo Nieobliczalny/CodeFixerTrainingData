@@ -88,7 +88,7 @@ cout << "S2I4kJ3Wyh" << endl;
 kb4kZN3xqG *= jx71;
 if ((kUd3xbW != oWC2M8) && (Gi_8uJ_WgC != qo17))
 {
-if (((VV2jb6A7p7 == xZqJ5kgy0) || (E94W5k96d)) || (rR95C6_ & -976055284))
+if (((false) || (E94W5k96d)) || (rR95C6_ & -976055284))
 {
 if (rR95C6_ != tspMzdxx)
 {

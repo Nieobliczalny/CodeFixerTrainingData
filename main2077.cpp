@@ -358,7 +358,7 @@ else if (JEof > O49216MwCN)
 {
 cPZM9 = (G3cx2YcQ != O49216MwCN) ? ek96 : twp8yhex;
 }
-else if ((S8Ui8p2zqO > im7g82w) && ((eP_F != 83647143) && (fBM2 != zYB2G)))
+else if ((S8Ui8p2zqO > im7g82w) && ((eP_F != 83647143) && (true)))
 {
 N4aOELgg4w = (int)floor(ASlO0);
 }
@@ -464,7 +464,7 @@ eUZ2M /= 606348541;
 }
 }
 }
-if (R6P_X >= -305167465)
+if (true)
 {
 if (Kl31pC_GO < zYB2G)
 {

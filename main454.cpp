@@ -97,7 +97,7 @@ int main(int argc, char** argv) {
 
 std::cout << iwr3rj28S << lN8Z2D2(-2144297855, Jo2R4bK, sIX_XIz35) << "zE53a7A71h" << std::endl;
 
-if (DkL5s_ > -2044740391)
+if (true)
 {
 std::cout << EaP19dAVM << "B7TFqp" << KJ2cz_d(491925902) << "dB4wZmf52" << "T1O0" << std::endl;
 }
@@ -221,7 +221,7 @@ int i = 8;
 do
 {
 i--;
-if (fYnLC <= 1442583619)
+if (true)
 {
 ACJk3NI = lN8Z2D2(gGG0, S3fIgEL23, yFQQt9969w);
 }
@@ -236,7 +236,7 @@ n07e /= 1504900753;
 }
 }
 }
-else if (fMLu2iiipC == -227799589)
+else if (false)
 {
 if ((Jo2R4bK & -1261111360) || (ACJk3NI >= SZuYxHc5f5))
 {
@@ -272,7 +272,7 @@ while (i >= 0);
 
 try
 {
-if (X9F7 > -219407732)
+if (true)
 {
 for (int k = 0; k < 8; k++)
 {
@@ -365,7 +365,7 @@ EaP19dAVM = (short)(gR2ly);
 QdYe82q0EK = Ko4Dx / yL3Oi3z7;
 for (int i = 0; i < 3; ++i)
 {
-if (m424biYlZ == 1579539421)
+if (false)
 {
 for (int k = 7; k >= 0; k--)
 {
@@ -387,7 +387,7 @@ jCg907_ = (int)floor(a37nL6K37);
 
 try
 {
-if (fYnLC >= -453578331)
+if (true)
 {
 {
 int k = 0;
@@ -477,7 +477,7 @@ for (int i = 0; i < 8; ++i)
 int j = 0;
 do
 {
-if (CM_w3f <= -639656663)
+if (false)
 {
 NBD_6P88I = (int)ceil(mh4YstU);
 }
@@ -487,7 +487,7 @@ while (j < 9);
 }
 }
 
-if ((fwQ1Oa5f9 & -1910814142) || (SZuYxHc5f5 >= -2039130179))
+if ((fwQ1Oa5f9 & -1910814142) || (true))
 {
 if (Av3PKT3 <= -1115779853)
 {
@@ -497,7 +497,7 @@ else if (Z4HyU6WM55 & -529505761)
 {
 std::cout << jCg907_ << gGG0 << KJ2cz_d(1532228859) << DLQXtt8eIb(Zg9m3rCX, d5IB5pS2) << std::endl;
 }
-else if ((uE8EF9S6 & yFQQt9969w) && ((ACJk3NI == -1268370996) && (iwr3rj28S & -150202551)))
+else if ((uE8EF9S6 & yFQQt9969w) && ((false) && (iwr3rj28S & -150202551)))
 {
 try
 {
@@ -526,7 +526,7 @@ std::cout << KJ2cz_d(DkL5s_) << std::endl;
 }
 else
 {
-if (m424biYlZ == -441905931)
+if (false)
 {
 EaP19dAVM = j_qLcjY * 1717108156;
 }
@@ -615,7 +615,7 @@ std::cout << "BrP6T" << DLQXtt8eIb(ZyJue, 910065680) << EaP19dAVM << std::endl;
 }
 
 std::cout << "XDFiJGV" << "OM3L7gT06N" << lN8Z2D2(ZyJue, 533435822, a37nL6K37) << std::endl;
-if (v3Bj >= -698258779)
+if (true)
 {
 for (int j = 3; j >= 0; --j)
 {
@@ -626,7 +626,7 @@ else if ((y9sCBouG1M >= Ql24d) && (d5IB5pS2 == -1950659770))
 {
 std::cout << DLQXtt8eIb(rzTJ03rJ, cJ1G) << KJ2cz_d(rzTJ03rJ) << "GLt04P98T1" << std::endl;
 }
-else if ((S3fIgEL23 & CM_w3f) || (CM_w3f != 635567352))
+else if ((S3fIgEL23 & CM_w3f) || (true))
 {
 {
 int j = 0;

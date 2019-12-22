@@ -254,7 +254,7 @@ if (aqqY & jL9ShE_twB)
 {
 W__QAM = (int)ceil(aQwmiZ);
 }
-else if ((E_Ms65Ed5E <= 1286801703) || (EVC2xLHkup != 1999074449))
+else if ((true) || (EVC2xLHkup != 1999074449))
 {
 X5B1Ggr7 = (int)abs(EjQb12);
 }

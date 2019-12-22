@@ -116,7 +116,7 @@ int main(void) {
  float AznmpZpJv1;
  AznmpZpJv1 = -1195423108;
 
-if (((d5dH1) || (PQ1p3_78e5)) || (SV_P68I == 1097806816))
+if (((d5dH1) || (PQ1p3_78e5)) || (false))
 {
 try
 {
@@ -188,7 +188,7 @@ int i = 8;
 while (i >= 0)
 {
 --i;
-if ((zgb93 <= 1820973700) && ((PJ46y0mu9 >= -698442057) || (fAmZ > R4WhMzgy)))
+if ((true) && ((PJ46y0mu9 >= -698442057) || (fAmZ > R4WhMzgy)))
 {
 {
 int k = 2;
@@ -213,7 +213,7 @@ MRZl1owoa <<= f9U___e1M7;
 }
 }
 
-if ((zgb93 != 1079922022) && (X_Snjl9GLe != -287619041))
+if ((true) && (X_Snjl9GLe != -287619041))
 {
 try
 {
@@ -322,7 +322,7 @@ else if ((EwXE4z <= x5Apj) && ((X_Snjl9GLe & 1743608322) || (R4WhMzgy == -198561
 {
 try
 {
-if (fufs7E > 1770537285)
+if (false)
 {
 BQLz3I = (int)abs(uKOv8wo) * 0;
 }
@@ -391,7 +391,7 @@ cout << C1Q2BC << endl;
 
 try
 {
-if (SV_P68I != 1420771074)
+if (true)
 {
 try
 {
@@ -406,7 +406,7 @@ else if (YSzCe >= 286474836)
 {
 C2_VE = (int)floor(Ye43Yp);
 }
-else if (((afg2GF7lRl & -1731637073) && (egik9425 > Ybor)) && ((zgb93 > MRZl1owoa) && (c1Ja2IZv <= 696995948)))
+else if (((afg2GF7lRl & -1731637073) && (egik9425 > Ybor)) && ((zgb93 > MRZl1owoa) && (true)))
 {
 switch (X_Snjl9GLe)
 {
@@ -518,7 +518,7 @@ YSzCe++;
 
 for (int i = 10; i >= 0; i--)
 {
-if (X4_WH96ec >= 1718365122)
+if (false)
 {
 if (zgb93 <= -900598293)
 {
@@ -536,7 +536,7 @@ catch (int& errorCode)
 Ybor = (int)abs(C2_VE);
 }
 }
-else if (((d5dH1) || (X4_WH96ec <= -997154329)) && (X_Snjl9GLe))
+else if (((d5dH1) || (false)) && (X_Snjl9GLe))
 {
 DuHnp <<= X_Snjl9GLe;
 }
@@ -555,7 +555,7 @@ else if (X_Ch < BQLz3I)
 {
 EwXE4z = c1Ja2IZv | DuHnp;
 }
-else if (((DuHnp & -142363593) || (SV_P68I > 1345024504)) && (fAmZ < EwXE4z))
+else if (((DuHnp & -142363593) || (false)) && (fAmZ < EwXE4z))
 {
 if (((f9U___e1M7 > FRF24) && (DuHnp != BQLz3I)) || ((e1gP4V7vm <= 2002933173) && (X_Snjl9GLe)))
 {
@@ -570,7 +570,7 @@ z61aqSlqyE = (int)ceil(qbG74);
 
 if (D1849Diq >= 773514878)
 {
-if ((SV_P68I <= -1471306549) && ((FRF24 == 725979936) && (BQLz3I != -2038740305)))
+if ((false) && ((FRF24 == 725979936) && (BQLz3I != -2038740305)))
 {
 try
 {
@@ -595,7 +595,7 @@ while (j < 2);
 }
 }
 
-if ((FRF24 != -866678819) && (f9U___e1M7 == -1671810089))
+if ((FRF24 != -866678819) && (false))
 {
 {
 int j = 0;
@@ -639,7 +639,7 @@ C2_VE = X_Ch >> 1834230433;
 }
 else if (y5ObedkM_E)
 {
-if (zgb93 >= 503696156)
+if (false)
 {
 d5dH1++;
 }

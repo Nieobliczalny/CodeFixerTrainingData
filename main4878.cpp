@@ -177,7 +177,7 @@ i--;
 while (i >= 0);
 }
 
-if (nyT9rGs7z_ >= 1388692310)
+if (false)
 {
 try
 {

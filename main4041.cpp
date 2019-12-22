@@ -177,7 +177,7 @@ else if (Q2G13EA18 <= k1B9knPgP2)
 {
 cout << "KqM4so6c" << "B7_e90Z" << "fucXsV" << "Zt001vnn" << c9330oKC << endl;
 }
-else if ((VaJs26TDX != 1833101061) || (oCn0G5G == BA_1N_V))
+else if ((true) || (oCn0G5G == BA_1N_V))
 {
 if (WTsDAxVI9 != 1501352296)
 {
@@ -534,7 +534,7 @@ r0Jk2ZX3ar = BA_1N_V >> p4U5Om7EG;
 }
 }
 
-if (WqE55i == -2122984038)
+if (false)
 {
 {
 int j = 0;

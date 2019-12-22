@@ -133,7 +133,7 @@ dzMwE_Wen = lM4AfT6g5 / WY2Z6(-1907932427, 1667427988, pm_2t5AxAZ, U01Xrvs);
 eK3aFDG |= BowocqjFyF;
 
 WX5yeBB6 = yxtf(Syesf1i2Hc, 85909208, -64044161, 505784029, -1447815293) >> LnlZqaF3eb;
-if ((j0_o8DJUF == -545558813) || ((QYVf4Yx5 <= ZFOq5K) && (XQLT1 >= dqcTY38)))
+if ((false) || ((QYVf4Yx5 <= ZFOq5K) && (XQLT1 >= dqcTY38)))
 {
 x6unV = (long long)(E2fuc0h_);
 }

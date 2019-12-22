@@ -38,7 +38,7 @@ for (int i = 6; i >= 0; --i)
 {
 for (int j = 3; j >= 0; j--)
 {
-if ((s4l401w7 > 2125039712) && ((m2C3o9s28 != -212657111) && (AdJ370G != m2C3o9s28)))
+if ((false) && ((m2C3o9s28 != -212657111) && (AdJ370G != m2C3o9s28)))
 {
 m2C3o9s28 = bznnJ9();
 }
@@ -62,7 +62,7 @@ s4l401w7 = RugQq(-2093587935, -21538021, AdJ370G, -701404941, 373387935);
 break;
 case 'c':
 case 'C':
-AdJ370G = (s4l401w7 <= 2025961486) ? AdJ370G : AdJ370G;
+AdJ370G = (true) ? AdJ370G : AdJ370G;
 break;
 case 'd':
 case 'D':
@@ -119,7 +119,7 @@ do
 j--;
 if (m2C3o9s28 == AdJ370G)
 {
-AdJ370G = (s4l401w7 >= 130403455) ? -1103392910 : 431695862;
+AdJ370G = (false) ? -1103392910 : 431695862;
 }
 else if ((m2C3o9s28 == -1795725643) || ((AdJ370G >= 2054714831) && (s4l401w7 < 1249009218)))
 {
@@ -229,7 +229,7 @@ break;
 }
 }
 
-if ((m2C3o9s28 >= AdJ370G) && (s4l401w7 > 712722121))
+if ((m2C3o9s28 >= AdJ370G) && (false))
 {
 std::cout << AdJ370G << m2C3o9s28 << std::endl;
 }
@@ -336,7 +336,7 @@ break;
 int i = 6;
 do
 {
-if (s4l401w7 >= -1700955474)
+if (true)
 {
 s4l401w7 = m2C3o9s28 >> 585181345;
 }
@@ -359,7 +359,7 @@ AdJ370G = (float)(m2C3o9s28 + (854595680));
 s4l401w7++;
 AdJ370G = P1w_QmGLA(m2C3o9s28, 386064490);
 
-if (s4l401w7 > 1052814255)
+if (false)
 {
 s4l401w7++;
 }
@@ -439,7 +439,7 @@ s4l401w7--;
 }
 }
 
-if (s4l401w7 == -1705373509)
+if (false)
 {
 if (m2C3o9s28 >= -1657393863)
 {
@@ -493,7 +493,7 @@ for (int i = 0; i < 6; ++i)
 std::cout << s4l401w7 << bznnJ9() << P1w_QmGLA(s4l401w7, AdJ370G) << RugQq(1933819250, 1247772226, m2C3o9s28, 655909728, -657820483) << P1w_QmGLA(s4l401w7, AdJ370G) << std::endl;
 }
 
-if ((s4l401w7 >= -511636481) || (m2C3o9s28 == AdJ370G))
+if ((true) || (m2C3o9s28 == AdJ370G))
 {
 switch (m2C3o9s28)
 {
@@ -579,7 +579,7 @@ k--;
 }
 }
 }
-else if (s4l401w7 == 469733622)
+else if (false)
 {
 s4l401w7 <<= 1214666829;
 }

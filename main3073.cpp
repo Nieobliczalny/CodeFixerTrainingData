@@ -247,7 +247,7 @@ try
 {
 for (int j = 3; j >= 0; --j)
 {
-if ((haaZyGrpMW != -2134687993) && ((lbHIr12ae >= 165342671) && (Cg0988 < 1521804214)))
+if ((haaZyGrpMW != -2134687993) && ((false) && (Cg0988 < 1521804214)))
 {
 K2Mj_7X = (int)ceil(kp9FSEAL);
 }
@@ -275,7 +275,7 @@ std::cout << K37Z08s78(-410924932, BX96E6O70L, 145081246, -256832809) << std::en
 }
 for (int i = 0; i < 6; i++)
 {
-if (A2t69m >= 14092922)
+if (false)
 {
 if ((tBlFERt16g != -2134576944) && ((X6t7n78) && (tBlFERt16g == 1139853832)))
 {
@@ -328,7 +328,7 @@ else
 {
 for (int j = 0; j < 10; j++)
 {
-sv82 = (Lrq60vnQo3 < -1460814088) ? c8YrHt(ekYbMxrtzi, -1848309429, cSQ_BJ) : c8YrHt(ekYbMxrtzi, 1353428130, cSQ_BJ);
+sv82 = (false) ? c8YrHt(ekYbMxrtzi, -1848309429, cSQ_BJ) : c8YrHt(ekYbMxrtzi, 1353428130, cSQ_BJ);
 }
 }
 {
@@ -361,7 +361,7 @@ XS7M_Mob &= BX96E6O70L;
 }
 }
 }
-else if (x7651U007 == 1212480305)
+else if (false)
 {
 {
 int j = 5;

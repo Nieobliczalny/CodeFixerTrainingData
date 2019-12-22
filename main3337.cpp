@@ -150,7 +150,7 @@ else if (X9H3 > t75pvQ)
 {
 t_sG6_6e = (int)ceil(bk4_4);
 }
-else if (((OX4_hG > 1996784418) && (A8AqCV != fl972p)) && (u49_f))
+else if (((false) && (A8AqCV != fl972p)) && (u49_f))
 {
 JHs_i_Qb /= 1883598761;
 }
@@ -189,7 +189,7 @@ break;
 }
 if (eUz6I == a8zcbEOrpe)
 {
-if (((lFo8 <= -1960258261) && (uhHKD9 == 1092092386)) && (X9H3))
+if (((lFo8 <= -1960258261) && (false)) && (X9H3))
 {
 {
 int k = 3;

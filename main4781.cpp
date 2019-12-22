@@ -171,7 +171,7 @@ catch (int& errorCode)
 QliY2Jd_OM = (int)abs(Vzprl_o72v);
 }
 }
-else if ((QliY2Jd_OM) && (Q_GZQt > -1103910368))
+else if ((QliY2Jd_OM) && (true))
 {
 if ((LuA7xfhyY6 >= aP4ohLUu) && ((vj5D >= pN5Q790SwY) || (P68h9A == lu7Cb5kG9)))
 {
@@ -263,7 +263,7 @@ while (j >= 0);
 }
 }
 
-if ((diB2LD_T == lu7Cb5kG9) || (j7W10wa <= fan67))
+if ((false) || (j7W10wa <= fan67))
 {
 Jx6Hgj_X4++;
 }

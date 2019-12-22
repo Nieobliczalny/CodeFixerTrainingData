@@ -191,7 +191,7 @@ if ((T21L5xaK4 > 1033940823) || (V7M0Gz_7qf >= ur76mbS17))
 {
 bpIx |= bmba;
 }
-else if (JucKyDFs != 1072026456)
+else if (true)
 {
 SkH_LN81 = (int)floor(S45hgZvg4);
 }

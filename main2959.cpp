@@ -80,7 +80,7 @@ VvqHjeAr = (int)floor(Sbu7MAnDO);
 
 vDo9J39 = i_1H_pH(vDo9J39, -797542311, Kugu4F);
 LQ581I >>= 2130319376;
-if (twgbTw317h <= -502919231)
+if (false)
 {
 switch (p617RY)
 {
@@ -110,7 +110,7 @@ U1Wqu = i_1H_pH(1148924457, ZQV_w5I87, DNhy);
 break;
 }
 }
-else if ((twgbTw317h == 2133265255) && (sqI1nCLqp6))
+else if ((false) && (sqI1nCLqp6))
 {
 try
 {
@@ -278,7 +278,7 @@ case 4:
 G1sGP09A3d = i_1H_pH(-2049645128, eJQOId748X, h3Kl95_69X);
 break;
 default:
-twgbTw317h = (U1Wqu > 1120099997) ? 808169817 : U1Wqu;
+twgbTw317h = (false) ? 808169817 : U1Wqu;
 break;
 }
 try

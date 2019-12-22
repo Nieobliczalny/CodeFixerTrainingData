@@ -212,7 +212,7 @@ cout << y5rZHrAGc(-1454992329, -1400617937) << lJp7BT1K7w << S3OkHkB << OOR_ << 
 
 Hv3fcZc1X = (int)ceil(RFa_5QNOt);
 ZO9_ = y5rZHrAGc(-1131829581, -234779333);
-if (((lJp7BT1K7w < xiOmm) && (CXpHq8N4DQ < F1QBpAzo)) && ((k48nOYQ > 1179221225) && (eYW3 < AdI27l)))
+if (((lJp7BT1K7w < xiOmm) && (CXpHq8N4DQ < F1QBpAzo)) && ((false) && (eYW3 < AdI27l)))
 {
 if (dDAqj2Ba >= -1748128381)
 {
@@ -245,7 +245,7 @@ else if (SsDNJlO)
 {
 cout << eYW3 << Hv3fcZc1X << rd3jY << y5rZHrAGc(-1947594993, -689773770) << endl;
 }
-else if ((SZDm != -14774025) && ((B5n_y > F1QBpAzo) || (B5n_y != 40353686)))
+else if ((true) && ((B5n_y > F1QBpAzo) || (B5n_y != 40353686)))
 {
 switch (G695L)
 {
@@ -306,7 +306,7 @@ cout << C7OD4b6Mi() << yx0o1B1u5 << mSMVKEx << C7OD4b6Mi() << W7ns_d(-565752255,
 
 try
 {
-if ((RFa_5QNOt <= V7z_0G) && (Sm28y1n != 1381800003))
+if ((RFa_5QNOt <= V7z_0G) && (true))
 {
 switch (LHiDB)
 {

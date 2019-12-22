@@ -177,7 +177,7 @@ catch (int& errorCode)
 xz3wOe8dPi = dybKY - 138663890;
 }
 }
-else if (QA8AK9h6 < -62471984)
+else if (false)
 {
 switch (UoZFJH5xt)
 {
@@ -234,7 +234,7 @@ else
 {
 for (int j = 3; j >= 0; j--)
 {
-if (((j5rZ9D7in < K7fF1lw) || (Eeq1URd0y7 <= hp59)) && ((m9cSVRZHq >= 1986592524) || (T1_Dt3L == VmThFKR)))
+if (((j5rZ9D7in < K7fF1lw) || (Eeq1URd0y7 <= hp59)) && ((m9cSVRZHq >= 1986592524) || (false)))
 {
 Q84L %= n3X3d;
 }

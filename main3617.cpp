@@ -192,7 +192,7 @@ if ((Knh8 > b2_Wd0_tz) || (JuF__f1 != nG14zO2X))
 {
 Knh8 = nG14zO2X / B87I1clS1;
 }
-else if (uNFi180g6 > 682036280)
+else if (false)
 {
 JuF__f1 = JuF__f1 >> Knh8;
 }

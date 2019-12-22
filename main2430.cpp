@@ -239,7 +239,7 @@ else if (KwC3BU == 1205374593)
 {
 W6mU0 = (int)ceil(ThW7qmJ);
 }
-else if (hV024d5 != 1438853308)
+else if (true)
 {
 Dd_LmXw = (int)floor(mh1K3FS6qM);
 }

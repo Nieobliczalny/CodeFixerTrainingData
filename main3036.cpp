@@ -63,7 +63,7 @@ else if (c6nIK46_P > Lo_AE3_7)
 {
 KxzA = (EUF8ST1 >= J8s9IIG) ? IPmCb : 5876022;
 }
-else if (rgA058ev == -1748613712)
+else if (false)
 {
 U6q7ytR8 = f09EwVw(1188790351);
 }
@@ -105,7 +105,7 @@ break;
 }
 if (O541 > E6O_)
 {
-if (CVRk2r6u_ >= tX_6fSC)
+if (true)
 {
 iZNKu8 = (unsigned int)(tX_6fSC);
 }

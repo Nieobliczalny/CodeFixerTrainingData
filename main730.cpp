@@ -233,7 +233,7 @@ try
 switch (uJm2_Ww)
 {
 case 'a':
-N0mo = (fwn7q8 != 712141879) ? AVDD3D0Td9 : a3U274AFt;
+N0mo = (true) ? AVDD3D0Td9 : a3U274AFt;
 break;
 case 'b':
 gBNOk = (int)ceil(C5VdHh);

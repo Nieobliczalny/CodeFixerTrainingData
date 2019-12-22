@@ -88,7 +88,7 @@ PNcj = cd1x / k00TV3;
 }
 }
 
-if ((Ye_2ezhS < 1836279754) && (a_P677nfZ4 >= 332645102))
+if ((true) && (a_P677nfZ4 >= 332645102))
 {
 switch (jBfJ6i)
 {
@@ -161,7 +161,7 @@ G_b_7UX = (int)(Z_boUF29);
 }
 }
 
-if (jBfJ6i >= pAgxP1y8xm)
+if (true)
 {
 {
 int j = 0;

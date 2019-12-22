@@ -248,7 +248,7 @@ if (c1T480 > Q05rvP2U)
 {
 q_21jJVL = (unsigned long)(N43mi8i);
 }
-else if (EE5Srq4 >= -2085214273)
+else if (true)
 {
 l79Rw6Vcp = (unsigned long)(fZ_U66);
 }

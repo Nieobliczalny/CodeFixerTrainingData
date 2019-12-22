@@ -133,7 +133,7 @@ for (int k = 0; k < 6; k++)
 K7OEEtfOLG ^= 827338016;
 }
 }
-else if (TO6gtf1g6 > 1680939673)
+else if (false)
 {
 if ((V9_40uySs2 < k1zJ43ruf) || (tR40w == -1438804512))
 {
@@ -254,7 +254,7 @@ tR40w = u06B6t6uX_(tR40w, -2057496010, ugN_9fZ8, 1412482408);
 }
 }
 }
-else if ((s__O0y != 1831760889) || (FxL3C5cVSO > 1917152059))
+else if ((true) || (FxL3C5cVSO > 1917152059))
 {
 for (int k = 0; k < 4; k++)
 {

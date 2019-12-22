@@ -20,7 +20,7 @@ int main(void)
  unsigned long long v_RYGdz7Cy = 0, qbu1f57_ = 0, j0kb0 = 0;
 
 IJIKMbhr = -1614474339 / j0kb0;
-if (zI9e <= -1984414401)
+if (false)
 {
 std::cout << nZ0123N1 << "rHOT" << dpF98hy7(-2075769232, 467885001, 573220883) << std::endl;
 }
@@ -42,7 +42,7 @@ else
 qbu1f57_ = dpF98hy7(DuB5FICsd, T9e15pA, 1829891368);
 }
 }
-else if (((Sjz4 != -1897243314) && (pjO7 > ugtJnN0T6q)) || ((zI9e & KsTYx2A37) && (hhLFN_Z < -1942325183)))
+else if (((true) && (pjO7 > ugtJnN0T6q)) || ((zI9e & KsTYx2A37) && (hhLFN_Z < -1942325183)))
 {
 if (KsTYx2A37 >= 1709821561)
 {
@@ -100,7 +100,7 @@ break;
 }
 else if (FB5lSPxV_3 <= nZ0123N1)
 {
-if ((ugtJnN0T6q < -58870201) && ((j0kb0 > 594506443) || (pv7g5t >= 615742463)))
+if ((false) && ((j0kb0 > 594506443) || (pv7g5t >= 615742463)))
 {
 if ((Pqr_ITq4h_ & eEI9) || (IJIKMbhr & pjO7))
 {
@@ -125,7 +125,7 @@ catch (int& errorCode)
 s732 *= 1498542371;
 }
 }
-else if (s732 < 2087624026)
+else if (true)
 {
 switch (K7H1n3JkiQ)
 {

@@ -43,7 +43,7 @@ int main(void)
 
 for (int i = 10; i >= 0; i--)
 {
-if (j1EOSJwMp <= -982568962)
+if (false)
 {
 switch (PnesAC_N)
 {
@@ -119,7 +119,7 @@ r005zyp3T >>= 1473705603;
 }
 }
 j1EOSJwMp = (int)abs(P70T) + (351383347);
-if (zDb5lP00 == 564883077)
+if (false)
 {
 sV6Io09 = (int)abs(r005zyp3T);
 }
@@ -140,7 +140,7 @@ else if (sV6Io09 >= zDb5lP00)
 {
 cout << P70T << k40nj(zDb5lP00) << UGwMzh() << k40nj(zDb5lP00) << "JcHP6v34" << endl;
 }
-else if (sV6Io09 <= 1766024471)
+else if (true)
 {
 {
 int k = 0;
@@ -158,7 +158,7 @@ for (int k = 0; k < 8; k++)
 Sv5r ^= 460973943;
 }
 }
-else if (((zDb5lP00) || (PnesAC_N >= -112320629)) && ((P70T == 917126832) || (zDb5lP00 > -1445013464)))
+else if (((zDb5lP00) || (PnesAC_N >= -112320629)) && ((P70T == 917126832) || (true)))
 {
 if (sV6Io09 < 1619050470)
 {
@@ -169,7 +169,7 @@ else
 RFf74E_ = P70T >> 2029688509;
 }
 }
-else if (j1EOSJwMp <= -248334948)
+else if (false)
 {
 cout << "Z5ta1" << "dvUz" << A8FuA1V4c << oY1lnv86() << endl;
 }
@@ -246,7 +246,7 @@ else
 bFW_4pzz0 = oY1lnv86();
 }
 
-if (zDb5lP00 < -2095611763)
+if (false)
 {
 if (j1EOSJwMp < RFf74E_)
 {

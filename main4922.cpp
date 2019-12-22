@@ -54,7 +54,7 @@ Q40o9sZ = T6lPCaEEjV(1076111108, -414585230, m60DP, 1336834791);
 while (k < 1);
 }
 }
-else if (t8s99_D9U >= 1927383472)
+else if (false)
 {
 for (int k = 5; k >= 0; k--)
 {

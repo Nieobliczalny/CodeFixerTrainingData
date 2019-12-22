@@ -240,7 +240,7 @@ if ((iTv0fd2 > pka2XP5jG) || ((K3AuDh0N < adTMcyA8_4) || (iTv0fd2 != b3y3Oq)))
 {
 b3y3Oq = Ze78_o6O(-1588240179, GKSD6U649E, 801045753);
 }
-else if (iTv0fd2 > adTMcyA8_4)
+else if (false)
 {
 b3y3Oq = Ze78_o6O(RBHnc1kcCY, b3y3Oq, GKSD6U649E);
 }

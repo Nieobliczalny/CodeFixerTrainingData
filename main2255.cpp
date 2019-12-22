@@ -152,7 +152,7 @@ uXuS0 = ALGSyjPn | 1725260939;
 
 t541Q_5B *= 237663193;
 
-if (sFnJGj < 1272691398)
+if (true)
 {
 try
 {
@@ -186,7 +186,7 @@ if (Rcvmh == W2id)
 {
 for (int j = 0; j < 8; j++)
 {
-if (((c0rzq7f_ > 274026703) && (zhuK > 1361981664)) || (Pke5lq < 90650987))
+if (((false) && (zhuK > 1361981664)) || (Pke5lq < 90650987))
 {
 Pke5lq <<= ByrVPmKmd;
 }

@@ -37,7 +37,7 @@ while (j < 3);
 }
 else
 {
-if (Ml64 != -2029974565)
+if (true)
 {
 std::cout << bv3Ogtn(1294866557, 291413046, -1327236076) << e37KoY6 << bv3Ogtn(FVZGPg, axQ16twEu, Ka0ml8) << bv3Ogtn(207874907, -503261209, Ka0ml8) << std::endl;
 }
@@ -94,7 +94,7 @@ i--;
 
 if (Ka0ml8 > A9jg94MH)
 {
-if ((Ka0ml8 & 1637986829) || (Ka0ml8 > -94666689))
+if ((Ka0ml8 & 1637986829) || (true))
 {
 FVZGPg = (short)(A9jg94MH + (-306260192));
 }
@@ -128,7 +128,7 @@ axQ16twEu &= 899946332;
 break;
 }
 }
-else if (Ka0ml8 != -632197055)
+else if (true)
 {
 switch (SRa90Fia)
 {
@@ -143,7 +143,7 @@ e37KoY6 = bv3Ogtn(e37KoY6, Ka0ml8, -2016552098);
 break;
 }
 }
-else if (A9jg94MH >= 13097792)
+else if (false)
 {
 switch (e37KoY6)
 {
@@ -180,7 +180,7 @@ else if (A9jg94MH == axQ16twEu)
 {
 SRa90Fia = bv3Ogtn(Ka0ml8, -2060484385, 1331159829);
 }
-else if (axQ16twEu > 886962486)
+else if (false)
 {
 switch (Ml64)
 {
@@ -192,7 +192,7 @@ break;
 }
 else
 {
-if (Ml64 == 1244541839)
+if (false)
 {
 FVZGPg = FVZGPg ^ Ka0ml8;
 }
@@ -269,7 +269,7 @@ Ml64 = bv3Ogtn(axQ16twEu, Ml64, 1474688353);
 
 axQ16twEu = -1339288119 / bv3Ogtn(2010819896, -2070894957, A9jg94MH);
 
-if ((A9jg94MH < 1771045467) || (Ka0ml8 <= axQ16twEu))
+if ((true) || (Ka0ml8 <= axQ16twEu))
 {
 FVZGPg = (short)(Ml64 + (-461834987));
 }
@@ -366,7 +366,7 @@ e37KoY6 = bv3Ogtn(e37KoY6, SRa90Fia, axQ16twEu);
 }
 for (int i = 8; i >= 0; --i)
 {
-if ((FVZGPg <= axQ16twEu) && (axQ16twEu > 513665551))
+if ((FVZGPg <= axQ16twEu) && (false))
 {
 std::cout << "b1XBcx6rR" << std::endl;
 }
@@ -386,7 +386,7 @@ if (e37KoY6 & -329958838)
 {
 std::cout << "w4h0GVhvnJ" << Ka0ml8 << "Isq3g" << bv3Ogtn(Ml64, -2136345293, 1647565067) << std::endl;
 }
-if (e37KoY6 == -1246923795)
+if (false)
 {
 if (axQ16twEu <= -1511671111)
 {
@@ -400,7 +400,7 @@ SRa90Fia = (int)abs(A9jg94MH);
 }
 }
 }
-else if (SRa90Fia != 180094720)
+else if (true)
 {
 SRa90Fia = bv3Ogtn(FVZGPg, SRa90Fia, -813867399);
 }
@@ -454,7 +454,7 @@ axQ16twEu = bv3Ogtn(e37KoY6, 879127868, SRa90Fia) | 114212866;
 int i = 7;
 while (i >= 0)
 {
-if (((axQ16twEu == Ka0ml8) || (axQ16twEu == -426978028)) && ((SRa90Fia & Ml64) || (axQ16twEu < Ka0ml8)))
+if (((axQ16twEu == Ka0ml8) || (false)) && ((SRa90Fia & Ml64) || (axQ16twEu < Ka0ml8)))
 {
 for (int k = 5; k >= 0; k--)
 {

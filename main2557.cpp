@@ -112,7 +112,7 @@ int main(void) {
 	short	Wr9g	=	-1038427874;
     short int    x4Y_TXt7T    =    -2126032628;
 
-if (b1UFaNnQg < 1565832039)
+if (true)
 {
 std::cout << b8sEuBoDVr(wyY2M6Q5__, -622276414, -1347334147, VCCn1z77) << "M33IbQ" << b8sEuBoDVr(wyY2M6Q5__, IOjqnA2t2, cUb1, 1426519297) << "j090AIRGh" << b8sEuBoDVr(wyY2M6Q5__, 2113923211, cUb1, 6374298) << std::endl;
 }
@@ -177,7 +177,7 @@ else
 G4N17 = (int)floor(Iu6SC3Y);
 }
 }
-else if ((V3wkk_Y5 & SVvPp) && ((o6BY6G == 147694490) && (KYvqZ_ != -1467819541)))
+else if ((V3wkk_Y5 & SVvPp) && ((o6BY6G == 147694490) && (true)))
 {
 {
 int k = 4;
@@ -189,7 +189,7 @@ k--;
 while (k >= 0);
 }
 }
-else if ((ci87hl6B != ZS80PaT595) && (LWp8 != -997741391))
+else if ((ci87hl6B != ZS80PaT595) && (true))
 {
 if (J52QMw8e & NFd79_n8)
 {
@@ -199,7 +199,7 @@ else if ((dU9MU5 < 710443567) || (VD6KKQ_ >= SVvPp))
 {
 LWp8 = (int)abs(cUb1);
 }
-else if ((dU9MU5 != cUb1) && (rSQ_b_wA6 < H7p__g_MfC))
+else if ((dU9MU5 != cUb1) && (false))
 {
 l04hwh = b8sEuBoDVr(PN16L7AT9Q, 686381707, -2084906561, BvlovA_);
 }
@@ -282,7 +282,7 @@ ZUKa = HCymQhZvb - 1812214993;
 int i = 5;
 while (i >= 0)
 {
-if (((UB8D8quPr3) || (o6BY6G & -954791974)) || ((QYMS) && (iTI0pp70W <= 2019029565)))
+if (((UB8D8quPr3) || (o6BY6G & -954791974)) || ((QYMS) && (true)))
 {
 std::cout << b8sEuBoDVr(ci87hl6B, -1957319367, 1481481507, -1809782932) << "nN0N" << "in189" << b8sEuBoDVr(ci87hl6B, J52QMw8e, -1663744434, w91J85) << std::endl;
 }
@@ -361,7 +361,7 @@ int j = 10;
 while (j >= 0)
 {
 --j;
-if (z_6A6 >= 472349035)
+if (false)
 {
 wPVD = QQVd9C | 542050236;
 }
@@ -450,7 +450,7 @@ BvlovA_ = (int)ceil(ci87hl6B);
 }
 std::cout << b8sEuBoDVr(hJAV3, InEo, LWp8, 1724772391) << njV12x << b8sEuBoDVr(-346215365, InEo, 2128744385, 894293592) << std::endl;
 
-if (QA37y3rY1E != 1091733719)
+if (true)
 {
 std::cout << g4uKYYo << b8sEuBoDVr(hJAV3, -1649910768, LWp8, 1265412466) << "ePJe1k53G" << "u25c4_9J" << xXQk << std::endl;
 }
@@ -460,7 +460,7 @@ std::cout << BvlovA_ << "pm62e_H" << std::endl;
 }
 Om02N4gQ = (int)ceil(UoIU1bUOnZ);
 
-if (((hSbk8kq >= -124016167) && (BvlovA_ >= -634821312)) || ((R04hG0D3Y4 <= 487272034) && (Iu6SC3Y)))
+if (((true) && (BvlovA_ >= -634821312)) || ((R04hG0D3Y4 <= 487272034) && (Iu6SC3Y)))
 {
 DY3abUg9X = b8sEuBoDVr(fv_m0E, 1979239814, ail_a73j29, -644565605);
 }

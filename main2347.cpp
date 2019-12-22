@@ -242,7 +242,7 @@ if (eo1lN)
 {
 aOKQAvU7Dn = (int)abs(ECe2LA_3w);
 }
-else if (FQca >= h7Nb12p_)
+else if (true)
 {
 qfJLo = p6L6_4(qfJLo);
 }
@@ -258,7 +258,7 @@ t03yXo = AV_piue();
 }
 else
 {
-if (qfJLo == 201866923)
+if (false)
 {
 Jcu_0 = (short int)(TT1W6 + (K6nhfzhW6));
 }
@@ -268,7 +268,7 @@ Gw94 = (int)floor(pfzQ);
 }
 else
 {
-if (dw9mX < ZMS0bt344)
+if (true)
 {
 x38Po7Ou6 = p6L6_4(-866348503);
 }

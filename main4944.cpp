@@ -130,7 +130,7 @@ std::cout << NhVGpkduZ1(-1402466361, 1226198382) << "EMYT8Oq5i" << "I5_L" << PQ8
 
 try
 {
-if (J6988I6IX5 != -860124024)
+if (true)
 {
 {
 int k = 0;

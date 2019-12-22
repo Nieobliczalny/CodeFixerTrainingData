@@ -180,7 +180,7 @@ int i = 3;
 do
 {
 --i;
-if (G1ion268 == -711886339)
+if (false)
 {
 switch (Cxq0)
 {
@@ -266,7 +266,7 @@ i859 &= yk6g_9dt_;
 }
 }
 
-if (dEyrnP != XP8__)
+if (true)
 {
 Bxm9b = (int)ceil(g67ZvCT0C9);
 }
@@ -330,7 +330,7 @@ int i = 9;
 while (i >= 0)
 {
 --i;
-if (rMpKlnPm5Y == gq1q)
+if (false)
 {
 if (gLdOG_ == pef_s)
 {
@@ -340,7 +340,7 @@ else if (Bxm9b > Y5wi)
 {
 mL9xY++;
 }
-else if (rMpKlnPm5Y == XP8__)
+else if (false)
 {
 F4tlsX = l1g3X_1a7_(1325776137);
 }
@@ -361,7 +361,7 @@ else if (fYgg >= cfth)
 {
 mL9xY = a6g2(1109251120, ti32d1833);
 }
-else if ((T_9DMGm != X2XV43) && (F4tlsX != 788518421))
+else if ((T_9DMGm != X2XV43) && (true))
 {
 for (int k = 0; k < 5; ++k)
 {
@@ -487,7 +487,7 @@ G1ion268 = y5dG_z();
 break;
 }
 
-if (rMpKlnPm5Y > gq1q)
+if (false)
 {
 if (NJpvaO4 & XP8__)
 {
@@ -560,7 +560,7 @@ else
 std::cout << yk6g_9dt_ << "Kf6P17" << a6g2(BRYNaI_, -407983258) << h5vm4zMf << h5vm4zMf << std::endl;
 }
 }
-else if ((hj3L6A <= XP8__) && (rTm3))
+else if ((true) && (rTm3))
 {
 {
 int j = 0;
@@ -584,7 +584,7 @@ Ka3K7xyK ^= 658017209;
 }
 else
 {
-if (PEvw4B_ > X2XV43)
+if (false)
 {
 n15PVQrhIG = XP8__ - 1664208678;
 }
@@ -633,7 +633,7 @@ Bxm9b = UNx8S2_2 * G0s5P0I;
 break;
 }
 }
-else if (((QT4_a13 != -1488982019) || (PEvw4B_ >= f22Sxh)) && (dEyrnP < 213738707))
+else if (((true) || (PEvw4B_ >= f22Sxh)) && (dEyrnP < 213738707))
 {
 cfth = (unsigned long)(XfmT);
 }

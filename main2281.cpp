@@ -133,7 +133,7 @@ T9W1Ie = (int)abs(ufr5);
 
 CS66 |= 1798584077;
 
-if (T3lqNyCiz > 1104217919)
+if (false)
 {
 if (XcCNgv7rZ)
 {
@@ -197,7 +197,7 @@ CS66 ^= jL1b5;
 break;
 case 'f':
 case 'F':
-B7QfgT = (p50M111k >= gxHTQRA) ? 1399805623 : Biv1(-82501502, Qa8K, -425734967, -1055310664, jL1b5);
+B7QfgT = (false) ? 1399805623 : Biv1(-82501502, Qa8K, -425734967, -1055310664, jL1b5);
 break;
 default:
 U3y0r = um8e3G(Y04u, -248416229, -2015900573);
@@ -240,7 +240,7 @@ catch (int& errorCode)
 {
 cGBjLUd0 = A5nR03_(cGBjLUd0);
 }
-if (gH52ou < OwTV6Tyi)
+if (true)
 {
 {
 int j = 3;
@@ -272,7 +272,7 @@ if ((NgTtWK) && (P6_NB <= tG9j1wExt))
 {
 w7Us = Biv1(-42460232, Raq78lhtk, n94Z6E, r0V3p92, -1075761076);
 }
-else if (U3y0r == -95245520)
+else if (false)
 {
 {
 int j = 0;
@@ -369,7 +369,7 @@ int i = 6;
 while (i >= 0)
 {
 --i;
-if (((cfJ0_bTIE == NnMu_) || (tuj_gVL8 < gScK)) || ((Fxy05H9 == CS66) || (ubwm_GK0 == gxHTQRA)))
+if (((cfJ0_bTIE == NnMu_) || (tuj_gVL8 < gScK)) || ((Fxy05H9 == CS66) || (false)))
 {
 {
 int k = 2;
@@ -407,7 +407,7 @@ while (i >= 0);
 int i = 0;
 do
 {
-if ((ZJ9_OGQ == Y2cgnuja) || ((l_6C8H1OtE >= 975211895) && (gVt89y)))
+if ((ZJ9_OGQ == Y2cgnuja) || ((false) && (gVt89y)))
 {
 i7a_4v4 %= HD8p5i93s;
 }
@@ -422,7 +422,7 @@ l_A_m0 = E5sZPIKws0 / VKMhju;
 
 HD8p5i93s = A5nR03_(1145072929);
 
-if ((XcCNgv7rZ > NSJyC) || (IJxES8LNO2 <= NSJyC))
+if ((true) || (IJxES8LNO2 <= NSJyC))
 {
 try
 {
@@ -440,7 +440,7 @@ catch (int& errorCode)
 U3y0r = (int)abs(eFK4lYM57p);
 }
 }
-else if ((Wvrx <= gxHTQRA) || (wUB_iVJ7 == r0V3p92))
+else if ((true) || (wUB_iVJ7 == r0V3p92))
 {
 KY1k = (short int)(w7Us);
 }
@@ -464,7 +464,7 @@ bufp = ubwm_GK0 * e_phrd;
 }
 else if (NVH_Rp9Pgn < a2F8X56X4e)
 {
-if (ZJ9_OGQ > -982348963)
+if (true)
 {
 if (((zE71Mh19 < r6gM) && (pPN59_ < SVp_Zyj4G_)) || ((wfyH82) || (ZJ9_OGQ > l_6C8H1OtE)))
 {
@@ -476,7 +476,7 @@ else
 qn8Gj681 = qQr2ofe + 324340977;
 }
 }
-else if (qn8Gj681 > 1785553696)
+else if (false)
 {
 if (wfyH82 > gScK)
 {
@@ -519,7 +519,7 @@ break;
 }
 }
 }
-else if (Y04u > -1262196193)
+else if (true)
 {
 {
 int j = 0;

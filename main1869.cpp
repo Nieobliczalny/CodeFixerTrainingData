@@ -52,7 +52,7 @@ int i = 7;
 do
 {
 i--;
-if (TuY52Piu6 <= 689050096)
+if (true)
 {
 if ((woDSfjm >= -1930474014) && ((txvesIPI2S > -1447964927) && (e0zSLa1 != 692336227)))
 {
@@ -78,7 +78,7 @@ if (ji7fpFq & l30vme7_)
 {
 E0G72CX1K >>= 804312472;
 }
-if ((uWYD9ni406 == -382314421) && (D8nq <= vhJC_C3U))
+if ((false) && (D8nq <= vhJC_C3U))
 {
 SXMM4j0c = BeMR(gSx62ik, woDSfjm, M9QW);
 }
@@ -105,7 +105,7 @@ j++;
 }
 }
 }
-else if (((xt5BXhyV == zwqFPWcy) || (Bw3iD4_ <= PPMcz1jiZJ)) || (mGL5c > -212524942))
+else if (((xt5BXhyV == zwqFPWcy) || (Bw3iD4_ <= PPMcz1jiZJ)) || (true))
 {
 for (int j = 0; j < 6; ++j)
 {
@@ -117,7 +117,7 @@ else if (((P_4s6wP919 < -203284656) || (vhJC_C3U != -529858348)) && (PPMcz1jiZJ)
 {
 uWYD9ni406 = TF506rB1Lc(uWYD9ni406, 381217341, -2013665667, McW8kt4Nr, f74x);
 }
-else if (((gG7w70X >= pni41J2s2) && (q_11CJ >= -1862500518)) && ((McW8kt4Nr >= gG7w70X) || (n_Qf95 > 1581459271)))
+else if (((gG7w70X >= pni41J2s2) && (true)) && ((McW8kt4Nr >= gG7w70X) || (n_Qf95 > 1581459271)))
 {
 McW8kt4Nr = (int)abs(gSx62ik);
 }
@@ -147,7 +147,7 @@ if (eTX8 <= q_11CJ)
 {
 oz8u = TF506rB1Lc(ddM2nni, -2070342365, Bw3iD4_, eS42wY, 631303858);
 }
-else if (a_T8 == -1897311885)
+else if (false)
 {
 j2U2p2PWO8 = TF506rB1Lc(j2U2p2PWO8, a_T8, 826153898, m19duxNdN, B1kb2);
 }
@@ -159,7 +159,7 @@ else if (M9QW <= Bw3iD4_)
 {
 P_4s6wP919 = vHA__BD | 786147568;
 }
-else if ((zwqFPWcy <= M4__2eaM1i) || ((eS42wY <= 1984662521) && (oA0mlAA == B1kb2)))
+else if ((zwqFPWcy <= M4__2eaM1i) || ((true) && (oA0mlAA == B1kb2)))
 {
 N1C2Pd7_ = (vHA__BD) ? Du3P4 : TF506rB1Lc(-93681837, j38Ag8P, B1kb2, xt5BXhyV, -262268751);
 }
@@ -174,7 +174,7 @@ B1kb2 = RL_3l ^ 729087464;
 }
 else
 {
-if (icFU6q < -1333102343)
+if (false)
 {
 Q6bh <<= 455770758;
 }
@@ -220,7 +220,7 @@ if (((pni41J2s2 <= P_4s6wP919) && (EJ17E6T_z)) && (uYjvl))
 {
 ddM2nni = BeMR(-677377990, -599228237, fUBY_8);
 }
-else if ((TQ6c8 != pni41J2s2) || (dq6r > 2092180652))
+else if ((TQ6c8 != pni41J2s2) || (false))
 {
 m19duxNdN = TF506rB1Lc(-78936146, -1151389916, EJ17E6T_z, Du3P4, 425181030);
 }
@@ -281,7 +281,7 @@ a_T8 = -497235988 / Muy38H4555;
 sNJW5 >>= 1035675434;
 
 McW8kt4Nr = (short)(FSXDFBnH9);
-if (f2Ib45Q2O >= 377684804)
+if (false)
 {
 std::cout << "mrO1a9" << q_11CJ << f74x << "c72Fr7PG67" << e0zSLa1 << std::endl;
 }

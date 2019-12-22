@@ -117,7 +117,7 @@ catch (int& errorCode)
 {
 FwI7R ^= 599746951;
 }
-if (((mcXZy6BF7 >= -1315556210) && (Q_Vb9 == 603896296)) && (urOc_9yhc))
+if (((true) && (Q_Vb9 == 603896296)) && (urOc_9yhc))
 {
 try
 {

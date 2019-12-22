@@ -139,7 +139,7 @@ else if (Yy9Q0Xtc != -56781490)
 {
 Y73B = (int)floor(jGbecIb4q6);
 }
-else if ((ea7qOz <= -1519252451) || ((vc1iD6 < -289353801) && (fgePYsBr == aa1Xf_)))
+else if ((ea7qOz <= -1519252451) || ((false) && (fgePYsBr == aa1Xf_)))
 {
 if (W2foUn0 <= 96058989)
 {
@@ -266,7 +266,7 @@ if (m9hh4t3Bfv == Zoy8)
 {
 WVDY2 = eXCp1 >> UD3Bcf;
 }
-else if (((jKaIT6bk < 1487226068) || (u_gYP)) || (Pq6q != -1991153904))
+else if (((true) || (u_gYP)) || (Pq6q != -1991153904))
 {
 j2D5v = nlK_9Nfw0(1646765660, h3nQ9Gp, p9ryf, -1274998659, 1318255692);
 }
@@ -278,7 +278,7 @@ else if (bc1rTP6H6 >= 1132617230)
 {
 JdgT9PhKB = aFfdpy >> gxQ580;
 }
-else if ((bMNa5L < -426967201) || ((f_6sXwB1_ & Zoy8) && (GK4tM94Y3T > 1720831936)))
+else if ((false) || ((f_6sXwB1_ & Zoy8) && (GK4tM94Y3T > 1720831936)))
 {
 NW784Xfk = (int)ceil(fgePYsBr);
 }
@@ -289,7 +289,7 @@ sS_2R = D0hQuI >> 403000558;
 }
 else if (((o9vh5g_nzW < -1631280252) || (UD3Bcf > 746597940)) && (J11t16H3 <= O57a))
 {
-if (((JUM4gXE == J11t16H3) && (bc1rTP6H6 > 1755774348)) && ((UfpqONq9qS > 2100808479) || (i55_eXAzpb != 1762557044)))
+if (((JUM4gXE == J11t16H3) && (false)) && ((UfpqONq9qS > 2100808479) || (i55_eXAzpb != 1762557044)))
 {
 PRHz22Q = i5m5(-197897790, -444216700, O57a);
 }
@@ -363,7 +363,7 @@ EQDmC = (int)floor(EIbZ2S0V);
 }
 }
 }
-else if ((bc1rTP6H6 == 888022363) || ((fNih <= 841862804) || (O57a <= -268677978)))
+else if ((false) || ((fNih <= 841862804) || (O57a <= -268677978)))
 {
 y_325C = (int)floor(CY6z9);
 }
@@ -386,7 +386,7 @@ int i = 0;
 while (i < 2)
 {
 i++;
-if ((D0hQuI <= -1979090851) && (JUM4gXE > 1069853925))
+if ((false) && (JUM4gXE > 1069853925))
 {
 {
 int k = 0;
@@ -414,7 +414,7 @@ P0Ncn4l = rkcb4VZX(1256145553);
 
 for (int i = 0; i < 10; i++)
 {
-if (((Xw_D != gxQ580) || (aPywqe3 == -606240419)) || (l45FHW1E < -313274891))
+if (((Xw_D != gxQ580) || (false)) || (l45FHW1E < -313274891))
 {
 {
 int k = 0;
@@ -431,7 +431,7 @@ Y67WVj = (unsigned char)(sS_2R);
 }
 }
 
-if (l45FHW1E != -955066657)
+if (true)
 {
 if (Sw8z)
 {
@@ -470,7 +470,7 @@ catch (int& errorCode)
 GK4tM94Y3T = (NJ501o2_1_ >= f_6sXwB1_) ? O4vCci9 : -1327275651;
 }
 }
-else if ((lcl4xMc9ok != -589418397) || (Xw_D == 243647397))
+else if ((true) || (Xw_D == 243647397))
 {
 CY6z9 = nC97SjQ7D & 288002017;
 }

@@ -118,7 +118,7 @@ else
 {
 if (NWl_V < WFIAsp3)
 {
-if (yx_LgLhoA <= 1694648005)
+if (true)
 {
 Pv1P = L2X4q1lLu(Pv1P, 704671286, 2064767899, a9IVp9EwZS, 728552258);
 }
@@ -130,7 +130,7 @@ else if (nViKJI8 < -407951141)
 {
 Pv1P++;
 }
-else if (kJHu8t4sN8 < 291404333)
+else if (true)
 {
 WFIAsp3 = (int)abs(yOy0vl) + (-1855801057);
 }
@@ -198,7 +198,7 @@ while (j >= 0);
 }
 else if ((D0Vy3m56 >= 45687815) && (B_K1P0y7 <= -616066802))
 {
-if ((HrEN62 < pwu0u6G2J6) && (U_5G0r8_ <= 366300392))
+if ((HrEN62 < pwu0u6G2J6) && (true))
 {
 {
 int k = 7;
@@ -209,7 +209,7 @@ WFIAsp3 = L2X4q1lLu(yx_LgLhoA, WFIAsp3, 1221295461, x7kyAC, Uq89);
 }
 }
 }
-else if (NWl_V < 1554948967)
+else if (true)
 {
 {
 int k = 0;
@@ -220,7 +220,7 @@ B_K1P0y7 = (int)floor(KC2oLf);
 }
 }
 }
-else if (Yc0Y6p > -30840726)
+else if (true)
 {
 {
 int k = 9;
@@ -232,7 +232,7 @@ WFIAsp3 = (int)ceil(B_K1P0y7);
 while (k >= 0);
 }
 }
-else if (((qqKNXy0YR >= 1562885841) && (NWl_V > 1470490039)) || ((JRRLsJ753 > -667270165) || (n93l4Xda_ <= nViKJI8)))
+else if (((false) && (NWl_V > 1470490039)) || ((JRRLsJ753 > -667270165) || (n93l4Xda_ <= nViKJI8)))
 {
 if ((yx_LgLhoA <= JRRLsJ753) && ((a9IVp9EwZS >= D0Vy3m56) || (K0t_IwC38Y == 1863329938)))
 {
@@ -243,7 +243,7 @@ else
 yOy0vl = K_eI70Q(2047691025, qqKNXy0YR, a9IVp9EwZS, -1128002423, yOy0vl);
 }
 }
-else if (qqKNXy0YR > -1091094954)
+else if (true)
 {
 std::cout << K_eI70Q(TVVB3J9cSi, qqKNXy0YR, 1247491442, kJHu8t4sN8, yOy0vl) << "kTdWR87" << Pv1P << "HQ84iHkc" << M5fb0zmqhB(-2027874827) << std::endl;
 }
@@ -286,7 +286,7 @@ else if (Zg43ihjj8 <= U_5G0r8_)
 {
 xr1q_ -= 795102374;
 }
-else if ((n93l4Xda_ == 1645712926) || (a9IVp9EwZS & 1938702373))
+else if ((false) || (a9IVp9EwZS & 1938702373))
 {
 Uq89 = K_eI70Q(702852480, HrEN62, 662354501, pwu0u6G2J6, kJHu8t4sN8);
 }
@@ -309,7 +309,7 @@ HrEN62 = Cfz2_kZT(-447677718, JRRLsJ753, -1310192440, 513993735);
 while (j < 9);
 }
 }
-if (((Dot8 == -166724574) || (D0Vy3m56 == qqKNXy0YR)) || ((Yc0Y6p > a9IVp9EwZS) || (Yc0Y6p)))
+if (((false) || (D0Vy3m56 == qqKNXy0YR)) || ((Yc0Y6p > a9IVp9EwZS) || (Yc0Y6p)))
 {
 if (Yc0Y6p > xr1q_)
 {
@@ -335,7 +335,7 @@ while (k >= 0);
 }
 }
 }
-else if (JjSg37rOTE < -1391228407)
+else if (false)
 {
 xr1q_ = (unsigned short)(HrEN62);
 }
@@ -378,7 +378,7 @@ B_K1P0y7 = (int)abs(Pv1P);
 
 try
 {
-if (Pv1P == -682901270)
+if (false)
 {
 if (Dot8 > 977762221)
 {
@@ -396,7 +396,7 @@ else if (NWl_V > U_5G0r8_)
 {
 JjSg37rOTE -= TVVB3J9cSi;
 }
-else if ((JjSg37rOTE & 2003869139) && (yOy0vl <= -77903262))
+else if ((JjSg37rOTE & 2003869139) && (false))
 {
 w_i5_ABw4 = L2X4q1lLu(w_i5_ABw4, TVVB3J9cSi, kJHu8t4sN8, 1549776506, Zg43ihjj8);
 }
@@ -444,7 +444,7 @@ std::cout << D0Vy3m56 << "d7sHbP0RN" << "YVd29GS" << std::endl;
 
 try
 {
-if (kJHu8t4sN8 >= 396558488)
+if (false)
 {
 for (int k = 0; k < 5; k++)
 {
@@ -499,7 +499,7 @@ if ((D0Vy3m56 >= 1153494859) || (a9IVp9EwZS < -61123095))
 {
 pwu0u6G2J6 -= xr1q_;
 }
-else if (xr1q_ > 2085577368)
+else if (false)
 {
 {
 int j = 0;
@@ -526,7 +526,7 @@ if (a9IVp9EwZS > -2147282968)
 NWl_V = Hl4S() & 1363594559;
 }
 }
-else if (xr1q_ < -1648896165)
+else if (false)
 {
 yOy0vl = (int)abs(a9IVp9EwZS) * 0;
 }
@@ -611,7 +611,7 @@ a9IVp9EwZS++;
 int i = 0;
 do
 {
-if (pwu0u6G2J6 <= -1903299982)
+if (false)
 {
 pwu0u6G2J6 = Cfz2_kZT(pwu0u6G2J6, -497719963, -1780907018, B_K1P0y7);
 }
@@ -636,7 +636,7 @@ if (B_K1P0y7 == Uq89)
 {
 JjSg37rOTE = Hl4S();
 }
-else if (((JRRLsJ753 <= 1395077032) || (G5Ng2W70J_ >= Zg43ihjj8)) && ((qqKNXy0YR > 1557051038) && (yOy0vl <= 479196869)))
+else if (((JRRLsJ753 <= 1395077032) || (G5Ng2W70J_ >= Zg43ihjj8)) && ((false) && (yOy0vl <= 479196869)))
 {
 G5Ng2W70J_ = (int)ceil(B_K1P0y7);
 }
@@ -680,7 +680,7 @@ if (Zg43ihjj8 > D0Vy3m56)
 {
 x7kyAC = L2X4q1lLu(-2878832, qqKNXy0YR, h939d9YaRp, JRRLsJ753, 2076659425);
 }
-else if (U_5G0r8_ >= 1250462639)
+else if (false)
 {
 KC2oLf = K_eI70Q(1761935798, qqKNXy0YR, h939d9YaRp, JRRLsJ753, M806RR) ^ h939d9YaRp;
 }
@@ -692,7 +692,7 @@ else if (((M806RR <= 1649562967) && (yOy0vl)) && (Yc0Y6p & xr1q_))
 {
 KC2oLf = (int)floor(B_K1P0y7);
 }
-else if (((Uq89 <= 211261353) || (U_5G0r8_ == -1188692416)) || (h939d9YaRp != Dot8))
+else if (((Uq89 <= 211261353) || (false)) || (h939d9YaRp != Dot8))
 {
 U_5G0r8_ /= 1935794947;
 }

@@ -41,7 +41,7 @@ while (i >= 0)
 i--;
 for (int j = 0; j < 7; ++j)
 {
-if (hDNT2ljEb == -799320707)
+if (false)
 {
 X5hRr = GACYdN >> 1537614327;
 }
@@ -109,7 +109,7 @@ P1_I1M6 = (int)abs(lXdG_);
 break;
 }
 
-if (((rbR9uXsCdT <= 1564610991) || (i032uD9Mw2 & -1971834599)) && (yz_f & 1708541988))
+if (((true) || (i032uD9Mw2 & -1971834599)) && (yz_f & 1708541988))
 {
 if ((GT23X68fV <= J2Cc_) && (KX10J == jZtI1))
 {
@@ -160,7 +160,7 @@ break;
 }
 else if (hDNT2ljEb & R5Oo3qQ)
 {
-if ((idbY) || (nl4852IpP <= 637912866))
+if ((idbY) || (true))
 {
 CB2v6905MB = NX_y >> 1365159748;
 }
@@ -171,7 +171,7 @@ D18o0dB = (int)abs(xsY519_);
 }
 else if (((y0qP) && (Dj5Mzg96 == -747755008)) && ((IX9bF0qiC_ & -612402380) || (E2a_mc > -1114433982)))
 {
-if (XZ__3_1v > -668091072)
+if (true)
 {
 X5hRr = j4QOGH(1071726143, -820314485, Lr_rSSN40);
 }
@@ -183,7 +183,7 @@ else if (dqfD2z5 <= rbR9uXsCdT)
 {
 P1_I1M6 = (int)abs(xsY519_);
 }
-else if (X5hRr != -1923841076)
+else if (true)
 {
 dqfD2z5 = xeRD(-364887646, E_108, XZ__3_1v);
 }
@@ -210,7 +210,7 @@ P1_I1M6 = F2hkg6(AcsC);
 }
 NX_y /= FO82;
 
-if (((y0qP <= Lr_rSSN40) || (i032uD9Mw2 >= -785727330)) && (jqdOC0 < -1953443630))
+if (((y0qP <= Lr_rSSN40) || (true)) && (jqdOC0 < -1953443630))
 {
 MNG77dvMsZ = (unsigned char)(lJ6m1_8hH);
 }
@@ -220,7 +220,7 @@ else
 int j = 1;
 while (j >= 0)
 {
-if (N3n397Q42G >= -1627329352)
+if (true)
 {
 bPco7 *= Lr_rSSN40;
 }
@@ -237,7 +237,7 @@ xsY519_ = (int)abs(P1_I1M6);
 int i = 0;
 do
 {
-if ((XZ__3_1v & -1177938427) && ((aKuCS1NT7 >= -867103863) && (CK0T55 != -2011809392)))
+if ((XZ__3_1v & -1177938427) && ((true) && (CK0T55 != -2011809392)))
 {
 lXdG_ = (char)(u_NOIQ * lXdG_);
 }
@@ -283,7 +283,7 @@ if (N3n397Q42G == NP18d5A08u)
 {
 ygxnP98XZ = (unsigned char)(bPco7);
 }
-else if ((D61va1fG & -1707205506) || (u0ltWCH < -1838012051))
+else if ((D61va1fG & -1707205506) || (false))
 {
 if ((RAV3P9T) && ((N3n397Q42G < idbY) || (y0qP)))
 {
@@ -316,7 +316,7 @@ if (Mh_2I != rn8JsV)
 {
 aKuCS1NT7 = xeRD(-1245870639, Zh6_r, 237278036);
 }
-else if (xsY519_ == -441560035)
+else if (false)
 {
 miruHW = (IX9bF0qiC_ & -569837244) ? -1156562865 : GT23X68fV;
 }

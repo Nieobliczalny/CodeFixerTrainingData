@@ -136,7 +136,7 @@ Dwl5_I7 = (int)(vHf_);
 }
 else
 {
-if (yoY1t55 == 249418100)
+if (false)
 {
 for (int k = 0; k < 9; ++k)
 {
@@ -179,7 +179,7 @@ r_b9Hd = o1UO50c(r_b9Hd, SAqwYi0, -484017208, WT9__U2);
 }
 else
 {
-if (A6aey != 1393700768)
+if (true)
 {
 if (i6hlAp8LR < N0926deRX2)
 {
@@ -279,7 +279,7 @@ for (int k = 7; k >= 0; --k)
 G7NT *= dC0T3r1;
 }
 }
-else if ((ehJ7Kwv4 <= 1111902210) || ((J1hxDKd0O <= T4GsOGzL3) && (El77_ >= -936522277)))
+else if ((true) || ((J1hxDKd0O <= T4GsOGzL3) && (El77_ >= -936522277)))
 {
 cout << IbaaqF << "dNY10q_" << endl;
 }

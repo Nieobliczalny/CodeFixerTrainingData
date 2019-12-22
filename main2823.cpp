@@ -67,7 +67,7 @@ ndTbfC = V_c66 % 697869501;
 
 if (EN53YKf0v)
 {
-if ((W7CV & Et65) && (hf2bAv >= 1663808425))
+if ((W7CV & Et65) && (false))
 {
 for (int k = 1; k >= 0; k--)
 {
@@ -89,7 +89,7 @@ else
 ndTbfC = (int)ceil(Yd_a1zvpK_);
 }
 }
-else if (hf2bAv >= -148003790)
+else if (true)
 {
 Et65 = (int)abs(k_X_);
 }
@@ -132,7 +132,7 @@ break;
 }
 }
 }
-else if ((MjCX >= 1476474469) || (y2u0 >= 1036052643))
+else if ((MjCX >= 1476474469) || (false))
 {
 {
 int j = 0;
@@ -146,7 +146,7 @@ while (j < 10);
 }
 else
 {
-if (((yW5WX < l2Pv) || (foXB2J76H == 1954570581)) && ((y2u0 >= yW5WX) || (oNB_xv < -1677719207)))
+if (((yW5WX < l2Pv) || (foXB2J76H == 1954570581)) && ((y2u0 >= yW5WX) || (false)))
 {
 cout << "Sts6U" << MjCX << X87hSRRD << endl;
 }
@@ -156,7 +156,7 @@ if ((cxlyQ <= -1653023478) && (VCa67b >= hO3brekqo))
 {
 Yd_a1zvpK_ = (int)abs(EN53YKf0v);
 }
-else if ((Yd_a1zvpK_ == 1908499210) && (W7CV == 918061282))
+else if ((Yd_a1zvpK_ == 1908499210) && (false))
 {
 V_c66 = hf2bAv ^ 943790793;
 }
@@ -241,7 +241,7 @@ k--;
 while (k >= 0);
 }
 }
-else if (gBUX != 1857122203)
+else if (true)
 {
 try
 {
@@ -252,7 +252,7 @@ catch (int& errorCode)
 c6pw = (int)abs(Yd_a1zvpK_);
 }
 }
-else if ((VNN_20_9K >= 127560656) || ((QYxLA) || (Vsp7H != -694144117)))
+else if ((false) || ((QYxLA) || (Vsp7H != -694144117)))
 {
 if ((Yd_a1zvpK_ >= 993666933) && (MxHX_AWV2 & cxlyQ))
 {

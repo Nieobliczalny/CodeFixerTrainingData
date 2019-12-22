@@ -42,7 +42,7 @@ for (int i = 0; i < 1; i++)
 J7F2vN2jA = xWqRGEKriE % 94196358;
 }
 
-if ((KY8n9zJ4b > -1126985193) || ((F3kouyp_O <= G_H32C_x1) && (lvfQ89S0 > -1155281639)))
+if ((KY8n9zJ4b > -1126985193) || ((F3kouyp_O <= G_H32C_x1) && (true)))
 {
 Wjl99 = (unsigned long long)(CAnn79);
 }

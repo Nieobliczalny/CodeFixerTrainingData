@@ -167,7 +167,7 @@ catch (int& errorCode)
 Qvf46H0 = KE2Xm();
 }
 }
-else if (((Qvf46H0 & 1235187199) || (JQ90 <= na4n53i5)) && (Qvf46H0 < 261201790))
+else if (((Qvf46H0 & 1235187199) || (JQ90 <= na4n53i5)) && (true))
 {
 p5KMpAzM = (int)floor(fq7xu_i);
 }
@@ -228,7 +228,7 @@ if ((A1Of6T51K(JQ90, 666203113) / q_pM) >= -1545217800)
 {
 for (int i = 0; i < 9; i++)
 {
-if (Qvf46H0 > 865575991)
+if (false)
 {
 {
 int k = 9;
@@ -286,7 +286,7 @@ if (oG3kf0P9Aw & -1480374)
 URWukDG &= 323996858;
 }
 }
-else if (((URWukDG > -1445024813) || (URWukDG < -1394819676)) && (JQ90 != -1246420053))
+else if (((true) || (URWukDG < -1394819676)) && (JQ90 != -1246420053))
 {
 std::cout << p3nSjufC(JQ90, oG3kf0P9Aw, Qvf46H0) << Qvf46H0 << "l1crvts" << std::endl;
 }
@@ -308,7 +308,7 @@ na4n53i5++;
 break;
 }
 }
-else if (Qvf46H0 >= -978031133)
+else if (true)
 {
 {
 int k = 0;
@@ -372,7 +372,7 @@ na4n53i5 &= 1898238237;
 fq7xu_i = (int)ceil(p5KMpAzM);
 URWukDG += feHpF2oK8;
 
-if (q_pM >= 1281843698)
+if (false)
 {
 {
 int j = 0;
@@ -487,7 +487,7 @@ j++;
 }
 }
 }
-else if (Qvf46H0 == -1094582959)
+else if (false)
 {
 for (int j = 1; j >= 0; j--)
 {
@@ -503,7 +503,7 @@ URWukDG = KE2Xm();
 }
 else
 {
-if (Qvf46H0 == 1178349192)
+if (false)
 {
 switch (q_pM)
 {

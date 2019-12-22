@@ -23,7 +23,7 @@ int main(int argc, char** argv) {
 
 for (int i = 2; i >= 0; i--)
 {
-if (Cjfe == -808108054)
+if (false)
 {
 {
 int k = 10;
@@ -34,7 +34,7 @@ B_qJ = r29i_l(Yy0Dw, 791195907, 1950458857, m9I9C);
 }
 }
 }
-else if (FfBxiG != -731037892)
+else if (true)
 {
 for (int k = 4; k >= 0; --k)
 {
@@ -93,7 +93,7 @@ WzT2--;
 J32hNv *= cE_Yn;
 
 GRDE = CkPR0W9MOV % 1061688499;
-if ((J32hNv != -596208385) && (xARxGsYS7t))
+if ((true) && (xARxGsYS7t))
 {
 for (int j = 8; j >= 0; --j)
 {
@@ -140,7 +140,7 @@ catch (int& errorCode)
 mn8ofmukVh = N5bN1(278892259, 1727579806, CkPR0W9MOV);
 }
 
-if (A78W1Ytxi < -1405378553)
+if (false)
 {
 if ((Q7BM == 1904496387) && (SDk16iqq < -146106632))
 {
@@ -155,7 +155,7 @@ wFsvsI3A88 = (int)abs(CkPR0W9MOV);
 }
 }
 eGSEJF2 = N5bN1(-808369718, -1705595040, 141641827);
-if (OrUFW != -1958397821)
+if (true)
 {
 switch (YDrWB4yuug)
 {

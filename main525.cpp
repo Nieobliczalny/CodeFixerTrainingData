@@ -25,7 +25,7 @@ int main(int argc, char** argv) {
 q3enKUV90 = (unsigned short)(NwlYmE);
 bdl9Us = Btse7X(298671029);
 
-if (LlvZ8zO == 930162487)
+if (false)
 {
 if ((B6B2mYn <= -1375855427) && ((LlvZ8zO != V66O1OrE) || (c_iapIt5_B <= B6B2mYn)))
 {
@@ -54,7 +54,7 @@ else
 {
 iNmQOtN87 = (unsigned short)(h548U07YWp);
 }
-if (TZQ_FE0G >= -572558113)
+if (true)
 {
 std::cout << "myUQE5y" << WC3hl452h << LR03808e << std::endl;
 }
@@ -81,7 +81,7 @@ break;
 }
 for (int i = 3; i >= 0; i--)
 {
-if ((h548U07YWp) || (H4Ih >= 487067760))
+if ((h548U07YWp) || (false))
 {
 rZvV7GB = (unsigned short)(ASjkJ);
 }

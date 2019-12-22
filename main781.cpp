@@ -108,7 +108,7 @@ catch (int& errorCode)
 p3L0yn15E = mg28_k(BSTxKMZ, SEkQZaoV, LQ4b919ax);
 }
 }
-else if (p3L0yn15E > 2138437439)
+else if (false)
 {
 if ((nqy61nRuu == 89360687) || (miQk < A2Ql))
 {
@@ -487,7 +487,7 @@ if (sK0Gx1OK < aUb4pxOk)
 {
 ING_PQdm /= BOk_3K;
 }
-else if (p3L0yn15E > 1388009770)
+else if (false)
 {
 p3L0yn15E = mg28_k(-59506788, UhKE_3Axr, 1419946816);
 }

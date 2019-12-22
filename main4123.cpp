@@ -179,7 +179,7 @@ else
 PYH6 = hInpX(2134451371, h08Gcu_);
 }
 }
-else if (((n81n11 == 1196871058) && (fncw7b < 1500899899)) || (X_9LfVK4))
+else if (((n81n11 == 1196871058) && (true)) || (X_9LfVK4))
 {
 for (int k = 0; k < 1; ++k)
 {
@@ -217,7 +217,7 @@ do
 switch (lLon3)
 {
 case 0:
-n81n11 = (k3BaJp7k9 >= -186073773) ? mxJgZ9 : 1612503083;
+n81n11 = (true) ? mxJgZ9 : 1612503083;
 break;
 case 1:
 k3BaJp7k9 = m3W72j3(-835079972, 444104105);
@@ -266,7 +266,7 @@ while (i >= 0)
 i--;
 for (int j = 0; j < 3; j++)
 {
-if (J5wyx0j != 678172340)
+if (true)
 {
 X0I8 = (int)abs(RLfR7GS);
 }
@@ -278,7 +278,7 @@ else if ((xKiNatS0Y > 1700265103) || (xKiNatS0Y != SY5L))
 {
 vYvZ_9 = (int)floor(Na0_g0iS);
 }
-else if (fncw7b > 244233346)
+else if (false)
 {
 I24HP5l = rZzXWx_4cz(I24HP5l);
 }

@@ -21,7 +21,7 @@ int main(void)
  unsigned short bBKd97V59V = 0, q_M3 = 0, VNQ7n2nRc = 0, iY4_Wjk = 0;
 	long double	HAxSM32IU8	=	748507560,	S0vUy2	=	1014626651,	PiPN_2	=	262689851,	gf6FP	=	1547775475,	q116a_i7	=	1102739658,	d6CSlK	=	1110848080,	qvn4xfpm76	=	2033478761,	BgY9JbDre	=	-2064178938,	UYZ_Z_W	=	1832013015,	hlML	=	-624963118,	Y_D650q40	=	803540193,	FpHKe9Jd3	=	648349579,	lyTnLB_m1	=	115640786,	sFQIZ	=	-1783027438,	hVW6Q	=	-936982770,	mJi7_W	=	-94885020,	h3_gvZ9jq	=	-755047209,	qH54	=	1716708847;
 
-if (q_M3 > -1959831495)
+if (true)
 {
 HAxSM32IU8 = kB1ZKWM();
 }
@@ -75,7 +75,7 @@ else if (hVW6Q >= -80238284)
 {
 std::cout << q_M3 << "m14m7" << "ck6nQ4b" << "DSw0uMn38C" << std::endl;
 }
-else if (((bBKd97V59V & 170385529) && (gf6FP > -1089933299)) && ((S0vUy2) && (VNQ7n2nRc == 1449075692)))
+else if (((bBKd97V59V & 170385529) && (gf6FP > -1089933299)) && ((S0vUy2) && (false)))
 {
 if (HAxSM32IU8 < -1243448626)
 {
@@ -86,7 +86,7 @@ else
 qH54 = kB1ZKWM();
 }
 }
-else if (bBKd97V59V > -362097273)
+else if (true)
 {
 switch (iY4_Wjk)
 {
@@ -128,7 +128,7 @@ if (bBKd97V59V != VNQ7n2nRc)
 {
 hlML /= lyTnLB_m1;
 }
-else if (q_M3 != 969284277)
+else if (true)
 {
 qvn4xfpm76 = kB1ZKWM();
 }

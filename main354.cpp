@@ -146,7 +146,7 @@ qKk1 = YP9O_(qKk1, 118472279, Sej_BsCF, JM9ep);
 }
 for (int i = 7; i >= 0; --i)
 {
-if (r2107Rw >= -1194886309)
+if (true)
 {
 {
 int k = 0;
@@ -209,7 +209,7 @@ t7edb = (unsigned short int)(PIJtsi2);
 IIvQ8 = F0L7unT | WD5kgZ_2sH;
 
 erdvpkhkp = Kq4CIIG / srh312uz_Q;
-if (nYxWX7vYa != 1833636838)
+if (true)
 {
 try
 {

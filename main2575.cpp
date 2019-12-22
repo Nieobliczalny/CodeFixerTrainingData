@@ -262,7 +262,7 @@ break;
 
 WmKZJ = (int)ceil(l3Tv16);
 
-if (JOa7r3r < -1467906688)
+if (false)
 {
 p5SL1gE0 = (int)abs(h5QBV75A8Y);
 }
@@ -322,7 +322,7 @@ rZx54edf <<= jhx48A4;
 }
 else
 {
-if ((Y3TaUv0Hb >= -2074070216) && ((qw97Su < -1516637098) && (wXpy & -1567471345)))
+if ((Y3TaUv0Hb >= -2074070216) && ((false) && (wXpy & -1567471345)))
 {
 HPK_ = Pbe43Q % B9o23c89;
 }

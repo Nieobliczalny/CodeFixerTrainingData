@@ -48,7 +48,7 @@ int j = 9;
 while (j >= 0)
 {
 --j;
-if (y8a91 == -906632712)
+if (false)
 {
 xR9228K = N27VR(65039168, o4mv40, -44021885);
 }
@@ -92,7 +92,7 @@ RXGpu5863 = RXGpu5863 * o4mv40;
 break;
 }
 }
-if (xR9228K == 1310856171)
+if (false)
 {
 {
 int j = 0;
@@ -111,7 +111,7 @@ FDHcWSiv6 = o4mv40 | 2122668599;
 while (j < 1);
 }
 }
-if (o4mv40 == 820359621)
+if (false)
 {
 try
 {
@@ -173,7 +173,7 @@ break;
 }
 
 RXGpu5863 = (short int)(FDHcWSiv6);
-FDHcWSiv6 = (RXGpu5863 == 1287816387) ? 373707275 : RXGpu5863;
+FDHcWSiv6 = (false) ? 373707275 : RXGpu5863;
 {
 int i = 4;
 do
@@ -183,7 +183,7 @@ if (RXGpu5863 > 1575041213)
 {
 std::cout << "jhM6eYR" << N27VR(FDHcWSiv6, -248878356, xR9228K) << std::endl;
 }
-else if ((o4mv40) && ((o4mv40 < 1886346124) && (y8a91 >= -1727284380)))
+else if ((o4mv40) && ((true) && (y8a91 >= -1727284380)))
 {
 std::cout << o4mv40 << R6MViLYZE(-2092303268, -476154509) << R6MViLYZE(FDHcWSiv6, o4mv40) << std::endl;
 }
@@ -194,7 +194,7 @@ xR9228K = (unsigned short int)(y8a91 * xR9228K);
 }
 while (i >= 0);
 }
-FDHcWSiv6 = (o4mv40 != 549031990) ? R6MViLYZE(FDHcWSiv6, -1037373004) : -563904380;
+FDHcWSiv6 = (true) ? R6MViLYZE(FDHcWSiv6, -1037373004) : -563904380;
 
 for (int i = 10; i >= 0; i--)
 {
@@ -212,7 +212,7 @@ while (j < 9);
 }
 }
 
-if ((xR9228K != -1883563200) || (RXGpu5863 <= 740204728))
+if ((true) || (RXGpu5863 <= 740204728))
 {
 for (int j = 1; j >= 0; --j)
 {
@@ -223,7 +223,7 @@ y8a91++;
 }
 }
 y8a91 /= RXGpu5863;
-if (xR9228K < -649735668)
+if (false)
 {
 try
 {
@@ -260,7 +260,7 @@ if (FDHcWSiv6)
 {
 FDHcWSiv6 = RXGpu5863 * 380821962;
 }
-else if (xR9228K > -873675670)
+else if (true)
 {
 y8a91 = xR9228K & 1281011206;
 }
@@ -272,7 +272,7 @@ else if ((xR9228K <= RXGpu5863) && (xR9228K < FDHcWSiv6))
 {
 FDHcWSiv6 = o4mv40 / y8a91;
 }
-else if (y8a91 != -951871826)
+else if (true)
 {
 RXGpu5863 = R6MViLYZE(RXGpu5863, 867280356);
 }
@@ -294,7 +294,7 @@ if ((RXGpu5863 / N27VR(1219786543, 472399238, o4mv40)) != 1933515561)
 {
 if (RXGpu5863 & 2131372628)
 {
-if ((xR9228K == y8a91) && (xR9228K == -806017145))
+if ((xR9228K == y8a91) && (false))
 {
 RXGpu5863 = xR9228K / RXGpu5863;
 }
@@ -309,7 +309,7 @@ xR9228K = N27VR(RXGpu5863, -2055332483, FDHcWSiv6);
 }
 }
 }
-else if ((RXGpu5863 >= 1656002011) || (FDHcWSiv6 > -705317599))
+else if ((false) || (FDHcWSiv6 > -705317599))
 {
 o4mv40 = (unsigned short int)(RXGpu5863 * o4mv40);
 }
@@ -321,7 +321,7 @@ FDHcWSiv6 = (int)abs(y8a91);
 }
 }
 }
-else if (((FDHcWSiv6 > 1848453406) && (RXGpu5863 < -176754497)) || ((RXGpu5863 >= 145975096) && (FDHcWSiv6)))
+else if (((false) && (RXGpu5863 < -176754497)) || ((RXGpu5863 >= 145975096) && (FDHcWSiv6)))
 {
 for (int j = 10; j >= 0; j--)
 {
@@ -337,7 +337,7 @@ else if (o4mv40 == RXGpu5863)
 {
 RXGpu5863 = R6MViLYZE(-1131798411, o4mv40);
 }
-else if (((RXGpu5863 <= o4mv40) && (RXGpu5863 != -409486487)) || ((o4mv40) && (xR9228K)))
+else if (((RXGpu5863 <= o4mv40) && (true)) || ((o4mv40) && (xR9228K)))
 {
 y8a91 = xR9228K * 1137224816;
 }
@@ -347,7 +347,7 @@ xR9228K = N27VR(FDHcWSiv6, y8a91, xR9228K);
 }
 }
 }
-else if (y8a91 != 999179918)
+else if (true)
 {
 std::cout << "g_XX61N7" << N27VR(-1853897434, 401853544, -1866576357) << "OjPOE" << std::endl;
 }
@@ -391,7 +391,7 @@ y8a91 = R6MViLYZE(y8a91, 2070929960);
 }
 
 FDHcWSiv6 = R6MViLYZE(FDHcWSiv6, y8a91);
-if (FDHcWSiv6 == -660494885)
+if (false)
 {
 FDHcWSiv6 = (int)abs(y8a91);
 }
@@ -405,7 +405,7 @@ else if ((o4mv40 & -1573162083) || (o4mv40 & -1098560823))
 int j = 0;
 while (j < 1)
 {
-if (xR9228K >= -660031553)
+if (true)
 {
 RXGpu5863 = N27VR(FDHcWSiv6, y8a91, 1450075238) % 1065449248;
 }
@@ -417,7 +417,7 @@ else if (FDHcWSiv6 < o4mv40)
 {
 FDHcWSiv6 = (int)abs(y8a91);
 }
-else if ((y8a91) && ((o4mv40 & y8a91) || (y8a91 >= 1485239051)))
+else if ((y8a91) && ((o4mv40 & y8a91) || (false)))
 {
 FDHcWSiv6 = (int)abs(RXGpu5863);
 }
@@ -443,7 +443,7 @@ FDHcWSiv6 = E94Jt2pE2F(FDHcWSiv6);
 }
 }
 }
-else if (RXGpu5863 != -1221148735)
+else if (true)
 {
 std::cout << N27VR(FDHcWSiv6, xR9228K, -439608504) << std::endl;
 }
@@ -453,7 +453,7 @@ FDHcWSiv6 = R6MViLYZE(1983519329, 834050689);
 }
 else
 {
-y8a91 = (o4mv40 <= -1773069428) ? xR9228K : y8a91;
+y8a91 = (false) ? xR9228K : y8a91;
 }
 std::cout << "vmL6_ih" << FDHcWSiv6 << "NZhP5fD8" << std::endl;
 

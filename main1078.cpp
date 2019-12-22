@@ -86,7 +86,7 @@ if (M4t7QS8q4 >= PfCB6_16t8)
 {
 Itx30 = (unsigned long long)(wT7W);
 }
-else if ((eQMi1 & 556137272) || ((Xgh_U2m <= -1100105863) || (LIR0a != -87709757)))
+else if ((eQMi1 & 556137272) || ((false) || (LIR0a != -87709757)))
 {
 if (JO31HC2t3V != -1087240601)
 {
@@ -109,7 +109,7 @@ else if (SYBe1Q_1wy <= Qbc091B1OP)
 {
 Q_9ln5d_X = znjpm % eJJ7nMo8;
 }
-else if (PfCB6_16t8 >= 1747224913)
+else if (false)
 {
 FrpS = Itx30 * 397800619;
 }

@@ -117,7 +117,7 @@ else if (ta4LPt >= Prv2P)
 {
 fmYe28jwd9 = u09Pb(2006607017, 1812981649, gJE_E18s7, 639791420, -310995976);
 }
-else if (L__tep <= 367573101)
+else if (true)
 {
 {
 int j = 9;
@@ -141,7 +141,7 @@ u2qAN5 = (int)floor(wQ_I3TIf);
 }
 else if (BMQG3 != Prv2P)
 {
-if ((A0bCy3p > Prv2P) && (bugT45n5PH == Q8_7UPJ))
+if ((false) && (bugT45n5PH == Q8_7UPJ))
 {
 std::cout << u09Pb(fmYe28jwd9, 1600490243, 39320010, L__tep, ta4LPt) << lDZr4yj9I << "PGJ0GD7" << RY_a162HSa << "Z8yhtK58Zk" << std::endl;
 }
@@ -267,7 +267,7 @@ for (int j = 0; j < 2; ++j)
 std::cout << "ZIGv_HE" << std::endl;
 }
 }
-else if (UMde7t67Hl != -95832400)
+else if (true)
 {
 std::cout << gJE_E18s7 << c4Wr << "QplB3_8" << "bXJeVBRZ2" << r7V6T << std::endl;
 }

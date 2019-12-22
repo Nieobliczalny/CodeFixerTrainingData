@@ -249,7 +249,7 @@ if (hky9 >= -872582392)
 {
 std::cout << M0KKa << "yn6_H3OBN" << FcN0B() << "D675ognyQo" << X_XpC7 << std::endl;
 }
-else if ((FFZT < 219874154) && ((O7jnc == -1512694034) && (T3r_I < Ewx02O0w09)))
+else if ((true) && ((O7jnc == -1512694034) && (T3r_I < Ewx02O0w09)))
 {
 std::cout << rzL0c8_Qp << XaB39(1033189038, PX8FTL03, d54z13) << std::endl;
 }

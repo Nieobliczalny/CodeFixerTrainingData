@@ -106,7 +106,7 @@ break;
 int i = 3;
 while (i >= 0)
 {
-if (HxJC9eSO35 == 1319463722)
+if (false)
 {
 hB7WK = PrYqyWZ7();
 }
@@ -126,7 +126,7 @@ while (i < 7);
 
 for (int i = 0; i < 1; ++i)
 {
-if ((t02g2e39 > -1818719036) || ((a5_CG32v & -913411163) && (cp9CV6k >= FQ3wsz0j2e)))
+if ((true) || ((a5_CG32v & -913411163) && (cp9CV6k >= FQ3wsz0j2e)))
 {
 i_5xK = PrYqyWZ7();
 }
@@ -137,7 +137,7 @@ t02g2e39 = KdAixNtS0r / M3wD(i_5xK, 180750056, W_aBbi5i0);
 N7RA8fbE = (long long)(a_C_8 * (IP5Qf6y_Z));
 if ((d644 & K65vyV4W) && (GFj_5 >= a_C_8))
 {
-if (Wv3D <= -1967365767)
+if (false)
 {
 {
 int k = 2;
@@ -148,7 +148,7 @@ k--;
 }
 }
 }
-else if (a_C_8 != 1807420139)
+else if (true)
 {
 std::cout << M3wD(1975125872, d644, W_aBbi5i0) << PrYqyWZ7() << Cpa5nw << "K641S8zS" << std::endl;
 }
@@ -160,7 +160,7 @@ else if ((K65B_dX) && ((VD1h_a & -59638047) || (ehoZC__zM)))
 {
 wfBDD0I0Jz <<= L_H4yW3C0V;
 }
-else if (((B0Knl == 1245199309) || (L_H4yW3C0V == a5_CG32v)) || (OXgEu7Y8z5))
+else if (((false) || (L_H4yW3C0V == a5_CG32v)) || (OXgEu7Y8z5))
 {
 N7RA8fbE = M3wD(Cpa5nw, gtD4SbaZ, K65B_dX);
 }
@@ -185,7 +185,7 @@ else
 int j = 0;
 do
 {
-if (((OXgEu7Y8z5 < 1250532703) && (l6n2RXyrr_)) || (Wr_20r != 696948929))
+if (((true) && (l6n2RXyrr_)) || (Wr_20r != 696948929))
 {
 a_C_8 %= gq6It8L1T;
 }
@@ -245,7 +245,7 @@ while (k >= 0);
 }
 }
 
-if (z2Po >= 447916912)
+if (false)
 {
 try
 {
@@ -303,7 +303,7 @@ j--;
 }
 }
 }
-else if (HZJn != k3rab2EHU)
+else if (true)
 {
 if ((hB7WK >= HxJC9eSO35) && (wm9G16fWhz))
 {
@@ -330,7 +330,7 @@ if (GFj_5 & a5_CG32v)
 gtD4SbaZ &= L_H4yW3C0V;
 }
 }
-else if (OoaB72W7Kq > 1590216767)
+else if (false)
 {
 {
 int k = 6;
@@ -342,7 +342,7 @@ k--;
 while (k >= 0);
 }
 }
-else if (tC2g6k_ > -1461546104)
+else if (true)
 {
 std::cout << "LVc9" << PrYqyWZ7() << PrYqyWZ7() << std::endl;
 }
@@ -374,7 +374,7 @@ catch (int& errorCode)
 A907 = PrYqyWZ7();
 }
 }
-else if (((VD1h_a > Sd5Qt_W) || (q79c5U0 < IP5Qf6y_Z)) || (K65B_dX > KdAixNtS0r))
+else if (((VD1h_a > Sd5Qt_W) || (q79c5U0 < IP5Qf6y_Z)) || (false))
 {
 N7RA8fbE = M3wD(a5_CG32v, IYu__5ay2, cp9CV6k);
 }

@@ -77,7 +77,7 @@ int main(int argc, char** argv) {
  char NL_WaFYZ = -714194579;
   float  ba8p  =  415454435;
 
-if (((SJ__0 <= XQKc1) || (j2g8lj0MEV == 1917726407)) || (YGoh >= 1912108946))
+if (((SJ__0 <= XQKc1) || (false)) || (YGoh >= 1912108946))
 {
 {
 int j = 2;
@@ -173,7 +173,7 @@ dG_Dai1c = (int)ceil(ba8p);
 }
 }
 
-if (j2g8lj0MEV <= 1783381756)
+if (true)
 {
 if ((fmC2h < -373150931) || (gh3VZL))
 {
@@ -234,7 +234,7 @@ Pqk4qxVY = (int)abs(y5dCno9Bw);
 break;
 }
 }
-else if (j2g8lj0MEV < 188484664)
+else if (true)
 {
 u7i9R = (long)(c2SNtQRuI);
 }
@@ -310,7 +310,7 @@ int i = 0;
 while (i < 9)
 {
 i++;
-if (((n4CI == Gv1P51) && (SJ__0 < 1984206663)) && (D6kb7ps <= 869260421))
+if (((n4CI == Gv1P51) && (SJ__0 < 1984206663)) && (true))
 {
 bgM78Y2M = T056a2w + 185249752;
 }
@@ -332,7 +332,7 @@ else if (FoklyU <= 871646030)
 {
 Gv1P51 = OJj7(cO5_, Stgad3, -796867320);
 }
-else if (Oonxfe0s < 1123951138)
+else if (true)
 {
 if (y5dCno9Bw <= h7iyOEj0)
 {

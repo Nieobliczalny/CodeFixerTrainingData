@@ -53,7 +53,7 @@ break;
 }
 }
 }
-else if ((Is0_U < -1640801318) || (xePo20h7 & S9Ys2))
+else if ((false) || (xePo20h7 & S9Ys2))
 {
 if (L_6H > -1153825681)
 {
@@ -113,7 +113,7 @@ while (k >= 0);
 }
 }
 }
-else if (Yg_67Y > -1607347766)
+else if (true)
 {
 Hak6Y = (int)abs(XbiH9XB);
 }
@@ -162,7 +162,7 @@ break;
 }
 for (int i = 0; i < 7; i++)
 {
-if (((Ukw_94Gk < XbiH9XB) || (Yg_67Y > FaU9e64Hu9)) && ((Ukw_94Gk != -2062094151) && (L_6H == 1189341737)))
+if (((Ukw_94Gk < XbiH9XB) || (Yg_67Y > FaU9e64Hu9)) && ((true) && (L_6H == 1189341737)))
 {
 {
 int k = 8;
@@ -173,7 +173,7 @@ k--;
 }
 }
 }
-else if (ug0AjG25RA <= -854663221)
+else if (false)
 {
 LHSO = (int)floor(XbiH9XB);
 }
@@ -221,7 +221,7 @@ LHSO = (int)ceil(kQDy);
 }
 }
 
-if (ug0AjG25RA >= -69952426)
+if (true)
 {
 std::cout << "Wh4s9fGMf" << Ukw_94Gk << "cpk4xKk6" << kQDy << "Lx2fyBKX" << std::endl;
 }
@@ -240,7 +240,7 @@ else if (N8Ie & 14194175)
 {
 xePo20h7 -= 965867935;
 }
-else if (((L_6H > Yg_67Y) || (FaU9e64Hu9)) || (S9Ys2 != 198379936))
+else if (((L_6H > Yg_67Y) || (FaU9e64Hu9)) || (true))
 {
 S9Ys2 *= 2125920612;
 }
@@ -264,7 +264,7 @@ xePo20h7 = Is0_U - 1006651231;
 while (j < 5);
 }
 }
-else if (Yg_67Y <= 1895428842)
+else if (true)
 {
 if (FaU9e64Hu9 >= -77564496)
 {
@@ -281,7 +281,7 @@ catch (int& errorCode)
 Hak6Y = (int)floor(kQDy);
 }
 }
-else if (ug0AjG25RA < 1285123763)
+else if (true)
 {
 LHSO = (float)(L_6H);
 }
@@ -379,7 +379,7 @@ if (((HSvfX4g) || (FaU9e64Hu9 & 574693512)) || (Yg_67Y & 280386545))
 L_6H = S9Ys2 >> Ukw_94Gk;
 }
 }
-else if (Yg_67Y <= 48210948)
+else if (true)
 {
 if (HSvfX4g)
 {
@@ -432,7 +432,7 @@ LHSO = (int)ceil(XbiH9XB);
 }
 for (int i = 0; i < 5; ++i)
 {
-if (S9Ys2 == 649487230)
+if (false)
 {
 if (((HSvfX4g < -568010983) && (Yg_67Y >= -1608419417)) && ((LHSO > -520115918) || (S9Ys2 <= ug0AjG25RA)))
 {
@@ -470,7 +470,7 @@ if (((Is0_U & xePo20h7) || (Yg_67Y == L_6H)) && (N8Ie < 471321964))
 {
 XbiH9XB = FaU9e64Hu9 ^ hYLAc;
 }
-else if (ug0AjG25RA >= -672147438)
+else if (true)
 {
 {
 int j = 2;
@@ -499,7 +499,7 @@ else if ((Hak6Y > 278514062) && (FaU9e64Hu9 > uFJFx))
 {
 L_6H = FaU9e64Hu9 % uFJFx;
 }
-else if (S9Ys2 >= 592603466)
+else if (false)
 {
 HSvfX4g -= 1575391409;
 }
@@ -604,7 +604,7 @@ else
 HSvfX4g *= 1801121294;
 }
 }
-else if (((XbiH9XB <= -319426425) || (ug0AjG25RA & -621677818)) || (S9Ys2 == -406112847))
+else if (((XbiH9XB <= -319426425) || (ug0AjG25RA & -621677818)) || (false))
 {
 try
 {

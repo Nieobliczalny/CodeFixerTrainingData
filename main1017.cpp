@@ -226,7 +226,7 @@ default:
 h_05e62aL = (int)floor(VcwtJ);
 break;
 }
-if ((B5w6v1jG & iyoct51) && (o7mE630ZuD < 625838641))
+if ((B5w6v1jG & iyoct51) && (true))
 {
 B5w6v1jG = A0O4();
 }
@@ -236,7 +236,7 @@ jyRShnR -= 958735119;
 
 nKomE = (int)abs(jyRShnR);
 
-if (YMm31oJ < -1609785249)
+if (false)
 {
 {
 int j = 0;
@@ -292,7 +292,7 @@ while (j < 6);
 
 BD4NaXE3Mw = (int)(iyoct51 + (1905895889));
 
-if (w3rfw > 1020060810)
+if (false)
 {
 try
 {

@@ -94,7 +94,7 @@ D2mJo = (int)abs(yauiPLf);
 
 D2mJo--;
 
-if (((gV0K38q1_O >= -2141457879) || (YRIU4 < -356594432)) || (gV0K38q1_O != -929312358))
+if (((gV0K38q1_O >= -2141457879) || (false)) || (gV0K38q1_O != -929312358))
 {
 YRIU4 = (unsigned char)(gV0K38q1_O * YRIU4);
 }
@@ -130,7 +130,7 @@ k++;
 }
 }
 }
-else if (YRIU4 == 20743185)
+else if (false)
 {
 switch (yauiPLf)
 {
@@ -162,7 +162,7 @@ int j = 5;
 do
 {
 j--;
-if (YRIU4 == 1961448965)
+if (false)
 {
 gV0K38q1_O %= 1373865558;
 }
@@ -176,7 +176,7 @@ YRIU4 = (unsigned char)(yauiPLf * YRIU4);
 }
 if ((gV0K38q1_O <= 1459796944) && (gV0K38q1_O > 663271903))
 {
-if (YRIU4 != -827356111)
+if (true)
 {
 if (D2mJo == m7j0lJd)
 {
@@ -188,7 +188,7 @@ D2mJo *= YRIU4;
 }
 }
 }
-else if ((D2mJo < -1008290798) || (YRIU4 & gV0K38q1_O))
+else if ((false) || (YRIU4 & gV0K38q1_O))
 {
 for (int j = 1; j >= 0; j--)
 {
@@ -202,7 +202,7 @@ yauiPLf = (m7j0lJd < 1305629046) ? xBcwrb : -919872387;
 }
 }
 }
-else if ((yauiPLf & 1858360152) || ((gV0K38q1_O) || (D2mJo > 149273430)))
+else if ((yauiPLf & 1858360152) || ((gV0K38q1_O) || (false)))
 {
 xBcwrb = (short int)(gV0K38q1_O * xBcwrb);
 }
@@ -228,7 +228,7 @@ if (YRIU4 != D2mJo)
 int j = 3;
 do
 {
-if (m7j0lJd > 1009497534)
+if (false)
 {
 yauiPLf = gV0K38q1_O & m7j0lJd;
 }
@@ -248,7 +248,7 @@ catch (int& errorCode)
 gV0K38q1_O = xBcwrb << yauiPLf;
 }
 }
-else if (m7j0lJd != 1853996665)
+else if (true)
 {
 if (((xBcwrb > D2mJo) || (m7j0lJd != YRIU4)) && (YRIU4))
 {
@@ -265,7 +265,7 @@ else if (gV0K38q1_O <= 34995692)
 {
 std::cout << YRIU4 << m7j0lJd << std::endl;
 }
-else if (yauiPLf <= 2101386452)
+else if (true)
 {
 D2mJo = gV0K38q1_O & 1541117966;
 }
@@ -275,7 +275,7 @@ xBcwrb = (short int)(D2mJo * xBcwrb);
 }
 else if ((YRIU4 <= 933019573) && ((xBcwrb & -154658514) || (m7j0lJd < -588848268)))
 {
-if ((m7j0lJd <= yauiPLf) && ((gV0K38q1_O & xBcwrb) || (xBcwrb > -120442485)))
+if ((m7j0lJd <= yauiPLf) && ((gV0K38q1_O & xBcwrb) || (true)))
 {
 D2mJo <<= m7j0lJd;
 }
@@ -286,7 +286,7 @@ D2mJo >>= 86905954;
 }
 else if ((xBcwrb <= gV0K38q1_O) && (yauiPLf == 207957321))
 {
-if (D2mJo >= 824601311)
+if (false)
 {
 yauiPLf = (int)abs(gV0K38q1_O);
 }
@@ -320,7 +320,7 @@ break;
 }
 }
 }
-else if (YRIU4 < 1942707294)
+else if (true)
 {
 for (int j = 0; j < 9; ++j)
 {
@@ -331,7 +331,7 @@ else if (D2mJo != -109876532)
 {
 m7j0lJd = (YRIU4 <= yauiPLf) ? -1675368313 : 2004477758;
 }
-else if (yauiPLf < -189239243)
+else if (false)
 {
 for (int j = 0; j < 10; ++j)
 {
@@ -346,7 +346,7 @@ try
 {
 try
 {
-if (xBcwrb <= 825375846)
+if (true)
 {
 D2mJo ^= 355303064;
 }

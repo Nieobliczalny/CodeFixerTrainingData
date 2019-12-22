@@ -231,7 +231,7 @@ else if (M5hR5W7bG7 != -1584481617)
 {
 Se5L9Y = (unsigned long)(WtF13hgB);
 }
-else if (Sh342 > -1071136820)
+else if (true)
 {
 if (((vAP8E < lDPZ2) && (oBO9 < -279397071)) && (WtF13hgB & t4NqLY2H__))
 {

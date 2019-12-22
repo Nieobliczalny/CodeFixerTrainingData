@@ -53,7 +53,7 @@ if (wd6Sxbwf6W > Dwh0GvLl8C)
 {
 Q_l0Y = (unsigned char)(PcYjJ + (-655423494));
 }
-else if (zxe83 == 1227615725)
+else if (false)
 {
 std::cout << W8iAK1 << "ndgIts0c0" << std::endl;
 }
@@ -65,7 +65,7 @@ else if (B7z8dJ != -205751743)
 {
 X606t += CCgLM;
 }
-else if (eN5_57FQtU > -1854050316)
+else if (true)
 {
 a2TC <<= 346091569;
 }
@@ -116,7 +116,7 @@ int j = 6;
 do
 {
 --j;
-if (K7q7 < 57325553)
+if (true)
 {
 chfBwL4mQk >>= OaiZH__w;
 }

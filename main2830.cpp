@@ -90,7 +90,7 @@ catch (int& errorCode)
 c40sj4 ^= Nd9V;
 }
 
-if (((zeM8M_yL3 != K79At4jHz) || (yTy1yT <= -815880709)) || ((bUkb_M) || (Ei_i != -1507743413)))
+if (((zeM8M_yL3 != K79At4jHz) || (false)) || ((bUkb_M) || (Ei_i != -1507743413)))
 {
 {
 int j = 7;
@@ -122,7 +122,7 @@ c40sj4 ^= 1685832764;
 break;
 }
 }
-else if ((Ei_i >= 2103940234) && (Q_a_Tzvv <= zeM8M_yL3))
+else if ((false) && (Q_a_Tzvv <= zeM8M_yL3))
 {
 zeM8M_yL3 *= bUkb_M;
 }
@@ -186,7 +186,7 @@ if (((i8UjNu) && (c40sj4 > mPIR0)) && ((Q_a_Tzvv <= Vy7p9u) || (yTy1yT >= Vy7p9u
 {
 y7ePc = yTy1yT ^ mPIR0;
 }
-else if (Q_a_Tzvv > -1661473222)
+else if (true)
 {
 zeM8M_yL3 |= MVsac;
 }

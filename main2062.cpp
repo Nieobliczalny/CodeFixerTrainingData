@@ -36,7 +36,7 @@ j3zF = R_s23D67x5(-143627168);
 }
 try
 {
-if (hcN9RZuJ >= -922665954)
+if (true)
 {
 if (KD5iMB_Z >= wQa3z)
 {

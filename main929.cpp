@@ -189,7 +189,7 @@ else if (uEQsC < uMcRiu)
 {
 p_0zD9H26v >>= 339316649;
 }
-else if (H26wiv14q >= 1622600625)
+else if (false)
 {
 switch (i6b63X1y0)
 {

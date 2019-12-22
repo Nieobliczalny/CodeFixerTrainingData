@@ -118,7 +118,7 @@ break;
 }
 }
 
-if (((iYYO9O2 >= 1660875513) && (uE30 <= -626216783)) && (YT9yuK & s_j_oo))
+if (((false) && (uE30 <= -626216783)) && (YT9yuK & s_j_oo))
 {
 cout << AgPw(f744B09_) << AgPw(f744B09_) << endl;
 }
@@ -230,7 +230,7 @@ for (int i = 3; i >= 0; i--)
 vEZxj = AgPw(U5YB_8KI);
 }
 
-g_5B6eH84 = (uP100G1 != -1677738424) ? AgPw(U5YB_8KI) : 1925326355;
+g_5B6eH84 = (true) ? AgPw(U5YB_8KI) : 1925326355;
 
 try
 {

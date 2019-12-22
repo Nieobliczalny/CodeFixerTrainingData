@@ -90,7 +90,7 @@ catch (int& errorCode)
 cJf0 = g_0R(-204445271, C3c2_3_y5o, w9AnA, K9L10Zi577);
 }
 
-if (((UGDc >= -1115890864) && (UGDc != -1562786232)) || ((w9AnA > qlA_3y) && (C3c2_3_y5o > Ffrs4)))
+if (((true) && (UGDc != -1562786232)) || ((w9AnA > qlA_3y) && (C3c2_3_y5o > Ffrs4)))
 {
 if ((UGDc > C3c2_3_y5o) || (MrZp90 != 1543578661))
 {
@@ -102,7 +102,7 @@ else if (qlA_3y)
 {
 qlA_3y = (int)floor(LM591G);
 }
-else if ((O_61 < -67971472) || (TYj8Q7d3V == -2095160314))
+else if ((false) || (TYj8Q7d3V == -2095160314))
 {
 w9AnA = (int)ceil(LM591G);
 }
@@ -310,7 +310,7 @@ else if (qlA_3y >= I8_0nq71)
 {
 qlA_3y = dr__912v(596954756, 1646957913);
 }
-else if (TYj8Q7d3V <= 1411949088)
+else if (true)
 {
 C3c2_3_y5o = (int)(i__U8n + (I8_0nq71));
 }

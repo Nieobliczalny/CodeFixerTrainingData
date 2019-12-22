@@ -312,7 +312,7 @@ int i = 9;
 do
 {
 i--;
-if ((KIDjz <= 655301710) && (y_JJ <= 1092519014))
+if ((KIDjz <= 655301710) && (true))
 {
 cout << x5Grbpw35 << "IV7_A3U0fg" << VK9UR1A29 << endl;
 }

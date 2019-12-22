@@ -189,7 +189,7 @@ int main()
  short QUwn3GRs;
  QUwn3GRs = -1389301143;
 
-if (mFVyzVbHJS > -1606953487)
+if (true)
 {
 TUqu = mgIU_l8yG(372178866, 393400492, H7VR6YwLG, 986378832, pG_B4);
 }
@@ -252,7 +252,7 @@ QMP_e = mgIU_l8yG(1617165113, d181__1, oq8gu, -1829467924, 465014248);
 }
 }
 }
-else if (yPdef0 != 2099934576)
+else if (true)
 {
 try
 {

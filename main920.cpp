@@ -167,7 +167,7 @@ break;
 }
 
 d9eX = (unsigned short int)(CDon_0Svu);
-if (((tJGp1X_9t <= 1347376272) || (C1wnHeWoA >= -2033786021)) || (CDon_0Svu > 1590049331))
+if (((true) || (C1wnHeWoA >= -2033786021)) || (CDon_0Svu > 1590049331))
 {
 if (bGjm == -1562910170)
 {

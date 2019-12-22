@@ -27,7 +27,7 @@ std::cout << Q285_5_fQu << "zFd1AytHC" << "DqBzI" << std::endl;
 
 Q285_5_fQu >>= 105356477;
 
-if (Hc3F8 <= -68187649)
+if (false)
 {
 {
 int j = 1;
@@ -100,7 +100,7 @@ try
 switch (TA_n83)
 {
 case 'a':
-D42IK211j0 = (mS37 <= -1414701387) ? R4_QVg(-1238530971, LXK_, Q285_5_fQu) : 984964169;
+D42IK211j0 = (false) ? R4_QVg(-1238530971, LXK_, Q285_5_fQu) : 984964169;
 break;
 case 'b':
 LXK_ = F7KiCI8(1217381091, 1987871802, Q285_5_fQu) | 2134122192;
@@ -158,7 +158,7 @@ int j = 6;
 while (j >= 0)
 {
 j--;
-if (LXK_ < 1773487920)
+if (true)
 {
 wt4Wm = KM4XHdrP();
 }
@@ -192,7 +192,7 @@ wt4Wm = (unsigned short int)(D42IK211j0);
 while (j < 1);
 }
 }
-if (mS37 != -1001660775)
+if (true)
 {
 std::cout << F7KiCI8(Q285_5_fQu, VZMpJ_9, -1998607143) << "n36xK" << "UPWzjA" << "g83we" << LXK_ << std::endl;
 }
@@ -224,7 +224,7 @@ VZMpJ_9 = KM4XHdrP();
 break;
 case 'c':
 case 'C':
-wt4Wm = (VZMpJ_9 == 65578249) ? TA_n83 : 290141189;
+wt4Wm = (false) ? TA_n83 : 290141189;
 break;
 case 'd':
 case 'D':
@@ -243,7 +243,7 @@ break;
 k6Ue = wt4Wm / mS37;
 
 Q285_5_fQu = Eo0M54E72(Q285_5_fQu, 195841987, 624916790, mS37);
-if ((VZMpJ_9 > 628552243) || ((D42IK211j0 == Q285_5_fQu) && (mS37 >= 426619536)))
+if ((false) || ((D42IK211j0 == Q285_5_fQu) && (mS37 >= 426619536)))
 {
 LXK_ = (unsigned short int)(TA_n83);
 }
@@ -285,7 +285,7 @@ TA_n83 = (unsigned short int)(Hc3F8);
 int i = 8;
 while (i >= 0)
 {
-if (Q285_5_fQu <= 216879111)
+if (true)
 {
 {
 int k = 2;

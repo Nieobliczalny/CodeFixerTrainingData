@@ -143,7 +143,7 @@ break;
 puLque = puLque / nBUm(t_Js, gNKYV0, 1640120669);
 try
 {
-if (p3i5S98_7 < -1260582277)
+if (false)
 {
 for (int k = 0; k < 10; ++k)
 {
@@ -199,7 +199,7 @@ p185y = (short int)(MI7_ubVI);
 while (j < 6);
 }
 }
-else if (((oHz2tj9v5 <= 502453684) && (SU0vn != TpWXsr2T)) && (Zpkjq & HRgNRpfA))
+else if (((true) && (SU0vn != TpWXsr2T)) && (Zpkjq & HRgNRpfA))
 {
 if (p185y < 156134214)
 {
@@ -237,7 +237,7 @@ hpQs = HRgNRpfA - gNKYV0;
 break;
 }
 }
-else if (hpO0hOB1_l == -1815675402)
+else if (false)
 {
 switch (v2hy0)
 {
@@ -400,7 +400,7 @@ do
 i++;
 if ((SU0vn < g9FMh0tz9) || (x_Y47 <= Zpkjq))
 {
-if (p3i5S98_7 < 1987785651)
+if (true)
 {
 Fu8ne_Zk++;
 }

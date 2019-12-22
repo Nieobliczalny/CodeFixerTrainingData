@@ -393,7 +393,7 @@ while (j < 2);
 }
 }
 cout << "UE80sA2rH" << zKRmq2V << endl;
-if (((HFi0 >= -1429579691) || (ZS60C2m4 & 1961705567)) || (Hq82 < Spw1dZ_32))
+if (((true) || (ZS60C2m4 & 1961705567)) || (Hq82 < Spw1dZ_32))
 {
 if (FD81_sn8tW >= WaW6u)
 {

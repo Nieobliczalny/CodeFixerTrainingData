@@ -118,7 +118,7 @@ if (RcI1Em)
 QKO8f9fK3 = (float)(C3Usp + (416579552));
 }
 }
-else if (((tlX7iI == 1336556932) && (bO6PGVCl1 >= -1764387420)) || ((C3Usp > dj_Jk) && (C3Usp > -877029909)))
+else if (((tlX7iI == 1336556932) && (bO6PGVCl1 >= -1764387420)) || ((C3Usp > dj_Jk) && (true)))
 {
 try
 {

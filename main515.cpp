@@ -75,7 +75,7 @@ GD7tU = Ks6weEeA8(GD7tU, -1984839608);
 }
 else if (H3wH_ == 643554860)
 {
-if (aM4kdC == 1968891935)
+if (false)
 {
 std::cout << "qGlg91e5" << n8aMGlhoK() << "hM7hTd_rVG" << "BrR3Yn7G" << std::endl;
 }
@@ -89,7 +89,7 @@ else if ((NT9yTz > -972252893) && ((IlZV9PN >= Z_Q2_) || (g26fNrSzD > Q4l9D)))
 {
 g26fNrSzD = (wjL8Oy9 & 1836736938) ? Ks6weEeA8(GD7tU, NT9yTz) : i7SeR5JvW2;
 }
-else if (N2I4 > 204201797)
+else if (false)
 {
 Id6U32--;
 }
@@ -135,7 +135,7 @@ N2I4 = n8aMGlhoK() / FO53F1MJ8;
 break;
 }
 }
-else if (aM4kdC == -1546849507)
+else if (false)
 {
 for (int k = 3; k >= 0; k--)
 {
@@ -179,7 +179,7 @@ while (k < 1);
 while (j >= 0);
 }
 }
-else if (Y4sbVq6 != -1721228916)
+else if (true)
 {
 if (Z_Q2_ <= dn0o_jgRI)
 {
@@ -190,7 +190,7 @@ else
 RGjfv = Ks6weEeA8(-583543847, Q4l9D);
 }
 }
-else if ((Z_Q2_) && (TkAqOW8O8 > 1334518814))
+else if ((Z_Q2_) && (false))
 {
 wjL8Oy9 = A_Bv_z1 & 1698948054;
 }
@@ -252,7 +252,7 @@ lAP9LZ--;
 
 if (jRN0ggs4l > 966179761)
 {
-if (BO99N6Z > -1794698521)
+if (true)
 {
 std::cout << Ks6weEeA8(i7SeR5JvW2, 196731415) << Ks6weEeA8(i7SeR5JvW2, 338981544) << tu2srUZ19 << "bHnqJhM0" << "s_97" << std::endl;
 }
@@ -275,7 +275,7 @@ catch (int& errorCode)
 IlZV9PN /= aM4kdC;
 }
 }
-if ((IlZV9PN != -744515419) || ((qSuh & 912217458) && (YImLGggy66 > 1765486685)))
+if ((true) || ((qSuh & 912217458) && (YImLGggy66 > 1765486685)))
 {
 cVOc9Gt = (int)floor(jGq7aj);
 }
@@ -285,7 +285,7 @@ if (MZC40 == -1120722808)
 {
 BO99N6Z += zG6bJM3;
 }
-else if (U9I0 == -1305861134)
+else if (false)
 {
 {
 int k = 2;
@@ -303,7 +303,7 @@ lAP9LZ = (char)(Q3YR);
 }
 }
 
-if ((Kx34EW9pwY == -715630418) && (tu2srUZ19 > 1781217942))
+if ((false) && (tu2srUZ19 > 1781217942))
 {
 op9qH = (unsigned short int)(BO99N6Z);
 }
@@ -339,7 +339,7 @@ for (int k = 0; k < 1; ++k)
 cVOc9Gt = (int)ceil(NT9yTz);
 }
 }
-else if ((BO99N6Z >= A_Bv_z1) && (B76_D1 == -2144443087))
+else if ((BO99N6Z >= A_Bv_z1) && (false))
 {
 RGjfv = (int)(wjL8Oy9);
 }
@@ -350,7 +350,7 @@ std::cout << BO99N6Z << std::endl;
 }
 else if ((wjL8Oy9 & -1400597805) || (Zb9zh8_ == -1613001632))
 {
-if (lAP9LZ > -1853127169)
+if (true)
 {
 zG6bJM3 = n8aMGlhoK();
 }
@@ -364,7 +364,7 @@ else if (B76_D1 >= Y4sbVq6)
 {
 lAP9LZ++;
 }
-else if (Q3YR <= 1022067898)
+else if (true)
 {
 Xy3o *= cVOc9Gt;
 }
@@ -453,7 +453,7 @@ while (i < 5);
 }
 for (int i = 9; i >= 0; i--)
 {
-if (Wm10k1mBk == 1577524608)
+if (false)
 {
 for (int k = 0; k < 1; ++k)
 {
@@ -471,7 +471,7 @@ catch (int& errorCode)
 op9qH ^= 607949648;
 }
 }
-else if ((jUpPk656_M == 928513572) && ((Y4sbVq6 >= YImLGggy66) && (aM4kdC == -1126507669)))
+else if ((jUpPk656_M == 928513572) && ((Y4sbVq6 >= YImLGggy66) && (false)))
 {
 std::cout << Ks6weEeA8(Q4l9D, Id6U32) << std::endl;
 }
@@ -560,7 +560,7 @@ else if (i7SeR5JvW2 >= -1003610005)
 {
 tu2srUZ19 = (int)ceil(NT9yTz);
 }
-else if ((m5hm20s4V > m7Dsvm) && (Q3YR >= 410437135))
+else if ((m5hm20s4V > m7Dsvm) && (false))
 {
 zG6bJM3 = n8aMGlhoK();
 }
@@ -713,7 +713,7 @@ Wm10k1mBk = (int)abs(wjL8Oy9);
 }
 }
 }
-else if (A_Bv_z1 > -947212601)
+else if (true)
 {
 jRN0ggs4l = n8aMGlhoK() / 764397580;
 }
@@ -729,7 +729,7 @@ if (rZFL6_K != 1087624479)
 std::cout << "C527J3" << Ks6weEeA8(Z_Q2_, 1023882239) << "coRozY64" << m7Dsvm << "H9Q9" << std::endl;
 }
 }
-if (Wm10k1mBk >= -1337654563)
+if (true)
 {
 for (int j = 9; j >= 0; --j)
 {
@@ -739,7 +739,7 @@ lAP9LZ = Ks6weEeA8(lAP9LZ, U9I0);
 }
 }
 }
-else if ((YImLGggy66 < Kx34EW9pwY) && (N2I4 <= 733383495))
+else if ((YImLGggy66 < Kx34EW9pwY) && (true))
 {
 cVOc9Gt = (int)floor(NT9yTz);
 }
@@ -762,7 +762,7 @@ if (Q4l9D <= -1462704482)
 {
 B76_D1 = Ks6weEeA8(B76_D1, Id6U32);
 }
-else if ((IlZV9PN < 1454284407) && (Q4l9D >= TkAqOW8O8))
+else if ((true) && (Q4l9D >= TkAqOW8O8))
 {
 FO53F1MJ8 = Zb9zh8_ - 1718950040;
 }
@@ -788,7 +788,7 @@ catch (int& errorCode)
 Wm10k1mBk %= FO53F1MJ8;
 }
 }
-else if (N2I4 != -1731090108)
+else if (true)
 {
 if (op9qH > jRN0ggs4l)
 {
@@ -900,7 +900,7 @@ GD7tU = (int)abs(FO53F1MJ8);
 }
 while (i < 4);
 }
-if ((N2I4 == 686717858) || (zG6bJM3 < i7SeR5JvW2))
+if ((false) || (zG6bJM3 < i7SeR5JvW2))
 {
 switch (BN66)
 {

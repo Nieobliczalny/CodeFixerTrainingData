@@ -69,7 +69,7 @@ int main(int argc, char** argv)
 	long long	fdZ9	=	1135471504;
   short int  K83361Z_1  =  1590475520;
 
-if (((NwDqn215 > 269019216) || (ijhLBQ)) && (K83361Z_1 > 2064098123))
+if (((NwDqn215 > 269019216) || (ijhLBQ)) && (false))
 {
 try
 {
@@ -163,7 +163,7 @@ else if (wx_8 & -174197933)
 {
 F1nY9P = (unsigned long long)(K83361Z_1 * F1nY9P);
 }
-else if (((o66af & kooIcl) && (AF222Y2HjB)) || (wx_8 <= -902670545))
+else if (((o66af & kooIcl) && (AF222Y2HjB)) || (false))
 {
 try
 {
@@ -229,7 +229,7 @@ Zk77qoBqn = (int)(Ru4azPqG_);
 
 std::cout << lu8DMPJ(466155761, -1967931202) << "hzeWsJSr" << lu8DMPJ(-153571819, kooIcl) << "iyC4a05hW" << std::endl;
 
-if (SugpF2gEE_ > 1414740469)
+if (false)
 {
 try
 {
@@ -247,7 +247,7 @@ if ((a2Pnu1 == -1103979625) || (Ow94B_JEl5 != 2027363308))
 int j = 0;
 do
 {
-if ((jRy6d0YM > -1477464801) && (sbm_11 < -1793973595))
+if ((true) && (sbm_11 < -1793973595))
 {
 S84a_e5t = ZFrt << 1900401089;
 }
@@ -285,7 +285,7 @@ wx_8 = lu8DMPJ(-1184900879, -2145321931);
 
 xr27040C = (long)(Ru4azPqG_);
 
-if (J9y96c > -738803149)
+if (true)
 {
 if (X88p != 206260120)
 {

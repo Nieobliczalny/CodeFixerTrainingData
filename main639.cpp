@@ -379,7 +379,7 @@ B64_2BNW = zf060Kpi8(965569774, 1622654378, DiZRA5Ja);
 while (i >= 0);
 }
 
-if (AuGB1gid == -1233103646)
+if (false)
 {
 {
 int j = 0;

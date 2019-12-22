@@ -233,7 +233,7 @@ k++;
 }
 }
 }
-else if (EX71bEenW <= 901767216)
+else if (true)
 {
 for (int j = 4; j >= 0; --j)
 {

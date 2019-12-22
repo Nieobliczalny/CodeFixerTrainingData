@@ -66,7 +66,7 @@ std::cout << c8QrOx34 << ph42(c8QrOx34, 822835051, 1089308778, -1025126543, j2vY
 
 try
 {
-if ((wlF24lZuHY < sKd8pOQvVz) || (aJK2))
+if ((true) || (aJK2))
 {
 wlF24lZuHY = (int)abs(j2vYR72M9);
 }
@@ -97,7 +97,7 @@ c8QrOx34 += 101631647;
 }
 for (int i = 0; i < 10; i++)
 {
-if (j2vYR72M9 > 1663621087)
+if (false)
 {
 {
 int k = 0;
@@ -219,7 +219,7 @@ else if (c8QrOx34 & -1075451086)
 {
 c8QrOx34 = aJK2 | 1556104117;
 }
-else if ((aJK2 == 856598911) || ((j2vYR72M9 < ct4BQ1v5) && (aJK2 != -769369902)))
+else if ((false) || ((j2vYR72M9 < ct4BQ1v5) && (aJK2 != -769369902)))
 {
 c8QrOx34 = ph42(vxpWuK, 1687911036, aJK2, -1552582204, j2vYR72M9);
 }
@@ -231,7 +231,7 @@ else if (vxpWuK > sKd8pOQvVz)
 {
 c8QrOx34 = ph42(-838288618, 1280588242, j2vYR72M9, -936464086, -1641221113);
 }
-else if (((aJK2 & 393188693) || (vxpWuK <= -683305208)) && (j2vYR72M9))
+else if (((aJK2 & 393188693) || (false)) && (j2vYR72M9))
 {
 c8QrOx34 = c8QrOx34 - j2vYR72M9;
 }
@@ -299,7 +299,7 @@ c8QrOx34 = hK4cfj9B0X(wlF24lZuHY, 1518935104);
 break;
 }
 }
-else if ((c8QrOx34 >= aJK2) && (vxpWuK < -781006517))
+else if ((c8QrOx34 >= aJK2) && (false))
 {
 aJK2 = (char)(sKd8pOQvVz * aJK2);
 }

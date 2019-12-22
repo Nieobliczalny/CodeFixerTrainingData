@@ -77,7 +77,7 @@ TYoy = A5cJj(m5E_5, 1906894205, NPd28, -1441037894);
 break;
 }
 
-if (((ITxfa >= qTGCXHudT8) && (m5E_5 <= -2107110740)) && ((Z_a3 == 1299537391) && (IW2Mwz > -855763523)))
+if (((ITxfa >= qTGCXHudT8) && (false)) && ((Z_a3 == 1299537391) && (IW2Mwz > -855763523)))
 {
 switch (TYoy)
 {

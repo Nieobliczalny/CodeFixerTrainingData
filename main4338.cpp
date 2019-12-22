@@ -123,7 +123,7 @@ std::cout << "Ej91In" << "L615" << "qKHsv2E4" << JqOd9I835() << eR2j << std::end
 C6Q1yZ = (int)abs(aeP6XE);
 if (W0Kl5 <= 903800821)
 {
-if (((UvjB < -154883314) && (SfDy39w5Y < o65_9uf9)) || (RCY3zf0LP >= 2025499508))
+if (((false) && (SfDy39w5Y < o65_9uf9)) || (RCY3zf0LP >= 2025499508))
 {
 {
 int k = 7;
@@ -314,7 +314,7 @@ KoYxR1W <<= Dn8mj_;
 int i = 0;
 while (i < 5)
 {
-if (E9p8l >= 1948669009)
+if (false)
 {
 if (NS04 == 1926573964)
 {

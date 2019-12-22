@@ -46,7 +46,7 @@ Pr_6__Yq8 = pEi_J(1211253657, 1992183898, u047c63, 1027038021, 505611271);
 break;
 }
 }
-else if (c1Pd6aQ5X == 707837074)
+else if (false)
 {
 for (int j = 0; j < 5; j++)
 {
@@ -260,7 +260,7 @@ L6f6OF = (int)abs(b96KaUMW5_);
 break;
 }
 }
-if (c1Pd6aQ5X == 1910896397)
+if (false)
 {
 cout << xou_H1() << VJvgat9 << endl;
 }

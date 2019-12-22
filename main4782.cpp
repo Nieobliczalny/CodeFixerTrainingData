@@ -132,7 +132,7 @@ catch (int& errorCode)
 {
 V40CUQAYQ0 = LQFCOA5Xm();
 }
-if ((H43FEW8Nl == Gr56) || (cOjMP5G9 > -1076968851))
+if ((H43FEW8Nl == Gr56) || (true))
 {
 V40CUQAYQ0 = (short int)(H43FEW8Nl * V40CUQAYQ0);
 }
@@ -170,7 +170,7 @@ for (int i = 0; i < 9; i++)
 Z2jvNz7Ax = (short)(c_k_);
 }
 
-if (((pE3qm <= -1144779288) || (B2axLw == 1126787022)) && (tOTR86GDb > mquhEizWz))
+if (((pE3qm <= -1144779288) || (false)) && (tOTR86GDb > mquhEizWz))
 {
 V40CUQAYQ0 = LQFCOA5Xm();
 }
@@ -227,7 +227,7 @@ else if (JI3NU3041 < pa478i_)
 {
 std::cout << c_k_ << LQFCOA5Xm() << LQFCOA5Xm() << std::endl;
 }
-else if ((V40CUQAYQ0 <= H43FEW8Nl) && ((nlT_hW <= 189350527) && (J7Fzl9KS06 < Gr56)))
+else if ((V40CUQAYQ0 <= H43FEW8Nl) && ((nlT_hW <= 189350527) && (true)))
 {
 {
 int j = 0;
@@ -421,7 +421,7 @@ U28G05h--;
 }
 else
 {
-if (B2axLw != Gr56)
+if (true)
 {
 hq7_s_Oi = SoW0f ^ T1TA_f;
 }

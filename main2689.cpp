@@ -223,7 +223,7 @@ try
 switch (i4t9zv01S)
 {
 case 0:
-N6Aml1NzBi = (N6Aml1NzBi >= -1734161220) ? BkA9j : KbXn;
+N6Aml1NzBi = (true) ? BkA9j : KbXn;
 break;
 case 1:
 Kk9q7lUL = LFcSj(Kk9q7lUL);
@@ -551,7 +551,7 @@ if (va5lr8 >= KbXn)
 {
 BLI2Fc2 = L9ZM % R_zzoogD;
 }
-else if ((EvIq < KbXn) && ((R_zzoogD != -253288681) && (N6Aml1NzBi <= KbXn)))
+else if ((EvIq < KbXn) && ((true) && (N6Aml1NzBi <= KbXn)))
 {
 switch (kBMUDDjC)
 {

@@ -28,7 +28,7 @@ int main(void)
         iy583XGn    =    zSG2    =    C29D    =    qlXC1XU    =    rK2dD0    =    PUX820vT_o    =    qordlQ0    =    rgCau    =    P6Oo8w10_8    =    NjXbcO1Fss    =    rSV1fVqhmA    =    QnnKswTv    =    DKvi2z0Oj    =    aV_7    =    TrOa    =    i9H5fjt    =    l6aY    =    WT4Y    =    YrtkGfR    =    Bq_lKrX    =    UCX0503    =    doMq    =    UKF939U    =    Mik8B66w    =    vK2SA    =    lu244iEGm8    =    a0U0_x    =    ctt3R4_    =    I8Cw47    =    Jm5vZ    =    Cuiq    =    Pu_NlM0    =    U49SObly    =    Qi7Av8z    =    R6l6_3_2i8    =    lW52g7W7    =    i3Cvw    =    toRXA    =    n6cV4    =    Sy9YP7    =    UERQhqL5n    =    uXLdC    =    Y9H32L_KR    =    O63va8    =    TsqC8g5o    =    oN8l    =    qoQ_75H7    =    z3duKsM1b    =    lyoydQK3rc    =    rrbsP65E    =    TKn5    =    QMsthMY    =    orSu    =    q9r_8eA    =    GyWIYLuXm    =    liO7aR    =    g9r0    =    h5I8e1    =    zbFBpG6    =    eK23    =    dr9n6mK3    =    fWGD    =    MAqx0T7a_2    =    x5ql809P    =    o0X_iv    =    cuETe4vZ    =    ydWPQ0N4J    =    obUpOkcY6V    =    -648491812;
 
 zSG2 = (short)(NjXbcO1Fss);
-if (R6l6_3_2i8 >= 302824492)
+if (false)
 {
 qoQ_75H7 = lFJ6x1(qoQ_75H7);
 }
@@ -47,7 +47,7 @@ int i = 7;
 while (i >= 0)
 {
 i--;
-if ((s0_0IrKejD >= -1671961994) || (WT4Y != -1334803941))
+if ((true) || (WT4Y != -1334803941))
 {
 for (int k = 8; k >= 0; --k)
 {
@@ -57,7 +57,7 @@ zSG2 = (int)abs(obUpOkcY6V);
 }
 }
 
-if (rrbsP65E != -2030138049)
+if (true)
 {
 {
 int j = 0;
@@ -68,7 +68,7 @@ if (a0U0_x <= rSV1fVqhmA)
 {
 obUpOkcY6V = G1TP(obUpOkcY6V, 476637988, lyoydQK3rc, -1020664951, vK2SA);
 }
-else if ((PUX820vT_o > 255442762) || ((iy583XGn) || (orSu > fWGD)))
+else if ((false) || ((iy583XGn) || (orSu > fWGD)))
 {
 I8Cw47 <<= z3duKsM1b;
 }
@@ -80,7 +80,7 @@ a0U0_x = lFJ6x1(1475236836);
 while (j < 3);
 }
 }
-if (l6aY >= 1856415712)
+if (false)
 {
 switch (i9H5fjt)
 {
@@ -193,7 +193,7 @@ while (i < 5);
 }
 if (Pu_NlM0 < Jm5vZ)
 {
-if (((UCX0503 >= iy583XGn) || (GyWIYLuXm >= 914960226)) && (rrbsP65E != -1246031555))
+if (((UCX0503 >= iy583XGn) || (false)) && (rrbsP65E != -1246031555))
 {
 switch (oN8l)
 {
@@ -213,7 +213,7 @@ break;
 }
 else if ((obUpOkcY6V <= zbFBpG6) || ((QMsthMY & 596956004) || (O63va8)))
 {
-if (Sy9YP7 <= -2045204126)
+if (false)
 {
 zbFBpG6 = Mik8B66w << cuETe4vZ;
 }

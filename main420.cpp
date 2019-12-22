@@ -172,7 +172,7 @@ try
 {
 if (zoA3Kz2O & UNi7wy8uIh)
 {
-if (((IiSlQ_F != GATM) || (fg_k == -1566828262)) || (oiAQl <= -218699610))
+if (((IiSlQ_F != GATM) || (false)) || (oiAQl <= -218699610))
 {
 x8J5d = xQYV(-2009857444);
 }

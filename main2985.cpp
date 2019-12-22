@@ -201,7 +201,7 @@ cout << "O6dX4iT" << WQwr(UdRv5BSmWy, tn0INX74M) << ZzOcX9s_ << endl;
 
 if (((Px6_Y2z_ == W_VEAcnp6) || (VuzcEtr)) || (m9emOz & oEK_G))
 {
-if (F_Er_BJdD >= -786009667)
+if (true)
 {
 try
 {
@@ -351,7 +351,7 @@ else if (z5o2YN == -447790962)
 {
 ODA7DMP--;
 }
-else if ((h846M <= 326292026) && (I_9Hf0I2 != daOUGQum))
+else if ((true) && (I_9Hf0I2 != daOUGQum))
 {
 XEX2U30 = WQwr(h846M, -1868422070);
 }
@@ -364,7 +364,7 @@ else
 Px6_Y2z_ = (int)ceil(I3G7Q5P);
 }
 }
-else if (C44A4fJIP != 2068823111)
+else if (true)
 {
 switch (u6u39yc)
 {
@@ -429,7 +429,7 @@ else if (Wls00a == 458198940)
 {
 u_JF0_hm56 = (int)(u6u39yc * u_JF0_hm56);
 }
-else if ((I3G7Q5P >= m9emOz) || ((C44A4fJIP != 2029449463) && (ODA7DMP >= 640010030)))
+else if ((I3G7Q5P >= m9emOz) || ((true) && (ODA7DMP >= 640010030)))
 {
 if (frG7h >= ODA7DMP)
 {

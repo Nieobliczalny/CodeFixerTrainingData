@@ -145,7 +145,7 @@ else
 cout << "C0KyqM5" << endl;
 }
 }
-else if ((DpYivFkO8 >= 988004948) && (kPL0f9xdZy > GfBpGjJ))
+else if ((false) && (kPL0f9xdZy > GfBpGjJ))
 {
 {
 int j = 1;
@@ -168,7 +168,7 @@ catch (int& errorCode)
 LyF1TBE__0 = (int)abs(pX8C) * 0;
 }
 }
-else if (((A77Q >= -1962439233) && (mq1Ah > -1658415637)) && (R8_pm & 1938282366))
+else if (((true) && (mq1Ah > -1658415637)) && (R8_pm & 1938282366))
 {
 {
 int j = 4;
@@ -322,7 +322,7 @@ aTqGNKrGh = (int)floor(ga3g0d);
 break;
 }
 }
-else if ((SW48_ > UFz1_3GJG3) && ((SW48_ < 1775852698) || (y__5rzvh <= F9jzs)))
+else if ((SW48_ > UFz1_3GJG3) && ((true) || (y__5rzvh <= F9jzs)))
 {
 for (int j = 10; j >= 0; --j)
 {

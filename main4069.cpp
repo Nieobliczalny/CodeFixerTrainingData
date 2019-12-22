@@ -75,7 +75,7 @@ i--;
 }
 while (i >= 0);
 }
-if ((VgU2sb_42 < -879480666) && ((A7_Ov1xYi4 <= 2097861730) && (VNh4ZH__JA >= mTajynqR)))
+if ((false) && ((A7_Ov1xYi4 <= 2097861730) && (VNh4ZH__JA >= mTajynqR)))
 {
 switch (Zo65u)
 {

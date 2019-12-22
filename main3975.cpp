@@ -151,7 +151,7 @@ int main(int argc, char** argv) {
  Mo_Zp0U = -1645953031;
 
 Ou2_ = (short int)(Vph9p16d + (-576792800));
-if (Kz4v5hA3Y5 != 425954560)
+if (true)
 {
 {
 int j = 3;
@@ -306,7 +306,7 @@ catch (int& errorCode)
 {
 hCM202219_ = (int)floor(m6HhSV);
 }
-if (byWFk_ <= -1077304829)
+if (false)
 {
 hh8zL024I = E06FKgb(hh8zL024I, s32dGO);
 }
@@ -327,7 +327,7 @@ QhiVX = (r461_0i8W != SCZ3HLN5) ? s32dGO : lI25ZW_(-991331064, s32dGO, 152210641
 int i = 0;
 while (i < 6)
 {
-if (Y06br10B8 == 170712951)
+if (false)
 {
 X_UvahciCD = (long double)(hCM202219_);
 }
@@ -337,7 +337,7 @@ if (aDrQRX55d <= -1718313732)
 {
 MutNrlQ1U--;
 }
-else if (nZ0qiOPQXC >= 661160112)
+else if (false)
 {
 Ma8HX7gQpU = v_xoj13(Ma8HX7gQpU, J5JHW7vLP0, 1388429178, aPQD2q6);
 }

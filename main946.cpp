@@ -91,7 +91,7 @@ i++;
 }
 while (i < 7);
 }
-if (((PkaA > hnEM2yI2) || (O868UEORPN & Va92Ez7)) || ((J2F4W50MuB > 1614303070) || (F67dwi8 < 1508193038)))
+if (((PkaA > hnEM2yI2) || (O868UEORPN & Va92Ez7)) || ((false) || (F67dwi8 < 1508193038)))
 {
 for (int j = 0; j < 4; j++)
 {
@@ -115,7 +115,7 @@ case 3:
 qVEz %= PkaA;
 break;
 case 4:
-jlPUfV_N = (y7h3 != 1767586983) ? OA46M36A : -263475023;
+jlPUfV_N = (true) ? OA46M36A : -263475023;
 break;
 case 5:
 RHj81Ib2 = ESMQRso2s(RHj81Ib2, -763842447, y7h3, Ou9LF_94Vl, Twn23R);
@@ -141,7 +141,7 @@ while (i >= 0)
 YGxHD5 = su79_2LDMI(YGxHD5, 93078634, Yj6owC7, y7h3, 1883125378);
 }
 }
-if (hnEM2yI2 <= 375673405)
+if (true)
 {
 for (int j = 0; j < 8; j++)
 {
@@ -175,7 +175,7 @@ s7r7C29 = ESMQRso2s(527652836, -1170619706, q8xc, 598209550, hnEM2yI2);
 break;
 }
 
-if ((Va92Ez7 != jlPUfV_N) || ((n6U7CDCV0F >= -1436707708) || (oT95Fo15 <= 636140287)))
+if ((Va92Ez7 != jlPUfV_N) || ((true) || (oT95Fo15 <= 636140287)))
 {
 UP6F8zFo = su79_2LDMI(UP6F8zFo, 654936625, -1140611272, 1859103158, -506962248);
 }
@@ -261,7 +261,7 @@ j++;
 while (j < 10);
 }
 }
-else if ((hmUh1yJmi != 1232119101) && (aNtdv_wr < 732498860))
+else if ((true) && (aNtdv_wr < 732498860))
 {
 d7MWkz = GrkpE();
 }
@@ -296,7 +296,7 @@ case 6:
 yD4VUnj = Twn23R - 1012619308;
 break;
 case 7:
-vyl6cn = (yyqjo == 956056204) ? 1288065083 : -1975757355;
+vyl6cn = (false) ? 1288065083 : -1975757355;
 break;
 case 8:
 F67dwi8 = (int)abs(tx0_ta);
@@ -306,7 +306,7 @@ break;
 while (j < 3);
 }
 }
-else if (OA46M36A == -704532985)
+else if (false)
 {
 J2F4W50MuB = Jh49s8M(1251545160, 358378166, yD4VUnj);
 }
@@ -317,7 +317,7 @@ int j = 5;
 do
 {
 j--;
-if (((SljC5 > F67dwi8) || (Pb96h4R <= -973696184)) && ((T5Y4 >= 1148647827) || (J2F4W50MuB == YrR0Xh_nF)))
+if (((SljC5 > F67dwi8) || (false)) && ((T5Y4 >= 1148647827) || (J2F4W50MuB == YrR0Xh_nF)))
 {
 VYKj = PkaA % 191588330;
 }
@@ -330,7 +330,7 @@ for (int i = 3; i >= 0; i--)
 {
 try
 {
-if (d_QnCd4Wf <= 1513566652)
+if (true)
 {
 Pb96h4R = ESMQRso2s(Pb96h4R, 1689215111, -105011967, u4ht4yKfz, 321378216);
 }

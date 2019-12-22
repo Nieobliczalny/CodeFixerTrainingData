@@ -153,7 +153,7 @@ if (((qQs3bzP == h4LFjT) || (cjlB_3 & h4LFjT)) && (sq_q428f_f & M78f3DuCA))
 {
 for (int j = 0; j < 9; j++)
 {
-if (((CSNFrp1 < 1842676429) || (M5i00m13 & h4LFjT)) && ((cpvyib4c8 < M5CPGKG7gd) && (oPc4JOTg > f6xR)))
+if (((true) || (M5i00m13 & h4LFjT)) && ((cpvyib4c8 < M5CPGKG7gd) && (oPc4JOTg > f6xR)))
 {
 M78f3DuCA = vKcd(M78f3DuCA);
 }
@@ -176,7 +176,7 @@ int j = 4;
 do
 {
 --j;
-if (cFEIf81o < zuW_)
+if (false)
 {
 B76h = vvDY(-1454098076);
 }
@@ -272,7 +272,7 @@ for (int i = 0; i < 10; i++)
 {
 for (int j = 0; j < 8; ++j)
 {
-if ((o0t8_P == 2076949580) && (l0844 < yb6oQ15))
+if ((false) && (l0844 < yb6oQ15))
 {
 W4196s = JXXKqiK9(1365214431);
 }
@@ -325,7 +325,7 @@ if (zFd_ & f6xR)
 {
 Ao2o = (int)ceil(ID7T91Qkf);
 }
-else if ((iB31e != UK6mkc) && ((B76h < zuW_) && (N474 & -631713235)))
+else if ((iB31e != UK6mkc) && ((false) && (N474 & -631713235)))
 {
 qQs3bzP = (int)ceil(oZ8v9_1fzv);
 }
@@ -337,7 +337,7 @@ else if (Xlfijljmw != UK6mkc)
 {
 BNJYuhbsCu = vvDY(584534579);
 }
-else if ((CSNFrp1 <= 1255252551) && ((f8_dkg05T) && (qCvg96 < 1483961917)))
+else if ((true) && ((f8_dkg05T) && (qCvg96 < 1483961917)))
 {
 gW2m7d5d0 = vvDY(gW2m7d5d0);
 }
@@ -355,7 +355,7 @@ if (rZhnEr4t8 & c_QAar)
 {
 std::cout << rZhnEr4t8 << JXXKqiK9(gW2m7d5d0) << "dI0cn4" << iX6C << std::endl;
 }
-else if (((o0t8_P < -889694808) && (M5i00m13 & 1400665177)) || (HE38y > -1461172858))
+else if (((false) && (M5i00m13 & 1400665177)) || (HE38y > -1461172858))
 {
 if (((Sh_wXK <= qCvg96) || (B96j == f8_dkg05T)) && (vpzrwa3))
 {
@@ -405,7 +405,7 @@ My_V48m3qB <<= 1066041763;
 break;
 }
 }
-else if (((M78f3DuCA & h4LFjT) && (LF8OVKjFl == I7own52)) || ((CSNFrp1 <= 1010582782) || (o1v62 > O5k8M)))
+else if (((M78f3DuCA & h4LFjT) && (LF8OVKjFl == I7own52)) || ((true) || (o1v62 > O5k8M)))
 {
 std::cout << vKcd(gW2m7d5d0) << "MVC1TQ3h" << cpvyib4c8 << "Rfegw8af_" << std::endl;
 }
@@ -438,7 +438,7 @@ else
 gQeV8 = P78jV - Nk_9W;
 }
 }
-else if (CSNFrp1 <= -637302792)
+else if (false)
 {
 Xlfijljmw = oPc4JOTg >> 1761772314;
 }
@@ -476,7 +476,7 @@ if ((M5CPGKG7gd) || (AUf_l_3F1 == f6xR))
 {
 LF8OVKjFl = (char)(gW2m7d5d0);
 }
-else if (pI3m0Xu81c == 1814420086)
+else if (false)
 {
 switch (sq_q428f_f)
 {
@@ -487,7 +487,7 @@ case 1:
 M5i00m13 = vKcd(M5i00m13);
 break;
 case 2:
-CSNFrp1 = (rZhnEr4t8 < h4LFjT) ? B96j : 1237510387;
+CSNFrp1 = (false) ? B96j : 1237510387;
 break;
 case 3:
 gQeV8 %= My_V48m3qB;

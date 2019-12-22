@@ -45,7 +45,7 @@ int j = 6;
 do
 {
 --j;
-if ((O2jH_4 != -1820030255) && (O2jH_4 & d2MJ_78mv))
+if ((true) && (O2jH_4 & d2MJ_78mv))
 {
 d2MJ_78mv %= 39982052;
 }
@@ -106,7 +106,7 @@ i++;
 }
 d2MJ_78mv = d2MJ_78mv & 1217114212;
 
-if (d2MJ_78mv <= -264939647)
+if (false)
 {
 if ((d2MJ_78mv == O2jH_4) || ((O2jH_4 < -265169161) && (O2jH_4 == -2046139645)))
 {
@@ -119,7 +119,7 @@ catch (int& errorCode)
 O2jH_4 = aj1_Md9(O2jH_4);
 }
 }
-else if (O2jH_4 != 689466140)
+else if (true)
 {
 if ((O2jH_4 & 1160588300) || (d2MJ_78mv >= O2jH_4))
 {
@@ -142,7 +142,7 @@ d2MJ_78mv = (int)abs(O2jH_4) + (-342787867);
 break;
 }
 }
-else if (d2MJ_78mv <= 2073151331)
+else if (true)
 {
 if (d2MJ_78mv > -1275021079)
 {
@@ -169,7 +169,7 @@ else
 d2MJ_78mv = d2MJ_78mv >> 1558257326;
 }
 }
-else if (((O2jH_4 >= 1741780075) || (O2jH_4 >= -260766509)) || ((O2jH_4 == d2MJ_78mv) && (d2MJ_78mv >= O2jH_4)))
+else if (((false) || (O2jH_4 >= -260766509)) || ((O2jH_4 == d2MJ_78mv) && (d2MJ_78mv >= O2jH_4)))
 {
 for (int j = 8; j >= 0; --j)
 {
@@ -180,7 +180,7 @@ else if (O2jH_4 != -1575823659)
 {
 std::cout << "ZiIb55" << O2jH_4 << std::endl;
 }
-else if (O2jH_4 >= 756627526)
+else if (false)
 {
 for (int j = 0; j < 9; j++)
 {
@@ -191,7 +191,7 @@ else if (O2jH_4)
 {
 d2MJ_78mv = (short)(O2jH_4 + (-905088010));
 }
-else if (O2jH_4 > -1253711758)
+else if (true)
 {
 d2MJ_78mv = O2jH_4 % 234006983;
 }
@@ -201,7 +201,7 @@ O2jH_4 = (char)(d2MJ_78mv * O2jH_4);
 }
 try
 {
-if (d2MJ_78mv < -72683492)
+if (false)
 {
 if (((O2jH_4 & 257091155) || (O2jH_4 < d2MJ_78mv)) && ((d2MJ_78mv >= 1058369499) || (O2jH_4)))
 {
@@ -234,7 +234,7 @@ int i = 0;
 do
 {
 i++;
-if ((d2MJ_78mv <= 1171465627) && (O2jH_4 > d2MJ_78mv))
+if ((true) && (O2jH_4 > d2MJ_78mv))
 {
 if (O2jH_4 & -1384052038)
 {
@@ -244,7 +244,7 @@ else if (d2MJ_78mv & O2jH_4)
 {
 O2jH_4 = aj1_Md9(O2jH_4);
 }
-else if ((d2MJ_78mv != 710586882) && (O2jH_4 & d2MJ_78mv))
+else if ((true) && (O2jH_4 & d2MJ_78mv))
 {
 d2MJ_78mv = O2jH_4 % 894484610;
 }
@@ -255,7 +255,7 @@ O2jH_4 = aj1_Md9(d2MJ_78mv);
 }
 else
 {
-if (O2jH_4 == -511629757)
+if (false)
 {
 d2MJ_78mv |= 1090981454;
 }
@@ -390,7 +390,7 @@ O2jH_4 = aj1_Md9(d2MJ_78mv);
 }
 }
 }
-else if ((O2jH_4 & d2MJ_78mv) || ((d2MJ_78mv != 983026968) || (O2jH_4 <= -955984005)))
+else if ((O2jH_4 & d2MJ_78mv) || ((true) || (O2jH_4 <= -955984005)))
 {
 {
 int j = 6;
@@ -401,7 +401,7 @@ O2jH_4 = aj1_Md9(O2jH_4);
 }
 }
 }
-else if (d2MJ_78mv < -1592638396)
+else if (false)
 {
 if (d2MJ_78mv == -837715418)
 {
@@ -413,7 +413,7 @@ else if (O2jH_4 != -1194489940)
 {
 O2jH_4 = aj1_Md9(O2jH_4);
 }
-else if (d2MJ_78mv > -1239157023)
+else if (true)
 {
 O2jH_4 = (int)abs(d2MJ_78mv) * 0;
 }
@@ -428,7 +428,7 @@ O2jH_4 = aj1_Md9(-328266498);
 }
 else
 {
-if (((d2MJ_78mv == -703460647) && (O2jH_4 != -1021833698)) || (O2jH_4 == d2MJ_78mv))
+if (((false) && (O2jH_4 != -1021833698)) || (O2jH_4 == d2MJ_78mv))
 {
 O2jH_4 = aj1_Md9(-1945376672);
 }
@@ -442,7 +442,7 @@ else if (O2jH_4 < d2MJ_78mv)
 {
 std::cout << d2MJ_78mv << aj1_Md9(-359807395) << std::endl;
 }
-else if (O2jH_4 < 1583707921)
+else if (true)
 {
 O2jH_4 = aj1_Md9(305650586);
 }

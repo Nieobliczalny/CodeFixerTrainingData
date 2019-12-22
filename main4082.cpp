@@ -246,7 +246,7 @@ for (int i = 0; i < 5; i++)
 {
 U97jz4vTMT = (int)abs(R83ZH0SWS);
 }
-if ((Vhk5na > 2065644980) || ((e_97 == Kip6hcVXq) || (isyvRQF6 != -1926575543)))
+if ((false) || ((e_97 == Kip6hcVXq) || (isyvRQF6 != -1926575543)))
 {
 PJVueaM_ = (int)abs(HY8a);
 }

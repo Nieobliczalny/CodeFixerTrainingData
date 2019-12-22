@@ -380,7 +380,7 @@ if (wKG38zK < dMAwy31HC)
 {
 std::cout << lLo9kY8_m << S1l42(304776556, UJUe, kTY0g, JCexpsi4) << "nbckg3" << Gw7Yrx12m << "aF2kxh11" << std::endl;
 }
-else if ((Jmr_iZ8f != X8730sc6_p) && ((W2Ag < D_GD8jx_) && (Jmr_iZ8f > YXik)))
+else if ((true) && ((W2Ag < D_GD8jx_) && (Jmr_iZ8f > YXik)))
 {
 std::cout << BYvb8_xdr() << D22XV6mA << BYvb8_xdr() << std::endl;
 }

@@ -292,7 +292,7 @@ BEqG7738xm = (int)floor(wrK26);
 break;
 }
 }
-else if ((tEF624) || ((zjIvUo >= 1691804542) && (rEil3 != 1342537121)))
+else if ((tEF624) || ((false) && (rEil3 != 1342537121)))
 {
 pe453Xx3c7 &= EVJHJ27HuG;
 }
@@ -352,7 +352,7 @@ break;
 
 std::cout << zjIvUo << std::endl;
 
-if (((BkIN6OQ) || (gHT2b_0Rb > -15923979)) && (Cl881W1 >= -787804446))
+if (((BkIN6OQ) || (true)) && (Cl881W1 >= -787804446))
 {
 try
 {
@@ -450,7 +450,7 @@ i_aSH--;
 break;
 }
 f29h_Ak = (unsigned long)(hhmt0p_3o);
-if (VK5Wx <= 1233148487)
+if (true)
 {
 {
 int j = 1;

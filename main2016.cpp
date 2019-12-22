@@ -50,7 +50,7 @@ if (oYWiu)
 {
 m_lE5QEw = (JcUu <= oYWiu) ? 545934636 : -1589902783;
 }
-else if (ITqU2tg84 == 105092683)
+else if (false)
 {
 {
 int k = 0;
@@ -109,7 +109,7 @@ i--;
 }
 try
 {
-if (r57p3Gh >= 1773842950)
+if (false)
 {
 {
 int k = 4;
@@ -139,7 +139,7 @@ for (int k = 0; k < 3; ++k)
 COUf = sFcW();
 }
 }
-else if (EcwGbxmE > 154157284)
+else if (false)
 {
 if (COUf > sf03w52V5)
 {
@@ -194,7 +194,7 @@ o8080wufz1 = UQJ85ueZ2S | shPz;
 i--;
 }
 }
-if (G4iWU5_ > -1672071473)
+if (true)
 {
 try
 {
@@ -292,7 +292,7 @@ E5Gw0 = (unsigned char)(sf03w52V5 + (-1725784091));
 std::cout << EcwGbxmE << T2o8dKsL << Yb9W4(997852992, m_lE5QEw) << wwv5(o5_pUK) << "mRY1ym" << std::endl;
 
 COUf = (unsigned short)(T2o8dKsL * COUf);
-if (JcUu == -171121073)
+if (false)
 {
 {
 int j = 0;

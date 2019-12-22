@@ -75,7 +75,7 @@ k--;
 while (k >= 0);
 }
 }
-else if (((kbBul) && (FaHJI == 1708849425)) && ((tl_fVSaWp <= 250454660) || (lQdv9VU < -711893170)))
+else if (((kbBul) && (false)) && ((tl_fVSaWp <= 250454660) || (lQdv9VU < -711893170)))
 {
 {
 int k = 3;
@@ -142,7 +142,7 @@ while (j < 7);
 }
 std::cout << mfWH75m << GdPP(a_IN_5M38, sFUnl, -1233886530, tzSDMVF4) << sFUnl << l2QM1L(a_IN_5M38, 1480247677, uyL3IU, tzSDMVF4) << l2QM1L(-273530407, -1233847272, -1413996288, tzSDMVF4) << std::endl;
 
-if (((a_IN_5M38 < -855993891) && (Vajw >= oHzU)) || (njdTrRM & 853461471))
+if (((false) && (Vajw >= oHzU)) || (njdTrRM & 853461471))
 {
 XF078l = l2QM1L(-591601678, 2006001850, lQdv9VU, XF078l);
 }

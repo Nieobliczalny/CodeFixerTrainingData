@@ -381,7 +381,7 @@ cout << "P1KB6" << DpS6_C_ << endl;
 
 if (H9p7W & -1348827573)
 {
-if ((eniwmZ_l == -1290302040) || ((taCJET8 <= -1067010009) || (T8Fcv8)))
+if ((false) || ((taCJET8 <= -1067010009) || (T8Fcv8)))
 {
 {
 int k = 9;
@@ -440,7 +440,7 @@ if ((z1ZaamOz == D78Aa75e7) && (hZ8C & t49tlz))
 {
 T8Fcv8 = vG43r_VOp(1571390682, C9abS2, y63BxhVH6, -1381185897);
 }
-else if (O_v4 == -1615641266)
+else if (false)
 {
 a52o0nE = (qY_26zpS1f & -305323320) ? tXz0aLol : uHAl4N0R_g;
 }
@@ -520,7 +520,7 @@ Y6psJ = DL5_q__(a52o0nE, -836567157, 1553880750, 1615471417);
 }
 else
 {
-if (y63BxhVH6 < 972150120)
+if (true)
 {
 try
 {

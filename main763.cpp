@@ -134,7 +134,7 @@ if (lo9L == 0)
 	QL4_k = ng3mkN / lo9L;
 }
 
-if (F0vaNUh > 1403609455)
+if (false)
 {
 if (lo9L & F0vaNUh)
 {
@@ -201,7 +201,7 @@ P1BjY9 = URcaG681(-2134863277, 1565317997, 248735012, -841746391, -59782239) - 2
 
 F9WI2 = (int)abs(nbjXVL);
 lo9L = URcaG681(-2144330900, Nn80, -1159199197, CeS1, -1966699688);
-if ((OEr0p1Tfg != -643730196) && (eMQt1G))
+if ((true) && (eMQt1G))
 {
 bb8DZ0ap = (long double)(OEr0p1Tfg);
 }

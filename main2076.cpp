@@ -107,7 +107,7 @@ if (P_G99Bkr != RtGzz)
 imtkAr = (int)abs(HN3plWXP);
 }
 
-if (fHxdX > -1342008829)
+if (true)
 {
 ea06Bab6 = (int)abs(A3nC6h8);
 }

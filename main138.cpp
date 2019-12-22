@@ -186,7 +186,7 @@ catch (int& errorCode)
 rOhfb = egNbhw & HFKlL19;
 }
 }
-else if (KF9IRn28 >= 1163400375)
+else if (false)
 {
 o4OQ = K5bg5K(-1356470682, HFKlL19);
 }

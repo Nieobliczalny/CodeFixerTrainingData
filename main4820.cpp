@@ -49,7 +49,7 @@ eDGJiTKvl = -1982938834 / hSfv;
 
 if (tp5Q7YLA > 982978224)
 {
-if ((rRg2Vx >= -335120711) || ((G2Z9W1M4TU <= DOvc250S) || (G56t39y6U == -905306234)))
+if ((true) || ((G2Z9W1M4TU <= DOvc250S) || (G56t39y6U == -905306234)))
 {
 if (m46Xw == -663485890)
 {

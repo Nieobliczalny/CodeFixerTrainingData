@@ -175,7 +175,7 @@ else if (IoE_jvx)
 {
 uH73J6P = (int)abs(yz0B6);
 }
-else if (s7XW != -1066973669)
+else if (true)
 {
 YITjI6V = b5f_96VDV(qEb_M, YITjI6V);
 }

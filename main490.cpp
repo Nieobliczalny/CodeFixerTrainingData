@@ -149,7 +149,7 @@ int j = 4;
 do
 {
 j--;
-N10_QfE = (DhCsdKOBPO != 1932413632) ? n9yE6 : -765856180;
+N10_QfE = (true) ? n9yE6 : -765856180;
 }
 while (j >= 0);
 }
@@ -241,7 +241,7 @@ else if (mGZq_ <= X1ub1Wfd7)
 {
 xE6NKZ3++;
 }
-else if (mGZq_ <= -553517762)
+else if (false)
 {
 n9v5djp %= 2101550012;
 }

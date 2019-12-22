@@ -35,7 +35,7 @@ int main(void) {
   unsigned char  jM6DQ_Pam,  Is31khe7k,  DcwR_Sn2j,  gKRsvC,  iLiOH6H,  aj2lln,  jP_I8nbU_,  Im88IStnOk,  Od91eM,  rUx2ic4T5,  yF5_ONy2,  Et_TCI98,  XW60C335n,  pmXbD,  rkO99M,  SoW1ZIySF,  oaN6A8oJ,  GzxYkK,  OQac42qNH,  Xn5I,  U0_775H3kD,  e0c82,  EmP9,  BwYn52,  O_d2Mzh4DE,  lyYYQ,  D8efi5Q,  j3XQO,  NE42,  BFW8_1,  tqH16Lj,  YA6B9_,  MrxHD1,  giIE,  UVK4j4Zt1,  mmhNyI8,  Leig01_W9_,  D32K,  VkzNC8z,  RA1z,  knX_sJ;
     jM6DQ_Pam  =  Is31khe7k  =  DcwR_Sn2j  =  gKRsvC  =  iLiOH6H  =  aj2lln  =  jP_I8nbU_  =  Im88IStnOk  =  Od91eM  =  rUx2ic4T5  =  yF5_ONy2  =  Et_TCI98  =  XW60C335n  =  pmXbD  =  rkO99M  =  SoW1ZIySF  =  oaN6A8oJ  =  GzxYkK  =  OQac42qNH  =  Xn5I  =  U0_775H3kD  =  e0c82  =  EmP9  =  BwYn52  =  O_d2Mzh4DE  =  lyYYQ  =  D8efi5Q  =  j3XQO  =  NE42  =  BFW8_1  =  tqH16Lj  =  YA6B9_  =  MrxHD1  =  giIE  =  UVK4j4Zt1  =  mmhNyI8  =  Leig01_W9_  =  D32K  =  VkzNC8z  =  RA1z  =  knX_sJ  =  1830087463;
 
-if ((DcwR_Sn2j) || ((Xn5I >= -1920269324) || (NE42 <= f99u)))
+if ((DcwR_Sn2j) || ((true) || (NE42 <= f99u)))
 {
 std::cout << "YJZWmw" << b8s90(111508535, -1226119282) << Im88IStnOk << "hJk08zS" << GzxYkK << std::endl;
 }
@@ -119,7 +119,7 @@ default:
 e0c82 = eV0ad_(-958537318, -330719523, Et_TCI98, p6UDqK, Leig01_W9_);
 break;
 }
-if ((DcwR_Sn2j) || (BwYn52 < 409189004))
+if ((DcwR_Sn2j) || (true))
 {
 {
 int j = 0;
@@ -207,7 +207,7 @@ break;
 while (i >= 0);
 }
 
-if ((RA1z & -1571702904) || ((NE42 >= B_xO5p62BC) || (VkzNC8z < f99u)))
+if ((RA1z & -1571702904) || ((NE42 >= B_xO5p62BC) || (true)))
 {
 {
 int j = 4;
@@ -221,7 +221,7 @@ j--;
 }
 }
 }
-else if (Leig01_W9_ >= XU1nM0v1)
+else if (true)
 {
 std::cout << "ZJjtZ2G4q" << eV0ad_(1988812367, Is31khe7k, lyYYQ, YA6B9_, -213479110) << "o8_XobWp_" << Od91eM << b8s90(1203680629, Is31khe7k) << std::endl;
 }
@@ -249,7 +249,7 @@ std::cout << O0rj6_(O_d2Mzh4DE, 1516001973) << O0rj6_(-627770759, -1741878208) <
 }
 for (int i = 6; i >= 0; --i)
 {
-if (BwYn52 >= XU1nM0v1)
+if (true)
 {
 try
 {
@@ -378,7 +378,7 @@ Od91eM = O0rj6_(Od91eM, U0_775H3kD);
 }
 }
 }
-else if (yF5_ONy2 >= 1560805664)
+else if (false)
 {
 h5QV7oUK = b8s90(OQac42qNH, h5QV7oUK);
 }
@@ -388,7 +388,7 @@ NE42 = eV0ad_(NE42, 997947159, mmhNyI8, YA6B9_, Xn5I);
 }
 rkO99M ^= 1611996620;
 
-if (e0c82 < f99u)
+if (true)
 {
 BwYn52 -= Im88IStnOk;
 }

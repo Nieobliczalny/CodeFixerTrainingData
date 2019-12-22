@@ -294,7 +294,7 @@ if (RUD6 > -891367842)
 b4JqVXP /= RUD6;
 }
 }
-else if ((j924nd4J8 & zPxH797) || (IKZEw9DjFf != F3b0Q2))
+else if ((j924nd4J8 & zPxH797) || (true))
 {
 if (yypD <= 317528695)
 {

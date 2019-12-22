@@ -113,7 +113,7 @@ YxSoP8I5Dk = b86waG3_4X(Q37KRYB7aF, -1983416571);
 break;
 case 'e':
 case 'E':
-kEp15r = (YW7k0lq5 == -216917188) ? 94970722 : X_C2z94Xt;
+kEp15r = (false) ? 94970722 : X_C2z94Xt;
 break;
 case 'f':
 case 'F':

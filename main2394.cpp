@@ -73,7 +73,7 @@ int main(void)
   long long  y7SR4Zjx;
   y7SR4Zjx  =  1285329690;
 
-if (((h5Lkx != 1929764816) || (isUNGx1c4w == B9VAzgE)) || ((X4482x) && (y7SR4Zjx & Z64y0R)))
+if (((true) || (isUNGx1c4w == B9VAzgE)) || ((X4482x) && (y7SR4Zjx & Z64y0R)))
 {
 for (int j = 0; j < 6; ++j)
 {
@@ -89,7 +89,7 @@ cout << "LcQ8_7je4T" << "Gsn0uw" << "V98qOP" << endl;
 }
 else if (X4482x & paEZh)
 {
-if ((B9VAzgE != -2144689184) || (h5Lkx <= -2025434724))
+if ((B9VAzgE != -2144689184) || (false))
 {
 cout << Pe2n(Z64y0R, h5Lkx, -588198708, 1534453386, JzWtAB) << "P4VWC" << X4482x << Pe2n(-691374344, 2140253679, -713103860, k_21sKat, JzWtAB) << "p6QR0QX" << endl;
 }
@@ -109,7 +109,7 @@ k++;
 }
 }
 }
-else if (PZU_D > -1703930468)
+else if (true)
 {
 try
 {
@@ -297,7 +297,7 @@ else if (Optx8wYwmV & 885828402)
 {
 PZU_D = Pe2n(k_21sKat, 557879662, doG3HurV, -2005143694, 657124763);
 }
-else if (BTg_crHf <= 423733327)
+else if (true)
 {
 Pa_19_A4 = (h5Lkx == -234462814) ? O_i01gaFS : Pa_19_A4;
 }

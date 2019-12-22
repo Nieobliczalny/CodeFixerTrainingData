@@ -166,7 +166,7 @@ try
 {
 if (H37V2 >= p78P33_pIH)
 {
-if (qsRIubh >= bOht)
+if (true)
 {
 pG_4++;
 }
@@ -291,7 +291,7 @@ while (j < 1);
 }
 }
 }
-if (qsRIubh <= 224959551)
+if (true)
 {
 WS76w498 = (char)(XGvf6aC1 * (IEA_4iNi_5));
 }

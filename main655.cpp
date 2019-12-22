@@ -188,7 +188,7 @@ catch (int& errorCode)
 VrSvJvN7f = (int)ceil(Ol0M);
 }
 }
-else if ((LW9Jk != 55165850) && (VrSvJvN7f >= -1370206610))
+else if ((true) && (VrSvJvN7f >= -1370206610))
 {
 switch (w5mJFc)
 {

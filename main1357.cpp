@@ -119,7 +119,7 @@ break;
 ur229LBcit = Zsad ^ pW6fW2;
 if ((d7908 <= -984879233) && ((AGcTV != -392791981) && (CYnIZLw > hx8X)))
 {
-if (((qyL8F) && (JKztFW & 556337116)) || ((daoA < iX8r79X_) && (Wx4kCKI3 >= 968346567)))
+if (((qyL8F) && (JKztFW & 556337116)) || ((daoA < iX8r79X_) && (false)))
 {
 try
 {
@@ -158,7 +158,7 @@ if (KozI3Lb7 <= bKWV2L9)
 {
 x5P_U6u = (int)ceil(daoA);
 }
-else if (((CYnIZLw > kQ5t1Ee49) || (qyL8F != Za664v4414)) || (L9kU == s_ir08))
+else if (((CYnIZLw > kQ5t1Ee49) || (true)) || (L9kU == s_ir08))
 {
 ur229LBcit = (int)abs(roLlVjK);
 }
@@ -182,7 +182,7 @@ d015_Rm1M = eYkB(d015_Rm1M, L9kU, -1159363230, Pz1IywAR);
 fjgL4UWcj1 /= 148907447;
 ur229LBcit = Dx6882BT_(-779800308, ur229LBcit, 94218062);
 
-if (KozI3Lb7 >= doS46U_02)
+if (true)
 {
 if (kQ5t1Ee49 != AGcTV)
 {
@@ -194,7 +194,7 @@ ET56wLd7 &= bKWV2L9;
 }
 else
 {
-if (roLlVjK != 1628629629)
+if (true)
 {
 daoA = (int)ceil(AGcTV);
 }
@@ -217,7 +217,7 @@ k--;
 }
 }
 }
-else if ((L_VSV1 >= Pz1IywAR) && (zhhw4_9pL >= doS46U_02))
+else if ((L_VSV1 >= Pz1IywAR) && (true))
 {
 std::cout << JKztFW << kg57059C9(1188409577) << "I4gBqUH83" << "Cws7T1WSy" << std::endl;
 }
@@ -237,7 +237,7 @@ Pt_m85 %= roLlVjK;
 
 if (CYnIZLw)
 {
-if (iX8r79X_ != 695201386)
+if (true)
 {
 switch (Zsad)
 {
@@ -276,7 +276,7 @@ std::cout << kg57059C9(ET56wLd7) << JKztFW << std::endl;
 }
 else
 {
-if (((pEe6Pdfu63) || (fjgL4UWcj1 != -731115328)) && (TDxqhtO5 == -142742135))
+if (((pEe6Pdfu63) || (true)) && (TDxqhtO5 == -142742135))
 {
 eg7O4n = kg57059C9(eg7O4n);
 }
@@ -313,7 +313,7 @@ for (int j = 0; j < 6; j++)
 std::cout << PFs7y6 << CYnIZLw << kQ5t1Ee49 << "JkMeVy8bW7" << U9tdbPRo(-351398626) << std::endl;
 }
 }
-else if ((pW6fW2 != -1719890818) && (d015_Rm1M == 582100071))
+else if ((true) && (d015_Rm1M == 582100071))
 {
 if (JKztFW)
 {
@@ -350,7 +350,7 @@ if (bKWV2L9 == Za664v4414)
 ur229LBcit |= 2132503646;
 }
 }
-else if ((x5P_U6u != Zsad) && ((fjgL4UWcj1 < -643353957) && (m1JAd == -1821944558)))
+else if ((x5P_U6u != Zsad) && ((false) && (m1JAd == -1821944558)))
 {
 {
 int k = 0;

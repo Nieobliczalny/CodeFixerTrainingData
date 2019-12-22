@@ -381,7 +381,7 @@ case 0:
 TNv3O3H2L += CO0wmjF9To;
 break;
 case 1:
-e76P_232In = (d7tU4_4 <= -988858334) ? -1760179403 : G2Nb4POa_;
+e76P_232In = (false) ? -1760179403 : G2Nb4POa_;
 break;
 case 2:
 o3bRHLe4F = (int)ceil(c8lO3);

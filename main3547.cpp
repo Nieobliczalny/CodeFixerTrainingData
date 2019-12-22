@@ -101,7 +101,7 @@ int main()
  zaA3 = 841705984;
 
 l_zxyvj01j = gH6pW50nO(l_zxyvj01j);
-if (l4e5T == -1885387011)
+if (false)
 {
 Nxhlg8X = (int)abs(f5880Gl5b);
 }
@@ -111,7 +111,7 @@ crD7ydk_G = (int)floor(Nxhlg8X);
 }
 
 qCz7P4a_0c = j40q6K8 >> vRhZ;
-if (((wy68h_sJ_ != 1663887168) || (pLH3mt & -155295985)) || ((Xt6PCkXX8U > 414707649) || (Z4xpbg9_0g > 1325954410)))
+if (((true) || (pLH3mt & -155295985)) || ((Xt6PCkXX8U > 414707649) || (Z4xpbg9_0g > 1325954410)))
 {
 std::cout << "hU9T8h" << gH6pW50nO(l_zxyvj01j) << S998v << "M0p7m1" << std::endl;
 }
@@ -137,7 +137,7 @@ catch (int& errorCode)
 Nxhlg8X = uUwK3De ^ 2095353675;
 }
 }
-else if (wy68h_sJ_ < -1224067405)
+else if (false)
 {
 {
 int j = 0;
@@ -206,7 +206,7 @@ while (i < 10);
 }
 KqX45Z = j40q6K8 & vRhZ;
 
-if (KqX45Z == jL_I_q)
+if (false)
 {
 b1EyRuV1E *= UT8s;
 }
@@ -224,7 +224,7 @@ if (((crD7ydk_G <= 351392179) && (gy6fzeI5j == Z4xpbg9_0g)) && ((pLH3mt >= F10e)
 {
 l_zxyvj01j = (short)(jL_I_q);
 }
-else if ((uH06G & CBvi2u) || (l_zxyvj01j < -1691614276))
+else if ((uH06G & CBvi2u) || (false))
 {
 {
 int k = 0;
@@ -236,7 +236,7 @@ qezPqQ24v3 = gH6pW50nO(-596043142);
 while (k < 6);
 }
 }
-else if ((b1EyRuV1E < jL_I_q) || (tXbS3OXL6 >= iSA1qB))
+else if ((true) || (tXbS3OXL6 >= iSA1qB))
 {
 for (int k = 0; k < 1; k++)
 {
@@ -249,7 +249,7 @@ if (KK_u7d4k & -1838917401)
 {
 Nxhlg8X = (int)ceil(crD7ydk_G);
 }
-else if (ZZzKENR >= jL_I_q)
+else if (false)
 {
 Nxhlg8X = l_zxyvj01j << S998v;
 }
@@ -262,7 +262,7 @@ else
 KK_u7d4k %= 1961304359;
 }
 }
-else if (b1EyRuV1E <= F10e)
+else if (false)
 {
 f5880Gl5b = (int)abs(crD7ydk_G);
 }
@@ -306,7 +306,7 @@ UT8s = (int)ceil(crD7ydk_G);
 int i = 4;
 do
 {
-if ((ZZzKENR >= wy68h_sJ_) || ((uUwK3De & gy6fzeI5j) || (SJKvoC52g <= -19421757)))
+if ((ZZzKENR >= wy68h_sJ_) || ((uUwK3De & gy6fzeI5j) || (false)))
 {
 for (int k = 0; k < 3; ++k)
 {
@@ -462,7 +462,7 @@ wLQaAi = gH6pW50nO(wLQaAi);
 int i = 0;
 while (i < 6)
 {
-if (l4e5T >= -644630815)
+if (true)
 {
 pLH3mt %= 1923805693;
 }
@@ -477,7 +477,7 @@ if (Q6R54zQ48o >= jL_I_q)
 {
 if (g1681Jo)
 {
-if (KqX45Z == 1696536901)
+if (false)
 {
 SJKvoC52g = m79uSV06(l_zxyvj01j, -1986708067, qezPqQ24v3, 1176654291);
 }
@@ -587,7 +587,7 @@ std::cout << IHkhL << tXbS3OXL6 << nSb5() << std::endl;
 int i = 3;
 while (i >= 0)
 {
-if ((UT8s == U59r5Yn) && (qezPqQ24v3 > 885869960))
+if ((UT8s == U59r5Yn) && (false))
 {
 if ((zaA3 > Nxhlg8X) || (IHkhL < wy68h_sJ_))
 {

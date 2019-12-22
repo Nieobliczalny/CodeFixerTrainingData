@@ -55,7 +55,7 @@ int i = 0;
 while (i < 4)
 {
 ++i;
-if (IMyNhg < -1708061094)
+if (false)
 {
 if (NcJl7 > NY_pY3)
 {
@@ -74,7 +74,7 @@ mTYS >>= adTY1hjjw2;
 while (k >= 0);
 }
 }
-else if ((usZ8 & -216375431) || ((q9Nd > iFI7_Xce9W) || (AS1gz <= yE4UWv5D)))
+else if ((usZ8 & -216375431) || ((q9Nd > iFI7_Xce9W) || (false)))
 {
 if (LXzb)
 {
@@ -84,7 +84,7 @@ else if (LXzb > a_4D)
 {
 y1JDe86pFd = y1JDe86pFd / 1035441632;
 }
-else if ((q9Nd >= -1870079771) && (LXzb & -1449183246))
+else if ((true) && (LXzb & -1449183246))
 {
 AS1gz = (ec_D_ > NcJl7) ? R5V7mzn : -667484266;
 }
@@ -100,7 +100,7 @@ for (int k = 2; k >= 0; k--)
 DIH3b6q21++;
 }
 }
-else if (NcJl7 <= yE4UWv5D)
+else if (false)
 {
 {
 int k = 0;

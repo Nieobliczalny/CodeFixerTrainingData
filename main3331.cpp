@@ -125,7 +125,7 @@ if ((af4lb02r) && (QADND174g))
 {
 Vvz2o57 = gd96w(jnb_, -1087566861);
 }
-else if ((bH8QzN8mE >= rSZ3Cwn) && (XDvvt))
+else if ((false) && (XDvvt))
 {
 switch (XDvvt)
 {
@@ -176,7 +176,7 @@ Z_dtY23A = (N63rhST == o7Dl) ? gd96w(JW7_82, UmC7c1i) : JrWg0EQ;
 break;
 }
 }
-else if (Olp_ > Ka2Zic)
+else if (false)
 {
 if (tZr2W2 != -1503672792)
 {
@@ -354,7 +354,7 @@ std::cout << "BrHY" << "AIu5" << Y_tX1QN1_W() << gd96w(Rgq9B, -796365540) << C5w
 r6Ni8L = dG_Ym / Y_8HW2FcL0;
 if (NRj3_77w9 <= z8s4mwGK)
 {
-if (((T_Pz < ex_7BpjL7) || (D17L > Ka2Zic)) && (TUQ8b < Ka2Zic))
+if (((false) || (D17L > Ka2Zic)) && (TUQ8b < Ka2Zic))
 {
 if (C5wst != z8s4mwGK)
 {
@@ -384,7 +384,7 @@ std::cout << mqA475 << YrIa2Ajx3 << gd96w(o__P, S04V7S2) << "M662" << "bYeb3M" <
 
 std::cout << "mahIWoW9e0" << "gMfK6" << Y_tX1QN1_W() << gd96w(o__P, 1295786070) << std::endl;
 
-if ((Vvz2o57 & vqnu) || ((wx0J == -1624066473) && (wx0J < -543679158)))
+if ((Vvz2o57 & vqnu) || ((false) && (wx0J < -543679158)))
 {
 wUmf = (short)(dzpX);
 }
@@ -402,7 +402,7 @@ ac1c99 = Y_tX1QN1_W();
 break;
 }
 }
-else if (pw24VA6U_b <= rSZ3Cwn)
+else if (true)
 {
 try
 {
@@ -431,7 +431,7 @@ SxTX = (short)(YrIa2Ajx3);
 
 N63rhST = (short)(z8s4mwGK + (rSZ3Cwn));
 
-if (pw24VA6U_b == vqnu)
+if (false)
 {
 oIyNx99 = Y_tX1QN1_W();
 }
@@ -451,7 +451,7 @@ for (int k = 0; k < 10; ++k)
 Olp_ = Y_tX1QN1_W();
 }
 }
-else if (q3mlne07e == Ka2Zic)
+else if (false)
 {
 jnb_ = Y_tX1QN1_W();
 }
@@ -466,7 +466,7 @@ else
 eKeaRk = gd96w(-1722258986, 856703756);
 }
 }
-else if (JW7_82 != rSZ3Cwn)
+else if (true)
 {
 QADND174g = (short)(rSZ3Cwn);
 }
@@ -508,7 +508,7 @@ break;
 
 o_RRn_++;
 
-if (r6Ni8L == vqnu)
+if (false)
 {
 {
 int j = 0;
@@ -520,7 +520,7 @@ j++;
 while (j < 4);
 }
 }
-else if (((K0o4YP3) || (j70i <= z8s4mwGK)) && ((C75ju7 < MiLlz2) && (U47er14Go4 > -1750973046)))
+else if (((K0o4YP3) || (j70i <= z8s4mwGK)) && ((C75ju7 < MiLlz2) && (true)))
 {
 ac1c99 %= TzhBudBHB5;
 }
@@ -616,7 +616,7 @@ while (i >= 0);
 }
 
 UmC7c1i = Y_tX1QN1_W();
-if (N63rhST >= Ka2Zic)
+if (false)
 {
 try
 {

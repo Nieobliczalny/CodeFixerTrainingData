@@ -63,7 +63,7 @@ if (hhhazi < ZTJi95UWXH)
 {
 std::cout << U1E94aChm_ << Kw7mR4Z1(-742541572) << "Y2Yn7I3" << std::endl;
 }
-else if ((QRLh__tM != Ath1X4s) && (HX1d16_S5a > J8W7GN8))
+else if ((true) && (HX1d16_S5a > J8W7GN8))
 {
 try
 {
@@ -110,7 +110,7 @@ else
 iVwdSuaG = IlXhsgMA(iVwdSuaG, -1246217998, -1366529246, QRLh__tM);
 }
 
-if (iVwdSuaG <= 1325638995)
+if (true)
 {
 switch (iVwdSuaG)
 {
@@ -203,7 +203,7 @@ if (iVwdSuaG != LQQDPkldg_)
 FP50z0 = (int)abs(P1B8I2v8);
 }
 
-if (J8W7GN8 == Ath1X4s)
+if (false)
 {
 FP50z0 = (int)floor(iI4osti);
 }

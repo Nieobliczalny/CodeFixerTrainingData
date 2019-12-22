@@ -125,7 +125,7 @@ catch (int& errorCode)
 Ol51 = (int)floor(I7MomU);
 }
 
-if (cME4 >= V_vZI1s45)
+if (true)
 {
 OuN42b5080 = (char)(cME4);
 }
@@ -225,7 +225,7 @@ catch (int& errorCode)
 Pz94E = WKb6u(232603659, -344868846, z9mr1x, 208087821, oF75JE9);
 }
 }
-else if (((hGmGC >= -2140598149) && (Lsi8CPT_04 & V_vZI1s45)) || (Ol51 > -815522143))
+else if (((true) && (Lsi8CPT_04 & V_vZI1s45)) || (Ol51 > -815522143))
 {
 p0NO0UZX = (int)ceil(Ol51);
 }

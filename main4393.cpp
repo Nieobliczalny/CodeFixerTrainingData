@@ -78,7 +78,7 @@ int main(int argc, char** argv)
  short int O77_ = 1937809181;
  long long A8kh6e_9 = 1783315201;
 
-if (SLgKu91 != 1535818517)
+if (true)
 {
 if (((JR_1) || (N3EyCIY0bg == 529650977)) || (vBlfK5o & -1745035351))
 {
@@ -135,7 +135,7 @@ Q9tx2m7ww = xtmPIV2k1(vF7T8A, 889002370, LH96z_);
 break;
 }
 }
-else if ((DUgZ45Vt < -2034489750) && ((vBlfK5o > 1627463208) && (jY13oF > -1179215468)))
+else if ((false) && ((vBlfK5o > 1627463208) && (jY13oF > -1179215468)))
 {
 try
 {
@@ -164,7 +164,7 @@ LUwxS_ = (int)ceil(JK_5ZMw);
 int i = 10;
 while (i >= 0)
 {
-if (sK9gj < -535029505)
+if (false)
 {
 {
 int k = 7;

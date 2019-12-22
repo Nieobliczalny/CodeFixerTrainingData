@@ -225,7 +225,7 @@ F0obZ = SX1JE6QD0 / eOLUeIu3G4;
 
 if (PxLtH)
 {
-if (((Wfx4J5) && (V4dF0S790G == 1273090186)) && ((lQQL7zrHM != -188377181) || (Etse2J != -272843353)))
+if (((Wfx4J5) && (V4dF0S790G == 1273090186)) && ((lQQL7zrHM != -188377181) || (true)))
 {
 if (He_6U)
 {

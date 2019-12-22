@@ -207,7 +207,7 @@ break;
 Rzk845v = (unsigned short)(ERx56);
 
 FhrV36WYk = (unsigned short)(R0b4N1DgJ4);
-if (ln6u < 1982529134)
+if (true)
 {
 try
 {
@@ -218,7 +218,7 @@ catch (int& errorCode)
 r5vLT = pKlc_Y178(AP24, ln6u, o16F472, -690454790) % 1583569214;
 }
 }
-else if (((ln6u < ouzu_OyOGS) && (K4sslfBChz > 337252773)) || (q0yo4Of <= -32264824))
+else if (((ln6u < ouzu_OyOGS) && (false)) || (q0yo4Of <= -32264824))
 {
 A1KeD_L = (int)abs(j9jM);
 }
@@ -233,7 +233,7 @@ else
 {
 for (int j = 8; j >= 0; j--)
 {
-if ((j84_69b8Fv != q0yo4Of) && ((o16F472 >= mHt8kjVUz) && (m5xKv == 278495465)))
+if ((j84_69b8Fv != q0yo4Of) && ((o16F472 >= mHt8kjVUz) && (false)))
 {
 ouzu_OyOGS >>= AP24;
 }
@@ -245,7 +245,7 @@ else if (nT0P92Z13E == Rzk845v)
 {
 X586_3T3H = JxW4Lr8Hh4 & mHt8kjVUz;
 }
-else if (nugi9 >= 2138628100)
+else if (false)
 {
 K4sslfBChz <<= JxW4Lr8Hh4;
 }
@@ -261,7 +261,7 @@ nugi9 >>= 1120350371;
 }
 AP24 = pKlc_Y178(-827678795, nT0P92Z13E, -950348077, -1033814092);
 
-if ((JxW4Lr8Hh4 < q8Sn3YCY2) && ((H_I5Wd57vT) || (m5xKv <= 1005049378)))
+if ((JxW4Lr8Hh4 < q8Sn3YCY2) && ((H_I5Wd57vT) || (true)))
 {
 {
 int j = 0;
@@ -306,7 +306,7 @@ Qr9U4_ = (int)abs(j9jM);
 
 pwUw2y_ = (unsigned short)(viFH3D2ij2);
 
-if ((z6V24MV < nT0P92Z13E) || ((qo608k7 != 69507728) && (Qr9U4_ > 987106800)))
+if ((z6V24MV < nT0P92Z13E) || ((true) && (Qr9U4_ > 987106800)))
 {
 std::cout << "D5y_5c8o" << pKlc_Y178(AP24, nT0P92Z13E, 722351064, 2000733032) << eJ9nm1tY(1761928738, -2042484109, uy5t, viFH3D2ij2, -1649489444) << oY9xp(72972932) << eJ9nm1tY(AP24, -1622809049, uy5t, viFH3D2ij2, D2pg2n) << std::endl;
 }
@@ -336,7 +336,7 @@ A1KeD_L = Ji_AtO(1758927197);
 i--;
 }
 }
-if (o16F472 <= -1644387632)
+if (false)
 {
 switch (C_bA60Zm3_)
 {
@@ -387,7 +387,7 @@ mHt8kjVUz = eJ9nm1tY(mHt8kjVUz, PbFLx40, ttUS, pwUw2y_, -444478439);
 break;
 }
 }
-else if ((sIhl16 == -795924461) || (H_I5Wd57vT == N5Wc))
+else if ((false) || (H_I5Wd57vT == N5Wc))
 {
 try
 {
@@ -409,7 +409,7 @@ else
 {
 k6TKT956BM = oY9xp(598133829);
 }
-if (((r5vLT != -96825836) && (ouzu_OyOGS & -117621145)) || (k6TKT956BM))
+if (((true) && (ouzu_OyOGS & -117621145)) || (k6TKT956BM))
 {
 o16F472 <<= 1759600618;
 }

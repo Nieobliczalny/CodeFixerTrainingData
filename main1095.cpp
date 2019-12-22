@@ -174,7 +174,7 @@ int i = 0;
 while (i < 8)
 {
 ++i;
-if (YFZFP < 27253753)
+if (true)
 {
 {
 int k = 10;
@@ -362,7 +362,7 @@ break;
 while (j >= 0);
 }
 }
-else if (Y8SJar_05Q == -625893752)
+else if (false)
 {
 {
 int j = 0;
@@ -395,7 +395,7 @@ z_v2ocHeHR = O_36(-1101010571, 1399927954, X60TLwTe, -1729692331);
 }
 }
 }
-else if (P9HvKaAD1_ != -214266457)
+else if (true)
 {
 S6FJDCX1++;
 }
@@ -479,7 +479,7 @@ int i = 0;
 while (i < 3)
 {
 i++;
-if (YFZFP >= 46488309)
+if (false)
 {
 try
 {
@@ -493,7 +493,7 @@ K1Ta = pQi3NQ(654111133);
 }
 }
 
-if (K6Ct < -896988244)
+if (false)
 {
 for (int j = 0; j < 6; ++j)
 {
@@ -515,7 +515,7 @@ else if (TuGa49a >= 1726831827)
 {
 n8j2v2 ^= jw51_PQ;
 }
-else if (OcrNq > 501681937)
+else if (false)
 {
 K9w1L = O_36(1452610440, ELrLAy5, 1687584544, -1882777312);
 }
@@ -565,7 +565,7 @@ if (KrWT17i < xXk2N)
 {
 std::cout << pQi3NQ(-1585837362) << U4YJ075aE << std::endl;
 }
-else if ((TuGa49a <= 254491177) && (jw51_PQ == -360501090))
+else if ((TuGa49a <= 254491177) && (false))
 {
 for (int j = 0; j < 10; ++j)
 {
@@ -677,7 +677,7 @@ P1Pe28h8hV = pQi3NQ(P1Pe28h8hV);
 }
 }
 }
-if (K6Ct == 346224399)
+if (false)
 {
 {
 int j = 0;

@@ -120,7 +120,7 @@ h8UJ = KxBn - LONDzM4G;
 }
 for (int i = 0; i < 5; i++)
 {
-if (Z7JrBfp == -1279623876)
+if (false)
 {
 {
 int k = 3;
@@ -240,7 +240,7 @@ for (int k = 0; k < 6; k++)
 rw67c8WX = iL5jafA(925580994, -1586773599);
 }
 }
-else if (LRO0O604x5 <= 342840965)
+else if (true)
 {
 LaV_3dw5 = (int)floor(C6604Mxn);
 }
@@ -268,7 +268,7 @@ std::cout << iL5jafA(-1416723025, o4Q1) << std::endl;
 }
 else
 {
-if (((w3bV) && (b1G6BG)) && ((Z7JrBfp > 357664423) && (a7J75I1 == -1491929094)))
+if (((w3bV) && (b1G6BG)) && ((false) && (a7J75I1 == -1491929094)))
 {
 v9K0AI9_QL = iL5jafA(J928FjU6I, -1066762879) ^ 287626804;
 }
@@ -296,7 +296,7 @@ k--;
 while (k >= 0);
 }
 }
-else if (sj_WD0B == 1117001816)
+else if (false)
 {
 ZW2abLV = iL5jafA(g5Ta5r4J3k, e_r49X);
 }

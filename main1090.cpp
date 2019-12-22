@@ -124,7 +124,7 @@ if (O_6SkBm & 578599002)
 {
 LpoO9 = SG3734Z__h + omglPm6;
 }
-else if (hv_ovT >= -1152741263)
+else if (true)
 {
 gFmbV0O_ %= VaQJLa;
 }
@@ -136,7 +136,7 @@ else if (qQm3gCJB9 <= 165325803)
 {
 J_19K8BrGh = BLc_WI5mO();
 }
-else if (a6y7 != 767845398)
+else if (true)
 {
 J_19K8BrGh = BLc_WI5mO();
 }
@@ -149,7 +149,7 @@ else
 ZiF9SW6r ^= 322344037;
 }
 }
-else if (m6h0 != -1210745791)
+else if (true)
 {
 if (BUrNB < J_19K8BrGh)
 {
@@ -178,7 +178,7 @@ else if (F_Wl2 < Y2J5346W_)
 {
 xku_ = BLc_WI5mO();
 }
-else if ((mVY2m < 230197511) && (l5q3aEHy >= 810886604))
+else if ((true) && (l5q3aEHy >= 810886604))
 {
 F_Ug = Q1os7YNDK8 % 380798433;
 }
@@ -194,7 +194,7 @@ E12s6l_BDE += 1714683534;
 }
 while (i < 8);
 }
-if ((BUrNB == -1127160031) || (i4ad4v00R > 1647259715))
+if ((false) || (i4ad4v00R > 1647259715))
 {
 VaQJLa = (unsigned char)(mVY2m);
 }
@@ -277,7 +277,7 @@ BUrNB = lg2wN30A - IY8RGTZM5u;
 }
 }
 }
-if (ZrRc5Jp < -103234499)
+if (false)
 {
 F_Ug = (unsigned char)(bnUqAgT_c);
 }
@@ -341,7 +341,7 @@ lg2wN30A = Nrmhyj(OHyoozo, -1874219231, 401580448);
 break;
 }
 }
-else if ((omglPm6 <= -594199102) && (FEOb58 > -69473534))
+else if ((false) && (FEOb58 > -69473534))
 {
 if (EA0U <= lg2wN30A)
 {
@@ -355,7 +355,7 @@ else if (mVY2m >= dtZnE)
 {
 i4ad4v00R = L80rt8(i4ad4v00R, 422419591, H4bd1Br, -1588885937, -48470127);
 }
-else if ((HiPt <= P95zY1SFn) && (i4ad4v00R != -1361033733))
+else if ((HiPt <= P95zY1SFn) && (true))
 {
 J_19K8BrGh = OA7q + tFU_rW;
 }
@@ -424,7 +424,7 @@ if (mVY2m > IXs_9F)
 {
 R9B7t59T = dPf9d - tFU_rW;
 }
-else if ((HiPt <= Q1os7YNDK8) || ((kw665I3x58 != -1214064806) || (Zq_7K < 358986909)))
+else if ((HiPt <= Q1os7YNDK8) || ((true) || (Zq_7K < 358986909)))
 {
 f7P7798On = tFU_rW | bMi48r4oe;
 }
@@ -443,7 +443,7 @@ if (KS5LIG >= y77riM)
 {
 O6Zy78_zAO = i_W_L(O6Zy78_zAO, 360512257, 544298071, f7P7798On);
 }
-else if ((mVY2m & xjRq) || (TGY3V0vzJ9 == 1944047869))
+else if ((mVY2m & xjRq) || (false))
 {
 aUaxf27 = i_W_L(aUaxf27, 1180350691, -965600973, 1900905179);
 }
@@ -455,7 +455,7 @@ else if (omglPm6 != -1806290244)
 {
 omglPm6++;
 }
-else if (O_6SkBm != 139706881)
+else if (true)
 {
 uc5iad = BLc_WI5mO();
 }

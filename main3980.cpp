@@ -273,7 +273,7 @@ while (i < 5);
 U6juMjNH--;
 if ((XOeh3aR & 222982905) && (X8uaQvs <= RFQ0))
 {
-if (Atak0JwD != -1788126119)
+if (true)
 {
 X8uaQvs %= wh_3i3;
 }
@@ -319,7 +319,7 @@ break;
 }
 }
 }
-else if (y3Xprk63Pc != -892765124)
+else if (true)
 {
 HHQQ8j = (int)floor(EEL6gDy6cS);
 }

@@ -69,7 +69,7 @@ while (i < 2);
 int i = 0;
 do
 {
-if ((OT_O8C == 2119322301) || (d27CvkF <= X0Uls1d4e))
+if ((false) || (d27CvkF <= X0Uls1d4e))
 {
 std::cout << K57p159zK << fX_OE0MNfd << std::endl;
 }

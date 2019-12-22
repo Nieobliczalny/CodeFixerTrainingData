@@ -195,7 +195,7 @@ cout << "j817cQ3V" << "kkksakhw" << C5QlAsm89 << pm3J1DMO_o << endl;
 
 XrJUy = (int)floor(iS6_);
 
-if ((Z529186 >= -1874131359) && (Ois8bS > -817409604))
+if ((Z529186 >= -1874131359) && (true))
 {
 if (I5_Atz == 423797972)
 {
@@ -208,7 +208,7 @@ else
 Pk_61_7 = a_bVlg % GYInG;
 }
 }
-else if (pm3J1DMO_o == -1627468125)
+else if (false)
 {
 {
 int k = 0;

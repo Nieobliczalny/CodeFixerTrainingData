@@ -73,7 +73,7 @@ break;
 }
 for (int i = 1; i >= 0; --i)
 {
-if (yIj_RSG4uA >= -881324436)
+if (true)
 {
 try
 {
@@ -84,7 +84,7 @@ catch (int& errorCode)
 R97iJ_ = (EUhV0 != -1681853096) ? 1866571796 : nTZir22iXO;
 }
 }
-else if (Blvfj1h6_E <= -588045089)
+else if (false)
 {
 for (int k = 0; k < 4; k++)
 {
@@ -105,7 +105,7 @@ else if (((vqkiK3j == yIj_RSG4uA) && (ML6D9O5 > NU5UvTo)) && (j6Fx75Dk))
 {
 AD8bA9Cv9i ^= dNJ1;
 }
-else if (((GlcIE2Iy_ <= -787253512) && (UOTe2yG > 52646797)) || ((g_MTf0SaVa == Nzsv48___5) && (n31Uj4 != 796858233)))
+else if (((false) && (UOTe2yG > 52646797)) || ((g_MTf0SaVa == Nzsv48___5) && (n31Uj4 != 796858233)))
 {
 xahV2 = JOWp8 + 1150916367;
 }
@@ -126,7 +126,7 @@ R97iJ_ = dB4_sO5gOc >> 576775677;
 r_4S_ = NU5UvTo / 1509593691;
 Nzsv48___5 -= F9dw7SJTl;
 
-if (yIj_RSG4uA > -645024472)
+if (true)
 {
 try
 {
@@ -147,7 +147,7 @@ MTm85I = (int)abs(R97iJ_);
 
 std::cout << AD8bA9Cv9i << F9dw7SJTl << "dAj8t" << X2aHU << "ybvR" << std::endl;
 
-if ((hM12 < 1544767772) || (iz_T))
+if ((true) || (iz_T))
 {
 {
 int j = 9;
@@ -175,7 +175,7 @@ c21CFwMY15 |= 304911778;
 break;
 }
 
-if (EQ2_ == -1429251540)
+if (false)
 {
 AD8bA9Cv9i = (short int)(yIj_RSG4uA);
 }
@@ -283,7 +283,7 @@ case 'e':
 t_23E = h7DGPxs * 1202893117;
 break;
 }
-if (h7DGPxs >= 1300651612)
+if (false)
 {
 {
 int j = 2;

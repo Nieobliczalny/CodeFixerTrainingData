@@ -57,7 +57,7 @@ for (int i = 0; i < 6; ++i)
 {
 for (int j = 8; j >= 0; j--)
 {
-if (W58NMxOZ <= 970240101)
+if (true)
 {
 PiDem1 = F3rE499C42 | 866347827;
 }
@@ -95,7 +95,7 @@ for (int k = 4; k >= 0; --k)
 m7_ONM = FU8JjXTLb / 1675294661;
 }
 }
-else if (N8Kjs3vr == -1082760777)
+else if (false)
 {
 try
 {
@@ -130,7 +130,7 @@ for (int i = 0; i < 4; ++i)
 {
 if (fqF9r5_4Y)
 {
-if (L7hAY8w3 >= -1004176679)
+if (true)
 {
 zcuS = (int)abs(i2bxi50Rm);
 }
@@ -156,7 +156,7 @@ if (YyYtof == m_m8N_H)
 cout << "PrDrzo0lv" << "Zy9mR3BU" << MvB9R2L2q7 << endl;
 }
 VddK = wVwJ << G3qaCO0VK;
-if (((jq141 <= BGZG73v) && (FU8JjXTLb == 1828623280)) && (WhJoq))
+if (((jq141 <= BGZG73v) && (false)) && (WhJoq))
 {
 {
 int j = 0;

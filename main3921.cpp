@@ -42,7 +42,7 @@ int main(void) {
 
 if (mP733QM_4 > 1172941969)
 {
-if ((d112_H & -1779461481) || (yCQe != 528591624))
+if ((d112_H & -1779461481) || (true))
 {
 switch (mP733QM_4)
 {
@@ -83,7 +83,7 @@ break;
 }
 else if (YYfF778oVG > X_H8I015R_)
 {
-if (((yCQe >= -629584839) && (A4kE4oHt <= -217625839)) && (ybDkDmm <= 2077134595))
+if (((true) && (A4kE4oHt <= -217625839)) && (ybDkDmm <= 2077134595))
 {
 mP733QM_4 -= 820184375;
 }
@@ -115,7 +115,7 @@ for (int i = 10; i >= 0; --i)
 {
 for (int j = 5; j >= 0; j--)
 {
-if ((tfvnNh < -1551472936) || ((A4kE4oHt == 426447466) && (oAaMd & A4kE4oHt)))
+if ((false) || ((A4kE4oHt == 426447466) && (oAaMd & A4kE4oHt)))
 {
 sU9C5EGKeP = g512HoPpsb(-1913069260, -1081490016, ybDkDmm);
 }
@@ -462,7 +462,7 @@ ybDkDmm = (int)abs(yCQe) * 0;
 }
 else if (((d112_H <= 27054218) || (mP733QM_4 >= X_H8I015R_)) || (YYfF778oVG < tfvnNh))
 {
-tfvnNh = (yCQe != 513973943) ? ybDkDmm : A4kE4oHt;
+tfvnNh = (true) ? ybDkDmm : A4kE4oHt;
 }
 else if (A4kE4oHt < -1278506798)
 {
@@ -523,7 +523,7 @@ else
 tfvnNh = oAaMd & 243680285;
 }
 }
-else if (ybDkDmm < -1469889032)
+else if (false)
 {
 X_H8I015R_ = (int)(d112_H);
 }

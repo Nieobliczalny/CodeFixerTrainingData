@@ -54,7 +54,7 @@ int main(void)
     q3ALOIkw    =    -1056117635;
     F_1jm2    =    1154744370;
 
-if ((q3ALOIkw) && (q3ALOIkw == 1245641981))
+if ((q3ALOIkw) && (false))
 {
 {
 int j = 0;

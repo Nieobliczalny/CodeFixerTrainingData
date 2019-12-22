@@ -140,7 +140,7 @@ int i = 6;
 while (i >= 0)
 {
 --i;
-if ((K85v < 836423744) || (G2_7 == Feopjth))
+if ((true) || (G2_7 == Feopjth))
 {
 if (N_gb8 <= 623687421)
 {
@@ -154,7 +154,7 @@ else if (uQrx_APr5 >= To_C)
 {
 X9Ul82lS7m >>= JhI_9I3i3S;
 }
-else if (w90OFHFN3 >= -1423603286)
+else if (true)
 {
 l5ooC0J1 = (int)abs(QYYRF);
 }
@@ -228,7 +228,7 @@ while (j < 10);
 }
 else
 {
-if ((Eg2KE > -2017674557) && ((Feopjth > -1246270674) || (mc1mW)))
+if ((Eg2KE > -2017674557) && ((true) || (mc1mW)))
 {
 if (w90OFHFN3 > f8tQ9dw9)
 {

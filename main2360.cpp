@@ -32,7 +32,7 @@ int main(void)
  unsigned char xp4R2 = -1494507313;
 
 std::cout << pN37dVt6E0 << pN37dVt6E0 << xp4R2 << S60sjWS5b << std::endl;
-if (G_jm != -1530283935)
+if (true)
 {
 for (int j = 3; j >= 0; --j)
 {
@@ -157,7 +157,7 @@ case 'a':
 y4N5 -= y4N5;
 break;
 case 'b':
-y4N5 = (S60sjWS5b == r914Zni) ? xp4R2 : S60sjWS5b;
+y4N5 = (false) ? xp4R2 : S60sjWS5b;
 break;
 case 'c':
 W4g17lFj /= 711456907;
@@ -247,7 +247,7 @@ j++;
 }
 }
 }
-else if (FgfUS >= r914Zni)
+else if (true)
 {
 switch (G_jm)
 {
@@ -265,7 +265,7 @@ WH0F2DUi = (pN37dVt6E0 > KEdUdvQ) ? -146330525 : pN37dVt6E0;
 break;
 }
 }
-else if ((v2rf3bleE != Y1T0o901) || (Y1T0o901 < 370575586))
+else if ((v2rf3bleE != Y1T0o901) || (true))
 {
 xp4R2 = WH0F2DUi / 1115706618;
 }
@@ -287,7 +287,7 @@ j++;
 }
 }
 }
-else if (((v2rf3bleE == r914Zni) || (X59B > aIpiYKNb)) || (WH0F2DUi))
+else if (((false) || (X59B > aIpiYKNb)) || (WH0F2DUi))
 {
 WH0F2DUi = (int)abs(v2rf3bleE) + (-304745620);
 }

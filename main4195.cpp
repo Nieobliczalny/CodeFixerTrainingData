@@ -55,7 +55,7 @@ for (int i = 2; i >= 0; i--)
 {
 for (int j = 0; j < 10; j++)
 {
-if (Kc67qeyA > -1191775355)
+if (true)
 {
 T8zuixI2m3--;
 }
@@ -71,7 +71,7 @@ else if ((wIAFLcE != W309f) && ((x9uHzQ63lg) || (U8fUZ < j55_0)))
 {
 W309f *= 2119726744;
 }
-else if (kU3KuorY <= 1544046614)
+else if (true)
 {
 kU3KuorY = Kc67qeyA * AmQFbh_;
 }
@@ -159,7 +159,7 @@ Sp79__ = AmQFbh_ - 252977062;
 }
 }
 }
-else if (TPe4S29_ > -1169423586)
+else if (true)
 {
 switch (Sp79__)
 {
@@ -172,7 +172,7 @@ else if (wIAFLcE != -989480727)
 {
 std::cout << "K_X90zrK" << kU3KuorY << H4pk050 << wIAFLcE << std::endl;
 }
-else if (H4pk050 >= 429990737)
+else if (false)
 {
 {
 int j = 0;
@@ -212,7 +212,7 @@ int i = 2;
 do
 {
 i--;
-if (TPe4S29_ > 232933891)
+if (false)
 {
 for (int k = 0; k < 1; k++)
 {
@@ -247,7 +247,7 @@ H4pk050 = kU3KuorY * T8zuixI2m3;
 while (i >= 0);
 }
 
-if (H4pk050 > -1071253450)
+if (true)
 {
 G5_GQ_ &= 679103980;
 }

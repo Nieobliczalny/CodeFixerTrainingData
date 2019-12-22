@@ -234,7 +234,7 @@ if (scx069)
 Kp4Y <<= v97M;
 }
 }
-else if (v97M == -1540390546)
+else if (false)
 {
 cout << l3wXe8 << gDPh_2PXrH << endl;
 }
@@ -327,7 +327,7 @@ rpP659B8X = (int)abs(zaB1m0V) * 0;
 
 A1CSx = (int)ceil(cY_yQ0_7);
 
-if (CPg9iW > 1318978229)
+if (false)
 {
 if (ZlI8LbA <= -468840921)
 {
@@ -368,7 +368,7 @@ r6d91jCsS = (int)ceil(l4b0j88k8x);
 break;
 }
 }
-else if (RdLodE85pY < -1044661258)
+else if (false)
 {
 if (hoaLb <= Q_I2_698)
 {

@@ -162,7 +162,7 @@ if (TJrf2z)
 zdh3TP2I--;
 }
 
-if ((f8X1 & nu_S9h) && (MWwU6nlM50 >= -174805376))
+if ((f8X1 & nu_S9h) && (true))
 {
 try
 {

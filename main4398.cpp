@@ -132,7 +132,7 @@ cout << lusfPY << n5DI7PCw << V7kH << "dUMg181" << endl;
 }
 cout << "vLuV1" << gEFe << endl;
 
-if (JcO638p664 != -1255628498)
+if (true)
 {
 if (((q_MeVr > vdcast3P) || (JcO638p664 != euKEQyJ0cC)) || (M53r != 1154771403))
 {
@@ -209,7 +209,7 @@ C1I1 = (short int)(euKEQyJ0cC);
 
 gEFe = (double)(H8xi94 + (-7412594));
 cout << 1852949827 / Jux20H_X << endl;
-if ((i04h83 > -1829954497) && ((UmmRn44z <= H8xi94) && (M53r <= euKEQyJ0cC)))
+if ((i04h83 > -1829954497) && ((UmmRn44z <= H8xi94) && (false)))
 {
 n7G5Z = tMi9R39 | 1247895006;
 }
@@ -241,7 +241,7 @@ else if (((CtVI & -962626359) || (cr2fkq7QZ == H8xi94)) || (xX617HB_Q >= -204973
 {
 UY0M = (int)floor(PbO4N);
 }
-else if (s_1RUYHOD9 >= euKEQyJ0cC)
+else if (true)
 {
 cout << X58_9 << V7kH << W3o5Vhw29 << t7yZw_P5L << endl;
 }
@@ -265,7 +265,7 @@ else if (xX617HB_Q == -1070075296)
 {
 if (A9OjKB8P > H8xi94)
 {
-if (((H2178a < H8xi94) && (M53r <= 1889208649)) || (zUS3 >= H8xi94))
+if (((H2178a < H8xi94) && (true)) || (zUS3 >= H8xi94))
 {
 g7pfR_ ^= VpJO;
 }
@@ -375,7 +375,7 @@ catch (int& errorCode)
 M53r -= 1258287154;
 }
 }
-else if (tMi9R39 >= 1536768055)
+else if (false)
 {
 utNYsi = (char)(euKEQyJ0cC);
 }
@@ -396,7 +396,7 @@ GKp2A = yTbf | D4a8_;
 }
 else if (CtVI & H8xi94)
 {
-if ((n7G5Z <= euKEQyJ0cC) && ((C1I1 >= tMi9R39) || (z5V5Ii > md39D_H4)))
+if ((false) && ((C1I1 >= tMi9R39) || (z5V5Ii > md39D_H4)))
 {
 xX617HB_Q %= NnA1862_ag;
 }
@@ -419,7 +419,7 @@ e_eP90jc09 = GKp2A | 111010547;
 }
 else if (((xFAfG0 & HgeGS) || (cS311A2 <= H8xi94)) || (pvplnK9 > yTlB54mX_Z))
 {
-if (((T_y6z_ <= euKEQyJ0cC) && (sYfUq != euKEQyJ0cC)) || ((mT0p1GA == pvplnK9) || (yTlB54mX_Z < euKEQyJ0cC)))
+if (((false) && (sYfUq != euKEQyJ0cC)) || ((mT0p1GA == pvplnK9) || (yTlB54mX_Z < euKEQyJ0cC)))
 {
 try
 {
@@ -448,7 +448,7 @@ catch (int& errorCode)
 gEFe = euKEQyJ0cC - 328830869;
 }
 }
-else if ((utNYsi) && ((g166jd26 > -190040860) || (lusfPY < Wl92B5R3_9)))
+else if ((utNYsi) && ((true) || (lusfPY < Wl92B5R3_9)))
 {
 if (VpJO)
 {
@@ -633,7 +633,7 @@ else if (NnA1862_ag >= d_bA)
 {
 UmmRn44z -= W3o5Vhw29;
 }
-else if ((g166jd26 > euKEQyJ0cC) || (pvplnK9 & t7yZw_P5L))
+else if ((true) || (pvplnK9 & t7yZw_P5L))
 {
 cr2fkq7QZ = (long)(JYdx);
 }

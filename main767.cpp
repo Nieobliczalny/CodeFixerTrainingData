@@ -247,7 +247,7 @@ CFG1LWqH = (long double)(D1s5FK_C + (1010746432));
 }
 else if (q2DJIk1x <= D8w81W9Gvu)
 {
-if (W127T2_K < -1658105674)
+if (false)
 {
 tbwv = (int)abs(Rt9wSq);
 }
@@ -556,7 +556,7 @@ else if ((ivo6yc) || (W127T2_K & h4Mr))
 {
 G8hU_867Z3 = (int)abs(rLpe86B2);
 }
-else if (W127T2_K == 1086567798)
+else if (false)
 {
 Qg6U5K7 = fXVPR2Oa / 1674939959;
 }

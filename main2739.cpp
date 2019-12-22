@@ -240,7 +240,7 @@ dxI0g_yd3H = Q_E9Nj7();
 }
 }
 }
-else if ((T0R7xCyT < -745414634) || ((FcOTfEs7 <= 1052300720) || (Z737M != 925287811)))
+else if ((false) || ((FcOTfEs7 <= 1052300720) || (Z737M != 925287811)))
 {
 ryZx9DqH = (int)abs(fIzqmqN_P7);
 }

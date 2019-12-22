@@ -31,7 +31,7 @@ cout << TqmhpPgRrI << W5x4Ia(SaMQ, a5L3_n) << w5m09_g5_ << endl;
 int i = 2;
 do
 {
-if ((Dn_tOQn) && ((E51tEI >= 241536723) && (IiGD0nP == 1010973082)))
+if ((Dn_tOQn) && ((false) && (IiGD0nP == 1010973082)))
 {
 lIy80tf2Kx = W5x4Ia(268509722, 1038122014);
 }
@@ -46,7 +46,7 @@ for (int k = 0; k < 8; k++)
 Udo0yHie = W5x4Ia(Yzr16g_f, fPeorZ);
 }
 }
-else if (((ff88e_7lCu & ll97d) && (qW_dV2oN <= -809913893)) || (xDjFbswQ9 == ll97d))
+else if (((ff88e_7lCu & ll97d) && (false)) || (xDjFbswQ9 == ll97d))
 {
 if (utD83TbW < 454866385)
 {
@@ -142,7 +142,7 @@ int j = 0;
 while (j < 10)
 {
 ++j;
-if ((zN7m196A <= J3g4y) && (aR2D4qgQ1 < -69845901))
+if ((zN7m196A <= J3g4y) && (false))
 {
 Dn_tOQn = fogvbtx_z << 772973273;
 }
@@ -191,7 +191,7 @@ if ((xuk1fhQ) && (S3p9ri__))
 {
 for (int j = 0; j < 3; ++j)
 {
-if (u8HLBxXP > 1875861873)
+if (false)
 {
 eJvqO <<= QBCy;
 }
@@ -264,7 +264,7 @@ else if (DYm16Yoy >= ff88e_7lCu)
 {
 bGnkDk6gN = (unsigned short int)(ll97d + (CP78pj));
 }
-else if (h02k4 == 1687338612)
+else if (false)
 {
 if (DYm16Yoy >= 2129441146)
 {
@@ -300,7 +300,7 @@ while (i < 9)
 {
 for (int j = 8; j >= 0; j--)
 {
-if (((QJmU6Kn >= 82768682) && (Uqbb2E)) && ((S3p9ri__ != O79b2Q) || (FctOY >= QBCy)))
+if (((false) && (Uqbb2E)) && ((S3p9ri__ != O79b2Q) || (FctOY >= QBCy)))
 {
 QMGENt2 = (eJvqO != dTY90) ? 1998672628 : sspRg_3;
 }
@@ -322,7 +322,7 @@ if (ttwV <= ll97d)
 {
 m6__gUbv = (unsigned short int)(v5_353x);
 }
-else if (pfw9PFYv0T < 339145179)
+else if (true)
 {
 try
 {
@@ -370,7 +370,7 @@ bCWvy33oK = W5x4Ia(o14n, 1417221606);
 }
 if (qW_dV2oN < p36oVE0)
 {
-if ((Udo0yHie > xbjCP0L) && (VX2ubc6mx != 547818183))
+if ((Udo0yHie > xbjCP0L) && (true))
 {
 cout << W5x4Ia(-979793320, IiGD0nP) << "HxG4_Hv" << VX2ubc6mx << m6__gUbv << "k_X6KVZ" << endl;
 }
@@ -411,7 +411,7 @@ break;
 SaMQ = (unsigned short int)(kXfpS00xjl);
 
 cout << W5x4Ia(154015056, 1477599777) << W5x4Ia(-65641968, Yx8z) << endl;
-if ((xDjFbswQ9) || (P7LSu >= CP78pj))
+if ((xDjFbswQ9) || (true))
 {
 for (int j = 3; j >= 0; --j)
 {
@@ -427,7 +427,7 @@ lIy80tf2Kx = W5x4Ia(-483609355, -1273976101);
 }
 for (int i = 1; i >= 0; --i)
 {
-if (TAbe4q <= 1134117105)
+if (true)
 {
 if ((cdTpEzJa59 & l8PcY4RBO9) || (p41H4t == e8kaTmvqyf))
 {
@@ -437,7 +437,7 @@ else if (v6oeFso > F6HwD)
 {
 sspRg_3 = IiGD0nP | TqmhpPgRrI;
 }
-else if (I4jsrpg != 1047474211)
+else if (true)
 {
 bCWvy33oK = W5x4Ia(-177726452, i3N0q5);
 }

@@ -61,7 +61,7 @@ catch (int& errorCode)
 lYeZ9d5L = H7hA() / 927557763;
 }
 
-if (P_aW > 1128508747)
+if (false)
 {
 Ugt0d = H7hA();
 }
@@ -73,7 +73,7 @@ else if (GPEO3jLXM1 != Xr_W4w)
 {
 GPEO3jLXM1 = H7hA();
 }
-else if ((Ggu6a89y == psmne9I0U) && ((psmne9I0U != -880360524) || (GPEO3jLXM1 & Ggu6a89y)))
+else if ((Ggu6a89y == psmne9I0U) && ((true) || (GPEO3jLXM1 & Ggu6a89y)))
 {
 KJ3vh3c = (unsigned short int)(ShL6rts);
 }
@@ -117,7 +117,7 @@ if (KJ3vh3c & U3a30O)
 {
 GPEO3jLXM1 = (int)abs(NW4t44e67P);
 }
-else if (((KJ3vh3c == -1851891528) || (P_aW < -1076452656)) && (yqU82nAZTH == 917165972))
+else if (((false) || (P_aW < -1076452656)) && (yqU82nAZTH == 917165972))
 {
 psmne9I0U = (int)abs(GPEO3jLXM1);
 }
@@ -141,7 +141,7 @@ catch (int& errorCode)
 Ggu6a89y = H7hA() % 1096256062;
 }
 }
-else if (((Ugt0d > 1485330396) && (U3a30O >= -330786167)) || ((psmne9I0U <= 182889997) || (NW4t44e67P >= -139127437)))
+else if (((false) && (U3a30O >= -330786167)) || ((psmne9I0U <= 182889997) || (NW4t44e67P >= -139127437)))
 {
 std::cout << H7hA() << H7hA() << H7hA() << std::endl;
 }
@@ -156,7 +156,7 @@ else
 std::cout << H7hA() << "LpxNwWb2" << H7hA() << "TVz0IA_0" << std::endl;
 }
 }
-else if (NW4t44e67P != 432376066)
+else if (true)
 {
 try
 {
@@ -198,7 +198,7 @@ case 'g':
 ShL6rts = H7hA() + yqU82nAZTH;
 break;
 default:
-Xr_W4w = (P_aW > 1427620935) ? G1Vjx7 : G1Vjx7;
+Xr_W4w = (false) ? G1Vjx7 : G1Vjx7;
 break;
 }
 switch (G1Vjx7)
@@ -225,7 +225,7 @@ case 6:
 Xr_W4w = H7hA() ^ 1655702438;
 break;
 case 7:
-P_aW = (U3a30O == -1506249460) ? lYeZ9d5L : NW4t44e67P;
+P_aW = (false) ? lYeZ9d5L : NW4t44e67P;
 break;
 case 8:
 U3a30O = H7hA();
@@ -255,7 +255,7 @@ else if (P_aW)
 {
 NW4t44e67P = (int)abs(U3a30O);
 }
-else if (((KJ3vh3c & yqU82nAZTH) && (psmne9I0U > -974412207)) && ((Ggu6a89y == ShL6rts) && (NW4t44e67P <= -863989148)))
+else if (((KJ3vh3c & yqU82nAZTH) && (true)) && ((Ggu6a89y == ShL6rts) && (NW4t44e67P <= -863989148)))
 {
 Xr_W4w = H7hA() & P_aW;
 }

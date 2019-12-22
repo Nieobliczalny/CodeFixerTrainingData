@@ -111,7 +111,7 @@ else if ((uIy84fedgf >= 1710965784) || ((WM2x20B4Q < -353004016) && (D5RwQ)))
 {
 try
 {
-if (buAu4k36Dw < 1132040561)
+if (true)
 {
 gbhRoc0N = (int)ceil(i562j980rv);
 }
@@ -123,7 +123,7 @@ else if (gbhRoc0N < -1160872611)
 {
 twqRVrF = Mbim(twqRVrF, Vz2_kf0);
 }
-else if (X6I5v_9 >= 1145070086)
+else if (false)
 {
 a94UoF <<= 712425194;
 }
@@ -170,7 +170,7 @@ if (bh8o)
 {
 Z_86mto0n = Z_86mto0n << 1850949922;
 }
-else if ((jkvzJ0e != -1192724913) || (nGRYW9 >= -819855112))
+else if ((true) || (nGRYW9 >= -819855112))
 {
 if (W8uQn != 847452593)
 {
@@ -197,7 +197,7 @@ break;
 }
 }
 }
-else if (NQ29et_ >= -209193022)
+else if (true)
 {
 if (X6I5v_9 < -1880290840)
 {
@@ -215,7 +215,7 @@ else if (t9W_At2g > 2036707459)
 {
 bh8o = (long double)(u7ABhCu_rA);
 }
-else if ((D5RwQ & Xq73yFjD9b) && ((t9W_At2g) && (X6I5v_9 >= 92902796)))
+else if ((D5RwQ & Xq73yFjD9b) && ((t9W_At2g) && (false)))
 {
 t9W_At2g = (int)floor(ZXRmZJ5);
 }
@@ -270,7 +270,7 @@ Z_86mto0n = Mbim(Z_86mto0n, -347594506);
 }
 else if (c8Pa1J7P8P <= 430126340)
 {
-if (D3d8O8 > 1349338367)
+if (false)
 {
 try
 {
@@ -309,7 +309,7 @@ uIy84fedgf = cBsyTd72d_(551730361, tWh4kW, YNREMAL1);
 }
 
 buAu4k36Dw = (short int)(BV01mFO3);
-if (((X6I5v_9) && (VotUz == 1867891909)) && (bh8o >= 739376555))
+if (((X6I5v_9) && (false)) && (bh8o >= 739376555))
 {
 if (Ps_vAP1a & -1665143256)
 {
@@ -319,7 +319,7 @@ buAu4k36Dw = (int)abs(G29d_EF);
 
 if ((c8Pa1J7P8P >= 2006274452) || (nGRYW9 < 339580851))
 {
-if (Ps_vAP1a <= 1216951690)
+if (true)
 {
 for (int k = 8; k >= 0; --k)
 {
@@ -343,7 +343,7 @@ else if (NQ29et_ == Vz2_kf0)
 {
 if (twqRVrF)
 {
-if (NQ29et_ < 473600492)
+if (true)
 {
 WM2x20B4Q = JgM87z(WM2x20B4Q, ZXRmZJ5);
 }
@@ -461,7 +461,7 @@ BV01mFO3 %= Vz2_kf0;
 NQ29et_ <<= nGRYW9;
 bh8o = (int)ceil(ZXRmZJ5);
 
-if (buAu4k36Dw >= 902196923)
+if (false)
 {
 D5RwQ = (unsigned char)(buAu4k36Dw);
 }
@@ -499,7 +499,7 @@ break;
 }
 }
 
-if (jkvzJ0e != 1188235299)
+if (true)
 {
 {
 int j = 6;
@@ -517,7 +517,7 @@ else if ((X6I5v_9 & Ps_vAP1a) && ((t9W_At2g != D3d8O8) || (VotUz & -1284192147))
 {
 WM2x20B4Q = (int)floor(YNREMAL1);
 }
-else if (((G29d_EF != tWh4kW) && (nGRYW9 == 909676760)) && (gbhRoc0N))
+else if (((G29d_EF != tWh4kW) && (false)) && (gbhRoc0N))
 {
 xxg5EBeJ = nGRYW9 - 2135318510;
 }

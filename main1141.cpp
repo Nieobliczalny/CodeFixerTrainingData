@@ -70,7 +70,7 @@ int main(int argc, char** argv) {
 	unsigned short int	IEt7P	=	563910865;
  unsigned long QeF4b1 = 1030554494;
 
-if ((Sk9Fc) && (mb0l4Vk6HW != -68153987))
+if ((Sk9Fc) && (true))
 {
 if (((V4tQJH != -1591822743) || (J4j03l < 537243629)) && (J4j03l >= N2J2))
 {
@@ -159,7 +159,7 @@ break;
 }
 qIn0Vt = (int)(Zu8fsHsC5);
 
-if (IEt7P >= 574698154)
+if (false)
 {
 for (int j = 5; j >= 0; --j)
 {
@@ -180,7 +180,7 @@ if (iG6_Cdm_ != -651481693)
 std::cout << a1Ad9ldt() << "k47zz0ZQ8" << a1Ad9ldt() << std::endl;
 }
 
-if (((Zu8fsHsC5 & -279477167) || (i97DLIL28_ >= -1959884862)) || ((l7_NV_4 <= -1810011189) || (TINM & 1160751043)))
+if (((Zu8fsHsC5 & -279477167) || (true)) || ((l7_NV_4 <= -1810011189) || (TINM & 1160751043)))
 {
 std::cout << vygq5XI << X3U2De_S << z41HA << S2fM << std::endl;
 }
@@ -248,7 +248,7 @@ break;
 }
 if (ElXX == g3V2Rb)
 {
-if (Zu8fsHsC5 == -1927110337)
+if (false)
 {
 std::cout << "Bk54LWhP" << a1Ad9ldt() << u142Y << std::endl;
 }
@@ -258,7 +258,7 @@ foJep = -1752056307 / v1H9b;
 std::cout << Z__w << std::endl;
 if (((Zu8fsHsC5 != -141640753) || (vygq5XI != qIn0Vt)) || (xoEZ0OIX_ < Sk9Fc))
 {
-if (iOZ5 < -1988065690)
+if (false)
 {
 if (((yW4I2QU5 < -289731059) || (g3V2Rb == d8ps5I)) || (viKLg6aZ5V != 1279793726))
 {
@@ -268,7 +268,7 @@ else if (g3V2Rb & z41HA)
 {
 z41HA = IEt7P & 601739435;
 }
-else if (Z__w > -1873964162)
+else if (true)
 {
 mb0l4Vk6HW = a1Ad9ldt();
 }

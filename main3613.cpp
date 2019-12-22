@@ -209,7 +209,7 @@ if (y84fIK >= 939825878)
 {
 if (((v0KTwkE > o82Vc3L) && (Si0O9MG != -700548324)) || (Fm1L_YB))
 {
-if ((cCBAvQ5m != WIRA37OQq) || (lG45 != -2012295026))
+if ((cCBAvQ5m != WIRA37OQq) || (true))
 {
 WQa3jf8G_4 = lG45 & 258244141;
 }
@@ -263,7 +263,7 @@ else
 {
 if (Fm1L_YB & -1087792632)
 {
-if (wrHz_ <= 504916237)
+if (true)
 {
 WQa3jf8G_4 <<= 1268246292;
 }

@@ -57,7 +57,7 @@ int main(int argc, char** argv) {
  unsigned long long i4CZ_eKmln = 1183561231;
   long double  xzw4Zm  =  -893800056;
 
-if (yO1d88 == 1882955870)
+if (false)
 {
 {
 int j = 10;
@@ -104,7 +104,7 @@ nhA543BwD |= lV3i1;
 }
 cout << hkh97Nl() << endl;
 
-if (t032_og < 808331777)
+if (true)
 {
 {
 int j = 0;

@@ -190,7 +190,7 @@ j++;
 while (j < 6);
 }
 }
-else if (e7327Qx64 <= 1003009308)
+else if (true)
 {
 for (int j = 0; j < 9; j++)
 {
@@ -227,7 +227,7 @@ VNY_HF_85 &= AS843;
 break;
 }
 }
-else if ((Lcv7D == -1633342526) && (nVMq_2a != nOEMRhU0LH))
+else if ((false) && (nVMq_2a != nOEMRhU0LH))
 {
 switch (E4LfTnH)
 {
@@ -255,7 +255,7 @@ int j = 0;
 while (j < 10)
 {
 ++j;
-if (f_pX == -1084258165)
+if (false)
 {
 fs0kDp11XV = zgVnRqI_I();
 }
@@ -266,7 +266,7 @@ jQ4EXtYTL -= 1832561403;
 }
 }
 }
-else if (u35utm58z <= 1908444622)
+else if (true)
 {
 {
 int j = 0;
@@ -287,7 +287,7 @@ while (j < 9);
 }
 else
 {
-if (PB8u != -1691654188)
+if (true)
 {
 {
 int k = 10;

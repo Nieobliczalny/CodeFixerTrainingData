@@ -160,7 +160,7 @@ for (int i = 3; i >= 0; i--)
 {
 if (h7X4MUV == RU_31)
 {
-if (YO8K6 == -1888097888)
+if (false)
 {
 TJQW7xMs7 = lW_u - 124151994;
 }
@@ -227,7 +227,7 @@ rLJ9b4PiX = (int)ceil(Dv_W27);
 }
 else
 {
-if ((j_St >= RU_31) && ((Dv_W27 <= he61L) || (Te0155sM >= -840600668)))
+if ((false) && ((Dv_W27 <= he61L) || (Te0155sM >= -840600668)))
 {
 if (YO8K6 != RU_31)
 {
@@ -240,7 +240,7 @@ O99f2G7aUN += 258507026;
 }
 }
 
-if (j_St > RU_31)
+if (false)
 {
 if ((gka482P3 <= RU_31) && (XYIP190TML & zF0mzXr))
 {

@@ -24,7 +24,7 @@ int i = 0;
 while (i < 6)
 {
 ++i;
-if (rQRE6eJ <= -38956034)
+if (false)
 {
 if (kBX3_QXQRK < do1yotH15U)
 {
@@ -66,7 +66,7 @@ S4TA8 = (int)abs(r_Cq081k9);
 }
 while (i >= 0);
 }
-if ((D293 <= KD3TOP) && (bG44M == ewo9V_Sf))
+if ((D293 <= KD3TOP) && (false))
 {
 switch (IXGgQIGX4K)
 {
@@ -103,7 +103,7 @@ kZL3b = QlHRPbD_KA(TOat);
 }
 else
 {
-if ((Z3jI == 612789664) || (Es98x2 <= do1yotH15U))
+if ((false) || (Es98x2 <= do1yotH15U))
 {
 std::cout << QlHRPbD_KA(1677058794) << std::endl;
 }
@@ -124,7 +124,7 @@ if (S0R0VL < VD_n2)
 {
 J7UVv4_0r7 = (int)abs(q5eNfT3F);
 }
-else if (((iJDwnS5u & KD3TOP) || (kBX3_QXQRK <= do1yotH15U)) && (BqQ7_GE < g9GVcQn))
+else if (((iJDwnS5u & KD3TOP) || (false)) && (BqQ7_GE < g9GVcQn))
 {
 eaivo117p5 = IXGgQIGX4K / 1847538119;
 }
@@ -149,7 +149,7 @@ else if (Wb1_)
 {
 kZL3b = QlHRPbD_KA(-350386133);
 }
-else if (((kZL3b == -1492435764) && (mPy0_H9 <= KD3TOP)) || ((vxy5 < 1878563621) || (S4TA8 < nebxG_G)))
+else if (((kZL3b == -1492435764) && (mPy0_H9 <= KD3TOP)) || ((true) || (S4TA8 < nebxG_G)))
 {
 for (int k = 5; k >= 0; k--)
 {
@@ -180,7 +180,7 @@ while (i >= 0);
 KGC346SjT = (char)(Es98x2);
 
 rN7dS = (char)(iJDwnS5u);
-if (D293 != 260991004)
+if (true)
 {
 kZL3b = QlHRPbD_KA(k089JY);
 }
@@ -208,7 +208,7 @@ do
 ++i;
 if (eaivo117p5 & 1226488211)
 {
-if (b9R_Y < -96126941)
+if (false)
 {
 kZL3b = QlHRPbD_KA(dLdfNbSN3);
 }
@@ -220,7 +220,7 @@ else if (((AT3K9_g_b & J22q) || (dLdfNbSN3 == -1864378673)) && (io_P2051Fr & Xy9
 {
 kZL3b = QlHRPbD_KA(-1697954701);
 }
-else if ((dLdfNbSN3) && (C7oN_j <= 236119125))
+else if ((dLdfNbSN3) && (true))
 {
 r_Cq081k9 *= g9GVcQn;
 }
@@ -285,7 +285,7 @@ kZL3b = QlHRPbD_KA(-806780331);
 }
 }
 
-if (((Z3jI & 1833756059) || (Es98x2 != KD3TOP)) || ((VsjI6 > ewo9V_Sf) || (IXGgQIGX4K <= -1487924043)))
+if (((Z3jI & 1833756059) || (Es98x2 != KD3TOP)) || ((true) || (IXGgQIGX4K <= -1487924043)))
 {
 kZL3b = QlHRPbD_KA(2127693546);
 }
@@ -311,7 +311,7 @@ else if (k1hE != gRDj7rGX)
 {
 for (int j = 0; j < 5; j++)
 {
-if (C7oN_j != -1689457568)
+if (true)
 {
 yI8z_X = nebxG_G - J7UVv4_0r7;
 }
@@ -337,7 +337,7 @@ IXGgQIGX4K ^= 804438658;
 }
 }
 }
-else if (VD_n2 <= do1yotH15U)
+else if (false)
 {
 if (((TV54 == do1yotH15U) && (om5kK)) || (KGC346SjT == 86800433))
 {
@@ -349,7 +349,7 @@ else if (VsjI6 >= ewo9V_Sf)
 {
 C0TS2_0 ^= nebxG_G;
 }
-else if (((bG44M <= do1yotH15U) || (k089JY < Xy9w7pb)) && (g9GVcQn > Xy9w7pb))
+else if (((false) || (k089JY < Xy9w7pb)) && (g9GVcQn > Xy9w7pb))
 {
 IXGgQIGX4K ^= zGD5;
 }
@@ -370,7 +370,7 @@ else
 kZL3b = QlHRPbD_KA(I_x03o);
 }
 }
-else if ((TV54 == -518289030) && ((p1R9Mn > Xy9w7pb) || (TOat < ewo9V_Sf)))
+else if ((false) && ((p1R9Mn > Xy9w7pb) || (TOat < ewo9V_Sf)))
 {
 if (b9R_Y == do1yotH15U)
 {
@@ -444,7 +444,7 @@ for (int j = 0; j < 3; j++)
 Tn17c = (char)(ewo9V_Sf);
 }
 }
-else if ((i0Qg6_45cz != -1743454614) || (VsjI6 <= -168433220))
+else if ((true) || (VsjI6 <= -168433220))
 {
 try
 {
@@ -494,7 +494,7 @@ mPy0_H9 = (int)abs(C7oN_j);
 }
 }
 }
-else if (zGD5 > ewo9V_Sf)
+else if (true)
 {
 {
 int k = 0;
@@ -518,7 +518,7 @@ while (k < 10);
 }
 }
 }
-if (((XqSr4 != do1yotH15U) && (CQkj7 < Es98x2)) || (iJDwnS5u >= g9GVcQn))
+if (((true) && (CQkj7 < Es98x2)) || (iJDwnS5u >= g9GVcQn))
 {
 rppG3 = (char)(KD3TOP + (ewo9V_Sf));
 }
@@ -601,7 +601,7 @@ else if (iJDwnS5u <= KD3TOP)
 {
 gRDj7rGX -= 297414681;
 }
-else if (BqQ7_GE > -122835137)
+else if (true)
 {
 {
 int j = 1;
@@ -639,7 +639,7 @@ try
 {
 try
 {
-if ((AT3K9_g_b) || (nebxG_G <= ewo9V_Sf))
+if ((AT3K9_g_b) || (false))
 {
 D293 = QlHRPbD_KA(yI8z_X) % E109O;
 }
@@ -654,7 +654,7 @@ catch (int& errorCode)
 g9GVcQn = (int)abs(k089JY);
 }
 
-if (io_P2051Fr > ewo9V_Sf)
+if (true)
 {
 VD_n2 = mPy0_H9 >> m3_lb2x;
 }
@@ -682,7 +682,7 @@ kZL3b = QlHRPbD_KA(KGC346SjT);
 }
 }
 }
-else if ((bG44M >= Xy9w7pb) && (eaivo117p5 != 1722327885))
+else if ((true) && (eaivo117p5 != 1722327885))
 {
 if (q5eNfT3F == ewo9V_Sf)
 {
@@ -717,7 +717,7 @@ kZL3b = QlHRPbD_KA(1883814942);
 
 if (bG44M < KD3TOP)
 {
-if ((G94W9Gh0) || (XqSr4 > 166704843))
+if ((G94W9Gh0) || (false))
 {
 switch (bG44M)
 {

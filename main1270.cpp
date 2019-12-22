@@ -66,7 +66,7 @@ case 3:
 OFYpb1_FG = D_YeQx();
 break;
 case 4:
-QW4MwMo = (GvOB0 > 160872070) ? SGimW_3z3 : f4p9Eor0l;
+QW4MwMo = (false) ? SGimW_3z3 : f4p9Eor0l;
 break;
 case 5:
 B5X8t_2 = LPK3BEf % qWY_;

@@ -141,7 +141,7 @@ catch (int& errorCode)
 i0RaoC = dc6aP9();
 }
 }
-else if ((wHq7Ox6 > G6j1Z4Q28) && ((p9P8 >= -1200294103) && (f8D_rxfs >= q759q_2)))
+else if ((wHq7Ox6 > G6j1Z4Q28) && ((true) && (f8D_rxfs >= q759q_2)))
 {
 OqIHWsMC = dc6aP9();
 }
@@ -163,7 +163,7 @@ j--;
 }
 }
 }
-else if (qcUu < -950926957)
+else if (false)
 {
 sZ5new6 = (unsigned short)(f70N0u7q2);
 }
@@ -188,7 +188,7 @@ cout << dc6aP9() << rv3j << T19VA6 << "JRR63Q1Rk" << "HN8LARv" << endl;
 
 for (int i = 0; i < 2; ++i)
 {
-if (m_0rE1 == 334364668)
+if (false)
 {
 switch (Yx_weF)
 {
@@ -239,7 +239,7 @@ int j = 0;
 do
 {
 j++;
-if ((pPCp25dEby >= -198350582) && ((lzAt >= Yx_weF) || (fv_5gSA3__ == -1530234969)))
+if ((true) && ((lzAt >= Yx_weF) || (fv_5gSA3__ == -1530234969)))
 {
 M9y7Nm = bWT4NK0(fv_5gSA3__, 1192938841, -378340188, -150270056, lzAt);
 }
@@ -251,7 +251,7 @@ else if (MwHW == 571000995)
 {
 uV_e50sjUL = l8HpX33 + DlVRY802RE;
 }
-else if (HHGSEyy75 > 1647515497)
+else if (false)
 {
 Nc_dlvd7dh = dc6aP9() + HHGSEyy75;
 }
@@ -272,7 +272,7 @@ for (int j = 0; j < 4; j++)
 {
 try
 {
-x2g8Ui1YZw = (VxHG7kAs1 <= -2109961264) ? dc6aP9() : q759q_2;
+x2g8Ui1YZw = (false) ? dc6aP9() : q759q_2;
 }
 catch (int& errorCode)
 {
@@ -282,7 +282,7 @@ lzAt %= wHq7Ox6;
 ++i;
 }
 }
-if (voo4DM >= 518038288)
+if (false)
 {
 try
 {
@@ -294,7 +294,7 @@ else if ((K33KyAU < -2061425655) || (Z5vU4S2 == -1331951005))
 {
 OqIHWsMC = dc6aP9();
 }
-else if ((xDW67CNM > 1105841727) || (U_RHWS1 & 806289644))
+else if ((false) || (U_RHWS1 & 806289644))
 {
 J_fwB89--;
 }
@@ -334,7 +334,7 @@ else
 int j = 7;
 while (j >= 0)
 {
-if ((k4Is <= 43594918) || ((xDW67CNM & -495301477) && (qX__UP != -367501103)))
+if ((true) || ((xDW67CNM & -495301477) && (qX__UP != -367501103)))
 {
 q1X2b7_2 ^= Yx_weF;
 }
@@ -346,7 +346,7 @@ else if (l5TOU5Nr != xUW3)
 {
 xUW3 &= WyroW;
 }
-else if (T19VA6 < -967438254)
+else if (false)
 {
 L6y2 = (BU6A6bfj_ >= 2118363011) ? -2141546486 : -1943461924;
 }
@@ -359,7 +359,7 @@ j--;
 }
 }
 
-if ((RV760 >= voo4DM) || (f70N0u7q2 == -1805229663))
+if ((RV760 >= voo4DM) || (false))
 {
 {
 int j = 3;
@@ -390,7 +390,7 @@ for (int k = 8; k >= 0; k--)
 M9y7Nm = bWT4NK0(1977934344, w8Eb74, 475776266, 6366002, -1659048098);
 }
 }
-else if (GHQ_hn <= -1456187397)
+else if (false)
 {
 cout << "InVxFzQx" << dc6aP9() << "i8_q1g90" << endl;
 }

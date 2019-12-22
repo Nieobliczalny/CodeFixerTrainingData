@@ -107,7 +107,7 @@ if (E98qz == H_0I8mkr)
 {
 K3255ySPV2 -= Oq_60878;
 }
-else if ((G9gr5 < -1596144622) || ((rReJyeG <= -655278606) || (z3ggppm <= -1032560323)))
+else if ((false) || ((rReJyeG <= -655278606) || (z3ggppm <= -1032560323)))
 {
 TLxZ = (char)(Ei5V);
 }
@@ -125,7 +125,7 @@ kk631V5B = VQr5lhRg(X7fud, GSt6lN_4Zt, JlPQxE039);
 }
 }
 }
-else if (hAl_69 > -245799258)
+else if (true)
 {
 std::cout << G9gr5 << QWrhZJ << "Sz9t_z" << jUJYL5Jq(-1937017252, GSt6lN_4Zt) << VQr5lhRg(-115861214, GSt6lN_4Zt, -1099068700) << std::endl;
 }
@@ -138,7 +138,7 @@ bjaa_ = (char)(fDH61761_);
 int i = 0;
 do
 {
-if (arh__o == 1888518080)
+if (false)
 {
 if (t6j63 & mbg5WD3E)
 {
@@ -193,7 +193,7 @@ while (i < 3);
 }
 
 Ei5V %= 50850842;
-if ((qB7AP6 & I_G8d) || ((G9gr5 == -1091955397) || (GSt6lN_4Zt > 185724103)))
+if ((qB7AP6 & I_G8d) || ((false) || (GSt6lN_4Zt > 185724103)))
 {
 std::cout << iD_96f7 << VQr5lhRg(BDJ8RGhFtC, u0B148, zhuc) << jUJYL5Jq(404015590, u0B148) << std::endl;
 }
@@ -214,7 +214,7 @@ while (k >= 0);
 }
 else
 {
-if ((tPA0 & 909895520) || (V0w5F != 2005759494))
+if ((tPA0 & 909895520) || (true))
 {
 {
 int k = 0;
@@ -247,7 +247,7 @@ fDH61761_ = jUJYL5Jq(342155259, U8IJdvTP);
 
 u0B148 = (char)(F4_2);
 
-if (fhQ7LrcB7 == -1491168591)
+if (false)
 {
 if (L9M30iJ6K1 != fDH61761_)
 {
@@ -283,7 +283,7 @@ G52c8jQu0J %= 432229304;
 
 GSt6lN_4Zt = (int)abs(L9M30iJ6K1);
 
-if (F4_2 > 1768599595)
+if (false)
 {
 z3ggppm--;
 }
@@ -297,7 +297,7 @@ int i = 0;
 do
 {
 ++i;
-if (K_bv_ == 1021677594)
+if (false)
 {
 {
 int k = 0;
@@ -329,7 +329,7 @@ while (i >= 0)
 int j = 4;
 do
 {
-if (((Q5pD06_9 < 2049115887) && (JoWX_BP6 < PX91Q)) || ((DY_J >= q48281kR9) || (Ei5V >= DGQ1XMa)))
+if (((true) && (JoWX_BP6 < PX91Q)) || ((DY_J >= q48281kR9) || (Ei5V >= DGQ1XMa)))
 {
 JlPQxE039 = (int)abs(QWrhZJ);
 }
@@ -369,7 +369,7 @@ while (i >= 0)
 i--;
 try
 {
-if (((E05E2Sxr5 < -1690612644) && (i_w0X5nin < arh__o)) && ((DY_J) || (H_0I8mkr > 1738330660)))
+if (((false) && (i_w0X5nin < arh__o)) && ((DY_J) || (H_0I8mkr > 1738330660)))
 {
 L9M30iJ6K1 = jUJYL5Jq(L9M30iJ6K1, 1766472595);
 }
@@ -389,7 +389,7 @@ catch (int& errorCode)
 mbg5WD3E %= 1519072902;
 }
 
-if (q48281kR9 < 376634015)
+if (true)
 {
 if (((bjaa_ > K3255ySPV2) && (D1ouJ5ewo & -1520024190)) && (bjaa_ & 1709247542))
 {

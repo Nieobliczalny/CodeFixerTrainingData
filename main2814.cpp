@@ -62,7 +62,7 @@ catch (int& errorCode)
 dHo5T7Fp_O = dHo5T7Fp_O & zOrn8gY6S4;
 }
 }
-else if ((TcukqK6) || ((KEhT_q4 != 1437894811) && (EHkN901w_K != -809248799)))
+else if ((TcukqK6) || ((KEhT_q4 != 1437894811) && (true)))
 {
 JX_d--;
 }

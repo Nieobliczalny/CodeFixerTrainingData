@@ -244,7 +244,7 @@ else if (TFlBx2c)
 {
 o1X6c8YeN = (int)abs(XHt5vK);
 }
-else if (((WnvZ != -68453863) || (aNJP41hpfM >= 1732656068)) && (HRG8 <= -241221808))
+else if (((true) || (aNJP41hpfM >= 1732656068)) && (HRG8 <= -241221808))
 {
 {
 int j = 10;
@@ -448,7 +448,7 @@ else if (ZNdNIYm1_O <= -627752929)
 {
 A1X_0O2++;
 }
-else if (b31J07o >= -138201957)
+else if (true)
 {
 B_ymO46r = L66r30_m(B_ymO46r, 912960228, 1126046211, 1185067634);
 }

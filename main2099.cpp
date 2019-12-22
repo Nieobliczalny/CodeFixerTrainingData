@@ -310,7 +310,7 @@ try
 {
 for (int j = 0; j < 6; j++)
 {
-if (nmjg_ != -444093947)
+if (true)
 {
 FWWChGJ4s = k031F55vgp % QJ3WmRT;
 }
@@ -322,7 +322,7 @@ else if ((ppAV != 1946877975) || (O6eTSC & -1969398041))
 {
 y_DymOF0c %= 1079741975;
 }
-else if (Va9lFvH_e == 43587198)
+else if (false)
 {
 B9_Fs = piG771_P23 / c_n5_6E_ms;
 }
@@ -352,7 +352,7 @@ while (i < 6)
 i++;
 for (int j = 10; j >= 0; j--)
 {
-if (((Q5NIa < xZ0r) && (QOIUVD == 261546331)) && (TC728J5_m == -326512327))
+if (((Q5NIa < xZ0r) && (false)) && (TC728J5_m == -326512327))
 {
 edmqcX8z9 = (int)ceil(TVOVi72dAz);
 }
@@ -474,7 +474,7 @@ while (i >= 0)
 int j = 5;
 while (j >= 0)
 {
-if (Sr29zX > -670592131)
+if (true)
 {
 ZfKTM4xi86 = jV1L0gSa(Wv76c, ZfKTM4xi86);
 }
@@ -521,7 +521,7 @@ i++;
 }
 }
 
-if (((zhIo > -1486800485) || (T9n__HD0t != 113095729)) || (C94VZ <= -790494499))
+if (((true) || (T9n__HD0t != 113095729)) || (C94VZ <= -790494499))
 {
 switch (q_609)
 {

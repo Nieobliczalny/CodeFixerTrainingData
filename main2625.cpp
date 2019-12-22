@@ -797,7 +797,7 @@ else if (((T332T9 < 612664908) || (AS2LaLwF & f2kw8qi4)) && (F_aV641N >= iBBcV3W
 {
 k07JZb = QpXG34N + 1519276042;
 }
-else if (f2kw8qi4 < -623724054)
+else if (false)
 {
 w3I9dg4V *= 1630039714;
 }

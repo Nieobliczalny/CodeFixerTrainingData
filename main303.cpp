@@ -96,7 +96,7 @@ break;
 }
 try
 {
-if (((IAqPzs99P != D_JF) && (SE3o >= 1379313050)) && (Tw4P_t < D_JF))
+if (((IAqPzs99P != D_JF) && (false)) && (Tw4P_t < D_JF))
 {
 CL90Os = (unsigned int)(tGS6 + (-1758159436));
 }
@@ -169,7 +169,7 @@ if (g9280e != R_OY_Efk)
 {
 l7AFbD6T7 = (unsigned short int)(D_JF);
 }
-else if ((G61Zc772 & fkKVg0P) && (g9280e != MFDr7BQ))
+else if ((G61Zc772 & fkKVg0P) && (true))
 {
 pgZ8NU1 = (int)ceil(X55OA);
 }
@@ -221,7 +221,7 @@ VaeZ13 = U58Gu1_(CL90Os, t28X6SM2, IAqPzs99P, 2052844152, -1237659797);
 break;
 }
 }
-else if (g9280e <= D_JF)
+else if (false)
 {
 if ((A_J6LiOx) && ((pgZ8NU1 >= Apz9H2) || (Apz9H2 >= D_JF)))
 {

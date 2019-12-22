@@ -69,7 +69,7 @@ uhz5_5Z &= 360623060;
 }
 }
 }
-else if (u8pqZ4 > -1782945708)
+else if (true)
 {
 {
 int j = 7;
@@ -80,7 +80,7 @@ uhz5_5Z = (u8pqZ4 >= uhz5_5Z) ? -1150368684 : u27tFM;
 }
 }
 }
-else if (uhz5_5Z == -1401113055)
+else if (false)
 {
 if (uhz5_5Z < sCDgM)
 {
@@ -94,7 +94,7 @@ else if ((sCDgM >= r8_RQ8d94) || (sCDgM > r8_RQ8d94))
 {
 sCDgM ^= 876442199;
 }
-else if (((u8pqZ4 < 1971017383) || (sCDgM)) || ((u8pqZ4 == u27tFM) || (u8pqZ4 == u27tFM)))
+else if (((true) || (sCDgM)) || ((u8pqZ4 == u27tFM) || (u8pqZ4 == u27tFM)))
 {
 {
 int j = 0;
@@ -110,7 +110,7 @@ u8pqZ4 = (int)abs(sCDgM) * 0;
 }
 else
 {
-if ((u8pqZ4 > -1874962012) || ((u8pqZ4 > u27tFM) || (u8pqZ4 > u27tFM)))
+if ((true) || ((u8pqZ4 > u27tFM) || (u8pqZ4 > u27tFM)))
 {
 for (int k = 10; k >= 0; k--)
 {
@@ -152,7 +152,7 @@ u8pqZ4 = Wd__7A2(-1796021659, -1058859530, u8pqZ4, -2040448799, -857378777);
 switch (sCDgM)
 {
 case 0:
-sCDgM = (uhz5_5Z < -647682269) ? sCDgM : o_qNh(-376315219, 407125773);
+sCDgM = (false) ? sCDgM : o_qNh(-376315219, 407125773);
 break;
 case 1:
 uhz5_5Z = sCDgM | 459934526;
@@ -227,7 +227,7 @@ while (i >= 0);
 }
 try
 {
-if (u8pqZ4 > r8_RQ8d94)
+if (true)
 {
 switch (uhz5_5Z)
 {
@@ -251,7 +251,7 @@ sCDgM = u27tFM | uhz5_5Z;
 break;
 }
 }
-else if (u8pqZ4 >= r8_RQ8d94)
+else if (true)
 {
 try
 {
@@ -266,7 +266,7 @@ else if (sCDgM < 1901594237)
 {
 sCDgM = o_qNh(sCDgM, uhz5_5Z);
 }
-else if ((uhz5_5Z != r8_RQ8d94) || (u8pqZ4 == 1070228263))
+else if ((true) || (u8pqZ4 == 1070228263))
 {
 std::cout << uhz5_5Z << std::endl;
 }
@@ -276,7 +276,7 @@ if (sCDgM)
 {
 u8pqZ4 = Wd__7A2(-834437551, sCDgM, uhz5_5Z, -1173946339, -1671040583);
 }
-else if (uhz5_5Z <= 118297079)
+else if (true)
 {
 sCDgM /= 56835075;
 }
@@ -288,7 +288,7 @@ else if (u8pqZ4 > uhz5_5Z)
 {
 uhz5_5Z = Q6r9owt_y();
 }
-else if ((u8pqZ4 & uhz5_5Z) || (uhz5_5Z <= 1727830391))
+else if ((u8pqZ4 & uhz5_5Z) || (true))
 {
 u8pqZ4 = Wd__7A2(u8pqZ4, 1673095499, uhz5_5Z, 624851750, 1429821970);
 }
@@ -319,7 +319,7 @@ if (uhz5_5Z < u8pqZ4)
 {
 std::cout << Wd__7A2(306157987, uhz5_5Z, u8pqZ4, 76397632, -1099066674) << "e02FK" << X3Yo_8(846076404, 65548204) << std::endl;
 }
-else if (u8pqZ4 <= 1402161253)
+else if (true)
 {
 try
 {
@@ -338,7 +338,7 @@ catch (int& errorCode)
 uhz5_5Z &= 1428280088;
 }
 }
-else if (u8pqZ4 != 111992951)
+else if (true)
 {
 sCDgM = o_qNh(1487096778, sCDgM);
 }
@@ -348,7 +348,7 @@ if ((u8pqZ4 & uhz5_5Z) || ((sCDgM >= -1819040314) || (u8pqZ4 != uhz5_5Z)))
 {
 uhz5_5Z = u8pqZ4 + u8pqZ4;
 }
-else if ((sCDgM > u27tFM) && (uhz5_5Z != 1030623612))
+else if ((sCDgM > u27tFM) && (true))
 {
 u8pqZ4 = Wd__7A2(1030448342, 104677593, 1496822855, 812553577, 2139913924);
 }
@@ -383,7 +383,7 @@ else if (sCDgM == Lk8M0n7)
 {
 uhz5_5Z %= sCDgM;
 }
-else if (uhz5_5Z != 179866672)
+else if (true)
 {
 try
 {
@@ -407,7 +407,7 @@ else
 uhz5_5Z = Q6r9owt_y();
 }
 }
-else if ((u8pqZ4 != -1254690982) || (sCDgM > 1707015722))
+else if ((true) || (sCDgM > 1707015722))
 {
 {
 int k = 4;
@@ -418,7 +418,7 @@ uhz5_5Z = X3Yo_8(-2129765091, 1579880095);
 }
 }
 }
-else if (uhz5_5Z <= -1686275961)
+else if (false)
 {
 uhz5_5Z = (unsigned short)(sCDgM);
 }
@@ -441,7 +441,7 @@ else
 uhz5_5Z = Q6r9owt_y();
 }
 }
-if (u8pqZ4 == 1470159162)
+if (false)
 {
 switch (u8pqZ4)
 {
@@ -474,7 +474,7 @@ sCDgM = (int)abs(u8pqZ4) + (-987755163);
 break;
 }
 }
-else if ((uhz5_5Z != Lk8M0n7) || ((u8pqZ4 < Lk8M0n7) && (u8pqZ4 >= 1635133744)))
+else if ((true) || ((u8pqZ4 < Lk8M0n7) && (u8pqZ4 >= 1635133744)))
 {
 switch (uhz5_5Z)
 {
@@ -526,7 +526,7 @@ else if ((u8pqZ4 & 1718324590) && (u8pqZ4 == u27tFM))
 {
 sCDgM = Q6r9owt_y();
 }
-else if (uhz5_5Z > -802618337)
+else if (true)
 {
 uhz5_5Z /= 2007599701;
 }
@@ -559,7 +559,7 @@ sCDgM = o_qNh(-72795663, sCDgM);
 while (k >= 0);
 }
 }
-else if ((u8pqZ4 == sCDgM) && (u8pqZ4 != Lk8M0n7))
+else if ((u8pqZ4 == sCDgM) && (true))
 {
 std::cout << "ibY01b4" << "wSWUP9K1q" << "q9U21I4F" << "PNPyxbYEB_" << "WxVgq0g" << std::endl;
 }
@@ -614,7 +614,7 @@ sCDgM = u8pqZ4 << uhz5_5Z;
 break;
 }
 
-if ((uhz5_5Z) && ((sCDgM != 738838803) && (uhz5_5Z == 1204233692)))
+if ((uhz5_5Z) && ((sCDgM != 738838803) && (false)))
 {
 if (sCDgM <= 1520609763)
 {
@@ -749,7 +749,7 @@ do
 {
 for (int j = 0; j < 1; j++)
 {
-if (uhz5_5Z < -2050121245)
+if (false)
 {
 uhz5_5Z <<= sCDgM;
 }

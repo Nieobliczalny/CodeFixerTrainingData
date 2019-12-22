@@ -68,7 +68,7 @@ mc2M7_ntq1 = FRZ19Ed + 1502877726;
 int i = 4;
 while (i >= 0)
 {
-if (A03x_K2K5 <= 1100065988)
+if (true)
 {
 std::cout << ExIqfSmzrG() << UM67Aap(A03x_K2K5, iXS_L7, ZLZMMcp_uG, 1854369645) << AjSuUo() << std::endl;
 }
@@ -185,7 +185,7 @@ Bw_x__2xu6 = (hw_CO >= -699623877) ? Ayi9t : Xp4c3mV3Sb;
 break;
 }
 }
-else if ((hw_CO <= 684973931) && (FRZ19Ed > 1347241667))
+else if ((hw_CO <= 684973931) && (false))
 {
 z2_sHBXgn = (int)abs(Ayi9t);
 }

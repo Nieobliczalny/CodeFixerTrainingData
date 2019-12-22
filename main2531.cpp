@@ -54,7 +54,7 @@ w5fiv83 = UF6I(Ii_5u_h3Ho, n07v_2_b, m4_TZ, Eb1_);
 }
 else
 {
-if (((yh9bpk9_ > Ii_5u_h3Ho) || (n07v_2_b == -1562646166)) || ((w5fiv83 >= -721107693) || (yWWemb9px >= w5fiv83)))
+if (((yh9bpk9_ > Ii_5u_h3Ho) || (false)) || ((w5fiv83 >= -721107693) || (yWWemb9px >= w5fiv83)))
 {
 SA1PpJ = SA1PpJ - 628327997;
 }
@@ -87,7 +87,7 @@ while (j >= 0);
 }
 }
 
-if (yh9bpk9_ != -1721061303)
+if (true)
 {
 cout << "FS0c6_dUy" << Eb1_ << UF6I(Ii_5u_h3Ho, n07v_2_b, m4_TZ, -1974834787) << "Bed078614" << "QqEzwWKFS6" << endl;
 }
@@ -169,7 +169,7 @@ break;
 }
 
 SA1PpJ = (unsigned short)(zQCUMjq);
-if ((zQCUMjq == -709170930) && (zQCUMjq >= -617796026))
+if ((false) && (zQCUMjq >= -617796026))
 {
 yWWemb9px++;
 }
@@ -204,7 +204,7 @@ int j = 4;
 do
 {
 --j;
-if (((HJl3x <= yh9bpk9_) || (yWWemb9px == w5fiv83)) && (zQCUMjq >= -906049200))
+if (((HJl3x <= yh9bpk9_) || (yWWemb9px == w5fiv83)) && (true))
 {
 Ii_5u_h3Ho = n07v_2_b | Eb1_;
 }
@@ -216,7 +216,7 @@ else if ((HJl3x >= 768842036) && (SA1PpJ < -364805748))
 {
 w5fiv83 = UF6I(-171095435, 855223828, -2055105188, -617592047);
 }
-else if (zQCUMjq != -586758946)
+else if (true)
 {
 w5fiv83 = UF6I(fgeIkHf, n07v_2_b, m4_TZ, yWWemb9px);
 }
@@ -312,7 +312,7 @@ break;
 }
 try
 {
-if (w5fiv83 < 719139245)
+if (true)
 {
 HJl3x = (long long)(n07v_2_b);
 }
@@ -330,7 +330,7 @@ while (k >= 0);
 }
 else
 {
-if (((w5fiv83 >= 230849221) && (yWWemb9px & -1306305169)) || (Q8uH372K != yh9bpk9_))
+if (((false) && (yWWemb9px & -1306305169)) || (Q8uH372K != yh9bpk9_))
 {
 w5fiv83 = UF6I(-1572731702, -1549935678, -1178827147, 494939315);
 }
@@ -342,7 +342,7 @@ else if (((Ii_5u_h3Ho & Eb1_) && (m4_TZ & 1378405180)) || (zQCUMjq >= -171776862
 {
 w5fiv83 = UF6I(-1894294451, zQCUMjq, Eb1_, -1494975603);
 }
-else if (zQCUMjq != 1337862680)
+else if (true)
 {
 SA1PpJ |= Ii_5u_h3Ho;
 }
@@ -366,7 +366,7 @@ fgeIkHf = (int)ceil(Q8uH372K);
 }
 
 cout << yh9bpk9_ << UF6I(-1780137694, 1551828953, Eb1_, 726274893) << UF6I(-4195673, zQCUMjq, -1047447751, yh9bpk9_) << endl;
-if (Eb1_ >= -1347593732)
+if (true)
 {
 if (yWWemb9px < -176665014)
 {

@@ -58,7 +58,7 @@ case 'b':
 XYAtmRqYv = (int)abs(hpG4AB_) + (-1547315458);
 break;
 case 'c':
-U1ox9 = (cP89 >= -13737434) ? 1644297439 : MeGPcj7wS;
+U1ox9 = (true) ? 1644297439 : MeGPcj7wS;
 break;
 case 'd':
 hpG4AB_ = (int)abs(ZMh9MTh9G5) * 0;

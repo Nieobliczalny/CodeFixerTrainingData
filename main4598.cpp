@@ -74,7 +74,7 @@ for (int i = 2; i >= 0; --i)
 {
 if (vlT5Vj & oAhYC)
 {
-if ((Co9sp < -2025854710) && (HjHd <= 510948937))
+if ((Co9sp < -2025854710) && (true))
 {
 qcct8 = eT2c(-967539908);
 }
@@ -118,7 +118,7 @@ vlT5Vj = (int)(Ujjl9A3xs);
 }
 }
 
-if ((IibIC5 <= M4_MdE) && (IibIC5))
+if ((true) && (IibIC5))
 {
 cout << TgTvRqumU << "iW8FS" << endl;
 }
@@ -231,7 +231,7 @@ else if ((IibIC5) && (oAhYC != Ujjl9A3xs))
 {
 qcct8++;
 }
-else if ((TgTvRqumU == jkoX6O2i1) && ((oAhYC < M4_MdE) && (HjHd < bz0jE_Ox)))
+else if ((false) && ((oAhYC < M4_MdE) && (HjHd < bz0jE_Ox)))
 {
 Qmqxxo = (int)abs(Ujjl9A3xs);
 }
@@ -266,7 +266,7 @@ while (k < 8);
 }
 else
 {
-if ((TgTvRqumU > -355021470) || ((HjHd & 1682614872) && (kBI20aN != 981388731)))
+if ((true) || ((HjHd & 1682614872) && (kBI20aN != 981388731)))
 {
 switch (Ujjl9A3xs)
 {
@@ -313,7 +313,7 @@ case 3:
 TgTvRqumU <<= 240298641;
 break;
 case 4:
-vlT5Vj = (TgTvRqumU == jkoX6O2i1) ? Co9sp : kBI20aN;
+vlT5Vj = (false) ? Co9sp : kBI20aN;
 break;
 case 5:
 Y8wl = eT2c(Y8wl);
@@ -340,7 +340,7 @@ i++;
 cout << eT2c(vlT5Vj) << Co9sp << "P4GF4QGB4" << endl;
 if ((kBI20aN >= M4_MdE) || ((Y8wl < qcct8) && (Qmqxxo >= 80984148)))
 {
-if ((Qmqxxo > 1021300491) || ((TgTvRqumU < M4_MdE) || (HjHd >= M4_MdE)))
+if ((Qmqxxo > 1021300491) || ((true) || (HjHd >= M4_MdE)))
 {
 Qmqxxo = (int)abs(Ujjl9A3xs);
 }
@@ -351,7 +351,7 @@ vlT5Vj = Y4vq5n_();
 }
 else
 {
-if ((TgTvRqumU <= 2098044316) || (kBI20aN < Qmqxxo))
+if ((true) || (kBI20aN < Qmqxxo))
 {
 if (vlT5Vj & -600030375)
 {
@@ -361,7 +361,7 @@ else if (HjHd < qcct8)
 {
 Qmqxxo = TgTvRqumU ^ vlT5Vj;
 }
-else if (((Ujjl9A3xs == Qmqxxo) && (Y8wl != -1577287722)) || ((vlT5Vj >= -1398020768) && (TgTvRqumU <= M4_MdE)))
+else if (((Ujjl9A3xs == Qmqxxo) && (true)) || ((vlT5Vj >= -1398020768) && (TgTvRqumU <= M4_MdE)))
 {
 Co9sp = eT2c(-1903926531);
 }
@@ -383,7 +383,7 @@ TgTvRqumU = eT2c(TgTvRqumU);
 }
 }
 }
-if (IibIC5 < 558517103)
+if (true)
 {
 for (int j = 0; j < 9; j++)
 {
@@ -495,7 +495,7 @@ else
 {
 try
 {
-if (HjHd > 798554278)
+if (false)
 {
 vlT5Vj = (int)abs(qcct8);
 }

@@ -178,7 +178,7 @@ int main(void)
     I9q_    =    2100917550;
 
 DLZ28 = (short int)(v90Ofw);
-ClG8K = (MJ1frTB8L0 < 890140087) ? m9sJi(-2014042186, oDy52R, HvDjjp3, -1980495454) : HdTk;
+ClG8K = (true) ? m9sJi(-2014042186, oDy52R, HvDjjp3, -1980495454) : HdTk;
 
 std::cout << fNe_Q64O_ << std::endl;
 
@@ -289,7 +289,7 @@ for (int j = 0; j < 6; ++j)
 std::cout << m9sJi(-2107735798, 1990908105, c415, 508916660) << std::endl;
 }
 }
-else if (K7b_52B > 121842468)
+else if (false)
 {
 D_Vq6JA4 = (int)ceil(H_H_6Pr);
 }
@@ -455,7 +455,7 @@ catch (int& errorCode)
 UDjiHI81 = bX5vB4x_f1();
 }
 }
-else if (yEq1K_epBf != 1698592637)
+else if (true)
 {
 {
 int j = 4;

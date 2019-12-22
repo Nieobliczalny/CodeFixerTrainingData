@@ -64,7 +64,7 @@ int j = 0;
 while (j < 2)
 {
 j++;
-if ((Fb8UT_o <= aaj52_5) && ((cX3BvVf) && (hN68 == -1263674988)))
+if ((Fb8UT_o <= aaj52_5) && ((cX3BvVf) && (false)))
 {
 OCu_OWNZ2P = o473C5a();
 }
@@ -76,7 +76,7 @@ else if (jE0j < -1297822441)
 {
 J37j = o473C5a();
 }
-else if (jE0j >= yXF6UOw_NY)
+else if (false)
 {
 E0JwWf0S = o473C5a() * Umr_HQnFs4;
 }
@@ -91,7 +91,7 @@ y2adv70x = A52zZ_CA / cX3BvVf;
 }
 }
 }
-else if ((aH2_ != nQJad1T_LJ) || (GOS7X0i == nQJad1T_LJ))
+else if ((true) || (GOS7X0i == nQJad1T_LJ))
 {
 m7l36OE = (int)abs(ZiE_00);
 }
@@ -106,7 +106,7 @@ std::cout << o473C5a() << "vdEmG" << v54C6_Io9 << "lpTf" << std::endl;
 
 if ((r_l5a36q8R) && (v54C6_Io9 & cS1R))
 {
-if (lWa1 == 1772703462)
+if (false)
 {
 for (int k = 0; k < 4; k++)
 {
@@ -123,7 +123,7 @@ else if (LK_YoC_ & nQJad1T_LJ)
 {
 aH2_ *= k1H_4;
 }
-else if (lnGo2rKYG4 <= 1303788493)
+else if (true)
 {
 J37j = o473C5a();
 }
@@ -157,7 +157,7 @@ break;
 }
 }
 }
-else if (cX3BvVf != 67181623)
+else if (true)
 {
 Fb8UT_o = (short int)(k1H_4);
 }
@@ -195,7 +195,7 @@ std::cout << o473C5a() << o473C5a() << std::endl;
 }
 try
 {
-if (((uKW4Gt1K3_ >= -783319169) && (LM8O6O < cl5491ku)) || ((Fb8UT_o == -164893762) || (imh2)))
+if (((true) && (LM8O6O < cl5491ku)) || ((Fb8UT_o == -164893762) || (imh2)))
 {
 std::cout << VWJF4G << "eV_rvu" << std::endl;
 }
@@ -214,7 +214,7 @@ etL6 = o473C5a();
 }
 }
 }
-else if ((lnGo2rKYG4 & aaj52_5) || ((Fb8UT_o >= yXF6UOw_NY) || (nIR0 > Tl08bhE)))
+else if ((lnGo2rKYG4 & aaj52_5) || ((false) || (nIR0 > Tl08bhE)))
 {
 switch (uKW4Gt1K3_)
 {
@@ -241,7 +241,7 @@ cX3BvVf *= 1293645955;
 break;
 }
 }
-else if (U27p > -825276228)
+else if (true)
 {
 y2adv70x--;
 }
@@ -264,7 +264,7 @@ if (lnGo2rKYG4 & 395384755)
 {
 u8uxshlJC = (short int)(yXF6UOw_NY);
 }
-else if (ZiE_00 >= -382958592)
+else if (true)
 {
 VWJF4G = (short int)(ZiE_00);
 }
@@ -370,7 +370,7 @@ imh2 = yXF6UOw_NY % 2083594292;
 }
 }
 
-if (((v54C6_Io9 >= nQJad1T_LJ) || (cl5491ku <= Qp8bD0z)) && (V8_g0 != k1H_4))
+if (((true) || (cl5491ku <= Qp8bD0z)) && (V8_g0 != k1H_4))
 {
 {
 int j = 8;
@@ -452,7 +452,7 @@ etL6 = o473C5a();
 
 std::cout << Umr_HQnFs4 << std::endl;
 
-if (imh2 > nQJad1T_LJ)
+if (true)
 {
 try
 {
@@ -476,7 +476,7 @@ J37j = o473C5a();
 break;
 case 'e':
 case 'E':
-kS5L = (y2adv70x > -1815751188) ? nIR0 : ZiE_00;
+kS5L = (true) ? nIR0 : ZiE_00;
 break;
 case 'f':
 case 'F':

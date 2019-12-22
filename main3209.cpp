@@ -154,7 +154,7 @@ else if (T6675BdV >= -1619755063)
 {
 k1kJV = U54SMoJkV(k1kJV, no_g_B2kEO, YV_3w, 393572339);
 }
-else if (kIlJtH4d >= -183925874)
+else if (true)
 {
 {
 int k = 8;
@@ -181,7 +181,7 @@ k1kJV = U54SMoJkV(x05cL5ncSN, 741873831, 1488745761, 369859471);
 
 twLlxci4E = (double)(tuFE1xn5Bh);
 
-if (C6_E7bb7k_ >= 33515885)
+if (false)
 {
 EaS4uL = q9g_6Tgk_4 << Hpc6SDC7B6;
 }
@@ -193,7 +193,7 @@ else if (JVf8RgD__l < -2014292588)
 {
 v4bZN = (short)(Gb_Cc1g8);
 }
-else if ((qPf_Hl48 <= -1644663736) && (G6314 == -154974141))
+else if ((qPf_Hl48 <= -1644663736) && (false))
 {
 try
 {
@@ -357,7 +357,7 @@ break;
 
 cK2e_ = (int)floor(twLlxci4E);
 
-if ((Btwi5hH_ <= D6_h0q) || ((nP8ne8Xuuk < D6_h0q) || (JDN399pwB5 > 257673511)))
+if ((Btwi5hH_ <= D6_h0q) || ((nP8ne8Xuuk < D6_h0q) || (false)))
 {
 std::cout << gN_yYp7(-182975111, 752853154, 897175311, x05cL5ncSN, -1832789859) << std::endl;
 }
@@ -371,7 +371,7 @@ else if (E_u7I891I != -824683799)
 {
 cK2e_ = (int)ceil(s8SB);
 }
-else if (rHHk5 >= 1116274355)
+else if (false)
 {
 {
 int k = 0;
@@ -454,7 +454,7 @@ cK2e_ = (int)ceil(tuFE1xn5Bh);
 break;
 }
 }
-if ((iy7N_Zj_ >= -462385111) && ((x05cL5ncSN > 1691087609) && (kIlJtH4d != m52_Ne8)))
+if ((iy7N_Zj_ >= -462385111) && ((false) && (kIlJtH4d != m52_Ne8)))
 {
 k1kJV = U54SMoJkV(YA3vB7__tB, 1569521507, 1676002882, 2018925768);
 }
@@ -519,7 +519,7 @@ for (int i = 0; i < 1; ++i)
 {
 if ((MzmTJjN != 2104907719) || (G1vDLh <= 641257643))
 {
-if (v4bZN == -783572165)
+if (false)
 {
 K9o_H77y = R_a0R - A5wwGl6w;
 }
@@ -531,7 +531,7 @@ else if (qPf_Hl48 != -1720573435)
 {
 k1kJV = U54SMoJkV(-2098622869, I_QU, iskT, -1130154071);
 }
-else if ((cM7TRzw > -1924714818) && (A5wwGl6w < 550244712))
+else if ((cM7TRzw > -1924714818) && (true))
 {
 k1kJV = U54SMoJkV(-302315613, -376693516, OJ0Ptb_M, I_QU);
 }
@@ -725,7 +725,7 @@ if (L0K040 & -967097972)
 {
 std::cout << "zlbEIs" << U54SMoJkV(nP8ne8Xuuk, -1924103668, D6_h0q, sap00N_) << T6675BdV << "e77378f" << std::endl;
 }
-else if ((rHHk5 <= Jx9tiqzQ7) && (Xata_sRneV < 1778739298))
+else if ((rHHk5 <= Jx9tiqzQ7) && (true))
 {
 for (int k = 1; k >= 0; k--)
 {

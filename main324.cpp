@@ -179,7 +179,7 @@ b1U26 = G2_QOeF1R(b1U26, -934498141);
 break;
 }
 }
-else if (((rx2ZBea > 1159602400) && (CiLA4UX1M <= I78t8Cj8)) || (U68K5lkFU2))
+else if (((false) && (CiLA4UX1M <= I78t8Cj8)) || (U68K5lkFU2))
 {
 {
 int k = 8;

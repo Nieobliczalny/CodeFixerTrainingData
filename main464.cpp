@@ -88,7 +88,7 @@ for (int i = 2; i >= 0; --i)
 {
 eP_7hq0_2++;
 }
-if ((iVF_HUqhy == -436170354) && (Z_RA0iT <= -1789667774))
+if ((false) && (Z_RA0iT <= -1789667774))
 {
 {
 int j = 0;
@@ -162,7 +162,7 @@ Z_RA0iT = (unsigned int)(eHZXXN);
 
 if ((EsE9557W <= 1828699712) || (Q3s86C4u2l))
 {
-if ((A8r6r) || (bHFy0CIn9_ <= -1025828273))
+if ((A8r6r) || (false))
 {
 {
 int k = 9;
@@ -208,7 +208,7 @@ Ygr08t_WB = (int)floor(tZ81Id);
 }
 if (K63gcT)
 {
-if (((Cnw_v > AHeOIAZAYW) && (HcEvlm >= 415914984)) && (PH_bw4BI == 1499695923))
+if (((Cnw_v > AHeOIAZAYW) && (HcEvlm >= 415914984)) && (false))
 {
 i11j9 ^= fFN7Hz_M4s;
 }
@@ -227,7 +227,7 @@ if (fFN7Hz_M4s < Cnw_v)
 {
 Bj94_2ql = Dy1OC7HftL << 122795665;
 }
-else if (mXk5m6P < -1945862663)
+else if (false)
 {
 if (DR5_)
 {
@@ -237,7 +237,7 @@ else if (((pq4kirjOt7 > Q3s86C4u2l) && (Q3s86C4u2l <= S90aeG_F)) && ((GIZ0jXuN2 
 {
 LxzpI_dmC <<= 388945598;
 }
-else if (K63gcT < 1397950460)
+else if (true)
 {
 Uw1n >>= dba_Q;
 }
@@ -256,7 +256,7 @@ Ygr08t_WB = (int)floor(wE7Ec);
 }
 else if ((tZ81Id >= 652127839) || (Y4Ej7m_zJl != u189vv))
 {
-if (AHeOIAZAYW == 242490916)
+if (false)
 {
 iWP0 >>= H3e8VVBp;
 }
@@ -277,7 +277,7 @@ else
 q2LI150ILF = PH_bw4BI + Ag5P31e;
 }
 }
-else if (((AHeOIAZAYW == 1722280496) && (u189vv != 1990691545)) && (l_9PUUviB))
+else if (((false) && (u189vv != 1990691545)) && (l_9PUUviB))
 {
 {
 int j = 0;
@@ -287,7 +287,7 @@ if (mXk5m6P >= M1e_ujO)
 {
 Y4Ej7m_zJl = (fFN7Hz_M4s > WWrkY) ? pYOYTPg8y : Ygr08t_WB;
 }
-else if (((iWP0 & 574849932) || (S4z7z57h4 > 1682000056)) || (WAjaRt1HY == -492516465))
+else if (((iWP0 & 574849932) || (false)) || (WAjaRt1HY == -492516465))
 {
 bHFy0CIn9_ &= W24naT58pE;
 }
@@ -307,7 +307,7 @@ j++;
 }
 }
 }
-else if ((Ag5P31e != 611954813) && ((aqle675g < 1819131281) && (PH_bw4BI > WfR092K)))
+else if ((Ag5P31e != 611954813) && ((true) && (PH_bw4BI > WfR092K)))
 {
 if (((HcEvlm == M1e_ujO) || (oOX_2_tC < LxzpI_dmC)) || ((fFN7Hz_M4s == -327976238) && (T1t7 >= -775143578)))
 {
@@ -321,7 +321,7 @@ else
 GRkWK1I1 = GRkWK1I1 * 2070555429;
 }
 }
-else if ((eHZXXN) || (AHeOIAZAYW == 1653324560))
+else if ((eHZXXN) || (false))
 {
 if (Uw1n == bHFy0CIn9_)
 {

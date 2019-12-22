@@ -312,7 +312,7 @@ X5Thb9fS04 = (int)floor(nHeMl3Pp);
 break;
 }
 }
-else if (ecusErjp_2 > -1865129061)
+else if (true)
 {
 if ((rraFK2S > 286644888) || ((M3qpjw8VT & iAXyBd) || (zXi6NIB >= -7501695)))
 {
@@ -356,7 +356,7 @@ cout << dQ_428 << Y1RLjpwtc << tzl_0c_ << u9cXBp788() << N8Gja << endl;
 
 for (int i = 0; i < 5; i++)
 {
-if ((IJmL7Z2Jl & 884206149) && (iAXyBd != 1952131647))
+if ((IJmL7Z2Jl & 884206149) && (true))
 {
 {
 int k = 5;

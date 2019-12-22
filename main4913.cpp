@@ -44,7 +44,7 @@ int j = 0;
 do
 {
 j++;
-if (((D78c) && (GAc_9t2c < -15087862)) && (i2p67594J > YDF2XlR8p))
+if (((D78c) && (false)) && (i2p67594J > YDF2XlR8p))
 {
 aJdgX_Hk9 = r4aPt(1390404285, hv_cJZAS5, u07u6c);
 }
@@ -56,7 +56,7 @@ else if (aw_2D > -1946022047)
 {
 a6ai57a60 /= 166864149;
 }
-else if ((yWhj0Y71 < 1393561817) && (ZM_Z_ & HD4y_6x4))
+else if ((true) && (ZM_Z_ & HD4y_6x4))
 {
 HD4y_6x4 = (t742rxWI == 1080402878) ? 1132697890 : hv_cJZAS5;
 }

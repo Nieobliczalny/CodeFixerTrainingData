@@ -82,7 +82,7 @@ int main(int argc, char** argv) {
 
 std::cout << "N_np0A" << "BnWUmod" << Gk8PxU_8i(-1216067050, 1681018666) << std::endl;
 
-if (a_G0eI3JT1 >= 898214978)
+if (false)
 {
 for (int j = 0; j < 6; ++j)
 {
@@ -98,7 +98,7 @@ kx_lJ = ePgEzx(hU8W0kU, YLN_Mh_, -915968245);
 }
 else if (sJnmgI1L != 1942711797)
 {
-if (U_7dje == -250699843)
+if (false)
 {
 if (YLN_Mh_ >= I84AfB3Fn)
 {

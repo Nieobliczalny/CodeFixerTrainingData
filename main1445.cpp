@@ -45,7 +45,7 @@ else if (niuwJbW >= Jig7)
 {
 NqYX_xn4 = (unsigned short)(HuZb8Q2_);
 }
-else if (((NqYX_xn4) || (CD441GMN4)) && ((HuZb8Q2_ < U1qDn_MRSL) && (CD441GMN4 >= -1159136819)))
+else if (((NqYX_xn4) || (CD441GMN4)) && ((HuZb8Q2_ < U1qDn_MRSL) && (true)))
 {
 {
 int k = 10;
@@ -57,7 +57,7 @@ HuZb8Q2_ &= 2104985704;
 while (k >= 0);
 }
 }
-else if ((niuwJbW != Jig7) || ((niuwJbW & 925303528) && (HuZb8Q2_ != 797019441)))
+else if ((niuwJbW != Jig7) || ((niuwJbW & 925303528) && (true)))
 {
 if ((niuwJbW <= CD441GMN4) && (niuwJbW != U1qDn_MRSL))
 {
@@ -88,7 +88,7 @@ CD441GMN4 = HuZb8Q2_ ^ NqYX_xn4;
 while (k >= 0);
 }
 }
-else if ((HuZb8Q2_ <= 1371916092) && (CD441GMN4))
+else if ((true) && (CD441GMN4))
 {
 {
 int k = 0;
@@ -227,7 +227,7 @@ else if (CD441GMN4 != U1qDn_MRSL)
 {
 HuZb8Q2_ = niuwJbW * HuZb8Q2_;
 }
-else if (CD441GMN4 == Jig7)
+else if (false)
 {
 NqYX_xn4 = CD441GMN4 - HuZb8Q2_;
 }
@@ -294,7 +294,7 @@ int j = 1;
 do
 {
 j--;
-if (CD441GMN4 == 369487473)
+if (false)
 {
 HuZb8Q2_ = niuwJbW % CD441GMN4;
 }
@@ -319,7 +319,7 @@ NqYX_xn4 = CD441GMN4 * 14034611;
 
 try
 {
-if (CD441GMN4 >= Jig7)
+if (true)
 {
 {
 int k = 6;
@@ -347,7 +347,7 @@ catch (int& errorCode)
 {
 HuZb8Q2_ = HuZb8Q2_ + HuZb8Q2_;
 }
-if (((niuwJbW == Jig7) || (NqYX_xn4 < Jig7)) || ((niuwJbW != NqYX_xn4) || (NqYX_xn4 < 98454138)))
+if (((false) || (NqYX_xn4 < Jig7)) || ((niuwJbW != NqYX_xn4) || (NqYX_xn4 < 98454138)))
 {
 if (NqYX_xn4)
 {
@@ -389,7 +389,7 @@ else
 int j = 1;
 while (j >= 0)
 {
-if ((NqYX_xn4 != 1951878832) || (niuwJbW <= U1qDn_MRSL))
+if ((true) || (niuwJbW <= U1qDn_MRSL))
 {
 NqYX_xn4 += 1611131474;
 }

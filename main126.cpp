@@ -145,7 +145,7 @@ else
 {
 for (int j = 3; j >= 0; j--)
 {
-if (I3bbd == -501877550)
+if (false)
 {
 D8Lf = (int)abs(VE25u);
 }
@@ -172,7 +172,7 @@ if (wB19_ue8 >= E8g5)
 switch (wB19_ue8)
 {
 case 'a':
-hC485XQW = (iCpN9N > 590388944) ? NQ_4479l6(iCpN9N, hC485XQW, ac5h68n) : VE25u;
+hC485XQW = (false) ? NQ_4479l6(iCpN9N, hC485XQW, ac5h68n) : VE25u;
 break;
 case 'b':
 VE25u ^= D8Lf;
@@ -208,7 +208,7 @@ else
 {
 H781w3_Eh <<= 2052983790;
 }
-if (D8Lf <= 1091973316)
+if (true)
 {
 {
 int j = 10;

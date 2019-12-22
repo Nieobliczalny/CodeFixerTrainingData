@@ -114,7 +114,7 @@ std::cout << "SfcKAqhQg" << x2y_(bR4D77) << lGgeo_IHps(-1330649545) << std::endl
 
 try
 {
-if ((DOqT3yD_) || (N5a0 >= -300216347))
+if ((DOqT3yD_) || (true))
 {
 for (int k = 0; k < 5; ++k)
 {
@@ -177,7 +177,7 @@ try
 {
 try
 {
-if (b69hM6EY > -1180595257)
+if (true)
 {
 sEr348_ = wcUv(e8Idt9492, DOqT3yD_, i7qf78, 323778717);
 }
@@ -199,7 +199,7 @@ for (int j = 2; j >= 0; j--)
 UoUKYTSZ6v = lGgeo_IHps(-842731266);
 }
 }
-else if ((yKan6Qvn == 687488110) && (y7I60xm >= -1011241216))
+else if ((yKan6Qvn == 687488110) && (true))
 {
 for (int j = 0; j < 3; j++)
 {
@@ -362,7 +362,7 @@ UoUKYTSZ6v = (unsigned long)(bR4D77);
 while (i >= 0);
 }
 
-if ((b69hM6EY & -1945777289) || (c343e3W6j == 337200857))
+if ((b69hM6EY & -1945777289) || (false))
 {
 if (ZLL9m7J >= -1761620070)
 {
@@ -391,7 +391,7 @@ eiMT = S_e3f & T_i7rL8hfH;
 }
 }
 }
-else if (y7I60xm >= 1115246417)
+else if (false)
 {
 if (i51B2i & 86489981)
 {
@@ -405,7 +405,7 @@ R1YgWTIN9 = lGgeo_IHps(R1YgWTIN9);
 }
 }
 }
-else if (T_i7rL8hfH <= -837729364)
+else if (false)
 {
 e8Idt9492 = (short int)(b56JxM2TMu);
 }
@@ -436,7 +436,7 @@ else if ((C05ugR9Uo) && ((DOqT3yD_) && (eKUu895_ > UoUKYTSZ6v)))
 {
 C05ugR9Uo = lGgeo_IHps(-1500561415);
 }
-else if (e8Idt9492 > -1742467636)
+else if (true)
 {
 X24vU93 = x2y_(-556596192);
 }

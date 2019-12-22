@@ -54,7 +54,7 @@ else
 r6P4_N2V7 &= ACY6_m;
 }
 }
-else if (lV_J_ < -1048577273)
+else if (false)
 {
 ACY6_m >>= 145733794;
 }

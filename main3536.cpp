@@ -191,7 +191,7 @@ while (k < 8);
 }
 }
 
-if (((ZdwR2Iwf2a > -2126984680) || (v8rnRIM6B >= Jx39)) || ((yrlgZs == 1183721882) && (eA3O5f < VTlQ5NV)))
+if (((true) || (v8rnRIM6B >= Jx39)) || ((yrlgZs == 1183721882) && (eA3O5f < VTlQ5NV)))
 {
 Smw8VW3 = ZdwR2Iwf2a >> P4l_3z8mP5;
 }

@@ -298,7 +298,7 @@ GX6y450 = udwg7LLFB + 875633455;
 }
 }
 }
-else if (n56b < JiTPx6)
+else if (true)
 {
 St_64DmE = t_NsA(-838816397, LirS_e);
 }
@@ -331,7 +331,7 @@ else if (t8lKt0 <= PWQ6_pkdB)
 {
 gig3 = (int)floor(t8lKt0);
 }
-else if (Z1i0d > 1193322657)
+else if (false)
 {
 uhZZVpp = hW3Qrl1x5(TIaYfdy, gA77_Ktwmw) & 1269695852;
 }
@@ -369,7 +369,7 @@ oqLQx0TAC = (int)abs(OrY5q_qjlC);
 }
 }
 
-if (uhZZVpp != udwg7LLFB)
+if (true)
 {
 LirS_e = (int)ceil(iTECsv5);
 }
@@ -453,7 +453,7 @@ if (uRUYL2 > Ny7pA)
 {
 Rvmc8Y = (int)abs(uRUYL2);
 }
-else if ((oWp_6wH > gA77_Ktwmw) || (ZexmN5l9A < -170330477))
+else if ((oWp_6wH > gA77_Ktwmw) || (false))
 {
 YclPL3_8 = ka9tBTXPs();
 }
@@ -478,7 +478,7 @@ else if (mS6D != iR_DZJ)
 {
 std::cout << "so1Ktf" << "W_SP_14go2" << "Pc945Q4U" << T73U8P << std::endl;
 }
-else if ((V_bC0P_3 < oqLQx0TAC) && (ZTI_LUHKU < PWQ6_pkdB))
+else if ((V_bC0P_3 < oqLQx0TAC) && (true))
 {
 {
 int k = 9;
@@ -498,7 +498,7 @@ else if (V_bC0P_3 != uG6D)
 {
 iR_DZJ = (double)(OV2YGHe);
 }
-else if (r23aXS == udwg7LLFB)
+else if (false)
 {
 if ((zay7_ != 1766860955) || (n7N8 & 956744443))
 {
@@ -550,7 +550,7 @@ else if (tR1PQfX & 1833140297)
 {
 std::cout << AfzW << ka9tBTXPs() << t_NsA(1482408479, -1219513837) << w0UP_n6yCm << std::endl;
 }
-else if ((r23aXS <= JiTPx6) && ((rhJn31ksCo) || (L34Y2Vq8 < jSLgEoW909)))
+else if ((true) && ((rhJn31ksCo) || (L34Y2Vq8 < jSLgEoW909)))
 {
 if (B2wPb0r5 <= 1127399558)
 {
@@ -581,7 +581,7 @@ else if (((LirS_e > 1624172987) && (iEB53 >= JiTPx6)) && (m0jV9Z <= C4Dea))
 {
 std::cout << n7N8 << std::endl;
 }
-else if (u2eF6Z9 >= 283219049)
+else if (false)
 {
 std::cout << CPeN10 << t_NsA(1352138663, jSLgEoW909) << hW3Qrl1x5(dpX0Q_, jSLgEoW909) << std::endl;
 }
@@ -648,7 +648,7 @@ catch (int& errorCode)
 YclPL3_8 = (int)floor(RL0Y);
 }
 
-if (ezo6_a < 1440417569)
+if (true)
 {
 {
 int j = 0;
@@ -687,7 +687,7 @@ ZexmN5l9A = hW3Qrl1x5(1144557586, -1547583166);
 break;
 }
 }
-else if (wPsVNtp18w > -2120488452)
+else if (true)
 {
 if ((zc54Kt3x5 < udwg7LLFB) || (a0W8YuU4i != -1064944672))
 {
@@ -801,7 +801,7 @@ T73U8P = (int)ceil(iTECsv5);
 }
 else
 {
-if (((jO4AdGP > D6j5N9107) && (AfzW <= -1913671070)) && (iEB53 > x36tx3tYv))
+if (((jO4AdGP > D6j5N9107) && (false)) && (iEB53 > x36tx3tYv))
 {
 switch (g4nRNXhz)
 {

@@ -146,7 +146,7 @@ k++;
 int i = 8;
 while (i >= 0)
 {
-if ((JmAn71G79Z != fW40TfZ4) && ((UGqMXyOo6 & -1837886810) && (e1hSGN0 < 836059375)))
+if ((JmAn71G79Z != fW40TfZ4) && ((UGqMXyOo6 & -1837886810) && (true)))
 {
 {
 int k = 0;
@@ -363,7 +363,7 @@ p0q_u0G = Jec1aP8sC / JI000_2n;
 }
 else if (tNVs3CZ)
 {
-if (M0Cht7 != 794049462)
+if (true)
 {
 cYMr3V4CR = (unsigned long)(TsN0);
 }

@@ -32,7 +32,7 @@ int main(void) {
  unsigned short GLy0q9GiAb = -692491192;
 	unsigned short int	DOUtkdR	=	188602092;
 
-if ((DOUtkdR < -1966774188) || (fP68P & lCyFGDN5F))
+if ((false) || (fP68P & lCyFGDN5F))
 {
 if (((GLy0q9GiAb <= -1458773658) || (g8_5H & 1757032716)) && ((wjVH895CJQ & SQ08) && (GLy0q9GiAb)))
 {
@@ -57,7 +57,7 @@ k--;
 while (k >= 0);
 }
 }
-else if ((vq3K2Yv1Aq < AYP3L) || ((vq3K2Yv1Aq >= -812415169) && (zq5Q1z > 893314352)))
+else if ((vq3K2Yv1Aq < AYP3L) || ((true) && (zq5Q1z > 893314352)))
 {
 if ((lCyFGDN5F) || ((owfUYRnmI7 <= 685339903) || (ozto9 != fP68P)))
 {
@@ -95,7 +95,7 @@ catch (int& errorCode)
 SQ08 |= fP68P;
 }
 }
-else if (KP660Zw == -1382739294)
+else if (false)
 {
 if ((Si94S6C57k != 1205808933) && (SQ08 == AYP3L))
 {
@@ -241,7 +241,7 @@ else if (haVFg == DOUtkdR)
 {
 cout << "wz2u" << "rN0139" << DOUtkdR << haVFg << endl;
 }
-else if (KP660Zw <= 2130053440)
+else if (true)
 {
 switch (DOUtkdR)
 {
@@ -263,7 +263,7 @@ cout << "GV_92DlE" << gU5_6 << a6AN << "P351" << endl;
 }
 }
 
-if (fP68P != -217675314)
+if (true)
 {
 {
 int j = 1;

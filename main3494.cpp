@@ -88,7 +88,7 @@ else
 {
 if (aUuZq == -14991743)
 {
-if (((PMHtpLnQ <= -1655147746) || (aUuZq & -1852360561)) && (KmMtMKA3J == -1761517530))
+if (((false) || (aUuZq & -1852360561)) && (KmMtMKA3J == -1761517530))
 {
 PMHtpLnQ ^= 352499001;
 }
@@ -110,7 +110,7 @@ jK8l = (int)abs(KmMtMKA3J);
 }
 else
 {
-if (PMHtpLnQ != -1152974826)
+if (true)
 {
 PMHtpLnQ = KmMtMKA3J % 50168664;
 }
@@ -122,7 +122,7 @@ else if (hT__Vy != aUuZq)
 {
 PMHtpLnQ += z4R_;
 }
-else if ((aUuZq > 1127194274) || (JJV9x5 < 1613091839))
+else if ((aUuZq > 1127194274) || (true))
 {
 z4R_ &= 2037682679;
 }
@@ -165,7 +165,7 @@ else
 JJV9x5 = (int)abs(b3w6232);
 }
 }
-else if (hT__Vy <= -868599135)
+else if (false)
 {
 {
 int k = 8;
@@ -177,7 +177,7 @@ KmMtMKA3J -= 939599830;
 while (k >= 0);
 }
 }
-else if (z4R_ >= -734172963)
+else if (true)
 {
 z4R_ <<= JJV9x5;
 }
@@ -193,7 +193,7 @@ PMHtpLnQ |= KmMtMKA3J;
 }
 }
 }
-if (hT__Vy <= 1334070608)
+if (true)
 {
 cout << "Sw_CjVbf" << KmMtMKA3J << nIp1 << "G8CVbCNcy0" << "rKAo20SYN" << endl;
 }
@@ -225,7 +225,7 @@ else if (z4R_ & 1551154115)
 {
 JJV9x5 >>= 1488098250;
 }
-else if (((hT__Vy) && (jK8l < -316256417)) || ((hT__Vy) && (aUuZq == -1438589824)))
+else if (((hT__Vy) && (false)) || ((hT__Vy) && (aUuZq == -1438589824)))
 {
 {
 int j = 10;

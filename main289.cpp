@@ -133,7 +133,7 @@ break;
 
 try
 {
-if (((QXaG == 875558925) || (j1FwfI != hg37_)) || (JWIu9 >= -764749687))
+if (((false) || (j1FwfI != hg37_)) || (JWIu9 >= -764749687))
 {
 if ((d9PuG68 < 2912954) && (ZmA6yE))
 {
@@ -158,7 +158,7 @@ LRUAwG4Q2t = (int)floor(v60Rfs1);
 }
 std::cout << Y8y7Pyt_(Y38coT0J, d9PuG68, -804115941) << AIPT << MOLI << "qX9OkL454o" << std::endl;
 fQ513M3 = (int)ceil(kI_Z0BmWL);
-if (l5o930_ <= -930327552)
+if (false)
 {
 if (W3MK < o9t8)
 {
@@ -186,7 +186,7 @@ else
 qGg0 = (int)floor(LRUAwG4Q2t);
 }
 }
-else if (Y_P6_56sC5 != 1120863697)
+else if (true)
 {
 MOLI = (unsigned char)(WHGW5vE2db);
 }
@@ -267,7 +267,7 @@ while (k < 10);
 }
 else if (dC627_ == 1102048841)
 {
-if (l5o930_ > -24668732)
+if (true)
 {
 kI_Z0BmWL = (int)abs(hg37_);
 }
@@ -309,7 +309,7 @@ MOLI -= 2110964380;
 break;
 }
 }
-else if (ZmA6yE <= -947537948)
+else if (false)
 {
 std::cout << "tzm_v4Da" << "kcj7v" << std::endl;
 }
@@ -359,7 +359,7 @@ if ((Fb4C < -1166229099) || ((F88CO0IO >= 455959884) && (ek78P)))
 {
 LRUAwG4Q2t = (int)abs(Wm5E);
 }
-else if (MOLI != -349002733)
+else if (true)
 {
 {
 int k = 0;
@@ -377,7 +377,7 @@ for (int k = 6; k >= 0; --k)
 hg37_ = L50xRyy_Iz(hg37_, ZmA6yE);
 }
 }
-else if (((S96C6fGt2y > t16_0T7ci4) || (ZmA6yE == 500894678)) || (k4Y0_ELWU >= 1455240281))
+else if (((S96C6fGt2y > t16_0T7ci4) || (false)) || (k4Y0_ELWU >= 1455240281))
 {
 rABS = (int)ceil(I6ktQ6BU);
 }
@@ -440,7 +440,7 @@ l5o930_ = hns14wR7N(CzXURHtCAf, 360870613, I6ktQ6BU, -1813626480, yF98);
 break;
 }
 
-if (((TX25nEE8O4 != L7c8lusVgo) && (Y_P6_56sC5 == l5o930_)) || (TX25nEE8O4 != -1797133886))
+if (((TX25nEE8O4 != L7c8lusVgo) && (Y_P6_56sC5 == l5o930_)) || (true))
 {
 if ((ek78P == d09Gjd) && (fQ513M3 == tq21))
 {
@@ -501,7 +501,7 @@ LRUAwG4Q2t = (int)abs(dM_9O1n8_);
 }
 if (De3P65zt != cQRZs_FJO0)
 {
-if ((Zy__ != -1357319337) || ((TX25nEE8O4 <= -1371171977) && (MOLI)))
+if ((Zy__ != -1357319337) || ((false) && (MOLI)))
 {
 AIPT = (int)abs(jD62_lQ6_2);
 }
@@ -513,7 +513,7 @@ int j = 6;
 while (j >= 0)
 {
 j--;
-if ((gWw5dwY) || ((Y_P6_56sC5 == 1087692916) || (ek78P > W3MK)))
+if ((gWw5dwY) || ((false) || (ek78P > W3MK)))
 {
 F88CO0IO = (int)abs(Wm5E);
 }
@@ -581,7 +581,7 @@ do
 --i;
 try
 {
-if (((S96C6fGt2y < LRUAwG4Q2t) && (WHGW5vE2db >= -731425324)) || (dC627_ == 1230419258))
+if (((S96C6fGt2y < LRUAwG4Q2t) && (true)) || (dC627_ == 1230419258))
 {
 k3_VF7K4y = L50xRyy_Iz(1257391448, -622628385);
 }

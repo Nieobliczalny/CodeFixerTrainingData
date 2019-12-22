@@ -100,7 +100,7 @@ s47_gLOiS9 = hy_Fk % Gr3g076Vc_;
 }
 while (i >= 0);
 }
-if ((LDm4m <= -1827419660) && (ClhRrDZ != 766160481))
+if ((false) && (ClhRrDZ != 766160481))
 {
 {
 int j = 0;

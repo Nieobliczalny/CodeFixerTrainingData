@@ -31,7 +31,7 @@ qVESBw--;
 }
 aw2xuu85_ = (DkyD) ? d2I9_x01 : sZhNQqo36;
 
-if ((Ez3t50id < 1200973321) && (DkyD == -1863712962))
+if ((true) && (DkyD == -1863712962))
 {
 if (Dqii)
 {
@@ -56,7 +56,7 @@ Fq6NapF_--;
 }
 }
 }
-else if ((LqQ_9HBl5 >= -1667596338) && (fEk3X81S))
+else if ((true) && (fEk3X81S))
 {
 d2I9_x01 <<= h5134n;
 }
@@ -80,7 +80,7 @@ BF03gZ0g4y = fEk3X81S * fEk3X81S;
 }
 
 Dqii = (unsigned short)(jZRiyb);
-if (Dqii != 1387058908)
+if (true)
 {
 if (kpLG1DyU != -337627939)
 {
@@ -131,7 +131,7 @@ catch (int& errorCode)
 {
 b_0E3P = Ufm09 | Fq6NapF_;
 }
-if (((L3_8Ex9_6 >= -471092987) && (Ez3t50id == jZRiyb)) && (kpLG1DyU >= Dqii))
+if (((true) && (Ez3t50id == jZRiyb)) && (kpLG1DyU >= Dqii))
 {
 for (int j = 7; j >= 0; j--)
 {
@@ -154,7 +154,7 @@ else
 d2I9_x01 <<= 1035441515;
 }
 
-if ((pxeVF < -1431939644) || (kpLG1DyU))
+if ((false) || (kpLG1DyU))
 {
 std::cout << "X5203751k" << DkyD << std::endl;
 }
@@ -165,7 +165,7 @@ int j = 8;
 do
 {
 j--;
-if (((LqQ_9HBl5 <= h5134n) && (sZhNQqo36 < d2I9_x01)) && (C1MSbs >= -1898481899))
+if (((LqQ_9HBl5 <= h5134n) && (sZhNQqo36 < d2I9_x01)) && (true))
 {
 sZhNQqo36 *= 1996048581;
 }

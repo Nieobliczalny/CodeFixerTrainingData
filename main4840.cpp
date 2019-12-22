@@ -38,7 +38,7 @@ int main(void) {
 	XhPd867a	=	0;
 
 DLWBSJ = 1530616971 / cCt3;
-if ((DLWBSJ == -514151336) && ((LZH39 == XhPd867a) || (LZH39 < -521311011)))
+if ((false) && ((LZH39 == XhPd867a) || (LZH39 < -521311011)))
 {
 cout << ivWCB82R(DLWBSJ, Vo8jJ, cCt3, -1189012663, LZH39) << "hshm1VS" << ivWCB82R(DLWBSJ, -1423383143, cCt3, -81438323, LZH39) << xec5XS_(DLWBSJ, Vo8jJ, -252509512, 1063001980, LZH39) << endl;
 }

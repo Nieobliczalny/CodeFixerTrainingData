@@ -73,7 +73,7 @@ break;
 }
 }
 
-if (lKrF3 < 1721690280)
+if (true)
 {
 if (((QmIdCmA & -1496319288) && (lNIsX4gfJa == -788169746)) && (xZ43KlFCk0 != nq03))
 {
@@ -110,7 +110,7 @@ MsMYgn60 = (int)floor(lNIsX4gfJa);
 break;
 }
 }
-else if (QmIdCmA <= -2015841626)
+else if (false)
 {
 cout << BZQp << "OW67o4q69" << endl;
 }
@@ -131,7 +131,7 @@ else if (Mj385rK == xZ43KlFCk0)
 {
 JvgoOh = (int)abs(IBTp03OJ);
 }
-else if ((Mj385rK >= t7eA04oh46) && ((nq03 > 212662039) && (yG910b_ == -199993530)))
+else if ((Mj385rK >= t7eA04oh46) && ((false) && (yG910b_ == -199993530)))
 {
 t7eA04oh46 = u154w(2016325377, wSfybOF2, -170574757) % ikZy66U;
 }
@@ -274,7 +274,7 @@ catch (int& errorCode)
 lNIsX4gfJa = (int)floor(IBTp03OJ);
 }
 }
-else if ((AdLa7 >= eqD_EdY6) && (W8N8723 != -240106116))
+else if ((AdLa7 >= eqD_EdY6) && (true))
 {
 cout << u154w(-734460341, -248505702, GExw) << endl;
 }
@@ -302,7 +302,7 @@ IBTp03OJ = (int)ceil(lNIsX4gfJa);
 }
 else
 {
-if ((w7oo3_z & -1245767340) || (b23_G != -1288694667))
+if ((w7oo3_z & -1245767340) || (true))
 {
 MsMYgn60 = (int)abs(BL407HmXu);
 }
@@ -329,7 +329,7 @@ else if (JvgoOh != R11MvXVnL)
 {
 if (fNYo471 & QmIdCmA)
 {
-if (((I3_U > -1238894185) && (b23_G < -1420590682)) || (GExw <= 1353674033))
+if (((true) && (b23_G < -1420590682)) || (GExw <= 1353674033))
 {
 mkyq3F_tkB = u154w(lKrF3, -1795944933, I3_U);
 }
@@ -369,7 +369,7 @@ I4O26h75HR <<= ZPrD_;
 }
 }
 }
-else if ((GExw == -1632634855) || (AZjm_RR4 < -193166711))
+else if ((false) || (AZjm_RR4 < -193166711))
 {
 if ((wSfybOF2 <= -643945500) || (K68T7d < 642806985))
 {
@@ -439,7 +439,7 @@ W8N8723 = u154w(2066597651, 1665603453, -1746415148);
 }
 else
 {
-if ((jS1CDG < -1242786751) || (bm4048 == 1982914459))
+if ((jS1CDG < -1242786751) || (false))
 {
 cout << QmIdCmA << endl;
 }
@@ -524,7 +524,7 @@ catch (int& errorCode)
 W8N8723 = u154w(899634373, 34439749, ZPrD_);
 }
 }
-if (((lKrF3 < wSfybOF2) && (QmIdCmA <= 404906118)) && (R11MvXVnL <= -2118651399))
+if (((lKrF3 < wSfybOF2) && (true)) && (R11MvXVnL <= -2118651399))
 {
 MsMYgn60 = (long double)(I3_U);
 }

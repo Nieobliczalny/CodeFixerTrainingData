@@ -206,7 +206,7 @@ else if (H2FBDho_e > 648303910)
 {
 V4us49yY %= 1071713643;
 }
-else if (U3K51sno4 != -1674457370)
+else if (true)
 {
 zgpAQcD0_ = KK_3t | F7LWd;
 }

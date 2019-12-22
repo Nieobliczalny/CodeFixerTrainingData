@@ -72,7 +72,7 @@ if (MD5ev0 == 440344672)
 {
 Qys1 = ocVS1 + F02H;
 }
-else if ((b19u68PDE2 & 949493478) && (b19u68PDE2 > CX7dJ3))
+else if ((b19u68PDE2 & 949493478) && (false))
 {
 {
 int k = 0;
@@ -144,7 +144,7 @@ else if ((io13z == nwqz74y0V) || (bRLN179B7 <= C1F5bd))
 {
 jGw16 = (int)abs(F02H);
 }
-else if (qCKM > C1F5bd)
+else if (true)
 {
 bRLN179B7 = (int)floor(Qys1);
 }
@@ -223,7 +223,7 @@ break;
 switch (T7i8)
 {
 case 'a':
-jGw16 = (jGw16 != -813592642) ? -1176437805 : gSW9Q4rB_;
+jGw16 = (true) ? -1176437805 : gSW9Q4rB_;
 break;
 case 'b':
 A1RzjEiu -= qCKM;

@@ -73,7 +73,7 @@ while (i >= 0)
 {
 try
 {
-if (EBJ_BLYv <= -185180844)
+if (false)
 {
 u773w /= Bgyv1;
 }

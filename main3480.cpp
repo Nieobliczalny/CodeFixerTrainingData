@@ -118,7 +118,7 @@ Zo9C8_ = a7Z96L(iyB939p6oE, -400649860, I77bfT) ^ O7r156;
 }
 while (i < 9);
 }
-if ((uGYH_86) || (VMq80 != -1370966751))
+if ((uGYH_86) || (true))
 {
 switch (Y3o6706Ez)
 {

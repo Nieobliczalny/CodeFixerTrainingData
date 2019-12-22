@@ -17,7 +17,7 @@ int main() {
  unsigned int gVHPsu, G3Ze7VSUB_, XLdd7Xc;
   gVHPsu = G3Ze7VSUB_ = XLdd7Xc = 0;
 
-if (gYOv7 != -1125684676)
+if (true)
 {
 if (u130X1Ne1)
 {
@@ -70,7 +70,7 @@ for (int i = 0; i < 1; ++i)
 std::cout << ZM8TuPU3 << "OxDxLl6_S4" << H2c0(1753847133, 253325682, aq_lI, -35708393) << H2c0(LxseR4e_v4, -1948237191, aq_lI, WN5U_dD) << r3uAtW05up << std::endl;
 }
 
-if (vd2DAt4kRA != -554248452)
+if (true)
 {
 for (int j = 1; j >= 0; j--)
 {
@@ -142,7 +142,7 @@ while (k < 10);
 }
 }
 }
-else if ((J85dRotd >= 1628336274) && (KA4uNs_t <= EHa7s4H75u))
+else if ((false) && (KA4uNs_t <= EHa7s4H75u))
 {
 K_9gv = (short)(AZg75k6T);
 }
@@ -198,7 +198,7 @@ LxseR4e_v4 = (short)(Eq7mD64);
 ZM8TuPU3 = (short)(LxseR4e_v4);
 if (WR5QY3ug == aq_lI)
 {
-if (jlGh53Wv == 1614814890)
+if (false)
 {
 T5ndY59 = H2c0(1256400412, uei43_9163, -1712192806, 959035707);
 }
@@ -214,7 +214,7 @@ k++;
 while (k < 5);
 }
 }
-else if ((HdfD7tP6 >= -1489786739) || (Na6UMRSw))
+else if ((true) || (Na6UMRSw))
 {
 try
 {
@@ -335,7 +335,7 @@ sf1H_S = (short)(UMrJG9fZ);
 }
 else
 {
-if (Q_8eNYFsG != -812813607)
+if (true)
 {
 JC_VG >>= d_w8Ay52_;
 }

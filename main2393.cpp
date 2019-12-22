@@ -234,7 +234,7 @@ for (int i = 1; i >= 0; --i)
 {
 if (e3L921 & K9656)
 {
-if (td3e486_ <= -111512180)
+if (false)
 {
 BSQM = K9656 >> Lg_ClOY;
 }
@@ -355,7 +355,7 @@ while (i >= 0);
 int i = 0;
 do
 {
-if ((U0013Aq != JH_h4e2je9) && (AB4498__r >= -1139378347))
+if ((U0013Aq != JH_h4e2je9) && (true))
 {
 so0h390Q1 = z6p40i ^ KkS540ohHB;
 }
@@ -375,7 +375,7 @@ while (i < 9);
 int i = 0;
 while (i < 3)
 {
-if (aB1HOgp9Rz <= 1008921309)
+if (true)
 {
 try
 {
@@ -430,7 +430,7 @@ int i = 6;
 do
 {
 i--;
-if (K9656 != -551098507)
+if (true)
 {
 if (E94g < 1519294975)
 {
@@ -472,7 +472,7 @@ case 4:
 K9656 |= 1462728264;
 break;
 }
-if (CLw4ZHG81 < 1209260413)
+if (true)
 {
 if ((Lg_ClOY & -1449909677) && (Gl_1LP <= 51843480))
 {

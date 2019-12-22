@@ -117,7 +117,7 @@ lXq_ = (int)floor(GYD7V_);
 }
 else if (stnUbEM <= -2062285845)
 {
-if (R66yr38Iu <= vV75UX1Lc)
+if (true)
 {
 {
 int k = 10;
@@ -175,7 +175,7 @@ wEH6w = Pyl9 ^ sw0b00yg32;
 
 c8sH = F47qTwl1d | 1076458544;
 std::cout << "u4SrQ8" << "hDtiYlw1D" << "MU8IJI9oK" << R66yr38Iu << std::endl;
-if (p4k2qM > vV75UX1Lc)
+if (false)
 {
 switch (nlTC)
 {
@@ -512,7 +512,7 @@ int i = 0;
 do
 {
 i++;
-if (((J0704 != IkX90) || (t7wP_p1Dq >= -1556661948)) || (KaQrAH7PiW != M8Q5UT3EW))
+if (((J0704 != IkX90) || (true)) || (KaQrAH7PiW != M8Q5UT3EW))
 {
 if (((y5fSB_4s6 != 1599857331) || (cdJR7R == f45g)) && ((F_ch476 != f45g) || (R66yr38Iu != wcKA2oFvTO)))
 {
@@ -554,7 +554,7 @@ std::cout << c8sH << "v3Ae" << koqx << kC4BepY << std::endl;
 
 for (int i = 3; i >= 0; i--)
 {
-if (d0Gh_4 != vV75UX1Lc)
+if (true)
 {
 d0Gh_4++;
 }

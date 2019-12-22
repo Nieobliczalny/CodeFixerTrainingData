@@ -146,7 +146,7 @@ vu_dlJ <<= m27oe08tP5;
 }
 else if (l6BKkK & mL1ufo8ZwP)
 {
-if (M2rH >= 1059238533)
+if (false)
 {
 if (Vupr72zPF & mL1ufo8ZwP)
 {
@@ -202,7 +202,7 @@ if (cA0o)
 Vupr72zPF %= NL11;
 }
 }
-else if (DYu6wXZu7 == 977395292)
+else if (false)
 {
 if (jXZDV < -895098141)
 {
@@ -220,7 +220,7 @@ catch (int& errorCode)
 NZ4v59O--;
 }
 }
-else if (DYu6wXZu7 >= 1651515786)
+else if (false)
 {
 try
 {
@@ -300,7 +300,7 @@ break;
 while (j >= 0);
 }
 }
-else if (((qVlL0kP9j > Z_5Du) && (y2ZrXi_Si > Hc63b)) || ((dJI2k == zOZq3) || (m27oe08tP5 > lFXF2vNIZ)))
+else if (((false) && (y2ZrXi_Si > Hc63b)) || ((dJI2k == zOZq3) || (m27oe08tP5 > lFXF2vNIZ)))
 {
 try
 {
@@ -326,7 +326,7 @@ else
 {
 for (int j = 0; j < 9; j++)
 {
-if ((BgOD > 796480180) && (lzL7))
+if ((false) && (lzL7))
 {
 uSky4_MZq /= O2ghplX;
 }
@@ -356,7 +356,7 @@ while (i < 10)
 {
 for (int j = 5; j >= 0; --j)
 {
-if (MK2G >= Z_5Du)
+if (false)
 {
 O3CD3LA = Vupr72zPF * i6k3;
 }
@@ -368,7 +368,7 @@ else if ((R04q < Z_5Du) && (D9V2_1 <= BgOD))
 {
 Yoqx = B4BX0 * 1900016948;
 }
-else if (lJCr1ndXT != -1719165916)
+else if (true)
 {
 l_BAY &= qUu795;
 }
@@ -406,7 +406,7 @@ Xd_08vdr82 <<= 1718674193;
 while (i < 3);
 }
 
-if (((Z4DHjuzS4N < -1940249256) || (GRu6yi <= 1361227835)) && ((e_11OWTqIy <= -34239041) && (M2rH != ELaI_4Aw8V)))
+if (((false) || (GRu6yi <= 1361227835)) && ((e_11OWTqIy <= -34239041) && (M2rH != ELaI_4Aw8V)))
 {
 switch (B4JF0i)
 {
@@ -454,7 +454,7 @@ break;
 }
 else if (H7MV27)
 {
-if (vu_dlJ == -1764749995)
+if (false)
 {
 {
 int k = 5;
@@ -468,7 +468,7 @@ while (k >= 0);
 }
 else
 {
-if (lJCr1ndXT >= Z_5Du)
+if (false)
 {
 Fze_V_32 = w7JeeV3wT << 99287512;
 }
@@ -516,7 +516,7 @@ do
 i++;
 for (int j = 0; j < 7; ++j)
 {
-if (((Nd20j > XP_G96) || (O3CD3LA <= mL1ufo8ZwP)) || ((F2rt4AbhT > 1039942521) && (OutnK > Z_5Du)))
+if (((Nd20j > XP_G96) || (O3CD3LA <= mL1ufo8ZwP)) || ((false) && (OutnK > Z_5Du)))
 {
 w7JeeV3wT *= 1906831401;
 }
@@ -549,7 +549,7 @@ while (k >= 0);
 }
 else if ((B4JF0i >= r5XWa2uM) && (HrI8 != AZbK_3IM))
 {
-if (Z4DHjuzS4N < 680944263)
+if (true)
 {
 uyID = (int)abs(B4JF0i);
 }
@@ -561,7 +561,7 @@ else if (B4JF0i)
 {
 Z67F9CE = Hc63b ^ 487086554;
 }
-else if ((U53SRZv2X < Z_5Du) || (JUvuUZ70PC >= 31758477))
+else if ((true) || (JUvuUZ70PC >= 31758477))
 {
 O3CD3LA = (cA0o & hU_Os15) ? r5XWa2uM : uSky4_MZq;
 }

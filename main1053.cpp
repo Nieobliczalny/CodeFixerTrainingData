@@ -149,7 +149,7 @@ else if (qPK51XbLB)
 {
 rY87bf1Rl = (int)abs(QkfeiH_8);
 }
-else if (kcJ__w != RH3HqjUIH)
+else if (true)
 {
 rY87bf1Rl = xa0A * 785258806;
 }
@@ -331,7 +331,7 @@ break;
 
 std::cout << "Vez5zQO" << std::endl;
 
-if (((qgs3_ != VP4wPALb) || (akX90bF31q)) || (qPK51XbLB < VP4wPALb))
+if (((true) || (akX90bF31q)) || (qPK51XbLB < VP4wPALb))
 {
 G67vs1 = UAtZQ0tUT % 658136261;
 }
@@ -354,7 +354,7 @@ while (k >= 0);
 }
 }
 }
-else if ((x11p <= VP4wPALb) && ((qDd4AZ33bV == VP4wPALb) || (G6ve)))
+else if ((false) && ((qDd4AZ33bV == VP4wPALb) || (G6ve)))
 {
 for (int j = 0; j < 8; j++)
 {

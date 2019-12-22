@@ -16,7 +16,7 @@ int main(void) {
     short int    OAc4t12Z    =    -1698708618,    Ln6y9    =    145550695,    a1kz1    =    -1853224466,    AaN7z_    =    -2127302749,    oBNu73C846    =    -1963899957,    yM4e_Z2P2    =    -1394980124,    v64wD4Rkw    =    1352678437,    S643scG_5k    =    632248930,    q1j9B1B    =    1963597560,    q2M_e6    =    -1930997573,    kwF_    =    -2145858918,    b9w60FQu    =    1590831871,    LRK3_T2Ee    =    -1525027421,    ySc8c5    =    614379369,    yH_Aq9h0    =    -93206965,    PF06j4G    =    -616980926,    yaCIEb    =    -424655428,    AgA_rO8    =    -2065255648,    z_R9z_    =    -975752700,    I5cc738x6G    =    -219569122,    TSf76x    =    -1976065099,    yf1e_o    =    -1635886843,    z3hN__OS    =    -720703506,    Dp7Vkz    =    319230692,    J6_K5e    =    584880772,    q562Ww3jU    =    1452367649,    reQxq9    =    482842841,    u4eg6    =    -1254813724,    ka3o3    =    -924914149,    x1kRm19    =    -2099532992,    hdVPTZ_16    =    -119781457,    jNup9q    =    -535342934,    R10c    =    745772176,    ulNF_28CN    =    573661525,    uys_    =    -171181771,    R7QlVt    =    834204849,    C3Q9sq    =    2060358422,    fMG4Fk    =    -61249848,    LXKfx7H3K6    =    -1499032733,    GiR5e63    =    1690490989,    oR69IE7    =    123775412,    IS0C3Ot    =    1346341938,    g2v6C4qWR0    =    -1593962286,    Ht22M5    =    -310168980,    RbNX_t_1l    =    2086250110,    UK30C    =    -823111618,    UD8U2y    =    -1073194161,    uM2_6    =    -549864163,    r0e5W4gdt    =    -1002404313,    e5p5R5P16    =    1997512384,    Tf5dMw    =    1740139670,    f90o9l_mQ    =    -1614077221;
  unsigned short SsuPmd = 0, hYVO1rjq = 0, OCa4NdH31Z = 0, cMEkTrh = 0, bX3C = 0;
 
-if (S643scG_5k <= 1124428820)
+if (true)
 {
 cMEkTrh = (unsigned short)(fMG4Fk * cMEkTrh);
 }
@@ -108,7 +108,7 @@ break;
 }
 else
 {
-if (PF06j4G < -66357966)
+if (false)
 {
 jNup9q = (int)abs(x1kRm19);
 }
@@ -197,7 +197,7 @@ int i = 0;
 do
 {
 ++i;
-if ((z_R9z_ & -1803231189) && (RbNX_t_1l >= -458270262))
+if ((z_R9z_ & -1803231189) && (true))
 {
 for (int k = 0; k < 8; ++k)
 {
@@ -221,7 +221,7 @@ while (i < 6);
 
 try
 {
-if (z_R9z_ == 721483611)
+if (false)
 {
 std::cout << "K7FRXQ5G" << "eDEMjX6" << TSf76x << "N95d" << S643scG_5k << std::endl;
 }
@@ -255,7 +255,7 @@ while (j < 7);
 }
 }
 R10c = (int)abs(IS0C3Ot);
-if (b9w60FQu != -500890206)
+if (true)
 {
 if (Dp7Vkz == 1921689738)
 {
@@ -274,7 +274,7 @@ if (GiR5e63 == Dp7Vkz)
 {
 R7QlVt = x1kRm19 & kwF_;
 }
-else if (Tf5dMw == 351035414)
+else if (false)
 {
 yH_Aq9h0 = S643scG_5k | 1268784559;
 }
@@ -355,7 +355,7 @@ v64wD4Rkw = (int)abs(C3Q9sq);
 break;
 }
 }
-else if (((e5p5R5P16 <= -1731237751) || (x1kRm19)) && ((yaCIEb == -593045758) && (z3hN__OS & -915734686)))
+else if (((false) || (x1kRm19)) && ((yaCIEb == -593045758) && (z3hN__OS & -915734686)))
 {
 if (UK30C > -272703031)
 {
@@ -388,7 +388,7 @@ while (k < 10);
 }
 else if (OAc4t12Z)
 {
-if (((v64wD4Rkw & 1623560356) || (I5cc738x6G == -1721472909)) || ((ySc8c5 <= SsuPmd) || (hdVPTZ_16 < 1031906195)))
+if (((v64wD4Rkw & 1623560356) || (false)) || ((ySc8c5 <= SsuPmd) || (hdVPTZ_16 < 1031906195)))
 {
 S643scG_5k = (r0e5W4gdt) ? cMEkTrh : Ht22M5;
 }
@@ -452,7 +452,7 @@ if (AgA_rO8 >= GiR5e63)
 {
 Tf5dMw = (int)abs(TSf76x);
 }
-else if (ySc8c5 != 59836164)
+else if (true)
 {
 g2v6C4qWR0 -= AgA_rO8;
 }
@@ -580,7 +580,7 @@ break;
 int i = 0;
 do
 {
-if (a1kz1 < 120244210)
+if (true)
 {
 uys_ ^= Ht22M5;
 }
@@ -658,7 +658,7 @@ int i = 0;
 while (i < 3)
 {
 i++;
-if ((AaN7z_ != -964923077) && (oBNu73C846))
+if ((true) && (oBNu73C846))
 {
 {
 int k = 3;
@@ -678,7 +678,7 @@ std::cout << fMG4Fk << "uY5a" << x1kRm19 << q562Ww3jU << std::endl;
 }
 try
 {
-if (RbNX_t_1l >= 938240853)
+if (false)
 {
 {
 int k = 8;
@@ -711,7 +711,7 @@ oBNu73C846--;
 break;
 }
 }
-else if ((RbNX_t_1l != cMEkTrh) && ((kwF_ >= 690821852) && (e5p5R5P16 != -363324662)))
+else if ((RbNX_t_1l != cMEkTrh) && ((false) && (e5p5R5P16 != -363324662)))
 {
 if (uys_ & PF06j4G)
 {
@@ -729,7 +729,7 @@ r0e5W4gdt *= 1556362207;
 }
 }
 }
-else if (TSf76x >= 1382482860)
+else if (false)
 {
 for (int k = 0; k < 9; k++)
 {
@@ -777,7 +777,7 @@ do
 {
 try
 {
-if (C3Q9sq >= 1240610563)
+if (false)
 {
 z3hN__OS = (int)abs(g2v6C4qWR0);
 }

@@ -113,7 +113,7 @@ gQ1GnQUNY = wLX78k();
 }
 if (ybV_I <= R2I18a85)
 {
-if ((gQ1GnQUNY < -892804766) && ((B3HC < wX1gg_7kfP) && (gXyW2l84pb > Twlfr22_)))
+if ((false) && ((B3HC < wX1gg_7kfP) && (gXyW2l84pb > Twlfr22_)))
 {
 for (int k = 1; k >= 0; --k)
 {

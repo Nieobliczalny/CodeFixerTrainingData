@@ -94,7 +94,7 @@ if (jXpS89mlgJ)
 {
 t0V54SYM = ZYRmtDQDe | 462950411;
 }
-else if (ZYRmtDQDe < 1356788218)
+else if (true)
 {
 fWinm = (CA6HXW != -2070916035) ? qmTVkaT5 : qmTVkaT5;
 }
@@ -171,7 +171,7 @@ if (UXmey8N8hW)
 k65u3uhPNN = vB7J(k65u3uhPNN);
 }
 
-if (wC6V_ymZ < oXb4)
+if (true)
 {
 switch (QFG6)
 {
@@ -264,7 +264,7 @@ Bge9 = oXb4 | fWinm;
 }
 t0V54SYM = (int)abs(CA6HXW);
 
-if (t0V54SYM != 933855095)
+if (true)
 {
 if (AR8BiN_ <= Z6Dk_75)
 {
@@ -274,7 +274,7 @@ AR8BiN_ = Du7Ry(AR8BiN_, jXpS89mlgJ, QFG6);
 }
 }
 }
-else if ((KHbUV > -1188747134) || (k65u3uhPNN < oXb4))
+else if ((true) || (k65u3uhPNN < oXb4))
 {
 if (ZYRmtDQDe <= -1570763402)
 {
@@ -328,7 +328,7 @@ k65u3uhPNN = (int)abs(Nj7YV);
 }
 else
 {
-if ((AR8BiN_ != WKNWj2) || (U_TbW <= 502201533))
+if ((AR8BiN_ != WKNWj2) || (true))
 {
 s584EHw2--;
 }
@@ -420,7 +420,7 @@ rqZLD = (short int)(AR8BiN_);
 }
 
 std::cout << "q9GcoEh_e5" << rqZLD << "MTud3gh9u" << std::endl;
-if ((Nj7YV < 696598339) && (evLi0_ < QFG6))
+if ((true) && (evLi0_ < QFG6))
 {
 for (int j = 0; j < 8; ++j)
 {
@@ -430,7 +430,7 @@ rqZLD = Z34r58huL(rqZLD, -2100814006, -1268994973);
 }
 }
 }
-else if ((KHbUV == 1164212892) || (wC6V_ymZ))
+else if ((false) || (wC6V_ymZ))
 {
 try
 {
@@ -549,7 +549,7 @@ else if (KEp6 < q3L2rCPP)
 {
 AR8BiN_ = Du7Ry(AR8BiN_, Nj7YV, -1840049428);
 }
-else if (E1jr != -1793310747)
+else if (true)
 {
 switch (U_TbW)
 {
@@ -584,7 +584,7 @@ break;
 }
 else if (i3lbO7 < QFG6)
 {
-if ((QFG6 != 1613120004) || (wC6V_ymZ > WKNWj2))
+if ((true) || (wC6V_ymZ > WKNWj2))
 {
 E1jr = Z34r58huL(-19621133, rqZLD, UXmey8N8hW);
 }
@@ -600,7 +600,7 @@ else if (jXpS89mlgJ > WKNWj2)
 {
 fWinm = (int)abs(jXpS89mlgJ);
 }
-else if ((QFG6 & WKNWj2) && ((E1jr > jXpS89mlgJ) && (jXpS89mlgJ > -1409181528)))
+else if ((QFG6 & WKNWj2) && ((E1jr > jXpS89mlgJ) && (true)))
 {
 q3L2rCPP = WZ_TxK0W27(-126931983);
 }
@@ -636,7 +636,7 @@ for (int i = 0; i < 5; i++)
 {
 try
 {
-if (CA6HXW > -1772830420)
+if (true)
 {
 Nj7YV = UXmey8N8hW ^ jXpS89mlgJ;
 }
@@ -647,7 +647,7 @@ UXmey8N8hW = evLi0_ << 1833345888;
 }
 }
 
-if ((KEp6 <= oXb4) && (q3L2rCPP))
+if ((true) && (q3L2rCPP))
 {
 for (int j = 4; j >= 0; j--)
 {

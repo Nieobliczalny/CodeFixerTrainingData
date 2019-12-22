@@ -175,7 +175,7 @@ if (lFF59 == fDT918aja4)
 {
 t94R9bt3 = (int)abs(eIDP4at_);
 }
-else if ((pfR92C) && ((vLa2J <= -617832075) && (VvcRX43s0)))
+else if ((pfR92C) && ((false) && (VvcRX43s0)))
 {
 jKd4e6ryP_ = Hiib(1078878862, VvcRX43s0, R95l5O0q1);
 }

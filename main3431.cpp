@@ -56,7 +56,7 @@ break;
 }
 HiT8 = (long long)(J6_vc_Jsn);
 
-if (((DrKgrzlC45 != ft382oSZ7M) && (xPZ1723kN != 1136461242)) || (x_PdfHEBmV < -1026399627))
+if (((DrKgrzlC45 != ft382oSZ7M) && (xPZ1723kN != 1136461242)) || (false))
 {
 Bpag0k = zMHaIJ191(-406097566, -751119339, eBMJxYijC);
 }

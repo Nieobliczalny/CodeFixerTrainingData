@@ -90,7 +90,7 @@ else if (HV609dX >= -276103753)
 {
 ZOMm0e_ = rS0hR6(506181972, Y6osoa);
 }
-else if ((B7cZ == -2014798041) && ((TCFU2_ == W6HjKCn5f7) && (GLHTxCbm & W6HjKCn5f7)))
+else if ((B7cZ == -2014798041) && ((false) && (GLHTxCbm & W6HjKCn5f7)))
 {
 sH0__H9a8 &= 2108822540;
 }

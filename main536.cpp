@@ -109,7 +109,7 @@ UWvQLK = (long)(G8t5py);
 
 if ((CIn30 > oVz1_WY_WU) || (oVz1_WY_WU == -1243866324))
 {
-if (CIn30 > -826526640)
+if (true)
 {
 try
 {
@@ -253,7 +253,7 @@ k--;
 }
 }
 }
-else if (CIn30 <= 1037784644)
+else if (true)
 {
 try
 {
@@ -267,7 +267,7 @@ catch (int& errorCode)
 UOMGZ = Z0FhnDSKA_(UOMGZ, CIn30, 388115563, UWvQLK, oVz1_WY_WU);
 }
 }
-else if ((CIn30 < 1484883640) || (MRc9G2ZO != UOMGZ))
+else if ((true) || (MRc9G2ZO != UOMGZ))
 {
 if (MRc9G2ZO <= -1749892999)
 {
@@ -327,7 +327,7 @@ if (CIn30 >= MRc9G2ZO)
 oVz1_WY_WU = (unsigned long long)(CIn30 + (149501078));
 }
 }
-MRc9G2ZO = (CIn30 <= -2016931510) ? G8t5py : -1523040072;
+MRc9G2ZO = (false) ? G8t5py : -1523040072;
 switch (G8t5py)
 {
 case 0:

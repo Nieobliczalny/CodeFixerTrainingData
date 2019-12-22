@@ -83,7 +83,7 @@ int main(int argc, char** argv) {
 	J50Y7	=	-1917812442;
 
 eu2O7Xf = pI9V2N0U27(274555831, 1520243974) % 44128655;
-if (((nBa_Ll >= -1927938630) && (wQsK66 > -1873285180)) && (ayfi6lH78 == 1974557225))
+if (((true) && (wQsK66 > -1873285180)) && (ayfi6lH78 == 1974557225))
 {
 {
 int j = 0;
@@ -126,7 +126,7 @@ i++;
 while (i < 7);
 }
 
-if (H7gW7 != 710337446)
+if (true)
 {
 if (((S3MR2P8 <= -1161365491) && (ayfi6lH78 >= 837122107)) && ((S3MR2P8 >= 1249039729) && (MMHY < -1501701086)))
 {
@@ -154,7 +154,7 @@ catch (int& errorCode)
 rvGNrYG0 = wuvI79Dl75(2105628376, -1897220872, -592046424, QaaO);
 }
 }
-else if (((U2FyS6d44V == 1810241515) || (U2FyS6d44V & nLl7W17Er)) || ((MMHY >= QaaO) && (i9bTn53v == 1354940849)))
+else if (((false) || (U2FyS6d44V & nLl7W17Er)) || ((MMHY >= QaaO) && (i9bTn53v == 1354940849)))
 {
 {
 int j = 0;
@@ -198,7 +198,7 @@ int j = 1;
 do
 {
 --j;
-if (wQsK66 != -495553419)
+if (true)
 {
 JE9RN86v5W = m7N3(JE9RN86v5W, gJFK, C198vi_EX);
 }

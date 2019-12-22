@@ -81,7 +81,7 @@ if (B5HEas != -1257079472)
 {
 YB135ChaRY = Gbkh(YB135ChaRY, 1811769847);
 }
-if (((NDSC46sWc != tofefp) || (h9oj9zv >= h0TaoW71gz)) && (F8VIx))
+if (((true) || (h9oj9zv >= h0TaoW71gz)) && (F8VIx))
 {
 try
 {
@@ -123,7 +123,7 @@ PJUR_gmId = wwxaOl_zY(PJUR_gmId);
 }
 for (int i = 10; i >= 0; --i)
 {
-if (((Nf1z4Mux_V >= fX1b) && (dsABc_fwIt != E8i9s732i3)) || (V3LRK5J > E8i9s732i3))
+if (((Nf1z4Mux_V >= fX1b) && (false)) || (V3LRK5J > E8i9s732i3))
 {
 {
 int k = 9;
@@ -137,7 +137,7 @@ while (k >= 0);
 }
 }
 
-if (((Bb10O < -1803765982) || (s77_g1834 & rgUg_Ot_9D)) || (Nf1z4Mux_V >= 1968778748))
+if (((false) || (s77_g1834 & rgUg_Ot_9D)) || (Nf1z4Mux_V >= 1968778748))
 {
 YB135ChaRY = (int)ceil(jh_48zqs);
 }
@@ -201,7 +201,7 @@ NDSC46sWc = (short)(tofefp);
 }
 while (i < 5);
 }
-if ((Bb10O == 790588903) || (h9oj9zv < UyFh))
+if ((false) || (h9oj9zv < UyFh))
 {
 for (int j = 10; j >= 0; j--)
 {
@@ -247,7 +247,7 @@ catch (int& errorCode)
 O342xF = (int)floor(YB135ChaRY);
 }
 }
-else if (((b8r_F5K4 < 1546901277) || (jh_48zqs != 322916308)) || (O342xF != 511643436))
+else if (((true) || (jh_48zqs != 322916308)) || (O342xF != 511643436))
 {
 Bb10O = STD_Ow(Bb10O, dsABc_fwIt, b8r_F5K4);
 }
@@ -265,7 +265,7 @@ while (j < 9);
 }
 else if (s77_g1834 == fX1b)
 {
-if (h0TaoW71gz != -432031028)
+if (true)
 {
 switch (Nf1z4Mux_V)
 {
@@ -331,7 +331,7 @@ else
 GS_24Wiik_ = STD_Ow(GS_24Wiik_, 627767241, R5K3x_8a7I);
 }
 
-if (GS_24Wiik_ != tofefp)
+if (true)
 {
 O342xF = (int)ceil(RgBSQs5T_V);
 }
@@ -351,7 +351,7 @@ h0TaoW71gz = wwxaOl_zY(h0TaoW71gz);
 }
 std::cout << "c39qF7" << std::endl;
 
-if (GS_24Wiik_ >= E8i9s732i3)
+if (false)
 {
 std::cout << A5Av_(h0TaoW71gz, s3_3) << STD_Ow(-470239152, s3_3, -434345691) << A5Av_(h0TaoW71gz, s3_3) << s3_3 << Gbkh(146392426, s3_3) << std::endl;
 }
@@ -374,7 +374,7 @@ if (NDSC46sWc != rgUg_Ot_9D)
 {
 dsABc_fwIt = STD_Ow(1785841231, RgBSQs5T_V, -2016596335);
 }
-else if (h0TaoW71gz >= 935685280)
+else if (false)
 {
 Nf1z4Mux_V = A5Av_(340242567, nGoq);
 }
@@ -414,7 +414,7 @@ while (k >= 0);
 }
 else if (s3_3 < 430712167)
 {
-if (GS_24Wiik_ <= -1447100178)
+if (false)
 {
 GS_24Wiik_ = (int)abs(h0TaoW71gz);
 }

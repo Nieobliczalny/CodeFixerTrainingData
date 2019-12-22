@@ -345,7 +345,7 @@ if (sBV8369)
 int j = 0;
 while (j < 3)
 {
-if (D7ymK < -1860903121)
+if (false)
 {
 gJ9qYc8MR = N57t8n0R4(162019691, -1635000090);
 }
@@ -377,7 +377,7 @@ Q9z8DmM6 = (int)floor(al9gl);
 }
 }
 }
-else if (((Q9z8DmM6 == ae_t) && (Q1BwC7 > -1934337678)) && (V714b == 979298258))
+else if (((Q9z8DmM6 == ae_t) && (true)) && (V714b == 979298258))
 {
 CrEOdE = Qxjf11p % 230142272;
 }
@@ -476,7 +476,7 @@ while (j < 7);
 
 cout << ayCV1mL(-2004754763, -1108725750, 277467324, 95022696, -1617693432) << endl;
 
-if (lJJg1Av_D != -1095762322)
+if (true)
 {
 kc6Ou1vTT = (int)abs(p4SSbZ);
 }

@@ -114,7 +114,7 @@ else if ((P0GHig < 492112579) || ((X_FWT9v0 >= 1074681072) && (sRS9BlMup >= -542
 {
 ZRF4s4n = P0GHig - C7Phl1k2R;
 }
-else if (Gj4g72 != -582985006)
+else if (true)
 {
 IujmQ3Yw04 = G6H59B >> 1823688525;
 }

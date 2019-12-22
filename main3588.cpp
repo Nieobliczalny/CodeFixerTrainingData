@@ -108,7 +108,7 @@ int main(int argc, char** argv)
  unsigned long cL6M;
  cL6M = 234118569;
 
-if (Y7T9vwCYqu == M38x1l)
+if (false)
 {
 {
 int j = 0;
@@ -202,7 +202,7 @@ Q2muitI = d3_3z / haOyFcDm3;
 std::cout << kKklz5(196124762, 1194038697, 326699462) << d3_3z << std::endl;
 if ((AKDM & GmM996qJD) && (v818P24R != W2GrD4ao))
 {
-if (((y9Z_Ymzv4t == -1753124023) && (Y2xqWU38 < W2GrD4ao)) || (Q2muitI < 393903273))
+if (((y9Z_Ymzv4t == -1753124023) && (Y2xqWU38 < W2GrD4ao)) || (true))
 {
 {
 int k = 0;
@@ -240,7 +240,7 @@ if (WUrT2 >= W2GrD4ao)
 {
 WA5b40B = (int)floor(XwJc);
 }
-else if (((Y2xqWU38 == -1066920167) || (WUrT2 > 859724272)) || (d3_3z != vLZC8aI3p))
+else if (((false) || (WUrT2 > 859724272)) || (d3_3z != vLZC8aI3p))
 {
 try
 {
@@ -286,7 +286,7 @@ catch (int& errorCode)
 qvs40f = (int)abs(o6s5GjF);
 }
 }
-else if ((haOyFcDm3 < c5jU) || (yY0b5b7aI & -1842658372))
+else if ((false) || (yY0b5b7aI & -1842658372))
 {
 haOyFcDm3 = kKklz5(Y2xqWU38, 990288280, o6s5GjF);
 }
@@ -324,7 +324,7 @@ break;
 }
 }
 
-if (xMEYWkro3 <= 149589249)
+if (true)
 {
 try
 {
@@ -350,7 +350,7 @@ else if (WA5b40B < Q2muitI)
 {
 std::cout << "urDQ" << kKklz5(667354591, WUrT2, GmM996qJD) << Uucs2G7988 << "j9lYn" << std::endl;
 }
-else if (Sq41clSVY_ < 1336537891)
+else if (true)
 {
 for (int j = 3; j >= 0; --j)
 {

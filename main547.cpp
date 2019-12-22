@@ -179,7 +179,7 @@ if (ZgtKo == tb16nLpu7s)
 {
 std::cout << V4_l70BaB_(HBOc, sE9vL2, -519236754, wKT3wfi50W, iw1U) << sE9vL2 << "W_P788" << "d7iOF3v" << std::endl;
 }
-else if ((VgG9_X) || ((wQjcOX0 & gcB9Gj14T) || (dw5uE69t04 == 2082905401)))
+else if ((VgG9_X) || ((wQjcOX0 & gcB9Gj14T) || (false)))
 {
 N84_49n_ = (int)abs(dw5uE69t04);
 }

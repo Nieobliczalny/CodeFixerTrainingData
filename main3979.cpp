@@ -17,7 +17,7 @@ int main() {
     long long    vnJ8LiJuOZ    =    0,    iCvKzjbz    =    0,    v1z5XyJu    =    0,    qg6j35    =    0;
 
 std::cout << qg6j35 << "D_I36nogO" << "bxO355" << "T_pJ657Dp" << v1z5XyJu << std::endl;
-if ((F6h0RGln == kNaQ6h4) && ((M_jAj9 != 993004905) || (kOT9I9 == -1053046062)))
+if ((F6h0RGln == kNaQ6h4) && ((true) || (kOT9I9 == -1053046062)))
 {
 if (F6h0RGln >= 1338004656)
 {
@@ -30,7 +30,7 @@ else if (MEDcnD4LDv & 1173162151)
 {
 std::cout << "huHWE8l2lq" << MEDcnD4LDv << "HqNg6h51" << iCvKzjbz << pS7jBx__ << std::endl;
 }
-else if (K_pl <= 1169837)
+else if (true)
 {
 for (int k = 9; k >= 0; k--)
 {
@@ -43,7 +43,7 @@ kNaQ6h4 = (char)(kA4IER3F + (-193360012));
 }
 else
 {
-if ((M_jAj9 < sXLIfLC) || (kOT9I9 < 1827212436))
+if ((false) || (kOT9I9 < 1827212436))
 {
 kOT9I9 = p3dZd6 ^ 590982813;
 }
@@ -288,7 +288,7 @@ while (k < 4);
 }
 }
 }
-else if (f6n1 < sXLIfLC)
+else if (false)
 {
 if (f6n1 <= UHv8PH0)
 {
@@ -300,7 +300,7 @@ else if (vnJ8LiJuOZ > UHv8PH0)
 {
 ME_O88N = KgkbumeNZ << aM261;
 }
-else if ((f6n1 != sXLIfLC) && ((ri_IH > KgkbumeNZ) && (aM261 != sXLIfLC)))
+else if ((true) && ((ri_IH > KgkbumeNZ) && (aM261 != sXLIfLC)))
 {
 F6h0RGln++;
 }
@@ -312,7 +312,7 @@ else if ((f6n1 <= M_jAj9) && (f6n1 > -136470892))
 {
 qg6j35 = (int)abs(kNaQ6h4) * 0;
 }
-else if (ri_IH != gtmO6)
+else if (true)
 {
 M_jAj9 ^= 573992293;
 }
@@ -322,7 +322,7 @@ K_pl++;
 }
 }
 }
-else if (f6n1 > -1374828482)
+else if (true)
 {
 if (ME_O88N >= 318321655)
 {

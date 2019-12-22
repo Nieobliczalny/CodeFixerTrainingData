@@ -273,7 +273,7 @@ else if (GjTMQ > 751914778)
 {
 b56XX = (int)floor(gsLf);
 }
-else if ((Mv09OC8 != 775631072) || (Mp2ocV8Ny == XTunq))
+else if ((true) || (Mp2ocV8Ny == XTunq))
 {
 cpmj9O5J6 = zV7ZgBi52(-1091124595, -785483373);
 }

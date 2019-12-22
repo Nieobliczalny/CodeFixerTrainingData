@@ -157,7 +157,7 @@ while (i < 9);
 }
 Fs4w2 = 313700209 / WJsH;
 
-if ((SG3j9zB > pZ1_KH1) && ((Fs4w2 <= AzS6g) || (CFhFlpOm >= 2143112677)))
+if ((SG3j9zB > pZ1_KH1) && ((true) || (CFhFlpOm >= 2143112677)))
 {
 if (on37mIf < EYMtjn)
 {
@@ -207,7 +207,7 @@ switch (I8Xir8)
 {
 case 'a':
 case 'A':
-lUIfE = (Fs4w2 > -478809865) ? Q0_1RSQS2K : 452396380;
+lUIfE = (true) ? Q0_1RSQS2K : 452396380;
 break;
 case 'b':
 case 'B':
@@ -248,7 +248,7 @@ if ((jAZ3 < Xp1NIThA) || (bu235v & Isvdue))
 {
 pZ1_KH1 <<= i8XN8Y1f4;
 }
-else if ((WJsH >= -1188479618) && ((BxLk3xK == Xl8S5) && (tkoM0SO8 <= 1019444894)))
+else if ((WJsH >= -1188479618) && ((BxLk3xK == Xl8S5) && (true)))
 {
 Fs4w2 = (int)abs(qYugk_a6);
 }
@@ -280,7 +280,7 @@ if (((tN5Ihe1K_ == Y20nt) || (EYMtjn & R6Um)) && (me9Kf5I4))
 {
 lUIfE ^= Xk314xjdDt;
 }
-else if (S6X94 <= 912087157)
+else if (true)
 {
 for (int j = 6; j >= 0; --j)
 {
@@ -366,7 +366,7 @@ else if (((LzGTGd_u5 < i8XN8Y1f4) || (l29J_Fu8 & 177959964)) || (ZT7oEM))
 {
 zytF95X = kBP4_p7(bu235v);
 }
-else if (sM4sTV2C9T == Rz20Vg)
+else if (false)
 {
 OWD0Dzm = l29J_Fu8 ^ 728306906;
 }
@@ -378,7 +378,7 @@ else if (gKFcv3Kw3R < AzS6g)
 {
 qYugk_a6 &= me9Kf5I4;
 }
-else if (Y20nt > Rz20Vg)
+else if (false)
 {
 gKFcv3Kw3R = kBP4_p7(R31JGy);
 }
@@ -391,7 +391,7 @@ j++;
 while (j < 9);
 }
 }
-else if ((gKFcv3Kw3R >= 1522677785) && ((zg56o5 > R6Um) && (jAZ3 != or56VAM97_)))
+else if ((gKFcv3Kw3R >= 1522677785) && ((true) && (jAZ3 != or56VAM97_)))
 {
 {
 int j = 0;
@@ -452,7 +452,7 @@ int j = 0;
 while (j < 7)
 {
 ++j;
-if (Z0Xf5 > Rz20Vg)
+if (false)
 {
 or56VAM97_ %= e6SKjY42__;
 }
@@ -473,7 +473,7 @@ WJsH = kBP4_p7(68865419);
 }
 }
 }
-else if (M50Bez != -1770501940)
+else if (true)
 {
 zytF95X = kBP4_p7(-1042480279);
 }
@@ -524,7 +524,7 @@ gchnh = kBP4_p7(Xk314xjdDt);
 while (k < 1);
 }
 }
-else if ((R31JGy < BxLk3xK) && (Xk314xjdDt == Rz20Vg))
+else if ((R31JGy < BxLk3xK) && (false))
 {
 for (int k = 0; k < 5; k++)
 {
@@ -551,7 +551,7 @@ if (LzGTGd_u5 < ZT7oEM)
 {
 z171C = Xp1NIThA >> 17314192;
 }
-else if (lUIfE <= Rz20Vg)
+else if (true)
 {
 zytF95X = kBP4_p7(Xk314xjdDt);
 }
@@ -670,7 +670,7 @@ i--;
 }
 while (i >= 0);
 }
-if (((on37mIf < jAZ3) && (tlv7SQ42 > Rz20Vg)) || ((o88QrCk9 == Y20nt) || (tkoM0SO8 & 2076631225)))
+if (((on37mIf < jAZ3) && (false)) || ((o88QrCk9 == Y20nt) || (tkoM0SO8 & 2076631225)))
 {
 cout << kBP4_p7(qYugk_a6) << "MZ3_00F6" << endl;
 }

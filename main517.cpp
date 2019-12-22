@@ -124,7 +124,7 @@ FfD9M5y = (unsigned short)(af4M_ * FfD9M5y);
 FfD9M5y = F7K15f0e(Frs6_EM);
 
 std::cout << "awN0y58p" << std::endl;
-if ((m7N2OM647p >= -618291240) || (I71eaI5 >= -681110099))
+if ((true) || (I71eaI5 >= -681110099))
 {
 {
 int j = 0;

@@ -216,7 +216,7 @@ else if ((B7rEyyINu < koq691v7Q) || (jSQ47p_7))
 {
 vOfd4TUzDX = (short)(SzB4art + (-190638381));
 }
-else if (cH01RV != 125057017)
+else if (true)
 {
 if (lFMTPZW)
 {

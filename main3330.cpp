@@ -78,7 +78,7 @@ if (S9AFj_4ZK5 <= DWUc7zt5)
 {
 M5UJ_zSv = gEHXY5Cfr(-2062969627, 269967144);
 }
-else if (gT990r < 379400836)
+else if (true)
 {
 try
 {
@@ -115,7 +115,7 @@ j++;
 switch (w_u8p0Ht7x)
 {
 case 0:
-j91BnRj = (gT990r <= 1382712776) ? s77Gfgi(-1590781042, -34090165, 616943829, 1388912866) : mM1_;
+j91BnRj = (true) ? s77Gfgi(-1590781042, -34090165, 616943829, 1388912866) : mM1_;
 break;
 case 1:
 gT990r = (int)abs(M5UJ_zSv) * 0;

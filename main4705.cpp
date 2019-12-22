@@ -40,7 +40,7 @@ int main(void)
 
 C_wKUR96y = (int)floor(Ko_kdKI);
 
-if (fo6Ru0q22 >= 455915086)
+if (false)
 {
 {
 int j = 8;
@@ -51,7 +51,7 @@ std::cout << yr3MAEhW_7 << EfStn7 << std::endl;
 }
 }
 }
-else if ((FNFKW2k6 >= Ko_kdKI) || ((FNFKW2k6 & -1302136644) && (yr3MAEhW_7 >= -36137002)))
+else if ((FNFKW2k6 >= Ko_kdKI) || ((FNFKW2k6 & -1302136644) && (true)))
 {
 Ko_kdKI = (int)ceil(C_wKUR96y);
 }
@@ -80,7 +80,7 @@ fo6Ru0q22 = (char)(EfStn7 * fo6Ru0q22);
 iM7TLA = iM7TLA / fo6Ru0q22;
 if ((F8BVi <= yr3MAEhW_7) && ((C8W_3v8320 <= iM7TLA) && (iwvS <= yr3MAEhW_7)))
 {
-if (iwvS <= -848675385)
+if (false)
 {
 if ((n9NXA1Miy < -1664660286) || (yr3MAEhW_7 < JidV))
 {
@@ -113,7 +113,7 @@ else
 Ko_kdKI = (int)floor(C_wKUR96y);
 }
 }
-else if (yr3MAEhW_7 < -977596429)
+else if (false)
 {
 t1oMQn = OW6Sle93(t1oMQn);
 }

@@ -117,7 +117,7 @@ if (Dyh_K8rWl >= 1894757647)
 {
 m961DN88 -= 1410537668;
 }
-else if ((c_Rk != 1464596677) && (vuT9C_m2rq == jL5ttXrsx))
+else if ((true) && (vuT9C_m2rq == jL5ttXrsx))
 {
 if (MC58IFL <= -927970151)
 {
@@ -146,7 +146,7 @@ c_KC92 = Ueg2U_Yl >> 1805815519;
 
 try
 {
-if (((j5yWe >= 1480209960) || (Dyh_K8rWl > 1613953083)) && (W9w14pL0 != a32A_y60))
+if (((false) || (Dyh_K8rWl > 1613953083)) && (W9w14pL0 != a32A_y60))
 {
 std::cout << i2Dk9_7 << "vnOC4v" << w2_4 << rU9z__8S2_ << dim3 << std::endl;
 }
@@ -156,7 +156,7 @@ catch (int& errorCode)
 P3CK_3PD = (int)abs(D_D_ba);
 }
 
-if (dZUmMo != 380363894)
+if (true)
 {
 d2j8 = (int)abs(D_D_ba);
 }
@@ -170,7 +170,7 @@ else if (P3CK_3PD & 966028795)
 {
 j5yWe *= c_KC92;
 }
-else if (y1Xqr_FIQ > 824771332)
+else if (false)
 {
 Z67_o9 = ziw_o_ << 167651872;
 }
@@ -185,7 +185,7 @@ else
 j5yWe %= 2087001897;
 }
 }
-else if (r4QxZ9 != -980769778)
+else if (true)
 {
 czsT38X = pa95_GZrX9 & 207846689;
 }
@@ -253,7 +253,7 @@ y1Xqr_FIQ *= B2cYNL8x;
 
 for (int i = 0; i < 6; ++i)
 {
-if (Lu6r6rEYUE < -907139625)
+if (false)
 {
 if (f3KYgLl)
 {
@@ -310,7 +310,7 @@ S1yA6ni7o = A92Mi + 119880638;
 y0RGnFa05 = d2j8 ^ MfMX;
 
 Kpkjjl = (unsigned short)(qVyv42);
-if (rU9z__8S2_ == -1166812509)
+if (false)
 {
 try
 {
@@ -343,7 +343,7 @@ try
 {
 for (int j = 5; j >= 0; j--)
 {
-if ((xgp7xy <= 330942457) || (qVyv42 & -2143837681))
+if ((true) || (qVyv42 & -2143837681))
 {
 wF71qTq -= rU9z__8S2_;
 }
@@ -375,7 +375,7 @@ Dyh_K8rWl = (int)abs(P3CK_3PD);
 
 for (int i = 0; i < 8; i++)
 {
-if (Ueg2U_Yl < -1674373441)
+if (false)
 {
 if (TZe_bQX >= lXIF3)
 {
@@ -385,7 +385,7 @@ else if ((UctK4O != F98M) && (S1yA6ni7o > 191170183))
 {
 XCD8lXUBZH = wF71qTq & dZUmMo;
 }
-else if (jef0K1wUsK > 96567068)
+else if (false)
 {
 m961DN88 = f3KYgLl + O3BX;
 }
@@ -398,7 +398,7 @@ else
 rEDBkLAj -= ziw_o_;
 }
 }
-else if ((rk9T != 300060268) || (MC58IFL < rU9z__8S2_))
+else if ((true) || (MC58IFL < rU9z__8S2_))
 {
 std::cout << rk9T << std::endl;
 }
@@ -438,7 +438,7 @@ ykbuXW2S_N %= xtL5J06MY;
 break;
 }
 }
-else if (pa95_GZrX9 != 1907179809)
+else if (true)
 {
 std::cout << p1NpZ << std::endl;
 }
@@ -517,7 +517,7 @@ do
 {
 if (V1R0526 & ykbuXW2S_N)
 {
-if (a32A_y60 != 826764052)
+if (true)
 {
 P3CK_3PD = (int)abs(B2cYNL8x);
 }

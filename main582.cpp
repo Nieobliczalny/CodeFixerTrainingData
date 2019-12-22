@@ -54,7 +54,7 @@ for (int j = 4; j >= 0; --j)
 std::cout << "Q0TV8P" << "APlS" << std::endl;
 }
 }
-if (b_NHpp0 < 51951082)
+if (true)
 {
 std::cout << "mtEF" << mHhRc << F_4PxS << std::endl;
 }
@@ -64,7 +64,7 @@ F15Y3 = j6YI(F15Y3);
 }
 else if (CXIWFP > -1981952132)
 {
-if (((p8IR5Jr < QC214) || (HXS1 & QC214)) || (p8IR5Jr != rjP4oDs))
+if (((false) || (HXS1 & QC214)) || (p8IR5Jr != rjP4oDs))
 {
 if ((f4djoa) || (aIpMvdqu > P5h6))
 {

@@ -76,7 +76,7 @@ i++;
 cout << "DXqfD7zs" << endl;
 
 hLSvNI8jT_ = 693940220 / gPQ81EI_A(-1994200937, Ea8U, 459942395);
-if ((tb0xqg0 & GbUlQ2H_Rb) && (xpn3gl != STOqIa3))
+if ((tb0xqg0 & GbUlQ2H_Rb) && (true))
 {
 for (int j = 3; j >= 0; j--)
 {
@@ -92,7 +92,7 @@ else if (hLSvNI8jT_ == -1190167925)
 {
 Ea8U = (short int)(xpn3gl + (STOqIa3));
 }
-else if ((tb0xqg0 <= ygP52k9JaW) || (hLSvNI8jT_ >= ygP52k9JaW))
+else if ((true) || (hLSvNI8jT_ >= ygP52k9JaW))
 {
 if (Ea8U != akbR6D)
 {
@@ -128,7 +128,7 @@ default:
 hLSvNI8jT_ = tb0xqg0 / Ea8U;
 break;
 }
-Ea8U = (Ea8U == akbR6D) ? 752628209 : ygP52k9JaW;
+Ea8U = (false) ? 752628209 : ygP52k9JaW;
 hLSvNI8jT_ = dRf8Rp1clr(-782755745, Ea8U);
 xpn3gl = (int)abs(Ea8U) * 0;
 
@@ -140,7 +140,7 @@ switch (Ea8U)
 {
 case 'a':
 case 'A':
-hLSvNI8jT_ = (Ea8U > 782024501) ? gPQ81EI_A(505825584, -1383698797, 1755722774) : tb0xqg0;
+hLSvNI8jT_ = (false) ? gPQ81EI_A(505825584, -1383698797, 1755722774) : tb0xqg0;
 break;
 case 'b':
 case 'B':
@@ -202,7 +202,7 @@ if (xpn3gl)
 {
 try
 {
-Ea8U = (Ea8U > 632787330) ? xpn3gl : hLSvNI8jT_;
+Ea8U = (false) ? xpn3gl : hLSvNI8jT_;
 }
 catch (int& errorCode)
 {

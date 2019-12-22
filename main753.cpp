@@ -460,7 +460,7 @@ vaH_vbMDsf = (int)ceil(E_tZs);
 break;
 }
 }
-else if (WDwl871IdO != -1522107729)
+else if (true)
 {
 jvv4U_db = (int)abs(G2k5N);
 }

@@ -109,7 +109,7 @@ do
 ++i;
 try
 {
-if (I_wfBW < -346536384)
+if (false)
 {
 n6Q54lcmz = (int)floor(cah511);
 }
@@ -241,7 +241,7 @@ if ((W142 == -1265351784) && (y1Sd <= -343458524))
 {
 std::cout << y1Sd << std::endl;
 }
-else if ((R77J7tpH5 > -1106087429) || (cIzcSN & T5h6))
+else if ((true) || (cIzcSN & T5h6))
 {
 EC7r4j = (int)abs(hEXTT5qcW);
 }
@@ -344,7 +344,7 @@ catch (int& errorCode)
 y1Sd--;
 }
 
-if (((Uw8g <= 62463686) && (UXqX608m43 == RCOpA)) || (k515 <= 1314471551))
+if (((Uw8g <= 62463686) && (UXqX608m43 == RCOpA)) || (true))
 {
 if (jYsXen3C & 536976951)
 {
@@ -355,7 +355,7 @@ else if (T5h6 < -1540503665)
 {
 W142 = Lp1B5() >> 118787168;
 }
-else if (V_Iv < -1369709096)
+else if (false)
 {
 Uw8g = n67k0RiH(-874700621, RCOpA, -1232601118, VqAA);
 }

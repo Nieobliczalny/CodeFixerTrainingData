@@ -83,7 +83,7 @@ break;
 }
 while (i < 3);
 }
-if (QgVOa_7ACt == 1135328539)
+if (false)
 {
 if (xXTGc <= -1236143663)
 {
@@ -96,7 +96,7 @@ else
 aDQTK5 = cWs359f();
 }
 }
-else if ((Lwdp0JDZk < 1736219975) || (HkO42 <= r0p8W6))
+else if ((true) || (HkO42 <= r0p8W6))
 {
 {
 int k = 3;
@@ -122,7 +122,7 @@ D66zlDC1 = cWs359f();
 }
 }
 }
-else if ((xf7l4 != 1575585024) && ((z_9mg < GHpmO94) && (X3z8f0gV)))
+else if ((true) && ((z_9mg < GHpmO94) && (X3z8f0gV)))
 {
 z_9mg += Tazm9PpA;
 }
@@ -142,7 +142,7 @@ else
 {
 for (int j = 2; j >= 0; --j)
 {
-if (((O0a7cYYz < o8r939xm) || (xXTGc != 76548971)) && (xXTGc < 1052163404))
+if (((O0a7cYYz < o8r939xm) || (true)) && (xXTGc < 1052163404))
 {
 aDQTK5 = cWs359f();
 }
@@ -165,7 +165,7 @@ do
 {
 for (int j = 0; j < 10; ++j)
 {
-if ((r0p8W6 >= -702338373) || (xf7l4 < -918180568))
+if ((true) || (xf7l4 < -918180568))
 {
 xf7l4 += O0a7cYYz;
 }
@@ -177,7 +177,7 @@ else if ((o8r939xm) || ((QgVOa_7ACt <= -911520764) && (cSOrzw > QgVOa_7ACt)))
 {
 Jq_pbMC &= zOj66;
 }
-else if (x_zjNj3oh > -17976444)
+else if (true)
 {
 D66zlDC1 = cWs359f();
 }
@@ -213,7 +213,7 @@ int j = 0;
 while (j < 2)
 {
 j++;
-if (x_zjNj3oh == 365550899)
+if (false)
 {
 Lwdp0JDZk = cWs359f() * s67_a52;
 }
@@ -224,7 +224,7 @@ z63H1c++;
 }
 }
 }
-else if (X3z8f0gV != -718656702)
+else if (true)
 {
 Y3IbWk = cWs359f() % r0p8W6;
 }
@@ -264,7 +264,7 @@ D66zlDC1 = cWs359f();
 while (k >= 0);
 }
 }
-else if ((zOj66 > -419257603) && (z63H1c))
+else if ((true) && (z63H1c))
 {
 {
 int k = 0;
@@ -276,7 +276,7 @@ k++;
 while (k < 9);
 }
 }
-else if ((n7429_qW08 < RCJZ0_1z) || ((rN54Et < Y3IbWk) && (oxHISC5_x != -378828092)))
+else if ((n7429_qW08 < RCJZ0_1z) || ((rN54Et < Y3IbWk) && (true)))
 {
 switch (rN54Et)
 {
@@ -326,7 +326,7 @@ else if (HkO42 < Lwdp0JDZk)
 {
 K__d = (unsigned short int)(n7429_qW08);
 }
-else if ((aDQTK5) && ((e114s4Y <= 400395259) && (rN54Et >= 260197833)))
+else if ((aDQTK5) && ((true) && (rN54Et >= 260197833)))
 {
 D66zlDC1 = cWs359f();
 }
@@ -343,7 +343,7 @@ Jq_pbMC <<= Tazm9PpA;
 }
 }
 
-if (X3z8f0gV <= -655894396)
+if (false)
 {
 cSOrzw = (unsigned short int)(RCJZ0_1z);
 }

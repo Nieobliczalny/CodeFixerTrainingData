@@ -204,7 +204,7 @@ int i = 0;
 do
 {
 ++i;
-if (((f6RBzlD < UzNVW0) || (DE9xl6KqJ)) && ((iVJu < HAA14) || (Mrh2Qhc8 != 2050587248)))
+if (((true) || (DE9xl6KqJ)) && ((iVJu < HAA14) || (Mrh2Qhc8 != 2050587248)))
 {
 if ((f6RBzlD > ILz3N7777) || (f6RBzlD))
 {
@@ -234,7 +234,7 @@ while (i >= 0);
 Mrh2Qhc8 = (int)abs(HAA14);
 iVJu -= Mrh2Qhc8;
 
-if (f6RBzlD <= 20710409)
+if (true)
 {
 if (DE9xl6KqJ < iVJu)
 {
@@ -258,7 +258,7 @@ if (EtQIz5ye4A <= f6RBzlD)
 {
 iVJu = da_F_wy(iVJu, Mrh2Qhc8, f6RBzlD, 1899403300);
 }
-else if ((ILz3N7777) && (ILz3N7777 >= UzNVW0))
+else if ((ILz3N7777) && (false))
 {
 DE9xl6KqJ = da_F_wy(HAA14, -1436876518, -1909024892, 1160446270);
 }

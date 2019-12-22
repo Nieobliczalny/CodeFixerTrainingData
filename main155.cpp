@@ -141,7 +141,7 @@ k--;
 while (k >= 0);
 }
 }
-else if (P7sX7sGYh >= 1459123650)
+else if (false)
 {
 if (K74V4x < PVn4mu0)
 {
@@ -415,7 +415,7 @@ default:
 Y4TRoIQ = OvSyD(-1050357136, -1718703214, ghad2tzc);
 break;
 }
-if (a_NUbZ == H2Q7oDLa)
+if (false)
 {
 vUqj4 = (long long)(H2Q7oDLa);
 }

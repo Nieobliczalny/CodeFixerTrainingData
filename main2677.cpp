@@ -137,7 +137,7 @@ case 7:
 Nyik = G_VH80(-1859164008, d9jDNG7b6);
 break;
 case 8:
-U1kn_ = (Fva___n < 592179594) ? -827323573 : -713978046;
+U1kn_ = (true) ? -827323573 : -713978046;
 break;
 case 9:
 Ae5Rd1--;

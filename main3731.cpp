@@ -34,7 +34,7 @@ int main(void) {
  char ZXPpLk = 0;
 
 std::cout << dVdIQMcU_(f6Bn9mvULK) << "r_wg1" << ZXPpLk << sAgWWbS7C << HLm86Q05c(f6Bn9mvULK, 1707915304) << std::endl;
-if ((FqkCvm != e9tdi5l5_) || (sAgWWbS7C == lR1nu))
+if ((FqkCvm != e9tdi5l5_) || (false))
 {
 try
 {
@@ -100,7 +100,7 @@ j--;
 while (j >= 0);
 }
 }
-else if (FqkCvm >= A68932)
+else if (true)
 {
 if (ZXPpLk == FqkCvm)
 {
@@ -123,7 +123,7 @@ else if (C_OU5WR)
 {
 FqkCvm = HLm86Q05c(x2NrQ, -677903623) + 32876617;
 }
-else if (sAgWWbS7C >= 2086396950)
+else if (false)
 {
 f6Bn9mvULK = dVdIQMcU_(941843476);
 }

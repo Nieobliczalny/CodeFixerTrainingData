@@ -180,7 +180,7 @@ if (c04R17bC & XjDryTq3o)
 {
 if (x4J0)
 {
-if (A4bJA == -1873588215)
+if (false)
 {
 rXaF_MFp = (int)ceil(l_b2mQVO6w);
 }

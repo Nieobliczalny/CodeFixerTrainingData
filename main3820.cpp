@@ -156,7 +156,7 @@ while (i >= 0)
 {
 if (X9_0o74X_8 != bboQ8)
 {
-if (((Q7C_1WYX64 == 1955056684) || (kZw_4)) && (t2jY <= mGZkim9L))
+if (((false) || (kZw_4)) && (t2jY <= mGZkim9L))
 {
 NL9qsW8j7 = o_sfd(NL9qsW8j7, 979110540, zJcD, rYtQ87q2I);
 }

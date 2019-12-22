@@ -227,7 +227,7 @@ DO93++;
 }
 else
 {
-if (((Ug0j_qt > dUN5) && (jt1igsi != kzaZ26)) && (F718WVE >= 315338770))
+if (((Ug0j_qt > dUN5) && (jt1igsi != kzaZ26)) && (false))
 {
 switch (GNuus_3)
 {
@@ -362,7 +362,7 @@ E_XfH = Bm5vdmU << I8jHOp3a;
 break;
 }
 }
-else if ((F718WVE == Lx1KLy) && ((Ug0j_qt < w__6R3h_D9) || (Te0A <= -1938635381)))
+else if ((false) && ((Ug0j_qt < w__6R3h_D9) || (Te0A <= -1938635381)))
 {
 {
 int j = 9;

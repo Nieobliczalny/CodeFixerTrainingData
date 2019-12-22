@@ -188,7 +188,7 @@ break;
 }
 }
 
-if (HuqbEn8w8R >= Yd_X2EOu)
+if (true)
 {
 if (Gbg5XS >= r_55bns02)
 {

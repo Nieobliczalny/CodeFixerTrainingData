@@ -21,7 +21,7 @@ int main(void)
     unsigned long long    FxAI1n    =    0,    zR6_qb    =    0,    N0gMaP    =    0,    E_eKUzws8F    =    0,    V7656    =    0;
 
 tlaG2Nq7s = (short int)(V7656 + (-1657069248));
-if ((uS3G7 != 972353300) && (T58C11EQv8 == prl7j7))
+if ((true) && (T58C11EQv8 == prl7j7))
 {
 {
 int j = 0;
@@ -33,7 +33,7 @@ tlaG2Nq7s = Jj794 ^ BHv11E;
 while (j < 8);
 }
 }
-else if (Lyjsm > -2062782076)
+else if (true)
 {
 {
 int j = 0;
@@ -44,7 +44,7 @@ cout << "C7tP6" << "NR1H6hO24" << p0Od9 << endl;
 }
 }
 }
-else if ((SIn4 < -1528393670) || (tlaG2Nq7s))
+else if ((false) || (tlaG2Nq7s))
 {
 try
 {

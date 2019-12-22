@@ -118,7 +118,7 @@ int j = 0;
 do
 {
 j++;
-if (b4d_0 < -190560740)
+if (false)
 {
 TPPvH = (int)abs(y_Qei);
 }
@@ -248,7 +248,7 @@ while (k < 3);
 }
 }
 }
-else if (ETxMM_qF > 1715379069)
+else if (false)
 {
 WbX4Ia_ = ta962(2050383770, -1601532427);
 }
@@ -274,7 +274,7 @@ else if (S73y8_Fz)
 {
 y_Qei = kA0j02(y_Qei);
 }
-else if (g1WfmEl < -1206523926)
+else if (false)
 {
 H0p4jD = PqzPi8(H0p4jD, To43O, 1624490527, 247340719, 691342930);
 }

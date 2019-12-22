@@ -118,7 +118,7 @@ Z_c46v = -108122792 / Qr_m5G(FQ6G);
 int i = 9;
 while (i >= 0)
 {
-if ((NcmaQih5h == -1461509502) || (CIL21 > 1385882057))
+if ((NcmaQih5h == -1461509502) || (false))
 {
 if (mOYO > 348683168)
 {
@@ -152,7 +152,7 @@ NcmaQih5h = (unsigned long long)(mOYO);
 while (i < 7);
 }
 
-if ((NcmaQih5h != bcA96II) || (CIL21 < -289556275))
+if ((NcmaQih5h != bcA96II) || (false))
 {
 std::cout << "Ladn" << std::endl;
 }
@@ -178,7 +178,7 @@ CIL21 = (int)abs(nrPh) * 0;
 break;
 }
 }
-else if (((NcmaQih5h == Z_c46v) && (bRX9Qn <= 1375951596)) || (CIL21 < -534544254))
+else if (((NcmaQih5h == Z_c46v) && (bRX9Qn <= 1375951596)) || (false))
 {
 bcA96II = Qr_m5G(nrPh);
 }
@@ -208,7 +208,7 @@ for (int i = 0; i < 6; ++i)
 {
 QwrA = (FQ6G <= 1741898700) ? bRX9Qn : -1476776098;
 }
-if (CIL21 >= -783717933)
+if (true)
 {
 if (NcmaQih5h <= FQ6G)
 {
@@ -314,7 +314,7 @@ else if (FQ6G)
 {
 mOYO = xaEwR944_K(-925678128, -261438166);
 }
-else if (nrPh == -1137456487)
+else if (false)
 {
 std::cout << bRX9Qn << "F25x" << std::endl;
 }

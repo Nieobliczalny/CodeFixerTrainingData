@@ -121,7 +121,7 @@ qjEoKvlvP = q2vr >> 399793332;
 }
 try
 {
-if (V_m6q == gXiEoX6)
+if (false)
 {
 V_m6q |= JD66;
 }
@@ -186,7 +186,7 @@ else
 VN3x46U36--;
 }
 }
-else if (IxX6Z1lgOp >= 1973248770)
+else if (false)
 {
 switch (UXvl)
 {

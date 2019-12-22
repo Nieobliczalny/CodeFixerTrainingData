@@ -87,7 +87,7 @@ else if ((e8_HeD1j3t == 988524771) && ((g035JXqp >= ItT51As) && (QoWdF_6nB6 & 22
 {
 hfj_rzk314 = gdPHJ66(937474212, e8_HeD1j3t, -1784171526, -130501581, ItT51As);
 }
-else if (hfj_rzk314 <= 1915388849)
+else if (true)
 {
 hfj_rzk314 = (int)abs(QoWdF_6nB6);
 }
@@ -129,7 +129,7 @@ else if (QoWdF_6nB6 >= -478149752)
 {
 std::cout << hfj_rzk314 << gdPHJ66(e8_HeD1j3t, QoWdF_6nB6, ItT51As, hfj_rzk314, 919372423) << gdPHJ66(e8_HeD1j3t, 1406794553, -1532449977, 1792768379, -1188911232) << std::endl;
 }
-else if (hfj_rzk314 == 1320771232)
+else if (false)
 {
 try
 {
@@ -186,7 +186,7 @@ g035JXqp = (int)abs(ItT51As);
 }
 ItT51As = gdPHJ66(ItT51As, hfj_rzk314, -311737108, e8_HeD1j3t, -1243430637);
 QoWdF_6nB6 = gdPHJ66(QoWdF_6nB6, g035JXqp, -2035533305, -1487412076, -1718255547);
-if (((QoWdF_6nB6 & -695590613) || (hfj_rzk314 > -1679434712)) || (e8_HeD1j3t < 1893408837))
+if (((QoWdF_6nB6 & -695590613) || (true)) || (e8_HeD1j3t < 1893408837))
 {
 std::cout << hfj_rzk314 << "l64i6d" << std::endl;
 }

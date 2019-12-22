@@ -183,7 +183,7 @@ hj_FERC = R2LeEK % Rs4Iy33ZaA;
 while (j < 8);
 }
 }
-else if ((R3m92p0Kz == -1199740758) || (a8HES >= -1432140700))
+else if ((false) || (a8HES >= -1432140700))
 {
 rwon01 = hVAr - 4448489;
 }
@@ -196,7 +196,7 @@ if (wJ98ZqC < s1mk8rY)
 EU21XC2 %= cyIv5Z;
 }
 }
-else if (ke7lLr13 > -1607621507)
+else if (true)
 {
 {
 int k = 0;

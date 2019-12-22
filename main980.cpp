@@ -30,7 +30,7 @@ VDlbQYB = (char)(Hmi06Y5 + (192646668));
 }
 else
 {
-if (bhHa >= -1151442266)
+if (true)
 {
 R_tb = PvHHme9();
 }
@@ -86,7 +86,7 @@ break;
 
 std::cout << VDlbQYB << b695iE(-903489736, 1632864130, -12831635, bhHa) << "kbd0A9I" << std::endl;
 
-if (bhHa <= 1509958356)
+if (true)
 {
 {
 int j = 6;

@@ -153,7 +153,7 @@ int main(int argc, char** argv) {
 
 if (wozf >= f096gSjQ_)
 {
-if (qmnSy == -639574296)
+if (false)
 {
 switch (rUmR)
 {
@@ -277,7 +277,7 @@ yAnu9bvb %= Dl_HtmQ4;
 break;
 }
 }
-if (rUmR > -456705954)
+if (true)
 {
 if (((f11Z8Jp >= pN_B_qYpM) && (IAkUf9_ & -251811865)) && (zHGgk9 > Fp9U))
 {
@@ -301,7 +301,7 @@ for (int i = 0; i < 9; ++i)
 {
 yD7H7WP = M03jt(Dl_HtmQ4, 730678927);
 }
-if ((wpi0OU2XH4 & pN_B_qYpM) || (yyHITsAup_ < 742592598))
+if ((wpi0OU2XH4 & pN_B_qYpM) || (true))
 {
 if (H6c_Wz == pN_B_qYpM)
 {
@@ -316,7 +316,7 @@ k++;
 }
 }
 
-if (YHXK79 > 990150698)
+if (false)
 {
 {
 int j = 0;
@@ -399,7 +399,7 @@ if (rKc4 >= tt6uh)
 {
 try
 {
-if (((IAkUf9_ < kv3ftD_vv) && (zHGgk9 > -3241353)) && (yD7H7WP != -1264722863))
+if (((IAkUf9_ < kv3ftD_vv) && (true)) && (yD7H7WP != -1264722863))
 {
 V7NTTV = (int)abs(VK3O8);
 }
@@ -479,7 +479,7 @@ for (int j = 0; j < 1; ++j)
 KUdV80py = Y77YsCT2E4(KUdV80py);
 }
 }
-else if (Q6tr <= 763928874)
+else if (true)
 {
 {
 int j = 8;

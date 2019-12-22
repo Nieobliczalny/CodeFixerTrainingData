@@ -142,7 +142,7 @@ try
 {
 if (FCgt4jXAB3 <= P_0u)
 {
-if (nr6SpwI == -203534361)
+if (false)
 {
 P_0u = DU69d6yf6(P_0u, -1626714430);
 }

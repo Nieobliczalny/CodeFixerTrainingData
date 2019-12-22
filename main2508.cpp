@@ -252,7 +252,7 @@ h81EnD0_ = (phl1797) ? W_9Eoj4n : A5O0ph99;
 
 vA0y = (double)(v_3a);
 
-if (s5i6Sx == -735538025)
+if (false)
 {
 std::cout << DCn5S() << std::endl;
 }
@@ -295,7 +295,7 @@ int j = 8;
 while (j >= 0)
 {
 --j;
-if ((A67Gf < q3pi1J) && (mr45NJ93 == -1629707825))
+if ((A67Gf < q3pi1J) && (false))
 {
 Kg69WYXO5 = (int)ceil(y_anq1j3);
 }
@@ -330,7 +330,7 @@ else
 {
 if ((I8QT_p <= b09E0X0V4) || (YTY_8Es763 < -1664960707))
 {
-if (W4OcBBiV > 1830602561)
+if (false)
 {
 vA0y = (int)ceil(M05OAV_nQp);
 }
@@ -351,7 +351,7 @@ else
 rY68_0l = rn1HXuZB ^ JOPyeoR1o;
 }
 }
-else if (POlOg9v7wQ != -1840327516)
+else if (true)
 {
 Kg69WYXO5 *= Glj77E;
 }

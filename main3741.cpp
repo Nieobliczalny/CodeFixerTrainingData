@@ -35,7 +35,7 @@ case 'D':
 Dv7sx = j6q6j << 982325129;
 break;
 }
-if (gqsNI3w <= -865652397)
+if (false)
 {
 std::cout << kFi2bDW2 << ncOAo2 << "v7r6nxHt74" << C1o7 << JxHdb << std::endl;
 }
@@ -47,7 +47,7 @@ QZbDVDa_MY -= qTkivf;
 zAjUM = (short int)(xI55NDRvn);
 std::cout << qTkivf / hhV021_Q << std::endl;
 
-if (W47f3Z <= 1307890466)
+if (true)
 {
 iUhG4V22V7 = (short int)(H64P7u2yGJ);
 }
@@ -64,7 +64,7 @@ std::cout << dY86DKC << "iP8ce6" << "h96pj_N9" << std::endl;
 int i = 5;
 while (i >= 0)
 {
-if (MB0x894o1 != -2046472553)
+if (true)
 {
 Q42_B = zr262 >> xSbV_ub38_;
 }
@@ -76,7 +76,7 @@ i--;
 }
 }
 
-if (l6cCMpeW < -1319770076)
+if (false)
 {
 r4fT7Y--;
 }
@@ -147,7 +147,7 @@ D7VKe += 1528238214;
 int i = 9;
 do
 {
-if (((ncOAo2 & 701910064) && (mEt19na_c7 > bmBO4p)) || (x6qrZNlI2t == 978098223))
+if (((ncOAo2 & 701910064) && (mEt19na_c7 > bmBO4p)) || (false))
 {
 {
 int k = 0;
@@ -165,7 +165,7 @@ while (i >= 0);
 
 for (int i = 0; i < 4; ++i)
 {
-if ((z2iFekrq == 646028666) && (ETLVl6zS91))
+if ((false) && (ETLVl6zS91))
 {
 if (x6qrZNlI2t >= 364758134)
 {
@@ -179,7 +179,7 @@ else if (tW5Aa_ & iUhG4V22V7)
 {
 iUhG4V22V7 = QiYsO0RdB - 830709490;
 }
-else if ((zr262 == 1055810932) || (dY86DKC & 933177605))
+else if ((false) || (dY86DKC & 933177605))
 {
 U248K2 = jR2A | Bw3EAL;
 }
@@ -199,7 +199,7 @@ catch (int& errorCode)
 y603VGfOdy ^= U248K2;
 }
 }
-else if (QZbDVDa_MY > 1537345613)
+else if (false)
 {
 std::cout << n1C5 << VQuH2i67 << std::endl;
 }

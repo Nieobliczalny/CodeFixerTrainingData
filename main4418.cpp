@@ -113,7 +113,7 @@ case 0:
 WrTH /= 115721527;
 break;
 case 1:
-oe5cuIT = (vsle2pnnu < -1009576069) ? XeJ2 : CED3n3;
+oe5cuIT = (false) ? XeJ2 : CED3n3;
 break;
 case 2:
 FYvz |= 1179410987;
@@ -137,7 +137,7 @@ case 8:
 O28kvlPl /= 29245499;
 break;
 }
-if (IxDl_k <= 1564898575)
+if (true)
 {
 switch (cP2dfg5r)
 {
@@ -188,7 +188,7 @@ GK7X = (unsigned char)(Y3PyT4_RkO);
 }
 while (i < 8);
 }
-if (((yn_wY != 867188571) || (wt3_8i & k_HIpN)) && ((vnXy9v_0jS < -822060290) && (hnT5U8Zcyy > 96107287)))
+if (((true) || (wt3_8i & k_HIpN)) && ((vnXy9v_0jS < -822060290) && (hnT5U8Zcyy > 96107287)))
 {
 if (S_82Vv != 1143046343)
 {
@@ -221,7 +221,7 @@ if (izgLvyC4R == zYr853jFd)
 {
 BaaZcTtq6 = Y524El / o1_uDHYNe;
 }
-else if ((Bz81BUm <= 1255212031) || (YtbDUZ))
+else if ((true) || (YtbDUZ))
 {
 K6sHUxU -= 248759081;
 }
@@ -288,7 +288,7 @@ std::cout << "VCkZ" << std::endl;
 fNv70 ^= 159092987;
 
 std::cout << s7Gn << orWwN << hnT5U8Zcyy << "IB79" << std::endl;
-if (k_HIpN == -757964280)
+if (false)
 {
 {
 int j = 0;

@@ -47,7 +47,7 @@ for (int i = 0; i < 9; i++)
 {
 if (Z102uvaWC > 1061393024)
 {
-if (CryYE >= W30z)
+if (true)
 {
 m15Q = (int)floor(Ig62pMK);
 }

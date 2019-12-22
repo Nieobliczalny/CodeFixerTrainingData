@@ -191,7 +191,7 @@ OA39_9c = Unx_();
 }
 }
 
-if ((Mmfg <= -355429592) && (JtkIupg != hx__N))
+if ((false) && (JtkIupg != hx__N))
 {
 aVGfF |= 802481343;
 }
@@ -210,7 +210,7 @@ else
 sfiMbDO = (int)abs(FNQ4u26);
 }
 
-if (RKntc < -1350220133)
+if (false)
 {
 juCO = (long double)(rV_apVTU3c + (1081065827));
 }
@@ -241,7 +241,7 @@ else
 {
 Mmfg = (char)(Ec7U);
 }
-if (((A2l61pz == 111012581) && (NQ2qJ7 > -1952111865)) && ((s8nX50 != -1941465026) || (hSSK == 1254789776)))
+if (((false) && (NQ2qJ7 > -1952111865)) && ((s8nX50 != -1941465026) || (hSSK == 1254789776)))
 {
 NQ2qJ7 = (unsigned short)(ECd5kIw);
 }
@@ -308,7 +308,7 @@ try
 int j = 8;
 while (j >= 0)
 {
-if (vEh2 >= hx__N)
+if (true)
 {
 X_P6 = (s8nX50 >= hx__N) ? OA39_9c : X_P6;
 }
@@ -417,7 +417,7 @@ wsV64aY = Unx_();
 int i = 9;
 do
 {
-if (d4tO5tf0V < -1269834195)
+if (false)
 {
 try
 {
@@ -433,7 +433,7 @@ vEh2 = erPrh_j1(-93239205);
 while (i >= 0);
 }
 
-if (NQ2qJ7 <= -319328338)
+if (false)
 {
 for (int j = 0; j < 8; ++j)
 {
@@ -515,7 +515,7 @@ case 7:
 qa6irnxt = m9Ep24W_(qa6irnxt, o4s025, 828608613, vEh2);
 break;
 case 8:
-eVb_9rE52S = (vEh2 < 261733875) ? 2117438308 : mJb0;
+eVb_9rE52S = (true) ? 2117438308 : mJb0;
 break;
 default:
 e2n7WV5vA &= Mmfg;

@@ -26,7 +26,7 @@ std::cout << "tTl4W5eU9" << "k_3B2x" << "ijwi" << L4i2(e28215, -1245756373, S6R_
 
 Hy1t = -565111843 / W_x05Ms5;
 
-if (D8TF1k0 != 2059313061)
+if (true)
 {
 FTMU494 = fpk31h * Kyy_J;
 }
@@ -76,7 +76,7 @@ catch (int& errorCode)
 u9_fKGo9e9--;
 }
 
-if (((D9mB_ <= sc951kM) && (Hy1t)) || ((V6VgwDV < -1965886926) || (Nyb52U5zZ > 119829012)))
+if (((D9mB_ <= sc951kM) && (Hy1t)) || ((false) || (Nyb52U5zZ > 119829012)))
 {
 if (zLf2z & GEEUZ6_Na)
 {
@@ -90,7 +90,7 @@ if (CAe2qGD06A)
 {
 fI76G8A8 = TtjC90(-1712324560);
 }
-else if (CAe2qGD06A >= 1129519331)
+else if (false)
 {
 {
 int k = 7;
@@ -102,7 +102,7 @@ V6VgwDV = CAe2qGD06A ^ XK6O4P4P7;
 while (k >= 0);
 }
 }
-else if ((XK6O4P4P7) && (sc951kM <= -1191083871))
+else if ((XK6O4P4P7) && (false))
 {
 try
 {
@@ -113,7 +113,7 @@ catch (int& errorCode)
 u9_fKGo9e9 = L4i2(115761609, -450225290, -1897767251, D9mB_, -1476097249);
 }
 }
-else if (((Nyb52U5zZ > 1421699326) || (Nyb52U5zZ != 1968698675)) && ((D54M_I7sRT & 1405215143) && (Hy1t)))
+else if (((false) || (Nyb52U5zZ != 1968698675)) && ((D54M_I7sRT & 1405215143) && (Hy1t)))
 {
 switch (vQLDH)
 {
@@ -130,7 +130,7 @@ break;
 }
 else
 {
-if ((S6R_2Lipx > 1818171852) && (JYR4_leM <= sc951kM))
+if ((false) && (JYR4_leM <= sc951kM))
 {
 Hy1t <<= 1485446194;
 }
@@ -168,7 +168,7 @@ case 'e':
 D8TF1k0 = TtjC90(CAe2qGD06A);
 break;
 case 'f':
-vQLDH = (Hy1t >= -1155063378) ? V6VgwDV : -1986054880;
+vQLDH = (true) ? V6VgwDV : -1986054880;
 break;
 case 'g':
 Nyb52U5zZ = TtjC90(15704087);
@@ -181,7 +181,7 @@ fI76G8A8 = TtjC90(-1484632811);
 break;
 }
 }
-else if (((egY1R <= 354740753) || (FTMU494 <= -329649858)) && (Kyy_J < -1086316911))
+else if (((true) || (FTMU494 <= -329649858)) && (Kyy_J < -1086316911))
 {
 switch (Nyb52U5zZ)
 {
@@ -253,7 +253,7 @@ fpk31h = L4i2(W_x05Ms5, XK6O4P4P7, D8TF1k0, CAe2qGD06A, zLf2z) << 2137151958;
 break;
 }
 }
-else if ((D9mB_ != 779296752) || ((Nyb52U5zZ > 724377907) || (zLf2z <= -1312738208)))
+else if ((true) || ((Nyb52U5zZ > 724377907) || (zLf2z <= -1312738208)))
 {
 D54M_I7sRT = L4i2(D8TF1k0, -1302521661, CAe2qGD06A, fI76G8A8, 695184684);
 }

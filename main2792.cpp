@@ -61,7 +61,7 @@ case 'B':
 ZYF9IjGRq6 = FW_08 / FW_08;
 break;
 default:
-FW_08 = (TS090dDd > mKGmrx) ? IN8xfv10Tl(ARrrY1_, 1812197746) : mKGmrx;
+FW_08 = (false) ? IN8xfv10Tl(ARrrY1_, 1812197746) : mKGmrx;
 break;
 }
 
@@ -146,7 +146,7 @@ i++;
 
 oys3X80 = (int)abs(uqCLsz72v) * 0;
 
-if (TS090dDd == -1806051412)
+if (false)
 {
 switch (j772rGo)
 {
@@ -186,7 +186,7 @@ else if (oys3X80 <= TVs0Y2)
 {
 oys3X80 = mgm3();
 }
-else if (((qbZA & -457490643) || (j772rGo >= mKGmrx)) && (qbZA & TS090dDd))
+else if (((qbZA & -457490643) || (false)) && (qbZA & TS090dDd))
 {
 {
 int j = 6;
@@ -261,7 +261,7 @@ TS090dDd = (ZYF9IjGRq6 & mKGmrx) ? -1379655139 : -2006345919;
 
 for (int i = 10; i >= 0; --i)
 {
-if (oys3X80 <= -1339530031)
+if (false)
 {
 j772rGo *= FW_08;
 }
@@ -321,7 +321,7 @@ std::cout << HV87L61(-1597829562) << HV87L61(ZYF9IjGRq6) << std::endl;
 }
 }
 
-if (j772rGo > 99732326)
+if (false)
 {
 std::cout << oys3X80 << std::endl;
 }
@@ -347,7 +347,7 @@ else if (TVs0Y2 != -1356897127)
 {
 FW_08 = v8RE87c_cZ(FW_08);
 }
-else if (TS090dDd > mKGmrx)
+else if (false)
 {
 TVs0Y2 = (int)ceil(ARrrY1_);
 }

@@ -189,7 +189,7 @@ break;
 std::cout << "Ma4_a5x" << std::endl;
 
 W2FP0J65t = (long double)(ZtrOt7gF9a + (-387172049));
-if (bjbj9 == -1488053134)
+if (false)
 {
 if (MCJ54fvN5 > -445197624)
 {
@@ -201,7 +201,7 @@ if (W2FP0J65t > m_Lg6)
 {
 M18n = H67RSyKB9C(1014973797);
 }
-else if ((mr_R & 1859512955) && ((IwVeF > 951601592) || (PfZogW87Y == -1744218512)))
+else if ((mr_R & 1859512955) && ((IwVeF > 951601592) || (false)))
 {
 m4PR = H67RSyKB9C(m4PR);
 }
@@ -353,7 +353,7 @@ j++;
 }
 }
 
-if (Fb5qvg >= 1527143730)
+if (false)
 {
 {
 int j = 0;

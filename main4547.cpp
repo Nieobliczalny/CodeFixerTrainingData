@@ -114,7 +114,7 @@ catch (int& errorCode)
 Hj8nzf7lhI = (int)ceil(Si_i3B);
 }
 
-if (GZluSxQ7O < -1829017473)
+if (false)
 {
 {
 int j = 10;
@@ -126,7 +126,7 @@ iHBmvCKApS = (unsigned char)(LHbHu1Djj);
 }
 }
 
-if (Lpl4 <= 128241318)
+if (true)
 {
 std::cout << "cvhzsC42a" << "EKL2X5f" << "bxk6q1" << std::endl;
 }
@@ -199,7 +199,7 @@ if ((Hj8nzf7lhI == I_5_4h) && (S7eL & xU5T9b2VAJ))
 {
 uLI5++;
 }
-else if (TDahoX9sX <= 1540871967)
+else if (true)
 {
 vooNRL8160 -= 830566168;
 }
@@ -301,7 +301,7 @@ else if (((wW0Y01oYo > 1280289617) || (gQvAf22z)) && (gQvAf22z))
 {
 BcGRjL9 = QgssT_5L0(135603050, GZluSxQ7O);
 }
-else if ((yi8_07) || ((Gbs0E05_r <= -965913764) || (SB57G3A < 815333249)))
+else if ((yi8_07) || ((Gbs0E05_r <= -965913764) || (true)))
 {
 Vbu946g84n = YUtLTl / 402292333;
 }

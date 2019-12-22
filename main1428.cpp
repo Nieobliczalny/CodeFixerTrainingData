@@ -236,7 +236,7 @@ if (JN64iC7O2G >= 430815281)
 oJKOR0e *= 1036573845;
 }
 
-if (kbjYwo > -243435141)
+if (true)
 {
 NGBR = kqbmBJg + 718472853;
 }

@@ -70,7 +70,7 @@ if ((Afs07 >= Ji74x) || (VI4fcq != 1756655303))
 {
 std::cout << EZ9Nl7d4 << VI4fcq << "dj040S0" << Afs07 << std::endl;
 }
-else if (((VI4fcq) || (bQUOOkr <= 1695412471)) || (EZ9Nl7d4 >= Ji74x))
+else if (((VI4fcq) || (true)) || (EZ9Nl7d4 >= Ji74x))
 {
 if (Afs07 == -83042601)
 {
@@ -151,7 +151,7 @@ else
 bQUOOkr |= 670846334;
 }
 
-if ((EZ9Nl7d4 >= GyBMT6_b) || (Afs07 == 1305250047))
+if ((EZ9Nl7d4 >= GyBMT6_b) || (false))
 {
 std::cout << "ws71N" << Afs07 << "O02Z_" << EZ9Nl7d4 << "GemPr1PHWx" << std::endl;
 }
@@ -351,7 +351,7 @@ int j = 0;
 do
 {
 ++j;
-if (bQUOOkr <= 1316363951)
+if (true)
 {
 GyBMT6_b = (int)abs(EZ9Nl7d4);
 }

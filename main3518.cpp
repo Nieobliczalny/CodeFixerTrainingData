@@ -65,7 +65,7 @@ int main(void) {
   char  kGtJUV;
   kGtJUV  =  527579587;
 
-if (eYNV7 != 1449984896)
+if (true)
 {
 if (qApDP >= U9sU)
 {
@@ -94,7 +94,7 @@ j--;
 while (j >= 0);
 }
 }
-if ((Q5g1 < 915749589) || ((kGtJUV != s_WL) || (EIa_12 < u_1cNC)))
+if ((true) || ((kGtJUV != s_WL) || (EIa_12 < u_1cNC)))
 {
 r9zUGAe8dt = (int)floor(amm4K6jV);
 }
@@ -127,7 +127,7 @@ j--;
 }
 }
 }
-else if ((xxq0wt04D != -1632740802) || ((EPwZ > 1275528251) || (TLzic_D8um)))
+else if ((true) || ((EPwZ > 1275528251) || (TLzic_D8um)))
 {
 {
 int j = 0;
@@ -144,7 +144,7 @@ while (j < 3);
 }
 else if ((hfVwNS75pq) || ((amm4K6jV == Q5g1) || (hfVwNS75pq & n3Cq5)))
 {
-if (((cX2cP70u & 883978008) && (xxq0wt04D > 2055639578)) || (hfVwNS75pq > n3Cq5))
+if (((cX2cP70u & 883978008) && (false)) || (hfVwNS75pq > n3Cq5))
 {
 switch (EIa_12)
 {
@@ -244,7 +244,7 @@ s_WL = hfVwNS75pq / XqKM;
 }
 }
 
-if (kGtJUV == -2062266018)
+if (false)
 {
 if ((kGtJUV > QfR0I) || ((EIa_12 > XqKM) || (u_1cNC != EPwZ)))
 {
@@ -264,7 +264,7 @@ EIa_12 = fg3Np5csQh();
 while (i < 5);
 }
 
-if (hfVwNS75pq == 160481917)
+if (false)
 {
 qApDP = (unsigned char)(r9zUGAe8dt);
 }
@@ -329,7 +329,7 @@ if (QfR0I == Qbtix)
 {
 U9sU = t_sOvL(-1632026590, QfR0I, -2044950044, -989184080);
 }
-else if (kGtJUV > -1789428563)
+else if (true)
 {
 r9zUGAe8dt = fg3Np5csQh() >> 854379997;
 }
@@ -351,7 +351,7 @@ amm4K6jV = (int)ceil(r9zUGAe8dt);
 }
 }
 }
-else if ((TLzic_D8um < n3Cq5) || (M1uS_9J >= 1007462804))
+else if ((TLzic_D8um < n3Cq5) || (false))
 {
 try
 {
@@ -392,7 +392,7 @@ else
 std::cout << EIa_12 << EPwZ << "s6cr3O7r8" << std::endl;
 }
 }
-else if (((qApDP < -1663317619) && (R0P5D2UxS7 >= E3N0)) || (hfVwNS75pq & kGtJUV))
+else if (((false) && (R0P5D2UxS7 >= E3N0)) || (hfVwNS75pq & kGtJUV))
 {
 for (int j = 0; j < 10; j++)
 {
@@ -432,7 +432,7 @@ while (j >= 0);
 }
 else
 {
-if ((qApDP == dU01eyp) || ((amm4K6jV == M1uS_9J) || (cX2cP70u >= -672874734)))
+if ((qApDP == dU01eyp) || ((amm4K6jV == M1uS_9J) || (true)))
 {
 R0P5D2UxS7 = j51ZnEn6(R0P5D2UxS7);
 }
@@ -461,7 +461,7 @@ else if (((r9zUGAe8dt == 1049206338) && (EIa_12 != 2066623235)) || ((U9sU) || (R
 {
 std::cout << r9zUGAe8dt << amm4K6jV << std::endl;
 }
-else if (Q5g1 == n3Cq5)
+else if (false)
 {
 amm4K6jV = (int)ceil(r9zUGAe8dt);
 }

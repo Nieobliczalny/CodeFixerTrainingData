@@ -242,7 +242,7 @@ else
 {
 if (lM9eY3 & 1005206370)
 {
-if (TPk5jeKPt7 >= -552787921)
+if (true)
 {
 mv1Vo5V = (int)floor(IFpq5PO1t);
 }
@@ -254,7 +254,7 @@ else if (rI_1R_N < 300555494)
 {
 TfNk = (int)floor(ge4_);
 }
-else if ((JdkH == -18948593) && (Hx2373 <= 1422111002))
+else if ((JdkH == -18948593) && (true))
 {
 lOwQ2 = (int)ceil(c4e8);
 }
@@ -286,7 +286,7 @@ TPk5jeKPt7 = uoX1Wep3(1251464723, JdkH, 142718360);
 while (k < 9);
 }
 }
-else if (((uz3NhF != -2130403199) && (VyhGku45n7 == -77608361)) && ((lM9eY3 != -1758040489) && (lM9eY3 & -1765458020)))
+else if (((uz3NhF != -2130403199) && (VyhGku45n7 == -77608361)) && ((true) && (lM9eY3 & -1765458020)))
 {
 try
 {

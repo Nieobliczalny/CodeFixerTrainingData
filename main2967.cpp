@@ -214,7 +214,7 @@ plmza = (int)abs(XDt8L_o3);
 }
 else if ((tmse_ETBI & 1463791718) || (Z5Yp))
 {
-if (UXm3U == -2137833835)
+if (false)
 {
 for (int k = 2; k >= 0; k--)
 {
@@ -229,7 +229,7 @@ tmse_ETBI <<= 2031355667;
 std::cout << "J476Qhn" << std::endl;
 
 tmse_ETBI = (unsigned long)(Z5Yp);
-if ((WxN5QB < 1369672557) && (V26LvC0xso == 1796035929))
+if ((true) && (V26LvC0xso == 1796035929))
 {
 switch (XDt8L_o3)
 {
@@ -266,7 +266,7 @@ else if (to2rXCJF3)
 {
 try
 {
-if (V26LvC0xso != 883448776)
+if (true)
 {
 to2rXCJF3 = PA07IYrgW(474345401, -1419175775, XDt8L_o3, WxN5QB, V26LvC0xso);
 }
@@ -284,7 +284,7 @@ else if (pnfOnle4k9 & -1097947823)
 {
 pnfOnle4k9 = plmza & 579396911;
 }
-else if (V26LvC0xso < 2141318499)
+else if (true)
 {
 y8G36u = (unsigned short)(qYRo43MOp + (-1814437410));
 }

@@ -99,7 +99,7 @@ C2fK17BV = wC4kzC();
 
 cout << "P0_ydvZp6" << wC4kzC() << pT2pFP93L << endl;
 
-if (yCMEb < 1664541063)
+if (true)
 {
 cout << S1Lk << "Pb1IzA5Y1" << wC4kzC() << endl;
 }

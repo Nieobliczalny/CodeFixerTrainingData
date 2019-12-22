@@ -167,7 +167,7 @@ else if (j0RTn5T < LV_6)
 {
 cout << PLx9hmzJT(2005995869) << WYwX1() << Nar6(1701227364, -1019486055, mCfIcGZ, omp7jA8Qm, g17PIG_) << Nar6(-638013184, fp6GV4vb1R, mCfIcGZ, 967244740, -1769118892) << WYwX1() << endl;
 }
-else if (o2vw <= 1438440493)
+else if (true)
 {
 {
 int j = 0;
@@ -182,7 +182,7 @@ else if (ZhH_7bq & -1555979011)
 {
 if (((Rk5K7 < LV_6) || (B31Rtcx != SKf5QSXSt)) || (H677D))
 {
-if (Rk5K7 <= 1230546746)
+if (true)
 {
 Y_C_8_--;
 }
@@ -241,7 +241,7 @@ int i = 0;
 do
 {
 i++;
-if ((Y_C_8_ > -1722680611) && ((B31Rtcx != ecLu98W88) && (r9JYki0i)))
+if ((true) && ((B31Rtcx != ecLu98W88) && (r9JYki0i)))
 {
 try
 {
@@ -254,7 +254,7 @@ eV4Q *= 1651072320;
 }
 else
 {
-if (IuiXm == -224244880)
+if (false)
 {
 KfHDPB3c = Nar6(-1138144679, J04zBBdh2, -2025650596, -767624817, -2005209612) * fp6GV4vb1R;
 }
@@ -266,7 +266,7 @@ else if (rKcPT >= 826750296)
 {
 ecLu98W88 = (o2vw < LV_6) ? Pf4_ : 329919705;
 }
-else if ((Q7ExV6wp == -1713914205) || (o2vw <= hPp1SUDJQ7))
+else if ((false) || (o2vw <= hPp1SUDJQ7))
 {
 mq8O %= g0xKS;
 }
@@ -290,7 +290,7 @@ if (J04zBBdh2 < w8si3baVq)
 {
 X5MRE3 = (unsigned short)(LV_6 + (912168224));
 }
-else if (Lh2h1 != 499682913)
+else if (true)
 {
 if ((Wl70El0) && (ZhH_7bq >= -105282463))
 {
@@ -337,7 +337,7 @@ mCfIcGZ &= mcrUBKj;
 }
 zzR__Rqj32 *= a934RyJy5;
 k1c4Y7q = Nar6(xL3kXXd5j, rKcPT, VNZ68C_2, mCfIcGZ, 32080211);
-if (a0MaA8QR4h < 792415264)
+if (true)
 {
 if (C8L8)
 {
@@ -369,7 +369,7 @@ catch (int& errorCode)
 IuiXm -= B_1aH0pmN3;
 }
 }
-else if (g17PIG_ != 1525956042)
+else if (true)
 {
 if (Eun9211NXg >= -1000712111)
 {
@@ -387,7 +387,7 @@ qBeT = (unsigned short)(LV_6 + (1857511627));
 }
 }
 }
-else if ((gSKK <= 2105746600) || (enn_6L <= LV_6))
+else if ((true) || (enn_6L <= LV_6))
 {
 for (int j = 2; j >= 0; j--)
 {
@@ -401,7 +401,7 @@ s3ZoSTq8 = WYwX1();
 }
 }
 }
-else if (((Xt_3 > 2040446336) && (SKf5QSXSt > f3i6)) || (eV4Q))
+else if (((false) && (SKf5QSXSt > f3i6)) || (eV4Q))
 {
 cout << mCfIcGZ << endl;
 }
@@ -464,7 +464,7 @@ else if (iXIY == LV_6)
 {
 gSKK &= wqStLn1;
 }
-else if ((s82N == s32805H5) || (aA_b12gRsD >= -2143597573))
+else if ((s82N == s32805H5) || (true))
 {
 I90x_0Cwf = PLx9hmzJT(I90x_0Cwf);
 }

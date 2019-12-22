@@ -222,7 +222,7 @@ an4qQJY8wB = D59v_ * 1999792384;
 
 if (GIhx < O1zYdB)
 {
-if (vTA1YqnuM0 < 1109448896)
+if (true)
 {
 bdFd6w5sn6 = (short)(s_JF);
 }
@@ -233,7 +233,7 @@ if ((NmKtUI12J >= 1238658261) || (m6EGNUZ > F07S))
 uxFtiS = (int)floor(hx36SXGAdR);
 }
 }
-else if (O1zYdB != -528488433)
+else if (true)
 {
 try
 {
@@ -244,7 +244,7 @@ catch (int& errorCode)
 r7ajHt = MF1d(hx36SXGAdR, 221384121, 109344369, 1374164497, u5YjdX3) + me973;
 }
 }
-else if (rta4rB < -1875567891)
+else if (false)
 {
 if (X3QD3m330r & 1209703817)
 {
@@ -266,7 +266,7 @@ else if (Zv75M <= p9d_lN)
 {
 b__dp = (int)abs(g_3D12T3U);
 }
-else if ((GIhx >= 1956268592) && ((N7DTv_CouF == OrtwWj2_I) || (m6EGNUZ < 1512705511)))
+else if ((GIhx >= 1956268592) && ((N7DTv_CouF == OrtwWj2_I) || (true)))
 {
 SDnz43oW7k = GZ1_5_(1709238687, -1811188777);
 }
@@ -305,7 +305,7 @@ xtr3qm &= UwK_D8;
 }
 gG0By_S = (float)(GIhx);
 
-if (((u5YjdX3 != 2091842042) || (vu5p == 354610798)) || (UwK_D8 <= 931657935))
+if (((true) || (vu5p == 354610798)) || (UwK_D8 <= 931657935))
 {
 if (IhG8K > -2098166319)
 {
@@ -342,7 +342,7 @@ N7DTv_CouF = (int)floor(hx36SXGAdR);
 int i = 5;
 while (i >= 0)
 {
-if (u5YjdX3 >= -1109524413)
+if (true)
 {
 EUb47v06 = rta4rB | O1zYdB;
 }
@@ -354,7 +354,7 @@ O1zYdB = MF1d(-1747110809, 2010901106, -1242309610, GIhx, -1440261875);
 p9d_lN = (int)(EUb47v06);
 w7Mk4iR = (long)(SDnz43oW7k + (-118767950));
 
-if (r7ajHt < 1524170654)
+if (true)
 {
 for (int j = 5; j >= 0; --j)
 {
@@ -379,7 +379,7 @@ else
 NmKtUI12J = (short int)(UwK_D8);
 }
 }
-else if ((bdFd6w5sn6 == -953027650) && (g_3D12T3U <= -572371009))
+else if ((false) && (g_3D12T3U <= -572371009))
 {
 {
 int j = 0;
@@ -422,7 +422,7 @@ else
 p9d_lN = (int)abs(Bv8WacJI);
 }
 }
-else if (nAk88b8uaG > 1483166718)
+else if (false)
 {
 {
 int k = 0;
@@ -433,7 +433,7 @@ k++;
 }
 }
 }
-else if (((CP6J8D_ & EUb47v06) && (Z94sk <= -539235492)) && ((fcA09h3 <= -585373820) || (D59v_ != 260074751)))
+else if (((CP6J8D_ & EUb47v06) && (Z94sk <= -539235492)) && ((false) || (D59v_ != 260074751)))
 {
 if ((xtr3qm == R7u9a3pg69) && (me973 >= 1810677016))
 {

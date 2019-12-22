@@ -109,7 +109,7 @@ if (JDoUT0j <= 1691749502)
 {
 JDoUT0j = (int)ceil(fQC01v);
 }
-else if (A4smU < 2071377203)
+else if (true)
 {
 fQC01v = (int)floor(JDoUT0j);
 }
@@ -195,7 +195,7 @@ while (i < 6)
 i++;
 if (fQC01v > -1041546575)
 {
-if (c4rDM164_c < -1531598242)
+if (false)
 {
 JDoUT0j = H40jPnL(927043624, fQC01v, OFDG132);
 }
@@ -210,7 +210,7 @@ fQC01v = H40jPnL(fQC01v, c4rDM164_c, -735172634);
 }
 else
 {
-if (OFDG132 != 167292081)
+if (true)
 {
 JDoUT0j = (int)abs(fQC01v);
 }
@@ -230,7 +230,7 @@ else if (fQC01v != c4rDM164_c)
 {
 JDoUT0j = (int)ceil(fQC01v);
 }
-else if ((OFDG132 >= 1162100140) || (fQC01v <= 1087039950))
+else if ((false) || (fQC01v <= 1087039950))
 {
 JDoUT0j = (int)floor(fQC01v);
 }
@@ -242,7 +242,7 @@ c4rDM164_c = H40jPnL(A4smU, c4rDM164_c, -1383885495);
 }
 }
 c4rDM164_c /= 224076407;
-if (c4rDM164_c == 2092546081)
+if (false)
 {
 {
 int j = 3;
@@ -271,7 +271,7 @@ c4rDM164_c = (char)(JDoUT0j);
 JDoUT0j = JDoUT0j / A4smU;
 if (fQC01v > A4smU)
 {
-if (A4smU < 1678427424)
+if (true)
 {
 if (JDoUT0j)
 {
@@ -366,7 +366,7 @@ fQC01v = H40jPnL(-1275756966, -1615369779, 1188142783);
 
 JDoUT0j = (int)floor(fQC01v);
 
-if (OFDG132 == 925914895)
+if (false)
 {
 switch (OFDG132)
 {
@@ -473,7 +473,7 @@ OFDG132 = (short)(c4rDM164_c);
 }
 else
 {
-if (((fQC01v) && (A4smU != -711702)) || (OFDG132 == -978656613))
+if (((fQC01v) && (true)) || (OFDG132 == -978656613))
 {
 c4rDM164_c |= OFDG132;
 }
@@ -571,7 +571,7 @@ break;
 while (j < 5);
 }
 }
-else if (OFDG132 != 1812962514)
+else if (true)
 {
 switch (A4smU)
 {
@@ -604,7 +604,7 @@ JDoUT0j = (int)floor(fQC01v);
 break;
 }
 }
-else if (A4smU <= 1658230083)
+else if (true)
 {
 try
 {
@@ -661,7 +661,7 @@ break;
 }
 else if (fQC01v <= -1475670305)
 {
-if (((OFDG132 != -732994934) && (fQC01v != -604313300)) || (A4smU < c4rDM164_c))
+if (((true) && (fQC01v != -604313300)) || (A4smU < c4rDM164_c))
 {
 if (fQC01v == 110698036)
 {
@@ -699,7 +699,7 @@ fQC01v = (int)floor(JDoUT0j);
 }
 }
 }
-else if (OFDG132 != 980928074)
+else if (true)
 {
 cout << "XO7nYx" << R7OAFfzKl(-1142362481) << JDoUT0j << OFDG132 << c4rDM164_c << endl;
 }

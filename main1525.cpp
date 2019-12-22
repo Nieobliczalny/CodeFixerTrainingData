@@ -93,7 +93,7 @@ case 0:
 F88F = N6TnHb - 1456132621;
 break;
 case 1:
-hV27U = (vbg1k_ != -1017420466) ? eWs6 : -126289991;
+hV27U = (true) ? eWs6 : -126289991;
 break;
 case 2:
 Fz67h |= NaDe4_7K9;
@@ -159,7 +159,7 @@ try
 {
 if (C_d137_5 < 1007637761)
 {
-if ((jXc0 != 1988151814) && ((N6TnHb) || (A36t2JpFA < -1638964181)))
+if ((true) && ((N6TnHb) || (A36t2JpFA < -1638964181)))
 {
 g0d9155d = q8AWT45HN6(1831856268, b337R2U, fXX42SPe_k);
 }
@@ -207,7 +207,7 @@ while (i < 3)
 ++i;
 if (A36t2JpFA == tPf_J)
 {
-if (h35rvJN8 < 668746469)
+if (true)
 {
 fdz704E_Z /= 1451690048;
 }
@@ -255,7 +255,7 @@ jd8Y = qnoFhgDky6(qa3eYA95, 1079303802);
 }
 }
 
-if (YS2ZF <= 312294968)
+if (true)
 {
 {
 int j = 0;
@@ -394,7 +394,7 @@ else
 std::cout << fxuJ << qnoFhgDky6(-412754411, tK3q4P) << q8AWT45HN6(-982102400, tK3q4P, wa59O) << q8AWT45HN6(1186875432, tK3q4P, 1458053056) << std::endl;
 }
 }
-else if ((b74n38 > Fz67h) && (h35rvJN8 == -1355831646))
+else if ((b74n38 > Fz67h) && (false))
 {
 {
 int j = 0;
@@ -574,7 +574,7 @@ DldB = q8AWT45HN6(kje8PU43HY, -580350156, 1126793905) / 2119600209;
 }
 else
 {
-if (h35rvJN8 > -1218349683)
+if (true)
 {
 for (int k = 3; k >= 0; --k)
 {

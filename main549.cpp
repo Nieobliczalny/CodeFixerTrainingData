@@ -533,7 +533,7 @@ else
 B7DJvfN4 -= 1597273326;
 }
 }
-else if ((zv_zYCE2l > Z80W7Y) && ((maqj4dxh_ == A3q_9) || (MSPWq)))
+else if ((true) && ((maqj4dxh_ == A3q_9) || (MSPWq)))
 {
 {
 int k = 0;
@@ -806,7 +806,7 @@ i--;
 }
 
 maqj4dxh_ = (unsigned int)(A3q_9);
-if ((SH012g_7wg == Z80W7Y) && (N9_76f >= Z80W7Y))
+if ((true) && (N9_76f >= Z80W7Y))
 {
 if (W_Cs_AbI == S5S17)
 {

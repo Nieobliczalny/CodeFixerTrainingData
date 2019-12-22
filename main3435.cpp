@@ -302,7 +302,7 @@ FGtb_G7_ = (int)(uaJdZ_);
 }
 else
 {
-if ((r3Fv23b2 == 1393874952) || (mEJzfMnE < vMJwKCWUWk))
+if ((false) || (mEJzfMnE < vMJwKCWUWk))
 {
 if (((rwX1w83Z8t >= 1597676586) || (Kqfbqge)) && (acd5tD_k == Ddo9jE))
 {

@@ -112,7 +112,7 @@ if ((QRP96 < -724343078) || ((HO2D1 == 2059600868) || (m7V7M1u & 525428116)))
 AwZ_s--;
 }
 }
-else if (H79Iof33Y > -1200948435)
+else if (true)
 {
 if ((CgZflCq0n > Cp71sp9Xs) || (yBjNk_))
 {

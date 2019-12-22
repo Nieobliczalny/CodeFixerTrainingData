@@ -83,7 +83,7 @@ try
 {
 if (c19eYRCq26 & vwYA3Kwr)
 {
-if ((fxn8k01JHN >= -1410781174) && (U9981z0pY > ux7bOCR5B8))
+if ((true) && (U9981z0pY > ux7bOCR5B8))
 {
 ZLwu73dW = I8GhgNmh(ZLwu73dW, DPz0n_9, 1771353742);
 }
@@ -117,7 +117,7 @@ else
 {
 vwYA3Kwr = IK8e_Rts51 & UNYX1O;
 }
-if (DPz0n_9 >= -30095342)
+if (true)
 {
 switch (x9u8)
 {

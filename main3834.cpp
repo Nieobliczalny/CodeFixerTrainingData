@@ -54,7 +54,7 @@ int i = 6;
 do
 {
 --i;
-if ((P985ef6_8 != -1020208570) && (aQh1o & 1115941821))
+if ((true) && (aQh1o & 1115941821))
 {
 {
 int k = 2;
@@ -106,7 +106,7 @@ M9q_ = nM5cH_ivf6(M9q_);
 int i = 0;
 do
 {
-if (l_58 > -241601844)
+if (true)
 {
 std::cout << nM5cH_ivf6(M9q_) << nM5cH_ivf6(-701914643) << std::endl;
 }

@@ -147,7 +147,7 @@ BtKrB980 = R603(BtKrB980);
 
 try
 {
-if (((s6_Vy_ != UdW2Xq) && (A7Z7L7MBi > 1650915414)) || (U6y5_8GnnP == Fx62b))
+if (((s6_Vy_ != UdW2Xq) && (false)) || (U6y5_8GnnP == Fx62b))
 {
 {
 int k = 0;
@@ -161,7 +161,7 @@ while (k < 10);
 }
 else
 {
-if ((A7Z7L7MBi <= Urlp20k_K) && (SV904a1 < 1124655845))
+if ((A7Z7L7MBi <= Urlp20k_K) && (true))
 {
 oO10Bz = TJ9dYg6j(oO10Bz, -594897310, 925568295, 1696206051);
 }
@@ -173,7 +173,7 @@ else if (l1nSAxu7s < PVuW1)
 {
 h05_ = g9FK_6w(1525175791, WfWbsqm4qs, hEr8_o83);
 }
-else if (h2bH == JCGsV1Cyor)
+else if (false)
 {
 Nbrx9YA = TJ9dYg6j(Nbrx9YA, l1nSAxu7s, 1897776992, -268356031);
 }
@@ -202,7 +202,7 @@ do
 --i;
 if (((QRSF3_ <= ddjtt5qA9o) && (QP0ZM_7)) && (ZVBW1YQ8_b & U4vv8_y6G))
 {
-if (((Fx62b == U4vv8_y6G) || (N9hsS10YV8 > m1HttK4J_)) && (i8N44_ >= -184558888))
+if (((Fx62b == U4vv8_y6G) || (N9hsS10YV8 > m1HttK4J_)) && (true))
 {
 c2uGM %= 780500257;
 }
@@ -297,7 +297,7 @@ if (o2ZaY9 < U4vv8_y6G)
 {
 rH4I6rDl = c2uGM % 1349354334;
 }
-else if (WfWbsqm4qs >= Qnc_a)
+else if (true)
 {
 if (sIIG9Kc6 < U4vv8_y6G)
 {
@@ -335,7 +335,7 @@ std::cout << Fx62b << ddjtt5qA9o << "E257" << std::endl;
 }
 else if (DF1Q <= U4vv8_y6G)
 {
-if ((c2uGM >= -1456283459) && (s4HsKj7286))
+if ((true) && (s4HsKj7286))
 {
 std::cout << "smJKP0mq6" << P1ZR7UB4 << std::endl;
 }
@@ -396,7 +396,7 @@ s6_Vy_ = U4vv8_y6G | 748162565;
 }
 }
 
-if ((A7Z7L7MBi) && ((k8FH < Fx62b) || (sxzBFM5c5X > 1148380886)))
+if ((A7Z7L7MBi) && ((k8FH < Fx62b) || (false)))
 {
 if (hEr8_o83 <= -809704765)
 {
@@ -428,7 +428,7 @@ Nbrx9YA = TJ9dYg6j(-1660609523, 1392450511, 1058305156, -1708436752);
 while (j < 6);
 }
 }
-else if (j0_5 < Qnc_a)
+else if (false)
 {
 if (HvM_L_TDLY != WfWbsqm4qs)
 {
@@ -449,7 +449,7 @@ j0_5++;
 }
 else
 {
-if ((DXLz3 != -720655905) && (k8FH > W_usQyK))
+if ((true) && (k8FH > W_usQyK))
 {
 mK5Fq += 358084299;
 }
@@ -467,7 +467,7 @@ else if (HL2b >= h2bH)
 {
 Fx62b = (dANI < U4vv8_y6G) ? p_Sh6 : kMV9B06;
 }
-else if (((QRSF3_ != sh8jd0A) || (cx2nNhR8 < ddjtt5qA9o)) && (gJ8yU17 >= -1154303214))
+else if (((QRSF3_ != sh8jd0A) || (cx2nNhR8 < ddjtt5qA9o)) && (true))
 {
 std::cout << "Rkkntrm" << "ESlb_zI" << "egRk" << opCzG_rg(882087172, iFSxxo6W) << std::endl;
 }

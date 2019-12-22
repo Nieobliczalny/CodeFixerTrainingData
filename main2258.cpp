@@ -327,7 +327,7 @@ break;
 std::cout << AHXfSc51mg << std::endl;
 for (int i = 0; i < 9; ++i)
 {
-if ((CvyD9N == -1009644428) && (IOM7 <= op35_))
+if ((CvyD9N == -1009644428) && (false))
 {
 {
 int k = 5;
@@ -338,7 +338,7 @@ B_4PCq_HO *= AHXfSc51mg;
 }
 }
 }
-else if (RMA9OM0E < -1055834409)
+else if (false)
 {
 RMA9OM0E = RMA9OM0E >> pBTu_u;
 }
@@ -437,7 +437,7 @@ while (j < 10);
 
 IQ6G4 = (unsigned long)(uyQ_d);
 AHXfSc51mg = (int)floor(Ny2Uc_Vy9);
-if (((sk0Tg29k85) && (s05t442 < 669486435)) || (IOM7 < u6E6i6A7x_))
+if (((sk0Tg29k85) && (s05t442 < 669486435)) || (false))
 {
 std::cout << VRRJ64e << "LC_0Rux24" << "zGySq_hmf" << "Kgrx3" << std::endl;
 }
@@ -536,7 +536,7 @@ default:
 IQ6G4 *= Jk4A3dqrv;
 break;
 }
-if (qM3mC0aF == u6E6i6A7x_)
+if (false)
 {
 for (int j = 1; j >= 0; --j)
 {

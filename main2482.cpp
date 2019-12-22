@@ -21,7 +21,7 @@ int main(void)
  unsigned int djwzK;
  djwzK = 0;
 
-if ((g1_0Sf5 & djwzK) || (g1_0Sf5 <= 1938709794))
+if ((g1_0Sf5 & djwzK) || (true))
 {
 djwzK = (unsigned int)(g1_0Sf5);
 }
@@ -45,7 +45,7 @@ while (k >= 0);
 while (j >= 0);
 }
 }
-else if (((g1_0Sf5 < djwzK) || (g1_0Sf5)) && (y7v7 > 1376156944))
+else if (((g1_0Sf5 < djwzK) || (g1_0Sf5)) && (false))
 {
 y7v7 = g1_0Sf5 + djwzK;
 }
@@ -70,7 +70,7 @@ while (k >= 0);
 }
 else
 {
-if ((y7v7 > 7577621) && (y7v7 != 596765860))
+if ((false) && (y7v7 != 596765860))
 {
 y7v7 = djwzK * g1_0Sf5;
 }
@@ -87,7 +87,7 @@ y7v7 -= 355387502;
 }
 }
 
-if ((y7v7 & 598594795) || (g1_0Sf5 > 947485819))
+if ((y7v7 & 598594795) || (false))
 {
 std::cout << djwzK << y7v7 << std::endl;
 }
@@ -180,7 +180,7 @@ try
 {
 if (g1_0Sf5)
 {
-if (y7v7 >= -1160474978)
+if (true)
 {
 y7v7 = g1_0Sf5 * y7v7;
 }
@@ -202,7 +202,7 @@ catch (int& errorCode)
 {
 y7v7 = djwzK - y7v7;
 }
-if (y7v7 < 1891496222)
+if (true)
 {
 {
 int j = 5;
@@ -214,7 +214,7 @@ y7v7 /= 274101798;
 }
 else if (djwzK >= 263882625)
 {
-y7v7 = (g1_0Sf5 >= 1104801316) ? g1_0Sf5 : y7v7;
+y7v7 = (false) ? g1_0Sf5 : y7v7;
 }
 else if (g1_0Sf5 & 1877178289)
 {
@@ -224,7 +224,7 @@ else if ((g1_0Sf5 != 822619731) || (y7v7 < -1922765369))
 {
 y7v7 = (int)abs(g1_0Sf5) + (-1483011762);
 }
-else if (g1_0Sf5 >= 470080426)
+else if (false)
 {
 y7v7 = (g1_0Sf5 >= -1648229787) ? g1_0Sf5 : g1_0Sf5;
 }
@@ -237,7 +237,7 @@ y7v7 -= g1_0Sf5;
 while (j >= 0);
 }
 }
-if (g1_0Sf5 == -89196730)
+if (false)
 {
 y7v7 = g1_0Sf5 >> 462097013;
 }
@@ -268,7 +268,7 @@ else
 {
 for (int j = 7; j >= 0; j--)
 {
-if (g1_0Sf5 > -1379173712)
+if (true)
 {
 y7v7 ^= 947444162;
 }
@@ -288,7 +288,7 @@ try
 {
 if ((y7v7 & djwzK) && ((djwzK) || (djwzK == -296371785)))
 {
-if (((y7v7 == 1633983580) || (djwzK <= -489486696)) && (djwzK > -1496980843))
+if (((false) || (djwzK <= -489486696)) && (djwzK > -1496980843))
 {
 g1_0Sf5 = (int)abs(y7v7) * 0;
 }
@@ -300,7 +300,7 @@ else if (y7v7 & -1099766233)
 {
 y7v7 = g1_0Sf5 * 2098795195;
 }
-else if (((y7v7 & 1308433529) || (y7v7 != 491051727)) || (djwzK >= 197138896))
+else if (((y7v7 & 1308433529) || (true)) || (djwzK >= 197138896))
 {
 y7v7++;
 }
@@ -367,7 +367,7 @@ while (j >= 0);
 }
 }
 
-if (g1_0Sf5 != 445252917)
+if (true)
 {
 if ((djwzK <= -2070628346) && (g1_0Sf5 & 296405134))
 {
@@ -382,7 +382,7 @@ y7v7--;
 }
 else if (djwzK)
 {
-if (y7v7 >= 1390948207)
+if (false)
 {
 y7v7 = y7v7 << 1673351872;
 }
@@ -406,7 +406,7 @@ y7v7 = djwzK * djwzK;
 }
 }
 }
-else if (g1_0Sf5 <= 487162036)
+else if (true)
 {
 for (int k = 4; k >= 0; --k)
 {
@@ -438,7 +438,7 @@ y7v7 = g1_0Sf5 | 1219703309;
 int i = 3;
 do
 {
-if (y7v7 == -65430418)
+if (false)
 {
 {
 int k = 7;
@@ -466,7 +466,7 @@ i--;
 while (i >= 0);
 }
 y7v7 <<= 83509520;
-if (y7v7 > -847575668)
+if (true)
 {
 {
 int j = 0;
@@ -477,7 +477,7 @@ djwzK = (unsigned int)(g1_0Sf5);
 }
 }
 }
-else if (g1_0Sf5 > -588524421)
+else if (true)
 {
 if (((g1_0Sf5 != 768148734) || (g1_0Sf5 > -2032904302)) || (djwzK < g1_0Sf5))
 {
@@ -501,7 +501,7 @@ y7v7 = g1_0Sf5 ^ 1042591984;
 }
 }
 }
-else if ((y7v7) && (g1_0Sf5 == -744002693))
+else if ((y7v7) && (false))
 {
 {
 int k = 0;
@@ -513,7 +513,7 @@ y7v7 = djwzK | 1131332538;
 while (k < 6);
 }
 }
-else if ((y7v7 == 470635172) && (y7v7 <= 1513986883))
+else if ((false) && (y7v7 <= 1513986883))
 {
 {
 int k = 4;
@@ -525,7 +525,7 @@ g1_0Sf5 = (int)abs(y7v7) * 0;
 while (k >= 0);
 }
 }
-else if (y7v7 == 1604312599)
+else if (false)
 {
 for (int k = 0; k < 2; ++k)
 {
@@ -545,7 +545,7 @@ while (k >= 0);
 }
 }
 }
-else if (g1_0Sf5 >= 1461346449)
+else if (false)
 {
 if (((y7v7 > -1807110418) || (djwzK <= -1207380485)) && (djwzK < 1851330679))
 {
@@ -558,7 +558,7 @@ catch (int& errorCode)
 y7v7 = (g1_0Sf5 >= djwzK) ? 938933433 : -2003319610;
 }
 }
-else if (g1_0Sf5 != -550618859)
+else if (true)
 {
 for (int k = 0; k < 1; k++)
 {
@@ -602,7 +602,7 @@ y7v7 = y7v7 - 1785277465;
 }
 else if (djwzK)
 {
-if (((djwzK >= -1815618674) || (g1_0Sf5 >= y7v7)) || ((y7v7 != 624895038) || (g1_0Sf5 < -278816669)))
+if (((djwzK >= -1815618674) || (g1_0Sf5 >= y7v7)) || ((true) || (g1_0Sf5 < -278816669)))
 {
 y7v7 = djwzK / 254180596;
 }
@@ -685,7 +685,7 @@ i++;
 y7v7 = djwzK + 1087745840;
 
 y7v7 = (short int)(g1_0Sf5 + (-685524040));
-if (y7v7 >= 455083887)
+if (false)
 {
 {
 int j = 6;
@@ -720,7 +720,7 @@ else
 g1_0Sf5 = (short)(y7v7 * g1_0Sf5);
 }
 
-if (g1_0Sf5 != 483313158)
+if (true)
 {
 {
 int j = 0;
@@ -745,7 +745,7 @@ y7v7 = g1_0Sf5 % 1359332853;
 
 y7v7 |= 1917920054;
 
-if ((y7v7 <= 87866496) && ((y7v7) && (y7v7 != g1_0Sf5)))
+if ((true) && ((y7v7) && (y7v7 != g1_0Sf5)))
 {
 std::cout << g1_0Sf5 << std::endl;
 }
@@ -767,7 +767,7 @@ else if (djwzK != -2075827029)
 {
 std::cout << "G729" << djwzK << g1_0Sf5 << std::endl;
 }
-else if ((g1_0Sf5 == -145592549) || (g1_0Sf5 != y7v7))
+else if ((false) || (g1_0Sf5 != y7v7))
 {
 {
 int j = 0;
@@ -795,7 +795,7 @@ break;
 }
 }
 }
-else if ((g1_0Sf5 >= -1172507281) && (y7v7 < -1703617576))
+else if ((true) && (y7v7 < -1703617576))
 {
 if ((y7v7 != 2032940606) && (y7v7 != 1536537413))
 {

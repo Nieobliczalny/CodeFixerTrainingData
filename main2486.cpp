@@ -85,7 +85,7 @@ catch (int& errorCode)
 {
 q0_Kk2zqHw %= t0NdX;
 }
-if (t0NdX <= 220216987)
+if (true)
 {
 if (q0_Kk2zqHw < -568183119)
 {
@@ -136,7 +136,7 @@ while (j < 9);
 }
 else if (b_fA & 1443084337)
 {
-if (UEggFV >= 2087486476)
+if (false)
 {
 for (int k = 10; k >= 0; --k)
 {
@@ -177,7 +177,7 @@ Bs_J44 += 677509605;
 }
 }
 }
-Bs_J44 = (UEggFV == -377546217) ? -1873543999 : Bs_J44;
+Bs_J44 = (false) ? -1873543999 : Bs_J44;
 cout << Bs_J44 << "KO8ab4t" << b_fA << Bs_J44 << Hb96v << endl;
 
 switch (Bs_J44)
@@ -260,7 +260,7 @@ break;
 }
 for (int i = 4; i >= 0; --i)
 {
-if (t0NdX <= 118657637)
+if (true)
 {
 Bs_J44 <<= 699209594;
 }
@@ -295,7 +295,7 @@ break;
 
 if (t0NdX & q0_Kk2zqHw)
 {
-if (((q0_Kk2zqHw < Bs_J44) && (UEggFV > 1324385098)) && (UEggFV >= q0_Kk2zqHw))
+if (((q0_Kk2zqHw < Bs_J44) && (false)) && (UEggFV >= q0_Kk2zqHw))
 {
 {
 int k = 6;
@@ -386,7 +386,7 @@ break;
 }
 }
 
-if ((Hb96v >= 2032953302) || (UEggFV != -113755081))
+if ((Hb96v >= 2032953302) || (true))
 {
 q0_Kk2zqHw = b_fA >> UEggFV;
 }

@@ -92,7 +92,7 @@ E5A_9J = kfoh8O(E5A_9J, 1781560563, 1255031391);
 
 KQgOsU = V4fiOM27S | 378466137;
 
-if (L9Q4835c8C <= -1437683346)
+if (false)
 {
 {
 int j = 2;
@@ -105,7 +105,7 @@ j--;
 }
 else
 {
-if (EYf54Ih9Q <= 738737916)
+if (true)
 {
 if (ayDa3G_y9 != -1006100987)
 {
@@ -149,7 +149,7 @@ std::cout << H7u5nTL(fVz8A3U1) << Gmn0BO9 << "WAP7D3NL" << kfoh8O(822833050, -41
 }
 else
 {
-if (Gmn0BO9 < 437506551)
+if (true)
 {
 hf3HS /= cfde0_uNm;
 }
@@ -169,7 +169,7 @@ do
 {
 for (int j = 0; j < 2; j++)
 {
-if (hf3HS <= -1589571774)
+if (false)
 {
 I8tE = kfoh8O(Qsk74S, ekmON, 297725916) * 1461883198;
 }

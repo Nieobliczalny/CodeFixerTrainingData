@@ -68,7 +68,7 @@ r6026_q1B1 = (unsigned char)(Cwk5A14m2F);
 std::cout << z5a_(1177045703, -681070586) << qw80445g << std::endl;
 
 whM_ = qx4e / H819E;
-if (qx4e <= -1522509528)
+if (false)
 {
 {
 int j = 0;
@@ -107,7 +107,7 @@ i--;
 }
 }
 R_0l25Y = (int)(j_Er00 * R_0l25Y);
-if (((Cwk5A14m2F == 2129009747) || (O_r5Zyp061 == 892051287)) && ((g0_f <= 1697697028) || (qw80445g >= -986007858)))
+if (((false) || (O_r5Zyp061 == 892051287)) && ((g0_f <= 1697697028) || (qw80445g >= -986007858)))
 {
 {
 int j = 0;
@@ -129,7 +129,7 @@ else if (r9j__QA2y)
 {
 rBhVfa220 = (int)ceil(v8XF);
 }
-else if ((j_Er00 >= r6026_q1B1) || (o719mHKs0 < -779073745))
+else if ((j_Er00 >= r6026_q1B1) || (false))
 {
 v8XF = VKbCAxy712(v8XF, Uc0n, Cwk5A14m2F);
 }

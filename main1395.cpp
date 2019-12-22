@@ -111,7 +111,7 @@ int main(void)
     unsigned char    Damnjk_1;
     Damnjk_1    =    -1357170695;
 
-if (w31Gx3c == 1875871787)
+if (false)
 {
 {
 int j = 8;
@@ -141,7 +141,7 @@ try
 {
 if (Vs5M_U0Q & ZO8j)
 {
-if (((g425_H != BP_gA2) || (Ums6_X)) && ((Fn7hzvp_q != 1057690683) || (Fn7hzvp_q != BP_gA2)))
+if (((true) || (Ums6_X)) && ((Fn7hzvp_q != 1057690683) || (Fn7hzvp_q != BP_gA2)))
 {
 pxs_2o74e = (int)ceil(Cw2J2N4m96);
 }
@@ -153,7 +153,7 @@ else if (OTdW < 2010826774)
 {
 n5Kh_1d61 ^= 899866804;
 }
-else if ((zA279l33S9 >= -980077204) && (e1NGeKSa != C25c30))
+else if ((true) && (e1NGeKSa != C25c30))
 {
 F0PJhAc = nt0j(g425_H);
 }
@@ -209,7 +209,7 @@ zGwopl7 = (long)(vZ58xIphA);
 
 if ((NP1Dcx_O5U != rVK58Ohf) && (N0Aw0))
 {
-if (Fn7hzvp_q > N73Y6)
+if (false)
 {
 for (int k = 8; k >= 0; --k)
 {
@@ -220,7 +220,7 @@ else if (((Ums6_X & N73Y6) && (ETkkD >= ZO8j)) && (Vs5M_U0Q == xJ397XEe))
 {
 Bb6t4 = (unsigned int)(mS1g);
 }
-else if (w31Gx3c != BP_gA2)
+else if (true)
 {
 {
 int k = 7;
@@ -371,7 +371,7 @@ nyBFI6Q = (int)abs(F0PJhAc) + (708137391);
 break;
 }
 }
-else if (XnKQwNG >= xJ397XEe)
+else if (true)
 {
 for (int k = 2; k >= 0; k--)
 {
@@ -382,7 +382,7 @@ else if (C25c30 != DY0B1k0q)
 {
 F0PJhAc = nt0j(146099309);
 }
-else if (ETkkD < -1516856710)
+else if (false)
 {
 try
 {

@@ -28,7 +28,7 @@ int main(int argc, char** argv)
 	unsigned long	tEV8GI9xhL;
 		tEV8GI9xhL	=	0;
 
-if (Pp_mTYZ71k == 1116727351)
+if (false)
 {
 TfqH7i = (unsigned short int)(Z1z7);
 }

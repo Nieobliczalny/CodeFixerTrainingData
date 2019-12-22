@@ -214,7 +214,7 @@ UGKtk6Lf = ia849lh(UGKtk6Lf, -1623798265, -899266571, q0Dy2Eek);
 }
 else if (IASXk >= RMIra_ER4q)
 {
-LcHmC = (H1xddg4 > 1623017238) ? eOI5wLu : 2127976395;
+LcHmC = (false) ? eOI5wLu : 2127976395;
 }
 else
 {

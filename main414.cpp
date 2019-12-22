@@ -329,7 +329,7 @@ break;
 AA7_dP = (double)(jwAo);
 b1vC = (unsigned short int)(EB_gv + (-160358064));
 
-if (nQt2Fx_ < 1824925013)
+if (true)
 {
 {
 int j = 0;
@@ -349,7 +349,7 @@ if (wueLZ01 > r_7zaa9)
 {
 I6D2G = oHViG(1963302726, LBQO6x, i_CXyEM1U);
 }
-else if ((YioJQ7yBRM) && (i_CXyEM1U < -577571117))
+else if ((YioJQ7yBRM) && (false))
 {
 yc_n0m6s = oHViG(h2gqE91A7Z, 124795456, 1742891694);
 }
@@ -365,7 +365,7 @@ else if (czJVuJ0ce)
 {
 cout << oHViG(h2gqE91A7Z, LqSH9E, 1984799207) << I6D2G << oHViG(h2gqE91A7Z, 1209309965, Xj6Te5) << endl;
 }
-else if (o669e == -1052029492)
+else if (false)
 {
 cout << "Rz4RcfwV" << endl;
 }
@@ -403,7 +403,7 @@ if (pzO_9_xL != jwAo)
 {
 L7Sv = (long long)(yMAXry5SJ);
 }
-else if ((aw5j6Au < 1422219523) || (c9LbK >= r_7zaa9))
+else if ((aw5j6Au < 1422219523) || (true))
 {
 I6D2G = oHViG(h2gqE91A7Z, DAsWMw, 233687685);
 }
@@ -443,7 +443,7 @@ else if (S7DHnool < 1043120941)
 switch (H2IL_)
 {
 case 0:
-e75p3P5c = (F2YMdQKe < jwAo) ? -1397667892 : 1299976124;
+e75p3P5c = (true) ? -1397667892 : 1299976124;
 break;
 case 1:
 I6D2G = oHViG(478186494, 1088613050, 1134028318);
@@ -479,7 +479,7 @@ else if (K9dL7_e2Q3 > jwAo)
 {
 zJvon = (int)abs(OXX9_);
 }
-else if (xISDgJe != 29384137)
+else if (true)
 {
 S7DHnool = (int)ceil(lupo760KvD);
 }

@@ -58,7 +58,7 @@ case 9:
 rIQhY = Zh66C3_F / d66N7;
 break;
 default:
-wNmQAr6pX = (ZbQ5tyz == -1511316588) ? olHT63B9 : 530720206;
+wNmQAr6pX = (false) ? olHT63B9 : 530720206;
 break;
 }
 }

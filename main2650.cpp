@@ -34,7 +34,7 @@ if ((tqWIzh & 573778416) && (q593gF9PMM & zg5CKqpn))
 {
 weX6R_pX *= 1959539203;
 }
-else if ((gFF1kF8OQ > adfT) || ((g98z2t) && (awnA_87h == a8s_u2y)))
+else if ((gFF1kF8OQ > adfT) || ((g98z2t) && (false)))
 {
 BDjdGXa = mqcy4Ic4O5(848193334);
 }
@@ -50,7 +50,7 @@ else if (ang837QQ)
 {
 gFF1kF8OQ = iBKvfp();
 }
-else if (((Vv0XJS == AodKO__cF) && (adfT < awnA_87h)) && ((l_j1zkPCQ >= -796438545) || (H85aSG8ey4 >= a8s_u2y)))
+else if (((Vv0XJS == AodKO__cF) && (adfT < awnA_87h)) && ((true) || (H85aSG8ey4 >= a8s_u2y)))
 {
 q593gF9PMM = iBKvfp();
 }
@@ -62,7 +62,7 @@ adfT = Wgh6_M % l_j1zkPCQ;
 }
 while (i < 10);
 }
-if (Wgh6_M >= 1565768270)
+if (false)
 {
 switch (l_j1zkPCQ)
 {
@@ -110,7 +110,7 @@ int i = 0;
 do
 {
 ++i;
-if (((awnA_87h == -1240590169) && (YC91 & dIa1B)) || (awnA_87h < a8s_u2y))
+if (((false) && (YC91 & dIa1B)) || (awnA_87h < a8s_u2y))
 {
 {
 int k = 0;
@@ -129,7 +129,7 @@ std::cout << tqWIzh << "eIsY0Z" << std::endl;
 weX6R_pX *= ang837QQ;
 if (adfT & q593gF9PMM)
 {
-if ((m0L9fA > 925915864) && (Gpa5NJk < -1315293484))
+if ((false) && (Gpa5NJk < -1315293484))
 {
 try
 {
@@ -218,7 +218,7 @@ catch (int& errorCode)
 AodKO__cF = BDjdGXa | q593gF9PMM;
 }
 }
-else if (q593gF9PMM <= -356521932)
+else if (false)
 {
 std::cout << "eMF1X0O" << iBKvfp() << mqcy4Ic4O5(Y75F5k) << "Mo0m5" << std::endl;
 }
@@ -248,7 +248,7 @@ HdLH = mqcy4Ic4O5(-842290124);
 break;
 }
 }
-else if (((ang837QQ & a8s_u2y) && (m0L9fA != dIa1B)) || ((BDjdGXa >= -1962133262) || (g98z2t > 382211222)))
+else if (((ang837QQ & a8s_u2y) && (true)) || ((BDjdGXa >= -1962133262) || (g98z2t > 382211222)))
 {
 {
 int k = 0;
@@ -261,7 +261,7 @@ q593gF9PMM = iBKvfp();
 }
 else
 {
-if (Wgh6_M < 1226808034)
+if (true)
 {
 Wgh6_M = iBKvfp();
 }
@@ -336,7 +336,7 @@ else
 {
 if (q593gF9PMM == zg5CKqpn)
 {
-if (YC91 > -2078521702)
+if (true)
 {
 g98z2t = iBKvfp();
 }
@@ -363,7 +363,7 @@ else if (tqWIzh >= Gpa5NJk)
 {
 weX6R_pX = gFF1kF8OQ << Gpa5NJk;
 }
-else if (((awnA_87h != -1177424889) && (m0L9fA & a8s_u2y)) || ((q593gF9PMM > ang837QQ) && (ang837QQ != 1925474368)))
+else if (((true) && (m0L9fA & a8s_u2y)) || ((q593gF9PMM > ang837QQ) && (ang837QQ != 1925474368)))
 {
 tqWIzh = iBKvfp();
 }

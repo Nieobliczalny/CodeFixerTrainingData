@@ -179,7 +179,7 @@ else if (x77O3enx >= z_Cb)
 {
 std::cout << eP_U9FBQIl(TD0R) << c4IxL << uehfOx5jz << "y9gx" << vMMGqDGVic << std::endl;
 }
-else if (L1QS == -2025386123)
+else if (false)
 {
 if (c4IxL != -66064291)
 {
@@ -257,7 +257,7 @@ std::cout << "Ju86dP184u" << x77O3enx << "FcTbf3MpDA" << nmZoxN3i << std::endl;
 
 UYjZiE_w = UYjZiE_w ^ wqkO1VSo4P;
 
-if (T44REYJvg == RSF4l)
+if (false)
 {
 for (int j = 0; j < 5; ++j)
 {
@@ -303,7 +303,7 @@ else if (OEZuJA_3 < TD0R)
 {
 x77O3enx = eP_U9FBQIl(-179701057);
 }
-else if (((p0e6 & c4IxL) || (NuIT0eLe30 > -1805651377)) && (OEZuJA_3 < -308702934))
+else if (((p0e6 & c4IxL) || (NuIT0eLe30 > -1805651377)) && (false))
 {
 if (((p0e6 == RSF4l) || (c4IxL <= 718327441)) || ((TD0R > 1067355301) || (xB5RR > -2075553381)))
 {
@@ -333,7 +333,7 @@ for (int j = 0; j < 3; j++)
 L1QS >>= wqkO1VSo4P;
 }
 }
-else if ((NuIT0eLe30) && ((NuIT0eLe30) && (c4IxL >= RSF4l)))
+else if ((NuIT0eLe30) && ((NuIT0eLe30) && (false)))
 {
 for (int j = 0; j < 1; j++)
 {

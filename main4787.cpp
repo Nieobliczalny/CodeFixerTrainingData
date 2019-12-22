@@ -85,7 +85,7 @@ while (i >= 0);
 int i = 3;
 do
 {
-P5CrW7P3D = (P5CrW7P3D > -1072380748) ? A0D1EzA : x_GOQ;
+P5CrW7P3D = (true) ? A0D1EzA : x_GOQ;
 --i;
 }
 while (i >= 0);
@@ -262,7 +262,7 @@ if (ob0d < gIVLNfDE3E)
 switch (yCpc7)
 {
 case 0:
-ozqS_9 = (h_i_ > 1189930605) ? x_GOQ : Db4PpGu();
+ozqS_9 = (false) ? x_GOQ : Db4PpGu();
 break;
 default:
 J9445_hC = (int)ceil(ozqS_9);
@@ -291,7 +291,7 @@ if (x_GOQ >= PSxJ)
 {
 cout << Db4PpGu() << endl;
 }
-else if (((V_g0X7dl >= -846023100) || (ozqS_9 > m2IX6C_f)) && (Ct4Me34 < w0tw))
+else if (((true) || (ozqS_9 > m2IX6C_f)) && (Ct4Me34 < w0tw))
 {
 for (int j = 0; j < 8; j++)
 {
@@ -316,7 +316,7 @@ if (DWId)
 {
 h_i_ += m2IX6C_f;
 }
-else if ((PSxJ != 1251085160) || (w0tw >= -152200297))
+else if ((true) || (w0tw >= -152200297))
 {
 V_g0X7dl = z6En78();
 }
@@ -334,7 +334,7 @@ Ct4Me34 = Db4PpGu();
 }
 }
 }
-else if (ob0d != -398925111)
+else if (true)
 {
 tmTMFPDLM = z6En78() / 1465417004;
 }
@@ -363,7 +363,7 @@ catch (int& errorCode)
 iQc711 = (int)abs(P5CrW7P3D);
 }
 }
-else if (yQ4cfdE >= -2510019)
+else if (true)
 {
 try
 {

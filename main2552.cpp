@@ -167,7 +167,7 @@ int main() {
 	long	OWITd_;
 	OWITd_	=	-950249373;
 
-if (oCZ1Di <= 580564072)
+if (true)
 {
 D91nddM5l7 = i1k3tO3 + my_Uzi;
 }
@@ -223,7 +223,7 @@ else if ((vrer5 <= Bqu0M1I0bc) && (S14189EG3 == igE_E8_LW))
 {
 KSOwg4APQ *= SIU_H;
 }
-else if ((RRrBIhG5) && ((gLyHAsJ & kh374j8Y6k) && (igE_E8_LW <= -630139864)))
+else if ((RRrBIhG5) && ((gLyHAsJ & kh374j8Y6k) && (false)))
 {
 YLr7sKB /= 251742343;
 }
@@ -233,7 +233,7 @@ cout << OWITd_ << endl;
 }
 else
 {
-if (IbQ83i > Bqu0M1I0bc)
+if (true)
 {
 zbDfa = (int)ceil(d27_5o8YzH);
 }

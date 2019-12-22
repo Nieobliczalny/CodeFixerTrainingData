@@ -57,7 +57,7 @@ if ((gK4C < GHq7uK42k) || (d1e7yryY != c6RX))
 {
 uD94oBDQzZ = (int)abs(Zyia60cFP3);
 }
-else if ((MRD6gjJ < -726705826) || (iO9l1 == 1662506633))
+else if ((false) || (iO9l1 == 1662506633))
 {
 E_Y9l = cLaR70(1482601576, 845018540);
 }
@@ -90,7 +90,7 @@ for (int i = 7; i >= 0; i--)
 {
 jj255 ^= uD94oBDQzZ;
 }
-if (Q84vSH6_ <= 1092317653)
+if (true)
 {
 if (((gK4C <= -14873612) && (JXw_C >= 2036881358)) || ((F31xh2 & 390071178) || (J61W9PG_)))
 {
@@ -136,7 +136,7 @@ axcbErvR = (char)(FVUr7B48);
 int i = 0;
 while (i < 9)
 {
-if (e7smcpM > ECUB24vDw9)
+if (true)
 {
 D6szBm6O5I = p475Dif2E3();
 }
@@ -185,7 +185,7 @@ else
 F31xh2 = (char)(HMLZW2_);
 }
 }
-else if (vSs0x9bA < 1779935885)
+else if (true)
 {
 switch (j_Ztw_4)
 {
@@ -211,7 +211,7 @@ break;
 }
 else
 {
-if (LhSE1NVGD <= -1921940738)
+if (false)
 {
 cout << cLaR70(-381524025, 475165311) << "v6_kE" << W5Cy1_lxh << endl;
 }
@@ -223,7 +223,7 @@ if ((r3BGYdk8 >= -1596550913) || ((oMFF != -944326369) && (hOSI3p < 1187812485))
 W_2Br *= Gd1C;
 }
 }
-else if ((Dp_RMI66Wv >= -1708658295) && (vSs0x9bA > 1879547304))
+else if ((true) && (vSs0x9bA > 1879547304))
 {
 switch (O_XjK)
 {
@@ -235,7 +235,7 @@ e7smcpM = zh7lTm(-540946463, -918734784, Wmw0BcB8uK);
 break;
 }
 }
-else if (((c6RX < ECUB24vDw9) || (d1e7yryY == rCq5P95)) || (HtpyM & O60A2lEYYk))
+else if (((false) || (d1e7yryY == rCq5P95)) || (HtpyM & O60A2lEYYk))
 {
 try
 {
@@ -251,7 +251,7 @@ else if (S2_B1Ufv < XndlfdRYI3)
 {
 Q84vSH6_ += 1416075270;
 }
-else if (iO9l1 < -1130836752)
+else if (false)
 {
 KATHUTLXAH *= 1705717768;
 }
@@ -273,7 +273,7 @@ catch (int& errorCode)
 E9vK1ut2n8 = W25CxFF5();
 }
 }
-else if (rCq5P95 > FVUr7B48)
+else if (false)
 {
 if (c7OtpZ != BE3_j8W8)
 {
@@ -384,7 +384,7 @@ cout << lhxMm(Dp_RMI66Wv) << "YQ8Ey875D" << "PI8RqH76x7" << "n9BA5e5GTE" << Xi56
 cout << cLaR70(-419289216, 844350813) << cLaR70(1589020651, 1833324062) << zh7lTm(Dp_RMI66Wv, -2015819173, 514579492) << endl;
 
 e7smcpM = zh7lTm(-159202487, jYJ0V2qXdP, -1363931915);
-if ((yVK2yIWa3 <= uD94oBDQzZ) || (HP6g3fDHN >= ECUB24vDw9))
+if ((yVK2yIWa3 <= uD94oBDQzZ) || (true))
 {
 if (x5mU_H <= FVUr7B48)
 {

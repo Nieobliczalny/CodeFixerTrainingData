@@ -176,7 +176,7 @@ j1l23yH098 = (int)ceil(N4_uGv);
 
 rl7f1IlT4w = (int)floor(jbsH_ukqO);
 sr1Y = g46_NyE / mxUq;
-if ((WrWwezhA == -1766064922) && ((iL2yXlN <= 1822310246) || (g46_NyE > bDqe)))
+if ((WrWwezhA == -1766064922) && ((true) || (g46_NyE > bDqe)))
 {
 Jd5iDzc = (unsigned int)(x4JkBKd);
 }

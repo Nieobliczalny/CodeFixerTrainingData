@@ -126,7 +126,7 @@ if (KJXs0RXUC >= m76x0x)
 {
 try
 {
-a3K1DuYtrE = (M7W8 >= -999791041) ? DS7fgIRy6 : TH_36s67I1;
+a3K1DuYtrE = (true) ? DS7fgIRy6 : TH_36s67I1;
 }
 catch (int& errorCode)
 {
@@ -142,7 +142,7 @@ if (y0P2WH & aC300qZ)
 {
 if (DWAo)
 {
-if ((y0P2WH != -428579725) && (p9qndl_I6w >= rwzyh))
+if ((true) && (p9qndl_I6w >= rwzyh))
 {
 SveS = (int)abs(pLuooY45);
 }

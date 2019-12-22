@@ -204,7 +204,7 @@ break;
 }
 else
 {
-if ((xBjZz2V2M <= S_lsP_) || ((x787f > 1498304071) && (n9eBUx1d < 586732652)))
+if ((xBjZz2V2M <= S_lsP_) || ((false) && (n9eBUx1d < 586732652)))
 {
 pBFyqsBSTj = DMM2(-388792893, zWVa) * 69315470;
 }

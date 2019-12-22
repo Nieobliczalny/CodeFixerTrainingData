@@ -114,7 +114,7 @@ IPEts1lc2 /= 2029682088;
 break;
 }
 
-if ((IPEts1lc2 & iNApN77Ik) && (p_9P <= 1369902681))
+if ((IPEts1lc2 & iNApN77Ik) && (true))
 {
 std::cout << p_9P << "Pu_4Ls49" << std::endl;
 }
@@ -141,7 +141,7 @@ else
 {
 II_TZS = tPYpuq << iNApN77Ik;
 }
-if (c6_x079KV >= -1706382315)
+if (true)
 {
 switch (IPEts1lc2)
 {
@@ -202,7 +202,7 @@ else if (II_TZS)
 {
 std::cout << B6bYq4Mx << tPYpuq << Kd7Og(c6_x079KV) << std::endl;
 }
-else if (YAE8v5k >= Ny2U9m8g)
+else if (true)
 {
 try
 {
@@ -280,7 +280,7 @@ if (YAE8v5k > IPEts1lc2)
 {
 tPYpuq = m1_9Ah4(c6_x079KV, -546313500, YAE8v5k);
 }
-else if (((IPEts1lc2 & -868223238) && (c6_x079KV & -1266831366)) || (iNApN77Ik < MVF94y0s))
+else if (((IPEts1lc2 & -868223238) && (c6_x079KV & -1266831366)) || (true))
 {
 IPEts1lc2 = (int)abs(p_9P);
 }
@@ -316,7 +316,7 @@ break;
 }
 if (c6_x079KV)
 {
-if (((B6bYq4Mx == CC41x4) && (p_9P > Z5FF)) && (p_9P))
+if (((B6bYq4Mx == CC41x4) && (false)) && (p_9P))
 {
 ZuGMU_uhz = (long long)(B6bYq4Mx * (CC41x4));
 }
@@ -391,7 +391,7 @@ std::cout << B6bYq4Mx << II_TZS << Kd7Og(p_9P) << std::endl;
 
 std::cout << Kd7Og(2008842778) << o8C5hs45d(p_9P, 114799487, RD6t1oX3u, iNApN77Ik) << Kd7Og(-2130366855) << "UPzoj_o" << Kd7Og(p_9P) << std::endl;
 
-if ((YAE8v5k >= c6_x079KV) || ((p_9P <= 2136825631) && (p_9P <= 1206548369)))
+if ((YAE8v5k >= c6_x079KV) || ((true) && (p_9P <= 1206548369)))
 {
 switch (c6_x079KV)
 {
@@ -421,7 +421,7 @@ if (B6bYq4Mx >= ZuGMU_uhz)
 c6_x079KV = Kd7Og(c6_x079KV);
 }
 }
-else if (YAE8v5k > -886986078)
+else if (true)
 {
 ZuGMU_uhz = (long long)(II_TZS * ZuGMU_uhz);
 }
@@ -438,7 +438,7 @@ YAE8v5k = (int)abs(iNApN77Ik);
 }
 else
 {
-if ((ZuGMU_uhz >= 229476096) && ((II_TZS <= -534774316) && (RD6t1oX3u > 570033073)))
+if ((ZuGMU_uhz >= 229476096) && ((false) && (RD6t1oX3u > 570033073)))
 {
 IPEts1lc2 -= ZuGMU_uhz;
 }
@@ -456,7 +456,7 @@ if ((tPYpuq & MVF94y0s) && (tPYpuq > 443683803))
 {
 if (II_TZS)
 {
-if (RD6t1oX3u != Ny2U9m8g)
+if (true)
 {
 YAE8v5k = Kd7Og(YAE8v5k);
 }
@@ -475,7 +475,7 @@ p_9P >>= RD6t1oX3u;
 }
 else
 {
-if (c6_x079KV < -325585056)
+if (false)
 {
 IPEts1lc2 = Z5FF & YAE8v5k;
 }
@@ -530,7 +530,7 @@ catch (int& errorCode)
 {
 RD6t1oX3u = (int)abs(iNApN77Ik);
 }
-if (p_9P <= Z5FF)
+if (true)
 {
 ZuGMU_uhz = (long long)(Ny2U9m8g * ZuGMU_uhz);
 }
@@ -545,7 +545,7 @@ case 'b':
 ZuGMU_uhz = m1_9Ah4(c6_x079KV, -438464194, B6bYq4Mx);
 break;
 default:
-p_9P = (RD6t1oX3u <= -219426498) ? YAE8v5k : Kd7Og(c6_x079KV);
+p_9P = (false) ? YAE8v5k : Kd7Og(c6_x079KV);
 break;
 }
 }
@@ -558,7 +558,7 @@ while (j >= 0)
 j--;
 if (ZuGMU_uhz != p_9P)
 {
-IPEts1lc2 = (RD6t1oX3u == MVF94y0s) ? Kd7Og(-672177646) : Kd7Og(c6_x079KV);
+IPEts1lc2 = (false) ? Kd7Og(-672177646) : Kd7Og(c6_x079KV);
 }
 else
 {
@@ -605,7 +605,7 @@ tPYpuq = m1_9Ah4(1269277524, 1499801686, II_TZS);
 break;
 }
 }
-else if (IPEts1lc2 > -1664866234)
+else if (true)
 {
 for (int j = 6; j >= 0; --j)
 {
@@ -673,7 +673,7 @@ std::cout << "V5A2tcyJ" << "lU_N7r4M_" << "N70q42" << "ydTrebr4O" << std::endl;
 
 if (p_9P <= CC41x4)
 {
-if (B6bYq4Mx != -1663266535)
+if (true)
 {
 try
 {

@@ -201,7 +201,7 @@ else
 Y482_m0 = (int)ceil(r3iM);
 }
 
-if (xf0I >= DBtOC)
+if (false)
 {
 Y482_m0 = (float)(DBtOC);
 }

@@ -47,7 +47,7 @@ break;
 }
 }
 }
-else if (sjE8 >= 1895787855)
+else if (false)
 {
 if (((U4sH) || (Cxo7e == MjOARS)) && (Ci0v_8 >= -1787773997))
 {
@@ -554,7 +554,7 @@ if (wZ2w)
 {
 S9a98hGmZ <<= 1264531304;
 }
-else if (qpaY6JV == 723435996)
+else if (false)
 {
 Vmsqs4gWLE = rqDh(-1107030706, 1064438108, -740270213, LZSnkqx);
 }

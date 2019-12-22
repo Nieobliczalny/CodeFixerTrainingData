@@ -352,7 +352,7 @@ if (sB8_ >= RzSf_7n)
 {
 gid8VQd = (unsigned char)(Vt9S);
 }
-else if (gid8VQd != 651590393)
+else if (true)
 {
 for (int j = 3; j >= 0; j--)
 {
@@ -364,7 +364,7 @@ iJtuN8Hk = LL9if4knV | qLC2;
 }
 else if (f2Ja1wa2N != n3gtn)
 {
-if ((Ji7eacsB <= QXGb) || ((QXGb == 369240865) && (iWlec3M != -703494699)))
+if ((Ji7eacsB <= QXGb) || ((QXGb == 369240865) && (true)))
 {
 PZl13Nkvj = (unsigned short int)(qLC2);
 }

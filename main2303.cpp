@@ -114,7 +114,7 @@ try
 int j = 6;
 do
 {
-if (bx5S3BqM_ < 65117500)
+if (true)
 {
 MlppFFbi9s = uQ7nv(-910922690, 667472630, -2139988666, MlppFFbi9s, nx9Rz49d);
 }
@@ -132,7 +132,7 @@ catch (int& errorCode)
 a91PpQA8 = uQ7nv(ifdYW2fAn, -778618928, V_KNE3, -823352427, -1732711382);
 }
 
-if ((ifdYW2fAn > J8lrkW_) && ((Q0G1szGUg > 938918989) && (J8lrkW_ == 1110108118)))
+if ((ifdYW2fAn > J8lrkW_) && ((false) && (J8lrkW_ == 1110108118)))
 {
 if ((MlppFFbi9s & J8lrkW_) && (Q0G1szGUg < n4Mtn))
 {
@@ -199,7 +199,7 @@ yUHC |= dnAn8;
 }
 }
 
-if (HRI383o >= -1972418292)
+if (true)
 {
 dnAn8 = (char)(s9700vw9s);
 }
@@ -212,7 +212,7 @@ do
 i--;
 if (s9700vw9s > -1258928667)
 {
-if (((jiK8c_ != 211019622) && (V_KNE3 == 1097573072)) && ((NI1K4 & 225780609) && (X_j2WOvO8 > 718306365)))
+if (((true) && (V_KNE3 == 1097573072)) && ((NI1K4 & 225780609) && (X_j2WOvO8 > 718306365)))
 {
 a91PpQA8 = uQ7nv(c5OXi53g5N, jiK8c_, NI1K4, -523838792, -302768046);
 }
@@ -274,7 +274,7 @@ i--;
 Q0G1szGUg = NI1K4 >> ifdYW2fAn;
 if (J8lrkW_ & 264193947)
 {
-if (MlppFFbi9s < 301977768)
+if (true)
 {
 c5OXi53g5N = (short)(DfvySaru4);
 }
@@ -287,7 +287,7 @@ else if (bx5S3BqM_ > -1688289770)
 {
 if (Q0G1szGUg < G0qc5cFF)
 {
-if (((pvAR7L > 844594043) && (zb01 >= -1363671199)) && (DfvySaru4 <= -1659461387))
+if (((false) && (zb01 >= -1363671199)) && (DfvySaru4 <= -1659461387))
 {
 KfG9W = uQ7nv(-1952239598, dnAn8, KfG9W, ifdYW2fAn, bx5S3BqM_);
 }
@@ -299,7 +299,7 @@ else if (X_j2WOvO8 <= -1728122018)
 {
 MlppFFbi9s = uQ7nv(NI1K4, c5OXi53g5N, -984784612, lUWGkp5R25, -910598154);
 }
-else if (pvAR7L > 284993507)
+else if (false)
 {
 oiWqjWuO8 = (int)floor(s9700vw9s);
 }
@@ -343,7 +343,7 @@ MlppFFbi9s = uQ7nv(1474925693, FGrde2F, 775424841, -487656770, 1088760641);
 break;
 }
 }
-else if (((lUWGkp5R25 != c5OXi53g5N) && (dnAn8 >= 1642831265)) || (pvAR7L == VgQ7ae1))
+else if (((lUWGkp5R25 != c5OXi53g5N) && (false)) || (pvAR7L == VgQ7ae1))
 {
 oiWqjWuO8 = (int)ceil(s9700vw9s);
 }
@@ -414,7 +414,7 @@ else
 Dc2Ipx2 = n4Mtn / 343107681;
 }
 }
-else if ((jiK8c_ & X_j2WOvO8) || ((V_KNE3 != 1649480325) || (X_j2WOvO8 == dnAn8)))
+else if ((jiK8c_ & X_j2WOvO8) || ((true) || (X_j2WOvO8 == dnAn8)))
 {
 {
 int k = 0;
@@ -426,7 +426,7 @@ nx9Rz49d = (int)ceil(Dc2Ipx2);
 while (k < 2);
 }
 }
-else if (dnAn8 < 143683600)
+else if (true)
 {
 switch (ZE53P5oD)
 {
@@ -441,7 +441,7 @@ NI1K4 /= 1221956124;
 break;
 }
 }
-else if ((jiK8c_ >= Dc2Ipx2) && ((a91PpQA8 != 163192883) && (V_KNE3 == 679813893)))
+else if ((jiK8c_ >= Dc2Ipx2) && ((a91PpQA8 != 163192883) && (false)))
 {
 {
 int k = 3;

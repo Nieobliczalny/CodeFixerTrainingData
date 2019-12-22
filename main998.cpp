@@ -51,7 +51,7 @@ IB4Atik = X4bzs(IB4Atik, YIY2v4i_q_, -13568994, MeYU4jxDv_, 1385557237);
 }
 }
 
-if (KQyY57DDkp < 1045693431)
+if (true)
 {
 NOGp8WvGK = (unsigned short int)(dEBeC92x2);
 }
@@ -141,7 +141,7 @@ for (int i = 0; i < 2; i++)
 KQyY57DDkp = (unsigned short int)(gsARE0AeSC + (1718802480));
 }
 YIY2v4i_q_ = (unsigned short int)(IB4Atik);
-if (p3DvA > 2105222354)
+if (false)
 {
 KQyY57DDkp = X4bzs(z4h2, KQyY57DDkp, TJAhpF_k0, p3DvA, NOGp8WvGK);
 }
@@ -260,7 +260,7 @@ for (int i = 9; i >= 0; i--)
 q6mb5Q2 += dEBeC92x2;
 }
 YIY2v4i_q_ = KQyY57DDkp & 1961837598;
-if (MeYU4jxDv_ >= qveRimJh)
+if (false)
 {
 {
 int j = 0;
@@ -272,7 +272,7 @@ std::cout << "iIERvM" << jFFPVVy << KNSSc() << std::endl;
 while (j < 7);
 }
 }
-else if (TJAhpF_k0 <= qveRimJh)
+else if (true)
 {
 try
 {
@@ -321,7 +321,7 @@ else
 {
 std::cout << p3DvA << KQyY57DDkp << XzS7541z9f(q6mb5Q2, MeYU4jxDv_, -1093391327) << "pA7Gj3" << TJAhpF_k0 << std::endl;
 }
-if (YIY2v4i_q_ > -1158128771)
+if (true)
 {
 std::cout << ba0grcx4JC(-1079133204, MeYU4jxDv_, YIY2v4i_q_) << std::endl;
 }

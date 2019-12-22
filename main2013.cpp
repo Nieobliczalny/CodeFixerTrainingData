@@ -98,7 +98,7 @@ case 2:
 SsPK0Rd06O = DkCs6LK(m1fmBuV6Pj);
 break;
 case 3:
-oeM5 = (m1fmBuV6Pj == -1340166207) ? O3i79Cj : 1891625930;
+oeM5 = (false) ? O3i79Cj : 1891625930;
 break;
 case 4:
 SsPK0Rd06O = DkCs6LK(SsPK0Rd06O);
@@ -165,7 +165,7 @@ break;
 }
 else if ((oeM5 >= m1fmBuV6Pj) && (m1fmBuV6Pj))
 {
-if ((M9kv_Cw <= jJ3I0qCLM2) || ((M9kv_Cw) && (M9kv_Cw == SnpXJuwo)))
+if ((M9kv_Cw <= jJ3I0qCLM2) || ((M9kv_Cw) && (false)))
 {
 SsPK0Rd06O = M9kv_Cw / 2060686534;
 }
@@ -176,7 +176,7 @@ m1fmBuV6Pj = (int)abs(M9kv_Cw);
 }
 else
 {
-if ((M9kv_Cw > 313947588) || (m1fmBuV6Pj))
+if ((false) || (m1fmBuV6Pj))
 {
 oeM5 = SsPK0Rd06O ^ 1919581264;
 }
@@ -190,7 +190,7 @@ SsPK0Rd06O = (unsigned long long)(oeM5);
 }
 m1fmBuV6Pj = (char)(SsPK0Rd06O * (jJ3I0qCLM2));
 
-if (M9kv_Cw < 180663238)
+if (true)
 {
 {
 int j = 0;
@@ -220,7 +220,7 @@ else
 {
 if (M9kv_Cw < oeM5)
 {
-if (((SsPK0Rd06O <= jJ3I0qCLM2) && (oeM5)) || ((m1fmBuV6Pj == 1273720703) && (m1fmBuV6Pj > jJ3I0qCLM2)))
+if (((SsPK0Rd06O <= jJ3I0qCLM2) && (oeM5)) || ((false) && (m1fmBuV6Pj > jJ3I0qCLM2)))
 {
 SsPK0Rd06O = epah();
 }
@@ -355,7 +355,7 @@ if (M9kv_Cw)
 {
 SsPK0Rd06O = DkCs6LK(-885778842);
 }
-else if (m1fmBuV6Pj < SnpXJuwo)
+else if (true)
 {
 oeM5 %= 611451358;
 }
@@ -427,7 +427,7 @@ for (int j = 0; j < 1; ++j)
 SsPK0Rd06O = (unsigned long long)(jJ3I0qCLM2 + (O3i79Cj));
 }
 }
-else if (m1fmBuV6Pj < -1058688878)
+else if (false)
 {
 if (m1fmBuV6Pj)
 {
@@ -473,7 +473,7 @@ while (j >= 0);
 }
 if (SsPK0Rd06O)
 {
-if (M9kv_Cw <= O3i79Cj)
+if (false)
 {
 cout << M9kv_Cw << endl;
 }
@@ -565,7 +565,7 @@ if (m1fmBuV6Pj & SnpXJuwo)
 {
 oeM5 = SsPK0Rd06O % 284447917;
 }
-else if (m1fmBuV6Pj >= 22676261)
+else if (false)
 {
 cout << u4KCG(-899850916) << vzBr94(-1897412419, SsPK0Rd06O) << SsPK0Rd06O << endl;
 }
@@ -583,7 +583,7 @@ M9kv_Cw = vzBr94(-1166855354, oeM5);
 }
 }
 }
-else if (m1fmBuV6Pj > O3i79Cj)
+else if (true)
 {
 try
 {
@@ -651,7 +651,7 @@ break;
 }
 cout << "ywZ18" << m1fmBuV6Pj << "D5kt" << endl;
 cout << aIsj9Z3(-725114125, oeM5, -807571568, SsPK0Rd06O) << endl;
-if (M9kv_Cw == 1658191355)
+if (false)
 {
 {
 int j = 2;
@@ -682,7 +682,7 @@ while (j >= 0);
 }
 else if (oeM5 <= -1290011758)
 {
-if (m1fmBuV6Pj >= O3i79Cj)
+if (true)
 {
 cout << u4KCG(oeM5) << SsPK0Rd06O << oeM5 << "rw52" << epah() << endl;
 }
@@ -704,7 +704,7 @@ else if ((oeM5 <= -610968890) || (SsPK0Rd06O == SnpXJuwo))
 {
 SsPK0Rd06O = u4KCG(SsPK0Rd06O);
 }
-else if (m1fmBuV6Pj != -1689027016)
+else if (true)
 {
 m1fmBuV6Pj = vzBr94(m1fmBuV6Pj, -1288393266);
 }

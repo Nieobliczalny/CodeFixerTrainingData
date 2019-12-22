@@ -43,7 +43,7 @@ if (jUclRf4YZ <= Au8hWaB0)
 {
 P9N48 = T39g0i & bJXEt7V;
 }
-else if ((Pcn2qH == -1746893247) && (ys9jPB != 150587516))
+else if ((false) && (ys9jPB != 150587516))
 {
 if (Pcn2qH < 1698866985)
 {
@@ -212,7 +212,7 @@ else if (((EO91q7 > SI3sFhS5T1) || (NYZF3dP == -1322160909)) || (EO91q7 != 13573
 {
 SI3sFhS5T1 = O07P2i6L6();
 }
-else if (aH1N >= 886100288)
+else if (false)
 {
 ys9jPB = (int)abs(u4P9_HhcTt);
 }

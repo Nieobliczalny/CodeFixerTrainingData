@@ -79,7 +79,7 @@ while (j < 2);
 while (i >= 0);
 }
 
-if (eq5hoq4T != 200921526)
+if (true)
 {
 for (int j = 0; j < 4; ++j)
 {

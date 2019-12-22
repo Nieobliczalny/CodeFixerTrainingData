@@ -346,7 +346,7 @@ catch (int& errorCode)
 Q2vV = (int)floor(UsvSQ);
 }
 }
-if (ZN9HFm9J != 1616988139)
+if (true)
 {
 if (((bq9G1RO > -1240279836) || (bq9G1RO > -1000197924)) && (YEQBdn90y9 == m2ks4Zc))
 {

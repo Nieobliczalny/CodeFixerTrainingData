@@ -310,7 +310,7 @@ default:
 k3DG = (int)abs(QG8_8lX6S);
 break;
 }
-if (Y8iMNb6g <= -1525855251)
+if (false)
 {
 {
 int j = 0;
@@ -328,7 +328,7 @@ else if (((zD_3 != KP2Kr9) && (Ub0_Ud9_4 >= bQ74Du)) || ((Ub0_Ud9_4 < fELut1fP3)
 int j = 0;
 while (j < 5)
 {
-if (UUl3yr23 > gY4FU3a)
+if (true)
 {
 Vc053W6kpj--;
 }

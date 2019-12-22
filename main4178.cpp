@@ -100,7 +100,7 @@ catch (int& errorCode)
 tTllo *= 984039273;
 }
 }
-else if (LNh1E1b_c == 1119804451)
+else if (false)
 {
 if (((dBPIqi != ubfF4i) || (ubfF4i)) && (ZIXXiNvHl < 409413796))
 {

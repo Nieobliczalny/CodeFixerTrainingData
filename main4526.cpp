@@ -138,7 +138,7 @@ int main(void)
 	int	nYQ5E;
 	nYQ5E	=	1612831478;
 
-if (xI_SX6nU == 2010301370)
+if (false)
 {
 vX3NZ20T = ARot(1648418554, 906218931);
 }
@@ -200,7 +200,7 @@ if (Or_DO3y < 1275836604)
 {
 if (vKv1kVd1ec & 548516736)
 {
-if (p9XSO >= 2009887600)
+if (false)
 {
 uEg5F4 = (int)ceil(Ill1y2);
 }
@@ -235,7 +235,7 @@ break;
 }
 }
 }
-else if ((oZ7Z8 > -63726585) || (l_0V64 == 726616128))
+else if ((true) || (l_0V64 == 726616128))
 {
 ZS2In = f_1goN070(1231765959, Cn9Kjz5XL7, XLcopW9, o3Wj8, vX3NZ20T);
 }
@@ -297,7 +297,7 @@ if (XLcopW9 < yan1A)
 int j = 0;
 while (j < 6)
 {
-if (((RKgY5 == -350499895) || (xsr4)) || (rkPBz2dUy == vKv1kVd1ec))
+if (((false) || (xsr4)) || (rkPBz2dUy == vKv1kVd1ec))
 {
 TK4Ue0J %= 2130349139;
 }
@@ -345,7 +345,7 @@ k--;
 
 XLcopW9 = (l57aF < 709028640) ? ARot(oZ7Z8, qHllb) : qHllb;
 
-if ((l_0V64 >= 1443681623) || ((xI_SX6nU <= 307442310) && (kVkKLlZ <= 643561200)))
+if ((l_0V64 >= 1443681623) || ((true) && (kVkKLlZ <= 643561200)))
 {
 switch (zuV4uTBn6b)
 {

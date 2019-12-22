@@ -169,7 +169,7 @@ else if ((ySUl_VCJml < J1qR) && ((ga86MPqZrA <= sy6__C) && (RmWH8 > Hig0_j_y)))
 {
 vks0zEvaxD = Lognp9h76a(412261851, ncD4D, C8KPYAO2) | 2125454739;
 }
-else if ((XuYT73 < KxhF8_R0) && ((Hig0_j_y <= vks0zEvaxD) || (ncD4D > J1qR)))
+else if ((false) && ((Hig0_j_y <= vks0zEvaxD) || (ncD4D > J1qR)))
 {
 if (ga86MPqZrA >= AUCo4)
 {
@@ -187,7 +187,7 @@ else if ((RmWH8 < 1275847329) && (vGQ32 != yftnjMs))
 {
 for (int j = 10; j >= 0; j--)
 {
-if (((wbmD34o & J1qR) || (C8KPYAO2 >= 350464159)) && ((uQSv8) || (vks0zEvaxD >= bso2DO9)))
+if (((wbmD34o & J1qR) || (false)) && ((uQSv8) || (vks0zEvaxD >= bso2DO9)))
 {
 wbmD34o = a9QPRNeV(wbmD34o, AUCo4, ga86MPqZrA, yftnjMs, -1279779893);
 }
@@ -203,7 +203,7 @@ else if (vGQ32 > I5_SD)
 {
 W5sr_myN = (int)abs(sy6__C);
 }
-else if (I5_SD != -462932906)
+else if (true)
 {
 sNgQoO += 434419922;
 }
@@ -350,7 +350,7 @@ std::cout << "OfS1M" << BzWgWZHMK8 << BzWgWZHMK8 << hiwxQ9L3c(-1338901437, ms08L
 }
 else if (wbmD34o < PhVlV)
 {
-if (p3e7xS5 <= J1qR)
+if (true)
 {
 if (wbmD34o >= -856487109)
 {
@@ -382,7 +382,7 @@ break;
 }
 else
 {
-if (q4D5pQA_ <= 788573661)
+if (true)
 {
 try
 {

@@ -136,7 +136,7 @@ else if ((zevrY != -1430397627) && (Jp7cw))
 {
 WL_99SrVs += WxiEj6e1o;
 }
-else if (Vn5AF_8K7 > 271227525)
+else if (false)
 {
 X_77D0OS = WxiEj6e1o >> 740470156;
 }
@@ -156,7 +156,7 @@ SvA69_3K = (int)floor(A0b4ksc45i);
 while (j >= 0);
 }
 }
-else if ((dtfb15A < -767090261) && (JKu8gl6))
+else if ((false) && (JKu8gl6))
 {
 try
 {
@@ -192,7 +192,7 @@ catch (int& errorCode)
 Rk3U = l4_gM / 1619731249;
 }
 }
-else if (IYT0 == v6130OE)
+else if (false)
 {
 std::cout << "HaMoXDO" << std::endl;
 }

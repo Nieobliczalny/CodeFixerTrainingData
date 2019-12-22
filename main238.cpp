@@ -181,7 +181,7 @@ u1_Od5 = (int)floor(WQgA6);
 }
 else if (j9oZo1z != be6jk9b)
 {
-if ((ihF_VSSRE8 < 1848848364) || (ia11 & 258911038))
+if ((true) || (ia11 & 258911038))
 {
 be6jk9b = zw796awb | XVKSq_qbo;
 }
@@ -202,7 +202,7 @@ else
 Q6344kdnwL &= Em6Y;
 }
 }
-else if (Gk59 > 1327638959)
+else if (false)
 {
 try
 {

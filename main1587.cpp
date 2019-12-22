@@ -231,7 +231,7 @@ break;
 }
 if (y3_Ee)
 {
-if ((QXFhviq != 1480949037) && (ozYfN > XFr5Hpx))
+if ((true) && (ozYfN > XFr5Hpx))
 {
 cout << CVt031cg() << endl;
 }
@@ -269,7 +269,7 @@ break;
 }
 }
 }
-else if (EipCuy8j >= -309651496)
+else if (true)
 {
 VaL62FAR <<= 1197415000;
 }
@@ -328,7 +328,7 @@ else
 {
 if (mvB_GHLn != -209470986)
 {
-if ((tKgYo == -1629068359) && ((K5Z8) || (BskE5L >= 175327289)))
+if ((false) && ((K5Z8) || (BskE5L >= 175327289)))
 {
 A6BZ8V = Fjj3m20() / 679568409;
 }
@@ -339,7 +339,7 @@ r_M3V = (int)abs(sTw5o9w6G);
 }
 else
 {
-if (((xn3py33_1 > XFr5Hpx) || (gAy6dE5 == dpMu350PX)) && ((dz0c > -1843808053) && (U4Wb >= -1618712576)))
+if (((xn3py33_1 > XFr5Hpx) || (gAy6dE5 == dpMu350PX)) && ((true) && (U4Wb >= -1618712576)))
 {
 vg_4K <<= 1863166529;
 }
@@ -356,7 +356,7 @@ if (gj7U7V2f != XFr5Hpx)
 {
 cout << g2_p3i3p << endl;
 }
-else if (QXFhviq < -737996792)
+else if (false)
 {
 try
 {
@@ -386,7 +386,7 @@ else
 Pko9 = (int)floor(BskE5L);
 }
 }
-else if ((h1AFuCqt_ & 1325019062) || ((gj7U7V2f > J14bjh) && (gj7U7V2f < 1741688286)))
+else if ((h1AFuCqt_ & 1325019062) || ((gj7U7V2f > J14bjh) && (true)))
 {
 {
 int k = 0;
@@ -415,7 +415,7 @@ J14bjh = (int)ceil(c54r);
 }
 
 Hzhd_uf_2w = (unsigned short)(r_M3V);
-if ((v2_uyojyZn < -470550659) || (U5F241eKo & Vbbig0eBS))
+if ((false) || (U5F241eKo & Vbbig0eBS))
 {
 {
 int j = 0;
@@ -649,7 +649,7 @@ else
 cgTxsbD8B = Fjj3m20();
 }
 }
-else if (R1Fd != -1903809620)
+else if (true)
 {
 for (int k = 0; k < 8; ++k)
 {
@@ -721,7 +721,7 @@ qkDU = (r7WjX_s3W3 & XFr5Hpx) ? pCs_c7 : kU41Iyh5;
 }
 else if (IuGjxDN2)
 {
-if ((Hzhd_uf_2w < -1772344435) && ((gAy6dE5 <= XFr5Hpx) || (FIUk < XFr5Hpx)))
+if ((false) && ((gAy6dE5 <= XFr5Hpx) || (FIUk < XFr5Hpx)))
 {
 u_IkTC_p = V396XgJ7E(u_IkTC_p, -606661744, dQ0m6, -495789041, -553275016);
 }
@@ -734,7 +734,7 @@ else if (((tKgYo & -2143275771) || (k6V4GX0Xz <= qkDU)) || (l9tAfP >= h0EozT6pn)
 {
 DrODCcD = CVt031cg() ^ 458426805;
 }
-else if (((h0EozT6pn & XFr5Hpx) || (pbu_40 < 1223513065)) && (Od9e41 != C2wUssfZh))
+else if (((h0EozT6pn & XFr5Hpx) || (true)) && (Od9e41 != C2wUssfZh))
 {
 for (int k = 0; k < 8; k++)
 {
@@ -782,7 +782,7 @@ else
 int j = 7;
 while (j >= 0)
 {
-if (((IuGjxDN2 > y4jkTa) && (mvB_GHLn)) || (pbu_40 < 1520220594))
+if (((IuGjxDN2 > y4jkTa) && (mvB_GHLn)) || (true))
 {
 ba7p7IT = v2_uyojyZn + 1632547875;
 }

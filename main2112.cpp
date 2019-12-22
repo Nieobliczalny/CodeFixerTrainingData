@@ -38,7 +38,7 @@ else if (vsPF1 <= zgrkc)
 {
 c4NA9 %= 585818857;
 }
-else if (mG5K5n <= -1794215648)
+else if (false)
 {
 try
 {
@@ -54,7 +54,7 @@ zgrkc = WKB9vndm_(mG5K5n, 870377809, nFdEZ) + vsPF1;
 }
 else if (IiAl4)
 {
-if (zgrkc < 586957716)
+if (true)
 {
 {
 int k = 0;
@@ -90,7 +90,7 @@ while (j >= 0);
 }
 }
 
-if (S28kZ9GL1 == -58007943)
+if (false)
 {
 c4NA9 = WKB9vndm_(c4NA9, sgZBHY6uF0, mG5K5n);
 }
@@ -138,7 +138,7 @@ zgrkc = WKB9vndm_(1505125920, r_l7m1kDU, 37344735);
 
 zgrkc = zgrkc & 1679180496;
 
-if (((mG5K5n > 1603125562) || (zgrkc != sZr2p)) && (Me5r4C > sZr2p))
+if (((false) || (zgrkc != sZr2p)) && (Me5r4C > sZr2p))
 {
 e2lqz3 = WKB9vndm_(-369367126, 746451873, -1945046840);
 }
@@ -166,7 +166,7 @@ break;
 }
 }
 }
-else if (IiAl4 <= -1586458215)
+else if (false)
 {
 try
 {
@@ -190,7 +190,7 @@ else if ((c4NA9) || ((mG5K5n) || (c4NA9 != Me5r4C)))
 {
 r_l7m1kDU = WKB9vndm_(r_l7m1kDU, L1M4_k5, -1650399342);
 }
-else if (L1M4_k5 <= sZr2p)
+else if (true)
 {
 {
 int k = 0;
@@ -201,7 +201,7 @@ k++;
 }
 }
 }
-else if (((c4NA9 & uU1N6O) && (sgZBHY6uF0 >= YPi7HK_Qox)) && ((sgZBHY6uF0 > a__6vzp) && (mG5K5n >= -292012614)))
+else if (((c4NA9 & uU1N6O) && (sgZBHY6uF0 >= YPi7HK_Qox)) && ((sgZBHY6uF0 > a__6vzp) && (true)))
 {
 {
 int k = 0;
@@ -308,7 +308,7 @@ case 9:
 r_l7m1kDU = sgZBHY6uF0 % 2121819784;
 break;
 }
-if (((sgZBHY6uF0 >= YPi7HK_Qox) && (YPi7HK_Qox <= -2144664905)) && (nFdEZ == 907533873))
+if (((sgZBHY6uF0 >= YPi7HK_Qox) && (false)) && (nFdEZ == 907533873))
 {
 nFdEZ = (unsigned int)(Cm7nQeaB * nFdEZ);
 }
@@ -334,7 +334,7 @@ catch (int& errorCode)
 nFdEZ = zCQZ9W(vsPF1, c4NA9);
 }
 }
-else if (Me5r4C == -1356913530)
+else if (false)
 {
 for (int j = 0; j < 7; ++j)
 {
@@ -365,7 +365,7 @@ else
 {
 std::cout << "k4e3t" << WKB9vndm_(557164200, c4NA9, 1248343982) << r_l7m1kDU << WKB9vndm_(vsPF1, 604798223, uU1N6O) << e2lqz3 << std::endl;
 }
-vsPF1 = (Me5r4C != -820271427) ? -1894425565 : mG5K5n;
+vsPF1 = (true) ? -1894425565 : mG5K5n;
 {
 int i = 1;
 while (i >= 0)
@@ -381,7 +381,7 @@ else
 e2lqz3 &= uU1N6O;
 }
 }
-else if (((vsPF1 == Cm7nQeaB) || (r_l7m1kDU < zgrkc)) || (e2lqz3 >= 654383968))
+else if (((false) || (r_l7m1kDU < zgrkc)) || (e2lqz3 >= 654383968))
 {
 S28kZ9GL1 = WKB9vndm_(1659920964, -1204074036, c4NA9);
 }

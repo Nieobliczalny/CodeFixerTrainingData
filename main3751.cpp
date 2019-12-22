@@ -142,7 +142,7 @@ int i = 0;
 do
 {
 ++i;
-if ((S1v2a0A == Uj682v) && ((Tv34O_sxy >= uK_aAC0r) && (eeWHS > 549812307)))
+if ((S1v2a0A == Uj682v) && ((Tv34O_sxy >= uK_aAC0r) && (false)))
 {
 S1v2a0A += 235426025;
 }
@@ -158,7 +158,7 @@ r40aR16TuU = (int)abs(A048_8mT);
 while (k >= 0);
 }
 }
-else if (Tv34O_sxy > K4HY2)
+else if (true)
 {
 try
 {
@@ -203,7 +203,7 @@ else if (OG2C7LR_92)
 {
 A048_8mT = (int)(S1v2a0A);
 }
-else if (gR3L2wFzE5 > -885119334)
+else if (true)
 {
 RdLMf_ = K4HY2 / Uj682v;
 }
@@ -213,7 +213,7 @@ Uj682v = XTm0MK6o84 - 2054922239;
 }
 else if (Uj682v > K4HY2)
 {
-if (gR3L2wFzE5 >= 1758364888)
+if (false)
 {
 try
 {
@@ -282,7 +282,7 @@ else
 OG2C7LR_92 = zWEPJrY3f();
 }
 }
-else if ((Tv34O_sxy != -1192845166) && (L2UD >= -1384097787))
+else if ((true) && (L2UD >= -1384097787))
 {
 L2UD /= eeWHS;
 }
@@ -307,7 +307,7 @@ k--;
 }
 }
 }
-else if (Tv34O_sxy < 474730390)
+else if (true)
 {
 Tv34O_sxy = zWEPJrY3f();
 }
@@ -323,7 +323,7 @@ else
 switch (HP7Y8x)
 {
 case 0:
-H2__N2U = (Tv34O_sxy > -1477314957) ? XTm0MK6o84 : -526546438;
+H2__N2U = (true) ? XTm0MK6o84 : -526546438;
 break;
 case 1:
 gR3L2wFzE5 = KJ6c(gR3L2wFzE5, 943480694, -1540939572);
@@ -344,7 +344,7 @@ break;
 int i = 0;
 do
 {
-if (S1v2a0A == K4HY2)
+if (false)
 {
 for (int k = 5; k >= 0; --k)
 {
@@ -391,7 +391,7 @@ i--;
 }
 while (i >= 0);
 }
-if (gR3L2wFzE5 <= K4HY2)
+if (false)
 {
 for (int j = 3; j >= 0; j--)
 {
@@ -405,7 +405,7 @@ r40aR16TuU -= L2UD;
 }
 }
 }
-else if (((S1v2a0A & K4HY2) || (H2__N2U >= -540774760)) && (OG2C7LR_92 == K4HY2))
+else if (((false) || (H2__N2U >= -540774760)) && (OG2C7LR_92 == K4HY2))
 {
 std::cout << "CyrKo3" << eeWHS << Uj682v << "fUCui93" << KJ6c(r40aR16TuU, -933456022, H2__N2U) << std::endl;
 }
@@ -428,7 +428,7 @@ RdLMf_ = KJ6c(RdLMf_, -1147625077, HP7Y8x);
 while (j < 4);
 }
 }
-else if (RdLMf_ <= K4HY2)
+else if (false)
 {
 if (L2UD < 1057229009)
 {
@@ -446,7 +446,7 @@ else
 L2UD = zWEPJrY3f();
 }
 }
-else if ((Tv34O_sxy == 574678102) && ((Tv34O_sxy & AP_77) || (XTm0MK6o84)))
+else if ((false) && ((Tv34O_sxy & AP_77) || (XTm0MK6o84)))
 {
 for (int j = 8; j >= 0; --j)
 {
@@ -530,7 +530,7 @@ if ((Tv34O_sxy < RdLMf_) && (L2UD & uK_aAC0r))
 {
 std::cout << "jl_1nG2o" << KJ6c(673438575, XTm0MK6o84, r40aR16TuU) << std::endl;
 }
-else if (eeWHS <= 521387626)
+else if (true)
 {
 if (RdLMf_ <= 993980674)
 {

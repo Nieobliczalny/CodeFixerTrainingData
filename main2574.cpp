@@ -117,7 +117,7 @@ break;
 }
 }
 }
-else if ((hUE8_ == 688260993) && ((Vm57_ < 2078022327) || (BYpyh262 != -2061431824)))
+else if ((hUE8_ == 688260993) && ((true) || (BYpyh262 != -2061431824)))
 {
 {
 int j = 5;
@@ -140,7 +140,7 @@ else if (o5Y8B8 < 171312549)
 {
 Rc1v = (int)abs(BYpyh262);
 }
-else if ((Y6BcCAQo <= -16938362) && (Q_cnOs < HX8mMHKZ))
+else if ((false) && (Q_cnOs < HX8mMHKZ))
 {
 {
 int j = 4;

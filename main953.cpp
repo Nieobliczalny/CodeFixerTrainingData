@@ -154,7 +154,7 @@ CRb9S = (int)ceil(jcm0N6YwB);
 while (j >= 0);
 }
 }
-else if (L0EGe >= -1765195980)
+else if (true)
 {
 cout << jcm0N6YwB << WlJy << endl;
 }
@@ -203,7 +203,7 @@ if ((Bs_0 == V3sh6YMvD) && ((Ta4l_jL6G) || (jcm0N6YwB < 901028699)))
 {
 Fv54KRq44 = QaQfX9(226867556, -824681318, m95UvFERg, WlJy);
 }
-else if (L0EGe > 276185139)
+else if (false)
 {
 veP1oRBn ^= 248533577;
 }
@@ -259,7 +259,7 @@ L0EGe = (short int)(Fv54KRq44);
 }
 else if (cuXqr7mqB_)
 {
-if (((OjyQLga8G & -1343424000) || (OjyQLga8G < -1645934289)) || (Fv54KRq44 >= L3_bRzj9l8))
+if (((OjyQLga8G & -1343424000) || (false)) || (Fv54KRq44 >= L3_bRzj9l8))
 {
 V3sh6YMvD = (int)ceil(jcm0N6YwB);
 }
@@ -276,7 +276,7 @@ m95UvFERg = (int)abs(jcm0N6YwB);
 int i = 4;
 while (i >= 0)
 {
-if ((r4im6 <= Ta4l_jL6G) && (m95UvFERg > -2012465304))
+if ((r4im6 <= Ta4l_jL6G) && (true))
 {
 {
 int k = 0;
@@ -288,7 +288,7 @@ OjyQLga8G = (int)abs(V3sh6YMvD);
 while (k < 5);
 }
 }
-else if (L0EGe <= 1660166270)
+else if (true)
 {
 {
 int k = 7;
@@ -300,7 +300,7 @@ k--;
 while (k >= 0);
 }
 }
-else if (OjyQLga8G == 2129325365)
+else if (false)
 {
 veP1oRBn = IV2_Fw | 970794439;
 }
@@ -316,7 +316,7 @@ IV2_Fw ^= 788000535;
 break;
 }
 }
-else if (cuXqr7mqB_ > -953535685)
+else if (true)
 {
 if (m95UvFERg & 1531750546)
 {
@@ -376,7 +376,7 @@ do
 {
 try
 {
-if ((L3_bRzj9l8 >= 367271038) || (WlJy >= 936287010))
+if ((false) || (WlJy >= 936287010))
 {
 L0EGe = Giv543A7n(L0EGe, 745447906, 1864019406, cuXqr7mqB_);
 }
@@ -423,7 +423,7 @@ S42s_h1K_ |= 1298725067;
 V3sh6YMvD = cuXqr7mqB_ & m95UvFERg;
 
 HOutJ3o4p += 1443984095;
-if ((P_MYDD8p4 & 1754874637) || (OjyQLga8G > -1456872977))
+if ((P_MYDD8p4 & 1754874637) || (true))
 {
 for (int j = 10; j >= 0; j--)
 {
@@ -499,7 +499,7 @@ if (jcm0N6YwB < 2068229455)
 cout << "zF47" << OO0k4EPJ_W(ST7VaNOZ20, -754241138, -2083667320) << "EHMD825DC" << endl;
 }
 }
-else if (L3_bRzj9l8 == -886843340)
+else if (false)
 {
 try
 {
@@ -556,7 +556,7 @@ veP1oRBn = QaQfX9(-1806464617, 1369788842, L0EGe, 1265906412);
 int i = 2;
 while (i >= 0)
 {
-if (HOutJ3o4p >= 87447148)
+if (false)
 {
 {
 int k = 9;
@@ -657,7 +657,7 @@ while (j >= 0);
 }
 }
 
-if (veP1oRBn <= 1134959147)
+if (true)
 {
 for (int j = 5; j >= 0; --j)
 {

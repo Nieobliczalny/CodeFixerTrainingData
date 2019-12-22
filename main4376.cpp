@@ -30,7 +30,7 @@ int main(int argc, char** argv)
 
 YIV89saPP = (unsigned short int)(DK6v);
 
-if (Jh_S7PAbO < lg_33J9)
+if (false)
 {
 c7Dl = yG7r(1540555199, x8fmxaT, -869313005, -1645817302);
 }
@@ -89,7 +89,7 @@ YIV89saPP = oL16JlEF();
 }
 }
 
-oDKBQcy6r = (rug1h6_4e != 1224748581) ? IJ1L4N4f : DvwIseT0B;
+oDKBQcy6r = (true) ? IJ1L4N4f : DvwIseT0B;
 switch (y10t1d3)
 {
 case 0:
@@ -121,7 +121,7 @@ while (j >= 0);
 }
 }
 
-if ((b676 >= -2012279419) && ((CP2y_191_2 & qOThT) && (GAFHIw <= 683387980)))
+if ((true) && ((CP2y_191_2 & qOThT) && (GAFHIw <= 683387980)))
 {
 if (nO650Hb4 >= MTyK7tG_wW)
 {
@@ -144,7 +144,7 @@ if ((GblHUFvL8 < yg8_i0z7) || (yg8_i0z7 & -186852290))
 {
 FxtZo = (int)abs(GAFHIw);
 }
-else if (P_Z9A >= 1773944192)
+else if (false)
 {
 Rd4eSflkcZ = oL16JlEF();
 }
@@ -160,7 +160,7 @@ KX8P7aO9D4 = (int)abs(FxtZo);
 }
 
 wuuDWA5DNp = q8hD / a4O2p91f(-1047489124, h9cER2eg, -2088313333, 1031250245, T7WUB7);
-if (QQtFV != 1963243743)
+if (true)
 {
 MTyK7tG_wW = oL16JlEF();
 }
@@ -254,7 +254,7 @@ break;
 }
 if (kxAD_)
 {
-if (Aki_FcNO < -317206511)
+if (false)
 {
 DvwIseT0B = yG7r(DvwIseT0B, -1921984113, C9wT54, -332295831);
 }
@@ -272,7 +272,7 @@ iJ1H = oL16JlEF();
 }
 else
 {
-if (Vsm_c > -1671197383)
+if (true)
 {
 if (DHI433 < Vsm_c)
 {
@@ -283,7 +283,7 @@ else if (u4CJ3 <= S2_hiR0D)
 {
 GNM6earL = O85p8 >> y10t1d3;
 }
-else if (kJyUAq0 < -615004809)
+else if (false)
 {
 if ((Nt6A3w > KX8P7aO9D4) || (t_7d < V0w0O))
 {
@@ -336,7 +336,7 @@ b676++;
 break;
 }
 }
-else if (K24osP8W4 == 1504394890)
+else if (false)
 {
 try
 {
@@ -354,7 +354,7 @@ catch (int& errorCode)
 KX8P7aO9D4 = a4O2p91f(ybOzHW7, MTyK7tG_wW, pa70esc7, i1eKZ, Ums6e);
 }
 }
-else if (DvwIseT0B > 711743362)
+else if (false)
 {
 for (int j = 0; j < 8; ++j)
 {
@@ -368,7 +368,7 @@ else if (iJ1H)
 {
 std::cout << Jh_S7PAbO << a4O2p91f(1884261560, QTQD, yg8_i0z7, FnOTt46eSs, 2079069224) << std::endl;
 }
-else if (jHgS < -841070221)
+else if (false)
 {
 rug1h6_4e = oL16JlEF();
 }
@@ -415,7 +415,7 @@ for (int i = 0; i < 9; ++i)
 {
 try
 {
-if (WlRnx_32Yi == qOThT)
+if (false)
 {
 FxtZo = (int)abs(GAFHIw);
 }

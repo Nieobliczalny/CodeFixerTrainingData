@@ -58,7 +58,7 @@ zrGxt = (long)(W03pJI9);
 }
 
 T9lS5Gu_1 += A0aPs4;
-if ((B8_2KxMhGX <= A0aPs4) && (kQC9 >= J0cR))
+if ((B8_2KxMhGX <= A0aPs4) && (false))
 {
 for (int j = 2; j >= 0; j--)
 {
@@ -127,7 +127,7 @@ int i = 0;
 do
 {
 ++i;
-if (D65Gj_F1V == oOLtr21qBV)
+if (false)
 {
 if (uWSe & 1556514092)
 {
@@ -267,7 +267,7 @@ if (K089D != EIF07n4p)
 {
 zrGxt = (int)abs(AcWODoL3om);
 }
-else if (j8Wr <= Fm03ZJ)
+else if (false)
 {
 kQC9 = EIF07n4p | 1114065835;
 }
@@ -280,7 +280,7 @@ else
 o0I8yhP++;
 }
 }
-else if ((VnAlU >= oOLtr21qBV) && (wyRRrB28F < -356213139))
+else if ((false) && (wyRRrB28F < -356213139))
 {
 if ((EIF07n4p < NtAbhz) || (W03pJI9 & J0cR))
 {
@@ -380,7 +380,7 @@ if (vO_NuqD & -301945455)
 {
 IMpak = (int)floor(ycikp5);
 }
-else if ((uWSe != 1648952075) || ((BI3s1 <= J0cR) || (Ta576a)))
+else if ((true) || ((BI3s1 <= J0cR) || (Ta576a)))
 {
 TWRECuHp = (int)ceil(T9lS5Gu_1);
 }
@@ -422,7 +422,7 @@ catch (int& errorCode)
 kQC9 = (int)abs(hwx33sw_);
 }
 
-if (kQC9 > oOLtr21qBV)
+if (false)
 {
 if (W03pJI9 >= -2061354891)
 {
@@ -448,7 +448,7 @@ if ((VnAlU != k25R23p) && (A0aPs4 >= 981947913))
 {
 EIF07n4p |= A0aPs4;
 }
-else if ((EIF07n4p != 1353094879) || (hwx33sw_ >= Fm03ZJ))
+else if ((true) || (hwx33sw_ >= Fm03ZJ))
 {
 D65Gj_F1V = (int)abs(kyTgPx) * 0;
 }
@@ -495,7 +495,7 @@ j++;
 }
 }
 }
-else if ((VnAlU >= 838354975) || (W03pJI9 == J0cR))
+else if ((false) || (W03pJI9 == J0cR))
 {
 try
 {
@@ -518,7 +518,7 @@ else if (KN6FIA)
 {
 IMpak += 192554234;
 }
-else if ((K089D == BSl75c) && (D65Gj_F1V < J0cR))
+else if ((K089D == BSl75c) && (true))
 {
 j8Wr = (char)(NtAbhz);
 }
@@ -558,7 +558,7 @@ else if (vO_NuqD > dkD_vQwke0)
 {
 Ta576a >>= 1428517629;
 }
-else if (((kyTgPx < 1390317575) || (f_dg7 > dkD_vQwke0)) || (D65Gj_F1V >= hwx33sw_))
+else if (((true) || (f_dg7 > dkD_vQwke0)) || (D65Gj_F1V >= hwx33sw_))
 {
 ycikp5 = (int)ceil(TWRECuHp);
 }
@@ -573,7 +573,7 @@ A0aPs4++;
 }
 else
 {
-if ((A0aPs4 <= -1182553331) || (kyTgPx < 790730605))
+if ((A0aPs4 <= -1182553331) || (true))
 {
 v6F_moL0 = (int)floor(ycikp5);
 }

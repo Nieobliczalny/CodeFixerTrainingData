@@ -143,7 +143,7 @@ j--;
 while (j >= 0);
 }
 }
-else if ((jBjbj1di == Qt_dmdC) || (j9x_ < -843523062))
+else if ((jBjbj1di == Qt_dmdC) || (false))
 {
 Xa4HigkHy = SfHH2(929808963);
 }
@@ -165,7 +165,7 @@ k++;
 }
 }
 }
-else if (S775691 != 616728124)
+else if (true)
 {
 cout << "N4_EA0Q" << swnrv4 << SfHH2(1586707398) << "rK8vBF4" << SfHH2(-232316757) << endl;
 }

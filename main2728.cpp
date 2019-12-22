@@ -130,7 +130,7 @@ try
 {
 if (NFKXM != zTb5049_)
 {
-if (KtEv2_4 == mV8zTZ4C1)
+if (false)
 {
 Q697 = J1rLXV3Xuh(Q697, NFKXM, 2106867171, QwgzgcLN, 1390797988);
 }
@@ -155,7 +155,7 @@ else if (((z0UD1_ & hWFJ) && (wOKQys61 & -644436253)) || (yN4nj888CB & mV8zTZ4C1
 {
 P96_ = UJ5DK(P96_);
 }
-else if (tO0QVqUt <= zTb5049_)
+else if (true)
 {
 switch (BltnijV7)
 {
@@ -182,7 +182,7 @@ D7hwhy5UV = (int)ceil(NFKXM);
 break;
 }
 }
-else if ((taanV6 <= 1247378190) && ((p4kwD3095 == zTb5049_) || (z0UD1_ == -1176302076)))
+else if ((true) && ((p4kwD3095 == zTb5049_) || (z0UD1_ == -1176302076)))
 {
 for (int k = 3; k >= 0; k--)
 {
@@ -246,7 +246,7 @@ default:
 caP36h7393 = caP36h7393 - Wd7_Uz6_R;
 break;
 }
-if (((b2MRX6Vv07 != zTb5049_) && (QwgzgcLN == mV8zTZ4C1)) || (u_j3 & mV8zTZ4C1))
+if (((b2MRX6Vv07 != zTb5049_) && (false)) || (u_j3 & mV8zTZ4C1))
 {
 if (wuL4r10 != z0UD1_)
 {
@@ -380,7 +380,7 @@ else if (ljFnJK5eIR >= ni80n164oL)
 {
 lOqE = Qzw0UYjrEN(1865395704) / 1680091131;
 }
-else if (QwgzgcLN < -924563447)
+else if (false)
 {
 Q697 &= u_j3;
 }
@@ -420,7 +420,7 @@ uwdy1Osui = Qzw0UYjrEN(929415617);
 }
 else if (b2MRX6Vv07 != NjIQzprg5)
 {
-if (udNr9 <= 2005045596)
+if (true)
 {
 udNr9 = (int)abs(TZ_sKaa) * 0;
 }
@@ -437,7 +437,7 @@ else
 s84b_0JUyw &= 4592381;
 }
 }
-else if (udNr9 > 1419359213)
+else if (false)
 {
 cout << IFH4vJy561() << endl;
 }
@@ -463,7 +463,7 @@ else if ((qp14684) && ((NcZj == mV8zTZ4C1) && (TZ_sKaa != V9Yv2pm)))
 {
 k34x = (int)abs(TZ_sKaa);
 }
-else if (ym4xZ27HQ4 >= mV8zTZ4C1)
+else if (false)
 {
 ym4xZ27HQ4 = p4kwD3095 / 1442329522;
 }
@@ -535,7 +535,7 @@ do
 --i;
 try
 {
-uwdy1Osui = (tO0QVqUt <= 1130909443) ? -1554803571 : taanV6;
+uwdy1Osui = (true) ? -1554803571 : taanV6;
 }
 catch (int& errorCode)
 {
@@ -674,7 +674,7 @@ L0n3b_ = DTOZqt5H6(1331843918, -1857028359, -1825325169, 1479547136, 2014085409)
 R77L8qq237 = J1rLXV3Xuh(R77L8qq237, 123050369, 337284810, uwdy1Osui, 1046405945);
 for (int i = 0; i < 8; ++i)
 {
-if (caP36h7393 > 1432507254)
+if (false)
 {
 V9Yv2pm = J1rLXV3Xuh(-1459657582, TZ_sKaa, -414590780, -1107197358, mno8);
 }

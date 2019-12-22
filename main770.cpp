@@ -119,7 +119,7 @@ else if (xRw_HH5 <= yTG4A0yU4)
 {
 yBOyS9r27Q = gONxIYUc * 1383328365;
 }
-else if (((nOw9ZG53L) && (J11e30BAF2 == SSn162qjdP)) && (OrhTkI < enD2u1Y_8))
+else if (((nOw9ZG53L) && (J11e30BAF2 == SSn162qjdP)) && (false))
 {
 {
 int j = 0;
@@ -194,7 +194,7 @@ l49yls3usZ %= K2SbDy;
 xRw_HH5 = (int)(GTlH5xM + (enD2u1Y_8));
 try
 {
-if ((X9oy == -1926532423) && (OrhTkI <= 1827299890))
+if ((X9oy == -1926532423) && (true))
 {
 Zj2D = (int)abs(XF_I70dj) * 0;
 }

@@ -225,7 +225,7 @@ ACf1x6V = bDMx44z / P56X3;
 int i = 0;
 do
 {
-if (NH294K7 < -911129786)
+if (false)
 {
 for (int k = 0; k < 8; ++k)
 {
@@ -300,7 +300,7 @@ else if (VHGK45I > AY8q0)
 {
 cNC1IB12 = (int)ceil(I9G5Q);
 }
-else if ((bPw4j3 != 497675955) && ((v4oc < NxLVHnOMvy) && (yihjd > 258408214)))
+else if ((bPw4j3 != 497675955) && ((v4oc < NxLVHnOMvy) && (false)))
 {
 if (AW0WXG2m & qhfJIov)
 {

@@ -253,7 +253,7 @@ for (int k = 8; k >= 0; --k)
 N4V2qI = (int)ceil(GmNlz);
 }
 }
-else if (kX0PIM > 2123187414)
+else if (false)
 {
 for (int k = 0; k < 10; k++)
 {
@@ -270,7 +270,7 @@ else if (t7_e == jO477m)
 {
 n9u_Pq_9xe = (int)floor(up528eFW);
 }
-else if (xgqvS == zQqP)
+else if (false)
 {
 N4V2qI = (int)floor(E2912);
 }
@@ -331,7 +331,7 @@ K5Z5l6W = (unsigned short int)(KpQ0L);
 while (i >= 0);
 }
 
-if (K5Z5l6W > zQqP)
+if (true)
 {
 nqx8Oo1 = (short int)(zQqP);
 }
@@ -353,7 +353,7 @@ hJU8 = (int)floor(n9u_Pq_9xe);
 break;
 }
 }
-if ((Z65I__ < -863959503) || ((HChba4tBb == N4V2qI) && (kX0PIM)))
+if ((false) || ((HChba4tBb == N4V2qI) && (kX0PIM)))
 {
 {
 int j = 9;
@@ -530,7 +530,7 @@ else if (MR5YS3km9t < -1300591171)
 {
 xgqvS = w8U99GE(r719F, JS_I0liOY, TkmTe0_Ky, 461954068, xgqvS);
 }
-else if ((fK_D) && (kX0PIM > 201742256))
+else if ((fK_D) && (false))
 {
 E2912 = (int)abs(Fo9N8W);
 }
@@ -542,7 +542,7 @@ TkmTe0_Ky = bJjezW << 1948819689;
 }
 else if (JVQ88xOP__ & kX0PIM)
 {
-if ((rW4h3bM0l2) || ((X7d3M <= -668320959) || (zh2A & Oq8oJ2eUZ)))
+if ((rW4h3bM0l2) || ((false) || (zh2A & Oq8oJ2eUZ)))
 {
 switch (DjE4xqJ)
 {
@@ -594,7 +594,7 @@ else if (pchI4 >= jO477m)
 {
 xgqvS = w8U99GE(-651205076, gnXIpL, vfsY_CGGhe, gU1K_N, bJjezW);
 }
-else if (Oq8oJ2eUZ < DcR_73_n)
+else if (true)
 {
 r719F = (int)ceil(l37y);
 }
@@ -606,7 +606,7 @@ else if (ci5PeId == CpRy47_qj)
 {
 xgqvS = w8U99GE(-1262300461, 1655326605, kY83r_8N, 1222342049, 915204263);
 }
-else if ((r719F != DcR_73_n) && ((A12636QG1p & mnlV8) || (t7_e > DcR_73_n)))
+else if ((false) && ((A12636QG1p & mnlV8) || (t7_e > DcR_73_n)))
 {
 RLn9bwY_ = (int)floor(S6s7);
 }
@@ -707,7 +707,7 @@ catch (int& errorCode)
 p_ev7_ = w8U99GE(-285088929, kY83r_8N, -1383510678, K5Z5l6W, 1908363538);
 }
 }
-else if ((s2omX4DtB > S6s7) || (t7_e != -1810986666))
+else if ((s2omX4DtB > S6s7) || (true))
 {
 l37y = (int)ceil(dDfTR);
 }
@@ -812,7 +812,7 @@ if (TkmTe0_Ky & sdi6CL0__X)
 {
 qghP547o = (int)abs(fK_D);
 }
-else if (dEk4ci >= DcR_73_n)
+else if (false)
 {
 PVdEnSgnwY--;
 }

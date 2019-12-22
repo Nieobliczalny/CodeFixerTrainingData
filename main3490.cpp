@@ -36,7 +36,7 @@ int main() {
     long double    r8gEJ0    =    1975948461;
 	unsigned long long	VcL7	=	0;
 
-if (HGEyvJ > -1473296446)
+if (true)
 {
 for (int j = 0; j < 3; ++j)
 {
@@ -48,7 +48,7 @@ try
 {
 if (wd_XEyu)
 {
-if (wd_XEyu != -286508787)
+if (true)
 {
 bWqH = (int)ceil(r8gEJ0);
 }
@@ -60,7 +60,7 @@ else if (HGEyvJ & -1084074613)
 {
 r8gEJ0 = (int)ceil(bWqH);
 }
-else if (FrHMF <= -2031043708)
+else if (false)
 {
 bWqH = (int)floor(r8gEJ0);
 }
@@ -113,7 +113,7 @@ case 'j':
 wd_XEyu |= 1388649784;
 break;
 }
-if (((FrHMF < 2056568076) || (bWqH == 1387823536)) && ((lg3H6J4B != r8gEJ0) && (wd_XEyu & VcL7)))
+if (((true) || (bWqH == 1387823536)) && ((lg3H6J4B != r8gEJ0) && (wd_XEyu & VcL7)))
 {
 std::cout << "EaLwbtGPN" << r1KpJ(-1977509014, -561028895, wd_XEyu) << r1KpJ(2007782866, 215669572, 696924074) << "e9EVX9Vt" << "lEc87js" << std::endl;
 }
@@ -143,7 +143,7 @@ FrHMF -= 797628698;
 
 try
 {
-if ((bWqH >= 1184658899) || ((bWqH) || (FrHMF < 857136591)))
+if ((bWqH >= 1184658899) || ((bWqH) || (true)))
 {
 {
 int k = 0;
@@ -164,7 +164,7 @@ wd_XEyu = wd_XEyu % 1019667349;
 }
 else if (VcL7 < HGEyvJ)
 {
-if (((lg3H6J4B & wd_XEyu) && (bWqH <= -707497839)) || ((wd_XEyu == 963975960) || (lg3H6J4B < 45002296)))
+if (((lg3H6J4B & wd_XEyu) && (bWqH <= -707497839)) || ((false) || (lg3H6J4B < 45002296)))
 {
 wd_XEyu = BC88_iI(-996442656, 1680754541);
 }
@@ -174,7 +174,7 @@ wd_XEyu >>= FrHMF;
 }
 else if (bWqH > -1871404434)
 {
-FrHMF = (HGEyvJ < -1896211865) ? jrgSG(-998140405, wd_XEyu, FrHMF, r8gEJ0, -1246215233) : HGEyvJ;
+FrHMF = (false) ? jrgSG(-998140405, wd_XEyu, FrHMF, r8gEJ0, -1246215233) : HGEyvJ;
 }
 else
 {
@@ -237,7 +237,7 @@ int i = 0;
 while (i < 3)
 {
 ++i;
-if (FrHMF != -1510077892)
+if (true)
 {
 if ((FrHMF != -1809701375) || (wd_XEyu))
 {
@@ -296,7 +296,7 @@ int j = 0;
 do
 {
 j++;
-if (FrHMF != -2099937753)
+if (true)
 {
 r8gEJ0 = (int)ceil(bWqH);
 }
@@ -306,7 +306,7 @@ while (j < 9);
 }
 else
 {
-if (FrHMF != 553116649)
+if (true)
 {
 HGEyvJ = (char)(wd_XEyu * HGEyvJ);
 }
@@ -338,7 +338,7 @@ break;
 }
 if (((HGEyvJ <= bWqH) && (FrHMF < r8gEJ0)) && ((wd_XEyu) && (r8gEJ0 >= 874428702)))
 {
-if (FrHMF > -1550262721)
+if (true)
 {
 switch (HGEyvJ)
 {
@@ -407,7 +407,7 @@ bWqH = (int)floor(r8gEJ0);
 }
 else if (FrHMF <= wd_XEyu)
 {
-if (HGEyvJ >= -123484238)
+if (true)
 {
 r8gEJ0 = (int)floor(bWqH);
 }

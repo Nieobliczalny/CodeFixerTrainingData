@@ -240,7 +240,7 @@ else if ((m9D1xG) || ((csj5 >= VYyy) && (D__18Tv & deDv7G4ye)))
 {
 VP_9_Xm7i3 = (long double)(uXEbX10C);
 }
-else if (D__18Tv > B6PgR221)
+else if (false)
 {
 {
 int k = 2;
@@ -360,7 +360,7 @@ l34sSy3K_ += yyCNy1p;
 break;
 }
 }
-else if (VYyy == B6PgR221)
+else if (false)
 {
 if (avRY81 == uXEbX10C)
 {
@@ -554,7 +554,7 @@ CcKSKw = (int)ceil(f_6lHm);
 }
 else if ((l6mh > 961855290) && ((D__18Tv) || (Q_YVFBq2E > p1bOh_iE6)))
 {
-if (VYyy > B6PgR221)
+if (false)
 {
 flLlA50Pu = (int)ceil(SvBBG);
 }

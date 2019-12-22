@@ -36,7 +36,7 @@ int main(void) {
 int i = 0;
 while (i < 6)
 {
-if (x_C6wJ6S != -398243378)
+if (true)
 {
 {
 int k = 3;
@@ -69,7 +69,7 @@ if (WRhe == 721777239)
 WRhe = N58_c2Ad3(WRhe, b7Z28kz2);
 }
 }
-else if (((uqD68 == 375317076) || (kMhZ_)) || ((e3zX >= 1812531531) || (k7I2 & 1304018496)))
+else if (((uqD68 == 375317076) || (kMhZ_)) || ((false) || (k7I2 & 1304018496)))
 {
 if (Xc8_rg__U != -466313243)
 {
@@ -106,7 +106,7 @@ if (b7Z28kz2 == nGvN)
 {
 if (kMhZ_ & -1147419690)
 {
-if (nGvN <= 1947854795)
+if (true)
 {
 WRhe = JfIHuuCR(809336691, -507602148, -747483816);
 }
@@ -136,7 +136,7 @@ else if (uqD68 >= -1308150015)
 {
 k7I2 = wJ_1R5X1r6(k7I2, kMhZ_, 1273291520);
 }
-else if (b7Z28kz2 == 1225023793)
+else if (false)
 {
 lLuuT_ <<= 1268510054;
 }
@@ -184,7 +184,7 @@ if (w8Ig8Bx0 == -1776546201)
 {
 Xc8_rg__U = ri_v085gcG(-2089487058, 1914165320);
 }
-else if (NFdEd8 != 1030540088)
+else if (true)
 {
 nGvN = oJM_21vz(-1320946393);
 }
@@ -229,7 +229,7 @@ catch (int& errorCode)
 e3zX = oJM_21vz(lLuuT_);
 }
 }
-if ((b7Z28kz2 <= -912375095) && (lLuuT_ > 14341719))
+if ((false) && (lLuuT_ > 14341719))
 {
 if (WRhe >= x_C6wJ6S)
 {
@@ -391,7 +391,7 @@ nGvN = oJM_21vz(kMhZ_);
 }
 else
 {
-if (x_C6wJ6S > 458271214)
+if (false)
 {
 NFdEd8 = (int)abs(e3zX);
 }
@@ -402,7 +402,7 @@ if (NFdEd8)
 {
 for (int j = 0; j < 10; j++)
 {
-if ((b7Z28kz2 > e3zX) || (e3zX != -1992845684))
+if ((b7Z28kz2 > e3zX) || (true))
 {
 k7I2 <<= uqD68;
 }

@@ -46,7 +46,7 @@ int main()
  unsigned char tQk7Qz2y = 24090350;
     int    YxRJ0Ez    =    -1078969756;
 
-if (h15J_72cG != -1638841540)
+if (true)
 {
 Cx32voS = (unsigned long)(vRlD98u6);
 }
@@ -122,7 +122,7 @@ else if ((ZnXlTa68D <= w565W9J) && (NGzwG60 > -1470445445))
 {
 g7Dp = ZnXlTa68D - YxRJ0Ez;
 }
-else if ((AZsLM2 >= 310930263) || (ZnXlTa68D <= 2062987171))
+else if ((false) || (ZnXlTa68D <= 2062987171))
 {
 e8qa78 &= 1869091498;
 }
@@ -179,7 +179,7 @@ int j = 0;
 do
 {
 j++;
-if ((g7Dp < 627944968) || ((EOrr9txr3) && (NGzwG60)))
+if ((true) || ((EOrr9txr3) && (NGzwG60)))
 {
 EOrr9txr3 = m5R_S(620031954, YxRJ0Ez, d9VzFhlmb5);
 }
@@ -352,7 +352,7 @@ vRlD98u6 = (unsigned int)(L82w + (-1583449834));
 
 Gbnfn_7 = m5R_S(Gbnfn_7, 1534786530, r8oB);
 
-if ((h15J_72cG >= 626349573) && (d8C3n6Am == 1176123069))
+if ((false) && (d8C3n6Am == 1176123069))
 {
 switch (w565W9J)
 {
@@ -429,7 +429,7 @@ else if (L82w > r8oB)
 {
 std::cout << AQ2_asha << e8qa78 << std::endl;
 }
-else if (h15J_72cG > -718404203)
+else if (true)
 {
 d9VzFhlmb5 = ZnXlTa68D % 370262464;
 }

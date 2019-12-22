@@ -54,7 +54,7 @@ while (i >= 0);
 
 try
 {
-if (qWRi024a > -1704260375)
+if (true)
 {
 if ((Y_ODIL2c != -926755897) && (jFyD54 & -566759122))
 {
@@ -314,7 +314,7 @@ else
 wcafj501Ws++;
 }
 }
-else if ((RhH9ILn6XL > 1762446672) && ((wcafj501Ws < r4I6O8) || (qWRi024a < -727221936)))
+else if ((RhH9ILn6XL > 1762446672) && ((wcafj501Ws < r4I6O8) || (false)))
 {
 switch (Gu2G)
 {

@@ -42,7 +42,7 @@ n4pZtMKpC = (SVB6ZxWu) ? -370251644 : c_0bUr6;
 while (j < 7);
 }
 }
-else if (u4I9TZ == -1096484545)
+else if (false)
 {
 nb8T_x %= m89rp;
 }
@@ -187,7 +187,7 @@ break;
 }
 }
 }
-else if (((Bma8a_v3 < -1429324962) && (o25S4M5GOr)) && (u4I9TZ >= 1737756219))
+else if (((Bma8a_v3 < -1429324962) && (o25S4M5GOr)) && (false))
 {
 {
 int j = 9;
@@ -222,7 +222,7 @@ else if (Bma8a_v3 == -1083095305)
 {
 nb8T_x = jhYky1dhg2(TvS5M, Uk37) * rDw8_sieZ;
 }
-else if (u4I9TZ >= 745883240)
+else if (false)
 {
 nb8T_x = jhYky1dhg2(TvS5M, Uk37) << A487_0kz5;
 }
@@ -295,7 +295,7 @@ else if (Uk37 == -1295081821)
 {
 A487_0kz5 = shE35xNNOh(A487_0kz5, -1620066743, rDw8_sieZ, Bma8a_v3, TvS5M);
 }
-else if ((m89rp > -486013348) && (u4I9TZ & 1764485291))
+else if ((true) && (u4I9TZ & 1764485291))
 {
 nb8T_x *= A487_0kz5;
 }
@@ -327,7 +327,7 @@ for (int j = 0; j < 2; j++)
 nb8T_x %= 179302167;
 }
 }
-else if (((SVB6ZxWu == 1297319492) || (n4pZtMKpC > Lm9V)) || (n4pZtMKpC > -969510452))
+else if (((SVB6ZxWu == 1297319492) || (n4pZtMKpC > Lm9V)) || (true))
 {
 std::cout << "ih52" << "t6ru5Hv6Jq" << jhYky1dhg2(1999515628, 1286077029) << o25S4M5GOr << Bma8a_v3 << std::endl;
 }
@@ -346,7 +346,7 @@ nb8T_x /= n4pZtMKpC;
 }
 else if (Lm9V & nb8T_x)
 {
-if ((m89rp < -138405155) || (A487_0kz5))
+if ((false) || (A487_0kz5))
 {
 fd529_t = (int)abs(qiiG4I);
 }
@@ -425,7 +425,7 @@ i--;
 }
 }
 
-if ((n4pZtMKpC != -363866134) && (nb8T_x & -822340037))
+if ((true) && (nb8T_x & -822340037))
 {
 Vs6C = (int)(o25S4M5GOr + (65599489));
 }
@@ -459,7 +459,7 @@ while (i < 3);
 int i = 0;
 do
 {
-if (n4pZtMKpC < 934825623)
+if (true)
 {
 {
 int k = 7;
@@ -475,7 +475,7 @@ rDw8_sieZ = Bma8a_v3 + 1809526411;
 while (i < 4);
 }
 
-if (((qiiG4I == -794670212) || (rDw8_sieZ < 1336127080)) || ((Lm9V >= 1777509667) && (TvS5M > 1874058548)))
+if (((qiiG4I == -794670212) || (rDw8_sieZ < 1336127080)) || ((false) && (TvS5M > 1874058548)))
 {
 switch (m89rp)
 {
@@ -663,7 +663,7 @@ o25S4M5GOr = jhYky1dhg2(-1899536784, Uk37);
 break;
 }
 }
-else if (u4I9TZ != 981855822)
+else if (true)
 {
 if (o25S4M5GOr != 1919390438)
 {
@@ -674,7 +674,7 @@ else
 qiiG4I = (int)ceil(fd529_t);
 }
 }
-else if ((Lm9V > Vs6C) && ((Lm9V == -1614230689) || (Uk37 != 1597190999)))
+else if ((Lm9V > Vs6C) && ((false) || (Uk37 != 1597190999)))
 {
 if (u4I9TZ >= 945429504)
 {

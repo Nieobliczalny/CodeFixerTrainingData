@@ -31,7 +31,7 @@ int main(int argc, char** argv) {
  unsigned char HrgapR = 0;
 
 W186dc = W186dc / prtVU;
-if ((q1896l29 == 1586706711) || (W186dc <= -1362574551))
+if ((false) || (W186dc <= -1362574551))
 {
 for (int j = 0; j < 9; j++)
 {
@@ -55,7 +55,7 @@ for (int i = 7; i >= 0; i--)
 {
 W186dc += XV03;
 }
-if (q1896l29 != 755133064)
+if (true)
 {
 if (q1896l29 != 2071287569)
 {
@@ -78,7 +78,7 @@ q1896l29 = (int)abs(XV03);
 }
 else
 {
-if ((mEH6Jb0 & -1868681413) && (q1896l29 == -1180667130))
+if ((mEH6Jb0 & -1868681413) && (false))
 {
 for (int k = 0; k < 3; k++)
 {

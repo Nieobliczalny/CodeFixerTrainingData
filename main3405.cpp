@@ -90,7 +90,7 @@ int main(void) {
     long long    Yg9FAuE6    =    986637502;
 
 F662h9w = m51g156(F662h9w, D4po_W7, 1805420612, MgH98jie0l, uO02);
-if (cs6PYmX2 != -1377526399)
+if (true)
 {
 std::cout << Eu9_71CeDj(1355089354, D4po_W7, hBtTCwz, 2038831276) << MgH98jie0l << std::endl;
 }
@@ -101,7 +101,7 @@ for (int j = 0; j < 8; ++j)
 KUdaJyT = Eu9_71CeDj(KUdaJyT, vGOsB, 1241646717, -197493014);
 }
 }
-else if (h0r8Ffn < 1552195047)
+else if (true)
 {
 S0QWQMiY = Eu9_71CeDj(S0QWQMiY, -1900833151, dbGa, 1028732743);
 }
@@ -184,7 +184,7 @@ while (k < 7);
 }
 }
 
-if (h0r8Ffn <= -527910115)
+if (false)
 {
 if (wE4yCkAla0 == -75664265)
 {
@@ -221,7 +221,7 @@ else if ((UTk9559 != -1080797614) && (HmL_0Y4 < Qol6irMz4k))
 {
 RAEN_ = (short)(z2hB2H3);
 }
-else if (zD1Z77o != 1237749121)
+else if (true)
 {
 switch (cs6PYmX2)
 {

@@ -192,7 +192,7 @@ int i = 0;
 while (i < 2)
 {
 ++i;
-if (NebOa644 < -1524257105)
+if (false)
 {
 for (int k = 0; k < 10; k++)
 {

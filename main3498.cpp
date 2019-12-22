@@ -263,7 +263,7 @@ if (y1dB6f5JoA >= Zw98qx)
 Dv3M = (int)floor(of2UK79U2g);
 }
 }
-else if (YVuHU > -2144952080)
+else if (true)
 {
 GV0NwF = (float)(A41HDC);
 }

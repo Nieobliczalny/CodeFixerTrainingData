@@ -154,7 +154,7 @@ else if (P21FRAT & -311118212)
 {
 HLXmE &= 1306124779;
 }
-else if (VGjV4Hd38S <= -324591258)
+else if (false)
 {
 S907C = (int)floor(feS0JCThW);
 }
@@ -471,7 +471,7 @@ else if (QMJLcN9QN)
 {
 u3niKDYk ^= 1810566239;
 }
-else if (DAzp8t <= -40563935)
+else if (false)
 {
 UH1d40++;
 }
@@ -492,7 +492,7 @@ else if ((nO2H7YcXp < 1367894954) || (ymyGUr & -1256978697))
 {
 cout << "TnR_An1wGr" << "HEp2zqK5AJ" << "epCysP_1O_" << endl;
 }
-else if (u3niKDYk != K00f)
+else if (true)
 {
 tM88 &= OnaWCj;
 }
@@ -663,7 +663,7 @@ for (int j = 6; j >= 0; --j)
 cout << "hSC23" << W99qy(627656531) << "tYm55g3H" << endl;
 }
 }
-else if (((ain0ac7Hr >= a8CXati9y) || (HLXmE != a8CXati9y)) && ((JOKS9M7z & A5497RrJ) && (DrWn == G11LJj)))
+else if (((true) || (HLXmE != a8CXati9y)) && ((JOKS9M7z & A5497RrJ) && (DrWn == G11LJj)))
 {
 P21FRAT = W99qy(309633853);
 }

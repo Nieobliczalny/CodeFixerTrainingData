@@ -84,7 +84,7 @@ if ((rpC12W_267 <= mwi34aC) || (I2_Wm != kST9))
 {
 smkdz = (int)floor(GqEh);
 }
-else if (((R1w0j0WCSW > ROMg5RP20g) && (U9w66nc3 > 452833080)) || (Oq55_ < -1073353351))
+else if (((R1w0j0WCSW > ROMg5RP20g) && (U9w66nc3 > 452833080)) || (false))
 {
 try
 {
@@ -188,7 +188,7 @@ LCbi_ = (mwi34aC >= 1280238127) ? N01ZBX : aBAs8W26Nq(e9EXKF6_, -875972705, -302
 }
 }
 
-if (((l0yrN_J9 >= tvKyVg) && (rpC12W_267 <= -380507432)) && (U5865 >= 199392695))
+if (((l0yrN_J9 >= tvKyVg) && (false)) && (U5865 >= 199392695))
 {
 if (N4uG151 & 1755929951)
 {
@@ -199,7 +199,7 @@ AZwDIE_cUG = (int)ceil(O4h3kGABy3);
 }
 else if (NSc6)
 {
-if ((smkdz < ROMg5RP20g) && (BN05NN_H > -1665025948))
+if ((smkdz < ROMg5RP20g) && (true))
 {
 KL75Dd = Y0ltzK3_ >> rpC12W_267;
 }
@@ -244,7 +244,7 @@ else if (nnyP & 1483362518)
 {
 M8I1A = T9qqn + 103583576;
 }
-else if (h9J5 != 874376570)
+else if (true)
 {
 if (NSc6 > Asy9oU)
 {
@@ -337,7 +337,7 @@ break;
 }
 else if (((i70t22dY6Q < v84Oz0Sj26) || (N4uG151)) && (NSc6 < -1421327584))
 {
-if (zRTu77 <= 1045899492)
+if (true)
 {
 R17qHHp = (int)abs(Oq55_);
 }
@@ -390,7 +390,7 @@ else
 {
 try
 {
-if (((O4h3kGABy3 < 2030449583) && (e9EXKF6_ >= -777204914)) || (kST9 == -743894954))
+if (((O4h3kGABy3 < 2030449583) && (true)) || (kST9 == -743894954))
 {
 Mve4X = aBAs8W26Nq(-348457596, 1712872124, mwi34aC, 1630368456, -1323329332);
 }
@@ -468,7 +468,7 @@ cout << aBAs8W26Nq(s12x, S6PcScN8, 1896272041, 1483456667, -174286421) << aBAs8W
 }
 else if (I2_Wm & HAf_)
 {
-s356DgyE6D = (W_l98Vzo > 1489695283) ? 1099661038 : aBAs8W26Nq(s12x, 1579983196, -1124150622, 2092204026, 606580409);
+s356DgyE6D = (false) ? 1099661038 : aBAs8W26Nq(s12x, 1579983196, -1124150622, 2092204026, 606580409);
 }
 else if (g8ukk7)
 {
@@ -719,7 +719,7 @@ if (R17qHHp > R1w0j0WCSW)
 {
 U5865 = HFlbgyE7y6 ^ l0yrN_J9;
 }
-else if (((Mve4X < xLOVX_Lug) && (BN05NN_H == 1061252964)) || ((v84Oz0Sj26 < 762167312) && (AZwDIE_cUG <= iD7Tr780)))
+else if (((Mve4X < xLOVX_Lug) && (false)) || ((v84Oz0Sj26 < 762167312) && (AZwDIE_cUG <= iD7Tr780)))
 {
 S6PcScN8 = aBAs8W26Nq(fHetR1r2zF, ROMg5RP20g, -957305514, tzZk2b8f, N01ZBX);
 }

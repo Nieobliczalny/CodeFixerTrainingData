@@ -402,7 +402,7 @@ V748w385t = Pc6Z3F3(V748w385t, 1389679374);
 break;
 }
 }
-else if (Ev__63F != -1599472761)
+else if (true)
 {
 if (v5l8ls < -134214756)
 {
@@ -429,7 +429,7 @@ else
 JdkbXZ6WT = (int)floor(A_QU2Wu624);
 }
 }
-else if (((Ev__63F & 866400403) && (JA4VIG9 > -586973037)) || ((qAQsnbsK != 567457298) || (kbGPe)))
+else if (((Ev__63F & 866400403) && (JA4VIG9 > -586973037)) || ((true) || (kbGPe)))
 {
 aSBv = (int)ceil(Q_X590);
 }

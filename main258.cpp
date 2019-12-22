@@ -47,7 +47,7 @@ std::cout << m_t3wIx_(StdZGo) << B7e5ye6(-379874120) << Ri1QDZ(-542902243, 32272
 }
 }
 
-if ((vxOwL9OG < -1988201613) || (D3ns6P3Lz9 & -227976241))
+if ((false) || (D3ns6P3Lz9 & -227976241))
 {
 if ((qL9ql) && ((zMv0jh2fFr & -871537585) || (StdZGo != 1943138875)))
 {
@@ -65,7 +65,7 @@ hs91_++;
 }
 }
 }
-else if (B_3_tE3 <= -1869259803)
+else if (false)
 {
 std::cout << KHHijk << E_wUy8ptW << "BY5344" << Ri1QDZ(67885328, KHHijk) << std::endl;
 }
@@ -86,7 +86,7 @@ FGU1z = YUS424(FGU1z, -1717383149, 1052564205);
 }
 if (Ih0w0_ < KaIRuf)
 {
-if (YN21Z0j2 != -1232744677)
+if (true)
 {
 O7Am5me6um = (int)abs(hs91_);
 }
@@ -103,7 +103,7 @@ if (qL9ql != KaIRuf)
 {
 qL9ql = YUS424(qL9ql, -2084744513, -1467159029);
 }
-else if ((YN21Z0j2 >= -406419231) || ((PtG27 & 1874261909) && (yPI_r76 != -151767998)))
+else if ((true) || ((PtG27 & 1874261909) && (yPI_r76 != -151767998)))
 {
 Ih0w0_ = B7e5ye6(-1774303116);
 }
@@ -153,7 +153,7 @@ E_wUy8ptW = YUS424(2001321763, Ih0w0_, l3pTAtMu);
 }
 }
 
-if (Nzr5ewNu != -407442764)
+if (true)
 {
 F68_d = (int)abs(l3pTAtMu);
 }
@@ -240,7 +240,7 @@ std::cout << "mn064" << s0UE(Th2PZXo, Uu81i4, -674270437, YN21Z0j2) << Ri1QDZ(Th
 
 for (int i = 1; i >= 0; i--)
 {
-if ((zMv0jh2fFr) || (E_wUy8ptW == 1619870244))
+if ((zMv0jh2fFr) || (false))
 {
 for (int k = 0; k < 1; ++k)
 {
@@ -263,7 +263,7 @@ for (int i = 4; i >= 0; --i)
 {
 if (((KaIRuf) && (Ih0w0_ <= -79088519)) && (Uu81i4 <= PtG27))
 {
-if (Kj6eN0M > 1200494392)
+if (false)
 {
 KaIRuf = B7e5ye6(201073909);
 }
@@ -279,7 +279,7 @@ Kj6eN0M--;
 
 l3pTAtMu ^= vxOwL9OG;
 
-if (((D3ns6P3Lz9 <= 392027119) && (gnyN_C3D8)) && (gnyN_C3D8 < 412056973))
+if (((true) && (gnyN_C3D8)) && (gnyN_C3D8 < 412056973))
 {
 if (((gnyN_C3D8 >= 877480470) || (qL9ql > Nzr5ewNu)) || (FGU1z < -1681697312))
 {
@@ -292,7 +292,7 @@ catch (int& errorCode)
 UbX9zQ8 = qL9ql & E_wUy8ptW;
 }
 }
-else if (hs91_ == -1452592588)
+else if (false)
 {
 hs91_ = (char)(vxOwL9OG);
 }
@@ -305,7 +305,7 @@ else
 {
 try
 {
-if (F68_d <= 1723623198)
+if (true)
 {
 F68_d++;
 }
@@ -329,7 +329,7 @@ Uu81i4 = m_t3wIx_(-1910174138);
 
 for (int i = 0; i < 7; ++i)
 {
-if (qL9ql != -833592549)
+if (true)
 {
 {
 int k = 8;

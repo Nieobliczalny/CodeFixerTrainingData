@@ -21,7 +21,7 @@ int main(void) {
   short int  cak8_zL  =  0;
 
 VX0ikoCHnu += 209396823;
-if (cak8_zL >= -2062027681)
+if (true)
 {
 try
 {
@@ -51,7 +51,7 @@ int j = 4;
 while (j >= 0)
 {
 --j;
-if (kG__i37p5P < XDmRyR)
+if (true)
 {
 eZCQ0E9VS2++;
 }
@@ -82,7 +82,7 @@ do
 {
 if (VX0ikoCHnu < 178276773)
 {
-if ((eZCQ0E9VS2 & 847186602) && (cfA6g31X0 != XDmRyR))
+if ((eZCQ0E9VS2 & 847186602) && (true))
 {
 VX0ikoCHnu = VX0ikoCHnu - 1749089496;
 }

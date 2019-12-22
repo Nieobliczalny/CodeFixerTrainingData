@@ -72,7 +72,7 @@ while (i >= 0)
 --i;
 try
 {
-if (DT_F != UjK_6w)
+if (true)
 {
 lktk1Y736M = zB_AIZwp2(lktk1Y736M, HzWoM4KZ, R42rJ_9, egSp_);
 }
@@ -111,7 +111,7 @@ int i = 0;
 while (i < 5)
 {
 i++;
-if (((dmZY & -2004442090) || (egSp_ > uahRM5)) || (M4yg))
+if (((dmZY & -2004442090) || (true)) || (M4yg))
 {
 dBFHA = V37_ << OsLE;
 }
@@ -251,7 +251,7 @@ case 6:
 gPPz6 -= 1065036029;
 break;
 }
-if (Nqg3n_H >= T_03MCL4_L)
+if (false)
 {
 try
 {
@@ -263,7 +263,7 @@ else if ((dmZY > 887122799) || (x6n_cOxkQ < lktk1Y736M))
 {
 KEN98q5V_R = a2_62wn | 1425789974;
 }
-else if (R42rJ_9 < -1597565826)
+else if (false)
 {
 egSp_ = OM6nQgrd - uRz47y3;
 }
@@ -307,7 +307,7 @@ M4yg = N45ZdB95(1595856553, -2031936085, xspl8k, DT_F, zz5cog);
 }
 
 x6n_cOxkQ = (unsigned long)(V37_ * x6n_cOxkQ);
-if (v9lWk5ImnD == rr3f5)
+if (false)
 {
 if (((V37_ & rr3f5) && (SNEP84xu3 > -1812316117)) && ((JTI1N != -2128365003) && (SaIu != OsLE)))
 {
@@ -320,7 +320,7 @@ catch (int& errorCode)
 dmZY *= JTI1N;
 }
 }
-else if (iSJa <= UjK_6w)
+else if (false)
 {
 A3STIbwD4 = zB_AIZwp2(-2009053283, 1712743357, -1982455741, F2U2);
 }

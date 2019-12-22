@@ -300,7 +300,7 @@ U18F8_ku8P = (unsigned long long)(DR1tix);
 while (j >= 0);
 }
 }
-if ((F8j4 & 468632126) || ((Uj2p2qC0X & -1116478295) && (Bh7L6 == -374679521)))
+if ((F8j4 & 468632126) || ((Uj2p2qC0X & -1116478295) && (false)))
 {
 I4y2 = k3UBZb4d(1220217742, -868336791, 1288167275, LEWFJ);
 }
@@ -346,7 +346,7 @@ y4u05Un_K0 = i1o2YUNYi + 1159437852;
 break;
 }
 }
-else if (Bh7L6 == -1102870882)
+else if (false)
 {
 for (int j = 0; j < 3; j++)
 {

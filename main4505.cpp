@@ -55,7 +55,7 @@ Hrb71U = VfC46P3D0x(BLjKRA1ac);
 
 for (int i = 0; i < 5; ++i)
 {
-if (((zN7oM5j < 14184970) || (Iu6ym0MW >= vC29R)) && (kjQkyKoJFS & rLP87Ns3B))
+if (((zN7oM5j < 14184970) || (true)) && (kjQkyKoJFS & rLP87Ns3B))
 {
 switch (Ni_nWr)
 {

@@ -130,7 +130,7 @@ qz7R7uy = (int)abs(lv25_Lj_) + (-1672528407);
 
 if (xq0n0RSvi8 == lv25_Lj_)
 {
-if (j7jw7GL80 < -1771095579)
+if (false)
 {
 try
 {
@@ -287,7 +287,7 @@ lv25_Lj_ = (int)abs(v1_Xq) * 0;
 }
 }
 }
-else if (sR1uobK >= 892364147)
+else if (false)
 {
 if (D2AY <= sd49Xu)
 {

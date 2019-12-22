@@ -99,7 +99,7 @@ int main()
     LLmGw1    =    0;
     f30N_3fj    =    0;
 
-if (mX7IZ_4J == 995990006)
+if (false)
 {
 cout << OEFew_9V(Pa7lU, -1813106728) << "GTDqLttt" << "ELZ3NU" << "L2yKRIeH" << endl;
 }
@@ -124,7 +124,7 @@ else if (Asjf8r > dVE_G_8)
 {
 cout << OEFew_9V(166561367, -1373007286) << endl;
 }
-else if ((B3D7 == 1214328774) && (Oa0jD < 1925709617))
+else if ((false) && (Oa0jD < 1925709617))
 {
 {
 int k = 2;
@@ -135,7 +135,7 @@ k--;
 }
 }
 }
-else if ((jJ4AR1z8Og > 1561176105) && ((LLmGw1 & -954791081) || (s4CDV4Z)))
+else if ((false) && ((LLmGw1 & -954791081) || (s4CDV4Z)))
 {
 try
 {
@@ -159,7 +159,7 @@ while (k < 7);
 }
 }
 }
-else if (((Z_ZO4 < -1536230276) || (kl6E < beHuSYQ1g)) || (XoS7 > 483674356))
+else if (((false) || (kl6E < beHuSYQ1g)) || (XoS7 > 483674356))
 {
 switch (L51g)
 {
@@ -226,7 +226,7 @@ cout << "E71S" << woY3I23 << endl;
 int i = 10;
 do
 {
-if (BEh1 >= 533055939)
+if (false)
 {
 {
 int k = 6;
@@ -293,7 +293,7 @@ KAn0G76I >>= 478653161;
 break;
 case 'd':
 case 'D':
-VU122Go3VJ = (W2Xom == -423487416) ? qtOVF64y : -1430836409;
+VU122Go3VJ = (false) ? qtOVF64y : -1430836409;
 break;
 case 'e':
 case 'E':
@@ -346,7 +346,7 @@ Pa7lU = CkRMO / 923796978;
 
 try
 {
-if (h8L_PAuMgp >= -1736778887)
+if (true)
 {
 if (dm7p <= 140860550)
 {
@@ -361,7 +361,7 @@ else
 f30N_3fj = OEFew_9V(-25187941, qQrsQ);
 }
 }
-else if ((kl6E <= -115732625) && ((Nrr7ba3dL != XoS7) && (n6Ymp4qzy & Ppc7hnK4k1)))
+else if ((false) && ((Nrr7ba3dL != XoS7) && (n6Ymp4qzy & Ppc7hnK4k1)))
 {
 {
 int k = 8;
@@ -372,7 +372,7 @@ kN8IKLaU &= 1149671182;
 }
 }
 }
-else if (C9K5ITT == -949510075)
+else if (false)
 {
 {
 int k = 0;
@@ -490,7 +490,7 @@ qr9nn0HxR = (mX7IZ_4J > CkRMO) ? -1658482801 : -1867919544;
 break;
 }
 }
-else if ((b7RWqpA0Gy > VU122Go3VJ) || (s4CDV4Z < -838596886))
+else if ((b7RWqpA0Gy > VU122Go3VJ) || (false))
 {
 if (CD0dc2UhX <= e9q1)
 {
@@ -518,7 +518,7 @@ catch (int& errorCode)
 dVE_G_8 = C9K5ITT ^ jJ4AR1z8Og;
 }
 
-if ((mX7IZ_4J <= 94586677) && (Ke3jxGXoh >= 1218959257))
+if ((true) && (Ke3jxGXoh >= 1218959257))
 {
 {
 int j = 10;
@@ -536,7 +536,7 @@ LLmGw1 = OEFew_9V(L51g, LZvTW);
 }
 }
 }
-else if (BTNo < -14186430)
+else if (false)
 {
 if (l3YZM_W8A)
 {
@@ -549,7 +549,7 @@ k--;
 }
 }
 }
-else if (H_bQr <= -1887327529)
+else if (false)
 {
 if (qr9nn0HxR >= CkRMO)
 {
@@ -560,7 +560,7 @@ else if (XoS7 <= -1764506917)
 {
 LLmGw1 = OEFew_9V(989279895, 635230427);
 }
-else if ((E82fTARO >= 2010104594) && (kl6E > -779487321))
+else if ((false) && (kl6E > -779487321))
 {
 f30N_3fj = OEFew_9V(qr9nn0HxR, pFoP77NY);
 }
@@ -573,7 +573,7 @@ LZvTW %= 1960999971;
 }
 else
 {
-if (BEh1 == 806934607)
+if (false)
 {
 KAn0G76I = (int)abs(H_bQr);
 }
@@ -583,7 +583,7 @@ B3D7--;
 }
 }
 }
-else if (Z7_u35 == -168191410)
+else if (false)
 {
 if (b7RWqpA0Gy < 2054056400)
 {
@@ -617,7 +617,7 @@ else
 E82fTARO = (char)(C9K5ITT);
 }
 }
-else if ((dVE_G_8 > -1300222941) || (l_wU_X4nVC > eP9zl4rTL8))
+else if ((true) || (l_wU_X4nVC > eP9zl4rTL8))
 {
 C9K5ITT = KT71r_1 | At_E7o4M3;
 }
@@ -661,7 +661,7 @@ i++;
 }
 }
 
-if (lgE4g <= 1452931604)
+if (true)
 {
 {
 int j = 6;
@@ -683,7 +683,7 @@ while (j >= 0);
 
 f30N_3fj = OEFew_9V(BEh1, mX7IZ_4J);
 
-if ((j868L == dm7p) || ((re1h7_L < XI29N3_sB4) && (lgE4g >= 2002216446)))
+if ((j868L == dm7p) || ((re1h7_L < XI29N3_sB4) && (false)))
 {
 cout << H_bQr << l3YZM_W8A << "MVH2" << "UH65gxx81" << endl;
 }
@@ -708,7 +708,7 @@ j868L += 1624386103;
 break;
 }
 }
-else if (((dVE_G_8) || (N8_Y6_JPT & 506965808)) || (LZvTW > -1093436094))
+else if (((dVE_G_8) || (N8_Y6_JPT & 506965808)) || (true))
 {
 cout << OEFew_9V(-357924642, pzpP0A) << OEFew_9V(R193S_, 1644234780) << endl;
 }
@@ -737,7 +737,7 @@ break;
 }
 }
 }
-else if (e9q1 > -913466187)
+else if (true)
 {
 switch (f30N_3fj)
 {
@@ -782,7 +782,7 @@ if (l_wU_X4nVC & -1677695784)
 {
 Nrr7ba3dL = (int)abs(xhRFYl);
 }
-else if (BTNo < -2061849591)
+else if (false)
 {
 beHuSYQ1g = (int)abs(cvH3);
 }
@@ -794,7 +794,7 @@ else if (XI29N3_sB4 & Pa7lU)
 {
 woY3I23 = (int)abs(H_bQr);
 }
-else if (XoS7 < -1054475678)
+else if (false)
 {
 e9q1 >>= 2018664864;
 }

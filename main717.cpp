@@ -38,7 +38,7 @@ else
 V9tDm *= ToST_CkPF;
 }
 }
-else if ((V9tDm <= 1333692903) && ((V9tDm) || (mf385r0 < 730173211)))
+else if ((V9tDm <= 1333692903) && ((V9tDm) || (true)))
 {
 {
 int k = 8;
@@ -65,7 +65,7 @@ k++;
 while (k < 9);
 }
 }
-else if (((Ds8V53P < 2130823656) || (FsMBT0PF4 >= V9tDm)) && (mf385r0))
+else if (((true) || (FsMBT0PF4 >= V9tDm)) && (mf385r0))
 {
 switch (Ds8V53P)
 {
@@ -110,7 +110,7 @@ V9tDm *= 1111496406;
 break;
 }
 }
-else if (Ds8V53P <= -1400434035)
+else if (false)
 {
 {
 int j = 0;
@@ -135,7 +135,7 @@ V9tDm = V9tDm + 781839190;
 }
 else if (V9tDm > mf385r0)
 {
-if ((Ds8V53P > mf385r0) || ((mf385r0 <= -1890570067) && (V9tDm > 1776252052)))
+if ((Ds8V53P > mf385r0) || ((false) && (V9tDm > 1776252052)))
 {
 V9tDm = rLj_MgV(FsMBT0PF4, Ds8V53P, V9tDm);
 }
@@ -173,7 +173,7 @@ if (Ds8V53P)
 {
 std::cout << rLj_MgV(-1523693293, 929623618, mf385r0) << b_6Y16J76(V9tDm) << std::endl;
 }
-else if (mf385r0 >= -1771421859)
+else if (true)
 {
 for (int j = 4; j >= 0; j--)
 {
@@ -208,7 +208,7 @@ else if (Ds8V53P)
 {
 std::cout << rLj_MgV(ToST_CkPF, FsMBT0PF4, mf385r0) << rLj_MgV(-1625671482, -505331178, -697511191) << mf385r0 << std::endl;
 }
-else if (ToST_CkPF >= 545113390)
+else if (false)
 {
 {
 int k = 6;
@@ -220,7 +220,7 @@ V9tDm = rLj_MgV(-896171877, V9tDm, 666539715);
 while (k >= 0);
 }
 }
-else if ((ToST_CkPF <= 141665701) || (FsMBT0PF4 & mf385r0))
+else if ((true) || (FsMBT0PF4 & mf385r0))
 {
 mf385r0 = (short)(FsMBT0PF4);
 }
@@ -237,7 +237,7 @@ ToST_CkPF = (int)abs(V9tDm) * 0;
 }
 else
 {
-if (Ds8V53P > 24464771)
+if (false)
 {
 V9tDm = FsMBT0PF4 >> 528625352;
 }
@@ -294,7 +294,7 @@ V9tDm = XP4__A(ToST_CkPF, 1569105396, -495577062);
 }
 if (Ds8V53P)
 {
-if (Ds8V53P != 1780307121)
+if (true)
 {
 std::cout << rLj_MgV(ToST_CkPF, FsMBT0PF4, mf385r0) << rLj_MgV(-1245611283, -1108652403, 155216318) << XP4__A(ToST_CkPF, FsMBT0PF4, 622946592) << ToST_CkPF << std::endl;
 }
@@ -318,7 +318,7 @@ else if (ToST_CkPF & -1229102529)
 {
 std::cout << "VWvt3" << std::endl;
 }
-else if ((ToST_CkPF > FsMBT0PF4) || (Ds8V53P != 263142352))
+else if ((ToST_CkPF > FsMBT0PF4) || (true))
 {
 if (V9tDm != -1890512807)
 {
@@ -369,7 +369,7 @@ j--;
 }
 }
 
-if ((Ds8V53P > 424567856) && ((V9tDm < 1592907408) && (mf385r0 >= -1198293339)))
+if ((false) && ((V9tDm < 1592907408) && (mf385r0 >= -1198293339)))
 {
 if (V9tDm != 981609721)
 {
@@ -425,7 +425,7 @@ while (k < 5);
 ++i;
 }
 }
-if (((FsMBT0PF4 & mf385r0) && (Ds8V53P < 1434705951)) && (Ds8V53P))
+if (((FsMBT0PF4 & mf385r0) && (true)) && (Ds8V53P))
 {
 switch (FsMBT0PF4)
 {
@@ -511,7 +511,7 @@ else
 switch (FsMBT0PF4)
 {
 case 0:
-V9tDm = (mf385r0 < 433755178) ? FsMBT0PF4 : -422537541;
+V9tDm = (true) ? FsMBT0PF4 : -422537541;
 break;
 case 1:
 V9tDm = rLj_MgV(ToST_CkPF, V9tDm, FsMBT0PF4);
@@ -526,7 +526,7 @@ else if (((V9tDm != 431212406) && (FsMBT0PF4)) || (mf385r0 & -1257696515))
 {
 V9tDm = rLj_MgV(1405389872, V9tDm, FsMBT0PF4);
 }
-else if (mf385r0 != 1629373695)
+else if (true)
 {
 {
 int j = 0;
@@ -663,7 +663,7 @@ case 8:
 V9tDm = rLj_MgV(Ds8V53P, 435370130, 514964780);
 break;
 case 9:
-V9tDm = (ToST_CkPF <= -707939195) ? ToST_CkPF : -1630006352;
+V9tDm = (false) ? ToST_CkPF : -1630006352;
 break;
 default:
 V9tDm -= V9tDm;
@@ -674,7 +674,7 @@ break;
 int i = 0;
 do
 {
-if (mf385r0 != 1773568217)
+if (true)
 {
 if ((Ds8V53P == 1112182501) && ((FsMBT0PF4 > -2139470915) && (mf385r0 != 1856204998)))
 {
@@ -724,7 +724,7 @@ case 'g':
 V9tDm = (mf385r0 != V9tDm) ? -1521565130 : XP4__A(-895210811, 93491757, Ds8V53P);
 break;
 case 'h':
-V9tDm = (mf385r0 == -350048573) ? FsMBT0PF4 : V9tDm;
+V9tDm = (false) ? FsMBT0PF4 : V9tDm;
 break;
 case 'i':
 V9tDm /= ToST_CkPF;
@@ -763,7 +763,7 @@ V9tDm = Ds8V53P >> 215159675;
 }
 }
 
-if (mf385r0 <= -1087788090)
+if (false)
 {
 ToST_CkPF = b_6Y16J76(ToST_CkPF);
 }

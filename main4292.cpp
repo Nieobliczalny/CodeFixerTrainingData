@@ -118,7 +118,7 @@ int i = 10;
 while (i >= 0)
 {
 i--;
-if (s19m <= 611108737)
+if (true)
 {
 std::cout << FljDm0(1001556559, N7rayW, -274971683, -307905497) << n5_zijj(-222880174, N7rayW) << "C_un2YTU" << y496R5A2Ac(k_agIR5X, 1991064176, m89als93l, 661503243, -1359198998) << std::endl;
 }
@@ -236,7 +236,7 @@ std::cout << n5_zijj(-341722868, NI0xXbm5TR) << std::endl;
 }
 else if (w0ddiBCmv)
 {
-if (h9cAsM6I7y != 950681335)
+if (true)
 {
 j_L1sL27ZW = n1Cqsxja6(j_L1sL27ZW, -262198447, B3W94JQC, 46244301, o38t1G394);
 }

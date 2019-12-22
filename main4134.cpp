@@ -23,7 +23,7 @@ int main()
 	double	Z7Q_	=	-4030812;
   unsigned short  B0SO  =  0,  pA1Ttz9_K  =  0,  mop86  =  0,  grdtR  =  0;
 
-if (grdtR >= 647082773)
+if (false)
 {
 switch (grdtR)
 {
@@ -45,7 +45,7 @@ break;
 }
 }
 Z7Q_ = (Z7Q_ > -7604002) ? -751038568 : mop86;
-if (((mop86 & 607463784) && (pA1Ttz9_K <= -81443349)) || (pA1Ttz9_K > -1177368854))
+if (((mop86 & 607463784) && (false)) || (pA1Ttz9_K > -1177368854))
 {
 Z7Q_ = h99vJjop0X();
 }
@@ -67,7 +67,7 @@ for (int j = 7; j >= 0; --j)
 Z7Q_ = mop86 & 118007443;
 }
 }
-else if (((mop86 >= 2071919629) && (Z7Q_ != -193293671)) && (pA1Ttz9_K))
+else if (((false) && (Z7Q_ != -193293671)) && (pA1Ttz9_K))
 {
 try
 {
@@ -84,7 +84,7 @@ Z7Q_ = Z7Q_ - pA1Ttz9_K;
 }
 else
 {
-if (B0SO == -1413662950)
+if (false)
 {
 try
 {
@@ -95,7 +95,7 @@ catch (int& errorCode)
 Z7Q_ = B0SO << 1198668404;
 }
 }
-else if (mop86 >= 985818533)
+else if (false)
 {
 {
 int k = 3;
@@ -113,7 +113,7 @@ if (B0SO)
 Z7Q_ *= Z7Q_;
 }
 }
-else if (mop86 != 1653200238)
+else if (true)
 {
 try
 {
@@ -126,7 +126,7 @@ Z7Q_ /= 1914295964;
 }
 else if (pA1Ttz9_K & mop86)
 {
-if ((grdtR) || ((grdtR >= -1666130289) || (mop86 <= 2097144539)))
+if ((grdtR) || ((true) || (mop86 <= 2097144539)))
 {
 Z7Q_ += 1019355651;
 }
@@ -159,7 +159,7 @@ case 2:
 Z7Q_ = h99vJjop0X();
 break;
 case 3:
-Z7Q_ = (grdtR <= -808330521) ? IHGcgLTl(B0SO, 1664421237, mop86, pA1Ttz9_K) : pA1Ttz9_K;
+Z7Q_ = (false) ? IHGcgLTl(B0SO, 1664421237, mop86, pA1Ttz9_K) : pA1Ttz9_K;
 break;
 case 4:
 Z7Q_ *= mop86;
@@ -189,7 +189,7 @@ int i = 0;
 while (i < 6)
 {
 i++;
-if ((mop86 >= 1690140799) && (pA1Ttz9_K <= 1383726460))
+if ((false) && (pA1Ttz9_K <= 1383726460))
 {
 {
 int k = 4;
@@ -204,7 +204,7 @@ Z7Q_ = (pA1Ttz9_K >= 1225263328) ? h99vJjop0X() : -206219674;
 }
 
 std::cout << h99vJjop0X() << std::endl;
-if (((B0SO == 319256891) && (pA1Ttz9_K > Z7Q_)) && (mop86 & grdtR))
+if (((false) && (pA1Ttz9_K > Z7Q_)) && (mop86 & grdtR))
 {
 switch (B0SO)
 {
@@ -220,7 +220,7 @@ else if (Z7Q_ != 2027307629)
 {
 Z7Q_ = h99vJjop0X();
 }
-else if ((B0SO <= grdtR) || (pA1Ttz9_K != 1660502846))
+else if ((B0SO <= grdtR) || (true))
 {
 if (mop86 <= -636264585)
 {
@@ -234,7 +234,7 @@ Z7Q_ = (grdtR < 772368449) ? Z7Q_ : -862144902;
 }
 }
 }
-else if (mop86 == 1682025715)
+else if (false)
 {
 try
 {
@@ -260,7 +260,7 @@ B0SO = IHGcgLTl(B0SO, Z7Q_, 973398082, mop86);
 }
 }
 Z7Q_ = IHGcgLTl(-1202351083, Z7Q_, -779681649, 6637651) | 1520011556;
-if (mop86 != -867571359)
+if (true)
 {
 mop86 = IHGcgLTl(261159795, 829772572, B0SO, 55227397);
 }
@@ -286,7 +286,7 @@ k--;
 while (k >= 0);
 }
 }
-else if (((grdtR) || (grdtR > -867029517)) && ((Z7Q_ != B0SO) || (pA1Ttz9_K >= 1207390020)))
+else if (((grdtR) || (true)) && ((Z7Q_ != B0SO) || (pA1Ttz9_K >= 1207390020)))
 {
 {
 int k = 0;
@@ -308,7 +308,7 @@ catch (int& errorCode)
 B0SO = IHGcgLTl(-82813523, mop86, Z7Q_, pA1Ttz9_K);
 }
 }
-else if (grdtR < 1791743584)
+else if (true)
 {
 if ((pA1Ttz9_K == B0SO) && (pA1Ttz9_K & mop86))
 {

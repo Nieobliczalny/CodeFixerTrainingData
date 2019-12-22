@@ -68,7 +68,7 @@ int main()
 
 for (int i = 0; i < 9; i++)
 {
-if (y4vN < 1250210718)
+if (true)
 {
 if (zBvi47 == 578532189)
 {
@@ -106,7 +106,7 @@ jdRw2E31AQ++;
 }
 }
 }
-else if ((sBR1 != 1816254858) || ((AByvP) || (Yc37_F >= 21194760)))
+else if ((sBR1 != 1816254858) || ((AByvP) || (false)))
 {
 if (Ci38g4q < 223652197)
 {
@@ -126,7 +126,7 @@ else
 zBvi47 = t2j8uO + 1069422219;
 }
 }
-if (e025qe3 == 527473453)
+if (false)
 {
 {
 int j = 0;
@@ -144,7 +144,7 @@ Y37V4Q = i8jx();
 }
 }
 }
-else if ((J9G9Kp <= -1954716908) && ((sBR1 == k9j7lyGE) || (AByvP >= kp4J4as)))
+else if ((false) && ((sBR1 == k9j7lyGE) || (AByvP >= kp4J4as)))
 {
 std::cout << q9w4z << i8jx() << "s8IKM30IjX" << std::endl;
 }
@@ -254,7 +254,7 @@ FFCv_6a5S = i8jx();
 
 if (e025qe3 & -742716166)
 {
-grYLOWkt2 = (q2kN > 578652240) ? zBvi47 : J9G9Kp;
+grYLOWkt2 = (false) ? zBvi47 : J9G9Kp;
 }
 
 std::cout << -1352181247 / i8jx() << std::endl;

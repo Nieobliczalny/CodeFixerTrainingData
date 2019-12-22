@@ -38,7 +38,7 @@ catch (int& errorCode)
 Dd7Z5wNv8--;
 }
 
-if (Ei_xW_2 != 97653471)
+if (true)
 {
 if (azfsIT <= -2083479420)
 {
@@ -66,7 +66,7 @@ else
 Ei_xW_2 = WF2Wwl2fR * Dx2c7Iu;
 }
 }
-else if (Yb_OCNx <= -444316456)
+else if (false)
 {
 E409O = c1St3 * 163985366;
 }
@@ -91,7 +91,7 @@ H1CCf_Q0 = (int)abs(BcRBk6tG_u);
 }
 }
 
-if (sv30uH == 1899588296)
+if (false)
 {
 if ((WF2Wwl2fR < 405844831) && (bLtM > -1048779998))
 {
@@ -134,7 +134,7 @@ UDfp5 = (short)(zX14n);
 
 std::cout << "a4zXRW0bpY" << "H51_c" << MkdOh7(WF2Wwl2fR, -46084404, IcBu, 974372573) << std::endl;
 BcRBk6tG_u = (int)abs(bLtM);
-if (kK7g1_vZ == -1224654854)
+if (false)
 {
 iV55ob -= r_YC67;
 }
@@ -155,7 +155,7 @@ if (L_Z6 <= Cv3xC)
 {
 L9eB1fuol = (short)(ba___pi1);
 }
-else if (((jz39923 < ezLoN1wy_) && (of8l152pWS <= 2113680629)) && (CA56LW5a1M <= -2013826547))
+else if (((jz39923 < ezLoN1wy_) && (true)) && (CA56LW5a1M <= -2013826547))
 {
 if ((E409O & m3O9EknZ) || (LVLYr & OcXZp9aF1))
 {
@@ -212,7 +212,7 @@ zFZb = MkdOh7(zFZb, 1044622659, -292597537, Dn9Ao7);
 a_491 = (short)(vWqeQ_3);
 std::cout << WrKtMER34() << iY9YKmIOp << fy1bi << Cv3xC << std::endl;
 
-if (bEfW > -1011861665)
+if (true)
 {
 {
 int j = 8;
@@ -259,7 +259,7 @@ if (gtS4fDUx == 0)
 }
 
 std::cout << NQhH1(906717118) << A1QVwPtF0 << std::endl;
-if (BcRBk6tG_u >= 428005999)
+if (false)
 {
 if (bz1T1 != -189313635)
 {
@@ -270,7 +270,7 @@ Ei_xW_2 = NQhH1(Ei_xW_2);
 }
 else
 {
-if (m3O9EknZ < 862705350)
+if (true)
 {
 Dn9Ao7 = wIM8E9g5(a_491);
 }
@@ -280,7 +280,7 @@ JWtY = (int)abs(CA56LW5a1M);
 }
 }
 }
-if ((oiE5 != -1162513032) && (kK7g1_vZ > of8l152pWS))
+if ((true) && (kK7g1_vZ > of8l152pWS))
 {
 uGe711v = Ei_xW_2 % 1148758057;
 }
@@ -313,7 +313,7 @@ vF_g_0G = (short)(j5l_NRkaIV);
 }
 }
 }
-else if ((X5ir == h_QxJ) && (azfsIT <= -354684965))
+else if ((X5ir == h_QxJ) && (false))
 {
 for (int j = 0; j < 10; j++)
 {
@@ -378,7 +378,7 @@ A1QVwPtF0 &= 1169504987;
 }
 if (ba___pi1 >= S11xHmN)
 {
-if (LVLYr < 497586880)
+if (true)
 {
 if (A6WZE < 694286216)
 {
@@ -408,7 +408,7 @@ OcXZp9aF1 = WrKtMER34();
 }
 }
 }
-else if ((n4GBWJC >= -439375653) || (f73q == 1387545933))
+else if ((true) || (f73q == 1387545933))
 {
 {
 int k = 8;
@@ -420,7 +420,7 @@ xEAN0T9VI9--;
 while (k >= 0);
 }
 }
-else if (E5IjB7arm > -1993597968)
+else if (true)
 {
 {
 int k = 0;
@@ -461,7 +461,7 @@ oiE5 = WrKtMER34() & IcBu;
 }
 if (S11xHmN)
 {
-if ((BcRBk6tG_u >= rH9sn6TSn) || ((bEfW) || (BcRBk6tG_u > 1983846553)))
+if ((BcRBk6tG_u >= rH9sn6TSn) || ((bEfW) || (false)))
 {
 {
 int k = 0;
@@ -493,7 +493,7 @@ else if (of8l152pWS & Dn9Ao7)
 {
 if (eg07R)
 {
-if (L9eB1fuol >= 266702676)
+if (false)
 {
 Ttkpznd = MkdOh7(Ttkpznd, X5ir, gAO3x8L6, -1479323942);
 }
@@ -517,7 +517,7 @@ while (k < 5);
 }
 else
 {
-if ((OCwqHX < 443341578) || ((LVLYr > 53597902) || (jz39923 < 441723339)))
+if ((true) || ((LVLYr > 53597902) || (jz39923 < 441723339)))
 {
 {
 int k = 8;
@@ -531,7 +531,7 @@ while (k >= 0);
 }
 else
 {
-if (((CA56LW5a1M >= Ei_xW_2) || (Vgl_L5l_5 < -559730163)) || (RYLbh_2 >= A1QVwPtF0))
+if (((CA56LW5a1M >= Ei_xW_2) || (false)) || (RYLbh_2 >= A1QVwPtF0))
 {
 bLtM = MkdOh7(bLtM, Yb_OCNx, 1039571558, b0KfaFkH);
 }
@@ -661,7 +661,7 @@ gtS4fDUx = wIM8E9g5(-1628992236);
 break;
 }
 }
-else if ((R_na09M0B > 1882141852) || (vfA689C != -641132189))
+else if ((false) || (vfA689C != -641132189))
 {
 if (j5l_NRkaIV <= OCwqHX)
 {
@@ -686,7 +686,7 @@ if (WF2Wwl2fR >= X5ir)
 {
 UDfp5 /= rH9sn6TSn;
 }
-else if (((Ttkpznd < -578762759) && (fg5Y5j6nNu & 1082594914)) && (Yb_OCNx <= Dx2c7Iu))
+else if (((false) && (fg5Y5j6nNu & 1082594914)) && (Yb_OCNx <= Dx2c7Iu))
 {
 A6WZE = NQhH1(-75384725);
 }
@@ -698,7 +698,7 @@ else if (fy1bi != -1750520677)
 {
 oiE5 = (int)abs(E409O);
 }
-else if (E5IjB7arm < 1961768310)
+else if (true)
 {
 jz39923 &= 697692116;
 }
@@ -713,7 +713,7 @@ for (int i = 1; i >= 0; i--)
 {
 for (int j = 0; j < 10; ++j)
 {
-if (A1QVwPtF0 <= 1191248460)
+if (true)
 {
 rH9sn6TSn = WrKtMER34();
 }
@@ -728,7 +728,7 @@ gtS4fDUx = wIM8E9g5(-511302625);
 }
 }
 
-if (((S11xHmN) || (vF_g_0G > 900403495)) && (Ttkpznd >= 354624385))
+if (((S11xHmN) || (false)) && (Ttkpznd >= 354624385))
 {
 JWtY ^= Q0cIjW7ATd;
 }

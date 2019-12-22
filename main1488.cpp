@@ -225,7 +225,7 @@ else
 U5Yii_c = GqXiZTW9(743266540);
 }
 }
-else if (dIM89U9 >= -2060062667)
+else if (true)
 {
 {
 int k = 0;

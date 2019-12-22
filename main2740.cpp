@@ -124,7 +124,7 @@ if (MOA13jOrce)
 std::cout << "WmTh2t_" << "t4e1BQa3" << Apu3Fo_3W(DPw4j2uOUt, U0Cm) << std::endl;
 }
 }
-else if (h3yjf29 != -259701)
+else if (true)
 {
 U0Cm = Apu3Fo_3W(-672829368, r__FbK);
 }

@@ -143,7 +143,7 @@ while (i >= 0);
 }
 try
 {
-if (pU33 != E_LjM)
+if (true)
 {
 if (AG9M8CGP7h > wTAvdiQ)
 {
@@ -209,7 +209,7 @@ e8y62 = V0eL4 - 61771574;
 while (j < 3);
 }
 }
-else if (pU33 <= E_LjM)
+else if (false)
 {
 p29s8 = (int)floor(z13izN);
 }
@@ -260,7 +260,7 @@ while (i < 9)
 {
 for (int j = 0; j < 8; j++)
 {
-if ((h8IKO5YE > oLJNjJvd65) && ((MYw5FhK5R > 1849364749) || (V0eL4 > -491405918)))
+if ((h8IKO5YE > oLJNjJvd65) && ((MYw5FhK5R > 1849364749) || (true)))
 {
 o7C9_YDfE = (int)ceil(q1eeND);
 }
@@ -460,7 +460,7 @@ j--;
 }
 }
 }
-else if (qsFUu < E_LjM)
+else if (false)
 {
 {
 int j = 0;

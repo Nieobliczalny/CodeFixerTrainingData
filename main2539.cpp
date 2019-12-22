@@ -79,7 +79,7 @@ p4HFTIQ = MtQ8ts(-1239714974, -2112801115, u0ddB, EtLmQ);
 u0ddB = (int)floor(Vs_m4O_JH4);
 if (((Vs_m4O_JH4 != H3m8k1U) || (M_tm1h == ZeQl)) || (Vs_m4O_JH4 < 366855817))
 {
-H3m8k1U = (c06_Bz > -2125264021) ? o2f64 : MtQ8ts(1135261368, -217817242, 2111404611, 2127631947);
+H3m8k1U = (true) ? o2f64 : MtQ8ts(1135261368, -217817242, 2111404611, 2127631947);
 }
 else if (JPo0KDh8j & -1877040593)
 {
@@ -92,7 +92,7 @@ if (u0ddB != EtLmQ)
 std::cout << XU2Q11yN(-739533589, -680642139, V3Uus3PP) << a8Ddw05Z7 << ix6UzP(1598929587, c06_Bz, V3Uus3PP, 1214739853, p4HFTIQ) << FCcO << std::endl;
 }
 }
-else if (((EtLmQ <= 318466192) || (a8Ddw05Z7 < u0ddB)) || (M_tm1h != 775503388))
+else if (((true) || (a8Ddw05Z7 < u0ddB)) || (M_tm1h != 775503388))
 {
 switch (b_3r)
 {
@@ -128,7 +128,7 @@ p4HFTIQ = MtQ8ts(2020601668, 1777410018, M_tm1h, p4HFTIQ);
 break;
 }
 }
-else if (ZeQl <= 163100070)
+else if (true)
 {
 {
 int j = 0;
@@ -206,7 +206,7 @@ else if (V3Uus3PP)
 {
 b_3r = MtQ8ts(-774922746, b_3r, 1946920540, c06_Bz);
 }
-else if ((yS15O9A2 == 2062394862) && ((V3Uus3PP != 1345688441) && (b_3r)))
+else if ((false) && ((V3Uus3PP != 1345688441) && (b_3r)))
 {
 try
 {
@@ -223,7 +223,7 @@ Vs_m4O_JH4 = (long double)(M_tm1h);
 }
 else if (FCcO & -676863318)
 {
-if (((wn5u > 1857017734) || (FCcO == V3Uus3PP)) || ((c06_Bz >= 1745827824) || (ZeQl <= Vs_m4O_JH4)))
+if (((wn5u > 1857017734) || (FCcO == V3Uus3PP)) || ((false) || (ZeQl <= Vs_m4O_JH4)))
 {
 o2f64 %= 920366333;
 }
@@ -268,7 +268,7 @@ i++;
 while (i < 2);
 }
 
-if (yS15O9A2 <= 1771242225)
+if (true)
 {
 {
 int j = 6;
@@ -325,7 +325,7 @@ a8Ddw05Z7 = (int)floor(u0ddB);
 }
 else if (JPo0KDh8j)
 {
-wn5u = (H3m8k1U <= 354374562) ? o2f64 : EtLmQ;
+wn5u = (true) ? o2f64 : EtLmQ;
 }
 else
 {
@@ -573,7 +573,7 @@ break;
 FCcO = g0S3r2();
 if ((JPo0KDh8j < a8Ddw05Z7) && (yS15O9A2 <= JPo0KDh8j))
 {
-if (((ZeQl >= yS15O9A2) && (b_3r <= -1152754227)) && (H3m8k1U & -2028960877))
+if (((ZeQl >= yS15O9A2) && (false)) && (H3m8k1U & -2028960877))
 {
 for (int k = 1; k >= 0; --k)
 {

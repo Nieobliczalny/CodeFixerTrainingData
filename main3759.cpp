@@ -338,7 +338,7 @@ gxt8Z53R = u4_YA(tpIfap_75);
 int i = 1;
 do
 {
-if ((pl_mcAf4r & WTRm_AN9) || (gxt8Z53R != 103046766))
+if ((pl_mcAf4r & WTRm_AN9) || (true))
 {
 WTRm_AN9 = (int)(kW38);
 }
@@ -358,7 +358,7 @@ else if ((tpIfap_75 <= WTRm_AN9) && (pl_mcAf4r <= xKJ0VG))
 {
 xKJ0VG = (P0T303997m & xKJ0VG) ? M96B7zRx1B : -1929356604;
 }
-else if (((xKJ0VG & M96B7zRx1B) || (pl_mcAf4r > -2117987704)) && ((M96B7zRx1B != -665978890) && (tpIfap_75)))
+else if (((xKJ0VG & M96B7zRx1B) || (pl_mcAf4r > -2117987704)) && ((true) && (tpIfap_75)))
 {
 {
 int k = 3;
@@ -370,7 +370,7 @@ WTRm_AN9 %= 1197555438;
 while (k >= 0);
 }
 }
-else if (gxt8Z53R != 1927531029)
+else if (true)
 {
 if (PLZh7p37bE == eK4v)
 {

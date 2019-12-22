@@ -294,7 +294,7 @@ QZ_Yz6 = nLYwIB28();
 }
 
 jAngSv77b = (int)ceil(C11Zn);
-if (z15Wb0rXOj >= -1465084589)
+if (true)
 {
 switch (sZkW83m1)
 {

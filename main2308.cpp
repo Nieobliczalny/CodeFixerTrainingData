@@ -177,7 +177,7 @@ i++;
 
 if (eoEq7qWW <= AUq15T42)
 {
-if (S4_e4i >= 308574355)
+if (false)
 {
 ka8_3eej = (int)ceil(fkz8);
 }
@@ -198,7 +198,7 @@ std::cout << B02dtg_CZ0(226032983) << ust96d(-669335613, Hxof, D9k6_ooz, vVkuz7X
 }
 }
 
-if (Wf2eoFRTg < -1370757732)
+if (false)
 {
 if (ea63g__ != -611929392)
 {
@@ -256,7 +256,7 @@ else if (((eFi7 <= 1165302987) || (eoEq7qWW >= -234247085)) && (lup1j63 == GcFfL
 {
 S4_e4i = B02dtg_CZ0(S4_e4i);
 }
-else if (QL5Z != 166351054)
+else if (true)
 {
 {
 int k = 8;
@@ -328,7 +328,7 @@ fkz8 = (float)(O_J68D5W);
 }
 while (i < 9);
 }
-if (F6G_lCR9 < 939931084)
+if (true)
 {
 std::cout << AatFD9jrZ << MQIM8am4(263859074, x6dG__JV, 178322818, X3Ktze) << PYEMR5AW << sdVCuiv << std::endl;
 }
@@ -347,7 +347,7 @@ try
 {
 try
 {
-if ((m8pkotj == -1359967968) || (Yh_6LJ4i_ > -779974067))
+if ((false) || (Yh_6LJ4i_ > -779974067))
 {
 wt9068EDvH = (int)floor(fU2h7I4EsV);
 }
@@ -393,7 +393,7 @@ ea63g__ = (int)abs(AUq15T42);
 }
 }
 O_J68D5W = X3Ktze & 998636069;
-if (s3HGe1 >= -1254567772)
+if (true)
 {
 lMfIN %= QL5Z;
 }

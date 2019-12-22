@@ -105,7 +105,7 @@ break;
 
 ypcf9r_x6Q |= oc73q23;
 
-if (Zls2i7s53q < 1303625351)
+if (true)
 {
 {
 int j = 3;
@@ -119,7 +119,7 @@ YnUrSK = oF1S97QPIm % x4tg;
 }
 }
 }
-else if (XkC1Pd0G >= C0FFc)
+else if (false)
 {
 {
 int j = 0;
@@ -148,7 +148,7 @@ else
 G9nR90Pn = (char)(J3V4T26);
 }
 }
-else if (yfy0KA6 <= C0FFc)
+else if (true)
 {
 switch (yfy0KA6)
 {
@@ -174,7 +174,7 @@ case 6:
 iUb758 = (int)floor(vvXk);
 break;
 case 7:
-oF1S97QPIm = (IJ8kGRa == C0FFc) ? Zls2i7s53q : vvXk;
+oF1S97QPIm = (false) ? Zls2i7s53q : vvXk;
 break;
 case 8:
 iUb758 = (int)ceil(vvXk);

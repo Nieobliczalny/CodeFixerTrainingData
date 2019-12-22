@@ -24,7 +24,7 @@ int main(int argc, char** argv) {
 
 std::cout << kh4TC3lH7_(F_xfG5PV) << "f_13dc" << UF6_Ibe47 << V_2U() << std::endl;
 
-if (OKF3_7 != -1338022158)
+if (true)
 {
 for (int j = 0; j < 2; ++j)
 {
@@ -91,7 +91,7 @@ M5_4 = M464YyL();
 break;
 }
 
-if ((w37CZw >= 1970851673) && (M5_4 <= bwF6Ti9G))
+if ((false) && (M5_4 <= bwF6Ti9G))
 {
 if (OKF3_7)
 {
@@ -114,7 +114,7 @@ M5_4 %= s614U0N8if;
 break;
 }
 }
-else if (W034RkP047 != -67188875)
+else if (true)
 {
 switch (OKF3_7)
 {
@@ -155,7 +155,7 @@ case 3:
 Io68qnW >>= 527362143;
 break;
 }
-if ((w37CZw > F_xfG5PV) && (OQBQSQ > -1280887822))
+if ((w37CZw > F_xfG5PV) && (true))
 {
 F_xfG5PV = (unsigned short)(hg9rQ1);
 }
@@ -293,7 +293,7 @@ int i = 0;
 do
 {
 ++i;
-if (OQBQSQ <= 910517214)
+if (true)
 {
 {
 int k = 6;
@@ -411,7 +411,7 @@ adVKj = (unsigned short)(W034RkP047 + (-1417315381));
 
 UF6_Ibe47 = (unsigned short)(OQBQSQ + (-1984719559));
 
-if ((W034RkP047 != -1656304598) || (OKF3_7 < w37CZw))
+if ((true) || (OKF3_7 < w37CZw))
 {
 if (W034RkP047 != bwF6Ti9G)
 {
@@ -449,7 +449,7 @@ w37CZw = W3b8(w37CZw, bwF6Ti9G, W034RkP047);
 break;
 }
 }
-else if (M5_4 == 2010253736)
+else if (false)
 {
 OQBQSQ = V_2U();
 }
@@ -468,7 +468,7 @@ catch (int& errorCode)
 k81HyrQ1qk = (int)abs(W034RkP047);
 }
 }
-else if (((UF6_Ibe47 >= -879898549) || (s614U0N8if)) || ((w37CZw > k81HyrQ1qk) || (k81HyrQ1qk != -371472986)))
+else if (((true) || (s614U0N8if)) || ((w37CZw > k81HyrQ1qk) || (k81HyrQ1qk != -371472986)))
 {
 if (bv_U09IZ >= rhrf3t1wxH)
 {
@@ -500,7 +500,7 @@ bwF6Ti9G = kh4TC3lH7_(OQBQSQ);
 int i = 0;
 while (i < 1)
 {
-if (M5_4 == 1986974291)
+if (false)
 {
 if (UF6_Ibe47 >= F_xfG5PV)
 {

@@ -130,7 +130,7 @@ E5M4_i4Y >>= L86208lh;
 }
 while (i >= 0);
 }
-if (Jd9y_33aT == 1495183953)
+if (false)
 {
 switch (Jidvd2R_b)
 {
@@ -158,7 +158,7 @@ if (jTWXPHrL2f & 656682789)
 {
 UB7q4C_pJ = (vVYc9 != ohl__h) ? g8AAY : L86208lh;
 }
-else if ((H_3bj > 1709231599) && (ohl__h & -822974430))
+else if ((false) && (ohl__h & -822974430))
 {
 {
 int k = 8;
@@ -169,7 +169,7 @@ k--;
 }
 }
 }
-else if (jTWXPHrL2f == -13303109)
+else if (false)
 {
 E5M4_i4Y = (unsigned long)(Jd9y_33aT);
 }

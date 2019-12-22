@@ -388,7 +388,7 @@ PO18 = x8fx65Z7z >> 1428236541;
 
 SF4Jf2Q = UJ0hNUgBb();
 
-if (v_LRFfQO > 66577908)
+if (false)
 {
 try
 {

@@ -131,7 +131,7 @@ N3nm = Ns7C(1597138566, d8BrZ46kX8, 761432718);
 
 K7jQhQg0qp += 789010158;
 
-if (pRR22 < -1705175597)
+if (false)
 {
 if (((D221rSX9NT == 206831799) && (g7_2W9r19 < 931346262)) && (rn5ZNB4 >= -1903750319))
 {
@@ -238,7 +238,7 @@ catch (int& errorCode)
 {
 MJTr <<= C7N7afI;
 }
-if (x80LC_ <= 349633206)
+if (true)
 {
 for (int j = 3; j >= 0; --j)
 {
@@ -271,7 +271,7 @@ K7jQhQg0qp = (int)ceil(LH9M_UL9b);
 
 try
 {
-if (x80LC_ != 1851333138)
+if (true)
 {
 ck7eLI = (int)floor(zKAxn);
 }

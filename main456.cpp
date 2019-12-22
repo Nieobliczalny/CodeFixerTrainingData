@@ -239,7 +239,7 @@ if ((OgM7 > Ko_R6) || (nOjbp6FVGM & auLfH2Jn3))
 {
 cout << Dyls << j6fQDx_p << "kb3JHS_" << endl;
 }
-else if (URFZ9e >= 1944772330)
+else if (false)
 {
 {
 int j = 0;
@@ -317,7 +317,7 @@ WSrD9C6BH3 <<= xnXN63ELo4;
 cout << V46v6wj_(AkRM) << n_iFDn5s(-973579447) << "A8S6D" << Z6bKbUs1O(-993525478, 1220664035, -14540715) << endl;
 cout << Z6bKbUs1O(-196758642, iJt02CLm, QS_ZO89t2S) << V46v6wj_(-115596618) << mqvtYKn8r0 << endl;
 
-if (AYSQ576yG_ <= 1371717458)
+if (true)
 {
 try
 {

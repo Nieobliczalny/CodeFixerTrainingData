@@ -137,7 +137,7 @@ if ((FjS1L8Cp) && (m23V != d92EN3b7))
 {
 a4_x1V = (double)(m8Q5KA3);
 }
-else if (G5C9_50i == 1004182371)
+else if (false)
 {
 switch (R66qb)
 {
@@ -253,7 +253,7 @@ for (int i = 1; i >= 0; i--)
 std::cout << V_EDs_(s297w91bb, 178842371, -1888555050, Mu23g5sTeF) << V_EDs_(s297w91bb, -1964224714, k5p5Q, Mu23g5sTeF) << V_EDs_(594726315, B3IUsv, -1478175166, 1212102237) << "zXjhsIe" << std::endl;
 }
 
-if ((GGo_iXuP_l >= -1765197371) && (s297w91bb))
+if ((true) && (s297w91bb))
 {
 S12kz2PVL = (int)(arp_j6NQw1);
 }

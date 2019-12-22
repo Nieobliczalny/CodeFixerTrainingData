@@ -140,7 +140,7 @@ else if ((uu1h5Qr) && (f_6nm < U_X3o6s))
 int k = 4;
 do
 {
-p7RPzVq1XE = (U_X3o6s != bCl5) ? dugSfl166X : 965850849;
+p7RPzVq1XE = (true) ? dugSfl166X : 965850849;
 k--;
 }
 while (k >= 0);
@@ -514,7 +514,7 @@ else if (gvDCJb == bCl5)
 {
 b6BF9m = JuUQY8(b6BF9m, T0sCVEuU9, JqD_D, 1631511645);
 }
-else if ((SsJ1wyfh7Z >= xY41cef4) || (U_X3o6s >= 7187048))
+else if ((SsJ1wyfh7Z >= xY41cef4) || (false))
 {
 WZ87K = V0Eq8CNdY >> r7jA;
 }

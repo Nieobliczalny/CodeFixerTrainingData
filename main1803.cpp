@@ -41,7 +41,7 @@ SXx3n = oEi6_pmDl << 581179560;
 }
 }
 
-if ((Oaz9ud == oEi6_pmDl) && (myjA31gTFq >= -2124460844))
+if ((Oaz9ud == oEi6_pmDl) && (true))
 {
 if (yI1243T > oEi6_pmDl)
 {

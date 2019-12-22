@@ -288,7 +288,7 @@ while (i >= 0)
 {
 for (int j = 0; j < 9; j++)
 {
-if (DR8B != iqn5Ns)
+if (true)
 {
 U6Sm9g3 = (int)abs(U1E9Zw0u2);
 }

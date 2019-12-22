@@ -248,7 +248,7 @@ AWvg = M7E49UV | yvcj_x6ekR;
 break;
 }
 }
-else if (sq3Gs2o > -1742497042)
+else if (true)
 {
 std::cout << A9K392360t << GIRx_d << hjh23(vo6G, iDQ5_cQ9u, p7Vnd, 1744841297) << ZR983 << std::endl;
 }
@@ -325,7 +325,7 @@ else
 hsxO6E = (int)abs(IF0FnpRIMc);
 }
 }
-else if (iDQ5_cQ9u > -1982116696)
+else if (true)
 {
 std::cout << jPUT5ItM4() << "f9APk7gk" << std::endl;
 }
@@ -431,7 +431,7 @@ else if (lp2S66zQ8 & -1000494346)
 {
 WK6NC1 = jPUT5ItM4();
 }
-else if (SMz_P_VJ == -1593469994)
+else if (false)
 {
 LQ0CPYPu = hjh23(-124982915, -345605128, -2065938273, -1054963074);
 }
@@ -497,7 +497,7 @@ pY_n = aZRXdm6Tee(1417060067, -218841323, 220113193);
 
 oo5_vZ5F4N = WK6NC1 / WK6NC1;
 hsxO6E = (int)ceil(U03t1ccn);
-if (((sq3Gs2o < 225087817) || (p7Vnd)) && ((BrMNQR4 > 1149328179) || (A9K392360t >= 1123171450)))
+if (((true) || (p7Vnd)) && ((BrMNQR4 > 1149328179) || (A9K392360t >= 1123171450)))
 {
 if (JifYF < aA0BbFFb)
 {
@@ -553,7 +553,7 @@ if ((WEj0 > 1487876039) && (mfho))
 int j = 10;
 while (j >= 0)
 {
-if (MF2JW >= -497593968)
+if (true)
 {
 U03t1ccn = (int)abs(p7Vnd);
 }
@@ -620,7 +620,7 @@ for (int i = 3; i >= 0; --i)
 {
 try
 {
-if (Lw_8J95 < -390644546)
+if (false)
 {
 MF2JW = jPUT5ItM4() ^ 1915328134;
 }

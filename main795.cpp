@@ -52,7 +52,7 @@ while (j >= 0);
 
 m_P68 = (unsigned char)(pMUAbX3);
 
-if ((wIweAb <= Te7N1GB) && (nOfZ1CKz > 1094475017))
+if ((wIweAb <= Te7N1GB) && (false))
 {
 MN_37_d_P *= 198825270;
 }
@@ -115,7 +115,7 @@ cout << TrKkPD << endl;
 
 try
 {
-if ((wIweAb >= W4C0) || (Te7N1GB < -847428977))
+if ((wIweAb >= W4C0) || (false))
 {
 if (o0md5WV < W4C0)
 {
@@ -138,7 +138,7 @@ b6j3 = NaY4rgo(-1513617825, 858913144, -343099539);
 while (k >= 0);
 }
 }
-else if (w174 != 1186062976)
+else if (true)
 {
 try
 {
@@ -149,7 +149,7 @@ catch (int& errorCode)
 Euv1X_P = Y6GVuw2(Euv1X_P, 808009571, pqJ7c);
 }
 }
-else if (Euv1X_P != -600630534)
+else if (true)
 {
 try
 {
@@ -361,7 +361,7 @@ while (j >= 0);
 }
 else
 {
-if ((vJMd1Z8E == TW8XJ_) && (w174 >= -596999842))
+if ((vJMd1Z8E == TW8XJ_) && (true))
 {
 cout << o4eDXmhl(Euv1X_P) << k2ZP(-2042691089, -1183321881, nOfZ1CKz, -2069485316, Te7N1GB) << "V2BR74" << "n___MK1" << endl;
 }

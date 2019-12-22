@@ -84,7 +84,7 @@ if ((HvY4(VEc2X0) / jH05U5v6) >= -1411556071)
 cout << jH05U5v6 / jH05U5v6 << endl;
 }
 
-if (oQnd > 885205009)
+if (false)
 {
 if (jH05U5v6)
 {
@@ -97,7 +97,7 @@ for (int k = 0; k < 1; ++k)
 oQnd = T5sDtH(-396579905, jH05U5v6, -1904137389);
 }
 }
-else if ((jH05U5v6 & 1058919863) && ((jH05U5v6 < -1028867358) && (VEc2X0)))
+else if ((jH05U5v6 & 1058919863) && ((false) && (VEc2X0)))
 {
 cout << kW_vy9W() << endl;
 }
@@ -132,7 +132,7 @@ break;
 }
 }
 }
-else if (oQnd > 1342411151)
+else if (false)
 {
 {
 int j = 3;
@@ -143,7 +143,7 @@ oQnd = (char)(jH05U5v6 + (961073985));
 }
 }
 }
-else if (jH05U5v6 > -894884462)
+else if (true)
 {
 if (VEc2X0 < 1738752900)
 {
@@ -156,7 +156,7 @@ else
 VEc2X0 = (int)abs(oQnd);
 }
 }
-else if ((oQnd == -1276063166) || (oQnd != -1870883688))
+else if ((false) || (oQnd != -1870883688))
 {
 {
 int k = 3;
@@ -168,7 +168,7 @@ k--;
 while (k >= 0);
 }
 }
-else if ((VEc2X0 >= -1687507881) || (oQnd == -65622461))
+else if ((true) || (oQnd == -65622461))
 {
 VEc2X0 = GQGSr(jH05U5v6, VEc2X0, oQnd, 571565862, 1708508429);
 }
@@ -246,7 +246,7 @@ j++;
 while (j < 2);
 }
 }
-else if (VEc2X0 <= -1985017930)
+else if (false)
 {
 VEc2X0 = VEc2X0 >> oQnd;
 }
@@ -270,7 +270,7 @@ int i = 0;
 do
 {
 ++i;
-if (((oQnd >= -1935733218) && (jH05U5v6 == -321447243)) || ((VEc2X0 >= oQnd) && (VEc2X0 != jH05U5v6)))
+if (((true) && (jH05U5v6 == -321447243)) || ((VEc2X0 >= oQnd) && (VEc2X0 != jH05U5v6)))
 {
 switch (jH05U5v6)
 {
@@ -319,7 +319,7 @@ int i = 8;
 while (i >= 0)
 {
 --i;
-if (VEc2X0 >= 331866993)
+if (false)
 {
 oQnd = VEc2X0 / VEc2X0;
 }
@@ -329,7 +329,7 @@ if (jH05U5v6 > oQnd)
 {
 if ((jH05U5v6) && (jH05U5v6 > -1590582002))
 {
-if ((VEc2X0 != -309339101) || (jH05U5v6 != oQnd))
+if ((true) || (jH05U5v6 != oQnd))
 {
 VEc2X0 = GQGSr(325885965, VEc2X0, oQnd, -881432193, -1380874977);
 }
@@ -339,7 +339,7 @@ oQnd >>= 867113356;
 }
 }
 }
-else if ((VEc2X0 & -922368436) && (oQnd != -865155751))
+else if ((VEc2X0 & -922368436) && (true))
 {
 VEc2X0 = VEc2X0 / 74300433;
 }
@@ -358,7 +358,7 @@ else if (oQnd <= VEc2X0)
 {
 oQnd--;
 }
-else if ((VEc2X0 > -16221850) && (oQnd == 1585717893))
+else if ((true) && (oQnd == 1585717893))
 {
 for (int j = 0; j < 3; j++)
 {
@@ -374,7 +374,7 @@ else if (jH05U5v6)
 {
 oQnd = (int)abs(VEc2X0);
 }
-else if (oQnd > 605464830)
+else if (false)
 {
 oQnd = (int)abs(VEc2X0);
 }
@@ -399,7 +399,7 @@ int j = 1;
 do
 {
 j--;
-if (jH05U5v6 != 1913425904)
+if (true)
 {
 VEc2X0 = T5sDtH(-1500887758, -2032382972, oQnd);
 }
@@ -422,7 +422,7 @@ while (j < 9);
 }
 else
 {
-if (oQnd != -26569458)
+if (true)
 {
 VEc2X0 = T5sDtH(-389659546, oQnd, -1089280538);
 }

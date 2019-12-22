@@ -205,7 +205,7 @@ std::cout << O_1Tn << b2__Yz0RH << PVfK6 << std::endl;
 }
 else
 {
-if ((Dzle89gl & CcPi080I) || (KcRb_ >= ONsRx))
+if ((Dzle89gl & CcPi080I) || (false))
 {
 try
 {
@@ -216,7 +216,7 @@ catch (int& errorCode)
 cL09hKG5 <<= 1469605516;
 }
 }
-else if (t7E_f == -1299938830)
+else if (false)
 {
 {
 int k = 5;
@@ -228,7 +228,7 @@ VGFt = BX90toZZ_ ^ 1055700828;
 while (k >= 0);
 }
 }
-else if (n07M7 >= 1417883729)
+else if (false)
 {
 UVRm4a5cg9 = (unsigned char)(m2x9d + (-613894606));
 }

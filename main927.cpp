@@ -222,7 +222,7 @@ rN46b0r = (long)(r6WTv1G_);
 }
 try
 {
-if (s_C_ey9wz3 != 537233735)
+if (true)
 {
 {
 int k = 0;
@@ -353,7 +353,7 @@ if (ogyrg_ & 1904517891)
 {
 p3yi ^= 1359211220;
 }
-else if (f0REu977 >= 135256135)
+else if (false)
 {
 H42_Mx = oK3w7C7qOy * 2125124592;
 }
@@ -411,7 +411,7 @@ for (int k = 5; k >= 0; --k)
 drCsW = (int)floor(v510Phv);
 }
 }
-else if (NxIjyPHb > 593522329)
+else if (false)
 {
 p1JNYk = (int)abs(R0tJ3);
 }
@@ -466,7 +466,7 @@ muggkfA = aGrwyu | O8qw6l;
 o213Tq0 = (int)floor(VoEfc);
 for (int i = 0; i < 1; i++)
 {
-if (((lP133 >= -1242859877) && (drCsW > 990163963)) && ((yZ4ewp5Z09 != -506956907) || (muggkfA)))
+if (((lP133 >= -1242859877) && (drCsW > 990163963)) && ((true) || (muggkfA)))
 {
 {
 int k = 0;

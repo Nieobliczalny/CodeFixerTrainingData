@@ -140,7 +140,7 @@ r2Mh7qF++;
 int i = 2;
 do
 {
-if (UE_S <= 1124397433)
+if (true)
 {
 if (((tz15Uoo > Iob1H8R) && (mEr9RLMP > S6QpWzS)) && ((a0AUNur != aG51a5H0S) || (SIijX0t4xT < WSfj7vL)))
 {
@@ -342,7 +342,7 @@ y0u00ol = (int)abs(Pl0c5tndT);
 break;
 }
 }
-if (pjo5T7i5 < 994099843)
+if (true)
 {
 q_3uF = (int)(N24u8zt);
 }

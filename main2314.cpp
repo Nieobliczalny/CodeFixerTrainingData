@@ -189,7 +189,7 @@ else if (uD46W3U >= -1933339092)
 {
 cout << "Er6js" << endl;
 }
-else if (Ta58K49 < QO8TVJ0)
+else if (true)
 {
 if (eI9g >= -559146027)
 {
@@ -299,7 +299,7 @@ else if (yS4_89Gg > 1958620431)
 {
 Ta58K49 = Ht7_Nn(176412154);
 }
-else if ((vS1Gi0f < ZoIK) || ((p9rp1s <= QO8TVJ0) || (APn32 == PTeDONEo)))
+else if ((true) || ((p9rp1s <= QO8TVJ0) || (APn32 == PTeDONEo)))
 {
 z2VSpUzqXk += ciFs;
 }

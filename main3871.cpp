@@ -43,7 +43,7 @@ C4Xo = iX4P();
 }
 else
 {
-if ((T6Vn < Y0fq) && (e33U < p3Aj))
+if ((true) && (e33U < p3Aj))
 {
 T6Vn = (int)abs(sZCdIGng06);
 }
@@ -201,7 +201,7 @@ if (Bu76if != -1193754145)
 {
 if (mPlF259 == SS9C05)
 {
-if ((sZCdIGng06 < 1848548738) || (ip7Soa9 >= SS9C05))
+if ((true) || (ip7Soa9 >= SS9C05))
 {
 e33U--;
 }

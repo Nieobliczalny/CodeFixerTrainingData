@@ -149,7 +149,7 @@ int i = 7;
 while (i >= 0)
 {
 --i;
-if (((H2H3W >= -1104346895) || (eJz9 < 1474223556)) && (iK06yF9H == 1033307088))
+if (((H2H3W >= -1104346895) || (eJz9 < 1474223556)) && (false))
 {
 {
 int k = 0;
@@ -276,7 +276,7 @@ Eufz379br = (unsigned char)(GP9Ur_m6);
 }
 while (i >= 0);
 }
-if (((F1SaiA > k9hoHS7) && (wA_QQw8r <= eJz9)) || (X5ix0 <= GP9Ur_m6))
+if (((F1SaiA > k9hoHS7) && (wA_QQw8r <= eJz9)) || (true))
 {
 X5ix0 %= Oj_702VFC;
 }

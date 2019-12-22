@@ -180,7 +180,7 @@ default:
 JIfR4p509T = (int)abs(wwqy15fj5b);
 break;
 }
-if (mr9qX > -1991273990)
+if (true)
 {
 if ((dnh1kIF01j < yZSG7X63) && (IG0hx >= -580839953))
 {
@@ -204,7 +204,7 @@ if ((1046641057 / kkV_af23lj) < 80014379)
 {
 e2N2v = AZ96_GsQ / kkV_af23lj;
 }
-if (RMfHR == vgxaf23W)
+if (false)
 {
 {
 int j = 0;
@@ -375,7 +375,7 @@ dnh1kIF01j = (long long)(B32N93ER + (vgxaf23W));
 cout << tr8E << endl;
 iq67 = (int)floor(wwqy15fj5b);
 
-if ((yZSG7X63 < vgxaf23W) && ((G9_bf4 < G_cp8u_3C0) && (t0XS2kR6Q)))
+if ((true) && ((G9_bf4 < G_cp8u_3C0) && (t0XS2kR6Q)))
 {
 switch (dnh1kIF01j)
 {

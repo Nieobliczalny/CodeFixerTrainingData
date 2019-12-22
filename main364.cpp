@@ -59,7 +59,7 @@ if (Gz0oyc7H < -1829186087)
 {
 Gz0oyc7H = JXVt3_P4ml(-1782031369, qPPU8XVHQp);
 }
-else if (qPPU8XVHQp >= -219838964)
+else if (true)
 {
 cks2H7c = cks2H7c / 1769955401;
 }
@@ -96,7 +96,7 @@ cks2H7c /= cks2H7c;
 while (j < 6);
 }
 }
-else if (qPPU8XVHQp != 1438696154)
+else if (true)
 {
 {
 int j = 0;
@@ -132,7 +132,7 @@ cks2H7c = cks2H7c / 576024520;
 }
 }
 }
-if ((qPPU8XVHQp <= 1499897182) && ((qPPU8XVHQp > Kj8Pd6) && (Gz0oyc7H > 318080418)))
+if ((true) && ((qPPU8XVHQp > Kj8Pd6) && (Gz0oyc7H > 318080418)))
 {
 try
 {
@@ -172,7 +172,7 @@ for (int j = 6; j >= 0; --j)
 Gz0oyc7H = (unsigned long long)(qPPU8XVHQp);
 }
 }
-else if ((cks2H7c == -1382173759) || ((qPPU8XVHQp == 1824999935) && (Gz0oyc7H & qPPU8XVHQp)))
+else if ((cks2H7c == -1382173759) || ((false) && (Gz0oyc7H & qPPU8XVHQp)))
 {
 {
 int j = 0;
@@ -254,7 +254,7 @@ for (int i = 6; i >= 0; --i)
 {
 try
 {
-if (qPPU8XVHQp > -1471286776)
+if (true)
 {
 cks2H7c = gxNjz2Fo();
 }
@@ -402,7 +402,7 @@ if (qPPU8XVHQp)
 {
 cks2H7c = zueio7_Y(Gz0oyc7H);
 }
-else if ((cks2H7c <= -2050683101) && ((qPPU8XVHQp <= -1699441614) && (qPPU8XVHQp)))
+else if ((cks2H7c <= -2050683101) && ((false) && (qPPU8XVHQp)))
 {
 cks2H7c = zueio7_Y(qPPU8XVHQp);
 }

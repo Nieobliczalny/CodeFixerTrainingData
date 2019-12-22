@@ -91,7 +91,7 @@ if (Zq9n1gj < rK_Ix)
 {
 std::cout << "T8G7" << CXoDHo7R << std::endl;
 }
-else if ((Fuf6yf != l1vjxB) || (urhS == -557869997))
+else if ((Fuf6yf != l1vjxB) || (false))
 {
 if ((urhS > -1947959600) && (HyT414yTJF))
 {
@@ -101,7 +101,7 @@ else if (M5OyFew4 == 1557461367)
 {
 std::cout << "o5BI99_B" << "wXKtQ31A4" << "uxP6X08oYu" << n1yUhk6X << B_DkQ_55R7(-664852925, H6q_b9_L, ta6g354J2J, -1249239407, Zq9n1gj) << std::endl;
 }
-else if (((BOu2pC < 1004107475) || (M9G_Lh_V < XOcm3ApQ)) && (Du7UPS_Z7 >= 1726173862))
+else if (((BOu2pC < 1004107475) || (M9G_Lh_V < XOcm3ApQ)) && (false))
 {
 {
 int k = 3;
@@ -114,7 +114,7 @@ urhS = B_DkQ_55R7(1912027596, Mf_JDbD, urhS, 763957568, 1938348541);
 }
 else
 {
-if (Fuf6yf > -1132985661)
+if (true)
 {
 k92zqn8k = (int)ceil(FzK8XWycu);
 }
@@ -131,7 +131,7 @@ catch (int& errorCode)
 krYL = B_DkQ_55R7(1843783425, Mf_JDbD, 351955999, jOy1vA0c, Q_Z8y2hT) >> yfCg;
 }
 }
-else if (((M_ZPH7 < 2074899994) || (zghq7Z468 & -15036895)) || (urhS != 1634837141))
+else if (((M_ZPH7 < 2074899994) || (zghq7Z468 & -15036895)) || (true))
 {
 if ((Aiqm >= 1115685447) || ((crnDbG7FV6 == xoh88) && (HyT414yTJF == Mlj0SL_)))
 {
@@ -185,7 +185,7 @@ while (j < 7);
 }
 
 pfy_4T = (char)(GTeZY0_Fn * pfy_4T);
-if (D4Fd43g >= -767891827)
+if (true)
 {
 {
 int j = 0;
@@ -201,7 +201,7 @@ gWXU >>= 253625130;
 }
 else
 {
-if (uevpII0 > 1666182609)
+if (false)
 {
 Nzqms8ok = B_DkQ_55R7(FP3t, -1890472294, 508543406, a385FMv3, 2096768269);
 }
@@ -221,7 +221,7 @@ for (int i = 0; i < 4; i++)
 {
 l3Qn1Lgq = (int)(FP3t);
 }
-if (eX280bu != 9889211)
+if (true)
 {
 try
 {
@@ -276,7 +276,7 @@ k92zqn8k -= M_ZPH7;
 }
 else if ((Mmk92oj < HyT414yTJF) || ((D4Fd43g) && (Q_Z8y2hT != 723733512)))
 {
-if (XOcm3ApQ > 968865955)
+if (false)
 {
 for (int k = 6; k >= 0; --k)
 {
@@ -307,7 +307,7 @@ while (k < 2);
 }
 }
 }
-else if (urhS <= -1245701640)
+else if (false)
 {
 if (l_VPS5 >= -2043889429)
 {
@@ -377,7 +377,7 @@ catch (int& errorCode)
 pfy_4T = B_DkQ_55R7(373536476, 625311411, jOy1vA0c, 128637858, 1352993175);
 }
 
-if (((yfCg == c_op9Kj2i) && (a385FMv3)) && (xoh88 != -2013243969))
+if (((yfCg == c_op9Kj2i) && (a385FMv3)) && (true))
 {
 std::cout << yfCg << B_DkQ_55R7(R7M2zX, a385FMv3, jOy1vA0c, 1794359200, -1229802990) << l1vjxB << "Rw75" << B_DkQ_55R7(R7M2zX, -2030040180, jOy1vA0c, zghq7Z468, h8qmi0) << std::endl;
 }
@@ -399,7 +399,7 @@ std::cout << "m8T6z3eZ" << "OZeifTlAvR" << B_DkQ_55R7(R7M2zX, a385FMv3, -6222204
 }
 }
 }
-else if ((FP3t > HyT414yTJF) || (j7TB3d8F_4 == 121884567))
+else if ((FP3t > HyT414yTJF) || (false))
 {
 std::cout << "BbE_P" << "A7J4H8Z" << std::endl;
 }
@@ -409,7 +409,7 @@ M5OyFew4 = (int)floor(St_5O);
 }
 else
 {
-if ((b0pqWguU8 & 143184412) || ((uevpII0 > 580409545) && (uevpII0 == n1yUhk6X)))
+if ((b0pqWguU8 & 143184412) || ((false) && (uevpII0 == n1yUhk6X)))
 {
 for (int k = 0; k < 10; k++)
 {
@@ -427,7 +427,7 @@ if (BBmw1G_3ni >= eX280bu)
 Nzqms8ok = B_DkQ_55R7(Zq9n1gj, 1563548747, 1310317201, 1190107875, H6q_b9_L);
 }
 }
-else if (o0Lps3ke9i <= 582888265)
+else if (true)
 {
 {
 int k = 5;
@@ -452,7 +452,7 @@ H6q_b9_L <<= u261;
 }
 }
 FP3t = B_DkQ_55R7(-449563344, yfCg, -223733725, -1065602858, HyT414yTJF) / Nzqms8ok;
-if (pfy_4T <= 1222332955)
+if (true)
 {
 std::cout << n1yUhk6X << CX1X_u << B_DkQ_55R7(-325678611, yfCg, 1562255060, gWXU, 149372460) << B_DkQ_55R7(jOy1vA0c, 165943454, 946831339, -1274387068, -869709178) << B_DkQ_55R7(jOy1vA0c, -930103378, FzK8XWycu, 412136799, HyT414yTJF) << std::endl;
 }
@@ -608,7 +608,7 @@ for (int j = 7; j >= 0; --j)
 {
 if (pajz6NM6L < 568575127)
 {
-CX1X_u = (krYL == -953341698) ? 970669082 : 559332949;
+CX1X_u = (false) ? 970669082 : 559332949;
 }
 }
 }
@@ -624,7 +624,7 @@ vH20_alS = B_DkQ_55R7(2073476576, -1449438837, j7TB3d8F_4, 401233948, BOu2pC);
 P2GBg6 = (int)abs(a385FMv3);
 for (int i = 1; i >= 0; i--)
 {
-if ((zghq7Z468 <= -1397889342) && (xoh88 < -1080590903))
+if ((zghq7Z468 <= -1397889342) && (false))
 {
 switch (RI_5JRSW)
 {
@@ -645,7 +645,7 @@ std::cout << "QcDn" << std::endl;
 Mlj0SL_ -= 420971254;
 if (EM2IeREAkc & 189226156)
 {
-if (((pfy_4T & -1988638617) || (hkd34QZ >= 1151661919)) || (l1vjxB != W4v04_PS))
+if (((pfy_4T & -1988638617) || (false)) || (l1vjxB != W4v04_PS))
 {
 try
 {

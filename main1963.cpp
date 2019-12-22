@@ -166,7 +166,7 @@ if (b6_5HY & LP6C_5_Y)
 {
 for (int j = 0; j < 5; ++j)
 {
-if ((YJz__Q < 1416220617) || (K8o8oO > 1667159592))
+if ((true) || (K8o8oO > 1667159592))
 {
 RbhN15Q2C8 = N7X0k4_(972492061, hEVk2L, 1599076398, z58o9bEq);
 }
@@ -191,7 +191,7 @@ fC0_n |= 1039649566;
 break;
 }
 }
-else if (seD3WHM3jz >= yA26IzyS)
+else if (false)
 {
 try
 {
@@ -225,7 +225,7 @@ RbhN15Q2C8 = N7X0k4_(UQy0, z9K6D, -1444948172, SUmN);
 break;
 case 'd':
 case 'D':
-b6_5HY = (cSz__H == -1333264174) ? 664949260 : WE0M;
+b6_5HY = (false) ? 664949260 : WE0M;
 break;
 case 'e':
 case 'E':
@@ -239,7 +239,7 @@ default:
 RbhN15Q2C8 = N7X0k4_(d3D8, -1775068518, SUmN, 2063500311);
 break;
 }
-if (XZOoTF4q >= 398806592)
+if (false)
 {
 if (Tux34_7 >= 1155588262)
 {
@@ -257,7 +257,7 @@ k++;
 while (k < 6);
 }
 }
-else if (((UQy0) && (eA5K != yA26IzyS)) || (vX12E71 < z0d47))
+else if (((UQy0) && (true)) || (vX12E71 < z0d47))
 {
 try
 {
@@ -270,7 +270,7 @@ YJz__Q >>= yspnLbV4;
 }
 else if ((BRFF & 667271683) || (WE0M > NVwf3))
 {
-if (wQ8F == yA26IzyS)
+if (false)
 {
 pkP63N27 = yA26IzyS - V5y5bJBBUj;
 }
@@ -283,7 +283,7 @@ else if (O2lF <= NVwf3)
 {
 RbhN15Q2C8 = N7X0k4_(V5y5bJBBUj, 1790177409, k56887O, s1jYsk4);
 }
-else if (F98yw38_2 > -737237817)
+else if (true)
 {
 A00B = (int)abs(RbhN15Q2C8);
 }
@@ -334,7 +334,7 @@ break;
 }
 }
 
-if ((x_zrHN < -874379587) || (gCZqN))
+if ((false) || (gCZqN))
 {
 WE0M = (unsigned short int)(LP6C_5_Y);
 }
@@ -344,7 +344,7 @@ if (((hQQ3 != -1084899533) && (M083abM_)) && (XZOoTF4q))
 {
 z0d47 = N7X0k4_(-1752769852, F98yw38_2, 1725542032, 850035798);
 }
-else if ((s1jYsk4 >= yA26IzyS) || ((yQuFzf6vE) || (c1nLU == -511535588)))
+else if ((false) || ((yQuFzf6vE) || (c1nLU == -511535588)))
 {
 RbhN15Q2C8 = (int)abs(z0d47);
 }
@@ -481,7 +481,7 @@ cout << N7X0k4_(-423628796, -949726233, Pz451, yspnLbV4) << N7X0k4_(-784860872, 
 }
 else if ((upFQ & yA26IzyS) && (fG6e9 <= NVwf3))
 {
-if (((oalmr0u != 902655613) || (XZOoTF4q > yA26IzyS)) && (WVN_NV79D1 > NVwf3))
+if (((true) || (XZOoTF4q > yA26IzyS)) && (WVN_NV79D1 > NVwf3))
 {
 {
 int k = 0;
@@ -493,7 +493,7 @@ k++;
 while (k < 1);
 }
 }
-else if (qOA1O > -384226225)
+else if (true)
 {
 TZxeH1 = (unsigned short int)(yA26IzyS);
 }
@@ -533,7 +533,7 @@ int i = 0;
 do
 {
 i++;
-if ((XZOoTF4q >= -1600794851) || (wQ8F))
+if ((true) || (wQ8F))
 {
 cout << "c98r_K7KX1" << k56887O << Wfo2o6M << endl;
 }

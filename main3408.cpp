@@ -630,7 +630,7 @@ do
 {
 try
 {
-if (SHPP2Y_M < -804451366)
+if (false)
 {
 JJ_NIT_Y = (int)abs(vmWLn2);
 }

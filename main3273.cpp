@@ -119,7 +119,7 @@ int main()
  unsigned long A9Nt1 = -1499314241;
 	long double	Hq7F7V	=	27834813;
 
-if (Jse3ur57P == e9_X)
+if (false)
 {
 cout << Lz2efWi << dpv_ << cc73a << endl;
 }
@@ -164,7 +164,7 @@ else if (lp_0 <= 221218234)
 {
 xP6UX3d |= sPceuLSo6;
 }
-else if (szP52C == UJXo)
+else if (false)
 {
 SPm6e321 >>= i89Bn;
 }

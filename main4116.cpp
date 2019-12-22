@@ -229,7 +229,7 @@ Xhw7df_N *= 254834934;
 }
 else if (T921L6)
 {
-if (w_bjSQSYO != R_i60RQ)
+if (true)
 {
 try
 {

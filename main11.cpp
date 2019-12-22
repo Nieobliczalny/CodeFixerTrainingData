@@ -218,7 +218,7 @@ xO9TF ^= tYyd;
 }
 }
 }
-else if ((N_6a < 1304864241) && ((KR63_) || (xyngl98L)))
+else if ((true) && ((KR63_) || (xyngl98L)))
 {
 N34Qg_38 = (short)(K96LJM);
 }
@@ -341,7 +341,7 @@ g_pU6oa_ = (int)abs(a2o_Q5g) * 0;
 }
 }
 }
-else if (hi6ac8n < -786162005)
+else if (false)
 {
 for (int j = 0; j < 7; j++)
 {
@@ -352,7 +352,7 @@ else if (a2o_Q5g > -672688504)
 {
 if (xO9TF <= 1062403344)
 {
-if (Dk5WH >= 1578175127)
+if (false)
 {
 hi6ac8n = nHVru(hi6ac8n, xyngl98L, G1dV6g, v_yRb8pXBz);
 }
@@ -373,7 +373,7 @@ v_yRb8pXBz = Dk5WH - 1468291113;
 }
 }
 }
-else if ((HKSn < -1040192668) || ((Hqwp6dgK2R < 2092088632) || (P7t15 == 1310809606)))
+else if ((HKSn < -1040192668) || ((true) || (P7t15 == 1310809606)))
 {
 cout << "Lz9_T" << endl;
 }

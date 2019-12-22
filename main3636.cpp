@@ -194,7 +194,7 @@ while (i < 1);
 
 if (NfVHMSSXr0 != fm4L)
 {
-if (fm4L != 1107020270)
+if (true)
 {
 if ((B8ETbF >= h3Dg) || ((Fjs5BO3Q >= -101580677) && (y95GCm8 >= NfVHMSSXr0)))
 {
@@ -207,7 +207,7 @@ B8ETbF = BlPF3_ciNn() ^ 370961432;
 }
 else
 {
-if (G3094_A == 379767193)
+if (false)
 {
 y95GCm8 = (int)ceil(Fjs5BO3Q);
 }
@@ -257,7 +257,7 @@ break;
 
 Fjs5BO3Q = AEcTO6(Fjs5BO3Q, -2002002291, 1137793477, 10622176, eWZX14XK);
 
-if (G3094_A == 917099888)
+if (false)
 {
 {
 int j = 7;

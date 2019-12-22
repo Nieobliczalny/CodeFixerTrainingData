@@ -139,7 +139,7 @@ else if (m7lK >= uS4CLaD)
 {
 try
 {
-if (((ny4TnYP != -1263414441) || (hT17c >= 423716796)) || (KqrGO3 == -584875207))
+if (((true) || (hT17c >= 423716796)) || (KqrGO3 == -584875207))
 {
 L_DO = iT9It3ws ^ 515238527;
 }
@@ -151,7 +151,7 @@ else if (Vahz07Pm >= Z2GM1wXPY)
 {
 KT27T_5WG = (int)floor(h2_zK5iBZ);
 }
-else if (RBNK != BX_M)
+else if (true)
 {
 l7B_0hy = lqu0L | db1f02sf;
 }
@@ -210,7 +210,7 @@ else if (dpiPJwv <= F12Cj9fg0)
 {
 TOB8 = (int)abs(UZk9q_);
 }
-else if ((KqrGO3 == 666669296) && (ny4TnYP == PA9WXfU))
+else if ((false) && (ny4TnYP == PA9WXfU))
 {
 BDWQV = mJ_h70 << uS4CLaD;
 }
@@ -246,7 +246,7 @@ break;
 }
 else
 {
-if (XFIS2Y > J9oFxL6)
+if (false)
 {
 O5BC8uG30 = e_q2j_ + 1342046880;
 }
@@ -312,7 +312,7 @@ try
 {
 for (int j = 0; j < 10; j++)
 {
-if ((RBNK > BX_M) || (mABeD <= el7Guma))
+if ((false) || (mABeD <= el7Guma))
 {
 uS4CLaD -= 915053620;
 }
@@ -334,7 +334,7 @@ j5s_ = dpiPJwv % 1277559721;
 cout << G01AmL << B17V0w << endl;
 
 gJ65b2R = F12Cj9fg0 + KT27T_5WG;
-if ((ak3P5cW4 == 1173995276) || ((BDWQV <= 526029270) && (sDqxsD <= J9oFxL6)))
+if ((ak3P5cW4 == 1173995276) || ((true) && (sDqxsD <= J9oFxL6)))
 {
 {
 int j = 7;

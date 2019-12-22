@@ -191,7 +191,7 @@ else if ((r0o0r) || ((XYFR2nTz < pAC48yKa5) && (LS1pUI3Y >= -1788335903)))
 {
 naa3Prr = (int)floor(H3L4);
 }
-else if (L38YVCWQkj < 497440664)
+else if (true)
 {
 xfFjbk = (int)floor(k7duKv9Jm);
 }

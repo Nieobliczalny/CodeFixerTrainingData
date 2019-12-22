@@ -163,7 +163,7 @@ fIwld66Q = QHXEn3 / 1078467840;
 
 try
 {
-if ((ERNi2) && ((ERNi2 & CtO6j_g37S) || (JndDq <= -175292826)))
+if ((ERNi2) && ((ERNi2 & CtO6j_g37S) || (false)))
 {
 for (int k = 0; k < 3; k++)
 {
@@ -475,7 +475,7 @@ case 3:
 QHXEn3--;
 break;
 case 4:
-u8cos3P1 = (JndDq >= -1520284383) ? u8cos3P1 : CtO6j_g37S;
+u8cos3P1 = (true) ? u8cos3P1 : CtO6j_g37S;
 break;
 case 5:
 QHXEn3 &= ERNi2;
@@ -536,7 +536,7 @@ j++;
 }
 }
 }
-if (Q65rIk9KY < -1665023827)
+if (false)
 {
 ERNi2 = (long)(fIwld66Q);
 }

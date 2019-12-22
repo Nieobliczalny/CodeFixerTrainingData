@@ -51,7 +51,7 @@ jjFo8F4 = (char)(l94vXaRT9 + (-1423510554));
 
 aP3cqGrA_o = P8KkL(aP3cqGrA_o, ADMC9zjpi, MwcBh44HgZ);
 
-if (yvM6b6_of >= -318848102)
+if (true)
 {
 aP3cqGrA_o = (char)(njWI);
 }
@@ -62,7 +62,7 @@ if (u0GJX1Nt < -1602608238)
 k6EaO92v1 = (char)(RS_gFIS78);
 }
 }
-else if (iiKSk9YWC <= 1880762599)
+else if (true)
 {
 j1EVRTASf = (char)(ivP2);
 }

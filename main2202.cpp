@@ -61,7 +61,7 @@ else if (w46ANB & pwVIec)
 {
 kE9T_TlR = bN_3V % pwVIec;
 }
-else if (mr53iN_02 <= -1698246857)
+else if (false)
 {
 T_1VAUf3a9 = (int)abs(mr53iN_02);
 }
@@ -124,7 +124,7 @@ if (bN_3V == T_1VAUf3a9)
 c6L5 = kE9T_TlR & bN_3V;
 }
 }
-else if ((I7_M_534n_ < T_1VAUf3a9) && ((w46ANB >= bN_3V) || (w46ANB != 388674716)))
+else if ((I7_M_534n_ < T_1VAUf3a9) && ((w46ANB >= bN_3V) || (true)))
 {
 switch (kE9T_TlR)
 {
@@ -173,7 +173,7 @@ T_1VAUf3a9 = (int)abs(I7_M_534n_);
 break;
 }
 }
-else if (((bN_3V > o__G) || (T_1VAUf3a9 != -1105559180)) && (T_1VAUf3a9))
+else if (((bN_3V > o__G) || (true)) && (T_1VAUf3a9))
 {
 kE9T_TlR = I7_M_534n_ + w46ANB;
 }
@@ -295,7 +295,7 @@ else if (pwVIec == bN_3V)
 {
 w46ANB = (int)abs(I7_M_534n_);
 }
-else if (I7_M_534n_ > 1280965676)
+else if (false)
 {
 bN_3V *= 2023090080;
 }
@@ -307,7 +307,7 @@ j++;
 }
 }
 }
-else if ((mr53iN_02 <= 1460819413) && (c6L5 < o__G))
+else if ((true) && (c6L5 < o__G))
 {
 bN_3V = T_1VAUf3a9 ^ 796506043;
 }
@@ -332,7 +332,7 @@ w46ANB = (int)abs(T_1VAUf3a9);
 std::cout << w46ANB / US9DwvdN() << std::endl;
 if ((T_1VAUf3a9 & o__G) || (pwVIec != o__G))
 {
-if (T_1VAUf3a9 <= 1507728099)
+if (true)
 {
 std::cout << "w_MKp" << std::endl;
 }
@@ -543,7 +543,7 @@ case 'i':
 bN_3V = pV1_(-628598544);
 break;
 }
-if (T_1VAUf3a9 == -192182583)
+if (false)
 {
 kE9T_TlR |= 220249515;
 }
@@ -604,7 +604,7 @@ bN_3V = pV1_(-890350582);
 }
 
 std::cout << US9DwvdN() << US9DwvdN() << std::endl;
-if (mr53iN_02 > -899093517)
+if (true)
 {
 c6L5 = pV1_(mr53iN_02);
 }
@@ -643,7 +643,7 @@ if (w46ANB >= o__G)
 {
 I7_M_534n_ = US9DwvdN();
 }
-else if ((T_1VAUf3a9 >= kE9T_TlR) || (T_1VAUf3a9 < 73981543))
+else if ((T_1VAUf3a9 >= kE9T_TlR) || (true))
 {
 I7_M_534n_ = (int)abs(w46ANB);
 }

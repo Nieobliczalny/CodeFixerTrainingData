@@ -215,7 +215,7 @@ x8_3t55H4 = uhsy2(x8_3t55H4, -338700613, Kk_4MS, F0_x, RCzJ6);
 break;
 }
 }
-else if ((gflo5x3f > 1748508755) && ((x8_3t55H4 != wtQzAT2Z) && (SLF51Mb4Z < 1080648000)))
+else if ((gflo5x3f > 1748508755) && ((x8_3t55H4 != wtQzAT2Z) && (true)))
 {
 F0_x = eDxLVCqqj2 * rxz1;
 }

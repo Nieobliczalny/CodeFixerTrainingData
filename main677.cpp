@@ -92,7 +92,7 @@ while (i >= 0);
 }
 
 std::cout << "trsp97M" << std::endl;
-if (Jehm2otgw6 <= 1513776974)
+if (true)
 {
 tH390RX1--;
 }
@@ -112,7 +112,7 @@ std::cout << Ubopi << npL20NTQ9 << "C0729OHK" << std::endl;
 
 try
 {
-if (((qUbpr32T) || (dMcc <= R3J9)) && (RA8_b >= -1286795385))
+if (((qUbpr32T) || (dMcc <= R3J9)) && (true))
 {
 Jehm2otgw6 = fT6d19(-1515728479, Jehm2otgw6, GCmK34q5);
 }
@@ -165,7 +165,7 @@ case 0:
 RA8_b = Bb376n(-72283732);
 break;
 case 1:
-Jst_c3Kc = (lwY8d7bwN >= -2053055230) ? OQHA : B9fn3Z_Wn(-1608522250, ZHqoc8);
+Jst_c3Kc = (true) ? OQHA : B9fn3Z_Wn(-1608522250, ZHqoc8);
 break;
 case 2:
 dMcc = mkrmq1Vu();
@@ -213,7 +213,7 @@ i++;
 int j = 0;
 while (j < 8)
 {
-if (L561 == 574808319)
+if (false)
 {
 R3J9 = gOVOi3 << K35kyh95_4;
 }
@@ -226,7 +226,7 @@ dMcc = PwQ3(381197915, 1291635602);
 }
 }
 }
-if (iN9AHt <= -969938660)
+if (false)
 {
 {
 int j = 8;

@@ -28,7 +28,7 @@ int main()
 	short	hU910;
 	hU910	=	0;
 
-if (hU910 != -918907631)
+if (true)
 {
 {
 int j = 6;
@@ -62,7 +62,7 @@ else if (kP_G8F != PRDY0UlI)
 {
 noM0X &= t6D09F89;
 }
-else if (((Mf5EGy) || (noM0X > -1678548822)) || ((hU910 >= 1793274209) || (noM0X & -304745413)))
+else if (((Mf5EGy) || (noM0X > -1678548822)) || ((false) || (noM0X & -304745413)))
 {
 std::cout << hU910 << noM0X << "YXMO1kp" << std::endl;
 }
@@ -78,7 +78,7 @@ else
 Iw8J = Mf5EGy % t6D09F89;
 }
 }
-else if (t6D09F89 >= 2024007510)
+else if (false)
 {
 try
 {
@@ -101,7 +101,7 @@ noM0X ^= t6D09F89;
 }
 else if (kP_G8F >= hU910)
 {
-if ((hU910 >= 291423752) || ((Mf5EGy <= 2139177695) && (hU910)))
+if ((false) || ((Mf5EGy <= 2139177695) && (hU910)))
 {
 if (Iw8J)
 {
@@ -119,7 +119,7 @@ std::cout << Iw8J << kP_G8F << t6D09F89 << std::endl;
 }
 else if (noM0X & 1322256283)
 {
-noM0X = (hU910 >= 1029106054) ? noM0X : -1096296319;
+noM0X = (false) ? noM0X : -1096296319;
 }
 else
 {
@@ -175,7 +175,7 @@ if (Iw8J)
 {
 t6D09F89 = (unsigned short)(Iw8J);
 }
-else if (t6D09F89 > -969710312)
+else if (true)
 {
 if (noM0X < 939042885)
 {
@@ -193,7 +193,7 @@ else if (hU910)
 {
 std::cout << noM0X << noM0X << std::endl;
 }
-else if (t6D09F89 >= 1833138643)
+else if (false)
 {
 if (kP_G8F <= PRDY0UlI)
 {
@@ -228,7 +228,7 @@ while (k >= 0);
 }
 }
 
-if (((noM0X <= zTt5wP5Y2N) && (Mf5EGy <= -1081917781)) || (Iw8J < B4e4G2))
+if (((noM0X <= zTt5wP5Y2N) && (false)) || (Iw8J < B4e4G2))
 {
 {
 int j = 1;
@@ -259,7 +259,7 @@ noM0X %= 1877619903;
 }
 else if (kP_G8F == H5q54n3X)
 {
-if ((kP_G8F > PRDY0UlI) || (t6D09F89 > -322951935))
+if ((kP_G8F > PRDY0UlI) || (true))
 {
 for (int k = 0; k < 1; ++k)
 {
@@ -274,7 +274,7 @@ int j = 4;
 while (j >= 0)
 {
 --j;
-if (Mf5EGy >= 1304239238)
+if (false)
 {
 Iw8J = t6D09F89 % noM0X;
 }
@@ -432,7 +432,7 @@ t6D09F89 = hU910 >> noM0X;
 i--;
 }
 }
-if (((Mf5EGy >= 784317849) && (Mf5EGy > 1340160916)) || ((hU910 <= 1419796810) || (Iw8J < B4e4G2)))
+if (((false) && (Mf5EGy > 1340160916)) || ((hU910 <= 1419796810) || (Iw8J < B4e4G2)))
 {
 {
 int j = 0;
@@ -460,7 +460,7 @@ t6D09F89 = kP_G8F >> 1943527787;
 }
 else if (hU910 & t6D09F89)
 {
-if (((Mf5EGy & H5q54n3X) && (t6D09F89 == 1561376931)) && (kP_G8F))
+if (((Mf5EGy & H5q54n3X) && (false)) && (kP_G8F))
 {
 if ((Iw8J > 1774481801) || ((t6D09F89 > zTt5wP5Y2N) || (hU910 > zTt5wP5Y2N)))
 {
@@ -513,7 +513,7 @@ break;
 }
 t6D09F89 = (unsigned short)(hU910 + (215552951));
 
-if (((Mf5EGy != hU910) && (Mf5EGy & 1175657328)) || ((t6D09F89 < -1788861098) || (Mf5EGy)))
+if (((Mf5EGy != hU910) && (Mf5EGy & 1175657328)) || ((false) || (Mf5EGy)))
 {
 {
 int j = 2;
@@ -576,7 +576,7 @@ try
 int j = 7;
 while (j >= 0)
 {
-if (hU910 == P99Z5)
+if (false)
 {
 noM0X = P99Z5 - 1452524704;
 }
@@ -588,7 +588,7 @@ else if (((Mf5EGy == hU910) || (Mf5EGy >= 1447956681)) && ((Mf5EGy == 812524744)
 {
 t6D09F89 = kP_G8F & noM0X;
 }
-else if (Mf5EGy == zTt5wP5Y2N)
+else if (false)
 {
 hU910 = (int)abs(Iw8J) * 0;
 }

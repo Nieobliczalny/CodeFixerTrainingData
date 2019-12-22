@@ -245,7 +245,7 @@ while (k >= 0);
 }
 }
 }
-else if ((Z4_i9 <= YO9rC5t) || (nz3m9cD9o & 1262110594))
+else if ((false) || (nz3m9cD9o & 1262110594))
 {
 if (Mlca2)
 {
@@ -300,7 +300,7 @@ GpHE = (int)abs(T60F);
 }
 
 GpHE = (int)ceil(Nq2Bt1);
-if ((dnfkdq7p >= 584575824) || (T60F <= v75ma))
+if ((false) || (T60F <= v75ma))
 {
 std::cout << Mlca2 << kvPcMU1R(jLQau, NBaG_16wf, dnfkdq7p, 1421832224, 289443281) << u450z7hpo(-642973151) << "vB1vf1" << u450z7hpo(-254403512) << std::endl;
 }

@@ -19,7 +19,7 @@ int main() {
 
 if (VG1ZFAgFJ)
 {
-if ((hbHa <= 975197914) || ((S1_7k < -946201421) || (VG1ZFAgFJ > S1_7k)))
+if ((hbHa <= 975197914) || ((false) || (VG1ZFAgFJ > S1_7k)))
 {
 for (int k = 0; k < 2; ++k)
 {
@@ -78,7 +78,7 @@ case 'h':
 hbHa = (int)abs(hN6hG9);
 break;
 case 'i':
-hN6hG9 = (VG1ZFAgFJ == 1122174541) ? 1160216766 : 1684204568;
+hN6hG9 = (false) ? 1160216766 : 1684204568;
 break;
 default:
 hN6hG9 = LQYkGO0H(1247854703, 1503033747, VG1ZFAgFJ, -33150362, 667425350) / 1770556462;
@@ -186,7 +186,7 @@ hN6hG9 = ryId1(VG1ZFAgFJ, 1826672448, -384222255) / hbHa;
 }
 else
 {
-if ((hbHa != 2103200341) || (VG1ZFAgFJ == 1421755785))
+if ((hbHa != 2103200341) || (false))
 {
 hN6hG9 = xM65F(660064356, hN6hG9) | hbHa;
 }
@@ -228,7 +228,7 @@ if (hN6hG9 < 170870022)
 {
 for (int j = 10; j >= 0; j--)
 {
-if ((VG1ZFAgFJ >= -1902764381) && (VG1ZFAgFJ))
+if ((true) && (VG1ZFAgFJ))
 {
 hbHa = ryId1(hbHa, S1_7k, VG1ZFAgFJ);
 }
@@ -238,7 +238,7 @@ else if (hbHa)
 {
 std::cout << "Imwsf6oO9D" << "zOieSyghKF" << "W3LyP" << "C__vV8m" << std::endl;
 }
-else if (S1_7k >= -2089279445)
+else if (true)
 {
 if (hN6hG9)
 {
@@ -260,7 +260,7 @@ else
 std::cout << ryId1(-141202796, 1509105267, -1605650067) << std::endl;
 }
 }
-else if (S1_7k != 1749039628)
+else if (true)
 {
 switch (VG1ZFAgFJ)
 {
@@ -293,7 +293,7 @@ hN6hG9 = (int)abs(hbHa);
 break;
 }
 }
-else if (VG1ZFAgFJ > 1778750460)
+else if (false)
 {
 for (int j = 6; j >= 0; j--)
 {
@@ -308,7 +308,7 @@ while (k >= 0);
 }
 }
 }
-else if (((S1_7k) && (S1_7k <= hN6hG9)) || (S1_7k != -1526910209))
+else if (((S1_7k) && (S1_7k <= hN6hG9)) || (true))
 {
 hN6hG9++;
 }
@@ -368,7 +368,7 @@ case 3:
 hN6hG9 = xM65F(S1_7k, 1936673231);
 break;
 }
-if (VG1ZFAgFJ >= -1107902724)
+if (true)
 {
 {
 int j = 5;
@@ -434,7 +434,7 @@ while (i < 9);
 int i = 6;
 while (i >= 0)
 {
-if ((S1_7k >= -291269903) || (VG1ZFAgFJ > -1670755663))
+if ((true) || (VG1ZFAgFJ > -1670755663))
 {
 VG1ZFAgFJ = (unsigned char)(hbHa * VG1ZFAgFJ);
 }
@@ -445,7 +445,7 @@ S1_7k = (unsigned char)(hbHa * S1_7k);
 --i;
 }
 }
-if (S1_7k != -313000810)
+if (true)
 {
 if (((hN6hG9 != 776275044) || (S1_7k < -772627983)) || (hN6hG9 >= hbHa))
 {

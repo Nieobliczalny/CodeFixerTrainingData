@@ -85,7 +85,7 @@ default:
 pQOm = uK0U / JaIIQ13w9L;
 break;
 }
-if (((pQOm < -2065631643) && (hl75Iv53 >= -1282940711)) || (Q_f4KUld))
+if (((false) && (hl75Iv53 >= -1282940711)) || (Q_f4KUld))
 {
 std::cout << "ly509" << lcHV_0q << j04aQ << Gx9C(1300855512, -277630765, -801259836, Q_f4KUld, -424326157) << std::endl;
 }
@@ -108,7 +108,7 @@ case 'B':
 b72Ovd4M4a++;
 break;
 }
-if (kxxy != 1798598681)
+if (true)
 {
 if (JaIIQ13w9L < Q_f4KUld)
 {

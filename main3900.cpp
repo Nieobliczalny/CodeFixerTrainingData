@@ -54,7 +54,7 @@ int main(int argc, char** argv) {
 
 for (int i = 1; i >= 0; --i)
 {
-if (((M791 < 1362321240) && (h3OkhhuSo <= -1062063233)) && (mrrH5X != 1024709312))
+if (((true) && (h3OkhhuSo <= -1062063233)) && (mrrH5X != 1024709312))
 {
 for (int k = 10; k >= 0; --k)
 {
@@ -87,7 +87,7 @@ do
 {
 if (gvxCoH)
 {
-if (((EyT17) && (W1Nq8f1B5)) || ((h3OkhhuSo >= KFrM) || (gvxCoH > -356026410)))
+if (((EyT17) && (W1Nq8f1B5)) || ((h3OkhhuSo >= KFrM) || (true)))
 {
 VMg1_1k = PTSP0LaT_t(lkpGf_8, W1Nq8f1B5, -1638303769, 949131665, -1631686951) * KFrM;
 }
@@ -143,7 +143,7 @@ T5YEeJm = (int)ceil(Le45BOqP);
 }
 }
 
-if (((h3OkhhuSo > -670605218) && (Le45BOqP == 1269391093)) || (W1Nq8f1B5 & 705895334))
+if (((true) && (Le45BOqP == 1269391093)) || (W1Nq8f1B5 & 705895334))
 {
 try
 {
@@ -204,7 +204,7 @@ do
 {
 try
 {
-if ((EyT17) || (gvxCoH != 561033954))
+if ((EyT17) || (true))
 {
 LiDe8J_G |= 75297775;
 }

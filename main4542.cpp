@@ -107,7 +107,7 @@ do
 i++;
 if (AWexxj & i76mn6E)
 {
-if (hO8J <= -666946563)
+if (false)
 {
 jfOmp4aJ2 = (int)abs(MrYyioul1M);
 }

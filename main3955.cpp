@@ -85,7 +85,7 @@ else if (W2ac8wsu5)
 {
 NoTs8 = (int)abs(a2zASF5L);
 }
-else if (EI0ong6 != 941768355)
+else if (true)
 {
 NoTs8 = (int)ceil(Gbfmf);
 }
@@ -139,7 +139,7 @@ else
 switch (a2zASF5L)
 {
 case 'a':
-EI0ong6 = (x9_0yGkC > -1098337898) ? x9_0yGkC : 1149927555;
+EI0ong6 = (true) ? x9_0yGkC : 1149927555;
 break;
 case 'b':
 Lc8SxB = Cu_NKa5(kFuc);
@@ -257,7 +257,7 @@ int i = 4;
 while (i >= 0)
 {
 i--;
-if (((x9_0yGkC & -270217401) && (EI0ong6 != 791336899)) && (W2ac8wsu5 <= 905236914))
+if (((x9_0yGkC & -270217401) && (true)) && (W2ac8wsu5 <= 905236914))
 {
 {
 int k = 6;
@@ -295,7 +295,7 @@ NoTs8 = Cu_NKa5(1078020326);
 int i = 5;
 while (i >= 0)
 {
-if (((x9_0yGkC != 140679866) || (O5Z_am1 >= W2ac8wsu5)) || ((Lc8SxB >= x9_0yGkC) && (O5Z_am1)))
+if (((true) || (O5Z_am1 >= W2ac8wsu5)) || ((Lc8SxB >= x9_0yGkC) && (O5Z_am1)))
 {
 switch (a2zASF5L)
 {
@@ -388,7 +388,7 @@ break;
 int i = 0;
 while (i < 2)
 {
-if (x9_0yGkC != -1700224012)
+if (true)
 {
 try
 {
@@ -399,7 +399,7 @@ catch (int& errorCode)
 EI0ong6 = KI0GjB6V3 * 310412440;
 }
 }
-else if ((Lc8SxB <= 77337006) || ((x9_0yGkC > 1947036855) && (W2ac8wsu5 != -565684207)))
+else if ((Lc8SxB <= 77337006) || ((false) && (W2ac8wsu5 != -565684207)))
 {
 if (((kFuc & -688941151) || (kFuc >= 377453773)) || (NoTs8 != x9_0yGkC))
 {
@@ -409,7 +409,7 @@ else if (W2ac8wsu5 == -675848363)
 {
 W2ac8wsu5 = (int)abs(OdG9c_6g7s);
 }
-else if ((Gbfmf > -2128441646) && (kFuc <= 1507176908))
+else if ((Gbfmf > -2128441646) && (true))
 {
 x9_0yGkC &= a2zASF5L;
 }
@@ -431,7 +431,7 @@ kFuc = QljR(-432989412, 761858091, Gbfmf);
 }
 else if ((Lc8SxB <= 613534691) || (O5Z_am1 < -277212829))
 {
-if ((Gbfmf) && (EI0ong6 < 1150051325))
+if ((Gbfmf) && (true))
 {
 O5Z_am1 = (int)floor(OdG9c_6g7s);
 }
@@ -538,7 +538,7 @@ O5Z_am1 = EI0ong6 % KI0GjB6V3;
 }
 else
 {
-if (EI0ong6 >= -150233093)
+if (true)
 {
 O5Z_am1 = (int)floor(NoTs8);
 }
@@ -550,7 +550,7 @@ else if (a2zASF5L & -383350672)
 {
 kFuc = QljR(kFuc, 1931713024, 698432489);
 }
-else if (x9_0yGkC > 1332268681)
+else if (false)
 {
 kFuc = QljR(NoTs8, OdG9c_6g7s, a2zASF5L);
 }

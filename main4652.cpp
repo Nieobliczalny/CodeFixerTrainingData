@@ -727,7 +727,7 @@ if (((Fpgx38V >= yu733_8EQ1) || (ZKQGEtcjEG >= s9JX658B1)) || (s5gW61Z3l > yu733
 {
 ir87u07DO4 <<= 655527011;
 }
-else if (((KM9X2GN < -785262637) || (o7vnY9x_s & G0W7)) && ((duc56kP >= -1487194139) && (EiVo2Lo)))
+else if (((false) || (o7vnY9x_s & G0W7)) && ((duc56kP >= -1487194139) && (EiVo2Lo)))
 {
 eCKHU4s <<= 66120459;
 }

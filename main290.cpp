@@ -187,7 +187,7 @@ while (i >= 0)
 {
 try
 {
-if (C3pKrC_SL9 < k8_275v2lv)
+if (false)
 {
 JeF_0MWw = p8Z2gEIhu(1907401598, U_Kt, 1252160499, Pz8j55VEnZ, TLp9_7);
 }
@@ -215,7 +215,7 @@ if (y1P_OI5GgC)
 {
 g7GqBoy38y = (long double)(k8_275v2lv);
 }
-else if (qy7u < JR20)
+else if (false)
 {
 try
 {
@@ -241,7 +241,7 @@ else
 jYSQj_R8S = (int)floor(g7GqBoy38y);
 }
 }
-else if (I0KtZ <= 731316107)
+else if (true)
 {
 if (PsyVo74 >= NXCG)
 {

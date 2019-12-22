@@ -115,7 +115,7 @@ if (z0ODM7M < VS9WeqkD)
 {
 d6olPOuG <<= 506983280;
 }
-if ((CAZ7Ig5W_F != -1421495020) || ((HEEf != 823280015) || (jSDtQK4x3 <= VS9WeqkD)))
+if ((CAZ7Ig5W_F != -1421495020) || ((true) || (jSDtQK4x3 <= VS9WeqkD)))
 {
 switch (uTHy7xQ)
 {
@@ -263,7 +263,7 @@ MtsH8w9QkR = (int)floor(wtRJum1T);
 int i = 9;
 do
 {
-if (V2eY5z8o8 <= 1146056075)
+if (true)
 {
 {
 int k = 10;
@@ -398,7 +398,7 @@ catch (int& errorCode)
 {
 HEEf = QIqu7Iq1a % 2119341886;
 }
-if ((DemKf <= 770906574) && (ZE0gPgR4Ak))
+if ((true) && (ZE0gPgR4Ak))
 {
 yw3in6G = p4fkeQWLs4();
 }

@@ -30,7 +30,7 @@ int main(int argc, char** argv) {
 B0hvQ = (short)(fazj);
 std::cout << fazj << ArvQdfhA << "XzVepUgx_3" << "T0klpi2n" << "te0waa" << std::endl;
 
-if (((jS30872) && (rDzVo1d2 != -1133812001)) || ((mb5J == 1334806427) && (ArvQdfhA == 394720399)))
+if (((jS30872) && (true)) || ((mb5J == 1334806427) && (ArvQdfhA == 394720399)))
 {
 switch (WujpnS6)
 {
@@ -51,7 +51,7 @@ std::cout << nD0HV1cq << rrRjYfcMKy(109830666) << CjZR << jS30872 << std::endl;
 while (j >= 0);
 }
 }
-if (jS30872 <= -1741154602)
+if (false)
 {
 switch (AkM3WRu2)
 {
@@ -101,7 +101,7 @@ N679 *= fazj;
 }
 }
 }
-if (mb5J > 828332929)
+if (false)
 {
 switch (CjZR)
 {
@@ -150,7 +150,7 @@ if ((PQ85_5 & -338082770) && (y2M69o4cRu))
 {
 B0hvQ = bs7lH8rps();
 }
-else if (jS30872 < -1745930052)
+else if (false)
 {
 ArvQdfhA |= 2002491635;
 }
@@ -171,7 +171,7 @@ while (k >= 0);
 }
 else
 {
-if (y2M69o4cRu > -439706891)
+if (true)
 {
 std::cout << mb5J << AkM3WRu2 << rDzVo1d2 << std::endl;
 }
@@ -181,7 +181,7 @@ if (((PQ85_5) || (WujpnS6)) && ((lK_DaZneq4 == -1861082592) && (B0hvQ > WujpnS6)
 {
 CjZR = rrRjYfcMKy(641165056) + 389009626;
 }
-else if (lK_DaZneq4 < 1746771207)
+else if (true)
 {
 R6ov4z3U = d1l_3EhJ_(1170575598, -784032639);
 }
@@ -193,7 +193,7 @@ else if (R6ov4z3U <= 1648159056)
 {
 fazj = bs7lH8rps();
 }
-else if ((lK_DaZneq4 != fazj) && ((mb5J > ArvQdfhA) && (nD0HV1cq != -90389002)))
+else if ((lK_DaZneq4 != fazj) && ((mb5J > ArvQdfhA) && (true)))
 {
 CjZR = d1l_3EhJ_(1727223276, -1021333347) % 912669118;
 }
@@ -212,7 +212,7 @@ B0hvQ = R6ov4z3U - 1557650064;
 int i = 0;
 do
 {
-if (((rDzVo1d2 <= -103171999) || (R6ov4z3U >= -1072505097)) && ((lK_DaZneq4 != 2125227815) || (WujpnS6 >= -976763442)))
+if (((false) || (R6ov4z3U >= -1072505097)) && ((lK_DaZneq4 != 2125227815) || (WujpnS6 >= -976763442)))
 {
 if ((CjZR & -1324038755) && (y2M69o4cRu))
 {

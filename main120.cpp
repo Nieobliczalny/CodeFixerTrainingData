@@ -172,7 +172,7 @@ else if ((IsnE == -654360166) && (B94Y_eU9_))
 {
 XHD1 = nRJ9uNF8(IsnE, F2Iq, -1153631932);
 }
-else if ((SDd8_l59 >= 1679395252) && ((ys3GO4M == 649657977) && (pKMJqidnm & -954680274)))
+else if ((false) && ((ys3GO4M == 649657977) && (pKMJqidnm & -954680274)))
 {
 SDd8_l59 = nRJ9uNF8(1970527885, x3g9LW7, -752442962);
 }

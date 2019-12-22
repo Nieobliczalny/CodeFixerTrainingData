@@ -86,7 +86,7 @@ while (i >= 0)
 i--;
 if (EB2bs4 <= 1361726114)
 {
-if (((o47J & UojvB7g) && (n3z_ == UojvB7g)) && ((o47J < 1502539949) || (o47J)))
+if (((o47J & UojvB7g) && (n3z_ == UojvB7g)) && ((true) || (o47J)))
 {
 AIkZu = (int)ceil(Yx26);
 }
@@ -144,7 +144,7 @@ catch (int& errorCode)
 {
 a2oY = EB2bs4 / skqjs8;
 }
-if (UojvB7g >= 498830740)
+if (false)
 {
 switch (UojvB7g)
 {
@@ -207,7 +207,7 @@ n3z_ = (int)ceil(UOBMrk);
 break;
 }
 }
-if (((n3z_) && (R66ij)) && ((R66ij <= 828160508) || (skqjs8)))
+if (((n3z_) && (R66ij)) && ((true) || (skqjs8)))
 {
 if (a2oY)
 {
@@ -348,7 +348,7 @@ AIkZu = (int)floor(skqjs8);
 }
 
 t8p1H9_ = (unsigned short int)(skqjs8 * t8p1H9_);
-if (UojvB7g < 266350629)
+if (true)
 {
 skqjs8 = (int)floor(AIkZu);
 }
@@ -386,7 +386,7 @@ else if (AIkZu >= Yx26)
 {
 o47J = (unsigned short int)(t8p1H9_);
 }
-else if (t8p1H9_ != 596378065)
+else if (true)
 {
 if (t8p1H9_ != 1126797974)
 {

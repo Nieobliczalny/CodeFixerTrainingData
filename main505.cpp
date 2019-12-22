@@ -142,7 +142,7 @@ E48dJcu826 = tO6S_ << 1168974227;
 }
 for (int i = 2; i >= 0; i--)
 {
-if ((y3_0 == -1248537172) || ((ykrch4x == c8NC) && (c8NC <= 1067584052)))
+if ((y3_0 == -1248537172) || ((ykrch4x == c8NC) && (true)))
 {
 try
 {
@@ -216,7 +216,7 @@ else
 y3_0 %= 363019859;
 }
 }
-else if (c8NC > -1103552548)
+else if (true)
 {
 if (FEvil8 >= -1062789741)
 {
@@ -245,7 +245,7 @@ y3_0 = (int)abs(N_2TJM3t1);
 }
 else if (Xa5r8_ui4q)
 {
-if (c8NC <= 925356712)
+if (true)
 {
 bbIu48U = (int)abs(ykrch4x);
 }
@@ -301,7 +301,7 @@ E48dJcu826 = (int)abs(nb4yJt2_);
 }
 
 ykrch4x = D1inf / iD67bT67(p_mD6S, -1438795283, E48dJcu826, -904169038);
-if (c8NC > -1937016066)
+if (true)
 {
 {
 int j = 10;
@@ -366,7 +366,7 @@ for (int k = 8; k >= 0; --k)
 Xa5r8_ui4q -= 881032510;
 }
 }
-else if (c8NC >= 2135260692)
+else if (false)
 {
 if (Xa5r8_ui4q < p_mD6S)
 {
@@ -415,7 +415,7 @@ if ((tGmJE < -1039432456) && (D1inf & y3_0))
 {
 std::cout << U2nO_98x2L(ykrch4x, 1606060256) << tGmJE << std::endl;
 }
-else if ((ykrch4x) && (c8NC <= -822114605))
+else if ((ykrch4x) && (false))
 {
 if ((p_mD6S != -643538846) && (Xa5r8_ui4q == -1698875818))
 {
@@ -441,7 +441,7 @@ while (k < 6);
 }
 }
 }
-else if (tO6S_ >= 855239146)
+else if (false)
 {
 for (int j = 0; j < 2; ++j)
 {

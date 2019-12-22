@@ -89,7 +89,7 @@ catch (int& errorCode)
 XrX1LvtNe = Uxy9 - 732600598;
 }
 }
-else if ((ch_FfCoGxg != -1269081655) || (GPC55 > 1696662423))
+else if ((ch_FfCoGxg != -1269081655) || (false))
 {
 {
 int k = 3;
@@ -101,7 +101,7 @@ MS2Tg = (int)floor(XrX1LvtNe);
 while (k >= 0);
 }
 }
-else if (JG35s != 986126977)
+else if (true)
 {
 switch (dCg_)
 {
@@ -153,7 +153,7 @@ k++;
 }
 }
 }
-else if (NzS75 > 1330042414)
+else if (false)
 {
 if (s_Bw <= -1465893647)
 {
@@ -268,7 +268,7 @@ int j = 7;
 do
 {
 j--;
-if (JG35s != -1091186223)
+if (true)
 {
 McGg -= T8T8cyCZ;
 }
@@ -281,7 +281,7 @@ while (j >= 0);
 }
 }
 
-if (kPQgh <= -1344336705)
+if (false)
 {
 if (JG35s != -802026140)
 {
@@ -299,7 +299,7 @@ XqRd = (int)floor(MS2Tg);
 }
 }
 }
-else if ((GPC55 < 1358025538) || ((aZXZ < 1727088053) && (McGg & -1995270659)))
+else if ((true) || ((aZXZ < 1727088053) && (McGg & -1995270659)))
 {
 {
 int j = 0;
@@ -314,7 +314,7 @@ MS2Tg = (int)floor(RO1XVcAx6);
 while (j < 6);
 }
 }
-else if (T8T8cyCZ == -65585002)
+else if (false)
 {
 XrX1LvtNe = (long double)(dZSY8);
 }

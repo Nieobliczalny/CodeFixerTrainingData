@@ -44,7 +44,7 @@ if (aGO0Jw_zn != 506323070)
 {
 Ux1Z |= aGO0Jw_zn;
 }
-else if (((lR23N0 == -533802850) && (FZ_F5)) && ((FZ_F5) && (lR23N0 < Ux1Z)))
+else if (((false) && (FZ_F5)) && ((FZ_F5) && (lR23N0 < Ux1Z)))
 {
 aGO0Jw_zn = Ux1Z & 357759354;
 }
@@ -70,7 +70,7 @@ else
 FZ_F5 = (int)abs(Ux1Z);
 }
 }
-else if (lR23N0 == 581010751)
+else if (false)
 {
 for (int j = 0; j < 7; j++)
 {
@@ -103,7 +103,7 @@ if (lR23N0)
 {
 FZ_F5 = (double)(oVefh_5 + (337082380));
 }
-else if (lR23N0 == 142693807)
+else if (false)
 {
 Hgwu = (int)abs(lR23N0);
 }
@@ -136,7 +136,7 @@ Ux1Z = Hgwu - oVefh_5;
 }
 }
 }
-else if ((lR23N0 >= -436736358) && ((oVefh_5 & -228407142) && (lR23N0 <= -856440238)))
+else if ((true) && ((oVefh_5 & -228407142) && (lR23N0 <= -856440238)))
 {
 try
 {
@@ -159,7 +159,7 @@ lR23N0 = (short)(oVefh_5);
 }
 }
 
-if (oVefh_5 < 736750494)
+if (true)
 {
 aGO0Jw_zn = (Hgwu & 1418957614) ? FZ_F5 : oVefh_5;
 }
@@ -194,7 +194,7 @@ for (int i = 3; i >= 0; --i)
 {
 if (Hgwu <= 644659025)
 {
-if (lR23N0 >= 811229926)
+if (false)
 {
 Ux1Z = lR23N0 & aGO0Jw_zn;
 }
@@ -225,7 +225,7 @@ else if (lR23N0 >= aGO0Jw_zn)
 {
 std::cout << FZ_F5 << std::endl;
 }
-else if (lR23N0 < -385681624)
+else if (false)
 {
 for (int k = 9; k >= 0; --k)
 {
@@ -242,7 +242,7 @@ lR23N0 = (int)abs(FZ_F5) * 0;
 }
 if (Hgwu != 25867054)
 {
-if (oVefh_5 == -1984878321)
+if (false)
 {
 Ux1Z %= 1500785167;
 }
@@ -266,7 +266,7 @@ for (int i = 10; i >= 0; --i)
 {
 Ux1Z = Hgwu << aGO0Jw_zn;
 }
-if ((oVefh_5 & aGO0Jw_zn) || ((lR23N0 < -2032559604) && (FZ_F5 == -1374570884)))
+if ((oVefh_5 & aGO0Jw_zn) || ((false) && (FZ_F5 == -1374570884)))
 {
 switch (Hgwu)
 {
@@ -287,7 +287,7 @@ if (FZ_F5 <= -2128122084)
 {
 aGO0Jw_zn -= lR23N0;
 }
-else if ((lR23N0 == -661591574) || (FZ_F5))
+else if ((false) || (FZ_F5))
 {
 if (FZ_F5 != Hgwu)
 {
@@ -307,7 +307,7 @@ Ux1Z >>= 668041084;
 }
 else if (Hgwu & -1403796650)
 {
-if ((Ux1Z <= 52575824) && (oVefh_5 <= -1563742420))
+if ((Ux1Z <= 52575824) && (false))
 {
 FZ_F5 = (int)abs(Hgwu) + (-731411580);
 }

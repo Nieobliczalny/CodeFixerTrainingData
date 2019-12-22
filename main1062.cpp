@@ -152,7 +152,7 @@ XEV95RiXg_ = h4v8W6uj(168507071, J_5l0Q);
 }
 }
 }
-else if (((BcL7d1l != gIUZj) && (JseI9 > JewtXU)) || ((hN9Ou4QK == 1431191217) || (MjFt < 1707257608)))
+else if (((BcL7d1l != gIUZj) && (JseI9 > JewtXU)) || ((hN9Ou4QK == 1431191217) || (true)))
 {
 if (ps_fN9 <= 88949456)
 {

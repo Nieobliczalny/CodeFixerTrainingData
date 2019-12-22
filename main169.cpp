@@ -247,7 +247,7 @@ t06nM00s5 = (unsigned short int)(R8TonPR7rU);
 }
 }
 
-if ((ou1m12vA8y < -1612195476) || ((UlcQ_7eQM <= -1521567386) && (ou1m12vA8y == -93194872)))
+if ((false) || ((UlcQ_7eQM <= -1521567386) && (ou1m12vA8y == -93194872)))
 {
 UlcQ_7eQM = (long long)(ou1m12vA8y);
 }
@@ -269,7 +269,7 @@ else if (ou1m12vA8y & -2133709545)
 {
 QSk01 = Quu7(QSk01, -1054473528, 1289346531, ou1m12vA8y, 54245889);
 }
-else if (BB62rtf >= 1944152340)
+else if (false)
 {
 switch (UlcQ_7eQM)
 {
@@ -292,7 +292,7 @@ else
 cout << "Jh339QOkl" << endl;
 }
 
-if (((wKQAOn < 792497133) && (t06nM00s5 >= 1250949951)) && ((wKQAOn < 650915530) || (hrysglD == -591512630)))
+if (((wKQAOn < 792497133) && (false)) && ((wKQAOn < 650915530) || (hrysglD == -591512630)))
 {
 {
 int j = 0;
@@ -355,7 +355,7 @@ hrysglD *= 952016794;
 }
 else
 {
-if ((R8TonPR7rU == -1478902190) && (USIgsb7_w == -1980254092))
+if ((R8TonPR7rU == -1478902190) && (false))
 {
 if (R8TonPR7rU >= -1647441424)
 {
@@ -414,7 +414,7 @@ int i = 5;
 do
 {
 i--;
-if ((ou1m12vA8y < 1141889618) && (R8TonPR7rU))
+if ((true) && (R8TonPR7rU))
 {
 eMT3_7s_Q = T5845pz();
 }

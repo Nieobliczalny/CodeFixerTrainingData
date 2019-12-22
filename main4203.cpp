@@ -194,7 +194,7 @@ p3VJ4 -= f3C5VCW;
 }
 else if (((aMD_j4n1 > 1632892301) && (pcTXjf_51)) && (aMD_j4n1 > 2066598669))
 {
-if (p3VJ4 <= 1647427486)
+if (true)
 {
 pcTXjf_51 = kjby(1106838615, BOIs71Da);
 }
@@ -416,7 +416,7 @@ if ((s3mn6myQgj > pmIhk) && (lo2C06 > -1188769380))
 {
 Wck49QZ_g3 = (int)floor(lo2C06);
 }
-else if (B0f_ > 935218521)
+else if (false)
 {
 if (fu94rb == 535823539)
 {

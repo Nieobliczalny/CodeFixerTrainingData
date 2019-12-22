@@ -99,7 +99,7 @@ else if (avky31Lsk)
 {
 cout << "QlljHKoU02" << cbp8lH << pYWJA6jA << Gxb96L << DElGUt7d << endl;
 }
-else if ((UF0TJt94 == -754457156) || (Gxb96L <= pYWJA6jA))
+else if ((false) || (Gxb96L <= pYWJA6jA))
 {
 for (int k = 5; k >= 0; k--)
 {
@@ -120,7 +120,7 @@ if (cbp8lH < VAKL)
 {
 DElGUt7d = (int)ceil(aJPr);
 }
-else if ((WUc7M == iC0UD) || (ln3X5b == -217708488))
+else if ((WUc7M == iC0UD) || (false))
 {
 aJPr = (int)floor(DElGUt7d);
 }
@@ -219,7 +219,7 @@ else if (cbp8lH & RT2v5Cm)
 {
 DElGUt7d = (int)floor(aJPr);
 }
-else if (WUc7M < m04G)
+else if (false)
 {
 RT2v5Cm = A6iB % 71772039;
 }

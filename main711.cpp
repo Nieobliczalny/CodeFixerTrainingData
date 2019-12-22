@@ -99,7 +99,7 @@ std::cout << "JI3HsO3" << YSTWZ2zG << std::endl;
 qF6G6 = D464 - 2124173041;
 kaI_4fqa /= 96205113;
 
-if (D464 == W0ZoeSG)
+if (false)
 {
 switch (J0V86EWLM8)
 {
@@ -153,7 +153,7 @@ if ((lGJsD2bP_1 > 992888111) && (v6PjVE89e7 < L68Cq))
 {
 a1VKb7xyr = oC7nKiu * v6PjVE89e7;
 }
-else if ((kaI_4fqa != W0ZoeSG) || (n5r7H4ur__ < t58y3))
+else if ((true) || (n5r7H4ur__ < t58y3))
 {
 zB7xP1 <<= 473599613;
 }
@@ -287,7 +287,7 @@ while (i < 2);
 }
 
 std::cout << "R237LP0IcN" << Kh1Vi << a_9B56s9 << p88GL << std::endl;
-if (bsGr43h1ua >= -1273313184)
+if (true)
 {
 for (int j = 8; j >= 0; --j)
 {
@@ -306,7 +306,7 @@ if (s7Zn_89t > fs5zm)
 {
 Pg066Q = R8283z3xyF(1513979310, -1959093305);
 }
-else if ((p88GL <= W0ZoeSG) || (c14VCjzxj))
+else if ((false) || (c14VCjzxj))
 {
 LO5T6hyn5z = (int)ceil(JF0926i);
 }
@@ -324,7 +324,7 @@ catch (int& errorCode)
 iQqNFKxi = hPD9a >> 1342611731;
 }
 }
-else if (Q_2Kqp > -1230522860)
+else if (true)
 {
 for (int j = 1; j >= 0; --j)
 {

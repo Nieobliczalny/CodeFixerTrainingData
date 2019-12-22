@@ -239,7 +239,7 @@ O_6l = (int)floor(V4L6aY6e7);
 }
 else
 {
-if ((l2HCaZ1b != Lj_3p) && (BZ1PTLrz17 >= -655489695))
+if ((l2HCaZ1b != Lj_3p) && (true))
 {
 {
 int k = 0;
@@ -317,7 +317,7 @@ cout << "TKbQ3I9Q" << "u152pw0B" << "C452YwSf4" << "AZKbf1" << endl;
 int i = 4;
 while (i >= 0)
 {
-if (BZ1PTLrz17 != 1392762991)
+if (true)
 {
 {
 int k = 0;
@@ -366,7 +366,7 @@ W68ma080 = (int)ceil(O_6l);
 }
 if ((rgiI & cI4STft2Pf) || (OR6y8w4Y_N & -1172162777))
 {
-if (((M9ge >= -1075537481) || (sVbPs25dG)) || (M9ge == 1877609204))
+if (((true) || (sVbPs25dG)) || (M9ge == 1877609204))
 {
 switch (Lj_3p)
 {

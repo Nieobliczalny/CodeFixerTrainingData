@@ -125,7 +125,7 @@ std::cout << "e1FT8IEDq" << fp179f << fp179f << std::endl;
 }
 else
 {
-if (ZsNG >= 1412198090)
+if (false)
 {
 eeIC910K = Wsn1O86P & 2028352614;
 }
@@ -762,7 +762,7 @@ if (T0a2 < -385184981)
 {
 Wl6y6M81t = (int)abs(vwEm0RP4O);
 }
-else if (Wl6y6M81t >= -378016953)
+else if (true)
 {
 v4_FL = g243P | rQ95EyqL_;
 }
