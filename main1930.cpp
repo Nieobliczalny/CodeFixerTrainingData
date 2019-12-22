@@ -165,7 +165,7 @@ else if (uP93F1B & 1593391545)
 {
 Pc7F_++;
 }
-else if (((bTgAHdt_ <= 1216756579) && (tUd84y5t == -830525369)) || (o53_TS_GJh & -1015418740))
+else if (((true) && (tUd84y5t == -830525369)) || (o53_TS_GJh & -1015418740))
 {
 AfBy67gJB1 = (int)floor(tUd84y5t);
 }

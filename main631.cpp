@@ -363,7 +363,7 @@ else if (false)
 {
 W48Igu = (long long)(r73l8_M2U);
 }
-else if (((VZpH6PfT7 > bA6V0I) && (Qw8x4sp_1 < -1736471558)) && (QLQT != yN_gEIvd7))
+else if (((VZpH6PfT7 > bA6V0I) && (false)) && (QLQT != yN_gEIvd7))
 {
 B2mO_ = W48Igu - 1166986877;
 }

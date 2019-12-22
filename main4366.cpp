@@ -191,7 +191,7 @@ if (((wbmD34o & J1qR) || (false)) && ((uQSv8) || (vks0zEvaxD >= bso2DO9)))
 {
 wbmD34o = a9QPRNeV(wbmD34o, AUCo4, ga86MPqZrA, yftnjMs, -1279779893);
 }
-else if ((vGQ32 < sNs2) && (uQSv8 & sNs2))
+else if ((false) && (uQSv8 & sNs2))
 {
 RmWH8 = (int)abs(sy6__C);
 }
@@ -352,7 +352,7 @@ else if (wbmD34o < PhVlV)
 {
 if (true)
 {
-if (wbmD34o >= -856487109)
+if (true)
 {
 W5sr_myN = (int)ceil(aemQJe9j);
 }

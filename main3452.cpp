@@ -265,7 +265,7 @@ c77Q = (unsigned long)(FxEo);
 }
 if ((E06_rkoaO) && ((nT_fC6MmVx >= -2031105750) || (true)))
 {
-if (((ToPJ03 > 1202448569) && (vd_oEuD < -1819199356)) || (IwMxDY_R))
+if (((ToPJ03 > 1202448569) && (false)) || (IwMxDY_R))
 {
 try
 {
@@ -405,7 +405,7 @@ else if (vd_oEuD > J7tl28U5p)
 {
 W9Mq38jX = QUK6y2Yb4V(-1173442374, w78s_4LAw7, -256540504);
 }
-else if (J7tl28U5p > 936347081)
+else if (false)
 {
 Yw_70 %= L__99E;
 }

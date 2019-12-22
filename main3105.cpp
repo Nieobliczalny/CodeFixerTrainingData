@@ -175,7 +175,7 @@ gk8w3J87 >>= XaSkg;
 }
 else if ((yF6N2F != -1258686277) && ((true) && (gAvFG & -771843518)))
 {
-if ((NhwD5 >= PV3_5C_) && (FxfH < 14588758))
+if ((NhwD5 >= PV3_5C_) && (true))
 {
 gk056zM0 /= TKKqjZ;
 }
@@ -362,7 +362,7 @@ int i = 1;
 do
 {
 i--;
-if ((false) || (dTZR0s != 489802812))
+if ((false) || (true))
 {
 xHr3t0 |= PV3_5C_;
 }

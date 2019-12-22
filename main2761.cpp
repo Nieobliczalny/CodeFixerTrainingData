@@ -120,7 +120,7 @@ else if ((false) || (FFe73TzeP5 >= Je37DrWr))
 {
 std::cout << FFe73TzeP5 << std::endl;
 }
-else if (((uKSFuF4S != 1326936008) && (U66uQGu40l < Jt7UeC_4f1)) && ((CF2uh1_70 < -1677327853) && (N_BFn_1l9 > 227413445)))
+else if (((true) && (U66uQGu40l < Jt7UeC_4f1)) && ((CF2uh1_70 < -1677327853) && (N_BFn_1l9 > 227413445)))
 {
 switch (dBg0)
 {
@@ -163,7 +163,7 @@ if ((CF2uh1_70 & 1131792986) && (l22yF4Z9 >= d4oA2H4XDs))
 {
 P7mgJr = oVadbS(1220081120, -1831823904, 850040419, -1531861561, 45759981);
 }
-else if (x9966SP6_S != -1967739392)
+else if (true)
 {
 N_BFn_1l9 = oVadbS(346791467, -619274064, H5Lv, -26732469, 2087292450);
 }

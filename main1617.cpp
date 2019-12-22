@@ -251,7 +251,7 @@ if (false)
 {
 G1kP6PNYWq <<= 369086205;
 }
-else if (INI_rD < -1848296815)
+else if (false)
 {
 switch (I9_x7EKXt)
 {
@@ -445,7 +445,7 @@ Hmn9CIV3 = AEPM | JvCIQ;
 }
 else
 {
-if (I9_x7EKXt <= -1490983910)
+if (false)
 {
 INI_rD = R6H8DqI9(-597713043, 1162858948, INI_rD, -1365526018);
 }

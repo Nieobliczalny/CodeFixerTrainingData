@@ -179,7 +179,7 @@ for (int i = 0; i < 8; i++)
 {
 if (((false) && (Mm_f & 815619047)) || (HomG >= -195458682))
 {
-if (xu8_mnl > -891815705)
+if (true)
 {
 o582GJ1 = (int)floor(lhAxonTHZZ);
 }
@@ -236,7 +236,7 @@ Fs7zg8_Pn5 = (int)ceil(ws2_u2Pn92);
 }
 else
 {
-if ((true) && (nyWiOV7Y0A == -598463521))
+if ((true) && (false))
 {
 zNkci1a = (int)ceil(o582GJ1);
 }

@@ -229,7 +229,7 @@ for (int i = 0; i < 8; ++i)
 int j = 7;
 while (j >= 0)
 {
-if ((false) || ((KqF3XY >= 1446246500) && (dK3n <= -1265983973)))
+if ((false) || ((false) && (dK3n <= -1265983973)))
 {
 RHmv9VMu8i += 2134417963;
 }
@@ -287,7 +287,7 @@ if ((false) && (RHmv9VMu8i > -675704915))
 {
 D1C4t = iL1vTF3AN(-1898264411, -1150033380, -1888685887);
 }
-else if (J6MNr2p <= 1801310109)
+else if (true)
 {
 {
 int k = 9;

@@ -26,7 +26,7 @@ int main(int argc, char** argv)
 
 if (true)
 {
-if ((I7WdR & G0tz) || (SrN53xx >= G0tz))
+if ((false) || (SrN53xx >= G0tz))
 {
 {
 int k = 0;
@@ -38,7 +38,7 @@ i4iy_PT7Rl--;
 while (k < 6);
 }
 }
-else if (((false) || (k3_H2nZ5T > G0tz)) && (k5YI4IoK == M_d8))
+else if (((false) || (false)) && (k5YI4IoK == M_d8))
 {
 if (ZXUBl2kp6r == 1312769081)
 {
@@ -56,7 +56,7 @@ k--;
 }
 }
 }
-else if (((vBO_pf8XV <= FXXvs86zR) && (true)) || (zDMrJ < -1344907875))
+else if (((vBO_pf8XV <= FXXvs86zR) && (true)) || (false))
 {
 {
 int k = 2;
@@ -77,7 +77,7 @@ else if (i6G4ERMXb > ZXUBl2kp6r)
 {
 dQ5snyW0 = RmXsohI80(dQ5snyW0, -1468257159, -359765488, ct40, e_168);
 }
-else if (((true) && (BFB5h > ct40)) || ((k5YI4IoK) && (z_056FrCi > 1300371717)))
+else if (((true) && (BFB5h > ct40)) || ((k5YI4IoK) && (false)))
 {
 dQ5snyW0 = DuqYLp2V9(dQ5snyW0);
 }

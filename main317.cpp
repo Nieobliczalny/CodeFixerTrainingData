@@ -358,7 +358,7 @@ else if (false)
 {
 nt5e2 = (Fc8L4WB <= -1907502605) ? 957876987 : 300427396;
 }
-else if (nt5e2 == 151939201)
+else if (false)
 {
 b685 = yW26QZ(b685, nt5e2, -1476647871);
 }
@@ -369,7 +369,7 @@ lJdZjkv7Fx = SV901re();
 }
 else if (true)
 {
-if (h2t775N7 >= -155729053)
+if (true)
 {
 nt5e2 = Ri0l943k5E(2113634210, -1621950895, h2t775N7, I7kRxwl);
 }

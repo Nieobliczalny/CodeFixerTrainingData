@@ -246,7 +246,7 @@ LzG85_1 = Yy11Y54j9M * Q5jjh7;
 }
 }
 }
-if (u2_44p > -2003441476)
+if (true)
 {
 JV0pXu4X = (unsigned long)(jC8iyPFi + (-103180172));
 }

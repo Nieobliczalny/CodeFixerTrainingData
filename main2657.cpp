@@ -361,7 +361,7 @@ jIBjULL = iM6Q(jIBjULL, yHdI3Mm97, -456024789, -2076483668);
 
 if ((true) || ((KEwj6fxne_ <= 1046106190) && (v26RoEsyLy & 1384990885)))
 {
-if (WP240 < 662440502)
+if (true)
 {
 q8HoAcT = NKOoB(jIBjULL, yHdI3Mm97, ulAGvOu, W4Wcf, zC6208) | rQ_xMW_A50;
 }

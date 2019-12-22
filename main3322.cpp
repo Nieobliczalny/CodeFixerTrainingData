@@ -329,7 +329,7 @@ if (Ivl0267eD7 > 1330439191)
 {
 mSFty = N6_5i22c7(i6jm1W);
 }
-else if ((false) || ((Ro_H0_6 < -1901244075) || (D8e6)))
+else if ((false) || ((false) || (D8e6)))
 {
 cout << "h76_K96wh" << "eI9gmb5x" << V4duh_OB << endl;
 }
@@ -354,7 +354,7 @@ mSFty = N6_5i22c7(nwXuG5V);
 }
 else
 {
-if (wZdb <= -603463348)
+if (false)
 {
 Cy23C9G2bd = (unsigned short int)(VE42F);
 }

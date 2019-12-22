@@ -269,7 +269,7 @@ if (oejxf <= CDT95Fdc96)
 {
 WJg_8t0 = ha35 >> 150866094;
 }
-else if (WYwXD0 > 141681373)
+else if (false)
 {
 MHlaBJy = (int)ceil(m_8LT);
 }

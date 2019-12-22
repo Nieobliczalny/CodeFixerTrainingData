@@ -173,7 +173,7 @@ cout << "P7S0QOiR1J" << "SbXzMYvy" << endl;
 }
 else
 {
-if ((E8ab8NQhK == kDk8tF) && (X6k21L > 1276154877))
+if ((E8ab8NQhK == kDk8tF) && (false))
 {
 if ((m61gON2w4 <= -1235476255) || ((xSStjHe1s <= -1711961169) && (VSjgWdq5Z >= E4598s)))
 {

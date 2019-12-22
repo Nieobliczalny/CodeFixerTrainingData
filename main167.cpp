@@ -65,7 +65,7 @@ for (int j = 0; j < 8; j++)
 PVYj3L3j = CARsp2();
 }
 }
-else if (((true) && (AV31luL7OX < -1423987248)) || (Y8sAO))
+else if (((true) && (false)) || (Y8sAO))
 {
 {
 int j = 0;
@@ -157,7 +157,7 @@ int j = 4;
 while (j >= 0)
 {
 j--;
-if ((WFOe & AV31luL7OX) && (luE064D1_N == PCri))
+if ((WFOe & AV31luL7OX) && (false))
 {
 gzC1930tgd = CARsp2();
 }
@@ -272,7 +272,7 @@ else if (((true) && (w2l0X6ngv)) && (C9kn3 < WFOe))
 {
 w2l0X6ngv = (long)(mWakJ1wmc * (r5oH53O));
 }
-else if (C9kn3 <= 137878840)
+else if (true)
 {
 if (WFOe & C9kn3)
 {

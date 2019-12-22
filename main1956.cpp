@@ -140,7 +140,7 @@ else
 t856153P = (int)abs(iT_1lEnv);
 }
 }
-else if (X2C8HCDY > 1380313390)
+else if (false)
 {
 std::cout << mzdsRwih << "wP4A" << std::endl;
 }
@@ -162,7 +162,7 @@ if (((true) && (X2C8HCDY)) && ((TUsD1PC77G) || (n_D1_L4XdL >= ODOc7NG3R_)))
 t856153P = (int)abs(iT_1lEnv);
 }
 }
-else if (wazIWzvWez >= 387637311)
+else if (false)
 {
 ODOc7NG3R_ /= d9zV;
 }
@@ -202,7 +202,7 @@ if (false)
 {
 sSX6T = (unsigned char)(jz5Isc0y);
 }
-else if (jqVCBTRI <= 1685466240)
+else if (true)
 {
 if ((jS_H4t & -1197794721) || (q_rZd <= -1898148787))
 {
@@ -217,7 +217,7 @@ else if (false)
 {
 kO4Wh = h4S0T >> mqghKa_8k;
 }
-else if ((Tc3VmC > 394213951) && (b05p_eHG < -823312457))
+else if ((false) && (b05p_eHG < -823312457))
 {
 try
 {

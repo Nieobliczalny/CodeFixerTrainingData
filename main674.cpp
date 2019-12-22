@@ -333,7 +333,7 @@ while (j >= 0);
 tMtO = (unsigned short)(e88a7I19);
 if ((pJZ1RTEVR4) || ((iw6701eg6k & sT8Oeh78J) || (true)))
 {
-if ((cSIgj0f_h4 == 171226700) || (w34g <= 1083519140))
+if ((cSIgj0f_h4 == 171226700) || (true))
 {
 if (nZuuWMQLs)
 {

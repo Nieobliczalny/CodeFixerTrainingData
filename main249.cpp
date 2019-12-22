@@ -27,7 +27,7 @@ do
 ++i;
 try
 {
-if ((true) && (ijwL2 <= 819359514))
+if ((true) && (true))
 {
 ba295r4Ij0 = tJk9VW04z >> p3D73yA3;
 }
@@ -64,7 +64,7 @@ M4Zfk = sj8_h & EKI66d6;
 }
 else if (true)
 {
-if (P2U6C3K96G < 2133983697)
+if (true)
 {
 FuTZ6ad_nb = (F147aG == 475596377) ? YPU9gLp9 : pn9Al42B8;
 }

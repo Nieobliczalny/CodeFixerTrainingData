@@ -311,7 +311,7 @@ else
 TcxC0 = (int)floor(YhJkO_);
 }
 }
-else if ((false) || ((ttn0Ag062 < v78lof) && (fMa_4_G & ttn0Ag062)))
+else if ((false) || ((false) && (fMa_4_G & ttn0Ag062)))
 {
 try
 {

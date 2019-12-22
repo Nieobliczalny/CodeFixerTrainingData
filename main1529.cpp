@@ -97,7 +97,7 @@ std::cout << qXDy4Nj() << y5_A() << "AxHMPF" << std::endl;
 
 P5Ut0a0P = e_jZ ^ 1605103293;
 mXqg6s18++;
-if (((true) || (YJzF7)) && ((cQoZz1 != L_krFzhl3) && (fZ_0Bn < X09dZmbs)))
+if (((true) || (YJzF7)) && ((true) && (fZ_0Bn < X09dZmbs)))
 {
 {
 int j = 0;

@@ -437,7 +437,7 @@ if (true)
 Y5w3sbUy4 |= 1491206527;
 }
 }
-else if ((Y5w3sbUy4 > -704145847) || ((V___P22 >= 547893690) && (pV8wiDkJ18 <= N6nz)))
+else if ((true) || ((V___P22 >= 547893690) && (pV8wiDkJ18 <= N6nz)))
 {
 P_HtXbO = rg10Kqvn();
 }

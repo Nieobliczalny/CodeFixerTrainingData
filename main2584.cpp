@@ -180,7 +180,7 @@ PdyJmHWp9F = Z7_06Rm5lR(PdyJmHWp9F, -465491431);
 }
 }
 }
-else if (((true) && (eav6u <= 1753781477)) && (h9F0N_8O1n & ESm7NCN3))
+else if (((true) && (true)) && (h9F0N_8O1n & ESm7NCN3))
 {
 Thk0X4XF = (int)abs(yBQd8T);
 }
@@ -254,7 +254,7 @@ Hz4WaE = (float)(h9F0N_8O1n);
 }
 else if (true)
 {
-if (H2xv0r7 < 578685704)
+if (true)
 {
 U58X83eZX = (int)abs(T_MRP) + (1197633136);
 }

@@ -55,7 +55,7 @@ else if (cZgt & -2058450101)
 {
 M81m2k1tg = (int)abs(A_864);
 }
-else if (cZgt != 1781291073)
+else if (true)
 {
 switch (s_q40_z0)
 {

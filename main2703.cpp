@@ -509,7 +509,7 @@ xS48wYe977 = dwyAno5_7_();
 while (k >= 0);
 }
 }
-else if (((false) || (Vk_64 >= X65_O5je)) && ((xS48wYe977 <= 681128750) && (CW2GD8Q != 1488589649)))
+else if (((false) || (Vk_64 >= X65_O5je)) && ((true) && (CW2GD8Q != 1488589649)))
 {
 std::cout << "IWZXQu" << "D1dM" << gVdFN7(-297729823, -2127218169, ZnomD4Dl31, yeUt31, -1930898445) << dwyAno5_7_() << std::endl;
 }
@@ -532,7 +532,7 @@ else if (d76E > 1949059657)
 {
 Cp_8 = gVdFN7(-555742628, 448023960, -1339635185, -314985029, CW2GD8Q);
 }
-else if ((xS48wYe977 > -999500299) || (s6I5BRHYu <= X65_O5je))
+else if ((true) || (s6I5BRHYu <= X65_O5je))
 {
 gNtvyUz5 += Cp_8;
 }

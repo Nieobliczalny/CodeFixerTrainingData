@@ -161,7 +161,7 @@ else
 {
 try
 {
-if (((false) || (CkKxH6E > 162885963)) || ((CkKxH6E <= 1881310834) && (IlS8ww59E == -227931162)))
+if (((false) || (CkKxH6E > 162885963)) || ((CkKxH6E <= 1881310834) && (false)))
 {
 CkKxH6E %= x60Pk6i;
 }

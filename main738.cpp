@@ -776,7 +776,7 @@ if (false)
 {
 zyjZZ_I = (int)floor(Z88AB6M);
 }
-else if (oF0_l1kJ7 != -925932761)
+else if (true)
 {
 s_ZI830e = (int)ceil(bG7TwH);
 }

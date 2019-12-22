@@ -115,7 +115,7 @@ for (int j = 0; j < 5; j++)
 X0_7H_O0 = ESgU8ZCJ() + h1ywB_Q;
 }
 }
-else if ((jsW8b > -1098563637) && (DxCNzR56n_ == H68a))
+else if ((true) && (DxCNzR56n_ == H68a))
 {
 for (int j = 3; j >= 0; --j)
 {
@@ -326,7 +326,7 @@ h05YfJc42 = WP2Z9(h05YfJc42, 70205871, 952238578, n5Y5NY, odu3p);
 }
 }
 }
-else if ((tpqIlAD98 != -1457075934) || (jA434wq53))
+else if ((true) || (jA434wq53))
 {
 NuY5n = WP2Z9(NuY5n, 1092351252, 980444541, tsQ114, ffN_F7dn);
 }

@@ -334,7 +334,7 @@ Nt5VnFo9_ = q57iEY / Y3b2fk;
 
 if (true)
 {
-if ((q57iEY <= -363060015) && (ubC1m < 1403382349))
+if ((false) && (ubC1m < 1403382349))
 {
 {
 int k = 4;

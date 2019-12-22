@@ -312,7 +312,7 @@ UG3d_ = TwbRYZsIfF >> emB5A8Ju;
 }
 else
 {
-bGs8j4VP = (DrtUZo1S == pU90YXIM8O) ? 190097541 : DrtUZo1S;
+bGs8j4VP = (false) ? 190097541 : DrtUZo1S;
 }
 }
 catch (int& errorCode)

@@ -133,7 +133,7 @@ else if (true)
 {
 if (h7a9k4 & HxFlv_A1W)
 {
-WWrU = (EZ45b4i <= -1577413778) ? HxFlv_A1W : RI3UQitK9;
+WWrU = (false) ? HxFlv_A1W : RI3UQitK9;
 }
 else
 {
@@ -175,7 +175,7 @@ if (h7a9k4 > z70Z)
 {
 try
 {
-RI3UQitK9 = (r59lLumV < 1696521772) ? ilbA6y7 : WWrU;
+RI3UQitK9 = (true) ? ilbA6y7 : WWrU;
 }
 catch (int& errorCode)
 {
@@ -289,7 +289,7 @@ i--;
 while (i >= 0);
 }
 
-if (((true) && (e_zSNX_J)) && (HxFlv_A1W != 1464706757))
+if (((true) && (e_zSNX_J)) && (true))
 {
 if (h7a9k4)
 {
@@ -343,7 +343,7 @@ ilbA6y7 = (unsigned short)(o1R8);
 }
 }
 
-if ((true) && (ilbA6y7 > -737509321))
+if ((true) && (true))
 {
 {
 int j = 0;
@@ -357,7 +357,7 @@ while (j < 8);
 }
 else if (true)
 {
-HxFlv_A1W = (EZ45b4i == -2105878745) ? e_zSNX_J : Z8zqJI(e_zSNX_J, kDH2Z0YZ);
+HxFlv_A1W = (false) ? e_zSNX_J : Z8zqJI(e_zSNX_J, kDH2Z0YZ);
 }
 else if (WWrU != 1236318685)
 {

@@ -174,7 +174,7 @@ else if (true)
 {
 try
 {
-if (Ih7W3 != -165195093)
+if (true)
 {
 qu7kD7VC /= IW0Dc3yj2;
 }
@@ -455,7 +455,7 @@ while (k >= 0);
 }
 else if (true)
 {
-if (U7HE1 >= -1121678024)
+if (true)
 {
 Ih7W3 = R132fL3RF5(Ih7W3, SwRQ73y, u340W2C);
 }
@@ -624,7 +624,7 @@ else if (false)
 {
 qu7kD7VC = idht - 22200872;
 }
-else if (idht <= 1187530828)
+else if (true)
 {
 {
 int k = 0;
@@ -647,7 +647,7 @@ else
 q3dsa3UU70 %= U7HE1;
 }
 }
-else if ((da3WYT <= -751265396) && ((JfXKV2hcL_ != 469973768) && (q3dsa3UU70)))
+else if ((false) && ((JfXKV2hcL_ != 469973768) && (q3dsa3UU70)))
 {
 switch (qu7kD7VC)
 {

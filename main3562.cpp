@@ -43,7 +43,7 @@ cout << XQTE7wo << D3GEW1C << eSzM8H_c << WcTXu << gC29cX << endl;
 }
 else
 {
-if (nAUL == 1931779125)
+if (false)
 {
 TUi54O = (short)(F74qY8A9);
 }

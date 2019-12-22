@@ -317,7 +317,7 @@ rHWNQK0--;
 }
 }
 }
-else if ((true) && ((u2YF247 == -8502324) || (JK9cW52e3 < -453384997)))
+else if ((true) && ((u2YF247 == -8502324) || (false)))
 {
 mofi = YiGole();
 }

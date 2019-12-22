@@ -186,7 +186,7 @@ else if ((V701VUV85u <= -398104640) && ((true) && (hYr3Gz != CEbjRbyEh)))
 {
 U144L4U = (int)ceil(V701VUV85u);
 }
-else if (CEbjRbyEh < -1582069958)
+else if (false)
 {
 qc4595p41 = S4vR0SLV6(qc4595p41, M5izE_, -1027585331, y79Y72, -1355878421);
 }
@@ -282,7 +282,7 @@ G4cJ_1 = S4vR0SLV6(laQ_YR489, -1892754502, jViyE, 1481251709, 1481655171) / dcbf
 
 if (true)
 {
-if ((Fw32_pXz6 == 2121255737) && ((jOQ4a_ > 1943048929) && (VEGw3GfYKS & 2068729485)))
+if ((false) && ((jOQ4a_ > 1943048929) && (VEGw3GfYKS & 2068729485)))
 {
 GMnov = (unsigned short int)(r9vNDhIt);
 }

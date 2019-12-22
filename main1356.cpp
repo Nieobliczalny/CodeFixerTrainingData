@@ -254,7 +254,7 @@ else if (false)
 {
 fXETP = hLC3IG6 ^ MJpf_q_JK6;
 }
-else if (((zfh3XVR > VsbKxrv_) && (MJpf_q_JK6 == Hr8iJ4V8FJ)) || ((MJpf_q_JK6 <= -846463275) || (PBvoe62 & -2144074448)))
+else if (((true) && (MJpf_q_JK6 == Hr8iJ4V8FJ)) || ((MJpf_q_JK6 <= -846463275) || (PBvoe62 & -2144074448)))
 {
 J_Iyf4J4jC += Y96r6fQ;
 }

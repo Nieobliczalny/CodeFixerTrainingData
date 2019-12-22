@@ -231,7 +231,7 @@ else if (((KBdKH < 1430946093) || (SKQFDf_iL >= SSN28i3)) && (true))
 {
 k1466hfK |= 423370211;
 }
-else if (((uhKVs) || (G3N4vSj3 >= -887378531)) && ((woh5n_ >= 1502060314) && (J6vUxSIj8 == -1814922500)))
+else if (((uhKVs) || (G3N4vSj3 >= -887378531)) && ((false) && (J6vUxSIj8 == -1814922500)))
 {
 O454s8 /= 1531756265;
 }

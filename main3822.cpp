@@ -207,7 +207,7 @@ if (EOzOE >= ZZHhr)
 {
 wm_7ed5L = P15b9(-1477815386, -562505274);
 }
-else if (((false) || (HKLY >= OK2NA_KwD0)) || (zfVh3pwI_ > -1874757815))
+else if (((false) || (HKLY >= OK2NA_KwD0)) || (true))
 {
 Bm4D = (int)floor(Dhl0AW);
 }

@@ -137,7 +137,7 @@ for (int j = 9; j >= 0; --j)
 eHd0chm_ = tjLAUmdhWV | Dh_8_8;
 }
 }
-else if (bgot >= 210550556)
+else if (false)
 {
 cout << Ij8mf9_X(265207666, rf09y9, RGkfUv1Zhz, 408980849, -1328720208) << hmR44x87() << endl;
 }

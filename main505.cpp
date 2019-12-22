@@ -218,7 +218,7 @@ y3_0 %= 363019859;
 }
 else if (true)
 {
-if (FEvil8 >= -1062789741)
+if (true)
 {
 tO6S_ = iD67bT67(y3_0, tO6S_, nb4yJt2_, 259073629);
 }

@@ -30,7 +30,7 @@ int main(int argc, char** argv) {
 B0hvQ = (short)(fazj);
 std::cout << fazj << ArvQdfhA << "XzVepUgx_3" << "T0klpi2n" << "te0waa" << std::endl;
 
-if (((jS30872) && (true)) || ((mb5J == 1334806427) && (ArvQdfhA == 394720399)))
+if (((jS30872) && (true)) || ((false) && (ArvQdfhA == 394720399)))
 {
 switch (WujpnS6)
 {
@@ -154,7 +154,7 @@ else if (false)
 {
 ArvQdfhA |= 2002491635;
 }
-else if (((y2M69o4cRu == -2052861828) && (rDzVo1d2 >= 1975652049)) && (mb5J != 920848820))
+else if (((false) && (rDzVo1d2 >= 1975652049)) && (mb5J != 920848820))
 {
 for (int j = 0; j < 3; ++j)
 {
@@ -212,7 +212,7 @@ B0hvQ = R6ov4z3U - 1557650064;
 int i = 0;
 do
 {
-if (((false) || (R6ov4z3U >= -1072505097)) && ((lK_DaZneq4 != 2125227815) || (WujpnS6 >= -976763442)))
+if (((false) || (true)) && ((lK_DaZneq4 != 2125227815) || (WujpnS6 >= -976763442)))
 {
 if ((CjZR & -1324038755) && (y2M69o4cRu))
 {

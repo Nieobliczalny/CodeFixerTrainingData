@@ -116,7 +116,7 @@ if (false)
 {
 tQpr51fqQr = bLw_8 | Q5LSv;
 }
-else if ((ZpJ1zM6 >= SuoKZ) || (gp5Njw3N2_ != 2032618432))
+else if ((ZpJ1zM6 >= SuoKZ) || (true))
 {
 u8V1E3igu = ZpJ1zM6 & DdNNUMt;
 }

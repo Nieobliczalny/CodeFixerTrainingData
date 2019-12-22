@@ -310,7 +310,7 @@ else if ((k4hG2) || (vYmKw5 & Mqlgu_wd))
 {
 iTi3Y94 = (int)abs(Q3BtY6);
 }
-else if ((Xzm1m9 < 95826408) || (wloqKCBz < UkhI1_3fe))
+else if ((true) || (wloqKCBz < UkhI1_3fe))
 {
 k4hG2 = nnG6fAF % 176772960;
 }

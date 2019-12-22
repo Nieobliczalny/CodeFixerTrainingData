@@ -324,7 +324,7 @@ else if (zTauWR1v & i0Rc7x4gD7)
 {
 onaHdk_ = (float)(SsXJjrN);
 }
-else if (((true) && (onaHdk_)) && ((zTauWR1v) || (Bp8_6 > -1173547686)))
+else if (((true) && (onaHdk_)) && ((zTauWR1v) || (true)))
 {
 j6CqbRm9 = EJ49(981375246, -193130167, Bp8_6, -558267767);
 }
@@ -469,7 +469,7 @@ while (j >= 0);
 }
 else if (true)
 {
-if ((JZ2b9m2HNM) && ((JZ2b9m2HNM >= NNG0F_3m0c) || (i0Rc7x4gD7 >= 634364645)))
+if ((JZ2b9m2HNM) && ((JZ2b9m2HNM >= NNG0F_3m0c) || (false)))
 {
 if (m9_1b8Y7M7 >= pwVQt7A2T1)
 {
@@ -578,7 +578,7 @@ JZ2b9m2HNM = (int)abs(onaHdk_);
 int i = 0;
 do
 {
-if (((false) || (orTa1y & -290774308)) && ((orTa1y & j6CqbRm9) || (JZ2b9m2HNM <= -86083964)))
+if (((false) || (orTa1y & -290774308)) && ((orTa1y & j6CqbRm9) || (false)))
 {
 std::cout << "puwL99mx" << "o6I84OR537" << JZ2b9m2HNM << Po_08_pQ << std::endl;
 }

@@ -217,7 +217,7 @@ v0_9 = KWXDL9BPM / ujs3;
 
 if ((true) && (bJYXipWA != uErxPx1W))
 {
-if (((bJYXipWA > aJ6z3f) || (jkeb9X99 > 2016670630)) || ((r5z3g > -566327880) && (bHFO != -1909442361)))
+if (((bJYXipWA > aJ6z3f) || (jkeb9X99 > 2016670630)) || ((true) && (bHFO != -1909442361)))
 {
 {
 int k = 2;

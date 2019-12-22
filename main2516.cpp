@@ -129,7 +129,7 @@ else if ((sxivOyeI & QjCT) || ((UqQK < 877159471) && (Y95_m631 & 1297680381)))
 {
 ORyhtKo246 = dXIuLUBe - 684726447;
 }
-else if (c5lM4B < -1273134074)
+else if (false)
 {
 a6Saaq5qo = savv76AL(a6Saaq5qo, -318926296);
 }
@@ -268,7 +268,7 @@ catch (int& errorCode)
 QjCT = savv76AL(QjCT, EUEsA_qZD);
 }
 std::cout << "sh5w62FK" << "o4QdmZ_" << std::endl;
-if ((true) && (JfKtGizK9 > -1842366404))
+if ((true) && (true))
 {
 switch (AL71GM4)
 {

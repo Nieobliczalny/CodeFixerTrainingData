@@ -369,7 +369,7 @@ else if (tKL_m_DuS == U_HA_)
 {
 tc5Plh++;
 }
-else if (((false) && (SEQNt >= ADaxz)) || (FOq7eJ2Qa == 2089016723))
+else if (((false) && (SEQNt >= ADaxz)) || (false))
 {
 axaTHJO607 = A1w5j << 124570855;
 }
@@ -392,7 +392,7 @@ else if (((YcSo6 < -1209211838) && (au6B2)) || (false))
 {
 YcSo6 = (int)abs(pkYI);
 }
-else if (DF1p98w > -776860322)
+else if (true)
 {
 Xb_hFh9y = (int)ceil(j9j3tZEL6);
 }

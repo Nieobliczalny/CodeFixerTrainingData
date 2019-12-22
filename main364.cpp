@@ -406,7 +406,7 @@ else if ((cks2H7c <= -2050683101) && ((false) && (qPPU8XVHQp)))
 {
 cks2H7c = zueio7_Y(qPPU8XVHQp);
 }
-else if (qPPU8XVHQp > -693780920)
+else if (true)
 {
 cks2H7c = (Gz0oyc7H <= 300175163) ? gxNjz2Fo() : qPPU8XVHQp;
 }

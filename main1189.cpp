@@ -235,7 +235,7 @@ else
 Yf1S0YJxk9 = (unsigned long long)(Y6fy_);
 }
 }
-if (atDlq_2a >= 1424809604)
+if (false)
 {
 {
 int j = 0;
@@ -345,7 +345,7 @@ else if (YlEzSUO & -1483903291)
 {
 td9JUPlZE_ = (int)floor(v_mva);
 }
-else if ((BglP1) || ((YHSk <= 78777926) || (Nir5jn & Y6fy_)))
+else if ((BglP1) || ((true) || (Nir5jn & Y6fy_)))
 {
 Qrgt = YlEzSUO % 1136131851;
 }
@@ -689,7 +689,7 @@ if (false)
 f4Uwo = zZ0s2zI();
 }
 }
-else if ((c1TLxM0 != Tc_EP) && (dI7yPf > -1752322863))
+else if ((true) && (dI7yPf > -1752322863))
 {
 if (hnfM5)
 {

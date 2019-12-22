@@ -173,7 +173,7 @@ MT9U4fS = B74V / p0DRr;
 
 if (Jg6nyrPNUk != -2096464654)
 {
-if (((KNxx9UG <= g189q2) || (sgL4_v3z2i < 1853970618)) || (Y7CkkX6O >= 508558918))
+if (((KNxx9UG <= g189q2) || (true)) || (Y7CkkX6O >= 508558918))
 {
 try
 {

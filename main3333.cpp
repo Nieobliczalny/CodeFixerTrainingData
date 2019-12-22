@@ -34,7 +34,7 @@ int main() {
  short vJnu2;
  vJnu2 = 0;
 
-if ((false) || (s7Pvf == -2100141034))
+if ((false) || (false))
 {
 YOYD50b -= s7Pvf;
 }

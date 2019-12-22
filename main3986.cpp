@@ -359,7 +359,7 @@ j--;
 while (j >= 0);
 }
 }
-else if (((false) && (Pvhw55J >= j8J2b574B)) || ((v_Yr9i2C == -336963772) || (e6SNwG != o5YnYat)))
+else if (((false) && (Pvhw55J >= j8J2b574B)) || ((false) || (e6SNwG != o5YnYat)))
 {
 Pvhw55J = (unsigned short int)(wM03 * (kQF24hr));
 }

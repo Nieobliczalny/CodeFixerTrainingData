@@ -298,7 +298,7 @@ while (j >= 0);
 }
 std::cout << "WMC7" << oB366U(-297581430, J88306, csAb_, 1697950966) << oB366U(604141151, 1768261894, -1802458845, 1189503720) << Ee_S8X435N << "B036" << std::endl;
 
-if (((false) || (uYO4zFzJU < i0M40Q)) || (eSgY_9q1 < -999734725))
+if (((false) || (uYO4zFzJU < i0M40Q)) || (false))
 {
 try
 {

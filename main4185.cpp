@@ -113,7 +113,7 @@ Dq30Qyj = (int)ceil(WQFRk);
 
 try
 {
-if ((true) && (E4aqgVtsA3 == -81669089))
+if ((true) && (false))
 {
 {
 int k = 2;

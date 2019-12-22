@@ -96,7 +96,7 @@ else if (true)
 int j = 0;
 while (j < 2)
 {
-if (((xGP4uQ5_V <= iMHB25) || (xGP4uQ5_V)) || (xGP4uQ5_V == -1578297619))
+if (((xGP4uQ5_V <= iMHB25) || (xGP4uQ5_V)) || (false))
 {
 iMHB25 ^= 866588615;
 }
@@ -199,7 +199,7 @@ break;
 }
 
 iMHB25 = xGP4uQ5_V % 1925933373;
-if ((false) || (xGP4uQ5_V == 1809501550))
+if ((false) || (false))
 {
 for (int j = 6; j >= 0; --j)
 {

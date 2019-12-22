@@ -299,7 +299,7 @@ Itjs9M *= 1027271422;
 }
 }
 CY26tc4 = (float)(Um9p6EK2 + (YpK68));
-if ((N7nf126 < iPKg2VQR) && (Bdu34V5q <= lG2V_1))
+if ((true) && (Bdu34V5q <= lG2V_1))
 {
 cout << ei6aWF9 << "yWe21d" << Rh4aX3M2 << gQoiqwZ4BK << UuQT4_ << endl;
 }

@@ -74,7 +74,7 @@ Trr_406x = KI_Ef - EL_MlV0d;
 
 Trr_406x = Xt9Q << PG2G;
 
-if (PG2G != 1127826756)
+if (true)
 {
 {
 int j = 5;
@@ -333,7 +333,7 @@ else
 D_8Xz0 = (int)ceil(Trr_406x);
 }
 }
-else if (PG2G != KI_Ef)
+else if (true)
 {
 std::cout << "OK2H" << "CM3An0vG49" << D_8Xz0 << EL_MlV0d << std::endl;
 }
@@ -350,7 +350,7 @@ Trr_406x = (int)floor(D_8Xz0);
 break;
 }
 }
-else if (PG2G == 1829538148)
+else if (false)
 {
 {
 int k = 1;

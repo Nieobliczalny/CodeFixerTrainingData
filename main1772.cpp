@@ -187,7 +187,7 @@ else
 XagQ7KG8 = y41J0D4 / 1088033137;
 }
 }
-else if ((K1R87ujp >= Xgm1M83) || ((y41J0D4 <= 1068674904) && (tRiql)))
+else if ((K1R87ujp >= Xgm1M83) || ((true) && (tRiql)))
 {
 std::cout << "H519" << F0SgyAV << std::endl;
 }
@@ -345,7 +345,7 @@ pT5_rH = (int)abs(ibyIzZ);
 }
 }
 }
-else if (((false) && (QXA_2)) || (qF7H < -1129441128))
+else if (((false) && (QXA_2)) || (false))
 {
 NAVl_++;
 }

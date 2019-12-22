@@ -171,7 +171,7 @@ else if (((VNRH57KR & 1521268041) || (ESxsZGQ_V != svEEZYM)) && (U6l5jPM4))
 {
 K7rAB796 = w_4494iUz1 * 1230951295;
 }
-else if (((y74qYf8N8z != -1482087944) || (false)) && (oyVvb != 1718617393))
+else if (((y74qYf8N8z != -1482087944) || (false)) && (true))
 {
 for (int j = 2; j >= 0; --j)
 {

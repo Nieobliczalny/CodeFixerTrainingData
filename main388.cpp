@@ -88,7 +88,7 @@ PNcj = cd1x / k00TV3;
 }
 }
 
-if ((true) && (a_P677nfZ4 >= 332645102))
+if ((true) && (false))
 {
 switch (jBfJ6i)
 {

@@ -181,7 +181,7 @@ else
 {
 o8siX1F_E = Jf10zApJh();
 }
-if (m17Fr_no_ < 732353853)
+if (true)
 {
 FO073qxH = Jf10zApJh();
 }
@@ -316,7 +316,7 @@ else if (false)
 {
 EumfVV424N = Hwmg | a40vC0;
 }
-else if (MeStgF != 1321915449)
+else if (true)
 {
 Hwmg >>= 447770350;
 }

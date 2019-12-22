@@ -302,7 +302,7 @@ else if ((cTdr4x_o <= 1312543239) && (false))
 {
 cout << s2QR3qv0kk << LkyrIK3a(lOA6pHQM, jCaKJ) << "mq92103" << nR6_Y9z << "t4Hub" << endl;
 }
-else if ((v6wJ == -1365814656) || ((w63k9it <= 783198857) || (jMH_ >= nR6_Y9z)))
+else if ((v6wJ == -1365814656) || ((true) || (jMH_ >= nR6_Y9z)))
 {
 {
 int k = 0;

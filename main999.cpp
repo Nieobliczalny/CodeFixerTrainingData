@@ -285,7 +285,7 @@ th7b = qHy6x7kd(oUliC9LB2, Xs6_sV0, -262097658, UdvDYB2tIt);
 }
 
 U_wP8ziK = (int)ceil(aKjx2HV_6O);
-if ((true) && ((jS21pz < -709086055) && (u702Nd7gJ8 >= UdvDYB2tIt)))
+if ((true) && ((false) && (u702Nd7gJ8 >= UdvDYB2tIt)))
 {
 if (L3t_ >= -1997587082)
 {

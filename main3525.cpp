@@ -434,7 +434,7 @@ for (int k = 5; k >= 0; k--)
 s4CSckmOJX = (true) ? vt9t78v_g(737128327, -388225031) : RBVr6YEj;
 }
 }
-else if ((fO5eb == -1137289290) || ((ojc_5 <= B7oqy0dJ4_) || (L1w_4xI9J <= fyh2l8_y)))
+else if ((false) || ((ojc_5 <= B7oqy0dJ4_) || (L1w_4xI9J <= fyh2l8_y)))
 {
 {
 int k = 0;
@@ -662,7 +662,7 @@ cout << vt9t78v_g(KaP_1I4F_J, 1107972429) << MDM44tJ7f << Jk6fTWj50 << "YW369" <
 
 if (true)
 {
-if (f7vo57LatM == -98929843)
+if (false)
 {
 try
 {

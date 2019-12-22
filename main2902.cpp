@@ -289,7 +289,7 @@ uzDd22kNCB = wGKYtAfS | 1264489357;
 }
 for (int i = 0; i < 6; ++i)
 {
-if ((wg5a_J == 1741430608) || ((false) || (ZKsY0e8 == 1782681756)))
+if ((wg5a_J == 1741430608) || ((false) || (false)))
 {
 try
 {

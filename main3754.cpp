@@ -427,7 +427,7 @@ if (false)
 {
 rLr_8D = w_H94Qjk(pl9j, b_69RgH1l, tqM4);
 }
-else if (bpqkV_3 < -1820226998)
+else if (false)
 {
 Wy3N0a ^= HTrR0c2z1_;
 }

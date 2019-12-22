@@ -181,7 +181,7 @@ while (i < 5);
 cwqB = (long double)(i9J3MwUXaL);
 try
 {
-if (((m3Kosl == 803229448) || (false)) && (r3hv == -1430006419))
+if (((m3Kosl == 803229448) || (false)) && (false))
 {
 i9J3MwUXaL = (int)abs(K5k4595);
 }

@@ -290,7 +290,7 @@ while (j < 6);
 }
 }
 
-if (((true) && (EVuI & F65I)) || (cA1xQGU50 > 1473765430))
+if (((true) && (EVuI & F65I)) || (false))
 {
 r192gs = (char)(uq2lD4);
 }

@@ -375,7 +375,7 @@ else if (true)
 {
 if (lho58462_ == j9u3n)
 {
-if ((N6v0 > 51996752) || (v6GKM6rMo2 & j580))
+if ((false) || (v6GKM6rMo2 & j580))
 {
 VJX311lcG = Yq0_(VJX311lcG, fSuVe, Oq00T2P);
 }
@@ -395,7 +395,7 @@ else
 rSFZ5j = (int)abs(S0p7zdB);
 }
 }
-else if (Aj2eza0 == CXJ96)
+else if (false)
 {
 GHgbSk = Yq0_(-1102730323, -1271295929, fSuVe);
 }

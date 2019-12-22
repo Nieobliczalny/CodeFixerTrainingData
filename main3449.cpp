@@ -78,7 +78,7 @@ for (int k = 0; k < 9; ++k)
 W6cq6 = u9Ot9t(v190L3WIMB, O12oOvL7, 676656031, YYPTL_y1j);
 }
 }
-else if (((false) || (lqR_mq == 780771120)) && (Zt6DfU60H))
+else if (((false) || (false)) && (Zt6DfU60H))
 {
 {
 int k = 0;
@@ -152,7 +152,7 @@ else if (S6EZ85K >= -1493003738)
 {
 ckQhe27BR = (int)ceil(Ijrc6hO4U);
 }
-else if ((i6Ah3Z) && (sr_57 >= -1205704754))
+else if ((i6Ah3Z) && (true))
 {
 for (int j = 5; j >= 0; j--)
 {

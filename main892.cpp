@@ -173,7 +173,7 @@ if (((K8KmNp <= BVm0Sv0) || (jXHqnFS191 == BVm0Sv0)) && (true))
 {
 VFP1_ += 94654796;
 }
-else if (iu7f84f <= -998270720)
+else if (false)
 {
 Q8_110 = TX6DzrRh(-2029781748);
 }
@@ -456,7 +456,7 @@ else if (VFxV == -640852926)
 {
 std::cout << "ZK785FKwmV" << jA84DM0F << std::endl;
 }
-else if (dYH6Rv91W > -1382160928)
+else if (true)
 {
 try
 {

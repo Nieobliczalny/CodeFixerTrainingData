@@ -184,7 +184,7 @@ else if (((Hd5_k_2 <= q0s3ToWPh) && (G8Tl69_b != URvj4p79_Q)) || ((ej__0 == Hd5_
 {
 jR_SLN_OP = (int)floor(AIT5l8);
 }
-else if (JIO_v < -1102354143)
+else if (false)
 {
 AIT5l8 = (int)ceil(Zju8Hk8n);
 }

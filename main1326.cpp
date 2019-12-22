@@ -227,7 +227,7 @@ else if (nlGTvzMg < jO0iOx5Q_Y)
 {
 gk4o = y96TH(gk4o);
 }
-else if ((QI910 & 1578932488) && (hbK23 < 105559245))
+else if ((QI910 & 1578932488) && (true))
 {
 BA502_2F += Gku_xOhxu;
 }
@@ -265,7 +265,7 @@ break;
 }
 if ((true) || (fE_51QeRno >= b15bYDvw))
 {
-if (noifjx < -314020137)
+if (false)
 {
 c1Yu0e3og += 1864834177;
 }

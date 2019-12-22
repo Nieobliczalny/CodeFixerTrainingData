@@ -190,7 +190,7 @@ while (i < 8);
 }
 if (((true) || (wt3_8i & k_HIpN)) && ((vnXy9v_0jS < -822060290) && (hnT5U8Zcyy > 96107287)))
 {
-if (S_82Vv != 1143046343)
+if (true)
 {
 for (int k = 2; k >= 0; --k)
 {

@@ -206,7 +206,7 @@ else if ((yauiPLf & 1858360152) || ((gV0K38q1_O) || (false)))
 {
 xBcwrb = (short int)(gV0K38q1_O * xBcwrb);
 }
-else if (xBcwrb < 2044156724)
+else if (true)
 {
 D2mJo = (char)(m7j0lJd);
 }
@@ -237,7 +237,7 @@ j--;
 while (j >= 0);
 }
 }
-else if ((xBcwrb < -860383256) || (D2mJo < -1301617107))
+else if ((false) || (D2mJo < -1301617107))
 {
 try
 {

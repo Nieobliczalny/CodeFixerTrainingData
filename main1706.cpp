@@ -208,7 +208,7 @@ else if (false)
 {
 dEKzuJ = xN5TVM >> l8Bo8689;
 }
-else if (dEKzuJ <= -1162458644)
+else if (false)
 {
 DG17qRNUni = (short)(l8Bo8689);
 }
@@ -404,7 +404,7 @@ if (p03SrSAq9)
 {
 h4YhsD7G = Lo94p5Ke_ | DG17qRNUni;
 }
-else if (DG17qRNUni != KzY37f3PAU)
+else if (true)
 {
 try
 {

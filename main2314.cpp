@@ -191,7 +191,7 @@ cout << "Er6js" << endl;
 }
 else if (true)
 {
-if (eI9g >= -559146027)
+if (true)
 {
 J2cJG = sNV1M - cdqfwKh5e;
 }

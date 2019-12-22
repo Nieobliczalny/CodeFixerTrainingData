@@ -205,7 +205,7 @@ break;
 }
 lBPxvp_ = QEM94Gqnd(cCe01F) / gVt4p;
 
-if (MZ2TVc != 1118953897)
+if (true)
 {
 LQe48Wlb = (int)abs(lZl9ke);
 }

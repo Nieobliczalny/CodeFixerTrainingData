@@ -336,7 +336,7 @@ int j = 0;
 while (j < 8)
 {
 ++j;
-if ((s7ZE5BYABX > 925158244) && (bdW3AOpnrA <= Y4xmsOv1))
+if ((false) && (bdW3AOpnrA <= Y4xmsOv1))
 {
 yc_n0m6s = oHViG(1131986451, -1368596868, 307902958);
 }

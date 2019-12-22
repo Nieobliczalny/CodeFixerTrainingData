@@ -122,7 +122,7 @@ else if ((ZnXlTa68D <= w565W9J) && (NGzwG60 > -1470445445))
 {
 g7Dp = ZnXlTa68D - YxRJ0Ez;
 }
-else if ((false) || (ZnXlTa68D <= 2062987171))
+else if ((false) || (true))
 {
 e8qa78 &= 1869091498;
 }

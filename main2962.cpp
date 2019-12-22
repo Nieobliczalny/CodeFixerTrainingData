@@ -315,7 +315,7 @@ gtdYe = (double)(QKz1DH1BEV);
 }
 else if (true)
 {
-if ((n02yw > 1864391935) && ((Ac4zeg >= -1950808531) && (bX_0_34D < -321521433)))
+if ((n02yw > 1864391935) && ((true) && (bX_0_34D < -321521433)))
 {
 if (FKXh7cOXYt <= r0SN1_h)
 {

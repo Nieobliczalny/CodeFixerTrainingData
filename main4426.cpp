@@ -25,7 +25,7 @@ Hp5O2X6 = (char)(N_rPvB3NZC);
 
 try
 {
-if ((O_cB >= wXV2) || (M66fn4 <= C1_5Wz49))
+if ((O_cB >= wXV2) || (false))
 {
 switch (hxei)
 {
@@ -101,7 +101,7 @@ else if ((true) && (slqLJ35q > z05AMuS))
 {
 std::cout << lrtL8eIB3(eE_Vu, -547217283) << "r4KcV7" << lrtL8eIB3(eE_Vu, 601442246) << b_nxo(eE_Vu, Hp5O2X6) << std::endl;
 }
-else if (O_cB == 1688245302)
+else if (false)
 {
 N21v |= 1088679231;
 }

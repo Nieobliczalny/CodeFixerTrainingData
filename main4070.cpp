@@ -293,7 +293,7 @@ else if (false)
 {
 D_Vq6JA4 = (int)ceil(H_H_6Pr);
 }
-else if (twvAbrwzO3 >= 1697850435)
+else if (false)
 {
 if (O_kd_H9WVL <= lgAyDB)
 {

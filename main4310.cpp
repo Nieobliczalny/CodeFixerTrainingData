@@ -333,7 +333,7 @@ if (false)
 {
 CHDow8 = (int)ceil(g7al8);
 }
-else if ((oQR8bH & JTa6lo_) || ((G__F & -685441569) && (pZ3a33I >= 599459938)))
+else if ((oQR8bH & JTa6lo_) || ((G__F & -685441569) && (false)))
 {
 KS0A4vE /= 2094787398;
 }
@@ -512,7 +512,7 @@ POtXEC0 = L99k(152946136);
 }
 else
 {
-if (oQR8bH < 930145857)
+if (true)
 {
 KS0A4vE = (unsigned short int)(Et9df6II);
 }

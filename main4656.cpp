@@ -310,7 +310,7 @@ else if (((TW964d92Zl != ylV4) && (false)) && (ii_g461mPK != 1944742714))
 {
 std::cout << tls_J47 << nBpJ7GyT3 << Au84 << r61ljB << cGzy64 << std::endl;
 }
-else if (((sX6H2rPog != 1520021739) || (qq_Cy >= 1930872864)) && ((GCAym8jeZ >= Hxa7k0K) && (bM4i5 != E470O)))
+else if (((true) || (qq_Cy >= 1930872864)) && ((GCAym8jeZ >= Hxa7k0K) && (bM4i5 != E470O)))
 {
 g_hb = TvZdsKC | 839063938;
 }
@@ -320,7 +320,7 @@ if (((tAxh_xIf) || (gm9xP4 <= Z0I1)) && (false))
 {
 gzG8 = (int)abs(JR8Q1_d7);
 }
-else if (hN3V_1O_ > 164523570)
+else if (false)
 {
 c9Y_9wl = r61ljB - 773573157;
 }

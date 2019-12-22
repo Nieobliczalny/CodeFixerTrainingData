@@ -114,7 +114,7 @@ if (ue6kbxIZh & XV__07___t)
 ue6kbxIZh = jlSDG7M | 1753597482;
 }
 }
-else if ((false) || (jlSDG7M != 759983988))
+else if ((false) || (true))
 {
 if ((gAjt_a & 1738758504) || (L92NYn != hY1o5v))
 {
@@ -525,7 +525,7 @@ else
 s7_MaTt = d_yoo1q + 1675507845;
 }
 }
-else if (hY1o5v > 1077843495)
+else if (false)
 {
 if (true)
 {

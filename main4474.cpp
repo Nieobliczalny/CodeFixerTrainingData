@@ -327,7 +327,7 @@ jBts2 = BA14(jBts2, nR0Nw, -989407375, -772849950);
 G_YQK = slJRb11S ^ 211435860;
 
 Cs68 = (char)(hfC_);
-if ((false) || ((R0s7 < 1532228647) && (jBts2 & mX2_1lf8V)))
+if ((false) || ((true) && (jBts2 & mX2_1lf8V)))
 {
 {
 int j = 7;

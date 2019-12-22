@@ -19,7 +19,7 @@ int main() {
 std::cout << qg6j35 << "D_I36nogO" << "bxO355" << "T_pJ657Dp" << v1z5XyJu << std::endl;
 if ((F6h0RGln == kNaQ6h4) && ((true) || (kOT9I9 == -1053046062)))
 {
-if (F6h0RGln >= 1338004656)
+if (false)
 {
 for (int k = 0; k < 8; ++k)
 {
@@ -324,7 +324,7 @@ K_pl++;
 }
 else if (true)
 {
-if (ME_O88N >= 318321655)
+if (false)
 {
 if (ME_O88N >= -1269674413)
 {

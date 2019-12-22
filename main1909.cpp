@@ -341,7 +341,7 @@ if (false)
 {
 vu4mb = (long)(Wi46);
 }
-else if (WV6Q <= -1762591429)
+else if (false)
 {
 for (int j = 0; j < 5; ++j)
 {
@@ -362,7 +362,7 @@ if (CYAMvO_FUA)
 {
 A1ITFk840 = (long long)(kK38g + (-1996590905));
 }
-else if (WV6Q >= -583390588)
+else if (true)
 {
 if (vB2qxl & ZcdY)
 {

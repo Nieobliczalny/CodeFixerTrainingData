@@ -215,7 +215,7 @@ int j = 0;
 while (j < 9)
 {
 j++;
-if (((IUZA6s6a == 1913699838) || (Et01CU != oXHw8_I7rA)) || ((EUTd > -1090142585) && (hVzO1NP6it > -134637196)))
+if (((false) || (Et01CU != oXHw8_I7rA)) || ((EUTd > -1090142585) && (hVzO1NP6it > -134637196)))
 {
 lA5Ojj2v_ = (int)floor(CgKQBS1I);
 }
@@ -248,7 +248,7 @@ j++;
 while (j < 4);
 }
 }
-else if ((false) || (n1175jo != 367231969))
+else if ((false) || (true))
 {
 Kd2V = DH_uwyo(-1809357975, m95mv3hC8m, 205925280) % 2140548741;
 }

@@ -391,7 +391,7 @@ else if ((false) || (H_I5Wd57vT == N5Wc))
 {
 try
 {
-if (j84_69b8Fv < -1252534384)
+if (false)
 {
 k6TKT956BM ^= m5xKv;
 }

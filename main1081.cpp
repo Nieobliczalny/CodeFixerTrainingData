@@ -160,7 +160,7 @@ for (int i = 5; i >= 0; i--)
 {
 if (((true) || (FPu5odh8B < -452920995)) || ((v5Dqx8 & 1361811140) && (KNPpTVb < bWF1G)))
 {
-if (ra9p04l == 97910241)
+if (false)
 {
 fU4NgC &= KPSXMq5e;
 }
@@ -243,7 +243,7 @@ else if (((false) && (AZK_i7I23y > vie_wg)) && (yCfLkcd_1 == fH_M1dKE))
 {
 cout << kbbCEqxI << LABB << "lNHB201z6F" << "b6_s" << slf0zgLM << endl;
 }
-else if ((UWB4CW7 > 1314611823) && (LABB <= -1304012829))
+else if ((false) && (LABB <= -1304012829))
 {
 kbbCEqxI = (int)abs(h56Ub1kR);
 }

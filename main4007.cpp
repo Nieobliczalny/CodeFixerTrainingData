@@ -301,7 +301,7 @@ break;
 
 if ((true) || (dbpO0 == -543808778))
 {
-if (BG2PI < 2011023222)
+if (true)
 {
 BG2PI ^= DH6395_;
 }
@@ -444,7 +444,7 @@ BG2PI <<= DH6395_;
 
 for (int i = 0; i < 8; ++i)
 {
-if ((true) && (BG2PI <= -1465712196))
+if ((true) && (false))
 {
 if (xe4nZn3)
 {

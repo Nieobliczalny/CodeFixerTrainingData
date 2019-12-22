@@ -428,7 +428,7 @@ catch (int& errorCode)
 {
 uEvsVa = ZlW1vJxg(148296534, -264451451, -1129156385, 235745241, 612851480);
 }
-if (((QMhA != -957066984) && (false)) || (BEMADF6 != -1690794577))
+if (((QMhA != -957066984) && (false)) || (true))
 {
 H3AcJFb9Ec = ZlW1vJxg(BEMADF6, SZ_rJyj, 1654284596, w21jP, H3AcJFb9Ec) % 1684673003;
 }

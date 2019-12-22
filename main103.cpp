@@ -118,7 +118,7 @@ s_LA169M = TQWWMf7(-1087686456, YfcVDy1a);
 }
 else if (((true) || (V1Ew92 <= DePiQl2jS6)) || (Vqo4l & -1364076467))
 {
-if (ViytW5u74f != -2114220167)
+if (true)
 {
 SPR51UY4 /= SPR51UY4;
 }

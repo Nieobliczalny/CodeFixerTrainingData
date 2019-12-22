@@ -301,7 +301,7 @@ U1iRKe ^= yZ__PQttW;
 cout << orZ_HlKYg << OZmik << "WrKn29S6x" << Sks1 << endl;
 try
 {
-if ((false) || ((e5044i3 < Ejwgakh0ME) && (pgZb65NeR != -1284503097)))
+if ((false) || ((e5044i3 < Ejwgakh0ME) && (true)))
 {
 cout << HVxSCT3i36 << kCV11 << U1iRKe << endl;
 }

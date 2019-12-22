@@ -175,7 +175,7 @@ if ((n7vd7zW_5g < -1844207648) || (FzPq0 != P3W2_TBN))
 {
 if (g4Pm & -1501874700)
 {
-if (((false) || (A_Jd4LoXf < -779522739)) && ((b0Txi2vkCd > 19782113) && (y_t119oR == -2098380654)))
+if (((false) || (false)) && ((b0Txi2vkCd > 19782113) && (y_t119oR == -2098380654)))
 {
 T3rQPU = (int)ceil(p4E_PW);
 }

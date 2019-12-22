@@ -313,7 +313,7 @@ while (i >= 0);
 }
 M8HM1fu38 >>= A99CF;
 
-if (((false) || (rjp4x < -398854741)) || ((mFUQ2hW2 < -1347822168) && (OQNtv < vv5XO1i)))
+if (((false) || (rjp4x < -398854741)) || ((false) && (OQNtv < vv5XO1i)))
 {
 try
 {

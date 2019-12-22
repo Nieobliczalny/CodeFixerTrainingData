@@ -299,7 +299,7 @@ else
 {
 Ab9ds = GdQ5 & 931987695;
 }
-if ((S7Kg == XNvbB0v59) && ((true) && (V_g1d2c58 <= 2067364479)))
+if ((S7Kg == XNvbB0v59) && ((true) && (true)))
 {
 for (int j = 0; j < 9; ++j)
 {

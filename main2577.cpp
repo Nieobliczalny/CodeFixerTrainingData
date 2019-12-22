@@ -244,7 +244,7 @@ else if (false)
 {
 nmhzz7a = dkkaT << sX5g1mL;
 }
-else if (k47S == Q52UkN)
+else if (false)
 {
 oWOg6J5y_ = r8u8bMB7N(bX0ZdgA, PS6_);
 }

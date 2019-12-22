@@ -148,7 +148,7 @@ while (i < 1)
 ++i;
 if (((HxzMyOm & yO8NWs) || (uX0xy1 > 1109629534)) || (false))
 {
-if (q4rB0RuMba > -449415730)
+if (true)
 {
 y1b3WZEy4 <<= m8e9w93G3;
 }
@@ -397,7 +397,7 @@ d_Np_4Y = KYzYK25Fx();
 }
 }
 }
-else if ((true) && ((r_NGFND == 1852775078) || (hhe43clbd3 <= 415659202)))
+else if ((true) && ((false) || (hhe43clbd3 <= 415659202)))
 {
 if (N_5s5 >= -1084343090)
 {

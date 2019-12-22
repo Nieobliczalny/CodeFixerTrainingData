@@ -333,7 +333,7 @@ std::cout << kzb12 << p8m2 << "X30NX49E" << std::endl;
 
 try
 {
-if ((g11y9vGxG != 700869573) && ((y577 == oY62Tn5W) && (Fv4u_ >= 471694921)))
+if ((true) && ((y577 == oY62Tn5W) && (Fv4u_ >= 471694921)))
 {
 G_O2P8ts = (int)ceil(J1Ze);
 }

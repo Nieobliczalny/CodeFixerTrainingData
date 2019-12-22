@@ -266,7 +266,7 @@ I4OC = (unsigned short int)(CG1wm51qK + (1511372317));
 }
 else
 {
-if ((Uuo9G9_4 <= I4OC) && ((I4OC < Uuo9G9_4) || (CG1wm51qK == 2016526254)))
+if ((Uuo9G9_4 <= I4OC) && ((I4OC < Uuo9G9_4) || (false)))
 {
 rb7jSG *= 321357464;
 }
@@ -917,7 +917,7 @@ while (i < 7);
 
 for (int i = 0; i < 10; ++i)
 {
-if ((FuS12 == 622086056) && ((yy_2l6B8b & 1870530807) && (I4OC > rb7jSG)))
+if ((false) && ((yy_2l6B8b & 1870530807) && (I4OC > rb7jSG)))
 {
 switch (FuS12)
 {

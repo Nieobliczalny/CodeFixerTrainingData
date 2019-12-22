@@ -122,7 +122,7 @@ GK6QTlnLiJ >>= UJWa019;
 }
 else
 {
-if (FYN_W_fN_L != 1396112984)
+if (true)
 {
 switch (GK6QTlnLiJ)
 {
@@ -154,7 +154,7 @@ break;
 }
 else if (true)
 {
-if (Scb5t3k5es < -1477635372)
+if (false)
 {
 by1cQJ8 = q07DE99s(by1cQJ8, -1115586180, t820H6Y1B);
 }

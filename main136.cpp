@@ -46,7 +46,7 @@ Zb_j7C /= 945776082;
 cout << WU7tMcIUJ4 / F_Zh9 << endl;
 
 KD_IC92jv = (double)(Q7hB4 + (1632620340));
-if (((KD_IC92jv <= oNAv8__C) && (false)) || ((r7Zh > Q7hB4) || (F_Zh9 < 1890052930)))
+if (((KD_IC92jv <= oNAv8__C) && (false)) || ((r7Zh > Q7hB4) || (true)))
 {
 {
 int j = 7;

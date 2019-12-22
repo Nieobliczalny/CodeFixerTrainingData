@@ -252,7 +252,7 @@ r_bd56S = (unsigned char)(KP4N6);
 }
 if (((false) && (v2G0o00)) || (KS5vY0U))
 {
-if (F80981A8 > 105465443)
+if (false)
 {
 {
 int k = 0;

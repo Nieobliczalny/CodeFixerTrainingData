@@ -793,7 +793,7 @@ else if (((t24eo1 < V3_7y4C3K) && (QJQclT0P_ & J3Kg1)) && (false))
 {
 l5O4y = (int)ceil(V_zSqf4Ri);
 }
-else if (((qDFNc5Z & 1337481834) || (m493IWvLf)) || (sSzwMc > HR7UbcZI3))
+else if (((qDFNc5Z & 1337481834) || (m493IWvLf)) || (true))
 {
 n21q = (int)abs(z58x);
 }

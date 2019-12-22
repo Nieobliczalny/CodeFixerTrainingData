@@ -214,7 +214,7 @@ else if ((false) && (ny4TnYP == PA9WXfU))
 {
 BDWQV = mJ_h70 << uS4CLaD;
 }
-else if (uS4CLaD >= u4x3VQ_In2)
+else if (false)
 {
 iDvzKp7 = ny4TnYP * xo6E3gS;
 }

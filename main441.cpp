@@ -32,7 +32,7 @@ if (false)
 std::cout << "Bneqez" << std::endl;
 }
 }
-else if (AMUXI_ >= -124786051)
+else if (true)
 {
 if (((cNeh) && (uDSrs50_Ba & qWFVLKmMFj)) || (Kqfxj9 == Y5_jl))
 {
@@ -203,7 +203,7 @@ else if (false)
 {
 f40P60 = w5fF_mg7s(g20VY, Gl0hfsi_) << 1938165097;
 }
-else if (eA13i4Kp_ == -49611977)
+else if (false)
 {
 Kqfxj9 = w5fF_mg7s(993678842, -1614188870);
 }

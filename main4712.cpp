@@ -391,7 +391,7 @@ cout << Geb30 << "XRsvU8v8y" << R656OB(Ba7O_lM, -1896765204) << SLa4 << endl;
 }
 else
 {
-if (v_9so7s6 < hu_TM)
+if (true)
 {
 N5mtr7b = (int)abs(X06sm1);
 }

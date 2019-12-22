@@ -226,7 +226,7 @@ if (K7vkQj & UDsT_vs9h8)
 {
 M3l6Db ^= GI78G_jkg;
 }
-else if (ELEI9_CG < -1362588273)
+else if (false)
 {
 YG_7SVaz8_ ^= qQ_s273;
 }

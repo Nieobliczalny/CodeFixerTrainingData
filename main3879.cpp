@@ -206,7 +206,7 @@ else if (c4I0 != SoLV4ro)
 {
 FCEral1K = (unsigned char)(CmyH);
 }
-else if (((true) && (OGVQJ1y7Z >= SoLV4ro)) && ((z0_pIB) || (y7CY5H2 <= h_YSsgun)))
+else if (((true) && (true)) && ((z0_pIB) || (y7CY5H2 <= h_YSsgun)))
 {
 {
 int j = 0;
@@ -661,7 +661,7 @@ while (j >= 0);
 }
 }
 
-if (((true) || (uYqlai_7I & 2045316699)) && (HmD_P0C6 != QFqX4))
+if (((true) || (uYqlai_7I & 2045316699)) && (true))
 {
 cout << "y9Anq6_" << Mh4_(h0pu49P) << endl;
 }

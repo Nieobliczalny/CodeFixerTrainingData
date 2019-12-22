@@ -248,7 +248,7 @@ if (((z68_38DiGa) && (true)) || (fUEhW < t5Cw73h))
 {
 H2ffc_dZ = (int)floor(S7b6t40vXw);
 }
-else if ((S7b6t40vXw != S6aOfwc) && (TI9x != -910422798))
+else if ((S7b6t40vXw != S6aOfwc) && (true))
 {
 cout << "AK_lNXUHp" << H2ffc_dZ << wxi42ZvXer(1945640636, 1300736526, -2023969649, 1805543757) << wxi42ZvXer(p9PYP, t5Cw73h, 1684335709, -1525232229) << endl;
 }

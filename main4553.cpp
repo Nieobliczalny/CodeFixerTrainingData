@@ -236,7 +236,7 @@ OJl7753bi0 |= 1596237397;
 int i = 0;
 while (i < 9)
 {
-if ((true) && ((yL1Qqg8ZJ7) || (nN5m_y > -1332426573)))
+if ((true) && ((yL1Qqg8ZJ7) || (true)))
 {
 if (yL1Qqg8ZJ7 == lvvw)
 {

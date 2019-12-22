@@ -243,7 +243,7 @@ UCY0L64Ee >>= F30T5UV4PO;
 break;
 }
 }
-else if (((HViI5AyN0O == -1986996978) && (true)) && ((Y5FQ1O_2xN >= HViI5AyN0O) || (dpYKvQG1t3 <= -517049776)))
+else if (((HViI5AyN0O == -1986996978) && (true)) && ((Y5FQ1O_2xN >= HViI5AyN0O) || (false)))
 {
 if ((bjuva04 != J3_2c78kb) || (UCY0L64Ee == -1132936324))
 {

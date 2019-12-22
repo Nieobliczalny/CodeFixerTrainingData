@@ -171,7 +171,7 @@ else if (false)
 {
 Rd_Ec_u3_i = q4GpJP(q1G51, -592851062, 2100645074, qa2_5A);
 }
-else if ((b73_4tS > 1079485201) && (N7_5Nto38U > aLrMD4y6E))
+else if ((false) && (N7_5Nto38U > aLrMD4y6E))
 {
 Rd_Ec_u3_i = q4GpJP(d5thxfXR, Eqk8_0W5, -2075384788, Rh_8Edqity);
 }

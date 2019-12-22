@@ -398,7 +398,7 @@ std::cout << IrX77Qf << cpFu0_Jtr(-919702492, e8D20B, 915825393, LAvQ, t9dbBe817
 }
 }
 
-if (((false) || (Ba2s <= -1618366055)) && ((BCJKfzOKu0 == aE6aI8CNU) && (Cx31XhF2LX >= 1251918136)))
+if (((false) || (Ba2s <= -1618366055)) && ((BCJKfzOKu0 == aE6aI8CNU) && (false)))
 {
 Te_eQp = i9yhN % 444006036;
 }

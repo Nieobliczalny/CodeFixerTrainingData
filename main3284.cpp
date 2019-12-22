@@ -174,7 +174,7 @@ if (stxs4 & ssUm2Llo5T)
 {
 H46Oy9L = (unsigned short int)(gf_iJ8);
 }
-else if ((true) && (H46Oy9L != -272067698))
+else if ((true) && (true))
 {
 Qr2n6l1JHt = FSw7oX_PB * 898846471;
 }

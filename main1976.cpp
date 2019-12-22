@@ -622,7 +622,7 @@ qB2tiOq4Q++;
 int i = 0;
 do
 {
-if ((iDzS7pU_ & bx_T) || ((false) || (W_zT0iG1 >= 1119034064)))
+if ((iDzS7pU_ & bx_T) || ((false) || (false)))
 {
 l1HK2qCJW <<= 1657424896;
 }
@@ -805,7 +805,7 @@ for (int i = 7; i >= 0; --i)
 {
 if (h655j > -1629737054)
 {
-if ((true) && ((stuHC28 == P9f41g121) || (m62K9g != -1623494791)))
+if ((true) && ((false) || (m62K9g != -1623494791)))
 {
 gHKQ = wh_TSd5gUl(-544646658) << I651Ddm;
 }

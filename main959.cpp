@@ -386,7 +386,7 @@ N1G8hbJdLr = (short)(V122);
 
 if ((U2xf) || ((tLyxB3VgZ) || (false)))
 {
-if (EegqeSw <= -1110992004)
+if (false)
 {
 if ((DO685Q_5 != 889327775) || (HQr4RE_Z_8 < 595155609))
 {

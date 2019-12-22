@@ -108,7 +108,7 @@ while (i >= 0);
 
 S6Hl9 = (short int)(X290P8F);
 
-if ((xs2iFQ & L6NJMC) && ((false) || (ASn7_j != 592311712)))
+if ((xs2iFQ & L6NJMC) && ((false) || (true)))
 {
 switch (cA8c9)
 {
@@ -125,7 +125,7 @@ else if ((true) && (c307CY <= oXK5m90))
 {
 rgD1mFL7 = (short int)(f_Aqw6_g);
 }
-else if (o587LR78Jl > -1413437412)
+else if (true)
 {
 switch (Y1A4ona)
 {
@@ -233,7 +233,7 @@ else
 jGPP61drc = o587LR78Jl + 1186088888;
 }
 }
-else if ((IB83Yd6M8z != izv8AL) || (jGPP61drc <= 788186691))
+else if ((IB83Yd6M8z != izv8AL) || (true))
 {
 if (((c307CY == Lylj450md) && (true)) || ((O6v147b4e < -712708906) && (c307CY != ddNUVUut9p)))
 {

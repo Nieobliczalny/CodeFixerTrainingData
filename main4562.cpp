@@ -47,7 +47,7 @@ i--;
 while (i >= 0);
 }
 Q7CWj = D9o3o7Pxg - 219235636;
-if ((true) && (QJ6Lil >= -1860362761))
+if ((true) && (true))
 {
 std::cout << FX7OOT7() << "h4Np1R13WP" << std::endl;
 }
@@ -72,7 +72,7 @@ if (false)
 YDLm2if5d = FX7OOT7();
 }
 }
-else if (((YDLm2if5d) && (RUS77BPoC0 >= 1181440309)) && ((QJ6Lil <= D9o3o7Pxg) && (QJ6Lil > h0Iqy)))
+else if (((YDLm2if5d) && (false)) && ((QJ6Lil <= D9o3o7Pxg) && (QJ6Lil > h0Iqy)))
 {
 if (Qz_x0r__07 > 17384766)
 {
@@ -89,7 +89,7 @@ C212_ /= Lw_7RZ2QG;
 }
 else
 {
-if (((true) && (cD0C24Bj1 != -684343248)) && (nnk_G != cD0C24Bj1))
+if (((true) && (true)) && (nnk_G != cD0C24Bj1))
 {
 RUS77BPoC0 = (int)abs(YDLm2if5d) + (1239076577);
 }
@@ -131,7 +131,7 @@ else if ((true) && (Qz_x0r__07 & -907072245))
 {
 YDLm2if5d = FX7OOT7();
 }
-else if (((RUS77BPoC0 > -878873081) && (D9o3o7Pxg < -1713767917)) || (nnk_G & h0Iqy))
+else if (((true) && (D9o3o7Pxg < -1713767917)) || (nnk_G & h0Iqy))
 {
 std::cout << FX7OOT7() << FX7OOT7() << LVBuJeZ << FX7OOT7() << nnk_G << std::endl;
 }
@@ -153,7 +153,7 @@ j--;
 }
 }
 }
-else if (Q7CWj == 1058036981)
+else if (false)
 {
 {
 int j = 0;
@@ -203,7 +203,7 @@ while (i >= 0);
 }
 if (true)
 {
-if (ie5Xls > -333330732)
+if (true)
 {
 Lw_7RZ2QG ^= cD0C24Bj1;
 }
@@ -264,7 +264,7 @@ std::cout << FX7OOT7() << FX7OOT7() << "cvLC43" << FX7OOT7() << std::endl;
 
 if (true)
 {
-if (LVBuJeZ < -178221396)
+if (false)
 {
 if (Qz_x0r__07 >= YDLm2if5d)
 {
@@ -347,7 +347,7 @@ else if ((false) && (ie5Xls < -370256257))
 {
 YDLm2if5d = (int)abs(D9o3o7Pxg) * 0;
 }
-else if (((Q7CWj <= -1856161687) || (ie5Xls < RUS77BPoC0)) || (Q7CWj))
+else if (((false) || (ie5Xls < RUS77BPoC0)) || (Q7CWj))
 {
 try
 {
@@ -362,7 +362,7 @@ else if (C212_)
 {
 std::cout << YDLm2if5d << "z7IK" << FX7OOT7() << std::endl;
 }
-else if (((C212_ > QJ6Lil) && (false)) || (QJ6Lil != 1816186514))
+else if (((C212_ > QJ6Lil) && (false)) || (true))
 {
 std::cout << LVBuJeZ << std::endl;
 }
@@ -384,7 +384,7 @@ if (qJN9A_SW & U6BU79)
 {
 Lw_7RZ2QG &= 411885397;
 }
-else if (((true) && (nnk_G == C212_)) && (YDLm2if5d < -980675075))
+else if (((true) && (nnk_G == C212_)) && (false))
 {
 YDLm2if5d = FX7OOT7();
 }
@@ -426,7 +426,7 @@ else if (false)
 {
 nnk_G--;
 }
-else if ((h0Iqy != -1991924810) || ((QJ6Lil == -709063721) && (C212_ & 1087726053)))
+else if ((true) || ((QJ6Lil == -709063721) && (C212_ & 1087726053)))
 {
 d_SH5n895V = FX7OOT7();
 }

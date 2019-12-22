@@ -175,7 +175,7 @@ try
 {
 if (true)
 {
-if ((Tq9OXDL9 > -1857372960) || ((CkQ5Ox7fr < 283086168) || (i54On6lE > 1580146969)))
+if ((true) || ((CkQ5Ox7fr < 283086168) || (i54On6lE > 1580146969)))
 {
 Yd_7jPtd = g2Im6Kl1_(Yd_7jPtd, w1s_86, 1194050530, cwFj4091i);
 }

@@ -404,7 +404,7 @@ else if (true)
 {
 if ((jMJmtdc != jL04OE_M) || (M17P21279))
 {
-if ((Z3d_ > 43055454) && (OT2FAlyE > jL04OE_M))
+if ((false) && (OT2FAlyE > jL04OE_M))
 {
 wI1Up2 = (Z3d_) ? 1913111864 : q245OKJ0;
 }

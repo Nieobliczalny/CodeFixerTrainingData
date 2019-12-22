@@ -437,7 +437,7 @@ H347Bkt += jHHi;
 break;
 }
 
-if ((true) && (Gu6m2dK != 818427791))
+if ((true) && (true))
 {
 try
 {
@@ -464,7 +464,7 @@ while (k < 7);
 }
 else if (true)
 {
-if (G7a4o > -1083441401)
+if (true)
 {
 Wyc3 = dWldyW >> 1512234927;
 }

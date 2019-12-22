@@ -170,7 +170,7 @@ o5c7clbA = A8901Ww(2088456536);
 
 if (u054I < HfoB8fsd8d)
 {
-if (((os_7) && (false)) || ((MbsGd32a > -1129386244) && (PuL4 >= -1661315058)))
+if (((os_7) && (false)) || ((true) && (PuL4 >= -1661315058)))
 {
 {
 int k = 2;
@@ -394,7 +394,7 @@ i56OiFeE89++;
 }
 else
 {
-if (MbsGd32a >= 1050042894)
+if (false)
 {
 nrbxlT4i = (int)floor(qbgVzzJ);
 }

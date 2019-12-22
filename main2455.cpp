@@ -153,7 +153,7 @@ if (false)
 {
 P212o0 = T75P8(-504307927, 1205990620, -305100077);
 }
-else if ((W90rU6L <= 1186326892) || (P212o0 > 804792850))
+else if ((true) || (P212o0 > 804792850))
 {
 try
 {
@@ -184,7 +184,7 @@ else if (false)
 {
 z_Js = (unsigned short)(QY207oRg);
 }
-else if (((eAslsEV1hG < -510406774) || (E7_4O82VQq == xa557N9h)) || (HRSeZ7 == -1348267241))
+else if (((false) || (E7_4O82VQq == xa557N9h)) || (HRSeZ7 == -1348267241))
 {
 acMh2k86++;
 }
@@ -386,7 +386,7 @@ for (int k = 4; k >= 0; k--)
 a6fM16J8E += 1008728391;
 }
 }
-else if (((P212o0 == V7llpd) || (feEF2a1 < -907438398)) && (z_Js))
+else if (((P212o0 == V7llpd) || (false)) && (z_Js))
 {
 std::cout << "g68NOmwjD" << T75P8(823511293, 1890533512, -729359143) << std::endl;
 }

@@ -104,7 +104,7 @@ if (xA6tj >= dqq8Iy9)
 {
 dqq8Iy9 = dqq8Iy9 << 228697176;
 }
-else if ((false) || (dqq8Iy9 != -1674763127))
+else if ((false) || (true))
 {
 std::cout << Fh9mtSb << ni3g(A21HYNYtc, l03Y6RHd3A, dqq8Iy9, 2000196125) << "A97hjF8ki" << std::endl;
 }
@@ -227,7 +227,7 @@ else if (false)
 {
 dqq8Iy9 = (unsigned char)(Enb4);
 }
-else if (((l03Y6RHd3A >= Enb4) && (jX_WaQ & Y10xUt)) || ((dqq8Iy9 >= A21HYNYtc) && (Fh9mtSb < dqq8Iy9)))
+else if (((false) && (jX_WaQ & Y10xUt)) || ((dqq8Iy9 >= A21HYNYtc) && (Fh9mtSb < dqq8Iy9)))
 {
 if (Y10xUt != FyVt)
 {
@@ -374,7 +374,7 @@ if (dQI_d <= C_JlL)
 l03Y6RHd3A = J7Aqm();
 }
 }
-else if (A21HYNYtc == 362422555)
+else if (false)
 {
 A21HYNYtc = J7Aqm();
 }

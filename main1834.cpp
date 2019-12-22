@@ -166,7 +166,7 @@ if ((f8X1 & nu_S9h) && (true))
 {
 try
 {
-if (LtE1S_ > -854596025)
+if (true)
 {
 ZoJWGH = a1sW5U3 % 1397586293;
 }

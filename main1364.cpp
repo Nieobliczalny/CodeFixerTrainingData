@@ -119,7 +119,7 @@ ERkI28IsV = IMYMVLpH / fiUxsW32VU;
 
 try
 {
-if ((false) || (Q04p > 1954953123))
+if ((false) || (false))
 {
 z3_n = (double)(noBC1Bn);
 }

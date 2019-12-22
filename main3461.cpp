@@ -132,7 +132,7 @@ else if (false)
 {
 rmy5H = S41XM(-290592604, rdT6gV875, ePJi2D, -1528392034, V781X5Zue);
 }
-else if ((H9dwaHnF >= l9aa) && ((U7_L8T < 586657435) || (Ux1qPE6 != 1302169100)))
+else if ((H9dwaHnF >= l9aa) && ((U7_L8T < 586657435) || (true)))
 {
 xWAH5 = p0rG6();
 }
@@ -228,7 +228,7 @@ YWd0x97 = (int)ceil(Yr5o4k);
 }
 else if ((I4B6n0_ & -1448200928) || (rdT6gV875))
 {
-if (P500HJL7 != 682028275)
+if (true)
 {
 {
 int k = 0;

@@ -108,7 +108,7 @@ else if (uUz1zcbe5_ > hR7Uc)
 {
 try
 {
-if (zzW856T != -2018601285)
+if (true)
 {
 R64Ylo = FZYnk % LqsAHFCE;
 }
@@ -305,7 +305,7 @@ if (qL6xp118b < mv73m)
 {
 oEu_69 = NdF1_JA6();
 }
-else if ((false) || (r_ZCO4 > -1166219528))
+else if ((false) || (true))
 {
 if (r_ZCO4 >= NF3h1CsRtU)
 {

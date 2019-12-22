@@ -279,7 +279,7 @@ if (false)
 {
 g5CX &= 4422095;
 }
-else if (v4_Ej3_p7 > -1550644570)
+else if (true)
 {
 BS6Dk &= So8e6;
 }
@@ -474,7 +474,7 @@ P4795T = i72lz * F02e;
 }
 }
 }
-else if ((false) || (QX0gdi >= 188081795))
+else if ((false) || (false))
 {
 std::cout << sL1r3g3 << "rw0h" << "l5dBaHN" << std::endl;
 }

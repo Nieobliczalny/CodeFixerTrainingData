@@ -340,7 +340,7 @@ if (fNjOQ3V3_U != 121799270)
 {
 WK5R8K = (int)abs(WClb_wuW);
 }
-else if (C0DA4R1m2 == -1125689336)
+else if (false)
 {
 RgL72 = GwUDP_3();
 }

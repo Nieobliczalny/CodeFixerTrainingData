@@ -125,7 +125,7 @@ else if (((wTB39Vs0p_ != Fi6qFlh0) && (wTB39Vs0p_ < FYj0THa0)) || ((true) && (Fl
 {
 vm0P9Q6x81 = i0_QTe0gtP(518269373, vm0P9Q6x81);
 }
-else if (mtXL4ywO != VDTL9R_1eq)
+else if (true)
 {
 wTB39Vs0p_ *= 1333992920;
 }
@@ -780,7 +780,7 @@ else if (z0snCHV)
 {
 Fl9jlf8D_ &= 1016054892;
 }
-else if (((false) && (Fl9jlf8D_)) || (mtXL4ywO < 2093855488))
+else if (((false) && (Fl9jlf8D_)) || (true))
 {
 if (KCNw0_GFf0 & lA241c)
 {

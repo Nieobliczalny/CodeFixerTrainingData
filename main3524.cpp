@@ -148,7 +148,7 @@ else if (HNR4G)
 {
 Nq9i0E6KX = FfG9(A_gh, -978203032, -1588159985, kjDJ38, Qi35Wnf);
 }
-else if ((tcz_ > 540422574) || (pT8Zx > waNTlpwU8))
+else if ((false) || (pT8Zx > waNTlpwU8))
 {
 {
 int k = 4;

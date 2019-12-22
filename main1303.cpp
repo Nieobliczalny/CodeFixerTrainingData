@@ -633,7 +633,7 @@ Bxm9b = UNx8S2_2 * G0s5P0I;
 break;
 }
 }
-else if (((true) || (PEvw4B_ >= f22Sxh)) && (dEyrnP < 213738707))
+else if (((true) || (PEvw4B_ >= f22Sxh)) && (true))
 {
 cfth = (unsigned long)(XfmT);
 }

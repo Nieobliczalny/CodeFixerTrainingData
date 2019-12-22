@@ -240,7 +240,7 @@ nbMs = (int)ceil(kJUIgtyQ);
 }
 if (true)
 {
-if (P_On59lD != x86B4H1M)
+if (true)
 {
 if (((z_Ff44R == 424856727) && (LfK4 == TW0h5S1zf)) || (n3k_0f))
 {
@@ -271,7 +271,7 @@ else
 z0gc233 = NiCq & 533309839;
 }
 }
-else if (Z69p3n7w >= x86B4H1M)
+else if (false)
 {
 HB9Ukt0T %= N4xpR0qs;
 }

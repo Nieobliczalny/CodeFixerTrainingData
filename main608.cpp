@@ -216,7 +216,7 @@ else if (((false) && (o8fZ3a4 == hHrGj_tN)) || (FhGxWOAD))
 {
 PXUnH /= 993407759;
 }
-else if (IPUHQ <= 1161290832)
+else if (true)
 {
 U5Xrh2_gjD = g14l7_30(X7FpWL_);
 }
@@ -575,7 +575,7 @@ else if ((true) && ((TPx6n_1Vmm) || (n74C != 1319585145)))
 {
 jaTu = (int)ceil(xB4SRv6UyC);
 }
-else if (o8fZ3a4 != ilQzNPL)
+else if (true)
 {
 if (((J2_i != ilQzNPL) || (Cw0p <= -544419387)) || (s9yun <= E_2h2e3B))
 {

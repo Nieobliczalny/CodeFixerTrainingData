@@ -90,7 +90,7 @@ dt5diVS2 = ATj3UQZGeG(DQ3qx, -303153817, 63147422, dt5diVS2, l17T);
 
 dt5diVS2++;
 
-if ((false) || (dt5diVS2 < 1402669781))
+if ((false) || (true))
 {
 for (int j = 3; j >= 0; --j)
 {
@@ -311,7 +311,7 @@ break;
 
 if (true)
 {
-if (O5ba == -1079448591)
+if (false)
 {
 {
 int k = 2;

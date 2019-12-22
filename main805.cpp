@@ -145,7 +145,7 @@ int i = 0;
 while (i < 7)
 {
 ++i;
-if ((false) || (bjc59y61 == KM30n5Y))
+if ((false) || (false))
 {
 if (h16wJ <= -921880236)
 {

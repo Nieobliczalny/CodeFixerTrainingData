@@ -202,7 +202,7 @@ else if (false)
 {
 d1x_ = (int)ceil(eRSB);
 }
-else if ((NaMb == 1967839868) && (Y66rI0idd < 2089060432))
+else if ((false) && (Y66rI0idd < 2089060432))
 {
 Y66rI0idd = x7pbX3c7vF();
 }
@@ -493,7 +493,7 @@ i++;
 int j = 0;
 do
 {
-if ((true) && (yXuacY != -1328351391))
+if ((true) && (true))
 {
 G4j44U = (int)abs(HH9D) + (-397810747);
 }

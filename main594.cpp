@@ -381,7 +381,7 @@ else if ((Jk2ol288J >= e4spBFZ0) || (false))
 {
 HHQaI = (B7rn_StE) ? 512251822 : N0dTC_I9;
 }
-else if (GgwJPQ7 == 1030057718)
+else if (false)
 {
 KfJmooyVG6 = (int)abs(AO4t4nj);
 }
@@ -465,7 +465,7 @@ IgECw >>= a6oAP2s6;
 break;
 }
 }
-else if (Jk2ol288J == K_GPiuv)
+else if (false)
 {
 XdxL = MNp32();
 }

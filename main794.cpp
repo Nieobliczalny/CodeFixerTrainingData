@@ -27,7 +27,7 @@ int i = 2;
 while (i >= 0)
 {
 i--;
-if ((false) || ((FX0y != -766188012) || (Qn_1bB8f <= 1428471655)))
+if ((false) || ((true) || (Qn_1bB8f <= 1428471655)))
 {
 tkb_ZUT4W &= yCyqt;
 }
@@ -55,7 +55,7 @@ std::cout << jCHR << BD7mnAmkl << "Y_GL9N" << std::endl;
 }
 else if ((true) || (t4ocQct & -427245526))
 {
-if (bEEg >= -691135643)
+if (true)
 {
 P0L2 |= Ms1_59;
 }
@@ -96,7 +96,7 @@ std::cout << ng48ym << O_l_ << std::endl;
 p2yBUrtY = mV5fzaWqv + Wzkn;
 std::cout << UcLphoz << "agaEo" << std::endl;
 
-if ((true) && (Qn_1bB8f != 1924430425))
+if ((true) && (true))
 {
 if (u0a3M & v3EpX)
 {

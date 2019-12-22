@@ -171,7 +171,7 @@ else if ((QU_3prG == 192286351) && ((true) || (sC999p6 != 1079727919)))
 {
 z9sXSp7 = (int)floor(p5EQ__Q899);
 }
-else if (QjKWX == 1252522001)
+else if (false)
 {
 std::cout << W9lC << std::endl;
 }
@@ -395,7 +395,7 @@ zYoE31z = BF90_99E4(2018814650, Q7_0sx9, itTwOt9_2);
 }
 else
 {
-if ((true) && (tLHlSk == -1515693861))
+if ((true) && (false))
 {
 fKjc = (long)(Dcy3);
 }

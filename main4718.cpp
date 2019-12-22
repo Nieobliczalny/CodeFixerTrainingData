@@ -151,7 +151,7 @@ if ((EE5Bavt60 < D0Eo4oWe3) || (pTYp < 871134913))
 RGNzszlAM3 = (int)abs(AtCTfI);
 }
 }
-else if ((oMnZZNEj7Q != 1315248708) && (uRh0LH1w5 >= S6K298))
+else if ((true) && (uRh0LH1w5 >= S6K298))
 {
 for (int j = 0; j < 10; j++)
 {

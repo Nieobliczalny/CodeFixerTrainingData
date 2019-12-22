@@ -306,7 +306,7 @@ std::cout << IaxGvY2(shn6h5, WbN8, 2087875434, cxlDxsr_, XNe94ecSP2) << "Ge2vXGb
 }
 else
 {
-if ((true) && ((m5j9tEI32C == ICHkR) || (T35g3 == 1165924717)))
+if ((true) && ((m5j9tEI32C == ICHkR) || (false)))
 {
 eLl6H4 = (int)floor(B5c2);
 }
@@ -318,7 +318,7 @@ nX40dQ++;
 }
 if ((true) || ((PFh1qS9V0_ >= 1591578961) && (mCyad5n1R > -1303258249)))
 {
-if (nX40dQ >= 1503487480)
+if (false)
 {
 if (HNjkh3 & ybp3Ioe_G)
 {

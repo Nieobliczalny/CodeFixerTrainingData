@@ -194,7 +194,7 @@ while (i < 1);
 }
 if (true)
 {
-if (H4LMINXz < 679375369)
+if (true)
 {
 if ((F82aB6 != Dr7pO5) || ((zPu8 > t2_p_07) && (G3XYA == 2110361335)))
 {
@@ -208,7 +208,7 @@ else if (false)
 {
 wtIKC = (int)abs(CTd34tGS);
 }
-else if (Gx1gO3L7Z9 <= -368203682)
+else if (false)
 {
 kQKu = t2_p_07 & 566151626;
 }

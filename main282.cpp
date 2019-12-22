@@ -662,7 +662,7 @@ fB3c0Jn_ *= 862046910;
 }
 else if (((true) && (l7_uy7d > SEXg45H7i)) || ((Z5J95 != i0cb) && (AcHCOL & Od15CN)))
 {
-if (((Uv2493tM >= PhnFw6) || (tq921suO <= 1075651311)) || ((qna9eB == PhnFw6) || (BtSW != 738010296)))
+if (((false) || (tq921suO <= 1075651311)) || ((qna9eB == PhnFw6) || (BtSW != 738010296)))
 {
 l29K2x1ok <<= uTFoe_5Ji;
 }

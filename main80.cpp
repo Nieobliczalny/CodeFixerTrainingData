@@ -243,7 +243,7 @@ break;
 k6Ue = wt4Wm / mS37;
 
 Q285_5_fQu = Eo0M54E72(Q285_5_fQu, 195841987, 624916790, mS37);
-if ((false) || ((D42IK211j0 == Q285_5_fQu) && (mS37 >= 426619536)))
+if ((false) || ((D42IK211j0 == Q285_5_fQu) && (false)))
 {
 LXK_ = (unsigned short int)(TA_n83);
 }

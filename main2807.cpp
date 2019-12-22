@@ -97,7 +97,7 @@ int main(void)
 oRja0Mm = (unsigned short int)(cEO1);
 if (LU18RhnW != 341175973)
 {
-if (((Cii_lcS & 1586931567) && (true)) && (V2caoPfq1 != -192634779))
+if (((Cii_lcS & 1586931567) && (true)) && (true))
 {
 pyTRdW = (long)(oB1Dj4Jg1R);
 }
@@ -542,7 +542,7 @@ if (giwkQW_p)
 v0sr53a = oN7WD | oRja0Mm;
 }
 }
-else if (((W3eYdt387 < d56hgL) || (oN7WD <= V7TQoY2A)) && (d8O8zq64 > 797813592))
+else if (((true) || (oN7WD <= V7TQoY2A)) && (d8O8zq64 > 797813592))
 {
 try
 {
@@ -651,7 +651,7 @@ else if (((false) || (YLJxx4 != bb_eSa)) || ((Y1r8YgI) || (UABC >= 2088447937)))
 {
 cout << oRja0Mm << endl;
 }
-else if ((GGS4f589_ != 326199161) || ((Z66_C9F_Y < VoMY7p) && (F937JK > VoMY7p)))
+else if ((true) || ((Z66_C9F_Y < VoMY7p) && (F937JK > VoMY7p)))
 {
 Y_I_j1f2_ = vUB6p9 / 155096042;
 }

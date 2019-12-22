@@ -20,7 +20,7 @@ int main(int argc, char** argv) {
     char    mI07,    nHnis79r2u,    Qs0NLXIT4_,    gYdV,    Cb8i2_m1tW,    imur,    HE4Aw52,    HwyjO5y1,    a77xqnspz,    Y8AH1,    E7Xw,    Q6Lx8,    IV5sk437,    L3sc,    l7TIj,    frmQ5,    In_gq4gS_r,    JMIfgX3Iq,    pEY5lBEs,    y11q9mH55r,    xfuZJLtml,    jr3eOR,    ZIh2s_h,    gROUb9z;
         mI07    =    nHnis79r2u    =    Qs0NLXIT4_    =    gYdV    =    Cb8i2_m1tW    =    imur    =    HE4Aw52    =    HwyjO5y1    =    a77xqnspz    =    Y8AH1    =    E7Xw    =    Q6Lx8    =    IV5sk437    =    L3sc    =    l7TIj    =    frmQ5    =    In_gq4gS_r    =    JMIfgX3Iq    =    pEY5lBEs    =    y11q9mH55r    =    xfuZJLtml    =    jr3eOR    =    ZIh2s_h    =    gROUb9z    =    343855803;
 
-if ((true) && (nHnis79r2u != 854913638))
+if ((true) && (true))
 {
 std::cout << l7TIj << U5F3x8F_(323180995, 84433275) << a77xqnspz << "MKeIfiGj31" << "Egu291" << std::endl;
 }

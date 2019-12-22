@@ -129,7 +129,7 @@ else if (((FnJRYH181F > -253000538) && (v65A & 1475257445)) && (false))
 {
 N_xJPSd9q = (int)abs(jCFEoMVV);
 }
-else if ((PSADXQgwC & -598416701) || (asF8x > -898840913))
+else if ((PSADXQgwC & -598416701) || (true))
 {
 {
 int k = 2;

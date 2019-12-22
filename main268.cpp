@@ -118,7 +118,7 @@ if ((IPEts1lc2 & iNApN77Ik) && (true))
 {
 std::cout << p_9P << "Pu_4Ls49" << std::endl;
 }
-else if ((II_TZS) && ((IPEts1lc2 > -150893576) && (IPEts1lc2 < Ny2U9m8g)))
+else if ((II_TZS) && ((true) && (IPEts1lc2 < Ny2U9m8g)))
 {
 {
 int j = 0;
@@ -391,7 +391,7 @@ std::cout << B6bYq4Mx << II_TZS << Kd7Og(p_9P) << std::endl;
 
 std::cout << Kd7Og(2008842778) << o8C5hs45d(p_9P, 114799487, RD6t1oX3u, iNApN77Ik) << Kd7Og(-2130366855) << "UPzoj_o" << Kd7Og(p_9P) << std::endl;
 
-if ((YAE8v5k >= c6_x079KV) || ((true) && (p_9P <= 1206548369)))
+if ((YAE8v5k >= c6_x079KV) || ((true) && (true)))
 {
 switch (c6_x079KV)
 {
@@ -549,7 +549,7 @@ p_9P = (false) ? YAE8v5k : Kd7Og(c6_x079KV);
 break;
 }
 }
-if ((B6bYq4Mx != IPEts1lc2) || ((ZuGMU_uhz == MVF94y0s) && (p_9P >= -2110663003)))
+if ((B6bYq4Mx != IPEts1lc2) || ((ZuGMU_uhz == MVF94y0s) && (true)))
 {
 {
 int j = 9;

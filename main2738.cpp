@@ -92,7 +92,7 @@ else
 {
 try
 {
-if (((g6zra5k > -1266274201) && (J1Z_v28ZT > -807143556)) && (wERKqdgz))
+if (((true) && (J1Z_v28ZT > -807143556)) && (wERKqdgz))
 {
 CZRJASISZn = (int)floor(k04H50);
 }
@@ -224,7 +224,7 @@ else if (m3asuMP2J & I7mDEMHDU)
 {
 k04H50 = CZRJASISZn - br7xnwwmBH;
 }
-else if ((d3w5v < CZRJASISZn) || (CKXReY3r > -1084562248))
+else if ((d3w5v < CZRJASISZn) || (true))
 {
 br7xnwwmBH = sjHMn ^ J1Z_v28ZT;
 }

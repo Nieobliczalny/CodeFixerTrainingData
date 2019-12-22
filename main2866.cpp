@@ -48,7 +48,7 @@ else if (ukYPU <= Cc2Ylii4K8)
 {
 rc_5lg++;
 }
-else if (Y__enyv6gu >= -1355342717)
+else if (true)
 {
 Io16 = Io16 | 1354437673;
 }

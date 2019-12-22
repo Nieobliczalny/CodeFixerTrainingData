@@ -35,7 +35,7 @@ else if ((u5OFPdOE1 <= -1736754233) || (u5OFPdOE1 != 1794821532))
 {
 wzZ4Q62hk_ = j9n_Ii / 1197307987;
 }
-else if (wzZ4Q62hk_ > 1433986603)
+else if (false)
 {
 wzZ4Q62hk_ = ps5H | t466YMc1;
 }

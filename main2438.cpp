@@ -467,7 +467,7 @@ try
 {
 if ((false) || (DOnC7i & -1936630063))
 {
-if (FDsMbQ3 <= 825446530)
+if (true)
 {
 Yo46BS5 = zdyU() + 2046917173;
 }
@@ -571,7 +571,7 @@ break;
 }
 else if ((true) && (TGw7_ox >= D4ZHl))
 {
-if (x_scUDg == -399318733)
+if (false)
 {
 v8HbUF12H %= 781941336;
 }

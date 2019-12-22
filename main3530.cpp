@@ -367,7 +367,7 @@ else
 M1O_ = N2Ua * 766414103;
 }
 }
-else if (((HENIIuj <= pg96Im4d0s) && (Cc1I97X2Q != 779071911)) && (AOkK2_ < 1243969297))
+else if (((HENIIuj <= pg96Im4d0s) && (Cc1I97X2Q != 779071911)) && (true))
 {
 if (N_t5GL)
 {

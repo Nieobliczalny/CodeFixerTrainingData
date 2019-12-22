@@ -70,7 +70,7 @@ else
 std::cout << RBjTx8g8nn << f453UAwRS2 << RBjTx8g8nn << rv1AMye << std::endl;
 }
 
-if (DPE4jDp3 >= -324016697)
+if (true)
 {
 {
 int j = 8;
@@ -248,7 +248,7 @@ E5207fKp = (false) ? pn4w : 37464369;
 break;
 case 'c':
 case 'C':
-A_3_f40_K = (QB83dV5_G >= PR5w9l) ? -1931792039 : z796m_jsz;
+A_3_f40_K = (false) ? -1931792039 : z796m_jsz;
 break;
 case 'd':
 case 'D':

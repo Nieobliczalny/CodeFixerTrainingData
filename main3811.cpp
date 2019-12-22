@@ -48,7 +48,7 @@ int j = 0;
 while (j < 6)
 {
 j++;
-if (((q3Je_pjl3 <= -917566525) || (true)) && ((CmVkE7 > A9c_S) && (eoE6 > 220538098)))
+if (((q3Je_pjl3 <= -917566525) || (true)) && ((CmVkE7 > A9c_S) && (false)))
 {
 d6_t = (int)abs(A9c_S);
 }
@@ -216,7 +216,7 @@ Zw98Y = (int)abs(rTBJu0P2e);
 rPjm8Jx80z = (int)abs(rdVxIgHby7);
 if (true)
 {
-if ((p1NH9Oci5 == p143hOqSL) && (X0fhCo29 == -1748177274))
+if ((p1NH9Oci5 == p143hOqSL) && (false))
 {
 if (nOozpf < -818003262)
 {
@@ -264,7 +264,7 @@ else if (O09280T)
 {
 rTBJu0P2e = (char)(C78NM);
 }
-else if (LlfPKxz > 1488201943)
+else if (false)
 {
 if (p4bsqWn89C < A9c_S)
 {

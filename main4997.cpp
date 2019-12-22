@@ -310,7 +310,7 @@ if ((Wy7S_1 == 1694490636) && (false))
 {
 lx15M53WlD = VsDEkRWd(1767095701);
 }
-else if (FSQ6O8C35 <= 1295937160)
+else if (true)
 {
 if (u4vV_)
 {

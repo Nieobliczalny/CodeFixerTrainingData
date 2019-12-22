@@ -18,7 +18,7 @@ int main(void)
   Z5i19RyiA = B67xn = r7K4185_Z = eJiL = K_Uj4 = 0;
 
 TpqNR_RuM = (true) ? 2096494481 : T97780;
-if (H_R2ho < -590269458)
+if (false)
 {
 std::cout << eWWQWd << "bLgFk34iYV" << std::endl;
 }
@@ -76,7 +76,7 @@ else if (false)
 {
 TpqNR_RuM = (int)abs(jmc0);
 }
-else if (((B67xn & 1212623650) && (TpqNR_RuM > UTB0)) || (de9P27IqN >= 1073081024))
+else if (((B67xn & 1212623650) && (TpqNR_RuM > UTB0)) || (false))
 {
 K_Uj4 = Wl5F36t8();
 }
@@ -285,7 +285,7 @@ if (false)
 {
 K_Uj4 = Wl5F36t8();
 }
-else if (((lOolYbXAj <= -276116021) && (K_Uj4 == 1597205162)) || ((Wva8a3C5Y == B67xn) && (H_R2ho < T97780)))
+else if (((false) && (K_Uj4 == 1597205162)) || ((Wva8a3C5Y == B67xn) && (H_R2ho < T97780)))
 {
 H145G_K7 = k_65rReFI ^ 2137627567;
 }

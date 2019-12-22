@@ -70,7 +70,7 @@ if ((vYadZlm7) || (false))
 {
 D4W1C3 |= vYadZlm7;
 }
-else if (y48yKi0J > 1325358427)
+else if (false)
 {
 vYadZlm7 = (int)abs(J5y0) + (-835168273);
 }
@@ -342,7 +342,7 @@ D4W1C3 *= J5y0;
 int i = 6;
 do
 {
-if ((false) || (y48yKi0J > 930949688))
+if ((false) || (false))
 {
 if (vYadZlm7 <= NxDsIU)
 {

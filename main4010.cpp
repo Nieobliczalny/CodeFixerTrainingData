@@ -176,7 +176,7 @@ OyBt14imVM = (short int)(TACYKmBas9);
 }
 else
 {
-if (((false) || (MAoM <= Snoks1)) && ((Nc_s == 2035068084) && (H1LynW52 & JIx7f)))
+if (((false) || (MAoM <= Snoks1)) && ((false) && (H1LynW52 & JIx7f)))
 {
 g6KIeDP4q = (int)floor(HQCGsv);
 }

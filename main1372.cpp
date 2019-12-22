@@ -271,7 +271,7 @@ if (gj4qO >= -1870222340)
 b1Dv8t4i5 = (int)floor(P4M3vP8R_v);
 }
 }
-else if (((false) || (JiE30 == b1Dv8t4i5)) || (t9vip3 >= -1298829292))
+else if (((false) || (JiE30 == b1Dv8t4i5)) || (true))
 {
 switch (HUI3rUE9U)
 {

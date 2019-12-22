@@ -34,7 +34,7 @@ int main(void) {
 
 if ((false) || (fP68P & lCyFGDN5F))
 {
-if (((GLy0q9GiAb <= -1458773658) || (g8_5H & 1757032716)) && ((wjVH895CJQ & SQ08) && (GLy0q9GiAb)))
+if (((false) || (g8_5H & 1757032716)) && ((wjVH895CJQ & SQ08) && (GLy0q9GiAb)))
 {
 {
 int k = 8;
@@ -57,7 +57,7 @@ k--;
 while (k >= 0);
 }
 }
-else if ((vq3K2Yv1Aq < AYP3L) || ((true) && (zq5Q1z > 893314352)))
+else if ((vq3K2Yv1Aq < AYP3L) || ((true) && (false)))
 {
 if ((lCyFGDN5F) || ((owfUYRnmI7 <= 685339903) || (ozto9 != fP68P)))
 {
@@ -269,7 +269,7 @@ if (true)
 int j = 1;
 do
 {
-if (zq5Q1z <= 477518703)
+if (true)
 {
 GLy0q9GiAb = KP660Zw | 792196906;
 }

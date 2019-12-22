@@ -310,7 +310,7 @@ std::cout << lK3S9x9i99 << NOqU2e9t << fzm4w42Tr << "lw63" << J0PlbH0X7 << std::
 boquwC = (int)ceil(qWMX_P);
 a0bTg4sHb8--;
 
-if ((dxJG != yCGz) || (DhRZdBn5 != -936603054))
+if ((true) || (DhRZdBn5 != -936603054))
 {
 vp3_Ij = (short int)(K68X1de);
 }

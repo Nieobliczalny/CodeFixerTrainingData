@@ -299,7 +299,7 @@ if (false)
 {
 cDAx13s1Y = (int)abs(Op4O);
 }
-else if (gY7lO <= 317803343)
+else if (true)
 {
 bT_P6P = VwLj_Po | 210683122;
 }
@@ -387,7 +387,7 @@ else
 DS9D |= 2009463855;
 }
 }
-else if (Jj7i3iVnd >= 26572597)
+else if (false)
 {
 WqW_ = (unsigned char)(bJ62X8KXA);
 }

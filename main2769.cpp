@@ -132,7 +132,7 @@ std::cout << "ygSZ4m" << "Kt4j5b_s1z" << de1UI9T(-967569471, Cuw53dJb_6, P8KQF) 
 }
 else
 {
-if ((SA_945 == O5Y4H) && (Ek4C == v6mH5))
+if ((false) && (Ek4C == v6mH5))
 {
 EaWCo3PVO %= h308;
 }
@@ -179,7 +179,7 @@ else if (cmR9Q882i & 2032498475)
 {
 ebTs7D51 = (int)abs(THRvwK3);
 }
-else if (uqcjKe6G >= -739947672)
+else if (true)
 {
 Y_Paf3Ua = Y_Paf3Ua + 783996988;
 }

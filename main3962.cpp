@@ -438,7 +438,7 @@ j--;
 }
 }
 }
-if ((false) || (epu_ >= 1375675169))
+if ((false) || (false))
 {
 O5yhUVcL = (int)ceil(ng7R0);
 }
@@ -541,7 +541,7 @@ K0cg2Qt = rdJzedwf(K0cg2Qt, 1994202124, -1079916897);
 }
 else
 {
-if ((nkq_ArD) && ((A7Wq_D < 1074202441) || (eWk92C46B < 105629886)))
+if ((nkq_ArD) && ((true) || (eWk92C46B < 105629886)))
 {
 Eq4o79x11 = XW01uE3HSL(601625880, 1887129048, O5yhUVcL, ng7R0, 2030826471);
 }

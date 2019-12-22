@@ -357,7 +357,7 @@ else
 std::cout << z_Sq << "V9WHUa" << std::endl;
 }
 }
-else if ((W90Mxc86H0 >= 579358431) || (hZ__t38o_5 > Q9Bp5F3T6))
+else if ((false) || (hZ__t38o_5 > Q9Bp5F3T6))
 {
 std::cout << wbNiXbu << std::endl;
 }

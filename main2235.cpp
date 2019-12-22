@@ -72,7 +72,7 @@ std::cout << EZ9Nl7d4 << VI4fcq << "dj040S0" << Afs07 << std::endl;
 }
 else if (((VI4fcq) || (true)) || (EZ9Nl7d4 >= Ji74x))
 {
-if (Afs07 == -83042601)
+if (false)
 {
 bQUOOkr *= EZ9Nl7d4;
 }

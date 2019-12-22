@@ -103,7 +103,7 @@ dETkreZV3D = bmjfUCr(dETkreZV3D, IE2e, -73944146, N5_o060);
 }
 else
 {
-if ((qE9712Q_L8 < 1271291260) || ((jocbEcP9MJ > SVz93r_5U) || (qUaxFGiaI >= -1830380817)))
+if ((qE9712Q_L8 < 1271291260) || ((jocbEcP9MJ > SVz93r_5U) || (true)))
 {
 bSHQqxLT = bmjfUCr(131765427, -1793404916, -380028754, SsRvH);
 }

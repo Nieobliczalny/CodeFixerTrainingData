@@ -239,7 +239,7 @@ G03Z6p0 = XA6PEflm ^ v_gM_4;
 }
 else if (w67_ <= Q60xyz)
 {
-if ((XA6PEflm == mU8_E) && (JAncqMMN1 < -596033636))
+if ((XA6PEflm == mU8_E) && (false))
 {
 G03Z6p0 >>= 262434593;
 }

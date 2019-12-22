@@ -358,7 +358,7 @@ x64J63GV = Dk3wL_S7O3 << A5nSyP0;
 }
 }
 }
-else if ((false) || (k3Ts4JZb > Va_A))
+else if ((false) || (false))
 {
 for (int j = 0; j < 6; j++)
 {

@@ -22,7 +22,7 @@ else
 {
 F2fW = (short)(M4d8T);
 }
-if ((JZmjs3 != -1673629674) || (mImTO_LM_t != 834424484))
+if ((true) || (mImTO_LM_t != 834424484))
 {
 switch (mujZ35002)
 {

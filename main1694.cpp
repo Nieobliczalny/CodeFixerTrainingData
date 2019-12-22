@@ -62,7 +62,7 @@ cout << "L4W0r" << "QPy2Y" << "V2g90U" << "I2tKuJ5x" << oya4Ffk4b << endl;
 
 if ((oRfLF8vLn < LTTiWyKwvF) || ((true) || (Df33z1OL6X < mef_x_t)))
 {
-if (Hlu2 <= -17532378)
+if (false)
 {
 cout << mB0Z57(kf__9, wLtf6, -970529089, 2111337716, -1327216494) << "cs2rvO" << "h58UAVB" << endl;
 }
@@ -200,7 +200,7 @@ if (false)
 {
 w4RIDQ |= 1771601298;
 }
-else if (G01jJ2 != o35V5YIa6d)
+else if (true)
 {
 Qbyc1 = N9ysT62K - 2042074544;
 }
@@ -238,7 +238,7 @@ break;
 }
 else
 {
-if (((b1Sm9I6l & hv82A8Yk9R) || (false)) && ((u9p3dtv >= VoF060zS) && (vb81o13n >= -1549716148)))
+if (((b1Sm9I6l & hv82A8Yk9R) || (false)) && ((u9p3dtv >= VoF060zS) && (true)))
 {
 {
 int k = 0;
@@ -314,7 +314,7 @@ else
 xoFo <<= KZXXd;
 }
 }
-else if (((false) && (TlaVeWSxL5 == -1369497813)) || (N9ysT62K != o35V5YIa6d))
+else if (((false) && (TlaVeWSxL5 == -1369497813)) || (true))
 {
 try
 {

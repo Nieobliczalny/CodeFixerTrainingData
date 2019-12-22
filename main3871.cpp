@@ -51,7 +51,7 @@ T6Vn = (int)abs(sZCdIGng06);
 
 if ((mPlF259) && (Y9Aor4_Qh & -560507667))
 {
-if (T6Vn > Y0fq)
+if (false)
 {
 {
 int k = 10;

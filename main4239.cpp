@@ -84,7 +84,7 @@ else if (ba2I5Qy0i <= -1543679975)
 {
 Cbi4 = (char)(QUj85);
 }
-else if (((JZu1V0D6e <= 1010068614) && (Ylp7 & A3p2SVV)) || (JZu1V0D6e & abzteEE))
+else if (((true) && (Ylp7 & A3p2SVV)) || (JZu1V0D6e & abzteEE))
 {
 ba2I5Qy0i = (unsigned int)(x7GS0SN * ba2I5Qy0i);
 }
@@ -101,7 +101,7 @@ JJ93Q_W_Hl += 4270623;
 }
 else if ((Cbi4) && (true))
 {
-if (uH93Nn6 != -1180800649)
+if (true)
 {
 QUj85++;
 }

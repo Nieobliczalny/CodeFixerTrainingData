@@ -94,7 +94,7 @@ oPlRT6N = (int)floor(FfaiTj);
 }
 else if (a_Y6pe < CZ71c)
 {
-if (((FfaiTj == VlnWIvAV) || (false)) || (avEGZ09 >= 1778454374))
+if (((FfaiTj == VlnWIvAV) || (false)) || (false))
 {
 Sm3O0 = f07purs8VH(FfaiTj, B3oJq, pLR67E, 1363113469);
 }

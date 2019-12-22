@@ -269,7 +269,7 @@ if (lkJL & iBE_J)
 {
 x3QczR = (int)abs(f1d8MN22);
 }
-else if (((true) && (aGVH0pt)) || (AdXS6 != pg5D8Be2Z8))
+else if (((true) && (aGVH0pt)) || (true))
 {
 M1ezg = dTQGa & qZ35X0;
 }

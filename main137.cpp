@@ -54,7 +54,7 @@ else
 {
 ZMXOP = (int)floor(pu44Vn38m);
 }
-if ((Pq4e >= 1810899120) && (nbem2njy_ & -1635119284))
+if ((false) && (nbem2njy_ & -1635119284))
 {
 Qp958y = Qp958y * ff62dSB;
 }
@@ -71,7 +71,7 @@ if ((zGpZ9H) && (WIz1pG3 <= -411716604))
 WIz1pG3 = R99uvr_J9G * 1957834947;
 }
 }
-else if (((gh09M6OswM <= zGpZ9H) && (true)) || ((pu44Vn38m < -1062556776) || (gh09M6OswM >= -428132684)))
+else if (((gh09M6OswM <= zGpZ9H) && (true)) || ((pu44Vn38m < -1062556776) || (true)))
 {
 cout << Qp958y << endl;
 }

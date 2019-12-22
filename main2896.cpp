@@ -347,7 +347,7 @@ while (k < 3);
 }
 }
 }
-else if (((false) || (w3_8JKJpam >= -1402054237)) || (BJ56ntg < zyh_))
+else if (((false) || (w3_8JKJpam >= -1402054237)) || (true))
 {
 if (hZQ9S7dT8_)
 {

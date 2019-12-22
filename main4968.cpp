@@ -245,7 +245,7 @@ break;
 }
 else if (true)
 {
-if (Wi_r == 20619926)
+if (false)
 {
 for (int k = 0; k < 6; ++k)
 {
@@ -348,7 +348,7 @@ for (int i = 4; i >= 0; i--)
 RL6F = Xx01l72(-160394895, 360179076);
 }
 
-if (((iky36 >= yO7e) && (true)) || (efd4T_Ft6s != 963992327))
+if (((iky36 >= yO7e) && (true)) || (true))
 {
 try
 {
@@ -367,7 +367,7 @@ if ((true) && ((wf_b > pj2EIDFp5) || (pVLpr26 != F_OJC)))
 {
 for (int j = 0; j < 1; ++j)
 {
-if (yO7e <= -791808928)
+if (false)
 {
 RL6F = Xx01l72(jwNvTY, -1833524810);
 }
@@ -680,7 +680,7 @@ if (false)
 {
 m_o9H0_LN ^= 416069459;
 }
-else if (pbXDr76 <= 761215583)
+else if (true)
 {
 RL6F = Xx01l72(-1838044511, -2042146476);
 }
@@ -717,7 +717,7 @@ VtfE72ZKds = ewu0 - 716462903;
 }
 }
 }
-else if ((false) || (iky36 < 1625277131))
+else if ((false) || (true))
 {
 cout << XYm2p75tS << endl;
 }
@@ -773,7 +773,7 @@ else if ((true) && (Tue9e40))
 {
 M54sdFX4 ^= 61233504;
 }
-else if (iky36 != -1633205508)
+else if (true)
 {
 RL6F = Xx01l72(901115517, Eq0Q_Qmde3);
 }
@@ -798,7 +798,7 @@ break;
 }
 if ((Wi_r & -1792887580) && (true))
 {
-if ((m_o9H0_LN != tAPMk) && ((Tue9e40 < -1785906522) && (ms771I1_t & -578071159)))
+if ((m_o9H0_LN != tAPMk) && ((false) && (ms771I1_t & -578071159)))
 {
 switch (Ic6x5)
 {
@@ -908,7 +908,7 @@ RL6F = Xx01l72(-974967416, efd4T_Ft6s);
 }
 else if (true)
 {
-if (hQ8FpW != 528329671)
+if (true)
 {
 {
 int k = 8;
@@ -1041,7 +1041,7 @@ break;
 }
 }
 }
-if (((XYm2p75tS <= Eq0Q_Qmde3) || (true)) && (Tue9e40 != -1442489366))
+if (((XYm2p75tS <= Eq0Q_Qmde3) || (true)) && (true))
 {
 efd4T_Ft6s = pVLpr26 & 1031101592;
 }
@@ -1071,7 +1071,7 @@ else if (yO7e == jwNvTY)
 {
 jwNvTY <<= XYm2p75tS;
 }
-else if (((F_OJC <= nN12ep9) || (true)) && (iky36 >= -1135009504))
+else if (((F_OJC <= nN12ep9) || (true)) && (true))
 {
 {
 int j = 0;
@@ -1102,7 +1102,7 @@ else
 {
 hQ8FpW = (unsigned char)(Tue9e40);
 }
-if ((g4IFwrYd5p != -635987585) && (nN12ep9 >= pj2EIDFp5))
+if ((true) && (nN12ep9 >= pj2EIDFp5))
 {
 cout << pVLpr26 << "YRMB" << Xx01l72(ms771I1_t, 598569449) << M54sdFX4 << endl;
 }

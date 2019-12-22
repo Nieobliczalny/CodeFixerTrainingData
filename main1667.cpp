@@ -152,7 +152,7 @@ if (((yfS_uIU3yt != -2131150384) && (XF6trY < 419114929)) || ((cBnO == -12461050
 Lf_zWd6SH = (int)ceil(ZVCUQcQ);
 }
 }
-else if (((PcAxQ_m != -1049014296) && (W5fLE4_J8)) || ((cBnO < k5vug79iML) && (j7Zmox == 1210637529)))
+else if (((true) && (W5fLE4_J8)) || ((cBnO < k5vug79iML) && (j7Zmox == 1210637529)))
 {
 ZVCUQcQ = OW0G42(ZVCUQcQ, -99293671, 725471383, PcAxQ_m);
 }

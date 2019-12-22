@@ -145,7 +145,7 @@ try
 {
 if (true)
 {
-if (AG9M8CGP7h > wTAvdiQ)
+if (false)
 {
 q1eeND = (int)abs(m6Z94IKv);
 }

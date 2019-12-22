@@ -124,7 +124,7 @@ break;
 int i = 0;
 while (i < 1)
 {
-if ((false) || (P41e35Y == -426922409))
+if ((false) || (false))
 {
 qx8l16_FK = wp6wt60K6();
 }

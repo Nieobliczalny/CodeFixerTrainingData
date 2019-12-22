@@ -276,7 +276,7 @@ else if (false)
 {
 cout << xxRV8P9 << "i_C5f" << K_Ak9k9 << K_Ak9k9 << xxRV8P9 << endl;
 }
-else if ((xxRV8P9 >= -1838406697) && (oB22_LUQ >= xxRV8P9))
+else if ((true) && (oB22_LUQ >= xxRV8P9))
 {
 for (int j = 9; j >= 0; j--)
 {
@@ -455,7 +455,7 @@ W6HZI5 = (K_Ak9k9 <= oB22_LUQ) ? -1162583030 : kGl4IvQS47;
 }
 else
 {
-if (((xxRV8P9 >= W6HZI5) && (oB22_LUQ & -467956353)) && (K_Ak9k9 != -578845914))
+if (((xxRV8P9 >= W6HZI5) && (oB22_LUQ & -467956353)) && (true))
 {
 W6HZI5 >>= 1282239732;
 }
@@ -513,7 +513,7 @@ j--;
 }
 if (true)
 {
-if (xxRV8P9 >= 1398258546)
+if (false)
 {
 if (K_Ak9k9 != -1479170716)
 {
@@ -623,7 +623,7 @@ xxRV8P9 = (unsigned short)(W6HZI5 * xxRV8P9);
 switch (W6HZI5)
 {
 case 0:
-W6HZI5 = (oB22_LUQ >= 832794961) ? kGl4IvQS47 : xxRV8P9;
+W6HZI5 = (false) ? kGl4IvQS47 : xxRV8P9;
 break;
 case 1:
 W6HZI5 = kGl4IvQS47 / 1600256135;

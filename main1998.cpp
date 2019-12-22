@@ -192,7 +192,7 @@ N1L97r91--;
 }
 
 cout << "B0w2e" << mtoW6T95LH << endl;
-if (tmkLhK >= 1298383212)
+if (false)
 {
 shgbE_3gm = (char)(U38t7);
 }

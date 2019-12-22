@@ -174,7 +174,7 @@ if (false)
 bXa8uv6W6 = ZGSG6fh | H546twn;
 }
 }
-else if (((H546twn < 1969182003) || (O2lt52 & GQvG_)) || (CY9L7A_5c < lRT4xUS5))
+else if (((true) || (O2lt52 & GQvG_)) || (CY9L7A_5c < lRT4xUS5))
 {
 switch (ZGSG6fh)
 {
@@ -218,7 +218,7 @@ uzbzYuJV5 = DO_9x86x6(-1850640873, uzbzYuJV5, O2lt52);
 cout << DO_9x86x6(1055317116, uzbzYuJV5, O2lt52) << "l8lF1ZE8Kb" << CY9L7A_5c << uzbzYuJV5 << uzbzYuJV5 << endl;
 O2lt52 = DO_9x86x6(-877893600, -893295025, 1933197793) % uzbzYuJV5;
 
-if ((hudk != CY9L7A_5c) || (ZGSG6fh == -363309569))
+if ((hudk != CY9L7A_5c) || (false))
 {
 for (int j = 0; j < 2; j++)
 {
@@ -302,7 +302,7 @@ else if (((true) || (ZGSG6fh <= bXa8uv6W6)) || (hudk))
 {
 try
 {
-H546twn = (O2lt52 < 1165983479) ? DO_9x86x6(ZGSG6fh, 1661870378, hudk) : -1201890422;
+H546twn = (true) ? DO_9x86x6(ZGSG6fh, 1661870378, hudk) : -1201890422;
 }
 catch (int& errorCode)
 {

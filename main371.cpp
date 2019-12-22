@@ -195,7 +195,7 @@ if (false)
 {
 std::cout << M_3phc(969086864, -471313222, 762635536, 1133533083, 1105679277) << E9zt7zuCJ << std::endl;
 }
-else if (Lxg4yc03R >= 857534560)
+else if (false)
 {
 switch (puW4g35G_)
 {
@@ -461,7 +461,7 @@ puW4g35G_++;
 }
 }
 }
-else if ((s04Ltoo3 != -776479717) || (J_fX4o == -510307682))
+else if ((true) || (J_fX4o == -510307682))
 {
 try
 {

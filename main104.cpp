@@ -351,7 +351,7 @@ else if ((Rj4a1A1Q >= VrF1) || ((tjI5 >= Yt5Nc5Rh4A) && (false)))
 {
 A41jX29sNJ = JLFUb2o6(181240241, -307042932, birzHa);
 }
-else if (BopP33 >= -378762796)
+else if (true)
 {
 switch (g36U0)
 {

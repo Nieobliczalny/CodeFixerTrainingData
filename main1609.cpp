@@ -247,7 +247,7 @@ for (int j = 9; j >= 0; --j)
 ysif_OiQD = O6gdK5OXR(Qm9QUZsIX7, -906783597, -1188272398, r8GWGcYB);
 }
 }
-else if (((false) || (vjreFYT >= GJXkUL3H7)) || ((H_qL1 >= l606qbDm) && (LN2D > -512742703)))
+else if (((false) || (vjreFYT >= GJXkUL3H7)) || ((H_qL1 >= l606qbDm) && (true)))
 {
 BaR1_Z9 = (int)abs(je5g);
 }

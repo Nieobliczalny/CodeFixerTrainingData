@@ -112,7 +112,7 @@ tz_a3G_ = (int)(jabr8a + (-1534006009));
 }
 else
 {
-if (r8Wi != 34413151)
+if (true)
 {
 icpSUx0q = (int)floor(kjeE);
 }
@@ -151,7 +151,7 @@ if (U9I_0xnD & -1896813562)
 {
 kjeE = (int)ceil(icpSUx0q);
 }
-else if ((tz_a3G_) || ((true) && (mwVZP0FBN > 867802309)))
+else if ((tz_a3G_) || ((true) && (false)))
 {
 if (tz_a3G_ & 831572902)
 {

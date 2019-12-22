@@ -126,7 +126,7 @@ else if (s8QQYe5J & 684475100)
 {
 tSp9iN &= 484011009;
 }
-else if (AIum == -970598246)
+else if (false)
 {
 tAiu67 = DnK11 | ud71;
 }
@@ -225,7 +225,7 @@ if ((AjVIdd > p3C95nk1) && (kruQjWB9qc))
 {
 if (true)
 {
-if (s8QQYe5J > -2081368281)
+if (true)
 {
 DnK11 = (int)abs(iI9K_0kAcQ);
 }

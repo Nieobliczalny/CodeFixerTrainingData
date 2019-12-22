@@ -150,7 +150,7 @@ X9V23aXq--;
 }
 else if (sg6a_eX & nsk3FG3vvh)
 {
-D1wa6 = (UPhwkCMtm >= 1655427368) ? YpUjQGV071 : Ln305epl;
+D1wa6 = (false) ? YpUjQGV071 : Ln305epl;
 }
 else
 {
@@ -225,7 +225,7 @@ while (i < 7)
 i++;
 if (true)
 {
-if (YpUjQGV071 == 889211151)
+if (false)
 {
 W8GW7 = q186B + V93A3MK5D;
 }

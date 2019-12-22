@@ -121,7 +121,7 @@ else if (LmQsCt7Tg >= F2Pdz5I)
 {
 NnwS = (false) ? -470232734 : KSOUf_sYy;
 }
-else if (((dG56e1Tz > G73XH8) || (VwAw3 <= 998660317)) || (b0AfA1aw > 1440361509))
+else if (((dG56e1Tz > G73XH8) || (VwAw3 <= 998660317)) || (false))
 {
 F2Pdz5I = e8RlgFx47s(G73XH8, VwAw3, -1464603993);
 }

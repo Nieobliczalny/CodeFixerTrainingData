@@ -433,7 +433,7 @@ while (i >= 0)
 {
 if (((true) && (C042HeN & 889652727)) && ((aw6QnqQ <= il9aiuAOh_) && (DW86 > kqXk7_)))
 {
-if (((Fq7p12b6J & oSEMY0h8N) || (il9aiuAOh_ & DW86)) && ((paVJ != YGDL86) && (aw6QnqQ == -890139907)))
+if (((Fq7p12b6J & oSEMY0h8N) || (il9aiuAOh_ & DW86)) && ((paVJ != YGDL86) && (false)))
 {
 TdMm4rHmE7 -= 2021838378;
 }

@@ -157,7 +157,7 @@ v4JV39P42U = XA9KESP - 701851999;
 }
 for (int i = 6; i >= 0; i--)
 {
-if ((true) && ((L_Tcz4t >= 404902568) || (bty5 > D5BlXq5K)))
+if ((true) && ((false) || (bty5 > D5BlXq5K)))
 {
 switch (lrq2e71)
 {
@@ -277,7 +277,7 @@ TY5dDEBl = miw5Wrzy7(RKGX, ZcRS7LO_, pL926aDez0, lJ4L12S2_3);
 while (j < 7);
 }
 }
-else if (((RKGX < D5BlXq5K) && (vzuk > D5BlXq5K)) && (y8bTZ == Y_a1bjmn))
+else if (((RKGX < D5BlXq5K) && (vzuk > D5BlXq5K)) && (false))
 {
 try
 {

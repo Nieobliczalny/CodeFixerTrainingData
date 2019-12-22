@@ -420,7 +420,7 @@ else if ((J6jf < H4FuN) || (Bz8iCFd > 1321204401))
 {
 CbDvkD2 = (int)abs(UtVclJ);
 }
-else if ((true) && (TYI3o2M0 < -55300251))
+else if ((true) && (false))
 {
 b559H9dR37 = (int)floor(Xh2S);
 }
@@ -455,7 +455,7 @@ Yvy9 = (int)ceil(Jis6FV);
 }
 else if (pPpUw9 != 2116426422)
 {
-if ((false) || ((SgV8w <= 251706345) || (ld7Z_ & -1169981004)))
+if ((false) || ((true) || (ld7Z_ & -1169981004)))
 {
 for (int k = 10; k >= 0; --k)
 {

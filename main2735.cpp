@@ -379,7 +379,7 @@ else if ((SwVU29 == A53fPl3ufM) && (ZjhQW <= v5Su5TS7gP))
 {
 ZjhQW = (int)abs(tO5085bokp);
 }
-else if (zQ34 != 743800004)
+else if (true)
 {
 f_O5xHDV--;
 }
@@ -413,7 +413,7 @@ if (pf85_4w >= kQXt)
 {
 yR9e = Ss1a9PZf_J(IBnB07Wb42, M9j3uJl58, 1947734507);
 }
-else if (WJWd1 <= 402568347)
+else if (true)
 {
 v5Su5TS7gP = p7bhQJ();
 }

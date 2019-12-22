@@ -59,7 +59,7 @@ else if (((w0UmTW == c0t3aBL9jJ) && (true)) && (QA5u))
 {
 cout << R8a8BJYYGB << R_0X4MY7(R8a8BJYYGB, Hg1Y_3) << hOZpeT() << endl;
 }
-else if (GKB_H55stF != 1280841970)
+else if (true)
 {
 for (int k = 8; k >= 0; k--)
 {
@@ -70,7 +70,7 @@ else if ((true) && (JaGI > F4_v0HQa))
 {
 QA5u = R_0X4MY7(F0Ro8, bW5uDM3J4);
 }
-else if ((H4gCCnuZu == QA5u) && (d56T >= 1922457110))
+else if ((H4gCCnuZu == QA5u) && (false))
 {
 Iht2 = (int)abs(H4gCCnuZu);
 }
@@ -405,7 +405,7 @@ if ((F4_v0HQa <= vyfG2H1mu) && (false))
 bW5uDM3J4 = (unsigned short int)(F1k7l21);
 }
 }
-if (DTLIn < -91449207)
+if (false)
 {
 for (int j = 9; j >= 0; --j)
 {

@@ -62,7 +62,7 @@ mpcmDJY33 = G19TuNw(mpcmDJY33, -696859202);
 }
 if (true)
 {
-if ((dgQhE) || ((Tl9L0 >= 1871523518) || (hGP0)))
+if ((dgQhE) || ((false) || (hGP0)))
 {
 SeisE80t = (unsigned short int)(NTc6s);
 }
@@ -401,7 +401,7 @@ else
 {
 mpcmDJY33 = IXwx_hW();
 }
-if ((gsDuY54 > -1857867668) || (H_885d & W76_gH5))
+if ((true) || (H_885d & W76_gH5))
 {
 A4Ik5Ft8q = (unsigned short int)(IbHXHb_);
 }

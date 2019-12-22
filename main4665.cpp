@@ -166,7 +166,7 @@ H528G_EGV = lu9_Akm(Ksx2T0, U4Y2v3);
 while (k < 6);
 }
 }
-else if ((false) || (u6GdBiw7 == 766421546))
+else if ((false) || (false))
 {
 U5LE80_y3 = lu9_Akm(1246530876, O7Jv543_j);
 }
@@ -454,7 +454,7 @@ if ((uqd_P != -13274788) && (true))
 {
 cM3N = (int)ceil(bdYVJ);
 }
-else if (r1XQJCg2Q != -2046756521)
+else if (true)
 {
 {
 int j = 5;

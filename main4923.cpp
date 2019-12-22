@@ -47,7 +47,7 @@ if ((false) || (EWK6_T36o))
 {
 GZWH756 -= 1570511730;
 }
-else if (W1o_QJ0 < 1171719764)
+else if (true)
 {
 {
 int j = 0;
@@ -467,7 +467,7 @@ else
 r8s0_ = qcAFKd7T1C + Yd7Qn;
 }
 }
-else if (r8s0_ < 900771727)
+else if (true)
 {
 cout << GZWH756 << XoY5a228 << endl;
 }

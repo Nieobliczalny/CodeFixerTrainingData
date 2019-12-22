@@ -169,7 +169,7 @@ while (i >= 0);
 }
 
 cout << RoK1 << endl;
-if ((true) && ((qt374Dh != -1383321134) && (UK3BX17 & qN60t)))
+if ((true) && ((true) && (UK3BX17 & qN60t)))
 {
 for (int j = 9; j >= 0; j--)
 {
@@ -346,7 +346,7 @@ if ((false) && (RoK1 != -1161379254))
 {
 W9LpWA7t1 = (unsigned short int)(II1B3huVs + (834415134));
 }
-u7W4V = (u75Q04xU == 793592833) ? 1584924971 : W9LpWA7t1;
+u7W4V = (false) ? 1584924971 : W9LpWA7t1;
 if (o1c76oIo <= W9LpWA7t1)
 {
 cout << "TG5iRS" << M0i79 << TndqbJq << QKSUn_A << qN60t << endl;
@@ -359,7 +359,7 @@ if ((true) && (uKs9uQXAdL > EIMUKO))
 {
 TndqbJq ^= D3bs4_f7;
 }
-else if (sbL9 >= -117551521)
+else if (true)
 {
 xwVTAE0Z *= KrX4nVv5g1;
 }

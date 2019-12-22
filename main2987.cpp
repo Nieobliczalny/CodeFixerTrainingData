@@ -272,7 +272,7 @@ else if (g28HLFvB3 & L56LW)
 {
 R6_87t0e5 *= 932328649;
 }
-else if (ec021pvP > rnbj)
+else if (true)
 {
 le_5 = (int)ceil(n8Fg);
 }
@@ -380,7 +380,7 @@ B0vAK++;
 }
 else
 {
-if (((R6_87t0e5 < 1847188457) && (true)) || ((r5rrZ_2 >= H2kxqr6) && (fx2_D11 >= -989106123)))
+if (((R6_87t0e5 < 1847188457) && (true)) || ((r5rrZ_2 >= H2kxqr6) && (true)))
 {
 Y_Y16 >>= 1150819078;
 }

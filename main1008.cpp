@@ -296,7 +296,7 @@ else if ((tEF624) || ((false) && (rEil3 != 1342537121)))
 {
 pe453Xx3c7 &= EVJHJ27HuG;
 }
-else if (u9iA89w027 < 1342930431)
+else if (true)
 {
 for (int k = 0; k < 6; k++)
 {

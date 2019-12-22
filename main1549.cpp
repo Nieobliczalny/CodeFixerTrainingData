@@ -373,7 +373,7 @@ nh_k = BOIMm_vQEv << 2042031386;
 }
 }
 }
-else if ((Ta_R_ZM9oS < ZST7_7sGI) && (LRgD != u3O3l))
+else if ((false) && (LRgD != u3O3l))
 {
 try
 {

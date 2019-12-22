@@ -293,7 +293,7 @@ if ((true) && ((i4UV) && (KkfQ9Vt)))
 {
 E12eJ8 = i4UV << uLG3DHz2c4;
 }
-else if (RmX6 > -320335811)
+else if (true)
 {
 YbQu = S3p2o6(912931440, -828822640, 1941291838);
 }
@@ -331,7 +331,7 @@ J4756 = RmX6 | 70429487;
 }
 else if ((Lla6K6 >= -484498176) || (true))
 {
-if (ch77g1mE >= -973855211)
+if (true)
 {
 uLG3DHz2c4 = (int)abs(nPtpPaGu);
 }

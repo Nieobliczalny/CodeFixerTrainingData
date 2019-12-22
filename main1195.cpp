@@ -225,7 +225,7 @@ HmAD <<= 1528188024;
 }
 else if ((true) && (vtfm955h < 1293415350))
 {
-if ((CwL62QwVjt) && ((f5q3 > n4t2Y) || (C78ZRyP3 >= 850725845)))
+if ((CwL62QwVjt) && ((f5q3 > n4t2Y) || (false)))
 {
 VBEs4W_WkK >>= pwK4uGByF9;
 }

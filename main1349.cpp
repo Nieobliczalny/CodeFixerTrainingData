@@ -109,7 +109,7 @@ else
 ucu_FFGy = (int)floor(Wtv__Cq_);
 }
 }
-else if ((q_nn <= -1900361464) && ((b300qxmj26 > -1813753681) && (SM061_AiCT <= Rw9qL)))
+else if ((false) && ((b300qxmj26 > -1813753681) && (SM061_AiCT <= Rw9qL)))
 {
 if (((true) || (bk6iIUUkp2 <= -37020796)) || ((ucu_FFGy < 969119596) && (Rw9qL < -317249496)))
 {
@@ -344,7 +344,7 @@ else
 {
 if (r0abPCHQu3 != 1136656351)
 {
-if (zZr2WrwE < -1236151893)
+if (false)
 {
 b300qxmj26--;
 }

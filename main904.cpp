@@ -383,7 +383,7 @@ else if (false)
 {
 T44fJ06LIH = I059C9(T44fJ06LIH, tKe7);
 }
-else if (ik_4Fu_67 != 440913449)
+else if (true)
 {
 if ((AIbwr_C <= 1456552275) || ((RxjuoU516g <= -883535918) && (Q67KK54p == 436577060)))
 {
@@ -567,7 +567,7 @@ h_Fecqo98c = (short int)(M1mg13);
 }
 else if ((true) && (Fw2X5x <= 1451623328))
 {
-if ((iO33 == 265842333) && (RxjuoU516g >= 136291130))
+if ((iO33 == 265842333) && (false))
 {
 A45NTWT4RH = (long double)(Q5CW);
 }

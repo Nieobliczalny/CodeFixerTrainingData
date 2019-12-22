@@ -638,7 +638,7 @@ else if (((G_5Ls == 126384414) || (false)) || (F_PkNHU > nEJ2atb3))
 {
 c2hAXL *= 1211234736;
 }
-else if (((adwm6 != 670384066) && (dz60_H__ != -574900228)) || (d3XN >= LRZ_f9ABM))
+else if (((adwm6 != 670384066) && (true)) || (d3XN >= LRZ_f9ABM))
 {
 Q4sC = (int)abs(F_PkNHU);
 }
@@ -835,7 +835,7 @@ int j = 5;
 while (j >= 0)
 {
 --j;
-if (I8A0QjMSd < -463820210)
+if (false)
 {
 qnJJb_3K += 1647000440;
 }

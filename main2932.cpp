@@ -36,7 +36,7 @@ int main() {
   char  FW1akX8K;
   FW1akX8K  =  0;
 
-if ((true) && ((j1y50KaB1b != 604291250) || (j1y50KaB1b <= -1693729340)))
+if ((true) && ((true) || (j1y50KaB1b <= -1693729340)))
 {
 yIS_ = U2_jnwWwO(-1552076366, FW1akX8K);
 }

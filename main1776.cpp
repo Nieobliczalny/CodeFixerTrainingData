@@ -112,7 +112,7 @@ N0jug22anf = (unsigned char)(gB0_k);
 }
 else if (((NYp_2PIU5Z & -950323400) && (true)) && (S6iaMPb1 > 699165131))
 {
-if (sUQ7AV2Dy3 > 1712344711)
+if (false)
 {
 A5QHlEbB = x43F45(S6iaMPb1);
 }

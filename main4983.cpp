@@ -320,7 +320,7 @@ J_5zKI = dsAQm(650466393);
 }
 while (i >= 0);
 }
-if ((Vg78VKoiH > -577090170) && (w0SV5 > -2065059303))
+if ((true) && (w0SV5 > -2065059303))
 {
 if (J_5zKI <= UFQez)
 {

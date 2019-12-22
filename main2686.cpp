@@ -181,7 +181,7 @@ vk2S7 <<= 1304079869;
 }
 }
 }
-else if ((n_Z_ <= -1310993154) && (hU4l46N9s < VkGRKA5M8))
+else if ((false) && (hU4l46N9s < VkGRKA5M8))
 {
 E8uvb = (int)abs(B3rA);
 }

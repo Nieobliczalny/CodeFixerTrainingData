@@ -256,7 +256,7 @@ else if (false)
 {
 x5w8N = a2730DOQ_H(x5w8N, g_758761A3, 371240682, -390311885);
 }
-else if (kW62GNzD > 2121855712)
+else if (false)
 {
 switch (p1tlS93xBL)
 {

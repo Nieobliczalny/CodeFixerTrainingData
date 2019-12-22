@@ -281,7 +281,7 @@ Uih0n++;
 }
 else
 {
-if ((zjbh3JaZ6 < 1595619867) || (xvWmxe8C1))
+if ((true) || (xvWmxe8C1))
 {
 if (((Wcgu < 1360808598) && (Ux4iG1KyVN == 765865987)) || (I12y_ < 2134243003))
 {

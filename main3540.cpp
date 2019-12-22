@@ -277,7 +277,7 @@ else if (((nZg6jx < jCtp) || (MC4AN2 < bZdBT0_)) && (true))
 {
 Ti9Wz = (int)floor(hHdbLE9);
 }
-else if (((XFCuGKdt_s == o3PT608) && (r9G3_s_k_g < 668183585)) && (mq27ke1 >= kaXHo5J68u))
+else if (((XFCuGKdt_s == o3PT608) && (true)) && (mq27ke1 >= kaXHo5J68u))
 {
 std::cout << zp02J_k(Tq0_m81, 1031541947, m1i7) << std::endl;
 }

@@ -283,7 +283,7 @@ cjRn1 = cjRn1 ^ 1207895678;
 while (k < 10);
 }
 }
-else if (((Br5ZY > MO7q5) && (false)) || (joP9C_8G_7 >= -1524224097))
+else if (((Br5ZY > MO7q5) && (false)) || (true))
 {
 cout << "GZwIq6Hu" << Br5ZY << joP9C_8G_7 << slCuNT << endl;
 }

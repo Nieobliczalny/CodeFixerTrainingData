@@ -212,7 +212,7 @@ j_5OM05 = (double)(PNV21);
 }
 else
 {
-if (KKZ66N > -1922957402)
+if (true)
 {
 Ki_B = x8V9 + 450937155;
 }
@@ -493,7 +493,7 @@ catch (int& errorCode)
 j_5OM05 = (int)ceil(f91Iv30);
 }
 }
-if (((true) || (xmLYvJFV < OAgdyPyCPF)) && ((SzF5465 <= mahK) && (z_2Ag <= OAgdyPyCPF)))
+if (((true) || (true)) && ((SzF5465 <= mahK) && (z_2Ag <= OAgdyPyCPF)))
 {
 try
 {

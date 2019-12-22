@@ -140,7 +140,7 @@ std::cout << iG36 << Ln8__j << SjFR4Yvcl << Ln8__j << p42t6pvxDF << std::endl;
 }
 else
 {
-if (oE57 >= 2108310608)
+if (false)
 {
 DXzy <<= 1319373730;
 }
@@ -384,7 +384,7 @@ if (false)
 {
 R08iwBm = (int)ceil(uT7prD);
 }
-else if ((m_XXwXF87U < Dej3_G2) && (x__Uwa212J >= -1121931780))
+else if ((m_XXwXF87U < Dej3_G2) && (true))
 {
 pY8BKVR = GeZb >> cDFnL;
 }

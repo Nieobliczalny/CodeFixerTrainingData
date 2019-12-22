@@ -597,7 +597,7 @@ Vgn6I3b = (int)ceil(BR0M13);
 J948ZRo2 = h5_4Pa / BR0M13;
 if (true)
 {
-ib1Y_ = (p_nzFn7 < 240447730) ? g57G4oRX2 : h_MeFk;
+ib1Y_ = (true) ? g57G4oRX2 : h_MeFk;
 }
 {
 int i = 0;

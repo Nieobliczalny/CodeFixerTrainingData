@@ -83,7 +83,7 @@ if (((OyyXFra5tg >= e4z5W_T) || (nAUzat1HX4 & wKoK2gE42G)) && (y2JVC != h52LYg9z
 {
 V0VT /= 841729454;
 }
-else if ((false) || ((HL4O > wKoK2gE42G) && (FY5XC < 1426226723)))
+else if ((false) || ((HL4O > wKoK2gE42G) && (true)))
 {
 xwH65 = PHYsG__ >> AiDHC;
 }

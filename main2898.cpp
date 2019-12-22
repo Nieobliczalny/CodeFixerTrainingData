@@ -88,7 +88,7 @@ int main(void) {
 
 if (((true) || (F_h2MX >= HwsNw)) || (Gkp937 != -1333787791))
 {
-if (x_JPOfC_y6 < 1754496921)
+if (true)
 {
 {
 int k = 8;
@@ -131,7 +131,7 @@ Gkp937 = k2tTqG6W41(-1557901870, 659839180);
 
 if ((true) || (FBTACP))
 {
-if (((Gkp937 <= -130027673) && (Gkp937 != az26)) || ((YqvLC3jISj) || (fW449 >= 1741635276)))
+if (((false) && (Gkp937 != az26)) || ((YqvLC3jISj) || (fW449 >= 1741635276)))
 {
 cSSCu69 = (unsigned char)(MS8D);
 }

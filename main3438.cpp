@@ -288,7 +288,7 @@ ZqIIrml = Qu_0zh_cpb();
 }
 else if (((true) || (bK73uznKL != 1708033190)) || (Jczn != ocn31))
 {
-if (WURkUy93Km < -1462284493)
+if (false)
 {
 switch (pmbIrurq)
 {

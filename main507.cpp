@@ -100,7 +100,7 @@ if ((k63nu) && (true))
 {
 try
 {
-if (rXKC30 == -83997397)
+if (false)
 {
 ljljxa67 = (int)abs(N432A);
 }

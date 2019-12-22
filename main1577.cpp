@@ -119,7 +119,7 @@ if (((false) || (ImXs != T_2Re6)) || (Ps1QRj))
 int j = 2;
 while (j >= 0)
 {
-if ((o6Y9___3OI <= -744222600) && (HziUPl))
+if ((false) && (HziUPl))
 {
 uR95q19 = ImXs / 1356019312;
 }
@@ -135,7 +135,7 @@ else if (uR95q19 >= ImXs)
 {
 ImXs = try4Lj << Ps1QRj;
 }
-else if ((sgy7062 <= 1158087483) || ((l_4_ & -1430118196) && (try4Lj >= N3C5kDr3)))
+else if ((true) || ((l_4_ & -1430118196) && (try4Lj >= N3C5kDr3)))
 {
 sgy7062 |= 1180180677;
 }
@@ -151,7 +151,7 @@ NIeT1 = um4wmKlzT | 1829850419;
 }
 }
 }
-else if ((true) && (um4wmKlzT > -364667841))
+else if ((true) && (true))
 {
 if (um4wmKlzT != e8029)
 {
@@ -207,7 +207,7 @@ for (int k = 0; k < 2; k++)
 uR95q19 = erFLc << NOPj7zNG5;
 }
 }
-else if (((um4wmKlzT != 598229952) && (erFLc)) || ((NOPj7zNG5 <= -601050262) && (l_4_ > -1413905295)))
+else if (((true) && (erFLc)) || ((NOPj7zNG5 <= -601050262) && (l_4_ > -1413905295)))
 {
 try
 {

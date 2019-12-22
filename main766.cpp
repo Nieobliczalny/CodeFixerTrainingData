@@ -109,7 +109,7 @@ mUZ2VJr5L8 = (int)abs(Eq815);
 }
 }
 }
-else if ((M9X_W4Ms >= 1471371649) && ((i6_9qt < Fgd1) && (Xg8JzU9s >= -1669855427)))
+else if ((M9X_W4Ms >= 1471371649) && ((i6_9qt < Fgd1) && (true)))
 {
 YyOz = (int)(ZC42V);
 }
@@ -292,7 +292,7 @@ if (false)
 {
 y23R4 = (int)ceil(mUZ2VJr5L8);
 }
-else if (((ZC42V > 315048279) || (Eq815 != Fgd1)) || ((ciZcgXHXJX <= 1295795132) && (KpOI4 < 927725211)))
+else if (((false) || (Eq815 != Fgd1)) || ((ciZcgXHXJX <= 1295795132) && (KpOI4 < 927725211)))
 {
 {
 int k = 0;

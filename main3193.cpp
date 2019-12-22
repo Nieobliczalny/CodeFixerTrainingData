@@ -49,7 +49,7 @@ if ((true) && (O2jH_4 & d2MJ_78mv))
 {
 d2MJ_78mv %= 39982052;
 }
-else if ((d2MJ_78mv <= O2jH_4) && ((O2jH_4 >= d2MJ_78mv) && (d2MJ_78mv < 96789280)))
+else if ((d2MJ_78mv <= O2jH_4) && ((O2jH_4 >= d2MJ_78mv) && (true)))
 {
 O2jH_4 = aj1_Md9(595891491);
 }
@@ -169,7 +169,7 @@ else
 d2MJ_78mv = d2MJ_78mv >> 1558257326;
 }
 }
-else if (((false) || (O2jH_4 >= -260766509)) || ((O2jH_4 == d2MJ_78mv) && (d2MJ_78mv >= O2jH_4)))
+else if (((false) || (true)) || ((O2jH_4 == d2MJ_78mv) && (d2MJ_78mv >= O2jH_4)))
 {
 for (int j = 8; j >= 0; --j)
 {

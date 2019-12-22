@@ -98,7 +98,7 @@ if (false)
 {
 cout << "o8i_M" << HYtp << endl;
 }
-else if ((Is2nqlxQ <= deEKM) || ((YQ92GOL > deEKM) && (YzJ2 >= -350329963)))
+else if ((Is2nqlxQ <= deEKM) || ((YQ92GOL > deEKM) && (true)))
 {
 switch (YQ92GOL)
 {

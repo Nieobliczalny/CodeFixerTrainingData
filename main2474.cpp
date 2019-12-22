@@ -326,7 +326,7 @@ else if ((MtbXcni02 & -29402302) && (FI_du7 <= 884321708))
 {
 X_igEQ3d = (unsigned int)(BAO56Rpcc);
 }
-else if ((LyY5P_lk != BDe795zxX2) && ((true) && (NBixFz != jdHydtdeY_)))
+else if ((LyY5P_lk != BDe795zxX2) && ((true) && (true)))
 {
 if (LJbgs889 < 34867403)
 {

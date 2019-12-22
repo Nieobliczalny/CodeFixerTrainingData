@@ -209,7 +209,7 @@ while (i < 4);
 }
 if (zDD43z956 & B7650AW)
 {
-if (((false) && (S__tUD7Tdi <= JbucDdl)) || ((S__tUD7Tdi >= B7650AW) && (T1N2R_ >= -2126706469)))
+if (((false) && (S__tUD7Tdi <= JbucDdl)) || ((false) && (T1N2R_ >= -2126706469)))
 {
 {
 int k = 0;

@@ -328,7 +328,7 @@ else if (((false) || (bAl_43EJ)) && ((bAl_43EJ != Vr4U67zc) && (Syi8 & 117989983
 {
 FWN75PB = A017zi4a() / 384354642;
 }
-else if (ODsn > -336962035)
+else if (true)
 {
 switch (L73m)
 {

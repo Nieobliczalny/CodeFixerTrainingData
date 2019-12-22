@@ -278,7 +278,7 @@ else
 {
 if ((false) || (tlzZ))
 {
-if (a4h_U <= 885855884)
+if (true)
 {
 Rp7Bml_La_ = hCX2oD_U4(602182662, 1343741767);
 }
@@ -352,7 +352,7 @@ dfut4_qJdx = (short)(KDanxg);
 }
 else
 {
-if (Zj00O != -1420563140)
+if (true)
 {
 nhO_a = HXU56L_yN(JG_VnXG, tlzZ, 1490249786, AeAbY_9K8F, lE8_w01);
 }

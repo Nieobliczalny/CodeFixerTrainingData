@@ -284,7 +284,7 @@ else if (DzC_G_89 > c2xp1c)
 {
 vHjrZ = (unsigned long)(tU6ux_);
 }
-else if ((false) || ((m5_Y != c2xp1c) || (d3t_J9vAt <= -1004988939)))
+else if ((false) || ((true) || (d3t_J9vAt <= -1004988939)))
 {
 switch (thXC)
 {
@@ -405,7 +405,7 @@ if ((S0I6gTlh1 <= Qnn6C) && (true))
 int j = 5;
 do
 {
-if (((P5ZGPc21Y >= 347688170) && (vDP0L7u1o0 != tHB9SLF)) && ((xfU7njSW7_ >= c2xp1c) && (xfU7njSW7_)))
+if (((P5ZGPc21Y >= 347688170) && (vDP0L7u1o0 != tHB9SLF)) && ((false) && (xfU7njSW7_)))
 {
 mST6Dus5 = (int)ceil(vDP0L7u1o0);
 }

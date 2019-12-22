@@ -180,7 +180,7 @@ if ((zu9l_5t6) && (false))
 zu9l_5t6 = (unsigned long long)(zkzo * zu9l_5t6);
 }
 }
-else if (Z2d3aw < -902813722)
+else if (false)
 {
 DjS4xz55u = h7kck % gh70;
 }

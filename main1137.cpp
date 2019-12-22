@@ -88,7 +88,7 @@ break;
 }
 else
 {
-if ((false) || (c5l3rJ6BZ < 238516030))
+if ((false) || (true))
 {
 w73E -= 2064377198;
 }
@@ -107,7 +107,7 @@ else
 w73E *= 1665849373;
 }
 }
-else if (o1NX >= 566039819)
+else if (false)
 {
 {
 int k = 10;
@@ -183,7 +183,7 @@ w73E = SUUJXO4 / Wl_vX;
 }
 else
 {
-if (((o1NX == -1108321875) && (c5l3rJ6BZ & 112189204)) || (Wl_vX & -216830497))
+if (((false) && (c5l3rJ6BZ & 112189204)) || (Wl_vX & -216830497))
 {
 w73E = Wl_vX % 73489491;
 }

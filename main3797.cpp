@@ -77,7 +77,7 @@ while (i >= 0)
 {
 if ((Ojzivo & E496i1) || (true))
 {
-if (GbkV == 1686891895)
+if (false)
 {
 Nd7Vk71MR = (eTJa < -157355107) ? -149738643 : -1097789361;
 }
@@ -160,7 +160,7 @@ else
 {
 if ((true) || (hEUl != E496i1))
 {
-if (BTDeXi == 194069256)
+if (false)
 {
 e1DDbTEoDP = nV_DIpq();
 }

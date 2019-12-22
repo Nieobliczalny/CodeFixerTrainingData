@@ -307,7 +307,7 @@ else if ((false) || ((h_08 < tVhw6) || (f32WVC >= -539357430)))
 {
 rY8m = (int)floor(cTRb8x);
 }
-else if (av5390miYx > gIAY38P)
+else if (true)
 {
 rY8m = (int)abs(D0X1oic) + (-1548880783);
 }

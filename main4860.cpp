@@ -79,7 +79,7 @@ VV61Y5w = ZMrYm2NdW(-1995201210);
 }
 }
 }
-else if (((true) || (VqIbzr >= 1877454049)) && (deY72Tz != -1550825861))
+else if (((true) || (VqIbzr >= 1877454049)) && (true))
 {
 if (JJ88 > 1589952735)
 {
@@ -127,7 +127,7 @@ else if (false)
 {
 JJ88 -= VqIbzr;
 }
-else if ((JJ88) || ((sDk2c != 2085069730) && (Ji1a >= deY72Tz)))
+else if ((JJ88) || ((true) && (Ji1a >= deY72Tz)))
 {
 VV61Y5w = rdhETR7oHS();
 }
@@ -155,7 +155,7 @@ if (false)
 {
 deY72Tz = w8g0Z(sDk2c, JJ88, yg1blp) ^ JJ88;
 }
-else if (((deY72Tz < 1656889215) || (JX5Qm5L != 691403576)) && ((Ji1a != -871121387) && (sDk2c <= -1440952529)))
+else if (((true) || (JX5Qm5L != 691403576)) && ((Ji1a != -871121387) && (sDk2c <= -1440952529)))
 {
 VqIbzr = ZMrYm2NdW(sDk2c);
 }
@@ -280,7 +280,7 @@ VqIbzr = Ji1a & 1324689447;
 int i = 0;
 do
 {
-if (((deY72Tz) && (VV61Y5w <= -1725954022)) && (deY72Tz <= VV61Y5w))
+if (((deY72Tz) && (false)) && (deY72Tz <= VV61Y5w))
 {
 VV61Y5w = (unsigned short)(yf_gh + (-1217777115));
 }
@@ -591,7 +591,7 @@ while (j < 3);
 }
 else if ((true) || (deY72Tz >= 137517608))
 {
-if (yf_gh == -1021807098)
+if (false)
 {
 try
 {
@@ -739,7 +739,7 @@ if (yg1blp)
 {
 VqIbzr = w8g0Z(eqZ4H, 1063983800, Ji1a);
 }
-else if (sDk2c == 408211711)
+else if (false)
 {
 VqIbzr = w8g0Z(1817908170, VqIbzr, VV61Y5w);
 }
@@ -752,7 +752,7 @@ else
 JJ88 = Dop1ya(eqZ4H, -2073191960, -128108345, 426257717, Ji1a);
 }
 }
-else if (((true) && (sDk2c)) && ((yg1blp < 61445086) && (JJ88 != 189502304)))
+else if (((true) && (sDk2c)) && ((true) && (JJ88 != 189502304)))
 {
 if (VV61Y5w == deY72Tz)
 {
@@ -871,7 +871,7 @@ deY72Tz = VV61Y5w * deY72Tz;
 }
 if ((deY72Tz <= eqZ4H) || ((true) || (VV61Y5w >= -439250324)))
 {
-if ((JJ88) || ((JJ88 >= 1027825882) && (JJ88 & -342080994)))
+if ((JJ88) || ((false) && (JJ88 & -342080994)))
 {
 switch (VqIbzr)
 {
@@ -897,7 +897,7 @@ else if (yf_gh == deY72Tz)
 {
 JX5Qm5L = (unsigned short)(VqIbzr);
 }
-else if ((false) || (yg1blp != 345576122))
+else if ((false) || (true))
 {
 VqIbzr = Dop1ya(1865369022, 592975415, -77492190, JX5Qm5L, -42134867);
 }

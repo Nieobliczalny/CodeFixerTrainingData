@@ -145,7 +145,7 @@ std::cout << "Zpxm" << eUYp0JC << std::endl;
 
 sY_m7bCe = cnEF_TX5I ^ 271162970;
 
-if (((true) && (AsY2_gpmr3 >= 873122468)) && (Hm3Z3v9 > T2Zx13))
+if (((true) && (false)) && (Hm3Z3v9 > T2Zx13))
 {
 if (d9ii != -330725856)
 {
@@ -211,7 +211,7 @@ else if ((HE0o0 != sY_m7bCe) || ((HE0o0 >= 170627082) && (false)))
 {
 std::cout << "Kdbla" << Y48sk << Hm3Z3v9 << std::endl;
 }
-else if (Y48sk > -1095613771)
+else if (true)
 {
 if ((y9Ou0Y2 != gsdZo515xR) && (xWOVfjb))
 {

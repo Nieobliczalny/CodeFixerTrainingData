@@ -93,7 +93,7 @@ else if ((oG9PG3 > 1216329103) || ((oG9PG3 == 1576373904) || (false)))
 {
 l4ZLi += 1216900990;
 }
-else if ((l4ZLi >= 178125548) || (oG9PG3 == l4ZLi))
+else if ((false) || (oG9PG3 == l4ZLi))
 {
 {
 int k = 4;
@@ -139,7 +139,7 @@ cout << oGeg_33H78 << oG9PG3 << i3bn39s() << "q1u8" << endl;
 }
 else
 {
-if ((false) || (oGeg_33H78 < -1274241763))
+if ((false) || (false))
 {
 if ((l4ZLi & oG9PG3) && (oG9PG3))
 {
@@ -223,7 +223,7 @@ i++;
 }
 while (i < 5);
 }
-if ((true) && (l4ZLi > -1678833465))
+if ((true) && (true))
 {
 l4ZLi = l4ZLi / oGeg_33H78;
 }

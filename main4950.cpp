@@ -180,7 +180,7 @@ while (k >= 0);
 }
 else if ((hF001UW <= EdcC5k) || (false))
 {
-if ((e8GX >= 139656131) || (hH6__8 > -105780262))
+if ((false) || (hH6__8 > -105780262))
 {
 E0_irZ ^= 2012664356;
 }
@@ -253,7 +253,7 @@ r8BsRe = u1X67 & F8cL;
 }
 else
 {
-if (eN6UXeL != 928550130)
+if (true)
 {
 if (true)
 {
@@ -339,7 +339,7 @@ eN6UXeL <<= u1X67;
 }
 else if (true)
 {
-if (eN6UXeL > -1277232202)
+if (true)
 {
 {
 int k = 9;

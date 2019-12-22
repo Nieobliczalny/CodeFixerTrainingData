@@ -259,7 +259,7 @@ i--;
 }
 }
 
-if ((true) && ((ZV72hS_yC8 > 545832923) && (d970F == e5y8WE4)))
+if ((true) && ((false) && (d970F == e5y8WE4)))
 {
 e5y8WE4 = FaT_529E3d ^ mj8SR3S;
 }

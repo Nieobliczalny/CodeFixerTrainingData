@@ -25,7 +25,7 @@ j_Q7 = (unsigned char)(B4341FW);
 }
 }
 
-if (((true) && (NRzg3P6n4_ != 1570415311)) && (TgP_Bx__ >= -686359102))
+if (((true) && (true)) && (TgP_Bx__ >= -686359102))
 {
 for (int j = 5; j >= 0; --j)
 {

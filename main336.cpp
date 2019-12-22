@@ -232,7 +232,7 @@ wAULMQ = (int)ceil(c19N80);
 
 std::cout << "LnORusc" << RBkl << odpukby << HNBU_E0K << RBkl << std::endl;
 
-if (((false) || (s_C8O_70 > -1026225174)) || (u43p944 == 290020782))
+if (((false) || (true)) || (u43p944 == 290020782))
 {
 switch (BV14nnSfH3)
 {

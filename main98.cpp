@@ -448,7 +448,7 @@ if ((false) || (J7Q2Lt >= LLQG))
 {
 AV_B92CmxR = (unsigned short int)(JaS2A6sOJO);
 }
-else if (uL1Hwz8DBQ > 95685636)
+else if (false)
 {
 fk6U_zn5Bn = j8_tbl(fk6U_zn5Bn, -85892913, HQ9342At, -1457143321, uL1Hwz8DBQ);
 }
@@ -498,7 +498,7 @@ std::cout << LYW1YF58(-1235181173, -598258789, b9y_) << "dzjqq4" << "Nv_54yL" <<
 }
 else if (t4D55X50T & WTq8e)
 {
-if ((uq47 <= -1649071993) || (KR04f == -503946064))
+if ((false) || (KR04f == -503946064))
 {
 if (b9y_ < 1133542762)
 {

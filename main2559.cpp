@@ -134,7 +134,7 @@ else
 jpE5 >>= xl6aGKeW;
 }
 }
-else if (hBMm8z76_ == -752842303)
+else if (false)
 {
 y033h_7G = (unsigned char)(UMR3);
 }

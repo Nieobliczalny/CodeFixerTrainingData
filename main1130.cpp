@@ -44,7 +44,7 @@ icN2bwT5 = (int)floor(cdUxNGU7n0);
 
 try
 {
-if (((up4G9yj2 > 1065584892) || (false)) || ((icN2bwT5 < 2108619699) && (VXYHb8kWfx <= -1382473763)))
+if (((up4G9yj2 > 1065584892) || (false)) || ((icN2bwT5 < 2108619699) && (false)))
 {
 {
 int k = 0;

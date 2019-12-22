@@ -81,7 +81,7 @@ try
 int j = 8;
 do
 {
-if ((true) && (RsCUt5G <= 1498632999))
+if ((true) && (true))
 {
 tjs01_4n = A9L2(1121267789);
 }

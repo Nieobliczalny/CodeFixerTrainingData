@@ -180,7 +180,7 @@ g6nmxl4_ = (b3YD1x & lqHhC5b4) ? -2007548344 : gXJT5U5z3;
 Kr50Hq = (short int)(b3YD1x);
 if ((true) || ((WkP49JRh & g6nmxl4_) && (n8WO5MvFH8 != -1614948931)))
 {
-if (((Kr50Hq) || (x92G3 > Vl427d_GGF)) || (O_y04na6H != 628794208))
+if (((Kr50Hq) || (false)) || (O_y04na6H != 628794208))
 {
 std::cout << "MfTkzM3UbV" << "zGMA79zR" << std::endl;
 }
@@ -342,7 +342,7 @@ rY8pVUNg8n <<= 727166470;
 }
 }
 
-if (((false) || (vVb4T9wj < -1171659630)) && (Kgik > fgk68w_c5))
+if (((false) || (false)) && (Kgik > fgk68w_c5))
 {
 if ((Kgik != fgk68w_c5) || ((g6nmxl4_ <= -1449780336) || (O_y04na6H & -1184814301)))
 {
@@ -466,7 +466,7 @@ bV_cn24W = ZbW7xH(-1370692836);
 }
 }
 
-if ((x92G3 != 2023636828) || ((rY8pVUNg8n == h79Qr7Ut) && (vVb4T9wj & 1003633104)))
+if ((true) || ((rY8pVUNg8n == h79Qr7Ut) && (vVb4T9wj & 1003633104)))
 {
 for (int j = 1; j >= 0; --j)
 {

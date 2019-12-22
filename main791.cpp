@@ -39,7 +39,7 @@ else if (vkR2DhT <= z15s24_11g)
 {
 bCWvy33oK = W5x4Ia(-763302952, P7LSu);
 }
-else if (y_8401lIPj >= -495784129)
+else if (true)
 {
 for (int k = 0; k < 8; k++)
 {
@@ -197,7 +197,7 @@ eJvqO <<= QBCy;
 }
 }
 }
-if (((kXfpS00xjl > 857964633) && (fogvbtx_z >= q18uYA13de)) && (l1uc250))
+if (((false) && (fogvbtx_z >= q18uYA13de)) && (l1uc250))
 {
 try
 {

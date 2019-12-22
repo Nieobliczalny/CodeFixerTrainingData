@@ -220,7 +220,7 @@ std::cout << "taVA" << pQ70IS_ << jW6l0mLJF(-301547258, -1771282608, V5pyyw4, 11
 }
 else
 {
-if (JEDpAu <= -2141505778)
+if (false)
 {
 MQXl00SkV = n6I8Ts8w7() & Wfz0;
 }
@@ -352,7 +352,7 @@ if (false)
 {
 std::cout << MQXl00SkV << g_NwBIf << "CHI_FV8UE" << std::endl;
 }
-if (zUI0ph49W9 > -984646503)
+if (true)
 {
 w0pK = (unsigned short)(TOX3);
 }

@@ -176,7 +176,7 @@ else if (cKC8T85CE8 & -1015810343)
 {
 t9cI660JP5 = (int)ceil(wu661f_5);
 }
-else if (((hnEdTi < 1544593599) || (x8_aZrQSl > KJwAq1C)) || ((k2Q3q6 < PSWgG) || (gw2j6I50 & -1164027750)))
+else if (((true) || (x8_aZrQSl > KJwAq1C)) || ((k2Q3q6 < PSWgG) || (gw2j6I50 & -1164027750)))
 {
 if ((false) && (oFB6Q5 > 452078283))
 {

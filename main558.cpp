@@ -93,7 +93,7 @@ std::cout << "T8G7" << CXoDHo7R << std::endl;
 }
 else if ((Fuf6yf != l1vjxB) || (false))
 {
-if ((urhS > -1947959600) && (HyT414yTJF))
+if ((true) && (HyT414yTJF))
 {
 std::cout << B_DkQ_55R7(998519533, 1423341399, ta6g354J2J, Fuf6yf, -1540621217) << std::endl;
 }
@@ -139,7 +139,7 @@ HyT414yTJF = (int)abs(M5OyFew4);
 }
 else
 {
-if (urhS == 1191404683)
+if (false)
 {
 xoh88 <<= M_ZPH7;
 }
@@ -225,7 +225,7 @@ if (true)
 {
 try
 {
-if (((FzK8XWycu != -578732443) && (Fuf6yf < 511486072)) && (P3NRzDCz != -779456966))
+if (((FzK8XWycu != -578732443) && (true)) && (P3NRzDCz != -779456966))
 {
 Du7UPS_Z7 &= 120792676;
 }

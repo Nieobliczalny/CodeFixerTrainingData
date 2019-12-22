@@ -356,7 +356,7 @@ if (true)
 xZ0E1M = (short)(v28_3);
 }
 
-if (bnxjSlmzK4 > -440597722)
+if (true)
 {
 std::cout << ZivQ6(I3h38, VWfmK, gWg7R) << std::endl;
 }
@@ -481,7 +481,7 @@ i0_NtPRn &= sw0_8AF;
 
 if ((uE6_967i3 == EzkLy0Wo) || (false))
 {
-if (No443NfO != -1358179406)
+if (true)
 {
 if (WwCcV < cXiM)
 {

@@ -111,7 +111,7 @@ X92Vn = (short)(KmORQz58);
 bKaqL30pl8 = r6H_U8Z8 * 23523737;
 
 cout << eW7qrTNrxn << aTY86u9H << bKaqL30pl8 << edHP << XG2f << endl;
-if (((false) || (FA27d25W != elwyrYNAs1)) || ((XG2f) || (X92Vn != -338415993)))
+if (((false) || (FA27d25W != elwyrYNAs1)) || ((XG2f) || (true)))
 {
 {
 int j = 0;

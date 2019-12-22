@@ -116,7 +116,7 @@ cout << g_Grh0CDU() << wOm_KCV4 << s_bYo << endl;
 }
 }
 
-if (((true) && (w9uUl == -1920949671)) || (wOm_KCV4 >= -1006851689))
+if (((true) && (false)) || (wOm_KCV4 >= -1006851689))
 {
 for (int j = 8; j >= 0; j--)
 {

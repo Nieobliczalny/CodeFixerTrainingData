@@ -88,7 +88,7 @@ u8J24 /= 1325698793;
 }
 else if (gqntkhD39g <= 1686751148)
 {
-if ((false) || (u8J24 <= 1777011511))
+if ((false) || (true))
 {
 xC12t = (int)abs(oEaF5C);
 }

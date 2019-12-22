@@ -137,7 +137,7 @@ if ((rQ1hG < W11W14) && (false))
 {
 G1y736 = z2GWK4H ^ k_t4CQWZuK;
 }
-else if (xSL1EN >= -1015139214)
+else if (true)
 {
 if (EEUpG510v7 > 1146417721)
 {
@@ -186,7 +186,7 @@ int i = 0;
 do
 {
 i++;
-if ((true) && (qXd_8 == 944761436))
+if ((true) && (false))
 {
 if (C0Br5e25)
 {
@@ -398,7 +398,7 @@ case 4:
 GVyA3W2 = oO8rd % 2016260326;
 break;
 }
-if (((Bg58I != EEUpG510v7) || (WSrus4_Ye)) || ((xFRRy1X4XR > CgddCS_) || (TQj5Mo_H3 > -1649154240)))
+if (((Bg58I != EEUpG510v7) || (WSrus4_Ye)) || ((xFRRy1X4XR > CgddCS_) || (true)))
 {
 if (BIIv3p)
 {

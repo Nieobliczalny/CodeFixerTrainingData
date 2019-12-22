@@ -90,7 +90,7 @@ if ((kUd3xbW != oWC2M8) && (Gi_8uJ_WgC != qo17))
 {
 if (((false) || (E94W5k96d)) || (rR95C6_ & -976055284))
 {
-if (rR95C6_ != tspMzdxx)
+if (true)
 {
 vMzaes4e = (int)floor(jUqj2s93Mu);
 }

@@ -57,7 +57,7 @@ if ((-1134504032 / C6Wzlnp2_) <= -2083383835)
 int i = 0;
 do
 {
-if ((true) && (lGUhcU <= 1113693205))
+if ((true) && (true))
 {
 if (S0e3Wq7G83 != 450639841)
 {
@@ -75,7 +75,7 @@ else if (false)
 {
 std::cout << eixzxIE << std::endl;
 }
-else if ((nSk3hktYR == 1611331355) && (xFYM & NH0_02))
+else if ((false) && (xFYM & NH0_02))
 {
 for (int k = 0; k < 1; ++k)
 {
@@ -143,7 +143,7 @@ dmc6_8253_ = AR41r ^ mklbV_7qkU;
 }
 else
 {
-if (((true) && (xFYM & 1341740166)) && ((N3ak7435J & h68hvABB) && (r92yfa == 697145624)))
+if (((true) && (xFYM & 1341740166)) && ((N3ak7435J & h68hvABB) && (false)))
 {
 avasX = bU2_9F % 1234307083;
 }
@@ -162,7 +162,7 @@ if (false)
 {
 bU2_9F = (jh9MSi3f != 1704014612) ? -1147980918 : 521215707;
 }
-else if (El1_bWcrK > -1379373428)
+else if (true)
 {
 {
 int k = 0;

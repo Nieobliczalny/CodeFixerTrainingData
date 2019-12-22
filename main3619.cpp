@@ -678,7 +678,7 @@ for (int k = 7; k >= 0; k--)
 FddJ73A98S = rM0f1QVA / O306;
 }
 }
-else if (((true) && (Yfv1 != 1854805931)) && (jBmzv9px == FOhPgpuUn))
+else if (((true) && (true)) && (jBmzv9px == FOhPgpuUn))
 {
 for (int k = 10; k >= 0; --k)
 {

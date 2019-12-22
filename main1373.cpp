@@ -169,7 +169,7 @@ std::cout << rUz6(SRw3) << lDVMKFE_ << "nQ739L" << std::endl;
 }
 else
 {
-if ((zNC_2841y != -1511661085) || ((S355 != -1013043991) || (v_67lu & J9c401nx)))
+if ((true) || ((S355 != -1013043991) || (v_67lu & J9c401nx)))
 {
 FW8MUOR = (int)abs(s45r335P);
 }
@@ -187,7 +187,7 @@ catch (int& errorCode)
 {
 w4iY6 = zH9t7H % 114765877;
 }
-if (((true) || (ta9dwG6S == -1148253681)) && ((PuTZa6 >= e7RyQR18k) && (Vn1E0D77M4 == -342065518)))
+if (((true) || (ta9dwG6S == -1148253681)) && ((PuTZa6 >= e7RyQR18k) && (false)))
 {
 std::cout << t90P6 << std::endl;
 }

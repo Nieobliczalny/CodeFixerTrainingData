@@ -61,7 +61,7 @@ int main() {
 
 if ((dX63Cueja) && (true))
 {
-if (wMw5 < 1914044386)
+if (true)
 {
 {
 int k = 0;
@@ -80,7 +80,7 @@ std::cout << "WWCv4S5W" << std::endl;
 }
 else if (true)
 {
-if (p0j7UA <= -1209627354)
+if (false)
 {
 for (int k = 9; k >= 0; k--)
 {

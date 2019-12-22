@@ -466,7 +466,7 @@ KqlqD2Z = apanON84(-637436719, -1005489449, -1665575453, wwDoluGiD);
 }
 else if (((false) || (uC4K890G5 < twiKW68XAr)) && (g3_o == -626515368))
 {
-if (N_gXE5EYHP < -226359284)
+if (false)
 {
 uC4K890G5 = B_zD53Wq(864732985);
 }

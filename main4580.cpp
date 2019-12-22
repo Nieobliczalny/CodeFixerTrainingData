@@ -99,7 +99,7 @@ zYD_feLjP |= 784951137;
 cE92y = (unsigned short)(SimfRyI);
 if ((W1TM < h9yd0FE) || ((ZWQ4uM5 >= cE92y) && (true)))
 {
-if (k423Y_xz >= -1198690151)
+if (true)
 {
 std::cout << "NDoJ" << DzFM << V2o_60TH_(-1077423208, -2119183909, eW7D) << std::endl;
 }

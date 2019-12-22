@@ -719,7 +719,7 @@ k12Lih &= 207429617;
 int i = 0;
 do
 {
-if (zi1A5_A9 < clY_8qL6)
+if (true)
 {
 LlfogTehP -= bqgVgRT;
 }

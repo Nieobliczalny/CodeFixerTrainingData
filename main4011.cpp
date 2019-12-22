@@ -120,7 +120,7 @@ h_hZcGu_sL |= YX59pF3J;
 
 if (OhyrpS3ov_)
 {
-if ((true) && (xGfOC97 > hKJ8gV0AN))
+if ((true) && (false))
 {
 std::cout << "A8k4UN" << std::endl;
 }
@@ -159,7 +159,7 @@ try
 int j = 0;
 while (j < 9)
 {
-if ((true) && ((g1G_9NK5O > RUz9) || (rDJ_Z9u8j >= -999934854)))
+if ((true) && ((g1G_9NK5O > RUz9) || (true)))
 {
 R3Gk09H = E_Xe6Zq(rDJ_Z9u8j, -1925217339, aNu8ftz, 1209493075, 47568355);
 }
@@ -218,7 +218,7 @@ catch (int& errorCode)
 {
 tk7W = (int)abs(JCp39HMi);
 }
-if (((true) || (NZ07_1 > 326464107)) && ((NZ07_1 != l8kP) && (xGfOC97 & 472545112)))
+if (((true) || (NZ07_1 > 326464107)) && ((true) && (xGfOC97 & 472545112)))
 {
 try
 {
@@ -238,7 +238,7 @@ tk7W = JCp39HMi >> 1618942133;
 }
 else
 {
-if ((false) || ((OhyrpS3ov_ <= HU75736_) || (YX59pF3J >= -1801133897)))
+if ((false) || ((OhyrpS3ov_ <= HU75736_) || (true)))
 {
 std::cout << wu_E2TS(-1334767377, JCp39HMi, 1912801658, -910299620, j2_3M1nRHr) << aNu8ftz << "dQUN_gEDuE" << "gIVNW8Z" << "UNK5K" << std::endl;
 }
@@ -361,7 +361,7 @@ RUz9 = wu_E2TS(77487272, -1086444479, 1872933298, -623684188, R3Gk09H);
 i++;
 }
 }
-if (((true) || (g1G_9NK5O == HU75736_)) && ((JCp39HMi > -698991060) && (R3Gk09H > 1249259606)))
+if (((true) || (g1G_9NK5O == HU75736_)) && ((true) && (R3Gk09H > 1249259606)))
 {
 xGfOC97 = (int)abs(OhyrpS3ov_);
 }

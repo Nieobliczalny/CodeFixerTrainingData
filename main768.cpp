@@ -286,7 +286,7 @@ XH60 = wji_Nh(-745881234, W2Ra287da7, 1684272026);
 while (i < 3);
 }
 
-if (((false) || (YGvZn30)) || (k25rEu_iD < 135073067))
+if (((false) || (YGvZn30)) || (true))
 {
 zl72Y24r = (short)(W1u82L11);
 }

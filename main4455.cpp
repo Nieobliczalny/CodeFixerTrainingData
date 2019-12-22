@@ -96,7 +96,7 @@ std::cout << "F5xywZOS4h" << std::endl;
 }
 else if (qh1jJUD_fq >= lV03I7)
 {
-if (Iyh6B > 1923229078)
+if (false)
 {
 std::cout << G6U7nL2(-1119157788, 836955094, GwX5IBoTXo) << "aa6ij07G" << Xu68(o9dfd_CDq4, V63z, GwX5IBoTXo, -993330731, g_CGu07_t4) << std::endl;
 }
@@ -577,7 +577,7 @@ else if (DRzf != WWcJ2wI_)
 {
 yiAZ_2o = (int)abs(F2o5wV);
 }
-else if (((TP3MO2z) && (yZ9S < x7WoEN3W_)) && (CPfy4Bj <= DSPLLXg))
+else if (((TP3MO2z) && (true)) && (CPfy4Bj <= DSPLLXg))
 {
 fXF2g--;
 }

@@ -357,7 +357,7 @@ while (i < 6);
 }
 if (true)
 {
-if (nINm <= 1279901873)
+if (true)
 {
 switch (OvueH3Od9m)
 {
@@ -401,7 +401,7 @@ else if ((false) && (Bu4AzCvU3T & mbe8))
 {
 H8PLCi660 = CYO3(1045147123, q0X40);
 }
-else if (d5Na7 != 1575411308)
+else if (true)
 {
 if (Au7_VA1 > 1810059420)
 {

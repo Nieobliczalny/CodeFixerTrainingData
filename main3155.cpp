@@ -308,7 +308,7 @@ z9qz3 = wwcJqrK_r7 % 2549659;
 }
 else
 {
-if (wwcJqrK_r7 == DCLjB_OZ0N)
+if (false)
 {
 wwcJqrK_r7 = ywGnnUSEi(-2033941298);
 }
@@ -461,7 +461,7 @@ else if (qcw4 >= wwcJqrK_r7)
 {
 cout << MGBkQ() << MGBkQ() << wwcJqrK_r7 << endl;
 }
-else if ((wwcJqrK_r7 != -1116465744) && (qcw4 > v7mm7F5))
+else if ((true) && (qcw4 > v7mm7F5))
 {
 for (int k = 5; k >= 0; --k)
 {

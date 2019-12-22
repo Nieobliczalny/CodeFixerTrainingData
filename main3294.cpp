@@ -394,7 +394,7 @@ FYOW &= 1485726141;
 }
 }
 }
-else if (((Osv76xenXD) || (true)) && ((yIBYU8d6) && (dd2D > -441963898)))
+else if (((Osv76xenXD) || (true)) && ((yIBYU8d6) && (true)))
 {
 mP8Q240kx = PZ75T * tsGVB2VaeI;
 }
@@ -526,7 +526,7 @@ Hl2C22 = (int)floor(aP2dn);
 
 if ((false) || (QhS1 <= -895983640))
 {
-if ((x7oRT2 == 848977331) || (yIBYU8d6))
+if ((false) || (yIBYU8d6))
 {
 for (int k = 5; k >= 0; --k)
 {

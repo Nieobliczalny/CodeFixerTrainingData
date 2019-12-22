@@ -273,7 +273,7 @@ for (int j = 8; j >= 0; j--)
 zx9h = (int)floor(vJ47U_0);
 }
 }
-if (gA2O3 > 568482765)
+if (false)
 {
 B0NKk = (long double)(gl8R7rv75S);
 }

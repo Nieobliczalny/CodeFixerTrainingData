@@ -71,7 +71,7 @@ H66K = (char)(mCVMbu);
 }
 else
 {
-if ((Kae12X1 == -69720207) && (Oj7B00d & -547923293))
+if ((false) && (Oj7B00d & -547923293))
 {
 if ((Gp8x >= iyX3C) || (k6Zc0a5RvY < 735328887))
 {

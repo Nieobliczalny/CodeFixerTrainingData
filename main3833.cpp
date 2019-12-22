@@ -151,7 +151,7 @@ uwdZ = Gq2_(-1145563198, eouc6e);
 }
 IKKmev_9Ga = (unsigned short int)(N3G0jOz);
 
-if (((W3OttSW >= -1639304030) || (true)) && ((YaL091Hdg0 > -750465577) && (dyIaz5 != Jd3Rk293l)))
+if (((W3OttSW >= -1639304030) || (true)) && ((true) && (dyIaz5 != Jd3Rk293l)))
 {
 YU_GxpiEn = YtxcY8(1930279857);
 }

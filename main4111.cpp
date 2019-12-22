@@ -65,7 +65,7 @@ UjL1L = (short int)(A30O);
 nUbS_t6 = rb7Sg24 / 2037252123;
 if ((HK39U == j0JM3) || ((true) && (qo0DZ79 < nUbS_t6)))
 {
-if ((Ol_05 < -1107773769) || (b1R5))
+if ((false) || (b1R5))
 {
 if ((SukMU04LD5 < -1603427130) && (mQ0Be52d7))
 {
@@ -363,7 +363,7 @@ if (false)
 {
 cout << "mzO2vq1" << OVfBum6(o59WB4DO, 1224792911, j1U_O_G8, 668559331, q1O6) << endl;
 }
-else if (h1W9ZHV <= -1698761276)
+else if (false)
 {
 Ci7uUPbD1T = (int)abs(ld2X4zU);
 }

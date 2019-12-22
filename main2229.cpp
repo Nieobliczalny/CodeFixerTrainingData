@@ -232,7 +232,7 @@ z05d4W = MkG5mp(w4B_4C0N2);
 }
 else if ((w_4hQd) && (true))
 {
-if (((Au4Io840_ > -979292515) && (Au4Io840_ < -986785566)) && (So1rQ == -1834633538))
+if (((true) && (Au4Io840_ < -986785566)) && (So1rQ == -1834633538))
 {
 for (int k = 0; k < 6; k++)
 {
@@ -254,7 +254,7 @@ while (j >= 0);
 }
 else
 {
-if ((J38gp) || ((false) || (c_bib069YX != 2106095114)))
+if ((J38gp) || ((false) || (true)))
 {
 std::cout << MkG5mp(w4B_4C0N2) << "Gy7U" << std::endl;
 }

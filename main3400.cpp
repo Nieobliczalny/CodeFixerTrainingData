@@ -157,7 +157,7 @@ evmF2N = (int)floor(BY_0E7YFD);
 }
 }
 }
-else if ((false) || (fGS37MuIxT >= 1657042881))
+else if ((false) || (false))
 {
 for (int j = 10; j >= 0; j--)
 {
@@ -546,7 +546,7 @@ else
 {
 fGS37MuIxT %= MLgC8;
 }
-if (((D0w52_uZ4 <= up9p14iJR) || (true)) && ((KiomD__ & 1499373630) && (O8cGeu >= 1105056867)))
+if (((D0w52_uZ4 <= up9p14iJR) || (true)) && ((KiomD__ & 1499373630) && (false)))
 {
 try
 {

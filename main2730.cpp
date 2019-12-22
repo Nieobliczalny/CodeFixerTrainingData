@@ -46,7 +46,7 @@ else
 mF78 = a5PhMw926N();
 }
 B1xL9Ne = R4671e5A_ >> 37935038;
-if (X8Z31S <= 1405857561)
+if (true)
 {
 std::cout << B1xL9Ne << std::endl;
 }
@@ -57,7 +57,7 @@ int j = 1;
 do
 {
 --j;
-if (((true) && (eNcmg & X8Z31S)) || ((hEb7D4S & X8Z31S) || (B1Js <= -114882606)))
+if (((true) && (eNcmg & X8Z31S)) || ((hEb7D4S & X8Z31S) || (false)))
 {
 X7_HY0--;
 }
@@ -220,7 +220,7 @@ mF78 = a5PhMw926N();
 }
 else
 {
-if (((B1xL9Ne) || (true)) && ((xseJMs9 < -1210232962) && (Dc_8 > -631557382)))
+if (((B1xL9Ne) || (true)) && ((false) && (Dc_8 > -631557382)))
 {
 {
 int k = 0;
@@ -456,7 +456,7 @@ if (false)
 {
 std::cout << nYjXn << a5PhMw926N() << a5PhMw926N() << std::endl;
 }
-if (l6eDEE923 == 290435586)
+if (false)
 {
 for (int j = 0; j < 9; j++)
 {
@@ -666,7 +666,7 @@ std::cout << B1xL9Ne << std::endl;
 }
 else
 {
-if (R4671e5A_ != 1214691619)
+if (true)
 {
 {
 int k = 8;
@@ -679,7 +679,7 @@ mF78 = a5PhMw926N();
 }
 else
 {
-if (((false) && (UCXC8 <= Y55S)) || (o_k_Bufsr8 == -991085332))
+if (((false) && (UCXC8 <= Y55S)) || (false))
 {
 mF78 = a5PhMw926N();
 }

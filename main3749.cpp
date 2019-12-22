@@ -366,7 +366,7 @@ catch (int& errorCode)
 Li3pzlFvO = (int)abs(VgOz);
 }
 
-if ((true) && ((UImOpb_Uut == -2070937664) || (BamqP_fsR & gsrpN32r_)))
+if ((true) && ((false) || (BamqP_fsR & gsrpN32r_)))
 {
 if (XAMsZr9 & 882258643)
 {

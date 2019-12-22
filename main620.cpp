@@ -361,7 +361,7 @@ if (((false) && (nlev_S5q > -1406979495)) || (uaezWHeS))
 {
 jZDP = (long double)(Yn_xR9);
 }
-else if (o6_5he3L9 <= -1091148712)
+else if (false)
 {
 j7SZz2Lx = LUrwG(1184299899, -1902539462, ps4N, -1918770932);
 }

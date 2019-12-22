@@ -319,7 +319,7 @@ else if (false)
 {
 std::cout << WJ9GLB << y2SU << "V1qJCY_l" << std::endl;
 }
-else if (bCrM != -16041613)
+else if (true)
 {
 for (int k = 8; k >= 0; k--)
 {
@@ -337,7 +337,7 @@ else
 boeGBxF = C_Bhfx + 227444623;
 }
 }
-else if ((DeE4J55 <= 238643550) || (jJK60k & 382654676))
+else if ((true) || (jJK60k & 382654676))
 {
 std::cout << "Bqg2D_" << std::endl;
 }

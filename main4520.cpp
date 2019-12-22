@@ -358,7 +358,7 @@ else
 cout << r6x8 << endl;
 }
 }
-else if (((m_WW & d2Ls_o) || (false)) || ((Z5hF7w_0E1 <= 517984972) && (mGdf4 >= -1008680983)))
+else if (((m_WW & d2Ls_o) || (false)) || ((true) && (mGdf4 >= -1008680983)))
 {
 rOrD39N69 = (unsigned char)(qkxL0);
 }
@@ -424,7 +424,7 @@ else if (((false) || (esZ_z)) && (jB4325K > rOrD39N69))
 {
 M2HI1 &= 413622742;
 }
-else if (Z5hF7w_0E1 <= 340495979)
+else if (true)
 {
 try
 {

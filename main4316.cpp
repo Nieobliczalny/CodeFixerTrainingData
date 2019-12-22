@@ -257,7 +257,7 @@ else if ((pgPIv > 2036584720) && (true))
 {
 UuuXqjARK /= 120694402;
 }
-else if (xG9G >= 1386717289)
+else if (false)
 {
 if (UuuXqjARK & 683926867)
 {
@@ -296,7 +296,7 @@ while (i >= 0);
 xG9G = cn5_(xG9G, 1199865901);
 for (int i = 3; i >= 0; --i)
 {
-if (((false) || (QJk2nL == 1454948692)) || (pgPIv & -126731992))
+if (((false) || (false)) || (pgPIv & -126731992))
 {
 SFRr_ky_4 >>= 1603133701;
 }

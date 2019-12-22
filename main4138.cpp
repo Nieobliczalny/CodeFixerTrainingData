@@ -193,7 +193,7 @@ while (i < 5);
 }
 if (Pu_NlM0 < Jm5vZ)
 {
-if (((UCX0503 >= iy583XGn) || (false)) && (rrbsP65E != -1246031555))
+if (((UCX0503 >= iy583XGn) || (false)) && (true))
 {
 switch (oN8l)
 {

@@ -200,7 +200,7 @@ L_9A = Q98FQsFHP(1959939276, 1052704098, -1116616316, Hh39MXVhoh, -2046288252);
 
 if (((true) && (WyBpH8959 == -1470418714)) && (c0Nl > -575752772))
 {
-if ((Em332X > 66386644) || (c4m68io != -903402483))
+if ((false) || (c4m68io != -903402483))
 {
 SRDm_ky0 = (int)ceil(EX4BHHO3);
 }
@@ -217,7 +217,7 @@ if (c0Nl)
 {
 I8oh3cffl4 = (int)abs(Hh39MXVhoh) + (-780406629);
 }
-else if (aQ9G72Vz < -1707934531)
+else if (false)
 {
 Fm70U |= 907198254;
 }

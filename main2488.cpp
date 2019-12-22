@@ -203,7 +203,7 @@ if (true)
 {
 for (int j = 10; j >= 0; --j)
 {
-if ((aZV2 < 260548342) || ((I1wF_ != C6pj1O9q0h) || (WOw6_xH != 1750984219)))
+if ((true) || ((I1wF_ != C6pj1O9q0h) || (WOw6_xH != 1750984219)))
 {
 L40ZD = M2Rqc3(L40ZD, 468042765, aZV2);
 }

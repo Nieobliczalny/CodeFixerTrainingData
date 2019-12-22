@@ -287,7 +287,7 @@ do
 {
 if (true)
 {
-if (XFMV > -1208634494)
+if (true)
 {
 EB__aTo_k = GTwOq1x04_ ^ 516394633;
 }

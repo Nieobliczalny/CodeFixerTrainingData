@@ -218,7 +218,7 @@ int j = 1;
 while (j >= 0)
 {
 j--;
-if (ZeNcTtUY5 > Rmcy_T)
+if (true)
 {
 KVVizeUIVj = (int)abs(MuCe2hP) + (-2015388996);
 }
@@ -314,7 +314,7 @@ pgbD--;
 }
 else
 {
-if ((a5__Qi & Rmcy_T) || (a5__Qi == -1547100437))
+if ((a5__Qi & Rmcy_T) || (false))
 {
 wGL6 = (int)ceil(ka255);
 }
@@ -355,7 +355,7 @@ j++;
 while (j < 6);
 }
 }
-else if (((B2RH5lv == -194708375) || (true)) && (c8mM6 == Rmcy_T))
+else if (((B2RH5lv == -194708375) || (true)) && (false))
 {
 if (KVVizeUIVj < ozx1xH2V7)
 {
@@ -602,7 +602,7 @@ fy6C3m_ = ip18Tq9nZ6();
 EpCYf3 = u3luQM2(EpCYf3, a5__Qi);
 std::cout << "V5ig" << std::endl;
 
-if (((pgbD & PmiaWt) || (false)) && (BKeZ6xNo__ >= Rmcy_T))
+if (((pgbD & PmiaWt) || (false)) && (true))
 {
 std::cout << "RRzUUC17zP" << "OAd7RDex" << "MDsHhEJe2U" << vs69yUR(-304846856, a5__Qi, -67456940) << std::endl;
 }
@@ -664,7 +664,7 @@ else if (false)
 {
 EpCYf3 = (int)floor(wGL6);
 }
-else if (((fy6C3m_) || (nYv5 <= -2139585215)) || ((awZK_fvf9p <= Rmcy_T) && (pgbD & ozx1xH2V7)))
+else if (((fy6C3m_) || (false)) || ((awZK_fvf9p <= Rmcy_T) && (pgbD & ozx1xH2V7)))
 {
 std::cout << vs69yUR(-2098321934, PmiaWt, 1055077246) << u3luQM2(1555531608, 572219308) << "JK3Jj2_85" << std::endl;
 }

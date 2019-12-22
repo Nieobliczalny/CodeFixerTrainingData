@@ -175,7 +175,7 @@ E5M4_i4Y = (unsigned long)(Jd9y_33aT);
 }
 else if (Vqz2O_2uN == -1808866305)
 {
-if (jTWXPHrL2f >= -1530570721)
+if (true)
 {
 ohl__h = (s4VP7Tt == ssc4cg9Lgp) ? OTC2zjNY3y : 195736728;
 }

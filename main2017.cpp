@@ -62,7 +62,7 @@ break;
 }
 else if ((Ar5YXW != s8idb) || (false))
 {
-if (URuQ5 != -431815633)
+if (true)
 {
 wDQHfxo = tZe8_Me(2035520781, 1518359361, 793588102, 1753138017, 1351365844);
 }

@@ -29,7 +29,7 @@ for (int j = 0; j < 1; ++j)
 BX418N = xsR85();
 }
 }
-else if (((false) || (a4862 > -1665749857)) || (BX418N & rie5J32S))
+else if (((false) || (true)) || (BX418N & rie5J32S))
 {
 for (int j = 1; j >= 0; --j)
 {
@@ -175,7 +175,7 @@ if (((true) && (WiNaa0P)) || ((BX418N) && (WiNaa0P > a4862)))
 int j = 9;
 while (j >= 0)
 {
-if (((WiNaa0P > rie5J32S) || (WiNaa0P != -2113438205)) && (WiNaa0P))
+if (((WiNaa0P > rie5J32S) || (true)) && (WiNaa0P))
 {
 a4862 += 1608888596;
 }
@@ -262,7 +262,7 @@ WiNaa0P = xsR85();
 
 if (true)
 {
-if (rie5J32S == 745398949)
+if (false)
 {
 if ((WiNaa0P & -633874126) && (rie5J32S >= WiNaa0P))
 {

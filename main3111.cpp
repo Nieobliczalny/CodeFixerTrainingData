@@ -287,7 +287,7 @@ else if (((P9o2PBwYSF) && (true)) || (H_hmo & IeMCXcLip))
 int j = 0;
 do
 {
-if ((eR08 > 1478915581) || ((DR7m82weu) && (I086e == t6Fv70z)))
+if ((false) || ((DR7m82weu) && (I086e == t6Fv70z)))
 {
 Aq41 = jowmo(boz6jgSLq, fAcR_h7Q);
 }

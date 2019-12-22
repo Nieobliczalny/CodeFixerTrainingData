@@ -152,7 +152,7 @@ std::cout << "g3pM00JOR" << "v6HUo" << std::endl;
 }
 else
 {
-if (((true) && (II6958XA2 == -170224370)) && ((ipTE07U8 > Q93oY3N) && (uNesGd_b55 < -971880505)))
+if (((true) && (false)) && ((ipTE07U8 > Q93oY3N) && (uNesGd_b55 < -971880505)))
 {
 Sh1RhT20x += 1672323004;
 }

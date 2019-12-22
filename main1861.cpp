@@ -30,7 +30,7 @@ Q2er4Q = (int)abs(qc9Wz7);
 }
 else
 {
-if (NfPul_z6 == ZQ3O20C)
+if (false)
 {
 m_7zSpV88 += QHKGj17;
 }

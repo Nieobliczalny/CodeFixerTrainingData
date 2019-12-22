@@ -229,7 +229,7 @@ UIIbl |= 1142795805;
 
 if (true)
 {
-if (FQj4UAth6 >= dBIXfV)
+if (false)
 {
 if (((FoA6trw < -1702899756) || (AMlR596c & 427212155)) || ((UtDh74cOhW == SUk7W_93) || (ITUZ == V8qtnuWV)))
 {

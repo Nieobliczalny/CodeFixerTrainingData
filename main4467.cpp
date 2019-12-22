@@ -286,7 +286,7 @@ else if (((RtP3eFcn < 2098736982) && (wr5e5Cd == -1632293295)) || (Bn0N_F))
 {
 gWrH = (int)floor(G660lN8);
 }
-else if (Z8_eYw8 > 1425675247)
+else if (false)
 {
 CwB6XYD2 = mGBSTLgN(246596307, Mf3P4Ws1, x51_g0M8_q);
 }

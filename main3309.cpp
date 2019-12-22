@@ -145,7 +145,7 @@ if ((k0fq8V == 2093122001) || (false))
 {
 DMy7N6W = (int)ceil(Ve0x6v7Wx);
 }
-else if ((Vjxm < 888730033) || ((Vjxm != Y40qVzvR4) || (fw13 != 207270337)))
+else if ((Vjxm < 888730033) || ((Vjxm != Y40qVzvR4) || (true)))
 {
 DMy7N6W = fAslP_ - B_U0a7cVqc;
 }

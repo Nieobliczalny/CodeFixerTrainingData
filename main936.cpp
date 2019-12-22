@@ -344,7 +344,7 @@ else
 std::cout << "MGaGE3nA" << std::endl;
 }
 
-if ((true) && ((S1zGt2T_Y <= -1560109629) || (j89_E56S <= XZ_G7)))
+if ((true) && ((false) || (j89_E56S <= XZ_G7)))
 {
 try
 {
@@ -403,7 +403,7 @@ LSS9J4H_9M = KpvvZ % 1693912989;
 
 if (true)
 {
-if (VtH4WF_Z != 1546837977)
+if (true)
 {
 try
 {
@@ -570,7 +570,7 @@ e8yX = jUMQ1HF2p(2019450389, D8Yp9q);
 int i = 7;
 do
 {
-if ((false) || (w2KJtx < -1904048108))
+if ((false) || (false))
 {
 if (((k2ohoaL9Q >= x96zFdd) && (PX2O68eZ >= 410719285)) && ((GL8yt86nr != rXDA6w) && (MJ_Bs4x == -946118821)))
 {

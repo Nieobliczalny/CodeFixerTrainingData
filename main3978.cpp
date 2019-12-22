@@ -45,7 +45,7 @@ if (((true) || (cQXb <= zwEiz_inP)) || (yR_y7E5 <= aCnT9bf3_N))
 SjHD_8C = (unsigned char)(aCnT9bf3_N);
 }
 }
-if (((Z1V5nWZc < -709538595) || (cQXb > Z1V5nWZc)) && (vUQJs > JdZWj))
+if (((false) || (cQXb > Z1V5nWZc)) && (vUQJs > JdZWj))
 {
 lJuf356_ = (int)ceil(HRTr);
 }
@@ -71,7 +71,7 @@ tF75J06V = TtG3(-829039664, -107251125);
 break;
 }
 }
-else if (((false) || (l55IR > WHHn52vl)) && (yR_y7E5 != -730250648))
+else if (((false) || (l55IR > WHHn52vl)) && (true))
 {
 {
 int k = 10;

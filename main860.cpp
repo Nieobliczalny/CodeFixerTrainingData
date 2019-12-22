@@ -230,7 +230,7 @@ if (HE80)
 w04IBO615 = (int)abs(Cs_e);
 }
 }
-else if ((K1HrqKx >= H7uV) && ((L6a_PpE >= 694262274) && (y0mKVmtA != z2YOsU56N)))
+else if ((K1HrqKx >= H7uV) && ((false) && (y0mKVmtA != z2YOsU56N)))
 {
 for (int k = 0; k < 4; k++)
 {

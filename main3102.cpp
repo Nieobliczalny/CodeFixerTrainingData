@@ -130,7 +130,7 @@ if (((false) || (y6853GLFWS)) && ((AwQ9sf & 199231459) || (y6853GLFWS & e0le17OO
 {
 AwQ9sf = (unsigned int)(C8l7cQIL5y);
 }
-else if (u7un_41 >= -2102717804)
+else if (true)
 {
 if (C49rE00446 > 668382916)
 {

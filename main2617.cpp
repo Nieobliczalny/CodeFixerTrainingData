@@ -267,7 +267,7 @@ else if (false)
 {
 cout << IIBr6rTUp(1504934118, Af6aD, -761742925, 1403646914, 542120775) << endl;
 }
-else if (c8C26D3 != 1483912595)
+else if (true)
 {
 if (t1g9MMu54 == 1937592442)
 {
@@ -534,7 +534,7 @@ switch (Af6aD)
 {
 case 'a':
 case 'A':
-tPYyfq_ZM4 = (GZy00LL_ != -1540345999) ? -810295655 : -61203865;
+tPYyfq_ZM4 = (true) ? -810295655 : -61203865;
 break;
 case 'b':
 case 'B':

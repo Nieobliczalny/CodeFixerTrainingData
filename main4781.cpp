@@ -175,7 +175,7 @@ else if ((QliY2Jd_OM) && (true))
 {
 if ((LuA7xfhyY6 >= aP4ohLUu) && ((vj5D >= pN5Q790SwY) || (P68h9A == lu7Cb5kG9)))
 {
-if ((ZkJX_lD2V5 == PJk03) || ((d_6F_rdAS <= 2119466417) || (v212UNG == lu7Cb5kG9)))
+if ((ZkJX_lD2V5 == PJk03) || ((true) || (v212UNG == lu7Cb5kG9)))
 {
 v212UNG = PbO4s704qc * 1798638419;
 }

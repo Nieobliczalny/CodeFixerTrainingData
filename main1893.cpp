@@ -216,7 +216,7 @@ d87_oOUE *= 392080034;
 }
 else if (WFSBpYjXH9)
 {
-if ((QP2MMd9P7 < DG2u) && ((UQ00 <= 868623134) && (X14K8 & 1634119491)))
+if ((QP2MMd9P7 < DG2u) && ((true) && (X14K8 & 1634119491)))
 {
 jOYyuG |= 199674819;
 }
@@ -448,7 +448,7 @@ if ((false) || (d87_oOUE))
 xk6izM_D = Gi7w & 972623948;
 }
 }
-else if (k8KJ294 != e_W2Vx)
+else if (true)
 {
 for (int k = 0; k < 1; k++)
 {

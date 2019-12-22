@@ -295,7 +295,7 @@ v10u_J9 = gm954_(QEtTpQa_k3);
 }
 }
 }
-else if (((I85Dg5kKA) && (false)) || (fGcv_h < -1089829300))
+else if (((I85Dg5kKA) && (false)) || (false))
 {
 U_YI8lUgv = (long double)(BSNy);
 }

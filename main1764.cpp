@@ -74,7 +74,7 @@ if (false)
 {
 emM2QV = R7I8O7y(-1483869257, -959913805, 809855063, -229614962);
 }
-else if (A55E > -121206996)
+else if (true)
 {
 ygSM = ur524n7QZ0();
 }

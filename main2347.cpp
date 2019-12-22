@@ -262,7 +262,7 @@ if (false)
 {
 Jcu_0 = (short int)(TT1W6 + (K6nhfzhW6));
 }
-else if ((k9Bpr_a == ECe2LA_3w) && ((pfzQ >= 944393440) || (xtbYZ8s8Y_ <= 2144662591)))
+else if ((k9Bpr_a == ECe2LA_3w) && ((pfzQ >= 944393440) || (true)))
 {
 Gw94 = (int)floor(pfzQ);
 }

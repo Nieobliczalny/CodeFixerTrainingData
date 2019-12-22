@@ -257,7 +257,7 @@ KWazohhKcK &= 1502559310;
 }
 else if ((LyZd66___) || ((sGUxZIJ_Q) && (Q0E0N4R0Or)))
 {
-if (Q0E0N4R0Or > -523048778)
+if (true)
 {
 cout << "sxHuX02" << "b327A2r_J4" << W9gG(-1012546296, E68c2S0i1) << uC9288b << endl;
 }

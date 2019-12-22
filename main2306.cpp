@@ -133,7 +133,7 @@ break;
 int i = 8;
 while (i >= 0)
 {
-if (((true) && (UgeM < FH6J_)) || ((ya89D0D & -981093585) || (cRu4_3Y6rM >= -1433607957)))
+if (((true) && (UgeM < FH6J_)) || ((ya89D0D & -981093585) || (true)))
 {
 for (int k = 5; k >= 0; --k)
 {

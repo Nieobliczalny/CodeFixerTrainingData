@@ -129,7 +129,7 @@ if (SP4Hr6236A > RC9A)
 {
 pH_Ev = (char)(zNnMJ);
 }
-else if ((true) && (zNnMJ > -2049061140))
+else if ((true) && (true))
 {
 zYJ42G9 = (char)(p1UTu);
 }

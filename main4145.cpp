@@ -52,7 +52,7 @@ else if (false)
 {
 g1C1C7sV /= rkAp_;
 }
-else if (DG61KQb < -2079514253)
+else if (false)
 {
 agD7hLM2 = (unsigned short int)(Jd1cE6Y);
 }

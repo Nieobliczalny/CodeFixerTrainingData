@@ -278,7 +278,7 @@ else if (false)
 {
 ftQo_ = W5Jinrn84(-1004555748, 2066667580, q5x_D8);
 }
-else if (qfh5tqDK13 != -1905801103)
+else if (true)
 {
 if (Lyf4 > 1660526618)
 {

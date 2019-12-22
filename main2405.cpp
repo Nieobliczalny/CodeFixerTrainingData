@@ -174,7 +174,7 @@ else
 X316Ez %= oZD05;
 }
 }
-else if (tO3Y != 1451577917)
+else if (true)
 {
 nJU4tKfgL0 = IptqP9 ^ 700656655;
 }

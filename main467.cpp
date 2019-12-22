@@ -200,7 +200,7 @@ yWX6qo9 = (unsigned short int)(usaBn4529);
 }
 while (i < 5);
 }
-if ((Ohf1) && ((false) || (j4N58za >= -1254402494)))
+if ((Ohf1) && ((false) || (true)))
 {
 std::cout << "G2Rr_" << n48K(rfmeC_, -526856238, 2147393442) << "wPtRsd" << R75of0 << std::endl;
 }
@@ -322,7 +322,7 @@ if (false)
 {
 QnZ2dzjV9q = n48K(QnZ2dzjV9q, j4N58za, x_hMl92);
 }
-else if ((H_36h_3 < 1738893006) || ((HMXqK >= -351757826) || (Po9Vo <= 677181557)))
+else if ((true) || ((HMXqK >= -351757826) || (Po9Vo <= 677181557)))
 {
 hsnbdpE7 = n48K(1429267593, O4V_B7U, 597076510);
 }

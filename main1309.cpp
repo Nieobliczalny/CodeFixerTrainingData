@@ -403,7 +403,7 @@ std::cout << p4O85gUBb5 << std::endl;
 }
 else
 {
-if (uEB253 > 1168625582)
+if (false)
 {
 try
 {
@@ -431,7 +431,7 @@ h83yiC7n = (unsigned short)(UPQuL1);
 }
 else if (TR6nM81Pf <= V0wiJE)
 {
-if (((G8mD81 < i9r22Toz0) || (false)) || (C0ktPt9w3i < 1621554380))
+if (((G8mD81 < i9r22Toz0) || (false)) || (true))
 {
 UPQuL1 = (bRVTQcok < -275792155) ? k_HW(p4O85gUBb5, G7IDQXG7F_, E9xhWy) : k_HW(358930825, -597513309, 942099165);
 }

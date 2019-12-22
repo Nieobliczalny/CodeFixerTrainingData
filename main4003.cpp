@@ -84,7 +84,7 @@ else if ((nJ_y5eZUI == 1525111762) || ((rt6z0n >= -983759150) || (false)))
 {
 cs6mBw = Hvk6j7();
 }
-else if ((nJ_y5eZUI != M2Z2_) && ((gMFvf1i == 908145645) || (SsjRZ)))
+else if ((nJ_y5eZUI != M2Z2_) && ((false) || (SsjRZ)))
 {
 p0Iiq_Kw_C /= 1768267497;
 }

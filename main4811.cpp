@@ -687,7 +687,7 @@ else if ((GoEf & -924643853) || (true))
 {
 if (vIajw < GFi2yU)
 {
-if (rhg9J > -629521884)
+if (true)
 {
 Hn_YN0A1_5 = co__iv(AffH3);
 }
@@ -895,7 +895,7 @@ if (false)
 {
 eO_OJ788s_ = (int)ceil(R7lwQNx8FM);
 }
-else if (O0Ke0gi < -993607885)
+else if (false)
 {
 GH_8ye9 = V54331Hl20(GH_8ye9, Hn_YN0A1_5, PK8y7, PGcxdJHJD9);
 }

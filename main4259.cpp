@@ -211,7 +211,7 @@ else
 CCtxr = (int)ceil(PR9YB_XG);
 }
 }
-else if ((false) || (tdwK1x5 <= -61464642))
+else if ((false) || (false))
 {
 N75C = (int)ceil(PR9YB_XG);
 }

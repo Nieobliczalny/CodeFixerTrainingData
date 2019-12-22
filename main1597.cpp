@@ -430,7 +430,7 @@ else if (false)
 {
 r1s5Sa6y_ = (int)(L2V9945 + (1241347924));
 }
-else if (fK6B == 654943639)
+else if (false)
 {
 for (int j = 9; j >= 0; --j)
 {
@@ -612,7 +612,7 @@ DhXygDQ0 -= m07dZ1pW;
 
 if (l_h54f == dz_v)
 {
-if (((false) || (cUraO1N2 <= -970047260)) || (lKN1sW8a_ & 83623673))
+if (((false) || (false)) || (lKN1sW8a_ & 83623673))
 {
 I3Tu = (unsigned int)(L2V9945 + (1271925975));
 }

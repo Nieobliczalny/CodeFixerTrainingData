@@ -144,7 +144,7 @@ X970Rgq2 = (eJyc2O >= IIy1F5ypNU) ? 1625100160 : soRc6YJ5;
 while (j < 5);
 }
 }
-else if ((false) || ((L82_ <= eO_n_xr5_) && (MRe6l22c != -1618719708)))
+else if ((false) || ((L82_ <= eO_n_xr5_) && (true)))
 {
 if ((sfz0_1 < 348285874) || (fHf962Q62 >= 500245132))
 {
@@ -183,7 +183,7 @@ else if (false)
 {
 Lq_02 = (unsigned short int)(BGW0fERlFm);
 }
-else if (oW0_MuvC != I8FPAqfI)
+else if (true)
 {
 std::cout << o6Iu() << "rhcP8UYyWW" << "R6vn0EU0" << std::endl;
 }
@@ -341,7 +341,7 @@ std::cout << "L98Q57_U5" << gLh5BM5di << std::endl;
 }
 std::cout << "Me_s" << cWA7ZhKPY << std::endl;
 
-if ((yHKGZME2h <= -498925031) || (L82_ <= q30F3S3))
+if ((false) || (L82_ <= q30F3S3))
 {
 std::cout << Ez3QRo8J4(yHKGZME2h, 1835395663, 1996743467) << vqSH(yHKGZME2h, 1098799949) << "DEngEBN" << std::endl;
 }
@@ -358,7 +358,7 @@ else if ((IIy1F5ypNU == EYC62715_E) || (false))
 {
 std::cout << "ZOt7" << "Um9__ty" << ALSh << SG0i << std::endl;
 }
-else if (ALSh <= I8FPAqfI)
+else if (true)
 {
 {
 int k = 0;
@@ -370,7 +370,7 @@ k++;
 while (k < 6);
 }
 }
-else if ((true) && (K6Ur0g6_m0 >= I8FPAqfI))
+else if ((true) && (false))
 {
 {
 int k = 0;

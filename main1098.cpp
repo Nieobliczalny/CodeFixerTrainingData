@@ -194,7 +194,7 @@ if (zo_1s4GhP)
 {
 qz4A = (int)ceil(lA2iux3YN);
 }
-else if (((false) || (NdMS9_n9a_ >= 1075913312)) && (TQq5 == vxc34mcmk))
+else if (((false) || (NdMS9_n9a_ >= 1075913312)) && (false))
 {
 if (T_2O <= U9h9M)
 {

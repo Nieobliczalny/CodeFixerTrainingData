@@ -212,7 +212,7 @@ if ((XyI4 > -1258228072) || ((GR4w4) || (GhT742fSs3 < w14BQmiK)))
 Z_45RJ_ = (int)ceil(PvN5G_l);
 }
 }
-else if ((ZL5z7UmhU9 <= h1FH3_9) || (RrDiDj7 <= 1623334598))
+else if ((ZL5z7UmhU9 <= h1FH3_9) || (true))
 {
 std::cout << t2Q086D8 << CgZ8 << kdzl_8rSN(-612848114, -858314962, XTPQBtw7r8, XyI4, mQR2_10Q) << auGm295P << std::endl;
 }

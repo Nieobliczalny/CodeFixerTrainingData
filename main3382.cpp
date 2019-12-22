@@ -145,7 +145,7 @@ else if (((hxJ57zs6G > -515913499) || (AFR_ & -692345114)) && ((gfQriwj5dD & ZM0
 {
 K49c33o08A = ibgoxG6 >> t30DS;
 }
-else if ((RR578cK7f >= p2FUL) && ((ZM0m > -845287775) && (O7Cdcq & -1459523749)))
+else if ((RR578cK7f >= p2FUL) && ((true) && (O7Cdcq & -1459523749)))
 {
 if (Y8k3X1 > t1re31)
 {

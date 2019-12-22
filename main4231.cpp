@@ -227,7 +227,7 @@ else
 std::cout << Pe9Kf7V(K_hk36C, i7e5HkqD, r9MBl_) << "DHEo_8D" << "i3A_6_2t" << Ly28q_CO << std::endl;
 }
 }
-else if (((hiNthDml5 & -1566354004) && (true)) || ((nQnSh > kspvXPs) || (V8L47 < 1478269594)))
+else if (((hiNthDml5 & -1566354004) && (true)) || ((nQnSh > kspvXPs) || (true)))
 {
 W5zN084 = (unsigned char)(h7gi);
 }

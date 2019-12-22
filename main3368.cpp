@@ -433,7 +433,7 @@ bsP40f2jI = KlGB_k3bI(pyxwBsN);
 }
 else if ((pyxwBsN == b6oh9CE6WZ) || ((S3dE34o < bRpU_7h) || (false)))
 {
-if (((E9g5 > 1688982412) || (Bcyc2VH != Ois2P5j_)) && (D1Jf2hn4s & -1435500253))
+if (((false) || (Bcyc2VH != Ois2P5j_)) && (D1Jf2hn4s & -1435500253))
 {
 pg73y9 = (int)ceil(RRW_Fqso9);
 }

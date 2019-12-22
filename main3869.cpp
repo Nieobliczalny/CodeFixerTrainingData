@@ -63,7 +63,7 @@ if (false)
 {
 vTqd7dW = x_97Iw ^ eQYF4;
 }
-else if (m4zX8YSk5D <= 1860309162)
+else if (true)
 {
 lBk3 = (unsigned char)(x_97Iw);
 }

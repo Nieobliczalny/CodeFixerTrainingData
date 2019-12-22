@@ -121,7 +121,7 @@ case 4:
 K2a6CBr = awqv >> 428862385;
 break;
 case 5:
-TqGAvSFcrW = (c6NO > 1204192563) ? -1308564172 : i90e3C;
+TqGAvSFcrW = (false) ? -1308564172 : i90e3C;
 break;
 case 6:
 cw_H = otHn67A % 1984263029;
@@ -147,7 +147,7 @@ if (awqv == 0)
 std::cout << wpEJYyv << std::endl;
 
 dF8_71 = (unsigned int)(Z6q5O1H * dF8_71);
-if (((mjR7Sd) && (false)) || ((x1u7R94610 >= 1130818403) && (V4n8CD05mJ > JLSa5X8)))
+if (((mjR7Sd) && (false)) || ((false) && (V4n8CD05mJ > JLSa5X8)))
 {
 for (int j = 0; j < 4; j++)
 {

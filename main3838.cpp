@@ -554,7 +554,7 @@ std::cout << "ryQPITcV_r" << t2F_e9WG4I << VagAnI3() << std::endl;
 
 try
 {
-if (((true) && (Li2su3 >= 2016017066)) || ((T3U0A9l3A == 903874940) && (bF_79If3 != 232664384)))
+if (((true) && (false)) || ((T3U0A9l3A == 903874940) && (bF_79If3 != 232664384)))
 {
 azCmi8Kz = (int)(Vk_Yj3);
 }
@@ -584,7 +584,7 @@ for (int k = 0; k < 3; ++k)
 VZYNle1 = kT3aR(I9_i) >> azCmi8Kz;
 }
 }
-else if ((hb41d4RR) || ((ZNv8Die_wv != 1642645752) || (so67 <= -2123695015)))
+else if ((hb41d4RR) || ((true) || (so67 <= -2123695015)))
 {
 std::cout << "u7ehu_13" << n5Be3 << AX6OT << std::endl;
 }
@@ -658,7 +658,7 @@ while (i < 2)
 {
 if ((true) && (VE27x01_93 != -1891802359))
 {
-if ((vOV1 != 741695947) && ((o3sWtzMo3 > 1450728333) || (EExljTs4p == pVYWE9)))
+if ((true) && ((o3sWtzMo3 > 1450728333) || (EExljTs4p == pVYWE9)))
 {
 Nn6RuQ9anL = VagAnI3();
 }

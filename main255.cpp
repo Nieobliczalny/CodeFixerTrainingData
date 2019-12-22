@@ -366,7 +366,7 @@ else
 P_15 = t9wq44WVDw(P_15, R1M5I9zln0);
 }
 }
-else if ((C2lkA8_6q == u5CQY) && (u5CQY != n8929DBb))
+else if ((C2lkA8_6q == u5CQY) && (true))
 {
 j605 = b0CyE25He0();
 }

@@ -141,7 +141,7 @@ try
 {
 if (Vs5M_U0Q & ZO8j)
 {
-if (((true) || (Ums6_X)) && ((Fn7hzvp_q != 1057690683) || (Fn7hzvp_q != BP_gA2)))
+if (((true) || (Ums6_X)) && ((true) || (Fn7hzvp_q != BP_gA2)))
 {
 pxs_2o74e = (int)ceil(Cw2J2N4m96);
 }

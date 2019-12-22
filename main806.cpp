@@ -160,7 +160,7 @@ else if (rXg4G3 <= 1040713070)
 {
 ltWzF_Zrf = u2H7 * r_J0C3F;
 }
-else if (((wiL7z != 1444205074) || (IG_Y)) && (jaTB76bohO < 1998621953))
+else if (((wiL7z != 1444205074) || (IG_Y)) && (true))
 {
 lViQbVy <<= XReV9d;
 }

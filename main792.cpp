@@ -333,7 +333,7 @@ else if ((O82l3418p & 75204814) && (false))
 {
 XBp8c *= 698145672;
 }
-else if (Gc25o != -632023911)
+else if (true)
 {
 {
 int j = 8;
@@ -706,7 +706,7 @@ jb_fBStT = vyv9t52l / 1199907817;
 
 if (true)
 {
-if (((D74RZg_E) && (Ta7AF8Qkm3 < Z99b0)) || ((s94T >= -894812725) || (pTf87_ < N_9z)))
+if (((D74RZg_E) && (Ta7AF8Qkm3 < Z99b0)) || ((true) || (pTf87_ < N_9z)))
 {
 if (B5rPJ_zn3n != -1439444347)
 {

@@ -271,7 +271,7 @@ for (int j = 0; j < 5; ++j)
 std::cout << y7Bgg << xhKfIhLGNW << F59M2(584138137) << "mzQFB9w" << U82Y2E << std::endl;
 }
 }
-else if (VTdla < 1267563113)
+else if (true)
 {
 for (int j = 6; j >= 0; --j)
 {
@@ -287,7 +287,7 @@ else if ((yk3wT0 < 1418799083) && (true))
 {
 WP93C_ = (int)floor(hZN3zv8);
 }
-else if ((G6A9PP6o >= 914851072) && ((N6ET473_ >= -462740995) || (I1eYx != VTdla)))
+else if ((false) && ((N6ET473_ >= -462740995) || (I1eYx != VTdla)))
 {
 HN8O8Pd = F59M2(HN8O8Pd);
 }

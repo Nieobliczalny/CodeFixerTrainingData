@@ -250,7 +250,7 @@ if ((MmI18 < Y3x81JO_f7) || ((MmI18 & Z08q6) && (true)))
 {
 try
 {
-if (hz8c2V_zD != -536906927)
+if (true)
 {
 gNxC = Ov1ndN(-1824555531, -1550536486);
 }
@@ -262,7 +262,7 @@ else if (false)
 {
 JrT3Skp0zX |= 1667740839;
 }
-else if (MmI18 > -1526101032)
+else if (true)
 {
 JrT3Skp0zX = gy5PZoz | a8l99paM1;
 }

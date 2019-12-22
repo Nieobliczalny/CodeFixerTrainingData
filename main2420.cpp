@@ -329,7 +329,7 @@ else if (JvgoOh != R11MvXVnL)
 {
 if (fNYo471 & QmIdCmA)
 {
-if (((true) && (b23_G < -1420590682)) || (GExw <= 1353674033))
+if (((true) && (false)) || (GExw <= 1353674033))
 {
 mkyq3F_tkB = u154w(lKrF3, -1795944933, I3_U);
 }

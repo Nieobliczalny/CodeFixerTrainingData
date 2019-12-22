@@ -190,7 +190,7 @@ else
 cout << "H517T5R" << skkeS2(LoQ8i5O, AVKjl0l, Z7p2EM2gs, 1792198687) << "X4rO8G" << endl;
 }
 }
-else if ((i75x < QPWW) || ((ii0t) && (q2yK_tX8 == QPWW)))
+else if ((false) || ((ii0t) && (q2yK_tX8 == QPWW)))
 {
 cout << o1_Ix58c0 << HJ5el7e9(LoQ8i5O, -1250261544) << "SY8vHm" << endl;
 }

@@ -90,7 +90,7 @@ for (int i = 4; i >= 0; i--)
 {
 if (true)
 {
-if (aw_ik7_LP > 1167476665)
+if (false)
 {
 C1zyUeVt_ += k1f8Hif6;
 }

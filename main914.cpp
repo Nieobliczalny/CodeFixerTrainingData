@@ -178,7 +178,7 @@ L40wZzQ -= cf2818fW_2;
 }
 else if (cX4XQSHn7_ > ia8xxh30)
 {
-if (cX4XQSHn7_ != -2067192046)
+if (true)
 {
 YOrzqGtND -= f0r6m;
 }

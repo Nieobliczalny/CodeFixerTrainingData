@@ -152,7 +152,7 @@ if (L2nAQW_j != F_5cme82)
 cout << E_uXQfZ << "Bx_8tp" << endl;
 }
 }
-else if (F_5cme82 <= -1899944969)
+else if (false)
 {
 for (int j = 0; j < 2; ++j)
 {

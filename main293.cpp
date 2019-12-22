@@ -114,7 +114,7 @@ if ((aknJ39) || (false))
 {
 jUYbYn_ = Rd5vka_5Z | 89784218;
 }
-else if (((Yevv63Bt8 >= fWisyG0n2) && (u8cBwB1ApY >= 1086082514)) || (C3R_6P6e6u))
+else if (((false) && (u8cBwB1ApY >= 1086082514)) || (C3R_6P6e6u))
 {
 for (int j = 0; j < 4; j++)
 {
@@ -126,7 +126,7 @@ jUYbYn_ = (int)abs(Zjr_V367);
 }
 else if ((true) || ((soojMkF3L != 31618310) || (iIhAM < Yi6dcUG)))
 {
-if (r1Zr72Y4 == 710379093)
+if (false)
 {
 pfB2 = BGMd(2069548402, -811221167, Yek0);
 }
@@ -502,7 +502,7 @@ vBhXqa = BQzZ / 74635815;
 
 if (true)
 {
-if (VM59mg >= Mmzl)
+if (false)
 {
 switch (iy2e85)
 {
@@ -597,7 +597,7 @@ while (i < 4)
 {
 if (true)
 {
-if (((c_SjQ3j43 < WDbQXj) && (c_SjQ3j43)) && ((C3R_6P6e6u < jru5r4) && (yf666 >= -1626065649)))
+if (((c_SjQ3j43 < WDbQXj) && (c_SjQ3j43)) && ((true) && (yf666 >= -1626065649)))
 {
 CeoB -= TJs00k4;
 }

@@ -75,7 +75,7 @@ if ((drTeB < 1545699631) && (r4cCRF & c_9ehq))
 IXvCsw4i %= fV1Mm6;
 }
 }
-else if (G7TX2 != 1457366879)
+else if (true)
 {
 cEmu = (unsigned short int)(D5i2gY5M5);
 }
@@ -429,7 +429,7 @@ IoLZtD7e5 *= 1284104736;
 }
 else if ((sDmas) || ((D5i2gY5M5 > e75Pq9v7) && (false)))
 {
-if (L921Er0g < 1979823300)
+if (true)
 {
 tBMia0SA_D = M7NHEeV0(-840640421, YPV8ks, 802390519, -1648295826, -181804502);
 }

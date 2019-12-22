@@ -127,7 +127,7 @@ k++;
 while (k < 1);
 }
 }
-else if (((P7u_ != jggU) || (false)) && ((jggU == -2130972239) && (P7u_ >= 325302740)))
+else if (((P7u_ != jggU) || (false)) && ((false) && (P7u_ >= 325302740)))
 {
 v_bYPY = (int)abs(jggU);
 }
@@ -309,7 +309,7 @@ int i = 0;
 while (i < 7)
 {
 ++i;
-if ((false) || ((ZPz8aN != 2096093757) || (i4g4bml_C <= 12720576)))
+if ((false) || ((ZPz8aN != 2096093757) || (true)))
 {
 {
 int k = 6;

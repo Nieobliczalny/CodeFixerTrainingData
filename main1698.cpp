@@ -58,7 +58,7 @@ else if (false)
 {
 ACY6_m >>= 145733794;
 }
-else if (ACY6_m < -1934832645)
+else if (false)
 {
 pb8G_9Bu = (int)abs(ACY6_m);
 }

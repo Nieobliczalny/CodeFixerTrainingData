@@ -219,7 +219,7 @@ else if (c8QrOx34 & -1075451086)
 {
 c8QrOx34 = aJK2 | 1556104117;
 }
-else if ((false) || ((j2vYR72M9 < ct4BQ1v5) && (aJK2 != -769369902)))
+else if ((false) || ((j2vYR72M9 < ct4BQ1v5) && (true)))
 {
 c8QrOx34 = ph42(vxpWuK, 1687911036, aJK2, -1552582204, j2vYR72M9);
 }
@@ -240,7 +240,7 @@ else
 vxpWuK = (int)abs(j2vYR72M9);
 }
 }
-else if (aJK2 >= -1074463538)
+else if (true)
 {
 aJK2 = Y5NZ2(-1352602556, 915176966, 1575594859, 1898551431);
 }

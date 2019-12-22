@@ -479,7 +479,7 @@ if (TXCM1Ve8 != -1251433019)
 Wd_FIUV6 = xJKu(1282196656, -576432343, TXCM1Ve8);
 }
 
-if (((tLPKm1ws5 > -1181894307) || (tLPKm1ws5 < Wd_FIUV6)) || ((true) && (Wd_FIUV6 == 431201406)))
+if (((tLPKm1ws5 > -1181894307) || (tLPKm1ws5 < Wd_FIUV6)) || ((true) && (false)))
 {
 std::cout << "c6Q9J" << P_WX2NfL(Wd_FIUV6, qR_tfZR58Z, TXCM1Ve8) << "SzzlT9o" << std::endl;
 }

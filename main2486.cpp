@@ -269,7 +269,7 @@ else
 t0NdX = (char)(b_fA + (306754297));
 }
 }
-if ((UEggFV & t0NdX) || (UEggFV <= 1006920619))
+if ((UEggFV & t0NdX) || (true))
 {
 UEggFV = b_fA - 475546694;
 }

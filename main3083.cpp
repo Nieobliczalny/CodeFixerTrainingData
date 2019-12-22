@@ -204,7 +204,7 @@ else if (false)
 {
 Z7St = (int)abs(P_3z9);
 }
-else if (P_7_sf0_g == 60159110)
+else if (false)
 {
 {
 int j = 4;

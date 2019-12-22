@@ -166,7 +166,7 @@ k++;
 while (k < 2);
 }
 }
-else if ((false) || ((g73CD7 == B_InDXa0O) || (cFhmqP08A0 >= 1319832419)))
+else if ((false) || ((g73CD7 == B_InDXa0O) || (false)))
 {
 znO63RaDoO = (unsigned short int)(GvF5RT0);
 }
@@ -364,7 +364,7 @@ for (int j = 0; j < 7; ++j)
 cout << Yx_ub1HtK << endl;
 }
 }
-else if ((B_InDXa0O != 909145301) || (GYEgq))
+else if ((true) || (GYEgq))
 {
 switch (V3vjyx1)
 {
@@ -384,7 +384,7 @@ if (((GYEgq & 1761469316) && (false)) && (I5ky > Y1b2))
 {
 B_InDXa0O >>= cFhmqP08A0;
 }
-else if (Yx_ub1HtK == 1122244642)
+else if (false)
 {
 TzHQe5 *= 699272757;
 }

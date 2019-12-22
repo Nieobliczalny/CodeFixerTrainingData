@@ -329,7 +329,7 @@ while (i >= 0);
 
 if (((false) || (P02j4E <= 1354370004)) || (Bw_MlE5N9e >= E9a0))
 {
-if (dPp5M5 < 1897340568)
+if (true)
 {
 wCa_ = (short int)(nYTIWc6d);
 }
@@ -401,7 +401,7 @@ else
 {
 if (true)
 {
-if (EM055o6_sk == -1190093175)
+if (false)
 {
 ebZc = (int)ceil(m_ED_c4);
 }

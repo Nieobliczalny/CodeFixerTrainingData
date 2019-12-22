@@ -119,7 +119,7 @@ if (false)
 std::cout << "a1U5" << iT_XSgv << KT0gWX09PT << X2CcZ95K50 << std::endl;
 }
 }
-else if (((ambCv7 > -445900209) || (y1MhmYafO == O2fql6qq)) || (ajmt < 916659612))
+else if (((true) || (y1MhmYafO == O2fql6qq)) || (ajmt < 916659612))
 {
 nas_ = e_MG9Z ^ kgMpV;
 }

@@ -81,7 +81,7 @@ else if ((Ilc25N09m & -1155529871) || (p6I94Yk != vO_09_))
 {
 raNGS = L8l7 * 1020804820;
 }
-else if (p6I94Yk >= 790746743)
+else if (false)
 {
 Ilc25N09m += 135159907;
 }
@@ -153,7 +153,7 @@ if (false)
 {
 cout << TRzY_W97I << L8l7 << "yBV_7S5s1" << endl;
 }
-else if (((C_0p1E5K >= 902867490) && (S98Johlaq)) && (a7_16zd <= Ve3Y_y5ho))
+else if (((false) && (S98Johlaq)) && (a7_16zd <= Ve3Y_y5ho))
 {
 {
 int j = 0;
@@ -182,7 +182,7 @@ p0zE8 = SHQ1 >> 1302337147;
 }
 else if (HdZ9gJca_)
 {
-jJ5dO1U = (LtE1m1 >= -294564810) ? TRzY_W97I : 2044169460;
+jJ5dO1U = (true) ? TRzY_W97I : 2044169460;
 }
 else if (g_M7 == SHQ1)
 {

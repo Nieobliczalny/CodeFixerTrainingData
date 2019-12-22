@@ -233,7 +233,7 @@ else if (P6a55c > eB6__)
 {
 k4GS_D_LYl = ZO8HH(k4GS_D_LYl, Dh2gfhLD5, 133799101, 703451784, F__83ZL);
 }
-else if ((C3gdON <= 102930170) || (I5yB8Mb_b >= -1581527542))
+else if ((true) || (I5yB8Mb_b >= -1581527542))
 {
 try
 {

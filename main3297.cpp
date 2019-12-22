@@ -387,7 +387,7 @@ if (RyAHyFs < 1888356514)
 d5LZwb = (int)ceil(b2Oj9nE4jb);
 }
 }
-else if (((qDnybW27h < 805428935) && (HNFVZ < 360116049)) || (Bg4yyW95j >= h_HlaLR6f))
+else if (((true) && (HNFVZ < 360116049)) || (Bg4yyW95j >= h_HlaLR6f))
 {
 if (MEjD3 <= YC_b)
 {

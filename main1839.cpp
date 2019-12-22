@@ -119,7 +119,7 @@ for (int k = 7; k >= 0; k--)
 Rn6R5HMswj = (int)abs(SBGGwast7);
 }
 }
-else if (((false) && (Pfe4 == T_O3WV4W)) || (v0q3kWZ2p >= -559119791))
+else if (((false) && (Pfe4 == T_O3WV4W)) || (true))
 {
 for (int k = 0; k < 10; ++k)
 {
@@ -153,7 +153,7 @@ i--;
 std::cout << v0q3kWZ2p << "upGT9r" << SS73_J(432708640, SBGGwast7) << "DRR9Rs" << "r_qmH0Vs4H" << std::endl;
 }
 }
-if ((false) || (ZVAkn == 15637288))
+if ((false) || (false))
 {
 {
 int j = 2;
@@ -264,7 +264,7 @@ aoI_95_ %= Pfe4;
 }
 }
 }
-else if (((true) && (aoI_95_ == -626258425)) || (ZVAkn < -889527477))
+else if (((true) && (aoI_95_ == -626258425)) || (false))
 {
 ybkmU = (char)(z60_iT_Md);
 }
@@ -380,7 +380,7 @@ else if (true)
 int j = 2;
 do
 {
-if (ZVAkn != 332268110)
+if (true)
 {
 ybkmU = BDFIG(1618935545, aoI_95_, -1701104719, RtacWR16);
 }
@@ -480,7 +480,7 @@ Pfe4 = (unsigned short)(z60_iT_Md + (1808998489));
 }
 
 V4vM0j = (char)(v0q3kWZ2p);
-if ((true) && ((aoI_95_) || (T_O3WV4W >= 1000135666)))
+if ((true) && ((aoI_95_) || (false)))
 {
 v0q3kWZ2p = BDFIG(1609595101, -191656169, v0q3kWZ2p, wRD_7571A);
 }

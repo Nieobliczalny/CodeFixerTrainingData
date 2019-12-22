@@ -24,7 +24,7 @@ S9R_7 = (short int)(FwEs + (2081302864));
 }
 a4ctu4 = (int)abs(Vf2_cHqj2);
 
-if (E18U4yoK != 208663306)
+if (true)
 {
 try
 {
@@ -367,7 +367,7 @@ default:
 E18U4yoK = (int)abs(a4ctu4);
 break;
 }
-if (((true) || (S9R_7)) && ((E18U4yoK >= -228765827) || (a4ctu4 != 933519564)))
+if (((true) || (S9R_7)) && ((true) || (a4ctu4 != 933519564)))
 {
 for (int j = 0; j < 2; j++)
 {

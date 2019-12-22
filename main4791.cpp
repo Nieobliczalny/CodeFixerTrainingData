@@ -217,7 +217,7 @@ else if (true)
 {
 if (Pum3a & -738048338)
 {
-if (Hq2Wmx6 != -1646509055)
+if (true)
 {
 IZ5kOcp = b6SVA5j(-687616635, -1808286188, -206482814, gQZS);
 }

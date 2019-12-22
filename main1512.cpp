@@ -136,7 +136,7 @@ if (hJBzBbL < U06Z5tLv)
 cO0Fm = SL8n9C3y(ji35k, 236310542);
 }
 }
-else if (VlsM1 > -1713664891)
+else if (true)
 {
 X366kg_90 = t5y3 >> 1985413763;
 }

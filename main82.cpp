@@ -189,7 +189,7 @@ rwon01 = hVAr - 4448489;
 }
 else if ((UJM2b_2s5T & ad7EMiLz) && (W3eM9a > ke7lLr13))
 {
-if (JNL3CqJ43 <= -488128182)
+if (false)
 {
 if (wJ98ZqC < s1mk8rY)
 {

@@ -206,7 +206,7 @@ int main(void) {
 
 if (true)
 {
-if ((Pk73igC > -1909677956) && ((zAiqH9j5jh == sJ7a43DTK) && (sBeHkK0_C0 == zAiqH9j5jh)))
+if ((true) && ((zAiqH9j5jh == sJ7a43DTK) && (sBeHkK0_C0 == zAiqH9j5jh)))
 {
 {
 int k = 7;

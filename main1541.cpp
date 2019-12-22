@@ -356,7 +356,7 @@ else if (X2mVfmw & OQvn)
 {
 E9k16G = (int)abs(P63_IepJQn);
 }
-else if (((lu1d_ < l7o0szl_U) && (true)) && (lS0a87 >= 871360718))
+else if (((lu1d_ < l7o0szl_U) && (true)) && (false))
 {
 n6QHA = (int)abs(jUHw9wEi09);
 }

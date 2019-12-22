@@ -109,7 +109,7 @@ int j = 0;
 while (j < 9)
 {
 ++j;
-if (ixIhVSJ38T != -1068463482)
+if (true)
 {
 Vgn584 = B_07sD2j + KAZ5E;
 }
@@ -169,7 +169,7 @@ iUPyGM = (unsigned short int)(QzWkNQ);
 
 for (int i = 5; i >= 0; --i)
 {
-if (((true) && (W5cyvgSi > -1354333076)) || (Hl_96Rcr > fA74v))
+if (((true) && (true)) || (Hl_96Rcr > fA74v))
 {
 if (YwRCY == -1720359496)
 {
@@ -339,7 +339,7 @@ if (eMR_Y <= -851736268)
 t717KewA = (DxCk42K != tFLRz) ? Hl_96Rcr : 1191199891;
 }
 }
-else if (((KAZ5E & Hl_96Rcr) || (t717KewA <= -1759020253)) && (YwRCY))
+else if (((KAZ5E & Hl_96Rcr) || (false)) && (YwRCY))
 {
 try
 {

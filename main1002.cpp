@@ -254,7 +254,7 @@ std::cout << Pb3c(-1929610321, 1790459125, b8afuwJ8H7) << Pb3c(-1212537138, wMX4
 }
 else
 {
-if ((b8afuwJ8H7 < -998710011) && (hTrjX1 != USE8Z))
+if ((false) && (hTrjX1 != USE8Z))
 {
 I0EnMYAteM = (int)ceil(YVFmR6w);
 }

@@ -287,7 +287,7 @@ cTYD77j = (int)abs(Q_ZtJF5);
 }
 else if (x55x0IBqT_ & -1426679393)
 {
-if ((wLk5 > V83aD88) && (z2Noldm1_ <= 1955911351))
+if ((wLk5 > V83aD88) && (true))
 {
 OG8hc62ji = f_fJ(OG8hc62ji, -405511958, 122696254);
 }

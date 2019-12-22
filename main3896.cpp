@@ -495,7 +495,7 @@ yvhQ ^= e3_NLXqPX0;
 }
 else if (true)
 {
-if (A7LqgQ >= 715829843)
+if (false)
 {
 MMN_5FS_ = xBz2(K1_1c73vzq, fkXFcQQNpu, ijFA, -1422555020);
 }

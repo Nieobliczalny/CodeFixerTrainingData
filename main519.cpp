@@ -165,7 +165,7 @@ for (int j = 7; j >= 0; j--)
 Y3f7 = Y_fxO | 124456039;
 }
 }
-else if (LK7xR > VoTwhg4V)
+else if (false)
 {
 nAanN = (int)floor(MI89P);
 }

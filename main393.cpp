@@ -160,7 +160,7 @@ OGb55t = E793(-1392449982, a4feLSf, 129722047, bJqk);
 }
 else
 {
-if (((q0SN1M8) && (XRFS7X2 == Ax2Z9fT)) && (y6cf0hD <= 746979641))
+if (((q0SN1M8) && (XRFS7X2 == Ax2Z9fT)) && (true))
 {
 q0SN1M8 = FjR4_ + u7Cl5;
 }
@@ -415,7 +415,7 @@ pzS80cup = yHVTa();
 }
 }
 
-if (dA5EBeiU3u >= -986367939)
+if (true)
 {
 switch (w0Rf36iV6)
 {

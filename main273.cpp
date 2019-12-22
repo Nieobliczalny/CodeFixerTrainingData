@@ -377,7 +377,7 @@ JLB7 = (int)floor(GeKxrMUdx9);
 }
 else if ((XUQzAZ0a02 == doloT1Uw) && (a2N5))
 {
-if ((jZv0 & lYKmB5T2) && (XUQzAZ0a02 == 1115000823))
+if ((jZv0 & lYKmB5T2) && (false))
 {
 for (int k = 0; k < 9; k++)
 {

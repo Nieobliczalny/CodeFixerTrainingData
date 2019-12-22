@@ -131,7 +131,7 @@ while (i >= 0);
 std::cout << qfCHqUV << Gc2w << mz312b4 << "g6VyElC_t" << IqqOAm1 << std::endl;
 if (NLrfM13 & -1648536128)
 {
-if ((true) && ((ei2T6 < -1863338177) || (C1fD4wzzFt & Nf86V8hA6x)))
+if ((true) && ((false) || (C1fD4wzzFt & Nf86V8hA6x)))
 {
 {
 int k = 6;
@@ -227,7 +227,7 @@ RAz6f9pdSM = (true) ? 1477659016 : nZ_Q2;
 }
 else
 {
-if (GdVf < -1664108812)
+if (false)
 {
 DE_1Z ^= 1093847728;
 }

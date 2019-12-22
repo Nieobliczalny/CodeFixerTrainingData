@@ -219,7 +219,7 @@ for (int j = 8; j >= 0; j--)
 et_AOxE2w0 = u7J_LBWHa(154511682, 824129391);
 }
 }
-else if (x_33ed99 <= 1472745288)
+else if (true)
 {
 BkGNDBD4d = u7J_LBWHa(-1819256343, 1666019848);
 }
@@ -341,7 +341,7 @@ if (BkGNDBD4d)
 {
 U0uEi = (int)ceil(k4Guh2NO);
 }
-else if (k_Y_eJt == -1153260075)
+else if (false)
 {
 yu4R = u7J_LBWHa(1473022276, -949191609);
 }

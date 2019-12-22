@@ -212,7 +212,7 @@ if (fGUs1H4nok < txCs991)
 {
 if ((S6w7u & AKnZoB) || (false))
 {
-if ((mib5Y1vs_j >= txCs991) && ((BLd_Q >= dttFeFPCv) && (Jq7CQ5Aj5 < Vy6Y)))
+if ((mib5Y1vs_j >= txCs991) && ((BLd_Q >= dttFeFPCv) && (true)))
 {
 Nr_8hhd = (int)ceil(kmCiNvr_P);
 }

@@ -151,7 +151,7 @@ Q7_6QY = (int)floor(P1mp);
 break;
 }
 
-if ((false) || ((GsH0A5DTC2 < P1mp) || (YgZiY <= -1834116948)))
+if ((false) || ((GsH0A5DTC2 < P1mp) || (false)))
 {
 if (H3W0F0QZS == Bn5s)
 {

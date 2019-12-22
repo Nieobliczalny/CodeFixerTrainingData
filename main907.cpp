@@ -163,7 +163,7 @@ X004T0Y = EKf2Hop | yENp8;
 }
 else if (true)
 {
-if ((ZovS384a <= 988465065) || ((Z3XN <= PCjhxqB12) && (g78L >= 1260146636)))
+if ((true) || ((Z3XN <= PCjhxqB12) && (g78L >= 1260146636)))
 {
 try
 {
@@ -244,7 +244,7 @@ else if (false)
 {
 g78L = gz_iG1(1809725100, -158437430, 36457142, EKf2Hop);
 }
-else if (X004T0Y > -1314833678)
+else if (true)
 {
 B1P7Z42U6U = t0Pc0IGWc ^ 1940059715;
 }

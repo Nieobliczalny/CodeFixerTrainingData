@@ -70,7 +70,7 @@ if (false)
 {
 BVb_ = (short int)(RGUBMajZ5);
 }
-if ((fu9Jou >= 679030105) && (I0cpc_ != 1262846472))
+if ((false) && (I0cpc_ != 1262846472))
 {
 try
 {
@@ -147,7 +147,7 @@ while (i >= 0)
 --i;
 if (true)
 {
-if ((fu9Jou > 223657320) && (BVb_ != OP522h2))
+if ((false) && (BVb_ != OP522h2))
 {
 znuq_ = n_D5eXw3v(h2X1pf7x0, -1825477714, YdRv8O9m, -15808793, 567792611);
 }
@@ -286,7 +286,7 @@ while (j >= 0);
 }
 else if (true)
 {
-if (BVb_ != -1473062284)
+if (true)
 {
 fu9Jou = (short int)(h2X1pf7x0);
 }
@@ -381,7 +381,7 @@ else if (((c9wW416 & fu9Jou) || (true)) && (ep9v))
 int k = 1;
 do
 {
-Ud24uJ8 = (fu9Jou > 140022224) ? -636302752 : O9G5t(xPq8d393GB, 1491983339);
+Ud24uJ8 = (false) ? -636302752 : O9G5t(xPq8d393GB, 1491983339);
 --k;
 }
 while (k >= 0);
@@ -407,7 +407,7 @@ if (eC6ieQ4 != siz2lDWN3R)
 {
 C9laIB += 1552498670;
 }
-else if ((RGUBMajZ5 <= 731200690) && (eC6ieQ4 != -593031571))
+else if ((true) && (eC6ieQ4 != -593031571))
 {
 RGUBMajZ5 = O9G5t(-1224449565, 1398510203);
 }

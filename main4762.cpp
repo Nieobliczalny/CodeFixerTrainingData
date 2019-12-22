@@ -101,7 +101,7 @@ w46C = f4069O3 / tXlx1FZ;
 
 if ((false) || (v21ih <= hvmi8C))
 {
-if (arKAFr != 1990557973)
+if (true)
 {
 if (nu359 >= -1058341221)
 {
@@ -180,7 +180,7 @@ else if ((w46C == FoA7E6zA) || (Qq4mEe649))
 {
 ndVa1 = (char)(MMBtbf);
 }
-else if (g45hS7kyee > 673708528)
+else if (false)
 {
 switch (poS7e7R1d)
 {

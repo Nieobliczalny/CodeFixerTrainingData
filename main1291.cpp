@@ -115,7 +115,7 @@ G8_3R1_z55 = (false) ? 1626544441 : cO2ZE9Zv;
 }
 else if ((vKPj <= 719184326) || ((DDgzb) && (xkzY0bh)))
 {
-if (((y8J6j == -1284046047) && (EOd4TNu >= -1428108756)) || ((cm8jL0EQ20 <= vKPj) || (RGc02J3_ >= cm8jL0EQ20)))
+if (((y8J6j == -1284046047) && (true)) || ((cm8jL0EQ20 <= vKPj) || (RGc02J3_ >= cm8jL0EQ20)))
 {
 RGc02J3_ = (int)ceil(cm8jL0EQ20);
 }

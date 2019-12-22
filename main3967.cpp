@@ -96,7 +96,7 @@ else if (((true) && (txv8N3Im0O <= KE9254U)) || (sDq_A > Ig3Up))
 {
 iGmaTPpo = (int)ceil(K4wbm);
 }
-else if (BFVs0798_ < S51IC)
+else if (false)
 {
 Mp_9 = (int)ceil(eV00lh_);
 }
@@ -130,7 +130,7 @@ break;
 }
 if (JRR_VBo30v & 1934731265)
 {
-if (((true) && (Ig3Up != iGmaTPpo)) && (CWQX6Kz2G > -2111243900))
+if (((true) && (Ig3Up != iGmaTPpo)) && (true))
 {
 switch (STFj)
 {

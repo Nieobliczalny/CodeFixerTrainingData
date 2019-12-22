@@ -76,7 +76,7 @@ if ((false) && (hImDz3 != k1Zb97z))
 {
 rt8tv = (unsigned short)(tH9W8 * rt8tv);
 }
-else if (Q3wZmfmKh8 >= 350127866)
+else if (false)
 {
 if (hY9Ev1 != XJ520j3)
 {

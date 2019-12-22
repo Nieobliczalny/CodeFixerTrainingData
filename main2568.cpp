@@ -103,7 +103,7 @@ if (hy3W)
 int j = 0;
 do
 {
-if (((dODmO <= 1211283348) && (true)) || ((j4lLXLqa <= -69605253) && (j4lLXLqa != 573581065)))
+if (((dODmO <= 1211283348) && (true)) || ((false) && (j4lLXLqa != 573581065)))
 {
 hy3W = (int)abs(ZtG_J);
 }
@@ -198,7 +198,7 @@ else if (ZtG_J & j4lLXLqa)
 {
 for (int j = 2; j >= 0; --j)
 {
-if (((true) && (uW5yuOP9PB == -521754220)) || ((dODmO < -1982181866) && (j4lLXLqa > 1319052473)))
+if (((true) && (uW5yuOP9PB == -521754220)) || ((dODmO < -1982181866) && (false)))
 {
 uW5yuOP9PB = dODmO | j4lLXLqa;
 }
@@ -402,7 +402,7 @@ uek0ISZn = hy3W << ZtG_J;
 }
 else
 {
-if (((true) || (hy3W >= 1315741294)) && (uek0ISZn != -1673597097))
+if (((true) || (hy3W >= 1315741294)) && (true))
 {
 j4lLXLqa = ZtG_J >> 2080326234;
 }
@@ -454,7 +454,7 @@ std::cout << "l73b6q" << ZtG_J << std::endl;
 }
 else if (((ZtG_J > 1134362266) || (j4lLXLqa)) && (true))
 {
-if ((j4lLXLqa < uek0ISZn) && (hy3W <= -327817198))
+if ((j4lLXLqa < uek0ISZn) && (false))
 {
 ZtG_J = (int)abs(dODmO) + (-1894778953);
 }

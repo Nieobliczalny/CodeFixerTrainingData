@@ -202,7 +202,7 @@ try
 {
 for (int k = 0; k < 9; k++)
 {
-q4VFcnF = (lku_3gQqW < -809865458) ? -1592803665 : Jw11xGpOhq;
+q4VFcnF = (false) ? -1592803665 : Jw11xGpOhq;
 }
 }
 catch (int& errorCode)

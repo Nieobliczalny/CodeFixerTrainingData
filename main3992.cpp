@@ -346,7 +346,7 @@ else if (AgOHu4sOW_ < TF3Y)
 {
 cZ5AZ2 = (int)ceil(o3_N3E);
 }
-else if ((C9PTaiBM != 1409323696) || (z8VnY <= -1258032345))
+else if ((C9PTaiBM != 1409323696) || (false))
 {
 PHNbvVxd = WUHhE4(Q0oG, 2070715664, kVqe, dK_Uf8, u0D0DJ2sK);
 }

@@ -159,7 +159,7 @@ a0PTiIQ5 = rKBYb(a0PTiIQ5, -504466991, pHJq, op_hf);
 }
 op_hf = C_HEjn ^ blX3LvOd2;
 
-if ((false) || ((blX3LvOd2 <= 230647041) && (XiA9RvKA >= -1682107762)))
+if ((false) || ((true) && (XiA9RvKA >= -1682107762)))
 {
 lNWn += 1249057012;
 }
@@ -209,7 +209,7 @@ else if ((true) && (F8tI >= XiA9RvKA))
 {
 WteI4JD = (unsigned short int)(C_HEjn);
 }
-else if (N7tAC6_l_8 > 605120448)
+else if (false)
 {
 {
 int j = 8;
@@ -220,7 +220,7 @@ Q655ze7e--;
 }
 }
 }
-else if (((true) || (v6AVUI)) && ((P57QTf2uQ != OnvMcO) && (dBM1hr9S5w != 2015762394)))
+else if (((true) || (v6AVUI)) && ((P57QTf2uQ != OnvMcO) && (true)))
 {
 NB6z5e3 = (unsigned short int)(lNWn);
 }
@@ -293,7 +293,7 @@ if (((false) && (NB6z5e3 >= F8tI)) && (xrkUfnzO08 <= 350200653))
 {
 G2k4c7EOB8 = op_hf << GewahOj;
 }
-else if ((P57QTf2uQ != 664376259) && (chCG075))
+else if ((true) && (chCG075))
 {
 G2k4c7EOB8 |= 1509605434;
 }
@@ -313,7 +313,7 @@ while (j < 5);
 cout << O_T1oX << "XdmtK73" << c5778zYcx(358845100, -1612810979, 1686769933, 675405321) << endl;
 
 IsC4f73txS = (unsigned short int)(xrkUfnzO08);
-if (((false) && (blX3LvOd2)) || (GewahOj > 1335135158))
+if (((false) && (blX3LvOd2)) || (false))
 {
 C_HEjn = c5778zYcx(C_HEjn, F8tI, 39192772, pHJq);
 }
@@ -568,7 +568,7 @@ else if (false)
 {
 RvjD4 = Asj08mh | lNWn;
 }
-else if (((chCG075 == 246437321) && (NB6z5e3)) || (hRB1Izr < -832101492))
+else if (((false) && (NB6z5e3)) || (hRB1Izr < -832101492))
 {
 N3_a864v1 /= 1656278583;
 }

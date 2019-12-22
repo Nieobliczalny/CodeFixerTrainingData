@@ -121,7 +121,7 @@ int main() {
 
 if ((false) || (l8AEHjeMd))
 {
-if ((iVmV16d <= iZ39DF_) && (p96RWYz < 1835957314))
+if ((iVmV16d <= iZ39DF_) && (true))
 {
 if (sD_jH1_wIJ)
 {
@@ -176,7 +176,7 @@ break;
 }
 
 std::cout << "MneocP" << "vwxz" << CYm9 << CYm9 << Ybhhp << std::endl;
-if (zCiUzCAF4 <= XPtu3k)
+if (false)
 {
 for (int j = 1; j >= 0; --j)
 {
@@ -317,7 +317,7 @@ if (false)
 {
 FT8oc += RGJ_;
 }
-else if (CxzjGk > -1525387073)
+else if (true)
 {
 Ze1nqUj <<= 1419556994;
 }

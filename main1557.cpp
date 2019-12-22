@@ -142,7 +142,7 @@ do
 {
 if (hX7G_AoZ2s > o1AXWHf99)
 {
-if ((false) || (Fy8dS67 >= -1339908564))
+if ((false) || (true))
 {
 K2i0GHFJsA = U1H6W7Lx(1804827999, -20665377, t2K2);
 }
@@ -207,7 +207,7 @@ if (false)
 {
 std::cout << l78q4 << std::endl;
 }
-else if (BrbD6301y == -477007917)
+else if (false)
 {
 if (o009i5p & -1217665987)
 {
@@ -220,7 +220,7 @@ catch (int& errorCode)
 xdwWAR = vkJSSDQ % 267184781;
 }
 }
-else if (((true) && (Y7lEoPMx93 <= 1660133618)) && (BrbD6301y > -1663563401))
+else if (((true) && (true)) && (BrbD6301y > -1663563401))
 {
 for (int k = 9; k >= 0; k--)
 {
@@ -296,7 +296,7 @@ if (nQcVK93)
 {
 for (int j = 0; j < 9; j++)
 {
-if ((false) || ((D_U01 == 390336919) && (hh7gRd7)))
+if ((false) || ((false) && (hh7gRd7)))
 {
 w8u39Y = UlMJnn1_9(E3xB, OU8r1F5M7, LKSOER9, -158869890, T_5_);
 }
@@ -384,7 +384,7 @@ else if (false)
 {
 std::cout << UlMJnn1_9(1510891061, cxu4jC, e58rCM, N02U724GE, -2133210482) << HN18xYp << nk_Od5lu << r6g8CpWZqU << std::endl;
 }
-else if (s3v6Dc == -1374068370)
+else if (false)
 {
 if ((nQcVK93 == 589898978) || (N7cLkvj & -1605737732))
 {
@@ -394,7 +394,7 @@ else if (BrbD6301y == XT3768D)
 {
 G9t7_Px = Y7lEoPMx93 / 202368052;
 }
-else if ((false) || ((LKSOER9 <= 1913370879) || (S_2cdM > 1691896516)))
+else if ((false) || ((true) || (S_2cdM > 1691896516)))
 {
 LdkIR38aX8 = (int)abs(V2j4sa26ae);
 }

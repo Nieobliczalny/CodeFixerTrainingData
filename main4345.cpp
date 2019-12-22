@@ -376,7 +376,7 @@ else if (yHw2q512U)
 {
 m2_07E8 = A2957mB6K2(-58279948, 624824921, N8pT90fmDU) / clBq;
 }
-else if ((w9UjP) && (X8c278d0 < -653305475))
+else if ((w9UjP) && (false))
 {
 SWUFE = cJ41NI0hy6(Y13gWn7no, SWUFE, 2084646900);
 }

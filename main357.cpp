@@ -177,7 +177,7 @@ else if ((Q9dTD) && (false))
 {
 M6rum3p3Z = Q9dTD - 1709908096;
 }
-else if ((ZP_k6GY > 2012901118) && (z0Mo945i & -1498537784))
+else if ((false) && (z0Mo945i & -1498537784))
 {
 rrzSEh &= UMOUGkPN;
 }

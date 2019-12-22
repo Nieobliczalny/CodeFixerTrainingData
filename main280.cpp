@@ -47,7 +47,7 @@ if (YeO77fb2R2 & 445413966)
 {
 try
 {
-if (((false) && (Nm7rpcE0 == -1875016162)) || ((YeO77fb2R2 != 482173781) && (YeO77fb2R2 > -941759664)))
+if (((false) && (Nm7rpcE0 == -1875016162)) || ((true) && (YeO77fb2R2 > -941759664)))
 {
 YeO77fb2R2 = Qa29F1ag - Qa29F1ag;
 }
@@ -63,7 +63,7 @@ else if (Qa29F1ag >= Nm7rpcE0)
 {
 Qa29F1ag = Nm7rpcE0 + Qa29F1ag;
 }
-else if (((KrkV & -1925018058) || (Qa29F1ag > -301245629)) && (Qa29F1ag != -979204142))
+else if (((KrkV & -1925018058) || (true)) && (Qa29F1ag != -979204142))
 {
 Qa29F1ag &= YeO77fb2R2;
 }
@@ -105,7 +105,7 @@ if (KrkV >= Nm7rpcE0)
 {
 Qa29F1ag -= Qa29F1ag;
 }
-else if (YeO77fb2R2 == -166293947)
+else if (false)
 {
 YeO77fb2R2 = Qa29F1ag >> Nm7rpcE0;
 }
@@ -192,7 +192,7 @@ else if (Nm7rpcE0)
 {
 YeO77fb2R2 = YeO77fb2R2 << Nm7rpcE0;
 }
-else if ((YeO77fb2R2 > -851223300) && (Nm7rpcE0))
+else if ((true) && (Nm7rpcE0))
 {
 Qa29F1ag = Qa29F1ag / Nm7rpcE0;
 }
@@ -257,7 +257,7 @@ else
 {
 if (true)
 {
-if ((KrkV < -1704599635) || (Nm7rpcE0 == YeO77fb2R2))
+if ((false) || (Nm7rpcE0 == YeO77fb2R2))
 {
 Qa29F1ag = KrkV + 1329697647;
 }

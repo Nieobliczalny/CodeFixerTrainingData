@@ -289,7 +289,7 @@ if (((pvV302_) && (false)) && (n4D4 >= UGh_l))
 o7f03K = X0791 & hM46eZp6tM;
 }
 }
-else if ((n4D4 < 489073859) || (w0dp18W != WQK9I84))
+else if ((true) || (w0dp18W != WQK9I84))
 {
 if (QIRp < hM46eZp6tM)
 {

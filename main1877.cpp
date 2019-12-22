@@ -387,7 +387,7 @@ if (NMQ_1)
 {
 if ((j9l_kHVCM) || (dAP1_1Q4E <= ArbyHbatu))
 {
-if ((false) || ((S_3msmhw_A == 2068747442) || (Q_obenZ_ < EI5H_)))
+if ((false) || ((false) || (Q_obenZ_ < EI5H_)))
 {
 M_JPNVK6 = jxTJXw5(M_JPNVK6, 328646878, 1275991295, G0MsJ);
 }

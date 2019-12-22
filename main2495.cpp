@@ -163,7 +163,7 @@ else if ((K5rTv96) && (false))
 {
 GRP0Qp = (unsigned short)(J7LkQ_bs_d);
 }
-else if (h4_32FoR != 1633481991)
+else if (true)
 {
 if (jeGnARK & s_020jl)
 {
@@ -265,7 +265,7 @@ else if (yssO & -744236668)
 {
 Q3k_2ZDQ = (true) ? -462837758 : Zn8mtXim(Q3k_2ZDQ, E75g_f, 2008831726);
 }
-else if (J7LkQ_bs_d > -905332863)
+else if (true)
 {
 for (int k = 5; k >= 0; --k)
 {
@@ -397,7 +397,7 @@ else
 {
 if (Ql7T9r_0j6)
 {
-if (((true) || (HFs9 >= GRP0Qp)) && (ULl7l8k > -2002339554))
+if (((true) || (HFs9 >= GRP0Qp)) && (true))
 {
 qMY030q = Zn8mtXim(qMY030q, Ql7T9r_0j6, -1249354495);
 }

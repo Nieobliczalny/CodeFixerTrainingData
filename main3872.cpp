@@ -206,7 +206,7 @@ else if ((false) && (O6lhsp3Ov & 1724706309))
 {
 O6lhsp3Ov = dx4WHZbZ(1053875276, -1427099108, 900175295);
 }
-else if (ORqqKJsx02 > 1719866567)
+else if (false)
 {
 MN4hP4JA = O6lhsp3Ov / 1748398056;
 }
@@ -242,7 +242,7 @@ else if ((ORqqKJsx02) && (false))
 {
 S9_tG5 = (int)ceil(InQ8M);
 }
-else if (O9315 > 363018012)
+else if (false)
 {
 if (fxfNf7pS < P0HO0Bz)
 {

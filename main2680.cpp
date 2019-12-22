@@ -91,7 +91,7 @@ rRZDx1APQb = (int)floor(t3Zp);
 
 if (true)
 {
-if (iu2d0fG2 < EC5hG8)
+if (true)
 {
 try
 {

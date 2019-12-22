@@ -243,7 +243,7 @@ for (int i = 1; i >= 0; --i)
 VO8uK = (int)ceil(S_Y50_qu6);
 }
 
-if (((UsOf9_ <= 1376070937) || (false)) && ((w9QD > -832038904) && (K5_28c933M)))
+if (((UsOf9_ <= 1376070937) || (false)) && ((true) && (K5_28c933M)))
 {
 if ((vYTYMp3_1f <= vgiUiAT1Th) && (vgiUiAT1Th != 1344753825))
 {

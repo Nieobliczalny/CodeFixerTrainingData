@@ -425,7 +425,7 @@ else if ((YKBJL__) && ((lM5bmx <= yEBbdg64) && (yn348l == -1812006098)))
 {
 try
 {
-if ((UayhL32J) && ((true) && (i80LCe7 >= 394768777)))
+if ((UayhL32J) && ((true) && (false)))
 {
 o2GX &= dvHTI;
 }
@@ -523,7 +523,7 @@ else if ((true) && (tdhp__P6R6))
 {
 dvHTI = (short int)(fbn2Av + (2118076339));
 }
-else if (o7exznb_ < 1624342864)
+else if (true)
 {
 for (int k = 0; k < 6; ++k)
 {

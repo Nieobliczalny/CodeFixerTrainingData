@@ -42,7 +42,7 @@ else
 qbu1f57_ = dpF98hy7(DuB5FICsd, T9e15pA, 1829891368);
 }
 }
-else if (((true) && (pjO7 > ugtJnN0T6q)) || ((zI9e & KsTYx2A37) && (hhLFN_Z < -1942325183)))
+else if (((true) && (pjO7 > ugtJnN0T6q)) || ((zI9e & KsTYx2A37) && (false)))
 {
 if (KsTYx2A37 >= 1709821561)
 {

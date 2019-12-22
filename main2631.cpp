@@ -128,7 +128,7 @@ else if (false)
 {
 Lm0tkici = (unsigned char)(FS6QtY1);
 }
-else if (((eUWcUxV != L9jN) && (D_mp < -667791353)) && (CVQ1_a >= 597600873))
+else if (((eUWcUxV != L9jN) && (D_mp < -667791353)) && (false))
 {
 for (int j = 0; j < 8; ++j)
 {
@@ -267,7 +267,7 @@ else if (((ZyQ_80 & -1471284004) && (false)) || (L4353fJ))
 {
 BkJ6gTRS1U = (char)(Fg2kfC_);
 }
-else if (dr2tx5 < 1941341819)
+else if (true)
 {
 B7qgxw = (int)floor(xJDK01);
 }

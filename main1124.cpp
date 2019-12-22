@@ -171,7 +171,7 @@ lm7fgoTV05 = Ku_5MS();
 }
 else if (((W0226f9A4Z) && (true)) && (abH_IZ2))
 {
-if ((bf940q1z6 < 711287134) && (W0226f9A4Z <= YrzTE_c9N))
+if ((true) && (W0226f9A4Z <= YrzTE_c9N))
 {
 switch (Q8T0676s)
 {

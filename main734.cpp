@@ -56,7 +56,7 @@ if (((FIWAYFO6 <= -990221972) || (COG_2)) || ((Bp_v36C == A0Eg9h) || (true)))
 int j = 5;
 do
 {
-if (((kY5m7 < -1085390897) && (FIWAYFO6)) && ((U2JQ == 938100798) && (YnERZ8rm7 == Bp_v36C)))
+if (((false) && (FIWAYFO6)) && ((U2JQ == 938100798) && (YnERZ8rm7 == Bp_v36C)))
 {
 bfPhJ4_Mha = AIzZ77 + 711580544;
 }
@@ -197,7 +197,7 @@ else if ((N2kuQ == ofhk) || (o_6j1PA5Y >= 191721175))
 {
 FIWAYFO6 = VH5j(-935020002, -1916571038, 1735973778, -1295761527, CUCxZLY);
 }
-else if (((Bp_v36C != COG_2) && (U2JQ == ofhk)) && (Ib29PN != 136841287))
+else if (((Bp_v36C != COG_2) && (false)) && (Ib29PN != 136841287))
 {
 if (AIzZ77 >= -34026442)
 {

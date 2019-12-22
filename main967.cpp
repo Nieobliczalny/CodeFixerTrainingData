@@ -243,7 +243,7 @@ if (O339egr == -1357680061)
 b2ok >>= a7m3G;
 }
 }
-else if ((lcML49E & eqX_Uix9G8) && ((u_vJ7F5 < 1137917087) || (eqX_Uix9G8 <= -1180735071)))
+else if ((lcML49E & eqX_Uix9G8) && ((true) || (eqX_Uix9G8 <= -1180735071)))
 {
 switch (eqX_Uix9G8)
 {
@@ -595,7 +595,7 @@ for (int k = 0; k < 7; ++k)
 OG2v = (int)abs(Ll1T1FU5);
 }
 }
-else if (Ma1_N7 >= 1119407766)
+else if (false)
 {
 RuvU4D = (unsigned short)(sqG37sO);
 }

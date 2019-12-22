@@ -133,7 +133,7 @@ Q_4SrVG = sk3M8(-2130023589);
 break;
 }
 }
-else if ((false) || (bbINw2Pg <= -1754530562))
+else if ((false) || (false))
 {
 std::cout << s5p434WN(796695990, aPI6K5qX) << "WTXAN47jl" << B1ZpA5P4dS << std::endl;
 }

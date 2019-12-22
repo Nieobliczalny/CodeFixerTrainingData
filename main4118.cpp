@@ -279,7 +279,7 @@ else
 {
 if ((true) || (i0055o3c96))
 {
-if (QqVz5Z0 != 1073212559)
+if (true)
 {
 QEa1g = j4QYa8 * yvt2LA;
 }

@@ -39,7 +39,7 @@ if ((true) && ((c27F <= vxRJeM) || (M_EdEM75)))
 {
 PO14nS3i1j = KR2Y(721770762, -2108487957, -1601850979);
 }
-else if ((OXk5tZ6KT) || (DgSnM9l46t <= -1069062191))
+else if ((OXk5tZ6KT) || (false))
 {
 {
 int k = 0;
@@ -120,7 +120,7 @@ else if (true)
 {
 if (b7RXu != -1566735987)
 {
-if (G9GE != -1747777451)
+if (true)
 {
 FnaVq0QQ = RLSS(-424247088, L9v4_Hm8, 1369755259, -639726348, -650222854);
 }
@@ -185,7 +185,7 @@ if (gB2B2 & 1391864567)
 {
 wFCZ4j = (unsigned char)(xraY + (-1862963764));
 }
-else if (((false) || (P72cb < 492396003)) && (P72cb <= -340978701))
+else if (((false) || (true)) && (P72cb <= -340978701))
 {
 if (M_EdEM75 != PO14nS3i1j)
 {
@@ -378,7 +378,7 @@ cout << KR2Y(-561291332, ez9N47, 942199636) << "ST3IacGHh9" << endl;
 cout << P72cb << "SIt8" << "RGOHTuX8" << c27F << "H0Bf4V_C" << endl;
 
 c27F /= 274503602;
-if (((xraY > 178957123) || (false)) && (YZV6g5L > -1848648659))
+if (((xraY > 178957123) || (false)) && (true))
 {
 P72cb = LG1D4l0h(1189993327, -51460432);
 }
@@ -394,7 +394,7 @@ j--;
 while (j >= 0);
 }
 }
-else if (((T498c9QQI == gB2B2) || (false)) || (cf1_ != 2119962754))
+else if (((T498c9QQI == gB2B2) || (false)) || (true))
 {
 G9GE = Y3JdRoHo6 | 328311662;
 }
@@ -534,7 +534,7 @@ else if ((L9v4_Hm8 & -814858190) || ((false) && (OXk5tZ6KT & G9GE)))
 {
 cout << ez9N47 << c27F << endl;
 }
-else if (KP3rc4OKR >= 653570802)
+else if (false)
 {
 if ((gB2B2 <= -113874252) || (FnaVq0QQ > ElCjy07bvc))
 {
@@ -576,7 +576,7 @@ DgSnM9l46t = RLSS(DgSnM9l46t, xraY, L9v4_Hm8, dc3P6, 1570014617);
 }
 }
 }
-else if (((false) || (KP3rc4OKR & 1017509181)) && (G9GE != 956306007))
+else if (((false) || (KP3rc4OKR & 1017509181)) && (true))
 {
 cout << kghFn << KR2Y(-1900564665, -1921411944, L9v4_Hm8) << "ahvbt_O" << endl;
 }
@@ -588,7 +588,7 @@ else if (Xx0ByL > -1550859816)
 {
 cout << "KH96R" << RLSS(883923158, 53910802, L9v4_Hm8, -686512613, -976801152) << endl;
 }
-else if ((false) || (OXk5tZ6KT == 1774335373))
+else if ((false) || (false))
 {
 FnaVq0QQ = RLSS(T498c9QQI, FnaVq0QQ, -805985245, 940622306, YZV6g5L);
 }
@@ -654,7 +654,7 @@ if (false)
 {
 DgSnM9l46t = RLSS(-1674924712, 2000096733, OXk5tZ6KT, c27F, pV_7p6T8);
 }
-else if (dc3P6 <= 1815148326)
+else if (true)
 {
 try
 {

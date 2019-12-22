@@ -151,7 +151,7 @@ else if (false)
 {
 std::cout << "uTFXCcbzJ" << "eh7lhX1H" << "Hjx123tt9" << WXUJeMl6gN << Cc52_r << std::endl;
 }
-else if (RUAq9c <= w1PPGT9)
+else if (true)
 {
 try
 {

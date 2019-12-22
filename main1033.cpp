@@ -85,7 +85,7 @@ catch (int& errorCode)
 {
 gIiG9 = eIaMmGq6z / kWyr5;
 }
-if (((true) && (lJRYmr8N3 < zIQPN5DJ74)) && ((h4Ufb <= -186423375) || (GIr2n_UuMX)))
+if (((true) && (lJRYmr8N3 < zIQPN5DJ74)) && ((false) || (GIr2n_UuMX)))
 {
 lJRYmr8N3 ^= Pp5iZav2;
 }

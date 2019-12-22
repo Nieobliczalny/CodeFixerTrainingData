@@ -619,7 +619,7 @@ R4UErh = (wJHxQYO094 <= -332225498) ? 2037784316 : kPK0;
 }
 }
 }
-else if (((cb9TwygENT <= 956259919) && (true)) && (kR0256u5x <= -722199866))
+else if (((cb9TwygENT <= 956259919) && (true)) && (false))
 {
 {
 int j = 7;

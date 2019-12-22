@@ -391,7 +391,7 @@ else if (false)
 {
 e0724YP = (int)abs(c11j49Z0k);
 }
-else if (((F82F >= 1551044082) && (z7hc_Df3i4)) && ((tiwB51 <= -54965201) || (TFyCc >= -299809510)))
+else if (((F82F >= 1551044082) && (z7hc_Df3i4)) && ((tiwB51 <= -54965201) || (true)))
 {
 eXbW6a = LlHoDjr9bA(eXbW6a, KKW2ZBrY);
 }

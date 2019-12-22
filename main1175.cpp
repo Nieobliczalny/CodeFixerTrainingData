@@ -83,7 +83,7 @@ if ((false) && ((oS1J4 < 845772819) && (EV0Gpl9VI > 1256577818)))
 {
 UTTTA = nubaSk8My | 69611731;
 }
-else if ((lX5jJdX2) && ((e9p8 & 152685922) || (lX5jJdX2 == -1212637915)))
+else if ((lX5jJdX2) && ((e9p8 & 152685922) || (false)))
 {
 oS1J4--;
 }
@@ -211,7 +211,7 @@ sK0Q3 = rk01n034_(-1160450745, K14LG, 152915366);
 }
 while (i >= 0);
 }
-if (K14LG >= -1720590194)
+if (true)
 {
 switch (GUCn_L_)
 {

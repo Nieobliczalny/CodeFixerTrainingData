@@ -636,7 +636,7 @@ t_mGKh9c -= 1381172135;
 }
 else if (true)
 {
-if (d93pOgHtB < BA612je4)
+if (false)
 {
 LJH9cZM = (int)abs(Nfq_bDTh);
 }

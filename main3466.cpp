@@ -109,7 +109,7 @@ else if (PR4aB1fd <= M0h8S5)
 {
 w7qq93s1 = x31E360(E19cZ7_zS6, PR4aB1fd);
 }
-else if ((true) && (ygQoIjh4 != XB34fCL7))
+else if ((true) && (true))
 {
 K3RlL3LO >>= ygQoIjh4;
 }

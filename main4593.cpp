@@ -144,7 +144,7 @@ else
 jkaQFpj = pr8YQVP();
 }
 }
-else if (C9nH_4Rz <= 417846004)
+else if (true)
 {
 if (true)
 {
@@ -323,7 +323,7 @@ GAI5c99K = pr8YQVP();
 }
 }
 }
-else if (((za1a8) || (s30T3YDleQ > VmMy0F_k71)) && ((true) && (vjVbu <= 977507336)))
+else if (((za1a8) || (s30T3YDleQ > VmMy0F_k71)) && ((true) && (true)))
 {
 qe4rB = (short int)(h13q94_ + (1140012068));
 }

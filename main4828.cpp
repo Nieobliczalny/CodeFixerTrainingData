@@ -497,7 +497,7 @@ RVPwLj = (int)floor(id36V_24Ho);
 break;
 }
 }
-else if (((tAhh >= G6sS9YBpnf) && (true)) || (yYezZ_ >= -1029081908))
+else if (((tAhh >= G6sS9YBpnf) && (true)) || (true))
 {
 dP507DEv6 = (unsigned short)(yHuYuc);
 }

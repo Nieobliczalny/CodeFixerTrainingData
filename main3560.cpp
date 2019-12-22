@@ -285,7 +285,7 @@ if (c_2L > l_umvX)
 {
 S_31Z = hUfQ1H(1036148009, 5944416, o2i4, -829871783, c_2L);
 }
-else if ((FbEz6f <= lx_JMik1) || ((aW0jYl > 755431060) && (o2i4 != 1929752407)))
+else if ((FbEz6f <= lx_JMik1) || ((false) && (o2i4 != 1929752407)))
 {
 S_31Z = hUfQ1H(zbD_s8Ya, 821085375, 549092539, N1Eo52P8pK, Jgtv);
 }

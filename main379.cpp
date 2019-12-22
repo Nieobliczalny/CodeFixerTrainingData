@@ -34,7 +34,7 @@ if (false)
 {
 Aa29Tya = (int)abs(b6JoxBi4);
 }
-else if ((b6JoxBi4 >= -1038855933) && (hAwgTmW < gdxG3Ss3ro))
+else if ((b6JoxBi4 >= -1038855933) && (false))
 {
 if (T5wyXz2m < dI8KsC4)
 {
@@ -56,7 +56,7 @@ else if (false)
 {
 b6JoxBi4 = P_kQW_ >> PI5Lui;
 }
-else if ((T5wyXz2m > hAwgTmW) && ((hAwgTmW == GCf5OChKyR) || (Aa29Tya > za_OTqDjQ)))
+else if ((T5wyXz2m > hAwgTmW) && ((false) || (Aa29Tya > za_OTqDjQ)))
 {
 b6JoxBi4 = Aa29Tya * T5wyXz2m;
 }

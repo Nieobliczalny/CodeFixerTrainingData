@@ -107,7 +107,7 @@ else
 {
 if (true)
 {
-if (ayDa3G_y9 != -1006100987)
+if (true)
 {
 ekmON = kfoh8O(-895484503, ayDa3G_y9, Qsk74S);
 }
@@ -155,7 +155,7 @@ hf3HS /= cfde0_uNm;
 }
 }
 
-if ((V4fiOM27S <= -1003364266) || (x_J6 == e52s_Jp7B5))
+if ((false) || (x_J6 == e52s_Jp7B5))
 {
 E5A_9J = (unsigned short int)(EP85EE3 + (-1332824046));
 }

@@ -103,7 +103,7 @@ else if ((true) && (BqN3K6Aw0R != cNMMAxp3))
 {
 lox6hTxk0 %= NU33;
 }
-else if (E84cMV > -1725298339)
+else if (true)
 {
 Lp5L_Imkn |= 824451151;
 }
@@ -282,7 +282,7 @@ a623_Oi = BqN3K6Aw0R >> nJ_wMhc5_0;
 }
 else
 {
-if (dDOA_PVH7 == 987099893)
+if (false)
 {
 std::cout << "m9AM" << D2L82iNYo(1817147767, E84cMV, QK2Dmx2J5) << R_SXK0(1238704375, 1815557797, -1267092592) << "vEu7_" << std::endl;
 }

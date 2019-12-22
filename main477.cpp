@@ -40,7 +40,7 @@ if ((W9j0_mW3 == -1176621594) && ((zmnf57 == -992960136) && (false)))
 {
 oGd_Hy6AYx = (kh2552m >= -1337711436) ? w4L52k8Kx8(I6s0495, gCZ5mU6D5l) : oGd_Hy6AYx;
 }
-else if (((kpp0Ul_rUu == -1252300042) || (kh2552m >= -978188234)) || (kh2552m & lYzmUQ))
+else if (((kpp0Ul_rUu == -1252300042) || (true)) || (kh2552m & lYzmUQ))
 {
 if ((Ho7CLE9 <= qZ2k) && (lYzmUQ & KJ__m8))
 {

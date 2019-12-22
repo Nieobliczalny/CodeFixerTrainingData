@@ -85,7 +85,7 @@ else if (unM_8 != WpA_P5f5N)
 {
 std::cout << A2E5LWn << c5Q4_3(unM_8, -741130975, 284424711, dZkb_s9d5I, WpA_P5f5N) << "T89z1eL855" << std::endl;
 }
-else if (((unM_8 >= WpA_P5f5N) && (true)) || (A2E5LWn != -1876513202))
+else if (((unM_8 >= WpA_P5f5N) && (true)) || (true))
 {
 if (A2E5LWn >= -236611290)
 {

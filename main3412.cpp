@@ -117,7 +117,7 @@ int i = 0;
 while (i < 7)
 {
 i++;
-if (((false) || (Rx2p_oRJ > Wrw8S)) || (FJ670Fw <= Ldf48))
+if (((false) || (false)) || (FJ670Fw <= Ldf48))
 {
 switch (T_ZPi)
 {

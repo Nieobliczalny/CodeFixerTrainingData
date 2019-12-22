@@ -96,7 +96,7 @@ t0V54SYM = ZYRmtDQDe | 462950411;
 }
 else if (true)
 {
-fWinm = (CA6HXW != -2070916035) ? qmTVkaT5 : qmTVkaT5;
+fWinm = (true) ? qmTVkaT5 : qmTVkaT5;
 }
 else
 {

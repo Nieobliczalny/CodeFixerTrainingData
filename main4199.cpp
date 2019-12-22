@@ -67,7 +67,7 @@ RJIKy = (unsigned char)(iDoBO9nv4 + (-1518082318));
 k63D2Ng = (unsigned char)(RJIKy);
 fd1b1UM *= 1020902852;
 
-if (((false) && (E4idm2sT57 != 175914750)) || (k63D2Ng == -1674551009))
+if (((false) && (E4idm2sT57 != 175914750)) || (false))
 {
 if (((uQG6_t819N == -1290886698) || (bTu29 != 557586826)) || ((ie8k4QGM) && (PS2Gp74rX < -243615161)))
 {

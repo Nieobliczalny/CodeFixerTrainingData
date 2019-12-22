@@ -585,7 +585,7 @@ else if (false)
 {
 HXdm |= FIMuIBJXI;
 }
-else if ((s0_o9 > -1901029161) && ((P4eFEVRbr) && (w7T4kFQ6 != q29XIgd)))
+else if ((true) && ((P4eFEVRbr) && (w7T4kFQ6 != q29XIgd)))
 {
 YHqh0m--;
 }

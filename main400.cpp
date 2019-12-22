@@ -370,7 +370,7 @@ else if (false)
 {
 OWD0Dzm = l29J_Fu8 ^ 728306906;
 }
-else if ((CFhFlpOm > -1349401946) || (or56VAM97_ <= AzS6g))
+else if ((true) || (or56VAM97_ <= AzS6g))
 {
 gchnh = kBP4_p7(Y20nt);
 }
@@ -398,7 +398,7 @@ int j = 0;
 do
 {
 ++j;
-if (WC2q0AJ13 > -1000554083)
+if (true)
 {
 lUIfE = (int)abs(OWD0Dzm);
 }

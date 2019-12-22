@@ -125,7 +125,7 @@ sV6Io09 = (int)abs(r005zyp3T);
 }
 else
 {
-if ((P70T >= sV6Io09) || (j1EOSJwMp != 1604131931))
+if ((P70T >= sV6Io09) || (true))
 {
 {
 int k = 9;
@@ -178,7 +178,7 @@ else
 Sv5r = (unsigned int)(A8FuA1V4c);
 }
 }
-if (j1EOSJwMp >= 422699279)
+if (false)
 {
 try
 {

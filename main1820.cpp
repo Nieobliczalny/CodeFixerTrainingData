@@ -400,7 +400,7 @@ while (i >= 0)
 {
 try
 {
-if (((rIfr == BOF8) && (false)) || (qusd7pwz >= 581246094))
+if (((rIfr == BOF8) && (false)) || (false))
 {
 T0EMWqq = (int)abs(BD_nhI18Za);
 }

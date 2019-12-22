@@ -97,7 +97,7 @@ Yb_7zEi5 = (unsigned long)(EHFzkY_);
 while (i >= 0);
 }
 
-if (((xbvBFuL != Sk7Q3pCGr0) || (false)) && ((qR43Y1B == -1179810039) && (j3Bk4ls <= -1174999014)))
+if (((xbvBFuL != Sk7Q3pCGr0) || (false)) && ((qR43Y1B == -1179810039) && (false)))
 {
 for (int j = 0; j < 1; j++)
 {

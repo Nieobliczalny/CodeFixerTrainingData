@@ -267,7 +267,7 @@ vsb9R0TY6a = PvqqrkG();
 break;
 }
 }
-else if (Ms71Hf0 != 522624031)
+else if (true)
 {
 vsb9R0TY6a = (unsigned short)(Ms71Hf0 + (-507468942));
 }
@@ -323,7 +323,7 @@ else if (BNNHm8HT & 473076359)
 {
 cF8AP8T = H8g_(1980148737, S_9Qaob3, F0G_bleb_, -842354255, -791739624);
 }
-else if (BNNHm8HT != 1580267625)
+else if (true)
 {
 BNNHm8HT = vsb9R0TY6a * S_9Qaob3;
 }

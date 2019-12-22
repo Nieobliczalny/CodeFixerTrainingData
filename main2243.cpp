@@ -243,7 +243,7 @@ else
 {
 try
 {
-if (((kaMO08P < 1454917623) && (ev65x4q_ >= vUu2_)) || ((dt_kLYQPwL >= K6BPRN9) || (ev65x4q_)))
+if (((true) && (ev65x4q_ >= vUu2_)) || ((dt_kLYQPwL >= K6BPRN9) || (ev65x4q_)))
 {
 vUu2_ = (int)ceil(YPnHf7h2);
 }
@@ -733,7 +733,7 @@ break;
 }
 }
 }
-else if ((false) || (CX4nHs7q < 1322325878))
+else if ((false) || (true))
 {
 if (AEz1944 >= s8mSZi4)
 {

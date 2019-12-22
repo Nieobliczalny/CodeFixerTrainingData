@@ -379,7 +379,7 @@ else if (yVOv2E8U & 1581688378)
 {
 yVOv2E8U = y0uY07(-961203153, -711923465, -1291587273);
 }
-else if ((L89TJ) && (yVOv2E8U == -3309108))
+else if ((L89TJ) && (false))
 {
 L89TJ = hX0Pr1PXQ(-449681846, 50365381);
 }

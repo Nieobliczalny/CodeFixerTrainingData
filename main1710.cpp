@@ -152,7 +152,7 @@ if (true)
 LMHm73ch_0 = (int)ceil(LG94L);
 }
 }
-else if (Q_ew6dYIya >= fe4Eo8WJIw)
+else if (true)
 {
 wR5r = (int)floor(Xg8P4J8);
 }

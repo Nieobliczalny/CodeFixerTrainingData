@@ -42,7 +42,7 @@ while (i >= 0);
 int i = 0;
 while (i < 6)
 {
-if ((true) && ((DT2wuw > -323717043) && (p7X96p4nK & 1507763054)))
+if ((true) && ((true) && (p7X96p4nK & 1507763054)))
 {
 std::cout << M1JZB4_P << ayC3h7_d8 << e_J71YDl(-2106432982, V7ol) << "x_sgX57k" << e_J71YDl(z3725Ui6P6, V7ol) << std::endl;
 }
@@ -227,7 +227,7 @@ for (int k = 0; k < 7; ++k)
 hU8vU = RZKT_Fb(hU8vU, -1080293961, -1094250916);
 }
 }
-else if (((MgkgQ & B7qUbp5) && (DT2wuw & Yw455cN)) && (tEVxY17sv > qT_mTsQm))
+else if (((MgkgQ & B7qUbp5) && (DT2wuw & Yw455cN)) && (false))
 {
 pyGiAF6 <<= 890943391;
 }
@@ -357,7 +357,7 @@ vznv6Wh = e_J71YDl(-523171068, -1010663128);
 }
 else if (true)
 {
-if ((OeC73_0o4z <= qT_mTsQm) || (QqsH == Yw455cN))
+if ((true) || (QqsH == Yw455cN))
 {
 std::cout << "m18_r2y" << std::endl;
 }

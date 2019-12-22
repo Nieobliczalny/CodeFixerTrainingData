@@ -96,7 +96,7 @@ cout << "YIj7O" << Rd55624 << yVeeW1tFr << "IUAYhk3" << endl;
 
 if (true)
 {
-if (((w99h_Aen != -1505720273) || (LeM46Ax5r & -1310886040)) && ((qXrS == 1765477540) || (DLNI & -1031471334)))
+if (((w99h_Aen != -1505720273) || (LeM46Ax5r & -1310886040)) && ((false) || (DLNI & -1031471334)))
 {
 try
 {

@@ -670,7 +670,7 @@ DCZ19x = HO64 ^ 2118379397;
 }
 else if (D2au7sV5s)
 {
-if (rlavb5GREe < -1518714346)
+if (false)
 {
 r1qAR = (int)ceil(dS0BHd9_cj);
 }

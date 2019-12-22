@@ -106,7 +106,7 @@ else
 fio4eLRl0 = km6Km7(fio4eLRl0, xWjMN);
 }
 }
-else if (F6_O_ != 184354460)
+else if (true)
 {
 x8nwI3z8gY = jN07(fio4eLRl0) ^ 443746129;
 }

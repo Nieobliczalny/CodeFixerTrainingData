@@ -153,7 +153,7 @@ std::cout << WoBE(yg97O4, -91465674) << s75Y5czYM << "dxMMyYfPVH" << hKM0OAvcal 
 while (j < 8);
 }
 }
-if (((CJa_OQqI >= ci2tpY) || (false)) && ((TKa9JLZJE3 == 762900326) && (S1_yV != -1131028497)))
+if (((CJa_OQqI >= ci2tpY) || (false)) && ((TKa9JLZJE3 == 762900326) && (true)))
 {
 DpJ0w0b7I = WoBE(DpJ0w0b7I, MG_dw60);
 }
@@ -207,7 +207,7 @@ else if (LR4K59HXx <= 546624986)
 {
 if (Oxue < 2109053380)
 {
-if (((true) && (S1_yV != cmb2cr)) && (nqFr09 >= 1768543169))
+if (((true) && (S1_yV != cmb2cr)) && (false))
 {
 TKa9JLZJE3 = YwN3B0RHHY & nqFr09;
 }

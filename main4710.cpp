@@ -142,7 +142,7 @@ if (false)
 {
 xY2E8A = b2y_q_(-61690279, -1400272585, -357709267);
 }
-else if (oelyDV9 > 797388308)
+else if (false)
 {
 uaX2Q8YO8K = (int)abs(oelyDV9);
 }
@@ -334,7 +334,7 @@ p4z4Bn /= ad14Rcez;
 
 try
 {
-if ((true) && (l17vL >= T2sT_))
+if ((true) && (true))
 {
 {
 int k = 0;

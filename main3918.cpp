@@ -64,7 +64,7 @@ else
 dkSaW = IV6g << 2053803538;
 }
 }
-else if ((F3WLm174p >= 698074681) || (nx2yEw != VasXJ40Xk0))
+else if ((false) || (nx2yEw != VasXJ40Xk0))
 {
 if (D416 <= VasXJ40Xk0)
 {

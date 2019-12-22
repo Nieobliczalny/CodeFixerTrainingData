@@ -159,7 +159,7 @@ U_Z7h = JP6I8F_9c << mA2iv4;
 
 if ((true) && (SIF4w3aE))
 {
-if (b_U_ == -1705813564)
+if (false)
 {
 {
 int k = 2;
@@ -589,7 +589,7 @@ else if (false)
 {
 imSgTa = (int)floor(jl2IATQ);
 }
-else if ((f0x90 == UKQ49yn3M) || (pJ1BOe1Y_ >= 1179352460))
+else if ((f0x90 == UKQ49yn3M) || (false))
 {
 std::cout << f0x90 << SIF4w3aE << U_Z7h << ID3o_UP9A << "APLe" << std::endl;
 }

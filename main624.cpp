@@ -41,7 +41,7 @@ int main(int argc, char** argv)
 w_PnbmNo = (int)(f_6ELRX0XR * w_PnbmNo);
 if (((true) && (b5MBe4C)) && (m664PJ > TCMQpu))
 {
-if ((u7iatU8aT > -530698643) || ((avCw8 == m664PJ) || (byw9 <= 512231095)))
+if ((true) || ((avCw8 == m664PJ) || (byw9 <= 512231095)))
 {
 try
 {

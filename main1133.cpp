@@ -200,7 +200,7 @@ N6b55 &= x7Pnd;
 }
 else
 {
-if ((AhXFS > KLS7Q) || (VBlPVB >= 1540912705))
+if ((AhXFS > KLS7Q) || (false))
 {
 Pzru3L7c = f8I9(-11972366, 775297904);
 }
@@ -362,7 +362,7 @@ if (gBv_57r60E > AhXFS)
 {
 wA81FaSNt -= Pt_t56_Ib;
 }
-else if ((Ina3j3969J != 245031357) || (ue0EPlqoR & 2132625846))
+else if ((true) || (ue0EPlqoR & 2132625846))
 {
 Wmh9D39330 = VBlPVB & 755673492;
 }

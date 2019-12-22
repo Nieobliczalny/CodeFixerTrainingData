@@ -106,7 +106,7 @@ if (((false) || (Yg98 >= VaS0c4UA6)) && (c95LsFA_N >= YYX137F))
 G2F6 = (int)floor(VaS0c4UA6);
 }
 }
-else if (JEeG <= -1460791062)
+else if (false)
 {
 if (VV1bSz2et9)
 {
@@ -233,7 +233,7 @@ else if (false)
 {
 GgFFM += DNGdlJp2;
 }
-else if (((eAmvbUd55_ <= zd_89) || (j6UE74F6 & rfNd8)) && (j6UE74F6 < 1373353814))
+else if (((eAmvbUd55_ <= zd_89) || (j6UE74F6 & rfNd8)) && (true))
 {
 for (int j = 4; j >= 0; --j)
 {

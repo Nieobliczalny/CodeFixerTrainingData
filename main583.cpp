@@ -225,7 +225,7 @@ if (true)
 {
 if (aCjbV > 207899612)
 {
-if ((oKdXpBa & S552_KV) && (s1k_1RGS > -931722399))
+if ((oKdXpBa & S552_KV) && (true))
 {
 J5R0 %= 26570196;
 }
@@ -540,7 +540,7 @@ if (((false) || (l206gvw9w <= gKlF1)) || ((gKlF1 != W89JzV) || (P6wT > t3651)))
 {
 H266Yq = (long)(PCr22kh);
 }
-if (P1_0566M >= 1032567768)
+if (false)
 {
 if (H266Yq != -1860327641)
 {

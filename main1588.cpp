@@ -238,7 +238,7 @@ if ((true) || ((ukKNtg >= 223617930) || (wup5woCR <= -207039432)))
 switch (r_X3NyELY)
 {
 case 0:
-Nz4FTQZiHN = (NpgT7lhkQ5 == -1184142785) ? -1497443940 : u2qA7GC1D2;
+Nz4FTQZiHN = (false) ? -1497443940 : u2qA7GC1D2;
 break;
 case 1:
 Nz4FTQZiHN = pnu1Dt(1630976497, 1785131858, lkaM5UdBll);

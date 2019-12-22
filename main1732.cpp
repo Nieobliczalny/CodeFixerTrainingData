@@ -460,7 +460,7 @@ ryJHBxbl7R = E7_fy3wU();
 }
 }
 }
-else if ((n_07oT == -1121973308) || (fY_y_S <= 883303983))
+else if ((n_07oT == -1121973308) || (true))
 {
 n_07oT = Jro65 >> LsOi2e;
 }

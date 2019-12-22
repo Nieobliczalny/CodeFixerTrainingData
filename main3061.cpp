@@ -28,7 +28,7 @@ if (false)
 {
 c9zHSNaO37 = (int)abs(xBmqJ69_v);
 }
-else if ((Nt1L3SF94 == -487538049) && (xBmqJ69_v & 262018060))
+else if ((false) && (xBmqJ69_v & 262018060))
 {
 for (int j = 4; j >= 0; --j)
 {
@@ -109,7 +109,7 @@ c9zHSNaO37 = clim(c9zHSNaO37);
 }
 else
 {
-if (((false) || (o7I57gPC9 > -787365047)) && (A2Krmy68Tp & 674884253))
+if (((false) || (true)) && (A2Krmy68Tp & 674884253))
 {
 {
 int k = 2;

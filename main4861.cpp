@@ -275,7 +275,7 @@ catch (int& errorCode)
 pcSs = (oZ11g > -1033925952) ? F8X2B3h1j : OR8453u0(-1677429230, 1839174841);
 }
 }
-if ((false) || (L78lKY != 1303691495))
+if ((false) || (true))
 {
 if ((BwqI2Wj == -561162083) && (BwqI2Wj & -1475057512))
 {
@@ -373,7 +373,7 @@ if (J81ON4HpeS >= L78lKY)
 {
 if (true)
 {
-if (MMKo9 > 1894939572)
+if (false)
 {
 Es02a9W6 = OR8453u0(Es02a9W6, -1446976073);
 }

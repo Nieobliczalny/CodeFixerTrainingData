@@ -349,7 +349,7 @@ J3arjQuDt1 = kw9hWmG(151871606, -268592705);
 int i = 0;
 while (i < 5)
 {
-if ((false) || (i1oe_04 >= -1274886138))
+if ((false) || (true))
 {
 {
 int k = 4;

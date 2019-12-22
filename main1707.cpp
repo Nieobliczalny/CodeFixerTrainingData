@@ -47,7 +47,7 @@ H23s3 = K0une25 / BM8Pc;
 KVn_v41V = (short)(zrJ1XaEo);
 if ((F_FBy1h6) && ((true) || (F_FBy1h6 < zrJ1XaEo)))
 {
-if (K0une25 <= -1193722716)
+if (false)
 {
 Y_8eL19H = RK1442O9(X2DV5, -37076770, 955082187);
 }
@@ -68,7 +68,7 @@ SMbdIl = RK1442O9(JcAi1, 672039792, 2077074108);
 }
 else
 {
-if ((KleAWvrp >= zrJ1XaEo) || (d4N0bcTD7 < bIi7VNHG))
+if ((true) || (d4N0bcTD7 < bIi7VNHG))
 {
 if (BM8Pc <= 2099060099)
 {

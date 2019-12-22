@@ -278,7 +278,7 @@ z1HUTS = nH42X8 * rU7zh9V;
 }
 
 sc7Ka = (true) ? 1834709353 : O_GWF4d(K5f3g, o0hZdHr3P, z1HUTS);
-if (Yq8Uk < -1517369207)
+if (false)
 {
 for (int j = 0; j < 2; ++j)
 {

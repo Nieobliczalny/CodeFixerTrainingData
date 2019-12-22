@@ -90,7 +90,7 @@ if (((o47J & UojvB7g) && (n3z_ == UojvB7g)) && ((true) || (o47J)))
 {
 AIkZu = (int)ceil(Yx26);
 }
-else if (o47J <= 1841536859)
+else if (true)
 {
 EB2bs4 = ZNnavh0C2(950218022, -221504792, -1325447586);
 }
@@ -213,7 +213,7 @@ if (a2oY)
 {
 skqjs8 = (long double)(o47J + (422082976));
 }
-else if (t8p1H9_ <= -486929426)
+else if (false)
 {
 if (o47J)
 {

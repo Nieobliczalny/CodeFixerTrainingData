@@ -873,7 +873,7 @@ else if (false)
 {
 FdaGa = v5wAxBU();
 }
-else if ((Ts7n_Aq > Z1civ0H) && ((UTXe == 1215921755) || (ea2E1 < 56032860)))
+else if ((Ts7n_Aq > Z1civ0H) && ((UTXe == 1215921755) || (true)))
 {
 if (vu9y_ < eLi90_gn)
 {

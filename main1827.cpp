@@ -202,7 +202,7 @@ else if (((FKnn8u2 == -536370972) || (false)) || (g8WL62b >= -495373980))
 {
 F1cqg = (int)floor(rg0472_e);
 }
-else if (Lb3IOGXn != 383006693)
+else if (true)
 {
 LwB_HSk = ioyav_c();
 }

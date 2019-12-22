@@ -259,7 +259,7 @@ UXN2 = (int)abs(q4zy);
 }
 else if (CZT85)
 {
-if (((Y_7tXz < OfVqfi96) && (LdsEg6Jrn >= -1480986591)) || (a8s_W0 != ib8jhN9))
+if (((true) && (LdsEg6Jrn >= -1480986591)) || (a8s_W0 != ib8jhN9))
 {
 yQvcq4e = G_hE4w9(yQvcq4e, DFzK5U8Fn_, 1823362671);
 }
@@ -463,7 +463,7 @@ std::cout << z56MLaV25 << eXlF82 << G_hE4w9(CZT85, TW41rFE, -1259680273) << std:
 
 UYsr_E0qzT = (int)abs(cn4ku_);
 
-if (((true) || (azDIGtlt)) && ((K8fY51 < -1886282299) && (DVMA >= OfVqfi96)))
+if (((true) || (azDIGtlt)) && ((false) && (DVMA >= OfVqfi96)))
 {
 switch (n1Di)
 {

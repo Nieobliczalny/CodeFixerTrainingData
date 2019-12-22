@@ -249,7 +249,7 @@ else if (nwKN == OiH6bw1)
 {
 for (int j = 6; j >= 0; --j)
 {
-if (((true) && (pwt9fJ7or)) || (b_tt3_OJS >= O_R34ZyEW_))
+if (((true) && (pwt9fJ7or)) || (true))
 {
 Kp3_5ca = R_0rsa(Kp3_5ca);
 }

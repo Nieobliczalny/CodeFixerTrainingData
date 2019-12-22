@@ -491,7 +491,7 @@ if (CgCp_qhz5 > lL3tY4)
 {
 sU_67JL1Z = (int)ceil(ckQkjdph);
 }
-else if (PQYn >= l__2VG3Zow)
+else if (false)
 {
 N6U8_Ig = (short int)(BzGSD_);
 }
@@ -616,7 +616,7 @@ if (SJAtoo != e8ZivfF7O)
 {
 ZvMcLn = V7VkY46m5();
 }
-else if (q91Sa_bZ <= 267017329)
+else if (true)
 {
 UvoX_7w = cOpYM - 1275403899;
 }

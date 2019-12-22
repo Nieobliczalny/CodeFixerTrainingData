@@ -340,7 +340,7 @@ if ((false) && (yK32UZS_8a == WhUz2))
 {
 sNfeGQE4ZV = (int)floor(v5j72c3A);
 }
-else if (Q0jVdsqv7q > 1727083850)
+else if (false)
 {
 switch (sVFkFTFL)
 {

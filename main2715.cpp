@@ -472,7 +472,7 @@ if (sAw5UA3yf & XyinK)
 {
 K3j_GHH = (short)(UEo_82_);
 }
-else if ((false) || ((lPW5LE > 679606349) || (yHLqRA != M0S4Fk6)))
+else if ((false) || ((false) || (yHLqRA != M0S4Fk6)))
 {
 YwM3Rmw = (short)(M0S4Fk6);
 }

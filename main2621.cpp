@@ -360,7 +360,7 @@ while (k >= 0);
 }
 }
 }
-else if (((false) || (ESloKlGYt < -370418047)) || ((yc4YbH == E4yB) || (Lml3 <= -1028662690)))
+else if (((false) || (false)) || ((yc4YbH == E4yB) || (Lml3 <= -1028662690)))
 {
 switch (MA2vs)
 {

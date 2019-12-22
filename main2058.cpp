@@ -466,7 +466,7 @@ else if (TOQb_2cxc)
 {
 eC0P9P_d4 = ExE56(-525220464, 441536995, j5af2q6u_);
 }
-else if (w_zz <= 1861862068)
+else if (true)
 {
 qXnsVAxEu = (int)floor(jvJL);
 }

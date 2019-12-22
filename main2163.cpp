@@ -250,7 +250,7 @@ else if (kKG79S < 550474149)
 {
 LKX_r %= ENPq;
 }
-else if (((hcF19B0m < -1782740976) || (HUbEVXGHx8 >= Y0_L)) && (hcF19B0m > qD1oP79))
+else if (((false) || (HUbEVXGHx8 >= Y0_L)) && (hcF19B0m > qD1oP79))
 {
 hcF19B0m |= 2073621987;
 }

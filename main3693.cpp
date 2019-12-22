@@ -224,7 +224,7 @@ else
 {
 z87_XvpeVX = (int)(w63mF11W);
 }
-if ((L31cd55) && ((BFZ54nUBq <= 1182265083) && (yrUr_w < 530855057)))
+if ((L31cd55) && ((true) && (yrUr_w < 530855057)))
 {
 for (int j = 1; j >= 0; j--)
 {

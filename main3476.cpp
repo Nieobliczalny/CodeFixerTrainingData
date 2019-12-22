@@ -310,7 +310,7 @@ else if (false)
 {
 RheeHD_71 = SRfuFjAK5 - zn87_Yh;
 }
-else if (XDMn1 != 1008642563)
+else if (true)
 {
 if (U442k2dq48 > f2fpxsbDZ0)
 {
@@ -370,7 +370,7 @@ QmZ5Kjk5 = (unsigned short)(w7VOWl);
 int i = 0;
 do
 {
-if (((true) && (UsDh == -1521433848)) && (U0iHhnB > E68B0))
+if (((true) && (false)) && (U0iHhnB > E68B0))
 {
 SRfuFjAK5 = (int)abs(VHhV);
 }

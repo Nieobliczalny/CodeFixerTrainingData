@@ -162,7 +162,7 @@ else if ((tmysH != PP__C0OI2H) && ((hO_9yU97) && (q_4ffz != 276810775)))
 {
 oNT2d608 &= hO_9yU97;
 }
-else if ((false) || (l79X51951P == 1674300371))
+else if ((false) || (false))
 {
 PP__C0OI2H = iYmIOs4z(PP__C0OI2H, hO_9yU97);
 }
@@ -303,7 +303,7 @@ j--;
 
 if ((WMAz68x != -961657748) || (true))
 {
-if ((PP__C0OI2H != -1314648573) || (XRrUBamoDg < 476890580))
+if ((PP__C0OI2H != -1314648573) || (true))
 {
 hO_9yU97 <<= b_OSF3;
 }

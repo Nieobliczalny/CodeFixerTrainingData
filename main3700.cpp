@@ -166,7 +166,7 @@ std::cout << UfB7rd6(SCGH7N0, DTw8) << "S_HC8" << UfB7rd6(325047295, DTw8) << Uf
 }
 }
 
-if (((oz7TCGfi & NQVog96JZT) && (true)) || ((p9tqMKVZN == f0mr0vG) && (j3ccVZ0 <= 1769676469)))
+if (((oz7TCGfi & NQVog96JZT) && (true)) || ((p9tqMKVZN == f0mr0vG) && (true)))
 {
 AWGBu80 = UfB7rd6(-1601743682, -2091121548);
 }

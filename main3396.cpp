@@ -96,7 +96,7 @@ int i = 0;
 do
 {
 i++;
-if ((false) || (aGi4D == -1660807461))
+if ((false) || (false))
 {
 A5s0B261 *= y618l8;
 }
@@ -251,7 +251,7 @@ else
 {
 std::cout << g10g_S_(2039321782, KlbB8XfKi, -1325695606, -1978935577, Da0Gb2ccY) << "I_k2iX0wJ" << vSr3M_zrAI() << std::endl;
 }
-if (((false) || (zoX3Y89w < dbKP)) && ((W4X_nN & Uk08xe57S) || (bPY9rS)))
+if (((false) || (false)) && ((W4X_nN & Uk08xe57S) || (bPY9rS)))
 {
 {
 int j = 10;
@@ -425,7 +425,7 @@ catch (int& errorCode)
 cp4WgitV *= oH59072e2;
 }
 }
-else if ((false) || ((y0853 >= 236813315) && (ngTe70L_ != X36L)))
+else if ((false) || ((false) && (ngTe70L_ != X36L)))
 {
 if (cp4WgitV != Uk08xe57S)
 {

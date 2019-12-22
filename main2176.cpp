@@ -173,7 +173,7 @@ i--;
 int j = 0;
 do
 {
-if (((true) || (x86F3gg == T38D)) && (R9ev8w3iyS == 729098734))
+if (((true) || (x86F3gg == T38D)) && (false))
 {
 GOIm_N9n_r &= T5ue3QV;
 }
@@ -281,7 +281,7 @@ cout << "GW62oM8A34" << "aGx02C5" << lAnN_yC02 << endl;
 }
 else if ((true) || ((CkrO0 == -1423322512) || (u7d8Khp5J <= mJ3DnTg6g)))
 {
-if (yT_vT8r <= -733167927)
+if (false)
 {
 CkrO0 = tnfZ2(CkrO0);
 }

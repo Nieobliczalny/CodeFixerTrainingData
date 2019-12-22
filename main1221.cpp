@@ -328,7 +328,7 @@ else if (false)
 {
 lN8W_a4Cl--;
 }
-else if (yXq1_q8 > -917081297)
+else if (true)
 {
 a_zbHZQOk = MaGSe ^ Jtw_bro;
 }

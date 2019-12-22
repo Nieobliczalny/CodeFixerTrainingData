@@ -63,7 +63,7 @@ if ((false) || (s6VX))
 {
 for (int j = 0; j < 9; ++j)
 {
-if (P8REwb < 1211250959)
+if (true)
 {
 XWBV3m7O4 = NJl2(XWBV3m7O4, OJSranAM);
 }
@@ -97,7 +97,7 @@ uxl1 = (unsigned char)(v_SkT_ + (1069713316));
 }
 else
 {
-if (OJSranAM == 1187329049)
+if (false)
 {
 if (v_SkT_ <= 1991080213)
 {
@@ -138,7 +138,7 @@ else if (XWBV3m7O4 & 1089182045)
 {
 XWBV3m7O4 = NJl2(-561538005, v_SkT_);
 }
-else if (((BsXdtGX5m5 == -1988684992) || (OJSranAM >= 159159414)) || ((kz6uxPaR == W4zJd3) || (Mzl8qA3v == E1M90)))
+else if (((false) || (OJSranAM >= 159159414)) || ((kz6uxPaR == W4zJd3) || (Mzl8qA3v == E1M90)))
 {
 OJSranAM -= s6VX;
 }
@@ -396,7 +396,7 @@ np0N6umD3 &= BsXdtGX5m5;
 }
 else if (true)
 {
-if (Mzl8qA3v < -829939554)
+if (false)
 {
 BsXdtGX5m5 = np0N6umD3 + P8REwb;
 }
@@ -490,7 +490,7 @@ else if (false)
 {
 OJSranAM = Tp7H2d();
 }
-else if (P8REwb != 550688848)
+else if (true)
 {
 std::cout << kz6uxPaR << Tp7H2d() << "tJ15" << Rw5l4232f(OJSranAM, np0N6umD3, -1892910018, v_SkT_, P8REwb) << std::endl;
 }

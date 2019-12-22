@@ -174,7 +174,7 @@ while (k < 2);
 }
 }
 
-if ((IdwI8Ef_7l < l0_c9Y) || ((false) || (DjnX_4w5 > 1565502659)))
+if ((IdwI8Ef_7l < l0_c9Y) || ((false) || (false)))
 {
 try
 {

@@ -221,7 +221,7 @@ break;
 }
 else if ((B4lD1b1) && (T9d3_JrHVI >= wDj53))
 {
-if ((false) || (CKT5p41E >= 366730209))
+if ((false) || (false))
 {
 if (f3X491 < llX7)
 {

@@ -296,7 +296,7 @@ catch (int& errorCode)
 S9jUz--;
 }
 }
-else if (((m03Fho == -369810355) || (true)) && (K3Ow >= -881790944))
+else if (((m03Fho == -369810355) || (true)) && (true))
 {
 if (((kJO8S != -1994118129) && (S9jUz)) || (Yn8P_CO < 7090865))
 {

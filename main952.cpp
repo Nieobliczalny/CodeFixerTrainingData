@@ -136,7 +136,7 @@ else if (false)
 {
 WORSbpS4k = (unsigned int)(vaB6tew);
 }
-else if (koYecHe != 398099694)
+else if (true)
 {
 try
 {

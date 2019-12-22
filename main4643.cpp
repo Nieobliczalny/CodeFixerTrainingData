@@ -157,7 +157,7 @@ if (((true) && (ciO0Qg0 & YJ9Aw7E6)) || ((g8PQ3_f5m7 < Zap7E22j) && (mDVfMp5 <= 
 {
 G4c0e = y_6AzLcLM(G4c0e, EC4QGS, D_g0idSH);
 }
-else if (pXV1_g_6z4 < YJ9Aw7E6)
+else if (false)
 {
 for (int j = 2; j >= 0; --j)
 {

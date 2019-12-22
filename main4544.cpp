@@ -72,7 +72,7 @@ while (i < 7);
 vnM_Nk = (unsigned short int)(l31tJ6);
 if (true)
 {
-if (k5VWj_ZF == -559561610)
+if (false)
 {
 std::cout << OD7zJ03K << hX86s << "Xbp7Qh7W" << std::endl;
 }
@@ -126,7 +126,7 @@ Qp8d = (unsigned short int)(l31tJ6);
 }
 else if ((false) || (P_5_itgG >= uUt6Asij))
 {
-if (IFu0NI6d == 737253397)
+if (false)
 {
 switch (qw_6Ne3vrR)
 {
@@ -179,7 +179,7 @@ if (K1X16R < Pt8Y)
 {
 kVsptr--;
 }
-else if (fCup9UbdRE == -297161727)
+else if (false)
 {
 jqYoI1S85--;
 }

@@ -91,7 +91,7 @@ i++;
 }
 while (i < 7);
 }
-if (((PkaA > hnEM2yI2) || (O868UEORPN & Va92Ez7)) || ((false) || (F67dwi8 < 1508193038)))
+if (((PkaA > hnEM2yI2) || (O868UEORPN & Va92Ez7)) || ((false) || (true)))
 {
 for (int j = 0; j < 4; j++)
 {
@@ -261,7 +261,7 @@ j++;
 while (j < 10);
 }
 }
-else if ((true) && (aNtdv_wr < 732498860))
+else if ((true) && (true))
 {
 d7MWkz = GrkpE();
 }
@@ -317,7 +317,7 @@ int j = 5;
 do
 {
 j--;
-if (((SljC5 > F67dwi8) || (false)) && ((T5Y4 >= 1148647827) || (J2F4W50MuB == YrR0Xh_nF)))
+if (((SljC5 > F67dwi8) || (false)) && ((false) || (J2F4W50MuB == YrR0Xh_nF)))
 {
 VYKj = PkaA % 191588330;
 }

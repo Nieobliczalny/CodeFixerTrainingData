@@ -226,7 +226,7 @@ uSvhNKT |= 1332540455;
 int i = 10;
 while (i >= 0)
 {
-if ((true) && ((W145443_n == 603307298) || (j8a3_Ezw > 1319742951)))
+if ((true) && ((false) || (j8a3_Ezw > 1319742951)))
 {
 switch (G32ve)
 {

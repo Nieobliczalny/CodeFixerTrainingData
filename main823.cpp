@@ -485,7 +485,7 @@ else if (W_81hf18f & -2037668897)
 {
 u6TKHjf18H = J_cR(u6TKHjf18H, -102786568, -1975774078, 780632985, 297331100);
 }
-else if ((cy6WN8 < 779233371) || ((SBuz) && (aNsDSqw < 1029118963)))
+else if ((true) || ((SBuz) && (aNsDSqw < 1029118963)))
 {
 nlZhCVAK += lEw9f;
 }

@@ -326,7 +326,7 @@ if (false)
 std::cout << oys3X80 << std::endl;
 }
 
-if ((j772rGo >= mKGmrx) || (qbZA != L4_Lg5SKSZ))
+if ((false) || (qbZA != L4_Lg5SKSZ))
 {
 ZYF9IjGRq6 = (unsigned char)(qbZA + (mKGmrx));
 }

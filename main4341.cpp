@@ -269,7 +269,7 @@ std::cout << sg99(S08gwn, Jh7t885Cy, UxHetlA80, 1015052754, N9eiXYoK) << "x8F7rj
 }
 else
 {
-if (QacF > -1773534600)
+if (true)
 {
 {
 int k = 0;

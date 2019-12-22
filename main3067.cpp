@@ -428,7 +428,7 @@ while (i < 5);
 
 Od0WB9_aa = (true) ? -1787140443 : 893612587;
 
-if (Pt_Ih60k3 < -1453082696)
+if (false)
 {
 switch (fF46yB6W86)
 {

@@ -150,7 +150,7 @@ catch (int& errorCode)
 {
 c6b47S_xM1 = JUe4rN8p(c6b47S_xM1, ZIxHfWU, 1202691848);
 }
-if (((true) || (zZT7)) && ((ZIxHfWU <= 301680006) && (BBIfgTq != -1403267044)))
+if (((true) || (zZT7)) && ((ZIxHfWU <= 301680006) && (true)))
 {
 FotoDPa <<= 100093279;
 }

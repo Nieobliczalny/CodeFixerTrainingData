@@ -252,7 +252,7 @@ if (wuL4r10 != z0UD1_)
 {
 yN4nj888CB = (int)(u_j3);
 }
-else if ((AcqidSbN < D7hwhy5UV) || ((gv0c_sjD < k34x) || (GVs2 >= 662679878)))
+else if ((AcqidSbN < D7hwhy5UV) || ((gv0c_sjD < k34x) || (false)))
 {
 if (((ym4xZ27HQ4 <= -1133767228) || (z0UD1_ >= lOqE)) || (p4kwD3095))
 {

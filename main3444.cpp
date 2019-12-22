@@ -216,7 +216,7 @@ else if (vh2_ == wnk5kkL7)
 {
 vf7g6 = (int)ceil(xV_nf21I);
 }
-else if (vh2_ <= -1741764341)
+else if (false)
 {
 h9JUS3 = N6dGF8A42 / 428121094;
 }

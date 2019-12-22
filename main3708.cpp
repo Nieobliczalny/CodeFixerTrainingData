@@ -77,7 +77,7 @@ int main(void)
 
 if (true)
 {
-if (((yq7ShVmh77 == 1566376154) || (hpn__7TW == 1667890740)) || (H2CpptMB > NA4FJpmbGU))
+if (((false) || (hpn__7TW == 1667890740)) || (H2CpptMB > NA4FJpmbGU))
 {
 try
 {
@@ -90,7 +90,7 @@ JDy4mULbm += 722167524;
 }
 else
 {
-if ((false) || ((Yva67 < -1853807333) || (ug2o1_5hz != -457107206)))
+if ((false) || ((false) || (ug2o1_5hz != -457107206)))
 {
 h58edL = UN_2CICm % 2105369067;
 }

@@ -512,7 +512,7 @@ int i = 0;
 do
 {
 ++i;
-if ((true) && (PY2yfD01t7 == 213609756))
+if ((true) && (false))
 {
 if (i2m_ >= 446168049)
 {
@@ -584,7 +584,7 @@ else if (((r_jX2N < B4lWG4) || (false)) && ((S9TT == PY2yfD01t7) || (DRb_ly9_6 &
 {
 B4lWG4 = (int)abs(Kp_3k_);
 }
-else if (((B4lWG4 == -1840971010) || (lxR8fsK != KwaCW_T)) && (cUxZ76 >= 1006709001))
+else if (((false) || (lxR8fsK != KwaCW_T)) && (cUxZ76 >= 1006709001))
 {
 IFhZ3eFj >>= T9h6;
 }
@@ -834,7 +834,7 @@ else if ((WOogweNv <= 388872234) && (true))
 {
 WOogweNv = r_jX2N - 1276653801;
 }
-else if (GmajX1 != -1656249845)
+else if (true)
 {
 s93wfDrx5 = (int)floor(HiR_F2T);
 }

@@ -153,7 +153,7 @@ XV0W6H += Sto75Qg8;
 }
 else if (true)
 {
-if (W_2L6h7Y1 > -1598465121)
+if (true)
 {
 w3BVBIefc = (jxMz2i) ? I5O36P4gs : pj7e9h0_;
 }
@@ -219,7 +219,7 @@ if (w3BVBIefc != N44O5K)
 {
 std::cout << IUOr2(r2Dy) << std::endl;
 }
-else if (r2Dy < PP6_x)
+else if (true)
 {
 bs0W5h__C_ = (unsigned char)(K42h28Z6e);
 }

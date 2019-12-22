@@ -286,7 +286,7 @@ if (oG3kf0P9Aw & -1480374)
 URWukDG &= 323996858;
 }
 }
-else if (((true) || (URWukDG < -1394819676)) && (JQ90 != -1246420053))
+else if (((true) || (URWukDG < -1394819676)) && (true))
 {
 std::cout << p3nSjufC(JQ90, oG3kf0P9Aw, Qvf46H0) << Qvf46H0 << "l1crvts" << std::endl;
 }

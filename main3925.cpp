@@ -260,7 +260,7 @@ FPVl8Ikc_ = (char)(Kr5hF6616w);
 
 if (true)
 {
-if (n0R1hN != PL781344CT)
+if (true)
 {
 uJ_Rd++;
 }

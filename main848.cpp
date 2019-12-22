@@ -196,7 +196,7 @@ else if (E4f3VN_ & -974339615)
 {
 try
 {
-if ((true) && ((l_Q_ >= -1266824743) || (N7h9vg_ != vi6wI163nn)))
+if ((true) && ((true) || (N7h9vg_ != vi6wI163nn)))
 {
 KipAFdf5n -= tQyz8O01G;
 }

@@ -283,7 +283,7 @@ if (L3YZndn01 >= OVd7)
 {
 Z7h0 = (int)ceil(b38ZRhBmmv);
 }
-else if ((true) && (q_r4u >= -863717286))
+else if ((true) && (true))
 {
 if (Y_26 > 953005886)
 {

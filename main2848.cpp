@@ -235,7 +235,7 @@ if (((WPX_3HTk6_ < 524064983) || (dQ61F > zfEiy)) || (false))
 T0up8v8S = (int)abs(thao3I);
 }
 
-if (FmKc9 <= 1611860949)
+if (true)
 {
 {
 int j = 0;
@@ -478,7 +478,7 @@ else if (P5Sj == -1254907392)
 {
 E681Cz /= HlL9SLVPy_;
 }
-else if (pb799nh > Tggj6d78)
+else if (true)
 {
 T0up8v8S = PXSuP6(NZ8bjFel, fs35a, 2036135536, v21bWVd4) | 67722230;
 }

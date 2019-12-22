@@ -285,7 +285,7 @@ DC5ZBjDA = (true) ? P8jyQt6C(saubY35E1, -751806722, 1784349892, rbKtVc) : P8jyQt
 break;
 }
 }
-else if (Qomr4l8G != -1683481538)
+else if (true)
 {
 if (n5yXuvH < hE7Z3)
 {

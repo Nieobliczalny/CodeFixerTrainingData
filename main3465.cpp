@@ -85,7 +85,7 @@ f3p_bX = (unsigned short int)(G_NI1s);
 }
 else
 {
-if (fadyDL > -1036805713)
+if (true)
 {
 f3p_bX *= G_NI1s;
 }
@@ -101,7 +101,7 @@ else if ((false) && (O2AjM != -418225910))
 {
 Z79j = ulr1gROA1();
 }
-else if (G_NI1s >= -1498836732)
+else if (true)
 {
 G_NI1s = ulr1gROA1();
 }

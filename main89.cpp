@@ -555,7 +555,7 @@ for (int i = 5; i >= 0; i--)
 {
 if (true)
 {
-if (z0Jp21Ni62 > -1426340070)
+if (true)
 {
 s4FzT = DY_K0wE71T(969773902, agF0, 875445949, IR90, sB876_rt);
 }

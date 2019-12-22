@@ -218,7 +218,7 @@ try
 {
 if ((LW98_3 > HAq4C) && (ZsphXV8i == BYpYN6m))
 {
-if (((true) && (FYjH > 1928324685)) && (ddAU8w_ < 572314974))
+if (((true) && (false)) && (ddAU8w_ < 572314974))
 {
 O97jP <<= 835336296;
 }

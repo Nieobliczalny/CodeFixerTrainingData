@@ -36,7 +36,7 @@ int main() {
   short int  n38021khwg  =  36898556;
 
 L2wB81y6J -= d8T9j;
-if (((d8T9j >= 1569852909) || (false)) || (ypbu5S <= 1261541325))
+if (((d8T9j >= 1569852909) || (false)) || (true))
 {
 {
 int j = 0;
@@ -399,7 +399,7 @@ if ((false) || (igjUIZ > -1567845599))
 {
 MXqyE = c6ZXdke6ww(1546697513) | 1370486175;
 }
-else if (n38021khwg > -1438287715)
+else if (true)
 {
 AnakAM9a0 = (int)ceil(d8T9j);
 }

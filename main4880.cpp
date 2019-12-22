@@ -98,7 +98,7 @@ if (NWpEj & 848675966)
 {
 if (((true) || (YDQi6yoA <= 798955774)) || (a773 > 658674754))
 {
-if (j_0r3Hy_a > 997583689)
+if (false)
 {
 cJ727 = (int)floor(dnyDN066R);
 }

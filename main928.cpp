@@ -92,7 +92,7 @@ while (i >= 0);
 
 if (true)
 {
-if (Vt_RJi7n > -535680442)
+if (true)
 {
 for (int k = 10; k >= 0; k--)
 {

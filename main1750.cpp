@@ -94,7 +94,7 @@ else if (j7jNs <= -206464239)
 {
 r5bE5F0 = (int)ceil(mHba);
 }
-else if ((ULzsT0i_r == 660726403) && (Wb5q != pxc8L5EL2G))
+else if ((false) && (Wb5q != pxc8L5EL2G))
 {
 E2qE = eSAslR1(bd9b, 1396356487, ZLeG4y_);
 }

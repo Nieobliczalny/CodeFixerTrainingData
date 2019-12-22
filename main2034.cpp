@@ -145,7 +145,7 @@ else if (false)
 {
 Gh707ZW = COrg02C << q9Vo;
 }
-else if (aUm9MI == -2070664944)
+else if (false)
 {
 OG1oDS ^= 1178540306;
 }
@@ -251,7 +251,7 @@ while (i >= 0);
 
 if ((true) || (z14mQIMS2 > 1884946312))
 {
-if (wQv3w1_Gi != -1211471081)
+if (true)
 {
 std::cout << Gh707ZW << ELKM1e << x6_4b << "nUVK" << std::endl;
 }
@@ -332,7 +332,7 @@ for (int j = 0; j < 7; j++)
 z14mQIMS2 &= 697415333;
 }
 }
-else if (x6_4b != -1620388874)
+else if (true)
 {
 {
 int j = 0;
@@ -353,7 +353,7 @@ while (k < 5);
 }
 else if (true)
 {
-if (a4yfA > -24654624)
+if (true)
 {
 {
 int k = 5;
@@ -423,7 +423,7 @@ while (i >= 0)
 {
 if ((true) || (wQv3w1_Gi <= 304223119))
 {
-if ((a4yfA >= -1639864521) && (gas9Pi7 > 1604741293))
+if ((true) && (gas9Pi7 > 1604741293))
 {
 aUm9MI = DH_b(-789249291, M9ADB4);
 }

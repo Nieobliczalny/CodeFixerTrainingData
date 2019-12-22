@@ -206,7 +206,7 @@ int j = 0;
 while (j < 10)
 {
 ++j;
-if ((false) || (XdNE == -1032001292))
+if ((false) || (false))
 {
 cxeia1G = ibYoGn(O09cKWK9Y, 2043547578, -352374139);
 }
@@ -356,7 +356,7 @@ if (x5SM5rNOg & -793057248)
 {
 for (int j = 1; j >= 0; --j)
 {
-if (((true) && (zZ9Uc7 > Nbm5Jv7)) && ((H7OPP1m >= -1464592158) || (Q_c_c >= -1054746090)))
+if (((true) && (zZ9Uc7 > Nbm5Jv7)) && ((true) || (Q_c_c >= -1054746090)))
 {
 wMGocO3o = vzBom0 ^ 418701667;
 }

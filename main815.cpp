@@ -262,7 +262,7 @@ LHHs7FzT = DPr0B0z(-668008974, I8__8u7_23, z82XA);
 }
 else if (eU3_f)
 {
-if (((true) && (cfRxwr0w_6)) || (g2673S < 1982912989))
+if (((true) && (cfRxwr0w_6)) || (true))
 {
 gv2Ts9Lv >>= 1075439484;
 }

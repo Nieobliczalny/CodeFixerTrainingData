@@ -412,7 +412,7 @@ n_Ffx_A = (int)floor(d3v6PzK);
 }
 else
 {
-if ((true) && (E340_Y == YtCi))
+if ((true) && (false))
 {
 Py6X8c = vb85Qj7(1185355202, -2084184168, EWXq, -367675207, 117297333);
 }
@@ -686,7 +686,7 @@ g4Q25P0gu = (int)floor(d3v6PzK);
 
 for (int i = 10; i >= 0; i--)
 {
-if (H64U == yByUukI)
+if (false)
 {
 if (VqR1C6NFM_ <= -559878819)
 {

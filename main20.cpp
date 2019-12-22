@@ -264,7 +264,7 @@ else if (p4hxBJHyM < Z44qDbdzI)
 {
 if ((y7777 <= WZW12SF) || (false))
 {
-if (ui3CODor >= 1606400331)
+if (false)
 {
 p4hxBJHyM = y7777 & 879823482;
 }

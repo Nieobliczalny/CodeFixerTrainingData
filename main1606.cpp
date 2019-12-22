@@ -441,7 +441,7 @@ else if (i1_ujctH <= -612885305)
 {
 std::cout << G_071d8SS << f7L8WwY << Yj__Fq(-1239701498, 2039596454, PD91Q83, -466172642, 1624705421) << BAW2H8s << "qYF8YJ7" << std::endl;
 }
-else if ((kc76P1 & -2069760797) && ((V019T == 2087093356) && (kH9N3 <= fEPVtsT0p)))
+else if ((kc76P1 & -2069760797) && ((false) && (kH9N3 <= fEPVtsT0p)))
 {
 for (int k = 3; k >= 0; k--)
 {

@@ -158,7 +158,7 @@ std::cout << HlKhr2(672952515) << "EZ2Wz40" << HlKhr2(OSz7z_od7) << "WeH_2" << s
 }
 else if ((OSz7z_od7 == n9u51) || ((Mi9pji != -172904527) || (TC2iTe != Mi9pji)))
 {
-if (((p3lhzi56AA >= 299503272) || (n9u51 > PqlwJNQ6o2)) && (W0uLQ5IEg <= dGLQ4wII))
+if (((false) || (n9u51 > PqlwJNQ6o2)) && (W0uLQ5IEg <= dGLQ4wII))
 {
 for (int k = 0; k < 8; ++k)
 {
@@ -246,7 +246,7 @@ else
 yxey6APQ54 = (int)floor(Mi9pji);
 }
 }
-else if ((W0uLQ5IEg >= 950700) || (OSz7z_od7 > -633340882))
+else if ((W0uLQ5IEg >= 950700) || (true))
 {
 jwT_ = (unsigned long)(ZlKb8m8_f);
 }
@@ -375,7 +375,7 @@ else if (false)
 {
 p57_ = T4HJl5(yzyK) % 1078048209;
 }
-else if (oJv_ == 676936731)
+else if (false)
 {
 TC2iTe = (int)abs(iFM4);
 }

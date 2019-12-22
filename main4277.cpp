@@ -76,7 +76,7 @@ if (((uIyObsgg < vd_xt) || (L__H0F <= vd_xt)) && ((MJvHt8 & ZlDf2LacA) && (false
 {
 cz_PTz2t = DpOuO7nTh(1396031948, 1512523295, -1018265497, zDm38R);
 }
-else if ((uIyObsgg > N2shT6UA) || (mIrc_ >= -927928693))
+else if ((uIyObsgg > N2shT6UA) || (true))
 {
 std::cout << tu9_LzDae << DpOuO7nTh(R8220c, G_68A_L4, 1120305343, 901409167) << std::endl;
 }

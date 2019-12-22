@@ -32,7 +32,7 @@ if (false)
 {
 bs0Q2 = (int)abs(IesJX__X2) + (-395035178);
 }
-else if ((qwl_ <= 1690903850) && ((q3_dj != 118393710) || (VcN3 <= -1373359609)))
+else if ((qwl_ <= 1690903850) && ((true) || (VcN3 <= -1373359609)))
 {
 {
 int j = 2;
@@ -449,7 +449,7 @@ break;
 }
 else if (Zhx3 <= -54090844)
 {
-if (((false) && (IesJX__X2 == -1954544667)) || (pJVhU <= -380241686))
+if (((false) && (IesJX__X2 == -1954544667)) || (false))
 {
 dAaC3Ky0B = q3_dj >> 1126611408;
 }

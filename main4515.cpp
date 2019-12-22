@@ -148,7 +148,7 @@ LEW00R945 = tJ27s();
 }
 else
 {
-if ((C0Go == -829736376) && ((q304X != y0KPkh) || (y683ez > y0KPkh)))
+if ((false) && ((q304X != y0KPkh) || (y683ez > y0KPkh)))
 {
 if (false)
 {

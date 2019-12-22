@@ -354,7 +354,7 @@ else
 std::cout << u37EF2Elw << n9n6 << cs4Wi << std::endl;
 }
 
-if (((false) || (edw_5E4jrl < -1526211621)) && ((ff1r47lS & -2093096294) && (B4_ThL9 < R42Wi)))
+if (((false) || (false)) && ((ff1r47lS & -2093096294) && (B4_ThL9 < R42Wi)))
 {
 VaQ1 = SpgGU13 | 1162892660;
 }

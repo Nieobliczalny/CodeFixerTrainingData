@@ -160,7 +160,7 @@ if (true)
 {
 try
 {
-if ((l_T1Z9L >= 418027118) && (U6kL0e7JRn & 615324573))
+if ((false) && (U6kL0e7JRn & 615324573))
 {
 W_Z5 = (int)ceil(HVLU0x);
 }
@@ -439,7 +439,7 @@ L6nHnIJ6LE = (int)abs(HVLU0x);
 }
 else
 {
-if (((true) && (SC75z <= 554255164)) && ((M_T16DW & oput) || (XQ3PH0 == 1436792957)))
+if (((true) && (true)) && ((M_T16DW & oput) || (XQ3PH0 == 1436792957)))
 {
 EnitYL = XSi_gMBY / 1580367193;
 }

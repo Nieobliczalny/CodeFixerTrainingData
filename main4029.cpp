@@ -241,7 +241,7 @@ if (false)
 {
 RKwkC = uXd_x5b0P >> 708259266;
 }
-else if (yU_LyDVBw == APFdPLX0m2)
+else if (false)
 {
 HBflzYpE = (HrCTDMwY_0) ? Xl34n : -2071225502;
 }

@@ -84,7 +84,7 @@ cIv4n8G26N = s7op();
 }
 else if (true)
 {
-if (cLF1WVXJ < 1979945132)
+if (true)
 {
 siE_nZ += siE_nZ;
 }
@@ -314,7 +314,7 @@ else if ((b_54m2z < 1172088865) || (false))
 {
 std::cout << "Arc8" << QqFi1a(S34p, 1475785967, b_54m2z, -1543312913) << "A9my4L" << std::endl;
 }
-else if (((cIv4n8G26N & 606701497) || (a_1wzO69 >= cIv4n8G26N)) && (cIv4n8G26N != -1081570000))
+else if (((cIv4n8G26N & 606701497) || (a_1wzO69 >= cIv4n8G26N)) && (true))
 {
 std::cout << QqFi1a(1222160746, -1124950353, -1658047804, 372147414) << std::endl;
 }

@@ -347,7 +347,7 @@ try
 {
 try
 {
-if ((false) || (Yh_6LJ4i_ > -779974067))
+if ((false) || (true))
 {
 wt9068EDvH = (int)floor(fU2h7I4EsV);
 }

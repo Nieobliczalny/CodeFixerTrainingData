@@ -58,7 +58,7 @@ if ((false) || (Xfw7UBoaY < 1914538035))
 {
 LG9z -= 1311905763;
 }
-else if (G2o7p3QmT > 1059722240)
+else if (false)
 {
 Z7_Ar7 = (int)floor(NUP39R);
 }

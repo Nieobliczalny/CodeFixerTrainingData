@@ -71,7 +71,7 @@ cout << qnt__ZBu9Y << "a74I6y30F" << X0_BUW(l1_oUov) << k2Poo6_9g << X0_BUW(l1_o
 
 if (lafL4bt2 & Yl8p)
 {
-if (((false) && (HmQvd4)) || (IrU9 <= F69g))
+if (((false) && (HmQvd4)) || (false))
 {
 if (a_v9E_HxCD == -1365135122)
 {
@@ -402,7 +402,7 @@ fslPeJ8E = X0_BUW(-183185422);
 }
 }
 }
-else if (((true) && (IrU9 != r977vkDT2)) || ((HmQvd4 > 899293954) || (FkBuV9JFJ)))
+else if (((true) && (true)) || ((HmQvd4 > 899293954) || (FkBuV9JFJ)))
 {
 kN_oD3Im = (skakw) ? r977vkDT2 : 891454788;
 }
@@ -451,7 +451,7 @@ if (true)
 OkuSRQt_ = (bYKJ11eRsW & DkUR697Pm) ? 291375413 : -283618376;
 }
 }
-else if (((qnt__ZBu9Y > Yl8p) || (Agb_6Nkz)) || (A17k0e == F69g))
+else if (((false) || (Agb_6Nkz)) || (A17k0e == F69g))
 {
 try
 {

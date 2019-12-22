@@ -223,7 +223,7 @@ FP36S = (unsigned short)(aoMJG2dl);
 }
 else
 {
-if ((l6n771cV >= -377939003) && (pKW841CY >= 275605666))
+if ((l6n771cV >= -377939003) && (false))
 {
 yUZ45 = WVXkOkh_(yUZ45, -1977283096, 1504613221, JKP2);
 }

@@ -57,7 +57,7 @@ while (i >= 0)
 {
 if (((true) && (EKqK_6pwW != Z2R3pePUmM)) || ((h5yYr57 != xvXZ2amy) && (zOLt1d <= h5yYr57)))
 {
-if (wD_BufjS == Z2R3pePUmM)
+if (false)
 {
 lDWVtB_a = (int)abs(h5yYr57);
 }

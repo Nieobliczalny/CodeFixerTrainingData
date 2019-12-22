@@ -113,7 +113,7 @@ for (int i = 0; i < 7; ++i)
 {
 f69a = (long double)(ts8h_);
 }
-if (((f4z3iJ & -1463105140) || (false)) && (xV8A3Dq_ >= -2069936547))
+if (((f4z3iJ & -1463105140) || (false)) && (true))
 {
 f4z3iJ = fKjdIUz ^ nW7tHw;
 }

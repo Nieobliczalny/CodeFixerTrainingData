@@ -225,7 +225,7 @@ kBna++;
 }
 else if (true)
 {
-if ((Fh7j3b6Pt == -1240350082) && (z65d_0NA != 48416156))
+if ((false) && (z65d_0NA != 48416156))
 {
 betHnlq |= 362223147;
 }
@@ -308,7 +308,7 @@ if (false)
 {
 std::cout << vBxN5 << QFTRE << std::endl;
 }
-else if ((yi_iw) || (Lm2qtf_8 == 935714724))
+else if ((yi_iw) || (false))
 {
 nCcfH_r8 = (long)(kBna * nCcfH_r8);
 }

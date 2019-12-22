@@ -221,7 +221,7 @@ else if (EOj0M)
 {
 pp0azil3 = (int)floor(sAO0yI39b);
 }
-else if ((true) && (V0R6i < 1201940428))
+else if ((true) && (true))
 {
 t9Qx = S3t7n2b8w(-2120863460, jqg35q, e0DG1);
 }
@@ -378,7 +378,7 @@ if (ob__Pt32_A & Brvk)
 {
 zg6Hd8 = (int)ceil(pp0azil3);
 }
-else if ((DC0w >= -763326142) || (v2TUoQFOt_ == 603801028))
+else if ((DC0w >= -763326142) || (false))
 {
 RnL4v8PwN = (int)floor(UZ_4);
 }

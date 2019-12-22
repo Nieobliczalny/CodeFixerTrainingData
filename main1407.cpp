@@ -60,7 +60,7 @@ else if (false)
 {
 Bx4cc0713C = (int)abs(ksBZ0);
 }
-else if ((oIOUIVw3w >= p4pWfyHY) || (oIOUIVw3w == Sp7iC_1BZS))
+else if ((oIOUIVw3w >= p4pWfyHY) || (false))
 {
 if (me445_ <= Sp7iC_1BZS)
 {

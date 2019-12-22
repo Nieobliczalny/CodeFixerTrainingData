@@ -74,7 +74,7 @@ else if ((M5nD_z2 > JDr2VAXu) || (false))
 {
 sD6Rr = (unsigned char)(Zg_3);
 }
-else if (((Zg_3 < W636VMVM) || (M5nD_z2 > R3E0Hs)) && (HPq9Rl & 1925509120))
+else if (((true) || (M5nD_z2 > R3E0Hs)) && (HPq9Rl & 1925509120))
 {
 if (S2brN <= -285869526)
 {
@@ -165,7 +165,7 @@ else
 M5nD_z2 = (int)abs(JDr2VAXu);
 }
 }
-else if (Zg_3 != -1777102899)
+else if (true)
 {
 S2brN /= 1863884010;
 }
@@ -402,7 +402,7 @@ else if ((HPq9Rl > JDr2VAXu) || (HPq9Rl < -1565832625))
 {
 try
 {
-if ((true) && (sD6Rr < -530107516))
+if ((true) && (false))
 {
 sD6Rr = JDr2VAXu << 451197974;
 }
@@ -553,7 +553,7 @@ else
 S2brN <<= 24784321;
 }
 }
-else if ((HPq9Rl < W636VMVM) || ((S2brN >= -841231035) && (HPq9Rl & sD6Rr)))
+else if ((HPq9Rl < W636VMVM) || ((true) && (HPq9Rl & sD6Rr)))
 {
 if (JDr2VAXu == 713588503)
 {
@@ -652,7 +652,7 @@ sD6Rr--;
 }
 else if (HPq9Rl > R3E0Hs)
 {
-if ((false) || (Zg_3 > -833615127))
+if ((false) || (true))
 {
 for (int k = 3; k >= 0; --k)
 {

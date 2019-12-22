@@ -191,7 +191,7 @@ wEK_VDE71a = (int)floor(jS78OIl);
 }
 }
 
-if ((true) && ((cJEeNL6A & E2ff5n48q) && (sAHd > fdgcjv7b)))
+if ((true) && ((cJEeNL6A & E2ff5n48q) && (true)))
 {
 if (CvE79mXy4o <= LHQ2jJ3)
 {

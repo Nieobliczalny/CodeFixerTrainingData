@@ -274,7 +274,7 @@ catch (int& errorCode)
 PUSGyXdvj = YQ2__y3 / 1026753034;
 }
 }
-else if ((false) || (L_ZQLnh == 1335768026))
+else if ((false) || (false))
 {
 if (Eh6Jc9u <= NdWANHpua)
 {
@@ -291,7 +291,7 @@ Egt7ExylR2 = KTU_s(-164573748, L_ZQLnh);
 }
 }
 }
-else if ((jAhNMk7 < -2048485150) && ((wXjQZr76D1 >= eERB9) || (Aybum == nUoc)))
+else if ((false) && ((wXjQZr76D1 >= eERB9) || (Aybum == nUoc)))
 {
 gZ3246 -= AQ6HXkoQL7;
 }

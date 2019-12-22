@@ -149,7 +149,7 @@ if (false)
 {
 std::cout << Qdw7w << "g3R3h5w_o" << "AU_7gC1" << v2ao1k(Exsh) << "v9uHH9Bg2M" << std::endl;
 }
-else if (q52c8Ba__Q > -1715093097)
+else if (true)
 {
 if (s1DQmEcVRR < u670a1T0)
 {
@@ -535,7 +535,7 @@ else if (false)
 {
 g7_9OFKhOU = (int)ceil(r92edOa);
 }
-else if ((e_35pW6J_s != 909305461) && (R1Y6 > 1529891451))
+else if ((true) && (R1Y6 > 1529891451))
 {
 fG_02g = (int)ceil(J19k3s2c);
 }

@@ -36,7 +36,7 @@ if (false)
 {
 swtfkiIbuX = W_38 >> jMV_7UWVIo;
 }
-else if (U1Q9VYUb0 != -831849141)
+else if (true)
 {
 zXq4 = (int)abs(m0lE59g95h);
 }
@@ -72,7 +72,7 @@ if ((zXq4 < OPPsu0y) && (true))
 {
 KY76yn6 -= d4p_X3l;
 }
-else if ((t6Zx_2fB < -553926673) || (t6Zx_2fB >= -1687069887))
+else if ((false) || (t6Zx_2fB >= -1687069887))
 {
 {
 int j = 1;
@@ -117,7 +117,7 @@ jMV_7UWVIo %= 69943849;
 }
 else
 {
-if (m0lE59g95h < 1186147225)
+if (true)
 {
 p3ci36L23v++;
 }
@@ -198,7 +198,7 @@ else if (false)
 {
 t6Zx_2fB /= 565722232;
 }
-else if (zXq4 >= -912176006)
+else if (true)
 {
 OPPsu0y++;
 }
@@ -246,7 +246,7 @@ U1Q9VYUb0 = (unsigned short int)(jMV_7UWVIo);
 m0lE59g95h = (int)abs(r42u06bKM);
 for (int i = 0; i < 6; ++i)
 {
-if (((true) && (U1Q9VYUb0 == 873765950)) && (zXq4 < 784631285))
+if (((true) && (false)) && (zXq4 < 784631285))
 {
 switch (T7wqK_1)
 {
@@ -333,7 +333,7 @@ else if (swtfkiIbuX & -1963533913)
 {
 for (int j = 10; j >= 0; --j)
 {
-if (((false) || (Hy3bF8)) || ((BH__kfQ3M != 253339340) && (Hkg22or5V & Hy3bF8)))
+if (((false) || (Hy3bF8)) || ((true) && (Hkg22or5V & Hy3bF8)))
 {
 Hkg22or5V <<= 1033287956;
 }
@@ -400,7 +400,7 @@ break;
 }
 else if (true)
 {
-if ((C6p56WppV <= jMV_7UWVIo) || (T7wqK_1 > 1307751811))
+if ((C6p56WppV <= jMV_7UWVIo) || (false))
 {
 {
 int k = 7;
@@ -419,7 +419,7 @@ std::cout << zXq4 << std::endl;
 
 for (int i = 0; i < 4; ++i)
 {
-if (((jMV_7UWVIo & -439551845) || (false)) || (OPPsu0y >= -884555348))
+if (((jMV_7UWVIo & -439551845) || (false)) || (true))
 {
 zXq4 = (int)abs(r42u06bKM);
 }
@@ -506,7 +506,7 @@ OPPsu0y = p9Yl4 | 1312722973;
 }
 }
 }
-else if (((true) && (B_en47SQ62)) && (fa5C_Uj87D > -1939089678))
+else if (((true) && (B_en47SQ62)) && (true))
 {
 B_en47SQ62 = p9Yl4 / 1139208800;
 }
@@ -578,7 +578,7 @@ case 'g':
 t6Zx_2fB = gSA_u - T7wqK_1;
 break;
 }
-if ((true) && (p9Yl4 < -1471396924))
+if ((true) && (false))
 {
 switch (BH__kfQ3M)
 {
@@ -750,7 +750,7 @@ std::cout << "kX2MzBv5Y" << zXq4 << OPPsu0y << std::endl;
 }
 while (i < 8);
 }
-if (((true) && (zXq4 >= -2146370811)) && (C6p56WppV == p3ci36L23v))
+if (((true) && (true)) && (C6p56WppV == p3ci36L23v))
 {
 switch (W_38)
 {
@@ -780,7 +780,7 @@ if (KY76yn6)
 {
 t6Zx_2fB = (unsigned short int)(gSA_u);
 }
-else if (p3ci36L23v < 792240137)
+else if (true)
 {
 Hy3bF8 <<= p9Yl4;
 }

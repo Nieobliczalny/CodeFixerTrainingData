@@ -270,7 +270,7 @@ else
 UlLZI994gI = (int)abs(U6ratrjN3);
 }
 }
-else if ((NuOMR15C2 >= -1383812021) || ((s_eTo8 >= -1733203656) && (z8WBA > JSUJ9iDH_)))
+else if ((true) || ((s_eTo8 >= -1733203656) && (z8WBA > JSUJ9iDH_)))
 {
 std::cout << "xivzcN5" << std::endl;
 }

@@ -87,7 +87,7 @@ for (int j = 0; j < 3; ++j)
 std::cout << oj6ZYsfgA_ << A1p04XQ_D(rFh8V8RsFq) << "q5dK74_n9" << "V29b" << "yWOjL5" << std::endl;
 }
 }
-else if (fdrPqdh < MNBRbJ)
+else if (true)
 {
 if (Z70ka5oV == 509414368)
 {
@@ -161,7 +161,7 @@ if (SHUdXX == MNBRbJ)
 {
 Y463 = (long double)(nrZvpsYd5d);
 }
-else if ((O8IH95jH7) && ((true) && (XnC9pO_z2 >= 1869604402)))
+else if ((O8IH95jH7) && ((true) && (false)))
 {
 std::cout << "ZuiY_" << std::endl;
 }
@@ -378,7 +378,7 @@ else if (T6bk82irC_ >= v4jiF4k)
 {
 XnC9pO_z2 = b_eI_();
 }
-else if ((XnC9pO_z2 < t4xIa6s) && ((Xh5kNu) && (hdpn >= rFh8V8RsFq)))
+else if ((false) && ((Xh5kNu) && (hdpn >= rFh8V8RsFq)))
 {
 Xh5kNu *= 833133728;
 }

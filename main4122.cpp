@@ -240,7 +240,7 @@ if ((true) || (MPA_vxsgSy & X49UB3mo))
 {
 for (int j = 0; j < 10; ++j)
 {
-if (q58Rh20TA > -629392946)
+if (true)
 {
 A3x_--;
 }

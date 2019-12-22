@@ -322,7 +322,7 @@ if (TGUYQ_d34g & -892342241)
 {
 r63zt7tPx = y40fHu2h_w & 1084063019;
 }
-else if (((false) || (y40fHu2h_w <= -33670146)) || (uVfV2 < -1812523175))
+else if (((false) || (y40fHu2h_w <= -33670146)) || (false))
 {
 ujYoOl = (int)abs(uMrE02Z);
 }

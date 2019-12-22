@@ -193,7 +193,7 @@ if ((ZVKzXa_GL3 < u4Rx_7f7I) || (false))
 {
 IH_4W4GY = PgVG(J8F87MRCM);
 }
-else if (k5DEkai < 45656100)
+else if (true)
 {
 xgG98Yz9 = HVQp15k % wgY4;
 }
@@ -401,7 +401,7 @@ else if (false)
 {
 nlm749K |= AGFz;
 }
-else if (x__5oq > 1909502805)
+else if (false)
 {
 OES83 ^= wgY4;
 }

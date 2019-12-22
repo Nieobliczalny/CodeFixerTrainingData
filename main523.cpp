@@ -333,7 +333,7 @@ oFAc_ = Or9n3E9AC3 / vH2okWS7;
 
 v0Cl27A5n3 = (int)floor(l2vM);
 
-if ((D4a_RIcg9V == 1995330002) && (peL_XgE == 2107480644))
+if ((false) && (peL_XgE == 2107480644))
 {
 if ((t1_7_OP6m) || ((a6W009jfZ == 327145244) || (zc_PW & -2109501629)))
 {

@@ -153,7 +153,7 @@ for (int i = 10; i >= 0; --i)
 {
 for (int j = 7; j >= 0; --j)
 {
-if (((ust_6 & WlZRFeoun) || (false)) || ((KW8bIv_v4 < t096C_) || (ust_6 != -1696419176)))
+if (((ust_6 & WlZRFeoun) || (false)) || ((KW8bIv_v4 < t096C_) || (true)))
 {
 tHC255BFP = P4Z60hQ(tHC255BFP);
 }

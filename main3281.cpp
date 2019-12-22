@@ -165,7 +165,7 @@ if (false)
 {
 pok7f0V ^= 330171353;
 }
-else if (W30jmo >= 2045089012)
+else if (false)
 {
 FQuEa = (int)ceil(IskA_Z);
 }
@@ -350,7 +350,7 @@ break;
 }
 else if (true)
 {
-if ((IskA_Z == jjwl) && ((u9_L0iY < -935364401) && (ABmT_Qkj <= 1135592511)))
+if ((IskA_Z == jjwl) && ((u9_L0iY < -935364401) && (true)))
 {
 t9_V = (unsigned short)(Flm93A);
 }

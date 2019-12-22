@@ -248,7 +248,7 @@ if (false)
 Zh4Fu = (unsigned short)(e_Gc7);
 }
 }
-if (xQOa > -1828204117)
+if (true)
 {
 for (int j = 4; j >= 0; j--)
 {
@@ -299,7 +299,7 @@ if (false)
 {
 hl24m3N9J4 = z11T9 % 1938229756;
 }
-else if (T_KBul7 == -1676668765)
+else if (false)
 {
 F__W0a9 = T4Kb9Pit9();
 }
@@ -358,7 +358,7 @@ break;
 }
 else if (((true) || (u685X < e_Gc7)) && (u685X))
 {
-if (YaN9mBSI == 147887010)
+if (false)
 {
 u685X = nf8_n(1795524117, -1821858236, hl24m3N9J4);
 }

@@ -232,7 +232,7 @@ if (xao1c3oPu7 & pIBp)
 {
 Ce1f7u = (true) ? B56PcQa : k96sn;
 }
-else if (jiN3AOJ7mr >= 1397927936)
+else if (false)
 {
 if ((k96sn < 2091520165) || ((oGajkj <= P1khP_N4G2) || (J1yk_24Kp == 1996846515)))
 {
@@ -378,7 +378,7 @@ break;
 }
 else if (n70I6a != O8IlQf45)
 {
-if ((false) || (TE0tMsTS5 != 698973494))
+if ((false) || (true))
 {
 fsY4 = hh32(N0Mh, M7_luYz, i289zvA, jiN3AOJ7mr, -614319931) % 541056307;
 }

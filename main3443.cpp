@@ -364,7 +364,7 @@ nEmY = rnO469M(1191190710, -92652779, 24618380);
 
 try
 {
-if (((false) || (Z28JL9J == bpI1yk2)) && ((c_3Qg4HP0e & m99vEan4_2) && (a_v8M <= LmWivB)))
+if (((false) || (Z28JL9J == bpI1yk2)) && ((c_3Qg4HP0e & m99vEan4_2) && (true)))
 {
 if (jd_Kc != H6NKVI)
 {

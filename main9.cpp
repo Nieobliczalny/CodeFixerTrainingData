@@ -71,7 +71,7 @@ if (((false) && (hhBM == -1334685600)) && (wu1RuOYC >= t_a68oc9))
 {
 std::cout << B3vW9a << std::endl;
 }
-if ((tFTcnh_d4 == Etr7N3M4D7) || ((Ud40w2 <= -1723068421) || (tb17626 & IIVT71DGc)))
+if ((false) || ((Ud40w2 <= -1723068421) || (tb17626 & IIVT71DGc)))
 {
 for (int j = 0; j < 1; ++j)
 {
@@ -109,7 +109,7 @@ while (j >= 0);
 }
 }
 
-if ((true) && (tFTcnh_d4 == 380898613))
+if ((true) && (false))
 {
 for (int j = 5; j >= 0; --j)
 {
@@ -229,7 +229,7 @@ IIVT71DGc = (short)(v9knckrC_c);
 
 if (true)
 {
-if (W526_pk <= 896961615)
+if (true)
 {
 std::cout << dG5N3OT << "OzG9__R" << B3vW9a << SZfG2fiB << CFtir0S(1328406674, Wyk0, -1022244596, XEvg5zT87, a1u9RW3SD) << std::endl;
 }

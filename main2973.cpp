@@ -201,7 +201,7 @@ xRwjC93rVP = eqC2mrbtx & Ay67r5v2;
 }
 if (true)
 {
-if (khkkdD == 1180867132)
+if (false)
 {
 try
 {
@@ -324,7 +324,7 @@ for (int k = 9; k >= 0; k--)
 MTj4_8SeV = XqjlR(MTj4_8SeV, n2i_, 340995353);
 }
 }
-else if (q_8N_8F9I >= 334027241)
+else if (false)
 {
 {
 int k = 0;

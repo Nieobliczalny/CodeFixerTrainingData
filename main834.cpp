@@ -204,7 +204,7 @@ for (int i = 0; i < 8; ++i)
 {
 if ((FohD387M0) && ((O383X & j19a2) || (false)))
 {
-if (O383X >= -2050871213)
+if (true)
 {
 p935J0 = (int)abs(kFUNs5M);
 }

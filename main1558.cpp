@@ -406,7 +406,7 @@ if (false)
 {
 rGGX ^= R5WQj;
 }
-else if (wLDuM0 <= -1525347568)
+else if (false)
 {
 RN59VWr = bfw04QnSh >> 1799289173;
 }

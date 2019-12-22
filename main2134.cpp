@@ -55,7 +55,7 @@ C7zDv = (int)abs(xSD9);
 }
 }
 }
-else if (((L_23uG <= Q3g9n0) && (false)) || (xSD9 == 381696890))
+else if (((L_23uG <= Q3g9n0) && (false)) || (false))
 {
 O__48 = (long)(RFA7B);
 }

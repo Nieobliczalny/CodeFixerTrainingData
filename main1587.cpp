@@ -235,7 +235,7 @@ if ((true) && (ozYfN > XFr5Hpx))
 {
 cout << CVt031cg() << endl;
 }
-else if (((SOVG3 <= -823115717) && (u_IkTC_p < 454146757)) || (gj7U7V2f <= lKEZKFU))
+else if (((false) && (u_IkTC_p < 454146757)) || (gj7U7V2f <= lKEZKFU))
 {
 tKgYo = (short)(XFr5Hpx + (2086442391));
 }

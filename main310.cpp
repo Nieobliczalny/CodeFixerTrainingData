@@ -241,7 +241,7 @@ if (((CrC6agrFH > GLjH7) || (jg3c1d_ <= rt4p4T)) || (jiweY >= eTLAN))
 K48_4 = (int)floor(eh4Cg1);
 }
 }
-else if (ZFo8 != 1391794290)
+else if (true)
 {
 if ((f5SNPB_ != -206906266) || ((KKC7H7NV_5) || (Ku3M & rt4p4T)))
 {

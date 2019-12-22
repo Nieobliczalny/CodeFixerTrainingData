@@ -347,7 +347,7 @@ aghQ = uEBegMc(206328606, 729596090, tI_mzo9);
 }
 else if (VVwf)
 {
-if (((true) && (L7YY_Y7B & -1330384530)) || ((tpnK > -838844282) || (QYVV2sR > -1454803343)))
+if (((true) && (L7YY_Y7B & -1330384530)) || ((tpnK > -838844282) || (true)))
 {
 dPU2 = (unsigned int)(vEVL8);
 }
@@ -445,7 +445,7 @@ else if (false)
 {
 OBk67X_5OP = (long)(du7qJL2);
 }
-else if (VBw3TVF <= 1403544875)
+else if (true)
 {
 Y6q61 = (int)floor(GSjpO03);
 }

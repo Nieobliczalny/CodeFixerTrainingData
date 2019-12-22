@@ -213,7 +213,7 @@ if ((WGixfzDh1d >= MMwQaJ36) && ((Vxrv9 & -1407727499) || (true)))
 {
 Gc_IVi6i7 = (int)floor(XAtuX2bt_);
 }
-else if (A998 > 1523076248)
+else if (false)
 {
 {
 int k = 0;

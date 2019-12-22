@@ -230,7 +230,7 @@ else if (drp2)
 {
 std::cout << "lD_gK39" << std::endl;
 }
-else if ((OagcsNZe >= 1884082537) || (G3DT7 & -324977997))
+else if ((false) || (G3DT7 & -324977997))
 {
 for (int k = 8; k >= 0; --k)
 {

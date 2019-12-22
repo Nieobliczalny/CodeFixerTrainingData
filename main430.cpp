@@ -166,7 +166,7 @@ if (kWhRTm & r7I_8)
 {
 zIeV_A2Y = (unsigned short)(r7I_8);
 }
-else if (((c5Zw5t != NH_ohJ) || (r7I_8 > 2119391317)) || (Lug_pH == opMD4Fix_8))
+else if (((c5Zw5t != NH_ohJ) || (false)) || (Lug_pH == opMD4Fix_8))
 {
 try
 {
@@ -704,7 +704,7 @@ for (int j = 0; j < 6; ++j)
 std::cout << JTMHp2F_k << kWhRTm << opMD4Fix_8 << "oMDncF_" << std::endl;
 }
 }
-else if (((true) && (Lug_pH > Py4a4I)) && (T7h9IQ9n >= mOp73D5NBc))
+else if (((true) && (false)) && (T7h9IQ9n >= mOp73D5NBc))
 {
 std::cout << kWhRTm << wLQWVSs14 << c5Zw5t << lg7I << opMD4Fix_8 << std::endl;
 }

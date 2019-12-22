@@ -27,7 +27,7 @@ O3JQBNgk = f1O4ukSk5k(-1194575749);
 
 fF4_o14k = (short int)(q6Eei4);
 
-if (((true) && (c64Bu0_j48 > -990659470)) || (fF4_o14k >= -1745509558))
+if (((true) && (true)) || (fF4_o14k >= -1745509558))
 {
 std::cout << "QS6j" << std::endl;
 }

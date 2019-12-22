@@ -456,7 +456,7 @@ else if ((XzyfGJb >= tb0BnAIb) && (true))
 {
 for (int j = 0; j < 3; j++)
 {
-if (QqKcK_5kCH >= 1361575776)
+if (false)
 {
 MpGPq = nIna();
 }

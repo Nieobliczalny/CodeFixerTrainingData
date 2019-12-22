@@ -314,7 +314,7 @@ M1gq2KnW5 = (int)(BEw6L);
 }
 else if ((hD8b_hBB <= Sm5qL) || (z64kzL2X))
 {
-rJSq1sMa8 = (EUaf <= -1145611540) ? KQXmd13 : 783727050;
+rJSq1sMa8 = (false) ? KQXmd13 : 783727050;
 }
 else
 {

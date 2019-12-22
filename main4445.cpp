@@ -172,7 +172,7 @@ else
 q8U19Jj = (unsigned char)(YdHC9);
 }
 
-if (E4r_aUTvq >= 1538808259)
+if (false)
 {
 if (jNZF8t67)
 {
@@ -201,7 +201,7 @@ dpBbo3mY = H6db7LD ^ 909362866;
 }
 
 mdyJ = SG_Vp4oyg / jNZF8t67;
-if (((false) || (E4r_aUTvq == a00Om)) || (QIX1e_Ce1 >= QD_tbcK))
+if (((false) || (E4r_aUTvq == a00Om)) || (true))
 {
 q8U19Jj = S59iW >> hB2AIE;
 }

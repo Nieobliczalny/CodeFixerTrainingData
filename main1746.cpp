@@ -66,7 +66,7 @@ if (false)
 {
 cXC8Jx8KC++;
 }
-else if (h0_weP_E <= -1788976896)
+else if (false)
 {
 jBJ7x = gN2k1 - Q8ONAmx_7;
 }
@@ -361,7 +361,7 @@ cXC8Jx8KC = S1COsR0 << jBJ7x;
 cXC8Jx8KC = S1COsR0 >> jBJ7x;
 if (true)
 {
-if (((jBJ7x < 1211798174) && (S1COsR0 == -1319827993)) && ((Q8ONAmx_7 == 442752007) || (Q8ONAmx_7)))
+if (((jBJ7x < 1211798174) && (false)) && ((Q8ONAmx_7 == 442752007) || (Q8ONAmx_7)))
 {
 if (gN2k1 & Q8ONAmx_7)
 {

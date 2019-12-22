@@ -108,7 +108,7 @@ if ((Y_S1BS_pk != uD693xyM) || (laPpy3 >= h7L9))
 {
 std::cout << "awGT005u_7" << "S_4Ab768" << y38U63_USX(A6dYvw_32R, -1634210810, F3Xx) << Fo70_RH << nje3O(A6dYvw_32R, 862144650, F3Xx) << std::endl;
 }
-else if ((true) && ((Y_S1BS_pk <= -974805970) && (Os721wM)))
+else if ((true) && ((false) && (Os721wM)))
 {
 if (A6dYvw_32R < 1560561513)
 {

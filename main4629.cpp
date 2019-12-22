@@ -118,7 +118,7 @@ int i = 5;
 while (i >= 0)
 {
 i--;
-if (((kGdxu != 1540782740) && (true)) || (O0Id6_VE != -1143763910))
+if (((kGdxu != 1540782740) && (true)) || (true))
 {
 {
 int k = 0;
@@ -228,7 +228,7 @@ else if (false)
 {
 R1Bd61 -= 1244654655;
 }
-else if (Vz54 <= IQzZ_c5)
+else if (true)
 {
 fj7BN07b3 = VgNZ(336316365, l0D5, -905565497, JEb75d, fj7BN07b3);
 }

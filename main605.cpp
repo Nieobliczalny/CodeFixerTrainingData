@@ -315,7 +315,7 @@ else if (false)
 {
 hTCZSx90 = (int)ceil(KReh0);
 }
-else if ((B2c92M > 1354896273) || (uOVGj485wC > Vf012S))
+else if ((false) || (uOVGj485wC > Vf012S))
 {
 B04ZR9Q4_2 = Vf012S % Zxp76R;
 }

@@ -135,7 +135,7 @@ else if (false)
 {
 std::cout << M91n6_ << "FOV9" << "cv_a0m3MR1" << std::endl;
 }
-else if (BWq3 == -1931650469)
+else if (false)
 {
 {
 int j = 7;
@@ -261,7 +261,7 @@ yiHAx7 = m9_Tu_(1050293598);
 }
 if (((ayD3x8) || (t65Hf)) || (false))
 {
-if (XSQ8ps > 627612110)
+if (false)
 {
 std::cout << m9_Tu_(yiHAx7) << "kcN59d" << "Nk5_Ya" << std::endl;
 }
@@ -272,7 +272,7 @@ if (QdUJZKm26L > EmjV1)
 {
 BWq3 = m9_Tu_(397031919) % 787917035;
 }
-else if (((c3hw3 == r0e5) || (Rswxc)) && ((true) && (xW_26syls >= -1988818096)))
+else if (((c3hw3 == r0e5) || (Rswxc)) && ((true) && (true)))
 {
 RMNF++;
 }
@@ -560,7 +560,7 @@ else if (true)
 {
 for (int j = 3; j >= 0; j--)
 {
-if (H_ef == 244330921)
+if (false)
 {
 FcD2a >>= 729186899;
 }

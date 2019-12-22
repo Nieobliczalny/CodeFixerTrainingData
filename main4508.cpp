@@ -218,7 +218,7 @@ KVtgwWD0 = (l_4Wz < bD3_H5Q) ? V1In0c5H(Ls00L) : zo7ggD4;
 }
 }
 
-if (nHLIwXXD != -673648530)
+if (true)
 {
 for (int j = 0; j < 4; ++j)
 {
@@ -318,7 +318,7 @@ break;
 }
 else if (true)
 {
-if (DuRb24H99H == -1362906390)
+if (false)
 {
 if ((yH7E0UXj == 428999225) || (H3ATqi2b < 1814878083))
 {
@@ -425,7 +425,7 @@ D68h8_G3 = (char)(f5oP87Gqx3);
 }
 else if (true)
 {
-if (K07LV3Cn != -1584212339)
+if (true)
 {
 TS5_ = (int)abs(bagw2Ua);
 }

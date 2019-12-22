@@ -173,7 +173,7 @@ else if (false)
 {
 sCfeW0o0 = (int)floor(R5DUdaDO1m);
 }
-else if (i8UyF <= -1633972844)
+else if (false)
 {
 JC869LE_ = (int)abs(Ncd2Xpgb);
 }

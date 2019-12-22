@@ -94,7 +94,7 @@ for (int k = 6; k >= 0; --k)
 bJ_82YRjp9 = LLpd();
 }
 }
-else if ((false) || (y6qRgoD > -1352865261))
+else if ((false) || (true))
 {
 c304 -= kbn0gW0;
 }

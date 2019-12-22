@@ -263,7 +263,7 @@ else if (false)
 {
 acoZE3ZZ >>= 1245407295;
 }
-else if ((WT_0 <= 196473094) || ((a09Co) || (uZqe != 1859264520)))
+else if ((true) || ((a09Co) || (uZqe != 1859264520)))
 {
 acoZE3ZZ--;
 }
@@ -299,7 +299,7 @@ while (k < 8);
 while (j >= 0);
 }
 }
-else if (((false) || (C6N6q4x == -1324609220)) || (xX08E5 != 1489310806))
+else if (((false) || (C6N6q4x == -1324609220)) || (true))
 {
 SY2V4 = (long)(Yt853ihYuv);
 }

@@ -665,7 +665,7 @@ else if ((c1Kw1 != BTKO) && ((c1Kw1 & BTKO) && (false)))
 {
 Yig7N *= H8Rgf1P8w;
 }
-else if (rN03p36sV > 827545419)
+else if (false)
 {
 LvVb = (int)ceil(T98x3S);
 }

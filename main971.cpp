@@ -276,7 +276,7 @@ else
 tCoJvwL3T = (unsigned long)(Hks4);
 }
 G2_5kTk287 = -414931511 / qNV7MS;
-if (((true) && (nfYeV5Cg < -1935963842)) && ((FUy6) && (OM_3f >= -1932227818)))
+if (((true) && (false)) && ((FUy6) && (OM_3f >= -1932227818)))
 {
 if (Hks4 != jmn1)
 {

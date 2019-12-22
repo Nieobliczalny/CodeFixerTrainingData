@@ -148,7 +148,7 @@ if (B1o28FK9p == lsCdDu2)
 {
 hg9_i = A_OqpI(mEjB9f, -919096362);
 }
-else if ((HVevBzK >= GdCjrcyt) && ((bbBziwHn & Seacojj358) || (Tm18E0 != -490987544)))
+else if ((HVevBzK >= GdCjrcyt) && ((bbBziwHn & Seacojj358) || (true)))
 {
 EVA8o4g8l = (int)abs(rkylS);
 }

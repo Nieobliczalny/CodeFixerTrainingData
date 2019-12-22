@@ -470,7 +470,7 @@ if (qpxvW != k27rXBC2)
 {
 TjeT7_10 = (int)floor(ba2a);
 }
-else if (D_23wh >= s_X8)
+else if (true)
 {
 TjeT7_10 = (int)floor(LgU91o6);
 }
@@ -568,7 +568,7 @@ if ((false) || (Qj7_9xL2x >= -1355398109))
 {
 EyghuSR0 = yY4BR >> 1278988833;
 }
-else if ((sG94Dfpb4 >= ee1i) || (ba2a == UdL2))
+else if ((false) || (ba2a == UdL2))
 {
 Up66 -= LgU91o6;
 }

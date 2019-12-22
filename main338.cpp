@@ -234,7 +234,7 @@ if (kO9t8y & LfcLYPoh2)
 {
 LfcLYPoh2 = (int)abs(FQFDi5lATB);
 }
-else if ((LfcLYPoh2 <= -1875678559) && ((i_bY1 >= -1667671154) || (Y7y2 & -30216951)))
+else if ((false) && ((i_bY1 >= -1667671154) || (Y7y2 & -30216951)))
 {
 try
 {

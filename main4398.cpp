@@ -134,7 +134,7 @@ cout << "vLuV1" << gEFe << endl;
 
 if (true)
 {
-if (((q_MeVr > vdcast3P) || (JcO638p664 != euKEQyJ0cC)) || (M53r != 1154771403))
+if (((q_MeVr > vdcast3P) || (true)) || (M53r != 1154771403))
 {
 UY0M += JYdx;
 }

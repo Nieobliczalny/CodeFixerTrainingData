@@ -90,7 +90,7 @@ for (int j = 1; j >= 0; --j)
 eoCF233h_ = (unsigned short)(hpnuEo);
 }
 }
-else if (N93Rg < 418389413)
+else if (true)
 {
 thKNk &= wmVg_h;
 }
@@ -205,7 +205,7 @@ U5u837 = JAJzic30 >> BK4ortu8Xr;
 }
 for (int i = 0; i < 10; i++)
 {
-if ((true) && (R1Xi0H5 < -1931944617))
+if ((true) && (false))
 {
 {
 int k = 5;

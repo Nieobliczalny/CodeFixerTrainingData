@@ -415,7 +415,7 @@ int i = 0;
 while (i < 8)
 {
 ++i;
-if ((true) && (h3wxONn < 736516845))
+if ((true) && (true))
 {
 I_0lL = NCJ696au6(To_M8kNnz, 1727944564, -248143388) * 1200635765;
 }
@@ -733,7 +733,7 @@ Q2N4n = Z6XD7K_F2C & QOQYLW6c;
 }
 else if (true)
 {
-if (((eS5yHNy <= 289375553) && (J3H3bVl4)) || (R4lH1Od > -694988922))
+if (((eS5yHNy <= 289375553) && (J3H3bVl4)) || (true))
 {
 try
 {

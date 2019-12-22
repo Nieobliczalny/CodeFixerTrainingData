@@ -139,7 +139,7 @@ else if (EBro_13e & E5nC)
 {
 if ((true) && ((UcBG > E5nC) || (kp9M71)))
 {
-if (eYF7 <= mfI6F1V)
+if (false)
 {
 VORMU5mO *= 1030364250;
 }
@@ -164,7 +164,7 @@ else
 int j = 5;
 do
 {
-if ((false) || ((VORMU5mO < -674927651) && (VORMU5mO & -555544418)))
+if ((false) || ((false) && (VORMU5mO & -555544418)))
 {
 E055XY = h9VZ_2 % 1855343554;
 }

@@ -166,7 +166,7 @@ if (false)
 {
 bTGDYd = oXl6o7DXP | jl4ae6aGdJ;
 }
-else if (bTGDYd != ugxh52D03)
+else if (true)
 {
 TJcd72 = He725YzN(oXl6o7DXP, TJcd72, -359777581, jl4ae6aGdJ);
 }
@@ -244,7 +244,7 @@ else
 TJcd72 = He725YzN(1336672220, 1285537659, 1551914896, jl4ae6aGdJ);
 }
 }
-else if ((true) && ((bTGDYd < TJcd72) && (bTGDYd >= -1932697357)))
+else if ((true) && ((bTGDYd < TJcd72) && (true)))
 {
 oXl6o7DXP = jy4nh6G6b(555834868, bTGDYd, oXl6o7DXP, jl4ae6aGdJ, 754199894);
 }
@@ -346,7 +346,7 @@ default:
 jl4ae6aGdJ = (int)abs(bTGDYd);
 break;
 }
-if (((false) || (oXl6o7DXP <= -1696413249)) || (TJcd72 <= b6kyh2))
+if (((false) || (oXl6o7DXP <= -1696413249)) || (false))
 {
 for (int j = 0; j < 2; ++j)
 {
@@ -469,7 +469,7 @@ jl4ae6aGdJ ^= bTGDYd;
 }
 else if (jl4ae6aGdJ)
 {
-if ((oXl6o7DXP & TJcd72) || (bTGDYd >= 954656165))
+if ((oXl6o7DXP & TJcd72) || (false))
 {
 bTGDYd = (char)(b6kyh2);
 }

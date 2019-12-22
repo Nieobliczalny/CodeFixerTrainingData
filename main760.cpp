@@ -114,7 +114,7 @@ else if (true)
 {
 try
 {
-if (V8ArCH <= -1397228922)
+if (false)
 {
 k2u4y47j = E8zJD4(-1021027836, ehAlG7, -246094348, 926138101);
 }

@@ -195,7 +195,7 @@ Cja3uHj = dPj3E(-703717146, -1745575368);
 }
 else if (((niH11_4W5 <= Bhm7a6) && (Cja3uHj >= J4vLbpsE)) || (A_O5yV96 >= Cja3uHj))
 {
-if (((false) || (x6771G0 != 1198926637)) || ((L9en810 >= z03zq) || (z03zq == -1795748650)))
+if (((false) || (true)) || ((L9en810 >= z03zq) || (z03zq == -1795748650)))
 {
 KkOi_nvyV_ = (int)floor(J4vLbpsE);
 }

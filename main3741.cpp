@@ -188,7 +188,7 @@ else
 ncOAo2 = (int)abs(Dv7sx);
 }
 }
-else if (e1i2_Y >= -757120392)
+else if (true)
 {
 try
 {

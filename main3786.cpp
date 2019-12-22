@@ -101,7 +101,7 @@ else if (JGUoqI)
 {
 Eq7i2_x37 = WEkJs9 >> gJX7;
 }
-else if ((bs_v5vgc != f97p) || ((Eq7i2_x37 > kOd40xZq) || (Eq7i2_x37 & -116466995)))
+else if ((bs_v5vgc != f97p) || ((false) || (Eq7i2_x37 & -116466995)))
 {
 Ypsm6O = (int)abs(aP_w20j8);
 }
@@ -319,7 +319,7 @@ if (e1ZMneRJov <= QR4yyzSZ)
 {
 if (true)
 {
-if (Tw61Ug != -1611546242)
+if (true)
 {
 VdPQ = d_GNP >> H6CIiSa;
 }

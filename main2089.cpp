@@ -148,7 +148,7 @@ else
 {
 xqB_c = YcC7Wjl(694741295, -1544347046, U4tbq7);
 }
-if ((true) && (w__9c == -1587063893))
+if ((true) && (false))
 {
 o576z3 = KMASN + sxYQ2PCF;
 }

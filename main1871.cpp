@@ -227,7 +227,7 @@ F3tdWL449 = Ba_G | 1018337494;
 }
 else if ((Y6P2nMR & X416pB02DP) || (F3tdWL449 <= 1690270030))
 {
-if ((nBo0 == YHf4s8VbR) && ((x490A2 >= -1918492454) && (c1SO > -709234181)))
+if ((nBo0 == YHf4s8VbR) && ((true) && (c1SO > -709234181)))
 {
 {
 int k = 0;

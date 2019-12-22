@@ -113,7 +113,7 @@ yUBG335 /= 73634543;
 }
 else
 {
-DV_Hk = (O2PzD != -569328216) ? lte_ : -1627516617;
+DV_Hk = (true) ? lte_ : -1627516617;
 }
 }
 catch (int& errorCode)
@@ -185,7 +185,7 @@ if (false)
 {
 w7G38E_1 = k3vQ6wn4E_();
 }
-else if ((VqSv996 < nF_4l6g) || ((go12hSXkdm <= -1455492495) && (Hl40a & w7G38E_1)))
+else if ((VqSv996 < nF_4l6g) || ((false) && (Hl40a & w7G38E_1)))
 {
 VqSv996 = x7Nz6z8 & 1375530690;
 }

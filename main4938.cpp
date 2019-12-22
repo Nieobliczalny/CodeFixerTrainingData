@@ -35,7 +35,7 @@ int main(int argc, char** argv) {
 
 if (j2_f_NA5Yt <= d697pL_YWY)
 {
-if ((false) || (kF7Kqo != -739784175))
+if ((false) || (true))
 {
 cout << kF7Kqo << "v7Ktvw" << "VoW2dhBrh" << "eGqu9B3_" << RSX0_x << endl;
 }
@@ -392,7 +392,7 @@ else if (false)
 {
 e7w23M = d697pL_YWY % p01n4N;
 }
-else if (L6_0l45 == 228835800)
+else if (false)
 {
 j2_f_NA5Yt = Lje_mBX ^ 200203068;
 }

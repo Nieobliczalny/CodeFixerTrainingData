@@ -440,7 +440,7 @@ else
 T1Q3Oq3y = (int)ceil(hsxO6E);
 }
 }
-else if (Lw_8J95 > 438982528)
+else if (false)
 {
 for (int k = 0; k < 9; ++k)
 {
@@ -497,7 +497,7 @@ pY_n = aZRXdm6Tee(1417060067, -218841323, 220113193);
 
 oo5_vZ5F4N = WK6NC1 / WK6NC1;
 hsxO6E = (int)ceil(U03t1ccn);
-if (((true) || (p7Vnd)) && ((BrMNQR4 > 1149328179) || (A9K392360t >= 1123171450)))
+if (((true) || (p7Vnd)) && ((false) || (A9K392360t >= 1123171450)))
 {
 if (JifYF < aA0BbFFb)
 {

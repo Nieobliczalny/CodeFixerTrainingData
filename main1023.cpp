@@ -123,7 +123,7 @@ catch (int& errorCode)
 u7OY_ = fdwsuq ^ bsvkM1uc7;
 }
 }
-else if (((false) || (V4W3lf >= 155443647)) || (fiESXbnS == -1318935963))
+else if (((false) || (false)) || (fiESXbnS == -1318935963))
 {
 {
 int k = 0;
@@ -317,7 +317,7 @@ else if (((lRdSR < 809751210) && (o611722 & 1827945395)) || (bU0DY == 1998574447
 {
 oGs9wV %= 902704727;
 }
-else if (vAMxqF == -1607195440)
+else if (false)
 {
 BfGYZ08--;
 }

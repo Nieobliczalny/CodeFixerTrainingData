@@ -136,7 +136,7 @@ i--;
 }
 if (IG7w)
 {
-if (((false) || (nV991j <= c8xl4X9c8)) && (nV991j <= 1297640647))
+if (((false) || (nV991j <= c8xl4X9c8)) && (true))
 {
 if (P3L42 > IG7w)
 {
@@ -158,7 +158,7 @@ else if (P3L42 > 893685514)
 {
 IG7w--;
 }
-else if (((false) || (HC9x4z2 <= -2139823098)) || (IG7w != 1665916523))
+else if (((false) || (false)) || (IG7w != 1665916523))
 {
 nV991j ^= 1283963422;
 }
@@ -186,7 +186,7 @@ HC9x4z2 = oA_51uGIS() & P3L42;
 }
 else if (c8xl4X9c8 <= 462059060)
 {
-if (D_snAOw < -981582673)
+if (false)
 {
 for (int k = 0; k < 5; ++k)
 {

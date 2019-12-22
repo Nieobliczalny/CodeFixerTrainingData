@@ -314,7 +314,7 @@ if ((false) || (Xoo60c1kb & -1901852233))
 {
 qaAO4 = (int)floor(MiC1);
 }
-else if (Mjr9_n < -2111060278)
+else if (false)
 {
 try
 {
@@ -657,7 +657,7 @@ for (int i = 8; i >= 0; --i)
 pDdX0 = (int)ceil(BbW4HefK7m);
 }
 
-if ((true) && (I91AH8_m6 == -853824206))
+if ((true) && (false))
 {
 switch (m7_mc214)
 {

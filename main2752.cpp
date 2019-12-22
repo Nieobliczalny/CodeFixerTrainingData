@@ -116,7 +116,7 @@ else
 uXrfhTvIVl = Jaf8_X(gVlwRlj, 603609729, -99850914, lsy4c9);
 }
 }
-else if (((OLDMlF > Z745L7ALb) && (y7W7k0 <= cJqOZl)) && ((aTen5nvdUr & QW835m) && (k39F)))
+else if (((OLDMlF > Z745L7ALb) && (true)) && ((aTen5nvdUr & QW835m) && (k39F)))
 {
 {
 int k = 4;

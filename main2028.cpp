@@ -91,7 +91,7 @@ if (((true) && (Dx8V7wh26_ >= OSCU)) && ((IeYun0F4g != Oq4a7bL) && (JpuH2ok_I6 !
 {
 pbl4lt85O <<= 1731299852;
 }
-else if ((r2V01ew_1 == OSCU) || ((Yryy389 < OSCU) || (s1e5RV7SP <= 645044032)))
+else if ((r2V01ew_1 == OSCU) || ((Yryy389 < OSCU) || (true)))
 {
 switch (JMIfeZnV)
 {
@@ -143,7 +143,7 @@ if (((B95A__sZ < OSCU) || (true)) && (zLO6 <= nW0_Ne))
 {
 JpuH2ok_I6++;
 }
-else if (Gm1pL < 180285066)
+else if (true)
 {
 srU0P2Xg_b = (int)ceil(B95A__sZ);
 }

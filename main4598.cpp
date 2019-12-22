@@ -361,7 +361,7 @@ else if (HjHd < qcct8)
 {
 Qmqxxo = TgTvRqumU ^ vlT5Vj;
 }
-else if (((Ujjl9A3xs == Qmqxxo) && (true)) || ((vlT5Vj >= -1398020768) && (TgTvRqumU <= M4_MdE)))
+else if (((Ujjl9A3xs == Qmqxxo) && (true)) || ((vlT5Vj >= -1398020768) && (true)))
 {
 Co9sp = eT2c(-1903926531);
 }

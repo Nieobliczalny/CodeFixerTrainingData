@@ -295,7 +295,7 @@ else
 {
 std::cout << FgfUS << std::endl;
 }
-if (y4N5 != 1104729424)
+if (true)
 {
 switch (G_jm)
 {

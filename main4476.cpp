@@ -408,7 +408,7 @@ else if ((tAa09YiBI & bqG29G) && ((true) && (FyJl29XS4 > zmYh7MT)))
 {
 Olgd0 >>= 1888649033;
 }
-else if (ytGG60 <= 1907195749)
+else if (true)
 {
 WMF96l1SZ = KhU1p_(-1725311581, rWp306K0, 300929293, -268633958);
 }

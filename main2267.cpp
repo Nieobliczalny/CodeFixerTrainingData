@@ -473,7 +473,7 @@ OFDG132 = (short)(c4rDM164_c);
 }
 else
 {
-if (((fQC01v) && (true)) || (OFDG132 == -978656613))
+if (((fQC01v) && (true)) || (false))
 {
 c4rDM164_c |= OFDG132;
 }

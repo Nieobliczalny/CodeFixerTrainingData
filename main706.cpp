@@ -330,7 +330,7 @@ else if (NfO35 & -2116532385)
 {
 std::cout << rt_2(B1Kzi) << std::endl;
 }
-else if (XT_g_ < QPICo)
+else if (false)
 {
 if (false)
 {

@@ -24,7 +24,7 @@ break;
 cout << hRQpILB << endl;
 cXTC = IsxoO0VU * BAbO;
 
-if (((uf4GG_ & -331293052) && (false)) || (IsxoO0VU > -1366309488))
+if (((uf4GG_ & -331293052) && (false)) || (true))
 {
 cout << HF6L << endl;
 }

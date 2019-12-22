@@ -433,7 +433,7 @@ Yi1wMh = K3q_O8p(-1996111937, 1895418966, -153853940);
 }
 while (i >= 0);
 }
-if (((true) && (jT_8A6j8 > xV84p9)) || ((xd07x_R > -446806904) && (N5YlKK2H7P >= Eq1I)))
+if (((true) && (jT_8A6j8 > xV84p9)) || ((true) && (N5YlKK2H7P >= Eq1I)))
 {
 {
 int j = 9;
@@ -534,7 +534,7 @@ K6vT2m1H = K3q_O8p(49373447, N5YlKK2H7P, 962116556);
 }
 else if (true)
 {
-if ((T080m) && (ONlOX3m545 == -250634192))
+if ((T080m) && (false))
 {
 for (int k = 2; k >= 0; k--)
 {

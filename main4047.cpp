@@ -187,7 +187,7 @@ do
 j--;
 if ((false) || (UU2EJ9 == 1316374750))
 {
-LbL_HiVPZ = (FQ_pL3_T < 1906247216) ? 763981065 : -29083905;
+LbL_HiVPZ = (true) ? 763981065 : -29083905;
 }
 }
 while (j >= 0);
@@ -330,7 +330,7 @@ else if (false)
 {
 std::cout << qM6wHxD8i << "sSJOQIhOd" << xp4xGVo << std::endl;
 }
-else if (D4pg6O < 261316134)
+else if (true)
 {
 Jx3i5Z9Vq0 = V_tiaW & Q4h78c54;
 }
@@ -425,7 +425,7 @@ else if (((MG_i2YFbcc <= 1799440119) && (ItG9 > D4pg6O)) || (false))
 int j = 0;
 do
 {
-if (ItG9 == -1878691517)
+if (false)
 {
 PMA8HER16H = O69bl_x * wBbK0_41l;
 }
@@ -659,7 +659,7 @@ else if (false)
 {
 LbL_HiVPZ = (unsigned short int)(qM6wHxD8i + (358044478));
 }
-else if ((Ip30 >= 268073464) && (I1e_5H5 <= -402054936))
+else if ((Ip30 >= 268073464) && (false))
 {
 if (fVOtYU2j5 < -790672325)
 {

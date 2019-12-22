@@ -652,7 +652,7 @@ else if (JT0F88 & SjLK_NV8f4)
 {
 k9fBcmf = (int)abs(enS_);
 }
-else if (((false) && (V3z6Xt9ZV == kmb6O6Z1)) || ((oRpHO45p0A <= zrVEx) || (fUb3 == c81q7e00_t)))
+else if (((false) && (V3z6Xt9ZV == kmb6O6Z1)) || ((oRpHO45p0A <= zrVEx) || (false)))
 {
 AA4_41NOgv = (int)ceil(Oo1kx_);
 }

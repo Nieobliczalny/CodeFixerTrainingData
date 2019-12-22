@@ -470,7 +470,7 @@ int j = 2;
 while (j >= 0)
 {
 j--;
-if ((H57Bu < Zx9_6U7) || (m9hROEF0 >= Zx9_6U7))
+if ((true) || (m9hROEF0 >= Zx9_6U7))
 {
 Wpjb += m9hROEF0;
 }

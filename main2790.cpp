@@ -124,7 +124,7 @@ else if (x41c4 > OUAFWiT)
 {
 if ((true) && ((V9AiiYA != p3uW2k) && (lqaFjf_wF == ngum_YHHa)))
 {
-if (O46U7u <= -895761751)
+if (false)
 {
 ujA9 = (int)abs(cMXL);
 }
@@ -319,7 +319,7 @@ if (a_NhW < AtQ7G_iG)
 {
 h6rA36q = C08Db5zm();
 }
-else if (((Dc34qOy2m == -1079732054) || (Wu4J1f5R != -963489670)) && (ujA9 >= 548646040))
+else if (((Dc34qOy2m == -1079732054) || (true)) && (ujA9 >= 548646040))
 {
 h6rA36q = C08Db5zm();
 }
@@ -380,7 +380,7 @@ std::cout << FMQuD(Et_e1DF293, KGsmx9w, -1829433562, 1779783230, -1888067546) <<
 int i = 0;
 while (i < 1)
 {
-if ((false) || (MOJeemYF != -533260328))
+if ((false) || (true))
 {
 try
 {

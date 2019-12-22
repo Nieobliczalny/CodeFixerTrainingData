@@ -281,7 +281,7 @@ if (((xa_B2) || (false)) || (Ntp7kC & cJ05p))
 {
 if ((CRC_ & 1091891292) && (QgF1_w14g <= cJ05p))
 {
-if (MGiCYAW <= 788983335)
+if (true)
 {
 Xo9fGg12h = O5fB1Z & Fn3a;
 }

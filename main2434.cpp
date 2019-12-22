@@ -308,7 +308,7 @@ break;
 }
 else if ((true) && (pdqiShian))
 {
-if (JW60B > -301646530)
+if (true)
 {
 {
 int k = 0;

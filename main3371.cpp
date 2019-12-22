@@ -133,7 +133,7 @@ cECt_kf_M = (Tur8z9GtFX) ? 133894452 : M71PUJda;
 }
 else if ((LXjA9) || ((w9Io < TW8xbIu) && (false)))
 {
-if (((O9P0L >= 1440526914) || (N5i3L)) || (L92Jll))
+if (((false) || (N5i3L)) || (L92Jll))
 {
 for (int k = 5; k >= 0; k--)
 {

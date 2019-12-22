@@ -139,7 +139,7 @@ break;
 }
 else if (IXuNyb <= DJd4)
 {
-if ((AnC8Bkm >= S5Uj4yrv) || ((true) && (fIIw_iGp != S5Uj4yrv)))
+if ((true) || ((true) && (fIIw_iGp != S5Uj4yrv)))
 {
 s07qI = l50Ejn();
 }

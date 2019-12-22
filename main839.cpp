@@ -176,7 +176,7 @@ OLD67J = f9cbn7R8M(-1104688637, D31Qn_) / uiNmwziEH7;
 }
 }
 }
-else if (((u6R760 >= q_nI) && (true)) || ((NJaaBQ8hA != b6P9sJBB4) && (HcHSL <= b6P9sJBB4)))
+else if (((u6R760 >= q_nI) && (true)) || ((true) && (HcHSL <= b6P9sJBB4)))
 {
 if (Q787J7G9i != rWYvFrMoV4)
 {

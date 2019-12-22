@@ -291,7 +291,7 @@ else
 {
 if (((aDziFZ8L4) && (fQ7B != bRFGPQ_QI)) || ((true) || (ZFe2C)))
 {
-if (ZFe2C > -500443265)
+if (true)
 {
 gBg84vV = (int)abs(x08G0dyA);
 }

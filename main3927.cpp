@@ -659,7 +659,7 @@ if ((D38u6w0R > -1439945934) && (true))
 {
 for (int k = 0; k < 2; k++)
 {
-vR0lU4qrvZ = (np5lR >= dL065T) ? hDh_ : MnGdyhw;
+vR0lU4qrvZ = (true) ? hDh_ : MnGdyhw;
 }
 }
 else if (L71RQ5E2K == -960895811)
@@ -675,7 +675,7 @@ e61JQ = (int)ceil(z212xn);
 }
 else if ((true) || ((c5coDPF == hDh_) && (en6P_5 != dL065T)))
 {
-if (f6J3J == 894500623)
+if (false)
 {
 WZqY98 &= 1523655656;
 }

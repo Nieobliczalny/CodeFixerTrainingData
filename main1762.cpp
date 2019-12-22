@@ -195,7 +195,7 @@ k++;
 }
 else if (true)
 {
-if (Ws_273 <= 1429964401)
+if (true)
 {
 if ((q45Ujf4 > 1788660127) && (u1Aw8 >= 1615820265))
 {
@@ -355,7 +355,7 @@ else
 Fd4lh20ONF = (int)abs(PyQ_SX1r);
 }
 }
-else if ((EU9IR89W != -1901610171) || ((CduIs < -730502547) && (svTeCB78f == t4jD)))
+else if ((true) || ((CduIs < -730502547) && (svTeCB78f == t4jD)))
 {
 try
 {
@@ -473,7 +473,7 @@ for (int k = 3; k >= 0; --k)
 K90dthttt = RfWk(j2hB14Mz, REy17XBk6R, -1405752898, -852665520, Q_dC1EA4) << 1317065380;
 }
 }
-else if ((N2721 <= -1707515986) || ((q45Ujf4 >= -1268368237) && (j2hB14Mz == IX2V30)))
+else if ((false) || ((q45Ujf4 >= -1268368237) && (j2hB14Mz == IX2V30)))
 {
 try
 {
@@ -520,7 +520,7 @@ cout << Z_LA(UzvC_r34K1, ulnS37BBGp, JAP__k, k8P58j) << PyQg6lbc9M(-489848028, 1
 }
 else if (Z9wAY7_f)
 {
-if (R3nGL7E < 510839724)
+if (true)
 {
 {
 int k = 0;

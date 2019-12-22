@@ -346,7 +346,7 @@ gWLlL5 = axStDk + wn_pLu_mk3;
 break;
 }
 }
-else if ((true) && (wn_pLu_mk3 != 370756834))
+else if ((true) && (true))
 {
 {
 int j = 0;

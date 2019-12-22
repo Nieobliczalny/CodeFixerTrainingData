@@ -289,7 +289,7 @@ i++;
 }
 while (i < 5);
 }
-if (((t4B43 & O4129MfTR) || (U4J4s227vi == q1X3Jaf3y)) || ((true) && (J9On7 != -1551063853)))
+if (((t4B43 & O4129MfTR) || (U4J4s227vi == q1X3Jaf3y)) || ((true) && (true)))
 {
 {
 int j = 0;

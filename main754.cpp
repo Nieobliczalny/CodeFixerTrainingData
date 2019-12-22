@@ -202,7 +202,7 @@ catch (int& errorCode)
 jl_WmbN0j = T2L8Fy(1047443171, 32004736, r649, m_C8qgf, NR4G);
 }
 }
-else if (((U7_L > -1322387374) && (true)) && ((t_cr1W29I) || (NWTzX4u < -1073861645)))
+else if (((U7_L > -1322387374) && (true)) && ((t_cr1W29I) || (false)))
 {
 if (((jNNcGULzR) || (WsRI3YBEc)) && (WsRI3YBEc >= 729041026))
 {

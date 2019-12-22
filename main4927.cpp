@@ -182,7 +182,7 @@ break;
 }
 if (true)
 {
-if ((dnh1kIF01j < yZSG7X63) && (IG0hx >= -580839953))
+if ((dnh1kIF01j < yZSG7X63) && (true))
 {
 switch (p5oU11)
 {

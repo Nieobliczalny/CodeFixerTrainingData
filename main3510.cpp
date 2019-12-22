@@ -429,7 +429,7 @@ while (j < 7);
 
 srQk8PUX0F = wpv_1j2(1085488361, eKjUJ0_z, RxE0ymON);
 
-if (((true) && (uIEZt1F2uG != -1535659505)) || (SY_C >= 1487498167))
+if (((true) && (uIEZt1F2uG != -1535659505)) || (false))
 {
 if (A8J2Z9ur7V)
 {

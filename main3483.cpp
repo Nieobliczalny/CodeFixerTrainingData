@@ -359,7 +359,7 @@ else if (((HB9e2 <= zf1wX6) || (true)) && (m2x337t5))
 {
 xhE8Hai = (int)floor(aAtVO);
 }
-else if (jVy2 < Yu10)
+else if (true)
 {
 S2aYhGv = (double)(G46_962d);
 }
@@ -468,7 +468,7 @@ else if (fXuZ_9YF4L == c5Y0)
 {
 EaMm8t4tal = (unsigned long long)(KVMMiyVW1V);
 }
-else if (c5Y0 < 508524220)
+else if (true)
 {
 Jck1kQ_C = lJI18K ^ zf1wX6;
 }

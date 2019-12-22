@@ -173,7 +173,7 @@ if (false)
 {
 S3K2 = (char)(oUB0owg);
 }
-else if ((u_1Vh9M > 1672139202) || (TVK4yYcy == ynOPC9wu))
+else if ((false) || (TVK4yYcy == ynOPC9wu))
 {
 {
 int j = 4;
@@ -192,7 +192,7 @@ else if (LYftF6TX >= behK18JM84)
 {
 if (hj9LaX1)
 {
-if ((z_MVN9 >= oUB0owg) && ((S3K2) && (S3K2 < H1HW1V9)))
+if ((false) && ((S3K2) && (S3K2 < H1HW1V9)))
 {
 S3K2 = H2Z2GvSFoQ >> 1990354219;
 }

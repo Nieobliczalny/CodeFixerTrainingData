@@ -92,7 +92,7 @@ LvIUA0 = cG6Y887rA(-679904590, mgG2, 1127614561, AX6yA);
 }
 }
 
-if (((t53vu != vfUrSynz1) && (true)) || (E81Og >= -1996442679))
+if (((t53vu != vfUrSynz1) && (true)) || (true))
 {
 d0080u |= OYaJoO;
 }
@@ -167,7 +167,7 @@ case 1:
 F54X = k6Uhcoh9();
 break;
 case 2:
-d0080u = (L_959jjd >= -153490683) ? 264960289 : zsE_;
+d0080u = (true) ? 264960289 : zsE_;
 break;
 }
 

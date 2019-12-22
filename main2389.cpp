@@ -399,7 +399,7 @@ if (w8_c0f7Ds4 & -956519305)
 {
 hA8To20 *= 1355316779;
 }
-else if (m1yRqEQ0b > -92212772)
+else if (true)
 {
 Y92Ot++;
 }

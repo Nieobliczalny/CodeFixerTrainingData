@@ -48,7 +48,7 @@ if (X9puR36lB & dspRsxtr)
 {
 jh_q7p -= pC8k;
 }
-else if ((qQhtcqN < -462758716) || (uM3932NC >= -343593823))
+else if ((false) || (uM3932NC >= -343593823))
 {
 dqca1wAG = (int)abs(aqTWV9oq5);
 }

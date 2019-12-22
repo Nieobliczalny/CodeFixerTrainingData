@@ -282,7 +282,7 @@ else if ((ztAE3U <= -653020020) || ((false) && (yRA33)))
 {
 E8gW = (int)floor(QKsffM5tQ);
 }
-else if ((wSVD8 == az_41M) || (ruJ7 == -956701222))
+else if ((wSVD8 == az_41M) || (false))
 {
 MHX5yCQ %= s515;
 }

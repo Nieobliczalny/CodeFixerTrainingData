@@ -41,7 +41,7 @@ else if (false)
 {
 ohRh5_B = PGf33U35(ohRh5_B, d_VMr68, kaLuz7_6, -1276896486);
 }
-else if ((ohRh5_B <= -134975551) && ((d_VMr68 > hFSb2) && (C1mpwB > X044p8D)))
+else if ((false) && ((d_VMr68 > hFSb2) && (C1mpwB > X044p8D)))
 {
 d_VMr68 = JHNzaosA << hFSb2;
 }
@@ -172,7 +172,7 @@ else
 {
 std::cout << OG1z << "DO6d" << std::endl;
 }
-if (hFSb2 >= 637984214)
+if (false)
 {
 if (false)
 {
@@ -547,7 +547,7 @@ default:
 ohRh5_B = s0iFDA3V(-1027454500, 514025041, -1800109538, -1551393000);
 break;
 }
-if (((true) || (OG1z < EsDXEwcjCm)) && (ohRh5_B >= -364873980))
+if (((true) || (OG1z < EsDXEwcjCm)) && (true))
 {
 OG1z &= 40600239;
 }
@@ -564,7 +564,7 @@ else
 hFSb2 = PGf33U35(C1mpwB, -405635846, ohRh5_B, -1154416410);
 }
 }
-else if (((false) || (OG1z >= X044p8D)) && ((C1mpwB <= hFSb2) || (OG1z < X044p8D)))
+else if (((false) || (true)) && ((C1mpwB <= hFSb2) || (OG1z < X044p8D)))
 {
 hFSb2 = (short)(EsDXEwcjCm + (-1000805553));
 }

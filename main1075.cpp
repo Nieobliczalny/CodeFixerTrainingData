@@ -296,7 +296,7 @@ OD36pDMK = AFs0(1941086220);
 while (j >= 0);
 }
 }
-if (((true) && (beH31 < 1279545714)) || (wj1594byTH <= WT1_BS8w_9))
+if (((true) && (true)) || (wj1594byTH <= WT1_BS8w_9))
 {
 jIH1 = sF96(446640443, yd4If);
 }

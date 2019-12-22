@@ -115,7 +115,7 @@ else if (OnePpD_ex)
 {
 x14GK |= bO29Xc7eIC;
 }
-else if ((E_7TQ < P2yXnZYO) && (b3d3iZ != 1823458946))
+else if ((E_7TQ < P2yXnZYO) && (true))
 {
 Rtjk = (int)abs(XG51b5eU4m);
 }
@@ -278,7 +278,7 @@ RM4g2 &= 1511393588;
 }
 }
 }
-if (cK7I6b <= Jx1j)
+if (true)
 {
 std::cout << Mb4ss << V759mlj_3 << std::endl;
 }

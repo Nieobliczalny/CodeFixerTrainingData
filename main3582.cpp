@@ -153,7 +153,7 @@ while (i >= 0);
 }
 
 V6jwV = (unsigned char)(J55J5JC + (EFU1_));
-if (((V6jwV > J55J5JC) || (false)) || (V6jwV <= 1417237527))
+if (((V6jwV > J55J5JC) || (false)) || (true))
 {
 std::cout << gq22(RPNri) << "k3he3p" << CFP2p() << std::endl;
 }
@@ -323,7 +323,7 @@ V6jwV--;
 
 try
 {
-if (((vmy11_Z >= J55J5JC) && (true)) || ((RPNri >= EFU1_) && (V6jwV & vmy11_Z)))
+if (((vmy11_Z >= J55J5JC) && (true)) || ((false) && (V6jwV & vmy11_Z)))
 {
 if (RPNri >= 1506612206)
 {
@@ -513,7 +513,7 @@ V6jwV = vmy11_Z - 1051689946;
 }
 V6jwV = gq22(2104714062);
 vmy11_Z = (short int)(EFU1_ * (J55J5JC));
-if (vmy11_Z != -390205991)
+if (true)
 {
 std::cout << "LuBh2" << "j4lnme" << std::endl;
 }

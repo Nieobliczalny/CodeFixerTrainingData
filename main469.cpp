@@ -133,7 +133,7 @@ else if (false)
 {
 t0ZV8gwJ = PNUe5sU();
 }
-else if (((U_uxkH & oX8asf9_) || (wvv5s1G == m0c31n8A8e)) || (IoMx1 != 447501702))
+else if (((U_uxkH & oX8asf9_) || (wvv5s1G == m0c31n8A8e)) || (true))
 {
 D6G8 = Rt4uwOTjd(D6G8, zjsC28E4sT);
 }

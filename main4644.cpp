@@ -126,7 +126,7 @@ D7Y7 = KeWb6Ykt | S_LcUEW0EU;
 while (j < 2);
 }
 }
-else if ((true) && ((S_LcUEW0EU <= zmPjY9Pg) || (F3P3iifX != -1218613851)))
+else if ((true) && ((S_LcUEW0EU <= zmPjY9Pg) || (true)))
 {
 yc53 = (long long)(W_TXP2);
 }
@@ -185,7 +185,7 @@ else if (D7Y7)
 {
 if ((true) || ((F3P3iifX < MtmWT1zz) || (OF72 <= -1734827826)))
 {
-if (F3P3iifX != -1680048363)
+if (true)
 {
 Z868mu = W_TXP2 >> D7Y7;
 }

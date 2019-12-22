@@ -199,7 +199,7 @@ else if (false)
 {
 p3_4ds9 = (int)floor(qWyM);
 }
-else if ((es2c93D0 & -750424214) || ((FzT1 > 196341027) || (XUUj6FxYEh < 694639204)))
+else if ((es2c93D0 & -750424214) || ((FzT1 > 196341027) || (true)))
 {
 ka43 = (int)ceil(o_071io_);
 }
@@ -309,7 +309,7 @@ h1xH = (unsigned long long)(oQx4a2nH61);
 o_071io_ = (int)abs(ka43);
 
 cout << Wkj1aa3VaZ(ka43) << "y_e_a" << endl;
-if (((z1rByqg == DgS5) || (false)) || ((u_UJ_y6FeN >= -688495903) || (z1rByqg != -1731642285)))
+if (((z1rByqg == DgS5) || (false)) || ((true) || (z1rByqg != -1731642285)))
 {
 f125nvI_KR = lX_n2(218515014);
 }

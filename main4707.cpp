@@ -101,7 +101,7 @@ if (false)
 {
 K0g6zU5 = Ia91N90E1t / 1735413053;
 }
-else if (i99_wv8 == 1450273040)
+else if (false)
 {
 for (int j = 0; j < 8; j++)
 {
@@ -120,7 +120,7 @@ else if (false)
 {
 RvMxFke = (int)abs(fWVN3Cm);
 }
-else if (i99_wv8 == -365854728)
+else if (false)
 {
 fWVN3Cm = D_Zv9l();
 }
@@ -150,7 +150,7 @@ else if (RvMxFke & -117903929)
 {
 try
 {
-if ((ZPufkJsb & -758082413) || (uK7774_Fcx < 1596905126))
+if ((ZPufkJsb & -758082413) || (true))
 {
 K0g6zU5 *= 1940433627;
 }

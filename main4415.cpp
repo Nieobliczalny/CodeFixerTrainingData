@@ -363,7 +363,7 @@ try
 int k = 0;
 do
 {
-OA_x = (WA6L8FXp8 != r0y2T810f) ? -1794925933 : X4pG3();
+OA_x = (true) ? -1794925933 : X4pG3();
 ++k;
 }
 while (k < 5);

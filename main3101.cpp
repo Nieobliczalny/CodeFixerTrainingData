@@ -102,7 +102,7 @@ if (false)
 {
 std::cout << "pt5N7J4" << "vS9VVK6oq" << Mk979 << "e15_" << std::endl;
 }
-else if (((Tn84DKY2) || (y294 < -622048120)) && (Sxe61e & -1570199880))
+else if (((Tn84DKY2) || (false)) && (Sxe61e & -1570199880))
 {
 if (p1gkR81 > 708868075)
 {
@@ -122,7 +122,7 @@ else
 gJ18Cdp = (short int)(kSI01);
 }
 }
-else if ((AJjUkXL7 > 18378430) && ((L3o0_dcuY <= -919131811) && (sY7UiQ & -2121570991)))
+else if ((false) && ((L3o0_dcuY <= -919131811) && (sY7UiQ & -2121570991)))
 {
 for (int j = 5; j >= 0; --j)
 {
@@ -300,7 +300,7 @@ catch (int& errorCode)
 Bd54mk += 1549340828;
 }
 }
-else if (iZq86 < 177247494)
+else if (true)
 {
 CC87d14dl = Ayp7(TbM1K2Q);
 }

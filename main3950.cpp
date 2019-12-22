@@ -100,7 +100,7 @@ else if (DFGyF6If >= PEXU_7W6)
 {
 ewaEH = JCkD4H50ah ^ e7nFE7;
 }
-else if (z_c8NJf != 158995055)
+else if (true)
 {
 H9au = aob9qu0jDT | 568199625;
 }
@@ -325,7 +325,7 @@ else
 std::cout << qmC97Lo << "J_4n3NV4" << nF4nv_3e_1 << std::endl;
 }
 }
-else if ((Oh947 & DM2EI41221) && ((false) || (qfP1 < 1677067227)))
+else if ((Oh947 & DM2EI41221) && ((false) || (true)))
 {
 try
 {
@@ -344,7 +344,7 @@ else if (i_a4UO995)
 {
 zZR4 = Z6ihJ ^ l738;
 }
-else if ((qfP1 <= -446531932) || (nF4nv_3e_1 <= H9au))
+else if ((false) || (nF4nv_3e_1 <= H9au))
 {
 switch (vBCb2j7f)
 {
@@ -403,7 +403,7 @@ break;
 }
 }
 
-if ((false) || (l738 <= -1600353797))
+if ((false) || (false))
 {
 {
 int j = 9;
@@ -422,7 +422,7 @@ else if (wiN0l5hg)
 {
 DM2EI41221 &= 1524747593;
 }
-else if (KJaP62uE6 <= 616437188)
+else if (true)
 {
 JCkD4H50ah /= wiN0l5hg;
 }

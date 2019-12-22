@@ -136,7 +136,7 @@ if (false)
 {
 Du0Q2LGv5 = (short)(d6JwrO);
 }
-else if (Co65ei_7 != L6GpXt9E)
+else if (true)
 {
 if (i39oX0A & 1066867324)
 {

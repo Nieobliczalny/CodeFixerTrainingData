@@ -121,7 +121,7 @@ for (int i = 0; i < 9; i++)
 {
 if (Z3zdq90j != B7rU6YbGQR)
 {
-if ((true) && ((t3Tt7oRI > pbk49H) && (o4fGPFWey > -355122206)))
+if ((true) && ((t3Tt7oRI > pbk49H) && (true)))
 {
 Wvt6S = r7d1x % 464717978;
 }

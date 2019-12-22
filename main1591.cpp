@@ -84,7 +84,7 @@ X66T1W = (short)(W5PL);
 }
 while (i >= 0);
 }
-if ((true) && (Xf0UZ != -1288437137))
+if ((true) && (true))
 {
 u38N3 = (short)(dTG8Z1);
 }

@@ -425,7 +425,7 @@ else if ((true) && (lc39CrzOB > 839368936))
 {
 std::cout << J2_v2XKVuO << huhYK_0YK << std::endl;
 }
-else if (EEQK_zocu == 316423858)
+else if (false)
 {
 {
 int j = 6;
@@ -513,7 +513,7 @@ else
 Bg79x = (int)abs(LFU9O2) + (-118457451);
 }
 }
-if (J2_v2XKVuO < 2100858320)
+if (true)
 {
 vi7EHc = AFw5F & lc39CrzOB;
 }

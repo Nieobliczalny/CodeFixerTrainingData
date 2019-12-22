@@ -404,7 +404,7 @@ else if (YTz2inM == sa05)
 {
 YOiR = ZyM_(YOiR, -339060052);
 }
-else if (m1O3 == 63136695)
+else if (false)
 {
 ntYSgV--;
 }
@@ -569,7 +569,7 @@ int j = 0;
 do
 {
 j++;
-if (((qe1O32y0V > Z3fQ3INU) || (tj0Deg_C_O & CR0t_8)) || (eFd4Y_gq != sa05))
+if (((false) || (tj0Deg_C_O & CR0t_8)) || (eFd4Y_gq != sa05))
 {
 B957 ^= K_R4cODT09;
 }

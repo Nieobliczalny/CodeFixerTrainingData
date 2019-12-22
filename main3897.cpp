@@ -328,7 +328,7 @@ catch (int& errorCode)
 kHWG92++;
 }
 e08IDc = idZk / kHWG92;
-if (((kHWG92) || (true)) && ((e08IDc > Kx4l) || (idZk < 1948661674)))
+if (((kHWG92) || (true)) && ((e08IDc > Kx4l) || (true)))
 {
 if (e08IDc > 217190594)
 {

@@ -154,7 +154,7 @@ if (((zG2pYT & 726206034) && (Tw6x > bD90H_)) || (false))
 {
 WNz_sM4rdM = (short)(vZ77UR5u8v);
 }
-else if (l_F149A == 413606666)
+else if (false)
 {
 bSl1jbEHx = zG2pYT % 1059609630;
 }
@@ -529,7 +529,7 @@ i--;
 int j = 5;
 do
 {
-if ((true) && (AVR15 >= vZ77UR5u8v))
+if ((true) && (false))
 {
 Qn88HFiMCf = yjn5j9 >> hig51c1;
 }

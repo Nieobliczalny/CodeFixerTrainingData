@@ -238,7 +238,7 @@ if (false)
 {
 BSQM = K9656 >> Lg_ClOY;
 }
-else if ((Lg_ClOY == -170992555) && ((M0I5e07tr != 942559679) || (yZuqx7)))
+else if ((false) && ((M0I5e07tr != 942559679) || (yZuqx7)))
 {
 U7mA2 = (int)floor(xR608nb);
 }
@@ -432,7 +432,7 @@ do
 i--;
 if (true)
 {
-if (E94g < 1519294975)
+if (true)
 {
 lQ42WJXlD /= G8w7C18;
 }

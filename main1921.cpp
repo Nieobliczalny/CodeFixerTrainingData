@@ -176,7 +176,7 @@ std::cout << "rcavKCsGOi" << PRdOsVs_(-1555459556, -862583276) << "e8Sfp_awqF" <
 
 try
 {
-if (((false) || (bXkb4_3lq > 1092435023)) || (XX28 > -2118599937))
+if (((false) || (false)) || (XX28 > -2118599937))
 {
 if ((g14eYpPK9 >= NayYfE) || ((s1w8O01 > RB64BIie) || (vwpTa9 > QhPAqz)))
 {
@@ -195,7 +195,7 @@ else if (((gHL8 & -830727491) || (LCHSB5D0 != -2068853651)) || (uO7pb & 18524666
 {
 TNK8u5Qc9Y = (int)ceil(N8UXPfpa);
 }
-else if (XX28 == 325960423)
+else if (false)
 {
 if (s1w8O01 != C5Y59d7r8)
 {

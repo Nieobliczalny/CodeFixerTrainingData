@@ -99,7 +99,7 @@ else if ((s2X4t == EtKbZ7Mc0) && (false))
 {
 I_u9Nh06vs >>= 1408955840;
 }
-else if (I_u9Nh06vs > -1708311114)
+else if (true)
 {
 RMVjQAxy7h++;
 }

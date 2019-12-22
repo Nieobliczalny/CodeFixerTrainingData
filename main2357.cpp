@@ -191,7 +191,7 @@ else if (((w77x <= -613357943) || (false)) || (mBQG0S))
 {
 s2mdv <<= 1550971683;
 }
-else if (mbjF >= -1476407118)
+else if (true)
 {
 EK6Q8Y = (int)ceil(M6hh077s);
 }

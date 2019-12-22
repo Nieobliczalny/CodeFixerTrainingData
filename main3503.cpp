@@ -249,7 +249,7 @@ try
 {
 if (true)
 {
-if ((dg1T9Dy >= t_zy) || ((qUG2covw_ < -636606142) && (xv7PJxV1i == g7P48)))
+if ((dg1T9Dy >= t_zy) || ((false) && (xv7PJxV1i == g7P48)))
 {
 W47w = p3yVxCj0XA / p3yVxCj0XA;
 }

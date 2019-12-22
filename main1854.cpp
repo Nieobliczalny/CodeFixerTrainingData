@@ -120,7 +120,7 @@ else if (((f95V & xB237W) || (MB_kh8N == z472QiBhdF)) || (z8u3_IT))
 int j = 7;
 while (j >= 0)
 {
-if (((false) || (f95V)) || (WRdz10S27 > R_srn6))
+if (((false) || (f95V)) || (false))
 {
 Zq1jSXCt_ = (int)ceil(fu482);
 }

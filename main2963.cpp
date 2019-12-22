@@ -437,7 +437,7 @@ mv2Q = b844b3BCLk(mv2Q, -761045169, myC5, H3fH);
 }
 else
 {
-if (((true) && (eR1zaeVi <= NmS8rxS)) && (N5r8VE18 != VdL4))
+if (((true) && (eR1zaeVi <= NmS8rxS)) && (true))
 {
 std::cout << iU22GamH(-1622470579, -1316810246, myC5) << "Ffr84z" << "QOQH35" << std::endl;
 }

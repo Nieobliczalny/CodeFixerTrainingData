@@ -166,7 +166,7 @@ else if (p973Rw9u0 == y2185)
 {
 bY500PA = U_17N4f & 544681830;
 }
-else if (OYC97sOkV != -1604229576)
+else if (true)
 {
 U6QV5Ty = wAy6(U6QV5Ty);
 }
@@ -246,7 +246,7 @@ n64aDa96EX &= G__s100lf8;
 }
 if ((paf9 >= aY1r) || (false))
 {
-if (((r22X2JhB > 1606361298) && (xTO2_ki < -1009020177)) || (YAEubGzJA4 < reDivuwCc))
+if (((false) && (xTO2_ki < -1009020177)) || (YAEubGzJA4 < reDivuwCc))
 {
 kMd3JBz ^= pCMpU;
 }

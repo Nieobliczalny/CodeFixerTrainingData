@@ -576,7 +576,7 @@ else
 f4Yr = (int)floor(dYw61l3);
 }
 }
-else if ((hAONsrGC <= -1373152056) && (ew5279_D_9))
+else if ((false) && (ew5279_D_9))
 {
 std::cout << m_H8zZ << std::endl;
 }

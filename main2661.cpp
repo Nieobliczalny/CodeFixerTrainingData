@@ -119,7 +119,7 @@ if ((UzMshrm8) || (true))
 int j = 0;
 while (j < 5)
 {
-if (((g7YDCl08 <= k256O_Y_) && (YLLI341u_ > p26jk1)) || ((ovVMsCS_jw == 1876730012) || (K14tDmdJwz != oc0r8y4N6E)))
+if (((g7YDCl08 <= k256O_Y_) && (YLLI341u_ > p26jk1)) || ((false) || (K14tDmdJwz != oc0r8y4N6E)))
 {
 l_Bs = i1_r0Lo ^ B3G9vV9X;
 }

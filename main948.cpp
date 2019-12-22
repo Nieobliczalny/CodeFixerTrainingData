@@ -56,7 +56,7 @@ int i = 7;
 while (i >= 0)
 {
 --i;
-if (((false) || (bOZ_rVpx != h_GQahHfl8)) || (s_7_xMx >= A7eh3))
+if (((false) || (bOZ_rVpx != h_GQahHfl8)) || (false))
 {
 {
 int k = 0;

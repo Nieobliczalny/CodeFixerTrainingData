@@ -644,7 +644,7 @@ break;
 }
 }
 }
-else if (((CsrL & 919608357) && (true)) || ((W25vdZE_Lu < 1855947200) && (vH11E & -666762858)))
+else if (((CsrL & 919608357) && (true)) || ((true) && (vH11E & -666762858)))
 {
 if (cphh == pFBHe2R)
 {

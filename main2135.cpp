@@ -118,7 +118,7 @@ for (int j = 0; j < 2; j++)
 zroBW0te1 = (int)floor(CGyq1);
 }
 }
-else if (((Gs8SNEBeoj >= 307170359) && (X6grLJn_u == 1629763379)) && (HpfzE1s))
+else if (((false) && (X6grLJn_u == 1629763379)) && (HpfzE1s))
 {
 try
 {
@@ -271,7 +271,7 @@ if ((lcX17i40JL > ffMaP41H) && ((I257Ls1u < 1268995122) && (false)))
 {
 X6grLJn_u = P1Y4D(884431090, 2118998449, KI2Or11);
 }
-else if (lNO9c3fYb < 903044783)
+else if (true)
 {
 Bdby5 = (int)floor(Fm1T6abM);
 }
@@ -604,7 +604,7 @@ Bdby5 = mvxu >> J3QZ;
 
 try
 {
-if (MUsl != 13259957)
+if (true)
 {
 cout << tW_W4XbJau << HpfzE1s << P1Y4D(D90r, 1235586566, -2055793953) << endl;
 }

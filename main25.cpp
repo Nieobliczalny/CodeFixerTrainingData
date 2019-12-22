@@ -128,7 +128,7 @@ else if (((y048zNh3EC & knLVz6) || (Lj3ZRm < r1KbgPdL)) || (isN4d & -1351024537)
 {
 sSxUgk = XX38KO();
 }
-else if ((YM7O) || (AieReRz >= -42124203))
+else if ((YM7O) || (true))
 {
 isN4d = AieReRz + GeGuv81g5;
 }

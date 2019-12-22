@@ -478,7 +478,7 @@ ntQv = degra % WD933ujN3;
 
 if ((false) || ((n7oibW2 <= ltRk) || (mfInu6 > cs_N8w09)))
 {
-if (n7oibW2 < HkR5687R)
+if (false)
 {
 if (((uvkrEn <= ntQv) || (n57JVd297 > a6t7)) && (uvkrEn != 2065149844))
 {

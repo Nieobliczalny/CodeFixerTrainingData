@@ -87,7 +87,7 @@ else if (false)
 {
 MW9b9t4je |= 1728349087;
 }
-else if (((jbl00_Kc > -1892970507) || (MW9b9t4je == 260088626)) || ((b7x2 < -789269996) || (d2AvQ7Sve6 <= 524598956)))
+else if (((jbl00_Kc > -1892970507) || (false)) || ((b7x2 < -789269996) || (d2AvQ7Sve6 <= 524598956)))
 {
 std::cout << sq9B << std::endl;
 }
@@ -226,7 +226,7 @@ else
 P77_c--;
 }
 }
-else if (((false) || (v6Y3B < -156109101)) && ((F8uAEhD1 & 815213655) && (b3l3kAdb4_ == LvaT487S)))
+else if (((false) || (false)) && ((F8uAEhD1 & 815213655) && (b3l3kAdb4_ == LvaT487S)))
 {
 if (F8uAEhD1 != 1832901528)
 {

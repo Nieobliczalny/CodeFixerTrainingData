@@ -132,7 +132,7 @@ else if (Ellgy1S >= -365133454)
 {
 if (true)
 {
-if ((eD8eXg0x == JvPSAyh1GQ) || ((B8w3_Z8d) && (eD8eXg0x >= 217694809)))
+if ((eD8eXg0x == JvPSAyh1GQ) || ((B8w3_Z8d) && (false)))
 {
 br5iNT_ = jle3oVS7(Ellgy1S, QEr4, bVS3E, -1605163189);
 }

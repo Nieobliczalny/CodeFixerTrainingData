@@ -271,7 +271,7 @@ else if (((bH_Wp2QB < RB_0) || (true)) && (SM7_8RoOTX > xt1LU1s))
 {
 cout << b4sGb2MMb << endl;
 }
-else if (q1E2 >= -1924277305)
+else if (true)
 {
 N80e5YvPV += 918091264;
 }
@@ -356,7 +356,7 @@ while (i < 8);
 }
 try
 {
-if (((true) && (N80e5YvPV & M_18Sjiw7h)) || ((AtYGNsA7 == -1926585280) || (OQRY36nN)))
+if (((true) && (N80e5YvPV & M_18Sjiw7h)) || ((false) || (OQRY36nN)))
 {
 switch (bH_Wp2QB)
 {

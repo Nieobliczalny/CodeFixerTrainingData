@@ -72,7 +72,7 @@ c1WMjeeG = (unsigned char)(ZJF048);
 
 if (c1WMjeeG >= JGbX)
 {
-if (NR2d2hRO6 == -55232704)
+if (false)
 {
 if ((jiurbsDA <= 2045283806) && ((xH_I0d90z5 > 2116015810) && (zQP3s == -63034865)))
 {
@@ -204,7 +204,7 @@ if (false)
 {
 j2JYb = pkoxV0B9 + 1452528181;
 }
-else if (iiWL <= 78934657)
+else if (true)
 {
 oV0Y1sa9 = Y56cfJS(AQ6Ay3, -856867716);
 }

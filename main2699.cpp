@@ -297,7 +297,7 @@ Bqo5WtChIK = WYmjf3V3 * 1348444438;
 while (i >= 0);
 }
 
-if (((J7P2KSQ == VmY2) || (false)) || ((Eov0M6aC83 <= 294335157) && (poK0 < -626017142)))
+if (((J7P2KSQ == VmY2) || (false)) || ((true) && (poK0 < -626017142)))
 {
 if (B7me <= 921919717)
 {

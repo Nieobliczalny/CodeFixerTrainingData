@@ -259,7 +259,7 @@ L7P0 = n4VNQOZck & MGag;
 }
 else if (a6yO54 < n0nDD)
 {
-if ((Bn9R2_ & 1641593234) || ((QsMt8byrA != 1690196985) && (LxecJ5m3M > A4P_X6)))
+if ((Bn9R2_ & 1641593234) || ((true) && (LxecJ5m3M > A4P_X6)))
 {
 c3o1 = (int)abs(Zf_y_K290);
 }

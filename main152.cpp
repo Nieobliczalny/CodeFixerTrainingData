@@ -296,7 +296,7 @@ if ((M3Bpg8_fCT != 964141263) && ((cKTxI68 < OIhGW3aG2f) || (false)))
 {
 try
 {
-if (be9gP9CoSD == -1656540544)
+if (false)
 {
 OTy67nk56Q = R4i1g_1hH(OTy67nk56Q);
 }
@@ -365,7 +365,7 @@ QxE00 = A09l2N1hlY(-1913936323, rbyk1MHq0T, -1397800035);
 
 k_k_PxQ79n = (int)ceil(D0_2g);
 
-if (((true) || (SP3y5X99y7 != -1509334010)) && (sJ3r0g3FBf <= 768271823))
+if (((true) || (SP3y5X99y7 != -1509334010)) && (true))
 {
 if (yGx2 == 535857362)
 {
@@ -388,7 +388,7 @@ V9kOyhWW = (unsigned char)(QM_mb5E5);
 
 std::cout << E2I2f7wJ(QxE00, 948285281) << JgrDJcT << std::endl;
 
-if (APGw2qH <= 598651264)
+if (true)
 {
 for (int j = 3; j >= 0; j--)
 {

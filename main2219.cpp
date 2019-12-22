@@ -69,7 +69,7 @@ int main(int argc, char** argv)
 	HtcH_	=	-1652405;
 
 bee9t72Pe4 = (int)abs(Hon5HPxkg);
-if ((true) && (lAb4Yr09x <= I40xSy))
+if ((true) && (true))
 {
 if ((lf_I5mC > -592033031) || (N2U2p9a < Tu9KL_k50))
 {
@@ -126,7 +126,7 @@ else if ((W3_u0T & l2Oysd) && (false))
 {
 Vv077 = cjqvj7(x7Dqz_yH9d, -1049474284);
 }
-else if (yBH6e1 <= -1696587918)
+else if (false)
 {
 Sle18UO4 = (int)abs(E038MJ);
 }
@@ -153,7 +153,7 @@ else
 cout << cjqvj7(u9P8v, -509772914) << "mJkm" << endl;
 }
 
-if (((false) || (hkl5 < -1665690868)) && ((Il7kt67LG < r07T) || (RHB_r)))
+if (((false) || (false)) && ((Il7kt67LG < r07T) || (RHB_r)))
 {
 cout << y4KQe(u9P8v) << endl;
 }

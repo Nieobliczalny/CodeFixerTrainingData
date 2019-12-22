@@ -36,7 +36,7 @@ int main(void) {
 D6c57g /= 426812103;
 
 WWO25y = XX35(891030038, s8o7eqwtt);
-if (((false) && (wD8L0366D < 49452697)) || (tuX5tH > -207835620))
+if (((false) && (wD8L0366D < 49452697)) || (true))
 {
 if (eL2K90y_Li != -167966858)
 {
@@ -74,7 +74,7 @@ XR_Gqrb = (unsigned short int)(aVX8eCW);
 }
 else if (d37RIW3Slj & -1870180767)
 {
-if ((aVX8eCW >= -1930394799) && (tuX5tH != s4Bz))
+if ((true) && (tuX5tH != s4Bz))
 {
 for (int k = 0; k < 7; ++k)
 {

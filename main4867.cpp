@@ -36,7 +36,7 @@ Iyj0RMOvYq <<= 703811374;
 
 if (((R2aWb94 == V_gM9nB) && (false)) || (Iyj0RMOvYq >= 2134200462))
 {
-if (ekaE3xlb != 1982009785)
+if (true)
 {
 if (cGYxG_Z3 >= Iyj0RMOvYq)
 {

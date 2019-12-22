@@ -345,7 +345,7 @@ break;
 
 if (Y_lw1A >= fr_r0FxLFk)
 {
-if ((false) || (I74zL >= -2107538454))
+if ((false) || (true))
 {
 OwD2Krry = (unsigned short)(ELyMZ);
 }
@@ -365,7 +365,7 @@ else if (false)
 {
 std::cout << "V90FGSE4" << p0Fnqeqk << "jHCk" << "y6b0" << std::endl;
 }
-else if (((rjbg9M22e7 < PFdDVZ) && (ZVZ1SfbgyY != WHr_o79)) && (zLyVvhkW6 >= JaBpE))
+else if (((true) && (ZVZ1SfbgyY != WHr_o79)) && (zLyVvhkW6 >= JaBpE))
 {
 if (Y52eLP < S0822)
 {
@@ -485,7 +485,7 @@ Q555_ = (int)abs(M6pe7Hq53);
 }
 if (true)
 {
-if (rH57H == -481204472)
+if (false)
 {
 try
 {

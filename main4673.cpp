@@ -129,7 +129,7 @@ J4nn9JlDW = (short)(B8b4_0K1t5);
 }
 else
 {
-if (vEdI >= -1467608087)
+if (true)
 {
 if (((r2_IBo >= RfK70WPTt) && (ZVnk91HdK5 & JkAChf)) || (oH1V13))
 {
@@ -313,7 +313,7 @@ if (J4nn9JlDW)
 {
 vEdI = VlUxmqVTq4 >> 345254332;
 }
-else if ((r5bfJ1 >= -1104287804) && (qKz5a8B))
+else if ((true) && (qKz5a8B))
 {
 nXQzO = c_07(nXQzO, WK_BApLzRp, QvH9v6, 748571870, -996157280);
 }

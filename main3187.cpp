@@ -604,7 +604,7 @@ if ((d4_6) && (PRH1NA <= Tur3D9Bpd_))
 {
 std::cout << guU6413gR5() << d4_6 << std::endl;
 }
-else if (((false) && (D504 > Tur3D9Bpd_)) || ((n9812_8v > -1705216622) || (T3h5no0R_ > -270279487)))
+else if (((false) && (D504 > Tur3D9Bpd_)) || ((true) || (T3h5no0R_ > -270279487)))
 {
 {
 int k = 0;

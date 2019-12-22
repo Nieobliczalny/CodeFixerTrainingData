@@ -107,7 +107,7 @@ JN9x5ZO_c0 = vAv6Gm6G - Y3a5R07O3z;
 
 if ((true) && (H_109Ff))
 {
-if (((F3U7w >= -1790649733) || (w94cs)) && ((v94EM == -583863139) || (AGNWr1Rg == 936204165)))
+if (((true) || (w94cs)) && ((v94EM == -583863139) || (AGNWr1Rg == 936204165)))
 {
 for (int k = 0; k < 7; ++k)
 {
@@ -218,7 +218,7 @@ v94EM *= 1618924058;
 
 if (c2m3br74)
 {
-if ((false) || (h8ZX03bCek == 1335698167))
+if ((false) || (false))
 {
 w94cs = PL9OZN();
 }

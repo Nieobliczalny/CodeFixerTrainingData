@@ -303,7 +303,7 @@ if (true)
 {
 Qq9hrp5YL = (unsigned char)(mkFh);
 }
-if (Z0C_k19rf >= -72712450)
+if (true)
 {
 if ((cz5zm8g4 >= c3307n4) && ((h2CRVai == -1035829094) && (K3p0Q)))
 {

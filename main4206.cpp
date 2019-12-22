@@ -136,7 +136,7 @@ else
 Hfkd = Za0u07u0();
 }
 }
-else if ((true) && (L4L30xg_6 == 825710913))
+else if ((true) && (false))
 {
 {
 int k = 0;
@@ -365,7 +365,7 @@ if (J83GHtjK <= fxz4TN66)
 {
 try
 {
-if ((LfHX) && (hg8tOt4 == 1257013007))
+if ((LfHX) && (false))
 {
 Hfkd = Za0u07u0();
 }

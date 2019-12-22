@@ -120,7 +120,7 @@ else if (false)
 {
 lEh3hW7 = SR6w(-1868607163, 334420762);
 }
-else if ((gx35zZqSJ) || ((s_BS != -1046187549) && (JZ2V & 1049990388)))
+else if ((gx35zZqSJ) || ((true) && (JZ2V & 1049990388)))
 {
 BRWb4ws = (int)abs(s79fJ);
 }
@@ -218,7 +218,7 @@ break;
 while (i < 8);
 }
 
-if (((false) || (puDDG6 < 1433534275)) && ((xKqbJ2B2 >= 1621571586) || (wOTU244h == 74608664)))
+if (((false) || (true)) && ((xKqbJ2B2 >= 1621571586) || (wOTU244h == 74608664)))
 {
 EbT38D5K = (unsigned short int)(JnT3);
 }

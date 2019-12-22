@@ -41,7 +41,7 @@ if (v12d88y2eJ & 1206990171)
 {
 ZH9VJ301 = sRRXzyyE3(T54oNXPR8, -1983556313, Q_hgIB, ZH9VJ301, G1gX);
 }
-else if ((false) || ((YLL5xh_ >= -163924599) || (w5th < 1429152636)))
+else if ((false) || ((YLL5xh_ >= -163924599) || (true)))
 {
 for (int j = 0; j < 6; j++)
 {

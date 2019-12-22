@@ -109,7 +109,7 @@ cout << "BS_V7X__a" << "dhAP6xJ54" << koT4 << IlnXIu5_R7 << endl;
 }
 else if (true)
 {
-if (BFI0 >= -474518777)
+if (true)
 {
 koT4 = J8M5l_A ^ 1852173273;
 }

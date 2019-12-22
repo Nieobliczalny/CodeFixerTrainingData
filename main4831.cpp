@@ -120,7 +120,7 @@ if (false)
 {
 fZTUY2GkgF = (long long)(n3e_1Jwg);
 }
-else if (FgjL > -920291646)
+else if (true)
 {
 ImBk_dnEK0 &= 1385407215;
 }

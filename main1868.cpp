@@ -151,7 +151,7 @@ if (false)
 std::cout << SqU6y6Ra << std::endl;
 }
 
-if ((hce87YB5 & -1566951055) && (SqU6y6Ra > -845730322))
+if ((hce87YB5 & -1566951055) && (true))
 {
 std::cout << j09Hd(RYruto77vw, OBg6gp2K, SqU6y6Ra) << std::endl;
 }

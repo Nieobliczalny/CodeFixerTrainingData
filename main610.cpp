@@ -142,7 +142,7 @@ else
 {
 for (int j = 2; j >= 0; --j)
 {
-if (((O0a7cYYz < o8r939xm) || (true)) && (xXTGc < 1052163404))
+if (((O0a7cYYz < o8r939xm) || (true)) && (true))
 {
 aDQTK5 = cWs359f();
 }

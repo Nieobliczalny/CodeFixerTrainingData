@@ -91,7 +91,7 @@ else if (YKTOi_87o != -2019730229)
 {
 hy9Q3 &= thIj041;
 }
-else if (o75N > 1549580031)
+else if (false)
 {
 std::cout << "m78_X54Pc5" << std::endl;
 }
@@ -123,7 +123,7 @@ else if ((FiD7 <= 1057737913) || (iAK2_))
 {
 if ((s_TPqza9G2 <= 1801208860) && ((h72cI < dR7gS) && (MRJNU_nqyb)))
 {
-if (dR7gS != 829305633)
+if (true)
 {
 bCx19D -= I1_y_;
 }
@@ -233,7 +233,7 @@ else if ((thIj041 > -1552454823) && (FiD7 >= -934731693))
 {
 I1_y_ = bCx19D >> 1553313943;
 }
-else if (o75N != -1504296303)
+else if (true)
 {
 I1_y_ = gjvi / 1941610404;
 }

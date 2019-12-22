@@ -393,7 +393,7 @@ else
 W3WwL = (int)abs(XrPP);
 }
 }
-else if (a41exY >= 745908808)
+else if (false)
 {
 if (true)
 {
@@ -433,7 +433,7 @@ else if (s6_7RN >= yPS6)
 {
 vM3fm2 = HQ8b5 - nDLe2_wL;
 }
-else if (DCHV7g6_f6 <= -1928525632)
+else if (false)
 {
 RuC0b00 = (int)abs(OsOg4IvvX);
 }

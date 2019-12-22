@@ -201,7 +201,7 @@ pH_uT = xpgf(pH_uT, mY6i4c2Q, 425140420, -2122779867, 734785774);
 
 J9j9 = (short int)(w21CM2qx3_);
 
-if (((false) && (Vv5cFI7N4 <= 2037806277)) || ((da1Dbai < -675791781) && (CjFn1v < -1948746605)))
+if (((false) && (Vv5cFI7N4 <= 2037806277)) || ((false) && (CjFn1v < -1948746605)))
 {
 switch (zCxyhe7_)
 {

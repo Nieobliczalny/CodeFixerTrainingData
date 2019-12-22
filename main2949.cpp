@@ -417,7 +417,7 @@ lEdu *= wRj6V_;
 
 g5Dl = B7_27A & zQH5S9;
 
-if ((false) || ((Erlm2YI <= -826125384) && (XKwlC7Oc5 <= 1665564180)))
+if ((false) || ((false) && (XKwlC7Oc5 <= 1665564180)))
 {
 uCqPa = (unsigned short)(XE8UyNd_A0);
 }

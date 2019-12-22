@@ -199,7 +199,7 @@ else if ((WbT23rZR < EAZz60Vg) || (false))
 {
 nsOkn16i_k = (int)ceil(y2qbTg);
 }
-else if ((t2m_0Oxj >= kJ_AahzL) && (eCzI6C9U == kJ_AahzL))
+else if ((false) && (eCzI6C9U == kJ_AahzL))
 {
 Sj3z = (int)ceil(t2m_0Oxj);
 }

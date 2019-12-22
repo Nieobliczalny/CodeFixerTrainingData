@@ -397,7 +397,7 @@ else if ((true) && ((C0g0gwM) && (q0ToZ7a)))
 {
 Z_SWoD9M2R &= 807355169;
 }
-else if (lmDB1sR == -1579558178)
+else if (false)
 {
 ItcOkoHwSk = F00bu4(1452522078, -63840613, -3704088, dmu6X6R094, 1998000867);
 }
@@ -649,7 +649,7 @@ cout << F00bu4(hu7G, -1117908399, 1679668809, -75654725, pFjao1tl) << "LS1XD" <<
 while (j < 7);
 }
 }
-else if ((N6CLiTpY91 <= Km_x) && ((true) && (q0ToZ7a == 820936444)))
+else if ((N6CLiTpY91 <= Km_x) && ((true) && (false)))
 {
 if (Z_WLtK0 <= 757552918)
 {
@@ -726,7 +726,7 @@ else if (Zwy6Z != 1146593756)
 {
 P4oe4o4Pb4 = (int)floor(l57J);
 }
-else if ((C0g0gwM > -1701042681) || (ItcOkoHwSk))
+else if ((true) || (ItcOkoHwSk))
 {
 hu7G = p_Pf2g5z0D % z_J_j727;
 }

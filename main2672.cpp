@@ -293,7 +293,7 @@ int i = 3;
 do
 {
 --i;
-if ((true) && ((z4KSW3U_ == 1931782989) || (k0Mpg_3K <= -972818758)))
+if ((true) && ((false) || (k0Mpg_3K <= -972818758)))
 {
 if (((EV7K9cl6k > TvTGlceT) || (VwwtiFrd4q < GB0Zd)) && (OFEHuGIIqx >= 1779082119))
 {
@@ -311,7 +311,7 @@ else if ((false) && ((dp7y > -1861024607) && (MKuEO_ac & 15193391)))
 {
 sBzCGnjh8 = T7VcE_Ju(655749879, OFEHuGIIqx, 2112255564, 461892483, k0Mpg_3K);
 }
-else if ((nhSEHa != rJRTITB7) || (dwuug_cB == -262370438))
+else if ((nhSEHa != rJRTITB7) || (false))
 {
 sBzCGnjh8 = T7VcE_Ju(t6N0343eSy, -931299295, W4Qj, qMD6751vqE, q_ZHDfiewU);
 }

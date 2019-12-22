@@ -525,7 +525,7 @@ else if (zSt28pd != t9UBb1)
 {
 Gq1ipC %= KI6u5PhfU;
 }
-else if ((YdK1nwHN <= -1483987913) && ((JSJCg99w_C >= -508152175) || (i5SDbTIR2 == KC5VV8)))
+else if ((false) && ((JSJCg99w_C >= -508152175) || (i5SDbTIR2 == KC5VV8)))
 {
 a35Z = vOb8EMI(815312573, 2058199455, -1415135791);
 }

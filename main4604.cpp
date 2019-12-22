@@ -64,7 +64,7 @@ a6_make4 = (long double)(rwjK);
 
 OFEug8J = Z2oSe3G6 ^ 1592624131;
 
-if (((true) && (X7Tp >= -708045517)) && (Z2oSe3G6))
+if (((true) && (true)) && (Z2oSe3G6))
 {
 rwjK = AsF5WVkJmN >> Mer5TGkH3;
 }
@@ -486,7 +486,7 @@ else if ((Ycu9) || (Z2oSe3G6 == X7K8luIxu))
 {
 Z0R1Dr = (int)abs(x6lU9VmO);
 }
-else if ((q1G8lHC6Vm == a6_make4) && (Qo5FiRKiT >= 90651152))
+else if ((q1G8lHC6Vm == a6_make4) && (false))
 {
 for (int j = 1; j >= 0; j--)
 {
@@ -508,7 +508,7 @@ else
 {
 try
 {
-if ((Z2oSe3G6 > 1728553908) && (Ycu9 != -72724053))
+if ((false) && (Ycu9 != -72724053))
 {
 JSfwatS = Mer5TGkH3 << 1344348847;
 }

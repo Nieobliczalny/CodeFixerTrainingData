@@ -145,7 +145,7 @@ else
 qxHAPTR = (int)ceil(pp43T7);
 }
 }
-else if ((SR0Pq54 <= 1891012341) || (uqQf > -97595868))
+else if ((true) || (uqQf > -97595868))
 {
 for (int k = 0; k < 6; ++k)
 {

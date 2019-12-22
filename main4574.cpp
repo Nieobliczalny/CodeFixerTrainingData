@@ -99,7 +99,7 @@ else if ((VD431e > RfP48LpL) || (Xqj0mKtp >= 1648588391))
 {
 Jw_vD = (int)abs(AV7Uvz4sO5);
 }
-else if ((false) || (lc2U6y != -1303956678))
+else if ((false) || (true))
 {
 k3XEdaw29++;
 }

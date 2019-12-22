@@ -27,7 +27,7 @@ catch (int& errorCode)
 {
 H1FR = (int)abs(TE_gfz);
 }
-if ((false) || (gfBX <= -1202660926))
+if ((false) || (false))
 {
 W1O0d <<= xr3uNoOVwY;
 }
@@ -300,7 +300,7 @@ else if (NZwPB <= LC_YX)
 {
 hoWk = F_U2k6(h5YfD);
 }
-else if ((xjLjYIc >= MV_2I2bG) || (X1zTvZ4Dw5 >= -1177048809))
+else if ((xjLjYIc >= MV_2I2bG) || (true))
 {
 hoWk = F_U2k6(-2060251410);
 }

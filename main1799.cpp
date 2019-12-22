@@ -296,7 +296,7 @@ Qlz6N8 = QUhPS(-664561246);
 }
 else if ((rJKO3R != MreHDv5j5) && (xnZF < DE7DzGtfp))
 {
-if ((dYp12__T1 > 1174042675) && ((cY4q4HE_kW > -1617357025) && (Q34_e > 2090138578)))
+if ((false) && ((cY4q4HE_kW > -1617357025) && (Q34_e > 2090138578)))
 {
 if (bqym >= -1663885527)
 {

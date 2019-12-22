@@ -347,7 +347,7 @@ if (((false) && (D6z6 != VQ46O)) || (wuBS9 <= VQ46O))
 {
 MDSqdIl -= 1789254474;
 }
-else if ((bx28 > -1949969820) && (Pca_bbL <= -500718789))
+else if ((true) && (Pca_bbL <= -500718789))
 {
 w05YW23t0m &= 1095737546;
 }

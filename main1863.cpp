@@ -270,7 +270,7 @@ else if (QZk0V9LJ <= Vs1s_8TNU)
 {
 X6y36751 = H_o_snL(X6y36751, GrMef);
 }
-else if (X6y36751 < RMO9K)
+else if (true)
 {
 u2WgEh6Xu = (int)(QZk0V9LJ);
 }
@@ -340,7 +340,7 @@ else if (((false) || (X1OCx4Ucc & QZk0V9LJ)) || ((QZk0V9LJ <= -1945188285) || (X
 {
 u2WgEh6Xu = eV4b(1443362544, X6y36751, Q200, -981884242);
 }
-else if (X6y36751 <= -1067485507)
+else if (false)
 {
 {
 int j = 8;

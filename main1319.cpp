@@ -42,7 +42,7 @@ catch (int& errorCode)
 v2FwX_7y = zGmQ();
 }
 
-if (((true) && (ja5hx4n < 18372900)) && (BXk8E >= ohg3aPk))
+if (((true) && (true)) && (BXk8E >= ohg3aPk))
 {
 {
 int j = 7;
@@ -56,7 +56,7 @@ else if (false)
 {
 S7lSBSK = C5o631(S7lSBSK, voD_Uz, VU5tH1I1h, w12W_);
 }
-else if (Jl7G4 >= -692069230)
+else if (true)
 {
 U__7gWud5C = s35v7izp + CCu26;
 }
@@ -114,7 +114,7 @@ try
 {
 try
 {
-if (((false) || (DmBm)) || (L0du == -1983598480))
+if (((false) || (DmBm)) || (false))
 {
 sZQ7bcGd = C5o631(1432626675, 1436402680, -894034115, 717261760);
 }

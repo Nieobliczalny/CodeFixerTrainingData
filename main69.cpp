@@ -257,7 +257,7 @@ else if ((e_QGZF2wQD > -624303096) || (false))
 {
 gJbU4 |= 1462205860;
 }
-else if (efvtS9lPz2 != rhpZ1)
+else if (true)
 {
 cout << z5xj << CQpjlC << "WuSlai" << "Ph2djgnDo" << endl;
 }

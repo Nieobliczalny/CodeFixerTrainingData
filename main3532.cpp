@@ -133,7 +133,7 @@ std::cout << "cHuDH8a56t" << std::endl;
 fZMTv4m = H11vr3(fZMTv4m, 1079863447, 1536973516, 1706337577);
 
 fYrIQfUhv5 = qDvdVaL2(WISl2h0, -1684373698, ACDv76I);
-if (((WISl2h0 == fYrIQfUhv5) || (false)) && ((fZMTv4m != Y583M4_qA4) && (fYrIQfUhv5 == 1080103024)))
+if (((WISl2h0 == fYrIQfUhv5) || (false)) && ((fZMTv4m != Y583M4_qA4) && (false)))
 {
 if (((fZMTv4m != -1372684995) || (fZMTv4m < Y583M4_qA4)) || (fYrIQfUhv5 != 889244678))
 {
@@ -495,7 +495,7 @@ else
 {
 if ((WISl2h0 > npOukM5) && (true))
 {
-if ((fYrIQfUhv5 <= npOukM5) || ((ACDv76I > Y583M4_qA4) && (WISl2h0 < -484302446)))
+if ((fYrIQfUhv5 <= npOukM5) || ((ACDv76I > Y583M4_qA4) && (false)))
 {
 fYrIQfUhv5 = LNCH_();
 }

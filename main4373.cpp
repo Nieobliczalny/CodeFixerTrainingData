@@ -86,7 +86,7 @@ if (DMIXr_ >= pdvnkzN5NZ)
 {
 if (((lI9i6gWd1) || (false)) || (DQ6Wlp0MH > lI9i6gWd1))
 {
-if ((kF73_ >= 108716610) || (y_6AQgKHP & 1974014613))
+if ((false) || (y_6AQgKHP & 1974014613))
 {
 fX896wFc7 = WIwnjk0xh(fX896wFc7);
 }

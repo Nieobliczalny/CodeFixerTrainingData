@@ -108,7 +108,7 @@ VV4lM = (unsigned char)(w4nm15PT);
 }
 else
 {
-if (((HlPk > 1937917616) && (QZ41qov_ != V7TtN6cq)) || (EbSRqv != -1231854933))
+if (((false) && (QZ41qov_ != V7TtN6cq)) || (EbSRqv != -1231854933))
 {
 for (int k = 10; k >= 0; --k)
 {
@@ -127,7 +127,7 @@ else if (false)
 {
 wIZwG = MiYpdgu56 - 1020564771;
 }
-else if ((x6Ne0DBJX) || (Eepjs8Y > -813238419))
+else if ((x6Ne0DBJX) || (true))
 {
 {
 int j = 0;

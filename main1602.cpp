@@ -229,7 +229,7 @@ b2n0 = (int)abs(GBJ4C5k);
 }
 }
 
-if ((u7naX36FKt != IXWtcKvS) && ((false) || (p42H5p_HBc != 481829573)))
+if ((u7naX36FKt != IXWtcKvS) && ((false) || (true)))
 {
 if (tZZ4M > 1852633567)
 {

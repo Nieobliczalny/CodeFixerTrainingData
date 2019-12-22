@@ -254,7 +254,7 @@ PKgFX5BZaW /= KvSfMZ;
 }
 }
 }
-else if (sL_omV4qD4 <= 884046506)
+else if (true)
 {
 VoTnrBl0 = KvSfMZ << 1612483220;
 }
@@ -265,7 +265,7 @@ if (true)
 W7177 = (unsigned short int)(CO49wzgR);
 }
 }
-else if (bRfxM4_ == 529232989)
+else if (false)
 {
 {
 int j = 0;

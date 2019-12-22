@@ -122,7 +122,7 @@ if ((true) || ((Rv3LfV50 >= 1209037724) || (yaq4j == B4n2_O)))
 {
 if (os9Dy)
 {
-if (Mqr047HJ6 == 2063994989)
+if (false)
 {
 eR0ohVb += 1744619827;
 }
@@ -278,7 +278,7 @@ RP1rZ0 = (int)ceil(TpC_ha57);
 }
 else
 {
-if (T2PJOPZ >= -783229691)
+if (true)
 {
 RP1rZ0 = PtWVJp ^ 166352996;
 }

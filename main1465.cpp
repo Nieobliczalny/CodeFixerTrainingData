@@ -463,7 +463,7 @@ k++;
 }
 }
 }
-else if (((true) && (Sw97f <= j_MS)) && (P5c77q2JYd >= -497522426))
+else if (((true) && (Sw97f <= j_MS)) && (true))
 {
 std::cout << "tt82I8a4" << std::endl;
 }

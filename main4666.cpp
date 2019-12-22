@@ -441,7 +441,7 @@ break;
 }
 else if ((true) || (N0111 != b_RQT_A2E))
 {
-if (PvvVO < 170844921)
+if (true)
 {
 cT05r = (unsigned char)(WEV80 * cT05r);
 }

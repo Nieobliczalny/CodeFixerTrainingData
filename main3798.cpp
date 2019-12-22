@@ -560,7 +560,7 @@ l8e7_8TZY = i6Ov3 / 680042651;
 L3b39TgG = VO99LYyYv - ixf5ueWp;
 KOMXu37cO = LVQp << 926071787;
 
-if (((F0Bgg) && (Q_fR5 == 449036563)) || ((true) && (r5idk56 >= qxhi5)))
+if (((F0Bgg) && (Q_fR5 == 449036563)) || ((true) && (true)))
 {
 if (WO6_r7NL5r & 1705958168)
 {

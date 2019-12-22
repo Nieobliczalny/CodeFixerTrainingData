@@ -210,7 +210,7 @@ Z77FA = (int)floor(T8Df);
 }
 else if (true)
 {
-if (((E_P_8 < -1563148616) || (mFp_S5j < -1577944591)) || (WLLl3FtWH > 788054454))
+if (((false) || (mFp_S5j < -1577944591)) || (WLLl3FtWH > 788054454))
 {
 Z77FA = (double)(do37);
 }

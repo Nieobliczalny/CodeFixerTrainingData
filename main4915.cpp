@@ -284,7 +284,7 @@ else if (((WF_2L301g_ > -1337836857) && (true)) || (U8B3lDJMf <= ZKa3N163h))
 {
 WF_2L301g_ = (float)(Z3_xdT5p4o);
 }
-else if (r5e2_3 >= dC__)
+else if (false)
 {
 switch (r5e2_3)
 {

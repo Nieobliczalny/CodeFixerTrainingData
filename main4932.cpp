@@ -159,7 +159,7 @@ else if ((Y6g_kLo) && (true))
 {
 kP6ne1e4++;
 }
-else if ((A0OX6kGQz > 1185025764) && ((z4M1 < lkkut4Hv) || (N17Wvn_ < q2x81QbrxB)))
+else if ((false) && ((z4M1 < lkkut4Hv) || (N17Wvn_ < q2x81QbrxB)))
 {
 M3hhy = UTSE(1885109835, -1267288769);
 }

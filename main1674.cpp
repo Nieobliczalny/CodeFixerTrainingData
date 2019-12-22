@@ -60,7 +60,7 @@ vJTR = c8W1J7Qs >> plPI4FK7W;
 }
 else
 {
-if (a5R6HTdM71 <= -179098383)
+if (false)
 {
 if (YegX >= yU7L789)
 {
@@ -74,7 +74,7 @@ else if (o3m68Ju3_ >= yU7L789)
 {
 VwYxr = sWdp(-1901912689, OG9QC);
 }
-else if ((true) && ((v6uwm2TBl >= -136307360) && (g2715jws != 1600073231)))
+else if ((true) && ((true) && (g2715jws != 1600073231)))
 {
 KPjLhF3 = sWdp(-1723260798, OG9QC) * 605353752;
 }

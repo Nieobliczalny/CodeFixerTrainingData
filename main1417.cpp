@@ -251,7 +251,7 @@ NK6E72 = (short)(C93F);
 }
 }
 
-if (NK6E72 == 500802825)
+if (false)
 {
 if ((nqX8Hr & 256601628) && (Ei4_G & VIr5))
 {
@@ -265,7 +265,7 @@ int j = 0;
 while (j < 8)
 {
 ++j;
-if ((E4p4 <= 331397499) || (y_7CPfg8 & -1130238287))
+if ((true) || (y_7CPfg8 & -1130238287))
 {
 yFweC25Y_r = y_0aI6QCT();
 }

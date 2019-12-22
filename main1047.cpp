@@ -186,7 +186,7 @@ q8okI8E %= 1166674060;
 int i = 2;
 do
 {
-if (((Ks07p == x4AR) || (false)) && ((UTEMzDU == z4jG) || (Ks07p != x4AR)))
+if (((Ks07p == x4AR) || (false)) && ((false) || (Ks07p != x4AR)))
 {
 {
 int k = 0;

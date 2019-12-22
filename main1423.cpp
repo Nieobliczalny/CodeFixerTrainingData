@@ -20,7 +20,7 @@ int main(int argc, char** argv) {
   unsigned long  H91X6_o,  lsti_4Bd,  l0i8x5O7,  Q5SCB,  Fd7l,  B6VYY9,  dj30,  SFX3,  l7ih3x,  Z85334,  FAcOw,  BmT44S5_8_,  q7n4,  C26f54;
     H91X6_o  =  lsti_4Bd  =  l0i8x5O7  =  Q5SCB  =  Fd7l  =  B6VYY9  =  dj30  =  SFX3  =  l7ih3x  =  Z85334  =  FAcOw  =  BmT44S5_8_  =  q7n4  =  C26f54  =  760329090;
 
-if (((false) && (dj30 == -2053454729)) || (Tkhmp == 1521817258))
+if (((false) && (dj30 == -2053454729)) || (false))
 {
 SFX3 = (unsigned long)(lsti_4Bd);
 }

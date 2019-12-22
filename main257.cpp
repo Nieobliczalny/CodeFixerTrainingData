@@ -169,7 +169,7 @@ if ((T_71ER_5) && (vVg18 != mkt7_3U1p))
 {
 std::cout << Z3dJP << "bx0wr_E5_g" << std::endl;
 }
-else if ((true) && (vVg18 > -171375124))
+else if ((true) && (true))
 {
 try
 {

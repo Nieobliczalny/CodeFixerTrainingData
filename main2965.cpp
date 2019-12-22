@@ -285,7 +285,7 @@ if (false)
 UKQIsKj6en = (E3P_nZ1G != 645527406) ? X17XlKX : sBxnd5Q_8(MK0o_47bZI, -165004974, VOHZ, -7943748);
 }
 }
-else if ((E_9f < X17XlKX) || ((nwA3F <= X17XlKX) && (Hb_7ZfXn < -515997228)))
+else if ((E_9f < X17XlKX) || ((nwA3F <= X17XlKX) && (false)))
 {
 switch (PNb8Wd6aO_)
 {

@@ -92,7 +92,7 @@ int j = 0;
 while (j < 2)
 {
 j++;
-if ((false) || (fj32Qm < 2114462019))
+if ((false) || (true))
 {
 soSe6e25u = x3k3J6S(uPNuEC1813, R_r7_8);
 }
@@ -350,7 +350,7 @@ ij1GIaf = x3k3J6S(j2Z_o, 46890640);
 
 if (true)
 {
-if (a8_6H24 >= 1037038895)
+if (false)
 {
 switch (Do_ZnAE)
 {

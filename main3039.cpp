@@ -322,7 +322,7 @@ q3_KSS = G00bldIH0I(q3_KSS, FcVe);
 while (j < 10);
 }
 }
-else if ((true) && ((HY_Q <= -1658396696) || (pmodV > -1462781450)))
+else if ((true) && ((false) || (pmodV > -1462781450)))
 {
 std::cout << "m3XoVX" << "WqCe6Ljl__" << "l7PU1gksfn" << YYJO << "g7qq8L" << std::endl;
 }
@@ -503,7 +503,7 @@ else if (Y31tWYw)
 {
 v70uBJyM *= 2034217995;
 }
-else if (KwaCI > -1704126862)
+else if (true)
 {
 sNV_MB = bmJJ1X4(sNV_MB, 1201958730, 1861628991, -2032306696);
 }

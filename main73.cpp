@@ -157,7 +157,7 @@ std::cout << "YIw80" << "I4Ws" << "fVJ0b" << std::endl;
 }
 else if (true)
 {
-if ((Ql2V4V8QJ >= -1909726430) && (N2aH))
+if ((true) && (N2aH))
 {
 if (((xVPty1 & -762435426) || (fD7yh == -1178361124)) && (kBPKB >= -215125420))
 {

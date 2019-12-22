@@ -368,7 +368,7 @@ t81A += iv2Sh4;
 }
 else if (Z1qz2 > FCSr2J0L)
 {
-if ((true) && (kQ6_wafXWV <= -1127832306))
+if ((true) && (false))
 {
 oMFlv = FCSr2J0L >> 28117540;
 }

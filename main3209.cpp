@@ -189,7 +189,7 @@ else if (YA3vB7__tB == -619818486)
 {
 iy7N_Zj_ = (unsigned long long)(nk7D6HoJc);
 }
-else if (JVf8RgD__l < -2014292588)
+else if (false)
 {
 v4bZN = (short)(Gb_Cc1g8);
 }
@@ -732,7 +732,7 @@ for (int k = 1; k >= 0; k--)
 k1kJV = U54SMoJkV(-1634509523, dmW5Z, 1081786464, 1793214663);
 }
 }
-else if (VG6O3hRyE9 != 1130322762)
+else if (true)
 {
 o17Nl3 = (char)(e3E7L);
 }

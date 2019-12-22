@@ -191,7 +191,7 @@ catch (int& errorCode)
 {
 VQmZe = WI6iXf8UG(QaD2blc2, rX_m6b2_w, 1379897320);
 }
-if (((true) || (Eit0_8X == VQmZe)) && (Eit0_8X >= 1923400515))
+if (((true) || (Eit0_8X == VQmZe)) && (false))
 {
 if (nFpg5S >= J1viY)
 {

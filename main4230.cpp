@@ -68,7 +68,7 @@ vpu2w72aui = (short int)(yZNZ);
 m6U27U0bj2 %= 1337439876;
 YY63Z6Zko = -1081711947 / TZrI;
 TZrI = (int)abs(HqVj) * 0;
-if (TZrI <= -801463337)
+if (false)
 {
 if (a561_8r > TZrI)
 {
@@ -186,7 +186,7 @@ else if (InpqcLTP & F1S6xr)
 {
 InpqcLTP = a561_8r - 425526980;
 }
-else if ((HqVj <= Ofrazi) || ((false) || (s1d2 < yZNZ)))
+else if ((HqVj <= Ofrazi) || ((false) || (true)))
 {
 {
 int k = 8;
@@ -274,7 +274,7 @@ TZrI = (int)abs(YY63Z6Zko) * 0;
 
 cout << "E67w5Mq" << "ZJhMU_L6" << Ofrazi << "Zmd4H" << m6U27U0bj2 << endl;
 cout << YY63Z6Zko << s1d2 << Pay0 << HqVj << "XAPSao" << endl;
-if (((false) || (vpu2w72aui == V5wG4URLes)) && ((Ofrazi != yZNZ) || (TZrI)))
+if (((false) || (false)) && ((Ofrazi != yZNZ) || (TZrI)))
 {
 if (s1d2 & F1S6xr)
 {

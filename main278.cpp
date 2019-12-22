@@ -420,7 +420,7 @@ lD2PG = (short int)(LLL4wNN7b_);
 }
 else if (((true) || (wjSvnd2uR != 1025770349)) || ((wjSvnd2uR > 1934064126) || (ab6R0F < l_9Av)))
 {
-if (wyM_aTc8DY > 968464400)
+if (false)
 {
 if (c42_Q65E == -64524310)
 {

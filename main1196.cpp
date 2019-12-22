@@ -106,7 +106,7 @@ for (int k = 5; k >= 0; k--)
 hC1TQ_B++;
 }
 }
-else if (KsHX65Wd >= m04G)
+else if (true)
 {
 qQq2A_12 = UF0TJt94 * 1725386174;
 }

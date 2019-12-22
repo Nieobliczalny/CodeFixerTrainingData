@@ -256,7 +256,7 @@ Ofq3L4--;
 }
 else
 {
-if ((c25_) || ((Sv78zQvA36 != 337406341) && (vACe < -43983786)))
+if ((c25_) || ((Sv78zQvA36 != 337406341) && (false)))
 {
 cLjvk5jw = (int)floor(n62q_Ygl9);
 }

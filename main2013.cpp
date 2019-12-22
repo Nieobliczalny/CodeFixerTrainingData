@@ -170,7 +170,7 @@ if ((M9kv_Cw <= jJ3I0qCLM2) || ((M9kv_Cw) && (false)))
 SsPK0Rd06O = M9kv_Cw / 2060686534;
 }
 }
-else if (m1fmBuV6Pj <= -212404246)
+else if (false)
 {
 m1fmBuV6Pj = (int)abs(M9kv_Cw);
 }

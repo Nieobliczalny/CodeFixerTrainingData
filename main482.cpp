@@ -393,7 +393,7 @@ catch (int& errorCode)
 gl1_b &= 1316254135;
 }
 
-if ((Bc7lMh1op & -715325083) && ((true) && (gl1_b >= 1670591319)))
+if ((Bc7lMh1op & -715325083) && ((true) && (false)))
 {
 {
 int j = 10;

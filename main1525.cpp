@@ -159,7 +159,7 @@ try
 {
 if (C_d137_5 < 1007637761)
 {
-if ((true) && ((N6TnHb) || (A36t2JpFA < -1638964181)))
+if ((true) && ((N6TnHb) || (false)))
 {
 g0d9155d = q8AWT45HN6(1831856268, b337R2U, fXX42SPe_k);
 }

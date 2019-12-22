@@ -261,7 +261,7 @@ if (DvXvirm3)
 {
 P4_3f24wqq = So0y4nL5(qGGsx8, 1319691850, -1953212690, -1054446839);
 }
-else if ((rEJbeUNn <= 332833803) && (aUzfmnk7y_ > zCG94Jc34F))
+else if ((true) && (aUzfmnk7y_ > zCG94Jc34F))
 {
 LkHu = So0y4nL5(856941455, 789369672, 1549843709, xzrmx24x) * 1629305404;
 }

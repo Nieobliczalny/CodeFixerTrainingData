@@ -170,7 +170,7 @@ else if (true)
 {
 try
 {
-zo0xj = (LNc0P3vk != 1102059875) ? 1735433446 : rjD004Y;
+zo0xj = (true) ? 1735433446 : rjD004Y;
 }
 catch (int& errorCode)
 {
@@ -236,7 +236,7 @@ if (shZ_0380Y8 == 0)
 }
 BFLt67k = (unsigned int)(shZ_0380Y8);
 
-if (((true) || (shZ_0380Y8 > -1405697978)) && ((i_d29Yw <= 1898408244) && (q_Ru9hh1wF > 374250084)))
+if (((true) || (shZ_0380Y8 > -1405697978)) && ((true) && (q_Ru9hh1wF > 374250084)))
 {
 switch (pL4uYKg)
 {
@@ -376,7 +376,7 @@ else if ((rjD004Y > i_d29Yw) && (true))
 {
 shZ_0380Y8 = hl6vfh(i_d29Yw);
 }
-else if ((kkpc9C52 & rjD004Y) && (pL4uYKg != 730896816))
+else if ((kkpc9C52 & rjD004Y) && (true))
 {
 BFLt67k = hl6vfh(-353378214);
 }
@@ -455,7 +455,7 @@ else if (false)
 {
 pL4uYKg = JDn2FNDi(BFLt67k, pL4uYKg);
 }
-else if ((zo0xj == 2010674767) || ((shZ_0380Y8 > -672921211) || (LNc0P3vk)))
+else if ((false) || ((shZ_0380Y8 > -672921211) || (LNc0P3vk)))
 {
 zo0xj++;
 }
@@ -486,7 +486,7 @@ zo0xj = JDn2FNDi(zo0xj, shZ_0380Y8);
 while (i < 5);
 }
 
-if (((true) && (i_d29Yw < -270390664)) && (rjD004Y > i_d29Yw))
+if (((true) && (false)) && (rjD004Y > i_d29Yw))
 {
 if (shZ_0380Y8 <= 33289887)
 {

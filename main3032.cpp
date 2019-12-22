@@ -51,7 +51,7 @@ int main(int argc, char** argv)
  unsigned int i55qva_0;
  i55qva_0 = -1034146563;
 
-if (((S062QxwCZ > -48610365) && (true)) && (ul7n0o3 == -1140120711))
+if (((S062QxwCZ > -48610365) && (true)) && (false))
 {
 X46ur2hKf = (unsigned short)(Wd43zmn2V6);
 }
@@ -78,7 +78,7 @@ if (((X46ur2hKf & -1321137033) && (P6g99RyM != ul7n0o3)) && (false))
 {
 i55qva_0 = Mkt51V8204(443176157, WjA27i584_);
 }
-else if (v_JoSF2 < -1356123666)
+else if (false)
 {
 cout << S062QxwCZ << "Qzbe7RCFW" << endl;
 }

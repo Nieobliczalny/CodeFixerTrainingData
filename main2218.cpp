@@ -112,7 +112,7 @@ int j = 3;
 while (j >= 0)
 {
 j--;
-if ((x3ubc68Xy & J3V4T26) || (p1_z5l != 164499969))
+if ((x3ubc68Xy & J3V4T26) || (true))
 {
 YnUrSK = oF1S97QPIm % x4tg;
 }

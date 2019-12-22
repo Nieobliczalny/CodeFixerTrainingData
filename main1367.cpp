@@ -473,7 +473,7 @@ else if (false)
 {
 FD96QGKmy -= 323983802;
 }
-else if (EbZS5vzL_ > 468096245)
+else if (false)
 {
 zt52_iM5lQ = wt59jgx43 * 1351259488;
 }
@@ -579,7 +579,7 @@ if (false)
 {
 qoJW2f8c = X_xtw9e3 ^ EIuD;
 }
-else if (E5No6 <= 2020865314)
+else if (true)
 {
 jaA69Y9Vn1 = jWdOxLw01();
 }

@@ -148,7 +148,7 @@ if (hV5s1cpSiy & -1197889529)
 s5l919R3Gc >>= 91426216;
 }
 }
-else if (((Nqzx < V8s63N_i) || (false)) && (v80_yk0y6F > -861949962))
+else if (((Nqzx < V8s63N_i) || (false)) && (true))
 {
 cout << "N9_9uy9vTI" << Kj04Zrve8(-1659088563, -1599466555) << endl;
 }

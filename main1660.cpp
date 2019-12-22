@@ -309,7 +309,7 @@ cout << "kt9C" << "h8xRR26Vx" << PNrQlg7K(t6L0Gd_iYN) << PNrQlg7K(1723890407) <<
 }
 else if (bbM4G > mqhbjn7)
 {
-if (duZ7 <= -392779535)
+if (false)
 {
 fJU0r4FJ = (char)(JMCiU3ca9);
 }
@@ -341,7 +341,7 @@ else if (false)
 {
 JMCiU3ca9 = CxB5E7h1 * 1887406423;
 }
-else if (o_fQVkc == 385778502)
+else if (false)
 {
 switch (jb0__JF)
 {

@@ -125,7 +125,7 @@ else if (false)
 {
 v0Ckr3 = DpC4RJPK8z(v0Ckr3, LVMQlOXb, E7EHr2zi);
 }
-else if (((v0Ckr3 < 1438010033) && (T2V8yG5l & 2050851003)) && ((SJ9_mHZ < 907365913) || (O6O5_s8 > LO8pjbq)))
+else if (((true) && (T2V8yG5l & 2050851003)) && ((SJ9_mHZ < 907365913) || (O6O5_s8 > LO8pjbq)))
 {
 {
 int j = 5;

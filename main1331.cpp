@@ -148,7 +148,7 @@ if ((KFS_L3wuqs) && ((iJjtfV90Z != 999581696) || (ALV659_B6L >= dfxUydXv_y)))
 c_4QA8owvA = (int)abs(ALV659_B6L);
 }
 }
-else if (mTEv_ah19S != -1775963298)
+else if (true)
 {
 if (XZ3ih9_ != -594930786)
 {

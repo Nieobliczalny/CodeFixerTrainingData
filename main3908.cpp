@@ -94,7 +94,7 @@ int main(int argc, char** argv)
 
 if (((WV6Hd6i != EgVhdQf) && (VhK7y1_Sp < nR53S2pNtI)) || (true))
 {
-if (u4HICuR_ == 1370919325)
+if (false)
 {
 cout << "NWIQh" << lSpbmelwkB() << endl;
 }
@@ -155,7 +155,7 @@ else if (LGRcTpp_ != nR53S2pNtI)
 {
 yTWdz4Q6 = lSpbmelwkB();
 }
-else if ((false) || (JJN1py_0 >= O231F))
+else if ((false) || (true))
 {
 xz2a6kxW = (char)(HN6t7A7);
 }

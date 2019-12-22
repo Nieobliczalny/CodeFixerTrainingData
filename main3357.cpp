@@ -210,7 +210,7 @@ J8HAvK1_p &= w9D3jgA30;
 }
 else
 {
-if ((ocrN < nr774Stv) && (f4hX396 & P8_DK))
+if ((true) && (f4hX396 & P8_DK))
 {
 Bq2tw6Fvi = (ony09 > fwng8j0) ? a7np7Y7(P68K0ap_P, Lty30BoF) : U523p;
 }
@@ -287,7 +287,7 @@ u2ZN_vC2 = a7np7Y7(877272127, 922270332);
 }
 }
 
-if (Y90oz == -1176841141)
+if (false)
 {
 for (int j = 6; j >= 0; --j)
 {

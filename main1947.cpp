@@ -343,7 +343,7 @@ int i = 1;
 do
 {
 i--;
-if ((true) && ((ByY5Cc2nWT != 725859544) || (C4WCjd07T9 != 1259298320)))
+if ((true) && ((true) || (C4WCjd07T9 != 1259298320)))
 {
 f3WkqGuI = QG92a4i_l4 << e7AI14r;
 }

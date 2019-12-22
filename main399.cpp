@@ -525,7 +525,7 @@ if (false)
 {
 zEAI71BjAH = xv0JY9cL();
 }
-else if (C8ii2 != 854509472)
+else if (true)
 {
 Ya_33784 = (int)floor(Zzp3jr7g);
 }
@@ -601,7 +601,7 @@ if (Aq576891l < pQeIS)
 Ya_33784 = (int)ceil(sR798x2);
 }
 }
-if (DECWZ_ < -1668280712)
+if (false)
 {
 o5olYl4 = (unsigned short int)(Fj4I);
 }

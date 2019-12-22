@@ -60,7 +60,7 @@ while (i < 9);
 qZ86Q6 = (unsigned short)(iHEY3);
 JA2g = b5b95nNzpg << 1856542300;
 
-if (((Ush6 <= y7162vu) || (false)) || (xLO7d3 != -1922836433))
+if (((Ush6 <= y7162vu) || (false)) || (true))
 {
 {
 int j = 0;

@@ -26,7 +26,7 @@ int j = 6;
 while (j >= 0)
 {
 j--;
-if ((false) || (Ei5_D >= -434213646))
+if ((false) || (true))
 {
 twstP1 = Ss_SGZG__g & 1838558381;
 }
@@ -67,7 +67,7 @@ x9O1Crr_ = mCbg_6S39 - ORkvPf1;
 }
 for (int i = 6; i >= 0; i--)
 {
-if (rvDI != -902483615)
+if (true)
 {
 {
 int k = 0;

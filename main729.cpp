@@ -100,7 +100,7 @@ c20TXgb = Ple7cBP(c20TXgb, Um2HNZ5vP, -1898841848, p_79Y);
 }
 for (int i = 0; i < 10; i++)
 {
-if (EG_se > -842309581)
+if (true)
 {
 for (int k = 5; k >= 0; --k)
 {
@@ -114,7 +114,7 @@ if (BY7HDccW != EpD_W6s)
 UJe5 = oadRR();
 }
 }
-else if ((Cb2_45 < 82380144) && (EG_se >= p_79Y))
+else if ((true) && (EG_se >= p_79Y))
 {
 E2ckBTc1 /= 80163827;
 }

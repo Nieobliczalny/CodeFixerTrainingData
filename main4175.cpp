@@ -370,7 +370,7 @@ for (int j = 5; j >= 0; j--)
 VS1r = (char)(TBf_53);
 }
 }
-else if (((true) && (VS1r != -1981038148)) || (tL9w8f_))
+else if (((true) && (true)) || (tL9w8f_))
 {
 {
 int j = 0;
@@ -471,7 +471,7 @@ if ((r57i != T08z_lE4) || (false))
 {
 if ((jPhK_ < OHEE85R_6) && (yLGd == ncuOr8wCE2))
 {
-if (z9Po80v27 > -643269241)
+if (true)
 {
 QM321Ng = e62zN(-694139735, -903189050, -261847604);
 }
@@ -486,7 +486,7 @@ cout << aO6YOq4X7() << aO6YOq4X7() << aO6YOq4X7() << endl;
 }
 else if (true)
 {
-if (VS1r != -1624213660)
+if (true)
 {
 WX5DY9iOQd = aO6YOq4X7();
 }

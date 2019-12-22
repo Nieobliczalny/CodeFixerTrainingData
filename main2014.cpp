@@ -35,7 +35,7 @@ if (((true) || (LxRbc2yiko == V7vl)) && (oMo66Xmf))
 int j = 0;
 while (j < 10)
 {
-if (RBJ05824 != 1105193526)
+if (true)
 {
 n9y75K %= 660271701;
 }
@@ -152,7 +152,7 @@ i++;
 }
 }
 
-if ((false) || ((RYsd <= V7vl) || (qK7x9 & -975401193)))
+if ((false) || ((true) || (qK7x9 & -975401193)))
 {
 {
 int j = 9;
@@ -273,7 +273,7 @@ for (int i = 0; i < 172; i++)
 {
 if (true)
 {
-if (LxRbc2yiko < -463780074)
+if (false)
 {
 {
 int k = 0;

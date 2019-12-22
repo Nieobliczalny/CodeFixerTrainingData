@@ -400,7 +400,7 @@ o6RAdcS2r = (int)ceil(LlNE);
 }
 if (((OBAVYT03 >= L29cU7n) && (LFQc < -1321113354)) || ((true) && (oKxVIL3f9 == 1695768432)))
 {
-if (PX81vIpt4 != -1572642957)
+if (true)
 {
 switch (L29cU7n)
 {

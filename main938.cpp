@@ -136,7 +136,7 @@ Ux1Z = Hgwu - oVefh_5;
 }
 }
 }
-else if ((true) && ((oVefh_5 & -228407142) && (lR23N0 <= -856440238)))
+else if ((true) && ((oVefh_5 & -228407142) && (false)))
 {
 try
 {

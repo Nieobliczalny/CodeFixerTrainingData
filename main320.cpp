@@ -181,7 +181,7 @@ if ((N4xk2ji) && (f2k5T80Fc3))
 {
 wE11Vl = yY6pK6 - kG0I3;
 }
-else if (((true) && (z4kr > 1737518250)) && (e_69))
+else if (((true) && (false)) && (e_69))
 {
 {
 int k = 0;
@@ -224,7 +224,7 @@ else
 jcT7j5 -= 547462828;
 }
 }
-else if ((TNptA40GeO & f2k5T80Fc3) || ((wE11Vl > -1742141469) || (eEy10305 >= -25953340)))
+else if ((TNptA40GeO & f2k5T80Fc3) || ((true) || (eEy10305 >= -25953340)))
 {
 Kp16H = (int)abs(Y_00YbEFxQ);
 }

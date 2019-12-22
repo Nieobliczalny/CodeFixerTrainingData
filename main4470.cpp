@@ -266,7 +266,7 @@ else if (false)
 {
 XpAS = (short)(QRiL32S + (2087544342));
 }
-else if ((Rg3jC & QRiL32S) || ((tz2D >= QRiL32S) || (r7ek4 != -1374311820)))
+else if ((Rg3jC & QRiL32S) || ((tz2D >= QRiL32S) || (true)))
 {
 {
 int k = 1;
@@ -694,7 +694,7 @@ P4X6Xg1--;
 
 for (int i = 0; i < 1; ++i)
 {
-if ((false) || (y9NSCKECL > -1177224060))
+if ((false) || (true))
 {
 if (KW067eh5 <= -1902215851)
 {

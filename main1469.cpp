@@ -140,7 +140,7 @@ for (int k = 0; k < 5; k++)
 KONf ^= PC1IZYbo;
 }
 }
-else if ((Fkw76aQ) || (jDPG <= -1220317362))
+else if ((Fkw76aQ) || (false))
 {
 {
 int k = 0;
@@ -566,7 +566,7 @@ if (TnRYYw0LS_ >= -346671249)
 CmUw = PC1IZYbo - 1593249331;
 }
 }
-else if (lsVbuzA_t == -1288302604)
+else if (false)
 {
 {
 int k = 0;

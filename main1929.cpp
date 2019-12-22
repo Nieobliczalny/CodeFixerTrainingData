@@ -227,7 +227,7 @@ else if ((i3mN7Y6A) || (tBqd <= -1274936697))
 {
 for (int j = 0; j < 7; ++j)
 {
-if ((false) || (B_c0WHEy0W <= 734367138))
+if ((false) || (true))
 {
 qRFXG5r_ = viA2hDpq4 & Bb_xm5eu54;
 }

@@ -107,7 +107,7 @@ break;
 }
 else if ((pUxO == d1v_D0s) && ((true) || (pUxO == p63tS)))
 {
-if (fnGI4_ <= -301936720)
+if (false)
 {
 p63tS = (int)floor(gI8va1K);
 }
@@ -137,7 +137,7 @@ if (false)
 {
 std::cout << "ScDCRb6TQ_" << Q4U5_(-1900867814, -2044264842, vXs86, fnGI4_, m_VKRYjfo) << Q4U5_(p63tS, -1233435866, vXs86, fnGI4_, -756278773) << std::endl;
 }
-else if (Zp63_TFi < 223218582)
+else if (true)
 {
 {
 int k = 3;

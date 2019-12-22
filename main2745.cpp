@@ -251,7 +251,7 @@ int j = 8;
 do
 {
 --j;
-if ((gAECaA != Bw3z) || ((true) && (c5NS8 <= -1128815488)))
+if ((gAECaA != Bw3z) || ((true) && (false)))
 {
 iR9K0Eob = Vo_C3 & 283172472;
 }
@@ -280,7 +280,7 @@ if ((Y672o2y) || ((false) && (H05_G3AcF8 == LqIN16)))
 {
 std::cout << Vo_C3 << "ty4_" << oA2B7h7UaW << std::endl;
 }
-if ((wJ_Bcvh7b_ == JBIei2) && ((X_0xEe98 < Vo_C3) || (tT_M43R < -506930771)))
+if ((wJ_Bcvh7b_ == JBIei2) && ((X_0xEe98 < Vo_C3) || (false)))
 {
 switch (a95q3)
 {
@@ -548,7 +548,7 @@ while (i >= 0)
 {
 if (true)
 {
-if (tv_kB87 != 1383792250)
+if (true)
 {
 YM892bL8 = nFK4PCPHx & c5NS8;
 }

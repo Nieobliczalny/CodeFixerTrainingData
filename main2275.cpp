@@ -377,7 +377,7 @@ else if ((WeryO03GHm > MsWXKO58X) && ((kK665lLL <= -2024455080) && (f32_tW0_ZG &
 {
 MsWXKO58X = wCVjq(MsWXKO58X, -116683125, e78dlM, -554108475);
 }
-else if (((oMUN6R) || (oK5LX >= -1392494969)) || (C8XX2 != -1648343037))
+else if (((oMUN6R) || (true)) || (C8XX2 != -1648343037))
 {
 w2SP = Ubxl_0Fd0A / 1265502377;
 }

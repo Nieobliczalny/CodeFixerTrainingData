@@ -339,7 +339,7 @@ if (((KJ_88ydPb <= -1822227812) && (b09fZ >= -224403293)) || ((E3t_P9o != 164453
 {
 if (true)
 {
-if (((zNSZZb7 <= vDK_W) && (y3c98BMAU <= 1191942719)) && ((EYYnX3J <= -1326605256) && (iZ3C0 < -1084133614)))
+if (((zNSZZb7 <= vDK_W) && (y3c98BMAU <= 1191942719)) && ((EYYnX3J <= -1326605256) && (false)))
 {
 EYYnX3J = KXFvB();
 }

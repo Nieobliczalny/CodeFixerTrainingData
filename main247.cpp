@@ -166,7 +166,7 @@ if (((mph3o3v == 78276164) && (n_y8Z9 & -2142463994)) && ((APywUR7 < 358652916) 
 EmrDM = GPY5Enc5t * 1136087238;
 }
 }
-else if (EmrDM != 2138345824)
+else if (true)
 {
 for (int j = 0; j < 3; j++)
 {

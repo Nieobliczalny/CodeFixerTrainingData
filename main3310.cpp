@@ -111,7 +111,7 @@ m3n6k973f = k85pis / 153112688;
 }
 else
 {
-if (e1j_E > 494234882)
+if (false)
 {
 {
 int k = 5;

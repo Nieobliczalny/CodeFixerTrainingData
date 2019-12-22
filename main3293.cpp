@@ -272,7 +272,7 @@ else if (vX5Bc <= PpN0xDrr)
 {
 OETW = (short int)(BOWgdU);
 }
-else if ((Lv38Bng5Op) || ((lS_wqpC03 >= -65627764) && (BOWgdU & 710206268)))
+else if ((Lv38Bng5Op) || ((true) && (BOWgdU & 710206268)))
 {
 Izzg = (short int)(S32d9Xd);
 }
@@ -317,7 +317,7 @@ break;
 }
 else
 {
-if (rjPCSLs != -841153449)
+if (true)
 {
 x6k_o96_M4 = mACwQ | 1543806950;
 }

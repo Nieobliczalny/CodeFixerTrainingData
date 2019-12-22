@@ -354,7 +354,7 @@ for (int k = 4; k >= 0; --k)
 dd2x--;
 }
 }
-else if (m5rM_DD9 != 274494338)
+else if (true)
 {
 switch (PW8GDK_8p)
 {

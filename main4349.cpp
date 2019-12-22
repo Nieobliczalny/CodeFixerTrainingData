@@ -48,7 +48,7 @@ if (((Y00Ra > HI38) && (lWRZhstws != n6YB)) || (false))
 {
 Qt6f = Jl4rkYr + M_YV_Yb5;
 }
-else if (N3ZAVQ0qVA == 2070111189)
+else if (false)
 {
 {
 int k = 0;

@@ -265,7 +265,7 @@ for (int i = 7; i >= 0; i--)
 {
 if (Lk3eljh)
 {
-if ((true) && ((SZAyFG) && (TZjva <= 1263749335)))
+if ((true) && ((SZAyFG) && (true)))
 {
 X6OU547tj3 = QUmWry(E4LT, 1302989593, n1T6_4, noWO220);
 }

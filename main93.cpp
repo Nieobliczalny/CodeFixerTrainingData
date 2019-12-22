@@ -154,7 +154,7 @@ else if ((jcINda > -1747807204) && (F3jv3mk49z & 864587522))
 {
 s_20IZ1oSJ = (int)ceil(rS5v4VIKn);
 }
-else if (((false) || (xFQK_g33g < -334067422)) || ((xFQK_g33g != 2087542916) && (HJ1XljdR5 >= -1290893785)))
+else if (((false) || (xFQK_g33g < -334067422)) || ((xFQK_g33g != 2087542916) && (true)))
 {
 f5978jn = (int)floor(sN_AGg3Xlz);
 }

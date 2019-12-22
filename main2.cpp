@@ -94,7 +94,7 @@ Ea8U = (short int)(xpn3gl + (STOqIa3));
 }
 else if ((true) || (hLSvNI8jT_ >= ygP52k9JaW))
 {
-if (Ea8U != akbR6D)
+if (true)
 {
 {
 int k = 0;
@@ -211,7 +211,7 @@ Ea8U++;
 }
 else
 {
-if (xpn3gl == -1952492402)
+if (false)
 {
 Ea8U <<= 1735033353;
 }

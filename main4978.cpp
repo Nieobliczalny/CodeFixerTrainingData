@@ -388,7 +388,7 @@ VB6YP57 = (int)abs(cg7hL84Z);
 }
 }
 }
-else if (NaT7ru == -196818392)
+else if (false)
 {
 try
 {
@@ -646,7 +646,7 @@ break;
 }
 }
 }
-else if (((UO1p6Q847 == 291057703) || (false)) || (SUAF != k3N7GoQ31))
+else if (((UO1p6Q847 == 291057703) || (false)) || (true))
 {
 U47q_jg8tU = (long)(k3N7GoQ31);
 }

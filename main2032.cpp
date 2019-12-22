@@ -324,7 +324,7 @@ D_V55r = (char)(z7WW8 + (qf8U64P));
 }
 if (true)
 {
-if ((c91uaUKJLZ > 1734316073) || (aS1_kD == -1354939572))
+if ((false) || (aS1_kD == -1354939572))
 {
 if (FHRqT >= -2098304967)
 {

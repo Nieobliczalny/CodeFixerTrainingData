@@ -91,7 +91,7 @@ else
 cak8_zL = (int)abs(VX0ikoCHnu) * 0;
 }
 }
-else if (eZCQ0E9VS2 == XDmRyR)
+else if (false)
 {
 cfA6g31X0 = (unsigned short)(hKo645H);
 }

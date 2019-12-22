@@ -57,7 +57,7 @@ for (int k = 0; k < 8; ++k)
 RwCg1++;
 }
 }
-else if (vi76c8H1 == Wmrk)
+else if (false)
 {
 s003Z3Nig_ -= TY_Vs;
 }
@@ -83,7 +83,7 @@ else
 X9PLk = DTb9iVd3(-425413328, -945666511, -528340309, VM2_SX);
 }
 }
-else if (t4Z3xnLDp3 >= -1535807149)
+else if (true)
 {
 for (int k = 5; k >= 0; --k)
 {

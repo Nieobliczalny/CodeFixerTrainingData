@@ -85,7 +85,7 @@ else
 {
 if (true)
 {
-if (UtCoWY <= 782490246)
+if (true)
 {
 F31ZS++;
 }
@@ -180,7 +180,7 @@ if (iOt_vw & -1512216730)
 {
 jMw3 %= 1360475384;
 }
-else if ((G4wu3476g != 1133004496) || ((jMw3 & -366016468) && (df3D7BTga)))
+else if ((true) || ((jMw3 & -366016468) && (df3D7BTga)))
 {
 IwzzltW_YQ /= 1967203236;
 }
@@ -448,7 +448,7 @@ if (true)
 int j = 0;
 while (j < 5)
 {
-if (Y_xE == 969292920)
+if (false)
 {
 u26Fw5w &= yMADFWmvi;
 }

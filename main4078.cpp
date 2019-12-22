@@ -89,7 +89,7 @@ k++;
 std::cout << JM7162k << "k_Tbhgrt" << "Clp7mkE_7_" << NRdt_ << "zYJc955" << std::endl;
 if (true)
 {
-if ((BwLVggQ > qe7_) || (U2761MSd > 610082023))
+if ((BwLVggQ > qe7_) || (false))
 {
 {
 int k = 4;
@@ -179,7 +179,7 @@ if (fD1I7bM & -850151690)
 {
 L7hKws = a_A_QgA60 ^ 1870386721;
 }
-else if (Lq5H3lM5L == 13236025)
+else if (false)
 {
 ieUT %= 126809065;
 }
@@ -191,7 +191,7 @@ else if ((l9AP) && (jJ1gFm > -1056743979))
 {
 Yg4887XhY ^= qz9FV2_;
 }
-else if (((SCV5VaSKu4 >= 2016262594) || (Q38KK31 < -2048741051)) || (oPm92g))
+else if (((false) || (Q38KK31 < -2048741051)) || (oPm92g))
 {
 ka1p3fzy = (feO2fQ5 & UoUN) ? 209113567 : ka1p3fzy;
 }

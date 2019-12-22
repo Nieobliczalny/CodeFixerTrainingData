@@ -218,7 +218,7 @@ if (((I97N11jKB > 483395438) || (false)) || (e0Ve > 789301883))
 {
 if (PrfUk__5bs != 649128433)
 {
-if (j_C3G >= 288986063)
+if (false)
 {
 hinU0Y = EWpG();
 }
@@ -328,7 +328,7 @@ emN9WN = (int)abs(el_V_9J);
 while (k >= 0);
 }
 }
-else if (((true) && (pXre9 > -1261045567)) && (THk4_7 > Ga1Q))
+else if (((true) && (true)) && (THk4_7 > Ga1Q))
 {
 if (Mu04CkUd4m)
 {

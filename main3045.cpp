@@ -297,7 +297,7 @@ if ((true) && (OM7W_0I < -1338909863))
 {
 std::cout << J4ln << "L91a" << IpU_5(zX7hfkj44, wd_5x8, 1661888006, 966222534, a6436JU4) << std::endl;
 }
-else if ((ZY80I > -1378795384) && (FxgIpyCrVI < 1732753305))
+else if ((true) && (FxgIpyCrVI < 1732753305))
 {
 HzLir = (unsigned int)(FxgIpyCrVI);
 }

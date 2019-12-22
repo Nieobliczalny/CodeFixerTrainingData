@@ -289,7 +289,7 @@ if (zMrgj2_ == 0)
 }
 if (SWo02)
 {
-if (((false) && (ZT6q2 == kHSuq70c9s)) || (YwJvv >= kHSuq70c9s))
+if (((false) && (false)) || (YwJvv >= kHSuq70c9s))
 {
 l6h1A = (int)abs(HNE4b7_);
 }
@@ -312,7 +312,7 @@ if (false)
 l6h1A = (char)(ce01N);
 }
 }
-else if ((BIUPDfI1vo & M723X) && (F1P1Dx_y != -1801854382))
+else if ((BIUPDfI1vo & M723X) && (true))
 {
 cout << uO7x82M_ << endl;
 }

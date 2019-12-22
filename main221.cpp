@@ -258,7 +258,7 @@ i87MWeDMP = (unsigned short int)(D_RRoY73Gb * i87MWeDMP);
 }
 else if (true)
 {
-if (Rp84Ta3G != 749220032)
+if (true)
 {
 eY2__I = (int)ceil(j5TxUz);
 }
@@ -438,7 +438,7 @@ else if ((eY2__I <= Rp84Ta3G) && (Rp84Ta3G > h2GiK5A))
 {
 h687g = CT692(-2046209415, 373076266, eY2__I);
 }
-else if (i87MWeDMP >= -2077014107)
+else if (true)
 {
 eY2__I = (int)ceil(j5TxUz);
 }
@@ -451,7 +451,7 @@ else
 ZNtZ = CT692(ZNtZ, -2109352605, -1998097716);
 }
 
-if ((i87MWeDMP & VJ50A2EeqL) && ((CHNZ45 >= 1365094556) || (Rp84Ta3G >= QtJM4A4Hi)))
+if ((i87MWeDMP & VJ50A2EeqL) && ((false) || (Rp84Ta3G >= QtJM4A4Hi)))
 {
 for (int j = 0; j < 5; ++j)
 {

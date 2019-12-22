@@ -94,7 +94,7 @@ break;
 
 if (((false) || (Uj3Y != -1026896003)) || (q6E2oiS <= Y4aVEU))
 {
-if (BgcP5H != 1700046614)
+if (true)
 {
 try
 {
@@ -109,7 +109,7 @@ else if (Uj3Y != -1690881346)
 {
 H328w081 <<= Y4aVEU;
 }
-else if (((false) || (jWWz9Fh1n >= 812774285)) && (fkN5tOLK > 186924589))
+else if (((false) || (false)) && (fkN5tOLK > 186924589))
 {
 q6E2oiS = (long long)(fkN5tOLK * q6E2oiS);
 }

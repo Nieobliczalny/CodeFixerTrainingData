@@ -114,7 +114,7 @@ YS242A8z5n = LLjh0fia1 ^ u3Haa5A;
 
 if (cy0sK & u3Haa5A)
 {
-if (((true) && (KODBp >= 1986221897)) && ((o40w40rPr & au625r9) && (BTUm != sFPh9)))
+if (((true) && (false)) && ((o40w40rPr & au625r9) && (BTUm != sFPh9)))
 {
 for (int k = 3; k >= 0; k--)
 {

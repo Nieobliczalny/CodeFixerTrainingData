@@ -246,7 +246,7 @@ if (false)
 NrUk_ILr = (int)abs(KaKV_FfD);
 }
 
-if ((YFLj6EnX != -559375071) && (ztTO9 & C56ck82r25))
+if ((true) && (ztTO9 & C56ck82r25))
 {
 if (((PHHyrI <= c7Vk) && (rL1tA3 >= pf2V7ebKDM)) && ((a39UXAC1 <= pf2V7ebKDM) || (YFLj6EnX < rKiec)))
 {

@@ -361,7 +361,7 @@ zhPJ5lF78 = (unsigned int)(SoY1);
 }
 else if (true)
 {
-if (g_8h2oP < 495941999)
+if (true)
 {
 if (rrdAY0 == -2130460500)
 {
@@ -540,7 +540,7 @@ else if (aWsoTK4 < 1464742399)
 {
 mWUA138 *= mWUA138;
 }
-else if ((true) && (wFyz3HIzm > 1981263524))
+else if ((true) && (false))
 {
 if (ylAI179_b >= 1757752961)
 {

@@ -227,7 +227,7 @@ catch (int& errorCode)
 Fg7i1BO_u >>= ZZxL4;
 }
 }
-else if ((v1_8 <= 1503150336) && ((false) || (zLK_ >= -1466514030)))
+else if ((v1_8 <= 1503150336) && ((false) || (true)))
 {
 if (mfoV1 & -895882386)
 {

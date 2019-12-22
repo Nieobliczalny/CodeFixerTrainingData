@@ -366,7 +366,7 @@ for (int k = 9; k >= 0; k--)
 nE4S1X_48 = LiIayeh9h(-826904838);
 }
 }
-else if ((nu8P3bb) && (ySQrMss9 < 1699114683))
+else if ((nu8P3bb) && (true))
 {
 switch (rUJ_U)
 {
@@ -550,7 +550,7 @@ cout << LiIayeh9h(1040069000) << endl;
 int i = 0;
 while (i < 3)
 {
-if (((true) && (C98u_Y5ll < -451976163)) || (Iw8cz <= e2yO7_qzZ))
+if (((true) && (C98u_Y5ll < -451976163)) || (true))
 {
 if (AvXgj6_F & KjMu3PE)
 {

@@ -159,7 +159,7 @@ h_95_e = z_KW9 * iT189;
 break;
 }
 }
-else if (((false) && (laoirR > 43151936)) || (ZJqO2_vR1A >= -1980503858))
+else if (((false) && (laoirR > 43151936)) || (true))
 {
 try
 {
@@ -170,7 +170,7 @@ catch (int& errorCode)
 s_1hp_Rd1 = u3Cj();
 }
 }
-else if ((true) && (Ok27mBN88 >= 2083658279))
+else if ((true) && (false))
 {
 TyL_v = (short int)(Ee6q_L5DDD);
 }
@@ -185,7 +185,7 @@ rFCnJ = TP7Ke(ib6IBU2u_B);
 }
 }
 }
-else if (((true) && (TY2r > -1096166383)) && (nVmWK > A5Q1D))
+else if (((true) && (true)) && (nVmWK > A5Q1D))
 {
 try
 {

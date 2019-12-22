@@ -439,7 +439,7 @@ o_8Ez = (int)ceil(ylODp2q__1);
 }
 else if ((B8brg9S0I) || (false))
 {
-if ((J04JXbrO == -94968934) || (B8brg9S0I <= 1034178970))
+if ((false) || (B8brg9S0I <= 1034178970))
 {
 if (YIIuq > k7f4_F)
 {

@@ -142,7 +142,7 @@ do
 {
 if (true)
 {
-if (((tz15Uoo > Iob1H8R) && (mEr9RLMP > S6QpWzS)) && ((a0AUNur != aG51a5H0S) || (SIijX0t4xT < WSfj7vL)))
+if (((tz15Uoo > Iob1H8R) && (mEr9RLMP > S6QpWzS)) && ((a0AUNur != aG51a5H0S) || (false)))
 {
 PhN436s = (int)abs(lG0CXHMLId) * 0;
 }

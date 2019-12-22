@@ -145,7 +145,7 @@ int j = 2;
 while (j >= 0)
 {
 --j;
-if (((P_12 > qnu5) && (Q_ZrQf != 1311745506)) && ((sn6K78g >= 362311000) || (R3yv2zEj < -1176873528)))
+if (((P_12 > qnu5) && (true)) && ((sn6K78g >= 362311000) || (R3yv2zEj < -1176873528)))
 {
 v7w73EmBLo = NG016c(v7w73EmBLo, -593126940);
 }
@@ -277,7 +277,7 @@ zNc9 = NG016c(-1641903594, bsGMI);
 }
 y80nHMwY3G = I_axAEFV & 841731291;
 
-if (((false) || (ZjXXTA3GdN == 22263254)) && ((hTq6bMHn) && (uLvWuLHQj < 1770116484)))
+if (((false) || (false)) && ((hTq6bMHn) && (uLvWuLHQj < 1770116484)))
 {
 aBRo2k = g3n7m(2066928814, -2087238401, Qt2o6ZBHWH);
 }

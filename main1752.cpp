@@ -174,7 +174,7 @@ else if (false)
 {
 std::cout << pDG1DzeP(xepFQWl7, C98Od49O8, Und4) << xepFQWl7 << std::endl;
 }
-else if (((Fz6Wv8NxQO == OJS_) && (Jd2D_Ko1B8 < QouoIESj2R)) && (Jd2D_Ko1B8 >= QouoIESj2R))
+else if (((Fz6Wv8NxQO == OJS_) && (true)) && (Jd2D_Ko1B8 >= QouoIESj2R))
 {
 lhD0F = (unsigned short int)(NMrTAa);
 }

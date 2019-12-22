@@ -494,7 +494,7 @@ else if (false)
 {
 wPXTaiX = y3Dk797ra(wPXTaiX, jQ9P43);
 }
-else if (Wd5O <= -1942749506)
+else if (false)
 {
 D__cS4H1L = UbUN4O2Bf >> 1830660070;
 }

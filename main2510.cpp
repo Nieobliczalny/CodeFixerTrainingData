@@ -417,7 +417,7 @@ if ((false) || (Ryv32wS28 & G57nXP_aiR))
 {
 f0Dox33vW = (int)(pij6Q383A);
 }
-else if (N668_2o > 1657353418)
+else if (false)
 {
 t0Kep = sNupKsqJo3(1526221417, -864074128, IIene0T8J);
 }

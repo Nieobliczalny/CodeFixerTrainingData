@@ -235,7 +235,7 @@ S6nRXbxYpE += eU200;
 
 std::cout << ZUw__6(980881580, o1Xj0vS) << rNFLwt5M1(zQUWcu, 1410587442, kM2Pf, p3z7V5) << std::endl;
 rEf3nEFO4z = (char)(GQ_Ud);
-if (((false) || (o1Xj0vS == -1020140806)) || ((r_nIPXw <= 111984931) || (L8qlTG482 >= jr9Wk12Pm2)))
+if (((false) || (o1Xj0vS == -1020140806)) || ((true) || (L8qlTG482 >= jr9Wk12Pm2)))
 {
 YuFGF8W = XEr__jv(1745919225);
 }
@@ -268,7 +268,7 @@ else if ((kM2Pf == -1057054895) || ((rEf3nEFO4z >= ugJQ) && (p3z7V5 <= GQ_Ud)))
 {
 hq2OJ2qH5 &= GsPmPJ2m85;
 }
-else if (ugJQ < R5g48eS_9F)
+else if (false)
 {
 ZFPW5Jwm = XEr__jv(864217146);
 }

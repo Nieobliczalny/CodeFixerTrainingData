@@ -155,7 +155,7 @@ RURci_1p3_ >>= K4214QxtO_;
 }
 else if (true)
 {
-if (((L1pa7l7 > Cjn47) && (z6r4879Bj > 170969040)) && (Pq6c == -1245666805))
+if (((L1pa7l7 > Cjn47) && (false)) && (Pq6c == -1245666805))
 {
 d1F5 = (int)abs(R8f9Dx8l);
 }

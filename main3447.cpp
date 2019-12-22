@@ -493,7 +493,7 @@ else if ((true) && (nYmz & lI_78))
 {
 fLfN09sbdm /= 710553393;
 }
-else if ((aDPl0G8iCM >= A_A407806) || ((KIANp4 != T39__5A6) || (xcK88)))
+else if ((aDPl0G8iCM >= A_A407806) || ((true) || (xcK88)))
 {
 B80mL9 = (int)abs(EO8sl);
 }
@@ -515,7 +515,7 @@ catch (int& errorCode)
 XbCiT1 = FB7O(-1075131567, 634462169);
 }
 }
-else if ((false) || (z2_cs_l_ >= T39__5A6))
+else if ((false) || (false))
 {
 try
 {

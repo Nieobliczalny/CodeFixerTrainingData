@@ -250,7 +250,7 @@ else if ((RXCQv != EEyk0) && (false))
 {
 UD0S23lrJ = j_28h88qH3 ^ 1889476813;
 }
-else if (EEyk0 <= fadk3lWoS3)
+else if (true)
 {
 if ((uZKdYKz0 < D390) || (No0po < -2127799364))
 {

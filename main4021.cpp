@@ -396,7 +396,7 @@ if ((Rt11_9 & v9eXC) || ((vpV4J != wcnU0k) || (false)))
 {
 nN9fG1s2R = onVTj6_25L(1850016066, SaDxJ88K, Cd7jiwl, z1o4V8iP);
 }
-else if (VF3s < -1980093983)
+else if (false)
 {
 FE46o0 = s58gz6c(775391261, Unuo86se, w0tkDi8BV5, -753334160);
 }

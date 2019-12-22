@@ -411,7 +411,7 @@ else if (false)
 {
 jp2JU91 = (short int)(Q5q8o);
 }
-else if ((hQdZvW) && (C5459HWWc4 > 309091980))
+else if ((hQdZvW) && (false))
 {
 BZ8WJ6BK_ = (int)(Izw7qn);
 }
@@ -515,7 +515,7 @@ BZ8WJ6BK_ = (int)(K9GWW_);
 
 if ((true) || (yvQ72 & Hl1C))
 {
-if (VdQG != -1138764972)
+if (true)
 {
 cout << "f6l62AEAG" << B9qo34zB << "v2KzV_z_9a" << endl;
 }
@@ -533,7 +533,7 @@ else if (K9GWW_ <= Izw7qn)
 {
 eF3rv1fr = SzOz * J13G;
 }
-else if ((true) && ((VdQG <= -238580083) || (snf009B)))
+else if ((true) && ((false) || (snf009B)))
 {
 HPB1 = (int)floor(i9M26);
 }

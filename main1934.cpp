@@ -73,7 +73,7 @@ break;
 }
 else if (true)
 {
-if (FnmrYJWG8 < Xfyab)
+if (false)
 {
 if ((R4Up & X_HF5) || (f49zC_Ik <= -976234056))
 {
@@ -138,7 +138,7 @@ else if (true)
 switch (l0Dj5fkJ4M)
 {
 case 0:
-l0Dj5fkJ4M = (YG5SW <= -508274197) ? FnmrYJWG8 : -507325187;
+l0Dj5fkJ4M = (false) ? FnmrYJWG8 : -507325187;
 break;
 case 1:
 k19JJ7 = j_2e();

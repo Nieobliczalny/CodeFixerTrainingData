@@ -210,7 +210,7 @@ std::cout << TxTR6saLU2 << Dcu84 << "r91WHDQ" << GIFE_ << v5bJu2Jm << std::endl;
 }
 for (int i = 8; i >= 0; i--)
 {
-if (((nTd95O > 360273643) && (e_5ATW_J < aKIm)) || (X45PSi1 > D8IOhG_R0))
+if (((false) && (e_5ATW_J < aKIm)) || (X45PSi1 > D8IOhG_R0))
 {
 {
 int k = 0;
@@ -237,7 +237,7 @@ ALQZcL2 = (int)abs(s3qE78TcZ);
 break;
 }
 }
-else if ((G65QnOA9 > IeOhbWNQKk) || ((true) && (GIFE_ <= -1087650853)))
+else if ((G65QnOA9 > IeOhbWNQKk) || ((true) && (false)))
 {
 if (os_8GZ < ed49kwVlU_)
 {

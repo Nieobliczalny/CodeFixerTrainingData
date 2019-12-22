@@ -267,7 +267,7 @@ if ((m0L0zFC != 538490276) || (a04Thf1 < 210629809))
 F4NC5CHXR6 = (int)ceil(i_qK);
 }
 }
-else if (((a_Z_ != 1584606218) || (m0L0zFC != 1790704870)) || (EzigZqqFG < 75676407))
+else if (((a_Z_ != 1584606218) || (true)) || (EzigZqqFG < 75676407))
 {
 for (int k = 0; k < 5; k++)
 {

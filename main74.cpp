@@ -249,7 +249,7 @@ eAEinn0GI &= amK7CuyU7;
 }
 else if (((true) && (xz44ar2J8)) && ((W1hBeZRD & ofPXg) || (W1hBeZRD)))
 {
-xz44ar2J8 = (yk5y3Ydn > 304698854) ? -943674789 : -2084163948;
+xz44ar2J8 = (false) ? -943674789 : -2084163948;
 }
 else
 {

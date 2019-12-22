@@ -125,7 +125,7 @@ else if (false)
 {
 fQ6y757Egj = (int)ceil(C7XdBE);
 }
-else if (h66D9D >= 1877267073)
+else if (false)
 {
 zibT = kdVo108PE(-1562461316, hc3w_40, 330621857, 770779787);
 }

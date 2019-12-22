@@ -71,7 +71,7 @@ if (((kFxnzo_) || (T23s_P != FMoR)) && ((V2flt6T != 290810956) && (false)))
 {
 J84_8 = (int)floor(N249Nm);
 }
-else if (FMoR > 381976532)
+else if (false)
 {
 FSaiVW = (int)ceil(agz1z26L8Z);
 }

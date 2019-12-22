@@ -167,7 +167,7 @@ else if ((rBww5JrIH <= F73t_bQjeY) || (false))
 {
 z13SU4E ^= 62546482;
 }
-else if (exUh150 != -1427083969)
+else if (true)
 {
 NXtwU4_I = (int)abs(ahI5sb_0);
 }
@@ -268,7 +268,7 @@ break;
 }
 else if (true)
 {
-if ((N6ClJBV <= 1536060195) || (w68_ <= Kd8_5DJE))
+if ((true) || (w68_ <= Kd8_5DJE))
 {
 exUh150 = (unsigned char)(YoO91_Wz8P);
 }

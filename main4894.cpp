@@ -103,7 +103,7 @@ break;
 }
 if ((mXXljg2_) || (true))
 {
-if (X53zsB != -992133832)
+if (true)
 {
 {
 int k = 0;
@@ -258,7 +258,7 @@ while (j < 7);
 }
 
 NS2WN6S9 = (int)abs(QI60EEh51);
-if (((false) || (A5SFL > 2077319962)) && ((S6X9RL8 & -1916921331) || (IhqNiB > -882454116)))
+if (((false) || (false)) && ((S6X9RL8 & -1916921331) || (IhqNiB > -882454116)))
 {
 D_iA00 = i2de & SSu3Qp72;
 }

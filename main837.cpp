@@ -321,7 +321,7 @@ hA1reC8 %= Z0IU6czN;
 while (k >= 0);
 }
 }
-else if (((false) || (v0t3g8 <= Yhoj0)) || (ftJZX9Flw > 921538900))
+else if (((false) || (v0t3g8 <= Yhoj0)) || (false))
 {
 Ck28jOY4C = (int)ceil(kwM4m);
 }
@@ -392,7 +392,7 @@ for (int k = 0; k < 2; ++k)
 C47L7 = C47L7 ^ 407588888;
 }
 }
-else if (C47L7 >= o7XVLwdGO)
+else if (true)
 {
 try
 {

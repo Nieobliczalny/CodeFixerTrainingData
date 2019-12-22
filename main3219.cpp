@@ -423,7 +423,7 @@ if (((true) && (Z_1qx != S_57i_0Sc)) && (aKHbJtMS != RVZ4r2kM0))
 {
 BPXCF1uB2 -= aKHbJtMS;
 }
-else if (((L9EL) && (rpbwxFqSn2 <= -229645569)) || (S4EXgysG < 249666351))
+else if (((L9EL) && (false)) || (S4EXgysG < 249666351))
 {
 BPXCF1uB2 = rFw4pK_ * 1412521243;
 }

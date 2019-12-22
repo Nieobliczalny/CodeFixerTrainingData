@@ -177,7 +177,7 @@ break;
 std::cout << Vtpz_ << Q1w7 << Ey8Sd_R << Fk55 << "EZM2312Aa" << std::endl;
 if ((true) || (fpioU < 885155616))
 {
-if (Ey8Sd_R != J5o6)
+if (true)
 {
 Tk05z0km >>= d6Deep;
 }
@@ -560,7 +560,7 @@ break;
 }
 while (i < 7);
 }
-if (((true) && (KnKu0W & ZPFyv8rQ)) && (r2m156EbSb > N5myUk4mo))
+if (((true) && (KnKu0W & ZPFyv8rQ)) && (true))
 {
 switch (U8gXlca)
 {
@@ -618,7 +618,7 @@ else if (s9t_ & 891591964)
 {
 for (int j = 2; j >= 0; --j)
 {
-if ((wfsR >= N5myUk4mo) || (t0411OY & -1587935924))
+if ((true) || (t0411OY & -1587935924))
 {
 J9Scs46S_ = fpioU - 2117112694;
 }

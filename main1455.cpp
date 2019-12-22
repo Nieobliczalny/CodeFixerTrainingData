@@ -405,7 +405,7 @@ if (u95NjNlOu == G1z09T9bH)
 {
 lmr_4 = u95NjNlOu % 980143164;
 }
-else if (GKt3f != QxO_Cwc)
+else if (true)
 {
 yVF0_0 = G1z09T9bH | u95NjNlOu;
 }

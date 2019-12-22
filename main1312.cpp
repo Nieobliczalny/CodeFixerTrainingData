@@ -165,7 +165,7 @@ break;
 }
 else if (((za5JECy <= cT47C3rHQ) && (E_W68gYXf)) && (MSHAhE))
 {
-if (((JIGJTT50) && (yMSv <= oWP1)) || ((false) || (tyWfr5l > PRJ5zICF7c)))
+if (((JIGJTT50) && (yMSv <= oWP1)) || ((false) || (false)))
 {
 W5n_5F2L = HtWP6(W5n_5F2L, yhDl5NpB, Zhv2c43a, -770839135, -1420122420);
 }

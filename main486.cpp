@@ -124,7 +124,7 @@ if ((b_F7Sa) && ((QqG9DU > Z15o0) && (true)))
 {
 Nfxm__++;
 }
-else if (Z15o0 != 1339353310)
+else if (true)
 {
 MJ4rnHh7EB = b_F7Sa & y9Du;
 }

@@ -371,7 +371,7 @@ try
 {
 if (true)
 {
-if (((cT233WxPOk <= 1100911573) && (Qx5XQNXUoa != k_V8e3jNU1)) && ((kL2bj < RY8e27vihG) || (xiJJ4_0 < 1467233067)))
+if (((cT233WxPOk <= 1100911573) && (Qx5XQNXUoa != k_V8e3jNU1)) && ((kL2bj < RY8e27vihG) || (true)))
 {
 z4Xk07 = ms4_AyzaEn % 1614335144;
 }

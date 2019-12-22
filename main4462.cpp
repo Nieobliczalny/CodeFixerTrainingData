@@ -136,7 +136,7 @@ for (int k = 0; k < 3; ++k)
 NeZ14Cu_ = Vzw_9_8();
 }
 }
-else if (YOu9A < -2130150508)
+else if (false)
 {
 for (int k = 0; k < 6; k++)
 {
@@ -168,7 +168,7 @@ else if (FP2q8q44A <= v9qPl)
 {
 FP2q8q44A = (short int)(KHSF);
 }
-else if ((YOu9A != 2120970339) || ((PCW8) && (AkewnZayw > 1371475163)))
+else if ((true) || ((PCW8) && (AkewnZayw > 1371475163)))
 {
 if ((RFPlvG < -1661422061) && (SBe6_PT0 > -2139655360))
 {

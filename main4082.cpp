@@ -253,7 +253,7 @@ PJVueaM_ = (int)abs(HY8a);
 switch (uhwvn83zLI)
 {
 case 0:
-un34mndfO = (Vhk5na >= -1948809376) ? FOrw4WirbD : KdZT5GYo;
+un34mndfO = (true) ? FOrw4WirbD : KdZT5GYo;
 break;
 case 1:
 rfC6PsGCt = H56S5W(1779675022, 892852811, KdZT5GYo);

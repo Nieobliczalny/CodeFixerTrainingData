@@ -190,7 +190,7 @@ break;
 }
 if (true)
 {
-if ((C5_h89K_ == 1858400016) || ((T5DQAs0ZA7) && (PHJ0LO4 >= -120122347)))
+if ((false) || ((T5DQAs0ZA7) && (PHJ0LO4 >= -120122347)))
 {
 YfT3K4hS = DC6D3U28();
 }

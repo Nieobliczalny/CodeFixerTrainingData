@@ -130,7 +130,7 @@ if (bOk9o4GfQ5 & Dv3ZqIKYB)
 {
 xL14t1e74u = (int)abs(Sn3Tnepyd);
 }
-else if (((tC83tPVF) || (sVs0mQ)) && ((GYWb != AD_0nd) || (p80yNm7k5 & o3eJ41I4P0)))
+else if (((tC83tPVF) || (sVs0mQ)) && ((true) || (p80yNm7k5 & o3eJ41I4P0)))
 {
 IAJBN4IJ3S += QPV_0Z;
 }

@@ -139,7 +139,7 @@ else if ((T47200bH & Z3UU9s7s) || ((Z3UU9s7s != T47200bH) && (true)))
 {
 zr76NcF = (int)abs(h_DvbR);
 }
-else if (Xmej28GHd <= 132793387)
+else if (true)
 {
 switch (O7AV1)
 {
@@ -213,7 +213,7 @@ Z3UU9s7s += h_DvbR;
 }
 else if (true)
 {
-if ((Z3UU9s7s != 679660719) || (zr76NcF <= 1811622602))
+if ((Z3UU9s7s != 679660719) || (true))
 {
 T47200bH++;
 }
@@ -343,7 +343,7 @@ h_DvbR /= 1324888338;
 T47200bH = (unsigned long long)(j36CR + (469131309));
 O7AV1 = (unsigned int)(zr76NcF);
 
-if ((true) && ((Xmej28GHd == -1723571642) || (Z3UU9s7s >= -295218131)))
+if ((true) && ((false) || (Z3UU9s7s >= -295218131)))
 {
 for (int j = 0; j < 9; j++)
 {

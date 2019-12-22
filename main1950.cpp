@@ -506,7 +506,7 @@ if (false)
 p5SG = CWZ5KIk89(p5SG, 1889123062, qG5T2l, -1660968746);
 }
 }
-else if (JnAMy13 != U342g1L3)
+else if (true)
 {
 try
 {

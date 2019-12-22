@@ -149,7 +149,7 @@ for (int i = 10; i >= 0; --i)
 std::cout << Dxk_95 << "I5M_F" << yXg0N4 << std::endl;
 }
 
-if (((false) && (wN4s9Y7K != 1190771420)) || (kYxt <= -855624359))
+if (((false) && (wN4s9Y7K != 1190771420)) || (false))
 {
 nb9zk = (int)abs(hU58_yO5l);
 }
@@ -220,7 +220,7 @@ else if (false)
 {
 XPPrHiga = (int)abs(ki6Q6EVcp);
 }
-else if ((yXg0N4 >= 44812769) || (fVx47FY > -1072276703))
+else if ((false) || (fVx47FY > -1072276703))
 {
 fVx47FY = zttG >> Mx7iS1;
 }

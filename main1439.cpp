@@ -125,7 +125,7 @@ if ((DcwR_Sn2j) || (true))
 int j = 0;
 do
 {
-if (pmXbD == f99u)
+if (false)
 {
 aj2lln = eV0ad_(aj2lln, e0c82, knX_sJ, oaN6A8oJ, -515517122);
 }

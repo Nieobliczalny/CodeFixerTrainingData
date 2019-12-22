@@ -502,7 +502,7 @@ else
 Hw5YgOJ = u8_V5(-1346934396);
 }
 }
-else if ((F8oSM > eY1I6f_7) || ((Gc4JWNFtT7) || (ZS5k4 <= -1109396988)))
+else if ((F8oSM > eY1I6f_7) || ((Gc4JWNFtT7) || (false)))
 {
 bg_Oz5 = (float)(MgVt7);
 }

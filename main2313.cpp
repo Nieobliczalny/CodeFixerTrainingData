@@ -150,7 +150,7 @@ std::cout << "y8_4d" << "Ng4hrpWS" << std::endl;
 }
 else if (true)
 {
-yiYR5Z3b = (uq2GhU == -548305881) ? p49z5n(TB6KO9_296, uq2GhU, 1116930855, -461649135, rY5IXg) : h4__eu;
+yiYR5Z3b = (false) ? p49z5n(TB6KO9_296, uq2GhU, 1116930855, -461649135, rY5IXg) : h4__eu;
 }
 else if ((Bgkv8lP6I < -1302915496) || ((rY5IXg & P_ts) && (P_ts == 720041468)))
 {
@@ -283,7 +283,7 @@ else
 rY5IXg ^= 49505283;
 }
 }
-else if (TB6KO9_296 < 1588130483)
+else if (true)
 {
 switch (s9x8_g)
 {

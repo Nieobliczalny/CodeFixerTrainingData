@@ -191,7 +191,7 @@ Ou2_ = (float)(kF5wLY);
 
 for (int i = 0; i < 4; i++)
 {
-if (((false) || (I4gv2WXOzZ == 1017338382)) && (K05U != -1661528423))
+if (((false) || (I4gv2WXOzZ == 1017338382)) && (true))
 {
 KqR9c6_ = Ruz4YD ^ 333218473;
 }
@@ -224,7 +224,7 @@ Ou2_ = (int)floor(KqR9c6_);
 while (j >= 0);
 }
 }
-else if ((false) || (c7l23Nrnm <= -377714992))
+else if ((false) || (false))
 {
 cout << "DurTj_" << endl;
 }

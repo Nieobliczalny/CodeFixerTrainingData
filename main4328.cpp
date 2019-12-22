@@ -422,7 +422,7 @@ while (i >= 0);
 
 if (jFc9 & -966141489)
 {
-if (((f5qM) && (true)) || (A9jgTRKv_C >= 85286891))
+if (((f5qM) && (true)) || (false))
 {
 try
 {

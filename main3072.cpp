@@ -346,7 +346,7 @@ else if (ps49Jf & iQqFdB)
 {
 c0c7ZuLY = (int)ceil(W_CwNG2mJF);
 }
-else if (((true) && (EY_9dnx < aE8Y36Lsw)) || ((YsZ3JKL2Hz == 363165923) || (dDogQ0tmb8 == 1504967456)))
+else if (((true) && (EY_9dnx < aE8Y36Lsw)) || ((false) || (dDogQ0tmb8 == 1504967456)))
 {
 Y_V9R = (unsigned long)(TA32R);
 }

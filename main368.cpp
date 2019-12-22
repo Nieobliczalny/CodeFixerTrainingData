@@ -289,7 +289,7 @@ if (iZ3EqXzzeV == 378257434)
 s591_ = YMbI47(-2086903257, 1350292034, VpwMY66);
 }
 }
-else if (H30KpO < 324785599)
+else if (true)
 {
 switch (Kkcin6)
 {

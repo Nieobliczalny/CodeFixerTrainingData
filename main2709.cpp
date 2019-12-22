@@ -227,7 +227,7 @@ qemJoWD >>= 1629043355;
 }
 else
 {
-if ((vzuo > 1333185356) && (nfobsYZBJ < U_fTpA))
+if ((false) && (nfobsYZBJ < U_fTpA))
 {
 Qk3y85 = T6lAeg9Q74(1829173348, -1451268964, 488787671, Kw75, N1SY6);
 }

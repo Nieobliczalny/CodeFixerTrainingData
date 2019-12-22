@@ -197,7 +197,7 @@ break;
 }
 
 jOpAv02UQ7 = (unsigned char)(pJ_pve6tCP);
-if (((false) && (yhw2A_S)) || (JqXH >= QKW7932))
+if (((false) && (yhw2A_S)) || (true))
 {
 try
 {

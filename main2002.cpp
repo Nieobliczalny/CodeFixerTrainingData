@@ -72,7 +72,7 @@ if (((Rv2O) || (b7N4W6s & D3E6ap_)) && (false))
 {
 K2l96 = n9wq4O(1075065892, xiT9vnoM_v, oO5kaHAZk, 309381315);
 }
-else if (r8pBZ_L6Q <= -735501624)
+else if (false)
 {
 try
 {

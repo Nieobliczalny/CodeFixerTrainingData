@@ -168,7 +168,7 @@ std::cout << p32CXz1_8P(OeeX0iHa, 1194556489) << std::endl;
 int i = 0;
 while (i < 4)
 {
-if ((true) && (DphD9S_w >= 1934693381))
+if ((true) && (false))
 {
 {
 int k = 0;
@@ -298,7 +298,7 @@ std::cout << cWqm << HbS8L << "zvhb" << CDWR_ << "w30FO63l3v" << std::endl;
 
 y13yx = (false) ? p32CXz1_8P(1785165237, BZFwkJ) : 576779811;
 
-if (i8vc != -605200699)
+if (true)
 {
 {
 int j = 0;

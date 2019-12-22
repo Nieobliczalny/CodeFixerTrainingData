@@ -234,7 +234,7 @@ int j = 9;
 do
 {
 --j;
-if (((D3FqeLjZ != R7NjY4) || (false)) || ((l1L8) || (g603_ == cBKR)))
+if (((D3FqeLjZ != R7NjY4) || (false)) || ((l1L8) || (false)))
 {
 NjWnYDBQN = (int)abs(l1L8);
 }

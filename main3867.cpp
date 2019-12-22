@@ -115,7 +115,7 @@ if (false)
 {
 O6__3FYH6 = Ng1zUBAcr5 & 2111916047;
 }
-else if ((GSQ_7lA != 511648643) || (L2gfid & -1169445960))
+else if ((true) || (L2gfid & -1169445960))
 {
 r15T <<= 1092903895;
 }
@@ -230,7 +230,7 @@ int j = 0;
 while (j < 4)
 {
 j++;
-if (KA0tx7 <= 400058698)
+if (true)
 {
 PH17_K = i_3U2U2L ^ qniHne1j;
 }

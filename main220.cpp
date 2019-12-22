@@ -154,7 +154,7 @@ else if (shUq >= -1863116696)
 {
 w7aM8eAqc <<= 1849824249;
 }
-else if (MEP7Z1lA == 796552014)
+else if (false)
 {
 iw5SwC07 = M_YX(Z76PeFf, BByOo20EW, 1565317570, 439389735, -2022465153);
 }
@@ -333,7 +333,7 @@ if (JP16HGL)
 {
 for (int j = 0; j < 10; ++j)
 {
-if (c0NPv < 1840403155)
+if (true)
 {
 eOtR29M = (int)floor(JP16HGL);
 }

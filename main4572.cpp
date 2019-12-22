@@ -58,7 +58,7 @@ rocF0i = (int)floor(I473y);
 }
 else if ((n57Rllic4 <= Of4SC6wzVU) || (false))
 {
-if (PWyxiVTzK0 >= 1500644811)
+if (false)
 {
 EP8OkJ1P1k %= jQef;
 }

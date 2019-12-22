@@ -30,7 +30,7 @@ std::cout << "DCF2D" << YBHoXD5() << std::endl;
 
 if (true)
 {
-if ((IN5rVPY) && ((ZadxF) || (ZadxF > 674874433)))
+if ((IN5rVPY) && ((ZadxF) || (false)))
 {
 IN5rVPY = YBHoXD5();
 }
@@ -143,7 +143,7 @@ AY9pHg = uk77(103459085);
 }
 else if (true)
 {
-if (NO375wb7 != -1742359762)
+if (true)
 {
 if (Y299Ae == -1988440205)
 {
@@ -168,7 +168,7 @@ if (false)
 {
 ZadxF = (int)abs(Y299Ae);
 }
-else if (AY9pHg != 395241556)
+else if (true)
 {
 Y299Ae %= AY9pHg;
 }
@@ -180,7 +180,7 @@ else if (((IN5rVPY & AY9pHg) && (NO375wb7 & 1638328371)) || (false))
 {
 ZadxF = YBHoXD5() / IN5rVPY;
 }
-else if ((AY9pHg <= IN5rVPY) && ((AY9pHg > IN5rVPY) || (NO375wb7 > -896932542)))
+else if ((AY9pHg <= IN5rVPY) && ((AY9pHg > IN5rVPY) || (true)))
 {
 ZadxF = AY9pHg >> Y299Ae;
 }
@@ -208,7 +208,7 @@ if ((Y299Ae & ZadxF) && (ZadxF & 119215027))
 NO375wb7 = YBHoXD5();
 }
 }
-else if (Y299Ae >= -1312170696)
+else if (true)
 {
 std::cout << YBHoXD5() << Vusf(1845597138) << std::endl;
 }
@@ -470,7 +470,7 @@ catch (int& errorCode)
 AY9pHg = (int)abs(ZadxF);
 }
 
-if (((ZadxF <= IN5rVPY) || (false)) && ((Y299Ae > 277554913) || (AY9pHg > ZadxF)))
+if (((ZadxF <= IN5rVPY) || (false)) && ((false) || (AY9pHg > ZadxF)))
 {
 try
 {

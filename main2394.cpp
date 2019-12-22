@@ -299,7 +299,7 @@ PZU_D = Pe2n(k_21sKat, 557879662, doG3HurV, -2005143694, 657124763);
 }
 else if (true)
 {
-Pa_19_A4 = (h5Lkx == -234462814) ? O_i01gaFS : Pa_19_A4;
+Pa_19_A4 = (false) ? O_i01gaFS : Pa_19_A4;
 }
 else if (((u9066SeB45 > 551502101) && (UH6M1c & PZU_D)) || (JzWtAB & -1993722205))
 {

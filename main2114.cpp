@@ -68,7 +68,7 @@ g9c893vUP6 = (short)(t16J1A2_c);
 }
 else if (true)
 {
-if ((BXC9wNG63N) && ((Y6K4isl < WOk6awNPa) && (WOk6awNPa >= -1525515822)))
+if ((BXC9wNG63N) && ((Y6K4isl < WOk6awNPa) && (true)))
 {
 GVwiMpY408 = Iw3O(KfPpUGIS, 680244541, -1084566522, 786444919);
 }

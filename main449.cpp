@@ -193,7 +193,7 @@ P_G42i6 >>= 1079753074;
 }
 else if (((ua02I9bEX & U8u6h) || (true)) || (YE_954_j_ >= wuF37))
 {
-if (cLJVK5 <= wuF37)
+if (true)
 {
 cLJVK5 = mS_4I3CzXl(-1986828970, -255524985, QhTiPsM82);
 }

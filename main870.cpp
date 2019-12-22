@@ -205,7 +205,7 @@ D7skw7cvic /= 1597834760;
 while (j >= 0);
 }
 }
-else if (ZXpy2r0qP >= 386140981)
+else if (false)
 {
 Oqr7Tn = (char)(zC_7_2i);
 }
@@ -262,7 +262,7 @@ else if (UhO5a & -1139083947)
 {
 A_9a = GdYhL_(-1462977526, 116432176, ioBRF) ^ M9Do6kGJ;
 }
-else if (M9Do6kGJ != -58473946)
+else if (true)
 {
 E0ToqE5Qh %= x72e;
 }

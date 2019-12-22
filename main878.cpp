@@ -284,7 +284,7 @@ std::cout << U23E << dDLpUi(auS7, Ga_rU) << std::endl;
 }
 else
 {
-if (((Xk0fHh == VHB8Z86) && (k556j1 <= BBcKl8)) && ((UaFG == 137084550) || (A2GzgXIl_8 & BBcKl8)))
+if (((Xk0fHh == VHB8Z86) && (k556j1 <= BBcKl8)) && ((false) || (A2GzgXIl_8 & BBcKl8)))
 {
 V76PG3 = pS_Nl6eY(V76PG3, k556j1, -1375058980, -88097211, 1202958259);
 }

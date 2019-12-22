@@ -523,7 +523,7 @@ cout << A1M0l() << endl;
 }
 else if (M6c0_k7)
 {
-if (tVFyB <= iVtc012U)
+if (true)
 {
 if (bx56T8Cc > 2034605693)
 {

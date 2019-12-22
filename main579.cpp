@@ -43,7 +43,7 @@ for (int j = 9; j >= 0; j--)
 std::cout << "a_I59l357_" << fsxdp8 << P4_d6B9HDM << t8Wn7u << HVpx01L3p << std::endl;
 }
 }
-else if (PgLzVF != -987714329)
+else if (true)
 {
 for (int j = 7; j >= 0; --j)
 {
@@ -339,7 +339,7 @@ std::cout << "o3DHH2" << std::endl;
 while (i < 2);
 }
 jT5MhnZOK_ >>= 2134461980;
-if ((true) && ((y74C07qLGl > -560843490) || (qnYFUze1Q != -825993996)))
+if ((true) && ((true) || (qnYFUze1Q != -825993996)))
 {
 if (CyluX >= 1906001199)
 {

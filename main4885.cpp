@@ -181,7 +181,7 @@ I11ECM_YF = (short)(dCw6X77o6Z);
 
 cout << "b_2O9eLSr" << W64FMoRmi3 << endl;
 
-if ((false) || (QkQHT7q <= -1377932204))
+if ((false) || (false))
 {
 if (B_zbjUt < -2121492308)
 {
@@ -207,7 +207,7 @@ else if ((N06dUI == KUfboio) && (false))
 {
 q3FK_Wv8 = (int)abs(D9xH);
 }
-else if (U70SJtao8K >= 1647479140)
+else if (false)
 {
 {
 int j = 3;

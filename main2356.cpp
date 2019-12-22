@@ -281,7 +281,7 @@ break;
 }
 }
 
-if (ZQM3 >= -145447200)
+if (true)
 {
 {
 int j = 0;
@@ -397,7 +397,7 @@ if (((eekB != 621125113) && (kqG8 & 813489223)) && (TFIZI == fWMq7))
 {
 eekB = oR4z293D(-1007140004, 485191075, E7_I);
 }
-else if ((E7_I < -1251622849) || (d0XH0B25 == aCp2))
+else if ((false) || (d0XH0B25 == aCp2))
 {
 kqG8 = RidG + 275077490;
 }

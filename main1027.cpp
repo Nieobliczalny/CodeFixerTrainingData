@@ -141,7 +141,7 @@ else
 {
 for (int j = 8; j >= 0; --j)
 {
-if (jx719WE4IF <= 489373879)
+if (true)
 {
 kB9cYRgv = wz2NS(cf977MU, -873341201, 2065123756);
 }
@@ -185,7 +185,7 @@ for (int i = 1; i >= 0; --i)
 {
 if (Qr0WbUdC0)
 {
-if (((false) || (jO01htlzr < U092)) && (F2_74yE < 272831655))
+if (((false) || (jO01htlzr < U092)) && (true))
 {
 n6__8X = (int)abs(N4UvDG);
 }

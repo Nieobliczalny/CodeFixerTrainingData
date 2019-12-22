@@ -101,7 +101,7 @@ b4is_Afm1 = (int)abs(h5lC_);
 }
 else if (y2Fp55u == 149876780)
 {
-if (((KY9RJ929A <= l_yUGyDn_C) || (b_7a >= -632333657)) && (BJmRn1K3 == rB1v7q))
+if (((KY9RJ929A <= l_yUGyDn_C) || (true)) && (BJmRn1K3 == rB1v7q))
 {
 j51kUJsp9 = (unsigned long)(H5P561);
 }

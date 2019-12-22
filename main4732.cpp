@@ -266,7 +266,7 @@ if (B1vjK18 == -607881201)
 {
 if (true)
 {
-if ((Q0eb5il9Ma < 854346343) && (D0FjoD7g <= 494103779))
+if ((true) && (D0FjoD7g <= 494103779))
 {
 Tfa_L = bVPz7898() + q0W81L6;
 }

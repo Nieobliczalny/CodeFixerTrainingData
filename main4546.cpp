@@ -249,7 +249,7 @@ s4XLoG1 = xVS6Nie8MQ(-936020199, 185013784);
 }
 }
 }
-if ((nCG1awm2 <= 7033799) && (txxgeLDvT))
+if ((true) && (txxgeLDvT))
 {
 try
 {

@@ -232,7 +232,7 @@ B__b = (short int)(F887S);
 while (i < 3);
 }
 
-if (((true) && (gb_T == 1980141799)) || (uVO5g))
+if (((true) && (false)) || (uVO5g))
 {
 B4_9sYzsPc = D__qwQ + 1596904578;
 }

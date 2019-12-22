@@ -317,7 +317,7 @@ if (false)
 {
 rRDoA = hD9A_2bfJ | 1536991109;
 }
-else if (hD9A_2bfJ <= 1236744280)
+else if (true)
 {
 hD9A_2bfJ >>= 981354563;
 }

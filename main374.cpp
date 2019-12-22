@@ -85,7 +85,7 @@ ZZ5Q = (unsigned char)(sj9UiEtp);
 }
 
 T1q2N7 = 424813543 / vLT_;
-if (ztub3iL < 1749904528)
+if (true)
 {
 if (z9n54H7U7_ == -2030347073)
 {

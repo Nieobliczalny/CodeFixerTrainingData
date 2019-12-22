@@ -89,7 +89,7 @@ b6pW2NpK5 = m8e35Uqob * mnis0k_U_l;
 
 EO4__kmBtF = (jQ034 == D3991IR) ? Gv3rN : 1259097549;
 
-if ((qTcdlnrvv != X3Zu7x1L) || (XD4_8m6 != -1958966071))
+if ((qTcdlnrvv != X3Zu7x1L) || (true))
 {
 cout << J2h_xyB << endl;
 }

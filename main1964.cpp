@@ -226,7 +226,7 @@ if (qOBTi < W_s4fnX7bW)
 {
 f1_3i3Cg = (unsigned int)(R6q3nS84);
 }
-else if ((true) && (le592q8R == -815199532))
+else if ((true) && (false))
 {
 {
 int j = 0;

@@ -678,7 +678,7 @@ else if (rsjA0 & H6D7_qhdl)
 {
 mmoFY %= V1t9XNQmcX;
 }
-else if ((LD7qs2hOWS < W7SlKH2) && ((cy_w_Mc == Ogw66) && (Z7YW_)))
+else if ((false) && ((cy_w_Mc == Ogw66) && (Z7YW_)))
 {
 f2VF95 = (int)ceil(S7bDU7);
 }

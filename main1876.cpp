@@ -427,7 +427,7 @@ do
 i++;
 if (l8aitT7uFX)
 {
-if ((ATDZpSJ) || ((false) || (AhUYVhvL > -966793578)))
+if ((ATDZpSJ) || ((false) || (true)))
 {
 CN6bL16FLi = (int)ceil(Rek9MgD);
 }

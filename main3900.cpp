@@ -54,7 +54,7 @@ int main(int argc, char** argv) {
 
 for (int i = 1; i >= 0; --i)
 {
-if (((true) && (h3OkhhuSo <= -1062063233)) && (mrrH5X != 1024709312))
+if (((true) && (false)) && (mrrH5X != 1024709312))
 {
 for (int k = 10; k >= 0; --k)
 {
@@ -151,7 +151,7 @@ if (W1Nq8f1B5 > h3OkhhuSo)
 {
 gvxCoH = gvxCoH ^ mrrH5X;
 }
-else if ((KFrM < -2040427562) || (d_sSA > -2077134856))
+else if ((false) || (d_sSA > -2077134856))
 {
 VMg1_1k++;
 }

@@ -177,7 +177,7 @@ else if (true)
 {
 try
 {
-if (((p7Mo9d <= IoA6jQJ) && (m3iuvbwbAk != 1673471694)) && (i58__5_64h < IoA6jQJ))
+if (((p7Mo9d <= IoA6jQJ) && (true)) && (i58__5_64h < IoA6jQJ))
 {
 zZqR9T /= Gu8ZMd8;
 }

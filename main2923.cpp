@@ -121,7 +121,7 @@ if (false)
 {
 cout << ZWdrs << "VcUd" << e512Q(1873073391) << e512Q(104484065) << "v4NNYfS5" << endl;
 }
-else if (((nvLu) || (ZWdrs < eA618tl)) && (qn_s_ > -1707567255))
+else if (((nvLu) || (ZWdrs < eA618tl)) && (true))
 {
 ZLAMXDuf |= bU0p;
 }
@@ -151,7 +151,7 @@ j7oL8XX = (short)(qI3n9DH2);
 }
 else
 {
-if (((Ut_zS != Ny10) && (M5e2 != ZmTs)) && (i5Csb != ZWdrs))
+if (((Ut_zS != Ny10) && (true)) && (i5Csb != ZWdrs))
 {
 ZWdrs = mY5fM__o5 * ouglBB0bS;
 }
@@ -308,7 +308,7 @@ if (true)
 {
 try
 {
-if (((Ob94xu <= qI3n9DH2) || (M5e2 & nPB6X8S87g)) || (Ob94xu > tGW3))
+if (((true) || (M5e2 & nPB6X8S87g)) || (Ob94xu > tGW3))
 {
 X2Udwr_ = (int)abs(V_7C_1);
 }

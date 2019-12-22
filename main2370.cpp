@@ -458,7 +458,7 @@ if (Aqm6clLa9y & NKK9RM)
 {
 cout << egIr570 << endl;
 }
-else if ((false) || (kU4yl3RR >= -1635022772))
+else if ((false) || (true))
 {
 o13bwA = (le6A <= 2108673642) ? o13bwA : -223641026;
 }

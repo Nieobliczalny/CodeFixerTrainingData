@@ -48,7 +48,7 @@ try
 {
 if ((true) && (ZE7SR & fbNm9X))
 {
-if (l8xCT == 1449224108)
+if (false)
 {
 n_C7D = AQiR(1631747087);
 }
@@ -76,7 +76,7 @@ else
 mJ9ftOt9 = AQiR(238414569);
 }
 
-if ((M68D == 998331002) || ((gxNTa8Aa) || (std6 > 1152628053)))
+if ((false) || ((gxNTa8Aa) || (std6 > 1152628053)))
 {
 if (true)
 {

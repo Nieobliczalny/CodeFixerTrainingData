@@ -79,7 +79,7 @@ int i = 10;
 do
 {
 i--;
-if ((true) && (C0kO == -753116042))
+if ((true) && (false))
 {
 {
 int k = 0;
@@ -297,7 +297,7 @@ Kxp2--;
 C0kO = (char)(xbSWu);
 if ((true) && (Blaia_3x))
 {
-if ((R894r_E4 >= -123705438) || (F4383z & xbSWu))
+if ((true) || (F4383z & xbSWu))
 {
 R894r_E4 = (char)(Blaia_3x + (-1418527699));
 }

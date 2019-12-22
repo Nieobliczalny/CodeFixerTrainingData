@@ -440,7 +440,7 @@ uIaQ65b50 = g606wu5gh & 909754307;
 }
 else if ((true) || ((caEUb5p & WKQl) && (vRlieAx != 1361902971)))
 {
-if ((caEUb5p != -84630407) || (Zi0DUq1_ & ISqhZ7))
+if ((true) || (Zi0DUq1_ & ISqhZ7))
 {
 LV2hdPnb2 = kSCoows >> 1608955835;
 }
@@ -535,7 +535,7 @@ else if ((n8tqUC45 >= S_K20pVN) && (hiTaAO2hCF))
 {
 caEUb5p = (unsigned short)(Nv0kKYGP87);
 }
-else if (U2e69gHk <= -1607056591)
+else if (false)
 {
 if (JrJNuHmwO > EB2m)
 {

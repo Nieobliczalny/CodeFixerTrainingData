@@ -117,7 +117,7 @@ gV8Dzp08 = (int)floor(vfjSn053v);
 }
 else
 {
-if (Nh27PP8 < -935445126)
+if (false)
 {
 YSZC = wh_aRL5S();
 }
@@ -201,7 +201,7 @@ else
 Za5j = (short)(Q8UHE92oo);
 }
 }
-else if (zc4z != 1163128099)
+else if (true)
 {
 H9aDjVqA29 = wh_aRL5S();
 }
@@ -537,7 +537,7 @@ else if ((m912f5U2E > 1539159986) && (true))
 {
 j65VMY1 = (unsigned long)(Za5j * j65VMY1);
 }
-else if (zc4z > -822045016)
+else if (true)
 {
 for (int j = 0; j < 8; ++j)
 {

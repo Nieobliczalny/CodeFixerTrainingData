@@ -638,7 +638,7 @@ if ((oWP4b3R1V == -456093162) || (l50RB8sBr_))
 {
 if ((EMOYIQmq == 1573000393) || (true))
 {
-oWP4b3R1V = (HEvqhAmA == -1995116598) ? J9FN6T : f6bUb5_Ztk;
+oWP4b3R1V = (false) ? J9FN6T : f6bUb5_Ztk;
 }
 else if (ql_N != YOx6)
 {

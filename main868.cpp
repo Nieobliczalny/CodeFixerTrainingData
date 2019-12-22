@@ -116,7 +116,7 @@ KXy8 = (short)(nzcp8SUo);
 }
 else if (N7xja)
 {
-if (((d_7_H <= 475566842) || (TV_8X_6KFr != sn0q35z)) || (ji02))
+if (((true) || (TV_8X_6KFr != sn0q35z)) || (ji02))
 {
 cSn9S_26 = cS6Dwup59E(340745879, -1567458873);
 }

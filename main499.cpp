@@ -15,7 +15,7 @@ int main() {
 cout << RFrabt << Uf9U << "RpFvW" << endl;
 if (true)
 {
-if (D3o_7AEQhi != -1908901699)
+if (true)
 {
 J5ez9crl3Y = (unsigned short int)(kQ_Y);
 }

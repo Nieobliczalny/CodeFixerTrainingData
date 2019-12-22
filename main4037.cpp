@@ -93,7 +93,7 @@ else if (i7_34T8HT != P2T7)
 {
 i7_34T8HT = a_03cHg_ - 374338959;
 }
-else if (((hr9KY != 708675296) || (b_WA_5oY)) || (a_03cHg_ < -473101011))
+else if (((true) || (b_WA_5oY)) || (a_03cHg_ < -473101011))
 {
 i7_34T8HT = (cn8_ >= hr9KY) ? i7_34T8HT : i7_34T8HT;
 }

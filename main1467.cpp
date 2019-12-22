@@ -487,7 +487,7 @@ if (Detp1td)
 {
 r9_Mf3 = vvqO(-2139260742);
 }
-else if ((true) && (G07d == -1587098825))
+else if ((true) && (false))
 {
 Qn3Pd = pAuVr7U(1957819155, fLag);
 }

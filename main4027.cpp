@@ -362,7 +362,7 @@ d4t49_6Et_ = u4aHx01W9 * 1418772995;
 
 if ((ofbM6w49 != -1879934576) && ((PJU3YTdN2o >= me56dsk_H) && (true)))
 {
-if (((aP2W2a3EG_ != 1788054626) || (ApS1)) && (kZOQVKw064 <= -1779697544))
+if (((aP2W2a3EG_ != 1788054626) || (ApS1)) && (false))
 {
 {
 int k = 10;

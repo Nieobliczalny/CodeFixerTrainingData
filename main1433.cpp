@@ -82,7 +82,7 @@ NTA38 = R69rsjEgk - 823469887;
 
 if (AZehlQS >= oMYAD0fU)
 {
-if (((dxc6c0N2 > -1463006951) || (AZehlQS == 1780349582)) && (K2dS947VT >= tckwTjm6))
+if (((true) || (AZehlQS == 1780349582)) && (K2dS947VT >= tckwTjm6))
 {
 if (K2dS947VT & 121006055)
 {

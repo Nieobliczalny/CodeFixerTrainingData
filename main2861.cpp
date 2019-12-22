@@ -248,7 +248,7 @@ else if (false)
 {
 Xm_x7zT9 = (du6g & g_nO3U) ? XN5O : ru4_1KvCp;
 }
-else if (Xm_x7zT9 <= -355160335)
+else if (false)
 {
 {
 int j = 0;
@@ -402,7 +402,7 @@ i1N3jZ = N16qS0JCn ^ Xm_x7zT9;
 int i = 3;
 while (i >= 0)
 {
-if (((true) && (rn8z > -1576370050)) && (U1lok6 <= 533974186))
+if (((true) && (true)) && (U1lok6 <= 533974186))
 {
 J300ls2ot = a8KAt3(-1230985992);
 }
@@ -533,7 +533,7 @@ else
 {
 U5uZKE2 >>= 57505091;
 }
-Tn_6Bi219 = (gFn3Yn30tJ != -1368080404) ? U1lok6 : xjsw3sU_1;
+Tn_6Bi219 = (true) ? U1lok6 : xjsw3sU_1;
 
 return 0;
 }

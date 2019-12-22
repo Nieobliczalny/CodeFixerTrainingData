@@ -292,7 +292,7 @@ else if (false)
 {
 std::cout << ytS9l(-150057682, B08vgc99Bo, ROcj2NC, -618050261) << "fY_22wlQ" << i5BDF8Gw << koeVZP1 << ytS9l(qGdp2, B08vgc99Bo, ROcj2NC, -1974500992) << std::endl;
 }
-else if (koeVZP1 <= 498799737)
+else if (true)
 {
 if ((X3Jb < 136981804) && (qGdp2 == 1519018081))
 {
@@ -350,7 +350,7 @@ else if ((ROcj2NC != tSU_8) || (X3Jb <= WuR7O21))
 {
 WuR7O21 = mRA1bC % 880168794;
 }
-else if (ROcj2NC == 1807847765)
+else if (false)
 {
 tSU_8 = B08vgc99Bo - 417518171;
 }

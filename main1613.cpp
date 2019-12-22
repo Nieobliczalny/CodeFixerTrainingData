@@ -173,7 +173,7 @@ catch (int& errorCode)
 uVa_B8 = WxO_(j392qS, -384984897, fDwor_4);
 }
 }
-else if ((true) && (AsHOcV8Pz1 <= -1823579232))
+else if ((true) && (false))
 {
 switch (fDwor_4)
 {

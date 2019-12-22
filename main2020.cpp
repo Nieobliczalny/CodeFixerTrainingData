@@ -521,7 +521,7 @@ else if ((r046I < v_u6aOF5) && ((T2Q6F50_O == K4b6c1B_1Q) && (true)))
 {
 ZN8c9hc8 = mZa59Rh(ZN8c9hc8);
 }
-else if (((LW89zeZEV) && (xHiK >= -956671718)) && (qKx_rDF5k > JVsKo4NXH))
+else if (((LW89zeZEV) && (true)) && (qKx_rDF5k > JVsKo4NXH))
 {
 fk5LkX_4X = Ed4qCKG40 ^ wI3k;
 }

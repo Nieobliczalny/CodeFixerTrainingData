@@ -229,7 +229,7 @@ else if (((false) && (A7b1 > -1477312825)) || ((Fkz6wf != oPEah2M) || (A7b1 != F
 {
 XznlFN1L7 = (float)(Fkz6wf);
 }
-else if (((Fkz6wf == GR49sn) || (GR49sn > 1495977167)) || (e2_qjv <= i1t9e6RTs))
+else if (((Fkz6wf == GR49sn) || (false)) || (e2_qjv <= i1t9e6RTs))
 {
 try
 {

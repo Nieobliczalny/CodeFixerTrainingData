@@ -62,7 +62,7 @@ ic2q >>= dJTL;
 }
 else
 {
-if (((true) && (qv8h6IOq3b != Pq0gd5n)) && (co9YH6A2SG == ym7x1_u))
+if (((true) && (qv8h6IOq3b != Pq0gd5n)) && (false))
 {
 for (int k = 5; k >= 0; --k)
 {

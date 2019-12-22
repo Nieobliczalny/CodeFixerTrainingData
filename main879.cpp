@@ -768,7 +768,7 @@ u96O = ROBheRuYF(u96O, 2075320453, x9_Wy, 1370256255);
 }
 }
 
-if (Dti64 > 368097016)
+if (false)
 {
 try
 {

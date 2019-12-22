@@ -248,7 +248,7 @@ ktW0w2Bv4 = w86sZQ34(-501090134, -21617313, 676755263);
 }
 else if (((O6573zs < PzU_) || (PzU_ != 1063590367)) || (false))
 {
-if ((ktW0w2Bv4 <= 665593284) || (Z_llJPkXe < ZB3b70K_fp))
+if ((true) || (Z_llJPkXe < ZB3b70K_fp))
 {
 if (d5g2H3e)
 {

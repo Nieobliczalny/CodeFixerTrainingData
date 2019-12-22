@@ -65,7 +65,7 @@ else if (t_Df0SjyZ_ & x0pMd)
 {
 cout << "UvHe52Vyfd" << endl;
 }
-else if ((true) && ((skd9ei8BE != An4PA) || (bqRh6_B <= 236453216)))
+else if ((true) && ((skd9ei8BE != An4PA) || (true)))
 {
 switch (qkt8mYIOVC)
 {

@@ -272,7 +272,7 @@ vzUO39 %= 512915203;
 while (k >= 0);
 }
 }
-else if (((Xl_v > -726099798) || (false)) || (ZPwtv9_ < 1704055691))
+else if (((Xl_v > -726099798) || (false)) || (true))
 {
 z6mry = (short int)(t45x);
 }

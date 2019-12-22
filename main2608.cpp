@@ -552,7 +552,7 @@ std::cout << AfzW << ka9tBTXPs() << t_NsA(1482408479, -1219513837) << w0UP_n6yCm
 }
 else if ((true) && ((rhJn31ksCo) || (L34Y2Vq8 < jSLgEoW909)))
 {
-if (B2wPb0r5 <= 1127399558)
+if (true)
 {
 D6j5N9107 = ndRSe_GR9v * 218730935;
 }
@@ -689,7 +689,7 @@ break;
 }
 else if (true)
 {
-if ((zc54Kt3x5 < udwg7LLFB) || (a0W8YuU4i != -1064944672))
+if ((zc54Kt3x5 < udwg7LLFB) || (true))
 {
 St_64DmE = t_NsA(Kyc6_, 2107045173);
 }

@@ -514,7 +514,7 @@ do
 i++;
 if (((J0704 != IkX90) || (true)) || (KaQrAH7PiW != M8Q5UT3EW))
 {
-if (((y5fSB_4s6 != 1599857331) || (cdJR7R == f45g)) && ((F_ch476 != f45g) || (R66yr38Iu != wcKA2oFvTO)))
+if (((true) || (cdJR7R == f45g)) && ((F_ch476 != f45g) || (R66yr38Iu != wcKA2oFvTO)))
 {
 K_94nv6i = t7wP_p1Dq % R66yr38Iu;
 }

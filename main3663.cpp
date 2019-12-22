@@ -628,7 +628,7 @@ rJ4cs_1b7 = W2MfCNkVN();
 }
 else if (true)
 {
-if (TA2E2IU14 > s_Dqzab_0)
+if (true)
 {
 sYPH4QsWR = (int)floor(fs527n);
 }

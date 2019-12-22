@@ -277,7 +277,7 @@ CnVL8i -= 1064405031;
 zTGbZ_Uo++;
 if (true)
 {
-if (CY0Zd == -2064500512)
+if (false)
 {
 try
 {
@@ -367,7 +367,7 @@ if (F183830_0P)
 {
 std::cout << zTGbZ_Uo << CnVL8i << yUqyWA_ << CY0Zd << std::endl;
 }
-else if (((ed1_) && (true)) && (HLB9 != 129630094))
+else if (((ed1_) && (true)) && (true))
 {
 try
 {

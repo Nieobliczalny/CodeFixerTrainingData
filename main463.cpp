@@ -88,7 +88,7 @@ catch (int& errorCode)
 {
 muZNiwu2 = QXMz2L4I8P & 983063878;
 }
-if (((true) && (k_7KJi130G != -1977229116)) || (e1A2Kh9 == UN7WF3o))
+if (((true) && (true)) || (e1A2Kh9 == UN7WF3o))
 {
 std::cout << W_gh6X4 << std::endl;
 }

@@ -160,7 +160,7 @@ if ((false) && (G7Zx & -951889805))
 {
 QDd_35 = R0muH4 & cs6_6_u;
 }
-else if (Cl74 == 1497389437)
+else if (false)
 {
 {
 int j = 0;
@@ -293,7 +293,7 @@ if ((aTxxRz69a1 >= t2qU9h) || ((false) && (A1pX != YK4t)))
 {
 try
 {
-if (VRo6j6 < -1405196688)
+if (false)
 {
 LA_eM /= 361680563;
 }
@@ -309,7 +309,7 @@ else if ((BSwkA1qxEG) && (false))
 {
 TvK804R7t ^= iFY_72O8;
 }
-else if (i3tY90YKp4 >= 300898517)
+else if (false)
 {
 i4NKej4cgR ^= 169720184;
 }

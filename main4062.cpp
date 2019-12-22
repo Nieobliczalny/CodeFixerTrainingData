@@ -156,7 +156,7 @@ else if (((A4T9G_VuY <= Eztp1bW0) && (true)) && ((FF_wi <= 2131087825) && (HpQ22
 {
 cout << F7FF5C7_(FbJi4qC6mP) << "mr6z1_X" << "D_YXT" << "yH8fwaA" << endl;
 }
-else if (l9Os != 989147027)
+else if (true)
 {
 plrHYp3G9 = vb3oK();
 }

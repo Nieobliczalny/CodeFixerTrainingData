@@ -141,7 +141,7 @@ mGW56_n8 = (int)abs(JF2Qz);
 
 if (JF2Qz > 398397052)
 {
-if ((false) || (Um22 > -254484965))
+if ((false) || (true))
 {
 if (((pCEG != -1577601409) || (Og4W <= Gq38b8)) && (mGW56_n8 < -854110136))
 {
@@ -561,7 +561,7 @@ std::cout << "k14r6nhtl" << gw068Zo1R() << Y6D4 << std::endl;
 }
 else if (Y6D4 > -1793101202)
 {
-if (pCEG != 2098364996)
+if (true)
 {
 Gq38b8 = (char)(ZbyPFfTb);
 }

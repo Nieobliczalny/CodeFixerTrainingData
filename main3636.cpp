@@ -196,7 +196,7 @@ if (NfVHMSSXr0 != fm4L)
 {
 if (true)
 {
-if ((B8ETbF >= h3Dg) || ((Fjs5BO3Q >= -101580677) && (y95GCm8 >= NfVHMSSXr0)))
+if ((false) || ((Fjs5BO3Q >= -101580677) && (y95GCm8 >= NfVHMSSXr0)))
 {
 ONSb--;
 }

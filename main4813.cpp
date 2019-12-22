@@ -290,7 +290,7 @@ gY6N = nMP23GHlu(930256254);
 while (k >= 0);
 }
 }
-else if (((false) || (b1DfMql != -1670128547)) || ((ILCAn9 <= -669060402) || (GNK_y < -269988280)))
+else if (((false) || (true)) || ((ILCAn9 <= -669060402) || (GNK_y < -269988280)))
 {
 if (zJ74j <= -1696294597)
 {
@@ -414,7 +414,7 @@ for (int k = 0; k < 4; k++)
 CnXIP44p7_ = FZ3j(1581023233);
 }
 }
-else if (jo97x1 > 949538066)
+else if (false)
 {
 {
 int k = 0;
@@ -443,7 +443,7 @@ else if (P3qT11_k > p3aKhq32)
 {
 qO_3_9 = (CnXIP44p7_ & TsbbYPn) ? q2_3KvtxUo : PJkfo(-2066691549);
 }
-else if (j1PHAP < -2011901379)
+else if (false)
 {
 NVNVr2 = FZ3j(-1415275444);
 }

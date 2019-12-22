@@ -50,7 +50,7 @@ Rkm_LW = tiSHj2s3(Rkm_LW, zn1t8L, -1479654259);
 cout << R3Cf0 << "xHy2" << "l8O3" << endl;
 if (true)
 {
-if ((jUg79ai5E0 & -804209858) && (tF9EEyg < 1204109749))
+if ((jUg79ai5E0 & -804209858) && (true))
 {
 f_w92yeD7 = mZ4wK8(-1763607150, fX8dEn, -995875534);
 }
@@ -481,7 +481,7 @@ else if (false)
 {
 AFuPRg3va = t2twxV34s1 + Q7ayvQO51;
 }
-else if (q4_CT61M <= 2136125786)
+else if (true)
 {
 LQoxHe = tiSHj2s3(-1111360655, qNMD0U, M3iPB__dV) * i38N02;
 }

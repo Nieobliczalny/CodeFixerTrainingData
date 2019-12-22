@@ -72,7 +72,7 @@ else if (((imh2 == aaj52_5) && (y2adv70x == aaj52_5)) && (ZiE_00 & -1169524600))
 {
 etL6 = o473C5a();
 }
-else if (jE0j < -1297822441)
+else if (false)
 {
 J37j = o473C5a();
 }
@@ -115,7 +115,7 @@ J37j = o473C5a();
 }
 else if (lWa1 & y2adv70x)
 {
-if (P031l <= yXF6UOw_NY)
+if (true)
 {
 J37j = o473C5a();
 }
@@ -195,7 +195,7 @@ std::cout << o473C5a() << o473C5a() << std::endl;
 }
 try
 {
-if (((true) && (LM8O6O < cl5491ku)) || ((Fb8UT_o == -164893762) || (imh2)))
+if (((true) && (LM8O6O < cl5491ku)) || ((false) || (imh2)))
 {
 std::cout << VWJF4G << "eV_rvu" << std::endl;
 }

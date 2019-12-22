@@ -195,7 +195,7 @@ else if (false)
 {
 g4K58_OeS4 = j9cRBcNqs(whVQ);
 }
-else if (vwb5 < 1035205665)
+else if (true)
 {
 y3n1 = j9cRBcNqs(gRasp2i);
 }
@@ -344,7 +344,7 @@ if (((true) && (JIMO5U_0W & -476968363)) || (JIMO5U_0W))
 {
 uAeF7GtJTc ^= 2011137985;
 }
-else if (oBBN < F32D343EhN)
+else if (false)
 {
 vwb5 = j9cRBcNqs(732806187);
 }

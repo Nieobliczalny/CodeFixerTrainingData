@@ -92,7 +92,7 @@ else if ((zV9VQ4r6L & qz4rvT) && (false))
 {
 kY_B = zwlcR_3Zv();
 }
-else if (Yx22Ao != sV6mFP6dZ5)
+else if (true)
 {
 gu4uhI4Q = (int)abs(kY_B);
 }
@@ -122,7 +122,7 @@ if (false)
 {
 kY_B = zwlcR_3Zv();
 }
-else if (u5j7yvVMJX >= 1377206086)
+else if (false)
 {
 C_XK = n_d0 | 1187616243;
 }

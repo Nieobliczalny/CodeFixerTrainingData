@@ -290,7 +290,7 @@ tAqho05 = knYw892c(H843ML5m);
 while (i >= 0);
 }
 
-if (((M019583RrM != 512194741) && (true)) || (v4z88z_vB >= -1460411475))
+if (((M019583RrM != 512194741) && (true)) || (true))
 {
 if (BgN_R8BTu & -48195879)
 {

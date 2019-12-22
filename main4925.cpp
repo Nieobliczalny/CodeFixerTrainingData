@@ -330,7 +330,7 @@ fJgzQAs5 = (int)floor(jarb);
 }
 else if (true)
 {
-if (oO85_ != -1836472093)
+if (true)
 {
 {
 int k = 8;
@@ -411,7 +411,7 @@ else if (lnRVM1Yw46 == 2011286322)
 {
 J5EB2_10v = (int)floor(arpt497_0m);
 }
-else if (((arpt497_0m > 31263155) || (jarb)) && ((HfH2 == 1584292469) || (PMil6dz < 1005816817)))
+else if (((arpt497_0m > 31263155) || (jarb)) && ((HfH2 == 1584292469) || (true)))
 {
 THxI9QW1 = (int)floor(arpt497_0m);
 }

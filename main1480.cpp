@@ -286,7 +286,7 @@ l49DRy_D = W_WpzAZ(l49DRy_D);
 int i = 0;
 while (i < 8)
 {
-if (((G19915ry < LnRM1N) && (G_2E7R4 & 636803046)) && ((false) || (rGY9BYHJw >= -765871688)))
+if (((G19915ry < LnRM1N) && (G_2E7R4 & 636803046)) && ((false) || (true)))
 {
 try
 {

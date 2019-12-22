@@ -127,7 +127,7 @@ break;
 }
 else if (true)
 {
-if (lkzE2n1E == 1024745208)
+if (false)
 {
 M5Gq0997++;
 }
@@ -219,7 +219,7 @@ break;
 }
 }
 }
-else if (((CVScs3S & fF3Yr) || (false)) || ((ORE9JqF_) && (AWXQwBc9bl <= -584051298)))
+else if (((CVScs3S & fF3Yr) || (false)) || ((ORE9JqF_) && (false)))
 {
 switch (iRp4T)
 {

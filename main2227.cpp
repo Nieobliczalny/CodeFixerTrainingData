@@ -148,7 +148,7 @@ else if (tdAwlBW9D7 < -1308274910)
 {
 if (swqABR9B9 <= AF8Zs_095)
 {
-if ((BTg0p) && (Ls8epPR3 >= -1099570375))
+if ((BTg0p) && (true))
 {
 qXvkE3d = BTg0p << oQR48ye1q2;
 }
@@ -204,7 +204,7 @@ else if (CU6mBi6 == -838937352)
 {
 ZkI5 -= 383767917;
 }
-else if (tMNmCc >= -32155132)
+else if (true)
 {
 CU6mBi6 |= 467408007;
 }

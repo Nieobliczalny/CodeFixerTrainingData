@@ -200,7 +200,7 @@ int j = 0;
 do
 {
 ++j;
-if (W653OI3q > -1946243832)
+if (true)
 {
 xS4ed9v3 %= jx0w;
 }
@@ -484,7 +484,7 @@ X45bIV7mZ = (false) ? -86271524 : -572176226;
 n76F9E = cpIbi4Zf / qe4I;
 try
 {
-if ((co2J <= n76F9E) || (kBfDDXE9 != -1054550443))
+if ((co2J <= n76F9E) || (true))
 {
 switch (p4yB6rbRG)
 {
@@ -652,7 +652,7 @@ break;
 
 if (((true) || (B4xF13B4W < 129687554)) && ((kBfDDXE9) && (go7aQlub9 > W653OI3q)))
 {
-if (CCi8 < -1134698211)
+if (false)
 {
 Ceb3DB2K &= qe4I;
 }

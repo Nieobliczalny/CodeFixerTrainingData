@@ -420,7 +420,7 @@ if ((k37OTH6ih > Zk44uccb7) && (ke3A0p == -424056732))
 {
 jDYAT = LCNXQaU9S(jDYAT, -857071942, rD331e70, ke_1bFz7);
 }
-else if ((kmmdI >= -1668480248) || ((NPI6H847 >= k37OTH6ih) || (iNr2Cye != R1E9tn0)))
+else if ((true) || ((NPI6H847 >= k37OTH6ih) || (iNr2Cye != R1E9tn0)))
 {
 NPI6H847 = Ut5Uu + qP552nDk;
 }

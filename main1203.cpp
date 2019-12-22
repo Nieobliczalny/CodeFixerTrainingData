@@ -248,7 +248,7 @@ if (false)
 {
 cout << YL7ENe << "l_20Qz" << RJkk590r << M8O6U << S0I_axu << endl;
 }
-if (u3L97 < -1330985623)
+if (false)
 {
 if ((hGP_ != -1575807098) && (Qa_Y >= 2122327412))
 {
@@ -311,7 +311,7 @@ if (((true) || (I813HM2tir > 1171300752)) && (Q8Vxqp_ & HE_Rt))
 r_f46w_9X_ = (int)abs(Ggi0vz61_);
 }
 
-if (Z68DREC != 2025943636)
+if (true)
 {
 for (int j = 2; j >= 0; j--)
 {

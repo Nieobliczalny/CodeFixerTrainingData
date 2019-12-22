@@ -79,7 +79,7 @@ else if (((RB90 & UvpTskLH3B) || (qGPb != U97bW4_5H)) && ((C9N7i >= 1072021875) 
 {
 q5yN = h7AhQCH(-1275167409, G9B5Ca7kk, -2126821811, -402139247);
 }
-else if (jkImNe71_ >= -1756678973)
+else if (true)
 {
 vB2rF = (int)ceil(Ee36GHOg);
 }

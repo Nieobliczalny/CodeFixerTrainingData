@@ -240,7 +240,7 @@ if (WUrT2 >= W2GrD4ao)
 {
 WA5b40B = (int)floor(XwJc);
 }
-else if (((false) || (WUrT2 > 859724272)) || (d3_3z != vLZC8aI3p))
+else if (((false) || (false)) || (d3_3z != vLZC8aI3p))
 {
 try
 {

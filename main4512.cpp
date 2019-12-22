@@ -232,7 +232,7 @@ else if (false)
 {
 UVRm4a5cg9 = (unsigned char)(m2x9d + (-613894606));
 }
-else if ((t7E_f != 492530298) || ((CcPi080I != 2013752816) && (LLNraI9hTV == Dzle89gl)))
+else if ((true) || ((CcPi080I != 2013752816) && (LLNraI9hTV == Dzle89gl)))
 {
 if (sN5WLw1Yv >= AiGQ50IC6)
 {

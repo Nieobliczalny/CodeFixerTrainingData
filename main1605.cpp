@@ -185,7 +185,7 @@ else
 int j = 0;
 do
 {
-if (((true) && (l6n2RXyrr_)) || (Wr_20r != 696948929))
+if (((true) && (l6n2RXyrr_)) || (true))
 {
 a_C_8 %= gq6It8L1T;
 }

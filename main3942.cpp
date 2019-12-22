@@ -184,7 +184,7 @@ Tii5o = uOuEC(aIq3qBx0x8, 1367749333, -1166476291, 1688044529);
 
 plcO_Wc = (unsigned short int)(eI5IN9);
 
-if (((true) && (BbDqu1adsF <= 800410500)) || (aIq3qBx0x8 > -100098767))
+if (((true) && (true)) || (aIq3qBx0x8 > -100098767))
 {
 BbDqu1adsF = BbDqu1adsF >> JKCPq_OW;
 }

@@ -160,7 +160,7 @@ cout << "X9__" << z5SKh75M() << L57v7 << zsJSly3 << "N47cnquFn" << endl;
 DoUI7DD++;
 if (H6HyV < KCk2v0)
 {
-if (((DoUI7DD == 2130975201) && (true)) && ((X4V53v >= -1257324567) || (w9iB <= 2038481112)))
+if (((DoUI7DD == 2130975201) && (true)) && ((true) || (w9iB <= 2038481112)))
 {
 KCk2v0 = z5SKh75M();
 }

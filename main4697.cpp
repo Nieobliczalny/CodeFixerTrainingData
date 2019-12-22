@@ -31,7 +31,7 @@ int main(int argc, char** argv) {
  unsigned char HrgapR = 0;
 
 W186dc = W186dc / prtVU;
-if ((false) || (W186dc <= -1362574551))
+if ((false) || (false))
 {
 for (int j = 0; j < 9; j++)
 {
@@ -57,7 +57,7 @@ W186dc += XV03;
 }
 if (true)
 {
-if (q1896l29 != 2071287569)
+if (true)
 {
 {
 int k = 9;

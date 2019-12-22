@@ -244,7 +244,7 @@ else if (false)
 {
 b3y3Oq = Ze78_o6O(RBHnc1kcCY, b3y3Oq, GKSD6U649E);
 }
-else if (n1H2 == Bz484BhebF)
+else if (false)
 {
 n1H2 /= GKSD6U649E;
 }

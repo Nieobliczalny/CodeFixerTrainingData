@@ -98,7 +98,7 @@ int i = 4;
 do
 {
 i--;
-if (((I_91m1_QS_ > -1222117301) || (false)) || ((U0ha0AX_ > rm7T9) && (U0ha0AX_ <= 2073618197)))
+if (((I_91m1_QS_ > -1222117301) || (false)) || ((U0ha0AX_ > rm7T9) && (true)))
 {
 if (I_91m1_QS_ <= 1431682846)
 {
@@ -233,7 +233,7 @@ IU5vi = ETwy7j(1266635542, we1Kw, 829048439);
 }
 for (int i = 6; i >= 0; --i)
 {
-if ((behL != -1174253566) && (I_91m1_QS_ & -1800751471))
+if ((true) && (I_91m1_QS_ & -1800751471))
 {
 W5bITTtAn = (unsigned long long)(rTFb8U2E1 + (2146362584));
 }

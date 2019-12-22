@@ -460,7 +460,7 @@ if (NK7y >= cgzYrugv)
 {
 ro4JV9fp = (double)(OjssR8N8A);
 }
-else if (((false) || (D9rH5Z8B < 769517001)) && (p92Vsz8 > -128996316))
+else if (((false) || (true)) && (p92Vsz8 > -128996316))
 {
 mKyR92cwy ^= 699659598;
 }
@@ -538,7 +538,7 @@ if (p92Vsz8 & -597498629)
 {
 OjssR8N8A = (long double)(u3LLeCv_V);
 }
-else if ((true) && (gBNOCTOo == 1781475637))
+else if ((true) && (false))
 {
 for (int j = 2; j >= 0; j--)
 {

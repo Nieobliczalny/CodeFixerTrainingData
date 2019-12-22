@@ -365,7 +365,7 @@ if ((false) && (M5j_ & UuwY5A02J))
 {
 q414Jjo = (int)floor(o1HyYi);
 }
-else if (v0Y_ZYvlPz == -1796726156)
+else if (false)
 {
 Ga6emU = (int)floor(Pw15dXg_j);
 }
@@ -421,7 +421,7 @@ while (k < 10);
 }
 }
 }
-else if (((o_DVrLb > pQnE49C7l) || (false)) || (H7Mrh == f_LJ5rv8))
+else if (((o_DVrLb > pQnE49C7l) || (false)) || (false))
 {
 if (t5I4 == cqYb0hl)
 {

@@ -207,7 +207,7 @@ if (false)
 {
 JlF3lw3 = (int)abs(cq2iWL3Nt);
 }
-else if (cq2iWL3Nt != 1249836962)
+else if (true)
 {
 JlF3lw3 = k7hKu3n(JlF3lw3);
 }

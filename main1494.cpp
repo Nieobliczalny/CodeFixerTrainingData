@@ -57,7 +57,7 @@ while (i < 8);
 
 for (int i = 7; i >= 0; --i)
 {
-if (((true) && (J_cw8q7g < -1599857770)) || ((EN5d8 > 682409576) || (zJ20TQaE > 492318358)))
+if (((true) && (J_cw8q7g < -1599857770)) || ((false) || (zJ20TQaE > 492318358)))
 {
 switch (Bo3G93evJ)
 {
@@ -101,7 +101,7 @@ jna9FIB = I507d / x8fuYia81;
 }
 if (true)
 {
-if (jigGdU <= -2106378346)
+if (false)
 {
 {
 int k = 4;
@@ -217,7 +217,7 @@ dJ8Og2s5nI = X3xjO9wT(dJ8Og2s5nI);
 }
 else
 {
-if ((false) || (jigGdU < -34653331))
+if ((false) || (false))
 {
 sEyyc16 = lfpH(sEyyc16, x8fuYia81);
 }
@@ -479,7 +479,7 @@ kx2Ps = (short int)(yfMt_9bZN_);
 }
 if (Bo3G93evJ)
 {
-if ((yfMt_9bZN_ >= -116172921) && (lrY_aE1x >= y4I8o))
+if ((true) && (lrY_aE1x >= y4I8o))
 {
 {
 int k = 9;

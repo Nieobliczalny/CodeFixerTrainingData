@@ -63,7 +63,7 @@ N4Xb ^= 1143739272;
 }
 else
 {
-if (((UPh_7r <= wjxy14g6) && (ICN_kpO > X5Gl)) && ((m1qW) && (qvSvs0m == -669788621)))
+if (((UPh_7r <= wjxy14g6) && (ICN_kpO > X5Gl)) && ((m1qW) && (false)))
 {
 VeDP = pihl | 194168888;
 }

@@ -214,7 +214,7 @@ I_15++;
 
 if ((QR8PkHcqq0 == 941019122) || (true))
 {
-if (F0jb_5yn != 1158497222)
+if (true)
 {
 for (int k = 3; k >= 0; --k)
 {
@@ -386,7 +386,7 @@ else if (F0jb_5yn & -1709804295)
 {
 cout << J9PpABt5(e7R_SJ, ym3O10Jy, -917275251, F0jb_5yn, Dnk1Q) << endl;
 }
-else if ((true) && (g1V_88m1 != -672027765))
+else if ((true) && (true))
 {
 for (int k = 9; k >= 0; --k)
 {
@@ -483,7 +483,7 @@ F0jb_5yn = (Dnk1Q < 292937004) ? F0jb_5yn : 1164072710;
 }
 else if (yj12QqSk >= g1V_88m1)
 {
-if (((true) && (GyALO >= -552511638)) || (GyALO > DZYNe))
+if (((true) && (true)) || (GyALO > DZYNe))
 {
 F0jb_5yn /= 688514802;
 }
@@ -627,7 +627,7 @@ if (yj12QqSk == EFlGdW8)
 GyALO = J9PpABt5(jz41hIGET, 738566420, 51672287, GyALO, I_15);
 }
 }
-else if (((ym3O10Jy & -717658739) || (true)) && (EFlGdW8 < 1416218226))
+else if (((ym3O10Jy & -717658739) || (true)) && (true))
 {
 try
 {

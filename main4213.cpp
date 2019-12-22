@@ -18,7 +18,7 @@ if ((897257562 / D5GTR4js) > -455339827)
 {
 if ((true) || (XekG <= GRQzeO2Ve))
 {
-if (JCD2 < -752585060)
+if (false)
 {
 try
 {
@@ -290,7 +290,7 @@ else if (xPX3i != urfQ6KI55)
 {
 l3Q_S8d09 = (unsigned short int)(wtkF);
 }
-else if (((znnLwk2Y > 847545422) && (Ln61G2o_4 > 622370845)) || (Hpd1_Z == 125461635))
+else if (((false) && (Ln61G2o_4 > 622370845)) || (Hpd1_Z == 125461635))
 {
 D5GTR4js = Y0_hs(1136138497);
 }

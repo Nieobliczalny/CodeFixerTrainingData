@@ -54,7 +54,7 @@ while (k >= 0);
 }
 }
 }
-else if ((true) && (bl3u_x != P0dg6_oQSy))
+else if ((true) && (true))
 {
 switch (e7a__KDv)
 {
@@ -186,7 +186,7 @@ h5_b0u7 = K68DvS + bl3u_x;
 }
 else
 {
-if (x5F_83D_u8 <= 1053579145)
+if (true)
 {
 lsy5n = w3KWQ8lQje << 1582111985;
 }
@@ -201,7 +201,7 @@ int j = 2;
 while (j >= 0)
 {
 --j;
-if ((true) && (rOf4n6cAZW >= -503749870))
+if ((true) && (true))
 {
 t5X35o = R88Ips9y6(-1238740443, 850878017, w3KWQ8lQje, -1492572115, lsy5n);
 }

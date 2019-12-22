@@ -235,7 +235,7 @@ else if (false)
 {
 P6h0iVX54 = TCg41(-1675875009, 680908216, 147274988);
 }
-else if (G1uX_2qi < H6_zkU92i)
+else if (true)
 {
 x26vWPJn = TCg41(-1321851450, Q1LiR, 2006595786) + 661884276;
 }

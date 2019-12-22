@@ -86,7 +86,7 @@ X0pEJ = wts366X(BRC1PI, -480777858, tLb1s, 1467286774);
 }
 else if (((Kd2A2uRmGl & 98334950) || (true)) || (X0pEJ & 1608873475))
 {
-if (((X0pEJ != PnfZsZ) && (KzYJHWa != 417502911)) && ((KzYJHWa == -1945965242) || (tLb1s > 1473943839)))
+if (((X0pEJ != PnfZsZ) && (true)) && ((KzYJHWa == -1945965242) || (tLb1s > 1473943839)))
 {
 std::cout << dOcjY << "w8VaA2y" << wts366X(72668716, -2115031124, 1370662904, 1151463875) << S5_c << "c5NF_23m37" << std::endl;
 }
@@ -175,7 +175,7 @@ j--;
 while (j >= 0);
 }
 }
-else if ((false) || (X0pEJ > -766456317))
+else if ((false) || (true))
 {
 if ((HTm4Vg > sP72KN0_a8) && (S5_c <= lXEnU_N))
 {

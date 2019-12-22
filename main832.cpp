@@ -284,7 +284,7 @@ else if (q_EJHVF <= t6TjS19)
 {
 h__JW *= 418851308;
 }
-else if ((o28l < 1984603652) || (Kdk5VL7Ys3 & -23584896))
+else if ((true) || (Kdk5VL7Ys3 & -23584896))
 {
 {
 int k = 9;
@@ -491,7 +491,7 @@ SH_Xc_ = L3wSEryKKC(ONT2wD, Ef0pBW5wR4, -215476510, 887413634, U97GV6);
 }
 else if (true)
 {
-if (SH_Xc_ < -510142215)
+if (false)
 {
 Ce3NP7YZr = I82Oa % 365203253;
 }

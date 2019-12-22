@@ -193,7 +193,7 @@ p6k_9 = STpre4j6(1713956473, yURiZn, -1475691247, M4pw6T7w);
 break;
 }
 
-if (((M_bo5Y6_0Q & dX7K) && (false)) || (NATPht >= -2005913809))
+if (((M_bo5Y6_0Q & dX7K) && (false)) || (true))
 {
 for (int j = 0; j < 4; j++)
 {
@@ -275,7 +275,7 @@ while (i < 9)
 int j = 0;
 while (j < 3)
 {
-if ((false) || ((IS90o != -1274892741) || (Vp72BPphI >= -1535420500)))
+if ((false) || ((true) || (Vp72BPphI >= -1535420500)))
 {
 be4PB9jw = (F31i_ < XSW7Mh) ? d2t568_0dr : GaWRH7_XX4;
 }

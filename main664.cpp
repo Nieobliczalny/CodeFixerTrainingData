@@ -425,7 +425,7 @@ if (((false) && (J6RdY_ > uXsv)) || (Q0vmi != 560540679))
 PwZ3ub6aT = (int)floor(WD0_dk3RG);
 }
 }
-else if (BeNib_EfH != 2109597960)
+else if (true)
 {
 try
 {
@@ -627,7 +627,7 @@ else
 pkbPN2Z2yi = (int)ceil(mAD57);
 }
 }
-else if (((ahN7kbXbMn < OyRjDU3A4) || (ajl5hNEpjO == 443286510)) || (pkbPN2Z2yi >= ott30F))
+else if (((ahN7kbXbMn < OyRjDU3A4) || (false)) || (pkbPN2Z2yi >= ott30F))
 {
 {
 int k = 6;

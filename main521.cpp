@@ -63,7 +63,7 @@ if ((AEiV & 991824098) || ((K_p1_tl7 & oOlwJ7i87l) && (ZFrv > wWkM)))
 int j = 0;
 while (j < 8)
 {
-if (((o4j1jR_I < t6tu93wie4) && (true)) || (g6CDxx9 >= 179948632))
+if (((o4j1jR_I < t6tu93wie4) && (true)) || (false))
 {
 fBNH = nEda25pyOU(ktT9);
 }
@@ -344,7 +344,7 @@ break;
 }
 g6CDxx9 = S8eZXDz + s7c0f;
 
-if ((true) && ((I2OC4_s & 362687853) && (AEiV > 722692758)))
+if ((true) && ((I2OC4_s & 362687853) && (false)))
 {
 if (b28GA & g6CDxx9)
 {

@@ -376,7 +376,7 @@ for (int k = 7; k >= 0; --k)
 u5J5nL = (int)abs(MeD2PDBwl);
 }
 }
-else if (v59K == -869523236)
+else if (false)
 {
 switch (M3889ro)
 {

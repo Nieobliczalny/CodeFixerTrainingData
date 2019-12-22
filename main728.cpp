@@ -124,7 +124,7 @@ else if ((W5D19Y <= EWMSgjA85) && (Q5L6_7ZNt8 < Q5_I4z4ON))
 {
 h70rciPK2P = q_M1_F % 1157653110;
 }
-else if (((v7R3g5BHG9 != Q5_I4z4ON) && (true)) && (djPyJy6s8 != EWMSgjA85))
+else if (((v7R3g5BHG9 != Q5_I4z4ON) && (true)) && (true))
 {
 Q5L6_7ZNt8 = qNejNxfd_5();
 }

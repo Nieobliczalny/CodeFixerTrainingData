@@ -95,7 +95,7 @@ q44jM4eE = MQ_wgdof(q44jM4eE);
 }
 else
 {
-if (((er_OV0 <= 553394925) && (b812m0zW >= q44jM4eE)) && (pAK0i > ASvCHGs))
+if (((true) && (b812m0zW >= q44jM4eE)) && (pAK0i > ASvCHGs))
 {
 JY_D924Pj = (int)floor(FT6zUVD2W1);
 }

@@ -513,7 +513,7 @@ for (int k = 0; k < 8; k++)
 VyarYQ = SWT8uY(W20RIyA, 422513852, wP52);
 }
 }
-else if (r5J52 <= 1911145324)
+else if (true)
 {
 TjwQmGXft = (int)ceil(JbSXiYpu);
 }

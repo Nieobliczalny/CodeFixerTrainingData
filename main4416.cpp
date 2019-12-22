@@ -120,7 +120,7 @@ else if (a9K0x4 & TC_J3)
 {
 GoaKX33y = (int)abs(PYuS);
 }
-else if (((J2Hr6lKKf != -785825025) || (MeKiNXeMB != g300)) && ((EuPqz4 < -276153971) || (LX6A3_vf_5 >= 487898889)))
+else if (((true) || (MeKiNXeMB != g300)) && ((EuPqz4 < -276153971) || (LX6A3_vf_5 >= 487898889)))
 {
 eLmoDVx69v = X45fxU5H4(-1839946547, -887710726);
 }
@@ -191,7 +191,7 @@ else if (PYuS != J2Hr6lKKf)
 {
 dPFVGCS5_++;
 }
-else if (dPFVGCS5_ >= 835033519)
+else if (false)
 {
 UMk75pk >>= dbS8pJuh;
 }

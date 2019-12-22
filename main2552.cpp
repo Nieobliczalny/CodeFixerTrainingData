@@ -174,7 +174,7 @@ D91nddM5l7 = i1k3tO3 + my_Uzi;
 
 cout << bJeZ1 << u6m7z << i3eu7FswX << endl;
 
-if (g43_8 != Bqu0M1I0bc)
+if (true)
 {
 for (int j = 0; j < 8; j++)
 {

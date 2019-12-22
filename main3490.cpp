@@ -239,7 +239,7 @@ while (i < 3)
 ++i;
 if (true)
 {
-if ((FrHMF != -1809701375) || (wd_XEyu))
+if ((true) || (wd_XEyu))
 {
 bWqH = (int)floor(r8gEJ0);
 }
@@ -315,7 +315,7 @@ for (int i = 4; i >= 0; i--)
 {
 try
 {
-if (HGEyvJ != 615641150)
+if (true)
 {
 r8gEJ0 = (int)ceil(bWqH);
 }

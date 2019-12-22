@@ -80,7 +80,7 @@ int main() {
 
 if (true)
 {
-if (HtgKgfL >= J7rjT3)
+if (false)
 {
 sv94lQ5V9D = (short)(cZCVFdF3p + (-293276706));
 }
@@ -303,7 +303,7 @@ else
 cout << "y74B8JNVx4" << endl;
 }
 
-if ((true) && (nOOtES0VbI <= J7rjT3))
+if ((true) && (true))
 {
 sJ_F8 = F_V1();
 }

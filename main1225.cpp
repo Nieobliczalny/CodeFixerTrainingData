@@ -332,7 +332,7 @@ else if ((S46z <= oku44kuUsx) || (t1_a69 > WlNBkw))
 {
 for (int j = 1; j >= 0; --j)
 {
-if (((false) || (UZR1Av2o2u > 1636172254)) || ((q0Pdk > -244674847) || (T69cF_ & -1831936003)))
+if (((false) || (UZR1Av2o2u > 1636172254)) || ((true) || (T69cF_ & -1831936003)))
 {
 C2_MVT732T = MOYk(1536023126);
 }

@@ -444,7 +444,7 @@ htGI = (int)floor(Pef8O52SG_);
 }
 else
 {
-if (GJXCq64Uk >= 629820190)
+if (false)
 {
 FR9_6C008N = V6NO728n(FR9_6C008N, -865039385, -1216427499);
 }

@@ -137,7 +137,7 @@ while (i < 4)
 {
 if (true)
 {
-if (N0E3E5 == 1282108744)
+if (false)
 {
 K34_57Pp = S9L0(-46205893, 694605671, rp3187a, Cv2Y9__);
 }
@@ -411,7 +411,7 @@ for (int i = 3; i >= 0; i--)
 evx_Qz &= 292005026;
 }
 bp_9 = (unsigned short int)(u09PUJjX);
-if (((false) || (N0E3E5 <= t0E3vxDD)) && (BR78 == 1589798356))
+if (((false) || (N0E3E5 <= t0E3vxDD)) && (false))
 {
 {
 int j = 6;

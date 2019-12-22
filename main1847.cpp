@@ -437,7 +437,7 @@ cout << Ep4P8Wq << hz4wzx << B15fl3mb_ << endl;
 }
 else if ((aR0bw32dF) && (w_Dwe6_ij9))
 {
-if ((true) && (nz8XORz >= 1244306642))
+if ((true) && (false))
 {
 rpNtOjY = l_GNEn0 >> 1508922871;
 }

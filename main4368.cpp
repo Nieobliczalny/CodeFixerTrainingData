@@ -412,7 +412,7 @@ for (int i = 0; i < 2; i++)
 {
 if ((Vt6C8WgO1S > vjz3) && (s9LO5_CBR == H5Fm9r))
 {
-if (((guYt != -1679033517) || (s9LO5_CBR & YTWZ00)) || (vjz3 >= -1175716999))
+if (((true) || (s9LO5_CBR & YTWZ00)) || (vjz3 >= -1175716999))
 {
 m76sn35 <<= 1111847002;
 }
@@ -814,7 +814,7 @@ int i = 2;
 do
 {
 --i;
-if ((true) && (s9LO5_CBR > 78321558))
+if ((true) && (false))
 {
 CDg0fc = t58MBt510(CDg0fc, 367261939, fJ1RQV01_7);
 }

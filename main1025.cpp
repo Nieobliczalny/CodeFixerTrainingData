@@ -452,7 +452,7 @@ ME88_68L = yQ00oZ();
 break;
 }
 }
-else if ((true) && (Lx_Vo <= vi_xfp0H))
+else if ((true) && (true))
 {
 switch (WiCe6XI4_)
 {

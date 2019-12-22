@@ -494,7 +494,7 @@ for (int k = 0; k < 3; k++)
 FJ4Q2 = l1l_5lr(-1931153192, -1761201862, 1890911483, -606262854);
 }
 }
-else if (((FJ4Q2 < -1503869573) && (OT5Po > -1939315328)) || ((Hh7oJ <= -327334828) || (JgjYx < p3rY)))
+else if (((false) && (OT5Po > -1939315328)) || ((Hh7oJ <= -327334828) || (JgjYx < p3rY)))
 {
 dWcIp = (short int)(FJ4Q2 * dWcIp);
 }
@@ -604,7 +604,7 @@ if ((Hh7oJ != -1554793151) || ((true) && (FJ4Q2 > Hh7oJ)))
 {
 JgjYx = LQ3HkFJ6Z >> 554132125;
 }
-else if (dWcIp != 527713352)
+else if (true)
 {
 cout << "Ri0I0J1" << dWcIp << l1l_5lr(-202228131, zJ1z, -695236574, JgjYx) << l1l_5lr(1567672752, -250038258, 5556331, JgjYx) << endl;
 }

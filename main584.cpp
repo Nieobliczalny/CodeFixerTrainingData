@@ -133,7 +133,7 @@ if (KX1b97t3I > E1ei)
 {
 n3GGZz = (int)abs(vZ08bI);
 }
-else if ((false) || (nokr2 < -1017103256))
+else if ((false) || (false))
 {
 cout << "k8OTdr" << eoaJ << NHkor3 << t_px() << endl;
 }

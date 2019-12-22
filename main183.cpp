@@ -176,7 +176,7 @@ int i = 7;
 while (i >= 0)
 {
 --i;
-if ((true) && (m2bTtrGs < -2009221179))
+if ((true) && (false))
 {
 switch (R3b_)
 {
@@ -563,7 +563,7 @@ if (g0Sqe5 & -1295497541)
 h3yuuj6_IO = mWT72 * J00Bgm_;
 }
 }
-else if (j86PU0G == 120657654)
+else if (false)
 {
 ghaCbHuv_9 = (short int)(MD09eQjDF + (1908143496));
 }

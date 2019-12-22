@@ -511,7 +511,7 @@ else if (false)
 {
 LEukg3 = (long long)(GzXwCuX7xp);
 }
-else if (c9hir2 == -836304181)
+else if (false)
 {
 if (ocJ_3L8 < -34480565)
 {
@@ -571,7 +571,7 @@ BIXcy5o2B4 &= x7nEQR;
 }
 else
 {
-if (((false) || (CpmLxWx3)) && (exs438CP <= -97195173))
+if (((false) || (CpmLxWx3)) && (false))
 {
 fgXtDm |= gCW21V5bOW;
 }

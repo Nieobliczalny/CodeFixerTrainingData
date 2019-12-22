@@ -489,7 +489,7 @@ break;
 
 eumMR0Z = (int)ceil(bh2vz0f4);
 
-if (((true) && (XzYp7MMo == Qvn43Xpv0A)) || ((z2H_mn == SAt4rpDy6) || (c20oEKu != 1907566771)))
+if (((true) && (false)) || ((z2H_mn == SAt4rpDy6) || (c20oEKu != 1907566771)))
 {
 if (x4D91jx & aTNOD80)
 {

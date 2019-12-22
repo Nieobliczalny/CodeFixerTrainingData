@@ -266,7 +266,7 @@ else if (OPPxKeR < -1862038365)
 {
 EGcI |= i99h3AOq;
 }
-else if (((g93bpNDG != -141457260) || (uIgT7YO8O_ > 1516340323)) || (dSy9 <= jOcJSl1h57))
+else if (((true) || (uIgT7YO8O_ > 1516340323)) || (dSy9 <= jOcJSl1h57))
 {
 ttmxY = (int)floor(OPPxKeR);
 }

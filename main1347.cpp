@@ -364,7 +364,7 @@ if ((true) && (cWGw9B != kfclPeIN))
 {
 ezF1CklXI1 = JoLKlIdqPi * 1201533411;
 }
-else if ((cVs7 > 1760260417) && (dgzfl != 1004446809))
+else if ((false) && (dgzfl != 1004446809))
 {
 Zz2M4o = USBlDS / 1615511873;
 }
@@ -412,7 +412,7 @@ NiMo623_n = Guf_gBSYO % 1037708930;
 int i = 5;
 while (i >= 0)
 {
-if (((true) && (B7A8 == -1542890505)) || ((G_qd9D9 == Rl15f652Z) && (aT3_8kd8V5 != 1299205603)))
+if (((true) && (false)) || ((G_qd9D9 == Rl15f652Z) && (aT3_8kd8V5 != 1299205603)))
 {
 I_6G = Bbp0(1841351200, 1820532349, 1727717009, 1534088923);
 }

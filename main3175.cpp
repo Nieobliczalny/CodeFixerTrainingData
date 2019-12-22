@@ -182,7 +182,7 @@ else if (false)
 {
 IHx7e = (int)abs(r_3Bf1x) + (1978129703);
 }
-else if (fGWp_U0 <= 603744993)
+else if (true)
 {
 std::cout << jZDZWheSa(Nm6c4sRkx, sWzp0, Ye96Du99w) << std::endl;
 }
@@ -456,7 +456,7 @@ if (UPsKdqzX < hO9Fb1S9A)
 {
 UPsKdqzX = e7D4pPGa(79559694, jXc4v, -790263557);
 }
-else if (jXc4v > -1527892333)
+else if (true)
 {
 u6R8 += 881878981;
 }
@@ -519,7 +519,7 @@ std::cout << "P1en94x" << jZDZWheSa(-668207567, 1703694939, r_3Bf1x) << "XZWvmfI
 Ye96Du99w <<= 1816615471;
 for (int i = 0; i < 9; i++)
 {
-if ((jXc4v < 988715184) && (IHx7e))
+if ((true) && (IHx7e))
 {
 Ye96Du99w = (Ye96Du99w == IHx7e) ? -675188981 : 1542540739;
 }

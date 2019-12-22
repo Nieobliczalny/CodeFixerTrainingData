@@ -322,7 +322,7 @@ while (i >= 0);
 
 PMYYNK = (true) ? J28Av : D2fxU5;
 
-if (((yLBpqW9o < Ur95) || (CM44Qm9 > tFr84LfOo)) || ((iCZh1 > 294508016) && (XC4CO != -1734627942)))
+if (((yLBpqW9o < Ur95) || (CM44Qm9 > tFr84LfOo)) || ((false) && (XC4CO != -1734627942)))
 {
 std::cout << "EX41" << std::endl;
 }
@@ -473,7 +473,7 @@ int j = 0;
 while (j < 7)
 {
 j++;
-if (aGsX >= -1926184679)
+if (true)
 {
 pJxyNPQ = s0PF2772OG >> 308436317;
 }
@@ -546,7 +546,7 @@ if (false)
 {
 ZD5u ^= w01cW9;
 }
-else if (EMkUBXb >= -1335186178)
+else if (true)
 {
 for (int j = 0; j < 6; j++)
 {

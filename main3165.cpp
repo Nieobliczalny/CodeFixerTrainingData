@@ -303,7 +303,7 @@ fb8iu46APN = (double)(lwcY6);
 int i = 10;
 do
 {
-if ((false) || (Y9oCZHfm >= 295725601))
+if ((false) || (false))
 {
 XEi6HCn = KOff(w3CS);
 }

@@ -16,7 +16,7 @@ if (false)
 {
 std::cout << "yifLgc1nH6" << "pR99" << PV1cF2 << zHYYWx924z << KD_1A << std::endl;
 }
-else if ((nf_8Ri9K1B > 542420149) || (h320Y & 553945351))
+else if ((false) || (h320Y & 553945351))
 {
 switch (A38e9YWeR)
 {
@@ -83,7 +83,7 @@ G7n9n /= b_yJ1;
 while (k < 4);
 }
 }
-else if (((PCfMmy == KVQnMdPu) || (true)) && (tPKnB_H2_ < -1912092020))
+else if (((PCfMmy == KVQnMdPu) || (true)) && (false))
 {
 j3qFo = (unsigned short int)(ZLjgiHsXhs);
 }
@@ -114,7 +114,7 @@ else if (false)
 {
 S8Ry = (unsigned short int)(OLtu9cb2);
 }
-else if (RUIeP >= 778909016)
+else if (false)
 {
 if ((HvM2_A != hhBJ1E) || ((rJyEy3m & -241250158) || (YmGWk > -1236156461)))
 {
@@ -124,7 +124,7 @@ else if (false)
 {
 KBv4 = K2hn_5xm % qcEQcm;
 }
-else if (JSy1K64j9 >= -1421700926)
+else if (true)
 {
 hhBJ1E++;
 }

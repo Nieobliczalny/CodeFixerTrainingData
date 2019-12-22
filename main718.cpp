@@ -196,7 +196,7 @@ if (false)
 {
 ba8ok = (int)floor(T_3Ewz8C7);
 }
-if (vo02 > 889066177)
+if (false)
 {
 {
 int j = 1;
@@ -402,7 +402,7 @@ else
 k00hRVC = (int)abs(U0zcIT17Ti);
 }
 }
-else if (vo02 < -1058716760)
+else if (false)
 {
 cout << "cgh8RXFP" << "gxY823Ne" << eep99 << "Fji9u" << endl;
 }

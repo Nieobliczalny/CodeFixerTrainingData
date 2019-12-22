@@ -71,7 +71,7 @@ std::cout << iZX_(mF5S_, U8V2Im1, SX6HnD) << std::endl;
 
 for (int i = 6; i >= 0; --i)
 {
-if ((false) || ((bV8aYuG5R6 > CTVPiW5) || (Ozda == 714501048)))
+if ((false) || ((bV8aYuG5R6 > CTVPiW5) || (false)))
 {
 for (int k = 1; k >= 0; --k)
 {
@@ -516,7 +516,7 @@ idwAeODq = RgZy8W4Xjs % 1622518241;
 std::cout << "E_Lmt22" << iZX_(EGPJtBBB, Q_HniL0, 536696782) << std::endl;
 if (true)
 {
-if ((rD247 != -1651211915) && (U8V2Im1 >= -2096996799))
+if ((true) && (U8V2Im1 >= -2096996799))
 {
 CTVPiW5 = (short)(F862p4);
 }
@@ -535,7 +535,7 @@ idwAeODq = (int)abs(NSVRJ);
 
 for (int i = 10; i >= 0; --i)
 {
-if (((true) && (Ozda <= -1246703227)) && (p7ENQ7d < 1837531819))
+if (((true) && (false)) && (p7ENQ7d < 1837531819))
 {
 k9zpuo = (short)(Liw6);
 }

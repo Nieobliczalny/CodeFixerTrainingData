@@ -176,7 +176,7 @@ else if (SL9gY <= Z3tm08eV2)
 {
 B8p30v = (true) ? -538360504 : -1855381710;
 }
-else if ((d4aY >= EJoC91g34) || (mOW19L6i2 != 2081408842))
+else if ((d4aY >= EJoC91g34) || (true))
 {
 B8p30v = xTkNxah();
 }

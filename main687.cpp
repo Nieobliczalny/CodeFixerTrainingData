@@ -95,7 +95,7 @@ for (int i = 0; i < 2; ++i)
 {
 y5sc5xM = (unsigned short int)(GXj10b * (UiPKqNJ));
 }
-if (((VLR6gAMsDi == UiPKqNJ) || (false)) && ((h6mHC6 > 131580895) || (C5mw8y9zd4 >= -284581499)))
+if (((VLR6gAMsDi == UiPKqNJ) || (false)) && ((false) || (C5mw8y9zd4 >= -284581499)))
 {
 try
 {
@@ -305,7 +305,7 @@ else if ((false) || (otcm6RPRy <= fK63yJ_z))
 {
 UFhQv = (unsigned char)(s0R7svk);
 }
-else if ((M2I0PO1N > 535325920) && (zHFBhgz_ <= -1098597316))
+else if ((false) && (zHFBhgz_ <= -1098597316))
 {
 for (int k = 8; k >= 0; k--)
 {

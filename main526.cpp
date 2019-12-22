@@ -265,7 +265,7 @@ cU98C1 = B1i4M >> an1DV_;
 }
 else
 {
-if ((false) || ((h4n5z3 < 1488113199) || (vHQKOGz >= k845Q)))
+if ((false) || ((true) || (vHQKOGz >= k845Q)))
 {
 {
 int k = 7;

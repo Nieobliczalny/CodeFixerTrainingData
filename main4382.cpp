@@ -44,7 +44,7 @@ for (int k = 6; k >= 0; k--)
 cS6CHF30 = L96Fa(q2z5v5s7Dp, I_4FqN, KpIiiY, -1993915457, -1582119078);
 }
 }
-else if (l9pC != -706299886)
+else if (true)
 {
 if (l4QeyB5_2 < -2042933691)
 {

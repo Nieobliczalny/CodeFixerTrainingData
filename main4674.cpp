@@ -219,7 +219,7 @@ else if ((uR_zHBS < -719827614) && (true))
 {
 std::cout << T01P4TD << "UJ7Ac" << WnrNogW55U() << "H6qA4OqW8" << "Yuu9yz" << std::endl;
 }
-else if ((slDxE8 <= -952456749) && ((slDxE8 != 988447725) && (y6bJ > 304522414)))
+else if ((false) && ((slDxE8 != 988447725) && (y6bJ > 304522414)))
 {
 try
 {

@@ -134,7 +134,7 @@ else if (false)
 {
 wiG_vRV = Ebe02(zc96) << Wv1evEC7Ja;
 }
-else if (fQZ7_0 <= 1909874988)
+else if (true)
 {
 KUmnxSXhI = Ebe02(1205372569);
 }
@@ -221,7 +221,7 @@ else if (fvrx_ == n6W578ggd)
 {
 KUmnxSXhI = Ebe02(hOgvz);
 }
-else if (a9D2 > 299945023)
+else if (false)
 {
 aINJqXGe9++;
 }

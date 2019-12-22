@@ -290,7 +290,7 @@ else if (g9zUO & -282339535)
 {
 KD15O /= 2113879308;
 }
-else if (((true) || (kCPy < 245904522)) && (EAKn_ >= 58462870))
+else if (((true) || (kCPy < 245904522)) && (false))
 {
 PUE_hZ2 = lrsF2R9ISM(1464403041);
 }
@@ -565,7 +565,7 @@ if (nIP_FBL != vEWG38)
 {
 for (int j = 2; j >= 0; j--)
 {
-if (((false) || (dxfN9_2 <= 127592555)) && ((A2pm504_ < 2059279841) && (bA_12bz5 != -2083237468)))
+if (((false) || (dxfN9_2 <= 127592555)) && ((true) && (bA_12bz5 != -2083237468)))
 {
 vEWG38 = (int)floor(cDpjPuFp);
 }

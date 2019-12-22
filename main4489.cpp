@@ -144,7 +144,7 @@ std::cout << "yFD_nK_F71" << mgmYl_3GS(l70_98xEn, S1G555w, m73bVDnT35, 440646685
 }
 A5C3p_wZ_J = (unsigned short)(oGd62074);
 std::cout << q87v6P8K << "SY_2B" << "MQ79c" << mgmYl_3GS(-1884592299, 629954498, 381167504, A5C3p_wZ_J, -1747537949) << std::endl;
-if (e9Jwi5_ >= -1664555826)
+if (true)
 {
 if (eWap9K3x > 1160916265)
 {

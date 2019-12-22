@@ -190,7 +190,7 @@ else if ((Ls8gm != T0IZQtnYJ) || (pGNBf82f <= I6tGDUR8d_))
 {
 csq1V755 = E3oFQr7A(-820490658, 620658809, -520480882);
 }
-else if (((NXgM0MBalB == -1998772283) && (ATEsUe1 != -1588620665)) && (Osi_3_X))
+else if (((false) && (ATEsUe1 != -1588620665)) && (Osi_3_X))
 {
 csq1V755 = (unsigned short)(Dzd22ZqZr);
 }
@@ -230,7 +230,7 @@ else if (((pGNBf82f <= T0IZQtnYJ) && (z_oQc6f != Osi_3_X)) && (T0IZQtnYJ))
 {
 Ys0qT = (unsigned short)(yWhJm3SY * Ys0qT);
 }
-else if ((true) && ((Osi_3_X > -237358442) && (pGNBf82f < 624517276)))
+else if ((true) && ((true) && (pGNBf82f < 624517276)))
 {
 cout << "C8y_1Xe0" << "NFmvRm8Gxe" << "S3ejNQ" << "a4ezLI" << endl;
 }
@@ -344,7 +344,7 @@ for (int i = 2; i >= 0; --i)
 {
 cout << E3oFQr7A(-15912502, 722454769, I6tGDUR8d_) << ATEsUe1 << endl;
 }
-if ((true) && (Osi_3_X >= -981707078))
+if ((true) && (true))
 {
 Ys0qT = E3oFQr7A(1377973117, 1495365276, z_oQc6f);
 }

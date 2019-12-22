@@ -325,7 +325,7 @@ for (int i = 0; i < 3; i++)
 {
 if (true)
 {
-if ((mpfs1thR != 609868194) || (Z5V31RMO >= -1398661947))
+if ((true) || (Z5V31RMO >= -1398661947))
 {
 T_xSAC = (int)ceil(IJsbYj5);
 }
@@ -393,7 +393,7 @@ F35tS_Un9 = (int)floor(dLpE_hqt0y);
 }
 if (true)
 {
-if (CD2mb23I2 > 1774867717)
+if (false)
 {
 for (int k = 0; k < 6; ++k)
 {

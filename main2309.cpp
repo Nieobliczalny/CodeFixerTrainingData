@@ -85,7 +85,7 @@ else if ((v2_LlG == HaQ_v8S) && (HaQ_v8S & -1247486000))
 {
 VKkJA_glK = O_K7(1634718753, 2084303144, v2_LlG);
 }
-else if (((VKkJA_glK) && (v2_LlG != HaQ_v8S)) && (NclJ3 < 1635912439))
+else if (((VKkJA_glK) && (v2_LlG != HaQ_v8S)) && (true))
 {
 for (int j = 4; j >= 0; --j)
 {
@@ -100,7 +100,7 @@ v2_LlG = O_K7(-1526390931, v2_LlG, 17705089);
 }
 else if (VKkJA_glK < 785372400)
 {
-if (((y4l1EpE == 1662973714) || (v2_LlG < -196538349)) && (HaQ_v8S >= 10451778))
+if (((false) || (v2_LlG < -196538349)) && (HaQ_v8S >= 10451778))
 {
 NclJ3 /= HaQ_v8S;
 }
@@ -137,7 +137,7 @@ v2_LlG = O_K7(-189820145, -1681375687, VKkJA_glK);
 break;
 }
 }
-else if ((HaQ_v8S == -332479041) || ((HaQ_v8S < -537650859) && (v2_LlG & 1214155865)))
+else if ((false) || ((HaQ_v8S < -537650859) && (v2_LlG & 1214155865)))
 {
 NclJ3 = (unsigned char)(v2_LlG + (-1724540577));
 }

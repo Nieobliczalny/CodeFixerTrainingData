@@ -301,7 +301,7 @@ if (false)
 {
 g_PT5Q = azqOIBp >> Wy34;
 }
-else if ((H_oRF51X > rM7_) && (qbphTx7Z2 < XC_u71C3D6))
+else if ((false) && (qbphTx7Z2 < XC_u71C3D6))
 {
 vB3K_OvBew = DdLVcWT1 << 1466383318;
 }
@@ -341,7 +341,7 @@ else if ((Ii0WUW_0 & 1519364212) && (false))
 {
 DvC5X4_y = (unsigned short)(x9053);
 }
-else if (Ii0WUW_0 >= -1901249304)
+else if (true)
 {
 try
 {
@@ -488,7 +488,7 @@ if (r5J07Q8 == GAna_Yb)
 {
 WT6D = KkEKM_5 ^ 1830200881;
 }
-else if (CVj9e8b <= 1400019337)
+else if (true)
 {
 BF11OSb <<= 50114265;
 }
@@ -729,7 +729,7 @@ else if (((false) && (s8T5)) || ((RbgIk > GAna_Yb) || (h7W06G == tVnfsg3kO5)))
 {
 S6wJ1Drv = ltELB | BF11OSb;
 }
-else if (u7PY04 != 137349364)
+else if (true)
 {
 cout << "p4l70" << T9pp7 << S6wJ1Drv << m3m015Uq << endl;
 }

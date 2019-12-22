@@ -437,7 +437,7 @@ int i = 2;
 while (i >= 0)
 {
 --i;
-if (((true) && (MP2q <= LO4M6oKI_c)) && (K2J08))
+if (((true) && (false)) && (K2J08))
 {
 switch (bGfs_Ps)
 {

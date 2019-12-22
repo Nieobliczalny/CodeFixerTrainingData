@@ -241,7 +241,7 @@ if (false)
 {
 Yp53n6 /= 69406306;
 }
-else if ((C7it <= -1084502199) || (AUUAXq_3 != 679492463))
+else if ((false) || (AUUAXq_3 != 679492463))
 {
 LGna8f = (unsigned short int)(qDmqkE);
 }
@@ -263,7 +263,7 @@ for (int k = 0; k < 5; ++k)
 HT42qNCdC >>= 1983329353;
 }
 }
-else if (iBk9v7_O > 1807509609)
+else if (false)
 {
 try
 {
@@ -319,7 +319,7 @@ else
 LGna8f *= 180862152;
 }
 
-if (((false) || (M7ZT787_1 < -198869757)) && (Dh8dP_4 <= tvb6_0Tnl))
+if (((false) || (false)) && (Dh8dP_4 <= tvb6_0Tnl))
 {
 std::cout << "grr6" << SK51nfl1 << G6GoLbg_Vs(-1476994550) << iBk9v7_O << G6GoLbg_Vs(m96PI_) << std::endl;
 }
@@ -334,7 +334,7 @@ else if (YgyZm8zS)
 {
 for (int j = 0; j < 10; j++)
 {
-if (((true) && (rrl3Ia0I2 != -877820613)) && (MJccdkL7W0))
+if (((true) && (true)) && (MJccdkL7W0))
 {
 Qsfo = m96PI_ | tvb6_0Tnl;
 }
@@ -350,7 +350,7 @@ else if (C7it == z8DL_Eq)
 {
 EgnTb = c7LCjXVd0_ - 174373838;
 }
-else if ((true) && (U2gJv3QBn > -882866625))
+else if ((true) && (true))
 {
 HT42qNCdC <<= 2027338375;
 }
@@ -366,7 +366,7 @@ Svbhpe = ND976EQF(-1312400459);
 }
 else if (true)
 {
-if (nSra == 22598951)
+if (false)
 {
 try
 {
@@ -467,7 +467,7 @@ if (false)
 {
 std::cout << "I9zZcv" << "Qv2C1IL6_c" << "e2h0LUAg" << MJccdkL7W0 << std::endl;
 }
-else if (((YgyZm8zS > 1362998256) && (b0d1 == iF44_WAt5j)) || (TLVVz1_SB7 & H_VJF))
+else if (((false) && (b0d1 == iF44_WAt5j)) || (TLVVz1_SB7 & H_VJF))
 {
 if (MJccdkL7W0 == 281888889)
 {
@@ -529,7 +529,7 @@ MJccdkL7W0 = (true) ? MJccdkL7W0 : d2F_61rdVT;
 break;
 }
 }
-else if (o8ulf == -2089904798)
+else if (false)
 {
 std::cout << yP6kSH8j << PQ89933ig << std::endl;
 }
@@ -599,7 +599,7 @@ break;
 }
 }
 }
-else if (((S8X2kpTn5 > Svbhpe) || (Ma18z_ < U2gJv3QBn)) && ((true) && (rrl3Ia0I2 != 1877134601)))
+else if (((S8X2kpTn5 > Svbhpe) || (Ma18z_ < U2gJv3QBn)) && ((true) && (true)))
 {
 {
 int j = 0;
@@ -648,7 +648,7 @@ else
 {
 if (true)
 {
-if (TBk9i76ViN != 909472709)
+if (true)
 {
 z8DL_Eq |= GJP56qvY;
 }
@@ -692,7 +692,7 @@ OQeS373VJ = SK51nfl1 & 1597428415;
 
 if (TB8pdO)
 {
-if (((Dh8dP_4 <= H_VJF) || (true)) && (S8X2kpTn5 != -1581287594))
+if (((Dh8dP_4 <= H_VJF) || (true)) && (true))
 {
 {
 int k = 0;

@@ -162,7 +162,7 @@ int j = 8;
 while (j >= 0)
 {
 j--;
-if (DzLqmVI4 > 352840276)
+if (false)
 {
 dZdeEiy24 = (int)floor(ULVc);
 }
@@ -174,7 +174,7 @@ else if (w9I_2r == DzLqmVI4)
 {
 Zbs7isXk9D >>= 485139964;
 }
-else if (((true) && (H0B_ < 1310413512)) && (PCIrF != 343260058))
+else if (((true) && (H0B_ < 1310413512)) && (true))
 {
 frvSt = (int)floor(jU17);
 }
@@ -208,7 +208,7 @@ if (false)
 jU17 = (int)ceil(ULVc);
 }
 }
-else if ((vxOU == -925738890) && ((Z_vIb3 == rjR6NA3ctF) && (shKGN8k6m9 == RmcO9V)))
+else if ((false) && ((Z_vIb3 == rjR6NA3ctF) && (shKGN8k6m9 == RmcO9V)))
 {
 {
 int j = 7;

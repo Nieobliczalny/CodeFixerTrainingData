@@ -92,7 +92,7 @@ JU7i8I = (int)floor(lg2r8_4);
 }
 }
 }
-else if (AM_45Q7r1 >= 1445541364)
+else if (false)
 {
 for (int j = 0; j < 6; j++)
 {

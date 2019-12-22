@@ -200,7 +200,7 @@ else if (false)
 {
 iQ2w4 = (short)(MyrB1y3L);
 }
-else if (B4wtS > -115334751)
+else if (true)
 {
 EnxcqbU = UkKDq(cWP7be2f, EnxcqbU, R8ie4ww);
 }

@@ -46,7 +46,7 @@ if ((false) && ((D54gkIK >= -1949846286) || (D54gkIK < 427972141)))
 {
 VqF7 = (short)(s25H27);
 }
-else if (Q5H6_8 < 973250497)
+else if (true)
 {
 if (op_6Wy1 > 159851526)
 {
@@ -93,7 +93,7 @@ else if (tIdx1Ls1IZ >= B7LW11n)
 {
 try
 {
-if ((true) && (op_6Wy1 == -1609869554))
+if ((true) && (false))
 {
 B7LW11n = sy2VEjJw() | Kc676rz16S;
 }
@@ -232,7 +232,7 @@ UySA = Hg4cN2(UySA, -671417397, NWVKo_aR_D, s25H27);
 }
 }
 }
-else if ((xKsC != -953864472) && (X09DfH5 >= rTb_))
+else if ((true) && (X09DfH5 >= rTb_))
 {
 {
 int j = 0;

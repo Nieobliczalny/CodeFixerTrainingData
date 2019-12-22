@@ -275,7 +275,7 @@ else
 ONJj = XoNpRh * nUV28rzO_0;
 }
 }
-else if ((false) || ((MMPwRpv <= 139950390) || (KeT9shy == B_u21)))
+else if ((false) || ((true) || (KeT9shy == B_u21)))
 {
 {
 int k = 3;

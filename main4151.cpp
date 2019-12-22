@@ -259,7 +259,7 @@ if ((c7XvC0Y0RE >= -1624924310) || (VQku7 > c7XvC0Y0RE))
 c7XvC0Y0RE = c7XvC0Y0RE * VQku7;
 }
 }
-else if ((c7XvC0Y0RE >= VQku7) || ((c7XvC0Y0RE > 846329650) && (c7XvC0Y0RE)))
+else if ((c7XvC0Y0RE >= VQku7) || ((false) && (c7XvC0Y0RE)))
 {
 try
 {

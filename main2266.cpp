@@ -230,7 +230,7 @@ while (j >= 0);
 }
 else if ((oy1K9 > -1575222141) || (true))
 {
-if (((Ya_4OdX0n != -743052963) && (D648lAL7ev == 32481693)) || ((XVtaJ6dK < rvWk) || (Mz8YySy5 & 1370283178)))
+if (((Ya_4OdX0n != -743052963) && (false)) || ((XVtaJ6dK < rvWk) || (Mz8YySy5 & 1370283178)))
 {
 std::cout << "U3YOaQTM" << "S2sco8" << n_IDAhn7it << std::endl;
 }

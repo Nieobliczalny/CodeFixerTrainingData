@@ -247,7 +247,7 @@ for (int k = 0; k < 4; k++)
 L_39QQ5 = Pef_90k ^ 541983354;
 }
 }
-else if (TS082jN > zy15xK__rE)
+else if (true)
 {
 if (T43x__ == -50468631)
 {
@@ -265,7 +265,7 @@ else if (((qM_9KQ2 <= Rb82C) || (VtdVs67wQ & -84943389)) || (false))
 {
 is71VG32P0 = (int)abs(Z203sxk);
 }
-else if ((eM065X == zy15xK__rE) && (WR4QcC_ != -1832069483))
+else if ((false) && (WR4QcC_ != -1832069483))
 {
 switch (WR4QcC_)
 {
@@ -394,7 +394,7 @@ is71VG32P0 = (int)abs(Z203sxk);
 
 if ((is71VG32P0 != xVJz73) || (eM065X))
 {
-if (((true) || (TS082jN > Z203sxk)) && (Hy294Js0 <= -1902155233))
+if (((true) || (TS082jN > Z203sxk)) && (false))
 {
 try
 {

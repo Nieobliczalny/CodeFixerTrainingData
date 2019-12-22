@@ -135,7 +135,7 @@ else if (m0gU7__kO7 <= MQ477De)
 {
 r4thM0R1 = (int)ceil(Wt10CNI);
 }
-else if (((k4vVbCRU_K < FiGuL1z) && (K2Aq != -1698280420)) || (i7Iv518o & RCDGA))
+else if (((false) && (K2Aq != -1698280420)) || (i7Iv518o & RCDGA))
 {
 U5o_V = klH92(-891065499);
 }
@@ -361,7 +361,7 @@ if (false)
 {
 TS4fS21074 = (long long)(RCDGA);
 }
-else if ((Z3ctJj <= RCDGA) || (kbA0 > t63h8vk))
+else if ((true) || (kbA0 > t63h8vk))
 {
 try
 {

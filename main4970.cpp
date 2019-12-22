@@ -43,7 +43,7 @@ v_Zm0 = (char)(t2_nJn * v_Zm0);
 
 if (true)
 {
-if (AHO29q <= 1110395015)
+if (true)
 {
 {
 int k = 5;
@@ -57,7 +57,7 @@ while (k >= 0);
 }
 else if (true)
 {
-if (AHO29q != -1289199247)
+if (true)
 {
 g8vRtCw0c--;
 }
@@ -310,7 +310,7 @@ AHO29q = (short)(v_Zm0 + (-140473662));
 
 if (g8vRtCw0c == v_Zm0)
 {
-if (((true) && (ni41 == -1384832776)) && (v_Zm0))
+if (((true) && (false)) && (v_Zm0))
 {
 v_Zm0 = (int)abs(t2_nJn) * 0;
 }
@@ -369,7 +369,7 @@ j++;
 while (j < 1);
 }
 }
-else if ((true) && ((Ls2vSYGvrg == g8vRtCw0c) || (e0_A < -1961348872)))
+else if ((true) && ((Ls2vSYGvrg == g8vRtCw0c) || (false)))
 {
 switch (ni41)
 {
@@ -419,7 +419,7 @@ else
 {
 if (ni41 & 1797026457)
 {
-if (((false) || (e0_A <= t2_nJn)) && (g8vRtCw0c != 1116128))
+if (((false) || (e0_A <= t2_nJn)) && (true))
 {
 Ls2vSYGvrg = BR8M6(Ls2vSYGvrg);
 }

@@ -500,7 +500,7 @@ if (((UnEvCXS > 1023835895) && (n1_J_AR == hs0zY5)) || ((On73dr51 & EPnXtxcp) &&
 {
 pjHFfi1 = (long long)(g887S3f5);
 }
-else if (E2FC < -957371022)
+else if (false)
 {
 bk6q1mUKh = (double)(X4zS90Np);
 }

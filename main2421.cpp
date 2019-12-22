@@ -24,7 +24,7 @@ else
 pfNAOn = (int)abs(MP3lCrVuxX) + (1276909236);
 }
 
-if (DHge_1q >= -603402795)
+if (true)
 {
 if (KaH5c44Z1w & M7r9u)
 {
@@ -71,7 +71,7 @@ Xl8f6 /= 940760654;
 break;
 }
 }
-else if ((false) || (wsBS939h != M7r9u))
+else if ((false) || (true))
 {
 if (z1L9p6QgDn == T4UDc09u)
 {
@@ -84,7 +84,7 @@ Pr5G1 = nGgfFBb << 505294659;
 }
 else if (true)
 {
-if (((WVu0 <= M7r9u) && (n7Dpwqxx <= nGgfFBb)) && (pfNAOn == 1944194480))
+if (((true) && (n7Dpwqxx <= nGgfFBb)) && (pfNAOn == 1944194480))
 {
 jY_9Fa1_nT += SexCfXsE;
 }
@@ -165,7 +165,7 @@ break;
 }
 else if ((false) || (WVu0 & -1108131036))
 {
-if (((BS34NI == anvs1it) || (SexCfXsE <= -335955802)) && (ORBOk8y == -510313834))
+if (((BS34NI == anvs1it) || (false)) && (ORBOk8y == -510313834))
 {
 std::cout << "B1P41LW" << Pr5G1 << "LfVSw" << IAHg8W << std::endl;
 }
@@ -477,7 +477,7 @@ for (int i = 0; i < 6; i++)
 int j = 2;
 while (j >= 0)
 {
-if (((true) || (ojL0 & 713036054)) && (z1L9p6QgDn <= nGgfFBb))
+if (((true) || (ojL0 & 713036054)) && (true))
 {
 ojL0 = (int)abs(T4UDc09u);
 }
@@ -526,7 +526,7 @@ else if (((x8_2RASJE) || (false)) && (MP3lCrVuxX))
 {
 Pr5G1 -= Xl8f6;
 }
-else if (jY_9Fa1_nT > nGgfFBb)
+else if (false)
 {
 try
 {

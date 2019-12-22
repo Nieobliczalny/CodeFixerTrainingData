@@ -447,7 +447,7 @@ else if ((oc8kLG0 & WJk817) || (o60_uVOd == npEpG2))
 {
 fD4N10pCu = (unsigned char)(es8KEcp);
 }
-else if (((CkU2Zki > e2v9f1W7C) || (true)) && (f_9ZUry_KA < -1974094123))
+else if (((CkU2Zki > e2v9f1W7C) || (true)) && (false))
 {
 weBU82j = (unsigned char)(es8KEcp);
 }

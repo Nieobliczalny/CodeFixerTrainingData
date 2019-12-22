@@ -70,7 +70,7 @@ else if (zvPlF > Pc3z37X2)
 {
 L1B19 = q8TTVkm ^ j39b08iVcp;
 }
-else if ((x7hTBO != 1813295092) && ((B8B0 <= 2018371349) && (efKCpVfA == -1203072997)))
+else if ((true) && ((B8B0 <= 2018371349) && (efKCpVfA == -1203072997)))
 {
 bo_0 = Ahxz761O3h(-1878271543, E8IetmP17, 413811589, qC892, k7KGBhf);
 }
@@ -108,7 +108,7 @@ if (((W3e1ki29s4 < PlUC) || (QH_0pizp)) || ((qC892 >= XwqOdN4) && (UeA9U)))
 {
 Pc3z37X2 = sJ42Tg / 12199730;
 }
-else if ((true) && ((fC49 != YCP0) && (ZfwH7 == 154050252)))
+else if ((true) && ((fC49 != YCP0) && (false)))
 {
 qC892 = Pc3z37X2 + q8TTVkm;
 }
@@ -124,7 +124,7 @@ else if (false)
 {
 jEm7g6w25 = W4ST(1067940039, CBWi51GhK, -184203029, zvPlF, x7hTBO);
 }
-else if (nG0M_ua4VJ == -325554083)
+else if (false)
 {
 qC892 = Ahxz761O3h(1496350533, L1B19, 1692613552, 2097456046, q8TTVkm);
 }
@@ -139,7 +139,7 @@ if (YCP0 & -1756239733)
 {
 X5_3 = (int)abs(x7hTBO);
 }
-else if ((UeA9U == -1845192552) && (bo_0 >= -1128785397))
+else if ((false) && (bo_0 >= -1128785397))
 {
 zvPlF = (int)abs(QtW_ywlidM);
 }
@@ -345,7 +345,7 @@ for (int k = 0; k < 1; ++k)
 JH998 = Mf3_NVeia(JH998, YCP0);
 }
 }
-else if ((true) && (efKCpVfA < -363292430))
+else if ((true) && (false))
 {
 {
 int k = 5;
@@ -371,7 +371,7 @@ else if ((bo_0) && (true))
 {
 Pc3z37X2 = (int)abs(hzTJHOG);
 }
-else if ((H7AR_65yzL > -1162739338) || ((YCP0 >= -1229499413) && (q8TTVkm & j39b08iVcp)))
+else if ((true) || ((YCP0 >= -1229499413) && (q8TTVkm & j39b08iVcp)))
 {
 k_sM |= MnM_c;
 }
@@ -526,7 +526,7 @@ F3_T_c = (int)abs(QtW_ywlidM);
 }
 }
 
-if ((false) || (er5D1 != -1642165623))
+if ((false) || (true))
 {
 {
 int j = 0;
@@ -546,7 +546,7 @@ while (j < 2);
 }
 }
 sJ42Tg = (char)(qFw6Mv);
-if (((false) || (XVJxIb >= -1960609369)) || (F3_T_c == qFw6Mv))
+if (((false) || (true)) || (F3_T_c == qFw6Mv))
 {
 if (E8IetmP17)
 {
@@ -648,7 +648,7 @@ Pc3z37X2 = DI755a / k8N_29p;
 }
 else
 {
-if (((H7AR_65yzL) || (true)) && (pZUzHl41Zw == -632569499))
+if (((H7AR_65yzL) || (true)) && (false))
 {
 z14e25 = Mf3_NVeia(-1666294791, -1661042446);
 }

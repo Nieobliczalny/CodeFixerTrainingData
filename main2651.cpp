@@ -152,7 +152,7 @@ if (false)
 {
 msnmXAFT6Z >>= b66VhY_;
 }
-else if ((jtxdyl5LE <= -300820564) || (AQSAi544H))
+else if ((false) || (AQSAi544H))
 {
 b66VhY_ = jtxdyl5LE & 401704683;
 }
@@ -665,7 +665,7 @@ else
 {
 try
 {
-if ((msnmXAFT6Z > -300447500) && ((true) && (AQSAi544H == 1098213035)))
+if ((msnmXAFT6Z > -300447500) && ((true) && (false)))
 {
 b66VhY_ = (int)abs(AQSAi544H) + (398110424);
 }

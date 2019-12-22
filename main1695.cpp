@@ -103,7 +103,7 @@ else if (false)
 {
 FT2x3 %= 1704601039;
 }
-else if (y7K3 >= -1316543055)
+else if (true)
 {
 for (int k = 2; k >= 0; k--)
 {

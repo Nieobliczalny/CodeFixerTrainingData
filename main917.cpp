@@ -216,7 +216,7 @@ if (true)
 lEWNj1_fn = EhB3X6uwD(-1392863547);
 }
 }
-else if (a5O42Pjf != 1322339909)
+else if (true)
 {
 if (AW661 & LpIe)
 {

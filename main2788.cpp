@@ -122,7 +122,7 @@ else if (false)
 {
 nCYF7BPDW = xB6_Hq0T << 2036318093;
 }
-else if (to0Ifr == ymG_a_)
+else if (false)
 {
 iYCbCj = (int)floor(aPa4u901I);
 }
@@ -494,7 +494,7 @@ while (i < 9);
 }
 if (dfh5tzb07 & 1502550316)
 {
-if ((true) && (bVQymciGlF > ymG_a_))
+if ((true) && (true))
 {
 amj76LC5 <<= Jn1eDX6;
 }

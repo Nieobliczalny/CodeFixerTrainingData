@@ -204,7 +204,7 @@ d75L = Rz4F & 994166636;
 
 try
 {
-if (((Gc19E <= -1556878649) && (true)) && (tuhVz == -587744806))
+if (((Gc19E <= -1556878649) && (true)) && (false))
 {
 W1T1a = EIXv80nxBX();
 }
@@ -281,7 +281,7 @@ int i = 0;
 while (i < 1)
 {
 ++i;
-if ((true) && ((lXKiP2Q <= 199209193) && (Fu0GJ3Pzg & 862594380)))
+if ((true) && ((true) && (Fu0GJ3Pzg & 862594380)))
 {
 switch (n9_8Cr)
 {
@@ -556,7 +556,7 @@ B3Pl0100Dh = Z0EeBQGk_(-759220974);
 }
 else if (DEqG4MjMA)
 {
-if ((true) && ((B3Pl0100Dh <= -1973572743) && (e658H_FhyM != 439991589)))
+if ((true) && ((false) && (e658H_FhyM != 439991589)))
 {
 Rn0Li2K <<= 1692664101;
 }

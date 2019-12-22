@@ -515,7 +515,7 @@ else if ((false) && (LD2835_5 < -1189803065))
 {
 HY1QOC = (short int)(u3n36e7 + (SEsf13));
 }
-else if (Wc14XR <= -1018580169)
+else if (false)
 {
 for (int k = 0; k < 1; ++k)
 {
@@ -542,7 +542,7 @@ if (false)
 {
 j1sxEv >>= 1989650217;
 }
-else if (cYiV2_3FMJ < SEsf13)
+else if (false)
 {
 switch (Ii3wR2XF)
 {

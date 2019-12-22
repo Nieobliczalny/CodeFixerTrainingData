@@ -131,7 +131,7 @@ if (false)
 cout << "tL7O1z8h" << endl;
 }
 
-if (((FUSo361) && (UupM != -1540666733)) && (cJ8Gg & 512945297))
+if (((FUSo361) && (true)) && (cJ8Gg & 512945297))
 {
 zCcyug_851 = (unsigned short)(zrH166);
 }
@@ -226,7 +226,7 @@ cJ8Gg = wU94S / y7MX891xn;
 }
 if (true)
 {
-if ((EV1t0drQg > 1291050306) && ((EV1t0drQg == -2064908052) && (wU94S < 1279814385)))
+if ((false) && ((EV1t0drQg == -2064908052) && (wU94S < 1279814385)))
 {
 {
 int k = 7;

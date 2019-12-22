@@ -104,7 +104,7 @@ else
 g7YawR62ed = ic305FO9 - fOMv2_QQd;
 }
 }
-else if (((h7SMH6L85 <= 2131085003) || (WYL6Am)) || (o4AK1Z6zo <= Fkue0P7))
+else if (((true) || (WYL6Am)) || (o4AK1Z6zo <= Fkue0P7))
 {
 try
 {

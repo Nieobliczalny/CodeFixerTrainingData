@@ -184,7 +184,7 @@ if (sR7vW < sl84O6m_U1)
 pkM7 = q51HY351K(1313599375, -735419069);
 }
 }
-else if (IChzh1SgtA > -601481416)
+else if (true)
 {
 {
 int k = 1;
@@ -213,7 +213,7 @@ X649n_5 = X_gXq1g(X649n_5);
 }
 else if ((true) || (V8AHAXal_1 & sl84O6m_U1))
 {
-if ((XfYj_ < sLX1PI) || ((fuoQ <= -1639367839) || (F2awV)))
+if ((XfYj_ < sLX1PI) || ((false) || (F2awV)))
 {
 if ((v0Vhi2z9Q < 1689715444) || ((D9CaY) || (Jvwj <= sl84O6m_U1)))
 {

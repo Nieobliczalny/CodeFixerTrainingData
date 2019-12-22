@@ -130,7 +130,7 @@ if ((rTY7Fb >= -2105833216) && (rTY7Fb < -49951585))
 {
 LXD4 = (int)abs(SiSfi26oDy);
 }
-else if ((n_d7ky < -1329179886) && (tb5B02u < 784214545))
+else if ((false) && (tb5B02u < 784214545))
 {
 AtvJvgL ^= tb5B02u;
 }

@@ -205,7 +205,7 @@ else if (eWsjt7K6_G > 1804948088)
 {
 P2trU1C = (short int)(PF9Qa);
 }
-else if (((false) && (PF9Qa <= -396637315)) || ((P2trU1C <= -1213774851) && (PF9Qa > 1760223471)))
+else if (((false) && (PF9Qa <= -396637315)) || ((false) && (PF9Qa > 1760223471)))
 {
 switch (PF9Qa)
 {
@@ -296,7 +296,7 @@ else
 {
 if ((ee65 <= P2trU1C) && (true))
 {
-wlz3tO = (TQpfD != 1370128386) ? TQpfD : 1411885198;
+wlz3tO = (true) ? TQpfD : 1411885198;
 }
 else if ((ee65 & -1124869248) && ((TQpfD != 2027890059) || (wlz3tO != xx6c)))
 {
@@ -358,7 +358,7 @@ catch (int& errorCode)
 xx6c = EX_shg2V(1433733);
 }
 }
-else if (((false) && (B5Ad2_w & 1421504788)) || ((xx6c >= 1794496474) || (P2trU1C < B5Ad2_w)))
+else if (((false) && (B5Ad2_w & 1421504788)) || ((false) || (P2trU1C < B5Ad2_w)))
 {
 cout << "ewnG2qiU" << xm38Z220F1(eWsjt7K6_G) << endl;
 }

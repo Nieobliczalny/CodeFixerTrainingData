@@ -282,7 +282,7 @@ for (int k = 0; k < 9; k++)
 LSQvQVA = (int)abs(iQ8daucrZ);
 }
 }
-else if (y8Gn0961W > 1069066700)
+else if (false)
 {
 try
 {
@@ -719,7 +719,7 @@ else if ((C8532HW & -1771969461) || (MX9nQ >= 2053677468))
 {
 ne1wRsbXX = sdx11avY();
 }
-else if (((W41P9Gn >= -1558229388) && (yOa2k2Iyy6 == 490252099)) && (vF70dRu31 >= 797450670))
+else if (((W41P9Gn >= -1558229388) && (false)) && (vF70dRu31 >= 797450670))
 {
 for (int j = 4; j >= 0; --j)
 {
@@ -833,7 +833,7 @@ else
 ld9XTJg = (int)ceil(rLlKG);
 }
 }
-else if ((n3q185K < 368618685) || (t8Gq < 1037895943))
+else if ((n3q185K < 368618685) || (true))
 {
 std::cout << Iyy4csdX4J(-1559944805, eGI4Mz, 1048979932, J9phJc3g75, 6037831) << std::endl;
 }

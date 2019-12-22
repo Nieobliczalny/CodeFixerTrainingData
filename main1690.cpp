@@ -412,7 +412,7 @@ do
 --i;
 if ((false) || (B0_2_wi3A6 >= rsC3))
 {
-if ((zFN31 == -1700428283) || (OBTpx != 225468536))
+if ((zFN31 == -1700428283) || (true))
 {
 KdCz_l = u2wN7lN9(KdCz_l);
 }
@@ -577,7 +577,7 @@ DYeIP5578 = u2wN7lN9(-224352793);
 }
 }
 
-if (((KdCz_l & h8K38LBn) && (true)) || ((EtCP_1 <= -424261544) || (VSkX75zY == 181666000)))
+if (((KdCz_l & h8K38LBn) && (true)) || ((false) || (VSkX75zY == 181666000)))
 {
 {
 int j = 1;

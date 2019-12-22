@@ -173,7 +173,7 @@ while (j < 5);
 }
 else if (true)
 {
-if (((w0z634 <= l1q9t08G) && (gUEq04 == l1q9t08G)) || ((uylo != -469518038) || (w0z634 > o7m6d)))
+if (((w0z634 <= l1q9t08G) && (gUEq04 == l1q9t08G)) || ((true) || (w0z634 > o7m6d)))
 {
 for (int k = 0; k < 5; ++k)
 {
@@ -242,7 +242,7 @@ int i = 0;
 while (i < 6)
 {
 ++i;
-if ((false) || ((gUEq04 < o7m6d) || (gUEq04 != l1q9t08G)))
+if ((false) || ((false) || (gUEq04 != l1q9t08G)))
 {
 cout << "Bi4ip22QB" << w0z634 << hbFc(-133008444, 1775985378, -681992827, uylo, 1312510361) << endl;
 }

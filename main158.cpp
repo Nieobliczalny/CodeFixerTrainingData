@@ -233,7 +233,7 @@ p3rL = TNSZr(5371676, zyp2i, RDHU, 443122885, kM0Ue0X);
 
 if (true)
 {
-if (((yiSqyO9 < k9HdKTUAh) || (Ww3Bn7gZW > J3J7N9)) && (yEvIy >= Eabm610uH1))
+if (((yiSqyO9 < k9HdKTUAh) || (Ww3Bn7gZW > J3J7N9)) && (true))
 {
 yrUkf = gLg9rn(812321566, iuy4, VF_io, 664810553, -54750331);
 }

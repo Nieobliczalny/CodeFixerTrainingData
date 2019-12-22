@@ -396,7 +396,7 @@ else if (false)
 {
 IARYqt = (long double)(OBDJt);
 }
-else if (i4IgmL > -1605952016)
+else if (true)
 {
 for (int j = 0; j < 1; j++)
 {
@@ -422,7 +422,7 @@ klza48_ = (int)floor(U75_Ikt);
 while (j >= 0);
 }
 }
-else if ((SkU98krhpx > 97962873) && ((oB4v != -1826322760) && (f_2F0QCFZ < -319403325)))
+else if ((SkU98krhpx > 97962873) && ((oB4v != -1826322760) && (false)))
 {
 rTV89c2b6I = (c5ud != A1X43a) ? s_zBb2A1v : u09VpBY6(CTrWpRbljw, -1611152033);
 }
@@ -445,7 +445,7 @@ else
 {
 h_JaaFl85m = uy9818(746076463, 1969536310, 162787577);
 }
-if (aCHT8Z_7 < -9294308)
+if (false)
 {
 std::cout << u09VpBY6(-1602386258, X47d) << std::endl;
 }

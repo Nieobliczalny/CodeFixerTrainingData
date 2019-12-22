@@ -152,7 +152,7 @@ int i = 1;
 do
 {
 --i;
-if (((bg6v3 <= F30i0k) || (false)) || ((uPZJY3 > zGLaVO98) && (rTy1k8V <= zGLaVO98)))
+if (((bg6v3 <= F30i0k) || (false)) || ((true) && (rTy1k8V <= zGLaVO98)))
 {
 {
 int k = 4;
@@ -387,7 +387,7 @@ else if (false)
 {
 rU95 = ChEi(rU95, K3krech, -1761971788);
 }
-else if (kgZW == -1625732789)
+else if (false)
 {
 if (M0cm3 <= -663613271)
 {
@@ -512,7 +512,7 @@ else if ((false) || ((fMqY9 != 951818432) || (z4f0z > 1088974456)))
 {
 CjZGEcm6RJ = (int)ceil(tY9bMdr1G);
 }
-else if (((H5LdQmKMy < -370974309) && (KGfWSs6U8X == 317990556)) && (p55e == M_MA7v9_r))
+else if (((H5LdQmKMy < -370974309) && (false)) && (p55e == M_MA7v9_r))
 {
 uPZJY3 = ChEi(835669357, 921820145, v5RUCYQS);
 }

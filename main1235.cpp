@@ -124,7 +124,7 @@ default:
 lfKzj4fw25 = l77N << d_jK;
 break;
 }
-if (((true) && (d_jK < b86L7)) && (qgk3 >= -501697459))
+if (((true) && (true)) && (qgk3 >= -501697459))
 {
 k7TDq = (unsigned short int)(r_uu);
 }

@@ -161,7 +161,7 @@ else if ((GKWA_tP == VlajYK) || (Oh4zIG & n_43c))
 {
 if (true)
 {
-if ((fv1rcv <= xy8l4U8z) && (HWasg1DN <= uFX6_qir4))
+if ((false) && (HWasg1DN <= uFX6_qir4))
 {
 m4IqJ7 = (int)abs(P20Zvd3);
 }

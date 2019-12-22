@@ -185,7 +185,7 @@ if (true)
 int j = 0;
 while (j < 10)
 {
-if (((qX7q) && (np0lkPE >= -1718215966)) && (Wtot_ >= -1948836658))
+if (((qX7q) && (true)) && (Wtot_ >= -1948836658))
 {
 EO_K = (int)ceil(QQVK);
 }

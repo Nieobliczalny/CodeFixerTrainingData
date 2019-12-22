@@ -521,7 +521,7 @@ for (int j = 5; j >= 0; --j)
 W9gdM3 = Vvh6n54(2098737496);
 }
 }
-else if (((false) || (GSJU)) && ((ciqZQmlQ_F > wCp9) || (OM5pzW7C_ != -1498296975)))
+else if (((false) || (GSJU)) && ((ciqZQmlQ_F > wCp9) || (true)))
 {
 switch (IIe_NA30)
 {
@@ -627,7 +627,7 @@ n8mX4W5EW = kOFz_90YQ(395006482, r4l_g);
 }
 }
 }
-else if (e1hJyv04VH == 26486656)
+else if (false)
 {
 for (int j = 4; j >= 0; j--)
 {
@@ -1026,7 +1026,7 @@ else if ((oE17NECpp) && (mV9s8 & lB22RAPOA))
 {
 if (N51hc7)
 {
-if (IXFRr >= -2064123331)
+if (true)
 {
 v43Iz68X7 = (int)abs(Ekqr);
 }

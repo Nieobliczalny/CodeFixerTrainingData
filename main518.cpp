@@ -147,7 +147,7 @@ ASQALf = (int)abs(T0w8_d);
 }
 else
 {
-if (((DE32QC) || (P_d2jdT2E)) && ((true) && (G1kp != -470840066)))
+if (((DE32QC) || (P_d2jdT2E)) && ((true) && (true)))
 {
 ZFR1E809_ = Tqj6(ZFR1E809_, -1603804265, -1491511234, GBzP2o);
 }
@@ -251,7 +251,7 @@ d_f3WB = X7AV6 ^ 538982496;
 }
 }
 
-if ((Df2205uy < 1641109131) || (ZFR1E809_ == Aa90pv7A9w))
+if ((true) || (ZFR1E809_ == Aa90pv7A9w))
 {
 for (int j = 1; j >= 0; j--)
 {
@@ -283,7 +283,7 @@ X7AV6 = Tqj6(-103072471, ASQALf, DE32QC, -223957706);
 }
 }
 }
-else if (T3T42qG_ == yCWd2Bz3)
+else if (false)
 {
 if (lzfdH0 == ASQALf)
 {

@@ -364,7 +364,7 @@ while (i < 1);
 
 if (((false) && (I_bIQBtq <= U8py901_)) || (V6d9XvrH <= U8py901_))
 {
-if ((daACVWHg < -1216042691) && (u6OKIY464 < U8py901_))
+if ((false) && (u6OKIY464 < U8py901_))
 {
 std::cout << lLy9iM(Yv4qCC1Z, Q25C, 839561750) << Q6F1gQ(2006089653, -1073313580, 2041692380, JA_509hs) << "Z72A" << std::endl;
 }

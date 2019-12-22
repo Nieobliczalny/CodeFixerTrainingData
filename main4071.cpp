@@ -175,7 +175,7 @@ std::cout << F5E_xuZ4 << noVEODt1P << std::endl;
 
 if (true)
 {
-if ((cl76BiBK != -1882903838) && (I5buh != l4wa))
+if ((cl76BiBK != -1882903838) && (true))
 {
 switch (E439x2zLS)
 {
@@ -435,7 +435,7 @@ else if (Mz_Xrt < ft73Din)
 int j = 0;
 while (j < 8)
 {
-if (((true) && (gdJY_QP <= mBIg1c_b6_)) || (TC118P > 486880803))
+if (((true) && (gdJY_QP <= mBIg1c_b6_)) || (false))
 {
 ft73Din = (int)floor(J7tK);
 }
@@ -585,7 +585,7 @@ fdgpyEo1 = (int)ceil(G18k2v);
 }
 else
 {
-if ((true) && ((crLc5qZ > 319671357) || (PrA5 < l4wa)))
+if ((true) && ((false) || (PrA5 < l4wa)))
 {
 PrA5 = (int)ceil(g30cWR9Y);
 }

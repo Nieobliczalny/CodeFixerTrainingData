@@ -150,7 +150,7 @@ if ((true) && (f6y9 & m_sXqfP6s))
 i4305w9 = JgK_(1157838908, A5vNa);
 }
 }
-else if ((m_sXqfP6s > s8BQOmn) && (m_sXqfP6s != A_MmdZkmWu))
+else if ((false) && (m_sXqfP6s != A_MmdZkmWu))
 {
 if (kG_T != 2043281088)
 {

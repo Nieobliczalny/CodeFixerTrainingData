@@ -135,7 +135,7 @@ sokOT7i2_A /= b_o3E;
 }
 else if (true)
 {
-if (sNK92Z83X != -954971000)
+if (true)
 {
 try
 {
@@ -194,7 +194,7 @@ for (int j = 0; j < 3; ++j)
 std::cout << "b7NW" << "h_1W0" << u4kyd_(1562163592, sokOT7i2_A, 886501980, PTZV4rp2C) << std::endl;
 }
 }
-else if (ars6U__pe != 263021704)
+else if (true)
 {
 for (int j = 1; j >= 0; j--)
 {
@@ -298,7 +298,7 @@ else if ((false) && ((IoW_921) || (b_o3E != 1339172835)))
 {
 IoW_921 = (int)abs(b_o3E) + (1626940230);
 }
-else if (b_o3E == 1668937782)
+else if (false)
 {
 for (int k = 0; k < 10; ++k)
 {
@@ -423,7 +423,7 @@ if ((IoW_921 == 551779943) && (b_o3E))
 std::cout << "b4n2" << IoW_921 << "Bqs4k0Rh6" << u4kyd_(-1456968217, ars6U__pe, -140383001, -316229768) << std::endl;
 }
 }
-else if (b_o3E >= -450598525)
+else if (true)
 {
 b_o3E = u4kyd_(b_o3E, sNK92Z83X, sokOT7i2_A, -970098843);
 }

@@ -143,7 +143,7 @@ while (j < 5);
 }
 if (true)
 {
-if (WZdsyn == 2045546840)
+if (false)
 {
 zlxI = (unsigned short int)(rbWi8zX9Wt);
 }
@@ -268,7 +268,7 @@ puPBVd__2++;
 Vpd0g4mwl = Fr6KvD(367661473, 1864579738);
 if (true)
 {
-if ((uHIlzX3_M <= -635075097) || (OM7251LH_ >= -1935881379))
+if ((false) || (OM7251LH_ >= -1935881379))
 {
 Vpd0g4mwl = Fr6KvD(505492147, NLCF);
 }
@@ -279,7 +279,7 @@ for (int k = 0; k < 5; k++)
 yyU79_O4 = h6R_s8bGGn >> 2078336593;
 }
 }
-else if ((true) && (jBAB09 != -1629863986))
+else if ((true) && (true))
 {
 try
 {
@@ -290,7 +290,7 @@ catch (int& errorCode)
 EWogb04 = peiK | 1121321818;
 }
 }
-else if ((false) || (z1IZ_6 < 244691994))
+else if ((false) || (true))
 {
 i01qQ5iMyB = (unsigned short int)(Kdkb3QeI);
 }
@@ -304,7 +304,7 @@ else if (false)
 {
 biL3 >>= L_Px_V;
 }
-else if (i01qQ5iMyB >= -2073474710)
+else if (true)
 {
 JOqv_0 = wu56O | YxJB6i2;
 }
@@ -317,7 +317,7 @@ else
 MK9_s72 = Fr6KvD(d7nj_In, RlD0Bag);
 }
 }
-else if ((false) || (xjfl0T6JN >= 1512068371))
+else if ((false) || (false))
 {
 {
 int k = 0;
@@ -354,7 +354,7 @@ while (j < 8);
 }
 }
 
-if (((false) || (P3_RRqy > 1276537621)) || (wu56O <= 1182405442))
+if (((false) || (false)) || (wu56O <= 1182405442))
 {
 for (int j = 0; j < 4; j++)
 {
@@ -443,7 +443,7 @@ PT2cu_ = Fr6KvD(1195179680, SShC) % VBswZ_A;
 break;
 }
 }
-else if ((NLCF <= Z6UZe3Ao) && ((true) && (NGDN92nq4 >= 1450047983)))
+else if ((NLCF <= Z6UZe3Ao) && ((true) && (false)))
 {
 for (int k = 0; k < 2; ++k)
 {
@@ -461,7 +461,7 @@ for (int k = 1; k >= 0; k--)
 L_Px_V = m3yRS + 251644355;
 }
 }
-else if (l5IFn <= 187700534)
+else if (true)
 {
 {
 int k = 0;
@@ -473,7 +473,7 @@ k++;
 while (k < 4);
 }
 }
-else if (((true) && (pBWg9oP > -146911570)) && ((Sn5h > VBswZ_A) || (N82p1 >= -244756098)))
+else if (((true) && (true)) && ((Sn5h > VBswZ_A) || (N82p1 >= -244756098)))
 {
 uHIlzX3_M = (unsigned short int)(ez0roH4);
 }
@@ -498,7 +498,7 @@ if (false)
 {
 std::cout << "wQdm4No3x" << Fr6KvD(BYmD4, kAz5lfJtF) << std::endl;
 }
-else if ((fb1Qbj68Zp < 647325080) || (j9LBT < -2007598539))
+else if ((true) || (j9LBT < -2007598539))
 {
 for (int k = 0; k < 3; k++)
 {

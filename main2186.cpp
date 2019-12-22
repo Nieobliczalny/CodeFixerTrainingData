@@ -158,7 +158,7 @@ if (bXx2Y > dW6L215)
 {
 fVE8W0S = (unsigned short int)(oL2Yi);
 }
-else if (((false) || (g16P >= 514283781)) && ((wig1Y3g9 != -2073935013) && (g_Gq)))
+else if (((false) || (false)) && ((wig1Y3g9 != -2073935013) && (g_Gq)))
 {
 if (JW4_ < -1880627872)
 {
@@ -223,7 +223,7 @@ int j = 3;
 do
 {
 --j;
-if (pURwT1YGA == 1182079529)
+if (false)
 {
 wig1Y3g9--;
 }
@@ -385,7 +385,7 @@ else if (exiP < dW6L215)
 {
 U7_pK_sVr ^= 977861912;
 }
-else if ((false) || ((D0Kby3 < dW6L215) && (oL2Yi != -2041797676)))
+else if ((false) || ((D0Kby3 < dW6L215) && (true)))
 {
 exiP = IfPk * 1340753575;
 }
@@ -833,7 +833,7 @@ for (int k = 0; k < 5; k++)
 PAv14g4 = wtnp3m | tj6zaS562S;
 }
 }
-else if ((false) || ((nC1meJ7cW < 899838074) && (g_Gq != -838929873)))
+else if ((false) || ((true) && (g_Gq != -838929873)))
 {
 U7_pK_sVr = clj3Hg01 | 1951645253;
 }
@@ -851,7 +851,7 @@ if (PAv14g4 == fVE8W0S)
 {
 g16P -= eDJHUD;
 }
-else if ((true) && (QeHK > Gau2S))
+else if ((true) && (true))
 {
 U7_pK_sVr = (N_Z9UUs9uE) ? JW4_ : -507577000;
 }

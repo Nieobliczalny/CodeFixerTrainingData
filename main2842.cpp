@@ -317,7 +317,7 @@ std::cout << s3KHRi2u4 << "W35qG_wr4a" << "yuHa_Tr" << "Tt8qC" << "YriRqegr" << 
 }
 else
 {
-if (jqdIuQme8K == lgAd4Is)
+if (false)
 {
 {
 int k = 7;

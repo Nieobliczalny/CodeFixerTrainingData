@@ -167,7 +167,7 @@ else if (((h_ZZ_) || (HD7U4A >= IIp0J6isc)) || (false))
 {
 U8__w6h = v0s17BAa2(U8__w6h);
 }
-else if ((az52C >= 1559468900) && (lb17mzSN6c >= hN_3b6U))
+else if ((false) && (lb17mzSN6c >= hN_3b6U))
 {
 YV8vT82JM = (yqstk < 1561934179) ? G2oDx2 : cU5K2oD;
 }

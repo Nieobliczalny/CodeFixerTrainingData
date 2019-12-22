@@ -218,7 +218,7 @@ H10Eg7 = (unsigned short)(pR6o7YLD + (916500305));
 }
 else if (true)
 {
-if ((mqo_ != t4V0) || ((Nwsx_ != -2027259202) && (M3HGcm <= 1684796110)))
+if ((mqo_ != t4V0) || ((true) && (M3HGcm <= 1684796110)))
 {
 M3HGcm = KrbG2nv();
 }

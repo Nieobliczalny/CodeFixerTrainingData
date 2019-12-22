@@ -244,7 +244,7 @@ else if (nIBhe_i5x > d2C_71s)
 {
 eOA5 = (int)abs(h6SSy);
 }
-else if (Rt78 >= -1143400306)
+else if (true)
 {
 iHF9Ox -= Lk9mytLpR8;
 }

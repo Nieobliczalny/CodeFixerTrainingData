@@ -131,7 +131,7 @@ xCh6GWE8 <<= 1173106963;
 }
 else
 {
-if ((lBX4H6sm) || (ly228 != -93390700))
+if ((lBX4H6sm) || (true))
 {
 HqaNe_6Q /= Bi2yn;
 }

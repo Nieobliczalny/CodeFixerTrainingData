@@ -139,7 +139,7 @@ S2KKvb = enTx1R * D_7v;
 }
 else if (true)
 {
-if (itAu847 != -768766888)
+if (true)
 {
 {
 int k = 5;
@@ -176,7 +176,7 @@ else if ((true) && (TMx7o0 < gX7wQKxk))
 {
 std::cout << "Kn7_r0_3" << "cEx37U0" << dId6E6 << enTx1R << std::endl;
 }
-else if (D_7v <= 459687625)
+else if (true)
 {
 if (Q_6tKu7Fl < -452974925)
 {
@@ -197,7 +197,7 @@ if (Q_6tKu7Fl)
 {
 if ((false) || (TMx7o0 & 1220748115))
 {
-if (((S2KKvb <= enTx1R) && (tkBqq < dId6E6)) && ((Ot8518mGzB <= 270081917) && (TMx7o0 < -2036209528)))
+if (((S2KKvb <= enTx1R) && (tkBqq < dId6E6)) && ((true) && (TMx7o0 < -2036209528)))
 {
 D_7v = tkBqq / hTXB0r;
 }
@@ -246,7 +246,7 @@ Q_6tKu7Fl = gX7wQKxk * hTXB0r;
 }
 else if (true)
 {
-if (((hTXB0r != 1513697667) || (Ot8518mGzB)) && (hTXB0r > 1047080530))
+if (((true) || (Ot8518mGzB)) && (hTXB0r > 1047080530))
 {
 for (int k = 0; k < 5; ++k)
 {

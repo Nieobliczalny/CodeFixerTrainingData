@@ -293,7 +293,7 @@ else if (W8Iv == G46Ivt4xI)
 {
 if ((V2n2AAyf == B8q597D78) && ((REU98Ab & Tn0wgLlnz) && (true)))
 {
-if ((E6S7 != 498419012) || (i58L58Z_ == hwO3m))
+if ((true) || (i58L58Z_ == hwO3m))
 {
 sO2r = (int)abs(xW0AsL);
 }

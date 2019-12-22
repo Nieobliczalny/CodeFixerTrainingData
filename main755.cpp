@@ -77,7 +77,7 @@ for (int k = 8; k >= 0; k--)
 T1YKwK = TN3yeXC(T1YKwK);
 }
 }
-else if ((T1YKwK & 718733130) && ((true) && (VF7_7Q16t7 >= 849758880)))
+else if ((T1YKwK & 718733130) && ((true) && (false)))
 {
 if (ln88b9U4oN & 61235621)
 {
@@ -159,7 +159,7 @@ tN99D_ = B68xMIoN >> Fl33ED;
 while (k >= 0);
 }
 }
-else if (((true) && (w_N6Z < -519872313)) && (B68xMIoN))
+else if (((true) && (false)) && (B68xMIoN))
 {
 switch (n5nkLS)
 {

@@ -359,7 +359,7 @@ ffMxB09 = DH_vXPr0(ffMxB09, TZzV1njg, 1750809864, -480901903);
 break;
 }
 }
-else if ((true) && ((i82Nb1 & -792615079) && (QGgEJIjsg9 != -249638455)))
+else if ((true) && ((i82Nb1 & -792615079) && (true)))
 {
 f0oEMs7B = (unsigned short)(I_eIqaJy);
 }

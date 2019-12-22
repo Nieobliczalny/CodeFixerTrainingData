@@ -186,7 +186,7 @@ else if (U8tie8Doz & R4MWvfvh)
 {
 U8tie8Doz <<= 337590876;
 }
-else if (((W71_xunB == -1424028648) || (tvw3SzI_)) || ((lL64sVm_H <= A33x8) || (lL64sVm_H != l_Pj2q9a)))
+else if (((false) || (tvw3SzI_)) || ((lL64sVm_H <= A33x8) || (lL64sVm_H != l_Pj2q9a)))
 {
 std::cout << z43g(W71_xunB, l_Pj2q9a, 2002079526, U8tie8Doz) << std::endl;
 }

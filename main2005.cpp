@@ -461,7 +461,7 @@ else
 {
 if (((true) || (ByYKQKOn >= 117366055)) || (S939 != -163825642))
 {
-if ((S939 < -1688832852) && (bkVkxIz_ & ByYKQKOn))
+if ((false) && (bkVkxIz_ & ByYKQKOn))
 {
 NU_T27Bu2J |= ByYKQKOn;
 }
@@ -509,7 +509,7 @@ break;
 
 for (int i = 0; i < 3; i++)
 {
-if ((false) || ((bkVkxIz_ == 1638339195) || (anj3g83 != 1510440793)))
+if ((false) || ((bkVkxIz_ == 1638339195) || (true)))
 {
 ByYKQKOn--;
 }
@@ -567,7 +567,7 @@ else if (anj3g83 < S939)
 {
 bkVkxIz_ = bkVkxIz_ % 586024543;
 }
-else if (anj3g83 <= 56897943)
+else if (true)
 {
 bkVkxIz_ = anj3g83 % ByYKQKOn;
 }

@@ -409,7 +409,7 @@ if (((PX_p9o_A1) || (f8_Td6vD3 & -872536173)) && ((f8_Td6vD3 > XTW7myaRYk) && (W
 Iy68Q4Oq = i76P0x + 326082175;
 }
 }
-else if ((false) || ((tdK1I3pD != 1780866965) || (s5IxNKv4wc != -1028161154)))
+else if ((false) || ((true) || (s5IxNKv4wc != -1028161154)))
 {
 cout << tQl_JOx << PX_p9o_A1 << g2VM2P8aYM << y4Sajt0 << endl;
 }

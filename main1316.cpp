@@ -644,7 +644,7 @@ for (int k = 0; k < 7; ++k)
 Z5mM31yLvx = RK22 + W_63f;
 }
 }
-else if (((false) && (oLdmQ <= y1_R2D7J53)) || (nU_R == C7D2))
+else if (((false) && (oLdmQ <= y1_R2D7J53)) || (false))
 {
 switch (G9eu_1)
 {

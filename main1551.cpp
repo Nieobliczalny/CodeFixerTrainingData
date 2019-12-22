@@ -109,7 +109,7 @@ default:
 oowP ^= Wo6l2_vVN;
 break;
 }
-if ((false) || (I7x6vIb == wejwJ))
+if ((false) || (false))
 {
 std::cout << "Ui5B63" << hieCQJl(vq5miZC, -225600839, Wo6l2_vVN, NoCGwji8MQ, zN16) << r_ZqJ4 << std::endl;
 }
@@ -142,7 +142,7 @@ while (j >= 0);
 }
 if (true)
 {
-if (((MMn3 >= bDn5) && (s0S06Vv >= 1775345278)) || (pw694I9_3 & RM7wR))
+if (((MMn3 >= bDn5) && (false)) || (pw694I9_3 & RM7wR))
 {
 r_cdt = (short int)(k7h3tP);
 }

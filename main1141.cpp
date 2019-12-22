@@ -256,7 +256,7 @@ std::cout << "Bk54LWhP" << a1Ad9ldt() << u142Y << std::endl;
 
 foJep = -1752056307 / v1H9b;
 std::cout << Z__w << std::endl;
-if (((Zu8fsHsC5 != -141640753) || (vygq5XI != qIn0Vt)) || (xoEZ0OIX_ < Sk9Fc))
+if (((true) || (vygq5XI != qIn0Vt)) || (xoEZ0OIX_ < Sk9Fc))
 {
 if (false)
 {

@@ -96,7 +96,7 @@ x4NoI_ = vKq9T();
 }
 else if ((false) || ((UA11Q1oH9_ >= TVt315s4) && (J6eMsk)))
 {
-if ((A4G_ == 236493452) || (mK1jg7AQ == -137135909))
+if ((false) || (mK1jg7AQ == -137135909))
 {
 it5N = UR4d231ap2 * P8s9_X6u;
 }
@@ -142,7 +142,7 @@ while (i < 3);
 }
 VCi2 = A2K_d(S4Jsotr3p3, 74078673, -243815165, mlI0FyT);
 
-if (UOxVv != 960799675)
+if (true)
 {
 for (int j = 9; j >= 0; --j)
 {

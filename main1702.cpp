@@ -112,7 +112,7 @@ while (i < 9);
 
 if (true)
 {
-if (((xTUDE >= E7N3vta6_R) && (U9j2Jv254 > Vz58)) || ((xTUDE > UXvvn3) || (Nj9337S >= U9j2Jv254)))
+if (((false) && (U9j2Jv254 > Vz58)) || ((xTUDE > UXvvn3) || (Nj9337S >= U9j2Jv254)))
 {
 Nj9337S = (int)abs(mKys5O7);
 }

@@ -288,7 +288,7 @@ else
 cout << dTgxO4J << vH_P9(Ue_9q, q5Hw43t0_, IxZ62i344I, Yn10vy_5, mV4DMlh) << "JXgwbRU" << Yjzb_PA(Ue_9q, -354942220, 1555679305, Yn10vy_5) << Yjzb_PA(Ue_9q, q5Hw43t0_, IxZ62i344I, -1206518118) << endl;
 }
 }
-else if (((true) && (ZPWDiYy2 & vBug6_um)) && (GAe5IvmJ > 1832600169))
+else if (((true) && (ZPWDiYy2 & vBug6_um)) && (false))
 {
 if (oJwVC04cEo & -2114608573)
 {

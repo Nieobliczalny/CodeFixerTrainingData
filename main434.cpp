@@ -125,7 +125,7 @@ if ((fPaAS2 != L8_Ya4x3N) || (false))
 {
 std::cout << CJ36go(651229646) << soxCP << "x73039" << std::endl;
 }
-else if (soxCP <= -323314634)
+else if (false)
 {
 {
 int k = 0;
@@ -138,7 +138,7 @@ BYp_ = CJ36go(-928260654) * iFwD6aM8W;
 }
 else if (true)
 {
-if (rI0A != 1200628918)
+if (true)
 {
 tq3KyE68 = OR__VK(-317892778, -2085622766) | OlJHL93Zh0;
 }

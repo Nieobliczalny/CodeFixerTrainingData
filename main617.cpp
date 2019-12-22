@@ -156,7 +156,7 @@ while (i >= 0);
 
 c6974Z7 <<= nohX_n24;
 
-if ((true) && (nohX_n24 != 1252629317))
+if ((true) && (true))
 {
 Fu_W1u2e9 = k28rYpG9ll | noQEXhp4u4;
 }

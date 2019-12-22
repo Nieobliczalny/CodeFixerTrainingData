@@ -147,7 +147,7 @@ WuDv = cgFX8FG(-1110594077, y1VQhXxP, k2n9xsX);
 }
 else
 {
-if ((jd__) && (C_jYEKGSZ == B19AB90_))
+if ((jd__) && (false))
 {
 y1VQhXxP = n1DY(y1VQhXxP, uF6l0TcL, B5JhdBe);
 }

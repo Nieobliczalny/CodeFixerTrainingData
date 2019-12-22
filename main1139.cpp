@@ -102,7 +102,7 @@ for (int i = 3; i >= 0; --i)
 mx5HNoB2T1 = (unsigned short)(kkVAuL4Y);
 }
 
-if ((ZshXX_) && ((false) || (g4b7l3E3 >= -853322334)))
+if ((ZshXX_) && ((false) || (true)))
 {
 for (int j = 0; j < 2; j++)
 {
@@ -205,7 +205,7 @@ AFEzc = CW875KQx(PhY_, pOQEVa, 1844380988, HisuZ1Tn, 694627144);
 }
 while (i < 9);
 }
-if (((D9xd2292HN & i6_lHRZk) || (NCO9Rz7RDb <= -628136019)) && (visf < g4b7l3E3))
+if (((D9xd2292HN & i6_lHRZk) || (false)) && (visf < g4b7l3E3))
 {
 {
 int j = 1;
@@ -249,7 +249,7 @@ if (tGi2306 <= 1986480924)
 O4OI0chR = (unsigned short)(rTSQMG9jc);
 }
 }
-if (wii9C2 >= 1920558124)
+if (false)
 {
 std::cout << "zfzW43Ps3W" << WcRn << Hh1Fm4_ << std::endl;
 }
@@ -446,7 +446,7 @@ lrz__YjT = JrIvSreY * 1616413483;
 }
 }
 }
-if ((true) && (fO1r86 <= 408760041))
+if ((true) && (true))
 {
 WcRn = wii9C2 - v0jbiRiTi;
 }
@@ -482,7 +482,7 @@ CA2rr >>= WcRn;
 }
 else if (true)
 {
-if (lgH7FK == -41827276)
+if (false)
 {
 switch (NkZw4mgp)
 {

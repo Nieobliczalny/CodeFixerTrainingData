@@ -240,7 +240,7 @@ z6i357v = D176h ^ 1966601060;
 }
 else
 {
-if (SqGa5P_Y == 254176927)
+if (false)
 {
 D176h = E0goR3 >> kyFKm;
 }

@@ -115,7 +115,7 @@ if (true)
 JqwX7__4g0 = JbFxr(HBtzL, L2JL, -315327571, JqwX7__4g0, l_ihsm7G5k);
 }
 }
-else if ((L2JL >= -794087578) || (YTrzJt != 1493242679))
+else if ((L2JL >= -794087578) || (true))
 {
 {
 int k = 1;
@@ -245,7 +245,7 @@ else if (false)
 {
 XI2pW = B_h8ZhHk(XI2pW, PRXGu5VBzs, -295189573);
 }
-else if (XI2pW == 673237429)
+else if (false)
 {
 aw7rj8gD = (int)floor(WZ2xokpZ);
 }

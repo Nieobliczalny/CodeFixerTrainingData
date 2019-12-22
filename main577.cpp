@@ -75,7 +75,7 @@ if (((O_M10r_mz7 >= 2013646085) || (X8gJ_8e_kW < P4oj)) || (O_M10r_mz7 != C5A_9)
 utz38 = (short int)(Kwe8L9y);
 }
 }
-else if (O_M10r_mz7 >= 1941675142)
+else if (false)
 {
 switch (y1rLM9Y83y)
 {
@@ -88,7 +88,7 @@ else if (((X8gJ_8e_kW > -628086306) || (utz38 != Py_QmS4)) && (true))
 {
 if (X8gJ_8e_kW > 1841507012)
 {
-if (O_M10r_mz7 < 1496478493)
+if (true)
 {
 D9Dd7 = (int)abs(RbN2543) + (252672889);
 }

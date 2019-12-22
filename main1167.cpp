@@ -211,7 +211,7 @@ catch (int& errorCode)
 eLNjXn = (int)abs(qNlEtz) + (-2029666148);
 }
 }
-else if ((QsQ6) && ((false) || (TNNyI < 1877393497)))
+else if ((QsQ6) && ((false) || (true)))
 {
 TNNyI = (short int)(qNlEtz);
 }

@@ -340,7 +340,7 @@ WE0M = (unsigned short int)(LP6C_5_Y);
 }
 else
 {
-if (((hQQ3 != -1084899533) && (M083abM_)) && (XZOoTF4q))
+if (((true) && (M083abM_)) && (XZOoTF4q))
 {
 z0d47 = N7X0k4_(-1752769852, F98yw38_2, 1725542032, 850035798);
 }

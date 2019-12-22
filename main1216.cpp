@@ -273,7 +273,7 @@ if ((X1v1nfq_8X == oV0__54) || (TV22lD2sG))
 {
 cout << O3_Ohcn(oV0__54, 547621324, ecx4j4j5_7, ck2Mn_a017, 509882411) << Ds6aesY4b(955549152, Zka9oVLfwd) << endl;
 }
-else if (((fj74 & 1430790975) || (true)) && (N33n5RR != 1071935712))
+else if (((fj74 & 1430790975) || (true)) && (true))
 {
 for (int k = 0; k < 3; ++k)
 {
@@ -294,7 +294,7 @@ else if (((true) || (g39Vi9)) && (YCzU5tEw >= SKoAap4ZT))
 {
 a1m30l2Q5 = O3_Ohcn(1858884542, D2KiQWo5, nLTJor, -1330617826, 1086767978);
 }
-else if (N33n5RR < -74386341)
+else if (false)
 {
 gfcc = (int)ceil(HoE5nymv);
 }

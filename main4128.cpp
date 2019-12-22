@@ -33,7 +33,7 @@ while (k >= 0);
 }
 }
 }
-else if ((true) && (gEY_cbY5qQ <= 1156490291))
+else if ((true) && (true))
 {
 try
 {

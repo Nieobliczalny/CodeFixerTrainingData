@@ -262,7 +262,7 @@ else
 std::cout << "msPtb" << TY_mv(-719868487) << S0OR67(E4634kSr, 403422641, -610269517, -1783490169, A2g9Hq) << "Rdctnjvk" << std::endl;
 }
 }
-else if ((Z678n >= EqQib0A) && ((R8J_ROtLP <= 316553310) || (OY99O1J3k > eTTvuvX)))
+else if ((Z678n >= EqQib0A) && ((true) || (OY99O1J3k > eTTvuvX)))
 {
 if ((RM0nXK != kRI3XQXkL) || ((kGsBt1_ != 1137023904) && (lRjj5Y9o3z & EqQib0A)))
 {
@@ -421,7 +421,7 @@ if ((ckkWOf) && (false))
 {
 J2U3htN_ <<= 638522171;
 }
-else if (s2s3oec_T >= -282740530)
+else if (true)
 {
 if (((E4634kSr) && (qw7hfW4 < z4NjSwUHy)) || ((CanmP6 >= RM0nXK) && (UdnQ2_f6 >= OY99O1J3k)))
 {

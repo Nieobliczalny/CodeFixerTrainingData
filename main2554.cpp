@@ -76,7 +76,7 @@ J_C2vw >>= 1706818298;
 }
 else if (true)
 {
-if (vOpAF == 408146046)
+if (false)
 {
 e91Lee31 = (unsigned short)(vOpAF);
 }
@@ -463,7 +463,7 @@ else
 cout << O8x8 << vOpAF << endl;
 }
 
-if (vOpAF != 600779584)
+if (true)
 {
 try
 {
@@ -486,7 +486,7 @@ cout << e91Lee31 << O8x8 << "j33Kqw" << J_C2vw << endl;
 while (j < 7);
 }
 }
-else if (((O8x8 != G2ch) && (true)) || (O8x8 == 1292961224))
+else if (((O8x8 != G2ch) && (true)) || (false))
 {
 try
 {
@@ -628,7 +628,7 @@ if (false)
 {
 J_C2vw = TnRx6fy ^ 1930349806;
 }
-else if (O8x8 <= rtYm7n)
+else if (false)
 {
 J_C2vw -= e91Lee31;
 }

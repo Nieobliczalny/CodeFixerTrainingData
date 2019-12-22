@@ -121,7 +121,7 @@ if (false)
 {
 T696M = (int)abs(sV_7);
 }
-else if (((Q9HlanYJb_ == 157928574) || (ln73R > 523811896)) || (fXDb >= -18844361))
+else if (((false) || (ln73R > 523811896)) || (fXDb >= -18844361))
 {
 TCK498117 = Cunys4C / 930124471;
 }
@@ -188,7 +188,7 @@ while (j >= 0);
 }
 else if ((true) && (sV_7 >= T696M))
 {
-if (((Cunys4C >= Q9HlanYJb_) || (gVtB)) && (W7Fk8Rb <= 598815586))
+if (((Cunys4C >= Q9HlanYJb_) || (gVtB)) && (true))
 {
 for (int k = 5; k >= 0; --k)
 {

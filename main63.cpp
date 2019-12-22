@@ -179,7 +179,7 @@ x573UN = F1x9153TC();
 }
 }
 }
-else if ((true) && (xGCwd8 < 2028227856))
+else if ((true) && (true))
 {
 {
 int j = 0;

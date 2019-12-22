@@ -103,7 +103,7 @@ else if (false)
 {
 std::cout << Pu0b_K2fS << "aaLdTtYF" << tqU1J(1820322066, -2034297302, -1370953885) << std::endl;
 }
-else if ((xDE8G6R1 < -243440235) || ((Ns9y5J != 1802817089) && (o8x4H7q == E1tB2rB5)))
+else if ((false) || ((Ns9y5J != 1802817089) && (o8x4H7q == E1tB2rB5)))
 {
 if (((eG0U & 1517247035) && (aMIlG >= 1073459341)) || (yODXd9f <= -1598283539))
 {
@@ -266,7 +266,7 @@ if (Cgbb)
 {
 XgZJc = tqU1J(q9ejfXJ1, 620589227, s9MXDT6S);
 }
-else if ((true) && (r75tDv4po >= -303493225))
+else if ((true) && (true))
 {
 B_z4 = Br6_61c(-485077080, -251843327, 1071223070, 922221370) | 343844338;
 }
@@ -416,7 +416,7 @@ else if ((SMDpJ6 <= IS3_V5TP) || (IS3_V5TP & 1623709836))
 {
 KfLI = l6I1zr9A5h(-1761599088, wV2UfP0p);
 }
-else if ((false) || (tw30s__e0 == 126519205))
+else if ((false) || (false))
 {
 for (int k = 0; k < 4; k++)
 {

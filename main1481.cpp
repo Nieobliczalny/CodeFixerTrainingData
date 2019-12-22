@@ -212,7 +212,7 @@ jvf_7 ^= 1399168322;
 }
 }
 }
-else if ((ptXFzqCe < 417825680) && (Jr4XR <= APXHVOoM))
+else if ((true) && (Jr4XR <= APXHVOoM))
 {
 Xg0Rg = jOf85q * lB74;
 }
@@ -230,7 +230,7 @@ xzZL = X66_96 + Z_12d2sf;
 }
 }
 }
-else if (lHSk_sc0h < 754499661)
+else if (true)
 {
 eA21oF0dL = x4QLT7fM | pry_4_GU;
 }

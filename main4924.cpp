@@ -187,7 +187,7 @@ else if (j_9kJVSJ & ICFo20)
 {
 t_Rc09uk = vj8nOv6P();
 }
-else if (((false) && (Nl21v_Djj < fZ6fEh4E)) || ((Nl21v_Djj) || (To_6 == 1308560433)))
+else if (((false) && (Nl21v_Djj < fZ6fEh4E)) || ((Nl21v_Djj) || (false)))
 {
 To_6 &= 401049323;
 }

@@ -248,7 +248,7 @@ else if (true)
 int j = 4;
 do
 {
-if (fk75Hw == O4SU5P8)
+if (false)
 {
 GWk8 = ZSKomME28K | 586632197;
 }
@@ -412,7 +412,7 @@ int j = 3;
 while (j >= 0)
 {
 j--;
-U7SV = (hO372GW >= w1glnc3) ? 481085354 : bx8i9lem25(ko44w0nQQ, 1823183665, fR2M);
+U7SV = (true) ? 481085354 : bx8i9lem25(ko44w0nQQ, 1823183665, fR2M);
 }
 }
 }
@@ -449,7 +449,7 @@ else
 hO372GW = w1glnc3 * ZSKomME28K;
 }
 }
-else if (((false) || (ZSKomME28K == -1622667224)) && (ko44w0nQQ & w1glnc3))
+else if (((false) || (false)) && (ko44w0nQQ & w1glnc3))
 {
 cout << "M6OF2uY4" << bx8i9lem25(-569942431, -386879026, -1020361901) << bx8i9lem25(ko44w0nQQ, 1306104891, -1758036814) << bx8i9lem25(-1563904562, -725634146, fk75Hw) << "Ivwx_6n45T" << endl;
 }

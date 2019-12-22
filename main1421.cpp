@@ -47,7 +47,7 @@ else if (((a163vc1k >= 2047922123) && (rY5944Lpw > 1598873796)) && ((Lwtd7vPd < 
 {
 z2PC3H -= rY5944Lpw;
 }
-else if (IJ50dGR >= 416324246)
+else if (false)
 {
 switch (Upp6K92N6)
 {

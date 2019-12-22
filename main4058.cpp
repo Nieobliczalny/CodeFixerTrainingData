@@ -59,7 +59,7 @@ if (E4zUBe != oAPaguL4F)
 fV97h_gxcA = eu_qlje0(rnu9);
 }
 }
-else if (M_7u != -1143340640)
+else if (true)
 {
 if ((zD13OjN <= -423157731) && (Wh7tp == 1636890070))
 {

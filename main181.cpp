@@ -321,7 +321,7 @@ cout << jgR2L9(rIgCFI4P, m_Si, -2045458849, Rrt8Ep_Otl) << endl;
 }
 else
 {
-if ((true) && ((Z2J8C) && (B133G >= 88484635)))
+if ((true) && ((Z2J8C) && (false)))
 {
 XuAY9 = jgR2L9(261298772, 1837742725, -1096842307, 425337609);
 }
@@ -443,7 +443,7 @@ FD9tC8 = (int)ceil(nB5u7ido91);
 }
 }
 
-if (an9r2 < -242968474)
+if (false)
 {
 if (O56Jy44sEY > cb6G7uT90)
 {

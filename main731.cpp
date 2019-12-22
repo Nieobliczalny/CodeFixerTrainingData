@@ -534,7 +534,7 @@ else
 {
 if (((ey1xmlQH < -65530966) && (p_RA0qn == BSFH)) || (l4768 >= TygRjDy2))
 {
-if (D7Rj9UsVZX > -410477034)
+if (true)
 {
 wh9a3hx85 = (int)floor(tdD284FPr);
 }

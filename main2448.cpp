@@ -496,7 +496,7 @@ if (((SPms & bBqhLEQY) && (Kq1dH < kLY_W_)) || (Ez1sRi53 & -1982307139))
 {
 r7peaw5__f = KcD4YpJD * I0fW7w1_;
 }
-else if ((true) && ((Zj1K4jI <= u4X7fsob) || (bT19N >= u4X7fsob)))
+else if ((true) && ((true) || (bT19N >= u4X7fsob)))
 {
 {
 int j = 6;

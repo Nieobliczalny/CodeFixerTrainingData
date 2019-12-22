@@ -20,7 +20,7 @@ int main(int argc, char** argv) {
 	short int	pJ0_06;
 		pJ0_06	=	1998013386;
 
-if (((pJ0_06 & CsgL) && (true)) && ((pJ0_06) && (CsgL <= -431057684)))
+if (((pJ0_06 & CsgL) && (true)) && ((pJ0_06) && (false)))
 {
 try
 {
@@ -46,7 +46,7 @@ if ((false) && (pJ0_06 >= 830411141))
 {
 pJ0_06--;
 }
-else if (pJ0_06 <= 345838592)
+else if (true)
 {
 CsgL = B9K4tX(-962528829, -209389804, -1745422128);
 }
@@ -164,7 +164,7 @@ break;
 }
 try
 {
-if (((false) && (pJ0_06 <= CsgL)) || (pJ0_06 > 861670055))
+if (((false) && (pJ0_06 <= CsgL)) || (false))
 {
 if (CsgL != -913449960)
 {
@@ -326,7 +326,7 @@ if (((pJ0_06) || (CsgL & pJ0_06)) && ((pJ0_06 & 569659090) && (false)))
 {
 pJ0_06 &= 479735787;
 }
-else if (CsgL != 931784996)
+else if (true)
 {
 if (CsgL != 1572142693)
 {
@@ -498,7 +498,7 @@ else if (pJ0_06 < CsgL)
 {
 pJ0_06 %= 1502404413;
 }
-else if (pJ0_06 != -779040180)
+else if (true)
 {
 pJ0_06 <<= 1173730664;
 }
@@ -510,7 +510,7 @@ else if ((CsgL >= -349895037) && (pJ0_06 > -2128890808))
 {
 pJ0_06 %= 514692157;
 }
-else if ((CsgL & 1895642098) && ((CsgL >= -1881777360) || (pJ0_06 > CsgL)))
+else if ((CsgL & 1895642098) && ((true) || (pJ0_06 > CsgL)))
 {
 pJ0_06 = pJ0_06 % 962892810;
 }
@@ -677,7 +677,7 @@ int j = 3;
 while (j >= 0)
 {
 j--;
-if (pJ0_06 > -1545661858)
+if (true)
 {
 pJ0_06 = pJ0_06 >> 1974676960;
 }
@@ -705,7 +705,7 @@ CsgL = (unsigned char)(pJ0_06 * CsgL);
 }
 CsgL = B9K4tX(1855573573, -159241972, -965856302);
 CsgL = (unsigned char)(pJ0_06 * CsgL);
-if (((true) && (CsgL <= pJ0_06)) && ((CsgL == -1321292215) || (CsgL & -611149592)))
+if (((true) && (CsgL <= pJ0_06)) && ((false) || (CsgL & -611149592)))
 {
 if (((pJ0_06 != 1347066081) || (CsgL < 658948227)) || (CsgL < 277084746))
 {

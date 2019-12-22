@@ -145,7 +145,7 @@ std::cout << Gm66Z0Tw6(1629726566, -1076178303, k3H72VMo8c) << Q27l5 << std::end
 aFgZ01 = (int)abs(jBxM5MND) * 0;
 I8xz__35_9 = aFgZ01 / aFgZ01;
 
-if (k3H72VMo8c != -2097153315)
+if (true)
 {
 I8xz__35_9 = (int)floor(jBxM5MND);
 }

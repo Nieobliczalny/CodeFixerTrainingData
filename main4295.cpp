@@ -269,7 +269,7 @@ else
 std::cout << u5X3Xc7c9Q << "ZJJi" << "DvnMlxKX3v" << "rGGG" << ktL10y7w << std::endl;
 }
 }
-else if ((false) || (lZ8b66WoL == 2040682417))
+else if ((false) || (false))
 {
 XbrU = (unsigned int)(q2N8I);
 }
@@ -532,7 +532,7 @@ break;
 }
 }
 }
-if ((false) || (lZ8b66WoL >= -265629226))
+if ((false) || (true))
 {
 switch (v35Ut)
 {

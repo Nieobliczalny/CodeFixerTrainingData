@@ -275,7 +275,7 @@ nFXe3_2O = x3H_f5(nFXe3_2O);
 }
 else
 {
-if (Li7Zts >= 650945534)
+if (false)
 {
 wsi_2X = x3H_f5(wsi_2X);
 }

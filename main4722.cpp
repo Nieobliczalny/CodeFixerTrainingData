@@ -142,7 +142,7 @@ if (true)
 {
 if (((P9500a0) || (keyoA83QD & 1696039002)) || (u9T91Iu_a7 <= -1548032754))
 {
-if (((TY934Rj > d3H5eDK) || (CGxPWXM1V != 1335077542)) || (p2eo9F & 1639710689))
+if (((TY934Rj > d3H5eDK) || (true)) || (p2eo9F & 1639710689))
 {
 ap9or61 = (int)ceil(zbPxnZx2);
 }

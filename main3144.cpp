@@ -233,7 +233,7 @@ k++;
 }
 }
 }
-if (NXTOa <= 978562084)
+if (true)
 {
 NXTOa = u2ZG_(-1481046301, -498433113, 826562257, zpuG);
 }
@@ -423,7 +423,7 @@ if ((rp_h >= NXTOa) && ((IL947E0A3_) || (NXTOa != O31Gn_)))
 {
 NXTOa = HputCm(1513298363, -889061624, -1751556262);
 }
-else if (P32yF <= -637168875)
+else if (false)
 {
 zpuG = u2ZG_(PW372cYw, 988378129, rp_h, 1957712553) & 1543194029;
 }
@@ -470,7 +470,7 @@ if (false)
 rp_h |= DQ18yR;
 }
 }
-else if (q_w51DpXCY < 823199695)
+else if (true)
 {
 {
 int k = 4;

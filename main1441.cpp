@@ -115,7 +115,7 @@ else if (false)
 {
 yzQ0n__6 = (int)ceil(WfW_TL);
 }
-else if (RauXM9n65 == 1044503349)
+else if (false)
 {
 fNYiqir90V = (unsigned int)(dCUT2);
 }
@@ -148,7 +148,7 @@ if (false)
 {
 R2Z1qO9gC <<= 187548099;
 }
-else if (RauXM9n65 <= -1572594269)
+else if (false)
 {
 cOE61nf7 %= R2Z1qO9gC;
 }

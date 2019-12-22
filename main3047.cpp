@@ -105,7 +105,7 @@ cRU666Lo9 = lXu4G(rLSF, Q0HXilwh6Y);
 }
 else
 {
-if ((w_D24YOf < 1657684905) || (rLSF & 1817702666))
+if ((true) || (rLSF & 1817702666))
 {
 pZs4_cU--;
 }
@@ -357,7 +357,7 @@ WfVTG *= le48hVEBYj;
 }
 }
 }
-else if (((false) || (u4a9T555BB <= -1284771355)) && (Qu2IEX7))
+else if (((false) || (false)) && (Qu2IEX7))
 {
 switch (x3K3Cjdqu)
 {

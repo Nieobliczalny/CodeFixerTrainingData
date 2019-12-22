@@ -401,7 +401,7 @@ std::cout << jSuX8 << WszJTfrFHP << std::endl;
 }
 else if (true)
 {
-if ((k_44Le != 150810319) || (pv23By9 == -109393303))
+if ((true) || (pv23By9 == -109393303))
 {
 k_44Le = MGtJZ__7(443210680, jSuX8, 525931004, pv23By9, -598308170);
 }
@@ -455,7 +455,7 @@ std::cout << GadiU9 << std::endl;
 }
 else if (BKvam)
 {
-if ((k_44Le < 1399590502) || (Ot4_xfhq < JEBZ2))
+if ((true) || (Ot4_xfhq < JEBZ2))
 {
 for (int k = 0; k < 2; ++k)
 {
@@ -501,7 +501,7 @@ if (pv23By9 > WszJTfrFHP)
 {
 GadiU9 = Iqe9Z_eT | K9C_7;
 }
-else if ((q1yTcxo753 <= k_44Le) || ((false) || (gvB7z0 > 110547155)))
+else if ((q1yTcxo753 <= k_44Le) || ((false) || (false)))
 {
 llZg2fV = kG1DoxA(-926112750, -498841323, 412723544, k_44Le, GadiU9);
 }

@@ -316,7 +316,7 @@ if (PgGO_d & DJCGK)
 {
 G2v_53U9Q = xomn6ZR8L(G2v_53U9Q, p6817hYG4i, 2123262463);
 }
-else if (PgGO_d >= -1066928935)
+else if (true)
 {
 ZYNbaB5eK = (J9t_f > F61710o) ? aanY1 : 640699187;
 }

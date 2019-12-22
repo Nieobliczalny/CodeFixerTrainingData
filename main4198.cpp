@@ -109,7 +109,7 @@ std::cout << "S2kB" << std::endl;
 }
 else if (U59pu < Q2S1v)
 {
-if (((uQvmB & -1133728951) || (b94_0MV0 != QFS4nui0)) && ((l3FpS5q_3g) || (YfSNy != -2093329400)))
+if (((uQvmB & -1133728951) || (b94_0MV0 != QFS4nui0)) && ((l3FpS5q_3g) || (true)))
 {
 IMBfEr = (int)floor(QFS4nui0);
 }
@@ -537,7 +537,7 @@ else
 NvEhv = PDaW0e(-1434370906, ao511Q488, hvYtr0M, hfnK8Wk, N1RW);
 }
 }
-else if (K7gDO <= -1854226417)
+else if (false)
 {
 uQvmB = PDaW0e(1216607726, 766681829, -1640012948, pKP7upStKo, MF6UR);
 }
@@ -723,7 +723,7 @@ if ((true) && ((MSxfvd < CybfB518) || (Yy9P_II4Ay == 1406183105)))
 {
 std::cout << yWK943vZ(xy0WfGsHT, -1149943180) << "HK00FkOvq" << F8ma30(xy0WfGsHT, 676868718, b94_0MV0, -421938800, Ift6) << std::endl;
 }
-else if ((N1RW <= -1439618973) && ((m10_J8 != bh_3QTin) || (Sx_1l49 == -1130337996)))
+else if ((false) && ((m10_J8 != bh_3QTin) || (Sx_1l49 == -1130337996)))
 {
 try
 {

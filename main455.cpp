@@ -67,7 +67,7 @@ if (true)
 LCnofD = MSA_8l7H(-946775296, HUEc);
 }
 }
-else if (((g4_2 > 1499714776) && (n167p9u4 & MfSbpLD6Ze)) && (ol2v <= yIvz8m826g))
+else if (((false) && (n167p9u4 & MfSbpLD6Ze)) && (ol2v <= yIvz8m826g))
 {
 if (((q3hDH >= -996570276) || (ol2v != MfSbpLD6Ze)) || (m37_XU2 < 446400595))
 {

@@ -171,7 +171,7 @@ else if (false)
 {
 V8WcM = (short)(IBzs_);
 }
-else if (p3y_7POTr <= -2048684104)
+else if (false)
 {
 V8WcM %= 758255515;
 }
@@ -435,7 +435,7 @@ V8WcM = (int)abs(sbuPd);
 break;
 }
 }
-else if (((false) || (x1l5C < p3y_7POTr)) || (p3y_7POTr >= t0j0wo))
+else if (((false) || (x1l5C < p3y_7POTr)) || (false))
 {
 p3y_7POTr = (short)(IBzs_);
 }
@@ -530,7 +530,7 @@ if ((Me0IX8G > -989478891) && (false))
 {
 p3y_7POTr = (short)(V8WcM);
 }
-else if (V8WcM >= IBzs_)
+else if (false)
 {
 if (V8WcM <= 688006907)
 {

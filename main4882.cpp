@@ -62,7 +62,7 @@ else if (((true) || (m3O2 & 84269762)) && ((m3O2 == -828449799) || (m3O2 != -872
 {
 ras809jW = (char)(spc128Xfc * ras809jW);
 }
-else if ((spc128Xfc != -1632307503) || ((ras809jW) && (spc128Xfc != w31yrFnDt)))
+else if ((true) || ((ras809jW) && (spc128Xfc != w31yrFnDt)))
 {
 std::cout << "D32XOXn" << std::endl;
 }

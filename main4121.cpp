@@ -275,7 +275,7 @@ Js0jekWe = (int)ceil(YgBK8);
 }
 else
 {
-if ((true) && ((K_Srrx >= 211329761) && (S2fdW > JKC_)))
+if ((true) && ((false) && (S2fdW > JKC_)))
 {
 XdY8A_ = (unsigned char)(KHm578fte);
 }

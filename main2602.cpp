@@ -107,7 +107,7 @@ Uw_B = aauY5TZimr + 1490951747;
 }
 else if (Uw_B <= m2z3Yq)
 {
-m2z3Yq = (Uw_B == -760634778) ? m2z3Yq : p4bLx56S6a;
+m2z3Yq = (false) ? m2z3Yq : p4bLx56S6a;
 }
 else if (p4bLx56S6a)
 {

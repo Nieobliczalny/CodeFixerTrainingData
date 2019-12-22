@@ -307,7 +307,7 @@ while (i >= 0);
 
 if ((true) || ((rc9p5kWj6) || (oom0SIcDt5)))
 {
-if ((bq6bYcsH == gP9rWNi6) || ((y9Yb <= -648336235) || (gP9rWNi6 != 461014374)))
+if ((bq6bYcsH == gP9rWNi6) || ((false) || (gP9rWNi6 != 461014374)))
 {
 if ((gP9rWNi6 == -377322400) || (GbrzX822F))
 {

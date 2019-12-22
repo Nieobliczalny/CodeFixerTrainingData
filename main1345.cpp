@@ -217,7 +217,7 @@ else if (false)
 {
 zZhZ += 1478454605;
 }
-else if ((ZY0GYbc > -303795814) || ((t297_4NG > Ah8qQO7gyI) && (HvCtzk9 != -1576550156)))
+else if ((true) || ((t297_4NG > Ah8qQO7gyI) && (HvCtzk9 != -1576550156)))
 {
 Hg36a += 1368047135;
 }

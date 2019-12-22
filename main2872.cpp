@@ -128,7 +128,7 @@ do
 {
 if (true)
 {
-if ((ucjH9W5WX6 <= 837965867) && (rJ5Z >= 218511592))
+if ((true) && (rJ5Z >= 218511592))
 {
 OXrpe = (int)abs(zW4l_B9);
 }

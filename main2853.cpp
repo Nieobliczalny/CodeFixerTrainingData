@@ -177,7 +177,7 @@ for (int k = 3; k >= 0; --k)
 kPse0ZEnH = riDzgp7(-855790914, -1793220001);
 }
 }
-else if (Y1M6 == -1518600882)
+else if (false)
 {
 if (Zw2ka24E3 > PJ45Dy6)
 {

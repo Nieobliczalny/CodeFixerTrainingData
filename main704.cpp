@@ -59,7 +59,7 @@ else if (jrz72_Xi)
 {
 hwEMo1 = ziLqBigr(-820673239, hwEMo1, -1459631269, rK5yT);
 }
-else if (Smq_ == 1997051979)
+else if (false)
 {
 if (false)
 {

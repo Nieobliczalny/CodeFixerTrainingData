@@ -378,7 +378,7 @@ ixFMsb = (unsigned int)(F6VSk7x);
 }
 else if (((xbC7 >= F6VSk7x) || (H3u241J > J1wp7F92)) || ((D_X5 >= Mjg9) || (true)))
 {
-if ((D_X5 > 820214734) && ((H3u241J) || (t6aa16_t <= I19r5js)))
+if ((false) && ((H3u241J) || (t6aa16_t <= I19r5js)))
 {
 h9KX3 = cY9Y9890O(h9KX3, 718681631);
 }
@@ -394,7 +394,7 @@ else if (F6VSk7x != -709826044)
 {
 J1wp7F92 = (D_X5) ? cY9Y9890O(h9KX3, -953849123) : -481724673;
 }
-else if ((dTO2MH5E_) || (dTO2MH5E_ != 1838053558))
+else if ((dTO2MH5E_) || (true))
 {
 Ovta++;
 }

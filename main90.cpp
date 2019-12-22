@@ -242,7 +242,7 @@ if (b703V <= I_O6HuSgS6)
 {
 F_nv4yE3 = (int)abs(oCK4Bhb4);
 }
-else if (sV8W0QTy < 1228543356)
+else if (true)
 {
 d67v = (int)ceil(b6koVb);
 }
@@ -457,7 +457,7 @@ pqU_A75h3 = (int)abs(g8w7FgTWXS);
 break;
 }
 
-if ((DF7Op >= 1071184568) && ((false) || (o4CV_9q2 >= 796753757)))
+if ((DF7Op >= 1071184568) && ((false) || (false)))
 {
 try
 {

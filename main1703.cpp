@@ -387,7 +387,7 @@ if (false)
 {
 qs_b2B = NBf6G(757476413, LD0svOK);
 }
-else if (zDMPWr != 86767438)
+else if (true)
 {
 try
 {

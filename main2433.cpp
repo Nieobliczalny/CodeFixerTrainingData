@@ -198,7 +198,7 @@ else if (false)
 {
 std::cout << "DjDa1c" << std::endl;
 }
-else if ((z_K4xmP & ImqyS_6) && ((bLA2InT >= 1075761833) && (nqmchiZ == u7eH2o2sZ)))
+else if ((z_K4xmP & ImqyS_6) && ((false) && (nqmchiZ == u7eH2o2sZ)))
 {
 for (int j = 2; j >= 0; --j)
 {

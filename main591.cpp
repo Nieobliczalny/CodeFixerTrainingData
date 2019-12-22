@@ -250,7 +250,7 @@ else
 S7BbX5o = M6y7m(1190023813, ghW03j, 426308030);
 }
 
-if (A7Zo > -597672542)
+if (true)
 {
 hkj80_2O = HsuAW3tSo(-1566228999, 1545074653, 1787016167, kxM86bB);
 }
@@ -464,7 +464,7 @@ break;
 Bzl0 = Ob6oMa - 1357322275;
 b0f5 = HsuAW3tSo(206350799, 449249140, uh_4BM6u, 161306406);
 t47k4dRya = xpe2Q2f * ZlJT9AqZE;
-if ((false) || (XG9EsH2o != mCdEW9rJ))
+if ((false) || (true))
 {
 {
 int j = 1;

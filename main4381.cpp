@@ -402,7 +402,7 @@ for (int i = 3; i >= 0; --i)
 {
 if (DYu5g != B265td)
 {
-if (((true) && (M2Y_ & ZewXf2M36)) && (HD5_2 != cykV19y8))
+if (((true) && (M2Y_ & ZewXf2M36)) && (true))
 {
 Fk2HL = (int)abs(dDUc);
 }

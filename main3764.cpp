@@ -121,7 +121,7 @@ if (xfuZ57vBK <= ZF1eV4k)
 xfuZ57vBK *= 1928618829;
 }
 }
-else if (Rpr600C0Y >= 2045643498)
+else if (false)
 {
 try
 {
@@ -252,7 +252,7 @@ else if (ozY57 >= guT10)
 {
 Pjdv0EY61n = Rpr600C0Y ^ guT10;
 }
-else if (xbFSXWV <= AklLM5y)
+else if (true)
 {
 FUgiCVI = (unsigned char)(MeH3w);
 }
@@ -263,7 +263,7 @@ if ((xbFSXWV) || (Rpr600C0Y <= OAI5ZD13q6))
 guT10 <<= 387054287;
 }
 }
-else if (FUgiCVI <= -397696124)
+else if (false)
 {
 std::cout << Pjdv0EY61n << std::endl;
 }
@@ -391,7 +391,7 @@ for (int k = 0; k < 7; ++k)
 Pjdv0EY61n = ZF1eV4k % 1176137970;
 }
 }
-else if (((xbFSXWV < -1931666798) && (ZF1eV4k != -538391248)) || (xbFSXWV))
+else if (((false) && (ZF1eV4k != -538391248)) || (xbFSXWV))
 {
 switch (xfuZ57vBK)
 {
@@ -495,7 +495,7 @@ if (false)
 {
 ZF1eV4k++;
 }
-else if (FUgiCVI <= -1012978990)
+else if (false)
 {
 switch (xbFSXWV)
 {

@@ -164,7 +164,7 @@ else if (KEytVMSi == jB5kC3yqu)
 {
 if (((kE77x < xDMw08O) || (oit0g66J27 <= 157050007)) && (true))
 {
-if ((E9Xbs4 <= -1884801868) || (aVqF3P5t > D4XT03OLK))
+if ((false) || (aVqF3P5t > D4XT03OLK))
 {
 D4XT03OLK = jB5kC3yqu + R8CEG;
 }
@@ -249,7 +249,7 @@ else
 T_O5q = CXGi6Ui();
 }
 }
-else if ((false) || (Fl7u >= -1158303934))
+else if ((false) || (true))
 {
 std::cout << CXGi6Ui() << CXGi6Ui() << Rq9sb1SfR7 << kE77x << "PF9_0H35" << std::endl;
 }

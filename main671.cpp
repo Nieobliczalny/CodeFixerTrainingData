@@ -167,7 +167,7 @@ std::cout << "Sow1" << S310r8 << BM08G2J4(XkA9h, Rkrg3_6, E9l1Y7) << x1T6 << std
 }
 else
 {
-if ((z18zAX68q <= -960047549) && ((false) || (oV7_WK6pD9 >= FL_jt)))
+if ((z18zAX68q <= -960047549) && ((false) || (false)))
 {
 switch (CUXM8)
 {

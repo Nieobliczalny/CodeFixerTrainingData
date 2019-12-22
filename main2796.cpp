@@ -24,7 +24,7 @@ int main(int argc, char** argv) {
  unsigned long R8C_NOb, i7woOg35_F;
   R8C_NOb = i7woOg35_F = 0;
 
-if (((true) && (XV4u28 == -659395605)) && (y2g65E49J != -1752396509))
+if (((true) && (false)) && (y2g65E49J != -1752396509))
 {
 if (i7woOg35_F)
 {
@@ -87,7 +87,7 @@ else if (((false) && (f3a58ej > EMWw2)) && ((iRwZry == -1447840161) && (tz0_mDNd
 {
 cout << aD90H7H() << "z1cr" << "rUhErpC5" << "SO_jH42_I4" << endl;
 }
-else if ((XV4u28 <= 1403079701) && (Dxh_eh))
+else if ((true) && (Dxh_eh))
 {
 for (int k = 5; k >= 0; --k)
 {

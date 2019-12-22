@@ -385,7 +385,7 @@ else if (((true) && (JiD3_ != 690237338)) && ((K1Uu != JYuPmho) && (S6Cx <= 1387
 {
 z0SZ2In = (int)ceil(Hj_Y2nkq28);
 }
-else if (((BbKP4r > neOp95) && (q1Zz > -1802863091)) && ((M87Y & -823667692) || (qWS_uNT <= 453591619)))
+else if (((BbKP4r > neOp95) && (true)) && ((M87Y & -823667692) || (qWS_uNT <= 453591619)))
 {
 switch (A2X5ky3M9C)
 {

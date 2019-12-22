@@ -171,7 +171,7 @@ if ((true) && (FNW7 & Tjwvk))
 {
 X89tad = j_GdXBTMbq(-117292903, 300187792);
 }
-else if ((DHx12g < 1932980834) || ((Fez5_ >= -2001822901) || (i4767 <= kkG_ls3yQK)))
+else if ((true) || ((Fez5_ >= -2001822901) || (i4767 <= kkG_ls3yQK)))
 {
 for (int j = 4; j >= 0; j--)
 {

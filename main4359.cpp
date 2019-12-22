@@ -82,7 +82,7 @@ wk_puMh6i *= T2kUUb2;
 j_Tj0s8xr8 = (unsigned short)(T2kUUb2 + (499745747));
 if (((x_fw == r8kM) || (WAGls04I4u >= SI_lzVeyb2)) || (true))
 {
-if (SKgI2 > -1600560752)
+if (true)
 {
 Wb2N = KPAP0tw7t << mT1F34q5;
 }
@@ -180,7 +180,7 @@ cout << L61All << "X1S914e7mL" << "yJ53A1_" << "i5_W0" << "uVQA07x" << endl;
 
 if (true)
 {
-if (QRZOlb > -76391438)
+if (true)
 {
 cout << "o_NT" << "SP5d9" << Fos5(-1343805876, -963388571) << endl;
 }

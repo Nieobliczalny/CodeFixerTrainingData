@@ -195,7 +195,7 @@ if ((false) && (JtkIupg != hx__N))
 {
 aVGfF |= 802481343;
 }
-else if (Sfdw > -263779091)
+else if (true)
 {
 switch (VQNx_TEr9)
 {

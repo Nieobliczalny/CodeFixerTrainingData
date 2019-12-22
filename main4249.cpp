@@ -385,7 +385,7 @@ else if ((yJnb_dA > -366448967) || ((c___13) || (c___13 != HMA3)))
 {
 HMA3 &= 1606237370;
 }
-else if ((z2mz3D > c___13) || (OHx_E_u3D >= 1314282424))
+else if ((z2mz3D > c___13) || (false))
 {
 Dq1bhl33 = S700zs_(Dq1bhl33);
 }

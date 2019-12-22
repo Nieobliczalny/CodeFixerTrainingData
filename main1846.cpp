@@ -115,7 +115,7 @@ if (((Q1_06JFw9 != ofnztha2) || (wq_Y <= U2QqjoX0D)) && (false))
 {
 tdq64y9 = (unsigned short)(ofnztha2);
 }
-else if (I7i2 <= 558101573)
+else if (true)
 {
 try
 {
@@ -146,7 +146,7 @@ else if (b7sV >= ofnztha2)
 {
 Cpp5g7vipQ = (int)abs(kvSg1);
 }
-else if (((true) && (ml8j0kymH)) || (Q1_06JFw9 < 1280206233))
+else if (((true) && (ml8j0kymH)) || (true))
 {
 g3T1QswXAA = ofnztha2 / rg_cO1J;
 }

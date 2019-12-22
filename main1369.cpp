@@ -332,7 +332,7 @@ j++;
 zDE5eK2e4Z = (long double)(TwWY);
 if (((md_2) && (true)) || (sweMKlg >= -359399619))
 {
-if (((EorjfHh != uY0_oe) && (VT_Uhv95 >= 702525412)) || (EorjfHh <= 68285999))
+if (((EorjfHh != uY0_oe) && (false)) || (EorjfHh <= 68285999))
 {
 {
 int k = 0;

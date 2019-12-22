@@ -309,7 +309,7 @@ if (false)
 {
 I050 = IEymUq9pOs % 818576748;
 }
-else if (((YpOu9C >= 619777220) || (Sn4H17AFJq != VJlP)) || (AFfq1F == Cbm8e2086))
+else if (((false) || (Sn4H17AFJq != VJlP)) || (AFfq1F == Cbm8e2086))
 {
 I4I8ou += i714_S6X_6;
 }

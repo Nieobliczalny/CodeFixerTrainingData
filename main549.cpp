@@ -806,7 +806,7 @@ i--;
 }
 
 maqj4dxh_ = (unsigned int)(A3q_9);
-if ((true) && (N9_76f >= Z80W7Y))
+if ((true) && (true))
 {
 if (W_Cs_AbI == S5S17)
 {

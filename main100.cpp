@@ -135,7 +135,7 @@ else if (false)
 {
 p361 = o_DNY ^ 929144147;
 }
-else if (Inh_K9e != NIY2U_y8)
+else if (true)
 {
 y_I9 = gXmN15m | RRNXv;
 }
@@ -462,7 +462,7 @@ else
 iTJwvnTX = (int)abs(LSf150);
 }
 
-if ((qyau3Qe0 < f02_t1M_W) && ((true) && (ptZu < NIY2U_y8)))
+if ((qyau3Qe0 < f02_t1M_W) && ((true) && (true)))
 {
 std::cout << "QBg93_1TH" << "N3_VO8" << v5cwDu4 << "y1CpLx1" << std::endl;
 }

@@ -119,7 +119,7 @@ while (k >= 0);
 }
 
 s7SX481N9 = (int)abs(Z31R2h6);
-if ((true) && (lVJTi >= 1814798823))
+if ((true) && (false))
 {
 {
 int j = 0;

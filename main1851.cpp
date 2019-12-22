@@ -193,7 +193,7 @@ JB1v79FC9r = (int)ceil(lna6EtV);
 while (k >= 0);
 }
 }
-else if (((nCB8liBzpY < KX75) && (true)) && (UTO2_d == -1319636652))
+else if (((nCB8liBzpY < KX75) && (true)) && (false))
 {
 RgTw5Aq = Q8b4g1d(866522026);
 }

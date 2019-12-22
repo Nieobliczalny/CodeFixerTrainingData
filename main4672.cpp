@@ -138,7 +138,7 @@ b4VS9 ^= ts8H;
 }
 else if ((false) || (L1_E14IPLC <= yhyNOV1nt))
 {
-if (GlX1Dd > 824039189)
+if (false)
 {
 b4VS9 = b4VS9 << 141977737;
 }
@@ -446,7 +446,7 @@ else if ((L1_E14IPLC < 285130716) || (false))
 {
 Tgfs = (unsigned long long)(YFlO_V_);
 }
-else if (((ts8H == ggqD34G68i) || (o0A68ay6Jc < 1301775457)) || (dr9NE_ >= MqDr9yhe))
+else if (((ts8H == ggqD34G68i) || (true)) || (dr9NE_ >= MqDr9yhe))
 {
 ts8H = b4VS9 / 2063436722;
 }

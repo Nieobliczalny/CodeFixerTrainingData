@@ -439,7 +439,7 @@ lcVw21f_tg = L0AAlNJ(kUAu855r, oIXkb, jt20TfRtb);
 }
 else if ((VJR46n < 531500105) || ((qb7_B8qG9 <= -237263276) && (V1j_0wRp1 != -1624052850)))
 {
-if (R1enc4l <= 66339725)
+if (true)
 {
 v3Zk2A0 = (int)abs(Wm23C);
 }

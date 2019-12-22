@@ -141,7 +141,7 @@ std::cout << u71Wu_ << std::endl;
 j930ckVR78 = (int)floor(FHG3);
 M6hN__ = (long double)(Yq6D8wU);
 
-if (X7Ue != -1528635568)
+if (true)
 {
 if (((cOFOQ >= A11Ee9Z56) && (X4CtQ0YA & -1714865012)) && (u71Wu_ != vQAwuWk3_6))
 {

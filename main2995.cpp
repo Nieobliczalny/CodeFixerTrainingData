@@ -644,7 +644,7 @@ else if (Iy7SwWzq >= dHb1Qmr6d)
 {
 std::cout << Sfoh5M666(1352439578, 41318582, Y46P0, -1991495279) << std::endl;
 }
-else if (h2hWY3 > -1534702156)
+else if (true)
 {
 Y46P0 -= 1606965674;
 }

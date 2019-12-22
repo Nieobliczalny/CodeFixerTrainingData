@@ -63,7 +63,7 @@ else
 Kr4N -= x4W0qSZF;
 }
 }
-else if (S27ZMKcb >= 2045795303)
+else if (false)
 {
 for (int k = 1; k >= 0; k--)
 {

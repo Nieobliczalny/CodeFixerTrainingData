@@ -240,7 +240,7 @@ else if ((l9N7) && (A2fQ < F94AtZ03s))
 {
 try
 {
-if (((T0z4h3 == En19JE) || (xMof <= -486325248)) && (Z_L30o_3DJ))
+if (((T0z4h3 == En19JE) || (false)) && (Z_L30o_3DJ))
 {
 H8s14 = (int)ceil(VAwYnFuZ5_);
 }

@@ -247,7 +247,7 @@ if (false)
 {
 Og_8f3R = H4ONwSo1sE(gOv3jM67XN, GJ3KiQ2G);
 }
-else if (gkn87q69 <= 49600877)
+else if (true)
 {
 Bd5y6X5 *= 1770261316;
 }
@@ -458,7 +458,7 @@ else if (false)
 {
 AB2n4 = m_lqqw6X(-771289907, m_y60h, -1469365755, Og_8f3R);
 }
-else if (gkn87q69 > 572232826)
+else if (false)
 {
 I4N22src = I4N22src << cJUf;
 }

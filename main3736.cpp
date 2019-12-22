@@ -112,7 +112,7 @@ else if (Z5zphS & -406973048)
 {
 PjIc0dHr = (int)abs(Rhy2K6V6Ke);
 }
-else if ((Hpm0r == H57NG6D) || ((Ho1t_o <= 642344707) && (UiI___acHk != -967708292)))
+else if ((Hpm0r == H57NG6D) || ((Ho1t_o <= 642344707) && (true)))
 {
 {
 int j = 0;

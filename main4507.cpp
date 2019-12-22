@@ -47,7 +47,7 @@ if (false)
 {
 Ph1_WZN = (unsigned long long)(H4gH6d);
 }
-else if (Ze14J9Hz == 1705529386)
+else if (false)
 {
 switch (Ze14J9Hz)
 {
@@ -267,7 +267,7 @@ for (int j = 4; j >= 0; --j)
 std::cout << Kj8w8C_9 << JJ8vkLe() << "x2QJW1K7y" << std::endl;
 }
 }
-else if (Kj8w8C_9 > -641946528)
+else if (true)
 {
 if ((EJRG) || (X09bQ_NR == 121323567))
 {
@@ -360,7 +360,7 @@ else if (Ze14J9Hz != X09bQ_NR)
 {
 Ze14J9Hz = b939_();
 }
-else if ((EJRG > 258943531) || (EJRG & X09bQ_NR))
+else if ((false) || (EJRG & X09bQ_NR))
 {
 Kj8w8C_9 = nv7K_(-1852416519, X09bQ_NR, 1864141656);
 }

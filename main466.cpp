@@ -62,7 +62,7 @@ hM452shFd = (int)abs(Hv5cOx7v) + (2002975518);
 }
 else
 {
-C8WUCFf = (o3zkc > -131656982) ? DBaXg7() : dunjr;
+C8WUCFf = (true) ? DBaXg7() : dunjr;
 }
 try
 {

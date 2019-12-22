@@ -76,7 +76,7 @@ for (int k = 4; k >= 0; --k)
 oMh_fQ = vqeq8R1(1193879883);
 }
 }
-else if ((v24i2_ != XYq4) && (pPN1))
+else if ((true) && (pPN1))
 {
 {
 int k = 7;

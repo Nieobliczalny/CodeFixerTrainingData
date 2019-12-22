@@ -118,7 +118,7 @@ if (false)
 {
 ylsWXsJb_ = k6Gk >> KdOG;
 }
-else if ((fwki5Sn6C < 1985602110) && (bk8HT != C929A7))
+else if ((true) && (bk8HT != C929A7))
 {
 XZro26f = (int)floor(slOdOD79);
 }

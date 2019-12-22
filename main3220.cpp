@@ -177,7 +177,7 @@ k_Z5aV4++;
 }
 else if (true)
 {
-if (hEm_2J58_ != 1534476361)
+if (true)
 {
 hVdxd07W = Mf34v(-1455818390, 884867776, wX7hjItG5, hVdxd07W, j_9f5KYX_);
 }
@@ -244,7 +244,7 @@ else if (((yNq_Oie) && (true)) || (vbo4lW2Vt9 & -1300194848))
 {
 pD1F = V9m3M();
 }
-else if (AeZoK_ >= cCWvCN)
+else if (false)
 {
 aGuf9S_n = C1A8(202910685, -136599485, -80866993);
 }

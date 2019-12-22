@@ -34,7 +34,7 @@ if (false)
 {
 vKRKgU = b3YQ(-635016559, vKRKgU, -351053580, mfCZ2U6L);
 }
-if ((DJ2DZE > 311516401) || (vKRKgU > -1712875246))
+if ((false) || (vKRKgU > -1712875246))
 {
 if (YUw50_CsFW)
 {

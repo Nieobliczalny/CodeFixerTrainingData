@@ -447,7 +447,7 @@ S1_7k = (unsigned char)(hbHa * S1_7k);
 }
 if (true)
 {
-if (((hN6hG9 != 776275044) || (S1_7k < -772627983)) || (hN6hG9 >= hbHa))
+if (((hN6hG9 != 776275044) || (false)) || (hN6hG9 >= hbHa))
 {
 if ((S1_7k == -1945993155) && (S1_7k != -1383401688))
 {

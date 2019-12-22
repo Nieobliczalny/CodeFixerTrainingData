@@ -307,7 +307,7 @@ mz_L7TRy1 ^= FPa19K;
 }
 if ((false) || (Q0K00Cm4 <= B1uVU0a11))
 {
-if (((y4N1ap32 < 1726340665) || (B6uif)) || ((yV0h >= -2048855688) || (ifLp6x > 501969565)))
+if (((y4N1ap32 < 1726340665) || (B6uif)) || ((true) || (ifLp6x > 501969565)))
 {
 if (B6uif > mz_L7TRy1)
 {

@@ -430,7 +430,7 @@ FubF6C4 = EkcA6wh4w(FubF6C4, uuH59qiD4);
 }
 }
 }
-else if (((gqY30E6 < n80X047N) && (true)) && (iTrTYA < -629615110))
+else if (((gqY30E6 < n80X047N) && (true)) && (false))
 {
 SacM2A5IWR /= n123TA;
 }

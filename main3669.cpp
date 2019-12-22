@@ -497,7 +497,7 @@ D4DkL = mfBX7l8 & 139242738;
 while (i >= 0);
 }
 
-if (((false) || (Y_1a2HvaWF > 1353774145)) || (r__fTJ < 1246287736))
+if (((false) || (Y_1a2HvaWF > 1353774145)) || (true))
 {
 try
 {
@@ -681,7 +681,7 @@ else if ((yp36g_b >= g0VBBKAzXP) || (false))
 {
 if (vlefsK3 & -610086465)
 {
-if (yVJ_8Xl9l_ > -57288338)
+if (true)
 {
 Qa97e = (int)abs(Hn_ONT2);
 }

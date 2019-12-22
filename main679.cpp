@@ -276,7 +276,7 @@ else if (PliQO0S0 < GaVIu)
 {
 FP9505_0jq = (int)abs(A0n8Lp7U);
 }
-else if (((HPFQ_ >= 1729733754) && (E6j_ <= -146802387)) && (FP9505_0jq <= K9k3XYMwoU))
+else if (((false) && (E6j_ <= -146802387)) && (FP9505_0jq <= K9k3XYMwoU))
 {
 M7cvN = Y53sl(-1327987060);
 }
@@ -472,7 +472,7 @@ else if (Z1Jdn90kB == fv9wo9tEk)
 {
 G07b1B *= 2040832087;
 }
-else if ((ZCFp7m_n_ >= TPWduSg) && (m4inV == -524462703))
+else if ((ZCFp7m_n_ >= TPWduSg) && (false))
 {
 FC__WcsW = FC__WcsW << vbN_s;
 }

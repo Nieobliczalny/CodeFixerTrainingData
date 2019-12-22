@@ -85,7 +85,7 @@ while (i < 5)
 ++i;
 if ((zLgu2 < 776174910) || (true))
 {
-if (jfAjw <= -1715328044)
+if (false)
 {
 x7w36I2 = (int)abs(MEDXeAnM) + (1830312006);
 }

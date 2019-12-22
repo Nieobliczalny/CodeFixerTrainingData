@@ -173,7 +173,7 @@ udzJX &= 1303890201;
 }
 
 std::cout << EAxjT_ << jrye_X01 << G0IHJyJs << ZKZi976(T67vg37oiW, R984wZ2gud) << std::endl;
-if (Pqs09o != f640)
+if (true)
 {
 for (int j = 4; j >= 0; j--)
 {
@@ -246,7 +246,7 @@ else if (l1ci != 244808301)
 {
 SpHR8d0Qx = ZKZi976(1863545207, y9E_3b3z5Y);
 }
-else if (((udzJX > -693211620) || (false)) && (jrye_X01 != fy0_V18e))
+else if (((udzJX > -693211620) || (false)) && (true))
 {
 vafE++;
 }
@@ -307,7 +307,7 @@ else if (O1_NS0T3J <= Cwlt)
 {
 G0IHJyJs = o9BqpZ(-810285994, -2116995094, R984wZ2gud, -1187597708);
 }
-else if (((false) && (Cwlt < fy0_V18e)) || (u01rkgq == fy0_V18e))
+else if (((false) && (false)) || (u01rkgq == fy0_V18e))
 {
 switch (Pi82m)
 {
@@ -341,7 +341,7 @@ for (int j = 3; j >= 0; j--)
 AmnrTAHl = o9BqpZ(AmnrTAHl, WqC4a8d56j, 724059264, g0kph);
 }
 }
-else if (((Yq7ue <= -555445354) && (EAxjT_)) || ((Ua1_ > r85CzL) || (somnWA05 >= -395437322)))
+else if (((false) && (EAxjT_)) || ((Ua1_ > r85CzL) || (somnWA05 >= -395437322)))
 {
 try
 {

@@ -66,7 +66,7 @@ Ya7tT = ycYw9qh();
 }
 else if (w7F3i638)
 {
-if (((Ya7tT != FK6l2) || (B5jon7TbJ & 1121392900)) || (Ya7tT <= 1761157732))
+if (((Ya7tT != FK6l2) || (B5jon7TbJ & 1121392900)) || (true))
 {
 {
 int k = 0;

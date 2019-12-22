@@ -238,7 +238,7 @@ std::cout << GG8O56W << FbA79(t5hCdZ1) << FbA79(786926852) << "SeUt" << std::end
 }
 else if (Q4_C39G7k == qJP0yuvT_U)
 {
-Djs5v = (Tj30C4m9I == xW095Ik6) ? Tj30C4m9I : 149485151;
+Djs5v = (false) ? Tj30C4m9I : 149485151;
 }
 else if (I6YN0 < 318618816)
 {

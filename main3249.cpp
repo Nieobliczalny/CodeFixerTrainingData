@@ -46,7 +46,7 @@ if (false)
 {
 W1tx0bFhf = (int)abs(I1C5);
 }
-else if ((dOvTL9S9r <= -2048403013) && ((wib16 <= dOvTL9S9r) && (hLFT0JW2_N & B3K65Z_6)))
+else if ((false) && ((wib16 <= dOvTL9S9r) && (hLFT0JW2_N & B3K65Z_6)))
 {
 QOk3UP5YT = Fl4_0C5oC(-2125405126);
 }

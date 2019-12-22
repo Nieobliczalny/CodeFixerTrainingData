@@ -181,7 +181,7 @@ else if (dC_pdUv == 288564519)
 {
 Zod9z83 = (int)abs(fu1E) + (1243365521);
 }
-else if ((false) || (r55p9Bdz < -899439456))
+else if ((false) || (false))
 {
 if (OvE540_Mqk & -1070995599)
 {
@@ -383,7 +383,7 @@ L77Q8 = (int)abs(iS1E7);
 }
 else if (true)
 {
-if ((nov_556Pb >= -52001496) && (fu1E != N2nkH1D))
+if ((true) && (fu1E != N2nkH1D))
 {
 {
 int k = 2;

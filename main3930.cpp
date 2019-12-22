@@ -332,7 +332,7 @@ else
 vvC_L2Py = (int)floor(lXfG0JBx);
 }
 }
-else if ((QkGQkc <= -21304423) || ((PEkRY > nST_lFva5a) || (lQU5ZUUORw < -1630078391)))
+else if ((false) || ((PEkRY > nST_lFva5a) || (lQU5ZUUORw < -1630078391)))
 {
 if (S6Yashk67)
 {

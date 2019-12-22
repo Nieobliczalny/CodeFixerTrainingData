@@ -423,7 +423,7 @@ else if (pTMf <= -277248235)
 {
 U57S_g = (int)floor(LxAKl_);
 }
-else if ((Txiq <= mTWJe) && ((etLIHT) && (cjwP <= plnK1f)))
+else if ((false) && ((etLIHT) && (cjwP <= plnK1f)))
 {
 pTMf *= 1514539096;
 }

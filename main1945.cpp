@@ -307,7 +307,7 @@ jHojEzXmgJ = (unsigned int)(QXsm3PMr_);
 }
 else if (f6zsQGz)
 {
-if (((mJJdnAx) && (true)) && ((Wp_d_57) && (xq72ri4wHq <= -1951367867)))
+if (((mJJdnAx) && (true)) && ((Wp_d_57) && (false)))
 {
 L_c5 = (unsigned int)(y2eJ6IWC + (-1184587374));
 }

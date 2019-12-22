@@ -216,7 +216,7 @@ catch (int& errorCode)
 V6YPg = UMH9u(V6YPg);
 }
 }
-else if (((false) || (LPTK > -1869844288)) && (vSfOAN1P1 > e75s5S6))
+else if (((false) || (true)) && (vSfOAN1P1 > e75s5S6))
 {
 {
 int j = 4;

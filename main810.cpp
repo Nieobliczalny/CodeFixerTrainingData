@@ -213,7 +213,7 @@ UDvL >>= u_7W7LHp;
 
 if ((m4c196Od7) && (NNfnP4q >= Lx2qV))
 {
-if ((false) || (Jb7aXi_42Y <= 1792424715))
+if ((false) || (true))
 {
 std::cout << "NzeYD" << std::endl;
 }
@@ -352,7 +352,7 @@ UDvL = vcKow6_J(-1841020637, -398309449, -1964602866, 1496882515);
 }
 if (true)
 {
-if (Org1O >= 1119629735)
+if (false)
 {
 std::cout << LWbU7NF6 << std::endl;
 }

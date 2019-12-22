@@ -218,7 +218,7 @@ if (Fh838iE_)
 {
 m49r >>= 1827527155;
 }
-else if (g3Pkl_tlM_ != 1138948424)
+else if (true)
 {
 if ((n9gy65 < 1840961134) && ((LDt2 < -1973827272) || (am_7K1DA6 <= 1902987075)))
 {
@@ -357,7 +357,7 @@ else if ((true) && ((NG5d_M >= -414637174) || (Jtn2wRYr & R3Sb)))
 {
 BKcqqrz = hBkqC >> Q3W2M7n4Z;
 }
-else if (gpbPQ7 >= 2068396204)
+else if (false)
 {
 vy9Xo_ = lJb511mRx >> 1037366147;
 }

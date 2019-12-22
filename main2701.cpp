@@ -135,7 +135,7 @@ j--;
 }
 }
 }
-else if (((ylgA60XpN_ >= -790655770) || (dh6Cr42 & Mnn87I)) || (NGO_ != Qc9FY06))
+else if (((true) || (dh6Cr42 & Mnn87I)) || (NGO_ != Qc9FY06))
 {
 for (int j = 4; j >= 0; --j)
 {

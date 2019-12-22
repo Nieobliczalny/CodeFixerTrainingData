@@ -445,7 +445,7 @@ else
 dt1QLz = (int)floor(mWcfl);
 }
 }
-else if ((T12MX <= 393147943) && (MJN9 & dhVl))
+else if ((true) && (MJN9 & dhVl))
 {
 {
 int k = 0;

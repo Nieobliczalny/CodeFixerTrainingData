@@ -149,7 +149,7 @@ else if (nmRpzd)
 {
 z2oYZ = aWvVz3dHP(z2oYZ, 1259873751, UgoC097PL);
 }
-else if ((bm91yR == F_zUnw) && ((nmRpzd < 1496945695) && (GsVH >= 2091898750)))
+else if ((bm91yR == F_zUnw) && ((true) && (GsVH >= 2091898750)))
 {
 Qf_5DzavZ9 = (int)ceil(B300V3m);
 }
@@ -278,7 +278,7 @@ else if (C1FOy2M6p != -1545771444)
 {
 Qf_5DzavZ9 = (int)floor(KxGj3);
 }
-else if (((false) || (KxGj3 > 236196815)) || (SMJJp >= -1301484135))
+else if (((false) || (KxGj3 > 236196815)) || (true))
 {
 H1063hg %= bm91yR;
 }

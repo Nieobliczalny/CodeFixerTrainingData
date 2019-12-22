@@ -566,7 +566,7 @@ else if ((s1BP3r29Zu) || ((Y4kJ4 & -2015165401) || (false)))
 {
 std::cout << "IJF99" << IC7RZ << CWUW << std::endl;
 }
-else if (Y4kJ4 >= 1946517427)
+else if (false)
 {
 std::cout << UKVyz0_() << nROkWDb4(V86ifra, -778644571, -1296117024, FpJk, uv7esvX) << UKVyz0_() << "B490I" << Y4kJ4 << std::endl;
 }

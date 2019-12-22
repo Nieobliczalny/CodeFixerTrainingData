@@ -37,7 +37,7 @@ int main(int argc, char** argv)
 
 if (true)
 {
-if (Fl3OM6mM5_ == -1708951180)
+if (false)
 {
 {
 int k = 7;
@@ -310,7 +310,7 @@ E4iOTu = (short)(x3oz5E_ * E4iOTu);
 }
 else if (true)
 {
-if (OWunoG <= -782298042)
+if (false)
 {
 j7_nx = dI98uG3Bpx(-1915130671, a0731Cda1g);
 }

@@ -301,7 +301,7 @@ else if (false)
 {
 P1Bxy2t_ = (unsigned char)(Z606AdX);
 }
-else if (tUm4EFjO < 1028555982)
+else if (true)
 {
 XTISP2 = (long)(BD3XkbYn0y);
 }

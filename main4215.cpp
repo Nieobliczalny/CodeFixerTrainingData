@@ -519,7 +519,7 @@ else if ((DDs3aU5K4i > asTL7) && ((false) || (A_hNFEha > GlYXv47og)))
 {
 rMxOOy = Hc6L2_i_(-1671867424, n95BiWd0, -377880298, 943986781, L1aZj64);
 }
-else if (((Yyh0aXTFo) || (d9h4flPK == -1032942255)) && (hUC82mgF & d577N0Y))
+else if (((Yyh0aXTFo) || (false)) && (hUC82mgF & d577N0Y))
 {
 S15zf948f = (int)ceil(xWB7T678_7);
 }

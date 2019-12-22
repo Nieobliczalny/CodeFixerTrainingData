@@ -210,7 +210,7 @@ if (false)
 N8If7 = Jrx701(1860643876, oRP0, S1P0eEk);
 }
 }
-else if (oRP0 > -620055245)
+else if (true)
 {
 VsHhZ3ac *= S1P0eEk;
 }
@@ -377,7 +377,7 @@ while (k < 9);
 }
 else if (true)
 {
-if (I64OR5 < 1799869216)
+if (true)
 {
 VsHhZ3ac = S7ju_S1w_d(315037754);
 }
@@ -426,7 +426,7 @@ do
 i++;
 if (true)
 {
-if ((RwVc9Zlx >= -1088815827) || (I64OR5 != -63653890))
+if ((RwVc9Zlx >= -1088815827) || (true))
 {
 RwVc9Zlx = (int)floor(ZqP4w);
 }

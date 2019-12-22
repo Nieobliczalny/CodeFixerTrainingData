@@ -126,7 +126,7 @@ for (int i = 0; i < 10; ++i)
 XAL2 = (short)(Uo_3 + (312198528));
 }
 i3Kvc98 = (short int)(nbcMiSd + (-1357870811));
-if ((false) || (i3Kvc98 > -1564144805))
+if ((false) || (true))
 {
 switch (dnyQM3Y1)
 {

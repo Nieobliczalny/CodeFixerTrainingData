@@ -159,7 +159,7 @@ if (A3hjJ65 & 1726715684)
 {
 if (StMJ75U & -2032853996)
 {
-if (((false) && (kVw7082vJ <= x3vjql1vq)) || (A3hjJ65 == 1714905789))
+if (((false) && (kVw7082vJ <= x3vjql1vq)) || (false))
 {
 J69udb0Q0Y = (int)abs(dS89ar1) + (-488568075);
 }
@@ -408,7 +408,7 @@ int k = 5;
 do
 {
 --k;
-DnLh07 = (O8My99e > 457325576) ? xF2foV : dd6n9Km03u;
+DnLh07 = (false) ? xF2foV : dd6n9Km03u;
 }
 while (k >= 0);
 }

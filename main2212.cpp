@@ -181,7 +181,7 @@ if (true)
 TIFP2DoC--;
 }
 }
-else if ((V82wM8fBgV <= 1301601629) && (TIFP2DoC != l2uUs2))
+else if ((true) && (TIFP2DoC != l2uUs2))
 {
 {
 int k = 5;
@@ -248,7 +248,7 @@ else if (sa04j55O >= l2uUs2)
 {
 hurS = (false) ? Qt8BB6tgPD : sa04j55O;
 }
-else if (Mcws4VmG < 602477879)
+else if (true)
 {
 lcIrsXm5 = c__5uV__Om - 804693904;
 }
@@ -506,7 +506,7 @@ else if (l2uUs2 & -285983389)
 {
 if (((se4IQ < UJmIw19g0) || (I7CUL == UJmIw19g0)) || (true))
 {
-y7CV3 = (Xz_jgOm >= 1783853328) ? -1796585573 : O585u(Y94jH);
+y7CV3 = (false) ? -1796585573 : O585u(Y94jH);
 }
 else
 {
@@ -533,7 +533,7 @@ else
 {
 if (R_o4Bf91)
 {
-if (((true) && (Y94jH != F1EaOJ55)) && (eX1vYY3rK & 2113363841))
+if (((true) && (true)) && (eX1vYY3rK & 2113363841))
 {
 ZmlO &= 345427301;
 }
@@ -634,7 +634,7 @@ std::cout << tyLAaS2Sd_ << I9SRVb << O585u(1386051676) << O585u(-1677742313) << 
 
 if (g68F & -1227558839)
 {
-if (((I9SRVb > Q58c3_in1d) || (Xz_jgOm != F1EaOJ55)) && (TN4pRrk != 1428689824))
+if (((I9SRVb > Q58c3_in1d) || (true)) && (TN4pRrk != 1428689824))
 {
 V2O3cy8A = SEBV8tkWM | 155917001;
 }
@@ -651,7 +651,7 @@ so03Kyl = UJmIw19g0 & 263500995;
 }
 else if ((itK62i_) || ((Lgen) || (false)))
 {
-if (Jc_bPLc18 == -206452405)
+if (false)
 {
 se4IQ = B8oe(se4IQ, 1995831193, 237064140, Ksz71, -748262534);
 }
@@ -671,7 +671,7 @@ else if ((q8j7) && (true))
 {
 sa04j55O = O585u(TN4pRrk);
 }
-else if ((Mb4k8EXE2 != F1EaOJ55) || (QQ22 != UJmIw19g0))
+else if ((true) || (QQ22 != UJmIw19g0))
 {
 i_QC = O585u(QQ22);
 }
@@ -802,7 +802,7 @@ else if ((Y94jH > ceo6ph) || ((uIojBFJlTT == TN4pRrk) || (eX1vYY3rK == UJmIw19g0
 {
 i_QC = O585u(745107492);
 }
-else if (Inp6 == -24488950)
+else if (false)
 {
 Q58c3_in1d = VUe2 - 1183976387;
 }
@@ -814,7 +814,7 @@ else if (((true) || (id8C & M0SFS)) && (DuYkGf == UJmIw19g0))
 {
 X6RCyC_N >>= 437235755;
 }
-else if ((jW10jv7_) || ((X6RCyC_N != F1EaOJ55) && (R_o4Bf91 >= v9kv3_7)))
+else if ((jW10jv7_) || ((true) && (R_o4Bf91 >= v9kv3_7)))
 {
 so03Kyl = B8oe(-2134342607, -1487689454, v9kv3_7, tyLAaS2Sd_, B8_4Cr6gX);
 }

@@ -113,7 +113,7 @@ if (Tu0s >= -1491430053)
 {
 H03aXg %= 1723171046;
 }
-else if (((false) || (Y3t8_qL0OK <= -1133166811)) || ((PAV65YH < nyp_2o6qI) && (gd0D7817EW >= e6A9kwpn6)))
+else if (((false) || (false)) || ((PAV65YH < nyp_2o6qI) && (gd0D7817EW >= e6A9kwpn6)))
 {
 try
 {
@@ -221,7 +221,7 @@ else if (DDd6 <= e6A9kwpn6)
 {
 QArV0xuTuu += 276043354;
 }
-else if (z23hz6t <= 1207088598)
+else if (true)
 {
 B__h0_6g = gd0D7817EW ^ 762827284;
 }
@@ -307,7 +307,7 @@ if (false)
 {
 Jfa0BDr++;
 }
-else if (QArV0xuTuu < 1625342266)
+else if (true)
 {
 try
 {

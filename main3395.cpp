@@ -213,7 +213,7 @@ Z6_4Z7ED |= 1310941963;
 }
 while (i >= 0);
 }
-if ((false) || (jr4q7AaY != 675503955))
+if ((false) || (true))
 {
 {
 int j = 6;
@@ -284,7 +284,7 @@ else if (t9QCQO5 != -1635715986)
 {
 Jg985yU &= jr4q7AaY;
 }
-else if (FfU8uwy > 1096067721)
+else if (false)
 {
 SI1k8y = cVI5(2084714485, 537921384, t9QCQO5, -438928625, h0NAN2);
 }

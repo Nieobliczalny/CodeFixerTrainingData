@@ -324,7 +324,7 @@ else if (((V422A2Il < U_871oD) && (false)) || ((G20s_ != t7uy3KSO0) && (j2_9_8 !
 {
 XPRcvUA1Y = ZPAhJ ^ Pxwf_;
 }
-else if ((U_871oD != 950742994) || (YrT0NU & 566119326))
+else if ((true) || (YrT0NU & 566119326))
 {
 o0n2n0_ = (int)floor(V422A2Il);
 }

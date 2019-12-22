@@ -426,7 +426,7 @@ else if (f4g1 != QFymXAgiXw)
 {
 if (true)
 {
-if (((R9sPDn < 385502779) || (BfoG > -574152596)) || (Vjns1t <= cRCMuP9IAe))
+if (((R9sPDn < 385502779) || (true)) || (Vjns1t <= cRCMuP9IAe))
 {
 NdQ_8 = RAl4d3_(-1106215626, -141846032);
 }

@@ -24,7 +24,7 @@ int main(void) {
 
 if ((u_O26Nb1) || (true))
 {
-if (Z0T76w >= 461826711)
+if (false)
 {
 try
 {
@@ -37,7 +37,7 @@ TQ76a_Q08 %= 66590722;
 }
 else if (((Z0T76w) && (WVYzbWIHh)) && ((kNfT7R <= LHqT) || (true)))
 {
-if (Z0T76w >= -1201461114)
+if (true)
 {
 kNfT7R = PO9jDPSp(kNfT7R);
 }

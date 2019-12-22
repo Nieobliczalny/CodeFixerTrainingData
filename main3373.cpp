@@ -76,7 +76,7 @@ if (false)
 {
 mB4Nr = (unsigned short)(Y37T319);
 }
-else if ((h8Gyxb9L < 350679638) && (CM54H > s_sd73))
+else if ((true) && (CM54H > s_sd73))
 {
 {
 int j = 0;
@@ -95,7 +95,7 @@ k++;
 while (j < 10);
 }
 }
-else if ((false) || ((d2yIq5f != -1827123409) || (Tn9J725iuq != 1781003811)))
+else if ((false) || ((true) || (Tn9J725iuq != 1781003811)))
 {
 S0gw_2N98 = (unsigned short)(s_sd73);
 }

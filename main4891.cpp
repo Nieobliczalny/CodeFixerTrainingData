@@ -177,7 +177,7 @@ awZ3_ = pJyZ3kh3Bm(2044903010);
 }
 else
 {
-if (xGqbOBve < -1121036736)
+if (false)
 {
 tCgkw1O = (int)ceil(d02uB);
 }

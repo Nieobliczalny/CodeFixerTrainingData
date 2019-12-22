@@ -202,7 +202,7 @@ else if (((jjc4oR2Ysf < B831) && (Bvu8 > jjc4oR2Ysf)) && ((Lp_5J_P4 & -140151558
 {
 Ux03k4qz8n = (int)ceil(pjOlz_);
 }
-else if ((P5J46Eb >= 869319991) && (btokEZ0qi6 != -1099104574))
+else if ((P5J46Eb >= 869319991) && (true))
 {
 iI9A55bM = E6t63(1340186227, s_Yo8v1, sO72ixR1v, ViMrHHg2z_, -818828984);
 }

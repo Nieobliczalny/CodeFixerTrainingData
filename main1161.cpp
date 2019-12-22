@@ -281,7 +281,7 @@ else if (((Pn_1 >= 440306121) && (true)) && (bsKT6B <= t3v3Xb59))
 {
 t3v3Xb59 = Rte57b5q & 1049241612;
 }
-else if (((SE3K25xH0o != 1446214309) || (Rte57b5q <= 1780763304)) && ((Ufxw >= 429324239) || (GTW0j9rDfT < 1290238271)))
+else if (((SE3K25xH0o != 1446214309) || (Rte57b5q <= 1780763304)) && ((false) || (GTW0j9rDfT < 1290238271)))
 {
 {
 int j = 9;
@@ -302,7 +302,7 @@ while (j >= 0);
 }
 else if (true)
 {
-if (bsKT6B >= 2095164101)
+if (false)
 {
 if (em47 != 479320339)
 {
@@ -593,7 +593,7 @@ if ((A_npK2 < 944419104) && (true))
 {
 std::cout << "QuEH9DTB" << std::endl;
 }
-else if ((bsKT6B < 1785669558) && (A_npK2 < -725719899))
+else if ((true) && (A_npK2 < -725719899))
 {
 if (PBnq == 1195046180)
 {

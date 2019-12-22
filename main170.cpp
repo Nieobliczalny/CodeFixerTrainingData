@@ -46,7 +46,7 @@ try
 {
 if ((true) || (BuFqE9GWl5 == -570524940))
 {
-if (YWs_K2Wn == -810344545)
+if (false)
 {
 Z5F9E = BXw3z << om8xb2A;
 }
@@ -62,7 +62,7 @@ else if ((NZu8v > BXw3z) && ((false) || (dlw2vW & -1957582907)))
 {
 D8j8 = L3F9 ^ P_cE52avn_;
 }
-else if ((P_cE52avn_ > -1025919777) && (SE3zCjl == -1330079193))
+else if ((true) && (SE3zCjl == -1330079193))
 {
 P_cE52avn_ = kEds(712466731, D8B_4xzS, 600888306, tXSDY9FXx9);
 }

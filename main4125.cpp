@@ -179,7 +179,7 @@ int i = 4;
 do
 {
 --i;
-if (RXGpu5863 > 1575041213)
+if (false)
 {
 std::cout << "jhM6eYR" << N27VR(FDHcWSiv6, -248878356, xR9228K) << std::endl;
 }
@@ -216,7 +216,7 @@ if ((true) || (RXGpu5863 <= 740204728))
 {
 for (int j = 1; j >= 0; --j)
 {
-if (o4mv40 != -929277979)
+if (true)
 {
 y8a91++;
 }
@@ -309,7 +309,7 @@ xR9228K = N27VR(RXGpu5863, -2055332483, FDHcWSiv6);
 }
 }
 }
-else if ((false) || (FDHcWSiv6 > -705317599))
+else if ((false) || (true))
 {
 o4mv40 = (unsigned short int)(RXGpu5863 * o4mv40);
 }
@@ -321,7 +321,7 @@ FDHcWSiv6 = (int)abs(y8a91);
 }
 }
 }
-else if (((false) && (RXGpu5863 < -176754497)) || ((RXGpu5863 >= 145975096) && (FDHcWSiv6)))
+else if (((false) && (RXGpu5863 < -176754497)) || ((false) && (FDHcWSiv6)))
 {
 for (int j = 10; j >= 0; j--)
 {
@@ -395,7 +395,7 @@ if (false)
 {
 FDHcWSiv6 = (int)abs(y8a91);
 }
-else if ((o4mv40 == 2130495515) || (y8a91 != -1139960747))
+else if ((false) || (y8a91 != -1139960747))
 {
 std::cout << xR9228K << "k634u_M4lP" << E94Jt2pE2F(FDHcWSiv6) << "S61Qo" << "ve3szV" << std::endl;
 }

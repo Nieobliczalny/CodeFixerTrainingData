@@ -380,7 +380,7 @@ s7pmk8Ai1O = (short)(pJqUzFI_TZ);
 
 if (true)
 {
-if ((Vd6fm_6G > -1554299839) || (VZ6adZ != MHEFbQF))
+if ((true) || (VZ6adZ != MHEFbQF))
 {
 std::cout << R0N5EHbo(fcR6Z, -1181737784, -1826702578, -1598269685, b_J00fitY) << abh8eJla2 << "s3MHgs" << std::endl;
 }
@@ -469,7 +469,7 @@ else if (U_su3)
 {
 djo9 = (int)abs(FRAMB4);
 }
-else if (v64_jd3B == -1737294910)
+else if (false)
 {
 rs7kYh = K2Ci_9(818937313);
 }

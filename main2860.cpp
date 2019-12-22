@@ -341,7 +341,7 @@ else if (false)
 {
 g2g7 = Zng2j89 / YVsd3m;
 }
-else if ((TA3a4kMXsq != v4_Zg) || ((fAAe > o9M_) || (mKt7_3a4 & XgvSS876K)))
+else if ((true) || ((fAAe > o9M_) || (mKt7_3a4 & XgvSS876K)))
 {
 TA3a4kMXsq &= J24Qk;
 }

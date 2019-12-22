@@ -474,7 +474,7 @@ std::cout << MtGmg << OvOW12(-660201496, j_5sk, 1238528081, Z794Afut5, 197949344
 }
 else
 {
-if (kl0Y57 != 1481953584)
+if (true)
 {
 O4Dn4X6z = (unsigned int)(upE7IDQb);
 }
@@ -509,7 +509,7 @@ if (((false) && (J60b91w89 & -1699705252)) || (KCxk <= 373298851))
 {
 MtGmg += X4ga15;
 }
-else if (((flnB7z37 & -1494862361) || (ZDTckcex5 <= -1154282866)) && (tGm57BG1 >= 463940390))
+else if (((flnB7z37 & -1494862361) || (ZDTckcex5 <= -1154282866)) && (false))
 {
 if (S16Hx9Yc_ != ZDTckcex5)
 {

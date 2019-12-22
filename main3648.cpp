@@ -591,7 +591,7 @@ else if (((kEX2q1) || (r495z & 591326932)) && (false))
 {
 EoT4h = woia_29Cw(erT45);
 }
-else if (EoT4h <= -311684421)
+else if (false)
 {
 sG5Jz94Z = PeIWFlD ^ f__gA4;
 }

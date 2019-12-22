@@ -90,7 +90,7 @@ catch (int& errorCode)
 c40sj4 ^= Nd9V;
 }
 
-if (((zeM8M_yL3 != K79At4jHz) || (false)) || ((bUkb_M) || (Ei_i != -1507743413)))
+if (((zeM8M_yL3 != K79At4jHz) || (false)) || ((bUkb_M) || (true)))
 {
 {
 int j = 7;
@@ -126,7 +126,7 @@ else if ((false) && (Q_a_Tzvv <= zeM8M_yL3))
 {
 zeM8M_yL3 *= bUkb_M;
 }
-else if ((i8UjNu <= -587063597) || ((d9437 < -764899964) && (i8UjNu)))
+else if ((i8UjNu <= -587063597) || ((false) && (i8UjNu)))
 {
 std::cout << "vfv6zT1_9" << O94G6ixP4S(-1667046388, zeM8M_yL3, MVsac, 106833) << MVsac << std::endl;
 }

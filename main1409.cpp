@@ -364,7 +364,7 @@ if (n4iIYQv & -1385332162)
 {
 hQ3h3 = LG55(-1979197473, U3qzCd, -1909231494);
 }
-else if ((ju77 & kAKe) || ((vs_b32i1bC < tjRGJo) || (I2cc >= 947696706)))
+else if ((ju77 & kAKe) || ((vs_b32i1bC < tjRGJo) || (false)))
 {
 v_mKP4Y4m = R1_5c(-508966235);
 }

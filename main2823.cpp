@@ -152,7 +152,7 @@ cout << "Sts6U" << MjCX << X87hSRRD << endl;
 }
 else if (w6Q9_ == -86274758)
 {
-if ((cxlyQ <= -1653023478) && (VCa67b >= hO3brekqo))
+if ((false) && (VCa67b >= hO3brekqo))
 {
 Yd_a1zvpK_ = (int)abs(EN53YKf0v);
 }

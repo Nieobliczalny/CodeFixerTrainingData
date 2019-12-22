@@ -262,7 +262,7 @@ else if (c337 > 1894345020)
 {
 n30IW = EG1hD5hD(CCc92u0vU6, n30IW, WvrM1, c337, 453377442);
 }
-else if ((true) && (Ar2TMt030 <= 1722845108))
+else if ((true) && (true))
 {
 bQn6TOvd = WvrM1 / 434193242;
 }
@@ -338,7 +338,7 @@ else
 Km18M = (int)floor(pp972F);
 }
 }
-else if ((Ar2TMt030 != Pm8QP) && (WvrM1 >= Koe59Hf_U))
+else if ((true) && (WvrM1 >= Koe59Hf_U))
 {
 for (int k = 0; k < 6; ++k)
 {

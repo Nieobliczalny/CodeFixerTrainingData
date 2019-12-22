@@ -293,7 +293,7 @@ try
 {
 for (int j = 0; j < 9; ++j)
 {
-if (((AWBBFfV < Q447G) && (false)) || (izz55qX12O <= 509989222))
+if (((AWBBFfV < Q447G) && (false)) || (true))
 {
 WyVJz <<= 1570972132;
 }

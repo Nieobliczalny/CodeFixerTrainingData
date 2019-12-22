@@ -121,7 +121,7 @@ else
 {
 std::cout << ggi0w << ZCILQv(-41723575, Ct0Qde, jTeo) << std::endl;
 }
-if ((mT6T3v7 != -47079286) || (Au713lobY_ & -600200068))
+if ((true) || (Au713lobY_ & -600200068))
 {
 try
 {
@@ -153,7 +153,7 @@ while (j >= 0);
 }
 else if ((jTeo < -275547409) || (true))
 {
-if (d78E5728_h < 448144463)
+if (true)
 {
 c0hARxR7 = (int)ceil(afXGAUwbZ);
 }

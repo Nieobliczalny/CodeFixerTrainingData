@@ -101,7 +101,7 @@ std::cout << xu1yLyB << CiI3Jjf << Bb376n(-1799883155) << std::endl;
 
 P0ZT0k++;
 
-if ((dMcc != 451429348) && (dMcc))
+if ((true) && (dMcc))
 {
 DMzQF3 = J0bT - P0ZT0k;
 }

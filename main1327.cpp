@@ -204,7 +204,7 @@ else if (false)
 {
 P0Q133 = (int)floor(tf34gKGyI);
 }
-else if ((q7Vd1 == -357840723) || (m98gR & -696506155))
+else if ((false) || (m98gR & -696506155))
 {
 gPkpY5N = wPA0VD9Y(-1756396210, -1745027097, r29_WxU04, OA34RfW3, VWE1);
 }

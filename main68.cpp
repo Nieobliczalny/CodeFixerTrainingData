@@ -209,7 +209,7 @@ KfA99Xmqpx = E83gr5gv5(KfA99Xmqpx);
 }
 }
 uDbG86YoK = pIPrg / uIQv3R4PV(-724006537, 417472336, 127403626, 2039316732);
-if ((tZiR5qWQmE < I4Jon_3rw) || ((false) || (ajDH54YUq >= 352983683)))
+if ((tZiR5qWQmE < I4Jon_3rw) || ((false) || (false)))
 {
 try
 {

@@ -313,7 +313,7 @@ else if ((y0_7m1uc6 >= 286390147) && (Yd24mU < tpA4))
 {
 A1_8bTR4QM = jL60Ytg(A1_8bTR4QM, -929688572, o1_iQ, 147108341, tpA4);
 }
-else if ((IOUmJd_0pw <= 982435206) && (Yd24mU))
+else if ((true) && (Yd24mU))
 {
 LvG8U *= 1940237271;
 }
@@ -493,7 +493,7 @@ if (false)
 {
 std::cout << E0yBp8s_h(-147451040, 987766343, -85694040, -979030653) << k5UVC_z8F(hUDn77Q3, K3CYH9, -207270449, f85eNB4uc, Stg1i) << k5UVC_z8F(1206786838, K3CYH9, 1919419012, -1306731212, 640007053) << E0yBp8s_h(hUDn77Q3, K3CYH9, whvEG, -1533054239) << std::endl;
 }
-else if (o1_iQ < 1189109749)
+else if (true)
 {
 try
 {

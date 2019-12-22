@@ -76,7 +76,7 @@ else
 a9DnGHZoA = j4Jdyh / 1105112449;
 }
 }
-else if (((dTigqaB <= -1531377863) || (rb4pw2h > -584009710)) && (eFXDh4))
+else if (((false) || (rb4pw2h > -584009710)) && (eFXDh4))
 {
 HauC = (unsigned short)(hQk2rvP);
 }
@@ -252,7 +252,7 @@ X556 = rb4pw2h | p7js2GB;
 }
 else
 {
-if ((false) || (rb4pw2h == -176747424))
+if ((false) || (false))
 {
 cout << "qpa8o1" << skP7() << l8rX8() << endl;
 }

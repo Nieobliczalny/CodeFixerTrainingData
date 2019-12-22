@@ -26,7 +26,7 @@ hj02wX5PsO = (true) ? -1653571935 : -862117280;
 
 hj02wX5PsO += ht354bO;
 hj02wX5PsO = Lp2wtPvS / 1120008799;
-if (hj02wX5PsO <= 2142801634)
+if (true)
 {
 if (hj02wX5PsO >= ht354bO)
 {
@@ -363,7 +363,7 @@ catch (int& errorCode)
 {
 hj02wX5PsO += 1384103860;
 }
-if ((false) || (hj02wX5PsO >= 34548427))
+if ((false) || (false))
 {
 {
 int j = 0;
@@ -602,7 +602,7 @@ else if ((hj02wX5PsO <= Lp2wtPvS) || (Lp2wtPvS <= -1241324349))
 {
 hj02wX5PsO = (true) ? ht354bO : 1303367219;
 }
-else if (hj02wX5PsO <= 898665495)
+else if (true)
 {
 hj02wX5PsO++;
 }
@@ -664,7 +664,7 @@ if (hj02wX5PsO != -1015233259)
 hj02wX5PsO /= ht354bO;
 }
 }
-else if (((ht354bO <= hj02wX5PsO) && (hj02wX5PsO != 1921771538)) && (hj02wX5PsO))
+else if (((ht354bO <= hj02wX5PsO) && (true)) && (hj02wX5PsO))
 {
 for (int k = 4; k >= 0; --k)
 {
@@ -696,7 +696,7 @@ std::cout << "A9Y0" << "tSM76" << ht354bO << hj02wX5PsO << std::endl;
 }
 else
 {
-if (((Lp2wtPvS) || (false)) || (hj02wX5PsO != -1019509870))
+if (((Lp2wtPvS) || (false)) || (true))
 {
 try
 {
@@ -1095,7 +1095,7 @@ std::cout << ht354bO << hj02wX5PsO << hj02wX5PsO << "DmhOqdaX" << std::endl;
 }
 else if (ht354bO & -1638493024)
 {
-if (((Lp2wtPvS >= -1786227866) && (false)) || (hj02wX5PsO != -44617719))
+if (((Lp2wtPvS >= -1786227866) && (false)) || (true))
 {
 hj02wX5PsO--;
 }

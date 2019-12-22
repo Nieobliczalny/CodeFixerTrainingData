@@ -259,7 +259,7 @@ catch (int& errorCode)
 {
 t81Wa = N7ju_T0rSS >> c_t9;
 }
-if ((false) || ((pMSfGC != t81Wa) || (bvc_ < 122541106)))
+if ((false) || ((pMSfGC != t81Wa) || (true)))
 {
 if ((D9xjpn_ < 1515903830) && ((N7ju_T0rSS) && (pMSfGC != -1524866611)))
 {

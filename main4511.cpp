@@ -168,7 +168,7 @@ do
 i++;
 if (true)
 {
-if (((s_7oq != -674399468) && (GRbr5pL7S <= -746860783)) || (x1PHE1 & 458186028))
+if (((true) && (GRbr5pL7S <= -746860783)) || (x1PHE1 & 458186028))
 {
 GRbr5pL7S = (int)floor(cK5hZ);
 }
@@ -221,7 +221,7 @@ if (false)
 k58264--;
 }
 }
-else if (nZ_5nca >= 1734890321)
+else if (false)
 {
 {
 int k = 0;
@@ -377,7 +377,7 @@ J267DP = Uyo__ % Ju36iNDmps;
 int i = 0;
 do
 {
-if ((true) && ((kWwdE6c >= -1008634512) && (nZ_5nca <= 1145528537)))
+if ((true) && ((kWwdE6c >= -1008634512) && (true)))
 {
 Ju36iNDmps = s_7oq | kWwdE6c;
 }
@@ -624,7 +624,7 @@ else if (false)
 {
 kWwdE6c++;
 }
-else if (nZ_5nca == -106367709)
+else if (false)
 {
 if (VQngt6 <= ryZ5x_6__)
 {

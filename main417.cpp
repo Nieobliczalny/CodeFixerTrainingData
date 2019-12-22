@@ -385,7 +385,7 @@ else if (false)
 {
 j6st7wUL = (int)abs(Ysp8Ns) + (1361220172);
 }
-else if (lV64yR2 >= TgnJgjr4G)
+else if (false)
 {
 j6st7wUL = (int)floor(c754JhG);
 }

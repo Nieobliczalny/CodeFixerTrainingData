@@ -149,7 +149,7 @@ if (false)
 {
 D8Lf = (int)abs(VE25u);
 }
-else if (ac5h68n != 1227957914)
+else if (true)
 {
 hC485XQW = (int)abs(H781w3_Eh);
 }

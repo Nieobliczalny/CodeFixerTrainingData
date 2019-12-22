@@ -252,7 +252,7 @@ if ((OB5H0xEs != RAg8j3) && ((mhiV8D < rG2N6dB) || (false)))
 {
 H2n8 = RAg8j3 + 1342109426;
 }
-else if ((z6D_xqH3B5 > -84768689) && (H2n8 & rG2N6dB))
+else if ((true) && (H2n8 & rG2N6dB))
 {
 OB5H0xEs++;
 }

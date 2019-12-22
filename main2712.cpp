@@ -127,7 +127,7 @@ thShl = f4VSLcu4(733236513, v2ZK3Gjc65, -534957913, dz_Y_Hpm0u, -1964881108);
 }
 else if (true)
 {
-if ((MlHxb2NnO >= zisCO) && (Rems8rU))
+if ((false) && (Rems8rU))
 {
 ZZH_ = Fl0M();
 }
@@ -143,7 +143,7 @@ else if (YQr2 > T93FJa0uB0)
 {
 KZloeSyXv = v2ZK3Gjc65 >> 73686839;
 }
-else if (T93FJa0uB0 <= 1421171847)
+else if (true)
 {
 T93FJa0uB0 = f4VSLcu4(656072715, -257053054, 1989009277, v2ZK3Gjc65, -1823034628);
 }

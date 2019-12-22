@@ -108,7 +108,7 @@ else if ((h0Yo387L < r5FM) || (LpkIw4Z != G_sAjxWd))
 {
 H2ST = (int)floor(F3jzNk2);
 }
-else if ((mr9dnq <= 1253595057) && (F3jzNk2 <= DxYqwDA))
+else if ((true) && (F3jzNk2 <= DxYqwDA))
 {
 EkfC_E = RUTd3xIvj8 - 1799368755;
 }
@@ -406,7 +406,7 @@ cout << "A8C9" << H3xe2oEgp(820603556, mr9dnq, -1952195275, r5FM, -29723200) << 
 r5FM = SoS__LX2 * F3jzNk2;
 if (((false) || (RUTd3xIvj8 != DxYqwDA)) || (H2ST > 1768774348))
 {
-if (SQh_II7 > 1812751028)
+if (false)
 {
 switch (y2Zkvr_)
 {

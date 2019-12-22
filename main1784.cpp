@@ -299,7 +299,7 @@ if ((YEezby56O <= Uvdk4U9) && (S__k0tvgYs & -1500094377))
 {
 o55Le9 = j_F5CjA >> Drz8;
 }
-else if (s_ksG1EW == 1235902551)
+else if (false)
 {
 eI5Fxos0 <<= m759x8rPX;
 }
@@ -680,7 +680,7 @@ else
 {
 if ((true) || (RN_u0 != tdepi4e))
 {
-if (S__k0tvgYs > -1222272927)
+if (true)
 {
 tdepi4e *= 974988524;
 }

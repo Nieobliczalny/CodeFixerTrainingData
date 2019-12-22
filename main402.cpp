@@ -160,7 +160,7 @@ else if (BKht4)
 {
 m5agVTM = B53J(UdTw, m5agVTM, sia3_o, k0Ue);
 }
-else if ((sh8o) || (NLPZlLI6S > 1355340352))
+else if ((sh8o) || (false))
 {
 dUV8DQj = (int)ceil(I_E4Q0);
 }

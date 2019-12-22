@@ -51,7 +51,7 @@ q93_uCSL8 = HsTw7m(1859142180, 403129304, jp99U, 929879995);
 }
 else if ((true) || (q93_uCSL8 != gW55))
 {
-if ((A21Qy5) && (d_K4D17_ < -1641430414))
+if ((A21Qy5) && (false))
 {
 switch (d_K4D17_)
 {

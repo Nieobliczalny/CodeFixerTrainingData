@@ -181,7 +181,7 @@ else if (false)
 {
 AKkgge5e = (char)(x9QUDF1 * AKkgge5e);
 }
-else if (vOXhIA <= -1830390269)
+else if (false)
 {
 cout << "g4grCK" << "Ir5Lu5" << Y87Y41 << "mP0x2u8Y7" << "I_92" << endl;
 }
@@ -432,7 +432,7 @@ Kkc_ &= 6906228;
 }
 else if (true)
 {
-if (AKkgge5e < 1249558154)
+if (true)
 {
 cout << Hh92w(-670711438, tPS3m, BcgjCiX) << AKkgge5e << endl;
 }

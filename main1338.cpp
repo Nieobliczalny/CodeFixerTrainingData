@@ -82,7 +82,7 @@ if ((Z8rSP9_C >= q1e___n8) && (true))
 {
 D980 = R50g_sIs0v(1639705910, -1869218659);
 }
-else if (Ep3sC3vx != N4N_)
+else if (true)
 {
 q1e___n8 = osC_3wD | D1rJ;
 }
@@ -227,7 +227,7 @@ else if (false)
 {
 cout << "yyX5y_cSy" << YlVO9i8 << R50g_sIs0v(909093166, Psy_G6gP) << endl;
 }
-else if (Ep3sC3vx == N4N_)
+else if (false)
 {
 if (((D980 & N4N_) || (Psy_G6gP & 1963899774)) || (l12O8XGXk < 723013133))
 {

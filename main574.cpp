@@ -154,7 +154,7 @@ else if (true)
 int j = 0;
 do
 {
-if (((DbFV3F_M4Q < UF4E0kg8V) && (qyz_7Ab != -861034301)) && ((K67rcwYp9 != TVbi) && (v9iEh8y6a & 131462478)))
+if (((DbFV3F_M4Q < UF4E0kg8V) && (true)) && ((K67rcwYp9 != TVbi) && (v9iEh8y6a & 131462478)))
 {
 psgV7f2v = pPAfXci92 << D8DJ9;
 }

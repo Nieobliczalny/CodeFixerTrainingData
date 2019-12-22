@@ -258,7 +258,7 @@ else if ((false) || (k5OJ8OC9GG <= CRbzf8))
 switch (vt4AtPJh)
 {
 case 0:
-TP02wZfCc = (H2_GVpA3Z != 1809023505) ? f0hnV : pVWu2hH87;
+TP02wZfCc = (true) ? f0hnV : pVWu2hH87;
 break;
 case 1:
 pVWu2hH87 = CRbzf8 ^ 1126610626;
@@ -362,7 +362,7 @@ OzHB = (int)(k5MI_TE * OzHB);
 
 if (true)
 {
-if (Vj_QMTQ > -1827260549)
+if (true)
 {
 X0zRdP6 = (unsigned int)(f0hnV);
 }

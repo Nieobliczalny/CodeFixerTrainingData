@@ -213,7 +213,7 @@ else if (L8y00llh)
 {
 if (Wx0x & -208980165)
 {
-if ((pNVGE_Z7 <= -702047170) || ((OnkTQ63 != -102323464) || (Z3x3e == 1843516930)))
+if ((pNVGE_Z7 <= -702047170) || ((OnkTQ63 != -102323464) || (false)))
 {
 m7S1KP = (int)floor(XA818_);
 }
@@ -273,7 +273,7 @@ for (int i = 9; i >= 0; i--)
 {
 if (((V30c6_Ua) || (I4Ur8y1T == -528279802)) || (qXck6F))
 {
-if (((true) && (l_QR < -602239733)) && (m7S1KP != U11_HY))
+if (((true) && (false)) && (m7S1KP != U11_HY))
 {
 I4Ur8y1T = (int)abs(hlhYk0q);
 }

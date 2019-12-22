@@ -602,7 +602,7 @@ else
 W76W4_LA65 /= 1124285654;
 }
 }
-else if ((S2Y1Kp9f == -1077415424) && (S2Y1Kp9f >= Ai0yc9G))
+else if ((false) && (S2Y1Kp9f >= Ai0yc9G))
 {
 cout << fSarERo << "Qd17v" << H08I_WD2(vFD9Pg9N52, 1293412192) << L2jhCoZ8KT << endl;
 }

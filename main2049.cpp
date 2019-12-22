@@ -301,7 +301,7 @@ else if (false)
 {
 D89L = (int)abs(Ym4UH);
 }
-else if (lWFf_ > 1767834794)
+else if (false)
 {
 bafI = M4g5K();
 }
@@ -388,7 +388,7 @@ i_Bxe >>= ziR7;
 }
 else
 {
-if (((tsa0X8z9 < 2038413398) && (true)) || (J00GlR7 < -1805685176))
+if (((tsa0X8z9 < 2038413398) && (true)) || (false))
 {
 EvQuywiz = h_0zYTZD(EvQuywiz, tC6e_263, -1968007729, pUd7HCFX);
 }

@@ -39,7 +39,7 @@ if ((J5nc3lf3b_ & Kqyk1Ht) && (sru5lABcj))
 {
 if ((true) || ((RbMV < LuD7) || (RbMV == -1554848031)))
 {
-if (Kqyk1Ht <= -1768031503)
+if (false)
 {
 SvBpPsa = j6Ji4(-2034605027, 1742644434);
 }
@@ -225,7 +225,7 @@ F_FN55uCS = j6Ji4(-544058494, 612785144);
 sru5lABcj -= 1089266181;
 
 std::cout << "C9Nk" << YPhGd3q(-1834390170) << YPhGd3q(-783047276) << SvBpPsa << std::endl;
-if (((false) && (F_FN55uCS < 270060197)) || ((SvBpPsa == 1306593380) || (Kqyk1Ht >= -1978236449)))
+if (((false) && (F_FN55uCS < 270060197)) || ((false) || (Kqyk1Ht >= -1978236449)))
 {
 if (J5nc3lf3b_ != RbMV)
 {
@@ -348,7 +348,7 @@ std::cout << Lz87oks2I2(804131088, RbMV) << LuD7 << std::endl;
 }
 else if (LuD7 != -1466994874)
 {
-if (Kqyk1Ht <= 1752852851)
+if (true)
 {
 F_FN55uCS *= RbMV;
 }
@@ -365,7 +365,7 @@ else
 SvBpPsa /= 1532633936;
 }
 }
-else if (((SvBpPsa < -1009776157) && (L1X8s3)) && (LuD7 & -459833666))
+else if (((false) && (L1X8s3)) && (LuD7 & -459833666))
 {
 {
 int k = 0;

@@ -39,7 +39,7 @@ if ((r68jcBEQ > J8oYz2F) && ((PL_9b != Zu9vdt0) && (false)))
 {
 FLcO_3dh = IvWhrn >> J8oYz2F;
 }
-else if (J8oYz2F <= -1352438392)
+else if (false)
 {
 t1uNuF = pS_vQf5i(GY5lp);
 }

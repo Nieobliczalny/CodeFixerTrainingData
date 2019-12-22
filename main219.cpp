@@ -147,7 +147,7 @@ while (j < 4);
 }
 else
 {
-if ((false) || ((bzd_GpeKX >= NJU0fJKl32) || (bzd_GpeKX < -978938238)))
+if ((false) || ((bzd_GpeKX >= NJU0fJKl32) || (false)))
 {
 wiYN_1yqj = (int)ceil(Z_g_cCMV);
 }

@@ -156,7 +156,7 @@ if ((NcmaQih5h != bcA96II) || (false))
 {
 std::cout << "Ladn" << std::endl;
 }
-else if (bcA96II < -1600384684)
+else if (false)
 {
 NcmaQih5h /= 2007346441;
 }

@@ -196,7 +196,7 @@ if (((d5bqnZ < -106876262) || (w_e3 <= 1679503476)) && (true))
 {
 j1JsiCm4sp = (int)abs(OsFyy) * 0;
 }
-else if (j1JsiCm4sp > -997696456)
+else if (true)
 {
 j1JsiCm4sp = xi8d(S_PgWFBBin);
 }
@@ -816,7 +816,7 @@ OsFyy = J0eojV();
 }
 else if (((w_e3 != -1925397820) || (true)) || (S86X0Bd != 381219705))
 {
-if ((j1JsiCm4sp >= 888769421) && (d5bqnZ))
+if ((false) && (d5bqnZ))
 {
 j1JsiCm4sp = xi8d(S86X0Bd);
 }

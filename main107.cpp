@@ -499,7 +499,7 @@ else
 F6SaLZ = L61fk & kqb8Of;
 }
 }
-else if (((false) || (pYQ3y)) || (BToc4FS1 > muA25bQH))
+else if (((false) || (pYQ3y)) || (true))
 {
 if (Dzg3m < 803183256)
 {

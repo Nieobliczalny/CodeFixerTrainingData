@@ -265,7 +265,7 @@ if (((opoP4_AL47 > P2Xd3x6l6f) || (WF3cL7kV6 & -612595882)) && (o02GG == g2SupIg
 {
 Y55XHd = (int)floor(zDr0XBT);
 }
-else if (UgF6 < -989639091)
+else if (false)
 {
 H9__n0BP_ = w63s2a(-53630431, SgZapR, Y1S5L20A, GM5X9o1JcQ, z2A4U);
 }

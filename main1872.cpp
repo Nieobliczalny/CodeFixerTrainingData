@@ -126,7 +126,7 @@ else
 {
 if (OmQ83zaI & 2107840388)
 {
-if ((true) && (fPdfz7 > 1853970495))
+if ((true) && (false))
 {
 Xv1jo_5dk %= fPdfz7;
 }

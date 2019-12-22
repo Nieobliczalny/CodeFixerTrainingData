@@ -558,7 +558,7 @@ if (ZDz3z22 == cng8sN)
 {
 v78ums5Mo = ZDz3z22 >> 2065616533;
 }
-else if (((false) || (UKp4c59J1 >= DD04a)) && (LGe3_61j))
+else if (((false) || (false)) && (LGe3_61j))
 {
 V0__0 |= 1173553904;
 }
@@ -578,7 +578,7 @@ CjXzx = V2Ki7N();
 }
 if (true)
 {
-if ((q88K595X == ybq13) || (WhKL7LkMO <= DD04a))
+if ((false) || (WhKL7LkMO <= DD04a))
 {
 try
 {

@@ -214,7 +214,7 @@ try
 {
 try
 {
-if (((false) || (S23sc3Us8k <= jAE0)) && (YjRK94K12 <= -1730654954))
+if (((false) || (S23sc3Us8k <= jAE0)) && (false))
 {
 mQz8j15n >>= 586245615;
 }

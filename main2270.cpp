@@ -317,7 +317,7 @@ BTNBC = (false) ? 2094863102 : 645079541;
 }
 else
 {
-if (i01e7 <= -220197008)
+if (false)
 {
 iE8f4xSqTQ = BTNBC << z6gOSjPn5;
 }
@@ -411,7 +411,7 @@ std::cout << iE8f4xSqTQ << "FH83V" << yObW6 << "IjiY3n5cZ0" << aAedT38DO << std:
 
 if (true)
 {
-if (yObW6 <= -1472310566)
+if (false)
 {
 z6gOSjPn5 = (unsigned short int)(LQyP5yV9w);
 }

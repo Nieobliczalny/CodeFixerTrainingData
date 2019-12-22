@@ -87,7 +87,7 @@ if (Cd46 < -1204721280)
 {
 std::cout << "BK41z" << "Rcjn4" << B_R5i1j0_ << "O8Tif" << TObJ7(-1477689732, oDR6vK, 1957950492, 572033247, 275514643) << std::endl;
 }
-else if (((true) && (XjIio221)) && (K2HI4i0zzn > -1291449583))
+else if (((true) && (XjIio221)) && (true))
 {
 if (K2HI4i0zzn >= 1493409812)
 {
@@ -282,7 +282,7 @@ k--;
 }
 else if ((false) || (iqDB4))
 {
-if ((cskMR0 == B_R5i1j0_) && (XjIio221 >= 149954073))
+if ((cskMR0 == B_R5i1j0_) && (false))
 {
 pBRZCF3l5B = Q1R7DZ();
 }
@@ -516,7 +516,7 @@ mH45q86o5 = (int)floor(B_R5i1j0_);
 break;
 }
 }
-else if (((false) || (iqDB4)) || (K2HI4i0zzn >= 678336485))
+else if (((false) || (iqDB4)) || (false))
 {
 if (mH45q86o5 == -2141698711)
 {

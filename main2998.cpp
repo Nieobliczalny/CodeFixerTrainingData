@@ -112,7 +112,7 @@ cout << "x9RpJ" << flR1rtrV3 << "bHis" << "vReHG" << ABA4_BYdZu << endl;
 
 Gb52P--;
 
-if (((false) || (Jo15py)) && (XJu106n4 != 84287160))
+if (((false) || (Jo15py)) && (true))
 {
 switch (haRM6_5)
 {

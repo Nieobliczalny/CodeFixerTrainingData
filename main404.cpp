@@ -467,7 +467,7 @@ else
 cK1pgAqy1x = oV3R9();
 }
 }
-else if ((pYNuu < BFI7t0_2) || ((Bq2yr == L9E2Ay9) && (hXc7W13o7 > -1848809840)))
+else if ((pYNuu < BFI7t0_2) || ((Bq2yr == L9E2Ay9) && (true)))
 {
 for (int k = 1; k >= 0; --k)
 {
@@ -494,7 +494,7 @@ else
 dCE6pcP9 = (int)abs(u0fx);
 }
 }
-else if ((false) || ((Mva1AK63F < PtTo03jG) && (VsVskM75z != PtTo03jG)))
+else if ((false) || ((true) && (VsVskM75z != PtTo03jG)))
 {
 {
 int j = 1;

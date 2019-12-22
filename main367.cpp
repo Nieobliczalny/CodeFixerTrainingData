@@ -244,7 +244,7 @@ if (nS54EK9U4j == D_WM4)
 {
 std::cout << AaiGM5 << nS54EK9U4j << "ub7o773jJ_" << std::endl;
 }
-else if ((v77hCW0J0 & -493443044) || (IqKA >= -1249217509))
+else if ((v77hCW0J0 & -493443044) || (true))
 {
 if (de91613aI_ == WqJ3_)
 {

@@ -81,7 +81,7 @@ else if (false)
 {
 pBbpG3VY_ %= 226785856;
 }
-else if ((u4N_6_Cy != oz4dlx) && ((A1mGgZ7fn >= jTcN3Wl7J) || (u4N_6_Cy != jTcN3Wl7J)))
+else if ((true) && ((A1mGgZ7fn >= jTcN3Wl7J) || (u4N_6_Cy != jTcN3Wl7J)))
 {
 u4N_6_Cy = SvDkgsS2();
 }
@@ -153,7 +153,7 @@ if (false)
 {
 cout << SvDkgsS2() << SvDkgsS2() << endl;
 }
-else if (X03M >= jTcN3Wl7J)
+else if (true)
 {
 cout << SvDkgsS2() << QHM3J << "h5bWvf2eqi" << t5_Y1N1I << SvDkgsS2() << endl;
 }
@@ -220,7 +220,7 @@ A1mGgZ7fn = SvDkgsS2();
 }
 if ((false) || (pBbpG3VY_))
 {
-if (((A1mGgZ7fn & 930527254) || (QHM3J >= oz4dlx)) || (u4N_6_Cy == oz4dlx))
+if (((A1mGgZ7fn & 930527254) || (false)) || (u4N_6_Cy == oz4dlx))
 {
 if (A1mGgZ7fn <= Qg_fN8)
 {
@@ -373,7 +373,7 @@ A1mGgZ7fn = SvDkgsS2();
 }
 else if ((X03M > reBJ) || ((false) && (A1mGgZ7fn > jTcN3Wl7J)))
 {
-if (reBJ >= 113332873)
+if (false)
 {
 for (int k = 0; k < 9; k++)
 {

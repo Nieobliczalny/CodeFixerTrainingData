@@ -213,7 +213,7 @@ while (i < 8);
 f87w = evVG_9o(Bp0O61Cx6);
 KF138 = 1672984521 / YKe95H49Vk;
 
-if (((false) || (JB17ic_zS3 != 423100473)) || (Bp0O61Cx6))
+if (((false) || (true)) || (Bp0O61Cx6))
 {
 ac50oKQ_Y6 &= 53513631;
 }

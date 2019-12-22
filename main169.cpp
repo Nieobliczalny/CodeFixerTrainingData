@@ -247,7 +247,7 @@ t06nM00s5 = (unsigned short int)(R8TonPR7rU);
 }
 }
 
-if ((false) || ((UlcQ_7eQM <= -1521567386) && (ou1m12vA8y == -93194872)))
+if ((false) || ((UlcQ_7eQM <= -1521567386) && (false)))
 {
 UlcQ_7eQM = (long long)(ou1m12vA8y);
 }

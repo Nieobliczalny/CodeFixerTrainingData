@@ -380,7 +380,7 @@ if ((G_8DgAY_0 <= -646310311) && (true))
 {
 cout << "eRgu" << "g24_" << hxbM0Cp << "ZJ757_Sx" << "v71jh_838" << endl;
 }
-else if (((cs82w != Dly2bhty6) || (ZeHnf != -605253912)) || (WV5g74 > 1275955704))
+else if (((cs82w != Dly2bhty6) || (ZeHnf != -605253912)) || (false))
 {
 if (oL9lIBo)
 {
@@ -633,7 +633,7 @@ if (G_cRvEk7Ay > Dly2bhty6)
 {
 aW19Yl = nADByD() + 1035224765;
 }
-else if ((false) || ((Y28q6 <= Dly2bhty6) || (U294FcY <= -1270726002)))
+else if ((false) || ((Y28q6 <= Dly2bhty6) || (false)))
 {
 if (sCeRaFPaEn)
 {

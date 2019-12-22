@@ -185,7 +185,7 @@ else if (ig5jrFIA0f & -539319219)
 {
 Iik97uiT &= 1777237600;
 }
-else if (Z4qk == -594139321)
+else if (false)
 {
 ig5jrFIA0f >>= nAXEkDEweF;
 }
@@ -235,7 +235,7 @@ while (i < 2)
 ++i;
 if (true)
 {
-if (VeoB < -2043631297)
+if (false)
 {
 L0t_T++;
 }

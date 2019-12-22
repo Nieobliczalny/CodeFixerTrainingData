@@ -98,7 +98,7 @@ mhgR9 = UjJEJ / Qub8JQ;
 }
 else if ((ATSqRvGfX) && (vzqh > -787846851))
 {
-if ((Zi_0xO72 & -1630586018) || (Qub8JQ >= 1160681806))
+if ((Zi_0xO72 & -1630586018) || (false))
 {
 V7YB_4v8R2 = hUX5v5tsl(q_OmKaJZ, 1275784547, I8BBN8a5Iu, 2003276127, ATSqRvGfX);
 }

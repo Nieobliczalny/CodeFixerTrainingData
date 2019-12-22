@@ -120,7 +120,7 @@ else
 {
 if ((pV_6J > QZCZn_NyA) && ((false) || (Ljj70L82PM >= 1947960524)))
 {
-if (Zmg0z34gNc <= 1010496559)
+if (true)
 {
 Oa4hTT = (int)floor(Q6sbx45C);
 }

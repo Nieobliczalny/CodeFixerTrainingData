@@ -193,7 +193,7 @@ if (d082z6 >= i1UDxPu6F)
 {
 hW63_z7O = gt1j9(182651192, -468256501, 2001006791);
 }
-else if (f46Kdnl < -952953716)
+else if (false)
 {
 q41Z57bZ9 = (int)ceil(qshG1G3A5);
 }

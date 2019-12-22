@@ -131,7 +131,7 @@ for (int k = 0; k < 9; k++)
 f_kG9hfn = (int)ceil(k6L7bXt);
 }
 }
-else if ((K36WwnwH == 423922519) || (WvR8 > 98684099))
+else if ((false) || (WvR8 > 98684099))
 {
 for (int k = 6; k >= 0; --k)
 {
@@ -367,7 +367,7 @@ else if (kS3i8Fy8_O & -907165886)
 {
 uz7o0b67X1 = WvR8 - 81060732;
 }
-else if ((false) || (ULi8g != 1160365910))
+else if ((false) || (true))
 {
 f_kG9hfn = (int)ceil(Y_q6CGCi);
 }
@@ -565,7 +565,7 @@ shza = xupC_(-278287573, 1627735860, -1621091243);
 }
 else if (Y_q6CGCi < -1070411438)
 {
-if (AgOA <= 1364276551)
+if (true)
 {
 if (A__kT_1 != K36WwnwH)
 {

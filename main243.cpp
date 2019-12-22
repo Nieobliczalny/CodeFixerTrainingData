@@ -189,7 +189,7 @@ std::cout << "YuBg" << A93d5G4 << "w7uV9" << "VjIdjT947r" << "VWoO26" << std::en
 
 for (int i = 0; i < 10; ++i)
 {
-if (I74miuH1 <= 952093476)
+if (true)
 {
 switch (ar_8TB)
 {

@@ -284,7 +284,7 @@ e65077mM = (unsigned char)(EqBI * e65077mM);
 
 try
 {
-if ((g4usO_ & -764025751) && ((sij7 <= -1385502097) || (mawiBJkFk & 963176393)))
+if ((g4usO_ & -764025751) && ((false) || (mawiBJkFk & 963176393)))
 {
 QvArZ = Y2go(1248442157, -70807349, 1397415955, 623000853);
 }
@@ -551,7 +551,7 @@ else if (MM6EIDrY & rIz_8r8Gsb)
 {
 QvArZ = Y2go(YIVnt, -527290985, pi51s07YO, X_9Yl7ycAQ);
 }
-else if (l1FtJ < -1896133781)
+else if (false)
 {
 r7ws = Y2go(-137388064, 1517842762, 312765991, f9mwD5i70);
 }

@@ -297,7 +297,7 @@ try
 {
 if ((false) || (W266d8p2ve))
 {
-if (((yVwD380 <= 367734871) || (OPM38Ja < F6HPR)) || (QnAv0lGg != -1020384544))
+if (((true) || (OPM38Ja < F6HPR)) || (QnAv0lGg != -1020384544))
 {
 yvMif /= qMa6;
 }

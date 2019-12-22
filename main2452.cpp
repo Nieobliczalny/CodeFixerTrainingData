@@ -444,7 +444,7 @@ Pet5e4vBpb = N_GegFf9j >> a1Y65iJ;
 while (j >= 0);
 }
 }
-if ((true) && ((g5W9ky3 == 1060076114) || (wSszvuwxd <= E556L_)))
+if ((true) && ((false) || (wSszvuwxd <= E556L_)))
 {
 if (fK6t9mf9M >= Zs62qFx4)
 {
@@ -642,7 +642,7 @@ while (k >= 0);
 }
 if (true)
 {
-if (fK6t9mf9M == 89753116)
+if (false)
 {
 {
 int k = 0;

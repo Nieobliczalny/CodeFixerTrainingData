@@ -194,7 +194,7 @@ else
 gkE_caZ = (unsigned char)(d337z);
 }
 }
-zq_K92 = (SXLn1T == 361141294) ? SMN7(2130626802, 1389933036) : Zm07(e29hWETr, -1213490738, 484346126);
+zq_K92 = (false) ? SMN7(2130626802, 1389933036) : Zm07(e29hWETr, -1213490738, 484346126);
 switch (K1n50VAb)
 {
 case 'a':

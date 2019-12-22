@@ -143,7 +143,7 @@ else if (nj4YrAnx9 != whE43NW)
 {
 uJu_ = TQu4ak_ % W86D_K9;
 }
-else if (cj_DNSZ < -1956196517)
+else if (false)
 {
 drMS829yOu = PY4b2P >> 335866300;
 }

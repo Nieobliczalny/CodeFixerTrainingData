@@ -271,7 +271,7 @@ std::cout << oK_y_0pcp_() << oK_y_0pcp_() << "wdUh" << std::endl;
 }
 while (i >= 0);
 }
-if (((JuG75DR < CKcNN) && (true)) && (rg9I_Z6_M >= -741009132))
+if (((JuG75DR < CKcNN) && (true)) && (true))
 {
 {
 int j = 2;
@@ -491,7 +491,7 @@ int j = 4;
 while (j >= 0)
 {
 --j;
-if (((true) || (tGM6 < l0dG2t)) && (rg9I_Z6_M <= -1689393059))
+if (((true) || (tGM6 < l0dG2t)) && (false))
 {
 gPja5 = SC9_3(hoM28U1yt0, A0I0zTgc5, 1589281754, -480344595) - sgbcC6;
 }
@@ -543,7 +543,7 @@ awAO = oK_y_0pcp_();
 
 for (int i = 10; i >= 0; --i)
 {
-if (((true) && (Weyr4 <= M5N1N3)) && (A0I0zTgc5 <= G_VkkP))
+if (((true) && (Weyr4 <= M5N1N3)) && (true))
 {
 {
 int k = 0;

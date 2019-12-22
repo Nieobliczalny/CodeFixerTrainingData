@@ -102,7 +102,7 @@ P8L94batb9 = (int)abs(fUmFU9VK);
 }
 else if (true)
 {
-if (S61lr > y2gxAJd)
+if (false)
 {
 b555S = Q13BM5I(b555S, -259567550, -1427067177, -1663351889, 2057585975);
 }

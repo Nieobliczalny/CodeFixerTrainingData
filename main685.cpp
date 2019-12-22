@@ -218,7 +218,7 @@ if (p8cX7j1hg)
 {
 p8cX7j1hg >>= 923145804;
 }
-else if (((true) && (eb8uwsnK < -668433950)) || ((v0ND8 != myDk9I_58) && (myDk9I_58 < zS9tvI5)))
+else if (((true) && (false)) || ((v0ND8 != myDk9I_58) && (myDk9I_58 < zS9tvI5)))
 {
 BF30WM |= 995939463;
 }

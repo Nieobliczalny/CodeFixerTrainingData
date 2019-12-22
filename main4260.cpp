@@ -43,7 +43,7 @@ if (Rjtzu & Cf66tz113)
 {
 Rjtzu = m94z80UU(2121618666, wh2yBAg, gN9Q_CCU);
 }
-else if (((gN9Q_CCU & 829825592) || (true)) && (gN9Q_CCU >= O0350_3K))
+else if (((gN9Q_CCU & 829825592) || (true)) && (false))
 {
 cout << Rjtzu << "xcOU0i" << "cr_G" << wh2yBAg << endl;
 }
@@ -74,7 +74,7 @@ else if (wh2yBAg <= Rjtzu)
 {
 Rjtzu = m94z80UU(398572343, wh2yBAg, 1357935551);
 }
-else if (((Rjtzu > G9GC0X8B1u) && (gN9Q_CCU > O0350_3K)) || (wh2yBAg >= 271295316))
+else if (((true) && (gN9Q_CCU > O0350_3K)) || (wh2yBAg >= 271295316))
 {
 for (int k = 6; k >= 0; k--)
 {
@@ -173,7 +173,7 @@ wh2yBAg = wh2yBAg % 306101078;
 while (k >= 0);
 }
 }
-else if ((false) || ((gN9Q_CCU != O0350_3K) && (wh2yBAg <= gN9Q_CCU)))
+else if ((false) || ((true) && (wh2yBAg <= gN9Q_CCU)))
 {
 if ((wh2yBAg & G9GC0X8B1u) || (Rjtzu))
 {
@@ -426,7 +426,7 @@ wh2yBAg = (wh2yBAg > 1582284078) ? Rjtzu : gN9Q_CCU;
 }
 else
 {
-if (Rjtzu <= -1216984389)
+if (false)
 {
 if (gN9Q_CCU)
 {

@@ -262,7 +262,7 @@ else if (false)
 {
 I9B_8 = (int)floor(PO5sob);
 }
-else if (v5Z7rlC38 >= e_28)
+else if (true)
 {
 if (KRh6 != D6SdSMQD)
 {
@@ -272,7 +272,7 @@ else if (false)
 {
 cout << PGLcp54J2o << "t79tW3q_7_" << endl;
 }
-else if ((dc6zx29_ <= W04SJIvWS2) || (S11C_M >= z7hz6VuD5l))
+else if ((false) || (S11C_M >= z7hz6VuD5l))
 {
 if (u2kc30y3 < No7Kbd)
 {

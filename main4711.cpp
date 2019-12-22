@@ -73,7 +73,7 @@ else
 {
 try
 {
-if (If983uv8W4 < 1355647238)
+if (true)
 {
 tfsZd = CbyL(tfsZd, tz23ec1Oc, -1392503960);
 }
@@ -146,7 +146,7 @@ Dq5D57j2_ = d48fo41bQ(Dq5D57j2_, D9B8);
 }
 ekZer_ = (false) ? vyIud2 : XX_Hz1WJ;
 
-if ((m_o5O66ET8 == -1660918114) && (K5_26q8l))
+if ((false) && (K5_26q8l))
 {
 {
 int j = 5;
@@ -279,7 +279,7 @@ if (false)
 {
 If983uv8W4 = Sr_H_Rs(If983uv8W4, K7HIMqTQ28, 220720183, -161492242, 106215197);
 }
-else if ((jnC713_ != VjG1) && ((D9B8 > 1459814405) && (D9B8 >= -980784835)))
+else if ((jnC713_ != VjG1) && ((false) && (D9B8 >= -980784835)))
 {
 if (d3yQpg4lk <= -1720176811)
 {

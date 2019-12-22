@@ -228,7 +228,7 @@ if ((false) && ((qwDPu7zS & JT_vi2hsd4) && (Y3324 < IhS4)))
 {
 f7C7D = (unsigned short)(TTW44);
 }
-else if ((bWfcT1FMqC > dQNkA) && (Q5oR26VE == DU_kmD))
+else if ((true) && (Q5oR26VE == DU_kmD))
 {
 for (int k = 0; k < 4; k++)
 {

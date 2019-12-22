@@ -336,7 +336,7 @@ u5GuLh = (int)floor(vP50Fh9p);
 }
 }
 }
-else if (((C30_8rW == 1772163356) && (sm39Wz1D4 <= 1868333788)) || (IOaDjJSzV6))
+else if (((C30_8rW == 1772163356) && (true)) || (IOaDjJSzV6))
 {
 if (oEg5s2_ >= -841918363)
 {

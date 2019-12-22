@@ -371,7 +371,7 @@ if (false)
 {
 Ezav6qO = bH6OD(Ezav6qO, -681474302);
 }
-else if ((XmU2 == -28883754) || (iBS40X == -1126420538))
+else if ((XmU2 == -28883754) || (false))
 {
 VGrc0_c1g ^= t5YX;
 }
