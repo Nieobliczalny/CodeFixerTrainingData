@@ -70,7 +70,7 @@ break;
 }
 else if ((true) || (aUVgy94r6 > yyEB))
 {
-if (((false) && (QdMV & 1696586787)) || ((g0q09 & 970191293) || (y_y8rSmI2 <= -1500288411)))
+if (((false) && (QdMV & 1696586787)) || ((g0q09 & 970191293) || (false)))
 {
 if (y_y8rSmI2 >= 690214041)
 {

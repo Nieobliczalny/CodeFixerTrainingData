@@ -167,7 +167,7 @@ else if (false)
 {
 eJ__K79Z &= 1752898697;
 }
-else if (((true) || (Z7M7g2X0 != -1904776559)) && (nBIB3N != 1664583098))
+else if (((true) || (Z7M7g2X0 != -1904776559)) && (true))
 {
 wZbS = YNrcw ^ 353242409;
 }

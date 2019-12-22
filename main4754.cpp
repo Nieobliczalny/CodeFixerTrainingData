@@ -328,7 +328,7 @@ sDE8 = DN23 % 1419726516;
 }
 else
 {
-if (LWcM0JU2o < 1829185181)
+if (true)
 {
 dgG9Yuxy %= Z74T24oOQ;
 }

@@ -61,7 +61,7 @@ else if ((false) || (false))
 {
 E_Y9l = cLaR70(1482601576, 845018540);
 }
-else if (ocvDWb < -1130831849)
+else if (false)
 {
 D6szBm6O5I = W25CxFF5();
 }
@@ -218,7 +218,7 @@ cout << cLaR70(-381524025, 475165311) << "v6_kE" << W5Cy1_lxh << endl;
 }
 if ((IzDl6wG >= XndlfdRYI3) && (true))
 {
-if ((r3BGYdk8 >= -1596550913) || ((oMFF != -944326369) && (hOSI3p < 1187812485)))
+if ((true) || ((oMFF != -944326369) && (hOSI3p < 1187812485)))
 {
 W_2Br *= Gd1C;
 }

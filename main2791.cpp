@@ -229,7 +229,7 @@ p8iFzW_ZB = R8K66y << 1233097923;
 break;
 }
 }
-else if (Oj28c5L < 147376267)
+else if (true)
 {
 SX740w8jq7 ^= 792301996;
 }

@@ -436,7 +436,7 @@ if ((false) && (w6yu8W7d_b >= mNxW_x8))
 {
 d2Y8 = d736 | q3upZ;
 }
-else if (j_2a != -1736418996)
+else if (true)
 {
 WeLwS = fAa__Z(jIRRz, aa7r98tS) % so8_YHV;
 }

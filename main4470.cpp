@@ -696,7 +696,7 @@ for (int i = 0; i < 1; ++i)
 {
 if ((false) || (true))
 {
-if (KW067eh5 <= -1902215851)
+if (false)
 {
 B7jod = lLQC8836 - x6c23NL;
 }

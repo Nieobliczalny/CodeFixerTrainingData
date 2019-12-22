@@ -480,7 +480,7 @@ if (((false) || (LD23n_t4F9 == 1349648781)) && (N00H < Te0osz))
 {
 CN5dH = (int)floor(lM3evK);
 }
-else if (((true) && (tG8ngn6ro6 != 488027167)) && (I26Js2NQ4r & -1490770362))
+else if (((true) && (true)) && (I26Js2NQ4r & -1490770362))
 {
 {
 int j = 0;

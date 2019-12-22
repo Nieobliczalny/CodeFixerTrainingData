@@ -212,7 +212,7 @@ else if (false)
 {
 DG17qRNUni = (short)(l8Bo8689);
 }
-else if (dEKzuJ >= 483274597)
+else if (false)
 {
 if (xN5TVM <= yXZyR)
 {

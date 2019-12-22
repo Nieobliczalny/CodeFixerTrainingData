@@ -191,7 +191,7 @@ nOErEcT25 = Bg6w2P23u & 1014709459;
 
 if (j0Zw4MQ9X4 > sy18qp)
 {
-if ((true) && ((false) || (sy18qp < pMM7)))
+if ((true) && ((false) || (false)))
 {
 m4_V = (unsigned short)(j0Zw4MQ9X4);
 }

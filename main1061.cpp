@@ -268,7 +268,7 @@ else if ((oPtx_5 > x5o6F94e) || ((false) && (C0lvc < -1643803496)))
 {
 oPtx_5 = K7Jm17Db / oPtx_5;
 }
-else if (j1WT5kx == 311507649)
+else if (false)
 {
 switch (sKl3j74zH)
 {

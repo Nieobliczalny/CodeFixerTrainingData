@@ -169,7 +169,7 @@ nE0Uc0O = (short int)(d8c4Jfj33y);
 }
 else
 {
-if ((w5p9 < n5Zr) || ((m1T4 >= gYDf1zV47) || (yy4M == 1004301708)))
+if ((true) || ((m1T4 >= gYDf1zV47) || (yy4M == 1004301708)))
 {
 w5p9 <<= 26609413;
 }

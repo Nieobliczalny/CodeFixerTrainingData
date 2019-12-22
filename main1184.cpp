@@ -348,7 +348,7 @@ else if (false)
 {
 vwb5 = j9cRBcNqs(732806187);
 }
-else if (q2N_ > i6u5v)
+else if (false)
 {
 d0mEbk7 = (int)ceil(G2Xj31);
 }

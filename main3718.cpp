@@ -460,7 +460,7 @@ if (((true) || (UgYtm3_ == ngwaQU6DEH)) && ((false) && (Q09eO0GKZ4 <= -196443562
 {
 itxhS = (unsigned char)(ngwaQU6DEH);
 }
-else if (((JyXnBJ >= L13o0202DB) && (Gi8Hr8)) && (UgYtm3_ >= 1168850893))
+else if (((JyXnBJ >= L13o0202DB) && (Gi8Hr8)) && (false))
 {
 switch (JyXnBJ)
 {

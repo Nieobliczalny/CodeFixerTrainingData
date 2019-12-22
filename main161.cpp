@@ -237,7 +237,7 @@ L9HQy4IPRB = (short int)(umaI + (Qk4A8_8c4));
 
 EzJ445 = UYN_aD24 | 1478582951;
 cout << 1371697173 / SieyR_ko2(ZO4pS, -1475755889, -389490820, I6CIK_9J) << endl;
-if (tIZp5_nUu < 809516126)
+if (true)
 {
 cout << T94qE5m() << "pWmQo3Uf_" << SieyR_ko2(891435840, yHrJLXt, ln_a2Y, I6CIK_9J) << "PyX47" << tbcq0IF << endl;
 }

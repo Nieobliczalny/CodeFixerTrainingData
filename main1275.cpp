@@ -71,7 +71,7 @@ while (i < 3);
 }
 
 MRC3QwR_Dy %= HW_Lh;
-if ((true) && ((true) && (cu6Tiz54y6 > gW9T5T0xZ)))
+if ((true) && ((true) && (false)))
 {
 {
 int j = 5;

@@ -60,7 +60,7 @@ if (JCyySZi6p != xvObR)
 {
 BTa2 = TB_nVx_ * BV06;
 }
-else if ((false) || ((true) && (SB9b4SOP < 861381516)))
+else if ((false) || ((true) && (true)))
 {
 if ((xvObR < xF3Nz0L) || (etZ4OuOhx))
 {

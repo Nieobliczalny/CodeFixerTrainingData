@@ -199,7 +199,7 @@ libg7b = (int)abs(cjcMXFMi37);
 }
 else if (((tlAQBD2 < B_BdS2f0) || (false)) || (HU8k9S <= tlAQBD2))
 {
-if (Iu_z_oo_G >= -464959016)
+if (true)
 {
 ovok *= 1170341483;
 }

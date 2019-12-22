@@ -103,7 +103,7 @@ if ((false) || (v21ih <= hvmi8C))
 {
 if (true)
 {
-if (nu359 >= -1058341221)
+if (true)
 {
 sTqk3IM_ = (int)abs(l56ktqJDF);
 }

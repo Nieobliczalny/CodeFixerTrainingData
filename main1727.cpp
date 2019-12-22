@@ -115,7 +115,7 @@ else if ((sk2e3M4FQ != F1Yj0aS4i) && ((false) || (true)))
 {
 oqPho++;
 }
-else if (lDQhNruK > 31029194)
+else if (false)
 {
 try
 {
@@ -194,7 +194,7 @@ break;
 }
 else if ((false) || (ynrWGW & Kq8MkwC))
 {
-if ((false) || (B0h_8NF > -463057424))
+if ((false) || (true))
 {
 if ((jtL55 != YLYnnoA2u) || ((VQ1S29L <= 1630675487) || (F1Yj0aS4i < dwSN5av)))
 {

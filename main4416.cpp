@@ -120,7 +120,7 @@ else if (a9K0x4 & TC_J3)
 {
 GoaKX33y = (int)abs(PYuS);
 }
-else if (((true) || (MeKiNXeMB != g300)) && ((EuPqz4 < -276153971) || (LX6A3_vf_5 >= 487898889)))
+else if (((true) || (MeKiNXeMB != g300)) && ((false) || (LX6A3_vf_5 >= 487898889)))
 {
 eLmoDVx69v = X45fxU5H4(-1839946547, -887710726);
 }

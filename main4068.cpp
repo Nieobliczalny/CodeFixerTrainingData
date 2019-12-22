@@ -298,7 +298,7 @@ if ((ee65 <= P2trU1C) && (true))
 {
 wlz3tO = (true) ? TQpfD : 1411885198;
 }
-else if ((ee65 & -1124869248) && ((TQpfD != 2027890059) || (wlz3tO != xx6c)))
+else if ((ee65 & -1124869248) && ((true) || (wlz3tO != xx6c)))
 {
 eWsjt7K6_G = xm38Z220F1(eWsjt7K6_G);
 }

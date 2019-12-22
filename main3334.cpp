@@ -72,7 +72,7 @@ if ((zXq4 < OPPsu0y) && (true))
 {
 KY76yn6 -= d4p_X3l;
 }
-else if ((false) || (t6Zx_2fB >= -1687069887))
+else if ((false) || (true))
 {
 {
 int j = 1;
@@ -759,7 +759,7 @@ d4p_X3l &= 1439856887;
 break;
 }
 }
-else if (KY76yn6 < -757997125)
+else if (false)
 {
 switch (Hkg22or5V)
 {

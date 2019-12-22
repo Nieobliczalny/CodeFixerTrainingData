@@ -183,7 +183,7 @@ ucXQcs6G = oHr4bO(ucXQcs6G, DkdY);
 
 if ((true) && (true))
 {
-if (VJZ1_PcI <= v6Yw)
+if (true)
 {
 {
 int k = 0;

@@ -504,7 +504,7 @@ else if (false)
 {
 bk6q1mUKh = (double)(X4zS90Np);
 }
-else if (((vHjQRM6_5 >= -826705480) || (bBBiC6C >= -2099371759)) && ((rOSM38W0C > k35339) && (vHjQRM6_5 > -812920204)))
+else if (((vHjQRM6_5 >= -826705480) || (true)) && ((rOSM38W0C > k35339) && (vHjQRM6_5 > -812920204)))
 {
 if (ICwm5G83L)
 {

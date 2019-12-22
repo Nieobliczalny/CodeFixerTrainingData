@@ -31,7 +31,7 @@ if ((false) || (false))
 {
 W1O0d <<= xr3uNoOVwY;
 }
-else if ((My4Z == -1610223162) && (X1zTvZ4Dw5))
+else if ((false) && (X1zTvZ4Dw5))
 {
 switch (a0h97)
 {

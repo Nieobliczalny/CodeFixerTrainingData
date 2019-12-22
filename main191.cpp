@@ -254,7 +254,7 @@ FcJJ7Oj0 = apzNtOv();
 }
 }
 }
-else if ((false) || ((false) || (QQCWa511w > 1693547343)))
+else if ((false) || ((false) || (false)))
 {
 {
 int j = 1;
@@ -270,7 +270,7 @@ else if (((false) && (U6BR1IB == -1362628622)) || ((q8DRIt > Mk7516N) && (false)
 {
 std::cout << "NNU_P9F1j" << std::endl;
 }
-else if (((fA_Yo < -2085669478) && (lw_LS <= wotFzo3_)) || (Uy5Y > e9995In6))
+else if (((false) && (lw_LS <= wotFzo3_)) || (Uy5Y > e9995In6))
 {
 {
 int j = 8;
@@ -424,7 +424,7 @@ if ((false) && ((WtxuvV4Wb) && (uY811 & gdY8T80Rr)))
 {
 std::cout << v2dvG1n << "fb1k" << "qC220r5ZZD" << "BksMW" << std::endl;
 }
-else if (x6Am == 1148189612)
+else if (false)
 {
 if (K_5IOyeT7X <= E5Don4DJN)
 {

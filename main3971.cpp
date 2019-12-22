@@ -35,7 +35,7 @@ if (((jS30872) && (true)) || ((false) && (ArvQdfhA == 394720399)))
 switch (WujpnS6)
 {
 case 'a':
-PQ85_5 = (CjZR <= -900994990) ? d1l_3EhJ_(1130661260, nD0HV1cq) : 1467041566;
+PQ85_5 = (false) ? d1l_3EhJ_(1130661260, nD0HV1cq) : 1467041566;
 break;
 }
 }
@@ -212,7 +212,7 @@ B0hvQ = R6ov4z3U - 1557650064;
 int i = 0;
 do
 {
-if (((false) || (true)) && ((lK_DaZneq4 != 2125227815) || (WujpnS6 >= -976763442)))
+if (((false) || (true)) && ((true) || (WujpnS6 >= -976763442)))
 {
 if ((CjZR & -1324038755) && (y2M69o4cRu))
 {

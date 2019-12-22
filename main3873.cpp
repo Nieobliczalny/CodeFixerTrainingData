@@ -248,7 +248,7 @@ else if (V5JcVu2M == d00QewWYg9)
 {
 k3r0pe_3 = (float)(I_o4LR);
 }
-else if (((EYvKT <= f32Fw2PV8x) && (true)) || ((true) && (woULrMu3 > -41476858)))
+else if (((EYvKT <= f32Fw2PV8x) && (true)) || ((true) && (true)))
 {
 if (dW14oYcNZ <= q83TZ1)
 {

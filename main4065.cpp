@@ -336,7 +336,7 @@ if (((true) && (sQzXZg)) || (D863Ca9uP >= cQfCXLWa))
 ebZ3 = PpBt7r_do & sQzXZg;
 }
 
-if ((true) && ((uWp7_ != -1540188560) && (ebZ3 > sQzXZg)))
+if ((true) && ((true) && (ebZ3 > sQzXZg)))
 {
 try
 {

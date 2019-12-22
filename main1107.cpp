@@ -111,7 +111,7 @@ if (false)
 {
 p63tS = (int)floor(gI8va1K);
 }
-else if ((M7Ey <= -824645085) || (M7Ey != V54i5v8))
+else if ((false) || (M7Ey != V54i5v8))
 {
 NFZ8WW0lM = AF__i_h1o(72498080, woY2pM9Egh, -1657178108);
 }

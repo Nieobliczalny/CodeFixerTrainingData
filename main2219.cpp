@@ -71,7 +71,7 @@ int main(int argc, char** argv)
 bee9t72Pe4 = (int)abs(Hon5HPxkg);
 if ((true) && (true))
 {
-if ((lf_I5mC > -592033031) || (N2U2p9a < Tu9KL_k50))
+if ((true) || (N2U2p9a < Tu9KL_k50))
 {
 for (int k = 6; k >= 0; k--)
 {

@@ -76,7 +76,7 @@ else
 a9DnGHZoA = j4Jdyh / 1105112449;
 }
 }
-else if (((false) || (rb4pw2h > -584009710)) && (eFXDh4))
+else if (((false) || (true)) && (eFXDh4))
 {
 HauC = (unsigned short)(hQk2rvP);
 }

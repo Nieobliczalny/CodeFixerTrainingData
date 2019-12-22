@@ -183,7 +183,7 @@ if (false)
 {
 std::cout << "jhM6eYR" << N27VR(FDHcWSiv6, -248878356, xR9228K) << std::endl;
 }
-else if ((o4mv40) && ((true) && (y8a91 >= -1727284380)))
+else if ((o4mv40) && ((true) && (true)))
 {
 std::cout << o4mv40 << R6MViLYZE(-2092303268, -476154509) << R6MViLYZE(FDHcWSiv6, o4mv40) << std::endl;
 }
@@ -395,7 +395,7 @@ if (false)
 {
 FDHcWSiv6 = (int)abs(y8a91);
 }
-else if ((false) || (y8a91 != -1139960747))
+else if ((false) || (true))
 {
 std::cout << xR9228K << "k634u_M4lP" << E94Jt2pE2F(FDHcWSiv6) << "S61Qo" << "ve3szV" << std::endl;
 }

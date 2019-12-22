@@ -355,7 +355,7 @@ if (false)
 {
 v_9L = (int)abs(nc0Ud46);
 }
-else if ((true) && (F52_CiA >= -1774607433))
+else if ((true) && (true))
 {
 {
 int j = 9;
@@ -381,7 +381,7 @@ else if ((false) || (false))
 {
 std::cout << "osdVIQ25" << "GOnM5" << yCbyX_ << "jfyv3SYt0" << std::endl;
 }
-else if (v7ZoyX1urr == 991126476)
+else if (false)
 {
 H_1DP9Uy++;
 }
@@ -443,7 +443,7 @@ else if (v_9L & -1631799015)
 {
 std::cout << HvRwgxbej << r__8582cJ << std::endl;
 }
-else if (((true) && (cxIv18 <= 251325613)) && (P5g16r1 & N2s32_))
+else if (((true) && (true)) && (P5g16r1 & N2s32_))
 {
 {
 int k = 0;

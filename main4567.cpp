@@ -424,7 +424,7 @@ I_0lL = NCJ696au6(To_M8kNnz, 1727944564, -248143388) * 1200635765;
 
 if ((iVdl5v == 1712263625) || ((ySKKl1F) || (JFFyC)))
 {
-if (h4ss057X != JKTAI4E3)
+if (true)
 {
 if ((true) || ((RN4vD6fi70 > UQ3rM) || (YG1vZ4)))
 {

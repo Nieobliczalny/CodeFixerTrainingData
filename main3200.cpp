@@ -107,7 +107,7 @@ JN9x5ZO_c0 = vAv6Gm6G - Y3a5R07O3z;
 
 if ((true) && (H_109Ff))
 {
-if (((true) || (w94cs)) && ((v94EM == -583863139) || (AGNWr1Rg == 936204165)))
+if (((true) || (w94cs)) && ((false) || (AGNWr1Rg == 936204165)))
 {
 for (int k = 0; k < 7; ++k)
 {

@@ -234,7 +234,7 @@ if (false)
 x0z_64mx = oQG_x_30c & 358551609;
 }
 }
-else if (bHQjGd_Bj <= 1691049708)
+else if (true)
 {
 {
 int k = 0;
@@ -396,7 +396,7 @@ else if (((gYSSLV3la) && (true)) && (a32E1Nq5m == Reuu30xA))
 {
 o72CUw7U8w = pz6_SPAy / 567429857;
 }
-else if ((RsN2_ >= -758167821) || (Ew0e5Q_M))
+else if ((true) || (Ew0e5Q_M))
 {
 G08uNzx97 /= cv_81u;
 }

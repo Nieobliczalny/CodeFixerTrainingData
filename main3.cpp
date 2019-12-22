@@ -540,7 +540,7 @@ AU8QiwlA = (unsigned short)(F85y);
 }
 if ((false) || ((nJWq5 <= z48sfb9E7T) || (true)))
 {
-if (F85y > pQkX1_)
+if (true)
 {
 for (int k = 0; k < 10; k++)
 {
@@ -788,7 +788,7 @@ int j = 0;
 while (j < 3)
 {
 j++;
-if (((false) || (D8T5 == im7Wi)) && (aV4KDfp != 1767762929))
+if (((false) || (D8T5 == im7Wi)) && (true))
 {
 x4f5oIz &= 728801409;
 }

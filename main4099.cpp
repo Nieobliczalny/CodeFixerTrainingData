@@ -584,7 +584,7 @@ else if (((r_jX2N < B4lWG4) || (false)) && ((S9TT == PY2yfD01t7) || (DRb_ly9_6 &
 {
 B4lWG4 = (int)abs(Kp_3k_);
 }
-else if (((false) || (lxR8fsK != KwaCW_T)) && (cUxZ76 >= 1006709001))
+else if (((false) || (lxR8fsK != KwaCW_T)) && (false))
 {
 IFhZ3eFj >>= T9h6;
 }

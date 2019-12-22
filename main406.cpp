@@ -128,7 +128,7 @@ else if (false)
 {
 E_dH = H55gTRWz4 << 2048095921;
 }
-else if (H55gTRWz4 < -823952767)
+else if (false)
 {
 H55gTRWz4 /= 192741265;
 }
@@ -472,7 +472,7 @@ while (i < 3);
 
 if ((false) || ((true) || (WEvR96M != 1963512791)))
 {
-if (JdE7 > -312296398)
+if (true)
 {
 for (int k = 1; k >= 0; k--)
 {

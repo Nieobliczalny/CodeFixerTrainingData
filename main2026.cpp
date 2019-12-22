@@ -111,7 +111,7 @@ if (false)
 {
 OyxcbP = Y4t7ue2O3 / j4k7pMXyFq;
 }
-else if ((Y4t7ue2O3 != 1234898863) && (egTszl & ytSF927e_))
+else if ((true) && (egTszl & ytSF927e_))
 {
 H357MAaF = Wr1UYW & 510930909;
 }

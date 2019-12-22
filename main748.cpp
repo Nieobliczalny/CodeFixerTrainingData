@@ -294,7 +294,7 @@ std::cout << ytS9l(-150057682, B08vgc99Bo, ROcj2NC, -618050261) << "fY_22wlQ" <<
 }
 else if (true)
 {
-if ((X3Jb < 136981804) && (qGdp2 == 1519018081))
+if ((true) && (qGdp2 == 1519018081))
 {
 switch (i5BDF8Gw)
 {

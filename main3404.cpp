@@ -300,7 +300,7 @@ for (int j = 3; j >= 0; --j)
 yLPT0 = (int)floor(I61RNvT29);
 }
 }
-else if (((true) || (R5PiXX8 < C32d5d1bM)) && ((xDJh0Bq != NI1u2) || (P7EFrGWJ > j7JLL7e)))
+else if (((true) || (R5PiXX8 < C32d5d1bM)) && ((xDJh0Bq != NI1u2) || (false)))
 {
 cout << "w9dM694" << pHy95m7di_ << rY9dF(-261246985, n475, yb9y) << rY9dF(P7EFrGWJ, n475, yb9y) << endl;
 }
@@ -424,7 +424,7 @@ if (true)
 int j = 6;
 while (j >= 0)
 {
-if ((true) && ((SC4l8OJ < BE7M_x67) && (J0FhMkh_ < -912606455)))
+if ((true) && ((SC4l8OJ < BE7M_x67) && (false)))
 {
 n4_x = (int)abs(u2Oxg6e);
 }

@@ -104,7 +104,7 @@ std::cout << "pt5N7J4" << "vS9VVK6oq" << Mk979 << "e15_" << std::endl;
 }
 else if (((Tn84DKY2) || (false)) && (Sxe61e & -1570199880))
 {
-if (p1gkR81 > 708868075)
+if (false)
 {
 CC87d14dl = Ayp7(M_1zrb1X5P);
 }

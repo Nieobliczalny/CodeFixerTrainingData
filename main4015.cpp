@@ -153,7 +153,7 @@ else if ((true) && (false))
 {
 uFO4ySsv0T |= DipO;
 }
-else if (((U21JW != K8e660i427) && (i4SoR & QbG5)) && ((R4u_SS == 337553266) && (aGa5CQ7MiH == ff9uv1TqAk)))
+else if (((U21JW != K8e660i427) && (i4SoR & QbG5)) && ((false) && (aGa5CQ7MiH == ff9uv1TqAk)))
 {
 v20waQ7mbn = (i4SoR < gGow9Kz448) ? HR_D6b1qd : Jhj83OYpLw;
 }

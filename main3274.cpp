@@ -436,7 +436,7 @@ if (false)
 {
 E6y9 = (int)abs(Fk55za);
 }
-else if (((Eo8T3NR_Z & TN8gh2) && (E6y9 == f_6Ekh)) || (HvyX47 != -1259181946))
+else if (((Eo8T3NR_Z & TN8gh2) && (E6y9 == f_6Ekh)) || (true))
 {
 YjnpwZO11 = Kw4ie - 554966176;
 }

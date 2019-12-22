@@ -108,7 +108,7 @@ if ((true) || (rTYUZsOk == -1165535618))
 {
 if (true)
 {
-if (((Gq2Wu >= 1323188453) || (qxZ3jo > -1154477506)) || (x9KJ__ <= 552056675))
+if (((false) || (qxZ3jo > -1154477506)) || (x9KJ__ <= 552056675))
 {
 t__65eac = (int)abs(o7_R);
 }
@@ -359,7 +359,7 @@ else if (((true) && (false)) && (DkT050S_ & -1719912807))
 {
 std::cout << kYzbMVoy_q(J_TK) << s7xuDlG3G2(J_TK, 1446632962) << std::endl;
 }
-else if ((Do2Zyi != -1223643530) || (ug9bPU0 != -374213457))
+else if ((true) || (ug9bPU0 != -374213457))
 {
 for (int j = 3; j >= 0; j--)
 {

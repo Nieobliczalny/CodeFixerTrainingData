@@ -554,7 +554,7 @@ std::cout << "ryQPITcV_r" << t2F_e9WG4I << VagAnI3() << std::endl;
 
 try
 {
-if (((true) && (false)) || ((T3U0A9l3A == 903874940) && (bF_79If3 != 232664384)))
+if (((true) && (false)) || ((false) && (bF_79If3 != 232664384)))
 {
 azCmi8Kz = (int)(Vk_Yj3);
 }
@@ -658,7 +658,7 @@ while (i < 2)
 {
 if ((true) && (VE27x01_93 != -1891802359))
 {
-if ((true) && ((o3sWtzMo3 > 1450728333) || (EExljTs4p == pVYWE9)))
+if ((true) && ((false) || (EExljTs4p == pVYWE9)))
 {
 Nn6RuQ9anL = VagAnI3();
 }

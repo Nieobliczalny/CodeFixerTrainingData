@@ -303,7 +303,7 @@ if (false)
 {
 uth4Oi = mlf38t % 1125717966;
 }
-else if ((true) && (dTBz11 >= -1508489718))
+else if ((true) && (true))
 {
 B3453c ^= 1545583842;
 }

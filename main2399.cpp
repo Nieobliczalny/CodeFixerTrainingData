@@ -25,7 +25,7 @@ j_Q7 = (unsigned char)(B4341FW);
 }
 }
 
-if (((true) && (true)) && (TgP_Bx__ >= -686359102))
+if (((true) && (true)) && (true))
 {
 for (int j = 5; j >= 0; --j)
 {

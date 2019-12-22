@@ -179,7 +179,7 @@ else if (((false) || (M13HJS > E2E8k8H)) && ((y45ef >= r_PA) && (a6C93)))
 {
 r_PA = (unsigned short int)(PYch);
 }
-else if (g5_7cph5n < 95352854)
+else if (true)
 {
 switch (U1A2Zo8fX0)
 {

@@ -272,7 +272,7 @@ else if (false)
 {
 qZe_ = S_Xx(1164924847, AXjQrIhkP, 1557809255, -1578926140);
 }
-else if (h8j99LhK > -1141547880)
+else if (true)
 {
 t8UbN_Y7 = cz4MX5W2(1216883860, -568153908, CrNTPdM_e, -517626279, XwONqle0);
 }

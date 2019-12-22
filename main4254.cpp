@@ -185,7 +185,7 @@ if (gB2B2 & 1391864567)
 {
 wFCZ4j = (unsigned char)(xraY + (-1862963764));
 }
-else if (((false) || (true)) && (P72cb <= -340978701))
+else if (((false) || (true)) && (false))
 {
 if (M_EdEM75 != PO14nS3i1j)
 {
@@ -382,7 +382,7 @@ if (((xraY > 178957123) || (false)) && (true))
 {
 P72cb = LG1D4l0h(1189993327, -51460432);
 }
-else if (((xraY < DgSnM9l46t) || (PO14nS3i1j != 1044702003)) || (kghFn < -1322959859))
+else if (((xraY < DgSnM9l46t) || (true)) || (kghFn < -1322959859))
 {
 {
 int j = 2;
@@ -584,7 +584,7 @@ else if (xraY < kghFn)
 {
 cout << DWn1(-460467675, 245483146, L9v4_Hm8, dc3P6) << ElCjy07bvc << "vr4_z0" << P72cb << endl;
 }
-else if (Xx0ByL > -1550859816)
+else if (true)
 {
 cout << "KH96R" << RLSS(883923158, 53910802, L9v4_Hm8, -686512613, -976801152) << endl;
 }
@@ -594,7 +594,7 @@ FnaVq0QQ = RLSS(T498c9QQI, FnaVq0QQ, -805985245, 940622306, YZV6g5L);
 }
 else
 {
-YZV6g5L = (L9v4_Hm8 != -315377861) ? 1361489911 : c27F;
+YZV6g5L = (true) ? 1361489911 : c27F;
 }
 
 cout << T498c9QQI << endl;
@@ -658,7 +658,7 @@ else if (true)
 {
 try
 {
-if ((G9GE > 402965179) && ((xraY != 1150314374) || (b7RXu != -1912691596)))
+if ((false) && ((xraY != 1150314374) || (b7RXu != -1912691596)))
 {
 FnaVq0QQ -= 1246773771;
 }

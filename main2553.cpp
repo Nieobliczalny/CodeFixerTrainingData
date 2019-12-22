@@ -87,7 +87,7 @@ std::cout << Ioac6U << "jct591_DN" << KWbr << O7BU << fWGiEl << std::endl;
 }
 else
 {
-if (L55C1 > -80397672)
+if (true)
 {
 zlF8IC /= ste7lc_2fN;
 }
@@ -228,7 +228,7 @@ break;
 L92KHkf = OGL_Cd ^ HrJqS0ZX8S;
 if (((false) || (true)) && (wrDz7594 > ZMiy1Qt))
 {
-if (uea2JMH <= -1283016411)
+if (false)
 {
 if (sNeacG > gKmAys3_l)
 {

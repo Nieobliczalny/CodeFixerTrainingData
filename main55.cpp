@@ -214,7 +214,7 @@ ISUqFBzw = FQ_fDm(ISUqFBzw, a200i40);
 }
 else if (true)
 {
-if (FgTxSV9_D == -960911081)
+if (false)
 {
 A2bR |= 1842107934;
 }
@@ -294,7 +294,7 @@ else if (gxnl4HFl1 & P71i2780Z)
 {
 L191wYDC = k5_hZQ(1477568534, 63361103, BgoFYBB8, 1388438578, ISUqFBzw);
 }
-else if (ISUqFBzw < -221055487)
+else if (false)
 {
 D6zhJ_ ^= j6U4L6;
 }

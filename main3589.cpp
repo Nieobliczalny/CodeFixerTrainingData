@@ -464,7 +464,7 @@ else if ((xBU1h1 == uDoCr) && (uXe_M))
 {
 mi_SCx_ = NJIaAsk_ | 330386044;
 }
-else if (((true) && (GE6S9um == 597818952)) || (NJIaAsk_ > H2A_RZ1ov))
+else if (((true) && (false)) || (NJIaAsk_ > H2A_RZ1ov))
 {
 Wl8fACB = l4P4XDklV(-1497306671, 956821861, q0__xc, hcEi_5nKR3, G75K);
 }

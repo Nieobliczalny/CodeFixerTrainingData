@@ -601,7 +601,7 @@ else if (LvKzRF < Cak74upuVL)
 {
 w5v2 ^= 1815841596;
 }
-else if (WKu2WK < -555052340)
+else if (false)
 {
 switch (zHQc9M)
 {

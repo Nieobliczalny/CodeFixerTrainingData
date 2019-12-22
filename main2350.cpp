@@ -38,7 +38,7 @@ D6c57g /= 426812103;
 WWO25y = XX35(891030038, s8o7eqwtt);
 if (((false) && (wD8L0366D < 49452697)) || (true))
 {
-if (eL2K90y_Li != -167966858)
+if (true)
 {
 aVX8eCW = XX35(-41426950, s4Bz);
 }

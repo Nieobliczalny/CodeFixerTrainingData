@@ -185,7 +185,7 @@ else if (Lblj2s)
 {
 Mwd0R4 = (int)ceil(he1_f9pLZE);
 }
-else if ((Lblj2s >= -1963154754) && (zdey25TW <= 213307019))
+else if ((Lblj2s >= -1963154754) && (true))
 {
 cout << I579 << JUicnq(-2062076063, 812272558, 1792047319) << "A6WakoPMfD" << H689_0_S7t(U7880RJ, -1503268375, 620015173, Mwd0R4) << endl;
 }

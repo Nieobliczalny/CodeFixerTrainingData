@@ -112,7 +112,7 @@ if (((tHuwX >= C47dkT2s) && (false)) || (Q29n44l6 == H3vbK_h))
 {
 H3vbK_h = ru374();
 }
-else if ((QANVHSKB6 & C9uwrz) || ((true) && (uW22 > LIS8zxIxR)))
+else if ((QANVHSKB6 & C9uwrz) || ((true) && (true)))
 {
 hIY1 = (int)abs(f9_0g3663l);
 }

@@ -313,7 +313,7 @@ IWAlFjS6 = SbUUbN2t >> 323702451;
 }
 else
 {
-if (((false) || (false)) || (W_GG != -381812587))
+if (((false) || (false)) || (true))
 {
 W_GG /= 1837603720;
 }

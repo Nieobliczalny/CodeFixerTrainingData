@@ -30,7 +30,7 @@ else if ((true) && ((bpr2y <= GebZMgvn1) || (false)))
 {
 iXnfu &= 272663892;
 }
-else if (fKB71a2 >= 713693041)
+else if (false)
 {
 q0b34wTo6Y = rsT7WqBlAK << SDD_OB86;
 }

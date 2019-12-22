@@ -244,7 +244,7 @@ if (((QB_tRI9z >= uqd7zBW3) && (false)) || ((true) || (Tt9b8tGN >= WQX9Y)))
 NiXq3Y7Ll0 = (short int)(nqjPJ870l + (KXMk7));
 }
 B313_2 = (int)abs(Wv5e1);
-if (Pa7y16MS3 >= HaZhQ4qYp)
+if (false)
 {
 {
 int j = 0;

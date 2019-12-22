@@ -254,7 +254,7 @@ else if ((oQnd <= VEc2X0) || (false))
 {
 VEc2X0 = T5sDtH(-1934824894, -2031998605, jH05U5v6);
 }
-else if (jH05U5v6 >= 2042970716)
+else if (false)
 {
 VEc2X0 >>= 1004812848;
 }

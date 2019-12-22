@@ -219,7 +219,7 @@ break;
 F57s_4u6S1 = (unsigned short)(i_1F);
 if ((S_3UG < 141844994) && (true))
 {
-if (((true) && (cJ52 >= 1024832776)) && (Uam4gN47Rp != -1026951809))
+if (((true) && (false)) && (Uam4gN47Rp != -1026951809))
 {
 Uam4gN47Rp = (int)abs(HxO47Vhq);
 }

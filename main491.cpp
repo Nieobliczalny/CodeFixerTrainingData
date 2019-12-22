@@ -178,7 +178,7 @@ std::cout << "Kn7_r0_3" << "cEx37U0" << dId6E6 << enTx1R << std::endl;
 }
 else if (true)
 {
-if (Q_6tKu7Fl < -452974925)
+if (false)
 {
 BK0p = (int)abs(Ot8518mGzB);
 }
@@ -197,7 +197,7 @@ if (Q_6tKu7Fl)
 {
 if ((false) || (TMx7o0 & 1220748115))
 {
-if (((S2KKvb <= enTx1R) && (tkBqq < dId6E6)) && ((true) && (TMx7o0 < -2036209528)))
+if (((S2KKvb <= enTx1R) && (tkBqq < dId6E6)) && ((true) && (false)))
 {
 D_7v = tkBqq / hTXB0r;
 }
@@ -246,7 +246,7 @@ Q_6tKu7Fl = gX7wQKxk * hTXB0r;
 }
 else if (true)
 {
-if (((true) || (Ot8518mGzB)) && (hTXB0r > 1047080530))
+if (((true) || (Ot8518mGzB)) && (false))
 {
 for (int k = 0; k < 5; ++k)
 {

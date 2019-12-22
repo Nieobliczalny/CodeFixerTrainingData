@@ -188,7 +188,7 @@ if (((g7au_p == b972r) || (Axy946W_Kp)) && ((false) || (lwZPgLh756)))
 Gwx6 = BL8Y0i2(-134840658, ngnPoqJX, 1774810527, -1397076407, lwZPgLh756);
 }
 
-if (((Bwj16 == wzfV2EL7v) && (false)) || (Gwx6 < x9eyJ))
+if (((Bwj16 == wzfV2EL7v) && (false)) || (false))
 {
 std::cout << "N41pg" << BL8Y0i2(2030082106, -35404889, -14851612, D8FVP6F4s, lwZPgLh756) << DtG4O6 << BL8Y0i2(y_kyLp9, 656071760, 897520524, -1691508136, lwZPgLh756) << SPRHP9 << std::endl;
 }

@@ -495,7 +495,7 @@ for (int j = 0; j < 10; j++)
 o22EU8hk = (unsigned short)(WP8Gg9q);
 }
 }
-else if (((true) && (true)) && (zkBm >= 861469479))
+else if (((true) && (true)) && (false))
 {
 Ge7BfWQ = JY7zplN();
 }

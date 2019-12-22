@@ -408,7 +408,7 @@ n6jCU = (unsigned short int)(KcD1Zg);
 }
 else if (EsZKeh)
 {
-if (((true) && (wJt2 & -160028265)) || (Qj6U != F0Hf9J))
+if (((true) && (wJt2 & -160028265)) || (true))
 {
 x7G8_02SJ0 = lNwZ();
 }

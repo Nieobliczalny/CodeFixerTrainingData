@@ -76,7 +76,7 @@ sD6Rr = (unsigned char)(Zg_3);
 }
 else if (((true) || (M5nD_z2 > R3E0Hs)) && (HPq9Rl & 1925509120))
 {
-if (S2brN <= -285869526)
+if (false)
 {
 try
 {

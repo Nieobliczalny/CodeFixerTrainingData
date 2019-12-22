@@ -521,7 +521,7 @@ if (false)
 {
 KCPJ_i ^= e_Y7yZ;
 }
-else if (((false) || (Ai23Ldz == 102559938)) && (taSWcX63Ed >= -2133648909))
+else if (((false) || (false)) && (taSWcX63Ed >= -2133648909))
 {
 if (wLETM9GpLE > 148650292)
 {

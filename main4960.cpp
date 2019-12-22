@@ -505,7 +505,7 @@ if (W2SXoVID < X__g)
 {
 jeFWgZ = b0_71TyD(jeFWgZ, mA21C);
 }
-else if (((wSV3_q80D6 & NruM) || (true)) && (c5F7 != -1671663384))
+else if (((wSV3_q80D6 & NruM) || (true)) && (true))
 {
 i_7nAK = d2147();
 }
@@ -568,7 +568,7 @@ else if (CphDp9z <= z81797Sw19)
 {
 kTM82 >>= 568931268;
 }
-else if (toy_hYa != -1725373336)
+else if (true)
 {
 i_7nAK = d2147();
 }

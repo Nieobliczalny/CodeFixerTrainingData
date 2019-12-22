@@ -463,7 +463,7 @@ else if (false)
 {
 W6HZI5++;
 }
-else if (oB22_LUQ <= -679041841)
+else if (false)
 {
 W6HZI5 %= 1120848;
 }

@@ -63,7 +63,7 @@ xv_SQ = (int)abs(ka565oY5);
 }
 else
 {
-if ((false) || (sF_SCW < -2143049830))
+if ((false) || (false))
 {
 Gf39B = (int)abs(b62gn);
 }

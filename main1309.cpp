@@ -433,7 +433,7 @@ else if (TR6nM81Pf <= V0wiJE)
 {
 if (((G8mD81 < i9r22Toz0) || (false)) || (true))
 {
-UPQuL1 = (bRVTQcok < -275792155) ? k_HW(p4O85gUBb5, G7IDQXG7F_, E9xhWy) : k_HW(358930825, -597513309, 942099165);
+UPQuL1 = (false) ? k_HW(p4O85gUBb5, G7IDQXG7F_, E9xhWy) : k_HW(358930825, -597513309, 942099165);
 }
 }
 else

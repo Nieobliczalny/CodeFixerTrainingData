@@ -314,7 +314,7 @@ else if ((YD99Q8) || ((false) || (true)))
 {
 try
 {
-if (p7KF > -1232935077)
+if (true)
 {
 vy1Wg3kr &= 1556080194;
 }

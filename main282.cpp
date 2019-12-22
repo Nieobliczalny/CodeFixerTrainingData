@@ -667,7 +667,7 @@ if (((false) || (tq921suO <= 1075651311)) || ((qna9eB == PhnFw6) || (BtSW != 738
 l29K2x1ok <<= uTFoe_5Ji;
 }
 }
-else if (g8_e5 <= 724057292)
+else if (true)
 {
 Sj26zm = (unsigned char)(I23jEc9 * Sj26zm);
 }

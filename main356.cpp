@@ -198,7 +198,7 @@ Rvhtz = E703Y(kOf5_Xr8_, b0867, -1818915664) << NNp_;
 }
 if (((true) && (true)) || (wTy79 <= 425694118))
 {
-if (wTFP < 186750583)
+if (true)
 {
 k70649Q = xM3PQQ(k70649Q, -340365341);
 }
@@ -738,7 +738,7 @@ if (false)
 {
 W8rtDR = (int)abs(f305);
 }
-else if ((false) || ((SG3bQzW <= 1655210293) || (n6_hfx2z7)))
+else if ((false) || ((true) || (n6_hfx2z7)))
 {
 H9uq2m = xM3PQQ(1324046408, 1036938092);
 }

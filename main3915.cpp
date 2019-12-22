@@ -374,7 +374,7 @@ else if (mT35WY_Fe > a8qkMGO)
 {
 Sx_pum9 = (int)abs(X1ZDn1B);
 }
-else if (bjTOm != 1592727303)
+else if (true)
 {
 I2SgY = M4AXlfL(1955614653, -478687915, lY_8, BRn4Rn2fn, kEuQW19);
 }

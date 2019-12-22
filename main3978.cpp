@@ -45,7 +45,7 @@ if (((true) || (cQXb <= zwEiz_inP)) || (yR_y7E5 <= aCnT9bf3_N))
 SjHD_8C = (unsigned char)(aCnT9bf3_N);
 }
 }
-if (((false) || (cQXb > Z1V5nWZc)) && (vUQJs > JdZWj))
+if (((false) || (cQXb > Z1V5nWZc)) && (true))
 {
 lJuf356_ = (int)ceil(HRTr);
 }

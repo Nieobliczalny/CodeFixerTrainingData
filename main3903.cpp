@@ -58,7 +58,7 @@ else if (k7EdMjwLdQ == tB7Uwhlz07)
 {
 Zh6a91swL = C9ale << Lwjb;
 }
-else if (eBRH48Wb5 < QINkEm)
+else if (false)
 {
 sJj6 = x4SlmJpyG | 1241101812;
 }

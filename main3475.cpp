@@ -44,7 +44,7 @@ else if ((true) && (O82b & Gy7y7m8))
 {
 VWE_RpX8 = YdNNtKkPWq(oN0xq, 1634890228, bCoTc5vEm, -1721017802, doUz5vuEqp);
 }
-else if (((false) || (W4ia <= 844311198)) && ((f00xk & 108315644) || (O82b & 1618194617)))
+else if (((false) || (true)) && ((f00xk & 108315644) || (O82b & 1618194617)))
 {
 VWE_RpX8 = (int)abs(qn_95_H02);
 }

@@ -178,7 +178,7 @@ else if (false)
 {
 vzt_ ^= 1207577852;
 }
-else if (Ph4_PiWF5 <= -1896306510)
+else if (false)
 {
 om89704 = FSwVVs2__(353254444, -834845721, -2068993736);
 }

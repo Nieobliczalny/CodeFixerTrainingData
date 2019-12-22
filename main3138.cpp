@@ -191,7 +191,7 @@ YzuIeUhu_ = (short)(bl3bMf);
 cout << "IU2ufX9" << Xw3_pEa << HzsRd(M06fnzcx, z21tadGsF3, -787273851, 1494405963, 1255334583) << Xw3_pEa << endl;
 if (true)
 {
-if (g987 >= jon_3yPU)
+if (false)
 {
 OIU0h1Y = tMFN6MC6_d(OIU0h1Y, AZ85_l, z21tadGsF3, 1690828521, -113233540);
 }
@@ -393,7 +393,7 @@ else if ((true) && (JbQ55o))
 {
 GNYC1v6u = tMFN6MC6_d(GNYC1v6u, -477624350, qUgE6D9_b, uj6FWx1R, OIU0h1Y);
 }
-else if (g987 > pTo4yh)
+else if (false)
 {
 rd6Kr_apXG >>= 1351481423;
 }

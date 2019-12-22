@@ -411,7 +411,7 @@ HdssIi5 = JfUo77__2(HdssIi5, -2075978639, 260994649, 132975279, YR2lS8b_n);
 }
 else if (YXxe2DXT)
 {
-if ((SgX3e1i89 != jp5j4) && (E3R3 >= -1618031902))
+if ((SgX3e1i89 != jp5j4) && (true))
 {
 std::cout << JfUo77__2(-345118904, 1104885617, HMMoNL96, SgX3e1i89, 147624390) << cU0KE44w5 << std::endl;
 }

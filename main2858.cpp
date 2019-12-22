@@ -222,7 +222,7 @@ if (false)
 {
 hinU0Y = EWpG();
 }
-else if ((m39SxKApI) && (Lj_0 >= 1937772503))
+else if ((m39SxKApI) && (false))
 {
 hinU0Y = EWpG();
 }

@@ -281,7 +281,7 @@ if (s1d2 & F1S6xr)
 InpqcLTP = Pay0 % 1493003756;
 }
 }
-else if ((Pay0 & ylH7Rm) || (TZrI <= B1vwwz054))
+else if ((Pay0 & ylH7Rm) || (false))
 {
 switch (ylH7Rm)
 {

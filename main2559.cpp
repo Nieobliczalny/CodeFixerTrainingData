@@ -140,7 +140,7 @@ y033h_7G = (unsigned char)(UMR3);
 }
 else if (true)
 {
-if (UMR3 <= 342812036)
+if (true)
 {
 Zx5dB = z_eOHxV04_(Mol6hb6PA, 1962293759, y5J_M3PoGN, eGL_37w) - 1977270292;
 }

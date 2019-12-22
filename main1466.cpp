@@ -235,7 +235,7 @@ jGPP61drc = o587LR78Jl + 1186088888;
 }
 else if ((IB83Yd6M8z != izv8AL) || (true))
 {
-if (((c307CY == Lylj450md) && (true)) || ((O6v147b4e < -712708906) && (c307CY != ddNUVUut9p)))
+if (((c307CY == Lylj450md) && (true)) || ((false) && (c307CY != ddNUVUut9p)))
 {
 cB_4k8tQN = T4_mf06();
 }

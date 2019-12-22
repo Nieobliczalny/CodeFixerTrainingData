@@ -389,7 +389,7 @@ else if ((false) || ((D0Kby3 < dW6L215) && (true)))
 {
 exiP = IfPk * 1340753575;
 }
-else if ((zVq57 != JW4_) && ((IfPk) && (UZD3k > Gau2S)))
+else if ((zVq57 != JW4_) && ((IfPk) && (true)))
 {
 eDJHUD %= 1333195206;
 }
@@ -833,7 +833,7 @@ for (int k = 0; k < 5; k++)
 PAv14g4 = wtnp3m | tj6zaS562S;
 }
 }
-else if ((false) || ((true) && (g_Gq != -838929873)))
+else if ((false) || ((true) && (true)))
 {
 U7_pK_sVr = clj3Hg01 | 1951645253;
 }

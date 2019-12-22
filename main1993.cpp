@@ -239,7 +239,7 @@ break;
 }
 else if ((G65QnOA9 > IeOhbWNQKk) || ((true) && (false)))
 {
-if (os_8GZ < ed49kwVlU_)
+if (false)
 {
 Dcu84 = l0Bd_3a4 | 796404603;
 }

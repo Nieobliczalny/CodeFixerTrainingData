@@ -450,7 +450,7 @@ ufd6mRC0S = V66H0ZcRoL | 609203803;
 }
 else if (Km7FLF >= z5otUfW5)
 {
-if (X456t6 == -267776052)
+if (false)
 {
 z5otUfW5 = xTIK(js_f, qQTi8r60);
 }
@@ -465,7 +465,7 @@ N1ohB9HlS = (short int)(j8gO_ + (1193030252));
 }
 else if (true)
 {
-if (((true) && (X33SWP)) && (QR2W7 == 1761797774))
+if (((true) && (X33SWP)) && (false))
 {
 pziD8 = qR12v98XuD(pziD8);
 }

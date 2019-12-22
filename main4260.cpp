@@ -74,7 +74,7 @@ else if (wh2yBAg <= Rjtzu)
 {
 Rjtzu = m94z80UU(398572343, wh2yBAg, 1357935551);
 }
-else if (((true) && (gN9Q_CCU > O0350_3K)) || (wh2yBAg >= 271295316))
+else if (((true) && (false)) || (wh2yBAg >= 271295316))
 {
 for (int k = 6; k >= 0; k--)
 {
@@ -179,7 +179,7 @@ if ((wh2yBAg & G9GC0X8B1u) || (Rjtzu))
 {
 wh2yBAg *= 1907416500;
 }
-else if (((wh2yBAg < Rjtzu) && (gN9Q_CCU == -1233790009)) || (Rjtzu > gN9Q_CCU))
+else if (((wh2yBAg < Rjtzu) && (false)) || (Rjtzu > gN9Q_CCU))
 {
 wh2yBAg >>= 876033383;
 }

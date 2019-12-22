@@ -232,7 +232,7 @@ else if (((false) || (y38W7u5L18 != 64469288)) || (B35t_O3yza == -2007898974))
 {
 bxo2K8P__ = Pdo0qxs(Q343Q);
 }
-else if ((Vt3ARQ >= r2NJ) && ((umf5 < r2NJ) || (q4mP23EGpf > 1613061378)))
+else if ((true) && ((umf5 < r2NJ) || (q4mP23EGpf > 1613061378)))
 {
 wZIfLbD = (int)ceil(q4mP23EGpf);
 }

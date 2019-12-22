@@ -350,7 +350,7 @@ else if ((C9PTaiBM != 1409323696) || (false))
 {
 PHNbvVxd = WUHhE4(Q0oG, 2070715664, kVqe, dK_Uf8, u0D0DJ2sK);
 }
-else if ((false) || ((XJ_7A4HrZ >= -671121620) && (SFb9_PrE <= 173436987)))
+else if ((false) || ((true) && (SFb9_PrE <= 173436987)))
 {
 TF3Y %= 1956064449;
 }

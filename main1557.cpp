@@ -403,7 +403,7 @@ else
 GTfavH6R = TyNR * 1520754478;
 }
 }
-else if (K2i0GHFJsA == -352177169)
+else if (false)
 {
 try
 {

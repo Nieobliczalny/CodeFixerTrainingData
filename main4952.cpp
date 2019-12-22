@@ -157,7 +157,7 @@ std::cout << kxh0Py << PyJFOu << xdyn_y15s << XA735lit5(KMft95, 1400087074, TUcL
 
 E0fd4_hc = (short)(mY0yUqi5_f);
 
-if (((c2kn85j_m == k1Kw) && (R8SU8cNP == -1571559260)) && ((VnrsVwU5 != 126721700) || (k4_K8_M < E0fd4_hc)))
+if (((c2kn85j_m == k1Kw) && (false)) && ((VnrsVwU5 != 126721700) || (k4_K8_M < E0fd4_hc)))
 {
 if (false)
 {
@@ -204,7 +204,7 @@ if ((true) && (true))
 F3e8j76++;
 }
 }
-if (eI5JH6VBY < 2015641835)
+if (true)
 {
 std::cout << KMft95 << r3RyEN(KMft95, -1077205161) << std::endl;
 }

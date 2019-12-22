@@ -97,7 +97,7 @@ else if (WBi955jC)
 {
 fEcCYOf71 = u6o0L622z(YV36t, -956128314, rXaop, UTI0, PR3wR);
 }
-else if (((true) && (Kp54zNr89m < 1260252359)) || ((n179t > BrLYe503) && (BGl29s <= -1406072096)))
+else if (((true) && (true)) || ((n179t > BrLYe503) && (BGl29s <= -1406072096)))
 {
 fEcCYOf71 = u6o0L622z(-1229522698, M_z6, X9Pfj84_9, 260131649, TCIYX);
 }

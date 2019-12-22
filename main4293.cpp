@@ -225,7 +225,7 @@ else if (((false) && (h3h8F_E > Rv7DC)) || (false))
 {
 WroD_0RP++;
 }
-else if (((rBCC > yQQJQl5) && (KCSA >= lHo80)) || (WroD_0RP != -910095617))
+else if (((rBCC > yQQJQl5) && (KCSA >= lHo80)) || (true))
 {
 std::cout << oXPm << std::endl;
 }

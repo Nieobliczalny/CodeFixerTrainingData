@@ -133,7 +133,7 @@ v_bYPY = (int)abs(jggU);
 }
 else
 {
-if (jggU > 1579154305)
+if (false)
 {
 x5Nu = x5Nu - v_bYPY;
 }

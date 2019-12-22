@@ -455,7 +455,7 @@ if (false)
 {
 k6_UUD = (unsigned char)(ftaA);
 }
-else if (iDbD == -650580095)
+else if (false)
 {
 {
 int k = 2;

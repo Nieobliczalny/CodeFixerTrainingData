@@ -435,7 +435,7 @@ while (j >= 0)
 j--;
 if ((false) || (Q8h5 & S07SIx0))
 {
-dj_aEAUe = (dj_aEAUe > zSX_t4jK7) ? MO_FPJ17 : ru7CjOBSlt;
+dj_aEAUe = (false) ? MO_FPJ17 : ru7CjOBSlt;
 }
 else if (false)
 {
@@ -584,7 +584,7 @@ if (((qLib_ou_V == a9ZE6) && (true)) || ((dLVqDSk <= bY2A) || (a9ZE6 == d1KGe2u)
 {
 er1PNs = (int)abs(PZ6z);
 }
-else if (((Xgb1fs != MM2vL551) && (true)) || ((PZ6z == Xgb1fs) && (W97h4Tq != bY2A)))
+else if (((Xgb1fs != MM2vL551) && (true)) || ((PZ6z == Xgb1fs) && (true)))
 {
 Q8h5 = OBvAzG8xO6 & W97h4Tq;
 }

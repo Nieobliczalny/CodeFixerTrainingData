@@ -170,7 +170,7 @@ if (((k2iU <= F4b9) || (e0RiJIw48 != A1J2P)) && (false))
 {
 Vl3VmQEHrO = (ft9U_KTl) ? r_RoaQ_ : k2iU;
 }
-else if (jBQ4VyiP == 2079845839)
+else if (false)
 {
 M_0yaIX442 = (true) ? k2iU : S50aiyr5;
 }
@@ -227,7 +227,7 @@ std::cout << "d4w1" << std::endl;
 }
 else if (true)
 {
-if (CmXbni <= 531579259)
+if (true)
 {
 switch (haM1k4)
 {

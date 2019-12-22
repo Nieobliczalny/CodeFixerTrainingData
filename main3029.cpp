@@ -257,7 +257,7 @@ if ((Ea826jaCH2) || (OvrrU0HzS != jF4SXM6Ny))
 hKmg_JP++;
 }
 }
-else if (((false) || (Lu93s == 1639722267)) && (eae1ch4 > Sq_Ex))
+else if (((false) || (false)) && (eae1ch4 > Sq_Ex))
 {
 switch (W_Z9i2T)
 {

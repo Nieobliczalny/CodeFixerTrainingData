@@ -235,7 +235,7 @@ else
 a3iGF9g = (int)ceil(XP_BTL);
 }
 }
-else if ((J0SlCBn4gs) || ((E2Amg2a5 == PG7zuwI) || (fB8vZZ <= -116994578)))
+else if ((J0SlCBn4gs) || ((E2Amg2a5 == PG7zuwI) || (false)))
 {
 O63jf0Je = fU03(1310805745, 1733120785, -331156144, a3iGF9g);
 }

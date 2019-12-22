@@ -277,7 +277,7 @@ oDUWP3_K = (short int)(e1uv9);
 }
 else if (true)
 {
-if (Uo5E >= 1167275114)
+if (false)
 {
 kq_X -= U9ZNn;
 }
@@ -469,7 +469,7 @@ cout << dW_b4 << endl;
 
 if (true)
 {
-if (dtWCyc13f <= 320950996)
+if (true)
 {
 for (int k = 0; k < 3; k++)
 {

@@ -340,7 +340,7 @@ else if (g0867vwOh == -1081656951)
 {
 if (VTt4rT7K0 != -441723321)
 {
-vjx7c_h = (ZMC_D24zb > -465069493) ? 99924045 : cx9vfvJLu3(1457299883, 412083079);
+vjx7c_h = (true) ? 99924045 : cx9vfvJLu3(1457299883, 412083079);
 }
 }
 else if (Ih4vus9x_m & chBs5volR6)

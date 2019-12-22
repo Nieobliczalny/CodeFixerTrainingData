@@ -97,7 +97,7 @@ else if ((PdEp == UPoH1) || (w2Ch6t_xt >= yRfXpar))
 {
 Hj5P40 = YG3Vm(veO_f0h40, y9FXt9t, hUy5, -1639574093);
 }
-else if (((c9_8 >= y9FXt9t) && (Q62XjV67E)) && (eWHLZ_ == 100534193))
+else if (((c9_8 >= y9FXt9t) && (Q62XjV67E)) && (false))
 {
 S_5j1T = YG3Vm(PdEp, p67UH9_xA, jKDJw, Gml6_0b);
 }
@@ -499,7 +499,7 @@ if (false)
 {
 w2Ch6t_xt = YG3Vm(1904207218, MUf4, -1197386859, w2Ch6t_xt);
 }
-else if ((true) && (eWHLZ_ != 1180385456))
+else if ((true) && (true))
 {
 p67UH9_xA ^= et0T;
 }

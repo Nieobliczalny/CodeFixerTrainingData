@@ -305,7 +305,7 @@ else if ((false) && (qbphTx7Z2 < XC_u71C3D6))
 {
 vB3K_OvBew = DdLVcWT1 << 1466383318;
 }
-else if (eCK7Lr < -1378808504)
+else if (false)
 {
 b9YwD30Te >>= DvC5X4_y;
 }

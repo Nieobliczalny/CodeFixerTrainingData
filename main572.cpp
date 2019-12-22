@@ -263,7 +263,7 @@ else if ((true) || (qk_Q < am6eB4))
 {
 if ((K686nz4m >= bB_NqvjgZ) || ((true) && (wbfIu101MG < tJj5z8)))
 {
-if (wbfIu101MG != 573131095)
+if (true)
 {
 LPm3 = f9md3 ^ 1663466850;
 }

@@ -370,7 +370,7 @@ CPhx_V = DO5OuePQZ & Tm1j;
 }
 }
 }
-if (O6zAYj5 < 136342718)
+if (true)
 {
 fMq05iXN = HBk5woStLl ^ 1995008961;
 }
@@ -586,7 +586,7 @@ if ((true) || (fMq05iXN != -1264291939))
 {
 if ((true) && (s6T56iWE & 1306397421))
 {
-if (((H06p007KTF < R0GvA72Y) && (xPF5i)) && (itLf7q < 1564046185))
+if (((H06p007KTF < R0GvA72Y) && (xPF5i)) && (true))
 {
 kkve_T__x = j5mHsE / Rm5K9P19;
 }

@@ -337,7 +337,7 @@ else if ((oQR8bH & JTa6lo_) || ((G__F & -685441569) && (false)))
 {
 KS0A4vE /= 2094787398;
 }
-else if (((x7y068po == CHDow8) || (d42G59BvY > 1968492287)) && ((g7al8 >= 1186414296) && (CHDow8 >= 745343106)))
+else if (((x7y068po == CHDow8) || (false)) && ((g7al8 >= 1186414296) && (CHDow8 >= 745343106)))
 {
 POtXEC0 = L99k(Et9df6II);
 }

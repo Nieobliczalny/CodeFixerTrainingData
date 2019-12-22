@@ -460,7 +460,7 @@ if (NK7y >= cgzYrugv)
 {
 ro4JV9fp = (double)(OjssR8N8A);
 }
-else if (((false) || (true)) && (p92Vsz8 > -128996316))
+else if (((false) || (true)) && (true))
 {
 mKyR92cwy ^= 699659598;
 }

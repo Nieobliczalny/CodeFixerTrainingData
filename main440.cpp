@@ -327,7 +327,7 @@ else if (l_G5 >= H4Rs2v_6)
 {
 lhf9Uw <<= S3fuouXJTv;
 }
-else if ((true) && ((scIcdSOm76 < 1749123410) && (v2qc80k > -182871150)))
+else if ((true) && ((true) && (v2qc80k > -182871150)))
 {
 gv2Mi = (t4AnxT <= sWQ5_) ? -418722597 : l_G5;
 }

@@ -197,7 +197,7 @@ else if (true)
 {
 if (true)
 {
-if ((q45Ujf4 > 1788660127) && (u1Aw8 >= 1615820265))
+if ((false) && (u1Aw8 >= 1615820265))
 {
 UzvC_r34K1 = gFb5C(-1047256874, ZMnGfdmb4b);
 }
@@ -473,7 +473,7 @@ for (int k = 3; k >= 0; --k)
 K90dthttt = RfWk(j2hB14Mz, REy17XBk6R, -1405752898, -852665520, Q_dC1EA4) << 1317065380;
 }
 }
-else if ((false) || ((q45Ujf4 >= -1268368237) && (j2hB14Mz == IX2V30)))
+else if ((false) || ((true) && (j2hB14Mz == IX2V30)))
 {
 try
 {

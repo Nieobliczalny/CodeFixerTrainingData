@@ -572,7 +572,7 @@ for (int k = 7; k >= 0; k--)
 tx5ax0++;
 }
 }
-else if ((N3fCw09 > Enxx) || (Umi6 != 1754670564))
+else if ((N3fCw09 > Enxx) || (true))
 {
 Bfa6yq5e = eGonP & 1050101984;
 }

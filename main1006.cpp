@@ -318,7 +318,7 @@ else if (((true) && (false)) || (arz_gZC))
 {
 i701GF2f = (int)abs(Ra7y);
 }
-else if (REL1 < -910113545)
+else if (false)
 {
 q88Y8oVcxh = R_6L6S6J();
 }

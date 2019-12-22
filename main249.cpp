@@ -66,7 +66,7 @@ else if (true)
 {
 if (true)
 {
-FuTZ6ad_nb = (F147aG == 475596377) ? YPU9gLp9 : pn9Al42B8;
+FuTZ6ad_nb = (false) ? YPU9gLp9 : pn9Al42B8;
 }
 }
 else if (RJq0jk & 1883284686)

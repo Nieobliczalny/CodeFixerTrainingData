@@ -42,7 +42,7 @@ int i = 0;
 while (i < 10)
 {
 i++;
-if (((true) && (false)) || (EiAvtf0 < 1542124421))
+if (((true) && (false)) || (true))
 {
 {
 int k = 0;
@@ -668,7 +668,7 @@ else
 F5_WZUC = LBIfO(-1487794105);
 }
 }
-else if ((DF7BL5 != IQWHF8j) || ((e87aKtbY > -1948688963) || (JCBZi932b & -1275400314)))
+else if ((DF7BL5 != IQWHF8j) || ((true) || (JCBZi932b & -1275400314)))
 {
 if (false)
 {
@@ -686,7 +686,7 @@ else if ((PzF1IPooyd) || ((false) || (UFsxKpLe)))
 {
 F5_WZUC = LBIfO(1946856968);
 }
-else if (JTQYZ_G >= -191174841)
+else if (true)
 {
 da9N6T_2 ^= zy_5N5_W;
 }

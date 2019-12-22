@@ -186,7 +186,7 @@ int j = 0;
 while (j < 10)
 {
 j++;
-if (cIu0 > -1981393883)
+if (true)
 {
 DKwgU9 = lfX7zR(1157925680, iwG4e57H, 34295899, -252352160);
 }
@@ -472,7 +472,7 @@ if ((false) || (false))
 {
 ju4p7_M = lfX7zR(ju4p7_M, j59n85, VB8S81zLn, 1079594302);
 }
-else if (BiYX31 <= 1946543955)
+else if (true)
 {
 L4d4gVp += s6svF0Q;
 }
@@ -488,7 +488,7 @@ else if (((E98T31 != wVBCM) && (false)) && (VYX7y3 != G645u361))
 {
 VB8S81zLn = (int)abs(FSHeVh);
 }
-else if ((vkkpMp08g1 != -1763703342) && ((G645u361 <= z7_3n8f) || (VaSm40)))
+else if ((true) && ((G645u361 <= z7_3n8f) || (VaSm40)))
 {
 DKwgU9--;
 }

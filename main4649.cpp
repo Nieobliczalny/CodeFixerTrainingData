@@ -130,7 +130,7 @@ KfZ4zb0C = h4_0Kn(-1806915725, 785072446, Ddl8burCZ, -994984776, -1667916348);
 	pF0Wp = bdF27QfpdJ(Vc03kiogl, -659362779, UjO5jbtx, HUxefSa, 1377573398) / i;
 if (((false) && (zt0k2O2HSk < q2eqAF2)) || (true))
 {
-if ((jNsmxU5 >= -1017904361) || (fgpgX2l_K > Gd_oJW0))
+if ((true) || (fgpgX2l_K > Gd_oJW0))
 {
 try
 {

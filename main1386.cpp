@@ -272,7 +272,7 @@ else
 p2EYYW5W5 = tO0m3E5 * 1252834495;
 }
 }
-else if ((Iw6MJrMF2) && (E0Bo6ho < -1871037018))
+else if ((Iw6MJrMF2) && (false))
 {
 cout << b7_RO2mv << Hv8PH4P3(KbY17o_X6s) << "t3Zz84" << "L2Sdc" << Hv8PH4P3(KbY17o_X6s) << endl;
 }
@@ -595,7 +595,7 @@ try
 {
 if ((true) && ((r_i55XXRla & tvxgc_7c_) || (BtKF491 != h_tK)))
 {
-if (((tO0m3E5 != U2vHWJ9J) || (false)) && (fP8q69UR < tvxgc_7c_))
+if (((tO0m3E5 != U2vHWJ9J) || (false)) && (false))
 {
 P11HKlzb = (int)ceil(ROWcsCCLWX);
 }

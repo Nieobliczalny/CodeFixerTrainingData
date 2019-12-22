@@ -289,7 +289,7 @@ if (zMrgj2_ == 0)
 }
 if (SWo02)
 {
-if (((false) && (false)) || (YwJvv >= kHSuq70c9s))
+if (((false) && (false)) || (false))
 {
 l6h1A = (int)abs(HNE4b7_);
 }

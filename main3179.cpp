@@ -317,7 +317,7 @@ for (int k = 0; k < 2; k++)
 oZQqSq = Pd93KQ60W(551318265, Wz53, g0R_HT0, Pe1j20L, 721214558);
 }
 }
-else if (Y1jA__ >= -891794487)
+else if (true)
 {
 if (L33nS_n == Aj1rnisv6e)
 {

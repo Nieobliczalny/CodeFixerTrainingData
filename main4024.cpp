@@ -278,7 +278,7 @@ if ((false) && ((OqE92 & mb066KDx37) || (OqE92 >= -113684391)))
 Lo_GwW = (int)abs(ZjkarV);
 }
 }
-else if ((Gt257z5A6 & sn90vjF) || (ZjkarV == 640835621))
+else if ((Gt257z5A6 & sn90vjF) || (false))
 {
 if ((R1w4RLnz & sn90vjF) || ((oiF3vMF > sn90vjF) || (yNnTsu15)))
 {

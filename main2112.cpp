@@ -138,7 +138,7 @@ zgrkc = WKB9vndm_(1505125920, r_l7m1kDU, 37344735);
 
 zgrkc = zgrkc & 1679180496;
 
-if (((false) || (true)) && (Me5r4C > sZr2p))
+if (((false) || (true)) && (false))
 {
 e2lqz3 = WKB9vndm_(-369367126, 746451873, -1945046840);
 }
@@ -381,7 +381,7 @@ else
 e2lqz3 &= uU1N6O;
 }
 }
-else if (((false) || (r_l7m1kDU < zgrkc)) || (e2lqz3 >= 654383968))
+else if (((false) || (r_l7m1kDU < zgrkc)) || (false))
 {
 S28kZ9GL1 = WKB9vndm_(1659920964, -1204074036, c4NA9);
 }

@@ -82,7 +82,7 @@ if (((true) && (false)) && ((dX08 & k_9K) || (SyY7dV48 < 1635531932)))
 {
 Wij3y = h00Athd(Wij3y, Z1Dm2, 1355523428);
 }
-else if ((UX2_376 == wUyA8b8c6g) && (k_9K < 1413617691))
+else if ((UX2_376 == wUyA8b8c6g) && (true))
 {
 l92ZIB = BN5hS5NX7(-2189045, k_9K);
 }
@@ -680,7 +680,7 @@ w6ApPhI = (int)abs(SyY7dV48);
 }
 else if (true)
 {
-if (Eiq4 >= -270203747)
+if (true)
 {
 Y_03S = (int)abs(qcZR);
 }

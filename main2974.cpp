@@ -122,7 +122,7 @@ else if (((false) || (K58V < g46gtjNGw)) && (vRG8 & n8Rbn))
 {
 DD575yH = iet_T(DD575yH);
 }
-else if (LT8ZBl > SniTv)
+else if (false)
 {
 mt51EO %= K1ka6;
 }
@@ -223,7 +223,7 @@ y80Q8O7MeH = (yXRc >= y80Q8O7MeH) ? -1677399554 : YQaYTi;
 break;
 }
 
-if ((false) || ((false) || (YQaYTi > g46gtjNGw)))
+if ((false) || ((false) || (true)))
 {
 {
 int j = 0;

@@ -385,7 +385,7 @@ Mmjkjgx = vLTmuNW(-698954875, 591998248) & 1327538988;
 }
 if ((true) && (HV6d0aC_ig))
 {
-if (((dQj8hYUcs >= -583106996) && (H5GJTtH > YdFZ5_2f)) || (RJM7R9 >= eZ_D_p3))
+if (((true) && (H5GJTtH > YdFZ5_2f)) || (RJM7R9 >= eZ_D_p3))
 {
 for (int k = 6; k >= 0; k--)
 {

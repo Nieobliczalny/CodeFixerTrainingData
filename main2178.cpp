@@ -264,7 +264,7 @@ I9B_8 = (int)floor(PO5sob);
 }
 else if (true)
 {
-if (KRh6 != D6SdSMQD)
+if (true)
 {
 PAv2Q9Q <<= 69240653;
 }

@@ -406,7 +406,7 @@ std::cout << mg87834b1 << Egbl << "dNT2bhuUFH" << Wzusm4Tz << "NLFB313Ek" << std
 }
 else if (true)
 {
-if (ea_jal < -123093313)
+if (false)
 {
 DNw5O8 = zR7ot3xL * k84h72C;
 }
@@ -524,7 +524,7 @@ std::cout << "Rn8kw" << std::endl;
 }
 else if (true)
 {
-if ((k84h72C) || ((mg87834b1 != -560078218) || (GV87kSmW)))
+if ((k84h72C) || ((true) || (GV87kSmW)))
 {
 std::cout << r4A2 << std::endl;
 }

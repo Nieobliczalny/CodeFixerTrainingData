@@ -303,7 +303,7 @@ else if (false)
 {
 F__W0a9 = T4Kb9Pit9();
 }
-else if ((xQOa != jHiFhvgK) && (u685X == -1890943081))
+else if ((xQOa != jHiFhvgK) && (false))
 {
 O7K0KP9d++;
 }
@@ -363,7 +363,7 @@ if (false)
 u685X = nf8_n(1795524117, -1821858236, hl24m3N9J4);
 }
 }
-else if (PEYn6YTm6b > 1024640918)
+else if (false)
 {
 xQOa = xQOa + 1419101299;
 }

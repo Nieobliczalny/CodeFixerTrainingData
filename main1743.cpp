@@ -169,7 +169,7 @@ if ((false) || (aVqF3P5t > D4XT03OLK))
 D4XT03OLK = jB5kC3yqu + R8CEG;
 }
 }
-else if ((E9Xbs4 <= -1926237503) && (aVqF3P5t <= 908715032))
+else if ((false) && (aVqF3P5t <= 908715032))
 {
 oit0g66J27 <<= 2134664864;
 }

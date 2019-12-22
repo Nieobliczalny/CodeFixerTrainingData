@@ -272,7 +272,7 @@ if (((g_4kOkq_r > EJRVTE3) && (jhF1)) && ((SdMAkEju3j > w_rozN8mM6) && (false)))
 Zct79 = (int)abs(X_POn);
 }
 }
-else if (((ze9_U_i68 <= nTP5yEU5) || (false)) || ((EJRVTE3 & mg2p66M) || (Y42BCI48 < -1302277969)))
+else if (((ze9_U_i68 <= nTP5yEU5) || (false)) || ((EJRVTE3 & mg2p66M) || (false)))
 {
 H8IK = R55A * 1765367007;
 }

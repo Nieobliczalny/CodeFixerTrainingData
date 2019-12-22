@@ -194,7 +194,7 @@ if (false)
 {
 WWpGcCfYl = YD6T7M1laZ();
 }
-else if (FF1Sz_ != 1180020775)
+else if (true)
 {
 arEF3zh7Y >>= LZOfuk38;
 }

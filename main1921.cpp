@@ -176,7 +176,7 @@ std::cout << "rcavKCsGOi" << PRdOsVs_(-1555459556, -862583276) << "e8Sfp_awqF" <
 
 try
 {
-if (((false) || (false)) || (XX28 > -2118599937))
+if (((false) || (false)) || (true))
 {
 if ((g14eYpPK9 >= NayYfE) || ((s1w8O01 > RB64BIie) || (vwpTa9 > QhPAqz)))
 {

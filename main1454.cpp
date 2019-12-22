@@ -54,7 +54,7 @@ break;
 
 if (true)
 {
-if (((true) && (YjsYlPqS)) || (gvh1d330CR > 1646216636))
+if (((true) && (YjsYlPqS)) || (false))
 {
 {
 int k = 0;
@@ -222,7 +222,7 @@ else if (((true) || (Qr31J3H == -1528867400)) && ((Z8MdhzZw & b0Bny94l9_) && (HT
 {
 std::cout << "z_VW6Kp" << std::endl;
 }
-else if (((false) || (Fmi91 & -1653812233)) || (PQWYGp_ != -1538968320))
+else if (((false) || (Fmi91 & -1653812233)) || (true))
 {
 for (int k = 0; k < 5; k++)
 {

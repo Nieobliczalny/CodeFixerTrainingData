@@ -142,7 +142,7 @@ else if (false)
 {
 M8vO666 = Y3THos0_68(1121569581);
 }
-else if (jGOrw9p_ >= aGU_Ht)
+else if (true)
 {
 OK_lpTDpe0 = Y3THos0_68(1570788147);
 }

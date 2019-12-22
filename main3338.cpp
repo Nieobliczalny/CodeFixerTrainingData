@@ -101,7 +101,7 @@ std::cout << Ba92(2073725945, -221458300, FNcG, 647439155, 1053356689) << std::e
 }
 else if (((JD_lwkQ) && (true)) || (false))
 {
-if (t1GtdBLv6I <= 1879743097)
+if (true)
 {
 b5g6z0r = (int)abs(n_riH6B31);
 }
@@ -235,7 +235,7 @@ UJeu0P1 = (long)(JoB3hl * UJeu0P1);
 }
 else
 {
-if (mGTh3 >= -982579429)
+if (true)
 {
 Sr3S = Ba92(-966117467, Sr3S, t1GtdBLv6I, 1590004557, czD9_);
 }
@@ -524,7 +524,7 @@ std::cout << "NiwZE_" << AJF0Jzh4Lm(-912095191, JD_lwkQ, 1304916423, -1036455042
 }
 else
 {
-if ((rKX2_ >= o_7rX0d71) || (fQ88 != -723124753))
+if ((rKX2_ >= o_7rX0d71) || (true))
 {
 {
 int k = 9;

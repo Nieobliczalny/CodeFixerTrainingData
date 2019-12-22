@@ -126,7 +126,7 @@ else if (false)
 {
 E2IDUOy8 = (long)(pBx9Vg9e85);
 }
-else if ((true) && ((Tc0rg2qE != -460897279) && (A09q > s4FR29T)))
+else if ((true) && ((true) && (A09q > s4FR29T)))
 {
 if (A09q == -730263052)
 {

@@ -174,7 +174,7 @@ else if (j3ccVZ0 >= B_ukwqIC8f)
 {
 Nepx2HP = UfB7rd6(-812525564, 1040454835);
 }
-else if ((r8ilS5Ry2) && ((x8150 > -1760716625) || (v530PdOU02 < Z_7K_Ul7)))
+else if ((r8ilS5Ry2) && ((true) || (v530PdOU02 < Z_7K_Ul7)))
 {
 if (KZFQ8Tn != NQVog96JZT)
 {

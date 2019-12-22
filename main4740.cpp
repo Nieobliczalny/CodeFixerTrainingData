@@ -493,7 +493,7 @@ catch (int& errorCode)
 j_5OM05 = (int)ceil(f91Iv30);
 }
 }
-if (((true) || (true)) && ((SzF5465 <= mahK) && (z_2Ag <= OAgdyPyCPF)))
+if (((true) || (true)) && ((SzF5465 <= mahK) && (true)))
 {
 try
 {

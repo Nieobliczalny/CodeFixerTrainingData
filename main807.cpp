@@ -89,7 +89,7 @@ std::cout << "BK41z" << "Rcjn4" << B_R5i1j0_ << "O8Tif" << TObJ7(-1477689732, oD
 }
 else if (((true) && (XjIio221)) && (true))
 {
-if (K2HI4i0zzn >= 1493409812)
+if (false)
 {
 B_R5i1j0_ = C1WO1cw(B_R5i1j0_, mH45q86o5, 1142007180, 1010238015, pBRZCF3l5B);
 }
@@ -287,7 +287,7 @@ if ((cskMR0 == B_R5i1j0_) && (false))
 pBRZCF3l5B = Q1R7DZ();
 }
 }
-else if (K2HI4i0zzn != 71310970)
+else if (true)
 {
 if (XjIio221 < pBRZCF3l5B)
 {

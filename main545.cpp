@@ -170,7 +170,7 @@ else if ((false) || ((g73CD7 == B_InDXa0O) || (false)))
 {
 znO63RaDoO = (unsigned short int)(GvF5RT0);
 }
-else if (uI_2tHykJ < -1863426176)
+else if (false)
 {
 try
 {

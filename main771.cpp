@@ -134,7 +134,7 @@ lEPR = (long long)(d3VTn);
 
 if (((i2_oY >= uEa1u) || (true)) && ((kvTwB8IaG7 < 488281691) && (true)))
 {
-if (((lEPR != brzh) || (S0ax9n2O > p9__UxbD)) || ((yl_vjL < 739210291) || (GY4kgr < -173012875)))
+if (((lEPR != brzh) || (S0ax9n2O > p9__UxbD)) || ((true) || (GY4kgr < -173012875)))
 {
 if (k3_51vd != -1995111074)
 {

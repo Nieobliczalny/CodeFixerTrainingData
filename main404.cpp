@@ -494,7 +494,7 @@ else
 dCE6pcP9 = (int)abs(u0fx);
 }
 }
-else if ((false) || ((true) && (VsVskM75z != PtTo03jG)))
+else if ((false) || ((true) && (true)))
 {
 {
 int j = 1;

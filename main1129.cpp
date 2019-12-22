@@ -426,7 +426,7 @@ n_Y6IKRZ *= 2112681974;
 }
 else if (((true) && (true)) || (Oi6sDe9x == 1467307467))
 {
-if (L1O1uM9 != 1066267626)
+if (true)
 {
 gLNlp *= 623542757;
 }
@@ -703,7 +703,7 @@ else if (true)
 {
 if ((L1O1uM9 > HInhExaD) && ((Oi6sDe9x < KE7720AOK) || (true)))
 {
-if (KE7720AOK <= -499435113)
+if (false)
 {
 Oi6sDe9x |= 1269377224;
 }

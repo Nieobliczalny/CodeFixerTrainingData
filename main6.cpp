@@ -180,7 +180,7 @@ do
 {
 if (((true) || (E_gCl9f & -424447283)) && ((false) || (wvLG_TE3wo < yUfg3J)))
 {
-if (csT2eKe >= 1182451267)
+if (false)
 {
 yKG9y434 = yUfg3J - BBkfofsf_;
 }

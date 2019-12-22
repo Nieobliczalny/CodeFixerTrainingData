@@ -183,7 +183,7 @@ if (J_AX != -1682493817)
 Xscs5 %= z5xqwrz_;
 }
 }
-else if (((sByn > -155721614) && (false)) || ((HJMWrw19Z) && (Lu0xCIOS == 689319523)))
+else if (((sByn > -155721614) && (false)) || ((HJMWrw19Z) && (false)))
 {
 Lu0xCIOS = GrH4 * 1093014296;
 }

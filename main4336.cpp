@@ -196,7 +196,7 @@ if (true)
 {
 if (true)
 {
-if ((F82aB6 != Dr7pO5) || ((zPu8 > t2_p_07) && (G3XYA == 2110361335)))
+if ((F82aB6 != Dr7pO5) || ((zPu8 > t2_p_07) && (false)))
 {
 s_16_14pE = F82aB6 & 1043968628;
 }

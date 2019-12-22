@@ -108,7 +108,7 @@ sA8BK8N_ |= Z0daL68OQ;
 
 e_KktwWf_ >>= e2Bm_;
 
-if (((false) || (false)) || (YrJ1c <= -309066538))
+if (((false) || (false)) || (false))
 {
 if (sA8BK8N_)
 {
@@ -204,7 +204,7 @@ EOb6Vgqxv1 = XZA_Y - 1472366527;
 }
 else
 {
-if (((true) && (FgNUzdRH == Q2UknyRxGd)) && ((false) || (U1Gl <= -1670877746)))
+if (((true) && (FgNUzdRH == Q2UknyRxGd)) && ((false) || (false)))
 {
 {
 int k = 7;

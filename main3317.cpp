@@ -430,7 +430,7 @@ if (false)
 {
 z60O63Q /= 661719242;
 }
-else if (Qz2dbCWw7c >= 2136801228)
+else if (false)
 {
 ts9N = (int)abs(VzLj89_);
 }

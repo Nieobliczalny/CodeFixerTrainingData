@@ -211,7 +211,7 @@ else if (false)
 {
 E5qYd8M = wSe515COcV(-1064450541, Du61n8cbL);
 }
-else if ((true) && ((AK2_5w_0kh <= -893418498) || (OuqwxTx78K < 915431978)))
+else if ((true) && ((false) || (OuqwxTx78K < 915431978)))
 {
 if (J15eHE != -2017507360)
 {

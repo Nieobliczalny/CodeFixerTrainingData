@@ -358,7 +358,7 @@ else
 cout << r6x8 << endl;
 }
 }
-else if (((m_WW & d2Ls_o) || (false)) || ((true) && (mGdf4 >= -1008680983)))
+else if (((m_WW & d2Ls_o) || (false)) || ((true) && (true)))
 {
 rOrD39N69 = (unsigned char)(qkxL0);
 }

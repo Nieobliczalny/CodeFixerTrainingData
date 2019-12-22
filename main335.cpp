@@ -87,7 +87,7 @@ else if (s8tw6mdVZ & -2086927257)
 {
 HWXH -= ZR943XXoV;
 }
-else if (u0MFXlT >= 474719002)
+else if (false)
 {
 {
 int j = 0;

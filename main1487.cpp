@@ -286,7 +286,7 @@ else if ((wSVD8 == az_41M) || (false))
 {
 MHX5yCQ %= s515;
 }
-else if ((yRA33 > nWY019) && (HzEu9S9 > -778587700))
+else if ((yRA33 > nWY019) && (true))
 {
 MVhe = j81bdh(2137557135, SMM46c, 2018458906, yRA33, 349307457);
 }

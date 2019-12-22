@@ -108,7 +108,7 @@ while (j >= 0);
 }
 }
 
-if (W5ymf_B7G5 == -1955886015)
+if (false)
 {
 switch (uF26Ac)
 {

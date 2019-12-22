@@ -118,7 +118,7 @@ if ((IPEts1lc2 & iNApN77Ik) && (true))
 {
 std::cout << p_9P << "Pu_4Ls49" << std::endl;
 }
-else if ((II_TZS) && ((true) && (IPEts1lc2 < Ny2U9m8g)))
+else if ((II_TZS) && ((true) && (false)))
 {
 {
 int j = 0;

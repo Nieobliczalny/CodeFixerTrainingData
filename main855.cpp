@@ -291,7 +291,7 @@ for (int k = 0; k < 8; ++k)
 dsfY9o7eL = gf47M9_ny * UC7Etoy5;
 }
 }
-else if (dsfY9o7eL != -139406749)
+else if (true)
 {
 {
 int k = 0;

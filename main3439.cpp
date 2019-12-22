@@ -59,7 +59,7 @@ do
 {
 if ((true) && (true))
 {
-if (S0e3Wq7G83 != 450639841)
+if (true)
 {
 R65zZ99 = bU2_9F + 573502649;
 }

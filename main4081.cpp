@@ -52,7 +52,7 @@ s4UeD7N = ps8egvB1_v(z__0G03s6, W94h3, -1696001090, OYXDx2XtQ0);
 }
 else if (((s4UeD7N & EgWGwPT) && (s4UeD7N >= 1110911065)) || ((false) || (true)))
 {
-if (U49nSc8 < -998845005)
+if (false)
 {
 Q94_G_4 = (unsigned short)(U49nSc8);
 }

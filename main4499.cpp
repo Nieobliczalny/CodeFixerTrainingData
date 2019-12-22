@@ -173,7 +173,7 @@ else if ((false) || (true))
 {
 for (int j = 6; j >= 0; j--)
 {
-if (aUTV66i8 <= j6m5P9v3fh)
+if (true)
 {
 Wq60ny_n = X9rOhl(-313807057, -1183318474, aUTV66i8, -2021199474);
 }
@@ -431,7 +431,7 @@ while (k < 2);
 }
 else if (true)
 {
-if (((true) && (VLmJ & -666614632)) && ((b6UvLt85x < 1771421915) && (E_Zl & -846792100)))
+if (((true) && (VLmJ & -666614632)) && ((true) && (E_Zl & -846792100)))
 {
 Wq60ny_n = (int)abs(Xl52);
 }

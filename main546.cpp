@@ -246,7 +246,7 @@ if (Vn9WVG1 == D_aPH9)
 {
 h54rHdI = cKT3j92M(kx7xK, ThGkPWGa8) >> 1479017537;
 }
-else if ((false) || ((Vn9WVG1 & ve2Z5) || (h54rHdI < 1876601583)))
+else if ((false) || ((Vn9WVG1 & ve2Z5) || (true)))
 {
 tA1y4a = (short int)(F1CC26fO);
 }

@@ -28,7 +28,7 @@ if (((OTxlQ02z3) || (mdZZ2qiiW3 & ww0A438k7)) && ((true) && (false)))
 {
 ww0A438k7 = (short int)(mdZZ2qiiW3 * ww0A438k7);
 }
-else if (((ww0A438k7 >= 2013730166) && (mdZZ2qiiW3)) || ((OTxlQ02z3 != -1962868398) || (OTxlQ02z3 & 1030967459)))
+else if (((false) && (mdZZ2qiiW3)) || ((OTxlQ02z3 != -1962868398) || (OTxlQ02z3 & 1030967459)))
 {
 if (((mdZZ2qiiW3 <= OTxlQ02z3) && (OTxlQ02z3 == ww0A438k7)) && (ww0A438k7 < mdZZ2qiiW3))
 {
@@ -436,7 +436,7 @@ else if (false)
 {
 ww0A438k7 = D7hyiF(1845586570, 2018739722, 1185843853, -1775517883);
 }
-else if (mdZZ2qiiW3 == 1284927789)
+else if (false)
 {
 if ((true) || (OTxlQ02z3 <= mdZZ2qiiW3))
 {

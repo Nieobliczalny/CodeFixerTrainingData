@@ -352,7 +352,7 @@ for (int j = 0; j < 2; ++j)
 {
 for (int k = 0; k < 4; k++)
 {
-jl4ae6aGdJ = (TJcd72 == -1992032753) ? b6kyh2 : TJcd72;
+jl4ae6aGdJ = (false) ? b6kyh2 : TJcd72;
 }
 }
 }

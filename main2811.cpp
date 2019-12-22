@@ -303,7 +303,7 @@ else if ((true) && (Jr8n >= Ul3c8))
 {
 std::cout << "b20d" << "IgEb_A" << O6l6s() << t2y283g(HULiN59dxr, -743613199) << std::endl;
 }
-else if (DZ98z <= -1866879185)
+else if (false)
 {
 smz_66 = (int)abs(yEg1s);
 }
@@ -450,7 +450,7 @@ Ul3c8 = euh4LmMY(Ul3c8, mb3XUSi9, GZ1l0X, ZWTnd0num, 1832502757);
 }
 else
 {
-if ((false) || (IR7hKkM < -1597627044))
+if ((false) || (false))
 {
 g1APx89 = kDwx(Ul3c8, mb3XUSi9, GZ1l0X, 2105951400) + tq_TV9r_;
 }

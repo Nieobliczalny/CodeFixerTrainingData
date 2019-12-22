@@ -496,7 +496,7 @@ std::cout << -535008397 / Wk7u_2f(MVRIMTzq, m5sD2Sc9U4, T_7o3, 416965243, 141601
 int i = 5;
 do
 {
-if (((true) && (false)) || (wdN62EsNJ_ > -794781835))
+if (((true) && (false)) || (true))
 {
 try
 {
@@ -699,7 +699,7 @@ J4srV_e = DrAkFrmDX3 ^ Nvd__;
 }
 else if (Ds0Fi != XW_ZIHY3_g)
 {
-if (((false) || (false)) || (DLoCk6qkF > 471997846))
+if (((false) || (false)) || (false))
 {
 GDC6I = (unsigned char)(j2D7f6jQ);
 }

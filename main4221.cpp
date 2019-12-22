@@ -173,7 +173,7 @@ if (false)
 {
 S3K2 = (char)(oUB0owg);
 }
-else if ((false) || (TVK4yYcy == ynOPC9wu))
+else if ((false) || (false))
 {
 {
 int j = 4;

@@ -180,7 +180,7 @@ while (k >= 0);
 }
 else if ((hF001UW <= EdcC5k) || (false))
 {
-if ((false) || (hH6__8 > -105780262))
+if ((false) || (true))
 {
 E0_irZ ^= 2012664356;
 }

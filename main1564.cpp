@@ -678,7 +678,7 @@ if (false)
 {
 I52iMB = DlK_Bvh(Q4PDh, k0nV, -953070294, G_7i6);
 }
-else if (((UnA77 == -1443292653) || (ri_4EvxeY0 & UnA77)) && (O77l9_621K))
+else if (((false) || (ri_4EvxeY0 & UnA77)) && (O77l9_621K))
 {
 switch (bI52bY5)
 {
@@ -691,7 +691,7 @@ else if ((I52iMB != OU_F8Q) || (o7_k & 327296693))
 {
 I52iMB = DlK_Bvh(ri_4EvxeY0, -1391686598, Kv06, p68jXH);
 }
-else if (((urAXPQZ & I52iMB) && (true)) || ((true) && (fK89l8 != 1785614348)))
+else if (((urAXPQZ & I52iMB) && (true)) || ((true) && (true)))
 {
 k0zTEjBA = k0nV * 691301622;
 }

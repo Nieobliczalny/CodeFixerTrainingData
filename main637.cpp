@@ -281,7 +281,7 @@ if (Eh6Jc9u <= NdWANHpua)
 gZ3246 = (short int)(srN_3wpEa);
 }
 }
-else if (BJAPVSh7E != -1819948748)
+else if (true)
 {
 for (int j = 0; j < 8; ++j)
 {
@@ -297,7 +297,7 @@ gZ3246 -= AQ6HXkoQL7;
 }
 else if (true)
 {
-if ((WOy4Yil0n5 & 1187533791) || ((rrYEE & -779961895) && (YQ2__y3 > -266404589)))
+if ((WOy4Yil0n5 & 1187533791) || ((rrYEE & -779961895) && (true)))
 {
 {
 int k = 0;

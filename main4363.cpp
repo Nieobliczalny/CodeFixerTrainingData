@@ -531,7 +531,7 @@ m8n1 = B0D_fuYK(Z51VpL, K25NQp);
 }
 else
 {
-if (Yi_U_pdnc > -1390140535)
+if (true)
 {
 KOqM2gFC = (int)floor(Ck1e);
 }

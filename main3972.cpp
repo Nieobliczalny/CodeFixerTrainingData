@@ -157,7 +157,7 @@ else if (false)
 {
 gwwM_59 *= 698698336;
 }
-else if (B1CGt_NJk0 <= -858660994)
+else if (false)
 {
 GmXM5Y = lW3HxM16R(-538050266, 1349603202);
 }
@@ -282,7 +282,7 @@ R6z54bZ = My3H5MB(-493825527, R6z54bZ, vWC8g_b5);
 
 for (int i = 0; i < 4; i++)
 {
-if ((true) && ((true) && (eA92tl > -1239209263)))
+if ((true) && ((true) && (true)))
 {
 try
 {

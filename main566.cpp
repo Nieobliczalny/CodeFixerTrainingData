@@ -138,7 +138,7 @@ else if (a_XGVbfdi < RgL09)
 {
 cout << "vbcweU2Q9" << ndp9B0_G << "Kd5C6D_" << SX6i << endl;
 }
-else if (((true) || (dBIV95K82 == 1684245852)) && ((false) || (qUAgH7 > 1066161132)))
+else if (((true) || (dBIV95K82 == 1684245852)) && ((false) || (false)))
 {
 {
 int j = 0;

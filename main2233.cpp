@@ -147,7 +147,7 @@ else if (p8_IH_)
 {
 cout << "w_W7706Z5" << "A5vv5zaOC_" << "XxZ4_npjA4" << endl;
 }
-else if (IIz_S_T4M < -361035652)
+else if (false)
 {
 cout << "s18N279" << endl;
 }
@@ -283,7 +283,7 @@ while (j < 2);
 }
 else if ((true) && ((c_vQ2 >= p8_IH_) || (false)))
 {
-if (wG3eTw8 == 984151402)
+if (false)
 {
 c_vQ2 = (unsigned short int)(wG3eTw8);
 }

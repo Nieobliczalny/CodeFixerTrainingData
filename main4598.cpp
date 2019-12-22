@@ -369,7 +369,7 @@ else if (vlT5Vj)
 {
 qcct8 = HjHd * Co9sp;
 }
-else if ((Co9sp) || ((HjHd >= jkoX6O2i1) || (vlT5Vj > jkoX6O2i1)))
+else if ((Co9sp) || ((true) || (vlT5Vj > jkoX6O2i1)))
 {
 vlT5Vj = Y4vq5n_();
 }

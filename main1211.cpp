@@ -562,7 +562,7 @@ else if (((false) || (false)) && (LGe3_61j))
 {
 V0__0 |= 1173553904;
 }
-else if (q_YS7J != DD04a)
+else if (true)
 {
 D2jB6 += j7T4V;
 }
@@ -578,7 +578,7 @@ CjXzx = V2Ki7N();
 }
 if (true)
 {
-if ((false) || (WhKL7LkMO <= DD04a))
+if ((false) || (true))
 {
 try
 {

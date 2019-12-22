@@ -315,7 +315,7 @@ break;
 c6frj *= 1123361011;
 if ((true) && ((Ces76bcwM > ky7OdeBa_) || (false)))
 {
-if ((Yfr3N4 > -2012368253) || (tqXd2P_R >= WmPf9zZ43))
+if ((true) || (tqXd2P_R >= WmPf9zZ43))
 {
 switch (BVkidcFdV)
 {
@@ -381,7 +381,7 @@ if (((true) && (true)) && (eJRxlO > wHwZY4))
 {
 if (MQck1__ == KIHo_)
 {
-if (vtV89TC7_m <= 1617507244)
+if (true)
 {
 f5df2C4cb4 = DjJ2(IE211bn, -1389108294, qdrv4J0is9);
 }

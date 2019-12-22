@@ -314,7 +314,7 @@ if (false)
 {
 j7_nx = dI98uG3Bpx(-1915130671, a0731Cda1g);
 }
-else if ((Rp4e_c09 > -1387349713) && (q3VQL70cES == 1410588907))
+else if ((true) && (q3VQL70cES == 1410588907))
 {
 CTK96w = f4G4(CTK96w, -880620043, NFxw7jRay, g2GtB, 119654719);
 }

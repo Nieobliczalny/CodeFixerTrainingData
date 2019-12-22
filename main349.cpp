@@ -660,7 +660,7 @@ if (false)
 {
 o6sZ = (unsigned char)(vi3gFT_D);
 }
-else if ((false) || (cpjT3SDQ6K != 742550827))
+else if ((false) || (true))
 {
 {
 int j = 6;

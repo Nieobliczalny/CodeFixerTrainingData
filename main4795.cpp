@@ -736,7 +736,7 @@ break;
 }
 if (((p38G7U7 < e1pFNwGrc9) && (l85K == z3Un3Y_q)) || (false))
 {
-if ((true) && ((kMv_Dq) && (A6bT9 != 408635382)))
+if ((true) && ((kMv_Dq) && (true)))
 {
 p38G7U7 = (char)(A_GoBy);
 }

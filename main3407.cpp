@@ -96,7 +96,7 @@ else if ((true) && ((false) && (cr7yg2x & 534246993)))
 {
 IIK124 = D7_7();
 }
-else if (AyIC5 == 2054360829)
+else if (false)
 {
 if (cr7yg2x)
 {
@@ -110,7 +110,7 @@ else if (UyObxz6x == FTSzHhm5U8)
 {
 UDAB = (int)abs(ssm0o);
 }
-else if (r1NI68Fi > -809184327)
+else if (true)
 {
 Zoe0nO_ %= Jp4S;
 }
@@ -164,7 +164,7 @@ if (true)
 std::cout << VUGRElEZKF << nqO_(1432869933, -921703785, -1614622403, NXFi, -122666993) << std::endl;
 }
 }
-else if (W5fA1jA1IA > 349597447)
+else if (false)
 {
 std::cout << "G0n335J5" << S6BfJTUqv << std::endl;
 }

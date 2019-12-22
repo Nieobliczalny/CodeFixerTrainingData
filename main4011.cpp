@@ -361,7 +361,7 @@ RUz9 = wu_E2TS(77487272, -1086444479, 1872933298, -623684188, R3Gk09H);
 i++;
 }
 }
-if (((true) || (g1G_9NK5O == HU75736_)) && ((true) && (R3Gk09H > 1249259606)))
+if (((true) || (g1G_9NK5O == HU75736_)) && ((true) && (false)))
 {
 xGfOC97 = (int)abs(OhyrpS3ov_);
 }

@@ -259,7 +259,7 @@ else if (((KJ3vh3c & yqU82nAZTH) && (true)) && ((Ggu6a89y == ShL6rts) && (false)
 {
 Xr_W4w = H7hA() & P_aW;
 }
-else if (U3a30O <= -204870726)
+else if (false)
 {
 ShL6rts = H7hA() << 1489765164;
 }

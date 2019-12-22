@@ -184,7 +184,7 @@ else if (false)
 {
 z_Js = (unsigned short)(QY207oRg);
 }
-else if (((false) || (E7_4O82VQq == xa557N9h)) || (HRSeZ7 == -1348267241))
+else if (((false) || (E7_4O82VQq == xa557N9h)) || (false))
 {
 acMh2k86++;
 }
@@ -394,7 +394,7 @@ else if (false)
 {
 SlXi0TF6Q = (unsigned long long)(RGG4lOi * SlXi0TF6Q);
 }
-else if ((EjJY8r == -1483531413) || (tvw_xq & 1764485436))
+else if ((false) || (tvw_xq & 1764485436))
 {
 for (int k = 1; k >= 0; --k)
 {

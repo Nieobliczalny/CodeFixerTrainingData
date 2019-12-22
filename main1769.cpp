@@ -148,7 +148,7 @@ while (i >= 0);
 }
 for (int i = 1; i >= 0; i--)
 {
-if (((true) && (true)) && ((Y80_S6rmG6 == Z_F9OOK) && (Mo6BZ != -1532396698)))
+if (((true) && (true)) && ((false) && (Mo6BZ != -1532396698)))
 {
 xb225z = Pk_7Gj();
 }

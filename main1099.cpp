@@ -391,7 +391,7 @@ Gkq_49FI = (int)ceil(se4EhdQ6c0);
 }
 else if ((se4EhdQ6c0 != -50702806) || ((false) || (true)))
 {
-if (((i2e0Q6yVP7 >= -909111762) || (i2e0Q6yVP7 != Xi37V16l)) || (gdh2y2Ke))
+if (((true) || (i2e0Q6yVP7 != Xi37V16l)) || (gdh2y2Ke))
 {
 std::cout << q_8PA(ymZyfrz, 164189643) << pN_lWCc07(-2033206465, i2e0Q6yVP7) << wdBdSf_6G7 << B6KEF3Yb(1592113731, -559275675, -1090174849, 1307324306) << "hFW1u0" << std::endl;
 }

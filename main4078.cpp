@@ -187,7 +187,7 @@ else if (false)
 {
 AiLCC81R <<= i_Kp4pPf;
 }
-else if ((l9AP) && (jJ1gFm > -1056743979))
+else if ((l9AP) && (true))
 {
 Yg4887XhY ^= qz9FV2_;
 }

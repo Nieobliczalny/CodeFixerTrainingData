@@ -248,7 +248,7 @@ else if (true)
 {
 if (V9Zx < WZbvNXE)
 {
-if ((true) && ((D_Wf57Qs > -76869502) && (GBMK02v != U_PI67q)))
+if ((true) && ((true) && (GBMK02v != U_PI67q)))
 {
 K8U_ = PxZj(-1868191651, tZ2f9m);
 }
@@ -423,7 +423,7 @@ else if (((true) && (Rys8)) || (false))
 {
 Nb7YE = (unsigned short)(SwNC8Q);
 }
-else if (p_nS >= 746973111)
+else if (false)
 {
 for (int k = 7; k >= 0; --k)
 {

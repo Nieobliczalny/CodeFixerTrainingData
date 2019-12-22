@@ -131,7 +131,7 @@ for (int k = 0; k < 9; k++)
 f_kG9hfn = (int)ceil(k6L7bXt);
 }
 }
-else if ((false) || (WvR8 > 98684099))
+else if ((false) || (false))
 {
 for (int k = 6; k >= 0; --k)
 {

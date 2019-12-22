@@ -276,7 +276,7 @@ if (((Y0s18f != DJWJpL) && (T_lL55Ss4 != -1017265354)) || (true))
 CG35DDxI = (int)ceil(I6DUnIRW);
 }
 }
-else if (((W5Lh_) || (false)) || (t_e4 > 402839307))
+else if (((W5Lh_) || (false)) || (false))
 {
 try
 {

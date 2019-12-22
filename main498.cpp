@@ -144,7 +144,7 @@ else if (false)
 {
 t3u_2Ug = qW4aVbidkQ(1315519330, UrGu57, yALHf, fs_h7n);
 }
-else if (HpbeaD >= 2031702171)
+else if (false)
 {
 if (true)
 {
@@ -222,7 +222,7 @@ b82cwC = VGhI << 1623678062;
 }
 }
 }
-if (((qxTv) || (false)) && ((YIsQiE6h7W > -364168309) || (NjY06 < dbDUCmc)))
+if (((qxTv) || (false)) && ((true) || (NjY06 < dbDUCmc)))
 {
 if (HoK7 < TUqRiz37u4)
 {

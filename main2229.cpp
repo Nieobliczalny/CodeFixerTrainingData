@@ -232,7 +232,7 @@ z05d4W = MkG5mp(w4B_4C0N2);
 }
 else if ((w_4hQd) && (true))
 {
-if (((true) && (Au4Io840_ < -986785566)) && (So1rQ == -1834633538))
+if (((true) && (false)) && (So1rQ == -1834633538))
 {
 for (int k = 0; k < 6; k++)
 {

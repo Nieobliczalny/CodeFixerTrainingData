@@ -602,7 +602,7 @@ else
 a3O4pYTDC5++;
 }
 }
-else if (((XCFF_0) || (nsvQoVqf6 <= 1003210091)) && (H21J == lzp8d8I))
+else if (((XCFF_0) || (true)) && (H21J == lzp8d8I))
 {
 ANO066UOs = wSRpffx2R5 >> xrO0pD_s3x;
 }

@@ -481,7 +481,7 @@ if (d9h0_4 >= U_nLj6wU_Y)
 eJ3dA1mx = LTu8 % 1735454851;
 }
 }
-else if (H84Ps1J6t <= -65710753)
+else if (false)
 {
 try
 {

@@ -227,7 +227,7 @@ if (huVFLSy0 >= 1495134182)
 {
 Tp1bJtXO3 = (int)floor(nU0c);
 }
-else if (bmLcmT5A9 >= 413976817)
+else if (false)
 {
 nU0c = (int)floor(NokclLN1m_);
 }

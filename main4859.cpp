@@ -229,7 +229,7 @@ if ((true) && ((false) && (W82TwUkk6p < FITR)))
 Tx6ll--;
 }
 }
-else if ((O0_TYoKWYu) && (Bik9gIw3Oz != 147496207))
+else if ((O0_TYoKWYu) && (true))
 {
 switch (ty9o)
 {

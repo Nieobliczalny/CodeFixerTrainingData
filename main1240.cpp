@@ -123,7 +123,7 @@ if (true)
 cout << Ov7Ca_5GG8(sa_QwFMWi, B_ijpT0, 678714360, 673259101, -2147009087) << Ov7Ca_5GG8(1060771928, -2111983612, 611546989, PcDQ519, 1594187577) << Ov7Ca_5GG8(1649170795, B_ijpT0, 2091164172, -324168085, 222852119) << "tNT7GW" << "yVi0AW" << endl;
 }
 }
-else if (s3eC1jNU1w > HKkP)
+else if (false)
 {
 if (B_ijpT0 > H_jh)
 {

@@ -361,7 +361,7 @@ yAF1_uTN++;
 }
 }
 }
-if (((true) && (fn0G2Cz)) || ((Lyv82mf_ <= 1925727679) && (C8c_Hq >= b6P_A)))
+if (((true) && (fn0G2Cz)) || ((true) && (C8c_Hq >= b6P_A)))
 {
 for (int j = 0; j < 3; ++j)
 {

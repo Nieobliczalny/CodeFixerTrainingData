@@ -503,7 +503,7 @@ else if (RAkVk07pr > wg5446Qf)
 {
 std::cout << o4K9_J_9UB << "D4cOj4" << RAkVk07pr << "dve96RlOBw" << std::endl;
 }
-else if (((dak1BxB5) || (bVQymciGlF <= q3_DyCq)) || (q9I_A == s7R80C))
+else if (((dak1BxB5) || (bVQymciGlF <= q3_DyCq)) || (false))
 {
 qn__1_l37E /= 838058323;
 }

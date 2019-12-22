@@ -645,7 +645,7 @@ do
 {
 if (((I5uVnhY) || (true)) && ((Woa66a_s) && (true)))
 {
-if ((qqj1q8 < 1546699104) && (fd1RY3It >= aNbQ))
+if ((true) && (fd1RY3It >= aNbQ))
 {
 q5Xv7yK89 = Ea1bVP7I7 & 1346177775;
 }

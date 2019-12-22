@@ -207,7 +207,7 @@ else if (OXKQM7k8o <= ED3Oli7nL)
 {
 TOE21633 = (int)abs(PBUyzlYP);
 }
-else if ((false) || (l5_o58_N <= 809927752))
+else if ((false) || (true))
 {
 n5j6 |= vxy_5lm5;
 }
@@ -243,7 +243,7 @@ else if ((pk_2 >= eV5Fr_FT0) && ((false) || (true)))
 {
 std::cout << e378 << "wi0M_C8" << TOE21633 << zoO0lZ3W << std::endl;
 }
-else if (n5j6 > 874971440)
+else if (false)
 {
 {
 int k = 0;

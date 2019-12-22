@@ -480,7 +480,7 @@ L7v3j0R7O = XPj3(1485253265, f7XG, -374023213, JVRQ7, EVs80Wg0X);
 }
 else if (((NTM2 != a16R3HYc) && (false)) || (x_3H0H < ILnglAk5))
 {
-if (i8oEV <= 552882343)
+if (true)
 {
 {
 int k = 8;
@@ -634,7 +634,7 @@ break;
 }
 if (((true) || (vfnwd != 628181078)) && (true))
 {
-if (((L7v3j0R7O) || (G_9U58C1o < vfnwd)) && ((nf0_F2 <= 489983020) || (u_Hd <= 86783207)))
+if (((L7v3j0R7O) || (G_9U58C1o < vfnwd)) && ((true) || (u_Hd <= 86783207)))
 {
 for (int k = 8; k >= 0; k--)
 {

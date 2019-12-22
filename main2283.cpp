@@ -402,7 +402,7 @@ if (((false) || (Ba2s <= -1618366055)) && ((BCJKfzOKu0 == aE6aI8CNU) && (false))
 {
 Te_eQp = i9yhN % 444006036;
 }
-else if ((cs8wR8 > -1848180038) || ((F4WEGI == -1389362709) && (iSg4Z & olDv)))
+else if ((true) || ((F4WEGI == -1389362709) && (iSg4Z & olDv)))
 {
 std::cout << "Qtt_DS3" << std::endl;
 }

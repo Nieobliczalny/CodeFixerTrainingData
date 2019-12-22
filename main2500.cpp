@@ -584,7 +584,7 @@ if (true)
 oKSnU52n = zn56OK046s(ow3w5l9, kH0L8UiX6m);
 }
 }
-else if (mipP5ZcMm < 568860107)
+else if (true)
 {
 JoMx = (unsigned short)(rWx4Csy);
 }
@@ -596,7 +596,7 @@ else if (((false) || (false)) || ((BhY70g6E_ == O468Cno) || (gywJ & 949232973)))
 {
 std::cout << "hKbS" << "LAjZ3d0f" << zn56OK046s(-1882675525, 505036577) << std::endl;
 }
-else if (jhn45 == -1477411808)
+else if (false)
 {
 {
 int j = 0;

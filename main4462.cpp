@@ -170,7 +170,7 @@ FP2q8q44A = (short int)(KHSF);
 }
 else if ((true) || ((PCW8) && (AkewnZayw > 1371475163)))
 {
-if ((RFPlvG < -1661422061) && (SBe6_PT0 > -2139655360))
+if ((false) && (SBe6_PT0 > -2139655360))
 {
 I12_cP += EI7JsY_6Fp;
 }

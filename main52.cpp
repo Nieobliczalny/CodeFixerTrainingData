@@ -582,7 +582,7 @@ break;
 }
 else if (((gFo3A < WikUIyivl) || (false)) || (false))
 {
-if (IFwU452bem > -1421815364)
+if (true)
 {
 YKxYGv_ = dIieB(Xrv2wtcB);
 }

@@ -83,7 +83,7 @@ int main(int argc, char** argv) {
 	J50Y7	=	-1917812442;
 
 eu2O7Xf = pI9V2N0U27(274555831, 1520243974) % 44128655;
-if (((true) && (true)) && (ayfi6lH78 == 1974557225))
+if (((true) && (true)) && (false))
 {
 {
 int j = 0;

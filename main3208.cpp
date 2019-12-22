@@ -249,7 +249,7 @@ L_39QQ5 = Pef_90k ^ 541983354;
 }
 else if (true)
 {
-if (T43x__ == -50468631)
+if (false)
 {
 Z203sxk = M_Ua_ab9(eyT415b0);
 }

@@ -227,7 +227,7 @@ else if (j2vYR72M9 >= wlF24lZuHY)
 {
 c8QrOx34 <<= 2031975708;
 }
-else if (vxpWuK > sKd8pOQvVz)
+else if (false)
 {
 c8QrOx34 = ph42(-838288618, 1280588242, j2vYR72M9, -936464086, -1641221113);
 }

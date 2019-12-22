@@ -149,7 +149,7 @@ else if (false)
 {
 OG1oDS ^= 1178540306;
 }
-else if (sIC6 < -257947381)
+else if (false)
 {
 sIC6 = bjA7A2_8(907936792, LEigh6, 729114298, -279764564);
 }

@@ -661,7 +661,7 @@ else if (((bY3S >= bhD8Y) && (true)) || ((true) && (Tg8Fh0 == mo6C)))
 {
 try
 {
-if (((NRo_qcNA4) && (c_BbV0E > 962650472)) && (k_tZBu_aLN < 703502212))
+if (((NRo_qcNA4) && (c_BbV0E > 962650472)) && (true))
 {
 F5YFu *= cWcqnOz;
 }

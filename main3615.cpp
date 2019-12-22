@@ -80,7 +80,7 @@ else if (false)
 {
 E0JwWf0S = o473C5a() * Umr_HQnFs4;
 }
-else if (cS1R >= 1436137713)
+else if (false)
 {
 P031l = hN68 | 1333888909;
 }

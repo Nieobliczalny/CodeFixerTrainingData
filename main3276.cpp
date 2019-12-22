@@ -578,7 +578,7 @@ else if (true)
 {
 try
 {
-if (lCL16U5 != 1189415234)
+if (true)
 {
 cKwiO4PE = Fd2Vmg(-1462008771, -99131543, 2021122663, nLh440T, UXw65);
 }

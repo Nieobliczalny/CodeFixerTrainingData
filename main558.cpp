@@ -225,7 +225,7 @@ if (true)
 {
 try
 {
-if (((FzK8XWycu != -578732443) && (true)) && (P3NRzDCz != -779456966))
+if (((FzK8XWycu != -578732443) && (true)) && (true))
 {
 Du7UPS_Z7 &= 120792676;
 }

@@ -402,7 +402,7 @@ Wyx3L7FhP9 = (int)ceil(T2PF496cC);
 }
 else
 {
-if ((igUM17J3h_) && ((W8EeE < -1792223785) || (CWIo8XKJp5 > 103211063)))
+if ((igUM17J3h_) && ((W8EeE < -1792223785) || (false)))
 {
 gMr1Hc = e7rwxU_nk * 1706880460;
 }

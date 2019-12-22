@@ -221,7 +221,7 @@ break;
 }
 }
 }
-if (((true) && (false)) || (Q___WK7Oo <= 1346810450))
+if (((true) && (false)) || (true))
 {
 if (Q2W4FLw6QU & -1054490667)
 {

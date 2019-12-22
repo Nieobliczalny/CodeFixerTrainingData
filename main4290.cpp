@@ -360,7 +360,7 @@ LOiR3 /= g5lMiI_I2;
 
 try
 {
-if (((true) && (LzrkF34 <= uddO6x2D4l)) && (JEKCRcpkl7 & 607595332))
+if (((true) && (false)) && (JEKCRcpkl7 & 607595332))
 {
 LzrkF34 = (unsigned char)(uddO6x2D4l);
 }
@@ -598,7 +598,7 @@ else if ((nI37D84 != RUPu6) && (true))
 {
 RUPu6 = I_5p5 * DM6Aha0_;
 }
-else if ((false) || (i7vT1 <= -1935663617))
+else if ((false) || (false))
 {
 JEKCRcpkl7 ^= g5lMiI_I2;
 }

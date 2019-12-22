@@ -98,7 +98,7 @@ else if (false)
 {
 du0a6nlQz0 = d3aW54TCl >> 1632217276;
 }
-else if (Edc4 == 1743866612)
+else if (false)
 {
 y9V84 = vlpkc7a_ % 20074788;
 }
@@ -349,7 +349,7 @@ q_5Lt8qGo &= 39109720;
 }
 else
 {
-if ((MS5U5r != 1045074779) || (kp81n6p1 != y9V84))
+if ((true) || (kp81n6p1 != y9V84))
 {
 try
 {

@@ -297,7 +297,7 @@ if (false)
 {
 LA_eM /= 361680563;
 }
-else if (l13Vf4uTff >= 244804927)
+else if (false)
 {
 HL2u_ = fufE % xm9RU19w27;
 }

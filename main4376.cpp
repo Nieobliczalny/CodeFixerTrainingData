@@ -125,7 +125,7 @@ if ((true) && ((CP2y_191_2 & qOThT) && (true)))
 {
 if (nO650Hb4 >= MTyK7tG_wW)
 {
-if (MTyK7tG_wW > qOThT)
+if (false)
 {
 wuuDWA5DNp <<= 483224481;
 }

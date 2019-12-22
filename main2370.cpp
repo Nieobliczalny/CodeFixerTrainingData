@@ -460,7 +460,7 @@ cout << egIr570 << endl;
 }
 else if ((false) || (true))
 {
-o13bwA = (le6A <= 2108673642) ? o13bwA : -223641026;
+o13bwA = (true) ? o13bwA : -223641026;
 }
 else if (Z3xVBk1NJT >= -1627583006)
 {

@@ -637,7 +637,7 @@ else if (true)
 {
 if (G9L1)
 {
-if (((pfKrWw <= 79142290) || (Z5hSS7N > HBt4v9yj)) && ((true) && (B1QxP >= -1614259798)))
+if (((pfKrWw <= 79142290) || (Z5hSS7N > HBt4v9yj)) && ((true) && (true)))
 {
 sd9miZ4 = au4DHA6j * 2139131439;
 }

@@ -347,7 +347,7 @@ else if (false)
 {
 zu7XqYS = zu7XqYS | 80168308;
 }
-else if (sn7bzt6F0 >= -1635058980)
+else if (true)
 {
 Y6wFG = sVlxI(-340276626, Ks7M6aj) >> yH1Y038VC;
 }

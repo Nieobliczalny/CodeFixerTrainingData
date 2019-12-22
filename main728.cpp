@@ -132,7 +132,7 @@ else if (d_dqBL26 < Q5_I4z4ON)
 {
 EK9GzJ /= 1271743697;
 }
-else if ((o7Q55CSb <= EWMSgjA85) || (xpYv2 != H39N6T2r))
+else if ((false) || (xpYv2 != H39N6T2r))
 {
 JKPfirD6rM = kLjVYyG + 1683218339;
 }

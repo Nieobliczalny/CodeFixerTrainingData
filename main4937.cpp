@@ -528,7 +528,7 @@ try
 {
 if (((vfp1ANr84_ >= j9y_G0) || (true)) && (iACPjOR9 >= HOkD5E9we3))
 {
-if ((j_0h_y3 <= iACPjOR9) && ((false) || (iACPjOR9 != 850124718)))
+if ((j_0h_y3 <= iACPjOR9) && ((false) || (true)))
 {
 d3sa = M9b_u4();
 }

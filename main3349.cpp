@@ -198,7 +198,7 @@ if (TT4s395 > F3P112)
 J98O25 = (int)floor(Yz5Me1);
 }
 }
-else if ((true) && (D_Q47j == 431935554))
+else if ((true) && (false))
 {
 v_cIHj7_L = (unsigned int)(C_3RN);
 }

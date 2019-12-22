@@ -167,7 +167,7 @@ m4IqJ7 = (int)abs(P20Zvd3);
 }
 }
 }
-else if (TYC48Z < -1052750575)
+else if (false)
 {
 GQVaTcu = G40JvS(1825516495, uFX6_qir4);
 }

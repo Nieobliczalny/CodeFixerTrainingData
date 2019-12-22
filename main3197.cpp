@@ -326,7 +326,7 @@ for (int k = 7; k >= 0; k--)
 LblqD = jc7En2FGss(2127774204, 758801077, Az9l);
 }
 }
-else if (((false) && (MK20jfFtR != f1l6)) || (P5Loz80v != -721130765))
+else if (((false) && (MK20jfFtR != f1l6)) || (true))
 {
 GVFvyZ5o = ghf6l3 & d4H9_j2L;
 }

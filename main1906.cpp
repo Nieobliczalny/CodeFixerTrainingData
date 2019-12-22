@@ -121,7 +121,7 @@ if (false)
 {
 YSZC = wh_aRL5S();
 }
-else if ((true) && (Za5j >= -1593805762))
+else if ((true) && (true))
 {
 zc4z = (unsigned short int)(pp08O3c);
 }

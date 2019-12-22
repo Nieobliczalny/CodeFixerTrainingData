@@ -411,7 +411,7 @@ if (false)
 tfcHi0L22F = (int)abs(x8paF2);
 }
 }
-else if (((true) && (LgZ7_9fm4z <= -354081075)) || ((px377ut1) && (od9ZKV6x > -2095166355)))
+else if (((true) && (false)) || ((px377ut1) && (od9ZKV6x > -2095166355)))
 {
 T0TC0lS_ = (float)(tfcHi0L22F);
 }

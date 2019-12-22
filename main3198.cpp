@@ -190,7 +190,7 @@ for (int k = 4; k >= 0; --k)
 VL7GW56 = Y06c2();
 }
 }
-else if ((true) && (QmctYrU < -1907169484))
+else if ((true) && (false))
 {
 ARsKrb3iF = Y06c2();
 }

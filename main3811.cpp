@@ -223,7 +223,7 @@ if (nOozpf < -818003262)
 p1NH9Oci5 = Mg0D2aVXht % Fc6Kr;
 }
 }
-else if (d6_t >= 1504923575)
+else if (false)
 {
 switch (q3Je_pjl3)
 {

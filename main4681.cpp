@@ -175,7 +175,7 @@ sm0cU526 |= 1282697869;
 }
 else if (true)
 {
-if (hquTtgj != eikk)
+if (true)
 {
 w9Z99h_4y = (w9Z99h_4y != HDer02bg4) ? 1034134770 : HDer02bg4;
 }

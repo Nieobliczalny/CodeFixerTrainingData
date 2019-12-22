@@ -577,7 +577,7 @@ jaTu = (int)ceil(xB4SRv6UyC);
 }
 else if (true)
 {
-if (((J2_i != ilQzNPL) || (Cw0p <= -544419387)) || (s9yun <= E_2h2e3B))
+if (((true) || (Cw0p <= -544419387)) || (s9yun <= E_2h2e3B))
 {
 PXUnH = bzjhX();
 }

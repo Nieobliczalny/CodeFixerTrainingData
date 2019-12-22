@@ -87,7 +87,7 @@ else if ((lX5jJdX2) && ((e9p8 & 152685922) || (false)))
 {
 oS1J4--;
 }
-else if ((Bs2sb_a4h > 775702701) && (X0Do0 != -419595601))
+else if ((false) && (X0Do0 != -419595601))
 {
 xESn9 = T885I(xESn9, 1420405400, X0Do0, 705745723);
 }

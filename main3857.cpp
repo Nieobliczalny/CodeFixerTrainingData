@@ -272,7 +272,7 @@ if (true)
 q_OGsg0t = BURo95FK(-1960099191);
 }
 }
-else if (ikS99wPE6k == -821826373)
+else if (false)
 {
 if (u9fdwrx2sJ > wZ0S53QDm)
 {

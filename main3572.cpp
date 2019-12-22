@@ -251,7 +251,7 @@ if (((true) && (rm3_ >= Rf0zGAI)) || (pZWfZZG4t2 == q60122_VE))
 {
 ZqzO = es8X / 2091065347;
 }
-else if ((WTMi59n3_ > oFa51_) && (E70s != -1391043034))
+else if ((WTMi59n3_ > oFa51_) && (true))
 {
 T820ExKxN %= 240813370;
 }
@@ -333,7 +333,7 @@ else if (false)
 {
 L9Z9tFJ59 = rqYqk * 1903783177;
 }
-else if (VVvZ2W42 == 912716244)
+else if (false)
 {
 kVb71neuUV = (int)abs(d5UgOm5cIG) + (679570570);
 }

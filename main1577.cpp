@@ -127,7 +127,7 @@ else if (o6Y9___3OI & 1163970139)
 {
 HziUPl = N3C5kDr3 - uR95q19;
 }
-else if (((true) && (XHoW_F != -1933747174)) && ((qv81bDD20 == N3C5kDr3) && (uL73Bf_ != erFLc)))
+else if (((true) && (true)) && ((qv81bDD20 == N3C5kDr3) && (uL73Bf_ != erFLc)))
 {
 uL73Bf_--;
 }
@@ -207,7 +207,7 @@ for (int k = 0; k < 2; k++)
 uR95q19 = erFLc << NOPj7zNG5;
 }
 }
-else if (((true) && (erFLc)) || ((NOPj7zNG5 <= -601050262) && (l_4_ > -1413905295)))
+else if (((true) && (erFLc)) || ((false) && (l_4_ > -1413905295)))
 {
 try
 {

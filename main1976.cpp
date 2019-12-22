@@ -805,7 +805,7 @@ for (int i = 7; i >= 0; --i)
 {
 if (h655j > -1629737054)
 {
-if ((true) && ((false) || (m62K9g != -1623494791)))
+if ((true) && ((false) || (true)))
 {
 gHKQ = wh_TSd5gUl(-544646658) << I651Ddm;
 }

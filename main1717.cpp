@@ -138,7 +138,7 @@ mxJ2spt &= N8PyewhH;
 }
 }
 
-if ((nepXoV1 >= xda22Vv) || (BSkH != rl4z))
+if ((false) || (BSkH != rl4z))
 {
 for (int j = 0; j < 2; j++)
 {
@@ -313,7 +313,7 @@ if (true)
 {
 if ((u6JT2g <= DhC_VP5) || (false))
 {
-if (tc7ZQxi > -311436507)
+if (true)
 {
 MXICq4 = jg9d9I(MXICq4);
 }

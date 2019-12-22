@@ -52,7 +52,7 @@ if (((KD_IC92jv <= oNAv8__C) && (false)) || ((r7Zh > Q7hB4) || (true)))
 int j = 7;
 do
 {
-if ((Xri058 <= m3B4z) && (oNAv8__C == rfp3))
+if ((false) && (oNAv8__C == rfp3))
 {
 oNAv8__C = (int)abs(KD_IC92jv);
 }

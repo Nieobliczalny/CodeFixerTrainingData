@@ -68,7 +68,7 @@ if (((true) && (true)) && (Z2oSe3G6))
 {
 rwjK = AsF5WVkJmN >> Mer5TGkH3;
 }
-else if ((rwjK & 1421602287) && (Qo5FiRKiT >= 105407337))
+else if ((rwjK & 1421602287) && (false))
 {
 {
 int j = 6;

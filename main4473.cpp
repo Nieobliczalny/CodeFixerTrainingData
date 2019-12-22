@@ -102,7 +102,7 @@ else if (true)
 {
 if (Q1n6hM != NdV80)
 {
-doM57_5 = (s8tTK_2 > 334394005) ? uq39SMFI() : m1W621t1J1(B4_sI, 1149977779);
+doM57_5 = (false) ? uq39SMFI() : m1W621t1J1(B4_sI, 1149977779);
 }
 }
 else if (mV5P7N == NxoQo6d)

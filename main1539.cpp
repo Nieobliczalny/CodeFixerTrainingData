@@ -279,7 +279,7 @@ else if (((V04ISS84uS) || (false)) && ((false) || (fBqK)))
 {
 if ((Y_e7p == v7AD0Odm) && ((V04ISS84uS == -1540077336) || (DSS__f1U & fBqK)))
 {
-if (LfJpRfV >= 23397536)
+if (false)
 {
 IGgai = u8413a5n27();
 }

@@ -378,7 +378,7 @@ else if (false)
 {
 A21HYNYtc = J7Aqm();
 }
-else if (((dqq8Iy9) && (dqq8Iy9)) && ((true) && (xA6tj < 1387866317)))
+else if (((dqq8Iy9) && (dqq8Iy9)) && ((true) && (true)))
 {
 switch (jX_WaQ)
 {

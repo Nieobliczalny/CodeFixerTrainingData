@@ -107,7 +107,7 @@ ObA04p %= CK_8;
 break;
 }
 }
-else if (((true) && (true)) && ((u5qgEUd6 < 196264234) && (nMN3ppAU <= 31904003)))
+else if (((true) && (true)) && ((true) && (nMN3ppAU <= 31904003)))
 {
 cout << Bbucm9(137455114, -921543652) << Bbucm9(ty45F_, 2000528389) << "bKuwo" << "b22m7" << endl;
 }

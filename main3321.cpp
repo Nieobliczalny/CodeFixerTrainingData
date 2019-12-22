@@ -656,7 +656,7 @@ if (false)
 {
 Ceb3DB2K &= qe4I;
 }
-else if ((JM19) || ((GQQem_5Bk > L_87) || (CCi8 == 938884580)))
+else if ((JM19) || ((GQQem_5Bk > L_87) || (false)))
 {
 {
 int k = 0;

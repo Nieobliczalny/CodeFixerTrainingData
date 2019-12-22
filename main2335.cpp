@@ -83,7 +83,7 @@ D59fiz_a = p_wt_RJ * 754917992;
 }
 else if ((true) && ((G__87g42o & -904807911) || (WX_Q != YB58_2Qa)))
 {
-if ((m49qdIB != -856742351) || ((q0bNF0 > -882841484) && (dSkF0t < -1755498403)))
+if ((true) || ((q0bNF0 > -882841484) && (dSkF0t < -1755498403)))
 {
 esag41JQDC = (unsigned short int)(D59fiz_a * esag41JQDC);
 }

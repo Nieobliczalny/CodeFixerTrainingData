@@ -212,7 +212,7 @@ jvf_7 ^= 1399168322;
 }
 }
 }
-else if ((true) && (Jr4XR <= APXHVOoM))
+else if ((true) && (false))
 {
 Xg0Rg = jOf85q * lB74;
 }

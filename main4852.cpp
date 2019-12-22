@@ -180,7 +180,7 @@ g6nmxl4_ = (b3YD1x & lqHhC5b4) ? -2007548344 : gXJT5U5z3;
 Kr50Hq = (short int)(b3YD1x);
 if ((true) || ((WkP49JRh & g6nmxl4_) && (n8WO5MvFH8 != -1614948931)))
 {
-if (((Kr50Hq) || (false)) || (O_y04na6H != 628794208))
+if (((Kr50Hq) || (false)) || (true))
 {
 std::cout << "MfTkzM3UbV" << "zGMA79zR" << std::endl;
 }

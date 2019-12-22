@@ -82,7 +82,7 @@ e91Lee31 = (unsigned short)(vOpAF);
 }
 else
 {
-if ((J_C2vw != TnRx6fy) || (y5c44_g8QP > rtYm7n))
+if ((J_C2vw != TnRx6fy) || (true))
 {
 J_C2vw = O8x8 % 947160822;
 }

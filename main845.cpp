@@ -253,7 +253,7 @@ std::cout << "f6_3" << MSOq << std::endl;
 }
 else if (true)
 {
-if ((true) && (stWFQ > QZ8ct040))
+if ((true) && (false))
 {
 try
 {

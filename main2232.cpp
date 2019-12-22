@@ -404,7 +404,7 @@ if (((S2HdGuyd <= eps9) || (VCDF79qC & ochb_)) || (s4mr2CN > w80SSHm0D9))
 {
 std::cout << "Mp22" << i34sBP << "Vyx8S_f" << s4mr2CN << "Ja3e4w" << std::endl;
 }
-else if (((true) && (false)) || ((S2HdGuyd <= w80SSHm0D9) && (B9KK != S2HdGuyd)))
+else if (((true) && (false)) || ((true) && (B9KK != S2HdGuyd)))
 {
 JPIflxN6B = (int)floor(s4mr2CN);
 }

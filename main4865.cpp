@@ -208,7 +208,7 @@ else if (false)
 {
 W4tL = a5_9DiiO + 1000457936;
 }
-else if ((h24rM != 2100411767) || ((h24rM != W4tL) && (z1NwIh3 & GiyRE7)))
+else if ((true) || ((h24rM != W4tL) && (z1NwIh3 & GiyRE7)))
 {
 S_L7J1 = (int)ceil(Fs62s);
 }

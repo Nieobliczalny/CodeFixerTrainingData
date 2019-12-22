@@ -218,7 +218,7 @@ else if (false)
 {
 iDvzKp7 = ny4TnYP * xo6E3gS;
 }
-else if ((uS4CLaD == -1241143664) && (l7B_0hy != 1857898580))
+else if ((false) && (l7B_0hy != 1857898580))
 {
 XFIS2Y = d0cy_2eVA8 << 906072458;
 }

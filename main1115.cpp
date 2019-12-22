@@ -601,7 +601,7 @@ if (zVtG2ldoG & -1109792648)
 {
 bt8x = mwem0h ^ 983520249;
 }
-else if (Fcj_fW3g == -1526589696)
+else if (false)
 {
 jxfw9CdE = DWSzVfsW(jxfw9CdE, hs8z1lsn6, C961, 1163537100, LF2uRt9_);
 }

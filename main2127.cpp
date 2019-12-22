@@ -243,7 +243,7 @@ if ((true) && ((lzAt >= Yx_weF) || (false)))
 {
 M9y7Nm = bWT4NK0(fv_5gSA3__, 1192938841, -378340188, -150270056, lzAt);
 }
-else if ((w8Eb74 != 1691188359) || (iY50_T))
+else if ((true) || (iY50_T))
 {
 Zhc9Q = RV760 / 1539761945;
 }

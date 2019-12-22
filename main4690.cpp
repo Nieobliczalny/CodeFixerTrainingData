@@ -144,7 +144,7 @@ L7_8e1iu4f &= 1528807095;
 }
 if ((true) && (true))
 {
-if ((tW7NqXQ != -2078952979) || (EPtQ0fgbrD >= -1384958486))
+if ((true) || (EPtQ0fgbrD >= -1384958486))
 {
 for (int k = 0; k < 1; ++k)
 {

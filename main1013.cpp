@@ -305,7 +305,7 @@ Qq9hrp5YL = (unsigned char)(mkFh);
 }
 if (true)
 {
-if ((cz5zm8g4 >= c3307n4) && ((h2CRVai == -1035829094) && (K3p0Q)))
+if ((cz5zm8g4 >= c3307n4) && ((false) && (K3p0Q)))
 {
 sPFv = (mkFh) ? 1968323750 : 1074783637;
 }

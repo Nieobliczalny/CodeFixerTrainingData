@@ -458,7 +458,7 @@ if ((j4lLXLqa < uek0ISZn) && (false))
 {
 ZtG_J = (int)abs(dODmO) + (-1894778953);
 }
-else if ((dODmO <= ZtG_J) && (uek0ISZn <= -1448665485))
+else if ((dODmO <= ZtG_J) && (false))
 {
 for (int k = 0; k < 1; ++k)
 {

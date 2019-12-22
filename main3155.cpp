@@ -461,7 +461,7 @@ else if (qcw4 >= wwcJqrK_r7)
 {
 cout << MGBkQ() << MGBkQ() << wwcJqrK_r7 << endl;
 }
-else if ((true) && (qcw4 > v7mm7F5))
+else if ((true) && (true))
 {
 for (int k = 5; k >= 0; --k)
 {

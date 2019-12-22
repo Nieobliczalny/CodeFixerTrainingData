@@ -213,7 +213,7 @@ int j = 0;
 while (j < 1)
 {
 j++;
-if (itqa <= QFqX4)
+if (true)
 {
 O2k1q = Mh4_(284425259);
 }

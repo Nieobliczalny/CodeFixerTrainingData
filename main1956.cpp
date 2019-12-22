@@ -204,7 +204,7 @@ sSX6T = (unsigned char)(jz5Isc0y);
 }
 else if (true)
 {
-if ((jS_H4t & -1197794721) || (q_rZd <= -1898148787))
+if ((jS_H4t & -1197794721) || (false))
 {
 C9wS /= 235956710;
 }

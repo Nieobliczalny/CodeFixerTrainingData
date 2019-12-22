@@ -131,7 +131,7 @@ if ((false) && (Rems8rU))
 {
 ZZH_ = Fl0M();
 }
-else if ((smpS < -896440001) || (MlHxb2NnO & CCbGeg3mw))
+else if ((false) || (MlHxb2NnO & CCbGeg3mw))
 {
 thShl |= 1948075336;
 }

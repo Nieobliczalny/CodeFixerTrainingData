@@ -196,7 +196,7 @@ else if (W0FOkI != s_pm)
 {
 u2OFBeZI = TeW5K43820(u2OFBeZI);
 }
-else if (ZUGI == -242436845)
+else if (false)
 {
 V3jEN = (int)abs(YczLRmO);
 }

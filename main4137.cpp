@@ -298,7 +298,7 @@ else if (((false) || (qTNg7 >= 879424431)) || (hKCsh >= -293406025))
 {
 R0yue = U2tEFa69(-1877495374);
 }
-else if (Lv9Xs7XSl == -387921489)
+else if (false)
 {
 {
 int j = 7;
@@ -325,7 +325,7 @@ if (QMSv_UX)
 xD49_V6K = (int)abs(yRpu_y7j);
 }
 }
-else if (((jGUz6h < XyrBXC) || (false)) || (iE9Zd1R_1 < -186205002))
+else if (((jGUz6h < XyrBXC) || (false)) || (false))
 {
 NeKM = UHKGa(NeKM, -2032293515, -1690780827);
 }

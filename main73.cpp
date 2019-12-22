@@ -159,7 +159,7 @@ else if (true)
 {
 if ((true) && (N2aH))
 {
-if (((xVPty1 & -762435426) || (fD7yh == -1178361124)) && (kBPKB >= -215125420))
+if (((xVPty1 & -762435426) || (fD7yh == -1178361124)) && (true))
 {
 Ng_A = (int)floor(mFhpdpa);
 }

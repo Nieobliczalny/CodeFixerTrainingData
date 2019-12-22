@@ -125,7 +125,7 @@ else if (((false) || (s04KJ3 & XBnYIt)) && (SSG_Pv))
 {
 O6sHy35 >>= 1370145266;
 }
-else if ((eFXzN3xtxB > 882911955) || ((GE1g0EYWR1 != 1012105652) || (s04KJ3 & -1831104572)))
+else if ((false) || ((GE1g0EYWR1 != 1012105652) || (s04KJ3 & -1831104572)))
 {
 G_dk6 &= f3FkE;
 }

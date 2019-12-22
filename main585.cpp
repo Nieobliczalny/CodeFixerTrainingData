@@ -277,7 +277,7 @@ if ((ZQy3MQ0 == 1894935636) && (Gy6Epq2 < vq1P))
 {
 m7w_wNpq = (unsigned long)(c2MeAJxA);
 }
-else if (UKfb_C == -1710401397)
+else if (false)
 {
 {
 int k = 0;

@@ -92,7 +92,7 @@ else
 {
 try
 {
-if (((true) && (J1Z_v28ZT > -807143556)) && (wERKqdgz))
+if (((true) && (true)) && (wERKqdgz))
 {
 CZRJASISZn = (int)floor(k04H50);
 }

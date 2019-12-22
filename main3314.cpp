@@ -284,7 +284,7 @@ ZSJl = w8V0(-488630838, NKfHlFJE4, 1981332924, -524946846);
 }
 else if (((false) || (true)) && (GC6aLT != lK5R6xD1dj))
 {
-if (H0458h93 > R6_1)
+if (false)
 {
 if (J9D65h <= d6Inm5S)
 {

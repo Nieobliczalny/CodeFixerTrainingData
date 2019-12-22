@@ -155,7 +155,7 @@ if (((D1hLm <= K82CJ4LVQ_) || (true)) && (true))
 pQsQsf = tE7G / 54358350;
 }
 }
-else if (PEMa0_gOU == 452372352)
+else if (false)
 {
 {
 int k = 0;
@@ -270,7 +270,7 @@ Kni34FF = (int)abs(Vgzu6Oj7);
 }
 else if (ltmR8RC <= KHYp16Yv_)
 {
-if ((false) || ((yjwd05 == -1526850950) || (q183Rnv & -1672332173)))
+if ((false) || ((false) || (q183Rnv & -1672332173)))
 {
 iSzHF = pQsQsf | rP17Fwl6;
 }

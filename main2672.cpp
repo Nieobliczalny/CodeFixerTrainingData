@@ -293,7 +293,7 @@ int i = 3;
 do
 {
 --i;
-if ((true) && ((false) || (k0Mpg_3K <= -972818758)))
+if ((true) && ((false) || (false)))
 {
 if (((EV7K9cl6k > TvTGlceT) || (VwwtiFrd4q < GB0Zd)) && (OFEHuGIIqx >= 1779082119))
 {

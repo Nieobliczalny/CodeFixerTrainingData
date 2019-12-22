@@ -541,7 +541,7 @@ else if (((false) || (false)) || (ZR_ox4 >= 2054990221))
 {
 cout << "AV_L3K__9" << ryY7(-239758697, mbE0P_, Ahy624SE0, icZ2I8) << NSCKB7 << w40RH724(neLhm) << "L_L3wfB" << endl;
 }
-else if (f9_qG5z != 226772668)
+else if (true)
 {
 if ((X8Byd0 != 2029532425) && (qQ_AeXZ))
 {

@@ -20,7 +20,7 @@ int main(int argc, char** argv)
 
 if ((true) && (true))
 {
-if (((Xh42Mt633) && (f_3t9tG < 57207950)) && ((qQ_m > 1968162797) && (RR_8 > 2115238927)))
+if (((Xh42Mt633) && (true)) && ((qQ_m > 1968162797) && (RR_8 > 2115238927)))
 {
 zLN3O3_g = (unsigned short int)(osO2_FA8_);
 }

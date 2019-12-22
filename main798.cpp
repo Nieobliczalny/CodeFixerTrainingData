@@ -271,7 +271,7 @@ else if (false)
 {
 oru8utI2 = pMG4c >> 1986023413;
 }
-else if ((j0cIB <= DNxK1) || ((nMLi0 < I8_6) && (n_wR5_q != -89122031)))
+else if ((j0cIB <= DNxK1) || ((false) && (n_wR5_q != -89122031)))
 {
 aXfQNkD = mAbAyLv1o(aXfQNkD, zM9K);
 }

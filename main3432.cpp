@@ -249,7 +249,7 @@ else
 Ie6IT_z = (short int)(Ah9F_Hv3);
 }
 }
-else if (((true) && (true)) && (Ah9F_Hv3 != -813999069))
+else if (((true) && (true)) && (true))
 {
 std::cout << n44YJ(1223108730, Ah9F_Hv3, xHJ88U4yH, -381169661) << Ie6IT_z << "B6of" << oOy6805(15078974) << "UY4Xx_" << std::endl;
 }
@@ -304,7 +304,7 @@ else if (UC22vFrrR)
 {
 UC22vFrrR = n44YJ(-234159022, w41u3h36_, 1182871100, xHJ88U4yH);
 }
-else if (UC22vFrrR >= -1737246068)
+else if (true)
 {
 if ((Ah9F_Hv3 < UC22vFrrR) && (false))
 {

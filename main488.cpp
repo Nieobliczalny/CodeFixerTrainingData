@@ -64,7 +64,7 @@ ONo2sMt &= G2xVaO;
 }
 else if (true)
 {
-if ((cVobs7D0 != nJQq2) || (AyWUkGuqz != J5m_7226))
+if ((cVobs7D0 != nJQq2) || (true))
 {
 F6518 = JUxrq_WMk % G_XH;
 }
@@ -249,7 +249,7 @@ hYYr_w -= zbV7Vbbj;
 }
 
 uy_PI8d = (char)(XrIo8);
-if ((cJvV_1F <= XrIo8) || (PX_S2Z <= 1411034715))
+if ((false) || (PX_S2Z <= 1411034715))
 {
 Mo90K8Tuu <<= LxB0ae4l;
 }

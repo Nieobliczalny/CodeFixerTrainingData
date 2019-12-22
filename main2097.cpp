@@ -383,7 +383,7 @@ if ((false) || (true))
 fsY4 = hh32(N0Mh, M7_luYz, i289zvA, jiN3AOJ7mr, -614319931) % 541056307;
 }
 }
-else if (Ah52765o != 70206602)
+else if (true)
 {
 switch (LmV8C20s39)
 {

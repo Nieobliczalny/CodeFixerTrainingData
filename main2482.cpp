@@ -292,7 +292,7 @@ if (((false) || (djwzK <= -489486696)) && (djwzK > -1496980843))
 {
 g1_0Sf5 = (int)abs(y7v7) * 0;
 }
-else if (((true) && (djwzK == -239993706)) || ((g1_0Sf5 > -673942578) && (djwzK < -1484054243)))
+else if (((true) && (djwzK == -239993706)) || ((true) && (djwzK < -1484054243)))
 {
 g1_0Sf5 = (int)abs(y7v7) * 0;
 }

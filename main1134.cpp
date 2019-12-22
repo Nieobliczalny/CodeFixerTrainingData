@@ -103,7 +103,7 @@ else if (u07h06Q1)
 {
 DsB9++;
 }
-else if (u07h06Q1 != 171903040)
+else if (true)
 {
 DsB9 = tyIpXYO52_(-286681823, -1454791570);
 }

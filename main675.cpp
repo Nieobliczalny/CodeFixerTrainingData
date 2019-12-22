@@ -259,7 +259,7 @@ UXN2 = (int)abs(q4zy);
 }
 else if (CZT85)
 {
-if (((true) && (LdsEg6Jrn >= -1480986591)) || (a8s_W0 != ib8jhN9))
+if (((true) && (true)) || (a8s_W0 != ib8jhN9))
 {
 yQvcq4e = G_hE4w9(yQvcq4e, DFzK5U8Fn_, 1823362671);
 }

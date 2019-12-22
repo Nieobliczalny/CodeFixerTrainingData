@@ -126,7 +126,7 @@ int main(void)
   unsigned char  bjt2ng;
   bjt2ng  =  0;
 
-if (((true) && (true)) && (iQss6JT < -1644372904))
+if (((true) && (true)) && (false))
 {
 JogZx7TO6z = qiPS3e / Mcae2I14C;
 }

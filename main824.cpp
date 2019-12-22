@@ -300,7 +300,7 @@ else if ((lHxkJlrPs == JYD_) || (false))
 {
 pX7Eo27KU <<= I7wertX;
 }
-else if (CcdNjDK < -1173501628)
+else if (false)
 {
 if (XX0Db6iWa)
 {

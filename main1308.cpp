@@ -134,7 +134,7 @@ if ((false) && ((lhw1d < 1212245732) || (Mtuf7o <= 2020174148)))
 {
 GpoU6V1O = (int)floor(g3yWC1Sl);
 }
-else if (((oW3w) && (true)) && (GPIB7e39T4 != -154950453))
+else if (((oW3w) && (true)) && (true))
 {
 g3yWC1Sl = (double)(Q_cFw);
 }

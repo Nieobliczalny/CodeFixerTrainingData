@@ -121,7 +121,7 @@ if (false)
 {
 T696M = (int)abs(sV_7);
 }
-else if (((false) || (ln73R > 523811896)) || (fXDb >= -18844361))
+else if (((false) || (false)) || (fXDb >= -18844361))
 {
 TCK498117 = Cunys4C / 930124471;
 }

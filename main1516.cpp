@@ -313,7 +313,7 @@ else if (false)
 {
 XbE9yZNC = RzM1 | 866434892;
 }
-else if ((true) && ((Y8g5Fo > 1576763789) || (eFw8Ru0G & -1579123896)))
+else if ((true) && ((false) || (eFw8Ru0G & -1579123896)))
 {
 ShZscx7TC = (int)ceil(fw9ors_jN);
 }

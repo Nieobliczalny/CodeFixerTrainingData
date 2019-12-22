@@ -126,7 +126,7 @@ if (false)
 {
 eR0ohVb += 1744619827;
 }
-else if (T2PJOPZ > -409748326)
+else if (true)
 {
 yaq4j = RP1rZ0 / PB9C9656vX;
 }

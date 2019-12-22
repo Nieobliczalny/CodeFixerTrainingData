@@ -171,7 +171,7 @@ else if ((false) || ((true) && (h9607t5uE >= HQS4USid)))
 {
 wnp3_ = (int)abs(JDO4M87);
 }
-else if (xoQ6_oyVQj <= -1553325635)
+else if (false)
 {
 TC93HTXL = m4TDp_O_Ul(-309179626, EoLKH_UP);
 }
@@ -205,7 +205,7 @@ std::cout << "PxrF4BUt" << m4TDp_O_Ul(-1615535780, -125373852) << std::endl;
 }
 else
 {
-if ((true) && (xoQ6_oyVQj >= 856665786))
+if ((true) && (false))
 {
 try
 {
@@ -493,7 +493,7 @@ if (((true) && (false)) && ((m09Ch1c7IM < Zae_V) || (t76Wm9 & -1238672673)))
 {
 xoQ6_oyVQj = (short int)(a3g4k);
 }
-else if (MO6_DCt == 440791828)
+else if (false)
 {
 t94ZtP_G8 = wj7d % 2038089923;
 }

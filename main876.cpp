@@ -237,7 +237,7 @@ j--;
 while (j >= 0);
 }
 }
-else if ((false) || (D2mJo < -1301617107))
+else if ((false) || (false))
 {
 try
 {

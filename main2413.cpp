@@ -345,7 +345,7 @@ for (int k = 0; k < 6; ++k)
 n30IW = s918mA >> Z973px72;
 }
 }
-else if (((true) && (n30IW != -1305883700)) || (E5cOU <= -1145045379))
+else if (((true) && (n30IW != -1305883700)) || (false))
 {
 switch (c337)
 {

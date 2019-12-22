@@ -346,7 +346,7 @@ else if (false)
 {
 Yp_46BS8i = nc_SYllIUf(-705858164, -1897676309, CmC0q6EJX);
 }
-else if (PxkXUf <= 574318388)
+else if (true)
 {
 b8SkoXUiX = CMlT914y9f(b8SkoXUiX, B4yB0afEYp, dbl150s, bkTi);
 }
@@ -706,7 +706,7 @@ else if ((false) && (dbl150s >= 638148781))
 {
 zn6kku = (int)abs(Ze_P027lk0);
 }
-else if ((i3uQL6q <= -601826745) || (s_FK > 806861934))
+else if ((false) || (s_FK > 806861934))
 {
 mGa7g17--;
 }

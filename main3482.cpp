@@ -492,7 +492,7 @@ if (qOg6rpQ_W & gAjRN)
 {
 if ((false) || (true))
 {
-if ((IC2gJ != xxDn1p4) && ((T436t0j == QPWx) && (HCr7F >= F5nb)))
+if ((true) && ((T436t0j == QPWx) && (HCr7F >= F5nb)))
 {
 svO_4_58 %= HpKd7mua0f;
 }

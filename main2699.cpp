@@ -306,7 +306,7 @@ e45y = (unsigned int)(J818p);
 }
 if (Q6hFYpF5N != -1825785221)
 {
-if (((e45y != B7me) || (Er8YyqbFw >= UGR0)) || ((k_4llr6 >= -970913584) || (jWQluE1 > dJlc5)))
+if (((e45y != B7me) || (Er8YyqbFw >= UGR0)) || ((true) || (jWQluE1 > dJlc5)))
 {
 for (int k = 6; k >= 0; k--)
 {

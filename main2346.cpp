@@ -147,7 +147,7 @@ if (false)
 {
 zlxI = (unsigned short int)(rbWi8zX9Wt);
 }
-else if ((SShC) || ((DaTkKe == WZdsyn) && (vFT2Pd > 1012960023)))
+else if ((SShC) || ((DaTkKe == WZdsyn) && (false)))
 {
 {
 int k = 0;
@@ -268,7 +268,7 @@ puPBVd__2++;
 Vpd0g4mwl = Fr6KvD(367661473, 1864579738);
 if (true)
 {
-if ((false) || (OM7251LH_ >= -1935881379))
+if ((false) || (true))
 {
 Vpd0g4mwl = Fr6KvD(505492147, NLCF);
 }
@@ -354,7 +354,7 @@ while (j < 8);
 }
 }
 
-if (((false) || (false)) || (wu56O <= 1182405442))
+if (((false) || (false)) || (true))
 {
 for (int j = 0; j < 4; j++)
 {

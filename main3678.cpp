@@ -128,7 +128,7 @@ if (((false) && (DkpgaK58V7 != Ts3KZVL0I6)) || (false))
 {
 Ts3KZVL0I6 = YDayp4b9eN & 2115256540;
 }
-else if ((A9G8j1A1G_ <= -1782696450) && (IMk9O9L4S))
+else if ((false) && (IMk9O9L4S))
 {
 YDayp4b9eN = tCiU3QM(A9G8j1A1G_, -884326920, -2143295494, -1145505366);
 }
@@ -261,7 +261,7 @@ std::cout << z2L620() << std::endl;
 }
 else
 {
-if ((Dqf5Ok_Dn & 754531617) && ((Ts3KZVL0I6) && (A9G8j1A1G_ != 1945588510)))
+if ((Dqf5Ok_Dn & 754531617) && ((Ts3KZVL0I6) && (true)))
 {
 YDayp4b9eN = z2L620();
 }

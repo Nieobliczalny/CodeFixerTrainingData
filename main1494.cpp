@@ -57,7 +57,7 @@ while (i < 8);
 
 for (int i = 7; i >= 0; --i)
 {
-if (((true) && (J_cw8q7g < -1599857770)) || ((false) || (zJ20TQaE > 492318358)))
+if (((true) && (J_cw8q7g < -1599857770)) || ((false) || (false)))
 {
 switch (Bo3G93evJ)
 {

@@ -35,7 +35,7 @@ tkb_ZUT4W &= yCyqt;
 }
 try
 {
-if (JvB9p_5c7 != -1531870103)
+if (true)
 {
 if ((false) && (O_l_ != -553985715))
 {

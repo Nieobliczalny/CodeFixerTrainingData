@@ -131,7 +131,7 @@ else if ((true) && (Qz_x0r__07 & -907072245))
 {
 YDLm2if5d = FX7OOT7();
 }
-else if (((true) && (D9o3o7Pxg < -1713767917)) || (nnk_G & h0Iqy))
+else if (((true) && (false)) || (nnk_G & h0Iqy))
 {
 std::cout << FX7OOT7() << FX7OOT7() << LVBuJeZ << FX7OOT7() << nnk_G << std::endl;
 }
@@ -388,7 +388,7 @@ else if (((true) && (nnk_G == C212_)) && (false))
 {
 YDLm2if5d = FX7OOT7();
 }
-else if ((RUS77BPoC0) && (C212_ == -1753615589))
+else if ((RUS77BPoC0) && (false))
 {
 YDLm2if5d = FX7OOT7();
 }

@@ -143,7 +143,7 @@ if (JF2Qz > 398397052)
 {
 if ((false) || (true))
 {
-if (((pCEG != -1577601409) || (Og4W <= Gq38b8)) && (mGW56_n8 < -854110136))
+if (((true) || (Og4W <= Gq38b8)) && (mGW56_n8 < -854110136))
 {
 qU1_Wx5dio = gw068Zo1R();
 }

@@ -225,7 +225,7 @@ F_FN55uCS = j6Ji4(-544058494, 612785144);
 sru5lABcj -= 1089266181;
 
 std::cout << "C9Nk" << YPhGd3q(-1834390170) << YPhGd3q(-783047276) << SvBpPsa << std::endl;
-if (((false) && (F_FN55uCS < 270060197)) || ((false) || (Kqyk1Ht >= -1978236449)))
+if (((false) && (F_FN55uCS < 270060197)) || ((false) || (true)))
 {
 if (J5nc3lf3b_ != RbMV)
 {

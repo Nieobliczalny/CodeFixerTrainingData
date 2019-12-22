@@ -423,7 +423,7 @@ else if (false)
 {
 iRE1uT = (int)abs(Z4_98_kjya);
 }
-else if (vgR_T != -1097514753)
+else if (true)
 {
 QM5y = RhsbH(Y_Zq8J, Dd281U, -1476267967, -2068718577);
 }

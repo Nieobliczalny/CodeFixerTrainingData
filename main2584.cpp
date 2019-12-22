@@ -184,7 +184,7 @@ else if (((true) && (true)) && (h9F0N_8O1n & ESm7NCN3))
 {
 Thk0X4XF = (int)abs(yBQd8T);
 }
-else if ((VKz_epSY <= 65046873) || ((m3_haQC4c < -137479822) && (OLlKS != 1332741107)))
+else if ((true) || ((m3_haQC4c < -137479822) && (OLlKS != 1332741107)))
 {
 switch (wIaItO)
 {

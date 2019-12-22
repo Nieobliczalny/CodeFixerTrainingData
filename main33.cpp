@@ -614,7 +614,7 @@ else
 gjDzwFpv = (sZNu_Sa) ? 156379683 : PK2XB9;
 }
 
-if (((RSp9uBIY & aFddUE) || (sZNu_Sa & 201591071)) && ((B5Uo == jmv5t6X85e) || (fmeDYl > ycE7)))
+if (((RSp9uBIY & aFddUE) || (sZNu_Sa & 201591071)) && ((B5Uo == jmv5t6X85e) || (true)))
 {
 B5Uo = r3BzbB(MK5MRmLYq, B5Uo);
 }

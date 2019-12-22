@@ -196,7 +196,7 @@ else if (false)
 {
 cout << "pBEw27EnU" << qjVv06JDiv(Z4PW_BXA, RRgL, nM6x75Id, AE36j0DxD, M6IzSw_46m) << qjVv06JDiv(-349049119, RRgL, nM6x75Id, -1491593004, M6IzSw_46m) << l7F1 << Z4PW_BXA << endl;
 }
-else if (qiVa3h6B47 > -1301790460)
+else if (true)
 {
 {
 int k = 0;
@@ -240,7 +240,7 @@ else if (false)
 {
 cout << Wz_9 << "fBtj85PeVY" << "QdGqHu" << "imYu" << endl;
 }
-else if (qiVa3h6B47 <= -992038739)
+else if (false)
 {
 RRgL = UMdN5 ^ bFz_l;
 }

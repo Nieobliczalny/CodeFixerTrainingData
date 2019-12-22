@@ -351,7 +351,7 @@ sPAM058bh = (char)(v5ayVV);
 }
 else if (((false) && (U0v_qcb0 >= 1186920279)) || (HfGq2 & 768802930))
 {
-if ((Vtn3_7Uz < iFRQ0GXs) || (uC5H3 > -433629969))
+if ((Vtn3_7Uz < iFRQ0GXs) || (true))
 {
 cout << sdE9 << endl;
 }

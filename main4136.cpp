@@ -589,7 +589,7 @@ else
 F83SkhSAO = lA5cJ(6741128, c1hh_ihnl, Rokb7Vk, 209575200, 1257164220);
 }
 }
-else if ((true) && (XFvb8p > dz61j07hu))
+else if ((true) && (true))
 {
 Rokb7Vk = lA5cJ(Rokb7Vk, Zcv8nph7k0, -1015096428, j0Ce7, P1Djtha8M);
 }

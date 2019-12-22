@@ -231,7 +231,7 @@ b2n0 = (int)abs(GBJ4C5k);
 
 if ((u7naX36FKt != IXWtcKvS) && ((false) || (true)))
 {
-if (tZZ4M > 1852633567)
+if (false)
 {
 if (k75U6F != 941113946)
 {

@@ -342,7 +342,7 @@ if ((wd5X41 <= VVdS64C) || (true))
 tsHCu = (unsigned char)(f17Jb2ufC);
 }
 
-if (((false) || (phNhV2 == 871710234)) || (gI4DPM684 > bn3rs4_Kk))
+if (((false) || (false)) || (gI4DPM684 > bn3rs4_Kk))
 {
 oWG90 = (unsigned char)(AQdSuo);
 }

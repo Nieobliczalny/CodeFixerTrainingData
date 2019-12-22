@@ -164,7 +164,7 @@ if (false)
 {
 fU4NgC &= KPSXMq5e;
 }
-else if (((FPu5odh8B >= -1144333086) || (iLlw0iI)) || ((UB2dgV) && (i8L37B9 & vie_wg)))
+else if (((true) || (iLlw0iI)) || ((UB2dgV) && (i8L37B9 & vie_wg)))
 {
 RUR2Ad7rN1 <<= 1054774426;
 }

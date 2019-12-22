@@ -172,7 +172,7 @@ else if (dQr1bZcC > E055XY)
 {
 eYF7 &= 751293484;
 }
-else if ((nC20 < mfI6F1V) && (E055XY != npDr71iDCE))
+else if ((false) && (E055XY != npDr71iDCE))
 {
 ztQYmv3_G = (int)abs(dQr1bZcC);
 }

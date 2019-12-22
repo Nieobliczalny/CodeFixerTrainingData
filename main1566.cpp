@@ -138,7 +138,7 @@ else if (XWBV3m7O4 & 1089182045)
 {
 XWBV3m7O4 = NJl2(-561538005, v_SkT_);
 }
-else if (((false) || (OJSranAM >= 159159414)) || ((kz6uxPaR == W4zJd3) || (Mzl8qA3v == E1M90)))
+else if (((false) || (false)) || ((kz6uxPaR == W4zJd3) || (Mzl8qA3v == E1M90)))
 {
 OJSranAM -= s6VX;
 }

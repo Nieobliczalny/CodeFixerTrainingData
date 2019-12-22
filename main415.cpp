@@ -190,7 +190,7 @@ else if (((G026mTc & 1792634017) && (Yg3v > 115622012)) && (false))
 {
 D920XJ6k = V78SVDw_U(1099836179, -614068434, -925790171, -1526090099);
 }
-else if ((true) && (H7ia <= -1888265956))
+else if ((true) && (false))
 {
 if (ctMNQJ243_ >= DGUQT27)
 {

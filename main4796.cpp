@@ -187,7 +187,7 @@ else if (((false) && (jpcuHuXLss <= -968063052)) && (fA1859ps & H_Da2gFj))
 {
 ASZSFWa = R4Ri * 1162421173;
 }
-else if (nx1Wz6Q13g > -264600302)
+else if (true)
 {
 fc_i %= BkmHZr;
 }

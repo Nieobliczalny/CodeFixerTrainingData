@@ -164,7 +164,7 @@ else
 {
 if (opbTDe == o3SI88l)
 {
-if (svhVbpaff >= 895394795)
+if (false)
 {
 KYg708h = bgVn3KF4U(1199793315, -1989208094, 1857353680, 1322108617);
 }
@@ -203,7 +203,7 @@ else if (((PpAg > gM2Kfq4ZG) && (false)) || ((gHD42X >= LG_0U9) && (false)))
 {
 fKaw6R0u0 = (int)abs(Lp1Gf_E);
 }
-else if (o3SI88l <= -1625572807)
+else if (false)
 {
 Lp1Gf_E = (int)abs(fKaw6R0u0);
 }

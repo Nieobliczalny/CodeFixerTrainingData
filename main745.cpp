@@ -78,7 +78,7 @@ try
 {
 if (((Y6Gb == nHaGL3dv) && (true)) || ((true) || (b1Zq & 750794852)))
 {
-if (S489_ >= -85790026)
+if (true)
 {
 b59Dkg5 |= 291331741;
 }
@@ -193,7 +193,7 @@ if (true)
 int k = 10;
 do
 {
-Q1_w7ZZ = (r02I == -878879592) ? -1394095018 : zZr6Qyo;
+Q1_w7ZZ = (false) ? -1394095018 : zZr6Qyo;
 --k;
 }
 while (k >= 0);

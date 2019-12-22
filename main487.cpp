@@ -153,7 +153,7 @@ else if (hk4onZ9H >= mi5b)
 {
 P8L46E = (int)abs(sM3_4u);
 }
-else if ((true) && ((I89X7 != gL08dq8lQ) || (I89X7 != 1556165244)))
+else if ((true) && ((true) || (I89X7 != 1556165244)))
 {
 mi5b = n6fc0U & 361852505;
 }

@@ -146,7 +146,7 @@ while (j < 5);
 }
 else if ((false) || ((L82_ <= eO_n_xr5_) && (true)))
 {
-if ((sfz0_1 < 348285874) || (fHf962Q62 >= 500245132))
+if ((true) || (fHf962Q62 >= 500245132))
 {
 switch (SG0i)
 {

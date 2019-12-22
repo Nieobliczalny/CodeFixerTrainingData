@@ -328,7 +328,7 @@ wn9_ |= u7754iS5;
 Z54S7Xt = BRDQPOFfg / u9jV_;
 if ((u2lkC5C0L7 & 904098207) || (true))
 {
-if (igHn5t9b < -1469018647)
+if (false)
 {
 u2lkC5C0L7 &= Uam18n4;
 }

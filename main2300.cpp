@@ -543,7 +543,7 @@ if (false)
 {
 YTid = (int)ceil(s7b2nvd8);
 }
-else if (((true) && (p9xGfy & wAFkS8Wgl)) && ((qQj04_wMl & LxBim4Mp) || (aG9C3 > w7380t7_3)))
+else if (((true) && (p9xGfy & wAFkS8Wgl)) && ((qQj04_wMl & LxBim4Mp) || (false)))
 {
 wAFkS8Wgl = bIqgce(-1195792129, -72715269);
 }

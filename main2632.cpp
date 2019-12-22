@@ -99,7 +99,7 @@ if (LWt15i <= g0_4Xs810n)
 {
 for (int j = 0; j < 4; j++)
 {
-if (((true) && (false)) || (g0_4Xs810n <= YDHjA05))
+if (((true) && (false)) || (true))
 {
 DmIAW5--;
 }

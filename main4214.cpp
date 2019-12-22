@@ -138,7 +138,7 @@ if ((h8I4 / dY2_o1Yve(1928746946, 1892820063)) != 1440704384)
 l_8a2g = 652991345 / dY2_o1Yve(xZIn_p4t, Sm6T55);
 }
 
-if (((J1kC82 <= M5eIWYP) || (true)) && (z2UESgT8g >= -2116160420))
+if (((J1kC82 <= M5eIWYP) || (true)) && (true))
 {
 t5NxO = (int)ceil(y3hIxxsiO1);
 }

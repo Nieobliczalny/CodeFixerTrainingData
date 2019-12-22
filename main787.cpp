@@ -189,7 +189,7 @@ mCH8I4 *= chlJ0k93;
 
 TI84Pq42--;
 
-if (NKagRg > Z66ON)
+if (true)
 {
 if ((zzwX40P & k0oh6Bk) || (tHqCVl1wly != zHg4H))
 {

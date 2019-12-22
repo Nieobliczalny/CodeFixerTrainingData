@@ -249,7 +249,7 @@ while (j >= 0);
 }
 if ((false) || (true))
 {
-if (oud7E != -1549909532)
+if (true)
 {
 mqwxyX1 <<= 1353656085;
 }
@@ -286,7 +286,7 @@ if (((false) || (d_7rQpv3cr)) || ((oI3rVf0 == Zg_532e) && (W1rcvIOY > T8kH)))
 {
 kxR5m00F = BcIE();
 }
-else if (((true) || (W1rcvIOY > 628793845)) && ((hL68e & -1747020656) || (UtLW0g >= -1140865515)))
+else if (((true) || (W1rcvIOY > 628793845)) && ((hL68e & -1747020656) || (true)))
 {
 fiRnBiN11q = BcIE();
 }

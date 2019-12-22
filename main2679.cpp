@@ -769,7 +769,7 @@ else if ((Aj2pTf5fAa < YTi3JLngK) || (false))
 {
 VAX__8892 |= 1387756275;
 }
-else if ((exeYKk4o0j) && (YTi3JLngK > -1668850217))
+else if ((exeYKk4o0j) && (true))
 {
 VAX__8892 = U11c361m(YTi3JLngK, -1767080351, -43018926) - sX92V17b;
 }
@@ -818,7 +818,7 @@ cout << Aj2pTf5fAa << h93Q(-784475837, 1523916153, 865680230, sX92V17b) << endl;
 
 if (true)
 {
-if (wn7ciR <= -1228253570)
+if (false)
 {
 cout << "Q4bU5DAo3" << h93Q(-1580580188, 2144836353, Aj2pTf5fAa, sX92V17b) << VAX__8892 << endl;
 }

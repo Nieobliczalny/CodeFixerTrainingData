@@ -261,7 +261,7 @@ t81Wa = N7ju_T0rSS >> c_t9;
 }
 if ((false) || ((pMSfGC != t81Wa) || (true)))
 {
-if ((D9xjpn_ < 1515903830) && ((N7ju_T0rSS) && (pMSfGC != -1524866611)))
+if ((D9xjpn_ < 1515903830) && ((N7ju_T0rSS) && (true)))
 {
 if (bvc_ > 54600922)
 {

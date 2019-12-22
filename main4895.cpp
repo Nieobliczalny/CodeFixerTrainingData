@@ -108,7 +108,7 @@ y6l_1iXZ = (char)(NvEkne5_To);
 while (i < 7);
 }
 
-if ((true) && ((false) || (vG6cjHeNub <= 1480468788)))
+if ((true) && ((false) || (true)))
 {
 ft_kdl /= 418429197;
 }

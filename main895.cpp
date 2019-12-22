@@ -173,7 +173,7 @@ else if (Ctd9 != iTkq67)
 {
 p54KGwy >>= B34w0A;
 }
-else if (((YvnoP9 == -934807497) && (Obe3mqK < 945804936)) && ((ofuFDb == iTkq67) || (q9sJL < -2142455500)))
+else if (((false) && (Obe3mqK < 945804936)) && ((ofuFDb == iTkq67) || (q9sJL < -2142455500)))
 {
 {
 int j = 6;

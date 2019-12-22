@@ -137,7 +137,7 @@ else if ((false) || (false))
 {
 cout << "k8OTdr" << eoaJ << NHkor3 << t_px() << endl;
 }
-else if (((HdL5I1 > x1j_3) && (uaQA0 < 167352982)) || (NHkor3 != -1868403112))
+else if (((HdL5I1 > x1j_3) && (true)) || (NHkor3 != -1868403112))
 {
 IPYvq3ZFL = nK_6y(-5015198, Xx8z, -2022423331, GrpT);
 }

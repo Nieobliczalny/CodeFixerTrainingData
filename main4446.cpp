@@ -634,7 +634,7 @@ Ur3_pB = yz3n1(-1296644023, 436292186, -1845479212);
 }
 else if (true)
 {
-if ((FJ3G == -1212670193) || (zDwOwl33 < FJ3G))
+if ((false) || (zDwOwl33 < FJ3G))
 {
 if (HlgUs3V == xWJ8M)
 {

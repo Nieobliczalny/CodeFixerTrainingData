@@ -156,7 +156,7 @@ for (int j = 0; j < 2; j++)
 Pu6A = Bnajc | Lul9Tb4;
 }
 }
-else if ((Ykgn9B2 <= -724437098) && ((Bnajc < B4W_4ep) || (EeK_ & iDUL5zz)))
+else if ((false) && ((Bnajc < B4W_4ep) || (EeK_ & iDUL5zz)))
 {
 E8jm5 = (short int)(Bnajc);
 }
@@ -185,7 +185,7 @@ else if (false)
 {
 bF_Lr = (int)abs(I4n_q);
 }
-else if (EeK_ != -105441241)
+else if (true)
 {
 {
 int j = 0;

@@ -333,7 +333,7 @@ g6q45pDgA8 = TB09JN_4(CJ34CHAz) ^ 638634765;
 }
 else if (true)
 {
-if (((plA1Pj0 >= byJieMVth) || (i2IHTZ00 != tia4)) && (drGHNM4z & byJieMVth))
+if (((true) || (i2IHTZ00 != tia4)) && (drGHNM4z & byJieMVth))
 {
 UZVbr9_f = TB09JN_4(1459099815);
 }
@@ -469,7 +469,7 @@ break;
 }
 else if (true)
 {
-if ((false) || (f3edx2 > a3ZGlMX_1))
+if ((false) || (false))
 {
 try
 {

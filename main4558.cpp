@@ -61,7 +61,7 @@ else if (Rpu1Vn168B == cZ57)
 {
 OsNRR = cZ57 / 1930613715;
 }
-else if ((false) || ((true) && (eT86lN4w >= xn71K)))
+else if ((false) || ((true) && (false)))
 {
 km79 = fQP_I1ulX();
 }
@@ -402,7 +402,7 @@ kZ620V4C_ = Z2y7rrH(rL3nj70b1J, 385491076);
 }
 else
 {
-if (((kZT77ZU_3 == u84Xoy3I9) || (false)) && ((f0FZ5Kj > -1898022326) || (TTcUT494 > xn71K)))
+if (((kZT77ZU_3 == u84Xoy3I9) || (false)) && ((true) || (TTcUT494 > xn71K)))
 {
 fgKPuz7jb = Lc9r5_5();
 }

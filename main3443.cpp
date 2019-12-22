@@ -370,7 +370,7 @@ if (jd_Kc != H6NKVI)
 {
 ada232 = (int)ceil(Z28JL9J);
 }
-else if (UjJoFR_24x < 399756497)
+else if (true)
 {
 Q39JS = j7PnB(wvh3QGTw);
 }

@@ -84,7 +84,7 @@ if (ln88b9U4oN & 61235621)
 Jd3TUK85++;
 }
 }
-else if (((TTk7Vd287T) && (oA9o0C != 623475991)) && ((t8kkZYf2D < pWx8s_j2t) || (Fl33ED > -1414671228)))
+else if (((TTk7Vd287T) && (true)) && ((t8kkZYf2D < pWx8s_j2t) || (Fl33ED > -1414671228)))
 {
 std::cout << tN99D_ << wNATGt0 << t95zHU3b << o13e6(-2072384228, o8qrZ2Bm, tB3Yj4Z) << "HjBJ28fy" << std::endl;
 }

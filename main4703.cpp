@@ -139,7 +139,7 @@ std::cout << s5p434WN(796695990, aPI6K5qX) << "WTXAN47jl" << B1ZpA5P4dS << std::
 }
 else if (t9Jhj9yM0 >= U361X44aRr)
 {
-if (piPjoLnF <= 894617962)
+if (true)
 {
 Q_4SrVG = sk3M8(x548Fk);
 }

@@ -295,7 +295,7 @@ else if (((C3jiZ != 660072767) && (true)) && (Srk5aEBp >= -878698515))
 {
 XTKo -= 690072465;
 }
-else if ((i843q54 <= 932600169) || (n9xaUmE0xC != -1669264124))
+else if ((true) || (n9xaUmE0xC != -1669264124))
 {
 odR826t3TA = zAQbBWR_20 << 802259317;
 }

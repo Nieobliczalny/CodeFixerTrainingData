@@ -142,7 +142,7 @@ if (((lL10K1JD5 & -1232011154) || (false)) && (iJ479my7X & mvV7593kPR))
 Uv4KD_92Nz = B6Pb20O72b(Q3Kwjj0S70, -320573336, -540482521, v99Ubg);
 }
 }
-else if (DGbR3Y != -1812132716)
+else if (true)
 {
 RMo8a29DVb = (unsigned int)(oUWgF);
 }

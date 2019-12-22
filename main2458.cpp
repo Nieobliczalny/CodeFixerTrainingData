@@ -277,7 +277,7 @@ if (false)
 {
 geXYuKph = (int)ceil(C0qlMC_);
 }
-else if ((V3vab8nqu < -2034079523) && (widHC3 & -384450533))
+else if ((false) && (widHC3 & -384450533))
 {
 yR94ItCFiQ = l2IXWxp(Dj1rjq, u2G76);
 }

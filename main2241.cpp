@@ -42,7 +42,7 @@ while (i >= 0)
 --i;
 if (true)
 {
-if ((false) || (w3MX8 >= -1931060449))
+if ((false) || (true))
 {
 w3MX8 = c_nZaw << 1271131803;
 }

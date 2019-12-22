@@ -491,7 +491,7 @@ else if ((true) && (false))
 {
 Qn3Pd = pAuVr7U(1957819155, fLag);
 }
-else if (lRfY == 1238267591)
+else if (false)
 {
 Qn3Pd = pAuVr7U(-2029242612, -319242932);
 }

@@ -87,7 +87,7 @@ std::cout << A2E5LWn << c5Q4_3(unM_8, -741130975, 284424711, dZkb_s9d5I, WpA_P5f
 }
 else if (((unM_8 >= WpA_P5f5N) && (true)) || (true))
 {
-if (A2E5LWn >= -236611290)
+if (true)
 {
 for (int k = 0; k < 5; ++k)
 {

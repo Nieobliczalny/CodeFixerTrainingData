@@ -449,7 +449,7 @@ if (HZGztKZQ >= Ww83Zg)
 Ra0rVd = u428oOUh ^ 1087354270;
 }
 }
-else if (WOthLG3dy >= cJp2N)
+else if (true)
 {
 {
 int k = 4;

@@ -325,7 +325,7 @@ try
 {
 if (((vmy11_Z >= J55J5JC) && (true)) || ((false) && (V6jwV & vmy11_Z)))
 {
-if (RPNri >= 1506612206)
+if (false)
 {
 V6jwV %= 1365894952;
 }

@@ -26,7 +26,7 @@ int main(int argc, char** argv)
 
 if (true)
 {
-if ((false) || (SrN53xx >= G0tz))
+if ((false) || (false))
 {
 {
 int k = 0;
@@ -45,7 +45,7 @@ if (ZXUBl2kp6r == 1312769081)
 Do_xe8 |= e_168;
 }
 }
-else if ((z_056FrCi != MP_Jx4fFA) && (M_d8 == -1286770919))
+else if ((z_056FrCi != MP_Jx4fFA) && (false))
 {
 {
 int k = 5;

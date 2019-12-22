@@ -367,7 +367,7 @@ else if (((VZpH6PfT7 > bA6V0I) && (false)) && (QLQT != yN_gEIvd7))
 {
 B2mO_ = W48Igu - 1166986877;
 }
-else if ((Z12OXSxO < yp43md) && (wf8o1jX))
+else if ((true) && (wf8o1jX))
 {
 {
 int k = 0;

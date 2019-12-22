@@ -230,7 +230,7 @@ if ((CwL62QwVjt) && ((f5q3 > n4t2Y) || (false)))
 VBEs4W_WkK >>= pwK4uGByF9;
 }
 }
-else if (zc234M != -1508093158)
+else if (true)
 {
 for (int k = 6; k >= 0; --k)
 {

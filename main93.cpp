@@ -158,7 +158,7 @@ else if (((false) || (xFQK_g33g < -334067422)) || ((xFQK_g33g != 2087542916) && 
 {
 f5978jn = (int)floor(sN_AGg3Xlz);
 }
-else if (DWY8 != 130003071)
+else if (true)
 {
 GS_B = (int)abs(s_20IZ1oSJ);
 }

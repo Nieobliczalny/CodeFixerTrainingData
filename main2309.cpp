@@ -94,7 +94,7 @@ y4l1EpE = q1v4n1w6j & 230905710;
 }
 else if ((true) || (NclJ3))
 {
-if (y4l1EpE > -533902380)
+if (true)
 {
 v2_LlG = O_K7(-1526390931, v2_LlG, 17705089);
 }
@@ -137,7 +137,7 @@ v2_LlG = O_K7(-189820145, -1681375687, VKkJA_glK);
 break;
 }
 }
-else if ((false) || ((HaQ_v8S < -537650859) && (v2_LlG & 1214155865)))
+else if ((false) || ((false) && (v2_LlG & 1214155865)))
 {
 NclJ3 = (unsigned char)(v2_LlG + (-1724540577));
 }

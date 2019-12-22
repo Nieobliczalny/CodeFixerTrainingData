@@ -101,7 +101,7 @@ if (((Cii_lcS & 1586931567) && (true)) && (true))
 {
 pyTRdW = (long)(oB1Dj4Jg1R);
 }
-else if (CI0Znj7rA9 > 1745498259)
+else if (false)
 {
 try
 {

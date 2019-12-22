@@ -307,7 +307,7 @@ else if (O1_NS0T3J <= Cwlt)
 {
 G0IHJyJs = o9BqpZ(-810285994, -2116995094, R984wZ2gud, -1187597708);
 }
-else if (((false) && (false)) || (u01rkgq == fy0_V18e))
+else if (((false) && (false)) || (false))
 {
 switch (Pi82m)
 {

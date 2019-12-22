@@ -243,7 +243,7 @@ K48_4 = (int)floor(eh4Cg1);
 }
 else if (true)
 {
-if ((f5SNPB_ != -206906266) || ((KKC7H7NV_5) || (Ku3M & rt4p4T)))
+if ((true) || ((KKC7H7NV_5) || (Ku3M & rt4p4T)))
 {
 K48_4 = (int)ceil(jiweY);
 }

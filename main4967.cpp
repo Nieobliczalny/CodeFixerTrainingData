@@ -59,7 +59,7 @@ if (true)
 {
 if (true)
 {
-if ((Z2n_It_Hea > 1040325395) && ((oMr90x5 & VW9Gq5R) && (FGoGf92W & 1412169057)))
+if ((false) && ((oMr90x5 & VW9Gq5R) && (FGoGf92W & 1412169057)))
 {
 Ibp2HTxu -= 652810900;
 }
@@ -177,7 +177,7 @@ if ((true) && (true))
 {
 try
 {
-if (xn7u1 >= 1282748600)
+if (false)
 {
 ht4ikf3 = (oMr90x5 <= 325680659) ? Z0b0iZ : FGoGf92W;
 }
@@ -314,7 +314,7 @@ for (int k = 0; k < 5; ++k)
 hPk3l7Y = Z0b0iZ ^ J06Xx6nY5g;
 }
 }
-else if (J06Xx6nY5g == -1437579026)
+else if (false)
 {
 try
 {

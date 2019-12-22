@@ -565,7 +565,7 @@ if (nIP_FBL != vEWG38)
 {
 for (int j = 2; j >= 0; j--)
 {
-if (((false) || (dxfN9_2 <= 127592555)) && ((true) && (bA_12bz5 != -2083237468)))
+if (((false) || (dxfN9_2 <= 127592555)) && ((true) && (true)))
 {
 vEWG38 = (int)floor(cDpjPuFp);
 }

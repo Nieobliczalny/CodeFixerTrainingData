@@ -105,7 +105,7 @@ std::cout << X057W5L9r << std::endl;
 }
 
 eB3vpX = T0LY3IYP_Z(257143646, i72Ghx79oA);
-if (bg9K9dHOS < -153192505)
+if (false)
 {
 if (DT6zh24WF >= E2Ka0T)
 {

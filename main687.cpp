@@ -95,7 +95,7 @@ for (int i = 0; i < 2; ++i)
 {
 y5sc5xM = (unsigned short int)(GXj10b * (UiPKqNJ));
 }
-if (((VLR6gAMsDi == UiPKqNJ) || (false)) && ((false) || (C5mw8y9zd4 >= -284581499)))
+if (((VLR6gAMsDi == UiPKqNJ) || (false)) && ((false) || (true)))
 {
 try
 {

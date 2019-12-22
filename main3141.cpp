@@ -39,7 +39,7 @@ else if (false)
 {
 wzZ4Q62hk_ = ps5H | t466YMc1;
 }
-else if (((ZYK2pz >= j9n_Ii) || (false)) && (t466YMc1 > 1443786436))
+else if (((ZYK2pz >= j9n_Ii) || (false)) && (false))
 {
 wzZ4Q62hk_ -= 2118986315;
 }

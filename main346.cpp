@@ -622,7 +622,7 @@ if (((false) || (false)) || (O62W & YUKF3))
 switch (I5bf)
 {
 case 'a':
-W7CyL_ = (MgmEp9 > x8S6q9) ? 1993908553 : 1482861314;
+W7CyL_ = (true) ? 1993908553 : 1482861314;
 break;
 case 'b':
 P7dvKgl7++;
@@ -676,7 +676,7 @@ elbefKsr_b = EH02 - F8qN;
 }
 else if (((true) || (I2YqX45 < S9c8x_l_)) || (V0H9T3eL1 != Y7YhVX))
 {
-if (I2YqX45 != -1822041076)
+if (true)
 {
 qvfqOE &= medUf;
 }

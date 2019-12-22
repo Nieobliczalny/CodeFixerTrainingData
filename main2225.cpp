@@ -158,7 +158,7 @@ SrdU3Oc5b <<= 493606315;
 }
 else if (((true) && (true)) && (SrdU3Oc5b))
 {
-if ((sxopQ7rhYf >= -1964119616) && (SrdU3Oc5b == NWGb8Ob))
+if ((true) && (SrdU3Oc5b == NWGb8Ob))
 {
 DETqvEy5Ot++;
 }

@@ -555,7 +555,7 @@ else if (false)
 {
 r7ws = Y2go(-137388064, 1517842762, 312765991, f9mwD5i70);
 }
-else if ((true) && ((A8Tep6x != 1478875802) && (e65077mM < al_n2)))
+else if ((true) && ((true) && (e65077mM < al_n2)))
 {
 e65077mM = Y2go(-1004513714, XrPn, e65077mM, 1265630335);
 }

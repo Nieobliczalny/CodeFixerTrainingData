@@ -276,7 +276,7 @@ gYF_G4 = (unsigned short)(rr2B);
 }
 
 J2B6DN_fQ = -735505476 / U65a6_(2135110451, -806902835, qTaSASQ00J);
-if (((true) && (U5Tw_bo4d > -1282462012)) && (ggugWU_mz8))
+if (((true) && (true)) && (ggugWU_mz8))
 {
 switch (wp2_)
 {

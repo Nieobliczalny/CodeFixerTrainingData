@@ -107,7 +107,7 @@ if (E98qz == H_0I8mkr)
 {
 K3255ySPV2 -= Oq_60878;
 }
-else if ((false) || ((false) || (z3ggppm <= -1032560323)))
+else if ((false) || ((false) || (false)))
 {
 TLxZ = (char)(Ei5V);
 }
@@ -197,7 +197,7 @@ if ((qB7AP6 & I_G8d) || ((false) || (false)))
 {
 std::cout << iD_96f7 << VQr5lhRg(BDJ8RGhFtC, u0B148, zhuc) << jUJYL5Jq(404015590, u0B148) << std::endl;
 }
-else if (Dc8og6x > 1962024899)
+else if (false)
 {
 for (int j = 8; j >= 0; --j)
 {

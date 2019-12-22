@@ -388,7 +388,7 @@ if (true)
 Y35nnDr7i = SJ560();
 }
 }
-else if ((fI_y > df764OH) || ((oMd3_z >= 1018709680) || (W4bAaLdoD)))
+else if ((fI_y > df764OH) || ((false) || (W4bAaLdoD)))
 {
 for (int k = 6; k >= 0; --k)
 {
@@ -598,7 +598,7 @@ std::cout << Mkos << uSFl << "b80IH7_" << mzeG532ff << std::endl;
 }
 }
 G8w9ZS = OCrg9k5pz(658244520, k149N, tl1MV);
-if (((true) && (qB6aV77OZ != 620669672)) && (C14w26O40F != 1231292751))
+if (((true) && (true)) && (C14w26O40F != 1231292751))
 {
 if (v4MIyCwZZ > 1398886081)
 {

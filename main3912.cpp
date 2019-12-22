@@ -244,7 +244,7 @@ else if (kN4U >= ws2_u2Pn92)
 {
 w6ZKvuC = W08fG(w6ZKvuC, -420920399, ASJ6C, AXLEPQO, xu8_mnl);
 }
-else if (((ASJ6C <= Zv09A_K0) || (mVU_ < -439246495)) && ((AXLEPQO) || (XLm6NFeAL >= -1358995732)))
+else if (((ASJ6C <= Zv09A_K0) || (mVU_ < -439246495)) && ((AXLEPQO) || (true)))
 {
 o582GJ1 = (int)ceil(Zv09A_K0);
 }

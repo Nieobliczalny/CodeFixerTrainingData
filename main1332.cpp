@@ -149,7 +149,7 @@ else if (nmRpzd)
 {
 z2oYZ = aWvVz3dHP(z2oYZ, 1259873751, UgoC097PL);
 }
-else if ((bm91yR == F_zUnw) && ((true) && (GsVH >= 2091898750)))
+else if ((bm91yR == F_zUnw) && ((true) && (false)))
 {
 Qf_5DzavZ9 = (int)ceil(B300V3m);
 }

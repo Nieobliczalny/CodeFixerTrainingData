@@ -575,7 +575,7 @@ else if ((true) && (false))
 {
 aZJR = aOzmGxf(p_li4K, -1683884228, sc4zno);
 }
-else if (((GmYmD == fkf6Ol8L80) && (Sfp5C > G_12U9)) || ((sa6a9 <= -242677392) && (xcpt < T9PVZ6h498)))
+else if (((false) && (Sfp5C > G_12U9)) || ((sa6a9 <= -242677392) && (xcpt < T9PVZ6h498)))
 {
 q_9DYQQE_ = (int)ceil(jg9_Yuh);
 }

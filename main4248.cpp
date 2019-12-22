@@ -308,7 +308,7 @@ break;
 }
 else
 {
-if (((true) && (false)) || (XaKo == -418145062))
+if (((true) && (false)) || (false))
 {
 oW4xuZ /= vQSGRf356e;
 }

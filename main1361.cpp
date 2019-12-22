@@ -640,7 +640,7 @@ if (sCeRaFPaEn)
 Y28q6 /= 852578679;
 }
 }
-else if ((zMapUP != -1129165603) && (v8KA == Ta7Hq2C))
+else if ((true) && (v8KA == Ta7Hq2C))
 {
 if ((h5nfpgK32G) && (oL9lIBo < Dly2bhty6))
 {

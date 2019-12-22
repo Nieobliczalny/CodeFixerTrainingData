@@ -291,7 +291,7 @@ if (((false) && (zb01 >= -1363671199)) && (DfvySaru4 <= -1659461387))
 {
 KfG9W = uQ7nv(-1952239598, dnAn8, KfG9W, ifdYW2fAn, bx5S3BqM_);
 }
-else if (MlppFFbi9s > -733183321)
+else if (true)
 {
 ifdYW2fAn |= 1517693029;
 }

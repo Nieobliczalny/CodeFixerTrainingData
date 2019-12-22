@@ -297,7 +297,7 @@ cout << cDsOe9 << endl;
 }
 else if (true)
 {
-if (((bjx8C575 < 1744602362) || (cI5a20zXq > i_jtGq)) || (XTS574aKw < c6BiEX))
+if (((true) || (cI5a20zXq > i_jtGq)) || (XTS574aKw < c6BiEX))
 {
 if (TlWrQIEAyG >= 883175485)
 {

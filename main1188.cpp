@@ -227,7 +227,7 @@ else if (((sw04_T_X1I <= C2JB73dC6V) && (N_CS0y_ != B0LYr)) || (false))
 {
 LWqL2Uu_ = DOmaj - 273394360;
 }
-else if (N7_0 != -1123673703)
+else if (true)
 {
 t432d_1T = (kdWl1cD & W521) ? cE8_6zL5 : sw04_T_X1I;
 }
@@ -668,7 +668,7 @@ while (i >= 0)
 --i;
 if ((false) || (XVIK397x1 <= vVa26xX))
 {
-if ((true) && (t4Ac == 558383449))
+if ((true) && (false))
 {
 XVIK397x1 = t432d_1T | 178429307;
 }

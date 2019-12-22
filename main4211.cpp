@@ -159,7 +159,7 @@ if (((L1pa7l7 > Cjn47) && (false)) && (Pq6c == -1245666805))
 {
 d1F5 = (int)abs(R8f9Dx8l);
 }
-else if ((Vz0T_xjWOQ >= -1470303014) && (s93j7 < R8f9Dx8l))
+else if ((true) && (s93j7 < R8f9Dx8l))
 {
 if (MY1KI3yE0)
 {

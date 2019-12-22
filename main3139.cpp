@@ -351,7 +351,7 @@ if (o1c76oIo <= W9LpWA7t1)
 {
 cout << "TG5iRS" << M0i79 << TndqbJq << QKSUn_A << qN60t << endl;
 }
-else if (RoK1 < -1036789421)
+else if (false)
 {
 for (int j = 0; j < 7; ++j)
 {

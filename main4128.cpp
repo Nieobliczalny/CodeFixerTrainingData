@@ -37,7 +37,7 @@ else if ((true) && (true))
 {
 try
 {
-if (IUX1h >= -806558183)
+if (true)
 {
 BkAiw = RY78t1MG01 * Te6PWX6;
 }

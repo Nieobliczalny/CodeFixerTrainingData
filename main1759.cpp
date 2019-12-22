@@ -535,7 +535,7 @@ else if (false)
 {
 g7_9OFKhOU = (int)ceil(r92edOa);
 }
-else if ((true) && (R1Y6 > 1529891451))
+else if ((true) && (false))
 {
 fG_02g = (int)ceil(J19k3s2c);
 }

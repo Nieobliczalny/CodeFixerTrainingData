@@ -557,7 +557,7 @@ else if (false)
 {
 BT4Q = Vf32 ^ 1801672956;
 }
-else if (((true) && (JKAxCR != -1942337291)) && ((t916aC_Ugx == bc27X) || (BT4Q >= k58e)))
+else if (((true) && (true)) && ((t916aC_Ugx == bc27X) || (BT4Q >= k58e)))
 {
 CnAxaU = (int)abs(i_ufQ34mc);
 }

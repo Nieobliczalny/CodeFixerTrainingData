@@ -443,7 +443,7 @@ std::cout << iU22GamH(-1622470579, -1316810246, myC5) << "Ffr84z" << "QOQH35" <<
 }
 }
 
-if ((sAiw3 < 379969508) || (ILfY1 >= -172975031))
+if ((true) || (ILfY1 >= -172975031))
 {
 lS15 = (long double)(VdL4);
 }

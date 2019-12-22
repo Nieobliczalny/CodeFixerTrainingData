@@ -140,7 +140,7 @@ try
 {
 if (true)
 {
-if ((y7fJ4C > pt92) || ((rvY47OGpfk > W_5bFv_) || (kUH1 == Ct3B3xPb)))
+if ((true) || ((rvY47OGpfk > W_5bFv_) || (kUH1 == Ct3B3xPb)))
 {
 rvY47OGpfk <<= rQIgDv;
 }
@@ -223,7 +223,7 @@ break;
 
 if ((true) || (p_914rHc <= rQIgDv))
 {
-if (((true) && (I4O9xcM > -1645504537)) || (YNCY4t <= W_5bFv_))
+if (((true) && (true)) || (YNCY4t <= W_5bFv_))
 {
 try
 {
@@ -372,7 +372,7 @@ kUH1 = YNCY4t ^ rQIgDv;
 
 if ((I4O9xcM & 1942148233) && (true))
 {
-if (((q2_69_) || (false)) && (q2_69_ <= W_5bFv_))
+if (((q2_69_) || (false)) && (true))
 {
 for (int k = 0; k < 5; ++k)
 {

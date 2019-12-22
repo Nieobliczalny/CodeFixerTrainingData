@@ -516,7 +516,7 @@ tG6HM4W = LcuSBfv_H2 / 291899937;
 }
 else if (true)
 {
-if ((bOZK >= o3v5) || ((false) || (KwbU < 29303564)))
+if ((bOZK >= o3v5) || ((false) || (true)))
 {
 klT19fj &= 1735710543;
 }

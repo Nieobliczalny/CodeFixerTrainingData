@@ -328,7 +328,7 @@ else if ((OBu7VQoF6 > t780) && ((M3m36 <= -186184305) && (true)))
 {
 LS5OA0 = (int)ceil(jmnM8);
 }
-else if ((ad_YQr == -1299197316) || ((qKMmH != a38F6t) && (AT1X & OAjU)))
+else if ((false) || ((qKMmH != a38F6t) && (AT1X & OAjU)))
 {
 switch (sLB50X5j2)
 {

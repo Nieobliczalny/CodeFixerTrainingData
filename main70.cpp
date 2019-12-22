@@ -48,7 +48,7 @@ VqF7 = (short)(s25H27);
 }
 else if (true)
 {
-if (op_6Wy1 > 159851526)
+if (false)
 {
 switch (D54gkIK)
 {

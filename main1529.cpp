@@ -105,7 +105,7 @@ do
 {
 if (YJzF7 < L_krFzhl3)
 {
-am2FBEK = (g0Z_G != 866247587) ? L_krFzhl3 : nWm5aW9;
+am2FBEK = (true) ? L_krFzhl3 : nWm5aW9;
 }
 else
 {

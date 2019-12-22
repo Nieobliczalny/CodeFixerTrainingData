@@ -235,7 +235,7 @@ else
 {
 if (((mP0Bjfr < -570957940) && (true)) || ((D21EsGH) || (nb9Xvp_X & e5q_3i64)))
 {
-if (D21EsGH != 1125772803)
+if (true)
 {
 q5s95mPRO0 = (int)floor(TDg9);
 }

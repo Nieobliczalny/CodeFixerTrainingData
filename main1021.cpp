@@ -32,7 +32,7 @@ else if (s30_Z7edFT)
 {
 g20Hd = (true) ? 404025881 : -518400028;
 }
-else if (ObdZCw < -1076087964)
+else if (false)
 {
 N7iW &= 879183659;
 }
@@ -142,7 +142,7 @@ break;
 }
 if (((false) || (false)) || (s86_sV == G5mAulQ))
 {
-if (ypgH6f == 797297757)
+if (false)
 {
 if (imrZ1M6 == 613799943)
 {

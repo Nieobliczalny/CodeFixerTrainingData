@@ -48,7 +48,7 @@ if (((xDzL4 != -759778556) || (B83g64T6T3 >= IydZ9E)) && (false))
 zYi6wZacj--;
 }
 }
-if (((true) || (BZXHr7_di == gqU1D_C)) && (st5c2_ >= 1167335922))
+if (((true) || (BZXHr7_di == gqU1D_C)) && (false))
 {
 try
 {

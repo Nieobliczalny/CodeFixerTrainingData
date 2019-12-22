@@ -245,7 +245,7 @@ break;
 }
 else if (((HViI5AyN0O == -1986996978) && (true)) && ((Y5FQ1O_2xN >= HViI5AyN0O) || (false)))
 {
-if ((bjuva04 != J3_2c78kb) || (UCY0L64Ee == -1132936324))
+if ((bjuva04 != J3_2c78kb) || (false))
 {
 switch (rY_OI)
 {

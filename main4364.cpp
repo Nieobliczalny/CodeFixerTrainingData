@@ -117,7 +117,7 @@ else if (((false) || (false)) || ((PAV65YH < nyp_2o6qI) && (gd0D7817EW >= e6A9kw
 {
 try
 {
-if (((N20ogv2KNK <= 1089833405) || (OapN0o22Jf >= -583517900)) || (H03aXg < 446945358))
+if (((true) || (OapN0o22Jf >= -583517900)) || (H03aXg < 446945358))
 {
 H03aXg = N_TW4v | QArV0xuTuu;
 }

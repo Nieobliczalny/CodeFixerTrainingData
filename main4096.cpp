@@ -99,7 +99,7 @@ std::cout << "gi_qr" << t219 << FKQ5_prqVm << std::endl;
 }
 if ((true) && ((VHA__OJ85 != A9QG) && (true)))
 {
-if ((Vo5h_80uA <= KP4mHeMmea) || (oY8UpyA_O_ == -1333097565))
+if ((Vo5h_80uA <= KP4mHeMmea) || (false))
 {
 {
 int k = 1;
@@ -204,7 +204,7 @@ kq88W_6808 = (false) ? -1912625643 : YfR0wM;
 }
 if (eydpd2SGz5 < Y10HqGf)
 {
-if (((true) && (dBBpH7G903 <= -692504526)) && ((kyE_E6r7f) && (SDH_7rqaQ)))
+if (((true) && (false)) && ((kyE_E6r7f) && (SDH_7rqaQ)))
 {
 switch (X_u5G2He4)
 {

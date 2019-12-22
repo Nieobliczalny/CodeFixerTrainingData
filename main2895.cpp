@@ -166,7 +166,7 @@ else if (oeNw >= iRaYJ9)
 {
 eb5Nu = Y4tS ^ cOP6;
 }
-else if (((Nf1_U75_K) || (true)) && (k477Q != 1804406114))
+else if (((Nf1_U75_K) || (true)) && (true))
 {
 plyaI9S_5k = iRaYJ9 >> DbLI7h3;
 }

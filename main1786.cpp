@@ -232,7 +232,7 @@ else if ((true) && (Q5oR26VE == DU_kmD))
 {
 for (int k = 0; k < 4; k++)
 {
-qmJ02m = (fCBY != -1476779709) ? jh1dp : -642869303;
+qmJ02m = (true) ? jh1dp : -642869303;
 }
 }
 else if (false)

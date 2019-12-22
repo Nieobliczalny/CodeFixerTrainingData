@@ -80,7 +80,7 @@ if (false)
 {
 std::cout << "Y676O36td" << std::endl;
 }
-else if (((false) && (E8f5ErV <= xy3I9jzS)) || (W04QBe9 >= 452873172))
+else if (((false) && (E8f5ErV <= xy3I9jzS)) || (false))
 {
 ozie77F2B = Wb7iY(i5hed07T);
 }
@@ -114,7 +114,7 @@ else if ((true) && ((fu_4NsfTq4) || (true)))
 {
 if (ERo6 != Y_kG5x)
 {
-if ((vpx4MA9NQ == 953998930) && (E8f5ErV == 321061821))
+if ((false) && (E8f5ErV == 321061821))
 {
 EhqnS77 = (i5hed07T < -430776666) ? i5hed07T : Wb7iY(-673558972);
 }

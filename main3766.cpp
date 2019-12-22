@@ -137,7 +137,7 @@ else if ((true) && ((Eu4g == 1324251812) && (y1AnU7a <= -1709352339)))
 {
 A02_pXN7N = (int)floor(eiU9Z7E12);
 }
-else if (((J21Ui != 1404452548) && (xy1SSn71 < -1123660395)) || (OZbFd <= OY2vrrzcKY))
+else if (((true) && (xy1SSn71 < -1123660395)) || (OZbFd <= OY2vrrzcKY))
 {
 hRdnO = (int)abs(OZbFd);
 }

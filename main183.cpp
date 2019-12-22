@@ -567,7 +567,7 @@ else if (false)
 {
 ghaCbHuv_9 = (short int)(MD09eQjDF + (1908143496));
 }
-else if (((true) && (Eqj5o9)) || ((mWT72 > -1173393351) && (PY8boh1i8R != 361587154)))
+else if (((true) && (Eqj5o9)) || ((true) && (PY8boh1i8R != 361587154)))
 {
 {
 int k = 3;

@@ -103,7 +103,7 @@ else if (false)
 {
 std::cout << Pu0b_K2fS << "aaLdTtYF" << tqU1J(1820322066, -2034297302, -1370953885) << std::endl;
 }
-else if ((false) || ((Ns9y5J != 1802817089) && (o8x4H7q == E1tB2rB5)))
+else if ((false) || ((true) && (o8x4H7q == E1tB2rB5)))
 {
 if (((eG0U & 1517247035) && (aMIlG >= 1073459341)) || (yODXd9f <= -1598283539))
 {
@@ -425,7 +425,7 @@ LPm16qVy0 = Br6_61c(LPm16qVy0, IS3_V5TP, X3mP3M595f, 182387976);
 }
 else if (cuuk7Q <= r75tDv4po)
 {
-if (LPm16qVy0 < -2101881478)
+if (false)
 {
 cuuk7Q = y7oiS61_kw - 2104828030;
 }

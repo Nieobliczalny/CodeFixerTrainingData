@@ -386,7 +386,7 @@ while (i < 9);
 }
 if (true)
 {
-if (((true) && (nME18CY55G)) || (o9_oL != -813406964))
+if (((true) && (nME18CY55G)) || (true))
 {
 try
 {

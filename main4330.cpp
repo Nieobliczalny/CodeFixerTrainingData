@@ -80,7 +80,7 @@ else if (((B67xn & 1212623650) && (TpqNR_RuM > UTB0)) || (false))
 {
 K_Uj4 = Wl5F36t8();
 }
-else if (k_65rReFI <= 1925664987)
+else if (true)
 {
 if (true)
 {
@@ -289,7 +289,7 @@ else if (((false) && (K_Uj4 == 1597205162)) || ((Wva8a3C5Y == B67xn) && (H_R2ho 
 {
 H145G_K7 = k_65rReFI ^ 2137627567;
 }
-else if (H_R2ho != -282780334)
+else if (true)
 {
 eJiL = Wl5F36t8();
 }

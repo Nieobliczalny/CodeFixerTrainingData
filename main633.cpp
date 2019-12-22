@@ -271,7 +271,7 @@ DDoW |= 443621460;
 }
 else if ((L2wSKr2Sn >= Ukox9) || ((H0TK6 == -1671878973) && (cZP6 & GM6Hj)))
 {
-if (((mpJTA5 & Ukox9) && (false)) || (qNgz7 == -317094725))
+if (((mpJTA5 & Ukox9) && (false)) || (false))
 {
 qNgz7 = NqX86 / Z13717ZPg;
 }

@@ -109,7 +109,7 @@ std::cout << QlHRPbD_KA(1677058794) << std::endl;
 }
 else if (dLdfNbSN3 >= AT3K9_g_b)
 {
-if ((C7oN_j == ewo9V_Sf) || ((i0Qg6_45cz != eaivo117p5) || (Wb1_ & Xy9w7pb)))
+if ((false) || ((i0Qg6_45cz != eaivo117p5) || (Wb1_ & Xy9w7pb)))
 {
 g9GVcQn ^= 1819310202;
 }
@@ -216,7 +216,7 @@ else if (((dLdfNbSN3 < m3_lb2x) || (false)) && (CQkj7))
 {
 k1hE >>= 1693897180;
 }
-else if (((AT3K9_g_b & J22q) || (dLdfNbSN3 == -1864378673)) && (io_P2051Fr & Xy9w7pb))
+else if (((AT3K9_g_b & J22q) || (false)) && (io_P2051Fr & Xy9w7pb))
 {
 kZL3b = QlHRPbD_KA(-1697954701);
 }

@@ -212,7 +212,7 @@ std::cout << "K3HrRz8Z" << std::endl;
 std::cout << suwo4(GRwjmG) << xvm1b << suwo4(GRwjmG) << std::endl;
 Yt537ptsK = (short)(Q94lmi2_s);
 
-if ((false) || (e3_O98_ < 2033161532))
+if ((false) || (true))
 {
 if (false)
 {
@@ -321,7 +321,7 @@ else if (false)
 {
 o_PpAa90oe = (int)abs(JDS6YmW0V4);
 }
-else if (((jQ68iSb1J7 != -72091781) || (z498zkyH9 == 1522213581)) || ((K3_7vuL <= fO_tH5OJy4) || (Hxfv >= 1314335163)))
+else if (((true) || (z498zkyH9 == 1522213581)) || ((K3_7vuL <= fO_tH5OJy4) || (Hxfv >= 1314335163)))
 {
 fb46gb = z4rdlW + eM64;
 }
@@ -354,7 +354,7 @@ while (i >= 0)
 i--;
 if (true)
 {
-if (((true) && (bkmwCg <= q35idPD5)) && ((K3_7vuL) && (Qg23n != -1991565953)))
+if (((true) && (bkmwCg <= q35idPD5)) && ((K3_7vuL) && (true)))
 {
 jbIcMQl &= K0u7J9Y;
 }

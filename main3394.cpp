@@ -268,7 +268,7 @@ else if (false)
 {
 t4iE4Sfa = QaRo_afZ20(1442714276, v_R5PYQW_7);
 }
-else if (((GcPv >= QgT_b78b6j) && (XPX2nGA0g & -937609678)) || (Mf7dX <= 10939439))
+else if (((GcPv >= QgT_b78b6j) && (XPX2nGA0g & -937609678)) || (true))
 {
 if (GcPv > fh8y)
 {

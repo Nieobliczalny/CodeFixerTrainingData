@@ -156,7 +156,7 @@ else if ((false) || (AQSAi544H))
 {
 b66VhY_ = jtxdyl5LE & 401704683;
 }
-else if (((jtxdyl5LE >= 677715411) && (jtxdyl5LE != AQSAi544H)) || (jtxdyl5LE > 1810897102))
+else if (((false) && (jtxdyl5LE != AQSAi544H)) || (jtxdyl5LE > 1810897102))
 {
 msnmXAFT6Z = (int)abs(jtxdyl5LE) + (-1780905754);
 }

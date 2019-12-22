@@ -70,7 +70,7 @@ else
 {
 if ((true) || (d4N0bcTD7 < bIi7VNHG))
 {
-if (BM8Pc <= 2099060099)
+if (true)
 {
 Y_8eL19H = RK1442O9(2136975835, KVn_v41V, 1379790524);
 }

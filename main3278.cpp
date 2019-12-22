@@ -393,7 +393,7 @@ if ((false) && ((I510LaN < 1202201640) || (t55k26P1cy == POG4v3)))
 {
 std::cout << POG4v3 << gX66LX9R7(HPo63eM) << std::endl;
 }
-else if ((true) && (yiZgKEGy <= 2084906025))
+else if ((true) && (true))
 {
 if ((POG4v3 > xx7IvJ5) || (uohp4))
 {

@@ -110,7 +110,7 @@ iRZOrs57 = vNGZtY2s(iRZOrs57, 2137029519);
 }
 if (((true) && (true)) || ((QNeVEmddg != 168532160) || (eM87G3u3 == -1275557810)))
 {
-if ((al9fqeWN_8 > -567041342) && (vdsvz2jwQ >= ZE93t))
+if ((true) && (vdsvz2jwQ >= ZE93t))
 {
 for (int k = 5; k >= 0; --k)
 {

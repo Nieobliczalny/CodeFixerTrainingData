@@ -81,7 +81,7 @@ VV61Y5w = ZMrYm2NdW(-1995201210);
 }
 else if (((true) || (VqIbzr >= 1877454049)) && (true))
 {
-if (JJ88 > 1589952735)
+if (false)
 {
 if (sDk2c > -499722992)
 {
@@ -752,7 +752,7 @@ else
 JJ88 = Dop1ya(eqZ4H, -2073191960, -128108345, 426257717, Ji1a);
 }
 }
-else if (((true) && (sDk2c)) && ((true) && (JJ88 != 189502304)))
+else if (((true) && (sDk2c)) && ((true) && (true)))
 {
 if (VV61Y5w == deY72Tz)
 {

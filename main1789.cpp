@@ -516,7 +516,7 @@ else if (((Pl6E1E) || (false)) || (h87Qz86U44 >= gxO0))
 {
 if (true)
 {
-if (((hW709p85zf <= gxO0) && (rP_4 >= gxO0)) || (K63_WJ >= -1498316811))
+if (((hW709p85zf <= gxO0) && (rP_4 >= gxO0)) || (true))
 {
 rP_4 = dkybKW5();
 }

@@ -318,7 +318,7 @@ else if (((cIv4n8G26N & 606701497) || (a_1wzO69 >= cIv4n8G26N)) && (true))
 {
 std::cout << QqFi1a(1222160746, -1124950353, -1658047804, 372147414) << std::endl;
 }
-else if (((cIv4n8G26N <= 1559564136) || (b_54m2z != -286433647)) && (cLF1WVXJ >= -473162885))
+else if (((true) || (b_54m2z != -286433647)) && (cLF1WVXJ >= -473162885))
 {
 siE_nZ = (unsigned short)(cLF1WVXJ);
 }

@@ -509,7 +509,7 @@ if (((Rb8NXn6) && (true)) || (Pa7aBx20 & j8_pMV65kq))
 ggL450H = iZ8z6Xu(768778433, j33f9t, SVr2Z0di, QOFo0);
 }
 }
-else if (QOFo0 != -1441302069)
+else if (true)
 {
 {
 int k = 0;

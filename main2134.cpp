@@ -59,7 +59,7 @@ else if (((L_23uG <= Q3g9n0) && (false)) || (false))
 {
 O__48 = (long)(RFA7B);
 }
-else if (((xSD9 <= 1357391810) && (UXZRF3 <= 1066022844)) && (ES4058 >= 708238485))
+else if (((true) && (UXZRF3 <= 1066022844)) && (ES4058 >= 708238485))
 {
 for (int j = 9; j >= 0; --j)
 {

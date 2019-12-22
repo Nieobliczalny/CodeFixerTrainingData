@@ -164,7 +164,7 @@ try
 {
 if (true)
 {
-if (kHZ9z == -1897759589)
+if (false)
 {
 tNHUq7U = (true) ? VW5Nk : kHZ9z;
 }
@@ -310,7 +310,7 @@ qjnn88727k = t30hwH3042 | 690527268;
 while (j < 4);
 }
 }
-else if ((true) && ((true) && (TAmeoFY5 >= -1677972285)))
+else if ((true) && ((true) && (true)))
 {
 tNHUq7U = L4Ah6cw9x_ + Nm21_Hb;
 }

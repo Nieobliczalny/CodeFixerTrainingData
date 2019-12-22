@@ -289,7 +289,7 @@ if ((false) && (yXphMYAQ == r_9WGat))
 {
 Wr2Y = Oj8z7(Wr2Y, -515473231);
 }
-else if ((false) || (g4yadqbbf5 > XM4E_Fv_))
+else if ((false) || (false))
 {
 kQLViqLGBn = Ina9Qn(-885756932, -1529282537);
 }

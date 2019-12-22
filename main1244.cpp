@@ -53,7 +53,7 @@ break;
 
 if (true)
 {
-if (((E5dX35V98 >= -1559062892) && (kfb216j8h >= 717206728)) || (kfb216j8h))
+if (((true) && (kfb216j8h >= 717206728)) || (kfb216j8h))
 {
 try
 {

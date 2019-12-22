@@ -156,7 +156,7 @@ NcTqn41b = QjGPy5ha8T(-1710963249, 243962604, 1134751933);
 }
 else if (true)
 {
-if ((XR97KdC8Q >= f_4I2j1) || ((NcTqn41b) && (qY44f < -583435658)))
+if ((true) || ((NcTqn41b) && (qY44f < -583435658)))
 {
 try
 {

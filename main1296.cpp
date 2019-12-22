@@ -137,7 +137,7 @@ else if ((false) || ((fpCA8euJ >= PYy1eq2_6G) && (false)))
 {
 R3is1jC = (int)ceil(i5Rs0);
 }
-else if (m4K6 < -280511772)
+else if (false)
 {
 m4K6 -= 625852915;
 }

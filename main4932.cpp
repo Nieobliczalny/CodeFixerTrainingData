@@ -163,7 +163,7 @@ else if ((false) && ((z4M1 < lkkut4Hv) || (N17Wvn_ < q2x81QbrxB)))
 {
 M3hhy = UTSE(1885109835, -1267288769);
 }
-else if (mSpv0EUXNR > -1077165487)
+else if (true)
 {
 o17V54O0 = (int)abs(M3hhy);
 }

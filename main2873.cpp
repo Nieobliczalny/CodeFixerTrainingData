@@ -221,7 +221,7 @@ else if (false)
 {
 cout << "Rpf3sPZU" << A1GLo_L3(LK58UwV, O4wK, P__czcqG, 1931096989) << olE5q_f03 << A1GLo_L3(LK58UwV, 746751251, -381524802, y90e69xM1P) << A1GLo_L3(LK58UwV, O4wK, P__czcqG, y90e69xM1P) << endl;
 }
-else if ((c_n9U != 1237925335) || (mx__ <= HuH6_j))
+else if ((true) || (mx__ <= HuH6_j))
 {
 {
 int k = 9;

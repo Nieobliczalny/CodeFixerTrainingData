@@ -226,7 +226,7 @@ if ((L_d38 > KIZS19) || (false))
 {
 std::cout << "KBj7_aJr0" << z59bga() << L5r7hC9E3A << sc7DaS << std::endl;
 }
-else if ((true) && (ocE_ <= -920284019))
+else if ((true) && (false))
 {
 j_O_911l0R = (unsigned long long)(LxI3G);
 }

@@ -149,7 +149,7 @@ else if (((f0ORmjN >= n0202A_6) || (false)) && (true))
 {
 std::cout << "Zyjp6f" << "eEkj" << "TLKG" << "vGSTyA7p" << v8nZsd4Gnv(1256301470, -1140798248) << std::endl;
 }
-else if ((F9va <= -1142363088) && (k0itl < LQ7x2aA00_))
+else if ((false) && (k0itl < LQ7x2aA00_))
 {
 if (Tilf)
 {

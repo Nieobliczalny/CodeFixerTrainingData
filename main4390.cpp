@@ -371,7 +371,7 @@ else if (false)
 {
 w70N = (short)(aK69KKe);
 }
-else if (z1wpaW7 == -452050044)
+else if (false)
 {
 {
 int k = 0;
@@ -702,7 +702,7 @@ if ((false) && (aK69KKe != -1101316052))
 {
 std::cout << "WdrH" << vn4Isu << O_X99h << std::endl;
 }
-else if (x8tou1 > 699345293)
+else if (false)
 {
 {
 int k = 0;

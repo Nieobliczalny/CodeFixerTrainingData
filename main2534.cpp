@@ -94,7 +94,7 @@ if (((true) && (true)) || ((w9AnA > qlA_3y) && (C3c2_3_y5o > Ffrs4)))
 {
 if ((UGDc > C3c2_3_y5o) || (MrZp90 != 1543578661))
 {
-if (UGDc >= -929814957)
+if (true)
 {
 O_61 = dr__912v(O_61, -1594240980);
 }

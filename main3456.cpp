@@ -193,7 +193,7 @@ n7C5Vu1 = (int)abs(p6wRgc);
 }
 else if (true)
 {
-if (OY1b996Rn <= -348996038)
+if (false)
 {
 rwEXZdL7 = S8mX74RH * HKNb3jSK;
 }

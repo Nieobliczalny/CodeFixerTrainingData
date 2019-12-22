@@ -338,7 +338,7 @@ if ((lr_da0O & -1244003008) && (false))
 {
 std::cout << GP9sQ_vo8(-1068260914, 91413626, sjPU) << "B_6lz6" << v7HL9 << "zMD6YSE" << GP9sQ_vo8(1959951882, -111073072, 1297392319) << std::endl;
 }
-else if (((true) || (sE36yXXo8 != YukMoVn)) && (Ntj7iL <= 1306238193))
+else if (((true) || (sE36yXXo8 != YukMoVn)) && (true))
 {
 sE36yXXo8 = (short int)(vxXBi79L);
 }

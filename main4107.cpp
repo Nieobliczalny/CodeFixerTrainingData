@@ -369,7 +369,7 @@ else if ((Yx91O5T & 577123842) || ((false) || (RO1g83M < 968376250)))
 {
 Hs15xYC1 = M3EPcr - OT115X_M;
 }
-else if ((OT115X_M < -728744440) && (n2KVm != 772793803))
+else if ((false) && (n2KVm != 772793803))
 {
 N8l7c >>= 694919634;
 }

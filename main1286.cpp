@@ -170,7 +170,7 @@ else if ((RZ2VPVT <= -1755205632) || (k9c6 & 603949228))
 {
 KFzPEEMb_2 = O_18b2nR(k9c6, HbM4) | 1031794487;
 }
-else if ((false) || (yDDQ1W98z > 386114048))
+else if ((false) || (false))
 {
 rt2d_MdsR = szFr8LT0(rt2d_MdsR, jOeQY8S, -1023704590);
 }

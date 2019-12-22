@@ -278,7 +278,7 @@ else if (false)
 {
 Vf4BK = (int)abs(BY064Bu98);
 }
-else if (lGrRfm <= 625024235)
+else if (true)
 {
 WWhy7b = XZ09nVerJ * w40sO888l6;
 }

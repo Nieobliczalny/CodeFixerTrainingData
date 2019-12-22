@@ -397,7 +397,7 @@ if ((false) || (O2ZaZdXp & r054_fH8N))
 {
 W7_86_SV = (unsigned short int)(ywXk_0NdF + (CGL7yW_));
 }
-else if ((true) && (lTh_dO6 < -146922755))
+else if ((true) && (false))
 {
 try
 {

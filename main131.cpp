@@ -867,7 +867,7 @@ if ((true) && (PW_MhwS & -1619382709))
 {
 tqYjv43j4 = aSI4J(tqYjv43j4, cwJHErLr, mNnRx56ho6, -415353826);
 }
-else if ((Y1ccga > -1377174457) && (oc1D))
+else if ((true) && (oc1D))
 {
 ImK8bd8q3 = oc1D & 677138133;
 }

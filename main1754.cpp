@@ -250,7 +250,7 @@ if (((false) && (xTO2_ki < -1009020177)) || (YAEubGzJA4 < reDivuwCc))
 {
 kMd3JBz ^= pCMpU;
 }
-else if (MR75_3 != -981599246)
+else if (true)
 {
 try
 {

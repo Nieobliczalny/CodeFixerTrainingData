@@ -311,7 +311,7 @@ else if ((false) && (CoI51))
 {
 JihA = YHLIXn(wY_d, f5Ou);
 }
-else if (((true) && (dFO2)) && (SJn4yxw > -1834226847))
+else if (((true) && (dFO2)) && (true))
 {
 cout << u4W3 << u_y8FZ << S0oro_(wY_d, -1089018006, LJn_tt, 1508441972) << ge3JRW63ke << endl;
 }
@@ -618,7 +618,7 @@ JihA = YHLIXn(-1010468386, -818297301);
 }
 else if (true)
 {
-if (SJn4yxw >= -811749665)
+if (true)
 {
 for (int k = 1; k >= 0; --k)
 {

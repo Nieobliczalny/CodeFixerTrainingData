@@ -405,7 +405,7 @@ else if (false)
 {
 OES83 ^= wgY4;
 }
-else if ((rW2_F3U_l < rqs6) && (AGFz > -809089025))
+else if ((rW2_F3U_l < rqs6) && (true))
 {
 I3_F338 = xgG98Yz9 % tMS38CI;
 }

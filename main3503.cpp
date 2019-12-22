@@ -253,7 +253,7 @@ if ((dg1T9Dy >= t_zy) || ((false) && (xv7PJxV1i == g7P48)))
 {
 W47w = p3yVxCj0XA / p3yVxCj0XA;
 }
-else if (NSLqTS != -1652028736)
+else if (true)
 {
 Xcozs8up_8 = wnTW91SAJd(1704359412, -1394022994, M3xQ6x3X, 1721669536, 688724115);
 }

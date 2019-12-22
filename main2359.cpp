@@ -39,7 +39,7 @@ if (ok46HU91p)
 {
 if (true)
 {
-if (((true) && (Vqar_ > 1663722656)) && (b1Ieq5U1 == wttZ15_))
+if (((true) && (false)) && (b1Ieq5U1 == wttZ15_))
 {
 O7EB6 = s4XkYyO2A5(O7EB6, -1842804577, -342026742, Pg126Ra2);
 }

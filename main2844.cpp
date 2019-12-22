@@ -108,7 +108,7 @@ VV4lM = (unsigned char)(w4nm15PT);
 }
 else
 {
-if (((false) && (QZ41qov_ != V7TtN6cq)) || (EbSRqv != -1231854933))
+if (((false) && (QZ41qov_ != V7TtN6cq)) || (true))
 {
 for (int k = 10; k >= 0; --k)
 {

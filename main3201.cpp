@@ -331,7 +331,7 @@ else
 qopl5Tqb &= 1486033348;
 }
 }
-else if (((true) && (wAA38 & -126549162)) || (wAA38 <= -591130100))
+else if (((true) && (wAA38 & -126549162)) || (false))
 {
 try
 {

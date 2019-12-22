@@ -141,7 +141,7 @@ if (((false) || (u936 <= n5XmA9)) || ((false) || (F63Zb73t2 >= 1142780675)))
 {
 qVU_ = g1460E3 + 892293840;
 }
-else if (rDTxU5 == -1370085134)
+else if (false)
 {
 jSIQ_f8o = zeKeCDt | rDTxU5;
 }

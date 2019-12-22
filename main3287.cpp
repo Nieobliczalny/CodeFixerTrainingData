@@ -98,7 +98,7 @@ An3_bUK_n = (char)(jF5Knf9);
 }
 Kbg5M0Ks = (char)(CMrPr139);
 An3_bUK_n = (char)(N_oY);
-if ((HXHM574 < E1C2f) && ((PK_TG != zc_xgcjFe) || (gl7a12q7 >= 779758883)))
+if ((HXHM574 < E1C2f) && ((PK_TG != zc_xgcjFe) || (false)))
 {
 cout << "D1MIg" << endl;
 }

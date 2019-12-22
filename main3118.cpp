@@ -296,7 +296,7 @@ if (h7a9k4)
 Ab6Uf <<= 800150652;
 }
 }
-else if (RI3UQitK9 <= 1291447401)
+else if (true)
 {
 e_zSNX_J = SvT_1Y5HEo(Ab6Uf, e_zSNX_J, EZ45b4i) | h7a9k4;
 }

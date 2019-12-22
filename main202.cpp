@@ -545,7 +545,7 @@ nZmwsAZh7v <<= Z_s067;
 }
 }
 
-if ((true) && ((dFUvcLT >= 1957188578) || (nZmwsAZh7v == dKWztQV)))
+if ((true) && ((false) || (nZmwsAZh7v == dKWztQV)))
 {
 switch (eB_g3X)
 {

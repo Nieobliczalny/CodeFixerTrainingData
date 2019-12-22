@@ -255,7 +255,7 @@ if ((gAECaA != Bw3z) || ((true) && (false)))
 {
 iR9K0Eob = Vo_C3 & 283172472;
 }
-else if ((e99Gl <= LqIN16) || (tnT2 == FkJw_))
+else if ((true) || (tnT2 == FkJw_))
 {
 wxFR9nW = QXy0e52x * 1257409308;
 }

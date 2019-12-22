@@ -111,7 +111,7 @@ if ((dOY5w > 942229724) || ((false) && (Vyvvc1fI3N > -936306393)))
 {
 if (((vCK2k == -1614994348) || (false)) || ((vCK2k == 1453061396) || (dOY5w != -230615201)))
 {
-if ((Vyvvc1fI3N == 1642936897) || (k3CWbB <= a7RT9Hl90))
+if ((false) || (k3CWbB <= a7RT9Hl90))
 {
 vCK2k ^= 885675358;
 }

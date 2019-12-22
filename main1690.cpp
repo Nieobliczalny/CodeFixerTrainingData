@@ -417,7 +417,7 @@ if ((zFN31 == -1700428283) || (true))
 KdCz_l = u2wN7lN9(KdCz_l);
 }
 }
-else if (DYeIP5578 < -1855084661)
+else if (false)
 {
 Ws_0Iv3O42 = (int)floor(Yk61sY);
 }
@@ -577,7 +577,7 @@ DYeIP5578 = u2wN7lN9(-224352793);
 }
 }
 
-if (((KdCz_l & h8K38LBn) && (true)) || ((false) || (VSkX75zY == 181666000)))
+if (((KdCz_l & h8K38LBn) && (true)) || ((false) || (false)))
 {
 {
 int j = 1;

@@ -572,7 +572,7 @@ if ((false) || (ulCw_T4 != J9wv))
 {
 std::cout << a3fy0ND << b5I5Oeweds << "s_Wa45QL" << OF3r3l0tS << std::endl;
 }
-else if (((fqea & kBUAh7YkV) || (false)) || (oDYX1EAE == 1388088057))
+else if (((fqea & kBUAh7YkV) || (false)) || (false))
 {
 {
 int j = 10;

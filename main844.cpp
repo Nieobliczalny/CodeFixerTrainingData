@@ -127,7 +127,7 @@ if (false)
 {
 Sp9MZvBj = Pprby1(gLl1u7, PhSBMC1r5, d36l1X1, P1K56, MD76F);
 }
-else if (((q4FF >= Ic328) && (false)) || (dXim0YS_ != 2002240805))
+else if (((q4FF >= Ic328) && (false)) || (true))
 {
 CM2_lvtOm7 = n5NNhgeMR - 2016388484;
 }
@@ -284,7 +284,7 @@ while (i >= 0);
 
 if (((true) && (true)) || (pE2OHYUs_b))
 {
-if (ljBNi3p6Re < 716961924)
+if (true)
 {
 {
 int k = 0;

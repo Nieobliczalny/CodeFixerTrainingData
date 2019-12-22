@@ -484,7 +484,7 @@ if ((true) && ((aoI_95_) || (false)))
 {
 v0q3kWZ2p = BDFIG(1609595101, -191656169, v0q3kWZ2p, wRD_7571A);
 }
-else if (((snfkF4 & Pfe4) && (Pfe4 == -1315619299)) && (RtacWR16 > z60_iT_Md))
+else if (((snfkF4 & Pfe4) && (false)) && (RtacWR16 > z60_iT_Md))
 {
 for (int j = 0; j < 3; j++)
 {
