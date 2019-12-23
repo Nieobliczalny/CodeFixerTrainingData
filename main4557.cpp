@@ -99,7 +99,7 @@ fbd55Hu0L = X3ixEv04dg(fbd55Hu0L, AJhDEmmAr);
 }
 else if (b7mAj2HM8)
 {
-if (((q5J1jv) && (rak7V0ax > Z0i5B163_d)) && ((F08MF6Zps <= 174249888) || (Y7Je4)))
+if (((q5J1jv) && (rak7V0ax > Z0i5B163_d)) && ((true) || (Y7Je4)))
 {
 Z0i5B163_d ^= y8FL4f44qj;
 }

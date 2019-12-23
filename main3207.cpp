@@ -276,7 +276,7 @@ if (((false) && (SA04Y37 != 1101071369)) || ((true) && (kxiM <= lxH394T95)))
 {
 ZpJN5l8nE = K1r3P2_3o(ZpJN5l8nE, ukuQZ48H1);
 }
-else if (((lxH394T95 & 1075713976) && (hw6c <= -1180729859)) && ((NuD486_Em <= -1957210290) || (PB1j0 > Z5_A3)))
+else if (((lxH394T95 & 1075713976) && (false)) && ((NuD486_Em <= -1957210290) || (PB1j0 > Z5_A3)))
 {
 E7L5Ew62 = K1r3P2_3o(E7L5Ew62, -1899796221);
 }

@@ -105,7 +105,7 @@ std::cout << Pu0b_K2fS << "aaLdTtYF" << tqU1J(1820322066, -2034297302, -13709538
 }
 else if ((false) || ((true) && (o8x4H7q == E1tB2rB5)))
 {
-if (((eG0U & 1517247035) && (false)) || (yODXd9f <= -1598283539))
+if (((eG0U & 1517247035) && (false)) || (false))
 {
 if (a81M6e58WG < 225784670)
 {

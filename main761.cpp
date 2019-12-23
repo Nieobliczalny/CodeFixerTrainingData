@@ -329,7 +329,7 @@ V5__wz = LE5SC - 1743026472;
 }
 else if ((true) && ((false) || (true)))
 {
-if ((false) || (PU__ >= 1120968629))
+if ((false) || (false))
 {
 Zyc0B_C9w2 = (short int)(o9UeTYEl);
 }

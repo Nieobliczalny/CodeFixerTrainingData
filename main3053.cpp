@@ -248,7 +248,7 @@ GM6gqZ2 >>= 1997649319;
 }
 else if ((cPwR) || ((true) && (true)))
 {
-if (((false) && (rBTE3h7M5 <= 721962110)) || (Ly7PuCS == 1748547501))
+if (((false) && (rBTE3h7M5 <= 721962110)) || (false))
 {
 E7E3 = Bp4S1Qex();
 }

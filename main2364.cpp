@@ -409,7 +409,7 @@ if (((false) && (BuoWe10433)) || ((J6iyk_lN != BuoWe10433) || (false)))
 {
 if (((J6iyk_lN != 804844505) || (false)) || (true))
 {
-if (A0ZoJ_wn < -1128578096)
+if (false)
 {
 kOhh4_ed ^= TKw630kV;
 }

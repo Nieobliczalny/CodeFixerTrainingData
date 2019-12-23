@@ -195,7 +195,7 @@ else if (((false) || (false)) || (oPm92g))
 {
 ka1p3fzy = (feO2fQ5 & UoUN) ? 209113567 : ka1p3fzy;
 }
-else if (((VJFE3tFm1I) || (false)) && ((BwLVggQ < -482476401) || (BwLVggQ & fD1I7bM)))
+else if (((VJFE3tFm1I) || (false)) && ((false) || (BwLVggQ & fD1I7bM)))
 {
 kBUVk60aYJ = (int)abs(K93eV);
 }

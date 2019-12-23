@@ -132,7 +132,7 @@ else if ((false) && (IMk9O9L4S))
 {
 YDayp4b9eN = tCiU3QM(A9G8j1A1G_, -884326920, -2143295494, -1145505366);
 }
-else if (((true) && (IMk9O9L4S <= -741575845)) || (YDayp4b9eN <= 754405536))
+else if (((true) && (false)) || (YDayp4b9eN <= 754405536))
 {
 A9G8j1A1G_ = dY52yx8();
 }
