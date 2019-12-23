@@ -185,7 +185,7 @@ else if (false)
 {
 QZk539zie = qwtK8FtID(1528398798);
 }
-else if ((U_S1) || ((true) && (YYUpF0H7S0 < -817080022)))
+else if ((U_S1) || ((true) && (false)))
 {
 B_fi2_p = BcE9Xnd5_0() % M_Z_K;
 }
@@ -245,7 +245,7 @@ else if (true)
 {
 if (((true) && (s97R > k7ZBKt2)) || (true))
 {
-if (Z5HK30 <= 1558978075)
+if (true)
 {
 p3bu3F56 = qwtK8FtID(p3bu3F56);
 }

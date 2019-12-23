@@ -163,7 +163,7 @@ if ((true) && (SrdU3Oc5b == NWGb8Ob))
 DETqvEy5Ot++;
 }
 }
-else if ((u7A1 >= mq12v) || (DETqvEy5Ot >= 1209193252))
+else if ((u7A1 >= mq12v) || (false))
 {
 for (int k = 9; k >= 0; k--)
 {

@@ -97,7 +97,7 @@ else
 KmMtMKA3J &= 105485494;
 }
 }
-else if ((false) || ((z4R_ == 1819607097) && (KmMtMKA3J != -660496942)))
+else if ((false) || ((false) && (KmMtMKA3J != -660496942)))
 {
 {
 int k = 0;

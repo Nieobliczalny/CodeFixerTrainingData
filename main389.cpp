@@ -376,7 +376,7 @@ else if (((N3Jy) && (true)) || (false))
 {
 SZ2t = W08h(Xyfb8Mz5I_, wLl6cgK4);
 }
-else if (((tlf4pb <= 1499312428) || (W7f74ut6 > CAc900y_0)) || (HI4m < 329075905))
+else if (((true) || (W7f74ut6 > CAc900y_0)) || (HI4m < 329075905))
 {
 Jf1xmGB0--;
 }

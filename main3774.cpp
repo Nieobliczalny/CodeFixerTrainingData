@@ -325,7 +325,7 @@ std::cout << "grr6" << SK51nfl1 << G6GoLbg_Vs(-1476994550) << iBk9v7_O << G6GoLb
 }
 if (((uW9YSU0560) && (nSra)) || (false))
 {
-if (yGKBN < -6652332)
+if (false)
 {
 ZMZhm2ddM0 %= 1303444191;
 }
@@ -338,7 +338,7 @@ if (((true) && (true)) && (MJccdkL7W0))
 {
 Qsfo = m96PI_ | tvb6_0Tnl;
 }
-else if (((o8ulf > d2F_61rdVT) && (true)) || (Qsfo <= 145024846))
+else if (((o8ulf > d2F_61rdVT) && (true)) || (true))
 {
 QP1rM5Q90 %= c7LCjXVd0_;
 }

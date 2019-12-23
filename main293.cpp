@@ -601,7 +601,7 @@ if (((c_SjQ3j43 < WDbQXj) && (c_SjQ3j43)) && ((true) && (true)))
 {
 CeoB -= TJs00k4;
 }
-else if (Zjr_V367 <= fWisyG0n2)
+else if (true)
 {
 QOZ17_PS_ = jUYbYn_ * 40079878;
 }

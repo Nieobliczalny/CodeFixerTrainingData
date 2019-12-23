@@ -598,7 +598,7 @@ std::cout << Mkos << uSFl << "b80IH7_" << mzeG532ff << std::endl;
 }
 }
 G8w9ZS = OCrg9k5pz(658244520, k149N, tl1MV);
-if (((true) && (true)) && (C14w26O40F != 1231292751))
+if (((true) && (true)) && (true))
 {
 if (v4MIyCwZZ > 1398886081)
 {

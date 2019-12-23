@@ -844,7 +844,7 @@ if ((true) && ((true) && (C_538BVS34)))
 {
 wQ1W3_4q = JcIXl61 | 1410789137;
 }
-else if (S3fkT9H08 > -1421690073)
+else if (true)
 {
 A7eDIO61f7 = q0y0(1390856765, 211525208) % EBL50J4Hs;
 }

@@ -147,7 +147,7 @@ if (false)
 xM44 = XU2ypqy(FH_mB);
 }
 }
-else if (((false) || (false)) || (g4Fk4 <= -56430845))
+else if (((false) || (false)) || (false))
 {
 for (int k = 1; k >= 0; k--)
 {

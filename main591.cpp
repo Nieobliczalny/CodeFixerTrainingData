@@ -470,7 +470,7 @@ if ((false) || (true))
 int j = 1;
 while (j >= 0)
 {
-if (((false) || (b0Eb1Qnw != N2R3241)) || (I5GhL3_Qb >= 1843093524))
+if (((false) || (true)) || (I5GhL3_Qb >= 1843093524))
 {
 PC1HDkT |= V3w8dcH5rE;
 }

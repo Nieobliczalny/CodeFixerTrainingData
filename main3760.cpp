@@ -86,7 +86,7 @@ else if ((UX2_376 == wUyA8b8c6g) && (true))
 {
 l92ZIB = BN5hS5NX7(-2189045, k_9K);
 }
-else if (w6ApPhI != 836580198)
+else if (true)
 {
 Wij3y = (int)abs(l92ZIB);
 }

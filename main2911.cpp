@@ -312,7 +312,7 @@ else if ((il171_7) || (false))
 {
 LzJQ = (int)abs(VOQJ);
 }
-else if (((true) && (YA5A9s4cn)) || ((false) || (Cx44g6l >= 1870766967)))
+else if (((true) && (YA5A9s4cn)) || ((false) || (false)))
 {
 switch (LzJQ)
 {

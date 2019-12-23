@@ -211,7 +211,7 @@ F6i1t4ytk5 = c0n3p(F6i1t4ytk5, qMpk0, AVegO4);
 }
 else if ((true) || (OFn6aTS3 >= Fl_177_))
 {
-if (((false) || (true)) && ((F6i1t4ytk5 != b50b_p) || (k9ZMbh5 == 747864980)))
+if (((false) || (true)) && ((F6i1t4ytk5 != b50b_p) || (false)))
 {
 W_k8 = (unsigned short int)(C8LxzG);
 }

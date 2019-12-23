@@ -145,7 +145,7 @@ int j = 2;
 while (j >= 0)
 {
 --j;
-if (((P_12 > qnu5) && (true)) && ((false) || (R3yv2zEj < -1176873528)))
+if (((P_12 > qnu5) && (true)) && ((false) || (false)))
 {
 v7w73EmBLo = NG016c(v7w73EmBLo, -593126940);
 }

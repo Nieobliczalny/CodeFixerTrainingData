@@ -94,7 +94,7 @@ if ((false) || (true))
 {
 for (int j = 3; j >= 0; --j)
 {
-if (((l629x7PG0T & O5ba) && (false)) || (l17T < 118511814))
+if (((l629x7PG0T & O5ba) && (false)) || (true))
 {
 Mdcb_J6 = UXvzToE0(Mdcb_J6, -444886391, l629x7PG0T, l17T, -1584795156);
 }

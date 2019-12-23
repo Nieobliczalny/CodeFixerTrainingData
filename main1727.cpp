@@ -196,7 +196,7 @@ else if ((false) || (ynrWGW & Kq8MkwC))
 {
 if ((false) || (true))
 {
-if ((jtL55 != YLYnnoA2u) || ((VQ1S29L <= 1630675487) || (F1Yj0aS4i < dwSN5av)))
+if ((jtL55 != YLYnnoA2u) || ((true) || (F1Yj0aS4i < dwSN5av)))
 {
 Mv98EEh54F = DBdZ_o - F2M4ngvNQy;
 }

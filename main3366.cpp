@@ -108,7 +108,7 @@ else if ((true) && ((false) && (KgayS6Rs62 > 2105931551)))
 {
 lIsI = f1E02M5l(lIsI, h117_xJ4g, uRXy2r04, F9c6, 934322724);
 }
-else if (Ovihi4n < ar8Upp9aU2)
+else if (true)
 {
 ezVxng1 = RSN1_(54490606, K1_y, uRXy2r04, s8sB9VsCkN, 1501568894);
 }

@@ -249,7 +249,7 @@ hYYr_w -= zbV7Vbbj;
 }
 
 uy_PI8d = (char)(XrIo8);
-if ((false) || (PX_S2Z <= 1411034715))
+if ((false) || (true))
 {
 Mo90K8Tuu <<= LxB0ae4l;
 }

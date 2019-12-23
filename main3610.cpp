@@ -111,7 +111,7 @@ else if ((false) || ((false) || (false)))
 {
 TLxZ = (char)(Ei5V);
 }
-else if ((t6j63 >= G52c8jQu0J) || ((G52c8jQu0J != -1073837881) || (D1ouJ5ewo > -788559940)))
+else if ((t6j63 >= G52c8jQu0J) || ((true) || (D1ouJ5ewo > -788559940)))
 {
 {
 int j = 9;

@@ -263,7 +263,7 @@ if ((false) || ((pMSfGC != t81Wa) || (true)))
 {
 if ((D9xjpn_ < 1515903830) && ((N7ju_T0rSS) && (true)))
 {
-if (bvc_ > 54600922)
+if (false)
 {
 c_t9 &= 810014621;
 }

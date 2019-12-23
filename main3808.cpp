@@ -228,7 +228,7 @@ else if (((LV8_Tib >= 143537142) && (false)) || ((QvJj6 & -865401788) && (true))
 {
 I05O_9 = (int)floor(G_mfdwJ99H);
 }
-else if ((qefZc7 != 1426007727) && (Z5_EU > S94oIkpQQ))
+else if ((true) && (Z5_EU > S94oIkpQQ))
 {
 UT704yi0a = (int)ceil(I05O_9);
 }

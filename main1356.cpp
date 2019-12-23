@@ -258,7 +258,7 @@ else if (((true) && (MJpf_q_JK6 == Hr8iJ4V8FJ)) || ((false) || (PBvoe62 & -21440
 {
 J_Iyf4J4jC += Y96r6fQ;
 }
-else if (xCWrO != THZl2fbSY)
+else if (true)
 {
 puKE0 |= Y96r6fQ;
 }

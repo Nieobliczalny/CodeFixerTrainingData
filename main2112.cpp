@@ -389,7 +389,7 @@ else if ((false) && ((YPi7HK_Qox) && (c4NA9)))
 {
 c4NA9 = (unsigned short)(r_l7m1kDU);
 }
-else if ((c4NA9 != sZr2p) || (S28kZ9GL1 >= Cm7nQeaB))
+else if ((true) || (S28kZ9GL1 >= Cm7nQeaB))
 {
 {
 int k = 9;

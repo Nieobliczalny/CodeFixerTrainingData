@@ -101,7 +101,7 @@ if ((false) || (false))
 it5N = UR4d231ap2 * P8s9_X6u;
 }
 }
-else if (A4G_ > 1063649271)
+else if (false)
 {
 try
 {

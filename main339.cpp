@@ -192,7 +192,7 @@ if (((Bwj16 == wzfV2EL7v) && (false)) || (false))
 {
 std::cout << "N41pg" << BL8Y0i2(2030082106, -35404889, -14851612, D8FVP6F4s, lwZPgLh756) << DtG4O6 << BL8Y0i2(y_kyLp9, 656071760, 897520524, -1691508136, lwZPgLh756) << SPRHP9 << std::endl;
 }
-if (((lQMAW7M2 >= -1117769833) && (k7325GoQ_ <= -1029002895)) || (y_kyLp9 < 2139042192))
+if (((lQMAW7M2 >= -1117769833) && (false)) || (y_kyLp9 < 2139042192))
 {
 wzfV2EL7v++;
 }

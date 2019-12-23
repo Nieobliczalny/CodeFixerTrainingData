@@ -706,7 +706,7 @@ else if ((false) && (dbl150s >= 638148781))
 {
 zn6kku = (int)abs(Ze_P027lk0);
 }
-else if ((false) || (s_FK > 806861934))
+else if ((false) || (false))
 {
 mGa7g17--;
 }

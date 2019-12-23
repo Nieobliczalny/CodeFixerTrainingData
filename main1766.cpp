@@ -293,7 +293,7 @@ else if ((false) || (false))
 {
 kQLViqLGBn = Ina9Qn(-885756932, -1529282537);
 }
-else if ((yXphMYAQ) && ((HO1tT6 != hQGiQ) || (EWxC2c < r_9WGat)))
+else if ((yXphMYAQ) && ((HO1tT6 != hQGiQ) || (true)))
 {
 GmHP54 = b18pC(GisO72, -1774522892, -1248444882, QqNqw);
 }

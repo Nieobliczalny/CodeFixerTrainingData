@@ -276,7 +276,7 @@ else if ((Iw6MJrMF2) && (false))
 {
 cout << b7_RO2mv << Hv8PH4P3(KbY17o_X6s) << "t3Zz84" << "L2Sdc" << Hv8PH4P3(KbY17o_X6s) << endl;
 }
-else if (((false) || (false)) || (wIgun <= -1006260214))
+else if (((false) || (false)) || (false))
 {
 try
 {
@@ -602,7 +602,7 @@ P11HKlzb = (int)ceil(ROWcsCCLWX);
 }
 else
 {
-if ((b7_RO2mv < tvxgc_7c_) || (h_tK != nV9VeNm_3))
+if ((false) || (h_tK != nV9VeNm_3))
 {
 OEwhFSaJ25 = Sd08();
 }

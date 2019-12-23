@@ -224,7 +224,7 @@ KY7o = (long long)(IbDyQi * KY7o);
 }
 else if ((false) || ((wjk81D29zS > QD10rt) && (true)))
 {
-if (((true) && (VB66_zYo == 382917865)) && ((vCn01yg < 1909245346) || (JU0sN299 & -2042986078)))
+if (((true) && (false)) && ((vCn01yg < 1909245346) || (JU0sN299 & -2042986078)))
 {
 {
 int k = 5;

@@ -663,7 +663,7 @@ else
 US2162EKA1 = anV8 << 1684045931;
 }
 }
-else if (((pxiSQ >= -960906652) || (z2hiCZ >= f79XQ)) && (iZ58f5))
+else if (((true) || (z2hiCZ >= f79XQ)) && (iZ58f5))
 {
 switch (EOdPF33JEN)
 {

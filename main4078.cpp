@@ -191,7 +191,7 @@ else if ((l9AP) && (true))
 {
 Yg4887XhY ^= qz9FV2_;
 }
-else if (((false) || (Q38KK31 < -2048741051)) || (oPm92g))
+else if (((false) || (false)) || (oPm92g))
 {
 ka1p3fzy = (feO2fQ5 & UoUN) ? 209113567 : ka1p3fzy;
 }

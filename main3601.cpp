@@ -379,7 +379,7 @@ for (int k = 0; k < 5; ++k)
 rvY47OGpfk = YNCY4t + I4O9xcM;
 }
 }
-else if (YNCY4t < pt92)
+else if (false)
 {
 switch (kUH1)
 {

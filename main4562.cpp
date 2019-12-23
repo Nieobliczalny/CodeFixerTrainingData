@@ -135,7 +135,7 @@ else if (((true) && (false)) || (nnk_G & h0Iqy))
 {
 std::cout << FX7OOT7() << FX7OOT7() << LVBuJeZ << FX7OOT7() << nnk_G << std::endl;
 }
-else if (U6BU79 != -1770937849)
+else if (true)
 {
 qJN9A_SW = Lw_7RZ2QG << U6BU79;
 }
@@ -392,7 +392,7 @@ else if ((RUS77BPoC0) && (false))
 {
 YDLm2if5d = FX7OOT7();
 }
-else if ((qJN9A_SW > -485489469) && (C212_))
+else if ((true) && (C212_))
 {
 YDLm2if5d = FX7OOT7();
 }

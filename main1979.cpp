@@ -44,7 +44,7 @@ else if (((c_7nx0 > MeY95C4) && (qs0Nt < UXluV)) && ((true) || (c_7nx0 != 161694
 {
 UXluV /= 1570378157;
 }
-else if (s1WSmP6J != -735055219)
+else if (true)
 {
 if ((false) && (MF1ScVrE != c_7nx0))
 {
@@ -349,7 +349,7 @@ else if ((Wr6Id0f == sZ8xi) || (false))
 {
 Z679 = (char)(MeY95C4 + (bEqAs1JFI4));
 }
-else if (M0__ <= yVYRP9J)
+else if (false)
 {
 try
 {

@@ -138,7 +138,7 @@ mxJ2spt &= N8PyewhH;
 }
 }
 
-if ((false) || (BSkH != rl4z))
+if ((false) || (true))
 {
 for (int j = 0; j < 2; j++)
 {

@@ -54,7 +54,7 @@ do
 i--;
 if (true)
 {
-if ((true) && ((true) && (e0zSLa1 != 692336227)))
+if ((true) && ((true) && (true)))
 {
 oA0mlAA = BeMR(-30739682, n_Qf95, PMUKPjb);
 }
@@ -86,7 +86,7 @@ if ((true) && (false))
 {
 std::cout << "yU8f" << "E1cc65M_" << BeMR(-897497089, woDSfjm, 15781471) << std::endl;
 }
-else if (rtj8_R2 <= -1099428451)
+else if (false)
 {
 {
 int j = 0;

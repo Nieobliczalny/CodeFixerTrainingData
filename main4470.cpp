@@ -700,7 +700,7 @@ if (false)
 {
 B7jod = lLQC8836 - x6c23NL;
 }
-else if ((XpAS < 1022319140) || (qoshaXhZ > jFj2yM7))
+else if ((true) || (qoshaXhZ > jFj2yM7))
 {
 rJxz2 = pGfPVi();
 }

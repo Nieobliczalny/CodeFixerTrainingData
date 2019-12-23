@@ -357,7 +357,7 @@ else if (PSyZf_1rh7 & fm55eT_)
 {
 D9jzFH0X2w = (int)abs(i_OZCV69Y);
 }
-else if (((true) && (pytUY7v != fm55eT_)) && (T6Caq_M0j > -1015992982))
+else if (((true) && (pytUY7v != fm55eT_)) && (true))
 {
 ASrW9JzW0 = (short int)(vqiJ);
 }

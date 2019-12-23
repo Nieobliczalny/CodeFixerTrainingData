@@ -125,7 +125,7 @@ else if (((false) || (false)) || (fXDb >= -18844361))
 {
 TCK498117 = Cunys4C / 930124471;
 }
-else if (aAc0 == 1515988099)
+else if (false)
 {
 T696M = (p35C_3R2R >= aAc0) ? TCK498117 : ln73R;
 }

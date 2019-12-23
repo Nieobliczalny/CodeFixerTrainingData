@@ -28,7 +28,7 @@ if (((OTxlQ02z3) || (mdZZ2qiiW3 & ww0A438k7)) && ((true) && (false)))
 {
 ww0A438k7 = (short int)(mdZZ2qiiW3 * ww0A438k7);
 }
-else if (((false) && (mdZZ2qiiW3)) || ((OTxlQ02z3 != -1962868398) || (OTxlQ02z3 & 1030967459)))
+else if (((false) && (mdZZ2qiiW3)) || ((true) || (OTxlQ02z3 & 1030967459)))
 {
 if (((mdZZ2qiiW3 <= OTxlQ02z3) && (OTxlQ02z3 == ww0A438k7)) && (ww0A438k7 < mdZZ2qiiW3))
 {

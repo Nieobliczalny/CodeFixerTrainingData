@@ -223,7 +223,7 @@ if ((true) || ((oMFF != -944326369) && (hOSI3p < 1187812485)))
 W_2Br *= Gd1C;
 }
 }
-else if ((true) && (vSs0x9bA > 1879547304))
+else if ((true) && (false))
 {
 switch (O_XjK)
 {

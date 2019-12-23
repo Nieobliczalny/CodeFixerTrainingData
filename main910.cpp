@@ -35,7 +35,7 @@ if (false)
 {
 SH13O = kxSaO - CL2065o_9P;
 }
-else if (Vtig27 <= 2144610741)
+else if (true)
 {
 if (CL2065o_9P == Noz2q)
 {
@@ -249,7 +249,7 @@ s__9s3 += 766718076;
 }
 else if (prCuSTtK < Lq6p7K7)
 {
-if ((false) || (Cw2WNtlRRV != -484978852))
+if ((false) || (true))
 {
 Icld2oq5 *= 982383539;
 }

@@ -55,7 +55,7 @@ if (((false) && (B_3_tE3 != UbX9zQ8)) && (yPI_r76 == gnyN_C3D8))
 {
 xsgs = Ri1QDZ(737208776, -591514691);
 }
-else if (StdZGo == 1879208467)
+else if (false)
 {
 l3pTAtMu = YUS424(-1245672454, 743030001, 113084047) + 614283851;
 }
@@ -281,7 +281,7 @@ l3pTAtMu ^= vxOwL9OG;
 
 if (((true) && (gnyN_C3D8)) && (true))
 {
-if (((false) || (qL9ql > Nzr5ewNu)) || (FGU1z < -1681697312))
+if (((false) || (qL9ql > Nzr5ewNu)) || (false))
 {
 try
 {

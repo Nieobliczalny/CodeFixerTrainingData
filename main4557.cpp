@@ -93,7 +93,7 @@ j++;
 }
 else if (((true) && (true)) && ((y8FL4f44qj & -1886590840) || (false)))
 {
-if (rak7V0ax >= 987988396)
+if (false)
 {
 fbd55Hu0L = X3ixEv04dg(fbd55Hu0L, AJhDEmmAr);
 }
@@ -426,7 +426,7 @@ else if (((true) && (X7juj5p7 != Z0i5B163_d)) && (AJhDEmmAr))
 {
 q5J1jv -= 451438331;
 }
-else if (Y7Je4 == 66225310)
+else if (false)
 {
 q5J1jv = P7bw();
 }

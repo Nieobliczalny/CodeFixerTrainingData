@@ -184,7 +184,7 @@ if (sB73N < Jj1I)
 PnfZsZ = lXEnU_N + 932724365;
 }
 }
-else if (((true) && (lXEnU_N == VfoKb)) && (E5Txfc3z < pUBvfu8tSu))
+else if (((true) && (lXEnU_N == VfoKb)) && (false))
 {
 std::cout << "t4V3fuID" << "lc02jT" << std::endl;
 }

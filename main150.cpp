@@ -53,7 +53,7 @@ if ((false) || ((vnuk1HnP1) && (true)))
 Dhg6aofZ0 = DFY3Mhm_PD * 771685051;
 }
 }
-else if ((dQwhl7zX87 >= -1814653683) || (gIM1BZLH < Uhs8E))
+else if ((true) || (gIM1BZLH < Uhs8E))
 {
 cout << "xIZMne539" << onVMnM5J(B7drK_Vd0, 2081352184, -367840846, -869830327) << KiSU << endl;
 }

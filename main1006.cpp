@@ -322,7 +322,7 @@ else if (false)
 {
 q88Y8oVcxh = R_6L6S6J();
 }
-else if (REL1 > -1705657230)
+else if (true)
 {
 RpAB2yCTy4 = FR396 ^ TnwM6QLu83;
 }

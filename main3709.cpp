@@ -597,7 +597,7 @@ nn2os2o--;
 }
 else if (((true) || (TUmiUf < CGR2Kbk8y0)) && ((true) && (true)))
 {
-if (fji3LL54_I < -749673565)
+if (false)
 {
 TUmiUf = Gcv7();
 }

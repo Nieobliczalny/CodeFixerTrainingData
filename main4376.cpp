@@ -129,7 +129,7 @@ if (false)
 {
 wuuDWA5DNp <<= 483224481;
 }
-else if ((Z8TRbL11O <= qOThT) || (nD5Rh5 > qOThT))
+else if ((true) || (nD5Rh5 > qOThT))
 {
 t_7d--;
 }

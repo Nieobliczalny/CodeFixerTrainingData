@@ -84,7 +84,7 @@ for (int k = 10; k >= 0; --k)
 e4fK9LRJ70 -= 1182365814;
 }
 }
-else if ((false) || (B00MAZF5RF != 536510273))
+else if ((false) || (true))
 {
 X0H6u7l1 = (unsigned short int)(DVjsp9v + (-2077205552));
 }

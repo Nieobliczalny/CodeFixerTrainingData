@@ -665,7 +665,7 @@ if (((NRo_qcNA4) && (c_BbV0E > 962650472)) && (true))
 {
 F5YFu *= cWcqnOz;
 }
-else if ((l_X05Kd == tW6D474) || (bhD8Y < -2052901865))
+else if ((l_X05Kd == tW6D474) || (false))
 {
 Fd0SeR_a49 = DOjd9o3 + 1510780013;
 }

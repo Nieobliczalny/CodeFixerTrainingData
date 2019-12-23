@@ -319,7 +319,7 @@ else if (vTqVVP6 > RqNYSy)
 {
 CKJu = q9r2H4F(-1636790064, 443334851, I0G8, c30yf__jr4);
 }
-else if ((false) || ((false) || (JmdT_u1N != 975257326)))
+else if ((false) || ((false) || (true)))
 {
 if (ZZNU29)
 {

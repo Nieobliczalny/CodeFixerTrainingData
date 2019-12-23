@@ -224,7 +224,7 @@ std::cout << "eMF1X0O" << iBKvfp() << mqcy4Ic4O5(Y75F5k) << "Mo0m5" << std::endl
 }
 else if (Wgh6_M & Y75F5k)
 {
-if (((awnA_87h == YC91) && (false)) || ((false) || (H85aSG8ey4 > -423207569)))
+if (((awnA_87h == YC91) && (false)) || ((false) || (true)))
 {
 HdLH = mqcy4Ic4O5(1933900283);
 }

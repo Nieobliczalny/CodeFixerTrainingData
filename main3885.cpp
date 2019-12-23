@@ -238,7 +238,7 @@ pz80ykh += KCI35;
 
 if (((true) || (Gzw27N6 <= mhl8zxP)) && ((false) || (true)))
 {
-if ((Y1ED17Tqe2 >= -382992712) && (LZ4_8 == 1462053137))
+if ((true) && (LZ4_8 == 1462053137))
 {
 switch (d7X_C)
 {

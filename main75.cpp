@@ -641,7 +641,7 @@ if (((pfKrWw <= 79142290) || (Z5hSS7N > HBt4v9yj)) && ((true) && (true)))
 {
 sd9miZ4 = au4DHA6j * 2139131439;
 }
-else if ((zD59e8dbX >= 321039350) || ((yFWo52) && (N1nYHJ_ == 843609805)))
+else if ((false) || ((yFWo52) && (N1nYHJ_ == 843609805)))
 {
 DFMggw = (int)abs(uNc8Jo6);
 }

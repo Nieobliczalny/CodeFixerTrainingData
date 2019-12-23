@@ -346,7 +346,7 @@ if (((false) || (false)) || (gI4DPM684 > bn3rs4_Kk))
 {
 oWG90 = (unsigned char)(AQdSuo);
 }
-else if (i7b0 < -709344214)
+else if (false)
 {
 if (((true) || (E0AwngV & JORkYk2L)) || (DGjxc & 1751954096))
 {

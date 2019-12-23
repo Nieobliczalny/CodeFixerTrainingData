@@ -70,7 +70,7 @@ else if (zvPlF > Pc3z37X2)
 {
 L1B19 = q8TTVkm ^ j39b08iVcp;
 }
-else if ((true) && ((true) && (efKCpVfA == -1203072997)))
+else if ((true) && ((true) && (false)))
 {
 bo_0 = Ahxz761O3h(-1878271543, E8IetmP17, 413811589, qC892, k7KGBhf);
 }

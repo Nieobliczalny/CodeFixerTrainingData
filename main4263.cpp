@@ -312,7 +312,7 @@ if (((H6dSF5EO2 < C_PssC) || (uvz85 >= Eh6If0)) && ((a3AI & 1140337649) || (fals
 {
 if ((true) && ((true) && (dwpx75Xe4m & MVOC42hdB)))
 {
-if (Br8k8Mrj57 >= 601830508)
+if (false)
 {
 tBW3laNghv = WIgh(-1834131699, 114513858, jxL44mf, 1441931757, k1C1kfKp);
 }

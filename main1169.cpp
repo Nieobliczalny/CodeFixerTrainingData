@@ -164,7 +164,7 @@ tqCf8_RXh_ = INyMh1 ^ 140170173;
 }
 if (((ikODU >= 745076650) || (false)) || (false))
 {
-if (P_j1v9N90 != -59513683)
+if (true)
 {
 try
 {
@@ -229,7 +229,7 @@ break;
 }
 else if (((visnQ54M) || (false)) && (true))
 {
-if ((false) || ((w1hP643Ian >= 1296064630) && (o7n9)))
+if ((false) || ((false) && (o7n9)))
 {
 {
 int k = 0;

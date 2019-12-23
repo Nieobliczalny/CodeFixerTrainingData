@@ -204,7 +204,7 @@ D_7v = tkBqq / hTXB0r;
 }
 else if (BK0p == TMx7o0)
 {
-if (Q_6tKu7Fl < 278594289)
+if (true)
 {
 Q_6tKu7Fl += TMx7o0;
 }

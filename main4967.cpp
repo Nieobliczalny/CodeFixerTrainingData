@@ -63,7 +63,7 @@ if ((false) && ((oMr90x5 & VW9Gq5R) && (FGoGf92W & 1412169057)))
 {
 Ibp2HTxu -= 652810900;
 }
-else if (knSpU <= 849476691)
+else if (true)
 {
 ht4ikf3++;
 }
@@ -181,7 +181,7 @@ if (false)
 {
 ht4ikf3 = (oMr90x5 <= 325680659) ? Z0b0iZ : FGoGf92W;
 }
-else if (seZ4H > -1421696840)
+else if (true)
 {
 OI6O += ptRh2rf;
 }

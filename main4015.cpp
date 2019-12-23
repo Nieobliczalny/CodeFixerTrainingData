@@ -157,7 +157,7 @@ else if (((U21JW != K8e660i427) && (i4SoR & QbG5)) && ((false) && (aGa5CQ7MiH ==
 {
 v20waQ7mbn = (i4SoR < gGow9Kz448) ? HR_D6b1qd : Jhj83OYpLw;
 }
-else if ((K8e660i427 & 124347272) && (dh90g4Br7 >= 818469726))
+else if ((K8e660i427 & 124347272) && (false))
 {
 xsHCL = p0l2uV << uFO4ySsv0T;
 }

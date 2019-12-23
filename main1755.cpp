@@ -300,7 +300,7 @@ else if (((m03Fho == -369810355) || (true)) && (true))
 {
 if (((true) && (S9jUz)) || (Yn8P_CO < 7090865))
 {
-if (K3Ow <= 2104765860)
+if (true)
 {
 S9jUz = K3Ow / 461700119;
 }

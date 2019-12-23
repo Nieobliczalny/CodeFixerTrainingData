@@ -248,7 +248,7 @@ GM6gqZ2 >>= 1997649319;
 }
 else if ((cPwR) || ((true) && (true)))
 {
-if (((l_VnC_C == 850263958) && (rBTE3h7M5 <= 721962110)) || (Ly7PuCS == 1748547501))
+if (((false) && (rBTE3h7M5 <= 721962110)) || (Ly7PuCS == 1748547501))
 {
 E7E3 = Bp4S1Qex();
 }

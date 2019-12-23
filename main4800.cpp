@@ -283,7 +283,7 @@ else
 {
 if ((true) || (xvWmxe8C1))
 {
-if (((true) && (Ux4iG1KyVN == 765865987)) || (I12y_ < 2134243003))
+if (((true) && (false)) || (I12y_ < 2134243003))
 {
 L031e = (int)ceil(I12y_);
 }

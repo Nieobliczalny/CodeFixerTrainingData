@@ -218,7 +218,7 @@ break;
 while (i < 8);
 }
 
-if (((false) || (true)) && ((false) || (wOTU244h == 74608664)))
+if (((false) || (true)) && ((false) || (false)))
 {
 EbT38D5K = (unsigned short int)(JnT3);
 }

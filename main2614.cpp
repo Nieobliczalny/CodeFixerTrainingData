@@ -116,7 +116,7 @@ m9AvbwG2_T |= AsI47V__n_;
 }
 else if (true)
 {
-if (((AaOZ5Jl) && (l2byc > -934664673)) && (j16sNNSAi1 < bKSKknY))
+if (((AaOZ5Jl) && (true)) && (j16sNNSAi1 < bKSKknY))
 {
 B_QtEn = zb4kMm(1319178592);
 }

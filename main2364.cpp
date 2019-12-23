@@ -407,7 +407,7 @@ J6iyk_lN = (float)(A0ZoJ_wn);
 A0ZoJ_wn = z0NU9(A0ZoJ_wn, So918s9p9, BuoWe10433);
 if (((false) && (BuoWe10433)) || ((J6iyk_lN != BuoWe10433) || (false)))
 {
-if (((J6iyk_lN != 804844505) || (false)) || (kOhh4_ed >= -1219727406))
+if (((J6iyk_lN != 804844505) || (false)) || (true))
 {
 if (A0ZoJ_wn < -1128578096)
 {

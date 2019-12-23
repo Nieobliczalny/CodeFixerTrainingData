@@ -503,7 +503,7 @@ int j = 6;
 do
 {
 --j;
-if ((J72G7t5 < AJK_K) || ((false) || (eKC1h4Mp < 1992435702)))
+if ((J72G7t5 < AJK_K) || ((false) || (true)))
 {
 Iig87bxh = N43n(-1742007134, zKadmW, -1923850011, 1875329439);
 }

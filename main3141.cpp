@@ -43,7 +43,7 @@ else if (((ZYK2pz >= j9n_Ii) || (false)) && (false))
 {
 wzZ4Q62hk_ -= 2118986315;
 }
-else if (t466YMc1 <= -954277037)
+else if (false)
 {
 t466YMc1 *= ps5H;
 }

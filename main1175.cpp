@@ -91,7 +91,7 @@ else if ((false) && (X0Do0 != -419595601))
 {
 xESn9 = T885I(xESn9, 1420405400, X0Do0, 705745723);
 }
-else if ((false) || ((gwmG1W1_ <= xESn9) || (rB720Z >= 1169841593)))
+else if ((false) || ((gwmG1W1_ <= xESn9) || (false)))
 {
 GUCn_L_ >>= Bv_M;
 }

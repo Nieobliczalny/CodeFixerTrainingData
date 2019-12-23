@@ -410,7 +410,7 @@ JPIflxN6B = (int)floor(s4mr2CN);
 }
 else if (f6FG7 == s4mr2CN)
 {
-if (f6FG7 < w80SSHm0D9)
+if (true)
 {
 i34sBP = w80SSHm0D9 + S2HdGuyd;
 }

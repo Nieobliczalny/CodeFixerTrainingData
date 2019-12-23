@@ -154,7 +154,7 @@ xb225z = Pk_7Gj();
 }
 else
 {
-if (xb225z == Y_904EEno)
+if (false)
 {
 H9cp9iUC >>= 1395286535;
 }

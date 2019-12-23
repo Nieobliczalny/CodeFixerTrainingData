@@ -128,7 +128,7 @@ E2IDUOy8 = (long)(pBx9Vg9e85);
 }
 else if ((true) && ((true) && (A09q > s4FR29T)))
 {
-if (A09q == -730263052)
+if (false)
 {
 d3b_NCI3 /= 1121215899;
 }

@@ -588,7 +588,7 @@ else if (((Xgb1fs != MM2vL551) && (true)) || ((PZ6z == Xgb1fs) && (true)))
 {
 Q8h5 = OBvAzG8xO6 & W97h4Tq;
 }
-else if (e7_3z_vO3 == bY2A)
+else if (false)
 {
 W97h4Tq = (short int)(XG831u);
 }

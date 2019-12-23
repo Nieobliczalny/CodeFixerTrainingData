@@ -137,7 +137,7 @@ else if (false)
 {
 HVM_9 = (unsigned long long)(I660Q_6h2 * HVM_9);
 }
-else if ((false) || (Cy_O1x2 < 1229160799))
+else if ((false) || (true))
 {
 JBdvg = (unsigned char)(sT34AW);
 }

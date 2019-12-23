@@ -421,7 +421,7 @@ if (false)
 {
 w36b78 = (int)abs(EepJPb1_9);
 }
-else if ((Wsvja56rB2 != pynJ) && ((p5Y0i6_ >= -1703877564) && (BRc_z917 >= p1hJKikr)))
+else if ((true) && ((p5Y0i6_ >= -1703877564) && (BRc_z917 >= p1hJKikr)))
 {
 BypXpF_ = kIIU2(-1385767127, p8KS33lx2A, -697908983);
 }

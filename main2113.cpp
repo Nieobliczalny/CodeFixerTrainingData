@@ -149,7 +149,7 @@ if (false)
 {
 ZadxF = Vusf(IN5rVPY);
 }
-else if (IN5rVPY >= 212512198)
+else if (false)
 {
 IN5rVPY = (int)abs(Y299Ae) * 0;
 }
