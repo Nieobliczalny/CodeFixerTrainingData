@@ -218,7 +218,7 @@ if ((CjZR & -1324038755) && (y2M69o4cRu))
 {
 B0hvQ = rrRjYfcMKy(R6ov4z3U) & CjZR;
 }
-else if (((false) && (CjZR >= -340809941)) || ((true) && (mb5J < 1306479148)))
+else if (((false) && (CjZR >= -340809941)) || ((true) && (true)))
 {
 B0hvQ ^= 261550199;
 }

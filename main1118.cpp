@@ -561,7 +561,7 @@ else if (((true) && (true)) && ((false) || (false)))
 {
 CnAxaU = (int)abs(i_ufQ34mc);
 }
-else if (JKEjO6 <= -68821038)
+else if (false)
 {
 e16X9NE = (L04pVr) ? k58e : 216424242;
 }

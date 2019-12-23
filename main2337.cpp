@@ -472,7 +472,7 @@ pJm4t7 = n6drd();
 }
 else if (true)
 {
-if (((false) || (false)) || ((false) || (BkzAW == 1898534587)))
+if (((false) || (false)) || ((false) || (false)))
 {
 om8302uW7q -= 215636917;
 }
