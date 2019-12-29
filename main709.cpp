@@ -355,6 +355,7 @@ AZOc1 = (int)ceil(qhQqswSS);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	F10l6W7j(unsigned short	Vd9mb69,long	wAGW8,unsigned int	R7L9,char	qwrgCUTq)	{
 	return	-2106078696;
 }

@@ -11,6 +11,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  DSS6kVx(unsigned int  Na0Y8)  {
   return  -29793528;
 }
@@ -28,6 +29,7 @@ char  kx95()
   return  -734155044;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short  XY_a3_A9(long long  EpX58JD7EH,unsigned int  R6n8706ym,long long  Zsp_sTb,int  olAKs,char  Hm8EH3)  {
   return  1645677724;
 }

@@ -11,6 +11,7 @@ short    FX20_Qs4sv(int    GonX2);
 
 unsigned short	k9Twr(unsigned short int	TNz2tv);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   unsigned long long  Q_733,  jI_B;
@@ -581,6 +582,7 @@ jI_B = (unsigned long long)(fonZ7L101 * jI_B);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    FX20_Qs4sv(int    GonX2)
 {
     return    0;

@@ -335,6 +335,7 @@ Om31zrDd ^= 1168623505;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  u_7k5Qdn0(long  w00J,unsigned int  q4HFw_,unsigned int  PJ4pV,long long  Rd_9)
 {
   return  -117458562;

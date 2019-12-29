@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    lW__Kx(short    yL7zZ,unsigned char    J9t56kz,long long    HZenQ,unsigned char    YUxJ,unsigned int    NVzsTe)    {
     return    -1666337264;
 }
@@ -20,6 +21,7 @@ unsigned int    l0z45CLGzc(unsigned short int    il2c,long long    iCVabC9)
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  AiOC(short int  r904h4l5bO,unsigned short int  Td5_,unsigned short  zVnR,unsigned short int  jXJhTEJvl)
 {
   return  334827381;

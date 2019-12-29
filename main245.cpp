@@ -16,6 +16,7 @@ long  W8jP_(char  DkHSNVu,unsigned int  ii02);
 
 long	O234P7z4(unsigned short	IGgMhz0Tr);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   double  lLCj,  p2LE,  YTAK1,  Vu_BtLlH,  rKO64UD0,  uKO8gQS4,  R4gAvTw2_,  lmG_,  XRs_S2EE,  JU8jJ,  Sn9lE0,  VE0tA,  DJ4U87,  Eg_3_,  Gu3_,  fKvV30Zh5,  o17Ya0H,  lc02,  i1m0rmoor,  c141,  Abw7Nb,  N8w5LT,  tG0_,  bGDtR,  q_Abh_qBE,  Anxcrl9yW,  d2H5l,  rI_2eBmC,  M81Y3kI,  TO2VDN0,  P1i6,  nEAC_,  DA_SKg0mA,  qf2_4663,  MT89_42,  kYZh2Zy,  pFC73u94,  r1lF84,  olL70Pdz,  rZuJi_6,  WE__;
@@ -394,6 +395,7 @@ std::cout << W8jP_(1206194941, -1406145573) << obeTZGF << "o65wpmo7" << "Sr0xm" 
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  W8jP_(char  DkHSNVu,unsigned int  ii02)
 {
   return  0;

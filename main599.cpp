@@ -14,6 +14,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char jPYgIj(unsigned int jFxX3_29Ce,int e2_7lK)
 {
  return 1164004144;

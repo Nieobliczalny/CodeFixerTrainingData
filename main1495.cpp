@@ -17,6 +17,7 @@ int  SC9_3(unsigned int  y88mfD5sV,unsigned long  nZliX_n75_,unsigned int  nEqfJ
 
 short int  oK_y_0pcp_();
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   long double  D26D6  =  1806771486;
   int  AIz9W2AO3R  =  0;
@@ -600,6 +601,7 @@ Z3O45O = (int)ceil(D26D6);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  SC9_3(unsigned int  y88mfD5sV,unsigned long  nZliX_n75_,unsigned int  nEqfJV,long long  YUmdu)
 {
   return  1079393055;

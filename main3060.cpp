@@ -229,6 +229,7 @@ std::cout << QA6Nfz << "C1SZNk2" << C25xXF2R0U(-1226479788) << std::endl;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    C25xXF2R0U(short int    x6E4WJ4)    {
     return    0;
 }

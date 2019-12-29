@@ -241,6 +241,7 @@ unsigned char    ZAP3xBWw()    {
     return    425730723;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long p6Lazq7(long long Of2l3_4n7b,unsigned short int AaYNqk)
 {
  return 0;

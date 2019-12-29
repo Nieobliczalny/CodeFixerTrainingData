@@ -769,6 +769,7 @@ N8QS3 = (unsigned long long)(NysPwc);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long YpS0ON3(long long huA14ZK_2,long long qQVaP_,unsigned long GAxR,char VJOL)
 {
  return 0;

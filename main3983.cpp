@@ -21,6 +21,7 @@ unsigned short ldAlE8_()
  return -490409048;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int h5qa(unsigned short int nA5T) {
  return -331166674;
 }

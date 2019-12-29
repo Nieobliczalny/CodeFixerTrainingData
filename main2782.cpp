@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    gKIu_45(unsigned short    K_I7BF,unsigned int    JhPL2v)
 {
     return    0;

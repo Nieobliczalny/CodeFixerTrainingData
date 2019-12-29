@@ -241,6 +241,7 @@ while (i >= 0);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	f0rfjR(unsigned short	dZ_zkD5cD8,long long	OWzA,unsigned long	FbZnGU,unsigned short int	VSQNF3SDVQ,unsigned char	jzHd)	{
 	return	-1874531865;
 }

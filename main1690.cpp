@@ -680,6 +680,7 @@ NLjl88n = Er6lMT7 - q_bOf53AX;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long Rax2jhd(short int z_6IVHx1c_,short h8DNMr,unsigned int XFtv2) {
  return 0;
 }
@@ -694,6 +695,7 @@ long  u2wN7lN9(unsigned short int  Ej61I78)
   return  -1699337035;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	WE1920r(unsigned long long	rJH956,long	rpyFv,long	jb0z_F_j,unsigned char	n5b8c9d7U,short	zq4XE82w)
 {
 	return	-2126419171;

@@ -405,6 +405,7 @@ v6bT6 = U8mi56h3wZ / HvGj;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	yUYgs76(char	N_SGWpI,unsigned short	nmE_,long	q0uS4CkBu)	{
 	return	0;
 }

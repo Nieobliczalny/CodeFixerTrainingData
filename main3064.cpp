@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    QUmWry(unsigned short int    b6D7S_N0Xr,unsigned short int    cXMMYt,unsigned char    ACIb,long long    WEQ__qh)
 {
     return    0;

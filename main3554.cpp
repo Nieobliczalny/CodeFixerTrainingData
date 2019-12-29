@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    CTF0VB(unsigned char    n76INPU8l)    {
     return    852284581;
 }
@@ -25,6 +26,7 @@ unsigned short int	GdeX_()	{
 	return	997097430;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  z9Kb84(long  LfFaIyMhd)  {
   return  0;
 }

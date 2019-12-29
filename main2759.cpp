@@ -12,6 +12,7 @@ unsigned long e5P919i57();
 
 unsigned short int B7I1tX2(int wa11,unsigned long long BE2C,long jvV0);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	long	Gf_31y0L6,	NI90X8VI,	Bcw_f5z5a,	N_FxN5u;
@@ -505,6 +506,7 @@ unsigned long e5P919i57()
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int B7I1tX2(int wa11,unsigned long long BE2C,long jvV0) {
  return 326007419;
 }

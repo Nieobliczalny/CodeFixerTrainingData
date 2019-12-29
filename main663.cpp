@@ -387,6 +387,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short HW5V(unsigned short int s8yk9r5,unsigned char kC4C,unsigned int Grmn3,short int iwSsJNCj,short int xE43B7bfY) {
  return 0;
 }

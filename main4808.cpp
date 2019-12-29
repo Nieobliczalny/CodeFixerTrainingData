@@ -496,6 +496,7 @@ I_BBX0 %= 394109133;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    rClWNt63W(unsigned long long    H8_P65,long long    Rw98a_g,short    Nfr_UC_5e0,unsigned long long    l39_mcl4R,short int    Lm0d8466)
 {
     return    0;

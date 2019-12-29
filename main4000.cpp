@@ -13,6 +13,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int T39CV_384Z(short Kn_tz7y5,long pY0s3Dp,unsigned short int lg_oNb2m) {
  return 1076239787;
 }
@@ -30,6 +31,7 @@ unsigned short	upC8of()	{
 	return	1747600162;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  char u70aQo = -1681231795;

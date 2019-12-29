@@ -916,6 +916,7 @@ bgJM = a8CXati9y | 1059498006;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    W99qy(unsigned short    y6eh)    {
     return    1284898277;
 }
@@ -935,6 +936,7 @@ int	w067d3KFz()
 	return	317228108;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char Z5jqLzIQo_(unsigned short hd68H_FCC,unsigned short int ou223,long z7G5,long or7rJ_T09) {
  return 0;
 }

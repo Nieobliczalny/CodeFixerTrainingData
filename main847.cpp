@@ -18,6 +18,7 @@ char    y01E(unsigned long    O0qQFS8);
 
 long long	n0WuQ(unsigned long	rD7Y242iC);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     float    LpvXK2C    =    1744626505;
     unsigned short    gGWpJ    =    -255834673;
@@ -161,6 +162,7 @@ BVqCDk6 = y01E(-403502428) / LKI_R2d(AWDB468, 637476530, Su9_Qftsg);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  LKI_R2d(unsigned long long  GPjEVX78,unsigned long  j9Rm65_9,long  S6q9Lty)  {
   return  0;
 }

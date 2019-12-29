@@ -13,6 +13,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long UP4BxC(short int boJU3,int SI_f,unsigned long long K732_)
 {
  return 0;

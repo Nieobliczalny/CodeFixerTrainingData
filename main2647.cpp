@@ -11,6 +11,7 @@ unsigned short int  fatJ2e()  {
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    F36g2NRyL(short int    Ro7roX,unsigned long    O1XNjgwTF_,unsigned int    Gt6jtpL,unsigned long long    FUZpT,unsigned int    KSSW662Y)    {
     return    1581921487;
 }

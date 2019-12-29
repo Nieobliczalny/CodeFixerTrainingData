@@ -16,6 +16,7 @@ unsigned short int  hkh97Nl()  {
   return  1021523740;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   unsigned char  rFO5Gu  =  1469888644;
     unsigned short int    q59_    =    -647169887;

@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	XS283q(unsigned long	AkdQ5b)	{
 	return	690210341;
 }
@@ -24,6 +25,7 @@ short Ea05() {
  return -1917391786;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  gqz2HiWGD6(unsigned char  LC4_5JW,char  D69gp32_N)
 {
   return  0;

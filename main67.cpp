@@ -15,6 +15,7 @@ short int    s4cs1()
     return    380391047;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	DmMq(int	ZErI9KyrKC)	{
 	return	516698389;
 }

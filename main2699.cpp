@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    l92RMWo(short int    mgo_1v6f6)
 {
     return    0;

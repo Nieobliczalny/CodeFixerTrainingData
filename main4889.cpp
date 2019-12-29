@@ -17,6 +17,7 @@ unsigned short int A9dNCuBOFv()
  return -2080602934;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	unsigned short int	HT0cCt34	=	-1885974843;
   long long  r44ZIyliWL  =  -1969561667;

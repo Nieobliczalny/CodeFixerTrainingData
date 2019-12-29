@@ -17,6 +17,7 @@ short  ekSTp_23F()
   return  -1139150695;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  HyyVR(unsigned long long  JaCYvL,unsigned short  Y8Zrk,unsigned long  L_rnf24ov_,unsigned short  O6czp8iE)
 {
   return  826222156;
@@ -30,6 +31,7 @@ char	S1Q7aZGT9(long long	Z_eWA9g)	{
 	return	1238469325;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    p16yC(char    miwL,short int    Q376bk8J,long long    q45T,unsigned long long    n9KKF,unsigned char    Q3aJ32)    {
     return    1803683025;
 }

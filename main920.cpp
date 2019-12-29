@@ -17,6 +17,7 @@ unsigned long long	Eqr0ytwK2c(unsigned int	j12c07YM);
 
 int	VcNUtu_vL();
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     short int    tJGp1X_9t;
     tJGp1X_9t    =    0;
@@ -318,6 +319,7 @@ CDon_0Svu++;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    D8IF6(char    ndQ7b768_)    {
     return    0;
 }

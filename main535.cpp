@@ -10,6 +10,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short e46X2(unsigned long long Ku4W,unsigned short zSeivD,short DDqai0,unsigned long long W8Ks4S,short int xp8SE)
 {
  return -162347138;

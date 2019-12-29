@@ -309,6 +309,7 @@ j7_8YA |= kOhaO;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short  tX1_IP(int  hOr0,long long  r82CKgZ47)
 {
   return  0;

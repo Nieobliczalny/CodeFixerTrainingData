@@ -11,6 +11,7 @@
 #define	W4u_lQHS49	(1730303329)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  J14Y(unsigned short int  IT_uD2oKfU,unsigned short  zMQ5mHptm2)
 {
   return  0;
@@ -21,6 +22,7 @@ unsigned char	B9b83Cck(unsigned short	i9i61S8AA)
 	return	1153301041;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	b5_57Nt(short	G4tr1Sl6,unsigned char	Nx0Cs0,short int	mQYAHR5B0,unsigned char	gl7Ya4w2,unsigned short int	Q795lD14)
 {
 	return	-1051971565;

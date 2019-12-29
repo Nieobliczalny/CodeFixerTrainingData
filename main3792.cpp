@@ -106,6 +106,7 @@ S763e5 = 3837850 / It7926T5;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	f2Jt6ka(char	Y6_BO)
 {
 	return	0;

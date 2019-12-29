@@ -12,6 +12,7 @@
 
 unsigned long  S0V9rDeC2(unsigned char  gCf4A4);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     unsigned int    TgZNq6    =    -61893793,    K4e2r4    =    1247138446,    S76gB9    =    1593360711,    MmFlKn_Pn9    =    82773334,    jMLGd    =    1238132774,    RSculP3    =    -1039019423,    aa2K    =    1797740564,    t4_M    =    385282785,    dPCc86    =    470507094,    G5u7q    =    -383684437,    aHIJX94    =    1589711163,    I5o7M_7s12    =    -549853502,    G74_Q    =    932695900,    DRhx27    =    1250935828,    dD7Pr    =    253894184,    jQ__s_4MO3    =    2014394035,    OlTfH    =    2047830855;
  char z6Ud8J9_ = 0;
@@ -906,6 +907,7 @@ while (i < 2);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  S0V9rDeC2(unsigned char  gCf4A4)  {
   return  0;
 }

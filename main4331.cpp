@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	LkyrIK3a(unsigned char	VC1dfb,unsigned int	p36p)	{
 	return	0;
 }

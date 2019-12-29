@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  UotjN(unsigned long long  i0XIJNR4,char  HcRdE,unsigned char  eXeAXnX,unsigned char  n4N7pZ,unsigned short int  XS6j)  {
   return  126435580;
 }
@@ -20,6 +21,7 @@ unsigned long long  HKe_48(int  n3N3,char  vnA1B7i,long long  x01lns8oi7)  {
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  long long aqO27f, l6p_QEt9De;
   aqO27f = l6p_QEt9De = 0;

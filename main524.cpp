@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    npeSgvW(unsigned long long    Ii24tLp,unsigned short int    hzsJ,unsigned short int    HT2m4s3q25,unsigned short    DLc9Ho,unsigned long long    e_L8Kur)
 {
     return    1578737238;

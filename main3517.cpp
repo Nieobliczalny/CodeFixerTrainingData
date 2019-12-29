@@ -16,6 +16,7 @@ unsigned int    YV0779v()    {
     return    1221517082;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	Ul_w(unsigned long long	XeD4prc7x,int	V_ptb8Ii83,short	XhRsk4d,unsigned short	QR3M)
 {
 	return	0;

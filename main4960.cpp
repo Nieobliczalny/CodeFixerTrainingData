@@ -592,6 +592,7 @@ unsigned short int	d2147()
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	b0_71TyD(long	GYlT_fO,char	cest2VkA)	{
 	return	1213830374;
 }

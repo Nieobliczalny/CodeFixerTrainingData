@@ -14,6 +14,7 @@ unsigned char c5iA2k(unsigned short int DV1_8ipi8e,short E_L1ls62,short mJG24,lo
 
 unsigned short  fOi6aU7u(short  yPMrqFI,unsigned char  N61lJ8n);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     unsigned short    ElJCmng    =    0;
@@ -273,6 +274,7 @@ while (i < 8);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int kEi38(unsigned long long V51gK0Em5) {
  return 0;
 }

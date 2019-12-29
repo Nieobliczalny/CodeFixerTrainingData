@@ -9,6 +9,7 @@
 
 unsigned short n9W0T6k(long O71hAE);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   short  WI_tZ2  =  0,  B73W3  =  0,  zoQ6lo4  =  0,  b_8_Sw  =  0,  c6Xeu4QrSX  =  0;
  long long S5jzz6 = -1797822737, Eb7G1 = 1721113161, z67Oj = -1154860242, wZ9TZ = -9419169, X97h0FA_HA = 2108676123, g5_8 = 2033298371, a0hp5JSup = 1736775214, Mr_d7 = -60416937, lP_ad = 1260592479, M7Bdvk3g = 1151027688, rxtPd7rm = -80066001, ab29_H = -353780369, Y83y_o79l = 233476485, nGRY3k7z = 15533655, y8Y_3D6Tcd = 1821359392;
@@ -435,6 +436,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short n9W0T6k(long O71hAE) {
  return 0;
 }

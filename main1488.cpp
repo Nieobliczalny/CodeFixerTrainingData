@@ -9,6 +9,7 @@
 #define	R9FMpl0K	(0)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short  vla3(unsigned int  FbH7,unsigned short  Vn__3K50O,unsigned long  UoZzmcY)  {
   return  0;
 }
@@ -22,6 +23,7 @@ long long  Br7X9_(unsigned short int  Yi6593VU,unsigned int  ficl2,unsigned long
   return  127966704;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     short int    a79O96;

@@ -31,6 +31,7 @@ while (i < 3);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	YQF9Lf(unsigned int	jfGp0,unsigned short int	a7ckrGj22,short	wad0EKSc,long long	i694CS34D9)
 {
 	return	0;

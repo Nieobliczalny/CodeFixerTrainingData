@@ -405,6 +405,7 @@ while (i < 3);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char G01_66tY5(int yOHyi)
 {
  return 0;

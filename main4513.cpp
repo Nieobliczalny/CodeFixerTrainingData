@@ -16,6 +16,7 @@ unsigned char Tebt(char XL8l6_K28);
 
 unsigned long long	d3DA09sWV();
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	short int	gTpO006,	vTUcfQ,	LmNxDeP0,	ByLO70vm9,	yOI_37n;
@@ -310,6 +311,7 @@ NjDZHG4gM = -418850170 / Tebt(vTUcfQ);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char Tebt(char XL8l6_K28)
 {
  return 0;

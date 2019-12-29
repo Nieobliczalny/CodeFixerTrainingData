@@ -14,6 +14,7 @@ unsigned short	MNp32()	{
 	return	-1200172548;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	EtX62(short	LGhX39)	{
 	return	1212126034;
 }

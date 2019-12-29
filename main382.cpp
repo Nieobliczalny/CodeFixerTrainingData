@@ -16,6 +16,7 @@ unsigned char vXMQlKr9(unsigned short int h4ap95ux3,unsigned long long If0i36x24
 
 long	BK0f(unsigned long long	rGM7rr3W,char	YKBJjtJW,unsigned char	mOSWRRa3be,short	fimV2d_,unsigned char	oGZDGO4Rdz);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   unsigned long  YXmUE9x;
@@ -313,6 +314,7 @@ QR9H84A2 = TV76Cx(QR9H84A2, RE43_ZM, pfT_2i2h1t, 1328959578, psqu);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long TV76Cx(unsigned short int JM_lQ4Te,unsigned short ibP3RLF_Uc,long OR9zcN,short int D7rM5X3,unsigned char h6KZZ)
 {
  return -1219633391;
@@ -323,6 +325,7 @@ unsigned short int Ri80hST1f0()
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char vXMQlKr9(unsigned short int h4ap95ux3,unsigned long long If0i36x24Y,unsigned short int gWcWP_C2,unsigned int YU93)
 {
  return -1136513305;

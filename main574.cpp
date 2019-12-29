@@ -10,6 +10,7 @@
 #define  H7Bd  (1001629878)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  zMU_VGG6w(unsigned char  mG9C1,unsigned int  a076,short  x5fBJ2bC09,long long  DHN4_pj1x3)  {
   return  -1011646980;
 }
@@ -23,6 +24,7 @@ unsigned int  RuE1Tr(long long  bgBEIc_z2A,unsigned short int  Ehr3Rx,unsigned l
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    r7uD(long    P1t_qYw,unsigned short    CS3t9,int    p100iAr)
 {
     return    577892139;

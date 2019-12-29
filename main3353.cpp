@@ -16,6 +16,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char ePgEzx(unsigned char chkpuF19P,short int qN2lU1,unsigned long long au41) {
  return 0;
 }

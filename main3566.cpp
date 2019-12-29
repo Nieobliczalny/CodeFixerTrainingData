@@ -15,6 +15,7 @@ short int  aW2K_1hvZ(short int  xV4tk957U,unsigned char  wFm5j,char  ble128E4,in
 
 unsigned long    B_C3(short int    GU_OVa);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  unsigned long long lZkKy_x5 = -11489788;
@@ -611,6 +612,7 @@ i24u9Cjk = (long double)(y06_J);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	vMv2ykF2(short	rqxk5,long long	c0TPfK,long	GKX_5Q1)
 {
 	return	-588115547;
@@ -624,6 +626,7 @@ short int  aW2K_1hvZ(short int  xV4tk957U,unsigned char  wFm5j,char  ble128E4,in
   return  140724646;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    B_C3(short int    GU_OVa)    {
     return    1224901281;
 }

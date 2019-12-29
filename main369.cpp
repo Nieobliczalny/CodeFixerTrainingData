@@ -14,6 +14,7 @@ unsigned short b5f_96VDV(unsigned char x4Iy,unsigned char ywtCsou);
 
 long	NnUDEMzfx(long long	e52zI,unsigned short int	J15s9atIDk,unsigned long long	LRxa593B64,unsigned short int	peJvfz1HZU,short	Q0CmdCg);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   short int  Oo8f23sfv  =  -826490221;
@@ -337,6 +338,7 @@ std::cout << MpSdu << b5f_96VDV(wQ8Eke, WA9D) << b5f_96VDV(wQ8Eke, -988265859) <
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short b5f_96VDV(unsigned char x4Iy,unsigned char ywtCsou) {
  return 239169872;
 }

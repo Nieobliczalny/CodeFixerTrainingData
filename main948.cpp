@@ -14,6 +14,7 @@ using namespace std;
 
 int W0n3Z77(unsigned char B1fze8y,char y1w3Jv7YIj,int GFMaD_zD9E,unsigned short jv_J);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   unsigned long long  l8Ied  =  58436903;
@@ -119,6 +120,7 @@ q_6OsHE4 = W0n3Z77(-333172763, 1961136355, -582663663, q_6OsHE4);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int W0n3Z77(unsigned char B1fze8y,char y1w3Jv7YIj,int GFMaD_zD9E,unsigned short jv_J)
 {
  return 0;

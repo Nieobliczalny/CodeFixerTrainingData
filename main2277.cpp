@@ -249,6 +249,7 @@ while (j >= 0);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    Vrm85UX(long    Aw97Ogbc,unsigned short int    NYA_S9Pyg,unsigned long long    T_vUjE977J,unsigned short    Hk4_k3i,unsigned short    X0cS)
 {
     return    1090767423;
@@ -259,6 +260,7 @@ char	Sc1f4fYm(unsigned long	ADoYX73MH,unsigned int	gQIJfB8Q,char	YViPE45,unsigne
 	return	-37196618;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	wohoo(int	fl31,unsigned long long	J12biKWnO,short	iEfU87,unsigned short	rWJlb1)	{
 	return	0;
 }

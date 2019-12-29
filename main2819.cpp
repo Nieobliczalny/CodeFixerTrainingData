@@ -13,6 +13,7 @@ unsigned long	v3X93G(char	h9f0,unsigned int	YQUZN,unsigned short	ug_gA40hO,unsig
 
 unsigned short int    nIVuK();
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  short Oy1F = -1062711997;
@@ -198,6 +199,7 @@ long long    Y5v0k9()
     return    -811125253;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	v3X93G(char	h9f0,unsigned int	YQUZN,unsigned short	ug_gA40hO,unsigned long	f6bx)
 {
 	return	0;

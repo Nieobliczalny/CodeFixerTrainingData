@@ -870,6 +870,7 @@ unsigned long long	CVt031cg()	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	V396XgJ7E(long	g3zgK,long long	LFh007t0_d,char	v3c_OGj380,unsigned short int	lMsW3H4L,short int	q4FoGYn)	{
 	return	-221974090;
 }

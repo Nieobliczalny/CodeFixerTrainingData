@@ -12,6 +12,7 @@ unsigned short int  igY0()  {
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	int	Z9av6_WhtX,	W4ttS1Me,	s_5_5P4,	eZnr3;
 		Z9av6_WhtX	=	W4ttS1Me	=	s_5_5P4	=	eZnr3	=	0;

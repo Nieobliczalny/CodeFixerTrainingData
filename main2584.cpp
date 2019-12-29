@@ -18,6 +18,7 @@ unsigned short  fyL9AvjS5T(unsigned short  K8F24lg,short int  aGu41Rek,unsigned 
 
 long long Z7_06Rm5lR(unsigned long long Fuj35hc,unsigned char vvRffB);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	unsigned short int	T52b3m7Wy;
 	T52b3m7Wy	=	-1644983463;
@@ -449,6 +450,7 @@ n9qm_GCU_ = (int)ceil(Hz4WaE);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	hTukZ(short	F431)
 {
 	return	-847788051;
@@ -459,6 +461,7 @@ unsigned short  fyL9AvjS5T(unsigned short  K8F24lg,short int  aGu41Rek,unsigned 
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long Z7_06Rm5lR(unsigned long long Fuj35hc,unsigned char vvRffB) {
  return 101228857;
 }

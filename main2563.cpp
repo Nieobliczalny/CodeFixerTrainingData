@@ -15,6 +15,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	MNET6W(long	LPfzVgS)	{
 	return	-1849215537;
 }

@@ -13,6 +13,7 @@ char    LsB63U3R76()
     return    -1824150359;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short E1jMi_(long long erGg,unsigned int XtV7c,unsigned short f8p8lTF,unsigned long AR_hCPc) {
  return 0;
 }

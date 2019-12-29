@@ -104,6 +104,7 @@ TY_8 %= 2145705754;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    C3K069UiS(short int    D157V,long long    KJsw1)    {
     return    1649936629;
 }

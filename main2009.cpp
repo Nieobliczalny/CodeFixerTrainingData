@@ -272,6 +272,7 @@ k706ESk = a8CJI922zt(1200982697, -1962157041, -1279008875);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    WTZxCmL7F(int    TR9N192G,long    ddgDa2QakO,unsigned int    jIIdjN54jv)    {
     return    -2092801195;
 }
@@ -286,6 +287,7 @@ short  a8CJI922zt(unsigned long  q34P5G,long long  yqlZ4L8LW,unsigned short int 
   return  1127072506;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    o0NRo5m8(long long    HU847P,char    ueqI9N626,unsigned short    QU0s,unsigned short    yOEj,short int    pdj5)    {
     return    0;
 }

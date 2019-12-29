@@ -18,6 +18,7 @@ unsigned long  H50veLe(unsigned int  T9RS,long  K6Pz2G);
 
 long    JXSUI(long    Q_82,unsigned short int    PhHd4,long long    qTamQ6,unsigned short    Zj914_9K);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	short int	xH8yg120V	=	-2004416651;
     unsigned long long    pnzB37    =    1341434401;
@@ -232,6 +233,7 @@ if (GIX2 == 0)
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	hQ4g(unsigned char	F163f5K292)
 {
 	return	0;
@@ -242,6 +244,7 @@ long long	o01s8trPI()
 	return	-42287182;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int mabvfJ2q(unsigned long long Vh7W2) {
  return -1125408193;
 }

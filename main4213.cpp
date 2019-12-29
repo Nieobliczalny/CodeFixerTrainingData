@@ -9,6 +9,7 @@
 
 long long	Y0_hs(short int	GaSCd035u);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     short int    D5GTR4js    =    0,    bc9wH655O    =    0;
@@ -413,6 +414,7 @@ m6421H = (unsigned short int)(Ep6M_);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	Y0_hs(short int	GaSCd035u)	{
 	return	0;
 }

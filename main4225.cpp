@@ -17,6 +17,7 @@ using std::floor;
 
 short int o61mMKL(int RGM7sCK,int ji5EQ_qjQN,long long em61ls8l,long long U_154k3,unsigned short BBjG9s697T);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   long  u3PW  =  0;
 	unsigned long long	U_6A	=	-1327053684,	o_ma	=	-729522260,	o2fkja5	=	1616851979,	CwKR9ak	=	15970249,	QqW67	=	-2120528139,	h34IUw	=	-1714497030,	r1_sa9	=	-460965923,	W1HGf	=	1325263385,	QAHJ	=	714650171,	HJu46Ezr	=	561246411,	Zy728x69f	=	-2062245126,	oc_VmM87x3	=	-1506083880,	Z8D1OLMX	=	421680062,	kQ37Chr1J	=	2136906795,	WzW6tZ	=	-645039886,	WO8o64rlGZ	=	-1697443869,	Ut0Wzl	=	576654522,	u5DIC2bD	=	-1793626840,	Ot5oM5l7Pw	=	-677789631,	e1oLS4qZ	=	-2087985126,	JdQ1Z0S2__	=	-53453117,	w4_GuOpyJ_	=	291746751,	t4IyFFjx	=	572775147,	vGu6U	=	406469642,	PvzMoYas	=	531147507,	ntZOVHOh_	=	-287698751,	rM3N	=	-1850623566,	Ih860n	=	399124493,	J3Lyn69	=	-1605046385,	kT5jIH	=	-1316974346,	McAca8d	=	1022562215,	KGrt8ai	=	1362473538,	W9ptNw	=	1886551206,	nTddTU9a	=	49127688,	e_sP_mw4	=	1099841721,	C76R22gK	=	-1544697137,	ws58M	=	-75448228,	x06z1x4	=	1547570946,	h1qMp_	=	-550453633,	Q3Yd	=	-1101085600,	oG518O	=	-1185295161,	Yz040_24	=	-1847164663,	bxbhOTK41_	=	-1943319162,	p5k3hlt4	=	987190685,	D7q0	=	-718918915,	ccR0	=	-1647069984,	rUVr	=	-712896103,	k0rBoFEVD9	=	837774692,	uY607	=	-949465157,	dU66	=	-424494261,	A9W6	=	1946736581,	g3n5F0r	=	-1851976430,	AV11	=	-143652799,	QelF2idKU_	=	1339856940,	c6D27y9	=	1441106285,	at3_8tVJ76	=	-1774837021,	P_h_2TmY	=	-292792304,	nmKmFH	=	-1677075694,	v6u_6os9NO	=	1581805434,	c8SGur	=	1078960706,	n_20kjOD	=	-1444993644,	Y3j6	=	154365486,	FTNz	=	-1332166143;
@@ -686,6 +687,7 @@ i++;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int o61mMKL(int RGM7sCK,int ji5EQ_qjQN,long long em61ls8l,long long U_154k3,unsigned short BBjG9s697T)
 {
  return 0;

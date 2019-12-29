@@ -10,6 +10,7 @@ using namespace std;
 
 short	XT1Is(unsigned short int	nmQZ);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	unsigned short int	uGpG_	=	1884095021;
@@ -150,6 +151,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	XT1Is(unsigned short int	nmQZ)
 {
 	return	0;

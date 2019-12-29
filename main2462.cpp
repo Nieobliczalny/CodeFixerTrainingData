@@ -16,6 +16,7 @@ char  M1BH6z3m(short  PBLnX,unsigned char  XObWc,unsigned long  lQYp,unsigned lo
 
 int AlbADTZ75();
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   unsigned long long  QzxMonehYW  =  -2008518539;
     long    GYvQRVnZkt    =    990484515;
@@ -256,6 +257,7 @@ ZvJ8 = AlbADTZ75();
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  M1BH6z3m(short  PBLnX,unsigned char  XObWc,unsigned long  lQYp,unsigned long long  b_f28umbK,long long  YlVM)  {
   return  1982147219;
 }

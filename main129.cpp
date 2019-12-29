@@ -16,6 +16,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  S47h(short int  n5VPO0rIIv)  {
   return  -312223037;
 }

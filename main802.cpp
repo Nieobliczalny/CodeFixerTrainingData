@@ -10,6 +10,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    Jz_JU0gK8(int    lwV7vNK,short int    FbRF96,unsigned short    U1kH0h8nR,long long    m33J_i7ii)
 {
     return    -1173806071;

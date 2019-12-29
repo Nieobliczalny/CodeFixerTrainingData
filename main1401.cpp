@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    VZ1v(int    pNt0,short    n3NU19mor9,unsigned int    R_yij,char    mQ__Rm2I6,unsigned int    k55vJZ)
 {
     return    808441940;

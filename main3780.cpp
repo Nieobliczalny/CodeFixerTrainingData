@@ -411,6 +411,7 @@ std::cout << Fz4tTT(H39pmE) << y4RFfe791K << a3EAA95 << std::endl;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	RALLX87aW0(int	FF5Q1_s)
 {
 	return	-1730863666;
@@ -425,6 +426,7 @@ unsigned char    HquOnv2()    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    Fz4tTT(unsigned long long    TL8wOS)    {
     return    -2081718785;
 }

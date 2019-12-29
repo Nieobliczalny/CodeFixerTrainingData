@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	Jy_6D23(int	iIz1Xw3jj)
 {
 	return	0;
@@ -22,6 +23,7 @@ unsigned short int	sMW1_()
 	return	-1243565727;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int GSxG7149(short int GM8s36PV)
 {
  return -1091621483;

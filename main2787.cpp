@@ -19,6 +19,7 @@ unsigned long    Jnc4()
     return    -166451557;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	YA4EpPs7(char	c40T13C_,long	ZBSPVl8b3g,unsigned int	pWNaR8,unsigned short int	Y3r4G,unsigned long long	E6MtsL9K8)	{
 	return	0;
 }

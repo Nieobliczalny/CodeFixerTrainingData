@@ -595,6 +595,7 @@ while (i < 9);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	vSkr4rG(short int	O1QQ91or8t,unsigned int	zH1cc448Z,unsigned short	z8EJx_f0F,short	Qu6Ph0_S5)
 {
 	return	0;

@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long GMQUq(unsigned long long X012i,unsigned char Ibsn) {
  return -1550556833;
 }
@@ -21,6 +22,7 @@ short int mM8AD()
  return 1991611956;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    du26_5_B63(unsigned int    B52RrLb,unsigned short    p_1oX6,int    dGi8egcX07)
 {
     return    -1166914213;

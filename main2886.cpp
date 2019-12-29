@@ -13,6 +13,7 @@ unsigned int    H3hc864qe()
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  a6TXe78xj(unsigned char  T20uc6N5)  {
   return  -1993686795;
 }

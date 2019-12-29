@@ -11,6 +11,7 @@
 #define	pynJ	(2038272054)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	kIIU2(short	HJuxZuU,unsigned long long	tht4d61C,short int	Zw4r)
 {
 	return	-2129835889;
@@ -21,6 +22,7 @@ short int    a4_6FIrSLC(unsigned long    Z65RfF57,long    iWlAW0,unsigned int   
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	unsigned short int	fm8M,	b78n3sxjuz,	t_Z6X_7pcE,	P695KGtY6o;

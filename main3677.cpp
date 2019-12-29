@@ -10,6 +10,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long fwG2q2(long long d07x1_)
 {
  return 0;

@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    aoC57W(int    sEu8A0zfL)    {
     return    -1159353755;
 }

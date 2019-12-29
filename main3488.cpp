@@ -371,6 +371,7 @@ cout << Pz7d_2_XL3(K_Cck98YI, ctmaa_, 1513461738, l20Z) << endl;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	Pz7d_2_XL3(unsigned short	r6g5pN6iu,unsigned char	PgyBa9,long long	WXNW27,unsigned long long	G6JTX)
 {
 	return	151519088;
@@ -381,6 +382,7 @@ unsigned short    g4l8IiO(unsigned int    eN1PNL,unsigned long long    vuV6gk,lo
     return    -240868500;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char sxDQ89C58(unsigned int F99H7Ok97_,unsigned long long e8Tg_Hl6,unsigned long z_sIE,int R0f9pDJM7L,long fn5ET)
 {
  return -2047907918;

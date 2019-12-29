@@ -19,6 +19,7 @@ unsigned int kU8c36ok(short int TWfR2w66m,unsigned long Y07__X64su,unsigned shor
 
 unsigned char	p567IMubb8(unsigned long	smGIG6G,unsigned int	q1eZ,short	cwvdqf9Uq_);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	unsigned long	xGv5m4	=	0;
@@ -433,6 +434,7 @@ MJiURd1ri = p18xDm_g << Amdkz;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  X9hW1(unsigned short  Q56O,char  u4z1I)  {
   return  0;
 }
@@ -447,6 +449,7 @@ unsigned int kU8c36ok(short int TWfR2w66m,unsigned long Y07__X64su,unsigned shor
  return 1678196474;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	p567IMubb8(unsigned long	smGIG6G,unsigned int	q1eZ,short	cwvdqf9Uq_)
 {
 	return	-781375930;

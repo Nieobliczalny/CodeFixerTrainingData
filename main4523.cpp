@@ -12,6 +12,7 @@
 #define    R4lC    (-1063647143)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    o7H1(unsigned long    G3a8J1)
 {
     return    -334843433;
@@ -26,6 +27,7 @@ char	oKSBc5Ezp(unsigned char	Oy06)
 	return	-943089110;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char btq3Cg7g(long long w4b_2dnl0,int y7033r32UH,short oTylMSCl,long long hF7cmyW5f)
 {
  return -20714629;

@@ -12,6 +12,7 @@
 #define  vJ8qp1wz  (1000560747)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int Wv091(short l7P5oC_oO,short c5A88We,long OXo4X)
 {
  return -2023919331;
@@ -26,6 +27,7 @@ unsigned char K0_Qg() {
  return -1162470328;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    w474C7(short    cuWBTCmy_)
 {
     return    741136944;

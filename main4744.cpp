@@ -150,6 +150,7 @@ cout << dv7NvSsC_ << endl;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	K5QvWfr(unsigned short int	yd4U_,unsigned char	QA63NT)	{
 	return	0;
 }

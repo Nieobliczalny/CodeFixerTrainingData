@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	V1GVo5csZW(long	F36Rc,unsigned short	bpSj3F219,short	kc4_d0,unsigned long	vj3qo7S,int	F3_2R_fN)
 {
 	return	0;

@@ -11,6 +11,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    ozJY77zKhd(long    sfb1cLvf,short    fXwM4f6,long    ct6R4,char    GgcJ0)    {
     return    1858989125;
 }
@@ -25,6 +26,7 @@ char  HbgDbkc8Nc(long  uD_FBNT,unsigned char  gU8EIYJ7WL,short  Cr23Z)
   return  -1257226108;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  vCMA(int  w23iGWro7)  {
   return  0;
 }

@@ -231,6 +231,7 @@ std::cout << "x34h" << "i4512sX15" << xV6X_ << std::endl;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    g4WVnkZX9(unsigned short int    cd_3uM4qNw,unsigned short int    xplna7L,unsigned long long    leM12N,unsigned short    H2_o7T1x3)
 {
     return    834032643;
@@ -241,6 +242,7 @@ unsigned long	lwuE71(long long	vBuzK4)
 	return	127761376;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	v4ATH4EE(unsigned char	P4c7dlbg,char	ln038jZ,unsigned long	GHHx900r,int	s8_jyy)	{
 	return	-729500099;
 }

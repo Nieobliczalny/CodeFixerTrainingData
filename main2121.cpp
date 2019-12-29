@@ -263,6 +263,7 @@ Tzo399T8I = KpXA_V0(Tzo399T8I, -1338585116, inP2MJF, xfRVI3Gd9);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short KpXA_V0(long Bh89lVGKs,unsigned char B2opadt,int c3367lBX,unsigned short int tqYm0)
 {
  return 1550364539;

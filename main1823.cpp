@@ -15,6 +15,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  sGnX4H6(unsigned char  fe__a435O)
 {
   return  -1536629552;

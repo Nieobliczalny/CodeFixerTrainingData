@@ -14,6 +14,7 @@ using std::floor;
 
 int	hWMlYzg517(unsigned long	QuF53,long long	E8v_8BD);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     long double    E_39l    =    1744356001;
 	unsigned int	UdJy61v9	=	-1315295290;
@@ -686,6 +687,7 @@ std::cout << tpaOSKl << hWMlYzg517(23335990, g5Q8oG) << cBjM << "pC65" << hWMlYz
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	hWMlYzg517(unsigned long	QuF53,long long	E8v_8BD)
 {
 	return	0;

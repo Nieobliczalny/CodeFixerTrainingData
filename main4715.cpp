@@ -326,6 +326,7 @@ hsi3Xx = Tej3y5_121(hsi3Xx);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    rg5Nx5sO(short int    jLO921,long long    dm_oC)    {
     return    -1669572979;
 }
@@ -339,6 +340,7 @@ unsigned char  Tej3y5_121(char  Bo4_0)
   return  -361941249;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    p5JPr9(unsigned long    BGwQUH,short int    t6st3P,short    h4uJ0lZ0tr,unsigned long    H0ED10yCJS)
 {
     return    0;

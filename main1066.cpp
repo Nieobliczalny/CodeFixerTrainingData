@@ -17,6 +17,7 @@ unsigned char    F0Kq5()    {
     return    741500570;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    EaJga(long    tLkfz,unsigned short    INfrcTIa6_)
 {
     return    -1735868924;

@@ -641,6 +641,7 @@ NW0MQPTC_K = (double)(hqs2hh4f1);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  p3XA(int  N2Sz468W9i,char  JXJt,unsigned long long  aG4OXH275)
 {
   return  -798055257;
@@ -655,6 +656,7 @@ unsigned long long  nd25(int  Rrw3,short int  rmLcrD,char  uzYySwzx,unsigned lon
   return  759841881;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    RFA_s(unsigned short    PGK_01g7,unsigned short    tTlUeEd,unsigned short int    I0q8)    {
     return    -1803903153;
 }

@@ -13,6 +13,7 @@ unsigned short int SnYarN3()
  return 2055398253;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    Y591EcM(long long    Sgpcb00,unsigned char    d_FmH00g_,int    UivrpJ1aIW,unsigned short int    gYwQ0_Co)    {
     return    0;
 }

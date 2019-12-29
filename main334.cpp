@@ -77,6 +77,7 @@ zTS2lwBjL = i4Y6_ue(-2056990829, YcvANWI, -926721403, RfR627CVlJ, 1830701717);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    i4Y6_ue(unsigned long    Iqh_J,unsigned short int    WWtGbBNza,unsigned short    aU2v5wg0,unsigned long    DBJuz,short int    ATP39bGY)    {
     return    134313593;
 }

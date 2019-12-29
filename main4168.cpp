@@ -240,6 +240,7 @@ q123L_z = F8RnfPb6I(ZNDwr2);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	F8RnfPb6I(short	hbzst)	{
 	return	0;
 }

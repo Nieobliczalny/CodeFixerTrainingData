@@ -620,6 +620,7 @@ std::cout << "S8sycWkf8Z" << std::endl;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    k7y4E7o(long long    Hl33g5q,short int    zPtjxPY,long    AQ__,long long    kRKLn0Nia3)    {
     return    0;
 }
@@ -633,6 +634,7 @@ unsigned long long	JIZO(unsigned char	dTg2,unsigned char	dymRxiFZm,short int	T1t
 	return	1194478453;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int KRy7(short int DbC1Y8,long long zX4_42H) {
  return 943820000;
 }

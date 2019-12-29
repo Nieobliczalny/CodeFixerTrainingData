@@ -9,6 +9,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  OLy_37Y3(char  zO0Rc78,unsigned int  Yihf_8iU,unsigned long long  Xyohj6Uw5)  {
   return  0;
 }

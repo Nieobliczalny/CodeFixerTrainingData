@@ -12,6 +12,7 @@ unsigned short  E7_fy3wU()
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  char fY_y_S, ryJHBxbl7R;

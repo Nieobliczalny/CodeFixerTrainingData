@@ -20,6 +20,7 @@ unsigned int  hhZd2e()
   return  -424678508;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    K9__v4Dc(unsigned int    W6E021,int    qvWj2jV4f1,unsigned long long    Z8CQW49,int    Fdh30k_eq)    {
     return    1332424792;
 }

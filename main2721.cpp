@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int B6Pb20O72b(char U_f10R,short GC6G8G9q7,long R3GaGfyI6,short c3wbD) {
  return 0;
 }

@@ -784,6 +784,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	P4kTB8(unsigned char	G2mj3,short	x_TBE7u,unsigned short int	TUUP9Pha_w,int	RCC9rWltY,long long	IT900I8_)	{
 	return	0;
 }

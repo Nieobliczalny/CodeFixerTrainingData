@@ -16,6 +16,7 @@ char	rfXz(short	j8C_9X2,long long	Db2COTUiG9,unsigned short int	c3s6,unsigned in
 
 int  hDw_A1l6q(short int  r4loojIL84);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	unsigned long	w_5Dv8;
 	w_5Dv8	=	-658397797;
@@ -507,6 +508,7 @@ std::cout << Q6V5Mi0aj << rfXz(a_UP, AckF, w89c3g6l, WWEiX) << rfXz(791883124, -
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    S1WS_l(unsigned short int    Dj7k22W7)
 {
     return    0;
@@ -517,6 +519,7 @@ long long  Zp8w6ib_2(long long  Xu8FH_I1r0,long  va77,long  Y722hgGZ6,unsigned s
   return  -910943941;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	rfXz(short	j8C_9X2,long long	Db2COTUiG9,unsigned short int	c3s6,unsigned int	IEOgCr5)	{
 	return	55823520;
 }

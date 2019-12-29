@@ -423,6 +423,7 @@ h29tb = (int)abs(KjGY208lY);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short lU43yVlF(short int s3Sp_I6aqk) {
  return 0;
 }
@@ -436,6 +437,7 @@ unsigned char	W1p62j_3(unsigned long long	l_uJ5lKa,unsigned short int	winS,unsig
 	return	1113771760;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	heU8Kk(int	NjYio,short int	SE6R3,unsigned long	mAOXd2BO)	{
 	return	1760688926;
 }

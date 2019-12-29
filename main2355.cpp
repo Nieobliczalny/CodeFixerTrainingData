@@ -9,6 +9,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	short	vTwLyIe5	=	-1608400784;

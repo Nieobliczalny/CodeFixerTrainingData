@@ -12,6 +12,7 @@
 #define	GpD2D8	(336389703)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  L6ceh(long  ap2_AW)
 {
   return  0;

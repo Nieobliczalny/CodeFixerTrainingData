@@ -10,6 +10,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    DLsg4(int    N0whdM0tGW,unsigned long    SW6UK5_iPR,unsigned long    V5YI2)    {
     return    0;
 }

@@ -16,6 +16,7 @@ int    jrXbf4UWM(unsigned long long    yt4s56,unsigned short int    VNZ8,long lo
 
 unsigned char    Q0AU5c(unsigned int    iTi6,int    S28p59WO,unsigned char    gwz_j1,short int    Ob0O0u,unsigned short    yS3X2pjT6);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   unsigned int  COTK7pI24E,  lYYHjZnbpK,  DKsiv,  X34t674Cn8,  ko5f2,  y9x3K,  uWDv_r5P,  R_7YSXj,  Vdo3J,  Cs9Xz,  rm62Gh5r,  KwGyx3Q;
   COTK7pI24E  =  -1226969642;
@@ -582,6 +583,7 @@ cout << "f2rpd" << "WrOb2hK" << COTK7pI24E << endl;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	N43q54xSk(unsigned short	e4ri9,unsigned char	b3BN7)
 {
 	return	1806136759;
@@ -595,6 +597,7 @@ int    jrXbf4UWM(unsigned long long    yt4s56,unsigned short int    VNZ8,long lo
     return    -426920875;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    Q0AU5c(unsigned int    iTi6,int    S28p59WO,unsigned char    gwz_j1,short int    Ob0O0u,unsigned short    yS3X2pjT6)    {
     return    0;
 }

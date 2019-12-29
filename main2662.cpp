@@ -10,6 +10,7 @@ using namespace std;
 
 short int	Hiib(unsigned char	SO14,unsigned int	MAN4,long	lh25M);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  long long iTXe4MV1;
  iTXe4MV1 = -762562562;
@@ -223,6 +224,7 @@ F84_byR = (int)floor(sCW39);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	Hiib(unsigned char	SO14,unsigned int	MAN4,long	lh25M)	{
 	return	0;
 }

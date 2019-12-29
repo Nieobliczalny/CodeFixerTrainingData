@@ -15,6 +15,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  v61F(unsigned int  S_2Zi2,unsigned long long  N4gc5_,char  LVc_fyiA,int  G4XAJMGVK)
 {
   return  -12391216;

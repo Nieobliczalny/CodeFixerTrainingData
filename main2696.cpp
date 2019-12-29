@@ -11,6 +11,7 @@ using namespace std;
 
 unsigned short int    O0kP92_38O(unsigned long    txup1);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	unsigned short int	tzeF6eJJ	=	-1229634774;
     unsigned int    m85cD    =    -335374493;
@@ -354,6 +355,7 @@ UP_ziepQ = EjTE * 57431024;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    O0kP92_38O(unsigned long    txup1)    {
     return    0;
 }

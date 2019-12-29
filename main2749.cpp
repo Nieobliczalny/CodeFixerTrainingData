@@ -16,6 +16,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	dxq3S9WH2V(short int	V_mVZD9j0c)	{
 	return	363092251;
 }

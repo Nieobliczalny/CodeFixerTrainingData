@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  UF6I(short int  X29kksouo,long  x1pzX7I2lW,unsigned int  p_Z6,unsigned short  IHip0VxD0)  {
   return  0;
 }

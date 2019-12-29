@@ -11,6 +11,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  Ui_1_Vh_IG(unsigned short int  f92oN,short int  I2BfZ,long  Fkc8Dm)  {
   return  1771743318;
 }

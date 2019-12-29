@@ -8,6 +8,7 @@
 #define	jWsZb5_k7	(0)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	T99ooxS(unsigned long	Z4___4,int	OfVmgZ_5u)
 {
 	return	0;
@@ -22,6 +23,7 @@ long long	cyX6_6eX()	{
 	return	-971379693;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     unsigned char    JigjM2d    =    -453770566;
  unsigned long WG9_3JJ = -1544011059;

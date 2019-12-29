@@ -352,6 +352,7 @@ cVId23HtiG = r4Yhz(1683979491, -1789125683, 1828747645, 1627617169, 53719842) * 
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    r4Yhz(long long    IooI,unsigned int    YH46_,short int    H_wE,unsigned short    gR7y004,unsigned long    LR10x6F6lq)    {
     return    0;
 }

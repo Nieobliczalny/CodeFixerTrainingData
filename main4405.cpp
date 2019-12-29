@@ -12,6 +12,7 @@
 
 long long    a_CO(short    vkCqiwy,unsigned int    JvV9Ql7QuQ,unsigned long    GY8JVjPrQf,short int    g97aH_M9);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     unsigned short    s1U4wc;
@@ -498,6 +499,7 @@ W1wO6CpQA -= T6m1ceANi9;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    a_CO(short    vkCqiwy,unsigned int    JvV9Ql7QuQ,unsigned long    GY8JVjPrQf,short int    g97aH_M9)    {
     return    0;
 }

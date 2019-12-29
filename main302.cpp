@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long rM98qwa(char fa6S5dp1) {
  return 0;
 }

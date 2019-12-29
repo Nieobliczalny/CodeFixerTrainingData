@@ -15,6 +15,7 @@ unsigned short int zCQZ9W(unsigned int aFp7VS4,long long dzdf8CxK7);
 
 int WKB9vndm_(unsigned int Y8QRZB942,short t5_l,unsigned int DO5sTgEU);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   unsigned short  zgrkc,  c4NA9,  L1M4_k5,  vsPF1,  IiAl4,  r_l7m1kDU,  S28kZ9GL1,  e2lqz3,  Me5r4C,  mG5K5n,  YPi7HK_Qox,  uU1N6O;
@@ -449,6 +450,7 @@ sgZBHY6uF0 = zCQZ9W(-1883815819, 1092617755);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int zCQZ9W(unsigned int aFp7VS4,long long dzdf8CxK7)
 {
  return 0;

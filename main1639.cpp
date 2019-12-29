@@ -14,6 +14,7 @@ unsigned char    AUDoSU4()
     return    -232563340;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    L1FWPU73(unsigned short int    Ty2CZUOB,unsigned short    YT61F)
 {
     return    0;

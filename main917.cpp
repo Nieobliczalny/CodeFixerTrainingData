@@ -415,6 +415,7 @@ BHRhoFi = (int)abs(AW661);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    EhB3X6uwD(unsigned short    oZg5)
 {
     return    -1663336658;

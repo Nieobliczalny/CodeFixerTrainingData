@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    g3n7m(char    fd_k6dOk,char    xeYVVA,short int    tzQ4iCLm)    {
     return    0;
 }

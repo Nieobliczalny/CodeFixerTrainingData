@@ -474,6 +474,7 @@ j25X6k_ *= uBPd9A6;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int ddNeq4TI(unsigned short biVd,unsigned int EpcX_M)
 {
  return 0;

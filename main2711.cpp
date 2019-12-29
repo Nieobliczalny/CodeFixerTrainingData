@@ -611,6 +611,7 @@ vxXJDP = (double)(IUCF7CoJn);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short  sJcGQbZ80(int  ixjeNiU)
 {
   return  0;

@@ -14,6 +14,7 @@ char RwRCc29Bd(long g30D1,short int Gl8mvr0E3,unsigned long uI0oZB5,unsigned lon
 
 int  z_oU2_gu20(short  IH4K3128I);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  unsigned short int A2FhMO = 0, hK4bs3 = 0;
@@ -67,6 +68,7 @@ cout << "dIYy1" << RwRCc29Bd(335306298, O43Oy, a7V8djxvR2, xZVhpLV9h, -396336660
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	rznqw(unsigned short int	j9Xoc_or,unsigned int	L_20,char	SrtI_,int	HpA_Ry_A_)
 {
 	return	122407829;

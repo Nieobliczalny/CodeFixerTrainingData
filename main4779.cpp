@@ -96,6 +96,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char vPBCJt(short int yerZM03,unsigned long long I4_h1p,char Ym0So4,unsigned long kQ_dvVdS5y,long x503) {
  return 0;
 }

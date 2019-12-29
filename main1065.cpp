@@ -698,6 +698,7 @@ std::cout << "me8cO" << ezNt9nW1(WrX6K7PVB0, 1365176670, z2exOA) << "p2n3" << "u
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int ezNt9nW1(unsigned int ng53,unsigned int SKr8Cx7,short AjNEjh)
 {
  return 913932636;

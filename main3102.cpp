@@ -10,6 +10,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	FGcqHt730(unsigned long long	ZeuHS,long	AThf92,unsigned long long	cgqTt8,unsigned short int	G2wf9n)	{
 	return	0;
 }

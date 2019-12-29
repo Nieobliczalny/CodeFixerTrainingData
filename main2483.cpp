@@ -678,6 +678,7 @@ zj8wa7HqV <<= QrG8;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char Zz2suu9(unsigned short int n87MAl_,unsigned int uTfA2Q5R,unsigned int UOCag)
 {
  return 0;

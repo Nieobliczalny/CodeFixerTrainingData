@@ -450,6 +450,7 @@ r_1F = (unsigned char)(m050Q_ierU);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char sCysO3AlB(short int cri2ps,unsigned char X3vR3__d,unsigned long long sm1SjmC) {
  return 0;
 }

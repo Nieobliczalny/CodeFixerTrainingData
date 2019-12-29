@@ -18,6 +18,7 @@ int GZ3vR(int vDKV,long long Dg5CZ1s,unsigned short xiLb4DX9xk,unsigned short in
 
 unsigned short CNUh(unsigned char ZUZk8,unsigned long long CXoOlq_ra,unsigned int Uzxo67mWz,unsigned short Y0CYQZviQV);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  short int vI7h5l2_HX = 121934993;
 	short	aBfBD	=	1848922178;
@@ -250,6 +251,7 @@ la9437Dp9 = (int)ceil(X6Za64k);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  FBQDB10_(short  LLAh,unsigned char  ybvwruJQzZ,short  FhBu2huAy)  {
   return  -1225927003;
 }

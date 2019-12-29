@@ -16,6 +16,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  sV5Gx58_r1(short  Dij_b3Ts,short int  TxM5Lh23d,unsigned short int  Q_kTmAuod)
 {
   return  -1943233190;

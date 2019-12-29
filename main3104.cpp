@@ -523,6 +523,7 @@ YXBtcr0 = o2n0(YXBtcr0);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char JMRot5(long long d5vF62_3v,unsigned int HM6fxg_TD)
 {
  return 0;
@@ -533,6 +534,7 @@ int St741o1Y0()
  return -941593372;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  o2n0(unsigned long long  SrWXwk_3)
 {
   return  2080777501;

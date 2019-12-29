@@ -493,6 +493,7 @@ bCI_ = GypNGiUCvy(bCI_, -543881155, URzpmttz);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    G2KDC7(int    T4t2O,unsigned char    KjwK55SX01,short int    jtlEc,long long    lflwyuKx)    {
     return    -804599318;
 }
@@ -505,6 +506,7 @@ unsigned short    CoAoe6U21O(long long    J1vcxy8_Q,unsigned short int    lu1qO)
     return    1147833522;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    GypNGiUCvy(unsigned int    ZIr9Qx2D,long long    yDI_,unsigned short int    N_2kfg)    {
     return    -377607633;
 }

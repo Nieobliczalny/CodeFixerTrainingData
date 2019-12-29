@@ -10,6 +10,7 @@
 #define  BbVDh  (0)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	iDZbm04C(short int	a0q58B396,short int	n_7_hI5a,unsigned long long	chw812TOzS)	{
 	return	0;
 }

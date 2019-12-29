@@ -17,6 +17,7 @@ unsigned long long    yC4lv9y()
     return    713252792;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  F5fT_vFUV(short  qm4DD834,unsigned long  P8UE1j,unsigned long long  lfJfF0_zaV,long  mbx08uJ1Y)
 {
   return  589669625;
@@ -31,6 +32,7 @@ short nxa3vz() {
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   short  rU906;
   rU906  =  -2026134576;

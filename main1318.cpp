@@ -16,6 +16,7 @@ unsigned short p_Aa90578(unsigned char jz_Q,char GYmI8Avm3,long Q9KcW7li,unsigne
 
 unsigned long	Z_5F1stW(long long	d2YYX_2ZD4,unsigned char	Z84AF7h8N6);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  unsigned short int AJ9P8l38;
@@ -1161,6 +1162,7 @@ std::cout << p_Aa90578(GxEiKe, A_QMTX2, -547111303, -2030872186) << "tSHPf" << s
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  TSAx622a1(unsigned char  R9Q_blE)  {
   return  -649618328;
 }

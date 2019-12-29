@@ -655,6 +655,7 @@ unsigned char	g70jh3qoka()
 	return	483524408;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    cw04Qj1(unsigned int    z1hr)
 {
     return    -546240732;

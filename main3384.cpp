@@ -532,6 +532,7 @@ char  yokfo0S()
   return  -1594743885;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long O1hC_Hv(short int FWzw5we,unsigned char fL5Em8zQX2)
 {
  return 0;

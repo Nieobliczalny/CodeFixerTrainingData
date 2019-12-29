@@ -508,6 +508,7 @@ cout << Bx7z1(v7864r4o6, tdv248v95, 584799446) << l_ieEc9 << Bx7z1(v7864r4o6, 99
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  Bx7z1(char  o3HfoN,long  l1Tgs,long  TTtJrG)  {
   return  0;
 }

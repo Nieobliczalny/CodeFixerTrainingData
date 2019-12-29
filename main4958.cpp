@@ -9,6 +9,7 @@
 
 short  u4kyd_(long long  pm2beF,int  d91y2zgBZ,int  Hwp3qL1_cF,long  u5n7e);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   long  IoW_921  =  1047514384;
@@ -448,6 +449,7 @@ b_o3E = u4kyd_(-2094729496, -868981945, 1299150133, -1091605681);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short  u4kyd_(long long  pm2beF,int  d91y2zgBZ,int  Hwp3qL1_cF,long  u5n7e)  {
   return  0;
 }

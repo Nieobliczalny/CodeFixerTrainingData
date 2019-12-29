@@ -16,6 +16,7 @@ unsigned long long    Fw2anx(int    Cgq5_a);
 
 unsigned short  c1W8();
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  long w0z2s;
@@ -296,6 +297,7 @@ sT8959ge0--;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    N9_0f(unsigned char    r72AR,short int    m9n5ef6So,unsigned long    J9_CL5z_8)    {
     return    -1195507353;
 }

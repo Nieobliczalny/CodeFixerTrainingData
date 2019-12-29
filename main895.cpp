@@ -12,6 +12,7 @@ unsigned short int  h4Mm(long long  Mk1_,unsigned char  l2C4u96,unsigned long  d
 
 unsigned int    Yq4r0Qbb4();
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     unsigned short int    M59ki8v;
     M59ki8v    =    0;
@@ -535,6 +536,7 @@ while (i >= 0);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  h4Mm(long long  Mk1_,unsigned char  l2C4u96,unsigned long  ds7_4o,char  gh8iF86,unsigned int  mJ_F4kQhF)  {
   return  0;
 }

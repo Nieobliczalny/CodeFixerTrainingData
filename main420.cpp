@@ -13,6 +13,7 @@ long Iu5la7Ws(char H0u_,long long zPman2QRSj,long B1dFP,unsigned int l0dZ_nOe9);
 
 short  dd13(unsigned int  R5vQ);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	double	CQUYoVr74h	=	1726775099;
@@ -316,6 +317,7 @@ std::cout << espO6AuHyr << tJ_3J9D << "x8vdNm3" << xQYV(AlR8w) << "tcf7wlwP" << 
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    xQYV(unsigned int    eAP44)
 {
     return    0;
@@ -326,6 +328,7 @@ long Iu5la7Ws(char H0u_,long long zPman2QRSj,long B1dFP,unsigned int l0dZ_nOe9)
  return 971544593;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short  dd13(unsigned int  R5vQ)
 {
   return  -1496183307;

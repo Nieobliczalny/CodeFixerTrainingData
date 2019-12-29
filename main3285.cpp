@@ -12,6 +12,7 @@
 #define    QTiWEJx_XN    (-542707009)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    l5NHyC5i(unsigned short    YeY_YxleU)    {
     return    0;
 }

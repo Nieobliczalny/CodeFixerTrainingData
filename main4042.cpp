@@ -18,6 +18,7 @@ unsigned int  s60ay3(long  V6r81);
 
 short Wrg89q8_S();
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  unsigned long long o9ifaB3J, U_EdY, yD1N8047aP;
   o9ifaB3J = U_EdY = yD1N8047aP = 0;
@@ -664,6 +665,7 @@ while (i < 1);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    R02mS1_B3(char    ctgyh3MmR1,unsigned char    ZTy7E5W2F,short    ehCTUn8Mp)    {
     return    640357800;
 }
@@ -678,6 +680,7 @@ unsigned int	ue63(char	Kbh3BpyMN6,short	lKbeK,int	ZTrx3aN93)
 	return	526001816;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  s60ay3(long  V6r81)  {
   return  737825802;
 }

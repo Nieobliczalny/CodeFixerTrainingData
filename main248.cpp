@@ -308,6 +308,7 @@ V_S82cr *= 431629801;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char Z__4vjxX8c(unsigned short int Yz0UN,unsigned long ewS6a,unsigned int JR71mBy,int OjSc_9y,long WkEFd)
 {
  return 0;

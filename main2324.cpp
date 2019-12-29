@@ -743,6 +743,7 @@ unsigned char  te7W6q7()
   return  -1134659360;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    ntLI1HJ(short    uXU1S,unsigned long long    Sw8_h3iLeo,unsigned long    g9i4,unsigned short    aPTNv9)    {
     return    0;
 }

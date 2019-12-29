@@ -16,6 +16,7 @@ long    dY52yx8()    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    tCiU3QM(short int    ak45zpRV,unsigned short    LLk_8,unsigned char    pTb0_86b,unsigned long    eKRZ_La0)
 {
     return    -1947473829;
@@ -26,6 +27,7 @@ unsigned char  z2L620()
   return  -84996318;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	short	A9G8j1A1G_,	IMk9O9L4S;
 	A9G8j1A1G_	=	0;

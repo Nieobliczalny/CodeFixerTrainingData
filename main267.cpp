@@ -17,6 +17,7 @@ int    ivhmemha_()
     return    1915665430;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    WM5M9HiZu(short    XcW05e)    {
     return    186916490;
 }

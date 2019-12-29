@@ -13,6 +13,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int bx8i9lem25(unsigned char L13HF7Ver,char VW4B9N,long j4t8) {
  return 0;
 }

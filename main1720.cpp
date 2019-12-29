@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	yA3_9Gzn(int	o_067,long	yPY_S2_5,unsigned long long	AKle)
 {
 	return	0;

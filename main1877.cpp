@@ -538,6 +538,7 @@ char IdOZg44zh()
  return -41372463;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long d1h9(unsigned char pg32MYrW)
 {
  return 0;

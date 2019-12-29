@@ -10,6 +10,7 @@
 #define fGhCY3 (0)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  U0v0(unsigned int  Eym9zOlcsB,short int  IFiW892qc,unsigned int  eW8E7oM,unsigned char  D1oPsL,char  JHIf1)  {
   return  -1518918835;
 }
@@ -22,6 +23,7 @@ long	M_mFuL(short	cTEQ,short int	j4F6_04,unsigned long	t9PV9gp,unsigned short	g7
 	return	1689395437;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    H1UI4_(long long    PAWGy_7R,int    w8t8,long long    UiPeG_35f0,unsigned long    p8jMla_)    {
     return    -1069166527;
 }

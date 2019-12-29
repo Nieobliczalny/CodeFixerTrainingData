@@ -349,6 +349,7 @@ if (T16Gb == 0)
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short  c6THq48(unsigned int  W7z3l4Oz,short  A528VD_Z,char  F7G3,unsigned short  g8lKw__o7h)  {
   return  -803357454;
 }

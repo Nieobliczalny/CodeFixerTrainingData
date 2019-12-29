@@ -12,6 +12,7 @@ char	DuT68O84f8()
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  RjlU1095(int  esBwUOyX,unsigned long long  H4cpnE0ALr,short  ifLCZbJ7,unsigned long  d903Bj,long long  l9u_Pib)
 {
   return  1144590592;

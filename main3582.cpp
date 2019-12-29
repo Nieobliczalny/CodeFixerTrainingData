@@ -10,6 +10,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	gq22(unsigned short	p49F2N8)
 {
 	return	-1999596220;

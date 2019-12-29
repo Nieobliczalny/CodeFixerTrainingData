@@ -82,6 +82,7 @@ std::cout << Kli9cRqBK_ << ZY2W << ho3R6mCW << GFn_2t() << std::endl;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	h23RigA_(long	qs9mL4579)
 {
 	return	2009464702;
@@ -96,6 +97,7 @@ char GFn_2t()
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long G062uhuyw(unsigned short int rQkk4,unsigned long long Aa9ZjjEo5L) {
  return 416730719;
 }

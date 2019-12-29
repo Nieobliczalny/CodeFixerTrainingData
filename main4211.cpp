@@ -18,6 +18,7 @@ unsigned long rW65Qe(short int mW6p5E,unsigned short int SrW2znp8,int omuFFjQ87)
 
 char    VwAj0O_(unsigned char    T37E3HbjG);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     long    R8f9Dx8l,    d1F5;
     R8f9Dx8l    =    0;
@@ -366,6 +367,7 @@ while (i >= 0);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  y5Z1m54(long long  z3Ay90qJMY)  {
   return  -658005954;
 }

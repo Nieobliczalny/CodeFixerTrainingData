@@ -342,6 +342,7 @@ mzZm1p0366 = u0575Pq4k7(88918669, Nx1v51M8U, E7tt95pX9) / o21R;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  u0575Pq4k7(unsigned long  W_3G90R_,long long  fSfd,short  n28c8)
 {
   return  2130124608;
@@ -356,6 +357,7 @@ short ruLXX7() {
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	fN9S(unsigned long	RC_8igW,int	zjYIAL2BXC)	{
 	return	-752426048;
 }

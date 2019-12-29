@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	L5HuLg8(int	hX4L,long long	sEVK0s7xN)	{
 	return	0;
 }

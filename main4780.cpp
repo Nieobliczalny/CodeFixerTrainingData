@@ -16,6 +16,7 @@ unsigned char    CXqij7955(char    TBVax3o6,unsigned long long    SaMJHR,long lo
 
 short int	P830GW4276();
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   unsigned short  IS38  =  1511329330;
@@ -507,6 +508,7 @@ u_UJ_y6FeN -= qWyM;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    lX_n2(unsigned short    Ld0Yu_88)
 {
     return    0;

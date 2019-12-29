@@ -618,6 +618,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short  d1twPl6t(unsigned short int  KCSubc5s5,unsigned short  bbDHj_,unsigned int  KY9ap5P1l3,unsigned long  hKl67rC3,unsigned short int  Vs2t_xfuO)  {
   return  0;
 }

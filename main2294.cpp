@@ -417,6 +417,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  vzA81r15s_(char  Uo_q552uI,char  n4uIk8h6,unsigned char  ED6yqt46,short int  o8RS,unsigned short int  oO5Y6e)  {
   return  -1183442371;
 }

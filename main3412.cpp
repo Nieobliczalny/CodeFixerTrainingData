@@ -532,6 +532,7 @@ unsigned long	MxsrJ7()	{
 	return	-1678433938;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    x3cwhUuO(unsigned char    DE_W)    {
     return    1960526972;
 }

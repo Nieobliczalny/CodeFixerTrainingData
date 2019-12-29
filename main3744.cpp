@@ -396,6 +396,7 @@ PEL5 = KXN6G(PEL5, wi3p4NSXL8, Ct6xa9IK_y);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	KXN6G(unsigned char	Dow1uj,unsigned long long	KhmZu,unsigned char	TGVV4qpuN)
 {
 	return	0;

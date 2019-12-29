@@ -10,6 +10,7 @@ using namespace std;
 
 unsigned int    NBf6G(long long    n03DhOfaP,int    QQH9q5c_);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	unsigned long long	F_IdA59;
@@ -477,6 +478,7 @@ xbcqd4s--;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    NBf6G(long long    n03DhOfaP,int    QQH9q5c_)
 {
     return    0;

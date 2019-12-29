@@ -12,6 +12,7 @@ unsigned char  jbY5_(char  dE_LC,unsigned char  caQUVE14F,unsigned long long  Nm
 
 int  q9Y5dp1255();
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	long long	wubQCK;
@@ -308,6 +309,7 @@ qSk761K = jbY5_(-195559304, Bea7HH9Nf9, fLiGuYL);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  jbY5_(char  dE_LC,unsigned char  caQUVE14F,unsigned long long  NmS4cur)  {
   return  0;
 }

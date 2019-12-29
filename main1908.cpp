@@ -463,6 +463,7 @@ FnRaZ = (short int)(NwmF8550R);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	Yq0_(unsigned short	K3ix09,int	A3KIBzgT3,unsigned short	nE9Fnv)
 {
 	return	-51081126;

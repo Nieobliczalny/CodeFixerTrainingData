@@ -14,6 +14,7 @@ char    Gg8d8()
     return    -1696130143;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    rwW3(char    l6q4Me)
 {
     return    0;

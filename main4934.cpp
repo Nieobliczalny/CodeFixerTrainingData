@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  S8h8(unsigned char  c8Rf42PUT)  {
   return  1824981317;
 }
@@ -21,6 +22,7 @@ unsigned int wGSRTZ(unsigned long Rp4mm_2jKO)
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  qPVMLATD(unsigned int  l5bBX0)
 {
   return  -2024932376;

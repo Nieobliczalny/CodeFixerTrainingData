@@ -13,6 +13,7 @@ int  F516bocO4(char  X405HZ3ye6,unsigned long  q_x1O5J);
 
 unsigned long PW0MLOumB(short G1c_,unsigned int BCP_2e);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	long	mFLSlh30q;
 		mFLSlh30q	=	0;
@@ -252,6 +253,7 @@ fw4g4 = (int)abs(vH6Y5);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	Ml_Mzq0Sd5(unsigned char	u03tG7Wa7,unsigned int	R8SL5SOLhe,unsigned int	FBig,long	jGcB7Sff9,short int	t171WT0Ah)
 {
 	return	-39705241;

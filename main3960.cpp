@@ -338,6 +338,7 @@ KyitG9 = mFAISs88jT(1624162404, bIX15xBI2, ViAB9d);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    mFAISs88jT(unsigned long long    n9bmi,int    b7rr,unsigned short int    MwUYcu8Qp)
 {
     return    1532804521;

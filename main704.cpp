@@ -284,6 +284,7 @@ unsigned int  h1V8()
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  ziLqBigr(short  z4635_I3,unsigned short int  h1vxZ7Cl,unsigned long  Nr34,unsigned long  Q01X_e)  {
   return  -1733459960;
 }

@@ -102,6 +102,7 @@ N44XA = (unsigned int)(g3J7J62e8P + (1334746793));
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    S222O5(int    MngA4jY_,long    mF8liF,long long    EkWBW,unsigned short int    FMs080)    {
     return    -30754627;
 }
@@ -115,6 +116,7 @@ unsigned long long  QB_5PTB(short int  ZZsZvy)
   return  -57470220;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int PxyY(int jEu_FuI8,long iF0iN6e4,unsigned long long jzgM9imWO)
 {
  return 0;

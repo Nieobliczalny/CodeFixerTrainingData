@@ -14,6 +14,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	o27g35V(unsigned short	tzDC3B1,unsigned int	DHdpPCf5)
 {
 	return	0;

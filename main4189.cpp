@@ -908,6 +908,7 @@ unsigned short int nz18bRH5Aa()
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  Ix3c(short int  ZKDy7H)  {
   return  767159746;
 }

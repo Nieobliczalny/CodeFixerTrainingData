@@ -227,6 +227,7 @@ zjAxz8962 = (int)floor(yVTW4V);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int Wt_m(char ceiRdYBQ)
 {
  return 122649425;

@@ -19,6 +19,7 @@ unsigned long long    nXo995();
 
 unsigned short int  NbQuIyAnf(long long  HLt05msv9,short int  BfUF);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   long  HXe49_,  Z627aoK,  jHG_XrJ,  pno4Y,  FbJwaB,  U14zR96,  KPRumHH,  Sz_r,  WFOp1B5I2t,  h7UV_l8__R,  UzbCfp,  fcO9P,  JR0Nf,  x7KduH,  snt6G6YlIn,  m5_Y,  b5s2,  r3Diz9,  cu21Hb3YX,  W29_6f;
@@ -721,6 +722,7 @@ long    f13N222()    {
     return    -165020138;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	M15L9(unsigned short	ELzx)
 {
 	return	1235370333;
@@ -731,6 +733,7 @@ unsigned long long    nXo995()
     return    -431371567;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  NbQuIyAnf(long long  HLt05msv9,short int  BfUF)
 {
   return  0;

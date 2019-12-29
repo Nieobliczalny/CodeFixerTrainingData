@@ -10,6 +10,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short Dmr9fa(unsigned long long fdo_,unsigned short nH33J,unsigned char ayWJT2JR,short FokHg) {
  return 0;
 }

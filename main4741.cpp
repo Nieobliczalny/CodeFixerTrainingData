@@ -615,6 +615,7 @@ po9Iut = (unsigned short)(oWzrlm);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	l6I1zr9A5h(short int	CC6g,int	WfIFiu4j)	{
 	return	-1370177237;
 }

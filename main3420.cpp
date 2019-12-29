@@ -196,6 +196,7 @@ short int    Mnje7CJ()
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    dR_zpZ907(unsigned short int    b_Lel907,char    B_ljbdA7Jg,char    WJm6x)    {
     return    1624997021;
 }

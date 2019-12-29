@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short WjMQL8(long TdUCq,unsigned long ftrhUP,short int X0ckiu5k) {
  return 0;
 }

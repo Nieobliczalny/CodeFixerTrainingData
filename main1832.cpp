@@ -14,6 +14,7 @@ short int    Vv_Qr94();
 
 unsigned short Dt4U(unsigned char S5v85uw,unsigned char O1jO6qI4x,unsigned long cN5Xh_0f0);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  unsigned long N8002p5 = -991881583;
@@ -299,6 +300,7 @@ short int    Vv_Qr94()
     return    1739372656;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short Dt4U(unsigned char S5v85uw,unsigned char O1jO6qI4x,unsigned long cN5Xh_0f0)
 {
  return 0;

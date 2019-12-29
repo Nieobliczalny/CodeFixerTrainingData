@@ -11,6 +11,7 @@ unsigned long    IgOCz5j(unsigned char    Iv29,unsigned short int    JV3cJx,long
 
 short    Isp0yF4_U();
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  unsigned long long hw3U256D = -1155785619;
  unsigned long long C5n29N8Pk = -1167740137;
@@ -204,6 +205,7 @@ zOqIzQNQ7w = (int)abs(fW_m);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    IgOCz5j(unsigned char    Iv29,unsigned short int    JV3cJx,long    NuJh_mOW6,long long    kbzWg87)    {
     return    0;
 }

@@ -377,6 +377,7 @@ unsigned short int	Jle_l6iu0l()
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    MaIpvb2(unsigned long long    I96V,unsigned short    MeQ8Y_1n,unsigned short    At9vMY30,long long    HUAT,unsigned short    XAaxthl)    {
     return    -1725834119;
 }

@@ -21,6 +21,7 @@ short int vSr3M_zrAI()
  return -1324319873;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	g10g_S_(short int	mJHHH2I9m,unsigned int	xk_2bGF,unsigned long	fS14e0,unsigned short int	quSbvDo34_,long long	E3cYF)
 {
 	return	0;

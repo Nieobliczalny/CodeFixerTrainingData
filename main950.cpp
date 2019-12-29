@@ -181,6 +181,7 @@ short    Q2bdWT()
     return    -1183222832;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    Xtuf0Q9(short    X3re,short int    y7902Ta8_,unsigned short int    UH917KAf5,short    s2gJXoTuW)    {
     return    0;
 }

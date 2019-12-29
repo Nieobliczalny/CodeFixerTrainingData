@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  Sn41(unsigned short int  Cm1x0igu)
 {
   return  571650517;
@@ -22,6 +23,7 @@ char XD5KSDO() {
  return -1002970824;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  U5eSos02XE(unsigned long  uZ3ua)
 {
   return  957548567;

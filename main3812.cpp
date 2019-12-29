@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    LA9S_THjh(unsigned char    cDC7D,unsigned long long    lJ20,short    B5nvZ393b6,short    ycdg8m96,long    OASHp313D1)
 {
     return    0;

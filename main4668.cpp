@@ -14,6 +14,7 @@ using namespace std;
 
 unsigned int uJmdLmE(int f522zLZJa,char nwWT_mF5,long MY2_HSR7f);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   short int  r7W4mQ;
@@ -741,6 +742,7 @@ tyDj6 >>= JwF5M1;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int uJmdLmE(int f522zLZJa,char nwWT_mF5,long MY2_HSR7f) {
  return 0;
 }

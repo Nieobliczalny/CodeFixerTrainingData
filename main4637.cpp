@@ -22,6 +22,7 @@ unsigned long long    N557W7t_E2(int    nnr1Q4Ut,char    jLCHDM5U1,unsigned long
 
 short int A1p04XQ_D(short K4BU7ajc);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	long long	oj6ZYsfgA_;
@@ -643,6 +644,7 @@ unsigned short	b_eI_()
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    N557W7t_E2(int    nnr1Q4Ut,char    jLCHDM5U1,unsigned long long    jm2Fr,char    Sb6AM1sq,short int    ye31N)    {
     return    283994613;
 }

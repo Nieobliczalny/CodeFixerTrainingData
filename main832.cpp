@@ -9,6 +9,7 @@
 
 unsigned long L3wSEryKKC(unsigned long Z836z4I,long o7_g0GYUj,unsigned int dZgDC,short Qu_hoX,long long vzPW9N_N2);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   unsigned char  Hv0J  =  -463217558;
  unsigned long long hgBrUyLt = 942669741;
@@ -631,6 +632,7 @@ Wt0qYxf = (int)ceil(h__JW);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long L3wSEryKKC(unsigned long Z836z4I,long o7_g0GYUj,unsigned int dZgDC,short Qu_hoX,long long vzPW9N_N2) {
  return 0;
 }

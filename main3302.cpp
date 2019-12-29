@@ -11,6 +11,7 @@ long long    yoZsIq3R4(short int    U6l0,short    hFo1,unsigned int    H4Et5_C4,
 
 char    Gm66Z0Tw6(unsigned int    jgeQ1_w02,char    fG39w8,unsigned char    n6KO3d26);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     double    jBxM5MND;
@@ -202,6 +203,7 @@ VXoqh = (int)floor(I8xz__35_9);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    yoZsIq3R4(short int    U6l0,short    hFo1,unsigned int    H4Et5_C4,long long    hljp)    {
     return    0;
 }

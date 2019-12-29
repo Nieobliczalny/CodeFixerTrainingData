@@ -11,6 +11,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  Nm1Y(short int  Uo8M6,int  YCFp0Esc_4,unsigned char  MnEW6,unsigned int  TT18C8xM82,unsigned short int  mTqSL)  {
   return  -1230808117;
 }
@@ -24,6 +25,7 @@ unsigned int F6K3_ZB7Q0(short int KV7afh7Ue9) {
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   short int  k54_aN  =  1587962878;

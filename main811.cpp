@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	Fc0b(short	G2sr5V7A8,short	t7YXha1,short	dFCH)	{
 	return	-677368966;
 }
@@ -30,6 +31,7 @@ char  Xwwf21_20()  {
   return  583634304;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	sDnmt(unsigned char	eTSrg)	{
 	return	1797607777;
 }

@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long GD67(unsigned short int s8w3chVlTe,unsigned long Q_pn_kzL3,unsigned short int hI_Xf_S1,int QC1PO_7QF9,unsigned short int CB860Wu5J9) {
  return 0;
 }

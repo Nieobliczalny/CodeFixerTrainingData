@@ -266,6 +266,7 @@ short jkzX_3()
  return -321750181;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    YIB7kesc_(unsigned long    RIlgd1)    {
     return    0;
 }

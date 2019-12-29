@@ -416,6 +416,7 @@ char Kb_401Z() {
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    f6pLe(long    nGh71,short int    D46Et69bT,unsigned long    AjuU,unsigned short    tC2Be0tA)
 {
     return    -36258027;

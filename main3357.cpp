@@ -17,6 +17,7 @@ using std::floor;
 
 long long	a7np7Y7(long long	V0y0O,char	oO_6Xvt5B);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     short    u2ZN_vC2;
     u2ZN_vC2    =    0;
@@ -474,6 +475,7 @@ while (i >= 0);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	a7np7Y7(long long	V0y0O,char	oO_6Xvt5B)	{
 	return	0;
 }

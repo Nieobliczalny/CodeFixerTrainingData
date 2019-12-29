@@ -247,6 +247,7 @@ n__809QPm = (char)(y8APzf);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char u0O5z7(unsigned long long Aw6k6uVr,unsigned long ZMsXY8C,unsigned int Bors,unsigned int IQ5F0ft)
 {
  return 0;

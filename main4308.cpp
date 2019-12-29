@@ -9,6 +9,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short Jas53fpEC(unsigned short e8eQ77S9CF,unsigned long Dt8SCn92,unsigned short int PKhKm8,int ommO6l2v,int jg6Q) {
  return 0;
 }

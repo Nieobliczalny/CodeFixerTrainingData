@@ -541,6 +541,7 @@ G_gha6ym = (long double)(nOZYpOgB + (1635658177));
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	JTJ0f0_2(unsigned long long	LYG0,unsigned short int	Y94w,unsigned char	h07U)	{
 	return	1130344082;
 }
@@ -555,6 +556,7 @@ short    VtY7b_y(unsigned short    IZ21Dh)
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    t320(int    ZSckB7f2Qe,long    pi6nIizu,int    Iq3yVF0,char    k9EE5BH_00)
 {
     return    -373559313;

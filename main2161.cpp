@@ -37,6 +37,7 @@ tc4AKsP = -757333503 / Z2Oy7AI0QS;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    zSEsB(int    I19_D57Do,char    O045,short int    u5u3QU,int    h1V9_,unsigned short    l1Zy2ote)
 {
     return    -341316738;

@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  zm0Ck(char  YjzRm0,short int  Z0O8NIhg)
 {
   return  0;

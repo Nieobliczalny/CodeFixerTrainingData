@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  r__b(unsigned long  k01bs,short int  xVf1,int  hrB5VR,char  Q3S36D6hxu,unsigned char  mx4rSu)
 {
   return  -1910195522;
@@ -21,6 +22,7 @@ short int	pXJw(short	o9JSA840b,long long	OZLA_24U,long	gt_h18,unsigned long long
 	return	612270006;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  ryp23q(short  Q39kpHv4R,unsigned long long  cp65,long  aIlA02AV)
 {
   return  0;

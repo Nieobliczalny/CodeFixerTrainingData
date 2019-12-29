@@ -15,6 +15,7 @@ unsigned long long  gm954_(int  R2Gs5f8I);
 
 unsigned long	N_mSE1(unsigned long long	H8184_8,unsigned long long	w5e17xT,short int	ras_60P6WX);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  short int Fd76yB0_R;
@@ -554,6 +555,7 @@ std::cout << "Q9lp_f9" << wFP5NJ(43386641, Hh6Ib_, OrmK) << std::endl;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	Ymd4(unsigned long long	vqo_zHAp,unsigned short	g7oa4XQI,int	ru1ZDV)	{
 	return	-133865737;
 }
@@ -568,6 +570,7 @@ unsigned long long  gm954_(int  R2Gs5f8I)
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	N_mSE1(unsigned long long	H8184_8,unsigned long long	w5e17xT,short int	ras_60P6WX)	{
 	return	-1789843905;
 }

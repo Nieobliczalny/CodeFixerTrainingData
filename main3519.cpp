@@ -13,6 +13,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	long long	kZdDo3	=	-479969250,	DM90Hwl	=	13702604,	nKtNrOa2	=	-1694412880,	FS8p	=	-1158338990;

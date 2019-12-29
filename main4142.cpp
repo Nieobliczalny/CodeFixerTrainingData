@@ -532,6 +532,7 @@ zE1S4ki6nS = (int)abs(JB4A);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  uC6_wa8R(int  G900s_ad,unsigned short int  BA35Auh6,unsigned int  Wxet,unsigned short  EJe2JyC_,unsigned long  vb_xDhepQ)  {
   return  604589851;
 }

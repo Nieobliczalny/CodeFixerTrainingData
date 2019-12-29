@@ -393,6 +393,7 @@ BD__T_0x9 = vnd0m();
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long X155YOR(unsigned short int K2c2DJo,char pOef)
 {
  return 1273978693;
@@ -403,6 +404,7 @@ short vnd0m()
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    f1bFg38v(char    fU_b8)    {
     return    1396727520;
 }

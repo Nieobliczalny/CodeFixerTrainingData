@@ -11,6 +11,7 @@ unsigned long  a16AfB(short int  Ie1OO);
 
 long long    vaQ4(short int    md1D,unsigned long long    M2TylA_HH);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     unsigned char    vGT7_jNy0V    =    -401635815;
@@ -269,6 +270,7 @@ EUNP31n1 = a16AfB(EUNP31n1);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  a16AfB(short int  Ie1OO)  {
   return  1742131093;
 }

@@ -302,6 +302,7 @@ c_0Yu3GwjP = fuvX - 1948629074;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char agN8rc(unsigned char kaMcv0) {
  return 0;
 }
@@ -314,6 +315,7 @@ short int    l5mLy6ITO()    {
     return    1749939695;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long c8d_6AI4(unsigned char ddS7,long long V3ulb,unsigned char PbxEcMamz,unsigned long b4pO_P5) {
  return -511701119;
 }

@@ -23,6 +23,7 @@ unsigned long	n6_G664(short int	vt0NaN8,unsigned short	dHso,char	F_sr8O,char	L0_
 
 unsigned int  F8R2jHh44(short  IGDRc073B);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     unsigned long    W5Yj4h8;
@@ -622,6 +623,7 @@ cout << "rC0A_Yd_L_" << F8R2jHh44(I1aw5eg) << Hi4_98(I1aw5eg, Zf8Jk0, EbJvne0mk6
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    Hi4_98(unsigned long long    F1LW9Lq,unsigned long long    sfi3Z_,long long    bsc5,short    TK6OQq_,long    R04r)
 {
     return    -1418207903;
@@ -632,6 +634,7 @@ long long  J78Xy(char  l2X_3k6N,int  C9Wy,unsigned int  Zop360pv5z,char  o77lC5c
   return  -953609352;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	C8RJ(char	E21sF6,long long	X7kL7NV,unsigned long long	pAf50_9Sxf,long long	DH07w9Uz_1,int	ofc8Cx13)	{
 	return	0;
 }

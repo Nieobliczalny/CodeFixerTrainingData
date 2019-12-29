@@ -12,6 +12,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int kNoFKBjt(unsigned short KcTO,long long NnW_) {
  return 2063515272;
 }

@@ -13,6 +13,7 @@ unsigned int	FF5lA1B9I()	{
 	return	214978498;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	ZTfl(unsigned short int	EvEq9_4_A,short int	tIa9hk)	{
 	return	0;
 }
@@ -27,6 +28,7 @@ unsigned short	F2is_(unsigned char	D0YCcP713,long long	WmPUr,unsigned int	F8v3M3
 	return	-844858313;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    DOML(unsigned long    T3qsg17f,unsigned short int    vezQa0hF9V,long    wF_b7,long long    f_8_TCG5_,short int    ihM_FL)    {
     return    -2069700451;
 }

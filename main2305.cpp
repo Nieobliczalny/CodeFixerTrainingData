@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	S47W4(short	bI55YB_,char	USW3Cr2Qye,unsigned char	N7z_69e,unsigned char	x8gc,short int	hhuoL)
 {
 	return	-537767145;
@@ -24,6 +25,7 @@ unsigned long long T95S() {
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	XQk6(unsigned int	m84Eq,unsigned long	s96ZL0)
 {
 	return	-1200280271;

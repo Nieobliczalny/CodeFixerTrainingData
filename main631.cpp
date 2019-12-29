@@ -26,6 +26,7 @@ unsigned short int    J9mmRy()
     return    -184719243;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    ZrXpXWFI(char    Qq6_4R,short    G3QC61Ft)
 {
     return    1327779047;

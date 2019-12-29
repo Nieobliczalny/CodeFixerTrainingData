@@ -12,6 +12,7 @@ unsigned int B7TW45q(unsigned char NRj29Q0,short int c2eAj31OuP);
 
 unsigned short    AxC0r2k(unsigned short    Im45H,long long    gqKCO);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	char	llyyH2qnAi	=	-1246127501;
   unsigned int  e8Wsw  =  0;
@@ -303,6 +304,7 @@ c_uI = AxC0r2k(-1187196057, rSsMPu);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int B7TW45q(unsigned char NRj29Q0,short int c2eAj31OuP)
 {
  return 627510405;

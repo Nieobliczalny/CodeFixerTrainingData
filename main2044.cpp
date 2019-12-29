@@ -12,6 +12,7 @@ unsigned short PuEcs2pn()
  return 843614891;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int R02y(char AgeCc5mRVv,unsigned short dQfA_l3Y_N,long I4qorXSI0M,unsigned long VD5_Ut)
 {
  return 0;

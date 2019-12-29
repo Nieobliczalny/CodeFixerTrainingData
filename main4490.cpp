@@ -12,6 +12,7 @@ unsigned short int	DH_uwyo(unsigned short	JF60lF,char	u0L1ZSivR1,int	Fvm3J);
 
 unsigned char Bzvys9S(long E2ebO,unsigned int KfZHvFV,long long gm3Go8d,unsigned int I3V6c);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   short int  G3z2  =  1557532232;
@@ -295,6 +296,7 @@ t_SnIf = (unsigned char)(lA5Ojj2v_ * t_SnIf);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	DH_uwyo(unsigned short	JF60lF,char	u0L1ZSivR1,int	Fvm3J)	{
 	return	0;
 }

@@ -1043,6 +1043,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    wh_TSd5gUl(unsigned short    s5_Y90s4)
 {
     return    0;

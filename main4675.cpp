@@ -525,6 +525,7 @@ EdrlB0mYsk = (int)abs(uUhq_1);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	qchvyzyF(long long	aMx78vNmlQ,short	Hr4OoR4,unsigned short int	k90MjDK1I5,char	UA_5u,long long	tztX12)	{
 	return	547698629;
 }

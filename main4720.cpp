@@ -333,6 +333,7 @@ i--;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long z397jn(short int ZT4Eh) {
  return 0;
 }

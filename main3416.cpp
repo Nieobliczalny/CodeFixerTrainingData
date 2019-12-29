@@ -416,6 +416,7 @@ kon1Ala1 = z2H7Zy << Wn2E;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    q4J9(long long    GW8c6qG)    {
     return    0;
 }
@@ -430,6 +431,7 @@ unsigned short  Ik62vuz9ah()
   return  -1261522655;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    bJRIfz88(long long    v8eAUffZJ,short    T3ryA)
 {
     return    1021306568;

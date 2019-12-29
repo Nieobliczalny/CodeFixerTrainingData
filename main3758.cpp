@@ -196,6 +196,7 @@ while (i < 9);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long gI27(long long Zp99Y0u,unsigned short Sc73BK,unsigned long TOgad,short int fzt1k55,char phB_) {
  return 0;
 }

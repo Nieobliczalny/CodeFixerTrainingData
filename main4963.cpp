@@ -450,6 +450,7 @@ Qr9U4_ = Ji_AtO(Rzk845v);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	eJ9nm1tY(short int	qPy_d7QZc,long	z45E9,unsigned char	M6GRlfO3U,short int	u_Cq,unsigned int	PdYfB_b390)
 {
 	return	-1100680014;
@@ -460,6 +461,7 @@ char oY9xp(char xaT7)
  return 103081572;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    Ji_AtO(short int    y3628CP9YC)    {
     return    0;
 }

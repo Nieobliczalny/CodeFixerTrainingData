@@ -15,6 +15,7 @@ unsigned char jbG3d();
 
 long    lqyU224(unsigned short    qRF8y);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     short int    B77n4;
     B77n4    =    1840616771;
@@ -344,6 +345,7 @@ wHJXA = (int)abs(QFDBcb);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    Wvxx90(unsigned char    KA21oz)
 {
     return    439913120;

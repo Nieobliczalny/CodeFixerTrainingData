@@ -13,6 +13,7 @@ unsigned short int	T4Kb9Pit9()	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	nf8_n(long long	j26W0,int	GoeJjo6F,int	aAsSvjG)
 {
 	return	1549964302;

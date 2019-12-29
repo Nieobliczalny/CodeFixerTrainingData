@@ -631,6 +631,7 @@ dcu7vjdJVv = (long double)(YpOUZtz);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  LO1t37PVp(short  n8XT53g,char  L_ya_Cs0_,long  MRVlfd,unsigned long long  DoY0,unsigned long long  GV4j1FsD38)
 {
   return  0;

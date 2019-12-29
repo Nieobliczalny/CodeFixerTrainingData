@@ -8,6 +8,7 @@
 #define	Oi8Cq94oc	(0)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     unsigned long    g438Nt,    ERj_i,    Pwf14M1;

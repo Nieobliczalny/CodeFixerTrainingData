@@ -1215,6 +1215,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int s1j31_F7(unsigned long VdM50_O7,unsigned short V5Q5DuYN4,long l5aN87J) {
  return 0;
 }

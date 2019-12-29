@@ -11,6 +11,7 @@ short int fc3LIm_3_h() {
  return -477159678;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    iM6Q(long long    VBiE,unsigned int    K88_AJ,unsigned char    FAUM,int    n8n8AiBGp)    {
     return    -849609870;
 }
@@ -25,6 +26,7 @@ unsigned char	NKOoB(short int	wJa42eqR,unsigned int	T0C44lt7z,int	rHX92,unsigned
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  long long sy7Ek, WE37luF;
  sy7Ek = 0;

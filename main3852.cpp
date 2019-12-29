@@ -9,6 +9,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  Q8x_00feot(unsigned int  NYzsQ)
 {
   return  -156382841;

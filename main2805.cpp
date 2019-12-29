@@ -430,6 +430,7 @@ fmh73O = K8pCk60p53(-1910641123, -704893645, -1623768242, -1237361076, 533672011
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    rdKYz(unsigned int    p945JtL,int    g1wR7ef8c,char    Qo79h8TA,char    JI_4hjoXo_)    {
     return    2107553220;
 }
@@ -442,6 +443,7 @@ unsigned char    WY5eokSC4B(char    NFW91_P,unsigned long long    eNNVA9takz,lon
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long dD7vtd(unsigned short l_171,short int Z_MVK_P0uW,unsigned short int OKEc,unsigned long long Vv98MOYyG,long long sT4t) {
  return -1616230571;
 }

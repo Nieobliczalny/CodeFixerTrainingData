@@ -47,6 +47,7 @@ rNQVqM = fXkGv(-1722648730, rNQVqM, 987421156, j9Z70bD9);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    SNzFTSu2R(short    dHodGytD)
 {
     return    -1191410807;

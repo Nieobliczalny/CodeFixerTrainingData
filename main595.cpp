@@ -13,6 +13,7 @@ long	x7pbX3c7vF()
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  unsigned short yH52KW_0;
  yH52KW_0 = 164591956;

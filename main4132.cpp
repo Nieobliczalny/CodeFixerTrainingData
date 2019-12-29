@@ -13,6 +13,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  short int drEPEq_8Z = 0, RL_d = 0, SK6CGa = 0, MGM4XLc7i = 0, c8cP1J_G = 0;

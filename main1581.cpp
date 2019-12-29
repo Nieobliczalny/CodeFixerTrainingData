@@ -9,6 +9,7 @@
 
 unsigned short OvOW12(unsigned char vUFdR_L_Rr,long QvMT6,unsigned long Tm_YZ6mMi,unsigned long ROi882_,short d_ULgp);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  unsigned int jQD6 = 930794977;
@@ -644,6 +645,7 @@ std::cout << OvOW12(QB4h2x7nXe, Z794Afut5, 1809443898, 860676591, 247748359) << 
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short OvOW12(unsigned char vUFdR_L_Rr,long QvMT6,unsigned long Tm_YZ6mMi,unsigned long ROi882_,short d_ULgp) {
  return 0;
 }

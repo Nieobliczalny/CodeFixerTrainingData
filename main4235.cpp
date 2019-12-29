@@ -14,6 +14,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   double  hyn0j_  =  1449337843;
     int    hC9qkzK    =    -1395557393;

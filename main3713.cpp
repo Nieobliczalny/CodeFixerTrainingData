@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long g_bYtr(long long z9JCO6,unsigned short int Gb6_d) {
  return 0;
 }

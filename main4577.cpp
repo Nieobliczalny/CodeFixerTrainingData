@@ -532,6 +532,7 @@ while (i < 8);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	wWk0076g(unsigned int	r3X5_HxaC,long	HH8u,int	TUnw3aKU,long long	tQ474O,short	cLt3Wv)	{
 	return	0;
 }

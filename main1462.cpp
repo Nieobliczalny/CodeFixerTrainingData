@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    i4_H1(int    rmKoa7h3,unsigned short    UAqf9v3p_,long long    rnb8Ql,long long    UM4Dh7FUZ)    {
     return    -1708397522;
 }

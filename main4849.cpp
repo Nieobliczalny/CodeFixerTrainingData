@@ -13,6 +13,7 @@ unsigned short int	s15n7v(unsigned short	KtVF347i,unsigned long long	aUKEJ213,un
 
 short    wXwYL(short    U4L4x,unsigned int    h71Q64Mu9,short    zR7658M2O,long long    j_RLC1xx7Q);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  long long Jl060M7ly = 0;
   unsigned int  pabL9Tokc  =  -1162191033;
@@ -281,6 +282,7 @@ pabL9Tokc = Z7F23Anhf9 >> q57dt6Cvj_;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	s15n7v(unsigned short	KtVF347i,unsigned long long	aUKEJ213,unsigned int	Qc05_q7,int	u5IU9G,short	hg4Ba8Q9)	{
 	return	0;
 }

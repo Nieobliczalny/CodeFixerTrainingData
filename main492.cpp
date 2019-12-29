@@ -9,6 +9,7 @@
 
 unsigned short    sF2aZ5(short    Rtu6iN,int    P6_L540q);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	unsigned long long	BsjM,	K8Iv;
 	BsjM	=	0;
@@ -336,6 +337,7 @@ A82Sok3 >>= 1899107678;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    sF2aZ5(short    Rtu6iN,int    P6_L540q)
 {
     return    0;

@@ -11,6 +11,7 @@ unsigned long	k9ReIRL()	{
 	return	-1372186291;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	Sd6KDqA(unsigned int	Jk48R)
 {
 	return	0;

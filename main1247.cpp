@@ -13,6 +13,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	L48E(unsigned short int	i4Xv,char	Ts66gsi)
 {
 	return	0;

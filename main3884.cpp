@@ -221,6 +221,7 @@ X_67Jyquj = zR6_qb << K7StKV;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  LJLhGI66O(int  Am9lE)
 {
   return  0;

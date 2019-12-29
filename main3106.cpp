@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  ZaKd0_y(unsigned long long  mdj0mAx6,long  ZWCAFrt9_,short int  KMx94O,unsigned long  tYgF)
 {
   return  1182489896;

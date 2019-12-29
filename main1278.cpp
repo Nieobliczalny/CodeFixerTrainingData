@@ -14,6 +14,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long pK4AJ_(unsigned short int jdRCSL1y44)
 {
  return -1683287417;

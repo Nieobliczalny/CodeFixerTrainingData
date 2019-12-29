@@ -12,6 +12,7 @@ unsigned char  Kw7Z5()  {
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    T885I(int    h8BH7_,unsigned char    MvVy_,char    e10vNJ5IL,unsigned long long    J2cBRJo01_)    {
     return    1310283681;
 }

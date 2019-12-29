@@ -22,6 +22,7 @@ unsigned short int  M5S123();
 
 unsigned short WDw6zTQ();
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	short int	rxiKPTz,	oM1C4S9,	iZ_hXsQQ;
 		rxiKPTz	=	oM1C4S9	=	iZ_hXsQQ	=	0;

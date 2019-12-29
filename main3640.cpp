@@ -12,6 +12,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  iZX_(unsigned char  d1oOLQDA,unsigned char  jOLLxU2,unsigned long  M9A8PE_wv_)
 {
   return  0;

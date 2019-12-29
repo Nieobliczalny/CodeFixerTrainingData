@@ -9,6 +9,7 @@
 #define  sNguyVsS  (-1094757677)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	long double	NCIYMXN98c	=	-943462240;

@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  pgN1(unsigned short int  v74p)  {
   return  578155145;
 }
@@ -25,6 +26,7 @@ short int XX39H3aSul(short FtyYh43BF,long long H7iN_7i_6,unsigned short qy_gvgqB
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    v9aUm(int    qR5i7Xk)
 {
     return    983106000;
@@ -35,6 +37,7 @@ unsigned char	fgetn1ix(long	h1DGO0M,unsigned short	EB021P)
 	return	562028205;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   unsigned int  pK96S  =  1408251909;

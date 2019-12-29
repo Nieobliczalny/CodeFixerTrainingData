@@ -14,6 +14,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long Reo_6(unsigned char XE8XyZl841,unsigned long long EGICJ,short int Ct0yRe0w9) {
  return 0;
 }
@@ -28,6 +29,7 @@ unsigned short	SaJSLE(unsigned long	kM4ejP6l,unsigned short	e08EY1B1N,unsigned s
 	return	1235161285;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int gE_8r(int BYl4P5y,long X9f9v0,unsigned short int i56SNgZjQ,unsigned char V5D0EpJ56F)
 {
  return -2115257230;

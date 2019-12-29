@@ -11,6 +11,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long lRL6(unsigned short qF5bYFET,unsigned short int RsfSk1G,unsigned long long Z7z56K3TK,unsigned long ApuM,unsigned long long L_F7Ha89)
 {
  return 2011308913;
@@ -21,6 +22,7 @@ unsigned int    n2Y16()
     return    848784439;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  VFaJ(int  SHfOo4,unsigned int  iu0aDhSMem,unsigned short  R6x0L7ugtz,char  y58XL)  {
   return  0;
 }

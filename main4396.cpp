@@ -661,6 +661,7 @@ long ESgU8ZCJ()
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  WP2Z9(unsigned short int  FqS_9Y,unsigned short int  jqqE7dd,unsigned short int  wF84Na6,unsigned long  usT_,long long  ez92wU4r)
 {
   return  -1433101669;

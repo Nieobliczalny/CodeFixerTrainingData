@@ -229,6 +229,7 @@ while (i < 1);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long dvwVaY_k(short UH43sGT3r)
 {
  return 1000300146;
@@ -239,6 +240,7 @@ long long    Mno299(unsigned short int    n6P29_cJ,long    tr_DWT9w,char    zug8
     return    -273138465;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  ADsc(unsigned long  g2juT8,unsigned char  u33Bp__M1,short int  xOqi_9K2_,long long  IWRqtXXk)
 {
   return  2022980890;

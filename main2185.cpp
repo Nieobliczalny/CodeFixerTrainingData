@@ -247,6 +247,7 @@ M1L8gt ^= qheD7;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    SDQ4w(unsigned short    F7RLoD,unsigned long long    m5Ss13I7F1,unsigned long    Oh3S,char    J7648)    {
     return    0;
 }

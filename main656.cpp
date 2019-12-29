@@ -488,6 +488,7 @@ EFguUwG = (short int)(ae_t + (643245364));
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	z3Z_2uh(unsigned char	ML92a,unsigned char	Z3f4kBw6,long long	N716Yk,short	DU05egPl)	{
 	return	-645161652;
 }
@@ -502,6 +503,7 @@ unsigned short    dd4QR(short    Ng2Kj)
     return    -940116318;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	N57t8n0R4(long long	hho1P3,unsigned int	cVHh8)
 {
 	return	0;

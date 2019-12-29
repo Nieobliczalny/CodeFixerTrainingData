@@ -18,6 +18,7 @@ using std::floor;
 
 long long	XgyT03R(unsigned char	Skkt6M4q,unsigned long long	kByw,long long	LBrHlY);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   unsigned long long  bxU96n  =  0,  Q5lK  =  0;
     char    bAs4Ma6J5w    =    2024360854,    fih6_9    =    -2027353898,    u1n0O1    =    -1568501387,    Tq2b6    =    -1727131624,    r6NN61K    =    -1509302874,    y4RxL9zu    =    2133057928,    Gv2DqEq    =    -1467564191,    Hr7_pY1W    =    1291398970,    uRgI79BPk7    =    263687005,    ig8m    =    1070136879,    d5X_41    =    1578421756,    mSSTEO    =    -1185025903,    AF25_6    =    1667843987,    d8588    =    -1637248990,    h8qoD64I    =    -2145892038,    e1h9741k0    =    1690855653,    QJ2wM7zN    =    -1461593428,    Ud2IWT    =    -1510945508,    MI9J1    =    -1531384340,    hp7S2Z_p    =    1485958082,    P5A0    =    -970728609,    iplblQB    =    -101761886,    RwaG2NC6Z    =    -1460613715,    u_ZQ40A    =    1665103915,    uC5xtz    =    972468025,    q5wFCsA0D    =    -1770192843,    g1J893    =    -496553435,    w084W7p6    =    262123238,    v7w5    =    190316246,    e6uU5HJ0M    =    98774804,    NE1GJS    =    1073772868,    l178Gq    =    697550642,    zQpu2    =    1484462398,    S_2Nx6    =    -954056556,    wT05    =    -1205534447,    PyW2    =    -227639622,    EGGA9_8    =    -1703485994,    K9D9y2bCT    =    -820994779,    njQGC3mt    =    1274988812,    Lv1_    =    1162351887,    F4ZEbEo0    =    1482573769;
@@ -350,6 +351,7 @@ Q5lK = XgyT03R(zQpu2, 1504251398, -1447466931);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	XgyT03R(unsigned char	Skkt6M4q,unsigned long long	kByw,long long	LBrHlY)	{
 	return	0;
 }

@@ -515,6 +515,7 @@ kOhh4_ed = (int)abs(J6iyk_lN);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  zF2earn1IN(unsigned short  XAwM,short  En_4loX,long long  xeGTF,unsigned long long  FiFE)
 {
   return  0;

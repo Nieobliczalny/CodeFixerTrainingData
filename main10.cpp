@@ -601,6 +601,7 @@ cq40e31 = zkpHJ0(cq40e31, 1492792145, -1379981990, -962015234);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	zkpHJ0(unsigned long long	egBe,int	LCJXV_ve,short	apkF,unsigned int	SW7s)
 {
 	return	-1286269544;
@@ -615,6 +616,7 @@ short int	Ke1kIy(long	YTE3IRY,char	ZZZWxr,short int	T3tC0283)
 	return	474323698;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  q9ePX3QdX5(short  aR718T64_V)  {
   return  1252487921;
 }

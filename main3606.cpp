@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  QUxy(long  U_mC82,unsigned short  UhA10xf,unsigned long long  M29A,unsigned short int  FnQq,char  Kz873K0)  {
   return  279063255;
 }

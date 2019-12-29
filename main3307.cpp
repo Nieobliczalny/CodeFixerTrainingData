@@ -12,6 +12,7 @@
 #define	b7c8F	(-669084642)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int GY037im_3y(unsigned short int m9OAkf7s,unsigned int V9Pt_8ZT)
 {
  return 1087898108;

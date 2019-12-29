@@ -16,6 +16,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    eZkp(long    O0m6TnJ3,unsigned char    u3Ch,unsigned long long    iu3CmR,short    JV_zJnU4nQ,short    MayN_)    {
     return    1548931260;
 }

@@ -16,6 +16,7 @@ short int    LE1_C(unsigned short int    k26vz_B6,unsigned char    Tx_i8);
 
 unsigned short    VCss553hA(unsigned char    c2YaE7,short    Ze6m);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   unsigned int  OL0o  =  -1168961361;
     short int    YX99KQU_V4    =    -483032906;
@@ -321,6 +322,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    u4E7OmYNg(unsigned short    FEx1_8Y9u,unsigned long    yEhXR,unsigned int    bRoO93u)
 {
     return    0;
@@ -331,6 +333,7 @@ int  c9a29(short int  yT22M,unsigned long  rYkw,char  Jq2tTn,unsigned char  fV4B
   return  -1755446523;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    LE1_C(unsigned short int    k26vz_B6,unsigned char    Tx_i8)    {
     return    -2007018531;
 }

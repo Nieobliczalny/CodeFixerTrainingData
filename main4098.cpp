@@ -603,6 +603,7 @@ std::cout << axKVvv2kQ_ << std::endl;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	M_0i(char	HTEwOtVf7,unsigned short int	zurRnjBL,unsigned int	d350L9760,short int	e5W0i49K,short int	BkGcqZuiqC)
 {
 	return	1360594123;
@@ -618,6 +619,7 @@ int	w1rO5WlG5()
 	return	-141245640;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	P387cH6x(int	GNJlM_1_1,unsigned char	Rdr6,unsigned short	m1Jv2p)	{
 	return	-373326517;
 }

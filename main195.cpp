@@ -191,6 +191,7 @@ B5F8 = TMmnJlc(B5F8);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    TMmnJlc(long    I9I_k)
 {
     return    0;

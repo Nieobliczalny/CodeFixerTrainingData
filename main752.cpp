@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short f02_i_Wbv(unsigned short PW0EGr_)
 {
  return 0;
@@ -17,6 +18,7 @@ unsigned short int    i_ihk0g(unsigned short int    r0s_z,short int    qw7O,int 
     return    633236491;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	MGtJZ__7(short int	p06ZPu,int	kxOx,unsigned int	T5S_Yg2,unsigned char	AhOz,unsigned short int	V8Z3W)	{
 	return	-893406626;
 }

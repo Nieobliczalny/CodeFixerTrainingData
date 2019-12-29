@@ -17,6 +17,7 @@ unsigned long long	wB1Dg747(unsigned short	AhtNH7WiO,short	OJYpuwXy_a,short int	
 
 unsigned int  v8uyP0G2gi(unsigned short  mU4y,unsigned char  y41KXSf4gT,unsigned char  t9WZb,unsigned short int  XvG6cFx07);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	unsigned short int	gofk7;
@@ -277,6 +278,7 @@ hPELp = O6_jB2 / wB1Dg747(ndV2JIA, 68281773, unfQfwQL5);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	wB1Dg747(unsigned short	AhtNH7WiO,short	OJYpuwXy_a,short int	Z073_30k_N)	{
 	return	0;
 }

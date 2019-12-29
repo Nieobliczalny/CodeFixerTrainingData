@@ -15,6 +15,7 @@ using namespace std;
 
 long long    SMe35J(unsigned short    ySlq0,unsigned long    j5UPk9sn,unsigned long    higtZ22G,int    Y1iaUt,unsigned int    A_0tGMIVL0);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   long double  HkjXl  =  2106578297,  T2_4qD  =  -1997587742,  ELHF  =  -530792257,  YUIQ_N1n1  =  -1294247025,  AjE_w6B  =  -2044811615,  J94imGD_  =  1409592757,  Ay9ObNabz9  =  -1627221818,  YwftbePN  =  351359914,  gYm4MR8  =  -159528994,  LKn1_m3z4  =  -725755044,  b3lWjoL2M  =  -2119101380,  Nc6PX  =  29343349,  eb4k  =  -284015614,  CkCmabEK  =  17457562,  Hr7_  =  715486226,  q_K4E  =  -264555505,  AP6qy52cu  =  88968074,  Lf18T_f_vA  =  304462662,  w2xoyLs  =  570787168,  le0Q  =  1180770008,  Pwmg  =  766524185,  POG_y  =  619678377,  pvJ85csJ  =  1821173608,  lGYfXBv  =  1619008895;
  short int rtlrWK = 0, WjwqpPB22L = 0;
@@ -478,6 +479,7 @@ cout << eb4k << SMe35J(1904637587, -609760592, CkCmabEK, Lf18T_f_vA, w2xoyLs) <<
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    SMe35J(unsigned short    ySlq0,unsigned long    j5UPk9sn,unsigned long    higtZ22G,int    Y1iaUt,unsigned int    A_0tGMIVL0)    {
     return    0;
 }

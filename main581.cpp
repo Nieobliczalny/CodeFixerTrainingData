@@ -18,6 +18,7 @@ char b5zqx4()
  return -2106323426;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long i5_RJXGud(unsigned short WL4fW,char u2oeK8,int Zc_TSrIRpm)
 {
  return -2049753162;
@@ -28,6 +29,7 @@ unsigned short int	YO71()
 	return	1121305206;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char pyvv4(int c4yNt2,int StqUA,unsigned short Ksb1c,unsigned int C1yF,unsigned long QHm82Mcy) {
  return -672462366;
 }

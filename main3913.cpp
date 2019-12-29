@@ -589,6 +589,7 @@ unsigned long	rrxU2RJy()
 	return	-792524690;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	kURU_(short	OUj8)
 {
 	return	-93867141;
@@ -603,6 +604,7 @@ unsigned short	EmQ97dDb0()
 	return	-664684007;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    Yv21_CT8h9(char    IyEk_in,unsigned int    x5JT3Y,unsigned short int    VuVb1r1,long long    RWYEBI)    {
     return    1701026377;
 }

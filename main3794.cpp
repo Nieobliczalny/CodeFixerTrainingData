@@ -14,6 +14,7 @@ using std::floor;
 
 unsigned long	R_Ehx(short int	z_NX810vz);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   short  t485nGOPdH,  cI_jit;
     t485nGOPdH  =  cI_jit  =  0;
@@ -326,6 +327,7 @@ GGm1tJ = (char)(t485nGOPdH + (1518254600));
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	R_Ehx(short int	z_NX810vz)
 {
 	return	0;

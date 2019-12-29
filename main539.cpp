@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long j16cf(unsigned short T9w_QJgy_,unsigned int ShugA5u,unsigned int c3py,unsigned long vKCHB1NNK) {
  return -367495277;
 }
@@ -20,6 +21,7 @@ unsigned int	Vdb0(short int	F792TOfWU0,unsigned long	g23_I9kr,unsigned short	Lfg
 	return	1022043961;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long Eri84(char rtVTt0I,short int Z213xA_iG3,unsigned long long C74_4j4mh,int I1s0w_7) {
  return 1772024259;
 }

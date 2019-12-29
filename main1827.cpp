@@ -539,6 +539,7 @@ while (i < 3);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short n3vO1H7(unsigned int eoqWO,long long AY2lqGEZS,int lQ49nIH)
 {
  return -1369853084;
@@ -553,6 +554,7 @@ unsigned char    ioyav_c()
     return    1699930737;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int rw4C(int vHY7_wh)
 {
  return -1668321323;

@@ -442,6 +442,7 @@ JCj1r_ = m5_7K_8J(270790161);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  tCpo(unsigned int  l1m6n,char  q37Ji2tmyp,int  Dyoxt,short  Umd_Bj,long  fzmR5)
 {
   return  -731491858;
@@ -455,6 +456,7 @@ unsigned long CJ0Soq_(long c8_D54,long long PBd5,long long RuxOmKPq,long H9_0u) 
  return 1713336136;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  m5_7K_8J(unsigned short int  ul6yE2x)  {
   return  0;
 }

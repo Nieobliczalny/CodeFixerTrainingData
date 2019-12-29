@@ -15,6 +15,7 @@ unsigned long long    dP4GI2M();
 
 unsigned short  F3jvd_Jbt(int  YK4K,long long  VZpxnD,short int  O1_1T,unsigned short int  gTf2u9,unsigned long long  xnEW8uT2wn);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   int  M6Ra  =  0,  V2GYtPC6Eo  =  0;
@@ -149,6 +150,7 @@ while (i < 9);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    yOV7ID3(int    iXmh52lG,long long    P9I25T,unsigned long long    W6oMC0z0)
 {
     return    -1369801448;

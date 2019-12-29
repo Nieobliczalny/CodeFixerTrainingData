@@ -11,6 +11,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long ln_Jf3(char om9b4,unsigned int es429,long long CcsR_,unsigned int YvWmg,unsigned long long AnjzGW_D9) {
  return 0;
 }

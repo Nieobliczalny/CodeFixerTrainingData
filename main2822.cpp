@@ -10,6 +10,7 @@
 #define  dh9e  (0)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  gvQ6(short int  rKxTY6,short int  wQhi68r,short  l_0ntr)
 {
   return  -1486001721;
@@ -24,6 +25,7 @@ char    zPXtM(char    r14K_Kxc6,unsigned short    belfK00V)
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short  OJwhUk(unsigned long long  u1i503yk_)  {
   return  -785298501;
 }

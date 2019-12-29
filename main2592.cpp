@@ -420,6 +420,7 @@ unsigned long long    w50R5IL()
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    cOo7(unsigned short    kZ_m_r8a,short    sg5AQRi,unsigned long    nt_G02)
 {
     return    -1789111817;

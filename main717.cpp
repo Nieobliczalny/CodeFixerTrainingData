@@ -782,6 +782,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long b_6Y16J76(long gfm5_GcHn)
 {
  return 0;

@@ -11,6 +11,7 @@
 #define  PP6_x  (1983611684)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    I71Q74sq(int    zMD_8)    {
     return    1038860256;
 }
@@ -24,6 +25,7 @@ unsigned long NRDyG_E5F()
  return -1603434795;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    IUOr2(unsigned short int    QCNw_88)    {
     return    1977951917;
 }

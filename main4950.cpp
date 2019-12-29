@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     unsigned short    X6Yne,    FQ1MYc4frK,    r8BsRe,    u80Z4iBrQZ,    Cwbn5QR52,    nta93,    h1rX8C6t0G,    m5g80IGUe,    gVM533e22,    opI8y7k,    E0_irZ,    Eiz56SA8,    UT59ikUGOM,    JK8x,    EdcC5k,    j8CSO3H1H,    GfT9I,    sD21lE7,    dq1AU9_M,    U_S8_v9_9P,    FhIl3g,    uWzzPcKO,    Uhom1Q,    e8GX,    q8TOZtlx,    pa24E,    kv_r0,    u_G1r,    j0gYr12_L,    c1BZlbm6Zl,    Fbd81fye,    F8cL,    H7e6t_rr,    O_14ED,    Z6ZN1VaVF,    huPHYISe1S,    BRcd6hn,    F1f8Ew,    y9qu4Rfi2N,    eN6UXeL,    K8znF,    jdX6U7U2_,    Yc5gbm,    xmI9p7Q,    oVdI2DEeW,    Z3Z8oao4,    m_4O0U59,    SLzbT39g,    fURWEju4gA,    I6054mOy,    yfbnTlC,    xnF4,    u1X67,    hF001UW,    hH6__8,    NQeS,    xAi7pt523,    P59D,    zh2C221_,    x_Y4ud4_D,    a_5SIhx,    QfwPsCpe,    a_3878ID;
     X6Yne    =    -80077478;

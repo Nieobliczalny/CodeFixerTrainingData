@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  OUGZD(unsigned int  eH72,unsigned long  IIml0,short int  V6kbWSh6X,unsigned short int  ULXOc6_,unsigned int  LHpWGoQ004)  {
   return  -1181478239;
 }
@@ -24,6 +25,7 @@ long long anmY7(long ual26) {
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     char    UupM    =    1486518243;

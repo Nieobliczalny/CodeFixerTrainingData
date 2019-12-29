@@ -400,6 +400,7 @@ char Hk8y9()
  return 547079155;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    k6o8h4J6(char    MRYit,long long    yn78gOp)    {
     return    0;
 }

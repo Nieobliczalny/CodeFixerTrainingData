@@ -422,6 +422,7 @@ FL1auWyJd = WVh0_21(Q40n3hkMQ, FL1auWyJd);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	WVh0_21(long	tU54F2cc,unsigned long	MuRvRocFX5)
 {
 	return	0;

@@ -577,6 +577,7 @@ EnjGFjWjgO &= TTPC;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    GAGYV_s(unsigned short int    tLMm,unsigned short int    r6l5g__Q5,char    ieukF1,unsigned int    Vuag,unsigned short int    w01l_2m24Z)
 {
     return    -227602232;

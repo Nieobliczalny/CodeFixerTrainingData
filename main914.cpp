@@ -300,6 +300,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    y22SqE8V_(short    eYWda7KL,unsigned short    LC856_5JX,unsigned long long    LFY24,unsigned char    K14p7,long    sC0_D5)
 {
     return    0;

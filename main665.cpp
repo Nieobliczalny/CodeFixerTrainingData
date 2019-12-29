@@ -407,6 +407,7 @@ O_rYqaVE = (int)abs(pyD58ZK4);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int z4MuCOL(char e6ISl,int ZVRN,short int b17S,unsigned short p8Uc1)
 {
  return -1471650013;

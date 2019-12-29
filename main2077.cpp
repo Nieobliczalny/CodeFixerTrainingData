@@ -10,6 +10,7 @@
 #define zYB2G (1872580744)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int MPda4Db9V(char fv__8_,unsigned long long Zzk55px411,short Qfs5CtfR,int wBT_,unsigned long H24kG) {
  return -1047356602;
 }
@@ -23,6 +24,7 @@ unsigned short  v6zV_Zqpte(unsigned long  Wc7VE,unsigned short  K_dfx,unsigned s
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  short rwpE4i0Zn;
  rwpE4i0Zn = 1010774921;

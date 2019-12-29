@@ -21,6 +21,7 @@ unsigned long F_L91(unsigned long zt0U,int nMU4Ln,unsigned long R5MF_G);
 
 unsigned int nm7p(unsigned long D5HW,long a1xaOy3,char ZO_6wfxl4Y);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  long long QBDI_PK_B = 0;
 	double	YT88tv69N0	=	-631146363;
@@ -509,6 +510,7 @@ B3j4xh__9 = (int)abs(dhut0TxZ);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long F_L91(unsigned long zt0U,int nMU4Ln,unsigned long R5MF_G)
 {
  return -1613431011;

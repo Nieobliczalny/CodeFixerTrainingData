@@ -13,6 +13,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    N45ZdB95(long long    IMVlS,unsigned long long    jgM5,unsigned long    pS2F,unsigned int    Yvl9qp9I2q,short    lj0J3xc)    {
     return    0;
 }

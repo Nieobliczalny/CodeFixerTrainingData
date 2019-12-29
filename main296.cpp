@@ -484,6 +484,7 @@ std::cout << uqMYY(-193374460, 29431487, V3KDNgy1o) << ubtaT << Y_yFa26g31 << "B
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    uqMYY(char    fg7E7I1,short    jY6oCV5P,unsigned short    YL9g3Fet1)    {
     return    0;
 }

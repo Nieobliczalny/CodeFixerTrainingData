@@ -14,6 +14,7 @@ long yw67my();
 
 unsigned long	h5r2E13vq(unsigned int	KpJGC,char	zN3tz2,long long	JQ_4p40fq);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  int A_89WyVq = -1678681122;
   char  D3RiK7  =  -852443568;
@@ -464,6 +465,7 @@ long yw67my()
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	h5r2E13vq(unsigned int	KpJGC,char	zN3tz2,long long	JQ_4p40fq)	{
 	return	-1208910924;
 }

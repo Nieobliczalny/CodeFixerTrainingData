@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	S75_VI75(int	ei2S5i)	{
 	return	0;
 }

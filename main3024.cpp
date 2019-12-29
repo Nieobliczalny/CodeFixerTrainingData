@@ -328,6 +328,7 @@ Lp8f = (unsigned long long)(k1L7B99_);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  RRF5f(short  kj332aQ5ms,unsigned short int  sGAc051vC)  {
   return  -1233180103;
 }
@@ -341,6 +342,7 @@ unsigned long long  bK7L6(unsigned long long  XaGrAC___,unsigned char  XUqa,unsi
   return  760936511;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	KcLr(unsigned int	ndq7bvha,char	l68FxU3O5)
 {
 	return	1390748632;

@@ -383,6 +383,7 @@ Ct7o4vv = NaH5 / 516499820;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	idx7(unsigned long long	uQ1H,unsigned short int	HN42,char	BldDRd,char	lVxbAg,short	Qyzt)	{
 	return	0;
 }

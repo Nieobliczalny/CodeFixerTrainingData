@@ -14,6 +14,7 @@ using std::floor;
 
 unsigned short int B9K4tX(short int GpAy1d_q1,unsigned long long E5WcdSiG_,short int CG_Wx4);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     unsigned char    CsgL;
         CsgL    =    0;
@@ -916,6 +917,7 @@ while (i >= 0);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int B9K4tX(short int GpAy1d_q1,unsigned long long E5WcdSiG_,short int CG_Wx4)
 {
  return 0;

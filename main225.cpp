@@ -25,6 +25,7 @@ unsigned int	Y59NW_(unsigned long	iM5kxD_,short int	tj3_);
 
 int  icDhe2(unsigned int  vi9WhS0);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	long double	r57sjb	=	1344549796;
 	unsigned int	f8Gg	=	1661949099;
@@ -815,6 +816,7 @@ char    gm8lmv9D()    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	FQl2N(short	fmngXpd)	{
 	return	208192885;
 }

@@ -16,6 +16,7 @@ int NG1KkM(char J_Km1L);
 
 unsigned long dsAQm(short p_kDfv88_L);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  unsigned long w0SV5, J_5zKI, Tqeco1l;
@@ -598,6 +599,7 @@ J_5zKI = (unsigned long)(tLGY0);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int NG1KkM(char J_Km1L)
 {
  return 0;

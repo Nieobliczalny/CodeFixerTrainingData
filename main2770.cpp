@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char ecpalZk_eK(unsigned long long UK91Lu,short int raIsSr)
 {
  return 0;

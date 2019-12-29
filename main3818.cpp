@@ -283,6 +283,7 @@ YuF_a49_sd--;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	X3_Nz9lY(short int	X9Mfxq,short int	M8aS9,long long	vAL7019)
 {
 	return	1123945885;

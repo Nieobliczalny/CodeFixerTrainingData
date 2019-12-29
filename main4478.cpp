@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  s_Z3M2Z(char  tzN6Ba6k,char  dvZC4t5_,unsigned long long  ogsDuYqhaX,unsigned long long  jtNy1BChX4,unsigned long  V0gKc28s)
 {
   return  96139027;

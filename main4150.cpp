@@ -166,6 +166,7 @@ c7k_B5piyv = ZnJvK90_K() >> rvMAx6;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  G3NKLB0Oh5(unsigned long  f3bv8,unsigned short  j_qr28sNl,unsigned long long  ry4G9t)  {
   return  720554309;
 }

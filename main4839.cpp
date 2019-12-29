@@ -9,6 +9,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  eP_LE1(unsigned long long  BZn18664K)  {
   return  0;
 }

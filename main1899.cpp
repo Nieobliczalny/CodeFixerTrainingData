@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    OJc0kyL(short    tAep,unsigned short int    pI4yj3t0,char    Z6F008,short int    zUWxp06WZ,char    r9aY2)
 {
     return    1415520883;
@@ -21,6 +22,7 @@ long  xbexion6(int  YgwF2M78n,long long  OgObSrp93a,long long  cjlwH1,long  PK5t
   return  141462832;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	NY_W9T(unsigned int	v3oyjaetJ,long long	M811XR0S3,long long	W_A_eKrrp)	{
 	return	0;
 }

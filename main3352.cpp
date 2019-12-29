@@ -188,6 +188,7 @@ std::cout << SBT8G_27 << dC9RU_FH(686515731) << DtC4E << V56PD3 << std::endl;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	dC9RU_FH(unsigned int	Gd_8ux)	{
 	return	0;
 }

@@ -13,6 +13,7 @@ int    G2FA2(short int    BSQZC,int    hniTNu,int    F_EEEmXx0z);
 
 short int    uxl4(unsigned char    E8_E2,short    L85nN488cw,unsigned char    toGq7d_);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     short    KtCO;
@@ -151,6 +152,7 @@ ug_kjIfhg = G2FA2(-1404808610, LAxpr0s5J, -154510263);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    G2FA2(short int    BSQZC,int    hniTNu,int    F_EEEmXx0z)    {
     return    2041991308;
 }

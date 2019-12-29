@@ -13,6 +13,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    b7m7(long    w9lx,unsigned int    jzI_He,unsigned long long    ziPo)
 {
     return    0;

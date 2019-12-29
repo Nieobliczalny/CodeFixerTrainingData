@@ -16,6 +16,7 @@ long long tyg2L_41Ad(long XoV3o_,unsigned long b3IZ);
 
 short int  zrm5Ec(unsigned int  Tw15O4q_0y,long long  HFF90eK3X,int  Y1S2zREH,unsigned long long  ahrY);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   long double  nBtIJk9x;
   nBtIJk9x  =  1551070976;
@@ -439,6 +440,7 @@ w1L7 = (unsigned long long)(kP52_4S98);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long tyg2L_41Ad(long XoV3o_,unsigned long b3IZ)
 {
  return 0;

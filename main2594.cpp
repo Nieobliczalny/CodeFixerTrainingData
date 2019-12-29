@@ -9,6 +9,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  O_eNO(unsigned short  oW193N_S)
 {
   return  500747918;

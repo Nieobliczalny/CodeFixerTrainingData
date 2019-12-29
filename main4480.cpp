@@ -17,6 +17,7 @@ char    lIx3pM(unsigned short int    v1NKirqoZ);
 
 unsigned long long    E1hrT7AOD(unsigned long long    X7NY,unsigned long long    VM_FRzZZwd,long long    jh3H,short int    KHaP14j);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   long double  USYUH  =  -1545669884;
@@ -603,6 +604,7 @@ while (j < 9);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    lIx3pM(unsigned short int    v1NKirqoZ)
 {
     return    0;

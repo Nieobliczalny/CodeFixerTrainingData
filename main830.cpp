@@ -11,6 +11,7 @@
 #define	UdkHy2TE7B	(2140869329)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int a9M63fU48_(long long MEnm,long sIqrdf)
 {
  return 0;
@@ -21,6 +22,7 @@ long  ZpRjsu0F0(short  v9ecC22t9w,char  TsFppG837)
   return  -1613467546;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   double  AULP91  =  -465326728;
 	long	fzROXOZ9	=	0;

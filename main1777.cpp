@@ -255,6 +255,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    fhyv89_A(unsigned long    w42f,short    y2zN_,long    z5B9ttCc_,short int    E08OpW4I8,unsigned int    fcEyn9_Z)
 {
     return    0;

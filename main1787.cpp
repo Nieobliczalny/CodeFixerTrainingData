@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  bOCAFI(unsigned short int  EuEa3EN5,short int  Ln1e0da,char  G5_0i6,short  F_RG9M,long long  o72Y15w0Zd)
 {
   return  -2067113940;
@@ -22,6 +23,7 @@ unsigned long long  mSe46eN_0()
   return  -642909713;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	lHGrPL4(long long	Ewcv_3,unsigned long	Cq_i_eq,int	M2gw0f8,short int	r5XHB)	{
 	return	0;
 }

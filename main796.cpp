@@ -260,6 +260,7 @@ k9_e_9n0n ^= qwJ8;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long I453Cs(unsigned char mi8YeqSu)
 {
  return 1019224151;
@@ -270,6 +271,7 @@ unsigned short  HY81XYQm()
   return  -187622162;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	Ml61sSj9Jp(unsigned int	CPRC,int	LLaEFJaf,unsigned short	KfpeKdNCf,unsigned short	LDvnWV755z)	{
 	return	0;
 }

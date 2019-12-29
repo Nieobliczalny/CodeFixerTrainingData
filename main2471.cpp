@@ -940,6 +940,7 @@ unsigned long long HogdRiv3H() {
  return -1563437631;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	rzkKoXIXz(unsigned short int	on3HiU_97V,char	dzwyfh,unsigned int	pVeHk,unsigned short int	RVp5sF)	{
 	return	-1231308009;
 }

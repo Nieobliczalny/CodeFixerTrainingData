@@ -236,6 +236,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short  ZTGDn(unsigned long long  J1Auab)
 {
   return  0;
@@ -254,6 +255,7 @@ unsigned short int K9aP6s3bp() {
  return -803283572;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int S0w0FT6HP4(int zsOvB_,short int cvlf1ZL3GH,char F3g3,unsigned char DI3049,int C3BEGJ8Sx)
 {
  return -925799470;

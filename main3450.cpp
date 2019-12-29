@@ -381,6 +381,7 @@ while (j >= 0);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  T8Fy0(short int  K4bB8VJHY9,int  X643f,unsigned long  k79r,unsigned long long  bqm0ME3_,unsigned int  l95k_E)
 {
   return  -195490677;

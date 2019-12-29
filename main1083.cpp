@@ -421,6 +421,7 @@ i3nX = (a3y4Xv7rI <= 1948086469) ? KvUK(-1066903458, i3nX) : ubX2rt;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  KvUK(unsigned short  hAggee1J,unsigned short  HOH9SlM52)
 {
   return  0;

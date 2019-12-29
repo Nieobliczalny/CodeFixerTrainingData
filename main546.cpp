@@ -679,6 +679,7 @@ p9F0U5PyG = (int)(hHa475QjNr * p9F0U5PyG);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	cKT3j92M(unsigned short	DPMXH6k__j,short int	o6dJx)
 {
 	return	-2116056101;

@@ -16,6 +16,7 @@ long long  V8en1_()
   return  1351459709;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int W527DJ(unsigned char P_rly) {
  return 0;
 }
@@ -29,6 +30,7 @@ long long    LcoAlsy_3(unsigned long    Y81u0uvA6X,short    TIcR,unsigned int   
     return    301642775;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	P4b27025(short int	IlLsr9SEss,long	rlF06W,unsigned long long	gT0D1sU,unsigned short int	O5lpYWM,unsigned short int	pfK5FAa8)	{
 	return	1662049198;
 }

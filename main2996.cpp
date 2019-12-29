@@ -19,6 +19,7 @@ unsigned short  A9bp476(short  pbZIoa);
 
 long  K5Z65iFL6(short  S2L9,unsigned long long  P_k7C,unsigned long  NsEVL40Lt);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     unsigned char    xz67l8X_B    =    1017815451;
  short int Jcl1al = -2053841124;
@@ -628,6 +629,7 @@ GL7SqA = A9bp476(359071936);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short  BY1_(short int  No_YUvy6Y)
 {
   return  -1947925490;
@@ -638,6 +640,7 @@ unsigned short  A9bp476(short  pbZIoa)
   return  -940917627;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  K5Z65iFL6(short  S2L9,unsigned long long  P_k7C,unsigned long  NsEVL40Lt)
 {
   return  0;

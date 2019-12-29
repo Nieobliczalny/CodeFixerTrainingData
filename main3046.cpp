@@ -12,6 +12,7 @@ short  PrU8(unsigned long long  t6Tn5S9,unsigned int  TP938_9,long  Gy2jfe9w,uns
 
 long long    T3S4l(unsigned long long    TCd4Pg,unsigned char    zxImGIL5y);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  short int J608, lui0V, bmlH, Ix27rvCYb, FN69Ojp;
@@ -502,6 +503,7 @@ kXkp84 = (unsigned char)(EZ5bgws9);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short  PrU8(unsigned long long  t6Tn5S9,unsigned int  TP938_9,long  Gy2jfe9w,unsigned short  yOb6)
 {
   return  -322001149;

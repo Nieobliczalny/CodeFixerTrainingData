@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    YZZ5t0(char    bm871T,unsigned short    YTK7w09b,unsigned short    Y9C04I0)    {
     return    0;
 }

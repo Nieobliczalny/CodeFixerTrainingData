@@ -13,6 +13,7 @@ long	t_H18V(unsigned char	f2gQ5q,long long	F0WeZfzef);
 
 long ZlW1vJxg(long Yr035J0,unsigned long Q39K4bf5,long W5k_,unsigned short i_29d87o2,short pur4gcB);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   int  cYl8GMsC;
   cYl8GMsC  =  -1764588694;
@@ -460,6 +461,7 @@ SZ_rJyj = (int)abs(PXKkqCsJq);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	t_H18V(unsigned char	f2gQ5q,long long	F0WeZfzef)
 {
 	return	-1873155457;

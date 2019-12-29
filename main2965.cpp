@@ -10,6 +10,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short  h7Zww(unsigned char  ZU2LX0D)
 {
   return  -1009471232;

@@ -16,6 +16,7 @@ long  swgrrsgd();
 
 unsigned short int    e6I0sOP(unsigned char    d799,unsigned long    M2aM_,short    odd71sZ,long long    CWHzm4,unsigned char    Ioa41Z2A);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	unsigned char	IrU6UY;
 		IrU6UY	=	0;
@@ -282,6 +283,7 @@ zdX8J4 = (long)(az32hIC);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  I34NBU(char  AvdfkA,unsigned int  qRZtnn,char  aZ8h27e,char  XVn8K,long long  K2F_)  {
   return  0;
 }

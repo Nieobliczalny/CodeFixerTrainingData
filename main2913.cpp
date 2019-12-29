@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   short  a2q_1oS  =  736647175;
     unsigned long    I5_agbD    =    -825294045;

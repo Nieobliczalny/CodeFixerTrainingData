@@ -567,6 +567,7 @@ while (i >= 0);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	DgR1dR_c_n(long long	BX6N8U,short int	v45Rkm6,unsigned long long	oq9w63Hr)	{
 	return	-426747997;
 }

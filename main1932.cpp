@@ -10,6 +10,7 @@ using namespace std;
 
 unsigned short int  X4q3Q34Mf(unsigned char  c5D_,char  fBdN93,unsigned short  oTDc_87_k7,short int  eVqsyZ54u);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	unsigned int	EL91J537kW	=	2027723574;
     char    I5qu8cT    =    -1007533828;
@@ -687,6 +688,7 @@ std::cout << EfoK << "t2LJlM3mmC" << fbtv_mf2u0 << OjssR8N8A << s9O1C4Q0m << std
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  X4q3Q34Mf(unsigned char  c5D_,char  fBdN93,unsigned short  oTDc_87_k7,short int  eVqsyZ54u)
 {
   return  0;

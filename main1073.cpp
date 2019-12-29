@@ -15,6 +15,7 @@ unsigned int	w86sZQ34(unsigned int	K1_6tMU1D,long	T_FJmps,unsigned int	JS4QB3pp)
 
 unsigned char	MxG7yMd(int	KpYyj0_UHP,unsigned int	Rd7_Zt);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     int    KcD_22oe90;
@@ -439,6 +440,7 @@ CQ3Q = i2A7d(CQ3Q, -824963500, 1087125418, -709509030, yom8B_0r);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  jL330(int  Gxy0hr60,unsigned short  mDGr,char  K5h3W,short  R4tx8U48,short int  omUQ7Gz0)  {
   return  0;
 }
@@ -452,6 +454,7 @@ unsigned int	w86sZQ34(unsigned int	K1_6tMU1D,long	T_FJmps,unsigned int	JS4QB3pp)
 	return	1536324374;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	MxG7yMd(int	KpYyj0_UHP,unsigned int	Rd7_Zt)
 {
 	return	-985094333;

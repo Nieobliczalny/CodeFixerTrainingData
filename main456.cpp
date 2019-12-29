@@ -25,6 +25,7 @@ unsigned short int    n_iFDn5s(unsigned short int    f5tl);
 
 short int    JUAwP(unsigned short int    UN49R,unsigned short    ZjtpbJ2);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  unsigned short int Ioyk;
  Ioyk = -1380064257;
@@ -344,6 +345,7 @@ Dgw2 = (int)abs(Z4Jk8IT47);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	Z6bKbUs1O(unsigned char	W1hv45,unsigned long	Tu1ZhC,unsigned short int	I2KLPN)
 {
 	return	-704101923;
@@ -354,6 +356,7 @@ unsigned long V46v6wj_(unsigned int b81HI)
  return 1477579616;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    n_iFDn5s(unsigned short int    f5tl)    {
     return    0;
 }

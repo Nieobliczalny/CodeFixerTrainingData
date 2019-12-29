@@ -18,6 +18,7 @@ unsigned long ebx8S2f()
  return 305615078;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  F30bI9_91(unsigned short int  hEAWfb99,unsigned char  t8Ga,unsigned long long  m_8TtW)  {
   return  368475755;
 }

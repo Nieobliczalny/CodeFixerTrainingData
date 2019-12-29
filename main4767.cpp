@@ -195,6 +195,7 @@ X8ptl0 = k0B0e366 / cNi_D;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long I_8RH(int VYSht3Z)
 {
  return 0;

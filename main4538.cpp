@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    c8LAC8p_2(char    j2_vcQan,unsigned long long    rJlZ,unsigned long    JZ417221,unsigned short int    UihrUwD)
 {
     return    0;

@@ -11,6 +11,7 @@
 #define	F8zr0262	(1820973751)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	FXL42sDlR(long long	lp6G5E51Y,long long	e0cJE,int	E9Pg0,short int	KArsw_7)
 {
 	return	-114399290;
@@ -21,6 +22,7 @@ unsigned short int LTJML0kVs(int DsU_UIY,int zxJ0J70R)
  return -859130420;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  dJwRHZQyq(short int  LP12V_lpam)  {
   return  0;
 }

@@ -708,6 +708,7 @@ E5iZFXu6 = (float)(DbYh__);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int FY97rtQ(long long s2cI6) {
  return 1749392615;
 }

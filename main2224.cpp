@@ -13,6 +13,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  alAqWD_2lm(long  v5B5,int  oi3L,char  wTskzA1Xw)  {
   return  1139433397;
 }

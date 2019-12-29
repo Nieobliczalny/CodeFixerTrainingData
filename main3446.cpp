@@ -15,6 +15,7 @@ short int zt_gc3cBo(unsigned short int KA3_33,unsigned short int X1ltY7mWU_);
 
 unsigned char  D5kyEj2(unsigned short int  bQ2Z0,unsigned short int  juGUc9,unsigned short int  b4_bpBS_9E,short  hH4_01q);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   int  f92yckRFVv,  qOSSKq74;
@@ -443,6 +444,7 @@ f92yckRFVv = jc8N6ag(y9800Q4Es, -3017073);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int jc8N6ag(unsigned long long t07X,char GswqK5)
 {
  return 0;
@@ -456,6 +458,7 @@ short int zt_gc3cBo(unsigned short int KA3_33,unsigned short int X1ltY7mWU_) {
  return 2110650888;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  D5kyEj2(unsigned short int  bQ2Z0,unsigned short int  juGUc9,unsigned short int  b4_bpBS_9E,short  hH4_01q)
 {
   return  -532231197;

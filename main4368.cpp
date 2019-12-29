@@ -11,6 +11,7 @@ unsigned int    os677HPx()    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    kk_Uo(int    ZE3C15,unsigned char    Z71z)    {
     return    -1427562805;
 }

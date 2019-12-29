@@ -330,6 +330,7 @@ unsigned short int	dOgBVJ27()
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  P24y_vQ2(unsigned short  qeafnA,unsigned long  Kr7GF)
 {
   return  1686795428;

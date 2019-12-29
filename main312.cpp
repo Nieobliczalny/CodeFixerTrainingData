@@ -341,6 +341,7 @@ jLQau = emSPjiKY_ ^ wzLTC43B;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    kvPcMU1R(long    ZJZc5,unsigned short    HaPT6K,unsigned short    pVf_FkZ1J,char    c5b9PT,char    Z0K6deSK0G)    {
     return    0;
 }

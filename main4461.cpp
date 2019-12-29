@@ -628,6 +628,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	CaINO3_e(unsigned short	xu_cd4i,unsigned long	Qnor7_,unsigned short	AYWus6)
 {
 	return	0;

@@ -8,6 +8,7 @@
 #define    M42_6tF    (0)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	LM_LP46Rb_(unsigned int	YX3L1F)	{
 	return	0;
 }

@@ -10,6 +10,7 @@
 #define  rzqWq8  (0)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	BqSMWo1BD(char	N_0Np,short int	N2vDCG6Gi,unsigned short int	R394ns9,unsigned long long	c9vtBhjB,unsigned int	HrdihH61i)	{
 	return	1154392795;
 }
@@ -24,6 +25,7 @@ long long    PcoWnj9(unsigned long long    KK5wE,unsigned short int    b3F6ub,un
     return    970849169;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	uYVAd2sB24(unsigned char	zWsfv0,unsigned long long	wp5u4,unsigned long	trI4,unsigned short int	rz__xZ,long long	aprc37r6t)
 {
 	return	0;

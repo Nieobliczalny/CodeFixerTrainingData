@@ -10,6 +10,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long h4m_j1(unsigned long yrdK,short int Vww5kr2x)
 {
  return 0;

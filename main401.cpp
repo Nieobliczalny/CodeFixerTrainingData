@@ -15,6 +15,7 @@ short int	iB9E(char	t4q7Q5qZ,long	iFg9,int	a4o1hj,long long	U2yEm_fio,unsigned l
 
 unsigned short	Vy_nf6();
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   unsigned int  g2c6M_GzBT;
@@ -468,6 +469,7 @@ dTzaEiB1 = nl_hVM47S_ | 2108132329;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	iB9E(char	t4q7Q5qZ,long	iFg9,int	a4o1hj,long long	U2yEm_fio,unsigned long	V66fE0_Tof)	{
 	return	-569126989;
 }

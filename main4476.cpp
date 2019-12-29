@@ -644,6 +644,7 @@ std::cout << -2091237871 / WMF96l1SZ << std::endl;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short KhU1p_(short L3M16,short K9SfANw_5o,char w1F_65,int Glvk8X)
 {
  return 0;

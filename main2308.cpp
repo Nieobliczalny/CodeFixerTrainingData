@@ -14,6 +14,7 @@ unsigned char	MQIM8am4(int	Vq49Tr2YsA,long long	Xu4_Vpcc,unsigned int	r6A994VSPI
 
 char  B02dtg_CZ0(char  T2z40BOUOc);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  short Vn2p;
  Vn2p = 1446689751;
@@ -576,6 +577,7 @@ Ov6zg93_0j *= lup1j63;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int ust96d(unsigned short int zAhDay,char ZY3B_yc6xv,unsigned long long aNs5c_O_,unsigned short XDMuE5lz_,short u2F5qCG_C7)
 {
  return -1356276340;
@@ -586,6 +588,7 @@ unsigned char	MQIM8am4(int	Vq49Tr2YsA,long long	Xu4_Vpcc,unsigned int	r6A994VSPI
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  B02dtg_CZ0(char  T2z40BOUOc)  {
   return  -61946255;
 }

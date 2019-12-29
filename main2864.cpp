@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  MpJnQJ(short int  Xd1s90dh,char  EyHHb__tAp)
 {
   return  1888458756;

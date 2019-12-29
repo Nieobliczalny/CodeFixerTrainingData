@@ -15,6 +15,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	d5_Ql10H(unsigned int	l6Y8E,unsigned short	u88LUw,unsigned int	uLZChf92Yy,short int	Z4_T)
 {
 	return	287839624;

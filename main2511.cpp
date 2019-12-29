@@ -14,6 +14,7 @@ using std::floor;
 
 unsigned long long	KY8Kua(unsigned char	s01K9DfCn,short	k14D9_b);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     long long    nZ4B884,    Yj547,    O5ebgD2,    R8QHf0A;
@@ -323,6 +324,7 @@ CidFvj++;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	KY8Kua(unsigned char	s01K9DfCn,short	k14D9_b)	{
 	return	0;
 }

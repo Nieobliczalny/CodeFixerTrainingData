@@ -12,6 +12,7 @@
 #define	nxfwHg	(128512866)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  nkT_d(int  wc9bBO,unsigned int  h196Yn8,unsigned int  x56Nou8j)  {
   return  0;
 }

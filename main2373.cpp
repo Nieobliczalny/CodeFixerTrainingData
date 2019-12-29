@@ -9,6 +9,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  y7N5T(short int  aN708CEa,unsigned int  fi_U8Vo0)  {
   return  141215028;
 }
@@ -28,6 +29,7 @@ unsigned char  V2KD()
   return  -1969731927;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  unsigned long long O4MaQeS, HemBPHUjK5, YIRN4rHt0, V_1v, hm4_iRG;
   O4MaQeS = HemBPHUjK5 = YIRN4rHt0 = V_1v = hm4_iRG = 0;

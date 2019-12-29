@@ -574,6 +574,7 @@ while (i < 5);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  R_0X4MY7(unsigned short  Jb35rU,unsigned long  WfX0)  {
   return  0;
 }

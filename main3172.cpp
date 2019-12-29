@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    auENSuxMv(short    GDE2_v54Kp,short int    e2MoC,short    CnW0il21,short int    ZUS9Yf0_N,long    ra7c81u5)
 {
     return    0;
@@ -22,6 +23,7 @@ unsigned short	chg__9Yf31(short int	gD_wMCch)
 	return	848402543;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char Q83os9(char V90_UW)
 {
  return 1833351809;

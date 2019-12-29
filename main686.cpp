@@ -559,6 +559,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  U7R1f7gO(short  U2Ox4S32,long  eLjX68,unsigned short int  amfV,unsigned short  isO4p16t,unsigned short  Rezu20)
 {
   return  0;

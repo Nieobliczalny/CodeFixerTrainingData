@@ -127,6 +127,7 @@ while (k >= 0);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  cq60(int  bD31_S8UE)  {
   return  0;
 }

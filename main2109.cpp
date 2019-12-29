@@ -14,6 +14,7 @@ long  d6tkd_(unsigned short int  pdK4hOF,char  ANZ_Ln8ibU,unsigned int  E9eQU1,u
 
 short int	e_25mi2(char	l4Ewch,long	hos5);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   unsigned short int  PZr4f4oGd,  P_Vtlg6,  Wu8m6aR8,  mrE4,  WiMi65Ggm,  SLRI,  gflt,  w323,  P0MOO8,  aFd_VyU,  um4kb460B,  GpPL7Q4lgt,  Y5ef1eoR,  KMZ5f,  gD6i,  Bfy33VZ,  U1_tI5;
   PZr4f4oGd  =  1172453193;
@@ -352,6 +353,7 @@ P_Vtlg6 = um4kb460B | gD6i;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  TsKeONYUM2(unsigned char  f2S0c63J28,char  hegq2,char  j7vZXRN,long  EIA8C64,short  SH0aq6BQ)  {
   return  -1777226897;
 }

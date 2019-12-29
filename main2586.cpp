@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short ujC_If6(unsigned char czl4Ci0y,long oBmEThd4K,long long UayHe86,unsigned long MPXEPc9p,int f3Z_9D)
 {
  return 577561041;

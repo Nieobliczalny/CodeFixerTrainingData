@@ -451,6 +451,7 @@ short int bY6Ir1i7()
  return -1662704783;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long OeMY17i4(int GI6SUSI8) {
  return 0;
 }

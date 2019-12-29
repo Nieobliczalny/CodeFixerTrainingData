@@ -274,6 +274,7 @@ while (i >= 0);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    aVjhBV4J(unsigned long long    ld_vC8wlr,unsigned short    kU38rX)    {
     return    -1624153864;
 }

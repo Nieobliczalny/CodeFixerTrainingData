@@ -11,6 +11,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  F0Gi(char  Z_46yK)
 {
   return  1057525936;
@@ -21,6 +22,7 @@ unsigned short int    G4l_C5t(short    XaMO)
     return    433088837;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  FVNi5RTr(short int  J0BwjOk24,unsigned short  G1Zw,unsigned char  TGtIDKhb,unsigned long  w52A2X,long  aZvZ99ilu)
 {
   return  0;

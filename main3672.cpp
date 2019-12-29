@@ -543,6 +543,7 @@ nV9BrL = (int)floor(T9R1B);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short S307(unsigned short int dRg4G3l1Up,long long RD4o11,long f6L9d3q0n8,unsigned short Gg9JTw)
 {
  return 0;

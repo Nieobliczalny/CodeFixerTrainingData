@@ -225,6 +225,7 @@ cdlb = (unsigned int)(p07B4IzKG);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  W422q0sroK(unsigned short  RdPkue,short  lpA109P,unsigned long long  GRkDHeHe,short int  Usvt3AvzM,long long  IvlMdZu)  {
   return  0;
 }

@@ -11,6 +11,7 @@ short	Nr2lsQ();
 
 unsigned long long  Fb7CDk(short int  gMY8,unsigned short int  qO6ihG,unsigned char  cfW4d,unsigned long long  ce365uD4fK,unsigned long long  sMl5a8);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     unsigned short    C2caoRbTo_,    pctKQ,    qX_m,    a8CFNS44,    E_17Xfv_;
@@ -421,6 +422,7 @@ short	Nr2lsQ()
 	return	-1647313714;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  Fb7CDk(short int  gMY8,unsigned short int  qO6ihG,unsigned char  cfW4d,unsigned long long  ce365uD4fK,unsigned long long  sMl5a8)  {
   return  0;
 }

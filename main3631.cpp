@@ -14,6 +14,7 @@ int	n5g63He(unsigned long long	H_eXF70Gy);
 
 unsigned long yt1_(unsigned long HUI5b26nGe);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	int	Myry5f	=	0,	n10u	=	0;
@@ -333,6 +334,7 @@ std::cout << c4aeW49 << Bc927HE6 << "ARR_yXI" << yt1_(1755074532) << std::endl;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    KRIv4026(long    rH6SC,short    b50JG1Z,unsigned long long    xt8kUlH5FS)
 {
     return    50623068;
@@ -343,6 +345,7 @@ int	n5g63He(unsigned long long	H_eXF70Gy)
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long yt1_(unsigned long HUI5b26nGe) {
  return 1703538485;
 }

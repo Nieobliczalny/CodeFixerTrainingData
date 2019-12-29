@@ -10,6 +10,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short J030N(int GHj1,unsigned short int RXZ0)
 {
  return -1903007191;

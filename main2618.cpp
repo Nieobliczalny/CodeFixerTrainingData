@@ -688,6 +688,7 @@ KEp6 = JQ9m5QN(KEp6);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    WZ_TxK0W27(unsigned short int    I1NV7P)
 {
     return    0;
@@ -698,6 +699,7 @@ unsigned long long	Du7Ry(unsigned char	qQLq65g3b9,char	SYGPw,long long	ST3g)
 	return	-1383724202;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	vB7J(unsigned short	TVG7Md)
 {
 	return	1337403049;

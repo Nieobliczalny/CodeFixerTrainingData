@@ -412,6 +412,7 @@ YuP6B9E09 = nK_6y(YuP6B9E09, Zq88ad487, -131954497, 1087485360);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long dO9AJ8(unsigned char YKb80p,short int m_o_T2VP,unsigned long mK6q6,short int j1Fi8H774,unsigned int sHhm8A95e) {
  return -1561965436;
 }
@@ -425,6 +426,7 @@ short int	t_px()
 	return	-1092970955;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short  U55q(short  WN10PmyMs,short int  ZrO7250,long  X65amwIN)
 {
   return  2083219411;

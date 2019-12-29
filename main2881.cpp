@@ -162,6 +162,7 @@ GnJvKV = t_VKL5hty(-1201181660, -941502150);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    t_VKL5hty(int    NkH3fzq5a,unsigned int    f1249k8)    {
     return    0;
 }

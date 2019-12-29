@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char Reb5nOB(unsigned char J8X9,unsigned char KwXWdqNTmt,unsigned short int SF7m8t_Okb,unsigned short sX_g9Mx,unsigned int RcPqhwH)
 {
  return 0;

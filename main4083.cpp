@@ -21,6 +21,7 @@ short int oel1NfC()
  return -1825554817;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	i_Oe5qj(char	gJFKy_z,char	b5Sjg2Mxr,unsigned int	f9O8_,unsigned long	R_ZU8q4)	{
 	return	750098869;
 }

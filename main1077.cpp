@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    GT7A47(long    ao6231dUR)
 {
     return    693391532;

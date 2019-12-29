@@ -498,6 +498,7 @@ alLx08SR0 = t0u0Nly7l8(g6KIeDP4q, y64GY9, OyBt14imVM, pgc387O4c);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    t0u0Nly7l8(int    jBIZ_fN_,unsigned long    ZRR5H_O_K,long long    Gn8aacA,long    lngDON1)
 {
     return    0;

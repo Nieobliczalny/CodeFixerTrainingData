@@ -20,6 +20,7 @@ unsigned long mvAni530(unsigned long long poU0V25Y,short MkT7,long long OTksJWK)
 
 long long gYOaq59();
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  unsigned short int NOG64Z8_, Wtf9hVx05, zjh4v56N, zm69re3bRJ, CInCrbeqUD;
   NOG64Z8_ = Wtf9hVx05 = zjh4v56N = zm69re3bRJ = CInCrbeqUD = 0;
@@ -78,6 +79,7 @@ unsigned int    Nc9_31A()    {
     return    561078601;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	FR2087(short	W14N66x)	{
 	return	-1142097437;
 }

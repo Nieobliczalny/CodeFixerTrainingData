@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    t7Pa(unsigned short    xJ675Jibvk,int    mgYNevfxfc,unsigned char    dHgfs0,int    p2qS,unsigned char    o_8S9HIp6)    {
     return    0;
 }

@@ -9,6 +9,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char z2IX9S(long YYZxS0,long long YsoX8_x,long long T3K9)
 {
  return 0;

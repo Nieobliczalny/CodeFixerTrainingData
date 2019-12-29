@@ -993,6 +993,7 @@ BTe8wlTl = (short)(X8MU5Gv6d);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    h943wg40_9(unsigned int    x_Y82DP9V1,short int    WW7C13Z,long long    NKgR2O_HZp,unsigned int    osy5F87hf)    {
     return    0;
 }

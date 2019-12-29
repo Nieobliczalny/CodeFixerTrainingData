@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	IczK4f(short	nQtmf0SP)	{
 	return	0;
 }
@@ -21,6 +22,7 @@ long QM_o(unsigned long long W4Hut4M,unsigned long u3AYNVPmr0)
  return 450613283;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     unsigned long long    MfzYtsNnfw    =    0,    CJQSbnz2zf    =    0;

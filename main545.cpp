@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	SBXUo4D_s_(long	xlbG258,long long	G4_cxY2)
 {
 	return	0;

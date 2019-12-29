@@ -12,6 +12,7 @@
 
 long    qCE9k0DZ();
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  long double jkAI = -888791071, Z8wi2Mbo67 = 2025942270, lNRe = -991736735, F2UPtnn_nh = -1705837076, Bk32sewzS = -1731301923, AJ3tQ8_75 = -105569333, OJM6V0Y5 = 1394042221, SVUjR5h77 = 2133445494, J5997__q = 96849929, Nj_w7c6SJ = 1999919600, wcvt = -886906040, UgQA_9 = 874205816, RqZ0t = 1201906246, dlPo9 = -1093935703, kE13Nsl = -998884660;
     short    K7_2    =    0,    O5SPAOdEF    =    0,    yg_dr65P    =    0,    qqTj    =    0,    Hha6_w_Mps    =    0;

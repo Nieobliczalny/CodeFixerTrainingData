@@ -393,6 +393,7 @@ mOYO -= SJCR;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	xSRp(unsigned long long	V_D7sMK3VA,long	T1L054q,unsigned short int	GbKe_Z0,unsigned char	a_0_0)
 {
 	return	633464007;
@@ -403,6 +404,7 @@ short  Qr_m5G(unsigned short  qle527ae0)
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long xaEwR944_K(unsigned short RnY82,long long WB9C) {
  return -1802728807;
 }

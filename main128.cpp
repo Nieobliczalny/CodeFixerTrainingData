@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    i8U19t_WGM(long    P_QPV5U,long    cHg3wEx1,unsigned int    u44oSSo,unsigned long    LWoT_9DM7)
 {
     return    -441082248;

@@ -16,6 +16,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    ZJ_r262k(short    B8T4,long long    YR52_3aEeu,int    um286h_vm,unsigned short    RNL6o,short    shWUP5y72r)
 {
     return    -364345590;
@@ -26,6 +27,7 @@ char    Y5d5dJ2x(unsigned short int    P295xm19s9,int    ca5y)
     return    1391740771;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  e6W48nTZ(unsigned long long  k9AM,unsigned long  DMK1C9,short  M7A5s_P,unsigned long  sJK402)
 {
   return  -963162145;
@@ -36,6 +38,7 @@ long long    Fd2Vmg(char    Mz5H9R4,short int    X2I97,unsigned int    M1u66O6,u
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	V8248_(unsigned int	q6qXS,unsigned int	Uz0X,short	H89qL814v)
 {
 	return	-1510573440;

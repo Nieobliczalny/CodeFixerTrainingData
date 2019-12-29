@@ -444,6 +444,7 @@ zqme = (int)abs(a2av6);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    VS6OA_09VU(unsigned short int    F_34Yeb,char    O4S6H7l3O)    {
     return    0;
 }

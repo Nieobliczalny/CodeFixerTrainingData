@@ -874,6 +874,7 @@ hIeeR0aG4 /= ieI07KNkH;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short s0e9mc6529(unsigned short int PX022Vm3,char na0l,short we4yVXt,short JOt_,int DQ9E0) {
  return 0;
 }

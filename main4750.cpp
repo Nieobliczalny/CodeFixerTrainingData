@@ -10,6 +10,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    CIg3(unsigned long long    bl5Z)    {
     return    463142943;
 }

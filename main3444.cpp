@@ -11,6 +11,7 @@ unsigned short int  OOthTZSn8R(int  cr11);
 
 short int    BG84(long    Y4_n,unsigned long    B4fU,char    vdQg,unsigned int    OI94yx_095);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  int mzYN6U = 1194771529;
 	long long	x_76AWd22w	=	-1568832379;
@@ -254,6 +255,7 @@ rOQF10_l = (short)(v_K9bR6u);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  OOthTZSn8R(int  cr11)  {
   return  -1936397980;
 }

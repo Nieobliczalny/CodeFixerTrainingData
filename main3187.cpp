@@ -14,6 +14,7 @@ short int	guU6413gR5()
 	return	57906027;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    q2y44(unsigned int    F7_0,unsigned long    JMZ6,short int    Pgc2rJvPS,int    ddoE,unsigned int    wPAMvGG2)    {
     return    0;
 }

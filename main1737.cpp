@@ -268,6 +268,7 @@ zgr2_UIK6 = PT0_O(lfSDeS1G);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	PT0_O(long long	d56oh7H61)	{
 	return	0;
 }

@@ -8,6 +8,7 @@
 #define    PXuz1Ycg_    (0)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	G6nq(unsigned short int	f4yCM,unsigned short int	xxQkig)	{
 	return	1388017648;
 }
@@ -22,6 +23,7 @@ unsigned short int	kng1420_f(short	x4fgD,unsigned short int	P3CY696M2I)
 	return	-1556864770;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    jRxA48hdvN(int    yh2189b0Ru,unsigned char    jegD4,unsigned short    jwx_3Qi)    {
     return    -215092767;
 }

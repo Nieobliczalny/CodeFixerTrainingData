@@ -9,6 +9,7 @@
 #define    NIY2U_y8    (1323737994)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   unsigned short int  kO5bwti9RS  =  -1283921369;

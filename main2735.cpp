@@ -527,6 +527,7 @@ zVvv36_i = NLaYxve_(2028736307, Ct960, -1351350552, -1539848472) >> 2023916567;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int Ss1a9PZf_J(short zWkRmw5,unsigned char zkFs,unsigned short int YYeTZ9d8T1) {
  return 0;
 }
@@ -540,6 +541,7 @@ unsigned char    QVBa2_8Ys()
     return    1829502466;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  NLaYxve_(unsigned short int  l6zD,unsigned short int  TMWLQN_aJ1,long  z26X,int  VR_44_W3e3)
 {
   return  -969798250;

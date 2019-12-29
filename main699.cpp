@@ -284,6 +284,7 @@ M7p_Wpxa += 748475600;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  z1UrP(unsigned short int  y0vHrcaw,unsigned long long  yQ1Ii9ug,long  qtRMj7cBe7)
 {
   return  1618536490;
@@ -298,6 +299,7 @@ unsigned short int YR74WAarRz() {
  return 1972312438;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    X288d4pR(unsigned long    drE4i8o04,long long    eNIzh02p1z,unsigned char    jpRV)    {
     return    0;
 }

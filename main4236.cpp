@@ -12,6 +12,7 @@
 #define Uc4yxkTd (-1704826480)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  gZ9pkT(unsigned int  FJqV,unsigned long  V4QcH,long long  H9T54oe7)
 {
   return  1029955023;
@@ -22,6 +23,7 @@ short int  Pp_5AYPU5(char  B2_4)
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  long V3OE_7Zu;
  V3OE_7Zu = 709144366;

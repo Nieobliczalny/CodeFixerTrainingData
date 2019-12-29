@@ -625,6 +625,7 @@ char  qzro75j_()  {
   return  1526905277;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short HU1onaQ(short iuXhzC_Bg) {
  return 781494254;
 }

@@ -446,6 +446,7 @@ cout << "zX5GX_wyq" << endl;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  WA5m0(unsigned short int  cLV2_,unsigned int  M8RWtqbFY,unsigned int  BsmsL07X,unsigned int  v3uzs6A4O)
 {
   return  793702671;
@@ -460,6 +461,7 @@ long long mPQtQY_h2Z()
  return 696280888;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	uoV5w(unsigned int	O8_p)	{
 	return	0;
 }

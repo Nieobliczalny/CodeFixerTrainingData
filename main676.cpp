@@ -10,6 +10,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  long double iQlJPgM = -130610075;
 	float	iUbTP	=	-1230492391;

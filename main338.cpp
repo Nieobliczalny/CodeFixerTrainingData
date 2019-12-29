@@ -822,6 +822,7 @@ Phs6Ah70V8 = foHP | xQdX2;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  iR2g81g5vh(unsigned char  aTShvivG0,unsigned char  K7_J_2k)
 {
   return  0;

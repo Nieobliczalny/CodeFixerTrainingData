@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long O_K7(unsigned short int l3pDI2FTdS,char o_L9sW73JX,short int Qq2VN)
 {
  return 0;

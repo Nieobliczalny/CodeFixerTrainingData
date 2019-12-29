@@ -18,6 +18,7 @@ unsigned long	bBo865np(long long	iS5_559T9J,int	icTuB9D,int	So78B_z,short	tWDYYO
 
 unsigned long	KBzA0IQz(unsigned long	R09C3Bude,char	d5MeL,long long	FHP7fQwD1X);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     unsigned long long    a11qv_aK    =    520265201;
@@ -432,6 +433,7 @@ std::cout << LhVd47_k2x() << M4MTf << UE_AzrC << std::endl;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  q03XMx1(short  Je160BLKxq,unsigned int  X6d2)  {
   return  1676621776;
 }
@@ -445,6 +447,7 @@ long	Fy1v3zw33(short int	uAlw2QlC,long	PCSA9g,long long	rctE)	{
 	return	301007040;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	bBo865np(long long	iS5_559T9J,int	icTuB9D,int	So78B_z,short	tWDYYO,char	xqyvf5K5)
 {
 	return	-626941579;

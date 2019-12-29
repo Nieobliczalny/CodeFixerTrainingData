@@ -11,6 +11,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    g01G(unsigned char    aNA330_n3,long    L9VAJ8_pt8,char    yoGk,char    rVR05E_,short    GF48)    {
     return    -342671548;
 }
@@ -27,6 +28,7 @@ char  vwMarWHw()  {
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	cc64(unsigned short int	MyFE,unsigned long	wpBdbIR_bT,unsigned short	Xn0SOoY,unsigned short	rf4bHvF,long	SMXIj1N)
 {
 	return	-542351975;

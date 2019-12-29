@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    QUg96(char    Nh5O,short    nshXktMuZ,short int    OddEU3b6Pj)    {
     return    -57178486;
 }

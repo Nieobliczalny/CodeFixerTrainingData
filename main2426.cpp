@@ -414,6 +414,7 @@ s18Pm = (unsigned short)(g0un26_b);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int x5ZYL(int x4w5wY1,long KvDjz,short int SCxEguW,unsigned long long oy62yP8,unsigned short int ggmQ)
 {
  return -841429743;
@@ -424,6 +425,7 @@ short  jNl7GrnY()
   return  519851244;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  S1l42(char  UhAo,long long  byLA20,int  oRDM0o2ji,unsigned short int  pht2m)
 {
   return  -250002550;

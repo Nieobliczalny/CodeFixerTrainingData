@@ -15,6 +15,7 @@ using namespace std;
 
 unsigned short	Ev6f671(long	X6_MHf,long long	S2M_EemB6T,char	So5_727,unsigned long long	SWGcm_BqC);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	char	bTg1	=	0;
   unsigned long long  SIuM4YV  =  -233409391,  aqL03Mf  =  1212195795,  Dy_cGvvUL0  =  831461386,  wZ_VsWbns  =  1618617482,  w9Rt_vhE6  =  -812426374,  PK47v__4  =  539343701,  ECF6yAE  =  -291002189;
@@ -945,6 +946,7 @@ while (i >= 0);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	Ev6f671(long	X6_MHf,long long	S2M_EemB6T,char	So5_727,unsigned long long	SWGcm_BqC)	{
 	return	0;
 }

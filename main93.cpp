@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  Ed6s(unsigned short  vMc0sK6q7,short int  LPeeNJp1EB,short  okvS_5)
 {
   return  1195162275;
@@ -17,6 +18,7 @@ unsigned int  vG2lxu9_TJ(unsigned short  Okx98_R,int  QdGxOuA,unsigned int  CXLc
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	H0cs03f(unsigned long	U7un16v6_,unsigned int	hkFOV1UI,unsigned char	fA9nAz)
 {
 	return	1020032549;

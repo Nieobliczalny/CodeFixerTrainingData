@@ -15,6 +15,7 @@ long    f578N(unsigned char    XTDlK4xJ);
 
 unsigned short    s3op();
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   long double  AXC8;
@@ -687,6 +688,7 @@ unsigned short int  Vc_4()  {
   return  989739744;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    f578N(unsigned char    XTDlK4xJ)    {
     return    -1892374384;
 }

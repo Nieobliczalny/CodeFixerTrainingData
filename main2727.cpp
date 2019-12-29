@@ -10,6 +10,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	vs3a117d7(unsigned char	nc2L1,unsigned long	INsc,int	nhQnv7J2U)
 {
 	return	0;

@@ -13,6 +13,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char DDYN(short int p4HHdv0d5,short Rs7f,unsigned char DZ90fo26e,short ow97qY9yX,short int Jw9o9_u)
 {
  return -467987873;
@@ -23,6 +24,7 @@ short  nfLQ9r(long  MDiu41wsWh,long  CE_3k9,long  MlaG,char  H3Vx,long long  ak9
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	ra68rr3i(short	GBO7SZqVZ0)	{
 	return	-474043843;
 }

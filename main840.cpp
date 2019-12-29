@@ -22,6 +22,7 @@ unsigned short int Nw4fa()
  return 1565735478;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  oVHQh4l9q(unsigned int  t4M2)  {
   return  0;
 }

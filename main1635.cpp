@@ -9,6 +9,7 @@
 
 unsigned char D7hyiF(char RDPn,unsigned long BdD36,unsigned char m23S3BiKQ,unsigned char GMShfIY);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  short int ww0A438k7 = 0;
  unsigned short int OTxlQ02z3 = 694372923, mdZZ2qiiW3 = -585507100;
@@ -544,6 +545,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char D7hyiF(char RDPn,unsigned long BdD36,unsigned char m23S3BiKQ,unsigned char GMShfIY)
 {
  return 0;

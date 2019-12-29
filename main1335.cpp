@@ -12,6 +12,7 @@ using namespace std;
 
 char FLRd861F42(long long f61rvRV73,char Q7_Xvf2t1L,unsigned char FxPIg09,unsigned char Kr8Dg9u_yp,short int k94N863);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	char	P2vM98b4J0;
@@ -464,6 +465,7 @@ Mm__bynSa = (int)floor(QaM4WPTv);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char FLRd861F42(long long f61rvRV73,char Q7_Xvf2t1L,unsigned char FxPIg09,unsigned char Kr8Dg9u_yp,short int k94N863)
 {
  return 0;

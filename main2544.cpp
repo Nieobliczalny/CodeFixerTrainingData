@@ -382,6 +382,7 @@ w_siZC = (Y3uBo25P5 != jpGF298d5D) ? c1q3o63I : B4Gj;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	Fbrb5(unsigned int	vhcOz)
 {
 	return	0;

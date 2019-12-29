@@ -575,6 +575,7 @@ A4U6DHCbF = glP598OQY(p4EMQ_pb6q, c62_faSq3, 105712793, M3W51cVC, SPbE97IZ) % be
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    glP598OQY(short int    Q_b3l9j66,unsigned short int    azGg0m,unsigned char    i62Ea3c0J,unsigned short    WWX25n4,unsigned int    ht58nLZ0V4)    {
     return    0;
 }

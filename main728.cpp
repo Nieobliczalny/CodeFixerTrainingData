@@ -9,6 +9,7 @@
 #define EWMSgjA85 (-2077036324)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  ye1_pP(char  OBt9p,char  E1cGSy2,unsigned short int  Jm2NU)
 {
   return  0;
@@ -23,6 +24,7 @@ unsigned short  qNejNxfd_5()
   return  -456174829;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  Kc7nZmC5(unsigned char  W640H6e,long long  RBKeShS7s)
 {
   return  -644818656;

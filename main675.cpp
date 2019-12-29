@@ -500,6 +500,7 @@ while (j >= 0);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    G_hE4w9(unsigned int    oZIAt_nb20,unsigned int    f_WPrXi,char    Uo1_HwTech)    {
     return    0;
 }

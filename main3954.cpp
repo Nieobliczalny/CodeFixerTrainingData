@@ -22,6 +22,7 @@ short int ijh03_m6(short paDEo43Y);
 
 long long	x3yEj51F9(long long	KfEQgzD8N2);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     unsigned long long    Z4c0    =    0,    n67Y    =    0,    mkgmI4    =    0;
 	short	CoY2_EDe	=	-351339132,	YYaQ_Enbu	=	-1463801139,	x892M	=	-113602045,	U_d8suzI0	=	1036087443,	j9Gc_7tz	=	-1451222109,	i7b80Uf0YS	=	1358482557,	qTQ0j0r	=	395584862,	o4YOV9	=	-860322664,	AoxYME	=	1626535621,	kE_K0x3h4A	=	370022656,	DZC2	=	-1188103844,	A90z9BbT	=	1899599985,	Z1b0	=	1912539476,	eIgSld_A	=	10266688,	vcNyO9	=	-1080850883,	DO1Uf	=	-2027654005,	vEXED7kyV	=	1268717673,	t9a94Pxbw	=	150356918,	VuGn5X8K44	=	-714621941,	Vt6EnT	=	-757665003,	z03p	=	423779762,	slo_la83W	=	1442982194,	e4Oir	=	1174501640,	S_WrH1xv	=	-487676695,	uW7EdCvrd9	=	1363239247,	ti9z9l4K	=	1052856279,	q9Cb1	=	882084728,	lANA	=	-666765676,	gioWKoj9s	=	1579918543,	I2HeAO	=	2099635633,	f7y_j	=	1601777902,	HrIgNoCQyd	=	-1730630110,	KZu9ob	=	782183967,	mcqa4AJD	=	-29768793,	BckXd4x	=	-309095632,	w0W86n6_m	=	748709083,	vA4f0kSA1	=	-865949567,	uvV7	=	1898968391,	GuV4n4PH	=	1570378906,	ZO_L	=	-1392050606,	kw7qmbT3m	=	1800521710,	lWy61bP	=	-312544746,	a4a1	=	61261678,	fcPz_R	=	1629831570,	dzxnt	=	1193462010,	zus969MeQ	=	-23334782,	H829671	=	-1764986888,	o_NE2j_	=	-386336992,	x7C7	=	-603045955,	KYrd62MMm	=	1674108348,	v5s8T8Yb5	=	295846214,	d0CSnmU805	=	1650835185,	v0HQeC9VI	=	-1232264583,	kBCINxEDd	=	11069399,	hMo6XC1u1	=	-908979532,	Hze6qsh2QT	=	822593193,	z58_u7dZ	=	1173970428,	Vm0RtyvVMh	=	-862217351,	T5n_uW	=	-2119243581,	v_QlH7J4pR	=	770025539,	q2ASJ4	=	1889958265,	AG3z78BOF3	=	-478814619,	jsW7O1GV	=	1120695956,	ZeL4	=	928137826,	hAh5	=	305693631,	oT86EEm8uU	=	-1031742361,	b0GdS	=	-998368494,	ST9B8dy	=	-556106111,	pd3465zK_	=	-980791237,	zdT2iJ78	=	-1196071763,	JSkzNg	=	-527225734,	y6C2p1Hh	=	-409386517,	F2y_da_	=	-839947827,	M9wT6YYK5	=	-191786218,	Xe0A9mYDL	=	417229425,	ps66I	=	-1671391492;
@@ -488,6 +489,7 @@ j9Gc_7tz |= 1608558230;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    n71CwS7W(short    e18_a0o,unsigned int    hO7m8uR,unsigned long    S8C32XkD,char    fkLa,unsigned int    n_M0)    {
     return    -1722781264;
 }
@@ -501,6 +503,7 @@ short    j3CSaG(long long    yicP3)
     return    1996311957;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int ijh03_m6(short paDEo43Y) {
  return 1348814089;
 }

@@ -418,6 +418,7 @@ char yj4_7() {
  return -328712790;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long izlIgU(char Q_NEKv6Tb0,unsigned long long eoTJA,int tpPi)
 {
  return -1936131123;

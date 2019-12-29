@@ -611,6 +611,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  rsQ8Z(unsigned short  n__ed,char  Esstj2S,unsigned char  yvjQ,short int  F5Cl_7W,long  B6HppZR4)
 {
   return  0;

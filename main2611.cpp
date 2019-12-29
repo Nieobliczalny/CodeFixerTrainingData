@@ -122,6 +122,7 @@ yp__H487V3 = (unsigned int)(GAWF);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	keB2rH(unsigned int	a4ty,short	FpAsvFI_e,unsigned short	C980npDZ)	{
 	return	1895111671;
 }
@@ -136,6 +137,7 @@ unsigned int  DLN0L0t5_()
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  K37S(int  Z_LV71VY,unsigned short  NhoRt38y27)  {
   return  -1379006791;
 }

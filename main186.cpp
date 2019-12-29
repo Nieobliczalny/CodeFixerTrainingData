@@ -12,6 +12,7 @@
 #define    g2gR33_J8b    (447054127)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int JGSY6DC(unsigned int OygGLrxhb)
 {
  return 0;
@@ -25,6 +26,7 @@ int Glvv9s35R(unsigned long w9Wv,short int Qvx6nIysiM,long long AF_54dorms,char 
  return 1791576134;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    DGCuFP50(unsigned char    aj5hOW6,unsigned short int    gJjaxk3rz,unsigned short    GO6N84)
 {
     return    -1826606805;

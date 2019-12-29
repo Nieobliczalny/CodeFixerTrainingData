@@ -485,6 +485,7 @@ Jme88 = N2Z7(1133529814, 1890874872);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long MS_Wa6(unsigned int w2Gx,unsigned short int g3I8462lw4) {
  return -81596992;
 }
@@ -498,6 +499,7 @@ unsigned int  N2Z7(short  F00f7xRN5c,unsigned short int  mgT0)  {
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int ys8w4tfxMO(unsigned long long K819_e5_) {
  return -181849200;
 }

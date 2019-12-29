@@ -9,6 +9,7 @@
 
 unsigned char  z94r(unsigned int  xIWpI6Je,long long  X2whDe98M2,int  e_Pq3L07p,int  ZNqH166H);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     long double    P6WX    =    917425264;
@@ -320,6 +321,7 @@ e789A435c4++;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  z94r(unsigned int  xIWpI6Je,long long  X2whDe98M2,int  e_Pq3L07p,int  ZNqH166H)  {
   return  0;
 }

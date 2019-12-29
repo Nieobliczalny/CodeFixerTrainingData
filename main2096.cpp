@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    EbQ70s(unsigned short int    spAFxSa)
 {
     return    0;
@@ -22,6 +23,7 @@ unsigned int	pHP_Z(char	KEg_SX97,unsigned short int	dp0s,long	aHl6,unsigned shor
 	return	1532689906;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	sWNS_p0(long long	TtMl2K9erO,char	ak9PgpD,unsigned long	Up6gJ0,long long	h63_NJ,long	bV8f)
 {
 	return	-804956306;
@@ -32,6 +34,7 @@ short int j31OA_K4L(short Dh19wwb,unsigned long long l6xV_S59,unsigned char Ojiz
  return -1701173799;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   unsigned int  BLDT47  =  0;

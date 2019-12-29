@@ -593,6 +593,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    h2U6(char    T1F6K,unsigned char    ESke)    {
     return    0;
 }

@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  y45CbY35(short int  YWJ7Y_sf18)
 {
   return  0;
@@ -17,6 +18,7 @@ unsigned long    jsn2938A(unsigned long    lMr_DL,short    wlLBB4_o7u)
     return    1422316464;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  short int Mj6PxKL, LjdQ, yYeqe, KNP6acn53;

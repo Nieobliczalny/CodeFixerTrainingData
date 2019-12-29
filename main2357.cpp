@@ -14,6 +14,7 @@ char  S50t(unsigned char  DOhRov,long long  QNY0OU8ld);
 
 unsigned short int xH476U(unsigned short x3XEH5P0);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	long double	M6hh077s	=	-913964291;
@@ -649,6 +650,7 @@ nPH_S_03V &= 1885859244;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    u4cJBE10(unsigned long    d33S)    {
     return    1724392847;
 }

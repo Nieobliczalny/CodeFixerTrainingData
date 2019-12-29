@@ -18,6 +18,7 @@ unsigned long long	y5dG_z();
 
 short  a6g2(unsigned char  P8Uy,unsigned long  o6M5Rs);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	unsigned long	yk6g_9dt_;
@@ -728,6 +729,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	l1g3X_1a7_(int	ES3oZ_6)	{
 	return	0;
 }

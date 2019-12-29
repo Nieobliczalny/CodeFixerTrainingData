@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    hUX5v5tsl(unsigned int    x_9b,unsigned short int    BWZA3,unsigned char    SgVvFl,short    O1UUePNc74,unsigned char    V15Vj0_j_h)
 {
     return    0;

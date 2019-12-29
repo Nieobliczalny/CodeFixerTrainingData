@@ -17,6 +17,7 @@ char  AXBb_9()  {
   return  1241214915;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	aaXt(unsigned long	tO_e,unsigned int	UL3zCD31a,unsigned short int	zWeELgr7UN,unsigned long	e2YPs609,unsigned short	B29tg75T5)	{
 	return	-1420941105;
 }
@@ -31,6 +32,7 @@ unsigned short int	Btnhe_(unsigned long	vyJEs,long long	KLgJ_)
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     int    PIWEgN    =    -2059526761;
  long long HYC78 = 335537965;

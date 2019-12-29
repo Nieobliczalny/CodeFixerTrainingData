@@ -15,6 +15,7 @@ long    CM_ZX()
     return    1954619806;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  Z_int1WJG1(unsigned short  h8Zms_90q,unsigned short  CgX86I,short int  BKZm)  {
   return  0;
 }

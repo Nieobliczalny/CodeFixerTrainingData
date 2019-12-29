@@ -424,6 +424,7 @@ d0da4x = (long)(sJyz);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char L04pK6(short vrm0j4,unsigned long long m1A48)
 {
  return 0;

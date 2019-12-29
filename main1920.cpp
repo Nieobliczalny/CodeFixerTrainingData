@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long J70_9(char vS4_tD7_,short int sRvTDjo,unsigned int H4c1TyZlCc,long X82t6v,long nSZGP)
 {
  return 0;

@@ -11,6 +11,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    ChEi(short    OLbsK,unsigned short int    P_32,short int    x36H691)    {
     return    -983949248;
 }

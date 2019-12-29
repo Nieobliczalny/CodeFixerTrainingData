@@ -9,6 +9,7 @@
 #define O110IoQ7_ (0)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	lJAr_h1(unsigned long	FMlE1N_,unsigned short int	h0Qpg8,long long	w0_s93Mv,char	aa8sO5lA4)	{
 	return	-611845364;
 }
@@ -23,6 +24,7 @@ long long    S6IUMZN(char    odmj,unsigned char    nV0g3oo,char    IMI8pUJm5,uns
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  o_mt0Ps(long long  o8hBv2ZAYV)  {
   return  1110308324;
 }

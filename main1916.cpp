@@ -19,6 +19,7 @@ short int    y3B2(unsigned short    KE592VTjK);
 
 unsigned short	Pmxo(int	h3CP7551n,short int	Z936Ppq250,unsigned short	w4JE6_q6t1,short	ovHieCOav,unsigned char	i50X86I4);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     unsigned short    yI275xWay;
@@ -282,6 +283,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	Rm0zN2tO(short int	So83,short int	YxtI,short int	FpJ482O5,unsigned short	iJa706mh)
 {
 	return	-919704628;

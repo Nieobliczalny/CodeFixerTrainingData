@@ -525,6 +525,7 @@ XN7gwwNEG = (long double)(iFdwR7ufk6);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	B_JE5k(unsigned char	l6Az_25x)
 {
 	return	0;

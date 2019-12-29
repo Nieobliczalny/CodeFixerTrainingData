@@ -15,6 +15,7 @@ char hiawWf(unsigned short I9qw0f,unsigned short Y3nd5,unsigned short int b1X35_
 
 unsigned int    Hm__Z714p(short    U_k9Lz3_y2,unsigned char    koDpdQ,int    hzEwNTN);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  char I248U56 = -1699096147;
 	long	F6653w4	=	-53646967;
@@ -236,6 +237,7 @@ unsigned short	co9r6X_w()	{
 	return	1545028004;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  EjNipspm6(long  fwL_Ev,unsigned long  U82E2KwysB,long  oY__7_)
 {
   return  1947280772;

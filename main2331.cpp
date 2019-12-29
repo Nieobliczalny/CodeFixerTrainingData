@@ -402,6 +402,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short jWRVZOrnZ(unsigned short d70O,unsigned short int BkrZ2MA,char zl21Vm,int A9E6izeQvd,long long SvwlI9)
 {
  return 0;

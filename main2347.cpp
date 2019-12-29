@@ -13,6 +13,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  CbpL(unsigned long  wMDYpNz_,unsigned char  RD6dn,int  qF0fU4,unsigned short  a2L1,short int  hBp2SNh_)
 {
   return  -1132121653;

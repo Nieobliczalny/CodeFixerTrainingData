@@ -18,6 +18,7 @@ unsigned int e9SF1()
  return 856029581;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	HQ4CHH5USu(short	eDpL,unsigned short int	u09opZVb,unsigned char	l3uFdc6L_p)	{
 	return	0;
 }

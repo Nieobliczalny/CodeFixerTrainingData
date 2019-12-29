@@ -15,6 +15,7 @@ int	W1K12M(unsigned long long	EamTWw9Yr,char	oUqGr,short	CVtxMn,short	O_5l);
 
 char  n6drd();
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  unsigned char pJm4t7;
@@ -948,6 +949,7 @@ zBuLvT >>= 72091915;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int WNFy8ACh(unsigned short int xMQ18VT_) {
  return 248989186;
 }

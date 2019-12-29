@@ -11,6 +11,7 @@
 #define    lGOUO1    (671658225)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  R0N5EHbo(unsigned char  CtY7,short  NoX8S,unsigned short  KtCpNsTK,short int  N1YJs8QLkG,short  a0b0)  {
   return  0;
 }

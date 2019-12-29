@@ -520,6 +520,7 @@ X8EuPC0t7 = feEF2a1 | fL6C9G;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  T75P8(unsigned short  mNY10KG,char  ym7U,int  VX8GeRXn4s)  {
   return  0;
 }

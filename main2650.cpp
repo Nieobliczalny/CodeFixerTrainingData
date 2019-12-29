@@ -15,6 +15,7 @@ unsigned short  iBKvfp();
 
 long long  mqcy4Ic4O5(unsigned short  jf78z);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     unsigned short int    g98z2t,    H85aSG8ey4,    weX6R_pX,    gFF1kF8OQ,    q593gF9PMM,    m0L9fA,    YC91,    l_j1zkPCQ,    tqWIzh,    adfT,    awnA_87h,    Wgh6_M,    Vv0XJS,    Gpa5NJk,    ang837QQ,    Aa5V1,    AodKO__cF;
@@ -418,6 +419,7 @@ unsigned short  iBKvfp()  {
   return  -1008912711;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  mqcy4Ic4O5(unsigned short  jf78z)
 {
   return  0;

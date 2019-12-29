@@ -10,6 +10,7 @@ using namespace std;
 
 short int    xBz2(unsigned short int    aQo_6,char    qVaG,char    b825z2XIyY,unsigned long    ImD4d);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  long e3_NLXqPX0;
  e3_NLXqPX0 = -984113720;
@@ -632,6 +633,7 @@ while (i >= 0);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    xBz2(unsigned short int    aQo_6,char    qVaG,char    b825z2XIyY,unsigned long    ImD4d)    {
     return    0;
 }

@@ -12,6 +12,7 @@
 #define    KntkE    (-637780535)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	GmvmVZ631l(unsigned char	uDbFakz1,unsigned long long	zkcQt2Vr,unsigned long	YH_Hdfyv_,int	Rdob0tTv,unsigned long	V2I3T5E_7E)	{
 	return	-2102436261;
 }

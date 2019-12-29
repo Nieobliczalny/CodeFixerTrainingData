@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  VSn5W5(unsigned long  JL96_ouan,unsigned long  QU9nD)
 {
   return  -2019678498;
@@ -18,6 +19,7 @@ int  U2nO_98x2L(unsigned long  l4Qw9,unsigned int  C_bCK1S)
   return  -896168893;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	I507(short	n_T4a78F,int	xMBSdI,unsigned long	rPx23bbB4)
 {
 	return	-814488222;
@@ -28,6 +30,7 @@ char  iD67bT67(unsigned long long  vB_gvMA,unsigned char  VMw9P85V,unsigned shor
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	sZri_RvX(unsigned long long	D57R,short int	K550,unsigned int	MbYrh4)
 {
 	return	-258796579;

@@ -593,6 +593,7 @@ i52_R1JC ^= 764504780;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	qnoFhgDky6(short	WkgsVNYPT4,unsigned short int	cTJ72AY)	{
 	return	0;
 }

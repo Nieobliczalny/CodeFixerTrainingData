@@ -10,6 +10,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	short int	VZw9	=	-605016849;
     unsigned short int    dB74_K9    =    -633591831;

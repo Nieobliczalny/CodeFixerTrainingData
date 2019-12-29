@@ -23,6 +23,7 @@ unsigned short  NbltMX72(short int  b_m83X);
 
 unsigned short  qBJK0(char  WZx5T);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   unsigned char  jUuT_yN,  nxU0t6R1,  Hx_2;
@@ -49,6 +50,7 @@ std::cout << MucL7p / qBJK0(y6QN_jl02) << std::endl;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long vv5w106VRC(unsigned short int ASx279RCJ,char emP4fdkBE3,int pz90)
 {
  return 317280454;
@@ -62,6 +64,7 @@ char nkqmEOFbt1(long long CDd4,unsigned short TQ_gm583M,unsigned int Sm58r,char 
  return -951209587;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  NbltMX72(short int  b_m83X)
 {
   return  -2109314262;

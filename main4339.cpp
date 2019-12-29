@@ -322,6 +322,7 @@ e5f5_p = ok_85m8zst & Dsof79G;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char e0VLDnMf(unsigned short int qC_vGT2D)
 {
  return 1214096813;
@@ -340,6 +341,7 @@ unsigned short	rWtR3QQ802()
 	return	1971457384;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short  cn05C8ll8(short int  yA_1r7X,unsigned short int  Uapw,unsigned char  F39Ue84AO)  {
   return  -1193154615;
 }

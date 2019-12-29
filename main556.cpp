@@ -10,6 +10,7 @@
 #define  U4vv8_y6G  (0)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	opCzG_rg(unsigned short int	SiuL4166oB,short	L_3J8e0l1)	{
 	return	2007045506;
 }
@@ -23,6 +24,7 @@ int    i85K14zM(unsigned long    WGA4,short int    yP2bINweC)    {
     return    -589589055;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    TJ9dYg6j(unsigned int    AKJi,long long    RWt2yB88gu,char    B8zJ99x7_b,char    npKgdI)
 {
     return    -300823258;

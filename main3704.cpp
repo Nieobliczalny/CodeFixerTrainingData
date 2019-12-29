@@ -17,6 +17,7 @@ short    wz2h9n()    {
     return    384435900;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  dn6pW2(char  lPvx6,char  L5H8c,unsigned int  xv92sWD,short int  np0D3uC,char  fTyl)  {
   return  0;
 }

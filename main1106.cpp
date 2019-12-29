@@ -17,6 +17,7 @@ unsigned short int RD_lR2()
  return 1507491273;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char QqFi1a(unsigned char afw1A5AZ,unsigned short ZOh40,int cxm0C1JjX,unsigned short EWH00h)
 {
  return 0;
@@ -27,6 +28,7 @@ int s7op()
  return -652287403;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   unsigned short  cLF1WVXJ,  NM13V2nH2,  siE_nZ,  cIv4n8G26N,  a_1wzO69;

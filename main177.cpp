@@ -372,6 +372,7 @@ while (i < 3);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	uA6CtW110(short	b98JtB7F6,long long	tf_b_8)	{
 	return	0;
 }
@@ -385,6 +386,7 @@ unsigned int IBI5LdSMX(int adV_y)
  return -530447374;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  gzY_(int  x9F9,short int  pBw7rqU,unsigned long long  rKpP9,long  auFel7Um7)  {
   return  -1854187647;
 }

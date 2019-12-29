@@ -131,6 +131,7 @@ nbHMh_f = lpYgx(e_t4O);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    Rx7tTzm0(unsigned short    pXo0)    {
     return    2136021497;
 }

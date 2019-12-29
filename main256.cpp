@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    JE3f7g_1S1(short    cc6E)
 {
     return    0;

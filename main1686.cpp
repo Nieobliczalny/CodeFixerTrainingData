@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    Os_q8(unsigned long long    Q_BeC7P40,unsigned short    IxrjBjOOjS,unsigned int    S5_Hc7nK34,unsigned long long    n3_6am6,short    x7eC6Xh)    {
     return    -1301447443;
 }

@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	tBKeQ(unsigned short int	aD6WAR1b,char	j8sS1_)	{
 	return	-1639651420;
 }

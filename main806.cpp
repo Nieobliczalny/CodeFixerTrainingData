@@ -12,6 +12,7 @@ short	RFi1()	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	uCpk(char	m2wuyQrA,long	jmE0bf9h_,short	WCVvSUfk7_,int	pY8U)
 {
 	return	1138956160;

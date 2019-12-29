@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    H40jPnL(unsigned short    lt_hPD,short int    Fvt_,short    Nal5dU)    {
     return    1900484283;
 }

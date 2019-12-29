@@ -11,6 +11,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	D05weL58bH(unsigned long	t60PI7j6iF)	{
 	return	905837003;
 }
@@ -25,6 +26,7 @@ unsigned short	dE3AFlKW_r(unsigned short	NQHYMS9,char	j6bpU_4c0,long	FveOXpd,int
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  long rh0G0_eJ = -221717634, dH4ZX = 634479962, KeS64kxg = 986979243, t4cPH9 = -230104178, kWT35 = -524763797, DZwrKi = 1149909634, MRVt = 852966157, yHzDp0_3V = 367316498, N7t0_Y8 = 1780036922, q92FMm4Dl = 852085407, QbzgLl926b = 1707078989, mDTK = 906373373, sR7B49oz = 421853910, bn5Y7 = -823639983, A6jw2wKL_ = 603697164, o6P20 = 1094448530, i0jK0p = -1647671418, s74x = 547500544, XWudXv = 2101975136, LLF2u9H8sS = 1063512605, emWVL2_9yJ = 1265935936, S4_8Lk2r = 751939064, D4frn8 = -409601825, jM2yHe = 1398680553, hphB = -443694707, kUak_Z2 = -1239626617, snX6 = 25965487, YtH9_q8 = 1988533506;
   unsigned long long  Ntp4tOlEk  =  0;

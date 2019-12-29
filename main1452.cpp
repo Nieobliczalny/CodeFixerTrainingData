@@ -484,6 +484,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long nQL9_CkjV(short RrWgB8033_,int n9GTHvX1,short yTPK3) {
  return 0;
 }

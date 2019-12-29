@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long Z59cAi78(unsigned int T6Q94Qsu5) {
  return 0;
 }

@@ -489,6 +489,7 @@ k++;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	w7h0(unsigned short	Bj3cs,long	i3k0NW_js,long	hlA_420u6)	{
 	return	0;
 }

@@ -796,6 +796,7 @@ kZL3b = QlHRPbD_KA(kBX3_QXQRK);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    QlHRPbD_KA(short    A9sWd)    {
     return    0;
 }

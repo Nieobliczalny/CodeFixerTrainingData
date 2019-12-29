@@ -262,6 +262,7 @@ z2443v = (int)ceil(rYJ_LAlg2v);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    xN7sca67W(unsigned long long    SO_P,unsigned long long    wcpNK7q)    {
     return    0;
 }

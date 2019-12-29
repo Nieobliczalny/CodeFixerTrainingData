@@ -12,6 +12,7 @@ long long	rAHQS29B7(long long	wZpE8814Gn,unsigned short int	A_0Bi);
 
 unsigned long long  it8Zc();
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	unsigned int	vtSneW5	=	-538878770;
@@ -222,6 +223,7 @@ u7pSs5 = Oj70 & Hwr2S0;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	rAHQS29B7(long long	wZpE8814Gn,unsigned short int	A_0Bi)	{
 	return	0;
 }

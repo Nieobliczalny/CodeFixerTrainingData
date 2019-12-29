@@ -11,6 +11,7 @@ char    EI9TAlEW()    {
     return    2001120752;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    b56pAC2y(int    Z3K_ponH33,short    S1rx,unsigned short int    zrj1v_A)    {
     return    1324739739;
 }

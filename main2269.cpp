@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    du2i(long    JSa6rr,long    bSJ4DoKI)    {
     return    0;
 }

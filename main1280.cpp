@@ -18,6 +18,7 @@ unsigned int	Nj2n_HIx4_(short int	wVnsR,long	Aa6Ts);
 
 long	c9tIF(short int	zJMTQFQpY,unsigned int	Uap_2);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   unsigned long  f3jqOA;
@@ -341,6 +342,7 @@ e1T8v = wNkXx(192251898, Tsy_5jrAr, S4Wb9, 1184055189);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char wNkXx(long long uaY270q,unsigned long long SVhV2PLx,unsigned int C_9b31Z,unsigned short int Pq775) {
  return 0;
 }

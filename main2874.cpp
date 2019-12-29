@@ -398,6 +398,7 @@ while (i < 4);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	IpUrzK9(unsigned short	oCmZKfJ)	{
 	return	0;
 }

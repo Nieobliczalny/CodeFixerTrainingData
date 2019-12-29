@@ -19,6 +19,7 @@ using std::floor;
 
 long long	W4U2pN4X(short	s_3N,short	f_Xap,long	am861,short int	Ug6R00of9B,unsigned char	RKDSW);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     unsigned long    JK_68kqH9J;
@@ -449,6 +450,7 @@ while (i >= 0);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	W4U2pN4X(short	s_3N,short	f_Xap,long	am861,short int	Ug6R00of9B,unsigned char	RKDSW)
 {
 	return	0;

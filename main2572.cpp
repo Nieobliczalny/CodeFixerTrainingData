@@ -13,6 +13,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    Eu7he(short int    cKEv_jfeq4,long long    Uc02)    {
     return    676013295;
 }
@@ -26,6 +27,7 @@ unsigned char sx7_lqL() {
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char QTlLxK88(unsigned char CQQfK) {
  return 325563120;
 }

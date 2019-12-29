@@ -329,6 +329,7 @@ LiI_YNJFs = hFhv8X / IU241_oyA5(p5Y3_);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	IU241_oyA5(unsigned long	pAMt3x80oT)
 {
 	return	0;
@@ -339,6 +340,7 @@ unsigned int	kQEkj8L9(int	S221g58,long long	rv1Vo,short int	k4OEb1)
 	return	1248544669;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	JF85tZKrW(unsigned long	z7bU,int	Ca_3,long	rFKi1d,int	lz__zij9,unsigned short	TlmjA6mHs)
 {
 	return	-1223424823;

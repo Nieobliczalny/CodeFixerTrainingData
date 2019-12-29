@@ -126,6 +126,7 @@ while (i < 1);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  y3YY9x8k(int  Gkbj,short  Y7KNlZkNR,unsigned long long  Oh1H_S1rw,unsigned int  e_63HC04,long long  oKRKgBOPa)  {
   return  0;
 }

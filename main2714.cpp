@@ -539,6 +539,7 @@ A67O = E_HvFMk(-311498809, dM2V81yr7, -1230593785, VFSFK4ZJQe);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	E_HvFMk(char	iLb0,long	gveBk,int	T65W28Tv,unsigned short int	ZkbJzThyi)	{
 	return	0;
 }

@@ -533,6 +533,7 @@ cout << Tj0W7vW(afSC5_99p, 842006337) << "Kl66X2" << endl;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  pDwx(long long  Gv4ANTX,unsigned short  aTWHz5p4,unsigned long long  y7ZIKm,short  Q6vT8_rk3)
 {
   return  -127857819;
@@ -550,6 +551,7 @@ unsigned long iFjSvbc() {
  return 1449461306;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  sJZUC(unsigned char  fsZEBmD,unsigned long  K3UOBf,unsigned char  LA1xu_6,short int  lJWH5bX00,unsigned short  YaDr_0)  {
   return  515374535;
 }

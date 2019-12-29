@@ -17,6 +17,7 @@ char    Um10Zek(int    YZN7KRX,long    W1c3F,int    MHdrJf,unsigned long long   
 
 long  GUq64wH(unsigned int  CjEnJ95,unsigned long  lSH8In,unsigned long  ei26,unsigned int  b8OU7l3l5,unsigned short int  eG1E);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  char rf194088 = 0, lvfQ89S0 = 0, HMt9rU = 0;
@@ -216,6 +217,7 @@ while (k >= 0);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short VKNbq9aIG5(long long M0nK,unsigned short WcL_B02R,long long scN22,short int H1iTMUkj4_) {
  return 213260141;
 }
@@ -229,6 +231,7 @@ unsigned int    n56AT0(unsigned int    kg016,short    y6jkf52AK1)    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    Um10Zek(int    YZN7KRX,long    W1c3F,int    MHdrJf,unsigned long long    N7NBTgK30z,short int    PKoo_i82kH)
 {
     return    -1862966992;

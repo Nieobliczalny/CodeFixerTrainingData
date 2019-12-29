@@ -11,6 +11,7 @@ unsigned int    AXGez4()    {
     return    843610775;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  NB_5UWXl(char  hXTOD,unsigned int  Dv10,unsigned int  VNS_,unsigned short  v7Vi7)  {
   return  658916823;
 }
@@ -25,6 +26,7 @@ long	VO0nc(short	QWl_k0,int	Efj8ut7_h,unsigned char	E7lU9S)
 	return	-687993257;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	unsigned short int	j_P35	=	1582003437;
  unsigned int v08XdpsW0 = 0;

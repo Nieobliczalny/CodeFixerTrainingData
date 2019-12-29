@@ -20,6 +20,7 @@ unsigned char cMmaK(unsigned char z51Q,unsigned short int a707g3,unsigned int G0
 
 long    ka0Y7Qx9pr(unsigned long long    D_8f_ZOLc,unsigned char    myl59,unsigned long long    Lew91);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  unsigned char VH7sAc3Yr9, Lk083aVi0_, Dq6tM1I, L5T_D7_7H, cu4bXV29C;
@@ -541,6 +542,7 @@ wi55P37AX = eTAtiCu(-1640828764, VH7sAc3Yr9, L539h, -1656826958, -621606799);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	n3q0FsJf5(unsigned long long	IE8Nv8kyg,unsigned short int	KKH4r,unsigned long long	aD4LjHoYe0,char	c2WitBaG)	{
 	return	1017841208;
 }
@@ -554,6 +556,7 @@ int  Jhupcf_F(unsigned short  acyEM,unsigned short  SE5whsHoO,long  PJAML6xP)
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char cMmaK(unsigned char z51Q,unsigned short int a707g3,unsigned int G052t4fp5) {
  return 1996185347;
 }

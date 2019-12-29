@@ -11,6 +11,7 @@ unsigned short int	RphtWc5()	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    wXW54(long long    pWm4,long long    esK5D3x19,long    lH282n6)    {
     return    668933152;
 }

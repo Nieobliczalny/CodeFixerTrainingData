@@ -372,6 +372,7 @@ uf1nIbqrP = (int)abs(LF2l_X);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char iobx96h_3a(unsigned long V3nCpUo,unsigned long long VU_Taz)
 {
  return 0;

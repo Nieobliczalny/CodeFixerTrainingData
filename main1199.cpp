@@ -12,6 +12,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char Pd1A(long long x96bLb2,unsigned short YQX9E,unsigned short QXB7Zg9r_3,long long mMvQ_)
 {
  return 0;

@@ -750,6 +750,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	v_DjKJ(unsigned short	L12P,short	WL6qkY_CI,long long	Y55_6z5V,unsigned int	GnS3k3)
 {
 	return	0;

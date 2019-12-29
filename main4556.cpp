@@ -392,6 +392,7 @@ while (j < 10);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  e3y7_0O(unsigned int  u3burhnF0Y,long long  jmqIP9N02h,int  byV84Jqf2,short int  L2yO2)  {
   return  0;
 }

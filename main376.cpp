@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	bGcI88hE(short int	BJ2AuT)
 {
 	return	0;
@@ -23,6 +24,7 @@ unsigned char  i_Wbsw1W()
   return  -641419710;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  G9mZn(unsigned long long  Lx01_3slO)  {
   return  1282925261;
 }

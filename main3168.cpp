@@ -10,6 +10,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  u09Pb(long  gD4VMVm3v,unsigned int  j29ZRFT,unsigned int  HdeYNZQ1,unsigned long long  u0Uq,long  jM95SLvxj)  {
   return  0;
 }

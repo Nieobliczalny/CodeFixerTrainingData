@@ -840,6 +840,7 @@ while (j >= 0);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short YXf69_(unsigned int L5I2) {
  return 66251370;
 }

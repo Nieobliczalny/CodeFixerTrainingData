@@ -532,6 +532,7 @@ fAWdpe = (unsigned long)(l365);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	yH9B(short int	UglV_5ZQ67)
 {
 	return	-295286069;
@@ -542,6 +543,7 @@ char	NU0J08Yp(long long	r_seW,short int	NStH98_,unsigned short	kRz60P)
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    Y16hJ(unsigned long long    BK5S3,unsigned int    Rr0byLj,unsigned int    B613g_LFY,unsigned long    WZzHD)    {
     return    260975954;
 }

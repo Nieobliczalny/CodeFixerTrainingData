@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char RF9f2C3r(char Ep5vZCY,unsigned short k8wUOfTZ,long RylQ4dbuH,char t3AJ8w7)
 {
  return 1637978059;
@@ -17,6 +18,7 @@ short int    ZUFWU(char    zU2znzeW,long long    e4T9gs10w,unsigned char    I55n
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     short    JuUjx;

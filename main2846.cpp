@@ -183,6 +183,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long mdKD7i5(int DigTwhz,long long IKZN,short Za39c91rbx,short int H0sfpA,unsigned long m1f8G8M)
 {
  return 706192606;

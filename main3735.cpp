@@ -395,6 +395,7 @@ T4D21_V3 = zyF35Q6z2V(T4D21_V3, 867330250, -1958657991, -1417572085, I0j1hS__ux)
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int xomn6ZR8L(short ao3nWK,unsigned long MNy9kOCK_,short int b2S36I2v1a) {
  return 0;
 }
@@ -409,6 +410,7 @@ short  zyF35Q6z2V(short int  k5mAX4D,long long  l2WK1N,unsigned int  KFXvX,long 
   return  -1752429742;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	m91M(long	NXc9BN,unsigned long	lM4B,long	Zsd_f)	{
 	return	819955094;
 }

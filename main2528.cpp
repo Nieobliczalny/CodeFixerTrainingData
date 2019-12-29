@@ -11,6 +11,7 @@ using namespace std;
 
 unsigned short p7SaCI(unsigned long long NRS7jYbY,int Jc_j,unsigned short int hOleF);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     unsigned long    u1s181jp,    Y487eN;
@@ -774,6 +775,7 @@ Y487eN = p7SaCI(l211rz, Ce9_T8_SP5, -1194786541);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short p7SaCI(unsigned long long NRS7jYbY,int Jc_j,unsigned short int hOleF)
 {
  return 0;

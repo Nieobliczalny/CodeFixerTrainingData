@@ -11,6 +11,7 @@ unsigned long  vDcU()  {
   return  1765322850;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	aWvVz3dHP(unsigned long long	F5ZQvYI,long long	nm0b75_xP,unsigned short int	V1UABdQM)	{
 	return	1900342516;
 }
@@ -25,6 +26,7 @@ unsigned short	KM3x()
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  short int SMJJp = -1170347821;
     float    UgoC097PL    =    -1476659560;

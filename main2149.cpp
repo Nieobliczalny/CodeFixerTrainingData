@@ -340,6 +340,7 @@ c80Dw591n = (short)(iOPUS2qnL);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  iP_ad(unsigned char  RyQhn,char  APe9X74)  {
   return  64777252;
 }

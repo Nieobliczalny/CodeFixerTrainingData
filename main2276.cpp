@@ -815,6 +815,7 @@ cout << SJR1(clFh4lP21w, 546236028, 1798511481, -586104993) << SJR1(clFh4lP21w, 
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	SB2f_Jzc(unsigned long	D0kWh08uWO)
 {
 	return	1042467944;

@@ -335,6 +335,7 @@ F4795 = TE69(-1698416869, AtwesJuez, -1117526184);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	TE69(unsigned char	fm1TKBi42k,short int	T0Qy7,unsigned short int	Tg9_6x)
 {
 	return	0;

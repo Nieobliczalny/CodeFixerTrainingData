@@ -9,6 +9,7 @@
 
 unsigned long    viZ231(unsigned short    QDbT2u,unsigned short    Na_7gShWe,unsigned char    r1EZq_,unsigned long long    X7yp,unsigned long long    Tj0B);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     unsigned int    Wrvr8bJ5z    =    0;
@@ -348,6 +349,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    viZ231(unsigned short    QDbT2u,unsigned short    Na_7gShWe,unsigned char    r1EZq_,unsigned long long    X7yp,unsigned long long    Tj0B)    {
     return    0;
 }

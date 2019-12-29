@@ -10,6 +10,7 @@
 #define    tI5jBYO    (-755555695)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short  gq7eEgBMO3(int  iK0AqaU)
 {
   return  -1333971059;
@@ -20,6 +21,7 @@ short  aNBB3U0s3(unsigned short  z7oy6,unsigned short int  nAe_4GeY6i,short int 
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  c2_A(unsigned char  T7GR)  {
   return  891130704;
 }

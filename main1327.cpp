@@ -235,6 +235,7 @@ FTtZ3_ = B9t__Y316(FTtZ3_);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    a8yQZhq_(unsigned short    oy5B54rf,unsigned char    Bu4eI3)
 {
     return    2131358078;
@@ -249,6 +250,7 @@ long long	Ey3tg2_(int	sqRC5w,unsigned short int	C_E46Cz2V)
 	return	1293495916;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  wPA0VD9Y(short int  W29_lK_07z,short  mSvY0K06,unsigned long  mmaFTzPf,int  y8DnuJ,char  Z3ebF47K)
 {
   return  -46945116;

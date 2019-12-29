@@ -10,6 +10,7 @@ using namespace std;
 
 short int	f_UtGX_(int	Z06j9,short	cOrL1lHaKh,short	z7ymJ);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     unsigned long    YM_2mrOQ4;
     YM_2mrOQ4    =    -1030155548;
@@ -514,6 +515,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	f_UtGX_(int	Z06j9,short	cOrL1lHaKh,short	z7ymJ)	{
 	return	0;
 }

@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	XvNsyCU(unsigned short	e_uMCm,int	UA2421Z,unsigned char	LOgX_DL77d,short int	mML0E7q_,int	v56fkHUf09)
 {
 	return	-230014992;
@@ -17,6 +18,7 @@ short  Ov1Vks6qtq()
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  unsigned long long k23GZ2M9j6;
  k23GZ2M9j6 = -706371867;

@@ -19,6 +19,7 @@ short    WxM1mkVVuL(unsigned int    Yu5lPa,unsigned short    gP7ScH,unsigned cha
 
 unsigned long long	CT5_(long	d_MOmGh,int	d47K38l,unsigned short int	Lnw9_AFZ,char	x04t2Gn_i,unsigned short int	QKn_Hc);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  int p4mKR35;
@@ -334,6 +335,7 @@ VO88t0K = (unsigned long long)(Gg_D);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  tfX_(unsigned char  pV_E0,unsigned long  f02IgH)
 {
   return  0;

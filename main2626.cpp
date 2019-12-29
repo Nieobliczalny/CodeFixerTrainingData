@@ -393,6 +393,7 @@ dW6pJ90X0 = RtRMe(1707708468, ZKjzuXuV, 556985396, tkl8Y7, -1920190441);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char OJzN954X_0(unsigned long IAN5,unsigned long gXuj_V,short int ZmXlf0SJ,short int iijg,unsigned int xt52b4B2Ht) {
  return -880057224;
 }

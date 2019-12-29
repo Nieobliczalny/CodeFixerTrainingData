@@ -518,6 +518,7 @@ gI_O0OYNS2 = (short int)(oNx39nB);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int YVy8sbWZg(unsigned short int aoCZMb4,unsigned long lo5Ul0H,unsigned short mBw1W64n,short f_5BkCBVf) {
  return -189170677;
 }
@@ -530,6 +531,7 @@ unsigned char	l3_yn(int	lv42)	{
 	return	1139799731;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	KL9Bc(long long	ZarmC,short int	lDRC,unsigned short int	y2U28U,short int	P31_N7)
 {
 	return	0;

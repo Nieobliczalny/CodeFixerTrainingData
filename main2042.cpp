@@ -16,6 +16,7 @@ unsigned short    nOxbB()    {
     return    111773194;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    TD7nzZough(short int    XtMiA7jN,int    hVDy,short int    U0tHAw_uwk,unsigned short int    Ld51v)    {
     return    0;
 }

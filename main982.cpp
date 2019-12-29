@@ -13,6 +13,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long Q_jzV(unsigned char d2xChcoa8I,unsigned char P78Rx468tf,unsigned long WWUc,unsigned long ZlD3ySsfXJ,unsigned char PT3eEhPY)
 {
  return 810607623;

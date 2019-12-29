@@ -359,6 +359,7 @@ Ee9a = (short)(FoP57rOA);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    V2e_I2_j_7(long    PTEpkk,unsigned short    GkLI8XC,short    IxA6T50H,unsigned short int    te11qRFn)
 {
     return    0;
@@ -369,6 +370,7 @@ int t9K5r_747(long uu06,char Kb2_KnT,short Qings,long long e_C9x0oO)
  return -1200102240;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  L_Fsck1Q(int  i9NqO_7l)
 {
   return  -743591412;

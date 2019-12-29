@@ -14,6 +14,7 @@ unsigned short int J42i5(unsigned long long Vi9a9i,char Ez109,unsigned short UO9
 
 short tT77Csr(short wp33ZMMz,int Y652G);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   long double  r561,  YhxwRGj6F,  FVf232Y2_,  tNGwlsiI2p,  p_7y,  uaTCy7BCZC,  UtD16C,  Z64MjRWd,  Hi6eq5F,  FDFOd,  S648RSU64,  e4E66nNG2,  i5eWoq1NmT,  ej3c4qV_Ld,  c736L1WzE,  ghedeq2,  Erm0_b8O7,  D039s,  UNRV,  iSbb,  Q43C4,  iP44;
     r561  =  YhxwRGj6F  =  FVf232Y2_  =  tNGwlsiI2p  =  p_7y  =  uaTCy7BCZC  =  UtD16C  =  Z64MjRWd  =  Hi6eq5F  =  FDFOd  =  S648RSU64  =  e4E66nNG2  =  i5eWoq1NmT  =  ej3c4qV_Ld  =  c736L1WzE  =  ghedeq2  =  Erm0_b8O7  =  D039s  =  UNRV  =  iSbb  =  Q43C4  =  iP44  =  -880579213;
@@ -498,6 +499,7 @@ QdCQ = j751dw(1209454419, c736L1WzE);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  j751dw(long  pJoI0tam,unsigned int  fI_5CV8dV2)
 {
   return  0;
@@ -508,6 +510,7 @@ unsigned short int J42i5(unsigned long long Vi9a9i,char Ez109,unsigned short UO9
  return 1789170295;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short tT77Csr(short wp33ZMMz,int Y652G) {
  return -1146807036;
 }

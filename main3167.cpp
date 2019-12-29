@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    A32yDU2Ghe(long    ZuTo4GH)    {
     return    973506187;
 }
@@ -20,6 +21,7 @@ short int  teY_IFIrh8(int  p8Gy,unsigned long long  oh6z,unsigned short int  XEp
   return  -1041376112;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  Jl3Ag2s(unsigned long long  FuCxAR,long long  z6QDpi)
 {
   return  1755524624;

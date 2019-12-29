@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    O0vn(short    i6SN)
 {
     return    2052933896;
@@ -17,6 +18,7 @@ unsigned long long	DUsGu4W36W(unsigned long	ZJ9J)
 	return	-1499257504;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  od_A9AT(char  Ly1QbgY1)  {
   return  0;
 }

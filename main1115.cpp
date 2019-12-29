@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char EHEKZRz(int toV_Ygp__,char Ba25581,long HneliEYI,long bM_W_0_g,unsigned long long gAEcbYJH1) {
  return 103733900;
 }
@@ -22,6 +23,7 @@ unsigned long    XP_4Q(unsigned long long    A4lH,short int    N_F9Fv4Ylz,unsign
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  int mwem0h = -1854493532;
  unsigned int w75wD61 = -849667828;

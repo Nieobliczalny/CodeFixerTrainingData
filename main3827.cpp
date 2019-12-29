@@ -11,6 +11,7 @@ using namespace std;
 
 long long tk2PPi();
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     char    ipByEtz9_e    =    269041174;

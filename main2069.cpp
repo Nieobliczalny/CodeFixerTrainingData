@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long AO51O066O(short R0moM,short j_50T,unsigned char P2Y5SpkxU) {
  return 0;
 }

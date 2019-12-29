@@ -208,6 +208,7 @@ cNRCK *= 2138975793;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    ovCAF(unsigned int    g71RM,long    gA21epRha7,int    YJN3I7AJ)    {
     return    0;
 }

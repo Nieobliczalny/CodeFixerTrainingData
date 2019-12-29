@@ -8,6 +8,7 @@
 #define H3Iz9_g (0)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  Bd7M(unsigned char  cb2DpX5,unsigned long long  FqKDEk6y)  {
   return  735845972;
 }

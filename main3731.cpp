@@ -11,6 +11,7 @@
 #define  e9tdi5l5_  (0)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	HLm86Q05c(short	BVb8,long long	sp_dynn)
 {
 	return	0;

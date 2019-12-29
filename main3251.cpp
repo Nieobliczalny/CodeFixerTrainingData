@@ -25,6 +25,7 @@ long long OT9E();
 
 unsigned short	EMs5FAqw43(short int	KtFQ581,int	PF8YVbN,long	HYhsW6JJV,short	DzYvv93P,short	qhp37);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  long long p6uG3jv = 430073182;
  short qe3nY = -353506640;
@@ -810,6 +811,7 @@ std::cout << "fzsF5Q" << OT9E() << "lT60_" << std::endl;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  oWgw(unsigned long long  Q84F60_,unsigned long  oXz4_,unsigned int  M5RX93,long long  lkk0zet1)  {
   return  265210316;
 }
@@ -823,6 +825,7 @@ long long OT9E() {
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	EMs5FAqw43(short int	KtFQ581,int	PF8YVbN,long	HYhsW6JJV,short	DzYvv93P,short	qhp37)
 {
 	return	2016482200;

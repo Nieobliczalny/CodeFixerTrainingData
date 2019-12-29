@@ -16,6 +16,7 @@ using std::floor;
 
 char  Apu3Fo_3W(short  jq_V,unsigned long  YI9Y_tlE);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	long	MOA13jOrce	=	890307380;
@@ -319,6 +320,7 @@ FH5_QP = (ZgtX) ? 40970875 : 628346150;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  Apu3Fo_3W(short  jq_V,unsigned long  YI9Y_tlE)
 {
   return  0;

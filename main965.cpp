@@ -251,6 +251,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	o58L3(short int	O_f9Pc,short	M_f_vn)
 {
 	return	968577130;

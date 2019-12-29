@@ -484,6 +484,7 @@ cout << w43gy(-1380418360, t7mBR4, z8Gb8_, 1429537113) << endl;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    w43gy(short int    cK9vl1X,unsigned char    DjR32Fe,unsigned long    gy0lfQ4Q,unsigned char    y7MSf3)    {
     return    0;
 }

@@ -15,6 +15,7 @@ using std::floor;
 
 unsigned short int  Z5a9(unsigned long  AyLJ,unsigned short int  W8nq8A,unsigned char  P3_Z,unsigned short int  Hgx7B4);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	unsigned short	F3P3l_Ob	=	-80794889;
 	unsigned int	OFm91O	=	-271885835;
@@ -363,6 +364,7 @@ A5A27aWMj = Z5a9(1027286250, -1937006499, 1592955637, -1696699060);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  Z5a9(unsigned long  AyLJ,unsigned short int  W8nq8A,unsigned char  P3_Z,unsigned short int  Hgx7B4)  {
   return  0;
 }

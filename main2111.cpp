@@ -10,6 +10,7 @@ using namespace std;
 
 unsigned long  gIky9IU2M(short  w293Y97si,unsigned char  vPop,short  QpDr,int  d3QX);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     unsigned short int    J97B;
@@ -619,6 +620,7 @@ e32H9TfLf = (long)(l4nf70_1 * e32H9TfLf);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  gIky9IU2M(short  w293Y97si,unsigned char  vPop,short  QpDr,int  d3QX)
 {
   return  0;

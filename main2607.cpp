@@ -39,6 +39,7 @@ L_V4nu_2CW = (unsigned char)(jYgOV);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	SC9kV7_IJ(unsigned int	xslA,short int	pJM0dBM4q,unsigned char	FQzP_MB)
 {
 	return	-1263557247;

@@ -11,6 +11,7 @@ char    ulr1gROA1()    {
     return    -1867429755;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int T4xHC(unsigned long long h22g3Cbcr,short int hw1HQ,char IvvCLZIJa,unsigned short int wO67z921R9) {
  return 747176236;
 }

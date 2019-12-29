@@ -223,6 +223,7 @@ char    Kzc3CxwL()
     return    1019093474;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	lz8GCZYN(unsigned short int	fF_M6CGkew)
 {
 	return	0;

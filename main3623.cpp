@@ -18,6 +18,7 @@ using std::floor;
 
 short	t7Y_6(char	Orf56,short int	hb8MDmon,unsigned short int	FI32e9,long	yl9O3G0,unsigned long long	x7eB6);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     unsigned char    HZGztKZQ    =    1247866705,    Ra0rVd    =    549795021,    ofqs97    =    -1707725135,    u428oOUh    =    -123295552,    cOxml    =    977465386;
   unsigned short int  fWH65  =  0,  Ww83Zg  =  0,  WOthLG3dy  =  0,  Euf3tj  =  0;
@@ -792,6 +793,7 @@ std::cout << t7Y_6(cOxml, 1093712996, 1227348296, fWH65, u428oOUh) << HZGztKZQ <
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	t7Y_6(char	Orf56,short int	hb8MDmon,unsigned short int	FI32e9,long	yl9O3G0,unsigned long long	x7eB6)	{
 	return	0;
 }

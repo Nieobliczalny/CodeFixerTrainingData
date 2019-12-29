@@ -14,6 +14,7 @@ short z5_77Pz64(long long p_5SH7);
 
 unsigned short	F2PRtyI80L(unsigned long	XWJN8aSQ,unsigned short int	tFF__5,int	AHp95X85_T,unsigned short	osit);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  long dhgCUP = 0, kS2lTG = 0, u7wo4ydE = 0, P_6Ve = 0;
@@ -84,6 +85,7 @@ while (i >= 0);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	qrQqSS7x5(int	dlss)
 {
 	return	0;
@@ -94,6 +96,7 @@ short z5_77Pz64(long long p_5SH7)
  return -1647692089;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	F2PRtyI80L(unsigned long	XWJN8aSQ,unsigned short int	tFF__5,int	AHp95X85_T,unsigned short	osit)	{
 	return	378306906;
 }

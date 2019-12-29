@@ -17,6 +17,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	S_lsTZ(unsigned short int	w5_42,unsigned short int	epVz,unsigned short	G4rr6d,unsigned short int	X_91,unsigned short int	ejqPAME8e)
 {
 	return	-1509020154;
@@ -27,6 +28,7 @@ int wWS52_Q(short B_Qod1svt,long long fOdFA_0D,long zPIZ5aG,long long kR_0)
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	qqKr80m2I_(long long	dx7wR7Gvza,long	sKRq4Mt6)
 {
 	return	1157408916;

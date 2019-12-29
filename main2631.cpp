@@ -14,6 +14,7 @@ unsigned int  yE_wlg4(int  DiDt9Pd6P6);
 
 unsigned char a7td(char cU2frr2,short int Zo3rnhwp0I);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	unsigned int	eUWcUxV	=	-957794118;
@@ -452,6 +453,7 @@ while (i < 10);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    VQ7e6Ys6(unsigned long long    QCY2m,unsigned char    lyZI6o,unsigned short int    hoDssZA_aF)
 {
     return    -1737554592;

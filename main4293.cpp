@@ -12,6 +12,7 @@
 #define  Rv7DC  (179316552)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  gb8RKem(long  M061sLU0,short int  aa3q5H,int  u4OT0H7f2,int  MAN0)  {
   return  0;
 }

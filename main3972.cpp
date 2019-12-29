@@ -757,6 +757,7 @@ gT8bvv = ZU88y0y(UMlY, 561537029);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  ZU88y0y(long  dwENb6bl,short int  KT9s3CRzjd)  {
   return  0;
 }
@@ -770,6 +771,7 @@ int  sOZt(short  V2P5447,unsigned short  NRYW,char  H3iY8v52)  {
   return  -330545890;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	lW3HxM16R(unsigned short int	D25WV4I55,int	USzG_K_7j)
 {
 	return	-515366750;

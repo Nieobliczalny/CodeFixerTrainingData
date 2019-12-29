@@ -17,6 +17,7 @@ unsigned long long ZHy_() {
  return -73426088;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long uk78V(unsigned short int En_Rlq,unsigned short bp1Q7rV32f,short Y2XOO13W3S,short int GoZl56un8) {
  return -1682698664;
 }
@@ -30,6 +31,7 @@ unsigned long	Pn5D414U(long	m5MH14zn0A,char	X405JiQj,long	PYAzI,unsigned short i
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    O892TI(unsigned long    lAs5ifTXZ)    {
     return    1093856438;
 }

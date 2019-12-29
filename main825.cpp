@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  SxKh(short int  Z3Xb0vOt,char  n29M4BzJT)  {
   return  0;
 }

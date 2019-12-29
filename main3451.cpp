@@ -10,6 +10,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  NmrE(unsigned long  fzb_7pUl,char  Z74u,unsigned short  rOiZkp,unsigned long long  P3EsUPBLeH,unsigned int  obHS)  {
   return  0;
 }

@@ -12,6 +12,7 @@ unsigned short int  IORw();
 
 unsigned short	Ft2K9(long long	HDz14G0io,long long	TL721_,unsigned char	PT9C0);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   long  PfDWAe1p8  =  0,  YqNYy9  =  0;
@@ -208,6 +209,7 @@ unsigned short int  IORw()
   return  -702607456;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	Ft2K9(long long	HDz14G0io,long long	TL721_,unsigned char	PT9C0)
 {
 	return	0;

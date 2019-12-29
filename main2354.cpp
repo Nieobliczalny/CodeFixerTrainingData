@@ -811,6 +811,7 @@ vkTl3YZn3m = (int)ceil(OX9DoE);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int wcPG_P7(unsigned short int Izek6lVbq,unsigned char J83EkMd4,long long J_oGg,char O5Gy_U60,unsigned short w69inPLP3) {
  return 0;
 }

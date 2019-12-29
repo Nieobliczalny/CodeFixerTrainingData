@@ -611,6 +611,7 @@ QC2BEx82 = (int)floor(iI20);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	F0YwJ(short int	r8Ko4E_,short int	xxciE5hA,long	amn9)
 {
 	return	-1928986042;
@@ -621,6 +622,7 @@ long long	e80CKj(unsigned short	Mk6WtR,int	PS1ad)
 	return	2039770040;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    jV1L0gSa(unsigned int    sJykdqBZ_I,long long    CCLYGU8)    {
     return    0;
 }

@@ -346,6 +346,7 @@ t_ef = Z8rk5_(-507920873, msq7oTQu4, -1625902920, 529914755, 333056298);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short Z8rk5_(unsigned long long M1nw_k81Y,unsigned short DzpU8k8p39,unsigned long long m6K0bBK4I_,short int e1Mdv,short hB21eZK) {
  return 175167710;
 }
@@ -359,6 +360,7 @@ unsigned short  A62u9TFldR(unsigned int  F5526wWs4,unsigned long  qPq0ZQUITg,lon
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    mpLV(char    Gd9Z5bS,unsigned short    wj30Dk852,long long    E0TpMQ_0)
 {
     return    -938791216;

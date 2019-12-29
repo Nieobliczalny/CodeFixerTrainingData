@@ -13,6 +13,7 @@ long  k1DO9oe(char  nY2XHF,unsigned char  X21B,unsigned short int  yFBGYt_5,long
 
 unsigned int  P94_4();
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	unsigned short	K4_xd	=	0;
@@ -239,6 +240,7 @@ int    iUNc52VmT()
     return    -2112416066;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  k1DO9oe(char  nY2XHF,unsigned char  X21B,unsigned short int  yFBGYt_5,long long  Jcf361t)  {
   return  -1469893596;
 }

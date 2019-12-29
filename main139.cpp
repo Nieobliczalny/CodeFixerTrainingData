@@ -18,6 +18,7 @@ unsigned int l5wA697(unsigned long long L9o0g70K,long cnWMdCBGfn,unsigned int xP
 
 int    MMUDND37(unsigned long    i34nF9KT,char    pL_O3);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     unsigned char    Vsr_cLG0x,    Hn7w,    YI7yqZNm1c,    o_HP,    D5xZefa,    jW062,    r7z1,    mcIw7S858,    K_6V_,    vMAM_UM,    MpAX5rY3O,    hv1bqLq55y,    SxW2usE,    X_w0ynL,    pxf5825Eef,    SJXC,    EB52L9NBO,    sdL2g9VP5I,    mxRO1,    pLZEeh_fUN,    rF60F6K7mZ,    m1iXO8q1,    XE2LlZq,    Kr160n_,    Vu92,    Ad3U,    HBdRQ,    bHNP7zTz,    ex58H0_xSU,    HHZec,    mp24YrE,    a3j7LG5E6,    G1DX,    krXG,    fe8ulixBqj,    ZEGZp8K5,    iKGtWhh,    cB37JHY1i7,    duYxz7K,    uF00DVa5h3,    qiP78Yh,    ATR_e;
     Vsr_cLG0x    =    902623534;
@@ -722,6 +723,7 @@ cout << HBdRQ << "u1438t" << endl;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  jBfF_Ak3(short  FTGh3,long  rgLX283)  {
   return  0;
 }
@@ -736,6 +738,7 @@ char  ejy0J5_(unsigned long long  L0r9S7_7L9,int  kv1Gzu0oq_,short int  I758,cha
   return  675588563;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int l5wA697(unsigned long long L9o0g70K,long cnWMdCBGfn,unsigned int xPF263j,short VDZYv)
 {
  return 1590083286;

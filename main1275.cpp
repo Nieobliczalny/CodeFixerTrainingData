@@ -17,6 +17,7 @@ unsigned long long  i4CtyprY9(unsigned long  oK7Q3u2);
 
 short	v2IhR39(unsigned short	CyGB,int	mpYz3nlKI,short int	t207x54e,unsigned long	lfnZR89yP);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     unsigned char    sILthxY;
@@ -215,6 +216,7 @@ ce2Z4L = (unsigned char)(HW_Lh * ce2Z4L);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	oyW9(unsigned long long	M96_jE,unsigned int	dOYr4,long long	X68Duh)	{
 	return	414362256;
 }

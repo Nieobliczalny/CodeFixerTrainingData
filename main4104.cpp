@@ -14,6 +14,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  t8Dx(unsigned long  gjefX9,unsigned long long  uMhi33,int  k_od,unsigned short  pPF18z)  {
   return  -505075522;
 }

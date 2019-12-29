@@ -210,6 +210,7 @@ ElTD2 = GjqLtvies1(-1714936267, DIvwKlb, -886114582, -307907622, -2120476667);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  B6_iY(unsigned short int  vc5r1,unsigned short  Kw1eNc3)
 {
   return  1142892192;

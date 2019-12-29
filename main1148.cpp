@@ -296,6 +296,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short  FbA79(unsigned short int  OFB84D)  {
   return  0;
 }

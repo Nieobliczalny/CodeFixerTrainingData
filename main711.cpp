@@ -412,6 +412,7 @@ y66g31Z = (int)floor(X12N118CK);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int JIByr5E(short int Q7l2K1,unsigned int ulAgb_w) {
  return 0;
 }

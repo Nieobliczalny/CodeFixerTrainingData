@@ -11,6 +11,7 @@
 
 long long tl8c0Ae(unsigned short h_8_x_Jl,short int Eix9T_r7Y);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  char aRN8;
  aRN8 = -71384479;
@@ -560,6 +561,7 @@ KbECn_ = (int)floor(R8qTh);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long tl8c0Ae(unsigned short h_8_x_Jl,short int Eix9T_r7Y)
 {
  return 0;

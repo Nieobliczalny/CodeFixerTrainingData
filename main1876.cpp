@@ -19,6 +19,7 @@ unsigned int  ETI7_0(unsigned int  ClvO,unsigned short  n88m1_v8,short int  NE_b
 
 short int  GVUVUFWqx(unsigned long  GIdg,unsigned short  Or3Y287y,long long  QOwPv,long  I2MD,int  kxkiH0dp);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   short int  u6x4o45m,  dd3o8NEP,  gvgRsE,  AhUYVhvL,  ATDZpSJ;
     u6x4o45m  =  dd3o8NEP  =  gvgRsE  =  AhUYVhvL  =  ATDZpSJ  =  0;
@@ -455,6 +456,7 @@ Jm1A79S8uY = (int)abs(t_EG6GDm);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  ETI7_0(unsigned int  ClvO,unsigned short  n88m1_v8,short int  NE_btB,unsigned short int  IX0xv6_Jm,unsigned long long  JcaE36gaO)  {
   return  1996197068;
 }

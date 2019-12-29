@@ -17,6 +17,7 @@ unsigned int    dFz61Ih()    {
     return    340933930;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  NLSFk(unsigned long long  lq8b3enor3,long long  rFya0V38o,int  TeW9y0Z,unsigned int  J9705nW,unsigned short int  QQ8iNBk)  {
   return  678386904;
 }
@@ -31,6 +32,7 @@ unsigned int  vS8m(unsigned long long  eP1cH0SB6G,unsigned long  XH_vdBUAOI,long
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  short int nuVa4cNh5;
  nuVa4cNh5 = 0;

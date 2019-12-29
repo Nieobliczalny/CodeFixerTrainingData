@@ -10,6 +10,7 @@ using namespace std;
 
 long    G_28C2bO(short int    wR19jc0Iv,unsigned char    zO7Yb,unsigned short int    CZ1f2J7);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	long	Nhpe5d63E0,	pn420tB,	E_LxIbn;
@@ -504,6 +505,7 @@ a_La27M = (XS2n & yQqV80esq) ? M507atV : hj6Rv5m7;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    G_28C2bO(short int    wR19jc0Iv,unsigned char    zO7Yb,unsigned short int    CZ1f2J7)    {
     return    0;
 }

@@ -24,6 +24,7 @@ long    L9HZ()    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  fRp4(int  OdOSa,unsigned short int  y0pXq,unsigned long long  TWLEK2,unsigned long long  svB6_6z4G,unsigned long long  KdogJD)  {
   return  565888183;
 }

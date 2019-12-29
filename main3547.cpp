@@ -12,6 +12,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  gH6pW50nO(unsigned long  Wci5X01F)  {
   return  -584384125;
 }

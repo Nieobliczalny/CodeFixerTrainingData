@@ -288,6 +288,7 @@ cout << "tMMVS_m" << "PI9MC9a" << U9XCyY << zKMI(Pf_x, IFQjT__hy) << QG0K << end
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long Ntl9n7(short Bq_Pl3,long long hBGdg,short int XT3m9sWrxt) {
  return 543146425;
 }
@@ -300,6 +301,7 @@ short    apQ40DG_(long    OKyP_c5,unsigned long    H2Dq__,unsigned short int    
     return    -531442814;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char udr1177(unsigned char Y1h1jSkflb,int JzRVdh0XpF,char NX_m81,unsigned char pcG12Ws7Ps,short int JjP56rkGwB) {
  return 0;
 }

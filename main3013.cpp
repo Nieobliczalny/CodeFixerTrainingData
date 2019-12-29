@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	D_nKeRH9Bn(short	DQ_xj6,short	N5CD,short	G4Rc,unsigned short int	RMX6)	{
 	return	-1673167782;
 }
@@ -19,6 +20,7 @@ unsigned short int	p61tc1R_()	{
 	return	951739287;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long Bs41A4c(unsigned long xiV7M61,unsigned long B17nw) {
  return 126483708;
 }

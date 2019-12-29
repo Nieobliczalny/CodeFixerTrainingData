@@ -22,6 +22,7 @@ char  j3H3N95(unsigned short  TNRg);
 
 int  NB9Z_X6(unsigned long long  UME_C7Pcr);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     long double    bNQYZY6,    h_DzKqg,    bn9qP,    SwS_SE,    U_HldE96,    wc3_63,    HCc10,    iPM_,    qm_3VwvCb3,    n7_EaKl,    RWfULRuJ,    W71tEtFy,    lgPQ9891F,    w0w2,    Zz5R,    A3LH,    iaXbV6Jc,    XfH_L9f9z,    z37_wveuJ,    r5Ab4,    NDrwTa,    vI3E,    e353,    k13_w172mv,    j2uioD6xX,    DXxE,    HtJWJ1r,    ZWJ_i32,    fXw8lwff,    lwTajkP,    Suv7fD,    jd9l8cgsZ1,    D7x4,    p7jo,    hq45AONXQt,    pUBz4,    n7KfB1Yx,    bihgn7_,    Cv_97vA463,    oVv3AL72,    C927c587,    jvWRts5s,    tGJz,    lXyP_lDsxR,    aW4Lxd2tR,    dkt7cgzr4,    blSs1O,    M1__9M,    E9a2Hyt,    EZ_l_tSVNN,    J99I824O,    u6lW78,    uKNbxO1nn,    B_hNvctF,    s02a3;
@@ -516,6 +517,7 @@ std::cout << "m_a88LcVM" << "dAZ8" << "f82x" << NB9Z_X6(1485822320) << wc3_63 <<
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    KiXC9g(char    XHsFz_VG_g,short    eIje0,short    xuEEg,unsigned int    W2836,short    IQ_6f0A)
 {
     return    -1888878361;
@@ -530,6 +532,7 @@ int	mTWDl5sJth(unsigned long	R8fX8n0T,long	xVdG4zIZe,unsigned char	Gk5u_Y6n)
 	return	-2135842548;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  j3H3N95(unsigned short  TNRg)  {
   return  0;
 }

@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	int	LCRL2	=	-1017056619;
   unsigned int  k5Pi94  =  854508074;

@@ -447,6 +447,7 @@ while (i >= 0);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	WUHhE4(int	UlQA18Z1,unsigned short	ACaWV4,int	yuJJ68N,unsigned short int	hxw_1v1,long long	Wr3rdye9wn)
 {
 	return	0;

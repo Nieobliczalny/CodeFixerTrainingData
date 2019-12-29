@@ -10,6 +10,7 @@ using namespace std;
 
 unsigned char    w_U1l_Ao7p(short int    HRbVE,unsigned short    Ls483anWzN,short    qmqdeU9,unsigned long    cnh1sxJSyz);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	long	K_vs	=	0;
   double  yxev_6r9KV  =  1993242836;
@@ -181,6 +182,7 @@ i++;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    w_U1l_Ao7p(short int    HRbVE,unsigned short    Ls483anWzN,short    qmqdeU9,unsigned long    cnh1sxJSyz)    {
     return    0;
 }

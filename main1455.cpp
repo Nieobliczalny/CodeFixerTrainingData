@@ -449,6 +449,7 @@ E0A4FnPGF = (int)abs(AC_uiiq);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	w2Sj8Ob3(short	S7cVIIEM_4,int	Q3LHfG0ISm)
 {
 	return	0;

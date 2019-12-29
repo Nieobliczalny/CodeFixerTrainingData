@@ -181,6 +181,7 @@ u2IT = uC9lL_e7S1(i6X719mOM, Z_V7, -1062188249) / dQ1_G0_0H;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    kZFHy3(char    wr_O6,unsigned char    bCd2x7QGB_,int    KFVq_4T84Q,short int    GCZy3yor,short int    dxDha1x)
 {
     return    551766619;
@@ -195,6 +196,7 @@ unsigned int	VCJQt7Zrmi(unsigned short int	D9B9cmf0)
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char uC9lL_e7S1(long long d4EYNk9,short int rnZeDqi,char x87cPS7EW) {
  return 1132979099;
 }

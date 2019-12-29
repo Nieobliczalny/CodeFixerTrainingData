@@ -17,6 +17,7 @@ int GJDDp2UM6H(short int W2d86Y,unsigned long long jyE1);
 
 long	y0DQsQpc();
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     double    qmHh;
@@ -913,6 +914,7 @@ n0HlKh9QV = (int)abs(rESLb4);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int GJDDp2UM6H(short int W2d86Y,unsigned long long jyE1)
 {
  return 1910661136;

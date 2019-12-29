@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    vG43r_VOp(long    QQ7f,unsigned long    ZVXI,int    lQZr2Axe,int    WC1o7)    {
     return    -1407874268;
 }

@@ -307,6 +307,7 @@ pka2XP5jG = K3AuDh0N >> RBHnc1kcCY;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    Ze78_o6O(short int    hf6Nj_M2,short int    aR5Kwx,short    S1EW280)
 {
     return    0;

@@ -195,6 +195,7 @@ TV_8X_6KFr = HFvMFFQYM4(t3_WFTMx, R38W, -786232217, 1974733493);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    T48_(long long    mbrLk,int    lYGDL_85Z,unsigned short    upr118lJ,int    PPYOgR)    {
     return    -539392171;
 }
@@ -209,6 +210,7 @@ unsigned long  cS6Dwup59E(unsigned long  Ry8i7M3Z,unsigned long  nK7O)
   return  -179265209;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    Opu4Ew(unsigned long long    viyONy,long    y9g5J,unsigned long    fO76hd9v,short    l0FcHU_8)
 {
     return    1129145272;

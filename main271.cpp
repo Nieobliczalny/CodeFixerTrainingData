@@ -855,6 +855,7 @@ i--;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int U2St5f0f(int a0PJ46Uhdd,unsigned int kS_qZjIS,char rr6cT4Ro,long long kJ8_K_Rb,char kk98)
 {
  return -1695534887;

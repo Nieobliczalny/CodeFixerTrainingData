@@ -444,6 +444,7 @@ Om7_o3UJf2 = p475Dif2E3();
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    zh7lTm(unsigned short int    D3u60p2,unsigned long    hp8U4eytI,int    i3hrD2Ik)
 {
     return    0;
@@ -458,6 +459,7 @@ unsigned short int  p475Dif2E3()  {
   return  -1022394948;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  cLaR70(char  F778B0nsa,unsigned char  Zy8_z0H)
 {
   return  -1865624787;

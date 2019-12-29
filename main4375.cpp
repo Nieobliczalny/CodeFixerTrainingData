@@ -451,6 +451,7 @@ iht9t9nC = (double)(UNIn_uxBH);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  O05pG8dwAK(unsigned short  gJ5nSFvA,short int  MA68F2,unsigned long  ALmQeYxlWX,short  A_6j,int  h3Mm)
 {
   return  0;

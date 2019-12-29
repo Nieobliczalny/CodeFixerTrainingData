@@ -13,6 +13,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    lElfEpY_(char    Dn7i,unsigned int    H4jN)    {
     return    2031869495;
 }

@@ -18,6 +18,7 @@ int  hW3Qrl1x5(unsigned long long  fr_W,short int  yM5b);
 
 short	t_NsA(unsigned char	A0U5,long	Y2n9VM5O);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   long double  T73U8P;
@@ -840,6 +841,7 @@ unsigned int	ka9tBTXPs()
 	return	757261076;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  hW3Qrl1x5(unsigned long long  fr_W,short int  yM5b)
 {
   return  481571637;

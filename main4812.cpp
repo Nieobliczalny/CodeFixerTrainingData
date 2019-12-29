@@ -21,6 +21,7 @@ unsigned long    fXmm7_1()    {
     return    -1997714679;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  QK8nA69IHt(short int  fSKuH,unsigned long  GwMAth,long long  cxKjT_U,int  X0o79l,long  wF3P)
 {
   return  477885624;

@@ -370,6 +370,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	wz2NS(unsigned short	a3mwo3tK,char	SOn1cMuK,short int	HMw_5M)
 {
 	return	0;

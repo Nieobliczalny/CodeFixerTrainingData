@@ -176,6 +176,7 @@ Gi6hG0 = (unsigned long)(arj6819Oo);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long nURf3(unsigned short e_B6,unsigned char LYny,unsigned char w18KdeKF6F) {
  return -782708249;
 }

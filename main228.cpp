@@ -14,6 +14,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    Ui4bp(long long    iSKoD,long    wGju0mB)
 {
     return    0;

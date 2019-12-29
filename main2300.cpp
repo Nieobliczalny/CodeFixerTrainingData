@@ -575,6 +575,7 @@ YTid = (int)abs(ivMjJa);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short qnHn(unsigned char qFB_k2T,long long Ri354q)
 {
  return 0;

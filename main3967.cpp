@@ -13,6 +13,7 @@ using namespace std;
 
 char    S8I088xs(unsigned long    POq_JR,long long    rvlFyjk);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   unsigned char  HPP3c6  =  -1897399075;
@@ -352,6 +353,7 @@ cout << "v1_PUJ8_" << endl;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    S8I088xs(unsigned long    POq_JR,long long    rvlFyjk)
 {
     return    0;

@@ -15,6 +15,7 @@ using namespace std;
 
 unsigned int	Yzf7d7O0Jr(unsigned int	FmKN,short	Tv_hSKMR,char	YYF2AJ08d,unsigned short int	L7w3bGJ08e,unsigned char	r_RjQs4mv);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	unsigned short	HU8k9S,	ovok,	SJ4M7q16x,	J2h2r10,	ieH0t,	B_BdS2f0,	D1m1_M,	NGS9xet,	Iu_z_oo_G,	vfA0049QMw,	B10X3PPX,	M62_V61a5K,	O_l_UVSA,	tlAQBD2,	btyTJK;
 		HU8k9S	=	ovok	=	SJ4M7q16x	=	J2h2r10	=	ieH0t	=	B_BdS2f0	=	D1m1_M	=	NGS9xet	=	Iu_z_oo_G	=	vfA0049QMw	=	B10X3PPX	=	M62_V61a5K	=	O_l_UVSA	=	tlAQBD2	=	btyTJK	=	283971987;
@@ -255,6 +256,7 @@ cout << "cQOOKzDSJ" << "o64RBdI_2" << J2h2r10 << endl;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	Yzf7d7O0Jr(unsigned int	FmKN,short	Tv_hSKMR,char	YYF2AJ08d,unsigned short int	L7w3bGJ08e,unsigned char	r_RjQs4mv)	{
 	return	0;
 }

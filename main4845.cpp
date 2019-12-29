@@ -15,6 +15,7 @@ using std::floor;
 
 char	KHh9_vI(unsigned long	dN1kdA8,short	i02Va2,unsigned int	M639rLQO,unsigned long long	egwm03);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  short srYZiVeQ1 = 0;
@@ -382,6 +383,7 @@ while (j >= 0);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	KHh9_vI(unsigned long	dN1kdA8,short	i02Va2,unsigned int	M639rLQO,unsigned long long	egwm03)
 {
 	return	0;

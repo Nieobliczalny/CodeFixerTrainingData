@@ -16,6 +16,7 @@ unsigned int	B1i99Zz(unsigned short	Fw0N_puxlU,unsigned short int	EQ7D4BnZ,unsig
 
 unsigned short int    mwbX8f();
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   long  sLeie885  =  -659506771;
@@ -709,6 +710,7 @@ int karC8641kG()
  return 2105528888;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short  xR9_lfY1xv(long long  zA8W,char  M_wHi)  {
   return  -621070243;
 }

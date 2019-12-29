@@ -14,6 +14,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  ApL_sfD(unsigned int  r7jY_EG,unsigned short  ZbRb8Lm5,long  X7V71)  {
   return  0;
 }

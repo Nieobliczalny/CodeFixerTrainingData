@@ -453,6 +453,7 @@ std::cout << "C70R5Y1" << a1mq99(NI6x6A3P, -433226662, -464905370) << y87z_WS4nJ
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  a1mq99(char  PIpR,short  TA5e1506Vw,unsigned long  kG2WWUuaV)
 {
   return  1892914072;
@@ -463,6 +464,7 @@ short  C4RF(int  IDyj1,char  K0w4_2gS,unsigned char  R_UK1dxG)
   return  631566124;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	II1m(unsigned short int	Zi_7d_r)	{
 	return	0;
 }

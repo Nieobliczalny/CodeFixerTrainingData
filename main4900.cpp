@@ -12,6 +12,7 @@ short  KB5v(char  sbJ32l5_Q,unsigned int  hfwLWY3L,unsigned long  sZyGOf_,unsign
 
 unsigned long long eFCw4Gvw();
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   unsigned long  Cw71x;
   Cw71x  =  -2119526253;
@@ -327,6 +328,7 @@ i++;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short  KB5v(char  sbJ32l5_Q,unsigned int  hfwLWY3L,unsigned long  sZyGOf_,unsigned long  FyTWw0j)  {
   return  0;
 }

@@ -14,6 +14,7 @@ using std::floor;
 
 unsigned short int    K86C(unsigned long long    z_0e,unsigned short    I0CDOyxfMC,unsigned short int    NFiUh99x,unsigned short int    c5kbprE);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	int	tFG2;
@@ -729,6 +730,7 @@ m0Mk = K86C(-1520560315, yvQ72, 1527530876, LdoYBJ) / K86C(BU2BHt88u, 720300696,
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    K86C(unsigned long long    z_0e,unsigned short    I0CDOyxfMC,unsigned short int    NFiUh99x,unsigned short int    c5kbprE)
 {
     return    0;

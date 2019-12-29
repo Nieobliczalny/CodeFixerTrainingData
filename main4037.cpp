@@ -8,6 +8,7 @@
 #define    P2T7    (0)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short pYkgu(unsigned long IchX,unsigned char cgclSXH05b,long d8JI3XV7B,long iDIy7F)
 {
  return 1426979926;
@@ -21,6 +22,7 @@ unsigned char    zoRKgPw(unsigned int    E7F4_lMP,unsigned long    pM9ri6X9)    
     return    476525474;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    Ie_J5t(unsigned short int    i2s_86,unsigned short int    Fd3g0zR7Sd,unsigned short    c914m3ib)
 {
     return    0;

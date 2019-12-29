@@ -13,6 +13,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  DF17ef94p3(int  THrR,unsigned long long  dGb4u,short int  t8V_W)  {
   return  0;
 }

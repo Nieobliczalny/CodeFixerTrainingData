@@ -17,6 +17,7 @@ unsigned short int vv02_U2L()
  return -870247418;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    cGhzd0T5k(unsigned char    L90IA_,short int    P0__1l8g,char    XpBCe,int    AnNMqr)    {
     return    236373815;
 }

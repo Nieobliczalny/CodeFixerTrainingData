@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char vpBVn_h1_(unsigned char M36EZ3h,unsigned int f5Y5GAEqF,short int N_M0NGqQI7,unsigned int xhU_3335P1,short sFR9K_uVI)
 {
  return 0;

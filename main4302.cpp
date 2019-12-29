@@ -438,6 +438,7 @@ zqU58CzA7 = UFY09w4D7(-51216876, h08_ne1X, ag__JPH04);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	UFY09w4D7(short int	t31pO8_W1x,char	sqeFnda_,unsigned long	Mk4eA)	{
 	return	0;
 }

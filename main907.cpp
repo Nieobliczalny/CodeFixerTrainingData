@@ -844,6 +844,7 @@ J4vMowRj = (int)abs(bA225);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	JTLe(unsigned long long	DHHlcZxR,long	aKfPOs4a,int	s10fC,int	d3sG4ULCu4)
 {
 	return	0;

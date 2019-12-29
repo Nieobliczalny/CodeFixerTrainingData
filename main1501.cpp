@@ -703,6 +703,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    Tt0K3_6(unsigned long    Spa25l)    {
     return    0;
 }

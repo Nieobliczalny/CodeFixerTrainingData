@@ -584,6 +584,7 @@ vBa3GX4C3 = l3Myl0T9t ^ 296047058;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	OdIh(unsigned short int	z243K17i)
 {
 	return	929582223;
@@ -597,6 +598,7 @@ short  bCcX(char  PY14AG3d8A,long  iEtcl,unsigned short int  R45mVLw6U,short int
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	LCNXQaU9S(unsigned short int	fRlc3838,unsigned short	TYvx8427D,unsigned long	r1wp7_U_s,int	ew0_E)
 {
 	return	1073359786;

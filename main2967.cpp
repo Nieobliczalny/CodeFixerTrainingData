@@ -385,6 +385,7 @@ UXm3U = (unsigned short int)(cIi86);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    Fn5_57I0BK(long    nnLKE,short int    T385__Pz,char    G7sfCue2b,unsigned char    D38fhJy,unsigned long long    A9_9qcN9)
 {
     return    0;
@@ -399,6 +400,7 @@ unsigned char    gZ4G()
     return    1478699437;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int Dl5HAZyC(long EApEsDF)
 {
  return -807199623;

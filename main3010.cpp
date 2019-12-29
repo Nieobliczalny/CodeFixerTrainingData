@@ -16,6 +16,7 @@ unsigned char    k2ht(unsigned int    um7qN,unsigned long long    pO1Fq,short in
 
 long    X7_6h(unsigned short    f7WAkRI23,unsigned short    Jvic8FQy);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	long	W_Y_21Nai1	=	33585457,	v542CwN8U	=	-1532978707,	Z_lnF6CgpC	=	-1224199716,	GECzUvC	=	-1039095428,	r8D_	=	-360958836,	nnEl14	=	-129841672,	HI4V_O	=	1124885933,	VG90Wk0z47	=	-675537354,	v_9Kgz0_rp	=	590878620,	Ptei6cP	=	729977807,	P0Gf7	=	-1512561039,	k7EiwX	=	1367311471,	ApS879z74	=	-502956102,	R2qbw232	=	-652633198,	l9P1wUYf	=	2015045175,	rEi02	=	185160048;
@@ -451,6 +452,7 @@ W_Y_21Nai1 = (long)(v542CwN8U);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    k2ht(unsigned int    um7qN,unsigned long long    pO1Fq,short int    V1F_)    {
     return    1080013434;
 }

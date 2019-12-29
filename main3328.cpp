@@ -12,6 +12,7 @@ long	vaml6B_H()	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   char  M__02z,  V29_TL2,  ZN9HFm9J,  bq9G1RO;

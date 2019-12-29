@@ -12,6 +12,7 @@ unsigned short x68dBZiC() {
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  zI2F(int  SD787,char  m4h9I,long  W8yCLxI5,unsigned short int  q6n_QS)  {
   return  -1024992205;
 }

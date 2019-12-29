@@ -16,6 +16,7 @@ short int    VS2jOa_V(unsigned short    SJZQ45Ybz7,unsigned long    v204Teh31,un
 
 unsigned int  I984P(short  l1J_Nhfk6_,int  oW4v4Tk,char  S74_Lar);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     long    HK41y1E9or;
@@ -543,6 +544,7 @@ d7C1 = XmW22 * WO0dW;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    VS2jOa_V(unsigned short    SJZQ45Ybz7,unsigned long    v204Teh31,unsigned short int    E479tsP,int    n018m9F1)    {
     return    -751369899;
 }

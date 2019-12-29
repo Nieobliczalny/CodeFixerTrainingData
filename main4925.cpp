@@ -520,6 +520,7 @@ S5pcgv8 = (short)(NdXdO5JkQM * S5pcgv8);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    j0bR5r(unsigned short int    e8NYL54,unsigned long long    Bf76,unsigned long long    BQ78,unsigned short    iC_SKUd3W,unsigned short    K5CPQQA)    {
     return    -1645778049;
 }

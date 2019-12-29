@@ -635,6 +635,7 @@ Ol6he8ZL = n_8n_yZ / 1096890264;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int WhXLQITU(short YoQtI8Rf,unsigned int Hub1b_NP9s,long long wCbaR1082,long mAxBo2_JxX,short s8U9ig) {
  return 503406426;
 }

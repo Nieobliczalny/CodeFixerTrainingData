@@ -566,6 +566,7 @@ Uz2a_gj9U8 = fI75rH37k << Bj1cSLZ6;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long c90Vd(unsigned long long FFzzFYdu)
 {
  return -1087191348;

@@ -395,6 +395,7 @@ cout << virvug8_0_ << SGjEf << endl;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    NS7F(short    P1q19,unsigned short int    ke5_0,long    n7JcL_l,unsigned long long    S1TW9A)
 {
     return    990472258;
@@ -405,6 +406,7 @@ short int FQAYDr(char jEbb41,unsigned long long wqo1Jq7C2K)
  return -1630450353;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	y2H24(long	w91f)
 {
 	return	0;

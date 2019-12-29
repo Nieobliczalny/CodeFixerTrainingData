@@ -267,6 +267,7 @@ cout << xou_H1() << VJvgat9 << endl;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  ZE9p8(long  C23hdG85,long long  nXyhX)  {
   return  872078394;
 }
@@ -280,6 +281,7 @@ long long    pEi_J(unsigned long long    cJ2pt,long long    kr1FH7ak1,unsigned c
     return    917067919;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  OBMp1D977X(unsigned int  UW3S,long  q64IQG6j3,unsigned short int  pDrOcX26FK,unsigned short  SMxxBa)  {
   return  1529152188;
 }

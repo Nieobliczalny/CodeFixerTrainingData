@@ -446,6 +446,7 @@ SL977l_2 = (long double)(fy9boS_);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	Rkq2(long long	cs4Z_cEF)
 {
 	return	0;

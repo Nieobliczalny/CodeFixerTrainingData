@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	avrl66(unsigned long long	cBk0o5f_)
 {
 	return	1048944666;

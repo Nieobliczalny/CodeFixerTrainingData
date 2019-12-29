@@ -17,6 +17,7 @@ unsigned long long    rDOEO7M6h6();
 
 int    savv76AL(unsigned long long    IJMU,unsigned char    OdqO8u);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	int	hbTa	=	0;
@@ -596,6 +597,7 @@ hbTa = SxJ5q(f88m4zW);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long SxJ5q(long uXxt32pQk) {
  return 0;
 }
@@ -612,6 +614,7 @@ unsigned long long    rDOEO7M6h6()    {
     return    891687741;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    savv76AL(unsigned long long    IJMU,unsigned char    OdqO8u)    {
     return    -1470823204;
 }

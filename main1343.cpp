@@ -140,6 +140,7 @@ unsigned short int X3o8CKN()
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	QvqLE7E_R7(int	yN5_w9,int	rUIJB,char	DIPEvL,unsigned long	Zv3X4u98V4,char	IMDd)	{
 	return	-160348945;
 }

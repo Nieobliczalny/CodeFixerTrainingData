@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	hzAvs(unsigned short	rLRBb)
 {
 	return	-222720564;

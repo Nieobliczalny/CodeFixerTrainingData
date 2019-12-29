@@ -298,6 +298,7 @@ char  oA_51uGIS()
   return  -71442050;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  q0Ag58Z(short int  HuIbWAFu6M,short  nVO9cq7,unsigned long long  kV9CA4G,char  quMpOCa9T7,unsigned char  Nl7zSaZJ)  {
   return  0;
 }

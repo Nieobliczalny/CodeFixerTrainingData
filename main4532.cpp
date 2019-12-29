@@ -9,6 +9,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  jTgWpoot(unsigned int  J7M6)  {
   return  0;
 }

@@ -13,6 +13,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    GrwLv2V(int    hz_9goa,int    R_TL32Q,short int    Qh0r7z36,unsigned long    Z1_5NBsFm)    {
     return    1639401534;
 }

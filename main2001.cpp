@@ -18,6 +18,7 @@ short int ocS6HU() {
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  bdko0rVl0_(int  CJ76Fn840,unsigned short  QtqoW7f87U)  {
   return  715197707;
 }

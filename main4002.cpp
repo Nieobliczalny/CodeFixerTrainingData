@@ -9,6 +9,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  stPDE7Sd(long long  bEsjI3,short  S3WL,short  o6Rm,unsigned long  aRlsCa0,short  B1FF0)
 {
   return  0;

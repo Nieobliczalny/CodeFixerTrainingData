@@ -19,6 +19,7 @@ int N45k8WGf();
 
 unsigned short int sgVVqLNp5K(char w3d1SJ7nDa,unsigned int SJcL3BD9f1,unsigned short QuYo,char W174Z3GW);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  long long laf9uu8 = -1274975909, lC0T1PGb = -736051886, QpGdWD = 50672038, asSP6k60o = 1245222950, X4Tt2CyJ1 = 1668925075, hqdQ_0r1iV = -1599889612, EU4eTlW2H = -1774935502, ku6N = 452633528, O4FqO = -1303750516, E_B3p5e = -899456894, hQE2r968 = -121124649, Vl6o3SEeuX = -388552367, bTjqB4 = 1894422320, nCC5 = 621670671, P_1a_WNJ2 = 1346178289, n5Q_6 = -633225643, NBU33s2458 = -2061307507, w3wt = -380413584, lmus2IQO9 = -422547158, vqE9hspam = -104387257, o8avJ = -668759508, BS37 = -739527562, Eet21mf5 = 948968597, q95C9 = 1078446989, q7Y7nma2 = -862341658, o9AslF_B5l = -1867258565, ZX2H_2Nu = -1825333609, MG5y_IL = -128068638, Rp9T6zq2 = -1567015908, U9jc0K = 583135835, dFnW = -467607295, Iqg52wYd = -1231062508, x7o_affh = 713760729, etpw9__Qg = -102529856, MZK1r5gIiD = -2025135749, iIOZh = 1676571493, O6DP0UF = -2073189743, U1s7 = 1507111480, EUlzi = -1912268211, hQ5L6KVPr = 1231206736, qNst = -956881755, hs7O = 1810530230, ZVM00D = -1107323280, CwzFRk5L = 632200596, Bp169yPA1 = -504929521, H_SiT = -399010762, Z0b2 = 3093834, X6s7SIH = -536315924, inBbhl = 1523068323, J8AWy = -1173378131, sVlJGBCz6a = 1513183566, Dya0Ee = 342256491, I38Fo568f = -1426530243, x731G = -1035045499, HgTf8 = -405944480, LIT4P8GO = -2049890079, h1Rx4Kq = -108849611, rAaxz25a = 672335636, X5B9GBf = 1028615407, e4lL = -430428583, PAhy = 1848986924;
     unsigned short int    bXeGE79U3    =    0,    dZMGjXFfun    =    0;
@@ -493,6 +494,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long rb5twhKF(long long MOS6RY,unsigned long long ljXZr,unsigned short int Lz1zdXI) {
  return -660650644;
 }
@@ -505,6 +507,7 @@ int N45k8WGf() {
  return 2019252535;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int sgVVqLNp5K(char w3d1SJ7nDa,unsigned int SJcL3BD9f1,unsigned short QuYo,char W174Z3GW)
 {
  return -773809238;

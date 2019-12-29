@@ -420,6 +420,7 @@ k++;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int tEgbI0V(unsigned long long usMHLi5wk,unsigned char U_f5,unsigned long long T9o_) {
  return 0;
 }

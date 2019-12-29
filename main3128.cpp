@@ -537,6 +537,7 @@ j2D5v |= p972sHZ2;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char rkcb4VZX(unsigned long long tIS6F6lFq) {
  return 52903072;
 }

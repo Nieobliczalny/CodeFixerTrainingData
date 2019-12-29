@@ -522,6 +522,7 @@ cout << Eh9G2Ve << "UnOH6" << endl;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short E_nTLFn1Q(short SAmRzliWX,unsigned short int n4g5DcvS4,unsigned long BwL365du2,unsigned long long RJ5uPWgo,long dxv9fA8_1E)
 {
  return 0;

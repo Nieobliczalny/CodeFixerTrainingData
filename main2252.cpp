@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char s5hd7(unsigned long long jtqkzMq) {
  return -1987805872;
 }

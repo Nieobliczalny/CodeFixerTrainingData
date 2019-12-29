@@ -12,6 +12,7 @@
 #define	LQ7x2aA00_	(-744961216)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    Q_5W(unsigned long long    rJ0E6NM)
 {
     return    1941469168;
@@ -30,6 +31,7 @@ unsigned long  JW0Wb()  {
   return  -1666741880;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	zDwH(long	J_0661UAV0,long long	SG44RP_2E1,unsigned int	WQ1Kfa,unsigned long long	O_qH_O098)	{
 	return	566366777;
 }

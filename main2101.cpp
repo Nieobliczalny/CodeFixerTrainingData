@@ -10,6 +10,7 @@ using namespace std;
 
 long    XvdqZEj64(unsigned short int    dTyO,long    gaY38);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	short int	mbow,	zo296OWc,	dBfU,	GFbhfe6,	BHo_;
@@ -655,6 +656,7 @@ Rdrkapkr %= 1546370841;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    XvdqZEj64(unsigned short int    dTyO,long    gaY38)    {
     return    0;
 }

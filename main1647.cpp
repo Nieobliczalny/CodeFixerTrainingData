@@ -12,6 +12,7 @@
 #define    xHqu    (-1322706265)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    Q3xtOCn0(short int    z6xkK93DN)    {
     return    0;
 }

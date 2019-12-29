@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  KCl8q(unsigned char  X09ti,int  wXh35_H)  {
   return  -693881637;
 }

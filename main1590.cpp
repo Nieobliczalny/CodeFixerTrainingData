@@ -278,6 +278,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	kjYs0w(unsigned char	uMpxmn4oWq,unsigned long long	H1q_9Kg,unsigned short	vTE0_Lc22H,unsigned long long	uwU3H)	{
 	return	0;
 }

@@ -13,6 +13,7 @@
 
 unsigned int f_VqWp(int Qf87s824);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  unsigned long Y_e59s5K;
@@ -610,6 +611,7 @@ std::cout << f_VqWp(932624888) << "tCK4b80aO3" << std::endl;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int f_VqWp(int Qf87s824)
 {
  return 0;

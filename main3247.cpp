@@ -14,6 +14,7 @@ unsigned short  Qk53Z4(unsigned short int  YVpY1,short int  NUdsVXDQ97,char  Xr3
 
 unsigned short int    lpV2();
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	unsigned int	G9FXqfQG8	=	-130954557;
@@ -63,6 +64,7 @@ qXizf1nHuR = J9v0 * 1448291040;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  Qk53Z4(unsigned short int  YVpY1,short int  NUdsVXDQ97,char  Xr3rE5y)  {
   return  0;
 }

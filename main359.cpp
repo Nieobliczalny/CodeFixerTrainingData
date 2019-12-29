@@ -11,6 +11,7 @@
 #define    qI70S93Ml    (-1558812782)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	ljI19_jFW(long	fSNg_G,int	S7jJl37e0L,int	JHw8a)	{
 	return	-1774152414;
 }
@@ -24,6 +25,7 @@ long    kGC5_3U_y(char    MaxkAKXMli,int    b9DE8,unsigned char    F04PE)    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     unsigned char    Y54S5F;
     Y54S5F    =    0;

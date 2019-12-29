@@ -532,6 +532,7 @@ i++;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    XCNWT(unsigned int    WmEV3l_a5,short int    Wz9qzxv36N,unsigned char    XdaH_Q2,unsigned short    v_8TX8u6)
 {
     return    0;

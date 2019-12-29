@@ -13,6 +13,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int W_WpzAZ(char haeJ)
 {
  return -1635382689;
@@ -23,6 +24,7 @@ unsigned long    Wobdz8MCN(short    y3yVTb,char    t3LK6l,long long    JsT6eYPZ3
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	CCIf3n(long long	AI6UHib2,unsigned long	DP_NcV,short int	ejQw7b,char	HuK004_0,unsigned short	u4ixWu352B)	{
 	return	-831118495;
 }
@@ -36,6 +38,7 @@ unsigned long IZj_r() {
  return 2034737561;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     unsigned long    cET171f;
     cET171f    =    -1171774881;

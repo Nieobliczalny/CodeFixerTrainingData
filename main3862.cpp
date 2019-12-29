@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int r3cLcGA(unsigned short Li3zm,unsigned int b59Axh,long ng_I54Fn3)
 {
  return 0;

@@ -15,6 +15,7 @@ long n1fyzdohk(unsigned long long B8F08,unsigned short Jy9V8BWM,short MI_0PS60u)
 
 unsigned long long FZn5c2MR(unsigned int AwDm7P);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  char jd073dze8 = -1984075454;
   unsigned short int  fdGsh  =  1569481583;
@@ -432,6 +433,7 @@ S2b1ghp8 = (int)floor(gi94);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long n1fyzdohk(unsigned long long B8F08,unsigned short Jy9V8BWM,short MI_0PS60u)
 {
  return 0;

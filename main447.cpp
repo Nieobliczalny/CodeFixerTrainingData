@@ -354,6 +354,7 @@ vd3t94C = vs8553(mp41_u, -1169031694, bcefAQfhj, loE_0OK2V);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short vs8553(long S2jBDPakw,int jDOcAjZ1X5,char S2hN2z,unsigned short int fDMaG07qp)
 {
  return 0;
@@ -367,6 +368,7 @@ unsigned short	hq6gqn(unsigned short	mVs_dx88,unsigned short int	l22N9q1K,long l
 	return	-2066133159;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    UGK6boIQG1(long long    Lny9,unsigned long    sva6,unsigned long long    M9K37)
 {
     return    1804660073;

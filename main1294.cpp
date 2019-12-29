@@ -16,6 +16,7 @@ short int D7j1aamc5c() {
  return 1754029826;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	UJV4i(unsigned short int	Ybero5s)	{
 	return	0;
 }

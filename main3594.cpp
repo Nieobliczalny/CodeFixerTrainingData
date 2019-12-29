@@ -265,6 +265,7 @@ jTk5 = (int)ceil(rX9b_);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	UV1t(unsigned char	kNZZ_9e9tj)	{
 	return	0;
 }

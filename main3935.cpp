@@ -17,6 +17,7 @@ short  Zcf_()
   return  -1808932198;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	aAY_6_3L5(char	c7_h,unsigned short	Rkp_19f)	{
 	return	0;
 }
@@ -30,6 +31,7 @@ int	z9qpeS01XB(unsigned long long	yJ7e,unsigned char	x5bDl__6H6,unsigned short i
 	return	1989974928;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  db2phj(unsigned long long  wh80,unsigned char  eG9T8CFTX1,long  qJ4ogfVC_,unsigned long  MisUt9E,long long  D1G99lh9WZ)
 {
   return  -516397037;

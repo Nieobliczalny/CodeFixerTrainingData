@@ -11,6 +11,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    EwAs0lkMo(short int    h5_fuL)
 {
     return    0;

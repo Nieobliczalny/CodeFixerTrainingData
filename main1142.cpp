@@ -784,6 +784,7 @@ AaxeI = AyawHGr(899511991, 1992106980, AK6DwSOG3, -31512249);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long WrVJuRGy_l(unsigned long CzT_gynX,unsigned short w7_6_fXHW2)
 {
  return 1258076016;
@@ -794,6 +795,7 @@ short    dF8U4_o7(char    D5Mgd129,long    Bpf_UMJ39q)
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    AyawHGr(char    olX8VszR1J,unsigned short int    c1p_,char    A88PW7,unsigned short int    t8k76z48)    {
     return    -1302534412;
 }

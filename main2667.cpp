@@ -10,6 +10,7 @@
 #define z45V1 (0)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long kpIy(unsigned short int CoPN) {
  return -734676271;
 }
@@ -24,6 +25,7 @@ short  D5ceXjFT(long long  s8dqMwMV11)
   return  -437132521;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  op6ek(int  tChR1)
 {
   return  2022206297;

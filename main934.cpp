@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	XrN3(unsigned short	KsKsmR,long long	L_yq,int	LZUK)
 {
 	return	96563113;
@@ -22,6 +23,7 @@ unsigned long long ZTY4T8()
  return -592185132;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	evDw(long long	bSrG33X,unsigned int	V6v1)
 {
 	return	986154404;

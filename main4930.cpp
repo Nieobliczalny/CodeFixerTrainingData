@@ -512,6 +512,7 @@ l2Mh = N57P >> FqD8_1W_;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  jY_qc7(unsigned long  iT9eP_a,unsigned short int  Vt95KaIa,long  jUR4869,unsigned long  i9_c3n2d,unsigned int  R616)  {
   return  624530755;
 }
@@ -526,6 +527,7 @@ long long  b4115X4C(unsigned short int  W2bDMVTY)
   return  -997832801;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    uk585(unsigned long long    p833_p6W,unsigned char    RIi_g_)
 {
     return    -552775164;

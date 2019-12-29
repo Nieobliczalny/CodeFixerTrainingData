@@ -18,6 +18,7 @@ char sWL165J0Qx(unsigned short IjP_P7E);
 
 unsigned char	i3X2p(char	JP4v4z6,int	oa5pp96dhN,int	S5h_,long	sA4Mp0);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  short int CxhZ6K046g;
  CxhZ6K046g = -1200909924;
@@ -677,6 +678,7 @@ short iDZ5aQd() {
  return 423442402;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int IPTg(unsigned long nN5efB,unsigned long long smcG7X4,unsigned short I2dw)
 {
  return -1807142078;

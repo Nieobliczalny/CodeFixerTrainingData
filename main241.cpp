@@ -20,6 +20,7 @@ unsigned int    NRlk60(short int    vn16S_,short int    z5Fbo0XT,long long    tX
 
 unsigned long FWvlW1r(unsigned char KQn6T0y,unsigned long long dP9_5);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	long double	ZRt6bW	=	239234758,	wq3Tyx4kj	=	-557509704,	IjTxRdEc	=	-2125712826;
@@ -675,6 +676,7 @@ unsigned char  wGY8JoYdU()
   return  139432072;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    NRlk60(short int    vn16S_,short int    z5Fbo0XT,long long    tX8geu_B_,unsigned long    R6xJa)
 {
     return    0;

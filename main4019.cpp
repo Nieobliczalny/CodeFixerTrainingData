@@ -11,6 +11,7 @@ using namespace std;
 
 unsigned char    Cex23(unsigned short    cTb9rZ7Nko,unsigned long long    hlM305B3R);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  int zjii4Uh3 = -614077270;
@@ -748,6 +749,7 @@ cout << gEu32PazH << "f8HBwM" << "XWBL5KiK" << Cex23(oeiZCKgLIa, 1380751782) << 
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    Cex23(unsigned short    cTb9rZ7Nko,unsigned long long    hlM305B3R)    {
     return    0;
 }

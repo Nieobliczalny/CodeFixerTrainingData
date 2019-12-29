@@ -103,6 +103,7 @@ while (j >= 0);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long aUHoP8BP_(unsigned short int WNa4)
 {
  return 0;

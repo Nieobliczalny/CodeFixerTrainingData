@@ -11,6 +11,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long U36C_IW9g(short Rh53MH_h2,long WM8pJfFlug)
 {
  return 0;

@@ -12,6 +12,7 @@ using namespace std;
 
 unsigned short f844ye8PB(unsigned short int R_Nf9Ig);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   unsigned int  Vg6VXFR3f  =  434120067;
@@ -320,6 +321,7 @@ while (i >= 0);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short f844ye8PB(unsigned short int R_Nf9Ig) {
  return 0;
 }

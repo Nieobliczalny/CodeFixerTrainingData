@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    P87UaHKfW(long    D7dfsrYX9,char    G79cE2,int    Ee71)
 {
     return    1690293191;
@@ -22,6 +23,7 @@ unsigned short int On59s()
  return -1184026673;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    EK3n(char    GZEc6,unsigned char    KlcGfn,unsigned long long    qQReLz,long    Z9C_5O1cN)
 {
     return    101704764;
@@ -32,6 +34,7 @@ int    K4TLbm(unsigned long    yeEX4,unsigned short int    sM4R03X9yA,long    S4
     return    630711608;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	Bbw95(long long	qZ5IJ4_)
 {
 	return	0;

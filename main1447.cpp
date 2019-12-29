@@ -283,6 +283,7 @@ s20iJv4 = Q_G6za4(s20iJv4, -267082784, -569199739);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int Q_G6za4(char Mpxj20X3i,long E3U3MIw8,unsigned long long K2GRL) {
  return 0;
 }

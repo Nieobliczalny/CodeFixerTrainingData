@@ -12,6 +12,7 @@ unsigned short    w_H94Qjk(int    Qy0_3,short    m9JB8,unsigned char    lKQrCUtG
 
 unsigned int	E4U6lvu(unsigned char	ew9U,long long	u1cu4,short int	E047,unsigned char	A6WzG0W978,short int	Q_O4b8H6V);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	long double	FE_9XR8F5I	=	383906419;
   int  N3j1sjq  =  -606739745;
@@ -472,6 +473,7 @@ std::cout << "kLOC" << M7dxJ6hU << E4U6lvu(A0Et6O6l, kD7e6_N8f, -1196353932, 560
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    w_H94Qjk(int    Qy0_3,short    m9JB8,unsigned char    lKQrCUtG)
 {
     return    0;

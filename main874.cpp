@@ -18,6 +18,7 @@ int LaTh6W(long wHag7vc5bH,unsigned long hyyX_2Vy,unsigned long S859_H0f_4,short
 
 unsigned int  suMIn77(unsigned char  t0m2W);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  long double Xd95Gk9U;
  Xd95Gk9U = -1274842599;
@@ -312,6 +313,7 @@ x4m4z8 = (int)ceil(i_k948);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int LaTh6W(long wHag7vc5bH,unsigned long hyyX_2Vy,unsigned long S859_H0f_4,short int f5E1a)
 {
  return 0;

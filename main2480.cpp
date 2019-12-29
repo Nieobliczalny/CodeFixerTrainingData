@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  ggrGAe3t(long  Wgz8mm,char  qC5Anx283)
 {
   return  0;

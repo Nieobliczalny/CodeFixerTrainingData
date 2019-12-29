@@ -20,6 +20,7 @@ short    rYV0IG_q6N(unsigned long    EJEywue);
 
 unsigned long    GwUDP_3();
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  double lcg_bkJr;
@@ -686,6 +687,7 @@ long long    kwjMspIZKS()    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	woaQr(unsigned int	hxM0QUQW_G,unsigned short int	SK0htj47)	{
 	return	-1478023856;
 }

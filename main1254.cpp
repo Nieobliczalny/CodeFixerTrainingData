@@ -18,6 +18,7 @@ unsigned long long yQ5x(long long SaGFC0,int v5v7K_E,unsigned char j43t1pl9z,uns
 
 unsigned short HKi4755(short int JJ83D,unsigned char J17_8,unsigned short FUBf_30s,unsigned short l9ZMw9);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	unsigned long long	K12p	=	0;
 	short int	Ah7mIn_	=	-889979342;
@@ -264,6 +265,7 @@ char Yy__5ew7() {
  return 1878259739;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	uiVT(unsigned long long	nuw9qeYy7,unsigned long	C1gvym,short int	G5HEM,unsigned int	HnoVMg)	{
 	return	452339389;
 }
@@ -277,6 +279,7 @@ unsigned long long yQ5x(long long SaGFC0,int v5v7K_E,unsigned char j43t1pl9z,uns
  return -465934450;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short HKi4755(short int JJ83D,unsigned char J17_8,unsigned short FUBf_30s,unsigned short l9ZMw9) {
  return 0;
 }

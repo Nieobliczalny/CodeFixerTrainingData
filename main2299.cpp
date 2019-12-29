@@ -17,6 +17,7 @@ short int    Td725aV5g(short int    zT5E5PW6v,long long    WNt4y0AG,unsigned lon
 
 unsigned short  m1iQ0oQy(int  OSQ_tSbNbU,unsigned long  Z6kBXyzza,long long  DEoJaOwgQO);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	float	cla77i7	=	431366243;
@@ -644,6 +645,7 @@ std::cout << p8RQhE << sLMY_WZd0 << "Jqp6" << "rrEd0lEMo3" << std::endl;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  ivLHy41(unsigned long  t403Co5G78,unsigned long long  Y3n13ccv)  {
   return  0;
 }
@@ -658,6 +660,7 @@ unsigned long long    X5rYI(long long    sd80WH2,long long    vNOW4QZ,unsigned i
     return    -1715368292;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    Td725aV5g(short int    zT5E5PW6v,long long    WNt4y0AG,unsigned long long    RH_8iAk,long    n5Vuw)    {
     return    30696207;
 }

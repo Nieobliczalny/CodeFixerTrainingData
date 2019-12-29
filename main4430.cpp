@@ -12,6 +12,7 @@
 #define    Yu_o_PM9    (0)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	GWX9oj4(unsigned char	QICTa1jm7,int	l5x77ZvG)
 {
 	return	0;

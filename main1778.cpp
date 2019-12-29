@@ -253,6 +253,7 @@ std::cout << "q3DMZgs" << "YnyrSs2g" << V99VA2io(-604760174, 1196981202) << std:
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    V99VA2io(unsigned char    SkYkLF06l8,unsigned short    w2WBW_LJE)    {
     return    0;
 }

@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  g2O2Gt(unsigned short  M1d9_u9)  {
   return  1195283024;
 }

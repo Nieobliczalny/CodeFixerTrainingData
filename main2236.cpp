@@ -12,6 +12,7 @@
 #define  uZ50_43zD  (-693922093)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  Pfj5yqn(unsigned int  Lka1,unsigned char  PuPiZM9pm)
 {
   return  0;
@@ -22,6 +23,7 @@ unsigned char	i9pF(int	ZR62,short int	Gu_3sA620,unsigned short	lFQe2ie98)
 	return	-1210881837;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    gyh5g3(short    vw4Y6d3W3,int    R8glH4,short    dc4fQ7S634,unsigned char    y6Q1nr6xM,int    pZG4qN)    {
     return    -647746525;
 }
@@ -35,6 +37,7 @@ unsigned char MmxAp(unsigned short A2q_,long long HVUz0,unsigned int yHM0R6E)
  return 1043457749;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	unsigned short int	Jb_D	=	0;
   short  Vh6Tq0  =  1684549594;

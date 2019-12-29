@@ -429,6 +429,7 @@ eMT3_7s_Q = (long)(n2P08_ng7 * eMT3_7s_Q);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long Quu7(unsigned long Qqur6J75dO,unsigned short int MH5TD6OAd,unsigned long long t78EMCkM,unsigned long StUk5vGF,long SgSS5MFSe)
 {
  return 644237024;
@@ -443,6 +444,7 @@ unsigned long long    m02TCabtG(long    DCh67)
     return    246901628;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long jRA75UQk(unsigned int W5s5lMR) {
  return -415047066;
 }

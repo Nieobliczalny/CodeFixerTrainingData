@@ -190,6 +190,7 @@ xk253zqV0 = (long)(wQO0Y);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	iT48(unsigned long	dZ147tN4uV,unsigned short int	lBm5LQVj2,char	r5ZZy_35i6,long	UKr9TDf8fk,unsigned int	v8oHx)
 {
 	return	0;

@@ -10,6 +10,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short UWdUMt(unsigned short int vNMg7,char VOjfv4x_2) {
  return 0;
 }

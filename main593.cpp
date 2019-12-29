@@ -14,6 +14,7 @@ char	sCIh0DWcDv(short int	rb5J7Eo93,char	Hmdt_A,char	Fuo284SZ2,unsigned char	gL6
 
 char    Pfb3(char    q647HblBrP,long long    SFYH4b3CI,short    Gk6E);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  long iU1IdwbfsC;
  iU1IdwbfsC = 1006978650;
@@ -524,6 +525,7 @@ i++;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long rS78KzdnR(unsigned short C2vo_OWO32,unsigned long long W3Qeh0ft,char B_Pm9l,long dY61vP5U8m,unsigned short int xYr1AE33YF) {
  return -1719019209;
 }

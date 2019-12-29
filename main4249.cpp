@@ -18,6 +18,7 @@ unsigned long long Nrk8Ms06aT(short zZ4aZyOA,unsigned short SkA50Y,unsigned char
 
 unsigned long    Y3vYv_Al5E(long    Ug__B);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     float    z2mz3D;
     z2mz3D    =    -1049707007;
@@ -402,6 +403,7 @@ HMA3 = S700zs_(OHx_E_u3D);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  r88S6(unsigned int  oQr__4nBJ,long long  W3tVx,short  I_n4tF9J_)  {
   return  291627628;
 }
@@ -414,6 +416,7 @@ unsigned long  S700zs_(char  Fk4R)  {
   return  -1390737184;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long Nrk8Ms06aT(short zZ4aZyOA,unsigned short SkA50Y,unsigned char VAuk,int XL3s1T14mQ,unsigned short IS4Y46)
 {
  return -1453470725;

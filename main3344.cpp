@@ -686,6 +686,7 @@ v8EF3BB1mR = (int)ceil(jZVh);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	M0GBu(char	YzaAf2KL_,char	zlp2q7b)	{
 	return	-1274866398;
 }

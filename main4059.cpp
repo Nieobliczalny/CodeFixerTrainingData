@@ -10,6 +10,7 @@
 #define Cx7H8 (0)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	long	OW5wH	=	693481153;
  double R2CYw3N6P = 27008253;

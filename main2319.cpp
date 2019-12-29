@@ -21,6 +21,7 @@ int  tCbE3(unsigned long long  eo85gk6E1,int  V7X25T7o5V,long long  Iq6GEBo8BS,c
 
 long	z5Ke8_y_C(unsigned short	m14494L55);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   unsigned long  cBRE;
   cBRE  =  0;
@@ -739,6 +740,7 @@ r1TscXUZZ = (unsigned char)(vZTpl7xt2u);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  tCbE3(unsigned long long  eo85gk6E1,int  V7X25T7o5V,long long  Iq6GEBo8BS,char  ne0ZG)  {
   return  0;
 }

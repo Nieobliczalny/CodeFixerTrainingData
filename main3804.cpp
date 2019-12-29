@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short  psNU_GV(unsigned long long  Sgf3O7CS_J)
 {
   return  -1533563334;
@@ -31,6 +32,7 @@ short int  Gk7fRDQu()
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  Pn_tGtvW(short  ZIk5XGr)
 {
   return  934128113;

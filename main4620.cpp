@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  sW34OhF_R(unsigned char  ev3fEE9xqt,long long  Oj44T_,unsigned short  Agqj)  {
   return  0;
 }

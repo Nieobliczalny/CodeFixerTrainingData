@@ -457,6 +457,7 @@ kO6o = O4_7106(kO6o, -1520460655, 1487038031);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long b7CaZgH81B(short XbIfe80N,long long Y2x71x4,int Yza5b,unsigned long jwx1lQ10Gj) {
  return 0;
 }
@@ -470,6 +471,7 @@ unsigned int	O4_7106(unsigned long long	FJQ_,short int	Y5mEI,unsigned long	j14s)
 	return	-1846921267;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    rNoxz49(unsigned long    K9m9)
 {
     return    -2011907063;

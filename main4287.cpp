@@ -348,6 +348,7 @@ uDOXD += g_vAbLm;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  Ms70(unsigned short int  Sh0NxB5,unsigned short int  A872INB4w9)
 {
   return  117487798;

@@ -10,6 +10,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	G5Lz_xvA(unsigned int	uniO7Ikze,unsigned int	FWC_8L4M,unsigned long	N48Fkw2RYO,unsigned long long	zTNC)	{
 	return	-1025656898;
 }
@@ -28,6 +29,7 @@ unsigned int  tCBt()  {
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long Y53sl(long m6Ipyd) {
  return 1864194087;
 }

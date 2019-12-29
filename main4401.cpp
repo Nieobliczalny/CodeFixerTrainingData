@@ -400,6 +400,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	uaP53bvME(short	lj1_fN,unsigned int	VTMfe,unsigned long	M60x98,unsigned long	ZcMYNdWoc)	{
 	return	0;
 }

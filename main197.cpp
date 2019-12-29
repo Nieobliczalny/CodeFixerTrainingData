@@ -236,6 +236,7 @@ gfj_x = e4m233M6();
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	lUN0(short int	SFoz4_0F,unsigned long	MrPn4e,unsigned long	Lh8V,long	x8L62s)
 {
 	return	0;

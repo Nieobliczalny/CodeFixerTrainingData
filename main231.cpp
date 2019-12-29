@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short  TP7Ke(unsigned long  M3iAKENkaV)  {
   return  0;
 }

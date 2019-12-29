@@ -458,6 +458,7 @@ lIy80tf2Kx = W5x4Ia(-241079089, I__u1zx);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long W5x4Ia(unsigned long long ui154fw,long long sc5W)
 {
  return 0;

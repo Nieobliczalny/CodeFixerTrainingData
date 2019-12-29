@@ -12,6 +12,7 @@ short int  W08J(unsigned long long  kU13);
 
 unsigned short int    vNhqy_(unsigned short    B1n6Cq,unsigned long    Gjb8,unsigned short    NNrb1);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     short    Ef5_P,    VHP0r744,    kPXfGr7HgH;
@@ -396,6 +397,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  W08J(unsigned long long  kU13)  {
   return  1120098104;
 }

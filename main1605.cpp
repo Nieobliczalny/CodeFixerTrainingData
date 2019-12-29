@@ -430,6 +430,7 @@ a5_CG32v = PrYqyWZ7();
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	M3wD(unsigned int	K7pC6Z8,char	sx3z,unsigned short	AJ01h3M)
 {
 	return	0;

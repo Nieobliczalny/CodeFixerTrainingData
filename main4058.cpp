@@ -178,6 +178,7 @@ rnu9 = (int)abs(QgmB);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  eu_qlje0(unsigned short int  D_fK1)  {
   return  0;
 }

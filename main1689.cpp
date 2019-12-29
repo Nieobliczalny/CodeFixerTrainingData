@@ -15,6 +15,7 @@ char  GFlK8()  {
   return  -1408254966;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    RwXMV(unsigned short int    j2T9)    {
     return    0;
 }

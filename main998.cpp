@@ -371,6 +371,7 @@ p3DvA = (unsigned short int)(gsARE0AeSC + (-929698186));
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	X4bzs(unsigned long	bh48u,unsigned long	kUdc53c,long	nk0i7,short int	az5f9f618U,long long	gD71)
 {
 	return	1188788433;
@@ -381,6 +382,7 @@ unsigned long  ONPxH8ZA(int  Bc11Zme,unsigned long long  DHsM8u7,short  a_zMvS9U
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    XzS7541z9f(long    zKgl,short    lo5t4127u,unsigned char    QS7z)    {
     return    1247541724;
 }

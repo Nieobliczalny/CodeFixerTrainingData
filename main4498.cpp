@@ -10,6 +10,7 @@
 #define    K0Dv26d19F    (-1992254132)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    s5_k47oMf7(unsigned int    qbJfPjJ2,int    JTY1v4gx7T,char    Vy_V_,long long    DOy30__znm)    {
     return    -1015864095;
 }
@@ -26,6 +27,7 @@ long long	lVf5i()	{
 	return	2045255479;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    MEJlv6MgP8(char    b11Dp5,unsigned short    gIeTb6,int    L8_H,short    gU9NI_rWl,unsigned long    iqC_L1n4ck)    {
     return    0;
 }

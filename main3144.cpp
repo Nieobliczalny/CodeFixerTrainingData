@@ -16,6 +16,7 @@ unsigned long long  u2ZG_(int  xP1GidV,int  T_2_zJ,unsigned char  qHf5QTilcy,lon
 
 short int  HputCm(unsigned short int  F_85rL3,short int  kJX4P5,unsigned char  K20ho);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   unsigned int  V983;
   V983  =  -1730532856;
@@ -523,6 +524,7 @@ unsigned long long	KH_y90()	{
 	return	975067646;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  u2ZG_(int  xP1GidV,int  T_2_zJ,unsigned char  qHf5QTilcy,long long  NZ_w)
 {
   return  1232810883;

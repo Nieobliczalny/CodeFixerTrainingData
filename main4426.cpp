@@ -14,6 +14,7 @@ long long  lrtL8eIB3(unsigned char  rU51,unsigned int  qLA7NrI_D);
 
 long    b_nxo(short    W9_i,unsigned short    i7wUph7);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     char    wXV2    =    -223312929,    fq48j_U_s3    =    -18356785,    eBsu2    =    -1849522408,    Vo61_So7    =    81116114,    Syor2Qn    =    -911444852,    slqLJ35q    =    618386630,    M66fn4    =    -861971358,    s_8IqeCaq8    =    -1763318271,    q7ff9    =    -2000574452,    Mgnj3N8_e1    =    48027999,    hxei    =    824225975,    ZY70i0    =    -1557005914,    DEzRCM    =    501944036,    N21v    =    -450849291,    XlSjDfgjRU    =    -575241853,    xV0ep    =    846944475,    nGY35    =    -765384766,    d6qC7_iBm4    =    540196912,    O9cJO_    =    -1766265528,    OTYwFU9_G    =    -612036247,    F3dZ5vnU    =    1380326248,    Hp5O2X6    =    1798687042,    eE_Vu    =    146461068,    O_cB    =    -1338503333;
     long    z5sm    =    0;
@@ -276,6 +277,7 @@ std::cout << F3dZ5vnU << lrtL8eIB3(hxei, nGY35) << "eBm67Xo" << std::endl;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  lrtL8eIB3(unsigned char  rU51,unsigned int  qLA7NrI_D)
 {
   return  -1739762315;

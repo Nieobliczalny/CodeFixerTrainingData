@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	oVadbS(char	LpQA7Z5aW,int	HqV6c,unsigned long long	d0H2DD,unsigned short	H_482Tu27,unsigned char	ZvRJ)
 {
 	return	0;
@@ -22,6 +23,7 @@ char    IPOl_na3U(unsigned long    v_Dc,long    gJW1BI6,unsigned long    jRIaZB8
     return    -1692602109;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	long long	Fysc1,	P7mgJr,	m33Ay4DU,	N_BFn_1l9;

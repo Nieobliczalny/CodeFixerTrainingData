@@ -21,6 +21,7 @@ unsigned short int    M47vC(unsigned int    iyH_e_oo_,unsigned short int    f15C
 
 unsigned short	a0_M(short	Z13P7Fjt,char	bx9rD,unsigned short	gxPu,unsigned long	Qr13,long long	B7I11V1i);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	unsigned char	B2Dai04X	=	-1008717013;
@@ -663,6 +664,7 @@ OG_lFvp -= B2Dai04X;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    M47vC(unsigned int    iyH_e_oo_,unsigned short int    f15Cmqv,int    J5ubI996mt,long    WYOD0,unsigned short int    TIC9R)
 {
     return    -1636314259;

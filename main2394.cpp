@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long Pe2n(unsigned short f9_o,int nzwmvklox2,unsigned long long wrfraOl,long long lEYh7q9T_,short r0mHC) {
  return 0;
 }

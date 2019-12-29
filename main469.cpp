@@ -13,6 +13,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    Rt4uwOTjd(unsigned long    Wc8_,unsigned char    q9rhJm0msP)    {
     return    468475689;
 }
@@ -30,6 +31,7 @@ unsigned long long  PNUe5sU()  {
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    e64PS9(char    x9oDO)
 {
     return    -2089966922;

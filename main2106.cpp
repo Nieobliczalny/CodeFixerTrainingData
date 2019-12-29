@@ -16,6 +16,7 @@ long long  H7hA()  {
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     char    psmne9I0U,    GPEO3jLXM1,    NW4t44e67P,    Ugt0d,    U3a30O;
     psmne9I0U    =    0;

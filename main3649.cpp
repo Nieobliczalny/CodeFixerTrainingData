@@ -314,6 +314,7 @@ i++;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int W3LE8Sv4D(unsigned short int MIHIWh4_M,int JYw_kDrAQu,long obbSJv281c,short d19MvD6) {
  return 0;
 }

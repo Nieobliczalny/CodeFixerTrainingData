@@ -18,6 +18,7 @@ int  u_q96(unsigned long long  t7gMq,unsigned short int  c233806fA7,char  y4Z0u5
 
 int  c2t2();
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  unsigned long g_k2cr6Q, p4h6Xz, oQ3zB, IQLW, z4E0ps42, RpMW79VDQ, Lm9e6SwM1, X9NT5, iia3, HD7_, aeaT1ZgD_, a81x1, M1v7y1, PD_S, AG2y, kWc3, y07tJ_6, rpsBLKSkk, FAyBS, Dzu5, l58mC, QD30;
  g_k2cr6Q = -389963309;
@@ -291,6 +292,7 @@ std::cout << "Wh3i39Gm" << Pp9u2_83L6(rpsBLKSkk, g_k2cr6Q) << IQLW << aeaT1ZgD_ 
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int n7dd(long Zr7I93AG,unsigned long Scs2,short int Li873_,unsigned short int a60v1QUX3m,unsigned char kbi3)
 {
  return 1308476136;
@@ -304,6 +306,7 @@ short	sq6P1(long long	a_c7,int	o0Y9FMkiy,char	u6X3Tc00UJ,long long	Ti3UOBDiJ,sho
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  u_q96(unsigned long long  t7gMq,unsigned short int  c233806fA7,char  y4Z0u5XG)  {
   return  1940534894;
 }

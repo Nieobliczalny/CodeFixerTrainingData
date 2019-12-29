@@ -547,6 +547,7 @@ EPnfrU7 = (unsigned char)(JIu4w);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    HUBPGYd(long long    R0g0TGQ4i9,unsigned long    uMp6l371,unsigned long long    Q3vBQ,unsigned short    p_70k5o276)
 {
     return    0;

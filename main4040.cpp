@@ -12,6 +12,7 @@ short int  x_C5xtlG(unsigned char  XeR_9);
 
 short int  JI4k4_0X8(short int  Fd3A,unsigned int  khoAG5x_s8);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     int    V31u    =    -1970508351;
@@ -524,6 +525,7 @@ LtFZVc9axx *= mMmCqUKAzJ;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  x_C5xtlG(unsigned char  XeR_9)  {
   return  286381848;
 }

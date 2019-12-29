@@ -507,6 +507,7 @@ G8N9h7vhi = LqsAHFCE >> UUWwvccf;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  gaD50OM(long long  bM21eD1_9)  {
   return  -266338639;
 }
@@ -519,6 +520,7 @@ unsigned long	NdF1_JA6()	{
 	return	-852422521;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int Ku8JHR1O8(long I8UBp9aLHm,unsigned long long DY_7e)
 {
  return 1311900354;

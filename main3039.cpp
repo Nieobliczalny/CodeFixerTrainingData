@@ -21,6 +21,7 @@ unsigned char  fZ4vw(unsigned long  Co6aW,char  D1xt3lR6,unsigned long  fTG29Cb_
 
 char G00bldIH0I(unsigned short rwZDfVJ,unsigned char RfKy09U8);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  unsigned long long e9pvx8, vTo6P48, Y31tWYw, EX2tw5y;
  e9pvx8 = 0;
@@ -814,6 +815,7 @@ while (k >= 0);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    bmJJ1X4(unsigned long    l6p98wQ,long long    d1HW5,unsigned long long    i1S9g,int    TL_1Z447)
 {
     return    -1442677917;
@@ -827,6 +829,7 @@ unsigned char    Pu5A()    {
     return    -380277908;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  fZ4vw(unsigned long  Co6aW,char  D1xt3lR6,unsigned long  fTG29Cb_Wn)
 {
   return  0;

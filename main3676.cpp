@@ -12,6 +12,7 @@
 #define	lN7ez39d_7	(1599019021)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  unsigned int G1uZ;
  G1uZ = 1479525887;

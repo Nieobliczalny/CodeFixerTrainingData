@@ -12,6 +12,7 @@ unsigned long long	Kb85QN()	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	char	w26nnf,	XUVs5xJ7Y,	fzomT;
 		w26nnf	=	XUVs5xJ7Y	=	fzomT	=	0;

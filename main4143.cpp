@@ -16,6 +16,7 @@ unsigned int    KBUL(int    n6_8Y4J_);
 
 unsigned int	PanQvVB6t1(short int	MG38E0m43h,unsigned short	qDYM9NMT_,long long	d9_6Am5jAn,short int	MB6658D098,char	HHvcD1);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   unsigned long long  kB7L12Gwwd;
   kB7L12Gwwd  =  -1718227324;
@@ -274,6 +275,7 @@ l1kbMI5OR = (int)abs(xcnT5PkKYL);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    KBUL(int    n6_8Y4J_)    {
     return    0;
 }

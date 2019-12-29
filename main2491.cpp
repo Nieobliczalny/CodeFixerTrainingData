@@ -298,6 +298,7 @@ JXV9wJWdU = (long)(oQC__10P4);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    q17a(short int    RP9As590SP,short    uzvd)    {
     return    332475082;
 }

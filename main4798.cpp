@@ -581,6 +581,7 @@ long long	rC6n1YrW()	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    J4lRv(int    Ai8ID,unsigned char    F6L4CEWt,short int    bZ1_h9l,int    Bfst001P7,unsigned long    DsZ6V)    {
     return    -2140310984;
 }

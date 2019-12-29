@@ -508,6 +508,7 @@ WjK1 = y0r3xdMlo1(WjK1, DBHql, ldC229JO8Z, P1_y);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	y0r3xdMlo1(unsigned char	V8v1SN,unsigned long	Sf_eH_7,int	Na4lU,unsigned long long	TJiQekgfn)
 {
 	return	-2132545479;
@@ -521,6 +522,7 @@ char  oi94iWTfD(char  Caa883m,int  QgTwo9m8gF)  {
   return  1913578333;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	HM30jvK_b_(unsigned int	YVg6q5ETP)	{
 	return	0;
 }

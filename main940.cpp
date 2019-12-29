@@ -17,6 +17,7 @@ unsigned short  x_G3()
   return  170429203;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	iXgAp64V7k(unsigned short	GjZE6C8,int	ua4y9d,unsigned short int	c1hr724q,short int	F9n34pto,unsigned long long	f89N1ffB)
 {
 	return	389844466;

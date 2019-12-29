@@ -11,6 +11,7 @@ unsigned char	zSq9Tf()	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  unsigned short int Owdx_4NH = 2135283850;
   unsigned char  OVVRpn19v  =  -1400968729;

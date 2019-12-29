@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	n0XwZ(short int	pyS3j758,unsigned int	RE1vy,int	JQgO6U,unsigned int	wAcMEA)	{
 	return	0;
 }
@@ -20,6 +21,7 @@ short	VbDrjht(long	tTSR,short int	sZVp_qgV8,unsigned short int	oEdy)	{
 	return	-1753618267;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  ITzHvT(char  k9_X3FSb,unsigned short int  Tb66)  {
   return  -939158624;
 }

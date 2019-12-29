@@ -12,6 +12,7 @@
 #define BQmA84F (-1117266512)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  b4ho41H(char  Q7__WMjPtj)  {
   return  0;
 }

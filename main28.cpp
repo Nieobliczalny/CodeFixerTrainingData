@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    Lv9dne(char    lj_oQ,unsigned long    U8si89Q)    {
     return    0;
 }

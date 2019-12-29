@@ -19,6 +19,7 @@ unsigned short int    Kzj44(unsigned char    IG3FB1_Bk,short    qS3f,unsigned sh
 
 unsigned short int	GSLDi5aw(unsigned short int	Y1r3C,int	BB2WTn0,unsigned short	cpnx4VA);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   unsigned int  ZWJz8UZnY;
@@ -315,6 +316,7 @@ H9wos = GSLDi5aw(-1731240476, y0pp, -87729186);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	q6c_389m(long long	WxCl9W)	{
 	return	547606152;
 }

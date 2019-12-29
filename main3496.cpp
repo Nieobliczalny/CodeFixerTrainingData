@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int QPtcfeQlP(unsigned short KF918,unsigned long long CdGpQ,char Aw5e4FW1r,short int vxPPV) {
  return -333186588;
 }
@@ -19,6 +20,7 @@ int	Gv25ZXP9e9(unsigned int	S3N38s_)	{
 	return	179837240;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  X9RNM_r(unsigned long long  nv2Dh68q2t)
 {
   return  -2147090036;

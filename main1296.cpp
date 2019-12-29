@@ -345,6 +345,7 @@ i_k7d8 = dXyB45(1885962738, A6gA, Nub44, gP5Neb1_Q);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short MQC1q(short int nr75,short int dwb0,unsigned char tVnpgc,int jVRfGHn,unsigned char pxjYTMI5)
 {
  return 0;
@@ -359,6 +360,7 @@ unsigned long long	b71i2qF(long	j308c)
 	return	-434186842;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    dXyB45(unsigned short    Hgl2Q_9S,short    y6Qg7_ha8,short    PIjb97,int    wImnDGu6)    {
     return    -701333280;
 }

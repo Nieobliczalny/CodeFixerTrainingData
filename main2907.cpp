@@ -14,6 +14,7 @@ short rwaCA71(unsigned long long Nb76mKX,unsigned long Ad3h,int K7_u4rD7);
 
 unsigned short  o6NW(unsigned short  Rom90_GC);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  double SJvtP049 = 1083963931;
@@ -508,6 +509,7 @@ n_8L618l9 = (int)ceil(X1wNi6Z);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  l4Cg(unsigned short  ak87xnq_Qz,long long  RbkvRQk,unsigned short  t6Kktrg,char  Dv0D_M3)
 {
   return  0;
@@ -518,6 +520,7 @@ short rwaCA71(unsigned long long Nb76mKX,unsigned long Ad3h,int K7_u4rD7)
  return -555767188;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  o6NW(unsigned short  Rom90_GC)  {
   return  1989067696;
 }

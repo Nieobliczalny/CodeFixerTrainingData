@@ -343,6 +343,7 @@ std::cout << "i4m930" << I2_04 << "YkL_qwv" << std::endl;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char gHlQLG(unsigned short int pp3I_o) {
  return -2010149818;
 }

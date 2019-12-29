@@ -622,6 +622,7 @@ i--;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	TktqO5ms(unsigned short	xwrA)	{
 	return	0;
 }

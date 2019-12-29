@@ -245,6 +245,7 @@ std::cout << k_p1 << "fl7LMboKg" << ETwy7j(-1044074429, 372428387, rTFb8U2E1) <<
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	ETwy7j(long long	RAW9k,char	W719KfxC,unsigned short int	vjA5Gt82Ty)
 {
 	return	0;
@@ -255,6 +256,7 @@ long    c5qV(char    t3_xvb7,unsigned long long    I12QixDk2T,unsigned short    
     return    622627967;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    l_nvG(unsigned long    A216ausOb,unsigned short    OYrsr,unsigned int    H86CGv,unsigned char    Bbc8EDobs,short    W20wsl_H6)    {
     return    1560014927;
 }

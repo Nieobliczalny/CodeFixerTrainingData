@@ -10,6 +10,7 @@ using namespace std;
 
 unsigned int	uQ7nv(int	v5eiX,short int	uaV8nyfL,unsigned long long	k6u83r3bP0,int	Au_ur,unsigned char	M1Z_kiwL);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   unsigned char  MlppFFbi9s;
   MlppFFbi9s  =  0;
@@ -503,6 +504,7 @@ i++;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	uQ7nv(int	v5eiX,short int	uaV8nyfL,unsigned long long	k6u83r3bP0,int	Au_ur,unsigned char	M1Z_kiwL)
 {
 	return	0;

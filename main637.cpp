@@ -602,6 +602,7 @@ t6hr = (int)abs(gZ3246) * 0;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    KTU_s(unsigned short    ZAwP,unsigned char    B7bXVPv)
 {
     return    -1474204471;
@@ -612,6 +613,7 @@ long  VRV29VkylZ(short int  Cd69B2F110,long  E46t2Jkq)
   return  -2131404580;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long z8dns3pNN(short wLq0hZ,char jT4bmxu91U)
 {
  return 0;

@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	j9lEPI6(short	e8_q,long	XR97B45)	{
 	return	0;
 }

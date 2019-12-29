@@ -659,6 +659,7 @@ short yQ00oZ() {
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    hVZ3Y(unsigned short int    pignvhMuG9)    {
     return    -833285763;
 }

@@ -9,6 +9,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    QEPpm_(int    f57hgd,unsigned char    HqLFj77,unsigned short    wqy9i)
 {
     return    -2096932154;
@@ -19,6 +20,7 @@ unsigned long  hWpOpT(unsigned long long  zbzXfhaS,unsigned long long  CP1InG0v,
   return  -885987979;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  A30Pm(int  C3CNG1FM)
 {
   return  0;
@@ -29,6 +31,7 @@ unsigned long long taG3z(unsigned short iYBxhbol)
  return -615208949;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     unsigned char    w7720fdK0p,    tGjgLJ,    P22a5Ps5;
         w7720fdK0p    =    tGjgLJ    =    P22a5Ps5    =    0;

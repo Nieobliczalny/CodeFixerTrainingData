@@ -9,6 +9,7 @@
 #define  boZhy  (-152750221)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    g25bN10d(unsigned long    cbnGX,short    qJk6_,unsigned short    c5JIkM)    {
     return    0;
 }

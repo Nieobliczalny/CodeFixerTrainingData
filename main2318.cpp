@@ -322,6 +322,7 @@ AYQG1JG2 = (int)abs(Mc9KzS);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    pP02zn_I(unsigned short int    Z___j102Wd,unsigned short    xI_82V,unsigned long    AeT2)    {
     return    -658573241;
 }

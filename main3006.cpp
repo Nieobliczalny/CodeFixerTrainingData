@@ -775,6 +775,7 @@ long	YI2k()	{
 	return	-620028038;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    vZ07v20(unsigned long    LqaNfUM,short int    nu8F)
 {
     return    0;

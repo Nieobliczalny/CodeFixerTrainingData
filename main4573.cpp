@@ -652,6 +652,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	bv3Ogtn(unsigned long	XkB7iq,unsigned short int	ntrY6,unsigned short int	G0h4H82S)	{
 	return	0;
 }

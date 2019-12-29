@@ -613,6 +613,7 @@ FQCK8 = cDud0832 | 1558121349;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	ZOVO1W0u(short	b192m4xe,int	GX_J22u)
 {
 	return	0;

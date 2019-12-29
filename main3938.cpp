@@ -14,6 +14,7 @@ int CAtg11c(char qTdD14FIl,short Y5012Q,unsigned short int YkB495ekl,unsigned sh
 
 long long    V0Zh6nk(unsigned long    ucL6xl3oo9,unsigned long long    o35771Ifk,long long    w1lcy,char    aZ8JJ4k9r);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     unsigned int    HS__T4hHV;
     HS__T4hHV    =    745190282;
@@ -599,6 +600,7 @@ std::cout << bBhr << "q8XuqSu" << std::endl;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long A9aZK79QT(unsigned char K1FBmwY0,short d8qmzaD,unsigned short w9bq17fFr,short oTbaFW1S) {
  return 0;
 }

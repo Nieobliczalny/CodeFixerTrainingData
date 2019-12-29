@@ -588,6 +588,7 @@ while (j >= 0);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    KNf78(char    VvnPnv5,char    p1sSfnGJ)
 {
     return    1229265967;

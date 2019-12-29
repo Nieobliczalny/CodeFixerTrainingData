@@ -12,6 +12,7 @@ int	QemAcQdq5()
 	return	135641618;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	x9bd__l(unsigned short	rn7vN6845,int	VQo8Tdfr3y,unsigned char	HzL9E)
 {
 	return	0;

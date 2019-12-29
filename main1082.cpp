@@ -737,6 +737,7 @@ alkn = (short)(XtN164W8 + (-963273083));
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	exb9zJ(unsigned char	rXfWxi)
 {
 	return	-1275785302;
@@ -750,6 +751,7 @@ long	gW5l0hV(unsigned short	BSHncr23,short	i5Yq_TOH,char	IIyUwNf,int	F5C4_,short
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  q3qy17f3_(unsigned short int  nspWGQ,short  s7283at,unsigned long long  a1Ph4YM0,char  QNvbNJ)  {
   return  1395001083;
 }

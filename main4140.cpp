@@ -11,6 +11,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  EteW4WbN(unsigned int  zU9TKf7,char  sraaakd)
 {
   return  0;

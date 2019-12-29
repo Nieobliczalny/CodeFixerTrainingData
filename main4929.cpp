@@ -773,6 +773,7 @@ v_9LC = J8uk0398 * 841944820;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  FXn5sq(unsigned long long  l7F4_wMXf,unsigned int  H2h89w_38_)  {
   return  1255614317;
 }
@@ -787,6 +788,7 @@ long long	jE133(long long	s697jdv,int	TRco0,char	d6g83ujln,unsigned int	P84isU)
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  MZTs5(unsigned char  T7Ien)
 {
   return  1341608278;

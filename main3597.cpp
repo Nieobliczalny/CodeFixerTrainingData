@@ -13,6 +13,7 @@ short int    a0DGJ7()    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   int  o0E5W9d  =  0,  rz0HcIn  =  0,  neBLdO  =  0,  CZNpGQW  =  0,  yhHZ  =  0;

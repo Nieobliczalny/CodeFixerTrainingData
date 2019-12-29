@@ -663,6 +663,7 @@ en1kkTN = izI2Wye1(144856382, 585719241) >> d0__kxe6;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long DH8u4I(unsigned char h6Es,unsigned long long j2n0,unsigned long JMnI6sYGJ,unsigned long iGe3HwuiS) {
  return 1632410967;
 }
@@ -676,6 +677,7 @@ unsigned long long	JfUo77__2(short	ZMvND,int	b80zvAkN_m,unsigned int	IqRY98Yx5,l
 	return	1112823604;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    izI2Wye1(unsigned long    iyHUQ_9Dis,unsigned short    haUHz3tg5Q)    {
     return    0;
 }

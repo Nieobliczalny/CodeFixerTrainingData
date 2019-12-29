@@ -10,6 +10,7 @@
 #define  ei0h8Et  (1581741987)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  i894XcTw3(long  aK1gafsXg,long long  Mn15kDUeN,unsigned short int  mU6h1GV7i)  {
   return  -66062826;
 }
@@ -22,6 +23,7 @@ char pAh0hujg_1() {
  return -969991596;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    j8h5Bl(long    V5YNFu,int    OId12YMh)
 {
     return    -1488004178;

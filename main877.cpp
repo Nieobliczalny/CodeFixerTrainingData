@@ -144,6 +144,7 @@ cout << "m430" << s325OvPFz(-949394438, HRSKh, LIrQ7) << endl;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  s325OvPFz(unsigned short int  n9yRY8,short int  R91q2xN,unsigned char  Wi24ET73p)  {
   return  0;
 }

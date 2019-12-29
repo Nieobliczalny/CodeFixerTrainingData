@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    o_sfd(unsigned long    X6vXq96Ia,char    F1oENt_,short    ZwwZSeK6N,long long    zDaxcGrDC)    {
     return    318940569;
 }
@@ -24,6 +25,7 @@ long  Ch5j(unsigned short int  gXiwU738uE,char  b83jJK3xx,char  G2oV3Cbcy)  {
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  vOJ_(unsigned long long  B2v9O4Ss1,unsigned short  sM3zu10lf,long  Nb17KLIaRT,unsigned long  bPKKc814_0)  {
   return  -1772572386;
 }

@@ -17,6 +17,7 @@ unsigned short    RmXsohI80(unsigned long long    ZG_geX8gf9,unsigned short int 
 
 unsigned long long	J66M(unsigned long long	u5ig8q_);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  unsigned short int ct40, k3_H2nZ5T;
@@ -235,6 +236,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	L5I_AR(long long	a6NcwPY1p,unsigned long long	eMfje9_4z,short int	q_Et9lW10y)
 {
 	return	0;
@@ -249,6 +251,7 @@ unsigned short    RmXsohI80(unsigned long long    ZG_geX8gf9,unsigned short int 
     return    -1121840041;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	J66M(unsigned long long	u5ig8q_)
 {
 	return	-250898081;

@@ -16,6 +16,7 @@ unsigned short	ospfr9TW(unsigned long	Bv8wZI,unsigned long	L65cBJ);
 
 char	fK0G5jiZf5(short int	AJJ1t9IvP,unsigned short int	HEeFLiR,unsigned short	C7_fJOozcE,unsigned short int	O8uL7HO_);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	short	pMs3nW,	IdXzLkqlB2;
@@ -432,6 +433,7 @@ vc2G = iml5h59 / MDQH;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	ospfr9TW(unsigned long	Bv8wZI,unsigned long	L65cBJ)	{
 	return	0;
 }

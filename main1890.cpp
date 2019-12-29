@@ -10,6 +10,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char p8P1eIU(unsigned int IRmZHw9G,unsigned long long G5zoHc4h_5)
 {
  return -1306559127;

@@ -18,6 +18,7 @@ unsigned int T_OHrbtL(char Q16TtL3c_n,long wgKC,short int F43I6TS,unsigned char 
 
 unsigned long b5n8(unsigned short int HtJ9);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  unsigned char LmW34;
@@ -342,6 +343,7 @@ unsigned char  QcTwKT3()  {
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int T_OHrbtL(char Q16TtL3c_n,long wgKC,short int F43I6TS,unsigned char Q038_X_,int Wl2U)
 {
  return 2140386172;

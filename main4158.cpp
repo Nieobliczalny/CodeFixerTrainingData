@@ -11,6 +11,7 @@
 
 unsigned char CNQ0d_(char bXpx_udmIx);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     long long    c3ITIzfI8,    YYXTM,    idMm,    l4mI45,    T3Cj6DSG,    FKLQRiCZF7,    t4fX10b_,    Un9q01,    scMI2,    V61LFS7H9,    b_JrY3i34,    LjKzjO,    SWvbkrg65,    kv24I,    sT9IOSV1,    SaP4gR9_,    qBs5B381F,    Zm6gboI5_9,    bqRMv,    VQYeLCdH9X,    tds0860lL,    HGcLon,    d7Bg,    H6Joo,    IbN94Dv5I6,    b1K9La,    v8o_1Q8p1,    Cw5Ls5076G,    WHOs41qw,    A0Tjy;
@@ -850,6 +851,7 @@ std::cout << t4fX10b_ << std::endl;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char CNQ0d_(char bXpx_udmIx)
 {
  return 0;

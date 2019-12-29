@@ -36,6 +36,7 @@ D891hwN3 = (int)floor(JA96d7);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short  Y2O0yf(int  G5rzk0n,int  JFmKKP8,unsigned char  tA_4243C)
 {
   return  1205502376;
@@ -49,6 +50,7 @@ unsigned short Bz_h(short int CxB5,unsigned short aedjQnF5jj,short GdHWOOe,short
  return -1569949737;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char X_f14N(unsigned short int a6W372VQ,short int qlK7nHCI) {
  return 0;
 }

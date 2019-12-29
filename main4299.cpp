@@ -604,6 +604,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	Hg5PCE_(short int	lphJ07j8GX,unsigned short int	B54z_q,short	jtU8qN,unsigned long	McL5090)	{
 	return	0;
 }

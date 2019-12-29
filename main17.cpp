@@ -15,6 +15,7 @@ unsigned char	uf9LP1R(long long	SO0GFyTd,unsigned short	PJh7A50);
 
 unsigned long	SX_V(unsigned long	gj0gsg,short int	lnSY_1r,long	qGXq3,unsigned char	x2_Tm,unsigned char	rYm_aT);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	long	TW4_	=	1200775642,	MN4w3Om48u	=	860707175,	HbPS9uw1hx	=	1320249670,	h819	=	-1354551517,	l4dI	=	2065282072,	Q4i870	=	1437619124,	yUacBe_E1	=	-520441785,	FKylU2x0	=	-1170809073,	Y79R	=	94960600,	Hb4R1O	=	-1666957637,	D9F2	=	1421076070,	L6_2_W	=	-2067665986,	r89q0Lh4W	=	-220178035,	gc9YhzLV5	=	970449981,	Iej8_	=	-1348874483,	nr0_hHU89F	=	-15229948,	fzj62	=	-125091153,	k5h7	=	132298910,	h35D87bBI6	=	-346951623,	Thp_I8z	=	-686173157,	Hu6Q	=	2029300614,	ql3b3UzX2	=	294244585,	tM0I6c468c	=	1565237782,	iflJ	=	1662880553,	n4UuM	=	1374469925,	wll8Fgdz3	=	1266052316,	aoBuBQ3Kx	=	-400700006,	EylKR0_Bh	=	813492468,	F1ek	=	-1054441689,	j2c344El0	=	-1248502579,	Xe2e8bN	=	1868054639;
@@ -547,6 +548,7 @@ std::cout << "MKqZe2j" << std::endl;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	Uh62x_s(unsigned short	VZ_8oo3W5,unsigned short int	iUf8Xws2,int	kCUCwqI)	{
 	return	-138585805;
 }
@@ -559,6 +561,7 @@ unsigned char	uf9LP1R(long long	SO0GFyTd,unsigned short	PJh7A50)	{
 	return	-998378257;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	SX_V(unsigned long	gj0gsg,short int	lnSY_1r,long	qGXq3,unsigned char	x2_Tm,unsigned char	rYm_aT)	{
 	return	0;
 }

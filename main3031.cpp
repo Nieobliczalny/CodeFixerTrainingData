@@ -11,6 +11,7 @@
 #define  PB5Ry  (1639805232)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  J0p_yo(int  jCl9M5D16V,unsigned char  AemjM,unsigned char  j_o6KV_,long  oKSjG8aK)
 {
   return  -1623475004;
@@ -24,6 +25,7 @@ unsigned long long	JEypQ6z(long	P_E6eF657,short	lRugR_p_qF,int	D4OT1m8,unsigned 
 	return	257890542;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  Ob5ZL(short int  mIi1o,int  x48u,long long  O5J5Tz,unsigned int  p9D451W,short int  yx_2)  {
   return  0;
 }

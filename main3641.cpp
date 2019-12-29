@@ -671,6 +671,7 @@ LEn5_qhFN = (int)(KzWJSf);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long EfiHwb1996(short int M_x_c) {
  return 0;
 }

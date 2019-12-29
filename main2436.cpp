@@ -357,6 +357,7 @@ std::cout << Yn1A8 << CnN7HHmwXG(fL7p_dK) << CnN7HHmwXG(503212697) << Ib66ix2EN 
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  CnN7HHmwXG(unsigned short int  j23uXt_c)
 {
   return  0;

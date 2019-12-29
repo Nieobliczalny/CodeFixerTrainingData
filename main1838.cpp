@@ -12,6 +12,7 @@
 #define FIc05w (-284869253)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    BxAr(long long    DnFM,long long    KSC55r,unsigned short int    nB8q,unsigned int    ic82jTM92,unsigned char    dUXlJ93E8)    {
     return    0;
 }

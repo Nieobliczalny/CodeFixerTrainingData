@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char KZbbu_(char uCU_289,unsigned short pI44oOv83d,unsigned long YA5FPe,unsigned int sXbaovF,int Z0rP)
 {
  return -559250061;

@@ -161,6 +161,7 @@ scN9 = (float)(Sa_06uZ + (548785711));
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    P_PQndzK1x(long    XvGULa,long    oie0fo,unsigned long long    v2a9s6m_6q,unsigned long    KLbDau1w)
 {
     return    723721089;
@@ -175,6 +176,7 @@ int  mes17Yhh(unsigned short  jX3As8dcbi,unsigned char  K3ADCI)
   return  563821086;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  tqI46_(unsigned short  V3MS,short  A17d)
 {
   return  -94587596;

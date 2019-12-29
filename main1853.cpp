@@ -379,6 +379,7 @@ pvO0BL4 = c25nYB_l();
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	vPAY67n(short int	AODzE,unsigned short int	a30eSiKTOc,unsigned short	T72CFWa1X)
 {
 	return	1212129944;

@@ -10,6 +10,7 @@
 #define	Farwds	(1049012582)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  LuL3(unsigned char  elBA7,unsigned char  S7iRzC9)  {
   return  0;
 }
@@ -23,6 +24,7 @@ unsigned short int	r0Yc2ea7(int	T063GkP,int	NbNsdO)	{
 	return	-1636222607;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  short jRN3T2eZ;

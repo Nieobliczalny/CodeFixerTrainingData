@@ -9,6 +9,7 @@
 #define TN8gh2 (-249133388)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int j5o0(unsigned char aZJ5geM69U,short Q6oy_T71,int xpHC9yl,short int hNs1Q,short UCoXqS83M9) {
  return 1110814410;
 }
@@ -22,6 +23,7 @@ long	qr61s(unsigned short int	M47Z3fYB0k,unsigned char	FcoGm,short int	W8zXhMbt7
 	return	1807059322;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  V6i_Y74f(unsigned short int  J2cK99o_dH,short  LSb8M4,int  eeUkS47r)  {
   return  0;
 }

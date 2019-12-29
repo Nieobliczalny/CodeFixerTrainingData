@@ -47,6 +47,7 @@ IaiyO = ByT7(IaiyO);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  BYo1339O3w(long long  S3Wq,unsigned long long  vr9750TnNv,unsigned char  XNz4vRan8,int  LJ3q)  {
   return  0;
 }

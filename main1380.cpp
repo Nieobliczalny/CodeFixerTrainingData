@@ -8,6 +8,7 @@
 #define    zG6h6M    (0)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	E7jvK3Q6(int	Kl7Y,char	elS9Cg37,unsigned long	Be325N77V4,short	IY_44291LK)	{
 	return	0;
 }
@@ -21,6 +22,7 @@ unsigned long long	W4c_jOQF(unsigned long	lew53,short int	w83OEUm57)
 	return	-1646792613;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  AVI9Z5y4(unsigned char  U6d31Ts)
 {
   return  -1426308470;

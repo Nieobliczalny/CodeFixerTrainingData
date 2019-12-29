@@ -433,6 +433,7 @@ while (i >= 0);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int LOS382(unsigned short int Pr_fFj_X7c,char ZT1778,int XXYl1VUtn) {
  return -578438600;
 }

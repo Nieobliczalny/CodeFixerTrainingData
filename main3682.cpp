@@ -747,6 +747,7 @@ A6WZE = WrKtMER34();
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    wIM8E9g5(unsigned long    nYO2559y)
 {
     return    0;
@@ -761,6 +762,7 @@ long long	WrKtMER34()
 	return	-1094979169;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    MkdOh7(unsigned char    cs9SP7R0Sq,unsigned char    Jm59,unsigned short int    l0z6kdiE,unsigned long    tsstUM1g96)    {
     return    -514487117;
 }

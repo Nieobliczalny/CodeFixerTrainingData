@@ -18,6 +18,7 @@ int e5_ZM_(unsigned char c5LN3D,unsigned short Wm5_OYosFh,unsigned long L9zsa);
 
 char    a4be7FB0();
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     unsigned short int    nWfF;
@@ -129,6 +130,7 @@ while (i < 4);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  I7__(int  b17Sduum4,long  JfUZ,unsigned int  z4ANLM82i,unsigned char  N9V1N4N)
 {
   return  0;
@@ -142,6 +144,7 @@ short    vMCAv(unsigned int    e2_854Sz4,int    yS29)    {
     return    569276471;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int e5_ZM_(unsigned char c5LN3D,unsigned short Wm5_OYosFh,unsigned long L9zsa) {
  return -154435972;
 }

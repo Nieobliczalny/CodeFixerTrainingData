@@ -12,6 +12,7 @@ short  iU587(int  w341FEtP);
 
 unsigned short	ap0Q4J(long	U1aL,unsigned long	kIzaNonj2);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     unsigned long    S_sjVh0    =    0,    KXfUPZyR    =    0,    mtpMf17G    =    0,    jXDR6FV    =    0;
 	unsigned long	Se4oFXsD	=	1832448660,	Sns_	=	1579757313,	BmB3GH4W_	=	689222485,	XKGm	=	341368605,	jmDP4G20_c	=	1400237546,	wODGG8cZZ	=	1953618195,	d24IW5	=	347335231,	mp6URSn9	=	1960131387,	Rcoy	=	-616953523,	Go0JFo7uTo	=	1205210970,	Cf4Vs7t	=	909940063,	i9GOe8npu	=	16614167,	AS089	=	-587496494,	L0pjOCwS	=	-1807089028,	f4F3J7	=	918400253,	MH2o6o32	=	-1559389129,	L75As8uZNo	=	893485025,	x5371V29TJ	=	33651187,	l991il9HHo	=	-1787654702,	g7ZvCrc02W	=	-279304908,	J4Jh1	=	-29167607,	G6FbMh	=	-1255118389,	IAqSQi1	=	-769747606,	VpShiP	=	-1692085523,	KyIk4Dli	=	-1540309820,	W2X7N	=	1349404418,	y2Yt	=	2076986784,	z3slOO1e	=	-1716508973,	zZb3P	=	-73453360,	K_dHZB	=	-322909160,	H5hSib	=	-299319016;
@@ -303,6 +304,7 @@ wODGG8cZZ = ap0Q4J(280871903, -2019137784) ^ W2X7N;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short  iU587(int  w341FEtP)
 {
   return  0;

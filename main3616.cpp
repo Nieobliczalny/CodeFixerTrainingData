@@ -280,6 +280,7 @@ while (i < 1);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    yIuMAAo0o(long long    KT5dNl,unsigned int    q42_B89,unsigned long long    K520)
 {
     return    0;

@@ -17,6 +17,7 @@ unsigned short int  zV0Shc(unsigned short  ibxY2T3u,unsigned long  wr1Q);
 
 unsigned short    ZV9nc_lwIz(unsigned int    j8vnXQX,unsigned int    sX0s,short int    YdfRM0Y0);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  long sD_Ggyl, PSs0L, zvD_K, eCP3rF4_75, L2fH;
  sD_Ggyl = 0;
@@ -512,6 +513,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  YSzBV06Tl(char  HCnl6,unsigned long  txv1_D_17U)  {
   return  -1988325446;
 }

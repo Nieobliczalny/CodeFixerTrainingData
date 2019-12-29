@@ -771,6 +771,7 @@ while (j >= 0);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    VQ_n_6(int    ckr__oaf5Z,unsigned char    xeS7)    {
     return    0;
 }

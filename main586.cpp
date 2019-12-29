@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    GF_6VX5d7_(unsigned long    O175)
 {
     return    0;
@@ -22,6 +23,7 @@ int a497n() {
  return 896183762;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	Q_y0v(char	RIE27W41J,unsigned int	dCMB0Ap,short int	u4llP,short	vlz1488)	{
 	return	993368785;
 }

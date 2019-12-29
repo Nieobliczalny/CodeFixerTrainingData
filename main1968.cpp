@@ -16,6 +16,7 @@ unsigned char WCG2z(unsigned short n83k);
 
 char  PsV1(unsigned long  oga_Y,unsigned long  YIw_4SPt,unsigned long long  mGq7xI47__,short int  WxA4v);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   unsigned long  pz_x;
@@ -513,6 +514,7 @@ unsigned short int    zXMWO()    {
     return    1748251351;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char WCG2z(unsigned short n83k)
 {
  return 2069404641;

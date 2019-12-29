@@ -631,6 +631,7 @@ aV5Yq = KGZVK(aV5Yq, -1760748382, EQ3p9IvV_, -651429564);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    KGZVK(char    JnZ8,unsigned short    AuorOLq,short int    Yx4gJMB3_H,unsigned char    GC75)
 {
     return    -1579449353;
@@ -645,6 +646,7 @@ int    Ui6wcDkJ_(unsigned int    CN_R0,unsigned short    qfxrCa6036)
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short  P93R9I(long long  F37Y4rVlCK,unsigned int  hxxj)  {
   return  1249964085;
 }

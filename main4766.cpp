@@ -12,6 +12,7 @@ int    ev96EtiyH9(short int    PwJT4SHL_,unsigned short int    T605,long    H9dK
 
 unsigned long long	ch3_NT6(unsigned long	Wi9V7M2,short	e28r,unsigned long long	vX0QD);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  double Ij4cPgc;
  Ij4cPgc = -94741752;
@@ -354,6 +355,7 @@ Q59Yx353 = (unsigned long long)(JyKAw);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    ev96EtiyH9(short int    PwJT4SHL_,unsigned short int    T605,long    H9dK7A28)
 {
     return    667179115;

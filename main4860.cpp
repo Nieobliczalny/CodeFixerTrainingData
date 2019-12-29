@@ -949,6 +949,7 @@ VV61Y5w = yf_gh | 184749234;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	A0E77w7V(unsigned short int	wYA7k,unsigned long long	FcGr3TS7J6,short int	A6_oD,unsigned long long	J_r_5b1_q,int	IN87ax6)
 {
 	return	0;
@@ -962,6 +963,7 @@ short int	Dop1ya(short	MgWt9,unsigned long	l_f5U1Ve,short int	tCP7dm7f,unsigned 
 	return	461129619;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	ZMrYm2NdW(unsigned long long	X52w8izT)	{
 	return	1536254260;
 }

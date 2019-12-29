@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     unsigned char    Li48Ul0aWN    =    0,    zI6MX    =    0,    A55V_us    =    0,    fMX863ttue    =    0;

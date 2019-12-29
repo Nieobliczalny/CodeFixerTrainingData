@@ -16,6 +16,7 @@ long    ks_Ped6()    {
     return    -1648019396;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  dcUCNkw(unsigned int  AbF4l9,unsigned short  i5RUbVRS1)
 {
   return  0;

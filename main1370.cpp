@@ -384,6 +384,7 @@ t57oQ5484z = (unsigned int)(miMbi);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	bv97_Q4(unsigned short	BQzG,char	GMwZ8pYD4)	{
 	return	0;
 }

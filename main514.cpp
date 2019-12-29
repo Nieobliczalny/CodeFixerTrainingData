@@ -625,6 +625,7 @@ unsigned int	vx6_Z5U33()
 	return	780916007;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    i8Koc(unsigned long long    bHq6wTiQ1)    {
     return    0;
 }

@@ -11,6 +11,7 @@ int  vNT2s8e();
 
 long	yzEw9XXpm(char	v_j4cR60,long	x8UT8Sg,char	obsKE38Z);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	unsigned int	TuzKz;
 	TuzKz	=	-1495389572;
@@ -193,6 +194,7 @@ int  vNT2s8e()  {
   return  -1538355987;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	yzEw9XXpm(char	v_j4cR60,long	x8UT8Sg,char	obsKE38Z)	{
 	return	0;
 }

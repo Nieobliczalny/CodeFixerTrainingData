@@ -16,6 +16,7 @@ unsigned short int    MEpa4()    {
     return    647002997;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	RxG1(int	v4WoP_7l,long	k1Hv0t9fW)	{
 	return	-188526564;
 }
@@ -29,6 +30,7 @@ long long	uGz7k(unsigned long long	MhNg4T9_Dy,long long	N7HL584W)
 	return	566278117;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char N7E2vR(int B1iT,short int rI_rNBuIx,short int s54kay68B) {
  return 0;
 }

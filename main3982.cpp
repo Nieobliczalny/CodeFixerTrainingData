@@ -197,6 +197,7 @@ e8_HeD1j3t = -1435185249 / g035JXqp;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char gdPHJ66(unsigned long APn1BMR3,long NMc7F6vd,long long lU7D,unsigned int KT67N0nenf,unsigned short eWcgB9wPg_)
 {
  return 0;

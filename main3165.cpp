@@ -12,6 +12,7 @@ using namespace std;
 
 char KOff(unsigned char CwX8M);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	unsigned short int	mH1D2	=	-1748534813;
     long double    K03r2    =    2058246309;
@@ -444,6 +445,7 @@ l6oOHB9g1t = (int)ceil(SRqPpbpo);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char KOff(unsigned char CwX8M) {
  return 0;
 }

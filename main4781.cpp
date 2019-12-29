@@ -19,6 +19,7 @@ unsigned long mYPM_Mt()
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  unsigned long KY55bm2V7T, R9__sdH9KM, P68h9A, WJqmT13Goh, fPpnv_sqH5;

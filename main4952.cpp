@@ -567,6 +567,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  r3RyEN(unsigned int  wb4zMK95cE,unsigned short int  qOe_f2)  {
   return  1779340781;
 }

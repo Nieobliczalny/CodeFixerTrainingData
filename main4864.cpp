@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    aQE3w_I00E(unsigned int    H1Zl16V9Y3,short    iGCG51PQ,long long    x38p3_,int    rM15j6CCGi)    {
     return    2010014491;
 }
@@ -25,6 +26,7 @@ unsigned int  Pg3ml()  {
   return  -1358578677;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  E533rVUm9(unsigned long  cXs5E0K,unsigned char  VGJ05Pq,unsigned long long  FCBA0_PTCJ,unsigned long  J8Z7474U,unsigned int  Z4WO8)
 {
   return  0;

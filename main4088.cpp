@@ -505,6 +505,7 @@ while (j < 2);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char w73bwe(long uT7GTu1U,unsigned long long tp3O6,unsigned short int OsJ1,unsigned long Zfw595)
 {
  return 0;

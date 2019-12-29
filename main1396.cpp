@@ -9,6 +9,7 @@
 
 short int e_MSj(unsigned short int yVyBfSS48);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     short int    c7ajKz;
     c7ajKz    =    -399931067;
@@ -500,6 +501,7 @@ M4ePKsJB5D = Gzis / Ed836;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int e_MSj(unsigned short int yVyBfSS48)
 {
  return 0;

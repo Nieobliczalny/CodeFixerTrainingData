@@ -11,6 +11,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short EJPs(long V2X5s,unsigned short pR7_kr5,unsigned short int oN6G5F) {
  return -455295247;
 }
@@ -24,6 +25,7 @@ long    VdE0(int    S7kxiE7fD,unsigned long    wE232f92)    {
     return    -880468110;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  X54ZuB(unsigned short  M9m940j9G7,unsigned long long  UN5dE_vvMH,int  i7IMw_E71p,unsigned long long  vp476k)  {
   return  606823984;
 }

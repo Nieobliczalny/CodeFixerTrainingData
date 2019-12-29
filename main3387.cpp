@@ -18,6 +18,7 @@ unsigned short int UKVyz0_();
 
 char N15dB(long long ut0yH8);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	float	rrYlrqeh;
@@ -600,6 +601,7 @@ std::cout << "HfvxXE4" << UKVyz0_() << std::endl;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long nROkWDb4(short PotaaiKx,short int mDalGxC4,short I_f0_XDR6,short int fujV2A9Vut,int NdcGUV)
 {
  return 176819738;
@@ -610,6 +612,7 @@ unsigned short int UKVyz0_()
  return -1184358693;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char N15dB(long long ut0yH8) {
  return 0;
 }

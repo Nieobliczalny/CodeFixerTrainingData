@@ -17,6 +17,7 @@ int	l_d8A(short	wkvF,short	MR6WmaB,unsigned long	ycGg0BC,short	T_4W6FPM);
 
 unsigned long  tKX3(unsigned short  dbQvWKcG9,unsigned char  XKI_GlUG,short int  wg7emj,unsigned char  HJmWTT3,int  j_7Hk6E);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	long	sX8eAn5HD,	XSbp7SbT,	sgDo,	h2BSs5ut,	ohJ_W3M;
@@ -534,6 +535,7 @@ std::cout << "C32r2yb6" << "i_SPU" << l_d8A(V9fzi_vY, -1390055715, -1685507936, 
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long S0b_wkVI(short int E_f8C6,unsigned short WC3b,short lddnMM6H,unsigned long long zc_3ZyX_,unsigned long long DE9o6y) {
  return -1433057567;
 }

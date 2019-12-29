@@ -316,6 +316,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    f7Ba4N(long long    iwqBZweQz,short int    QLwiQ0Hkv,long long    CwL0J7mOY_,unsigned int    HqZ6,long long    TxJD)
 {
     return    0;

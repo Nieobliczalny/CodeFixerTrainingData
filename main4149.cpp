@@ -218,6 +218,7 @@ while (i < 10);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int Fk8DePzV(short FpJ4u__dJu,unsigned char v2b7B2rB,long long I8LEq7)
 {
  return 1319433674;

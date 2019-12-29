@@ -246,6 +246,7 @@ V0Vu /= 489444222;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	kmV00TC(long long	ECGUJf3y3k,int	G6_c)
 {
 	return	0;

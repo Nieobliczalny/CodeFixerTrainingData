@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    EmPNG0At(unsigned long long    G7oGAcUXw,unsigned int    ZtkA3nDL60,short int    FA4Dq5kk9)
 {
     return    0;

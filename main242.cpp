@@ -12,6 +12,7 @@ char    XU83eNo92()    {
     return    1912711055;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int mRv8VYa(unsigned long cE2jhWl9)
 {
  return 0;

@@ -13,6 +13,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  GRIs77CA_(unsigned int  ouJO3amFC,unsigned char  FRG89,unsigned int  bo1a,char  IgVpMNQy,short  zxTN8739xd)  {
   return  265982705;
 }

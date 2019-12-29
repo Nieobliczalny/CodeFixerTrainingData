@@ -647,6 +647,7 @@ cout << E0hMl_C << OV7O08J55(-410726702, -1109236253) << WIr7r(1993181944, 20224
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  DM_8GHAhQi(unsigned long  M4300)  {
   return  -674059185;
 }
@@ -661,6 +662,7 @@ unsigned short    w5Vg(short int    hr_4,int    z1BvY_2iC,unsigned long long    
     return    -2010020070;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  WIr7r(unsigned short  RN3Sq3O13,unsigned short int  Q0S_,unsigned short  vA_cpX5kH7,int  G8ox,unsigned short  xheY)
 {
   return  -532171342;

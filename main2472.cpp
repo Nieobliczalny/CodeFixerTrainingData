@@ -140,6 +140,7 @@ vIbBjwg = Btd3l91oS(a2yH_SQyy2, VDbV0R) / qmx6_u1x_;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	g6d_40iJ5(unsigned short int	EpG2o,unsigned long	o_3J93F,short	ti16rM1_,short int	Y_GG4)
 {
 	return	1280356009;
@@ -150,6 +151,7 @@ unsigned long	Btd3l91oS(int	jQwlRehU_d,char	Q_f4)
 	return	-686602717;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	L1IC649txI(unsigned char	jsRk)	{
 	return	0;
 }

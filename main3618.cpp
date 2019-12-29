@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int I7J4lCp9T(unsigned char n13EA28,unsigned int AKVp,unsigned long V2ABIa)
 {
  return 0;

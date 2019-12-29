@@ -818,6 +818,7 @@ qB8sU |= 165861263;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int cACjo4A(long long F801xYvGS4,short aXWYdO,short int n3dQF0fE5J,unsigned char z0yn51IY)
 {
  return 0;

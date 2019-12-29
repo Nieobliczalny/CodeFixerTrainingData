@@ -178,6 +178,7 @@ H8bo = (unsigned short int)(nLY5vz_Q1);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short i3U9_70n(unsigned short int a_55,unsigned int fPq171,short int i9RaT65Tuz,unsigned long long LG1t)
 {
  return 1352886956;

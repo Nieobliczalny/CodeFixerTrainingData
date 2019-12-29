@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  LUrwG(unsigned short int  Az20PG,unsigned short int  QFNC9T3_8l,short int  L8jA,unsigned char  D07_Tc)  {
   return  1044305347;
 }

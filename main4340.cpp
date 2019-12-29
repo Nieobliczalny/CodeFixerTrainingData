@@ -25,6 +25,7 @@ short	HR4D91j()	{
 	return	-1876473012;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  L3gl(char  XR819Pw,unsigned int  m0W93,unsigned char  SSeIwlo8f,int  WNMZl00i)  {
   return  0;
 }

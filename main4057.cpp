@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long wGAD43eCO(unsigned long MP9KA84,unsigned short U4M5r,long long iuE_58TpG,char VT2x6A) {
  return 0;
 }

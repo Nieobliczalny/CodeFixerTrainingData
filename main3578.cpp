@@ -13,6 +13,7 @@ short zsxne()
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char G6AUfxlB70(long f40OC0V,short int bOhNi,unsigned long Fo3JT_Yd_B,unsigned long l9hBr) {
  return -1911956356;
 }

@@ -12,6 +12,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  jFyy1tF(int  WjbF1mtNwO,unsigned char  bo94upAl4,unsigned short  XrGAq)  {
   return  878585408;
 }
@@ -25,6 +26,7 @@ long long HBuFkrQ_(unsigned char inkHmWlOV,short CEc1bP,unsigned long T8YG2_3W_X
  return 577634663;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   unsigned long  k1eN_,  qFwVy37sv,  HTlgO,  EFdXA,  Ie8y19x,  f0vziB72C9,  f19ewy0,  ScIUn39y9,  UG8E,  ftOmfc7U,  mp9N,  vt2o1wm6,  dxzd1,  QGX6U22Uu,  CDO7oJRw,  zc6_74,  C33_c,  uAgzs,  COI65,  Lxc0;

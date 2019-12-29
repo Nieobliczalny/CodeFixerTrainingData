@@ -16,6 +16,7 @@ short	y4KQe(unsigned int	BymEgB8JUx);
 
 unsigned long long	cjqvj7(unsigned long	A17gm1l8,long long	z7w7D61no3);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  long T730dQK, tkkP4_nU, gG9755uv, Vv077;
@@ -384,6 +385,7 @@ Ozs2 = -1182060379 / T730dQK;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	y4KQe(unsigned int	BymEgB8JUx)
 {
 	return	314057672;

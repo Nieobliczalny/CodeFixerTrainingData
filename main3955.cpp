@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  Cu_NKa5(unsigned short  KSi377lNN)
 {
   return  -1576094394;

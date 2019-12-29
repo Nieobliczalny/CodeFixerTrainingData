@@ -79,6 +79,7 @@ std::cout << -1103155242 / j4u0 << std::endl;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	T6lPCaEEjV(short	u_dRV7ZU5d,char	qXOQ03uG,long	AcH3,unsigned char	ydSuI4)	{
 	return	-86047486;
 }

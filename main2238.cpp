@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    Bbucm9(int    IO6ZluiZz,short    rdGO4uLk0Q)
 {
     return    1002971834;

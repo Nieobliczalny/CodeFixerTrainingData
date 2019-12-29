@@ -17,6 +17,7 @@ unsigned short int t32zZ(long long W9xLRj,unsigned int SsWUur5H,short xbE8_);
 
 unsigned long long  HHYaHS(char  i0b00,long  kvkom0v,long  ThiBxT,unsigned long  wa93H);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     unsigned short int    G8AM8zzwmK    =    0;
   unsigned short int  agldl_  =  -192700481;
@@ -378,6 +379,7 @@ Rmy_y3az = t32zZ(Rmy_y3az, 280415311, 2110334878);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  MQ_cmh(unsigned short  O80RCo4T8,long long  z3lV)  {
   return  -573599223;
 }
@@ -392,6 +394,7 @@ unsigned short int t32zZ(long long W9xLRj,unsigned int SsWUur5H,short xbE8_)
  return -30342424;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  HHYaHS(char  i0b00,long  kvkom0v,long  ThiBxT,unsigned long  wa93H)
 {
   return  0;

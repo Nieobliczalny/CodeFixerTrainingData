@@ -14,6 +14,7 @@ short int NnL68Q();
 
 unsigned short int x_XQx2();
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   short  ZcZf  =  0;
@@ -613,6 +614,7 @@ LVN8hniu6 |= 1386083064;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short vuIUVG(unsigned char Grd0_,short int cD9RB,unsigned long long l9Iy52,short int s4So5FVm6)
 {
  return -1456600313;

@@ -219,6 +219,7 @@ while (i < 10);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int UM67Aap(char fy3vj,long long d42ke7V,char b1y3g2,unsigned int BRJ94) {
  return -359653963;
 }

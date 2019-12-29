@@ -796,6 +796,7 @@ long    VtQ9sh()    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char z7cu33s2V(char q55OHO9) {
  return -1550528893;
 }

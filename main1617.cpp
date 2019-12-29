@@ -788,6 +788,7 @@ XbYgi5 >>= 1553728016;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    R6H8DqI9(unsigned char    nw1iq_8W8,unsigned long    y4tE,unsigned short int    E5jy2V80vw,unsigned long    Mk0dQ3kWl)
 {
     return    0;

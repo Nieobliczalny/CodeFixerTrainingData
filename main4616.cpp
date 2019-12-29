@@ -525,6 +525,7 @@ e61jjZOwdL = (int)abs(ZI2aGhaI76);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    S7Y5a__(unsigned short    Dw30EShq8,unsigned long    wg4s2d3oA_,unsigned long long    uZTj7,unsigned short int    m4B4GPo4qz,short    U9tsf)    {
     return    0;
 }

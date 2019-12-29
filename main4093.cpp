@@ -12,6 +12,7 @@ long    BM5xwlC4O()
     return    17569516;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long s2jGpL(char Wh1pq45K46,unsigned short int NY_E0Pa2,unsigned long ll1Ugl_S0)
 {
  return 0;

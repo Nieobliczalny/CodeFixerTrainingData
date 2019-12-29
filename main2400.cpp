@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long y0j707p(unsigned char Ciu_A5)
 {
  return 0;

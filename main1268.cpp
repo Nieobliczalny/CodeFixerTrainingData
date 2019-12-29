@@ -10,6 +10,7 @@
 #define UFXpA (-1269208134)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	RCnXoK88(short	hT_rR4oQIw)	{
 	return	-2039131567;
 }
@@ -23,6 +24,7 @@ char B1Htcp(long HfJU,int P6iG,short int u60XpqE,unsigned short tkao79l4_,int G9
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  Y_6j38A3(unsigned short int  A_GOtH_b,unsigned int  tXl5lO0HK7)  {
   return  1096634181;
 }

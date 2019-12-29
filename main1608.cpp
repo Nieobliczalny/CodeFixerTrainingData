@@ -12,6 +12,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    x0ILqRJ53(unsigned long    a0AvCZ,short    sthy7hcF,unsigned short    X3Oeb_z,short int    RSi1g8F6)    {
     return    0;
 }

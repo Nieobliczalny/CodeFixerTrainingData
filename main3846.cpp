@@ -399,6 +399,7 @@ pGNBf82f = E3oFQr7A(152190751, Ls8gm, z_oQc6f) / E3oFQr7A(pGNBf82f, Ls8gm, 28209
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	E3oFQr7A(unsigned int	lIqc29If8,short	Vul6ZYmWV6,unsigned short	p6W50uL)
 {
 	return	0;

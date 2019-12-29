@@ -160,6 +160,7 @@ unsigned char  efc_BL12()
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	Se29d5(short int	rca35H8)	{
 	return	-221796779;
 }

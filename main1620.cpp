@@ -10,6 +10,7 @@
 #define	c5_wW6C_Y0	(0)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  kak1nylal3(unsigned int  ij_3,short  ZVbm56,unsigned short  sK32wbeJV2,unsigned short int  vsb3d1)  {
   return  1923438706;
 }

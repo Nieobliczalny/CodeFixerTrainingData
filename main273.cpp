@@ -10,6 +10,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	GVIw_6(unsigned long long	j6AzXh,short int	kw0oP,unsigned long	JI34mk3M38)	{
 	return	0;
 }

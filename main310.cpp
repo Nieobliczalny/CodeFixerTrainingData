@@ -283,6 +283,7 @@ e8H4b = Nk6Q8Ve3n8();
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  JeuTDo(int  Q076c2PzB,unsigned char  fZ6QDtkeu,short int  e4ijtft)
 {
   return  808027946;
@@ -293,6 +294,7 @@ unsigned long Nk6Q8Ve3n8()
  return -1814598803;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long H6mHx0g5(short qh9q,char LZqZJ74_)
 {
  return 0;

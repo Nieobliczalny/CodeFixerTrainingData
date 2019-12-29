@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	O5WHGI9_S(short	oQBiNP9K)	{
 	return	2112880032;
 }

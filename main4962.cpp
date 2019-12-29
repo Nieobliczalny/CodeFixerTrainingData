@@ -12,6 +12,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	NB8dp(unsigned int	d4NA_,unsigned int	UWw1nY,short int	hV27n19uv)	{
 	return	0;
 }

@@ -18,6 +18,7 @@ unsigned short  LD2S65R_A6()
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    goq_4x(long long    zFM5,unsigned short    usO5AF,unsigned long    rV0s971e,int    B9hioM1kN7,unsigned char    UYT86a)    {
     return    1634890557;
 }

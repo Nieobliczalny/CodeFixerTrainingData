@@ -513,6 +513,7 @@ OmcBQ5_ = (int)abs(vEdI);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  c_07(long long  GT90l,unsigned int  w7PT7RE,unsigned char  YNqLP,unsigned int  XpnB,char  g1lS00)
 {
   return  1254330778;
@@ -523,6 +524,7 @@ long  sd78_k(long long  v0rmKm8,unsigned short int  WyqS,unsigned short int  TS2
   return  685667448;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    N4oA(short int    UszR5Lp)
 {
     return    302931785;

@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	n_5pJ(short	ved522E)
 {
 	return	-810163248;

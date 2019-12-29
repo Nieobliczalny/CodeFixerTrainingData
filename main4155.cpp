@@ -364,6 +364,7 @@ unsigned short RG6_9HP2()
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short  wHVZ58K(int  x9BE)  {
   return  -247223943;
 }

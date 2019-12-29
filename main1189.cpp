@@ -12,6 +12,7 @@
 
 long    zZ0s2zI();
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     double    JqB13133_;

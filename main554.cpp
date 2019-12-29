@@ -12,6 +12,7 @@ unsigned int VghWb()
  return 1307678667;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  fe1Zm05(char  WwP__bjW,long long  Uc33v3,unsigned char  E71v,unsigned int  GEH9LS)  {
   return  0;
 }

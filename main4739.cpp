@@ -10,6 +10,7 @@
 #define	Rmcy_T	(-1518309627)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	vs69yUR(long	c4qv1d,unsigned char	J9_pkA5A,unsigned long	Ji_s63hq)
 {
 	return	-1452547342;
@@ -23,6 +24,7 @@ int    u3luQM2(char    PBrziZvAPT,unsigned short    Qdhy_LD)    {
     return    1106243658;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	Y_C04_(unsigned long	nSNE_89C8_,unsigned int	SV8ZPVoZ,char	ipL6y7vC,int	X9mcT,unsigned long	u47u)	{
 	return	0;
 }

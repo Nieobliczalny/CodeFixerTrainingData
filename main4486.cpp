@@ -8,6 +8,7 @@
 #define Q6CG5 (0)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	rhs2W5WBT(unsigned int	awQdG)
 {
 	return	-1749345926;
@@ -21,6 +22,7 @@ short  lp_W9u84dT(long long  V0pa)  {
   return  1779021271;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   long long  jN6RTuwr3  =  440059832;

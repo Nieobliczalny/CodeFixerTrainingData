@@ -11,6 +11,7 @@
 #define Di_HhuA5_ (0)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    PXSuP6(unsigned long    rp68zX,long long    VCjIywv,unsigned int    wHux28lQ,short int    mH_Oc)
 {
     return    708263311;

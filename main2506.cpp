@@ -8,6 +8,7 @@
 #define    y57Hi7    (0)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    Pn3uWCgU8q(long long    I3ObIu2)    {
     return    -828332382;
 }

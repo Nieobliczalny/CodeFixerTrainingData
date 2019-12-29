@@ -18,6 +18,7 @@ unsigned short  iibg3_75(short  tuiLqaIf3,unsigned char  VNk51YH,short  d_t6iN0v
 
 unsigned long	D771fKw(unsigned int	UzA603);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	long double	ct8_zVj;
 	ct8_zVj	=	4023466;
@@ -853,6 +854,7 @@ grW8b = D771fKw(grW8b);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int EAjGI47(short VurhpHQQ7X,unsigned int BR0PlOXv,unsigned long long FX_KZ3d,unsigned char Ms9H) {
  return 0;
 }

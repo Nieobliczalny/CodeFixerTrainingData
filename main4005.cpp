@@ -401,6 +401,7 @@ f_5HDXq7 = gNS59(f_5HDXq7);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    iwQr16j(unsigned short int    bgnP1gh30V,unsigned short    lX1h0,unsigned char    H_64,long long    Bv0qdk,unsigned char    O13M__q)
 {
     return    0;
@@ -411,6 +412,7 @@ short  G2wjFL88(short  t056N,unsigned long  Ep_09dy)
   return  888611554;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  x53wULsu(unsigned long  KVs3gbB,char  uzS_,long  L937HpH,long long  J0_IBqH,int  MX33)
 {
   return  1451184639;

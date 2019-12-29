@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    Ow_DL80jv(unsigned char    lyZ2l5B4yW,unsigned short int    pmlU,short int    HLrlE25caE,char    ga7GLqR6)
 {
     return    0;

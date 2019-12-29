@@ -11,6 +11,7 @@
 
 unsigned long long	zz444iM3();
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  unsigned long LYz8 = -1771442458;
 	unsigned short	TjN75Nv2k	=	-1030079886;

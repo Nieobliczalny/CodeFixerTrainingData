@@ -135,6 +135,7 @@ Im32B = (int)floor(kZwKz_jgN);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  mOKSS(short int  aOh3R4,unsigned int  x2F33)  {
   return  -375855804;
 }
@@ -148,6 +149,7 @@ unsigned long  Gr43JeX(unsigned short int  Iox9mx50,unsigned int  p9sT2)
   return  1341941779;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	GV9T29cj(int	XFL5os,unsigned long	c_tCJ3TCb,unsigned long	Ar6eVeRj3h,unsigned long long	Ecei1)
 {
 	return	-977129086;

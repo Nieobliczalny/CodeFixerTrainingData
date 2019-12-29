@@ -16,6 +16,7 @@ long	rj6cdk()	{
 	return	1150469164;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  ROBheRuYF(long  MZTYd,unsigned short int  jk4U9Qe,int  dzwy8y,int  ns7p)  {
   return  -991400683;
 }

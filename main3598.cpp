@@ -14,6 +14,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  e_5JIT3(unsigned short int  Ge67lo3Du)
 {
   return  1234204521;
@@ -24,6 +25,7 @@ unsigned char	r3MMYAdFkq()
 	return	542218907;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	z0781C25T1(long	Ph2kt)	{
 	return	0;
 }

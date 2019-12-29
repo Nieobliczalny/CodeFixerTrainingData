@@ -20,6 +20,7 @@ int  gDGQJ(unsigned long long  Rf_E,unsigned short int  sHBiHCad,unsigned short 
 
 unsigned long long	qoum2B(short	At4jYpOkln,unsigned long	kpus9hFj,int	xv2n_47_x);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	unsigned short int	vlfDmQ3,	tn91_5WR;
 		vlfDmQ3	=	tn91_5WR	=	0;
@@ -530,6 +531,7 @@ T8196xO3o = ZueIU(1385753231, -1982505314, G3kg0x, X2Ts7c3b);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long OrO19Ycu(unsigned short pIe7P_s5P,long D19CS98z) {
  return -419258019;
 }
@@ -544,6 +546,7 @@ int  gDGQJ(unsigned long long  Rf_E,unsigned short int  sHBiHCad,unsigned short 
   return  35231340;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	qoum2B(short	At4jYpOkln,unsigned long	kpus9hFj,int	xv2n_47_x)
 {
 	return	0;

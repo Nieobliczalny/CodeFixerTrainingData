@@ -389,6 +389,7 @@ roLlVjK = kg57059C9(-1024189809);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	eYkB(unsigned char	rMDXb,unsigned long long	M76rM,short	e94dsQGa,int	ZX8_c_)
 {
 	return	-1958534199;
@@ -404,6 +405,7 @@ unsigned long    coe829m()
     return    -1906317165;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  Dx6882BT_(int  bnKXA,unsigned short int  Aj2Z4B8_,long long  NJ_oUK65e)  {
   return  1982458737;
 }

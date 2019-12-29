@@ -456,6 +456,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	Lnnclk9(unsigned short int	EC2Dh495cL,long long	O14ML9U,unsigned char	Ax9_f_,long long	YRmh5R4Gln,unsigned char	Bwl6w7j6)	{
 	return	0;
 }

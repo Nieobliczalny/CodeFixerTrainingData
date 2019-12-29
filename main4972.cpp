@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	d_NXTP_(unsigned short	cr4DK8fb7O,long long	Q98ZaIsK6B)	{
 	return	2017564609;
 }

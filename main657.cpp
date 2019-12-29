@@ -9,6 +9,7 @@
 #define  ew4_  (-1551578163)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char bt_L4N9pZ1(long nx93irTW_K,unsigned int V_1g,short U16Fr3,short int gGr038tJ)
 {
  return 1208287469;
@@ -19,6 +20,7 @@ unsigned char  sm32X5zJ_L(int  C32SW7cQL9,unsigned long long  G2s2cY2hr,short  L
   return  1011997888;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    KRmMjD77(short    GSn74b4N84,unsigned short int    VjRf5g_)
 {
     return    0;
@@ -29,6 +31,7 @@ unsigned long long D3sJv3j(unsigned long EI6jYT9u_o)
  return 1216278457;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    vlW55rJw(int    b048_zUh0v,short    d_TMmTSF0y,char    ZYZi1r4)
 {
     return    -1526853974;

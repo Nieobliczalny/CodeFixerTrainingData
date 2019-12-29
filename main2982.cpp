@@ -16,6 +16,7 @@ char	I0pu(unsigned short int	GpLB,short int	OE_h9iI);
 
 unsigned long long  a179A_5_5(unsigned short  G__jlw29);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     long    qP4P7B28X    =    0,    jxw_jzN02    =    0,    M6_A_U    =    0;
@@ -249,6 +250,7 @@ while (k < 1);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	ar4P50Gs(long long	dpbGnauPH,unsigned char	UNhokId3W2)	{
 	return	-34114842;
 }
@@ -261,6 +263,7 @@ char	I0pu(unsigned short int	GpLB,short int	OE_h9iI)	{
 	return	2036443378;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  a179A_5_5(unsigned short  G__jlw29)  {
   return  -466619856;
 }

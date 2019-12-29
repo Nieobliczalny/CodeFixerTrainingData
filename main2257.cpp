@@ -368,6 +368,7 @@ p8DgEvfe = FUw1i4(-2100741618, SlHOfC11s, -2044944885);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  rEvEP0(short int  YB4_e,unsigned long  p5_AF,unsigned short  WH_Q,unsigned short  Dt91q3j)  {
   return  0;
 }

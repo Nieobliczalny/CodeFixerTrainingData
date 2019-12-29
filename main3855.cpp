@@ -214,6 +214,7 @@ DPz0n_9 = ZAd0z(-1961032017, 2079384876, -1108172104);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int I8GhgNmh(unsigned short M461em1R49,short gwCyiT5,unsigned short Yg4ofa31i) {
  return 969607822;
 }

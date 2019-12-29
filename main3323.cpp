@@ -11,6 +11,7 @@ unsigned short int    Ab8NND9(unsigned short    U7kdaFvb2,unsigned short int    
 
 unsigned short int  fzASA1(long  GSv9yO375,int  jq62Xt,unsigned char  viXji2,short int  QHVP41V,unsigned long  kH691SM35e);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     char    cb0LKhH    =    127731391;
  unsigned long d8bD_hGdSL = 1119772812;
@@ -172,6 +173,7 @@ std::cout << Z_C9 << "ErX_D" << jCXsZg0S << x_qWt << "ISllBAN6vq" << std::endl;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    Ab8NND9(unsigned short    U7kdaFvb2,unsigned short int    ys3mEqs,int    y6YM,unsigned long    J271q,unsigned long    Onx_M)
 {
     return    0;

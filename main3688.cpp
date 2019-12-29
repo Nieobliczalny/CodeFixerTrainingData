@@ -13,6 +13,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  ZZZng7_3(unsigned char  yyjXUp8,unsigned long  B34_635,unsigned long  GcofDsP,unsigned long  K829hrw4f,unsigned long long  X6Doq)  {
   return  0;
 }

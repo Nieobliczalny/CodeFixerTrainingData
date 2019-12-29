@@ -15,6 +15,7 @@ long long  rE7LR(unsigned char  q3mCVi5Os,unsigned short int  ixUCBRo);
 
 unsigned int TS41G(unsigned short ZMMt6H,unsigned short int R5JeC_74gy,char MsG1D_at);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     float    f814HuZe4    =    -1542286931;
@@ -402,6 +403,7 @@ pPVH0FBk = p9ErYN(1837680999, Kuq4Gk_Y1, Q1nuO5kl1);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    p9ErYN(long long    IMPGmV,long long    o466r__B,int    ySbLGV6QCP)    {
     return    0;
 }
@@ -415,6 +417,7 @@ long long  rE7LR(unsigned char  q3mCVi5Os,unsigned short int  ixUCBRo)  {
   return  -873216281;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int TS41G(unsigned short ZMMt6H,unsigned short int R5JeC_74gy,char MsG1D_at)
 {
  return 185301297;

@@ -471,6 +471,7 @@ R9qhghji = L_Z9R + 6832047;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long UfB7rd6(unsigned long i_FxJdJ3U,unsigned long long pXTPd48AW)
 {
  return 0;

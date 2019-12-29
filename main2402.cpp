@@ -11,6 +11,7 @@ unsigned int  RpSCRrvJMZ(short int  GDu3Ah,short  hot_5c);
 
 int  p6bp();
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	int	Xscs5;
@@ -341,6 +342,7 @@ while (k >= 0);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  RpSCRrvJMZ(short int  GDu3Ah,short  hot_5c)  {
   return  0;
 }

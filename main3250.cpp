@@ -12,6 +12,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  L6ft8(unsigned long long  L_6w4mZ)
 {
   return  -977604139;
@@ -22,6 +23,7 @@ unsigned long long    mOgERA()
     return    74429975;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    qA4Zw(unsigned short    ZrMQ_Qq)    {
     return    0;
 }

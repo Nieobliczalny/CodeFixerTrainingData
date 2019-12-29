@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  YHLIXn(unsigned short  HK24sj3Rf,long  Z5b7cQVwp5)
 {
   return  0;

@@ -12,6 +12,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  Xax_uP8EBY(int  gpuqv)
 {
   return  -187621885;

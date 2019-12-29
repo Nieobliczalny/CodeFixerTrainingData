@@ -19,6 +19,7 @@ int  Pj4PZ()  {
   return  -866215318;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    b_u1Kv(unsigned char    Vy757CBy)    {
     return    111048580;
 }

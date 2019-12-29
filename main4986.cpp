@@ -10,6 +10,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	Xyt81T45_5(long long	W1osm,char	PoeL78_v89,char	wbnYFC,unsigned short	D85f,short int	FY7e3fB)
 {
 	return	0;

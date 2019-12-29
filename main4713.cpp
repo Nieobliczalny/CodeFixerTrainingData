@@ -9,6 +9,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	Lz5__Aos5(unsigned long	HlS7zS3)	{
 	return	0;
 }

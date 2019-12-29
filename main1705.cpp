@@ -494,6 +494,7 @@ while (j < 1);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  x5scy9H(short  ifAT6KjW,int  GJ9oL,unsigned short  v1PkHh0d,unsigned short int  JR1aFb)
 {
   return  -732579323;

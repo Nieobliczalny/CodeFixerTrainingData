@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  MF1d(char  KF47k6Zc,unsigned short  oq7y_l8,unsigned int  cO7m,unsigned long long  SS03Q1DQbC,long  Pibzc1oOb)  {
   return  -1141630449;
 }

@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    vt9t78v_g(char    F4_JU,char    G8S1avKNMg)
 {
     return    0;

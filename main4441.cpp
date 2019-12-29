@@ -12,6 +12,7 @@
 #define	mKVXlt7_	(1820770494)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int xxBE_Rk_ep(unsigned short int Efc2j,char jcmuJ47,unsigned short int ddDEWkI,unsigned char Y4q322ES,unsigned int X_Own) {
  return 0;
 }

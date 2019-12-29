@@ -21,6 +21,7 @@ int	lE4t()	{
 	return	1690575453;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	CR1A(unsigned char	QZP0J,int	SK2ZiR5,unsigned long	Z7IYK1,unsigned char	o8_50al7M)	{
 	return	0;
 }

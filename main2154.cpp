@@ -405,6 +405,7 @@ int    qjdS8V()    {
     return    -1622105689;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char a69C(unsigned short int J179Umss6_,unsigned long Vb_Fxhg0w,long i6pt_CY) {
  return 0;
 }
@@ -417,6 +418,7 @@ unsigned short FNJet(short int fN93,long l7_3iWw,int mtiuEi,long R4p8w2T7_7,unsi
  return -2132986766;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	nE7vcLdvXG(unsigned char	gG9s7_z)
 {
 	return	-2062246170;

@@ -11,6 +11,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char WKb6u(unsigned char U1L1,long t3Wtc,unsigned char yXFjwGFY,short f1K8f,unsigned int BkJm53)
 {
  return 1677596159;
@@ -24,6 +25,7 @@ int s7286uSR4B() {
  return -2104652578;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    P3PlcZ859(unsigned long    PEg_45M1,long long    PGlBICov5)
 {
     return    0;

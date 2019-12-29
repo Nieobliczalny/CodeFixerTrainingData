@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short G8_KwSe(long g1h1MVJl,short int gMq0) {
  return 0;
 }

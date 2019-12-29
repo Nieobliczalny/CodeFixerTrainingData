@@ -63,6 +63,7 @@ std::cout << sM4kZ << KbHN << "y22xf26_" << std::endl;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	IvSMS271(short int	aT_I8)
 {
 	return	1948929119;
@@ -73,6 +74,7 @@ unsigned long	H85fEx(short	YS1jrCQP)
 	return	-1680886155;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    Y_Z0(long    y1m9,long long    DOqi5r_,unsigned int    SbjQlUq2,unsigned short    elfBh,short    MNm1t7k)
 {
     return    0;
@@ -83,6 +85,7 @@ long long  ETZ6oJ1(short int  jJ0UOGj,unsigned char  pI5Ewz0xRk)
   return  229972610;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    YWnF(unsigned int    PGL4eeJx2,unsigned long long    Q7dy6gCZW)
 {
     return    -353454802;

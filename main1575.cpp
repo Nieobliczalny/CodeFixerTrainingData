@@ -20,6 +20,7 @@ unsigned short j10xG(unsigned char bEJjEvR,char IpL38sa6Br,short pyN5N8Cggc,unsi
 
 short int	YxYM4J8(unsigned short	b8GJtCoH);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   unsigned long  ZOe_0cqb;
   ZOe_0cqb  =  0;
@@ -690,6 +691,7 @@ ol16Oc_T6E = (int)abs(M8RA3k2s);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    qu8bEq(unsigned short    VyLGKfm,unsigned short    HnQhSW,unsigned long    PAkaRqo,short    t72B)
 {
     return    -353054542;
@@ -700,6 +702,7 @@ unsigned int	b81leR__0A(long long	OdtT3,long long	JIK98ucX,unsigned long	d4b6h0b
 	return	-1776155753;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short j10xG(unsigned char bEJjEvR,char IpL38sa6Br,short pyN5N8Cggc,unsigned long long g4hAv1D35,unsigned char feaBY7VI0)
 {
  return 0;

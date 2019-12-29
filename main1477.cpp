@@ -19,6 +19,7 @@ using std::floor;
 
 short int    Ai9D3(long long    LmtLvlVKgS);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	long long	WD933ujN3;
 	WD933ujN3	=	123090448;
@@ -645,6 +646,7 @@ lGxaaZf7N = (int)ceil(uvkrEn);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    Ai9D3(long long    LmtLvlVKgS)    {
     return    0;
 }

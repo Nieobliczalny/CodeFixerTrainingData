@@ -377,6 +377,7 @@ unsigned long long	xb1G()
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char b_aXnmi2_(unsigned long long nDX4) {
  return -319370201;
 }

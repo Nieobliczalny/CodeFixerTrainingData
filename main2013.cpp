@@ -761,6 +761,7 @@ while (j >= 0);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    vzBr94(unsigned long long    D_k12ep2,unsigned short int    zl6W85a5D)
 {
     return    0;
@@ -779,6 +780,7 @@ unsigned long	epah()	{
 	return	820212646;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	DkCs6LK(short	gh4fpi)
 {
 	return	217162896;

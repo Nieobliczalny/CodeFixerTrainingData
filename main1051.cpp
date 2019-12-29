@@ -9,6 +9,7 @@
 
 int  L7M93Y2O(char  kw3Av_qaF,unsigned short  RUz_WGi5e,unsigned long long  ls_B,unsigned long  p9D4_Hh,unsigned short  e0oq6);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	double	q3OzeIX4wq;
@@ -284,6 +285,7 @@ vq3ZyTWwz4 = R3ypiUY / t10b7Ezp;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  L7M93Y2O(char  kw3Av_qaF,unsigned short  RUz_WGi5e,unsigned long long  ls_B,unsigned long  p9D4_Hh,unsigned short  e0oq6)
 {
   return  0;

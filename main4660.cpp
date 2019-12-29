@@ -19,6 +19,7 @@ unsigned long long Wtg44() {
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     double    q1eeND;
     q1eeND    =    -701989991;

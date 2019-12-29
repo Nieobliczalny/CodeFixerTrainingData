@@ -10,6 +10,7 @@ using namespace std;
 
 unsigned short  qo7Zl1ncL_(unsigned long  UqvA_Jvv);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	unsigned long long	XCYo,	HVt93B1NP;
 	XCYo	=	1643084757;
@@ -292,6 +293,7 @@ h_Epcfo = qo7Zl1ncL_(239599029);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  qo7Zl1ncL_(unsigned long  UqvA_Jvv)  {
   return  0;
 }

@@ -569,6 +569,7 @@ HBR4PgtvQw = TMP3Dz();
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	nvHyf1Kzd(unsigned short	THIIJo0Q,unsigned int	d2mPx)	{
 	return	-1111814363;
 }

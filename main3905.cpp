@@ -12,6 +12,7 @@ unsigned short  DeZY(long  dCaiJV58,unsigned long  P_b7a_1,char  gP1C,short  Mt4
 
 long long  sKlp_y();
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	short int	bgM0E	=	0,	Pntgi42wLg	=	0,	N719F	=	0,	LluG	=	0,	miYO5Vg2WE	=	0;
@@ -326,6 +327,7 @@ dhUjsa = sKlp_y() / LluG;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  DeZY(long  dCaiJV58,unsigned long  P_b7a_1,char  gP1C,short  Mt403)
 {
   return  -1498040221;

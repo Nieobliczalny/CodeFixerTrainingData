@@ -306,6 +306,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	gJL46jgFv(long long	CZA3,long	J8uzlqC4D,unsigned long	W2ccM1UXY,int	zNVMgNg)
 {
 	return	0;

@@ -16,6 +16,7 @@ unsigned short int nBU9dmNp(unsigned long long yDDVG6DA,unsigned int GrAL_3I_vP)
 
 char UD58_Wu02E(int x7c_Yd,unsigned char y2KGKPfL,unsigned int e5C51wDD,unsigned short Ls093KK8e,long long Z90z4lx90);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   long  v0EP  =  1335497259;
  long D84Hhq = 1626364934;
@@ -435,6 +436,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    H67RSyKB9C(long long    g3L4CcDm)    {
     return    -1205705100;
 }
@@ -449,6 +451,7 @@ unsigned short int nBU9dmNp(unsigned long long yDDVG6DA,unsigned int GrAL_3I_vP)
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char UD58_Wu02E(int x7c_Yd,unsigned char y2KGKPfL,unsigned int e5C51wDD,unsigned short Ls093KK8e,long long Z90z4lx90) {
  return -564210845;
 }

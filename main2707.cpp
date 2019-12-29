@@ -370,6 +370,7 @@ rT357s4 = X4i1d9r(rT357s4, KEWGIDS1_N, -470082879, c0bgbVq, 338820312);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    pyA6F(unsigned char    TZIu1rnC)
 {
     return    780080313;
@@ -384,6 +385,7 @@ int    v7ji2c2s(long    CUMYf7w,unsigned short    anz32Hh,char    Z9W8)
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  n86bs161(unsigned short  Itfg1,int  dS0CorFd0F,int  jpb4A8,unsigned long  jo7E)  {
   return  -201323599;
 }

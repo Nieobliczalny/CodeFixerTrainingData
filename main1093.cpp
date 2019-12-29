@@ -238,6 +238,7 @@ Ek9B268O = Ze0179L / 699884165;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  f8dK_Q_h0h(int  wSSCn10fw_)  {
   return  0;
 }
@@ -251,6 +252,7 @@ short d9XU2(unsigned long oDiahH8,char BPXXU__31,long long du_1,unsigned long ld
  return 631653885;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	DsF4JI9r5(int	TUF4H__dk3,long	iveNjq)
 {
 	return	-590445385;

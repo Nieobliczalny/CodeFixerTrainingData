@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	Iwgt172Vm0(unsigned char	Nt5to,unsigned short int	C6O_Sd0O9,long long	l0IStZ5__D)	{
 	return	2134744993;
 }
@@ -24,6 +25,7 @@ unsigned char rJ69J7O() {
  return -2026594889;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	unsigned long	SY_MoJK0	=	0,	oXxcw	=	0;

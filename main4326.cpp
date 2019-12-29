@@ -435,6 +435,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int P8trmPn4(unsigned short NBYEBu) {
  return 0;
 }

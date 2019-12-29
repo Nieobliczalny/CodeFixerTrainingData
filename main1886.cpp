@@ -145,6 +145,7 @@ unsigned short b44uF() {
  return -896297168;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	Tb2nK(unsigned long	we597,unsigned short	hHNRM,long long	O3BKN,int	xjm8a5,short	sFd_hRj)	{
 	return	0;
 }

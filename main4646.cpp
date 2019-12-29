@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	dyb7(int	O_TlBF3w,unsigned long	vzC99)	{
 	return	-677779470;
 }

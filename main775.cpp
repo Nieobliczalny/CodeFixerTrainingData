@@ -332,6 +332,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	d24_82NdaN(unsigned long	iuX5Ow1IK,unsigned long long	E_n1zT,unsigned short	B38HtjV3,long long	r9T6798vFx)
 {
 	return	0;

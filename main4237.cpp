@@ -16,6 +16,7 @@ unsigned long  Dw1I()  {
   return  -1603569854;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	Dx3L4(long	lkD0XD75pk)
 {
 	return	2136844412;
@@ -31,6 +32,7 @@ unsigned long long    YrOr311()
     return    1687372762;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     unsigned long    P7qd,    Ci7_b,    In7PHmE,    KZKNfOC,    e71YQ7_g60;
         P7qd    =    Ci7_b    =    In7PHmE    =    KZKNfOC    =    e71YQ7_g60    =    0;

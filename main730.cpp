@@ -15,6 +15,7 @@ short int TDuGToRg4B();
 
 int	IBw5ZiS(short int	dGcPl_y_0,char	ko4HQnalOx,unsigned long	RhTIRoN50R,unsigned char	GtFs_SO);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     long double    vI71H6;
     vI71H6    =    325271926;
@@ -293,6 +294,7 @@ N8kB_E = TDuGToRg4B();
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int z1Qhq37j(long q1Z3P2Nw,unsigned int z37t_6pW,unsigned int I2_1in,unsigned short int QecS4ihK,long q_JZ1)
 {
  return -1223371063;
@@ -303,6 +305,7 @@ short int TDuGToRg4B()
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	IBw5ZiS(short int	dGcPl_y_0,char	ko4HQnalOx,unsigned long	RhTIRoN50R,unsigned char	GtFs_SO)
 {
 	return	-1942113887;

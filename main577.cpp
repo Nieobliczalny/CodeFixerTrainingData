@@ -617,6 +617,7 @@ while (i >= 0);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	Y4WlhXfGJ(unsigned int	Cne9Ly3,unsigned short int	Rr3eny,int	B42Cav)	{
 	return	-1461103813;
 }

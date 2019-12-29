@@ -8,6 +8,7 @@
 #define OF9O07x (0)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	d07_4XoI(unsigned char	n7HsZ4XL6H,unsigned long long	VhVCK)	{
 	return	0;
 }

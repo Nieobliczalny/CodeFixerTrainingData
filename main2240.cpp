@@ -12,6 +12,7 @@ long long    EM9f1QIZe(char    P___1i18,char    pF22YU__,unsigned short    ckA_9
 
 short int	sMKhKSPjf(unsigned long	cc_2V6T2xj,long long	UIX_clNp,unsigned short int	jdc_5Zx,long long	boO4Y3);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     unsigned short    b0W1G2,    hHpYnx6J5T,    I8q5Rd,    a5Ubf;
@@ -483,6 +484,7 @@ FRPZK = sMKhKSPjf(1494963009, 814558370, MQ_6X54VQ, 1130978654);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    EM9f1QIZe(char    P___1i18,char    pF22YU__,unsigned short    ckA_9758,unsigned long    XX2H9969,char    E30I1oR)    {
     return    0;
 }

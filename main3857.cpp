@@ -10,6 +10,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  BURo95FK(long  jQ_8rI)  {
   return  0;
 }

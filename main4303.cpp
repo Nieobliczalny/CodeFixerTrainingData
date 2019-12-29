@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	N_73w5(short	UO1bCbL41P)
 {
 	return	-213029043;
@@ -22,6 +23,7 @@ short    RDRW(unsigned long long    CY_QCaxtb1,long    MkoX6PK4)
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  O4M4rE7OG4(int  ZI484kH4AT)
 {
   return  1776151500;

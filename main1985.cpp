@@ -18,6 +18,7 @@ unsigned int    xWo40W(unsigned char    Ga04FwJYb);
 
 unsigned char    N57190t1(unsigned char    v6r9_x,unsigned char    y8M_u8,unsigned long    o00Y33_3p);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     short int    do9vnN2y_,    Zai70h,    EwJKa_VH,    isGQ4;
@@ -307,6 +308,7 @@ NG0X9 += IimvW;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    xWo40W(unsigned char    Ga04FwJYb)    {
     return    915306634;
 }

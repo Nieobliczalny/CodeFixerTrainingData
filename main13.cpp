@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int f68GggIz(long uw49,short mcBokpl3,short AI5onHqlRk,unsigned int fmRyC62M,unsigned int HzDP)
 {
  return 0;

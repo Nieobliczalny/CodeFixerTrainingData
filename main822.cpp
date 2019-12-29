@@ -350,6 +350,7 @@ Ibx94Shv7 = OPK_1(nnl6);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int OPK_1(short swWtq6Q)
 {
  return 0;

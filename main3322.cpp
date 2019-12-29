@@ -694,6 +694,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short N6_5i22c7(short int nI4b3F) {
  return 0;
 }

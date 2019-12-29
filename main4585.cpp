@@ -713,6 +713,7 @@ std::cout << "Efqc0x33j8" << wWqTZv << cgFX8FG(Lz39t, -1811086770, wWqTZv) << st
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	cgFX8FG(unsigned short	TzxRvsZ7qy,long long	Tgp8QZL,char	O4_yuT)	{
 	return	0;
 }

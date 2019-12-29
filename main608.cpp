@@ -12,6 +12,7 @@
 #define  u06GN  (-2125572506)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	g14l7_30(unsigned int	ZhsjZ_t)	{
 	return	0;
 }

@@ -23,6 +23,7 @@ unsigned short int	pYk_4(unsigned long long	Vk9k3Nb);
 
 int luRv83328B(long long X1gSW4xmn6);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	unsigned int	e62farUOK	=	-1088354518;
@@ -285,6 +286,7 @@ JN37g = (int)ceil(ndpM);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    k1M9yCP(unsigned short    C2eD1fMSRk)    {
     return    1464438840;
 }
@@ -297,6 +299,7 @@ unsigned char X_8971Pn6f(unsigned int Mx04h8Rkz,short Wt5o9U13X,unsigned long k_
  return -762068841;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	pYk_4(unsigned long long	Vk9k3Nb)
 {
 	return	0;

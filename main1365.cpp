@@ -409,6 +409,7 @@ GF08lX = fz_Q9(1181722788);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  DN7Ea(short  M7fg04,unsigned short int  wrJ1dKiw9x,unsigned int  gdfaLS5ibh)  {
   return  1020358502;
 }
@@ -421,6 +422,7 @@ unsigned char  zB0f()  {
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short  Nbm2P(unsigned long long  qysi7d0X58,unsigned long  nh0D)  {
   return  358530425;
 }

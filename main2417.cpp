@@ -13,6 +13,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  Q11ZT(char  Zg4a_3,short  rM3iFsm9)
 {
   return  698163540;
@@ -23,6 +24,7 @@ unsigned int XEr__jv(short kPcKG)
  return 686632595;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	rNFLwt5M1(short int	X2L8OQ,unsigned long long	ztt7OZz,unsigned int	EqJi4q31M,char	sK6LY)	{
 	return	747138574;
 }

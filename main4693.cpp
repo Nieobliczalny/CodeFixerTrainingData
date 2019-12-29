@@ -956,6 +956,7 @@ YH5YRaLa = (long long)(B4F_a + (-246774372));
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  jyZhUbcD9(short int  jwI295hUA)
 {
   return  -1027623893;
@@ -966,6 +967,7 @@ long QyBf9dudJF()
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  K3bqTMCU7(long  hh_wiir5)  {
   return  236152839;
 }

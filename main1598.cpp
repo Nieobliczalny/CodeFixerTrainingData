@@ -326,6 +326,7 @@ OIa25_ = (on977jB > 1724063453) ? Tu8YubX_ : J_D3_R4;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	C9dr(unsigned char	C42rkp,int	GSoh5)
 {
 	return	-1099156230;

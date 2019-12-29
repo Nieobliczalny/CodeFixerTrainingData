@@ -19,6 +19,7 @@ long long  GVcKAY(int  i8KA5z0,int  X148,unsigned long  QsIz2eKmN7,char  WAgl1_x
 
 char    PHcJ1(short    Nz3L,unsigned long long    levDLuP,char    n96DJ5Op,unsigned short int    tMgvJ,unsigned short int    nyYkk);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	int	JBRB8nV5n,	k_4c6S;
 	JBRB8nV5n	=	0;
@@ -236,6 +237,7 @@ K0Mb6cPB = (int)abs(Fdco1_zWN5);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  Ij9o8(unsigned char  TwOkG1Pf8,unsigned long long  QhgyXhnLZ)
 {
   return  731675829;
@@ -246,6 +248,7 @@ unsigned long long i75dH(long lre9kj,unsigned short int Bf0u4K)
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	o_6w0Eti(unsigned char	DMzqIUv4rn)	{
 	return	-2093536335;
 }

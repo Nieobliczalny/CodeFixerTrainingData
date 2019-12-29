@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    Q3CtY(short    PRM0z_0,long long    G5C2s5)    {
     return    714454646;
 }
@@ -22,6 +23,7 @@ short	qM0_H(short int	ak30_tWKwW,unsigned long long	WnD6EW1,long	g_3K,unsigned s
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   unsigned long  VR9u  =  -1387090685;

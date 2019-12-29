@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long RDB3_nf(unsigned long long RMbn2nG,unsigned int GIX1tzS0,short l3cjS6LIlg)
 {
  return 269374990;
@@ -26,6 +27,7 @@ unsigned long KG6T()
  return 25707914;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     unsigned short    UX1v136,    eHb4B6n,    QV8bcf1;

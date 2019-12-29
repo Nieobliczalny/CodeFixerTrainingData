@@ -12,6 +12,7 @@ unsigned short  Z2_J4kM(short int  v7h7,int  Sb2FiB6__c,short int  zIRAM465E,lon
 
 unsigned short int  FR29oI(long long  dU995,short  t94Yrf);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     unsigned long long    n83vE;
     n83vE    =    -788681219;
@@ -669,6 +670,7 @@ D68hEg = Z2_J4kM(-766623471, Z405o3Szr9, 1636617943, cE849P3);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  Z2_J4kM(short int  v7h7,int  Sb2FiB6__c,short int  zIRAM465E,long  r3xlA)
 {
   return  0;

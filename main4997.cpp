@@ -14,6 +14,7 @@ long long    OdR_aI7wrd(unsigned short int    Hzr8,unsigned short int    yu8_,un
 
 unsigned long    VsDEkRWd(unsigned int    CkQLa8);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	unsigned long long	tcn9z;
 	tcn9z	=	-1585456140;
@@ -546,6 +547,7 @@ PFCF = Ct1yEW >> mdZY1x;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int Hzhixi3K(unsigned int Tc2blHDj4,unsigned long long rF42t4,short int hywWPun9,unsigned long long gF7w,unsigned int JJI34)
 {
  return 1045047063;

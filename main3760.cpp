@@ -773,6 +773,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char oGv9jK8(long long C35gn2C0h2,char BbuA9,char T3OpJXi8)
 {
  return 0;

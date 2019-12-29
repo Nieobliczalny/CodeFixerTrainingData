@@ -17,6 +17,7 @@ char L3kfzQr14(short mIS9e,unsigned long LmyQ,long long X3f4_eW7);
 
 long    Mg68_WQ(unsigned short    oQryIx);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  char uqNbep6_S = 0;
     short int    o7lXvm    =    267687991;
@@ -439,6 +440,7 @@ int    nis4n()    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char L3kfzQr14(short mIS9e,unsigned long LmyQ,long long X3f4_eW7)
 {
  return -1815393348;

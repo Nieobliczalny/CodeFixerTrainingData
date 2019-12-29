@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   unsigned short int  d697pL_YWY  =  -255598222;
   unsigned short int  aIuXU_4p  =  -1341816424;

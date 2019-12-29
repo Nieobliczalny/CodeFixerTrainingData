@@ -9,6 +9,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    ZnVV8ma(long long    e1_y3M6,long    S5zx_yd6V4)    {
     return    0;
 }

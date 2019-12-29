@@ -481,6 +481,7 @@ while (i < 8);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  tp5aEGy1V(long long  qaj776R,short int  HU1Q,int  Yj96rS335)  {
   return  -1314513138;
 }

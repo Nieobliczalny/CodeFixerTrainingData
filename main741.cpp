@@ -530,6 +530,7 @@ unsigned long long	bfskwo9()
 	return	-1359025703;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	GoZAZ1CP(short	tH8ckxX3F,unsigned long	s8ef7,long	XAJl3_,short int	nfn6qB_7g)	{
 	return	1008958923;
 }

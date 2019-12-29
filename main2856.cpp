@@ -15,6 +15,7 @@ unsigned long long  oUXd1C5b()
   return  870265669;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    hp3_UGjW9(unsigned long long    mYcGa_,unsigned char    SE65v3)
 {
     return    0;

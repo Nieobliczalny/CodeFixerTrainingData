@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long a1zS(unsigned long ssGp5S_)
 {
  return 0;

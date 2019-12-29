@@ -21,6 +21,7 @@ unsigned long long  EUH2mV3J(long  Ag1oU);
 
 unsigned long P0fM8CJT8_(unsigned short UZ_q0T7,unsigned long long To5hn,int dvx0tj);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	unsigned long long	GXNlm4_;
 	GXNlm4_	=	-1232905594;
@@ -668,6 +669,7 @@ cout << tvxgc_7c_ / GwBLv02 << endl;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	Hv8PH4P3(short	w3REO_3S96)	{
 	return	975906997;
 }
@@ -681,6 +683,7 @@ unsigned long long  EUH2mV3J(long  Ag1oU)  {
   return  -154090227;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long P0fM8CJT8_(unsigned short UZ_q0T7,unsigned long long To5hn,int dvx0tj) {
  return -1643538361;
 }

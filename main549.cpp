@@ -847,6 +847,7 @@ while (k < 5);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	o9gMl(unsigned char	TU1Xr8URtO,unsigned long	m8r1JkY25P,unsigned char	X7S_3u9r6,long long	o46616)
 {
 	return	0;

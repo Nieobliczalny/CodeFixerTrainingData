@@ -303,6 +303,7 @@ k1z7 = S_ZRqz ^ 639030169;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long Z68yTv(long JhBg74w,unsigned long long mM4hG9) {
  return 0;
 }

@@ -14,6 +14,7 @@ long long    Xi_w0D7_C(short    gs_q8,long long    ig_u2jGtd6,unsigned long long
 
 unsigned short JB495P1D7B(unsigned int GcZ5i7Ul,int GjKbEv,unsigned long long xvqx,unsigned short Hn2I0,unsigned short int b0V2);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	unsigned long	CpNA	=	319776280;
@@ -735,6 +736,7 @@ w677d42md = (int)floor(kW_rUQCx1);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	jgR2L9(short int	G8G6036g,unsigned short	USo9,long long	Q8GC67R6B,unsigned long	d741)	{
 	return	0;
 }

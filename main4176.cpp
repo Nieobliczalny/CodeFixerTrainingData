@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int T1w4Z(unsigned short rXm8c6y) {
  return 1343182821;
 }
@@ -20,6 +21,7 @@ int	zsal()	{
 	return	42882667;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    WiHz1pV4A(unsigned int    f300WB5K,short    Kch83W6G)    {
     return    0;
 }

@@ -10,6 +10,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  fuYG(long long  QKh4SBB1C,char  zq4Eq,unsigned long  nv78_Rzcwd)
 {
   return  2027600313;
@@ -20,6 +21,7 @@ unsigned short Zc4x(char o139Qem1,unsigned char G9SXL9_OL)
  return 994065969;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  NuNAxETRdf(unsigned long  iv_561,unsigned char  l6994Fya,unsigned long long  b3z2vRAk56)  {
   return  0;
 }

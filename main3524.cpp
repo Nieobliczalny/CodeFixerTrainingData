@@ -8,6 +8,7 @@
 #define    hI6KJin0Z    (0)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  FfG9(unsigned int  u7wyE7,unsigned long long  GYgUoy,unsigned short int  T7P5J_,short int  l0LcfI,short int  F_1qph)  {
   return  0;
 }

@@ -364,6 +364,7 @@ sc45 = (int)ceil(rEZaA);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	JPwjPykHm1(long long	Wtb_0,unsigned long	ySVByW9OoS,unsigned short int	b8vujB3c,unsigned short int	my2DF7f2,unsigned long	dSFxjB59a)
 {
 	return	0;

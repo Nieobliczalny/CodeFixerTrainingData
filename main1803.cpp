@@ -291,6 +291,7 @@ zlDTSJt = h5JJ >> q_l6iKASE9;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    hGJbVO6(unsigned int    wdl6,unsigned long    c6x_,int    YA3L)    {
     return    0;
 }

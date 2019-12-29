@@ -12,6 +12,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	nA73r(unsigned long	WdIt3,long	Cbx3_y,long long	X3COG_)
 {
 	return	620856451;
@@ -25,6 +26,7 @@ unsigned int    IsRo(unsigned short    xHO8Oibd,unsigned short    Ysg3rw)    {
     return    -1459934337;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	SWqmxB8Iv8(long	DbF4WFN,unsigned long long	sPPF2_sk,char	t00xQ4O4)
 {
 	return	1369334355;

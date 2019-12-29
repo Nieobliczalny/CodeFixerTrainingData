@@ -251,6 +251,7 @@ unsigned long long    IeZ1eAVH8P()    {
     return    -848806669;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	rAVJb090u(unsigned char	o07K)	{
 	return	0;
 }

@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    p9FjsBy(long long    JIC0,short int    OYtF)
 {
     return    -983200074;

@@ -698,6 +698,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    McGa(unsigned int    l0b8Vu)    {
     return    -420768202;
 }

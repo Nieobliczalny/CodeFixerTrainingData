@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    gx_B(int    lRV8MSf,unsigned char    ufjAw7P0P)
 {
     return    0;

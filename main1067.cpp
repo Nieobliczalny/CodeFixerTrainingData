@@ -227,6 +227,7 @@ Qt9_9 = (char)(XBA_6WS4 * Qt9_9);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  OD18Zm6(unsigned char  m_W8,unsigned short int  AFMF6,unsigned char  As2K,long long  K8d9__,short int  QrempxU)
 {
   return  0;
@@ -240,6 +241,7 @@ unsigned int	vou91N()	{
 	return	1180458329;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  VBWV_4w70(short  dgM1KgeLj)
 {
   return  1619161861;

@@ -11,6 +11,7 @@
 #define O63xjx (-1103245853)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  D2L82iNYo(char  aMn4HR,short int  SO835M,short int  oEqMr_wc)
 {
   return  0;
@@ -21,6 +22,7 @@ int  RuNKizK1(unsigned long  v7bM62)
   return  943373923;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	R_SXK0(unsigned long	jXRwDH9_j,unsigned char	ksKXEctFv,unsigned short	s1bR)	{
 	return	1641964765;
 }

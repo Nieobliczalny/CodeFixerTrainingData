@@ -13,6 +13,7 @@ long long    wh_aRL5S()
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	unsigned short int	H9aDjVqA29	=	0;

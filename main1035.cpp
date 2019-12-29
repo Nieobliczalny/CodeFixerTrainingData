@@ -369,6 +369,7 @@ while (i < 10);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	DnB465(short	LdV2tv,long long	sz85,short int	B_l300f_P,unsigned short	j5Ac,short	R_5R_)	{
 	return	2091704591;
 }
@@ -383,6 +384,7 @@ unsigned short  c3_c9(unsigned short int  j_M6qN8m,long long  chzZWo4,unsigned s
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	u5oInE(int	NrR5JdY1,char	pAVmk)
 {
 	return	-968103481;

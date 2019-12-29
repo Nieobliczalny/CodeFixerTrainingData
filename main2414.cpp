@@ -487,6 +487,7 @@ i--;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  h_25_j_Cx(int  tf9w_bk12,int  xU4Nc8olP2)
 {
   return  -696253705;

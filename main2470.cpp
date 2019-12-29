@@ -11,6 +11,7 @@ unsigned int	XjIk(long	jP4xVE,unsigned char	B0OG08F4,unsigned long long	Z_MR3U3,
 
 int  HTK_9b1();
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   unsigned short int  o0Ipg1h9,  aflos3,  n9e7,  JubVcf,  Z3hwg9X,  k6X3NLzz,  kNs_,  Y90Z67xS,  GGhL5C10Qg,  iWj0s8u,  lPOihRVEYp,  N3Okx,  lrVQ4S2Fms,  E__bJ70nnx,  N37P,  bL_CkT_G2,  oClE,  LiDflrSe1C,  N2F5RyL6Kp,  i_lI6MI,  Ebeb1a9,  r_3E58,  omj8a3RxV,  XHe_xW8,  w911lk_QK_,  q7IUT;
@@ -339,6 +340,7 @@ std::cout << 1939717936 / lV5ZIi << std::endl;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	XjIk(long	jP4xVE,unsigned char	B0OG08F4,unsigned long long	Z_MR3U3,short	wls_8lB4)
 {
 	return	363777248;

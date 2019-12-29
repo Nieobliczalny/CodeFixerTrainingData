@@ -9,6 +9,7 @@
 
 unsigned long  t__89D(unsigned long long  LJ0d4113);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	short	Oz8nJ5	=	0,	sXx29qG32	=	0,	LMjl	=	0;
     long double    uvRtWAXb    =    -832773690,    eI6Ln1I75G    =    -1474832738;
@@ -208,6 +209,7 @@ Oz8nJ5 = t__89D(Oz8nJ5);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  t__89D(unsigned long long  LJ0d4113)
 {
   return  0;

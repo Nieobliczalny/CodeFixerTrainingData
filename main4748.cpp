@@ -11,6 +11,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  float w49o7dMw = -413776663;
   long  f1d8MN22  =  741519675;

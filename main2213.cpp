@@ -770,6 +770,7 @@ xv_8_zEC = (int)ceil(n_DH3SK9J);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    Y2go(unsigned int    IX81UB89X,char    mk0x7lT,unsigned long long    V1d8,unsigned short int    aS1261oA)
 {
     return    0;

@@ -319,6 +319,7 @@ L7914E1Nh = Ti87(L7914E1Nh, -519547435, Tr_Uy);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    Ti87(unsigned short    EO57,short int    R_3i_FLn8,unsigned char    jt9q4)
 {
     return    -2145018551;
@@ -329,6 +330,7 @@ short int  qfkv(char  S9l4y11s)
   return  1376789626;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int scOPd(short eCy71RI64,unsigned int ONZX,char x7XKUK)
 {
  return 0;

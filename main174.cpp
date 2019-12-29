@@ -548,6 +548,7 @@ qk2B_wo = q1E2 | 1897716686;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  w32z0R4(short int  e6ip_V)
 {
   return  -161960199;
@@ -558,6 +559,7 @@ unsigned long long  yO6q(short int  Nb5W32RSL,int  e14K0Gi_k,unsigned short  shB
   return  1731446523;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long cLgq488(long long pR6m61T,short m7XFF,short DmmuX,unsigned int Pg8FK5B2_f) {
  return 0;
 }

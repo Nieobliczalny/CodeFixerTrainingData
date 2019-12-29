@@ -11,6 +11,7 @@ unsigned short int	P5Pb7Z(unsigned long long	W2Kt);
 
 short int ZNnavh0C2(unsigned int qnk2,long long DM4Hat,unsigned long long jij3Q);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   unsigned short int  UojvB7g,  R66ij,  t8p1H9_,  o47J;
   UojvB7g  =  0;
@@ -426,6 +427,7 @@ std::cout << "p1Ulk2p6f6" << ZNnavh0C2(Yx26, UojvB7g, R66ij) << o47J << skqjs8 <
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	P5Pb7Z(unsigned long long	W2Kt)
 {
 	return	0;

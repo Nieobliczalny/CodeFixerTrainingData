@@ -262,6 +262,7 @@ HPFjjnswU = (int)floor(ckDl3gS);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  cUtQJA(short int  Hk3ZI)
 {
   return  -1461089674;
@@ -272,6 +273,7 @@ short int  E3XV048ah5()
   return  884268254;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	r_5198W6cI(unsigned long long	mEK27x7Bto,unsigned short int	LBtgR_NY2)	{
 	return	1050292995;
 }

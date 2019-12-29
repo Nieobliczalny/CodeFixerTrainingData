@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	float	o9wtYA	=	848740524;
 	short	D_Wuh9G0sX	=	-1767088694;

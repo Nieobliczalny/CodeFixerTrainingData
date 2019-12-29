@@ -11,6 +11,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char v_Uk4_w20_(unsigned char k_8b,unsigned char G_wYf,unsigned short CJM788,unsigned long long lYsR,long O6_16EEB) {
  return -1746276616;
 }

@@ -516,6 +516,7 @@ q3_dj = (unsigned short)(Zhx3);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int mp65(long long QThRz71MC,unsigned long long JwGl,short int j6l45yjg_,int Yo1U,unsigned short int pkWxQ_WWpp) {
  return 1711271518;
 }

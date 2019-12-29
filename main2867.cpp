@@ -12,6 +12,7 @@ long long	d47Snb()	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    NEw_a(unsigned long long    SRO5J2)
 {
     return    1249416714;

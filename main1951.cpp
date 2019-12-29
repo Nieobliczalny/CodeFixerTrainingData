@@ -18,6 +18,7 @@ unsigned short	SsDVwG06Y(long long	NcLZe3d,long long	ap19G2,unsigned char	Cihhb)
 
 long long	cM0lAL(char	ZvO87VErzu);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     long    YMcpNFG6;
     YMcpNFG6    =    0;
@@ -335,6 +336,7 @@ yD_djzEe41 = SsDVwG06Y(-42097682, yD_djzEe41, 489930304) + xpEH;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	Cz2ww0nHd1(int	AR5pCi7GxP,unsigned long	lxDDq)
 {
 	return	-1156099537;

@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int pQi3NQ(unsigned short int x05z)
 {
  return 1721055217;
@@ -17,6 +18,7 @@ char  O_36(int  b045RCk,short int  dJ01Qa,unsigned long  VQt_r6AP,unsigned long 
   return  607212334;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int NwBm5KBy(unsigned char jIn9hb7a,unsigned int AT5F9) {
  return 0;
 }

@@ -11,6 +11,7 @@
 #define    UKb0r70    (0)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	HYf625ZTv(unsigned long	ot1r4ma2)
 {
 	return	-2080573946;
@@ -21,6 +22,7 @@ unsigned long long HSikBCe16(unsigned long X5Ixfoeg)
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int BSGh4tQ2(unsigned short int xDvBrW,unsigned int V8Sym7Kj)
 {
  return -1192855252;

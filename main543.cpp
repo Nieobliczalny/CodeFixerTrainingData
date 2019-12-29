@@ -324,6 +324,7 @@ r_I1Y94s6 ^= 826394896;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	d14sh(char	V5w0EeB9j,long long	RQKbSoj_5V,short int	QLcyD4,short	Q8Z5LaQz6)
 {
 	return	0;

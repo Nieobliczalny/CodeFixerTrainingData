@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	hGR4a9YC(char	R212p94,char	q6KU,unsigned long	fan1,char	Xm4WMfWI8J)
 {
 	return	481720437;
@@ -21,6 +22,7 @@ unsigned long long    chob()
     return    -824045509;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int FZ69a(unsigned long long XAQ18n,char Tr2YKxyxil,unsigned int el5Y01TH_4) {
  return 0;
 }

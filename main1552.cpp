@@ -362,6 +362,7 @@ Ck4385 = sX5vHZ(Ck4385);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long sX5vHZ(unsigned char cbna7Ac)
 {
  return 23585959;

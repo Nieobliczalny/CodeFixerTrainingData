@@ -17,6 +17,7 @@ unsigned short int    UvdlD()
     return    -13910989;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    smh9qnR5H(short    gy59_aWyak,char    ah6NY,unsigned int    E67G,unsigned char    gt1KT39,unsigned short    u7DHfH5q29)
 {
     return    1331021436;

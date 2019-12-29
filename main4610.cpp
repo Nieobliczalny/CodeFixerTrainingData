@@ -117,6 +117,7 @@ while (i < 9);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  Aj81XfoJ(unsigned int  VG658m5X,long  yf5y67wN)
 {
   return  0;

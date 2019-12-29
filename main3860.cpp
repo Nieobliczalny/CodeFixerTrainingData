@@ -10,6 +10,7 @@
 #define	Lei6	(-1967200548)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  f4g5w3MZ(unsigned int  RsNTV8o1x0,unsigned char  dFJQI,unsigned char  Bw8Kmi78,unsigned long  EmCev7)  {
   return  0;
 }
@@ -24,6 +25,7 @@ unsigned char  BU5U_()
   return  -1962526664;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  oCf_(short int  R8Tt2s85t,unsigned char  fT7Sq4xFlM,short int  M4_f,long  RMRNVOS3C,char  eMx0_M7_s)  {
   return  713977083;
 }

@@ -18,6 +18,7 @@ unsigned int    oadRR();
 
 unsigned long long    oEN9Fc(unsigned long long    fwKm,unsigned long    G150zFQsF,long long    XOmv,short    o6wl_nwH7R,unsigned long long    N4R05lB7);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   unsigned short int  UJe5  =  0;
 	short	EG_se	=	1209109048;
@@ -435,6 +436,7 @@ c20TXgb |= 788212001;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char Ple7cBP(char NwgroEWix1,long long jO5KR,unsigned int hUBs7jYQR,unsigned char MfGj_e3) {
  return 1572766820;
 }

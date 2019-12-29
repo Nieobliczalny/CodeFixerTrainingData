@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int Ys8_4q(short int gzfS,short ib7ve,short Ejsz)
 {
  return 0;

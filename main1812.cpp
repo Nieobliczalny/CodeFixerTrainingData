@@ -15,6 +15,7 @@ unsigned long long	u51QUsa();
 
 int    f0K9H(unsigned long long    G1nA2uv9,long    zS6cd,unsigned char    PG2GN1Q,short    a93y81s6EG);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     long    mOXy;
@@ -591,6 +592,7 @@ unsigned long long	u51QUsa()
 	return	-376844607;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    f0K9H(unsigned long long    G1nA2uv9,long    zS6cd,unsigned char    PG2GN1Q,short    a93y81s6EG)
 {
     return    0;

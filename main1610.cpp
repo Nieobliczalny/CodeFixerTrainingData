@@ -195,6 +195,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    Z7lcBxCY37(unsigned long long    s9AzTa,long long    R_6K)    {
     return    1377201683;
 }

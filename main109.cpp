@@ -9,6 +9,7 @@
 
 int	JRN3N3W2(short int	Ofl5);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   float  s2u2  =  -1679964704;
@@ -502,6 +503,7 @@ i--;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	JRN3N3W2(short int	Ofl5)
 {
 	return	0;

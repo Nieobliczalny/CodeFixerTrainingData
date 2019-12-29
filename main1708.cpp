@@ -11,6 +11,7 @@
 #define    g8H5    (-2100166)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	u88P(unsigned long long	F5QB_2Q78I,unsigned long	oUhi,unsigned short	yGRcOKE96k,unsigned short int	KqM3EL68,unsigned char	Z533_I_)
 {
 	return	0;

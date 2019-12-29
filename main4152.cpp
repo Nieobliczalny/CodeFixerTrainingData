@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	mniDkK1(unsigned short	myKp9NAv9,unsigned int	eHA13Gh,long long	X9SI,int	Si__s0a)
 {
 	return	253041405;

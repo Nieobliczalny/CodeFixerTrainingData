@@ -12,6 +12,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	kBP4_p7(short int	rb146YL7)	{
 	return	0;
 }

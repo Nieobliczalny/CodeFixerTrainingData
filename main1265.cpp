@@ -9,6 +9,7 @@
 #define	U3A13f9	(0)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  K81O(unsigned long  D8KJ_Ye)
 {
   return  0;
@@ -19,6 +20,7 @@ short int  ZT27Zg565L(unsigned char  P4QC,short int  l35M58crKd,long  qH4m0wTysi
   return  330478161;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    Z952N(unsigned long long    I90I24,char    JNhq)    {
     return    -1027319719;
 }

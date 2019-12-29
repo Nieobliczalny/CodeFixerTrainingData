@@ -16,6 +16,7 @@ unsigned short t5j_t(unsigned short vOjT,unsigned char T4i4m7,unsigned long rSem
 
 char HbUmn_9(unsigned int mn0ZkbD0,unsigned long long GFjD);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   short  vYadZlm7  =  -713146723;
@@ -379,6 +380,7 @@ while (i >= 0);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short t5j_t(unsigned short vOjT,unsigned char T4i4m7,unsigned long rSem,unsigned char MD60V3TX,unsigned char G69V0m6)
 {
  return 0;

@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  elS_(unsigned short  L00bs6,long long  Y_fRbMU,unsigned long long  aR4B5g,short int  P25LAB8l,unsigned short int  KEEUBR)  {
   return  0;
 }

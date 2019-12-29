@@ -371,6 +371,7 @@ std::cout << F2chyuYBMl << M0n337zS4 << std::endl;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char xH73_1uZQX(short tM4dO61Y94,unsigned short d_YX,unsigned long WgC5)
 {
  return 0;
@@ -381,6 +382,7 @@ unsigned char  C5ar88_(char  otvEpL2H)
   return  1045854717;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	FVlNG40E(unsigned long	i5_Pkv,unsigned long	EZ2P3A,unsigned short	uIT2,unsigned long	E4CD2r)	{
 	return	608985324;
 }

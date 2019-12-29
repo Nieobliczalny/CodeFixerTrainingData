@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  V0M98(unsigned long long  aaWc,short int  mKS_O0P)  {
   return  0;
 }

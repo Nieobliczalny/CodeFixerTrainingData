@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  JO_qU_kD(char  f3cA3,short int  b7fBo9O8,unsigned long long  GzVsT8RLF)  {
   return  0;
 }

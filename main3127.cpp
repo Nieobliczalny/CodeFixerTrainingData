@@ -14,6 +14,7 @@ using std::floor;
 
 unsigned short KxoQA14nQ();
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	unsigned int	ZMv7s;
 	ZMv7s	=	0;

@@ -778,6 +778,7 @@ bTGDYd = WV6Op1n8(bTGDYd, 830835542);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    jy4nh6G6b(unsigned long    SOyM_F,short int    x4FD7kUl7Q,unsigned short    ZX_TpU,unsigned char    AX32B_,int    kL04E9)
 {
     return    0;
@@ -788,6 +789,7 @@ long	He725YzN(char	zR4Q,unsigned short int	ywkY,unsigned char	tho5k8_z6g,unsigne
 	return	777202375;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    WV6Op1n8(unsigned short int    mAv07J,unsigned char    J9zdoMKsT)    {
     return    -1358664173;
 }

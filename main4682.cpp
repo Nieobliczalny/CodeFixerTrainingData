@@ -130,6 +130,7 @@ g5DTYST1B7 = SUQL7WU / IjpJ5;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    Tb6U88iT1(unsigned char    aZc5QqM4vp,unsigned long    g9B7s,unsigned short int    hizS1Bl,unsigned long    uFcG8qJ)
 {
     return    0;

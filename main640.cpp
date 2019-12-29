@@ -14,6 +14,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	NIt0B(long	Mmr7,unsigned long	kNYr,unsigned short	HH9kahz,unsigned short	ytbCxvDP,unsigned short	W_7L)	{
 	return	-505525602;
 }

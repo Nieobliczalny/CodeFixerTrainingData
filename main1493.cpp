@@ -484,6 +484,7 @@ cout << WO6_jw87z(ZegpuSCDKM, GC1E6, BMTna0, Vl11opbo, RBC2_x6) << endl;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	KqpGn5Ha(short	eQl5NlN4F,int	HqFHn,unsigned int	kXv5_,unsigned int	W9NeaV0qW4)
 {
 	return	1391466738;
@@ -494,6 +495,7 @@ unsigned short int WO6_jw87z(unsigned short F2jxR4xL,unsigned short int qXJc,uns
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	wXK4(short	YLjffDl1r4,int	l4Gj8,unsigned int	o_O9,long long	QATOX_Dqp,unsigned char	ZZ530Cx)
 {
 	return	-1364638348;
@@ -504,6 +506,7 @@ unsigned short int TSwQBG(long O_j3,short pkVc8UAtR)
  return 1805184092;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int D867(int yr49yg12wT,unsigned short Sq63vbE1) {
  return -342011714;
 }

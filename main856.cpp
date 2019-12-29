@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	jOu_(unsigned long long	W_k78p_pgP,int	McLQ,int	IE2YEMs)
 {
 	return	0;

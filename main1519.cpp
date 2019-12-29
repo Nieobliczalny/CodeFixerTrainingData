@@ -9,6 +9,7 @@
 #define  p679z0M  (0)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  d4cF(long  W9SxW_3t8,long  EFJklhrE)
 {
   return  925753708;
@@ -19,6 +20,7 @@ unsigned int	bpdx(int	vuy733U,short	E3qJis,char	V6tcog,unsigned short	vyMZt,unsi
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	nz266L8o(unsigned short	oXv0_,unsigned long long	Ed66,int	FMD50YE43,long	Qk43_)
 {
 	return	-1063851;
@@ -29,6 +31,7 @@ unsigned char nCHtKBgY8g()
  return -1944071982;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  Wy41U(unsigned int  uZckV8P,int  rI_e_1j,unsigned long long  Yz_PDW,unsigned int  A2NC2hsX0,unsigned long long  FWjUH3o6g_)
 {
   return  1376891191;

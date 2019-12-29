@@ -17,6 +17,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  n3708n6(unsigned short int  Pr6p,unsigned int  Cv3YSCI_jO,short  CEjq34_cWp,unsigned char  de03JC1,int  V07n4Ch__)  {
   return  1471601127;
 }

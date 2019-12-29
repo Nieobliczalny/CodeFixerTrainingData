@@ -16,6 +16,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	T9S3(unsigned int	QHKD,unsigned int	aLmEJFx01,unsigned short	FMcXK1yC)	{
 	return	0;
 }

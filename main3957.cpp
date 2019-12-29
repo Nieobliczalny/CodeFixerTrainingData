@@ -10,6 +10,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int U2SXe4(unsigned char KE_wBCem,unsigned long rqv4)
 {
  return 1005585835;

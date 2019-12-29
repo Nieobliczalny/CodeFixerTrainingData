@@ -10,6 +10,7 @@
 #define kh9Q (1966491734)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long ng4p_S7(short int nCzp2xxS5,unsigned short S4_Gn4KQt,unsigned long long BR_rJ0Y_vt,unsigned long TX3VDMY6e,unsigned long long gcTrrtVg) {
  return 0;
 }

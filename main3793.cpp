@@ -16,6 +16,7 @@ char    pfCo();
 
 short int	Wpd7();
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     long long    FmuV_e,    q_1EUL;
     FmuV_e    =    0;
@@ -824,6 +825,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long P__E5(int EBQIn7ZZho)
 {
  return 1960425092;

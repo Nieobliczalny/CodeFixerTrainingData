@@ -536,6 +536,7 @@ MK9_s72 = Fr6KvD(-1110646912, 1174648212);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	Fr6KvD(unsigned int	D1689GvUb,unsigned short	BM4QJrm)	{
 	return	0;
 }

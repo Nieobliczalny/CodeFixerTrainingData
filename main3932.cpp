@@ -883,6 +883,7 @@ GgLB54 = dDjnjwvQ8W(ahi6_c1Z, Q4FV5o, Yg03Z6i, 1462417349, 189971562);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long dDjnjwvQ8W(unsigned int R1Z_O6P8m,int wEDNhbR7ju,unsigned short GbZP2xxf6R,short int rH9Z,short int I624) {
  return 0;
 }

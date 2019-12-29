@@ -248,6 +248,7 @@ std::cout << "sX24Ptd" << Y_2E(-449979939, B7ah5j0) << std::endl;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char Y_2E(unsigned int Sc5uPrT,unsigned short int HuA676VD_F)
 {
  return 0;

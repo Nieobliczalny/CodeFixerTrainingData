@@ -11,6 +11,7 @@ using namespace std;
 
 unsigned short int  F0VOC5(short int  oP7qd,long  qbZ32L3BO,unsigned short  A4KyvB);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	short	w987GeI5Y	=	-1304811218;
   unsigned short int  Fjkv  =  502952239;
@@ -644,6 +645,7 @@ std::cout << F0VOC5(Y6hNi6l, w987GeI5Y, Nq4y) << std::endl;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  F0VOC5(short int  oP7qd,long  qbZ32L3BO,unsigned short  A4KyvB)  {
   return  0;
 }

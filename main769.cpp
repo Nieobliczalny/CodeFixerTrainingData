@@ -13,6 +13,7 @@ using namespace std;
 
 long long  XeD3P_(unsigned int  u7U_I7D3);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	unsigned short int	r5Yy5Ig2i7	=	-1795402503;
  long nsY9W6P0 = 2051895468;
@@ -704,6 +705,7 @@ JxRANgN %= vkWn5RacQ;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  XeD3P_(unsigned int  u7U_I7D3)
 {
   return  0;

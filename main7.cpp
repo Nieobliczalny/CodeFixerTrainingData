@@ -9,6 +9,7 @@
 #define  rV_apVTU3c  (0)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char m9Ep24W_(char HhU1am2,short j6PxX,unsigned long long MmIyzf,int UjV_N9fMQO) {
  return 1210698398;
 }
@@ -22,6 +23,7 @@ unsigned short int    erPrh_j1(short int    d587_2Sz)    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    bga4228(unsigned long    y0190ey5,unsigned long long    ZZL1qug7p9,long    h_nd,short int    rD3VVaX)    {
     return    213780165;
 }

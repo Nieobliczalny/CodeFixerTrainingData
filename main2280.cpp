@@ -318,6 +318,7 @@ while (j >= 0);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int SuUfb8(char B9DnO702,unsigned int ry6m99,unsigned int Q7Qhl5j1_) {
  return 0;
 }

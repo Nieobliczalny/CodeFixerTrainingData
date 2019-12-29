@@ -16,6 +16,7 @@ long long    e2EPfMHY(int    hx375z,short    na440z7td);
 
 unsigned short int oR4z293D(unsigned long NXgFNo,unsigned short zAhOXl,unsigned char kvv5J6h4);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     unsigned long long    XC7rL9m,    eekB;
@@ -820,6 +821,7 @@ eekB = oR4z293D(y2DPyn_, 744422624, XQlNY8r);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    e2EPfMHY(int    hx375z,short    na440z7td)
 {
     return    -98789629;

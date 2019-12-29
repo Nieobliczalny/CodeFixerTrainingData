@@ -18,6 +18,7 @@ using std::floor;
 
 short int  c2h2P3QNgO(unsigned char  S_z4o_,unsigned long  YLQCa8,unsigned short  pzkPq4h);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     int    Q443b3X,    P4k7U0;
         Q443b3X    =    P4k7U0    =    0;
@@ -719,6 +720,7 @@ P4k7U0 = (int)abs(Q443b3X);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  c2h2P3QNgO(unsigned char  S_z4o_,unsigned long  YLQCa8,unsigned short  pzkPq4h)
 {
   return  0;

@@ -11,6 +11,7 @@ long long    yv3win15e()    {
     return    -1915870;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    sUf9q(unsigned long    uBy3_1Xz5,int    r_BG9,unsigned long    PEi08)
 {
     return    0;

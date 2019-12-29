@@ -15,6 +15,7 @@ short  HLbc3()
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	b4HyN(long	nl92TEK,short	N60I420T,long	jnYJ3u)
 {
 	return	-1662435046;
@@ -25,6 +26,7 @@ unsigned short	F_Ae(long long	CCrt_7RljX,short	Nwdhg,unsigned short int	NMJWa1y,
 	return	754822396;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long eUta(unsigned long l_I8c,unsigned short okmYJgkts9,long O0551LR4,unsigned long long gVtR) {
  return 1723026583;
 }

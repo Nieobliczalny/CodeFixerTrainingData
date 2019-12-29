@@ -8,6 +8,7 @@
 #define	Q6OM1k	(0)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	SR_143X(unsigned char	DQ12kdP1,unsigned long long	e60_,short int	taF23_RR,long	hHZah)	{
 	return	0;
 }

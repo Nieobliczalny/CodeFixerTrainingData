@@ -12,6 +12,7 @@ short int dT__Lw() {
  return 1939336458;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	BKE7z2t(unsigned long long	WmFw59ih,unsigned long	CcgxCXW,unsigned char	H719295Z)	{
 	return	1190403797;
 }
@@ -25,6 +26,7 @@ short int  dvpOW6(unsigned int  i3C6su,unsigned short int  GGG_50Sl_,long  TSt7v
   return  -590670568;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	YMbI47(int	cY5T5,unsigned char	DPgaHZH,unsigned short	d087)	{
 	return	-351374409;
 }

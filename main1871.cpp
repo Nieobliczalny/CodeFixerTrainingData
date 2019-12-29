@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int H75r3(short int uHsjG,unsigned long long d_fc)
 {
  return -1120683836;
@@ -23,6 +24,7 @@ int  kDK5zBl7i0()
   return  -659454981;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	long double	BpfI224Fa9;
 	BpfI224Fa9	=	-1525055226;

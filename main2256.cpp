@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short  bc_Q9T(short int  H50Y,unsigned long long  A45H30R3C,unsigned int  Gd3daI_5Gt)  {
   return  2074543352;
 }
@@ -20,6 +21,7 @@ unsigned long  f_tte()
   return  -1270276091;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    h01K9y5orI(long long    YpcMZ)
 {
     return    80413615;

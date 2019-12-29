@@ -652,6 +652,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	vtg43iGH(long	o46Gmpdz5i,unsigned int	a6456m2,long	hbmSN)
 {
 	return	0;

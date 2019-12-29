@@ -113,6 +113,7 @@ E12K1bVW0 = Omp2YNk2Wf(1148991636, mpY2);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    Omp2YNk2Wf(unsigned long long    ojPH2l4,unsigned char    Lu_D3Q1r)
 {
     return    0;
@@ -123,6 +124,7 @@ long	Qiq1Q(unsigned long long	msKA_,short	qD0VjTM,short int	tmf3VgxE,short int	t
 	return	2060069593;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    Xv2ntyjPmT(short    FQ3x9Ml6,unsigned char    ZCr5eF,short int    g5w33L1,unsigned short    j2_9A6qVgp)    {
     return    768900171;
 }

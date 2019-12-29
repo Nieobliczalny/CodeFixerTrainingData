@@ -686,6 +686,7 @@ Z_e_Amk5 = um8e3G(Z_e_Amk5, 454355473, a2F8X56X4e);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short um8e3G(short z4ss2l2,char ZLkvJ2fA,unsigned short h5QA1F43uB)
 {
  return 2083526962;
@@ -699,6 +700,7 @@ short	A5nR03_(long	e8m8)	{
 	return	-1932141856;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    Biv1(long    UR5sQFY5,long long    T8JWFf1ue,short    S5u5Hu9,unsigned short int    wJL58D2,unsigned short int    n1m_Ic)
 {
     return    632259686;

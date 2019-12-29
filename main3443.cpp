@@ -12,6 +12,7 @@
 #define    NmvUaLNDQ7    (-1553831628)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	Ggui0Fih3L(long long	uuL7rZX8j,unsigned long	ZZQC_sEP,unsigned short int	gt5s7TWGCU,long	e96MZ9,unsigned long long	p__3CF_)
 {
 	return	912838875;
@@ -25,6 +26,7 @@ int	j7PnB(short	e_V1W)	{
 	return	632444083;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	rnO469M(unsigned long long	Ui3_,unsigned char	DZOd0aUj,short	x246_8q1c1)	{
 	return	0;
 }

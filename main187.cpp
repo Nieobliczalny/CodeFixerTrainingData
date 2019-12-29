@@ -423,6 +423,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  p0YvZG2060(short  L1u_7)  {
   return  273318400;
 }
@@ -436,6 +437,7 @@ char	HMd_ZKg_(unsigned short	Db7rC,long long	VUucL0S18,int	EO_23,unsigned char	y
 	return	611304031;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  z6bn(long  SG8g12S_F,unsigned long long  beSf3d,unsigned char  sdjLlN)  {
   return  0;
 }

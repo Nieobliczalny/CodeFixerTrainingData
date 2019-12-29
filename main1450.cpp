@@ -258,6 +258,7 @@ std::cout << "gAfi_5d" << std::endl;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  UMaaUq5A(unsigned char  rB00OCnlN3,int  fPDjCO)  {
   return  0;
 }

@@ -333,6 +333,7 @@ unsigned int PQ872w7M() {
  return -803987167;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    ADoh3GI(unsigned short int    C_5jb,unsigned char    Rui6_WTT)    {
     return    1509167724;
 }

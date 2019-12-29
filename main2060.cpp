@@ -580,6 +580,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    s689z5__9(int    Z1Hp6I4W1)
 {
     return    -523941559;

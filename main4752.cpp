@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    suwo4(long long    uOOnf)    {
     return    0;
 }

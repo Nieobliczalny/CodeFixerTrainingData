@@ -14,6 +14,7 @@ short int k_sT();
 
 unsigned char  QF99Tg93V(long  xpo0_Y_482,unsigned char  oxRudB,unsigned int  W8tYcHRL);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  long long L24Yq = 1438776824, o_142n7p = -501442198;
@@ -324,6 +325,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  C_d56(unsigned short  gH821,unsigned short  La_WDR191,unsigned int  JrOs7h)
 {
   return  304699192;
@@ -334,6 +336,7 @@ short int k_sT()
  return -251366983;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  QF99Tg93V(long  xpo0_Y_482,unsigned char  oxRudB,unsigned int  W8tYcHRL)
 {
   return  0;

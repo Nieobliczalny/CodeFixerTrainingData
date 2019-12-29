@@ -15,6 +15,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long j3lZhE(unsigned long ag9GZ,long long uSVU)
 {
  return 0;

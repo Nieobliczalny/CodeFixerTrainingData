@@ -159,6 +159,7 @@ GAc_9t2c = r4aPt(-799810176, AcMg97GjE, 69810269) * f9UG;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  r4aPt(unsigned char  Yq7AIy,unsigned short int  zm_51z,long long  ja8r)  {
   return  -1663576258;
 }

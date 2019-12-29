@@ -896,6 +896,7 @@ Ff73 = GsoBvV(Ff73, 2140381917, 1229476294, -372184763, hYR_E_lY);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char GsoBvV(short W88u,short hHNql_BwI1,char OnHi,unsigned long long l_Fy,unsigned short int zhTXx)
 {
  return 0;

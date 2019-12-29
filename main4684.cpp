@@ -153,6 +153,7 @@ char    F3N9RLX()    {
     return    -1582485578;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short rS0hR6(char agnqSst,unsigned short int qvwAUT15) {
  return -568501245;
 }

@@ -491,6 +491,7 @@ while (i >= 0);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    J9mf(unsigned int    fFbiDoS)    {
     return    0;
 }

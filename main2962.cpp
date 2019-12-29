@@ -15,6 +15,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short ga_H(unsigned short T4A6i,short int JdK6XOyEk) {
  return 0;
 }

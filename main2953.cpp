@@ -11,6 +11,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	wrK0Y89(long long	Vwm_E66O,unsigned char	KOnF2x3CF,long	P79nxNV)	{
 	return	0;
 }

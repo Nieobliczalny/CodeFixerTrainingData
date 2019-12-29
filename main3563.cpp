@@ -16,6 +16,7 @@ long    i1dO3c()    {
     return    1495138732;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    UsZNLLraH(unsigned long long    G3806)    {
     return    -1134114254;
 }
@@ -28,6 +29,7 @@ long long  BaXa7(short  maU0i50C)  {
   return  634072030;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    O1M34Ry(unsigned long    j9zy7q7I,unsigned long    Qd2cVwqnt,long long    zZvs5_D,unsigned short int    gX0ka74HEA,char    zP20s8rxz)
 {
     return    1596507054;

@@ -401,6 +401,7 @@ y7DZvO_K--;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    D0O4m8N(unsigned char    HL_jMjrw,unsigned int    pH_3jCT,long long    cyzcw2sT9W,char    AfHMtY)
 {
     return    0;

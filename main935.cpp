@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    iA6O(int    ev6w1gO,long long    YOe5)    {
     return    -1308628669;
 }
@@ -20,6 +21,7 @@ unsigned long long  M3rAD7(unsigned long  W9h5Rr2,int  Uqc3Z,long  iak907D,int  
   return  117389366;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  DX18ykGn2(unsigned short  u38ZtMhtib,unsigned int  REEp4_6mi7,unsigned int  wBd_xt2,unsigned char  qy1Vp)
 {
   return  0;

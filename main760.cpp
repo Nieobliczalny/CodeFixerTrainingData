@@ -339,6 +339,7 @@ wU5p = km2_0mMP(wU5p, 1278055051);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  NHkn_V984(short  HTypv__6,unsigned long  ioi2n0,long long  t262KEGiT)
 {
   return  0;
@@ -352,6 +353,7 @@ unsigned char  eeEWTKba_(short  lZQ4K2Le,unsigned long long  UQh1na)  {
   return  -1939381572;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long km2_0mMP(int r3xXd_2WQ7,unsigned int LS_h7WQ89K)
 {
  return -185613663;

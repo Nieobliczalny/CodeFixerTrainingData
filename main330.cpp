@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long kEI_xL(unsigned long long mB214MIs,long long g_ov9V7xj,short l_Nj8,long long jyZ8N6)
 {
  return 0;
@@ -20,6 +21,7 @@ unsigned char  Jr7F6(short int  kNq8u3B134,long long  YoojTY1T0_)  {
   return  -575177578;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	ojj5Fi(unsigned long	IaJdX1LX7,long	VKpyn1Kyyf,long long	JvHHOF,short int	VD80QamN,short	VM6Q81GG4)	{
 	return	-582853398;
 }

@@ -269,6 +269,7 @@ btn3_Yc /= DovO_0n;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    HqWkbh(unsigned long    xZVuz8J,unsigned short int    c2sgw1yNk9,unsigned long long    lnIO4T7)
 {
     return    -2027827183;

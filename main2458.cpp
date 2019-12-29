@@ -506,6 +506,7 @@ X9i85w2b = l2IXWxp(1139946000, -181309400);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  f_K5(unsigned long long  omskeRdA,unsigned long  SiPOpF0k,unsigned int  DcHNj19,char  Ux12)
 {
   return  -1604173651;
@@ -516,6 +517,7 @@ unsigned int l2IXWxp(int j_Mcu7,short int fgEqSC)
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    Hu6Jh3(unsigned char    Zxl38mB,unsigned long    C31tF2C,char    bPDfC9p4p5,unsigned int    CyZ65N3,unsigned long long    xeqx)    {
     return    -27474696;
 }

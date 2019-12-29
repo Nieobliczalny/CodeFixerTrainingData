@@ -11,6 +11,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    ktlJ(unsigned short int    l8MI4h,unsigned short    b333Gy,unsigned int    P16PlJA8zf,unsigned int    W387)    {
     return    1556906859;
 }

@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    Xl6b(unsigned short int    vdn3b6__,unsigned int    SEh5G6Ou0)    {
     return    0;
 }

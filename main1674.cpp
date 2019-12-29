@@ -8,6 +8,7 @@
 #define    yU7L789    (0)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int sWdp(unsigned short x3Fe_,unsigned long long p6K5t) {
  return -1366660597;
 }

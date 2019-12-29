@@ -17,6 +17,7 @@ short int eAEu();
 
 int	y7532OKv(int	rIRk9166fz,unsigned int	mMda_QE,short	Al_f,short int	ZG7KHqDk,long long	C_d4Km);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   unsigned long  I28YD1Vt5;
@@ -357,6 +358,7 @@ short int eAEu()
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	y7532OKv(int	rIRk9166fz,unsigned int	mMda_QE,short	Al_f,short int	ZG7KHqDk,long long	C_d4Km)	{
 	return	2136596336;
 }

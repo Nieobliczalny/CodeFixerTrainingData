@@ -510,6 +510,7 @@ pF6Jq = Dj2zpd - 673666262;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    WIgh(int    WsEqbQL4f6,short int    Ny9X3wenx,long    quMud,char    GQ9Ij6m,short int    M2Ad_tCxJb)    {
     return    0;
 }

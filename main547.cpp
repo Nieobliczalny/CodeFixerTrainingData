@@ -13,6 +13,7 @@ using namespace std;
 
 unsigned short int V4_l70BaB_(char Wqa6a9,unsigned short B7Y6I1m,short int cbvex66Z,unsigned long long qAF0_Bo_,short int nPfFv);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  float pmUgf = 409761827;
 	unsigned long	c44Q	=	1418985960;
@@ -205,6 +206,7 @@ Yd_9lt9z = (int)ceil(JN85YM);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int V4_l70BaB_(char Wqa6a9,unsigned short B7Y6I1m,short int cbvex66Z,unsigned long long qAF0_Bo_,short int nPfFv)
 {
  return 0;

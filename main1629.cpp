@@ -16,6 +16,7 @@ long  vI5hx1t1a()  {
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  short Ey6X9n;

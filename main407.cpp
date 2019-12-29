@@ -508,6 +508,7 @@ urNWCV3k5 = h742Obsuu();
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  A_os6MZ(long long  tjsdz,short  Gg_311Bn6,int  B_9h1Y,char  T56ZT0U5a)  {
   return  0;
 }
@@ -522,6 +523,7 @@ char    h742Obsuu()
     return    -664272924;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    KNBjl2(unsigned short int    VgE3HJwl4Q,unsigned long    DrxjmmaxH,long long    P3o3AV_8)
 {
     return    -2108445812;

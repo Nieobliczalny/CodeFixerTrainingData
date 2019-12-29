@@ -397,6 +397,7 @@ while (i >= 0);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	HTXh9YnS(unsigned long long	kw0d)
 {
 	return	0;

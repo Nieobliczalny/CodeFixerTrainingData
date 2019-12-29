@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	D8T1(long long	J70x3,unsigned long	IO9ae4)	{
 	return	0;
 }
@@ -20,6 +21,7 @@ char  rT24p5(unsigned short  x06_G7,unsigned long long  JSa3T4,unsigned int  I8H
   return  1679055592;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int vRGL0I8H_9(short zKBM,unsigned short Io_sB_d9h)
 {
  return 476431901;

@@ -14,6 +14,7 @@ char PJhN6oM(short e6G0,short int l_O5Gty3I,unsigned short int dxKK);
 
 long	O5Vn484D9();
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   long double  rtbuQ376  =  -1007585995;
@@ -708,6 +709,7 @@ while (i < 9);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int wpv_1j2(char ykE6o_0,char SmjP0MM71,unsigned int Q7KAv6) {
  return 170185750;
 }

@@ -537,6 +537,7 @@ std::cout << dvBV(xcRMZV, -502100684, -1113468481, -25193561) << "r2tj" << GDpFT
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char dvBV(unsigned long long jl_Brn3R,unsigned char m1l83V2,long long TQ4M4k4I8,unsigned short int ft4p) {
  return 0;
 }

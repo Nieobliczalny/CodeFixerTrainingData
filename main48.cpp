@@ -188,6 +188,7 @@ piS7yFPrZr = (int)floor(AOadc8Y12R);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	F1NH(long long	c5gNIT_7m6)	{
 	return	0;
 }

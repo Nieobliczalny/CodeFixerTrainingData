@@ -391,6 +391,7 @@ r_jp6_S53 = (int)abs(DIDJ44);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	tk1R(unsigned long	Iac3,long	wwatI8g,char	S8JBm6rC,unsigned long long	tla3JN5k,unsigned char	ZS9MF0VJ)	{
 	return	0;
 }
@@ -403,6 +404,7 @@ unsigned short R1c9b(unsigned int Rj162UtZ8V) {
  return 477487490;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long Sdu5cmb(char Oai4YgJo,unsigned long SKDJK5h,char BZ04k8Jmk,int ET67UK)
 {
  return 1292895421;

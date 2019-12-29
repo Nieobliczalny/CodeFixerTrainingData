@@ -852,6 +852,7 @@ mobXOMYI |= q77h345;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	s3wuw(unsigned long	LE88FUqc,unsigned long	If967Hjmi)	{
 	return	175553506;
 }
@@ -864,6 +865,7 @@ short lGGhW1RHB9(short int c7Wor) {
  return 594615178;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int n2XH(short U_OP6vNuT) {
  return -420019998;
 }

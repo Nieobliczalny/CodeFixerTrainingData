@@ -166,6 +166,7 @@ hDRjOVH2 = 1167114947 / U5_d1W;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    S368Ic9(long    k9_Q,unsigned short int    Ic700x2,unsigned int    eBG0)    {
     return    -500239452;
 }
@@ -178,6 +179,7 @@ unsigned char Z0O3() {
  return 381978288;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    Notj5af4(int    H8qba7f,unsigned int    Hm141,long    I6g9o,short int    bdtD06ddv,long long    VvTF7)
 {
     return    -1525154306;

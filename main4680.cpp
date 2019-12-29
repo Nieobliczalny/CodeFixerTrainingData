@@ -22,6 +22,7 @@ long s0nT19To0(unsigned char X7Lyd,short Jdx4,unsigned long OdM2KYX_);
 
 long long  VWu0AlJs(unsigned short int  S93d4BM2c7,char  QsceK2N0P8);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   int  Vcj8_  =  0,  fBMlxH217  =  0;
     short int    Md64DY    =    505118460,    cu3M25    =    331814060,    F71aX_OJM    =    2050005838,    y8H2    =    1758181128,    Wjz_fln    =    745917936,    WaS_    =    -342843322,    YRZ1N2w198    =    638402724,    eudSX    =    530377368,    l1bT_    =    -708887187,    P9o44x    =    1798808405,    n6BD78t43    =    901226221,    XSyor5k    =    1608976485,    eU_c8ol3dy    =    594587992,    CG2t    =    -152826507,    T3HiYzMIcT    =    2117693570,    jRoCg6    =    -1790747359,    K_nJT08l9    =    607778170,    idS10F    =    1496850654,    DH_kD2    =    -314724682,    vrsbDoqt    =    -161228258,    OnNQxP    =    -3078439,    CY_j    =    1331067626,    yw0AP_pqG    =    -380595437,    d2FTlw    =    62699006,    v5dOifRK    =    1056816572,    WRttv    =    2012992801;
@@ -529,6 +530,7 @@ cout << CY_j << DH_kD2 << n6BD78t43 << l1bT_ << Htpf8Y1Ous(CG2t, -762290074, cu3
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	Htpf8Y1Ous(unsigned long long	pB64lxJ7V,unsigned int	Ed4O_E,unsigned short int	ND49N8t_Wu)
 {
 	return	-230869093;
@@ -542,6 +544,7 @@ char QM_Q3k78(char IYMG_s,unsigned short Go_Zpt8nj,unsigned short int u0_T314wo,
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long s0nT19To0(unsigned char X7Lyd,short Jdx4,unsigned long OdM2KYX_)
 {
  return -2098223857;

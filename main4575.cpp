@@ -380,6 +380,7 @@ nr25y++;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	r8bW(unsigned long long	KH_7gKS,unsigned short int	OI2nN,int	bs48m400W,long long	w4Ji4Q,long	ZbMY)
 {
 	return	0;

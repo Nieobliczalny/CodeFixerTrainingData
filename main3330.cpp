@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    s77Gfgi(int    TaMoZM,short    hTzT9W3Cxr,unsigned short int    X400X,short int    C4H7W_DltY)
 {
     return    0;
@@ -21,6 +22,7 @@ short ENpEs7v5()
  return 1377958675;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long gEHXY5Cfr(unsigned int Opa4,unsigned short KUCde3g5)
 {
  return 536245466;

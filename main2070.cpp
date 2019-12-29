@@ -12,6 +12,7 @@ unsigned long long    oU676tya7()    {
     return    -970052797;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	SCehy2(long	MX1Ebprd57,char	sZJaRH)
 {
 	return	498340569;

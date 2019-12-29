@@ -140,6 +140,7 @@ oMcS = COrdP_hwa(347211682, -490476089, -1927166767, 1247254743, N_KAQ);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    d7U4(long long    MCd34_K_r,unsigned int    z1_2sO,unsigned short    d3nAdhi,short    nI6__M,short    QaV4QL)    {
     return    -1644542593;
 }
@@ -152,6 +153,7 @@ long long	Q81v(unsigned short int	iHjlb45go,short int	jrQ_)	{
 	return	-526372005;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	COrdP_hwa(long	VDOk,unsigned char	w_5Uqf2ek,short int	gV2B,unsigned short int	p9zvO7,char	z4NERt0Azl)	{
 	return	-605317382;
 }

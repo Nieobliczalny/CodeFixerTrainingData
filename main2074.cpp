@@ -487,6 +487,7 @@ t8v0U193u = (short)(b79Mv);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	TUQDTK(unsigned long long	jvf9_a,short	hDS9,unsigned int	k_nc7W6,unsigned long	zmoSEOW5)	{
 	return	0;
 }

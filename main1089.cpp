@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	y2_Spq(unsigned long long	Z03s16jE,unsigned long long	OrktfvWFIW)	{
 	return	1056109956;
 }
@@ -20,6 +21,7 @@ long    aBR34U21(unsigned short    X2c5,long long    Xq1axzKnFN)
     return    -912323925;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	nOZ0EcN(unsigned long long	zn586,int	O2Te_1,long	p52A,unsigned long long	hCvS9Wb1G,unsigned short	J1nT)	{
 	return	0;
 }

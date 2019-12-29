@@ -557,6 +557,7 @@ XIBdo7 = (int)abs(H5O4Yy8Aym);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    Ka7yOw21(unsigned short int    bXMxF6RI_)    {
     return    2146787592;
 }
@@ -571,6 +572,7 @@ long  NHtKvuEH0(long  iE_A,unsigned char  K002,unsigned int  JpEzW,unsigned char
   return  -1093314465;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	R666RqPu(unsigned short	w9X5Qh4K3Z,int	S5Ifbw8L,int	N92xmBNc,unsigned long	qL020S,char	r_a7477Yrn)	{
 	return	1224111843;
 }

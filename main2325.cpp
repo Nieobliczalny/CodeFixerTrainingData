@@ -13,6 +13,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    L_rl5(unsigned int    EU7J)    {
     return    -299831720;
 }
@@ -26,6 +27,7 @@ unsigned int    Z08e(long    NDZOe,long    neVPSWkT7,long long    a8Kdc__Y)
     return    2057063776;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  TUV78(long  DebN,char  vzVu,long long  k5sq9Qq8_,unsigned int  Du06TtF5)
 {
   return  817677016;

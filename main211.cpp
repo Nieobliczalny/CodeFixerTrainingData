@@ -15,6 +15,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  PYhu722(unsigned long  qE24S,unsigned char  Or1T64LW)  {
   return  0;
 }

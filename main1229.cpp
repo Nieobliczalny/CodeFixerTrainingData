@@ -582,6 +582,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    xmnlo(short    JTEyRW,unsigned long long    x2Epjv9mge,unsigned short int    Gn_E,int    Fol7rN9U)
 {
     return    -786627333;

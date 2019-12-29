@@ -495,6 +495,7 @@ XVdB = v84Y1j | Mn73_7IW6;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    dMYk(unsigned short int    b_cjr9,unsigned long    oyGK9d,short int    Id56nvPn,unsigned long    WdS0,int    ftohS7)    {
     return    0;
 }

@@ -12,6 +12,7 @@ int O_svdZpeJ() {
  return 1048956505;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	r37o0M25(unsigned short int	zts8e2I,char	cn0x)
 {
 	return	872890125;
@@ -26,6 +27,7 @@ long    ziyF5(unsigned long    sbhR99C4xa,unsigned long    ckBZ8)
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	unsigned int	oTjM0Ta3a,	P3HUh4;
 		oTjM0Ta3a	=	P3HUh4	=	0;

@@ -11,6 +11,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  GCrx15k(unsigned long  c1UWUck)
 {
   return  711194300;
@@ -21,6 +22,7 @@ unsigned int	FO33_JV(long	e9wg3x,short int	nQT6D,long long	XY9wLoCsx,unsigned sh
 	return	-1985018952;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	G_F4bxV_(long	GCbxi,unsigned int	KOh4_Cr4A)
 {
 	return	989622513;
@@ -31,6 +33,7 @@ unsigned long xc5hpzV7_(int I1Vkz,unsigned char aX_CvSD,unsigned long long xcFQo
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  ge0A3ry(long long  W2GRqR,int  KkT_zPr,unsigned long long  ubCnOz,short  Y8Al6N)
 {
   return  -1357655579;

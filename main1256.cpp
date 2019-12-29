@@ -14,6 +14,7 @@ using namespace std;
 
 short int	V_EDs_(long long	civ9Szw,long	OFTdxkx_Yz,unsigned short	MAbq5V,long long	JNV9H);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  long double b0_3571K5;
  b0_3571K5 = 1859996560;
@@ -329,6 +330,7 @@ b0_3571K5 = (int)ceil(uQCF74i);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	V_EDs_(long long	civ9Szw,long	OFTdxkx_Yz,unsigned short	MAbq5V,long long	JNV9H)	{
 	return	0;
 }

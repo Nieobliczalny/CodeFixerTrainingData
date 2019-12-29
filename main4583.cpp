@@ -11,6 +11,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short STt_kxj(unsigned short int Fl02ivxz) {
  return -199230134;
 }
@@ -23,6 +24,7 @@ short RAPZaj() {
  return 1979729402;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  vYi033YR(unsigned char  zU80Y8U,long  qh5vO69dZ,char  T2Jyfc6N59,unsigned long  t_pu8OyT1)  {
   return  0;
 }

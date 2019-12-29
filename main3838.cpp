@@ -17,6 +17,7 @@ unsigned int	kT3aR(unsigned short int	m5f0iv_a);
 
 short int cz2Kk(unsigned int GEwO6tlSc4);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	short	bF_79If3;
@@ -778,6 +779,7 @@ unsigned char yJTn54HH6() {
  return 817101956;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	kT3aR(unsigned short int	m5f0iv_a)
 {
 	return	0;

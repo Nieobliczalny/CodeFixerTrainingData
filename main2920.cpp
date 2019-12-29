@@ -14,6 +14,7 @@ char	NFuZ(long	GviiV_UR77,long long	WAqLzb9,short int	C2B9D_,unsigned char	o075Z
 
 unsigned int BJ434j9lmW();
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  int Hy6B71, pZ4SJ_2xH4;
  Hy6B71 = 0;
@@ -353,6 +354,7 @@ unsigned short int	wL5CEV()	{
 	return	1520500835;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	NFuZ(long	GviiV_UR77,long long	WAqLzb9,short int	C2B9D_,unsigned char	o075Zcr,unsigned long long	m227uB)	{
 	return	1288645880;
 }

@@ -620,6 +620,7 @@ DUBbbiwy7 = NhpeHA - 678490248;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short HlOgB1Jr5(unsigned short int IBGn69bf) {
  return -1391580335;
 }

@@ -370,6 +370,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short YS2E4xg(unsigned short VsNT,char FH4wdQZ5,int mDEhd) {
  return 0;
 }

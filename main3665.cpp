@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    Eeaa0Q(char    lS8n3,unsigned short int    Zeuj1Ho_)    {
     return    0;
 }

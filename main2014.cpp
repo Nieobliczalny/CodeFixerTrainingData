@@ -346,6 +346,7 @@ L79V7 >>= qK7x9;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    Ck0pKZkp(short    kTu4z,unsigned int    w0CE0o1BQM)
 {
     return    0;

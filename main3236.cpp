@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long T55R(short df5ouN_9_,short MKVZ,char X0pvm8) {
  return -840419845;
 }

@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short iL5jafA(unsigned short naT0XxG,unsigned int C3Mv) {
  return 0;
 }

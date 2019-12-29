@@ -17,6 +17,7 @@ unsigned long long  IKTzdI_()
   return  -1225468574;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	GtA_sE3(unsigned short	oz8SL,unsigned short int	tB8BQGw9y,long long	A51N86tKm6)
 {
 	return	0;

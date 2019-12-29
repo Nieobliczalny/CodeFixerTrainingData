@@ -13,6 +13,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     char    wyRRrB28F    =    1290540791;
     unsigned short    uWSe    =    215097112;

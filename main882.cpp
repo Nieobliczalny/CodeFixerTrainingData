@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	OH86UGC(unsigned short int	uu41_ZzIh,short int	SnU8U6D)
 {
 	return	0;

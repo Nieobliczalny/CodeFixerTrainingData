@@ -10,6 +10,7 @@
 #define  TixAc1GIr  (0)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  nm2t(char  MY02Q8I,unsigned short  CJ518maYMJ,long long  V62D5tEk,unsigned int  LY3Lkd,long long  EnX5S93K)
 {
   return  -64878101;

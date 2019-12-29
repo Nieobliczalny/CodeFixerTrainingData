@@ -14,6 +14,7 @@ short C2382XO(unsigned short lNvt7W5,unsigned long g1jM3vS,short int KzDc8Zd3m);
 
 short int	CtqHcKQ2H(unsigned char	RF_3gNo4N);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     unsigned short int    Fs2fPK    =    218882745;
@@ -744,6 +745,7 @@ jm167 = (Oa0YhQ < 1677695834) ? -1042663043 : pQcQCi__;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short C2382XO(unsigned short lNvt7W5,unsigned long g1jM3vS,short int KzDc8Zd3m)
 {
  return -975348343;

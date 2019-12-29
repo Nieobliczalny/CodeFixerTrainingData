@@ -8,6 +8,7 @@
 #define n9crN7xPe (0)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int Xd4cOVl(unsigned int hq2x5907,short int nQ5T1Tmx,unsigned short pr1_s84,unsigned short X29f9CWQ1Q,unsigned short q7f9) {
  return -454883907;
 }
@@ -26,6 +27,7 @@ long  Dn_T70geX4()  {
   return  -553628878;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   unsigned int  xf0Tz2,  fS2vx4Te9t,  D9Hr_R6A,  YJrQzQi,  Pb0SxRZB2T;

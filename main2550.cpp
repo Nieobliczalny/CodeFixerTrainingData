@@ -21,6 +21,7 @@ int  r0_5();
 
 short int  E8TZeq9CjE(long long  w2Czk6T_X_,unsigned long long  vAI3);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   char  h4Sy_8m  =  0;
     int    NzlSM    =    1296188016;
@@ -667,6 +668,7 @@ while (i < 5);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    VP93bVH48(unsigned char    Tvm48uGKkI,short    Fhm87d4y86)
 {
     return    0;
@@ -681,6 +683,7 @@ int  r0_5()  {
   return  -870121779;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  E8TZeq9CjE(long long  w2Czk6T_X_,unsigned long long  vAI3)  {
   return  676007685;
 }

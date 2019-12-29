@@ -18,6 +18,7 @@ long long    F_HQFry9(int    GpJ6Mbijnr,char    ia0FO3q23,unsigned short    j9M6
 
 unsigned int    aj6A(unsigned char    RbK8_u,short int    FIHy6a1o,short    vVN0E);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     short int    jf8Pu5zT,    O52uZX,    DHWRW2mI,    fdiH;
@@ -255,6 +256,7 @@ ZuHp00x = Zi41E6 << TrK3F6R;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	gY1_(unsigned short	gm_t,unsigned char	CJp2)	{
 	return	-266799684;
 }

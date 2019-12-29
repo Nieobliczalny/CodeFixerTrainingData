@@ -507,6 +507,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  M2Rqc3(long long  K97a64,unsigned int  Dldz248Q,long long  J2_7CF)  {
   return  1003655357;
 }
@@ -519,6 +520,7 @@ unsigned char    TdFf7(unsigned short    C_M7,short    kGsY5Mu1,unsigned long lo
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  bwQsz(unsigned short int  dBU2Xwz254)  {
   return  1580085578;
 }

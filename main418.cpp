@@ -18,6 +18,7 @@ unsigned long long  VD2Z7137DO(char  ykLZne);
 
 short int	V11q91B(int	cGZ3tP,unsigned char	qg_I3Y6u);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   unsigned char  r59_;
   r59_  =  -44329925;
@@ -745,6 +746,7 @@ R7Y3Q = (int)floor(G7KJDO4);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	DnhPJ4Hg(unsigned long	RG3tO8j27)	{
 	return	-803323159;
 }

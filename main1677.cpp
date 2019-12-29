@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short  GXG_j7(unsigned long long  N4eY0w2EM,unsigned short int  N1vB)
 {
   return  -1397443120;

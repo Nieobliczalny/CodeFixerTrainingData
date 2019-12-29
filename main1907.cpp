@@ -260,6 +260,7 @@ uKxc = (int)abs(RQ76Mq);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	T94S(long	i8Iao5s,unsigned char	kaXG_Xlch,char	T01_HGr7,unsigned long	AE3bI,unsigned short int	xfC3hRf)	{
 	return	0;
 }

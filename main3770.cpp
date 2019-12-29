@@ -13,6 +13,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    LCpbXd7(unsigned long    WY7s,char    h5RjaNq)    {
     return    0;
 }

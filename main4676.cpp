@@ -490,6 +490,7 @@ unsigned int	n1DU4q()
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  lneYCn0(unsigned long long  SK8LR_Tcl)  {
   return  511264885;
 }

@@ -288,6 +288,7 @@ f32SiYq = SF8_(SNaU3cG, Pb9m, 468426354);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    SF8_(unsigned short int    ASltu2,unsigned long    tspV_f48,unsigned long    pJs25EGtC)
 {
     return    0;

@@ -11,6 +11,7 @@
 #define  hO_CfYwEW1  (0)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    r_7A(long    QdzP6,unsigned long long    l_sreH9,unsigned char    zehr1,short int    BWuD5k3W,int    iJ3J8t5Wn)    {
     return    1476146313;
 }
@@ -23,6 +24,7 @@ unsigned long z_Pks2(unsigned long long l34BhO) {
  return 2119167543;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  Su8NAX2878(unsigned long long  ITBH9ANKm,unsigned char  u9P5b,unsigned int  S8s9tn)
 {
   return  0;

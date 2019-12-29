@@ -402,6 +402,7 @@ while (i >= 0);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    N_PWMj08eS(short    ayX4O81,short int    O2vNdADKh3)    {
     return    0;
 }
@@ -414,6 +415,7 @@ unsigned short  JAgD()  {
   return  403999853;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int EGK27p3_Y(unsigned char VgNKi5r6F,unsigned long WBWr,long A91E,unsigned char fpd9586to9)
 {
  return 87124367;

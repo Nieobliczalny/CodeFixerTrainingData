@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char XkLtDw(unsigned short NG_blj981) {
  return 0;
 }

@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    Fe5RRXpUZ3(short    NlLV3N07)
 {
     return    -1425389233;

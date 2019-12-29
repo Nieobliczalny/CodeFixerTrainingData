@@ -246,6 +246,7 @@ while (j >= 0);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    q2k09Ht(unsigned char    q219)
 {
     return    0;

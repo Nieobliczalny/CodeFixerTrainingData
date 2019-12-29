@@ -16,6 +16,7 @@ using std::floor;
 
 unsigned long    AeGXw9_FX_(unsigned short    WcO0pK);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  unsigned char hrW9WAME = 956850447;
   long long  CgGKS7560  =  -1693672377;
@@ -396,6 +397,7 @@ P1mxq3Xs = (int)floor(TF_L);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    AeGXw9_FX_(unsigned short    WcO0pK)    {
     return    0;
 }

@@ -489,6 +489,7 @@ M0TEB5bZ = (int)abs(Y3b2fk);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long qNa8(long long pz6Lp3M9r,long long jqu_jN28eJ) {
  return 2009561789;
 }

@@ -596,6 +596,7 @@ YTSa = (int)abs(X8_y) + (-105743016);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    F3iupxe(unsigned short    bF8zI,long    dy9bi,unsigned short    HS4P_)
 {
     return    -1861739928;
@@ -606,6 +607,7 @@ char	Owys62_D11(unsigned long long	Wxzw504n)
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    y3W_(unsigned short    dkgDILM,short    cMoL,unsigned long    y3O_Gh,char    cRS_B_G0,unsigned short    l7zyu_mrL)
 {
     return    -433306329;

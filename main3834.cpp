@@ -118,6 +118,7 @@ while (i < 9);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    T1uR1Rd912(short    XtL6,int    O9RJ3,long    C4b_,int    D0HAJu6)    {
     return    0;
 }

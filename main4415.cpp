@@ -13,6 +13,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	z23p(short	d2ulSr,unsigned short int	s_cYbhogya,int	lybf)	{
 	return	0;
 }

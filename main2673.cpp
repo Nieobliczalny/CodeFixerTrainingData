@@ -15,6 +15,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  h2Bd9oQ(char  pr6QShpeL,int  m3HoQQ,unsigned int  KaXD)
 {
   return  0;

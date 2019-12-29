@@ -22,6 +22,7 @@ short int sneE7(unsigned short int R_dh0bi2,unsigned short eGltuV);
 
 unsigned short  aI2DC(short int  GRf4Dq__Ub);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     long long    wHBU8G,    E60d3bFXLl,    WAPk,    kJa24,    WeEqwX2uc6,    L5Rabo,    YZb_3m2k,    rzejSbLP,    kb5k6fk2K,    xlp7vWzs6,    aj3gzX,    f1gjm_IT,    Xm_3TBIJR4,    ZJti8AZ49,    we00,    k8OYw,    X5ywEh8,    K_SQ_8N,    x4_cTX5w5,    sg0bGvDM2L,    t7u6_2_h,    qQ07,    hL8Ok9Q,    L67k1dua9K,    MaT3G;
@@ -439,6 +440,7 @@ X5ywEh8 = gCaqJia(-1291808802);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  gCaqJia(int  pgyiq)  {
   return  -1964385165;
 }
@@ -453,6 +455,7 @@ unsigned short int Umt27f4u6W()
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int sneE7(unsigned short int R_dh0bi2,unsigned short eGltuV)
 {
  return -1341467526;

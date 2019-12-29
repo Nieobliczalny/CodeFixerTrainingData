@@ -10,6 +10,7 @@
 #define	WbxO2NO	(-229162026)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  jW65(unsigned char  JZfI58g_9)
 {
   return  -1732300210;
@@ -24,6 +25,7 @@ short int  WKq4eHe8K(long long  NECi_w_4,short  zx81F,unsigned char  b9Pi_)
   return  -2018132039;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  i4EHl(unsigned short  XSHZ5lD2bk,unsigned int  B7LfaCYNau,unsigned short int  c0AbCgW3O,long long  QHI40TC)
 {
   return  0;

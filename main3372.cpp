@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char h31m_K5wVc(unsigned long m8dAvibL7,unsigned char Fk_Ji5Xn6,unsigned long long FF04t,unsigned short JO6Bq1Yb,short jTj1)
 {
  return -478635687;
@@ -21,6 +22,7 @@ unsigned short auErkhF(long MU_90NFTG0,unsigned short iV3FUno46,unsigned int dYc
  return -1299759365;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	eg00x4(long	M_oLPm,long long	YNCB)
 {
 	return	-1324415631;

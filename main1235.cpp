@@ -13,6 +13,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	B_79x(unsigned long	Io9I_,long	r_1twLXI,char	E2LOwmc40,char	zcANc2s)	{
 	return	0;
 }

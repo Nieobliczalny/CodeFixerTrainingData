@@ -17,6 +17,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    VfC46P3D0x(unsigned short    IIx7na_F)
 {
     return    0;

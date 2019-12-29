@@ -18,6 +18,7 @@ int j78o37Pil();
 
 short w3OI(char HVh9,short QB36R);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     unsigned long long    Vy1RF7A8,    SG7s3,    V4zr60;
     Vy1RF7A8    =    0;
@@ -264,6 +265,7 @@ E2N5 = (unsigned short int)(OS3U84);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    B5JeLxP6Y(short    x6o05ih_vg,unsigned short    o7j2)
 {
     return    -378545215;
@@ -274,6 +276,7 @@ int j78o37Pil()
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short w3OI(char HVh9,short QB36R)
 {
  return 2067234909;

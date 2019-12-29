@@ -19,6 +19,7 @@ short ZGo2G() {
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  char fifl, X079nZ3;
  fifl = 0;

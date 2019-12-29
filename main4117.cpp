@@ -16,6 +16,7 @@ unsigned short  shlgACs4h();
 
 unsigned short	kHIX_Ok(long long	CC2yiE81Z,long	w2398TTu4t);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     long double    K8_4G    =    1163077263,    p7h32    =    -1949636458,    zMEC9h9x4    =    867774650,    zAB_C    =    -271236964,    Mp_y47j    =    -2066542128,    C7V6wzy    =    1342109741,    eF4tzkT_F0    =    800889609,    j38cG    =    1274062903,    ivl9G    =    -1770330721,    X60np78U6B    =    -1081431148,    lOHWehC    =    867175146,    pBBqi5    =    1214523277,    CdF5    =    -531260467;
   long long  koDl1O0  =  0,  Lh6UlA87  =  0,  p2vxGiho_1  =  0,  d_zYfiDBl  =  0;
@@ -315,6 +316,7 @@ unsigned short  shlgACs4h()  {
   return  -370028947;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	kHIX_Ok(long long	CC2yiE81Z,long	w2398TTu4t)
 {
 	return	0;

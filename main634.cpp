@@ -107,6 +107,7 @@ unsigned long U3g5() {
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	CBE1KT(short int	X4_o8P_lb,unsigned long	u3G_9_10wj,unsigned long	b_b_BM,unsigned char	vt951)	{
 	return	1112872718;
 }

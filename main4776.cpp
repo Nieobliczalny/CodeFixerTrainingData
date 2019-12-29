@@ -11,6 +11,7 @@
 #define	lA241c	(521375605)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    i0_QTe0gtP(unsigned short    d0t6,unsigned long long    PfEYXQ)
 {
     return    -1892405841;

@@ -113,6 +113,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int IIR0_g3(long long qNpeWQDqiX,long xiRkmeQ3d,short int qG63mf) {
  return 0;
 }

@@ -482,6 +482,7 @@ fhjh71A = O05h(DM8PbI4JcG);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	O05h(int	FhdKx0)
 {
 	return	0;

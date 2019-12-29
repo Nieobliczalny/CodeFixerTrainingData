@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char YhY0E8032_(unsigned long long kaCv) {
  return 0;
 }

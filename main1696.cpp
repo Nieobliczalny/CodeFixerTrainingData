@@ -10,6 +10,7 @@
 #define	R5TA51_G	(0)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  ZFgD0mbh(unsigned long long  diZdL7nQ,unsigned short  P5H240)
 {
   return  1969185709;
@@ -20,6 +21,7 @@ int JzbpOR(int oWMCfs,long long BSA1mYZw8)
  return 793916507;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int W0o_bB(short v86rw,unsigned long TY8t_,unsigned long f_rQ,unsigned long LpZWV762,unsigned char NC7YJsvCx4)
 {
  return -1054632880;

@@ -13,6 +13,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short  BwVFui(unsigned long  IJ3Jw)  {
   return  0;
 }
@@ -26,6 +27,7 @@ unsigned short int    H0H_Ok(short    vRY2,unsigned long long    r1_WUq32e,long 
     return    -80333732;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     unsigned long    quZ1,    GMG_iwi71;
         quZ1    =    GMG_iwi71    =    0;

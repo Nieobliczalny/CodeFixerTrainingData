@@ -12,6 +12,7 @@
 #define	LJ7N9Wr	(-1007282687)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  short QA8AK9h6, T1_Dt3L, oU6AfV67r, eNu9JNrz;
  QA8AK9h6 = 0;

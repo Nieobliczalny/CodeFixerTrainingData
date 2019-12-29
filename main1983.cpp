@@ -547,6 +547,7 @@ ZPRlliOs28 = LUZ8O_k_5W(J7PCed6z, x_F6n2);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	mtrR0u3sPv(long long	tkS0a4z6q,unsigned long long	VbsOBZa04g)	{
 	return	-909501424;
 }
@@ -559,6 +560,7 @@ unsigned short int PNt0(char D74h5196,short Q_U51l) {
  return -343277199;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  k5g34XPV_(long  aro7v)  {
   return  -967049042;
 }

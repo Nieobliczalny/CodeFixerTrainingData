@@ -907,6 +907,7 @@ o_Gt = (int)floor(h6fn6xClP);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    nogT1Rx(long long    X382,unsigned short int    s6D569STb,short    Ag60,short    Ooaqt4KB)    {
     return    0;
 }

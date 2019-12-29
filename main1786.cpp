@@ -14,6 +14,7 @@
 
 long long    G6eug(short    Mw2UmMr,short    BY2OX6799c,long    xz2If_oMor,char    EXmd,unsigned int    EU7L);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  unsigned long rDHss3_;
  rDHss3_ = -1620650715;
@@ -634,6 +635,7 @@ S8HOY3Wr_e = (int)ceil(Q15D);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    G6eug(short    Mw2UmMr,short    BY2OX6799c,long    xz2If_oMor,char    EXmd,unsigned int    EU7L)    {
     return    0;
 }

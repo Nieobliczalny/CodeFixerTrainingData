@@ -633,6 +633,7 @@ Ao20ICjoo = (int)floor(b8PbHd1_);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	r68_n_0(unsigned long long	l_Hh_R)
 {
 	return	-1579554268;
@@ -646,6 +647,7 @@ long	E6EdRRe(long	F9wJ)	{
 	return	-394599736;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  ltDF19(unsigned long  r6848_Bqq4,long long  Fj31N)  {
   return  0;
 }

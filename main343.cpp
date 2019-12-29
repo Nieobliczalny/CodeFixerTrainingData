@@ -12,6 +12,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	X0_BUW(char	koVOT0PXPb)
 {
 	return	-1028589181;

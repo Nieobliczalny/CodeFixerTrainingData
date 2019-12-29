@@ -14,6 +14,7 @@ unsigned char  sUbX9RtYFM(char  vu439c);
 
 long ETfZrEN77(unsigned long q_u4rw7W,unsigned short int IbezH6zM);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   short int  Tkhmp,  ZJvc;
     Tkhmp  =  ZJvc  =  0;
@@ -291,6 +292,7 @@ int    k0_cnsy609()    {
     return    1137430889;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  sUbX9RtYFM(char  vu439c)  {
   return  -1936459976;
 }

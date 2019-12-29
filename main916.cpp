@@ -673,6 +673,7 @@ FFOIuAmeUP = (int)ceil(uHfB3xa);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    V9FdE(unsigned long long    PBBEbb7,char    yh27)    {
     return    -293853297;
 }

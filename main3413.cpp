@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  QU6EJjfxL(unsigned long long  m078OJTT2,char  YPS6)  {
   return  1955065291;
 }
@@ -20,6 +21,7 @@ unsigned int	MQCXhsX(short int	IiE51mn)	{
 	return	1549687752;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int DbaO5(int gkM2G) {
  return -482411756;
 }

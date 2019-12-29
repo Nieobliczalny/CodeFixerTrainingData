@@ -12,6 +12,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  w_LWAH(long  w_Ki5UQp_B)
 {
   return  0;

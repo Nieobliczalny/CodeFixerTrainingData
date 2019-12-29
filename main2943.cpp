@@ -372,6 +372,7 @@ IxX6Z1lgOp = MDuh8(1537841853, 1847383390);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    H4pf44U(long    VVb_YZ90lI,long long    r2bV,long    XX4wN2,unsigned char    XftZ,unsigned int    y57v292_h)
 {
     return    0;
@@ -382,6 +383,7 @@ char    ayQ2(char    lWY5y5,short int    hIP8)
     return    -764070856;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    p3Kac(unsigned long    v43lMROD,unsigned char    sNpG6Qc,long    Voy_XlD6yU,short int    a2_2T)    {
     return    -1783021315;
 }

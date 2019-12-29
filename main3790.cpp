@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  qjVv06JDiv(int  o_YzS7b1,long long  v_RO,int  xycPPYPMf,short  LJNhn1W,unsigned long  v0I_6O2o)  {
   return  0;
 }

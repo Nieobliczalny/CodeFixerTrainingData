@@ -13,6 +13,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    TSPo38_(unsigned long    CLiMsUHI90,short int    FTbo,unsigned short int    z3F56d9Di8)    {
     return    0;
 }

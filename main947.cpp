@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	smG_17oZ_(unsigned char	j1xrM63G8,char	Bynn3)
 {
 	return	-1903665739;
@@ -20,6 +21,7 @@ char    mp50692_I(unsigned int    jSa0,unsigned short int    SqSZA1m2fH)    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   unsigned char  U6YF,  S_h_;

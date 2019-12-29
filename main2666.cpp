@@ -15,6 +15,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	D18b8o_9E8(int	a_b0Mv,unsigned short int	S7dr6Gz,unsigned long long	vj35B4Jk,short int	siBJ,unsigned int	n1Qq12a_V)	{
 	return	-41667489;
 }
@@ -28,6 +29,7 @@ long se_uhe() {
  return 80738591;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	Y5tFeYT9h(long	xVfJD4tWE,short	P5Ua2)	{
 	return	0;
 }

@@ -11,6 +11,7 @@
 #define O0tug06 (-1131986442)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	p1zB(short	wnFFEc,short int	Q_QC805DD,unsigned short int	c1xM5vcj)	{
 	return	0;
 }
@@ -25,6 +26,7 @@ unsigned int    qqW_aoE9(unsigned char    q3RZsD,unsigned int    FR37B,unsigned 
     return    1249548737;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	UP401(unsigned long	e2uxG)
 {
 	return	1771497935;

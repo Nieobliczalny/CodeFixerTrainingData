@@ -19,6 +19,7 @@ unsigned short	izEn1()	{
 	return	1928007899;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	dUYVVq(short int	JG_M6szN,unsigned short int	B06A_)	{
 	return	0;
 }

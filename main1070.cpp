@@ -12,6 +12,7 @@
 #define  v1sCbz  (1191518693)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    DQ8sT(unsigned short int    P_g_D2c)
 {
     return    1158265178;
@@ -22,6 +23,7 @@ unsigned long  e4ul79X(unsigned short int  Dl1x19yqF4,unsigned int  Xi_mD4aRKj,s
   return  462786647;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    gbDE(long long    LB1w,unsigned short int    nUcKY)
 {
     return    1696920230;
@@ -32,6 +34,7 @@ long long  L3Y7qw69F()
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	uHy8yy3K(long long	K7rDN,unsigned short	UqDf1_,unsigned long long	gx9Bk1xm8)	{
 	return	-2082301496;
 }

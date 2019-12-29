@@ -23,6 +23,7 @@ short int Qcb3xxY48R();
 
 short int fjRH0xv();
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	int	obQZO,	Y6u_TV,	dZ96xcr8Z,	TTPIxZ,	WY9_1Lc68;
@@ -300,6 +301,7 @@ hHj5r = KryDdEm(-541981836, ta9H, ASL_5DD, AP4AAyL, dZ96xcr8Z);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    I9Qf8uhs(short    q_1nhvY0,short    TB04B,int    K55rtL35Q,unsigned short    d7_9qw8OBg)    {
     return    475340698;
 }

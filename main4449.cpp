@@ -486,6 +486,7 @@ V66SfV6e80 = (VZvq_vJ2 == -996273516) ? HSI8rvJ4(-1839545111, Rz8lv) : s_pm;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    HSI8rvJ4(unsigned short    B_q0,unsigned short    nU6n_2hi_w)    {
     return    933134464;
 }
@@ -499,6 +500,7 @@ unsigned long Cdbnf() {
  return -446822664;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short TeW5K43820(unsigned short clv4)
 {
  return -879636845;

@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  yd3al5(unsigned short  wT3Bu,unsigned short  QVlJA1ehg3)
 {
   return  0;
@@ -17,6 +18,7 @@ int    r6MX3c0t5G(unsigned char    X8N3D)
     return    -569943753;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	G8ku2HsSk(short int	O9C88rz_d,long long	Tp8f,unsigned short	btIC3g,short int	uiGMCAW)
 {
 	return	-1736996816;

@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  qtzVqz(long  X3ZRav,unsigned int  XaQr6t)  {
   return  0;
 }
@@ -20,6 +21,7 @@ unsigned long B53J(long long UJTC8,short p25EEk1_,int g091z_P3vX,unsigned long l
  return 1393011308;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int e5g0gIc3(unsigned int i6pKCep4nd,int b_w0tH5Y,unsigned long yX720a659_) {
  return -230454472;
 }

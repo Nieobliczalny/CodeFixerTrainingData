@@ -13,6 +13,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    RXndDO2_(unsigned short int    Ypj9RK3_5i,unsigned char    QRA9_2Q3,unsigned int    Xa_z1Gbh8q,short    HCiip6M)    {
     return    607257611;
 }

@@ -17,6 +17,7 @@ long long    X7Dny_(int    z_iri76H3,char    G9i3qN5vBE,short    tI97,unsigned l
 
 short	zWx37362kf(int	MUHoC1Kvc,unsigned short	WOj2Wh0,unsigned long long	MEOTIO_1b,unsigned long	t4s_flLN2,unsigned long long	ygBsyI7eC6);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	long long	nnG6fAF	=	632963713,	k1s9q5c_ew	=	347005668,	iTi3Y94	=	574227206,	Q3BtY6	=	926265464,	k4hG2	=	1417590321,	Hpf0dh8	=	-858028644,	MsLE	=	-493018309,	vYmKw5	=	-2041497183,	GeZ7o7U63V	=	-1389460654,	Mqlgu_wd	=	1719526289;
@@ -337,6 +338,7 @@ std::cout << "f_y2Z9" << jZ0sY(1632416613, Q3BtY6, GeZ7o7U63V, Xzm1m9, CQ_6) << 
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	jZ0sY(unsigned long	E19CiF9,long long	aMqFd,long long	Zk95,int	NlFfdU1h,short int	At9u)
 {
 	return	758134074;

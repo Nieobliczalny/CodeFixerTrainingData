@@ -19,6 +19,7 @@ int	zkDb2T5H(short	GTrS_R5y_,unsigned long	IsO0,unsigned int	ljs1xA,long	M0_8gol
 
 long    I43_(unsigned short int    S3EhR);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	int	dh27qK_J	=	0;
@@ -105,6 +106,7 @@ Pz57F211_r = (int)abs(VD27p) * 0;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	zkDb2T5H(short	GTrS_R5y_,unsigned long	IsO0,unsigned int	ljs1xA,long	M0_8golT,short int	q06_K)
 {
 	return	2060890054;

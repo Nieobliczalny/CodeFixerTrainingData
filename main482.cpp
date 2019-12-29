@@ -459,6 +459,7 @@ C7IG_36 = (int)ceil(I9_Ma);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	wH0Q74EXX(long long	R3T5u3,short	L0jbZ,short	FQ92_J246V,unsigned long	oz5msu,unsigned long long	z8TIioZ)	{
 	return	0;
 }

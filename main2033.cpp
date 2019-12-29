@@ -15,6 +15,7 @@ unsigned short ftK18() {
  return 431770133;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    E2Eh_ITyO(unsigned int    I3m0_GaWM,unsigned long    LqcSxp)    {
     return    0;
 }

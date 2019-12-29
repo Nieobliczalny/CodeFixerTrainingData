@@ -656,6 +656,7 @@ XZz4Pa9I2 = (unsigned long)(P98d);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    M5qBVzoB(char    noO2g)    {
     return    0;
 }

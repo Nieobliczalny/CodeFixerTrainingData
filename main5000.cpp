@@ -534,6 +534,7 @@ tuCF3cHDT = (int)abs(KbQB);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char PSLWQ(long jBK_5Wn86,unsigned char U4833R9Ue) {
  return -794372488;
 }

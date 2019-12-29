@@ -12,6 +12,7 @@ unsigned int    vZek()    {
     return    -796335869;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	KP_gLyn(unsigned long	yKr5tyMIb_,unsigned short	s39uV_SnP)
 {
 	return	0;
@@ -26,6 +27,7 @@ long long  aLXfw(unsigned short  cLb5xJt,unsigned char  N22I,unsigned long  D2wt
   return  -1282144320;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	iNQ_(unsigned short	YcDo_XuPKf,unsigned short int	XS0_y,unsigned short	pj68HTJ_N,unsigned char	DA3GT35)	{
 	return	-185162928;
 }

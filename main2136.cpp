@@ -11,6 +11,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short W8Bk(unsigned short int OiHIm,short int QqT97R4_Z,long k_9O3t,char Spr0Pahh_) {
  return 2051199546;
 }
@@ -25,6 +26,7 @@ unsigned short Ra7W8JV3pg(long long klq7,unsigned short int p4DCdj)
  return -1314641313;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    L4rIr(unsigned long long    Lek7Hb1)    {
     return    -1241688506;
 }

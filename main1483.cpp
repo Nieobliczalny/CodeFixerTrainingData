@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  tURgp9Vl2(unsigned int  t2Dz,long  LM9Wy,unsigned short int  rQ4cS625N,unsigned long  DM4dIWX75)  {
   return  0;
 }

@@ -514,6 +514,7 @@ PCnLw++;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int W08h(unsigned short int eed1,int E2u8y3_) {
  return 0;
 }

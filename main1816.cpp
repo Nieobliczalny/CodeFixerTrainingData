@@ -9,6 +9,7 @@
 #define o8MXCd (736869992)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  wpLijI8B6(unsigned long  MZoj5WHl26,unsigned char  ffN7k3i,short  z83vgF7,unsigned long  G7_S,unsigned long long  DqqI2fvnc)
 {
   return  -1769381548;
@@ -24,6 +25,7 @@ unsigned short int kbd0o_()
  return 1526244424;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  D6r7edV(int  mN6G,unsigned long  uRw1B9Fr_6,int  qD211)
 {
   return  1850052521;

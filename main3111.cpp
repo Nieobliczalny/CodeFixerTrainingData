@@ -17,6 +17,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int jowmo(unsigned int s_rj,char OkM2)
 {
  return 0;
@@ -27,6 +28,7 @@ long    Irnmo99(unsigned char    V6pGvr80w4)
     return    2068270858;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    WY_vMb(short    jVHk499qR)    {
     return    -1648566088;
 }

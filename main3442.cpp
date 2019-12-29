@@ -11,6 +11,7 @@
 #define v1UJCA_GAN (0)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char Ah3K(short int WRj0perKv,short int ErJ5huL1,unsigned char us9jXI6) {
  return 0;
 }
@@ -23,6 +24,7 @@ unsigned long	pQ6OJ(short	xwxtf6H5c4,unsigned long long	P8Qy90gn,unsigned long	Q
 	return	1054972903;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	ic_4(long long	W6OMrDb)
 {
 	return	-1645312784;

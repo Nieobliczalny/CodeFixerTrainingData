@@ -22,6 +22,7 @@ short int  lnUzQa()
   return  1865405805;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	unsigned char	wzjs,	AH_X,	vC8u,	X5d4u_mNR8,	ap6UvqT9b7;
 	wzjs	=	0;

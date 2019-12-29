@@ -11,6 +11,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short  vqSH(short int  oVEP2OD1Q8,unsigned long long  kz3n6)  {
   return  0;
 }

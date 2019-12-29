@@ -14,6 +14,7 @@ unsigned long long	h_s3rR6(short	vR2h5f0PY,short	Vl8jwf,unsigned long long	OjqE6
 
 unsigned long long	hsPz66zmle(char	L809,short	Y69K,unsigned short int	N9oU1_,short int	j5o03pri,int	cgf75iyQ);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     long long    on14iM;
@@ -434,6 +435,7 @@ i++;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	h_s3rR6(short	vR2h5f0PY,short	Vl8jwf,unsigned long long	OjqE639)	{
 	return	0;
 }

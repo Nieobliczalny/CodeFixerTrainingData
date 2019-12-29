@@ -13,6 +13,7 @@ unsigned long	hI8C7()
 	return	1382701817;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	mgjy(unsigned short	p8eb44t_a,unsigned int	Nk0h87,short int	OiIj3hx3Xu,unsigned short int	N2r9ki1R)	{
 	return	0;
 }

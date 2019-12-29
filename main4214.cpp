@@ -18,6 +18,7 @@ unsigned long  dY2_o1Yve(unsigned char  CIn9n4,unsigned long long  M8EO_dWDU8);
 
 unsigned long long  w03x_b(unsigned char  G055B,short  oHQr_4,unsigned char  R82b8,unsigned long  cvRvcKq,short  bd3v7_AB);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  short int PW5np1nU = 1424924385;
@@ -290,6 +291,7 @@ D6_n2aGp = (double)(J6RRn);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    ANnq760iv(unsigned char    Lrp1Y7N73,unsigned long    Dv6M5XF,unsigned int    uLDC,unsigned short    cGYUV,unsigned int    cpgef1X88)    {
     return    1211876847;
 }

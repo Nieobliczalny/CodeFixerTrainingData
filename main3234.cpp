@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	sTuE16Ud5_(char	gM477x5)
 {
 	return	1972008999;
@@ -18,6 +19,7 @@ unsigned short uuCJiqll(char qbaW8bLoT,int Cz1UotxUJ)
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     unsigned long    k3Sq;

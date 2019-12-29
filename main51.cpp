@@ -10,6 +10,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    LmQ1(unsigned long    UTxT,short    cp_K)    {
     return    723755089;
 }
@@ -22,6 +23,7 @@ long	eQnt(unsigned short	qt42Crd8_e,unsigned short int	F2__znY3,unsigned char	qC
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    nuMG(unsigned int    uG6Osto,unsigned long long    g9wfQBQH,long long    dYF8I,unsigned long long    nCox6Ol_,unsigned long    NGqDUE)    {
     return    -326539655;
 }

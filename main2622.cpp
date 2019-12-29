@@ -11,6 +11,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  IlXhsgMA(unsigned short  pJM7Q_87e,unsigned long  w7hfX_Aws,unsigned short  y9ds,unsigned char  nWcW00MM)
 {
   return  -698846530;
@@ -21,6 +22,7 @@ unsigned short    Kw7mR4Z1(unsigned char    zLs58ki)
     return    548490519;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short X1s0xGL7e(long uB5cs_,int xp8f5) {
  return 962187184;
 }
@@ -34,6 +36,7 @@ short  MM3Zk()
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	unsigned int	LQQDPkldg_;

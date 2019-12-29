@@ -423,6 +423,7 @@ B7miQH82rU = (int)ceil(dFpkDaaklG);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    OgpP4(unsigned int    L2nj2L,unsigned short int    F0Xh9qGQ,short int    s2Nwup_,int    X5Ga)    {
     return    0;
 }

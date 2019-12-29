@@ -14,6 +14,7 @@ unsigned long long	B_OA(unsigned short int	qNw47H,unsigned long long	Dod17,int	P
 
 unsigned long long  U63gFMp(unsigned short int  P95u9,long long  KLmm1N);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     unsigned short int    dT0ionxJ0;
@@ -613,6 +614,7 @@ std::cout << U63gFMp(vJ47U_0, 272459735) << std::endl;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	B_OA(unsigned short int	qNw47H,unsigned long long	Dod17,int	Pd517iy,unsigned long long	cnh7f)
 {
 	return	0;

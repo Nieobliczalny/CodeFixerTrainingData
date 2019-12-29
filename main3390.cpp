@@ -382,6 +382,7 @@ nmQ7s = (int)ceil(r4rl34Q);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	buK1f_F6(short int	LJD_9jY5u,long long	qcdU,unsigned long	ei502Pd_,short	Z5y7KCmLn,unsigned long	nj8TISF21O)	{
 	return	-885917722;
 }

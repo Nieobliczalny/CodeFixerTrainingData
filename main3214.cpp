@@ -12,6 +12,7 @@
 #define HZc3O_ (843525326)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    gtO6KaUCP(unsigned long long    XveTz3686C)
 {
     return    1137137755;
@@ -30,6 +31,7 @@ long long    zZ680()
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  D61__Qc2Y(unsigned int  Uqc85,unsigned char  dib797I,short  NC0Lz_,unsigned long long  qyb67,int  Yk9hS)
 {
   return  1680007580;

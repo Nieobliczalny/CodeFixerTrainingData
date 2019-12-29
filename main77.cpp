@@ -18,6 +18,7 @@ using std::floor;
 
 long VWj19R(unsigned short int g40a5Z,unsigned char kq1UT4ZR,unsigned char YgxB0OJ0B);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  long long gc6wf6_m, y8b152_;
@@ -155,6 +156,7 @@ gc6wf6_m = VWj19R(233446904, GLeH6sQF, ojgklC_o);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long VWj19R(unsigned short int g40a5Z,unsigned char kq1UT4ZR,unsigned char YgxB0OJ0B)
 {
  return 0;

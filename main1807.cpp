@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	Z3WGP2_Q(int	H5_MB,char	Qix9_076)
 {
 	return	0;
@@ -22,6 +23,7 @@ short int  UIQMoN()
   return  1219632937;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	nV762D(unsigned char	W_qu3Y9QlF,unsigned short	NTqK30JTs,unsigned long	X253)
 {
 	return	712087591;

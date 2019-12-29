@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char m65eZcvD0(char sbmB_a,unsigned char Edrc3,unsigned short z0O5gOP) {
  return 0;
 }
@@ -19,6 +20,7 @@ short int N_1vA0TM(short gy_u0j5,unsigned short IaSabHP6,char T_5wY0gx04) {
  return 1846169491;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    zyXE48R_3F(long long    DHDFTQ)
 {
     return    1463825681;

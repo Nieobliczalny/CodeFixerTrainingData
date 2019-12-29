@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  ESMQRso2s(unsigned long long  l5GEEu,char  z_o0T5,unsigned char  x6ydFf,unsigned long  TR3Wz,unsigned char  lT8tp3)
 {
   return  710322119;
@@ -27,6 +28,7 @@ long GrkpE()
  return -1782074076;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  Jh49s8M(char  sxNX,unsigned long  wnrrox7,unsigned int  Dc87Apo6_U)  {
   return  -1637967250;
 }

@@ -10,6 +10,7 @@
 #define R5VUp2C (1040025952)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char chH06g(char QtYfB_0,long Q9q6ayMs,unsigned short Gm5FxmD0xX,unsigned short g88V,unsigned long long uf5202sjC5) {
  return 0;
 }
@@ -27,6 +28,7 @@ short int  yU5S()  {
   return  892281711;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    mS_4I3CzXl(unsigned int    jZe_1gDB,unsigned short int    A0_j4498U,long    L6Cx)
 {
     return    -234621458;

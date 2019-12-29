@@ -646,6 +646,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    PsL0pASE(char    FfPJEqDzlA)
 {
     return    0;

@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  L2ykZ(char  H2j8IYNw,short int  jPi40Z9FD7,short  GJw8n8G,unsigned long long  ZNfhtYYUs,unsigned int  Kc846mzbeg)  {
   return  0;
 }

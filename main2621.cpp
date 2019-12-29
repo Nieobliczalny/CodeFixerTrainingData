@@ -13,6 +13,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    ZKYN2Z(unsigned short int    G8l2_,unsigned short    sTOo)
 {
     return    436770192;

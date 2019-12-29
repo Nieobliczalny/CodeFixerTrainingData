@@ -368,6 +368,7 @@ CSbV = msJf(-1219420976, vJgh285k9, D4Rpk9nF6, -1765442898);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    msJf(unsigned short int    KkwMP2C,short    Va54TM_jr,short    b5_C47m,int    focADjB)
 {
     return    -1494041643;
@@ -378,6 +379,7 @@ short    DF187(unsigned int    D6u6c,long    p5XbG4Ig,long long    fZ_0AeIFod)
     return    -822538084;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	L5v_83L(int	wbf5)	{
 	return	0;
 }

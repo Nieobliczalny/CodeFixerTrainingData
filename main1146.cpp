@@ -442,6 +442,7 @@ lYLr9E1w = OKhATie(596076475) + SDzfwo;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  OKhATie(unsigned long long  A8_jGre)  {
   return  1929024498;
 }
@@ -456,6 +457,7 @@ unsigned short int	Db2BF(unsigned short	xfSf,unsigned short int	jZA8F24Ot,unsign
 	return	-188430810;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  F_U2k6(unsigned long long  RZ9Q7KZ)
 {
   return  0;

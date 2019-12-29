@@ -11,6 +11,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int E32_e1mk8(unsigned short int p2paCJA)
 {
  return -1221361348;
@@ -21,6 +22,7 @@ int  O3RD(char  iZNU1mX1y,int  SHj55kI3P0)
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  J6v82kYd4(long  vU2Noh7YL)
 {
   return  538793516;

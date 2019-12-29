@@ -12,6 +12,7 @@
 #define  YRkXrSRPw  (0)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     unsigned long long    o16MzpfGDz    =    -1925375662;

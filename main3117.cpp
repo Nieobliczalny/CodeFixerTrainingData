@@ -16,6 +16,7 @@ short int UycGa(long long L2sjh1nm,unsigned long long X4c9P);
 
 int	i1TyH8(unsigned long long	IH88PZw);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     short    YsyN;
     YsyN    =    1679169951;
@@ -651,6 +652,7 @@ while (i < 6);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int UycGa(long long L2sjh1nm,unsigned long long X4c9P)
 {
  return 0;

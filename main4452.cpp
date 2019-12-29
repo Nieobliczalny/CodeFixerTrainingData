@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long fZRUt(short int tITdAQ14WU,unsigned short int Kyw7,unsigned char Z2It62Q,unsigned short int r4900)
 {
  return 0;
@@ -21,6 +22,7 @@ unsigned short  S__t()  {
   return  -872279803;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char uX97sXD(long long RO4P1,unsigned long long AWrqRadU_j) {
  return 1822837314;
 }

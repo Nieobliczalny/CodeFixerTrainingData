@@ -11,6 +11,7 @@ using namespace std;
 
 long long    A0O4();
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	short	YMm31oJ;

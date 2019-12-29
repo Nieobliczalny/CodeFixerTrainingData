@@ -13,6 +13,7 @@ unsigned long cNsV47w8() {
  return -1985575955;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short  b6g4E(unsigned char  c66L6dOx_,long  jAbX7FIv1)  {
   return  -1849030228;
 }

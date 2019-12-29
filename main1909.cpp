@@ -25,6 +25,7 @@ char vricWF() {
  return -986427393;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  bfQf(short  QyLQMGgy,short  H2F5_Ng,short  E37_GQ8)
 {
   return  -1918349547;

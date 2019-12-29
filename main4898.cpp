@@ -12,6 +12,7 @@
 #define v_qssBZ3Am (0)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  Mjg6C(long  nBp4,int  cl1L5qs)
 {
   return  1944247174;

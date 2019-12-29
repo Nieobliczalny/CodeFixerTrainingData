@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	v3kf_(short int	bG54TN320,unsigned char	qzgsEH,unsigned long long	z_UPGKzp_h,int	IEE79G98)
 {
 	return	0;

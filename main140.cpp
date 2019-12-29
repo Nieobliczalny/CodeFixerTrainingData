@@ -430,6 +430,7 @@ t6X2 = (long double)(Cus44oXawM + (-1566951946));
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	Fn12TAHi(long long	FX2H3,unsigned long	tIV3HRs,unsigned short int	BHCF91,int	bIzJ99)	{
 	return	390632157;
 }
@@ -443,6 +444,7 @@ unsigned int NZNSeW1o9(long long z0YWY5l6_x,char B7Ri0od,short q1To95MU,unsigned
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    kO_Ag(unsigned short int    m4e_Qsq,unsigned short    RS_t,unsigned long long    Jrb1,long long    pmibYp622e)    {
     return    -110030063;
 }

@@ -476,6 +476,7 @@ long	IfQDP()	{
 	return	-1536048032;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    wZW1(unsigned short    q2tZi7L)
 {
     return    995997556;

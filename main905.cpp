@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  VVj2ode2f(long long  p016NU121,int  mT23Ed)  {
   return  0;
 }

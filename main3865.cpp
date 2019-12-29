@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  xcac1S(unsigned short  XfHC1h,short  Ni1_)
 {
   return  -1438341687;
@@ -27,6 +28,7 @@ unsigned long long b42_r()
  return 1077627923;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    DB3XRz1Y(unsigned long long    O_tjw70c_)    {
     return    -62113053;
 }

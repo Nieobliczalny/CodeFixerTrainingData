@@ -14,6 +14,7 @@ unsigned short int	gARZI5_L2(unsigned long long	Ol25qY8708);
 
 unsigned long	P1Au(int	BPtCQKrsR);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  unsigned int h1zqi_ = -1113899086;
@@ -199,6 +200,7 @@ psT4d -= 1469511445;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	gARZI5_L2(unsigned long long	Ol25qY8708)	{
 	return	1506982055;
 }

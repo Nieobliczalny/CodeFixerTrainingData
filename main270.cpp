@@ -517,6 +517,7 @@ UCGd20SJ = BgEOPir(-262560707, yC__mVP, 1363886601, -1706699283, Yj0Fg4zU6);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short BgEOPir(unsigned long long Vr_96p,short int fxpwIY55,short GUW0MhxRS,long long kVGfW26L,long RZRhu) {
  return -2092903183;
 }

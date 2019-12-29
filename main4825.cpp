@@ -21,6 +21,7 @@ long  RG0ZpTe()
   return  -2088393733;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    jqFXG3(short int    JXAkyDPn,unsigned short    xr5A,int    LI2M,unsigned long    F51gu490TP,unsigned short int    D24BZ6H)    {
     return    500791553;
 }

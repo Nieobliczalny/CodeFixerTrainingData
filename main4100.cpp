@@ -508,6 +508,7 @@ k542s = (int)floor(CRth_Qa);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	yv44GMz(short	E0W1Hvt)	{
 	return	-1704719944;
 }

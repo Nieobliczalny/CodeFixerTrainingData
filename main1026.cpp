@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char bXi_CG(unsigned int D3ta,unsigned int ZDx9HC2Yx,unsigned long urbT,unsigned short h2gvYC)
 {
  return 0;

@@ -230,6 +230,7 @@ i++;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    np_C_8g65(unsigned int    Dbg1g9B2,short int    f7_7,int    K2pQs7c5,short    ZM1qA57wPN)
 {
     return    -748151111;

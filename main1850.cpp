@@ -12,6 +12,7 @@ long  GRQXp0pD()  {
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	x2czfw(unsigned short int	G6_Z3q7n,unsigned short int	P_5OUITp,unsigned short	ZLV9dW2J)	{
 	return	1228139468;
 }

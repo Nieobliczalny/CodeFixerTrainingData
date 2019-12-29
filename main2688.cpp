@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    bYl6907(long long    pk_WKUm6r,unsigned long long    z43jlsq,unsigned char    SaQETQmab)    {
     return    2066327500;
 }
@@ -26,6 +27,7 @@ unsigned long long  xwBEZ4Q(unsigned int  db_5,unsigned int  hpIM2AmJ5,unsigned 
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	unsigned long	o9XNgORm	=	1010312403,	AJc_2	=	-2074648256,	odHo_yvv69	=	-762084559,	z_DZ3zrZ3	=	612351203,	Ez4bVi	=	-75355738,	xK_I_His	=	739961593,	qx7v4	=	-1448942142,	e4E780ZD	=	2118733577,	AgW37BIz	=	1575426552,	J3RDKaJm5	=	2106101066,	KNX9D_xe	=	-700258315,	T4ERy	=	-1727363817,	F0q65iG4	=	1998036135,	MnzLLN	=	749776339,	u39Z8FFp	=	-1956656547,	n4dkI060Xn	=	-328603769;
   unsigned short int  Zp8T  =  0,  R7KUxis6xn  =  0,  g7_466I  =  0,  D718YW9L  =  0,  HQtvh  =  0;

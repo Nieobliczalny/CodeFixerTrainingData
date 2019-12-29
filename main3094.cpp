@@ -233,6 +233,7 @@ ZWt6 = (int)abs(sscG6v4C);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char gR90573yb(long long zRZiMpt6V,short K2WY_T3uv1,unsigned long A0OuGr7Ea,unsigned long r1zn9,long long D5VLpJ3) {
  return 0;
 }

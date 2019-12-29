@@ -556,6 +556,7 @@ unsigned int HARt_330() {
  return -1902193441;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char lXu4G(short int T4Y8,int S1QRx1)
 {
  return 0;

@@ -18,6 +18,7 @@ unsigned long long pQSgB88() {
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  F03H(long  esbFa,unsigned int  WONXMGqL,short  J_FOP3,unsigned char  lmq8P5Uxr)  {
   return  -545358386;
 }

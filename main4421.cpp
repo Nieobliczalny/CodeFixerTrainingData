@@ -213,6 +213,7 @@ std::cout << m85Z0kN3d << "zz61ez_" << ZT8xt41(V73p, f4n10IdxXz, eR1n_, -4370210
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long Xu53s0SQ(long long xY57p83W6,unsigned short Q2F73TL,short bl0ls_H,int STM8) {
  return -2128386955;
 }
@@ -225,6 +226,7 @@ unsigned short	ywlzdjh(int	dxi8o4gP9,unsigned long long	n_6t4i,short	Z_nGTNZq6,u
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char K_9h(long long V043T,char mQl_3F_)
 {
  return 211254362;

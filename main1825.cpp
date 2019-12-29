@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    De1rYt(unsigned short int    y21p5,long long    N_hhJzF,unsigned short    dy4Q5a5v,unsigned char    B_bZh2tv8)    {
     return    0;
 }
@@ -20,6 +21,7 @@ unsigned int  CqqLB6U8(unsigned short int  ep7EFU,long  sw9X,char  esSV1O2_9R,in
   return  862728124;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  p_mG9b62l_(long  oe8F6sDG,int  dPknkJ2,long long  RiZf0672,unsigned short  RFSEZ71nd)  {
   return  241094379;
 }

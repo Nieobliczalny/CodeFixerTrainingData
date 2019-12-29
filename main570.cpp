@@ -639,6 +639,7 @@ KbovQz6 = c_t3R(43223323, C4TYoJ, -301596762, A9nXCc2q, -82710683);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  c_t3R(unsigned long long  ijQF1,unsigned long  Vx8keEr,unsigned long long  YFG6,unsigned int  cJ2m3,int  Qm7y_V)
 {
   return  0;
@@ -649,6 +650,7 @@ unsigned short int C37_94_(char p8xrJI872b,unsigned short l9iRd7q,long long laM2
  return 1295012458;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    LnB0Ec4(short int    V9X9NE)
 {
     return    -362609949;

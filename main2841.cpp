@@ -436,6 +436,7 @@ IHE0TD_f = (short int)(UE8fXv6);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    WMWvE9X4(unsigned char    luy30Xt,short    D1KQy2,int    hc642,long long    wsEHbIQ,unsigned short    j2_8XZ)
 {
     return    -1607374362;

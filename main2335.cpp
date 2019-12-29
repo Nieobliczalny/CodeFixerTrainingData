@@ -12,6 +12,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  unsigned short int Fa4BO4Tj, esag41JQDC;
  Fa4BO4Tj = 0;

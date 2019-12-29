@@ -469,6 +469,7 @@ m8iqBP = (int)ceil(gItFgjB);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long Pa3E9e(unsigned short int DzL4oRM_8D,short int PBOA2M85,char Nf44)
 {
  return 0;

@@ -576,6 +576,7 @@ V9a4Bl2 = Hh92w(1941938138, -1743374785, BcgjCiX);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  Hh92w(char  K72_8,int  C_w0r4S2,unsigned short int  WJ6hE)  {
   return  370690692;
 }

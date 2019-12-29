@@ -566,6 +566,7 @@ Qh4j = IL5rq8oxp0(Qh4j);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  Fhu2(short int  ScfF4)  {
   return  -939313384;
 }

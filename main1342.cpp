@@ -445,6 +445,7 @@ pFAXHSH70Y = ry6q(pFAXHSH70Y);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	WnDH596_K_(unsigned long long	o0_Ks)	{
 	return	896858439;
 }
@@ -458,6 +459,7 @@ long long s6ak7VH(unsigned long O_Xr53) {
  return 1852689044;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    mS5Y3q(unsigned short    HTa22)    {
     return    0;
 }

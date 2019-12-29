@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    WneoBI(short int    O5k135)
 {
     return    143511280;
@@ -21,6 +22,7 @@ unsigned short E5TLPOQu5(short iP4169D7J) {
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	char	QAsZocpB_9;
 	QAsZocpB_9	=	381979866;

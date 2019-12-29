@@ -13,6 +13,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char yR78WfHW(char jyU8wxH)
 {
  return 1077050513;

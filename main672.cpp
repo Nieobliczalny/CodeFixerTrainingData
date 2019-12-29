@@ -312,6 +312,7 @@ while (j >= 0);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long T24AT_r(long long ZmcJN,char IBP2P4LIg0,unsigned short int Kk8s95Da,unsigned long MQd5b3RG20,unsigned long long sCvp)
 {
  return 0;

@@ -382,6 +382,7 @@ long long  g1l4()  {
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    Ks6Di4vn3f(unsigned char    cL_54SiS8q,short int    FVvPiW,char    D53nAZFtKc,long    RE_4gX3tB8)    {
     return    806118152;
 }

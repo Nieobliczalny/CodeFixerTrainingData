@@ -20,6 +20,7 @@ long long DU8xD5d(unsigned char y7FwMqxU1,long k533fF,long dHO1fo);
 
 long	WkbID(long	M3Yl,unsigned long	YVDj,unsigned char	tt2Cp);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	short	P2BKdOn,	bb0oD5c9AT,	xyk7,	y13XWDO,	acfTBU;
 		P2BKdOn	=	bb0oD5c9AT	=	xyk7	=	y13XWDO	=	acfTBU	=	0;
@@ -896,6 +897,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    A6LO3UQ2(int    D9iFx1)    {
     return    -1263907493;
 }
@@ -909,6 +911,7 @@ long long DU8xD5d(unsigned char y7FwMqxU1,long k533fF,long dHO1fo) {
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	WkbID(long	M3Yl,unsigned long	YVDj,unsigned char	tt2Cp)	{
 	return	2010579910;
 }

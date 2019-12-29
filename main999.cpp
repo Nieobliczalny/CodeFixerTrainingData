@@ -18,6 +18,7 @@ short qHy6x7kd(short z7Q3,unsigned long long Ou33_71,short p2rC,int lMKqq0xnJ_);
 
 int FJ5xG47lz(unsigned long II2YZ);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	long long	i967gDc;
 	i967gDc	=	-232210488;
@@ -493,6 +494,7 @@ long    o17h()    {
     return    1556775909;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short qHy6x7kd(short z7Q3,unsigned long long Ou33_71,short p2rC,int lMKqq0xnJ_) {
  return 0;
 }

@@ -13,6 +13,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    jr07Zvr0w7(short    iq42Avm,unsigned long    cO6c_,short    Uxiwf95X)    {
     return    0;
 }

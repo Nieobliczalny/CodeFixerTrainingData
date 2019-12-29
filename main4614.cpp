@@ -10,6 +10,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    wt5b(long long    Or3Ci,short int    r_QT9a,unsigned long    A9LU)
 {
     return    0;

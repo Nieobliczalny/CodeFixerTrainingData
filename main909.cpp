@@ -13,6 +13,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    FV64urV2T(unsigned short    YeyinuUR,int    dBbX9ImB,unsigned int    g44Y_)    {
     return    0;
 }

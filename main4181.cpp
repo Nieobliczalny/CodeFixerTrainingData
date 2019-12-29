@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int WDEes(int W3203Cwd,unsigned int pn6y_9z506,unsigned int EomKEr_yeP) {
  return 307589283;
 }

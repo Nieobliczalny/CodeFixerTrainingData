@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  oe48du(unsigned long long  nD66,unsigned int  A321PI,long  UTvQ2,unsigned long  e_fUc,unsigned int  ZJh8g3X0_)  {
   return  0;
 }

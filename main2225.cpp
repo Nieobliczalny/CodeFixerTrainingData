@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  gmNaZE(unsigned long long  c5wn99X,short int  P24e65dy,unsigned char  x0h1m0ZS5)
 {
   return  0;

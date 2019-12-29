@@ -8,6 +8,7 @@
 #define jL04OE_M (0)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     unsigned short int    w667l8;

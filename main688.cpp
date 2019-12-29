@@ -18,6 +18,7 @@ short int    syvLN0Q()
     return    -42870789;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	l196RJe(short	YOhzd77,short	pAkIumaV0Q)
 {
 	return	0;

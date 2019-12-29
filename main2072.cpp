@@ -16,6 +16,7 @@ unsigned short int	nlnfliU8(unsigned int	l5kmPoX);
 
 long long tK6346qS(char h2rm,short SN3n18SX2,unsigned long U_Cz7g);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     long    BCkiPwu,    T7_fUv,    lma1V,    sUuS2xK3nd,    tunSN,    M2tvb4YIY,    aKHEu,    U03DT,    h98iZI6tQK,    H8s_Zh7ir,    s6Hz7Om,    uR8NVbf,    F857,    acE23ynelk,    CCcKn54oD,    B6Cc,    CX6W2Pim,    G_SW605j,    G1CISgY65,    izgIxwq5,    cNP4,    v2qsh,    f23beL34j,    k14ODNI,    IO9Qw8,    wAN8890Pwd,    I7OvNs0,    r8s56tl,    W16h,    u5xse_B5s2,    q79Uo,    ycmu0z24YM,    a4UjkrF,    c_8JrcV2D,    W6MjfRD,    lHR2_1SSLu,    sWsexpRobQ,    bxshj,    Y3MJ_,    Vx041,    ytEl48HL,    G9P44mv,    uG6BXF30xC,    Ur0p,    lk5u3xy,    oJuqY,    MWP_,    Ic79v_CmpR,    IGWdmM,    NZEp33,    Op52mFi,    MwRL_3fh,    IwD9HyKpU,    bqEY73,    K71q0E_PR,    HxNXT,    fX37Ja,    S1k0Y3bWt,    gwGQR9hY6Y,    flrM4L_,    b_93kexj,    C8nUqb5Qur,    qkBC0T4,    Fx_F9rSm1;
     BCkiPwu    =    -1028284119;
@@ -750,6 +751,7 @@ uR8NVbf = (long)(G_SW605j);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	nlnfliU8(unsigned int	l5kmPoX)
 {
 	return	629020315;

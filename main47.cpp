@@ -1041,6 +1041,7 @@ c5S27i = d7708(c5S27i, -133718218, jCnb1);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	aem96OH0(unsigned short int	TPjHD51Ucj,unsigned char	Lztq64f6a,long long	S2iTN8PUi8,int	CEYuiS_O,unsigned char	Qedz)
 {
 	return	-1021838271;
@@ -1051,6 +1052,7 @@ short	q0y0(short	b6YWySJ1b3,int	INylI)
 	return	486914150;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	jg4XLc0y(short	ae8Fa6,unsigned char	u6aDW)	{
 	return	-1207356748;
 }

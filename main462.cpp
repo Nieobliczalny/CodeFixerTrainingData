@@ -226,6 +226,7 @@ e7MA152 = (int)abs(FYR2q_);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long gQDmfN(char t8xi)
 {
  return 0;
@@ -239,6 +240,7 @@ long Vk3R13cN(unsigned long long onWl,char a8Zs9,unsigned short int LVd63Ri7Gd) 
  return -1664651227;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	pusPvIOI(unsigned short int	B5I1z8P7K2)
 {
 	return	-666180046;

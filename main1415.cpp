@@ -16,6 +16,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	daG6o(short	J58X7QM,long long	NsX1PXX7Jj)	{
 	return	0;
 }
@@ -33,6 +34,7 @@ unsigned int bXbBE() {
  return 448917858;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	short int	BtrB3ez_2J,	m517Nc,	E4F9a,	IM7Rtk_4kD;
 		BtrB3ez_2J	=	m517Nc	=	E4F9a	=	IM7Rtk_4kD	=	0;

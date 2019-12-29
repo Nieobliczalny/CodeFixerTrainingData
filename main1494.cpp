@@ -550,6 +550,7 @@ CSYmn98 = u9UAi772(-870457753, -146955979);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	u9UAi772(char	MEuMt7,long long	ooN_)
 {
 	return	-479844168;
@@ -560,6 +561,7 @@ unsigned long long  X3xjO9wT(long  fZjJs)
   return  -401507504;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int mgnx8lb9(char VE509x,unsigned long long FWtL_i2A87,unsigned char n7ZNj2u2Z) {
  return 0;
 }

@@ -14,6 +14,7 @@ unsigned char    RcaYYby()
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short womtT(short zVFm,int ZTMZx,unsigned short ESCN6,char jr0e11HLR_,unsigned char rcz1)
 {
  return -148869310;

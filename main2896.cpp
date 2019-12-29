@@ -12,6 +12,7 @@
 #define	t8540i59j	(539473558)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     int    qD30M7s5    =    877530183;

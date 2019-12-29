@@ -11,6 +11,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short o9BqpZ(short A8_VP2n3c_,unsigned long fEzx7,long vn13,int EK09T8R)
 {
  return -1893013024;

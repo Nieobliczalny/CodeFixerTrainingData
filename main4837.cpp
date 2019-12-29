@@ -174,6 +174,7 @@ j++;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short aC86vLHM(short int DW0ZN_,short int dk8bk,unsigned long long yhO6)
 {
  return -2002622264;

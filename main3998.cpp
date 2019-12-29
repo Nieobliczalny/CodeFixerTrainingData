@@ -487,6 +487,7 @@ UxxcJ4M2 = (unsigned short int)(zcB1 + (908586736));
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int nPe4PR(short pKI0A0iR)
 {
  return 0;

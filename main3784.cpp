@@ -11,6 +11,7 @@
 #define RE_h8 (0)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    d6Mu(unsigned char    YnYDXIWwLl,short int    i9y2xu)
 {
     return    0;

@@ -11,6 +11,7 @@ using namespace std;
 
 unsigned long long	hH7mA_PC(short	J2WuD);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     unsigned long long    yc5e6ii,    e850ny,    ztL59;
     yc5e6ii    =    0;
@@ -190,6 +191,7 @@ Xe_06d9 = (int)abs(jm96);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	hH7mA_PC(short	J2WuD)	{
 	return	0;
 }

@@ -472,6 +472,7 @@ l9_lQkjeY = (char)(t66ktA9);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	frDQTJ93_(unsigned long	NBrWN,unsigned char	hTOX)	{
 	return	1696086366;
 }
@@ -484,6 +485,7 @@ char pTg_HTaTqe(unsigned long r3IgB5q9,int cT_IDI6N_0,unsigned short int fB537z0
  return -2010362818;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  T9Yc6(short  RLNO,short int  V6gL_spZdk,unsigned short int  rnHW1_W,int  La1BVk6)  {
   return  0;
 }

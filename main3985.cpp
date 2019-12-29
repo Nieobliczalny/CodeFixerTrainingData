@@ -203,6 +203,7 @@ itk0 = (short int)(FN9zcI);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  NZ90fg3YZz(unsigned int  lu5m,unsigned long  dw2U)  {
   return  -2072982732;
 }

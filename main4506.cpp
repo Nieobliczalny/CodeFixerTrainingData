@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int k40nj(long Yy0_NCG)
 {
  return 2030235794;

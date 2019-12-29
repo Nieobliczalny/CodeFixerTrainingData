@@ -13,6 +13,7 @@ short int  fa4Xw4z4z2()
   return  1223556112;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	onVMnM5J(int	De1UA1,short int	bDY314H3,unsigned long long	l_w8E,short int	YI3M5)
 {
 	return	0;

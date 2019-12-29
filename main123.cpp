@@ -438,6 +438,7 @@ ixI7 = v805ZX(rGv8w1, u3fc0Z2H_);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char qE_Vn(unsigned char h25P8,short int D2vTi3,char J0n_d9T_9,short int C3007Kt)
 {
  return 431840764;
@@ -448,6 +449,7 @@ short int v805ZX(long long MX5gI6SRgS,char EaW7BPKM)
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  iN40s(long  onkvqtl_t,long  dHO586K)
 {
   return  39448399;

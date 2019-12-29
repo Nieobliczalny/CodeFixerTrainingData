@@ -13,6 +13,7 @@ long  SXnn8_()
   return  -31789089;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    HKCTvI5HN(unsigned short    Xh5L,int    I_6m_0)    {
     return    0;
 }

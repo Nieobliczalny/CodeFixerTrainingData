@@ -18,6 +18,7 @@ unsigned char  cIOS_(unsigned char  S784CM0,long  Vk4vlqi,int  xAG7i);
 
 char  aUzD(short  F3DT);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     unsigned long long    mMZ5zct_    =    0,    vfxJYdVMKy    =    0,    s1pqj0N    =    0,    j2Yz6PO    =    0;
     unsigned long long    aX_h    =    -1283975233,    P70dO6Jy    =    1938254599,    A7MFPMv    =    466083791,    T3qNCoLG23    =    459725964,    oK6248R2hH    =    310010680,    ohWFhjAi    =    -338559511,    PtY700i    =    1882475586,    ZGSU78    =    1164708534,    H_s725    =    774528737,    vMX4L0    =    2033535054,    x7rXLtD    =    2023791063;
@@ -979,6 +980,7 @@ std::cout << "EE4TVbBa" << mMZ5zct_ << aUzD(vMX4L0) << "IwKu0_3" << "XwPr22" << 
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int DKZ39N(long long sBK9iM141,unsigned long kmkds,unsigned long x8j30O8UQ2,char Lhs1Y92_Y) {
  return 1138615255;
 }
@@ -991,6 +993,7 @@ unsigned char  cIOS_(unsigned char  S784CM0,long  Vk4vlqi,int  xAG7i)  {
   return  -576183154;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  aUzD(short  F3DT)
 {
   return  0;

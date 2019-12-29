@@ -11,6 +11,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     unsigned short    wr2Jryc_    =    1441979564;
 	unsigned short int	ES913	=	355847082;

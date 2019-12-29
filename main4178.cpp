@@ -13,6 +13,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    RZ_kYct90V(unsigned char    y_3hdN,unsigned short int    aF44dqS)    {
     return    0;
 }
@@ -26,6 +27,7 @@ unsigned int a0aj5E(long lY10u2_7d,unsigned int TrNX8QI15B,unsigned int Nd_gzFp)
  return -688768618;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	dA0YpbLG(unsigned short int	ZY_3q4,char	X1yS)	{
 	return	-458445956;
 }

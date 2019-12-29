@@ -306,6 +306,7 @@ Y91SgN0 *= 2066558528;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	R76xKNrvr(long long	v9xwg7nL_,unsigned char	SPo4b,long long	uaiTJf045c)	{
 	return	0;
 }

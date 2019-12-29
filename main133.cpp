@@ -12,6 +12,7 @@ short	s4qxzC()	{
 	return	2034914302;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    MbSS(unsigned short    ZM4MF1P75z,int    ORXFZ,unsigned char    nb90DEd8Uz)    {
     return    -1080362686;
 }
@@ -24,6 +25,7 @@ unsigned short int ownpP0PDe2() {
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    FT5Nn_31D(char    X8vQ97_h9,unsigned long    SsLHFZ89,unsigned short    dYLs266)
 {
     return    -920391024;

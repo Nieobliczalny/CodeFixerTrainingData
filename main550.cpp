@@ -11,6 +11,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  B8PE6N8W(short  st9wfb,int  S0VBB54)
 {
   return  0;
@@ -24,6 +25,7 @@ unsigned long ue9_() {
  return 912192152;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int Vjdx(unsigned char lmJ61r,unsigned char iWbP9,unsigned short r59i0WFdR)
 {
  return -1105815316;

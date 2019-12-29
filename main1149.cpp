@@ -11,6 +11,7 @@
 #define	sSmlBU4nB	(663770975)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	qk_IRb5(long long	oXrNG30H,long long	GbkSIqW,long	t_Vqagm,short	PVG8blmJ)
 {
 	return	-1957784655;
@@ -21,6 +22,7 @@ unsigned short    Gz3Nb1(char    PyXeK_3,unsigned short    o5Q0dXB)
     return    1091814500;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    Rgo4_Ddm(unsigned short int    WdbX3kM,unsigned char    TBHq,short    RlZRq,unsigned long long    Ii5eoQ)
 {
     return    0;
@@ -31,6 +33,7 @@ unsigned char	f84gmUL5(short int	N7202Q5Lo2,short int	imWx,char	RF9r9TStiw,unsig
 	return	-1569036807;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short Ze7riVOZ8(unsigned long long bTbQw0,long long hi_5lCljH,unsigned short int iZ2EAlJ9,unsigned short int u93OM0yfVe,unsigned int q4p4Bo3hGf)
 {
  return 1212119521;

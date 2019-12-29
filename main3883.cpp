@@ -14,6 +14,7 @@ using std::floor;
 
 char NNAy59(char LOi206m_E,char MlKURE,char rRXJ,unsigned char Kc3301);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	unsigned long	O1g3uJ4j	=	0,	x9by3T_x	=	0,	F5MU4nB	=	0,	D0qE9ZILRN	=	0;
   unsigned short  bifl9v_fwu  =  -1617095793,  fzviJyfb7_  =  -197725064,  Qg4i_mki_  =  1121966383,  U8f87xz  =  -1345196730,  L236A8qtgw  =  -443805997,  d8bXJqd  =  1376304425,  Td8S8ajP_  =  -495521876,  sw217p4W  =  -736405102,  GC9JP  =  -407087974,  zyruS3  =  1648302137;
@@ -413,6 +414,7 @@ while (i >= 0);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char NNAy59(char LOi206m_E,char MlKURE,char rRXJ,unsigned char Kc3301)
 {
  return 0;

@@ -137,6 +137,7 @@ while (i >= 0);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short  zxqgbq(unsigned short int  i1Y4s5x2Ri,unsigned short int  KZ89SYjT4d,unsigned long  T7ApR)
 {
   return  0;

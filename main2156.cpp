@@ -16,6 +16,7 @@ long LtIFLWrJ(unsigned long FLd5NpF,short MfNQ8,unsigned short int D805d,unsigne
 
 unsigned long sf1Cq8i(unsigned short op8M31,unsigned char tpCG1Ke2,unsigned long cp4C);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   unsigned short  DbqjRdVRs,  h_5fOo_Kp,  S9AH0B18;
   DbqjRdVRs  =  0;
@@ -476,6 +477,7 @@ S27n = (int)abs(G1uS);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long LtIFLWrJ(unsigned long FLd5NpF,short MfNQ8,unsigned short int D805d,unsigned short int lj1DzzQM,unsigned short RpP4)
 {
  return -1626838818;

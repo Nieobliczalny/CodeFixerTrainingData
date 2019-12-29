@@ -348,6 +348,7 @@ f6RBzlD = f6RBzlD ^ 1212944275;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	e_BP89(unsigned char	hzw8ORFlhr,short int	z9981rm6y)
 {
 	return	-2047266165;
@@ -358,6 +359,7 @@ unsigned int  HIfem4i(short int  bYIu,unsigned long  ezdB36iZH,unsigned short in
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	da_F_wy(unsigned int	UFitGP,int	sSE1yQ7aB4,short int	A94x_,long	vXbJ6vbBj2)	{
 	return	-1042932505;
 }

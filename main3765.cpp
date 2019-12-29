@@ -16,6 +16,7 @@ unsigned char    li_2p0YP();
 
 unsigned long long  mUoNdmk(int  RgDfZ,unsigned int  I54hX,unsigned long long  AMUU5,int  NBi7w_,unsigned short  inGT_N60);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	unsigned short int	Sb33	=	-1060545405;
  long FHjD = 1848858705;
@@ -580,6 +581,7 @@ unsigned char    li_2p0YP()
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  mUoNdmk(int  RgDfZ,unsigned int  I54hX,unsigned long long  AMUU5,int  NBi7w_,unsigned short  inGT_N60)  {
   return  1467201971;
 }

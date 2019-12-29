@@ -347,6 +347,7 @@ std::cout << INiI(1963143047) << uVa_B8 << WxO_(mal6Lj, nujy2sE1cu, H1E_H_X05) <
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    WxO_(unsigned char    T_VsJ2i,int    y_6EY0JLx,char    Fry18FUG)    {
     return    0;
 }
@@ -359,6 +360,7 @@ short int JhF2_8o() {
  return 330107300;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    WF9GvGem(long long    J_1s2,long    Kb8pq_0)    {
     return    -689829515;
 }

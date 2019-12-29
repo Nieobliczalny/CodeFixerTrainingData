@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    KjTVc(unsigned int    VXZi8C_,short int    RO_Qb,unsigned short int    j_Zv,unsigned char    GY7olKOH_2,short int    wEW0XMj)    {
     return    -1315982907;
 }
@@ -20,6 +21,7 @@ unsigned long long  TDG6()  {
   return  652212429;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  XoJ3(short int  CP02,unsigned long long  R8CkkYEYG1,unsigned short  kJxW9zw_wJ,int  a5wCo7Bh)
 {
   return  0;

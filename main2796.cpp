@@ -13,6 +13,7 @@ short int  aD90H7H()
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	R9_3IpJ5qb(unsigned short int	LLVa7F)
 {
 	return	-1758340991;

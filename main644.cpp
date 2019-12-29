@@ -16,6 +16,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char P89ns7N(unsigned int IdG9y,long long N_gxmc9,unsigned long long JLcKeHr0) {
  return 0;
 }
@@ -29,6 +30,7 @@ unsigned int	F2PRU_(short	IQqw659i,long	VXnulnMG80,short	wl4__77P,long long	U1rA
 	return	1650444669;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  L7OI177XLX(unsigned int  GY_m0UV,unsigned long long  D_k48v5,long  eyrl2,long  xfbcROr,short  q3dnWTbI97)  {
   return  -710415509;
 }

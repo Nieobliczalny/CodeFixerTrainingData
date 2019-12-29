@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    QZhfg(unsigned long long    Yt1Oa87U2N)
 {
     return    -1429474755;

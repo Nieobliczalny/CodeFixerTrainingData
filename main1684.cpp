@@ -676,6 +676,7 @@ while (j >= 0);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  V1V_ba3Z(int  R_8L1aX,long  uF0X,short int  OrX5ip,char  ky0yPk)  {
   return  0;
 }

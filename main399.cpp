@@ -15,6 +15,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long x0o9(unsigned long cfeY,long UYf2X3,int thXLA5YjYl,int vCW7RDf1U) {
  return 792409669;
 }

@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	dFfl(short	ObrM3b)	{
 	return	0;
 }
@@ -20,6 +21,7 @@ unsigned long	ViMU07BHd7(unsigned short	s0dom7Fb_G)	{
 	return	-668626924;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long OF656c(unsigned long KF6p_5U0) {
  return 45677310;
 }

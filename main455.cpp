@@ -558,6 +558,7 @@ HUEc = (unsigned long)(MfSbpLD6Ze);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long lT2W_09d(char iiZA6)
 {
  return -93530743;
@@ -571,6 +572,7 @@ short    MSA_8l7H(unsigned int    qC015Z9,unsigned short int    YWMEq8)    {
     return    -168220125;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  Z5kF8PD0(short int  o5m_1Eg,unsigned short  LmaDnz9Hu3)
 {
   return  -2114171233;

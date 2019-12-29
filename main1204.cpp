@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  x7vC(char  bonPMO9g7,char  hMf4OGo,short int  DBO_UUTg_,int  s3uNq6OA84,long  f7hI)
 {
   return  0;

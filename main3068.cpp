@@ -283,6 +283,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    OW77A2u69(int    AG_5)    {
     return    0;
 }

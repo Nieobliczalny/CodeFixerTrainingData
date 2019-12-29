@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    bImnt6WEb(long long    qKEvr45Q)
 {
     return    1450710690;

@@ -13,6 +13,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long igWND8__Pg(unsigned short int jvJU7) {
  return -654998069;
 }

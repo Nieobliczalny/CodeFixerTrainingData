@@ -334,6 +334,7 @@ sGjv >>= N_i2dWi;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  Sq612XC(char  G66hBs_0I5,short int  n31o0,char  shdASO090)  {
   return  -795439164;
 }

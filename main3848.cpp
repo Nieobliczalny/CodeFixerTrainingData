@@ -19,6 +19,7 @@ unsigned int  o87fn7i71(unsigned char  e4N8bD);
 
 short    G052FM2vu();
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     unsigned char    f0d3    =    0,    trjj0a10u1    =    0,    Hrmsy8UHvi    =    0,    g6o9Rnjx4    =    0,    j6gLl9    =    0;
@@ -270,6 +271,7 @@ gc3x86 -= 1064154593;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    H1B6Ix(unsigned char    A_v7U,unsigned long    d233Aee9r1,int    EF8h,unsigned long    WUt60Gn,unsigned long    E9Ovk9tbl)
 {
     return    1688794522;

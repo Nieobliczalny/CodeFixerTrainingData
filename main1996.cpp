@@ -720,6 +720,7 @@ OgXky = Q89Z(OgXky, -1345815330, 1951445114, 1620210102, -1891335639);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    Q89Z(unsigned char    LM65sNE,unsigned long    w0dFI4v_R,long long    DW_c57,unsigned char    DcePWC,unsigned short    MV4_)
 {
     return    906153195;
@@ -734,6 +735,7 @@ long long	O116r_(unsigned short	yk_Fm9,unsigned short int	YU5R3C,long long	cmfbA
 	return	-1801246795;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int D_m5A9MD(unsigned short int onwp4,long long gWdNQnGhO1,unsigned char RA1ZR03QN2,int E_PdfR5,char YOXs4N) {
  return 0;
 }

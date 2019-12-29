@@ -521,6 +521,7 @@ HiF4ar58++;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long W87LeJ(unsigned short U0Rcpn59,unsigned short int jur9,unsigned char pD2p) {
  return 954540328;
 }

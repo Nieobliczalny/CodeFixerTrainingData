@@ -19,6 +19,7 @@ unsigned long eAKz6(long long a3HJf,unsigned char d4_PMWHeLX);
 
 unsigned long long	J6pbwapg0(unsigned char	hCIC8g);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   long double  qlhqVq  =  1068454101;
 	short int	bm9W	=	261668665;
@@ -996,6 +997,7 @@ long long ASvZ18()
  return -1050044215;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long eAKz6(long long a3HJf,unsigned char d4_PMWHeLX)
 {
  return 0;

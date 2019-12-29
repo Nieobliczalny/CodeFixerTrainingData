@@ -13,6 +13,7 @@ long	z_Uk9Jn5()
 	return	-778030302;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char nBad3(long G3twkKGEe3,short ZzLOTC1C54,unsigned char xD8CJv_87)
 {
  return 2024203451;

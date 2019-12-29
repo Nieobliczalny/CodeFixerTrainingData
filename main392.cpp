@@ -372,6 +372,7 @@ Jh2vb = WUBVf34V(Jh2vb);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	jIFkWY_(unsigned short int	v1l4XE)	{
 	return	-1946500840;
 }
@@ -386,6 +387,7 @@ int    WUBVf34V(int    MU6yu04am)
     return    -5465272;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	BLr5W5Iw(int	X76jh5CRr,long long	G5g_YNbZ,unsigned int	p_NU5N16XE,long long	YN9eB61ti,short	Ak5ga)	{
 	return	0;
 }

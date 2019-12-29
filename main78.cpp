@@ -519,6 +519,7 @@ short int U6sU0K()
  return 1983950913;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	p95c1Fgy(unsigned short int	CS1B2,long long	jJV8NU,long	UHGfOa,unsigned short int	uRYdQDIUAk,char	kOUT1S5fG)
 {
 	return	0;

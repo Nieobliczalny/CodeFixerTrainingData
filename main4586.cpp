@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long oh_f(unsigned long vtF2M_dL1,unsigned short nby8hpA,unsigned int x82r9,unsigned int KQRj7,unsigned int X1_7Xg21DT) {
  return 0;
 }

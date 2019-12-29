@@ -205,6 +205,7 @@ tCgkw1O = (int)ceil(bDH__);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  pJyZ3kh3Bm(unsigned char  yNC23D9325)
 {
   return  685334004;

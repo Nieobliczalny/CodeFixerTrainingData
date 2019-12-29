@@ -8,6 +8,7 @@
 #define OO9lVt (0)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short ld67nhioE(short B5cO6364K,char d9___Ez,unsigned long a6Ke1L9Z7,long long r3l697,long YXpb0Te0) {
  return 0;
 }
@@ -21,6 +22,7 @@ short    HRich6k8(char    WVEPSTx6cU,unsigned short int    rF1_A_R__0,unsigned l
     return    -352198743;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    cW77eU(int    f29s,unsigned long    eAtoZX)    {
     return    234536769;
 }

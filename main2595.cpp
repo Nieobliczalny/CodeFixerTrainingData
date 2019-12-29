@@ -11,6 +11,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	fEL0y(unsigned int	GFpHHllux,short	B3OGc,int	m9Yf_bf)	{
 	return	-1700149208;
 }
@@ -23,6 +24,7 @@ unsigned short	pypqhSle(unsigned long long	i_1_,char	Ae0JOny,unsigned short int	
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char SF85cS8qbY(unsigned char oMWrU1M,short djGb4_RO,unsigned short kzd2_wId3y,short int HdQ5) {
  return -1233075322;
 }

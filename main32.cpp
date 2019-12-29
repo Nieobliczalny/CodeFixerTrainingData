@@ -519,6 +519,7 @@ o0S_9N34S = (int)ceil(U8CPw);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short lhd63p5N8(long long TITTtF1bw,unsigned long long gT_jNN,unsigned int JNjUest,unsigned int DgC4t_E) {
  return 0;
 }

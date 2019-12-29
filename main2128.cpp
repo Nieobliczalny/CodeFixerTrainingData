@@ -14,6 +14,7 @@ using std::floor;
 
 char  R6w8(short int  QQxjD56,unsigned short int  XzU4);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  short int nctX = -1526203588;
@@ -622,6 +623,7 @@ W4iCT2w_ = (int)floor(wpw7);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  R6w8(short int  QQxjD56,unsigned short int  XzU4)
 {
   return  0;

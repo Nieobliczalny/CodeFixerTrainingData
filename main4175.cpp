@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	e62zN(unsigned short	yqAIuYpPGM,short	PFxYWt,unsigned long long	wfbBH)
 {
 	return	2006113754;

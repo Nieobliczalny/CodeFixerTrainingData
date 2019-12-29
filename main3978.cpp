@@ -16,6 +16,7 @@ unsigned short    TtG3(unsigned long long    fv_79Jv8Dn,char    qTi_f1);
 
 short int  WoO57x(unsigned int  Ms7xuh9Z,long  g71h,long  vNoJ3,char  FdRk153t_1);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     long long    dSle4fuVj_    =    -14941503;
@@ -267,6 +268,7 @@ tF75J06V = TtG3(tF75J06V, cQXb);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    TtG3(unsigned long long    fv_79Jv8Dn,char    qTi_f1)    {
     return    0;
 }

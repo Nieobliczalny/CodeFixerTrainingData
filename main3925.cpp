@@ -14,6 +14,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	n8_Jh8I4AK(long long	ki0j_5h_,short	F652_9Lb,short	Yo2t)
 {
 	return	0;

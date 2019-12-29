@@ -14,6 +14,7 @@ char	Mbim(long	JK3cOi,long long	KP734n);
 
 long  JgM87z(int  fI89QbU_q,unsigned short  qaqYZfPe);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	unsigned int	BV01mFO3	=	2146325286;
@@ -569,6 +570,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short  cBsyTd72d_(long  CS5F0Vt5g,unsigned short  yXfXr,unsigned long long  DEd9)
 {
   return  0;
@@ -579,6 +581,7 @@ char	Mbim(long	JK3cOi,long long	KP734n)
 	return	-1351306872;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  JgM87z(int  fI89QbU_q,unsigned short  qaqYZfPe)  {
   return  -1827238421;
 }

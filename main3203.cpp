@@ -63,6 +63,7 @@ oVE940 = -1120227162 / G6MdWP_B;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int r1CQR_dpub(unsigned char O9xC6JuuG,unsigned short tG7_L8UJ7,unsigned int c4z09,long g0Cqg)
 {
  return 1464023273;
@@ -77,6 +78,7 @@ long	L3jT()	{
 	return	538060715;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  DAV1_(unsigned long long  y52xO,unsigned long  Trb5U0)  {
   return  0;
 }

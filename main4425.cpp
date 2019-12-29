@@ -756,6 +756,7 @@ u2LBsI71ZN = (float)(P6L71n_648);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	ZRJPR__5Vo(unsigned long	W5em8VYcU6,short	SSl_B,short int	B9CcJw1,unsigned short	sCqey9_)	{
 	return	0;
 }

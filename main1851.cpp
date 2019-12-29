@@ -16,6 +16,7 @@ short int    o7E5GT6We();
 
 int    Q8b4g1d(unsigned char    Kx4YkZ34f);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   long double  GG7SdV_6;
   GG7SdV_6  =  871305102;
@@ -318,6 +319,7 @@ short int    o7E5GT6We()    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    Q8b4g1d(unsigned char    Kx4YkZ34f)
 {
     return    -1692267495;

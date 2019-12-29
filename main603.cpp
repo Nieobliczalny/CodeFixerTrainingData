@@ -20,6 +20,7 @@ unsigned long long	ohWbum(unsigned long	lu9b3vl6Th,unsigned long	V0dZMKK0,unsign
 
 unsigned long long    ts_0th(char    Rw6ime,unsigned short int    JIq5O,long    i22Xc,long long    q0u5j5B);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	unsigned short	bHQjGd_Bj,	Rx0i0x_H,	w4J3N8,	J7T0h8k8,	ed0YX,	tNrqAJYs8s,	tV8ZH2,	NC_Mm9M,	TT5U_uzR,	z9HIEcr8B,	pz6_SPAy,	nx_U1,	goiEVMS2v,	Aj35qMy,	Ju4_1p,	AuB0y0,	HzqA,	Ey72,	Xk5h2MM,	M23s4Z,	ZBpW0,	cv_81u,	G08uNzx97,	R1P6,	ZvP8Vjg,	bymbh,	pD9IZP3,	s2575,	uNpo56R,	fsmjJ,	maj1B1y_M,	W_F7D_,	HC2z5hjL_3,	G7Qy,	IQ_w,	WDx9v,	ajnz,	eezB13,	y_aQfe1,	t62Gug,	G83A,	W8_hI,	L5DzH1ADL,	WFv3oMQa,	j95l_p,	kDsH5Nkq1,	McAeR,	K77d,	gSEGH,	Dtjb_us7,	l77HIyG_z,	Ew0e5Q_M,	nYmd8N,	Q9__H,	QVb9U,	s_97_Crhy,	a5z8eJW3J7,	RsN2_,	Q0h7e62jb,	FlQm501Z,	p04nX,	C_rnY,	J_3W9,	KZo0XK81,	CE9U,	rKz39,	jq2XT,	SBJWcB0,	Z8pfvga,	Vj7y,	B4N9,	p9y6lp7,	wG1_wfxVe,	wdJg8_jpR,	QbDk6x5,	Xb2Y,	a32E1Nq5m,	Q6r6WgXaL,	f43Y9,	K77J,	o72CUw7U8w,	Reuu30xA,	zsZUx05,	wj10Z,	gYSSLV3la,	x0z_64mx;
@@ -446,6 +447,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  nX6w(short int  W5eN7D,int  VFtnvEci4,int  HSPN00,long  q_z6)  {
   return  1584557616;
 }
@@ -459,6 +461,7 @@ unsigned long long	ohWbum(unsigned long	lu9b3vl6Th,unsigned long	V0dZMKK0,unsign
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    ts_0th(char    Rw6ime,unsigned short int    JIq5O,long    i22Xc,long long    q0u5j5B)
 {
     return    -1354439489;

@@ -719,6 +719,7 @@ y922b00 = (int)abs(N7Fo);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	S7Gekyl_3(unsigned int	BKdVa2,long	HDdv6,unsigned short int	L8J2,unsigned short int	dx40f9,long	jTtsWSUv)
 {
 	return	1539874426;

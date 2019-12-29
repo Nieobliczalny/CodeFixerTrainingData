@@ -10,6 +10,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    HIacPu(long    t8b4kNFj,unsigned short    aIV_h,int    AHpwax_1Q,unsigned char    UNlHB)    {
     return    -1343070843;
 }
@@ -23,6 +24,7 @@ long H9PV_t3_() {
  return 1565695305;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	kV1_uf08(unsigned short int	H7oQ,unsigned short	wM32Vz96i,unsigned short	EWIHm2,unsigned int	nQztqR8,unsigned long	dbO4)
 {
 	return	0;

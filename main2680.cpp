@@ -16,6 +16,7 @@ long long t0DYVr() {
  return -418081696;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  lwNkug09u_(short int  iMu6tLpmyG,unsigned int  K2yv6)  {
   return  1029960295;
 }

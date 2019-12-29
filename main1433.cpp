@@ -12,6 +12,7 @@ short int l_ti(short int UF05RZae);
 
 short	TxSV_(int	hBXAp8bU9o,int	sP636V,short int	z2sc57);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	unsigned short int	ISh_n51,	tckwTjm6,	K2dS947VT,	AZehlQS,	Ew5d2ln53,	O86BJlZ9z,	c3uM6T,	n5C7FM,	nI_rc7,	dxc6c0N2,	oMYAD0fU,	U4z_d4E86,	NTA38;
 	ISh_n51	=	1082149929;
@@ -368,6 +369,7 @@ U4z_d4E86 -= 2133983959;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int l_ti(short int UF05RZae)
 {
  return 1410340385;

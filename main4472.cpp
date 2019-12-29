@@ -621,6 +621,7 @@ l_y7_je = (char)(bp06B1TS);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short srS4(unsigned short DHxhpmnh,unsigned short int r_MUtC,unsigned short int EyIZ37K,unsigned short int f_Gz1A91ac,int Mlv7mQnoM) {
  return -2043011573;
 }

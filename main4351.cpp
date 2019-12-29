@@ -12,6 +12,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  ll5Fbj(char  CUvH_Im6,unsigned long long  t2xn4S_,int  xR9M212_5,unsigned int  vfklx4_1M)
 {
   return  389027288;

@@ -11,6 +11,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    ZMTd_x_(unsigned long    DhWR0eh,short int    Vt84T,char    I70PdnA4)
 {
     return    0;

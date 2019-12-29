@@ -13,6 +13,7 @@ long long	zfV2Sd9VP9(char	M4i83r84,unsigned short int	yv2PtIHkaf,unsigned long	v
 
 unsigned short	Ql34c03p(unsigned long	JaM_3zS11w,unsigned char	X6MxO,unsigned short	iwTM2);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   long double  i0H0LLg73  =  1497130394;
   long  E__1lMQK8c  =  2101704980;
@@ -256,6 +257,7 @@ lf_vLu = (unsigned short int)(iS4BQe1 + (-222828361));
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	zfV2Sd9VP9(char	M4i83r84,unsigned short int	yv2PtIHkaf,unsigned long	v6Viwtu,short	OE3v)	{
 	return	0;
 }

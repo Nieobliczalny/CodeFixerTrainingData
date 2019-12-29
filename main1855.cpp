@@ -534,6 +534,7 @@ Q555_ = sVkc4QUE(z8yxW1qnV);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    sVkc4QUE(unsigned short int    jMOxI)
 {
     return    0;

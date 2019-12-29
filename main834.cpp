@@ -542,6 +542,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short i870k6C43g(int bUPWZ,int itZi,unsigned char bTwdhe0,unsigned char Qfkz)
 {
  return 1720954931;

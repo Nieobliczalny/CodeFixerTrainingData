@@ -531,6 +531,7 @@ Zd7446V = (unsigned short)(f0ahFAge1G);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	ob3SZ5CUNh(short	NPU03esP,int	dfvTYP66z7,unsigned long	JX25)	{
 	return	79949544;
 }

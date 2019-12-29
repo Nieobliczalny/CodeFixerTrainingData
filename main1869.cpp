@@ -289,6 +289,7 @@ std::cout << BeMR(-573125181, -1060436050, -866250630) << h24TaWI215 << Zb3W1AM0
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    TF506rB1Lc(unsigned char    wr4ny4J,int    wO_tvXT,char    ql347M,long long    Q4yMT6,char    Oi6Ah_X2)    {
     return    -515752858;
 }

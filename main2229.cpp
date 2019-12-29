@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long IAWk_5ky4(unsigned short Ix8chU,unsigned int iX19R_)
 {
  return -285524162;

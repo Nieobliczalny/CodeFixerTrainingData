@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    K5bg5K(long long    U7Pm90uN,int    G7979b)    {
     return    0;
 }

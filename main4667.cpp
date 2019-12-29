@@ -10,6 +10,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  gcx5(short  eO9465lxO,unsigned int  h98D_9N,short  qou7Bf2_,char  QS8UTV4NRH,short int  V9Y5uPUJDZ)
 {
   return  1209279049;
@@ -24,6 +25,7 @@ unsigned long    fe7eD()    {
     return    -1995432585;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int YRJSI(short int iW_gH6d,long long X017NT,unsigned int nt8tM) {
  return -703079755;
 }

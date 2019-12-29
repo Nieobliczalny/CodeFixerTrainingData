@@ -15,6 +15,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    JOy5(int    Toq58U84wD,unsigned int    sTw78,unsigned long    fG8ge3,unsigned int    w1pL)
 {
     return    0;

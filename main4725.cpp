@@ -226,6 +226,7 @@ std::cout << EP_85 << S37pTS(-1727511221, kl77ihaC9d, -220127719, m55t5af8, 2242
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	LNxL(unsigned long	rPHME1c)	{
 	return	0;
 }
@@ -238,6 +239,7 @@ unsigned int    S37pTS(int    a7_8o,int    ea8eD7,long long    OlNr,short int   
     return    572320201;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    tEb_Qvlt7(unsigned long long    tTZA,char    LK6_Xf6W,short    IQqUTT3ZE8,unsigned short    YLisD,unsigned short int    Cyx4g_)    {
     return    1548562607;
 }

@@ -458,6 +458,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short z79g7q(short GnCjBJ0ss0,unsigned long hxlpjr44V) {
  return 0;
 }

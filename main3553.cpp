@@ -13,6 +13,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    ljC68B(long long    hZkav4mWc,unsigned long long    Ry803a,unsigned long    j_ijzec)    {
     return    -263931585;
 }
@@ -25,6 +26,7 @@ unsigned short    C6P4fT(long    S0i9iJAj)    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  short int J064_kc73 = 0;

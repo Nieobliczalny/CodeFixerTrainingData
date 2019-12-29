@@ -10,6 +10,7 @@ using namespace std;
 
 int	fvF98skzMR(int	vG93,unsigned long long	bWm_qdzhI,long	UfWkr0,short int	cAkI4Bc);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     long long    CcZwl    =    0,    K93cc5    =    0;
@@ -369,6 +370,7 @@ Sxn7P9C1q = mwIa * 909590037;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	fvF98skzMR(int	vG93,unsigned long long	bWm_qdzhI,long	UfWkr0,short int	cAkI4Bc)
 {
 	return	0;

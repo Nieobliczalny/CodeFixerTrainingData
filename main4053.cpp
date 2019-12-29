@@ -170,6 +170,7 @@ Sk0x70zF = jxX_71cJPN >> fm08FadIm;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int UfPEYeQ7L(char SF91) {
  return 0;
 }
@@ -184,6 +185,7 @@ unsigned char YkhoT2(long HYRXvYmJG,short int Fk_u_JzA_)
  return 98632464;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    B0z04KQ(int    ZU_CY2)    {
     return    -1253307507;
 }

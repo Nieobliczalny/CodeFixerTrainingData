@@ -9,6 +9,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	E3Syl(short int	Di43La4_,long	MJzW,unsigned short int	kLEcBU108X,unsigned short int	BTKh0m2P,unsigned short	avDJvAle)	{
 	return	0;
 }

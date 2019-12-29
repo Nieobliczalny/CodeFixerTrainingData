@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  dB41(long long  WzS93,unsigned long  vIYBnd7np,unsigned long  RYA9q0Ua,char  sy3O_Z0)
 {
   return  1277574848;
@@ -22,6 +23,7 @@ unsigned long  RWJR()
   return  123111437;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    eba6Y0(long    e6X_M6_T3,short int    mQOE2,unsigned long    v7QbhI,unsigned short    CMjn5Rcy)    {
     return    0;
 }

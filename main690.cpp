@@ -8,6 +8,7 @@
 #define	r4lBKi8f6L	(0)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    Lr3k1Jm1np(int    qi5FahJjz)    {
     return    -810032613;
 }
@@ -25,6 +26,7 @@ unsigned short  G05g()
   return  -1722833075;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int SbaSHnD3V(int hKg1,long long OLZUT,short int VSA8,unsigned char HN70,unsigned short M8568f) {
  return 0;
 }

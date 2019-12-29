@@ -19,6 +19,7 @@ short int wXG1(unsigned long AVy829g9O,unsigned short int jI9E5_G);
 
 unsigned short int  P15b9(char  bTyBlK,unsigned char  f4lK5pk7_5);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	unsigned short int	y86j9ZRrlK;
 	y86j9ZRrlK	=	-1222244164;
@@ -336,6 +337,7 @@ lW33F7_5 = uO32(-2048650283, B4qQyrE7X, zn8jmgVo);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    uO32(long long    zN11_cbOA,short int    RXPI,unsigned short    W69yk4d)    {
     return    -1318404700;
 }

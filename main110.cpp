@@ -262,6 +262,7 @@ while (i < 8);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    J7Es7gtW7(long long    p0M0BZ9v,unsigned char    faJ7)
 {
     return    -2003312630;
@@ -275,6 +276,7 @@ unsigned short int    Qm8R3AW_0H()    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  PPwxL(short int  d2FtkEw)  {
   return  -1193956824;
 }

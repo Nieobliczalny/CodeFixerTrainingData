@@ -12,6 +12,7 @@ unsigned short    sdm9KsK2()    {
     return    -1667640330;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char BT5pfaXfY(long long J6mXo1XV,unsigned long long u17be77)
 {
  return 0;

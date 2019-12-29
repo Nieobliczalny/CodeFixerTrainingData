@@ -533,6 +533,7 @@ std::cout << BLMFD_QC(s72_90g, -887740564, 404651124, 349112608, g6cdECn) << std
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    UxKvc9L(unsigned long    yN6tZ7ni,unsigned char    E526,unsigned char    F2cnzQu3)
 {
     return    0;
@@ -543,6 +544,7 @@ unsigned char    BLMFD_QC(unsigned long long    ip6Glr,unsigned char    z6qYSpv8
     return    -951249034;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	coWx(char	OPo2Kt_3lL,unsigned short int	p71R,char	m9HBK572)	{
 	return	-1604398683;
 }

@@ -382,6 +382,7 @@ H546twn = (int)abs(O2lt52);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    noKw(int    QzTI,short int    i2__DtlTo)    {
     return    0;
 }

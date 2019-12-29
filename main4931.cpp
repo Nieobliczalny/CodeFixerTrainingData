@@ -11,6 +11,7 @@
 #define	KZa6HzbN_7	(1694431306)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int tH2T(short int S02b04FQu,char fr4q_t)
 {
  return 0;

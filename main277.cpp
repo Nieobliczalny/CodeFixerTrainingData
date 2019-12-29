@@ -310,6 +310,7 @@ short    Hy4F1x8f()    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	VC_1(unsigned char	lh18PzN2C,unsigned long long	qo7ZR4Kyx,unsigned long	cBI0byO7e0)	{
 	return	194010945;
 }

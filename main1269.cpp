@@ -337,6 +337,7 @@ G85MnUpp = u1M_o7WK(786735498, Foy5, SwBw8N6r23, 1791084241, -1280565129);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  u1M_o7WK(long  yg1bqmi,unsigned long long  O8gBUW0qz5,unsigned long long  oFzP4M,unsigned long  T7O9FI,short  TmT_Uh)
 {
   return  -322376247;
@@ -347,6 +348,7 @@ long	eVQO8_(unsigned long	MNpe,short	nqD7_N)
 	return	1032789979;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    gW2r(unsigned short int    GA_Vwm,unsigned short int    q0tYc_fi)    {
     return    0;
 }

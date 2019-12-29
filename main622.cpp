@@ -144,6 +144,7 @@ LP9L_U96L = DRzKH4u(-1476505455, xWs7U27, 1507301833, -677680101);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	DRzKH4u(unsigned short int	m4Poy3,unsigned char	C2m1,long long	x__p,unsigned short	W8g6f2)	{
 	return	1323521633;
 }

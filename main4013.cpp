@@ -13,6 +13,7 @@ int    HpQ_13F()
     return    11006190;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int LzVWLr4X4(unsigned int B1x2,long long gIxDy,unsigned short int Rp89Tc,unsigned long long JZU9W6) {
  return 1961034694;
 }

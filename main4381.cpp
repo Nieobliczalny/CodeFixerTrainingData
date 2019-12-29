@@ -15,6 +15,7 @@ int    bhh6()    {
     return    -1297458434;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	MLUT5jzN5(unsigned int	qv4CM9666,unsigned long long	vhbYW93,char	I395,unsigned short int	ZQ294)
 {
 	return	0;

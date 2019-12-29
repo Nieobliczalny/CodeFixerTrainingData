@@ -11,6 +11,7 @@
 #define    llX7    (0)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long S1GyEC7t(unsigned short AWU1t1TGA,unsigned long long NzKvF7G) {
  return -657783741;
 }
@@ -24,6 +25,7 @@ int	baw4(long long	l08I)	{
 	return	606625655;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long D6z282(long W7gHsiWJ,unsigned short int MQq01L9xV,unsigned char QG3Ob,unsigned short tIyK,char EQ68JY6)
 {
  return -405296795;

@@ -16,6 +16,7 @@ unsigned char  W44rwd(long  VHZCFX,int  WQe0KGXA_y,long long  j_65G);
 
 short int N6EX7jEa0(long dZc34v,short int cD5b2);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	float	g15QJkzR,	U7Uot5179,	p_mrP0cHp,	aUC1kxzs8L,	gEbq,	vJ6tVX4MzZ,	QJ_iiORrG,	qJ_LBdYi,	pLcS,	dG2Egy1,	iLoK6Hi5i0,	Tv6232B,	h9nmU,	E_3Qt,	rim1XrlW,	LfQR,	O05MZrxrR,	Y7u25Ri1iL,	H5N4,	N8v2yoB,	BKYkv,	Zzd57IP,	wC00R_0,	w82Dlf_6wv,	lMchSfW,	zKl5,	kEurn8Y,	mG22h2t_b1,	leqIVEKi,	B5j9i2Nqs,	yk6L_,	vbp_uy9lF0,	M6_m9u3Zi,	K003xU_,	oT0l16YU,	B9Pa,	P5C8tP76,	yd9nHPo1R,	d2TH,	xdKxO,	r51XPMjii,	G65nm0m,	Q4Y7JS_6Lb,	gIY_tap,	ANx7,	Sw5v4g2I,	HCivu_x,	TKzSRiLd6,	l07zK93vbq,	G29W,	U5n5,	J_Ze0eN_1,	tKfnLh,	ApTIit1,	l_w3A_5,	a_X7_1A3,	sEFd6,	BM_H_T8_1,	kU1TE808rg,	qsk_Tn5,	A_yV8n_w2,	KDp8e,	yzl3P_e02,	IRSjb,	Lv4lK1D,	HSCG,	g78B1MnA,	Tk55S6oui,	Kb9LwW,	Ndoko61CTa,	g_RrNQ,	wW27ug27,	an13NQ6uJa,	R8C92,	RF16t6UsT,	DizEetNF,	FTvR_h_uX,	a00VF,	x449aX,	H1D_7_,	VI17lGnG,	t_37X2MB9,	nE_t6l1,	Vi__,	rx_9nkM_3u,	qo75,	xKcSpJSh,	Dt776hiI,	UGAG,	XsI8,	Bd1CeUp2,	qk7k8SX,	mY_t90D;
@@ -510,6 +511,7 @@ std::cout << CWhHXvlw(l07zK93vbq, kEurn8Y) << kEurn8Y << vJ6tVX4MzZ << std::endl
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	CWhHXvlw(unsigned int	m89c,short	Fi5SMwA4)
 {
 	return	0;
@@ -520,6 +522,7 @@ unsigned long VL76xtb(unsigned short int xCrM488D0,long long IKyCvAw,long long N
  return 2103929984;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  W44rwd(long  VHZCFX,int  WQe0KGXA_y,long long  j_65G)
 {
   return  2027085211;

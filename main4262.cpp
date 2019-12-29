@@ -245,6 +245,7 @@ IKF7s37E4 = (int)abs(YmR1c);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    hxl_i5v7r4(unsigned short    Ng61a7I,short    BM69q_9,long    w8gD0z6IA5,long    aO8n,unsigned char    wO3Lg)
 {
     return    113361044;
@@ -255,6 +256,7 @@ unsigned short int	EOdp(long long	mkROyE3,unsigned long	ofPx41E7Ai,unsigned shor
 	return	424238570;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  ZXd7(unsigned char  H5r9nBLi,short int  Uk8N3T3)
 {
   return  -970851779;

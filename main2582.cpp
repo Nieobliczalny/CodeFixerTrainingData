@@ -797,6 +797,7 @@ long long  PMV2h()
   return  -1818405836;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    H8i_l(long    cU_3n4,unsigned char    Xcc1LH9,unsigned short    HhZaU0F9cb,unsigned char    M5SyAf88E,unsigned char    GrvCe)    {
     return    1767449010;
 }

@@ -9,6 +9,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long K65c8L1u0(char i9y49,unsigned long long q_PcV6o,unsigned char oB_P8G3lf,long FvSP)
 {
  return 0;

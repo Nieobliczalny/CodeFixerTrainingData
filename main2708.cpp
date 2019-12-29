@@ -17,6 +17,7 @@ unsigned long long KN9z(char oc8Oss2Cl,short Kb_Z424ii,unsigned short int Jkj7T,
 
 long	ZP9z_(unsigned char	ZV3l1sGUm);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  unsigned long long uZB13;
@@ -430,6 +431,7 @@ while (j >= 0);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short Pwmv(unsigned long chg60S6b7,unsigned int q_38cMjN,long long lj__,long Ci_2J7Zqw,short int xOQrDF2O) {
  return -4033884;
 }
@@ -443,6 +445,7 @@ short int  G0b6I()  {
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long KN9z(char oc8Oss2Cl,short Kb_Z424ii,unsigned short int Jkj7T,long dyyN)
 {
  return -78852856;

@@ -12,6 +12,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  RZKT_Fb(unsigned short int  I0iwgM6s7,char  v466cjdj6,short  f084a9__)
 {
   return  -1110135519;

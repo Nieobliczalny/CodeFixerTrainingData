@@ -8,6 +8,7 @@
 #define	e_4O99	(0)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  oZzb_(short  kCwC10_zy,long long  UxBO,short int  M33npLzY,long  Y15Qit16F,unsigned char  rWJ7)
 {
   return  523930858;
@@ -23,6 +24,7 @@ int UV7M47t43v()
  return -975340079;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	tS4W(unsigned long	gS2n8034y,unsigned short int	R24guv,char	FUC36v_51E)
 {
 	return	-731797742;

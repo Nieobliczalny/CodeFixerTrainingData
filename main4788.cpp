@@ -13,6 +13,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    cw_Js(long    Cbh48SDh)
 {
     return    1892421538;
@@ -23,6 +24,7 @@ unsigned long    CfIJrxt()
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	P6BBN_Q_XE(int	pd46kUC4v)	{
 	return	1644658086;
 }

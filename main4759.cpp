@@ -17,6 +17,7 @@ unsigned long long	Pvpgc(unsigned long long	K4hap,unsigned long	Zs3Nc5_,long	uc1
 
 int    zdc7K95(long long    Pl09hC9_u_);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  unsigned short int kPka7;
@@ -278,6 +279,7 @@ while (j < 4);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	Pvpgc(unsigned long long	K4hap,unsigned long	Zs3Nc5_,long	uc169FiJ)
 {
 	return	946382655;

@@ -694,6 +694,7 @@ std::cout << bLpV(J267DP, 866189528) << "yh34g" << RGvSJi << Yn5jY_41WU(-2036587
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	Yn5jY_41WU(char	S3Xa9_e5K1,short	UNt759IqH,unsigned short	tgk9L6,char	J0680g4g1B,short int	G75YB7Xb8)	{
 	return	476836278;
 }
@@ -706,6 +707,7 @@ long	YHF2(unsigned long	t76_3_M2T,unsigned int	nvLv7sW)	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long bLpV(unsigned short int Dypblds81j,long long LN4uHpcjO) {
  return -397107448;
 }

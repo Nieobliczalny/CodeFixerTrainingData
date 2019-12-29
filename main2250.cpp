@@ -12,6 +12,7 @@
 #define  Bn5s  (-1567880942)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     long long    H3W0F0QZS    =    1385852695;

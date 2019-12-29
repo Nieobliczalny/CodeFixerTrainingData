@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  BDFIG(short  PC1Z4Y_fzO,unsigned long  w7sdou,long  k3QW,unsigned short  h_97Ho3wK)
 {
   return  0;

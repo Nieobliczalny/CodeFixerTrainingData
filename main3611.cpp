@@ -362,6 +362,7 @@ I5S_19N = OD6h / kl8lhgWz;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	TT5V5Q2Qk(unsigned short int	a0v_Ek0,char	eE7LfOwXo4,short	RR9g22,unsigned long	BhlO8,long	VkB83)	{
 	return	1430349379;
 }

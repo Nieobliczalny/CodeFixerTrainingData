@@ -14,6 +14,7 @@ using namespace std;
 
 int  LiIayeh9h(unsigned short int  kE2DP0);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     unsigned char    Iw8cz;
     Iw8cz    =    -827000795;
@@ -604,6 +605,7 @@ G72Q6v8 = (char)(e2yO7_qzZ);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  LiIayeh9h(unsigned short int  kE2DP0)  {
   return  0;
 }

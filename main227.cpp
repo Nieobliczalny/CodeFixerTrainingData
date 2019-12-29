@@ -331,6 +331,7 @@ if (mllo_W77 == 0)
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char DS7V5A(long long fvY8,unsigned long fptc,unsigned short F_N16FmG)
 {
  return 1642172504;

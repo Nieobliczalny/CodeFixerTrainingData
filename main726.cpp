@@ -481,6 +481,7 @@ unsigned short	Sr48g()	{
 	return	180919934;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	b8_qU(unsigned short int	p_u9A4SVH)
 {
 	return	-1447982516;

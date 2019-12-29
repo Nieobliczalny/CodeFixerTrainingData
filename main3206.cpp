@@ -304,6 +304,7 @@ PzG4JOxA = (long long)(cb7y);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    Fv8f5LCL(unsigned long    Cma_Ff3R,unsigned short int    Wv7e_,unsigned char    gQ0n_15F,long    zt89QFajNr,long long    G9h4V36XX)
 {
     return    0;

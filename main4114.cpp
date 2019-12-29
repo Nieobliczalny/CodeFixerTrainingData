@@ -789,6 +789,7 @@ bRHBx += 1317488112;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	VpW0mdD(char	x1DQeLj4_1,long long	E2kPdgcvYl)	{
 	return	-336560253;
 }
@@ -802,6 +803,7 @@ short int  X7usFcMA55(short  x5X5peEfl,unsigned short int  Tx6N4,unsigned short 
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	H9oV1_Tz(long	f31S5)	{
 	return	260902704;
 }

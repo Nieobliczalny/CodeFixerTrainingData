@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  su58l(unsigned char  WR4ZyW_R2,short  bveKJ5n5xS,unsigned char  bSaTe7P_k,char  qHWlOio7S,unsigned short int  SkNLRi)
 {
   return  460122950;

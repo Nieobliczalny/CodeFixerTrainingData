@@ -491,6 +491,7 @@ CqUEd34 = ab3jMG2(-861587289, -1064627415, -133053108, -340246805);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	ab3jMG2(long long	cmOL,int	W2WgXAW,short	VmvP,unsigned short int	OdJ5kWBf)
 {
 	return	1873006773;
@@ -505,6 +506,7 @@ unsigned int	Lognp9h76a(long long	DdoG2S21,char	Q1zcde,unsigned short	yf_R6H)
 	return	-2057583473;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    bCVQH9iS5G(unsigned short    zd6a8IJI,unsigned long    zI9E,short    d3hAd,short    x74N6kj)    {
     return    0;
 }

@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	OEFew_9V(short int	f7O986,int	K4i5VW)	{
 	return	0;
 }

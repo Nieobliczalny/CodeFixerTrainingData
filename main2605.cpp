@@ -11,6 +11,7 @@
 #define dc1B (-1433315529)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   unsigned long long  t_R_  =  0;

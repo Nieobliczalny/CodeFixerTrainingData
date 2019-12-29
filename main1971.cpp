@@ -15,6 +15,7 @@ short int  hu7BM(unsigned char  MLnLv4jXPc,int  wH_X1wQ,unsigned short  jqCC_AbR
 
 char l2QM1L(unsigned short Qzb_GI,unsigned char B6STTw,short j9OPs674HC,unsigned char P3tmD);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   unsigned long long  zqaZw6Wuem;
   zqaZw6Wuem  =  0;
@@ -205,6 +206,7 @@ long long je64() {
  return -1672657888;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	GdPP(unsigned long long	Mzqu,char	u3803ezUyG,unsigned int	fZsSF6,unsigned char	BVOb4V0g)
 {
 	return	-1517857908;

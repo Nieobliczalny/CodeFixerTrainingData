@@ -10,6 +10,7 @@ using namespace std;
 
 unsigned short int	eBimf9(unsigned long	jr36y6W25B,unsigned long	RgmB97OC2);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   unsigned long  IlEJ25q15  =  703051956;
  short rE10ly = 1500427908;
@@ -330,6 +331,7 @@ a9w74 = (int)ceil(Gc_IVi6i7);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	eBimf9(unsigned long	jr36y6W25B,unsigned long	RgmB97OC2)
 {
 	return	0;

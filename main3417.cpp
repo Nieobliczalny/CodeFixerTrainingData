@@ -183,6 +183,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  DQXiptEN(unsigned short int  nc58LW1Q,int  x__av2t4W)  {
   return  0;
 }

@@ -13,6 +13,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   char  afT9f9u9  =  -1290898042;
     unsigned short    KqrGO3    =    -1689518356;

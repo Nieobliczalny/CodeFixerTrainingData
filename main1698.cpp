@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	Rr8NDRUy5B(long	F02nL79,long long	mHdlr)	{
 	return	0;
 }

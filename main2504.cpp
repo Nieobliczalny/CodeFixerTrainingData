@@ -14,6 +14,7 @@ unsigned short int	SQKj6C(short	SP_sRXVN9,unsigned long long	XD7dKVc);
 
 long long	ps95Z11(unsigned short int	MTIb9ucQ);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   long long  H3xtELL,  l0zK42l,  d3yz8w1V94,  esUgjh5tWw;
@@ -316,6 +317,7 @@ unsigned long long    mT37725()    {
     return    -1280058266;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	SQKj6C(short	SP_sRXVN9,unsigned long long	XD7dKVc)	{
 	return	0;
 }

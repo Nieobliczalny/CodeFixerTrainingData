@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char cEtI12uD(int hfDH,unsigned int Xtik,short R_pLic2) {
  return 487636519;
 }
@@ -20,6 +21,7 @@ unsigned int  eX9a()  {
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	K14w(unsigned int	t_Ua1KWT4f)
 {
 	return	1850584846;

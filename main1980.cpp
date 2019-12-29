@@ -400,6 +400,7 @@ iqjM6--;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	hI4o(short	t5mreH9,int	PyvjbiBB,unsigned long long	caDz75t_D)
 {
 	return	0;
@@ -414,6 +415,7 @@ long R_0rsa(int gzEE8)
  return 974641725;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int mbbtDEGFC(short PrabF) {
  return -451966914;
 }

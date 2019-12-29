@@ -694,6 +694,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	ZhU0F6jg(long long	c0Z9a_9Cl2,unsigned long long	B03wu)	{
 	return	0;
 }

@@ -12,6 +12,7 @@
 #define y1kA5Al_Q (0)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	w5QV(unsigned int	pd6RbKj3_,unsigned long	ENsFdr4Q,unsigned int	BkcOsJUI,long long	kT_N3,short	wuguVmsCy)
 {
 	return	0;

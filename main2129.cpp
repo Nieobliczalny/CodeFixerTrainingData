@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  At_a00(char  o67fWPuE6v,unsigned int  mb5Isx,short  uV3qG8,unsigned short  ao5fmYYN6U)  {
   return  0;
 }

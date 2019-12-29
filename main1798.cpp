@@ -515,6 +515,7 @@ Qqx4IK8F = (int)(wmel590r);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	pe2_5x9_U(long	y0New4kMF,unsigned char	rF0E46ivOy,unsigned int	jlU85r)	{
 	return	-436542854;
 }
@@ -528,6 +529,7 @@ unsigned short int Pc6Z3F3(long IvuSI,short int T6e97cP) {
  return 1311911451;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char UKd06w(unsigned short Yhyv54D1PS,unsigned char xv2k,unsigned long long upAr) {
  return -186795056;
 }

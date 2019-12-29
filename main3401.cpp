@@ -13,6 +13,7 @@ short int	v6Ph()
 	return	1020788724;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long a76Te9G(long UoyEM7,unsigned short N95ua,long long Grap9Gn,unsigned long long YUl7R67ym)
 {
  return 0;

@@ -16,6 +16,7 @@ unsigned long long    UN9l0as()    {
     return    -2138461212;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int u5c58eoD(short Yd1_iPhdB)
 {
  return 0;
@@ -26,6 +27,7 @@ short int	IXwx_hW()
 	return	617899223;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  G19TuNw(unsigned int  Tk7Dl2676g,unsigned long  jbQ2AdbQ)
 {
   return  777268760;

@@ -568,6 +568,7 @@ cout << OxxtFk08b(Vmsqs4gWLE, -1651704967) << rqDh(Vmsqs4gWLE, u80nLJ, 185087122
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  rqDh(unsigned long long  AE3J7wJ_,short int  M1Yz0,long  C0W4O4,char  ERbK9)  {
   return  373782112;
 }
@@ -581,6 +582,7 @@ unsigned short	G5PB(unsigned short	xHzAm4_0Hs)	{
 	return	-661672651;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int OxxtFk08b(short RqUOGN6DH,char b_sgn43u) {
  return 1194160327;
 }

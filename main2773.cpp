@@ -12,6 +12,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     long double    CwXMC80    =    1843506533;
 	unsigned char	anfFec2l9	=	1079799956;

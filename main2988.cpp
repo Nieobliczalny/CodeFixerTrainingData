@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int xsrcm(short CNn3_nv,char WI1LJ_f93)
 {
  return -406235334;

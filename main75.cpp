@@ -11,6 +11,7 @@
 #define  uBmhL44cT  (-1799956072)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int dZkg(unsigned short int l_Wgas,char E67n3r)
 {
  return -1178751096;
@@ -24,6 +25,7 @@ short int	zaL_(unsigned short	T9nXmU17bB,long	N0S5VJM,unsigned long	a6n2,short i
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    kVa_rL_(unsigned short    Xc7HFXxW46,short    QqL9,unsigned int    VKVznJW,unsigned long    untXA1I)
 {
     return    -1111404040;

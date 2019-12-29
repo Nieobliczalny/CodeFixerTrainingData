@@ -535,6 +535,7 @@ while (j >= 0);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    DMNP3td(unsigned char    q_6vzo23n)
 {
     return    387718361;
@@ -549,6 +550,7 @@ unsigned long long  KE2Xm()
   return  1573860797;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  p3nSjufC(unsigned int  o4TS0,long long  elqjv0uY9N,unsigned char  SaFfF9J)  {
   return  -446047704;
 }

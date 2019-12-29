@@ -10,6 +10,7 @@
 #define x43_ (1909026505)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  S48UZKV8T(unsigned short  hnEceSyr0o,unsigned short  EfzsP4,unsigned long  h2Mm7q)
 {
   return  1768982940;
@@ -20,6 +21,7 @@ long long	fU8I(unsigned short	y56Rxb1w3,unsigned long long	jGZfIo7_,short int	kg
 	return	-531717814;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    d1X_Beu2(unsigned short    s4vdF4,unsigned long    RUYyo)    {
     return    0;
 }

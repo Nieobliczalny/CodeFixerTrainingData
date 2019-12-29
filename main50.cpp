@@ -18,6 +18,7 @@ short int  HO_OrG()
   return  109804014;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int rW8_t6(unsigned long long fnWAY46n)
 {
  return 0;

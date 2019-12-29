@@ -10,6 +10,7 @@
 #define  ar7al  (0)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short I_BU(unsigned int o5B32n900,unsigned int Qj1fQV0,unsigned long long C9g2) {
  return 0;
 }

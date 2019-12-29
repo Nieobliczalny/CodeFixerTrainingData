@@ -632,6 +632,7 @@ T9xJo8E2 = (int)ceil(Y_Rl6);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  C_r6mAj(char  KDY4Ijctb,long  BpE_,unsigned short int  fpmn_7)
 {
   return  0;

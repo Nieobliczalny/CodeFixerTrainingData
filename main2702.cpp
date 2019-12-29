@@ -125,6 +125,7 @@ cout << NBifYH5muk / XIi305Th1 << endl;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  n4Ctuy4o8(unsigned short  FPK06vU_c9)  {
   return  0;
 }

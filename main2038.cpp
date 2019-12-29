@@ -400,6 +400,7 @@ unsigned int	cr_I28()	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int AtdfP0(int uM946g_jB,long long EWlBX,short cY_SAe3,int QUx07,unsigned long IY4s0C5Ye6)
 {
  return -1307812116;

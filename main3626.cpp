@@ -19,6 +19,7 @@ unsigned long  VQ0duPO1C()
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    j2aH54m(unsigned short    z6R8,unsigned short    GbYT0XS,short int    OrZ59,unsigned long    hae3t5D03)    {
     return    260015931;
 }

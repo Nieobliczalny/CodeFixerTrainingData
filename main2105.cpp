@@ -209,6 +209,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long We9R9H(short int an1c02M,int cxo71S_7,unsigned short int gL7iJ3)
 {
  return 0;

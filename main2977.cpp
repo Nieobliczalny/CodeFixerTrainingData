@@ -10,6 +10,7 @@ using namespace std;
 
 char YlK39_upsZ(unsigned short v3m9d,unsigned long D62Y9996,unsigned short int DI31,long long Badk);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     long double    jz51WiT;
     jz51WiT    =    -1672800764;
@@ -528,6 +529,7 @@ pFDxz7A7Y = (unsigned short)(CZWAk29H3H);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char YlK39_upsZ(unsigned short v3m9d,unsigned long D62Y9996,unsigned short int DI31,long long Badk)
 {
  return 0;

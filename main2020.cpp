@@ -17,6 +17,7 @@ long long  KU08B();
 
 long long	Awzla(short int	gnVmI65U);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   double  ff0p5_  =  -117553203;
 	char	h6356qsbG	=	121525815;
@@ -635,6 +636,7 @@ IFK4 = (EDz5rBfET <= h0R5) ? B3V_u9z : mZa59Rh(MwEt);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	mZa59Rh(long long	T1Ne)
 {
 	return	-1644967118;
@@ -645,6 +647,7 @@ long long  KU08B()
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	Awzla(short int	gnVmI65U)
 {
 	return	533031083;

@@ -11,6 +11,7 @@ unsigned short int x9773xylU();
 
 short K7i98(unsigned short h_33q,int z05542U_j,short ySpyL0E4,int z39JElX,unsigned long long pP2pE);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  unsigned long long li4bbTmy = 587736226;
     char    n_dttK    =    144396011;
@@ -201,6 +202,7 @@ unsigned short int x9773xylU() {
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short K7i98(unsigned short h_33q,int z05542U_j,short ySpyL0E4,int z39JElX,unsigned long long pP2pE) {
  return -1386117253;
 }

@@ -17,6 +17,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    b57KiMw0p(int    k1Rt_y4_,long    zSdR)    {
     return    0;
 }

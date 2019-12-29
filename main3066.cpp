@@ -15,6 +15,7 @@ unsigned long f84xR34();
 
 unsigned long  gb0nb3gA(unsigned long  ea_A5d_,unsigned int  v30O4uG_t,unsigned long  Sn31TXrS,short int  eT6Eq);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   unsigned char  P4TpYB;
@@ -608,6 +609,7 @@ unsigned long f84xR34()
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  gb0nb3gA(unsigned long  ea_A5d_,unsigned int  v30O4uG_t,unsigned long  Sn31TXrS,short int  eT6Eq)
 {
   return  1122219214;

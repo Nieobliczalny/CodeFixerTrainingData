@@ -13,6 +13,7 @@ unsigned char  SkFz5()
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	Q_1rmd(char	kU3e8Tau,short int	C03h,long	q7369zgK1o,unsigned char	ZPT_7)	{
 	return	-1239291546;
 }

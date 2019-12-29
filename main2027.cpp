@@ -17,6 +17,7 @@ short int  q94oG()
   return  -1589519596;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int DmIQPL3(short int d8W2teRA)
 {
  return -1516338162;

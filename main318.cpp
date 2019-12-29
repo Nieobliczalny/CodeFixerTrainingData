@@ -12,6 +12,7 @@ unsigned short	dS56U34is3()	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    AW9UJvKQJt(char    Yn1PO1r,long long    ga7W,int    GY_8_k,unsigned long long    O_0Nh_cN4V)
 {
     return    -1597322925;

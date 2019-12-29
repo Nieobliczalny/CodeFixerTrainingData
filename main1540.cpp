@@ -10,6 +10,7 @@
 #define	Zu9vdt0	(0)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  pS_vQf5i(unsigned long long  o7_flFzM)  {
   return  0;
 }

@@ -16,6 +16,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  Hbsur2(unsigned long long  qfy_FPF_9i)  {
   return  -354617928;
 }
@@ -29,6 +30,7 @@ unsigned short  Hb_fOl_gxf(unsigned int  F_LB,unsigned short int  S9gA,char  oSf
   return  262296363;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     unsigned int    u6NFt25;

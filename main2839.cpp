@@ -11,6 +11,7 @@
 #define z4P7oo (-1768431429)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     unsigned long long    o2yWe_7,    Zg95Ez6a,    TrWl5THgi;

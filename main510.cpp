@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	PzYL_s_ak(long	CFrLS935,unsigned long	PV8sD)
 {
 	return	0;
@@ -18,6 +19,7 @@ unsigned long long    HB_152j()
     return    862195394;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    ncAF_wlm_7(char    L_8Ne52V,unsigned short    gTCEmsn6g,unsigned long long    x9jmNfZD)
 {
     return    1330585166;

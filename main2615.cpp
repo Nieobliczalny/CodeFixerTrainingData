@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  H3G_5f(short  Y_w94,char  Eayo_jw,long long  nY028lCQ,unsigned long long  W2RU34,long  Myos1dd0Q)  {
   return  -1726579148;
 }

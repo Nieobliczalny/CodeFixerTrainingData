@@ -13,6 +13,7 @@ unsigned short YiGole();
 
 long    d6Abekm6t(long long    A_Mev);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  unsigned int t07H2Pq91K = -1497881754;
     unsigned long    pE30u__w58    =    0;
@@ -371,6 +372,7 @@ F3EGm = (int)abs(JLKbEqF);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  L2_ykO(int  X_X_is65Jd,unsigned char  pIN40_1,unsigned long  qG6wdBA,long long  dDJpGVj8B)
 {
   return  0;
@@ -381,6 +383,7 @@ unsigned short YiGole()
  return -1371555189;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    d6Abekm6t(long long    A_Mev)    {
     return    60058332;
 }

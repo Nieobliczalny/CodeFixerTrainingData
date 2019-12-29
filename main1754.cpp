@@ -291,6 +291,7 @@ long long	ral4ve()
 	return	-1809202349;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	TheDq517(int	KsAO,unsigned char	fAnzL,unsigned char	B1V9GPi8oS)
 {
 	return	0;

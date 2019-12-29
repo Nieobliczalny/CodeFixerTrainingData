@@ -590,6 +590,7 @@ while (j < 7);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short Rv0iz8xS(long long f3HAX00FQ,unsigned long e8E6e5,int eojN5Y7jnh)
 {
  return -446232196;

@@ -10,6 +10,7 @@
 #define	xM49Ohi	(0)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	w8U99GE(unsigned long long	QxG_e,char	n6L4,char	a3_P,unsigned long	Q79rf,char	dX_0k)	{
 	return	0;
 }

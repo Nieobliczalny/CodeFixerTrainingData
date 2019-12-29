@@ -618,6 +618,7 @@ char	HPu3zc()	{
 	return	-447734042;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  ra9Lj_ymj(short int  Je284gK,unsigned int  G0BTj,unsigned long  ANBR,long long  Jz1J)
 {
   return  0;

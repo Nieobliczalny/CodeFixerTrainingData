@@ -279,6 +279,7 @@ Ea4A = bL_HM5ecC(jZnQvds) / U1zS(jZnQvds);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  IFe7s0UUI(long long  o_j95yyw4B,unsigned long  x6lCoRkd0,int  tB8nHO)  {
   return  145797784;
 }
@@ -293,6 +294,7 @@ long long    EtSmFt_R(short    u1iUQ_2,unsigned long long    XW4G)
     return    -1561365861;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  bL_HM5ecC(unsigned char  T8X_901tmV)
 {
   return  766957089;

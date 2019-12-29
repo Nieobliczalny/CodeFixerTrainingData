@@ -677,6 +677,7 @@ KR5hhwQ = (int)ceil(D7Tidj4Js);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	NA2F8J(short int	Ph4KMXit,short int	Yd2nns0bR,long	WQ7k,unsigned long	N5crceE)
 {
 	return	0;

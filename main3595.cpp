@@ -16,6 +16,7 @@ short int    C2U0fe(short    r4ba2qb6,unsigned long long    EiJ699,long long    
 
 unsigned short int    g1DJI6F(long long    pk3C_b0El,short    yh88a_,long long    yG81Fl,unsigned long long    I6e5HAm2,short int    HEnX5B);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  short int ooi83T1R, zh15z, Q_8PE7, alvI0iADy2, bg7QTnEZ;
  ooi83T1R = 0;
@@ -556,6 +557,7 @@ std::cout << "k08xuM_" << GW569P8Jf << cs94kZ << std::endl;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char Nu4H86nmeP(unsigned int si546z58,long long Yiz4ds,unsigned long long N22fpG2_I,unsigned short lmps49) {
  return -1690378973;
 }
@@ -570,6 +572,7 @@ short int    C2U0fe(short    r4ba2qb6,unsigned long long    EiJ699,long long    
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    g1DJI6F(long long    pk3C_b0El,short    yh88a_,long long    yG81Fl,unsigned long long    I6e5HAm2,short int    HEnX5B)
 {
     return    292062053;

@@ -11,6 +11,7 @@
 #define  mb066KDx37  (1059435562)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long rOnh2ELL(short int qu8u_AuC,unsigned short RM8R,long long s40w2,unsigned int UTJVBfdE) {
  return 1679285537;
 }
@@ -24,6 +25,7 @@ unsigned char    W834NXxTB(long    k3AQD4,unsigned long long    t2j4d4B,unsigned
     return    1712798147;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int Cmwdh_Fa(unsigned short kQ8_x,short X2azKm3,short int vFK20n,long long M7czjN) {
  return 508641000;
 }

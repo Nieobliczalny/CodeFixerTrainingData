@@ -444,6 +444,7 @@ unsigned short	nI0zvp()
 	return	-200117661;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  C747(unsigned long long  O6_i_1X)
 {
   return  0;

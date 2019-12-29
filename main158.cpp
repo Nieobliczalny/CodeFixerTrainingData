@@ -691,6 +691,7 @@ tjF2z <<= 1844522119;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	gLg9rn(long	ir3L65M2,unsigned char	mSFX8UQ,unsigned short int	m9_28,unsigned long	fd1_,unsigned char	zI4XbC)	{
 	return	0;
 }

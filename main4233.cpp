@@ -13,6 +13,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short k1r8WVRWC(short efsFrw,unsigned int CS_zu7WW7Z,short y0xvN)
 {
  return 0;

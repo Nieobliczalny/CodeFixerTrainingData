@@ -275,6 +275,7 @@ DVd3 = (unsigned short)(iHJNp);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short  Ebe02(short int  O_DY_s6)
 {
   return  0;

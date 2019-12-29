@@ -14,6 +14,7 @@ unsigned long    GRqtP();
 
 short gVdFN7(short U5Gf,long long Oq8cJE,unsigned long long cxNe,short int u40Nx,int E4SBBaU);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     char    yeUt31;
@@ -590,6 +591,7 @@ unsigned long    GRqtP()    {
     return    -1691058791;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short gVdFN7(short U5Gf,long long Oq8cJE,unsigned long long cxNe,short int u40Nx,int E4SBBaU) {
  return 219150008;
 }

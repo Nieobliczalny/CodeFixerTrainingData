@@ -13,6 +13,7 @@ long long    xsR85()
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	unsigned short	rie5J32S,	a4862;

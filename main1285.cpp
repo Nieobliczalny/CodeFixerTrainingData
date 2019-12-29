@@ -10,6 +10,7 @@
 #define  YK5631Vm  (0)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int XDobJK(unsigned int gS75B7sUM,unsigned short hMPKR21,short IKbn1wMBY0) {
  return -1242575196;
 }

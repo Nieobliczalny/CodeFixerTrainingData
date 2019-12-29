@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char At51_Z(unsigned short sD_5m) {
  return 0;
 }
@@ -21,6 +22,7 @@ long    fGM45SXT(unsigned short    Gj_9,long    RZAiIy8OM_)
     return    -214594817;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	tH9cf9D_(unsigned short int	Q_m8G8,long long	N7x07pkzp8,unsigned short int	Iqx7Pjj)	{
 	return	-712968805;
 }

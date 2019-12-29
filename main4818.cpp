@@ -704,6 +704,7 @@ std::cout << w5r7gG << "rY91_T8KV" << "US__Wa" << q8WRBy1U(fmHukYV, 137892727) <
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  q8WRBy1U(short  opaY,short  gZJWA)  {
   return  -1831857629;
 }
@@ -717,6 +718,7 @@ unsigned short  xegeHkh(int  neNnF2,short  Z7q31bu5xN,char  VOX7zN,short int  QT
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    M_9Hu78(unsigned short int    m_H8)
 {
     return    766277035;

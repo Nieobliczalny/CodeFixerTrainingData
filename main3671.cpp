@@ -291,6 +291,7 @@ long J_1oMvFw8d()
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	VM4Y9bIfC(short	C2OrZ0r,short	fky_oKCfI,short	bnsyPTQR,unsigned long long	SBU613JeR,unsigned char	WBEmz_6uT_)	{
 	return	-1230780323;
 }

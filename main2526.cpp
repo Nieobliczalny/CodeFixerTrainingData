@@ -447,6 +447,7 @@ unsigned short  BhSQn()
   return  -86051133;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  P1q_(unsigned char  sJWsA)
 {
   return  0;

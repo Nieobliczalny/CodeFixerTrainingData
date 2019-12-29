@@ -12,6 +12,7 @@ unsigned short int	ubIA1jnte2(unsigned int	IBIRW,unsigned short	YoPbYZ,char	xR6R
 
 unsigned short int    O6syBA(unsigned int    kh3R_y,long    w5CF9ZZ5Ei);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  int T3j_7AhDQ, BuaBW_3m7J, H_ozni6, Fmt7P, oZSP, sj873l_, ESUgR7nhkM, vXAH_7, JS__m, LY7Sl, q6CT1c, kZ6v9j9, evVJ, N86l, J6GLI9Fl4, e6v_sfS772, QJ1r, aWbb, VNC9s_2LvC, izK0t958J_, B4yk, QO1TK, b46mv, hnS_, NcMF8, osirD2, u3Lmi, e7gQC0, h3_I0KuBDE, anqAz0, px7UMy, wcN5, t3em1znfU, mk1YeAe, rggg0HTT, wb__re0fQC, frohr2LW, Uupktcmuxu, ws77tD7PLF, i665l, vi0GrTn1, gb7n7230tn, q48u, j1MXv767, g_w3V0, Q1j6NW7e, yLkpO5kn_, i3kcZ, r_T_SbJcPm;
@@ -619,6 +620,7 @@ cout << sj873l_ << O6syBA(frohr2LW, -1848056660) << endl;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	ubIA1jnte2(unsigned int	IBIRW,unsigned short	YoPbYZ,char	xR6R_,int	Tt4_)	{
 	return	0;
 }

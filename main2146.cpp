@@ -20,6 +20,7 @@ short int zGfzT989s(unsigned short l_HME,long M51YWz0,short int V3qY4Q8WA2,unsig
 
 unsigned long    D_6sYU(unsigned short int    A1NT3rTNpX,unsigned long long    groxH,long    elyH7,int    J3z2,unsigned short    YLI2P);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     unsigned long    k5w91l    =    0;
  float Bw20e = 2131634249, y_bsc_B = -1994164977, Azw_W6Kt = 663906635, MJx7_ = 960233231;
@@ -187,6 +188,7 @@ Bw20e = D_6sYU(-882031385, -1124736154, y_bsc_B, MJx7_, Azw_W6Kt);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int zGfzT989s(unsigned short l_HME,long M51YWz0,short int V3qY4Q8WA2,unsigned short int yiz5Hic) {
  return 0;
 }

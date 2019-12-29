@@ -390,6 +390,7 @@ FI76uQ_v = (unsigned short int)(YX3LR);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    YYft(unsigned short int    W3v5Au1,unsigned char    WKMV8zl9T,short    z7iLi,long    XVs__A11H)
 {
     return    0;

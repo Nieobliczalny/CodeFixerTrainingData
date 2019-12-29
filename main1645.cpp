@@ -812,6 +812,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	GRrgZq04(unsigned long long	u09eqHVf,unsigned int	JYk2u1gN,short	VaO195,long	yHL7uhZ)	{
 	return	0;
 }

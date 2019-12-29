@@ -18,6 +18,7 @@ short int  iRHq(unsigned char  M0kx);
 
 short    B_bXI(long    lQ_GJFmA,short    fsdq1GN8n);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     char    XSv0    =    -1614342458,    IUXbj2nUw1    =    1845312707,    DcoZzoo67_    =    1153193068,    Q7u21H    =    718438074,    t3WQ2_    =    -1256917110,    yjW_du    =    683826911,    YTqykNb    =    119073074,    koWc    =    -184274502,    BS_Mj0rL    =    -1444475570,    D3xse    =    441692264,    lxxjn    =    -1370080603,    OhU5m5Id_R    =    1924796816,    ekZR1H40    =    353175581,    wqKX2j8    =    -1348128676,    x__M_3    =    -2016158551,    Kq6O    =    -1963639706,    cFY6g6PC    =    -432613548,    tHo34lXV    =    1934140059,    tqBeCT    =    958354027,    Qcg95M9q6    =    649520969,    oD3Acm    =    -53332702,    cetN2    =    -1631570544,    A9QXS8    =    -260112839,    zgItfE3g_N    =    337182897,    c1_GeppF5    =    -90576444,    sV6V7jaSzr    =    1953311585,    YNc2VmLzM    =    1866321302,    sb8lrB    =    922255330,    XZGTgFtT_    =    178860865,    AvTn_1b    =    -618596368,    ePk73_L3Zg    =    2053553606,    nd5kw2    =    -426407379,    R8rLf2FaY_    =    -419916283,    pVf0__    =    927057415;
@@ -358,6 +359,7 @@ std::cout << IUXbj2nUw1 << Na9ud6Lz << A9QXS8 << std::endl;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char K60c6(short int Z4Az_,unsigned short int v2H13,unsigned short int z7ebzHFI,int Zk3_B,int vcfLu_JBLp) {
  return 1467405759;
 }
@@ -371,6 +373,7 @@ short int    GEJU9f(unsigned short int    Je7LKfq_)    {
     return    1745832968;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  iRHq(unsigned char  M0kx)  {
   return  -1068845356;
 }

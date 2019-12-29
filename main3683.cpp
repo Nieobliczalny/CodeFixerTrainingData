@@ -10,6 +10,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    vLTmuNW(unsigned short    gX7z5W,unsigned long long    pazD_sTPw)
 {
     return    0;

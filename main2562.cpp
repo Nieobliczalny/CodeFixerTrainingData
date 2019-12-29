@@ -8,6 +8,7 @@
 #define  wkuyr7  (0)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    Z7WqfAk(short int    ja_96Nw,short    Bf7jy5H)    {
     return    -354126365;
 }

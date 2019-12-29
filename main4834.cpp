@@ -11,6 +11,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	py61P(unsigned long	q0B9E8Ac4,short int	ME8J9Bj18G,unsigned short int	A5TG8Qd,unsigned char	GzAL)	{
 	return	2041504160;
 }

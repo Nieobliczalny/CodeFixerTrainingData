@@ -513,6 +513,7 @@ Pq_h4T9 = (int)abs(yb5b);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	s7h5Eu(char	y0n_Gc,long	m17gHxSo,long	mUl8K8T4w)	{
 	return	0;
 }

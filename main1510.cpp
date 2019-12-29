@@ -13,6 +13,7 @@
 
 unsigned long long	eA40W5Q7F(char	OB0jNj785,unsigned int	Qn1i6Dg1,unsigned int	eKzavYx);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     short int    ibX8Jl1G_D,    sthox8T7,    IE07;
@@ -264,6 +265,7 @@ JoxWE = aFP9K4 * vC_qV;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	eA40W5Q7F(char	OB0jNj785,unsigned int	Qn1i6Dg1,unsigned int	eKzavYx)	{
 	return	0;
 }

@@ -11,6 +11,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char pcYN6o(long ONd4LP,long IGr5p7iF_) {
  return -228759012;
 }
@@ -24,6 +25,7 @@ unsigned short  pnf_iw()
   return  258205500;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int PMdA(unsigned long long x8_9afF,int mG8m,short nGZg3H) {
  return 149258676;
 }

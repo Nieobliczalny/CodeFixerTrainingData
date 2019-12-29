@@ -12,6 +12,7 @@ long  sp1wm(unsigned long  nMMcpT,char  ammxTr0K,short  PkZoZ7H0,int  zatT);
 
 long long WEKFwG_9(unsigned int RJ0EcA,short int uF7tcJm7,unsigned short Jb_Xdsa,unsigned long long Dduz83AQz,unsigned int NI6Yj92_Qf);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   unsigned int  KO24Ovc6E  =  0;
@@ -109,6 +110,7 @@ Swim5b = WEKFwG_9(UzQn9WDl, aAh3I4g, Tzj4o8TW_g, bJ61nuO, Ezw_K) / KO24Ovc6E;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  sp1wm(unsigned long  nMMcpT,char  ammxTr0K,short  PkZoZ7H0,int  zatT)  {
   return  0;
 }

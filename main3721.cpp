@@ -588,6 +588,7 @@ i++;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	whEZW7(short int	wR8y8)	{
 	return	0;
 }

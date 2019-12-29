@@ -11,6 +11,7 @@
 #define  TiBm  (-1109691695)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int zF121lpj(unsigned int Fs__,unsigned short hG7g7)
 {
  return -1012674213;
@@ -24,6 +25,7 @@ long long  sMBrQC1_I(unsigned long long  xEKpA0,char  p_6k_0R72,unsigned char  a
   return  -1199990467;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  k_ybt(long  FpG7,unsigned long  B08r8C,short int  o2R9A_f4,int  Wz6EpGH9d,unsigned long long  yfMmA)  {
   return  370573567;
 }

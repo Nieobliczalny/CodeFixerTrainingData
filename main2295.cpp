@@ -11,6 +11,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    ttMkrcBh(short    wbK1,char    XpuAdy935,unsigned short int    p1KA,int    H3n0,long    tlnBIS0)
 {
     return    1579505247;
@@ -24,6 +25,7 @@ unsigned long  YINOALI3j(unsigned int  mz28n8F)  {
   return  -1141472063;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	unsigned long	uj_Lfv;
 	uj_Lfv	=	-1245754032;

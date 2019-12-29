@@ -17,6 +17,7 @@ unsigned int LzYHvqr();
 
 unsigned short int    ezu_(short    l4x083Qtl,unsigned short    U_F71tw22,long    vsuK2P);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	unsigned char	wCsdW_g	=	1097493324;
@@ -323,6 +324,7 @@ short    Z8HX0eX()
     return    1615214713;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  Qy18a(unsigned short int  v0mpF,int  ksuF6q,unsigned int  WRTv)
 {
   return  1599711007;
@@ -336,6 +338,7 @@ unsigned int LzYHvqr() {
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    ezu_(short    l4x083Qtl,unsigned short    U_F71tw22,long    vsuK2P)
 {
     return    -1022148013;

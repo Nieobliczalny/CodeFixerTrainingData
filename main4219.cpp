@@ -314,6 +314,7 @@ j++;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    pNmH3N8(short int    Ys_A,unsigned short    YRd_uHziyQ,long long    BP_1W,int    U3G0yv)    {
     return    0;
 }

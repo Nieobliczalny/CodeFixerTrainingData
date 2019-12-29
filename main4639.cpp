@@ -441,6 +441,7 @@ Qh3dA++;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	q_Br6u4g(short int	MflN,long long	h4PR,long long	Pzw397qnt6)	{
 	return	2045248010;
 }

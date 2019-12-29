@@ -17,6 +17,7 @@ short int  eT2c(short int  RRCUykt2o);
 
 unsigned long long  Y4vq5n_();
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  char IibIC5;
@@ -572,6 +573,7 @@ IibIC5 = (char)(bz0jE_Ox);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long z6iR_qcpt(short Alz9,short I956,unsigned short f5bNwE0)
 {
  return 0;

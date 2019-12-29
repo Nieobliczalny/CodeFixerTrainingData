@@ -348,6 +348,7 @@ MO36GHb_l = N48wXc8(-1812432630, -971881293, Wn4vWMw4, -1842857290, zvzCNRCt);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    N48wXc8(unsigned int    xQ4_gq,int    mp_Rf,unsigned int    qFr0b,unsigned long long    c4A1G3Rb,int    f507tDknT0)    {
     return    0;
 }

@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    XCDt8_4e7(unsigned int    w51Uf6R,unsigned int    M2mhx_)    {
     return    0;
 }
@@ -20,6 +21,7 @@ unsigned long long V4bJ463(char rH15,unsigned long JRcScUUE6C,long BrJ7,char E2u
  return 405663858;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	unsigned long	ljI1TlNQ;
 	ljI1TlNQ	=	285502602;

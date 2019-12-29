@@ -13,6 +13,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long S99tuDgG(short int BCU_rS,unsigned short rj0V) {
  return 0;
 }

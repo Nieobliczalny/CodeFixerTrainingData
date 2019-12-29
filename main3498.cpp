@@ -13,6 +13,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short EpBA0W7pe(unsigned char j57n3D0,unsigned short c3f64v)
 {
  return 0;

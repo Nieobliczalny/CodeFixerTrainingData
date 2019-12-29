@@ -422,6 +422,7 @@ a69n1e = Uk_Cj53cpi(-527820548, 228409888, GnKco1qbfc, -1604361675, -1849790828)
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  Uk_Cj53cpi(long long  NX_A38g,short  kBpF,unsigned long long  L_s1_qu3,short  fnep5n,unsigned short  C41Ha9)  {
   return  -1799016394;
 }
@@ -434,6 +435,7 @@ unsigned long  Wt5r_(unsigned int  V07K_,unsigned long  jH643i,unsigned short in
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    gQCTixhe4a(unsigned long long    JQ6cabB1T,unsigned long    L2_14n,unsigned int    l3rkcbb)    {
     return    -979982711;
 }

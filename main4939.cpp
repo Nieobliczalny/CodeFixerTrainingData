@@ -12,6 +12,7 @@ char  R8NZ()  {
   return  -1383150784;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	Dfx5g5_m(long	AfgwBuCRu3,long	vAST,unsigned short int	Nb8Hq5N4,short int	Is68l4,short	oxi3jnY)
 {
 	return	-2059574715;

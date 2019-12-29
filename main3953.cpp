@@ -475,6 +475,7 @@ A98_ = IX3q1wE(673988210, -784005402, 1616212239, -278302875, fa172) / uVy2ec98;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	Bpw6oBRp2I(int	jX32KY4_)	{
 	return	905593534;
 }
@@ -488,6 +489,7 @@ unsigned short    XPw5HVgcU(unsigned short int    a2e_P7YiVM,short int    k06ezG
     return    423778923;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    IX3q1wE(unsigned short int    ZzQn9,char    Z56afq4m,unsigned int    q9Jk,unsigned short    b0z550,long long    oRh1)
 {
     return    0;

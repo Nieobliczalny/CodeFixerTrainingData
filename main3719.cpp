@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long s3VDm27(short int WAz8,unsigned long long A66_7VP,unsigned int hc_O_02Fs,long long QjLL) {
  return -1732047516;
 }
@@ -25,6 +26,7 @@ long  isB3YDq()
   return  -361281483;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long vrkDO1F7v(long long Xaoi,long ym0iEEXDqS,unsigned short u37eY2Y7c)
 {
  return -1851661375;

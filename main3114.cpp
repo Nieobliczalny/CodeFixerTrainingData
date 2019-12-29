@@ -11,6 +11,7 @@ using namespace std;
 
 unsigned char    lKhUn3(long long    V4C08);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	short int	Z8FvU8Qi1x	=	0,	FDPAZWD	=	0,	rUzp37_	=	0,	r22b55	=	0;
     int    Mlu2    =    -689504693,    Rv8vsrY    =    1583690637,    pJ8sw042    =    804268765,    A3VMd    =    -310595743,    V_Hr    =    -1256496174,    W0d3G5    =    -121054406,    U95E    =    1281735530,    M2T6xl    =    1398651220,    M2811KX    =    699007455,    l5gcdc98    =    -821673771,    Bl7Mi    =    -1390286248,    N2wL3    =    -648893840,    vp7d8os    =    -1610098440,    j41LI5    =    242540141;
@@ -641,6 +642,7 @@ r22b55 = lKhUn3(r22b55);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    lKhUn3(long long    V4C08)    {
     return    0;
 }

@@ -21,6 +21,7 @@ char    L4kW2ImZ(unsigned int    iZn_0p_t7);
 
 long long  ho1mh68Xk1(unsigned long  W0N421);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	unsigned short int	uF14z	=	1209726882;
@@ -785,6 +786,7 @@ while (i < 9);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  Wp3U9(int  gMiELT9,unsigned short int  hqkj4)
 {
   return  870251225;
@@ -798,6 +800,7 @@ char    L4kW2ImZ(unsigned int    iZn_0p_t7)    {
     return    242818187;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  ho1mh68Xk1(unsigned long  W0N421)  {
   return  -133944713;
 }

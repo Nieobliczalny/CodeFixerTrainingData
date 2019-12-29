@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long oOy6805(unsigned short wBNk) {
  return -3040523;
 }
@@ -20,6 +21,7 @@ int  G86Go(unsigned long long  my86Gv1y,unsigned char  Joa9N_z_I,char  qwg5,shor
   return  -1795481757;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	cZ51Ykg6(unsigned short int	d43W,unsigned long long	P9H32W0t,unsigned long	vH_O)
 {
 	return	0;

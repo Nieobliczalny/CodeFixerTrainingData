@@ -288,6 +288,7 @@ std::cout << p_9yu_e4 << bj_Li6(-248063759, Qe09AXs, 368958285, 1073435702) << "
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	DFKZ(unsigned short int	pyF_,unsigned long	DC2T_n_,unsigned short int	p7sD)	{
 	return	0;
 }

@@ -9,6 +9,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	RjBdEyCn(int	IW4C1)
 {
 	return	-575516892;
@@ -22,6 +23,7 @@ unsigned long long YU7_5t6V() {
  return -1613451554;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  PSQOk(unsigned long  buDIvIEKP)
 {
   return  0;

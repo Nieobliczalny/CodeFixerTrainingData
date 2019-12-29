@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  cpFu0_Jtr(unsigned short int  TJ3z,int  v7qzv,unsigned char  GGtzMLamNK,unsigned short int  A173UC4,unsigned short  VRm50)  {
   return  -1341429429;
 }

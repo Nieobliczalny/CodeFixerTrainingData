@@ -436,6 +436,7 @@ long long  gxU4()
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    siA0(short int    Fx_zVWL)    {
     return    1614249901;
 }

@@ -18,6 +18,7 @@ unsigned short    ANtrsL();
 
 unsigned short  Pq0f3uBKX0(long  pLxRd,unsigned long long  R1Q86,short int  Zw6bOsaE2P);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  double nndw9ES6;
  nndw9ES6 = 1366416825;
@@ -154,6 +155,7 @@ while (i < 8);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long BLs4__17z_(char h1n91_,unsigned short int OC74fZsEj) {
  return -1075710134;
 }
@@ -172,6 +174,7 @@ unsigned short    ANtrsL()
     return    -329457963;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  Pq0f3uBKX0(long  pLxRd,unsigned long long  R1Q86,short int  Zw6bOsaE2P)
 {
   return  0;

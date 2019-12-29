@@ -140,6 +140,7 @@ std::cout << uXGl7t5b5 << h8TOP << "O7vhzdTB8" << std::endl;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    s_hXg44KfZ(unsigned char    eulSb6jA7z,short    E80O04n_,unsigned char    DnZ87_,unsigned short    mS4iff)
 {
     return    0;
@@ -154,6 +155,7 @@ short  JC65w(unsigned short int  CVdRfWiL2j,char  AuVeHeKmoy,unsigned int  mNh7m
   return  -1716887291;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	vj5f6cNe1(long long	Z7GZat1_,unsigned long long	e0__3X3j,unsigned long	t26b,unsigned long	nRnj1)
 {
 	return	-1202033318;

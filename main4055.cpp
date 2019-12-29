@@ -11,6 +11,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     short int    o91tqC    =    -1060610165;
 	long long	l18UPAjyp	=	-1912925367;

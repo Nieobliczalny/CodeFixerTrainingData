@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	y3YJ(char	APSE890_8l)	{
 	return	0;
 }

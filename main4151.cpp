@@ -18,6 +18,7 @@ short IA9195fwY(unsigned long IQVjE,char hiMZ35,unsigned short int o5P2uV,unsign
 
 short int lbA26NKJ9q(long w39w,long y2M8gtA6);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     unsigned short    c7XvC0Y0RE    =    2145535345;
@@ -655,6 +656,7 @@ while (i < 8);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	YqI3fGZ(short int	y_CldN6,unsigned int	RZCR14V,long	z5ty3_,unsigned char	m7_L_ECZ)
 {
 	return	1894467594;

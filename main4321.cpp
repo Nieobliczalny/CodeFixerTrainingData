@@ -9,6 +9,7 @@
 
 int	f0_CEFVwu(short int	d8g5YAk,char	ctm_l0bm,unsigned char	CfEL_Gz5vV);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     unsigned long long    l2ufSloxix,    okV_SO,    QLa5rD;
@@ -639,6 +640,7 @@ while (k >= 0);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	f0_CEFVwu(short int	d8g5YAk,char	ctm_l0bm,unsigned char	CfEL_Gz5vV)
 {
 	return	0;

@@ -9,6 +9,7 @@
 
 unsigned short	GvzDdG685p(char	hWtaiPVXU);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   unsigned long  pD92U5  =  1123906969,  S91ZD1  =  -1223720842,  k4vgDI  =  -941806081,  TOM13O  =  1641680950,  B9tLaEzfM  =  1652471482,  Q2kbYJ_Bd  =  -1824448636,  l3Ly95I  =  2006150147,  dLuq  =  811409775,  RopB8  =  325271032,  uTw54M  =  -9551114,  QoRPOq7s3  =  -1581263168,  P0U5n  =  -1077579529,  roBcU_  =  1452139125,  gKfiMts_4  =  -2072856039,  CwP8  =  1386347541,  nI6E  =  -559968055,  Lp42g6  =  1050455793,  Rjha4akf  =  -119818301,  frtJQU  =  1067467197,  g5vFf_gw8  =  207952781,  fZRl  =  -1765584921,  EC6rN69_  =  -1227726087,  G2J6U  =  846385761,  ofzLcMx  =  1355882733,  Xnzg6d7  =  -509411280,  gzdk8  =  -660352287,  hXfB797oIy  =  1796960903,  sl2Y  =  -2144655007,  wrgqqX  =  288257624,  SOO39  =  -1368009061,  GSrEc9D  =  577927547,  LVk9IWY  =  -1158602688,  os2hUn016a  =  1691344852,  d5N73I6tm  =  1019163867,  faTc6_X  =  827100859,  er5gzP4wy  =  -810974041,  W4f9amY_It  =  422002485,  N50DX  =  -404273082;
@@ -166,6 +167,7 @@ Q2kbYJ_Bd = (unsigned long)(Lp42g6);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	GvzDdG685p(char	hWtaiPVXU)
 {
 	return	0;

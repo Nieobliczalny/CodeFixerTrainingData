@@ -20,6 +20,7 @@ unsigned long long i79Ot(long RuCFcw5hL,long long le61fCQ,long i9TyCKk9YB,long l
 
 char  s_25S01MW1(long long  QYoN_2,int  IhF2U2,unsigned long long  VI3tvAua8,unsigned char  yACXqxY4e1);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   short int  znKaBq  =  -1476180422;
@@ -362,6 +363,7 @@ q_R4 &= 364310478;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  qu70PUT_G(short int  vu5L,unsigned char  RpOMf5f38,unsigned long long  u_H6c4,unsigned int  aFI62P)
 {
   return  292538019;
@@ -376,6 +378,7 @@ unsigned long long i79Ot(long RuCFcw5hL,long long le61fCQ,long i9TyCKk9YB,long l
  return 163541051;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  s_25S01MW1(long long  QYoN_2,int  IhF2U2,unsigned long long  VI3tvAua8,unsigned char  yACXqxY4e1)
 {
   return  0;

@@ -12,6 +12,7 @@ unsigned long  b89z409el0();
 
 long	HpwlqXT9();
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   long  A_SX,  yR1zYUN;
   A_SX  =  0;

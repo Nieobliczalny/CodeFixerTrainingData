@@ -16,6 +16,7 @@ short  sHbHWLh()  {
   return  426829362;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	N9Zl(unsigned int	c5_4rK2E,unsigned short	Y_AP7g20)	{
 	return	0;
 }

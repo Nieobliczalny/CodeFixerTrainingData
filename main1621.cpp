@@ -468,6 +468,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  P7_zAmlG(unsigned short  eEs0_Ql3)
 {
   return  0;

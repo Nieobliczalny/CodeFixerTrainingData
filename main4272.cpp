@@ -345,6 +345,7 @@ nmtp = (short int)(TlD7HF5e);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    Antyq(unsigned short    kO_WN,unsigned short int    F2z_Ii5,unsigned short    Eem179Y)    {
     return    0;
 }

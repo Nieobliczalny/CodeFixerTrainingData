@@ -20,6 +20,7 @@ unsigned short    w9Ika_sG();
 
 unsigned short	Keym_();
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	unsigned int	S30R60Jd,	ok8qLMWKk;
 	S30R60Jd	=	0;
@@ -349,6 +350,7 @@ S8L_0 = Keym_();
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	R186u(long long	g1w7Z,unsigned int	p6pP997l,unsigned long long	u4JBuu45u)
 {
 	return	-841870749;

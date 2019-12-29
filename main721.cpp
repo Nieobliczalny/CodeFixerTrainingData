@@ -164,6 +164,7 @@ P6jgVtF6 = 1328996688 / RBWx5;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	yTa847G6(unsigned short int	QIrqDH,char	b5lJ7,short int	ekAV5wh_R,unsigned short int	O30Q011D8,long long	QTIh750L6u)	{
 	return	0;
 }

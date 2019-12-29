@@ -739,6 +739,7 @@ long long    KyFjff3ihD()
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short k3_7rMoRS(unsigned char fy8w5d,long mM2G_l,short int odH9Ofy9,int mP_m4BXt,unsigned short int uVVK89Jrm)
 {
  return 1031712195;

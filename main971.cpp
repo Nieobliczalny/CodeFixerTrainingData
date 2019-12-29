@@ -11,6 +11,7 @@ char	KoEj(unsigned long	C9ZxaUX8R,unsigned long long	UvR6VSN,unsigned char	saRi)
 
 int  ZW3SuPLA_Z(unsigned long  z5iL2CVFoW,long long  l6nw,long long  HIRsPyEG);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   long double  R5M9o51;
@@ -317,6 +318,7 @@ Hks4 = tA74 / up6zq445Q7;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	KoEj(unsigned long	C9ZxaUX8R,unsigned long long	UvR6VSN,unsigned char	saRi)
 {
 	return	0;

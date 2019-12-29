@@ -12,6 +12,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	yg401(int	v6bxoZU,short int	U3sTOR,char	aqI1)
 {
 	return	103368320;

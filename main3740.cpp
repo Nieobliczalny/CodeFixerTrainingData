@@ -19,6 +19,7 @@ char    mg88N08()    {
     return    -818307088;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	Odk9gtM(long	tgW1Q,char	z11346)
 {
 	return	0;

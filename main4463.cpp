@@ -11,6 +11,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    cw77f37I0(unsigned short    r42M4_)
 {
     return    0;
@@ -21,6 +22,7 @@ unsigned int  ptB_O(unsigned short int  Oo_pmYL1R)
   return  713832457;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  Mc3tAr461P(unsigned int  txk60Y8f6,unsigned short int  uq_XKx_37K,short int  Jv1db0c,short int  nMB5_)
 {
   return  2114329132;

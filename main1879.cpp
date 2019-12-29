@@ -11,6 +11,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char nhWr(unsigned long g9s0K,unsigned char l1Lm0S,unsigned int MHWhbZu_Ja)
 {
  return -610069843;

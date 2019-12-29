@@ -17,6 +17,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  kZ_kl(unsigned char  KQ5Ww1Q,unsigned long long  ISBk,int  O7pCj)
 {
   return  0;

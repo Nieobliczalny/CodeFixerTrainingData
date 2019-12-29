@@ -11,6 +11,7 @@
 
 long long  Tonee(int  Rw579,unsigned char  hdYi9,unsigned int  iIhReM,short  E1WX67K_8);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   long  RIlXl13,  y6RdtXV74E,  A5AwVZ63e_,  pj5a9HsVIB;
@@ -1015,6 +1016,7 @@ F6WcI33G = (int)(oD77S27d);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  Tonee(int  Rw579,unsigned char  hdYi9,unsigned int  iIhReM,short  E1WX67K_8)
 {
   return  0;

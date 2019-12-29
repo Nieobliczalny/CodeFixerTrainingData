@@ -12,6 +12,7 @@
 #define  hX7L81108i  (1680377377)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	I7ejz(short int	F8Y34A6)	{
 	return	0;
 }

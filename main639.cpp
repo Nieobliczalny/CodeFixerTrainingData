@@ -16,6 +16,7 @@ unsigned long long eoxiGgkWM(int c0uU,unsigned int k_jnQSes,unsigned short int X
 
 unsigned short zf060Kpi8(int K90X,int uBjlf,int nxICmE);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   short  mPGFB1j  =  0,  AuGB1gid  =  0,  Tb8K  =  0,  swM2u0s0r  =  0,  s3EwZ63ub  =  0;
@@ -450,6 +451,7 @@ unsigned short	FNs6lG9w0()
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	BlTwqZ(short int	bwlmPbbD)
 {
 	return	1837295453;

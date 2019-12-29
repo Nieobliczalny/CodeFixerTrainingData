@@ -8,6 +8,7 @@
 #define pfks (0)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long toFA(unsigned long R8yr78UVpg,unsigned int ezOiW60,int ks9hlQ5h,unsigned int r0L6,char u00__Oo0g1)
 {
  return 1243915484;
@@ -18,6 +19,7 @@ long B2O4__8e_M(unsigned short int Z_1M3N7)
  return 203132994;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	a8_5T(unsigned long long	P4kqW)	{
 	return	0;
 }

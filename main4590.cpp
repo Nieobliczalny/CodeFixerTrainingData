@@ -13,6 +13,7 @@ short int	T1hqU8(unsigned char	RQbW9_J,long	Q9OZJJD5C);
 
 unsigned short int	bn3zx74N(short	g0EewIU6O,short int	kqnGtrV9U_,unsigned char	qFQkmbk);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   double  S31a4_3X1;
   S31a4_3X1  =  1814360158;
@@ -336,6 +337,7 @@ if (T1hqU8(-1622788240, 576028573) == 0)
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  uw_5w6D(unsigned long  SeO_Sx2s4,short  of245_w,unsigned long long  V907)
 {
   return  1196972393;

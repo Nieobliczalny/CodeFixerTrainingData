@@ -621,6 +621,7 @@ Nzf0 = (unsigned short int)(Vqo4l);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    TQWWMf7(unsigned int    iZ6PQKR,short    oURccu0)    {
     return    0;
 }

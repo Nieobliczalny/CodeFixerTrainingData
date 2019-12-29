@@ -8,6 +8,7 @@
 #define    FP3t3    (0)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long NFS6H3I5(long qLs3WX4) {
  return 0;
 }

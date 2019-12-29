@@ -11,6 +11,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    REFgRj(unsigned int    n7_9Xe,unsigned long long    r98lNChu1,unsigned long long    R534)
 {
     return    0;

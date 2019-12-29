@@ -298,6 +298,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  K0_A(short int  LtV3A)  {
   return  0;
 }

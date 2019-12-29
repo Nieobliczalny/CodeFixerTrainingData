@@ -13,6 +13,7 @@ unsigned int    C1WO1cw(unsigned short    izSI,unsigned long long    r3rfW1R_,un
 
 short int Q1R7DZ();
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     unsigned short    m8Dt9uR;
@@ -596,6 +597,7 @@ B_R5i1j0_ = (int)ceil(mH45q86o5);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  TObJ7(unsigned int  u9Qfd0Wn,char  Ct5KN2Oc1,long long  E6NG_50xz,long  a79l092v,int  gg6oF)  {
   return  0;
 }

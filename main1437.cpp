@@ -728,6 +728,7 @@ KNu647us = (int)abs(MT4UIG);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    BUpvv(int    e23I70,unsigned long    Y2p72_,unsigned short int    Cf26E)    {
     return    1815916643;
 }

@@ -19,6 +19,7 @@ using std::floor;
 
 short int V7VkY46m5();
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     unsigned long    VA67;

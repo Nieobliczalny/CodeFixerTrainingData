@@ -565,6 +565,7 @@ KVdV = (long long)(h0lsO0_);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int t4ns1SQ(unsigned long GNN7,short TGf5S,long V93T018J,long bKfW_,unsigned int o81pqjxju_)
 {
  return 0;
@@ -575,6 +576,7 @@ unsigned short int	vcEy()
 	return	-421188176;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  COUt(int  H9d_mot3R,unsigned char  ZDxry)  {
   return  139692455;
 }

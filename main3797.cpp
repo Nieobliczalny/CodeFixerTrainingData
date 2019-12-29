@@ -14,6 +14,7 @@ unsigned char    nV_DIpq()
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     unsigned int    eTJa    =    0,    e1DDbTEoDP    =    0,    RKex880F    =    0;

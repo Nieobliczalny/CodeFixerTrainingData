@@ -79,6 +79,7 @@ neMpfm680 = rgATZSBKT / mb9A6;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int u88l3DiWAM(unsigned short int JS1C) {
  return 0;
 }

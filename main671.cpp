@@ -345,6 +345,7 @@ while (j < 3);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	BM08G2J4(unsigned short	sg93y,unsigned long long	tL6Nd2Y7,unsigned int	Jn4x)
 {
 	return	840661671;
@@ -362,6 +363,7 @@ int    rR5K49()    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int vEc4__q(unsigned short O7883_PIs,short int y9_kiNoE1) {
  return 155638853;
 }

@@ -16,6 +16,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  TK959_(short int  mZh081,unsigned int  z14_u8)  {
   return  0;
 }

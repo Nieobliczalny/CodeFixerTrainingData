@@ -595,6 +595,7 @@ MrN0wmzv62 = w3Y731(MrN0wmzv62, 1311273818, -384071233, -290532171, eX0CJ1z7);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long w3Y731(long FyZs1i8,long long bog8q1,long long gdKO,char U6og0n,int gCTft)
 {
  return 219725816;

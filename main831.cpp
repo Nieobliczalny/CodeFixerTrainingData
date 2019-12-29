@@ -18,6 +18,7 @@ unsigned short int	X3tOlG2452()	{
 	return	893891979;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    KrS1zprOF(unsigned int    YIScy,unsigned short int    H6_JcF6VEC,unsigned long long    MfX3755Op)    {
     return    1038136509;
 }

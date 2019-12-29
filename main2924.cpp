@@ -11,6 +11,7 @@
 #define z84Cbtf (2090105207)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   short int  ZbQ5tyz,  E7s776;

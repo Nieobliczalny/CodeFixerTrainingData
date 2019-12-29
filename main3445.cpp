@@ -14,6 +14,7 @@ unsigned short	lnF6x9p3();
 
 unsigned long    hCX2oD_U4(long long    jx15akx,unsigned long    yb8I5e);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  unsigned long nhO_a;
@@ -361,6 +362,7 @@ Ir_m_79le8 = lnF6x9p3();
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long HXU56L_yN(int z9Cl,char f5eOBP6UI,unsigned int vH3ecr4f,short int H06v,unsigned char O6HD)
 {
  return 0;

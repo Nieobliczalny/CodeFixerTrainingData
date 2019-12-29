@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    EU6W(char    RD1vZgZ,int    yNi6DI5,unsigned char    DC60H4u,unsigned char    XxGYFr)    {
     return    1858823832;
 }

@@ -11,6 +11,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    IWt54_Vt(unsigned long long    BTXQrmd9,unsigned short int    s__6hOEi)    {
     return    0;
 }

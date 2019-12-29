@@ -762,6 +762,7 @@ mcovOx5F = X2f159K8(-1586015215, -2140139920, 1456702578);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  X2f159K8(short int  L72mN,int  XtF4B4,unsigned int  JmlI)
 {
   return  0;

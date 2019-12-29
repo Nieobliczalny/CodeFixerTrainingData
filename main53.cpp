@@ -16,6 +16,7 @@ unsigned long long  Zqq_(long  mbu56hdh8m,unsigned int  te7ozla5n0);
 
 short	qs31(char	tunkV,char	PD8E55T,long	wj_gkTio4,char	OmLM6);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     char    GP1P,    NU6D1,    PJuDv_F5zr,    Yx3eQTW2_W;
         GP1P    =    NU6D1    =    PJuDv_F5zr    =    Yx3eQTW2_W    =    0;
@@ -517,6 +518,7 @@ unsigned short	tP3c2()
 	return	382390583;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	lo8Ag(unsigned long	CTU1Zde79Y,int	RvA54BFDpW,unsigned long	cg8k6_,unsigned int	TYyH_DfO70)	{
 	return	-216041369;
 }

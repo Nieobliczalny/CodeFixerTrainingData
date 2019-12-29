@@ -10,6 +10,7 @@
 #define	MoR__JCaY	(0)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  o3IcD19_F3(unsigned char  dTv7a8SI0,unsigned char  LGlp0hs1)  {
   return  -1587027463;
 }

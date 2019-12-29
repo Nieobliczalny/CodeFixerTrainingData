@@ -321,6 +321,7 @@ unsigned int  B38oz15n()  {
   return  616936739;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	IM5pt(long	jX1cm,long long	zUjo4NM0ui)
 {
 	return	0;

@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	cCxoEZ8Kk2(char	II8Cc,unsigned int	uNbAM,long long	mpChOX7,unsigned long long	aWu2j88p,unsigned int	WFq7ELB)	{
 	return	-1585463379;
 }
@@ -21,6 +22,7 @@ unsigned long	YxFhenjH(unsigned long long	t8QBFl,short	io_bk,int	IK2JLz5Xv,short
 	return	1302346212;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     unsigned char    jKvP    =    -566022746;
   double  OE_T  =  2128620598;

@@ -812,6 +812,7 @@ Glap2_EC9 = (int)abs(SeKBZZjt);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    zX6KW5nCZ7(int    o7P78DYJ1,unsigned short int    lkCSQXn2q8)
 {
     return    0;

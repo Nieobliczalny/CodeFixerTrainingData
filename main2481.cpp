@@ -227,6 +227,7 @@ if (DVE45i5mm(1484423942, t_8xzq, fHhwV, UD3n) == 0)
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  A5ycT(long long  InZ4Bs63o,long long  lWV5)  {
   return  -1133531265;
 }
@@ -239,6 +240,7 @@ unsigned char	DVE45i5mm(char	U334,long long	WUM1m4,unsigned long	fN1kVw4sB5,int	
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  sU_0L(unsigned char  WOV4gf,unsigned long long  Rb7_a4Z4_,short int  ycj6)  {
   return  -122748253;
 }

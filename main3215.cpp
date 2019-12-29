@@ -745,6 +745,7 @@ sy7t6 = sy7t6 % F2ygw;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	n53d0z4(unsigned long long	oUuFBeeWT,long long	D40c,short int	NoisxB,unsigned long	QvD1)	{
 	return	0;
 }

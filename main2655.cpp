@@ -660,6 +660,7 @@ jj83Mm0Mc /= 2032591483;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  wbgi_2PeKr(short  v1OVPK2)  {
   return  -601889038;
 }
@@ -674,6 +675,7 @@ short    PFPeo(unsigned short int    J5diHNUZ,char    mq12huO8b)
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	E7a_y72(short	Te_KS,short	A1858P_,short int	Ck8I3I,long	G8H98r)
 {
 	return	1541090899;

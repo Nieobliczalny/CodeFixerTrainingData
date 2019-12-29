@@ -14,6 +14,7 @@ unsigned long long  lDa9(char  p0XUr,unsigned long  Psb2h_a8,int  i703ED,long  t
 
 short int    Uc9rEp(unsigned long    F6pc3l,unsigned char    bu8b688wpV,int    X_54eaD,unsigned long    aA3F177B);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     float    TE_zoMspa3    =    1446577908;
   long double  o1HyYi  =  -1484872876;
@@ -495,6 +496,7 @@ i--;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  lDa9(char  p0XUr,unsigned long  Psb2h_a8,int  i703ED,long  t6B6k,unsigned long long  ca2x)
 {
   return  -2037302152;

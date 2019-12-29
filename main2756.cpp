@@ -12,6 +12,7 @@
 #define	tpQQ4T2ACB	(463923264)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    yTI1y9t(unsigned short int    i2TFv_pm,unsigned long long    mi9UldzT,unsigned short int    jwfq3_73N,short    LNN7_4Mtq,long    WE8lgP)
 {
     return    0;
@@ -22,6 +23,7 @@ long  fHGz5()
   return  1779867267;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char EC4QYe(short int g25LA,short int FT_9,long I3qwq,unsigned int Zvb9wi,unsigned char eS89EQ) {
  return -878628426;
 }

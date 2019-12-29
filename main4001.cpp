@@ -409,6 +409,7 @@ lrl8 = SHkZf(lrl8, -1423185066, FUsw);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	SHkZf(char	xXANZC8,unsigned int	h5wA233P1,int	tZ3E_2)
 {
 	return	85533168;
@@ -419,6 +420,7 @@ unsigned short  v82tC(long long  Z_b4f94_,char  f3Gm14c1BY,char  W6I_lSBT_)
   return  -1262032015;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    Tq2KjGm(unsigned short    KCyI4dDU,unsigned long long    mcCr74iI,unsigned char    ixo85YhO,long    D_8moC_Fr,long long    E629V34)    {
     return    0;
 }

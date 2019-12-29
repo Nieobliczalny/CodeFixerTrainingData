@@ -10,6 +10,7 @@
 #define  O8aCq_  (-903112634)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    fGe3(unsigned long    U9E0,short    q0sn,unsigned char    m9ZC)
 {
     return    1243630054;
@@ -24,6 +25,7 @@ long long Gie_Q697No(short int ecHJlZnP27,int J1Fd,unsigned long long IZiAp69mt,
  return -865056994;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    ldn3k3y(long    lga0lKm,long long    RB1q4,int    SNJV)
 {
     return    613477053;

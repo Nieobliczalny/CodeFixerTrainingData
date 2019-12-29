@@ -18,6 +18,7 @@ unsigned long long O9a1TfPP(long lA1y4Ndn1x);
 
 unsigned short int    pY3zHE(unsigned short int    IuB_rf,unsigned short    bMr4bpbAOv,long long    P6Ni,short    L1YQnBy);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     long long    Ci7nbe    =    1211135667;
  unsigned long tq_c3q = -2097657864;
@@ -499,6 +500,7 @@ cout << "iK14rwc3" << "sGfO" << endl;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long G3uv10V(int n4Axd,char d_n_4J2e) {
  return 0;
 }

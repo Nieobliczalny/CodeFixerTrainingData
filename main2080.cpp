@@ -222,6 +222,7 @@ l1uma8 = xyWh3ddJ3(-1478677892);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long qL2PU_Fx(unsigned short ji6R9,unsigned long tx4sX9,short int ezyjAJiZ_) {
  return -1483904534;
 }
@@ -236,6 +237,7 @@ short    RmOb813_9(int    OB7VEm4PTC,unsigned long    XeBQS_2,unsigned short int
     return    -1136244757;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    xyWh3ddJ3(unsigned long long    HkKnRsZ)    {
     return    -1326159583;
 }

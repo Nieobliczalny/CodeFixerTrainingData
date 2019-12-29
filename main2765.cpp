@@ -16,6 +16,7 @@ long long gDLi(unsigned char egrN9,unsigned int ArtDe4sJ,long long m9r6N,unsigne
 
 unsigned char    HIOL();
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   unsigned int  kf648fInQ;
@@ -567,6 +568,7 @@ while (j >= 0);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long gDLi(unsigned char egrN9,unsigned int ArtDe4sJ,long long m9r6N,unsigned int kUu724K7K)
 {
  return 0;

@@ -14,6 +14,7 @@ unsigned char  HbBRH4()  {
   return  1791188116;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    W9j51PtB(long long    U7EY)    {
     return    -1092441036;
 }

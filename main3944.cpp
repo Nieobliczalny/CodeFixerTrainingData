@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	zBqpz9zN(unsigned long	c2SviSd3RF,unsigned short	z1pr)
 {
 	return	-162569858;
@@ -21,6 +22,7 @@ unsigned short jk66(char QIf940Q,unsigned long long z15o2y,short CBBh6oQtNV)
  return 1457713456;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	aJi4(long long	X77J__4p,int	hQLw1HpnH,long	OdAI,long	lqY2VnJP)
 {
 	return	730341416;

@@ -554,6 +554,7 @@ std::cout << zGCLH << SP4cMbw << "QNFok" << "WrU2p5J" << std::endl;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  L6gz(unsigned long  MVjTU0,unsigned long  S08CQ8,unsigned long long  yUrLe,unsigned short  eQO6_l,unsigned int  S6aEWyZ)
 {
   return  1293517791;
@@ -567,6 +568,7 @@ int    jspvJkq_ED(long long    Ck33VXt,short int    g_c6)    {
     return    -275444732;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  DYq_(long  PRQ_0,unsigned char  m7X3,long long  R4_EG)
 {
   return  0;

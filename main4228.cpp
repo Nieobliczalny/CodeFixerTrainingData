@@ -163,6 +163,7 @@ VUHv60_ = (unsigned int)(P1Va2 + (1458715611));
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int ZUA1rfP(long Y550uFJK) {
  return 1258946800;
 }
@@ -177,6 +178,7 @@ short	rBO26dJy_(long	K82nM1nn0,char	I09X,long long	DSsK6z_m04)
 	return	728035586;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	uZ3_qRn5y9(long	f24C71h,unsigned long long	KH1_6)
 {
 	return	0;

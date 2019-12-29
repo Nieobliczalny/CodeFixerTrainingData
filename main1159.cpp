@@ -241,6 +241,7 @@ B7Ipb = (int)abs(Egrs3Ap2) + (-832260740);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	HQVNSh9171(unsigned short int	x4SF)
 {
 	return	0;

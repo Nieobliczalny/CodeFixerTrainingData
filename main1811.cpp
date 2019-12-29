@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	GT_2s0G9L(long long	PBRm5IO5u,int	E9H3PfQg,unsigned long	Ule6o44Z6,int	U_Q6j3g)
 {
 	return	0;
@@ -22,6 +23,7 @@ unsigned long	o6z_Xg2s_(long long	AJZM,unsigned long	GdKoy4,short	jX8DQP)
 	return	1704695678;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   unsigned short  JrMoXi8;
   JrMoXi8  =  2020046340;

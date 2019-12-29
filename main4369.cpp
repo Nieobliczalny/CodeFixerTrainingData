@@ -97,6 +97,7 @@ short int iE7CFA()
  return -2089533897;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short lgI0d4y(unsigned char fMxjrVb,short int H71xkTo,unsigned char Vs88,unsigned long bXlkYX,int UOW93xy) {
  return -1671565951;
 }

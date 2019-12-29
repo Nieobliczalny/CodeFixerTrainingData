@@ -609,6 +609,7 @@ Cn37O_6 ^= k_ve;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short g90w(unsigned char uL8OD4VcI,unsigned long long N2DUoK_4QP)
 {
  return 0;

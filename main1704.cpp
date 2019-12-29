@@ -398,6 +398,7 @@ HEOL = (int)(X2mda);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int SYIti9C(unsigned short PJrx8lKB,unsigned long long FkfpCgxM,unsigned char BgSh,char IVKgU8I7CH,short mF7otLo4)
 {
  return 995990527;
@@ -408,6 +409,7 @@ unsigned long long  pnU375a(long long  MV_LoJ,unsigned char  cd0uuWdI,char  hOy1
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int i_my3(char FG60qj21,unsigned long long U_JtH3,short qd4E8F2u7r,unsigned long long l6mtFO2rGf) {
  return 796171034;
 }

@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char m0a_3Z5(long long dL65W5,int suAV9) {
  return -45317855;
 }
@@ -22,6 +23,7 @@ unsigned int	J1Ok(unsigned short int	hAs0Qy_Ed)
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   unsigned long long  LktV4tOH5,  RLx8n,  MswG8o_a,  z0EKM98,  lma6xQ3s;
   LktV4tOH5  =  0;

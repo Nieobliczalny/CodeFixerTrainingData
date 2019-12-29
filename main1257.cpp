@@ -232,6 +232,7 @@ aT5csnEN = Qb4CfaW_D7(-1622897342, -809279080, -587457996);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short z26C(int itIs9k_4,long long wG611qRY,short int X_L3i4A)
 {
  return 0;

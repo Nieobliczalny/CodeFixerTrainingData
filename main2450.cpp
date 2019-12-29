@@ -20,6 +20,7 @@ long a7k6tB();
 
 unsigned short int    Z3s0E49Kw4(long    J47lYKD_,unsigned int    nA7S2,unsigned short int    K29_MMh1r_,unsigned long long    Y8aXC0n8,unsigned int    K6998o8);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	short	LyFRv07,	ZYh0f5g13D,	u_jPXnGWz,	Uf9zjt,	u1F_4BQ,	r2ZXe,	l35rNs0,	h9vu4uZ88w,	mBL9fMoO,	BUuc,	sisu7Il,	ta12s7sF,	v7Je8QAkfu,	dzEG,	eXYQfgI,	A_yZ6hq21,	E2z20Y,	Ahjz3N,	PO1Wd822,	w9dKS_,	Wp5B0fMT,	pugb,	Dgu_3_8ks,	sr3uzh,	B34kgu7,	V_p047,	q3JkqC68GG,	ZkD_,	HXrp3f491,	vB_wi8,	ipo45,	zCnor4ZNg4,	n1941_,	a6ik38zG5,	Bit_UetM,	u78dV8l8vX,	RqJW_k7iT7,	mVHIwc,	wmpoEU4d,	QVd9,	CsDj1,	II4H,	C98Za3,	j42q71X,	qd4sewW_,	y4D_,	oYN4,	qcWD6_6sqz,	l4h9A,	hWZkeaE,	F_UrNDj_v,	oA3h6lp,	bX0XbJB1,	vb5Bkb_u,	CmbE61o,	b8uqxYsO,	YAZyATJV6,	O5gF9pd96Q,	qdLHK4_lK;
 		LyFRv07	=	ZYh0f5g13D	=	u_jPXnGWz	=	Uf9zjt	=	u1F_4BQ	=	r2ZXe	=	l35rNs0	=	h9vu4uZ88w	=	mBL9fMoO	=	BUuc	=	sisu7Il	=	ta12s7sF	=	v7Je8QAkfu	=	dzEG	=	eXYQfgI	=	A_yZ6hq21	=	E2z20Y	=	Ahjz3N	=	PO1Wd822	=	w9dKS_	=	Wp5B0fMT	=	pugb	=	Dgu_3_8ks	=	sr3uzh	=	B34kgu7	=	V_p047	=	q3JkqC68GG	=	ZkD_	=	HXrp3f491	=	vB_wi8	=	ipo45	=	zCnor4ZNg4	=	n1941_	=	a6ik38zG5	=	Bit_UetM	=	u78dV8l8vX	=	RqJW_k7iT7	=	mVHIwc	=	wmpoEU4d	=	QVd9	=	CsDj1	=	II4H	=	C98Za3	=	j42q71X	=	qd4sewW_	=	y4D_	=	oYN4	=	qcWD6_6sqz	=	l4h9A	=	hWZkeaE	=	F_UrNDj_v	=	oA3h6lp	=	bX0XbJB1	=	vb5Bkb_u	=	CmbE61o	=	b8uqxYsO	=	YAZyATJV6	=	O5gF9pd96Q	=	qdLHK4_lK	=	-923344708;
@@ -391,6 +392,7 @@ sr3uzh = vb17HT(sr3uzh, -1374209754, oA3h6lp, E2z20Y, 667180927);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long vb17HT(unsigned char P_c21o5b,unsigned short z9_oW,unsigned long long EReZn91,long long Ez0I,unsigned short Go_9uHaPj)
 {
  return 340945538;
@@ -401,6 +403,7 @@ int sX_96(unsigned short Ot4249UP,long long QF52,unsigned long long XD46,short Z
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long jF6v(unsigned short yN54K6U,unsigned char PQ65,unsigned short int lq5NEo) {
  return -14109797;
 }

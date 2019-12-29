@@ -707,6 +707,7 @@ while (j < 9);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	LzgrD2(unsigned long long	rlG2E8_b,unsigned int	LqQ0Jcq,unsigned int	d4yo_XGwar)
 {
 	return	0;

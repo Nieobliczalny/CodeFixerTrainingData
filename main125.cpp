@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    SlOf(long    U9BQo,unsigned short    RgB6d6BW01,long long    a40B53)    {
     return    -945216445;
 }

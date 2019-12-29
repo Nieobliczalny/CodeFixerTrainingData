@@ -15,6 +15,7 @@ unsigned int  v4QQH90RDy(int  wOz9Uy);
 
 long long  I_mV(unsigned int  M1aqUT7,unsigned long long  BOB4KR55,int  wHkN360y,short int  q_6kn,unsigned long long  m2728);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     short    tE6a2130;
@@ -782,6 +783,7 @@ v7Qav0_8td = (int)floor(BJ1NdS);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  v4QQH90RDy(int  wOz9Uy)
 {
   return  0;

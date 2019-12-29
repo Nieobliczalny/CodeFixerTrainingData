@@ -12,6 +12,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	TB09JN_4(unsigned long long	XNt5bViA)	{
 	return	0;
 }

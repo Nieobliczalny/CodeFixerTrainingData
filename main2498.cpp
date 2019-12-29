@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    sgEv4u32WA(unsigned int    wkm3Q,long    dd6QueU,char    jnem)    {
     return    0;
 }

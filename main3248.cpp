@@ -9,6 +9,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    tAGL41_4Eg(unsigned char    Z3A1WM2R_r,unsigned long long    p1_5Sif5hf)    {
     return    2019123134;
 }
@@ -22,6 +23,7 @@ long long	h8ho8r(short int	EwRmt175_1,unsigned int	b3eN_M89p,unsigned short int	
 	return	27600074;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  float Mxi4X6, ychAqo3zRy, rpXCD_7nhy, rSQ5Mt18Lc, pE05_, FR15Hq, ak3_V;
  Mxi4X6 = -564334026;

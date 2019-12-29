@@ -608,6 +608,7 @@ unsigned long    eha9Y7m()    {
     return    -1959932278;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    P4a82goS9(unsigned long long    pF8COWlFWF,int    E724DNy1,unsigned char    Y2_wtWL5,char    s4QD_,unsigned int    xjy3r)    {
     return    0;
 }

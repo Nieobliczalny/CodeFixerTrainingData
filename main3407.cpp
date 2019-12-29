@@ -17,6 +17,7 @@ unsigned int D7_7()
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  nqO_(unsigned char  XFy05CQ,unsigned short  B_a7MpUgl,short int  dSko54MA,long long  x21n,unsigned long  zuqH)
 {
   return  31182495;

@@ -22,6 +22,7 @@ long    iEBfh04C();
 
 unsigned short int jedeB();
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	short int	a37_00R	=	-383496923;
@@ -404,6 +405,7 @@ std::cout << jedeB() << kv9op1aQo1(a37_00R, -1052888735) << jedeB() << std::endl
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    H97uJ0M91x(long long    b7L49NZ474)    {
     return    965959925;
 }

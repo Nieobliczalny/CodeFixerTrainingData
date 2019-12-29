@@ -341,6 +341,7 @@ kh8JPdM9Z9 *= 500913732;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	ZCILQv(short	ON2T9moO,unsigned char	GegQ6694,char	h3J8HU_Q)	{
 	return	0;
 }

@@ -11,6 +11,7 @@ unsigned short int  Sfu82uZbM(unsigned long  U55E001s0,unsigned short int  n0ss5
 
 unsigned long long	gWl6S8(short int	r3BX7KVI,unsigned long	GcBkM6W7xh,char	hJynT1,long	y0YEmwV,unsigned short int	oWb2bhTt);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     unsigned long    Zih8nQz_jY;
@@ -493,6 +494,7 @@ k1y2A1_Tq8 = (int)abs(hwOeIIRl);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  Sfu82uZbM(unsigned long  U55E001s0,unsigned short int  n0ss5gL)
 {
   return  0;

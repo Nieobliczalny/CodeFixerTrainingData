@@ -9,6 +9,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short ifoo(long long xv495a,unsigned long long GOjTh,unsigned long UyTWY1) {
  return -2056786454;
 }

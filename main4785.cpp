@@ -9,6 +9,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long qPeza(long gtA95)
 {
  return 0;
@@ -23,6 +24,7 @@ char kQ21c(unsigned short int boDYlVZ)
  return -922182690;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	L0NqAqJN1F(unsigned long long	jA83B17El,char	Eqq93sQI4,unsigned short	lwcG0p_1X,unsigned long long	dvV_8,unsigned long	Gt5DC2aO2)	{
 	return	-1145093063;
 }

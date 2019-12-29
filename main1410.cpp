@@ -751,6 +751,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    QiOA(short    T5fI86vd,char    FOE1,char    K3054o,unsigned long    XSU6r0)
 {
     return    1302939728;
@@ -765,6 +766,7 @@ short int    EM9bq3_0(unsigned char    A_Wfz0t4,unsigned short int    G_DP,short
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  wr6d15etq(char  AeYv23EgYZ,unsigned short int  Fv3KaLwFyd,long long  P5XqG7,short int  Ddp1,unsigned short  eW4n)  {
   return  -1278356798;
 }

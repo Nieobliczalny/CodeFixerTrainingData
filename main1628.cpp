@@ -15,6 +15,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long IsW_r(short Vl7D3m7k,long long KhUU_) {
  return 0;
 }

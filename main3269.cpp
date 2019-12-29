@@ -502,6 +502,7 @@ edUS = W_HnOz8(P_B78HEmd5);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	U2uXh76(unsigned long long	fRU5M_Zj5g,long long	G_QtKP_93,long long	aL_9wjk,unsigned char	tCyJKBG)	{
 	return	791370354;
 }
@@ -515,6 +516,7 @@ unsigned long	A6H7K7E_y(char	X3rmb,short	OQIa2CvG)
 	return	395134200;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long W_HnOz8(short int a_9Dj)
 {
  return 0;

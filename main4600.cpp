@@ -663,6 +663,7 @@ o9918 = (unsigned long)(NGyIEE + (2120745265));
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    eKH9fJItk(int    ku1JfqnmB)    {
     return    0;
 }

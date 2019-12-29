@@ -16,6 +16,7 @@ unsigned char mSJn();
 
 char  ZD6Vi5rvAt(long long  BpZG);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     short int    m48n8OK0,    v63KrwwC,    j5NKCe;
     m48n8OK0    =    0;
@@ -760,6 +761,7 @@ unsigned char mSJn() {
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  ZD6Vi5rvAt(long long  BpZG)  {
   return  -69686424;
 }

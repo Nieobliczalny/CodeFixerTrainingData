@@ -12,6 +12,7 @@
 #define  yz8a0  (1455668506)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     unsigned long    H81P,    r2TD641Ou_,    AAt972;
         H81P    =    r2TD641Ou_    =    AAt972    =    0;

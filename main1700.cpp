@@ -421,6 +421,7 @@ MG0649W6e2 /= 2112142975;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  knhF24a2(unsigned short  zVIJM0O1,long  GYxaL)  {
   return  0;
 }

@@ -15,6 +15,7 @@ long long    bDZ4mbIn5()
     return    -154805886;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	opBWUIi(unsigned char	s_p7L88,int	ee6Md9YL,unsigned short int	zC9577Rv,unsigned short	MF0gaoA)	{
 	return	-1071031096;
 }

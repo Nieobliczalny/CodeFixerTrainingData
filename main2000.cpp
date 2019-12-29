@@ -11,6 +11,7 @@
 #define    q3JT    (0)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	eFnlm(unsigned char	lfzg06uVg,unsigned short	q600br_t,long	BUHP,unsigned short int	r_89Xu)	{
 	return	0;
 }
@@ -24,6 +25,7 @@ long hzB0tggx(short int OjfV7i,char c_8JU6o5jL,unsigned long long Rf6W,unsigned 
  return 791787271;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   unsigned long  Mv1V1;
   Mv1V1  =  447466578;

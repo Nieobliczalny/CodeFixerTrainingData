@@ -467,6 +467,7 @@ JJO1 = (int)(h4E7HTw + (A90Tef7NKe));
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    YDqgn(short    TSKvHn1f3,short    A0U5U,int    y0Hpit,unsigned long    PHl5ri)
 {
     return    0;

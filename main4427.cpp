@@ -747,6 +747,7 @@ unsigned short NB251()
  return 1069520165;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    b0aN3df9(unsigned int    RrN6jS1,long long    ZN8Oy8,long long    aj5X8,long    IS6M_s7132)
 {
     return    1858640030;

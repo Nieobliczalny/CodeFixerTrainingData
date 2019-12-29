@@ -18,6 +18,7 @@ unsigned char  dFFrVddA(short int  c7JHK6s,char  XMtO3_vW,unsigned long long  yh
 
 int    e7J6JK6Va();
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   short  k_AY_  =  1966871862;
@@ -419,6 +420,7 @@ BGZfA = UFPJ1aa(-762989404, w_VJxRU4, ujx024);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char UFPJ1aa(unsigned int E2S1jrg,short h12r_QovQ,long long tS2jw0i1h8) {
  return 1952425075;
 }
@@ -432,6 +434,7 @@ char    Lom_cu()    {
     return    2044983680;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  dFFrVddA(short int  c7JHK6s,char  XMtO3_vW,unsigned long long  yhy644_B,short int  D3gNr,unsigned short  Fg3T631V)  {
   return  0;
 }

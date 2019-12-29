@@ -17,6 +17,7 @@ int	j_2e()	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  long long siz9Ze = 0, gSmb = 0, Vwp6nw0 = 0, k19JJ7 = 0;

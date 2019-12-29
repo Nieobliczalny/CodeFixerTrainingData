@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    NHWxncC(unsigned int    cKAab1N7,short int    t7jUa,unsigned short    zLdQ)
 {
     return    0;
@@ -26,6 +27,7 @@ unsigned short  z7cWl716G(unsigned long  tyZ8X)
   return  2094302611;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    vO__6U38c(unsigned int    oH7KjxiP)
 {
     return    873342197;

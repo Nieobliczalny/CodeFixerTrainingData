@@ -22,6 +22,7 @@ unsigned int  sg99(unsigned int  Wlr9F,long  v2S5,long  P5041,unsigned int  TFR2
 
 long long    EiqM_3f();
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   unsigned long  vglvL_KhG;
@@ -360,6 +361,7 @@ unsigned long long    f3h18bF1v()    {
     return    1253514458;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	QL5T(unsigned long	E2d2sR,char	z7_L24udiv,int	hxt4H,short int	OXb249B)	{
 	return	-965317858;
 }

@@ -16,6 +16,7 @@ unsigned short int Y7OctZXh0(unsigned char zBtvCjw,unsigned short int RGGA33O7pW
 
 int    jZZaaT_T2S(long    oYe3Hm634,unsigned int    g4_bmq15,unsigned long    Gw_8b9Ew3,unsigned short    z6dyTJ);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	short	tx5Erbr	=	-1245813837,	bjTOm	=	1863696502,	pT1Z0051zS	=	238213763,	PmxwZpb0zp	=	267476417,	zl26N0	=	-1220946741,	OoVN6U_yl	=	-203646949,	tj6VGFAw_d	=	-693396185,	S2xeuc9Ag	=	-654320017,	kEuQW19	=	1287879707,	xEk_JjWWS5	=	-716835697,	k79U2O	=	-928238323,	zI975H39Yb	=	-1589706076,	b_j9rgl	=	2073106447,	ZK1BS	=	-1191479786,	Sx_pum9	=	-2056840762,	P_q29w	=	-114167295,	dO11	=	-455346294,	DJ2c4Qt	=	-1277729156,	d5GV533e	=	-319227439,	t6aI9M_	=	1958847501,	QHvKkpz0u8	=	84846374,	CrMQ15_oG	=	-581324392,	IfE0V7xj	=	1932814778,	Zr08i	=	1873472672,	cnp8hk0	=	-322723366,	V0N9xcmG	=	1231481414,	X1ZDn1B	=	1873685932,	AMe73p	=	-659978612,	a_zmgfBHO6	=	-1168597305,	fdunOW	=	2123276851,	mT35WY_Fe	=	-554179314,	nPPxu	=	1072269566,	YzMX2_E3	=	-889330332,	Vjk6oz	=	-825885964,	T3DgU	=	-1131960982,	RZUOE3BM1	=	-352074676,	ecRz	=	1456665655,	U82_B95a2	=	-1451895965,	BRn4Rn2fn	=	1735657375,	lY_8	=	1012481312,	dj_Y7m2h	=	186117771,	ax588XHb7D	=	296096014,	p02P36dr	=	917263742,	hQn_vTh	=	1751473456,	ws_nupI2	=	1004117915,	ObRi78f	=	-1140380646,	yZ_yLOYIN	=	-257081318,	RHxFPksv	=	-1647142596,	Muo2	=	984440857,	ulm6X	=	134175265,	I18Z53aA58	=	-1430296727,	iVZJhJ4M	=	-2112901763,	J99hWQ	=	1240237334,	f2Hc	=	-815510603,	PEM9u3	=	54372008,	a8qkMGO	=	-2126246204,	WA85	=	-1609607033,	usHT5r0	=	-1401028047;
 	unsigned long long	qK8E_Xzd4	=	0,	I2SgY	=	0,	xNnDG	=	0;
@@ -554,6 +555,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	M4AXlfL(unsigned char	mdQcbwE,short	a9p77Rnm,short	CY6JcZ,char	H_fb2U,int	pr3GA2uO)	{
 	return	0;
 }
@@ -566,6 +568,7 @@ unsigned short int Y7OctZXh0(unsigned char zBtvCjw,unsigned short int RGGA33O7pW
  return -1154744522;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    jZZaaT_T2S(long    oYe3Hm634,unsigned int    g4_bmq15,unsigned long    Gw_8b9Ew3,unsigned short    z6dyTJ)    {
     return    -1352397931;
 }

@@ -11,6 +11,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    QZql(long long    EFxT05Fwjr,unsigned short int    i5WZu0U7wj,short    yRW65)    {
     return    0;
 }

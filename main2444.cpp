@@ -856,6 +856,7 @@ PN_94pb = (int)ceil(Q4xwRUP);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  r2_X0_79(char  xPo_TQo,unsigned short  oocXIxZeU4)
 {
   return  93407842;
@@ -870,6 +871,7 @@ unsigned char RWxA(char JbF0HGD6S)
  return 1891048868;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    R7I3(long long    J37H,unsigned short    X35Vm__3P,unsigned short int    pnRJ3y,unsigned int    bIOgn5p87)
 {
     return    -1614049128;

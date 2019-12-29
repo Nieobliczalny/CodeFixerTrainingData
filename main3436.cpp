@@ -16,6 +16,7 @@ short int jBVr1s() {
  return 1037588359;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long HsTw7m(short int ItcoW,unsigned int b3B21_b,long v11614t1Cb,unsigned short int SR_h)
 {
  return 0;

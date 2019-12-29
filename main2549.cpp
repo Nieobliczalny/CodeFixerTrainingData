@@ -293,6 +293,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  YZC2Y(unsigned short  DlJ9,unsigned short int  khW2N49EA)  {
   return  -1031723453;
 }

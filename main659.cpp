@@ -13,6 +13,7 @@ short int PHGRnD2jUT();
 
 long long    DaqM_L685E(int    j_1r48,short    w51_R69Slk,unsigned long long    D8gs);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   unsigned short int  WpA_P5f5N;
   WpA_P5f5N  =  0;
@@ -118,6 +119,7 @@ HMN3W *= 1602843784;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    c5Q4_3(short    KmT4fsT0Bu,unsigned short    Df8F9,unsigned char    iyw9,unsigned long long    IfzeX7,long    lV8gq_C)
 {
     return    -1621491259;

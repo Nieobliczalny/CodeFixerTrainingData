@@ -13,6 +13,7 @@ unsigned short    CMG5E9pbz(unsigned short    YOwQecUK,short int    xesgK6,long 
 
 int    JzNz5f5Lh4(long long    C6rX8LeAE1);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     short    S8mX74RH    =    -1598780653;
@@ -455,6 +456,7 @@ qN8Wd2x8CC = JzNz5f5Lh4(1218460988);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	ugs_472S(unsigned short int	Sq1DGFN4)
 {
 	return	-2034508076;

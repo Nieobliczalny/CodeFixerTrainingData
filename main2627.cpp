@@ -23,6 +23,7 @@ int    J8x5cl();
 
 unsigned char	d0u1q2At(char	Qd6ucuKHNT,short	VcdxoOR,unsigned long long	LTVzQtgMy,unsigned short int	Mm5_,int	Bbt7jGs);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   short int  DJ5S_v  =  1407217641;
 	double	vX9fFQ11_0	=	542810792;
@@ -393,6 +394,7 @@ std::cout << "P7R8Uf" << DJ5S_v << std::endl;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char itNfU6BU(unsigned long F5b2Z) {
  return 549679155;
 }
@@ -412,6 +414,7 @@ int    J8x5cl()
     return    1854052558;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	d0u1q2At(char	Qd6ucuKHNT,short	VcdxoOR,unsigned long long	LTVzQtgMy,unsigned short int	Mm5_,int	Bbt7jGs)
 {
 	return	740808591;

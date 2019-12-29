@@ -14,6 +14,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    AvvuQ29(unsigned short    c0722bxhN2,long long    i6CMl0H3H,short int    oarslIN,short int    C39OH74gxG)    {
     return    0;
 }
@@ -27,6 +28,7 @@ long long  IFOIY0A5w(unsigned int  m8URJh3jH,unsigned long long  xyzRMWS,char  V
   return  884395002;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    Kc2454CRt(unsigned long    u0LQZ6O1bR,int    js996X1_)
 {
     return    1440628706;
@@ -37,6 +39,7 @@ long    Z2520(long    s4OVP,unsigned int    P4XgX,char    I_EniY,short int    rj
     return    -477537333;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     unsigned long    tHJ4M0I    =    -1726875967,    cNGEh1L    =    -1875835090,    TfAPK20    =    -1520925249,    k5rxhk1n    =    -1851284184,    jPxp_    =    -1028299108,    lplg48WwR4    =    -2055021427,    DP90    =    550379829,    wp99x32    =    -1436079850,    pa_g2    =    -650971016,    MjgSq2    =    -1310367258,    bOexkiN    =    -630787373,    FB_BCdgP6K    =    2107075000,    WR9G0ycF    =    218698553,    Vkq5    =    -549329901,    R210KYZX    =    442755021,    J94kp    =    1211896392;
 	short int	ZYYPYEec7R	=	0,	d_YS88q	=	0;

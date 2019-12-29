@@ -12,6 +12,7 @@ long h7AhQCH(short OuIX,unsigned long egzZm,unsigned short h3ttz4B,long t3pf3lG)
 
 long    BAnbZtxD(unsigned long    OAC1tA,unsigned short    m3B8);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     short    YJ0MkeeA    =    25530086;
     long    S19k3    =    2079898353;
@@ -311,6 +312,7 @@ std::cout << x9Cx7Ie3X_ << HM1Fadr9gG << p3o8q << "X1R7i7J__" << std::endl;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long h7AhQCH(short OuIX,unsigned long egzZm,unsigned short h3ttz4B,long t3pf3lG) {
  return 0;
 }

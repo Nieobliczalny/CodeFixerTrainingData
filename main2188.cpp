@@ -173,6 +173,7 @@ std::cout << G2w1YQ(-776862985, -1812042611, -1763614107) << w8DRKlC(AnL061x, r3
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  w8DRKlC(long long  EVjse05i,unsigned long long  myFZO,long long  Qs_Y9T3J2d,short  R2qkbV)  {
   return  -26379731;
 }
@@ -186,6 +187,7 @@ unsigned long long    q8jmDF(short int    BMho3wjx4,char    LD8fn9a_j)    {
     return    -920642819;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  G2w1YQ(long  f6A8LN,unsigned int  Hyy7f,unsigned int  ry10LAl_9q)  {
   return  -821598145;
 }

@@ -12,6 +12,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  RK1442O9(unsigned char  ojOH,unsigned short int  G4Ge5W_GE,short  mm_YkW1c_)
 {
   return  0;

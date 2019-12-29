@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  h8g24V(long long  GDgzQa_9,unsigned long long  wvN4p560s)
 {
   return  0;

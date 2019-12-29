@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  m2Deg1ES8(char  st_FeR,char  qZD3,int  Ti050e,unsigned int  oivMO351x,short  lImCX)  {
   return  0;
 }

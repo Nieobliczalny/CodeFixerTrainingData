@@ -17,6 +17,7 @@ unsigned int	tvUCF(long	TDD5,unsigned short	mm0MoE5L6j,unsigned int	OuW6k8513O,s
 
 unsigned int	SXl3Eg(unsigned short int	M1iG_n,unsigned char	r9F97,unsigned long	R42D45J8,long long	vAaBVj8M,short	m_L8v);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     long long    nRsP    =    -1304894400;
@@ -481,6 +482,7 @@ z4k0 = SXl3Eg(1341492475, L2uFz82L9, a273Y0F, xmRX9n, T8n209Y) << 2037166175;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short  Ys3gilt7k(unsigned short  l2uQGPq,int  dSc98,char  lnE3Cn,unsigned int  xfJ09B)
 {
   return  843144234;
@@ -491,6 +493,7 @@ unsigned long R7bWJ(unsigned long X154rq)
  return 158050427;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    jUiBlm8J_(long    RO6J7,short int    So92)    {
     return    0;
 }

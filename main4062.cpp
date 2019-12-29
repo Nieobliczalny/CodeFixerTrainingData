@@ -22,6 +22,7 @@ unsigned short  vb3oK()
   return  -711161938;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	IO48i3P(int	p6kR5o_Pf)	{
 	return	-2064364079;
 }

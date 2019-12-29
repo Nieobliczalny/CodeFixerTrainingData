@@ -10,6 +10,7 @@ using namespace std;
 
 short int  GD3KXtb(unsigned short int  QY589lN,long  NtvngmK3);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	unsigned char	Tu2f,	RLzs5e_YHq,	J2Au6D,	SZ10pcne2,	z0d28R2e8I;
@@ -61,6 +62,7 @@ RLzs5e_YHq = GD3KXtb(-979601999, ZG6NL_6DJ);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  GD3KXtb(unsigned short int  QY589lN,long  NtvngmK3)  {
   return  0;
 }

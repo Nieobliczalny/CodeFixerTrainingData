@@ -487,6 +487,7 @@ wrF0Rsuvh7 = (unsigned long)(XNY2byU8);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	je_k0_h(unsigned int	zoYE6i,unsigned short	ta18qj6B,long	fpJx)	{
 	return	750398520;
 }

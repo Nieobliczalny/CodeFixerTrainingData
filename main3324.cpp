@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  GP7WRuAP(long  l89_,short  NAPOC,unsigned int  i9jg3)
 {
   return  0;
@@ -17,6 +18,7 @@ int    NH9O()
     return    -1181137204;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    RoHk(unsigned short    mcn9,unsigned long long    B1sGP)    {
     return    2025792685;
 }

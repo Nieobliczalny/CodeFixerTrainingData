@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long YG3Vm(short int gk_w0Stb,unsigned short int dUbxe,long long Wt35u,unsigned short int NMNOSFJ) {
  return 0;
 }

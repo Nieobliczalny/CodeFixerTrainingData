@@ -12,6 +12,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	CIzetR__7(short int	IQ9d_uIxN5,unsigned short int	u0br89T57_,short	uL5HD,unsigned long long	oIL6JYPc_,unsigned short int	J8XMjEp53)	{
 	return	0;
 }

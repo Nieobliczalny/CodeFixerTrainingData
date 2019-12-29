@@ -657,6 +657,7 @@ short int    xn4_vKg()
     return    -1229996294;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short CRlDR_F6(long long U9IX2Q_lEu,short int n_81PzVtG)
 {
  return 0;

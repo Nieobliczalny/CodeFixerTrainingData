@@ -8,6 +8,7 @@
 #define T2I2EQdP11 (0)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	BD9E0RXmQ(unsigned long	tpL3_Yq,unsigned short	w4F3)	{
 	return	0;
 }

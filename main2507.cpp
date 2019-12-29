@@ -15,6 +15,7 @@ short int    c__3Gk6Z0(char    mEOdrK13k);
 
 unsigned long    bQp3ymon(unsigned short int    bVVfPB7fp);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   short int  aH0X3z5iA  =  0;
@@ -301,6 +302,7 @@ cout << v2c_hTO04 << bQp3ymon(-1208685379) << endl;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    GypbYq27m(long long    p_5sN6Im0,unsigned char    TpIqF6Si,unsigned char    H7PXNU8PF,short int    llB6W3bL1)    {
     return    0;
 }

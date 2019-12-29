@@ -8,6 +8,7 @@
 #define  TpsKaNiT  (0)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int kVa1Iwm1T(long long u0WrA58)
 {
  return -913952456;
@@ -22,6 +23,7 @@ unsigned char  u47aRiS_Z(int  uySri,unsigned short int  mOU_oAqi3,unsigned short
   return  1436927637;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int xNr_A(long long jTF6p,long long u985)
 {
  return 0;

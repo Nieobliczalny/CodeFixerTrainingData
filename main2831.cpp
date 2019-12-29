@@ -17,6 +17,7 @@ unsigned short e9ndUj1q7p(short int W090moRU_,unsigned long long YpCRsC0);
 
 unsigned short	QpvAl(unsigned long long	cNDu,unsigned int	a_i2b0SKPP,unsigned short	hF26kN,char	O_4g07w1);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   short int  f6JB  =  -565662641;
     unsigned char    ZcZC    =    640016756;
@@ -310,6 +311,7 @@ unsigned short nG7v_t() {
  return -2122653625;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int jn97cnW7(int C8_EF78)
 {
  return 0;

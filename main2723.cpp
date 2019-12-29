@@ -12,6 +12,7 @@ unsigned short oM_7() {
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	aFq9D(unsigned long long	Ut1h_8LG4,unsigned short int	VCOpQE,unsigned short int	kqHKu,long long	nEcoR)
 {
 	return	-1052096079;

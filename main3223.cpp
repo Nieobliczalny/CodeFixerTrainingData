@@ -13,6 +13,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  oM18(unsigned char  n8q7H543,int  AgT730qyv2,unsigned char  Hf2a1A2Q0)  {
   return  0;
 }

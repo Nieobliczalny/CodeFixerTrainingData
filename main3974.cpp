@@ -166,6 +166,7 @@ PPFJ3eGI = k1igsydx2(-2043065449, hXXhZ, -1004428481) / oQM9ZJa;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int k1igsydx2(unsigned short OGa5,char mQRK5KL_,unsigned long long bY4IP7K647)
 {
  return -1589286941;
@@ -179,6 +180,7 @@ unsigned char En09A1() {
  return -306631453;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  P2KzV(long  rRV_1,long long  k30pE)  {
   return  -389347222;
 }

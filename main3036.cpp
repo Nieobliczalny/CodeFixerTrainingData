@@ -21,6 +21,7 @@ unsigned short int    f09EwVw(short    L51z);
 
 unsigned short rKA42t1q(unsigned short int LCkXJwiGC,unsigned long long k3s_);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     unsigned int    PKG7I0fmX1,    iyik5,    IPmCb,    KOsL_8kD,    c6nIK46_P,    ySR1875_,    CR0zzTAy,    iZNKu8,    Y9e5,    rs2hFLgW,    pcP3f,    UFZ46mN,    U41E,    J8s9IIG,    YG6_8pWTkb,    Fb8Vp0,    EUF8ST1,    Gx8f1km,    y9s90b_qCM,    vokPL,    Edsq7jR,    O5Jn,    Pkkq2oAPi,    CRM32XJ0E,    g7nStHa,    j1mVT6_Mj,    sXVz,    CUUjpNOAa2,    z4P4zQdQm,    my6GLii4f,    kFtWSb3d,    xI7h,    Qt672WiFM1,    v682kf2L,    JyRLt27sDR,    J14Ra93,    AD53,    E6O_,    Gp7npUfQ5,    Su95PrP,    VJ2r0,    k2F0fwu4,    n_OGN,    c82Ky_KE4,    aAFUZ2,    QxGLc57,    KxzA,    IEyLoOq,    O541,    GW8FR85Vd,    u02f,    E3tG,    HTj0,    Fdv7R112s,    Y2f37no,    simYv9c,    BCVj0f5nj;
         PKG7I0fmX1    =    iyik5    =    IPmCb    =    KOsL_8kD    =    c6nIK46_P    =    ySR1875_    =    CR0zzTAy    =    iZNKu8    =    Y9e5    =    rs2hFLgW    =    pcP3f    =    UFZ46mN    =    U41E    =    J8s9IIG    =    YG6_8pWTkb    =    Fb8Vp0    =    EUF8ST1    =    Gx8f1km    =    y9s90b_qCM    =    vokPL    =    Edsq7jR    =    O5Jn    =    Pkkq2oAPi    =    CRM32XJ0E    =    g7nStHa    =    j1mVT6_Mj    =    sXVz    =    CUUjpNOAa2    =    z4P4zQdQm    =    my6GLii4f    =    kFtWSb3d    =    xI7h    =    Qt672WiFM1    =    v682kf2L    =    JyRLt27sDR    =    J14Ra93    =    AD53    =    E6O_    =    Gp7npUfQ5    =    Su95PrP    =    VJ2r0    =    k2F0fwu4    =    n_OGN    =    c82Ky_KE4    =    aAFUZ2    =    QxGLc57    =    KxzA    =    IEyLoOq    =    O541    =    GW8FR85Vd    =    u02f    =    E3tG    =    HTj0    =    Fdv7R112s    =    Y2f37no    =    simYv9c    =    BCVj0f5nj    =    -1675719906;
@@ -287,6 +288,7 @@ Edsq7jR = (unsigned int)(Lo_AE3_7);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    f09EwVw(short    L51z)
 {
     return    0;

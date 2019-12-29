@@ -436,6 +436,7 @@ while (i < 8);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    Ds6aesY4b(unsigned short int    lCZ8,char    r86uw2C)
 {
     return    -1591238399;

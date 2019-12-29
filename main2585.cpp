@@ -443,6 +443,7 @@ C6JgP1bJ = (long)(mr_5_So5);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short  Sq20f3C0sP(long  Rh9VYb)
 {
   return  0;

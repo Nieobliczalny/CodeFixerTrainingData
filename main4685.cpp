@@ -180,6 +180,7 @@ NpPHzG44 = S_D4y9();
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  La72H2(unsigned short  fCVW1n5,int  iLcmzqvxV,unsigned char  y8j8yR_,unsigned short  q__lgm75)
 {
   return  1507689507;

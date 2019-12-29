@@ -568,6 +568,7 @@ oz4Qu /= 143848746;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	ldNVQ(unsigned char	ehi547,unsigned char	Xe7__213,unsigned short	L7QSar,unsigned short	yNOi3,long	aoPt91_z3)	{
 	return	0;
 }

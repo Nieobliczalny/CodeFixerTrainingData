@@ -19,6 +19,7 @@ long long    WX7WS(unsigned short int    oA3O740Rhp,short int    BfZJqDhHb);
 
 long    L8Rl1(long long    d62g,unsigned short int    H7ToKeZ,unsigned short int    CDtkDm);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  long long Us3Y9A_M;
  Us3Y9A_M = 0;
@@ -348,6 +349,7 @@ unsigned char    TTm6EXgK()
     return    2016561930;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    WX7WS(unsigned short int    oA3O740Rhp,short int    BfZJqDhHb)    {
     return    0;
 }

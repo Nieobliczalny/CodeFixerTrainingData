@@ -17,6 +17,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	AT00a7kh(unsigned long	uc_YK543)	{
 	return	-91513511;
 }

@@ -182,6 +182,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char QCJq(unsigned int adX4ypPG,short int Wc56G9aDE,unsigned long long aF7JYSb,unsigned short ECEA7W4ve8,unsigned char hrWbIC7A) {
  return 0;
 }

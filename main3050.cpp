@@ -186,6 +186,7 @@ On_ts23_q = (int)abs(F6T_eI2V);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  Cx7R2(unsigned char  yg7_k)
 {
   return  0;
@@ -196,6 +197,7 @@ short	CKZqa(long	NGMcK,unsigned int	n9s65A02L,unsigned int	Zh_0Uepw3M)
 	return	-1606146113;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  zAvXr3SDY(unsigned char  mQ6RLr7zr_,unsigned long long  sK2wF,unsigned int  wqMUk1T,unsigned long  Qi88,unsigned long  Z6_3ez)
 {
   return  1859089810;

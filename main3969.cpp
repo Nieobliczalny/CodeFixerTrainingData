@@ -11,6 +11,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int yLNT(long long SGOPMrJ,unsigned short int z73n,long long rnZb3,unsigned short int l61joXF,long PYdkP4dc)
 {
  return 0;
@@ -21,6 +22,7 @@ unsigned long C611EsRH(unsigned short int Gl0__p,unsigned long iZbOCvnoA1,long w
  return -994171850;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    nNG8_(long    t6JvaXn6,short    xJpuPSW)
 {
     return    950210501;

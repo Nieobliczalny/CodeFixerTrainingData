@@ -16,6 +16,7 @@ long long  Y8Iujma82(short int  ld6RU3);
 
 long	M9_U(unsigned int	c30n4d,unsigned int	Is4jy,unsigned short int	O2E2,long long	bTAS,long long	hJ17Ny);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  unsigned long long Yp20AOT;
  Yp20AOT = 1523333817;
@@ -291,6 +292,7 @@ while (i < 5);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int hc_ftO(long long g71wbHKX5U,short BBYvf7k,int MQ8o9D) {
  return 1163396999;
 }
@@ -305,6 +307,7 @@ long long  Y8Iujma82(short int  ld6RU3)
   return  -607316758;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	M9_U(unsigned int	c30n4d,unsigned int	Is4jy,unsigned short int	O2E2,long long	bTAS,long long	hJ17Ny)
 {
 	return	-883691903;

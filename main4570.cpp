@@ -21,6 +21,7 @@ unsigned short int	g_MR_wxc()	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    m4nacl79Ev(char    iHf3t4,unsigned long    QXBegD1SoC,short    e2by8KU_P,unsigned long long    J21O2J,unsigned short    dJ42jII)    {
     return    -197698804;
 }

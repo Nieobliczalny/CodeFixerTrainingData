@@ -11,6 +11,7 @@ long long	rzj_49()	{
 	return	1543448154;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  AE6q7TL_iq(char  bmWUni4,short int  lNTfz,int  b0CvelvWX)  {
   return  -1570638285;
 }

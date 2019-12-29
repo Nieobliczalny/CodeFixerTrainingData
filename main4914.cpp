@@ -796,6 +796,7 @@ vxXBi79L = GP9sQ_vo8(rs25_6, -736382600, qgEY6gE4t4) * 1928815356;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    n0LC9i4lyw(unsigned short    Q8NMhGc,int    PiMrOO95,unsigned int    pIStw5,short    N20mk6N8,long    apC9gB2)
 {
     return    190759435;
@@ -806,6 +807,7 @@ unsigned long long    GP9sQ_vo8(long    jkAOGxPa,unsigned long long    zs_dYHg9,
     return    105895542;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short pa_9FmG0(unsigned int v3lWSifj0,unsigned char trz06r,unsigned short C4jwmm4q0)
 {
  return 0;

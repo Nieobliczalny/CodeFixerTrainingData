@@ -10,6 +10,7 @@
 #define    vu6PT    (0)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    U3ai(unsigned int    X97i,unsigned char    piV21DY_,unsigned short    Tp7mO,unsigned int    K8114ELGgS,unsigned long long    B6i4lWDwo9)    {
     return    0;
 }

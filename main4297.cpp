@@ -12,6 +12,7 @@ int FH9zru_480(unsigned char S_7l,char x2RxMzydw,unsigned int JWE08_m79j,short i
 
 short vi18HWO(short int hGHvvw6C32,unsigned long u46i4Mf);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   short int  up3hpS,  hQN0;
@@ -644,6 +645,7 @@ sF1_qtg = (int)abs(uv64Uib1);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int FH9zru_480(unsigned char S_7l,char x2RxMzydw,unsigned int JWE08_m79j,short ieIzk) {
  return 2073878494;
 }

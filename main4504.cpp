@@ -416,6 +416,7 @@ WBHg4x9W = qod987_3(WBHg4x9W);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    qod987_3(unsigned char    iU1jlVT)    {
     return    -668337879;
 }

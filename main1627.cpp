@@ -811,6 +811,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    s9HA9l(char    i5_3GI,char    Z_m_p,unsigned short    IqGIXuy,unsigned short    DrspG4gez,int    nTnLibEu8L)    {
     return    0;
 }

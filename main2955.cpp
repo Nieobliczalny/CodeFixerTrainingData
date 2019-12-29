@@ -276,6 +276,7 @@ F3mZlT = Ck2Kb31(Cxhg, F3mZlT, dd_22Lix_P, h2B27f4D, hVR8ib);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	oM98(char	oO22T6g,unsigned short	wqf7Fn,unsigned short	UkTNZ_AiK,short	tTMAS__)
 {
 	return	-1550947628;
@@ -286,6 +287,7 @@ short int rK_UNdZi(long H1_M8yp,unsigned short c8lRAh37n,unsigned int sNM5Fg5vAP
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short Ck2Kb31(long long vji8,unsigned long long XP8v68,unsigned long ntHhw07,unsigned long long a3DtZ57Nh,short int WOH9) {
  return -2075147999;
 }

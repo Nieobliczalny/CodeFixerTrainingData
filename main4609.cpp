@@ -19,6 +19,7 @@ short dx3_u63(unsigned long gSaOkRLL,unsigned short int YXZsQZ1j,unsigned long l
 
 unsigned short    VwV_y(unsigned short    Tka89W8L6V,short    mhv1t,long long    tT_1Jn69a,int    C9G4I3);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  unsigned short pOoF3f8 = -1047290391;
@@ -449,6 +450,7 @@ T_6TKwfK = dx3_u63(831342469, -1422181265, 1863275727);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short dx3_u63(unsigned long gSaOkRLL,unsigned short int YXZsQZ1j,unsigned long long D7uz4)
 {
  return -1304722502;

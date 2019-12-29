@@ -14,6 +14,7 @@ short int oDmXT2(long X3oL6j,unsigned short Xs844,unsigned long ivvsJ);
 
 long long	MM76qV52(unsigned char	zeuXQ1,short	W1ZDeGzeN);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	unsigned long long	oLp0Q3Te7O;
@@ -643,6 +644,7 @@ std::cout << r17ZRLgVXj << "g1r3xogS8_" << std::endl;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  g37685n5kx(long long  pFtzyF,unsigned int  Qe6PsVM,long long  apQsYNWo,unsigned int  YEqLK2E,unsigned char  Sw_xclQ88T)
 {
   return  0;

@@ -488,6 +488,7 @@ lZiX5 = (unsigned short int)(ofcNo8P7p);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    dF992_F7zu(unsigned long long    gIdeS493B,unsigned int    UrF8xS81K)
 {
     return    -1751015507;

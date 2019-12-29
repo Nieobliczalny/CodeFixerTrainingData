@@ -13,6 +13,7 @@ unsigned short int LQMJ76_syX(unsigned char zHUX);
 
 long long	vcO7dPkA2();
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  long double hXQtE5Y = 522072796;
 	float	er4Gykiyh0	=	-221882607;
@@ -547,6 +548,7 @@ cout << LQMJ76_syX(-1918700597) << endl;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int LQMJ76_syX(unsigned char zHUX)
 {
  return 0;

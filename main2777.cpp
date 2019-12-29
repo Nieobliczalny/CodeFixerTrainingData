@@ -401,6 +401,7 @@ cout << Ts5U73eF4 << Hhm7D7(vzIb, cCRamv1) << endl;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  Hhm7D7(short  Rl87Ccen,unsigned char  u94y)
 {
   return  -1534313446;
@@ -415,6 +416,7 @@ unsigned int  Hp6bt9(long long  v16To09HB,int  Sr1GB1g8,unsigned int  DUk8YtnVz,
   return  1610551185;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long eUQR6e(int Ct7JN2ydV)
 {
  return 0;

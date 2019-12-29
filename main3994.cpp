@@ -943,6 +943,7 @@ std::cout << w3h25U(hg92f8, 1882179457) << std::endl;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	w3h25U(unsigned int	WkV5Nc,unsigned char	QIB5OUf3)	{
 	return	0;
 }

@@ -418,6 +418,7 @@ Hqi3 = l3vI8j(d_423wY4) + 1316928136;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	nz2WKx(short int	r4A2h04,long	VFNAQJ0,unsigned char	sfwU63qu8P,unsigned long	v029g8JCnn)
 {
 	return	0;

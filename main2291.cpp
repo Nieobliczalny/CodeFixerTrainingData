@@ -10,6 +10,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  aq909GYq(unsigned char  R7Hbc2oZC5,int  giC62pJ90)
 {
   return  -1280045348;

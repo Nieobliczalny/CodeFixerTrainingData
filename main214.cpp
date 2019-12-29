@@ -414,6 +414,7 @@ unsigned short  t2664i()
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    k3UBZb4d(char    TaWe6bV,unsigned long    AFnLK8zs1,unsigned short    DBc53QmB,int    wGuEmN3)
 {
     return    -1645632876;

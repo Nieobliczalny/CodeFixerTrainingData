@@ -338,6 +338,7 @@ uhf0hB = T6eO8_91(uhf0hB, 1221527942);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  T6eO8_91(long long  Rr5aHA3,char  P177y_)
 {
   return  -1032366164;
@@ -352,6 +353,7 @@ long long  G7M5D35()  {
   return  -1230611813;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  PG50(unsigned long long  h_AnjK6)  {
   return  0;
 }

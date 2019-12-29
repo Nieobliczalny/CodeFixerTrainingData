@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long QO1g5rWB(int JuvGE84_) {
  return 0;
 }

@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short  U_iNc8(char  BrA__1,unsigned long  fI4e6)
 {
   return  0;

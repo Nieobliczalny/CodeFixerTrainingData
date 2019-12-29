@@ -20,6 +20,7 @@ unsigned long long    DBaXg7()    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    YEDlS1bK(short int    Mi0JSTiMb6,int    jwyx5_,unsigned long    czcx1i3n0,char    DLWLq)
 {
     return    1592459081;

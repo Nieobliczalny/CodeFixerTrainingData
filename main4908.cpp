@@ -8,6 +8,7 @@
 #define	fus5_guEfV	(0)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  Op_0PRHuNc(unsigned long  EzB9TB,long  H_H6w,unsigned short int  O0zU)  {
   return  272296886;
 }
@@ -20,6 +21,7 @@ int	S2oc(unsigned long	yEvbS)	{
 	return	-466082438;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	Ih4LQjVcQ(int	cS4Eyhk4Qa,unsigned short int	PHxs5,long	oHk1o8Pu4)	{
 	return	-1896846952;
 }

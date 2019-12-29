@@ -22,6 +22,7 @@ long    jM_YGf4ND(short    A9J05,unsigned short    fsIO6,unsigned char    zFJ7pO
 
 unsigned char PsmraHq72(unsigned short O397U6l,int NJQH15,unsigned long DQt80I_,unsigned short int s4XU4p0qu,short i8glR8Jw3);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   unsigned long  ny8611_Ep;
   ny8611_Ep  =  1667129061;
@@ -266,6 +267,7 @@ cout << PsmraHq72(ny8611_Ep, Le45BOqP, EyT17, W1Nq8f1B5, -1497350588) << u6Dowgz
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  u6DowgzNA(int  Q3dm31,unsigned int  ikki2Q,long  q62_tD_O,unsigned short  jBr6_l,long long  q181F)  {
   return  -1373747824;
 }
@@ -280,6 +282,7 @@ short int	NLzu(short int	CTxqhU,long long	L90T,unsigned short int	kNjTK5C8y)
 	return	-1369157900;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    jM_YGf4ND(short    A9J05,unsigned short    fsIO6,unsigned char    zFJ7pO,char    M1rd_i1_6)    {
     return    1904062417;
 }

@@ -12,6 +12,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	tIhVW(unsigned long	O2ome6n5,long	Mk4D_8,unsigned int	Z7aUQ1qe5c)	{
 	return	147347758;
 }

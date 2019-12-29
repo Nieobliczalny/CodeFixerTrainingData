@@ -17,6 +17,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    gHP5w(unsigned short    qR5XRxyB8,char    QOEX)
 {
     return    0;

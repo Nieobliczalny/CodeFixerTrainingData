@@ -683,6 +683,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    szggdyYS6w(long long    C40y,unsigned int    DcfvlMvbB,unsigned short int    sk2Sf_ai0u,long    JPe2,unsigned short int    t8Rw7l1)    {
     return    1941147342;
 }

@@ -9,6 +9,7 @@
 
 unsigned short	T_ogFC9l2(unsigned long long	TGh90HV);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	unsigned long long	xlE6431r,	f78S2xI,	vUJgy4g,	g507e29U,	a_2B_,	aKc_fAXp,	pH_Wy5tV2,	jtEbF,	FxQW03Ug6,	CdA8L,	T6g8rdciyw,	L_h34,	FR0e,	ldn3,	gy23_,	KK3WUr5097,	ViD0v67X8S,	Y_BM,	GmX4zCJs2Y,	uqi43h,	hSZ2c1,	GR7g,	r5O6O560,	op5Bos_,	B8S1YOx,	ue3mzd,	QYq1I6R6,	Xh5j0g,	eyBn57aI,	x23b9v_,	GgN_,	YWTysczRP7,	fL8i,	sw_lI4a,	H_Q5A0,	cwt2gN,	kIF7F,	CQ2hIRE,	LWTYZ,	YQV6,	kA248yI,	R80yN8D,	H53_,	nZ82,	I0uuw0C6,	cL8YCYJss,	mT25_8DH,	Kg1e,	jY2Ap9mB_,	jDzAf,	E0A_,	SL_P,	iBT8E50,	LlgBxF,	Sr90e,	qPXtt7CEv,	o_mt8AiFt5,	jVxD2nd,	re8H0fq,	JGd_tzsBJ,	Mxt5Y_3D;
@@ -764,6 +765,7 @@ std::cout << T_ogFC9l2(1184063885) << re8H0fq << T_ogFC9l2(-436124016) << "Xjzdi
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	T_ogFC9l2(unsigned long long	TGh90HV)
 {
 	return	0;

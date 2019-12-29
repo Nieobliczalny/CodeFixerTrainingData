@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    gRe2(short    L2PhB7,unsigned int    WJTGcI,long long    SFT5L)
 {
     return    -811021474;

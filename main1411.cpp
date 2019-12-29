@@ -8,6 +8,7 @@
 #define    esgFZnwP0G    (0)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	BR7dg9(unsigned char	V8O94,char	a1B_7b,long long	o67r_pxxu6)	{
 	return	0;
 }
@@ -22,6 +23,7 @@ short int  eRsT638(long  PblqN,unsigned int  fX1ft,short int  a85vE,unsigned sho
   return  -857009425;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  ttgG(char  a1710D)
 {
   return  -1662099079;

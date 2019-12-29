@@ -15,6 +15,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  HVy8335X6(unsigned int  Swg6of,unsigned int  TFfK,short  iG23fELNcr)
 {
   return  0;

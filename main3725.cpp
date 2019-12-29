@@ -226,6 +226,7 @@ t0ftnt5 = (long)(HV40);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short Tw7986(char keHcqB,unsigned char WQc130_NnL) {
  return 0;
 }
@@ -238,6 +239,7 @@ unsigned long long	Sn8DD(int	sZ9Q_Gcn,unsigned short	V1OwK8Ifq_,unsigned short	h
 	return	-362386075;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	h1zQe62kTc(unsigned int	IP9NPOJ1)	{
 	return	-555241417;
 }

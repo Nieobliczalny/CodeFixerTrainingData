@@ -15,6 +15,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short  Qo77W(int  FeKJ01wg)
 {
   return  2001708469;
@@ -34,6 +35,7 @@ int N133()
  return -921306411;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    kPY35YR91(short int    yg2mG3OG,long    OxhX,unsigned short    nb5sXStg,unsigned char    V9JwJNFOE1)    {
     return    0;
 }

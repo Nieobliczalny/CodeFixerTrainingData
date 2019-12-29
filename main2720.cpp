@@ -592,6 +592,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int Bt4_D9(unsigned long long eb3K4HGA7z,char yj__Ph5wv4,char uu8HOKD_0s)
 {
  return -80466666;

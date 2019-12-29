@@ -9,6 +9,7 @@
 
 char s0650b8();
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     long    e1EPGv4h9U;

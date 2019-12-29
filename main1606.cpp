@@ -640,6 +640,7 @@ ZvJ2BoG = (int)abs(ghUpwNR3);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    Q7D15(unsigned short    m41_Gf,char    EVGE,long    mITl7,long    Kr5c2Dx_l,short    w3yiudK3)    {
     return    886529351;
 }

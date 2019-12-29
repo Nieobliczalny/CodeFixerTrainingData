@@ -17,6 +17,7 @@ unsigned short Sm97_sPre(short CwMX9MN2B,char koIqAmK,int KHYS_6XXPI,char reLu3d
 
 short	p676w7l(unsigned long long	YFs9,char	pIPno16);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   float  d4buL1Pg  =  1621485361;
@@ -357,6 +358,7 @@ unsigned int  Js1rQWgo()  {
   return  1693940648;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	WVXkOkh_(char	ZacRS22vp9,unsigned int	Ke52,char	C3l5TcoZ,long long	MV4LH)
 {
 	return	-64194199;
@@ -371,6 +373,7 @@ unsigned short Sm97_sPre(short CwMX9MN2B,char koIqAmK,int KHYS_6XXPI,char reLu3d
  return 735974082;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	p676w7l(unsigned long long	YFs9,char	pIPno16)
 {
 	return	0;

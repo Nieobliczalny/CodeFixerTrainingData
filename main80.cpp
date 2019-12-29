@@ -324,6 +324,7 @@ wt4Wm = Eo0M54E72(wt4Wm, D42IK211j0, LXK_, 1431349840);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  Eo0M54E72(long long  DdH4v,unsigned short  K3144T1M,unsigned short  Bg_08Ox59b,short int  s044c7WvR2)  {
   return  -849973802;
 }
@@ -337,6 +338,7 @@ unsigned long	qywUzj()	{
 	return	-1046239041;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    R4_QVg(long    U58B,int    oF0d491pt,short    HTAN7n)
 {
     return    -611183302;

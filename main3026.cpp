@@ -9,6 +9,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  tinO(long  zoNJo4p10o,unsigned char  OwYTz4iCz)
 {
   return  -671537629;
@@ -22,6 +23,7 @@ short int  hXSt0ZrY_(short  pT8a6o,int  E8pt,short  w_gL_bA)  {
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   long  Bn5GO9W9Z,  A6i3BRey,  q123__9m33,  ARKRN;

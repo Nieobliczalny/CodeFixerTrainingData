@@ -11,6 +11,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long j9cRBcNqs(unsigned long LBuJ)
 {
  return 0;

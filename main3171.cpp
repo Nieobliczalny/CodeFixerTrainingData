@@ -483,6 +483,7 @@ std::cout << bw8s_9(dosnH, 1328851596, 1404503153, -258769578, -118902571) << "T
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int bw8s_9(unsigned char g7X_1,long long XUx3,unsigned short int tdQ7W_,long long cgA_9D,short int Bu7eW)
 {
  return 695452019;
@@ -493,6 +494,7 @@ unsigned long    nQ1Jn(unsigned short    tR51O,char    F95n2B,char    yVxs,char 
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	fl1cM(unsigned int	Oslu32pg)	{
 	return	-456503360;
 }

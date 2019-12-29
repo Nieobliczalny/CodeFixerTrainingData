@@ -199,6 +199,7 @@ wqIqB = hm_1yz / R47a7xs4;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    jlysK892Z(int    OQ_BV,int    XHEfH62_0,char    C_4uwQ,char    M9e6S,short    IpGye6)    {
     return    -1604732154;
 }

@@ -17,6 +17,7 @@ unsigned char I1k4952()
  return 2085911763;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	RUPVEBYN3U(short	VMJ_C3ZR,int	k6eu7,unsigned int	G63t0vBn,long	CE38_5oo,unsigned char	LeFGt27OI)
 {
 	return	0;

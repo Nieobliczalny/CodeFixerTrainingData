@@ -16,6 +16,7 @@ char b8QgND3t() {
  return 721503702;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  M8PIHy95(short int  zOS9,unsigned long long  KBKIbR,unsigned char  uu0F2,char  qIqsB)  {
   return  1872453093;
 }
@@ -29,6 +30,7 @@ unsigned long  ruH42D7_a(unsigned int  s8Ws)
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	char	vj67_o;
 	vj67_o	=	14088233;

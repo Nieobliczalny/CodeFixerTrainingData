@@ -16,6 +16,7 @@ unsigned short	P8jA(unsigned long long	q_T71,unsigned char	y8w2dr45d1,unsigned l
 
 unsigned long long	Qh31J(unsigned int	r5R2X_Zb);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  unsigned long long v_5Z71H0xL = 0;
@@ -187,6 +188,7 @@ H4bmk4 = (unsigned long long)(hhfSSJIi4N);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	P8jA(unsigned long long	q_T71,unsigned char	y8w2dr45d1,unsigned long long	Wb9WNxu7,unsigned long	cOrZ__3,unsigned long	TA38yQ3_)
 {
 	return	0;

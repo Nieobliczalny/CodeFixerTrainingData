@@ -18,6 +18,7 @@ short eA4_0Ti65a();
 
 char	oJp8o5ZW7();
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     char    xwQu4yfN41,    cNxk85,    vMtU89377,    W9Z3,    ySeWe;
@@ -543,6 +544,7 @@ TLs95 <<= 1629782805;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    qE9B0(short int    mJogXY0r)
 {
     return    1867525553;

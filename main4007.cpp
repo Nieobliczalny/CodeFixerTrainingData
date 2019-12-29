@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  e25aw(short int  DQe8MmMFHt,unsigned short  D6674mE,short  E97aA)  {
   return  -432185982;
 }
@@ -19,6 +20,7 @@ short Sj27(unsigned short eeO_i2akO5) {
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int foLL(unsigned int l4r5_CSA)
 {
  return -672156379;

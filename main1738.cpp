@@ -323,6 +323,7 @@ hCf16H201k = cCy4 & 1271094447;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    KPP6fDMF3F(int    uBp2k3)
 {
     return    0;

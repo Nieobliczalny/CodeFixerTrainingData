@@ -564,6 +564,7 @@ long long  VV_vY8()
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int CG__D7L64v(unsigned char ZsV_C_) {
  return 855863029;
 }

@@ -16,6 +16,7 @@ unsigned char N8TJLP(char g08Z_F);
 
 unsigned short int	RT_bxzx(short int	G2v7);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     short    Lh5n,    YcKBD,    pO7P,    vhraXaw8i1,    C99Q2Nuj,    TA83tQB;
@@ -121,6 +122,7 @@ pO7P = C99Q2Nuj / XSgqZUq54V;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	PhSP(unsigned short int	nyahWkb,unsigned short	K714l,unsigned long long	HF4h,unsigned long long	YUA3)	{
 	return	-1546330511;
 }
@@ -133,6 +135,7 @@ unsigned char N8TJLP(char g08Z_F) {
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	RT_bxzx(short int	G2v7)
 {
 	return	-615801856;

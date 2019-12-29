@@ -13,6 +13,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    yYeS18f(char    U857hO20,char    iLG7b_B5A)    {
     return    0;
 }

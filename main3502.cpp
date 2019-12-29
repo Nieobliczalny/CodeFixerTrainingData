@@ -12,6 +12,7 @@ unsigned int	lxOoQBpY(unsigned short	gX5UAqhP,unsigned short	OM_GmY3918,short in
 
 unsigned int E079v(unsigned short int dHcr2,short QfZ7v,unsigned short si2_F);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  short int UT79v7i2w;
@@ -407,6 +408,7 @@ while (j >= 0);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	lxOoQBpY(unsigned short	gX5UAqhP,unsigned short	OM_GmY3918,short int	X39TAD0)	{
 	return	-1859405069;
 }

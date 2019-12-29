@@ -252,6 +252,7 @@ std::cout << "BY68fFG" << MGtbIrO(-64181873, t_UA, L109A6l, Kux7MC, gT8JqIO9q) <
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    BIE21337(long    cL3q4SVT,char    tmbyX7B1P,unsigned char    cdeRd_Z,unsigned short    V79I9h_0M,unsigned short int    O5GdS)
 {
     return    -1684086559;
@@ -267,6 +268,7 @@ char  LtM_()
   return  -1129785091;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	MGtbIrO(unsigned int	NkJ8_l9,long long	atT8nJT,long	YZXktn,unsigned char	LKL2dACFl,unsigned long long	Y3TQ07L)
 {
 	return	-1014176737;

@@ -329,6 +329,7 @@ RiQ2K7 = NF7028Yk(1499271174) & 1153094980;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	NF7028Yk(unsigned char	z75S)	{
 	return	0;
 }

@@ -10,6 +10,7 @@
 #define    ptoWRf    (224658745)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     unsigned char    n_fy0Xx7o,    sIRxy,    KZTUVve3Bn,    Q24K,    HzFe348U;
     n_fy0Xx7o    =    0;

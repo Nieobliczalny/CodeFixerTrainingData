@@ -13,6 +13,7 @@ using namespace std;
 
 unsigned char  H3xe2oEgp(unsigned long long  GDlmgbZX2,unsigned long long  u_V1rhkt,unsigned char  SR97,unsigned char  l0PSNKoyJ,unsigned long  s0_0tH2z4);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     unsigned short    mr9dnq    =    0;
   unsigned short int  WSpD3e  =  1885306792;
@@ -486,6 +487,7 @@ NJHRsOW46b = H3xe2oEgp(NJHRsOW46b, w9k_TI, -730413940, K1_2292W, kxM_c_9);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  H3xe2oEgp(unsigned long long  GDlmgbZX2,unsigned long long  u_V1rhkt,unsigned char  SR97,unsigned char  l0PSNKoyJ,unsigned long  s0_0tH2z4)  {
   return  0;
 }

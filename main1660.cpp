@@ -510,6 +510,7 @@ unsigned long  f2j_lw()
   return  2030275157;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int xkxIh6C(int m9Y4xo1,unsigned short int G_u0mX3h,int bFj1,unsigned char JH8RcS,short NCtUnj1)
 {
  return 0;

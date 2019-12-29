@@ -385,6 +385,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    RMF73_3t(short int    C8r_eq3v,long    kZkOR4bSJ,long    aTXmVI)
 {
     return    0;

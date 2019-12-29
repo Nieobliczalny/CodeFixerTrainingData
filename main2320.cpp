@@ -379,6 +379,7 @@ i58l = tkzMY81u(i58l, p_1G_OA, ckzO1V2_7, aFP5fvz, -502385095);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    DLh_7B(char    w2wi3,unsigned long    VIe2N2sN,unsigned short    jkmsP5l)
 {
     return    254933324;
@@ -389,6 +390,7 @@ short	tkzMY81u(unsigned short int	W5J0Z_,unsigned int	m1z4li,unsigned char	bxH5D
 	return	1844883883;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  MTQ7Cs1L(char  fk14440K,unsigned short  WkJJjMr12,unsigned long long  YP6wmCNn)
 {
   return  0;

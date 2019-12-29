@@ -10,6 +10,7 @@
 #define    f6xR    (0)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	vKcd(unsigned short int	g3B8pq3Ozq)	{
 	return	1354242221;
 }
@@ -24,6 +25,7 @@ unsigned int    JXXKqiK9(long    C9csSNPa)
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     unsigned int    zFd_;
     zFd_    =    0;

@@ -596,6 +596,7 @@ unsigned int	t33g()	{
 	return	369786605;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long YWW_ZO(short int wx5mLrd3,unsigned long YS93giX,unsigned short int MN52,unsigned short int jZ26_d7d)
 {
  return 0;

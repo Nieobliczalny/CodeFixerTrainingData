@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	FZ3j(long	fWW2Pm)
 {
 	return	858083373;
@@ -22,6 +23,7 @@ long PJkfo(long long ZzflHw1)
  return -2054149293;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	nMP23GHlu(short int	iJ6_j9_rZ)	{
 	return	0;
 }

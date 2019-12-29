@@ -284,6 +284,7 @@ ErApfS = jtrw(ErApfS, 257498658, -1970784999, -20981090);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	Juj_(short	R_Rs,unsigned char	Gb8c)
 {
 	return	0;

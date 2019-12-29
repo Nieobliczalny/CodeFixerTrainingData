@@ -387,6 +387,7 @@ while (j < 9);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    ZA9C10E(unsigned short int    ojpt_2s,unsigned short    O4yU3N,unsigned char    S4rRcq2)    {
     return    30343216;
 }
@@ -400,6 +401,7 @@ unsigned short int	IZuPpx1(short	Uzll8HR4,unsigned short int	DuOuaGx289,short in
 	return	805541523;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  r3sE_(int  YUYO6R,unsigned short int  JBcKg_,short int  xHSR42_)  {
   return  0;
 }

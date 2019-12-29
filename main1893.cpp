@@ -13,6 +13,7 @@ using namespace std;
 
 unsigned long qN_e5YZM_(long long D_80Ins6,int T24ozN1EF,unsigned char e_8_eyi,long haPf3h,unsigned long H53tw0Y6);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   short int  UQ00  =  0,  QP2MMd9P7  =  0,  k8KJ294  =  0,  Gi7w  =  0;
     unsigned long    PzL_    =    -1985722617,    o27DJqu    =    -679686494,    xk6izM_D    =    -1256031137,    d87_oOUE    =    1496517643,    Wul710dQnw    =    1857374082,    jOYyuG    =    -1096990440,    WFSBpYjXH9    =    -847925545,    X14K8    =    1984872223;
@@ -515,6 +516,7 @@ while (i >= 0);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long qN_e5YZM_(long long D_80Ins6,int T24ozN1EF,unsigned char e_8_eyi,long haPf3h,unsigned long H53tw0Y6) {
  return 0;
 }

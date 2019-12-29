@@ -10,6 +10,7 @@ using namespace std;
 
 short	c8D585();
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  unsigned long iObIf73_8E;

@@ -708,6 +708,7 @@ std::cout << v1sb22 << std::endl;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int r1E_4(short int l5clX1C,char TtCoUiW,unsigned char TGgnYfa28,short Rk3X) {
  return -1545965941;
 }

@@ -613,6 +613,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    D8H9hHEDc4(unsigned int    ry10,long long    y3hYMs1a8E,unsigned long    ka1t)    {
     return    0;
 }

@@ -774,6 +774,7 @@ fYw9huZO = (char)(Z54s7);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    UsbC187H3(unsigned char    s7u_qXbs)
 {
     return    -87135924;

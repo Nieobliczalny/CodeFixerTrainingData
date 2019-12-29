@@ -10,6 +10,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long kK26j(char Z02RIGY7o6,short int p9krg4sU,unsigned char ggMOmx,unsigned long fy6v2,unsigned int tubTr) {
  return 90925201;
 }

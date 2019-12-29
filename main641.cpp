@@ -10,6 +10,7 @@ using namespace std;
 
 short int AgPw(short MhoImz3_l);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  int L202e1DnAW;
  L202e1DnAW = 1207894787;
@@ -260,6 +261,7 @@ while (i < 1);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int AgPw(short MhoImz3_l) {
  return 0;
 }

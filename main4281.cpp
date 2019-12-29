@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    KIQ_RwL_(unsigned short int    AGH9vB3,short    NTyw9t)    {
     return    0;
 }

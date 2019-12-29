@@ -319,6 +319,7 @@ unsigned long DHXbg682()
  return 1386786053;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  VmGyr9bjOM(unsigned long long  L4u_dMf2_)
 {
   return  932973350;
@@ -329,6 +330,7 @@ unsigned int    l_26it()
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	pL04K4OO(unsigned short	kEf4f_j,int	P_2Fs,unsigned char	u7Ft3Y2FUG)
 {
 	return	-257156101;

@@ -16,6 +16,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    R656OB(unsigned char    FZ_4F_,unsigned short    kRvp2q)
 {
     return    0;

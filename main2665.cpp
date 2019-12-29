@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	R2AX8qIq(unsigned short	N1ew1jif)
 {
 	return	0;
@@ -17,6 +18,7 @@ char  puVQ1X8i(int  QN0MISb2,long long  A60G,long long  vb08,short  L9xaTH,short
   return  -1659825439;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int dgI8DST(long Y3479x97q3,short IFuWN,short XErsSCV,int yO_4,long iMtHXlSJpE) {
  return 348200482;
 }

@@ -12,6 +12,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	A1BeBvPW(unsigned short	w0tRT,unsigned char	dE6X,char	TXd9N,short	pQnUl)
 {
 	return	0;

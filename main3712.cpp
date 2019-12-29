@@ -12,6 +12,7 @@ unsigned long b6VJHZR() {
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     unsigned int    qInAST54;
         qInAST54    =    0;

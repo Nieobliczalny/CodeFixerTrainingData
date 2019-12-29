@@ -12,6 +12,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	T0LY3IYP_Z(char	kTIITueby0,char	Nmmv)
 {
 	return	0;

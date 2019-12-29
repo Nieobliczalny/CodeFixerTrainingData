@@ -12,6 +12,7 @@ unsigned short    d244Ye7()
     return    1509057034;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    F7W8(unsigned long long    MLrr_5)
 {
     return    0;

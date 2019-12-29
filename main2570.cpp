@@ -14,6 +14,7 @@ short    EPPT2x3()    {
     return    -21979406;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    EE1o7SBKEd(unsigned char    MDQRYs,long    rE3_,long long    eH1AM9t)
 {
     return    1817508226;
@@ -28,6 +29,7 @@ char q4a4w8J5() {
  return -1340175893;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    V6Pwcm3(unsigned char    q7Em493,char    DOLlH1,unsigned short    x7yt49,unsigned char    KotwpzPf4)    {
     return    -68954041;
 }

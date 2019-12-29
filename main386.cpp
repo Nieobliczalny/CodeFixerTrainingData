@@ -20,6 +20,7 @@ unsigned short int  Nx3sL_Rtn0(unsigned long long  m035J,unsigned long long  FUT
 
 unsigned short BaG9535nx5(long zgwUdsDy51,char M9fi3,short QZdZ8j4pe4,unsigned long n6k5geOT,unsigned long long fl96xvI);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  unsigned int oM838V, RBd1;
  oM838V = 0;
@@ -687,6 +688,7 @@ hiPF2EFD = Xkovq(hiPF2EFD, gEfo1, 1400433267, 1223635198);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  oRvTp(unsigned int  y40qD,unsigned long  KJi54GZcc,unsigned short int  twsr3)
 {
   return  -494859156;
@@ -697,6 +699,7 @@ unsigned long	Xkovq(unsigned long	To16bD4,int	AA_1RTo,short	XsVZgwJacc,short int
 	return	-2082336113;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  Nx3sL_Rtn0(unsigned long long  m035J,unsigned long long  FUTm,unsigned long long  o9uSyP)  {
   return  783823944;
 }

@@ -20,6 +20,7 @@ char dY844zp(unsigned char BzpWON,short C0758TZ,unsigned short g5AX4);
 
 unsigned long long    DjJ2(unsigned short    a5Ul3npDU,unsigned long long    s5rd,int    SG112);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	unsigned short	ykZ9l,	a58nY9,	TGTXqUaxl,	zo5_B_Vb,	MQck1__,	Z6__Y4,	FKq9bX618,	s0iCmC7,	Bp5e3,	v43gU54cA8,	IE211bn,	iRQ6cpe,	IWb1,	of1_0nEw,	eJRxlO,	v8H3Q7kAOD,	vtV89TC7_m,	bhnXf28S,	Yfr3N4,	x_Dzy39yN,	G527P36q41,	wHwZY4,	Pkgy5Y,	Gju1,	DF04D2T3pX,	bbDR_zd_w,	IURp8nUA4,	a8Yh1Wlg,	pZw6U_,	o43Hx5l,	WmPf9zZ43,	ysYJNtyhid,	YpHb8g8,	jTya27A,	RHF3uSMlE,	KIHo_,	kUQ__9,	Z5NK4mm,	Ces76bcwM,	P50Euf,	tE62sk94,	tqXd2P_R,	d34GEdt2,	J18_ax,	yYu_23wn92,	ky7OdeBa_,	T9141MP,	XND_,	Ch9M,	Bt_bsx,	GDu5ox,	TD9lAd_z4,	JHLOjdMgr,	G5BAvpY2,	v3KB7Q__7q,	Xqve,	rUez7G2,	U7P9,	TBz5T8,	V24_66aSPK,	N3Phd,	qdrv4J0is9,	WuSmzc,	c6frj,	HF12ZEeo,	k4870ONO,	Kz3G2A_k,	BVkidcFdV;
 		ykZ9l	=	a58nY9	=	TGTXqUaxl	=	zo5_B_Vb	=	MQck1__	=	Z6__Y4	=	FKq9bX618	=	s0iCmC7	=	Bp5e3	=	v43gU54cA8	=	IE211bn	=	iRQ6cpe	=	IWb1	=	of1_0nEw	=	eJRxlO	=	v8H3Q7kAOD	=	vtV89TC7_m	=	bhnXf28S	=	Yfr3N4	=	x_Dzy39yN	=	G527P36q41	=	wHwZY4	=	Pkgy5Y	=	Gju1	=	DF04D2T3pX	=	bbDR_zd_w	=	IURp8nUA4	=	a8Yh1Wlg	=	pZw6U_	=	o43Hx5l	=	WmPf9zZ43	=	ysYJNtyhid	=	YpHb8g8	=	jTya27A	=	RHF3uSMlE	=	KIHo_	=	kUQ__9	=	Z5NK4mm	=	Ces76bcwM	=	P50Euf	=	tE62sk94	=	tqXd2P_R	=	d34GEdt2	=	J18_ax	=	yYu_23wn92	=	ky7OdeBa_	=	T9141MP	=	XND_	=	Ch9M	=	Bt_bsx	=	GDu5ox	=	TD9lAd_z4	=	JHLOjdMgr	=	G5BAvpY2	=	v3KB7Q__7q	=	Xqve	=	rUez7G2	=	U7P9	=	TBz5T8	=	V24_66aSPK	=	N3Phd	=	qdrv4J0is9	=	WuSmzc	=	c6frj	=	HF12ZEeo	=	k4870ONO	=	Kz3G2A_k	=	BVkidcFdV	=	2111433774;
@@ -503,6 +504,7 @@ std::cout << dY844zp(-1055022661, o43Hx5l, 634515521) << rUv9y_7w7(v43gU54cA8) <
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	rUv9y_7w7(unsigned char	U5tBhimg)	{
 	return	1321046507;
 }
@@ -515,6 +517,7 @@ char dY844zp(unsigned char BzpWON,short C0758TZ,unsigned short g5AX4) {
  return -1775327751;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    DjJ2(unsigned short    a5Ul3npDU,unsigned long long    s5rd,int    SG112)
 {
     return    0;

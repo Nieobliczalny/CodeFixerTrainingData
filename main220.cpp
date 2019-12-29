@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int M_YX(short int VD940mK4K,unsigned short uzHR__wA,unsigned int FtVf41z3Pu,long ubj_3DZp,unsigned int lfuKnPh)
 {
  return 0;

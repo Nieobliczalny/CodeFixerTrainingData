@@ -413,6 +413,7 @@ p7L3q = N6ClJBV >> 655776883;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    p21E(char    k0ght66p)    {
     return    0;
 }
@@ -425,6 +426,7 @@ int X_P9N(long long EN6d69,unsigned long long Fdc55,short int eLXXu1mK) {
  return 191911709;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    TYf4UN(long    b1n4,unsigned long long    U9fNzP7c0x,long    X45k4,unsigned short    F0tLuPH1T4,short    PimAO)    {
     return    -1645097282;
 }

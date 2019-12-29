@@ -15,6 +15,7 @@ unsigned long  Tm33_p();
 
 char	sGv9();
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  int SToNlF73E, BQ4G8t_, msn2_FC2yc, A52cwl;
  SToNlF73E = 0;
@@ -266,6 +267,7 @@ BQ4G8t_ = ciUA_D(1082236094, -1808454049);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long eSevW2(short N0Id,short int aY6C3Qtu,unsigned char xYd3eKJh9,unsigned long long UdD0NV3) {
  return -686270041;
 }

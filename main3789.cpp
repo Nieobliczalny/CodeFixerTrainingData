@@ -16,6 +16,7 @@ unsigned short int  o2I11F01uZ()
   return  -771740784;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int u66_B(long Kjh_,int k93a) {
  return -470345942;
 }

@@ -13,6 +13,7 @@ using namespace std;
 
 unsigned short int	B2RV_u77(unsigned short	VkFCP38Ju,unsigned long	HhIH39,short int	QP5oW9,unsigned short	bF7L7xwE);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  unsigned short int FiHOe_ZMq;
@@ -236,6 +237,7 @@ Zm_STP7riA = Lqm10542TY + Cm1av8j30O;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	B2RV_u77(unsigned short	VkFCP38Ju,unsigned long	HhIH39,short int	QP5oW9,unsigned short	bF7L7xwE)
 {
 	return	0;

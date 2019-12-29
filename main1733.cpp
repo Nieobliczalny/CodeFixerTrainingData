@@ -531,6 +531,7 @@ Kziptk = (unsigned char)(ec2D);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  P_Vd(short  r1j99_fH)  {
   return  0;
 }

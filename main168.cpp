@@ -408,6 +408,7 @@ while (i >= 0);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short Vq1yu8y0(short Y1AN26Js40,unsigned long long Kz6U4,unsigned long pb25v,short int rIAB8Vi) {
  return 0;
 }

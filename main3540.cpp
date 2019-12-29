@@ -12,6 +12,7 @@ char  yz7nz()  {
   return  239209846;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char zp02J_k(unsigned int OxC9zAZ,char S_yVN_,unsigned long YUG_BL) {
  return 0;
 }

@@ -422,6 +422,7 @@ RFc_BxLad = (int)abs(Hq37Hsdc_2);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	gVYaU3Dw(short int	EZNwo0,long long	T4OpT9,unsigned int	s_K7sJIWN)	{
 	return	791905118;
 }

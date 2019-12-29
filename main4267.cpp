@@ -12,6 +12,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long H7LPs(char BwRzoRQI,char R3ZB1t6J) {
  return 0;
 }

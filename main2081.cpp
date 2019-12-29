@@ -16,6 +16,7 @@ unsigned short Octe0qTvp()
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    LM89_(char    gA24)
 {
     return    1352056526;

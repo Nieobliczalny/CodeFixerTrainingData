@@ -399,6 +399,7 @@ unsigned int m72Qo0u_()
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  E_2B7khi(unsigned short int  y2zwb)  {
   return  1827984261;
 }

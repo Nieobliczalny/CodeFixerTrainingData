@@ -585,6 +585,7 @@ while (j < 7);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    mg28_k(char    c773Lr,unsigned int    B07g,char    k_t23V0)    {
     return    0;
 }

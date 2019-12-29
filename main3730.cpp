@@ -17,6 +17,7 @@ using std::floor;
 
 unsigned char    G10zTNguB(int    HpJ2E1138,unsigned int    jG90wQu,int    OSG3Y);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	unsigned short	Y_Xs8A,	A32F1cT58,	h9i09d0,	pMmjx,	QMG493B1,	JtU2,	V9iOH1O,	lea02,	JK4t,	SsEx9x_,	iPo2,	VSQK,	df7q,	SIxw5D_E,	xdf8fQP,	eZfAh3hz_7,	pK7c,	Ypc96CV,	w4n0Nspk4R,	HWC1,	jqpb6LU,	fxbc51TI,	O97e,	t7TrTVrl7,	aH8lF8Z,	i47raLz,	RSI1M6,	n9DaKrS,	Oyupo8f,	Gl18bY75t,	jt880,	rJJ3LX4927,	j_5L1,	lyOCC2_Y,	I_VEemY8Ep,	Ezr8UN,	b9DbyGc16z,	F_FO,	B6204on,	AqoMV_,	qyCzs,	HP4gsAL_m,	mfNvb,	kRimb61_S,	R9J8M,	BJu_2i,	MdKv,	cn2fJ7;
@@ -216,6 +217,7 @@ cn2fJ7 = IPri / G10zTNguB(Ezr8UN, 976472524, JK4t);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    G10zTNguB(int    HpJ2E1138,unsigned int    jG90wQu,int    OSG3Y)
 {
     return    0;

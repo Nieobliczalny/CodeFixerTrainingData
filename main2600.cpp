@@ -482,6 +482,7 @@ Ua_z59LK = sb018Z8(CTAKI_eP);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  sb018Z8(unsigned long  fO7Q)  {
   return  0;
 }

@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  Sn5F1(unsigned int  tSLKeT_L7,char  a8f_k1pyxW,unsigned short  P0xK7)  {
   return  0;
 }

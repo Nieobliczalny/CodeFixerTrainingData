@@ -13,6 +13,7 @@ unsigned short int	k3gA8()
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    vyen(unsigned short    UFdBT67G,long long    tdEr4mC1)    {
     return    -662657799;
 }
@@ -26,6 +27,7 @@ long    dqH45axIE(long    lPmxo2T,unsigned int    FjH_29_,short int    tv9SxF0y,
     return    481465083;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   double  p099;
   p099  =  1634703069;

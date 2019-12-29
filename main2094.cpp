@@ -13,6 +13,7 @@ int  MCLth();
 
 short    iL_W();
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	char	krZWLNT,	eefi0V2g_9,	G37DQx,	JRZ725,	v_T42;
 		krZWLNT	=	eefi0V2g_9	=	G37DQx	=	JRZ725	=	v_T42	=	0;
@@ -235,6 +236,7 @@ ClT83191 = (short int)(rh2jA_1lb);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  M_j53FG(unsigned char  kD4p29b2P5,unsigned long  aFa1c)
 {
   return  1167316988;

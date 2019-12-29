@@ -13,6 +13,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long W4zWM(unsigned char xRTH_eTLG,unsigned int OU8GcPiIh,short int Cb_4,unsigned long mZiQ_Wt_)
 {
  return 0;

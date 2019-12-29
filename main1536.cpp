@@ -14,6 +14,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    qn83(int    elmzf,unsigned short    wj7Po8qQy,unsigned char    t2xY557V,unsigned char    KHDkfJs)    {
     return    0;
 }

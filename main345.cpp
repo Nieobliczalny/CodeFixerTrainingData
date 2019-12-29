@@ -19,6 +19,7 @@ using std::floor;
 
 long    UR6b61(long    AI7Pgzy,long    y5q_BGo,unsigned short    U2o4ZvjT);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     long    RVmPf8jV    =    0,    iuUK    =    0,    eM1vr2VQ    =    0;
@@ -398,6 +399,7 @@ iuUK = UR6b61(v1R65So0, 332401199, iuUK);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    UR6b61(long    AI7Pgzy,long    y5q_BGo,unsigned short    U2o4ZvjT)
 {
     return    0;

@@ -13,6 +13,7 @@ long sw4I()
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     unsigned int    pey7    =    453296371;

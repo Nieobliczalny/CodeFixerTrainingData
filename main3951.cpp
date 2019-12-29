@@ -509,6 +509,7 @@ unsigned char I6S_p1v72()
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short i7234y9FGZ(unsigned short int W2_JFL,short int N__U) {
  return -260642113;
 }

@@ -388,6 +388,7 @@ i++;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    i_1H_pH(unsigned char    RBey,unsigned int    aS17J,unsigned char    JKwGskPD)    {
     return    1172867206;
 }

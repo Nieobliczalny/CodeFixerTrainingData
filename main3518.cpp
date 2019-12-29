@@ -529,6 +529,7 @@ unsigned short	fg3Np5csQh()
 	return	2020375297;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    j51ZnEn6(unsigned long    FCvDcZ)    {
     return    -583147413;
 }

@@ -517,6 +517,7 @@ lDC763_iYU = L01ULrBe >> W2SkzoB;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    B_zD53Wq(unsigned short int    v48mA)
 {
     return    0;

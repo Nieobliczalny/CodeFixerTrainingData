@@ -17,6 +17,7 @@ long long  n9eWPNB(long  ebbz4B4rO,unsigned char  jjxdh9gSIM);
 
 char	QMDl8xn5X2(unsigned short	bZlb67,int	H8zqgS,unsigned short int	cLgo74,unsigned char	Y7Vq7Z2,long long	t4hv740c3d);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	char	vb2Ddzju9	=	-1355699097;
   long long  in9_Muodl7  =  1757808027;
@@ -253,6 +254,7 @@ cout << "gBUb_2J__" << "CLQCt" << endl;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  n9eWPNB(long  ebbz4B4rO,unsigned char  jjxdh9gSIM)  {
   return  0;
 }

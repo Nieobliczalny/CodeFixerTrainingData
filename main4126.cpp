@@ -331,6 +331,7 @@ thHQ = (int)abs(lqQJmnyZ);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  Dg3s7Sh01(unsigned int  PSX70,short int  LaT9Rg,long long  dQx2,char  g_6_1SfM1r)
 {
   return  -1636258407;

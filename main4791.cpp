@@ -18,6 +18,7 @@ short int  GBvhAd(unsigned char  b09B94);
 
 unsigned short  loY3q(short  tc1LF_g97,short int  C9s0a_);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  long F7EabUc = 94794931;
@@ -541,6 +542,7 @@ cout << Bb2CbmO << loY3q(Exm8, -2040896028) << GBvhAd(-1216278638) << R__9C0_vw(
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  b6SVA5j(short  VQo4Lo,long  U987qg6yJ9,char  B968CHrbxV,short int  Zf2n39f)
 {
   return  0;
@@ -551,6 +553,7 @@ unsigned long long    o1h04Rq(long    EO_hMh16,unsigned char    kOalXWM6)
     return    888639247;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  R__9C0_vw(long  dHFG,unsigned long  W085,unsigned long long  oYHrXl3VH)
 {
   return  551340146;
@@ -561,6 +564,7 @@ short int  GBvhAd(unsigned char  b09B94)
   return  -92701307;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  loY3q(short  tc1LF_g97,short int  C9s0a_)  {
   return  1103561473;
 }

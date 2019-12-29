@@ -9,6 +9,7 @@
 
 unsigned int  qzY39Y5();
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	short	fYon	=	-306847425;

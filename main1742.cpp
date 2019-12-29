@@ -105,6 +105,7 @@ J3t8R = (long long)(A1Nh * J3t8R);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	oCCTf_N4(unsigned long long	eI_14,long	kcvhAjKDin,unsigned long long	Z57jS6,short	fG9RM1BV,int	Kmx6j_tWsB)
 {
 	return	1835255324;
@@ -119,6 +120,7 @@ unsigned char	r6_uS_w(unsigned short	Gaovz9,short int	R63h5d,long long	F0UfkI,un
 	return	-956389468;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char s_fH80(int gF2M3e,int fUQN5Fs0b)
 {
  return 0;

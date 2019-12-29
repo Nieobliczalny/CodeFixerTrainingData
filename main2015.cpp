@@ -12,6 +12,7 @@
 #define    i29wf2    (1182578880)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	nDk2yV3JO(short	c_4FQ_R,short	VDWK1PrC9V,unsigned long long	DvsycOJ,unsigned int	nj8S)
 {
 	return	-1990964683;
@@ -26,6 +27,7 @@ long long  YjDu()  {
   return  1148358646;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long Ge0Z4sh6(unsigned short int FJUCiSwwaR,unsigned long kSFh,unsigned long C544RRCB8,int kxefkEy,unsigned int RU1_J18V_U)
 {
  return 0;

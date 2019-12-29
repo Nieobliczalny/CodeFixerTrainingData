@@ -17,6 +17,7 @@ char wpp1M(short do30fF9f3,unsigned int BqTcf3o9);
 
 long long    S338iAYW(unsigned short int    l4S3Dw_8ph);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     unsigned short int    PaHSM;
@@ -719,6 +720,7 @@ std::cout << WST0Zc_n_Z << DPE1Fc_T4O << std::endl;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    OeIkdk(short int    eS6FM,char    d4Psvm2dOf,unsigned long long    W6cFU88)
 {
     return    553783889;
@@ -733,6 +735,7 @@ unsigned long long	h2318n8(unsigned int	aKYCL,int	X7N6v5wj4)
 	return	1588522787;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char wpp1M(short do30fF9f3,unsigned int BqTcf3o9)
 {
  return 0;

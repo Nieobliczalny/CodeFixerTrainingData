@@ -16,6 +16,7 @@ char nHVru(int K3Rex,long long HO63,long qk5_P1j8zo,unsigned int P4JBL64tjY);
 
 unsigned long long  Uk8mnrm(short  F1WJU2,char  H0o5_24);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     short int    aEyi3qXv1w    =    486940902;
  double c0q0 = 392748621;
@@ -435,6 +436,7 @@ hg_696fTp = Uk8mnrm(-270836116, 1125909374);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char nHVru(int K3Rex,long long HO63,long qk5_P1j8zo,unsigned int P4JBL64tjY)
 {
  return -1447135042;

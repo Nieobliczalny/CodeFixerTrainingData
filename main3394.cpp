@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	E_ZC607(int	n0lz9,unsigned long long	f0l5n8,short	DEiUwKUD,unsigned short int	huhFYY69)	{
 	return	0;
 }
@@ -20,6 +21,7 @@ short int    auGo()
     return    712286184;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	UA61hek(unsigned short	i9X0rLs5A2)	{
 	return	-1403726313;
 }

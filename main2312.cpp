@@ -11,6 +11,7 @@
 #define    j81MoOcLi    (0)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    K1T3eC9(char    CoqSf_,unsigned short    uKw7R_,unsigned int    mKe0pkh9,unsigned int    eHs3N7kjJM)
 {
     return    0;

@@ -15,6 +15,7 @@ short l662(int h65EEv,short cET84,unsigned int ss26Eb2N,short Vm6ZX);
 
 unsigned long    ep9stJCI(unsigned short int    set33b);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     double    hyAei,    l3e6Dfg37,    Lf8hl,    pZkm5,    G04EbI84,    Z_ZQ,    nJjBuwi1a,    ZD1V,    P853,    wJDWo,    gDp4hh,    i9WK2LDNi2,    FaEcpD,    jWHu,    ocI5dw3v_,    hOzy,    C001tuaOm,    AN893Rmd9,    RXs8n,    pP31H,    WP3h3Gu,    wsWbZ,    VH9YAhwFi,    zgnRCz5013,    i13vn,    s97YJkHQ,    OPIzD1V,    R71_;
     hyAei    =    312485554;
@@ -102,6 +103,7 @@ FaEcpD = (double)(WP3h3Gu);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short l662(int h65EEv,short cET84,unsigned int ss26Eb2N,short Vm6ZX)
 {
  return 1012916733;

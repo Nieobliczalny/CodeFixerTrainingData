@@ -12,6 +12,7 @@ using namespace std;
 
 unsigned short  LDt8EO56C4(int  H3TC,unsigned long long  GMu8SpL);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     unsigned short int    VDgpRpxWB;
     VDgpRpxWB    =    -1142714261;
@@ -465,6 +466,7 @@ while (i < 1);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  LDt8EO56C4(int  H3TC,unsigned long long  GMu8SpL)  {
   return  0;
 }

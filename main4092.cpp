@@ -472,6 +472,7 @@ oX350QM8 = (int)floor(JD9di9AVu6);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  kW_l_(long  Xrf0xJe,unsigned short int  CbF7w6RED,unsigned long long  Of4Wzbg6,char  H6Sj7413)
 {
   return  -1212239643;
@@ -485,6 +486,7 @@ unsigned int DiLa_Z(unsigned int Pca8,int IO0y4_7Q) {
  return -1516270604;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    L66r30_m(long long    fTHqx0teg,long long    SuBAuO,unsigned char    uWsMrXfJp,short    r1HG20hk)
 {
     return    1398210671;

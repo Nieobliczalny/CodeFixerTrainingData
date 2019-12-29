@@ -552,6 +552,7 @@ J9ShCV = qk1CrXWR(Nbd_, FrhwVNyES, -1432334820, -2081823503);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    qk1CrXWR(unsigned long long    Qn576X,unsigned long long    fwaRRwf,unsigned char    T_ecZy,long long    BqC_Q)
 {
     return    0;

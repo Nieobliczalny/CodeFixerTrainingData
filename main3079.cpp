@@ -14,6 +14,7 @@ unsigned long    Y7sr47();
 
 unsigned long long	I14_EUYm2(unsigned int	lbhK29_l,int	L5ze_4,unsigned short int	nRBosG,char	l4am66_15);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   short  y9R045uN,  IX4t6D5_,  ko1_;
   y9R045uN  =  0;
@@ -501,6 +502,7 @@ unsigned long    Y7sr47()    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	I14_EUYm2(unsigned int	lbhK29_l,int	L5ze_4,unsigned short int	nRBosG,char	l4am66_15)
 {
 	return	-1507207177;

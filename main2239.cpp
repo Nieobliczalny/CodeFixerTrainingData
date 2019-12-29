@@ -10,6 +10,7 @@ using namespace std;
 
 unsigned short int	EJ49(short	GT9w5p7U7,unsigned short	ADcYCC_D2,char	MwDb,int	S_acR0);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   float  pwVQt7A2T1  =  537951554;
@@ -590,6 +591,7 @@ while (i < 7);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	EJ49(short	GT9w5p7U7,unsigned short	ADcYCC_D2,char	MwDb,int	S_acR0)
 {
 	return	0;

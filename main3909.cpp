@@ -9,6 +9,7 @@
 #define	h0H4oNru	(-980109189)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long ABijh3k1(unsigned long f3P2,long long CX_4k,unsigned short int G00Bq,short P20B,unsigned short int lUe_5H_)
 {
  return 0;

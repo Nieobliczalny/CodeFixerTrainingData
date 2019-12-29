@@ -336,6 +336,7 @@ TdDO77 = Y6A_X7 / 660862226;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    qerO(unsigned long    bxv7PhV_A,unsigned short    a_3Fi1)
 {
     return    0;

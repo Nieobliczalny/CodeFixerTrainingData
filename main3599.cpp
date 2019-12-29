@@ -10,6 +10,7 @@
 #define	Vw84k1	(0)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    yzwbs_XeZe(short    qSW7q9,unsigned long    vo0f7,unsigned long long    S5aJ)    {
     return    -1041919152;
 }

@@ -12,6 +12,7 @@ unsigned long  pnu1Dt(unsigned char  c0Nx,unsigned short int  i9T7w,unsigned lon
 
 unsigned short  eCK_(int  AK_X__1c65,unsigned short  gsMA6D);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   int  z6mwVi;
@@ -274,6 +275,7 @@ YzIw = (BJ4EcgxU > -1634852283) ? pnu1Dt(rAk2O9, 497998369, 1188219565) : 390068
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  pnu1Dt(unsigned char  c0Nx,unsigned short int  i9T7w,unsigned long long  e24t9096X)
 {
   return  1492217149;

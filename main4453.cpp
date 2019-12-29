@@ -14,6 +14,7 @@ short int    fOdr()    {
     return    -1866423637;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	Ye9LB(short int	B0dp09L66v)	{
 	return	0;
 }

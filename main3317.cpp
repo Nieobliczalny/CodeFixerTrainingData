@@ -487,6 +487,7 @@ ZdF_j0i0lJ = v3450V8A3(ZdF_j0i0lJ, U_Bh, q4swn, -1304078427, 573286028);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  fFxJsl5P(int  hx0OB,int  Ce8dG62Fy,short int  ElZ2QyyDJ,unsigned char  I40gxU4)
 {
   return  878774940;
@@ -501,6 +502,7 @@ long long    GtKvrs(short int    YV4N26Fppq,unsigned char    hCpqQ,short int    
     return    -1621535845;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short Y2dG(unsigned long nv_Fc)
 {
  return 627793393;

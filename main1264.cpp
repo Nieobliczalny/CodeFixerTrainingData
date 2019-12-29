@@ -454,6 +454,7 @@ unsigned short IfZrS()
  return 1679883928;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	G6u643p7C(short int	N1C3C4U4y3,char	x8hychooV)	{
 	return	-983735568;
 }

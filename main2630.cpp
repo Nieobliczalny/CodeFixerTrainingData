@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long F2u6Niog_R(long Kl49,short Hl86,long Ag81k7YD,short int i_epU,long KW1olUO9K) {
  return 0;
 }
@@ -21,6 +22,7 @@ short	RVP_aw(unsigned long long	wAG_LcZOb)	{
 	return	870841248;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     unsigned int    k2oPIN;

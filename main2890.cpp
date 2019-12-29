@@ -10,6 +10,7 @@ using namespace std;
 
 short int llwc(int JKfHn,unsigned short int O9o3uGngU,short int vDshqgbg,short int xx6_0GSP,unsigned short int kLZX2c);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  unsigned char M51Kk, rOIx;
  M51Kk = 0;
@@ -465,6 +466,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int llwc(int JKfHn,unsigned short int O9o3uGngU,short int vDshqgbg,short int xx6_0GSP,unsigned short int kLZX2c) {
  return 0;
 }

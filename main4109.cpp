@@ -426,6 +426,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  bPsuc87Ai(unsigned long  rtz7qr9u)
 {
   return  -1964968402;

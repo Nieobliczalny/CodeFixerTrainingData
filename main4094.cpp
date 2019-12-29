@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    r3L1LJ35(unsigned long long    RR4wxi3X7h,unsigned long long    p269a00_)    {
     return    2140547775;
 }
@@ -21,6 +22,7 @@ unsigned char DIre6fU(int jzghE,unsigned long s_KW,unsigned char vdZiU3T53,unsig
  return 626914182;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  FGepgp(unsigned long long  i_FGY_bN7_)  {
   return  217170794;
 }

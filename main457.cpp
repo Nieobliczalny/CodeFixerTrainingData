@@ -13,6 +13,7 @@ unsigned long long	em_6()	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  KY2gjdc7(unsigned long long  jg763Er6g,unsigned short  E_p8WI,unsigned short  vD5jgkm4zk)  {
   return  135104501;
 }
@@ -25,6 +26,7 @@ long    PwGD3dI(char    RzSd03w,int    f8yB)    {
     return    648235122;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   unsigned long  tZnZm_;
   tZnZm_  =  1342661041;

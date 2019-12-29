@@ -13,6 +13,7 @@ char	X5869q(unsigned short	py4mFh0E);
 
 short  Nk82(unsigned int  sOQNhgFDh4,long long  PP5Zlu);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     short    T9pI0;
@@ -452,6 +453,7 @@ bY6qNz5o7J = (int)floor(m7_VfZ);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    RF84ylI(short int    jsq91,int    uldO,unsigned int    d_18hUpvm,long    k7nF3)    {
     return    1390300850;
 }

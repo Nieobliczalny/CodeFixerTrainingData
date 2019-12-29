@@ -561,6 +561,7 @@ unsigned short yHVTa() {
  return -86613978;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char c5Rkf(unsigned long long eM87,long si_X7,unsigned short int Ddgtw6m69,unsigned short int X1D8f6im_6,short int Bj55VP) {
  return 0;
 }

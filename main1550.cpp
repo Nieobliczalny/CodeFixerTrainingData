@@ -23,6 +23,7 @@ unsigned long long nmT0D9iQjp(unsigned long long vZO13,unsigned short WOmxXy,uns
 
 short int Vh48BFL28(unsigned int O0ZG6V_Q,unsigned long bb6m6OB1r,unsigned char Zup6B_yW);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   short int  necI2n9cLM;
   necI2n9cLM  =  1235216389;
@@ -524,6 +525,7 @@ unsigned long    G5mq()    {
     return    2114367390;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long nmT0D9iQjp(unsigned long long vZO13,unsigned short WOmxXy,unsigned long I1AL,unsigned long er7J2y8906,short int sxFNUE)
 {
  return 0;

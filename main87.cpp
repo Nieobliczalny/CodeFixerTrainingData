@@ -13,6 +13,7 @@ short int  gY396(unsigned short int  MT4mu,unsigned int  QmAC1GO_2V);
 
 unsigned short int df57S9w3S(long J_P3q_68N,unsigned long eOz06N);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     int    e3iMxZad;
@@ -489,6 +490,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  gY396(unsigned short int  MT4mu,unsigned int  QmAC1GO_2V)  {
   return  0;
 }

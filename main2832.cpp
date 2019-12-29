@@ -864,6 +864,7 @@ oBl_0 = (int)abs(bK_xRsJrZJ);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short F_J1cA2(unsigned short kNcI_I,int L03qK7g,char PWDbgic,unsigned short OQV2W) {
  return 0;
 }

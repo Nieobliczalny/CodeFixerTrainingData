@@ -15,6 +15,7 @@ using namespace std;
 
 long dC057(long long Z98fid7G,short int Z3uK,char d5R_);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     unsigned long long    Uvi251,    WOPP3l8b,    lM3w1K6,    DX5r5k39,    zzyKS8t,    oma44r4,    N3A9xyXw,    TMv9juP,    mRv2B,    z_Spa,    Y0a0yNRGhz,    a321Ua4,    ylPg,    PsL_ZN,    Txls0Py0M,    fcAL6__,    W3RfV5r53f,    c57RsYvVU,    jH0x8z1,    XIuJ35,    fhkVhC2g9e,    THR6nSqHq,    e456hOQ,    ZPVu_73V3,    Xg68b8e,    Iu6Kj,    AS13,    VmeU,    mIm_TlS1AG;
@@ -81,6 +82,7 @@ e456hOQ = lOOpE / iKZ0s_I;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long dC057(long long Z98fid7G,short int Z3uK,char d5R_)
 {
  return 0;

@@ -15,6 +15,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long wwxaOl_zY(unsigned char uXH_n)
 {
  return -949626436;
@@ -25,6 +26,7 @@ unsigned long    Gbkh(short    Xsefj84,unsigned short    sKuGl_YJt)
     return    -165046212;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char A5Av_(unsigned short V28_i,long kwDLOc9) {
  return 0;
 }

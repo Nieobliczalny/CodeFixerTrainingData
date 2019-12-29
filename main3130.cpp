@@ -16,6 +16,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	KMH20w26(short	FhnUz4vP,unsigned short int	vsI24_,char	FOy4VC7,unsigned long	xnZ9Xt)	{
 	return	-935457743;
 }

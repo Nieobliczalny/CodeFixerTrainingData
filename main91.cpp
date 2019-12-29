@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	tyOXa(char	X926,char	E96l73kvGb,long	hB7Y)	{
 	return	-1438317142;
 }
@@ -26,6 +27,7 @@ unsigned int  kG_xb8h()
   return  -407642408;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     unsigned int    nYTIWc6d    =    1799617536;

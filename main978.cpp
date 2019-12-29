@@ -380,6 +380,7 @@ YjRK94K12 = (unsigned short int)(ILrM);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	be5148Q84a(unsigned int	C8X9SvsI_)
 {
 	return	-158196327;
@@ -390,6 +391,7 @@ unsigned long	KbN1s3(unsigned long	lMp_ENI5,char	DEbMM1_n51)
 	return	-1307336163;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    y392y(char    ACWn6,unsigned short    oYO09o4c84,unsigned long long    aOsvr,unsigned char    Y96zu,unsigned short    KGue_g)    {
     return    0;
 }

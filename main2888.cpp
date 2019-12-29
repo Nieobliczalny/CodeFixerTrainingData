@@ -17,6 +17,7 @@ long  u4Q4atU0i()
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    IXhC(unsigned char    g1be,unsigned char    oTXL0Zk2,unsigned char    fqi7_j9kO3)    {
     return    1570756591;
 }

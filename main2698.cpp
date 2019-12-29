@@ -17,6 +17,7 @@ short int  tB69a()
   return  -1839355436;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    DwqP(long    n3asZ6HHp,int    qU_Rv,unsigned long    l9cWM,short    UxpZz27Ly5,unsigned int    O0nar)
 {
     return    1452478242;
@@ -30,6 +31,7 @@ long long	fiZKR55(long	C_fkDHvYa,unsigned short	yA868V,unsigned char	hC1b4n,long
 	return	-1533693873;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short m8RT0mB8p(int NEFo4g7ts,unsigned char yZ5RHETCsy)
 {
  return 0;

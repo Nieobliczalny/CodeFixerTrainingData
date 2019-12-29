@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	IC2V(unsigned long long	LFQW6P)
 {
 	return	587778991;
@@ -23,6 +24,7 @@ unsigned long long  OPI84xGQ()
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  XC11LNz379(short  LXG_)  {
   return  -1944433345;
 }

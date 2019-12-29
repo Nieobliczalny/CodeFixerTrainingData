@@ -13,6 +13,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    pNiv_k2Zu(long    pSMED,long long    yKFB5gKsFj,char    qb3_n44Y,char    ChmkiTk_D)    {
     return    0;
 }

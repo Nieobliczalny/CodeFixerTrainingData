@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long WO8vtKK_08(long long R0t_,unsigned long z11cPCzx_,unsigned int OHpIY1PAG2,int YVDU874)
 {
  return -1852094207;

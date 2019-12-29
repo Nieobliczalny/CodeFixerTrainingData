@@ -565,6 +565,7 @@ y6EP = (unsigned long long)(a0syzOSk);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    s7_Q6_m8s(short int    F_zCLtTmt,unsigned long    JFZatk_)
 {
     return    0;

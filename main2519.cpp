@@ -204,6 +204,7 @@ Ia_uUv = vj4Xv(2039899817, 1848289691, 183631864, -2080155749);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  vj4Xv(unsigned int  whfU7T9q,char  DPuL,char  R24hv2,unsigned long  X9s4o)
 {
   return  130870598;

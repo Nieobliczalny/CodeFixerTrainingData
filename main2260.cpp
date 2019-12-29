@@ -835,6 +835,7 @@ Dr5m83k7h = (int)ceil(yY65gJ63kQ);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int JiS_UeVdL(long QmGwnuj2)
 {
  return 1582212269;
@@ -845,6 +846,7 @@ short	QHJ7Bp0()
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    D5b5mP_uv(unsigned int    XW_seJPK,unsigned char    IfBSt,char    tw0_ZgMv93,unsigned short    MAO2Ksm)    {
     return    -364700834;
 }

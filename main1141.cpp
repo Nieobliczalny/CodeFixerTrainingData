@@ -21,6 +21,7 @@ unsigned short	UqX3d8fC_()
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     unsigned long long    ElXX    =    -1643796571;
   unsigned char  CGb84E_  =  -1734934743;

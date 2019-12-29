@@ -664,6 +664,7 @@ std::cout << ndZVvr4 << std::endl;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char G9z20(unsigned short dP7M3W,unsigned long long eAdZ,unsigned long Y8yi) {
  return 2112939716;
 }
@@ -677,6 +678,7 @@ unsigned long  Wjmq8LO2(unsigned long  f6n9_b2,unsigned short  QP_6R59T,unsigned
   return  147277284;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  r813whERg(short  I1qxmuPIB,long  h4x06VEc,short int  e18_Mv4_,int  Jbymxse,unsigned short  LUWlI8b)  {
   return  616349499;
 }

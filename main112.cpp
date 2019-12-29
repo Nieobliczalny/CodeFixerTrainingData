@@ -12,6 +12,7 @@ unsigned long kl7Z00FL(short int AioG);
 
 unsigned short int    Uiv6o6(unsigned char    jZZ0Kov6g,long    x5eqjg_YWx);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   long long  ybCI4,  KMPc8,  G_8_,  GGgP4qF59,  P48k5,  m3fiu65_2,  O0_Fs,  Xut9vnAX,  pQ0Hsqpkt3,  amO1uxXENQ;
     ybCI4  =  KMPc8  =  G_8_  =  GGgP4qF59  =  P48k5  =  m3fiu65_2  =  O0_Fs  =  Xut9vnAX  =  pQ0Hsqpkt3  =  amO1uxXENQ  =  -1461283645;
@@ -396,6 +397,7 @@ G_8_ = (long long)(KMPc8);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long kl7Z00FL(short int AioG)
 {
  return -143191185;

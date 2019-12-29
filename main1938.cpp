@@ -240,6 +240,7 @@ N249Nm = (float)(kFxnzo_);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    ZBTx8(unsigned long    NisaPRF,long    lDbFhT_,int    Iq5uMu2)    {
     return    -998090657;
 }

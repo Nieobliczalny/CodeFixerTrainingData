@@ -8,6 +8,7 @@
 #define	vot_9	(0)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	JsUY(long	n15Q4B1r)
 {
 	return	-1619450866;
@@ -22,6 +23,7 @@ long	Fk7Fsu(long	e2POwct,unsigned long	jq8Vy3IIa,char	zrwOjL9C,unsigned int	Ca0F
 	return	703956269;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	rodP38vm(unsigned long	zorl,unsigned char	hsuQ,char	fK9gQ8F,short	IOWYUDeR7m)
 {
 	return	0;

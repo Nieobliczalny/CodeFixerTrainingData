@@ -370,6 +370,7 @@ RaePKk = (short)(r3uAtW05up);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int H2c0(unsigned short rRP9fNTm0,char JT3P,unsigned long TgSI7a_,long NpIMIq)
 {
  return 452174608;

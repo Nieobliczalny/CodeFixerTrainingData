@@ -172,6 +172,7 @@ rX26xH0 = (short int)(LN51SYO);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	sk3M8(long	e8Ypf_Ee)	{
 	return	0;
 }

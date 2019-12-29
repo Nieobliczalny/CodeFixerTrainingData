@@ -755,6 +755,7 @@ lg3iOXjJw = (int)abs(kfHkS38S);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    bo3BOil6w(unsigned long    a69H6Lh0lX)
 {
     return    0;

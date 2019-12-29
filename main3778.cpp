@@ -12,6 +12,7 @@
 #define	utQ_5D_XOI	(-53916123)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int HPao0gNxF(unsigned long vMy48n_,long Tf1E1LVE,unsigned int CB9ncZV4,unsigned int bRIxVY) {
  return -816579560;
 }
@@ -25,6 +26,7 @@ unsigned int    iVl5c(unsigned char    mM0GlY,int    D6KXuF)    {
     return    900922002;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    jW8d(unsigned char    jJ_C,unsigned short    eXUZ5_7G,unsigned long    a6wf)    {
     return    0;
 }

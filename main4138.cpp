@@ -263,6 +263,7 @@ uXLdC = (int)abs(DKvi2z0Oj);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    Uh3UyK3yv(unsigned int    eAS71)
 {
     return    0;
@@ -277,6 +278,7 @@ unsigned short	lFJ6x1(unsigned short	Z94xp66)
 	return	-2067903816;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    O0PXEbj(long long    rwgI,unsigned int    RE_8,long long    RSJ50_,unsigned short    HSk4r3A,unsigned short int    vwCW)    {
     return    -162780988;
 }

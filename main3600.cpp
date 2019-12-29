@@ -10,6 +10,7 @@
 #define	V6l87s	(490162401)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	D9UJ38P(int	h8D49me5t3)
 {
 	return	-894154001;
@@ -20,6 +21,7 @@ long    xKEc93pE8h()
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    linh2Teww(unsigned long long    j8V43CW)
 {
     return    -535463130;

@@ -8,6 +8,7 @@
 #define    yt4u    (0)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    Xk7ugf(unsigned short int    KbyhA7y2hi,int    NdXp_7WI18)
 {
     return    0;

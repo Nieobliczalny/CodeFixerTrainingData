@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    bg_rvP(long long    ZYqK0W6,unsigned short int    hV_FD7,short int    o385zSBw,short    I3554Jt6Eo)
 {
     return    1118667254;

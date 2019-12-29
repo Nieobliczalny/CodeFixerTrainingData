@@ -437,6 +437,7 @@ lHL2ZX_ = (unsigned int)(yy2Xh1e);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  MX33zc(short int  j1Uv8f,unsigned long long  w0fg67,char  I2ve39,long long  Z8w9YMJ)  {
   return  2084286340;
 }

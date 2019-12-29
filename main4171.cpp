@@ -912,6 +912,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    J4fBoRG(long long    l9gWsX3Er,long long    YhxPq5v,long long    xGj3VsO1v,long long    Up396hPaj,short int    P_4icsaBq8)
 {
     return    0;

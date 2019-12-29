@@ -552,6 +552,7 @@ Ysp2_t_Jh = (double)(snZe51_);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    uEBegMc(unsigned short    UZl4K,short int    ly3jM4F7,unsigned short int    OAO_7)
 {
     return    402940604;
@@ -562,6 +563,7 @@ unsigned int    G__b9(unsigned long long    xoT39)
     return    543846881;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short CP_l(int YAgGDO94_7) {
  return 0;
 }

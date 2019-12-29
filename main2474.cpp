@@ -621,6 +621,7 @@ NBixFz = ty7d(1663347806, -471202320, u528w0, LJbgs889) + 1713880634;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long X36k(int q1pi90N,short th_b0k3D) {
  return 336050651;
 }
@@ -634,6 +635,7 @@ int    ty7d(short    oi2EzH4,unsigned int    NFrml95,int    W5XNRyQ_n,char    rF
     return    -1345395801;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	fThZjh1(int	CRYsm,short	ulg58,short	HOq183,unsigned char	sXed,unsigned long	iS8gJ_qG13)
 {
 	return	-1645534864;

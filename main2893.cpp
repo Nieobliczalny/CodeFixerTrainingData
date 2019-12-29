@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	dLvwzFoKY(short	rC9bPh,unsigned int	N0i5Rw5L,char	u9111C,unsigned short	vk3b_,short int	td09_J)
 {
 	return	594056181;

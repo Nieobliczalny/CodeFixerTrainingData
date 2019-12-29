@@ -12,6 +12,7 @@
 #define	nGFz8Sn	(-384586499)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long rpvb9V1d(unsigned long long c835e_rF8,short vy5Or66q) {
  return 647572287;
 }
@@ -24,6 +25,7 @@ unsigned int    jyYFYC(unsigned char    Nb_7eB,long long    OudH,unsigned char  
     return    -353782636;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	r67Ka2Z6e(long	h_4GN9im,short int	mMqW,long long	tUc4gc9,unsigned char	CxauD6)	{
 	return	225748833;
 }

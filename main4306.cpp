@@ -19,6 +19,7 @@ unsigned int	LoE26(unsigned long	w719k9t02,short int	qnB195itqi,short	wdsSzC1W);
 
 unsigned long long Kh2Z_(unsigned short int X7EQ9r48,unsigned short int gFR6);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   unsigned int  Z6G96  =  1991949190;
     float    x3R44    =    1812377806;
@@ -334,6 +335,7 @@ h9_0U = (int)floor(x3R44);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	qnvEclcJ(short	j9JFl2e1)
 {
 	return	0;
@@ -344,6 +346,7 @@ char H232BVSK()
  return 535959000;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long T49U3R69C(unsigned short RivDft,unsigned short int bSmb,unsigned long long V7Pv,unsigned long m3BU_iZj,unsigned short int U3ejhpMR) {
  return -1997790922;
 }

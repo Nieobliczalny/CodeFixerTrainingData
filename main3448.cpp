@@ -9,6 +9,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long HZ45(unsigned char J7VJdp9RG,unsigned char c9mW,short int Nc4_) {
  return 0;
 }

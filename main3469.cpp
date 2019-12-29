@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char sRiwLJ017(short int StVW)
 {
  return -832917527;
@@ -22,6 +23,7 @@ long  FWBV(char  PBT0)
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  rIdVm(unsigned short int  EIr_79V1)
 {
   return  581317040;

@@ -10,6 +10,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	Eysx(unsigned int	Ptjm6fg,short int	JcvAnq0b,char	WTCC)
 {
 	return	-1820870380;

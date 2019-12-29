@@ -522,6 +522,7 @@ t0J35 = (unsigned short)(E6Uwy_i + (868046034));
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short L2vMk(long long J0EXdQN,short BWg_50wF8,long long bE1L50G,int Cust_)
 {
  return 0;

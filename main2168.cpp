@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short aBH2P00(unsigned int NyJQr,unsigned int TL8Q,long UO_N6_b1M) {
  return 0;
 }
@@ -20,6 +21,7 @@ unsigned int	iRM2zhF(unsigned char	cp47p_Hfk,long	O369Gs6en)
 	return	1532430467;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     int    QCkIKjC6L;
     QCkIKjC6L    =    0;

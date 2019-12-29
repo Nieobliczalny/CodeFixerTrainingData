@@ -13,6 +13,7 @@ unsigned long long Un0giC92()
  return 1198170442;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	LWJJtgcye(unsigned char	I7I40)	{
 	return	0;
 }

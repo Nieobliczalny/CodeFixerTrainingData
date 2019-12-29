@@ -625,6 +625,7 @@ tvw3SzI_ = (long)(fP5gMyB_ * tvw3SzI_);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  kVy0p5T(unsigned short int  Xd30,short  H03fDA8Ff_)  {
   return  0;
 }

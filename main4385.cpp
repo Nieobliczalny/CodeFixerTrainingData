@@ -17,6 +17,7 @@ unsigned long	fVkPG()
 	return	719565233;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    QFRUIICt5(unsigned int    tb63g86o,char    syVo40Cl,int    MOgK,unsigned char    yLHLQ,char    wtG8qI0gdn)    {
     return    1212802128;
 }
@@ -30,6 +31,7 @@ short Aqcmp2m(short int VRg9921Q3W,unsigned long o_ue331cS) {
  return 61028564;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  unsigned short l9BH;

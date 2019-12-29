@@ -18,6 +18,7 @@ unsigned int  r6M6J_(unsigned char  Pc0UC);
 
 char    Wn86(long    JN6h7QBP7T);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  long long JCyySZi6p;
  JCyySZi6p = 0;
@@ -406,6 +407,7 @@ cout << p5KF3eU3s << endl;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short QGXTW08Z(short int Ku3CeV_o8c) {
  return 1675468442;
 }
@@ -418,6 +420,7 @@ long fc9_(long long Z7QJk,unsigned long long Gf6x) {
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  r6M6J_(unsigned char  Pc0UC)
 {
   return  1795824379;

@@ -649,6 +649,7 @@ long    Orb77()
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    V8Ou(short int    OqZecb)    {
     return    1599537942;
 }

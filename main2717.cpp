@@ -16,6 +16,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  OA53_VzDB(unsigned int  V80uiL_Cz)  {
   return  0;
 }

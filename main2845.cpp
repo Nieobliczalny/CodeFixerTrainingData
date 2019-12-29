@@ -14,6 +14,7 @@ using namespace std;
 
 unsigned long H6LE_(unsigned char u4T82eHWN);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  short int VpJNl33 = 97675061;
@@ -376,6 +377,7 @@ u351_nD7 = H6LE_(SYFRZD);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long H6LE_(unsigned char u4T82eHWN)
 {
  return 0;

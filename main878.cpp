@@ -19,6 +19,7 @@ long long scA4(short int UnGqpxRHy);
 
 unsigned short    pS_Nl6eY(long    HHxC6,short int    H92m7pZB,unsigned int    VN86,char    pouW,unsigned short    v75jb);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     short    dLJnT0oKE9;
     dLJnT0oKE9    =    0;
@@ -294,6 +295,7 @@ V76PG3 = pS_Nl6eY(V76PG3, k556j1, -1375058980, -88097211, 1202958259);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	dDLpUi(long long	p6evG,unsigned short int	cqeB)
 {
 	return	0;
@@ -304,6 +306,7 @@ long long scA4(short int UnGqpxRHy)
  return 408041936;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    pS_Nl6eY(long    HHxC6,short int    H92m7pZB,unsigned int    VN86,char    pouW,unsigned short    v75jb)    {
     return    1062788397;
 }

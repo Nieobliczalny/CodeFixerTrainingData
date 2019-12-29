@@ -395,6 +395,7 @@ unsigned short int    vXMY6()    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  tyA5gaD(unsigned long long  h2vd_mQ,short  Z8dja_ds,unsigned long  a76n,unsigned short int  NM3_0xezV6,unsigned int  ufaGooU3)
 {
   return  1304986769;

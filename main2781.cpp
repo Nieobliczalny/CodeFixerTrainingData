@@ -24,6 +24,7 @@ short int    Wn1v5(short int    pk4WyNB,long long    dVmOwOcD,short    Sp31izpi9
 
 unsigned char	bt78JgKj(unsigned long	fuoUD4P,unsigned short int	NKPfE8V,char	I08_8Xq_G_);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   unsigned short int  v6P6i5ON  =  1000704637;
  float w_0hp1 = -399425201;
@@ -536,6 +537,7 @@ long	KoA_Smp_f0()	{
 	return	-996580497;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    UR73HF2top(unsigned char    c400E0aEHM)
 {
     return    0;

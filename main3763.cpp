@@ -10,6 +10,7 @@
 #define	f9a9FVZ3Bd	(1057157814)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  UyqzD6Eo(unsigned short  C9_Kw18pX4,unsigned short int  s18igX,short int  j55J3NL,unsigned short int  GJqh4,char  szr85MF)
 {
   return  -1613369210;

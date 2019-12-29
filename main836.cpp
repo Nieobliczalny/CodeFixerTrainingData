@@ -9,6 +9,7 @@
 
 unsigned char  f9gA6(int  OJMM,unsigned short int  O7or,unsigned short  JXX6yqBMwQ,unsigned char  XpTi8G8bl);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   unsigned long long  eFs4ktG4;
@@ -386,6 +387,7 @@ j8dv6tSAN = f9gA6(880132480, -82460072, -1100725910, 943912562);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  f9gA6(int  OJMM,unsigned short int  O7or,unsigned short  JXX6yqBMwQ,unsigned char  XpTi8G8bl)  {
   return  0;
 }

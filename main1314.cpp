@@ -340,6 +340,7 @@ gNU8XtbW = (unsigned long long)(lcyDNg);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long dmH4D3j(unsigned char tqtD48,long Ag_0,unsigned short int K_HpL0,unsigned long long Rhmxy_Uz) {
  return 0;
 }

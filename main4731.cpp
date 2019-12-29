@@ -454,6 +454,7 @@ W0uLQ5IEg = (float)(ZbUbJhF0v);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    rHKVm(long long    fFxHC22Z4,unsigned short int    KHcd2CPQ,unsigned short    IF2g8IN_,unsigned short    S9mmR5bR53,long    oC5U)    {
     return    -734944950;
 }

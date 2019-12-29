@@ -16,6 +16,7 @@ short int t59FiQ50O(unsigned short int Yq7WT9,short i7A9G1xZ,long long d30cWdEE,
 
 long long p2ve1X_o(unsigned long wMSKjHx,unsigned char t8V_);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   unsigned short int  j54vT9u  =  -320498871;
@@ -565,6 +566,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int t59FiQ50O(unsigned short int Yq7WT9,short i7A9G1xZ,long long d30cWdEE,long long DNpfh) {
  return 0;
 }

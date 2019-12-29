@@ -460,6 +460,7 @@ jHojEzXmgJ = (unsigned int)(mJJdnAx + (1064867008));
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  odN1PaCGYy(unsigned short int  k3qe4C064)
 {
   return  0;

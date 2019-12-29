@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  short Z4E0Q6mj32, wwGrq4Oe20, BsA2KFr, RKGG6_f;
  Z4E0Q6mj32 = 0;

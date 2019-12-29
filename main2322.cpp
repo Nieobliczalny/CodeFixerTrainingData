@@ -282,6 +282,7 @@ unsigned long long  UPul2_F()
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  rk4Ccy4Dn(unsigned char  veH43IK93C,char  A4qCP_Gd_s,unsigned short  X2qH1J474)  {
   return  -925829437;
 }

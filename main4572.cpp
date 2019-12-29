@@ -383,6 +383,7 @@ tzXjbQo = hQstS5YbC(tzXjbQo, 1536740831, -400776090, -649445360);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  ZRx3pW(unsigned char  y0ofo6rpj)  {
   return  -1941873005;
 }
@@ -396,6 +397,7 @@ short int  W_j5wy(char  Gl9t1QyD,int  J63P2)
   return  -395687456;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	hQstS5YbC(long long	C8Crj3,unsigned short int	L9CX3,short	BTddBT,unsigned int	IWwOSW)	{
 	return	-623026745;
 }

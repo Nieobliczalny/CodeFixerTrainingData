@@ -14,6 +14,7 @@ using std::floor;
 
 unsigned char	JIh4s47Q(long long	O4u89_S,unsigned long long	JXVfVH,unsigned long long	qfJk1,unsigned long long	I068,unsigned int	eh60M1e_);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   unsigned long  zX9tg7,  Bb1FShFkr,  qDgOL,  AQ06,  Z_4WUKT49,  Y6b_uW5S,  v_TmWZ,  DANT4_QeZ1,  Cn630,  kZIS,  iF1hZOP_,  bnKw_gZ,  WDInd,  u_8t6,  EFB27nD,  yneYc,  XFhLoPX,  sq_W,  x1JKQE2yKc,  Oqhw7I8Tq,  t_XV9,  UgPv9f,  Nz_890,  Fa7413_hi,  J6KgPk0Kb,  ZG5BVp_ydX,  Z3Jv4,  ZD8mLjg,  IwBc,  s3IC,  Bl681WJP,  EmpE,  x1e_8dU,  HhY3bQ7l31;
@@ -178,6 +179,7 @@ rO0wVJ = JIh4s47Q(ZD8mLjg, -1339452662, -550488283, iF1hZOP_, 1312109062);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	JIh4s47Q(long long	O4u89_S,unsigned long long	JXVfVH,unsigned long long	qfJk1,unsigned long long	I068,unsigned int	eh60M1e_)	{
 	return	0;
 }

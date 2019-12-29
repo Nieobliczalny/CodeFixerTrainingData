@@ -13,6 +13,7 @@ char    f1545di(unsigned short    d31e74FF73,short int    lB55IjY,short    f1Rl6
 
 unsigned long    A8901Ww(short    r75o1A0Yz);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	unsigned int	dhXtZHm1;
 	dhXtZHm1	=	200417852;
@@ -807,6 +808,7 @@ int  pFuxoF0QU()
   return  605760015;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    f1545di(unsigned short    d31e74FF73,short int    lB55IjY,short    f1Rl62sUXp,short    ETWQK829,unsigned char    P943fEX5Sc)    {
     return    809352209;
 }

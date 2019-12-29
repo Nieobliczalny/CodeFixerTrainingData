@@ -10,6 +10,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  P4dPZXy(unsigned long long  k6552s15,short  r1d9vn)  {
   return  0;
 }
@@ -22,6 +23,7 @@ long long  jPqmZ_6AB0(short int  Rd7wcBGQc)  {
   return  1948999423;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     float    s5MncfTXV;
     s5MncfTXV    =    -1961640722;

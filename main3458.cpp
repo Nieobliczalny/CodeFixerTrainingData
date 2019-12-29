@@ -16,6 +16,7 @@ unsigned short    nfhNTqtO(long    X6G8O7PKg,unsigned short int    lY2xXl9);
 
 unsigned long  Vhp12g5();
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  unsigned short int sfbfBT = 0;
@@ -315,6 +316,7 @@ unsigned long    e3wF()    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    nfhNTqtO(long    X6G8O7PKg,unsigned short int    lY2xXl9)    {
     return    -1073732910;
 }

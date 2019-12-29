@@ -12,6 +12,7 @@
 #define    V54i5v8    (1745898046)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    Q4U5_(unsigned int    B40_,short int    N9a0VXWTn,int    H3Sa,unsigned long long    m96_,long    Qh5jIi2C)
 {
     return    945833655;
@@ -22,6 +23,7 @@ long	AF__i_h1o(unsigned char	sdNB,long long	y1Cc,short int	FLOX6wt)
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	D__5dt85(unsigned char	gGllLV_r,short	TtfJY774,unsigned short int	BqON)	{
 	return	1647559311;
 }

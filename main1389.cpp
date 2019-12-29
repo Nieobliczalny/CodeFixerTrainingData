@@ -13,6 +13,7 @@
 
 unsigned short int Omkf9vY(char Q9823_1b78);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	unsigned long	r3M8Mo_Jg_	=	1478131336,	HW7nK	=	466949773,	cVya7	=	1259873710,	P93uB	=	-1792863446,	sAcTsiEl	=	-1624457284,	DnB0NpzHcN	=	-1303868532,	P86w_73Kx	=	810157683,	xKW79ty	=	1887101649,	eN3QCua6nE	=	1903339420,	YJ8hmRJ	=	663217016,	ff8StfzL	=	1173335338,	bb7K9FS_	=	-673865815,	Ac8NBoOhw	=	1815553389,	xI4q874P2i	=	1648076833,	B5tf4KK6I	=	-355696958,	a__7kZQnd	=	-2012597433,	rl1P5t	=	66861888,	IIWav79	=	-1493787053,	c824	=	-1923012813,	adl6l1La	=	-1111401864,	I7e64fS	=	1239394062,	xWb0	=	419652736,	q13d	=	1757848163,	seA2C_16Y5	=	-1323425132;
@@ -589,6 +590,7 @@ std::cout << "RYnJ7j6j" << Omkf9vY(-1274059226) << Omkf9vY(xKW79ty) << Omkf9vY(x
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int Omkf9vY(char Q9823_1b78)
 {
  return 0;

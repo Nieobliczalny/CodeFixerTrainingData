@@ -11,6 +11,7 @@
 #define ryHVmk85 (0)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    YkSuZtW(unsigned char    UvLx89K)
 {
     return    0;
@@ -24,6 +25,7 @@ char  OXKeqy()  {
   return  -2085555174;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    EYB13veV(int    ImBKmd1ZU,long    q2FBd8UIo,char    XTRD5E,short int    J94h_)    {
     return    -1095428942;
 }

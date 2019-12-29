@@ -371,6 +371,7 @@ Rw6sPusTp3 = (unsigned long)(kB__ + (zPsY_2Q5));
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	ec3m(short	s6C96W,unsigned long	tLSog35)
 {
 	return	-2144847859;

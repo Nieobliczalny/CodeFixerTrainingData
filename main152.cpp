@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    R4i1g_1hH(unsigned char    LhptHX292z)
 {
     return    -1900557132;

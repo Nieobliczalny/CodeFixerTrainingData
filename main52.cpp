@@ -9,6 +9,7 @@
 
 unsigned short int dIieB(short int W16rZM);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     int    W_oZMD68,    YKxYGv_,    eJ_4UR;
@@ -676,6 +677,7 @@ eg4_IKhP = nM0jK / 1787174109;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int dIieB(short int W16rZM)
 {
  return 0;

@@ -13,6 +13,7 @@ short  r0or()  {
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  tB_IStWx1a(unsigned char  UVVq)  {
   return  -1824260918;
 }

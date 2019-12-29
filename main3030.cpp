@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	q_166(short int	nTO__GC)	{
 	return	-1036833268;
 }

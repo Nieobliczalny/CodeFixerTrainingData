@@ -12,6 +12,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    Euk45V(int    nuzWCpD3i,unsigned short    cHzWLP2W0,long long    J2Y6ftzt,unsigned int    d2N87sqq0w)    {
     return    696439782;
 }

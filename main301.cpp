@@ -207,6 +207,7 @@ char	GgoWw()	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short u8SMvvl3F6(unsigned short g3TW) {
  return 2084973861;
 }

@@ -13,6 +13,7 @@ char	h99vJjop0X()
 	return	-233959173;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    IHGcgLTl(int    Z308Q,short    MW1UQ095L,int    bKT4,short    ZGMf)
 {
     return    0;

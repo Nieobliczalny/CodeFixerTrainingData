@@ -17,6 +17,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int f0Zut(unsigned short L_72er,unsigned char S4w1O) {
  return 0;
 }

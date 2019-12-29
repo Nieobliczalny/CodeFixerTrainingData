@@ -982,6 +982,7 @@ iplX5 = (int)floor(j65_s0u_);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    jdeY(unsigned long    i62p86Ye,short    MkI0BZ1i)
 {
     return    -553793949;

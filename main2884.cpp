@@ -14,6 +14,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  qCm537GT_j(long  k58kLgx,long  HNRUd,unsigned int  z88b4_,unsigned long long  LY8m2mR124)
 {
   return  0;

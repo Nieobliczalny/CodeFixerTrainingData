@@ -20,6 +20,7 @@ long    TY_mv(long    SSro);
 
 unsigned short AZz9Qg(unsigned short int d2kX_t_Zy7,unsigned short n57O9_,unsigned short QK4_L,unsigned long v9ih1wc_B);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     unsigned char    ehD1C418uo;
     ehD1C418uo    =    -232444351;
@@ -533,6 +534,7 @@ std::cout << k_07_L1f << S0OR67(eFRmI, E4634kSr, SKZWDMNp5, abpC79899, bQX7JZ4z)
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	S0OR67(unsigned short	AzTK23,long	YWx4,unsigned int	qW0yohH,unsigned int	G_1DkOyj,int	YS1Uaf_sY_)
 {
 	return	-1206350631;
@@ -543,6 +545,7 @@ char	bC0xr(int	BJ5r7,short	vcb1bZl,unsigned long	Z47mC,unsigned long long	KEAe7z
 	return	-1528572426;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    TY_mv(long    SSro)
 {
     return    -977130551;

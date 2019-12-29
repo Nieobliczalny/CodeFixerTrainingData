@@ -18,6 +18,7 @@ char  bb27gwr()
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int T1zW2bo(unsigned long long MjBRoQ01,unsigned int r30lI,unsigned short J_rN,unsigned short U5Eq9SBU,char s6cS6T_B) {
  return -1063103976;
 }

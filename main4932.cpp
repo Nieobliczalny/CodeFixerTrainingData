@@ -429,6 +429,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    UTSE(short int    h1ON6wYtCw,int    q43C)    {
     return    0;
 }

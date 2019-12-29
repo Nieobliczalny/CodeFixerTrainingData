@@ -12,6 +12,7 @@
 #define  I_JDso8  (0)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    JDh7W(unsigned short int    XdB4,unsigned short int    W2L8b,unsigned long    Cz6Mck229,int    i8U2I8w,unsigned char    kJa0C)    {
     return    1480564408;
 }
@@ -26,6 +27,7 @@ unsigned char M08XsBZ(short GWO65El0)
  return -1157734461;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long N88_(unsigned long zQkx8H3,char qiSOo,unsigned short int oW0O_,long rBp3m0Hcj) {
  return 0;
 }

@@ -13,6 +13,7 @@ using namespace std;
 
 short  HIj_I0(unsigned long  Nu1gUO,int  EKPAL,long long  A0s1n);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     unsigned char    HpVE7Q    =    669688782;
@@ -933,6 +934,7 @@ while (i < 7);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short  HIj_I0(unsigned long  Nu1gUO,int  EKPAL,long long  A0s1n)  {
   return  0;
 }

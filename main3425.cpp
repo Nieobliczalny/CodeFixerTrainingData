@@ -11,6 +11,7 @@ short ON_J89C4T0() {
  return -1498492335;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	oKX03hpKjU(int	N2RLDS)
 {
 	return	-915748102;
@@ -21,6 +22,7 @@ long long	MTCb7878l(unsigned long long	o0J23RF,unsigned long	f1KL25,unsigned lon
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	TSAWb(short int	sQ6523Oo,unsigned int	lvn4eX0_l)
 {
 	return	-1723842590;

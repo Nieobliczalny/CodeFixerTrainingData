@@ -193,6 +193,7 @@ wKvNOWq = F2X1vg5Z - wKvNOWq;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long GzQK1(int m7gIOb,long long FbJ_Vd,unsigned short int C9R6Rzj4,unsigned char oyo49Ade,unsigned long long d881QEM) {
  return 0;
 }

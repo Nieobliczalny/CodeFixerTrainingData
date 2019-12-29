@@ -260,6 +260,7 @@ std::cout << -1766615607 / M_B8(-765521704, -1724441332, 1761043374, du6k) << st
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	M_B8(unsigned short int	Qw3p4,unsigned int	MM0n7l8Wg3,unsigned int	nU_uKsPP,unsigned short	JbM2267)	{
 	return	0;
 }

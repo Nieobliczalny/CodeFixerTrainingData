@@ -17,6 +17,7 @@ int  u9cXBp788()
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    K93sxmiG(unsigned int    Tz8B_Y2Oz,unsigned long long    f8t0MBmoY,char    xR8Defo,short int    AnS1vm297)    {
     return    -143256199;
 }

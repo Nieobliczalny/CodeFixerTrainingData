@@ -20,6 +20,7 @@ unsigned long long    D62nok273(long long    DQ20x5_r,unsigned short int    E_Cs
 
 unsigned int	OphP_(short int	Fu9_Z,unsigned short int	yrJq,unsigned long long	C43k,long long	fa_0);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     unsigned short    ol55H8e62    =    0,    S2XMm    =    0,    x1p0GI    =    0;
@@ -511,6 +512,7 @@ unsigned short int    xDapI5()
     return    -1634296782;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	d68IqXM86(int	zj_Y9Efs)	{
 	return	0;
 }
@@ -524,6 +526,7 @@ unsigned long long    D62nok273(long long    DQ20x5_r,unsigned short int    E_Cs
     return    -1430032645;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	OphP_(short int	Fu9_Z,unsigned short int	yrJq,unsigned long long	C43k,long long	fa_0)	{
 	return	2113520613;
 }

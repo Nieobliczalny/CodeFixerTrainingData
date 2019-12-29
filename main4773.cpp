@@ -9,6 +9,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    pMeN_B(unsigned char    MvH7,short int    v35bd)    {
     return    -343482921;
 }
@@ -23,6 +24,7 @@ unsigned short int	v3q2I9(unsigned short int	Bu388_7U,unsigned int	P2vJ56D_y1)
 	return	-1005235041;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  c__w1(int  dd8b8,unsigned long long  ZOuCiLI,unsigned short  hGhgiqo)  {
   return  0;
 }

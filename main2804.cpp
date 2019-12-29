@@ -15,6 +15,7 @@ unsigned char l3cnj(unsigned int POI37n,short xQP_2AQ62F,unsigned long L9Urb,uns
 
 unsigned char    gOb1p(short int    J3V4kJ,int    Hn_n0,long    vtqSWo840);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	unsigned int	Jp0x3Pa2	=	-1996086734;
@@ -399,6 +400,7 @@ eYZI4N5 = (long double)(B_tV5x);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char l3cnj(unsigned int POI37n,short xQP_2AQ62F,unsigned long L9Urb,unsigned long long BEq_7_Hkg,char o8M95SL) {
  return 1059629364;
 }

@@ -8,6 +8,7 @@
 #define P6K1__U (0)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long XL2n833Sn8(unsigned short int Z24nI125SG) {
  return 0;
 }

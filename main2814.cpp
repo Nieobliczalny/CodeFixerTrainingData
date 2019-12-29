@@ -159,6 +159,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  Yuf07WhC8i(char  MrkE44dB)
 {
   return  0;

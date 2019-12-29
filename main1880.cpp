@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	I24JX1q5S(short int	yg2_5O2b7i,unsigned short	Kd8B8Wjm,unsigned short	hN8_Gl_ma,unsigned int	zHU8qU)	{
 	return	-581229409;
 }
@@ -20,6 +21,7 @@ long    hk4r75K()    {
     return    -2147335882;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	double	ND7n8ec	=	2144417359;

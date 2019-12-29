@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  WJsoU(unsigned short  GYZVub,long  OOZic0GxJ,unsigned short int  tp_OkPi,long  npto)
 {
   return  0;

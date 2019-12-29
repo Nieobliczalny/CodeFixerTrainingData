@@ -513,6 +513,7 @@ unsigned long long  vtVJ6rp()  {
   return  -1872296615;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	TLi2(unsigned short int	ZA5_iD)	{
 	return	-1027675342;
 }

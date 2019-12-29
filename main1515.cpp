@@ -376,6 +376,7 @@ SpPU5 = (int)ceil(yPEAI0AA);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    etO22O(unsigned long    weXZ7lyV9P,unsigned long long    rrDL4D_w)
 {
     return    0;

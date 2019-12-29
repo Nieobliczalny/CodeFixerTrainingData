@@ -19,6 +19,7 @@ int    hV1yWA412f()
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  unsigned char R_8a4d = 1917837015;
     unsigned short int    dj8cw    =    -1576757476;

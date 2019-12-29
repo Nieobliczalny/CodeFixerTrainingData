@@ -792,6 +792,7 @@ O5fB1Z = (int)abs(XLkDN_Fx);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long jX3VOg(short int z5yJSB,unsigned short WYEl6u6_,short ik_79M6,unsigned int nU46675F) {
  return 0;
 }

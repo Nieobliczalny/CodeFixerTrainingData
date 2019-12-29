@@ -345,6 +345,7 @@ cout << "Gk4kaAo" << y4msCL(iGeW0_5, -1826322266, -770187507) << endl;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long y4msCL(short int K1x3TrL5,int L63shM,short int XXH92B_9ic)
 {
  return 0;

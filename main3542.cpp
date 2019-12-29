@@ -377,6 +377,7 @@ unsigned long    yLkBDp0pQK()    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  avYGdeqw4B(char  W9MFe)  {
   return  -2075039974;
 }

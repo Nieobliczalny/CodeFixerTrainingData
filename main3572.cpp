@@ -430,6 +430,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	FN9kVE1m(int	C3Xgv3gz0N,unsigned int	lp3is,long	u1V6KvV)
 {
 	return	0;

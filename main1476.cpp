@@ -474,6 +474,7 @@ jHtx2Oz = v6NBL9(jHtx2Oz, -947648851, oQrN);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	FMqr9bH(char	DF4M)	{
 	return	0;
 }

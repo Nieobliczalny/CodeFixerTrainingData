@@ -13,6 +13,7 @@ unsigned long	B_Th7_6(short	b9dhr,unsigned char	BkLK,unsigned short	B2prr9,short
 
 unsigned long  yecVVT6O();
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   unsigned short  k4svx  =  0;
@@ -214,6 +215,7 @@ Io_5PM7--;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  Tfa0rSJ(unsigned short int  k7dN6U1Q_,long  PO8u88Dg)
 {
   return  358633982;

@@ -13,6 +13,7 @@ long long    j9kdTN_()
     return    -1001059454;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	U8un(short int	eSXhDOO,unsigned long long	uyA7Vj5e47,int	nw10f6,unsigned int	mvSSRyh,short	s8_Ge50CWk)
 {
 	return	0;

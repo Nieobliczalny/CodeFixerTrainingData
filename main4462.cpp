@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	M22r0(unsigned short int	CH9YaIfl_,unsigned long long	o1icLxdE7I,long long	i8Te,short int	OYSgLyGK8,short int	MdA1)
 {
 	return	-2146466594;

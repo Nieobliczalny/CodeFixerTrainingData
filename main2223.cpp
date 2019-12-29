@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  KAP12(unsigned long  fH8AMlT5,short int  HIBQ4NG,unsigned int  VLxO90F,int  tPML)  {
   return  -480665068;
 }

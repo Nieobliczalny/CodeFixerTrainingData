@@ -9,6 +9,7 @@
 
 long long CG9J(unsigned int Ix_ezU2_Q,unsigned long long OvOi,long long WD5e,long gbLN3i);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     long    cxNhCB52sg;
@@ -184,6 +185,7 @@ std::cout << xj5R_1 << "n5687" << CG9J(TR4P7m, 1616950299, 1313218742, 100965240
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long CG9J(unsigned int Ix_ezU2_Q,unsigned long long OvOi,long long WD5e,long gbLN3i)
 {
  return 0;

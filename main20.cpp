@@ -9,6 +9,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int axASsvH_4(long long x4PKKU5P,unsigned long long F99NL)
 {
  return 0;
@@ -19,6 +20,7 @@ short int    lFWEWkp9(long    i_cPTe5MQO,long long    fEtL4XLD8j,char    Br_653I
     return    -1728334569;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  unsigned short int WZW12SF;
  WZW12SF = 0;

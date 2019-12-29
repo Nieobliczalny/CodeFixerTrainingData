@@ -581,6 +581,7 @@ while (j < 4);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    N9pE8SOY1Z(int    BUV81rlHik)    {
     return    2017128839;
 }

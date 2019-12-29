@@ -513,6 +513,7 @@ std::cout << nt0j(Bb6t4) << "QNz_WkWG" << "Z9rs0zsP" << std::endl;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  nt0j(short  ZNyEQA)  {
   return  0;
 }

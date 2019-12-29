@@ -345,6 +345,7 @@ while (k < 8);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  omvu(unsigned long  KuH90)
 {
   return  1120721174;
@@ -355,6 +356,7 @@ int    j70_ml(short int    a996)
     return    562853499;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  Ti6QV35_(int  jdDR6K,char  pa81utc)
 {
   return  0;

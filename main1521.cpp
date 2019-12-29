@@ -718,6 +718,7 @@ S417Jrzo7 = YWkzy(-1794823425, iGtD3, -1835905760) + 1010668330;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char YWkzy(char X21y1HXCG,short int Z_o5,short YfL6_y)
 {
  return 0;
@@ -737,6 +738,7 @@ unsigned long    YL1MK5by2()    {
     return    1375880368;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short VtH02f(unsigned short vM127_e_,unsigned int OXaA5244) {
  return 99607045;
 }

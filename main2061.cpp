@@ -514,6 +514,7 @@ txWz99bHqc = t6VJkjfp(-1605165850);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    t6VJkjfp(long long    UIeGqrG)
 {
     return    361592384;
@@ -527,6 +528,7 @@ unsigned long	imxf3622sx(unsigned short int	gIqTY_,unsigned short int	grcuK61,un
 	return	1101453308;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  a9ifpRKQm7(short int  LF52LIS,long long  WoIJiq)
 {
   return  796104315;

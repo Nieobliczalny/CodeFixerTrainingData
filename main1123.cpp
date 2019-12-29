@@ -372,6 +372,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  N556I9(unsigned long  S1mU6)
 {
   return  0;
@@ -382,6 +383,7 @@ char U567j()
  return -1315022120;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	KtD17e_J0(unsigned long long	b4_leDJx3c)	{
 	return	-417024014;
 }

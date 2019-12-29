@@ -453,6 +453,7 @@ ZNzo8pPkj = QPOr7Y7(VQgB, -1721415548, 1402391992, ku73PO, M82n2vFA) & H75jTUv;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short  QPOr7Y7(long  n8_G,unsigned int  t_iXKMH,char  zaJ97XSg,char  e3Fqn3v3k5,unsigned short  i53_x)  {
   return  0;
 }

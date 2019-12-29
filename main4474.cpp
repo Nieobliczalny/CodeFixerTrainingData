@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	BA14(unsigned short int	nS34c7,long	wGbcQB,unsigned int	Xdc5xybFu,unsigned long long	nY0XJ6K1)	{
 	return	2047575111;
 }

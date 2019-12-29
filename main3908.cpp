@@ -16,6 +16,7 @@ char	lSpbmelwkB()
 	return	-2027580774;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    tf_E9Ua(int    WFiokI,unsigned long    J84N1)    {
     return    0;
 }

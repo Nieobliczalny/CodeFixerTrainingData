@@ -457,6 +457,7 @@ oQnd = (int)abs(VEc2X0);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    T5sDtH(unsigned short    Kv7YMmX59y,short    m4NY_w0pF,unsigned short int    B_867B9)
 {
     return    2140109538;
@@ -471,6 +472,7 @@ long long    HvY4(long    JjVY5)
     return    1633675526;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  YN_84(unsigned long  ItwC8DOdE,unsigned short int  cIKCy7,unsigned long long  C0rOnSL,unsigned char  Z913g6J7E6)
 {
   return  0;

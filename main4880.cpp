@@ -295,6 +295,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    yCs96v_hF(long long    ubwR)
 {
     return    0;

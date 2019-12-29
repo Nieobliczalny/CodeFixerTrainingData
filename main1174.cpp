@@ -12,6 +12,7 @@ short int  d84nKQ()  {
   return  -622687089;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	Op36B0QNi(unsigned short int	vX2RXPS4,char	L5N_5_2)	{
 	return	0;
 }

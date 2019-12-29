@@ -178,6 +178,7 @@ Q9_pVg8 = vz82e / CKIIjJF(-1229694568, -1205795244, 568358092, h0LE9siK8h, -2121
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  C38Y_FTS(int  GuMR)
 {
   return  -413089510;
@@ -192,6 +193,7 @@ unsigned short SS3uQ1ZjdR(long long JfTs,unsigned short int bin9m3K17Y)
  return -706007982;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    CKIIjJF(unsigned int    mMPBi_50s,char    UEY4_u2z_,short    SM_IXfU2,char    b464beI,short int    eg8z60T)    {
     return    0;
 }

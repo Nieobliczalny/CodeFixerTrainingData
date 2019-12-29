@@ -407,6 +407,7 @@ UTPB = (unsigned short int)(Ch_7g1a);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    ruCRY(unsigned int    TISe3,unsigned int    OdCVe31,unsigned short    riy76zJI9,unsigned int    os7YUewo6,int    t8KY9b_)
 {
     return    0;

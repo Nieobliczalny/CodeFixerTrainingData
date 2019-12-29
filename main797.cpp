@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	Sy1c5a7cVT(char	rPhj7yO,short int	QUUV)
 {
 	return	0;
@@ -17,6 +18,7 @@ unsigned char	rDvdh5oe51(short int	sFLGbNJC,unsigned char	Oj8A55667,unsigned sho
 	return	1376805023;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    TECl4_b(unsigned int    B03e_mV_S,unsigned short    zoI1vp8,long long    EB3YQPO)    {
     return    253445865;
 }

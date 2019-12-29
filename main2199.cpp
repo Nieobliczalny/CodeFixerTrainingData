@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     int    Ufzvwm6    =    -1715973422;
 	long	z_Sq	=	-945809952;

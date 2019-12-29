@@ -329,6 +329,7 @@ cout << Ury_W2 << "hNaG9ZHVzx" << endl;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  KIyr8Qkp(unsigned char  T2d_,int  O4ICViO572,short int  jx2_xh,char  yzI2vwMy)
 {
   return  0;
@@ -343,6 +344,7 @@ long long	P8eC7(unsigned long long	R8aC7sn,long	DJ2mVs,long	Ryp6hHyq54,unsigned 
 	return	412899233;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long Lf93(unsigned short int j_90D,unsigned short LuEl1,unsigned int M1JyNhC7,unsigned char W_p1w) {
  return 467846445;
 }

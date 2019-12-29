@@ -17,6 +17,7 @@ short int	rigJ0()
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   unsigned char  r0YfxXBvSy;

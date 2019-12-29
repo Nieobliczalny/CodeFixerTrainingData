@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  h7gH(unsigned long  DcWQ,long long  oGv6GJplzD)
 {
   return  1086950499;

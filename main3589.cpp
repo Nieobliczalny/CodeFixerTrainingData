@@ -20,6 +20,7 @@ unsigned long long	coPGh(unsigned short	ac7w,unsigned short int	pRNqKQx2q);
 
 unsigned long long  M_gn5X();
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     unsigned short    e9X09;
     e9X09    =    1062211751;
@@ -581,6 +582,7 @@ QcphZo_ = (int)abs(C4eM5f_);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  pDhd_h(unsigned long  CuS6q,unsigned long  x2oc_2y4,short int  grv4)
 {
   return  824119130;

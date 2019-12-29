@@ -1210,6 +1210,7 @@ int D81T03xX_() {
  return -1520799430;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  cbz9F(unsigned long  XQ3L,short int  z7_MAb34Cv,unsigned short  VClmZt3)
 {
   return  -1834051122;

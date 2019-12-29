@@ -322,6 +322,7 @@ D_frY4 *= 1175834024;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    s2wrlK(long    O7OY3)
 {
     return    0;

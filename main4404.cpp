@@ -566,6 +566,7 @@ while (i < 5);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int AXr42Qu9(unsigned long long vB_G,int ZQ4t53842)
 {
  return 2050074804;

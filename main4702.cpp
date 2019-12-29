@@ -234,6 +234,7 @@ cout << "iF1_Sg_49" << endl;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int f07purs8VH(unsigned short int s2nrvB,short h3q3,unsigned char Fx6nmuSB9,unsigned long LgUC)
 {
  return 0;

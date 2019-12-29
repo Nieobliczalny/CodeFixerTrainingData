@@ -17,6 +17,7 @@ unsigned int    W31JKA(long    Hx_m,unsigned short    N4gy7wlba);
 
 unsigned int	l4B_pg16();
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     unsigned long    Wom96F_q;
@@ -242,6 +243,7 @@ Dz81YE02Zi = W31JKA(IC02WqB, -1344773209) + 1906752768;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  CWR6(unsigned char  nK1Gtq1,char  ehQz_1_M,unsigned long long  cvVq08SO,long long  q93_ize,unsigned short  hqr6U)
 {
   return  -782935195;

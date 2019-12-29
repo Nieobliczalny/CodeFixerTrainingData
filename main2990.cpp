@@ -206,6 +206,7 @@ short int	za2tN0lZK()
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  R5JyCUzvg(unsigned char  PXp_7l8I9,unsigned long long  Np2psC_R7,unsigned char  e4gF61Q,long  ilsq74eVgQ)
 {
   return  241652633;

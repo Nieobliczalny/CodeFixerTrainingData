@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	NJl2(char	ygmEG,int	zDoJ)
 {
 	return	-1219320698;
@@ -30,6 +31,7 @@ unsigned short int    Tp7H2d()    {
     return    411342140;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   unsigned int  W4zJd3;
   W4zJd3  =  0;

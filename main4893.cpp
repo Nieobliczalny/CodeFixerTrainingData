@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	J59PD7(unsigned short	kx6c22o0)
 {
 	return	-1873920923;
@@ -18,6 +19,7 @@ unsigned long long    hfN79F9pw(unsigned long long    p65n70tSj,unsigned int    
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     short    V_eVaq;
     V_eVaq    =    -916068174;

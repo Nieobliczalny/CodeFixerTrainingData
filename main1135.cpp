@@ -662,6 +662,7 @@ mhU7W7 = (short int)(qI_dk9wLX);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int Ue68jWtM9g(char TewB7UvpW_,char r6MfT_ri_,unsigned short int o5ge45ZXpY,unsigned short tK_a__6) {
  return 0;
 }

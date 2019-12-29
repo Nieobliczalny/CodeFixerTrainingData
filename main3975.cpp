@@ -14,6 +14,7 @@ unsigned long long lI25ZW_(short v83O,long long gr5cyZ,unsigned int hydAHU);
 
 long long E06FKgb(unsigned long Vo0g,unsigned short BwEaPU8A);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  short int Ou2_;
  Ou2_ = -1181257591;
@@ -395,6 +396,7 @@ while (i >= 0);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    v_xoj13(unsigned int    YDpb6_,unsigned short int    eT_CfL,short    iQT8_73,char    B__8N)    {
     return    787268808;
 }

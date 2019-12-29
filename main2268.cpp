@@ -11,6 +11,7 @@
 #define bl9cHM (0)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    LKXLnr_Cy(unsigned short int    Cus5IX3b,short int    Axn4uP,short    V5D4K,char    lDsh55,int    EKx4)
 {
     return    0;

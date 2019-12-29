@@ -348,6 +348,7 @@ unsigned int    BMuL_8C()    {
     return    -498014365;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	Pkuw409z4(long	MU9YQ9QU_,unsigned short	f0l8k,unsigned long long	a3d5,char	iEuGQH,char	j8x0lwiz)
 {
 	return	0;

@@ -20,6 +20,7 @@ long vcaV(long long hjzEv907VA,unsigned long long f840mAdh);
 
 unsigned short int    w_ntK4fSRJ(short    l85r4sRiR,long    PSkJ_XGnBk,unsigned long    W_bco3sJi);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     unsigned int    YdtlV7L_37,    AHSQZnbjG,    hSD91af2YJ,    AD0_V8S,    KBmb__W,    Q35j1_2t2,    Y_zA211k_8,    r19ro64,    L9JOnAt,    oz3Ec0,    g1ZSq16imc,    zB5M,    yz6Q0Md,    BKE_o8RH0T,    U6G_dq,    w0ZP,    P9_ST42,    VI2tXB2_D,    gb314v,    yn7S;
         YdtlV7L_37    =    AHSQZnbjG    =    hSD91af2YJ    =    AD0_V8S    =    KBmb__W    =    Q35j1_2t2    =    Y_zA211k_8    =    r19ro64    =    L9JOnAt    =    oz3Ec0    =    g1ZSq16imc    =    zB5M    =    yz6Q0Md    =    BKE_o8RH0T    =    U6G_dq    =    w0ZP    =    P9_ST42    =    VI2tXB2_D    =    gb314v    =    yn7S    =    1316737803;
@@ -534,6 +535,7 @@ r19ro64 = vcaV(ngChz0JS, r19ro64);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int noc7(short int N7k_rd8KHr,unsigned int c38Oj84pI,char F4Tl,int WPMR)
 {
  return 0;
@@ -548,6 +550,7 @@ long vcaV(long long hjzEv907VA,unsigned long long f840mAdh)
  return 67215236;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    w_ntK4fSRJ(short    l85r4sRiR,long    PSkJ_XGnBk,unsigned long    W_bco3sJi)
 {
     return    1022595868;

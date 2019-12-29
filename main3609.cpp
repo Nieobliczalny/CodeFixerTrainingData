@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short MFB55(short int JztOAnFjwR,long lc2144,short int kl284e6a,char h_a1F9449)
 {
  return -2060203226;
@@ -20,6 +21,7 @@ unsigned long long    IM14qVz5FF(unsigned short int    C2FMvy4,unsigned char    
     return    1093156575;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long mc3qC_O(short lBW1mVs,unsigned short NzN6) {
  return 2073882571;
 }

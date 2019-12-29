@@ -519,6 +519,7 @@ while (i < 4);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    DhKTYhX(long    S8i_7a,char    r22UM,char    U2f2LT,short int    VbAJ_J0,long    cnmfdoXn)    {
     return    0;
 }

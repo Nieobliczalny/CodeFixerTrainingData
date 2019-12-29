@@ -740,6 +740,7 @@ KH4DF_Zn2D += WT1HRy_J;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  zWp1tsKC(unsigned int  sk78rD2,long  R8bq8ahR)
 {
   return  0;
@@ -750,6 +751,7 @@ short int RhA__6JNz_()
  return 1771013168;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  fAa__Z(char  t8zYqL2,unsigned short int  OMu50w3)  {
   return  1323508627;
 }

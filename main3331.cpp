@@ -638,6 +638,7 @@ Y_8HW2FcL0 = gd96w(Y_8HW2FcL0, wUmf);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    gd96w(long    QCHnSNB8PI,unsigned long    c1vHKt5n0W)    {
     return    0;
 }

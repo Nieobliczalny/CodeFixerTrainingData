@@ -659,6 +659,7 @@ rcUr015z = (long)(t9b8xHr);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    OPjV(long long    xdz5IRs,long long    l44N,unsigned int    MtCDcS,char    Yg2Om,unsigned short    FA87)    {
     return    -1153010160;
 }

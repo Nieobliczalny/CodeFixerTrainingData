@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  Sb4IrCu(short  ZzIY19_6M4)
 {
   return  0;
@@ -25,6 +26,7 @@ unsigned long	kiibmEhp()	{
 	return	389545623;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long hPGw(unsigned short int c22gOAre,short int z0w0vu4K8)
 {
  return 1726963149;

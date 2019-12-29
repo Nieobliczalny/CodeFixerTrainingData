@@ -9,6 +9,7 @@
 
 short int    rUz6(unsigned long long    iYL17n6g6S);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	char	D6_jf8fyE9,	PgUJ7,	D80op8Az,	qAfI,	NEE3LB4P,	oke_5_,	D7_84bSqh2,	MaVai,	FW8MUOR,	v_67lu,	S_D0wNs,	e7RyQR18k,	PuTZa6,	z7OanAkzP,	csdmf3ziin,	m4YkBH7a,	mH_7,	Vn1E0D77M4,	CuZ_B2an,	ceqiP,	J6t_kBO,	gc9pjt_E,	J9c401nx,	Q1nr3ItAR,	i_vjQ4_cl9,	d_wgsxsIsS,	u2N1,	SRw3,	w6yu,	P73xq,	s45r335P,	JG8m7Ei67H,	mJka,	G1MSb2Ry,	nld9TiP,	BLFG,	t90P6,	Lgx86u,	wE68_mC_22,	zH9t7H,	ta9dwG6S,	Ehi6R5pE8,	mycP,	Deqi131,	m7Lk,	ntkLko,	w4iY6,	p90_,	S355,	x7d3BzM8L,	zNC_2841y,	EzifbCe,	lDVMKFE_,	rbd05_9mYc,	JTwOn,	X1x_z_,	qS7Jxf,	yCeG3fH,	D495,	NF86F,	T3b29m_K,	w5AN,	tGH483D63V,	s17e,	JW6HD_,	G455BA_G,	C98a1,	pJ9WF,	y2c2;
@@ -237,6 +238,7 @@ qS7Jxf = (int)abs(MaVai);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    rUz6(unsigned long long    iYL17n6g6S)    {
     return    0;
 }

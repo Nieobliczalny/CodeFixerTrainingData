@@ -21,6 +21,7 @@ unsigned long long i85fl2()
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	H7s_p(int	miegz,unsigned char	B8dE3esp3,unsigned long long	VRsp58hV,unsigned char	uTxHJ,short	g4fGbnCXq)
 {
 	return	-543536732;

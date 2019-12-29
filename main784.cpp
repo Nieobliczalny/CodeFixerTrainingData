@@ -594,6 +594,7 @@ while (i >= 0);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    u8_V5(unsigned short    v4q5SvO7g)
 {
     return    -1559780849;
@@ -608,6 +609,7 @@ unsigned short    w755WAR2()
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	G3BZ(int	eKVZZ,char	JK_3u,unsigned long long	D_2lRqXx,unsigned char	hbP7pSk3K)	{
 	return	-1856075006;
 }

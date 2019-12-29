@@ -13,6 +13,7 @@ short EkZRi_tuA()
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	fnG3_Gn(unsigned short int	W2VAEl)
 {
 	return	650952973;

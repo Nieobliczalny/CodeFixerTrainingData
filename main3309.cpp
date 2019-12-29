@@ -393,6 +393,7 @@ xr668ud2 += 624428878;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  SGHz_N(unsigned int  aVqlH,unsigned long  q_61YW_0,unsigned short  qP891C5,short int  s24F,unsigned short int  g_4vMXSxb)  {
   return  408084870;
 }

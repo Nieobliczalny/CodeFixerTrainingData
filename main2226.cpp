@@ -11,6 +11,7 @@ unsigned int	IR1JNRM(unsigned short	FDAtk7);
 
 char    AnmQP_7Vcb(unsigned short    dhdYP8bzT,unsigned int    J3Cr10urXN);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  unsigned long long ud1dCLx;
@@ -350,6 +351,7 @@ Y2aaHC3H77 ^= 1922692719;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	IR1JNRM(unsigned short	FDAtk7)
 {
 	return	0;

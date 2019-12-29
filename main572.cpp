@@ -15,6 +15,7 @@ using namespace std;
 
 unsigned short int  b6ef(long long  eA91Ut,short int  un2N2tjW,short  wBfgAGB,long  S42u,long  Mt6s6NLU8v);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     long long    VN6x6O;
@@ -547,6 +548,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  b6ef(long long  eA91Ut,short int  un2N2tjW,short  wBfgAGB,long  S42u,long  Mt6s6NLU8v)  {
   return  0;
 }

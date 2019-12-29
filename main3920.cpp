@@ -16,6 +16,7 @@ char MhwpTu9oR3() {
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  AaZ3VJ2Uvr(short int  B9a3R23,unsigned short int  jc8O,unsigned long  U0Rgv443,unsigned short int  Zs5qMN8_3f,unsigned short int  YeB7_2pBA3)  {
   return  137308260;
 }

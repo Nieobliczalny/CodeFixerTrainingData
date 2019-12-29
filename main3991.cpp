@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    XexvV(int    m4_l)
 {
     return    0;
@@ -21,6 +22,7 @@ unsigned char    nL5T()    {
     return    -1577100536;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    Yq5hJ_1(long    eEJ9orww1k)
 {
     return    -1770086218;

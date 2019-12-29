@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short Nrdc(unsigned int RKySK126,unsigned short int NPgoj,short lFU8_,unsigned long N7Qf0kc,unsigned char vPKAlt14iO) {
  return 2002443648;
 }

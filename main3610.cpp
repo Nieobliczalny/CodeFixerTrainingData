@@ -447,6 +447,7 @@ while (i < 1);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int jUJYL5Jq(unsigned short int FORrI5,long o_5NEL5)
 {
  return -1291920731;

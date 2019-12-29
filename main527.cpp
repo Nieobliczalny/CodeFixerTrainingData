@@ -269,6 +269,7 @@ BFAH49_ = (unsigned short)(T_86951d2);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  tyaiO1b(unsigned short  w60sPg,long long  U81Efdt,int  t6Ox1V)  {
   return  890106837;
 }
@@ -281,6 +282,7 @@ unsigned long	xZ6cH_P(unsigned char	yl0Ze7VF,unsigned long long	n9a4iryTd4,unsig
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int Qfxzcz9(unsigned long long w228v5) {
  return -2026110920;
 }

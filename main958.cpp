@@ -8,6 +8,7 @@
 #define	bLk_oUTV	(0)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  El08bd(unsigned int  J27xrMNMb,unsigned long  x07sCA8e,short  X_3_,short int  do3077c)
 {
   return  1162855323;
@@ -18,6 +19,7 @@ unsigned int cNgY__MP6(long long Jax3Q,unsigned long jg5l)
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    M1N7p(unsigned short    OmntK_q,long    v1vAgGS278,unsigned int    aT2_,unsigned int    ww47n7a,short int    a01M)
 {
     return    1209488581;

@@ -12,6 +12,7 @@ char	SBGnD();
 
 short    Tg9H27_X5(unsigned long    kYkEi,int    xL71K,unsigned long long    pCqr,short    P1c5A4A,unsigned int    pAgE);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  float T1z0I1_ = -1231655766;
@@ -703,6 +704,7 @@ char	SBGnD()
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    Tg9H27_X5(unsigned long    kYkEi,int    xL71K,unsigned long long    pCqr,short    P1c5A4A,unsigned int    pAgE)
 {
     return    -1085719260;

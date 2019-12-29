@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int kYP4_J(unsigned char XsbqAjAmJ,unsigned char Q16gUlq,int Umq_,unsigned long FkM7D,unsigned short B25DW)
 {
  return 385117010;

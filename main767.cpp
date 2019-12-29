@@ -588,6 +588,7 @@ UgY75B25dj = (int)ceil(TB25_Qc);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short i83o2E(unsigned long long sJ8K79,unsigned short Anp_296YE)
 {
  return -205589743;
@@ -598,6 +599,7 @@ long long    PQ1DCuafU(unsigned int    BxGpy,unsigned char    GI9yX4,short int  
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    G7o08I(unsigned long    bH2h72Z27T,long long    k86v9,unsigned char    Gu2nL7WoB,long    I9H9c7)
 {
     return    -1845294865;

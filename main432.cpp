@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	tRf7Y(long long	IT7LdRo,unsigned long	KHXCW_rj0,long long	T82S2hhp,long long	B2qAN,unsigned long long	Q502rdZUs)
 {
 	return	-560936741;
@@ -20,6 +21,7 @@ unsigned short int    d6aQj_98g(short int    W_434ZdH4,long long    mdv4V7nIU4,i
     return    -760122786;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short K07t8E1(unsigned short jJd5t,unsigned char tgk3,short int m5N0p,unsigned int mdgb) {
  return 0;
 }

@@ -598,6 +598,7 @@ bnsUrLn4A += HohG89;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	iAp9i(short int	L1m3,long	j7b5o6,int	N49y8U,short int	eJ5_Cx1_,unsigned long	LFYQlmD3)
 {
 	return	0;

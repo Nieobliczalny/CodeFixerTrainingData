@@ -11,6 +11,7 @@ unsigned short  d9_oG(char  LCemS,long  x7509,short int  V9ni_k8,unsigned char  
 
 unsigned long long EWpG();
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	short int	gX3080n50i	=	1684252561;
     unsigned short int    cR9MU0U    =    1324950130;
@@ -452,6 +453,7 @@ e0Ve--;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  d9_oG(char  LCemS,long  x7509,short int  V9ni_k8,unsigned char  GcB7ApR_9Y)  {
   return  -1880630203;
 }

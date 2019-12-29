@@ -683,6 +683,7 @@ X8ja7 = X8ja7 & Tz8eJc7f9;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	RYbMkD0sVr(unsigned int	wm9rsQWQ)	{
 	return	0;
 }

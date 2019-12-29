@@ -23,6 +23,7 @@ long vu9_RrH5TX(unsigned long long h1_0,unsigned int yv00Fx);
 
 unsigned int  foIz_c2h2b(short int  NyrZ0,char  WvtFr6Wd,unsigned short int  kgI14edSB_,unsigned short int  k3_KB);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   int  K3w1;
   K3w1  =  2011451213;
@@ -541,6 +542,7 @@ M9Z4 = TZff(M9Z4, 1143581606);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    TZff(unsigned char    tQ_p2ruq,int    F5A5SOb)
 {
     return    -1346448748;
@@ -551,6 +553,7 @@ unsigned int  i9mT66(short int  qK8hLzm,unsigned short  eEt8_3,short  Vphg8,unsi
   return  1396806225;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	lFwBW_oT0(int	Uak11nor,unsigned long	tg9LCs,unsigned char	vN5gv_)
 {
 	return	0;

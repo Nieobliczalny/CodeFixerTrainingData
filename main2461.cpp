@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char d2397tA(unsigned long K8h3TxS,long long o3vn7865z,char QO2h,short S256Rm80qK) {
  return -113000626;
 }
@@ -20,6 +21,7 @@ unsigned long ymD4ZOTXC(unsigned short cSKe6XR5x2,short int D03ThwKQOG,short int
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	ClTB(unsigned char	O65G1aK,short	i3fSeK9l)	{
 	return	-1299923941;
 }

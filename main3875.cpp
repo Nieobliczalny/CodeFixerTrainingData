@@ -192,6 +192,7 @@ Jop5_R = (int)abs(IYn0K_);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    o1S0QUATv8(int    ZvVD8k,long long    H4YBH0nUu6,unsigned short int    cqvN,unsigned long long    l6fU20Xzt3)    {
     return    0;
 }

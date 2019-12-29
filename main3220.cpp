@@ -16,6 +16,7 @@ unsigned char  V9m3M();
 
 long long    C1A8(unsigned long long    lYFI28RkS,unsigned char    CkC01YWe,short int    pl7_zjPCp8);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   int  jsW6AqHN  =  1686677053;
 	unsigned int	ogG86	=	380266797;
@@ -342,6 +343,7 @@ pD1F = k_Z5aV4 % 388229722;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long Mf34v(short J_VOubEX,long long WbfJn,long long r709N,unsigned long long Dcd8U79,unsigned short int vJc2RE04RQ) {
  return 0;
 }

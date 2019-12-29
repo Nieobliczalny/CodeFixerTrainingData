@@ -214,6 +214,7 @@ d26Ptp7y = (int)ceil(r388C);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    X9i8DgU98h(char    aESxo9k2,unsigned short int    qILrowQYm4,unsigned long long    cU53IL,short int    UzsuzT,unsigned char    gO6m_i0R_)    {
     return    -35622220;
 }
@@ -227,6 +228,7 @@ unsigned long long  sYgClC62dj(unsigned int  YN9Mi5R,long long  dYeGhG4_1i)  {
   return  -817186182;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	oh6YO(unsigned int	N_c41J)	{
 	return	0;
 }

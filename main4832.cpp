@@ -12,6 +12,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int Qb9MaH_p4e(unsigned int Am0ERs,unsigned short VI1O,unsigned short int x1qx) {
  return 1490823653;
 }
@@ -24,6 +25,7 @@ long long tnWUC() {
  return 73667530;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  unsigned short int uRMfy, GQja2_C_iU, R74ka9CH, LRP6H6, ZVA05VWwX;

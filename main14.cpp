@@ -13,6 +13,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  P_OPlr(short int  Tawr8E8,unsigned short  qC94cB72,unsigned long  ZT487kqwv9)  {
   return  0;
 }

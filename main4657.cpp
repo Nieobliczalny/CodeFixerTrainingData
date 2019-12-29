@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    wTOiF(char    vA0un,unsigned int    s2L_7,long long    uEK_9i)    {
     return    2067796213;
 }

@@ -668,6 +668,7 @@ QtGa5o <<= E0i_h;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  iL1vTF3AN(short  YZRnw6C1E1,short  uE9kFq20,int  WvTg)  {
   return  1051567964;
 }

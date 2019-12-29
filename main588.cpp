@@ -8,6 +8,7 @@
 #define	Amujx	(0)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    G_kq2mjp(int    JuU7,unsigned char    XUxdR,unsigned long    D_pCJ2_4N)
 {
     return    0;

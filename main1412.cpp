@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	MG_l01Jw(unsigned char	MVJn47Hi)
 {
 	return	0;

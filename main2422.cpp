@@ -370,6 +370,7 @@ dk__6THY = i7N_6rH << J0dth_D;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    zJ1KzAK6(char    k_9eS,int    y_Oy3,unsigned long    E1BjaE1r,short    rwrrwIG)    {
     return    1794128871;
 }

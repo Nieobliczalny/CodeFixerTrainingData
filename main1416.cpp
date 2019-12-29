@@ -18,6 +18,7 @@ long long  B3M9Sc56(char  xc7914bqe2,unsigned long long  ybwy,unsigned short  C2
 
 unsigned long    Js7wTUE(short int    iA9UC4SY6);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	long long	UdbEbESv3Z;
@@ -929,6 +930,7 @@ std::cout << "eVtIq5ULyd" << std::endl;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  b_PX9pX(short int  suc_,unsigned char  F0_H2_n,unsigned long  I3jzU055,char  uw35EK,int  Tfl1wvP)
 {
   return  -699702614;
@@ -939,6 +941,7 @@ long long  B3M9Sc56(char  xc7914bqe2,unsigned long long  ybwy,unsigned short  C2
   return  -471283642;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    Js7wTUE(short int    iA9UC4SY6)    {
     return    0;
 }

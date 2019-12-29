@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	zc2CT_ZS(unsigned short int	qnaH6s70,unsigned short	PDcT1ak,unsigned short	Fo_5QEb6_f)
 {
 	return	-830600272;
@@ -21,6 +22,7 @@ unsigned long long    cz4MX5W2(char    QRdOjfCN,short int    cQ2u47,char    Iu0Q
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    flrpZ(unsigned short int    zs6GG)
 {
     return    -758393474;

@@ -13,6 +13,7 @@ short int  OktQa(unsigned short  A3b_NDX3,unsigned short int  S05I0Yq,unsigned s
 
 unsigned short  J_m8O_(short  mOPHG,short int  R_LZCD,short  seNoO);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	unsigned char	yUVvN_20b	=	1138152637;
@@ -359,6 +360,7 @@ d0_E_2Rj = Jh1K(d0_E_2Rj, 1007819913, tdI4Eg);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	Jh1K(unsigned long	em82gn,char	tAn7ki,short	Jg_D_)
 {
 	return	-1930704573;

@@ -312,6 +312,7 @@ i4w_QFJh = hkQHE118I(PL501H1G2Z, -406087098, -2078016356, 1152675324, -127231172
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	hkQHE118I(unsigned short	K85L8W929v,long	nqQ89F_a_,unsigned int	D_QML,unsigned int	uRIr931S,long long	EzP7_9A8S)	{
 	return	0;
 }

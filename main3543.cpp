@@ -16,6 +16,7 @@ long I1avkVX90(unsigned long long skA6A,long dlws);
 
 short int	oKA_zOA_(unsigned short int	wS3pmS);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   unsigned char  zC1iQG6;
   zC1iQG6  =  0;
@@ -298,6 +299,7 @@ cout << uNC7N96o << "C1j0" << zC1iQG6 << endl;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	xnQGz(long long	t7y_L,unsigned long	ekwCjm,int	qvq93,unsigned char	vPS9S)
 {
 	return	-1002943708;
@@ -308,6 +310,7 @@ short b9z06()
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long I1avkVX90(unsigned long long skA6A,long dlws) {
  return -597594938;
 }

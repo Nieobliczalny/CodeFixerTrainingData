@@ -17,6 +17,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    BfYoJ10j(char    l59pvuo3,unsigned short int    bdvq49,int    RJ3NQiO_H,unsigned long    qeNbItJF_,int    Y807OE5)    {
     return    0;
 }

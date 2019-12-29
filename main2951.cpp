@@ -738,6 +738,7 @@ while (i >= 0);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  E37_3c3(unsigned long  o6ZY9tnsaJ)
 {
   return  0;

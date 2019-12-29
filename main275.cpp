@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  i2k5RH(short int  R0k2,char  YdA2,unsigned char  yRTs8N,int  O4c2CnLd1r,long long  Ldhx)  {
   return  0;
 }

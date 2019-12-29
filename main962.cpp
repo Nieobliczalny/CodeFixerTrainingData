@@ -636,6 +636,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	AHL_1KE_p(char	PxLSAz75Y8,unsigned int	OQGv)	{
 	return	1005382586;
 }

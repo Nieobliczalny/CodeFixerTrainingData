@@ -629,6 +629,7 @@ C1mpwB = JMy_v(C1mpwB, 1296431322, hFSb2, d_VMr68);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	JMy_v(unsigned short int	a9G112iS_,long long	R04_alXSx,short int	uDRP,unsigned long long	M_hMB0I4)	{
 	return	0;
 }
@@ -642,6 +643,7 @@ int  PGf33U35(unsigned int  He5Ex4vP4_,long  me309,unsigned long long  DOt_by_lK
   return  1306880639;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  GP8P142Y_(unsigned int  Z57PnwF,unsigned short int  z_t3yCe,unsigned long  tDI8eZcJ9,unsigned short int  bf23EdTb,unsigned long  Sz2j)  {
   return  1835112553;
 }

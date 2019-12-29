@@ -12,6 +12,7 @@
 #define    Vs1s_8TNU    (0)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long eV4b(unsigned short int WOJWp,unsigned short int VoSM,unsigned long long meRa6,unsigned int c3Rx2) {
  return -1663107133;
 }

@@ -15,6 +15,7 @@ short TPXmFeS_pf()
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   unsigned short int  x6Az52K;

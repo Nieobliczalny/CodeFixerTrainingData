@@ -804,6 +804,7 @@ aUr05 /= l914_F_JP;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  WU50M(unsigned long long  Gg4yS7)  {
   return  0;
 }

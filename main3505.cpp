@@ -318,6 +318,7 @@ unsigned short u106JeW()
  return -2121248940;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	K6ma1N(unsigned long long	O_u2J_,char	maqy2,unsigned short	KtO2buF7m,unsigned long	FrO1Z)	{
 	return	-1524019061;
 }

@@ -527,6 +527,7 @@ cout << fNTBzr7f(BkD9Pw7j1) << Ol2W90z_K(BkD9Pw7j1, xXyU67tU, Ef3RJQlOa, -156515
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	Ol2W90z_K(char	i35k6TGYx,unsigned int	v2sv,unsigned long	XJ85_jPJdJ,unsigned short	ZkZ8497M_K,int	Q1Su)	{
 	return	-1916860627;
 }

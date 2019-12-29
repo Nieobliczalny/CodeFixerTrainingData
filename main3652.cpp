@@ -12,6 +12,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    Jy_v6(unsigned short    ib_tL0Z_,char    L6IE3k,unsigned long long    XbSGu,unsigned long    J8PD5a,unsigned char    p0QOTnk)    {
     return    0;
 }

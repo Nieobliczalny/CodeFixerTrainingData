@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short A0ia06(short UJPswF_SaC,long F00DF4,unsigned char t1H72ni5Fg,char jreg) {
  return 0;
 }

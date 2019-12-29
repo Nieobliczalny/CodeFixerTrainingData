@@ -13,6 +13,7 @@ unsigned short int  TPLtuC()
   return  -1431879964;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    xEGv_LI1TP(long    o7ih5tDLUj,unsigned long long    L4XjK,int    ePmQ792)
 {
     return    0;

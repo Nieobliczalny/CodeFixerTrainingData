@@ -310,6 +310,7 @@ ir45 = O_SiGQl | DiXBR1;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    d1aSt(short    b5Z9CrLQ)
 {
     return    0;

@@ -20,6 +20,7 @@ short int  S6x0_VIs8()  {
   return  -1392889395;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  knYw892c(long long  Q523j)  {
   return  0;
 }

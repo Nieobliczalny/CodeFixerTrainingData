@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  aOXJn(unsigned short int  ZG_h15yxj8)  {
   return  449952059;
 }

@@ -9,6 +9,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	h270vbxx(unsigned long long	JFUO,unsigned int	F_2vd)	{
 	return	0;
 }

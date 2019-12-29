@@ -14,6 +14,7 @@ short int t7J4ji51X6(long KGHH106E,short dS_76jqP6);
 
 char	rb0mC2(unsigned short	VlGnI);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  long x8DkJR24DF = 400340192;
@@ -372,6 +373,7 @@ B0_9lTGOk <<= N_3xeb1wW;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int t7J4ji51X6(long KGHH106E,short dS_76jqP6)
 {
  return -2061977223;

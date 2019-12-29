@@ -289,6 +289,7 @@ wvP28 = (int)abs(Z_ZX);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int ERvx08D5(char fXM39o)
 {
  return 504856575;

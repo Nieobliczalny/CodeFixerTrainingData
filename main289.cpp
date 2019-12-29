@@ -709,6 +709,7 @@ i++;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    hns14wR7N(long long    bJKhkg,long long    FuASK,unsigned long long    a8wHcm6lf,short    olz1Enp,unsigned int    Oy3Q2)    {
     return    0;
 }

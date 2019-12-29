@@ -319,6 +319,7 @@ cEJGiA = (int)floor(h23a);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	pAMdwsOwZ(short int	BWbsL02,unsigned int	CK783s1412,short int	adEQ44t)	{
 	return	304004699;
 }

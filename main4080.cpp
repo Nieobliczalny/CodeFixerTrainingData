@@ -13,6 +13,7 @@ unsigned char QjXF5Iw8uK()
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    L_877(unsigned int    yKp2P57Xyq)
 {
     return    2008468416;

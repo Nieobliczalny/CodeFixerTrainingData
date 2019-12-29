@@ -489,6 +489,7 @@ aL2Ud_8 = kSq735();
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	nn4Xfe3x(unsigned long long	NRxF6AK)	{
 	return	0;
 }
@@ -502,6 +503,7 @@ unsigned long	kSq735()
 	return	1885490001;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  g8ckLD(unsigned short int  gTE1Fsq,long long  JBt36)
 {
   return  -1421286310;

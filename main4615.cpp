@@ -16,6 +16,7 @@ unsigned int gZAqiTf1o(unsigned char cbQXL,unsigned long long r8ZirJ,int m6tu0,u
 
 unsigned long    IQwdt(unsigned int    ZVWgCCfK,int    w_0v,short int    a1w1,unsigned long    TjRPcayR7,unsigned int    vn66Th9);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  long double Jc5d9;
@@ -389,6 +390,7 @@ j--;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int gZAqiTf1o(unsigned char cbQXL,unsigned long long r8ZirJ,int m6tu0,unsigned short l5fAca)
 {
  return 0;

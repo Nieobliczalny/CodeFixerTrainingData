@@ -367,6 +367,7 @@ while (i >= 0);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short s_AGB2ODG(long t069ng,long xfrNsrT9xf,long long D776zEx,unsigned short z2pL)
 {
  return 1202084611;

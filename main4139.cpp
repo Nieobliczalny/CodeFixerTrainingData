@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	m4TDp_O_Ul(short	w_I9iUTE,short int	gjvo2_3k9I)	{
 	return	0;
 }

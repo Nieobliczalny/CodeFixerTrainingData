@@ -19,6 +19,7 @@ long  Zca1_Ks2qw(unsigned char  H4033SU);
 
 short    QI024H_S16(short int    GOGN4,short    R6_CaN,short    Ef1rf3OUZ,char    Uo__U4ZD);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  short JWg0NsQj;
@@ -681,6 +682,7 @@ Wy8xqGw0 = (int)floor(wCh1d);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  Zca1_Ks2qw(unsigned char  H4033SU)
 {
   return  697183588;

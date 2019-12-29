@@ -309,6 +309,7 @@ a4_j2ee = pCXHyK5X9G();
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    JmTSiLQB_(long    axEI,unsigned short int    BEmD9c9Mn2,unsigned long    bna1k,int    ZA0OSw)
 {
     return    -2098567795;
@@ -323,6 +324,7 @@ short int FzCq9Cf(short int b03X,unsigned char jri7G9Fm,unsigned int cdKSUp,unsi
  return 1071093737;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	DnEo(short	hG9da,long long	L1G_3SoB,int	XV5nn)	{
 	return	0;
 }

@@ -291,6 +291,7 @@ int	iX4P()
 	return	-1998395065;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	IfED5g(unsigned char	nl7dwC_3H,short int	Lkk0,char	bjg1i,unsigned short int	r2Y4,unsigned int	z44_02k)	{
 	return	535703904;
 }

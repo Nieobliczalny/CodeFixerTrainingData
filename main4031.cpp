@@ -16,6 +16,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char IYA7AjA(short OrF40azkb,short int EsQ8,long ji81,unsigned char MG6iu7aIUN)
 {
  return 0;

@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	N5fs(unsigned int	wlfJAp1,unsigned long	cQVo9U7o,long long	TFTdl_Q_c)	{
 	return	0;
 }

@@ -19,6 +19,7 @@ long	EJHVU106(unsigned short	k9_O5g1h9,unsigned int	bCJuH178Bh,long	LZ2Z1,int	IV
 
 short	X_gXq1g(char	ve_WXFy_yw);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  long GTCwh = 1951173747;
   short int  U4_i6  =  -817791311;
@@ -574,6 +575,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  Johzy(char  U7ab6)
 {
   return  -1860110303;
@@ -587,6 +589,7 @@ unsigned long	Y5jy(char	T0I0EspMi2)	{
 	return	1773645212;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	EJHVU106(unsigned short	k9_O5g1h9,unsigned int	bCJuH178Bh,long	LZ2Z1,int	IV7K)
 {
 	return	0;

@@ -13,6 +13,7 @@ short C86141(char S1Cl,char QY8U,unsigned long long I720Y);
 
 unsigned short    PBo6dYZ();
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     char    uDfIfaC4    =    0;
@@ -169,6 +170,7 @@ uDfIfaC4 = (char)(HeKuOX1X0M * uDfIfaC4);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  oIbvY(unsigned char  CU43Z5,short  GZ6420S,unsigned short  a86vE)  {
   return  203668503;
 }

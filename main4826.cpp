@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  CMS02yt(unsigned char  D519_9a0_,short int  hvfIfS,unsigned long  AKwDYYVJz,unsigned short int  jXrxO)  {
   return  -7267049;
 }
@@ -19,6 +20,7 @@ short g5jPmOMgjo() {
  return 1303229986;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int ZSh6Bcb(unsigned long long s5869IOz9,char y46J4q,unsigned short int bc7D,short int pdAMC) {
  return 0;
 }

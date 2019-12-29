@@ -11,6 +11,7 @@
 #define    UdL2    (-165974630)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  u_LP25L5tN(long  ig76,unsigned long  IU0x3cQY8N,unsigned long long  tKWx)
 {
   return  1827662248;
@@ -25,6 +26,7 @@ unsigned short int	uFm4()
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	viyv759w90(int	E29u0,long	W389CjBEiP,unsigned long long	T0qlO,short	ElpL9i4mc1)	{
 	return	-878239962;
 }

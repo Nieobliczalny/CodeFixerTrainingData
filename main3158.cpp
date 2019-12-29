@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	g4YGN152O(long long	WBKH,int	o02d,short int	ecUnXT,int	LQ2_2Bo,long	wdW_l)	{
 	return	48581267;
 }
@@ -21,6 +22,7 @@ long  CcE2(unsigned short int  ierzX3,unsigned short  QV_T4G2,short  jW0GHEpG5A)
   return  -714333116;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	R_IABh(short	BHgUhFY7R,unsigned int	Ail6z8_Y,long long	Bw7e)
 {
 	return	-981087198;

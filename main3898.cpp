@@ -117,6 +117,7 @@ while (i >= 0);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    U1bQdX2(unsigned long long    Y0Lo3Mv698,long long    Y5PHD_5,long    fMn42zt9xf,unsigned long    G241yE58d)
 {
     return    0;

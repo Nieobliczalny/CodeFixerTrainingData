@@ -9,6 +9,7 @@
 #define    kIkhZ2    (0)
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    L6jn(long    Sow9Yjj)
 {
     return    1797319230;
@@ -23,6 +24,7 @@ unsigned char  XtP4Iv(short int  y5lcTn)
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  je5nLkA_2c(unsigned long long  n2Eld3RG0,char  DWd8gEI,short int  y1yi4Fe,unsigned long  UPzfzFL,short  Bnur93l6u6)  {
   return  -401887910;
 }

@@ -13,6 +13,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  unsigned long long hU0Bb, nbpI6EN, skUwS7Xt;
  hU0Bb = -2143378508;

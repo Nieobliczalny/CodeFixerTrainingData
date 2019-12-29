@@ -16,6 +16,7 @@ unsigned short int  U45Dn(unsigned char  BRdUiVD,int  Zk5af,short int  hzKA1W_,u
 
 unsigned short int D3In4sY2(unsigned long long bGX9bJ,unsigned int ra_8,short int UEnv);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  long double p9Fwl_931 = -477404136;
@@ -182,6 +183,7 @@ O7XfJsP7 = U45Dn(O7XfJsP7, 1834524110, -1137693639, zU_tLfUju);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  U45Dn(unsigned char  BRdUiVD,int  Zk5af,short int  hzKA1W_,unsigned long  uriot3)
 {
   return  285110218;

@@ -12,6 +12,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    DM2Qct(unsigned char    fL0PMhQ,unsigned int    Kzz63)    {
     return    0;
 }
@@ -25,6 +26,7 @@ long long	e8NC2I823(long long	GK8_p)	{
 	return	1440313550;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	iF_a9a_(unsigned short int	K1n0GM)	{
 	return	1019308257;
 }

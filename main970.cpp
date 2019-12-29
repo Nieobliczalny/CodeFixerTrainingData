@@ -9,6 +9,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	sc_w(short int	AQZ2ud,unsigned char	w3s_,unsigned short	cKabR_,unsigned short int	tpltfG,unsigned int	N5GQ)	{
 	return	0;
 }

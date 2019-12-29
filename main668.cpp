@@ -16,6 +16,7 @@ unsigned short	rR0_(unsigned long	y86eWYo,unsigned long long	R9Q67OZawA,unsigned
 
 unsigned short int  m4ry_kW7c(short int  t5Aa,unsigned short int  uRLVfLn);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  long long p11YR6n42W;
@@ -307,6 +308,7 @@ std::cout << m4ry_kW7c(-611740512, zyrDes7) << m4ry_kW7c(M0938, zyrDes7) << qZ4w
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	rR0_(unsigned long	y86eWYo,unsigned long long	R9Q67OZawA,unsigned long	R_Jh4rN)
 {
 	return	-1218170017;

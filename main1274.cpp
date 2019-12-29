@@ -17,6 +17,7 @@ using std::abs;
 using std::ceil;
 using std::floor;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	F72Px1(short int	Qn_Ly,unsigned int	YgHYL,long long	q_F8,unsigned char	nLY9D)	{
 	return	0;
 }

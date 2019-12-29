@@ -476,6 +476,7 @@ long	EGPsto1()	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  K3AFGf(unsigned char  yC3a47,unsigned char  P46316MGMQ,unsigned long  BSLpPGR)  {
   return  843034908;
 }

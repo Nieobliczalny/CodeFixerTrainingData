@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int Z84H(unsigned int ormhCi372d,unsigned short int r_CDK2g)
 {
  return -115887018;
@@ -20,6 +21,7 @@ unsigned int    dXv1a_s(unsigned long    P2DAKsLy)    {
     return    -1982893668;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    u3VNCuYG(unsigned short    W57G8jF8jN)
 {
     return    1209847332;

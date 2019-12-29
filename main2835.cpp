@@ -11,6 +11,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	p7WS8N6Dzj(unsigned int	t7w5Q31)	{
 	return	-279609306;
 }
@@ -24,6 +25,7 @@ unsigned short int	J_hv()	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     long long    oY9E    =    2130560420,    cU_S01cm    =    -680927594,    v6De0l2WOU    =    -968428605,    tEji3    =    1395275477,    qJ4_9    =    1130225598,    T_I3    =    592650287,    Qx09h    =    -1538807018,    XSD594Vb    =    582518219,    DcmHXG    =    -757028931,    ASomyf01    =    758551449,    Je16T7x61    =    345865756,    T_6Kv1    =    -745098762;

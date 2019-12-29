@@ -7,6 +7,7 @@
 
 
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    u4Wy1KOk2c(unsigned short int    o4vT3l29pk,unsigned char    MXjajS,unsigned long    qblu5z5,long long    ZPF4lZ,unsigned char    HL0TIeX)    {
     return    289292423;
 }
@@ -20,6 +21,7 @@ long  SjMO()
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    Pc8GC8w(char    W_K4_g4,unsigned long    ig1zcF8359,char    D3xtsPhq5,short    q12O2v,unsigned short    nfSoi4B20S)
 {
     return    1147381766;

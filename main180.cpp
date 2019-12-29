@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long U8NsJ9uF_l(unsigned long oeIe85t950,short int lwj0iFC,long sD_w_)
 {
  return 835363908;
@@ -21,6 +22,7 @@ unsigned long    KXFvB()    {
     return    1006741568;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	fshO9Tnu(long long	CXZ81)
 {
 	return	964076723;

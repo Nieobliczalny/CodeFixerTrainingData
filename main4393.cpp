@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    xtmPIV2k1(long long    N3Z3_Y3F,short    X5Y1g2ibi,long long    e6Ua)    {
     return    0;
 }

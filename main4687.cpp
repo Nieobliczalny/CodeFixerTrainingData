@@ -12,6 +12,7 @@ unsigned long  UV5VR5TKU0()
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	SB_3lxyV9g(unsigned int	pBympBR,unsigned long	faS3R,unsigned short int	IZEc0R28q)	{
 	return	917914185;
 }

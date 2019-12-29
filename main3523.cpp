@@ -368,6 +368,7 @@ kS9AX9 = kHBhO_V82(-1653313359, -863158826, GXCoGTn__, L45D3y6a3);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	pl7tr1M2pI(long long	X7Q8)
 {
 	return	-1696538320;
@@ -382,6 +383,7 @@ short    qlnS183()
     return    -1482185489;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	vNGZtY2s(char	E0YaUfzXxQ,unsigned long long	IjBgRk)
 {
 	return	579979614;

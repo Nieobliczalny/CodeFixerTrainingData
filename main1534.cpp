@@ -11,6 +11,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  u1zUBEV(unsigned int  n7ddtf56d9,short int  dE3di)  {
   return  0;
 }

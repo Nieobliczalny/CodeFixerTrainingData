@@ -234,6 +234,7 @@ break;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	BIt3qeuI(int	nZGkI,unsigned short int	VM_sg4,unsigned long long	gU_EG4pj9,short	Itnt1uGK1_,unsigned long long	npt_472)
 {
 	return	0;

@@ -16,6 +16,7 @@ unsigned short int vc7I34Los_(char HSbV907x0,unsigned int oHS1e2,unsigned short 
 
 char  i3bn39s();
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   long  oG9PG3  =  0;
  char oGeg_33H78 = -253716730;
@@ -414,6 +415,7 @@ long long kw8t()
  return 741898991;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	ry32hd1(unsigned char	qv__94)
 {
 	return	0;

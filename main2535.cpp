@@ -349,6 +349,7 @@ hhQulBFr = (unsigned long)(WHbLN);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	QjB7ldPLi1(unsigned int	WtIU6ihs,unsigned long long	j79g,unsigned int	p45459FxK)
 {
 	return	0;

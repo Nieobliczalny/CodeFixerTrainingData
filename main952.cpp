@@ -473,6 +473,7 @@ while (i < 5);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  T6_S_M__(unsigned long long  H4GUfEkvQ,short int  Owyr601A,unsigned short  SHUg8kc)
 {
   return  0;

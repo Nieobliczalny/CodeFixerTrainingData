@@ -154,6 +154,7 @@ U106 = w2NR5(dF0f5b);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	w2NR5(short int	OJ5m6tl3)	{
 	return	0;
 }

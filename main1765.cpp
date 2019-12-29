@@ -565,6 +565,7 @@ AKTUU = NqqJTGhTt << yc7Efprh;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short aBcf26I(unsigned short int xnsiP_)
 {
  return 0;

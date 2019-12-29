@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	O95_3X59hq(unsigned long	mmFlR_ysB,char	s386T9YRR)	{
 	return	0;
 }

@@ -17,6 +17,7 @@ using std::floor;
 
 short int    nEda25pyOU(unsigned char    hx4_8);
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	short	fBNH	=	0;
@@ -467,6 +468,7 @@ p1CG424 = JXvXM ^ ZFrv;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    nEda25pyOU(unsigned char    hx4_8)    {
     return    0;
 }

@@ -480,6 +480,7 @@ WjN19N = qBS9X >> pGB7ItMm;
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int U_My7M(unsigned long long opg48Rj6,unsigned int YNYfMqjDB1)
 {
  return 0;

@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  kGWlc(unsigned char  VU7p_D2d,unsigned long  O8vMOz)  {
   return  0;
 }

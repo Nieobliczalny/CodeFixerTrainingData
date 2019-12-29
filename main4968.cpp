@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long Xx01l72(char qV25DpE3,char vlwtk8ZT_) {
  return 0;
 }

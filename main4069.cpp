@@ -231,6 +231,7 @@ TIMpQ4A6 = (int)abs(U8ip1eAPJu);
 return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  PI_1T6s6(int  HLK3m4uWBm,unsigned short  T2Y2z,unsigned long  LMrX2YT)  {
   return  1318601052;
 }
