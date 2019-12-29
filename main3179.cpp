@@ -19,6 +19,7 @@ unsigned char    HzAsdRaP03(int    b1k1a2bv,char    e54J9ZNLL3,long    GNKq3dcP,
     return    1909576723;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long Pd93KQ60W(unsigned char ihVOL1i1J,long long nl3bM1,long B9FPQ69PD,unsigned long v_Y2,int NwRo0J)
 {
  return 0;

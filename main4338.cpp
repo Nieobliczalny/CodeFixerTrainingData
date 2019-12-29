@@ -527,6 +527,7 @@ unsigned char Tf5SWV(int f87vp_O1p9,unsigned long EI9qo0Q,unsigned short gv008C,
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int ty5_b(unsigned short int D1uVIq,unsigned short n6eka,unsigned short int uAW8txs,unsigned short int vU4408a,unsigned short uAr_7_3U)
 {
  return 18413847;

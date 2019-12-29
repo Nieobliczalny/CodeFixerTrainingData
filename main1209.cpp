@@ -23,6 +23,7 @@ unsigned long  y0uY07(char  RK69y26,short  L71IlAs,unsigned long long  c0c1)
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    t5e1VPV41(long long    a8ksV1,char    Cz__s_)    {
     return    -2120087848;
 }
@@ -37,6 +38,7 @@ unsigned long long	hX0Pr1PXQ(short int	zsahn,short int	A7K1185)	{
 	return	1304844645;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   unsigned short  yVOv2E8U  =  0;
     float    o0kZB    =    -945505148,    L89TJ    =    1352815835;

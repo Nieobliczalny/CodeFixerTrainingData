@@ -19,6 +19,7 @@ long long    D1496ITO(unsigned long long    IZy96L37,unsigned long long    OMxYI
     return    1076989328;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  X9HfTn(unsigned int  Sxu1)  {
   return  0;
 }
@@ -34,6 +35,7 @@ long  z8jk(int  XLI4cVG)
   return  889094935;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     long long    z3xjq2EJ,    R66QyOKk,    dSpJF6r21A,    xsirn,    rieJv9LB4,    UTWP_,    ZllbqlXi,    Ei50,    JyQ16mIFv,    QOM6,    Gl3mtT78a,    OlwlIAz;
     z3xjq2EJ    =    -592730905;

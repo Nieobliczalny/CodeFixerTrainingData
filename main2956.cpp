@@ -370,6 +370,7 @@ unsigned int A1x7HeuRji(unsigned char QWC4gc,unsigned long long B5sBv2R0,unsigne
  return 474917905;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    GEJU9f(unsigned short int    Je7LKfq_)    {
     return    1745832968;
 }

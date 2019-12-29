@@ -19,6 +19,7 @@ unsigned short int CMlT914y9f(unsigned int Is2_9_,char peEF2CbP71,unsigned int L
  return 240745220;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long nc_SYllIUf(short int gee3LDYP1m,unsigned short vVQGka_RXz,short G9o8rQL)
 {
  return -1538427570;

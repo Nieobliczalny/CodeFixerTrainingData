@@ -23,6 +23,7 @@ unsigned short	UK2B7r(long long	TBw0f,int	cT_RP5)	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    J_YqA5fs(short int    Iu5sq,long long    K0_59,int    DfY7YF7E)
 {
     return    -1129506338;

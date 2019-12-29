@@ -539,6 +539,7 @@ short  t_sOvL(unsigned long long  gi6K9,char  V1Dq5E,int  hQ46d1,char  ki822z)  
   return  840394601;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    hFntkOQO4(unsigned short int    XFBXD5P,unsigned long long    zVFvKC,short    T8kO,unsigned short int    rNFz,short int    u2lb7T)
 {
     return    0;

@@ -21,6 +21,7 @@ long  xZ4OY95m5i(short  zH9e22Ff0u)  {
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	unsigned char	E_599O	=	1279383813;

@@ -798,6 +798,7 @@ unsigned long    ywGnnUSEi(int    ZFEF0)    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    J9v9im(unsigned short    gfr1DQqh5,unsigned short    Rpz52G0,long    LXkT8y3l1)    {
     return    -1116104420;
 }

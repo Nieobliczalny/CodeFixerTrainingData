@@ -173,6 +173,7 @@ short	jM4NZkt_H1(unsigned int	ka3ycz20q,unsigned int	UVIRA,int	PO8s)
 	return	-764227256;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	NX990(short	in1dALqL)	{
 	return	-1000077052;
 }

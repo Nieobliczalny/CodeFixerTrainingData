@@ -390,6 +390,7 @@ unsigned long long  HJ5el7e9(char  bl84MDfB,char  eR03tN)
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char z323ngg8M(short aukm4Zst94,unsigned short R600_3,unsigned short int W78_N54U,unsigned short int pKBPe5,short int OM6__04Y_3)
 {
  return -1995900508;

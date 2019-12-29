@@ -266,6 +266,7 @@ unsigned long  KBIyBmtMz(unsigned char  X3CQM,short int  sDFxGqi)  {
   return  1055946278;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	e08__Dz(unsigned int	B6zq,unsigned char	eW4OFAv0,unsigned char	RtcQO38cq,short	pO8t5B7D8)
 {
 	return	2030346311;

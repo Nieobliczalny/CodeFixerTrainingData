@@ -22,6 +22,7 @@ int	XRnmm(long long	Zdo_XH62g,char	w46v_k)
 	return	522614025;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	baw4(long long	l08I)	{
 	return	606625655;
 }
@@ -37,6 +38,7 @@ long  rB6A9e4z(short  IpRzjDYC,long  YaCCe__,unsigned long  PtUt,int  q717_0,lon
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	short int	bxnJxy2	=	0,	Y82gy_K4a8	=	0,	MDBko45Sm	=	0,	kd9s	=	0,	P0j0N35	=	0;

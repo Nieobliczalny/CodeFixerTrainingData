@@ -21,6 +21,7 @@ long    GXY5I8zd(unsigned short    tPfCa0K81,unsigned short int    qoa_Yz,unsign
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  int tX6_xNUZ33;

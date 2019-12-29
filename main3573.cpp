@@ -18,6 +18,7 @@ unsigned long Ge6FJ9_MBc(long IIK3S7,short int PFs2Ng,long long X99jR3_HSX,long 
  return -1426337046;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short YQxFf_7X(char o30jDvjzf,unsigned char vdF6aQ7fdo,char qa_UJk)
 {
  return 0;

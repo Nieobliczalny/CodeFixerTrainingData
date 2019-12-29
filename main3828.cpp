@@ -442,6 +442,7 @@ unsigned long long iUGH(int AXcd42tS4,short BmFDi37G) {
  return -1813484582;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	I5vG(long	TNJWL7lm,unsigned char	wszL2Z)	{
 	return	-452144702;
 }

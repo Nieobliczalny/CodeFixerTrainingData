@@ -690,6 +690,7 @@ unsigned long long uYB2N3w8(int fSu27,short int K5pg9u) {
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    HLdCtLBWQM(unsigned long long    R9Ew9F_M)    {
     return    174142142;
 }

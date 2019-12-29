@@ -375,6 +375,7 @@ short int	ObE2UQ5z1(unsigned short int	g_xFT,long long	Y9BjT7)	{
 	return	1031291881;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	RA5hsWpb(unsigned char	oIjP8i54_,unsigned char	x4xXY)
 {
 	return	449368715;

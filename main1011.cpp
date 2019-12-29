@@ -746,6 +746,7 @@ unsigned char  yGWUvr7(unsigned int  G_x1fh,short int  Z555_T)  {
   return  1778884907;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    SnY8(unsigned short    zjw3_,int    jH1qx51,unsigned long long    k98u40i)
 {
     return    369804623;

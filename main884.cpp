@@ -18,6 +18,7 @@ unsigned short WC_bzrB6(int Lw1yZdQv_H) {
  return 1044934519;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    S_GpuT(unsigned int    n9Ot06O9g,short int    T7_g,unsigned long long    A4aLAe,short    ZMjHc_KQ,int    CQbZ4)
 {
     return    -1193673968;

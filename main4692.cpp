@@ -19,6 +19,7 @@ int	CL45b(int	LR38nrZN9J,unsigned short	g874t4RgF)	{
 	return	2069049002;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   float  O9wfRG;

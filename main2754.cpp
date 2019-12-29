@@ -28,6 +28,7 @@ unsigned long i_kjD7_t(int eP_tGWjM,unsigned short int vZw_X) {
  return 1422911158;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  oO_ZUBMP(long  snflhK70,long  Jap8yA2KSa,short  M1wr,unsigned int  x7wYSH9W,unsigned int  gNQv85)
 {
   return  -1332886232;

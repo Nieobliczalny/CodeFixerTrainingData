@@ -23,6 +23,7 @@ short int hbdqq_(short iR64EDRc,unsigned long long lggv_E,unsigned char ZNb7l0) 
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	int	G4121tPJ2b;
 	G4121tPJ2b	=	-268550075;

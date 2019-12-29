@@ -282,6 +282,7 @@ unsigned short	M2z_5Y(unsigned int	PZ907_wl8,unsigned long	SsPc5v4)	{
 	return	1977521062;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  o87fn7i71(unsigned char  e4N8bD)  {
   return  0;
 }

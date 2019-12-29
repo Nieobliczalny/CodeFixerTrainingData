@@ -36,6 +36,7 @@ unsigned long  VaqZhp_2hj(short int  DTBc_Qaux,unsigned int  to0nikMM)
   return  -746820460;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   short int  u69G3n3j_  =  -999622465;

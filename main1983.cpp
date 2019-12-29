@@ -557,6 +557,7 @@ unsigned int    LUZ8O_k_5W(unsigned char    gO8352t_DT,unsigned short int    A_d
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int PNt0(char D74h5196,short Q_U51l) {
  return -343277199;
 }

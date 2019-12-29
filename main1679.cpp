@@ -26,6 +26,7 @@ unsigned long XH485C82XZ(unsigned int b74_iuPtE2) {
  return 246882545;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  NER8Bd5Yo(int  Dpe2,int  jWl8B,long  oldV4xZY)
 {
   return  -1899284851;

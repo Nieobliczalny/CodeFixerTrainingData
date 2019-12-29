@@ -17,6 +17,7 @@ unsigned char    pU2_t7(int    zYO4S2,short int    usm7,unsigned char    nq049nl
     return    -890072700;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char D5CN7DL(unsigned short int Ni3S)
 {
  return 0;

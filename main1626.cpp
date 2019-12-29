@@ -718,6 +718,7 @@ short	mta5M24LKW(char	q4Nl,unsigned int	c24m)	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    D45zK_O_S(unsigned long    I8KY_,unsigned short int    Nz3OE)
 {
     return    85362448;

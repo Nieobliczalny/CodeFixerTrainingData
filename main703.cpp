@@ -19,6 +19,7 @@ short    ce4O2k(int    LO2Coc)
     return    -1267570958;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long EJ5UsJF(unsigned long mQ2t9) {
  return -848527798;
 }

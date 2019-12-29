@@ -596,6 +596,7 @@ unsigned short int	b9S7FkX2(unsigned int	w_uYHJOf,unsigned char	ku5jNX,unsigned 
 	return	-60525976;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    uRFET(short int    zIeO3_k0n,unsigned short int    dD01JS8)
 {
     return    0;

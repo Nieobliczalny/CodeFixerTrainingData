@@ -17,6 +17,7 @@ short int    jN07(long    e9A5_75D)    {
     return    564874225;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	z39B9(unsigned int	la6xMg,long	hH20l,unsigned long	Zyg8bwL0)
 {
 	return	0;

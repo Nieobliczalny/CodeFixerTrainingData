@@ -24,6 +24,7 @@ unsigned int    DTb9iVd3(unsigned long    x862177,long long    rp83dS,unsigned l
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	HkTI(unsigned char	hEGX_b,short	Jo5D)
 {
 	return	-2142480443;

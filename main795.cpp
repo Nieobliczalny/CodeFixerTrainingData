@@ -19,6 +19,7 @@ unsigned char  k2ZP(unsigned short int  k3S1e6d,long  wj51J,int  T7m95xg22,unsig
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long NaY4rgo(short int fuqbbzwX,long h_Dj8o_1x,unsigned int sOA2elj2)
 {
  return 253222498;

@@ -229,6 +229,7 @@ short int  KZAonZ(char  X6ckT,long  ay5oKm5J,long  mt2X,int  Y6JATIq8yV)  {
   return  1697794627;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	IG7y(unsigned long long	dN98A,int	N54b1H6)	{
 	return	0;
 }

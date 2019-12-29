@@ -443,6 +443,7 @@ long long kIalT_B(char d3o6tpY) {
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long xbwRh9gKk(short int ryLs2)
 {
  return -954621326;

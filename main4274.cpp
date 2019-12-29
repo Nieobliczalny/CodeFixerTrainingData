@@ -22,6 +22,7 @@ unsigned long long  ar5Wvm1(long long  TLux02U,unsigned char  lVXUjPA)  {
   return  -850909906;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  v788CGu(unsigned long long  mW8G,char  gTTO,unsigned long long  MdICdT_w)  {
   return  0;
 }

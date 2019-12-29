@@ -722,6 +722,7 @@ long j4dSN5LBF(unsigned long B_hDB69J2l)
  return -1672948201;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  bM9BA(unsigned char  Z9dp3xXV5,unsigned short int  UD18Ve)  {
   return  0;
 }

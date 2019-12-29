@@ -19,6 +19,7 @@ short FQ_fDm(unsigned char HqsjW0h,long long z2zuqR795)
  return -1401563869;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	k5_hZQ(unsigned short	Ie6oz,unsigned short int	HwCUU5RU,unsigned short int	L5I39fYSQ,short int	gT7PhIj8,char	sO_7jB_IpL)	{
 	return	0;
 }

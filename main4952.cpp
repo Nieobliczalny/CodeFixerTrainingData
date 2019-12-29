@@ -577,6 +577,7 @@ unsigned short	CH_n_8(long	dXLbLUFp,int	m3kGiX,unsigned long long	aiQ6qF7Z4,int	
 	return	-656366812;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int XA735lit5(short int zhf7MHiWq1,unsigned long long B6Cb9p,unsigned int L0oWQugys_,char kv5f) {
  return 0;
 }

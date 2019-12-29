@@ -522,6 +522,7 @@ long    sr48hDq5m(unsigned long    Y2cT,char    oRzII81,unsigned char    HeY57LV
     return    870301700;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    D62nok273(long long    DQ20x5_r,unsigned short int    E_Cs95Fuh,unsigned long    A3cj,short    rz7J7Husi8,int    NL5A_VWQf)
 {
     return    -1430032645;

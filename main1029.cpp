@@ -19,6 +19,7 @@ unsigned short	bU138Qv1f(char	UbNvk3l,int	o2BO,unsigned short	nlE_BXs,short int	
 	return	-1424827096;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  fBbaH(short  SF5Q2G0,short int  U4hQ8,int  C9xam6,short int  C5ng43l1W,unsigned short  f349czg8l)
 {
   return  0;

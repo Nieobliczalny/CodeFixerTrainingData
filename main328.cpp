@@ -37,6 +37,7 @@ short int    mzCtLj(char    D61r,short    F_JL)    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	V2QJ_(short int	q4CUDZWJ,int	TC21o7T,unsigned short int	ez82HC)	{
 	return	789362082;
 }

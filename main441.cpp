@@ -19,6 +19,7 @@ unsigned long long  w5fF_mg7s(short int  MdxRbNCrT4,unsigned char  Cau5v)  {
   return  1591660323;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char j65z4rpE(char t_xhd1) {
  return -1990672216;
 }

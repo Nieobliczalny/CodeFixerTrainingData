@@ -19,6 +19,7 @@ unsigned short int n1m3mv_s(short X36dsi4mna,unsigned char L4gT53FIn)
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     long double    idh11oOn__    =    2083924658;

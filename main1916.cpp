@@ -294,6 +294,7 @@ short int    y3B2(unsigned short    KE592VTjK)    {
     return    1952733709;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	Pmxo(int	h3CP7551n,short int	Z936Ppq250,unsigned short	w4JE6_q6t1,short	ovHieCOav,unsigned char	i50X86I4)
 {
 	return	0;

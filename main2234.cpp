@@ -225,6 +225,7 @@ int lI7Lig(char EKIi79x7,short SM0dKT,unsigned long long WpXp) {
  return -194287095;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	GiL1(unsigned char	iWtdfHv742)
 {
 	return	0;

@@ -390,6 +390,7 @@ long long	LA3QV9q(int	KX03f_RY,unsigned short int	dk5GlT_z,char	T72dI7n6,unsigne
 	return	-517695377;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int t32zZ(long long W9xLRj,unsigned int SsWUur5H,short xbE8_)
 {
  return -30342424;

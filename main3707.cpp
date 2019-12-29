@@ -19,6 +19,7 @@ unsigned char MoGx0_c(short int WsXCK1np81,unsigned long Y4SuZt,int V0W_93c5Wr)
  return -479754494;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long tpGY52496_(unsigned char KVPIJh9eB,long dE1i_KuWz)
 {
  return 0;

@@ -27,6 +27,7 @@ unsigned short int    Sc3_6T0(unsigned long long    lz5_k4,unsigned long    MBDK
     return    -1655750391;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    eElK9U5(unsigned char    sOwa7I_13,unsigned short int    LK9V,unsigned short    p17mvF)    {
     return    -1761667744;
 }

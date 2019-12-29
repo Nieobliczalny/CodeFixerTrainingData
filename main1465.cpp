@@ -26,6 +26,7 @@ unsigned long	A8p1Lyo_8(unsigned short	y7HG_j4L)
 	return	-362726799;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  KN7r3l(unsigned int  NJF1l)
 {
   return  -328652308;

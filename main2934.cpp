@@ -22,6 +22,7 @@ short DGEgANGIej(long long hpnVOg,unsigned long long yEd5_,unsigned long long ND
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    wV963zr(long long    NY0mnKeT,char    fBN5E_83o,short    yzsG0monfN)    {
     return    -1227952120;
 }

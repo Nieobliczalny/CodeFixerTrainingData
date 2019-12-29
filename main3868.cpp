@@ -20,6 +20,7 @@ short int  c7z164(unsigned char  VRkO)
   return  1207043640;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  Qu784(unsigned long  P2Vp0CR2U,unsigned char  t8x96UY5M,char  z446i1mEg,unsigned int  fpU4S,int  R__I)
 {
   return  -1413953364;

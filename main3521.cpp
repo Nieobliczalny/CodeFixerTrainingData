@@ -228,6 +228,7 @@ unsigned int  G3JgEm(unsigned char  mMA0945,unsigned char  Dfvt3_E)
   return  1760251759;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    n56AT0(unsigned int    kg016,short    y6jkf52AK1)    {
     return    0;
 }

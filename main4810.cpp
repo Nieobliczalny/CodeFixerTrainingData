@@ -18,6 +18,7 @@ unsigned char  qTcBHZBZ(long long  b_c8t)
   return  1332827937;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	BVOr(unsigned char	xC328,short	H4VFt)
 {
 	return	1887787022;

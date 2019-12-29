@@ -37,6 +37,7 @@ char    RB0J(short    l_uWT)    {
     return    -1554733217;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     int    BS73Xn;
     BS73Xn    =    0;

@@ -20,6 +20,7 @@ unsigned char tyIpXYO52_(unsigned char rV_vy_ZI,unsigned short dAL13KXq) {
  return -1917902853;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int umY0x21vw(long hs_3B,char lX9m,unsigned long long OVDwvt5coK,long long HZ03T)
 {
  return -1155474737;

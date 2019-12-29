@@ -35,6 +35,7 @@ long long k_n2dU_y(unsigned char mY_1s8GD6G) {
  return -2116562167;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	dTeH71SdE(long	k6rMHh,short	x3xB1jx,unsigned long	X9Ron29DF)
 {
 	return	1493440026;

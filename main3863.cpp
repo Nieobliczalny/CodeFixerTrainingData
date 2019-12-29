@@ -417,6 +417,7 @@ short int  H56z1(short  SXR2b6LT,char  rh8Ff,short int  kfDS51CY,short int  k6UQ
   return  -601269032;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long fc9_(long long Z7QJk,unsigned long long Gf6x) {
  return 0;
 }

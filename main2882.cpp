@@ -23,6 +23,7 @@ unsigned short S2u5PrA(short int Sm42K1Qy71,unsigned short int B15L5j) {
  return 2121763605;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  R__aXLV38(unsigned short  Vj5w9Q6,unsigned long long  C_l__MmWA,unsigned short  JS72lU,short int  g5phqIg8W)  {
   return  0;
 }
@@ -37,6 +38,7 @@ int	vihgq(unsigned long long	At40xqz19w)	{
 	return	1273939056;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     short    c82_5;

@@ -387,6 +387,7 @@ long hq0s(unsigned long b_4792VjL1) {
  return 340367604;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    Y045(short int    Wy2ICvQ,long    wM465SvqG,unsigned char    Ca4RnU,unsigned int    w6W_tM44t,short    V_t1CH_a)    {
     return    -1828954412;
 }

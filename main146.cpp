@@ -24,6 +24,7 @@ unsigned int wM50T3D(unsigned int r5AW)
  return 670968972;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	F2is_(unsigned char	D0YCcP713,long long	WmPUr,unsigned int	F8v3M3909N,unsigned short int	Xkfe3,unsigned char	ix9x2TSw5)
 {
 	return	-844858313;

@@ -20,6 +20,7 @@ short int    EkcA6wh4w(long long    R48KZ,unsigned long long    QEjYFd7JMD)    {
     return    1090388850;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  hXSt0ZrY_(short  pT8a6o,int  E8pt,short  w_gL_bA)  {
   return  0;
 }

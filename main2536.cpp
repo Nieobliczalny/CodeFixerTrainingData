@@ -422,6 +422,7 @@ long yvuO(int mGc8XG,char RtLtNu,unsigned char aWh1JW25,unsigned short int a0WLK
  return -158010579;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    b15CA_gmjE(int    Px1rcWL,int    Ukug7xq2,unsigned long    oRgv7104,unsigned char    cTH12t6)    {
     return    0;
 }

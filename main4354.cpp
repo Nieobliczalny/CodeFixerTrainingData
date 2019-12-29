@@ -23,6 +23,7 @@ int	sF36z3RC40(long	TaAYu,short	lDf7GzS,short int	kOI8Xba8)	{
 	return	1909030722;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	fRxb(short	cv3gqvG,unsigned short int	t4lzaI1u,unsigned short int	ySP98)	{
 	return	0;
 }

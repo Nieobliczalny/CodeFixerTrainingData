@@ -23,6 +23,7 @@ unsigned short P8jyQt6C(short int wA6g5fs3j,int Fo_c3Y0f,unsigned short D_048IO,
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     unsigned short int    p_g0;
     p_g0    =    67575365;

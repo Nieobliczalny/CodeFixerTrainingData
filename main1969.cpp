@@ -19,6 +19,7 @@ int nj4c2Dy4g_(int Csu8Nitg,char Au5d,unsigned char xfxBul7)
  return -1074516816;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short  L_br_EQxt2(int  a7vr8mP)
 {
   return  -708709736;

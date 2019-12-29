@@ -620,6 +620,7 @@ unsigned int    WJ7P(unsigned long long    o931s,unsigned int    w05Fzhwy8j,shor
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    iet_T(unsigned short    Hqr85R)    {
     return    1741351537;
 }

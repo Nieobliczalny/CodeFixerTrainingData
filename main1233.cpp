@@ -557,6 +557,7 @@ unsigned long long  j9Y0N90Dh(char  l1Gv,short  z08Pz_J51,int  Cy84,long  huNxD6
   return  -250510091;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	lSum_(unsigned short int	d4agn)
 {
 	return	0;

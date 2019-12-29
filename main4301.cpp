@@ -260,6 +260,7 @@ unsigned long    w_dBAg(short int    mc93N,unsigned short    O4NU,unsigned short
     return    1665654330;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short V0Po(short int YZQr8S_1x,unsigned long long c7_G9YBjK,short H4tc,short int u9h8k)
 {
  return 0;

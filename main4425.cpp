@@ -767,6 +767,7 @@ long long	OjNW69y(unsigned char	LkC6T,unsigned long long	BSy7Wp8J7x,int	WOnZA8rz
 	return	-997335753;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long e107y(unsigned short PLKZxi7) {
  return 1678115264;
 }

@@ -499,6 +499,7 @@ unsigned long long    mH__t987r(unsigned short int    DMxt3dXTC,unsigned short  
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    j3CSaG(long long    yicP3)
 {
     return    1996311957;

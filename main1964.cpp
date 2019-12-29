@@ -23,6 +23,7 @@ unsigned long long  v3t1p9(long long  Oo3Kvu6HW,unsigned short  bQ1a6t,int  pBG3
   return  -2110815798;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    ER8tl8eA(char    T8fUq_pd,char    D65Lk,long    cXatt_7)
 {
     return    213856842;

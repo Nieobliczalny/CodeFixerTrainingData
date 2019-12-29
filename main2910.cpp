@@ -240,6 +240,7 @@ unsigned char	sko__5I3(unsigned int	Ur089tro,int	v8bc_TnwYk)	{
 	return	-67322666;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    U7V4UR(unsigned char    xG64v646J,short int    og4I4NxP59,unsigned long    Ue8MQ1n)    {
     return    902407387;
 }

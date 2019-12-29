@@ -30,6 +30,7 @@ unsigned long long	Y_C04_(unsigned long	nSNE_89C8_,unsigned int	SV8ZPVoZ,char	ip
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  long B2RH5lv = 743616323;

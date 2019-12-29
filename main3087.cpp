@@ -805,6 +805,7 @@ short int    ecPxj5I_0L(int    u30VNBG,short    Iv34xkQ3N)
     return    1396795849;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short IGaCgA_97X(short yYG4s9)
 {
  return 0;

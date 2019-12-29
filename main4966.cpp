@@ -313,6 +313,7 @@ unsigned long long    Y2ETGBd(unsigned long long    DXu98ruk,unsigned short int 
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  R1EQ(char  uvnv,long long  QpoN,short int  sQulC,long  Rc__d)  {
   return  -967545526;
 }

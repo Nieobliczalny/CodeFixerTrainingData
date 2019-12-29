@@ -485,6 +485,7 @@ short int z6W1PGx(short int P01Ro,int r20g63fx0,short rZyUQxs22_,char JW3QU,shor
  return 1628362421;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    kDwx(unsigned int    buvdRT7B_1,long long    LOD1,unsigned short int    pFKOu,unsigned short    sHzlSX2)
 {
     return    0;

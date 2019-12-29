@@ -18,6 +18,7 @@ unsigned long long	aE9Y(unsigned long	cJ3_W_,unsigned short int	k15K,long	MTtCfn
 	return	-1442196328;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  W6k6Cn(long  wab8,unsigned char  ZJi64_cTMZ,unsigned int  CaY9eBEHm,unsigned char  xXuKy)  {
   return  -1753874590;
 }

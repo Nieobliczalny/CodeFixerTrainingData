@@ -22,6 +22,7 @@ long long    nv_89p4(unsigned char    KyR9,unsigned long long    T5t5,unsigned i
     return    -1443333442;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    jyYFYC(unsigned char    Nb_7eB,long long    OudH,unsigned char    DhB11m,short int    JkhQ,short    fHxM)    {
     return    -353782636;
 }

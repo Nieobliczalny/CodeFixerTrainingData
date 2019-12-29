@@ -22,6 +22,7 @@ unsigned int	cLA095(unsigned long	bwoqxHr88V)
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	Oh1A(unsigned short int	YgLIU4O3I,short int	Cxk02MFGA,unsigned int	LGMgd3XY,unsigned int	mvCbj,unsigned int	p2r7GgqT_)	{
 	return	1812468864;
 }

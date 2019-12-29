@@ -31,6 +31,7 @@ unsigned char    FQ6M1upC(unsigned short    j9ZZ_4,unsigned char    y58p39y9)   
     return    -1079200394;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long Us_2D27k90(unsigned short int yu34N,unsigned short int L9_gRM_BT)
 {
  return 241828923;

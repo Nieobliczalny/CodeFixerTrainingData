@@ -28,6 +28,7 @@ unsigned long CjcG(unsigned long o20onrj5,unsigned int YGzI62,char OUZ8S6V,long 
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	qT3P0f7V7(unsigned int	Yr_P,unsigned long	Dj_0WIl2F7,unsigned long	BgY3D)
 {
 	return	-162874316;

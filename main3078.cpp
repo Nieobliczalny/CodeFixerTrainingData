@@ -189,6 +189,7 @@ short	OIf8_(short int	OgEpod,unsigned long	u4UT4,char	lOBWqb,long long	ZP3B41o)
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	z5a_(unsigned short	Uk2o0LA8,long	Z4Kh)
 {
 	return	1327774242;

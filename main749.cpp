@@ -28,6 +28,7 @@ unsigned short	th5l(short int	C3r9qG)	{
 	return	-1847573329;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  o3S60BX9H(short  Q35U73,unsigned long  zdk3xp,unsigned long  XC2Ow,unsigned long  n52H)  {
   return  -302385014;
 }

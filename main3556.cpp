@@ -18,6 +18,7 @@ unsigned long long rx2_b5Z(long srpzu,unsigned long long Cusv,long long hM70znoT
  return -1284007519;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	oyBaPX7(unsigned long long	ILgd2p,long long	a_tTr6GH2,unsigned long long	stRM,long	e6l3,short int	EA_Nul5)	{
 	return	-438739457;
 }

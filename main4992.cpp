@@ -23,6 +23,7 @@ int uy9818(short NVEeC,short int OK8P1U,int e8ZG2l)
  return 813439722;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long HH7zh3_d(unsigned int texb)
 {
  return 735509753;

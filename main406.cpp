@@ -27,6 +27,7 @@ short    ylOu00lC(short    Y1_8_h)    {
     return    1950878044;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char z8OYj(char JQMw_7yJ0,unsigned char sU90,long long CmrD31_x) {
  return -1589613104;
 }

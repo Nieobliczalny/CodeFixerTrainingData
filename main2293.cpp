@@ -22,6 +22,7 @@ unsigned long    Yt22(long    stI4tX,unsigned long    k1wk691,char    Akvno,unsi
     return    1398441977;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  T7O1n(short int  Q9miu_7,short int  ZXeaCrhgY)
 {
   return  1810090766;
@@ -37,6 +38,7 @@ unsigned short  DlXS(char  WT5r0480S,unsigned long long  y3aUZ0,unsigned short  
   return  -815486082;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	unsigned long	C8P846f0l	=	1448460136;
  unsigned int I_ftGYi_p = 1203625638;

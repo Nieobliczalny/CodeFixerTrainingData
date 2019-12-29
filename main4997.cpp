@@ -558,6 +558,7 @@ long long    OdR_aI7wrd(unsigned short int    Hzr8,unsigned short int    yu8_,un
     return    -1362045624;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    VsDEkRWd(unsigned int    CkQLa8)
 {
     return    0;

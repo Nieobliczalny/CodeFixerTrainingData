@@ -29,6 +29,7 @@ unsigned long    bga4228(unsigned long    y0190ey5,unsigned long long    ZZL1qug
     return    213780165;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	unsigned char	A2l61pz;

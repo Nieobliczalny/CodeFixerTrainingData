@@ -152,6 +152,7 @@ short yrfoC97(char LO2c76N2) {
  return 813332291;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	Zzp8hT(unsigned int	n0J_,unsigned char	xocDs,unsigned short	QP_qP43_,unsigned char	QHLJg)	{
 	return	0;
 }

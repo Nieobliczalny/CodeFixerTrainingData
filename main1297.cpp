@@ -22,6 +22,7 @@ unsigned int	g1Dsc9qMa4(unsigned short	n_a7Y)	{
 	return	115297370;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    r7NC48a6kJ(unsigned int    w2N_laqPG1,int    Lg9VSec,unsigned short int    hbR5nP,short int    Mv12YPFJ9)    {
     return    -417503060;
 }

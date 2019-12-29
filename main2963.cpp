@@ -24,6 +24,7 @@ long long	ULVr69(long	dTIoD67b,int	ZfKE7)	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	iU22GamH(long	vSo6W6U,short	I_9609_,unsigned long long	RA4PZ1A)
 {
 	return	-1661630086;

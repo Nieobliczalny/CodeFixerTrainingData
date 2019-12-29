@@ -35,6 +35,7 @@ short int l34q(unsigned short int No41eQk14,unsigned short j_mu5I)
  return -2074858277;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short  k3YGNw77(unsigned short  T6TS,short int  S2y74J53T,unsigned int  Xb2Q4hWF2M,unsigned short int  YFfFDdL)
 {
   return  285877471;

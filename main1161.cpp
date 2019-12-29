@@ -851,6 +851,7 @@ unsigned char nH4pVR(unsigned short int iRIEgHVNWN,long long QY_6RLr)
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int FAo7XI2(short int PJiD3RzjIE)
 {
  return -901627122;

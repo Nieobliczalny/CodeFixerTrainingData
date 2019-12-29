@@ -20,6 +20,7 @@ unsigned short pj60P(unsigned int d_R37e,long long h1h85XiP,short AmRw,long UWnq
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  Nr4_QG5V8(char  q45MW,short int  Ia3Dva2,unsigned long long  LClS9ZRB)  {
   return  -1915847015;
 }

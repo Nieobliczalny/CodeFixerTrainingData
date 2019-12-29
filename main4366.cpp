@@ -502,6 +502,7 @@ unsigned short int  a9QPRNeV(unsigned int  g0mP5a2Rq,short int  hcIAo,unsigned c
   return  -667612024;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	Lognp9h76a(long long	DdoG2S21,char	Q1zcde,unsigned short	yf_R6H)
 {
 	return	-2057583473;

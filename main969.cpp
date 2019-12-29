@@ -22,6 +22,7 @@ unsigned long	nhF5qrou7(unsigned int	mIW_0M)	{
 	return	1369732222;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	ATpU3(unsigned long long	zX57M74240,unsigned short int	fB5_,char	B3toc,short int	kjFe)	{
 	return	0;
 }

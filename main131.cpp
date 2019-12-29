@@ -23,6 +23,7 @@ unsigned short int	wI25(unsigned char	sZO6gem3)	{
 	return	627472328;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  aSI4J(unsigned long long  IryVJB9yZ,long long  pD76595C,int  E9QnS,short int  sh3MSSYyY)  {
   return  -1640938815;
 }

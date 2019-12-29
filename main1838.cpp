@@ -22,6 +22,7 @@ unsigned char    nYzHM_(unsigned long long    Q33z557p,unsigned long long    ct2
     return    -1689303421;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  YSDW32(unsigned short int  Ettcrd1,unsigned long long  e3s1oqq9KK)
 {
   return  878678285;

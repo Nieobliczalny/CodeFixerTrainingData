@@ -21,6 +21,7 @@ short RH3H2_8v(char O6q6bp8,long V5ed,long U07I1,unsigned long long Ghl3DVNKgG)
  return -1177154904;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	B8_iza04Y_(unsigned long long	eAYIei9L,unsigned int	QDuaS,char	lc6C_,int	OZDf78y,unsigned long	DbS9O0)	{
 	return	487109321;
 }

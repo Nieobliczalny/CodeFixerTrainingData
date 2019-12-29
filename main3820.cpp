@@ -22,6 +22,7 @@ long	X2sqKWr(long	F0beUEg_uB,unsigned char	H_5jfO,int	lg43KyZ_1)	{
 	return	-694145754;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  Ch5j(unsigned short int  gXiwU738uE,char  b83jJK3xx,char  G2oV3Cbcy)  {
   return  0;
 }

@@ -411,6 +411,7 @@ char    E_Xe6Zq(char    PyPbY794e,unsigned int    m5pg7_6TzE,char    JFtud,long 
     return    -1348947880;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    wu_E2TS(unsigned char    KO_CWY2J,short    TQ59uf,char    gu6kvCOID,unsigned short int    EChJ_d_PK,long    gzkN4WZt_3)    {
     return    0;
 }

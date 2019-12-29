@@ -535,6 +535,7 @@ char	sCIh0DWcDv(short int	rb5J7Eo93,char	Hmdt_A,char	Fuo284SZ2,unsigned char	gL6
 	return	-1582181037;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    Pfb3(char    q647HblBrP,long long    SFYH4b3CI,short    Gk6E)
 {
     return    0;

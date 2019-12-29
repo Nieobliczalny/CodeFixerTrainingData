@@ -18,6 +18,7 @@ unsigned int    h_YaI(unsigned short int    CfQv1Yu7P,unsigned short int    Mz38
     return    113915235;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	WI6iXf8UG(short	m__H,short	m0oeRfq_,long long	EdAiatKD2)
 {
 	return	-1472350094;
@@ -34,6 +35,7 @@ short	rXUGfR_0Mn(int	M9hJVF42)	{
 	return	57618271;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  long double VQmZe;
  VQmZe = -82749556;

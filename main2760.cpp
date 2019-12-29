@@ -480,6 +480,7 @@ short int XyBxeNH(unsigned short p93f,long long D1fwd4Oc,int bS05WR0KB7,unsigned
  return 1923772824;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long B7HT14peZ7(char pDK9y,unsigned int N5f_6,unsigned short R0kxzkdN,short j2Gzl) {
  return 709909336;
 }

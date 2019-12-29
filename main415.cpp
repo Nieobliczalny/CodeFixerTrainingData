@@ -551,6 +551,7 @@ short V78SVDw_U(unsigned int tkyPmS8IUM,unsigned int f7mS3z,unsigned long long z
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    RP2L(short int    AJns,unsigned short int    CC0oQ1W,unsigned int    d_fP,long long    CUBt36,short int    liPl)
 {
     return    -1483896516;

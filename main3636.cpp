@@ -372,6 +372,7 @@ unsigned short AEcTO6(char vjC4,unsigned int Bs8qwZDR,long long t8Z3Y,unsigned l
  return -987865727;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int ceEN0jtx0(char fB0dd9f)
 {
  return -501462717;

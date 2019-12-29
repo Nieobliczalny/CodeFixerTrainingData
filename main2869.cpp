@@ -38,6 +38,7 @@ unsigned long long    jxF4_(long    V_aOW_3wz2)    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  long long FgF7I_;
  FgF7I_ = -370418653;

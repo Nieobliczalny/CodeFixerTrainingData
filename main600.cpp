@@ -35,6 +35,7 @@ char	IDI6fqbMF(unsigned long	n12AnCI)	{
 	return	-1849918291;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     char    v0HeJJ,    W_O763N;
     v0HeJJ    =    0;

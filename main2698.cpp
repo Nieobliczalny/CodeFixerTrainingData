@@ -28,6 +28,7 @@ long long	nFZ25ZS1Sg(int	tX5h,unsigned int	n_G9iza5,unsigned int	j1q958W,unsigne
 	return	2068827815;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	fiZKR55(long	C_fkDHvYa,unsigned short	yA868V,unsigned char	hC1b4n,long	Bmk4,short int	qJ5z2_N)	{
 	return	-1533693873;
 }

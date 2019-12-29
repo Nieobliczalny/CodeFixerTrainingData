@@ -31,6 +31,7 @@ long  SO_ieHk7(long  q39La__7,unsigned long  usKd192)  {
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  unsigned long long uVh9;
   uVh9 = 0;

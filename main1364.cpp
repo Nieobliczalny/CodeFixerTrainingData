@@ -22,6 +22,7 @@ unsigned long long iJF08zyEN(short pDZytF9Ks,unsigned short ui7_kl_) {
  return -1797393600;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	HvHQH(unsigned int	rgT1cS,unsigned short int	F0L2TQ_0ZV,unsigned long long	Tn26wQ7NW5,char	uY2Oay,unsigned int	ub3y9hyG6X)
 {
 	return	0;

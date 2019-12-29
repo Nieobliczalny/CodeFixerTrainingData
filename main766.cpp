@@ -23,6 +23,7 @@ int y2G24ILbBB(unsigned long long k_h_3,short int RYtnlpNw,long long qIfO08sZ,un
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short A0sU(char Eg9idrj1,unsigned long long C4KAFdZFlf,long tqyb7_6E_,unsigned short int Mwv7Y,unsigned long db337)
 {
  return 601219235;

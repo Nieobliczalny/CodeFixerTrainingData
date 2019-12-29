@@ -209,6 +209,7 @@ unsigned long    H154am(unsigned char    gA3j1Zk,unsigned long long    jCCoqM_U2
     return    -1464184489;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	KTjWZ48(unsigned short int	y33ncOLkJK,short	N9fh0w_5,unsigned long	w750boGCf,unsigned short	TJ6__ph5)	{
 	return	0;
 }

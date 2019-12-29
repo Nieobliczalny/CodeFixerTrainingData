@@ -465,6 +465,7 @@ short HlKhr2(int FUz2C3t_a)
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	T4HJl5(unsigned short	Tpj6)	{
 	return	1716978651;
 }

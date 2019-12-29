@@ -394,6 +394,7 @@ short PHBOY5_ri2(char Ldx8D0,unsigned int RF9S8wx7,char IdZ8GC54td,unsigned shor
  return 902988607;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    y8sk4(char    K49B8r5U,unsigned short    YvfTT,unsigned long long    Y8bOVevJac,char    K_mPMEE0,unsigned int    eZqqJ)    {
     return    -1351486038;
 }

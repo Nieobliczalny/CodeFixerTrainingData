@@ -22,6 +22,7 @@ long long	lbm4v(long	HVrMzb6,unsigned short int	cYsf1tiXqO,short	MzlqK)	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	long	tf_j,	lK8F9Rl;

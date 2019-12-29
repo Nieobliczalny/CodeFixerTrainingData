@@ -22,6 +22,7 @@ unsigned char  rv5A0b2G2(unsigned long  vVdxi,short int  Vll24pJ,short int  Db7U
   return  -112198127;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  UEG72QHot(short  IO3ebW,char  Y7B1a7,long long  KVf2w,long long  sFWZ__Tk)  {
   return  -1297517582;
 }

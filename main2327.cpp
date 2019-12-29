@@ -26,6 +26,7 @@ int	Dzg0(unsigned long	EHc5Hy)	{
 	return	524135428;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	Mhho9cb5O(unsigned long	aO6TL8_S5,long	nRD0EB3C_4,int	VcN90N0ON,char	dej701I,unsigned short int	Hb7uV27)
 {
 	return	0;

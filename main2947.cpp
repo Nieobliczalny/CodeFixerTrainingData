@@ -18,6 +18,7 @@ unsigned short	ri_v085gcG(int	WQPeNrg_,char	A0Un6YD)	{
 	return	-1515635584;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short oJM_21vz(unsigned short int Q1L40ZsRr) {
  return 0;
 }

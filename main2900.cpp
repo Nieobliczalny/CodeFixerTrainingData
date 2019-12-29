@@ -18,6 +18,7 @@ char	z1_3oO(unsigned short	Z738,short int	n2CQ37WUH0,unsigned long long	kz0QUs1o
 	return	-629974742;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    Q98FQsFHP(unsigned long    P7aNM7nLx,long    YDz81V4000,unsigned short int    pZ81,unsigned long long    F121w4eJ,char    B4210U)    {
     return    1101029655;
 }

@@ -436,6 +436,7 @@ unsigned int Y2MM1_E(unsigned short oys8)
  return 2061219800;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	e78l08j(unsigned long long	e89vI0,unsigned char	mOHz,unsigned long	P4XwKyu,short int	qO4_12FGu)	{
 	return	-129593542;
 }

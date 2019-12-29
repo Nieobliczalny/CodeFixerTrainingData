@@ -18,6 +18,7 @@ unsigned long	Uzb77_Je(short int	p1Zz5U0,char	B771LxZnt,int	RXbZ)	{
 	return	-2044630478;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long oV97k88D(long XVyK)
 {
  return 1098589655;

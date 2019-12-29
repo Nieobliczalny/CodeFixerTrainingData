@@ -21,6 +21,7 @@ unsigned char	QU5555j(unsigned long long	Tjo_,int	fl76I4)	{
 	return	-1872441599;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  d8tNH4(int  CSLU,short int  EflGLLz33,unsigned short int  ap8V,int  Lwg740bO,char  kQ3MhGuZ)
 {
   return  0;

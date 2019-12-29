@@ -24,6 +24,7 @@ unsigned long long    faSyumR4T(unsigned long    KyWfe,unsigned long    liyX_L,s
     return    -1362400896;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	unsigned long long	w360CI5J;
 	w360CI5J	=	1657751769;

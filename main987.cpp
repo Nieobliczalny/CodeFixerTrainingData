@@ -23,6 +23,7 @@ unsigned int cU72(long k8zv9C,short jNkUo2_h,unsigned short MXSg,unsigned short 
  return -562691159;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char c3dMyYl3Z(long Z1rF)
 {
  return 0;

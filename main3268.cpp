@@ -276,6 +276,7 @@ long    yfoMvf(unsigned short int    Bk4bkV1,unsigned char    CEFO_i,long long  
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    p094N(unsigned short    a4Dl16EXc,unsigned char    iH4t)    {
     return    -1820395434;
 }

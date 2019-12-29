@@ -23,6 +23,7 @@ unsigned long    MkG5mp(unsigned long long    G4z1QY5K6O)    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  char Kh6i9, c_bib069YX, Z172fs6g, z05d4W;

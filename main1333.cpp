@@ -18,6 +18,7 @@ int	q_QlbW_3(short	u8z3,int	V3N0)	{
 	return	2141692460;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	knyJFpNN(unsigned char	mmpB4_F3,unsigned char	t9t0)	{
 	return	1129222306;
 }

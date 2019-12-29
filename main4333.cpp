@@ -312,6 +312,7 @@ unsigned char Btu4_64(unsigned long long s4_24Ay82_,long z1wW1b_vhh,unsigned int
  return 2053557041;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char D_n7v4zJ66(unsigned int OJuE3v5)
 {
  return -309595719;

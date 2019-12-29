@@ -32,6 +32,7 @@ unsigned long long  y8YX57dAY(long long  Zu09Q1y,unsigned short int  KEJ3X,unsig
   return  1766085827;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	unsigned int	MBjy;
 		MBjy	=	0;

@@ -22,6 +22,7 @@ int  ZXx9L7jueA(short int  ZU0VqpOi)  {
   return  -180827963;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  boGArC8V(int  LZ4Dr,int  syP5FADBp7,char  AfHaSFL,unsigned short int  sx6E_ZIU,long long  VuR7m2g)
 {
   return  0;

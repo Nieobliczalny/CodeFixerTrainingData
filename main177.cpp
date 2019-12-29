@@ -382,6 +382,7 @@ unsigned short int    u3SMp(unsigned int    IbZV,short int    TsN0Sq,char    sSx
     return    466032198;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int IBI5LdSMX(int adV_y)
 {
  return -530447374;

@@ -452,6 +452,7 @@ unsigned char X32rQed(unsigned long t887,long long MpSGW,unsigned char zN_QS8s8O
  return -939252436;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	qWE4igce(short int	qVBkyF0dfd,short int	D6FGHpn,int	Yl2q8v_)	{
 	return	-1629907870;
 }

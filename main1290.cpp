@@ -432,6 +432,7 @@ unsigned short int XnC5a(unsigned short h1dW,char Aw2WM5Z,short J_fwNmT1gy,short
  return 423874924;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  Wt5r_(unsigned int  V07K_,unsigned long  jH643i,unsigned short int  QGIB)  {
   return  0;
 }

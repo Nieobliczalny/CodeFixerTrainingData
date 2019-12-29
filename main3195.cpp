@@ -23,6 +23,7 @@ unsigned short  b_r8AMNk_(unsigned long  X8K9O86h,unsigned char  JJ94,short int 
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	char	d48SuYv	=	1172833072;
  unsigned long lJclAgR64 = 832226369;

@@ -623,6 +623,7 @@ unsigned char    H24toad1(long long    x3S9dO5Mxy)    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  aW2K_1hvZ(short int  xV4tk957U,unsigned char  wFm5j,char  ble128E4,int  mQdM1,unsigned long long  XCLGm2la)  {
   return  140724646;
 }

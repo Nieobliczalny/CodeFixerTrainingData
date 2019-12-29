@@ -655,6 +655,7 @@ long long	sG4uQ8(short	rKVDN,unsigned int	QGcHo9)	{
 	return	741647585;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	kQx0(unsigned long long	wjlcFIF,unsigned int	VZhUx_fO28,long	l9s021D8)	{
 	return	1133676318;
 }

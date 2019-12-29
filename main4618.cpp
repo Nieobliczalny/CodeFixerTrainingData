@@ -21,6 +21,7 @@ short int    Asb67rIP(unsigned short    R7w6ua,unsigned int    oG_t8HJPL,unsigne
     return    -412261361;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long Bsl59R(unsigned int Ke_G)
 {
  return 0;

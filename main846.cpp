@@ -23,6 +23,7 @@ char	L0T85D(unsigned short int	pT4kCM9j,short	WO7b)
 	return	-1379173798;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char M08XsBZ(short GWO65El0)
 {
  return -1157734461;
@@ -38,6 +39,7 @@ int	D6aO4_(char	zdUV,unsigned int	lfOpJ6Iam)	{
 	return	1192266608;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	long double	YE9fjIgN2;
 	YE9fjIgN2	=	163370825;

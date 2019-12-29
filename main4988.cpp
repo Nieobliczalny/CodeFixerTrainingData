@@ -694,6 +694,7 @@ unsigned long    Dw1pz9(long    iABL7,long    G3cTy5K,unsigned short    vtW5h5m6
     return    195083753;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    nW7G7YO(unsigned int    p8o5qz5,long    vRoM,int    LK7o_h,char    Nm3hAZUf)    {
     return    0;
 }

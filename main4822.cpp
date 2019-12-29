@@ -325,6 +325,7 @@ unsigned short int  x36Hbyy0R(unsigned int  GI045b)  {
   return  1198105221;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    Zx1JC_(char    MC4h)    {
     return    0;
 }

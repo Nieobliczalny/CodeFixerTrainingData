@@ -752,6 +752,7 @@ unsigned long long  K4_s7(long  OC3cX_X8y)  {
   return  -974205893;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	rh79QMp47(char	eDpC3Wf52V,int	KcP4A)
 {
 	return	-300352359;

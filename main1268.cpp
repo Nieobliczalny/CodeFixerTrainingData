@@ -20,6 +20,7 @@ long  yR_6m_f39X(unsigned short  h35R5q51_4)  {
   return  -206001132;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char B1Htcp(long HfJU,int P6iG,short int u60XpqE,unsigned short tkao79l4_,int G97jlQMss2)
 {
  return 0;

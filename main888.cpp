@@ -645,6 +645,7 @@ short int	RBPK864(long long	sg9G_zG,unsigned short	nk_ys93,unsigned long long	Pi
 	return	383832038;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    Hrjk2FX5Cn(unsigned int    uZI7W9,short int    tSDLM3s,unsigned long long    uwBI,unsigned long long    mz212)
 {
     return    10782030;

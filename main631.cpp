@@ -37,6 +37,7 @@ unsigned short int  XMPMmC2(unsigned short int  bwTe09,unsigned long  x_NB0,shor
   return  721927029;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long z4pa2n5(unsigned char f8c_J47RZ4,unsigned long OYY7rnm5) {
  return 0;
 }

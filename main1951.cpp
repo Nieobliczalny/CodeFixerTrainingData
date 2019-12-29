@@ -347,6 +347,7 @@ unsigned short	SsDVwG06Y(long long	NcLZe3d,long long	ap19G2,unsigned char	Cihhb)
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	cM0lAL(char	ZvO87VErzu)
 {
 	return	348999768;

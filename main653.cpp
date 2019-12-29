@@ -34,6 +34,7 @@ unsigned int	m84x5(short	F4P58e_fu,unsigned int	NEP2G5,unsigned char	ZAlTL03C5V)
 	return	-1595690068;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short CG03qso(unsigned short int a3lNzZ) {
  return -981711260;
 }

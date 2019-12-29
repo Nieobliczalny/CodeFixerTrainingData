@@ -604,6 +604,7 @@ unsigned short    X_EpWEmg(long    IFNH_8tDc,short    VqS7P2X28_,unsigned int   
     return    -336612949;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long r3mC0E(short int ySuu2m1,unsigned short G33HSaC5B,unsigned int zRDG12S9a,short int H_Pd07o5) {
  return -569675169;
 }

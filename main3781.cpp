@@ -24,6 +24,7 @@ unsigned short	Xx240s7seM(short	oBGFz28u,unsigned int	Vj23)	{
 	return	-512948816;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	oB90Z7tve(unsigned long	M_25fMsP_5,long long	a61h)
 {
 	return	1098879732;

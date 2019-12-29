@@ -24,6 +24,7 @@ unsigned long	q0dMW(unsigned char	ocIQlS)
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int RSFvD(short int W_4Jm,long KYo0pC3287,short GOcv8_5p)
 {
  return 218638299;

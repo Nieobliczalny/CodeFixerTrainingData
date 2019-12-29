@@ -225,6 +225,7 @@ unsigned int	wmq12n_g38(short int	v3D9V,short int	J19B52R5L,char	Voy4o7x_Q0,unsi
 	return	393728105;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	Y43e(unsigned int	SSSit2D,int	wpqgV1Q8qr,unsigned long long	f1F9N8iSmH)	{
 	return	-1828205554;
 }

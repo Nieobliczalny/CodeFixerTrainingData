@@ -147,6 +147,7 @@ unsigned short	lArIA6T(unsigned short	V6MZ,unsigned short int	E0kK7rWP,unsigned 
 	return	1485748976;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    fgP5(unsigned int    bqDA5G_j,unsigned short int    Up_GX5)
 {
     return    -968068831;

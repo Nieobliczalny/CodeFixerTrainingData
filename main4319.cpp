@@ -30,6 +30,7 @@ short int	nxeXGsZTbJ(unsigned char	t9CwUrKm)	{
 	return	-2118569413;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	bEUL6(int	AnjM4na,unsigned char	a9iyM)	{
 	return	-815015964;
 }

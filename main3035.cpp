@@ -23,6 +23,7 @@ char    VgMb9(char    Tv38Kvu02S)    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    Gh__Xu_(unsigned char    dJ1Pl,short    AF6QDdE4s6)    {
     return    609915451;
 }

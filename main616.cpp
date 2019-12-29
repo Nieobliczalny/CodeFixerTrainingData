@@ -19,6 +19,7 @@ unsigned long long    GEcCT03_MY(unsigned long long    f3x0r,unsigned char    d3
     return    -668580292;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	y7glRe_(char	G71Wul,unsigned short	n6fD8E,unsigned int	fJq_2,unsigned short	K6vch3B_3V,unsigned short	g9d7IV)
 {
 	return	536731387;

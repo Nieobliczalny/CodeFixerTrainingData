@@ -30,6 +30,7 @@ unsigned int    JVY0Ghbr1(unsigned short    yOio_46,short    LSHAO7ZVF,int    Sa
     return    -296136;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    kG1DoxA(unsigned char    EqMG,unsigned short int    I7_7bD9,unsigned char    L5_ZucrEFY,long    L3NwLZ4V,unsigned char    box2_)    {
     return    -931014366;
 }

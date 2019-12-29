@@ -19,6 +19,7 @@ short	jdSbT28F6(unsigned short int	AK_EJM1,unsigned short int	QXWmA1ZA)	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	BQF_8(unsigned int	k448j_B,unsigned int	r56Z78o4TW,short	MpD0kiGF0w,short	uVRStw9966,unsigned char	nZpELE_Q3)
 {
 	return	-1601504662;

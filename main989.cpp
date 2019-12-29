@@ -23,6 +23,7 @@ short    gkwq86ad75(long    MYrgn1,unsigned long long    I7_Y,short    UU7vY_3_I
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   unsigned long long  Y9QCfHi78T;
   Y9QCfHi78T  =  800097699;

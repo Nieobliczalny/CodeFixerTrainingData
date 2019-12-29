@@ -419,6 +419,7 @@ unsigned long long    bSo278HAY(short    Ng_d9CnU,unsigned short    rJwElk,long 
     return    1592948226;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  eJ7_d4Sf(short int  SP5E2i36r,char  lJTF,char  I39KeQtN8)  {
   return  0;
 }

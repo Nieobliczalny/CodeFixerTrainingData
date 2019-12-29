@@ -20,6 +20,7 @@ long	N129(unsigned short int	xG_15,char	qx_f3PdXHw)	{
 	return	383493389;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char kQ21c(unsigned short int boDYlVZ)
 {
  return -922182690;

@@ -28,6 +28,7 @@ int	TR8_7A(unsigned long	ymuex6hB_n)	{
 	return	1520527935;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	unsigned long	IIK124,	ZdMTi_JM5_,	FkawA_E;

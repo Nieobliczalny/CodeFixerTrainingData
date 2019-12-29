@@ -24,6 +24,7 @@ char a4B49Y(unsigned short int o61NJc,char jPQ9H9gQhc,char T68n9P56b,short int x
  return 2000277171;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	c5fak82Nl(short int	b9ud59KM1N,unsigned long long	EJF0XCt0,short	H1pTb78Q5)	{
 	return	-373793038;
 }

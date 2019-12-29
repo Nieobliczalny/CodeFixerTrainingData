@@ -19,6 +19,7 @@ unsigned short int  k__2bJ(unsigned int  lz48,unsigned char  L1Xl8,unsigned long
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int AVmB(unsigned short ybvkN_aHg,unsigned short jbe5a8B,unsigned long UqNXA5vwz,unsigned char xAv_I7r,char RN94X94_1y) {
  return -820626008;
 }

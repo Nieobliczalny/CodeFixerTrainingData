@@ -246,6 +246,7 @@ unsigned long  B9t__Y316(long  t17qz_kQ)  {
   return  -701679040;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	Ey3tg2_(int	sqRC5w,unsigned short int	C_E46Cz2V)
 {
 	return	1293495916;

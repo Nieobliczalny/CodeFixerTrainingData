@@ -675,6 +675,7 @@ long long	zk7PzJT(unsigned int	PEI5f,unsigned short	m8PTO)
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  Wjmq8LO2(unsigned long  f6n9_b2,unsigned short  QP_6R59T,unsigned long  grv40_44W)  {
   return  147277284;
 }

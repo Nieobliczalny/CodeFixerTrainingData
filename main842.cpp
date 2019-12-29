@@ -22,6 +22,7 @@ int v4AfO2_(int BG30xtlyi,long long u9XT,long x09Aql,short JIVq_,unsigned short 
  return 192323731;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    d3Isp(char    xS8M90,unsigned short int    XdLQ0)
 {
     return    0;

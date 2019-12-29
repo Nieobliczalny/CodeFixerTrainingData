@@ -593,6 +593,7 @@ unsigned int  l4P4XDklV(short  oxz_4i,long long  b1Z7A7t,unsigned char  u_6m,sho
   return  1623685580;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	coPGh(unsigned short	ac7w,unsigned short int	pRNqKQx2q)	{
 	return	0;
 }

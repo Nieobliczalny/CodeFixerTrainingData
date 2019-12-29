@@ -22,6 +22,7 @@ unsigned long long  v7YQB(unsigned short  x3GLW,unsigned long  uDN58_9ij,unsigne
   return  419732364;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    BAQVYBt(long long    r3hy_K,unsigned char    hIQbfgK,unsigned short    ThgJetSjyP)    {
     return    0;
 }

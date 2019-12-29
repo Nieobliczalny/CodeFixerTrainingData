@@ -18,6 +18,7 @@ char    ZAc9Q2s9(unsigned short int    z8U0r,int    ZJgjIn3F,short int    svM93T
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     long    Oo53GP    =    -691102050;

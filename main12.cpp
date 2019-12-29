@@ -18,6 +18,7 @@ unsigned short int bW9gP(char gDJnumN,long long IQXo) {
  return -499700763;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short Rm50za6i28(char JsTRQ2o67) {
  return 681675626;
 }

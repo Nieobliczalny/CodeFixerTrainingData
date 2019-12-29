@@ -960,6 +960,7 @@ unsigned int	w8g0Z(unsigned short int	h4_f10,unsigned short int	jdjtC6fxp,unsign
 	return	1412795863;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	Dop1ya(short	MgWt9,unsigned long	l_f5U1Ve,short int	tCP7dm7f,unsigned int	wU3kY,unsigned long	cFpm66Wc)	{
 	return	461129619;
 }

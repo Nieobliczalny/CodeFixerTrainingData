@@ -22,6 +22,7 @@ unsigned long    SCq1(short int    XeLaxf,short    yh9Y0,short    xa_h_,unsigned
     return    1559510438;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     long long    U3EN,    JSCQ5,    yMRSF7;
     U3EN    =    0;

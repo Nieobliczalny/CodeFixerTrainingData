@@ -215,6 +215,7 @@ unsigned long long XMZQ(short G4Li46w0Z,long long s_gk1g6HH,unsigned int jP1BG9r
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  VRbE18FM5I(int  FS1Usl,short int  S21u77,long  I9DMPEj)
 {
   return  -192227676;

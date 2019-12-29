@@ -713,6 +713,7 @@ short  qPtxP_r(char  Ev8D136)
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short kKairA6ZN(unsigned short int EgZdc9S25) {
  return -1550608166;
 }

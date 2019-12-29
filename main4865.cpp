@@ -18,6 +18,7 @@ unsigned short int    L3rak5(char    RqIiAV,long long    FKvSR_m1y)
     return    -1668004562;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    fsb9M(unsigned long long    YrI2SM,unsigned char    Xbha6,short int    LUFX_15Oh,char    kyhf9Dzk)
 {
     return    1594019226;

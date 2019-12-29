@@ -28,6 +28,7 @@ unsigned char    QCpk13(long    n9a5UGLY,short    BBj6BAECF_)    {
     return    -2036726338;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short WX37g(char Afj3E) {
  return 1840722534;
 }

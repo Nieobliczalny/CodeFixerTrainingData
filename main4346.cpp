@@ -642,6 +642,7 @@ unsigned int  SerGkTS(char  cwY4X)  {
   return  1319762710;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    CgSzLJf(int    bindXE_q,long    z3D40,short    JQvZS,unsigned short int    X90JZ6OV)    {
     return    891325862;
 }

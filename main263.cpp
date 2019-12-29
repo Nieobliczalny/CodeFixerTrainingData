@@ -20,6 +20,7 @@ short	DB31(unsigned int	tRwEaX7fj3)	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	M_mFuL(short	cTEQ,short int	j4F6_04,unsigned long	t9PV9gp,unsigned short	g798abvb3B,unsigned long	SI_BIN__xs)	{
 	return	1689395437;
 }

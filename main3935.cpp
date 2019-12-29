@@ -28,6 +28,7 @@ long long ZvTq8lQ6X(unsigned long long BLA9iC,unsigned long s14z)
  return 1662932969;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	z9qpeS01XB(unsigned long long	yJ7e,unsigned char	x5bDl__6H6,unsigned short int	ey7dhj8,short int	miU646,unsigned int	cK3V43X)	{
 	return	1989974928;
 }

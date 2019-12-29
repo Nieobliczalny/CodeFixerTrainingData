@@ -569,6 +569,7 @@ long long    Pq_kU2(unsigned long    c3_H5Hq80t,short    i3pqF77f8S,unsigned lon
     return    1878166637;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long wR1EA6vv2(unsigned short YHS5Eba,unsigned char mF9LyD3kn)
 {
  return -1057743405;

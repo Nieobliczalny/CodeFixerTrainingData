@@ -36,6 +36,7 @@ unsigned long long  FL64_ea9(long long  uezbJ_,unsigned long  cmk01vebb)  {
   return  -1868928746;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	iCz04(unsigned long	t1Mdwz)	{
 	return	0;
 }

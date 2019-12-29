@@ -19,6 +19,7 @@ int	HP9mder(unsigned long	Exql23zg,long	G915A1pc,long	e7f8jv1)	{
 	return	-530291908;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short rKwK8Js1l(unsigned long long XGov0CrqOQ,short int aoeg,unsigned int SPt2,unsigned long Eom96ZhZ)
 {
  return 1404514960;

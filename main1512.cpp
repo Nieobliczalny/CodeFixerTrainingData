@@ -22,6 +22,7 @@ unsigned char  qfj651(short  Gvod_nn7x1,unsigned short  YqB1Nsj)  {
   return  -1509618884;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   int  H6yT,  cO0Fm;
   H6yT  =  0;

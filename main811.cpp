@@ -23,6 +23,7 @@ short int	jChfj__(unsigned char	S8dJEVG2ez,short int	zP6DPiv0)
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    yV75Pi(unsigned int    n1HZ6v78)
 {
     return    -53859448;

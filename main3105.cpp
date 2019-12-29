@@ -18,6 +18,7 @@ long long  XIV350cUX(char  KK6V,long  HJg140P0x,unsigned short int  QfStk_96V)  
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	unsigned long long	eWdQEA;
 	eWdQEA	=	0;

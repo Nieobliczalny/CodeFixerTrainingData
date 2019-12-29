@@ -18,6 +18,7 @@ unsigned short int	Cmytm6_64(unsigned short	Qa220cIH,char	KJA4f1Ylb)	{
 	return	-502355774;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  QCCJu8V9Iu(unsigned long long  eFl19Z)  {
   return  0;
 }

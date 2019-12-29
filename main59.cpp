@@ -306,6 +306,7 @@ short	WcaS6(unsigned short	y1kl7,unsigned short	j2Du0v3)
 	return	357645381;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short  Z_VvY7i(int  KOmD9N,unsigned int  DL7rpg_n,short  vr9m80Jq8Z)
 {
   return  1126345595;

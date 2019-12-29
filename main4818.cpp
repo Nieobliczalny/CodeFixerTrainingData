@@ -715,6 +715,7 @@ char    gYNph(unsigned short int    hKA71,unsigned long long    KeZf_L9,long lon
     return    1304663747;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  xegeHkh(int  neNnF2,short  Z7q31bu5xN,char  VOX7zN,short int  QTQtzK88CF)  {
   return  0;
 }

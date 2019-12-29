@@ -22,6 +22,7 @@ unsigned short pQ_r_(short GJoQT,unsigned int jvJl7g,long q00_n4k,unsigned int a
  return -2102744797;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long dr__912v(short int lai0cs24,short qy_9)
 {
  return -831190458;

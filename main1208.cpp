@@ -23,6 +23,7 @@ char Rk07l(unsigned char zcMUXM,unsigned long gA7C,unsigned long long j7BUpH9,lo
  return 1430343904;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  P6hV_uc(long  OtR752MNk,unsigned short  qvk45eq5q,long  N_EJ,long  EyVT)
 {
   return  0;

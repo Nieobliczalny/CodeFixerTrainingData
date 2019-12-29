@@ -25,6 +25,7 @@ unsigned char hfZS7V(char uf8b_34K,int iyTCLIZ93C) {
  return -1847117304;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   unsigned long long  Uih0n;

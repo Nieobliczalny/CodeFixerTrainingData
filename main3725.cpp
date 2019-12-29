@@ -236,6 +236,7 @@ short    TdJrBH0RL(long long    sfNVx)    {
     return    -1376502965;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	Sn8DD(int	sZ9Q_Gcn,unsigned short	V1OwK8Ifq_,unsigned short	h58aEFud,long	xPl9Y,int	MHTN1)	{
 	return	-362386075;
 }

@@ -23,6 +23,7 @@ unsigned short    EJ31K8vO(unsigned short int    A1m_21,short    E01FcLw5,unsign
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char y624plm8kK(unsigned short iri__9877G,unsigned long long D1k_596jZY,unsigned short int f1j6) {
  return -117445076;
 }

@@ -461,6 +461,7 @@ unsigned char	D56125_(unsigned short int	FeEKUH,char	VC1V,unsigned long	b15giS)
 	return	-2035253298;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    oUP12b0Vb(unsigned short    JLc_2,unsigned int    IF_l23_p,long long    i_Fu)    {
     return    0;
 }

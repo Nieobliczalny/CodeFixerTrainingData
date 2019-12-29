@@ -21,6 +21,7 @@ short	ijj6kucRPe(unsigned short int	T1fh59ls)
 	return	109813570;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    PcoWnj9(unsigned long long    KK5wE,unsigned short int    b3F6ub,unsigned short    vf7w,unsigned char    N20YP)
 {
     return    970849169;

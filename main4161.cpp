@@ -24,6 +24,7 @@ long long	h48a(short int	dVgSmpbiyf,long	tUVcEqk,int	uaaHv,char	GDTz,long	MZ82Wq
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    dF6h19__E(unsigned short int    z2j6tM8_8,unsigned short int    G29W_,long    F5ksP)
 {
     return    -368900603;

@@ -377,6 +377,7 @@ char  wZ1umy(char  f1gNi78PH,long  bBF4W,char  VODIt,unsigned int  MR82CHV,unsig
   return  1634014657;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int fO6971xV_N(unsigned int mT1Me,unsigned char sDDptf63) {
  return 0;
 }

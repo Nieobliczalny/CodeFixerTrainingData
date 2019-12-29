@@ -566,6 +566,7 @@ char	wFP5NJ(unsigned int	u3_G0t,unsigned long long	Wat__Fx,long	zDbI5)
 	return	-923458060;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  gm954_(int  R2Gs5f8I)
 {
   return  0;

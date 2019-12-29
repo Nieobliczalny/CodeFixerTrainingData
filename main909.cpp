@@ -23,6 +23,7 @@ char	fplL79R(unsigned long long	ik96)	{
 	return	-1631335809;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   unsigned char  WpcM7j1D_y  =  0;

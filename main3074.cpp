@@ -21,6 +21,7 @@ unsigned long KO8_Q5A0c(unsigned short int vG9LL9,unsigned int deOj) {
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long D1wy4850(int gu499K,long COFSxcG5kd,short QTl6P1U,unsigned short Zyc9_,unsigned short p1517t) {
  return 719185274;
 }

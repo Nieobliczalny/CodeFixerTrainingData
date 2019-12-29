@@ -23,6 +23,7 @@ unsigned long long a_84R(unsigned char WExX96,long vDNX1d,short I9d3MRs,long lon
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	dq53N(unsigned long	MKPa00U,unsigned short int	CRzwNWnA4)	{
 	return	-1231096884;
 }

@@ -348,6 +348,7 @@ short int wXG1(unsigned long AVy829g9O,unsigned short int jI9E5_G)
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  P15b9(char  bTyBlK,unsigned char  f4lK5pk7_5)
 {
   return  -1596418820;

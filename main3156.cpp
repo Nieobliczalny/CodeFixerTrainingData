@@ -22,6 +22,7 @@ short	kC3d(unsigned char	KUd6,int	GRv9L)	{
 	return	-860433835;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  MeWMF(short int  DY23,unsigned short  F2Z1_,unsigned int  m_5z65_yzo,short int  C3Q8_g_)
 {
   return  -1183211769;

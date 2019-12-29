@@ -30,6 +30,7 @@ short	aB7ryc0rC(unsigned char	gYf2z)	{
 	return	-1254161770;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int Rsu8Fa6IB(unsigned short rJRAy3,short int m3GIZA,unsigned char Z3jFDOsEAA,int hwuXPm,unsigned short p3P5Q_f)
 {
  return 0;

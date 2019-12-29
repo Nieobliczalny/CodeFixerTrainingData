@@ -28,6 +28,7 @@ short int	eZDf(long	LYYW5cC29,short	NLZ1)	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  int o_YpgK = -44331483;
 	int	SIR9pj21ev	=	-825569686;

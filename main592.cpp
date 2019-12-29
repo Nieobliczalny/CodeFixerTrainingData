@@ -79,6 +79,7 @@ char RwRCc29Bd(long g30D1,short int Gl8mvr0E3,unsigned long uI0oZB5,unsigned lon
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  z_oU2_gu20(short  IH4K3128I)  {
   return  -426869887;
 }

@@ -525,6 +525,7 @@ unsigned char    O436z3(long long    CB3ouobPm,unsigned char    QB54,unsigned in
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	imxf3622sx(unsigned short int	gIqTY_,unsigned short int	grcuK61,unsigned short	m2s_,unsigned long	hl9Zd1)	{
 	return	1101453308;
 }

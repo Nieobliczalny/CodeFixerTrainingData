@@ -632,6 +632,7 @@ unsigned short int Z21H(unsigned short mx97a6Jz,char Ll65jK,short int A2n_iwRx,i
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  zb00(unsigned int  o98LV,unsigned long  tSvG0_FB,unsigned short int  Q5Txlv0Ac,long long  RzFjqQ)  {
   return  -469793263;
 }

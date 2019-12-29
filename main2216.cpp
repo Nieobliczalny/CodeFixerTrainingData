@@ -18,6 +18,7 @@ short	i28gK4i(short	yT2Zr_gWg)	{
 	return	1653673804;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    ehFe6v(short    d75rg_fg)
 {
     return    1320917401;

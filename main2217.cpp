@@ -605,6 +605,7 @@ short int	x2Q_V(char	TlJs1f6mwB,int	O2j24S1,unsigned int	UiS12,short	ruuVJTcuW)	
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	ExsF(long long	f7CN3_,unsigned long	CyI28xs,int	R1N0,unsigned short int	V4Bn6Mu1)	{
 	return	2050993293;
 }

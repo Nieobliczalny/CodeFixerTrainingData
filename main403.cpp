@@ -611,6 +611,7 @@ unsigned long  cxB6F(char  haf_)
   return  349181661;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    u_AS7q(unsigned char    Pj3_o75,unsigned char    e9Owm6O,unsigned long    bRyM8e8jUZ,short int    p_uI)
 {
     return    691493916;

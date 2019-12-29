@@ -23,6 +23,7 @@ unsigned long long  L4xcv(int  Muh7m7,int  lEDSOObl,unsigned long long  XRvQJobA
   return  -909856836;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int xgVc6N_jc(int XGMIt0Ioy,unsigned int GLP3637,long I2k5,unsigned char Vh5PL) {
  return 0;
 }

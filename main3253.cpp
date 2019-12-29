@@ -18,6 +18,7 @@ unsigned short int qlDuc3p(long long oW9rC_Qh,unsigned long QNatR) {
  return 1294667018;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	qFH3sE(unsigned long long	Z89i5,long	adA7)
 {
 	return	-1377888020;

@@ -17,6 +17,7 @@ short    r2aKbi9(unsigned short int    Shl1A3,unsigned char    Eqeg2q2F,unsigned
     return    2079888022;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    aBR34U21(unsigned short    X2c5,long long    Xq1axzKnFN)
 {
     return    -912323925;

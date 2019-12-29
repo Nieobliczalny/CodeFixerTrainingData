@@ -20,6 +20,7 @@ unsigned char	UC4__(unsigned long	G5fk0_S8,unsigned int	k99Kt4uNzT,unsigned int	
 	return	-631053092;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    qHXBD(unsigned long    Oly2,unsigned int    qG_an553N)
 {
     return    1110142528;

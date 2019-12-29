@@ -27,6 +27,7 @@ long long	kKz6K4(unsigned long	kn4TzP6nL,long	yUGI,unsigned char	X4iP6j)	{
 	return	2146605151;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  XMbFu13gA(short  hZ4Na,int  SbmVn_Js_,long  v_6c9qW0w)  {
   return  -1924009994;
 }

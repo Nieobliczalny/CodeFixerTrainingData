@@ -260,6 +260,7 @@ unsigned short int k3O1yD6L1(char eVlvU667y,short int yM9RCU,long long kiOz_,uns
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	I0pu(unsigned short int	GpLB,short int	OE_h9iI)	{
 	return	2036443378;
 }

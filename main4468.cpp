@@ -20,6 +20,7 @@ unsigned short    CDyxIg3r(unsigned int    Ih24,unsigned char    YA_62Qtj7T,int 
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    E578Zd(unsigned long    UxNL2)    {
     return    1052744908;
 }

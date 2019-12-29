@@ -19,6 +19,7 @@ short int  PqzPi8(unsigned int  BbHzW8WX,unsigned int  yMLfn_s_kc,unsigned int  
   return  -1826344171;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  QDo2jPs(unsigned char  Ql64_)
 {
   return  0;

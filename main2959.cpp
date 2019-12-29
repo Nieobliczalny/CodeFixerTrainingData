@@ -398,6 +398,7 @@ unsigned short int    m643(unsigned long long    Cf02pL,unsigned short    iXL23I
     return    -1467751247;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long F6795j8LfB(unsigned int l7Him,unsigned char UE7UM1D) {
  return 0;
 }

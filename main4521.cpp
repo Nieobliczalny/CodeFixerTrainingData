@@ -636,6 +636,7 @@ unsigned short	U01yd7B2c(unsigned short	m1O2,unsigned char	FW5i2c8,unsigned long
 	return	395306875;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  nDJgSw(long  CX3_Cp,short int  FVI5hZm3v5)
 {
   return  0;

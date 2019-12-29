@@ -23,6 +23,7 @@ unsigned long    LyZ9aM(long long    u2_jCz,long    kBZP0A,unsigned short    Ce7
     return    1106909864;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char u3aM9K75(unsigned long dbO7zyW,int motj7R5Ok5,unsigned long long SM_zq,char P08S)
 {
  return 1279522300;

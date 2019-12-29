@@ -309,6 +309,7 @@ unsigned short fxsN(unsigned long t48ing,long alksBhkITo,short lX3d4Dp6,char TE2
  return 550939536;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    yY5tES22(int    kCzfp,char    cqY_2Y,unsigned short int    UWb0,int    ltZat4p4a_,short    usv6_fY9)    {
     return    0;
 }

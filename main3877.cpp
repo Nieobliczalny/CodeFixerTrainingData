@@ -22,6 +22,7 @@ short mpbl9D5(long long rarH53J,unsigned char dsZ40lv,unsigned int vjC1,int gpy8
  return 1991784788;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  rV_5s(int  Dems9H9195,unsigned char  b6NY)  {
   return  1000777042;
 }

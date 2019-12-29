@@ -35,6 +35,7 @@ char    tpuEQ6(unsigned long long    FuTAf1C,int    tu_h,char    j8g_Ec5Qq,int  
     return    -831300248;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char IL2Mj3_c58(unsigned short I6CitP) {
  return 468559262;
 }

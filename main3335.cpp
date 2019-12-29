@@ -18,6 +18,7 @@ long    byQA(int    ca9m)    {
     return    864471463;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	F5IB7A_hp(long	Vu_P53QF,char	HA5NtRCDbu,unsigned short int	v9qY_5,unsigned short	PO_qj)
 {
 	return	0;

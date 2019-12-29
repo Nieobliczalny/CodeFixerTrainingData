@@ -704,6 +704,7 @@ unsigned short int  LxPs2w1tpb(unsigned long  UzE48Gma,unsigned short  mMc48WN4d
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	QPvv8Ns(unsigned long	qYsqq2,unsigned short int	VxdeeeuXM,unsigned short	B2ar_1_0,char	m7Hr,char	Rmts)	{
 	return	-2089124154;
 }

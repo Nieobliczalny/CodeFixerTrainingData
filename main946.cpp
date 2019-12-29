@@ -19,6 +19,7 @@ long    su79_2LDMI(long long    m_Cw4A,long    cQQ50,short int    aw1soo7,long  
     return    1754537758;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	VvAVmb30(unsigned long	fWWfD)
 {
 	return	0;

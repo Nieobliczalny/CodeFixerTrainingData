@@ -22,6 +22,7 @@ unsigned short int F_WE(unsigned short Axpl7IX4,char eF9pJG9g6,long ddVXRl8I) {
  return 1472641377;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  Ba92(unsigned short int  TMe6twL02b,unsigned char  QT_3,long long  e_7p,long long  w0r4,long  S3kx1LbI)
 {
   return  0;

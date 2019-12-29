@@ -18,6 +18,7 @@ short    V54331Hl20(char    T1Jb6lt16,long long    qs9LWD_D8E,unsigned int    j_
     return    337413789;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  co__iv(short int  q_Amtb2)  {
   return  0;
 }

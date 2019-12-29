@@ -32,6 +32,7 @@ long long  C6cmn73M(char  znfi9m,unsigned int  kL3Vfm1a,unsigned char  pOO1rd4,l
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   unsigned int  wyYMd3aY2v,  cw6azy,  O_E0cL,  B6bC;

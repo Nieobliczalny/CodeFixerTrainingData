@@ -19,6 +19,7 @@ unsigned short t3He8w(short y_MT,short int W4SgM3) {
  return -2129873215;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    XF56r4_3A_(long    kd0T)    {
     return    -694937884;
 }

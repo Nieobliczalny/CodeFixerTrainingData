@@ -434,6 +434,7 @@ unsigned long long  a3wrz(unsigned int  L_r1aRS,unsigned short  mpUTI,unsigned i
   return  96640886;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	HMd_ZKg_(unsigned short	Db7rC,long long	VUucL0S18,int	EO_23,unsigned char	yIom,unsigned long	gb2b)	{
 	return	611304031;
 }

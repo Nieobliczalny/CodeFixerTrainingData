@@ -336,6 +336,7 @@ char    tFLY8(unsigned long    M0kqHH_1M,unsigned short int    ARhE6,short int  
     return    -1606950654;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  Tej3y5_121(char  Bo4_0)
 {
   return  -361941249;

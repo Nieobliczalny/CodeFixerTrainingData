@@ -768,6 +768,7 @@ short	My3H5MB(unsigned int	LTIA_hD,long long	nD3X,int	CIY3)
 	return	-1469387625;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  sOZt(short  V2P5447,unsigned short  NRYW,char  H3iY8v52)  {
   return  -330545890;
 }

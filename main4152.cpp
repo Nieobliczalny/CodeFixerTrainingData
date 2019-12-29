@@ -23,6 +23,7 @@ unsigned short Mi_I2R3__(int rIOwA,short int X55o,unsigned short int M51kCm4,sho
  return -2015932851;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    tk3vkc1B4y(short int    v8I4_63mO,short int    Ymoa,unsigned long    iqxMj9_ykV,char    soMlEd5WF)
 {
     return    0;

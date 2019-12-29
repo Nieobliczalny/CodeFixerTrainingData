@@ -18,6 +18,7 @@ short int JQ2C4kI(unsigned short e8Sl4) {
  return -1901757592;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     unsigned long    gpcu    =    -389238578;
   char  j11wJq  =  -2005579417;

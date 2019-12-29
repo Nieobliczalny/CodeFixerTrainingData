@@ -17,6 +17,7 @@ long Y16w(unsigned short JBBT7g,unsigned short int wSF158G173,unsigned short sug
  return -1929429908;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short Sj27(unsigned short eeO_i2akO5) {
  return 0;
 }

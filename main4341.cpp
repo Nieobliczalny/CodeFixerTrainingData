@@ -371,6 +371,7 @@ short int qrTIU9_9j_(short G1YK1epZpg,unsigned short tU1_o,long yXehN_8L) {
  return 381342493;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  sg99(unsigned int  Wlr9F,long  v2S5,long  P5041,unsigned int  TFR2_,short  i573lC_5Q)
 {
   return  -218706567;

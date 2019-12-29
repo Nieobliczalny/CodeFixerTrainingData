@@ -19,6 +19,7 @@ long    f__vG(int    TK_uy,short    J0L4F0r,unsigned int    AI_flha,char    n8_5
     return    -1235189477;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    Q8OFLkG11Z(unsigned char    A472Wt8xv,unsigned int    UQ_GI5j8d,unsigned long long    wPgS5iL,long long    o1YI7F1wdX,int    ozt1j1)
 {
     return    0;

@@ -23,6 +23,7 @@ short int n9M1eY_(unsigned int oigBIEs,unsigned short pcm4i27)
  return 148291451;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	long long	woZ2B8Zz,	UBD1j,	lWmjY_bTS;

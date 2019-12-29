@@ -243,6 +243,7 @@ long long	BsyVEJaNaG(long long	fQxc,unsigned short int	Vb72_I80J,unsigned long l
 	return	618575876;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  yfTxG(unsigned char  Q8UyZsJUm,unsigned short  v0vAx_6QN,long long  VdfLC28DAU,unsigned long long  FYZ73_,char  ha6e)
 {
   return  -1899420905;

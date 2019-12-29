@@ -32,6 +32,7 @@ unsigned long long	rnO469M(unsigned long long	Ui3_,unsigned char	DZOd0aUj,short	
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short na1M(unsigned long long Yl6LPX6,short q_jce,unsigned long long c8wv75wP,int nu681B76Ye) {
  return -991507707;
 }

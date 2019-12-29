@@ -18,6 +18,7 @@ unsigned short int    LKvn(int    wOw6P__hs,char    BPTG5L,unsigned int    H3oy5
     return    -1666882326;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short g1V5Dp05R(unsigned int mK165,unsigned int EByXOay,unsigned char E3VufLxvw,int xWITsGe2v,unsigned short N9Wf)
 {
  return 0;

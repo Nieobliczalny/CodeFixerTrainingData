@@ -22,6 +22,7 @@ unsigned long long	mVoY333(unsigned short int	z3bzA,unsigned short	ZG8A,unsigned
 	return	-633375897;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    MuFf1(long    Ka0yK,unsigned long long    VQvdKWln)
 {
     return    0;

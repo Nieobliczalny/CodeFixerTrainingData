@@ -18,6 +18,7 @@ int  W1_U3(int  TFmDk,unsigned short int  d1C3)
   return  -2027982265;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	MQCXhsX(short int	IiE51mn)	{
 	return	1549687752;
 }

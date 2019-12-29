@@ -579,6 +579,7 @@ unsigned long    lzn1Any3(unsigned long    S4O4xX,unsigned char    s36T7_n45O,un
     return    -727580270;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	G5PB(unsigned short	xHzAm4_0Hs)	{
 	return	-661672651;
 }

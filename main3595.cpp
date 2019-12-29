@@ -568,6 +568,7 @@ unsigned char  UM45145t2(unsigned short  pxj6Y1XV,unsigned short int  mHM_7,long
   return  612845281;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    C2U0fe(short    r4ba2qb6,unsigned long long    EiJ699,long long    U216KsiFm)
 {
     return    0;

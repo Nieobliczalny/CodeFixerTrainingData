@@ -217,6 +217,7 @@ short int  hu7BM(unsigned char  MLnLv4jXPc,int  wH_X1wQ,unsigned short  jqCC_AbR
   return  -1949668173;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char l2QM1L(unsigned short Qzb_GI,unsigned char B6STTw,short j9OPs674HC,unsigned char P3tmD) {
  return 0;
 }

@@ -23,6 +23,7 @@ unsigned char    H_o_snL(long    FQl6X4,unsigned long long    jq80O)
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     int    u2WgEh6Xu    =    1375500304,    X1OCx4Ucc    =    1263215472,    QZk0V9LJ    =    -1944145568,    GrMef    =    -875340184;
     short int    X6y36751    =    0,    Q200    =    0;

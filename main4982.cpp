@@ -19,6 +19,7 @@ unsigned short    iJZmC(int    KJfw43r,long    kvGoSkWJ3x,unsigned short int    
     return    -2003412735;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    hW279V9AN7(unsigned long long    n1zV,unsigned int    D5X7J34K,unsigned int    b_DrQ4p)    {
     return    1514195325;
 }

@@ -279,6 +279,7 @@ short int    j824(unsigned char    Tw66X_V2)    {
     return    1801552208;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	xZ6cH_P(unsigned char	yl0Ze7VF,unsigned long long	n9a4iryTd4,unsigned short	Wom6)	{
 	return	0;
 }

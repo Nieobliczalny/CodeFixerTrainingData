@@ -25,6 +25,7 @@ unsigned int s1uOv5(unsigned char zwIHY0)
  return -516510235;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int Nu5co2Uq(unsigned short int oUMAhtQ9) {
  return -522516319;
 }

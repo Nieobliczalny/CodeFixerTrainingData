@@ -19,6 +19,7 @@ int	URcaG681(long long	ZXvfdk,unsigned long	HrTocx4bG,long long	iQ6a8_vxR_,unsig
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  short int Nn80;
  Nn80 = -358550076;

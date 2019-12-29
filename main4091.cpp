@@ -585,6 +585,7 @@ unsigned short int    YQxrjrk2Pb(unsigned long    m63E,short int    LtTL,long   
     return    -458614456;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int Gg23(short LBctwKV_D,short int MAZSw,unsigned int rp4E,char OQtAdO2QsR)
 {
  return 0;

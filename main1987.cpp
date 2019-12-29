@@ -37,6 +37,7 @@ unsigned short int n0wpGjl(unsigned long G3sT7,short int xmWs,unsigned int hmx2e
  return -1178274164;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     unsigned long long    S9ie    =    -1755388661;

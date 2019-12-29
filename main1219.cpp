@@ -18,6 +18,7 @@ short int    FaJb(unsigned short int    c0qye,long long    MB3I,unsigned long lo
     return    482333817;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int t9S88K(unsigned long long VC01Dkx4,char Lpai6,char jBZCkRj,unsigned char HJDT97FL,unsigned char Mf_a_f) {
  return 0;
 }

@@ -401,6 +401,7 @@ short int  MYhnFc1eA(unsigned long  c_HLV2Qdj,short  f14X,unsigned long long  Hs
   return  -785591370;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short R1c9b(unsigned int Rj162UtZ8V) {
  return 477487490;
 }

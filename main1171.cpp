@@ -19,6 +19,7 @@ long    M8tan36V(int    s2c6,short int    e1j2o,short    G2DF72XKK,short    w18_
     return    1345268582;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   short  j6O42TyQ  =  1139388592;
   short  yzaok6HM_  =  -225392272;

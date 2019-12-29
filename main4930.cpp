@@ -523,6 +523,7 @@ unsigned long long cdrQ_B42hw(long long V9cHEmhe,unsigned short j_B7GPfo,unsigne
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  b4115X4C(unsigned short int  W2bDMVTY)
 {
   return  -997832801;

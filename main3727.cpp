@@ -18,6 +18,7 @@ short int    r6FErdRZ67(unsigned char    sY50t6,unsigned short int    SP418aT)  
     return    2038271036;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    ZI31L51cv(short    b6j42,unsigned short    D3sDN6_zQ_)    {
     return    -547417392;
 }

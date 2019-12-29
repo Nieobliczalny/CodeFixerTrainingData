@@ -19,6 +19,7 @@ int  k7C59y(unsigned long  od9VjtL,unsigned int  nWHFjsrtBX,long long  p82cq1P) 
   return  1078013794;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  gBu84SWZ(unsigned int  F2v_E5V)
 {
   return  -440380465;

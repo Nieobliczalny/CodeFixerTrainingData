@@ -339,6 +339,7 @@ unsigned long long XdokA3p2L(long Z3pr70O2,unsigned long long NbK7128aQ)
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  bK7L6(unsigned long long  XaGrAC___,unsigned char  XUqa,unsigned short int  I7YuD,unsigned int  IPPjRW0xkw,short int  Nf3fzB4)  {
   return  760936511;
 }

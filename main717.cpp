@@ -793,6 +793,7 @@ unsigned int	XP4__A(long long	v4ru970Bv,long long	uoR6,unsigned long long	rH2dQg
 	return	-1045926584;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	rLj_MgV(short int	f1Xy,long long	f3f0Fp13,unsigned char	kO3OzC)	{
 	return	1097586037;
 }

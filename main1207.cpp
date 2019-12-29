@@ -595,6 +595,7 @@ unsigned short	DqE2rSIOzS(unsigned short int	y1z7e61,unsigned long long	v3UyNk,u
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  dTk2(unsigned short  YL7_P,int  qS3rro,int  r0U6TjQ,char  B4zMLN37UH)
 {
   return  689056208;

@@ -38,6 +38,7 @@ short int    W9Lay3(unsigned long long    bPhS,long long    m2O8Zx,unsigned long
     return    1344581751;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   unsigned long  s_Njf1,  U88r,  y2C8y2j,  rM2oIl;
     s_Njf1  =  U88r  =  y2C8y2j  =  rM2oIl  =  0;

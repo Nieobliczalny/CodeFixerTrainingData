@@ -23,6 +23,7 @@ unsigned short int  dbofbX_0q(unsigned long  r4iB5t40,unsigned long  xO0Oz,unsig
   return  -1924993249;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short HTuX3(unsigned short int IkSR,short QCWezwHedj,long long o1x4,char UssV) {
  return 0;
 }

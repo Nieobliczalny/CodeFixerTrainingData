@@ -384,6 +384,7 @@ short	NzVy9ARp(unsigned char	yJ3s0)	{
 	return	326705699;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short X_2oo(short int zKr9YK,long long PbHB22R,short IyF9_Qgn5q) {
  return -743071501;
 }

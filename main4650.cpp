@@ -177,6 +177,7 @@ short    uI437Y5(short    i2t0p4Yw,unsigned long    PV51)    {
     return    1179925626;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    gE_8HK3(long long    v4YvV2_,char    KxD6juj,unsigned short int    ih78gY,int    b81748v7,char    jnCyu7)
 {
     return    314795544;

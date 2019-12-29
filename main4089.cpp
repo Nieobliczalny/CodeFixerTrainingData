@@ -23,6 +23,7 @@ unsigned short	iZ4bZy(int	w2Vmu524)	{
 	return	-1203779669;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    ziyF5(unsigned long    sbhR99C4xa,unsigned long    ckBZ8)
 {
     return    0;

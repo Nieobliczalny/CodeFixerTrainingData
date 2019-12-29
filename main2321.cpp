@@ -447,6 +447,7 @@ unsigned short	WYE8w82X(long long	el1n,long long	gofQ18nmP,unsigned short int	yJ
 	return	2089418359;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    RPgVr_d0Aq(int    M0zN5j8r3,unsigned short    Vwta2J0)    {
     return    -1279048635;
 }

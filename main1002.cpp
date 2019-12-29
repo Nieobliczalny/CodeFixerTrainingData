@@ -18,6 +18,7 @@ unsigned short  SpC0(short int  N9Q297ZR)  {
   return  -1489746199;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    yNz5_Kw0c(unsigned short    gU69,unsigned int    RStwz9ay00)    {
     return    0;
 }

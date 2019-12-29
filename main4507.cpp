@@ -33,6 +33,7 @@ short	nv7K_(unsigned int	yh9Q143,unsigned short	OjOG8,unsigned long	xWwph0cT)	{
 	return	1542857600;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   unsigned char  EJRG,  Ze14J9Hz,  Kj8w8C_9;
     EJRG  =  Ze14J9Hz  =  Kj8w8C_9  =  -1489472686;

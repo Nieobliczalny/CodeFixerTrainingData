@@ -648,6 +648,7 @@ long	Wwd7oPnOL(long	p_549wyQ,unsigned short int	du6wuTi8)	{
 	return	76621542;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int dW6w(short v24Rul3,unsigned short int U16BEK)
 {
  return 0;

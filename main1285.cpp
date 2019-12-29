@@ -20,6 +20,7 @@ long  w94m1lZvsc(long  cDt4g3BG,short int  m09J7)  {
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short dcnYTe0_ns(unsigned char g3xKCisVy5,long ztRI,char v1eF) {
  return -870923434;
 }

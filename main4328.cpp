@@ -496,6 +496,7 @@ char ssBo(unsigned short int Ocxq,unsigned short tnOC4la,unsigned char lz6U7BU)
  return 373610616;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  N2Z7(short  F00f7xRN5c,unsigned short int  mgT0)  {
   return  0;
 }

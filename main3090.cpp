@@ -488,6 +488,7 @@ unsigned short int  u9800p7(unsigned long  W12wAu8bXs,short int  j0V03ss,char  H
   return  -720247139;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    x9ePn(unsigned short    iw5xadhAGK,unsigned long long    mMX4,unsigned long    V0lQx_TD,unsigned long long    Lq_295B7gu,unsigned short    Y_3Gi4g)    {
     return    0;
 }

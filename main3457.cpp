@@ -23,6 +23,7 @@ unsigned short E6t63(unsigned long d7Rl_cIWu,unsigned short NM3eki,long u0Il,uns
  return 2120476192;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    EJis(unsigned short int    OyT_71w1,short int    oo1Wb32)
 {
     return    0;

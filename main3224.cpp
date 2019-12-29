@@ -617,6 +617,7 @@ long	Co7_gn(unsigned int	S911Y5X,unsigned char	Qy7Xb_)	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long o2l47m(int hAl9i9_h_,long BEkaYj722,unsigned short int zC39mmzH4y)
 {
  return -924155997;

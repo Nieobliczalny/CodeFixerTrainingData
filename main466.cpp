@@ -31,6 +31,7 @@ unsigned int Ih_zAa_7ZY(int BCD12,char GOW5JpFo) {
  return 1472252741;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     long    Hv5cOx7v    =    0;
 	float	D5_ncjn5	=	-1285853616;

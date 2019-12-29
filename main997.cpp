@@ -106,6 +106,7 @@ unsigned long  GLINK_z1a3(char  v56a,unsigned char  ec4FX2UV,unsigned long long 
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	J8dnQZVT66(short	A_5TRMZW,int	xM3x,short int	RAzT,int	v8yK)	{
 	return	-1080670637;
 }

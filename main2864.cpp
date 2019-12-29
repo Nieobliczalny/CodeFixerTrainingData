@@ -23,6 +23,7 @@ unsigned short int r37zV0(unsigned long long yPVB74mr,unsigned char wZ8a7,unsign
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  F0L3ts(long long  pdG7nhd2bC,long long  zEmO8L,unsigned char  h9LQ37G1,short int  Gzo_k)  {
   return  -1861527157;
 }

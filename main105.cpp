@@ -26,6 +26,7 @@ unsigned char R1afa(short int BDS2JWq,short aWW9H9xD,unsigned long long hOuI9,un
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  long UC753 = -1693976251;
     char    irrQzw5u    =    68470555;

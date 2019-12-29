@@ -23,6 +23,7 @@ long long vs_G064bNm(short eyH3029,short PT0_DO)
  return 664739353;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  UTSGN0C3(long  ph538s1)
 {
   return  325312494;

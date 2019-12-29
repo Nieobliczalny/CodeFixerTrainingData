@@ -558,6 +558,7 @@ unsigned short int	Z26A7(long	b_Aa,unsigned long long	OgVJ5gDP6,short	a5iovIjGX,
 	return	104500102;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	uf9LP1R(long long	SO0GFyTd,unsigned short	PJh7A50)	{
 	return	-998378257;
 }

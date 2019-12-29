@@ -21,6 +21,7 @@ unsigned short  wgLn(unsigned char  SCVU,long long  m0v6HhK8f3,unsigned long lon
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char l3xKY7m9(long long eMF3vv,unsigned int QCil82M00C,unsigned short int Lr2_dzBl) {
  return 993482444;
 }

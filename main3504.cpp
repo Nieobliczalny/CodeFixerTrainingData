@@ -22,6 +22,7 @@ long It31uzF25(unsigned long long sLgg,short T0U5uCF,unsigned long g04XbZd,unsig
  return 1406989283;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  U40d(long  wjbm,long long  yjwqKYvN,short  t0CZ)
 {
   return  -767830031;

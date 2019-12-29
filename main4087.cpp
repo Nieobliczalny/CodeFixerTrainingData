@@ -18,6 +18,7 @@ unsigned short int GQsY_(short int M29aaSU1_A,unsigned long XWZ8Cht9l,unsigned s
  return 1063536233;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short X0QA(long hDSE,long evHzWvIU,short int K9nep16dz)
 {
  return 1771333333;

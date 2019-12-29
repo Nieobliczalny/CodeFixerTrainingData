@@ -746,6 +746,7 @@ long long    Xi_w0D7_C(short    gs_q8,long long    ig_u2jGtd6,unsigned long long
     return    117138750;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short JB495P1D7B(unsigned int GcZ5i7Ul,int GjKbEv,unsigned long long xvqx,unsigned short Hn2I0,unsigned short int b0V2)
 {
  return -753554720;

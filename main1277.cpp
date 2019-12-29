@@ -22,6 +22,7 @@ unsigned short	djj_M(short	Lc8tO0QBea,unsigned short	VMa7q9_FK9,unsigned short	U
 	return	-514811044;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    y0GO1x(short int    HZ_p_76,short int    d68CMV)    {
     return    -752554329;
 }

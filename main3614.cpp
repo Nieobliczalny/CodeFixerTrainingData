@@ -19,6 +19,7 @@ short int	Djbgb7p76(char	E2eDI,unsigned char	Voi27,unsigned long	u2k6TI,int	g_aG
 	return	-110969337;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long V1hKpyQ61(unsigned short lz5MV,char olQ0238ltu,short int z_76,unsigned int HVo2CxY4M_)
 {
  return -1716773097;

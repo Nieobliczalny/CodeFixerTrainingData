@@ -520,6 +520,7 @@ int	qD2jN(unsigned char	N2X3Ikkj5)	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	yI5753(short	z50l,short int	VbQ9,long	BRYvinQ)
 {
 	return	69255914;

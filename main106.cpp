@@ -19,6 +19,7 @@ char	y_w_O_af(unsigned long	mnoz,short int	r3403Bp)
 	return	-1221444758;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int Fy558vta43(unsigned char X7_1E3,short int m_m_Qd,short int UdV9T)
 {
  return -1280765398;

@@ -23,6 +23,7 @@ short	Xawl06f(unsigned int	WpL9qx)
 	return	1217896053;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int XX39H3aSul(short FtyYh43BF,long long H7iN_7i_6,unsigned short qy_gvgqB) {
  return 0;
 }

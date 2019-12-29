@@ -19,6 +19,7 @@ short int	F_SS8Cd1tA(long long	f1yC_k7qa,unsigned short int	f_356GxoGd,long	d9JP
 	return	-1342978257;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  tAP2s3g_7Q(long long  BQ567i2,unsigned int  n9D18w,unsigned char  TI5kSGMy1,short  Cnde8Eu,unsigned char  s65771)
 {
   return  -239872848;

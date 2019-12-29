@@ -23,6 +23,7 @@ unsigned char    RAF9ibW(unsigned long    gc3_769O,unsigned char    mgy3Ghh,long
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    U31F(short int    M_7574C9w,unsigned long long    gp753um1cu,unsigned int    JisislHu,short    p1mcb1w,unsigned short    lhwt)
 {
     return    -711956864;

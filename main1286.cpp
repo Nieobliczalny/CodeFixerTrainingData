@@ -19,6 +19,7 @@ unsigned short	ePcqPFuncE(int	b29K__ah,short	lJ0Qe0a4k_)
 	return	-2113759577;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    szFr8LT0(unsigned int    kUNXy5B,long    g2FSeDxC4,unsigned long long    dakUXpy)
 {
     return    441363296;

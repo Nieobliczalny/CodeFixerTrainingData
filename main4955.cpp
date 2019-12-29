@@ -493,6 +493,7 @@ unsigned int    UMH9u(unsigned short    Ab_Z)    {
     return    462712633;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long CxwOn(unsigned long long HNUPhp,long long DI_9,unsigned int rNrsHD,unsigned long H3A2T,unsigned int NlHQfK0P) {
  return 0;
 }

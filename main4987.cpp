@@ -225,6 +225,7 @@ unsigned long	spiMLIBM(unsigned short	O6H6n,short	NFnvSZ)
 	return	686891217;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  sYgClC62dj(unsigned int  YN9Mi5R,long long  dYeGhG4_1i)  {
   return  -817186182;
 }

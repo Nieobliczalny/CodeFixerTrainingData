@@ -19,6 +19,7 @@ int y7J0Sdp2cU(unsigned char G332bLLpUd,int OO00gr,unsigned short J977ND,unsigne
  return 228687568;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	a0Q7ZVZ22U(unsigned short int	HdCj)
 {
 	return	2104565707;

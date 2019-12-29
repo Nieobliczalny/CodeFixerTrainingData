@@ -19,6 +19,7 @@ char  C6tGX43S_m(int  oH5YK2gH)
   return  -1633881597;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long Dp5_Nz8U(long long yIgwR3Qt3,unsigned short f20dpAET) {
  return 0;
 }

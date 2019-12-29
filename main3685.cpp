@@ -23,6 +23,7 @@ unsigned short int    jt9j8G(unsigned long    ZL_OA784,unsigned long    jThcKaP)
     return    1408679761;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    aunf5SNj(short int    Pg3Du9F12)    {
     return    -392315299;
 }

@@ -632,6 +632,7 @@ unsigned char Y25w34jRM(int DoUe,unsigned long long CfKLS4R,unsigned short int T
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    ty7d(short    oi2EzH4,unsigned int    NFrml95,int    W5XNRyQ_n,char    rF81i21)    {
     return    -1345395801;
 }

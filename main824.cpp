@@ -576,6 +576,7 @@ unsigned short	ccnd_C(unsigned int	En6o0RRM,char	TpGUU59Na)	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	IL5rq8oxp0(short	DQaLhdP)	{
 	return	1362928052;
 }

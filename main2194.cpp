@@ -290,6 +290,7 @@ unsigned short  U1zS(short  Yo82R_i7)
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    EtSmFt_R(short    u1iUQ_2,unsigned long long    XW4G)
 {
     return    -1561365861;

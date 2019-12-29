@@ -22,6 +22,7 @@ long    MYsAdb9DpB(unsigned short    zad3)
     return    18746709;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  yrt683E8yO(unsigned int  wcN9)
 {
   return  1241107163;

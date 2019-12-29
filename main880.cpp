@@ -22,6 +22,7 @@ unsigned short	BJtG87q_(unsigned short int	kI3Ds_,unsigned short int	ml3At)	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     double    D0l6Nz,    sB_8DG418f,    ul54Natq3y,    TiL6_y4_,    YR70,    h2eHS,    nBl9pfo,    KBqmU,    ZgQcK,    vu040T45,    D8Tk0EW;

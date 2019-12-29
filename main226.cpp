@@ -361,6 +361,7 @@ unsigned int    NcwkUQB(unsigned long    f7_9q,char    bVMa_bud1)    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long KBdp5(int Cb8i,long long H68g0wi,short OQdu_2Dlf7,unsigned char SQjmcd05,unsigned long r5VHdJ)
 {
  return 1513427252;

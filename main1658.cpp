@@ -447,6 +447,7 @@ short    UMM3d(unsigned char    i3L54X,short int    l3I_1b)
     return    -100266294;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int nBU9dmNp(unsigned long long yDDVG6DA,unsigned int GrAL_3I_vP)
 {
  return 0;

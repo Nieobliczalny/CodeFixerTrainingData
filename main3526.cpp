@@ -19,6 +19,7 @@ unsigned long  cY9Y9890O(unsigned short  gmosptfz1,unsigned short int  RptG17d)
   return  912565325;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  f1EZ1(unsigned short  m06C)
 {
   return  -1347042333;

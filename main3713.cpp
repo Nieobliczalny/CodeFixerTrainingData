@@ -18,6 +18,7 @@ long long	C_wHO(unsigned long	f0zbVx,unsigned short	czyet9C1,long long	ljqu1D1Oc
 	return	428746572;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	unsigned short int	frwFHoBc	=	0,	oO0zNFX011	=	0,	lK8Ox	=	0,	W3F6Tt5	=	0;

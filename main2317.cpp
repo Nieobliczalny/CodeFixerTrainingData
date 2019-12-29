@@ -23,6 +23,7 @@ unsigned int    zB_AIZwp2(short    Mef0UbxD,unsigned int    P8TcA,unsigned long 
     return    238165268;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     unsigned long    M4yg,    x6n_cOxkQ,    q8LNq63mB0,    yx9q43,    dLY1u74;

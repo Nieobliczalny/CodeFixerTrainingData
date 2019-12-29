@@ -315,6 +315,7 @@ unsigned int gu_8JCTP(unsigned long long g3QbsNg021,long long Z98Bb4,unsigned ch
  return -1486262759;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char KfA7Nn(unsigned short f_zz6) {
  return 1851781563;
 }

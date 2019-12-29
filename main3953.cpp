@@ -485,6 +485,7 @@ unsigned short int vF50(unsigned short UO7rm,char U5GTIh1F,unsigned long long h9
  return 2075359664;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    XPw5HVgcU(unsigned short int    a2e_P7YiVM,short int    k06ezGRE1l,unsigned long    s73k,short int    wO0B105,unsigned short int    oC696P)
 {
     return    423778923;

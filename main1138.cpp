@@ -22,6 +22,7 @@ unsigned short int    GFSbfl9w(int    eF9cmzJ0j,long    gSdEul,long long    s_c1
     return    405000989;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  double G5cVkY_4q_;
  G5cVkY_4q_ = 125508721;

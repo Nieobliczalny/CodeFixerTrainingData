@@ -23,6 +23,7 @@ short    m7N3(unsigned char    fkj3yxBq8_,unsigned short int    xq_X,short    E3
     return    1792461141;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  s_6ie_Dw2(short int  X_2Ycyi,short  Oh_IuV442)
 {
   return  -854063040;

@@ -240,6 +240,7 @@ unsigned short APrda(long q1gG,unsigned int BniX4o_,long lL8L3UsYb,unsigned int 
  return -1455631704;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  QbQ4MU(unsigned char  R9JAoT4,unsigned long long  U2B18Oe)  {
   return  -549816596;
 }

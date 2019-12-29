@@ -20,6 +20,7 @@ unsigned int    vc_ptrIiV(short    hX19Fcc5x,long long    KMf3,unsigned long    
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    MFdezPYw(unsigned long    L4U47h_8,long long    D14S5LX)    {
     return    -1959375285;
 }

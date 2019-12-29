@@ -20,6 +20,7 @@ short riVxol3(unsigned int HDJM4FNM,long O97ACdp,unsigned int lWO0U5V9,unsigned 
  return -1342070047;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	XW4Fzn7(long long	Jug__AW5)
 {
 	return	0;

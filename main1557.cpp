@@ -19,6 +19,7 @@ unsigned short int    awOK192G(long long    Nv5_VA,unsigned long    g0sFe,unsign
     return    -1122980795;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	U1H6W7Lx(short int	H91m,long	Ybw4K_Z_5u,unsigned short int	Rv96)	{
 	return	617862940;
 }

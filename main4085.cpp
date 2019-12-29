@@ -18,6 +18,7 @@ long long    jqDE4(unsigned long long    L9_BcX_N88,int    g8cOeg1,char    xbNVk
     return    1644223228;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     unsigned char    l_9_rmj    =    0,    V25_aTb_    =    0;

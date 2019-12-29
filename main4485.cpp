@@ -19,6 +19,7 @@ unsigned char  MZ_06IQu2(long long  m6f66Sjj,unsigned short  B8z9)  {
   return  771575425;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	R7WsK(short	eQR9C8,char	ZN035,long long	ez0iOoQ6)	{
 	return	433096910;
 }

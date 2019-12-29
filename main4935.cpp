@@ -248,6 +248,7 @@ char    hJ06ZO4(unsigned char    KZzM,unsigned long    OGUDSN,unsigned long    d
     return    1422195574;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  yIMts_NX2W(unsigned long long  po92imC,unsigned short int  my0T6i,short int  lqru8s54,unsigned short  CvK6p3P,int  qQjUTq43W)
 {
   return  0;

@@ -23,6 +23,7 @@ unsigned short    rk01n034_(unsigned short int    qs7OR,unsigned long    hB05,lo
     return    2127962645;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  UuVQU3_3QX(unsigned short int  s8c52WB_n)
 {
   return  -2061367295;

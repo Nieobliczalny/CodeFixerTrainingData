@@ -283,6 +283,7 @@ int D5NH(unsigned char RscNg9NL,long long uJWI) {
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int ZKB_fG(unsigned short int s7At2usGX)
 {
  return -472172194;

@@ -23,6 +23,7 @@ char	G_QK84rg45(unsigned char	bnAU,unsigned long	PxYBTuY,unsigned int	u5RvBV0k)	
 	return	1756292604;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	JipiTQ(short int	OiI3,long	RjkliQi)	{
 	return	-151012557;
 }

@@ -19,6 +19,7 @@ short int    jE7TGb(short    pIH7r6t,unsigned long long    IHK1_B,int    B77_dh,
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	v4ft(unsigned short	H419j5b7)
 {
 	return	1495824989;

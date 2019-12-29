@@ -351,6 +351,7 @@ long long	ssH_IGnu(unsigned short int	uoVh)	{
 	return	-370617270;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	SWYF1pMr(short int	v5KHZ2_G)
 {
 	return	0;

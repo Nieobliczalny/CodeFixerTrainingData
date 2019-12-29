@@ -415,6 +415,7 @@ short int	AlTnQY(unsigned char	j9EBz_zN,unsigned short	jm6Y,short int	DYC9L,unsi
 	return	-1284491769;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    XrA4jyAl(short    A6H96xQ)
 {
     return    449521466;

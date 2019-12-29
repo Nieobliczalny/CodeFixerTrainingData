@@ -18,6 +18,7 @@ long long Omhwj(unsigned short int vJ46791,unsigned short FsRY2) {
  return 1159923440;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int wGSRTZ(unsigned long Rp4mm_2jKO)
 {
  return 0;

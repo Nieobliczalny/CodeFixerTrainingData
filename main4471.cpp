@@ -332,6 +332,7 @@ char	o388L54(unsigned long	nLGe_jF,unsigned int	s7_BE1dcGv,unsigned short int	v9
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    C_R1e__3U(unsigned short int    b60RTk,unsigned short    nnv6eE2z,long    yb3nFDM19)
 {
     return    -831845342;

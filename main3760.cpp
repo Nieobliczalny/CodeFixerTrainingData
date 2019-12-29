@@ -784,6 +784,7 @@ unsigned char  h00Athd(short  rSn3g,unsigned int  qFuTnrG,int  vCOA2i0)  {
   return  -302918309;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  BN5hS5NX7(short int  Bu0692,char  MePz)
 {
   return  -1109339863;

@@ -348,6 +348,7 @@ short int	T1hqU8(unsigned char	RQbW9_J,long	Q9OZJJD5C)	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	bn3zx74N(short	g0EewIU6O,short int	kqnGtrV9U_,unsigned char	qFQkmbk)	{
 	return	1957793687;
 }

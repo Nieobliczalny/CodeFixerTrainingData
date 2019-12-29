@@ -408,6 +408,7 @@ unsigned int	r6_8D12(short int	QIic,int	Pd8hYc,unsigned long	LITT12,short	vG99_)
 	return	-650930619;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long rkARDIC_5m(int ETelZ4R,char A2dw_te8a,unsigned long eoFI,char Y1rI,unsigned long Rd9Tzj2aD)
 {
  return -1136885048;

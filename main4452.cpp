@@ -34,6 +34,7 @@ short int    ZtGB(char    xWws8mmyc_,unsigned short int    PJJ2CTMa43,unsigned s
     return    -1056983034;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   long  wh_552  =  -163496710;
     char    T7_kvFT    =    158891008;

@@ -20,6 +20,7 @@ short int    hY_P(unsigned short    HBFwi,int    HGVniQOs,unsigned short int    
     return    -419615539;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    UU2daKZ(int    mHOE1,char    lDm8478,unsigned long long    PG_O)    {
     return    630367512;
 }

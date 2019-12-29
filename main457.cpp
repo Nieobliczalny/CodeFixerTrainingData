@@ -23,6 +23,7 @@ long long	BpRN3(unsigned short	U77VLG1Mu_,int	cSm1wR)	{
 	return	1496827460;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    PwGD3dI(char    RzSd03w,int    f8yB)    {
     return    648235122;
 }

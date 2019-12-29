@@ -704,6 +704,7 @@ long	thSX7r(unsigned int	DCknE,unsigned int	ZU8B,unsigned short	fc7VOFpG2)	{
 	return	-708881544;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	YHF2(unsigned long	t76_3_M2T,unsigned int	nvLv7sW)	{
 	return	0;
 }

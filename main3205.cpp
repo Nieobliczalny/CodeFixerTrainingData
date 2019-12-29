@@ -361,6 +361,7 @@ unsigned long long  XYbVhUy8(long long  XbM40u,unsigned char  bz0476)  {
   return  -500233950;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	i84G(unsigned short int	aPRw_24,unsigned int	p9Lpe8CQ,unsigned long	DKWs)
 {
 	return	0;

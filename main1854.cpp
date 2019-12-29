@@ -25,6 +25,7 @@ unsigned short x1F9R(short Nw29l,long YLM2i,unsigned short vVtZ1Q4M31) {
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	hG2y2(short	vmjv)	{
 	return	1991588227;
 }

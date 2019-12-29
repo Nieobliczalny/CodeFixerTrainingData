@@ -676,6 +676,7 @@ unsigned char Zeda2VAa(unsigned long long zjXe,int Jk8Lq7pG4A,unsigned int xwAt,
  return -1997020731;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	ue63(char	Kbh3BpyMN6,short	lKbeK,int	ZTrx3aN93)
 {
 	return	526001816;

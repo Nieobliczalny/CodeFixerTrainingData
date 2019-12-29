@@ -519,6 +519,7 @@ unsigned short int	zDR1rzlvy(long	z66cy1,int	OkMFlv,unsigned long	l4lu7h,unsigne
 	return	-372618592;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  oi94iWTfD(char  Caa883m,int  QgTwo9m8gF)  {
   return  1913578333;
 }

@@ -262,6 +262,7 @@ unsigned char m42p(char XD9mY,int mEZ9a8x,unsigned short int LVHd17W)
  return 114845981;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char i_xwc(unsigned int S369,long long Jo6K59_sJ,unsigned long long fAUUTAVESq,char zWNqb7T) {
  return 0;
 }

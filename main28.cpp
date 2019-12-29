@@ -19,6 +19,7 @@ short int	ryY7(long long	B_3023I,unsigned short int	Z56V,unsigned short int	c9Hy
 	return	-403595223;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  w40RH724(int  U48Z)  {
   return  77979737;
 }

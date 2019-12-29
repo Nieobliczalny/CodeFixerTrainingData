@@ -387,6 +387,7 @@ unsigned short int    AN5l(unsigned char    QAH5S2NOTS,unsigned char    RO6r5r6T
     return    1566681242;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    WslJOa(unsigned short int    NmMoX,unsigned char    P3We2O)    {
     return    0;
 }

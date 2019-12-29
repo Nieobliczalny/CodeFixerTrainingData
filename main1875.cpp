@@ -27,6 +27,7 @@ short int	cR7LFk2n16(unsigned char	Fr_Tg0,short int	zX9dDD0324,unsigned short in
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	int	XQ2W3wF;
 	XQ2W3wF	=	0;

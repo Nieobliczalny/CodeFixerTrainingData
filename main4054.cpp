@@ -19,6 +19,7 @@ unsigned char    q64A(unsigned short int    o3rr_,long long    s4Vh9sDe6C,long l
     return    1290351962;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  f3_A3208uN(unsigned char  UbtzS2CW07,unsigned long  jGm44DU,unsigned long  FmhJ2a3h)
 {
   return  704586617;

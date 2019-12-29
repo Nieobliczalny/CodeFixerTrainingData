@@ -25,6 +25,7 @@ unsigned long    KKGcuUCGh(short    TqgpIrh,long long    esmi_g,int    k__f2Y8xe
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  float HHQaI = -1811455073;
  unsigned char UjFG1 = -55147531;

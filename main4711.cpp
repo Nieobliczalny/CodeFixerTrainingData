@@ -23,6 +23,7 @@ unsigned int	Sr_H_Rs(unsigned short int	cxv368Lw0z,long	f37VwEs,short	JnaS4,unsi
 	return	238946675;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int d48fo41bQ(int qjwAyiPH,unsigned long w3YuNg2Y3) {
  return 130818827;
 }

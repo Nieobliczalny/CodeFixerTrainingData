@@ -20,6 +20,7 @@ unsigned int    t_8bH9X(unsigned int    bghW1wX5K,long    EPo_tg_6,short    m_u6
     return    -1255938016;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	Og6sWK(unsigned long	u92o10H,int	BsftfFZVWA,unsigned long	f_MHgV5i)
 {
 	return	657450326;

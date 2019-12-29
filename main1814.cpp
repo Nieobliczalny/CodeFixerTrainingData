@@ -19,6 +19,7 @@ short int    O96S9(short    H_W3O)
     return    1618688928;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int l5Yk6zbX6L(unsigned long Cm2iGsk,int BDqE) {
  return 0;
 }

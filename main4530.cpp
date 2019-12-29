@@ -493,6 +493,7 @@ long long zE4RX16cD(short kj48k73) {
  return 224592087;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char n7a2O72x(int HvsHs7Qi,unsigned short int vHDNSH5) {
  return -997389053;
 }

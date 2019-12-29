@@ -563,6 +563,7 @@ int yf603CdZ(short int W36Za3s,long long zL7_sVb_,short int LDG5cm,unsigned shor
  return 28073862;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char uZefK4QcKF(unsigned int kX8FKsKEPK,char ZXMO01,long long WsjufOv,unsigned long long zPXX)
 {
  return 0;

@@ -644,6 +644,7 @@ short int	L9pZx2juwD(unsigned char	A_48RKj_9,int	OGct)	{
 	return	728805526;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	E6EdRRe(long	F9wJ)	{
 	return	-394599736;
 }

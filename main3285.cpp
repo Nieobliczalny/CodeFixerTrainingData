@@ -23,6 +23,7 @@ long	GB_G_(unsigned int	M_8R24A,unsigned int	npws)
 	return	-1997777357;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	unsigned int	X79W5CS6Wk	=	1025595549;
     unsigned int    tnOOZD    =    -25697339;

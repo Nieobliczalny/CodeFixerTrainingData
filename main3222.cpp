@@ -20,6 +20,7 @@ unsigned long	y2f1j0WC7(unsigned int	vFB7f,short int	iy79ilgJR,unsigned int	m4A8
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	short	a435Cg342	=	-254642922;
  unsigned long Gt_Hd8aH33 = 778928208;

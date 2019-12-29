@@ -399,6 +399,7 @@ unsigned char AK7Kttg3(unsigned char S9I_,unsigned long qbxlmo0,unsigned long lo
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    ybi9_008a3(unsigned char    BUn8_1)
 {
     return    -59539011;

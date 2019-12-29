@@ -22,6 +22,7 @@ unsigned char    CvFY3o46Y(unsigned short int    mpyRy55c4r,unsigned long    REo
     return    -1120582085;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int bgl0_(long rl2yG_tO,short N8DG_,long i7tlYFuU,unsigned char u78rXma70f,short jt_w50EUxQ)
 {
  return 0;

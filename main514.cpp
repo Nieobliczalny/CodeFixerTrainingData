@@ -636,6 +636,7 @@ short G_22iS821(short zactb,char Fgw8)
  return -490638028;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	P6_7IQ(short	aGG6oxZQv2)	{
 	return	1405404783;
 }

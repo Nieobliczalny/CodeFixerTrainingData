@@ -355,6 +355,7 @@ unsigned short yH76(unsigned long bU7ZAb,long long ngk1W,long long hpJi434i,unsi
  return -134046386;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    eYQ86XD(short int    dRk52,unsigned int    p3jvb,unsigned short    ype5u,unsigned short    fsx1R,unsigned short    GCkDgtWeY)
 {
     return    0;

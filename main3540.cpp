@@ -23,6 +23,7 @@ short    PSvISX(unsigned short    LF6vJy,unsigned long long    n8_Hm,short int  
     return    -1814838986;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     char    P7pB9bPj;
     P7pB9bPj    =    1274980840;

@@ -691,6 +691,7 @@ unsigned short yegyE5_(int VvxKX90,unsigned long long Zsy1,short EMuK,short bASd
  return 680672172;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int ktDSD(unsigned short xN74E_X34d,unsigned int oI7O8DY251,unsigned int A13F092us1,unsigned long RR92zB)
 {
  return 568238013;

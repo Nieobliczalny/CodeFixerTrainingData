@@ -26,6 +26,7 @@ int	xkHaRd(unsigned int	dXTaT1UU,unsigned long long	PiYE6dw_2)	{
 	return	723657639;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int Zl47(long long e_dS,short int s71Ehe1,unsigned long SeRcV)
 {
  return -1317588232;

@@ -23,6 +23,7 @@ short rgke(short x7ws7y) {
  return 1202142040;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int Q7_N4e9(short int L9Ky4Z3NH_) {
  return -1321392446;
 }

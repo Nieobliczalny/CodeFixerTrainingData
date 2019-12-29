@@ -20,6 +20,7 @@ unsigned char  Y5NZ2(int  a80b_0Y,unsigned int  Z4229GA,unsigned short int  wFgP
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	hK4cfj9B0X(unsigned char	wCLx,long	N762j)	{
 	return	903340095;
 }

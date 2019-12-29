@@ -132,6 +132,7 @@ short    stgxhuhc0(long long    AQnK,short    YfLSj,short    wHKx8G7,long long  
     return    1918948654;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char N8TJLP(char g08Z_F) {
  return 0;
 }

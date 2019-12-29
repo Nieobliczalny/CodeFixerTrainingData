@@ -18,6 +18,7 @@ unsigned short  e7__(int  Kyj7g,char  Qlsi7lUb,unsigned long  at3m,int  i6pi)
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     unsigned short    HYg4_,    PfN0KK;
     HYg4_    =    0;

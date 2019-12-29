@@ -22,6 +22,7 @@ unsigned char    q50xrBb53(unsigned char    q4Tv,char    x4kcj,short    Q3uE,uns
     return    743087908;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	kOFz_90YQ(short int	ux3R7,unsigned short	r98JtSdWs)	{
 	return	0;
 }

@@ -603,6 +603,7 @@ unsigned int U8DYuRVo(unsigned long long Fxzw9TbG,unsigned short ddp_3VN,unsigne
  return -58092590;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    U5dt_c(int    G81plP8N)    {
     return    0;
 }

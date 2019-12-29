@@ -617,6 +617,7 @@ unsigned int    z2_ug0d7(int    gaNdJ65g,unsigned short int    mH53Q2M,char    C
     return    1573465738;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	y1UxRx1_8(int	tGwhQ_S,unsigned char	vNLQ65iVp,long	Yc66X0l)	{
 	return	-845150377;
 }

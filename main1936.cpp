@@ -221,6 +221,7 @@ unsigned long long GjqLtvies1(int Z_rnEo3Ck9,int r835cQy,unsigned long lWRAl4,ch
  return -1961884183;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  L6WuYE8_H(short  x472OlC,short int  Y47_dYi,unsigned int  q0g_M,unsigned char  ZZ3lP2YC)
 {
   return  0;

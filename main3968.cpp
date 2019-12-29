@@ -280,6 +280,7 @@ short int	EpJ1m(short	V8Z3,long	hEz_ZOBn,short int	ji2A5ydVhy,char	Ng96__36)	{
 	return	1658605879;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    jWmla(unsigned char    BCH6Kpg21,unsigned short int    cQPsLr)
 {
     return    1817115832;

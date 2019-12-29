@@ -458,6 +458,7 @@ short int    mdex1(long long    SU8qP)
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  BYwI(short  o_YYiVMFgB)  {
   return  609037909;
 }

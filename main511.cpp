@@ -674,6 +674,7 @@ long	aCstlg(long	p0iaLLM455,short	wy7sbfl4e)
 	return	-1544969779;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int pt12y(int c4nZKUM1,short int N_l9_) {
  return -921720651;
 }

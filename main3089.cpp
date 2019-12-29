@@ -583,6 +583,7 @@ unsigned long  Z8YGI6dhW(unsigned short  FMbJY2J,unsigned short  GGVyA66Qd)  {
   return  1078972184;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    g8GAD8rW(unsigned short    CjQwEQeET_,char    W_m4tUT9,int    TIqdexG)
 {
     return    0;

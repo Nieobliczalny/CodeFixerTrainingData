@@ -398,6 +398,7 @@ unsigned char    HXuYSutlS3(char    N942D7x4,unsigned short    qC0rjW1,long    H
     return    -122971790;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short Tk0sl3o_3y(int EHi1Pv4,short woDG_)
 {
  return 528534324;

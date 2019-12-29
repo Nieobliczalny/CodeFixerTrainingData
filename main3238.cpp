@@ -20,6 +20,7 @@ short int    Rlag(short    HuU122sJ)    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  ABHe0P(long  WAGaaw0r1,int  O4wf0,unsigned long long  KS4AhmD,unsigned long long  LvL6m)  {
   return  -1169327149;
 }

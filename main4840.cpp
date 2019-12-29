@@ -18,6 +18,7 @@ int    u8Plsol(short int    JO0J,long    f8sxOt_t)    {
     return    -1096153055;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int ivWCB82R(unsigned char YDla_3db,unsigned short int ksDL0Mg,unsigned char DC7ng_SVT,unsigned int LFq0,long FU53xw0F5) {
  return -7116009;
 }

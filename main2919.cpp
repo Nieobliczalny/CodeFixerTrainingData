@@ -39,6 +39,7 @@ unsigned short	QL5k53k(unsigned char	AQ6JO,char	Dw86)
 	return	891917992;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	C_bv7J_N(unsigned long long	ZQZG)	{
 	return	-1941747996;
 }

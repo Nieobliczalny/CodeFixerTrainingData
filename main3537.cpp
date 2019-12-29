@@ -23,6 +23,7 @@ unsigned char G40u3m(unsigned long long ngViq96q,short KfsqI8sE,char tqT37hh75,s
  return -1511116409;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short eG629_H(unsigned short v7K_cTP,unsigned short R7eNy,unsigned char p6Ep_1Z4,short int EQ4wQSC,unsigned short int lMtXz)
 {
  return 0;

@@ -22,6 +22,7 @@ unsigned short int  TBm879Uo7s(short  LPtOvNXjo,char  yxl638,unsigned int  qT9xs
   return  -1763254619;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    AdEAPGsl(unsigned int    qm53n_9,long    X_X03H5qHd)
 {
     return    787911102;

@@ -493,6 +493,7 @@ short int  mp1t0UO1(int  T3qm5C,long  F4kn7)
   return  -1697288042;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	unB0(unsigned short	Tzabd,unsigned long	s84VyxRO,unsigned short	SK46mg4hb,unsigned short int	NqJL)	{
 	return	830366453;
 }

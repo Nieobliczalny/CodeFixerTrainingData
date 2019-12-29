@@ -27,6 +27,7 @@ short int jzn8egva(short int gqgjDM,unsigned char gV686,unsigned short q3I4_V32,
  return -955445079;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  Zk478X(long  C31gJQ9Kt,long long  eB1548060O)  {
   return  -1973096262;
 }

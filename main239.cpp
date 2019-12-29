@@ -23,6 +23,7 @@ short  SrF2jV(unsigned int  K53v,unsigned long long  gcr1hFTzQY,int  ouT8TG,int 
   return  -1924002279;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     unsigned long long    WeJM5,    QRIqf8Wtc,    K34_57Pp;

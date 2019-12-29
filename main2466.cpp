@@ -19,6 +19,7 @@ short    lPU5d4U(char    leqGZSw,short int    Xo52)    {
     return    185626815;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    IMU6fs4rl(unsigned short int    emer99)
 {
     return    0;
@@ -35,6 +36,7 @@ long Fq494y(unsigned char eBUT_TRi,unsigned short int z_4s)
  return 1852587619;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  short w3Ey82cxM;
  w3Ey82cxM = -965290892;

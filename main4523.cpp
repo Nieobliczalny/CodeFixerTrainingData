@@ -23,6 +23,7 @@ unsigned short int oB19O(unsigned long CpY3P,unsigned long eeIg_0W,long long WlP
  return 133874643;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	oKSBc5Ezp(unsigned char	Oy06)
 {
 	return	-943089110;

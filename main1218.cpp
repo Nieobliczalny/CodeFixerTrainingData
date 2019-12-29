@@ -503,6 +503,7 @@ char    czKi8_La2W(unsigned short int    FGwd96x9zC,unsigned int    AwmL04qN4,un
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    CoAoe6U21O(long long    J1vcxy8_Q,unsigned short int    lu1qO)    {
     return    1147833522;
 }

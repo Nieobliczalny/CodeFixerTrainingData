@@ -21,6 +21,7 @@ unsigned long    P_oLNy(long    gLa7F5,unsigned int    igT1,unsigned short    CR
     return    1179858663;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  short int UsDh, SRfuFjAK5, VHhV, XDMn1;

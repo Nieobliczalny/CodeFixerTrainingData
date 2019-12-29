@@ -135,6 +135,7 @@ unsigned char    Bz9D_2LV(short int    F_b0_9)    {
     return    -1592524609;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    y20O4r7I3(unsigned long long    YUG9,long long    e_83,unsigned short    hv9cKnd_9O,unsigned int    x7z3Sz,short    Qsc0Bq7UI)    {
     return    -1490606071;
 }

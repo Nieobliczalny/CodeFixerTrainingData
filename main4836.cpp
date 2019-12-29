@@ -19,6 +19,7 @@ char    B02i7w_my(unsigned short int    jhNYa9lkG,short    TPHFE,int    AAt5OwU6
     return    -1852149335;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  pZOr9(unsigned short int  llJgDbc,unsigned short int  Ejwk3YZ)  {
   return  0;
 }

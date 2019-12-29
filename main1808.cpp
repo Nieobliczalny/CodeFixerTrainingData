@@ -24,6 +24,7 @@ unsigned char    ONDJ2(long    U1q_948Bq)
     return    -2130667544;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int BPWj843(long long u7__xIGl,int clY44f)
 {
  return 2076588676;

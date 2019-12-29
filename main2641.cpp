@@ -23,6 +23,7 @@ unsigned short int	sV9i(unsigned long long	F9YxS,unsigned short	x31Ee9ss3,short	
 	return	293006666;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	Na1y(long	Wve8FS7oN,long long	E6zN8F1,unsigned short	q1Wd56,unsigned int	eTQ1O2,unsigned short int	BMPI7)
 {
 	return	0;

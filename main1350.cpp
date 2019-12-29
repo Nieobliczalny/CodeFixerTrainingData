@@ -555,6 +555,7 @@ long long  f7uCN(unsigned long long  v6hs6Qh4g,long  e9xs82xA)  {
   return  -2047272155;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long a0uZe7i5O(unsigned short int JoWZ,unsigned short int DxYgCxn,long Roih7lP_6P,char sVy4Y,unsigned short AC2555_)
 {
  return 0;

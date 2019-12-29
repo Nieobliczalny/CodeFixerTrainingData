@@ -242,6 +242,7 @@ unsigned short int    l5Efa(unsigned long long    q7g_fB,long long    Q8365,unsi
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    k98jlKUP5(long    T1oU93m9,unsigned int    yYkI5Yi2S5,unsigned long    g9J1)    {
     return    120131759;
 }

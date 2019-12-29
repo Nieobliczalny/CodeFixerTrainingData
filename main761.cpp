@@ -23,6 +23,7 @@ int	wDDf1l(short	nNU_Xv,unsigned char	Jw9Q)	{
 	return	1344052679;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	h_qv1Q74(unsigned short int	rmzl1rx)
 {
 	return	1313448636;

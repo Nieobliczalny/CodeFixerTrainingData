@@ -295,6 +295,7 @@ short int    JKgyad(unsigned long long    bK0156__,unsigned long long    VeJ9,un
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char WCmu_(unsigned char ovP4_mWmCb)
 {
  return 78597236;

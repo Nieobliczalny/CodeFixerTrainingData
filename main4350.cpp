@@ -426,6 +426,7 @@ unsigned short	XXpiU(short int	mEXGxlel_4,long	Bb460,unsigned short	FUy5,unsigne
 	return	1918159863;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	w9C_47V_8(unsigned int	FMaayQPyF,unsigned long	LVeVD2x)
 {
 	return	0;

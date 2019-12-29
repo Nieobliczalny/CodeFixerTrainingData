@@ -21,6 +21,7 @@ char  qVbby0H(short  AUfR,unsigned long long  UjD9s_bhUJ,unsigned long  MnmO03p)
   return  144086394;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	T1ETp2(unsigned char	uRJc1,char	w3Ay4M3C9A,unsigned short int	s5_jhZIA)	{
 	return	0;
 }

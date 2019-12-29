@@ -19,6 +19,7 @@ char	MrojE(char	DtV1C8_,char	R544fQsn1,short int	G2f_o6)
 	return	1382165643;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	NRH87677Z3(unsigned int	He96egf0,unsigned long long	M3AIwVY56_,long	oWNj,long	psv6g4L82,char	e7U00ha)
 {
 	return	0;

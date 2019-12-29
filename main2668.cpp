@@ -21,6 +21,7 @@ unsigned char TFwY3J(unsigned int wWx0T_5GmL) {
  return 964206444;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	Y102YI4(unsigned long	R9NEVo447)	{
 	return	0;
 }

@@ -175,6 +175,7 @@ long long zp6bNS(unsigned short int otU71l8,unsigned long long yZ9qy2TqB,char sh
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	Ug94Z_iOQ(unsigned long	QGCPfR46tF,unsigned char	mh2lGNo8_v)	{
 	return	-171267609;
 }

@@ -20,6 +20,7 @@ long    hlKN0K(long    D58ZON2,long    cI5VXy,unsigned short int    Spk5BC)    {
     return    -1938025091;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  XtP4Iv(short int  y5lcTn)
 {
   return  0;

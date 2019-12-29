@@ -455,6 +455,7 @@ char w2ykE19(unsigned long long i3t8pwm,unsigned short int qUFzO5,unsigned char 
  return 19996494;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int zt_gc3cBo(unsigned short int KA3_33,unsigned short int X1ltY7mWU_) {
  return 2110650888;
 }

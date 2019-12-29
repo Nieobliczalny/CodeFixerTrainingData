@@ -557,6 +557,7 @@ short int    f9cbn7R8M(unsigned int    h9Loi,short    tipN)    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    vaVi6_21(unsigned long    C2_U,long    djclH)    {
     return    -2059704561;
 }

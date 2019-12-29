@@ -26,6 +26,7 @@ unsigned int X2482o(char WB3k) {
  return -2142591484;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char M_Ua_ab9(unsigned int MeGj4)
 {
  return 0;

@@ -378,6 +378,7 @@ long  nIVpQ53(long  QKFxWzYBUC,unsigned char  rup526,short  f98IN8x9v,char  G61e
   return  2145601471;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int w5_a24(char R2qFawz) {
  return -299415925;
 }

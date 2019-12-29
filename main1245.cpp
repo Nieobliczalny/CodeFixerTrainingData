@@ -655,6 +655,7 @@ short int oDmXT2(long X3oL6j,unsigned short Xs844,unsigned long ivvsJ) {
  return -712957801;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	MM76qV52(unsigned char	zeuXQ1,short	W1ZDeGzeN)
 {
 	return	1609560826;

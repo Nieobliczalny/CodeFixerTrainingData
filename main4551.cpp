@@ -18,6 +18,7 @@ unsigned char	I_qk64D5(int	HPB_614z,short int	a3ddpgLn,long long	d2DU,long	GXWs,
 	return	1351490744;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    fGM45SXT(unsigned short    Gj_9,long    RZAiIy8OM_)
 {
     return    -214594817;

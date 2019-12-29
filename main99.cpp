@@ -458,6 +458,7 @@ short int A0A8P_5(unsigned char z3JnU24SM) {
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	j90_jA_I9(long long	OyVe2,unsigned int	kkV1J_J,long long	GhLqk7yR,short int	ko2_0KC3M)
 {
 	return	1746378736;

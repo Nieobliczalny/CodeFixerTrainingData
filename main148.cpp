@@ -18,6 +18,7 @@ short kv_h4Dw0T_(unsigned short O3Jzu34)
  return -1224273227;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long V4bJ463(char rH15,unsigned long JRcScUUE6C,long BrJ7,char E2u4xY4W,long I7X_g) {
  return 405663858;
 }

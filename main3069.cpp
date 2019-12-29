@@ -25,6 +25,7 @@ unsigned long	ZO8HH(int	tR2ZIj_,unsigned long	z623p,unsigned short	rOpGRI,unsign
 	return	-616909612;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	SaJSLE(unsigned long	kM4ejP6l,unsigned short	e08EY1B1N,unsigned short int	n_d_A)
 {
 	return	1235161285;

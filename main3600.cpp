@@ -32,6 +32,7 @@ long long    P_N6a83l(unsigned short int    dR_ALV9,short    f7K1)    {
     return    522096312;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  V6z2uuL(int  nchl,int  g8Wb1,long long  nePW7k79Br,short  KbqiO_LQ,unsigned short int  S5ch9n5V0Y)  {
   return  -541003444;
 }

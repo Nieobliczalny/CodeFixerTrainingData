@@ -22,6 +22,7 @@ short eTqpfhNY(int yi61EvkJ_,long om9cD65u,unsigned char VpY4_,unsigned short in
  return 1680686509;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	vOd92Y(short	VPmfeB,short	nIxjkh2Z0P)
 {
 	return	423799262;

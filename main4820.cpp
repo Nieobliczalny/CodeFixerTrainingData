@@ -95,6 +95,7 @@ unsigned short    Sc1vT(int    VxsT_C9J,unsigned short int    y6g_n3,char    F3T
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  VOiE_(unsigned char  e2y5Z3ps0,int  sg09rvY0,unsigned short  P7_5,unsigned short  b9VUL4IIV)  {
   return  -416958792;
 }

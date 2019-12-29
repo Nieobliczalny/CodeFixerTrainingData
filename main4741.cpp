@@ -626,6 +626,7 @@ unsigned long long  Br6_61c(unsigned int  QE0Z8545H7,long long  R27yQh_R,unsigne
   return  -941779707;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	tqU1J(long long	l2rfzNM,long long	l_fnQM,unsigned long long	Qcim)
 {
 	return	0;

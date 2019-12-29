@@ -23,6 +23,7 @@ char	HUQ4pjY8V(int	xUA9,long	P29_A0T,unsigned int	NSvh,int	lgjHE)
 	return	195015733;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    iVl5c(unsigned char    mM0GlY,int    D6KXuF)    {
     return    900922002;
 }

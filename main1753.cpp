@@ -545,6 +545,7 @@ int	l_d8A(short	wkvF,short	MR6WmaB,unsigned long	ycGg0BC,short	T_4W6FPM)	{
 	return	428205061;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  tKX3(unsigned short  dbQvWKcG9,unsigned char  XKI_GlUG,short int  wg7emj,unsigned char  HJmWTT3,int  j_7Hk6E)
 {
   return  0;

@@ -261,6 +261,7 @@ int GZ3vR(int vDKV,long long Dg5CZ1s,unsigned short xiLb4DX9xk,unsigned short in
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short CNUh(unsigned char ZUZk8,unsigned long long CXoOlq_ra,unsigned int Uzxo67mWz,unsigned short Y0CYQZviQV)
 {
  return 1403236371;

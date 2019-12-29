@@ -21,6 +21,7 @@ short    y9dV(char    nEtyS)
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	voHag9siTH(unsigned int	RNA8Xt6,unsigned char	i_7e)	{
 	return	1137492319;
 }

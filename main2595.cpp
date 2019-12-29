@@ -21,6 +21,7 @@ char	oT5K(unsigned char	azgwkm596K)	{
 	return	2144528230;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	pypqhSle(unsigned long long	i_1_,char	Ae0JOny,unsigned short int	LPz23B,long	d_KUQT5jn,unsigned long	fpp3K9)	{
 	return	0;
 }

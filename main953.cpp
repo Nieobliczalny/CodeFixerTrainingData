@@ -19,6 +19,7 @@ long	OO0k4EPJ_W(long long	M2w2n7T_,unsigned int	n1mmK,long	pP2M)	{
 	return	1936092193;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	z4cAm(long long	zNLOK8O,long long	vvF_A6E,char	doSUa2jEG,long	Rj_ISC__2)	{
 	return	948057622;
 }
@@ -34,6 +35,7 @@ int Q_xap99h54(unsigned char Dx75F32,short int DsaRg,char uvTb2E8) {
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   double  jcm0N6YwB;
   jcm0N6YwB  =  -1816637848;

@@ -22,6 +22,7 @@ long long t58MBt510(unsigned int fsRwv5,unsigned long W2VX_6f,unsigned short U4N
  return 1930821890;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   double  H5Fm9r;
   H5Fm9r  =  -1321866513;

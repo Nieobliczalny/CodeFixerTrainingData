@@ -18,6 +18,7 @@ unsigned short int q7_zL9jY(unsigned long long Q4qn9_,long long X0DiQ1an,long lo
  return 697949771;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	ViMU07BHd7(unsigned short	s0dom7Fb_G)	{
 	return	-668626924;
 }

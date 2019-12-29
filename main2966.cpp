@@ -199,6 +199,7 @@ unsigned short int zg85GO(long rOtwsP1v,unsigned long EL5o7e151,unsigned long Ed
  return 1924025227;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int FX2Mdw1EaQ(unsigned short int S0dR__KcO0,short int K9Fo,unsigned short h_u3g5mgk) {
  return 0;
 }

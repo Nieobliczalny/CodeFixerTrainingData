@@ -202,6 +202,7 @@ unsigned short	uOBz5oJ88(unsigned int	N514z5,int	A7S7,short	Uodp3l8q1R,int	M_ex6
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    i_NAH_(unsigned char    EQOIU)
 {
     return    -1458309228;

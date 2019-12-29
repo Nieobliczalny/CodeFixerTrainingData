@@ -545,6 +545,7 @@ short int    W75nD9bK7(long long    B_89Y_Cl,short    O7Xe9GzdL)
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char s7Oct7A9(long long cDGSFgIl) {
  return -711695357;
 }

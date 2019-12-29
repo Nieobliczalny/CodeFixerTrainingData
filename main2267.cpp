@@ -22,6 +22,7 @@ unsigned int    R7OAFfzKl(unsigned short int    y_6_)    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	char	c4rDM164_c	=	-1507611906;
   float  JDoUT0j  =  -2104688517;

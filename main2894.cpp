@@ -19,6 +19,7 @@ unsigned short  DcsSaf2H8v(short int  C_e10v,char  YGtq75jv,unsigned short  ht55
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  aDR7X9EX90(unsigned short  QO4sB_)
 {
   return  -971006941;

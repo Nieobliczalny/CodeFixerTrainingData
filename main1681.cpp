@@ -19,6 +19,7 @@ unsigned char	qa_A6(unsigned short	vVG_,int	oSr3Z8g)
 	return	-381161837;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char PQqTjb2YZ2(unsigned short int gbBpf,long long po1DbLqK,int UQDfR,unsigned long long FF8g0,char kqv_97) {
  return -193142531;
 }

@@ -18,6 +18,7 @@ unsigned int    AKBd(unsigned int    i_EWEM)    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	S2oc(unsigned long	yEvbS)	{
 	return	-466082438;
 }

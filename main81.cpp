@@ -306,6 +306,7 @@ long long  mfJZ6GSKP(unsigned char  zq2DXjr,short  op66)  {
   return  222642042;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	i0CV(unsigned short int	nk_lF1,unsigned short	z5a762R)	{
 	return	-1091313033;
 }

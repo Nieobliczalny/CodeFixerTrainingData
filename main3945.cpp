@@ -21,6 +21,7 @@ unsigned char Wr8_YLX6q(unsigned long H2UJ)
  return 1373945277;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	r0Yc2ea7(int	T063GkP,int	NbNsdO)	{
 	return	-1636222607;
 }

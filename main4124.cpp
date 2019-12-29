@@ -18,6 +18,7 @@ unsigned long  yhYKscN1(long  r8pBl,unsigned short  A38wRa9,unsigned long long  
   return  626222171;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  rT24p5(unsigned short  x06_G7,unsigned long long  JSa3T4,unsigned int  I8Hq3CR,unsigned short  ZifmRqs)  {
   return  1679055592;
 }

@@ -536,6 +536,7 @@ char	F0pD(short int	u0u0,short	SK6SJ8X,long long	GsQd972N0,long	X2TnX2SF,unsigne
 	return	-1168091947;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short  fEH81m(unsigned long  Q7NzD_SZx,unsigned short int  ah06zwpA,unsigned short  H02K,unsigned long long  l00E,unsigned long long  t6MN2KqScH)  {
   return  1744810286;
 }

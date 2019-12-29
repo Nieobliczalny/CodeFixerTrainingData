@@ -23,6 +23,7 @@ unsigned short int FK5d89c(int lN_ZjA) {
  return 1768235509;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  Ec1_a(unsigned short int  BRci68,short int  S6W63hLl,unsigned short  Jn1ST5W8z,unsigned short  lX7x3t1D8g)  {
   return  0;
 }

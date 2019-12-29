@@ -314,6 +314,7 @@ unsigned long long uZuG(unsigned long HGLBAj0kz)
  return -656054599;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int d4B2(long Xe_Ek82,unsigned char T_b3C1QR3,unsigned int eU1kb) {
  return -1396653081;
 }

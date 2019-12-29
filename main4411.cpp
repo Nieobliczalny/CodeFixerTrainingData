@@ -159,6 +159,7 @@ char	fs8Si(long long	aM7VOBY,unsigned int	t2eQ9SC1,unsigned char	vDGM,unsigned s
 	return	-1720141300;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  gNjAE__(unsigned int  Kj5dNiA,long long  IPf873)
 {
   return  83884279;

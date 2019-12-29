@@ -19,6 +19,7 @@ unsigned char  NKkt(short int  Bfo0j7,unsigned int  N0J9Up,long long  Iqu06s,sho
   return  2028211199;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  BzJZsdM(unsigned long  GcBn2_)
 {
   return  0;

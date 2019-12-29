@@ -18,6 +18,7 @@ long long    f256N4(short    xqTP2C5T,unsigned short    FF_2MLh,unsigned int    
     return    1245470638;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    PuPjO1Tw59(long    k1Us_1j,short    P9_Q7Hp7,unsigned long long    KjxYU210v)    {
     return    570587865;
 }

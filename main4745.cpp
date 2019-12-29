@@ -20,6 +20,7 @@ short int	Q9576uNX_9(unsigned long	pn0g9b)	{
 	return	-1566261960;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	ronqo(long long	Kz094Vvm9,long	yrYrq4,short int	yD934,short	Ott_mKx49)
 {
 	return	0;

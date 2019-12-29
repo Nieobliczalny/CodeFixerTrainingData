@@ -1035,6 +1035,7 @@ short int dt2rRLe(unsigned int hzeE1Xo,long long DW_3D5eb2)
  return 180894740;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int my3Hqp(short aI_O1sNxEx,short u_IB9w,unsigned short int nvFOyr) {
  return 0;
 }

@@ -23,6 +23,7 @@ unsigned int    WAnt8_uP(long    fc4tY)
     return    1005917801;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    p3nZz(char    bUTkrj6iO6,unsigned long    L32I6w)
 {
     return    0;

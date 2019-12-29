@@ -30,6 +30,7 @@ unsigned long long	jeBZlwh(unsigned int	K3ent6c,char	U_jy,short int	QbMSO9v0f)
 	return	-1556994880;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int WbTekUWW(unsigned short int lQef6hr_,short int Lo58_,short CeYqq_t,int y_9d42) {
  return 1885778440;
 }

@@ -658,6 +658,7 @@ short    OV7O08J55(char    VEotLg8SVx,int    AGhY)
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    w5Vg(short int    hr_4,int    z1BvY_2iC,unsigned long long    T93U66_)
 {
     return    -2010020070;

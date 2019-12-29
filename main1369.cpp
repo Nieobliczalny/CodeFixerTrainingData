@@ -17,6 +17,7 @@ char	GuUq4u(char	i58RLpD,long	Dv4taP,unsigned char	g0TH49i,unsigned int	Lk7i)	{
 	return	1744838197;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int N_1vA0TM(short gy_u0j5,unsigned short IaSabHP6,char T_5wY0gx04) {
  return 1846169491;
 }

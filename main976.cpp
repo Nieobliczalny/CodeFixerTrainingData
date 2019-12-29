@@ -26,6 +26,7 @@ unsigned long	tiX_A_(unsigned short	ef1X3RAg,short int	T3942_3t,unsigned int	VHI
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	X5u_w667(short int	Q3E6Z2_,char	nK576,short	DIxBQfFOG)
 {
 	return	-2018531089;

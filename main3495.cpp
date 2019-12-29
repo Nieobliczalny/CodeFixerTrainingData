@@ -712,6 +712,7 @@ unsigned int	WPQOl(unsigned int	zC66CMqWx)	{
 	return	-1672351930;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  fUvh(int  gs5qjX,long  N1bN4di)  {
   return  0;
 }

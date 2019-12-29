@@ -20,6 +20,7 @@ unsigned char    IE_8_50p(unsigned short    u4_I3y,unsigned short int    a4p_ago
     return    -89323305;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  e20DpEUbR1(unsigned long  m6N8Z,unsigned char  L6RURc6S4,unsigned short  y0QS1vwQ_u,unsigned short  r4xT96)
 {
   return  1825537189;

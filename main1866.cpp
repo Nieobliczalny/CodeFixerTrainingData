@@ -523,6 +523,7 @@ unsigned short int  zV0Shc(unsigned short  ibxY2T3u,unsigned long  wr1Q)  {
   return  667841919;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    ZV9nc_lwIz(unsigned int    j8vnXQX,unsigned int    sX0s,short int    YdfRM0Y0)
 {
     return    0;

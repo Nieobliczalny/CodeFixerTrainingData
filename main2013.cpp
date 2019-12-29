@@ -772,6 +772,7 @@ short    aIsj9Z3(long long    IU_czKv54,char    j1tpe,char    u29SNvN6af,int    
     return    -1555295947;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	u4KCG(int	GUY9Ap0)
 {
 	return	-1063746136;

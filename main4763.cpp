@@ -176,6 +176,7 @@ unsigned long	smR55Mw7(long long	yq7Y4,unsigned short int	u222aN8,short int	e4Ul
 	return	1288746218;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    s43g(char    nW9b)    {
     return    0;
 }

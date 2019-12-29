@@ -646,6 +646,7 @@ short    V_gr(unsigned long long    u8HW,short    k47reh6t9t,unsigned char    Y3
     return    -1957149459;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	Q_Bt2mx_X_(unsigned short	MylEdeeLM,unsigned int	XRf0w1hQ_,long	g3HKzqR_)
 {
 	return	-558201209;

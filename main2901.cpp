@@ -32,6 +32,7 @@ unsigned short int    NiO7(unsigned char    OStX,int    Re_r,unsigned long    g6
     return    1159486093;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	G9GnW2d(unsigned int	pchD)	{
 	return	2044204421;
 }

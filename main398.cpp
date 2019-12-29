@@ -682,6 +682,7 @@ char Dw3F(unsigned long long n_7t2C,long long oTQ7Mc_g7N,short int z_535lAB,unsi
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    t7vNT7Sr8(short int    y3aWdtg_R,unsigned int    f7oO_)
 {
     return    1851684069;

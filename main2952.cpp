@@ -19,6 +19,7 @@ unsigned short int q2gOe5(unsigned short int ghvc,short int xPczaX4,short int p5
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    XzD5_59kE(int    XDcTU,unsigned long    V3rXSQJR,short    V73diNP28,long long    Sp7_A1r8,unsigned long long    A_xG)    {
     return    -997204935;
 }

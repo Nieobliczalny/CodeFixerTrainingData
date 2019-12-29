@@ -585,6 +585,7 @@ short int vATO1V8(int W9Zc,long OW_A2G,long oRTL10Q_Yr)
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long q9r2H4F(short N5_WI,long iTs7SU,short int l_F6B,long long b1C6hqox)
 {
  return -662782907;

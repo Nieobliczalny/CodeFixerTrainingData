@@ -327,6 +327,7 @@ unsigned short int    Kzj44(unsigned char    IG3FB1_Bk,short    qS3f,unsigned sh
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	GSLDi5aw(unsigned short int	Y1r3C,int	BB2WTn0,unsigned short	cpnx4VA)
 {
 	return	-824285225;

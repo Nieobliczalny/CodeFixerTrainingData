@@ -22,6 +22,7 @@ long  gPQ81EI_A(char  rrZ1J,unsigned char  hUcR86d49,unsigned char  bCFM86)  {
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  wNKR7r_5Q(long  wd0GW2Mo_2,unsigned int  osc8Y1,long  H_N_ZXWi2)  {
   return  1599959720;
 }

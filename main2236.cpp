@@ -34,6 +34,7 @@ unsigned short int    OW76(int    W_4K189,unsigned short int    d9xuyw)    {
     return    -704659555;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char MmxAp(unsigned short A2q_,long long HVUz0,unsigned int yHM0R6E)
 {
  return 1043457749;

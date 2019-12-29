@@ -19,6 +19,7 @@ short int	L8hec(int	L591ZThU2u,short int	Zf_2)	{
 	return	-2095704616;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	o6z_Xg2s_(long long	AJZM,unsigned long	GdKoy4,short	jX8DQP)
 {
 	return	1704695678;

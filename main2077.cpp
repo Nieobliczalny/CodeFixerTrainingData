@@ -21,6 +21,7 @@ unsigned int    Lxu5(long    K7liX9ub5,unsigned short int    X32oKWkR)
     return    -1347209417;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  v6zV_Zqpte(unsigned long  Wc7VE,unsigned short  K_dfx,unsigned short  JPoM408_)  {
   return  0;
 }

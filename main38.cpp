@@ -463,6 +463,7 @@ char	X5869q(unsigned short	py4mFh0E)	{
 	return	-1476929254;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short  Nk82(unsigned int  sOQNhgFDh4,long long  PP5Zlu)  {
   return  0;
 }

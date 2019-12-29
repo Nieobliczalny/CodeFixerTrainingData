@@ -286,6 +286,7 @@ long long eSAslR1(unsigned int ANpskloE,unsigned short int c57rgE3Z,long RSx_DU5
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    PErJT(long    o6iGi5_iE,unsigned int    Bc1H4JeF,char    Rs7vT55nf)    {
     return    -725914317;
 }

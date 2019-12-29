@@ -23,6 +23,7 @@ unsigned char zY6RMXx_1(unsigned int XVx16g,long w_78LN75h,unsigned char oyHKcMI
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     char    B0O6w,    kfiLejpE,    ZlKk,    wr2Em2n;
     B0O6w    =    0;

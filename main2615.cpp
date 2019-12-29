@@ -19,6 +19,7 @@ short int	SR6w(int	n912,long	i2K8g)
 	return	1696950476;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    LhTr(unsigned short    Wok_ju17,int    BGIEvE,long    U4T4goym,int    xUvU)    {
     return    0;
 }

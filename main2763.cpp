@@ -20,6 +20,7 @@ unsigned short  E6i2(long  selv,long  v9yxg8Wc,long  oGUkIiVc3i)
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int d4Hj1gL7f(unsigned short w1436oR,char F0Tlc44) {
  return -57873537;
 }

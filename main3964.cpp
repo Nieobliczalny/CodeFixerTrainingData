@@ -262,6 +262,7 @@ int SWOxBdP4(unsigned char PpNAx)
  return 999046496;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    p2UP(short    bGAPf88,unsigned long    kogph9h2H)    {
     return    0;
 }

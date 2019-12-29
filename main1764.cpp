@@ -23,6 +23,7 @@ unsigned char  q1s9xHYd(unsigned int  TWANHH,short  J4kDUy9Q,int  w4PgZfr2,unsig
   return  -1230458468;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int R21ZIx(long long ijUea5l6EV,unsigned short Ib4e75c) {
  return 180727818;
 }

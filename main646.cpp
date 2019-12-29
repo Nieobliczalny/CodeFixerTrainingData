@@ -505,6 +505,7 @@ unsigned int	tvUCF(long	TDD5,unsigned short	mm0MoE5L6j,unsigned int	OuW6k8513O,s
 	return	-1427397356;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	SXl3Eg(unsigned short int	M1iG_n,unsigned char	r9F97,unsigned long	R42D45J8,long long	vAaBVj8M,short	m_L8v)
 {
 	return	1838403651;

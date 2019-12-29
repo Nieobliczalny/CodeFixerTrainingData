@@ -630,6 +630,7 @@ unsigned short    Ksss31(unsigned char    Xrcj,unsigned long    wj81m,unsigned c
     return    1634949689;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short sMcfU2(long long ECJYsN,short Abdh0hZ82,long long S1t3kU) {
  return 1392226842;
 }

@@ -22,6 +22,7 @@ long long  h2xE(unsigned long  zF4_iCS,unsigned long long  v9492UY08,unsigned in
   return  -995501235;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    cC93drbs5(long long    EgK1Hh4qle)
 {
     return    0;

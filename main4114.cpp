@@ -799,6 +799,7 @@ short  zL8L06NOHs(long  aG4L798j,unsigned short int  nOJGd_zY8d,unsigned short  
   return  -6758707;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  X7usFcMA55(short  x5X5peEfl,unsigned short int  Tx6N4,unsigned short int  Jt0S,unsigned short int  S1GLd,char  kt8z15Q2)
 {
   return  0;

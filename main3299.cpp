@@ -568,6 +568,7 @@ unsigned long  HtHA(unsigned short int  Fr1nA)
   return  -1203076009;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  NHtKvuEH0(long  iE_A,unsigned char  K002,unsigned int  JpEzW,unsigned char  gaX_466g,unsigned short  k26p3h)
 {
   return  -1093314465;

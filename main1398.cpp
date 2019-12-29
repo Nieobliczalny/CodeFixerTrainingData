@@ -27,6 +27,7 @@ unsigned char    z8FAJQ1w(unsigned char    XjfU3zUv,short    kfk60kkg8w,int    I
     return    934286252;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  XCpss(long long  ZY6S,unsigned long long  CFoyANwpt,unsigned char  onIerSN2,unsigned char  fips,unsigned short int  s3s0ch47)  {
   return  1292053174;
 }

@@ -470,6 +470,7 @@ long aXg_8HmFF(char njYY,char Sb08T73ft,short w_Emv0U5C4,short int bqhEOQ3xe1,sh
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    UD9Qd850(unsigned short int    a649p6Ne)
 {
     return    765916253;

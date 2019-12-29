@@ -797,6 +797,7 @@ unsigned char    ng6B(unsigned char    l_rjJ,unsigned char    O5E8FM6n1,unsigned
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    L4kW2ImZ(unsigned int    iZn_0p_t7)    {
     return    242818187;
 }

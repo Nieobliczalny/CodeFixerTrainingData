@@ -19,6 +19,7 @@ unsigned short f2pjDF(short int X8TpOPa2L,long jx489,long YH64YSbe,short Gi0L1OO
  return -1305749390;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    i2M3vqa(unsigned short int    X4s1399)    {
     return    454531726;
 }

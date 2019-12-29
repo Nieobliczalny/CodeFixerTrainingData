@@ -19,6 +19,7 @@ short    cK626qK5j(unsigned long long    nvYq6,unsigned short    ZAyqYih,unsigne
     return    -721307669;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	HD_Z(int	WM88_39tXj,long long	wBXkMS,unsigned char	D9oGw0p)	{
 	return	0;
 }

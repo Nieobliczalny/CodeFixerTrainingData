@@ -369,6 +369,7 @@ char	wM2__StH3(long long	VQTlm,char	FajY20,unsigned short	Q_TX,unsigned short in
 	return	-944249829;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int Yf6ON3APc(unsigned short n2lBjl,short int N5W1,long R1leV3WU6,long long vR3D_53du,long yA0qwKOvJ2)
 {
  return 1089957506;

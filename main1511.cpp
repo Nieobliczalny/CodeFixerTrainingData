@@ -414,6 +414,7 @@ long long	CXySBP1199(unsigned long long	MzJ799h_0,unsigned short	wvOC81pT,int	eL
 	return	-198349200;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  e4ypwDU1n7(short  J3eWL,unsigned short  QNAWc95RH,long long  kuLD_U6T_Z,unsigned char  e2SwvQ)
 {
   return  0;

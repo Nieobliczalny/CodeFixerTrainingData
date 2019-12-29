@@ -28,6 +28,7 @@ unsigned long long    iq44s3uW2(unsigned int    MXsOt66e_L,unsigned short int   
     return    -2008964574;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    llnUl5cM90(int    ihDW24)
 {
     return    2140115980;

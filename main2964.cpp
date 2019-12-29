@@ -19,6 +19,7 @@ unsigned short	ovj__Knb(int	iKUs1Qm)
 	return	-618835399;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char TDBC2(int xtNO,unsigned long X0MLTr1D,short int tqD26_,unsigned short int KCR5Or,short int F377fv1XO) {
  return -202799531;
 }

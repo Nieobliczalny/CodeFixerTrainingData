@@ -18,6 +18,7 @@ short int ryj9iZ4(short int w73_k,unsigned long PB0MOZJ_,unsigned short qq0M,cha
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int NF6778K(short int M1Bmug,unsigned long ES73344h,unsigned char u9aN7SMlZ,short c_M95umh27) {
  return -1403818857;
 }

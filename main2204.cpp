@@ -19,6 +19,7 @@ short    rvz84S(unsigned short int    KK6D,char    iqjF64zn,unsigned short int  
     return    -291268885;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long bZ5n4(short pt1ed1J4g1,long F1yI,unsigned long Ht6p_2MFXa) {
  return 867538598;
 }

@@ -498,6 +498,7 @@ long    v3450V8A3(short int    rVQhu93,int    R0Yt_Y06,int    NVy4y_,short int  
     return    15426103;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    GtKvrs(short int    YV4N26Fppq,unsigned char    hCpqQ,short int    j9un9_fVzq)
 {
     return    -1621535845;

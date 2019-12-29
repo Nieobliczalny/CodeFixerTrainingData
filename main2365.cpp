@@ -19,6 +19,7 @@ short	eHzM4(long long	i24_LH4q1D,unsigned int	GA7WV4gt4v)
 	return	329871222;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    IiHNT(short int    wkJ7,unsigned char    ALo_0onL6c,short int    FSaMH)    {
     return    0;
 }

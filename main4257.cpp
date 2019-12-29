@@ -24,6 +24,7 @@ unsigned int  vy6_02EZ4(char  USP7Vc,long  LwZ7A4_8,unsigned int  e6M_ijHFp,unsi
   return  1542200458;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short C0SLJ2gJ8(long d2bU,unsigned short int DL3GYK0Qq,unsigned short kc83P) {
  return 0;
 }

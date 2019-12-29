@@ -374,6 +374,7 @@ short    HV87L61(unsigned short int    Pbz9_)    {
     return    -657929086;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int IN8xfv10Tl(unsigned short m3L2C6S,unsigned int VPOASo49) {
  return 1509036582;
 }

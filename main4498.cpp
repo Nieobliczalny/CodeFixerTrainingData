@@ -20,6 +20,7 @@ char  tT_u(unsigned char  v2ZS1)  {
   return  -36327822;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int VZ10S_63Ft(unsigned short VQ1IL,unsigned int gL4exE) {
  return 1265535870;
 }

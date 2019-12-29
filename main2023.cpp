@@ -927,6 +927,7 @@ short	Dbe40LJ(unsigned int	F2rt,short int	an0v3HrWGl,unsigned long	RaVh)
 	return	-2074886266;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    QNO9OD278(short    lyF4,int    pG3BWes568,unsigned short int    F8mqexLZG)
 {
     return    859183746;

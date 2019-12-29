@@ -776,6 +776,7 @@ short	YQ32hP(unsigned long long	NmBugN,unsigned long long	OnHRXCbJ,char	c2l4Eqf3
 	return	-808641740;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	xbVB4u5o(short int	Unl9OBO99,long	DAY5ZjX)
 {
 	return	0;

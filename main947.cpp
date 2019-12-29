@@ -18,6 +18,7 @@ unsigned char    R6Kk(short int    Q7szQdUwp)    {
     return    759295328;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    mp50692_I(unsigned int    jSa0,unsigned short int    SqSZA1m2fH)    {
     return    0;
 }

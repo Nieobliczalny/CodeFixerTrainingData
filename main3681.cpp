@@ -22,6 +22,7 @@ unsigned int	vB6DiO9j(unsigned int	p55wlOYB,unsigned long long	q8MPL,unsigned lo
 	return	472877210;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  HbgDbkc8Nc(long  uD_FBNT,unsigned char  gU8EIYJ7WL,short  Cr23Z)
 {
   return  -1257226108;

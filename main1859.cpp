@@ -22,6 +22,7 @@ long long	d_heE(unsigned short int	bUKi8fMd7,short int	vNfN,int	u94VUUK18)	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  L111BbO(unsigned short int  Pn8KBg0,int  vE0xT)  {
   return  -137320045;
 }
@@ -37,6 +38,7 @@ unsigned short int R1g7oF0E_(long long qFO3,unsigned short int tQNm0b,unsigned l
  return 2106995341;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  short LM8X6V6X3q = -1993967920;

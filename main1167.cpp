@@ -23,6 +23,7 @@ unsigned short int	UP6_9GgWHs(long	BhLFh_12)	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  gR_0Y(short  RT9s,long  HEk7_nGa)  {
   return  913718554;
 }

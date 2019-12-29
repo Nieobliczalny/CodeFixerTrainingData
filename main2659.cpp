@@ -22,6 +22,7 @@ unsigned int  VgE7S5O_(unsigned short int  ZNP0d7)  {
   return  -1421751506;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    T3TzGkiul(unsigned short int    Pm8NUk)
 {
     return    0;

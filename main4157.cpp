@@ -22,6 +22,7 @@ unsigned long	c45OzMJH(short	X8u5uzZ,short	qpjVk)	{
 	return	1771517592;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long anmY7(long ual26) {
  return 0;
 }

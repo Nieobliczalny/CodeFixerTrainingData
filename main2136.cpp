@@ -22,6 +22,7 @@ unsigned long	zw_B(unsigned char	BEd5qW,short	r2gUyvFP,unsigned char	NThid,unsig
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short Ra7W8JV3pg(long long klq7,unsigned short int p4DCdj)
 {
  return -1314641313;

@@ -651,6 +651,7 @@ long long  Yj__Fq(char  qn4URSJ,unsigned short  L3nn4aOxp_,short  vFdfa72ab,unsi
   return  692667366;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	dna55(int	vKS9Iv)	{
 	return	0;
 }

@@ -19,6 +19,7 @@ unsigned long long    h_3gEix(unsigned short int    cqX34z,long    HiL852o2)    
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  OW6Sle93(unsigned char  j8lC9lwLsl)  {
   return  733551321;
 }

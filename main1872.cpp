@@ -18,6 +18,7 @@ unsigned short int	yCQ2787u(long	Q5cVE,unsigned long long	uW9qF230WZ,unsigned sh
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int FZL2N(unsigned long long Ge8s1,unsigned char Gr12I58) {
  return -341476945;
 }

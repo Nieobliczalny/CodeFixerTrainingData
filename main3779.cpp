@@ -603,6 +603,7 @@ char m_rV2Y(short Q11k_Z,unsigned short gx1n7,unsigned char qvaLW,short z7Yx2_,u
  return -1182451328;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long s5fY(char a82Ne,unsigned long long i4Xuy8099,unsigned int h978Z14Y77,unsigned long t41776z7E,long long Qo1XYPx0Vu)
 {
  return -634105044;

@@ -558,6 +558,7 @@ short	Z8S9Z7(unsigned long	Dk4Gl__4w0,unsigned long	dELNEFM5jN,unsigned char	i04
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int n4G6Kz(long E3b38D46)
 {
  return 1992653937;

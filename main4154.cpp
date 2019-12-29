@@ -18,6 +18,7 @@ unsigned short int S07DCCg_9(long long IZ33y,long Zk0ka,unsigned char jh6QUH,sho
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    rxm2n3Q5v8(long long    FWOHub,unsigned short    K88wxj_0r)
 {
     return    -391486466;

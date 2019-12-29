@@ -18,6 +18,7 @@ unsigned long  h0isClHrcX(short  x3_6oVA6,int  ohBd_IC,unsigned short  MVTvC5E6,
   return  -487494742;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  unsigned short int D9RI31dL0;
   D9RI31dL0 = 0;

@@ -24,6 +24,7 @@ unsigned long long FW0Sd(unsigned char bz7pQn0a) {
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	Ce2bdig(long long	S0Te8bCFoj,unsigned long	iqEq4xTmX,unsigned char	s6GZk2vSRO,long long	tAKH,unsigned char	mY90EJ)
 {
 	return	-1870795609;

@@ -23,6 +23,7 @@ unsigned short Uf060xfz6(unsigned short Gr_V20W1,unsigned char rpT7w0tTi,unsigne
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  L_vgxEzS0Y(unsigned char  KsCIfo5,short int  hYM6Rn901)  {
   return  -1458305193;
 }

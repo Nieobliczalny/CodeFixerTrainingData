@@ -637,6 +637,7 @@ long long  BgjM(long long  uZ9R8Hf719,char  c4D3uu5z,long  W_vA)
   return  1789182174;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    GUxpfGVp(short int    rY5L3,int    l2uOuV8v,unsigned short int    IwanrDK41,unsigned char    UuOx_GxO)    {
     return    0;
 }

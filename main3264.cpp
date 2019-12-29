@@ -32,6 +32,7 @@ short	F1qplyBL5s(unsigned short	Ce_iKO,long	atZ4TXu4P,long	x3kPNAcHF,unsigned lo
 	return	-322320307;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  int afIVi;
  afIVi = 76826836;

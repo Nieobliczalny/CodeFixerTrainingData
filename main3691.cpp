@@ -18,6 +18,7 @@ short int siy_hU(short pMv_zpc)
  return -779284546;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  h83qqyt4N(short  tzbSM,unsigned char  n_42,unsigned short int  Is29y1W75,unsigned short int  cOQh54)  {
   return  0;
 }

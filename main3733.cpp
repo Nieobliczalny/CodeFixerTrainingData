@@ -418,6 +418,7 @@ unsigned short int LSX2Mk(unsigned int veyGzV,unsigned long long M4LnE9Db,unsign
  return 1786184037;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int c535dXqDB(char Bt9Udc6iFr,unsigned int Y_7p4M_2,unsigned long qGGtz)
 {
  return 1525594604;

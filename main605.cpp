@@ -482,6 +482,7 @@ unsigned char KaHQA6QDg(unsigned long long ZO0900NEq8)
  return -1345928165;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    OFo0d_uI(unsigned int    n_5610EzvN,unsigned char    aWTZ,unsigned long    xRgwEI15HR,char    m9P4aoo,unsigned int    IcZdnl_8C)    {
     return    -1180959590;
 }

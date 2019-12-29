@@ -600,6 +600,7 @@ unsigned short int	prT3lHWR(int	vQ8h264,unsigned int	i4R6Xv_p,long	hPpf_T4)	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    GNe8(long    WmNZooj9f,char    HO_ZC,short    dXK96z,unsigned long    DLRfok2,long long    NhVh3CjJY)
 {
     return    1373184960;

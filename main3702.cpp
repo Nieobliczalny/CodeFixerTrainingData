@@ -546,6 +546,7 @@ unsigned int	R1b_Z8Fd5(short	Z9C5mwX,short int	m41BX,unsigned short	z9x87d_)	{
 	return	-455760341;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long vcaV(long long hjzEv907VA,unsigned long long f840mAdh)
 {
  return 67215236;

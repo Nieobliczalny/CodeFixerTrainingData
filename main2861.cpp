@@ -23,6 +23,7 @@ short int  haOa740D(unsigned int  Zhf1)
   return  -147123638;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	a8KAt3(char	QadlM9)
 {
 	return	0;

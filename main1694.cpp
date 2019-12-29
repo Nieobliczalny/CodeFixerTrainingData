@@ -425,6 +425,7 @@ char D_IQ0aU(long long dq216353_,unsigned char h9150GkiCY,unsigned short int jgG
  return -1231985293;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short QjWIrCM(int lAZY1,int ltey5,unsigned long long dZklc27q8,unsigned char Lb19) {
  return 0;
 }

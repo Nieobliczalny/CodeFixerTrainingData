@@ -17,6 +17,7 @@ unsigned char	LaKc12sB0(unsigned int	D0rC_i6L4,unsigned short int	I6E6MUj,unsign
 	return	-821439460;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  R44iAr4J(long  x_Pgk)  {
   return  0;
 }

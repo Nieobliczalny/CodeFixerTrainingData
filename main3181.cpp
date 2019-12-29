@@ -19,6 +19,7 @@ short    QN6uD(char    z6370)
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	q1o56(short	xM_3_,unsigned char	Jmi0GaMdT,unsigned int	eiw1fd69T,long	c3_2_4kc,unsigned long long	a2KQR_i)	{
 	return	518693050;
 }

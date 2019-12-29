@@ -266,6 +266,7 @@ long long    F_HQFry9(int    GpJ6Mbijnr,char    ia0FO3q23,unsigned short    j9M6
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    aj6A(unsigned char    RbK8_u,short int    FIHy6a1o,short    vVN0E)    {
     return    378334562;
 }

@@ -22,6 +22,7 @@ unsigned char    Hx6XSB(short int    VMGlrwEy1,unsigned int    Sikd5A_,short int
     return    1777135338;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short Y00eZ6(unsigned char v0_h,unsigned char SL7Hd) {
  return -1938223049;
 }

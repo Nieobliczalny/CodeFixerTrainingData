@@ -30,6 +30,7 @@ unsigned int sk584(int q0W38xY,long sJUg1g) {
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	xa9N21167I(unsigned short int	KLHqY,long	l8733T,short int	jV12oP,short	SfNsiBEciU,long	nq5M7nHj)	{
 	return	-962464695;
 }

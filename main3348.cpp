@@ -628,6 +628,7 @@ unsigned long long o6lkLSzZeY(unsigned long long w2m7R)
  return 1212362910;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short jCzWn(short int O8N2aKUd,char Ew_79BWpQ8) {
  return 894327018;
 }

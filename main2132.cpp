@@ -388,6 +388,7 @@ long  X2U__O6(unsigned long  B3ZJh,unsigned char  iEWM,unsigned int  cFtpeK,unsi
   return  239356829;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	MqIcO(short int	JUYM,short int	Eau5IWD6,unsigned long long	mb_SR,unsigned long long	axJA,char	rv1nP)
 {
 	return	0;

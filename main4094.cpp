@@ -18,6 +18,7 @@ long D_T_l(int WK1WP07371)
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char DIre6fU(int jzghE,unsigned long s_KW,unsigned char vdZiU3T53,unsigned long long uWY4m2ke7A)
 {
  return 626914182;

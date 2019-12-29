@@ -23,6 +23,7 @@ unsigned short	rXceeg(unsigned long	u85ajL1_,unsigned int	rLln_8l61)
 	return	1403365912;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   unsigned short int  wG3eTw8,  IIz_S_T4M,  c_vQ2;

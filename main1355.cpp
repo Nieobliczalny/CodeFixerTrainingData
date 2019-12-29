@@ -26,6 +26,7 @@ int  je68se(unsigned int  L50Jka,long long  CQl9288,int  x3p6jZc_)  {
   return  -551170729;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     unsigned long long    Z_Qq    =    1552860754;
 	long double	s8D3	=	-122783873;

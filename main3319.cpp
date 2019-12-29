@@ -364,6 +364,7 @@ unsigned short YwSH10W(unsigned long uFkj4Xm9_m,unsigned short Zpd5DLZv,int S55X
  return 1457818321;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char b69J5Q(long B6Ne9Q77,unsigned short int xN4pmN3,unsigned int C6Lq964,long VrPPI7R,long pRWMxNhL9) {
  return 0;
 }

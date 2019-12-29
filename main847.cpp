@@ -172,6 +172,7 @@ char    y01E(unsigned long    O0qQFS8)    {
     return    -1329278438;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	n0WuQ(unsigned long	rD7Y242iC)	{
 	return	-393901217;
 }

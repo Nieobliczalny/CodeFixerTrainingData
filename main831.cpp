@@ -29,6 +29,7 @@ unsigned char	x5kSJy(short	q6v2S,unsigned char	UqtV2F_,unsigned short int	tS3rpj
 	return	634981854;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long ttS9D(unsigned int rqctH,long long N_tDXiavX,unsigned short cafl74i,short pysFE) {
  return 858228452;
 }

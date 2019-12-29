@@ -324,6 +324,7 @@ char qs9nWJl_1A(int z3M5jlC_,long HSyZ215,int VCU60,long long I_YI3) {
  return -585106576;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	a7Z96L(char	IA3arf7QI,char	z_Jp,unsigned int	a6Ri)
 {
 	return	1460527039;

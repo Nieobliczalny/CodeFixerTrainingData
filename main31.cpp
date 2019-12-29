@@ -17,6 +17,7 @@ unsigned long    VgpcE(short int    im8KEgK)    {
     return    -10828184;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	lIu0Pq3IN(short int	sNb71574dq,char	G8WukGfjt9,unsigned short	oJ8of,short	BmHX2)
 {
 	return	862711837;

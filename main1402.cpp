@@ -154,6 +154,7 @@ short    vhs1(unsigned long    z8RUF2txd,unsigned long    oBy1ko,short    hH742G
     return    1991492403;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	pzo7(char	P2Vv1q,short int	HnFTJRD3,char	mqmf2c,char	H_ObEAwX90,short	P806_kzVvN)
 {
 	return	0;

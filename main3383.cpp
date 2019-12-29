@@ -385,6 +385,7 @@ unsigned long BRU4(unsigned long long O4W_qd94mx,int p7IbLC_,unsigned int VCr0R1
  return -1873734070;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    K5jk2eU6Sz(long    Ia6Iu2g_33)    {
     return    -1186128493;
 }

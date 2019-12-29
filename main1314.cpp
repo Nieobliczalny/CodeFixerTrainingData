@@ -351,6 +351,7 @@ short int	BQP5Qg7(short int	am0n7D9vEl,long	TIfai,unsigned int	JmdpYN)
 	return	-2008836700;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    x7_0n4W(unsigned long long    De6P_V_L,int    C__US40VN,long    I6e_0,long long    KgyZI4)
 {
     return    -705631391;

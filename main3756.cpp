@@ -492,6 +492,7 @@ unsigned int	CMYJ6zsM(short	BZ55R_4_,long	hlW6,char	F01w_,unsigned long long	Vq9
 	return	-419772407;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	q_7J(short	VMC9)	{
 	return	0;
 }

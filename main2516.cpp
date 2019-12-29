@@ -607,6 +607,7 @@ unsigned long long	whU52yx(short	Bnwl4Iz37)	{
 	return	793913411;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	c7_I1sNS(int	RbLts,char	B66g9KT_71)	{
 	return	-1764657851;
 }

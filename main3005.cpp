@@ -19,6 +19,7 @@ int TMR3Uuu7_3(char DYl671,int Os11SUlDEb,int f5U3xQ6Ltq,char BvneM,unsigned lon
  return -482993026;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  FSkA8I2889(unsigned short int  pW2vBy3R,unsigned char  iJugFy,short  Jv3C,short  Fh_q2,short  hwnky)
 {
   return  0;

@@ -23,6 +23,7 @@ int xlU333(unsigned short int vdQ2,long zZflU8yNg1,short e4SK_1f3) {
  return 1373904620;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    wcWM(unsigned char    Cyg0oSmij,unsigned long    r3ee130rc,int    Rt3OC,unsigned short int    qlfA_3P7V)
 {
     return    1513101538;

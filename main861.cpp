@@ -28,6 +28,7 @@ unsigned short int W16OAIF(unsigned char eLpdr,int D_h9B6LS4E,long long au998_51
  return -19056434;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	Btnhe_(unsigned long	vyJEs,long long	KLgJ_)
 {
 	return	0;

@@ -547,6 +547,7 @@ long long	v5NKm(int	x4c4,unsigned char	Vt0hNz,unsigned long long	t8h7s7W7,unsign
 	return	-985542042;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long v7w8_g19uG(unsigned int fS5P6L)
 {
  return 0;

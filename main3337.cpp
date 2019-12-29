@@ -22,6 +22,7 @@ unsigned short    vu9_(unsigned long long    x9142fV,int    vkatDy7E,unsigned in
     return    1579398359;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long n_nCZ(char Wy7jMmQX,short int q_1K)
 {
  return 0;

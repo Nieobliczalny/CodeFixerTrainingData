@@ -735,6 +735,7 @@ unsigned long long	VH5j(char	Gqwp1ezjz7,short	dvM_i42my,short int	a5L52rbGG,shor
 	return	-83071097;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int O7Oo(unsigned long d4cSZJb,unsigned int xz03__dw) {
  return 0;
 }

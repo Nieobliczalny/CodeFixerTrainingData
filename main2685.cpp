@@ -21,6 +21,7 @@ unsigned long long    Ym227X(unsigned short int    KFO2li41)    {
     return    -1170858668;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short n5U3fx(unsigned short int DQ545750p,unsigned long Rv917GcViO,long long dI932y6E9,short GL20_2N2) {
  return 0;
 }

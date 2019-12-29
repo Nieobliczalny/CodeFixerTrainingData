@@ -36,6 +36,7 @@ unsigned char  CB5_z3(unsigned long  aRZS_lV,unsigned char  wcgG)  {
   return  616465107;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    v9302OxhDu(unsigned char    dB5l6,short    C5x_A,short int    geU3VC32Z)
 {
     return    0;

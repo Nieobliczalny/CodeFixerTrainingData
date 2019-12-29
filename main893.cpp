@@ -26,6 +26,7 @@ long	r3Jz6b7(unsigned short	i2WR,unsigned short int	L10EV)
 	return	-549874955;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  a4Pb(unsigned long long  ZDJ3J,unsigned long long  O_SJ_Zv,unsigned short int  x8O6k,unsigned long  rPzPmB,long  Z29miny)
 {
   return  2038595190;

@@ -21,6 +21,7 @@ unsigned short    C68fn4(long    F6375GL_mA,char    RaLOjg3u)
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short  D5ceXjFT(long long  s8dqMwMV11)
 {
   return  -437132521;

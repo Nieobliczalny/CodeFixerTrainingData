@@ -669,6 +669,7 @@ short int	Chij(unsigned char	MYm2V782,short	mRm15zN,unsigned short	CDRW_2QE,shor
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	cud6(short int	x6Ocl97K,short int	qcxnS_Lk,unsigned int	HJLSMQ,unsigned int	IFoDw7LIk)	{
 	return	920637305;
 }

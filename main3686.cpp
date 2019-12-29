@@ -252,6 +252,7 @@ int  xr6d(long long  hujr831,long  GEnTYR,char  oaXVUjS)
   return  -430356350;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  hIAry0_g(unsigned long long  SZX5JRc,unsigned char  liMrF53,unsigned long long  Z3ZC7,short int  C7VT6QXvO9)  {
   return  0;
 }

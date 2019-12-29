@@ -19,6 +19,7 @@ unsigned char    br4n4NPUL(short int    hmrAw_VCD)    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  char jTfbYA6, yoK1WlY, SgOEz, uAll4Vnx4W, kl81Ie, p__mm, sn7bzt6F0, Y6wFG, Ks7M6aj, DW1Nz, hu2YHs3V2K, kHWo8Ab_s, KxzVBZIg, a0g73166r, V_O4_09qB9, yH1Y038VC, x224s, zu7XqYS, J3RR9zJ1_, v2tz;
  jTfbYA6 = 1196747635;

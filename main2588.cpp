@@ -22,6 +22,7 @@ unsigned char    F7vL(unsigned long    AsB111_,unsigned short    HXhpe05Pq)    {
     return    2127619511;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    H6S1T7_Zae(unsigned short int    B13Ftg76F,short    GX598cIw)    {
     return    1567297189;
 }

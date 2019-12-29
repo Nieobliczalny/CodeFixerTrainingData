@@ -23,6 +23,7 @@ long xeRD(long long lTdA5b4C,unsigned short s19lIo0r,unsigned char asRAv2i)
  return -274334287;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    BPe9vuuy4Z(unsigned short    t0EB1BT1X)    {
     return    1733673007;
 }

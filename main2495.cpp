@@ -576,6 +576,7 @@ unsigned long long  Zn8mtXim(long  tH3_79qNxo,unsigned char  w8pmP31,unsigned lo
   return  603348793;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  FG5c3W(short int  y0_vvo,unsigned long  AMK3M,unsigned short  Yx_0OhBh)
 {
   return  0;

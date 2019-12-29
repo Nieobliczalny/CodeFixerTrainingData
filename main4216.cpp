@@ -19,6 +19,7 @@ char  R6K50q45X(unsigned long long  Q0EX8roR,unsigned short  pG2L6X4mq)  {
   return  -791766769;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long smrrHz5(short int tD99U,unsigned short int rglROkvuq,unsigned char c_T0SL2ph1,unsigned short fa3RXfchgJ,short G57I)
 {
  return -770908451;

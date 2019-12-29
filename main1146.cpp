@@ -453,6 +453,7 @@ unsigned short int	u5nI(unsigned long	d50P2_8m,long long	PLh00QSl8,int	Xg7PEx4b8
 	return	13508162;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	Db2BF(unsigned short	xfSf,unsigned short int	jZA8F24Ot,unsigned int	L5h9qPB,unsigned int	XMEnr9vc)
 {
 	return	-188430810;

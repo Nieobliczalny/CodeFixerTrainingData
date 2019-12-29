@@ -27,6 +27,7 @@ char TCg41(short Mpy43024x,short int m7_k6zo,unsigned long mbb0Evg)
  return -964746344;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    en6vdd3_(char    gXER7GnR97)    {
     return    0;
 }

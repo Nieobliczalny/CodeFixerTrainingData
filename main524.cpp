@@ -19,6 +19,7 @@ unsigned int	Ku3n4943(short	P_T61)	{
 	return	-822370342;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  k7EW6BxR40(short  z4nNvs,int  Lj8cih4Mj0)  {
   return  0;
 }

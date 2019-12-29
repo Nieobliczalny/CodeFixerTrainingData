@@ -22,6 +22,7 @@ unsigned long    GUZmu(unsigned int    hpm5C6h,unsigned long long    Hq5777,unsi
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   unsigned short int  OnX_r3;
   OnX_r3  =  218578558;

@@ -363,6 +363,7 @@ long	slt6xQTs(unsigned int	KYzB,unsigned char	zlFc4ds,unsigned long long	Oa25,sh
 	return	-352102828;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  YnTuQz4h00(unsigned short int  OROZ)
 {
   return  403093865;

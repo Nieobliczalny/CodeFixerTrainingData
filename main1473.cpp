@@ -23,6 +23,7 @@ unsigned short IaZ3NA2(unsigned long long ln0d,unsigned int Kijc,short int yXAHS
  return 22585655;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  z7cWl716G(unsigned long  tyZ8X)
 {
   return  2094302611;

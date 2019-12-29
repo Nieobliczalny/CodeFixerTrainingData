@@ -431,6 +431,7 @@ int eh8_DnX4s(unsigned int rwiJ6Q8,short wg9ZGT20,long long ddg1f2uS,char WPs49d
  return 2006448906;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	I7d0q(unsigned short int	TzS6c5908)
 {
 	return	0;

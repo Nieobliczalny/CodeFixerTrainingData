@@ -380,6 +380,7 @@ int N253tbS(unsigned long V9U8Wk,unsigned short d9V_8f0I,unsigned short int EqJs
  return -1316185503;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	EHyU1rr7v(int	xg0_5_uw76,unsigned int	rdv6vEy6)
 {
 	return	1477012913;

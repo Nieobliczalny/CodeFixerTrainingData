@@ -22,6 +22,7 @@ char    AOeR2(long    w0W88,int    Ehl9)    {
     return    1306962243;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    Yl9ynz6I(unsigned short    M9Pr7bp,int    QF9ZN61ok3,unsigned int    r2C41_,short    zdMfUd,int    IjKPrYw)
 {
     return    0;

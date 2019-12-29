@@ -497,6 +497,7 @@ unsigned short int  d_Q9_XWk(long  gFkrL63C3X,unsigned long  bV9NOFs,unsigned in
   return  -1140868368;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  dlv_R(char  BwxO)
 {
   return  444252436;

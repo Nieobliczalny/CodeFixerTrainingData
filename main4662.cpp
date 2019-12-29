@@ -21,6 +21,7 @@ unsigned long long    Y7K_H3Siyw(unsigned long long    Jr4PDuA3g1,unsigned long 
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	long double	z4f0z	=	1219464392;
     long    CXu0g    =    1947353828;

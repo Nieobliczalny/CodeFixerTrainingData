@@ -22,6 +22,7 @@ unsigned int	hF69u(long long	CkrSJ,int	lti_BS)	{
 	return	632650871;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  mJnwnjWl(short  GxKL9yb)  {
   return  0;
 }

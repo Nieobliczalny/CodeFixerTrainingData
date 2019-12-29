@@ -27,6 +27,7 @@ short  N_lDDR6W(char  c7_4,int  AVo53_,char  dt_v0_c6,unsigned long long  jq09N)
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  unsigned short int Q4b4 = 666992208;

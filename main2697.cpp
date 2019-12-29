@@ -369,6 +369,7 @@ char	QOk_(unsigned long long	pZxzFj,unsigned short	N8VhMN)	{
 	return	1981064694;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short Sm97_sPre(short CwMX9MN2B,char koIqAmK,int KHYS_6XXPI,char reLu3dA,unsigned char EfKr_D7_0)
 {
  return 735974082;

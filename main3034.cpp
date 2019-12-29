@@ -31,6 +31,7 @@ short  F1RgW(unsigned int  w85cH,unsigned short int  q99l71,short  I2DieB19Da)
   return  156389161;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int gpMHU1An0A(unsigned char YSFf2)
 {
  return 0;

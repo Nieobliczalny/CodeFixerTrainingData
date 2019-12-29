@@ -499,6 +499,7 @@ unsigned long long	Pl6HlC1A(unsigned char	q7C_j4h)
 	return	406303372;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    dd4QR(short    Ng2Kj)
 {
     return    -940116318;

@@ -31,6 +31,7 @@ char U31a8(unsigned short CUQjyLh) {
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	E71C8(char	s6Ck4,unsigned short int	x93NtjpZ,unsigned long long	JdB958D2)
 {
 	return	1792376572;

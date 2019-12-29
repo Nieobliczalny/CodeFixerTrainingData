@@ -23,6 +23,7 @@ long  E1_ML_W(short  enghBa,unsigned long long  fiYJTUuq,char  cRl_7izefj,unsign
   return  -148795359;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    IsRo(unsigned short    xHO8Oibd,unsigned short    Ysg3rw)    {
     return    -1459934337;
 }

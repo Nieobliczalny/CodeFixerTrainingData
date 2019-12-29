@@ -28,6 +28,7 @@ unsigned short int E52RY_T(unsigned long xb5y,unsigned short int cDZII_y7,unsign
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	S1Q7aZGT9(long long	Z_eWA9g)	{
 	return	1238469325;
 }

@@ -18,6 +18,7 @@ unsigned long long	mz1Ex_x3l(unsigned char	XVYY1Quxn,char	gue1MQY6,unsigned char
 	return	1245931372;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	MpWV(long long	mniLf3X85w,short int	esj1WD,unsigned short int	sfYjqZzp,unsigned long	rxbG47t7I6,long long	x86Vppqor)
 {
 	return	-1373615692;

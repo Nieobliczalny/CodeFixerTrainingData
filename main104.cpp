@@ -37,6 +37,7 @@ unsigned char    KIIj45(int    ZwEP6Q,long long    LS449_842,short int    zGcx2,
     return    -574902146;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   unsigned short int  rfpQ5;
   rfpQ5  =  1808987195;

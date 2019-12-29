@@ -17,6 +17,7 @@ long long    G9A_902P(char    AGgZ2G_,short    s22Y,short int    F7k0434L)    {
     return    -1196839594;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    l0z45CLGzc(unsigned short int    il2c,long long    iCVabC9)
 {
     return    0;

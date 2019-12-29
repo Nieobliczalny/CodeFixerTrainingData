@@ -38,6 +38,7 @@ short    e9auj2(int    eJ0tuedU8,unsigned long    u910bVM7)
     return    1477765589;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	double	VsIf1QEmlX;
 	VsIf1QEmlX	=	-664740811;

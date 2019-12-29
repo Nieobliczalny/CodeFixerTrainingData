@@ -318,6 +318,7 @@ char PB_P01t(unsigned long long e4N9n3i6r8)
  return -183261811;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	oR_o(unsigned int	PKigrmce,short	pu9xR63w2a,char	rsDILh,short	dDZ3wXK,short int	y_408_BR5z)
 {
 	return	-830403188;

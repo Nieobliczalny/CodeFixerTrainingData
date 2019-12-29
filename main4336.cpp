@@ -376,6 +376,7 @@ short    s747aBAG(unsigned short int    i06G6g6pA,unsigned long    p7Vw5t,short 
     return    -1084674624;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  xD6l33(long  N7H2c,unsigned int  db77Q0BdtJ)  {
   return  134637249;
 }

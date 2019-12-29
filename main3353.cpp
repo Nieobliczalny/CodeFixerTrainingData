@@ -27,6 +27,7 @@ short int Gk8PxU_8i(unsigned int GDUem5T63,short DG7rjbjqh)
  return 843137168;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  short b96RVGJ2 = 128147151;
  unsigned char WLV6Z = 1513881645;

@@ -652,6 +652,7 @@ unsigned long	M7xw(unsigned short int	e4f1c_0,unsigned long	I19_,unsigned char	v
 	return	1310219649;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int u_Pz_(unsigned char Nf2n8kR,unsigned short kv79HLcC,short int JN9Q2zI)
 {
  return 616305632;

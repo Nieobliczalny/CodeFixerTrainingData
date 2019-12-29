@@ -462,6 +462,7 @@ unsigned long long eoxiGgkWM(int c0uU,unsigned int k_jnQSes,unsigned short int X
  return 36781447;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short zf060Kpi8(int K90X,int uBjlf,int nxICmE)
 {
  return 1562236875;

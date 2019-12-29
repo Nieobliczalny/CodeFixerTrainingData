@@ -192,6 +192,7 @@ short K729_Ke6(unsigned char am3p,char fWpAbzwAO4,unsigned short iV1861y34O) {
  return -554666359;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	VCJQt7Zrmi(unsigned short int	D9B9cmf0)
 {
 	return	0;

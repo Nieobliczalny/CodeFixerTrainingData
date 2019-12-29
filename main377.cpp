@@ -21,6 +21,7 @@ short	v_gSjY85(unsigned int	A43YEQC83E)	{
 	return	714635104;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    rVC5Py(unsigned long long    w2Ojq1t,short int    VmOv4__y)    {
     return    1025933064;
 }

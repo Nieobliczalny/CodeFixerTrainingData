@@ -27,6 +27,7 @@ int sYtQZd5(unsigned long long pYrs_qfD_4,unsigned short ddMVxhsN7)
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    oP8QBbP(long long    DX_6,unsigned short int    oD_L400Yw,short int    J5tgA23T)    {
     return    -1992522775;
 }

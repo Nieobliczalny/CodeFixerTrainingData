@@ -115,6 +115,7 @@ unsigned long	L7i1(unsigned short	xLAS,unsigned char	nm9j,int	t8_9aZ6V8)
 	return	649852185;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  b2ypCc0hmL(unsigned short  XtF6,char  ners7_,unsigned char  GPEwfkLF0,unsigned long long  op22r_F,unsigned char  dP96hy4CaF)
 {
   return  0;

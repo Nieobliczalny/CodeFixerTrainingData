@@ -250,6 +250,7 @@ short int	gCg5(char	uXPQd)	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    HO9KW(int    l6NU7X)    {
     return    -937806934;
 }

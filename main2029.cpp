@@ -19,6 +19,7 @@ unsigned char    oZ59(unsigned short int    gr29endsL,unsigned short    ndbSxMI,
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    xT20(long long    Y9Tw49Ery,unsigned int    ID97N,short    M6Z_v,long    q609tc,short    D1Q_)
 {
     return    -1952342778;

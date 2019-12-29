@@ -31,6 +31,7 @@ short int  k_ybt(long  FpG7,unsigned long  B08r8C,short int  o2R9A_f4,int  Wz6Ep
   return  370573567;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    BL8Y0i2(unsigned long    UNpa,unsigned short    d3f8dL71_,unsigned int    Qt18736_a,int    YI9SF,long long    e_7Hjht)
 {
     return    0;

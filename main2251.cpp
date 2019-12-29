@@ -248,6 +248,7 @@ char hiawWf(unsigned short I9qw0f,unsigned short Y3nd5,unsigned short int b1X35_
  return -507848082;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    Hm__Z714p(short    U_k9Lz3_y2,unsigned char    koDpdQ,int    hzEwNTN)    {
     return    0;
 }

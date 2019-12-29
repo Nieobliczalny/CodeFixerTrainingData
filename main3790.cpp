@@ -23,6 +23,7 @@ int  E3sbkpAtW(unsigned long long  D8MLRB8,unsigned char  V7z9l5,short int  pop7
   return  469046014;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     unsigned long    RT3R_x    =    -746452685;
   unsigned long long  u6x5  =  -683903178;

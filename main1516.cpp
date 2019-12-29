@@ -27,6 +27,7 @@ short int    tKdg9iQ18(short int    ll7tM1,short    R7a896,unsigned long    xX9m
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	spb_(long	DH9EV2P)
 {
 	return	207984476;

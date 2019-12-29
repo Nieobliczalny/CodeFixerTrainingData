@@ -19,6 +19,7 @@ unsigned short	pW4asS6n(long long	Qr8Z,long	WG2ORR1AM5,long	ynB8iZV9,unsigned lo
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long RC38(long long P_Kh,unsigned short DS31y8925,unsigned int V330Z02yTB,short int FWd7uVT2fH) {
  return -636314482;
 }

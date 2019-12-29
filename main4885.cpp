@@ -22,6 +22,7 @@ unsigned long long AptkulBa(long long fLB3KYv,unsigned char ZUsvV9qu4) {
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  ADw13W(short int  B3tDurcSiw,short  C3HY)
 {
   return  1071315803;

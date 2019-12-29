@@ -31,6 +31,7 @@ short    B7e5ye6(unsigned short    SZ787)
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    m_t3wIx_(short int    SLXX)    {
     return    -1854569854;
 }

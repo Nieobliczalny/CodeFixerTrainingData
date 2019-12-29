@@ -19,6 +19,7 @@ unsigned short int FF10f0M(long pr69ti3vI,unsigned int vTrh8HRQP9,unsigned long 
  return 51548392;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	e5h_(unsigned short int	N9rg2O,unsigned long	Y5den,unsigned short int	Js7Bz64r7,short int	FZA21_13q,char	Uc6TtU)	{
 	return	-1275078885;
 }

@@ -24,6 +24,7 @@ unsigned short ae_VEs0(unsigned long long iv6y5IR62,unsigned int gF2jxOZi,int X9
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	short int	vTyCIY;
 	vTyCIY	=	0;

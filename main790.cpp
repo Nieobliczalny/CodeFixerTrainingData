@@ -711,6 +711,7 @@ char    VutH_S_D(unsigned short int    PLv_,long    G4bKSAd,short int    PTT6)  
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    sy0T4(unsigned int    K969,unsigned short int    MXO8,int    ECg7m0Y3)
 {
     return    783671815;

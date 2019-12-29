@@ -403,6 +403,7 @@ unsigned long    PAs5Q_(unsigned long    HE1qoR)
     return    -1175578245;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long O1sr_3E9(unsigned short iTEJ_,unsigned char d6Yq_xqB,unsigned short int G75X8638I,unsigned char o_UU1301W)
 {
  return 0;

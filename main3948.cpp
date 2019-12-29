@@ -650,6 +650,7 @@ unsigned int	q67v_QSX(unsigned char	FDEPH48PJ)
 	return	-344913751;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  sR_u9eae(unsigned short  MlTtuO0ycc,char  bEnh0x12r)  {
   return  -863335731;
 }

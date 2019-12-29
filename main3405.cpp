@@ -22,6 +22,7 @@ short int m51g156(unsigned long ln9E_2,int b5Fv2_8eY,unsigned short xB0vvnO57X,u
  return -1096039122;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	qEz0KN(unsigned long long	dT9y8nTz,short int	cpbp520jA4,unsigned short	EbjYX_w)	{
 	return	-641362446;
 }

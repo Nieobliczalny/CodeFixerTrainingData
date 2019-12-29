@@ -20,6 +20,7 @@ unsigned int    Pi_1y0bD(unsigned short    M0iju2e,short    xPsbTtfb,unsigned lo
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  n_42Kc(unsigned char  sZYG1h_X55)
 {
   return  -1977377876;

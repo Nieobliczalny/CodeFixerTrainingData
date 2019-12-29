@@ -35,6 +35,7 @@ unsigned int  O93d(unsigned char  f5Vd,short int  chIXsovU,long long  ceMty,unsi
   return  486423082;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   unsigned char  B2C0M4Go2;
   B2C0M4Go2  =  -1038482801;

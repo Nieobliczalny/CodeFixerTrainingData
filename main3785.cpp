@@ -19,6 +19,7 @@ long peDn(char p1q1h0K7DD,unsigned long msW7o2z)
  return -1636329908;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    a_CUr(unsigned long    av9aZY_,short    G1ox39UZC2,int    Iu0Ngt)    {
     return    -2122060489;
 }
@@ -34,6 +35,7 @@ unsigned short int X7hW1hE(unsigned short P4pC2)
  return 464345364;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	char	wDSG;
 	wDSG	=	-991713723;

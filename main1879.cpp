@@ -22,6 +22,7 @@ long long	UAQ0QJ4(unsigned short int	qk718CmU,short	Tb93BO,unsigned char	ZeaE7V9
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   unsigned int  sZ2yBU,  rIVjEzMq,  m9jhg,  fWdU__,  SUDb;

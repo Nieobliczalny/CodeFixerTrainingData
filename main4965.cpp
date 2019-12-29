@@ -299,6 +299,7 @@ long long    GR567(short int    yqga,short    CU4Y,unsigned long long    obV58_7
     return    -1465318301;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int j0X21_4Z(short vN2oUp75Y,long long L_b6,unsigned char sYg89)
 {
  return -279257617;

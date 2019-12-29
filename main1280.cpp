@@ -352,6 +352,7 @@ unsigned int	Nj2n_HIx4_(short int	wVnsR,long	Aa6Ts)	{
 	return	-737467160;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	c9tIF(short int	zJMTQFQpY,unsigned int	Uap_2)
 {
 	return	-1587755522;

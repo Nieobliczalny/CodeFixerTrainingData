@@ -19,6 +19,7 @@ long    wTJ754_P9(long long    daP5,unsigned short    ire7QyOpe,short int    gCd
     return    149661095;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    FY1jGf_74(short    k13qw_,unsigned int    iU_D,unsigned long long    tHw_S0Ny6,unsigned long    afgG0n)
 {
     return    1199263187;

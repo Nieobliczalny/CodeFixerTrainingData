@@ -28,6 +28,7 @@ short    K0XH3ij(long    r2dE,long long    Pcu_,unsigned char    AGTzXz,unsigned
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	kU9ZFQ9n67(short int	Om3JY244n,int	m_u8K_7u)
 {
 	return	684646396;

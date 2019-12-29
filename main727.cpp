@@ -445,6 +445,7 @@ short H2J2z5LJ3(unsigned long u72YxcNo2,long long wO1TNyHQ)
  return -1013658849;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int kU8c36ok(short int TWfR2w66m,unsigned long Y07__X64su,unsigned short int VDKwde,int jlFaww7J)
 {
  return 1678196474;

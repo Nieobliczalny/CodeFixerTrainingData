@@ -303,6 +303,7 @@ unsigned char    R64PGT(short int    zHfol55_)
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  Y8Iujma82(short int  ld6RU3)
 {
   return  -607316758;

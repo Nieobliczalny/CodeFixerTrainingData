@@ -26,6 +26,7 @@ char  klH92(unsigned short  D9akpX_bEl)  {
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    WQ9k9ti(char    s5x4,int    m53so5)    {
     return    -1722396889;
 }

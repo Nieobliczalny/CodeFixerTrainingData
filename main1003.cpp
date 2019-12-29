@@ -23,6 +23,7 @@ long long  Gyt4jES675(unsigned char  skvVrhn5gC,char  h0506i3y,short int  xe8Q2S
   return  -1392781182;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    Vtli_(char    WKjdq,unsigned char    JbLu5,long long    TMvAGp6_P,unsigned int    eNkX)
 {
     return    219242417;

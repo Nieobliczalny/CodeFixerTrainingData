@@ -20,6 +20,7 @@ unsigned int  ES5va6(long long  P2o6E0Q6,unsigned char  yYz3,unsigned long  p_2Y
   return  1863544391;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	eQnt(unsigned short	qt42Crd8_e,unsigned short int	F2__znY3,unsigned char	qCAx6ck,unsigned int	r2Dq)	{
 	return	0;
 }

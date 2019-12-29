@@ -422,6 +422,7 @@ unsigned short o1s_gqu(unsigned short int AF78Ri) {
  return -1893850324;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    n9D_OZPI(unsigned int    e65_qB2P,short    SV7ime,char    bSvJl,char    zYzs41)
 {
     return    0;

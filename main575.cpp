@@ -19,6 +19,7 @@ unsigned char	V0pF1Q(unsigned short	j087nB,unsigned short int	q52zBL,short int	E
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	O82g(long long	Ba8Mqs1,int	pA_1,long	YX9C,char	IV6Is,unsigned long long	lgC8V5JL0)
 {
 	return	1984738306;

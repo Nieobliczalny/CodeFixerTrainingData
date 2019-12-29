@@ -23,6 +23,7 @@ long long RlV8774_Z(unsigned short S3GlN5,unsigned char ynDWv_bS,unsigned long l
  return 1075035146;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    oszpSC32v6(char    LZe4e79hbY)
 {
     return    0;

@@ -23,6 +23,7 @@ int	sEGqT(short	a4sUD5g5y)	{
 	return	-1443243657;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    q_jkF9fwDI(long    zgjNLWt)
 {
     return    0;

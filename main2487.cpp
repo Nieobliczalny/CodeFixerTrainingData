@@ -23,6 +23,7 @@ unsigned short int  HMm098IFk(unsigned long  d8nNSV1,int  IE_49k08,unsigned char
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  long long it108_5Gll = -743530223;

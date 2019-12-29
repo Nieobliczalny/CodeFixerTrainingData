@@ -19,6 +19,7 @@ short    tnfZ2(unsigned char    jpjl)    {
     return    233224729;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	long long	w8_W3_EGVl;
 	w8_W3_EGVl	=	0;

@@ -614,6 +614,7 @@ long	yv77(int	KZ_w0rSb1,short int	cu396n11,long long	D76al3,short int	iHZc28_5oc
 	return	80423192;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	K9Qf41P(unsigned short int	oRL6f7K1,long long	uPZd_R2At)
 {
 	return	0;

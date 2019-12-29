@@ -19,6 +19,7 @@ long long	RD05k7C(short	wX_8664Wsx)
 	return	-357016148;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char E7r_na(unsigned char X5f11_n,int YK21R08DN)
 {
  return 0;

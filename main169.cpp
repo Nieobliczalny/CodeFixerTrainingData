@@ -440,6 +440,7 @@ unsigned short int	B7co_PT(unsigned long	x47J7031Y,char	Y80K,short int	DEbT6,lon
 	return	-882137242;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    m02TCabtG(long    DCh67)
 {
     return    246901628;

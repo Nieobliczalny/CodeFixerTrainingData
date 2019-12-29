@@ -22,6 +22,7 @@ unsigned short int    Ux1ii(unsigned long    xXnH7Ot9,unsigned short    I178ZSL,
     return    2054940714;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  OW0G42(short  A23ZH64,short int  bT5U_2_a64,unsigned short  PasT_i,short int  iZKK)  {
   return  -607140821;
 }

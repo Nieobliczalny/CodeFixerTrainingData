@@ -24,6 +24,7 @@ unsigned short int    xrQI9(unsigned short    BGb7r1C87E,unsigned short int    d
     return    1080949102;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	bP6J56(unsigned short int	YrC_v,short int	RacC,unsigned long	C4wCJFH6,long long	NJJH0jpfz,unsigned int	y6m740p_1)
 {
 	return	2014798828;

@@ -26,6 +26,7 @@ unsigned char    U0xG70q(short    CsVKslEgK,unsigned int    SZ9Z,unsigned short 
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long E5_EGu9Cv(unsigned char IwZC,unsigned long y01Bkwi,unsigned short int FZ9K3TQ65r) {
  return -1691031985;
 }

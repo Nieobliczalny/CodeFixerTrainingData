@@ -19,6 +19,7 @@ long long    RLSS(short    PvDAhnF,unsigned long long    g7E6G,int    GcbH9x,cha
     return    -1590709503;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short KR2Y(unsigned int ljB1x,long Ed_8eh,char mE9Rq) {
  return 326489282;
 }

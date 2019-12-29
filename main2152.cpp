@@ -19,6 +19,7 @@ long	Vf9812B(int	An535,long	DGc0NqX,unsigned long long	MbkxU_1,long long	baJO,lo
 	return	-1512623642;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  XwUmkrFD(char  R6ht4gJh_6,unsigned short int  Z3vs1O)  {
   return  -1859229080;
 }

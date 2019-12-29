@@ -19,6 +19,7 @@ long long    kMXW2G_90(int    n8T7,long long    qfz9YCap,unsigned char    pgUny7
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int h2TGQ5(short int b2hWkxYd4i,unsigned long ahD_lYK,long long XUh4cHJZ,unsigned int Ubs3q5S5J) {
  return 421958128;
 }

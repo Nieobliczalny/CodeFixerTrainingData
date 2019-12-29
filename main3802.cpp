@@ -23,6 +23,7 @@ unsigned short int UM9A0872(unsigned short LD1d_eU,int FNYMKwQkE5)
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    i59a(unsigned short int    o9qvS,short int    EzNtJES,unsigned int    y98s2Gp,unsigned long long    yg9eESbg2,unsigned short    oOHnI1a)
 {
     return    -1265105064;

@@ -23,6 +23,7 @@ unsigned long long  po2UX37C49(unsigned int  IK_xgQQm2,char  mms869sf2z,long lon
   return  -15142254;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	unsigned short	R6RdLP	=	0;
 	unsigned long	J8hr10E_	=	1389683550;

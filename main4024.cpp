@@ -21,6 +21,7 @@ long long NwP271(unsigned short zKjfSaw61,unsigned long long llMB_W5H,unsigned l
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    W834NXxTB(long    k3AQD4,unsigned long long    t2j4d4B,unsigned int    uE75,unsigned char    Uwedp)
 {
     return    1712798147;

@@ -20,6 +20,7 @@ unsigned long long ObD0(unsigned char JPXb_WTcp,unsigned short int Yg6vs8k,unsig
  return 504789915;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short ZTu1d(unsigned char v0TU) {
  return 1916193282;
 }

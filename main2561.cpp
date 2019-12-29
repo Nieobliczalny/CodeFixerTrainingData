@@ -18,6 +18,7 @@ char vCkWu8L(unsigned short BCAwnr6O,unsigned short int BhsK,short j4mj9,char FF
  return -308194242;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int FZn1_q4(long Ahf1q5,unsigned long z05DfTRj3,unsigned long aM0I_V8Rg,short int JYV1Qq2,unsigned char D8j2y0u) {
  return 1880676428;
 }

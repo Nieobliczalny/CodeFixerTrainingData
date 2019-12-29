@@ -21,6 +21,7 @@ int	Pp3Xyvt2(short	P8yu,short	lcnMwaJK6)	{
 	return	2088303976;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   unsigned int  ofsU_7R13  =  -148396071;
 	unsigned short int	p466	=	67048475;

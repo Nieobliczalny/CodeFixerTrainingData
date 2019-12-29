@@ -39,6 +39,7 @@ char	LKGIOTXr(unsigned int	bA_81P3I,char	bNR9If,unsigned long long	TPWqmhYB,int	
 	return	1803409204;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   short  hGnY  =  -926906407;

@@ -382,6 +382,7 @@ short    wj1fJO1_uZ(char    ChMfj2p)
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  Kwu36Z24(short  Y7JS,char  vM48Ugw,unsigned int  Gf_9,short int  Za3X25)
 {
   return  -1105536470;

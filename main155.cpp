@@ -582,6 +582,7 @@ long long y6oA5k4hq(long long ROecuBJ,unsigned short int uteyt8I,unsigned long l
  return 1363145898;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	OvSyD(short int	hx8M,unsigned short	v59u,long	N9Tp_)	{
 	return	486659230;
 }

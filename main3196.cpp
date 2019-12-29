@@ -502,6 +502,7 @@ short int Ojb8(short F9SHZ,unsigned int TR8jLI)
  return 420204331;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  wMnl(unsigned short int  PxlCjxvR2)
 {
   return  -1481767047;

@@ -17,6 +17,7 @@ unsigned long long    w2Ris(long long    oBq5Qb)    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    F93_jDN0(unsigned short    A1wU43,unsigned short    NkJdJdP9,char    U6ZOpA,unsigned short    XjiqJc)
 {
     return    -204642422;

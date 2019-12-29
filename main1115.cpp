@@ -19,6 +19,7 @@ short DWSzVfsW(unsigned long long vbVuPm10,long long r6j19o5,long long igA3HP8,s
  return -670760509;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    XP_4Q(unsigned long long    A4lH,short int    N_F9Fv4Ylz,unsigned char    MX_o,char    IK_vPetAD9)
 {
     return    0;

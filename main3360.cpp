@@ -27,6 +27,7 @@ unsigned short  XP7wR2(long long  fJ0wX3Bg,unsigned long  HmEt2L,unsigned long l
   return  -612754360;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	ei425(int	Qsyd62BUL,int	V4htT82uU,unsigned long	in4y_LZV2T,long	M_REN)	{
 	return	-1250255206;
 }

@@ -35,6 +35,7 @@ long d3cgK(short X_2AW7qoW1,unsigned short KZ1fW01) {
  return 159768133;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   unsigned long long  Oakv1e91a,  Wu0V4GS,  zglf1fRp_q;

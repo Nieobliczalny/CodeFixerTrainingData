@@ -990,6 +990,7 @@ char	w8_w313L(short int	f5T5gULf1)	{
 	return	1132256084;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  cIOS_(unsigned char  S784CM0,long  Vk4vlqi,int  xAG7i)  {
   return  -576183154;
 }

@@ -18,6 +18,7 @@ unsigned short int  igOw(char  tssn8D97,unsigned short int  kh8G6mTh4d)  {
   return  -653946877;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    w786ZlZj7(short    lbl_Kd1ej,unsigned short int    HRUf,unsigned int    KLqd28v)
 {
     return    0;

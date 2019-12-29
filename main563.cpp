@@ -226,6 +226,7 @@ long long    MhES52eB_(short    cSwDIZ,int    nQw6jOIX4)    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  pR2H3(unsigned short int  ERTn647d7)  {
   return  352927370;
 }

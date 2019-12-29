@@ -19,6 +19,7 @@ unsigned int    rfPvl(unsigned short int    bgm025y,unsigned short    AJk44,shor
     return    -1055754607;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  EM56(short  ix_9,unsigned short  K58_4,long  Fg94gD2c,long  vICTT21265,unsigned long  J065jkV3)  {
   return  -1530118457;
 }

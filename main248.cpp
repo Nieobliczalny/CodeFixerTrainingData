@@ -319,6 +319,7 @@ unsigned int ktPZgj1z(short BEf5OV,int nBuL_t9gI0) {
  return -134686507;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	vTl22TP(unsigned short	L5VZ_t,unsigned short int	wtc_,unsigned short	To_5)	{
 	return	-2067612837;
 }

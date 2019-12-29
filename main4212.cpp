@@ -151,6 +151,7 @@ unsigned char Dg47nIK(unsigned long TYI4d_G6YQ,unsigned long Z9_RGRHwa,unsigned 
  return -1573151874;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short  JC65w(unsigned short int  CVdRfWiL2j,char  AuVeHeKmoy,unsigned int  mNh7mK2lf)
 {
   return  -1716887291;

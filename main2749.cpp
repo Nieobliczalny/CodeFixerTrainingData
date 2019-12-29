@@ -27,6 +27,7 @@ unsigned int  xBqsNy(unsigned char  aA3sN,unsigned short int  XpZK6TS,unsigned l
   return  -546403316;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short m_sV(unsigned long NiyVv4kQ44) {
  return 0;
 }

@@ -19,6 +19,7 @@ short	KyuZoyvMyH(long long	g7924ST,short int	T4zs88b,unsigned short	a4fAvwb5,int
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    w98IpmFMTh(int    Dk2yw_4)
 {
     return    -1399323599;

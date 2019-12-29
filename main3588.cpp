@@ -21,6 +21,7 @@ short H878m4y1pJ(char Ow7R0X7ZL) {
  return 2039732785;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  unsigned char sS13zVS;

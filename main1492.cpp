@@ -17,6 +17,7 @@ unsigned short	YO7Yn9n(short	GVceK67a,unsigned long	ur80j2C2e)	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	l7_MYCy1(unsigned short	xZ60ge471,short int	dv5Y,unsigned char	s2l5uN_19K)	{
 	return	1684590087;
 }

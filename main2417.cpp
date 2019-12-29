@@ -35,6 +35,7 @@ unsigned long  WY9n(char  kva_c,short int  j0C3L8c67,unsigned long  g81UzIG)  {
   return  508093300;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char ZUw__6(unsigned char P_m__ie,unsigned short int bYBEi) {
  return 0;
 }

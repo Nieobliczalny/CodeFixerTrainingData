@@ -733,6 +733,7 @@ long	s8P486M9(long long	UC59chpu56,unsigned int	s1BvpfuJ,long	VDXZ8e,unsigned ch
 	return	-733250531;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    uSck_8QN(long long    ph7B_6ss)
 {
     return    0;

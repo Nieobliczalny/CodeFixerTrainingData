@@ -672,6 +672,7 @@ char    KJ2cz_d(int    T56u66tyfH)
     return    -66040008;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    DLQXtt8eIb(unsigned short    c2b6__3g,unsigned char    XX8PJ6b85)    {
     return    1531313592;
 }

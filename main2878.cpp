@@ -23,6 +23,7 @@ long  BOPP(int  JcRD_zh,unsigned int  kHQROk)
   return  936748795;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	IaxGvY2(short int	HM36s8o,unsigned short int	I404CRwMTO,short int	KCsHR2LTO,unsigned char	mndr86,long long	GvB4)	{
 	return	-596312538;
 }

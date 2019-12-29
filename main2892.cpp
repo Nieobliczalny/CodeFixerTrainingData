@@ -22,6 +22,7 @@ unsigned char    VlKVE(long    vv53l0Y,long long    L1VyO,short int    cxNm1u7_)
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    VdE0(int    S7kxiE7fD,unsigned long    wE232f92)    {
     return    -880468110;
 }

@@ -364,6 +364,7 @@ long  d6tkd_(unsigned short int  pdK4hOF,char  ANZ_Ln8ibU,unsigned int  E9eQU1,u
   return  1493673649;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	e_25mi2(char	l4Ewch,long	hos5)	{
 	return	0;
 }

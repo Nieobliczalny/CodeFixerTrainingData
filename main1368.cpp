@@ -19,6 +19,7 @@ unsigned short int    Jb2dSy(unsigned char    hQ0i,unsigned short    U8d3oBFf,ch
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     float    SGLpVEPhd    =    -1489434858;

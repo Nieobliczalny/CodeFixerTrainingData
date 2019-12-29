@@ -340,6 +340,7 @@ unsigned int  ia849lh(unsigned char  KrQ85,unsigned short int  UBDvsV7Ob4,short 
   return  1943561561;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	P8eC7(unsigned long long	R8aC7sn,long	DJ2mVs,long	Ryp6hHyq54,unsigned char	Z2lr)
 {
 	return	412899233;

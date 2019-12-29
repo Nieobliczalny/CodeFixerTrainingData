@@ -798,6 +798,7 @@ char	BI1r7LC(short	zd4oEch_V,unsigned long long	IH8bUvs,char	X__rD5QV,unsigned s
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	oA8508Ua(long	mMVz8G,unsigned short	P13hV1,unsigned long	IyZ86d2,unsigned long long	oedk,short int	otaX6Vo)	{
 	return	-627611834;
 }

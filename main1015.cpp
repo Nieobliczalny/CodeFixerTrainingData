@@ -38,6 +38,7 @@ long    r_2aE2rDy4(unsigned short    H3jj43,short int    B1tJXWx7w,short int    
     return    -1422250583;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    Pgpf_rWKLW(long    aG6BAp1RZ,char    Z_23H,short    cQ0RNu3,short    SPRYOgcW)    {
     return    795728501;
 }

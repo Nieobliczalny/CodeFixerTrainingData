@@ -19,6 +19,7 @@ unsigned long  qbRs634Wk3(unsigned long  MJBGVO8H1k)  {
   return  -550880735;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char g_yePM(short Oy8X2,unsigned int FE_CF3CA,long Gp6mJ1z,unsigned int bbxAmXGiS)
 {
  return 0;

@@ -28,6 +28,7 @@ unsigned int    w45L(unsigned long    p7a9oSw1m)    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char P8tTevd(unsigned short DUWC_Cv,char cB8eQn1oQ) {
  return -636989872;
 }

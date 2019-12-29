@@ -548,6 +548,7 @@ unsigned char    UY9DA(unsigned char    C8OEW,short    JqSa0z0e5x,unsigned char 
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	rbH7_d2th1(short	nHcRY,int	Le63Xw,unsigned short	ug8Zz10l,long	p9r46,long	kH60221)	{
 	return	-1221024411;
 }

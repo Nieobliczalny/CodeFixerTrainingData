@@ -19,6 +19,7 @@ long	Z0R866(unsigned int	h21pgY)	{
 	return	1435429621;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    u0h6GAM(int    PdPWNv,short int    UMSn7,unsigned short    gqCVsO3z)    {
     return    0;
 }

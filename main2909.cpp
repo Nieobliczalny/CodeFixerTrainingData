@@ -18,6 +18,7 @@ short j6Ji4(unsigned long bo98JVF_Ye,char Z6zj6C)
  return 534565117;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long YPhGd3q(unsigned char Ht1Rv)
 {
  return 0;

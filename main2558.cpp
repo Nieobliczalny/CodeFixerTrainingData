@@ -801,6 +801,7 @@ short	MQbz7U2(unsigned char	fpQ60NnZ,unsigned short int	d9r70,unsigned short	PzH
 	return	-1051824391;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	jE_x5a(int	ox3RPp93eH)
 {
 	return	0;

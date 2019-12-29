@@ -23,6 +23,7 @@ short	UrFE8R_7(short int	JV7T9yf)	{
 	return	-1381446947;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     int    KTZy1;

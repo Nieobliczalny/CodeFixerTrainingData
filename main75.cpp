@@ -22,6 +22,7 @@ int  ae8h(unsigned char  M2v722qb5,unsigned long long  TahXX7,unsigned short  TB
   return  1097814793;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	zaL_(unsigned short	T9nXmU17bB,long	N0S5VJM,unsigned long	a6n2,short int	RYXk_4u,unsigned int	m2fMI8)	{
 	return	0;
 }

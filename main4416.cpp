@@ -18,6 +18,7 @@ unsigned short  z30hNlv9m(unsigned long  ENhb,unsigned short  h0Hgh,short  K61aA
   return  -284781856;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  liw9n(unsigned short  WhG6iS_,char  O08FRN,short  nvdEtV778H,unsigned char  cW5m3K)  {
   return  0;
 }

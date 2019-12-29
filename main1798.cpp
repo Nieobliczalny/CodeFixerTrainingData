@@ -526,6 +526,7 @@ unsigned char  cjLDR(unsigned int  DC67mPqENo,unsigned long  Dm3zHtT,unsigned in
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int Pc6Z3F3(long IvuSI,short int T6e97cP) {
  return 1311911451;
 }

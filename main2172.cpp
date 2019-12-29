@@ -17,6 +17,7 @@ short	aOZBr4(unsigned int	e4S9oZX,char	Gk_X)	{
 	return	210352827;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	unsigned short	P7xBE093J3	=	0,	DGogYhU6	=	0,	QXoZzPdX	=	0;

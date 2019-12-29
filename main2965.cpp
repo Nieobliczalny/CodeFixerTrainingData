@@ -21,6 +21,7 @@ unsigned short int	DmCU87eNL0(int	gHL2y,unsigned long long	H5qIJgk,long	RgZwvPyg
 	return	-1380144151;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    sBxnd5Q_8(unsigned short int    U5JFV,unsigned char    tRt6,unsigned long    L_pj0,unsigned short    CoJ0bKA)    {
     return    0;
 }

@@ -514,6 +514,7 @@ char Nu1vJA7(unsigned long long eG3a,unsigned short RZ2J7VFC3,unsigned char ZBNT
  return -1826584463;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char dY844zp(unsigned char BzpWON,short C0758TZ,unsigned short g5AX4) {
  return -1775327751;
 }

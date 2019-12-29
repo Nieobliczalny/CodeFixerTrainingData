@@ -482,6 +482,7 @@ short  x431sJ(unsigned char  Yc5e5)  {
   return  1883884670;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char pTg_HTaTqe(unsigned long r3IgB5q9,int cT_IDI6N_0,unsigned short int fB537z0,int A_gI_rN2M) {
  return -2010362818;
 }

@@ -19,6 +19,7 @@ short int  g05It6(unsigned long  e2uySO7D87,long long  yXNkU8F,int  apcejiD4,uns
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  char tX0y_ENb = 0, wX7vgJb7 = 0, m3cfYg = 0, r0j2 = 0;

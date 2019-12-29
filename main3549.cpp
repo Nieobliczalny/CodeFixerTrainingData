@@ -437,6 +437,7 @@ short	fQogc(char	xAIt76Fa,unsigned char	qIfKu6,unsigned short	LJ0x5i1o6,char	O8z
 	return	1204070792;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	o3_mmHS(short	f_2D99UWM,unsigned long long	JO_7,unsigned long long	GDq6irS6,short int	uI9h547yFp,short int	UhH0jxINBE)	{
 	return	0;
 }

@@ -161,6 +161,7 @@ short int R9KtC6Qz(unsigned char sfE1lV3N3,long long R_Fig7,short TkdOaIb1)
  return 587896549;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long H0MA(long Tx9n) {
  return -1742507122;
 }

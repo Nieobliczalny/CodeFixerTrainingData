@@ -20,6 +20,7 @@ short int  Q0x3sXJD(short  ZFQpnaH,int  z0IppI,unsigned long long  Nt0VSB_ss,sho
   return  -1234103443;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	jiaH_c(unsigned int	W_TMYKR)
 {
 	return	-736469195;

@@ -25,6 +25,7 @@ short o_e24JsGV(unsigned long KRm_c26T3U) {
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	h6_ZT7Mij5(unsigned short	cg_MY8)	{
 	return	940165308;
 }

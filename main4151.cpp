@@ -667,6 +667,7 @@ short IA9195fwY(unsigned long IQVjE,char hiMZ35,unsigned short int o5P2uV,unsign
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int lbA26NKJ9q(long w39w,long y2M8gtA6)
 {
  return -1313218085;

@@ -520,6 +520,7 @@ short int JgK_(unsigned char jGIx1avE,unsigned int wW4dD3DR4)
  return -1330264972;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    JDuMQ5(long    F_VBXv_2z4)    {
     return    -449772474;
 }

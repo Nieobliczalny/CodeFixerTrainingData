@@ -555,6 +555,7 @@ long long va4PTK(unsigned long long T3MC,unsigned int c80IqD53I,unsigned long kw
  return -2014633761;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    IQc0kT(unsigned long    Lv3wmCz29,long long    K4U3)    {
     return    -321275439;
 }

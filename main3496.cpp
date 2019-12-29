@@ -17,6 +17,7 @@ char	eB5966n(unsigned char	Ksh5,int	Kh0g,unsigned char	jLhtJL,unsigned char	bHiW
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	Gv25ZXP9e9(unsigned int	S3N38s_)	{
 	return	179837240;
 }

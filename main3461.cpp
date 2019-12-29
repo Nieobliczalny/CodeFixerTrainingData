@@ -325,6 +325,7 @@ unsigned long	S41XM(int	UE4042a_i,char	nXoqYLsh2,char	lLD_Pz8N5,unsigned char	e2
 	return	2124213502;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    IGz0wDb(unsigned long long    J6WoCO4Dq2,short    sgWQT3j8q,int    TXu878_F4V,unsigned int    RF4orRAo,unsigned int    LK8_7)    {
     return    564781431;
 }

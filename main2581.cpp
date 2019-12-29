@@ -114,6 +114,7 @@ short int  wSUI2(unsigned short  Z5G64ua0L)  {
   return  214184472;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char nA6IqJi5t(unsigned char q24O9,long long kQ0_W18,unsigned long long hNBoU,unsigned char kb3QHR_fD8,unsigned char l398_m6oI9) {
  return 444142858;
 }

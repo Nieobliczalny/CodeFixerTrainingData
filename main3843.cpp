@@ -552,6 +552,7 @@ unsigned long long n1Jvp20(unsigned short int ulvT9OL01H,short int P5UNx4tMS)
  return 1390107241;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    VtY7b_y(unsigned short    IZ21Dh)
 {
     return    0;

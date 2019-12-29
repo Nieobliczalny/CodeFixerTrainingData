@@ -32,6 +32,7 @@ unsigned char	oX8Mtli(long	z2d0,long	c5Nmp8vk)	{
 	return	-1775690227;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	fhoOG(unsigned short	A33ipQ4,unsigned int	g18I,long long	f074JmT)
 {
 	return	0;

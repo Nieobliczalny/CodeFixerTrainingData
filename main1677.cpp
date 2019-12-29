@@ -19,6 +19,7 @@ unsigned int    vLLOEE(int    kLx8,short    x1EWx,short    x50AVp67,unsigned lon
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	E3Fh2Sa(long long	c6UXa1)	{
 	return	1892742358;
 }

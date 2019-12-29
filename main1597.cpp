@@ -657,6 +657,7 @@ unsigned int R9gr36v(short int NiZ6s,char osWDM5Y,long x2QfTckK,unsigned int upr
  return -15492444;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    CMShMC8(unsigned short int    Oe35,long    ge1U)    {
     return    -2026568338;
 }

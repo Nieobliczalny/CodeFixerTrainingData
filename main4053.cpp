@@ -181,6 +181,7 @@ unsigned int    emYhgG4t(unsigned short int    O4Z_43Atg,char    wRdu_RM8C)
     return    144055232;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char YkhoT2(long HYRXvYmJG,short int Fk_u_JzA_)
 {
  return 98632464;

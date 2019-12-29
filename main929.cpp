@@ -23,6 +23,7 @@ short gp06888(long TeVxHO8,char xk_n_uhM1A,unsigned short int ry29j,unsigned lon
  return -1542444606;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  o0byF87H2F(long  tuBVR8)
 {
   return  0;

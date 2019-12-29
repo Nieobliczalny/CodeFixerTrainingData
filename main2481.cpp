@@ -237,6 +237,7 @@ char	XTq_X89(unsigned int	C5XZ8,short int	ke39,unsigned char	N94gmJ)	{
 	return	746850964;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	DVE45i5mm(char	U334,long long	WUM1m4,unsigned long	fN1kVw4sB5,int	Cikds52eF0)	{
 	return	0;
 }

@@ -23,6 +23,7 @@ unsigned int    DY_K0wE71T(unsigned long long    CRILk7Fw,unsigned short int    
     return    2020822647;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  PUO7CS(unsigned short  Eh0r,long  qb982t2Vi,long long  CRF8Uax,int  ZN7T8)
 {
   return  0;

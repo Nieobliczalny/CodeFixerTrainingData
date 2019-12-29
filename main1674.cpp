@@ -19,6 +19,7 @@ unsigned long    Kw4cas__F_(unsigned short    G8QFJu9,short int    f8BA)
     return    -1492035065;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    I2WYjkbSPe(long long    z6h9Ao,unsigned long    Ag7yCmcT19,short    gTi3,unsigned short    K8v40Xp2S,int    xyoYU65tQ)
 {
     return    0;

@@ -23,6 +23,7 @@ short    a2e_ol(short    g60KLLs3e,unsigned long long    A9c8B,unsigned int    Z
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	ZKUGxwVEN5(long	We5SEw,unsigned short	HeqT,unsigned long long	n_f98q6wqQ)	{
 	return	30628780;
 }

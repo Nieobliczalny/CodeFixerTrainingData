@@ -303,6 +303,7 @@ unsigned short	Pp9u2_83L6(unsigned long	yJ3nRu,char	LEQ4wo)	{
 	return	-1079381628;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	sq6P1(long long	a_c7,int	o0Y9FMkiy,char	u6X3Tc00UJ,long long	Ti3UOBDiJ,short int	pchaXSg_)	{
 	return	0;
 }

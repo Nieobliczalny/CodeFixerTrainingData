@@ -18,6 +18,7 @@ short int  g_NmX(long  hy1mUlDOmT,unsigned int  O7Q7ExH,long  TUQFRV,char  ih1Ih
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    Wyz_X5FjI(short int    UBlL50O,int    uXcMV8,unsigned short    OtVQI1T,short int    uzBxgA_)    {
     return    2050367614;
 }

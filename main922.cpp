@@ -18,6 +18,7 @@ unsigned int krdEc(unsigned long long rfp1_K,char y2U5F,long B2UL) {
  return -1868910512;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  s2LN64017(short int  o2TWTDy,short int  rbKk)  {
   return  308413333;
 }

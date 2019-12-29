@@ -24,6 +24,7 @@ int  m99HBu2(unsigned long long  mF5e7,unsigned int  OFru7__3w9)
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	tLGemDnRL(short	dS_R4,unsigned short int	p1EN1ed_8h,long long	nur6tuW7,unsigned short int	Vz8PW)	{
 	return	122354729;
 }

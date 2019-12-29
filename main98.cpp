@@ -17,6 +17,7 @@ short int  CUIobBK6y(long long  ItHs,short int  c8XjX4c8b,short int  Dn66qmTKC) 
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    IWG1Z7AnCv(unsigned long long    PTk0m,unsigned int    c8i5_716CR)    {
     return    -1018439423;
 }
@@ -31,6 +32,7 @@ char    j8_tbl(unsigned short int    aSnH6_8bWi,short    d6MA,long long    yG_1_
     return    1182536028;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     unsigned long long    p67QK    =    -1347068387;

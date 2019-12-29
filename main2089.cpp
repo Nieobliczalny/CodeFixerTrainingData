@@ -36,6 +36,7 @@ short  YcC7Wjl(long long  bcv5y,unsigned char  s99mr2,unsigned long  nB0Hg___)  
   return  985075236;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   double  o576z3;
   o576z3  =  -1025803605;

@@ -19,6 +19,7 @@ unsigned short	pXI2(unsigned short int	kj2U6hs10E)	{
 	return	1960150378;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char en7inbCw8(short sC8nP8,long long SmZCC3vh79,unsigned short x5G9,unsigned int XJV2vA)
 {
  return 1695940247;

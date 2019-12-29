@@ -19,6 +19,7 @@ unsigned short int	G1418w_K2(long long	DX0mz9)	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int npXM1_5_(long JDi74A,int P_3Idg3wA) {
  return -746697995;
 }

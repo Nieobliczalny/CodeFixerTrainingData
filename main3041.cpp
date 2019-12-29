@@ -636,6 +636,7 @@ unsigned int	srG355FnS(short	f38p9Yyx,long long	NgH0_26wXb)
 	return	-1953378037;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  LZW6Dh(unsigned char  D416,unsigned long  rFff)
 {
   return  0;

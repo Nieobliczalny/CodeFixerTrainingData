@@ -18,6 +18,7 @@ long PU1zeCT(long long vD5p0)
  return 1631087494;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long PCor0(unsigned char C86_hc5j,int qNq833s93P,long long r6dSp,short Bwu41,unsigned int WMpii47l)
 {
  return -1133110792;

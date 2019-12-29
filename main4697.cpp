@@ -19,6 +19,7 @@ unsigned char o0m7wkQ8(unsigned short G9iC4P,long long vLPzuF1244,long ewbgJdSL1
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  L9Po(int  UySc6rUDf1,short int  gL942gW2OW,int  T5CIb0r,unsigned short int  wvFyL,unsigned short int  zySZ3u6)
 {
   return  -78693060;

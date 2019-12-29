@@ -762,6 +762,7 @@ long    LuV1jz(long    icVZ7XK_f_,unsigned long    x7ki5HMTd)    {
     return    1054726262;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    EM9bq3_0(unsigned char    A_Wfz0t4,unsigned short int    G_DP,short    Z3Udd,short    t_uCkO95o)
 {
     return    0;

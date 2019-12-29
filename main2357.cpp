@@ -660,6 +660,7 @@ char  S50t(unsigned char  DOhRov,long long  QNY0OU8ld)  {
   return  601689676;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int xH476U(unsigned short x3XEH5P0)
 {
  return 0;

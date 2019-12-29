@@ -700,6 +700,7 @@ short int    DLo4(unsigned int    BxwUR_A,long long    sY2453t38,unsigned short 
     return    169632972;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    dBGoFG2C(char    H_n65_QI2C,unsigned char    SXj2gnSil5,unsigned short    Qu433X8,int    Cdrl6,long    EQqJo9T6W5)
 {
     return    0;

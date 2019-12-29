@@ -19,6 +19,7 @@ unsigned char	ia7jS(unsigned short int	k538_BaH0k,unsigned short int	Kb7dmI0N,sh
 	return	-768198196;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    DLFe(unsigned long long    MK5YA,char    vpCvC43cZc,int    Wu5wAG,unsigned int    Le1af6G)
 {
     return    -1558605556;

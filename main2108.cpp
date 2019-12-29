@@ -241,6 +241,7 @@ int    VD_e7_(unsigned short int    US6B2,long long    wmiGF5_hW,unsigned int   
     return    1976614907;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long Nflsf5(unsigned long long q2Kr63)
 {
  return -147123827;

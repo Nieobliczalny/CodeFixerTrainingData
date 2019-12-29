@@ -23,6 +23,7 @@ unsigned short int  G36C2c(unsigned long long  xAW160Px,unsigned short int  q95z
   return  921595715;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    C6P4fT(long    S0i9iJAj)    {
     return    0;
 }

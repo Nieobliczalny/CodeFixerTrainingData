@@ -89,6 +89,7 @@ unsigned char VhRC9QF(unsigned short sFsu,short int STjzVH,unsigned long long BX
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    Q_sq(unsigned char    X9hPK43,int    fG7xBSONJ,long long    rJO08nJ)
 {
     return    1742821039;

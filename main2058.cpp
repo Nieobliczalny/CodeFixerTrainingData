@@ -17,6 +17,7 @@ unsigned long long ExE56(unsigned long long f6FA1Y,unsigned short i6_L,unsigned 
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  long OJo5_a;
  OJo5_a = 1300575979;

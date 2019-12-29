@@ -336,6 +336,7 @@ long	iNT3yxtOe1(unsigned long	s7Bu,char	HYwk2,char	MhdX,unsigned long long	lA_1,
 	return	340099164;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	YDHFql7q(short	jHH3S8)	{
 	return	0;
 }

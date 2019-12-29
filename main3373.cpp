@@ -34,6 +34,7 @@ short int	KbSTw96gW(long	g7Tc154m,unsigned char	p58I)
 	return	-255395292;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short EC39(long fe5B3ov8o,short int t5x_t0B,unsigned long long S3uk,unsigned long qzd9) {
  return -1842849082;
 }

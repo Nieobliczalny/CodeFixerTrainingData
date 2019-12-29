@@ -696,6 +696,7 @@ short int H7WV6b(unsigned long long qI7Pt5CF,char Rl5iRWQZ_8,char PuDFj,unsigned
  return -995975128;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	jM_L_DTCP(unsigned long	K3XT,unsigned short int	W9_tI3u7SO,unsigned long long	E2d2z)	{
 	return	0;
 }

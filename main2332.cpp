@@ -23,6 +23,7 @@ unsigned long    y4A4R(unsigned short int    qb190Uz0,short int    rU07Y0f3,unsi
     return    -1941600536;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  Jq7288(short int  PygPPY,unsigned short int  fUf_GODu,char  p8hZnES9m5,long long  kbeG)  {
   return  -1921410367;
 }

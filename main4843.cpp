@@ -414,6 +414,7 @@ unsigned short int  uGKi(unsigned int  xpAW8BjA,unsigned int  i7i7_w,unsigned ch
   return  1414603294;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short SCTyex(short int XiAiQRq5,unsigned char P2iw4A4,long long OPL3503G6,int l_BFSkfe) {
  return 1714957741;
 }

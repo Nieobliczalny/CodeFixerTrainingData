@@ -175,6 +175,7 @@ int	NW9S98xFJy(long	GY_0IwG25)
 	return	726599842;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    zdN8p8(unsigned long    HpNGR4,short    k9TFRcXA0,char    Ax3o,unsigned long    ezJGJ,unsigned short int    PLqr2K41k)
 {
     return    0;

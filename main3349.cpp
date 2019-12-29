@@ -19,6 +19,7 @@ char	UtqfZ50(long	o_2GT64zG,unsigned short int	rNHk,long long	GhAMeh16t,long lon
 	return	-1507710435;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  B580pqZcI(short  K9974ym,unsigned long long  Y_6q)
 {
   return  0;

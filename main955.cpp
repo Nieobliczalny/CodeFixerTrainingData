@@ -18,6 +18,7 @@ short P22rJ26jJx(unsigned long long cXBeJ) {
  return -283290559;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   unsigned short int  hXG18,  b8cYK,  PZsv;
   hXG18  =  0;

@@ -23,6 +23,7 @@ long  TWCD9(unsigned int  ipMz254,unsigned char  rBwYFwGyRX,int  ptminb,unsigned
   return  -617672712;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	long long	pd8H1k67I	=	411152606;
   unsigned char  bnw8XZzU  =  122888684;

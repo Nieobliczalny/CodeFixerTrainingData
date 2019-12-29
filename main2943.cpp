@@ -395,6 +395,7 @@ unsigned long long    MDuh8(unsigned short int    LPwsR3M6u,unsigned short int  
     return    -1276668030;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    B8xI(unsigned int    K9R27q,short    XPRGr,short int    S60iG,unsigned long long    aqQM_S)    {
     return    1262135889;
 }

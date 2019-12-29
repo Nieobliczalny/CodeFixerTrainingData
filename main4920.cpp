@@ -630,6 +630,7 @@ unsigned short int	si5i205syg(unsigned long long	rev7WV,unsigned long long	nre95
 	return	1223910926;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	JIZO(unsigned char	dTg2,unsigned char	dymRxiFZm,short int	T1tf3yu,unsigned int	GVXW7Q_)
 {
 	return	1194478453;

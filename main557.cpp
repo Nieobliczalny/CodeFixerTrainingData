@@ -345,6 +345,7 @@ short    F21SM073(short int    g_g8Y_5,long long    QBMWAd,char    wu18dR_,unsig
     return    -1597279231;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  A_OqpI(short int  L16Ol,unsigned char  WF2fegD)
 {
   return  0;

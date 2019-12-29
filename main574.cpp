@@ -21,6 +21,7 @@ unsigned long long GsR19ee5(unsigned char R4hjMEn0y)
  return -248378499;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  RuE1Tr(long long  bgBEIc_z2A,unsigned short int  Ehr3Rx,unsigned long  l3Rut1t0q,unsigned long long  tHk_,char  hu9S)  {
   return  0;
 }

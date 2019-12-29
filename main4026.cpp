@@ -22,6 +22,7 @@ char    wi3vKt(unsigned short    Jpf7,long long    J3nt1,short    j0VX00eu,char 
     return    -1737933961;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	Iqefa_(unsigned short	c8ZkSNrNs0,unsigned short int	i6e56_,short	r90PNMJ,unsigned long	VI02_0jgA3)	{
 	return	1489196802;
 }

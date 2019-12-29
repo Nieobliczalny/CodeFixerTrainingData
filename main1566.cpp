@@ -23,6 +23,7 @@ char	f5Q_cCeO7(short int	e866DA2gAd,long long	Coh9ln,unsigned short int	cvnG_Cnt
 	return	1428724828;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    Rw5l4232f(char    CA2l,long    O6D5UE,short    yE_3KTH,char    d96kVfB92,short    XJH2fX)
 {
     return    0;

@@ -22,6 +22,7 @@ int paUmC86bP(short int BN53,short oniqw6f9)
  return 1692882148;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char WHxwRLh(unsigned short int gpM95mHdZ9,unsigned long long kSVt) {
  return -13004821;
 }

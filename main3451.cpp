@@ -20,6 +20,7 @@ unsigned char  o4qF(long  C5pCO)  {
   return  1282200724;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	Mk0mD6f_X(unsigned short int	Es31Fwv,unsigned long	WrBdA,unsigned long	fkk99rP1,short int	B_ByLXAU,long long	HIZWb68BX)
 {
 	return	104526174;

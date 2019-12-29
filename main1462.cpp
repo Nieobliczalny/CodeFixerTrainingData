@@ -18,6 +18,7 @@ short  Ku_V4XO(int  svAz8KZ,unsigned short  FPo7Pin_,char  r24HF61y)  {
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	unsigned int	uz9_0	=	1390698501;
 	unsigned int	BsbPd	=	-1304434393;

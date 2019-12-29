@@ -617,6 +617,7 @@ unsigned short int g512HoPpsb(char UwC905CQ,long long xNT5_,unsigned long long X
  return 539296739;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int H13llL79z(short WH1T,short int osXG3na_7_,short BS4Z_X,int fN7R)
 {
  return 0;

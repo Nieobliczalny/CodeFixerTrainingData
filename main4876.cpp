@@ -779,6 +779,7 @@ short	UTUx0(unsigned short	lj96,unsigned short	w5pN1bGEm,long long	zf63sQ,unsign
 	return	774929211;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    YKI488RAa3(char    W6V2r_,short int    E2g4F2ehxC,short int    iPc7u5,char    Vz77W4ghz,unsigned long    NzYR1kV0U)
 {
     return    -783038791;

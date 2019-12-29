@@ -19,6 +19,7 @@ unsigned short int  vN8j(int  jn0S6ZIC0,unsigned short  P9Aub02DD,unsigned int  
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	kng1420_f(short	x4fgD,unsigned short int	P3CY696M2I)
 {
 	return	-1556864770;

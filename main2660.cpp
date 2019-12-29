@@ -19,6 +19,7 @@ unsigned int kS7sFg_8T(unsigned char o_zE,unsigned long LACr7CgD,unsigned char m
  return 580483332;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	lVD_f_V1U3(unsigned long long	P6Hl2L,long long	p410,long long	g5y14,unsigned short int	f2p6)
 {
 	return	0;

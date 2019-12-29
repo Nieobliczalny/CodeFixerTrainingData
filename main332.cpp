@@ -19,6 +19,7 @@ long	lDXxkO8v_E(unsigned short	jRRNly)
 	return	-885838657;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	unsigned long long	G1XQW_D;
 	G1XQW_D	=	-957940461;

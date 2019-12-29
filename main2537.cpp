@@ -577,6 +577,7 @@ unsigned int LBRiH6TU1(short int RSXHKmQ,unsigned short Fx9Q8TdVKu,long rFeFS7i3
  return 1108531387;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	IiGx7By(int	M_30_,char	yl8HOpCjK,long	o5h4JS8EY6)	{
 	return	-2104554534;
 }

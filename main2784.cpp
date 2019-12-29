@@ -768,6 +768,7 @@ unsigned char	K57s836(unsigned short	j1lgL,unsigned char	d18Y4E7Q,unsigned int	i
 	return	-909725017;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long oJbu48_M0(short int VfmDNjZ_) {
  return 0;
 }

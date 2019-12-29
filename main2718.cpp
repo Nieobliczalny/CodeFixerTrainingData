@@ -650,6 +650,7 @@ char Bj3725EE30(long xAFR_cPI,short O3k0DuUg,unsigned long long CoGwnDLf2u,unsig
  return -1055621073;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short n35Ax(short L9o43,unsigned long long qYS7_,long XujSG,long S0p520cD) {
  return 57672393;
 }

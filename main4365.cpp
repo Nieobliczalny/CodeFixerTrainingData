@@ -201,6 +201,7 @@ unsigned char	JUWiw083_(unsigned short	lR7F,int	Jx_Icgtwb)
 	return	-1432541161;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  AlcD(unsigned short  W7ByUN)
 {
   return  334964113;

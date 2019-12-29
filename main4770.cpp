@@ -31,6 +31,7 @@ short int fy3V6d(char q5R0S6_3) {
  return 1462614293;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long Z5Onz(unsigned long AZiTI,unsigned long O95DA,short wUk0DCNtp,unsigned short AhcQPL4t,int A4Fvw)
 {
  return 0;

@@ -18,6 +18,7 @@ char  O10y(char  kUZbnYR,short int  FhAe)  {
   return  897691179;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long t12qhj(long long BD2K,long long wRS43)
 {
  return 1947425422;

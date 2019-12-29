@@ -718,6 +718,7 @@ unsigned char	NnRe_om(char	EV7ldXYic,unsigned long	wntZ,char	YBQJT716,short int	
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int m2pj0_meLq(unsigned short cRF8IdP5,unsigned long long CG66Q7gn) {
  return 964557657;
 }

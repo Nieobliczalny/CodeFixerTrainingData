@@ -24,6 +24,7 @@ short int  c_4uk(long long  L2PMoEi,unsigned short  A4DNIFk7B,unsigned long  P4r
   return  -1874189062;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  T_Aw4hZ(short int  My11,long  sCL_14vi_,unsigned long  bd5VQ5u,int  aH7hfRi1i2,char  Msgs4y7)  {
   return  0;
 }

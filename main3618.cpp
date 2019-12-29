@@ -19,6 +19,7 @@ int    L7veGN88(unsigned char    GMhTsC9Qma)    {
     return    -1393237218;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     unsigned short int    FeeqziNW4,    Uz83uTKC,    w93_U,    AyY1BX5;

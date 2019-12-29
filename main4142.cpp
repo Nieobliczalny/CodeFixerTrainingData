@@ -543,6 +543,7 @@ unsigned short int t2xwwtLFI(unsigned int Q37vLx6FH,unsigned char R5Iv2l_CWR,lon
  return -743494741;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char l_c3b3(unsigned short tpI7,unsigned short int D3hI5FD,unsigned short int Rk8PP2V9)
 {
  return 0;

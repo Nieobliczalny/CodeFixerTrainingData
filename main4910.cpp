@@ -969,6 +969,7 @@ char	ps5A67F(short	R8y3NpozQH,short	T4AtCQA5Y,unsigned short	qiDsE9sy)
 	return	972733374;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    LBIfO(short int    BvTb1lI)    {
     return    0;
 }

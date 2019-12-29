@@ -519,6 +519,7 @@ short	Wkj1aa3VaZ(int	b36PuqtBRv)	{
 	return	-33164475;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    CXqij7955(char    TBVax3o6,unsigned long long    SaMJHR,long long    j4OB)    {
     return    1494051109;
 }

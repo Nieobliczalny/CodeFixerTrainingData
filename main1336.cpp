@@ -197,6 +197,7 @@ long long  t5zDueyi(long long  PUx5flI)  {
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long e2W_Qorzy(unsigned short int B95U53_652,int iK8tDf) {
  return -401370522;
 }

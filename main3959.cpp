@@ -393,6 +393,7 @@ long	IB9i6j(long	EA195R,unsigned long	XVSHc7WP)	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	q1F_eNl0f(unsigned short	BaH_FT2,short int	Z86D)	{
 	return	1253113526;
 }

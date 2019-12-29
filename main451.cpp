@@ -565,6 +565,7 @@ long vu9_RrH5TX(unsigned long long h1_0,unsigned int yv00Fx) {
  return 2098944104;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  foIz_c2h2b(short int  NyrZ0,char  WvtFr6Wd,unsigned short int  kgI14edSB_,unsigned short int  k3_KB)  {
   return  1073967527;
 }

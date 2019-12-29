@@ -19,6 +19,7 @@ unsigned short int	Z615U(short int	jrb970,unsigned short	jLP6_rY5)
 	return	821631432;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    c68JbP(char    SsFtFF_d,unsigned short int    o2cMcU1,unsigned char    HR8jk)
 {
     return    39940931;

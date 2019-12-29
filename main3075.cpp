@@ -642,6 +642,7 @@ unsigned long	Q_391(long	An_M0Iwo25)	{
 	return	-1149967827;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    Ui6wcDkJ_(unsigned int    CN_R0,unsigned short    qfxrCa6036)
 {
     return    0;

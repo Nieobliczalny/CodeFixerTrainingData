@@ -24,6 +24,7 @@ unsigned long long  UEvW(unsigned long  V7sd,unsigned char  nrz8yOZ,unsigned sho
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	X0OjQY_1(long long	Cb0_46W8,unsigned long long	mUHF48_2,long	xC2Y76e,unsigned long long	w_6w_vp)
 {
 	return	1945934454;

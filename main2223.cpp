@@ -19,6 +19,7 @@ char  c86p6(char  nfz3y,unsigned long long  c8Vio1S0W)
   return  -1012534501;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	dLSUw_U(unsigned short	fy_Dz_cb,unsigned long	a7X4,unsigned int	H26pL,long long	Q12mC,int	oWhw)
 {
 	return	0;

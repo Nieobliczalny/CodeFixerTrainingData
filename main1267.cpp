@@ -629,6 +629,7 @@ unsigned short int	AhK2X_(unsigned int	ThCw9_45kq,unsigned short	z5BTD0_HV,short
 	return	-1700868966;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int zn3wu0(char AJ5Xvx,unsigned long KdAr) {
  return 1210397595;
 }

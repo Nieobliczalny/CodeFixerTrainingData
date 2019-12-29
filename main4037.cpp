@@ -34,6 +34,7 @@ int  BOeD4mt_(unsigned short  n1AotZM0_Q,short  Zi7vLxq_N3,unsigned short int  H
   return  24308395;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     char    a_03cHg_    =    0,    hr9KY    =    0,    cn8_    =    0,    b_WA_5oY    =    0,    QfqdN3    =    0;

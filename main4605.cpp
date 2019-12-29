@@ -61,6 +61,7 @@ long	Ulna43pU5(unsigned long long	XJvZ,unsigned long long	W32s8P4,long long	A31_
 	return	1594134553;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char nkqmEOFbt1(long long CDd4,unsigned short TQ_gm583M,unsigned int Sm58r,char NR1rTLu2z) {
  return -951209587;
 }

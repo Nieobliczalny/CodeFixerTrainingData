@@ -19,6 +19,7 @@ unsigned long  DwpMC1s3I(short int  QL56NI618U)
   return  770303599;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    RYglMR6cl(short int    IKoCE,long    odcFknZfI,int    R0jYZes,unsigned long    Qra5rzS65e)    {
     return    1794766866;
 }

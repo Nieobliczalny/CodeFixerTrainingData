@@ -398,6 +398,7 @@ char	hPMPR(unsigned int	tOY57883s_)
 	return	769330766;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int ZU25StL7lb(short int l_49,unsigned int QZIo) {
  return -1651430616;
 }

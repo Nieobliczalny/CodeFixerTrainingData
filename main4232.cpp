@@ -181,6 +181,7 @@ short int  PO9jDPSp(unsigned short int  MrjcZ3F)  {
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    r3T2ikS(unsigned int    JBHi,unsigned long long    dV3A_8_ch)
 {
     return    -1477653579;

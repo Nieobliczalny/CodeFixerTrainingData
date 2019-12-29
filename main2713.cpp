@@ -19,6 +19,7 @@ long long    A6XN1Us(int    R734Y,unsigned int    SBb_cY,short int    RM6W,short
     return    576201002;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long QN8c8yI(unsigned char ypDS,char hBL4,short int n_nS8PDx,unsigned int iK5Afp0) {
  return 0;
 }

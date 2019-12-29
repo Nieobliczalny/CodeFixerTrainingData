@@ -22,6 +22,7 @@ short    JM4w(unsigned long long    Eo0_)    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long HBuFkrQ_(unsigned char inkHmWlOV,short CEc1bP,unsigned long T8YG2_3W_X,unsigned long uF1262w5,short EHU4)
 {
  return 577634663;

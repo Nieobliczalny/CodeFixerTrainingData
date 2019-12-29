@@ -351,6 +351,7 @@ short int  uy_hG8c(long long  s__IEw9M8I)
   return  -1173183266;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  L1PAM_7F(unsigned char  L5gkhT89,int  c3vG6rpm,long long  Husyd,unsigned short int  RYoE8D_1sg)
 {
   return  0;

@@ -457,6 +457,7 @@ short int    bOyNR65xN(unsigned long    Y8izLq_,unsigned short    x2S5f,unsigned
     return    -2056260184;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  OjCL2(long long  eZ1ls8JR,char  yH2352XpXh)
 {
   return  -922046486;

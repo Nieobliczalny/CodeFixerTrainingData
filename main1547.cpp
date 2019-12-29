@@ -265,6 +265,7 @@ short s9H4r0K(short RydNe3Wr4Z,short dX7UxK,long fN_754,unsigned short int ZdL1S
  return -491067347;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    n83yWG6oL(unsigned char    FUvg8WR,int    KjgU9zojT9)    {
     return    359629894;
 }

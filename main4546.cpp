@@ -23,6 +23,7 @@ unsigned short int W2O1S6(unsigned int U2vwf,unsigned int Xvm6,unsigned long Ui3
  return -755834123;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  L24mRj8(unsigned long long  oz6s1EMqe,unsigned int  F97_q,long  v7Mk)
 {
   return  0;

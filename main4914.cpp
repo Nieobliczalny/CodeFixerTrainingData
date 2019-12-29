@@ -819,6 +819,7 @@ long osyg(unsigned short LGw6jMEYI) {
  return -2121697370;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short lh256jzQ5_(unsigned long long I191Ugu4tG,unsigned short M_5_9c80T,short int N080hG) {
  return -1765697275;
 }

@@ -23,6 +23,7 @@ short int	ODJeJg__Y(short int	FEDe57qq,unsigned long long	c756Cb)
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	float	FT976xc;

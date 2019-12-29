@@ -195,6 +195,7 @@ unsigned char d1ym1lO(short int KbrzTL_,short ACwO1XW09) {
  return -1431334828;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	I26mSI_(unsigned char	JX79,char	V3T_6EJ)	{
 	return	-706441755;
 }

@@ -47,6 +47,7 @@ long long	emjSmyQ68s(unsigned int	Wnf6bKBEl)	{
 	return	987234251;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short Bz_h(short int CxB5,unsigned short aedjQnF5jj,short GdHWOOe,short YOv06) {
  return -1569949737;
 }

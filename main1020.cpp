@@ -24,6 +24,7 @@ unsigned int    CNrX(char    Zpop0,unsigned short int    oklPo3t,unsigned char  
     return    -155745023;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    hHb1ML4SC(unsigned int    nu7R1,short int    c78fNVw28,long long    ndFt8EB4,int    v9RJ2Ufs)
 {
     return    0;

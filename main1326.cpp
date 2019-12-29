@@ -21,6 +21,7 @@ unsigned short  y96TH(unsigned long long  guW0mVy6)  {
   return  1217726705;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  WKq4eHe8K(long long  NECi_w_4,short  zx81F,unsigned char  b9Pi_)
 {
   return  -2018132039;

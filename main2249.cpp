@@ -27,6 +27,7 @@ unsigned long long	Se2_8GoE4(unsigned short int	VQnUp1lZO,unsigned short	Q87yt,i
 	return	-337332711;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	eNMXKm_A(unsigned char	H_wItb09T)
 {
 	return	0;

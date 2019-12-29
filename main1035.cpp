@@ -380,6 +380,7 @@ int	t92Hwu12(short	a8S5206d1,int	xX71in,unsigned int	KkwxJROuJ5,int	ADm1RppeZs,u
 	return	-26564757;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  c3_c9(unsigned short int  j_M6qN8m,long long  chzZWo4,unsigned short  GM9k_QEogU,unsigned long  WYEzQNg,short int  d4UP0u6cs)
 {
   return  0;

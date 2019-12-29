@@ -339,6 +339,7 @@ char  FmRS181(unsigned char  p1M_1Y)
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    pi9lqYt8Y(unsigned long long    mHLJ0TI83,long long    a3_Jg,unsigned int    YcZ9U)    {
     return    -675008667;
 }

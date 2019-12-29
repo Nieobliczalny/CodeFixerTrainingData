@@ -198,6 +198,7 @@ char    CPo1Fo(char    R8fV,long long    dGLunb,char    OX1b6lo8z3,int    pEF71X
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	MeW8O3S(long	Aw_3A87RMi,long	P0LPE8i61q)	{
 	return	1394685529;
 }

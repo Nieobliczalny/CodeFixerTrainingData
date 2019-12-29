@@ -21,6 +21,7 @@ long  j_GdXBTMbq(char  Jyq5119A,unsigned short int  iA7yh)  {
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	unsigned long long	hyoJi	=	1415636392;

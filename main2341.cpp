@@ -332,6 +332,7 @@ long long l7280Wv_Om(unsigned char b6VHp,short fzs226b9,long u51G3Caz,unsigned c
  return 363057235;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  xJZ0(short  YmV_7)
 {
   return  0;

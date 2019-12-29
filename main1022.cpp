@@ -21,6 +21,7 @@ short int  Q0DABl9nL(long long  bugf76_78Y)  {
   return  2016677556;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long X5vM4(char PGZ8JJaPE,unsigned short Rbdb3K_607)
 {
  return -498447638;

@@ -595,6 +595,7 @@ unsigned short	b18pC(short int	o6sV991kNF,unsigned short	pk61e29,short	o8_M5bo,u
 	return	1353945943;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long Oj8z7(unsigned short RVlSCnzw,long KmAW0)
 {
  return -1472964572;

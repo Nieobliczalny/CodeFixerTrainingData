@@ -19,6 +19,7 @@ unsigned char    IB_LPoXLB(unsigned short int    B9N2)
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  JCwdXHdyw(unsigned long  Wmg5UP,long long  ZbHvP_Ao3_)  {
   return  -2057080964;
 }

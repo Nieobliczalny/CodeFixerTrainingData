@@ -22,6 +22,7 @@ short int	s8WtK_r(unsigned short	A150)	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  dvpOW6(unsigned int  i3C6su,unsigned short int  GGG_50Sl_,long  TSt7v8caP6,unsigned long long  p9Nl)
 {
   return  -590670568;

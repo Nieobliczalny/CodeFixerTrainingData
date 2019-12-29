@@ -478,6 +478,7 @@ unsigned short int IId_(unsigned short int WWixQL,long egO0_g4b) {
  return -1254856976;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	AH_f95c3(char	OHdUVIY,short	VtK4mj3H)
 {
 	return	-315956568;

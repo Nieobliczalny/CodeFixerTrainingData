@@ -19,6 +19,7 @@ unsigned long nPdu2fF_5(long long GC9Ko_JE8W,unsigned short lshr3pn8vv,long HIU6
  return -1025052123;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short E5TLPOQu5(short iP4169D7J) {
  return 0;
 }

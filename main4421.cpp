@@ -223,6 +223,7 @@ int ZT8xt41(unsigned short int Q1hlB,unsigned char nJ3lfluvTT,unsigned int fLT_4
  return -875185805;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	ywlzdjh(int	dxi8o4gP9,unsigned long long	n_6t4i,short	Z_nGTNZq6,unsigned int	PJ3Cu3qaNT,unsigned int	VSgcJ)	{
 	return	0;
 }

@@ -19,6 +19,7 @@ unsigned int    CD2_v3(unsigned long long    PHknM1UaT,unsigned long    S89_r,un
     return    1280060424;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	unsigned short	wq2z_wfK;
 	wq2z_wfK	=	-866175760;

@@ -385,6 +385,7 @@ short int ez65qCo(unsigned long long eK3gRe,unsigned short int EHwK_yzcE2,unsign
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	MZ86(long long	j6qKt_iVo7,short	o0akJlSx7,int	lUQCXV4SCS,int	JpNQ6QOZ,unsigned short	h_EB67_7x)
 {
 	return	-1776674290;

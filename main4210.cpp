@@ -323,6 +323,7 @@ unsigned short	hqTtfDQ(short	Q89JHs1,unsigned char	HBDeb,unsigned char	gNZ34bbOn
 	return	263770732;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int Q_907aoZ(char CEaV,unsigned int yAUeU,long long yfrNtm,unsigned long wBu237,unsigned int A6w35A2)
 {
  return 550568944;

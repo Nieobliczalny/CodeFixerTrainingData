@@ -283,6 +283,7 @@ char    gA_7Je(char    s4Vx2lBP1,long    sPS7P_4I)
     return    -1843727494;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short  a8CJI922zt(unsigned long  q34P5G,long long  yqlZ4L8LW,unsigned short int  F_5I6)
 {
   return  1127072506;

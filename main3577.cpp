@@ -688,6 +688,7 @@ short int	Iw83R1iWZ(short	IIHT4)	{
 	return	-883114432;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int EdZ5H(char GPZzAh52_T,long long LLU0076bUy,unsigned short ecK_GqH) {
  return 1444084854;
 }

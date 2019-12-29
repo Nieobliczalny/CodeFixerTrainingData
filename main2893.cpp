@@ -19,6 +19,7 @@ unsigned char    mbKr_s0y(short    yo10,unsigned char    vqEA,long    VcVeSB2Ee)
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  unsigned long Z6q_ZpkEm, H9oxT7h_, I2yyd_E;
  Z6q_ZpkEm = 0;

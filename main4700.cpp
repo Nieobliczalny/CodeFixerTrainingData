@@ -18,6 +18,7 @@ unsigned short int    DTUJtalhDK(long    Qx9Y8ZjK,unsigned int    JTrw,unsigned 
     return    -1280639132;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	anj3Y(char	Fz_g0Uh7,short int	u8V19Jv_0a,short int	Yp7ZRHPFi,short int	f1zqQb4R,short	de1yfWguY)	{
 	return	0;
 }

@@ -22,6 +22,7 @@ char    v94B2(long long    EPKmAQ0iR,unsigned char    X1Q4nm)    {
     return    -525861200;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	vX4_WGN4(unsigned long long	t4922Jqv2d)
 {
 	return	249729077;

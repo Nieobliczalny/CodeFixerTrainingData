@@ -363,6 +363,7 @@ unsigned long    mjF2v30B(int    Ul9_8BJA,unsigned short int    PSb26i0,unsigned
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    ii4UlOgg(int    lfN6n7M5dd,short    TF2ahf,char    so5Wdt_c,short    JAhi3)
 {
     return    788194410;

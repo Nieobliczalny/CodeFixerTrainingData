@@ -28,6 +28,7 @@ unsigned short int	ZpMPfMK6E6(unsigned long long	H1C5Yhf15,int	j86h_uga,unsigned
 	return	-1847493225;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   unsigned short  Y_zw  =  0,  Ua_R5A3e_6  =  0,  W2qc2kvipg  =  0;

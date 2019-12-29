@@ -22,6 +22,7 @@ short l1l_5lr(unsigned short int I_K9_62P4s,long tkZS01K3w_,unsigned int zt99hqS
  return -581658348;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    G54x0(char    V3232)    {
     return    -768490362;
 }

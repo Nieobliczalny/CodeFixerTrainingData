@@ -202,6 +202,7 @@ long long DPIJ_a(int tLbBR0l15,long long A8UdGOg) {
  return 1975040552;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    zX8YI(char    UGVo)    {
     return    31452231;
 }

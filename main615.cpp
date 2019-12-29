@@ -18,6 +18,7 @@ unsigned int  Kbuuas(long  KP1L7IQd0)
   return  -1213432468;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  oKG83(long long  Lcr3Ntao3w)  {
   return  43290987;
 }

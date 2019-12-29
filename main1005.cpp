@@ -34,6 +34,7 @@ int	rADP(unsigned long	bwy5gt3Z)	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  unsigned short int TFyCc = 0, Rz5FjC3MlU = 0, kJY3e57ZV7 = 0;

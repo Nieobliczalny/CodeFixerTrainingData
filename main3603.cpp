@@ -27,6 +27,7 @@ unsigned short	Wo1e6fMk_K(unsigned long long	S7At,unsigned long	FWr8)
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  Hb_fOl_gxf(unsigned int  F_LB,unsigned short int  S9gA,char  oSfKv4jw)  {
   return  262296363;
 }

@@ -464,6 +464,7 @@ unsigned int  yE_wlg4(int  DiDt9Pd6P6)  {
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char a7td(char cU2frr2,short int Zo3rnhwp0I)
 {
  return 716892589;

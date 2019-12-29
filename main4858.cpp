@@ -529,6 +529,7 @@ unsigned int tiNy3(unsigned long wix9w_s,unsigned short int lQ1ISUc,unsigned cha
  return -1260405638;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char Z3P5Qbjg9I(char r3x19,long lpE0) {
  return 0;
 }

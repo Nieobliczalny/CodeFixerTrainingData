@@ -22,6 +22,7 @@ unsigned long	z772ZV(unsigned long	Srwz1GaIA,long	ptTmtfGo43,long	KY1nS,char	d9B
 	return	509518569;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  TPIc4C6jWW(long long  Jo2ZAp5)  {
   return  0;
 }

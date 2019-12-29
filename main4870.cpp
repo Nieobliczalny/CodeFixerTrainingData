@@ -676,6 +676,7 @@ char	b4bXTc32(short	lAjU,long	mCc6H)	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	o6N7q55(char	TLkPM9gXCI,short int	c81N9)	{
 	return	-1072323213;
 }

@@ -18,6 +18,7 @@ long long  A_5_9ci898(unsigned short  oIrLX)
   return  1351429441;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  HKe_48(int  n3N3,char  vnA1B7i,long long  x01lns8oi7)  {
   return  0;
 }

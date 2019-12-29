@@ -18,6 +18,7 @@ unsigned short	TZo4_z(short int	Pya4mw5T,unsigned int	TLL1D)	{
 	return	1573537974;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  H0Ce7p(unsigned short  D_IRn_)
 {
   return  640234197;

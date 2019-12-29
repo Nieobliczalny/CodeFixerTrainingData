@@ -17,6 +17,7 @@ char    N02k6(short    xYPMJ,long    X0xJ)    {
     return    649911078;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    G81m(char    hI1ew4,unsigned int    p2_Lub8Aw,long long    j7T0Dj,short    c0lu,unsigned short    Y3i2T6qQSG)
 {
     return    0;

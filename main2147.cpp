@@ -788,6 +788,7 @@ long long	bOA5BdC1m1(unsigned short int	vm_Hl5t6,unsigned char	uUnY_qfIc)	{
 	return	960654809;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	L0AAlNJ(short	FuR3ofKbx,short int	nh_4B,unsigned short	mZVdMqy70a)
 {
 	return	0;
