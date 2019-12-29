@@ -21,6 +21,7 @@ unsigned int  ry6fQU()
   return  -478199334;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long hzB0tggx(short int OjfV7i,char c_8JU6o5jL,unsigned long long Rf6W,unsigned char hZE34,int E1dqT) {
  return 791787271;
 }

@@ -511,6 +511,7 @@ unsigned int  XGBxmr__(unsigned long  ea_BLxiSfm,unsigned long long  Op1YymuY_)
   return  -743809831;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  EpTO2EhT0(char  J4y4Yehz7o,long long  JXizL)  {
   return  0;
 }

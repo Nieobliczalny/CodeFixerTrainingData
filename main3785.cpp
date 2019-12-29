@@ -13,6 +13,7 @@ long long mMYlA(long long c0LvS,unsigned int fMZRv9Y,unsigned short int a9s8u_1w
  return 1949775024;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long peDn(char p1q1h0K7DD,unsigned long msW7o2z)
 {
  return -1636329908;
@@ -27,6 +28,7 @@ long long Z7Q9tW6o(char KV7P1Vo8n,long ltJeCW,unsigned short Pj4K,unsigned int H
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int X7hW1hE(unsigned short P4pC2)
 {
  return 464345364;

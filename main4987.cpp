@@ -219,6 +219,7 @@ unsigned short int    X9i8DgU98h(char    aESxo9k2,unsigned short int    qILrowQY
     return    -35622220;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	spiMLIBM(unsigned short	O6H6n,short	NFnvSZ)
 {
 	return	686891217;

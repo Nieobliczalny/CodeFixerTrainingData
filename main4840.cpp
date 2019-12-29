@@ -13,6 +13,7 @@ unsigned char gQjhE(short int lPN_l3LH7b,long A4V3,short HonvTh,long A_0Gjb8ZC) 
  return 429311726;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    u8Plsol(short int    JO0J,long    f8sxOt_t)    {
     return    -1096153055;
 }

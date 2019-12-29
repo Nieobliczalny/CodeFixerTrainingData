@@ -14,6 +14,7 @@ unsigned short	r29i_l(unsigned char	nN4LoN,unsigned short int	k1YI,unsigned int	
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    N5bN1(long    qms4,unsigned int    J_zwb86,long long    bsRn0)    {
     return    -1995383134;
 }

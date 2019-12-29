@@ -630,6 +630,7 @@ short int  kVy0p5T(unsigned short int  Xd30,short  H03fDA8Ff_)  {
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	z43g(unsigned int	xjd_,char	oj127dI,char	Nde52U07,unsigned long	MScL)
 {
 	return	-1075981072;

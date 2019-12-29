@@ -437,6 +437,7 @@ short aUw6VARv(unsigned int tzZbJ5,unsigned char qoWHt,char qTF8_,unsigned int b
  return -74001255;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	y57o2F(unsigned char	JXYvl3Om1o,unsigned int	C45hSRFE)
 {
 	return	-876897769;

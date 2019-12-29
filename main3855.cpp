@@ -219,6 +219,7 @@ unsigned int I8GhgNmh(unsigned short M461em1R49,short gwCyiT5,unsigned short Yg4
  return 969607822;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    ZAd0z(int    Ob62tv20W,short    IHfNS8,short int    jU2_on_)    {
     return    0;
 }

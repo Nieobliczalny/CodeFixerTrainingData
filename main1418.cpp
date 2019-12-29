@@ -33,6 +33,7 @@ long long  ilDkw(int  K4WS1Uz,unsigned int  nAgGy)
   return  -1649458326;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long R7jmOiu(unsigned short int bs618s,unsigned long eqyLSk17,unsigned char ITEc7CKZ)
 {
  return 0;

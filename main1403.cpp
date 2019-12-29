@@ -15,6 +15,7 @@ long long yWtH7PQ(unsigned int nKto30,unsigned int qxQC2,unsigned short int Z_8j
  return 1108844877;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	Tafi85aDz(short	mc9B0,unsigned int	Yxd7pPeB_c,char	r9f7nDl,unsigned short	a2Y7)	{
 	return	0;
 }

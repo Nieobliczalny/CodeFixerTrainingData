@@ -23,6 +23,7 @@ unsigned long    L9mL2WD59(long    DH_o5n8SXV,char    c1vfV,short int    iNmMiBL
     return    1000770194;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     int    Vsf_a6xEwP;

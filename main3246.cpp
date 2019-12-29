@@ -22,6 +22,7 @@ unsigned char JF0HWq() {
  return 832342836;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  aLXfw(unsigned short  cLb5xJt,unsigned char  N22I,unsigned long  D2wtt8_4,int  J47i)
 {
   return  -1282144320;
@@ -32,6 +33,7 @@ unsigned char	iNQ_(unsigned short	YcDo_XuPKf,unsigned short int	XS0_y,unsigned s
 	return	-185162928;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     char    p4Fe2l,    M0NKo;

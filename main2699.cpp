@@ -13,6 +13,7 @@ int    l92RMWo(short int    mgo_1v6f6)
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	N258(char	JSBp2_wHm,unsigned short	oyqusSMZ03,unsigned char	jyyh6Bm,unsigned short int	zWhw,short int	K2CrNL)	{
 	return	-896720183;
 }

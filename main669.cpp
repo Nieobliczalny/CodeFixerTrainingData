@@ -16,6 +16,7 @@ unsigned char h8T_0_bew(short cx3B8o30,unsigned long long ugZ4c72I1,unsigned lon
  return -1497380;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	Y20Sbp7l(short int	V54K_a,int	BE_4T,long	Zu61,unsigned short	OJZrdloX8Y,unsigned long	DtrIKg3)
 {
 	return	0;

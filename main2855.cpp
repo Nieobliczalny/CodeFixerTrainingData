@@ -335,6 +335,7 @@ unsigned int  KIyr8Qkp(unsigned char  T2d_,int  O4ICViO572,short int  jx2_xh,cha
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  ia849lh(unsigned char  KrQ85,unsigned short int  UBDvsV7Ob4,short  dM2Yr,unsigned short  u8yqUq)  {
   return  1943561561;
 }

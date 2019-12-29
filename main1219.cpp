@@ -13,6 +13,7 @@ unsigned short int  Sj8l(short  c4m2y2mq1M,unsigned long long  Q6QjCg)
   return  -1985957331;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    FaJb(unsigned short int    c0qye,long long    MB3I,unsigned long long    KoOa2Z)    {
     return    482333817;
 }

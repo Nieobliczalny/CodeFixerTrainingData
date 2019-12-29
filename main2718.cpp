@@ -644,6 +644,7 @@ unsigned long long  D120Xb(unsigned short  VyEprP5,char  EDlM2yZfN8)  {
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char Bj3725EE30(long xAFR_cPI,short O3k0DuUg,unsigned long long CoGwnDLf2u,unsigned short DHwG7Jp)
 {
  return -1055621073;

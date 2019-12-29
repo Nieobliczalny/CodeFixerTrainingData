@@ -549,6 +549,7 @@ short int    VS2jOa_V(unsigned short    SJZQ45Ybz7,unsigned long    v204Teh31,un
     return    -751369899;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  I984P(short  l1J_Nhfk6_,int  oW4v4Tk,char  S74_Lar)  {
   return  0;
 }

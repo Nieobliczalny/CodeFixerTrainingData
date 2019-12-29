@@ -12,6 +12,7 @@ int L9vSDW(unsigned char x_6kyc9U7,unsigned char M_75NA7yP) {
  return 92130671;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	wdl07guT(unsigned long long	lh0TX,unsigned long long	G36n,short	Pv_e)
 {
 	return	0;

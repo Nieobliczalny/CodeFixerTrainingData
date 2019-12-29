@@ -17,6 +17,7 @@ short  S7WBvBA04(unsigned short int  j4WHp)  {
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  wBZO063(unsigned int  dL12tAQ_D,short  CO_dQ8P8,long  zBVS7)  {
   return  488741292;
 }

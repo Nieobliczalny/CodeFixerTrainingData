@@ -16,6 +16,7 @@ unsigned char    fGe3(unsigned long    U9E0,short    q0sn,unsigned char    m9ZC)
     return    1243630054;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  yIL533(char  tA1hTVpkX,char  HpdjN,unsigned long  XVRYhH0,long long  XP_Jt1iq8,unsigned int  Z_D8B2_FvI)  {
   return  885714915;
 }

@@ -438,6 +438,7 @@ unsigned short	ospfr9TW(unsigned long	Bv8wZI,unsigned long	L65cBJ)	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	fK0G5jiZf5(short int	AJJ1t9IvP,unsigned short int	HEeFLiR,unsigned short	C7_fJOozcE,unsigned short int	O8uL7HO_)
 {
 	return	693607853;

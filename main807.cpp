@@ -602,6 +602,7 @@ short int  TObJ7(unsigned int  u9Qfd0Wn,char  Ct5KN2Oc1,long long  E6NG_50xz,lon
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    C1WO1cw(unsigned short    izSI,unsigned long long    r3rfW1R_,unsigned short int    Vrvo,unsigned long    I54NyQhC,short    T4Sv_)    {
     return    1287799679;
 }

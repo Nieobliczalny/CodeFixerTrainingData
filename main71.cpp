@@ -19,6 +19,7 @@ unsigned long long	h90zT7ct(unsigned int	f97F3,unsigned short int	r_jP2O)	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int s1uOv5(unsigned char zwIHY0)
 {
  return -516510235;

@@ -13,6 +13,7 @@ unsigned short int Xd4cOVl(unsigned int hq2x5907,short int nQ5T1Tmx,unsigned sho
  return -454883907;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	MrojE(char	DtV1C8_,char	R544fQsn1,short int	G2f_o6)
 {
 	return	1382165643;

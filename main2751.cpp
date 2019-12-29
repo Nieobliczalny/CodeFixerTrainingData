@@ -25,6 +25,7 @@ long    N8h03r()    {
     return    1090269048;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	K42zY6(unsigned short	LslZT,unsigned short int	dg_eE,unsigned long long	puQ9fsYd,char	D4H32,char	C5i2_HG0m9)	{
 	return	-2036197109;
 }

@@ -12,6 +12,7 @@ short int a12Um9JKy(long long sDoA13xV,char C_Lmw,unsigned long long Y973Y23l) {
  return -1465535546;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  lUP27(char  pY8R,int  VdiW1o93y,char  mK_OG2PTw2,int  Jk3f9Rg_Ly,unsigned long long  Asxu1d)  {
   return  31987582;
 }

@@ -13,6 +13,7 @@ unsigned long  rr_zX2tw(unsigned long long  y4Of3F,unsigned char  P9LF95o8,unsig
   return  1587954614;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  XIV350cUX(char  KK6V,long  HJg140P0x,unsigned short int  QfStk_96V)  {
   return  0;
 }

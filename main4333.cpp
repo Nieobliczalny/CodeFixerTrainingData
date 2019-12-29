@@ -307,6 +307,7 @@ unsigned int    tSE8em9U(short int    v844T_,unsigned long long    pInWc,short i
     return    -351996046;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char Btu4_64(unsigned long long s4_24Ay82_,long z1wW1b_vhh,unsigned int E83Q500V3) {
  return 2053557041;
 }

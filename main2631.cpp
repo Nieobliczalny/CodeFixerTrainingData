@@ -459,6 +459,7 @@ short int    VQ7e6Ys6(unsigned long long    QCY2m,unsigned char    lyZI6o,unsign
     return    -1737554592;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  yE_wlg4(int  DiDt9Pd6P6)  {
   return  0;
 }

@@ -14,6 +14,7 @@ short int    bhz9_(long    vGJHH0)
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	RGYbD5R(unsigned long long	KMS2_,long	iqnXuC,int	R1K7c2qPt,unsigned int	sz74c2_2oe,long	pf2yX_)
 {
 	return	-1320043393;

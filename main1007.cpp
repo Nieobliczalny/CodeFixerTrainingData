@@ -706,6 +706,7 @@ char	b_2aM(short int	OzkC64hdq6)
 	return	-1095054184;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	oHXq26(unsigned long	xEKZ7N94,short int	EjgHigk8,unsigned long long	xktXub)
 {
 	return	1079314986;

@@ -17,6 +17,7 @@ char	y_0aI6QCT()
 	return	348298954;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	P8JW5n3pX(short	an9_E51T)	{
 	return	-415512821;
 }

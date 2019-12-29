@@ -154,6 +154,7 @@ int x360I8RYX(unsigned int vv2_,unsigned int jMg720,unsigned short int bE4_496g,
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	fs8Si(long long	aM7VOBY,unsigned int	t2eQ9SC1,unsigned char	vDGM,unsigned short	mlIJxE_79,unsigned short	IgO1UT)	{
 	return	-1720141300;
 }

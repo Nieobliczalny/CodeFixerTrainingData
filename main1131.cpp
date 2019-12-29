@@ -21,6 +21,7 @@ char	N9Zl(unsigned int	c5_4rK2E,unsigned short	Y_AP7g20)	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	W7nRBbB7hq(int	tqnZ,int	sKje9IxE,unsigned char	d4V3,unsigned long long	Ia8ivT3,unsigned long long	Olb4)	{
 	return	1446262677;
 }

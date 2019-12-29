@@ -543,6 +543,7 @@ unsigned short	p0pY8mz(unsigned long long	oSb2mCLlV,unsigned long	FILW8BzP,unsig
 	return	137742558;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	V1VXzH1(unsigned short	yxz58,unsigned long	EsZoJi)
 {
 	return	0;

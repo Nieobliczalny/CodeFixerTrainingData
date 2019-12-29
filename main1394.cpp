@@ -13,6 +13,7 @@ long	cCxoEZ8Kk2(char	II8Cc,unsigned int	uNbAM,long long	mpChOX7,unsigned long lo
 	return	-1585463379;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  WS_O9lMx5(short  O0Jge17D,unsigned short int  HdoNa,unsigned int  M4YhN3q,unsigned short int  T9Uk47k)  {
   return  0;
 }

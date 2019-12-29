@@ -13,6 +13,7 @@ unsigned short    EU6W(char    RD1vZgZ,int    yNi6DI5,unsigned char    DC60H4u,u
     return    1858823832;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int q2gOe5(unsigned short int ghvc,short int xPczaX4,short int p5Iyo8)
 {
  return 0;

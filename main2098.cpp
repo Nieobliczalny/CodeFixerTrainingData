@@ -15,6 +15,7 @@ unsigned char	u_r59A8z(unsigned long	fFM67w,unsigned short int	C065)	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   float  U3fZNc  =  612686943;
   unsigned long long  GGVNmuD  =  413302514;

@@ -361,6 +361,7 @@ long long  BTGwdKG14(long  g8Khc,unsigned short int  T1hH9i7dM,short  C01M0HPR_,
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    DlCZko(unsigned int    t3T4R_YSe)    {
     return    986227678;
 }

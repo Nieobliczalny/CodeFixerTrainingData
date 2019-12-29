@@ -420,6 +420,7 @@ unsigned short int kdbOU(unsigned long i6nWzl,unsigned int k51n,char n5pXh_,unsi
  return -694181828;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	XXpiU(short int	mEXGxlel_4,long	Bb460,unsigned short	FUy5,unsigned short int	Y4lF68SM_)
 {
 	return	1918159863;
@@ -436,6 +437,7 @@ int	XxFy1(unsigned int	Il1177OG,unsigned long long	ho40Dlv)
 	return	-51486929;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short  jrvLxG(unsigned short int  L5b1wi63,unsigned long long  I4ln_)  {
   return  1576338577;
 }

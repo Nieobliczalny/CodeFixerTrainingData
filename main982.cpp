@@ -19,6 +19,7 @@ unsigned long Q_jzV(unsigned char d2xChcoa8I,unsigned char P78Rx468tf,unsigned l
  return 810607623;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    eU6FUD8j6y(long long    s6rt,long long    F4pf,int    GU_3,char    QcW2_xX)    {
     return    0;
 }

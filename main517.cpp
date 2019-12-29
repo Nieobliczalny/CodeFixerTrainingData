@@ -18,6 +18,7 @@ short F7K15f0e(unsigned long Ig8MbCq4r)
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   unsigned short  tLu22ldu_,  FfD9M5y,  JU2M,  m7N2OM647p;
   tLu22ldu_  =  0;

@@ -18,6 +18,7 @@ long KvbL1ej8(char aFKL2u4,char sl63GEe9sm)
  return 1273905005;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long Nu6f14(long Z1jW9W7LI,char UkZNy16zZJ) {
  return 0;
 }

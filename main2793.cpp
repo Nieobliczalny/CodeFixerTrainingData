@@ -790,6 +790,7 @@ int R132fL3RF5(int UvzXwBVT,unsigned long md132,unsigned short yLSQf_)
  return -1772805324;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	Nx_V6o(unsigned long long	l7SW6)
 {
 	return	215285127;

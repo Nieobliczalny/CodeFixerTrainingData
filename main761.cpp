@@ -18,6 +18,7 @@ unsigned char  G7u3(long long  I1EZ_74t,short  uALMYyy,unsigned short  Qr5kp0J,u
   return  -1993591369;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	wDDf1l(short	nNU_Xv,unsigned char	Jw9Q)	{
 	return	1344052679;
 }
@@ -33,6 +34,7 @@ char  mthBk_c7iQ(unsigned char  aTpzE,unsigned int  sZy3i,unsigned char  HhK492F
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  int olCTYRTG6Z;
   olCTYRTG6Z = 0;

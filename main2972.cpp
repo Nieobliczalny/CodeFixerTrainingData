@@ -21,6 +21,7 @@ int    S8dMmt(int    aA89cm0SLI,unsigned long long    r4du,unsigned char    WT73
     return    -298829282;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short SnN8F(unsigned long RX1rK3Y57,unsigned int JG76QW,long long KlJzJIl) {
  return -824329426;
 }

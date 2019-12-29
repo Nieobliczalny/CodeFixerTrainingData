@@ -18,6 +18,7 @@ unsigned char    VgNZ(short int    K7FT0l,unsigned short int    TepinvPd_,int   
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     unsigned short int    sCN35c8l_r;

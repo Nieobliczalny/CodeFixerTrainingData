@@ -412,6 +412,7 @@ unsigned short int    fYttb9()    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  S700zs_(char  Fk4R)  {
   return  -1390737184;
 }
@@ -422,6 +423,7 @@ unsigned long long Nrk8Ms06aT(short zZ4aZyOA,unsigned short SkA50Y,unsigned char
  return -1453470725;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    Y3vYv_Al5E(long    Ug__B)    {
     return    -147766285;
 }

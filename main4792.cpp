@@ -14,6 +14,7 @@ long U8B6m0(unsigned short R5zEK2ntQ,unsigned int aE621KHhh8)
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	V6Wbu(unsigned short	m16xIQ1,unsigned char	W1PG2rmjTE)	{
 	return	-1484590357;
 }

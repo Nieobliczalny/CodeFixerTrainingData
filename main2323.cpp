@@ -22,6 +22,7 @@ unsigned long    K93sxmiG(unsigned int    Tz8B_Y2Oz,unsigned long long    f8t0MB
     return    -143256199;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  long long IJmL7Z2Jl = 1784551673;
 	unsigned long	GiCqL	=	-379274072;

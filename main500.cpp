@@ -499,6 +499,7 @@ unsigned short int	q_V4nU(int	VDswU_5t,char	q_s5RrF7,unsigned short	PT13_y8,int	
 	return	662758466;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    f1O4ukSk5k(unsigned short    H5FKaISK)
 {
     return    0;

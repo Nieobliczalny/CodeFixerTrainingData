@@ -13,6 +13,7 @@ unsigned long oh_f(unsigned long vtF2M_dL1,unsigned short nby8hpA,unsigned int x
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  h0isClHrcX(short  x3_6oVA6,int  ohBd_IC,unsigned short  MVTvC5E6,unsigned int  K2Xh_)  {
   return  -487494742;
 }

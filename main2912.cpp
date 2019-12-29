@@ -17,6 +17,7 @@ long  jFyy1tF(int  WjbF1mtNwO,unsigned char  bo94upAl4,unsigned short  XrGAq)  {
   return  878585408;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    JM4w(unsigned long long    Eo0_)    {
     return    0;
 }

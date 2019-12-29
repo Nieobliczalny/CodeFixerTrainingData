@@ -14,6 +14,7 @@ int DYD82wTc4q(short int sDFSs8,unsigned int N09sOSkH83,int f2_ttVWq,int fVzthk)
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  shNB7(int  f76_c)  {
   return  -366748472;
 }

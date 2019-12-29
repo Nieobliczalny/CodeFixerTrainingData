@@ -15,6 +15,7 @@ unsigned short  NmrE(unsigned long  fzb_7pUl,char  Z74u,unsigned short  rOiZkp,u
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  o4qF(long  C5pCO)  {
   return  1282200724;
 }

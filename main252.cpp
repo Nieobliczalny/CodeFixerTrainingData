@@ -17,6 +17,7 @@ unsigned long long    S3f0QUHrJ9(unsigned int    yK483B,unsigned short int    Dj
     return    -1760972580;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char G42vSiIT(unsigned long Y_S9,unsigned short int y6V9ah7z,char W_i63Ic1,long long J28U2t) {
  return 797252805;
 }

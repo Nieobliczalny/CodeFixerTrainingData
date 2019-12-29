@@ -17,6 +17,7 @@ unsigned long long  B68n5i76()  {
   return  -1356470677;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	unsigned short	Dnbs,	Wx3t1N29_3;

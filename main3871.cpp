@@ -296,6 +296,7 @@ long	IfED5g(unsigned char	nl7dwC_3H,short int	Lkk0,char	bjg1i,unsigned short int
 	return	535703904;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long ukfup(unsigned short T8663) {
  return 0;
 }

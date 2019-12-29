@@ -13,6 +13,7 @@ short	IczK4f(short	nQtmf0SP)	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	C5Nqe9q(unsigned short int	ia6hWr,short int	uX6k_O7f1,unsigned long	E5R8,unsigned int	EmKuP)	{
 	return	-2101232145;
 }

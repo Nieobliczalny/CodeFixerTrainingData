@@ -408,6 +408,7 @@ unsigned long long	A4c24q(unsigned short int	HKl14,int	kJj17Y,unsigned long long
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    N0wzCf(long    O90T)    {
     return    1765799297;
 }

@@ -21,6 +21,7 @@ long  S47h(short int  n5VPO0rIIv)  {
   return  -312223037;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    DLmTzl(unsigned long    jhjuGTV,unsigned long long    PBU8iAb,unsigned long long    wOhs2FnG)
 {
     return    0;

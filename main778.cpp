@@ -16,6 +16,7 @@ unsigned short	Yft_cc(unsigned long	rl77dJW,unsigned long	SK5_djBb)	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	long long	rRDoA	=	1264011822;

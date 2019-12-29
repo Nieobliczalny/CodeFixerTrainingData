@@ -12,6 +12,7 @@ short int	Rd2h5(short	bZY0,unsigned long	l705T11XGb)	{
 	return	-88303386;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char NXPQk(int nrOm30RIbZ) {
  return 0;
 }

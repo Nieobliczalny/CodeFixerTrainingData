@@ -14,6 +14,7 @@ long long  l1_823C(long long  chJ_76ESQ0)
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    fOly5p6rbk(char    Yp333,unsigned long long    pzzn7q,long long    Vx3_,unsigned long    UMn1jo)
 {
     return    1528028777;

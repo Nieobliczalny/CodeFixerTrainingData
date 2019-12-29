@@ -17,6 +17,7 @@ unsigned long    kQx74y(int    wTcAB8,unsigned char    uQdF4,short int    acV7B,
     return    -73787456;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	lbm4v(long	HVrMzb6,unsigned short int	cYsf1tiXqO,short	MzlqK)	{
 	return	0;
 }

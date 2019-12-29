@@ -14,6 +14,7 @@ unsigned short tUy_s(unsigned short OSb3L,char p1Y0)
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	m2ulQw(unsigned short int	rZ5jyqv3v)
 {
 	return	1710311382;
@@ -30,6 +31,7 @@ unsigned short  pWyuB06(unsigned long  se_4)
   return  1841354502;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	y10_4a1x(short	M4__1zi)
 {
 	return	-220042414;

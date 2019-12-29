@@ -14,6 +14,7 @@ unsigned int	WQwr(long	QCnLQ,unsigned int	E4JXnhW)
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  short F_Er_BJdD = 0;

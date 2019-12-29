@@ -187,6 +187,7 @@ short    kZFHy3(char    wr_O6,unsigned char    bCd2x7QGB_,int    KFVq_4T84Q,shor
     return    551766619;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short K729_Ke6(unsigned char am3p,char fWpAbzwAO4,unsigned short iV1861y34O) {
  return -554666359;
 }

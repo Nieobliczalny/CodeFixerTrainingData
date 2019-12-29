@@ -15,6 +15,7 @@ unsigned char    dH7vQ(unsigned char    srqVQ,unsigned char    g3LLf)    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char tyIpXYO52_(unsigned char rV_vy_ZI,unsigned short dAL13KXq) {
  return -1917902853;
 }

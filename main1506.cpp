@@ -13,6 +13,7 @@ unsigned int  zJ_n(long  j6L_9H1,unsigned short int  Q3HpL9r,unsigned int  bQU36
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    nWXna(unsigned int    p8tv5by6,unsigned long    n285TR_N3)    {
     return    878645794;
 }

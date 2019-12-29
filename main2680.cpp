@@ -21,6 +21,7 @@ char  lwNkug09u_(short int  iMu6tLpmyG,unsigned int  K2yv6)  {
   return  1029960295;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short  N_lDDR6W(char  c7_4,int  AVo53_,char  dt_v0_c6,unsigned long long  jq09N)
 {
   return  0;

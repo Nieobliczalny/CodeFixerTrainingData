@@ -18,6 +18,7 @@ unsigned long	oVadbS(char	LpQA7Z5aW,int	HqV6c,unsigned long long	d0H2DD,unsigned
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    IPOl_na3U(unsigned long    v_Dc,long    gJW1BI6,unsigned long    jRIaZB8oW7)
 {
     return    -1692602109;

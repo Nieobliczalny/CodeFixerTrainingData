@@ -354,6 +354,7 @@ unsigned long long  Ms70(unsigned short int  Sh0NxB5,unsigned short int  A872INB
   return  117487798;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    QEM94Gqnd(char    Z7X30LqU)
 {
     return    0;

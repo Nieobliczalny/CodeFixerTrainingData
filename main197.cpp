@@ -242,6 +242,7 @@ unsigned long	lUN0(short int	SFoz4_0F,unsigned long	MrPn4e,unsigned long	Lh8V,lo
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	fAxBe85O(unsigned long long	gS9t2,unsigned long long	zOK2N1J,unsigned int	AiL8u,unsigned short	j4_0AI3m0)
 {
 	return	810481478;

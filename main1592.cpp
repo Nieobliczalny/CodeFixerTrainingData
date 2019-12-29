@@ -14,6 +14,7 @@ unsigned int J0Ekd2l0p(unsigned short int ci_F8SSR,unsigned int gNcg1,char K34Q_
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long E4o1b3x(short T22g8Qp6m) {
  return 686840093;
 }

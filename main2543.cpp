@@ -20,6 +20,7 @@ unsigned char	c7fOVb14()	{
 	return	-1948385680;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  k3E7M41ddx(unsigned char  xpXr6IQ_9,unsigned long  Y3Jl8,int  lMxkXc)
 {
   return  0;

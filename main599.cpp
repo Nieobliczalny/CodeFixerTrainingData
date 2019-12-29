@@ -20,6 +20,7 @@ unsigned char jPYgIj(unsigned int jFxX3_29Ce,int e2_7lK)
  return 1164004144;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    NyQhD(unsigned char    duWC99t5,unsigned int    r2F48QE6,char    KSLwGr49b)    {
     return    0;
 }

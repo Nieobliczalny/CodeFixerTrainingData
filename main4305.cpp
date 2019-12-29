@@ -224,6 +224,7 @@ unsigned short  f8P_6m(unsigned long  luw3cK,char  sBT1,unsigned long  DP4b,unsi
   return  -1657606293;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	hN_LN8v(short	VlUEH7,unsigned short int	O3u8ViXhV9,unsigned char	v8h0AL,short	V7ImV8bD)	{
 	return	0;
 }

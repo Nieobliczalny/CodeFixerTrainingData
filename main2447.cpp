@@ -238,6 +238,7 @@ long FKCr538O(long Zg_EfQ,int litdPhoL)
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  r_hR78(long long  hP2_u)  {
   return  -2008061453;
 }

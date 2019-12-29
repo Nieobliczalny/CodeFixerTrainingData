@@ -18,6 +18,7 @@ unsigned int	yg401(int	v6bxoZU,short int	U3sTOR,char	aqI1)
 	return	103368320;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	hsNQyt3CGS(unsigned long	ejIFPlC,unsigned char	kx4iE,short int	FYSh,char	iB2P5G7D)	{
 	return	0;
 }

@@ -22,6 +22,7 @@ int    UIf_()
     return    640873635;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  tb7qTy2(unsigned long long  r2rzx,unsigned int  vARUM2IU,char  U5kP5_s)
 {
   return  0;

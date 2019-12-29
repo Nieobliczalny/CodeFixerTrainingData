@@ -678,6 +678,7 @@ unsigned short int RcQg6kV06() {
  return -1148364043;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    k83P(int    NZccBDokp3,int    t2Q31_lo,unsigned short    yvyTk_x0,unsigned short int    h2MlR0_IH)    {
     return    1297669222;
 }

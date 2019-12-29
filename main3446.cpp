@@ -450,6 +450,7 @@ unsigned short int jc8N6ag(unsigned long long t07X,char GswqK5)
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char w2ykE19(unsigned long long i3t8pwm,unsigned short int qUFzO5,unsigned char bR_dPJ2jCy,short int P6Wh_yF2o,long c433H8N) {
  return 19996494;
 }

@@ -19,6 +19,7 @@ unsigned long  Unx_()
   return  -1477712782;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    erPrh_j1(short int    d587_2Sz)    {
     return    0;
 }

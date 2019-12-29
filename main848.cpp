@@ -16,6 +16,7 @@ unsigned short int  AE6q7TL_iq(char  bmWUni4,short int  lNTfz,int  b0CvelvWX)  {
   return  -1570638285;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    GUZmu(unsigned int    hpm5C6h,unsigned long long    Hq5777,unsigned short int    Bfzd_b_3I)
 {
     return    0;

@@ -127,6 +127,7 @@ unsigned char	PhSP(unsigned short int	nyahWkb,unsigned short	K714l,unsigned long
 	return	-1546330511;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    stgxhuhc0(long long    AQnK,short    YfLSj,short    wHKx8G7,long long    y5EL4Rlj_X,unsigned short int    ly6nz7r2i)    {
     return    1918948654;
 }

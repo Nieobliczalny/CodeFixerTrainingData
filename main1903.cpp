@@ -16,6 +16,7 @@ long long    ga0I(long long    kfd_2zN4e,unsigned int    I95g,int    TN3H)    {
     return    1998541737;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long mTfLe5JZ9L(unsigned long long XhVLKxx0,unsigned short int GlvLv1g,char FSm61kLZ)
 {
  return 0;

@@ -16,6 +16,7 @@ unsigned short int  f383(long  H6596j6GEm)
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	v_gSjY85(unsigned int	A43YEQC83E)	{
 	return	714635104;
 }

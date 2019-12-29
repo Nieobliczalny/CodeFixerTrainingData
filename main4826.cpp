@@ -12,6 +12,7 @@ unsigned short  CMS02yt(unsigned char  D519_9a0_,short int  hvfIfS,unsigned long
   return  -7267049;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  aYJsAlTCE(int  Fw9kGZ0H1x,short int  qCzi0,unsigned long long  QPTrpojuq)  {
   return  1599952398;
 }

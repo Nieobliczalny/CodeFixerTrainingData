@@ -15,6 +15,7 @@ unsigned int    QEPpm_(int    f57hgd,unsigned char    HqLFj77,unsigned short    
     return    -2096932154;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  hWpOpT(unsigned long long  zbzXfhaS,unsigned long long  CP1InG0v,unsigned short  mUB2,unsigned long  q9J02,short int  nqGYf776i)
 {
   return  -885987979;
@@ -26,6 +27,7 @@ unsigned long long  A30Pm(int  C3CNG1FM)
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long taG3z(unsigned short iYBxhbol)
 {
  return -615208949;

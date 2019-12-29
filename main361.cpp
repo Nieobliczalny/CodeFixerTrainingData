@@ -533,6 +533,7 @@ unsigned int    wH15_xPEzk(unsigned short int    fKKIRks,short int    vNaO,unsig
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long VAvVs4A(unsigned long long AW3zJ13W7)
 {
  return 1155900514;

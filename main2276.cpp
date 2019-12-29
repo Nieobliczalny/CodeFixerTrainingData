@@ -821,6 +821,7 @@ unsigned short	SB2f_Jzc(unsigned long	D0kWh08uWO)
 	return	1042467944;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short SJR1(unsigned short cu6_4,short DV_2CW,long yevRl,unsigned short int UGP81hAr) {
  return 0;
 }

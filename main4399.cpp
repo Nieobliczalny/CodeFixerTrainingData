@@ -21,6 +21,7 @@ unsigned char  PCx73h(unsigned long  jSPu,long long  k0Iqb163)  {
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int jzn8egva(short int gqgjDM,unsigned char gV686,unsigned short q3I4_V32,unsigned short int j0cJ)
 {
  return -955445079;

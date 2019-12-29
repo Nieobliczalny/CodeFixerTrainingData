@@ -13,6 +13,7 @@ unsigned char i_p7Xcwd(unsigned char DzmH6CX6,unsigned char LdvDa,short int blms
  return 1995720882;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int Y5p_5r(short J4gIfO7QD,long M29p,unsigned int yx1f9X_Ryz,unsigned char nSV5H7r,unsigned char NT91KT0) {
  return 0;
 }

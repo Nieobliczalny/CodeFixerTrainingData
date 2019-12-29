@@ -13,6 +13,7 @@ char Reb5nOB(unsigned char J8X9,unsigned char KwXWdqNTmt,unsigned short int SF7m
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  unsigned short quXHDeqN = 454375039;
 	double	xjX9PDSB71	=	-634176887;

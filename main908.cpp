@@ -30,6 +30,7 @@ char    IUOr2(unsigned short int    QCNw_88)    {
     return    1977951917;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	S12iZ0(unsigned long	tul55Jl,unsigned short	YDiR3,unsigned short	v_bXpX,unsigned char	yce24O)	{
 	return	0;
 }

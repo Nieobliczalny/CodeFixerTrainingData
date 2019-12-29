@@ -625,6 +625,7 @@ unsigned short int	ubIA1jnte2(unsigned int	IBIRW,unsigned short	YoPbYZ,char	xR6R
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    O6syBA(unsigned int    kh3R_y,long    w5CF9ZZ5Ei)    {
     return    -1339163254;
 }

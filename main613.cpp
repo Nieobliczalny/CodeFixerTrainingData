@@ -519,6 +519,7 @@ short    U_HBze(unsigned long long    G7_My3_9,char    X_04,unsigned long    lMH
     return    341289750;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  WFOa47(int  ZuDW0,char  ZD9aBeD)
 {
   return  -960890225;

@@ -21,6 +21,7 @@ long long tMFN6MC6_d(unsigned char n1kU,unsigned char t_ZYQV,unsigned short int 
  return -1412914878;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short HzsRd(unsigned long w_yp0Zb2,char s90hHX,unsigned long long ZM2_1q8JaW,long B_m7y_4uTB,char NTWx3uE) {
  return 0;
 }

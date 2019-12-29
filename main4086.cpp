@@ -272,6 +272,7 @@ long  LpRU1Vm()
   return  -313699333;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short  zKn4PBzR(unsigned char  CLY8d,short int  g6ut,int  fISz86k,long long  kBb8ypVOm8)  {
   return  -1895322819;
 }

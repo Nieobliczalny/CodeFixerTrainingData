@@ -13,6 +13,7 @@ unsigned long VVtcw6(unsigned short ct7fJR_m9R) {
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int Sqo5KN9_o5(short int Vt_D,char pxImUSjkW,unsigned short d9IOFVO3_Q) {
  return -1771010638;
 }

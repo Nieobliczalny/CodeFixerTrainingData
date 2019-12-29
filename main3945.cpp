@@ -15,6 +15,7 @@ unsigned long long  LuL3(unsigned char  elBA7,unsigned char  S7iRzC9)  {
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char Wr8_YLX6q(unsigned long H2UJ)
 {
  return 1373945277;

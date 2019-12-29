@@ -18,6 +18,7 @@ long	z23p(short	d2ulSr,unsigned short int	s_cYbhogya,int	lybf)	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char traSZ(unsigned short int nT178u)
 {
  return 118994710;

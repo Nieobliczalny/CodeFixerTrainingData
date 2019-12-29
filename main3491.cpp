@@ -338,6 +338,7 @@ unsigned short bunFOb9(short int Y561L,unsigned long ERyvN38qx,unsigned int BFdf
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	o0_y(int	UCXX_8CdtH,int	hAYR)	{
 	return	-301906283;
 }
@@ -353,6 +354,7 @@ char w371(unsigned long long mYeW,short zeLvcrfA_z)
  return -302970599;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  YZ696(long long  x44QCU9,int  h_8Zu)  {
   return  300248937;
 }

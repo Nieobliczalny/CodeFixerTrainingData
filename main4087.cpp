@@ -13,6 +13,7 @@ unsigned short int    rDFcOMbkwb(long    KxcOiVHrs,int    pp5F7p)    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int GQsY_(short int M29aaSU1_A,unsigned long XWZ8Cht9l,unsigned short rA17) {
  return 1063536233;
 }

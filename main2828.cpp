@@ -17,6 +17,7 @@ char  F0Gi(char  Z_46yK)
   return  1057525936;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    G4l_C5t(short    XaMO)
 {
     return    433088837;
@@ -28,6 +29,7 @@ char  FVNi5RTr(short int  J0BwjOk24,unsigned short  G1Zw,unsigned char  TGtIDKhb
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long tXQ1(unsigned long hEAPDJ,short A5Kl4f9L8y,long long cEFjI57AX3) {
  return 22257540;
 }

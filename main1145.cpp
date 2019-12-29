@@ -26,6 +26,7 @@ int	KZT0u7NK0()
 	return	-1257685616;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	n4SZi(long	N9w2ELMy,long	RW7S,long long	cr50d)	{
 	return	0;
 }

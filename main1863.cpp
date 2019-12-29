@@ -17,6 +17,7 @@ unsigned long long eV4b(unsigned short int WOJWp,unsigned short int VoSM,unsigne
  return -1663107133;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    H_o_snL(long    FQl6X4,unsigned long long    jq80O)
 {
     return    0;

@@ -17,6 +17,7 @@ char    XPfR3(unsigned short int    XcSALh63G,unsigned short    Repc_04Jx,short 
     return    -1082655842;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  ZXx9L7jueA(short int  ZU0VqpOi)  {
   return  -180827963;
 }

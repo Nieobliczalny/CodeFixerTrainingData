@@ -569,6 +569,7 @@ int    fQP_I1ulX()    {
     return    -923390185;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    um81pOmZl(short int    NVH1)    {
     return    972146712;
 }

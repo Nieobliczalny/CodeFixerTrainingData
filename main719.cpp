@@ -16,6 +16,7 @@ short int    r_7A(long    QdzP6,unsigned long long    l_sreH9,unsigned char    z
     return    1476146313;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  Vmg9oT2r(long  a2VHVS,long  P5Me)  {
   return  801612675;
 }
@@ -30,6 +31,7 @@ int  Su8NAX2878(unsigned long long  ITBH9ANKm,unsigned char  u9P5b,unsigned int 
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   long  P6X_Ujq;

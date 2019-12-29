@@ -18,6 +18,7 @@ char iY08(long h6M2L,int n53ZcRNu_)
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  unsigned long long gv5nzXr68e, i28muO1, dH8sjYOL, IbW7phy2, BmZ4BBFC;

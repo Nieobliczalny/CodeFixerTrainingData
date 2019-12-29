@@ -590,6 +590,7 @@ int	OdIh(unsigned short int	z243K17i)
 	return	929582223;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	YVP926r(int	bq1E083,unsigned char	O8gCE675BN)	{
 	return	-1482587173;
 }

@@ -253,6 +253,7 @@ char u0O5z7(unsigned long long Aw6k6uVr,unsigned long ZMsXY8C,unsigned int Bors,
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    k4n_zs(unsigned char    mL4I6nb4,long long    WY_ts5,unsigned long    qqmJJfmx,unsigned int    fM1w7)    {
     return    -1739153731;
 }

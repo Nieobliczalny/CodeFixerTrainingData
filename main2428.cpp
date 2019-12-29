@@ -22,6 +22,7 @@ short int l5hH82(unsigned char lXEdf410,unsigned char WZuPcgn,unsigned short li3
  return 505444374;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int hpwQV3ebLQ(long long rD0c09,unsigned long mL5_z2,unsigned short KQ_0ZrDO,long long NZSSGsA)
 {
  return 0;

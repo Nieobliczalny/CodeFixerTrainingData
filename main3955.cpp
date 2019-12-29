@@ -18,6 +18,7 @@ unsigned long  Cu_NKa5(unsigned short  KSi377lNN)
   return  -1576094394;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	QljR(long	VOCi27cY9J,unsigned short int	mO01787ibk,unsigned long long	SLBSpUnq9)	{
 	return	0;
 }

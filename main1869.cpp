@@ -294,6 +294,7 @@ long long    TF506rB1Lc(unsigned char    wr4ny4J,int    wO_tvXT,char    ql347M,l
     return    -515752858;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    BeMR(long    WD5YN2_OF,short int    vW2n1c0N2Z,char    qlcQ0)
 {
     return    0;

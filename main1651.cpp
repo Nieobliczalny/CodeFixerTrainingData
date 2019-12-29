@@ -12,6 +12,7 @@ unsigned char    Xl6b(unsigned short int    vdn3b6__,unsigned int    SEh5G6Ou0) 
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   unsigned short int  QPPbq3  =  -296932185;
  short V2hmYh = 1140920692;

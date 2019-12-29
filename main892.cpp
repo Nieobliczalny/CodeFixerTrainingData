@@ -18,6 +18,7 @@ unsigned short B8Ks(unsigned long rmzpp6vgQ,unsigned long long wQ49vpYR,short in
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short o_AzU87(unsigned int DLFR8q)
 {
  return -1689698501;
@@ -33,6 +34,7 @@ short    TX6DzrRh(long long    bPKDb_0sp)    {
     return    -120135038;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	long	Me0QHr,	VFxV,	SnZ5t,	j4c9Nepo;
 	Me0QHr	=	0;

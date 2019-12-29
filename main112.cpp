@@ -403,6 +403,7 @@ unsigned long kl7Z00FL(short int AioG)
  return -143191185;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    Uiv6o6(unsigned char    jZZ0Kov6g,long    x5eqjg_YWx)
 {
     return    0;

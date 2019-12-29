@@ -17,6 +17,7 @@ short int dZkg(unsigned short int l_Wgas,char E67n3r)
  return -1178751096;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  ae8h(unsigned char  M2v722qb5,unsigned long long  TahXX7,unsigned short  TBu2_,unsigned short int  MX_7Cu1,short  cZeKHm0P5)  {
   return  1097814793;
 }

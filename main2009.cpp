@@ -277,6 +277,7 @@ unsigned char    WTZxCmL7F(int    TR9N192G,long    ddgDa2QakO,unsigned int    jI
     return    -2092801195;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    gA_7Je(char    s4Vx2lBP1,long    sPS7P_4I)
 {
     return    -1843727494;

@@ -18,6 +18,7 @@ unsigned long long iu5zX2Xpz2(long sWP573xUrC)
  return 452208556;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  HMm098IFk(unsigned long  d8nNSV1,int  IE_49k08,unsigned char  phy9568V)  {
   return  0;
 }

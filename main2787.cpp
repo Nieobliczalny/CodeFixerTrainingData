@@ -24,6 +24,7 @@ int	YA4EpPs7(char	c40T13C_,long	ZBSPVl8b3g,unsigned int	pWNaR8,unsigned short in
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	e_6NBY7(long	T5bFAst21C,int	gD4i78hx,unsigned int	F76K0,unsigned long	Qp4_d5RK1)	{
 	return	1059658956;
 }

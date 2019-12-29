@@ -238,6 +238,7 @@ char gR90573yb(long long zRZiMpt6V,short K2WY_T3uv1,unsigned long A0OuGr7Ea,unsi
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long Oy_3FmHq7(unsigned short int n8r45yuy10,unsigned short E_9P4,unsigned long long pWY4K2P)
 {
  return 592601519;

@@ -623,6 +623,7 @@ unsigned long long H4Zp6(unsigned short fbX2_hGJR5,long long E0jC,int YbhDD7,uns
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	AhK2X_(unsigned int	ThCw9_45kq,unsigned short	z5BTD0_HV,short	cV8qCESRjH,long	KRDx,unsigned long	Ljb00H25)
 {
 	return	-1700868966;

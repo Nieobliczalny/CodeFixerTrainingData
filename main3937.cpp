@@ -18,6 +18,7 @@ long long WO8vtKK_08(long long R0t_,unsigned long z11cPCzx_,unsigned int OHpIY1P
  return -1852094207;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	e83Lk306(unsigned int	z782C25R,unsigned short int	asqEUP2Yj6)	{
 	return	0;
 }

@@ -23,6 +23,7 @@ unsigned char	HQ4CHH5USu(short	eDpL,unsigned short int	u09opZVb,unsigned char	l3
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   short int  x00Xpfo855,  p1t_NTt,  vSfB6jmUqR,  GGPx_QAL,  ZbElwPFR;
     x00Xpfo855  =  p1t_NTt  =  vSfB6jmUqR  =  GGPx_QAL  =  ZbElwPFR  =  0;

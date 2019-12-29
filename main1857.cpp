@@ -17,6 +17,7 @@ unsigned int gA18v_99(long long WxLR) {
  return -288937215;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	RMxax35YD_(unsigned int	q9gftA6YlX,short int	bV_H3J2)
 {
 	return	0;

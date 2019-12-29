@@ -22,6 +22,7 @@ unsigned char    or00pmQ()    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short nS800OS_(unsigned short sCsbucfW,unsigned short int s28VlE,long ho7N23C,short Z4wWNMKL64)
 {
  return -1711090757;

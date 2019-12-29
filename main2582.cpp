@@ -802,6 +802,7 @@ unsigned char    H8i_l(long    cU_3n4,unsigned char    Xcc1LH9,unsigned short   
     return    1767449010;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    uVTrBs76(long    mKt9OY,int    uMiY30)    {
     return    0;
 }

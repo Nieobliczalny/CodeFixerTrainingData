@@ -14,6 +14,7 @@ unsigned short B0D_fuYK(unsigned char yeW18a7Xu,unsigned long long U1h_U)
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int bss1(unsigned short int ig2i,unsigned long long Fvg2Px,short int APRzsv) {
  return 1744109175;
 }

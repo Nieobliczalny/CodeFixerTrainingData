@@ -17,6 +17,7 @@ short	y2tK(unsigned short	Qtt8O,long long	NO3b6,long long	J4bS3c,long	Hpu6ho,int
 	return	1436842000;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short E6t63(unsigned long d7Rl_cIWu,unsigned short NM3eki,long u0Il,unsigned long long eO01j,unsigned int UKFV5pK84)
 {
  return 2120476192;

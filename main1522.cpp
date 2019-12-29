@@ -903,6 +903,7 @@ int	Wzz8(unsigned long	w7UM3zC,unsigned int	U2uudY_d,long long	f2YKBG)	{
 	return	-408110989;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    BVqqEzu2oh(short    as2D0grGha,short    T8Al_J9e,long    NM03glcAv)
 {
     return    0;

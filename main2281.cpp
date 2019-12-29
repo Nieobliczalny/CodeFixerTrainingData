@@ -692,6 +692,7 @@ short um8e3G(short z4ss2l2,char ZLkvJ2fA,unsigned short h5QA1F43uB)
  return 2083526962;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long tUhQHH(char RPl_b) {
  return 0;
 }

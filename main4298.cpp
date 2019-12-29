@@ -14,6 +14,7 @@ short    gx_B(int    lRV8MSf,unsigned char    ufjAw7P0P)
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	P3W1qCYv(long long	JJc9,short int	f2wWnpXZB,unsigned char	D5774kfAV,short	v7sHKG)	{
 	return	540838424;
 }

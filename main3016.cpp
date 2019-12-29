@@ -661,6 +661,7 @@ unsigned int    cw04Qj1(unsigned int    z1hr)
     return    -546240732;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    xY2GnjY7(int    d8VU)    {
     return    0;
 }

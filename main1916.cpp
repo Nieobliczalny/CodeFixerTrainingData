@@ -289,6 +289,7 @@ unsigned long	Rm0zN2tO(short int	So83,short int	YxtI,short int	FpJ482O5,unsigned
 	return	-919704628;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    y3B2(unsigned short    KE592VTjK)    {
     return    1952733709;
 }

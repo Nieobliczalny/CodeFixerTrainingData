@@ -12,6 +12,7 @@ long long	Iwgt172Vm0(unsigned char	Nt5to,unsigned short int	C6O_Sd0O9,long long	
 	return	2134744993;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int siy_hU(short pMv_zpc)
 {
  return -779284546;

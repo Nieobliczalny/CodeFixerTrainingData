@@ -18,6 +18,7 @@ unsigned short    Q_5W(unsigned long long    rJ0E6NM)
     return    1941469168;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  qXn_2Z(char  WBe4y3m1c7,short int  Js1fPL,int  NLom8I,unsigned int  TsH6Izg4)  {
   return  0;
 }

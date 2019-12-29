@@ -14,6 +14,7 @@ unsigned char    viHQ(unsigned short    apz9qPt8fl,unsigned char    awU_2q_P)
     return    -647564078;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	j4YhU(unsigned char	BXw7H,unsigned short	oE15L0yh_,unsigned long long	pzAJ4np_WQ,unsigned short int	Pypyg7,int	Nv36hk)	{
 	return	-645304720;
 }

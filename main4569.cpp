@@ -23,6 +23,7 @@ unsigned char	GtA_sE3(unsigned short	oz8SL,unsigned short int	tB8BQGw9y,long lon
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    nz0GFw(short int    x_e_zLf7,char    Xm8X,int    iQF1Y0PBd)
 {
     return    122285501;

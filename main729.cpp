@@ -446,6 +446,7 @@ unsigned int    oadRR()
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    oEN9Fc(unsigned long long    fwKm,unsigned long    G150zFQsF,long long    XOmv,short    o6wl_nwH7R,unsigned long long    N4R05lB7)
 {
     return    1155741760;

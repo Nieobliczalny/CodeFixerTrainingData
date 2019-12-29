@@ -13,6 +13,7 @@ unsigned long	jh_4jdwK(short int	Hy1Bemeq,unsigned long long	ID5lJClQEv)	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  unsigned long LOSDTbQ4 = 0, m_M7e0C = 0;

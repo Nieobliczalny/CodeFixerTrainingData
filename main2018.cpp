@@ -18,6 +18,7 @@ short int	a1Im()	{
 	return	91509732;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	Snmz(char	UW0j1)	{
 	return	596886248;
 }
@@ -32,6 +33,7 @@ long hPGw(unsigned short int c22gOAre,short int z0w0vu4K8)
  return 1726963149;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  double EiD62yt;

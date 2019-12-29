@@ -23,6 +23,7 @@ long long  R7C3v_Q8t(short  yOxDLtm,unsigned int  b0QWGTYLxM,short int  rjRAmo9)
   return  1618830086;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	unsigned char	uqCE	=	162853070;
  float vC6HwL5h = 1860640685;

@@ -31,6 +31,7 @@ long  LDfh3_BR()  {
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  Q0l2sx9(unsigned short int  dlB33vp,unsigned char  t7pYN3Y010,unsigned char  qs40fO3Ph)
 {
   return  312548332;

@@ -19,6 +19,7 @@ short	fnG3_Gn(unsigned short int	W2VAEl)
 	return	650952973;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     short    QG92a4i_l4;

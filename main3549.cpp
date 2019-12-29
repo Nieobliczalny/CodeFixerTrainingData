@@ -431,6 +431,7 @@ unsigned long long NGbNdc2335(unsigned short UtN6Sq6wD,unsigned short Mw2Ufaz,sh
  return -2034007322;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	fQogc(char	xAIt76Fa,unsigned char	qIfKu6,unsigned short	LJ0x5i1o6,char	O8zvR,int	QFUb7F7xyS)
 {
 	return	1204070792;

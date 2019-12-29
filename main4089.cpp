@@ -18,6 +18,7 @@ char	r37o0M25(unsigned short int	zts8e2I,char	cn0x)
 	return	872890125;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	iZ4bZy(int	w2Vmu524)	{
 	return	-1203779669;
 }

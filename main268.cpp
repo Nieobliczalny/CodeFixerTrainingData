@@ -22,6 +22,7 @@ short int Kd7Og(long TEvsR)
  return -1041685901;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    o8C5hs45d(long long    JDWIe5KK3,long    fdZzUY7wx,char    h4oTU57qQ,int    Sr9A2vn)
 {
     return    1441069094;

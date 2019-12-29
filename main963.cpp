@@ -109,6 +109,7 @@ char    QSIu()    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  OXA4R7(unsigned short int  PLOG,unsigned char  beof,unsigned short  CqEut6Eu7g,long  l93PS9I,long long  MB0wAH)  {
   return  1710812903;
 }

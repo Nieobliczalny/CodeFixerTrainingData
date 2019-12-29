@@ -436,6 +436,7 @@ long long    G764D(long    Y863rs668c,short int    bvwxe3L7_B,long    V3tj,unsig
     return    1633263603;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int yP0FW16(unsigned short int ZElCx18) {
  return 0;
 }

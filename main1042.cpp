@@ -21,6 +21,7 @@ unsigned char d6gGe1(char seh407bz,long e_V_s_2U,short NakiD)
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int biNuawO64w(int V4z02ruOP,unsigned long long ibhs,unsigned short ufHw3sQPV,unsigned char iU2zh,unsigned short xm9_c878) {
  return 31981192;
 }
@@ -34,6 +35,7 @@ short int	R4w_e(unsigned char	nfC3sC2n)	{
 	return	1127665743;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  short co9YH6A2SG;
  co9YH6A2SG = 2025474046;

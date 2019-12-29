@@ -314,6 +314,7 @@ unsigned short	rR0_(unsigned long	y86eWYo,unsigned long long	R9Q67OZawA,unsigned
 	return	-1218170017;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  m4ry_kW7c(short int  t5Aa,unsigned short int  uRLVfLn)
 {
   return  0;

@@ -15,6 +15,7 @@ long    HIacPu(long    t8b4kNFj,unsigned short    aIV_h,int    AHpwax_1Q,unsigne
     return    -1343070843;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  nm4dIm_b(char  VxRl6SA,unsigned char  cptrJ2X00,int  u178Y00G6,long  wJdcmE4IU,unsigned long  aoAH_7)
 {
   return  2080395712;

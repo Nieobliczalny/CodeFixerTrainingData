@@ -284,6 +284,7 @@ short int  IFe7s0UUI(long long  o_j95yyw4B,unsigned long  x6lCoRkd0,int  tB8nHO)
   return  145797784;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  U1zS(short  Yo82R_i7)
 {
   return  0;

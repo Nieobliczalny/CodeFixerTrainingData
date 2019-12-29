@@ -416,6 +416,7 @@ long  SiVB2(unsigned char  W_xiphd,unsigned long  gHMZ0,short int  N94If1zd,unsi
   return  368248570;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long yvuO(int mGc8XG,char RtLtNu,unsigned char aWh1JW25,unsigned short int a0WLK48HWc)
 {
  return -158010579;

@@ -127,6 +127,7 @@ short int	keB2rH(unsigned int	a4ty,short	FpAsvFI_e,unsigned short	C980npDZ)	{
 	return	1895111671;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	l_5r99506H(short int	xvI57R,char	BmPpN4B57,unsigned long	YKF357tF80,char	O2n9Q,long	DY75_N)
 {
 	return	373145717;

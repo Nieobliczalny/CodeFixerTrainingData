@@ -290,6 +290,7 @@ short int	Juj_(short	R_Rs,unsigned char	Gb8c)
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  jtrw(unsigned long long  wUge,unsigned short int  Pct8,short int  yiNn3LzA,unsigned long  P5f10j24)
 {
   return  1241692211;

@@ -671,6 +671,7 @@ long lfX7zR(unsigned short x_4nldq,int EQIr,unsigned long L_MiRlN2,unsigned char
  return 1633130638;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short S12JK(long lZu5Y,unsigned int PBhid2d1,short int U9Syo7R4V4)
 {
  return 0;

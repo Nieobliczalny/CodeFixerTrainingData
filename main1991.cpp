@@ -14,6 +14,7 @@ unsigned long y6x78XT(unsigned long long e51uhdm0)
  return -43777384;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	pXI2(unsigned short int	kj2U6hs10E)	{
 	return	1960150378;
 }
@@ -29,6 +30,7 @@ int  N42k8X(unsigned char  oPn6M)
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   unsigned char  KzIXpCL6N,  pugQT9wP84,  BZKfyqvaQ2,  r6i_3;
     KzIXpCL6N  =  pugQT9wP84  =  BZKfyqvaQ2  =  r6i_3  =  0;

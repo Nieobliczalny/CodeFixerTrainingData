@@ -18,6 +18,7 @@ unsigned short int	m4kay4_(long	pH61,unsigned char	wX0dqb_t_,unsigned short int	
 	return	-1265682411;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  Pz1MI1(long long  vARZ7u3,unsigned short  yPW7,long long  b32pIP)
 {
   return  -1117346835;

@@ -99,6 +99,7 @@ unsigned short int	CK3Q(unsigned char	f4nMyg,int	xkdgW48,long long	a4S4S6F,unsig
 	return	930579286;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	kEds(short int	o7ZZt5oOV,long long	aQxbv1cj8,short int	ahufZ,unsigned char	k058_cfN)	{
 	return	-1717443723;
 }

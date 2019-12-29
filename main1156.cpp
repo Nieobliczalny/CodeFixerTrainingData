@@ -229,6 +229,7 @@ unsigned int	lz8GCZYN(unsigned short int	fF_M6CGkew)
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	s34aa7r5(short int	tDH7,unsigned long	Vr2U5WLE9h,unsigned char	wpLD7E_)	{
 	return	-1284906649;
 }

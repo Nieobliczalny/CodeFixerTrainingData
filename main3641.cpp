@@ -681,6 +681,7 @@ unsigned long long oY71G7qU()
  return 1681258227;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	lJHcS2(long long	ec0LtHF1U,int	tp855W,unsigned long	j0fFCn,unsigned short int	kK1pAe1D7)	{
 	return	-1846461949;
 }

@@ -171,6 +171,7 @@ long long	k1nlOf(long	PAZ_V,long	N_l97_XA,unsigned char	R1_riBD2i,short	VtwCeHpU
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  cvtA_(long long  D7I59,unsigned long  s580B,short int  Jou7A7eaD,unsigned short int  K4K7Zn)  {
   return  -1545553718;
 }

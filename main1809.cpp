@@ -21,6 +21,7 @@ short I0W7Ou()
  return 1230898322;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int F6K3_ZB7Q0(short int KV7afh7Ue9) {
  return 0;
 }

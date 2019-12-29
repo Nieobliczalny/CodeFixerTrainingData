@@ -74,6 +74,7 @@ long long	rznqw(unsigned short int	j9Xoc_or,unsigned int	L_20,char	SrtI_,int	HpA
 	return	122407829;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char RwRCc29Bd(long g30D1,short int Gl8mvr0E3,unsigned long uI0oZB5,unsigned long long Be0vk,short BjX_VwO8) {
  return 0;
 }

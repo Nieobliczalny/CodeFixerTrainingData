@@ -21,6 +21,7 @@ long    TD7nzZough(short int    XtMiA7jN,int    hVDy,short int    U0tHAw_uwk,uns
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  GTzq(int  Gf1KqFin_F)  {
   return  -233934021;
 }

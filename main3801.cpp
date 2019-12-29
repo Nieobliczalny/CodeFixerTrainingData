@@ -543,6 +543,7 @@ short	AL9p5HxC74(long	fM5_S4)
 	return	-1167477294;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    UY9DA(unsigned char    C8OEW,short    JqSa0z0e5x,unsigned char    hA8j60u_6I,short int    zkPRxBfma)    {
     return    0;
 }

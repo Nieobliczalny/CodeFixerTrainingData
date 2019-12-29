@@ -14,6 +14,7 @@ long long oH8w(char r3iZYy,long Q_6Mey,unsigned int qAAz2Jh,short int TL94,long 
  return 1230650246;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  vN_Ms4e9(short int  HXVyNPy0,int  FGkqG6U8uQ,unsigned short  eztg2_)
 {
   return  0;

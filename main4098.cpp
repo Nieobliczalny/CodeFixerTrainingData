@@ -609,6 +609,7 @@ long	M_0i(char	HTEwOtVf7,unsigned short int	zurRnjBL,unsigned int	d350L9760,shor
 	return	1360594123;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    DGIZc91(char    T69YMampd,int    T_K3WrT,int    uY89aXBaE,short int    zWCT67w_5,long    b1q6)
 {
     return    0;

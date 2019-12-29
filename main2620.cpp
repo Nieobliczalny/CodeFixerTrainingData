@@ -15,6 +15,7 @@ int    DLsg4(int    N0whdM0tGW,unsigned long    SW6UK5_iPR,unsigned long    V5YI
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	unsigned long	F_78Z	=	-1993472560;
 	int	I3uU64	=	1579021215;

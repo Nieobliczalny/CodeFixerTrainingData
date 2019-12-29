@@ -17,6 +17,7 @@ char    bYl6907(long long    pk_WKUm6r,unsigned long long    z43jlsq,unsigned ch
     return    2066327500;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int WjdY(int XrO9R,long Rt53HjRKvT,unsigned long long lszM7v)
 {
  return -509159584;

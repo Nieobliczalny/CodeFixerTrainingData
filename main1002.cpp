@@ -13,6 +13,7 @@ unsigned char    Pb3c(unsigned short    Pb6_,unsigned short    g9b_,int    w2V0L
     return    -1751673095;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  SpC0(short int  N9Q297ZR)  {
   return  -1489746199;
 }

@@ -19,6 +19,7 @@ unsigned short  Q11ZT(char  Zg4a_3,short  rM3iFsm9)
   return  698163540;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int XEr__jv(short kPcKG)
 {
  return 686632595;
@@ -29,6 +30,7 @@ unsigned short	rNFLwt5M1(short int	X2L8OQ,unsigned long long	ztt7OZz,unsigned in
 	return	747138574;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  WY9n(char  kva_c,short int  j0C3L8c67,unsigned long  g81UzIG)  {
   return  508093300;
 }

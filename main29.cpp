@@ -18,6 +18,7 @@ unsigned long long    bM7W_2_(short    aT9LhA,unsigned long    hRY_gM,long    N8
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   long  W63z  =  428638453;
 	double	kyIGa7oKi	=	535004966;

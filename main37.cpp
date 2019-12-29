@@ -193,6 +193,7 @@ long	P9pn2(short int	AIiF7JE)	{
 	return	1954679174;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    CPo1Fo(char    R8fV,long long    dGLunb,char    OX1b6lo8z3,int    pEF71X6Xd8,unsigned short    SCyOO)    {
     return    0;
 }

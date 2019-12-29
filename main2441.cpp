@@ -480,6 +480,7 @@ long long	ZLtZ2dK(short int	Ku4D_U46F,char	eecfMBpcPI,unsigned int	A4x2)
 	return	-611514183;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    N87_vfV(unsigned short    gZzw2P0,long long    C3386)    {
     return    0;
 }

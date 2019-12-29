@@ -20,6 +20,7 @@ unsigned short  PYhu722(unsigned long  qE24S,unsigned char  Or1T64LW)  {
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     float    i7X5TAh;
     i7X5TAh    =    77311349;

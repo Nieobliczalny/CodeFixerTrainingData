@@ -16,6 +16,7 @@ unsigned short    F36g2NRyL(short int    Ro7roX,unsigned long    O1XNjgwTF_,unsi
     return    1581921487;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	long long	k6PV9iLx;
 		k6PV9iLx	=	0;

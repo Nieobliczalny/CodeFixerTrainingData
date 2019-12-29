@@ -32,6 +32,7 @@ unsigned char	THJLNKBiU(unsigned long	HN37i41P,short	yhse86,unsigned short int	L
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long p_K_l(int VR5m,unsigned short int pktuLcae3,unsigned long ls62E60)
 {
  return 1234343858;

@@ -514,6 +514,7 @@ unsigned int    BLc_WI5mO()
     return    -1148976415;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	Nrmhyj(int	Edqt5d,char	H3SDyEV81,unsigned short	x6EqZV29N)	{
 	return	0;
 }

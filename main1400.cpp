@@ -377,6 +377,7 @@ char	ec3m(short	s6C96W,unsigned long	tLSog35)
 	return	-2144847859;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	N965Xf(unsigned long long	RC98nK,unsigned short int	wk7yUR9R_p,unsigned short	v2GL)
 {
 	return	0;

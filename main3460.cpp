@@ -19,6 +19,7 @@ long    dmwb0HJE(unsigned char    DqUUm,long    Un2Gr_YMy,long long    YU0G7PG,l
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    mQx7Bg7(int    OMVD,unsigned short int    V7C1,unsigned int    db358)    {
     return    1026723665;
 }

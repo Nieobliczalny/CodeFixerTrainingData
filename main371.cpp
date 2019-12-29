@@ -586,6 +586,7 @@ unsigned short int    N9pE8SOY1Z(int    BUV81rlHik)    {
     return    2017128839;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int M_3phc(short Nry7798ld,short int p0Z79NJbZc,short int Ohq2hA5IN_,int dnfb,char H8KfFgKOn)
 {
  return 0;

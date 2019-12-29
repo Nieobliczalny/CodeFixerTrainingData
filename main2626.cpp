@@ -398,6 +398,7 @@ unsigned char OJzN954X_0(unsigned long IAN5,unsigned long gXuj_V,short int ZmXlf
  return -880057224;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long RtRMe(unsigned long long X8nKL,int O8PHlHPwJY,unsigned char xTSJNn,short int S2Ph8,long long nRvt6) {
  return 0;
 }

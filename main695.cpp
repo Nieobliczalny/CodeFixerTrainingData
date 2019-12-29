@@ -181,6 +181,7 @@ long long nURf3(unsigned short e_B6,unsigned char LYny,unsigned char w18KdeKF6F)
  return -782708249;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    mjARYJuox_(unsigned char    uQNU_M7Kn_,char    Gnc_,long long    pJ5vqCN3u,long    tYoqN5,char    i67N)
 {
     return    0;

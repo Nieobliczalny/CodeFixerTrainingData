@@ -14,6 +14,7 @@ short oM60(short int n1_rr_) {
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	U8Lh1Cat(unsigned long	I94l,int	K82Adh0,unsigned int	w7_SNJ,char	SHsv236K4)	{
 	return	980061513;
 }

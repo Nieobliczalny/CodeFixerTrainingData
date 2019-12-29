@@ -17,6 +17,7 @@ short int    TPKtsFul65(short int    J40S17jrG7,unsigned long long    cb8o9,int 
     return    1323341634;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  f_yBVuBC(int  x_X8o,unsigned short  ZbkQ02)  {
   return  -1476376908;
 }

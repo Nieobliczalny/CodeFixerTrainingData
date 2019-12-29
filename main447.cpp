@@ -360,6 +360,7 @@ short vs8553(long S2jBDPakw,int jDOcAjZ1X5,char S2hN2z,unsigned short int fDMaG0
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	n6c2Pm(int	qM16i6tX)	{
 	return	980670094;
 }

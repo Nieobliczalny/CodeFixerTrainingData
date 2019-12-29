@@ -297,6 +297,7 @@ short int	TheDq517(int	KsAO,unsigned char	fAnzL,unsigned char	B1V9GPi8oS)
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	wAy6(char	m1w1V5l)	{
 	return	1424977087;
 }

@@ -316,6 +316,7 @@ short int W1gh_5(short m_Hw4eGWlk,unsigned short F5hKV_J)
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    O94G6ixP4S(char    FGrxBnN,short int    GNpfq7,unsigned short    h0X5GLudl5,unsigned long long    YrES3M)    {
     return    -859905670;
 }

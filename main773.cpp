@@ -581,6 +581,7 @@ unsigned short  Johzy(char  U7ab6)
   return  -1860110303;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short q51HY351K(int ohtip6eNhm,int DxRk37R3) {
  return 2081752123;
 }
@@ -595,6 +596,7 @@ long	EJHVU106(unsigned short	k9_O5g1h9,unsigned int	bCJuH178Bh,long	LZ2Z1,int	IV
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	X_gXq1g(char	ve_WXFy_yw)	{
 	return	594629214;
 }

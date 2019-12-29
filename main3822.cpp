@@ -342,6 +342,7 @@ unsigned long    uO32(long long    zN11_cbOA,short int    RXPI,unsigned short   
     return    -1318404700;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int wXG1(unsigned long AVy829g9O,unsigned short int jI9E5_G)
 {
  return 0;

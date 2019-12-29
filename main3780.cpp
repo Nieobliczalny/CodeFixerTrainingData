@@ -417,6 +417,7 @@ long	RALLX87aW0(int	FF5Q1_s)
 	return	-1730863666;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  R0nJQW(unsigned short int  JT6fnO1,short  HM_R,unsigned short int  Q45aXykyfW,unsigned int  DTwTZ8Y0B,long  JZtWGzXq)
 {
   return  309677772;

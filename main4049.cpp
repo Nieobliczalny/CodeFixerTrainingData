@@ -15,6 +15,7 @@ long	Yoe1R5cWWa(short	IH55Jz1v,int	T5ZxxT9,int	hMlIRDb2XS,unsigned short int	fJl
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   int  T584  =  1662603406;

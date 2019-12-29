@@ -337,6 +337,7 @@ unsigned char DS7V5A(long long fvY8,unsigned long fptc,unsigned short F_N16FmG)
  return 1642172504;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long qFjiNj_(short t_WH73nN7,int VfzW6O) {
  return 0;
 }

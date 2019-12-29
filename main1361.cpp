@@ -22,6 +22,7 @@ long	k4g24(char	u7mmGRa4)
 	return	-1224757416;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    b9l1y(char    or3X0sf,unsigned long long    g_8eKzk1tW,long long    jziXe3,char    Z1V23u_j8f,long long    wHI4_h0)
 {
     return    -614070516;

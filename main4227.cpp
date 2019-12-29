@@ -18,6 +18,7 @@ long long	ZNOOsGk18(unsigned short int	Y574f6_PG8)
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  jW3ee_h4SS(unsigned short  cw3c1SQ7u,unsigned char  g_O30xH0)
 {
   return  -1541405622;

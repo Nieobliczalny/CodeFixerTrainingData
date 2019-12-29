@@ -22,6 +22,7 @@ char	Dx3L4(long	lkD0XD75pk)
 	return	2136844412;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char b6XeE71m7F(short int zh7j,unsigned short e6a9X_3,unsigned long G_yLm)
 {
  return 0;

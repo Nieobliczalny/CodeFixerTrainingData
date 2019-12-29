@@ -27,6 +27,7 @@ unsigned char	n8Ul7RxE()
 	return	737831895;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int nGx696g_7p(unsigned char lKG__zI,unsigned short int A1dS,int Y8HJR1Rvo,unsigned long lSD71mr)
 {
  return -924932359;

@@ -374,6 +374,7 @@ long	DnB465(short	LdV2tv,long long	sz85,short int	B_l300f_P,unsigned short	j5Ac,
 	return	2091704591;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	t92Hwu12(short	a8S5206d1,int	xX71in,unsigned int	KkwxJROuJ5,int	ADm1RppeZs,unsigned int	q6Fnlq7)
 {
 	return	-26564757;

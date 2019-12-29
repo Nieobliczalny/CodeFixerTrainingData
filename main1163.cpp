@@ -13,6 +13,7 @@ short int    gt1j9(unsigned short    p1bq1SNA,long    HaJSaw,unsigned char    Ff
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short fY07IUBpbT(short jb_r) {
  return 1919671765;
 }

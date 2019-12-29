@@ -18,6 +18,7 @@ short int  VJ02v_6m(long long  XaI7,unsigned long  g85_,unsigned short  ICE1M55G
   return  1318987079;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	VlQ8(int	A0SO6,short int	j_3nL8,unsigned int	UHndXjr582,long long	w94_gL,short int	Loct8)
 {
 	return	994567682;
@@ -28,6 +29,7 @@ short    RiBP(unsigned long    VQL7_3_,char    w45m761,int    pxXrFPJZ6j,unsigne
     return    -1473626689;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    YNTm46Bcn(int    G104_5zq_,unsigned short int    t7codo)    {
     return    0;
 }

@@ -12,6 +12,7 @@ int	oO6N8h50(char	buPo4x4x,unsigned long	cuLvhv)	{
 	return	-1972579758;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  qTcBHZBZ(long long  b_c8t)
 {
   return  1332827937;

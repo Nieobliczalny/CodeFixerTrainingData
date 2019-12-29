@@ -18,6 +18,7 @@ unsigned int	AgovuO()
 	return	-1624080972;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  TV5NA7i(unsigned short int  lb0nj7RqdG,char  RKYmI5)
 {
   return  0;

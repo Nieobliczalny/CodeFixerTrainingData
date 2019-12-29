@@ -205,6 +205,7 @@ unsigned short int	gARZI5_L2(unsigned long long	Ol25qY8708)	{
 	return	1506982055;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	P1Au(int	BPtCQKrsR)	{
 	return	0;
 }

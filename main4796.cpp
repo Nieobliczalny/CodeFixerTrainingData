@@ -536,6 +536,7 @@ unsigned int	ob3SZ5CUNh(short	NPU03esP,int	dfvTYP66z7,unsigned long	JX25)	{
 	return	79949544;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long bE0kC_33(unsigned short int B555r12K,long long a_xy81WH7,short e_T235A)
 {
  return 0;

@@ -220,6 +220,7 @@ unsigned int  Jchsq7(unsigned int  RaR1edt,short  JoUhY4yl)  {
   return  1345219131;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int lI7Lig(char EKIi79x7,short SM0dKT,unsigned long long WpXp) {
  return -194287095;
 }

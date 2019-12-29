@@ -14,6 +14,7 @@ char    p9FjsBy(long long    JIC0,short int    OYtF)
     return    -983200074;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	lzq7xv4oo(unsigned int	eil0QT,unsigned char	xoZ2KB,char	PK9WE,unsigned short	bE1vfhdn6)	{
 	return	1069442005;
 }

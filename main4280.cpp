@@ -13,6 +13,7 @@ long NFS6H3I5(long qLs3WX4) {
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  double DKJcxq3PC9;

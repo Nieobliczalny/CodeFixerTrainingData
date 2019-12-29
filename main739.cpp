@@ -581,6 +581,7 @@ char  Hh92w(char  K72_8,int  C_w0r4S2,unsigned short int  WJ6hE)  {
   return  370690692;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    Su2_sL(long long    k68Q0C1,long long    dnfi5at,long    jz_E6,unsigned char    csWO3v)    {
     return    0;
 }

@@ -12,6 +12,7 @@ unsigned short int    svym(int    D3_k26t6b)    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    Bc2KmA_o(long    N54uD,short    SywIT3,unsigned short    jph7q9xHH,unsigned int    Hs5ii_944J)    {
     return    -1348283769;
 }

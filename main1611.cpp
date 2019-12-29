@@ -213,6 +213,7 @@ unsigned short int    ovCAF(unsigned int    g71RM,long    gA21epRha7,int    YJN3
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  MOL899(short  Qa0A,short  Ld6txv5k)
 {
   return  1428290459;

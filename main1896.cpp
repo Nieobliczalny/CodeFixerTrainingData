@@ -14,6 +14,7 @@ unsigned long long  MNfamy1iK(unsigned short  GeU4,long  KQp05j,unsigned char  W
   return  1485558880;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    D1496ITO(unsigned long long    IZy96L37,unsigned long long    OMxYIjcP0,unsigned char    aV5v,unsigned short int    FpTN0YbNM)    {
     return    1076989328;
 }
@@ -27,6 +28,7 @@ char    WKx76(unsigned short    Jytv)    {
     return    421352984;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  z8jk(int  XLI4cVG)
 {
   return  889094935;

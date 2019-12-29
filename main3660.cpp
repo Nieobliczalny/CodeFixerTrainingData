@@ -17,6 +17,7 @@ unsigned int	YnvT6bL(unsigned char	whql4C67id)	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  t17Qhq_(unsigned long long  OO9_S5,unsigned long  z2T5hez6,long long  Ee2t9Xu7)
 {
   return  -626027312;

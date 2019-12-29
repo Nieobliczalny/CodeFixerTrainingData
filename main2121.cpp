@@ -269,6 +269,7 @@ unsigned short KpXA_V0(long Bh89lVGKs,unsigned char B2opadt,int c3367lBX,unsigne
  return 1550364539;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  z6Jc(unsigned char  Nr6_418nV,unsigned short int  d4m3_)  {
   return  0;
 }

@@ -17,6 +17,7 @@ long long    MbSS(unsigned short    ZM4MF1P75z,int    ORXFZ,unsigned char    nb9
     return    -1080362686;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	zXWA(short int	HO1n7WBE9_,long long	ngmnk7_0g,int	Hy59Fq1XA,unsigned char	jrv11Jfl0,unsigned int	sN9W_K2)	{
 	return	-1937615049;
 }

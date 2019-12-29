@@ -482,6 +482,7 @@ short  PSV_()  {
   return  802549002;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int DiLa_Z(unsigned int Pca8,int IO0y4_7Q) {
  return -1516270604;
 }
@@ -492,6 +493,7 @@ unsigned int    L66r30_m(long long    fTHqx0teg,long long    SuBAuO,unsigned cha
     return    1398210671;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	D5HqA(unsigned long	W2nGGeG9K_,unsigned short int	YaU9Nj8,unsigned long long	jb89xq__Sz,short	XW01Qy37c)	{
 	return	0;
 }

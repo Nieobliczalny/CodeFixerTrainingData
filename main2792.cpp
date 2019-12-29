@@ -369,6 +369,7 @@ unsigned int    Jkcz7(char    O2aH)
     return    -1988847424;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    HV87L61(unsigned short int    Pbz9_)    {
     return    -657929086;
 }

@@ -13,6 +13,7 @@ unsigned long	S0ih(unsigned short	x1ns1eP,unsigned long	X_RhVvT4n,long long	ZLba
 	return	-647503094;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    O96S9(short    H_W3O)
 {
     return    1618688928;

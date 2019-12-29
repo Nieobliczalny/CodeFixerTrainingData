@@ -338,6 +338,7 @@ long jLerxI6e0(int XtY_KyboTq,unsigned short int fRZtN7e1of) {
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short Y6iMV1Yjw(short int w6FUuXx2,long Qn_HO2M,short n4BIh,char V6015T,unsigned long long Z63dnI)
 {
  return 875247184;

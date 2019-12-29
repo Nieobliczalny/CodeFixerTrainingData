@@ -249,6 +249,7 @@ char	gGJx(short int	gn67r,unsigned long	aPt4Ypn_L,unsigned long long	AifPn8u9R,u
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long Ts_R3r(unsigned char To1ZV93aD,short int eptY,unsigned int Lh_ebs,int Mu871WkL) {
  return -478766787;
 }

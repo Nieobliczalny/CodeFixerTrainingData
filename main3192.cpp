@@ -436,6 +436,7 @@ short	wQ4LMg(short	zuPX_z4)
 	return	435805702;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    tn9_(unsigned long long    qT6t_6,short int    m98Op0WN,unsigned int    TI90)
 {
     return    0;

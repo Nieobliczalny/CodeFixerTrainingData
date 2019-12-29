@@ -715,6 +715,7 @@ unsigned short int    NSaSnz9(unsigned long long    ZxIJ9pl2E,short    kV649M_7,
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	A3a_434b(long long	kZO52,unsigned long long	aH5aOh4)
 {
 	return	1956109410;
@@ -725,6 +726,7 @@ unsigned char	PD1y717(int	p5O57V,unsigned short	HKVxPLY,unsigned int	f0ez)	{
 	return	-139540628;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	O6Es71u(unsigned long	x_53p9ICz)	{
 	return	1450937422;
 }

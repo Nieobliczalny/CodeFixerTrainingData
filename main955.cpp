@@ -13,6 +13,7 @@ unsigned long long vZ11_uOe(unsigned char LYtw4Jc,char ryhWin5x8c)
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short P22rJ26jJx(unsigned long long cXBeJ) {
  return -283290559;
 }

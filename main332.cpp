@@ -13,6 +13,7 @@ unsigned char XkLtDw(unsigned short NG_blj981) {
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	lDXxkO8v_E(unsigned short	jRRNly)
 {
 	return	-885838657;

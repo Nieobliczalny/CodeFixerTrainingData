@@ -26,6 +26,7 @@ unsigned short int    Dg0RK()    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    I35X9N(unsigned short    HEib61q,short int    p_6l)
 {
     return    930541141;
@@ -36,6 +37,7 @@ unsigned short  TUI_G(short  jfn8,char  K5MyG)  {
   return  -1662017150;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    RguVI(unsigned short int    en9T5M1)
 {
     return    -1860526094;

@@ -15,6 +15,7 @@ unsigned long	I55T(long	x87N,unsigned short	qyR9X633,char	EpST_,long long	xj2ct_
 	return	-1440682108;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  xe4IFU(char  C2TR0ra_b,short  GOGm_5)  {
   return  0;
 }

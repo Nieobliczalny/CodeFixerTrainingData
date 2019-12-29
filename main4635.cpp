@@ -19,6 +19,7 @@ unsigned long	Uwtj78UO(unsigned short	lLyZhC9G3x,unsigned short	KfrhT,int	Ld_23,
 	return	-171601807;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long n2PH(char DEsC01) {
  return 1485298365;
 }
@@ -37,6 +38,7 @@ short  B44L()  {
   return  1185817420;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	short int	doOs3u	=	236573375;
   long double  UO7VZ  =  86142312;

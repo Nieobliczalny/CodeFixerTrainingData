@@ -255,6 +255,7 @@ unsigned short int	ar4P50Gs(long long	dpbGnauPH,unsigned char	UNhokId3W2)	{
 	return	-34114842;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int k3O1yD6L1(char eVlvU667y,short int yM9RCU,long long kiOz_,unsigned int NId7eti1_,unsigned long w0_H7aigK) {
  return 0;
 }

@@ -340,6 +340,7 @@ unsigned short  qLz5B_d(short int  i3cgh4V_,unsigned short  FKJ5)
   return  1437019149;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    F21SM073(short int    g_g8Y_5,long long    QBMWAd,char    wu18dR_,unsigned long long    RbzPKy)    {
     return    -1597279231;
 }

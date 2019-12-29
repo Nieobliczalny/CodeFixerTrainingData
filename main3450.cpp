@@ -387,6 +387,7 @@ long  T8Fy0(short int  K4bB8VJHY9,int  X643f,unsigned long  k79r,unsigned long l
   return  -195490677;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char oZ6Ga4uZ(unsigned short pba_kOcq93,unsigned int gd9e,long long iKrFdmH4h)
 {
  return 0;

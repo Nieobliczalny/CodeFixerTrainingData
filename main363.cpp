@@ -481,6 +481,7 @@ char  K3AFGf(unsigned char  yC3a47,unsigned char  P46316MGMQ,unsigned long  BSLp
   return  843034908;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	S306(int	r7Q3c,char	xPC6FjO)	{
 	return	287585265;
 }

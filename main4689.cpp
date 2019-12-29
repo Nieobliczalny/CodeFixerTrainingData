@@ -14,6 +14,7 @@ unsigned short int N91Ta_N6i(unsigned short SZtR4P0P,unsigned long lC3Rhiao) {
  return -99086854;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    Pi_1y0bD(unsigned short    M0iju2e,short    xPsbTtfb,unsigned long long    B3F44R)
 {
     return    0;
@@ -30,6 +31,7 @@ unsigned char  cg36(long  Z937GoWF)
   return  534379381;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	Sh_pEj(unsigned short int	p0AxLd07a_,unsigned int	EGa0)	{
 	return	1051634701;
 }

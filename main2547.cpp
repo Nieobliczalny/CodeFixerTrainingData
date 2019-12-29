@@ -337,6 +337,7 @@ long  vUMr10bav(unsigned long  i388h_M7,unsigned long long  dt45T9A_E,unsigned s
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  O90s(unsigned char  mrT2oK9c)
 {
   return  1117150034;

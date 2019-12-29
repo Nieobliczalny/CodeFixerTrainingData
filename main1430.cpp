@@ -12,6 +12,7 @@ short    lW__Kx(short    yL7zZ,unsigned char    J9t56kz,long long    HZenQ,unsig
     return    -1666337264;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    G9A_902P(char    AGgZ2G_,short    s22Y,short int    F7k0434L)    {
     return    -1196839594;
 }

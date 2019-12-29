@@ -18,6 +18,7 @@ char  alAqWD_2lm(long  v5B5,int  oi3L,char  wTskzA1Xw)  {
   return  1139433397;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    a2e_ol(short    g60KLLs3e,unsigned long long    A9c8B,unsigned int    Z_W9l)    {
     return    0;
 }

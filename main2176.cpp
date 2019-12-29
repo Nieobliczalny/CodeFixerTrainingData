@@ -14,6 +14,7 @@ long long	r3zH938yeo(unsigned long long	b1NB_8,short int	nXM_tOjU9,char	d0LMAQ1q
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    tnfZ2(unsigned char    jpjl)    {
     return    233224729;
 }

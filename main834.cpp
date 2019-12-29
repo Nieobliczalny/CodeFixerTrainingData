@@ -548,6 +548,7 @@ unsigned short i870k6C43g(int bUPWZ,int itZi,unsigned char bTwdhe0,unsigned char
  return 1720954931;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long fNM2xa8i(unsigned int g9l2i1,unsigned short o33l2,long X37M9_,int WZ_5c) {
  return 0;
 }

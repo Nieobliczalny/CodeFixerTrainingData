@@ -13,6 +13,7 @@ char    SEP0h44sS5(short int    Ghc3_8n,unsigned long long    J25Uwg,unsigned lo
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short bmjfUCr(char TRh6K,unsigned long D1w7cZ,short int v1Yd7,unsigned int JxWDr02dy) {
  return -848962739;
 }

@@ -847,6 +847,7 @@ int  hW3Qrl1x5(unsigned long long  fr_W,short int  yM5b)
   return  481571637;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	t_NsA(unsigned char	A0U5,long	Y2n9VM5O)
 {
 	return	0;

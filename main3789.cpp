@@ -21,6 +21,7 @@ short int u66_B(long Kjh_,int k93a) {
  return -470345942;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int sYtQZd5(unsigned long long pYrs_qfD_4,unsigned short ddMVxhsN7)
 {
  return 0;

@@ -440,6 +440,7 @@ unsigned char V_4B()
  return -21005960;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int NZNSeW1o9(long long z0YWY5l6_x,char B7Ri0od,short q1To95MU,unsigned short int B2yIhqdxu) {
  return 0;
 }

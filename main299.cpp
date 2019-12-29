@@ -20,6 +20,7 @@ short int  o6Iu()  {
   return  -723133232;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	Ez3QRo8J4(short int	SncSz,unsigned char	RdtTimkgx,unsigned int	n_kDMAT_I)
 {
 	return	-1934368943;

@@ -14,6 +14,7 @@ unsigned short IEXqF6(short R36Ba6CA,long long l_z_j0)
  return 1489430971;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    VRG8m0R9(unsigned int    p8e7,unsigned int    B192,unsigned int    kjZ4H_10z)
 {
     return    0;

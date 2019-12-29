@@ -608,6 +608,7 @@ long	p9iA_BI2X()	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	Di39FB(unsigned char	iP54y320)	{
 	return	1678817658;
 }

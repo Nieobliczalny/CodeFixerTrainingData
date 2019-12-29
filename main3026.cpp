@@ -15,6 +15,7 @@ unsigned long long  tinO(long  zoNJo4p10o,unsigned char  OwYTz4iCz)
   return  -671537629;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    EkcA6wh4w(long long    R48KZ,unsigned long long    QEjYFd7JMD)    {
     return    1090388850;
 }

@@ -530,6 +530,7 @@ short int  x_C5xtlG(unsigned char  XeR_9)  {
   return  286381848;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  JI4k4_0X8(short int  Fd3A,unsigned int  khoAG5x_s8)
 {
   return  0;

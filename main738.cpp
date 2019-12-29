@@ -18,6 +18,7 @@ unsigned long long	RrZB(unsigned short	G85dZ1JLxe,int	nO1e2)
 	return	-1618119946;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    nAidsM(unsigned short    aUG6YK7d,long long    Syi77zc,long    Gq2rgOh)    {
     return    0;
 }

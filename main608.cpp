@@ -22,6 +22,7 @@ short  bzjhX()
   return  -1741564386;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  unsigned long long CjlPYOE;
  CjlPYOE = 1804247708;

@@ -456,6 +456,7 @@ short dx3_u63(unsigned long gSaOkRLL,unsigned short int YXZsQZ1j,unsigned long l
  return -1304722502;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    VwV_y(unsigned short    Tka89W8L6V,short    mhv1t,long long    tT_1Jn69a,int    C9G4I3)    {
     return    0;
 }

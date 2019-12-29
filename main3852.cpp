@@ -15,6 +15,7 @@ int  Q8x_00feot(unsigned int  NYzsQ)
   return  -156382841;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    vc_ptrIiV(short    hX19Fcc5x,long long    KMf3,unsigned long    sXav32F)    {
     return    0;
 }

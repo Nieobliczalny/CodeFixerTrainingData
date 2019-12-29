@@ -398,6 +398,7 @@ unsigned char    QLNr1_S(int    SuXM6,long long    NlWC3)    {
     return    856496709;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long VyCW(unsigned char LexV,unsigned short i7WgcT) {
  return 0;
 }

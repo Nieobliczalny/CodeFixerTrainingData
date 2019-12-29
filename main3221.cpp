@@ -756,6 +756,7 @@ unsigned short int	e1J7r(short int	S9p7evx8,unsigned char	QaoD7s)
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	FVaz0(long long	H5rN2k025B,long long	F_38n2b,unsigned short int	las7,int	mFIb7_X4,unsigned long	UL2tJMV978)	{
 	return	924662286;
 }

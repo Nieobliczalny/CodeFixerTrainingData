@@ -24,6 +24,7 @@ unsigned short  AJX23()
   return  -34863781;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short  E3k1(short int  Mm4ShwMn_)
 {
   return  585288717;

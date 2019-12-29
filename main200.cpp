@@ -640,6 +640,7 @@ short int WhXLQITU(short YoQtI8Rf,unsigned int Hub1b_NP9s,long long wCbaR1082,lo
  return 503406426;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  TXo8N9h_jG(unsigned long long  armk9ur)  {
   return  -1444292606;
 }

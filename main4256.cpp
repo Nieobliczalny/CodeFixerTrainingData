@@ -19,6 +19,7 @@ short int    m718k()
     return    202033563;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int l378QT8gp(long long IskqF854,unsigned int IB1MOX822c,long Fsfr7ddJ4)
 {
  return 0;
@@ -29,6 +30,7 @@ long gm_XZul(unsigned long long gFOjsZiKk,unsigned long Uv7H6F,short int OMVn,un
  return 68392908;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     unsigned long long    Dp25D    =    -916599807;
     unsigned long long    UOrSix0    =    1622617309;

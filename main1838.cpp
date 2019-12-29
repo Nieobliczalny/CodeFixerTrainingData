@@ -17,6 +17,7 @@ unsigned long    BxAr(long long    DnFM,long long    KSC55r,unsigned short int  
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    nYzHM_(unsigned long long    Q33z557p,unsigned long long    ct281O7_,int    CG72P3)    {
     return    -1689303421;
 }

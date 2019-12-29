@@ -281,6 +281,7 @@ short  i1LYy(long long  gok5Xl,unsigned long  XNmGi7v90m,unsigned long  Ayyj_Oqz
   return  2031975019;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long eSAslR1(unsigned int ANpskloE,unsigned short int c57rgE3Z,long RSx_DU51) {
  return 0;
 }

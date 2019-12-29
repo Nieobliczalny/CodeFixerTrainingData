@@ -17,6 +17,7 @@ unsigned short DBlq_() {
  return 631648497;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    sw7ow_7_(unsigned char    pLr3Pl)    {
     return    -1316387323;
 }

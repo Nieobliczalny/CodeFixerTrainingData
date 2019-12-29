@@ -16,6 +16,7 @@ short int U2SXe4(unsigned char KE_wBCem,unsigned long rqv4)
  return 1005585835;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char eeIQk(unsigned int Ep3r,unsigned long CBX_V,int A1d4,unsigned long long zGVGgT8l)
 {
  return 0;

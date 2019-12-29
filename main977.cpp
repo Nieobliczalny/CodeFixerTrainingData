@@ -493,6 +493,7 @@ int	A1ztx(long long	HZDn3q_9,long long	sfXpvq)
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  XKO2F(char  JL_6_N7Rq4,long long  TTp424QS)  {
   return  -1210262962;
 }

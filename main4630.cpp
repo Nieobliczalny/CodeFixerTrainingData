@@ -237,6 +237,7 @@ long    g4WVnkZX9(unsigned short int    cd_3uM4qNw,unsigned short int    xplna7L
     return    834032643;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	lwuE71(long long	vBuzK4)
 {
 	return	127761376;

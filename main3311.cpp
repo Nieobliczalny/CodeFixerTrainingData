@@ -17,6 +17,7 @@ short    QUg96(char    Nh5O,short    nshXktMuZ,short int    OddEU3b6Pj)    {
     return    -57178486;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	RDW62Z2NA9(unsigned int	gY1E_1_ZOW,unsigned long	U3Mw)
 {
 	return	0;

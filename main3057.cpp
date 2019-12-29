@@ -30,6 +30,7 @@ unsigned short int PMdA(unsigned long long x8_9afF,int mG8m,short nGZg3H) {
  return 149258676;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    MG8u1g_(long    w9qr8859,int    wjekhBLp,int    e1vwM8io,long    Z6v5ant40,int    Lf_c)    {
     return    0;
 }

@@ -14,6 +14,7 @@ short	bGcI88hE(short int	BJ2AuT)
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    BUmk0dP(int    Cwe2748j2B,unsigned int    w9_g,unsigned short int    hTHVrjC,long    j1cn31N)
 {
     return    1356513888;
@@ -29,6 +30,7 @@ unsigned long long  G9mZn(unsigned long long  Lx01_3slO)  {
   return  1282925261;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  VaqZhp_2hj(short int  DTBc_Qaux,unsigned int  to0nikMM)
 {
   return  -746820460;

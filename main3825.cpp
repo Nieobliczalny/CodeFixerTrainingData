@@ -482,6 +482,7 @@ unsigned long    wV_FJQ4OVX(short int    b86c8UG82I,long    O1d1i,unsigned long 
     return    -1304384590;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  srOsosn17(unsigned long long  Om3bSk7)
 {
   return  -20388388;

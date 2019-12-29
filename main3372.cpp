@@ -13,6 +13,7 @@ unsigned char h31m_K5wVc(unsigned long m8dAvibL7,unsigned char Fk_Ji5Xn6,unsigne
  return -478635687;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  LnI4y8_(int  YGCNW,unsigned long  BTFz2_Yz,int  x4jts0gt_)  {
   return  0;
 }
@@ -28,6 +29,7 @@ unsigned char	eg00x4(long	M_oLPm,long long	YNCB)
 	return	-1324415631;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  long long h5W9qf = -1863708092;
  short Q_98 = -2079267102;

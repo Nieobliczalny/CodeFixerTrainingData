@@ -704,6 +704,7 @@ unsigned short int ezNt9nW1(unsigned int ng53,unsigned int SKr8Cx7,short AjNEjh)
  return 913932636;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long Tkh59_eMO(short hrC_Ar99,long long OiwGmVX,short int keO3) {
  return 0;
 }

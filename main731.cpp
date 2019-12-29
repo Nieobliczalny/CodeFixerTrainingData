@@ -559,6 +559,7 @@ short g1o21(long pJ611W,unsigned char CoI7) {
  return -336286980;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    IU6nEOvB(long    jgfuzlg0)    {
     return    0;
 }

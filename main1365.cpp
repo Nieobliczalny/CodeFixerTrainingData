@@ -414,6 +414,7 @@ unsigned long  DN7Ea(short  M7fg04,unsigned short int  wrJ1dKiw9x,unsigned int  
   return  1020358502;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    fz_Q9(short int    XsqnKaXx)    {
     return    -1592758159;
 }

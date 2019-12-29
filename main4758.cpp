@@ -15,6 +15,7 @@ unsigned long long  gSB48d3b_(unsigned long  j1970_sx9,unsigned long  LqHE0Odsf,
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    IE_8_50p(unsigned short    u4_I3y,unsigned short int    a4p_agod4r)    {
     return    -89323305;
 }

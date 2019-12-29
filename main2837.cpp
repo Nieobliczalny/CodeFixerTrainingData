@@ -366,6 +366,7 @@ unsigned long  fl7GNKJ2O6(long long  lYrRuzQ,unsigned char  SX23H7i,short int  w
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    Ip_t7(short int    tW7nZ)    {
     return    -41917508;
 }

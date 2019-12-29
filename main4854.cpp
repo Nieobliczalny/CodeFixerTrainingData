@@ -14,6 +14,7 @@ char  e7J68RE(unsigned short int  D8xt5xWCu)
   return  -1336776926;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	G1418w_K2(long long	DX0mz9)	{
 	return	0;
 }

@@ -386,6 +386,7 @@ unsigned long	r8bW(unsigned long long	KH_7gKS,unsigned short int	OI2nN,int	bs48m
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short EQ__(unsigned short int R4GTU2,int Z8adG3_7N) {
  return 453468065;
 }

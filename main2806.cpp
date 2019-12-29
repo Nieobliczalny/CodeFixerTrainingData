@@ -236,6 +236,7 @@ short    np_C_8g65(unsigned int    Dbg1g9B2,short int    f7_7,int    K2pQs7c5,sh
     return    -748151111;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	v4h5tft_9(long	xIFcdOM,long	f003Ea1a,unsigned short	O4hZ,int	Z735dU8r7q,unsigned long	fcrie)	{
 	return	0;
 }

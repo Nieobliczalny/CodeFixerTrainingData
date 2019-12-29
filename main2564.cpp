@@ -670,6 +670,7 @@ unsigned short int    M47vC(unsigned int    iyH_e_oo_,unsigned short int    f15C
     return    -1636314259;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	a0_M(short	Z13P7Fjt,char	bx9rD,unsigned short	gxPu,unsigned long	Qr13,long long	B7I11V1i)
 {
 	return	0;

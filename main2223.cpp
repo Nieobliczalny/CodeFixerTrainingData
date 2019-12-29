@@ -13,6 +13,7 @@ unsigned short int  KAP12(unsigned long  fH8AMlT5,short int  HIBQ4NG,unsigned in
   return  -480665068;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  c86p6(char  nfz3y,unsigned long long  c8Vio1S0W)
 {
   return  -1012534501;

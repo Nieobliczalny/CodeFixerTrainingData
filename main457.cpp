@@ -18,6 +18,7 @@ long  KY2gjdc7(unsigned long long  jg763Er6g,unsigned short  E_p8WI,unsigned sho
   return  135104501;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	BpRN3(unsigned short	U77VLG1Mu_,int	cSm1wR)	{
 	return	1496827460;
 }

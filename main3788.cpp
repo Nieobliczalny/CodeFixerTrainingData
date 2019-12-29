@@ -349,6 +349,7 @@ short int	N2pbvLK6(short int	MZxwMEx_3,unsigned long	gZse3N7Mq,char	Nx5H,unsigne
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	SVZ5rBZ_(short int	mZ__i2Y967,unsigned short int	H1TOg,unsigned short	IsPM2,unsigned short	Wl4gZ)	{
 	return	-240230682;
 }

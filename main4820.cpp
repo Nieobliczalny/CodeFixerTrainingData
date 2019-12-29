@@ -89,6 +89,7 @@ int	UFm_Q091se(unsigned long long	zBG682n,unsigned short int	sw3oqB)	{
 	return	1434147539;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    Sc1vT(int    VxsT_C9J,unsigned short int    y6g_n3,char    F3Tqi66GEo,unsigned long long    Nl3r7_4M6)
 {
     return    0;

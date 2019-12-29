@@ -14,6 +14,7 @@ short int    WneoBI(short int    O5k135)
     return    143511280;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long nPdu2fF_5(long long GC9Ko_JE8W,unsigned short lshr3pn8vv,long HIU6,int xg35,short RWK21J) {
  return -1025052123;
 }

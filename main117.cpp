@@ -13,6 +13,7 @@ long    cyE3c9v_(unsigned long long    i0M0c)
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  long kbh3Uye, IyN7H_46N;
  kbh3Uye = 0;

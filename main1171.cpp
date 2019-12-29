@@ -14,6 +14,7 @@ unsigned short Jg6_(unsigned long NZiIom,short d8E_Sh,unsigned int xxXme,unsigne
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    M8tan36V(int    s2c6,short int    e1j2o,short    G2DF72XKK,short    w18_fDO7)    {
     return    1345268582;
 }

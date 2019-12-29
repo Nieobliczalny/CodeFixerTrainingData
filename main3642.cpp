@@ -17,6 +17,7 @@ int	FXL42sDlR(long long	lp6G5E51Y,long long	e0cJE,int	E9Pg0,short int	KArsw_7)
 	return	-114399290;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int LTJML0kVs(int DsU_UIY,int zxJ0J70R)
 {
  return -859130420;
@@ -27,6 +28,7 @@ unsigned long long  dJwRHZQyq(short int  LP12V_lpam)  {
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	unsigned int	pq856rNm5Y;
 	pq856rNm5Y	=	1823703270;

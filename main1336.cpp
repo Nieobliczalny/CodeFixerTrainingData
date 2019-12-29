@@ -192,6 +192,7 @@ unsigned short int	hVZnG7X(unsigned short	AO71PGh,unsigned short	l6lieh0MS,unsig
 	return	1522853093;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  t5zDueyi(long long  PUx5flI)  {
   return  0;
 }

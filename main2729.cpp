@@ -541,6 +541,7 @@ unsigned char    DMNP3td(unsigned char    q_6vzo23n)
     return    387718361;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  A1Of6T51K(char  bDdcUp,long long  l89Ap3_)  {
   return  -1825420802;
 }

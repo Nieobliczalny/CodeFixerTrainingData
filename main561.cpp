@@ -388,6 +388,7 @@ unsigned short int	idx7(unsigned long long	uQ1H,unsigned short int	HN42,char	Bld
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  y4W62(long  Sf3d_D0e,unsigned char  L03TUuo,unsigned long long  D4WDn)
 {
   return  -1241010896;

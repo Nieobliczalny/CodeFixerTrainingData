@@ -171,6 +171,7 @@ short int    S368Ic9(long    k9_Q,unsigned short int    Ic700x2,unsigned int    
     return    -500239452;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int wD32O6g_Dt(char cJoIp7) {
  return 0;
 }

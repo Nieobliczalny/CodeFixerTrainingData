@@ -18,6 +18,7 @@ int CuV9F290q(unsigned short int fKIB0sL7o,unsigned int C6LEPmee5q,int iB0JV_A,i
  return 187665347;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	OO4311C(unsigned short	yTxYljn0c)
 {
 	return	1806223730;
@@ -32,6 +33,7 @@ long NMu1pRYL() {
  return -1589162526;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	unsigned short	j827QL1g7m	=	-471971921;

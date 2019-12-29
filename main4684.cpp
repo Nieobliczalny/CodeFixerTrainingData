@@ -158,6 +158,7 @@ short rS0hR6(char agnqSst,unsigned short int qvwAUT15) {
  return -568501245;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  mU5sR(char  it68jvAWn1,int  OCFn_92NjK)  {
   return  0;
 }

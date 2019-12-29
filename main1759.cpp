@@ -563,6 +563,7 @@ unsigned short int    Rp5C(short    ciTkHF,unsigned long long    XiTCg,short    
     return    1406928370;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  v2ao1k(unsigned long  aucu7)
 {
   return  0;

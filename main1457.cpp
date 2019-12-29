@@ -15,6 +15,7 @@ short Dmr9fa(unsigned long long fdo_,unsigned short nH33J,unsigned char ayWJT2JR
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short RH3H2_8v(char O6q6bp8,long V5ed,long U07I1,unsigned long long Ghl3DVNKgG)
 {
  return -1177154904;

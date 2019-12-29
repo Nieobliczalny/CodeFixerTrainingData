@@ -12,6 +12,7 @@ short int	OFD8Ly(unsigned short int	jdu_Ye,unsigned int	SueBgz0e5,long long	ld15
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  v3w6S5qF12(unsigned int  l7inq2)
 {
   return  771545439;

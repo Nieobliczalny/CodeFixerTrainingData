@@ -15,6 +15,7 @@ unsigned short int    IyxS_7Tt3e(unsigned long    XWYK3E0,unsigned long long    
     return    -93681267;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    BAene(int    oOe1)    {
     return    0;
 }

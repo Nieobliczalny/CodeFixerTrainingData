@@ -621,6 +621,7 @@ long	Utx7x()	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    nvv_h2IVg_(unsigned int    AhLBEO0fg,unsigned short int    p1Q0,unsigned long    oAI92kA50)
 {
     return    837128339;

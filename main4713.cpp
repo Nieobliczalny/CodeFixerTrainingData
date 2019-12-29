@@ -14,6 +14,7 @@ short int	Lz5__Aos5(unsigned long	HlS7zS3)	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	unsigned short int	X75Xv0	=	-1340756957;

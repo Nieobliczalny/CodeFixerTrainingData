@@ -13,6 +13,7 @@ unsigned short    k_HW(unsigned short    Nq0U,char    vTGSIv3hli,unsigned short 
     return    -454198182;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    H__vEt(unsigned int    ebf3,unsigned short int    CGIWz_2Ao0,int    x2UVcu)
 {
     return    0;

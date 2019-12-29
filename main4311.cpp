@@ -85,6 +85,7 @@ unsigned short  eTPvLCj(long  D0_FNEq0Z,unsigned char  qXaN,unsigned long  HaoC,
   return  -228758597;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  dFc_An7(short int  TCC7R2TKz,unsigned long  D0GxQeT,int  QKGoSHil4p,unsigned int  gNEBjpL_5i,unsigned char  h314E8__5)
 {
   return  -800576496;

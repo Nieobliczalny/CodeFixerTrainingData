@@ -17,6 +17,7 @@ short int    fs9e12()    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long gagDx_0J9(unsigned int LU_QT4,int uvpoP1Q0_,unsigned int z7Vb_hxcfZ)
 {
  return -443600659;

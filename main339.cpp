@@ -21,6 +21,7 @@ short int	cX60SY7v5()	{
 	return	1994744972;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  sMBrQC1_I(unsigned long long  xEKpA0,char  p_6k_0R72,unsigned char  aPycDGBs7,unsigned char  JAW9_2vB)  {
   return  -1199990467;
 }

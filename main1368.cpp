@@ -13,6 +13,7 @@ short int    rvcrrAiH85(unsigned long    c6I11Cae4)    {
     return    1651780868;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    Jb2dSy(unsigned char    hQ0i,unsigned short    U8d3oBFf,char    VgKzHjURD)
 {
     return    0;

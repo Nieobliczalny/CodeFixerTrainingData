@@ -18,6 +18,7 @@ int    kkZq9Ze(char    ZK90,unsigned long long    FX1956x)
     return    -44127093;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long M6y7m(unsigned char L29IFof90W,int FHgHIi_467,unsigned short int Pob_) {
  return 0;
 }

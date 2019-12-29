@@ -13,6 +13,7 @@ short int pfX0(long long Z_v0Iu8f,unsigned long jU3QU7uWU)
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	unsigned int	e_05;
 	e_05	=	-200412425;

@@ -20,6 +20,7 @@ int Cb4qY4048() {
  return -2003860330;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    zPXtM(char    r14K_Kxc6,unsigned short    belfK00V)
 {
     return    0;
@@ -30,6 +31,7 @@ short  OJwhUk(unsigned long long  u1i503yk_)  {
   return  -785298501;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	B_UMls(unsigned int	Pr52qRWDk,unsigned int	xdJGe2u_,unsigned char	e4g68)
 {
 	return	-589417485;

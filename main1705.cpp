@@ -500,6 +500,7 @@ unsigned long  x5scy9H(short  ifAT6KjW,int  GJ9oL,unsigned short  v1PkHh0d,unsig
   return  -732579323;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char ni3g(unsigned int E8t8SHnUK,unsigned short int ubhx_,unsigned long long GrDZ_EtV,unsigned char B_b8oT5)
 {
  return 0;

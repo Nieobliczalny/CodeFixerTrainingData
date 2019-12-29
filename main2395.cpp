@@ -13,6 +13,7 @@ char    kA0j02(long    jZ_t0h_3)    {
     return    -1639191461;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  PqzPi8(unsigned int  BbHzW8WX,unsigned int  yMLfn_s_kc,unsigned int  fbX5dk13_a,unsigned int  u6ls7918S,unsigned char  ecvT0Fnf)
 {
   return  -1826344171;
@@ -29,6 +30,7 @@ int  ta962(unsigned char  AyVbB977j,long long  zg2C2Ii53z)
   return  -848958981;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     double    cOI5Sd8EuU    =    1204670044;

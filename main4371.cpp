@@ -14,6 +14,7 @@ int    g_fs(unsigned long long    ikG9UbM,unsigned int    kRgstU3)
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     unsigned int    ZPCZZ230    =    1434777736;
   unsigned short  RzZsz89t  =  781859177;

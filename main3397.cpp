@@ -617,6 +617,7 @@ short int  rsQ8Z(unsigned short  n__ed,char  Esstj2S,unsigned char  yvjQ,short i
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	TM6l1(long long	vi_WFk_hj1,unsigned long	YPeVn,short	GEShcdaB4x)
 {
 	return	2036475695;

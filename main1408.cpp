@@ -14,6 +14,7 @@ unsigned short    t596gK7q6d(unsigned char    Rs3ia,int    d72dd68)
     return    1856614251;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    f_fJ(long long    PuiSG5,long long    d6eJ0E_9b,short int    M6T1X)
 {
     return    913436747;

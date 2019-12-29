@@ -13,6 +13,7 @@ unsigned long long	hk3o4W5m1(int	MfbMG2e)	{
 	return	413211373;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    ryR0I9h0T(short    B28HXj)
 {
     return    -1815807221;

@@ -14,6 +14,7 @@ char    N27VR(unsigned short int    vgxh7qThS,unsigned short    AB51ctN7Xi,unsig
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	R6MViLYZE(unsigned int	dY5F_w,unsigned char	f1E_8)	{
 	return	-1871714077;
 }

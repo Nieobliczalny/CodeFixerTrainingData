@@ -12,6 +12,7 @@ long long YFx64J(long lNdV,long long P179Y9s,unsigned short DfIxA113tF,long long
  return 1079045408;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long ExE56(unsigned long long f6FA1Y,unsigned short i6_L,unsigned char z_H3F13I) {
  return 0;
 }

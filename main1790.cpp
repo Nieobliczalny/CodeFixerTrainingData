@@ -155,6 +155,7 @@ unsigned short MC_b29(char CDLS,unsigned char N1u8K3)
  return 1119637038;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short T6r5(char o823kv,unsigned long long pmw284H,unsigned short zI1Oih,short l1WiS)
 {
  return 0;

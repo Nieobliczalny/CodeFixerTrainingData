@@ -22,6 +22,7 @@ long long  VkhPh(unsigned short  UJS_fg_7)
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    Ba7XA321(long    UoSTdyVMO,unsigned long    AIsp6r,unsigned char    LBV_T)
 {
     return    -2098507062;

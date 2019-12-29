@@ -14,6 +14,7 @@ short	SBXUo4D_s_(long	xlbG258,long long	G4_cxY2)
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  long long g73CD7, bH8s_jE, CIBjW3Gm1A, I5ky, V3vjyx1;
  g73CD7 = 0;

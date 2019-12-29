@@ -12,6 +12,7 @@ long g_bYtr(long long z9JCO6,unsigned short int Gb6_d) {
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	C_wHO(unsigned long	f0zbVx,unsigned short	czyet9C1,long long	ljqu1D1Oc,unsigned char	c6uKty,short	yj077lJ9)
 {
 	return	428746572;

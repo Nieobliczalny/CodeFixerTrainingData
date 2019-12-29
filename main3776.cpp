@@ -13,6 +13,7 @@ unsigned long    P8y6Fb(unsigned short    jec87jUS,unsigned short int    TR0HUg)
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int d997_e(short ZDBw304i,unsigned short int y2c1788,long G0J9uR)
 {
  return -747931238;

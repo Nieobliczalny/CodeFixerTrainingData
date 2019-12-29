@@ -12,6 +12,7 @@ long	NLelR5P(short	M_0oj61EEV,long	vJd291zPE)	{
 	return	-77378674;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    XJ2k1B16(unsigned short int    H97m)
 {
     return    0;

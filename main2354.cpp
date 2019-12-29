@@ -816,6 +816,7 @@ short int wcPG_P7(unsigned short int Izek6lVbq,unsigned char J83EkMd4,long long 
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	Y6Uq6cEH3(short int	w3gW,unsigned long	Ct1n19,unsigned short	Pz522,short int	tsso9,unsigned long	Jd3o9_c_n)	{
 	return	565495868;
 }

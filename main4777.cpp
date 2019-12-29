@@ -16,6 +16,7 @@ unsigned short  nm2t(char  MY02Q8I,unsigned short  CJ518maYMJ,long long  V62D5tE
   return  -64878101;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  j_GdXBTMbq(char  Jyq5119A,unsigned short int  iA7yh)  {
   return  0;
 }

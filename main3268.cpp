@@ -271,6 +271,7 @@ unsigned long long l6Lw3Tf3(unsigned long long S7rLNDb2wa,unsigned int Dr5l,unsi
  return 1014160360;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    yfoMvf(unsigned short int    Bk4bkV1,unsigned char    CEFO_i,long long    S_HPDYrCw,unsigned long    qZlrFoqW__)    {
     return    0;
 }

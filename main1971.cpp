@@ -212,6 +212,7 @@ unsigned short int	GdPP(unsigned long long	Mzqu,char	u3803ezUyG,unsigned int	fZs
 	return	-1517857908;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  hu7BM(unsigned char  MLnLv4jXPc,int  wH_X1wQ,unsigned short  jqCC_AbRI,long long  H3D3__)  {
   return  -1949668173;
 }

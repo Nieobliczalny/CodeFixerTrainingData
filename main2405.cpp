@@ -293,6 +293,7 @@ unsigned short int    LGHepl(unsigned long    AbLy6_mi_,short int    ghBJFrC8)  
     return    1194902287;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  I8F3lZehC(unsigned int  WtmZ1wA5A_,short  t6dE)  {
   return  0;
 }

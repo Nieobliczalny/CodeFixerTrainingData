@@ -515,6 +515,7 @@ char  l4Cg(unsigned short  ak87xnq_Qz,long long  RbkvRQk,unsigned short  t6Kktrg
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short rwaCA71(unsigned long long Nb76mKX,unsigned long Ad3h,int K7_u4rD7)
 {
  return -555767188;

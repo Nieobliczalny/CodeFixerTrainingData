@@ -845,6 +845,7 @@ unsigned short  OdtyE_U(unsigned long  h2JodsJ2,unsigned char  V6JuX)  {
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  fa1x2(unsigned short int  Q567c)  {
   return  988951625;
 }

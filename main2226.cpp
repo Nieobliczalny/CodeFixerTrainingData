@@ -357,6 +357,7 @@ unsigned int	IR1JNRM(unsigned short	FDAtk7)
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    AnmQP_7Vcb(unsigned short    dhdYP8bzT,unsigned int    J3Cr10urXN)    {
     return    1174512354;
 }

@@ -703,6 +703,7 @@ unsigned int    McGa(unsigned int    l0b8Vu)    {
     return    -420768202;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	Ec9KfQL(unsigned long long	n8lt)
 {
 	return	0;

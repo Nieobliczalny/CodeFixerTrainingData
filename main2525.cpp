@@ -15,6 +15,7 @@ unsigned char	fC_qXky4m(unsigned short int	IIp383lb)	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  nBD6rbR4(long  E4IJ_0,unsigned int  cp_820,unsigned long long  r_vDL6Ie6b,int  rN7S,short int  PRgo6_)  {
   return  -2081307175;
 }

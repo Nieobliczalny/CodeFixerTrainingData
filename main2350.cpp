@@ -206,6 +206,7 @@ unsigned long U0O0(unsigned short int X42Bs7,unsigned long Fg_2E) {
  return 1252692048;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    XX35(short    y3ky,unsigned char    Swg6UR4a3)    {
     return    1587579330;
 }

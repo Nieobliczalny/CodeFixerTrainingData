@@ -13,6 +13,7 @@ int    gf52JhL(unsigned short int    t6dRwv61_4,unsigned short    CGNlgh6Iqy,int
     return    2034101015;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    kMXW2G_90(int    n8T7,long long    qfz9YCap,unsigned char    pgUny7NOd)
 {
     return    0;

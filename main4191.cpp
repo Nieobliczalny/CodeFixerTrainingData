@@ -17,6 +17,7 @@ short  F4Pf_d5z(short  xnWD,char  rEQ4)
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  DU69d6yf6(long  Tq0a995Im,char  J7Uyd39X_R)  {
   return  1552280022;
 }
@@ -31,6 +32,7 @@ long long	aalBESkIz2(char	dCvx,unsigned char	D7i88,unsigned int	oDn1pVMyq,unsign
 	return	-1909922617;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	long double	Gw404S;

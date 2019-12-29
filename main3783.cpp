@@ -688,6 +688,7 @@ unsigned long	RYbMkD0sVr(unsigned int	wm9rsQWQ)	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	WqeR(int	G3Dg7ps,unsigned short	DVRBYF3PN,short int	A7an26V2,long	DdRjD67d,char	g_cvr4dn)
 {
 	return	-565729945;

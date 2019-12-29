@@ -12,6 +12,7 @@ char    A32yDU2Ghe(long    ZuTo4GH)    {
     return    973506187;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    lw00z_Jly(unsigned short    l3PUfO5,unsigned char    EM39SA_8Tt,unsigned int    au5I)    {
     return    0;
 }

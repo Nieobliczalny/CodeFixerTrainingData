@@ -236,6 +236,7 @@ int  PI_1T6s6(int  HLK3m4uWBm,unsigned short  T2Y2z,unsigned long  LMrX2YT)  {
   return  1318601052;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    l5Efa(unsigned long long    q7g_fB,long long    Q8365,unsigned short int    ahI4)
 {
     return    0;

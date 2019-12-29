@@ -19,6 +19,7 @@ unsigned short int  eYD_O(long  FXZPX0Q5,unsigned char  RVO1SV)
   return  1254667555;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	unsigned short	Ya7tT	=	0,	FK6l2	=	0,	w7F3i638	=	0,	R8rDkBEz	=	0;
     int    TXW31cLs2    =    -1449921313,    bcoN2    =    660660757,    uwM77vp    =    -2134922793,    wfI_    =    812104882,    xK67    =    605002896,    B5jon7TbJ    =    2059043803;

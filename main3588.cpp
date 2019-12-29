@@ -16,6 +16,7 @@ short  kKklz5(unsigned int  b9523vrKm7,unsigned short int  s5ksd_I,long  RaZvhL1
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short H878m4y1pJ(char Ow7R0X7ZL) {
  return 2039732785;
 }

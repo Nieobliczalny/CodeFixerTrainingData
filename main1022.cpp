@@ -16,6 +16,7 @@ unsigned short int	Mq_5bu112(long	FPP5MQx,unsigned int	lxD3)	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  Q0DABl9nL(long long  bugf76_78Y)  {
   return  2016677556;
 }

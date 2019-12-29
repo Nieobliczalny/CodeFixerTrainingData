@@ -23,6 +23,7 @@ unsigned char  nqO_(unsigned char  XFy05CQ,unsigned short  B_a7MpUgl,short int  
   return  31182495;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	TR8_7A(unsigned long	ymuex6hB_n)	{
 	return	1520527935;
 }

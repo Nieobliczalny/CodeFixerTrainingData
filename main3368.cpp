@@ -17,6 +17,7 @@ char M_aD4h1T4() {
  return -966840937;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int KlGB_k3bI(unsigned long long bk1NkF_D) {
  return 0;
 }

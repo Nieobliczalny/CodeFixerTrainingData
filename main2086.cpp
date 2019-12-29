@@ -370,6 +370,7 @@ unsigned int  z3c8Ku(unsigned char  hrI_p4n4,unsigned long long  YFUN7)
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	ObE2UQ5z1(unsigned short int	g_xFT,long long	Y9BjT7)	{
 	return	1031291881;
 }

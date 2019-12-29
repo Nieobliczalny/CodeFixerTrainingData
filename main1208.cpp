@@ -17,6 +17,7 @@ short Nrdc(unsigned int RKySK126,unsigned short int NPgoj,short lFU8_,unsigned l
  return 2002443648;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char Rk07l(unsigned char zcMUXM,unsigned long gA7C,unsigned long long j7BUpH9,long long c2MiA138QX,char Hpp6_)
 {
  return 1430343904;

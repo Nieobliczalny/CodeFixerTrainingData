@@ -17,6 +17,7 @@ short  GY2rhc7Ea(unsigned long  lAbYzYc,unsigned short int  Fdr3QI,unsigned long
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    i3BO3XP(short    yA6w45hL2,unsigned long long    d1o0,unsigned int    G1Q7b,unsigned short    BIbt0)    {
     return    -1075008742;
 }

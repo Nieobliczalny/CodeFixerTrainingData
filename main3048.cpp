@@ -160,6 +160,7 @@ unsigned long long    dP4GI2M()    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  F3jvd_Jbt(int  YK4K,long long  VZpxnD,short int  O1_1T,unsigned short int  gTf2u9,unsigned long long  xnEW8uT2wn)
 {
   return  1228535127;

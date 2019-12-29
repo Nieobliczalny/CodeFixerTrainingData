@@ -16,6 +16,7 @@ unsigned short int  fG72g(char  q1XWT,int  Jq_g59)
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   unsigned long  skey;

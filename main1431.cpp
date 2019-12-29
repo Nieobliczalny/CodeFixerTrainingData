@@ -25,6 +25,7 @@ unsigned char  DMweh98k(long  F_5o18_QW,long  zj_p947yn,short  FZLP2Y2)
   return  -1918896321;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  f_9e(unsigned long long  F3Jz)
 {
   return  -451634530;
@@ -36,6 +37,7 @@ long	UYTfX(unsigned short	xBXLHHFqS2,unsigned short	i_60i973W7)
 	return	-319795793;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     unsigned short int    WV34Naisb5;
     WV34Naisb5    =    -1253028974;

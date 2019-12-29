@@ -689,6 +689,7 @@ unsigned long  veiNH_1G(short int  v8JIc)
   return  1806543488;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	TXcRfGUh5F(int	G6r5_X8v)
 {
 	return	1567397287;

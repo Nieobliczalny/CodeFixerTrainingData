@@ -22,6 +22,7 @@ unsigned char  kGoVc7(int  zF_5qQ,long long  j72VP_)
   return  1788816212;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char A8DP(unsigned long long rj_pe,unsigned int y4TB_K1pv,short int sFB4fkyk,long bTQfSg3,int hXHfNMg)
 {
  return -342095195;

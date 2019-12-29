@@ -421,6 +421,7 @@ unsigned short int    q4J9(long long    GW8c6qG)    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	a2730DOQ_H(unsigned short int	bOOmA95mg,long	hV3q9i,unsigned char	zAp38,unsigned char	e1G4yP69)
 {
 	return	-1961561834;

@@ -351,6 +351,7 @@ short	Z6bKbUs1O(unsigned char	W1hv45,unsigned long	Tu1ZhC,unsigned short int	I2K
 	return	-704101923;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long V46v6wj_(unsigned int b81HI)
 {
  return 1477579616;
@@ -361,6 +362,7 @@ unsigned short int    n_iFDn5s(unsigned short int    f5tl)    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    JUAwP(unsigned short int    UN49R,unsigned short    ZjtpbJ2)    {
     return    1429788654;
 }

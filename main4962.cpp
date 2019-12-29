@@ -17,6 +17,7 @@ unsigned short int	NB8dp(unsigned int	d4NA_,unsigned int	UWw1nY,short int	hV27n1
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  unsigned short int LK54bW2, tVqcfV, kD3IL;

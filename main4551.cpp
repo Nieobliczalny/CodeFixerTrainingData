@@ -12,6 +12,7 @@ unsigned char At51_Z(unsigned short sD_5m) {
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	I_qk64D5(int	HPB_614z,short int	a3ddpgLn,long long	d2DU,long	GXWs,unsigned long	Fxf25vr7)
 {
 	return	1351490744;

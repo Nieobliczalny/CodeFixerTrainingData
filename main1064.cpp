@@ -256,6 +256,7 @@ unsigned short	rAVJb090u(unsigned char	o07K)	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	Xko3sVtJkC(unsigned char	W1Fir,unsigned char	UPGkf8)	{
 	return	-1994056594;
 }

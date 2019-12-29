@@ -23,6 +23,7 @@ short int T1zW2bo(unsigned long long MjBRoQ01,unsigned int r30lI,unsigned short 
  return -1063103976;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  ZzS8gAZPbl(long  MLrZa5YGd,short int  tqQjAz7S_u,int  v2zXf_g)
 {
   return  1805869996;

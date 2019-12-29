@@ -261,6 +261,7 @@ char	gY1_(unsigned short	gm_t,unsigned char	CJp2)	{
 	return	-266799684;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    F_HQFry9(int    GpJ6Mbijnr,char    ia0FO3q23,unsigned short    j9M6qQIWt,unsigned short int    pTPP4_30_,long long    FL7u9_SK)    {
     return    0;
 }

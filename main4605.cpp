@@ -56,6 +56,7 @@ long vv5w106VRC(unsigned short int ASx279RCJ,char emP4fdkBE3,int pz90)
  return 317280454;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	Ulna43pU5(unsigned long long	XJvZ,unsigned long long	W32s8P4,long long	A31_X,unsigned short int	NR68y9)	{
 	return	1594134553;
 }
@@ -70,6 +71,7 @@ unsigned short  NbltMX72(short int  b_m83X)
   return  -2109314262;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  qBJK0(char  WZx5T)
 {
   return  0;

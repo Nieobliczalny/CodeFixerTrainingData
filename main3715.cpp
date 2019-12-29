@@ -516,6 +516,7 @@ unsigned long F_L91(unsigned long zt0U,int nMU4Ln,unsigned long R5MF_G)
  return -1613431011;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int nm7p(unsigned long D5HW,long a1xaOy3,char ZO_6wfxl4Y) {
  return 0;
 }

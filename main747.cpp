@@ -18,6 +18,7 @@ long long	K_819_g(unsigned char	a6Qp4D8l_,short int	P48eXHOi47,int	DWPCG_U0,unsi
 	return	-181773215;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	S36oSz6v1X(unsigned long long	T0tY1fYmS)
 {
 	return	0;

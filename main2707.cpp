@@ -376,6 +376,7 @@ char    pyA6F(unsigned char    TZIu1rnC)
     return    780080313;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    X4i1d9r(short    x_9urEl3K,int    PZ48q9C,unsigned short int    mGy14a,unsigned short    rpBQMPnf7_,long long    hFegc1pJi0)    {
     return    -5105111;
 }

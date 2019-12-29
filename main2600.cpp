@@ -487,6 +487,7 @@ unsigned short int  sb018Z8(unsigned long  fO7Q)  {
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  QPLq8p(unsigned short  kO_i9896,long  djMfEF7muF,long long  A7gHGV39l)
 {
   return  -2123609218;

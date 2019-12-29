@@ -583,6 +583,7 @@ short int ust96d(unsigned short int zAhDay,char ZY3B_yc6xv,unsigned long long aN
  return -1356276340;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	MQIM8am4(int	Vq49Tr2YsA,long long	Xu4_Vpcc,unsigned int	r6A994VSPI,unsigned long	FSaw)
 {
 	return	0;

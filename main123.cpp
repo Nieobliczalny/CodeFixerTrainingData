@@ -444,6 +444,7 @@ unsigned char qE_Vn(unsigned char h25P8,short int D2vTi3,char J0n_d9T_9,short in
  return 431840764;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int v805ZX(long long MX5gI6SRgS,char EaW7BPKM)
 {
  return 0;

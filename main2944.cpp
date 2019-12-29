@@ -12,6 +12,7 @@ unsigned long	n0XwZ(short int	pyS3j758,unsigned int	RE1vy,int	JQgO6U,unsigned in
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    Ruu9VO2(unsigned int    b6vQ4EDI,int    Y6S_e4aW)
 {
     return    462961890;

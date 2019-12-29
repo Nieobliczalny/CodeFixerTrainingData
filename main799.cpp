@@ -1003,6 +1003,7 @@ unsigned long eAKz6(long long a3HJf,unsigned char d4_PMWHeLX)
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	J6pbwapg0(unsigned char	hCIC8g)	{
 	return	-918579746;
 }

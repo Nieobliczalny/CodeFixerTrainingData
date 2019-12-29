@@ -109,6 +109,7 @@ short l662(int h65EEv,short cET84,unsigned int ss26Eb2N,short Vm6ZX)
  return 1012916733;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    ep9stJCI(unsigned short int    set33b)    {
     return    0;
 }

@@ -421,6 +421,7 @@ short	ry32hd1(unsigned char	qv__94)
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int vc7I34Los_(char HSbV907x0,unsigned int oHS1e2,unsigned short LglEnl_241,long long o2u__Yu,long long d_m4S4) {
  return 1142193328;
 }

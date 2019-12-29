@@ -342,6 +342,7 @@ unsigned short	mgXM0_0S1y(long	jwcVU,unsigned short int	x67L,unsigned int	kiOj,u
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    Mi72f88nF(char    MGxg0O8,int    izZFx_8JcY,int    o1dS798K,unsigned short int    EFyMV0r,unsigned short int    Gi9269)
 {
     return    2011374977;

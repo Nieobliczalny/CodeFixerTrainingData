@@ -21,6 +21,7 @@ unsigned char    Uvk1fR()    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long i_1WcN(short L8skqFLj,unsigned short int Ttv9h9) {
  return 1246063961;
 }

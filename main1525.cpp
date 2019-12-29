@@ -598,6 +598,7 @@ unsigned short	qnoFhgDky6(short	WkgsVNYPT4,unsigned short int	cTJ72AY)	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  q8AWT45HN6(int  UJaw8,long  B0HGv8_H,unsigned char  L5ha)  {
   return  -522066639;
 }

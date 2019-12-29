@@ -16,6 +16,7 @@ unsigned short int  rc5ye4y()  {
   return  425522381;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int AZTqN8Q25(unsigned short NJyh8,unsigned long long AR4SQz,unsigned long long q25tP)
 {
  return 1614740405;
@@ -26,6 +27,7 @@ unsigned int    EYS3D(short    nSlRBXO,unsigned char    IukI0p,unsigned long lon
     return    -48639324;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	NPEh3m(unsigned char	kB80_7y4_c)
 {
 	return	710898922;

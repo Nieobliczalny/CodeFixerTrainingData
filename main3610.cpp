@@ -453,6 +453,7 @@ unsigned int jUJYL5Jq(unsigned short int FORrI5,long o_5NEL5)
  return -1291920731;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    VQr5lhRg(unsigned long long    U9Fg60wX,unsigned long    tR72,unsigned short int    k2812j7)
 {
     return    0;

@@ -27,6 +27,7 @@ unsigned long    linh2Teww(unsigned long long    j8V43CW)
     return    -535463130;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    P_N6a83l(unsigned short int    dR_ALV9,short    f7K1)    {
     return    522096312;
 }

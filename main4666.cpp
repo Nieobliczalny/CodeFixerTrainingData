@@ -18,6 +18,7 @@ unsigned long long  CPs89(int  y2_B0F,unsigned int  eAoE3_GRga)
   return  -569513053;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	hnCm(unsigned short	U9L5,unsigned char	I_4hUAu,unsigned char	U05D7nJ_Z)	{
 	return	-1979549588;
 }

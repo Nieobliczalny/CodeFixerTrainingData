@@ -23,6 +23,7 @@ unsigned long    RouI()
     return    2131535187;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  wGQl_vy2(char  Y9bzM_9R,char  nMsi,unsigned long long  r1z6_,long long  bZe3C)
 {
   return  587138996;
@@ -34,6 +35,7 @@ unsigned long long    s2VG3(unsigned short int    Z992Bb,unsigned long long    D
     return    -576003951;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  unsigned long long Fz_G;

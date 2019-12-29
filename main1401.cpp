@@ -18,6 +18,7 @@ long    VZ1v(int    pNt0,short    n3NU19mor9,unsigned int    R_yij,char    mQ__R
     return    808441940;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long uB7V(unsigned long E5YMX,long bm2F09gR,unsigned short SYkxE_XVg7) {
  return 0;
 }

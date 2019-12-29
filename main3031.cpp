@@ -17,6 +17,7 @@ long long  J0p_yo(int  jCl9M5D16V,unsigned char  AemjM,unsigned char  j_o6KV_,lo
   return  -1623475004;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short PL7YB(unsigned short fB6aF,int NLF46KE) {
  return -257924907;
 }
@@ -30,6 +31,7 @@ char  Ob5ZL(short int  mIi1o,int  x48u,long long  O5J5Tz,unsigned int  p9D451W,s
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  hwk90kyV(short int  x2Ktn61,unsigned short int  f1DSYJK)  {
   return  -24660029;
 }

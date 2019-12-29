@@ -17,6 +17,7 @@ unsigned short int    H40jPnL(unsigned short    lt_hPD,short int    Fvt_,short  
     return    1900484283;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    R7OAFfzKl(unsigned short int    y_6_)    {
     return    0;
 }

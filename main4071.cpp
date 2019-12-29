@@ -19,6 +19,7 @@ unsigned long	AO5Hq_9(long long	I0t_7,unsigned char	rblNJ94)	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long gLjYyKvE3c(short n6_61,int g6F68mozIc) {
  return -469325948;
 }

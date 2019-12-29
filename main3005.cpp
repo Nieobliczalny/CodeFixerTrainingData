@@ -14,6 +14,7 @@ unsigned char	g4r3(unsigned short	u91Y56,long	uNyrX__,unsigned short int	sYdyGC6
 	return	1218035419;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int TMR3Uuu7_3(char DYl671,int Os11SUlDEb,int f5U3xQ6Ltq,char BvneM,unsigned long ZS7P3T4) {
  return -482993026;
 }

@@ -15,6 +15,7 @@ unsigned short    yzwbs_XeZe(short    qSW7q9,unsigned long    vo0f7,unsigned lon
     return    -1041919152;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    y9dV(char    nEtyS)
 {
     return    0;

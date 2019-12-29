@@ -18,6 +18,7 @@ unsigned int c6uKvk(unsigned short int v1DWgLx_j,short int B1LNsof,unsigned long
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   int  JK0QevZ2Kb,  v6Co;
   JK0QevZ2Kb  =  0;

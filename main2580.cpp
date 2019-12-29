@@ -22,6 +22,7 @@ unsigned long long I_uFm4_6() {
  return 843348454;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    Ki0R(int    t93aY,char    s_5305,unsigned long long    PlOt9,char    z4Ut5qI,unsigned long    O9XoEc1mb)
 {
     return    652253061;
@@ -32,6 +33,7 @@ unsigned short int c1___W(short int Wf9B,unsigned long Vx9Jy) {
  return 1490933133;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long zYUJgc(int jekG3Sfg) {
  return 0;
 }

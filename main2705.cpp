@@ -307,6 +307,7 @@ unsigned char agN8rc(unsigned char kaMcv0) {
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  IS6kp(unsigned int  RR_GRw,long  bz3l1,int  uPxH,unsigned long  U9Kub4jl,unsigned short  g_D47)  {
   return  -704237701;
 }

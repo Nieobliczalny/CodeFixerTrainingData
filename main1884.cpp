@@ -735,6 +735,7 @@ short int	CnLNt_(unsigned short	Ww52_W2,unsigned short	AwN07Mqeb)	{
 	return	-479210490;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short  gXSgW(char  ZN52Q4,char  Pk8798fc0,unsigned char  uHzKj)
 {
   return  1879045709;

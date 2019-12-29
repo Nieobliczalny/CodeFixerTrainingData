@@ -746,6 +746,7 @@ long long    zSuKpW(char    uai0_96,unsigned int    p849PBwy73,int    HM5z5,int 
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	PNk03r(unsigned short	aiEbIWje7,long long	iqsP)
 {
 	return	-726894002;

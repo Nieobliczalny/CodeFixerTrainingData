@@ -14,6 +14,7 @@ int xsrcm(short CNn3_nv,char WI1LJ_f93)
  return -406235334;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  Ij8mf9_X(short  WN3bi,long  L5zE0XSH,long long  vPm5b,unsigned long  Wr6z6BlC9H,unsigned long  N44qsBa4)  {
   return  -2079769551;
 }

@@ -16,6 +16,7 @@ char	vs3a117d7(unsigned char	nc2L1,unsigned long	INsc,int	nhQnv7J2U)
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    geD_U74l(long long    lvr254dO5p,unsigned int    Jn7o1T3,unsigned short int    wdWg8K25_H,int    yPlO2,int    K2K3248QX)
 {
     return    -514359348;

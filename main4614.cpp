@@ -16,6 +16,7 @@ char    wt5b(long long    Or3Ci,short int    r_QT9a,unsigned long    A9LU)
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	unsigned short int	bOHy	=	0,	Z4AX2	=	0,	j2GuaA0	=	0,	jG7Ojzk46	=	0,	Z_072P602T	=	0;

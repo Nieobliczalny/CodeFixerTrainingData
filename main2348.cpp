@@ -29,6 +29,7 @@ unsigned short int  fRp4(int  OdOSa,unsigned short int  y0pXq,unsigned long long
   return  565888183;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	unsigned short	c9m3D_j,	Ns4J_v1Fvc,	wxW38o,	MJ57E1a1;

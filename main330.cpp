@@ -13,6 +13,7 @@ long long kEI_xL(unsigned long long mB214MIs,long long g_ov9V7xj,short l_Nj8,lon
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    k5_zFVi(unsigned long long    y1h5,long    nC75CtJj,unsigned short    jorFk,short int    xquyh3_vZ,short int    nqQ7RUTy4C)    {
     return    -799891321;
 }

@@ -73,6 +73,7 @@ unsigned long r9Fw(long n6t1,short pqAFqhh0_,unsigned short O1Jnj74l,unsigned sh
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    x7VFGdDg(long long    NmIi,long    gzeHUqTq,unsigned short    deDNaY2Ut0,unsigned short int    NRAy_)
 {
     return    1050168582;

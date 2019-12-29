@@ -452,6 +452,7 @@ unsigned short int  yqj3l72HBZ(int  GJwza)  {
   return  -41044268;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    mdex1(long long    SU8qP)
 {
     return    0;

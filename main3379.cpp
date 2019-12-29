@@ -13,6 +13,7 @@ unsigned short	g_w3N_hdED(unsigned long	g9LiwDqt7,unsigned short	X2N8,short int	
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     unsigned int    KE6V;
     KE6V    =    886596786;

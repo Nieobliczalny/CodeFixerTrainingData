@@ -20,6 +20,7 @@ long	kB4_T()	{
 	return	248941837;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  yXG_2z(unsigned int  OJT7948io,short int  e36sM81b7,char  G06O_,short int  o_q7,unsigned short int  Qd2q)  {
   return  -1383029060;
 }
@@ -30,6 +31,7 @@ long long    KsXC_3(unsigned long    Urd52ZY8tc,unsigned char    zNxqvW)
     return    -1204943787;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   unsigned char  v26zoL9R;

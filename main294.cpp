@@ -18,6 +18,7 @@ long  qwtK8FtID(unsigned short  hv9mp4EO0)
   return  -404873247;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    On2cOUwA(int    cED3)    {
     return    -1305349447;
 }

@@ -343,6 +343,7 @@ unsigned short b5f_96VDV(unsigned char x4Iy,unsigned char ywtCsou) {
  return 239169872;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	NnUDEMzfx(long long	e52zI,unsigned short int	J15s9atIDk,unsigned long long	LRxa593B64,unsigned short int	peJvfz1HZU,short	Q0CmdCg)	{
 	return	0;
 }

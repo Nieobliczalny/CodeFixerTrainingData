@@ -325,6 +325,7 @@ char    Ti87(unsigned short    EO57,short int    R_3i_FLn8,unsigned char    jt9q
     return    -2145018551;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  qfkv(char  S9l4y11s)
 {
   return  1376789626;

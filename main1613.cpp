@@ -352,6 +352,7 @@ char    WxO_(unsigned char    T_VsJ2i,int    y_6EY0JLx,char    Fry18FUG)    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    INiI(unsigned long    z8S9wx)    {
     return    188360909;
 }

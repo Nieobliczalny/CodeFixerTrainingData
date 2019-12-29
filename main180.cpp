@@ -14,6 +14,7 @@ unsigned long U8NsJ9uF_l(unsigned long oeIe85t950,short int lwj0iFC,long sD_w_)
  return 835363908;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long Nciz(short mvZ9JeStL,unsigned char Z58yD7tA5,unsigned char Z4APr,unsigned long long n_y60,int yp_z2Necu0) {
  return -1487204732;
 }

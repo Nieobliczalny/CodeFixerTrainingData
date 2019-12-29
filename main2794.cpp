@@ -18,6 +18,7 @@ int	XV9R12()
 	return	1793214531;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  GP36Yy3wOT(unsigned long  otc0a,unsigned long long  D_ZMf4cQ)
 {
   return  1355758882;
@@ -28,6 +29,7 @@ short int	OH5YOY5(unsigned long	EgfV4,unsigned short int	oxk2H)	{
 	return	1080779020;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   char  A1W9;
   A1W9  =  -2031951186;

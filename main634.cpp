@@ -112,6 +112,7 @@ long long	CBE1KT(short int	X4_o8P_lb,unsigned long	u3G_9_10wj,unsigned long	b_b_
 	return	1112872718;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char z32MC(unsigned long long eQW3_J6B0,unsigned int ADN67g)
 {
  return -992976184;

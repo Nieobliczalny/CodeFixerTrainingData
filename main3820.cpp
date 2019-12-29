@@ -17,6 +17,7 @@ int    o_sfd(unsigned long    X6vXq96Ia,char    F1oENt_,short    ZwwZSeK6N,long 
     return    318940569;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	X2sqKWr(long	F0beUEg_uB,unsigned char	H_5jfO,int	lg43KyZ_1)	{
 	return	-694145754;
 }
@@ -30,6 +31,7 @@ unsigned short  vOJ_(unsigned long long  B2v9O4Ss1,unsigned short  sM3zu10lf,lon
   return  -1772572386;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  float Il7u = 1249026510;

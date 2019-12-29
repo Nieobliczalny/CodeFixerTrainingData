@@ -22,6 +22,7 @@ unsigned long  dn6pW2(char  lPvx6,char  L5H8c,unsigned int  xv92sWD,short int  n
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	E1kneG_n(char	mSgTGOLGJ,int	V26SCP)	{
 	return	787334893;
 }

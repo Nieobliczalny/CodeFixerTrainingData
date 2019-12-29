@@ -575,6 +575,7 @@ long	ZU8r0(unsigned short	y8D58,unsigned char	lK7M1Q)
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    DW1oX(unsigned short    A0F6bko7y4,unsigned int    e5gkJGTNt,char    l2qf94pI6,unsigned char    drzT9L,unsigned char    pBR11)    {
     return    909908133;
 }

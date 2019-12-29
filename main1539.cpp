@@ -28,6 +28,7 @@ unsigned long long    WbY7Po()    {
     return    1195532551;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  long double S6V7I;
  S6V7I = -229123764;

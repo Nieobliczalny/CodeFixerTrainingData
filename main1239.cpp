@@ -14,6 +14,7 @@ unsigned int    SiRYM(unsigned short    eWLer_cT9,short    tkh_Vmi2K,unsigned ch
     return    -1878713092;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int bT1865V(unsigned short int pv1721yL,unsigned int q0lG_1_sR)
 {
  return 0;
@@ -25,6 +26,7 @@ short ahOs4d(char jnAWP,short int S7T2nc,unsigned long long l4f7Jl,int Rpc11E,un
  return 182328381;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	int	VQFnA5;

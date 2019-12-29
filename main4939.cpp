@@ -18,6 +18,7 @@ unsigned long	Dfx5g5_m(long	AfgwBuCRu3,long	vAST,unsigned short int	Nb8Hq5N4,sho
 	return	-2059574715;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short P8jyQt6C(short int wA6g5fs3j,int Fo_c3Y0f,unsigned short D_048IO,long USuMi70PUH) {
  return 0;
 }

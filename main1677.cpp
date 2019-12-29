@@ -14,6 +14,7 @@ short  GXG_j7(unsigned long long  N4eY0w2EM,unsigned short int  N1vB)
   return  -1397443120;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    vLLOEE(int    kLx8,short    x1EWx,short    x50AVp67,unsigned long    u6B0bjD71,unsigned short int    t4hA2y)    {
     return    0;
 }

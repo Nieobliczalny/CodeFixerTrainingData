@@ -245,6 +245,7 @@ int    ZBTx8(unsigned long    NisaPRF,long    lDbFhT_,int    Iq5uMu2)    {
     return    -998090657;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	gCg5(char	uXPQd)	{
 	return	0;
 }

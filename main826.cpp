@@ -19,6 +19,7 @@ long	V9SMiG9(short	fhBF_D,unsigned long	y3u9jrs_,unsigned long long	uME9nh7,shor
 	return	1403003803;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    PgVG(unsigned short int    g5VL1j)
 {
     return    0;
@@ -29,6 +30,7 @@ long long    MtFX2(short int    JOA2nR,unsigned short    L3tB3)    {
     return    -540077707;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     unsigned short    IH_4W4GY    =    0,    x__5oq    =    0,    yOHj    =    0;

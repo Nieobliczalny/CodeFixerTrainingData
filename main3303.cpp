@@ -634,6 +634,7 @@ unsigned int	JMy_v(unsigned short int	a9G112iS_,long long	R04_alXSx,short int	uD
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    s0iFDA3V(int    a6WNb,unsigned short int    K020eY,char    MjKy,char    K4eQ1XwoSB)    {
     return    1479696906;
 }

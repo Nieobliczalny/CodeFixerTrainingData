@@ -185,6 +185,7 @@ char P1H6V3HU0() {
  return -605198070;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    hhjF(unsigned long long    M8CI,char    oP5dU,unsigned short int    A68VHpiYUq,unsigned long long    MCbX9f)    {
     return    932733945;
 }

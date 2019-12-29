@@ -671,6 +671,7 @@ unsigned char    aUQ6h4tX(short    LqaQ,char    DUGP3c7,int    B_5kCSM,unsigned 
     return    -1659418668;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	b4bXTc32(short	lAjU,long	mCc6H)	{
 	return	0;
 }

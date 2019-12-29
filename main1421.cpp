@@ -397,6 +397,7 @@ char	a2NCCo9QJ1(unsigned char	Y_2A9fG4,short int	nIRS39W3G,short int	F53dpi,unsi
 	return	-2074573852;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    PAs5Q_(unsigned long    HE1qoR)
 {
     return    -1175578245;

@@ -16,6 +16,7 @@ unsigned long long  ymP4O3W(unsigned short  t_71H8,long long  UIFvf,unsigned lon
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     unsigned long long    sL2306Z,    wwX_It,    fjkQ0zX;

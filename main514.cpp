@@ -630,6 +630,7 @@ unsigned long long    i8Koc(unsigned long long    bHq6wTiQ1)    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short G_22iS821(short zactb,char Fgw8)
 {
  return -490638028;

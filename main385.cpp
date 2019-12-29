@@ -224,6 +224,7 @@ unsigned int A9L2(unsigned short int N34hrp) {
  return -736736639;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	OV2gp5X(short	VQjjqV57,unsigned short	z_x2yihR6,unsigned char	vB_9WXaSs)
 {
 	return	0;

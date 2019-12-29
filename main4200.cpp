@@ -477,6 +477,7 @@ unsigned short	N3rQBwg53(long	aB4Iog7Z,char	uATSv,unsigned short	XrQ01Ex,unsigne
 	return	-435167541;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    Vd83K(long    IpwWAm7p3Q)    {
     return    0;
 }

@@ -785,6 +785,7 @@ unsigned int	kT3aR(unsigned short int	m5f0iv_a)
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int cz2Kk(unsigned int GEwO6tlSc4)
 {
  return 154590357;

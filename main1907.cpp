@@ -265,6 +265,7 @@ long	T94S(long	i8Iao5s,unsigned char	kaXG_Xlch,char	T01_HGr7,unsigned long	AE3bI
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  jSEm7bX(unsigned short int  I6_m)  {
   return  2018392980;
 }

@@ -238,6 +238,7 @@ unsigned short z26C(int itIs9k_4,long long wG611qRY,short int X_L3i4A)
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char Qb4CfaW_D7(short int S6JqvfA,unsigned long qy5B,long ifDzx5Fx) {
  return 17101135;
 }

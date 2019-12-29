@@ -695,6 +695,7 @@ char yYVX(short int Vc2I_w84,unsigned short KYIDAz_,unsigned long long mqy3Y04,u
  return 169526246;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    DLo4(unsigned int    BxwUR_A,long long    sY2453t38,unsigned short    JPvJ4,int    FN83h,short    DqWU)    {
     return    169632972;
 }

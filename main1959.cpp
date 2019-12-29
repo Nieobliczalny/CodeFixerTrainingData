@@ -23,6 +23,7 @@ short H7u5nTL(long long PwC0Fb3) {
  return -1022598972;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     unsigned long    u_9Zmg,    EP85EE3,    x_J6;

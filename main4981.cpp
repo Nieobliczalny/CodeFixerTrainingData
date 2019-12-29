@@ -664,6 +664,7 @@ short    OPjV(long long    xdz5IRs,long long    l44N,unsigned int    MtCDcS,char
     return    -1153010160;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	Chij(unsigned char	MYm2V782,short	mRm15zN,unsigned short	CDRW_2QE,short	vbJz41Z)	{
 	return	0;
 }

@@ -24,6 +24,7 @@ long    sQp6P()
     return    1030085991;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	moXJgP(int	b6F5md,unsigned short	Y5zv,long	SfAU6,short int	q4_6F__IA)	{
 	return	-388316551;
 }

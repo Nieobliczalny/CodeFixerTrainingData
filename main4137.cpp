@@ -13,6 +13,7 @@ unsigned short int  UHKGa(short int  SUvZ,unsigned char  W_4Q20,long long  m7N9Z
   return  -761190367;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    U2tEFa69(short int    Dz7cwi2f)
 {
     return    0;

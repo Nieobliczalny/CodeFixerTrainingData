@@ -13,6 +13,7 @@ char	cs79w(unsigned long	Q6_4c4g2A,long	d_GXo,unsigned short int	ThBewtWV,int	Oo
 	return	-431338402;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  OBXiu4(int  b8lEjW2,long  kDUa5q2V2,unsigned char  cBvhz88k,long  Q06As1_X6,unsigned short int  DNo7ut904)  {
   return  0;
 }

@@ -355,6 +355,7 @@ unsigned char jbG3d() {
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    lqyU224(unsigned short    qRF8y)
 {
     return    664501637;

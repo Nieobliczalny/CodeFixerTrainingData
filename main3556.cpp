@@ -13,6 +13,7 @@ unsigned char	ocS9A59TRM(char	DIxNbJ)	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long rx2_b5Z(long srpzu,unsigned long long Cusv,long long hM70znoT20,int AorK8YP) {
  return -1284007519;
 }

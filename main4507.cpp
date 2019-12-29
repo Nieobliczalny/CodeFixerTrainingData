@@ -23,6 +23,7 @@ unsigned int    JJ8vkLe()
     return    -752754583;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short qkp7ew(int bfd2) {
  return -1040409121;
 }

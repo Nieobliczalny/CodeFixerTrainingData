@@ -53,6 +53,7 @@ short    SNzFTSu2R(short    dHodGytD)
     return    -1191410807;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	fXkGv(short int	dASiZ7T,long long	rmXh5l,unsigned int	jmM00G2P,char	Jl8f38B05)	{
 	return	0;
 }

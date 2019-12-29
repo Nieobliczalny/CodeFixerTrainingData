@@ -12,6 +12,7 @@ unsigned int	DzPNH6_Z3(short int	r6_46lBQ,long long	Un8Lm)	{
 	return	-1929198870;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  P_Hy4rt(long long  Ek763,unsigned long long  ujE8zogXr,unsigned short  G64_7H0nvJ)
 {
   return  1104557497;

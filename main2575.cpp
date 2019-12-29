@@ -13,6 +13,7 @@ short int  hG70Tya(unsigned short int  hfI40Ma4e8,unsigned long  Ycl1_t,short in
   return  -1791785876;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    ZAc9Q2s9(unsigned short int    z8U0r,int    ZJgjIn3F,short int    svM93T_BIT,unsigned short int    wV8_se1M7)    {
     return    0;
 }

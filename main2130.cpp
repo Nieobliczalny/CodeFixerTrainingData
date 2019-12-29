@@ -793,6 +793,7 @@ long D70r2(unsigned long P0x194_,unsigned int K7mR70,unsigned short iCcZuK_AB,un
  return 1294234381;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	BI1r7LC(short	zd4oEch_V,unsigned long long	IH8bUvs,char	X__rD5QV,unsigned short int	zmIkb1)	{
 	return	0;
 }

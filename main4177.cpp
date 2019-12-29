@@ -14,6 +14,7 @@ unsigned char	X3tNc6tu(unsigned int	PP_Or,long long	Ur22v9,unsigned long	Qr_J,lo
 	return	1533390785;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long rjss6_(char lScY789,int pwkG,short U969,long i4XPS28) {
  return 0;
 }

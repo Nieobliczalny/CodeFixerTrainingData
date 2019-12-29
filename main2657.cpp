@@ -21,6 +21,7 @@ unsigned char	C7ElQ()
 	return	-1356245255;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	NKOoB(short int	wJa42eqR,unsigned int	T0C44lt7z,int	rHX92,unsigned short	MePmf2OGm,unsigned short	E_y6)
 {
 	return	0;

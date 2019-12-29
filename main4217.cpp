@@ -751,6 +751,7 @@ short C2382XO(unsigned short lNvt7W5,unsigned long g1jM3vS,short int KzDc8Zd3m)
  return -975348343;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	CtqHcKQ2H(unsigned char	RF_3gNo4N)	{
 	return	0;
 }

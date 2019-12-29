@@ -366,6 +366,7 @@ char h87wd6X1(long JOO3gR0,int WKYsnup1f9,unsigned long mA45X63V,unsigned long i
  return -2030661470;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int qj8R8__ki(unsigned long long uN9VNlR,unsigned short int x6YN6W,unsigned short int gB6A29,unsigned char nW4JhK7d1,long YG33_N4Fn) {
  return -1192267386;
 }

@@ -14,6 +14,7 @@ unsigned char Ns7C(short int q1IbykO84,unsigned long long L91j,unsigned short in
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  R6K50q45X(unsigned long long  Q0EX8roR,unsigned short  pG2L6X4mq)  {
   return  -791766769;
 }

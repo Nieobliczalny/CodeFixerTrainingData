@@ -13,6 +13,7 @@ unsigned char	zc2CT_ZS(unsigned short int	qnaH6s70,unsigned short	PDcT1ak,unsign
 	return	-830600272;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  S_Xx(long long  Z4Ui92R1MU,int  XG3G7,unsigned short  G_Z__6sFh,short int  mSkg)  {
   return  877250796;
 }

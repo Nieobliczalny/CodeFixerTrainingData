@@ -167,6 +167,7 @@ unsigned char  LKI_R2d(unsigned long long  GPjEVX78,unsigned long  j9Rm65_9,long
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    y01E(unsigned long    O0qQFS8)    {
     return    -1329278438;
 }

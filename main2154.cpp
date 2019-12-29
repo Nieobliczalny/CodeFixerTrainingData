@@ -414,6 +414,7 @@ unsigned char ceyU1_Q22() {
  return -1543508093;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short FNJet(short int fN93,long l7_3iWw,int mtiuEi,long R4p8w2T7_7,unsigned short int h2Al) {
  return -2132986766;
 }

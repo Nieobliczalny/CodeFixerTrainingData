@@ -465,6 +465,7 @@ unsigned short int  cLaR70(char  F778B0nsa,unsigned char  Zy8_z0H)
   return  -1865624787;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char lhxMm(unsigned short int nQfQrD0iWz) {
  return -1234674716;
 }

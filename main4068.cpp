@@ -14,6 +14,7 @@ long long Xxn5Z__R7(unsigned short int g8_Zz7Vc2,unsigned int w3X16w61Is,unsigne
  return 1714844323;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  EX_shg2V(short  fDU48CF7)
 {
   return  -436807927;
@@ -25,6 +26,7 @@ long    xm38Z220F1(short int    jAzh6I1ht)
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     double    a_8Ixu;

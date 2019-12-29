@@ -577,6 +577,7 @@ unsigned char    y1QSKLOF(long long    yOqU_AR,unsigned long    wYCm2ylE,char   
     return    -1711835653;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    S2VTD_pC(unsigned long long    w0O5,unsigned long long    Vv11F4l,unsigned char    qioG7,char    M2L1d890)    {
     return    1200265648;
 }

@@ -150,6 +150,7 @@ long long	Tb2nK(unsigned long	we597,unsigned short	hHNRM,long long	O3BKN,int	xjm
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	AX8TXf0ON9(long	qQ8sxSv65,unsigned short int	SF0BMh,unsigned long	R1B6)
 {
 	return	-93952640;

@@ -480,6 +480,7 @@ unsigned char    e9M1W2bk(char    EXcRzOh51,unsigned short    y_0sw_SuT)    {
     return    -1102977795;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	H_mOHH9634(unsigned short	Ub0WR21YD_)	{
 	return	0;
 }

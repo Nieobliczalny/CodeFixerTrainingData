@@ -24,6 +24,7 @@ short nfere8GS6() {
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long qoKt(long mZK_7,unsigned short int ssREl,long OoUo) {
  return 1285800186;
 }

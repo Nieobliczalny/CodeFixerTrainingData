@@ -652,6 +652,7 @@ long	Q0q8Xzt(char	MARt)
 	return	-1440605109;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    aOzmGxf(unsigned short int    lR9E794,long    x5824Y2SL,unsigned short    zrI46J)
 {
     return    0;

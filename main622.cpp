@@ -149,6 +149,7 @@ unsigned long long	DRzKH4u(unsigned short int	m4Poy3,unsigned char	C2m1,long lon
 	return	1323521633;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    auu5I(int    vM1h3D)    {
     return    0;
 }

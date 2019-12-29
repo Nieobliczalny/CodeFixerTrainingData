@@ -20,6 +20,7 @@ long pK4AJ_(unsigned short int jdRCSL1y44)
  return -1683287417;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short xw_3P8Y5L_(unsigned short int M8l501DPq1,short r4XGtF)
 {
  return 0;

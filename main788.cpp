@@ -334,6 +334,7 @@ unsigned long iL725Q5N(unsigned int NKtsA,unsigned long long BI4Wz6X,short int f
  return 672092032;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    G7stb6Z65(short int    dr2mh,long long    KaHpG0,unsigned int    OCIH_A,char    M212XbL21)
 {
     return    -421340330;

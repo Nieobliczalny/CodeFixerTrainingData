@@ -588,6 +588,7 @@ short    FX20_Qs4sv(int    GonX2)
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	k9Twr(unsigned short int	TNz2tv)
 {
 	return	-556751796;

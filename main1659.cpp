@@ -13,6 +13,7 @@ unsigned long long    cEsFiK8NY(int    lq_HI,unsigned long long    s_6K06,char  
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  kHA2Eo32wj(int  kUF5DX22,char  TkQx9e,unsigned int  yq3F95mP,long long  r5JZ)
 {
   return  -600822820;

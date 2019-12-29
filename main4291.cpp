@@ -607,6 +607,7 @@ short int v443o()
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	c2K7HJ3M(short int	NY6Yg,long	JyjdjWF2,long long	c_Yx_2)	{
 	return	-567336025;
 }
@@ -617,6 +618,7 @@ unsigned long iACU46(long Di9_7,long ojGRUb)
  return 723562743;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    EW3oE(unsigned short int    Jz75Hb,int    BpP71,unsigned long    su3M86)    {
     return    -1955744989;
 }

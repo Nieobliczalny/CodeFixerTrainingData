@@ -13,6 +13,7 @@ unsigned long aZRXdm6Tee(unsigned int YaqmB3_7,long ap9SG6q_R,unsigned char Z3Ee
  return 337795408;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	hjh23(unsigned short	rYh25fGv,unsigned short	FfB9Wag3d,char	do4i0BH8Cb,unsigned long	Us7w4_dh)
 {
 	return	1931087018;

@@ -713,6 +713,7 @@ char	LzgrD2(unsigned long long	rlG2E8_b,unsigned int	LqQ0Jcq,unsigned int	d4yo_X
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  Sp3KeVfq_d(unsigned int  q77uMeGk6,int  mFIgLxi,unsigned char  FT7UfC,long  itr7_jtB0E)  {
   return  -196390635;
 }

@@ -333,6 +333,7 @@ unsigned long  RRF5f(short  kj332aQ5ms,unsigned short int  sGAc051vC)  {
   return  -1233180103;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long XdokA3p2L(long Z3pr70O2,unsigned long long NbK7128aQ)
 {
  return 0;

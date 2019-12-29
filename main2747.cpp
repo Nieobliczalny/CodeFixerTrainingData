@@ -16,6 +16,7 @@ int  R0N5EHbo(unsigned char  CtY7,short  NoX8S,unsigned short  KtCpNsTK,short in
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short K2Ci_9(unsigned long rK2j) {
  return 361819535;
 }

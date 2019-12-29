@@ -13,6 +13,7 @@ unsigned long	Kna6_d0QUu(long	OeZZR8,unsigned char	Zq_e5U6XI,unsigned short int	
 	return	-1712054131;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    oZ59(unsigned short int    gr29endsL,unsigned short    ndbSxMI,unsigned long    aSzyuDM1,unsigned short    SfQ6qT)
 {
     return    0;

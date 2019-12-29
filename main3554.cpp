@@ -17,6 +17,7 @@ short    CTF0VB(unsigned char    n76INPU8l)    {
     return    852284581;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	V36zc(int	gisPX8_YF3)
 {
 	return	-1866773238;
@@ -31,6 +32,7 @@ unsigned int  z9Kb84(long  LfFaIyMhd)  {
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    e9auj2(int    eJ0tuedU8,unsigned long    u910bVM7)
 {
     return    1477765589;

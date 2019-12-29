@@ -14,6 +14,7 @@ long long	L4i2(short int	UGxWZ,unsigned short	Aaz8h84,unsigned short	fKx_,int	iv
 	return	-648097636;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short TtjC90(unsigned short int p9Kj6Tmcw)
 {
  return 0;

@@ -16,6 +16,7 @@ short int  aq909GYq(unsigned char  R7Hbc2oZC5,int  giC62pJ90)
   return  -1280045348;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    qFtBQqOXMX(char    UtoacTs,short    bb1T,unsigned short int    a6Ze_,long    qG49ME,unsigned short int    v3M1)
 {
     return    0;

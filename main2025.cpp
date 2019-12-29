@@ -295,6 +295,7 @@ unsigned short  nznVtt()
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    cG93nRd9o(long    e45z8ao)    {
     return    -892826599;
 }

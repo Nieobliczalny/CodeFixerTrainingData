@@ -15,6 +15,7 @@ char chH06g(char QtYfB_0,long Q9q6ayMs,unsigned short Gm5FxmD0xX,unsigned short 
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short  xXh8r(long long  QUaVpas_GD,unsigned short  o27W7OI4_Z,unsigned short  MTyCU2_v,short int  V3X0M7f47C,long  otJyLfEFAj)  {
   return  244834006;
 }

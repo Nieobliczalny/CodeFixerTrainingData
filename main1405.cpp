@@ -21,6 +21,7 @@ unsigned long	gWTp()	{
 	return	-245216171;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	y3wB8b7fwM(long	Hh3uM,short	O354sY)
 {
 	return	0;
@@ -31,6 +32,7 @@ int oTXBV9o_N(int bAl32p,char HyZEHBsJx) {
  return 441262881;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    yo090UAk(long long    CsqEtK0,unsigned int    fGMqG2r,unsigned long    i3V6I,short    gX4X79k7)
 {
     return    -1059122563;

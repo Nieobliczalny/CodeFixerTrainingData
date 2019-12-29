@@ -14,6 +14,7 @@ unsigned short  Sf_H(short int  tM26Bs1N_q,long long  nzVV_)
   return  -128479960;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int kS7sFg_8T(unsigned char o_zE,unsigned long LACr7CgD,unsigned char m0C2aD2_) {
  return 580483332;
 }

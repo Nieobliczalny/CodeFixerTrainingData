@@ -699,6 +699,7 @@ long long    ZV4_iXlF(unsigned int    U989,long long    wGB2)
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	gcr9_65r8P(unsigned long	E0_J7yKNt,short	P_2DTg,unsigned int	GQg9vjC)	{
 	return	-1063773410;
 }

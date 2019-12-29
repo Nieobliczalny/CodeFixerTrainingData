@@ -248,6 +248,7 @@ unsigned long O0Q1HrOb(unsigned short Ld0pbwK_9) {
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int afo3w83(char Phw7he,unsigned char sw71_,long h8XcAkItbM)
 {
  return 1224014914;

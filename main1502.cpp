@@ -19,6 +19,7 @@ unsigned int  GzVKPxK()  {
   return  1515914840;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long vJAaEHgb(unsigned long Rl3M2gfFPc) {
  return 0;
 }

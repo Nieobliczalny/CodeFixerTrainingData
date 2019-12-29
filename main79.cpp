@@ -193,6 +193,7 @@ unsigned char	k5Y65v(long	TWg6w_7mG,unsigned short int	D6y0JMD,unsigned short	a2
 	return	-271978045;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  CIiF_3(long  M3GtXA,unsigned int  uKhaX,short int  BkmPeHSa,long long  a9Xml3Z,unsigned short int  TYN84g)
 {
   return  0;

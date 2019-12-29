@@ -129,6 +129,7 @@ short int PHGRnD2jUT() {
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    DaqM_L685E(int    j_1r48,short    w51_R69Slk,unsigned long long    D8gs)    {
     return    -1817231744;
 }

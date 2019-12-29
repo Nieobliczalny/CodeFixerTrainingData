@@ -341,6 +341,7 @@ short    xL9Xu3(long    gzchJ8,short    Us_VD,unsigned char    y9JyB346s,unsigne
     return    -1926449054;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	d09AG(unsigned short int	ks4USFyu,unsigned short int	x_uG,short int	X2M3Yz)	{
 	return	673126693;
 }

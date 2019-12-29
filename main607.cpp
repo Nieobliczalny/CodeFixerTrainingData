@@ -21,6 +21,7 @@ char gfTpDNR() {
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  Vkz_3sWD(short int  yj0_1,unsigned long  a5eK,unsigned int  Du8090EfD,unsigned short  u5fcL7e0,unsigned char  fG97bq)
 {
   return  -687636173;

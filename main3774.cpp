@@ -14,6 +14,7 @@ long long    ND976EQF(short int    ht8Lv_JOW3)
     return    -238105854;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    G6GoLbg_Vs(unsigned long long    XvHdKw0iM)    {
     return    77557757;
 }

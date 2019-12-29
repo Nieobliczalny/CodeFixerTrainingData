@@ -283,6 +283,7 @@ unsigned short z3Q11Ivv(unsigned char wrLXI,unsigned long O5aGaUY1AB) {
  return -1991435388;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  uiT79(unsigned short int  FaTyL_be9n,unsigned long  AmopLn1X)  {
   return  -1632812188;
 }

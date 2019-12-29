@@ -324,6 +324,7 @@ int    D8IF6(char    ndQ7b768_)    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short b6MUl0(unsigned long kN6EWq__c,unsigned short PX28Kz13,short y363,short int bT6B0,short e373165) {
  return 1372116259;
 }

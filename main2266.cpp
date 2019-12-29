@@ -316,6 +316,7 @@ unsigned char    d1aSt(short    b5Z9CrLQ)
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int Ye9HeVU532(unsigned char p59w,unsigned long sVn1l2HC0,short int J3CGnI,unsigned long T10CnG9UP) {
  return -1572783848;
 }

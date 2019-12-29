@@ -194,6 +194,7 @@ unsigned short	P8jA(unsigned long long	q_T71,unsigned char	y8w2dr45d1,unsigned l
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	Qh31J(unsigned int	r5R2X_Zb)	{
 	return	-1317805889;
 }

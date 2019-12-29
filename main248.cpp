@@ -314,6 +314,7 @@ unsigned char Z__4vjxX8c(unsigned short int Yz0UN,unsigned long ewS6a,unsigned i
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int ktPZgj1z(short BEf5OV,int nBuL_t9gI0) {
  return -134686507;
 }

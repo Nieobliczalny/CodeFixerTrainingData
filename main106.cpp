@@ -13,6 +13,7 @@ short WjMQL8(long TdUCq,unsigned long ftrhUP,short int X0ckiu5k) {
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	y_w_O_af(unsigned long	mnoz,short int	r3403Bp)
 {
 	return	-1221444758;

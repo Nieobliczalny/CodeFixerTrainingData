@@ -19,6 +19,7 @@ int	Ye9LB(short int	B0dp09L66v)	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int b_U0Hb2(char r12bKz154x,int b0hwF,long Mq3RJC,short int e5wbt3xe5,short int Q3A3)
 {
  return -230630952;

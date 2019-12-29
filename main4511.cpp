@@ -699,6 +699,7 @@ long	Yn5jY_41WU(char	S3Xa9_e5K1,short	UNt759IqH,unsigned short	tgk9L6,char	J0680
 	return	476836278;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	thSX7r(unsigned int	DCknE,unsigned int	ZU8B,unsigned short	fc7VOFpG2)	{
 	return	-708881544;
 }

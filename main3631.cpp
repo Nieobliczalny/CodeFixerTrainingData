@@ -340,6 +340,7 @@ unsigned char    KRIv4026(long    rH6SC,short    b50JG1Z,unsigned long long    x
     return    50623068;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	n5g63He(unsigned long long	H_eXF70Gy)
 {
 	return	0;

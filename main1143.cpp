@@ -21,6 +21,7 @@ char	wn72_W_tmY(short	apbP8q7KWY,int	Eg_2,long	Q4xmmd2ep,int	OUb3,unsigned long	
 	return	1873157748;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    OZ7j(unsigned int    d9L10O,unsigned long long    wTAzS)
 {
     return    0;

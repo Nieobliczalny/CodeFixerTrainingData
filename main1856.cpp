@@ -18,6 +18,7 @@ int Y4lNV3(unsigned int ZLv__EU40,unsigned short XFmvbJ)
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long XfM3VDou(short P5SF3NU9u,short Xj3vP,short int LoJEG5AQ_)
 {
  return -1475797809;

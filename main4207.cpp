@@ -14,6 +14,7 @@ short int	lJAr_h1(unsigned long	FMlE1N_,unsigned short int	h0Qpg8,long long	w0_s
 	return	-611845364;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  O83hkgl(char  Mwdw0AC,unsigned long long  bqYSzxn7M)
 {
   return  1181472531;
@@ -29,6 +30,7 @@ long long  o_mt0Ps(long long  o8hBv2ZAYV)  {
   return  1110308324;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	long	e_93N;
 	e_93N	=	-1445058628;

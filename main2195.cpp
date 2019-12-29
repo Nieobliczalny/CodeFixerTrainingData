@@ -61,6 +61,7 @@ unsigned char	w820Hz6_7e(unsigned char	VVDJPqQw)
 	return	-1425100450;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long VU8mtj8tY(int Dblxx8RRDj,unsigned int hZeYH,unsigned long NXs80xotP,char nNBI,long eEF4Ac40D) {
  return 0;
 }

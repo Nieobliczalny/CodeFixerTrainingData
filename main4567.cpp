@@ -836,6 +836,7 @@ unsigned long    NCJ696au6(unsigned int    EZ6Y5t9J5b,short    Xq6FCh,unsigned l
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    y9h_msko5(unsigned char    Vq3ixuht)    {
     return    1094890345;
 }

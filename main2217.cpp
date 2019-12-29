@@ -600,6 +600,7 @@ short int    s_Ay1luIf(long long    ByZUmO__5)    {
     return    1505408597;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	x2Q_V(char	TlJs1f6mwB,int	O2j24S1,unsigned int	UiS12,short	ruuVJTcuW)	{
 	return	0;
 }

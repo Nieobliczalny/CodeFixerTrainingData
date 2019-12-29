@@ -28,6 +28,7 @@ unsigned long    qA4Zw(unsigned short    ZrMQ_Qq)    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    Iq02Z3(unsigned long long    lM_LW,int    EUl__L5Pa)
 {
     return    1664028256;

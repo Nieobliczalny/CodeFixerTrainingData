@@ -14,6 +14,7 @@ short PwTj8j(long Z893T0Fr,char Vx9QLMLP)
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  OCrg9k5pz(unsigned int  BXL4v45WH4,unsigned int  ni1s6,unsigned short  yjJ2W36Ixu)  {
   return  -1544187952;
 }

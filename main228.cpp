@@ -20,6 +20,7 @@ unsigned long long    Ui4bp(long long    iSKoD,long    wGju0mB)
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  w6N6_B(unsigned long  US9ez9,unsigned long long  gQs9QQ0J_I,long  w_G6688t6z,unsigned long  Q72obRA0b,short  TP5PFL)  {
   return  -753305967;
 }

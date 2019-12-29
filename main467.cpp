@@ -14,6 +14,7 @@ unsigned char  n48K(unsigned char  rSJ4sa918,unsigned char  cH493C,short int  EF
   return  1074196027;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	jdSbT28F6(unsigned short int	AK_EJM1,unsigned short int	QXWmA1ZA)	{
 	return	0;
 }

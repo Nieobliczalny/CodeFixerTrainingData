@@ -13,6 +13,7 @@ int j9CN1Vu_wB(unsigned long long WG7B,short mMJqL,unsigned int zmfDXr0t8A,unsig
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     long long    pHRC;

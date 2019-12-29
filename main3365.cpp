@@ -438,6 +438,7 @@ unsigned short int LOS382(unsigned short int Pr_fFj_X7c,char ZT1778,int XXYl1VUt
  return -578438600;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	HaYu(short	WOS9P)
 {
 	return	0;

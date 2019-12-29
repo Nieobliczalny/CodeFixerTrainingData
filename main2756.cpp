@@ -28,6 +28,7 @@ unsigned char EC4QYe(short int g25LA,short int FT_9,long I3qwq,unsigned int Zvb9
  return -878628426;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     int    F3DZp;
     F3DZp    =    0;

@@ -297,6 +297,7 @@ unsigned char  sUbX9RtYFM(char  vu439c)  {
   return  -1936459976;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long ETfZrEN77(unsigned long q_u4rw7W,unsigned short int IbezH6zM) {
  return 0;
 }

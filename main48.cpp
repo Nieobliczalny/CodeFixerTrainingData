@@ -193,6 +193,7 @@ int	F1NH(long long	c5gNIT_7m6)	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  dLD2s9s9G(unsigned short  mw8iZH,char  aL2D)  {
   return  1969159740;
 }

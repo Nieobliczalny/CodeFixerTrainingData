@@ -22,6 +22,7 @@ unsigned long long	Lqojy(short	wJk18,unsigned long	H32Is,unsigned short	aYVp30wQ
 	return	1852408052;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    q_BBg(long long    fbbdBg0ZX,unsigned short int    P18IEH12,short    C_cn7mPaX,unsigned char    UTZ_9pYV)
 {
     return    1799138113;

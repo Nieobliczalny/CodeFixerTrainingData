@@ -692,6 +692,7 @@ long	mxc84aN_(short int	aC1h995r,short int	X9al)	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	SkW_0J(unsigned char	bD4e4hrv,unsigned char	mfVVXZK1)
 {
 	return	-485568303;

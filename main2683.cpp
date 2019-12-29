@@ -13,6 +13,7 @@ unsigned short R4uO(unsigned short bxO3X_2q1,short int JKKg4,unsigned int LsOaOl
  return -1753169107;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    IB_LPoXLB(unsigned short int    B9N2)
 {
     return    0;
@@ -27,6 +28,7 @@ short  Qil768N(unsigned long long  QEfo2,unsigned long  NCDgzR7Ob9,char  s7B27gb
   return  1372854251;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	kF7OKWPo(int	C_YI_MR)	{
 	return	1788406020;
 }

@@ -834,6 +834,7 @@ unsigned long	S04dFZZKwf(char	Ih5JQq1O,int	qYSs_0KT,unsigned short	Lr60Tv5fN,uns
 	return	-201833188;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	ZQTAD(unsigned short int	xX5lKRW,char	G41S)	{
 	return	1225785620;
 }

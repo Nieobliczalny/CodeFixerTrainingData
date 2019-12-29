@@ -18,6 +18,7 @@ long long o1UO50c(unsigned int W7SXNbh,short UCyO8,unsigned short THn9,short R14
  return 1907134151;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    J02zwn4(long long    fWr2,char    A1I_0Z)    {
     return    0;
 }

@@ -743,6 +743,7 @@ unsigned short int	exb9zJ(unsigned char	rXfWxi)
 	return	-1275785302;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int e7Hh31_PJ(unsigned int m_a6b85Df,unsigned short int F5E0,int IG06G9bqC1,long h_XgNihi26,unsigned short int aV_3i) {
  return 897006105;
 }

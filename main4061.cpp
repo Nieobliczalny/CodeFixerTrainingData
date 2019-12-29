@@ -14,6 +14,7 @@ unsigned long long dr0N(char K_U_zi8832,unsigned char l84g8ou_,long long Y7cu9t1
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    CD2_v3(unsigned long long    PHknM1UaT,unsigned long    S89_r,unsigned short    Z64C,unsigned long    EBw0,unsigned char    piE_41Cqoa)    {
     return    1280060424;
 }

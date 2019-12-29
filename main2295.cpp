@@ -21,6 +21,7 @@ unsigned short    Db1Y_Ai_()    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  YINOALI3j(unsigned int  mz28n8F)  {
   return  -1141472063;
 }

@@ -520,6 +520,7 @@ unsigned int	pe2_5x9_U(long	y0New4kMF,unsigned char	rF0E46ivOy,unsigned int	jlU8
 	return	-436542854;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  cjLDR(unsigned int  DC67mPqENo,unsigned long  Dm3zHtT,unsigned int  Rm2_6zpKC,unsigned long  Vle4GA,unsigned long  B44wKTMUA)
 {
   return  0;

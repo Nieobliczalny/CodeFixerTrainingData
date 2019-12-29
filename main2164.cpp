@@ -480,6 +480,7 @@ short  XD3X_Y7(unsigned long long  L7el23_)
   return  1428089227;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	awioTa3(char	b7cyt65_7,unsigned long long	P1z0uL8Y,short	c0wADv26)	{
 	return	0;
 }

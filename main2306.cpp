@@ -27,6 +27,7 @@ unsigned int  XoJ3(short int  CP02,unsigned long long  R8CkkYEYG1,unsigned short
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  double UgeM;

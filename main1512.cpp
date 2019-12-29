@@ -17,6 +17,7 @@ int    SL8n9C3y(short    MODpnN,short    qftCxEI)    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  qfj651(short  Gvod_nn7x1,unsigned short  YqB1Nsj)  {
   return  -1509618884;
 }

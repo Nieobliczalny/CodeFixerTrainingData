@@ -18,6 +18,7 @@ short int    Px_T3pB8v(unsigned long long    Ahx18f,int    A2ZW8)
     return    2088381132;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    EJ31K8vO(unsigned short int    A1m_21,short    E01FcLw5,unsigned short int    JwX75LM0v,unsigned short    OeUmqa_W,short    QH4PuNr2)    {
     return    0;
 }

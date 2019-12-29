@@ -280,6 +280,7 @@ unsigned int    KBUL(int    n6_8Y4J_)    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	PanQvVB6t1(short int	MG38E0m43h,unsigned short	qDYM9NMT_,long long	d9_6Am5jAn,short int	MB6658D098,char	HHvcD1)	{
 	return	1097084742;
 }

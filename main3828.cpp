@@ -437,6 +437,7 @@ long n8DY_(unsigned short int c7g9N)
  return 2068046154;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long iUGH(int AXcd42tS4,short BmFDi37G) {
  return -1813484582;
 }

@@ -13,6 +13,7 @@ short int    LA9S_THjh(unsigned char    cDC7D,unsigned long long    lJ20,short  
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   long  zj1y2qx;

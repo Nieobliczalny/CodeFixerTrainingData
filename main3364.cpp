@@ -216,6 +216,7 @@ short int	R1SNHuYL5_(char	pw5y,unsigned long long	RbZ1)	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char PVm2z(short H0haP1,long long X5vJGMJ75s) {
  return -129906649;
 }

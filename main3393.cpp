@@ -21,6 +21,7 @@ unsigned short int  Amr3O(unsigned short int  bcLgGy8l,long long  Sg5W64Z,unsign
   return  -956963679;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  nxebY3(unsigned long long  q7H0laftV,long long  Tg2Q)
 {
   return  0;

@@ -459,6 +459,7 @@ int    rHKVm(long long    fFxHC22Z4,unsigned short int    KHcd2CPQ,unsigned shor
     return    -734944950;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short HlKhr2(int FUz2C3t_a)
 {
  return 0;

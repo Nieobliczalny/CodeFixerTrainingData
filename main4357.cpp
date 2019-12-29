@@ -18,6 +18,7 @@ unsigned int  XY_Vgw1ed4(unsigned char  RJQXV,unsigned char  Pp0_Yr64Na,short in
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	unsigned int	LphgdFn,	t0smUdkht,	i6JxBn6E,	cv5T4X,	a_km9;

@@ -297,6 +297,7 @@ unsigned int hc_ftO(long long g71wbHKX5U,short BBYvf7k,int MQ8o9D) {
  return 1163396999;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    R64PGT(short int    zHfol55_)
 {
     return    0;

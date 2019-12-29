@@ -666,6 +666,7 @@ short int	zMJNKt(unsigned int	Kh02V52)	{
 	return	1801246245;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    KJ2cz_d(int    T56u66tyfH)
 {
     return    -66040008;

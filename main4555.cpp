@@ -13,6 +13,7 @@ long long    w4WqL_(short    nMaV,unsigned int    g5WY,unsigned long    NGQ8,uns
     return    -1290482138;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    mo8OFiW(unsigned char    eOI7d,unsigned long    HZ8d191c)    {
     return    0;
 }

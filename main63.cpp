@@ -22,6 +22,7 @@ unsigned long long DjD49l(unsigned short c2Bu_NkE_,unsigned int JTKsZ5H,short in
  return 1472410264;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	kKz6K4(unsigned long	kn4TzP6nL,long	yUGI,unsigned char	X4iP6j)	{
 	return	2146605151;
 }

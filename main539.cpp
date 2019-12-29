@@ -12,6 +12,7 @@ unsigned long j16cf(unsigned short T9w_QJgy_,unsigned int ShugA5u,unsigned int c
  return -367495277;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  Wx94NQ(char  DT_9q3,char  rszx5O0j)
 {
   return  1396944798;
@@ -26,6 +27,7 @@ long Eri84(char rtVTt0I,short int Z213xA_iG3,unsigned long long C74_4j4mh,int I1
  return 1772024259;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    F_zbcEM(int    maPeO,long    px0W0)
 {
     return    0;

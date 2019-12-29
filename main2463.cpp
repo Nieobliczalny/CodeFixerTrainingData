@@ -156,6 +156,7 @@ unsigned long GV7FP1r_z8(unsigned short sx_lM34a4,unsigned int UEwG40DFs) {
  return 1434212152;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	Cvjs3FPX5(unsigned long	m4Yc34,unsigned long	x6Fxd,unsigned long long	rX92zDo1,int	g6GF0B02U,int	EFq7)
 {
 	return	0;

@@ -16,6 +16,7 @@ unsigned short EJPs(long V2X5s,unsigned short pR7_kr5,unsigned short int oN6G5F)
  return -455295247;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    VlKVE(long    vv53l0Y,long long    L1VyO,short int    cxNm1u7_)
 {
     return    0;
@@ -30,6 +31,7 @@ char  X54ZuB(unsigned short  M9m940j9G7,unsigned long long  UN5dE_vvMH,int  i7IM
   return  606823984;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   int  qvhAz  =  -659776269;

@@ -23,6 +23,7 @@ unsigned long long    iI044t_(unsigned long    E73n)
     return    -1606126677;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    e_O5u0w(long long    z__1eetH,unsigned int    aO19_y2,unsigned long long    tXjXr6,unsigned short int    Hg9Z45)
 {
     return    0;

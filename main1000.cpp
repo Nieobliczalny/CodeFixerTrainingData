@@ -17,6 +17,7 @@ int    vG43r_VOp(long    QQ7f,unsigned long    ZVXI,int    lQZr2Axe,int    WC1o7
     return    -1407874268;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  DL5_q__(unsigned long  ZImf7K,unsigned long long  aGTUz,unsigned char  Z1U2q6,unsigned char  Uw7_S)
 {
   return  0;

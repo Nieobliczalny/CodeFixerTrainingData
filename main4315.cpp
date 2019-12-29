@@ -14,6 +14,7 @@ int	sw02o_3dT(unsigned char	U40EZI8,long long	X4D3,short	LCuy0R542)
 	return	1216191925;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    ob2xMTu(unsigned short int    E748974a8z,unsigned short int    IhoQ,unsigned long long    EcUs83)    {
     return    0;
 }

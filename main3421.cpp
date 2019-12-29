@@ -16,6 +16,7 @@ unsigned long long	p1zB(short	wnFFEc,short int	Q_QC805DD,unsigned short int	c1xM
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    dWTE(unsigned long long    pFTvkeZM_5,short    FCv_3_,long    C72R)
 {
     return    -464425920;

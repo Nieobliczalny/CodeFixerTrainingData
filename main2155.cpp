@@ -23,6 +23,7 @@ unsigned int  J7A2_tO0(short  MaG0a3,unsigned short int  M_493U,long  h7ShfSYPr)
   return  -317303363;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    QCpk13(long    n9a5UGLY,short    BBj6BAECF_)    {
     return    -2036726338;
 }

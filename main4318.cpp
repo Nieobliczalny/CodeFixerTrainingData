@@ -213,6 +213,7 @@ int	he252U2Y(unsigned long long	eSDR38R1mL,unsigned char	tPG8g4y)
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short EKIXg(int i_gN,unsigned long long WvUKI) {
  return -540962775;
 }

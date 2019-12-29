@@ -440,6 +440,7 @@ unsigned long	HG47491Ylq(long	pCPb7i,short	pelnM6P0z,long long	M07L,unsigned int
 	return	736718453;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short Cdf3_89_Lr(unsigned char ERr6hPaRB0,short int AT6br9)
 {
  return -1163679868;

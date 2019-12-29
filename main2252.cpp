@@ -13,6 +13,7 @@ char s5hd7(unsigned long long jtqkzMq) {
  return -1987805872;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int U7u_O3gILd(unsigned long Ei9JNa0B,unsigned char K277W8_,char iUPbr432hc)
 {
  return 0;

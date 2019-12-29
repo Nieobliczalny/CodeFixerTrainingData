@@ -264,6 +264,7 @@ unsigned long	d1973D6NJ_(unsigned short int	gBvl9i,long long	dW4WZt,unsigned int
 	return	391469393;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int ODzV4jTtd_(unsigned long l_wfN0s,long long R4F9mao,unsigned char XF82421x4,long long ch4DcP84k,unsigned int htR4b6)
 {
  return 0;

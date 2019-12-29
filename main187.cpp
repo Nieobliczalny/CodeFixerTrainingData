@@ -428,6 +428,7 @@ unsigned long long  p0YvZG2060(short  L1u_7)  {
   return  273318400;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  a3wrz(unsigned int  L_r1aRS,unsigned short  mpUTI,unsigned int  ithI5)
 {
   return  96640886;
@@ -442,6 +443,7 @@ unsigned long long  z6bn(long  SG8g12S_F,unsigned long long  beSf3d,unsigned cha
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  Oh_LogD(short int  RJUU6P)
 {
   return  339818680;

@@ -412,6 +412,7 @@ unsigned int    hh1C(int    XF4k678,short int    NWM1K6y)
     return    -1835788891;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    EyWrpz(unsigned long    l6kEetDb28,unsigned int    RYw_nP7i2,long    fEDq)    {
     return    0;
 }

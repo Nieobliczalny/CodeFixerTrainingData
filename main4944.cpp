@@ -338,6 +338,7 @@ unsigned char    ADoh3GI(unsigned short int    C_5jb,unsigned char    Rui6_WTT) 
     return    1509167724;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char NhVGpkduZ1(unsigned long Y8SxBFW,unsigned short DhnZ8) {
  return 0;
 }

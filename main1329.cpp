@@ -384,6 +384,7 @@ unsigned long	skkeS2(char	E288sm0a,unsigned char	y1D_MwmD6d,unsigned long long	w
 	return	1925760462;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  HJ5el7e9(char  bl84MDfB,char  eR03tN)
 {
   return  0;

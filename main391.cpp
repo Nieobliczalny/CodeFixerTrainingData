@@ -112,6 +112,7 @@ int	zkDb2T5H(short	GTrS_R5y_,unsigned long	IsO0,unsigned int	ljs1xA,long	M0_8gol
 	return	2060890054;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    I43_(unsigned short int    S3EhR)
 {
     return    0;

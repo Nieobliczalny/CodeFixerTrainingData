@@ -18,6 +18,7 @@ unsigned int  r9HBN_lrE(long long  IVrR_h__,unsigned int  BbrUTJRca,long long  q
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	short int	VC7dy;
 	VC7dy	=	-1285787796;

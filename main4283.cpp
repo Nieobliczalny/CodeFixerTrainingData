@@ -14,6 +14,7 @@ int J0S0J(unsigned int Be0SV,short int X59UA5Eox1)
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int DMM2(long xZxhc40Kf,unsigned short PqsIAp)
 {
  return 1086205525;

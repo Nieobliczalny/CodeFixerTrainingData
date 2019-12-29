@@ -306,6 +306,7 @@ unsigned char	X8_7_()	{
 	return	-1258520008;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    Fw2anx(int    Cgq5_a)    {
     return    -923042327;
 }

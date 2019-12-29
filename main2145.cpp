@@ -351,6 +351,7 @@ unsigned short int  omvu(unsigned long  KuH90)
   return  1120721174;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    j70_ml(short int    a996)
 {
     return    562853499;

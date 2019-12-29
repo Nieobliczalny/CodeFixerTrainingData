@@ -17,6 +17,7 @@ char  aOXJn(unsigned short int  ZG_h15yxj8)  {
   return  449952059;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    vyh_(long    V7z_71dz1,long    oclaG4F1,int    R5_n4ec)    {
     return    0;
 }

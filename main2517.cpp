@@ -22,6 +22,7 @@ unsigned char	AT00a7kh(unsigned long	uc_YK543)	{
 	return	-91513511;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int Nbtv(unsigned long CVKpp39og) {
  return 0;
 }

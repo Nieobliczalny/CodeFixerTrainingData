@@ -69,6 +69,7 @@ unsigned long long	IvSMS271(short int	aT_I8)
 	return	1948929119;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	H85fEx(short	YS1jrCQP)
 {
 	return	-1680886155;
@@ -80,6 +81,7 @@ long    Y_Z0(long    y1m9,long long    DOqi5r_,unsigned int    SbjQlUq2,unsigned
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  ETZ6oJ1(short int  jJ0UOGj,unsigned char  pI5Ewz0xRk)
 {
   return  229972610;

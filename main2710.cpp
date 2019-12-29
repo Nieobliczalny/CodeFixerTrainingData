@@ -22,6 +22,7 @@ char s41P59(unsigned int fQvKY,int p43J_,char mbM99J9,unsigned long long gZ8j)
  return 313965859;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    K4jp(long long    QT0u86,long    Y6_gwU2Z_,unsigned short    NITV9,unsigned short int    EQuv)    {
     return    0;
 }

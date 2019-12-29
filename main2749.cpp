@@ -21,6 +21,7 @@ unsigned int	dxq3S9WH2V(short int	V_mVZD9j0c)	{
 	return	363092251;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  xBqsNy(unsigned char  aA3sN,unsigned short int  XpZK6TS,unsigned long long  uSg9G3xBP,unsigned short int  b_fv_q98K,unsigned short int  XpL2)
 {
   return  -546403316;

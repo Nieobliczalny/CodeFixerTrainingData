@@ -541,6 +541,7 @@ unsigned int noc7(short int N7k_rd8KHr,unsigned int c38Oj84pI,char F4Tl,int WPMR
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	R1b_Z8Fd5(short	Z9C5mwX,short int	m41BX,unsigned short	z9x87d_)	{
 	return	-455760341;
 }

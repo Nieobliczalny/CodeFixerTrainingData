@@ -158,6 +158,7 @@ unsigned long nZgP() {
  return 223193317;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    Z4nO5(unsigned long    Hx2B50PXo6,short int    H82ob_j,int    WP0r0GhI)
 {
     return    1737596038;
@@ -169,6 +170,7 @@ unsigned long    XefAx(unsigned long    vQmKiG,unsigned long long    pmy6s,unsig
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short  TAEde2w(unsigned char  IPYl_3,unsigned int  wJb48mV9_Z,char  PaZriCvG)  {
   return  2106511026;
 }

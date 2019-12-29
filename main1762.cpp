@@ -13,6 +13,7 @@ long  PyQg6lbc9M(unsigned short int  gIfxk2k5J,unsigned short int  Fk83x,char  L
   return  -1608208619;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	gFb5C(long long	R_i5Oa,unsigned int	FhYtHYD)
 {
 	return	-1259567508;
@@ -28,6 +29,7 @@ char    RfWk(short    LjMLNW77,short    Ga447,int    jUQ2,unsigned char    Qlw9F
     return    -1859832262;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char z04_t6_1b(long k8hECI7,unsigned short int mf9oI) {
  return 0;
 }

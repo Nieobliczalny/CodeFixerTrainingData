@@ -260,6 +260,7 @@ unsigned short int  OOthTZSn8R(int  cr11)  {
   return  -1936397980;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    BG84(long    Y4_n,unsigned long    B4fU,char    vdQg,unsigned int    OI94yx_095)
 {
     return    0;

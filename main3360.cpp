@@ -21,6 +21,7 @@ unsigned long  xtZ_73(unsigned long  L1k3ZDw,int  AodR4hf1Q1)  {
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  XP7wR2(long long  fJ0wX3Bg,unsigned long  HmEt2L,unsigned long long  a_49eazk0y,long long  g_tSV3)
 {
   return  -612754360;
@@ -40,6 +41,7 @@ unsigned short int RHv3fukcA(short iN3Fbj1,int MI2Cwv,int Gv5519)
  return 1799931151;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  float L8oi;

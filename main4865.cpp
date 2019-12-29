@@ -12,6 +12,7 @@ unsigned short int  i3y6dR5jr(unsigned short  oavNo)  {
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    L3rak5(char    RqIiAV,long long    FKvSR_m1y)
 {
     return    -1668004562;

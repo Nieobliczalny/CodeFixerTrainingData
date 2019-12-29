@@ -393,6 +393,7 @@ unsigned long    i_1H_pH(unsigned char    RBey,unsigned int    aS17J,unsigned ch
     return    1172867206;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    m643(unsigned long long    Cf02pL,unsigned short    iXL23Ii5,long long    ctpqrl9_22,long    piNU6t)    {
     return    -1467751247;
 }

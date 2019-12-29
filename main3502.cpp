@@ -413,6 +413,7 @@ unsigned int	lxOoQBpY(unsigned short	gX5UAqhP,unsigned short	OM_GmY3918,short in
 	return	-1859405069;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int E079v(unsigned short int dHcr2,short QfZ7v,unsigned short si2_F) {
  return 0;
 }

@@ -363,6 +363,7 @@ short	hPziit_5(short int	d7tj,long long	D0OnwXdb3G,short int	GZB3o55Lj,long	d2x9
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	wM2__StH3(long long	VQTlm,char	FajY20,unsigned short	Q_TX,unsigned short int	WChAi0c_0,char	Wy_v5v)
 {
 	return	-944249829;

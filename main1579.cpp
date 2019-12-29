@@ -341,6 +341,7 @@ short	t5C9Pds6sk(short	k40bN_LB,short int	Q36_U4Ffy,unsigned short	z0jFT2d4)	{
 	return	1860528077;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	n6_09_(char	G916f,unsigned long long	kON_mK,int	S4Ey,short int	k1Dy)	{
 	return	0;
 }

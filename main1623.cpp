@@ -22,6 +22,7 @@ short    HE6vR()    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    bC7U(unsigned char    z2yIfGD,unsigned short    R8m9T8DL)    {
     return    1567392602;
 }
@@ -32,6 +33,7 @@ unsigned long    E9d9S2hR6F(char    bx2Vx602Yg,unsigned short int    zDT8w13k,lo
     return    520774506;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  p5uBl(unsigned long  i06zy_)
 {
   return  1996679090;

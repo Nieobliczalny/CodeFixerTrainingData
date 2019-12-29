@@ -17,6 +17,7 @@ unsigned char    mRr4Xrm00G(unsigned int    NgVe7,char    x6_99_)    {
     return    -2094757620;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    vu9_(unsigned long long    x9142fV,int    vkatDy7E,unsigned int    v102192sO)    {
     return    1579398359;
 }

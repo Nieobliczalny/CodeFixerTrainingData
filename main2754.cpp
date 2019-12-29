@@ -23,6 +23,7 @@ unsigned long f8Y10vw0T(unsigned char Z9Fcl40VS_,unsigned long long NB1a,unsigne
  return -1097267427;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long i_kjD7_t(int eP_tGWjM,unsigned short int vZw_X) {
  return 1422911158;
 }

@@ -487,6 +487,7 @@ char	b8_qU(unsigned short int	p_u9A4SVH)
 	return	-1447982516;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    X_B8XvzeUM(unsigned short int    wDI5g_lM0r)    {
     return    0;
 }

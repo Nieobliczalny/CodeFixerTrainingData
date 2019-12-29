@@ -588,6 +588,7 @@ unsigned int    xmnlo(short    JTEyRW,unsigned long long    x2Epjv9mge,unsigned 
     return    -786627333;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int R321DA_0(short int m2nAz) {
  return -2007519258;
 }

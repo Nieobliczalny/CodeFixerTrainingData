@@ -25,6 +25,7 @@ unsigned long long  kCTg(unsigned int  F68PjtzH,long  sQ_9_Yh0,unsigned char  zR
   return  1958544845;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int eW1he4(unsigned long long yc1bNw,unsigned short int zTlrvb) {
  return -93538916;
 }

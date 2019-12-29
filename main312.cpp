@@ -346,6 +346,7 @@ unsigned long long    kvPcMU1R(long    ZJZc5,unsigned short    HaPT6K,unsigned s
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	u450z7hpo(unsigned long long	U1585j3)
 {
 	return	513874377;

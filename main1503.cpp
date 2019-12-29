@@ -482,6 +482,7 @@ long long	H_9R1_El(unsigned long	d4L021txt,short	H1H8t3JO2)
 	return	-1149914615;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	BBL_XLCStB(short int	whzh7F_F,int	Ts_T_8YD,char	vq69K,long	UB2i6k3ht8,unsigned int	i4eMqo_)	{
 	return	0;
 }

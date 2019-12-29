@@ -346,6 +346,7 @@ unsigned int	ZCILQv(short	ON2T9moO,unsigned char	GegQ6694,char	h3J8HU_Q)	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    Om15wpK(unsigned int    l0PTzZ,long long    VV_u8fD,short    Di2Gc2W,unsigned char    WsTt,unsigned long long    cCu2)
 {
     return    1988815842;

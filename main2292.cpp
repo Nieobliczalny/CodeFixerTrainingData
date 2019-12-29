@@ -17,6 +17,7 @@ unsigned short	O5WHGI9_S(short	oQBiNP9K)	{
 	return	2112880032;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    yq_03(int    JyP3f)    {
     return    0;
 }

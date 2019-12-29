@@ -13,6 +13,7 @@ unsigned long  q6bT71(unsigned char  g_UQHh8I,short int  Ilo2,unsigned long  g1A
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	m4pGU8(long	x0qI,short	Mxwmr9,unsigned long	R5Gs_P,unsigned short	B_Z2,unsigned short	fO0JYCR)
 {
 	return	-194536255;

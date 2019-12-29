@@ -278,6 +278,7 @@ short	r_5198W6cI(unsigned long long	mEK27x7Bto,unsigned short int	LBtgR_NY2)	{
 	return	1050292995;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int D5NH(unsigned char RscNg9NL,long long uJWI) {
  return 0;
 }

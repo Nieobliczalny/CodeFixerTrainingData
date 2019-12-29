@@ -18,6 +18,7 @@ unsigned short  ZZZng7_3(unsigned char  yyjXUp8,unsigned long  B34_635,unsigned 
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  unsigned char pTS07Eu_Sg, BPy5F, X5DXT955x, Dz7568;

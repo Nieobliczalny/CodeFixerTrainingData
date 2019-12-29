@@ -18,6 +18,7 @@ short ujC_If6(unsigned char czl4Ci0y,long oBmEThd4K,long long UayHe86,unsigned l
  return 577561041;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char zY6RMXx_1(unsigned int XVx16g,long w_78LN75h,unsigned char oyHKcMIE) {
  return 0;
 }

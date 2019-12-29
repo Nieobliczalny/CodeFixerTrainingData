@@ -827,6 +827,7 @@ long long    e2EPfMHY(int    hx375z,short    na440z7td)
     return    -98789629;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int oR4z293D(unsigned long NXgFNo,unsigned short zAhOXl,unsigned char kvv5J6h4)
 {
  return 0;

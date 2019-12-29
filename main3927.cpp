@@ -16,6 +16,7 @@ unsigned int	Ese4q(int	wsoLtTIou3,short int	J6Rb4,unsigned short	izkVj_A0,short 
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  UG0y(short  vupza,char  d23i_LLE00)  {
   return  1076269605;
 }
@@ -30,6 +31,7 @@ int  N18OswxvX(int  dZg7GziaI_,long  VWYu05,unsigned short int  UH38TWvtD4)  {
   return  -1084795472;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	nPyWSG(long long	pv4xr,long	Pypf1oIXdB,int	i8d4_PC)
 {
 	return	1175713835;

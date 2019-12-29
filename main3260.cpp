@@ -428,6 +428,7 @@ unsigned char  cFr4p()  {
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    bLlR36zPGW(unsigned int    OUA7b_9R)    {
     return    1788658945;
 }

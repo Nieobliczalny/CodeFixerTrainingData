@@ -12,6 +12,7 @@ char m65eZcvD0(char sbmB_a,unsigned char Edrc3,unsigned short z0O5gOP) {
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	GuUq4u(char	i58RLpD,long	Dv4taP,unsigned char	g0TH49i,unsigned int	Lk7i)	{
 	return	1744838197;
 }

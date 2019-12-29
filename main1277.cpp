@@ -17,6 +17,7 @@ long  NR6B(short int  z0BW1aEG3,unsigned char  co33g5,short  uLtxcDl4,unsigned l
   return  -1106773007;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	djj_M(short	Lc8tO0QBea,unsigned short	VMa7q9_FK9,unsigned short	U21m6F)	{
 	return	-514811044;
 }

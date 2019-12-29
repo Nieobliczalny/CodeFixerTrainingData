@@ -24,6 +24,7 @@ unsigned long  IdjbBgx(unsigned long long  USF9VvIh)
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	Xe2VFkv(unsigned long	U4_0g3,int	fhUj6)	{
 	return	-64080882;
 }

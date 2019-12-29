@@ -19,6 +19,7 @@ unsigned short okY_i75e0(long long ay1_,unsigned short int cZs2GcR163,unsigned s
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    EK4k(long    knJMO_gE,char    L06f_w_P7)    {
     return    1504124349;
 }

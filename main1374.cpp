@@ -446,6 +446,7 @@ char L3kfzQr14(short mIS9e,unsigned long LmyQ,long long X3f4_eW7)
  return -1815393348;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    Mg68_WQ(unsigned short    oQryIx)
 {
     return    -712964822;

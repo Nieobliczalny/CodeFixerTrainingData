@@ -347,6 +347,7 @@ char wNkXx(long long uaY270q,unsigned long long SVhV2PLx,unsigned int C_9b31Z,un
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	Nj2n_HIx4_(short int	wVnsR,long	Aa6Ts)	{
 	return	-737467160;
 }

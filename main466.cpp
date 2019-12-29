@@ -26,6 +26,7 @@ unsigned short    YEDlS1bK(short int    Mi0JSTiMb6,int    jwyx5_,unsigned long  
     return    1592459081;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int Ih_zAa_7ZY(int BCD12,char GOW5JpFo) {
  return 1472252741;
 }

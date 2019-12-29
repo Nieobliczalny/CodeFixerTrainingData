@@ -18,6 +18,7 @@ long    Q4U5_(unsigned int    B40_,short int    N9a0VXWTn,int    H3Sa,unsigned l
     return    945833655;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	AF__i_h1o(unsigned char	sdNB,long long	y1Cc,short int	FLOX6wt)
 {
 	return	0;
@@ -28,6 +29,7 @@ short	D__5dt85(unsigned char	gGllLV_r,short	TtfJY774,unsigned short int	BqON)	{
 	return	1647559311;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     unsigned long    k34Z    =    443325245;

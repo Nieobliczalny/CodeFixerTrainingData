@@ -18,6 +18,7 @@ unsigned long long    h3Krw0N4VV()    {
     return    -618004936;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    l5X_pb7I3(unsigned int    w1D8,char    rWWv5,unsigned short int    Ujfr7v4D4I)    {
     return    0;
 }
@@ -28,6 +29,7 @@ short int    Cx2962(int    gfAR)
     return    1984950298;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long h4M2rV(unsigned char H5KV)
 {
  return 2000527457;

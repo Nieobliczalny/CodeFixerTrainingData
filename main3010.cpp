@@ -457,6 +457,7 @@ unsigned char    k2ht(unsigned int    um7qN,unsigned long long    pO1Fq,short in
     return    1080013434;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    X7_6h(unsigned short    f7WAkRI23,unsigned short    Jvic8FQy)
 {
     return    0;

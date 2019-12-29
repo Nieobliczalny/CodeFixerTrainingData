@@ -14,6 +14,7 @@ char  X7w_I0_I(short int  k1hR0hgTL2,long long  I9eZM,unsigned int  uG93a,long l
   return  1074245313;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	lNB45(int	RmDgv2H,unsigned short int	jG79_vVX,int	M5aru)
 {
 	return	0;

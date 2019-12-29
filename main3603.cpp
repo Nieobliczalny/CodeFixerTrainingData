@@ -21,6 +21,7 @@ long  Hbsur2(unsigned long long  qfy_FPF_9i)  {
   return  -354617928;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	Wo1e6fMk_K(unsigned long long	S7At,unsigned long	FWr8)
 {
 	return	0;

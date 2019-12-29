@@ -14,6 +14,7 @@ char	g43DtodU(char	Er_b)
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	goKQWPLp(unsigned short	DN9p80bH,unsigned long long	H603u11L)	{
 	return	-1197464926;
 }

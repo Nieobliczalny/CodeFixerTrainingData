@@ -17,6 +17,7 @@ unsigned long ZUD4(long long S54C86UIE4,unsigned short S7ST5XWa74)
  return 966626378;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long Ygf5pZH(unsigned long long c6dfTvFQR,unsigned long rR1T6) {
  return 0;
 }

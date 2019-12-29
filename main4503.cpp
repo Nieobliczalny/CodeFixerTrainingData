@@ -17,6 +17,7 @@ long    L2sEA(char    s1hEwb,unsigned char    G9dxRJdQ13,unsigned char    JEF018
     return    806776063;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	FMWqd3RG6(unsigned int	CMC7)
 {
 	return	-420846891;
@@ -32,6 +33,7 @@ char V_p3rWMu(short int JP0Tbhg7,long F6n09GvKH7,short tZUJSXr,unsigned short in
  return -77595471;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   unsigned short int  S4e0  =  0;

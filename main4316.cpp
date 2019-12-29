@@ -419,6 +419,7 @@ int  cn5_(unsigned short int  shNM7O,unsigned short  gVk5H3q6)
   return  802167168;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	HtTOY(unsigned int	KqK2p,short	bbhG,long	zr6ps2,short int	EtkF329,long long	b27EX)
 {
 	return	-190635649;
@@ -429,6 +430,7 @@ unsigned short	Kst9_x7j3(long long	JX3_,unsigned int	m07U0o6V,long long	hniZ9,un
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int Y2MM1_E(unsigned short oys8)
 {
  return 2061219800;

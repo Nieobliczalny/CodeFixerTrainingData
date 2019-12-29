@@ -19,6 +19,7 @@ unsigned char  WYwX1()  {
   return  1890858538;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    Nar6(unsigned long long    vkB19G7qQ0,long long    C0RbYo1,unsigned char    jlSU,unsigned long    zuReVM15,unsigned short int    d_x0XPk)
 {
     return    0;

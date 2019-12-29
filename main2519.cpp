@@ -210,6 +210,7 @@ unsigned short int  vj4Xv(unsigned int  whfU7T9q,char  DPuL,char  R24hv2,unsigne
   return  130870598;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long XMZQ(short G4Li46w0Z,long long s_gk1g6HH,unsigned int jP1BG9rvyC,long L8f0sVl_) {
  return 0;
 }

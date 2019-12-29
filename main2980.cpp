@@ -302,6 +302,7 @@ unsigned int    HI6J8yE61(unsigned long    tL8EPlf_V,char    i8x4Ht4O,unsigned l
     return    -567013046;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    Df5paN(short int    bN_pmT,unsigned char    Pe_D,unsigned char    D93WbHD1i,long long    ALU41,unsigned short    cIJBARO)
 {
     return    0;
@@ -313,6 +314,7 @@ unsigned short int  AV4dPoSeOE(unsigned short  aPSY)
   return  2098305087;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  p_s9Ni(char  Z3NUO6Cd_Y,long  a_fTG)
 {
   return  1188733578;

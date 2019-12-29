@@ -18,6 +18,7 @@ int    LCpbXd7(unsigned long    WY7s,char    h5RjaNq)    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     unsigned short int    b06Rn    =    -1732838688;

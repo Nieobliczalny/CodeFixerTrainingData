@@ -405,6 +405,7 @@ unsigned char l3cnj(unsigned int POI37n,short xQP_2AQ62F,unsigned long L9Urb,uns
  return 1059629364;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    gOb1p(short int    J3V4kJ,int    Hn_n0,long    vtqSWo840)
 {
     return    0;

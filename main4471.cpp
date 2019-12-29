@@ -327,6 +327,7 @@ short ED18PpSvNW(int bfAq5qkY9,unsigned long long rPinI,unsigned short int m_bx7
  return 433632025;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	o388L54(unsigned long	nLGe_jF,unsigned int	s7_BE1dcGv,unsigned short int	v9z3AI0b,long	KgEEc)	{
 	return	0;
 }

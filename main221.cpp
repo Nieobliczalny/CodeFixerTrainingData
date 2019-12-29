@@ -17,6 +17,7 @@ long long  zI2F(int  SD787,char  m4h9I,long  W8yCLxI5,unsigned short int  q6n_QS
   return  -1024992205;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    CT692(unsigned char    j5w34,int    YF7_D6Ko,unsigned char    fCe_ht)    {
     return    -2104763647;
 }

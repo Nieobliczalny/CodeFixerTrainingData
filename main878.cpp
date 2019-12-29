@@ -301,6 +301,7 @@ short int	dDLpUi(long long	p6evG,unsigned short int	cqeB)
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long scA4(short int UnGqpxRHy)
 {
  return 408041936;

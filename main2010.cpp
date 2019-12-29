@@ -19,6 +19,7 @@ short int    W9j51PtB(long long    U7EY)    {
     return    -1092441036;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int Np5W8ll(short I98b,unsigned int nUO_1,char G8S_1,long jWusS6B,unsigned char CG5jMJC607) {
  return 0;
 }

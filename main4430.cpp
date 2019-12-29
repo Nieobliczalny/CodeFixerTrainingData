@@ -18,6 +18,7 @@ unsigned long long	GWX9oj4(unsigned char	QICTa1jm7,int	l5x77ZvG)
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  i41894NnC(unsigned int  i3D_Hkb09K)
 {
   return  -546848969;

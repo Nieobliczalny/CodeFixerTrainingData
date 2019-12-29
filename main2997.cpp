@@ -407,6 +407,7 @@ unsigned long CJ1e98yWn(unsigned char JvC0IS6_5)
  return -2111597615;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	xy5Ap(unsigned long	q005_7AspH,unsigned char	Mcq2808d4,unsigned char	V4zjTTP)
 {
 	return	0;

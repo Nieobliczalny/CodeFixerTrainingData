@@ -496,6 +496,7 @@ unsigned char    J9mf(unsigned int    fFbiDoS)    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int Ojb8(short F9SHZ,unsigned int TR8jLI)
 {
  return 420204331;

@@ -16,6 +16,7 @@ char    H2_52WAJ(long long    uGF8,unsigned char    pzwYsWO,long    l_M3970p,lon
     return    1300640129;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  xZ4OY95m5i(short  zH9e22Ff0u)  {
   return  0;
 }

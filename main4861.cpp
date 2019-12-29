@@ -396,6 +396,7 @@ unsigned short int    YYft(unsigned short int    W3v5Au1,unsigned char    WKMV8z
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  KXG_nZ(unsigned short  D4JOTIoBJ,int  TPprZj8Ng5)  {
   return  1281962125;
 }

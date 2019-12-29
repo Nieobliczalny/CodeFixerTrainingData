@@ -391,6 +391,7 @@ unsigned int    Qi5xg_1L(long long    aG54,unsigned short int    Vp1gA5TM0,unsig
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char H2VWA(unsigned long long n1Io,long long maB_,short int wi8U) {
  return 1204041387;
 }

@@ -356,6 +356,7 @@ unsigned long long    d9rPSoz8r(unsigned char    jRa576,unsigned int    vjt6Ms,u
     return    1846680408;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    NcwkUQB(unsigned long    f7_9q,char    bVMa_bud1)    {
     return    0;
 }

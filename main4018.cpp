@@ -22,6 +22,7 @@ unsigned int  sSK8c4ghN0(short int  p1Ep8qmP_1,long long  MZ6M9Y)
   return  1873045785;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long hEsf_K(unsigned long sH32Y5,unsigned short WLQIlk1ih,unsigned long long bi_z4f_j)
 {
  return 1602654285;

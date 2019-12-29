@@ -323,6 +323,7 @@ unsigned int	K6ma1N(unsigned long long	O_u2J_,char	maqy2,unsigned short	KtO2buF7
 	return	-1524019061;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char V9lK5g6VgS(short c4XsxxFz,unsigned int wn1_ilbR_,int ZBqYUm7zmz)
 {
  return 0;

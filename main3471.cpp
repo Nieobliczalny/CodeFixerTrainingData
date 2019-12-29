@@ -20,6 +20,7 @@ short E4F8jeX_() {
  return 1411261543;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	RqhVy0tPO(int	wJHIu,int	L6064R_,unsigned long long	t9emv2_,unsigned char	v84t28q7,long long	NzBpggjl)
 {
 	return	0;

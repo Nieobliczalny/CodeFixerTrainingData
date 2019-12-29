@@ -21,6 +21,7 @@ int	daG6o(short	J58X7QM,long long	NsX1PXX7Jj)	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    Sc3_6T0(unsigned long long    lz5_k4,unsigned long    MBDK27T8,unsigned short    lrqp4q,long    kNaQt)
 {
     return    -1655750391;

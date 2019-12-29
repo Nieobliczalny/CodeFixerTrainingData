@@ -925,6 +925,7 @@ char    OzUKc7YCf(short    QLl0RaX,long    xH__10aPj)    {
     return    -1854477005;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    TW3iqrGVPq(unsigned long long    KBObN__dd4)
 {
     return    0;

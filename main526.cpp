@@ -14,6 +14,7 @@ unsigned short uk8671s8(int S8kFB56MC)
  return 1473532404;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    V96y(unsigned short int    RJcumZG,unsigned char    B_04C_47,unsigned char    Sse7)    {
     return    0;
 }

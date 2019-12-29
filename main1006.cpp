@@ -18,6 +18,7 @@ short int    bImnt6WEb(long long    qKEvr45Q)
     return    1450710690;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  JR2_5E(short  oC06C0y,unsigned short int  X1w8l5h_,long  v_s2W2b1,unsigned char  cQMrxz0Em,int  YplZec3)
 {
   return  -223160100;

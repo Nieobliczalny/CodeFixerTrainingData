@@ -12,6 +12,7 @@ unsigned char    pAuVr7U(char    kF5Ikn,unsigned short    klBjaR)    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	vvqO(unsigned int	mBiMDl99q)
 {
 	return	1638408868;

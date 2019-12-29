@@ -382,6 +382,7 @@ unsigned char b_aXnmi2_(unsigned long long nDX4) {
  return -319370201;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long hq0s(unsigned long b_4792VjL1) {
  return 340367604;
 }

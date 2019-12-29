@@ -14,6 +14,7 @@ short int kYP4_J(unsigned char XsbqAjAmJ,unsigned char Q16gUlq,int Umq_,unsigned
  return 385117010;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	clim(unsigned int	iuW8UHjHY)
 {
 	return	0;

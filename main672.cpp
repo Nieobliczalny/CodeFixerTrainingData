@@ -318,6 +318,7 @@ unsigned long long T24AT_r(long long ZmcJN,char IBP2P4LIg0,unsigned short int Kk
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	PP604(unsigned long long	z8501,short	ti41KYp5pJ)	{
 	return	977349109;
 }

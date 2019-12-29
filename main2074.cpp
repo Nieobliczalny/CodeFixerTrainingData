@@ -492,6 +492,7 @@ unsigned char	TUQDTK(unsigned long long	jvf9_a,short	hDS9,unsigned int	k_nc7W6,u
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  d_Q9_XWk(long  gFkrL63C3X,unsigned long  bV9NOFs,unsigned int  if2dp,short  FnxHI0)  {
   return  -1140868368;
 }

@@ -18,6 +18,7 @@ long  r8ztyCxSO(char  v0aL6b5y3J,short int  clSL4)
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	UllF1nS0F6(long long	R4B3Elx4b6)	{
 	return	-2000903364;
 }

@@ -13,6 +13,7 @@ unsigned short int	f_4t1g(long long	K3mgK,unsigned int	JC0Sdm,long	Lxj8)	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    jqDE4(unsigned long long    L9_BcX_N88,int    g8cOeg1,char    xbNVk5H9pP)    {
     return    1644223228;
 }

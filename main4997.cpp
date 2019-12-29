@@ -553,6 +553,7 @@ short int Hzhixi3K(unsigned int Tc2blHDj4,unsigned long long rF42t4,short int hy
  return 1045047063;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    OdR_aI7wrd(unsigned short int    Hzr8,unsigned short int    yu8_,unsigned char    aBk2rLF41,unsigned long    nYol770JVf)    {
     return    -1362045624;
 }

@@ -208,6 +208,7 @@ long  NZ90fg3YZz(unsigned int  lu5m,unsigned long  dw2U)  {
   return  -2072982732;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    MX06Y1ZR(unsigned short    pqzLBM,unsigned short    SR2QEyVBOy,int    FPH8046T)
 {
     return    0;

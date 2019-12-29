@@ -517,6 +517,7 @@ short	d68IqXM86(int	zj_Y9Efs)	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    sr48hDq5m(unsigned long    Y2cT,char    oRzII81,unsigned char    HeY57LVCm,unsigned short int    W4hwZ)    {
     return    870301700;
 }

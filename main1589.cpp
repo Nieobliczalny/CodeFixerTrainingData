@@ -18,6 +18,7 @@ long  r1l09ge(unsigned long  AOgk)
   return  1413327920;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	Ra63(long	DlSKfsb9)
 {
 	return	-1977156804;
@@ -29,6 +30,7 @@ short c92UfaRv5(unsigned int y_v7H)
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	q_MZ(char	DkDfSPv2,long	I54c_XU,unsigned char	oQMG8NdRmv,int	F4Yif8R503)
 {
 	return	-1327265404;

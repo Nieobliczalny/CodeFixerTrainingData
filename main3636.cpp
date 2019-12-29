@@ -367,6 +367,7 @@ short  p3vaLHBD(short  c8_yJ,long  R2aH8T09x)  {
   return  147637000;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short AEcTO6(char vjC4,unsigned int Bs8qwZDR,long long t8Z3Y,unsigned long yff5nNCGx,long long YnrT6) {
  return -987865727;
 }

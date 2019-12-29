@@ -18,6 +18,7 @@ long long    Q8DV9e70EC(unsigned int    r2195hkSS)
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	wI25(unsigned char	sZO6gem3)	{
 	return	627472328;
 }

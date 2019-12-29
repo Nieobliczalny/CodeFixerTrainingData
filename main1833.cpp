@@ -639,6 +639,7 @@ short	r68_n_0(unsigned long long	l_Hh_R)
 	return	-1579554268;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	L9pZx2juwD(unsigned char	A_48RKj_9,int	OGct)	{
 	return	728805526;
 }

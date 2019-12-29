@@ -22,6 +22,7 @@ unsigned char	h93Q(char	l85W8t0,unsigned long long	PG_u4OLH,unsigned short int	X
 	return	-1281070827;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int Rm2UyU_4cx(unsigned short P2ivnD77V,unsigned long long V0YbWoQ5I7,int fgc0qld1,unsigned short int EvApjx6,short R_98KEu) {
  return -11982400;
 }

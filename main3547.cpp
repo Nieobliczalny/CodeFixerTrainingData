@@ -22,6 +22,7 @@ char nSb5()
  return -2145339178;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char m79uSV06(unsigned short mQ_fTT3iI,unsigned int dYN30hCu2g,unsigned char kT2809g12z,int eUCix3S) {
  return 0;
 }

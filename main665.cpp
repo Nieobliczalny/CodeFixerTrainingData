@@ -413,6 +413,7 @@ unsigned int z4MuCOL(char e6ISl,int ZVRN,short int b17S,unsigned short p8Uc1)
  return -1471650013;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    p4c_X(unsigned char    SX4LR,int    Y6ry875,unsigned char    p4Hgj2B,short int    zuut_ee,unsigned long long    DWfEV)
 {
     return    0;

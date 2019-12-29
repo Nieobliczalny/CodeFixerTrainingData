@@ -19,6 +19,7 @@ short	rgAIzP113(short	qk6Rr,long	UvJQ1o07_)
 	return	1552387048;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    jHGT6Y(unsigned long long    GQ9F5eJpQ3)    {
     return    0;
 }

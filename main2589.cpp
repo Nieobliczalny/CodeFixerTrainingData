@@ -13,6 +13,7 @@ short int MJ5f4fp4y(short Uy0M_0ecF) {
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	ia7jS(unsigned short int	k538_BaH0k,unsigned short int	Kb7dmI0N,short	y_iIs2gdv)
 {
 	return	-768198196;

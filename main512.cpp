@@ -15,6 +15,7 @@ unsigned short    zC_Q(short    xOXQg1)
     return    -1846529575;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long cadq7A6Omf(unsigned short feN08Ba,short K1vNYZ,unsigned char my_zq)
 {
  return -584569780;
@@ -26,6 +27,7 @@ unsigned int    gW_DcU(long long    B_39d1i8Ck,short int    RL7LTE405,unsigned l
     return    488421610;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	oX8Mtli(long	z2d0,long	c5Nmp8vk)	{
 	return	-1775690227;
 }

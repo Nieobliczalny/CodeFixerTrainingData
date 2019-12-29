@@ -796,6 +796,7 @@ long long	Mh61YxHN06(long	dS8L,long long	c2HtuH3,long long	wFU2L,short	fK832L,un
 	return	-1103092839;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	MQbz7U2(unsigned char	fpQ60NnZ,unsigned short int	d9r70,unsigned short	PzHawlS7_,short	JQHf)	{
 	return	-1051824391;
 }

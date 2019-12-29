@@ -18,6 +18,7 @@ short  yyb1roQLx()
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  vGMO5(unsigned short int  ao48VI6)
 {
   return  -1464693984;

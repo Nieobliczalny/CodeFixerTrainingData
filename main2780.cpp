@@ -13,6 +13,7 @@ unsigned short	B5J64KdFg(char	ZK_q,short	U6Bsnp,long	cJoY_KA1k,long	Udm3dS)	{
 	return	-1873133616;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	b19Yi(long	MchDT,unsigned long long	C8bpHvoy)	{
 	return	0;
 }

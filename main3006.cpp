@@ -781,6 +781,7 @@ unsigned short int    vZ07v20(unsigned long    LqaNfUM,short int    nu8F)
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    s8gxx(unsigned short    EOQ1hu14C)    {
     return    2051255570;
 }

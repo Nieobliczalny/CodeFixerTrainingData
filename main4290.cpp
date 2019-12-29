@@ -19,6 +19,7 @@ unsigned long long    N4wgf(short    Bpobli,unsigned long long    LWUjw_,long   
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    mkL8(unsigned char    DNTfX)    {
     return    1072398911;
 }

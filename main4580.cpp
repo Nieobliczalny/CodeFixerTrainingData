@@ -224,6 +224,7 @@ short	VDgZ()	{
 	return	-378154684;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long xWL4MA7D(unsigned short Ae2BF,int eGM3k_N,unsigned short int ZcKAx0K,char EFE55,long long JHKu0jHg) {
  return 0;
 }
@@ -234,6 +235,7 @@ unsigned short	SIPiBb(unsigned long	jNNKVo461,long long	zCo_4)
 	return	477313368;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    V2o_60TH_(char    ZmEl6f1a,long long    kEyU1_,long    sN98)    {
     return    -2116413426;
 }

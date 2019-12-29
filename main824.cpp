@@ -571,6 +571,7 @@ short int  Fhu2(short int  ScfF4)  {
   return  -939313384;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	ccnd_C(unsigned int	En6o0RRM,char	TpGUU59Na)	{
 	return	0;
 }

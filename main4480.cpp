@@ -610,6 +610,7 @@ char    lIx3pM(unsigned short int    v1NKirqoZ)
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    E1hrT7AOD(unsigned long long    X7NY,unsigned long long    VM_FRzZZwd,long long    jh3H,short int    KHaP14j)    {
     return    1984047936;
 }

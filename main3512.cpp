@@ -293,6 +293,7 @@ unsigned long long Ntl9n7(short Bq_Pl3,long long hBGdg,short int XT3m9sWrxt) {
  return 543146425;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    zKMI(unsigned short    R5SxQK1,unsigned long    Wi4HA)    {
     return    588894486;
 }

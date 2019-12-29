@@ -20,6 +20,7 @@ short    rG_Lx0Y2KH(short    Na3_723,short int    A395NPV6M6,long long    ki5L,u
     return    1679478825;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    YL9hxWN(char    qL35)
 {
     return    0;

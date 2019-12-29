@@ -12,6 +12,7 @@ short    nn_g4K(unsigned int    O6DFn5wrf,unsigned short    bP0hF_RK9,unsigned i
     return    1817641540;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    pU2_t7(int    zYO4S2,short int    usm7,unsigned char    nq049nl3j)    {
     return    -890072700;
 }

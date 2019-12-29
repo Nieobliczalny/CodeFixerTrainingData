@@ -327,6 +327,7 @@ long long WnrNogW55U()
  return -2004284554;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    D8vD4IF3(short    sEh1G6g,long    fzl4U6,unsigned long    v0HB,unsigned int    kzhrP0g0,unsigned long long    t15qW_8)
 {
     return    0;

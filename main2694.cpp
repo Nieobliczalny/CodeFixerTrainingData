@@ -331,6 +331,7 @@ long  PKlam35(char  KEr8Py1aVr,short  O1Zx6,long long  qBEb2h,unsigned char  VCv
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	p3G8Uj2(int	rUewp_W1)
 {
 	return	233288026;
@@ -341,6 +342,7 @@ long  NEq1KUSrs(long long  FNFT_KCHgS,int  BEP0D,short int  E728)  {
   return  -116985772;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	o1dx(int	bT30x)	{
 	return	843398714;
 }

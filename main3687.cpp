@@ -13,6 +13,7 @@ short int	z88Apxw(unsigned long	kfSS0,unsigned short	PsE9,unsigned long long	S12
 	return	1660538393;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    w63s2a(unsigned char    N97yE,short    yYv1mryqZt,unsigned long long    sjdHuqt__,unsigned short int    B9t6v,char    X_f68XZg)
 {
     return    0;

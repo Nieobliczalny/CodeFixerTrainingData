@@ -193,6 +193,7 @@ unsigned short int Q89B(long fSjGy7J,short C5VK95KU,unsigned long long s0pgwUtt7
  return -989875085;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int zg85GO(long rOtwsP1v,unsigned long EL5o7e151,unsigned long EdaBvf54vy)
 {
  return 1924025227;

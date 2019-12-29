@@ -388,6 +388,7 @@ long	Fbrb5(unsigned int	vhcOz)
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  Iq4eJQ_(unsigned short  cp528,long  w843,short int  fzyTzS77kw,unsigned long long  t1Lh8aXu0,long  fu8U)
 {
   return  1297298989;

@@ -275,6 +275,7 @@ unsigned long  a16AfB(short int  Ie1OO)  {
   return  1742131093;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    vaQ4(short int    md1D,unsigned long long    M2TylA_HH)    {
     return    0;
 }

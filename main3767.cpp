@@ -341,6 +341,7 @@ char  u_7k5Qdn0(long  w00J,unsigned int  q4HFw_,unsigned int  PJ4pV,long long  R
   return  -117458562;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    I_nI7tF4y5(short int    TGgskUsr,int    A21EBM,unsigned long long    oSTljfM,long    wYFIKmvV,unsigned int    g0I4nK8Uwt)    {
     return    0;
 }

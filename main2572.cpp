@@ -18,6 +18,7 @@ short    Eu7he(short int    cKEv_jfeq4,long long    Uc02)    {
     return    676013295;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	Aly4xC6whZ(unsigned long long	g5ps)
 {
 	return	-555727220;

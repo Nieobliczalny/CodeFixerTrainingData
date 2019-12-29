@@ -14,6 +14,7 @@ unsigned long long    npeSgvW(unsigned long long    Ii24tLp,unsigned short int  
     return    1578737238;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	Ku3n4943(short	P_T61)	{
 	return	-822370342;
 }

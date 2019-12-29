@@ -18,6 +18,7 @@ unsigned short    N45ZdB95(long long    IMVlS,unsigned long long    jgM5,unsigne
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    zB_AIZwp2(short    Mef0UbxD,unsigned int    P8TcA,unsigned long long    X_lz6O,unsigned long    sOz9y9p)    {
     return    238165268;
 }

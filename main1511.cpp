@@ -408,6 +408,7 @@ short    oerR8_21Xc(unsigned short    i1TP5pSo3,long    MyhPC8Y213,unsigned long
     return    -859811733;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	CXySBP1199(unsigned long long	MzJ799h_0,unsigned short	wvOC81pT,int	eL0npLSH72,unsigned long long	JZ552)
 {
 	return	-198349200;

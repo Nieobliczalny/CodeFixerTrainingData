@@ -370,6 +370,7 @@ unsigned long long O6gdK5OXR(unsigned char f40L9w9F,unsigned char e42ggl,long lo
  return -1244184719;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    X6u77RQR(unsigned long long    FVA9,unsigned short int    U7R0P0g,long long    y4cM,unsigned long long    vL8N6nj)
 {
     return    0;

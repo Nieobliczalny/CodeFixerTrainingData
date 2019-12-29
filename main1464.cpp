@@ -542,6 +542,7 @@ short Gt0e(long long q0qM5_y,short Y21a94ohe,unsigned long gNMT6,unsigned short 
  return 34692111;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long a2344(unsigned long koEwrA) {
  return 0;
 }

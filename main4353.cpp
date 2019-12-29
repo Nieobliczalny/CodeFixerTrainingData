@@ -13,6 +13,7 @@ short    v9QhfJ5T(short int    U_7mTfs6E)
     return    173295386;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  Ec6Mm1jE(unsigned short  tQ59G9p)  {
   return  1754369952;
 }

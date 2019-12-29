@@ -16,6 +16,7 @@ long long    OXWq6(int    TFNr5)    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    P_oLNy(long    gLa7F5,unsigned int    igT1,unsigned short    CR188wPVU,long    Nbj0Tgx,unsigned short int    ibgNff)    {
     return    1179858663;
 }

@@ -57,6 +57,7 @@ short gAUu41w1(unsigned long nZy7po,int M8fax1UZ,short int m7a4VDg,char QAMYc4v8
  return 1301194028;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    fveA__n1(unsigned int    Hd69B,unsigned long    MjDJtzU6Y,short    A3c1zAkIQ,unsigned int    V0KDKm2)    {
     return    0;
 }

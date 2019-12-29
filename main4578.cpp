@@ -18,6 +18,7 @@ unsigned short int    HZeMWl3P7(unsigned short    Sup2,unsigned long    P2B3,uns
     return    484543202;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  hYKwn2(unsigned long  mO9_ic1Hs,unsigned long long  j2x9fov0Li,unsigned char  m8GU6)
 {
   return  0;

@@ -13,6 +13,7 @@ long  Yn7O(short int  ypLB47yM,int  XO95b)
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  MTuItu4Cl(short int  QPC7qk5C0n,int  BuL_M,unsigned long  T49w4h37Y)  {
   return  869216542;
 }

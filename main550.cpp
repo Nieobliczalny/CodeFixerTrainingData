@@ -17,6 +17,7 @@ unsigned char  B8PE6N8W(short  st9wfb,int  S0VBB54)
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  y6a7xa19g4(long  je12q,short int  pVEb0p2,long  j4Y8H0nQ,char  cr_ei)  {
   return  122965970;
 }

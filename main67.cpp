@@ -20,6 +20,7 @@ short	DmMq(int	ZErI9KyrKC)	{
 	return	516698389;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	IIc47TdUC(short	I_x42_3bu)
 {
 	return	0;

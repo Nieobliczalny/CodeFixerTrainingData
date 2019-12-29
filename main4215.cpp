@@ -16,6 +16,7 @@ unsigned long  Hc6L2_i_(unsigned long long  b2LrE67,unsigned long  U2nEw,char  H
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  unsigned int GXeFQ;
  GXeFQ = -577741995;

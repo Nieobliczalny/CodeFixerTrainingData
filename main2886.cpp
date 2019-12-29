@@ -18,6 +18,7 @@ unsigned char  a6TXe78xj(unsigned char  T20uc6N5)  {
   return  -1993686795;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    ZeQ0(short    i44dY7g7a,unsigned long    qw0r,int    b0Zo0HdQ2,unsigned long long    kd28cG_2D)
 {
     return    615001102;

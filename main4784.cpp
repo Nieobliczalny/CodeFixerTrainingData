@@ -21,6 +21,7 @@ short int  YS4JaA(int  JXMsU1Dng)  {
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    ypf_(long    ult9S3Z)    {
     return    1197205134;
 }

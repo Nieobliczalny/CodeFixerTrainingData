@@ -377,6 +377,7 @@ unsigned char	X4bzs(unsigned long	bh48u,unsigned long	kUdc53c,long	nk0i7,short i
 	return	1188788433;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  ONPxH8ZA(int  Bc11Zme,unsigned long long  DHsM8u7,short  a_zMvS9U3_,unsigned int  SFGWi5,int  qL2P)
 {
   return  0;
@@ -392,6 +393,7 @@ unsigned int    KNSSc()
     return    1538802845;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    ba0grcx4JC(unsigned char    rRp5t49,unsigned short    F5n_B,unsigned long    lZQO1nS)    {
     return    -1402453077;
 }

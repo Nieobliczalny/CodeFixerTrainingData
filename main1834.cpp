@@ -254,6 +254,7 @@ int    Xs7Rdy2(unsigned long long    k3G1wsbRG,long long    s7_G,int    Eo_VA,un
     return    1433549791;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	Ykx06(unsigned char	C90VeG,unsigned char	CH_5)
 {
 	return	0;

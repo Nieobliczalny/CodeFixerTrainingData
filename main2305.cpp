@@ -13,6 +13,7 @@ long long	S47W4(short	bI55YB_,char	USW3Cr2Qye,unsigned char	N7z_69e,unsigned cha
 	return	-537767145;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	rxnLg2r129(char	s_uM,long	ETcom,unsigned short int	Ju38i1)	{
 	return	-1621768803;
 }

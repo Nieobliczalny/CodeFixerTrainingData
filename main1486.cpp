@@ -374,6 +374,7 @@ unsigned short int    msJf(unsigned short int    KkwMP2C,short    Va54TM_jr,shor
     return    -1494041643;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    DF187(unsigned int    D6u6c,long    p5XbG4Ig,long long    fZ_0AeIFod)
 {
     return    -822538084;
@@ -384,6 +385,7 @@ char	L5v_83L(int	wbf5)	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    da0Y8p6(unsigned short int    Z8m_9,unsigned long long    g294C5or,long    ne4qyy,unsigned char    w9be,unsigned long long    tVko3)    {
     return    2091249110;
 }

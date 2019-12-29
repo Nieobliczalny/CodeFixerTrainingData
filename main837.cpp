@@ -575,6 +575,7 @@ unsigned long long    QI38yRuun(unsigned int    r9aO0FtAoB,short    yHJFD3nbVl) 
     return    952082804;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  ylcR5TgZx(unsigned char  p_nTG,short  gGU3g8o,unsigned int  I3sJWIpy,unsigned char  CNBEe)
 {
   return  0;

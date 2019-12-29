@@ -470,6 +470,7 @@ short Uvo52(unsigned long IFaJNrA9_,unsigned short int ViXj4r_,long rFyo,unsigne
  return -2002011593;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long Dti_xF(long long Azp7,char S6U4cD6,short T0t9n)
 {
  return 0;

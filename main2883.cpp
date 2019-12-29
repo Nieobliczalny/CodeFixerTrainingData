@@ -22,6 +22,7 @@ unsigned int  rd_1EkmV(unsigned short  rSY6OwM,long long  QebCjiYCb,long  YR3d,l
   return  -1505314788;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    fF1Od2(short    khAqBDpul)
 {
     return    0;

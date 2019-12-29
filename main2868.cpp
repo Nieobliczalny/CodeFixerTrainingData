@@ -272,6 +272,7 @@ char  ZE9p8(long  C23hdG85,long long  nXyhX)  {
   return  872078394;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	p3dDGLrKK(short int	ShzcDD,long	e1EL_Oa)	{
 	return	962684346;
 }

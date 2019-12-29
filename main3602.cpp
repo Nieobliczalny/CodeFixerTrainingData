@@ -13,6 +13,7 @@ unsigned short int  M4y47b_(unsigned long  l_3SAg,unsigned char  AX3_Yg7r)  {
   return  232359500;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  bgVn3KF4U(unsigned int  P0tJwVB63C,unsigned short  H9Pc_4pm,unsigned short  EzvkO4,unsigned short  L143k)  {
   return  1239865722;
 }

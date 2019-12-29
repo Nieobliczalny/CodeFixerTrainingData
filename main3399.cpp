@@ -88,6 +88,7 @@ unsigned char	YwtaC(unsigned long long	ic2zkL)
 	return	2023456377;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    J1R69ETZ(long long    wkEC1__4s,unsigned short int    V42r_t2,unsigned long long    oivOqHh3,int    F9_oZK,int    tYn4Cox24)
 {
     return    -1123303878;

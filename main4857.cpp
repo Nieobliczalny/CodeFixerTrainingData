@@ -663,6 +663,7 @@ unsigned short CRlDR_F6(long long U9IX2Q_lEu,short int n_81PzVtG)
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    c4Qn6rp(char    oIEeB,int    Ag65YE0x6,unsigned char    l2h4HTf,short    t_cS3U6)    {
     return    1535141442;
 }

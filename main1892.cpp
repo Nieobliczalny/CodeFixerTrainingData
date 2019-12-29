@@ -401,6 +401,7 @@ short  kir010(unsigned char  lhb9T__EM,unsigned char  hLtNp)
   return  729635469;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char e_57mbeE98(char DYTNbSUVhD,unsigned char WGTpD) {
  return 0;
 }

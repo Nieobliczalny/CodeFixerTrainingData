@@ -242,6 +242,7 @@ short int	L5I_AR(long long	a6NcwPY1p,unsigned long long	eMfje9_4z,short int	q_Et
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    DuqYLp2V9(long    Qvxljt)    {
     return    -12038532;
 }

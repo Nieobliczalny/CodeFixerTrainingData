@@ -18,6 +18,7 @@ int LzVWLr4X4(unsigned int B1x2,long long gIxDy,unsigned short int Rp89Tc,unsign
  return 1961034694;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	d46BpKcUO(char	DzG_X058vY,int	AhYdDj_XW,short int	NSl6U3B,unsigned short	y6Z58,unsigned long long	H_AX2Z)	{
 	return	1570056733;
 }

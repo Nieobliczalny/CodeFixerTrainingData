@@ -482,6 +482,7 @@ short int  ot7gF3(unsigned long  e5iQLqe,short int  M24G0,int  O9Ad8JzV9)  {
   return  983616392;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  u9800p7(unsigned long  W12wAu8bXs,short int  j0V03ss,char  HSDjCk45,unsigned long  o3xSMt)
 {
   return  -720247139;

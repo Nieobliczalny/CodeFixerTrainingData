@@ -13,6 +13,7 @@ unsigned short int    R4i1g_1hH(unsigned char    LhptHX292z)
     return    -1900557132;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	E2I2f7wJ(short int	Z_r4,char	hr29QVF7T)	{
 	return	0;
 }

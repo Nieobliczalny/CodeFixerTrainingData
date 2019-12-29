@@ -13,6 +13,7 @@ unsigned char    NRW1IN1(char    R069P,unsigned short    jFH2Ck6,unsigned char  
     return    -982837136;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  i2D2H(long  L5L8,unsigned char  Ll__2L7tE,long long  dkWfYxqMhu,char  ZXb_13OM)  {
   return  0;
 }

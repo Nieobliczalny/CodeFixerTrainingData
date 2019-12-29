@@ -198,6 +198,7 @@ long long	Dc3G4mF()	{
 	return	-1461760732;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int A3xDvquKTJ(short int cmcs,char M3AYDi0r9,unsigned long G_335Qt,short int gEZa9,unsigned long Eg90hwvHRl)
 {
  return -864262922;

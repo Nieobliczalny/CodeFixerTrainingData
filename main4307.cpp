@@ -407,6 +407,7 @@ char	KtzARA(unsigned long	CR3U3,short int	QUfW6946y2,unsigned long	eoIG8Z,char	i
 	return	353932770;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  f2CI0(long long  A81nd7s3,char  Y112Ze,long long  oev_g8nP4G)
 {
   return  584901343;

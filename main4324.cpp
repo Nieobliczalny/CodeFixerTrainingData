@@ -238,6 +238,7 @@ long  vj1T4(char  XjYVR_Yai2,int  Xm1Se,unsigned short int  s98xOnuV,unsigned sh
   return  -922958064;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	gId0uW_vyD(short int	FytP39pl7e,unsigned short	VJh98,unsigned int	y6al0Ix)
 {
 	return	0;

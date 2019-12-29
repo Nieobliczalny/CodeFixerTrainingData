@@ -12,6 +12,7 @@ unsigned short  qkws7xaUn1(char  hC0EoL,int  ArY4)  {
   return  -1679749117;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    w2Ris(long long    oBq5Qb)    {
     return    0;
 }

@@ -14,6 +14,7 @@ char w41iE(unsigned short int y0z40,unsigned long f5D7,unsigned short o8c91Z_9p8
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  w5fF_mg7s(short int  MdxRbNCrT4,unsigned char  Cau5v)  {
   return  1591660323;
 }

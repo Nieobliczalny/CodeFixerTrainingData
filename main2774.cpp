@@ -16,6 +16,7 @@ unsigned long long U30gPi(unsigned char tH1qYM8_55,unsigned short W6xYFzz,unsign
  return -1613973679;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	QU5555j(unsigned long long	Tjo_,int	fl76I4)	{
 	return	-1872441599;
 }

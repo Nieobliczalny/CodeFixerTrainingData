@@ -177,6 +177,7 @@ long	uv9N8__m(long	D03N8Ebuc_,unsigned long long	jV3832Wmj)	{
 	return	-1633424270;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char n7tFboXy(short k9tS4,short iV_0hcj5) {
  return 0;
 }

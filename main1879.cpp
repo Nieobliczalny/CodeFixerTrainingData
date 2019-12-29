@@ -17,6 +17,7 @@ char nhWr(unsigned long g9s0K,unsigned char l1Lm0S,unsigned int MHWhbZu_Ja)
  return -610069843;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	UAQ0QJ4(unsigned short int	qk718CmU,short	Tb93BO,unsigned char	ZeaE7V90yf,unsigned short int	N2Ct8G1d)	{
 	return	0;
 }

@@ -21,6 +21,7 @@ long long	KMH20w26(short	FhnUz4vP,unsigned short int	vsI24_,char	FOy4VC7,unsigne
 	return	-935457743;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    rXGdJ6vy58(char    O048j_)    {
     return    1142339620;
 }

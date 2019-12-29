@@ -17,6 +17,7 @@ char    f2029O59z()
     return    1139353997;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int y8Ge(int GKGU,short int Ye0mk3dAIW,unsigned char yryeSu97q,int TJ0W,int G75H5PQln)
 {
  return 0;

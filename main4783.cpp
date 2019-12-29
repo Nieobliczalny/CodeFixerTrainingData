@@ -13,6 +13,7 @@ char  g3F1hF9U(long  m7D20U)  {
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  s_CfBE84Xx(unsigned long long  xD_KDrtE23,unsigned long long  G3e1_88b,unsigned char  N12Dio)
 {
   return  64136128;

@@ -18,6 +18,7 @@ unsigned char    VL__aCBI5E(int    wTI02,unsigned short int    A7_sAC8MZ)
     return    -1029704330;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long WqW9Me(long long XK_o3fE9,unsigned char V1_rQ20,unsigned short int HL196HOjPu,char ijgXi)
 {
  return 0;

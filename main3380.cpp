@@ -548,6 +548,7 @@ unsigned short int PlnX9xpQ9f(short QS_2tlx,unsigned char Q_17Ia4g) {
  return 1485653813;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  C72Z1(unsigned short  BN154KM,unsigned short int  ZsC9L4CQo0,unsigned short  e34H6,long  xl6AAS,short int  WFe3krA)  {
   return  -1710995760;
 }

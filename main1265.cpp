@@ -15,6 +15,7 @@ unsigned short  K81O(unsigned long  D8KJ_Ye)
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  ZT27Zg565L(unsigned char  P4QC,short int  l35M58crKd,long  qH4m0wTysi,long  qxsF4)
 {
   return  330478161;

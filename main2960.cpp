@@ -14,6 +14,7 @@ unsigned long long  oZzb_(short  kCwC10_zy,long long  UxBO,short int  M33npLzY,l
   return  523930858;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    Tx2_(unsigned short int    x218YO0,short int    R9Z_u52)
 {
     return    0;
@@ -30,6 +31,7 @@ unsigned short	tS4W(unsigned long	gS2n8034y,unsigned short int	R24guv,char	FUC36
 	return	-731797742;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  unsigned char Z5Oq7KV_xK;
  Z5Oq7KV_xK = 0;

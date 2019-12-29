@@ -341,6 +341,7 @@ long  tfX_(unsigned char  pV_E0,unsigned long  f02IgH)
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    WxM1mkVVuL(unsigned int    Yu5lPa,unsigned short    gP7ScH,unsigned char    lBc37xFK,unsigned char    yW6bmz0c5,long    N1wh)    {
     return    1833845881;
 }

@@ -774,6 +774,7 @@ unsigned int	opAKb(unsigned long long	L45PGJh,unsigned long long	AjQC7,unsigned 
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	UTUx0(unsigned short	lj96,unsigned short	w5pN1bGEm,long long	zf63sQ,unsigned short int	Ep583Y1b,unsigned short	hA98pPy)	{
 	return	774929211;
 }

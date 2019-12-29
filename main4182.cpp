@@ -213,6 +213,7 @@ int	yj6p_s0yi(unsigned char	JMHw7B,unsigned long long	wa8u,unsigned short	VR2qSn
 	return	-616285119;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  O2fxc1_2(unsigned long long  djv7R9QKk,unsigned char  n1di)  {
   return  0;
 }

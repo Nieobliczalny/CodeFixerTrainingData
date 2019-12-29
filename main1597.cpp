@@ -652,6 +652,7 @@ long    PsL0pASE(char    FfPJEqDzlA)
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int R9gr36v(short int NiZ6s,char osWDM5Y,long x2QfTckK,unsigned int upr_TS7e) {
  return -15492444;
 }

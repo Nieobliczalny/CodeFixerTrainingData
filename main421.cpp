@@ -335,6 +335,7 @@ short int	IU241_oyA5(unsigned long	pAMt3x80oT)
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	kQEkj8L9(int	S221g58,long long	rv1Vo,short int	k4OEb1)
 {
 	return	1248544669;

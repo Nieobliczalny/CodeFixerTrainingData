@@ -604,6 +604,7 @@ unsigned long GP4El3v(unsigned short int o90_LWZqwx,unsigned long long JPAq31,in
  return -1615551661;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    DMQl122k8(char    mVUESBSz)    {
     return    -627363803;
 }
@@ -618,6 +619,7 @@ unsigned long long	B6cCP(short int	FLdd1,short	H6uIN1_mG)	{
 	return	-68895074;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  VziZ0R(unsigned long long  g_7x44)
 {
   return  -868710987;

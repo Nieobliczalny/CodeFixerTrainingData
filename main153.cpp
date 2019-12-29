@@ -595,6 +595,7 @@ unsigned char    uoye2841L(char    FY3SrYGM)
     return    2066856498;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  C7HuyryF16(short  MOvMo_f,long  WyK68n7,unsigned int  ZIn0L)  {
   return  0;
 }

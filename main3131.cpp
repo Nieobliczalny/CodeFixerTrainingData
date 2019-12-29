@@ -17,6 +17,7 @@ unsigned short int  KjiEJ6y_4y(unsigned short  s7otD,long long  ezQpIYhD)
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int FxYohfP_(unsigned short qJGInu7Q,char KC1_4rUT9W)
 {
  return -665046065;

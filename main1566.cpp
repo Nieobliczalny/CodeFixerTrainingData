@@ -18,6 +18,7 @@ unsigned char	NJl2(char	ygmEG,int	zDoJ)
 	return	-1219320698;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	f5Q_cCeO7(short int	e866DA2gAd,long long	Coh9ln,unsigned short int	cvnG_Cnt)	{
 	return	1428724828;
 }

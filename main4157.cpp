@@ -17,6 +17,7 @@ long  OUGZD(unsigned int  eH72,unsigned long  IIml0,short int  V6kbWSh6X,unsigne
   return  -1181478239;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	c45OzMJH(short	X8u5uzZ,short	qpjVk)	{
 	return	1771517592;
 }

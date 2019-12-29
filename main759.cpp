@@ -91,6 +91,7 @@ char	qrQqSS7x5(int	dlss)
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short z5_77Pz64(long long p_5SH7)
 {
  return -1647692089;

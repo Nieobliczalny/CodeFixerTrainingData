@@ -536,6 +536,7 @@ char  P_Vd(short  r1j99_fH)  {
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long uoXRQkZFn(unsigned long long L9aw2ITEg4,unsigned short RJ9a2q,unsigned char V5i34yE,char JvdgSG,short int e0Fus)
 {
  return -2008603027;

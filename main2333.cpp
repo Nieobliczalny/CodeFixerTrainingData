@@ -17,6 +17,7 @@ short int    x20vfIe(long    N6WajOR7)
     return    1277583575;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    v0wA6(unsigned short int    P_shs)
 {
     return    -834696679;

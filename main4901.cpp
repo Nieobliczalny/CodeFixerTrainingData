@@ -14,6 +14,7 @@ short int  I6CQ04(char  Zi258_Q_6,long  vuXE6jz,unsigned long long  nMBo5)
   return  -770739378;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  xr4zzi(int  tP_8y,unsigned long long  O6vB4,unsigned long long  FH6a78nr,unsigned char  bqD41S,char  yT3OhZI_3C)
 {
   return  0;

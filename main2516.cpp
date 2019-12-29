@@ -602,6 +602,7 @@ unsigned long long SxJ5q(long uXxt32pQk) {
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	whU52yx(short	Bnwl4Iz37)	{
 	return	793913411;
 }

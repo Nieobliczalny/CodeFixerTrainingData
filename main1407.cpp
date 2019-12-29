@@ -475,6 +475,7 @@ long long	a20h(unsigned long	SboBbDp,unsigned int	etAP8,unsigned long	QKkb3lTHa,
 	return	-606103320;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  S9WTwTEN(unsigned long long  d4LYLfHw,unsigned int  bxRD3)  {
   return  1677979371;
 }

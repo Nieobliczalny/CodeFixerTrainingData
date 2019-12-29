@@ -21,6 +21,7 @@ unsigned char ePgEzx(unsigned char chkpuF19P,short int qN2lU1,unsigned long long
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int Gk8PxU_8i(unsigned int GDUem5T63,short DG7rjbjqh)
 {
  return 843137168;

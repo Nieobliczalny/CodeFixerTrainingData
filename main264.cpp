@@ -25,6 +25,7 @@ unsigned short    K9__v4Dc(unsigned int    W6E021,int    qvWj2jV4f1,unsigned lon
     return    1332424792;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   long long  NhU2W77c6s;
   NhU2W77c6s  =  -769083122;

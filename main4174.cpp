@@ -532,6 +532,7 @@ char	Ol2W90z_K(char	i35k6TGYx,unsigned int	v2sv,unsigned long	XJ85_jPJdJ,unsigne
 	return	-1916860627;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	fNTBzr7f(int	r5HV4)
 {
 	return	0;

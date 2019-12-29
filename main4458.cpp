@@ -22,6 +22,7 @@ unsigned short int	g5mBRc5TU(short	m8wMkbCLAd,unsigned long long	XSmY,unsigned l
 	return	-1314543918;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    Gh8g8(char    O_772Bj,unsigned long long    u_SxG_hNa,int    VoHA86t,unsigned char    xCvCDI_4u,long    gNJ5SA4wAn)    {
     return    -1793282264;
 }

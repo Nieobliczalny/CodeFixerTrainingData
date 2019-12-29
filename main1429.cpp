@@ -14,6 +14,7 @@ char	bfVhVi8Q8(long long	a5Xw09CJ,unsigned long long	W4W0456gr,unsigned long lon
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	Awq0(unsigned int	h558P,unsigned int	Y74Lf7Ai,unsigned long long	Y3S1_T2,unsigned char	vct25p,short	ov82Jfgx_)
 {
 	return	410947325;

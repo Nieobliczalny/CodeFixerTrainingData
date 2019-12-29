@@ -611,6 +611,7 @@ long long cEc4v(unsigned long X19z,short oXal5T70,unsigned long long yV9Hmk,long
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    z2_ug0d7(int    gaNdJ65g,unsigned short int    mH53Q2M,char    Ct82km0Z7,long long    PFY6I1va_k,unsigned long long    fGmo5_9)
 {
     return    1573465738;

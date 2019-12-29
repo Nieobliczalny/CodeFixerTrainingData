@@ -784,6 +784,7 @@ unsigned char    jy4nh6G6b(unsigned long    SOyM_F,short int    x4FD7kUl7Q,unsig
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	He725YzN(char	zR4Q,unsigned short int	ywkY,unsigned char	tho5k8_z6g,unsigned long	bil7)
 {
 	return	777202375;

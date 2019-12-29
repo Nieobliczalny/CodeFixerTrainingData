@@ -328,6 +328,7 @@ unsigned char e0VLDnMf(unsigned short int qC_vGT2D)
  return 1214096813;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    nCGe(short int    Q4m6645CD,long    zKl3T1)    {
     return    0;
 }

@@ -413,6 +413,7 @@ unsigned int E2r4(char P1Na2P9K6) {
  return -85753385;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int LSX2Mk(unsigned int veyGzV,unsigned long long M4LnE9Db,unsigned int FtYxyv9MV9,unsigned char yBWZnd__d,int F44OHnI8J2) {
  return 1786184037;
 }

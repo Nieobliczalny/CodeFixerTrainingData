@@ -396,6 +396,7 @@ unsigned int gZAqiTf1o(unsigned char cbQXL,unsigned long long r8ZirJ,int m6tu0,u
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    IQwdt(unsigned int    ZVWgCCfK,int    w_0v,short int    a1w1,unsigned long    TjRPcayR7,unsigned int    vn66Th9)    {
     return    -20989492;
 }

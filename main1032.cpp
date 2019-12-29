@@ -14,6 +14,7 @@ unsigned long S7_r3(short int w61Zzt8v2,unsigned long vozSu1gP,char wkX6_V0p)
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     short    VMjc2S;
     VMjc2S    =    -1483016045;

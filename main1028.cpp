@@ -249,6 +249,7 @@ unsigned short  CWR6(unsigned char  nK1Gtq1,char  ehQz_1_M,unsigned long long  c
   return  -782935195;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    W31JKA(long    Hx_m,unsigned short    N4gy7wlba)
 {
     return    0;

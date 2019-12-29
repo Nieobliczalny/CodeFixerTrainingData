@@ -26,6 +26,7 @@ long long feoBc()
  return -982545389;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  char Q4_dJtk9, JA1Z5;

@@ -14,6 +14,7 @@ unsigned long long	cf8r(unsigned short int	u_Xt2A,short	Ncty,short int	EYmHP30,u
 	return	-49698018;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	q2s9e(int	pw0_AE90Zt,unsigned short int	kloS,short int	yl32SAu1,unsigned long long	v2r4,long	qeYr664Mf)	{
 	return	0;
 }

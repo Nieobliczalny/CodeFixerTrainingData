@@ -25,6 +25,7 @@ unsigned int	UMI2(long long	RL0h,unsigned int	sZ2sTGgKn)	{
 	return	-1465694633;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	GYqN(long long	oZ3jg2xh)
 {
 	return	1779353017;

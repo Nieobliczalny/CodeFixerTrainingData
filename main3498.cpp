@@ -19,6 +19,7 @@ short EpBA0W7pe(unsigned char j57n3D0,unsigned short c3f64v)
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  char yWWS;

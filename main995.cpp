@@ -668,6 +668,7 @@ unsigned long long	N0L2(long	R6s936e,unsigned char	XJ6wd08,char	XakT,unsigned ch
 	return	501750927;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  nyF9(unsigned short int  z25f,short  p9mO_zVF9n)
 {
   return  1004537192;
@@ -679,6 +680,7 @@ unsigned long long    ZivQ6(unsigned short    H_1_,char    t64e,short int    T39
     return    684520921;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  c8i838(unsigned char  wq1AScfoaR)
 {
   return  -1692749941;

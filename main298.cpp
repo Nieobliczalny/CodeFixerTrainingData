@@ -23,6 +23,7 @@ unsigned short  F30bI9_91(unsigned short int  hEAWfb99,unsigned char  t8Ga,unsig
   return  368475755;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  rjR4V9T(unsigned char  T9f1S)
 {
   return  -300244684;

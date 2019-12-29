@@ -1091,6 +1091,7 @@ unsigned char  knE1K(unsigned char  Qp4be)  {
   return  1108499334;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char B_nX4JIve7(short int bgRGBB11Z,unsigned long X1apK,short int GDj957,unsigned char XaWKq7_H,unsigned long s13IU3O)
 {
  return -465094320;

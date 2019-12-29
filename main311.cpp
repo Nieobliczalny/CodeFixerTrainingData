@@ -22,6 +22,7 @@ short  wxi42ZvXer(unsigned short int  f7__,unsigned short int  Fk3UL3,int  DR_t,
   return  2066355041;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  rCJ7(short  wt8z,unsigned char  DR6B1oqADb)  {
   return  0;
 }

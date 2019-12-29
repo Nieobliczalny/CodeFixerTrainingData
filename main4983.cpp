@@ -605,6 +605,7 @@ int NG1KkM(char J_Km1L)
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long dsAQm(short p_kDfv88_L)
 {
  return 1720305996;

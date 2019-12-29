@@ -13,6 +13,7 @@ unsigned short int m7Q71HFzV(long kkeif,char p3__h6,char kFyXc)
  return -2006332176;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  I_m64Os5m(char  NA0Q8L5Wg0,unsigned long  PVSTJ)
 {
   return  0;

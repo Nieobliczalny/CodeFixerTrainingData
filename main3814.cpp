@@ -13,6 +13,7 @@ char    D_MwXR0O0(long    dv58k8,unsigned char    Xxxrvww8Xa,unsigned short int 
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  my5D6L7w(long long  Xc1am,unsigned char  K9W_AEl)  {
   return  2022655766;
 }

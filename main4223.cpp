@@ -14,6 +14,7 @@ unsigned long T1m00_(short f_5of_zW) {
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int Amx_HW17zS(unsigned short int X09w) {
  return 688417684;
 }

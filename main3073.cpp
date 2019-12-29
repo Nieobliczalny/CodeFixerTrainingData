@@ -18,6 +18,7 @@ short int c8YrHt(short int a1IIH12,unsigned int R1vLp,unsigned long long ZT3bfO)
  return 651994518;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    K37Z08s78(char    k_3m,long    n9ykJ9X_,unsigned long    P68FTsnG_a,short int    AS7fbt_)
 {
     return    -247679897;

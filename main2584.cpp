@@ -456,6 +456,7 @@ unsigned char	hTukZ(short	F431)
 	return	-847788051;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  fyL9AvjS5T(unsigned short  K8F24lg,short int  aGu41Rek,unsigned long  II_HnAZN,unsigned short  Vb8s4)
 {
   return  0;

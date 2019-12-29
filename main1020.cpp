@@ -19,6 +19,7 @@ char nBad3(long G3twkKGEe3,short ZzLOTC1C54,unsigned char xD8CJv_87)
  return 2024203451;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    CNrX(char    Zpop0,unsigned short int    oklPo3t,unsigned char    j48CKI81w)    {
     return    -155745023;
 }

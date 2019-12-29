@@ -18,6 +18,7 @@ unsigned char	jE7I63_(int	Kbnd4Mj,short int	KihMbl,int	pOg2OtW5n0,unsigned char	
 	return	-1914372904;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    VgMb9(char    Tv38Kvu02S)    {
     return    0;
 }

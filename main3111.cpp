@@ -23,6 +23,7 @@ unsigned int jowmo(unsigned int s_rj,char OkM2)
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    Irnmo99(unsigned char    V6pGvr80w4)
 {
     return    2068270858;
@@ -33,6 +34,7 @@ unsigned short    WY_vMb(short    jVHk499qR)    {
     return    -1648566088;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	U4cG7(long	k3G33CmQxL,long long	Jv_Wo8La6,int	IB6yyy,int	jbcsu_,int	pEK367)	{
 	return	-849321250;
 }

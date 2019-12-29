@@ -21,6 +21,7 @@ long    eZkp(long    O0m6TnJ3,unsigned char    u3Ch,unsigned long long    iu3CmR
     return    1548931260;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char TCg41(short Mpy43024x,short int m7_k6zo,unsigned long mbb0Evg)
 {
  return -964746344;

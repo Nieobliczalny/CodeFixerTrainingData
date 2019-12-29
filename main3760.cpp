@@ -779,6 +779,7 @@ char oGv9jK8(long long C35gn2C0h2,char BbuA9,char T3OpJXi8)
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  h00Athd(short  rSn3g,unsigned int  qFuTnrG,int  vCOA2i0)  {
   return  -302918309;
 }

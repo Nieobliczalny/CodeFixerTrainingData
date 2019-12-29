@@ -14,6 +14,7 @@ unsigned int    tlX6vSp(unsigned char    k1wgtK,unsigned short int    JG3t81P3h,
     return    -1288429280;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	X3QSy(short int	JIm99,long	KKUi7BbI4O,unsigned long	Cv0RVaTf5)	{
 	return	559492226;
 }

@@ -725,6 +725,7 @@ short int	S7Gekyl_3(unsigned int	BKdVa2,long	HDdv6,unsigned short int	L8J2,unsig
 	return	1539874426;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  cweY364tg(unsigned int  vm4X1dn,unsigned long long  VTNGDQc_)  {
   return  0;
 }

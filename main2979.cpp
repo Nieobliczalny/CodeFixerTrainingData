@@ -684,6 +684,7 @@ int IPTg(unsigned long nN5efB,unsigned long long smcG7X4,unsigned short I2dw)
  return -1807142078;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char sWL165J0Qx(unsigned short IjP_P7E) {
  return -215126837;
 }

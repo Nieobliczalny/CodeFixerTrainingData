@@ -177,6 +177,7 @@ unsigned short    p51k(unsigned long    h0Yc5u00vf,unsigned short    CTiSZ)    {
     return    -1297719796;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    o4UmKNg(long long    xWTZ4co2y,unsigned char    uQuQ_np_Hd,unsigned short int    hNegM_,unsigned short int    w_0k)
 {
     return    0;
@@ -193,6 +194,7 @@ long long    N1W95h0g77(short    x99WG2Qs,unsigned long    KR1A4B68A)
     return    -1768150822;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  J_652R84C(short int  Nr4FYFdW)  {
   return  -663133200;
 }

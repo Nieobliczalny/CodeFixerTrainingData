@@ -342,6 +342,7 @@ unsigned short int    qerO(unsigned long    bxv7PhV_A,unsigned short    a_3Fi1)
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    r_4br666Q(unsigned long    h9jHuzVw)    {
     return    887539666;
 }

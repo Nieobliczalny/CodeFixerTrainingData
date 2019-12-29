@@ -14,6 +14,7 @@ unsigned long long    Et7dPpLV4D(long long    ixq3WyntPQ,unsigned char    X6486w
     return    1540900238;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    HzAsdRaP03(int    b1k1a2bv,char    e54J9ZNLL3,long    GNKq3dcP,unsigned long long    W__Fn57Z)    {
     return    1909576723;
 }

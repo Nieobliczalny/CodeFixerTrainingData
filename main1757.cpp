@@ -14,6 +14,7 @@ short    xNn7(unsigned short    qITfu_Za31,unsigned int    e9Tmm9F9n,unsigned sh
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    SWvm(long    MJ1oB8E,short int    Vw8Nj,char    l59oT2,long    ga5AzD90o,long long    uB4AkR4tx)    {
     return    -1932524204;
 }

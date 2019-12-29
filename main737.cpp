@@ -14,6 +14,7 @@ unsigned int ATj3UQZGeG(char F3iVpZkY,unsigned short cd8BY,char p2V_l,int h3_6z,
  return -575768514;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	UXvzToE0(long long	qU7yy_88Nc,short	KtmC90I,unsigned short	Ih4bR,unsigned long	NB2c3mpHvU,unsigned long long	QcbpY)	{
 	return	0;
 }

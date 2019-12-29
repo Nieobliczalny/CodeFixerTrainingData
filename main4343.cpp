@@ -17,6 +17,7 @@ short int    A01_cus0cb(short int    oDaSfC,unsigned short int    B0X4I,long    
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    KQ46(long    jSoQ2Ii13,unsigned short int    al96d,unsigned char    snfHgk8t3,unsigned short    Cx3wd6,long    PFn_D2)
 {
     return    -164390196;

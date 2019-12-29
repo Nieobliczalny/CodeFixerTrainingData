@@ -491,6 +491,7 @@ long    HSI8rvJ4(unsigned short    B_q0,unsigned short    nU6n_2hi_w)    {
     return    933134464;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	HFPZ(unsigned long	twr0eO,char	gHIW38_N,unsigned long	Z_k_d)
 {
 	return	0;
@@ -506,6 +507,7 @@ short TeW5K43820(unsigned short clv4)
  return -879636845;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	VkiV(char	Hz4228)	{
 	return	1980573714;
 }

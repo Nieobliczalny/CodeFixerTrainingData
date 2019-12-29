@@ -542,6 +542,7 @@ char rkcb4VZX(unsigned long long tIS6F6lFq) {
  return 52903072;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  nlK_9Nfw0(unsigned long long  RP03J,unsigned short  IC6PkDpZGn,int  ZP7k,short  T67k,char  zB7foKy3nz)  {
   return  1019918186;
 }

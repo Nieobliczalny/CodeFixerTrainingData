@@ -17,6 +17,7 @@ unsigned short    cw77f37I0(unsigned short    r42M4_)
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  ptB_O(unsigned short int  Oo_pmYL1R)
 {
   return  713832457;
@@ -28,6 +29,7 @@ char  Mc3tAr461P(unsigned int  txk60Y8f6,unsigned short int  uq_XKx_37K,short in
   return  2114329132;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	dtv87(unsigned short int	IcZI0,long	nPG74t,unsigned short	Mi632I)	{
 	return	1699799383;
 }

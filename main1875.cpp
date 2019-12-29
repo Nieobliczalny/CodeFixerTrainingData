@@ -21,6 +21,7 @@ short  t2968_dmE(long  tF5S9)  {
   return  80683012;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	cR7LFk2n16(unsigned char	Fr_Tg0,short int	zX9dDD0324,unsigned short int	pvM7Wuanje,unsigned char	W8eP8n2,unsigned char	bgty813)
 {
 	return	0;

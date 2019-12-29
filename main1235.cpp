@@ -18,6 +18,7 @@ unsigned short	B_79x(unsigned long	Io9I_,long	r_1twLXI,char	E2LOwmc40,char	zcANc
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  long ogQMGejiM;
   ogQMGejiM = 0;

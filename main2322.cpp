@@ -287,6 +287,7 @@ unsigned short int  rk4Ccy4Dn(unsigned char  veH43IK93C,char  A4qCP_Gd_s,unsigne
   return  -925829437;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    y79t(unsigned int    b5A7Q3B_)
 {
     return    646062986;

@@ -18,6 +18,7 @@ long long	a5MKq9(short	gahydjP,long	bT857y0A,unsigned short int	q4Cd,short	dXXR8
 	return	1110256703;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  KO9I4bYT(char  z2VS_5,unsigned long  nx65OGT)
 {
   return  -232151592;

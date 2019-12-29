@@ -18,6 +18,7 @@ short	RvE5WD_c()
 	return	-525770268;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	nRJ9uNF8(unsigned long	I63_mWh,char	T94_z__,unsigned short int	JPRp)
 {
 	return	0;

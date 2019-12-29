@@ -13,6 +13,7 @@ unsigned char	QBlY(int	dvvb)	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     long double    KjSXJ;
     KjSXJ    =    2046543561;

@@ -473,6 +473,7 @@ char    YDqgn(short    TSKvHn1f3,short    A0U5U,int    y0Hpit,unsigned long    P
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int IId_(unsigned short int WWixQL,long egO0_g4b) {
  return -1254856976;
 }

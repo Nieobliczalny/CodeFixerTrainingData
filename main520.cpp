@@ -623,6 +623,7 @@ short  d1twPl6t(unsigned short int  KCSubc5s5,unsigned short  bbDHj_,unsigned in
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short xRq1n(long long j1HX,unsigned int y_O3hYGd,unsigned short o_04n,long mU_9hVrfd,unsigned short lV_z_A_j87)
 {
  return 632763880;

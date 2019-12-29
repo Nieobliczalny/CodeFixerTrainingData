@@ -123,6 +123,7 @@ unsigned int    T1uR1Rd912(short    XtL6,int    O9RJ3,long    C4b_,int    D0HAJu
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    nM5cH_ivf6(unsigned int    Es_q)    {
     return    1043593253;
 }

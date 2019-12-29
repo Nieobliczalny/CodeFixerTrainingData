@@ -13,6 +13,7 @@ unsigned long long	b239xsNc7(unsigned int	pGQQ3,char	kTg_8,short int	LuEw,unsign
 	return	1551643613;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	Z615U(short int	jrb970,unsigned short	jLP6_rY5)
 {
 	return	821631432;
@@ -29,6 +30,7 @@ unsigned long long XVxz8(unsigned short EwFB1,unsigned short kWLm5m3,unsigned ch
  return -1215479607;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    PuCd5L1KIh(short int    cq2j1D,unsigned short    u12BLB,short int    hZocLpko0,long    nbbzF97Pm2)
 {
     return    0;

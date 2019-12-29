@@ -16,6 +16,7 @@ char  gcx5(short  eO9465lxO,unsigned int  h98D_9N,short  qou7Bf2_,char  QS8UTV4N
   return  1209279049;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    pghXYLEF50(unsigned short int    HQ94I,char    A8gP,unsigned long    jdA4gmkJ2,int    n36DMVa,int    s726X)
 {
     return    0;
@@ -30,6 +31,7 @@ int YRJSI(short int iW_gH6d,long long X017NT,unsigned int nt8tM) {
  return -703079755;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   int  v3nBdCz;
   v3nBdCz  =  0;

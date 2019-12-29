@@ -18,6 +18,7 @@ unsigned long	Chfhw4()
 	return	364808528;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  eRsT638(long  PblqN,unsigned int  fX1ft,short int  a85vE,unsigned short int  kO04940Wy7)
 {
   return  -857009425;

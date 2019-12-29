@@ -15,6 +15,7 @@ long long    P9dRAjFl_(short int    KyPXIT_zq,unsigned char    obEhbl59x,short i
     return    -1600860646;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    Rlag(short    HuU122sJ)    {
     return    0;
 }

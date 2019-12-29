@@ -13,6 +13,7 @@ short int  D2_gBz(short int  FEyV,unsigned long long  ex0_Z5k1,short int  z29jp1
   return  894716998;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    J76LsPFiPj(unsigned long long    tCM82V2q,int    n46UHbQg,short    Op1zz,unsigned char    rG51HH,short int    cc5qx0j)    {
     return    0;
 }
@@ -26,6 +27,7 @@ long long  WpR6(short int  a9FjgbAI)  {
   return  715548976;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   unsigned int  U6_658l  =  0,  G4_DpJ  =  0,  B8v8wl8Ut  =  0,  jv0_c66  =  0,  G54WAsep  =  0;

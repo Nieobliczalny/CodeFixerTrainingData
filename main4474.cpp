@@ -13,6 +13,7 @@ long long	BA14(unsigned short int	nS34c7,long	wGbcQB,unsigned int	Xdc5xybFu,unsi
 	return	2047575111;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long Hqb8Y(unsigned int o3a63) {
  return 0;
 }

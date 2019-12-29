@@ -21,6 +21,7 @@ unsigned short int czojn() {
  return 1415449466;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char NG016c(unsigned char q6BV5,long fceXj8u3) {
  return 1691081262;
 }

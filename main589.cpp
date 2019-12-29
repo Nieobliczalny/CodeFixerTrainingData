@@ -20,6 +20,7 @@ short  eC22FGbj(short  sI6b1KX2J3,long long  C21bGLFd,char  hM5w5lo37)  {
   return  -1082421229;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short o_e24JsGV(unsigned long KRm_c26T3U) {
  return 0;
 }

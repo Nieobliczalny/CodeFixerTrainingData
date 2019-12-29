@@ -18,6 +18,7 @@ unsigned int  I6hY(unsigned short int  yE97h3HL1G,unsigned long long  sPcK1,int 
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  char X5jr3 = -2038356922;
   double  TJ6569k42  =  1273403445;

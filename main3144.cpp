@@ -530,6 +530,7 @@ unsigned long long  u2ZG_(int  xP1GidV,int  T_2_zJ,unsigned char  qHf5QTilcy,lon
   return  1232810883;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  HputCm(unsigned short int  F_85rL3,short int  kJX4P5,unsigned char  K20ho)
 {
   return  2075245313;

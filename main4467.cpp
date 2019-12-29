@@ -14,6 +14,7 @@ unsigned short int	mGBSTLgN(unsigned char	ZYZ9_DDd,int	KM3nsfR,char	q39kT7X)	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long ObD0(unsigned char JPXb_WTcp,unsigned short int Yg6vs8k,unsigned short int S_37,short IH_Uvw,unsigned char MCW5RYMZYw)
 {
  return 504789915;
@@ -32,6 +33,7 @@ unsigned int	Rhd90f35w(long	lRt5d5Ay4_,unsigned int	DvTAd)	{
 	return	-1999060361;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	unsigned char	px48;
 	px48	=	-243762770;

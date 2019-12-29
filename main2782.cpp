@@ -13,6 +13,7 @@ short    gKIu_45(unsigned short    K_I7BF,unsigned int    JhPL2v)
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	Va480g7WP(unsigned short int	E1cgJ617)
 {
 	return	-963214628;

@@ -17,6 +17,7 @@ unsigned long long    fXwDBi()    {
     return    1166920017;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	kYWbyVag_i(short int	BDU9cxt,unsigned long	X_erZSDes,unsigned long	vBOlb0)	{
 	return	1815329017;
 }

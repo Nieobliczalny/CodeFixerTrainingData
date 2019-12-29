@@ -22,6 +22,7 @@ long	qQ__n6()	{
 	return	-323108877;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  unsigned int UpoMU, s8wJa, YcSEe;

@@ -20,6 +20,7 @@ unsigned int  TBEJ(short int  jDbF5_E95F,char  h8K2,short  f_FBBYD0)  {
   return  1374624988;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char R1afa(short int BDS2JWq,short aWW9H9xD,unsigned long long hOuI9,unsigned char ir8vzgp,unsigned int N7dA6V_ie)
 {
  return 0;

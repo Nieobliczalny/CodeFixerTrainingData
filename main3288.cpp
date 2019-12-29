@@ -30,6 +30,7 @@ unsigned short    a853Qw0_f(long long    h3Or6DL,unsigned long long    S7uys,cha
     return    -1461736839;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int m68kR8o(unsigned char cLa10W5)
 {
  return -1859696419;

@@ -19,6 +19,7 @@ long long    ZKYN2Z(unsigned short int    G8l2_,unsigned short    sTOo)
     return    436770192;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	l5xb63CSGH(short	BoWmC80pq,char	a45y334wDP,unsigned short	JYTuU7,unsigned short	n42bDowDV)
 {
 	return	0;

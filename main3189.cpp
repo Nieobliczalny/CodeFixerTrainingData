@@ -18,6 +18,7 @@ unsigned char BT5pfaXfY(long long J6mXo1XV,unsigned long long u17be77)
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	float	T82385Jy3D	=	1314291433;
     int    U0j8x2    =    -1545483394;

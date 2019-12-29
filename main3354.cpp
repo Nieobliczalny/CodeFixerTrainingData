@@ -311,6 +311,7 @@ unsigned short  hWVN(long  ZFX7q3W,unsigned long  LwAT,unsigned int  f2Edw02v_,u
   return  -2055946770;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    mCevnHp(int    JftY3H2)
 {
     return    1901655526;
@@ -326,6 +327,7 @@ unsigned char    xJd41GL(unsigned char    e7Gve_km)    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  L0LB1(short  Pt6qiPdITq)
 {
   return  1653332743;

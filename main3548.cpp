@@ -22,6 +22,7 @@ unsigned short int  HF1lh0_(short int  RCBl55_0,short  MRI5ZG3k2n,unsigned int  
   return  1647152808;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    K0XH3ij(long    r2dE,long long    Pcu_,unsigned char    AGTzXz,unsigned char    H5dpSC)
 {
     return    0;

@@ -596,6 +596,7 @@ unsigned short Rv0iz8xS(long long f3HAX00FQ,unsigned long e8E6e5,int eojN5Y7jnh)
  return -446232196;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	S24l90yc28(short	Cux4Y9keS8,unsigned int	J0GWI35T,unsigned short int	Hvjgz7X7x)	{
 	return	1196997986;
 }

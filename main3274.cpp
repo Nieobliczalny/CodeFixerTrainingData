@@ -14,6 +14,7 @@ unsigned int j5o0(unsigned char aZJ5geM69U,short Q6oy_T71,int xpHC9yl,short int 
  return 1110814410;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long h090_(unsigned int J6wAu_k) {
  return -162906944;
 }

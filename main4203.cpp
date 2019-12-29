@@ -493,6 +493,7 @@ long kjby(long long U4Q651fW,char J6H_9GEnG2)
  return -1264509631;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long tz_2w9603(char sSc3O,short T166ZV,unsigned int jaDjh,unsigned short int xa05kM6q,long long a4EuHdM72)
 {
  return -855512337;

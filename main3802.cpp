@@ -17,6 +17,7 @@ unsigned long long	R8QR1sY(unsigned int	CYF_6eCvx,unsigned char	l4XaDB2V0,unsign
 	return	706869451;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int UM9A0872(unsigned short LD1d_eU,int FNYMKwQkE5)
 {
  return 0;
@@ -33,6 +34,7 @@ short int  I2oa9921TL(short int  J6_V9vh,unsigned long long  W1hR,short int  hC8
   return  2120742632;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	unsigned long	e2Ih6Si,	PhrvT5M3,	iWjxHb,	XQybRkj,	E6v29AZ;

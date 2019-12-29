@@ -501,6 +501,7 @@ unsigned int	FOL4Bu(unsigned short int	AfVelms,unsigned char	O_C_m,short int	qjo
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    oNI4F(short int    kFG_GGB4)
 {
     return    -326490149;

@@ -14,6 +14,7 @@ char	Y7UM7NW69(unsigned char	fmOm7W1i,unsigned short	U_1zH40,unsigned int	PrCE78
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	CL45b(int	LR38nrZN9J,unsigned short	g874t4RgF)	{
 	return	2069049002;
 }

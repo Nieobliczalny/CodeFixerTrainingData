@@ -12,6 +12,7 @@ int	buei4IV2(unsigned long long	a565C,long long	WSdzw,long	R_VF6L4qit,short	gzRe
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     unsigned short int    Ql2V4V8QJ    =    0;

@@ -317,6 +317,7 @@ long h7AhQCH(short OuIX,unsigned long egzZm,unsigned short h3ttz4B,long t3pf3lG)
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    BAnbZtxD(unsigned long    OAC1tA,unsigned short    m3B8)
 {
     return    879171126;

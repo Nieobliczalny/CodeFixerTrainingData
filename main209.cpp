@@ -19,6 +19,7 @@ long Iq1w()
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	znsj(unsigned int	qi50ZboN,unsigned long	Rfe0bnW,unsigned long	T3suX8_GKm)	{
 	return	-1089531592;
 }

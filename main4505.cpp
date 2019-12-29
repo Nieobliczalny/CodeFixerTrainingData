@@ -23,6 +23,7 @@ long long    VfC46P3D0x(unsigned short    IIx7na_F)
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  long long J0Fc7 = -824238502;

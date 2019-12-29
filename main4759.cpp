@@ -285,6 +285,7 @@ unsigned long long	Pvpgc(unsigned long long	K4hap,unsigned long	Zs3Nc5_,long	uc1
 	return	946382655;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    zdc7K95(long long    Pl09hC9_u_)
 {
     return    0;

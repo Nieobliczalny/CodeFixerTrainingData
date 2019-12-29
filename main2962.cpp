@@ -20,6 +20,7 @@ unsigned short ga_H(unsigned short T4A6i,short int JdK6XOyEk) {
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   long long  Ky572la  =  -566284517;

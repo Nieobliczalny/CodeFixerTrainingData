@@ -52,6 +52,7 @@ long  BYo1339O3w(long long  S3Wq,unsigned long long  vr9750TnNv,unsigned char  X
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    ByT7(unsigned long    xBJ70)    {
     return    -1038074198;
 }

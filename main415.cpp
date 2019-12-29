@@ -545,6 +545,7 @@ short	t2d0WtaJY9(unsigned long	M_nL9F,long long	I7YT52t2,long long	eGnY788Pt,cha
 	return	158477521;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short V78SVDw_U(unsigned int tkyPmS8IUM,unsigned int f7mS3z,unsigned long long ze9d9sb,unsigned char BdcJ0x)
 {
  return 0;

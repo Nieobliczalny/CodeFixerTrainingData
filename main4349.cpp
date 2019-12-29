@@ -184,6 +184,7 @@ unsigned short i3U9_70n(unsigned short int a_55,unsigned int fPq171,short int i9
  return 1352886956;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    Zdv0nW4(unsigned int    M0wq,unsigned long    v9kmf,long long    hyBc2_xtlX,short int    J_1xKLz5X)    {
     return    631822758;
 }

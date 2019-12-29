@@ -520,6 +520,7 @@ unsigned char WCG2z(unsigned short n83k)
  return 2069404641;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  PsV1(unsigned long  oga_Y,unsigned long  YIw_4SPt,unsigned long long  mGq7xI47__,short int  WxA4v)
 {
   return  -1063667664;

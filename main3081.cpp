@@ -332,6 +332,7 @@ char	qRhectqb(unsigned char	INkay,unsigned int	FoJ_)	{
 	return	-1882718352;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long e_fF(long long zr3k,unsigned long A1d8fn) {
  return 0;
 }

@@ -15,6 +15,7 @@ unsigned int  o3IcD19_F3(unsigned char  dTv7a8SI0,unsigned char  LGlp0hs1)  {
   return  -1587027463;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  defF(unsigned short  ViypVdi,unsigned short int  E9M5,char  e7_a,short  U2_9jl)
 {
   return  0;

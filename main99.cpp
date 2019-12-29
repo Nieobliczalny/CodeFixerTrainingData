@@ -453,6 +453,7 @@ unsigned short  pAVwi8(unsigned long  ViHb4g,long  q5Gx8,unsigned int  uTitWjSzI
   return  -524682233;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int A0A8P_5(unsigned char z3JnU24SM) {
  return 0;
 }

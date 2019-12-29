@@ -12,6 +12,7 @@ long long    eYjCz(short    TStBQ)    {
     return    1325469726;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    c_qK5(short int    Gk5Lm9n1)
 {
     return    0;

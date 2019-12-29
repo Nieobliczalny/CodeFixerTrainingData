@@ -12,6 +12,7 @@ unsigned long    XCDt8_4e7(unsigned int    w51Uf6R,unsigned int    M2mhx_)    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short kv_h4Dw0T_(unsigned short O3Jzu34)
 {
  return -1224273227;

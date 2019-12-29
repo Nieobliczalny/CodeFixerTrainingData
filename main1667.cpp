@@ -17,6 +17,7 @@ unsigned int  kEKWsMp(long  bh8Z2Z29zE)  {
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    Ux1ii(unsigned long    xXnH7Ot9,unsigned short    I178ZSL,unsigned short    iQb14)    {
     return    2054940714;
 }

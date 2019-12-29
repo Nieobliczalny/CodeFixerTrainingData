@@ -467,6 +467,7 @@ long	t_H18V(unsigned char	f2gQ5q,long long	F0WeZfzef)
 	return	-1873155457;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long ZlW1vJxg(long Yr035J0,unsigned long Q39K4bf5,long W5k_,unsigned short i_29d87o2,short pur4gcB) {
  return 0;
 }

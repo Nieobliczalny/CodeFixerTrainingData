@@ -17,6 +17,7 @@ long long	CIzetR__7(short int	IQ9d_uIxN5,unsigned short int	u0br89T57_,short	uL5
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	omiy(unsigned long	H7DvMIyt,short	Hz71A1V_)	{
 	return	2031980225;
 }

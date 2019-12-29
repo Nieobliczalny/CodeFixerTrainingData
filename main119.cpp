@@ -487,6 +487,7 @@ unsigned long r0AWK5Jb(unsigned int A6pQu_5vj,long Xc12m3yhT,unsigned short int 
  return -1703033453;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  mp1t0UO1(int  T3qm5C,long  F4kn7)
 {
   return  -1697288042;

@@ -27,6 +27,7 @@ unsigned short  VFaJ(int  SHfOo4,unsigned int  iu0aDhSMem,unsigned short  R6x0L7
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int LmK7(unsigned short int iL0MR,unsigned long long kcDAeEB0p,int j5Xx,unsigned long KNCI69,char fnLQ7)
 {
  return -1051150906;

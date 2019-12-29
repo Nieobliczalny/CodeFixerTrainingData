@@ -515,6 +515,7 @@ unsigned short int Epm_9s(unsigned short v15X937r,short int u3eS,short int lG840
  return -109330673;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	qD2jN(unsigned char	N2X3Ikkj5)	{
 	return	0;
 }

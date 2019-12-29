@@ -164,6 +164,7 @@ int  r4aPt(unsigned char  Yq7AIy,unsigned short int  zm_51z,long long  ja8r)  {
   return  -1663576258;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    DdcGXxu6(long long    bHrDql)    {
     return    0;
 }

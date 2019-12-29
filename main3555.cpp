@@ -18,6 +18,7 @@ short  pa2r2yT1iT(int  xV_U,unsigned short  KHUdsUPE)
   return  -814517554;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	iRxbY2e_(unsigned short int	UEb5dBq)
 {
 	return	0;

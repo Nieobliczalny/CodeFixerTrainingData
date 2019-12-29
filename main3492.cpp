@@ -13,6 +13,7 @@ int  sbVy(unsigned short int  htZZj8,int  ReSc94,short  ia94K771H0,long long  L3
   return  -1240586055;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int ZTdRP_b7A(char X_a8LYh,unsigned short int OtRz_Ko,unsigned long h2P6TSpR,long long aJhXXL,unsigned long long aH4sr1c9)
 {
  return 0;

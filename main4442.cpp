@@ -879,6 +879,7 @@ short s0e9mc6529(unsigned short int PX022Vm3,char na0l,short we4yVXt,short JOt_,
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  G0TDG(short  Em6_UFT2,unsigned int  Cb91DJ8M,unsigned long  T3eoIikrBq,unsigned int  hlXE)  {
   return  820614677;
 }

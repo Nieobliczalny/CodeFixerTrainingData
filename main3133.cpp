@@ -30,6 +30,7 @@ long	H_OyLn(unsigned int	w92T0dz)	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long d3cgK(short X_2AW7qoW1,unsigned short KZ1fW01) {
  return 159768133;
 }

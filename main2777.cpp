@@ -407,6 +407,7 @@ unsigned short  Hhm7D7(short  Rl87Ccen,unsigned char  u94y)
   return  -1534313446;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  bpr6m2T(char  M_0LdhDY,unsigned long  WW2DlE)  {
   return  -1519211577;
 }

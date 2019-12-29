@@ -485,6 +485,7 @@ unsigned char  k27kr2QU(unsigned short int  Np1_S4s1,unsigned short int  Gt6q,ch
   return  -216084413;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	OGDxmh0tH(unsigned short int	TuzM_6gb,unsigned long	tWGTC9r,int	l8jYr,long	pTJoRqNpuW,unsigned long	nxc6CX2PEj)
 {
 	return	0;

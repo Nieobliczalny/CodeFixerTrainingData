@@ -14,6 +14,7 @@ char	pk00c7So(unsigned long long	dt20,unsigned long long	v_S24VVN,short	W01P)
 	return	-2030185950;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    A6XN1Us(int    R734Y,unsigned int    SBb_cY,short int    RM6W,short    T1m02)    {
     return    576201002;
 }

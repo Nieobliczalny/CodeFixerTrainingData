@@ -332,6 +332,7 @@ char	C9dr(unsigned char	C42rkp,int	GSoh5)
 	return	-1099156230;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  o14cR5G(long long  J76aKUh05L,unsigned short int  u496,unsigned short  sx4gqPwf_Z,short int  NkU79zr6S,unsigned int  ZiBj4)  {
   return  0;
 }

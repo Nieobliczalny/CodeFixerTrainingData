@@ -727,6 +727,7 @@ unsigned long	W4ST(short int	G0_eJjQW8,unsigned short	rz9oKZFG,unsigned short in
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int Ahxz761O3h(long long e0ga1PkJ,unsigned long kg8zO6I1DR,unsigned char XS21GrEay,unsigned char q1_H1k20,long eKu0c_7)
 {
  return 258912448;

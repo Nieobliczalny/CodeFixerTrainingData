@@ -18,6 +18,7 @@ unsigned long s2jGpL(char Wh1pq45K46,unsigned short int NY_E0Pa2,unsigned long l
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     unsigned long    eqbw_;

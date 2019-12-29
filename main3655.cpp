@@ -509,6 +509,7 @@ unsigned char	rUv9y_7w7(unsigned char	U5tBhimg)	{
 	return	1321046507;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char Nu1vJA7(unsigned long long eG3a,unsigned short RZ2J7VFC3,unsigned char ZBNTY,char q37U7b) {
  return -1826584463;
 }

@@ -366,6 +366,7 @@ long long	QL5T(unsigned long	E2d2sR,char	z7_L24udiv,int	hxt4H,short int	OXb249B)
 	return	-965317858;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int qrTIU9_9j_(short G1YK1epZpg,unsigned short tU1_o,long yXehN_8L) {
  return 381342493;
 }

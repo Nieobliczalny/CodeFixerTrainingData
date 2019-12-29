@@ -148,6 +148,7 @@ int    Pqs2n()    {
     return    -770877369;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long lIU9(unsigned short int xkkCoeTZAH,char A88j) {
  return 0;
 }

@@ -17,6 +17,7 @@ unsigned char	vyyK02Q(unsigned int	buEVz)	{
 	return	-1998981072;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  X8o5Q(unsigned int  Q5wJd6r6f3,unsigned short int  J2H7N,long long  FSY3C3,unsigned long  FQ5O_EmC,short int  rWycv)  {
   return  0;
 }

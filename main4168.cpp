@@ -245,6 +245,7 @@ unsigned int	F8RnfPb6I(short	hbzst)	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	C5U6H(long long	ohM9pn1rz,unsigned short	YhrivrY9M,unsigned int	Zuco85P)	{
 	return	-133862163;
 }

@@ -13,6 +13,7 @@ int  mT5Pi(unsigned long  MM87,unsigned int  B5F82410hf,unsigned short int  lTT7
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short  qlgo7S(unsigned long  nJP64ra5,unsigned int  Ph5oOqs8H9)  {
   return  -234829206;
 }
@@ -27,6 +28,7 @@ long jvwE6(unsigned short ixM02bB8,unsigned int WuSb,short iN2Z_,long long pX16L
  return -1511374904;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	unsigned char	o8C_Wv;
 	o8C_Wv	=	-93162556;

@@ -14,6 +14,7 @@ long long RDB3_nf(unsigned long long RMbn2nG,unsigned int GIX1tzS0,short l3cjS6L
  return 269374990;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	gn5HY_9P(short int	J1R4SgK,long long	n3qRPTdB9,short	rpbL)	{
 	return	357731262;
 }

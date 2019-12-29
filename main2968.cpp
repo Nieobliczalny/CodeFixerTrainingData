@@ -21,6 +21,7 @@ short int	D7gmnEXqpU()	{
 	return	1323939628;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short Gf70(unsigned short I4_r) {
  return -809277300;
 }
@@ -31,6 +32,7 @@ unsigned long long  tk6x(short  UCcUW1eD_n,long  MP7Ha2,unsigned long long  U0p4
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short tp_KQe90_(short int z72hDt,unsigned short f6yb2,char A84qTiga,unsigned long long Xe_x,long c3N4)
 {
  return 1708745072;

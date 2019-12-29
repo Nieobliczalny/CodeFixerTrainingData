@@ -598,6 +598,7 @@ unsigned short int Bt4_D9(unsigned long long eb3K4HGA7z,char yj__Ph5wv4,char uu8
  return -80466666;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int U8DYuRVo(unsigned long long Fxzw9TbG,unsigned short ddp_3VN,unsigned long Iv4s,long long pEvpwW7Q2i,int ndBm) {
  return -58092590;
 }

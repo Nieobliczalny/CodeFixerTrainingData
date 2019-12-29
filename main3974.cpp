@@ -172,6 +172,7 @@ unsigned short int k1igsydx2(unsigned short OGa5,char mQRK5KL_,unsigned long lon
  return -1589286941;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int k86braz_R(char CfZnU) {
  return 0;
 }
@@ -185,6 +186,7 @@ unsigned long  P2KzV(long  rRV_1,long long  k30pE)  {
   return  -389347222;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int k4ls3EvdMM(short int sZS6,short bxFt,unsigned short f4MBoU) {
  return 938598157;
 }

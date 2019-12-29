@@ -18,6 +18,7 @@ unsigned char	eCiw8hSl(long	Dlot7Aed,char	HzUSPZzt5,unsigned long long	Gs_my2)
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int As7j(unsigned short int E68V2662) {
  return -520910998;
 }

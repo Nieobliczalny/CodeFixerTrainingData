@@ -384,6 +384,7 @@ unsigned short int  MQ_cmh(unsigned short  O80RCo4T8,long long  z3lV)  {
   return  -573599223;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	LA3QV9q(int	KX03f_RY,unsigned short int	dk5GlT_z,char	T72dI7n6,unsigned long	Pbo4)
 {
 	return	-517695377;

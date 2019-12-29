@@ -519,6 +519,7 @@ short    QnbA1r2d(long long    jQt_ICO__,long long    m5rh6eM,unsigned long long
     return    2057380183;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    Y_zgLqj41(unsigned char    jHcImu7,unsigned short    FC_96)
 {
     return    0;

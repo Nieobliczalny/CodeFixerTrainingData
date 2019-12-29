@@ -608,6 +608,7 @@ unsigned short	khE06X(unsigned long long	agi8Ih,unsigned short	o_c4RVx3O,int	bu8
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long WoBE(unsigned long d1Pt9,long lj4vJB10a) {
  return -1701031713;
 }

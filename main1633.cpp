@@ -13,6 +13,7 @@ long long	WT3m414bgr(unsigned char	qIHr)	{
 	return	-831017305;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long UlPDBY(char QD4Y4,long long y53B9ZXSL1,short int Dmj09F8K4r) {
  return -189470501;
 }

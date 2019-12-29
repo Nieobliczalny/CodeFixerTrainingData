@@ -605,6 +605,7 @@ unsigned long long A9aZK79QT(unsigned char K1FBmwY0,short d8qmzaD,unsigned short
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int CAtg11c(char qTdD14FIl,short Y5012Q,unsigned short int YkB495ekl,unsigned short GB_kjy,char B947) {
  return -1166048709;
 }

@@ -12,6 +12,7 @@ long	E_ZC607(int	n0lz9,unsigned long long	f0l5n8,short	DEiUwKUD,unsigned short i
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	QaRo_afZ20(int	L81gNuLEd,long long	Lwe4N_bYeY)	{
 	return	2084000708;
 }

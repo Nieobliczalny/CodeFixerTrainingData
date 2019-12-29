@@ -14,6 +14,7 @@ unsigned long y0j707p(unsigned char Ciu_A5)
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	long	U01vZ	=	723211577;

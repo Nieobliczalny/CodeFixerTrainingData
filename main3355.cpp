@@ -572,6 +572,7 @@ long c90Vd(unsigned long long FFzzFYdu)
  return -1087191348;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    g2XDa17(unsigned short    wz_SX9,int    I0C0789,long long    eo5rxzRDQE)    {
     return    0;
 }

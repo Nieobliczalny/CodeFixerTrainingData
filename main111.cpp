@@ -346,6 +346,7 @@ unsigned short int    rP7iAMom(long    doZY,long long    f7_00Kk,unsigned int   
     return    -1559530552;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	ssH_IGnu(unsigned short int	uoVh)	{
 	return	-370617270;
 }

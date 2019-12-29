@@ -13,6 +13,7 @@ unsigned char    G27bHI(long    yqLpg1G)    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    S55vxPN(long    XmOiG)    {
     return    1217453413;
 }

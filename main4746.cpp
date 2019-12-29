@@ -17,6 +17,7 @@ unsigned long	j4QOGH(unsigned long	w8ESgz,short int	Ob6a,unsigned long long	G5vX
 	return	-542339286;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long xeRD(long long lTdA5b4C,unsigned short s19lIo0r,unsigned char asRAv2i)
 {
  return -274334287;
@@ -31,6 +32,7 @@ short F2hkg6(long p8xP) {
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	char	xsY519_	=	0,	D18o0dB	=	0,	lXdG_	=	0,	P1_I1M6	=	0;

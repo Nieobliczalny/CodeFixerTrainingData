@@ -13,6 +13,7 @@ short cJJb7_7U7c(short zA166o3,char HjRjBF0jU) {
  return -2052729465;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char o0m7wkQ8(unsigned short G9iC4P,long long vLPzuF1244,long ewbgJdSL1,short int tgrw_90rW,unsigned long lsN2O50Dk)
 {
  return 0;

@@ -730,6 +730,7 @@ unsigned int trafh0DuJ(unsigned short int yDi88uE23g,unsigned long long A34_rw9e
  return -1482865717;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	VH5j(char	Gqwp1ezjz7,short	dvM_i42my,short int	a5L52rbGG,short	aPY25uOY5,char	CyN53wR2B)	{
 	return	-83071097;
 }

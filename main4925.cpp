@@ -525,6 +525,7 @@ unsigned int    j0bR5r(unsigned short int    e8NYL54,unsigned long long    Bf76,
     return    -1645778049;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    N6GXifClN_(unsigned int    b20Tm,unsigned long    hAoMsT,long long    m1j_H)
 {
     return    0;

@@ -408,6 +408,7 @@ unsigned long long wt7FBe0qyD(int tN8_2) {
  return -1746032142;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  HR5HYg_LI(short int  IUCD79)
 {
   return  0;

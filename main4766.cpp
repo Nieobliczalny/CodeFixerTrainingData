@@ -361,6 +361,7 @@ int    ev96EtiyH9(short int    PwJT4SHL_,unsigned short int    T605,long    H9dK
     return    667179115;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	ch3_NT6(unsigned long	Wi9V7M2,short	e28r,unsigned long long	vX0QD)
 {
 	return	0;

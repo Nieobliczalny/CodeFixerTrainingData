@@ -480,6 +480,7 @@ unsigned short int  t2y283g(short int  jx1w,short int  K6F65Sk)
   return  -869061663;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int z6W1PGx(short int P01Ro,int r20g63fx0,short rZyUQxs22_,char JW3QU,short int qRvth) {
  return 1628362421;
 }

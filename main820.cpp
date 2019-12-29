@@ -376,6 +376,7 @@ short int H2c0(unsigned short rRP9fNTm0,char JT3P,unsigned long TgSI7a_,long NpI
  return 452174608;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  Y_O37i1_(char  mj45FxWfz,unsigned short int  Bc_v,unsigned short int  bgXWoCtjkW,short int  wY75cT0,short  aijXXpX)  {
   return  0;
 }

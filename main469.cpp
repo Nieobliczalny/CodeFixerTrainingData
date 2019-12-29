@@ -18,6 +18,7 @@ unsigned long long    Rt4uwOTjd(unsigned long    Wc8_,unsigned char    q9rhJm0ms
     return    468475689;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char a4B49Y(unsigned short int o61NJc,char jPQ9H9gQhc,char T68n9P56b,short int xXHqRNeaq,unsigned char XMtbrXI)
 {
  return 2000277171;

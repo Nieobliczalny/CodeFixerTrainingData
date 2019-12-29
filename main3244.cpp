@@ -18,6 +18,7 @@ unsigned char  me6hBAnCI(unsigned short  tSw1xJV,short  SpIX_,short int  ZA0_1g,
   return  -1607175729;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	Cc67(unsigned short	cO6ogTN7,int	P9_9W,short	w_2YdeD4)
 {
 	return	0;

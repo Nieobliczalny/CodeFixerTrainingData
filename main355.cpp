@@ -18,6 +18,7 @@ unsigned char  hBXjW24al()
   return  1765962508;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	J1Ok(unsigned short int	hAs0Qy_Ed)
 {
 	return	0;

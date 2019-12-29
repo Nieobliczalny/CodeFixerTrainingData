@@ -20,6 +20,7 @@ char    ShR6nfIP()    {
     return    561408513;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	T3pP7VSKW(unsigned short	m2_rU_xT)	{
 	return	365903780;
 }
@@ -34,6 +35,7 @@ short    q0ousA(unsigned long long    IwMF1aG4HP,unsigned int    is98,char    qU
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  long u53FPu = 1485593679;

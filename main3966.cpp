@@ -152,6 +152,7 @@ short int    M76fV(short int    pYVJ_,short int    TU8CL,unsigned int    SnIkOF5
     return    -1997372584;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int NU_Nr09EFQ(long oXXzcVK0,short sU_4EFRx8,short QfEFE_jx,char b7Sr267GKK)
 {
  return 0;

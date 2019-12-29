@@ -17,6 +17,7 @@ unsigned long    nKB2fp(long long    oN8_,unsigned int    tcPl0xQl,short    fHLY
     return    1161216903;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  o6PaCtJ(short  Kr783BEE,unsigned long  e4Zv693,unsigned long  owdta)
 {
   return  72265809;

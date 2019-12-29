@@ -16,6 +16,7 @@ unsigned short int    BvpxaZ3lz7(int    sS3JQi4Hqz)
     return    -1643645693;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int ObU8MtZ1_o(char Nhn64b,unsigned short PP72cFrp)
 {
  return 0;

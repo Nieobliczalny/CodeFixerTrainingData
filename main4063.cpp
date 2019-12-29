@@ -505,6 +505,7 @@ unsigned short    lGgeo_IHps(short int    Tyc0PHG6c)
     return    -105395697;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int q0qNq81(unsigned char g0lh3,unsigned short int G3q0Vj4,unsigned int KsH_833Bw)
 {
  return -1529780786;
@@ -516,6 +517,7 @@ unsigned short int  x2y_(unsigned int  YVo91)
   return  1490795393;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    wcUv(short    O646cPN,unsigned long long    QUd8YkI1xn,unsigned short    qnS_k,unsigned short    O97t1Xo)
 {
     return    0;

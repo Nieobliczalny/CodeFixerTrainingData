@@ -562,6 +562,7 @@ short int  pB_D0Lk(int  kR5n,unsigned long  CMtI2JglIt,unsigned long long  X0HG,
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    AX9jU6(unsigned short int    tlPg_1,long long    EI3uG6)    {
     return    848425833;
 }

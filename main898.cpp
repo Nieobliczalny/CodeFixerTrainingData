@@ -680,6 +680,7 @@ short int	Dxe_a0sj()	{
 	return	-1080347272;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	ECteaKBSV(unsigned char	w_i0SgWh)
 {
 	return	-401283513;

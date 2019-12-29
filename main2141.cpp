@@ -860,6 +860,7 @@ unsigned short int    VB_eamM_(unsigned short    qY92I,char    eM0ktJctH,unsigne
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  YxT7Ki3(unsigned char  rZB1,short int  t02F58_Y,unsigned int  ERlJH,unsigned int  GzEOdVBT)  {
   return  -91402929;
 }

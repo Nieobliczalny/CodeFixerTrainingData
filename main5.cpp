@@ -18,6 +18,7 @@ unsigned char  jtC6_CHrA(int  vX98rl,unsigned long long  Ay_dNts,unsigned int  L
   return  543523470;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long a_84R(unsigned char WExX96,long vDNX1d,short I9d3MRs,long long vljME_g) {
  return 0;
 }

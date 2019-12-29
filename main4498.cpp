@@ -15,6 +15,7 @@ short    s5_k47oMf7(unsigned int    qbJfPjJ2,int    JTY1v4gx7T,char    Vy_V_,lon
     return    -1015864095;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  tT_u(unsigned char  v2ZS1)  {
   return  -36327822;
 }

@@ -14,6 +14,7 @@ unsigned char h517(unsigned short int dI5QI5G,char YCj4,long I9z5)
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int m2_6(long long Wsnb,long long JOW5AZg8,unsigned long long LR8Q) {
  return -2008612165;
 }

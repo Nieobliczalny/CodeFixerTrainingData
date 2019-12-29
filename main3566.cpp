@@ -618,6 +618,7 @@ unsigned long long	vMv2ykF2(short	rqxk5,long long	c0TPfK,long	GKX_5Q1)
 	return	-588115547;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    H24toad1(long long    x3S9dO5Mxy)    {
     return    0;
 }

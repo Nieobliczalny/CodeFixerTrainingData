@@ -42,6 +42,7 @@ unsigned long long    ym0gb(short int    RKk_mL9,unsigned char    POzL6)
     return    -1498430477;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   short  qk4bME  =  -2025995254;
  unsigned short DFWj1 = 0;

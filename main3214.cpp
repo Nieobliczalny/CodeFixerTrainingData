@@ -18,6 +18,7 @@ long long    gtO6KaUCP(unsigned long long    XveTz3686C)
     return    1137137755;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	G_QK84rg45(unsigned char	bnAU,unsigned long	PxYBTuY,unsigned int	u5RvBV0k)	{
 	return	1756292604;
 }

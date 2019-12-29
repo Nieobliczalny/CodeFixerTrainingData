@@ -12,6 +12,7 @@ unsigned long	ysk9S(long	Y7we)	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char vC6txA(short int Gj37,long a6niG59q_,unsigned long long MaNQ) {
  return 511871771;
 }

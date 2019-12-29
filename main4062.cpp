@@ -27,6 +27,7 @@ short int	IO48i3P(int	p6kR5o_Pf)	{
 	return	-2064364079;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  O2I3O(int  r8klav,int  BVs0Q_Cp7,unsigned int  yi5Z1_F,long  C1XtPPB)
 {
   return  2123162923;

@@ -145,6 +145,7 @@ short int    pRoKjd3a(short    bFl_1iOB)    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int yyiPQQ__dH(long LNw_l20WL,unsigned short int K_7Vz) {
  return -1566418690;
 }

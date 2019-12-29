@@ -560,6 +560,7 @@ unsigned int	Ymd4(unsigned long long	vqo_zHAp,unsigned short	g7oa4XQI,int	ru1ZDV
 	return	-133865737;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	wFP5NJ(unsigned int	u3_G0t,unsigned long long	Wat__Fx,long	zDbI5)
 {
 	return	-923458060;

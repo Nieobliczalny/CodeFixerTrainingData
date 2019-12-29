@@ -585,6 +585,7 @@ short    bdD0NQQ67(unsigned int    jSw752,unsigned char    ge_gu684T0,short int 
     return    -1543661749;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  ObFy(long  xf9yFG5hb_)  {
   return  -439100404;
 }

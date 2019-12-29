@@ -250,6 +250,7 @@ long long  dQ2p8(short int  epu8_nk6Y,unsigned int  mQZ_1,char  VP2_M0B,long  Dc
   return  933086759;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char Yk_TNR_(int YUKszYh,unsigned long long J36wY,unsigned long long x_4__,unsigned long long xDX_ix,unsigned short int K5b61)
 {
  return -439701458;
@@ -260,6 +261,7 @@ int    X8Sxx(char    dRQ9gZ3,char    DGkp)    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int T2EIpDXU(unsigned short int mH1y9,short eMfg4_l)
 {
  return -1635978154;

@@ -686,6 +686,7 @@ short	Bn5_ZI9Ean(long long	gXPYe,long	wlhsmIz,short int	e14z,long	z0RaC)	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short yegyE5_(int VvxKX90,unsigned long long Zsy1,short EMuK,short bASd4r) {
  return 680672172;
 }

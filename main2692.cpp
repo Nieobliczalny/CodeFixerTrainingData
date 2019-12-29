@@ -578,6 +578,7 @@ long W1VTS() {
  return -480158475;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  s0tU(unsigned short int  IH10n95Pow,long long  CJ6hB,int  MJ7w2YHD,unsigned short int  b5k4qEy14,unsigned char  d9gr_9al)
 {
   return  0;

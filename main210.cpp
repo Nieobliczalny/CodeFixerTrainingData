@@ -485,6 +485,7 @@ short int    M7NHEeV0(long long    oeYp6,int    npFTa9H,unsigned int    o6FjtP5,
     return    649650687;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long L1Vy3(unsigned short B5v0c,unsigned short int fU_qo_a,unsigned char ZOx72ia4E) {
  return 0;
 }

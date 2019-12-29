@@ -23,6 +23,7 @@ unsigned long	J9v433gi(short	PLlS9Z6Z,unsigned long	ZKnXf438,char	z21dAd,short i
 	return	1106578345;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    w45L(unsigned long    p7a9oSw1m)    {
     return    0;
 }

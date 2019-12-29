@@ -16,6 +16,7 @@ unsigned short W8Bk(unsigned short int OiHIm,short int QqT97R4_Z,long k_9O3t,cha
  return 2051199546;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	zw_B(unsigned char	BEd5qW,short	r2gUyvFP,unsigned char	NThid,unsigned char	G5F_x3)
 {
 	return	0;

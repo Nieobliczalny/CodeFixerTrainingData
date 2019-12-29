@@ -15,6 +15,7 @@ unsigned long kK26j(char Z02RIGY7o6,short int p9krg4sU,unsigned char ggMOmx,unsi
  return 90925201;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  FE2joHQF(long  fWO7S,char  QcT_2J6bfS,short int  Ti2k0Do05K,int  r2Nf2,long long  HGv2Z)  {
   return  0;
 }

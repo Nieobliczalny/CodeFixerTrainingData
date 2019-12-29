@@ -276,6 +276,7 @@ short  LQ8u(char  q2ybO,char  nIBECPP92,long long  ZB29A,unsigned short int  P_6
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int vwC2K0xKco(long lc5_nG) {
  return 2053381436;
 }

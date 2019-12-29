@@ -18,6 +18,7 @@ unsigned char    xB57m3ARg(long long    nTH3_fBhW6,char    dIim)
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	unsigned short	xAj6MsW9,	LFs9dfR1AY,	G80KC_zFM;
 		xAj6MsW9	=	LFs9dfR1AY	=	G80KC_zFM	=	0;

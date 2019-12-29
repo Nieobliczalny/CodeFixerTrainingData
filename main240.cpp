@@ -307,6 +307,7 @@ unsigned char	AY3XH7j_h(unsigned short int	uzKhLnr,unsigned short int	i_Wi_YNO7,
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    pvIw(char    uRN1Nzd2U)    {
     return    -1000073607;
 }

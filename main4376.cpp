@@ -20,6 +20,7 @@ unsigned short int oL16JlEF() {
  return 851419061;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    yG7r(unsigned short int    HJnY,unsigned short    a05vLB5w,short int    ZaZ5uIh3Sc,unsigned short int    am312HtqJf)    {
     return    676050146;
 }

@@ -25,6 +25,7 @@ long    C7_Jl2Xl()    {
     return    1214613691;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    cv3ibEp5(unsigned char    vE5bdcOqY)    {
     return    -1582062610;
 }

@@ -395,6 +395,7 @@ unsigned int	eYkB(unsigned char	rMDXb,unsigned long long	M76rM,short	e94dsQGa,in
 	return	-1958534199;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  kg57059C9(long  g4_8)
 {
   return  1064686579;
@@ -410,6 +411,7 @@ unsigned short  Dx6882BT_(int  bnKXA,unsigned short int  Aj2Z4B8_,long long  NJ_
   return  1982458737;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	U9tdbPRo(unsigned long	gQh895r)	{
 	return	0;
 }

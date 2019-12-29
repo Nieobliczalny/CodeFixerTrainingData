@@ -13,6 +13,7 @@ long long  Qrs0yHN39Z(short  aTli,unsigned short int  k5S8xox,unsigned char  S__
   return  -1672426657;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    aLdmpwM(unsigned short int    RX4Yi1y4c,char    RkQx0_W,short int    KyFc7s,int    b73A_ycNG)
 {
     return    0;

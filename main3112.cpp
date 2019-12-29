@@ -379,6 +379,7 @@ short int t7J4ji51X6(long KGHH106E,short dS_76jqP6)
  return -2061977223;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	rb0mC2(unsigned short	VlGnI)	{
 	return	0;
 }

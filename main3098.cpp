@@ -18,6 +18,7 @@ unsigned long long	qqHq()	{
 	return	-1289743386;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	unsigned long long	qU_z8	=	984859334;

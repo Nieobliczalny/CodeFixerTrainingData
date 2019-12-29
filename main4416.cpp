@@ -12,6 +12,7 @@ unsigned char X45fxU5H4(long oYEpBa3u,int OlTZ5Gd) {
  return 823843269;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  z30hNlv9m(unsigned long  ENhb,unsigned short  h0Hgh,short  K61aAz_,short int  l88V404_4E,int  Fsv3wJ1_7J)
 {
   return  -284781856;

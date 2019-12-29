@@ -283,6 +283,7 @@ long long  lrtL8eIB3(unsigned char  rU51,unsigned int  qLA7NrI_D)
   return  -1739762315;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    b_nxo(short    W9_i,unsigned short    i7wUph7)
 {
     return    0;

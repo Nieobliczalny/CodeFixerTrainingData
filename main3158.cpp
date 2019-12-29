@@ -17,6 +17,7 @@ unsigned short int  j6a6Y()
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  CcE2(unsigned short int  ierzX3,unsigned short  QV_T4G2,short  jW0GHEpG5A)
 {
   return  -714333116;

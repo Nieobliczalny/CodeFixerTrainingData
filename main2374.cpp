@@ -13,6 +13,7 @@ long TckctaQp5(unsigned char yN9_5V,unsigned long long KLvgL7V,int E9IJB46k_f) {
  return -1721011344;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    dBg55V2(int    MfiSY88,unsigned char    l9sagH_N)
 {
     return    0;

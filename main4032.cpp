@@ -18,6 +18,7 @@ unsigned int    SBZ24vNW2(short int    YVohy7_6D7,unsigned int    JKMw,int    Ip
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    shhUiX(short    QKNfH,int    v3N8,long long    h52Y4vm,unsigned char    P_FD7lh0,unsigned long long    v_S68X3Vq)
 {
     return    -106989887;

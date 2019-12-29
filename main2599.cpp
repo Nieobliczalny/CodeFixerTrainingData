@@ -859,6 +859,7 @@ unsigned int EAjGI47(short VurhpHQQ7X,unsigned int BR0PlOXv,unsigned long long F
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  iibg3_75(short  tuiLqaIf3,unsigned char  VNk51YH,short  d_t6iN0vC,long long  J098A55,long long  AKwdH1bE)
 {
   return  -681081850;

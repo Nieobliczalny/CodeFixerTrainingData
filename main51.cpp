@@ -15,6 +15,7 @@ int    LmQ1(unsigned long    UTxT,short    cp_K)    {
     return    723755089;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  ES5va6(long long  P2o6E0Q6,unsigned char  yYz3,unsigned long  p_2Y7bx)  {
   return  1863544391;
 }
@@ -28,6 +29,7 @@ unsigned short    nuMG(unsigned int    uG6Osto,unsigned long long    g9wfQBQH,lo
     return    -326539655;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	qa55v(unsigned char	q6Zbc)
 {
 	return	-1468449940;

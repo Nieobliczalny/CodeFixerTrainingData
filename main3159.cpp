@@ -17,6 +17,7 @@ unsigned int	Z_MDN710r()	{
 	return	1791990778;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  rL8V(unsigned long long  T0360tHc__,int  Y6sb)  {
   return  -1262705114;
 }
@@ -31,6 +32,7 @@ unsigned short	xvJ8Yp517(unsigned int	V4La829,unsigned int	rm1_,unsigned long	jY
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  short IRckj2y;

@@ -100,6 +100,7 @@ unsigned short int EPyA63(unsigned char eN65qv3S,short p6Q_cMUmir,long B3X3q,uns
  return -1208771321;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  GLINK_z1a3(char  v56a,unsigned char  ec4FX2UV,unsigned long long  i2CBC,unsigned long long  g3YDdlJC)
 {
   return  0;

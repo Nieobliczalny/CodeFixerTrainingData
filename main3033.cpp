@@ -17,6 +17,7 @@ unsigned long	L5HuLg8(int	hX4L,long long	sEVK0s7xN)	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	long	Bt5x3Ty7V;
 	Bt5x3Ty7V	=	-936446836;

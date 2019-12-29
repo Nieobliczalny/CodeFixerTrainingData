@@ -380,6 +380,7 @@ long	TeBFx_o881(unsigned short	yC7Lt)
 	return	1940921679;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long BRU4(unsigned long long O4W_qd94mx,int p7IbLC_,unsigned int VCr0R1NPo,unsigned long long f8yS7Anz__) {
  return -1873734070;
 }

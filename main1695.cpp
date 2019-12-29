@@ -322,6 +322,7 @@ unsigned char    f7Ba4N(long long    iwqBZweQz,short int    QLwiQ0Hkv,long long 
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  y_sI(unsigned int  MTn92ctAIr,short int  V4XcZ_r29,unsigned int  e9Iw)
 {
   return  -983655376;

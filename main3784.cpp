@@ -17,6 +17,7 @@ char    d6Mu(unsigned char    YnYDXIWwLl,short int    i9y2xu)
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	unsigned short	kT2YcFi	=	0,	gtisNKX	=	0,	Iuprw38	=	0,	GQ2_WFq55	=	0,	q_C8_8r	=	0;

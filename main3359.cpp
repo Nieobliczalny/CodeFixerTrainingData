@@ -16,6 +16,7 @@ unsigned long long    QZql(long long    EFxT05Fwjr,unsigned short int    i5WZu0U
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  double JyMBHJ_ = -1255316406;

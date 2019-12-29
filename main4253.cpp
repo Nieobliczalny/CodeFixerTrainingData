@@ -14,6 +14,7 @@ unsigned short int    e4v8l9(unsigned short int    iZz6x6,short    uPxr,int    e
     return    1215779233;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    i_2OC3(long long    KdBPjRlMR2,long long    a0k0j)
 {
     return    0;

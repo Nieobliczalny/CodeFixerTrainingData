@@ -32,6 +32,7 @@ unsigned short    ZrXpXWFI(char    Qq6_4R,short    G3QC61Ft)
     return    1327779047;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  XMPMmC2(unsigned short int  bwTe09,unsigned long  x_NB0,short int  eiWpVt)  {
   return  721927029;
 }

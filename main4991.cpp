@@ -16,6 +16,7 @@ int  U9Y7F(unsigned int  Ag31N)  {
   return  185756593;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    MYsAdb9DpB(unsigned short    zad3)
 {
     return    18746709;
@@ -32,6 +33,7 @@ unsigned char    W3915(long long    SyFkzR88,unsigned int    uidG)
     return    -2015082384;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	skag(unsigned char	TsUs4K,unsigned int	i0DArED,char	RyjolcWNG9)	{
 	return	0;
 }

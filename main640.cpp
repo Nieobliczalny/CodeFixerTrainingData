@@ -19,6 +19,7 @@ long long	NIt0B(long	Mmr7,unsigned long	kNYr,unsigned short	HH9kahz,unsigned sho
 	return	-505525602;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	xz1J3(int	horx9Ri)
 {
 	return	910652070;

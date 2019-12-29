@@ -22,6 +22,7 @@ unsigned long long	oe3C_G1(short int	c8nY_,long long	PlcHD54ax)	{
 	return	1975952966;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	VO_qND_2B(short	vtLPEHl5)
 {
 	return	0;

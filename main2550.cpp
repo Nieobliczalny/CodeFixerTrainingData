@@ -674,6 +674,7 @@ unsigned short int    VP93bVH48(unsigned char    Tvm48uGKkI,short    Fhm87d4y86)
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    R4_1e(unsigned short    CXg6u)
 {
     return    -1237280701;

@@ -17,6 +17,7 @@ unsigned char	x2I0aH(long long	Ess06kp1k,unsigned int	G0zhTZ8EI_,unsigned long l
 	return	-778576696;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	hF69u(long long	CkrSJ,int	lti_BS)	{
 	return	632650871;
 }

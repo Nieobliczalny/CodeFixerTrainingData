@@ -17,6 +17,7 @@ unsigned long	kIIU2(short	HJuxZuU,unsigned long long	tht4d61C,short int	Zw4r)
 	return	-2129835889;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    a4_6FIrSLC(unsigned long    Z65RfF57,long    iWlAW0,unsigned int    I3k_9,unsigned long long    Ip8W31)
 {
     return    0;

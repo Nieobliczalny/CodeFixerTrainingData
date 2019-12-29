@@ -744,6 +744,7 @@ short int  eG1z0_()
   return  1079529362;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short zcljC(unsigned long long AwV8r,unsigned long c5vMKKk)
 {
  return 0;

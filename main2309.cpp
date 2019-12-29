@@ -18,6 +18,7 @@ long long O_K7(unsigned short int l3pDI2FTdS,char o_L9sW73JX,short int Qq2VN)
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   unsigned char  HaQ_v8S,  y4l1EpE,  NclJ3;

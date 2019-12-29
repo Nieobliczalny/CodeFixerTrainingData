@@ -17,6 +17,7 @@ unsigned int	KwPE6AkTjh(unsigned long	Hwh2f9OBMr,unsigned short	Nb32HA,short int
 	return	2112132825;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	o2pD3l_2(long long	yO629k)
 {
 	return	0;

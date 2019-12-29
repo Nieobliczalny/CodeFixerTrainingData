@@ -231,6 +231,7 @@ short	iuXT()	{
 	return	-1916558302;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    Dc1u_rM3(unsigned int    UlK2Ok)
 {
     return    1745783722;

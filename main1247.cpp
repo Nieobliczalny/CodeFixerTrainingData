@@ -19,6 +19,7 @@ unsigned short int	L48E(unsigned short int	i4Xv,char	Ts66gsi)
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    Y7uZx(short    Jtj_Ia0Ob,unsigned short    TopwC1_cxT,unsigned short int    q4_Nv81v67,long long    F5C_O733b,unsigned short    eAR_A31oq)
 {
     return    994514446;

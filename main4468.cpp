@@ -15,6 +15,7 @@ long	nSlAy_63(unsigned short	YrMl6,short	Ha2rItwa,char	ocpW0,unsigned long long	
 	return	-1923591407;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    CDyxIg3r(unsigned int    Ih24,unsigned char    YA_62Qtj7T,int    iB7YZGt76,unsigned char    wRvA_,unsigned long    SJ49hm)    {
     return    0;
 }

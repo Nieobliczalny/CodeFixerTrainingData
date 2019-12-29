@@ -364,6 +364,7 @@ char K60c6(short int Z4Az_,unsigned short int v2H13,unsigned short int z7ebzHFI,
  return 1467405759;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int A1x7HeuRji(unsigned char QWC4gc,unsigned long long B5sBv2R0,unsigned char Lu04_AZV_)
 {
  return 474917905;
@@ -378,6 +379,7 @@ short int  iRHq(unsigned char  M0kx)  {
   return  -1068845356;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    B_bXI(long    lQ_GJFmA,short    fsdq1GN8n)
 {
     return    0;

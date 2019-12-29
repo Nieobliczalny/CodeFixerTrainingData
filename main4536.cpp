@@ -385,6 +385,7 @@ unsigned char	mgo5P9(long long	W_46,long long	RMy8_jx0,char	Cfvk)
 	return	1109634120;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short  SaoDid(unsigned long  wlY58,long  z93d)  {
   return  0;
 }

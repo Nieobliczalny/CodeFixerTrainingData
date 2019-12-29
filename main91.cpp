@@ -12,6 +12,7 @@ short	tyOXa(char	X926,char	E96l73kvGb,long	hB7Y)	{
 	return	-1438317142;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  vdnM59v(char  q12e8IAo,unsigned long long  f1Z59KKFJ)
 {
   return  0;

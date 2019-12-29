@@ -13,6 +13,7 @@ short int sWdp(unsigned short x3Fe_,unsigned long long p6K5t) {
  return -1366660597;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    Kw4cas__F_(unsigned short    G8QFJu9,short int    f8BA)
 {
     return    -1492035065;

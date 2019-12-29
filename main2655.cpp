@@ -670,6 +670,7 @@ unsigned short int    A4dJJ8vCL()
     return    -1590759802;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    PFPeo(unsigned short int    J5diHNUZ,char    mq12huO8b)
 {
     return    0;

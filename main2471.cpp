@@ -945,6 +945,7 @@ unsigned int	rzkKoXIXz(unsigned short int	on3HiU_97V,char	dzwyfh,unsigned int	pV
 	return	-1231308009;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  m1w3U357(int  iJVJLmCO,unsigned short int  W5rj,unsigned long  D26mPp0,unsigned short int  cJG59d,int  u9FelL)
 {
   return  0;

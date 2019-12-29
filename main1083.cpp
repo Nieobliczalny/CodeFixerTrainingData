@@ -427,6 +427,7 @@ unsigned char  KvUK(unsigned short  hAggee1J,unsigned short  HOH9SlM52)
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	F_QT(unsigned short int	HhGo_,unsigned int	Fn9633)
 {
 	return	-1876469525;

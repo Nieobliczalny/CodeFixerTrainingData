@@ -294,6 +294,7 @@ unsigned short int    f09EwVw(short    L51z)
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short rKA42t1q(unsigned short int LCkXJwiGC,unsigned long long k3s_) {
  return 498900695;
 }

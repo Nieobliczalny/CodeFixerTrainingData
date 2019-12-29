@@ -22,6 +22,7 @@ unsigned int	e_DBC_q_8K()
 	return	1653920627;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  q2C7x9I7pm(int  Nkl4e6k,unsigned char  kKwUhTK6,unsigned char  jyHyka,char  Ug5dnFqO,char  a5eiiC)
 {
   return  0;

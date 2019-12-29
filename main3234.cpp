@@ -14,6 +14,7 @@ long	sTuE16Ud5_(char	gM477x5)
 	return	1972008999;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short uuCJiqll(char qbaW8bLoT,int Cz1UotxUJ)
 {
  return 0;

@@ -658,6 +658,7 @@ short int UycGa(long long L2sjh1nm,unsigned long long X4c9P)
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	i1TyH8(unsigned long long	IH88PZw)	{
 	return	-798038142;
 }

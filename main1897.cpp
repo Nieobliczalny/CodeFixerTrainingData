@@ -309,6 +309,7 @@ unsigned char RLz_6_0qS(unsigned char lx4N,unsigned char OVeVHC_f)
  return -1388787058;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int w6_f(unsigned short a2bkC4h,long TKeEyMLqG,unsigned char Wc4Y2cD,unsigned long long NjtKO8_zf,unsigned long jW2_wpY) {
  return 0;
 }

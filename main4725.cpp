@@ -235,6 +235,7 @@ int s6P6fSkG2() {
  return 1555546976;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    S37pTS(int    a7_8o,int    ea8eD7,long long    OlNr,short int    Wq18WmJ4GY,unsigned short    dx4_6Y6)    {
     return    572320201;
 }

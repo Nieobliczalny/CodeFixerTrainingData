@@ -788,6 +788,7 @@ unsigned long b_6Y16J76(long gfm5_GcHn)
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	XP4__A(long long	v4ru970Bv,long long	uoR6,unsigned long long	rH2dQg_mgP)	{
 	return	-1045926584;
 }

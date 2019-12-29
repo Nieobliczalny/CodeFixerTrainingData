@@ -13,6 +13,7 @@ int  xcac1S(unsigned short  XfHC1h,short  Ni1_)
   return  -1438341687;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    rLQwtM(unsigned char    Lzbcx,long long    RCMI4)
 {
     return    191831318;

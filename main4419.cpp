@@ -538,6 +538,7 @@ int    XCNWT(unsigned int    WmEV3l_a5,short int    Wz9qzxv36N,unsigned char    
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    ZrqrYq_X(unsigned short    iVwtU)    {
     return    -788702024;
 }

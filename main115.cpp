@@ -14,6 +14,7 @@ unsigned short  ua_NmM(short int  CMmF5)
   return  -52169098;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	F_SS8Cd1tA(long long	f1yC_k7qa,unsigned short int	f_356GxoGd,long	d9JP1mRP,long	Hw6w2,unsigned char	G1ad2k0n)	{
 	return	-1342978257;
 }

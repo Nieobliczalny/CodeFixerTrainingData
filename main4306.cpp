@@ -351,6 +351,7 @@ long long T49U3R69C(unsigned short RivDft,unsigned short int bSmb,unsigned long 
  return -1997790922;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	LoE26(unsigned long	w719k9t02,short int	qnB195itqi,short	wdsSzC1W)	{
 	return	1285823546;
 }

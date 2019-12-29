@@ -13,6 +13,7 @@ char	dFfl(short	ObrM3b)	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int q7_zL9jY(unsigned long long Q4qn9_,long long X0DiQ1an,long long Rb_O75,unsigned char iXbfJ0YW) {
  return 697949771;
 }

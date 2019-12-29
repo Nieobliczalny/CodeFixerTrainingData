@@ -22,6 +22,7 @@ unsigned int yA4dB8_x(unsigned int xM_Ppkld4,short int V6BO)
  return 1264472642;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	FSwVVs2__(int	Mz2n,short int	HKYc6gn4GS,unsigned int	C2Ju8me3S)
 {
 	return	0;

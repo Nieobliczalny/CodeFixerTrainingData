@@ -808,6 +808,7 @@ long long  qR12v98XuD(char  gS40)
   return  354771505;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    xTIK(short int    tlSJ0nw,int    Z_sAP)
 {
     return    0;

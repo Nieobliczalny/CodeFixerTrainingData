@@ -17,6 +17,7 @@ unsigned int    REFgRj(unsigned int    n7_9Xe,unsigned long long    r98lNChu1,un
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     long double    JPIflxN6B    =    -529446764;

@@ -18,6 +18,7 @@ int GY037im_3y(unsigned short int m9OAkf7s,unsigned int V9Pt_8ZT)
  return 1087898108;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    V25m8759s(unsigned int    zvg5Hs)    {
     return    0;
 }

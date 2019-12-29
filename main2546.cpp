@@ -16,6 +16,7 @@ short J030N(int GHj1,unsigned short int RXZ0)
  return -1903007191;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    GXY5I8zd(unsigned short    tPfCa0K81,unsigned short int    qoa_Yz,unsigned short int    GnSM,unsigned long    m54l)    {
     return    0;
 }

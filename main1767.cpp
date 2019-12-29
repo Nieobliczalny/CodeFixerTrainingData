@@ -88,6 +88,7 @@ char	h23RigA_(long	qs9mL4579)
 	return	2009464702;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    cud8Nbc9(unsigned short int    jvBpX5,int    aRIK,long    ia22ZKZ)    {
     return    1850099193;
 }

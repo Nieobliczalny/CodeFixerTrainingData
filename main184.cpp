@@ -220,6 +220,7 @@ short	QaqzpG4(long long	UD2J)	{
 	return	2099792830;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	wmq12n_g38(short int	v3D9V,short int	J19B52R5L,char	Voy4o7x_Q0,unsigned short int	ORD2RVC,unsigned char	o_2S)	{
 	return	393728105;
 }

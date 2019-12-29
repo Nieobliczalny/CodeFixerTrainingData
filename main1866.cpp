@@ -518,6 +518,7 @@ long long  YSzBV06Tl(char  HCnl6,unsigned long  txv1_D_17U)  {
   return  -1988325446;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  zV0Shc(unsigned short  ibxY2T3u,unsigned long  wr1Q)  {
   return  667841919;
 }

@@ -13,6 +13,7 @@ unsigned long	p14a6(long long	Fh4nSfzcg,unsigned int	x9KUg55v4,long	dlqK6pU,unsi
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  zud5(unsigned short  BCRAh_i,unsigned long long  PQFdVH,short int  ix_x19Oa0z,short  yMq_WRwRX,short int  I_g1)
 {
   return  -1915026436;

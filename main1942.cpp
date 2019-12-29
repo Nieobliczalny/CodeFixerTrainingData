@@ -23,6 +23,7 @@ unsigned short	S_lsTZ(unsigned short int	w5_42,unsigned short int	epVz,unsigned 
 	return	-1509020154;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int wWS52_Q(short B_Qod1svt,long long fOdFA_0D,long zPIZ5aG,long long kR_0)
 {
  return 0;
@@ -34,6 +35,7 @@ int	qqKr80m2I_(long long	dx7wR7Gvza,long	sKRq4Mt6)
 	return	1157408916;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	int	hVxxq0kl6,	T610,	u1aS4TN_w,	j6_Y_506;

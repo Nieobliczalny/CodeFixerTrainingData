@@ -522,6 +522,7 @@ unsigned short BgEOPir(unsigned long long Vr_96p,short int fxpwIY55,short GUW0Mh
  return -2092903183;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char U8MHnqdK(unsigned short echo_29,long long xf6A9,short U9WHj,short int o1h71O5,long long bG06ZXPy)
 {
  return 1036219135;

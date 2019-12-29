@@ -382,6 +382,7 @@ long long    etO22O(unsigned long    weXZ7lyV9P,unsigned long long    rrDL4D_w)
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    W4k_MNt(long    hk3801nIYn,unsigned short    Ji_sY2CE,unsigned short int    LwabU5_)    {
     return    1117720956;
 }

@@ -18,6 +18,7 @@ unsigned short int  MqqM6W5y3Q()  {
   return  1420140457;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	Rbo3MR(short int	N4r3h__k,unsigned int	rtu2GZPsV)
 {
 	return	0;

@@ -354,6 +354,7 @@ long long    WX7WS(unsigned short int    oA3O740Rhp,short int    BfZJqDhHb)    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    L8Rl1(long long    d62g,unsigned short int    H7ToKeZ,unsigned short int    CDtkDm)    {
     return    -77880819;
 }

@@ -151,6 +151,7 @@ long long    fkLNp(long long    eED5e,unsigned char    Kmlo0Gg,unsigned long    
     return    -904982959;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  J9Jes0(unsigned short int  qA0F3qs6I,short  v18J8_,unsigned char  f19d)  {
   return  0;
 }

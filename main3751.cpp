@@ -603,6 +603,7 @@ long long    KJ6c(unsigned short int    d0ykp,long long    u0RzL,short    jd9w55
     return    1173499965;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int CCF6WQ(int w_vXu_3evs,unsigned int a6FMUMhD,long long D2VSRuH6a,char I9UdfDh9W)
 {
  return 0;

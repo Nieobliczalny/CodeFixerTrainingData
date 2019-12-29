@@ -18,6 +18,7 @@ short int	X0_BUW(char	koVOT0PXPb)
 	return	-1028589181;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  viZvj9x4(unsigned long  n_4k0,char  Tn5Eno1,unsigned long  jNqnTJGhyD)
 {
   return  0;

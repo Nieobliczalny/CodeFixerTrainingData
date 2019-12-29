@@ -18,6 +18,7 @@ unsigned char	vKq9T()	{
 	return	-1415646397;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long odc0_6Y(unsigned long long s20U) {
  return 1211950288;
 }

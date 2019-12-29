@@ -338,6 +338,7 @@ int    NQSyP_Q2_(short    Bqh560)
     return    -447602772;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	AAMV5f(short int	GIOM2,long	q_IQ16oh_)	{
 	return	0;
 }

@@ -662,6 +662,7 @@ unsigned char	YqI3fGZ(short int	y_CldN6,unsigned int	RZCR14V,long	z5ty3_,unsigne
 	return	1894467594;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short IA9195fwY(unsigned long IQVjE,char hiMZ35,unsigned short int o5P2uV,unsigned long long DwjjvoTPkO) {
  return 0;
 }

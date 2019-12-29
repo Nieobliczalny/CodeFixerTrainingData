@@ -13,6 +13,7 @@ unsigned short int    trCoojEv1J(long long    G461nvX51,short    CF6T9K,unsigned
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	HOhw(unsigned int	s_ibz6)
 {
 	return	1916057186;

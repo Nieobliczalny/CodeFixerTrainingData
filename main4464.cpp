@@ -402,6 +402,7 @@ short int  W08J(unsigned long long  kU13)  {
   return  1120098104;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    vNhqy_(unsigned short    B1n6Cq,unsigned long    Gjb8,unsigned short    NNrb1)
 {
     return    0;

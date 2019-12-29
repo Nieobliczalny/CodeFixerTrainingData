@@ -18,6 +18,7 @@ unsigned int T39CV_384Z(short Kn_tz7y5,long pY0s3Dp,unsigned short int lg_oNb2m)
  return 1076239787;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  m99HBu2(unsigned long long  mF5e7,unsigned int  OFru7__3w9)
 {
   return  0;

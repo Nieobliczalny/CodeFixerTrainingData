@@ -17,6 +17,7 @@ int  KCl8q(unsigned char  X09ti,int  wXh35_H)  {
   return  -693881637;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long eWN114K3(unsigned long aUgV,unsigned long long t92DtnO,short int Yr2pGn_U,long long g3Vm5jS4S,unsigned short int VIE7i02)
 {
  return 0;

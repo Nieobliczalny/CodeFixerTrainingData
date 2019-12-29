@@ -455,6 +455,7 @@ unsigned short int TqqZ(short int OYb4Okn99,unsigned short int iF_mWa,unsigned i
  return -1035319157;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	z5u37KMFI(unsigned char	bgTcD162K)	{
 	return	-615686036;
 }

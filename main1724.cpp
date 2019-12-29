@@ -22,6 +22,7 @@ long long  dPj3E(unsigned short  h9_Tgc0,short int  DsE57p)  {
   return  2032356624;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    JDdisjO(unsigned long    NuwS,long    o59CF)
 {
     return    0;

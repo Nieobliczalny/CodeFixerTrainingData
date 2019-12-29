@@ -512,6 +512,7 @@ short int  gaD50OM(long long  bM21eD1_9)  {
   return  -266338639;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    LR__K_nm_(long long    yN1L_Z,unsigned long    IvzQ0)    {
     return    1462352730;
 }
@@ -526,6 +527,7 @@ int Ku8JHR1O8(long I8UBp9aLHm,unsigned long long DY_7e)
  return 1311900354;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    jzKRdZ(long    XMYTd0PqQm,char    O08v73a9,int    D9MB,unsigned long    x7Kc_ZK_sI)
 {
     return    0;

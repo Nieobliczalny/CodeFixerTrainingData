@@ -18,6 +18,7 @@ short int    BKdc1aEf(unsigned long long    DVjCQSC,char    p4rJX,unsigned short
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long JZGh9(unsigned short aMu21aUc,unsigned char k18k_4,unsigned char K8KQM2,short e00_9U)
 {
  return -1288320;

@@ -14,6 +14,7 @@ char	uZLlC(short	b78u,unsigned short	JJ9BB,unsigned short int	ndY_C,unsigned lon
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short f2pjDF(short int X8TpOPa2L,long jx489,long YH64YSbe,short Gi0L1OO__) {
  return -1305749390;
 }

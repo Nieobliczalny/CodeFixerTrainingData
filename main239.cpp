@@ -17,6 +17,7 @@ short    S9L0(long    uSaM2GU9Y,unsigned short int    F8P1Kz,char    XmIyqFSd,lo
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short  SrF2jV(unsigned int  K53v,unsigned long long  gcr1hFTzQY,int  ouT8TG,int  R1qSxoh_)
 {
   return  -1924002279;

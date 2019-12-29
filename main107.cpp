@@ -715,6 +715,7 @@ unsigned long long Ox0M(unsigned short Vzq__) {
  return 402953708;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	hY707B7(long	IhKQM,unsigned short	sLCQ,unsigned char	NgDfJDA,unsigned long long	jm6O,unsigned short int	h18S1N_U)	{
 	return	0;
 }

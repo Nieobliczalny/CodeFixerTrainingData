@@ -843,6 +843,7 @@ int	wwpBuS(unsigned short int	T1ZjZm2E4_,short int	bE9iu2,unsigned short int	F1y
 	return	-2126840447;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int MsriwV1_Qi(unsigned char Y4kNPNfW,short int N_C2,long B0grjuF5CE,long long StIBrF9)
 {
  return -1360255141;
@@ -854,6 +855,7 @@ unsigned char	od6e(unsigned long long	etZ1D,int	EAYDN7Rg)
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	yRKWry(unsigned short	HQ_07yGsY,unsigned long long	O9QZomz,unsigned char	I5J8De)	{
 	return	1976298474;
 }

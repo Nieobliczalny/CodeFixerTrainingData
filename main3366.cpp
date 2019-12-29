@@ -17,6 +17,7 @@ short	RSN1_(short int	MJjLSQI7,unsigned char	IomC6C,short	id5m3,unsigned short	e
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    f1E02M5l(unsigned long long    LIiUh57,unsigned int    ZEX2xs,long long    ZLoD,unsigned short int    UZk4H202O,unsigned short    cTOTIs)    {
     return    -231759526;
 }

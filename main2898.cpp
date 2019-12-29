@@ -349,6 +349,7 @@ int	R5El_8(unsigned int	o_J0KWDHwl,unsigned char	qbM_20k1,short	MEIa93zTe)
 	return	62012265;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    k2tTqG6W41(unsigned short    L8212xLH0,char    rEGP)    {
     return    0;
 }

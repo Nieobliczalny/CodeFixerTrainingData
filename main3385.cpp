@@ -13,6 +13,7 @@ unsigned long long	G8925dF(unsigned char	xtgjHK,unsigned char	EF428nle,unsigned 
 	return	1011713581;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long mQy8gA(unsigned int bvsUsx,int hOs9,unsigned int G60w,char e5SiZ5I,unsigned char U558n9y0)
 {
  return 0;

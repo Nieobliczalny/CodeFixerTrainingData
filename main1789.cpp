@@ -725,6 +725,7 @@ short int	P0_u5QSFl(unsigned long	N2s_LoM52O,unsigned char	ITs5c5dT,unsigned int
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char UWhkT(char jEj0O,short FnHWX_2,unsigned long VWlTAQ_)
 {
  return 1827740582;

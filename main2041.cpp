@@ -17,6 +17,7 @@ short    YZZ5t0(char    bm871T,unsigned short    YTK7w09b,unsigned short    Y9C0
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	X64H(int	RnSFQTB,int	C8BDu47,short	pN13b864)
 {
 	return	-2051891104;

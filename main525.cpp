@@ -147,6 +147,7 @@ unsigned int    pjrmmw(short int    IZCg0,char    Sl42wZ,unsigned char    KiKjbT
     return    73313555;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short yrfoC97(char LO2c76N2) {
  return 813332291;
 }

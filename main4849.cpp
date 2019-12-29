@@ -287,6 +287,7 @@ unsigned short int	s15n7v(unsigned short	KtVF347i,unsigned long long	aUKEJ213,un
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    wXwYL(short    U4L4x,unsigned int    h71Q64Mu9,short    zR7658M2O,long long    j_RLC1xx7Q)
 {
     return    1076992926;

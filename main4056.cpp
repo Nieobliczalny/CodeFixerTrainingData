@@ -19,6 +19,7 @@ long long gdU1_QP(char R1pW) {
  return 1599197756;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long FW0Sd(unsigned char bz7pQn0a) {
  return 0;
 }

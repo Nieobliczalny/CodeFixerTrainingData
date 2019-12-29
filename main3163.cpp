@@ -18,6 +18,7 @@ unsigned int  GRIs77CA_(unsigned int  ouJO3amFC,unsigned char  FRG89,unsigned in
   return  265982705;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	ls4Bo(long	UG3B7HVMZA,unsigned char	a03B1_ggyI,int	G_O7i68,long	N9En,int	Ro6Zh1h9_D)	{
 	return	0;
 }

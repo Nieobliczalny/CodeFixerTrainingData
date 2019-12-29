@@ -14,6 +14,7 @@ long    j09mvM0(long long    ev_9_yk9N,unsigned int    Vd4bA_Iuu,unsigned char  
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short t3He8w(short y_MT,short int W4SgM3) {
  return -2129873215;
 }

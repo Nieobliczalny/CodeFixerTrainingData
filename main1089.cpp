@@ -12,6 +12,7 @@ short int	y2_Spq(unsigned long long	Z03s16jE,unsigned long long	OrktfvWFIW)	{
 	return	1056109956;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    r2aKbi9(unsigned short int    Shl1A3,unsigned char    Eqeg2q2F,unsigned short    QN0n)    {
     return    2079888022;
 }

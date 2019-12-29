@@ -450,6 +450,7 @@ short	WnDH596_K_(unsigned long long	o0_Ks)	{
 	return	896858439;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char ry6q(long long I6_ZADL)
 {
  return 52706160;

@@ -17,6 +17,7 @@ int kNoFKBjt(unsigned short KcTO,long long NnW_) {
  return 2063515272;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int xQi46(unsigned short int X80J,unsigned short int YQcj0D,short int s3S9J,short t07k13_uG,short int md0T964qS)
 {
  return 0;

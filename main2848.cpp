@@ -17,6 +17,7 @@ unsigned int    PXSuP6(unsigned long    rp68zX,long long    VCjIywv,unsigned int
     return    708263311;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  T8Eu41(short int  L3WG6,unsigned char  yQM7lPaj,unsigned char  RRb4o,unsigned int  t4uL_x,long  MErNs)
 {
   return  0;

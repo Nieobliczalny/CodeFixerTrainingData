@@ -16,6 +16,7 @@ long long h4m_j1(unsigned long yrdK,short int Vww5kr2x)
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  OlC_fj(unsigned long  XB1_r,int  V7_1,char  bgdT97,int  fER311T0A,long long  dq43X5Z_)  {
   return  666500403;
 }

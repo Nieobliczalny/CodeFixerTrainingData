@@ -423,6 +423,7 @@ short    MwhUF(unsigned short    b3cKS,long long    VzKY52M76)    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	jSKn2c33(unsigned long long	MZwiq5)	{
 	return	133172862;
 }

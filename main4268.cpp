@@ -14,6 +14,7 @@ unsigned short  I3i0us7(short int  fjns7)
   return  -1547691374;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  NKkt(short int  Bfo0j7,unsigned int  N0J9Up,long long  Iqu06s,short int  bwSK40t8FT)  {
   return  2028211199;
 }

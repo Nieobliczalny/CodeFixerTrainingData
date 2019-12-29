@@ -16,6 +16,7 @@ short int    b56pAC2y(int    Z3K_ponH33,short    S1rx,unsigned short int    zrj1
     return    1324739739;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    tK88O(short    P07Iyo,unsigned short    m52vdG,unsigned int    w911c)
 {
     return    0;

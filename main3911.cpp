@@ -18,6 +18,7 @@ unsigned long long    TSPo38_(unsigned long    CLiMsUHI90,short int    FTbo,unsi
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    SgU7s(unsigned int    oVD7Q2)
 {
     return    -1601850674;

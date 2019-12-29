@@ -295,6 +295,7 @@ unsigned int ERvx08D5(char fXM39o)
  return 504856575;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	Sp96ty2(unsigned char	s14GcAjM,unsigned long	Hh6qhh64)	{
 	return	0;
 }

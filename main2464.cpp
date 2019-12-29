@@ -16,6 +16,7 @@ long    wXW54(long long    pWm4,long long    esK5D3x19,long    lH282n6)    {
     return    668933152;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   long  AP1S,  h67zfi5,  jrFFTWk;
   AP1S  =  1191354682;

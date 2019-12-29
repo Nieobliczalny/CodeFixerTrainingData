@@ -738,6 +738,7 @@ unsigned long long SHbW(unsigned char VqFWar)
  return -802821037;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  Z0EeBQGk_(int  FjO6I12rrQ)
 {
   return  0;

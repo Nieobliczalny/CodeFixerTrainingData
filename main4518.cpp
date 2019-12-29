@@ -18,6 +18,7 @@ unsigned int  VQx6c(char  Cz0lMJp,unsigned long long  LdI3f_5Y,unsigned long lon
   return  966881213;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int FK5d89c(int lN_ZjA) {
  return 1768235509;
 }
@@ -31,6 +32,7 @@ short	p159Mc6et4(unsigned short int	j0n_7Fx4AB,long long	x8nh28t8i,unsigned shor
 	return	-1305909062;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short JS29hq(unsigned short int b74I,int SZ84d,char dHDZn104_0) {
  return 1064139474;
 }

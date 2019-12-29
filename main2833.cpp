@@ -377,6 +377,7 @@ unsigned char xH73_1uZQX(short tM4dO61Y94,unsigned short d_YX,unsigned long WgC5
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  C5ar88_(char  otvEpL2H)
 {
   return  1045854717;

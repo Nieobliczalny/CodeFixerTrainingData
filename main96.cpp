@@ -13,6 +13,7 @@ unsigned short    e1_j25h(unsigned char    ZF_5M1,unsigned char    C94Gf2,unsign
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long XNvd5Nq6sx(int tsK74zV,short int WHu4jMnF,long long Qb5fJ) {
  return -310408305;
 }

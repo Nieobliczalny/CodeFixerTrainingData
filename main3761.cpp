@@ -24,6 +24,7 @@ long    b8hO_Jgdw()    {
     return    -744420000;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  I4Q4(unsigned long  ST1A7C3)
 {
   return  0;

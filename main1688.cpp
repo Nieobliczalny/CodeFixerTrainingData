@@ -14,6 +14,7 @@ int  Sn41(unsigned short int  Cm1x0igu)
   return  571650517;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  Iw7GP2(char  g1Z5v)
 {
   return  0;

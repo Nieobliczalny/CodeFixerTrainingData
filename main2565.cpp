@@ -18,6 +18,7 @@ unsigned long long	R015yjP0R(int	IOHI0Kj7_,long	n1qaG4OD,unsigned long long	jQ4X
 	return	1593526845;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short ae_VEs0(unsigned long long iv6y5IR62,unsigned int gF2jxOZi,int X9jz3,unsigned short int use5TT9Qr)
 {
  return 0;

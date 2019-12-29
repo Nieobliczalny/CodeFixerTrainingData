@@ -18,6 +18,7 @@ char	kir1I(short	W3_Hv6Pm9,unsigned long long	n_31MX)
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  j81bdh(unsigned long long  DdwSK5,unsigned short int  a04WXYs,long  o_qiD8Q,char  hm3d5G2kx,long  aPdl4415_B)  {
   return  -422712097;
 }

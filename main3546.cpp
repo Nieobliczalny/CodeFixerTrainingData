@@ -154,6 +154,7 @@ unsigned short int	j5Z31bR6d(char	TY5KGzv0,unsigned short int	BAXa)	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long Q5hRqK7(int W3QY7) {
  return -1498376927;
 }

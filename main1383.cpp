@@ -18,6 +18,7 @@ unsigned short skj1Unm(unsigned long R6Qr_UQ0_R,int Ozo1b5HM)
  return -1247722534;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	lX1s942z(unsigned short	tDW_q,char	NP2hoV0Ub,unsigned long	I5hyjKD5Ol)
 {
 	return	0;
@@ -29,6 +30,7 @@ long  ksI5a29(int  Ury0lX1)
   return  -1264092389;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    xORgB(unsigned short    oODb)
 {
     return    -1359309917;

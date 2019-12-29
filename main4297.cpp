@@ -650,6 +650,7 @@ int FH9zru_480(unsigned char S_7l,char x2RxMzydw,unsigned int JWE08_m79j,short i
  return 2073878494;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short vi18HWO(short int hGHvvw6C32,unsigned long u46i4Mf)
 {
  return 0;

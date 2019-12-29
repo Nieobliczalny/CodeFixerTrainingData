@@ -16,6 +16,7 @@ long    vn6JNi1n6B(long    Zid0,unsigned short int    w5vu3UQq,unsigned long    
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  pncv(unsigned long long  BsUe6kN5,unsigned long  MRjw8BfjB4,unsigned short  V47Sy_3)
 {
   return  176205610;

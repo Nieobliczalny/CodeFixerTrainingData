@@ -224,6 +224,7 @@ unsigned short int Fk8DePzV(short FpJ4u__dJu,unsigned char v2b7B2rB,long long I8
  return 1319433674;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  L2DucofLJ(unsigned short int  C037K,short  qqGiBy6,unsigned char  Y9Nzf4Hrh)
 {
   return  0;

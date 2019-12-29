@@ -392,6 +392,7 @@ unsigned short    j7Tv_(long    ePRC2,long    M6jzX0mv5M)    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	hPMPR(unsigned int	tOY57883s_)
 {
 	return	769330766;

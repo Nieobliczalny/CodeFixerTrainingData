@@ -845,6 +845,7 @@ unsigned short YXf69_(unsigned int L5I2) {
  return 66251370;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char nH4pVR(unsigned short int iRIEgHVNWN,long long QY_6RLr)
 {
  return 0;

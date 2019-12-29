@@ -22,6 +22,7 @@ unsigned long	ay4YyGv38_(long long	A3OUM_WHmd,int	nxmenX,unsigned short	CD0n,lon
 	return	-1246684012;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long w8V0(unsigned char VX_0,unsigned long long wBZC_,int l777,unsigned char N2cQnk7)
 {
  return 0;

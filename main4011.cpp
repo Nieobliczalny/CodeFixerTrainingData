@@ -405,6 +405,7 @@ unsigned short  i0YSacD(unsigned char  mqyjIZ4,int  Q50M,unsigned short int  KYb
   return  -1906204291;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    E_Xe6Zq(char    PyPbY794e,unsigned int    m5pg7_6TzE,char    JFtud,long long    Mjyd3,unsigned short    yp2e10ql)
 {
     return    -1348947880;

@@ -387,6 +387,7 @@ char  G97pW8(char  sO6jSdj3,unsigned char  amD77PU)  {
   return  623942228;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char jzEoq9(unsigned char jTOjU)
 {
  return 1988502683;

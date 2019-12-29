@@ -13,6 +13,7 @@ int    sgEv4u32WA(unsigned int    wkm3Q,long    dd6QueU,char    jnem)    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     unsigned char    vbE55ai;
     vbE55ai    =    -1389865052;

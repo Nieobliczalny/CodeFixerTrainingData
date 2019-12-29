@@ -13,6 +13,7 @@ long long	hzAvs(unsigned short	rLRBb)
 	return	-222720564;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    sJY9_g3Zpy(char    r302BnQ)    {
     return    -1034290630;
 }

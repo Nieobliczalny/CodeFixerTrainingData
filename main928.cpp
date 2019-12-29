@@ -572,6 +572,7 @@ short int	DgR1dR_c_n(long long	BX6N8U,short int	v45Rkm6,unsigned long long	oq9w6
 	return	-426747997;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char wt4FN(short int KyhCsnU0q7,short int Tpe3,unsigned char XV0_1P1527,unsigned char R1J6,unsigned short int s41O8)
 {
  return 0;

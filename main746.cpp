@@ -341,6 +341,7 @@ long long	TE69(unsigned char	fm1TKBi42k,short int	T0Qy7,unsigned short int	Tg9_6
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	q47_l2n8b(char	pD8_55J,long	ElTzB)
 {
 	return	-591793026;

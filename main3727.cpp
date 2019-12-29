@@ -13,6 +13,7 @@ long long  oe48du(unsigned long long  nD66,unsigned int  A321PI,long  UTvQ2,unsi
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    r6FErdRZ67(unsigned char    sY50t6,unsigned short int    SP418aT)    {
     return    2038271036;
 }

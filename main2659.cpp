@@ -17,6 +17,7 @@ long long	HZXb029de(unsigned int	q58u7,unsigned int	l_z_Z,unsigned int	zAcO)	{
 	return	-248773767;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  VgE7S5O_(unsigned short int  ZNP0d7)  {
   return  -1421751506;
 }
@@ -36,6 +37,7 @@ int    K4yFkU()    {
     return    -823696990;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  short l7_3OD = -1296241185;
     short int    cxuPKL14    =    770849500;

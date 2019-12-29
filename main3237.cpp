@@ -427,6 +427,7 @@ long  oB366U(short int  G5RFG,int  Ty9U4,unsigned long  KjO36,long long  gbb5M4A
   return  -1664993424;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    dro_M90(short int    p_6yvXiM,unsigned short    syX60Gg,long    rrn0d6i0_)
 {
     return    0;

@@ -15,6 +15,7 @@ int	RjBdEyCn(int	IW4C1)
 	return	-575516892;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    N9NFOB(unsigned short int    HV39BRBpZn,short    RiuPnC4oA)    {
     return    -725234560;
 }

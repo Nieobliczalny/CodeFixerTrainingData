@@ -14,6 +14,7 @@ unsigned short int  ZKNwuB6(int  P8T2_U5CAY)
   return  630697590;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    X1PJV_4(char    TAbr7,char    uQ_E7Nbo1_)    {
     return    0;
 }

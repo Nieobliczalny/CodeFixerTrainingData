@@ -14,6 +14,7 @@ short int	n_5pJ(short	ved522E)
 	return	-810163248;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  QsQY(int  RB121l,long long  adZ08zt,unsigned short int  GyB70b20b,char  MccOAoe5n)  {
   return  0;
 }

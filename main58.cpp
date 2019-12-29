@@ -14,6 +14,7 @@ unsigned short	agt4uO1_D(short int	aFmdel)
 	return	1362518936;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  cuzKNS(long  Q9A4ekF3Ai,short int  Q87i,unsigned short int  t5KjX94M)
 {
   return  0;

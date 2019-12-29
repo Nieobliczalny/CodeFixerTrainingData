@@ -13,6 +13,7 @@ unsigned short int M_YX(short int VD940mK4K,unsigned short uzHR__wA,unsigned int
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	float	JKPh2_;

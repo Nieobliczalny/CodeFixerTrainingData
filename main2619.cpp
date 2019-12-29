@@ -13,6 +13,7 @@ unsigned short    Q3CtY(short    PRM0z_0,long long    G5C2s5)    {
     return    714454646;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    GQP_0U0(unsigned char    YFAAoahRf,unsigned long long    czBK046o_7)
 {
     return    -767109256;

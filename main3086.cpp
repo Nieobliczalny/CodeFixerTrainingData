@@ -233,6 +233,7 @@ short int Wt_m(char ceiRdYBQ)
  return 122649425;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    NBjW78(unsigned long    Ao2NAs,unsigned char    M9em,unsigned long long    m4Nu17d0L,unsigned short int    VuDM5MUD3)
 {
     return    -213796255;

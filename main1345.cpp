@@ -12,6 +12,7 @@ unsigned long long	XS283q(unsigned long	AkdQ5b)	{
 	return	690210341;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    f256N4(short    xqTP2C5T,unsigned short    FF_2MLh,unsigned int    X7ddIdCO0h)
 {
     return    1245470638;

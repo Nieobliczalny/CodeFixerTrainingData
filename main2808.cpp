@@ -13,6 +13,7 @@ unsigned char OvqbAAw(short int TLHfDcOZ,short int Dbn9x) {
  return -106222409;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    cK626qK5j(unsigned long long    nvYq6,unsigned short    ZAyqYih,unsigned char    N_N1zi,unsigned char    it_063,char    bMK55T_Q)
 {
     return    -721307669;

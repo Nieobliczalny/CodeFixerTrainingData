@@ -466,6 +466,7 @@ char U6G09C154(unsigned short m73Cea0il2,long DF_njcq,long long Ehg6mGFm) {
  return 870961981;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long AaF_(unsigned long LCtdT4y,unsigned long long C9C8b,short BCVo975K) {
  return 0;
 }

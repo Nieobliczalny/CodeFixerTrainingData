@@ -17,6 +17,7 @@ char  pgN1(unsigned short int  v74p)  {
   return  578155145;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	Xawl06f(unsigned int	WpL9qx)
 {
 	return	1217896053;
@@ -32,6 +33,7 @@ int    v9aUm(int    qR5i7Xk)
     return    983106000;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	fgetn1ix(long	h1DGO0M,unsigned short	EB021P)
 {
 	return	562028205;

@@ -488,6 +488,7 @@ char  Yjzb_PA(unsigned int  Av13zITt,unsigned char  mP625cm6,long long  e56AC5y,
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char vH_P9(unsigned short int ZC9Q,short nR_BhP5VP,unsigned char l3P699,short T_C0,unsigned int uNwt34)
 {
  return -941478636;

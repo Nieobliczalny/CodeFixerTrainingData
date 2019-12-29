@@ -17,6 +17,7 @@ unsigned int fG11(short int h1uQFgc9_,short nsMvGsD,unsigned char sDN1YWEf,unsig
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    wi3vKt(unsigned short    Jpf7,long long    J3nt1,short    j0VX00eu,char    W_LV9h5A,int    N0Dl)    {
     return    -1737933961;
 }

@@ -207,6 +207,7 @@ unsigned short  SrlFWxg(unsigned long long  lYz_1Vg6k,int  Ga1DvvP_,unsigned lon
   return  365581497;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short nXYx(unsigned long tW2qb3l3P,long gLgF5iHh,unsigned short int wET2hBod) {
  return -859151163;
 }

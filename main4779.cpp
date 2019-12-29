@@ -101,6 +101,7 @@ char vPBCJt(short int yerZM03,unsigned long long I4_h1p,char Ym0So4,unsigned lon
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char TtDVCYzd(long long U5rt_,unsigned long gKkAE6)
 {
  return -1722397918;

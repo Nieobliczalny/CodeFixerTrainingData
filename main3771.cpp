@@ -13,6 +13,7 @@ unsigned long long    Zjqq(char    uUF1w_,char    O28Z4_2)
     return    -745387566;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long yQav90WZ(long VzmJ3Cwz7,unsigned char vyG8nO6k)
 {
  return 0;

@@ -14,6 +14,7 @@ short int PSxa6I(char QvUj3uq,unsigned int sZFo_T,unsigned long DZzC6,short int 
  return 1494644327;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    FT5u_7V7jG(short int    rNhIv40IXr,unsigned char    QD_pB9xi,unsigned long long    P59Z5M2)
 {
     return    0;

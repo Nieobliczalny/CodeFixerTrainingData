@@ -21,6 +21,7 @@ unsigned long long  HVy8335X6(unsigned int  Swg6of,unsigned int  TFfK,short  iG2
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	Ur5pw(int	NgRhjAt,int	rvZ52,unsigned int	iu37l98_,short int	W31BdH09TK,unsigned short	lxFe)	{
 	return	1452789406;
 }

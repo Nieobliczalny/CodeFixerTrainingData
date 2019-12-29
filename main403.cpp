@@ -605,6 +605,7 @@ unsigned int  tp97UdNL(unsigned int  XQ1wn5mAi8,unsigned short  ca3I9V8)  {
   return  1369590306;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  cxB6F(char  haf_)
 {
   return  349181661;

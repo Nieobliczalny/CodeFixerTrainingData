@@ -908,6 +908,7 @@ char    SO5507Sm(int    P2rwoCUu,unsigned short    h49156yh,unsigned long long  
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int iIuSX4C(unsigned char ct6tfb79_,long iw4Q,unsigned short int KzYTlBAwe) {
  return -1519585897;
 }

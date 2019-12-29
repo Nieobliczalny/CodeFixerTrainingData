@@ -90,6 +90,7 @@ short  kjb4nb(unsigned char  NQB6,unsigned short  ogGl9ow4q,short  ypxo8,int  UF
   return  -98007875;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    zay3_(unsigned char    P7U991,short    m_a93x,unsigned short    aZ69XDmmw,char    MYe_tNJE0_,char    vLwo7M)    {
     return    0;
 }

@@ -13,6 +13,7 @@ unsigned long f6wd(short v_YolzF2e,unsigned int HM1EB,unsigned long d1o6U4) {
  return 2118704991;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  O10y(char  kUZbnYR,short int  FhAe)  {
   return  897691179;
 }

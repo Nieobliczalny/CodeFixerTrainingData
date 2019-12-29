@@ -17,6 +17,7 @@ short	R1i_x(long long	kt5RV,char	lakn,int	D_5WiQ,unsigned char	A0fCu0,unsigned l
 	return	-1218816419;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  y0uY07(char  RK69y26,short  L71IlAs,unsigned long long  c0c1)
 {
   return  0;
@@ -31,6 +32,7 @@ short int	kaChi(short	JY27fI,unsigned int	fO8ci,char	AK6Ekib,int	J0ds)	{
 	return	1247442215;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	hX0Pr1PXQ(short int	zsahn,short int	A7K1185)	{
 	return	1304844645;
 }

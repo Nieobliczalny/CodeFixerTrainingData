@@ -16,6 +16,7 @@ long long	fEL0y(unsigned int	GFpHHllux,short	B3OGc,int	m9Yf_bf)	{
 	return	-1700149208;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	oT5K(unsigned char	azgwkm596K)	{
 	return	2144528230;
 }

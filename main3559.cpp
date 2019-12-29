@@ -13,6 +13,7 @@ long    vOUALd6gMJ(short    lzeGq,long    mn9j4AGR,unsigned int    HlJMMw01NW)
     return    112755319;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    y70ZKGYo42(long long    IqA81Ohzbt,char    g13Wx5jSjw)    {
     return    0;
 }

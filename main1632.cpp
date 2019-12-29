@@ -13,6 +13,7 @@ long long	gd5KdfBy(unsigned long	nT9Tgl,unsigned long long	ak5_1b_,unsigned int	
 	return	2003826178;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  igOw(char  tssn8D97,unsigned short int  kh8G6mTh4d)  {
   return  -653946877;
 }

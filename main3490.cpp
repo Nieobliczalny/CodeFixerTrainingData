@@ -18,6 +18,7 @@ int    BC88_iI(int    kOKcCn3a,unsigned long    VaP38)
     return    50278515;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  jrgSG(char  OfAHpN,unsigned long long  pkJUCjBM_6,long long  gmKX0,unsigned int  k4ISt,long  IaF5)
 {
   return  849305745;

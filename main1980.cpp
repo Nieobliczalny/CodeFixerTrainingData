@@ -406,6 +406,7 @@ unsigned int	hI4o(short	t5mreH9,int	PyvjbiBB,unsigned long long	caDz75t_D)
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  H3f_pLJ7_(unsigned short int  e30ei4,unsigned short  D8uF,long  iC_QR,long  HtABpf)  {
   return  -1373945894;
 }

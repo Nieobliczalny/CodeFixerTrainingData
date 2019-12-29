@@ -528,6 +528,7 @@ short E_nTLFn1Q(short SAmRzliWX,unsigned short int n4g5DcvS4,unsigned long BwL36
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  N2oHRlMPHp(unsigned long  TzO__,short int  YCvx6hh,short  nIYnG6m8PG)  {
   return  1621536094;
 }

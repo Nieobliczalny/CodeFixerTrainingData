@@ -344,6 +344,7 @@ char	w20Q(unsigned int	s0z236pXMp,int	L4eIA,unsigned char	AdnF9NRk_3,unsigned sh
 	return	713607601;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    KGLy4(short    T9vp9jEGy1,unsigned long long    Z7_z9,short int    IJJukG1I7M)
 {
     return    -709183804;

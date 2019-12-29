@@ -477,6 +477,7 @@ unsigned int	frDQTJ93_(unsigned long	NBrWN,unsigned char	hTOX)	{
 	return	1696086366;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short  x431sJ(unsigned char  Yc5e5)  {
   return  1883884670;
 }

@@ -18,6 +18,7 @@ short  BwVFui(unsigned long  IJ3Jw)  {
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	Sm51fN476(unsigned short	H337n2d,unsigned long long	KQ5jEf)	{
 	return	-594701290;
 }

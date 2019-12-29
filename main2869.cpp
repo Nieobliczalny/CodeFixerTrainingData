@@ -22,6 +22,7 @@ unsigned long long    XQ9L()    {
     return    987750417;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	t7lI87v(long	uY1QW6)	{
 	return	146950077;
 }
@@ -32,6 +33,7 @@ short int	Pz_QsULA(char	iI2pG8sm)
 	return	203337674;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    jxF4_(long    V_aOW_3wz2)    {
     return    0;
 }

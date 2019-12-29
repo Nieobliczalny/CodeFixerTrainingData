@@ -22,6 +22,7 @@ unsigned short  NLSFk(unsigned long long  lq8b3enor3,long long  rFya0V38o,int  T
   return  678386904;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  FiJkY31_(unsigned char  QW52PU2cv,unsigned int  j36HrrzZ3,short int  h7gItP,unsigned long long  zX4PbVe,unsigned short int  N1y80n)
 {
   return  -1214476347;

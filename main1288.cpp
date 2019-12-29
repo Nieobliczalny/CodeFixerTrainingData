@@ -716,6 +716,7 @@ char    L2X4q1lLu(unsigned short    yNrg9lF,unsigned long    Lv02NW,unsigned lon
     return    1262256628;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int M5fb0zmqhB(unsigned short Dd57M2Y)
 {
  return -357487486;

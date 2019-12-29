@@ -30,6 +30,7 @@ int  L3gl(char  XR819Pw,unsigned int  m0W93,unsigned char  SSeIwlo8f,int  WNMZl0
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int o1PcNuU(unsigned int ycapS1SAB,long long b4n12iWmo,unsigned char P0IO,char YSHaz5Ft)
 {
  return -1136919688;

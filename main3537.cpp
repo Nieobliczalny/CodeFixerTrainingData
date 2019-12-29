@@ -17,6 +17,7 @@ int  T67zNKk(long long  uK5NGGbi,unsigned short  C3ikz_,char  H0S57,short  cwK9v
   return  -765526902;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char G40u3m(unsigned long long ngViq96q,short KfsqI8sE,char tqT37hh75,short s_uZa)
 {
  return -1511116409;

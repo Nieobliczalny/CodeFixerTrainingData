@@ -12,6 +12,7 @@ short Yy8XYSD_6(short int ogR5,unsigned char g64D839M,short o903K_) {
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     short    J2o0NFTu;

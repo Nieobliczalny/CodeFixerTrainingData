@@ -293,6 +293,7 @@ unsigned short    T___9421h(short    z0fiI0,unsigned long    p_U6_xKxl,unsigned 
     return    1307112253;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    GR567(short int    yqga,short    CU4Y,unsigned long long    obV58_7)
 {
     return    -1465318301;
@@ -308,6 +309,7 @@ long long    vy__p7s(long    N1cq_MhrYa,unsigned int    a454e9)    {
     return    -62914654;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int j3tZ66(short int Y51xeR1M,long BUZgCLfC4K) {
  return 0;
 }

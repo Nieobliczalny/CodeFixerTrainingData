@@ -21,6 +21,7 @@ short    UsZNLLraH(unsigned long long    G3806)    {
     return    -1134114254;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    tPA1_Y(unsigned long long    A2K9tD9Xa,unsigned long    G3c_p003F,unsigned char    KEp7e,short int    amDWOr8)    {
     return    0;
 }

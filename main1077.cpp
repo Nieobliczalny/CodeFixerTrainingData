@@ -14,6 +14,7 @@ short int    GT7A47(long    ao6231dUR)
     return    693391532;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	evVG_9o(unsigned short int	srlrP_)	{
 	return	0;
 }

@@ -464,6 +464,7 @@ unsigned char  mcH98Eu56(short int  KHHKyQdnr,short int  GHJI,char  TS3T6Toin,un
   return  378077806;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long aXg_8HmFF(char njYY,char Sb08T73ft,short w_Emv0U5C4,short int bqhEOQ3xe1,short Qb2OAF6HyQ)
 {
  return 0;

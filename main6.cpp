@@ -895,6 +895,7 @@ long long	EAk_WmId(unsigned long	IVD8KVyZ,unsigned long	lL_aT6D,unsigned long	i_
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  t9TX7U(unsigned char  TH1G,unsigned short  vTCoi)  {
   return  2014335994;
 }

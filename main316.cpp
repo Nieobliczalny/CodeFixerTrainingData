@@ -15,6 +15,7 @@ unsigned short I_BU(unsigned int o5B32n900,unsigned int Qj1fQV0,unsigned long lo
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int xL13BiY5_(unsigned int v7cl1HuF,char r8eSl)
 {
  return 1687577857;

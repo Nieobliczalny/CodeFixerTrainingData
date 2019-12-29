@@ -452,6 +452,7 @@ unsigned int	Rkq2(long long	cs4Z_cEF)
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long Km39W04m(long long m9ja,unsigned char aViPgG56e7,unsigned char iPJ_,unsigned short XdsDUFH4D,char c165)
 {
  return -438140897;

@@ -18,6 +18,7 @@ char    FV64urV2T(unsigned short    YeyinuUR,int    dBbX9ImB,unsigned int    g44
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	fplL79R(unsigned long long	ik96)	{
 	return	-1631335809;
 }

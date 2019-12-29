@@ -21,6 +21,7 @@ unsigned char Yc4r6R_m(unsigned int tFuSkRCv) {
  return -1371161122;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long XH485C82XZ(unsigned int b74_iuPtE2) {
  return 246882545;
 }

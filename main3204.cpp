@@ -17,6 +17,7 @@ short int    gmPp5(short int    Rm9ssv,unsigned long long    bAz9V)    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int CF7RR(unsigned long long NmRyCE4c,int jAvsDI)
 {
  return -466129456;

@@ -342,6 +342,7 @@ unsigned long	Cz2ww0nHd1(int	AR5pCi7GxP,unsigned long	lxDDq)
 	return	-1156099537;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	SsDVwG06Y(long long	NcLZe3d,long long	ap19G2,unsigned char	Cihhb)	{
 	return	0;
 }

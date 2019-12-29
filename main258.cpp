@@ -14,6 +14,7 @@ char    Ri1QDZ(unsigned long long    P7JWS9h_3,long long    lev1)
     return    -2134969293;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  s0UE(int  P3y6B0gyA,int  hF3phj5to,unsigned short int  h_5uqrE7,unsigned short  X9v6SD0)
 {
   return  885083802;
@@ -24,6 +25,7 @@ unsigned int    YUS424(unsigned long long    g4fK0,long long    uSOU2Emy7S,unsig
     return    -1806653931;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    B7e5ye6(unsigned short    SZ787)
 {
     return    0;

@@ -13,6 +13,7 @@ unsigned int  LLJfPtz950(unsigned long  WE8aJ)  {
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	mz1Ex_x3l(unsigned char	XVYY1Quxn,char	gue1MQY6,unsigned char	si3u3Eu,long	PH9dyxbb)	{
 	return	1245931372;
 }

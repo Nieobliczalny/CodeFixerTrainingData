@@ -136,6 +136,7 @@ long    Rx7tTzm0(unsigned short    pXo0)    {
     return    2136021497;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  lpYgx(unsigned int  Af9ov)  {
   return  0;
 }

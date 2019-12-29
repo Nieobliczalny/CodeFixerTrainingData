@@ -379,6 +379,7 @@ short    ZjxN(int    M3hSkvIjR,unsigned long long    uK1KZ,unsigned long long   
     return    -820193950;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int ez65qCo(unsigned long long eK3gRe,unsigned short int EHwK_yzcE2,unsigned char cmw0,unsigned short int q6IsAO08P)
 {
  return 0;

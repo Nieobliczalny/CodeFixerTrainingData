@@ -562,6 +562,7 @@ short	o20f(char	txPHx5,char	a89Xm4q96,short	Y1St237,unsigned long long	U_Ja)	{
 	return	-101395311;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	E0Ma59d39(long long	U04r)
 {
 	return	0;

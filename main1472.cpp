@@ -18,6 +18,7 @@ unsigned long long    TQZhsvMsp_(short    b0c_,unsigned int    xtKXqC5H63,int   
     return    1495290712;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int IF1r_(long long cYK3WLKX4,unsigned short int Fme19YMP6O)
 {
  return 0;

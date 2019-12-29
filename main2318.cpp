@@ -327,6 +327,7 @@ unsigned short int    pP02zn_I(unsigned short int    Z___j102Wd,unsigned short  
     return    -658573241;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int ab1_P1(short t5cty9Gd,char MXy7GRP)
 {
  return 0;

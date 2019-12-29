@@ -19,6 +19,7 @@ long long  t8Dx(unsigned long  gjefX9,unsigned long long  uMhi33,int  k_od,unsig
   return  -505075522;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    i_o4F3r9(unsigned long long    SNI2woeCH1,char    tw7WM5L,unsigned short int    f3T5fO2J0,char    eX7JeWy9GH)
 {
     return    0;

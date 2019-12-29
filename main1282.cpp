@@ -13,6 +13,7 @@ unsigned short int q9hu(unsigned long e2K7G9ul04) {
  return 1525720468;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int n1m3mv_s(short X36dsi4mna,unsigned char L4gT53FIn)
 {
  return 0;

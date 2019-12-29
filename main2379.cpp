@@ -18,6 +18,7 @@ unsigned short x1UL45_1aU(unsigned int hsbhj5bl)
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	IjFhCc1(short int	L4vNn7d9,char	a4mIR,int	Q9lPwKmKPq,unsigned char	Rz1gp8YfO,short	JB79xKMoTO)	{
 	return	1598473259;
 }

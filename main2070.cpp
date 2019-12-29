@@ -18,6 +18,7 @@ unsigned short int	SCehy2(long	MX1Ebprd57,char	sZJaRH)
 	return	498340569;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short y1hJ4ys5O(short vf6EA_CN,int Jx51B4,char FLCc,short int hCamK19YW) {
  return 0;
 }

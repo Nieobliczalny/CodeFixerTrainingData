@@ -12,6 +12,7 @@ unsigned short    suwo4(long long    uOOnf)    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  long long BdRZ, icjGrV, FwEy9;

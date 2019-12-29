@@ -14,6 +14,7 @@ unsigned short int  ph42(unsigned short  s1N933W5B7,unsigned short  E68i4VU,char
   return  -1435232842;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  Y5NZ2(int  a80b_0Y,unsigned int  Z4229GA,unsigned short int  wFgP9,unsigned long long  QAuwu5Ewg)
 {
   return  0;

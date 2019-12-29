@@ -13,6 +13,7 @@ short int    i4_H1(int    rmKoa7h3,unsigned short    UAqf9v3p_,long long    rnb8
     return    -1708397522;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short  Ku_V4XO(int  svAz8KZ,unsigned short  FPo7Pin_,char  r24HF61y)  {
   return  0;
 }

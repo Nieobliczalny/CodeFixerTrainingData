@@ -17,6 +17,7 @@ char    vkI85E9(short int    Jp_8Rwlzh_)    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int R8c3(unsigned char uj6p2Qbil)
 {
  return -1448944293;

@@ -563,6 +563,7 @@ long long QTmN2c_4(char tW60Qw4qu,int pYTJAy4)
  return 1197031065;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	Dk2LPj54qv(short int	h5i7I)
 {
 	return	0;

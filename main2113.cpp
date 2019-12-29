@@ -17,6 +17,7 @@ unsigned int    YBHoXD5()    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    uk77(unsigned long long    oEyXta9B)
 {
     return    -245322356;

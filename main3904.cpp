@@ -16,6 +16,7 @@ unsigned long long	M596QfkQx()	{
 	return	-165232799;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    mD1GM(int    OSl9j_M3A,unsigned long    ej49r,unsigned int    CKNc897_t,long    DZ_Grh_,unsigned char    IdPn9v23)    {
     return    2108862975;
 }

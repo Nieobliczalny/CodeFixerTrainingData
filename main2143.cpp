@@ -20,6 +20,7 @@ long	oR2KO2C6()	{
 	return	882011673;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	i_EK_(unsigned short	c6QNYQ7HHQ,unsigned long long	JHQ5mIt,short int	G72M1h,long long	L10s_LoJ0H,short	PF81J_)	{
 	return	554931563;
 }
@@ -34,6 +35,7 @@ short	cc64(unsigned short int	MyFE,unsigned long	wpBdbIR_bT,unsigned short	Xn0SO
 	return	-542351975;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  short gk457Dk7;
  gk457Dk7 = 0;

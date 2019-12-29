@@ -13,6 +13,7 @@ short int  y45CbY35(short int  YWJ7Y_sf18)
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    jsn2938A(unsigned long    lMr_DL,short    wlLBB4_o7u)
 {
     return    1422316464;

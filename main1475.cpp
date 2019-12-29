@@ -273,6 +273,7 @@ short    r_h3(short    GvL8,unsigned long    bh3W8YLA)
     return    1552137584;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    Ssf5F35c(unsigned long    jV9U,short    KPN3tN_J8I)
 {
     return    0;

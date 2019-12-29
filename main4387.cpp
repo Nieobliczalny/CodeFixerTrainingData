@@ -17,6 +17,7 @@ unsigned short	Jq8l_vZS(long	r3AK2GJuIG,short	RKz7)	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  TWCD9(unsigned int  ipMz254,unsigned char  rBwYFwGyRX,int  ptminb,unsigned long long  f_zqR1)
 {
   return  -617672712;

@@ -14,6 +14,7 @@ unsigned char HG8unYK9(short int HdxMG6,short Mqb6Zy8v9) {
  return -2039155591;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	V0pF1Q(unsigned short	j087nB,unsigned short int	q52zBL,short int	EGv_17)	{
 	return	0;
 }

@@ -17,6 +17,7 @@ char  exVIT7()  {
   return  1483455795;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    QBB457(unsigned int    RAI348y55)
 {
     return    -828665028;
@@ -28,6 +29,7 @@ unsigned long  Kv56on9R9(short int  vFFM12g,char  v43mvc4,long long  SGwI2J_C31,
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	rANb(unsigned long long	Nq41mY,short	kKQww_gzM)
 {
 	return	695367566;

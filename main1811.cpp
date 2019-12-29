@@ -14,6 +14,7 @@ unsigned int	GT_2s0G9L(long long	PBRm5IO5u,int	E9H3PfQg,unsigned long	Ule6o44Z6,
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	L8hec(int	L591ZThU2u,short int	Zf_2)	{
 	return	-2095704616;
 }

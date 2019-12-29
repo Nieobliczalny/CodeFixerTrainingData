@@ -670,6 +670,7 @@ unsigned long long    R02mS1_B3(char    ctgyh3MmR1,unsigned char    ZTy7E5W2F,sh
     return    640357800;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char Zeda2VAa(unsigned long long zjXe,int Jk8Lq7pG4A,unsigned int xwAt,unsigned short int Ra5sY1u)
 {
  return -1997020731;

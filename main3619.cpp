@@ -822,6 +822,7 @@ long kGLmHB(unsigned long long B16D,long long QyA95vD9u,unsigned short int nh2QN
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short  LllkkyI(unsigned int  LRKL03G,unsigned long  t_9qQ,unsigned short  bp4g,short  taJ5j,unsigned long long  s5iW8wqB)  {
   return  -68586852;
 }

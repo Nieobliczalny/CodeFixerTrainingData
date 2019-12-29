@@ -446,6 +446,7 @@ long long tyg2L_41Ad(long XoV3o_,unsigned long b3IZ)
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  zrm5Ec(unsigned int  Tw15O4q_0y,long long  HFF90eK3X,int  Y1S2zREH,unsigned long long  ahrY)  {
   return  1572560164;
 }

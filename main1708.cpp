@@ -17,6 +17,7 @@ char	u88P(unsigned long long	F5QB_2Q78I,unsigned long	oUhi,unsigned short	yGRcOK
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     unsigned long long    xW0EKE17,    n893,    Zsu6a5CTj8,    nUuQwM_x;
     xW0EKE17    =    0;

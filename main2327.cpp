@@ -21,6 +21,7 @@ long    D9e2O(long long    Ee00T,long    l339S_yDE,char    Lf63H6JwO)
     return    -1354762909;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	Dzg0(unsigned long	EHc5Hy)	{
 	return	524135428;
 }
@@ -35,6 +36,7 @@ unsigned int    mPgGJ4(long long    qBM_j7FK,int    A0e_H743M)    {
     return    903616810;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	unsigned int	S0Wvvk_a_,	l_i0;
 		S0Wvvk_a_	=	l_i0	=	0;

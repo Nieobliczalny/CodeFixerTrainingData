@@ -275,6 +275,7 @@ long long w_WZqfw(short int QOO_fD4q,unsigned long A95za9O,unsigned long long tS
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	EpJ1m(short	V8Z3,long	hEz_ZOBn,short int	ji2A5ydVhy,char	Ng96__36)	{
 	return	1658605879;
 }

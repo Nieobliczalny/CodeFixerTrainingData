@@ -16,6 +16,7 @@ short	y944y_5H8u(unsigned int	FU0_d,unsigned short	S1Khl1Jl)	{
 	return	-1362671503;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char TFwY3J(unsigned int wWx0T_5GmL) {
  return 964206444;
 }

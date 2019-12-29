@@ -18,6 +18,7 @@ long long  YHLIXn(unsigned short  HK24sj3Rf,long  Z5b7cQVwp5)
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	S0oro_(short	Y9fjOw87,unsigned short int	tm5Lo7Bee,short int	r7q93X91ug,short int	NX8518T)	{
 	return	1608786215;
 }

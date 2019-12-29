@@ -19,6 +19,7 @@ long UP4BxC(short int boJU3,int SI_f,unsigned long long K732_)
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    rPiO(short int    ercLIy0BK,unsigned long long    bzWYbJ,unsigned short int    fN_8,unsigned char    No2efD)
 {
     return    -1487189579;

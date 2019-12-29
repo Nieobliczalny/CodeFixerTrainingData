@@ -18,6 +18,7 @@ short int  G_go(long  AvPk4P,unsigned long long  Pb7G8yc1h3,unsigned int  G49nh8
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int NCxtK(short int AfZ71)
 {
  return -517552001;
@@ -33,6 +34,7 @@ unsigned short int	HWKWm1t()
 	return	341587029;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    F3m0BS6hQ(unsigned long long    p347V,long long    ehzVXAU7,short int    t2I3_Wz)    {
     return    -1356565500;
 }

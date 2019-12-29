@@ -464,6 +464,7 @@ unsigned int	wH0Q74EXX(long long	R3T5u3,short	L0jbZ,short	FQ92_J246V,unsigned lo
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char yfN45ql(unsigned int Xodxb3M6AL,char N3_M,unsigned short YhqnoC24)
 {
  return -2106298518;

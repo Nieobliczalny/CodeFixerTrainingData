@@ -21,6 +21,7 @@ unsigned char XKsurT48() {
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  j1Y9yStf(unsigned long  qI7uVcIQ,long long  HKy8nb9B,unsigned short  x_a1F0SX3C)  {
   return  -1553158096;
 }

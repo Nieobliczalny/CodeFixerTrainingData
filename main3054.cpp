@@ -531,6 +531,7 @@ long long	B_JE5k(unsigned char	l6Az_25x)
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int tKRy2blTJ(unsigned char TwzMBIkqh)
 {
  return 1956545509;

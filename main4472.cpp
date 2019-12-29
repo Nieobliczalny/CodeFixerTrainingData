@@ -626,6 +626,7 @@ unsigned short srS4(unsigned short DHxhpmnh,unsigned short int r_MUtC,unsigned s
  return -2043011573;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int Z21H(unsigned short mx97a6Jz,char Ll65jK,short int A2n_iwRx,int DO4TU3)
 {
  return 0;

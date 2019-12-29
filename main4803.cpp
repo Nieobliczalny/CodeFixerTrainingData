@@ -339,6 +339,7 @@ unsigned char  Sq612XC(char  G66hBs_0I5,short int  n31o0,char  shdASO090)  {
   return  -795439164;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	Nk7bbcYC8(unsigned long long	R_57E,unsigned int	lHz_4njc6j,short	oyMU9vI,unsigned int	AjQE14bc6h)
 {
 	return	0;

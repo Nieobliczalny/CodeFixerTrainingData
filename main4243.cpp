@@ -18,6 +18,7 @@ unsigned short int  M0blq4O_(unsigned char  P19a0,unsigned short int  D95LG31Z0,
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    BO29L05Jm(unsigned char    zKz2E9Z2V,unsigned short    mBd6H,unsigned int    B_0Y_,unsigned short int    fpi41Z_43)
 {
     return    -1770042330;

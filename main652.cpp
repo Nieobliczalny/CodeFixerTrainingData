@@ -792,6 +792,7 @@ char  Wp3U9(int  gMiELT9,unsigned short int  hqkj4)
   return  870251225;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    ng6B(unsigned char    l_rjJ,unsigned char    O5E8FM6n1,unsigned short    g7yoq,long long    J__9PDrRq5)    {
     return    0;
 }

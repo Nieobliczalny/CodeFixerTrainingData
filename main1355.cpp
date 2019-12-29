@@ -21,6 +21,7 @@ unsigned char	pQB1W(unsigned long	l5eLD0iyN,short	lDm33)
 	return	124591445;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  je68se(unsigned int  L50Jka,long long  CQl9288,int  x3p6jZc_)  {
   return  -551170729;
 }

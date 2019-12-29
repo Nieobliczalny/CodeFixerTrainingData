@@ -17,6 +17,7 @@ short int HPao0gNxF(unsigned long vMy48n_,long Tf1E1LVE,unsigned int CB9ncZV4,un
  return -816579560;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	HUQ4pjY8V(int	xUA9,long	P29_A0T,unsigned int	NSvh,int	lgjHE)
 {
 	return	195015733;

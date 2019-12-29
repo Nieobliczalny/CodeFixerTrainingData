@@ -19,6 +19,7 @@ unsigned int MvfLVTv3R()
  return 1604416202;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  Y7Yr9F8(unsigned char  DTKM3KDmi4,unsigned short  IX_7LY7Ob7)
 {
   return  -1676941335;

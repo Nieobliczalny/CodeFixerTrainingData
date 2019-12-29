@@ -14,6 +14,7 @@ unsigned char	IGlssT(short	StEqL0)
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  UbFl_3112K(long  wBhd4pfbB4,short int  vkTS2,long  SURxsI_,unsigned long  Qn__Xgzc,unsigned long long  OqHY__972)
 {
   return  -688303477;

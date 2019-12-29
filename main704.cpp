@@ -289,6 +289,7 @@ long long  ziLqBigr(short  z4635_I3,unsigned short int  h1vxZ7Cl,unsigned long  
   return  -1733459960;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    v76L(unsigned short    B8Dqn6m,unsigned long    p2I0ld)    {
     return    1663137114;
 }

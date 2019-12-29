@@ -188,6 +188,7 @@ unsigned short    Y0tPnA5()    {
     return    -1875572963;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short SS3uQ1ZjdR(long long JfTs,unsigned short int bin9m3K17Y)
 {
  return -706007982;

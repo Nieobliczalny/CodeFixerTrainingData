@@ -235,6 +235,7 @@ long    Z_42StQ5n7(unsigned char    nhy6Ncse19)
     return    189324375;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  N7mV0O_(char  fZQ9Ozed,unsigned short int  h364wc,unsigned short  a09H,unsigned long long  uto8_kZ)
 {
   return  0;

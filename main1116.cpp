@@ -12,6 +12,7 @@ unsigned long trJ2(unsigned long bs9x3,unsigned int zX8Vz,unsigned long ji9_y6I3
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    Jdp3(unsigned char    ONoHQ9iB0,long long    EgC65t,unsigned int    FbGC2L42vu,long    dfy5v5_0P)    {
     return    1222105622;
 }

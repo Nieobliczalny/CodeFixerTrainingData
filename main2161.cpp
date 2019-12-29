@@ -43,6 +43,7 @@ char    zSEsB(int    I19_D57Do,char    O045,short int    u5u3QU,int    h1V9_,uns
     return    -341316738;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	B9a4HK7(unsigned short	H0n8r__584,short	yp6qit,unsigned int	Pih58)
 {
 	return	0;

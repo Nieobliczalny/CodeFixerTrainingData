@@ -17,6 +17,7 @@ short int    tV0U1t735h(unsigned int    rsPg6VCr,unsigned int    Fy65V4E7,unsign
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	double	PQp9e38;
 	PQp9e38	=	2108783193;

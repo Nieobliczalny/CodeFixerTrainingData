@@ -388,6 +388,7 @@ short int R9LKNe9Tx(unsigned short int Jw2SDk,long A0MY116)
  return -804676918;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int umob9(unsigned long O5Yr3nV_6D)
 {
  return -1775863098;

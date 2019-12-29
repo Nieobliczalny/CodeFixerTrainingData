@@ -18,6 +18,7 @@ unsigned long long	ZTfl(unsigned short int	EvEq9_4_A,short int	tIa9hk)	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int wM50T3D(unsigned int r5AW)
 {
  return 670968972;

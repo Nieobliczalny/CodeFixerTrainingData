@@ -281,6 +281,7 @@ unsigned char Lc4La8()
  return -326760761;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long CeqE4XaxR3(int k2_Qgeqi,unsigned short int rMkEjIu4p) {
  return -1325616842;
 }

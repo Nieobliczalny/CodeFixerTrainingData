@@ -558,6 +558,7 @@ char	r1LUNMET_(long long	Uo3k4Ko,unsigned long long	dxK8U,unsigned short	H57YdE,
 	return	-1071872891;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long cE_4X3_N(long long KJsmkuy4,long iMFj,unsigned long long qCrPHlZ6,unsigned short int glOfgQH)
 {
  return 0;

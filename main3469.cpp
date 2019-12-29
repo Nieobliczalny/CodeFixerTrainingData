@@ -18,6 +18,7 @@ char sRiwLJ017(short int StVW)
  return -832917527;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  FWBV(char  PBT0)
 {
   return  0;
@@ -29,6 +30,7 @@ unsigned short int  rIdVm(unsigned short int  EIr_79V1)
   return  581317040;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	mun7i(unsigned long	PVb2h)
 {
 	return	818482254;

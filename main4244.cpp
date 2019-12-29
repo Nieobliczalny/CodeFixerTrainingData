@@ -114,6 +114,7 @@ long  n2w494(long  TMc3,unsigned short int  j777U,unsigned int  z_c6dtP)
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    uADD(int    m_52C_h4,unsigned short int    Ji29g5Y,short int    jOalB)    {
     return    84635955;
 }

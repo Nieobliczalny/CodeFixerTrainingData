@@ -16,6 +16,7 @@ short int	bABC5cg4f(unsigned long long	cH571)	{
 	return	1340669614;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	cLA095(unsigned long	bwoqxHr88V)
 {
 	return	0;

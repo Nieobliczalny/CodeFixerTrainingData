@@ -469,6 +469,7 @@ unsigned char    X0NdRkoM(unsigned long    TWT_c,unsigned long long    DmF2_MSDX
     return    1379674840;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    SvT_1Y5HEo(long long    JX09iyIN,short    tCUP1mqm,unsigned short int    L9ir)
 {
     return    0;

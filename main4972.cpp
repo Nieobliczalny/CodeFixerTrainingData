@@ -13,6 +13,7 @@ short	d_NXTP_(unsigned short	cr4DK8fb7O,long long	Q98ZaIsK6B)	{
 	return	2017564609;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long xFcukE(unsigned char bX9EWcJtm3)
 {
  return 0;

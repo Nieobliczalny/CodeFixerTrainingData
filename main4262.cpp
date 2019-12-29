@@ -251,6 +251,7 @@ unsigned char    hxl_i5v7r4(unsigned short    Ng61a7I,short    BM69q_9,long    w
     return    113361044;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	EOdp(long long	mkROyE3,unsigned long	ofPx41E7Ai,unsigned short	id748p4YJ8,long long	cIp3tI48,unsigned short	k7_v5zYC0)
 {
 	return	424238570;

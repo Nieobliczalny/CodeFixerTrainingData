@@ -21,6 +21,7 @@ char  gEj75J8l3(unsigned short int  oFCL)
   return  1468178970;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int X2482o(char WB3k) {
  return -2142591484;
 }

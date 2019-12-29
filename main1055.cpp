@@ -18,6 +18,7 @@ long long LLpd() {
  return -934172192;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     float    wAxGTP4    =    1239616555;

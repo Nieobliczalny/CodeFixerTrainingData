@@ -17,6 +17,7 @@ short int hQOG(char fYmZi8zK0,long u5Fe8Ag6,unsigned int TjtON6J,char NB_L) {
  return -123283405;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  rv5A0b2G2(unsigned long  vVdxi,short int  Vll24pJ,short int  Db7U02XU,short int  e045Q_7,unsigned short  VRPI6_)  {
   return  -112198127;
 }

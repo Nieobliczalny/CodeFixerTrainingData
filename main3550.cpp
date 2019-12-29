@@ -504,6 +504,7 @@ unsigned short    O0ZX(int    Uf9O45hQ,unsigned short    z06V0_gk,unsigned char 
     return    790655068;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    x9IhB5h(char    UbaQ8,long long    p1yv_d2bP2,int    iW1nYr69)    {
     return    0;
 }

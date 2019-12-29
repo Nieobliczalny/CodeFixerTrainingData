@@ -18,6 +18,7 @@ unsigned short    GrwLv2V(int    hz_9goa,int    R_TL32Q,short int    Qh0r7z36,un
     return    1639401534;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  fr_8(unsigned char  vhJXugu9)  {
   return  -1982056131;
 }

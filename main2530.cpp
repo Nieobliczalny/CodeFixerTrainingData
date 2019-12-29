@@ -12,6 +12,7 @@ short    a46J(unsigned long long    ay_Ft)    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	H884Yly2dh(int	LwFTr8x59,unsigned long long	m_whlX0)
 {
 	return	459747826;

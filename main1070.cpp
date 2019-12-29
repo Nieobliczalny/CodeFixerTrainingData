@@ -18,6 +18,7 @@ unsigned long    DQ8sT(unsigned short int    P_g_D2c)
     return    1158265178;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  e4ul79X(unsigned short int  Dl1x19yqF4,unsigned int  Xi_mD4aRKj,short int  Bt_v,char  Z8rhfl9g88)
 {
   return  462786647;

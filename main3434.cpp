@@ -651,6 +651,7 @@ unsigned int    UerS2AUp(long long    u_TFRZ,short    kz61,unsigned char    YVz7
     return    -1982035762;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  C9X_u3(unsigned short  x3VB4EM2R)
 {
   return  0;

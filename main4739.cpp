@@ -20,6 +20,7 @@ unsigned long  ip18Tq9nZ6()  {
   return  -870917945;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    u3luQM2(char    PBrziZvAPT,unsigned short    Qdhy_LD)    {
     return    1106243658;
 }

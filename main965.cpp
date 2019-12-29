@@ -261,6 +261,7 @@ unsigned int  AdgM9HR7()  {
   return  934725299;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short HSDW(short ncdSA,unsigned short U7jgOZ7) {
  return 159326370;
 }

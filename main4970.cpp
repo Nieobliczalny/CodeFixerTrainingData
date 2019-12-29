@@ -13,6 +13,7 @@ unsigned short int  Zq3bXtXx3M(unsigned long long  XJh75u3)  {
   return  -1683576509;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int F_ne(long Nlc_,long O9v8s5b,unsigned long long cE05c0E8oI) {
  return -2112420193;
 }
@@ -26,6 +27,7 @@ unsigned int BR8M6(int BgY7NKfFuB) {
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	cu6t(unsigned long	rzb_ms1u_4)
 {
 	return	-1992583461;

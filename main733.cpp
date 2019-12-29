@@ -463,6 +463,7 @@ int    T5sDtH(unsigned short    Kv7YMmX59y,short    m4NY_w0pF,unsigned short int
     return    2140109538;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int GQGSr(unsigned long PBs7GJM,short qe9yA,short int A5H_Eyb1W,char jV8og,char qk0c) {
  return -950741971;
 }

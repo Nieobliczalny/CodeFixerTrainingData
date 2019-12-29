@@ -14,6 +14,7 @@ long long a1zS(unsigned long ssGp5S_)
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    iJZmC(int    KJfw43r,long    kvGoSkWJ3x,unsigned short int    Fr523av_j,unsigned int    O1_W)    {
     return    -2003412735;
 }

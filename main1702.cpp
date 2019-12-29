@@ -19,6 +19,7 @@ unsigned long  fMbDmo(unsigned int  rG_h5J,unsigned char  EJU059cJ,unsigned char
   return  2062848127;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    dI6O1_(int    r95Rf7)
 {
     return    -1889394911;
@@ -30,6 +31,7 @@ short int    G5fuy3YHo(unsigned short    ir49K7,short    Zmn9,long long    Q1eVl
     return    -950701421;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  FL64_ea9(long long  uezbJ_,unsigned long  cmk01vebb)  {
   return  -1868928746;
 }

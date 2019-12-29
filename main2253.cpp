@@ -142,6 +142,7 @@ unsigned short ej933rR(unsigned long Zh3PJCzC,long long g087,long FI_7) {
  return 1018732613;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	lArIA6T(unsigned short	V6MZ,unsigned short int	E0kK7rWP,unsigned long long	BJVuKn)	{
 	return	1485748976;
 }

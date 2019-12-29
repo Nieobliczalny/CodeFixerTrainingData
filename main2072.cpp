@@ -757,6 +757,7 @@ unsigned short int	nlnfliU8(unsigned int	l5kmPoX)
 	return	629020315;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long tK6346qS(char h2rm,short SN3n18SX2,unsigned long U_Cz7g) {
  return 0;
 }

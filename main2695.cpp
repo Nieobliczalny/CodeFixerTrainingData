@@ -13,6 +13,7 @@ char    xY_eJfA(unsigned long long    lN1LIa,unsigned char    IY8p,short int    
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    Nr8ZCdX(short    gB84SLbUc,short    m88hXDuzt,unsigned long    y71_x8jw)    {
     return    -1258435311;
 }

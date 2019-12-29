@@ -18,6 +18,7 @@ unsigned int GJ354_MV(unsigned char emI7Wp_,long long qi7Gl)
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int n6wbB504(short int TWRdU,unsigned short vdV8kZ,long M50m2) {
  return -1466901655;
 }

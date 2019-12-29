@@ -651,6 +651,7 @@ long long  gY7F(unsigned char  Mlr3)  {
   return  -1945501118;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long oQtin_Ev(long long vu4FiQ_JHL,unsigned char xu80) {
  return 0;
 }

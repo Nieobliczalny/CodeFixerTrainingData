@@ -22,6 +22,7 @@ unsigned long ByI09ZM41Y()
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    dSL_6u24x(unsigned int    x0TEYk3Mo)
 {
     return    1587192396;

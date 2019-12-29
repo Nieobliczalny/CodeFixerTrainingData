@@ -558,6 +558,7 @@ unsigned short int    gxNjz2Fo()    {
     return    -1708786874;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  g2dcN(unsigned char  J8VPo2,long long  R2p_gdLZ)  {
   return  1526785699;
 }

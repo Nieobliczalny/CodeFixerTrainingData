@@ -637,6 +637,7 @@ unsigned short  LO1t37PVp(short  n8XT53g,char  L_ya_Cs0_,long  MRVlfd,unsigned l
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  SerGkTS(char  cwY4X)  {
   return  1319762710;
 }

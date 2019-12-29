@@ -507,6 +507,7 @@ unsigned long y67QS(unsigned long long XYHj3_xN)
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	yfnSY9(unsigned char	fh1S2AP1,short	AipzdMoM,short int	K8cq)
 {
 	return	-52845677;

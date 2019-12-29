@@ -18,6 +18,7 @@ unsigned long long	x9bd__l(unsigned short	rn7vN6845,int	VQo8Tdfr3y,unsigned char
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	UrFE8R_7(short int	JV7T9yf)	{
 	return	-1381446947;
 }

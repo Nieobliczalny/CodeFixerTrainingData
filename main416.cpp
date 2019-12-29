@@ -15,6 +15,7 @@ unsigned long K65c8L1u0(char i9y49,unsigned long long q_PcV6o,unsigned char oB_P
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  unsigned short int PK26m8 = 0;
 	unsigned char	BRkL3v	=	0;

@@ -13,6 +13,7 @@ char  LUrwG(unsigned short int  Az20PG,unsigned short int  QFNC9T3_8l,short int 
   return  1044305347;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    QE06(short    fkQIMl5,unsigned short    V_999S8,short int    xWuGvJ0)
 {
     return    0;

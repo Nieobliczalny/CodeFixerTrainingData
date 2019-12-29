@@ -793,6 +793,7 @@ long long  w5yQh__(long  SnqOG,unsigned int  ocjWw,short int  sdj5m7)
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  Ov7Ca_5GG8(int  pg2K,unsigned char  k4t56,unsigned char  ETkt1zGniZ,unsigned int  iVYAKdRGk,long  Ucktn)
 {
   return  -1678208292;

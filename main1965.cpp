@@ -17,6 +17,7 @@ short int OETevzk(unsigned short U_05,unsigned int KpcT5GWDS2,unsigned short pWn
  return 732819034;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int BGo_K(unsigned int c6_GB,unsigned short int mvts1SM) {
  return 0;
 }

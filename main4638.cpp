@@ -293,6 +293,7 @@ long  swgrrsgd()
   return  2102736391;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    e6I0sOP(unsigned char    d799,unsigned long    M2aM_,short    odd71sZ,long long    CWHzm4,unsigned char    Ioa41Z2A)    {
     return    -1474123514;
 }

@@ -17,6 +17,7 @@ long    bH6OD(long    EX9cmH_3,unsigned short    mSehXz)    {
     return    312736151;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    AOeR2(long    w0W88,int    Ehl9)    {
     return    1306962243;
 }

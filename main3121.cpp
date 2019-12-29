@@ -16,6 +16,7 @@ char	B0Om7n_NWg()	{
 	return	1617605207;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    Q0ggTt(short    dfkZKwnZ,unsigned long long    c88Fg66CV,short int    sbya7)    {
     return    1600470394;
 }

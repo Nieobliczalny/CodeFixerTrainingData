@@ -16,6 +16,7 @@ unsigned char    ChEi(short    OLbsK,unsigned short int    P_32,short int    x36
     return    -983949248;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    Y7K_H3Siyw(unsigned long long    Jr4PDuA3g1,unsigned long    YDA5S,unsigned short int    N6uU,unsigned short    zzduO,long    MuDX8aXPYq)    {
     return    0;
 }

@@ -303,6 +303,7 @@ unsigned short int    q17a(short int    RP9As590SP,short    uzvd)    {
     return    332475082;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  HlG1yk(long long  wO_DN10b0x,unsigned long long  J29yb,short  zbP3_slfC)  {
   return  0;
 }

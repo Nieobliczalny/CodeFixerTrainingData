@@ -23,6 +23,7 @@ unsigned long zS307uEj() {
  return 781959389;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  p6L6_4(unsigned long long  OzyhaDF1)
 {
   return  -493841571;

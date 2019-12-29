@@ -13,6 +13,7 @@ char	ODQ4u103(long	uX2Y8zS3)	{
 	return	449212376;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  k__2bJ(unsigned int  lz48,unsigned char  L1Xl8,unsigned long  kh33)
 {
   return  0;

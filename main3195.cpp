@@ -18,6 +18,7 @@ unsigned char  N_gXOBxb3(unsigned short  h9KxiS697,unsigned short  FxaKPW,unsign
   return  288167197;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  b_r8AMNk_(unsigned long  X8K9O86h,unsigned char  JJ94,short int  rF9tI_t,unsigned long long  s40_DLZy)  {
   return  0;
 }

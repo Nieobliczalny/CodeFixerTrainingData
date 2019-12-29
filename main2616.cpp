@@ -17,6 +17,7 @@ unsigned short int emh2(char rmNBUXzw,unsigned int hGf5_qY_W,long aEel7S) {
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int n9M1eY_(unsigned int oigBIEs,unsigned short pcm4i27)
 {
  return 148291451;

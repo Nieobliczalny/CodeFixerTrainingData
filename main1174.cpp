@@ -17,6 +17,7 @@ unsigned short int	Op36B0QNi(unsigned short int	vX2RXPS4,char	L5N_5_2)	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  PYCJQCIp(short int  SMDo85Nd,unsigned short int  UGg_Lvh)
 {
   return  1471750928;

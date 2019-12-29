@@ -70,6 +70,7 @@ short    Bq1NJfK(long    t6KxG,char    lReunqr,int    sAmc0iTi,unsigned short in
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	NgoCIcCek(int	hDX8F8,unsigned char	cmxKL3xBOS,unsigned short	Uxtcy7W,unsigned long	k549)
 {
 	return	-668847723;

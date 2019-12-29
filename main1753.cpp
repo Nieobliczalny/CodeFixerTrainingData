@@ -540,6 +540,7 @@ unsigned long S0b_wkVI(short int E_f8C6,unsigned short WC3b,short lddnMM6H,unsig
  return -1433057567;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	l_d8A(short	wkvF,short	MR6WmaB,unsigned long	ycGg0BC,short	T_4W6FPM)	{
 	return	428205061;
 }

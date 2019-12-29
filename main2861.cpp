@@ -17,6 +17,7 @@ int CXwPTAXKA(long l3Ztv,unsigned long long u_O_O457,unsigned short AdNiyYj,char
  return -1365780985;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  haOa740D(unsigned int  Zhf1)
 {
   return  -147123638;

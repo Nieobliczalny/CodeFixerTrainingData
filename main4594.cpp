@@ -209,6 +209,7 @@ unsigned long long    qqgc9l3(unsigned int    A2WhyLl0L9,int    g4k2,unsigned sh
     return    -60583381;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	TChS0_9(int	mQaYwefNi,unsigned short	LjS8x0eN4w,unsigned long	ugMz09n,unsigned short	w5WyFP_,short int	qrY6fnot)
 {
 	return	0;

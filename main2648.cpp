@@ -349,6 +349,7 @@ unsigned int T_OHrbtL(char Q16TtL3c_n,long wgKC,short int F43I6TS,unsigned char 
  return 2140386172;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long b5n8(unsigned short int HtJ9)
 {
  return -1674084152;

@@ -489,6 +489,7 @@ unsigned short int bw8s_9(unsigned char g7X_1,long long XUx3,unsigned short int 
  return 695452019;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    nQ1Jn(unsigned short    tR51O,char    F95n2B,char    yVxs,char    mIS5ECPK9)
 {
     return    0;

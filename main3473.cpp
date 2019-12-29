@@ -13,6 +13,7 @@ unsigned short	hGR4a9YC(char	R212p94,char	q6KU,unsigned long	fan1,char	Xm4WMfWI8
 	return	481720437;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    x__8HQM(unsigned long    e7M4,unsigned long    rAsBZn,long long    KtgV1UJW,long    UiWe,unsigned short int    Pm71)    {
     return    1417671587;
 }

@@ -917,6 +917,7 @@ unsigned long  z_qQG(int  Vg4fuwE,char  I67W)
   return  -1348300559;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	Gg2S_3vpq(short	t_tgk8MFy)
 {
 	return	0;

@@ -13,6 +13,7 @@ char RF9f2C3r(char Ep5vZCY,unsigned short k8wUOfTZ,long RylQ4dbuH,char t3AJ8w7)
  return 1637978059;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    ZUFWU(char    zU2znzeW,long long    e4T9gs10w,unsigned char    I55nBQ4L)
 {
     return    0;

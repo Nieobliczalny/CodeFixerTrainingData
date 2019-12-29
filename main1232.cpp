@@ -13,6 +13,7 @@ unsigned int	z79cxUB(long long	w87kc5Z83l,unsigned short int	ipRTv)
 	return	-1105348992;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	Cmytm6_64(unsigned short	Qa220cIH,char	KJA4f1Ylb)	{
 	return	-502355774;
 }

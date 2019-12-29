@@ -291,6 +291,7 @@ long long    iN8s(long    b5708qDg,unsigned short int    I6Y8YdJp)
     return    -859545327;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int NS18Zy7_n(short gHGk6bW8wT,unsigned char BgCK)
 {
  return 1753072886;

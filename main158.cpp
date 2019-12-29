@@ -696,6 +696,7 @@ long long	gLg9rn(long	ir3L65M2,unsigned char	mSFX8UQ,unsigned short int	m9_28,un
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	TNSZr(unsigned short	Zk1e,unsigned long	z6cs7F6aDQ,short int	w54AO94,long long	c8mvQ31y,long long	c1cUN4z5v)
 {
 	return	504627269;

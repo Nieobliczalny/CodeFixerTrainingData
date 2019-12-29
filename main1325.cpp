@@ -25,6 +25,7 @@ unsigned short int JxX6n2(unsigned long long g_6xJKutXM,unsigned int S3HC3_487,u
  return 495425158;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int sk584(int q0W38xY,long sJUg1g) {
  return 0;
 }

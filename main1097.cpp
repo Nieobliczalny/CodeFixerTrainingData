@@ -13,6 +13,7 @@ short	uhsy2(int	aRUlmU,unsigned long long	o9u5c,unsigned long long	o4Iv0ZtRGb,un
 	return	1830212961;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    oX_49ft451(long long    J6O6,long    o3x_2fL7Sp,int    d16D8e1,unsigned int    p_1S7203Ft)
 {
     return    0;

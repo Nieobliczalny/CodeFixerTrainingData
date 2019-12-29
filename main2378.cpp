@@ -14,6 +14,7 @@ long MV9t0A(short fDrv,unsigned long Rj_T14,int HzO974b0,char J5gRWGEm,char k2bf
  return -1589183100;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  mR63kSVE(long  rjv2oKs,char  j3l2,int  ilQ0gf_W1,int  x8ziG90I73,unsigned char  oCeCR1QXx)  {
   return  0;
 }

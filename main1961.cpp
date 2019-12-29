@@ -19,6 +19,7 @@ unsigned char h707z(long long GB2BayT0,unsigned long long N3ji0K,unsigned short 
  return 120160391;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int f_NkZ9(unsigned int wby3O_H,short int ZsQ3,unsigned long Wq7Y2tPa22,long long zGz86OOZ) {
  return -698432582;
 }
@@ -34,6 +35,7 @@ unsigned short int    z67E(int    AkSA7nb,unsigned short int    l5CP_1,short int
     return    -294861856;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	QP1M6Ya(long long	WD5Xeo,long	UCC5N_T2,unsigned short int	DSBxOS)	{
 	return	0;
 }

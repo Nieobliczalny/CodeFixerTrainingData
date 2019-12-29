@@ -23,6 +23,7 @@ unsigned short	PKz4u7Vr(long	mTyHf_4U,unsigned short	Zi7DXK8,unsigned long	HNHR8
 	return	-1675139624;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    DWxF(char    Sx686w_,unsigned int    Z18kQitm,short int    Eo80EVk7p,long long    oYC49qRhnP)
 {
     return    1649217033;

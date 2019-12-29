@@ -13,6 +13,7 @@ long long P_WX2NfL(short MMtjF,short int uu_p36q,char ngSC240Jo) {
  return -310293642;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	bWIiL_Lh0(unsigned long	L2Rm3bW,unsigned short	gZ_CbQRSd)	{
 	return	0;
 }
@@ -31,6 +32,7 @@ long long	ywlYAI()	{
 	return	-1988997644;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     long    KEqcn    =    1018372471;

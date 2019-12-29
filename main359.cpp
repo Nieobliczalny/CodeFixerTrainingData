@@ -21,6 +21,7 @@ unsigned short m7n17()
  return -2008670772;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    kGC5_3U_y(char    MaxkAKXMli,int    b9DE8,unsigned char    F04PE)    {
     return    0;
 }

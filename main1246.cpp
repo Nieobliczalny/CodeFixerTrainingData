@@ -21,6 +21,7 @@ short nb99H(unsigned long Y8moNyH,short e190f) {
  return 2066705500;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    U0xG70q(short    CsVKslEgK,unsigned int    SZ9Z,unsigned short    mUOX1)    {
     return    0;
 }
@@ -39,6 +40,7 @@ unsigned long long    Q3jLgi()
     return    208494207;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  long Uqls9sf8L1;

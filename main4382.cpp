@@ -14,6 +14,7 @@ unsigned char    e7QVh(short int    XOVC,unsigned int    e5k25k,long long    afe
     return    -1840896294;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long j3lYF(short int o7thqtA6,unsigned int A6QFt,unsigned int d318,char bw_8TD4I0,long long xGhU1Dk)
 {
  return -321150136;
@@ -25,6 +26,7 @@ unsigned long long    L96Fa(unsigned short    dRjjX,unsigned long long    BLv7ua
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  unsigned long cS6CHF30, Tx0Nu;
   cS6CHF30 = Tx0Nu = 0;

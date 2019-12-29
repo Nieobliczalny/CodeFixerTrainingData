@@ -361,6 +361,7 @@ unsigned long long    ZFw37I8Wk(short int    pZ5wc,unsigned short    mM439Ieg)  
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int F59M2(unsigned short int wh17_658w2)
 {
  return 713731265;

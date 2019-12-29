@@ -45,6 +45,7 @@ long long	SC9kV7_IJ(unsigned int	xslA,short int	pJM0dBM4q,unsigned char	FQzP_MB)
 	return	-1263557247;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	cs_0j7g92(long	X_387gN7,long	hHr_,int	isg1ZQ,unsigned short	UdiFwj,unsigned short	JOGD3)	{
 	return	0;
 }

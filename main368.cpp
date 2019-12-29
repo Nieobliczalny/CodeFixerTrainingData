@@ -17,6 +17,7 @@ unsigned short	BKE7z2t(unsigned long long	WmFw59ih,unsigned long	CcgxCXW,unsigne
 	return	1190403797;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	s8WtK_r(unsigned short	A150)	{
 	return	0;
 }

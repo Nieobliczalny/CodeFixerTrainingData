@@ -462,6 +462,7 @@ char	ugs_472S(unsigned short int	Sq1DGFN4)
 	return	-2034508076;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    CMG5E9pbz(unsigned short    YOwQecUK,short int    xesgK6,long    wLJ55e,long    V6PVWnN)    {
     return    737015905;
 }

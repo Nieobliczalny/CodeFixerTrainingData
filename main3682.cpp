@@ -753,6 +753,7 @@ short int    wIM8E9g5(unsigned long    nYO2559y)
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  NQhH1(unsigned char  Hi_jbZA_)  {
   return  213550867;
 }

@@ -19,6 +19,7 @@ short int    xEGv_LI1TP(long    o7ih5tDLUj,unsigned long long    L4XjK,int    eP
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   char  WMx3,  tm984wx,  Tts5eL;
     WMx3  =  tm984wx  =  Tts5eL  =  1081917440;

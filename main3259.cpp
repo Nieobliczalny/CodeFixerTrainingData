@@ -15,6 +15,7 @@ unsigned short	XT1G6Wt(unsigned int	HmHID9ho9,unsigned char	xYof,long	TgnKhge6As
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long gyNPpCO(unsigned char pgKc78eL_w,unsigned char OV9c0)
 {
  return -1076691701;

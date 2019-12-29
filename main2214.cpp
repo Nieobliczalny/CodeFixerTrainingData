@@ -483,6 +483,7 @@ unsigned long    gOOkWkTTh(char    hN57eBz5D5,long    xJ03ad,unsigned long    Z6
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short H77M_cvb(unsigned long ls1lY) {
  return 1005705421;
 }

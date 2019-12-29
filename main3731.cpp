@@ -17,6 +17,7 @@ short int	HLm86Q05c(short	BVb8,long long	sp_dynn)
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  dVdIQMcU_(int  l2jQlO4x1)
 {
   return  -1598247449;

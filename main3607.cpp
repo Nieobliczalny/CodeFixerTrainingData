@@ -1216,6 +1216,7 @@ unsigned short  cbz9F(unsigned long  XQ3L,short int  z7_MAb34Cv,unsigned short  
   return  -1834051122;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    I_Wd4xp09H(short    ETE6vl3CUj,short    Vl667,unsigned short int    kpq9UpX8F3,unsigned short    gS_3PH7n11)    {
     return    0;
 }

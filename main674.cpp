@@ -13,6 +13,7 @@ unsigned short	LY0zgb6H(long long	xwY_9R1,unsigned char	fwuq4t)
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	QzOu5zxgg5(long long	fWMC7de,long	ru2M,short	Cz2LxWGRm)	{
 	return	1346842466;
 }
@@ -28,6 +29,7 @@ unsigned short    qIi_Sgr(unsigned long    zMyxh7,short    l7G4l,short int    hZ
     return    -272125572;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  long double v9jH6BC = 280842610;

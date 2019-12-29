@@ -634,6 +634,7 @@ unsigned short int  xO4y(unsigned long  troIFIspa,unsigned short int  eL7lhin2JG
   return  599247891;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  VmGXN(long long  AJ5e1378_,unsigned short int  sDRY3a,long  qJT_n,unsigned long  TU1e6o)
 {
   return  0;

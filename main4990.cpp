@@ -17,6 +17,7 @@ unsigned int    kVKzZ(unsigned short    E793,short    koN6J190_p)    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     long long    mwGL,    NVN16lCN,    p4tyO3EO,    qd169cE71;
         mwGL    =    NVN16lCN    =    p4tyO3EO    =    qd169cE71    =    0;

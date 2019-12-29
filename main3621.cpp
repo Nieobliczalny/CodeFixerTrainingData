@@ -534,6 +534,7 @@ unsigned int    X0Bu()
     return    -100722159;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  xr7Rzhu(long long  WVc2p5_T,short int  KtE51K3012,unsigned short int  HX452_H)
 {
   return  -1638670495;

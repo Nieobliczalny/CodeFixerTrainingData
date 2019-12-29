@@ -483,6 +483,7 @@ long LtIFLWrJ(unsigned long FLd5NpF,short MfNQ8,unsigned short int D805d,unsigne
  return -1626838818;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long sf1Cq8i(unsigned short op8M31,unsigned char tpCG1Ke2,unsigned long cp4C) {
  return 0;
 }

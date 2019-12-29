@@ -18,6 +18,7 @@ int r3cLcGA(unsigned short Li3zm,unsigned int b59Axh,long ng_I54Fn3)
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	C2AK_80c1T(short	MmFw6Gr7uo)	{
 	return	-1761097180;
 }

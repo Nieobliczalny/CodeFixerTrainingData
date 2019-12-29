@@ -298,6 +298,7 @@ short int n7dd(long Zr7I93AG,unsigned long Scs2,short int Li873_,unsigned short 
  return 1308476136;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	Pp9u2_83L6(unsigned long	yJ3nRu,char	LEQ4wo)	{
 	return	-1079381628;
 }

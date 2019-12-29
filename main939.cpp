@@ -21,6 +21,7 @@ unsigned short int	MVkL9EyX(char	f8FUSyr2)
 	return	-728123516;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  nk9n76kQe(long long  rCFHjD0_dn,short int  v0E_g_,unsigned long  EA9k5kTP0,unsigned long long  fc__t1)
 {
   return  0;

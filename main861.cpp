@@ -22,6 +22,7 @@ short	aaXt(unsigned long	tO_e,unsigned int	UL3zCD31a,unsigned short int	zWeELgr7
 	return	-1420941105;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int W16OAIF(unsigned char eLpdr,int D_h9B6LS4E,long long au998_510)
 {
  return -19056434;

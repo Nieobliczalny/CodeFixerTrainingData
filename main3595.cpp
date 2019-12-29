@@ -562,6 +562,7 @@ char Nu4H86nmeP(unsigned int si546z58,long long Yiz4ds,unsigned long long N22fpG
  return -1690378973;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  UM45145t2(unsigned short  pxj6Y1XV,unsigned short int  mHM_7,long long  K9HBy,unsigned long long  LUwd4VE)
 {
   return  612845281;

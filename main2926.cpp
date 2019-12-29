@@ -649,6 +649,7 @@ unsigned long Q8fi1i(unsigned int qyO04fZi7) {
  return -779450922;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    sJO0hbz8vc(unsigned short    rSbUxKL)    {
     return    -553002686;
 }

@@ -13,6 +13,7 @@ int	I24JX1q5S(short int	yg2_5O2b7i,unsigned short	Kd8B8Wjm,unsigned short	hN8_Gl
 	return	-581229409;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  L2nh7B(unsigned long  B60MSi,unsigned long  u1C2,long long  Hr_xP5)  {
   return  0;
 }

@@ -442,6 +442,7 @@ char    WMWvE9X4(unsigned char    luy30Xt,short    D1KQy2,int    hc642,long long
     return    -1607374362;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long rw_Do8(unsigned int PfW4MHdZwT) {
  return 0;
 }

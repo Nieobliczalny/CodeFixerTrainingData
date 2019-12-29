@@ -157,6 +157,7 @@ int    G2FA2(short int    BSQZC,int    hniTNu,int    F_EEEmXx0z)    {
     return    2041991308;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    uxl4(unsigned char    E8_E2,short    L85nN488cw,unsigned char    toGq7d_)    {
     return    0;
 }

@@ -17,6 +17,7 @@ unsigned long	F5Qr1mQ0()	{
 	return	-54577117;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     unsigned long long    zrXc26E    =    -1519193530;

@@ -256,6 +256,7 @@ char	KQYvZw(unsigned short	oG9at,long long	aLLw1S,char	gx6w,unsigned short int	P
 	return	-1250110824;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int SWOxBdP4(unsigned char PpNAx)
 {
  return 999046496;

@@ -20,6 +20,7 @@ long long    ffV5Se4(int    qC6B,char    t_CA24,short    EEQJfTG8wa,char    C65t
     return    231357647;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  omwei2(long  vLZdt2aLp,short int  o9SqL4d,unsigned long  kFK0O_78,short  joZ8Ze)  {
   return  0;
 }

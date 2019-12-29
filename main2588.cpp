@@ -17,6 +17,7 @@ char  R4R840r8(unsigned int  V__25A,unsigned short int  LwqSTOr5HE)  {
   return  -1913341101;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    F7vL(unsigned long    AsB111_,unsigned short    HXhpe05Pq)    {
     return    2127619511;
 }

@@ -17,6 +17,7 @@ unsigned short int	OJj7(char	h7dq29,long	iKuE6_4__,unsigned long long	Hdi85)	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long It31uzF25(unsigned long long sLgg,short T0U5uCF,unsigned long g04XbZd,unsigned short int A53C) {
  return 1406989283;
 }
@@ -32,6 +33,7 @@ long	xjN7RWh_3(unsigned short int	dZzNJ,unsigned short	m7aH4)
 	return	-1241406753;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  double M2zy = -1633450112;
   unsigned long  Cd2_  =  -1324451750;

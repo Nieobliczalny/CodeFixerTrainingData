@@ -330,6 +330,7 @@ unsigned char  Qy18a(unsigned short int  v0mpF,int  ksuF6q,unsigned int  WRTv)
   return  1599711007;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    u8_4(unsigned short    aYf1s,short    gBfk,int    F1BW7W,long long    VW_yJ51,unsigned char    NOAwPE8)    {
     return    -1112177933;
 }

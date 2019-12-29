@@ -18,6 +18,7 @@ short int    RXndDO2_(unsigned short int    Ypj9RK3_5i,unsigned char    QRA9_2Q3
     return    607257611;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int hbdqq_(short iR64EDRc,unsigned long long lggv_E,unsigned char ZNb7l0) {
  return 0;
 }

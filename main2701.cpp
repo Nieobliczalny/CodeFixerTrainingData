@@ -16,6 +16,7 @@ int ihEZE6(unsigned short ex3By,long Sa8L6LKgY,long long rnQhC69L_,unsigned long
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  Y5R4Ro65(unsigned short int  Qu8d_2I,short int  u6fvOm1jDp,unsigned long long  k1BQ8Oe4GN)  {
   return  1926817287;
 }
@@ -35,6 +36,7 @@ long WhQ9Q() {
  return 2121811326;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  char PTpE9vXl = 507495445;
  float i6073_qj_Z = 722547295;

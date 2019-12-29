@@ -492,6 +492,7 @@ unsigned char	YiiF9Y51P(int	fRbADe5,long long	Qa4GT9p)
 	return	-1215910212;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    UM5_NoS_gS(unsigned long long    ZrWfl2hsQ,long long    AHXsy877,short int    kDj899MBi7,long long    x5Of)    {
     return    1861603336;
 }

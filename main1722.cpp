@@ -159,6 +159,7 @@ long long	n_X7sOz(int	nRPI_5x)
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  nDuM(long long  rHXuF,unsigned int  ieJc5Peb,unsigned short  Y0XZK)
 {
   return  229492344;

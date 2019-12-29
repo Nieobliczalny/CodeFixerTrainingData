@@ -21,6 +21,7 @@ unsigned int W527DJ(unsigned char P_rly) {
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  Q3Oce8gu(unsigned long  Cjx50G,unsigned short  me1tCLKED4)
 {
   return  775057729;

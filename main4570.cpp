@@ -26,6 +26,7 @@ unsigned char    m4nacl79Ev(char    iHf3t4,unsigned long    QXBegD1SoC,short    
     return    -197698804;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long SH_m5I(short TfU_V6) {
  return -2037027727;
 }

@@ -15,6 +15,7 @@ unsigned short int    CIg3(unsigned long long    bl5Z)    {
     return    463142943;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  t730(unsigned long long  N_52E9,long long  c_gAz)
 {
   return  0;

@@ -27,6 +27,7 @@ unsigned char  yz3n1(unsigned char  g_xB,unsigned char  N797Yh,char  W0obxUaY)  
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long WFf5(unsigned short m2th3,char hib20p354)
 {
  return -34925487;

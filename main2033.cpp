@@ -20,6 +20,7 @@ unsigned char    E2Eh_ITyO(unsigned int    I3m0_GaWM,unsigned long    LqcSxp)   
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  pHKczsjN(unsigned int  Ba38a92V,short int  iL3_b_)
 {
   return  600734581;

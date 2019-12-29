@@ -14,6 +14,7 @@ unsigned long long	LFcSj(char	k6C_)	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     int    qr3RrUQz    =    -1040216866;

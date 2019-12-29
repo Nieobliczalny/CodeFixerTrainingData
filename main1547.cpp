@@ -260,6 +260,7 @@ short int epM7(char EAcn)
  return 1289831399;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short s9H4r0K(short RydNe3Wr4Z,short dX7UxK,long fN_754,unsigned short int ZdL1S153M) {
  return -491067347;
 }
@@ -274,6 +275,7 @@ unsigned short j364m3R_0(short int N1X3oUM2,short int t718BIN,int oAp831C,unsign
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  Q31g_MZ965(int  B3_N)  {
   return  857760514;
 }

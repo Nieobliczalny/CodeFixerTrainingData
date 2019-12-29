@@ -189,6 +189,7 @@ long long mdKD7i5(int DigTwhz,long long IKZN,short Za39c91rbx,short int H0sfpA,u
  return 706192606;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char u0s4nUb87k(short uWf24K)
 {
  return 0;

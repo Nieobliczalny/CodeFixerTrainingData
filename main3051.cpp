@@ -21,6 +21,7 @@ char	d5_Ql10H(unsigned int	l6Y8E,unsigned short	u88LUw,unsigned int	uLZChf92Yy,s
 	return	287839624;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  klH92(unsigned short  D9akpX_bEl)  {
   return  0;
 }

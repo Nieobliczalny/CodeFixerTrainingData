@@ -17,6 +17,7 @@ short int E32_e1mk8(unsigned short int p2paCJA)
  return -1221361348;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  O3RD(char  iZNU1mX1y,int  SHj55kI3P0)
 {
   return  0;
@@ -28,6 +29,7 @@ unsigned char  J6v82kYd4(long  vU2Noh7YL)
   return  538793516;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	m84x5(short	F4P58e_fu,unsigned int	NEP2G5,unsigned char	ZAlTL03C5V)	{
 	return	-1595690068;
 }

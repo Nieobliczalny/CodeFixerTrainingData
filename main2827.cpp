@@ -14,6 +14,7 @@ unsigned short aBAs8W26Nq(int b8F_9tP,unsigned int r7I3Av6,short int Whz80jE3ak,
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   long  I2_Wm  =  1256615922;
     unsigned long long    nnyP    =    -9574915;

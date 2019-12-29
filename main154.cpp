@@ -16,6 +16,7 @@ char v_Uk4_w20_(unsigned char k_8b,unsigned char G_wYf,unsigned short CJM788,uns
  return -1746276616;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  oC4q7b(unsigned long long  E5RopL_,short  u44he,long  mhu0Z,unsigned int  lBJ9)
 {
   return  0;

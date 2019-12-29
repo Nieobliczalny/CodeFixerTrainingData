@@ -598,6 +598,7 @@ unsigned short    h2U6(char    T1F6K,unsigned char    ESke)    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char m_rV2Y(short Q11k_Z,unsigned short gx1n7,unsigned char qvaLW,short z7Yx2_,unsigned short UM68tqq) {
  return -1182451328;
 }

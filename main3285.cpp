@@ -17,6 +17,7 @@ long    l5NHyC5i(unsigned short    YeY_YxleU)    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	GB_G_(unsigned int	M_8R24A,unsigned int	npws)
 {
 	return	-1997777357;

@@ -22,6 +22,7 @@ short int	QZ0F8dxmv5()	{
 	return	-1374186069;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int Glvv9s35R(unsigned long w9Wv,short int Qvx6nIysiM,long long AF_54dorms,char n46l3F) {
  return 1791576134;
 }

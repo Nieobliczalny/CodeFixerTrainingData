@@ -376,6 +376,7 @@ unsigned short	zMHaIJ191(unsigned long long	dsB20EQa,unsigned short	L37canc,unsi
 	return	101390882;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    wj1fJO1_uZ(char    ChMfj2p)
 {
     return    0;

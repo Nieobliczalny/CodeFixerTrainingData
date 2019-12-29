@@ -450,6 +450,7 @@ unsigned short xVyA_Y() {
  return -2036084665;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  mq5s(char  k69c8LJQFr,unsigned char  w8q5,unsigned short int  w9_K)
 {
   return  0;

@@ -19,6 +19,7 @@ char yR78WfHW(char jyU8wxH)
  return 1077050513;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	N15rYfM(long long	iNex)
 {
 	return	0;

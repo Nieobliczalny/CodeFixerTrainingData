@@ -15,6 +15,7 @@ long long  O_eNO(unsigned short  oW193N_S)
   return  500747918;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    zIif67h(unsigned short    v2YS)    {
     return    193827251;
 }

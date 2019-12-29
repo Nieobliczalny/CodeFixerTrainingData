@@ -20,6 +20,7 @@ long tOBA() {
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    lxCFYlw(unsigned long long    M10sOqg,char    p2I9cR,short int    N_Jzh6D)    {
     return    1239037243;
 }

@@ -21,6 +21,7 @@ long long  M8PIHy95(short int  zOS9,unsigned long long  KBKIbR,unsigned char  uu
   return  1872453093;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  W5K6yB(unsigned int  WyBEy84,unsigned char  Q1jeA4P2WM,unsigned short int  kWP0,unsigned short int  QKf3,unsigned long  k4K_8y)  {
   return  968819177;
 }

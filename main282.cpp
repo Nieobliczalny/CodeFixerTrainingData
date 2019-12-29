@@ -18,6 +18,7 @@ unsigned long	A1BeBvPW(unsigned short	w0tRT,unsigned char	dE6X,char	TXd9N,short	
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   int  i0qxeI__  =  131059119;

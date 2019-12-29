@@ -18,6 +18,7 @@ int    ljC68B(long long    hZkav4mWc,unsigned long long    Ry803a,unsigned long 
     return    -263931585;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  G36C2c(unsigned long long  xAW160Px,unsigned short int  q95zUL)  {
   return  921595715;
 }

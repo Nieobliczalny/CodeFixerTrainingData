@@ -16,6 +16,7 @@ unsigned int  Ui_1_Vh_IG(unsigned short int  f92oN,short int  I2BfZ,long  Fkc8Dm
   return  1771743318;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long iMi8Q9(unsigned char PTvo2e,unsigned long long gXONwFz3) {
  return -1462769633;
 }

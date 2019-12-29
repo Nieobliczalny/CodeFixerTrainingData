@@ -19,6 +19,7 @@ char  Lf3zqu_53G()  {
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char Ov1ndN(long long P_F8EPVe,unsigned char z2u0I4) {
  return 968948095;
 }

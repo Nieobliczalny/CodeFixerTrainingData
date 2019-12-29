@@ -640,6 +640,7 @@ unsigned long	Lpl_JF9Bc(unsigned long long	uJccD,unsigned int	pB6S2j9T,short int
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	RBPK864(long long	sg9G_zG,unsigned short	nk_ys93,unsigned long long	Pi_EvtKmO_)	{
 	return	383832038;
 }

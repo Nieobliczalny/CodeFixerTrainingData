@@ -18,6 +18,7 @@ unsigned int  aj1_Md9(unsigned long long  XT67jF3m4)
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     char    O2jH_4;

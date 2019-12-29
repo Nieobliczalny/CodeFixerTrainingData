@@ -17,6 +17,7 @@ int	R2HZl(unsigned short int	GrjF2f9n,unsigned short	ya2t_txen2,unsigned short i
 	return	-772197344;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  TBm879Uo7s(short  LPtOvNXjo,char  yxl638,unsigned int  qT9xs,unsigned short int  BeuK01Or)  {
   return  -1763254619;
 }

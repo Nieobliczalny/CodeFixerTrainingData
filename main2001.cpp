@@ -23,6 +23,7 @@ unsigned char  bdko0rVl0_(int  CJ76Fn840,unsigned short  QtqoW7f87U)  {
   return  715197707;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int CO_zu1eP(unsigned short int d0qD5,char Y0k_Es03)
 {
  return 163412479;

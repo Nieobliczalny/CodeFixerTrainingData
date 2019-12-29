@@ -516,6 +516,7 @@ unsigned short int xkxIh6C(int m9Y4xo1,unsigned short int G_u0mX3h,int bFj1,unsi
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int PNrQlg7K(char okwyv02zJ2)
 {
  return 5625195;

@@ -12,6 +12,7 @@ long	RTzYD(int	MWG3,unsigned char	JDAk_ZS0O)	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short TExHD2q(unsigned short int OI3ejd_4p,unsigned long long cVoPs,long long EJ49)
 {
  return -607950720;

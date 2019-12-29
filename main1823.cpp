@@ -21,6 +21,7 @@ long long  sGnX4H6(unsigned char  fe__a435O)
   return  -1536629552;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  P3PByj5N0F(unsigned short int  X3Mx0,char  rRsvoYU_,unsigned int  p5vO,unsigned long long  TZjyh,unsigned long long  NDH40x4)
 {
   return  0;

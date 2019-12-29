@@ -19,6 +19,7 @@ unsigned long    q2y44(unsigned int    F7_0,unsigned long    JMZ6,short int    P
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    jnrL_r(int    gghN94zXKd)    {
     return    159286764;
 }

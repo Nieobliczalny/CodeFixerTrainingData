@@ -14,6 +14,7 @@ unsigned short  YXV274N(short int  KgWkJ,unsigned int  OgG_,long  y2C4mJupJ_)
   return  2140391150;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int RugQq(unsigned short int Ihu1xq,unsigned int Wc1i3_m_f,unsigned long M30FzX1c,long zNJLh63Z8,unsigned short H4e6HqyIO) {
  return -1706961587;
 }
@@ -31,6 +32,7 @@ short int    bznnJ9()    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   float  AdJ370G  =  378669487;
  unsigned long long m2C3o9s28 = 0;

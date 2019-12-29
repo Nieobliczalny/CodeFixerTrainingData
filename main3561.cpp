@@ -18,6 +18,7 @@ unsigned long long    yYeS18f(char    U857hO20,char    iLG7b_B5A)    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    faSyumR4T(unsigned long    KyWfe,unsigned long    liyX_L,short    QuxjEk5D,unsigned long long    w6UKFX)
 {
     return    -1362400896;

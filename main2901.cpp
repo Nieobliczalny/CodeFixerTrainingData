@@ -15,6 +15,7 @@ long long lLy9iM(long long R6sTNE6v99,unsigned short il08j,char ymfbvwl)
  return 851757887;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short O4440h(unsigned char gYwp4hK_ne)
 {
  return 0;
@@ -26,6 +27,7 @@ short  Q6F1gQ(long long  DuL4E1A,short  rxOF,short  P7z6,short int  E_Zd3)
   return  1535712347;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    NiO7(unsigned char    OStX,int    Re_r,unsigned long    g63e,short    RyY6,short int    y5yPbe)    {
     return    1159486093;
 }

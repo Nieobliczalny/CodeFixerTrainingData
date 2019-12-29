@@ -22,6 +22,7 @@ unsigned char MQ62V0(unsigned int Nun9j5WBIj,short K2w_V93) {
  return 916801300;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long CjcG(unsigned long o20onrj5,unsigned int YGzI62,char OUZ8S6V,long long Pm2mR2147U)
 {
  return 0;

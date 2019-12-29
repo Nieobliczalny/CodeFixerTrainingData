@@ -18,6 +18,7 @@ unsigned char	lxve_qBm(unsigned long	Zy_94)
 	return	-1636003460;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  JfiD(unsigned long long  g3D5F)  {
   return  -1057438943;
 }
@@ -32,6 +33,7 @@ char  BfZMRE9ZU(unsigned short  FK7pw0QS)  {
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  J86BWIWO(unsigned char  N7M_E,short  ne9Ph,char  C6T_,int  yiMKF_,long long  g79AXG7f83)
 {
   return  -580433158;

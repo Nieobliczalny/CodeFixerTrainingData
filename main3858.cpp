@@ -18,6 +18,7 @@ long long  su58l(unsigned char  WR4ZyW_R2,short  bveKJ5n5xS,unsigned char  bSaTe
   return  460122950;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int CvxF(unsigned int ZBW0,unsigned long Z95hZ1Dd,unsigned short vTGkQvDn) {
  return 0;
 }

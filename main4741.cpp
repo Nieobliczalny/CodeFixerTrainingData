@@ -620,6 +620,7 @@ unsigned char	l6I1zr9A5h(short int	CC6g,int	WfIFiu4j)	{
 	return	-1370177237;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  Br6_61c(unsigned int  QE0Z8545H7,long long  R27yQh_R,unsigned char  MtoEDaiL,unsigned long  SyeWAy7md)
 {
   return  -941779707;

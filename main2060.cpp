@@ -586,6 +586,7 @@ char    s689z5__9(int    Z1Hp6I4W1)
     return    -523941559;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    hbFc(long long    l1a3bn,unsigned long    dzB9,short    nLid5QLRo,int    xWt3t,unsigned int    RdurQvzy)    {
     return    -402381981;
 }

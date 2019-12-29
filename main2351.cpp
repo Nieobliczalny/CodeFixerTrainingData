@@ -465,6 +465,7 @@ unsigned short    cv09(unsigned short    g00W133,unsigned int    w4455AWqqW,shor
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  h_27Mx9z(unsigned short  a88u8WLxY)  {
   return  1969436656;
 }

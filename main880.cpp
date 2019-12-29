@@ -17,6 +17,7 @@ unsigned char    necy_6RxYC(unsigned long long    l9Us,long long    M8obFJ,unsig
     return    983072116;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	BJtG87q_(unsigned short int	kI3Ds_,unsigned short int	ml3At)	{
 	return	0;
 }

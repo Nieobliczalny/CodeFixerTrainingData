@@ -14,6 +14,7 @@ unsigned short	vRinaQ3j(short int	QE8VEW3J_)	{
 	return	-1876291278;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    B02i7w_my(unsigned short int    jhNYa9lkG,short    TPHFE,int    AAt5OwU6,unsigned long    KIeB6KfG,int    og8_)    {
     return    -1852149335;
 }

@@ -435,6 +435,7 @@ unsigned long	OtxZ9dnWZ0(unsigned char	FYEv_bXS6,long	uujYy_,long long	Th7DEAe,l
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    SXdr8(unsigned short    g2JgRLupg,unsigned short int    G8Y0pi_,short int    zKq8Q)    {
     return    159869591;
 }

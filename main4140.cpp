@@ -17,6 +17,7 @@ char  EteW4WbN(unsigned int  zU9TKf7,char  sraaakd)
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	unsigned short int	Nb6Zb	=	261105119;

@@ -18,6 +18,7 @@ unsigned int    A5h3Wum3Vs(long long    JdhKJ_qa4,unsigned long long    Ouat,uns
     return    1463218320;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short Uf060xfz6(unsigned short Gr_V20W1,unsigned char rpT7w0tTi,unsigned long long uT_094) {
  return 0;
 }

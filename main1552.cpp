@@ -368,6 +368,7 @@ unsigned long sX5vHZ(unsigned char cbna7Ac)
  return 23585959;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    Gm_43Y(short int    jh7P,long    yNJMisL,char    f4v3arA)    {
     return    0;
 }

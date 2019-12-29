@@ -15,6 +15,7 @@ char  u09Pb(long  gD4VMVm3v,unsigned int  j29ZRFT,unsigned int  HdeYNZQ1,unsigne
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  short A0bCy3p = -14737828;

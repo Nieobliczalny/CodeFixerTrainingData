@@ -20,6 +20,7 @@ short int    L1FWPU73(unsigned short int    Ty2CZUOB,unsigned short    YT61F)
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   long long  L177,  OmioR9Aj2m,  uIl9dnY_;
   L177  =  0;

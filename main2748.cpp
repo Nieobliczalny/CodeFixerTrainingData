@@ -553,6 +553,7 @@ short    uR9Itsju9R(long long    eqG1,short int    PnqJi9K4)
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int P_143aP(unsigned short int lwk0J,unsigned long YdG2k,short int kw7_5i9s78,unsigned short JnVq_U3)
 {
  return 366889371;

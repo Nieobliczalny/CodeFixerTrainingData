@@ -724,6 +724,7 @@ char YWkzy(char X21y1HXCG,short int Z_o5,short YfL6_y)
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    rlB5g(unsigned char    RxO3gQ7,unsigned long long    FZyp2,short int    egfpSl3W0W,int    F6A1n8,unsigned short int    c9ATP)
 {
     return    1234001886;

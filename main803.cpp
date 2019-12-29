@@ -433,6 +433,7 @@ unsigned short int	P5Pb7Z(unsigned long long	W2Kt)
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int ZNnavh0C2(unsigned int qnk2,long long DM4Hat,unsigned long long jij3Q) {
  return -980729064;
 }

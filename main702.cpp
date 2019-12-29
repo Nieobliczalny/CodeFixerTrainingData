@@ -665,6 +665,7 @@ unsigned int  A_37uw(unsigned int  yYTJm)
   return  833154791;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  k1G14p(unsigned char  X4Z6onrE_)
 {
   return  -1662719238;
@@ -676,6 +677,7 @@ long long  v95w_tk_(int  bXi21qz02,long  ht6R6,long  Q_1M6l)
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    Mjaakc6(int    vjJC)
 {
     return    -843346676;

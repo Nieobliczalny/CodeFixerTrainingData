@@ -24,6 +24,7 @@ long mZ40(char NC29CQ) {
  return 639464457;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	i7eIuO_PKU(int	csP1)
 {
 	return	0;

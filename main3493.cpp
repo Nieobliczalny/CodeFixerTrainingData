@@ -13,6 +13,7 @@ unsigned long y4JYW1SheY(char be7_q29w,unsigned char r48w3,unsigned long long dF
  return -178209560;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	lH5N6(long	ZUY53,unsigned short	jw0s,unsigned long long	C3GIrKnjMk)
 {
 	return	2126858280;

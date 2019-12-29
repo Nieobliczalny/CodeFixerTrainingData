@@ -14,6 +14,7 @@ char	rhs2W5WBT(unsigned int	awQdG)
 	return	-1749345926;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	VM0t5(unsigned char	K_qD,unsigned long	mJcCt06A0p)	{
 	return	0;
 }

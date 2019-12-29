@@ -758,6 +758,7 @@ int jT2fnE(long u_28rP_xC,unsigned int YX2pw7y,long long WV7pC2u8Mh) {
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short pXPjg_L1_p(unsigned short int z_3b6H_h,unsigned short X9s47Q_G40,short y0jpQd1,short int nWhi,unsigned short B_85HFT13)
 {
  return -1589470037;

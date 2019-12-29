@@ -13,6 +13,7 @@ unsigned long    s77Gfgi(int    TaMoZM,short    hTzT9W3Cxr,unsigned short int   
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	p10s7d(char	O2xwI4daE_)	{
 	return	1798425878;
 }

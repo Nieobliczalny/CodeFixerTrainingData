@@ -14,6 +14,7 @@ short	j7I6M0Vs(short int	mA6h6)
 	return	747181502;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	Ayp7(int	sOiLLZri)	{
 	return	0;
 }

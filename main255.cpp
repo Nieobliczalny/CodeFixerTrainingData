@@ -33,6 +33,7 @@ unsigned long LKnt()
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	short int	j605;

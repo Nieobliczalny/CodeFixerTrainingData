@@ -284,6 +284,7 @@ short int	qBoNpuRR(int	gkm2,unsigned int	Ke3KP)	{
 	return	346708445;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  ouIu2AAa2G(unsigned short int  ZHJU)
 {
   return  -1097912730;

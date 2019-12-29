@@ -13,6 +13,7 @@ char  uO5DGx2Nl(unsigned short int  j6DsF,unsigned char  CAKt1lsi_,int  Edeu1,sh
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   unsigned char  UNMOF5L5;
   UNMOF5L5  =  -837803309;

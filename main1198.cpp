@@ -17,6 +17,7 @@ long long    WXEn22SFt(unsigned char    xKvl_6Vn1)
     return    -304829893;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  fXNKajo9nE(long  T7_tG_C6,char  w_O9,unsigned long long  c_XT9E,long long  y9bm,short  P9bBc0_7J)  {
   return  1390338183;
 }
@@ -32,6 +33,7 @@ short int    EenuU(unsigned short    Uv7v3hz,short int    tW5g,char    i5F1nL0X,
     return    450173124;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   long  u86_JOft5p  =  0;

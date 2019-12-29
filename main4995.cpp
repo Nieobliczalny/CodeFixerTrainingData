@@ -13,6 +13,7 @@ unsigned short	L99KOb(unsigned short	v4Yv_kRmg,long long	Jrfc5L,unsigned long	sh
 	return	-1690620170;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	pW4asS6n(long long	Qr8Z,long	WG2ORR1AM5,long	ynB8iZV9,unsigned long long	F9Bh)
 {
 	return	0;

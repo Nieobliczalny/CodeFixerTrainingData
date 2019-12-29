@@ -22,6 +22,7 @@ unsigned short    aI_6Yzss(char    rl4Puifl,long    L67B)    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
     unsigned long long    ADcR,    M11c1vxc8,    UJ4n226v,    Hv_5B,    Nsn8_KF;

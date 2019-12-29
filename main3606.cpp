@@ -17,6 +17,7 @@ unsigned long long  QUxy(long  U_mC82,unsigned short  UhA10xf,unsigned long long
   return  279063255;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	b3YQ(unsigned int	RRrs7mPq1,int	Vv1nUFyNC3,unsigned short int	suJns,unsigned short int	Hw9GC)	{
 	return	0;
 }

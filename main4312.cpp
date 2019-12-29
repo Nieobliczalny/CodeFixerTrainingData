@@ -688,6 +688,7 @@ unsigned char    szggdyYS6w(long long    C40y,unsigned int    DcfvlMvbB,unsigned
     return    1941147342;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int la9rS23D(long bma20__,long naSrS) {
  return 0;
 }

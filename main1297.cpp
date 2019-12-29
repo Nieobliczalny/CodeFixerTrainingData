@@ -17,6 +17,7 @@ unsigned short int    U1YMm9(short    KjeBnEErQA,unsigned long    PYtV,short    
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	g1Dsc9qMa4(unsigned short	n_a7Y)	{
 	return	115297370;
 }

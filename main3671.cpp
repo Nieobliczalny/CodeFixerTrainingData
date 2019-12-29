@@ -296,6 +296,7 @@ unsigned int	VM4Y9bIfC(short	C2OrZ0r,short	fky_oKCfI,short	bnsyPTQR,unsigned lon
 	return	-1230780323;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	Nc5uutBaN(long	yOaF_Vk,short	lB5ZSJr,unsigned int	qaAhQj)	{
 	return	-1225007221;
 }

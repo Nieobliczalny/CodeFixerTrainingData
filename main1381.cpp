@@ -510,6 +510,7 @@ unsigned long V4C5W6t(unsigned short Z1P8AQ0)
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int JLMqVa80c(unsigned long wAUvjueK)
 {
  return 1180970329;

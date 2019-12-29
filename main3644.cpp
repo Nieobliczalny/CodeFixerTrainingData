@@ -14,6 +14,7 @@ unsigned long    fU03(long long    I7N_6b,unsigned short int    ge1h999,unsigned
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	double	XP_BTL;
 	XP_BTL	=	1314730119;

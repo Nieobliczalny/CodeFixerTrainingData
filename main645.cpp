@@ -13,6 +13,7 @@ short    t7Pa(unsigned short    xJ675Jibvk,int    mgYNevfxfc,unsigned char    dH
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short  t928(short int  gkhhwEn9,unsigned long long  nB4VgI)  {
   return  1578708844;
 }

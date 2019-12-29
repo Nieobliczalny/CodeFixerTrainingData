@@ -149,6 +149,7 @@ unsigned int  s325OvPFz(unsigned short int  n9yRY8,short int  R91q2xN,unsigned c
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  GT_WLc8E(long  IN851my3c,char  L85PDF00b5,short int  ekoxv2P3C,unsigned long  Op39a)  {
   return  1416530566;
 }

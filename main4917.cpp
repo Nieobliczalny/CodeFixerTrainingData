@@ -968,6 +968,7 @@ long long    xi8d(short int    yWT2_Xjo)    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long I03c6p2(int r0_D_,unsigned short int KRd2M8T97A,char Hfch,unsigned long dD1YVDg) {
  return 2113164819;
 }

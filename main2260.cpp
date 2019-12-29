@@ -851,6 +851,7 @@ unsigned long    D5b5mP_uv(unsigned int    XW_seJPK,unsigned char    IfBSt,char 
     return    -364700834;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    irLrb(unsigned short    aMKC6zw3,unsigned char    x6Eq7J,unsigned char    CG43dH4J,int    n4d70gcY,char    RY_r1D)    {
     return    -65169756;
 }

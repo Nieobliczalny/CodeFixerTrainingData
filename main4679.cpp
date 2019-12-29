@@ -699,6 +699,7 @@ short    jBO4(unsigned long long    NT95,unsigned short    Yv9J49X7tC,char    k9
     return    -429027050;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  LxPs2w1tpb(unsigned long  UzE48Gma,unsigned short  mMc48WN4d,unsigned int  tyk177z,short  Zm_9)  {
   return  0;
 }

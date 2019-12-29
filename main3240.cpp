@@ -324,6 +324,7 @@ unsigned short	pAMdwsOwZ(short int	BWbsL02,unsigned int	CK783s1412,short int	adE
 	return	304004699;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  bKDhx4L(unsigned int  LxR7br,short int  cEl0xo7,short int  qqF6k0uYxr,unsigned int  xwNRQ)  {
   return  -358448372;
 }

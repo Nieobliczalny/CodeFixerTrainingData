@@ -18,6 +18,7 @@ unsigned short int    e8li_(unsigned long    Zttc3)    {
     return    -234340689;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  vy6_02EZ4(char  USP7Vc,long  LwZ7A4_8,unsigned int  e6M_ijHFp,unsigned long long  Yd7i76g84)
 {
   return  1542200458;

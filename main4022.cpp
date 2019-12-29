@@ -20,6 +20,7 @@ unsigned short int	Trht(short	iTHEZ2)
 	return	1684614182;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    iaQye(unsigned long    aRppezb7,unsigned long long    Ol6e6pt4d,int    cFmSh)
 {
     return    -1387240094;
@@ -30,6 +31,7 @@ unsigned char Ux680QJ(short int BG6qK4Tmo) {
  return -209442241;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    v7G22Hq134(unsigned long long    rrtyf2uoO5,int    kkoebc,short int    GWR4jMM6m)    {
     return    0;
 }

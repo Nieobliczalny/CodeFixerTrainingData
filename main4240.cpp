@@ -13,6 +13,7 @@ unsigned char	zxgnHK_dU5(unsigned short int	Un1u4ox,int	Deh2MGiP0_,unsigned long
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  DwpMC1s3I(short int  QL56NI618U)
 {
   return  770303599;

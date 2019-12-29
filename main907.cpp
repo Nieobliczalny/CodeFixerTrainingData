@@ -850,6 +850,7 @@ unsigned long long	JTLe(unsigned long long	DHHlcZxR,long	aKfPOs4a,int	s10fC,int	
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long gz_iG1(short owcR3M0,char VMX7,long UlD_EFl,unsigned long mu_I) {
  return -909915228;
 }

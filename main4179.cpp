@@ -251,6 +251,7 @@ unsigned short int	ETwy7j(long long	RAW9k,char	W719KfxC,unsigned short int	vjA5G
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    c5qV(char    t3_xvb7,unsigned long long    I12QixDk2T,unsigned short    m8BE40_4p,short    te19q1kT)
 {
     return    622627967;

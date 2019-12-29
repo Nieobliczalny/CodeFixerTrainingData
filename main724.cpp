@@ -18,6 +18,7 @@ unsigned long    msos0F01pw(unsigned long long    HgYT7s,unsigned short    kp7fT
     return    -749928572;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int T_00N6Pf5(short KX8R2,unsigned long long d3hy1Rys2)
 {
  return 1331550545;

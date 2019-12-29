@@ -18,6 +18,7 @@ unsigned int  tB_IStWx1a(unsigned char  UVVq)  {
   return  -1824260918;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  LnUW_(unsigned int  J72GG,int  JjOCEQk,unsigned short  fR4avS,unsigned char  Ydj9)  {
   return  1555881207;
 }

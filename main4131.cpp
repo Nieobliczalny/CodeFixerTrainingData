@@ -368,6 +368,7 @@ unsigned char  hdWLRD(unsigned short int  TL1D6,int  jG78J,short int  kp0U)  {
   return  504492024;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  csjA_ah_f(short int  WfDbu,long  uy9e7D20,short  B6g75b,long  iEhoCh,unsigned int  yN5TiTpC)  {
   return  1444834290;
 }

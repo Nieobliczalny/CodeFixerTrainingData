@@ -490,6 +490,7 @@ long MS_Wa6(unsigned int w2Gx,unsigned short int g3I8462lw4) {
  return -81596992;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char ssBo(unsigned short int Ocxq,unsigned short tnOC4la,unsigned char lz6U7BU)
 {
  return 373610616;

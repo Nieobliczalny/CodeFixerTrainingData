@@ -19,6 +19,7 @@ unsigned char  Drj_6oNlOe(short int  J_T4,unsigned long  xTIg6J)
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long Wjgj_vt96(short CUgf698Gs,unsigned short gch_gd4,unsigned int Lx4l2uT9,long long l53o2H9X1,short X283e) {
  return -1593544608;
 }

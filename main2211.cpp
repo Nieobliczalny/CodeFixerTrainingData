@@ -16,6 +16,7 @@ long long TRb1() {
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    dbxq5x4U_H(unsigned char    lLOvsFGvD,unsigned char    R8oodSR,long    eK_OX308,short int    r992b75)
 {
     return    222414619;

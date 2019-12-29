@@ -19,6 +19,7 @@ short int C4wNma952(short M1Uc,unsigned short int KZp95Wb1bY,short int y8_6X8E,l
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  G0L7xdpRZv(short  pBGWyH8yS8,unsigned short int  u1S3_IJI,short  yrWC91)
 {
   return  1942139126;

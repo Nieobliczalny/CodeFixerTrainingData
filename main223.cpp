@@ -14,6 +14,7 @@ long long toFA(unsigned long R8yr78UVpg,unsigned int ezOiW60,int ks9hlQ5h,unsign
  return 1243915484;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long B2O4__8e_M(unsigned short int Z_1M3N7)
 {
  return 203132994;

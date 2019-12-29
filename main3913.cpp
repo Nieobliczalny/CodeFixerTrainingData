@@ -595,6 +595,7 @@ unsigned long	kURU_(short	OUj8)
 	return	-93867141;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int rZOGY5(short U5sQwtb4,short int D304eTr7,unsigned char GOIa,short int t71fs9sZ,unsigned char v4Z7nmp2) {
  return 0;
 }

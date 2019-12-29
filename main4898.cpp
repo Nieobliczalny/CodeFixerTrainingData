@@ -18,6 +18,7 @@ unsigned short int  Mjg6C(long  nBp4,int  cl1L5qs)
   return  1944247174;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  kWV4_9XWx(short  fWYb2_iF,char  u27qfVv,unsigned long long  U6rCg,short  l722,unsigned char  Wt605)  {
   return  0;
 }

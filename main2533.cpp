@@ -477,6 +477,7 @@ short ztQFE5(unsigned char R08o7cyqB) {
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  Zm65_fz3MV(unsigned int  VcQUBv,char  J2U3)  {
   return  -679217914;
 }

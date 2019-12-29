@@ -14,6 +14,7 @@ short    lu8DMPJ(unsigned short int    e_G6,long    gB1TxLC)
     return    -1582052293;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    qdg0aghn9(long    q9_nibh2h,int    jp48)    {
     return    794294786;
 }
@@ -28,6 +29,7 @@ int  zE1lv03(unsigned short  K8XXmr6Xs5,long long  Uuri,long  ow_DX)
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	double	a2Pnu1	=	-1370223054;

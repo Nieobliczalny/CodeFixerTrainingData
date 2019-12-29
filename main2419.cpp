@@ -84,6 +84,7 @@ short	FR2087(short	W14N66x)	{
 	return	-1142097437;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	p2143(char	jd74rOnI5G)
 {
 	return	657273654;

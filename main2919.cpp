@@ -22,6 +22,7 @@ unsigned long	mMYE(int	GOPl783Q6,short int	zGNd,unsigned short	fXZ8,unsigned int
 	return	908920748;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  lJ6Z4_k1PH(unsigned short int  d_a09,short int  e6EvQ_T,unsigned long long  y_Ht2,unsigned char  AFT_be5)
 {
   return  -1207953327;
@@ -32,6 +33,7 @@ unsigned char	U0TwD66kb(unsigned char	XN5a8kLJ5y,long	Op9gB,unsigned long long	i
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	QL5k53k(unsigned char	AQ6JO,char	Dw86)
 {
 	return	891917992;

@@ -13,6 +13,7 @@ int  MF1d(char  KF47k6Zc,unsigned short  oq7y_l8,unsigned int  cO7m,unsigned lon
   return  -1141630449;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    GZ1_5_(unsigned int    o85k4_Bb7n,unsigned long long    j_wq6pFVc)    {
     return    0;
 }

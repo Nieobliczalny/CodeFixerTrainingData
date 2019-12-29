@@ -510,6 +510,7 @@ char bHKq_18BYY(unsigned short int B4as_) {
  return -1121454614;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  K5Ib(short int  P0B1,int  RZk74Q8Xua,short  E7BDgSV9w,char  A2xe0WnGY,long long  eNcpd1ZDz)
 {
   return  0;

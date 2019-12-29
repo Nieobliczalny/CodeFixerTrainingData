@@ -17,6 +17,7 @@ short int	exUl(unsigned char	fBaI3,char	d5gj06o,unsigned char	xgdGc5h72)	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long vs_G064bNm(short eyH3029,short PT0_DO)
 {
  return 664739353;
@@ -32,6 +33,7 @@ short    rYc0y337X(short    W4_ZGD,short int    Eve6wn7,int    Eu55YsLH1g,int   
     return    -309639507;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     unsigned char    q__6heMm    =    -17291890;
   unsigned char  iuJ7H4Mp  =  603090252;

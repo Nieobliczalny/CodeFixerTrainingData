@@ -386,6 +386,7 @@ unsigned short t5j_t(unsigned short vOjT,unsigned char T4i4m7,unsigned long rSem
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char HbUmn_9(unsigned int mn0ZkbD0,unsigned long long GFjD) {
  return -689417051;
 }

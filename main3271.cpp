@@ -14,6 +14,7 @@ short int  ifw05Rb(int  v1_D51w6G,unsigned long  TL73C9S_3,unsigned long  z6_lXD
   return  504669087;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    Osk5Y0Uq8n(unsigned long    XJDEs9p019,char    WaOw532_W)
 {
     return    0;
@@ -25,6 +26,7 @@ int OX64(long nVl5_aSr)
  return 1255288102;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	Ed7424e_3y(short	cwbPE63rT,unsigned short	x025V6852_,long	OSl_o,unsigned int	mkl6EFF3x,char	RoG2_o_Z)	{
 	return	405888389;
 }

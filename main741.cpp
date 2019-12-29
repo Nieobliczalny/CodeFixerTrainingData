@@ -535,6 +535,7 @@ short	GoZAZ1CP(short	tH8ckxX3F,unsigned long	s8ef7,long	XAJl3_,short int	nfn6qB_
 	return	1008958923;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int S21t5741W(long long otrxJ89umV,long UEu077,short int y2mWSIR9,long long rQe1c0_kR,char Dv7u) {
  return 0;
 }

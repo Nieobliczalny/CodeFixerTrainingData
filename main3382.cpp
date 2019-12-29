@@ -482,6 +482,7 @@ short int    yJ694IdEaZ(long    P6DNmMoGh)
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int uR69k9e(unsigned long Q288,short int O_BqPvs7t,unsigned long long T604a,unsigned long long Oy6u2Wu_dj)
 {
  return -1976197104;

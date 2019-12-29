@@ -581,6 +581,7 @@ unsigned short qnHn(unsigned char qFB_k2T,long long Ri354q)
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  bIqgce(unsigned short  t521Z691,unsigned long  x1lzZ_z)  {
   return  747991579;
 }

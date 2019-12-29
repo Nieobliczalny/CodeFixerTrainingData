@@ -18,6 +18,7 @@ unsigned char    o9fd2e9(unsigned short    QeE0ZUoFY,unsigned short int    J2j41
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short rgke(short x7ws7y) {
  return 1202142040;
 }

@@ -177,6 +177,7 @@ unsigned short	sk3M8(long	e8Ypf_Ee)	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int s5p434WN(unsigned int qGw56,unsigned short int VgzfM)
 {
  return -1399264697;

@@ -18,6 +18,7 @@ unsigned short int  rvZY(long  n7V_j)  {
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  unsigned long long W2MqhlG = -1067434354;

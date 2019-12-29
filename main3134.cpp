@@ -18,6 +18,7 @@ unsigned char S64vP()
  return 949147419;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    HRich6k8(char    WVEPSTx6cU,unsigned short int    rF1_A_R__0,unsigned long    Tbon,short int    t_HEKpE)    {
     return    -352198743;
 }

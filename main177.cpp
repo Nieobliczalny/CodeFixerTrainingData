@@ -377,6 +377,7 @@ unsigned char	uA6CtW110(short	b98JtB7F6,long long	tf_b_8)	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    u3SMp(unsigned int    IbZV,short int    TsN0Sq,char    sSxG26f9,unsigned short    pFi_K6,unsigned short int    jWLlpc)    {
     return    466032198;
 }

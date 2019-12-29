@@ -12,6 +12,7 @@ unsigned short int	OoPZS100U(char	Cq2Yjyw9,long long	nSBi4wu60,unsigned short	Yk
 	return	1186453048;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int GwI6(char Llj09Fy,int uj48wOv)
 {
  return 0;

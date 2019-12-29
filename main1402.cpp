@@ -148,6 +148,7 @@ unsigned long oGzLUQ42(short p4futA8aS) {
  return -107460887;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    vhs1(unsigned long    z8RUF2txd,unsigned long    oBy1ko,short    hH742G,unsigned char    NYjJPZ76,unsigned long    S08Z_)
 {
     return    1991492403;

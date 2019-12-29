@@ -14,6 +14,7 @@ unsigned short int    wKu7G(unsigned int    E_lh92,short    kn4cX,short int    P
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long  k7DcAPao(char  lcSu_143m,long  xul5sUk,unsigned char  wcCny9S24,unsigned long  N41053B)
 {
   return  -429982369;

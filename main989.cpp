@@ -18,6 +18,7 @@ long long    lElfEpY_(char    Dn7i,unsigned int    H4jN)    {
     return    2031869495;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    gkwq86ad75(long    MYrgn1,unsigned long long    I7_Y,short    UU7vY_3_I,unsigned short    iraLtPT,unsigned int    XwpQFI4GOu)    {
     return    0;
 }

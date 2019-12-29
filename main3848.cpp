@@ -277,6 +277,7 @@ char    H1B6Ix(unsigned char    A_v7U,unsigned long    d233Aee9r1,int    EF8h,un
     return    1688794522;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	M2z_5Y(unsigned int	PZ907_wl8,unsigned long	SsPc5v4)	{
 	return	1977521062;
 }

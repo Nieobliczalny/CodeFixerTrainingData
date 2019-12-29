@@ -375,6 +375,7 @@ short int l_ti(short int UF05RZae)
  return 1410340385;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	TxSV_(int	hBXAp8bU9o,int	sP636V,short int	z2sc57)
 {
 	return	0;

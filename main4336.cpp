@@ -371,6 +371,7 @@ short int  B07_tM4(unsigned short  I__FG,unsigned char  hz5og,char  CEsVu21q)  {
   return  -1226764844;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    s747aBAG(unsigned short int    i06G6g6pA,unsigned long    p7Vw5t,short    Kz_N,short int    SWi9zy170S)    {
     return    -1084674624;
 }
@@ -385,6 +386,7 @@ int    f5sU_0(unsigned int    HpEV,unsigned char    c7QH3V65wE,unsigned long    
     return    1768660591;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  SX790(unsigned long  O84CKCTt4,long long  t1Xw9h7i)  {
   return  0;
 }

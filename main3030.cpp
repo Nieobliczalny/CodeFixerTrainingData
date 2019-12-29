@@ -18,6 +18,7 @@ short    w875LNxZS()
     return    -593927173;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int cW3IF4(unsigned long long h442M8s,unsigned long long S973,unsigned char kiUo4f0)
 {
  return 0;

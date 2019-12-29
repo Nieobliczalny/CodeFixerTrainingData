@@ -18,6 +18,7 @@ unsigned long    TI9O10()
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long rW_Mn9W8(unsigned long OOFb,char l_DoY,unsigned short YPX8Nf_,long vL49) {
  return 1638241215;
 }

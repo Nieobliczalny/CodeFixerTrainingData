@@ -300,6 +300,7 @@ short DpC4RJPK8z(unsigned int f_Yh,unsigned short int kw1R,unsigned long Nle0NY_
  return -913697796;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    q17Ln7o_3B(unsigned long    n1Nqy7d)    {
     return    0;
 }

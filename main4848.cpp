@@ -662,6 +662,7 @@ unsigned short int    ZyM_(unsigned char    eXJWv24sz,short    kUc_TlOT_)
     return    -1385776951;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    UWs5208I1(unsigned long long    wUMQ0KH99,unsigned short int    Qp69OHA,unsigned short int    XPHzhxruTL,long    B3aH)
 {
     return    0;

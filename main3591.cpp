@@ -653,6 +653,7 @@ short int    C9_WxNxcT9(long long    BbLrZ,int    gIh146_,unsigned char    tW82Y
     return    -53604250;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  nd33(unsigned char  bxD5o59,unsigned short int  edg2Uo6yk,unsigned short int  wvvj,char  mU2SUCp04,short int  l7DvR293hU)
 {
   return  0;

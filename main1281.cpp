@@ -13,6 +13,7 @@ long long ziQCK(short int KG_5e3U1,long long SM57,unsigned long long shPIw733k) 
  return -1029062002;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short EZG_Zt8BF(int N2hHKT8br)
 {
  return 0;

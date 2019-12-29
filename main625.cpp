@@ -375,6 +375,7 @@ unsigned long	wF8XCal(unsigned short	WPGFch,short int	q_98v,unsigned char	N8oZnr
 	return	-1544829773;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  S8dIc(unsigned long long  T303jFBDOD,short  Gn7TBp)  {
   return  1171760194;
 }

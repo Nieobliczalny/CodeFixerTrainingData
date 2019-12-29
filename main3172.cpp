@@ -18,6 +18,7 @@ short int    auENSuxMv(short    GDE2_v54Kp,short int    e2MoC,short    CnW0il21,
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	chg__9Yf31(short int	gD_wMCch)
 {
 	return	848402543;
@@ -29,6 +30,7 @@ unsigned char Q83os9(char V90_UW)
  return 1833351809;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	wv75NWjmgW(unsigned long	YkajD,char	Xdw1VYwe)	{
 	return	1408584734;
 }

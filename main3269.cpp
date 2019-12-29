@@ -511,6 +511,7 @@ long    C512()    {
     return    354217626;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	A6H7K7E_y(char	X3rmb,short	OQIa2CvG)
 {
 	return	395134200;
@@ -522,6 +523,7 @@ long long W_HnOz8(short int a_9Dj)
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  L55gnwb(unsigned int  a0M8_,unsigned long  cmB57,short  xDf52lK,unsigned short  U__mN)  {
   return  -192928212;
 }

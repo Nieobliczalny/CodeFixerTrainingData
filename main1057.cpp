@@ -310,6 +310,7 @@ unsigned int B7TW45q(unsigned char NRj29Q0,short int c2eAj31OuP)
  return 627510405;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    AxC0r2k(unsigned short    Im45H,long long    gqKCO)
 {
     return    0;

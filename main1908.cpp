@@ -469,6 +469,7 @@ unsigned char	Yq0_(unsigned short	K3ix09,int	A3KIBzgT3,unsigned short	nE9Fnv)
 	return	-51081126;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short epu6S(unsigned char o72eR7vdHT,short int a7KjUbgM) {
  return 0;
 }

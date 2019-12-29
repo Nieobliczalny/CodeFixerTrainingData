@@ -19,6 +19,7 @@ unsigned long long	EtX62(short	LGhX39)	{
 	return	1212126034;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    KKGcuUCGh(short    TqgpIrh,long long    esmi_g,int    k__f2Y8xe)
 {
     return    0;

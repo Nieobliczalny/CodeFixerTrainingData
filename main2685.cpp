@@ -16,6 +16,7 @@ long	a8RlmQ9fcJ(unsigned char	Y61i5,long	X2fKIsxR,long	q1KqdM7P1,unsigned short 
 	return	845410632;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    Ym227X(unsigned short int    KFO2li41)    {
     return    -1170858668;
 }

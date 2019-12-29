@@ -18,6 +18,7 @@ long	LJqNM4SQ_(unsigned long	ZU9A,unsigned int	AC4agF,short int	uy4YA4,short int
 	return	1981234118;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int cU72(long k8zv9C,short jNkUo2_h,unsigned short MXSg,unsigned short int WQJDONjLw) {
  return -562691159;
 }

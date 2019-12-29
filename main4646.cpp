@@ -13,6 +13,7 @@ char	dyb7(int	O_TlBF3w,unsigned long	vzC99)	{
 	return	-677779470;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    mmyT(long long    Mu0V20,long long    bE__)
 {
     return    0;

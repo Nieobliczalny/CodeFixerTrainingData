@@ -17,6 +17,7 @@ unsigned char	HYf625ZTv(unsigned long	ot1r4ma2)
 	return	-2080573946;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long HSikBCe16(unsigned long X5Ixfoeg)
 {
  return 0;

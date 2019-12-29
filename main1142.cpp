@@ -790,6 +790,7 @@ long WrVJuRGy_l(unsigned long CzT_gynX,unsigned short w7_6_fXHW2)
  return 1258076016;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    dF8U4_o7(char    D5Mgd129,long    Bpf_UMJ39q)
 {
     return    0;

@@ -22,6 +22,7 @@ unsigned long long  dcUCNkw(unsigned int  AbF4l9,unsigned short  i5RUbVRS1)
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	y703H_6m_d(unsigned int	D4GiS,unsigned short	z11Y,unsigned long	u9z_P34K4,short int	eU2Scez99M,unsigned long	wI2rP)	{
 	return	-12399226;
 }

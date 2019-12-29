@@ -713,6 +713,7 @@ unsigned short int r1E_4(short int l5clX1C,char TtCoUiW,unsigned char TGgnYfa28,
  return -1545965941;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	mta5M24LKW(char	q4Nl,unsigned int	c24m)	{
 	return	0;
 }

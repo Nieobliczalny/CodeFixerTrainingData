@@ -21,6 +21,7 @@ unsigned short int EG1hD5hD(unsigned long long J_S8910,unsigned long MoOQBmhf,lo
  return 149132603;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  aF4Oaqs8g(short int  j1fPgHiM,unsigned long long  A_77T_e)
 {
   return  0;

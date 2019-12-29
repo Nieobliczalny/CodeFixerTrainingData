@@ -466,6 +466,7 @@ unsigned long long z3t0mP9(unsigned char IEDA9,short int f6ZDv3)
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  Hq_wIdb(long  iZVV551Jv,int  Xoo2uN2)  {
   return  -17059445;
 }

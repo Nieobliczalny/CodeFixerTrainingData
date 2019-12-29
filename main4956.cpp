@@ -16,6 +16,7 @@ unsigned char	xaa18vs(long	Zx43,unsigned short int	q4z_U9d,unsigned int	wMw6,uns
 	return	2100786819;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    N40aT(short    M1sba883C,unsigned short    a83szE,unsigned short int    lr3X,unsigned long long    EAmAlB)    {
     return    619755504;
 }
@@ -30,6 +31,7 @@ long  aQLaQhvA(unsigned int  MpBZJxU9S_,unsigned long long  R5Q21EJAGE)  {
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short  ayED7E5(unsigned long  B9rLA,unsigned char  O616fd,unsigned char  hJOsu8)  {
   return  -861082498;
 }

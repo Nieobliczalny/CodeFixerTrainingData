@@ -279,6 +279,7 @@ short int kEi38(unsigned long long V51gK0Em5) {
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char c5iA2k(unsigned short int DV1_8ipi8e,short E_L1ls62,short mJG24,long lrgcG_A,unsigned short k4xMhx) {
  return -1564684990;
 }

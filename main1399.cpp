@@ -350,6 +350,7 @@ long    yD16oM45G6(short    d1fmcFT4t3)    {
     return    965499107;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short yH76(unsigned long bU7ZAb,long long ngk1W,long long hpJi434i,unsigned short int U8S6F) {
  return -134046386;
 }

@@ -15,6 +15,7 @@ long long    h9E8F(unsigned short int    AcRcFRLLCD,short int    XF_v0saD0,unsig
     return    6963040;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    MzLfo8rU_W(unsigned char    lKdM,int    BCKz0WFsp,unsigned long    ZZ75hI)    {
     return    0;
 }

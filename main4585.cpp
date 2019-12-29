@@ -718,6 +718,7 @@ unsigned short int	cgFX8FG(unsigned short	TzxRvsZ7qy,long long	Tgp8QZL,char	O4_y
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    n1DY(unsigned short    HCyBe0,unsigned short    sguZb5x,short    psYPIW9m)
 {
     return    -1709057411;

@@ -29,6 +29,7 @@ int	I3_U374B()
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char DJiUiO_b(unsigned char CIJHFg51f)
 {
  return -898325080;

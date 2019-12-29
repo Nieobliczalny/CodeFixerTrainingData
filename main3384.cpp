@@ -538,6 +538,7 @@ unsigned long long O1hC_Hv(short int FWzw5we,unsigned char fL5Em8zQX2)
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	Om2366T1(unsigned char	cohsH84W,unsigned short int	P4103QY5,unsigned short	X63Jjk2Pb)	{
 	return	1935109753;
 }

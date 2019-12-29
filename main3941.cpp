@@ -18,6 +18,7 @@ unsigned int	D31v7_P12(long	Qj04g9n5j)
 	return	1203806031;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	UK2B7r(long long	TBw0f,int	cT_RP5)	{
 	return	0;
 }

@@ -1029,6 +1029,7 @@ unsigned long	eFRs(long	EEZ65un,short int	Sl4D4j1RL7,short int	P8_i,unsigned lon
 	return	1933129703;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int dt2rRLe(unsigned int hzeE1Xo,long long DW_3D5eb2)
 {
  return 180894740;

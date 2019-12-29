@@ -14,6 +14,7 @@ unsigned short int    vOb8EMI(int    icvnj7aB,unsigned long    xNVK,long long   
     return    345170553;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short  xBB1juWv(unsigned long  Vk6l0V)
 {
   return  174152284;
@@ -25,6 +26,7 @@ short	b6VEL4(unsigned long	x9Q_)
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    FQ6M1upC(unsigned short    j9ZZ_4,unsigned char    y58p39y9)    {
     return    -1079200394;
 }

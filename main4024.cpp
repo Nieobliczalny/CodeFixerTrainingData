@@ -16,6 +16,7 @@ unsigned long rOnh2ELL(short int qu8u_AuC,unsigned short RM8R,long long s40w2,un
  return 1679285537;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long NwP271(unsigned short zKjfSaw61,unsigned long long llMB_W5H,unsigned long xXh37n,int n_J3Gi9RNf,unsigned short IFtMuik2PV) {
  return 0;
 }

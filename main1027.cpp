@@ -376,6 +376,7 @@ unsigned short	wz2NS(unsigned short	a3mwo3tK,char	SOn1cMuK,short int	HMw_5M)
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	LPZIZWRseI(short int	oyHf5)	{
 	return	221544199;
 }

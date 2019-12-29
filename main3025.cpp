@@ -403,6 +403,7 @@ unsigned int	HTXh9YnS(unsigned long long	kw0d)
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	r6_8D12(short int	QIic,int	Pd8hYc,unsigned long	LITT12,short	vG99_)	{
 	return	-650930619;
 }

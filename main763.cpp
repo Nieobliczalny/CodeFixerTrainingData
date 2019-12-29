@@ -14,6 +14,7 @@ short    QZhfg(unsigned long long    Yt1Oa87U2N)
     return    -1429474755;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	URcaG681(long long	ZXvfdk,unsigned long	HrTocx4bG,long long	iQ6a8_vxR_,unsigned short	OInyw,short	ljc22sDLr)	{
 	return	0;
 }

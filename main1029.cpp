@@ -13,6 +13,7 @@ unsigned short int  n75_1_rdG(unsigned long long  C9_37,char  f3Ki8dA,unsigned l
   return  -1290657223;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	bU138Qv1f(char	UbNvk3l,int	o2BO,unsigned short	nlE_BXs,short int	G_08uuCG1)
 {
 	return	-1424827096;

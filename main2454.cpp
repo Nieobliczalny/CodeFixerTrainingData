@@ -494,6 +494,7 @@ unsigned long long qNa8(long long pz6Lp3M9r,long long jqu_jN28eJ) {
  return 2009561789;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long H45p4s_yH(char k7ae,unsigned long Gk8wm2A9y,short zNpEk_Y7,long long yEtxr,unsigned long long D5fTS)
 {
  return 0;

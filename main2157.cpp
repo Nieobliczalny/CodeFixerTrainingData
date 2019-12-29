@@ -652,6 +652,7 @@ short int  DM_8GHAhQi(unsigned long  M4300)  {
   return  -674059185;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    OV7O08J55(char    VEotLg8SVx,int    AGhY)
 {
     return    0;

@@ -16,6 +16,7 @@ char    dQe63jDH56()    {
     return    781983076;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	iRM2zhF(unsigned char	cp47p_Hfk,long	O369Gs6en)
 {
 	return	1532430467;

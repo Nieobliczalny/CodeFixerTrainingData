@@ -723,6 +723,7 @@ unsigned long long X92JGw(unsigned short int A5925e)
  return -372639131;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	Rpa70I(unsigned long	x2EdC0q,unsigned char	uQYY83zw2J)
 {
 	return	1132451239;

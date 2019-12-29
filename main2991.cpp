@@ -566,6 +566,7 @@ short    JbFxr(unsigned short    G8LiZ120,char    pz997S,int    hXyn,char    i4h
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	B_h8ZhHk(char	Av3rM,unsigned int	P4HpL7kJA_,unsigned short int	zBjy)	{
 	return	-1187577707;
 }

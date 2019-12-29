@@ -14,6 +14,7 @@ short int  bH71mlCU22(unsigned char  K9q5I6ay,unsigned char  b_5G7u8)  {
   return  236357563;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  E6i2(long  selv,long  v9yxg8Wc,long  oGUkIiVc3i)
 {
   return  0;

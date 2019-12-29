@@ -17,6 +17,7 @@ unsigned long long    wTOiF(char    vA0un,unsigned int    s2L_7,long long    uEK
     return    2067796213;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long H2rs2nBVY5(unsigned short ddvd65y)
 {
  return 0;

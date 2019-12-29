@@ -452,6 +452,7 @@ unsigned short A38Y(long long Wldo8AWM,long long xgC9x)
  return -1447760396;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	NeHw4CV6(unsigned short int	k1M_km,int	hvk7K26U)
 {
 	return	0;

@@ -19,6 +19,7 @@ long    Q3K0_57qg1(int    jJFNN,short int    lY_S,long    HpZS3s,unsigned short 
     return    -1437361088;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	unsigned long long	sW522	=	-1464643003;
   unsigned long  ehRE6Pt  =  -176133164;

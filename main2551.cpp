@@ -15,6 +15,7 @@ char lKDA5b1(unsigned int DdQPH,long long jTDJC1r_)
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int    t_8bH9X(unsigned int    bghW1wX5K,long    EPo_tg_6,short    m_u638uZ,long    UwQZ)    {
     return    -1255938016;
 }
@@ -30,6 +31,7 @@ long long    E2oWI(unsigned long    IBt8jv9_,short    LmARu28)
     return    848005611;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	GEoLEA(unsigned short	ZpPKRBms1,unsigned short int	Zt7y7X8ii,unsigned short int	Vovq,int	gh87_1s)
 {
 	return	-962200255;

@@ -17,6 +17,7 @@ unsigned long  pz5_4(short int  ZC774p)  {
   return  1144789339;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	x_3jvAGK(unsigned char	a2WlRf,long long	F1qzW7H7)
 {
 	return	0;

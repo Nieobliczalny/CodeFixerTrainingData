@@ -25,6 +25,7 @@ short  xv0JY9cL()
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   long double  Z19b0_i;

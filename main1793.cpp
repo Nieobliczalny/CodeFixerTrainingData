@@ -268,6 +268,7 @@ short    iLrldzZQS()    {
     return    998349351;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	Rp9A4(unsigned int	F1fdY,int	bJS8ci,char	t_BnWTfDu,short int	IkFWche)
 {
 	return	0;

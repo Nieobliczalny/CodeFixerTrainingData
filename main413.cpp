@@ -12,6 +12,7 @@ unsigned int DEoVKT8(short F37J7XtA,unsigned short Z7120lDAd,unsigned short UUQB
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     unsigned short    vB41e5YYBo;
     vB41e5YYBo    =    0;

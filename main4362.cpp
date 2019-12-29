@@ -21,6 +21,7 @@ unsigned short	Q5F17En6He()
 	return	487115286;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	dE3AFlKW_r(unsigned short	NQHYMS9,char	j6bpU_4c0,long	FveOXpd,int	OArDu,unsigned long	AG6D)
 {
 	return	0;

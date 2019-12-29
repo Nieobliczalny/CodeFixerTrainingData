@@ -472,6 +472,7 @@ long    yzx3_3NXI2(unsigned short    t83AB853f,short int    l_F5Q_aW,unsigned in
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char uyZN(long E6r9n,unsigned short gYpv7Jb6L,long ms84JJ6R5) {
  return 628315688;
 }

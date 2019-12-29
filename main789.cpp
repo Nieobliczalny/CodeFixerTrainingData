@@ -17,6 +17,7 @@ unsigned long    ZMTd_x_(unsigned long    DhWR0eh,short int    Vt84T,char    I70
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
   unsigned short  n5Fs2_F9F  =  274405200;
   int  SnT_WUri5  =  0;

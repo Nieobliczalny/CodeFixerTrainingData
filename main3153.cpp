@@ -17,6 +17,7 @@ unsigned long r__Hc6s_M(unsigned short fOewP6) {
  return 1601426216;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	ODJeJg__Y(short int	FEDe57qq,unsigned long long	c756Cb)
 {
 	return	0;

@@ -818,6 +818,7 @@ long long    zX6KW5nCZ7(int    o7P78DYJ1,unsigned short int    lkCSQXn2q8)
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	C63O3T7O72(unsigned char	cU3R27,short int	be_Q1Q,char	y9PlGrAmsq,int	W90R7lrbI)	{
 	return	-1273268528;
 }

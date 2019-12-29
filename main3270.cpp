@@ -15,6 +15,7 @@ unsigned short int	BqSMWo1BD(char	N_0Np,short int	N2vDCG6Gi,unsigned short int	R
 	return	1154392795;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	ijj6kucRPe(unsigned short int	T1fh59ls)
 {
 	return	109813570;
@@ -35,6 +36,7 @@ unsigned long uE_rZ() {
  return 1825891058;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	float	hTBt31	=	-42183521;

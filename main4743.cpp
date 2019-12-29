@@ -17,6 +17,7 @@ short v_Ix__V7(unsigned short k86I) {
  return 1350271758;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	Zg5jL4TFt(unsigned int	g4Wp1I6D)
 {
 	return	0;

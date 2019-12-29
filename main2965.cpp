@@ -16,6 +16,7 @@ short  h7Zww(unsigned char  ZU2LX0D)
   return  -1009471232;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	DmCU87eNL0(int	gHL2y,unsigned long long	H5qIJgk,long	RgZwvPyg9,int	yw50g)	{
 	return	-1380144151;
 }

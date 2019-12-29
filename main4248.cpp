@@ -12,6 +12,7 @@ unsigned char	IeCAs_m(unsigned long	iS3T1522,unsigned long	K489sxOc)	{
 	return	1725053249;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  XRd31L_7b(char  KL8ABj,long long  cu13NiI,unsigned short  TFY0967)
 {
   return  -738162119;

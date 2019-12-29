@@ -780,6 +780,7 @@ unsigned long    UsbC187H3(unsigned char    s7u_qXbs)
     return    -87135924;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long DlK_Bvh(unsigned short nQ8WGXpZ1,char Dl3tWW,unsigned long r8Yj7qL,int j9i__) {
  return 0;
 }

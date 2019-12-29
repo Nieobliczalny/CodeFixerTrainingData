@@ -319,6 +319,7 @@ short Je60S(unsigned long WaQV83KC,long long z9kso,short int M_kQ_0,unsigned lon
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	S41XM(int	UE4042a_i,char	nXoqYLsh2,char	lLD_Pz8N5,unsigned char	e2_Pk,short int	n5_83U0jI)
 {
 	return	2124213502;

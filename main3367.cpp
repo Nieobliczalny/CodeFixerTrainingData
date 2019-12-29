@@ -18,6 +18,7 @@ int	izUz()	{
 	return	-136374901;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	long double	D023Th3vTN;
 	D023Th3vTN	=	1835318671;

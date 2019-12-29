@@ -439,6 +439,7 @@ long long	U6_i5_va(unsigned short int	kO9N2Qu,long	rl17ED4l4F,char	dEqfP4vl,unsi
 	return	1823022841;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    BVKa4(char    iDzm2,unsigned short int    m_02e)
 {
     return    -1598152982;

@@ -664,6 +664,7 @@ long C9179mm6(unsigned int sY5MrWxC,unsigned char oiwgq9G_4,unsigned short int D
  return 75732872;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	Y3THos0_68(unsigned char	Ftxe)	{
 	return	-1647179065;
 }

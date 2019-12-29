@@ -173,6 +173,7 @@ unsigned long long    pFpmh17X(unsigned int    eDre6LE1)    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	vA8_osy(short int	t2o3_He6,char	q91E9,unsigned short int	QC6hd,unsigned char	LmDKly3)
 {
 	return	-132988078;

@@ -21,6 +21,7 @@ unsigned long	T9S3(unsigned int	QHKD,unsigned int	aLmEJFx01,unsigned short	FMcXK
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long Mn66h8em8(unsigned int X50C277,unsigned char GHoxwFGsU,unsigned long long LLDk5V10Bb,unsigned char sOS85wW8) {
  return -1452687673;
 }

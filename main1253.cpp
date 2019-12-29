@@ -13,6 +13,7 @@ unsigned char	lgWNWt_6__(unsigned char	q4YxI11rhC,unsigned char	S4dV,unsigned lo
 	return	-126983290;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	Z72r7SN(long long	VZE_SE,unsigned long long	l89__Io4F)	{
 	return	0;
 }

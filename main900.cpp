@@ -713,6 +713,7 @@ unsigned short int FY97rtQ(long long s2cI6) {
  return 1749392615;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	NnRe_om(char	EV7ldXYic,unsigned long	wntZ,char	YBQJT716,short int	l1gQj)	{
 	return	0;
 }

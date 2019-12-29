@@ -18,6 +18,7 @@ int	upv1YN5U(unsigned short int	g_h1R)
 	return	784258007;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    ZLJL30GaJ4(long    w6_7L)
 {
     return    0;
@@ -28,6 +29,7 @@ long    dxcaSnj8Bd(short int    WgIMuSN,int    YP5g8J,unsigned short    wARsr755
     return    1568391440;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int l34q(unsigned short int No41eQk14,unsigned short j_mu5I)
 {
  return -2074858277;

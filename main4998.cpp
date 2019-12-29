@@ -18,6 +18,7 @@ int J9PpABt5(unsigned int xJQt3,char Lqn596089V,long long GdBpharr,int a971L__2,
  return 951299979;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  MOiL4IK(short int  s8eCYo_,unsigned short int  oTlB,char  K4Cbd2r,unsigned long  fgA6)
 {
   return  0;

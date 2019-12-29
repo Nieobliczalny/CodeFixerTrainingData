@@ -21,6 +21,7 @@ char  v61F(unsigned int  S_2Zi2,unsigned long long  N4gc5_,char  LVc_fyiA,int  G
   return  -12391216;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    rt_2(unsigned short int    p7VPn__q6_)
 {
     return    0;

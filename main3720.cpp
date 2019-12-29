@@ -203,6 +203,7 @@ unsigned short    N6uBEJ(int    qOcB,long    y36B,unsigned long    vLp8,unsigned
     return    1079775931;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	TxnbxXLemq(unsigned long long	vrj60dG)
 {
 	return	1184019194;

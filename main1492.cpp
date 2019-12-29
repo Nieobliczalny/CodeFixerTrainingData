@@ -12,6 +12,7 @@ unsigned long long  SAJ9(char  Zk60e5Ov,unsigned long long  OC9S,short  MTi9,sho
   return  653496272;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	YO7Yn9n(short	GVceK67a,unsigned long	ur80j2C2e)	{
 	return	0;
 }

@@ -12,6 +12,7 @@ long long	uoX1Wep3(short int	t7hSdhXFdC,long	v1m0p_c,long long	vE_1n)	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	short int	LHO70	=	0,	TPk5jeKPt7	=	0,	Hx2373	=	0,	lM9eY3	=	0,	SzHB1G	=	0;

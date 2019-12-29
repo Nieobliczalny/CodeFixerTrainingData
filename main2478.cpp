@@ -521,6 +521,7 @@ long long    Mj67(short    wnnmUS,short    k4A_D1ok,unsigned long long    Tq2L5l
     return    -491574814;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	BcUt(long long	NAOqH,unsigned int	WS8e,unsigned short	E1ddZ_1)
 {
 	return	1466764131;

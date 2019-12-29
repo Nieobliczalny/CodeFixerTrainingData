@@ -15,6 +15,7 @@ unsigned int    fg4E6(unsigned int    cW2_,unsigned short int    D8p5,unsigned l
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    hY_P(unsigned short    HBFwi,int    HGVniQOs,unsigned short int    ja5c)    {
     return    -419615539;
 }

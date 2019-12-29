@@ -13,6 +13,7 @@ short	smG_17oZ_(unsigned char	j1xrM63G8,char	Bynn3)
 	return	-1903665739;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    R6Kk(short int    Q7szQdUwp)    {
     return    759295328;
 }

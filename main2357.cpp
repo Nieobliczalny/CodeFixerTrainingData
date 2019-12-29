@@ -655,6 +655,7 @@ short int    u4cJBE10(unsigned long    d33S)    {
     return    1724392847;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  S50t(unsigned char  DOhRov,long long  QNY0OU8ld)  {
   return  601689676;
 }

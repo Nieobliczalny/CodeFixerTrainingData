@@ -13,6 +13,7 @@ long long  X1aU9tb(unsigned long  we_4)
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   unsigned char  izmy;

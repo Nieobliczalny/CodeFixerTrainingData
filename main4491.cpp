@@ -552,6 +552,7 @@ long long bCDX5pH63(short int hWiN7,unsigned int J_1Sat_)
  return -1157413125;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long NGXt(char X4ML24nuPc,long K_Dk4SkpwC,unsigned long long ya9Jc9,unsigned short a1U_aGLS4) {
  return 0;
 }

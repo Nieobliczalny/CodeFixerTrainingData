@@ -13,6 +13,7 @@ unsigned short int    i1nkev(long long    kQQ6)    {
     return    -2143982644;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	ovj__Knb(int	iKUs1Qm)
 {
 	return	-618835399;

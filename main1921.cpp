@@ -14,6 +14,7 @@ long long  cLHr_dy(long  ju040a,unsigned long  x4_c3QcX7L,long  BKw4Q,long  B_EL
   return  -1563731710;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int PRdOsVs_(unsigned long long R6FCXPf,unsigned int ZRNK)
 {
  return 161476215;
@@ -25,6 +26,7 @@ int V6wB7TzSQ(unsigned short int Pn_69C2)
  return 667319158;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	hNpJAYYRE3(unsigned short int	Or2X3g_z,unsigned long	PZl91LyXg,short	WB__Y4,long long	ljcmq57f)
 {
 	return	0;

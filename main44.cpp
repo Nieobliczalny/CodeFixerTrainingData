@@ -21,6 +21,7 @@ char	b4HyN(long	nl92TEK,short	N60I420T,long	jnYJ3u)
 	return	-1662435046;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	F_Ae(long long	CCrt_7RljX,short	Nwdhg,unsigned short int	NMJWa1y,short	G309ln65)
 {
 	return	754822396;

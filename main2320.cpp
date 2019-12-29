@@ -385,6 +385,7 @@ short    DLh_7B(char    w2wi3,unsigned long    VIe2N2sN,unsigned short    jkmsP5
     return    254933324;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short	tkzMY81u(unsigned short int	W5J0Z_,unsigned int	m1z4li,unsigned char	bxH5DHg56C,unsigned long long	RGcqntfNj,unsigned int	ksxfM)
 {
 	return	1844883883;

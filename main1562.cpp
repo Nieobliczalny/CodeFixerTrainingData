@@ -18,6 +18,7 @@ short int	ISt9(short int	V8e2zH7w0U,unsigned long	D594Mn35y,unsigned short int	U
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long    O65m_D4m(long long    ISetpZ32,unsigned long    h1hpO,unsigned char    uBtD4a5,int    IPyUpx3c_O,char    icKN)
 {
     return    1626734678;
@@ -29,6 +30,7 @@ long    x4C0o304(unsigned long    oPtB7EB5F,unsigned short    c_k5,unsigned long
     return    1514001252;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
  unsigned short AE7M, VlzfKY, g69n6mW, VX1_hZB;
   AE7M = VlzfKY = g69n6mW = VX1_hZB = 0;

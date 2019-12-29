@@ -14,6 +14,7 @@ unsigned long    QZeO95(unsigned char    sga2Mx,short    t_aG4Ibp29,unsigned lon
     return    -1441769494;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    YFr4ek(long    yR27jv_)
 {
     return    157579486;
@@ -29,6 +30,7 @@ long long	EBHbN3vGP()
 	return	-475013942;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  ZGXFndKEm(int  P73E,unsigned long  cBxa61Cmb7)  {
   return  -1287805573;
 }

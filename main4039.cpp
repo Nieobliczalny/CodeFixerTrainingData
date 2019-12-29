@@ -14,6 +14,7 @@ char uAHPn4ZE(long long dq1tcPSn,int A1G9Ok8b8)
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   char  L90w  =  0,  P03TvU_5B  =  0;

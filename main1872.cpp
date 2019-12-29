@@ -13,6 +13,7 @@ short int	Xm59013b(unsigned char	aLro89,long long	P4We0088A,char	rsGG,unsigned c
 	return	2019990794;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int	yCQ2787u(long	Q5cVE,unsigned long long	uW9qF230WZ,unsigned short	I88bW54,unsigned int	kEHsE,unsigned long	N1c6_Cpzg)	{
 	return	0;
 }

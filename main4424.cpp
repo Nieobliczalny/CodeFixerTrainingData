@@ -12,6 +12,7 @@ unsigned short int    u4Wy1KOk2c(unsigned short int    o4vT3l29pk,unsigned char 
     return    289292423;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	UzafV(unsigned short int	OqdQ05Z74)	{
 	return	876598014;
 }

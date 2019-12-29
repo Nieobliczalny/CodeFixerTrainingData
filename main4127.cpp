@@ -17,6 +17,7 @@ unsigned char    DM2Qct(unsigned char    fL0PMhQ,unsigned int    Kzz63)    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long	W0qAz_(long long	b_P_2Qsj47,unsigned short	O93J26,short	gcZ6q5m18,unsigned short	ddZkG3R)
 {
 	return	2032242939;

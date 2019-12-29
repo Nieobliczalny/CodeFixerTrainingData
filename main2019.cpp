@@ -167,6 +167,7 @@ unsigned long CTP_D5w(long long Zo31C_7l,short l_fSX7t8e,unsigned long long J1TJ
  return 1492808538;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short GTmvQ(int ctlUg876,unsigned long vP198,long long ba03x6u777,char myTkZ)
 {
  return -1346493669;

@@ -310,6 +310,7 @@ char    Fv8f5LCL(unsigned long    Cma_Ff3R,unsigned short int    Wv7e_,unsigned 
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	mG7sJm_6kL(int	ctcU7,unsigned short int	TAJm1nGlhK,long long	Ev9i4_35,unsigned short	Sr1IQ7)	{
 	return	-357804450;
 }

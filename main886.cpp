@@ -18,6 +18,7 @@ unsigned int	T83j98(int	Nav4F57)
 	return	1402692651;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    LyZ9aM(long long    u2_jCz,long    kBZP0A,unsigned short    Ce7wSL,unsigned long    U44rGF,unsigned long long    J_8BKT)    {
     return    1106909864;
 }

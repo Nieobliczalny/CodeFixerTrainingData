@@ -272,6 +272,7 @@ long eSevW2(short N0Id,short int aY6C3Qtu,unsigned char xYd3eKJh9,unsigned long 
  return -686270041;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	ciUA_D(unsigned int	oXpmOdRi7Q,unsigned int	Ezc2zr)
 {
 	return	0;

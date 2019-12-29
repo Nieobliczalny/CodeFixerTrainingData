@@ -12,6 +12,7 @@ unsigned long long    r3L1LJ35(unsigned long long    RR4wxi3X7h,unsigned long lo
     return    2140547775;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long D_T_l(int WK1WP07371)
 {
  return 0;
@@ -27,6 +28,7 @@ long  FGepgp(unsigned long long  i_FGY_bN7_)  {
   return  217170794;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	CaK6hR1o(short int	ADAI8,short int	dT893f_,unsigned short	OIoyMgFc)
 {
 	return	-1465546722;

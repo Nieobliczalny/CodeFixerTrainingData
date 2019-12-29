@@ -17,6 +17,7 @@ short int	E2fi3Nw31()	{
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int  OonoO8VS88(char  Ie2Wr,int  Y5Y0O,unsigned long  jyPZ)  {
   return  724284488;
 }
@@ -31,6 +32,7 @@ unsigned short int	sdx11avY()
 	return	-45513091;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	unsigned long	TG8b4izjw	=	1984674975;

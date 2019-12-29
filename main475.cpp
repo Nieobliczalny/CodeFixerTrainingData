@@ -747,6 +747,7 @@ short int	jnC6(unsigned long	c3VZ,long	m452c_wsP,unsigned short int	S77194W)	{
 	return	1688612750;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  K4_s7(long  OC3cX_X8y)  {
   return  -974205893;
 }

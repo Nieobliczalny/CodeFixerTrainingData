@@ -19,6 +19,7 @@ unsigned char	D4ohlXqT(short	S_XS7DMuD,long	k45is,int	xg84I)
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    xrQI9(unsigned short    BGb7r1C87E,unsigned short int    d1aOn,unsigned char    jZ8k8U,unsigned long    cQSTd)    {
     return    1080949102;
 }

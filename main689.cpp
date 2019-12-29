@@ -366,6 +366,7 @@ long	Jh1K(unsigned long	em82gn,char	tAn7ki,short	Jg_D_)
 	return	-1930704573;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  OktQa(unsigned short  A3b_NDX3,unsigned short int  S05I0Yq,unsigned short int  l1JtK5,short int  iP72a9)  {
   return  0;
 }

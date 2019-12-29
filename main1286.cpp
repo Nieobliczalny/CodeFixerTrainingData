@@ -13,6 +13,7 @@ int  O_18b2nR(short int  v4t9a,int  A9G6)  {
   return  -1237591032;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	ePcqPFuncE(int	b29K__ah,short	lJ0Qe0a4k_)
 {
 	return	-2113759577;
@@ -28,6 +29,7 @@ short G0ZaYb9s(unsigned short int W9VzW_S9A,short int bi71jHL,unsigned char b9Nb
  return -1636004258;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  Zt3U(short int  mfeRJV_F,short  nR24,unsigned long  Vb96A8)
 {
   return  0;

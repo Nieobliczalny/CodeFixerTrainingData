@@ -352,6 +352,7 @@ long long	GY59e(long long	r_Gf1,short	l689dLn)
 	return	790713384;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  KJVvn(int  B9mQSGt5)  {
   return  0;
 }

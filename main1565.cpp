@@ -13,6 +13,7 @@ unsigned short int    EXgkDZ_e(unsigned char    R9nB,unsigned short    raxZFK6,u
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	I7g6zal3(unsigned short	I_Spx2v04,long long	EfAOpJNoH)
 {
 	return	594485580;

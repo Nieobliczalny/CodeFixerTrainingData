@@ -17,6 +17,7 @@ long  IlXhsgMA(unsigned short  pJM7Q_87e,unsigned long  w7hfX_Aws,unsigned short
   return  -698846530;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short    Kw7mR4Z1(unsigned char    zLs58ki)
 {
     return    548490519;
@@ -27,6 +28,7 @@ short X1s0xGL7e(long uB5cs_,int xp8f5) {
  return 962187184;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  IV3z0iC4x(long long  OT4247J1,long long  i4Vb_U,short int  Fl3x,unsigned int  Ymt8R6V6)  {
   return  -885819843;
 }

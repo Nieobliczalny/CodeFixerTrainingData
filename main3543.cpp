@@ -315,6 +315,7 @@ long I1avkVX90(unsigned long long skA6A,long dlws) {
  return -597594938;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	oKA_zOA_(unsigned short int	wS3pmS)
 {
 	return	-371443133;

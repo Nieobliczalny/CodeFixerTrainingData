@@ -27,6 +27,7 @@ short	bcaCHt2Im()
 	return	508468505;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char ng_2GU(short int zt6_M6,unsigned int IH13cYTOF,unsigned short int vrqf)
 {
  return 1174714031;

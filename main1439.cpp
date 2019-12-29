@@ -21,6 +21,7 @@ long  eV0ad_(unsigned long long  xe_OkVO240,unsigned char  KKRE,short  P1M_,char
   return  -22927149;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int    b8s90(char    r38IHc,short    RG_t0kZc5l)
 {
     return    0;

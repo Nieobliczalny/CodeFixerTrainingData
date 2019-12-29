@@ -23,6 +23,7 @@ unsigned short int	Qc0L82Hkf9(unsigned long	R4aF,char	u0wL_6)
 	return	552091055;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	sxI3Of(short int	UWl7P54)
 {
 	return	-1082672316;

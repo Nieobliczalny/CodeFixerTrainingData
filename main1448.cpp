@@ -17,6 +17,7 @@ unsigned long long S7ju_S1w_d(unsigned long CLw__UV) {
  return 260716052;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int eWReOW(unsigned short B_odw,unsigned char Hg0_2959x1,unsigned long long MNTE19OFA,unsigned long long A2u7U)
 {
  return 472681421;
@@ -32,6 +33,7 @@ unsigned long long    Jrx701(char    WA5kNQ,char    Jw42,int    pdaao)
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	long double	q_x8g_2o	=	1784225504;

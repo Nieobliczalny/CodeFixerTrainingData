@@ -14,6 +14,7 @@ unsigned int I7J4lCp9T(unsigned char n13EA28,unsigned int AKVp,unsigned long V2A
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    L7veGN88(unsigned char    GMhTsC9Qma)    {
     return    -1393237218;
 }

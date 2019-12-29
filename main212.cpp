@@ -14,6 +14,7 @@ long long	IC2V(unsigned long long	LFQW6P)
 	return	587778991;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long  BDB0SQS(short int  u4sV,unsigned short int  ESlPba25U,long long  sGIH3)
 {
   return  1201033242;
@@ -29,6 +30,7 @@ char  XC11LNz379(short  LXG_)  {
   return  -1944433345;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	unsigned short	SrL5	=	0,	s9s855	=	0,	m0W1aloEK	=	0,	ppaDg	=	0,	dONgaO0	=	0;

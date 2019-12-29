@@ -344,6 +344,7 @@ unsigned long long    R4_QVg(long    U58B,int    oF0d491pt,short    HTAN7n)
     return    -611183302;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char F7KiCI8(unsigned short OKo5b,unsigned long long h7z682d0,char wl9uD9) {
  return 0;
 }

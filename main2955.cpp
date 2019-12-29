@@ -282,6 +282,7 @@ short	oM98(char	oO22T6g,unsigned short	wqf7Fn,unsigned short	UkTNZ_AiK,short	tTM
 	return	-1550947628;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int rK_UNdZi(long H1_M8yp,unsigned short c8lRAh37n,unsigned int sNM5Fg5vAP,short int G70jG8_W)
 {
  return 0;

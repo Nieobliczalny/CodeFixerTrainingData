@@ -14,6 +14,7 @@ unsigned short int  h7lBs2(long long  MWWWaC)
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  ToTcK9(char  eJQsq,short int  iGpb,unsigned long  u45Vrg7P48,unsigned int  Yam5y997B)  {
   return  1615572502;
 }

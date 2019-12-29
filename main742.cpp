@@ -12,6 +12,7 @@ unsigned short    tSRQ(short    IKA1ww,unsigned short int    b8k1W4,int    r2j6Q
     return    556892643;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char	LaKc12sB0(unsigned int	D0rC_i6L4,unsigned short int	I6E6MUj,unsigned short int	KbD8,char	iKa_F2O)	{
 	return	-821439460;
 }

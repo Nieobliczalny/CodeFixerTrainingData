@@ -401,6 +401,7 @@ long  W8jP_(char  DkHSNVu,unsigned int  ii02)
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	O234P7z4(unsigned short	IGgMhz0Tr)
 {
 	return	-689079067;

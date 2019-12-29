@@ -15,6 +15,7 @@ unsigned int  d4cF(long  W9SxW_3t8,long  EFJklhrE)
   return  925753708;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	bpdx(int	vuy733U,short	E3qJis,char	V6tcog,unsigned short	vyMZt,unsigned short int	BV6ri0sv)
 {
 	return	0;

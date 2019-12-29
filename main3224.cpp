@@ -612,6 +612,7 @@ unsigned short int	RC1Qx70(unsigned short int	LM8OyNegC_,short	DQ4y,int	enZpux)
 	return	-1200270303;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	Co7_gn(unsigned int	S911Y5X,unsigned char	Qy7Xb_)	{
 	return	0;
 }

@@ -682,6 +682,7 @@ unsigned int    NRlk60(short int    vn16S_,short int    z5Fbo0XT,long long    tX
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long FWvlW1r(unsigned char KQn6T0y,unsigned long long dP9_5)
 {
  return -2077613909;

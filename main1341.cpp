@@ -21,6 +21,7 @@ short    MNRFm24FMF(unsigned long    hYFqJiBd9c,unsigned short    k5njk0e,long  
     return    -1119461087;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  je08RxIAyK(char  mfS_,short  b21Z3,unsigned long  y5XRx7H)  {
   return  1916422016;
 }
@@ -35,6 +36,7 @@ unsigned char  gSr4p(short  HM6R,short int  lwPhz5,int  MdV_x,long  O06l5069_,un
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
   unsigned long  hA_Xk_Jw  =  0,  X1V5  =  0;

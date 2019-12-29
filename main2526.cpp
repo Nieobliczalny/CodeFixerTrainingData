@@ -453,6 +453,7 @@ unsigned short  P1q_(unsigned char  sJWsA)
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long b5fa_feFd9(long gOo7Y,short int FWwx4Fn7a6,unsigned long long h2Vcg,long PHKdLj1) {
  return 1295691030;
 }

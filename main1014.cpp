@@ -17,6 +17,7 @@ long	l6O1kd_7G()	{
 	return	-1696397382;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int kra1_961(short int TO1l6OsR,unsigned long long i4a51l,unsigned short l2vJ9e_)
 {
  return 0;

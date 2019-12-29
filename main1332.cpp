@@ -16,6 +16,7 @@ long long	aWvVz3dHP(unsigned long long	F5ZQvYI,long long	nm0b75_xP,unsigned shor
 	return	1900342516;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char    ws7T_Y7F(short    X_76p6W2,char    GjsxNMzVU,char    PhLPi,unsigned long long    j0pt2C6F,unsigned char    s5nD)
 {
     return    -1482308057;

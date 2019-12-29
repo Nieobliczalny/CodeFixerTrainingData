@@ -19,6 +19,7 @@ unsigned int	X9rOhl(char	Y_O_c1,unsigned long	HPxHY,char	hfHIp5zJ62,unsigned sho
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
 	short	P_OGXsh85E,	LT2584,	Wq60ny_n,	YTh8,	Xl52;
 		P_OGXsh85E	=	LT2584	=	Wq60ny_n	=	YTh8	=	Xl52	=	0;

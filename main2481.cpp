@@ -232,6 +232,7 @@ char  A5ycT(long long  InZ4Bs63o,long long  lWV5)  {
   return  -1133531265;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	XTq_X89(unsigned int	C5XZ8,short int	ke39,unsigned char	N94gmJ)	{
 	return	746850964;
 }

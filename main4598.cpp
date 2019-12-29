@@ -579,6 +579,7 @@ unsigned long long z6iR_qcpt(short Alz9,short I956,unsigned short f5bNwE0)
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  eT2c(short int  RRCUykt2o)  {
   return  -9086391;
 }

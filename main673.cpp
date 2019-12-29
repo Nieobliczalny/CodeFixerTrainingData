@@ -388,6 +388,7 @@ int xddk6_L09E(char yM7_5t4,unsigned long daY7,long long vJ4KEx057W,short int y3
  return -67772259;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short PHBOY5_ri2(char Ldx8D0,unsigned int RF9S8wx7,char IdZ8GC54td,unsigned short cB_AD,unsigned int rdk1q5_PdE)
 {
  return 902988607;

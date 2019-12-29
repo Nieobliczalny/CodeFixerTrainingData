@@ -14,6 +14,7 @@ long    XexvV(int    m4_l)
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int HEJOGTc45(unsigned short int u8xp) {
  return -771590492;
 }

@@ -319,6 +319,7 @@ int LaTh6W(long wHag7vc5bH,unsigned long hyyX_2Vy,unsigned long S859_H0f_4,short
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  suMIn77(unsigned char  t0m2W)
 {
   return  -547192753;

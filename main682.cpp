@@ -14,6 +14,7 @@ char    wY2u(unsigned short int    qMD340Gh1,long long    SdHp7FF81X,unsigned ch
     return    2002010121;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int lBOjs(unsigned short int Yxi0R5bM,long long KEruz1,unsigned short oJaG4QE5,unsigned long long bOD7P) {
  return -1177805802;
 }

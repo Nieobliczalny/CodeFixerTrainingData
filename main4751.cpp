@@ -707,6 +707,7 @@ unsigned char	A5km46bF(int	T6wB,char	T0sNX91Of_,unsigned short int	Y8JCFcx8_b,un
 	return	325880389;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short  qPtxP_r(char  Ev8D136)
 {
   return  0;

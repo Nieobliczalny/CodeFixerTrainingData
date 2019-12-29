@@ -537,6 +537,7 @@ int  uC6_wa8R(int  G900s_ad,unsigned short int  BA35Auh6,unsigned int  Wxet,unsi
   return  604589851;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int t2xwwtLFI(unsigned int Q37vLx6FH,unsigned char R5Iv2l_CWR,long b4kPc,short int c4Kg95,short Bfb0)
 {
  return -743494741;

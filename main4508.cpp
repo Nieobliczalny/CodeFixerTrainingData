@@ -14,6 +14,7 @@ short V1In0c5H(long long GFak1N6)
  return -1472021129;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char  TGqyd31HSP(short int  BAWlY963)  {
   return  0;
 }

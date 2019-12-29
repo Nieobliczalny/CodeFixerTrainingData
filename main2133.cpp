@@ -354,6 +354,7 @@ long	e_BP89(unsigned char	hzw8ORFlhr,short int	z9981rm6y)
 	return	-2047266165;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int  HIfem4i(short int  bYIu,unsigned long  ezdB36iZH,unsigned short int  USPt,unsigned short  sQz6Vx2eYA,unsigned long long  rf7AA)
 {
   return  0;

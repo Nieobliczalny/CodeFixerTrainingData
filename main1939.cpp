@@ -159,6 +159,7 @@ unsigned short int    xGlCI8tADj(char    uAWrk,short int    X_54xF,int    g6_9) 
     return    230432497;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int    czp9so(int    cGUp6,unsigned long    MvVe)    {
     return    0;
 }

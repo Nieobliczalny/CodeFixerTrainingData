@@ -421,6 +421,7 @@ unsigned int    qod987_3(unsigned char    iU1jlVT)    {
     return    -668337879;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char jIB305WVVo(unsigned long long Uk8zks,unsigned long long T6Oz5Cc76J,unsigned short int DfpvER_KnU) {
  return 0;
 }

@@ -21,6 +21,7 @@ long long  ROBheRuYF(long  MZTYd,unsigned short int  jk4U9Qe,int  dzwy8y,int  ns
   return  -991400683;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    GuBJy_F3(unsigned long long    PaOUx,char    u_sHzd,short    Y7zT,unsigned int    ag5_cdEd6)
 {
     return    0;

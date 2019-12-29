@@ -17,6 +17,7 @@ long    AS4Maj()    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
  unsigned char vSOE, K80vNh, Q_Ys7pg1, bszwn4, tGKi83_b5, n1895y1, IFCbl8uwDe, IEW1, ehyu, Y6MpEVM, g899, g_F0laI, l61J_2uxV, BUa1l5ZSc, Z21Cv, yquk, p_w8DQ;

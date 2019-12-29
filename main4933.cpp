@@ -129,6 +129,7 @@ unsigned short R0YaVW__Y(unsigned char Nw587J9U,unsigned short z5so1)
  return -555495725;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int  s2_fg1(unsigned int  aUKN5s0,unsigned long long  EXeZaVLZu,unsigned long long  D2lwP,unsigned short int  p5SX6q,unsigned short  o5nI)
 {
   return  0;

@@ -17,6 +17,7 @@ char  qNNryFHDV(unsigned long long  Z1dh)  {
   return  2090428439;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long  mB70g1(short int  k03k5,int  SbWzQyN_t)  {
   return  0;
 }

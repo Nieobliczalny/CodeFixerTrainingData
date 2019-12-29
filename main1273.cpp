@@ -18,6 +18,7 @@ long long igWND8__Pg(unsigned short int jvJU7) {
  return -654998069;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    f0rsa(unsigned long    Wy5Q,long long    F61QWE9dg,long    uM_2F)    {
     return    -1884626246;
 }

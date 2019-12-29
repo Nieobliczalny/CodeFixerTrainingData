@@ -523,6 +523,7 @@ unsigned short    B_zD53Wq(unsigned short int    v48mA)
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long apanON84(short Gt9GuEm7JP,unsigned char L3I_,unsigned short HzNQ231OM,unsigned char AkF_T)
 {
  return -338868883;

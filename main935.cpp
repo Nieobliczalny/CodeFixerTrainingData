@@ -12,6 +12,7 @@ unsigned long    iA6O(int    ev6w1gO,long long    YOe5)    {
     return    -1308628669;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long    ufx9m92p(long long    kixE0,char    E9CGxNNe,unsigned long long    C5Ka8,unsigned long    Cx0a7,char    Se_3)
 {
     return    1202301223;

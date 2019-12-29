@@ -20,6 +20,7 @@ unsigned int    rwW3(char    l6q4Me)
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char hfZS7V(char uf8b_34K,int iyTCLIZ93C) {
  return -1847117304;
 }

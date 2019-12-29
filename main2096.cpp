@@ -18,6 +18,7 @@ int    EbQ70s(unsigned short int    spAFxSa)
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int	pHP_Z(char	KEg_SX97,unsigned short int	dp0s,long	aHl6,unsigned short int	DTJ7Q_LJ)
 {
 	return	1532689906;
@@ -29,6 +30,7 @@ unsigned short	sWNS_p0(long long	TtMl2K9erO,char	ak9PgpD,unsigned long	Up6gJ0,lo
 	return	-804956306;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int j31OA_K4L(short Dh19wwb,unsigned long long l6xV_S59,unsigned char Ojizt,int NZebG)
 {
  return -1701173799;

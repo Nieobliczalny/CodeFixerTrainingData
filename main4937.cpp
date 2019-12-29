@@ -20,6 +20,7 @@ unsigned short int  S5iIX(long  ftg_R,short int  E2T05_R95)
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	knKrNZ158(char	J6Ce94zZkK)
 {
 	return	681061991;

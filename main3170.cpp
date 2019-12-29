@@ -19,6 +19,7 @@ unsigned long long Qo64J(int ASMR_18U86,unsigned long long X3rxF,unsigned int l_
  return -1481413983;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int    X2LcrE98(unsigned short int    r_0y6xy,short int    lreLNofi,unsigned short    Z2kY,unsigned char    lHZVY3)
 {
     return    1081652181;
@@ -34,6 +35,7 @@ long long	Q33MF0t2(char	ClSAe,unsigned long long	bcRkHMbC)	{
 	return	-1777218583;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv)
 {
 	double	C11Zn;

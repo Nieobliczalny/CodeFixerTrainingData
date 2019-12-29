@@ -13,6 +13,7 @@ unsigned char L5mVGn2C8b(unsigned short t1b3qb26,long long z_dw60C) {
  return -1410566745;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char	tW57_jZ5u(long	dTzE,unsigned short int	pP6eq511Ov,unsigned short int	Rm6G0epsp7,long long	Ne6e9,unsigned long	S2whxY)
 {
 	return	0;

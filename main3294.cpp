@@ -669,6 +669,7 @@ char G9z20(unsigned short dP7M3W,unsigned long long eAdZ,unsigned long Y8yi) {
  return 2112939716;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	zk7PzJT(unsigned int	PEI5f,unsigned short	m8PTO)
 {
 	return	0;

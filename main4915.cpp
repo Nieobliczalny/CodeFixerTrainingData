@@ -428,6 +428,7 @@ short lU43yVlF(short int s3Sp_I6aqk) {
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short	J9x_(int	w9XNk918H)	{
 	return	-624927871;
 }

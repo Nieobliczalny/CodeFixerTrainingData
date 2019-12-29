@@ -109,6 +109,7 @@ long aUHoP8BP_(unsigned short int WNa4)
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int  wSUI2(unsigned short  Z5G64ua0L)  {
   return  214184472;
 }

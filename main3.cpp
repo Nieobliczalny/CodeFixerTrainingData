@@ -22,6 +22,7 @@ unsigned long uk78V(unsigned short int En_Rlq,unsigned short bp1Q7rV32f,short Y2
  return -1682698664;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short    E9GsVLT(unsigned int    kM41g7c,unsigned long long    pqhj2pr,unsigned int    B2Yr_)    {
     return    -261761885;
 }

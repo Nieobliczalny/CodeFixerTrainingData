@@ -421,6 +421,7 @@ unsigned char    EhB3X6uwD(unsigned short    oZg5)
     return    -1663336658;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short D6fANiby4i(unsigned short int ow0wuzxV) {
  return 0;
 }

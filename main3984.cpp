@@ -17,6 +17,7 @@ unsigned short int	Sd6KDqA(unsigned int	Jk48R)
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int	oddiHZ25s(unsigned int	CFo2,unsigned short	r8aNx7bA,int	RrbHl,int	R4T4Xr)	{
 	return	-149666421;
 }

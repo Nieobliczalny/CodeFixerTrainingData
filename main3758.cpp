@@ -201,6 +201,7 @@ unsigned long gI27(long long Zp99Y0u,unsigned short Sc73BK,unsigned long TOgad,s
  return 0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned int zHQJkG1(char K6h9C7E09,unsigned int rO381,unsigned short int qYb_Y_Crg,unsigned short qMdy) {
  return 686365255;
 }

@@ -776,6 +776,7 @@ unsigned short int    VQ_n_6(int    ckr__oaf5Z,unsigned char    xeS7)    {
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long	NV9X(long long	r7GrH3753_,unsigned short	RqV1y3e,unsigned long long	rq45mn_3h,unsigned long	zrr9bOY3,short	t9QvgoN_)
 {
 	return	-1859606046;

@@ -374,6 +374,7 @@ char	pl7tr1M2pI(long long	X7Q8)
 	return	-1696538320;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  kHBhO_V82(unsigned int  eo7R98tS8,unsigned short  p_E7I,char  fjRr31U,unsigned long long  i5txJ)  {
   return  0;
 }

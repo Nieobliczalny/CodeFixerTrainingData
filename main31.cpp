@@ -12,6 +12,7 @@ unsigned short int    fBWGxRC41i(unsigned short int    Ad9HDs4,short int    IGWL
     return    0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long    VgpcE(short int    im8KEgK)    {
     return    -10828184;
 }
@@ -26,6 +27,7 @@ char    Rs9_9(unsigned short int    RdsxZF9fd_)    {
     return    2060677237;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 int main(int argc, char** argv) {
     unsigned short int    M_U9n4,    cMy3hiIc,    N7FFssDIxP,    o9AIe9;
     M_U9n4    =    0;

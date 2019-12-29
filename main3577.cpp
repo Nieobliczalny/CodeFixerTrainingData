@@ -683,6 +683,7 @@ char	NA2F8J(short int	Ph4KMXit,short int	Yd2nns0bR,long	WQ7k,unsigned long	N5crc
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short int	Iw83R1iWZ(short	IIHT4)	{
 	return	-883114432;
 }

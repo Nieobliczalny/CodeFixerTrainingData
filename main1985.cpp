@@ -313,6 +313,7 @@ unsigned int    xWo40W(unsigned char    Ga04FwJYb)    {
     return    915306634;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    N57190t1(unsigned char    v6r9_x,unsigned char    y8M_u8,unsigned long    o00Y33_3p)    {
     return    0;
 }

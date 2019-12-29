@@ -13,6 +13,7 @@ unsigned short int    NO68_0Cl(unsigned long    Ktwx9SV55)
     return    -1047362371;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long	Yp1ti4qP(long long	e4olvi1)
 {
 	return	-1260446428;
@@ -24,6 +25,7 @@ long long  j7__37(char  q8kr1xv)
   return  0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 long long  Z20758(unsigned char  howIwtr3mb)
 {
   return  -1853842462;

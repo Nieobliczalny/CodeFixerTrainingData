@@ -15,6 +15,7 @@ unsigned char	v4oxSho(unsigned short int	yQfs7ez,short int	nZ1n)
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long long    I0D9n(char    zyOCBF_d,unsigned short int    OxSIx4,long    Pp9QS5d5,short int    J50T58EhX)    {
     return    1661391031;
 }

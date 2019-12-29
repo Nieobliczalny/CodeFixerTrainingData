@@ -23,6 +23,7 @@ short int    EaJga(long    tLkfz,unsigned short    INfrcTIa6_)
     return    -1735868924;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 char  H_00(short  U7nwEmx00)
 {
   return  0;

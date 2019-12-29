@@ -14,6 +14,7 @@ short    sVlxI(long long    WV7T,long long    KCdm81nj)
     return    1283192341;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned char    br4n4NPUL(short int    hmrAw_VCD)    {
     return    0;
 }

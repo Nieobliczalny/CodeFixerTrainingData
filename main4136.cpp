@@ -23,6 +23,7 @@ short int  JTynoGfv1S()
   return  459665813;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short DJL_bCOGy(unsigned char f2Qm9Ci9xV)
 {
  return 0;

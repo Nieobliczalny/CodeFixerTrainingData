@@ -16,6 +16,7 @@ unsigned short int	v1R_(unsigned int	a6V5D)
 	return	0;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short int t2c3rXGE(unsigned char i2QO09Kb,int Yf5B3G,long O60bw5vQJ7) {
  return -316673263;
 }

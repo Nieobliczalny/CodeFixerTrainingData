@@ -17,6 +17,7 @@ short	tIhVW(unsigned long	O2ome6n5,long	Mk4D_8,unsigned int	Z7aUQ1qe5c)	{
 	return	147347758;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned long	z772ZV(unsigned long	Srwz1GaIA,long	ptTmtfGo43,long	KY1nS,char	d9BR)	{
 	return	509518569;
 }

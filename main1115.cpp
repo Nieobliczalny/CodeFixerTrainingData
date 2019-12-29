@@ -13,6 +13,7 @@ unsigned char EHEKZRz(int toV_Ygp__,char Ba25581,long HneliEYI,long bM_W_0_g,uns
  return 103733900;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 short DWSzVfsW(unsigned long long vbVuPm10,long long r6j19o5,long long igA3HP8,short int QL8CUZnI,long long jWZS7v8y1)
 {
  return -670760509;

@@ -635,6 +635,7 @@ short  BY1_(short int  No_YUvy6Y)
   return  -1947925490;
 }
 
+// codechecker_intentional [clang-diagnostic-unused-parameter] Suppress
 unsigned short  A9bp476(short  pbZIoa)
 {
   return  -940917627;
